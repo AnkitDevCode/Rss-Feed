@@ -1,9 +1,26 @@
 {
   "feeds": [
+    { "name": "OpenAI Blog", "url": "https://openai.com/blog/rss", "icon": "🤖" },
+    { "name": "Google AI Blog", "url": "https://ai.googleblog.com/atom.xml", "icon": "🔬" },
+    { "name": "DeepMind Blog", "url": "https://deepmind.com/blog/feed/basic/", "icon": "🧬" },
+    { "name": "Anthropic Blog", "url": "https://www.anthropic.com/news/rss", "icon": "🦾" },
+    { "name": "Hugging Face Blog", "url": "https://huggingface.co/blog/feed.xml", "icon": "🤗" },
+    { "name": "Microsoft Research", "url": "https://www.microsoft.com/en-us/research/feed/", "icon": "🧠" },
+    { "name": "Uber Engineering", "url": "https://eng.uber.com/feed/", "icon": "🚕" },
+    { "name": "Airbnb Engineering", "url": "https://medium.com/feed/airbnb-engineering", "icon": "🏡" },
+    { "name": "Netflix Tech Blog", "url": "https://netflixtechblog.com/feed", "icon": "🎬" },
+    { "name": "Meta AI", "url": "https://ai.meta.com/blog/rss", "icon": "📘" },
+    { "name": "LinkedIn Engineering", "url": "https://engineering.linkedin.com/blog.rss", "icon": "🔗" },
+    { "name": "Spotify Engineering", "url": "https://engineering.atspotify.com/feed/", "icon": "🎶" },
+    { "name": "MIT Technology Review – AI", "url": "https://www.technologyreview.com/feed/", "icon": "📚" },
+    { "name": "VentureBeat – AI", "url": "https://venturebeat.com/category/ai/feed/", "icon": "🏢" },
+    { "name": "ArXiv – Machine Learning", "url": "http://export.arxiv.org/rss/stat.ML", "icon": "🧮" },
+    { "name": "Papers With Code", "url": "https://paperswithcode.com/rss", "icon": "📜" },
+    { "name": "Towards Data Science", "url": "https://towardsdatascience.com/feed", "icon": "📈" },
+    { "name": "KDnuggets", "url": "https://www.kdnuggets.com/feed", "icon": "🔎" },
+    { "name": "freeCodeCamp", "url": "https://www.freecodecamp.org/news/rss/", "icon": "🎓" },
     { "name": "Dev.to", "url": "https://dev.to/feed/ankitdevcode", "icon": "🚀" },
     { "name": "GitHub Blog", "url": "https://github.blog/feed/", "icon": "🐙" },
-    { "name": "OpenAI Blog", "url": "https://openai.com/blog/rss", "icon": "🤖" },
-    { "name": "freeCodeCamp", "url": "https://www.freecodecamp.org/news/rss/", "icon": "🎓" },
-    { "name": "CSS-Tricks", "url": "https://css-tricks.com/feed/", "icon": "🎨" }
+    { "name": "Hacker News", "url": "https://hnrss.org/frontpage", "icon": "📰" }
   ]
 }
