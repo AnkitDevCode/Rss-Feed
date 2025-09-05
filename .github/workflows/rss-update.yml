@@ -1,0 +1,78 @@
+name: Update RSS Feed
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # every 6 hours
+  workflow_dispatch:        # manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install rss-parser
+        run: npm install rss-parser
+
+      - name: Generate latest articles (collapsible style)
+        run: |
+          node - <<'EOF'
+          const fs = require('fs');
+          const Parser = require('rss-parser');
+          const parser = new Parser();
+
+          const config = JSON.parse(fs.readFileSync('rss-feeds.json', 'utf8'));
+          let sections = [];
+
+          (async () => {
+            for (const feed of config.feeds) {
+              try {
+                const parsed = await parser.parseURL(feed.url);
+                let posts = parsed.items.slice(0, 5).map(item => {
+                  const date = item.pubDate || item.isoDate || "";
+                  const formattedDate = date ? ` *(${new Date(date).toISOString().split("T")[0]})*` : "";
+                  return `- [${item.title}](${item.link})${formattedDate}`;
+                }).join("\n");
+            sections.push(
+            `<details>
+            <summary>${feed.icon || "📰"} ${feed.name}</summary>
+            
+            ${posts}
+            
+            </details>
+            
+            `
+            );
+              } catch (e) {
+                console.error(`⚠️ Failed to fetch: ${feed.url}`);
+              }
+            }
+
+            // Build markdown
+            let markdown = "\n" + sections.join("\n") + "\n";
+
+            // Replace markers in README
+            let readme = fs.readFileSync("README.md", "utf8");
+            const start = "<!-- BLOG-POST-LIST:START -->";
+            const end = "<!-- BLOG-POST-LIST:END -->";
+            const regex = new RegExp(`${start}[\\s\\S]*?${end}`, "m");
+            readme = readme.replace(regex, `${start}\n${markdown}${end}`);
+            fs.writeFileSync("README.md", readme);
+          })();
+          EOF
+
+      - name: Commit & Push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "📝 Update latest articles" || echo "No changes"
+          git push
