@@ -1,0 +1,9 @@
+{
+  "feeds": [
+    { "name": "Dev.to", "url": "https://dev.to/feed/ankitdevcode", "icon": "🚀" },
+    { "name": "GitHub Blog", "url": "https://github.blog/feed/", "icon": "🐙" },
+    { "name": "OpenAI Blog", "url": "https://openai.com/blog/rss", "icon": "🤖" },
+    { "name": "freeCodeCamp", "url": "https://www.freecodecamp.org/news/rss/", "icon": "🎓" },
+    { "name": "CSS-Tricks", "url": "https://css-tricks.com/feed/", "icon": "🎨" }
+  ]
+}
