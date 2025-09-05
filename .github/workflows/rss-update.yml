@@ -2,7 +2,7 @@ name: Update RSS Feed
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # every 6 hours
+    - cron: "0 */6 * * *"   # every 6 hours
   workflow_dispatch:        # manual trigger
 
 jobs:
@@ -19,7 +19,7 @@ jobs:
         with:
           node-version: 18
 
-      - name: Install rss-parser
+      - name: Install dependencies
         run: npm install rss-parser
 
       - name: Generate latest articles (collapsible style)
@@ -41,31 +41,33 @@ jobs:
                   const formattedDate = date ? ` *(${new Date(date).toISOString().split("T")[0]})*` : "";
                   return `- [${item.title}](${item.link})${formattedDate}`;
                 }).join("\n");
-            sections.push(
-            `<details>
-            <summary>${feed.icon || "📰"} ${feed.name}</summary>
-            
-            ${posts}
-            
-            </details>
-            
-            `
-            );
+
+                sections.push(
+          `<details>
+          <summary>${feed.icon || "📰"} ${feed.name}</summary>
+          
+          ${posts}
+          
+          </details>`
+                );
               } catch (e) {
                 console.error(`⚠️ Failed to fetch: ${feed.url}`);
               }
             }
 
             // Build markdown
-            let markdown = "\n" + sections.join("\n") + "\n";
+            let markdown = "\n" + sections.join("\n\n") + "\n";
 
-            // Replace markers in README
-            let readme = fs.readFileSync("README.md", "utf8");
-            const start = "<!-- BLOG-POST-LIST:START -->";
-            const end = "<!-- BLOG-POST-LIST:END -->";
-            const regex = new RegExp(`${start}[\\s\\S]*?${end}`, "m");
-            readme = readme.replace(regex, `${start}\n${markdown}${end}`);
-            fs.writeFileSync("README.md", readme);
+            // Replace markers in README.md
+            for (const file of ["README.md", "index.html"]) {
+              if (!fs.existsSync(file)) continue;
+              let content = fs.readFileSync(file, "utf8");
+              const start = "<!-- BLOG-POST-LIST:START -->";
+              const end = "<!-- BLOG-POST-LIST:END -->";
+              const regex = new RegExp(`${start}[\\s\\S]*?${end}`, "m");
+              content = content.replace(regex, `${start}\n${markdown}${end}`);
+              fs.writeFileSync(file, content);
+            }
           })();
           EOF
 
@@ -73,6 +75,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add README.md index.html || true
           git commit -m "📝 Update latest articles" || echo "No changes"
           git push
