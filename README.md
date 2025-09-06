@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Tylenol-maker shares hit after report RFK Jr will suggest autism link](https://www.bbc.com/news/articles/cx25l92q9xgo) (2025-09-06)
+- [A Software Development Methodology for Disciplined LLM Collaboration](https://github.com/Varietyz/Disciplined-AI-Software-Development) (2025-09-06)
+- [Let us git rid of it, angry GitHub users say of forced Copilot features](https://www.theregister.com/2025/09/05/github_copilot_complaints/) (2025-09-06)
 - [Rug pulls, forks, and open-source feudalism](https://lwn.net/SubscriberLink/1036465/e80ebbc4cee39bfb/) (2025-09-06)
 - [Developing a Space Flight Simulator in Clojure](https://www.wedesoft.de/software/2025/09/05/clojure-game/) (2025-09-06)
-- [GLM 4.5 with Claude Code](https://docs.z.ai/guides/llm/glm-4.5) (2025-09-06)
-- [The Universe Within 12.5 Light Years](http://www.atlasoftheuniverse.com/12lys.html) (2025-09-05)
-- [Quantum Mechanics, Concise Book](https://github.com/basketballguy999/Quantum-Mechanics-Concise-Book) (2025-09-05)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [MAGA populists call for holy war against Big Tech](https://www.theverge.com/politics/773154/maga-tech-right-ai-natcon) (2025-09-06)
 - [First look: Dyson’s Spot+Scrub Ai robot seeks out stains](https://www.theverge.com/ifa-berlin/772423/dyson-spot-scrub-ai-robot-vacuum-mop-multifunction-dock-first-look) (2025-09-06)
 - [The best robot vacuums we&#8217;ve tested for 2025](https://www.theverge.com/22997597/best-robot-vacuum-cleaner) (2025-09-05)
 - [Silicon Valley’s most powerful alliance just got stronger](https://www.theverge.com/command-line-newsletter/773260/google-apple-search-deal-money-ai) (2025-09-05)
 - [Classic Sesame Street episodes are coming to YouTube](https://www.theverge.com/news/773164/youtube-sesame-street-classic-episodes-netflix) (2025-09-05)
-- [Anthropic to pay $1.5 billion to authors in landmark AI settlement](https://www.theverge.com/anthropic/773087/anthropic-to-pay-1-5-billion-to-authors-in-landmark-ai-settlement) (2025-09-05)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Ever wished programming languages spoke more like humans?](https://dev.to/emmanuel_lijo_6fa821ceec8/ever-wished-programming-languages-spoke-more-like-humans-57o1) (2025-09-06)
-- [15 ways your website loads from Google Search and how to measure each one](https://dev.to/paweldev/15-ways-your-website-loads-from-google-search-and-how-to-measure-each-one-59jg) (2025-09-06)
-- [What's the Difference Between localStorage and NonLocalStorage? A Developer's Guide](https://dev.to/adrai/whats-the-difference-between-localstorage-and-nonlocalstorage-a-developers-guide-4bim) (2025-09-06)
-- [Part-40: Google Serverless Cloud Run Services and Jobs](https://dev.to/latchudevops/part-40-google-serverless-cloud-run-services-and-jobs-42gh) (2025-09-06)
-- [ReUniteME – Using MERN to Help Families Reconnect with Missing Persons](https://dev.to/jeelion22/reuniteme-using-mern-to-help-families-reconnect-with-missing-persons-57pe) (2025-09-06)
+- [Microfrontends: Guide to Modern Frontend Architecture](https://dev.to/mcheremnov/microfrontends-guide-to-modern-frontend-architecture-4bc8) (2025-09-06)
+- [3 Errors in the Front-End Architecture that Slow Down Your Projects](https://dev.to/aleksandr_ryzhikov/3-errors-in-the-front-end-architecture-that-slow-down-your-projects-2edl) (2025-09-06)
+- [AI Rules files for Angular Material](https://dev.to/ngmaterialdev/rules-files-for-angular-material-19ni) (2025-09-06)
+- [Tame Impala - Loser (Official Video)](https://dev.to/highcenburg/tame-impala-loser-official-video-3m6l) (2025-09-06)
+- [Sushify - A New Free & Essential Tool For AI App Developers](https://dev.to/isaachagoel/sushify-a-new-free-essential-tool-for-ai-app-developers-45n6) (2025-09-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The BEAM VM Is the Most Underrated Piece of Tech You’ve Never Heard Of](https://medium.com/@neerupujari5/the-beam-vm-is-the-most-underrated-piece-of-tech-youve-never-heard-of-da9fa3cb1e52?source=rss------programming-5) (2025-09-06)
-- [5 Emerging Technology Trends That Will Dominate 2025 (And How They’ll Shape Your Life)](https://medium.com/@karmakoders/5-emerging-technology-trends-that-will-dominate-2025-and-how-theyll-shape-your-life-a55d7b3fbb2a?source=rss------programming-5) (2025-09-06)
-- [Tamannaah Bhatia is one of the most versatile and talented actresses in Indian cinema.](https://medium.com/@ankitdamodar89/tamannaah-bhatia-is-one-of-the-most-versatile-and-talented-actresses-in-indian-cinema-390bc364db52?source=rss------programming-5) (2025-09-06)
-- [ Advanced JavaScript Tips That’ll Make You Go “Whoa!” ](https://medium.com/@TheblogStacker/advanced-javascript-tips-thatll-make-you-go-whoa-c0d7a68116c8?source=rss------programming-5) (2025-09-06)
-- [From Zero to $2K/Month: My Journey Selling Code Snippets](https://medium.com/technology-core/from-zero-to-2k-month-my-journey-selling-code-snippets-bdcc49e817e1?source=rss------programming-5) (2025-09-06)
+- [React Best Practices ✍️](https://medium.com/@errichagautam1111/react-best-practices-%EF%B8%8F-915e065461e2?source=rss------programming-5) (2025-09-06)
+- [09370750325](https://medium.com/@shmarhkhalhmshhdy03/09370750325-d01100acf22e?source=rss------programming-5) (2025-09-06)
+- [GitHub Copilot vs. Local LLMs: Which One Actually Makes You Faster in Go?](https://elsyarifx.medium.com/github-copilot-vs-local-llms-which-one-actually-makes-you-faster-in-go-b0b7598d1225?source=rss------programming-5) (2025-09-06)
+- [09370750325](https://medium.com/@shmarhkhalhmshhdy03/09370750325-e0770d6ffa14?source=rss------programming-5) (2025-09-06)
+- [09370750325](https://medium.com/@shmarhkhalhmshhdy03/09370750325-848e985f0164?source=rss------programming-5) (2025-09-06)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Azure mandatory multifactor authentication: Phase 2 starting in October 2025](https://azure.microsoft.com/en-us/blog/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/) (2025-09-05)
-- [Microsoft Cost Management updates—July & August 2025](https://azure.microsoft.com/en-us/blog/microsoft-cost-management-updates-july-august-2025/) (2025-09-04)
 - [Agent Factory: From prototype to production—developer tools and rapid agent development](https://azure.microsoft.com/en-us/blog/agent-factory-from-prototype-to-production-developer-tools-and-rapid-agent-development/) (2025-09-03)
 - [Agent Factory: Top 5 agent observability best practices for reliable AI](https://azure.microsoft.com/en-us/blog/agent-factory-top-5-agent-observability-best-practices-for-reliable-ai/) (2025-08-27)
 - [Transforming scientific discovery with Microsoft Azure and NVIDIA](https://azure.microsoft.com/en-us/blog/transforming-scientific-discovery-with-microsoft-azure-and-nvidia/) (2025-08-26)
+- [Protecting Azure Infrastructure from silicon to systems](https://azure.microsoft.com/en-us/blog/protecting-azure-infrastructure-from-silicon-to-systems/) (2025-08-25)
+- [Microsoft’s open source journey: From 20,000 lines of Linux code to AI at global scale](https://azure.microsoft.com/en-us/blog/microsofts-open-source-journey-from-20000-lines-of-linux-code-to-ai-at-global-scale/) (2025-08-22)
 
 </details>
 
