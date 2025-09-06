@@ -3,7 +3,7 @@
 > **Here’s a live-updated feed of the latest articles from across the AI & tech world.**  
 > ⏱️ *This section auto-refreshes every 6 hours using GitHub Actions.*
 
-## 📰 Latest Articles
+## 📰 Articles
 <!-- BLOG-POST-LIST:START -->
 
 <details>
