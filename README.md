@@ -1,5 +1,7 @@
-Here’s a live-updated feed of the latest articles from across the AI & tech world.  
-This section auto-refreshes every day using GitHub Actions.
+# 📰 Latest from AI & Tech  
+
+> **Here’s a live-updated feed of the latest articles from across the AI & tech world.**  
+> ⏱️ *This section auto-refreshes every 6 hours using GitHub Actions.*
 
 ## 📰 Latest Articles
 <!-- BLOG-POST-LIST:START -->
