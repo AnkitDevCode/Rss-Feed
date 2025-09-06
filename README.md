@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [EU fines Google $3.5B over adtech ‘abuse’](https://techcrunch.com/2025/09/06/eu-fines-google-3-5b-over-adtech-abuse/) (2025-09-06)
+- [The growing debate over expanding age verification laws](https://techcrunch.com/2025/09/06/wtf-is-going-on-with-age-verification-laws/) (2025-09-06)
+- [Musk’s $1T pay package is full of watered-down versions of his own broken promises](https://techcrunch.com/2025/09/06/musks-1t-pay-package-is-full-of-watered-down-versions-of-his-own-broken-promises/) (2025-09-06)
 - [OpenAI reorganizes research team behind ChatGPT’s personality](https://techcrunch.com/2025/09/05/openai-reorganizes-research-team-behind-chatgpts-personality/) (2025-09-05)
 - [Screw the money — Anthropic’s $1.5B copyright settlement sucks for writers](https://techcrunch.com/2025/09/05/screw-the-money-anthropics-1-5b-copyright-settlement-sucks-for-writers/) (2025-09-05)
-- [Personalized AI companion app Dot is shutting down](https://techcrunch.com/2025/09/05/personalized-ai-companion-app-dot-is-shutting-down/) (2025-09-05)
-- [Attorneys general warn OpenAI ‘harm to children will not be tolerated’](https://techcrunch.com/2025/09/05/attorneys-general-warn-openai-harm-to-children-will-not-be-tolerated/) (2025-09-05)
-- [Google Gemini dubbed ‘high risk’ for kids and teens in new safety assessment](https://techcrunch.com/2025/09/05/google-gemini-dubbed-high-risk-for-kids-and-teens-in-new-safety-assessment/) (2025-09-05)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Tylenol-maker shares hit after report RFK Jr will suggest autism link](https://www.bbc.com/news/articles/cx25l92q9xgo) (2025-09-06)
-- [A Software Development Methodology for Disciplined LLM Collaboration](https://github.com/Varietyz/Disciplined-AI-Software-Development) (2025-09-06)
-- [Let us git rid of it, angry GitHub users say of forced Copilot features](https://www.theregister.com/2025/09/05/github_copilot_complaints/) (2025-09-06)
-- [Rug pulls, forks, and open-source feudalism](https://lwn.net/SubscriberLink/1036465/e80ebbc4cee39bfb/) (2025-09-06)
-- [Developing a Space Flight Simulator in Clojure](https://www.wedesoft.de/software/2025/09/05/clojure-game/) (2025-09-06)
+- [Statement on discourse about ActivityPub and AT Protocol](https://github.com/swicg/general/blob/master/statements%2F2025-09-05-activitypub-and-atproto-discourse.md) (2025-09-06)
+- [Oldest Recorded Transaction](https://avi.im/blag/2025/oldest-txn/) (2025-09-06)
+- [AI surveillance should be banned while there is still time](https://gabrielweinberg.com/p/ai-surveillance-should-be-banned) (2025-09-06)
+- [996](https://lucumr.pocoo.org/2025/9/4/996/) (2025-09-06)
+- [We Hacked Burger King: How Auth Bypass Led to Drive-Thru Audio Surveillance](https://bobdahacker.com/blog/rbi-hacked-drive-thrus/) (2025-09-06)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [MAGA populists call for holy war against Big Tech](https://www.theverge.com/politics/773154/maga-tech-right-ai-natcon) (2025-09-06)
-- [First look: Dyson’s Spot+Scrub Ai robot seeks out stains](https://www.theverge.com/ifa-berlin/772423/dyson-spot-scrub-ai-robot-vacuum-mop-multifunction-dock-first-look) (2025-09-06)
-- [The best robot vacuums we&#8217;ve tested for 2025](https://www.theverge.com/22997597/best-robot-vacuum-cleaner) (2025-09-05)
-- [Silicon Valley’s most powerful alliance just got stronger](https://www.theverge.com/command-line-newsletter/773260/google-apple-search-deal-money-ai) (2025-09-05)
-- [Classic Sesame Street episodes are coming to YouTube](https://www.theverge.com/news/773164/youtube-sesame-street-classic-episodes-netflix) (2025-09-05)
+- [Pocket Scion is a synth you play with plants](https://www.theverge.com/news/773352/pocket-scion-synth-mushroom-music) (2025-09-06)
+- [Park Chan-wook&#8217;s No Other Choice is as bleak as it is hilarious](https://www.theverge.com/movie-reviews/773376/tiff-2025-no-other-choice-man-in-my-basement-reviews) (2025-09-06)
+- [Bluetti says it can reduce vanlife power installations to ‘30 minutes’](https://www.theverge.com/news/767283/all-in-one-vanlife-power-system-rvsolar-bluetti) (2025-09-06)
+- [Super Robot Wars Y plays just like a kid’s giant robo fanfiction](https://www.theverge.com/games/773191/super-robot-wars-y-impressions-demo-nintendo-switch-2) (2025-09-06)
+- [Herdling is a serene and adorable way to unwind](https://www.theverge.com/games-review/764810/herdling-panic-review-pc-switch-playstation-xbox) (2025-09-06)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Microfrontends: Guide to Modern Frontend Architecture](https://dev.to/mcheremnov/microfrontends-guide-to-modern-frontend-architecture-4bc8) (2025-09-06)
-- [3 Errors in the Front-End Architecture that Slow Down Your Projects](https://dev.to/aleksandr_ryzhikov/3-errors-in-the-front-end-architecture-that-slow-down-your-projects-2edl) (2025-09-06)
-- [AI Rules files for Angular Material](https://dev.to/ngmaterialdev/rules-files-for-angular-material-19ni) (2025-09-06)
-- [Tame Impala - Loser (Official Video)](https://dev.to/highcenburg/tame-impala-loser-official-video-3m6l) (2025-09-06)
-- [Sushify - A New Free & Essential Tool For AI App Developers](https://dev.to/isaachagoel/sushify-a-new-free-essential-tool-for-ai-app-developers-45n6) (2025-09-06)
+- [From Engineering Competitions to SaaS: How I Built Viz-CAD Without a Marketing Budget](https://dev.to/ferhatr10/from-engineering-competitions-to-saas-how-i-built-viz-cad-without-a-marketing-budget-3obo) (2025-09-06)
+- [The Game Theorists: Game Theory: Peak Actually Has LORE?!](https://dev.to/gg_news/the-game-theorists-game-theory-peak-actually-has-lore-3p1e) (2025-09-06)
+- [Ever Wonder How Your Email Actually Gets Sent? Meet the SMTP Server!](https://dev.to/lovestaco/ever-wonder-how-your-email-actually-gets-sent-meet-the-smtp-server-515p) (2025-09-06)
+- [Building PDF Editor](https://dev.to/thesukhsingh/building-pdf-editor-24ed) (2025-09-06)
+- [Complete Seaborn Tutorial (Day 01 & Day 02) — Master Data Visualization with Python, Data Analytics, AI & Machine Learning](https://dev.to/niveshbansal07/complete-seaborn-tutorial-day-01-day-02-master-data-visualization-with-python-data-4kn2) (2025-09-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [React Best Practices ✍️](https://medium.com/@errichagautam1111/react-best-practices-%EF%B8%8F-915e065461e2?source=rss------programming-5) (2025-09-06)
-- [09370750325](https://medium.com/@shmarhkhalhmshhdy03/09370750325-d01100acf22e?source=rss------programming-5) (2025-09-06)
-- [GitHub Copilot vs. Local LLMs: Which One Actually Makes You Faster in Go?](https://elsyarifx.medium.com/github-copilot-vs-local-llms-which-one-actually-makes-you-faster-in-go-b0b7598d1225?source=rss------programming-5) (2025-09-06)
-- [09370750325](https://medium.com/@shmarhkhalhmshhdy03/09370750325-e0770d6ffa14?source=rss------programming-5) (2025-09-06)
-- [09370750325](https://medium.com/@shmarhkhalhmshhdy03/09370750325-848e985f0164?source=rss------programming-5) (2025-09-06)
+- [Top SwiftUI Projects That Will Get You Hired](https://medium.com/@ios-interview/top-swiftui-projects-that-will-get-you-hired-6f14e5ebe8b9?source=rss------programming-5) (2025-09-06)
+- [Go’s Concurrency Model Is Overrated — What Breaks in Real Production](https://medium.com/@toyezyadav/gos-concurrency-model-is-overrated-what-breaks-in-real-production-9058a4e1005b?source=rss------programming-5) (2025-09-06)
+- [Embedding Interfaces in Go](https://medium.com/@AlexanderObregon/embedding-interfaces-in-go-ff85fd875be1?source=rss------programming-5) (2025-09-06)
+- [3 Simple Digital Habits to Improve Productivity](https://medium.com/@digitalhustleee/3-simple-digital-habits-to-improve-productivity-e1a06952d3a2?source=rss------programming-5) (2025-09-06)
+- [The First 90 Days of My Data Science Job (What Nobody Told Me)](https://medium.com/@zainahmad0123456/the-first-90-days-of-my-data-science-job-what-nobody-told-me-f7e13ced58d7?source=rss------programming-5) (2025-09-06)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Azure mandatory multifactor authentication: Phase 2 starting in October 2025](https://azure.microsoft.com/en-us/blog/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/) (2025-09-05)
+- [Microsoft Cost Management updates—July & August 2025](https://azure.microsoft.com/en-us/blog/microsoft-cost-management-updates-july-august-2025/) (2025-09-04)
 - [Agent Factory: From prototype to production—developer tools and rapid agent development](https://azure.microsoft.com/en-us/blog/agent-factory-from-prototype-to-production-developer-tools-and-rapid-agent-development/) (2025-09-03)
 - [Agent Factory: Top 5 agent observability best practices for reliable AI](https://azure.microsoft.com/en-us/blog/agent-factory-top-5-agent-observability-best-practices-for-reliable-ai/) (2025-08-27)
 - [Transforming scientific discovery with Microsoft Azure and NVIDIA](https://azure.microsoft.com/en-us/blog/transforming-scientific-discovery-with-microsoft-azure-and-nvidia/) (2025-08-26)
-- [Protecting Azure Infrastructure from silicon to systems](https://azure.microsoft.com/en-us/blog/protecting-azure-infrastructure-from-silicon-to-systems/) (2025-08-25)
-- [Microsoft’s open source journey: From 20,000 lines of Linux code to AI at global scale](https://azure.microsoft.com/en-us/blog/microsofts-open-source-journey-from-20000-lines-of-linux-code-to-ai-at-global-scale/) (2025-08-22)
 
 </details>
 
@@ -568,22 +568,22 @@ https://www.twilio.com/en-us/blog/insights/ai-based-email-marketing
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Hands-On with Agents SDK: Safeguarding Input and Output with Guardrails](https://towardsdatascience.com/hands-on-with-agents-sdk-safeguarding-input-and-output-with-guardrails/) (2025-09-06)
+- [Extracting Structured Data with LangExtract: A Deep Dive into LLM-Orchestrated Workflows](https://towardsdatascience.com/extracting-structured-data-with-langextract-a-deep-dive-into-llm-orchestrated-workflows/) (2025-09-06)
 - [How to Context Engineer to Optimize Question Answering Pipelines](https://towardsdatascience.com/how-to-context-engineer-to-optimize-question-answering-pipelines/) (2025-09-05)
 - [Showcasing Your Work on HuggingFace Spaces](https://towardsdatascience.com/showcasing-your-work-on-huggingface-spaces/) (2025-09-05)
 - [AI Operations Under the Hood: Challenges and Best Practices](https://towardsdatascience.com/ai-operations-under-the-hood-challenges-and-best-practices/) (2025-09-05)
-- [Zero-Inflated Data: A Comparison of Regression Models](https://towardsdatascience.com/zero-inflated-data-comparison-of-regression-models/) (2025-09-05)
-- [Tool Masking: The Layer MCP Forgot](https://towardsdatascience.com/tool-masking-the-layer-mcp-forgot/) (2025-09-05)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Noteworthy AI-Powered Dental Software in 2025](https://www.analyticsvidhya.com/blog/2025/09/ai-powered-dental-software/) (2025-09-06)
+- [Building a MCP-powered Financial Analyst](https://www.analyticsvidhya.com/blog/2025/09/building-a-mcp-powered-financial-analyst/) (2025-09-06)
 - [Is This the Last Nail in the Coffin for Indian AI Startups?](https://www.analyticsvidhya.com/blog/2025/09/indian-ai-startups/) (2025-09-05)
 - [Master ChatGPT Prompts: Pro GPT-5 Hacks No One Tells You](https://www.analyticsvidhya.com/blog/2025/09/master-chatgpt-prompts-pro-tips-gpt-5-hacks/) (2025-09-05)
 - [Guide to Visual Data Mining using Parallel Coordinates](https://www.analyticsvidhya.com/blog/2025/09/parallel-coordinates/) (2025-09-04)
-- [AI Won’t Replace All Jobs… Just the Ones You’d Start With](https://www.analyticsvidhya.com/blog/2025/09/ai-taking-jobs/) (2025-09-04)
-- [DeepSeek R1 and GRPO: Advanced RL for LLMs](https://www.analyticsvidhya.com/blog/2025/09/deepseek-r1-and-grpo/) (2025-09-03)
 
 </details>
 
