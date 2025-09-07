@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [A career is a pie-eating contest and the prize for winning is more pie](https://jason.energy/more-pie/) (2025-09-07)
+- [What is the origin of the private network address 192.168.*.*?](https://lists.ding.net/othersite/isoc-internet-history/2009/oct/msg00000.html) (2025-09-07)
+- [GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is shockingly good at search](https://simonw.substack.com/p/gpt-5-thinking-in-chatgpt-aka-research) (2025-09-07)
+- [The "impossibly small" Microdot web framework](https://lwn.net/Articles/1034121/) (2025-09-07)
 - [Unofficial Windows 11 requirements bypass tool allows disabling all AI features](https://www.neowin.net/news/unofficial-windows-11-requirements-bypass-tool-now-allows-you-to-disable-all-ai-features/) (2025-09-07)
-- [RFC 3339 vs. ISO 8601](https://ijmacd.github.io/rfc3339-iso8601/) (2025-09-07)
-- [The world has a running Rational R1000/400 computer again (2019)](https://datamuseum.dk/wiki/Rational/R1000s400/Logbook/2019#2019-10-28) (2025-09-07)
-- [Show HN: Lightweight tool for managing Linux virtual machines](https://github.com/ccheshirecat/flint) (2025-09-07)
-- [Navy SEALs reportedly killed North Korean fishermen to hide a failed mission](https://www.nytimes.com/2025/09/05/us/navy-seal-north-korea-trump-2019.html) (2025-09-07)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Computer chips, with a side of forever chemicals](https://www.theverge.com/the-stepback-newsletter/772845/computer-chips-forever-chemicals) (2025-09-07)
+- [A really cheap way to get really smart lights](https://www.theverge.com/installer-newsletter/773123/philips-hue-essentials-silksong-instagram-ipad-the-paper-installer) (2025-09-07)
 - [Pocket Scion is a synth you play with plants](https://www.theverge.com/news/773352/pocket-scion-synth-mushroom-music) (2025-09-06)
 - [Park Chan-wook&#8217;s No Other Choice is as bleak as it is hilarious](https://www.theverge.com/movie-reviews/773376/tiff-2025-no-other-choice-man-in-my-basement-reviews) (2025-09-06)
 - [Bluetti says it can reduce vanlife power installations to ‘30 minutes’](https://www.theverge.com/news/767283/all-in-one-vanlife-power-system-rvsolar-bluetti) (2025-09-06)
-- [Super Robot Wars Y plays just like a kid’s giant robo fanfiction](https://www.theverge.com/games/773191/super-robot-wars-y-impressions-demo-nintendo-switch-2) (2025-09-06)
-- [Herdling is a serene and adorable way to unwind](https://www.theverge.com/games-review/764810/herdling-panic-review-pc-switch-playstation-xbox) (2025-09-06)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Python Selenium architecture](https://dev.to/namrata_saha_f82d00e587b0/python-selenium-architecture-4ehj) (2025-09-07)
-- [Part 4: Migration to RsBuild](https://dev.to/verthon/part-4-migration-to-rsbuild-5368) (2025-09-07)
-- [Announcing The Singularity Workshop: A New FSM API for Unity](https://dev.to/trent_best_ca8617e4911baf/announcing-the-singularity-workshop-a-new-fsm-api-for-unity-48np) (2025-09-07)
-- [Loops in Svelte — {#each}, Keys, and Building a Todo App](https://dev.to/a1guy/loops-in-svelte-each-keys-and-building-a-todo-app-3p6d) (2025-09-07)
-- [The Fourth Leg of the Stool: JavaScript](https://dev.to/jimmyshoe85/the-fourth-leg-of-the-stool-javascript-3ggj) (2025-09-07)
+- [How I Built an Interactive Map of My Annapurna Circuit Trek with React and Leaflet](https://dev.to/uijunkie/how-i-built-an-interactive-map-of-my-annapurna-circuit-trek-with-react-and-leaflet-2607) (2025-09-07)
+- [Midnight ZK Circuit Playground: Web-based IDE to understand Midnight Network](https://dev.to/itsashita/midnight-zk-circuit-playground-web-based-ide-to-understand-midnight-network-3f6a) (2025-09-07)
+- [Dataverse internals: how to get the Sitemap of a given Model Driven App 🤔](https://dev.to/_neronotte/dataverse-internals-how-to-get-the-sitemap-of-a-given-model-driven-app-3j99) (2025-09-07)
+- [🔍 Mastering Change Detection in Angular: Best Practices for Performance Optimisation](https://dev.to/rohit_singh_ee84e64941db7/mastering-change-detection-in-angular-best-practices-for-performance-optimisation-3fci) (2025-09-07)
+- [Deploying a Simple App on K3S in AWS EC2 with GitHub Actions & ECR](https://dev.to/mahinshanazeer/deploying-a-simple-app-on-k3s-in-aws-ec2-with-github-actions-ecr-520j) (2025-09-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [MY STORYLINE EXPERIENCE WITH BIFROST](https://godshandaaron.medium.com/my-storyline-experience-with-bifrost-875cd646c7ec?source=rss------programming-5) (2025-09-07)
-- [useEffect kya hai ❓](https://medium.com/@errichagautam1111/useeffect-kya-hai-f5ce68faba23?source=rss------programming-5) (2025-09-07)
-- [Creating an Automated Broken Link Finder in Google Sheets](https://medium.com/@shauvik.kumar_66720/creating-an-automated-broken-link-finder-in-google-sheets-39c6ecd2ee01?source=rss------programming-5) (2025-09-07)
-- [“Vibe Coding” Is Killing Junior Developer Careers (And Nobody’s Warning You)](https://javascript.plainenglish.io/vibe-coding-is-killing-junior-developer-careers-and-nobodys-warning-you-b1fa9e7100fd?source=rss------programming-5) (2025-09-07)
-- [ -    ](https://medium.com/@ajit34555/-5c0405919858?source=rss------programming-5) (2025-09-07)
+- [09010712940شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@sjksoeidjddkkxkfddfkdkdjf/09010712940%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-4fb9291988e0?source=rss------programming-5) (2025-09-07)
+- [09389632898شماره خاله ساری شماره خاله گرگان شماره خاله بابلسر شماره خاله بابل شماره خاله کرمان…](https://medium.com/@grglysmanh/09389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%D8%A7%D8%B1%DB%8C-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D8%A7%D8%A8%D9%84%D8%B3%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D8%A7%D8%A8%D9%84-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D9%85%D8%A7%D9%86-97bd10902605?source=rss------programming-5) (2025-09-07)
+- [09010712940شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@sjksoeidjddkkxkfddfkdkdjf/09010712940%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-93ff9e9580b0?source=rss------programming-5) (2025-09-07)
+- [09370750325](https://medium.com/@shmarhkhalhmshhdy03/09370750325-611c6eb6801f?source=rss------programming-5) (2025-09-07)
+- [09370750325](https://medium.com/@shmarhkhalhmshhdy03/09370750325-8d350cc155a7?source=rss------programming-5) (2025-09-07)
 
 </details>
 
