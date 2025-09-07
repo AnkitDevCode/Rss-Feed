@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [mitchivin.com](https://mitchivin.com/) (2025-09-07)
-- [Show HN: Send kind and aspirational words to a stranger who needs it](https://kindnesssender.com/) (2025-09-06)
-- [C++26: Erroneous Behaviour](https://www.sandordargo.com/blog/2025/02/05/cpp26-erroneous-behaviour) (2025-09-06)
-- [A history of metaphorical brain talk in psychiatry](https://www.nature.com/articles/s41380-025-03053-6) (2025-09-06)
-- [Rust tool for generating random fractals](https://github.com/benjaminrall/chaos-game) (2025-09-06)
+- [Unofficial Windows 11 requirements bypass tool allows disabling all AI features](https://www.neowin.net/news/unofficial-windows-11-requirements-bypass-tool-now-allows-you-to-disable-all-ai-features/) (2025-09-07)
+- [RFC 3339 vs. ISO 8601](https://ijmacd.github.io/rfc3339-iso8601/) (2025-09-07)
+- [The world has a running Rational R1000/400 computer again (2019)](https://datamuseum.dk/wiki/Rational/R1000s400/Logbook/2019#2019-10-28) (2025-09-07)
+- [Show HN: Lightweight tool for managing Linux virtual machines](https://github.com/ccheshirecat/flint) (2025-09-07)
+- [Navy SEALs reportedly killed North Korean fishermen to hide a failed mission](https://www.nytimes.com/2025/09/05/us/navy-seal-north-korea-trump-2019.html) (2025-09-07)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Build Faster, Lighter, Smarter Websites with Astro](https://dev.to/muhammad_moon_a4f4d3197cb/build-faster-lighter-smarter-websites-with-astro-26h3) (2025-09-07)
-- [Tech Trend Blog list over 200 blogs](https://dev.to/0xkoji/tech-trend-blog-list-over-200-blogs-34ng) (2025-09-07)
-- [Draw and get judged by an AI](https://dev.to/adzhydra/million-dollar-idea-2859) (2025-09-07)
-- [Article 1 : Intro to Gen AI ,LLMS and LangChain Frameworks(Part B)](https://dev.to/raunaklallala/article-1-intro-to-gen-ai-llms-and-langchain-frameworkspart-b-1f84) (2025-09-07)
-- [IGN: Hollow Knight: Silksong - How to Get the Crest of Beast | Savage Beastfly Boss Guide](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-get-the-crest-of-beast-savage-beastfly-boss-guide-k4h) (2025-09-07)
+- [Python Selenium architecture](https://dev.to/namrata_saha_f82d00e587b0/python-selenium-architecture-4ehj) (2025-09-07)
+- [Part 4: Migration to RsBuild](https://dev.to/verthon/part-4-migration-to-rsbuild-5368) (2025-09-07)
+- [Announcing The Singularity Workshop: A New FSM API for Unity](https://dev.to/trent_best_ca8617e4911baf/announcing-the-singularity-workshop-a-new-fsm-api-for-unity-48np) (2025-09-07)
+- [Loops in Svelte — {#each}, Keys, and Building a Todo App](https://dev.to/a1guy/loops-in-svelte-each-keys-and-building-a-todo-app-3p6d) (2025-09-07)
+- [The Fourth Leg of the Stool: JavaScript](https://dev.to/jimmyshoe85/the-fourth-leg-of-the-stool-javascript-3ggj) (2025-09-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [7 Advanced Cargo Workspace Patterns to Streamline Your Multi-Crate Rust Project Management](https://medium.techkoalainsights.com/7-advanced-cargo-workspace-patterns-to-streamline-your-multi-crate-rust-project-management-b135f72b3293?source=rss------programming-5) (2025-09-07)
-- [Google Gemini AI Labeled “High Risk” for Kids: What Parents & Teens Need to Know](https://python.plainenglish.io/google-gemini-ai-labeled-high-risk-for-kids-what-parents-teens-need-to-know-fec4ed287288?source=rss------programming-5) (2025-09-07)
-- [✅ *10 ChatGPT Prompts to Learn Stock Market & Trading* ](https://muniyandis.medium.com/10-chatgpt-prompts-to-learn-stock-market-trading-4c7d37cf3a9b?source=rss------programming-5) (2025-09-07)
-- [Migrate from Defactor (FACTR) to Defactor(REAL)](https://medium.com/@Rexasfinance23/migrate-from-defactor-factr-to-defactor-real-19032a52ae52?source=rss------programming-5) (2025-09-07)
-- [09013027390](https://medium.com/@hsnngar171/09013027390-9925203ee010?source=rss------programming-5) (2025-09-07)
+- [MY STORYLINE EXPERIENCE WITH BIFROST](https://godshandaaron.medium.com/my-storyline-experience-with-bifrost-875cd646c7ec?source=rss------programming-5) (2025-09-07)
+- [useEffect kya hai ❓](https://medium.com/@errichagautam1111/useeffect-kya-hai-f5ce68faba23?source=rss------programming-5) (2025-09-07)
+- [Creating an Automated Broken Link Finder in Google Sheets](https://medium.com/@shauvik.kumar_66720/creating-an-automated-broken-link-finder-in-google-sheets-39c6ecd2ee01?source=rss------programming-5) (2025-09-07)
+- [“Vibe Coding” Is Killing Junior Developer Careers (And Nobody’s Warning You)](https://javascript.plainenglish.io/vibe-coding-is-killing-junior-developer-careers-and-nobodys-warning-you-b1fa9e7100fd?source=rss------programming-5) (2025-09-07)
+- [ -    ](https://medium.com/@ajit34555/-5c0405919858?source=rss------programming-5) (2025-09-07)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Azure mandatory multifactor authentication: Phase 2 starting in October 2025](https://azure.microsoft.com/en-us/blog/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/) (2025-09-05)
 - [Microsoft Cost Management updates—July & August 2025](https://azure.microsoft.com/en-us/blog/microsoft-cost-management-updates-july-august-2025/) (2025-09-04)
 - [Agent Factory: From prototype to production—developer tools and rapid agent development](https://azure.microsoft.com/en-us/blog/agent-factory-from-prototype-to-production-developer-tools-and-rapid-agent-development/) (2025-09-03)
 - [Agent Factory: Top 5 agent observability best practices for reliable AI](https://azure.microsoft.com/en-us/blog/agent-factory-top-5-agent-observability-best-practices-for-reliable-ai/) (2025-08-27)
 - [Transforming scientific discovery with Microsoft Azure and NVIDIA](https://azure.microsoft.com/en-us/blog/transforming-scientific-discovery-with-microsoft-azure-and-nvidia/) (2025-08-26)
-- [Protecting Azure Infrastructure from silicon to systems](https://azure.microsoft.com/en-us/blog/protecting-azure-infrastructure-from-silicon-to-systems/) (2025-08-25)
 
 </details>
 
