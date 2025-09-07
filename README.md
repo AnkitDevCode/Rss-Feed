@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Why is an Amazon-backed AI startup making Orson Welles fan fiction?](https://techcrunch.com/2025/09/06/why-is-an-amazon-backed-ai-startup-making-orson-welles-fan-fiction/) (2025-09-06)
 - [EU fines Google $3.5B over adtech ‘abuse’](https://techcrunch.com/2025/09/06/eu-fines-google-3-5b-over-adtech-abuse/) (2025-09-06)
 - [The growing debate over expanding age verification laws](https://techcrunch.com/2025/09/06/wtf-is-going-on-with-age-verification-laws/) (2025-09-06)
 - [Musk’s $1T pay package is full of watered-down versions of his own broken promises](https://techcrunch.com/2025/09/06/musks-1t-pay-package-is-full-of-watered-down-versions-of-his-own-broken-promises/) (2025-09-06)
 - [OpenAI reorganizes research team behind ChatGPT’s personality](https://techcrunch.com/2025/09/05/openai-reorganizes-research-team-behind-chatgpts-personality/) (2025-09-05)
-- [Screw the money — Anthropic’s $1.5B copyright settlement sucks for writers](https://techcrunch.com/2025/09/05/screw-the-money-anthropics-1-5b-copyright-settlement-sucks-for-writers/) (2025-09-05)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Statement on discourse about ActivityPub and AT Protocol](https://github.com/swicg/general/blob/master/statements%2F2025-09-05-activitypub-and-atproto-discourse.md) (2025-09-06)
-- [Oldest Recorded Transaction](https://avi.im/blag/2025/oldest-txn/) (2025-09-06)
-- [AI surveillance should be banned while there is still time](https://gabrielweinberg.com/p/ai-surveillance-should-be-banned) (2025-09-06)
-- [996](https://lucumr.pocoo.org/2025/9/4/996/) (2025-09-06)
-- [We Hacked Burger King: How Auth Bypass Led to Drive-Thru Audio Surveillance](https://bobdahacker.com/blog/rbi-hacked-drive-thrus/) (2025-09-06)
+- [mitchivin.com](https://mitchivin.com/) (2025-09-07)
+- [Show HN: Send kind and aspirational words to a stranger who needs it](https://kindnesssender.com/) (2025-09-06)
+- [C++26: Erroneous Behaviour](https://www.sandordargo.com/blog/2025/02/05/cpp26-erroneous-behaviour) (2025-09-06)
+- [A history of metaphorical brain talk in psychiatry](https://www.nature.com/articles/s41380-025-03053-6) (2025-09-06)
+- [Rust tool for generating random fractals](https://github.com/benjaminrall/chaos-game) (2025-09-06)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [From Engineering Competitions to SaaS: How I Built Viz-CAD Without a Marketing Budget](https://dev.to/ferhatr10/from-engineering-competitions-to-saas-how-i-built-viz-cad-without-a-marketing-budget-3obo) (2025-09-06)
-- [The Game Theorists: Game Theory: Peak Actually Has LORE?!](https://dev.to/gg_news/the-game-theorists-game-theory-peak-actually-has-lore-3p1e) (2025-09-06)
-- [Ever Wonder How Your Email Actually Gets Sent? Meet the SMTP Server!](https://dev.to/lovestaco/ever-wonder-how-your-email-actually-gets-sent-meet-the-smtp-server-515p) (2025-09-06)
-- [Building PDF Editor](https://dev.to/thesukhsingh/building-pdf-editor-24ed) (2025-09-06)
-- [Complete Seaborn Tutorial (Day 01 & Day 02) — Master Data Visualization with Python, Data Analytics, AI & Machine Learning](https://dev.to/niveshbansal07/complete-seaborn-tutorial-day-01-day-02-master-data-visualization-with-python-data-4kn2) (2025-09-06)
+- [Build Faster, Lighter, Smarter Websites with Astro](https://dev.to/muhammad_moon_a4f4d3197cb/build-faster-lighter-smarter-websites-with-astro-26h3) (2025-09-07)
+- [Tech Trend Blog list over 200 blogs](https://dev.to/0xkoji/tech-trend-blog-list-over-200-blogs-34ng) (2025-09-07)
+- [Draw and get judged by an AI](https://dev.to/adzhydra/million-dollar-idea-2859) (2025-09-07)
+- [Article 1 : Intro to Gen AI ,LLMS and LangChain Frameworks(Part B)](https://dev.to/raunaklallala/article-1-intro-to-gen-ai-llms-and-langchain-frameworkspart-b-1f84) (2025-09-07)
+- [IGN: Hollow Knight: Silksong - How to Get the Crest of Beast | Savage Beastfly Boss Guide](https://dev.to/gg_news/ign-hollow-knight-silksong-how-to-get-the-crest-of-beast-savage-beastfly-boss-guide-k4h) (2025-09-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Top SwiftUI Projects That Will Get You Hired](https://medium.com/@ios-interview/top-swiftui-projects-that-will-get-you-hired-6f14e5ebe8b9?source=rss------programming-5) (2025-09-06)
-- [Go’s Concurrency Model Is Overrated — What Breaks in Real Production](https://medium.com/@toyezyadav/gos-concurrency-model-is-overrated-what-breaks-in-real-production-9058a4e1005b?source=rss------programming-5) (2025-09-06)
-- [Embedding Interfaces in Go](https://medium.com/@AlexanderObregon/embedding-interfaces-in-go-ff85fd875be1?source=rss------programming-5) (2025-09-06)
-- [3 Simple Digital Habits to Improve Productivity](https://medium.com/@digitalhustleee/3-simple-digital-habits-to-improve-productivity-e1a06952d3a2?source=rss------programming-5) (2025-09-06)
-- [The First 90 Days of My Data Science Job (What Nobody Told Me)](https://medium.com/@zainahmad0123456/the-first-90-days-of-my-data-science-job-what-nobody-told-me-f7e13ced58d7?source=rss------programming-5) (2025-09-06)
+- [7 Advanced Cargo Workspace Patterns to Streamline Your Multi-Crate Rust Project Management](https://medium.techkoalainsights.com/7-advanced-cargo-workspace-patterns-to-streamline-your-multi-crate-rust-project-management-b135f72b3293?source=rss------programming-5) (2025-09-07)
+- [Google Gemini AI Labeled “High Risk” for Kids: What Parents & Teens Need to Know](https://python.plainenglish.io/google-gemini-ai-labeled-high-risk-for-kids-what-parents-teens-need-to-know-fec4ed287288?source=rss------programming-5) (2025-09-07)
+- [✅ *10 ChatGPT Prompts to Learn Stock Market & Trading* ](https://muniyandis.medium.com/10-chatgpt-prompts-to-learn-stock-market-trading-4c7d37cf3a9b?source=rss------programming-5) (2025-09-07)
+- [Migrate from Defactor (FACTR) to Defactor(REAL)](https://medium.com/@Rexasfinance23/migrate-from-defactor-factr-to-defactor-real-19032a52ae52?source=rss------programming-5) (2025-09-07)
+- [09013027390](https://medium.com/@hsnngar171/09013027390-9925203ee010?source=rss------programming-5) (2025-09-07)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Azure mandatory multifactor authentication: Phase 2 starting in October 2025](https://azure.microsoft.com/en-us/blog/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/) (2025-09-05)
 - [Microsoft Cost Management updates—July & August 2025](https://azure.microsoft.com/en-us/blog/microsoft-cost-management-updates-july-august-2025/) (2025-09-04)
 - [Agent Factory: From prototype to production—developer tools and rapid agent development](https://azure.microsoft.com/en-us/blog/agent-factory-from-prototype-to-production-developer-tools-and-rapid-agent-development/) (2025-09-03)
 - [Agent Factory: Top 5 agent observability best practices for reliable AI](https://azure.microsoft.com/en-us/blog/agent-factory-top-5-agent-observability-best-practices-for-reliable-ai/) (2025-08-27)
 - [Transforming scientific discovery with Microsoft Azure and NVIDIA](https://azure.microsoft.com/en-us/blog/transforming-scientific-discovery-with-microsoft-azure-and-nvidia/) (2025-08-26)
+- [Protecting Azure Infrastructure from silicon to systems](https://azure.microsoft.com/en-us/blog/protecting-azure-infrastructure-from-silicon-to-systems/) (2025-08-25)
 
 </details>
 
