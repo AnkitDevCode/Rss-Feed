@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Microsoft says Azure affected after cables cut in the Red Sea](https://techcrunch.com/2025/09/07/microsoft-says-azure-affected-after-cables-cut-in-the-red-sea/) (2025-09-07)
+- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/09/07/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) (2025-09-07)
 - [Why is an Amazon-backed AI startup making Orson Welles fan fiction?](https://techcrunch.com/2025/09/06/why-is-an-amazon-backed-ai-startup-making-orson-welles-fan-fiction/) (2025-09-06)
 - [EU fines Google $3.5B over adtech ‘abuse’](https://techcrunch.com/2025/09/06/eu-fines-google-3-5b-over-adtech-abuse/) (2025-09-06)
-- [The growing debate over expanding age verification laws](https://techcrunch.com/2025/09/06/wtf-is-going-on-with-age-verification-laws/) (2025-09-06)
-- [Musk’s $1T pay package is full of watered-down versions of his own broken promises](https://techcrunch.com/2025/09/06/musks-1t-pay-package-is-full-of-watered-down-versions-of-his-own-broken-promises/) (2025-09-06)
-- [OpenAI reorganizes research team behind ChatGPT’s personality](https://techcrunch.com/2025/09/05/openai-reorganizes-research-team-behind-chatgpts-personality/) (2025-09-05)
+- [The growing debate over expanding age verification laws](https://techcrunch.com/2025/09/06/the-growing-debate-over-expanding-age-verification-laws/) (2025-09-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [A career is a pie-eating contest and the prize for winning is more pie](https://jason.energy/more-pie/) (2025-09-07)
-- [What is the origin of the private network address 192.168.*.*?](https://lists.ding.net/othersite/isoc-internet-history/2009/oct/msg00000.html) (2025-09-07)
-- [GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is shockingly good at search](https://simonw.substack.com/p/gpt-5-thinking-in-chatgpt-aka-research) (2025-09-07)
-- [The "impossibly small" Microdot web framework](https://lwn.net/Articles/1034121/) (2025-09-07)
-- [Unofficial Windows 11 requirements bypass tool allows disabling all AI features](https://www.neowin.net/news/unofficial-windows-11-requirements-bypass-tool-now-allows-you-to-disable-all-ai-features/) (2025-09-07)
+- [Campfire: Web-Based Chat Application](https://github.com/basecamp/once-campfire) (2025-09-07)
+- [The MacBook has a sensor that knows the exact angle of the screen hinge](https://twitter.com/samhenrigold/status/1964428927159382261) (2025-09-07)
+- [Nepal Bans 26 Social Media Platforms, Including Facebook and YouTube](https://www.nytimes.com/2025/09/07/world/asia/nepal-bans-social-media-platforms.html) (2025-09-07)
+- [Delayed Security Patches for AOSP (Android Open Source Project)](https://twitter.com/grapheneos/status/1964561043906048183) (2025-09-07)
+- [Belling the Cat](https://en.wikipedia.org/wiki/Belling_the_Cat) (2025-09-07)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [GM slows EV production as tax credit nears expiration](https://www.theverge.com/news/773492/gm-cuts-ev-production-tax-credit) (2025-09-07)
+- [TIFF 2025: Frankenstein, Knives Out 3, and all the biggest movies from Toronto](https://www.theverge.com/film/773480/tiff-2025-frankenstein-wake-up-dead-man-movie-reviews) (2025-09-07)
+- [Volkswagen rounds out new lineup of affordable EVs with ID. Cross concept](https://www.theverge.com/news/773435/volkswagen-rounds-out-new-lineup-of-affordable-evs-with-id-cross-concept) (2025-09-07)
+- [Wake Up Dead Man adds a delightfully dark twist to Knives Out](https://www.theverge.com/movie-reviews/773429/tiff-2025-wake-up-dead-man-bad-apples-review) (2025-09-07)
 - [Computer chips, with a side of forever chemicals](https://www.theverge.com/the-stepback-newsletter/772845/computer-chips-forever-chemicals) (2025-09-07)
-- [A really cheap way to get really smart lights](https://www.theverge.com/installer-newsletter/773123/philips-hue-essentials-silksong-instagram-ipad-the-paper-installer) (2025-09-07)
-- [Pocket Scion is a synth you play with plants](https://www.theverge.com/news/773352/pocket-scion-synth-mushroom-music) (2025-09-06)
-- [Park Chan-wook&#8217;s No Other Choice is as bleak as it is hilarious](https://www.theverge.com/movie-reviews/773376/tiff-2025-no-other-choice-man-in-my-basement-reviews) (2025-09-06)
-- [Bluetti says it can reduce vanlife power installations to ‘30 minutes’](https://www.theverge.com/news/767283/all-in-one-vanlife-power-system-rvsolar-bluetti) (2025-09-06)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Porsche’s insanely clever hybrid engine comes to the 911 Turbo S](https://arstechnica.com/cars/2025/09/porsches-insanely-clever-hybrid-engine-comes-to-the-911-turbo-s/) (2025-09-07)
 - [GOP may finally succeed in unrelenting quest to kill two NASA climate satellites](https://arstechnica.com/space/2025/09/gop-may-finally-succeed-in-unrelenting-quest-to-kill-two-nasa-climate-satellites/) (2025-09-06)
 - [Who can get a COVID vaccine—and how? It’s complicated.](https://arstechnica.com/health/2025/09/who-can-get-a-covid-vaccine-and-how-its-complicated/) (2025-09-05)
 - [“First of its kind” AI settlement: Anthropic to pay authors $1.5 billion](https://arstechnica.com/tech-policy/2025/09/first-of-its-kind-ai-settlement-anthropic-to-pay-authors-1-5-billion/) (2025-09-05)
 - [What to expect (and not expect) from yet another September Apple event](https://arstechnica.com/gadgets/2025/09/what-to-expect-and-not-expect-from-yet-another-september-apple-event/) (2025-09-05)
-- [Civilization VII team at Firaxis Games faces layoffs](https://arstechnica.com/gaming/2025/09/civilization-vii-team-at-firaxis-games-faces-layoffs/) (2025-09-05)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How I Built an Interactive Map of My Annapurna Circuit Trek with React and Leaflet](https://dev.to/uijunkie/how-i-built-an-interactive-map-of-my-annapurna-circuit-trek-with-react-and-leaflet-2607) (2025-09-07)
-- [Midnight ZK Circuit Playground: Web-based IDE to understand Midnight Network](https://dev.to/itsashita/midnight-zk-circuit-playground-web-based-ide-to-understand-midnight-network-3f6a) (2025-09-07)
-- [Dataverse internals: how to get the Sitemap of a given Model Driven App 🤔](https://dev.to/_neronotte/dataverse-internals-how-to-get-the-sitemap-of-a-given-model-driven-app-3j99) (2025-09-07)
-- [🔍 Mastering Change Detection in Angular: Best Practices for Performance Optimisation](https://dev.to/rohit_singh_ee84e64941db7/mastering-change-detection-in-angular-best-practices-for-performance-optimisation-3fci) (2025-09-07)
-- [Deploying a Simple App on K3S in AWS EC2 with GitHub Actions & ECR](https://dev.to/mahinshanazeer/deploying-a-simple-app-on-k3s-in-aws-ec2-with-github-actions-ecr-520j) (2025-09-07)
+- [Getting Started with Google BigQuery: A Beginner’s Guide](https://dev.to/lovestaco/getting-started-with-google-bigquery-a-beginners-guide-3b5g) (2025-09-07)
+- [Token Payout based on Private Information: Golf Barbecue Coin (GBC)](https://dev.to/datadr1ven/token-payout-based-on-private-information-golf-barbecue-coin-gbc-38d5) (2025-09-07)
+- [DevLink: The Peer-to-Peer Toolkit for Frictionless Development](https://dev.to/guptanu/devlink-the-peer-to-peer-toolkit-for-frictionless-development-2nf0) (2025-09-07)
+- [Announcing slimcontext: A Lightweight, Model-Agnostic Chat History Compression Utility 🚀](https://dev.to/ialijr/announcing-slimcontext-a-lightweight-model-agnostic-chat-history-compression-utility-50mp) (2025-09-07)
+- [Understanding LLM Jailbreaks: Navigating the Edge of AI Safety](https://dev.to/yathin_chandra_649b921cc6/understanding-llm-jailbreaks-navigating-the-edge-of-ai-safety-1hgm) (2025-09-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09010712940شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@sjksoeidjddkkxkfddfkdkdjf/09010712940%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-4fb9291988e0?source=rss------programming-5) (2025-09-07)
-- [09389632898شماره خاله ساری شماره خاله گرگان شماره خاله بابلسر شماره خاله بابل شماره خاله کرمان…](https://medium.com/@grglysmanh/09389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%D8%A7%D8%B1%DB%8C-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D8%A7%D8%A8%D9%84%D8%B3%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D8%A7%D8%A8%D9%84-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D9%85%D8%A7%D9%86-97bd10902605?source=rss------programming-5) (2025-09-07)
-- [09010712940شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@sjksoeidjddkkxkfddfkdkdjf/09010712940%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-93ff9e9580b0?source=rss------programming-5) (2025-09-07)
-- [09370750325](https://medium.com/@shmarhkhalhmshhdy03/09370750325-611c6eb6801f?source=rss------programming-5) (2025-09-07)
-- [09370750325](https://medium.com/@shmarhkhalhmshhdy03/09370750325-8d350cc155a7?source=rss------programming-5) (2025-09-07)
+- [ How to Start Earning with an Amazon Affiliate Website (Beginner’s Guide)](https://medium.com/@fara27272010/how-to-start-earning-with-an-amazon-affiliate-website-beginners-guide-638ba524406a?source=rss------programming-5) (2025-09-07)
+- [Laravel 12.x Updates: Top 10 Features for Developers (2025 Guide)](https://medium.com/@jha.ameet/laravel-12-x-updates-top-10-features-for-developers-2025-guide-a947abc2f6e0?source=rss------programming-5) (2025-09-07)
+- [Reversing the Order of an Array with Java Loops](https://medium.com/@AlexanderObregon/reversing-the-order-of-an-array-with-java-loops-95b3546e023b?source=rss------programming-5) (2025-09-07)
+- [09370750325](https://medium.com/@nmnbbbvccxxxz/09370750325-03e42f8d10b9?source=rss------programming-5) (2025-09-07)
+- [09370750325](https://medium.com/@nmnbbbvccxxxz/09370750325-4b82b67e3869?source=rss------programming-5) (2025-09-07)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Azure mandatory multifactor authentication: Phase 2 starting in October 2025](https://azure.microsoft.com/en-us/blog/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/) (2025-09-05)
-- [Microsoft Cost Management updates—July & August 2025](https://azure.microsoft.com/en-us/blog/microsoft-cost-management-updates-july-august-2025/) (2025-09-04)
-- [Agent Factory: From prototype to production—developer tools and rapid agent development](https://azure.microsoft.com/en-us/blog/agent-factory-from-prototype-to-production-developer-tools-and-rapid-agent-development/) (2025-09-03)
 - [Agent Factory: Top 5 agent observability best practices for reliable AI](https://azure.microsoft.com/en-us/blog/agent-factory-top-5-agent-observability-best-practices-for-reliable-ai/) (2025-08-27)
 - [Transforming scientific discovery with Microsoft Azure and NVIDIA](https://azure.microsoft.com/en-us/blog/transforming-scientific-discovery-with-microsoft-azure-and-nvidia/) (2025-08-26)
+- [Protecting Azure Infrastructure from silicon to systems](https://azure.microsoft.com/en-us/blog/protecting-azure-infrastructure-from-silicon-to-systems/) (2025-08-25)
+- [Microsoft’s open source journey: From 20,000 lines of Linux code to AI at global scale](https://azure.microsoft.com/en-us/blog/microsofts-open-source-journey-from-20000-lines-of-linux-code-to-ai-at-global-scale/) (2025-08-22)
+- [Microsoft is a Leader in the 2025 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms ](https://azure.microsoft.com/en-us/blog/microsoft-is-a-leader-in-the-2025-gartner-magic-quadrant-for-cloud-native-application-platforms/) (2025-08-21)
 
 </details>
 
@@ -568,22 +568,22 @@ https://www.twilio.com/en-us/blog/insights/ai-based-email-marketing
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Beauty of Space-Filling Curves: Understanding the Hilbert Curve](https://towardsdatascience.com/the-beauty-of-space-filling-curves-understanding-the-hilbert-curve/) (2025-09-07)
+- [Preventing Context Overload: Controlled Neo4j MCP Cypher Responses for LLMs](https://towardsdatascience.com/preventing-context-overload-controlled-neo4j-mcp-cypher-responses-for-llms/) (2025-09-07)
 - [Hands-On with Agents SDK: Safeguarding Input and Output with Guardrails](https://towardsdatascience.com/hands-on-with-agents-sdk-safeguarding-input-and-output-with-guardrails/) (2025-09-06)
 - [Extracting Structured Data with LangExtract: A Deep Dive into LLM-Orchestrated Workflows](https://towardsdatascience.com/extracting-structured-data-with-langextract-a-deep-dive-into-llm-orchestrated-workflows/) (2025-09-06)
 - [How to Context Engineer to Optimize Question Answering Pipelines](https://towardsdatascience.com/how-to-context-engineer-to-optimize-question-answering-pipelines/) (2025-09-05)
-- [Showcasing Your Work on HuggingFace Spaces](https://towardsdatascience.com/showcasing-your-work-on-huggingface-spaces/) (2025-09-05)
-- [AI Operations Under the Hood: Challenges and Best Practices](https://towardsdatascience.com/ai-operations-under-the-hood-challenges-and-best-practices/) (2025-09-05)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [How To Build an LLM-Powered Application Using Prompt Engineering? ](https://www.analyticsvidhya.com/blog/2025/09/llm-powered-application-using-prompt-engineering/) (2025-09-07)
+- [Another BIG AI from China! LongCat-Flash Chat 560B](https://www.analyticsvidhya.com/blog/2025/09/longcat-flash/) (2025-09-07)
 - [Noteworthy AI-Powered Dental Software in 2025](https://www.analyticsvidhya.com/blog/2025/09/ai-powered-dental-software/) (2025-09-06)
 - [Building a MCP-powered Financial Analyst](https://www.analyticsvidhya.com/blog/2025/09/building-a-mcp-powered-financial-analyst/) (2025-09-06)
 - [Is This the Last Nail in the Coffin for Indian AI Startups?](https://www.analyticsvidhya.com/blog/2025/09/indian-ai-startups/) (2025-09-05)
-- [Master ChatGPT Prompts: Pro GPT-5 Hacks No One Tells You](https://www.analyticsvidhya.com/blog/2025/09/master-chatgpt-prompts-pro-tips-gpt-5-hacks/) (2025-09-05)
-- [Guide to Visual Data Mining using Parallel Coordinates](https://www.analyticsvidhya.com/blog/2025/09/parallel-coordinates/) (2025-09-04)
 
 </details>
 
