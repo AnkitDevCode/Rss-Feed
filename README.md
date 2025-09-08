@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [More than 10 European startups became unicorns this year](https://techcrunch.com/2025/09/08/more-than-10-european-startups-became-unicorns-this-year/) (2025-09-08)
+- [InDrive has big plans to become a global ‘super app’ where others have failed](https://techcrunch.com/2025/09/08/indrive-has-big-plans-to-become-a-global-super-app-where-others-have-failed/) (2025-09-08)
 - [Uber and Momenta to test autonomous vehicles in Germany in 2026](https://techcrunch.com/2025/09/07/uber-and-momenta-to-test-autonomous-vehicles-in-germany-in-2026/) (2025-09-08)
 - [Microsoft says Azure affected after cables cut in the Red Sea](https://techcrunch.com/2025/09/07/microsoft-says-azure-affected-after-cables-cut-in-the-red-sea/) (2025-09-07)
 - [Are bad incentives to blame for AI hallucinations?](https://techcrunch.com/2025/09/07/are-bad-incentives-to-blame-for-ai-hallucinations/) (2025-09-07)
-- [Koah raises $5M to bring ads into AI apps](https://techcrunch.com/2025/09/07/koah-raises-5m-to-bring-ads-into-ai-apps/) (2025-09-07)
-- [Hyundai’s eVTOL startup Supernal pauses work following CEO and CTO departures](https://techcrunch.com/2025/09/07/hyundais-evtol-startup-supernal-pauses-work-following-ceo-and-cto-departures/) (2025-09-07)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [AI Adoption Rate Trending Down for Large Companies](https://www.apolloacademy.com/ai-adoption-rate-trending-down-for-large-companies/) (2025-09-08)
-- ['Make invalid states unrepresentable' considered harmful](https://www.seangoedecke.com/invalid-states/) (2025-09-08)
-- [How the Slavic Migration Reshaped Central and Eastern Europe](https://www.mpg.de/25256341/0827-evan-slavic-migration-reshaped-central-and-eastern-europe-150495-x) (2025-09-08)
+- [14 Killed in protests in Nepal over social media ban](https://www.tribuneindia.com/news/world/massive-protests-in-nepal-over-social-media-ban/) (2025-09-08)
+- [RSS Beat Microsoft](https://buttondown.com/blog/rss-vs-ice) (2025-09-08)
+- [How inaccurate are Nintendo's official emulators? [video]](https://www.youtube.com/watch?v=oYjYmSniQyM) (2025-09-08)
+- [Show HN: Veena Chromatic Tuner](https://play.google.com/store/apps/details?id=in.magima.digitaltuner&hl=en_US) (2025-09-08)
 - [Using Claude Code to modernize a 25-year-old kernel driver](https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver) (2025-09-07)
-- [Formatting code should be unnecessary](https://maxleiter.com/blog/formatting) (2025-09-07)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [OpenAI comes for Hollywood with Critterz, an AI-powered animated film ](https://www.theverge.com/news/773584/openai-animated-feature-film-critterz) (2025-09-08)
+- [The influencer in this Vodafone ad isn’t real](https://www.theverge.com/news/773567/vodafone-generative-ai-ad-presenter-tiktok) (2025-09-08)
+- [Ford introduces F-150 Lightning STX to replace XLT trim](https://www.theverge.com/ford-motor-company/773017/ford-f150-lightning-stx-specs-xtl) (2025-09-08)
 - [Uber and Momenta will test fully driverless cars in Germany](https://www.theverge.com/news/772639/uber-momenta-l4-driverless-test-munich-robotaxi) (2025-09-08)
 - [Google finally details Gemini usage limits](https://www.theverge.com/news/773496/google-gemini-usage-limits) (2025-09-07)
-- [GM slows EV production as tax credit nears expiration](https://www.theverge.com/news/773492/gm-cuts-ev-production-tax-credit) (2025-09-07)
-- [TIFF 2025: Frankenstein, Knives Out 3, and all the biggest movies from Toronto](https://www.theverge.com/film/773480/tiff-2025-frankenstein-wake-up-dead-man-movie-reviews) (2025-09-07)
-- [Volkswagen rounds out new lineup of affordable EVs with ID. Cross concept](https://www.theverge.com/news/773435/volkswagen-rounds-out-new-lineup-of-affordable-evs-with-id-cross-concept) (2025-09-07)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Tiny Vinyl is a new pocketable record format for the Spotify age](https://arstechnica.com/gadgets/2025/09/tiny-vinyl-is-a-new-pocketable-record-format-for-the-spotify-age/) (2025-09-08)
 - [Porsche’s insanely clever hybrid engine comes to the 911 Turbo S](https://arstechnica.com/cars/2025/09/porsches-insanely-clever-hybrid-engine-comes-to-the-911-turbo-s/) (2025-09-07)
 - [GOP may finally succeed in unrelenting quest to kill two NASA climate satellites](https://arstechnica.com/space/2025/09/gop-may-finally-succeed-in-unrelenting-quest-to-kill-two-nasa-climate-satellites/) (2025-09-06)
 - [Who can get a COVID vaccine—and how? It’s complicated.](https://arstechnica.com/health/2025/09/who-can-get-a-covid-vaccine-and-how-its-complicated/) (2025-09-05)
 - [“First of its kind” AI settlement: Anthropic to pay authors $1.5 billion](https://arstechnica.com/tech-policy/2025/09/first-of-its-kind-ai-settlement-anthropic-to-pay-authors-1-5-billion/) (2025-09-05)
-- [What to expect (and not expect) from yet another September Apple event](https://arstechnica.com/gadgets/2025/09/what-to-expect-and-not-expect-from-yet-another-september-apple-event/) (2025-09-05)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
-- [The Download: longevity myths, and sewer-cleaning robots](https://www.technologyreview.com/2025/09/05/1123207/the-download-longevity-myths-and-sewer-cleaning-robots/) (2025-09-05)
-- [Putin says organ transplants could grant immortality. Not quite.](https://www.technologyreview.com/2025/09/05/1123113/putin-organ-transplants-immortality-longevity-replacement/) (2025-09-05)
-- [Imagining the future of banking with agentic AI](https://www.technologyreview.com/2025/09/04/1123023/imagining-the-future-of-banking-with-agentic-ai/) (2025-09-04)
-- [The Download: unnerving AI avatars, and Trump’s climate gift to China](https://www.technologyreview.com/2025/09/04/1123066/the-download-unnerving-ai-avatars-and-trumps-climate-gift-to-china/) (2025-09-04)
-- [Transforming CX with embedded real-time analytics ](https://www.technologyreview.com/2025/09/04/1122669/transforming-cx-with-embedded-real-time-analytics/) (2025-09-04)
+- [The Download: introducing our 35 Innovators Under 35 list for 2025](https://www.technologyreview.com/2025/09/08/1123361/the-download-introducing-our-35-innovators-under-35-list-for-2025/) (2025-09-08)
+- [How Trump’s policies are affecting early-career scientists—in their own words](https://www.technologyreview.com/2025/09/08/1123166/trumps-policy-early-career-scientists/) (2025-09-08)
+- [Why basic science deserves our boldest investment](https://www.technologyreview.com/2025/09/08/1123214/opinion-basic-science-research-funding/) (2025-09-08)
+- [2025 Innovator of the Year: Sneha Goenka for developing an ultra-fast sequencing technology](https://www.technologyreview.com/2025/09/08/1121509/innovator-of-the-year-sneha-goenka/) (2025-09-08)
+- [Meet the Ethiopian entrepreneur who is reinventing ammonia production](https://www.technologyreview.com/2025/09/08/1122179/iwnetim-abate-innovator-ammonia-production/) (2025-09-08)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [PKI 101: Why Public Key Infrastructure matters](https://dev.to/dcs-soni/pki-101-why-public-key-infrastructure-matters-2e9m) (2025-09-08)
-- [Will Vibe Coding Kill LowCode](https://dev.to/wyattdave/will-vibe-coding-kill-lowcode-1c37) (2025-09-08)
-- [Kubernetes Storage Playlist - Part 2: Implementing Amazon EFS Storage with EKS using Terraform and Kubernetes Manifests](https://dev.to/aws-builders/kubernetes-storage-playlist-part-2-implementing-amazon-efs-storage-with-eks-using-terraform-and-542j) (2025-09-08)
-- [Introduction to Bonds](https://dev.to/madgan95/introduction-to-bonds-3816) (2025-09-08)
-- [Distributed Systems Without the Buzzwords](https://dev.to/sibasishm/distributed-systems-without-the-buzzwords-5d8o) (2025-09-08)
+- [From Analog to Digital: Signal Simulation in MATLAB](https://dev.to/alainord/from-analog-to-digital-signal-simulation-in-matlab-3pg6) (2025-09-08)
+- [Subqueries vs. CTEs vs. Stored Procedures in SQL — Explained Simply 🚀](https://dev.to/mercy_musyoka_/subqueries-vs-ctes-vs-stored-procedures-in-sql-explained-simply-1phe) (2025-09-08)
+- [🎭 DreamLens – Turn Any Story Into a Mini Movie What I Built](https://dev.to/rohit_mane_0c56c05bfdcc75/dreamlens-turn-any-story-into-a-mini-moviewhat-i-built-45b5) (2025-09-08)
+- [KEXP: Brittany Davis - Sun And Moon (Live on KEXP)](https://dev.to/music_youtube/kexp-brittany-davis-sun-and-moon-live-on-kexp-3lpe) (2025-09-08)
+- [KEXP: Brittany Davis - Black Thunder (Live on KEXP)](https://dev.to/music_youtube/kexp-brittany-davis-black-thunder-live-on-kexp-5fj7) (2025-09-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Elevate Your Angular 17+ App with ngx-toast-notify: Simple, Customizable Notifications](https://javascript.plainenglish.io/elevate-your-angular-17-app-with-ngx-toast-notify-simple-customizable-notifications-b95f481b9254?source=rss------programming-5) (2025-09-08)
-- [EXCITING UPDATE FOR MUMU TYCOON PLAYERS.](https://medium.com/@camsycruise/exciting-update-for-mumu-tycoon-players-84890683a65a?source=rss------programming-5) (2025-09-08)
-- [ Mastering React Native Animations with Reanimated 3: A Complete Guide](https://medium.com/@theNewGenCoder/mastering-react-native-animations-with-reanimated-3-a-complete-guide-62d8733b7119?source=rss------programming-5) (2025-09-08)
-- [ Can You Guess the Output? JavaScript Questions That Will Test Even Experienced Devs (Part-1)](https://medium.com/@errichagautam1111/can-you-guess-the-output-javascript-questions-that-will-test-even-experienced-devs-part-1-9d28c7d73a4a?source=rss------programming-5) (2025-09-08)
-- [Python Battery Modeling Moves Onward with PyBaMM Version 25.8](https://medium.com/@ccpythonprogramming/python-battery-modeling-moves-onward-with-pybamm-version-25-8-299468a7dfaa?source=rss------programming-5) (2025-09-08)
+- [Mastering AbortController in JavaScript: Cancel Async Tasks Like a Pro](https://rakeshkumar-42819.medium.com/mastering-abortcontroller-in-javascript-cancel-async-tasks-like-a-pro-cd351da34e32?source=rss------programming-5) (2025-09-08)
+- [10 Mistakes Everyone Makes When Building AI Chatbots (And How I Fixed Them)](https://medium.com/codetodeploy/10-mistakes-everyone-makes-when-building-ai-chatbots-and-how-i-fixed-them-d6f6304b6992?source=rss------programming-5) (2025-09-08)
+- [End-to-End Data Migration Approach for Dynamics 365 CRM](https://medium.com/@jhs0011.anil/end-to-end-data-migration-approach-for-dynamics-365-crm-2441d35bd0b8?source=rss------programming-5) (2025-09-08)
+- [7 JavaScript Tricks So Good, They Made Me Question Everything I Knew](https://javascript.plainenglish.io/7-javascript-tricks-so-good-they-made-me-question-everything-i-knew-10f0469b95b3?source=rss------programming-5) (2025-09-08)
+- [Amazon JAVA Developer Interview Experience](https://medium.com/@pudarimadhavi99/amazon-java-developer-interview-experience-1682cb26ca25?source=rss------programming-5) (2025-09-08)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft Cost Management updates—July & August 2025](https://azure.microsoft.com/en-us/blog/microsoft-cost-management-updates-july-august-2025/) (2025-09-04)
+- [Agent Factory: From prototype to production—developer tools and rapid agent development](https://azure.microsoft.com/en-us/blog/agent-factory-from-prototype-to-production-developer-tools-and-rapid-agent-development/) (2025-09-03)
 - [Agent Factory: Top 5 agent observability best practices for reliable AI](https://azure.microsoft.com/en-us/blog/agent-factory-top-5-agent-observability-best-practices-for-reliable-ai/) (2025-08-27)
 - [Transforming scientific discovery with Microsoft Azure and NVIDIA](https://azure.microsoft.com/en-us/blog/transforming-scientific-discovery-with-microsoft-azure-and-nvidia/) (2025-08-26)
 - [Protecting Azure Infrastructure from silicon to systems](https://azure.microsoft.com/en-us/blog/protecting-azure-infrastructure-from-silicon-to-systems/) (2025-08-25)
-- [Microsoft’s open source journey: From 20,000 lines of Linux code to AI at global scale](https://azure.microsoft.com/en-us/blog/microsofts-open-source-journey-from-20000-lines-of-linux-code-to-ai-at-global-scale/) (2025-08-22)
-- [Microsoft is a Leader in the 2025 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms ](https://azure.microsoft.com/en-us/blog/microsoft-is-a-leader-in-the-2025-gartner-magic-quadrant-for-cloud-native-application-platforms/) (2025-08-21)
 
 </details>
 
@@ -458,11 +458,11 @@ https://www.twilio.com/en-us/blog/insights/ai-based-email-marketing
 <details>
 <summary>🔗 GraphQL Blog</summary>
 
+- [Introducing the New GraphQL.org: A Decade of Evolution, Redesigned](https://graphql.org/blog/2025-09-08-announcing-graphqldotorg) (2025-09-08)
+- [Announcing the September 2025 Edition of the GraphQL Specification](https://graphql.org/blog/2025-09-08-september-edition) (2025-09-08)
 - [GraphQL: Supercharging AI](https://graphql.org/blog/2025-07-03-graphql-supercharging-ai) (2025-07-03)
 - [📣 May 2025 GraphQL Foundation Board Meeting Recap](https://graphql.org/blog/2025-06-27-governing-board-recap) (2025-06-27)
 - [GraphQL.js Docs Updates, April - May 2025](https://graphql.org/blog/2025-06-26-docs-updates) (2025-06-26)
-- [🆕 Announcing graphql-js.org!](https://graphql.org/blog/2025-06-20-graphql-js-org) (2025-06-20)
-- [📣 April 2025 GraphQL Foundation Board Meeting Recap](https://graphql.org/blog/2025-05-15-governing-board-recap) (2025-05-15)
 
 </details>
 
@@ -513,11 +513,11 @@ https://www.twilio.com/en-us/blog/insights/ai-based-email-marketing
 <details>
 <summary>💬 Slack API</summary>
 
+- [How a Well-Managed Backlog Keeps Your Sprint on Track](https://slack.com/blog/productivity/how-a-well-managed-backlog-keeps-your-sprint-on-track) (2025-09-08)
+- [What is a Digital Workplace? How It Works & Why It Matters](https://slack.com/blog/transformation/what-is-a-digital-workplace-how-it-works-why-it-matters) (2025-09-08)
 - [Workforce Lab Expert Panel – AI agents and the future of work](https://slack.com/blog/news/workforce-lab-expert-panel-ai-agents-and-the-future-of-work) (2025-09-03)
 - [AI Summarization: A Guide to Conquering Information Overload](https://slack.com/blog/productivity/ai-summarization-a-guide-to-conquering-information-overload) (2025-08-31)
 - [Unlock the Full Power of Your Tech Stack with Slack Work Objects](https://slack.com/blog/news/slack-work-objects-integration) (2025-08-27)
-- [Why Your Next Big Idea Needs a Proof of Concept First](https://slack.com/blog/productivity/why-your-next-big-idea-needs-a-proof-of-concept-first) (2025-08-26)
-- [7 Team-Building Activities To Move Forward as One](https://slack.com/blog/collaboration/team-building-activities-move-forward) (2025-08-20)
 
 </details>
 
@@ -579,22 +579,11 @@ https://www.twilio.com/en-us/blog/insights/ai-based-email-marketing
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Grok Code Fast 1: New Superfast Coding Model](https://www.analyticsvidhya.com/blog/2025/09/grok-code-fast-1/) (2025-09-08)
 - [How To Build an LLM-Powered Application Using Prompt Engineering? ](https://www.analyticsvidhya.com/blog/2025/09/llm-powered-application-using-prompt-engineering/) (2025-09-07)
 - [Another BIG AI from China! LongCat-Flash Chat 560B](https://www.analyticsvidhya.com/blog/2025/09/longcat-flash/) (2025-09-07)
 - [Noteworthy AI-Powered Dental Software in 2025](https://www.analyticsvidhya.com/blog/2025/09/ai-powered-dental-software/) (2025-09-06)
 - [Building a MCP-powered Financial Analyst](https://www.analyticsvidhya.com/blog/2025/09/building-a-mcp-powered-financial-analyst/) (2025-09-06)
-- [Is This the Last Nail in the Coffin for Indian AI Startups?](https://www.analyticsvidhya.com/blog/2025/09/indian-ai-startups/) (2025-09-05)
-
-</details>
-
-<details>
-<summary>💎 KDnuggets</summary>
-
-- [Most Candidates Fail These SQL Concepts in Data Interviews](https://www.kdnuggets.com/most-candidates-fail-these-sql-concepts-in-data-interviews) (2025-09-05)
-- [Top Data Science Courses 2025](https://www.kdnuggets.com/top-data-science-courses-2025) (2025-09-05)
-- [How to Use Python’s dataclass to Write Less Code](https://www.kdnuggets.com/how-to-use-pythons-dataclass-to-write-less-code) (2025-09-04)
-- [Top 7 Small Language Models](https://www.kdnuggets.com/top-7-small-language-models) (2025-09-04)
-- [Google’s Nano-Banana Just Unlocked a New Era of Image Generation](https://www.kdnuggets.com/googles-nano-banana-just-unlocked-a-new-era-of-image-generation) (2025-09-03)
 
 </details>
 
