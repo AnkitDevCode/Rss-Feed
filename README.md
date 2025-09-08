@@ -21,32 +21,32 @@
 <summary>🚀 TechCrunch</summary>
 
 - [Microsoft says Azure affected after cables cut in the Red Sea](https://techcrunch.com/2025/09/07/microsoft-says-azure-affected-after-cables-cut-in-the-red-sea/) (2025-09-07)
+- [Are bad incentives to blame for AI hallucinations?](https://techcrunch.com/2025/09/07/are-bad-incentives-to-blame-for-ai-hallucinations/) (2025-09-07)
+- [Koah raises $5M to bring ads into AI apps](https://techcrunch.com/2025/09/07/koah-raises-5m-to-bring-ads-into-ai-apps/) (2025-09-07)
+- [Hyundai’s eVTOL startup Supernal pauses work following CEO and CTO departures](https://techcrunch.com/2025/09/07/hyundais-evtol-startup-supernal-pauses-work-following-ceo-and-cto-departures/) (2025-09-07)
 - [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/09/07/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) (2025-09-07)
-- [Why is an Amazon-backed AI startup making Orson Welles fan fiction?](https://techcrunch.com/2025/09/06/why-is-an-amazon-backed-ai-startup-making-orson-welles-fan-fiction/) (2025-09-06)
-- [EU fines Google $3.5B over adtech ‘abuse’](https://techcrunch.com/2025/09/06/eu-fines-google-3-5b-over-adtech-abuse/) (2025-09-06)
-- [The growing debate over expanding age verification laws](https://techcrunch.com/2025/09/06/the-growing-debate-over-expanding-age-verification-laws/) (2025-09-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Campfire: Web-Based Chat Application](https://github.com/basecamp/once-campfire) (2025-09-07)
-- [The MacBook has a sensor that knows the exact angle of the screen hinge](https://twitter.com/samhenrigold/status/1964428927159382261) (2025-09-07)
-- [Nepal Bans 26 Social Media Platforms, Including Facebook and YouTube](https://www.nytimes.com/2025/09/07/world/asia/nepal-bans-social-media-platforms.html) (2025-09-07)
-- [Delayed Security Patches for AOSP (Android Open Source Project)](https://twitter.com/grapheneos/status/1964561043906048183) (2025-09-07)
-- [Belling the Cat](https://en.wikipedia.org/wiki/Belling_the_Cat) (2025-09-07)
+- [Using Claude Code to modernize a forgotten Linux kernel driver](https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver) (2025-09-07)
+- [Formatting code should be unnecessary](https://maxleiter.com/blog/formatting) (2025-09-07)
+- [Detroit's Carmakers to Save Billions in Emissions Rollback](https://www.bloomberg.com/news/articles/2025-09-07/detroit-s-carmakers-to-save-billions-in-trump-emissions-rollback) (2025-09-07)
+- [The demo scene is dying, but that's alright](https://www.datagubbe.se/sceneherit/) (2025-09-07)
+- [Intel Arc Pro B50 GPU Launched at $349 for Compact Workstations](https://www.guru3d.com/story/intel-arc-pro-b50-gpu-launched-at-for-compact-workstations/) (2025-09-07)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Google finally details Gemini usage limits](https://www.theverge.com/news/773496/google-gemini-usage-limits) (2025-09-07)
 - [GM slows EV production as tax credit nears expiration](https://www.theverge.com/news/773492/gm-cuts-ev-production-tax-credit) (2025-09-07)
 - [TIFF 2025: Frankenstein, Knives Out 3, and all the biggest movies from Toronto](https://www.theverge.com/film/773480/tiff-2025-frankenstein-wake-up-dead-man-movie-reviews) (2025-09-07)
 - [Volkswagen rounds out new lineup of affordable EVs with ID. Cross concept](https://www.theverge.com/news/773435/volkswagen-rounds-out-new-lineup-of-affordable-evs-with-id-cross-concept) (2025-09-07)
 - [Wake Up Dead Man adds a delightfully dark twist to Knives Out](https://www.theverge.com/movie-reviews/773429/tiff-2025-wake-up-dead-man-bad-apples-review) (2025-09-07)
-- [Computer chips, with a side of forever chemicals](https://www.theverge.com/the-stepback-newsletter/772845/computer-chips-forever-chemicals) (2025-09-07)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Getting Started with Google BigQuery: A Beginner’s Guide](https://dev.to/lovestaco/getting-started-with-google-bigquery-a-beginners-guide-3b5g) (2025-09-07)
-- [Token Payout based on Private Information: Golf Barbecue Coin (GBC)](https://dev.to/datadr1ven/token-payout-based-on-private-information-golf-barbecue-coin-gbc-38d5) (2025-09-07)
-- [DevLink: The Peer-to-Peer Toolkit for Frictionless Development](https://dev.to/guptanu/devlink-the-peer-to-peer-toolkit-for-frictionless-development-2nf0) (2025-09-07)
-- [Announcing slimcontext: A Lightweight, Model-Agnostic Chat History Compression Utility 🚀](https://dev.to/ialijr/announcing-slimcontext-a-lightweight-model-agnostic-chat-history-compression-utility-50mp) (2025-09-07)
-- [Understanding LLM Jailbreaks: Navigating the Edge of AI Safety](https://dev.to/yathin_chandra_649b921cc6/understanding-llm-jailbreaks-navigating-the-edge-of-ai-safety-1hgm) (2025-09-07)
+- [Turbocharge Your Go Microservices: Memory Optimization Made Simple](https://dev.to/jones_charles_ad50858dbc0/turbocharge-your-go-microservices-memory-optimization-made-simple-3jf6) (2025-09-08)
+- [JavaScript Arrays Explained: Creation, Indexing, and Common Methods](https://dev.to/wisdomudo/javascript-arrays-explained-creation-indexing-and-common-methods-3hlj) (2025-09-08)
+- [🚀 From 2–5 Minutes to < 1 Second: How a Small Nginx Config Change Boosted My Website](https://dev.to/ferryops/from-2-5-minutes-to-1-second-how-a-small-nginx-config-change-boosted-my-website-4h8j) (2025-09-08)
+- [Laura Kampf: A Carry On Suitcase Made From Trash (ONE DAY BUILD)](https://dev.to/maker_youtube/laura-kampf-a-carry-on-suitcase-made-from-trash-one-day-build-knk) (2025-09-08)
+- [IGN: Genshin Impact - Official Lauma: Crown of Sacred Silver Character Trailer](https://dev.to/gg_news/ign-genshin-impact-official-lauma-crown-of-sacred-silver-character-trailer-434g) (2025-09-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ How to Start Earning with an Amazon Affiliate Website (Beginner’s Guide)](https://medium.com/@fara27272010/how-to-start-earning-with-an-amazon-affiliate-website-beginners-guide-638ba524406a?source=rss------programming-5) (2025-09-07)
-- [Laravel 12.x Updates: Top 10 Features for Developers (2025 Guide)](https://medium.com/@jha.ameet/laravel-12-x-updates-top-10-features-for-developers-2025-guide-a947abc2f6e0?source=rss------programming-5) (2025-09-07)
-- [Reversing the Order of an Array with Java Loops](https://medium.com/@AlexanderObregon/reversing-the-order-of-an-array-with-java-loops-95b3546e023b?source=rss------programming-5) (2025-09-07)
-- [09370750325](https://medium.com/@nmnbbbvccxxxz/09370750325-03e42f8d10b9?source=rss------programming-5) (2025-09-07)
-- [09370750325](https://medium.com/@nmnbbbvccxxxz/09370750325-4b82b67e3869?source=rss------programming-5) (2025-09-07)
+- [7 Hidden Cargo Features That Cut Rust Build Times and Boost Developer Productivity](https://medium.techkoalainsights.com/7-hidden-cargo-features-that-cut-rust-build-times-and-boost-developer-productivity-24d6e696a330?source=rss------programming-5) (2025-09-08)
+- [Will AI Replace Programmers? An Honest Conversation](https://davidregalado255.medium.com/will-ai-replace-programmers-an-honest-conversation-dd3828de47c9?source=rss------programming-5) (2025-09-08)
+- [09027641209شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز شماره خاله اهواز شماره خاله لاهیجان…](https://medium.com/@rwz262090/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86-9e83503e6c57?source=rss------programming-5) (2025-09-08)
+- [09027641209شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز شماره خاله اهواز شماره خاله لاهیجان…](https://medium.com/@rwz262090/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86-3e731db929bd?source=rss------programming-5) (2025-09-08)
+- [09027641209شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز شماره خاله اهواز شماره خاله لاهیجان…](https://medium.com/@rwz262090/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86-8b84a01b9f88?source=rss------programming-5) (2025-09-08)
 
 </details>
 
