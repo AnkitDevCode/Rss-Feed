@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [OpenAI denies that it’s weighing a ‘last-ditch’ California exit amid regulatory pressure over its restructuring](https://techcrunch.com/2025/09/08/openai-denies-that-its-weighing-a-last-ditch-california-exit-amid-regulatory-pressure-over-its-restructuring/) (2025-09-09)
+- [ReOrbit lands record funding to take on Musk’s Starlink from Europe](https://techcrunch.com/2025/09/08/reorbit-lands-record-funding-to-take-on-musks-starlink-from-europe/) (2025-09-09)
+- [Nepal reverses social media ban as protests turn deadly](https://techcrunch.com/2025/09/08/nepal-reverses-social-media-ban-as-protests-turn-deadly/) (2025-09-09)
+- [Snap breaks into ‘startup squads’ as ad revenue stalls](https://techcrunch.com/2025/09/08/snap-breaks-into-startup-squads-as-ad-revenue-stalls/) (2025-09-09)
 - [Intel’s chief executive of products departs among other leadership changes](https://techcrunch.com/2025/09/08/intels-chief-executive-of-products-departs-among-other-leadership-changes/) (2025-09-08)
-- [Netskope follows Rubrik as a rare cybersecurity IPO, both backed by Lightspeed](https://techcrunch.com/2025/09/08/netskope-follows-rubrik-as-a-rare-cybersecurity-ipo-both-backed-lightspeed/) (2025-09-08)
-- [Sam Altman says that bots are making social media feel ‘fake’ ](https://techcrunch.com/2025/09/08/sam-altman-says-that-bots-are-making-social-media-feel-fake/) (2025-09-08)
-- [Nuclear startup Deep Fission goes public in a curious SPAC](https://techcrunch.com/2025/09/08/nuclear-startup-deep-fission-goes-public-in-a-curious-spac/) (2025-09-08)
-- [Bluesky adds private bookmarks](https://techcrunch.com/2025/09/08/bluesky-adds-private-bookmarks/) (2025-09-08)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Storm Hits the Art Market](https://news.artnet.com/market/intelligence-report-storm-2025-2684512) (2025-09-08)
-- [Tesla market share in US drops to lowest since 2017](https://www.reuters.com/business/autos-transportation/tesla-market-share-us-drops-lowest-since-2017-competition-heats-up-2025-09-08/) (2025-09-08)
-- [Red Hat back-office team to be Big and Blue whether they like it or not](https://www.theregister.com/2025/09/08/red_hatters_to_be_big/) (2025-09-08)
-- [Liquid Glass in the Browser: Refraction with CSS and SVG](https://kube.io/blog/liquid-glass-css-svg/) (2025-09-08)
-- [Ex-WhatsApp cybersecurity head says Meta endangered billions of users](https://www.theguardian.com/technology/2025/sep/08/meta-user-data-lawsuit-whatsapp) (2025-09-08)
+- [Strong Eventual Consistency – The Big Idea Behind CRDTs](https://lewiscampbell.tech/blog/250908.html) (2025-09-09)
+- [Byte Type: Supporting Raw Data Copies in the LLVM IR](https://blog.llvm.org/posts/2025-08-29-gsoc-byte-type/) (2025-09-09)
+- [Incident Report for Anthropic](https://status.anthropic.com/incidents/72f99lh1cj2c) (2025-09-09)
+- [Show HN: Attempt – A CLI for retrying fallible commands](https://github.com/MaxBondABE/attempt) (2025-09-09)
+- [No adblocker detected](https://maurycyz.com/misc/ads/) (2025-09-09)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Software packages with more than 2 billion weekly downloads hit in supply-chain attack](https://arstechnica.com/security/2025/09/software-packages-with-more-than-2-billion-weekly-downloads-hit-in-supply-chain-attack/) (2025-09-09)
 - [Former WhatsApp security boss in lawsuit likens Meta’s culture to a “cult”](https://arstechnica.com/security/2025/09/former-whatsapp-security-boss-sues-meta-for-systemic-cybersecurity-failures/) (2025-09-08)
 - [In court filing, Google concedes the open web is in “rapid decline”](https://arstechnica.com/google/2025/09/in-court-filing-google-concedes-the-open-web-is-in-rapid-decline/) (2025-09-08)
 - [Nobel laureate David Baltimore dead at 87](https://arstechnica.com/science/2025/09/nobel-laureate-david-baltimore-dead-at-87/) (2025-09-08)
 - [On a day of rebranding at the Pentagon, this name change slipped under the radar](https://arstechnica.com/space/2025/09/the-pentagons-department-of-war-rebrand-extends-to-space/) (2025-09-08)
-- [EchoStar to sell spectrum to SpaceX after FCC threatened to revoke licenses](https://arstechnica.com/tech-policy/2025/09/spacex-complaints-to-fcc-pay-off-with-17-billion-spectrum-buy-from-echostar/) (2025-09-08)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [We built stackoverflow.ai with the community and for the community](https://stackoverflow.blog/2025/09/09/we-built-stackoverflow-ai-with-the-community-and-for-the-community/) (2025-09-09)
 - [Kotlin is more than just the Android house language](https://stackoverflow.blog/2025/09/05/kotlin-is-more-than-just-the-android-house-language/) (2025-09-05)
 - [Back to school? Developers at Stack Overflow have some advice for you](https://stackoverflow.blog/2025/09/02/back-to-school-developers-at-stack-overflow-have-some-advice-for-you/) (2025-09-02)
 - [Getting started on Stack Overflow: a step-by-step guide for students](https://stackoverflow.blog/2025/09/02/getting-started-on-stack-overflow-a-step-by-step-guide-for-students/) (2025-09-02)
 - [Stack Overflow is helping you learn to code with new resources](https://stackoverflow.blog/2025/09/02/stack-overflow-is-helping-you-learn-to-code-with-new-resources/) (2025-09-02)
-- [Introducing your newest study buddy: stackoverflow.ai](https://stackoverflow.blog/2025/09/02/introducing-your-newest-study-buddy-stackoverflow-ai/) (2025-09-02)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Power Platform Admin Center – App Access Checker](https://dev.to/nikhildynamicsce/power-platform-admin-center-app-access-checker-3125) (2025-09-09)
-- [5 UX Lessons Artificial Grass Companies Can Learn from E-commerce Leaders](https://dev.to/nzs_blogs/5-ux-lessons-artificial-grass-companies-can-learn-from-e-commerce-leaders-50e2) (2025-09-09)
-- [Beyond Uptime: Why Your All Green Dashboard is Lying to You](https://dev.to/tomcao2012/beyond-uptime-why-your-all-green-dashboard-is-lying-to-you-2b5) (2025-09-09)
-- [How to proxy Flutter's network requests to the native layer](https://dev.to/huangli_huang_12f4a0530eb/how-to-proxy-flutters-network-requests-to-the-native-layer-5b3b) (2025-09-09)
-- [Data Silos: Why Teams Keep Drowning in Their Own Information](https://dev.to/aaron_rose_0787cc8b4775a0/data-silos-why-teams-keep-drowning-in-their-own-information-j7h) (2025-09-09)
+- [Signals Form: Introduction](https://dev.to/this-is-angular/signals-form-introduction-11d1) (2025-09-09)
+- [Mastering Context and Async Data in Svelte (with Examples)](https://dev.to/a1guy/mastering-context-and-async-data-in-svelte-with-examples-31h8) (2025-09-09)
+- [CI: A Practical Guide to Continuous Integration](https://dev.to/vickdapro/ci-a-practical-guide-to-continuous-integration-f7f) (2025-09-09)
+- [Role & Permission Based Access Control in React (Static Access)](https://dev.to/naserrasouli/role-permission-based-access-control-in-react-static-access-4ac2) (2025-09-09)
+- [IGN: Indiana Jones and the Great Circle: The Order of Giants Review](https://dev.to/gg_news/ign-indiana-jones-and-the-great-circle-the-order-of-giants-review-27bi) (2025-09-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [EDMA: Energy + Blockchain With Real Utility](https://medium.com/@opeyemisaka234/edma-energy-blockchain-with-real-utility-b2becc9f45ae?source=rss------programming-5) (2025-09-09)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbccxcnnn6m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-8cc2ea928ac8?source=rss------programming-5) (2025-09-09)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbccxcnnn6m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-9d40e624ceb9?source=rss------programming-5) (2025-09-09)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbccxcnnn6m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-73911d296ee0?source=rss------programming-5) (2025-09-09)
-- [7 Advanced Go Middleware Patterns That Boost Performance and Security in Production Applications](https://medium.techkoalainsights.com/7-advanced-go-middleware-patterns-that-boost-performance-and-security-in-production-applications-0b5bc6f41f5f?source=rss------programming-5) (2025-09-09)
+- [09389632898شماره خاله یزد شماره خاله ساری شماره خاله گرگان شماره خاله بابلسر شماره خاله بابل شماره…](https://medium.com/@ngarzably81/09389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DB%8C%D8%B2%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%D8%A7%D8%B1%DB%8C-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D8%A7%D8%A8%D9%84%D8%B3%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D8%A7%D8%A8%D9%84-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-43bc8765523c?source=rss------programming-5) (2025-09-09)
+- [09389632898شماره خاله یزد شماره خاله ساری شماره خاله گرگان شماره خاله بابلسر شماره خاله بابل شماره…](https://medium.com/@ngarzably81/09389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DB%8C%D8%B2%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%D8%A7%D8%B1%DB%8C-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D8%A7%D8%A8%D9%84%D8%B3%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D8%A7%D8%A8%D9%84-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ae366f5eb9a4?source=rss------programming-5) (2025-09-09)
+- [The npm Mega-Hack: 18 Popular Packages Poisoned — What Happened, What Broke, and What You Should…](https://python.plainenglish.io/the-npm-mega-hack-18-popular-packages-poisoned-what-happened-what-broke-and-what-you-should-852486e78f06?source=rss------programming-5) (2025-09-09)
+- [Why 32GB RAM Is Overkill for 99% of Developers (You’re Wasting Money)](https://medium.com/@sohail_saifi/why-32gb-ram-is-overkill-for-99-of-developers-youre-wasting-money-6ac00ed59b08?source=rss------programming-5) (2025-09-09)
+- [The Hidden Monopoly That Controls Every Developer Tool You Use](https://medium.com/@coders.stop/the-hidden-monopoly-that-controls-every-developer-tool-you-use-d2277fb416a2?source=rss------programming-5) (2025-09-09)
 
 </details>
 
