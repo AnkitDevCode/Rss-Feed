@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/09/09/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) (2025-09-09)
+- [Blackrock-backed Minute Media acquires Indian AI startup that extracts sports highlights](https://techcrunch.com/2025/09/09/blackrock-backed-minute-media-acquires-indian-ai-startup-that-extracts-sports-highlights/) (2025-09-09)
 - [OpenAI denies that it’s weighing a ‘last-ditch’ California exit amid regulatory pressure over its restructuring](https://techcrunch.com/2025/09/08/openai-denies-that-its-weighing-a-last-ditch-california-exit-amid-regulatory-pressure-over-its-restructuring/) (2025-09-09)
 - [ReOrbit lands record funding to take on Musk’s Starlink from Europe](https://techcrunch.com/2025/09/08/reorbit-lands-record-funding-to-take-on-musks-starlink-from-europe/) (2025-09-09)
 - [Nepal reverses social media ban as protests turn deadly](https://techcrunch.com/2025/09/08/nepal-reverses-social-media-ban-as-protests-turn-deadly/) (2025-09-09)
-- [Snap breaks into ‘startup squads’ as ad revenue stalls](https://techcrunch.com/2025/09/08/snap-breaks-into-startup-squads-as-ad-revenue-stalls/) (2025-09-09)
-- [Intel’s chief executive of products departs among other leadership changes](https://techcrunch.com/2025/09/08/intels-chief-executive-of-products-departs-among-other-leadership-changes/) (2025-09-08)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Strong Eventual Consistency – The Big Idea Behind CRDTs](https://lewiscampbell.tech/blog/250908.html) (2025-09-09)
-- [Byte Type: Supporting Raw Data Copies in the LLVM IR](https://blog.llvm.org/posts/2025-08-29-gsoc-byte-type/) (2025-09-09)
-- [Incident Report for Anthropic](https://status.anthropic.com/incidents/72f99lh1cj2c) (2025-09-09)
-- [Show HN: Attempt – A CLI for retrying fallible commands](https://github.com/MaxBondABE/attempt) (2025-09-09)
-- [No adblocker detected](https://maurycyz.com/misc/ads/) (2025-09-09)
+- [UK toughens Online Safety Act with ban on self-harm content](https://www.gov.uk/government/news/online-safety-laws-to-strengthen-to-protect-people-of-all-ages-from-devastating-self-harm-content) (2025-09-09)
+- [Nango (YC W23) Is Hiring a Staff Back End Engineer (Remote)](https://jobs.ashbyhq.com/Nango/3467f495-c833-4dcc-b119-cf43b7b93f84) (2025-09-09)
+- [Hallucination Risk Calculator](https://github.com/leochlon/hallbayes) (2025-09-09)
+- [DuckDB NPM packages 1.3.3 and 1.29.2 compromised with malware](https://github.com/duckdb/duckdb-node/security/advisories/GHSA-w62p-hx95-gf2c) (2025-09-09)
+- [You too can run malware from NPM (I mean without consequences)](https://github.com/naugtur/running-qix-malware) (2025-09-09)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [AMD&#8217;s AI-powered FSR 4 upscaling is now available in most FSR 3.1 games](https://www.theverge.com/news/774142/amd-fsr-4-3-1-games-support-upscaling) (2025-09-08)
-- [Nintendo Switch modder ordered to pay $2 million in piracy lawsuit](https://www.theverge.com/news/774077/nintendo-switch-modder-ryan-daley-lawsuit) (2025-09-08)
-- [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap) (2025-09-08)
-- [Gemini app finally expands to audio files](https://www.theverge.com/ai-artificial-intelligence/774008/gemini-audio-new-languages-notebooklm-reports) (2025-09-08)
-- [Signal&#8217;s first paid feature adds encrypted media and message backups](https://www.theverge.com/news/774018/signal-encrypted-secure-backups-paid-feature-beta) (2025-09-08)
+- [Guillermo del Toro makes Frankenstein his own](https://www.theverge.com/toronto-international-film-festival/774035/tiff-2025-reviews-frankenstein-normal-eternity) (2025-09-09)
+- [Google pulls the Pixel 10’s Daily Hub to ‘enhance its performance’](https://www.theverge.com/news/774274/google-pulls-the-pixel-10s-daily-hub-to-enhance-its-performance) (2025-09-09)
+- [New Beats earbuds leak hours before Apple&#8217;s big event](https://www.theverge.com/news/774250/beats-powerbeats-fit-apple-wireless-earbuds-leak) (2025-09-09)
+- [Firefox launches ‘shake to summarize’ on iPhones](https://www.theverge.com/news/774129/firefox-shake-to-summarize-ios-ai-launch) (2025-09-09)
+- [Genki will pay Nintendo damages over 3D-printed Switch 2](https://www.theverge.com/news/774236/nintendo-switch-2-genki-lawsuit-settlement) (2025-09-09)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: meet our AI innovators, and what happens when therapists use AI covertly](https://www.technologyreview.com/2025/09/09/1123447/the-download-meet-our-ai-innovators-and-what-happens-when-therapists-use-ai-covertly/) (2025-09-09)
+- [Help! My therapist is secretly using ChatGPT](https://www.technologyreview.com/2025/09/09/1123386/help-my-therapist-is-secretly-using-chatgpt/) (2025-09-09)
+- [AI is changing the grid. Could it help more than it harms?](https://www.technologyreview.com/2025/09/09/1123404/ai-grid-help/) (2025-09-09)
+- [Three big things we still don’t know about AI’s energy burden](https://www.technologyreview.com/2025/09/09/1123408/three-big-things-we-still-dont-know-about-ais-energy-burden/) (2025-09-09)
 - [The Download: introducing our 35 Innovators Under 35 list for 2025](https://www.technologyreview.com/2025/09/08/1123361/the-download-introducing-our-35-innovators-under-35-list-for-2025/) (2025-09-08)
-- [How Trump’s policies are affecting early-career scientists—in their own words](https://www.technologyreview.com/2025/09/08/1123166/trumps-policy-early-career-scientists/) (2025-09-08)
-- [Why basic science deserves our boldest investment](https://www.technologyreview.com/2025/09/08/1123214/opinion-basic-science-research-funding/) (2025-09-08)
-- [2025 Innovator of the Year: Sneha Goenka for developing an ultra-fast sequencing technology](https://www.technologyreview.com/2025/09/08/1121509/innovator-of-the-year-sneha-goenka/) (2025-09-08)
-- [Meet the Ethiopian entrepreneur who is reinventing ammonia production](https://www.technologyreview.com/2025/09/08/1122179/iwnetim-abate-innovator-ammonia-production/) (2025-09-08)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Signals Form: Introduction](https://dev.to/this-is-angular/signals-form-introduction-11d1) (2025-09-09)
-- [Mastering Context and Async Data in Svelte (with Examples)](https://dev.to/a1guy/mastering-context-and-async-data-in-svelte-with-examples-31h8) (2025-09-09)
-- [CI: A Practical Guide to Continuous Integration](https://dev.to/vickdapro/ci-a-practical-guide-to-continuous-integration-f7f) (2025-09-09)
-- [Role & Permission Based Access Control in React (Static Access)](https://dev.to/naserrasouli/role-permission-based-access-control-in-react-static-access-4ac2) (2025-09-09)
-- [IGN: Indiana Jones and the Great Circle: The Order of Giants Review](https://dev.to/gg_news/ign-indiana-jones-and-the-great-circle-the-order-of-giants-review-27bi) (2025-09-09)
+- [Pipex: The Rust Pipeline Revolution — From Pure Functions to GPU Acceleration](https://dev.to/edransy/pipex-the-rust-pipeline-revolution-from-pure-functions-to-gpu-acceleration-2g0e) (2025-09-09)
+- [How to Build Scalable Headless WordPress Sites With React & GraphQL](https://dev.to/addwebsolutionpvtltd/how-to-build-scalable-headless-wordpress-sites-with-react-graphql-33m1) (2025-09-09)
+- [🚀 Day 11 of My Python Learning Journey](https://dev.to/_adii3107/day-11-of-my-python-learning-journey-1k17) (2025-09-09)
+- [Launch Faster: Free Multipurpose Templates for Your Next.js Project](https://dev.to/isanjayjoshi/launch-faster-free-multipurpose-templates-for-your-nextjs-project-3l7) (2025-09-09)
+- [Introducing react-night-toggle - A Simple Dark/Light Mode Switch for React](https://dev.to/praveenskg/introducing-react-night-toggle-a-simple-darklight-mode-switch-for-react-2da3) (2025-09-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09389632898شماره خاله یزد شماره خاله ساری شماره خاله گرگان شماره خاله بابلسر شماره خاله بابل شماره…](https://medium.com/@ngarzably81/09389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DB%8C%D8%B2%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%D8%A7%D8%B1%DB%8C-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D8%A7%D8%A8%D9%84%D8%B3%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D8%A7%D8%A8%D9%84-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-43bc8765523c?source=rss------programming-5) (2025-09-09)
-- [09389632898شماره خاله یزد شماره خاله ساری شماره خاله گرگان شماره خاله بابلسر شماره خاله بابل شماره…](https://medium.com/@ngarzably81/09389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DB%8C%D8%B2%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%D8%A7%D8%B1%DB%8C-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D8%A7%D8%A8%D9%84%D8%B3%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D8%A7%D8%A8%D9%84-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ae366f5eb9a4?source=rss------programming-5) (2025-09-09)
-- [The npm Mega-Hack: 18 Popular Packages Poisoned — What Happened, What Broke, and What You Should…](https://python.plainenglish.io/the-npm-mega-hack-18-popular-packages-poisoned-what-happened-what-broke-and-what-you-should-852486e78f06?source=rss------programming-5) (2025-09-09)
-- [Why 32GB RAM Is Overkill for 99% of Developers (You’re Wasting Money)](https://medium.com/@sohail_saifi/why-32gb-ram-is-overkill-for-99-of-developers-youre-wasting-money-6ac00ed59b08?source=rss------programming-5) (2025-09-09)
-- [The Hidden Monopoly That Controls Every Developer Tool You Use](https://medium.com/@coders.stop/the-hidden-monopoly-that-controls-every-developer-tool-you-use-d2277fb416a2?source=rss------programming-5) (2025-09-09)
+- [Choosing the Right iOS Architecture: A Developer’s Decision Framework](https://medium.com/@bhavinchauhan/choosing-the-right-ios-architecture-a-developers-decision-framework-3ee08eba09b9?source=rss------programming-5) (2025-09-09)
+- [Solving the MLMD Authentication Error with Kubernetes and MariaDB 10+](https://lucaberton.medium.com/solving-the-mlmd-authentication-error-with-kubernetes-and-mariadb-10-b82de5b77fbb?source=rss------programming-5) (2025-09-09)
+- [Why AI Made Me a Better Developer (After It Nearly Ruined My Career)](https://medium.com/codeelevation/why-ai-made-me-a-better-developer-after-it-nearly-ruined-my-career-a2b05ec84a14?source=rss------programming-5) (2025-09-09)
+- [7 AI Workflows So Powerful, They Turned My Productivity Into Profit Overnight](https://ai.plainenglish.io/7-ai-workflows-so-powerful-they-turned-my-productivity-into-profit-overnight-3a18d79847b2?source=rss------programming-5) (2025-09-09)
+- [Rust vs Go: The Real Cost of Developer Onboarding](https://medium.com/@toyezyadav/rust-vs-go-the-real-cost-of-developer-onboarding-90bc4dc43302?source=rss------programming-5) (2025-09-09)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Azure mandatory multifactor authentication: Phase 2 starting in October 2025](https://azure.microsoft.com/en-us/blog/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/) (2025-09-05)
 - [Microsoft Cost Management updates—July & August 2025](https://azure.microsoft.com/en-us/blog/microsoft-cost-management-updates-july-august-2025/) (2025-09-04)
 - [Agent Factory: From prototype to production—developer tools and rapid agent development](https://azure.microsoft.com/en-us/blog/agent-factory-from-prototype-to-production-developer-tools-and-rapid-agent-development/) (2025-09-03)
 - [Agent Factory: Top 5 agent observability best practices for reliable AI](https://azure.microsoft.com/en-us/blog/agent-factory-top-5-agent-observability-best-practices-for-reliable-ai/) (2025-08-27)
 - [Transforming scientific discovery with Microsoft Azure and NVIDIA](https://azure.microsoft.com/en-us/blog/transforming-scientific-discovery-with-microsoft-azure-and-nvidia/) (2025-08-26)
+- [Protecting Azure Infrastructure from silicon to systems](https://azure.microsoft.com/en-us/blog/protecting-azure-infrastructure-from-silicon-to-systems/) (2025-08-25)
 
 </details>
 
@@ -404,10 +404,10 @@ https://www.twilio.com/en-us/blog/insights/ai-based-email-marketing
 <summary>🔐 Auth0 Blog</summary>
 
 - [How to Configure the Auth0 MCP Server in VS Code for AI Assistant Integration](https://auth0.com/blog/auth0-mcp-server-in-vscode/) (2025-09-08)
+- [Dealing With Non-Human Identities](https://auth0.com/blog/dealing-with-non-human-identities-nhi/) (2025-09-05)
 - [Fine-Grained Authorization in ASP.NET Core with Auth0 FGA](https://auth0.com/blog/fine-grained-authorization-in-aspnet-core-with-auth0-fga/) (2025-09-05)
 - [An Accessible Guide to WCAG 3.3.8: Authentication Without Frustration](https://auth0.com/blog/an-accessible-guide-to-wcag-3-3-8-authentication-without-frustration/) (2025-09-03)
 - [API Keys and AI Agents: Four Common Risks](https://auth0.com/blog/api-key-security-for-ai-agents/) (2025-09-02)
-- [Implementing Asynchronous Human-in-the-Loop Authorization in Python with LangGraph and Auth0](https://auth0.com/blog/async-ciba-python-langgraph-auth0/) (2025-08-29)
 
 </details>
 
@@ -557,55 +557,55 @@ https://www.twilio.com/en-us/blog/insights/ai-based-email-marketing
 <details>
 <summary>🤖 AI News</summary>
 
+- [Thinking Machines becomes OpenAI’s first services partner in APAC](https://www.artificialintelligence-news.com/news/thinking-machines-becomes-openai-first-services-partner-in-apac/) (2025-09-09)
 - [Alibaba’s new Qwen model to supercharge AI transcription tools](https://www.artificialintelligence-news.com/news/alibaba-new-qwen-model-supercharge-ai-transcription-tools/) (2025-09-08)
 - [Siddhartha Choudhury, Booking.com: Fighting online fraud with AI](https://www.artificialintelligence-news.com/news/siddhartha-choudhury-booking-com-fighting-online-fraud-with-ai/) (2025-09-08)
 - [UK AI sector growth hits record £2.9B investment ](https://www.artificialintelligence-news.com/news/uk-ai-sector-growth-hits-record-2-9b-investment/) (2025-09-05)
 - [Switzerland releases 100% open AI model](https://www.artificialintelligence-news.com/news/switzerland-releases-its-own-fully-open-ai-model/) (2025-09-04)
-- [From minutes to milliseconds: How CrateDB is tackling AI data infrastructure](https://www.artificialintelligence-news.com/news/from-minutes-to-milliseconds-how-cratedb-is-tackling-ai-data-infrastructure/) (2025-09-04)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Exploring Merit Order and Marginal Abatement Cost Curve in Python](https://towardsdatascience.com/merit-order-and-marginal-abatement-cost-curve-in-python/) (2025-09-09)
 - [Implementing the Gaussian Challenge in Python](https://towardsdatascience.com/implementing-the-gaussian-challenge-in-python/) (2025-09-08)
 - [Agentic AI and the Future of Python Project Management Tooling](https://towardsdatascience.com/agentic-ai-and-the-future-of-python-project-management-tooling/) (2025-09-08)
 - [From Tokens to Theorems: Building a Neuro-Symbolic AI Mathematician](https://towardsdatascience.com/from-tokens-to-theorems-building-a-neuro-symbolic-ai-mathematician/) (2025-09-08)
 - [The End-to-End Data Scientist’s Prompt Playbook](https://towardsdatascience.com/the-end-to-end-data-scientists-prompt-playbook/) (2025-09-08)
-- [Implementing the Coffee Machine in Python](https://towardsdatascience.com/implementing-the-coffee-machine-in-python/) (2025-09-08)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [OpenAI Announces Jobs Platform, Certifications For AI-Powered Job Roles](https://www.analyticsvidhya.com/blog/2025/09/openai-jobs-platform-certifications-for-ai-jobs/) (2025-09-09)
+- [Nano Banana vs. Qwen Image: Which is Better?](https://www.analyticsvidhya.com/blog/2025/09/nano-banana-vs-qwen-image/) (2025-09-09)
 - [Embedding Gemma: On-Device RAG Made Easy](https://www.analyticsvidhya.com/blog/2025/09/embeddinggemma/) (2025-09-08)
 - [Grok Code Fast 1: New Superfast Coding Model](https://www.analyticsvidhya.com/blog/2025/09/grok-code-fast-1/) (2025-09-08)
 - [How To Build an LLM-Powered Application Using Prompt Engineering? ](https://www.analyticsvidhya.com/blog/2025/09/llm-powered-application-using-prompt-engineering/) (2025-09-07)
-- [Another BIG AI from China! LongCat-Flash Chat 560B](https://www.analyticsvidhya.com/blog/2025/09/longcat-flash/) (2025-09-07)
-- [Noteworthy AI-Powered Dental Software in 2025](https://www.analyticsvidhya.com/blog/2025/09/ai-powered-dental-software/) (2025-09-06)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Free AI Courses from Hugging Face](https://www.kdnuggets.com/5-free-ai-courses-from-hugging-face) (2025-09-09)
 - [The Raku Programming Language: There’s More Than One Way To Do It](https://www.kdnuggets.com/the-raku-programming-language-theres-more-than-one-way-to-do-it) (2025-09-08)
 - [What is Artificial Intelligence in Simple Words?](https://www.kdnuggets.com/what-is-artificial-intelligence-in-simple-words) (2025-09-08)
 - [Top 7 AI Web Scraping Tools](https://www.kdnuggets.com/top-7-ai-web-scraping-tools) (2025-09-08)
 - [Most Candidates Fail These SQL Concepts in Data Interviews](https://www.kdnuggets.com/most-candidates-fail-these-sql-concepts-in-data-interviews) (2025-09-05)
-- [Top Data Science Courses 2025](https://www.kdnuggets.com/top-data-science-courses-2025) (2025-09-05)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [ROC AUC vs Precision-Recall for Imbalanced Data](https://machinelearningmastery.com/roc-auc-vs-precision-recall-for-imbalanced-data/) (2025-09-09)
 - [7 Scikit-learn Tricks for Optimized Cross-Validation](https://machinelearningmastery.com/7-scikit-learn-tricks-for-optimized-cross-validation/) (2025-09-08)
 - [A Gentle Introduction to Batch Normalization](https://machinelearningmastery.com/a-gentle-introduction-to-batch-normalization/) (2025-09-05)
 - [Small Language Models are the Future of Agentic AI](https://machinelearningmastery.com/small-language-models-are-the-future-of-agentic-ai/) (2025-09-04)
 - [10 Python One-Liners Every Machine Learning Practitioner Should Know](https://machinelearningmastery.com/10-python-one-liners-every-machine-learning-practitioner-should-know/) (2025-09-03)
-- [3 Ways to Speed Up and Improve Your XGBoost Models](https://machinelearningmastery.com/3-ways-to-speed-up-and-improve-your-xgboost-models/) (2025-09-02)
 
 </details>
 
