@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Signal introduces free and paid backup plans for your chats](https://techcrunch.com/2025/09/08/signal-introduces-free-and-paid-backup-plans-for-your-chats/) (2025-09-08)
-- [Salesloft says Drift customer data thefts linked to March GitHub account hack](https://techcrunch.com/2025/09/08/salesloft-says-drift-customer-data-thefts-linked-to-march-github-account-hack/) (2025-09-08)
-- [Meta suppressed children’s safety research, four whistleblowers claim](https://techcrunch.com/2025/09/08/meta-suppressed-childrens-safety-research-four-whistleblowers-claim/) (2025-09-08)
-- [How to watch Apple announce the iPhone 17](https://techcrunch.com/2025/09/08/how-to-watch-apple-announce-the-iphone-17/) (2025-09-08)
-- [iPhone 17, the ‘thinnest iPhone ever,’ and everything else we’re expecting out of Apple’s hardware event](https://techcrunch.com/2025/09/08/iphone-17-the-thinnest-iphone-ever-and-everything-else-were-expecting-out-of-apples-hardware-event/) (2025-09-08)
+- [Intel’s chief executive of products departs among other leadership changes](https://techcrunch.com/2025/09/08/intels-chief-executive-of-products-departs-among-other-leadership-changes/) (2025-09-08)
+- [Netskope follows Rubrik as a rare cybersecurity IPO, both backed by Lightspeed](https://techcrunch.com/2025/09/08/netskope-follows-rubrik-as-a-rare-cybersecurity-ipo-both-backed-lightspeed/) (2025-09-08)
+- [Sam Altman says that bots are making social media feel ‘fake’ ](https://techcrunch.com/2025/09/08/sam-altman-says-that-bots-are-making-social-media-feel-fake/) (2025-09-08)
+- [Nuclear startup Deep Fission goes public in a curious SPAC](https://techcrunch.com/2025/09/08/nuclear-startup-deep-fission-goes-public-in-a-curious-spac/) (2025-09-08)
+- [Bluesky adds private bookmarks](https://techcrunch.com/2025/09/08/bluesky-adds-private-bookmarks/) (2025-09-08)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Escaping the Internet](https://www.ryanckulp.com/escaping-the-internet/) (2025-09-08)
-- [iPhone Dumbphone](https://stopa.io/post/297) (2025-09-08)
-- [Signal Secure Backups](https://signal.org/blog/introducing-secure-backups/) (2025-09-08)
-- [OpenWrt: A Linux OS targeting embedded devices](https://openwrt.org/) (2025-09-08)
-- [Job Mismatch and Early Career Success](https://www.nber.org/papers/w34215) (2025-09-08)
+- [The Storm Hits the Art Market](https://news.artnet.com/market/intelligence-report-storm-2025-2684512) (2025-09-08)
+- [Tesla market share in US drops to lowest since 2017](https://www.reuters.com/business/autos-transportation/tesla-market-share-us-drops-lowest-since-2017-competition-heats-up-2025-09-08/) (2025-09-08)
+- [Red Hat back-office team to be Big and Blue whether they like it or not](https://www.theregister.com/2025/09/08/red_hatters_to_be_big/) (2025-09-08)
+- [Liquid Glass in the Browser: Refraction with CSS and SVG](https://kube.io/blog/liquid-glass-css-svg/) (2025-09-08)
+- [Ex-WhatsApp cybersecurity head says Meta endangered billions of users](https://www.theguardian.com/technology/2025/sep/08/meta-user-data-lawsuit-whatsapp) (2025-09-08)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The Polestar 5 is an 884hp fastback sedan that should make Porsche nervous](https://www.theverge.com/electric-cars/773730/polestar-5-ev-horsepower-range-speed-specs) (2025-09-08)
-- [Nova Launcher’s founder and sole developer has left](https://www.theverge.com/news/773937/nova-launcher-founder-left-kevin-barry-branch-open-source-android) (2025-09-08)
-- [The best stuff announced at IFA](https://www.theverge.com/news/769573/ifa-2025-smart-home-lights-power-bank-robot-vacuum-ai-headphones) (2025-09-08)
-- [Google admits the open web is in ‘rapid decline’](https://www.theverge.com/news/773928/google-open-web-rapid-decline) (2025-09-08)
-- [Meta curbed research about VR safety risks to kids, whistleblowers say](https://www.theverge.com/policy/773821/meta-virtual-reality-horizon-worlds-youth-safety-research-whistleblower) (2025-09-08)
+- [AMD&#8217;s AI-powered FSR 4 upscaling is now available in most FSR 3.1 games](https://www.theverge.com/news/774142/amd-fsr-4-3-1-games-support-upscaling) (2025-09-08)
+- [Nintendo Switch modder ordered to pay $2 million in piracy lawsuit](https://www.theverge.com/news/774077/nintendo-switch-modder-ryan-daley-lawsuit) (2025-09-08)
+- [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap) (2025-09-08)
+- [Gemini app finally expands to audio files](https://www.theverge.com/ai-artificial-intelligence/774008/gemini-audio-new-languages-notebooklm-reports) (2025-09-08)
+- [Signal&#8217;s first paid feature adds encrypted media and message backups](https://www.theverge.com/news/774018/signal-encrypted-secure-backups-paid-feature-beta) (2025-09-08)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [All 54 lost clickwheel iPod games have now been preserved for posterity](https://arstechnica.com/gaming/2025/09/all-54-lost-clickwheel-ipod-games-have-now-been-preserved-for-posterity/) (2025-09-08)
-- [Congress and Trump may compromise on the SLS rocket by axing its costly upper stage](https://arstechnica.com/space/2025/09/congress-and-trump-may-compromise-on-the-sls-rocket-by-axing-its-costly-upper-stage/) (2025-09-08)
-- [Tiny Vinyl is a new pocketable record format for the Spotify age](https://arstechnica.com/gadgets/2025/09/tiny-vinyl-is-a-new-pocketable-record-format-for-the-spotify-age/) (2025-09-08)
-- [Porsche’s insanely clever hybrid engine comes to the 911 Turbo S](https://arstechnica.com/cars/2025/09/porsches-insanely-clever-hybrid-engine-comes-to-the-911-turbo-s/) (2025-09-07)
-- [GOP may finally succeed in unrelenting quest to kill two NASA climate satellites](https://arstechnica.com/space/2025/09/gop-may-finally-succeed-in-unrelenting-quest-to-kill-two-nasa-climate-satellites/) (2025-09-06)
+- [Former WhatsApp security boss in lawsuit likens Meta’s culture to a “cult”](https://arstechnica.com/security/2025/09/former-whatsapp-security-boss-sues-meta-for-systemic-cybersecurity-failures/) (2025-09-08)
+- [In court filing, Google concedes the open web is in “rapid decline”](https://arstechnica.com/google/2025/09/in-court-filing-google-concedes-the-open-web-is-in-rapid-decline/) (2025-09-08)
+- [Nobel laureate David Baltimore dead at 87](https://arstechnica.com/science/2025/09/nobel-laureate-david-baltimore-dead-at-87/) (2025-09-08)
+- [On a day of rebranding at the Pentagon, this name change slipped under the radar](https://arstechnica.com/space/2025/09/the-pentagons-department-of-war-rebrand-extends-to-space/) (2025-09-08)
+- [EchoStar to sell spectrum to SpaceX after FCC threatened to revoke licenses](https://arstechnica.com/tech-policy/2025/09/spacex-complaints-to-fcc-pay-off-with-17-billion-spectrum-buy-from-echostar/) (2025-09-08)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [SEO Técnico para Portfolios: Estrategias que Mejoraron mi Visibilidad en Google](https://dev.to/raidrdev/seo-tecnico-para-portfolios-estrategias-que-mejoraron-mi-visibilidad-en-google-okk) (2025-09-08)
-- [Why a DevOps Engineer Must Understand Development Workflows — Everything Else is Half-Baked](https://dev.to/srinivasamcjf/why-a-devops-engineer-must-understand-development-workflows-everything-else-is-half-baked-3hii) (2025-09-08)
-- [Enhancing Security in Apps Script](https://dev.to/googleworkspace/enhancing-security-in-apps-script-5ii) (2025-09-08)
-- [Why Soft Skills Are Becoming Critical for Developers in 2025](https://dev.to/joe_anthony_c718780b8bf32/why-soft-skills-are-becoming-critical-for-developers-in-2025-86i) (2025-09-08)
-- [Building a Local Documentation Chatbot with Python, FAISS, and OpenAI](https://dev.to/the_aayush_mishra/building-a-local-documentation-chatbot-with-python-faiss-and-openai-55oc) (2025-09-08)
+- [Power Platform Admin Center – App Access Checker](https://dev.to/nikhildynamicsce/power-platform-admin-center-app-access-checker-3125) (2025-09-09)
+- [5 UX Lessons Artificial Grass Companies Can Learn from E-commerce Leaders](https://dev.to/nzs_blogs/5-ux-lessons-artificial-grass-companies-can-learn-from-e-commerce-leaders-50e2) (2025-09-09)
+- [Beyond Uptime: Why Your All Green Dashboard is Lying to You](https://dev.to/tomcao2012/beyond-uptime-why-your-all-green-dashboard-is-lying-to-you-2b5) (2025-09-09)
+- [How to proxy Flutter's network requests to the native layer](https://dev.to/huangli_huang_12f4a0530eb/how-to-proxy-flutters-network-requests-to-the-native-layer-5b3b) (2025-09-09)
+- [Data Silos: Why Teams Keep Drowning in Their Own Information](https://dev.to/aaron_rose_0787cc8b4775a0/data-silos-why-teams-keep-drowning-in-their-own-information-j7h) (2025-09-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Map Deletion Process in Go](https://medium.com/@AlexanderObregon/map-deletion-process-in-go-2cd51ea0a49a?source=rss------programming-5) (2025-09-08)
-- [Julia 101: Why Scientists Are Dumping MATLAB for This New Language](https://medium.com/@syntaxSavage/julia-101-why-scientists-are-dumping-matlab-for-this-new-language-8d713346e381?source=rss------programming-5) (2025-09-08)
-- [Make JOINS Fun: A Playful Guide to Mastering SQL Relationships](https://dozerex-codes.medium.com/make-joins-fun-a-playful-guide-to-mastering-sql-relationships-fb5c2c01ca9f?source=rss------programming-5) (2025-09-08)
-- [The End of Open Source as We Know It](https://medium.com/@daxx5/the-end-of-open-source-as-we-know-it-8bcb9eb74b45?source=rss------programming-5) (2025-09-08)
-- [Animate icons in Angular](https://medium.com/@garcia.alberto.4.2012/animate-icons-in-angular-1711c008efe8?source=rss------programming-5) (2025-09-08)
+- [EDMA: Energy + Blockchain With Real Utility](https://medium.com/@opeyemisaka234/edma-energy-blockchain-with-real-utility-b2becc9f45ae?source=rss------programming-5) (2025-09-09)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbccxcnnn6m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-8cc2ea928ac8?source=rss------programming-5) (2025-09-09)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbccxcnnn6m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-9d40e624ceb9?source=rss------programming-5) (2025-09-09)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbccxcnnn6m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-73911d296ee0?source=rss------programming-5) (2025-09-09)
+- [7 Advanced Go Middleware Patterns That Boost Performance and Security in Production Applications](https://medium.techkoalainsights.com/7-advanced-go-middleware-patterns-that-boost-performance-and-security-in-production-applications-0b5bc6f41f5f?source=rss------programming-5) (2025-09-09)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Azure mandatory multifactor authentication: Phase 2 starting in October 2025](https://azure.microsoft.com/en-us/blog/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/) (2025-09-05)
 - [Microsoft Cost Management updates—July & August 2025](https://azure.microsoft.com/en-us/blog/microsoft-cost-management-updates-july-august-2025/) (2025-09-04)
 - [Agent Factory: From prototype to production—developer tools and rapid agent development](https://azure.microsoft.com/en-us/blog/agent-factory-from-prototype-to-production-developer-tools-and-rapid-agent-development/) (2025-09-03)
 - [Agent Factory: Top 5 agent observability best practices for reliable AI](https://azure.microsoft.com/en-us/blog/agent-factory-top-5-agent-observability-best-practices-for-reliable-ai/) (2025-08-27)
 - [Transforming scientific discovery with Microsoft Azure and NVIDIA](https://azure.microsoft.com/en-us/blog/transforming-scientific-discovery-with-microsoft-azure-and-nvidia/) (2025-08-26)
-- [Protecting Azure Infrastructure from silicon to systems](https://azure.microsoft.com/en-us/blog/protecting-azure-infrastructure-from-silicon-to-systems/) (2025-08-25)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.34: VolumeAttributesClass for Volume Modification GA](https://kubernetes.io/blog/2025/09/08/kubernetes-v1-34-volume-attributes-class/) (2025-09-08)
 - [Kubernetes v1.34: Pod Replacement Policy for Jobs Goes GA](https://kubernetes.io/blog/2025/09/05/kubernetes-v1-34-pod-replacement-policy-for-jobs-goes-ga/) (2025-09-05)
 - [Kubernetes v1.34: PSI Metrics for Kubernetes Graduates to Beta](https://kubernetes.io/blog/2025/09/04/kubernetes-v1-34-introducing-psi-metrics-beta/) (2025-09-04)
 - [Kubernetes v1.34: Service Account Token Integration for Image Pulls Graduates to Beta](https://kubernetes.io/blog/2025/09/03/kubernetes-v1-34-sa-tokens-image-pulls-beta/) (2025-09-03)
 - [Kubernetes v1.34: Introducing CPU Manager Static Policy Option for Uncore Cache Alignment](https://kubernetes.io/blog/2025/09/02/kubernetes-v1-34-prefer-align-by-uncore-cache-cpumanager-static-policy-optimization/) (2025-09-02)
-- [Kubernetes v1.34: DRA has graduated to GA](https://kubernetes.io/blog/2025/09/01/kubernetes-v1-34-dra-updates/) (2025-09-01)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [“GoLand Can Do That?” Ten Secret Superpowers You Might Not Know](https://blog.jetbrains.com/go/2025/09/08/goland-can-do-that-ten-secret-superpowers-you-might-not-know/) (2025-09-08)
 - [JetBrains Mellum Now Available on Amazon Bedrock Marketplace – For Free](https://blog.jetbrains.com/ai/2025/09/jetbrains-mellum-now-available-on-amazon-bedrock-marketplace-for-free/) (2025-09-08)
 - [Connect MCP Servers to Junie in PhpStorm](https://blog.jetbrains.com/phpstorm/2025/09/connect-mcp-servers-to-junie-in-phpstorm/) (2025-09-05)
 - [Java Annotated Monthly – September 2025](https://blog.jetbrains.com/idea/2025/09/java-annotated-monthly-september-2025/) (2025-09-05)
 - [5 Ways Static Code Analysis Can Improve Developer Experience](https://blog.jetbrains.com/qodana/2025/09/improve-developer-experience/) (2025-09-04)
-- [The First Set of Updates and Fixes for ReSharper and Rider 2025.2 Is Out!](https://blog.jetbrains.com/dotnet/2025/09/04/resharper-and-rider-2025-2-1-is-out/) (2025-09-04)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>💜 Heroku Blog</summary>
 
+- [Triage and Fix with Confidence: heroku run and OTel on Heroku Fir](https://www.heroku.com/blog/heroku-run-and-otel-on-heroku-fir/) (2025-09-08)
 - [Corrective Action Update for the Heroku June 10th Outage](https://www.heroku.com/blog/corrective-action-update-june-10-outage/) (2025-09-05)
 - [Discover How Heroku’s AI PaaS Delivers Real-World Results at Dreamforce](https://www.heroku.com/blog/heroku-ai-paas-dreamforce-2025/) (2025-09-04)
 - [Amazon Nova Models: Now Available on Heroku](https://www.heroku.com/blog/amazon-nova-models-now-available/) (2025-08-26)
 - [Heroku AI Expands Model Offering with OpenAI’s gpt-oss-120b](https://www.heroku.com/blog/heroku-ai-openai-gpt-oss-120b-model-now-available/) (2025-08-20)
-- [Building Data-Aware AI Applications with Heroku AI and LlamaIndex](https://www.heroku.com/blog/building-data-aware-ai-applications-with-heroku-ai-llamaindex/) (2025-08-19)
 
 </details>
 
@@ -403,11 +403,11 @@ https://www.twilio.com/en-us/blog/insights/ai-based-email-marketing
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [How to Configure the Auth0 MCP Server in VS Code for AI Assistant Integration](https://auth0.com/blog/auth0-mcp-server-in-vscode/) (2025-09-08)
 - [Fine-Grained Authorization in ASP.NET Core with Auth0 FGA](https://auth0.com/blog/fine-grained-authorization-in-aspnet-core-with-auth0-fga/) (2025-09-05)
 - [An Accessible Guide to WCAG 3.3.8: Authentication Without Frustration](https://auth0.com/blog/an-accessible-guide-to-wcag-3-3-8-authentication-without-frustration/) (2025-09-03)
 - [API Keys and AI Agents: Four Common Risks](https://auth0.com/blog/api-key-security-for-ai-agents/) (2025-09-02)
 - [Implementing Asynchronous Human-in-the-Loop Authorization in Python with LangGraph and Auth0](https://auth0.com/blog/async-ciba-python-langgraph-auth0/) (2025-08-29)
-- [How to Build a Python MCP Server to Consult a Knowledge Base](https://auth0.com/blog/build-python-mcp-server-for-blog-search/) (2025-08-28)
 
 </details>
 
@@ -555,13 +555,24 @@ https://www.twilio.com/en-us/blog/insights/ai-based-email-marketing
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [Alibaba’s new Qwen model to supercharge AI transcription tools](https://www.artificialintelligence-news.com/news/alibaba-new-qwen-model-supercharge-ai-transcription-tools/) (2025-09-08)
+- [Siddhartha Choudhury, Booking.com: Fighting online fraud with AI](https://www.artificialintelligence-news.com/news/siddhartha-choudhury-booking-com-fighting-online-fraud-with-ai/) (2025-09-08)
+- [UK AI sector growth hits record £2.9B investment ](https://www.artificialintelligence-news.com/news/uk-ai-sector-growth-hits-record-2-9b-investment/) (2025-09-05)
+- [Switzerland releases 100% open AI model](https://www.artificialintelligence-news.com/news/switzerland-releases-its-own-fully-open-ai-model/) (2025-09-04)
+- [From minutes to milliseconds: How CrateDB is tackling AI data infrastructure](https://www.artificialintelligence-news.com/news/from-minutes-to-milliseconds-how-cratedb-is-tackling-ai-data-infrastructure/) (2025-09-04)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
+- [Implementing the Gaussian Challenge in Python](https://towardsdatascience.com/implementing-the-gaussian-challenge-in-python/) (2025-09-08)
+- [Agentic AI and the Future of Python Project Management Tooling](https://towardsdatascience.com/agentic-ai-and-the-future-of-python-project-management-tooling/) (2025-09-08)
+- [From Tokens to Theorems: Building a Neuro-Symbolic AI Mathematician](https://towardsdatascience.com/from-tokens-to-theorems-building-a-neuro-symbolic-ai-mathematician/) (2025-09-08)
 - [The End-to-End Data Scientist’s Prompt Playbook](https://towardsdatascience.com/the-end-to-end-data-scientists-prompt-playbook/) (2025-09-08)
 - [Implementing the Coffee Machine in Python](https://towardsdatascience.com/implementing-the-coffee-machine-in-python/) (2025-09-08)
-- [The Beauty of Space-Filling Curves: Understanding the Hilbert Curve](https://towardsdatascience.com/the-beauty-of-space-filling-curves-understanding-the-hilbert-curve/) (2025-09-07)
-- [Preventing Context Overload: Controlled Neo4j MCP Cypher Responses for LLMs](https://towardsdatascience.com/preventing-context-overload-controlled-neo4j-mcp-cypher-responses-for-llms/) (2025-09-07)
-- [Hands-On with Agents SDK: Safeguarding Input and Output with Guardrails](https://towardsdatascience.com/hands-on-with-agents-sdk-safeguarding-input-and-output-with-guardrails/) (2025-09-06)
 
 </details>
 
