@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Robinhood embraces copy trading after warning competitors about regulatory risks](https://techcrunch.com/2025/09/09/robinhood-embraces-copy-trading-after-warning-competitors-about-regulatory-risks/) (2025-09-10)
+- [Sources: AI training startup Mercor eyes $10B+ valuation on $450 million run rate](https://techcrunch.com/2025/09/09/sources-ai-training-startup-mercor-eyes-10b-valuation-on-450-million-run-rate/) (2025-09-10)
 - [From mixers to pitch-offs — your brand event belongs at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/09/from-mixers-to-pitch-offs-your-brand-event-belongs-at-techcrunch-disrupt-2025/) (2025-09-09)
 - [Help, I have been charmed by the iPhone Air](https://techcrunch.com/2025/09/09/help-i-have-been-charmed-by-the-iphone-air/) (2025-09-09)
 - [Why SpaceX made a $17B bet on the direct-to-cell market](https://techcrunch.com/2025/09/09/why-spacex-made-a-17b-bet-on-the-direct-to-cell-market/) (2025-09-09)
-- [I want to love Apple’s new iPhone Air, but the iPhone 17 is a better deal](https://techcrunch.com/2025/09/09/i-want-to-love-apples-new-iphone-air-but-the-iphone-17-is-a-better-deal/) (2025-09-09)
-- [Apple’s creator-centric iPhone 17 Pro will make the vlogging camera obsolete](https://techcrunch.com/2025/09/09/apples-creator-centric-iphone-17-pro-will-make-the-vlogging-camera-obsolete/) (2025-09-09)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [NASA finds Titan's alien lakes may be creating primitive cells](https://www.sciencedaily.com/releases/2025/08/250831112449.htm) (2025-09-10)
+- [I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory](https://joshfonseca.com/blogs/animal-crossing-llm) (2025-09-10)
+- [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004) (2025-09-10)
+- [NASA finds Titan's lakes may be creating vesicles with primitive cell walls](https://www.sciencedaily.com/releases/2025/08/250831112449.htm) (2025-09-10)
 - [Hypervisor in 1k Lines](https://1000hv.seiya.me/en) (2025-09-09)
-- [Anthropic is endorsing SB 53](https://www.anthropic.com/news/anthropic-is-endorsing-sb-53) (2025-09-09)
 - [Immunotherapy drug clinical trial results: half of tumors shrink or disappear](https://www.rockefeller.edu/news/38120-immunotherapy-drug-eliminates-aggressive-cancers-in-clinical-trial/) (2025-09-09)
-- [A cryptography expert on how Web3 started, and how it’s going](https://spectrum.ieee.org/web3-hardware-security) (2025-09-09)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Nikon&#8217;s first RED co-brand is the Nikon ZR](https://www.theverge.com/cameras/775373/nikons-first-red-co-brand-is-the-nikon-zr) (2025-09-10)
 - [Apple says the iPhone 17 comes with a massive security upgrade](https://www.theverge.com/news/775234/iphone-17-air-a19-memory-integrity-enforcement-mte-security) (2025-09-10)
 - [Apple is giving iPhone 14 and 15 users another free year of satellite features](https://www.theverge.com/news/775309/apple-iphone-14-15-satellite-connectivity-free) (2025-09-09)
 - [Judge puts Anthropic&#8217;s $1.5 billion book piracy settlement on hold](https://www.theverge.com/news/775230/anthropic-piracy-class-action-lawsuit-settlement-rejected) (2025-09-09)
 - [Apple&#8217;s newest health-tracking features are coming to older watches](https://www.theverge.com/news/775200/apple-watch-series-9-hypertension-sleep-score-wrist-flick) (2025-09-09)
-- [Verge staffers react to the iPhone Air: what we love and don’t love](https://www.theverge.com/tech/774831/iphone-air-apple-reactions-thin-camera) (2025-09-09)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why You Should Grab a Copy of Architecting an Apache Iceberg Lakehouse](https://dev.to/alexmercedcoder/why-you-should-grab-a-copy-of-architecting-an-apache-iceberg-lakehouse-44if) (2025-09-10)
-- [Digitalization Social Creativity Multimedia Content Creator](https://dev.to/olatunjiayodel9/digitalization-social-creativity-multimedia-content-creator-1nhn) (2025-09-10)
-- [The Most Frequently Asked Flutter Engineer Interview Questions(2025)](https://dev.to/huangli_huang_12f4a0530eb/the-most-frequently-asked-flutter-engineer-interview-questions2025-45ee) (2025-09-10)
-- [Kinde monthly office hours](https://dev.to/kinde/kinde-monthly-office-hours-1a1n) (2025-09-10)
-- [Understanding Web Rendering Strategies](https://dev.to/anthonybanion/understanding-web-rendering-strategies-2j56) (2025-09-10)
+- [Explaining the LMAX Disruptor](https://dev.to/kspeakman/explaining-the-lmax-disruptor-jkd) (2025-09-10)
+- [I Didn't Understand Program.cs in .NET, So I Wrote This](https://dev.to/fakestandard/i-didnt-understand-programcs-in-net-8-so-i-wrote-this-1mpf) (2025-09-10)
+- [How to Create a Django App for Beginners](https://dev.to/azmol419/how-to-create-a-django-app-for-beginners-9e1) (2025-09-10)
+- [Shipaton: Do0ne Build Journal #2 - Using Do0ne in Practice & Custom Loading Screen with Lottie Icons](https://dev.to/friendship_e3d5e249468fc3/shipaton-do0ne-build-journal-2-using-do0ne-in-practice-custom-loading-screen-with-lottie-icons-2oan) (2025-09-10)
+- [I Used Autogen GraphFlow and Qwen3 Coder to Solve Math Problems — And It Worked](https://dev.to/qtalen/i-used-autogen-graphflow-and-qwen3-coder-to-solve-math-problems-and-it-worked-1f7f) (2025-09-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [7 Hidden Cargo Features That Will 10x Your Rust Development Productivity in 2024](https://medium.techkoalainsights.com/7-hidden-cargo-features-that-will-10x-your-rust-development-productivity-in-2024-4b720fb56d4c?source=rss------programming-5) (2025-09-10)
-- [ When Good Tokens Go Bad: The Silent Threat to Identity Security](https://tech-hacker-blog.medium.com/when-good-tokens-go-bad-the-silent-threat-to-identity-security-76b20de1f6d8?source=rss------programming-5) (2025-09-10)
-- [Perkenalkan saya Athar, sekarang saya sedang menjalani semester 3 di program studi Teknik Geologi…](https://medium.com/@muhammadatharfaiza/perkenalkan-saya-athar-sekarang-saya-sedang-menjalani-semester-3-di-program-studi-teknik-geologi-67d5e8f8ad8e?source=rss------programming-5) (2025-09-10)
-- [7 Years. 7 Startups. 7 Failures. Here’s What I Learned](https://vencoding.medium.com/7-years-7-startups-7-failures-heres-what-i-learned-73ec9d45ef37?source=rss------programming-5) (2025-09-10)
-- [صیغه کیش صیغه قشم صیغه درگهان صیغه بندرعباس صیغه هرمزگان صیغه هرمزصیغه بندردیرصیغه بندردیلم صیغه…](https://medium.com/@azdwajmwqt82/%D8%B5%DB%8C%D8%BA%D9%87-%DA%A9%DB%8C%D8%B4-%D8%B5%DB%8C%D8%BA%D9%87-%D9%82%D8%B4%D9%85-%D8%B5%DB%8C%D8%BA%D9%87-%D8%AF%D8%B1%DA%AF%D9%87%D8%A7%D9%86-%D8%B5%DB%8C%D8%BA%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B5%DB%8C%D8%BA%D9%87-%D9%87%D8%B1%D9%85%D8%B2%DA%AF%D8%A7%D9%86-%D8%B5%DB%8C%D8%BA%D9%87-%D9%87%D8%B1%D9%85%D8%B2%D8%B5%DB%8C%D8%BA%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%AF%DB%8C%D8%B1%D8%B5%DB%8C%D8%BA%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%AF%DB%8C%D9%84%D9%85-%D8%B5%DB%8C%D8%BA%D9%87-3f79c3bcc9ed?source=rss------programming-5) (2025-09-10)
+- [Getting seconds!](https://medium.com/@dashofmadness/getting-seconds-2134850d0782?source=rss------programming-5) (2025-09-10)
+- [Illustrating Git Diff — And Master It](https://elye-project.medium.com/illustrating-git-diff-and-master-it-0ae6f198fb5b?source=rss------programming-5) (2025-09-10)
+- [ Python Concurrency & Parallelism in 2025: Mastering Async, Threads & Multiprocessing ](https://medium.com/@TheEnaModernCoder/python-concurrency-parallelism-in-2025-mastering-async-threads-multiprocessing-9558e4568249?source=rss------programming-5) (2025-09-10)
+- [Jetpack Compose Basics: A Simple Guide for Beginners](https://medium.com/@zeeshanminhas25/jetpack-compose-basics-a-simple-guide-for-beginners-d9b42c16e98f?source=rss------programming-5) (2025-09-10)
+- [C# (Sharp) Course In Rawalpindi And Islamabad](https://medium.com/@fitcomputerinstitute/c-sharp-course-in-rawalpindi-and-islamabad-2970d039bd63?source=rss------programming-5) (2025-09-10)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Azure mandatory multifactor authentication: Phase 2 starting in October 2025](https://azure.microsoft.com/en-us/blog/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/) (2025-09-05)
 - [Microsoft Cost Management updates—July & August 2025](https://azure.microsoft.com/en-us/blog/microsoft-cost-management-updates-july-august-2025/) (2025-09-04)
 - [Agent Factory: From prototype to production—developer tools and rapid agent development](https://azure.microsoft.com/en-us/blog/agent-factory-from-prototype-to-production-developer-tools-and-rapid-agent-development/) (2025-09-03)
 - [Agent Factory: Top 5 agent observability best practices for reliable AI](https://azure.microsoft.com/en-us/blog/agent-factory-top-5-agent-observability-best-practices-for-reliable-ai/) (2025-08-27)
 - [Transforming scientific discovery with Microsoft Azure and NVIDIA](https://azure.microsoft.com/en-us/blog/transforming-scientific-discovery-with-microsoft-azure-and-nvidia/) (2025-08-26)
-- [Protecting Azure Infrastructure from silicon to systems](https://azure.microsoft.com/en-us/blog/protecting-azure-infrastructure-from-silicon-to-systems/) (2025-08-25)
 
 </details>
 
@@ -373,11 +373,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Perform a Warm Transfer to a Human Agent from the OpenAI Realtime API using Twilio Programmable SIP and TypeScript
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/warm-transfer-openai-realtime-programmable-sip
-) (2025-09-08)
-- [
 Compliance Toolkit: AI-powered support for SMS compliance
 ](
 https://www.twilio.com/en-us/blog/products/launches/introducing-compliance-toolkit
@@ -396,6 +391,11 @@ https://www.twilio.com/en-us/blog/developers/community/laravel-queries-learn-by-
 Guide to Apple Mail Privacy Protection (MPP) & iOS 18 (2025)
 ](
 https://www.twilio.com/en-us/blog/insights/apple-mail-privacy-protection
+) (2025-09-01)
+- [
+AI Email Marketing: Tools, Benefits & Best Practices in 2025
+](
+https://www.twilio.com/en-us/blog/insights/ai-based-email-marketing
 ) (2025-09-01)
 
 </details>
