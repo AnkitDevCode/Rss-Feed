@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Apple launches iPhone 17 Pro with major camera upgrades](https://techcrunch.com/2025/09/09/apple-launches-iphone-17-pro-with-major-camera-upgrades/) (2025-09-09)
-- [iPhone 17 Air will be eSIM only worldwide](https://techcrunch.com/2025/09/09/iphone-17-air-will-be-esim-only-worldwide/) (2025-09-09)
-- [Apple debuts the ultra-thin iPhone Air](https://techcrunch.com/2025/09/09/apple-debuts-the-ultra-thin-iphone-air/) (2025-09-09)
-- [Apple unveils Apple Watch Series 11, Watch Ultra 3, and Watch SE 3](https://techcrunch.com/2025/09/09/apple-unveils-apple-watch-series-11-watch-ultra-3-and-watch-se-3/) (2025-09-09)
-- [Apple launches iPhone 17 with a 120Hz display](https://techcrunch.com/2025/09/09/apple-launches-iphone-17-with-a-120hz-display/) (2025-09-09)
+- [From mixers to pitch-offs — your brand event belongs at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/09/from-mixers-to-pitch-offs-your-brand-event-belongs-at-techcrunch-disrupt-2025/) (2025-09-09)
+- [Help, I have been charmed by the iPhone Air](https://techcrunch.com/2025/09/09/help-i-have-been-charmed-by-the-iphone-air/) (2025-09-09)
+- [Why SpaceX made a $17B bet on the direct-to-cell market](https://techcrunch.com/2025/09/09/why-spacex-made-a-17b-bet-on-the-direct-to-cell-market/) (2025-09-09)
+- [I want to love Apple’s new iPhone Air, but the iPhone 17 is a better deal](https://techcrunch.com/2025/09/09/i-want-to-love-apples-new-iphone-air-but-the-iphone-17-is-a-better-deal/) (2025-09-09)
+- [Apple’s creator-centric iPhone 17 Pro will make the vlogging camera obsolete](https://techcrunch.com/2025/09/09/apples-creator-centric-iphone-17-pro-will-make-the-vlogging-camera-obsolete/) (2025-09-09)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Apple announces the ultra-slim iPhone Air](https://www.theverge.com/news/771942/apple-iphone-17-air-announcement) (2025-09-09)
-- [What happens when private equity buys homes in your neighborhood](https://www.npr.org/sections/planet-money/2025/09/09/g-s1-87699/private-equity-corporate-landlords) (2025-09-09)
-- [Apple Watch Ultra 3](https://www.apple.com/newsroom/2025/09/introducing-apple-watch-ultra-3/) (2025-09-09)
-- [Weave (YC W25) is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer) (2025-09-09)
-- [Microsoft is officially sending employees back to the office](https://www.businessinsider.com/microsoft-send-employees-back-to-office-rto-remote-work-2025-9) (2025-09-09)
+- [NASA finds Titan's alien lakes may be creating primitive cells](https://www.sciencedaily.com/releases/2025/08/250831112449.htm) (2025-09-10)
+- [Hypervisor in 1k Lines](https://1000hv.seiya.me/en) (2025-09-09)
+- [Anthropic is endorsing SB 53](https://www.anthropic.com/news/anthropic-is-endorsing-sb-53) (2025-09-09)
+- [Immunotherapy drug clinical trial results: half of tumors shrink or disappear](https://www.rockefeller.edu/news/38120-immunotherapy-drug-eliminates-aggressive-cancers-in-clinical-trial/) (2025-09-09)
+- [A cryptography expert on how Web3 started, and how it’s going](https://spectrum.ieee.org/web3-hardware-security) (2025-09-09)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Apple will launch watchOS 26 on September 15th](https://www.theverge.com/news/772968/apple-watch-watchos-26-release-date-upgrade-september-15) (2025-09-09)
-- [Apple’s macOS Tahoe 26 update releases September 15th](https://www.theverge.com/news/772630/apple-macos-tahoe-26-update-launch-iphone-event) (2025-09-09)
-- [Apple reveals iPadOS 26 release date](https://www.theverge.com/news/773018/apple-ipados-26-release-date-launch) (2025-09-09)
-- [iOS 26 is out on September 15th](https://www.theverge.com/news/770784/apple-ios-26-release-date-liquid-glass) (2025-09-09)
-- [At the Abundance conference, right-wing anti-regulation ideals were in abundance](https://www.theverge.com/regulator-newsletter/774489/natcon-abundance-conference-recap) (2025-09-09)
+- [Apple says the iPhone 17 comes with a massive security upgrade](https://www.theverge.com/news/775234/iphone-17-air-a19-memory-integrity-enforcement-mte-security) (2025-09-10)
+- [Apple is giving iPhone 14 and 15 users another free year of satellite features](https://www.theverge.com/news/775309/apple-iphone-14-15-satellite-connectivity-free) (2025-09-09)
+- [Judge puts Anthropic&#8217;s $1.5 billion book piracy settlement on hold](https://www.theverge.com/news/775230/anthropic-piracy-class-action-lawsuit-settlement-rejected) (2025-09-09)
+- [Apple&#8217;s newest health-tracking features are coming to older watches](https://www.theverge.com/news/775200/apple-watch-series-9-hypertension-sleep-score-wrist-flick) (2025-09-09)
+- [Verge staffers react to the iPhone Air: what we love and don’t love](https://www.theverge.com/tech/774831/iphone-air-apple-reactions-thin-camera) (2025-09-09)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [New AirPods Pro 3 turn Apple’s earbuds into fitness tracker, universal translator](https://arstechnica.com/gadgets/2025/09/new-airpods-pro-3-turn-apples-earbuds-into-fitness-tracker-universal-translator/) (2025-09-09)
-- [“You are evil”: GirlsDoPorn ringleader Michael Pratt sentenced to 27 years](https://arstechnica.com/tech-policy/2025/09/girlsdoporn-owner-michael-pratt-gets-27-years-for-sex-trafficking-conspiracy/) (2025-09-09)
-- [Judge: Anthropic’s $1.5B settlement is being shoved “down the throat of authors”](https://arstechnica.com/tech-policy/2025/09/judge-anthropics-1-5b-settlement-is-being-shoved-down-the-throat-of-authors/) (2025-09-09)
-- [Accessory maker will pay Nintendo after showing illicit Switch 2 mockups at CES](https://arstechnica.com/gaming/2025/09/accessory-maker-will-pay-nintendo-after-showing-illicit-switch-2-mockups-at-ces/) (2025-09-09)
-- [Switch modder owes Nintendo $2 million after representing himself in court](https://arstechnica.com/gaming/2025/09/switch-modder-who-acted-as-his-own-lawyer-now-owes-nintendo-2-million/) (2025-09-09)
+- [New iPhones use Apple N1 wireless chip—and we’ll probably start seeing it everywhere](https://arstechnica.com/gadgets/2025/09/apples-n1-chip-extends-its-custom-silicon-into-wi-fi-bluetooth-and-thread/) (2025-09-09)
+- [Reddit bug caused lesbian subreddit to be labeled as a place for “straight” women](https://arstechnica.com/gadgets/2025/09/reddit-bug-caused-lesbian-subreddit-to-be-labeled-as-a-place-for-straight-women/) (2025-09-09)
+- [Hands-on with Apple’s new iPhones: Beauty and the beast and the regular-looking one](https://arstechnica.com/gadgets/2025/09/hands-on-with-the-iphone-17-lineup-including-the-wispy-air-and-the-lumpy-pro/) (2025-09-09)
+- [Pfizer says this season’s COVID shot boosts immune responses fourfold](https://arstechnica.com/health/2025/09/pfizer-reports-positive-covid-shot-results-despite-government-fueled-chaos/) (2025-09-09)
+- [Claude’s new AI file creation feature ships with deep security risks built in](https://arstechnica.com/information-technology/2025/09/anthropics-new-claude-feature-can-leak-data-users-told-to-monitor-chats-closely/) (2025-09-09)
 
 </details>
 
@@ -75,11 +75,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [How to use the GitHub and JFrog integration for secure, traceable builds from commit to production](https://github.blog/enterprise-software/devsecops/how-to-use-the-github-and-jfrog-integration-for-secure-traceable-builds-from-commit-to-production/) (2025-09-09)
 - [How to debug a web app with Playwright MCP and GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/how-to-debug-a-web-app-with-playwright-mcp-and-github-copilot/) (2025-09-05)
 - [GitHub is enabling broader access for developers in Syria following new government trade rules](https://github.blog/company/github-is-enabling-broader-access-for-developers-in-syria-following-new-government-trade-rules/) (2025-09-05)
 - [Building smarter interactions with MCP elicitation: From clunky tool calls to seamless user experiences](https://github.blog/ai-and-ml/github-copilot/building-smarter-interactions-with-mcp-elicitation-from-clunky-tool-calls-to-seamless-user-experiences/) (2025-09-04)
 - [5 tips for writing better custom instructions for Copilot](https://github.blog/ai-and-ml/github-copilot/5-tips-for-writing-better-custom-instructions-for-copilot/) (2025-09-03)
-- [Spec-driven development with AI: Get started with a new open source toolkit](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/) (2025-09-02)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Row Equivalence in Linear Algebra with Python](https://dev.to/shrsv/row-equivalence-in-linear-algebra-with-python-4opm) (2025-09-09)
-- [Mix with the Masters: Mixing drum breaks so they actually sound exciting - prepare to be amazed!](https://dev.to/music_youtube/mix-with-the-masters-mixing-drum-breaks-so-they-actually-sound-exciting-prepare-to-be-amazed-2m4o) (2025-09-09)
-- [NPR Music: Ed Sheeran: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-ed-sheeran-tiny-desk-concert-5aam) (2025-09-09)
-- [IGN: Top 25 Best PS1 Games of All Time](https://dev.to/gg_news/ign-top-25-best-ps1-games-of-all-time-4adh) (2025-09-09)
-- [IGN: Nioh 3 - 19 Minutes of Open Exploration Gameplay - IGN First](https://dev.to/gg_news/ign-nioh-3-19-minutes-of-open-exploration-gameplay-ign-first-j8c) (2025-09-09)
+- [Why You Should Grab a Copy of Architecting an Apache Iceberg Lakehouse](https://dev.to/alexmercedcoder/why-you-should-grab-a-copy-of-architecting-an-apache-iceberg-lakehouse-44if) (2025-09-10)
+- [Digitalization Social Creativity Multimedia Content Creator](https://dev.to/olatunjiayodel9/digitalization-social-creativity-multimedia-content-creator-1nhn) (2025-09-10)
+- [The Most Frequently Asked Flutter Engineer Interview Questions(2025)](https://dev.to/huangli_huang_12f4a0530eb/the-most-frequently-asked-flutter-engineer-interview-questions2025-45ee) (2025-09-10)
+- [Kinde monthly office hours](https://dev.to/kinde/kinde-monthly-office-hours-1a1n) (2025-09-10)
+- [Understanding Web Rendering Strategies](https://dev.to/anthonybanion/understanding-web-rendering-strategies-2j56) (2025-09-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How I Created $180K in Passive Income with Rust and Kafka](https://techpreneurr.medium.com/how-i-created-180k-in-passive-income-with-rust-and-kafka-6c41f888c5f7?source=rss------programming-5) (2025-09-09)
-- [⚡ Next.js 2025 — Mastering Server Components vs Client Components](https://medium.com/@missAvantika/next-js-2025-mastering-server-components-vs-client-components-a7cd7e910e15?source=rss------programming-5) (2025-09-09)
-- [Debugging Nightmares: How I Solved My First Real Bug](https://medium.com/thepolar/debugging-nightmares-how-i-solved-my-first-real-bug-8b751abe9191?source=rss------programming-5) (2025-09-09)
-- [Inclusion & Exclusion in Rails — Validators and Query Patterns](https://medium.com/@ankita.chourasiya1105/inclusion-exclusion-in-rails-validators-and-query-patterns-e37b0c7e071c?source=rss------programming-5) (2025-09-09)
-- [What’s the Hardest Part of Software Engineering? (Hint: It’s Not What You Think)](https://medium.com/@rohtashsethi/whats-the-hardest-part-of-software-engineering-hint-it-s-not-what-you-think-499f14fe0ef5?source=rss------programming-5) (2025-09-09)
+- [7 Hidden Cargo Features That Will 10x Your Rust Development Productivity in 2024](https://medium.techkoalainsights.com/7-hidden-cargo-features-that-will-10x-your-rust-development-productivity-in-2024-4b720fb56d4c?source=rss------programming-5) (2025-09-10)
+- [ When Good Tokens Go Bad: The Silent Threat to Identity Security](https://tech-hacker-blog.medium.com/when-good-tokens-go-bad-the-silent-threat-to-identity-security-76b20de1f6d8?source=rss------programming-5) (2025-09-10)
+- [Perkenalkan saya Athar, sekarang saya sedang menjalani semester 3 di program studi Teknik Geologi…](https://medium.com/@muhammadatharfaiza/perkenalkan-saya-athar-sekarang-saya-sedang-menjalani-semester-3-di-program-studi-teknik-geologi-67d5e8f8ad8e?source=rss------programming-5) (2025-09-10)
+- [7 Years. 7 Startups. 7 Failures. Here’s What I Learned](https://vencoding.medium.com/7-years-7-startups-7-failures-heres-what-i-learned-73ec9d45ef37?source=rss------programming-5) (2025-09-10)
+- [صیغه کیش صیغه قشم صیغه درگهان صیغه بندرعباس صیغه هرمزگان صیغه هرمزصیغه بندردیرصیغه بندردیلم صیغه…](https://medium.com/@azdwajmwqt82/%D8%B5%DB%8C%D8%BA%D9%87-%DA%A9%DB%8C%D8%B4-%D8%B5%DB%8C%D8%BA%D9%87-%D9%82%D8%B4%D9%85-%D8%B5%DB%8C%D8%BA%D9%87-%D8%AF%D8%B1%DA%AF%D9%87%D8%A7%D9%86-%D8%B5%DB%8C%D8%BA%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B5%DB%8C%D8%BA%D9%87-%D9%87%D8%B1%D9%85%D8%B2%DA%AF%D8%A7%D9%86-%D8%B5%DB%8C%D8%BA%D9%87-%D9%87%D8%B1%D9%85%D8%B2%D8%B5%DB%8C%D8%BA%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%AF%DB%8C%D8%B1%D8%B5%DB%8C%D8%BA%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%AF%DB%8C%D9%84%D9%85-%D8%B5%DB%8C%D8%BA%D9%87-3f79c3bcc9ed?source=rss------programming-5) (2025-09-10)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Azure mandatory multifactor authentication: Phase 2 starting in October 2025](https://azure.microsoft.com/en-us/blog/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/) (2025-09-05)
 - [Microsoft Cost Management updates—July & August 2025](https://azure.microsoft.com/en-us/blog/microsoft-cost-management-updates-july-august-2025/) (2025-09-04)
 - [Agent Factory: From prototype to production—developer tools and rapid agent development](https://azure.microsoft.com/en-us/blog/agent-factory-from-prototype-to-production-developer-tools-and-rapid-agent-development/) (2025-09-03)
 - [Agent Factory: Top 5 agent observability best practices for reliable AI](https://azure.microsoft.com/en-us/blog/agent-factory-top-5-agent-observability-best-practices-for-reliable-ai/) (2025-08-27)
 - [Transforming scientific discovery with Microsoft Azure and NVIDIA](https://azure.microsoft.com/en-us/blog/transforming-scientific-discovery-with-microsoft-azure-and-nvidia/) (2025-08-26)
+- [Protecting Azure Infrastructure from silicon to systems](https://azure.microsoft.com/en-us/blog/protecting-azure-infrastructure-from-silicon-to-systems/) (2025-08-25)
 
 </details>
 
@@ -152,11 +152,11 @@
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [App Store submissions now open for the latest OS releases](https://developer.apple.com/news/?id=6lxhtioi) (2025-09-09)
 - [Hello Developer: September 2025](https://developer.apple.com/news/?id=6zd7a3al) (2025-09-02)
 - [Awe dropping.](https://developer.apple.com/news/?id=p9nukitr) (2025-08-26)
 - [Tax and Price Updates for Apps, In-App Purchases, and Subscriptions](https://developer.apple.com/news/?id=yo2104n5) (2025-08-21)
 - [Hello Developer: August 2025](https://developer.apple.com/news/?id=4qkavrhc) (2025-08-05)
-- [Updated age ratings in App Store Connect](https://developer.apple.com/news/?id=ks775ehf) (2025-07-24)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.34: Snapshottable API server cache](https://kubernetes.io/blog/2025/09/09/kubernetes-v1-34-snapshottable-api-server-cache/) (2025-09-09)
 - [Kubernetes v1.34: VolumeAttributesClass for Volume Modification GA](https://kubernetes.io/blog/2025/09/08/kubernetes-v1-34-volume-attributes-class/) (2025-09-08)
 - [Kubernetes v1.34: Pod Replacement Policy for Jobs Goes GA](https://kubernetes.io/blog/2025/09/05/kubernetes-v1-34-pod-replacement-policy-for-jobs-goes-ga/) (2025-09-05)
 - [Kubernetes v1.34: PSI Metrics for Kubernetes Graduates to Beta](https://kubernetes.io/blog/2025/09/04/kubernetes-v1-34-introducing-psi-metrics-beta/) (2025-09-04)
 - [Kubernetes v1.34: Service Account Token Integration for Image Pulls Graduates to Beta](https://kubernetes.io/blog/2025/09/03/kubernetes-v1-34-sa-tokens-image-pulls-beta/) (2025-09-03)
-- [Kubernetes v1.34: Introducing CPU Manager Static Policy Option for Uncore Cache Alignment](https://kubernetes.io/blog/2025/09/02/kubernetes-v1-34-prefer-align-by-uncore-cache-cpumanager-static-policy-optimization/) (2025-09-02)
 
 </details>
 
@@ -403,11 +403,11 @@ https://www.twilio.com/en-us/blog/insights/apple-mail-privacy-protection
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [August 2025 in Auth0: Non-Unique Emails, DPoP, and TLS Fingerprints](https://auth0.com/blog/august-2025-in-auth0-non-unique-emails-dpop-and-tls-fingerprints/) (2025-09-09)
 - [How to Configure the Auth0 MCP Server in VS Code for AI Assistant Integration](https://auth0.com/blog/auth0-mcp-server-in-vscode/) (2025-09-08)
 - [Dealing With Non-Human Identities](https://auth0.com/blog/dealing-with-non-human-identities-nhi/) (2025-09-05)
 - [Fine-Grained Authorization in ASP.NET Core with Auth0 FGA](https://auth0.com/blog/fine-grained-authorization-in-aspnet-core-with-auth0-fga/) (2025-09-05)
 - [An Accessible Guide to WCAG 3.3.8: Authentication Without Frustration](https://auth0.com/blog/an-accessible-guide-to-wcag-3-3-8-authentication-without-frustration/) (2025-09-03)
-- [API Keys and AI Agents: Four Common Risks](https://auth0.com/blog/api-key-security-for-ai-agents/) (2025-09-02)
 
 </details>
 
