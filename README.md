@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Robinhood embraces copy trading after warning competitors about regulatory risks](https://techcrunch.com/2025/09/09/robinhood-embraces-copy-trading-after-warning-competitors-about-regulatory-risks/) (2025-09-10)
-- [Sources: AI training startup Mercor eyes $10B+ valuation on $450 million run rate](https://techcrunch.com/2025/09/09/sources-ai-training-startup-mercor-eyes-10b-valuation-on-450-million-run-rate/) (2025-09-10)
-- [From mixers to pitch-offs — your brand event belongs at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/09/from-mixers-to-pitch-offs-your-brand-event-belongs-at-techcrunch-disrupt-2025/) (2025-09-09)
-- [Help, I have been charmed by the iPhone Air](https://techcrunch.com/2025/09/09/help-i-have-been-charmed-by-the-iphone-air/) (2025-09-09)
-- [Why SpaceX made a $17B bet on the direct-to-cell market](https://techcrunch.com/2025/09/09/why-spacex-made-a-17b-bet-on-the-direct-to-cell-market/) (2025-09-09)
+- [Uber will add Blade’s helicopters to its platform as early as 2026](https://techcrunch.com/2025/09/10/uber-will-add-blades-helicopters-to-its-platform-as-early-as-2026/) (2025-09-10)
+- [Ex-Google X trio wants their AI to be your second brain — and they just raised $6M to make it happen](https://techcrunch.com/2025/09/10/ex-google-x-trio-wants-their-ai-to-be-your-second-brain-and-they-just-raised-6m-to-make-it-happen/) (2025-09-10)
+- [Tinder evolves some features into dating ‘modes’](https://techcrunch.com/2025/09/10/tinder-evolves-some-features-into-dating-modes/) (2025-09-10)
+- [Google’s former security leads raise $13M to fight email threats before they reach you](https://techcrunch.com/2025/09/10/googles-former-security-leads-raise-13m-to-fight-email-threats-before-they-reach-you/) (2025-09-10)
+- [Spotify is finally launching support for lossless music streaming](https://techcrunch.com/2025/09/10/spotify-is-finally-launching-support-for-lossless-music-streaming/) (2025-09-10)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Infracost (YC W21) Is Hiring First Product Manager to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager) (2025-09-10)
+- [Supabase OrioleDB Patent: now freely available to the Postgres community](https://supabase.com/blog/orioledb-patent-free) (2025-09-10)
+- [Made for People, Not Cars: Reclaiming European Cities](https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/) (2025-09-10)
+- [Children and young people's reading in 2025](https://literacytrust.org.uk/research-services/research-reports/children-and-young-peoples-reading-in-2025/) (2025-09-10)
 - [I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory](https://joshfonseca.com/blogs/animal-crossing-llm) (2025-09-10)
-- [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004) (2025-09-10)
-- [NASA finds Titan's lakes may be creating vesicles with primitive cell walls](https://www.sciencedaily.com/releases/2025/08/250831112449.htm) (2025-09-10)
-- [Hypervisor in 1k Lines](https://1000hv.seiya.me/en) (2025-09-09)
-- [Immunotherapy drug clinical trial results: half of tumors shrink or disappear](https://www.rockefeller.edu/news/38120-immunotherapy-drug-eliminates-aggressive-cancers-in-clinical-trial/) (2025-09-09)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Nikon&#8217;s first RED co-brand is the Nikon ZR](https://www.theverge.com/cameras/775373/nikons-first-red-co-brand-is-the-nikon-zr) (2025-09-10)
-- [Apple says the iPhone 17 comes with a massive security upgrade](https://www.theverge.com/news/775234/iphone-17-air-a19-memory-integrity-enforcement-mte-security) (2025-09-10)
-- [Apple is giving iPhone 14 and 15 users another free year of satellite features](https://www.theverge.com/news/775309/apple-iphone-14-15-satellite-connectivity-free) (2025-09-09)
-- [Judge puts Anthropic&#8217;s $1.5 billion book piracy settlement on hold](https://www.theverge.com/news/775230/anthropic-piracy-class-action-lawsuit-settlement-rejected) (2025-09-09)
-- [Apple&#8217;s newest health-tracking features are coming to older watches](https://www.theverge.com/news/775200/apple-watch-series-9-hypertension-sleep-score-wrist-flick) (2025-09-09)
+- [Blade’s air taxis are coming to the Uber app](https://www.theverge.com/news/774485/joby-blade-uber-evtol-helicopter-air-taxi) (2025-09-10)
+- [Lyft’s first ‘robotaxis’ are live in Atlanta](https://www.theverge.com/news/775074/lyft-may-mobility-robotaxi-atlanta-public) (2025-09-10)
+- [Apple&#8217;s misunderstood crossbody iPhone strap might be the best I&#8217;ve seen](https://www.theverge.com/report/775498/apple-iphone-crossbody-strap-magnetic-reaction) (2025-09-10)
+- [Spotify adds lossless streaming after 8 years of teasing](https://www.theverge.com/spotify/775189/spotify-lossless-streaming-flac-audio) (2025-09-10)
+- [The MechaHitler defense contract is raising red flags](https://www.theverge.com/x-ai/775411/grok-xai-safety-musk-warren-hegseth-dod) (2025-09-10)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Explaining the LMAX Disruptor](https://dev.to/kspeakman/explaining-the-lmax-disruptor-jkd) (2025-09-10)
-- [I Didn't Understand Program.cs in .NET, So I Wrote This](https://dev.to/fakestandard/i-didnt-understand-programcs-in-net-8-so-i-wrote-this-1mpf) (2025-09-10)
-- [How to Create a Django App for Beginners](https://dev.to/azmol419/how-to-create-a-django-app-for-beginners-9e1) (2025-09-10)
-- [Shipaton: Do0ne Build Journal #2 - Using Do0ne in Practice & Custom Loading Screen with Lottie Icons](https://dev.to/friendship_e3d5e249468fc3/shipaton-do0ne-build-journal-2-using-do0ne-in-practice-custom-loading-screen-with-lottie-icons-2oan) (2025-09-10)
-- [I Used Autogen GraphFlow and Qwen3 Coder to Solve Math Problems — And It Worked](https://dev.to/qtalen/i-used-autogen-graphflow-and-qwen3-coder-to-solve-math-problems-and-it-worked-1f7f) (2025-09-10)
+- [Exploring the Intersection of Artificial Intelligence and Esotericism: A New Path to Self-Discovery](https://dev.to/__b5f3a543dd53c/exploring-the-intersection-of-artificial-intelligence-and-esotericism-a-new-path-to-self-discovery-ngl) (2025-09-10)
+- [Micro Frontend Architecture with Angular 20: A Complete Guide](https://dev.to/parthraval9/micro-frontend-architecture-with-angular-20-a-complete-guide-3421) (2025-09-10)
+- [Desacoplando lógicas com PublishEvent + EventHandler no Spring Boot](https://dev.to/ledsonsilva/desacoplando-logicas-com-publishevent-eventhandler-no-spring-boot-57h5) (2025-09-10)
+- [🚀 Day 12 of My Python Learning Journey](https://dev.to/_adii3107/day-12-of-my-python-learning-journey-36a5) (2025-09-10)
+- [AI-Powered SEO Strategies for WordPress: Staying Ahead in Search Rankings](https://dev.to/addwebsolutionpvtltd/ai-powered-seo-strategies-for-wordpress-staying-ahead-in-search-rankings-4450) (2025-09-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Getting seconds!](https://medium.com/@dashofmadness/getting-seconds-2134850d0782?source=rss------programming-5) (2025-09-10)
-- [Illustrating Git Diff — And Master It](https://elye-project.medium.com/illustrating-git-diff-and-master-it-0ae6f198fb5b?source=rss------programming-5) (2025-09-10)
-- [ Python Concurrency & Parallelism in 2025: Mastering Async, Threads & Multiprocessing ](https://medium.com/@TheEnaModernCoder/python-concurrency-parallelism-in-2025-mastering-async-threads-multiprocessing-9558e4568249?source=rss------programming-5) (2025-09-10)
-- [Jetpack Compose Basics: A Simple Guide for Beginners](https://medium.com/@zeeshanminhas25/jetpack-compose-basics-a-simple-guide-for-beginners-d9b42c16e98f?source=rss------programming-5) (2025-09-10)
-- [C# (Sharp) Course In Rawalpindi And Islamabad](https://medium.com/@fitcomputerinstitute/c-sharp-course-in-rawalpindi-and-islamabad-2970d039bd63?source=rss------programming-5) (2025-09-10)
+- [Mastering Rust: Ownership, Borrowing, References, and Slices Explained](https://devvmichael.medium.com/mastering-rust-ownership-borrowing-references-and-slices-explained-c1ceef84690e?source=rss------programming-5) (2025-09-10)
+- [Understanding Infinity in JavaScript: A Guide for Developers](https://medium.com/@rohitkuwar/understanding-infinity-in-javascript-a-guide-for-developers-f3b33570fb14?source=rss------programming-5) (2025-09-10)
+- [Understanding Machine Learning Models: A Guide for Beginners](https://medium.com/@alexs_35200/understanding-machine-learning-models-a-guide-for-beginners-54193044ce49?source=rss------programming-5) (2025-09-10)
+- [ Python in 2025 — Mastering Type Hints and Static Typing for Scalable Applications ✨](https://medium.com/@missAvantika/python-in-2025-mastering-type-hints-and-static-typing-for-scalable-applications-6757ea6e5714?source=rss------programming-5) (2025-09-10)
+- [Mastering Java Collections Framework](https://medium.com/@akashshakthi.dev/mastering-java-collections-framework-f99d08aa4d70?source=rss------programming-5) (2025-09-10)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Azure mandatory multifactor authentication: Phase 2 starting in October 2025](https://azure.microsoft.com/en-us/blog/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/) (2025-09-05)
 - [Microsoft Cost Management updates—July & August 2025](https://azure.microsoft.com/en-us/blog/microsoft-cost-management-updates-july-august-2025/) (2025-09-04)
 - [Agent Factory: From prototype to production—developer tools and rapid agent development](https://azure.microsoft.com/en-us/blog/agent-factory-from-prototype-to-production-developer-tools-and-rapid-agent-development/) (2025-09-03)
 - [Agent Factory: Top 5 agent observability best practices for reliable AI](https://azure.microsoft.com/en-us/blog/agent-factory-top-5-agent-observability-best-practices-for-reliable-ai/) (2025-08-27)
 - [Transforming scientific discovery with Microsoft Azure and NVIDIA](https://azure.microsoft.com/en-us/blog/transforming-scientific-discovery-with-microsoft-azure-and-nvidia/) (2025-08-26)
+- [Protecting Azure Infrastructure from silicon to systems](https://azure.microsoft.com/en-us/blog/protecting-azure-infrastructure-from-silicon-to-systems/) (2025-08-25)
 
 </details>
 
@@ -163,11 +163,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [#WeArePlay: Meet the people using Google AI to solve problems in agriculture, education, and pet care](https://android-developers.googleblog.com/2025/09/weareplay-meet-people-using-google-ai.html) (2025-09-10)
 - [Improve app performance with optimized resource shrinking](https://android-developers.googleblog.com/2025/09/improve-app-performance-with-optimized-resource-shrinking.html) (2025-09-09)
 - [Elevating media playback: Introducing preloading with Media3 - Part 1](https://android-developers.googleblog.com/2025/09/introducing-preloading-with-media3.html) (2025-09-05)
 - [Best practices for migrating users to passkeys with Credential Manager](https://android-developers.googleblog.com/2025/09/best-practices-migrating-users-passkeys-credential-manager.html) (2025-09-04)
 - [#WeArePlay: Meet the people behind apps & games powering businesses around the world](https://android-developers.googleblog.com/2025/09/weareplay-meet-people-behind-apps-games.html) (2025-09-04)
-- [The latest for devs from Made by Google, updates to Gemini in Android Studio, plus a new Androidify: our summer episode of The Android Show ](https://android-developers.googleblog.com/2025/09/the-android-show-summer-edition.html) (2025-09-03)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Kotlin 2.2.20 Released](https://blog.jetbrains.com/kotlin/2025/09/kotlin-2-2-20-released/) (2025-09-10)
+- [Junie Is Now Available in CLion: Supercharge Your C and C++ Development Today](https://blog.jetbrains.com/clion/2025/09/junie-availability/) (2025-09-10)
 - [MPS 2025.2 Is Out!](https://blog.jetbrains.com/mps/2025/09/mps-2025-1-is-out-2/) (2025-09-09)
 - [Investigating IntelliJ Platform UI Freezes](https://blog.jetbrains.com/platform/2025/09/investigating-intellij-platform-ui-freezes/) (2025-09-09)
 - [“GoLand Can Do That?” Ten Secret Superpowers You Might Not Know](https://blog.jetbrains.com/go/2025/09/08/goland-can-do-that-ten-secret-superpowers-you-might-not-know/) (2025-09-08)
-- [JetBrains Mellum Now Available on Amazon Bedrock Marketplace – For Free](https://blog.jetbrains.com/ai/2025/09/jetbrains-mellum-now-available-on-amazon-bedrock-marketplace-for-free/) (2025-09-08)
-- [Connect MCP Servers to Junie in PhpStorm](https://blog.jetbrains.com/phpstorm/2025/09/connect-mcp-servers-to-junie-in-phpstorm/) (2025-09-05)
 
 </details>
 
@@ -373,6 +373,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+A Heartfelt Thanks to Our Community of Builders
+](
+https://www.twilio.com/en-us/blog/company/news/fast-company-2025-best-workplaces-innovators
+) (2025-09-09)
+- [
+Perform a Warm Transfer to a Human Agent from the OpenAI Realtime API using Twilio Programmable SIP and TypeScript
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/warm-transfer-openai-realtime-programmable-sip
+) (2025-09-08)
+- [
 Compliance Toolkit: AI-powered support for SMS compliance
 ](
 https://www.twilio.com/en-us/blog/products/launches/introducing-compliance-toolkit
@@ -387,27 +397,17 @@ Laravel Queries: Learn by Building a Data Table
 ](
 https://www.twilio.com/en-us/blog/developers/community/laravel-queries-learn-by-building-a-data-table
 ) (2025-09-02)
-- [
-Guide to Apple Mail Privacy Protection (MPP) & iOS 18 (2025)
-](
-https://www.twilio.com/en-us/blog/insights/apple-mail-privacy-protection
-) (2025-09-01)
-- [
-AI Email Marketing: Tools, Benefits & Best Practices in 2025
-](
-https://www.twilio.com/en-us/blog/insights/ai-based-email-marketing
-) (2025-09-01)
 
 </details>
 
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Defending Against AI-Powered CLI Supply Chain Attacks](https://auth0.com/blog/defending-against-ai-powered-cli-supply-chain-attacks/) (2025-09-10)
 - [August 2025 in Auth0: Non-Unique Emails, DPoP, and TLS Fingerprints](https://auth0.com/blog/august-2025-in-auth0-non-unique-emails-dpop-and-tls-fingerprints/) (2025-09-09)
 - [How to Configure the Auth0 MCP Server in VS Code for AI Assistant Integration](https://auth0.com/blog/auth0-mcp-server-in-vscode/) (2025-09-08)
 - [Dealing With Non-Human Identities](https://auth0.com/blog/dealing-with-non-human-identities-nhi/) (2025-09-05)
 - [Fine-Grained Authorization in ASP.NET Core with Auth0 FGA](https://auth0.com/blog/fine-grained-authorization-in-aspnet-core-with-auth0-fga/) (2025-09-05)
-- [An Accessible Guide to WCAG 3.3.8: Authentication Without Frustration](https://auth0.com/blog/an-accessible-guide-to-wcag-3-3-8-authentication-without-frustration/) (2025-09-03)
 
 </details>
 
@@ -568,33 +568,33 @@ https://www.twilio.com/en-us/blog/insights/ai-based-email-marketing
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Build an AI Budget-Planning Optimizer for Your 2026 CAPEX Review: LangGraph, FastAPI, and n8n](https://towardsdatascience.com/how-to-build-an-ai-budget-planning-optimizer-for-your-2026-capex-review-langgraph-fastapi-and-n8n/) (2025-09-10)
 - [LangChain for EDA: Build a CSV Sanity-Check Agent in Python](https://towardsdatascience.com/langchain-for-eda-build-a-csv-sanity-check-agent-in-python/) (2025-09-09)
 - [How to Build Effective AI Agents to Process Millions of Requests](https://towardsdatascience.com/how-to-build-effective-ai-agents-to-process-millions-of-requests/) (2025-09-09)
 - [The Hungarian Algorithm and Its Applications in Computer Vision](https://towardsdatascience.com/hungarian-algorithm-and-its-applications-in-computer-vision/) (2025-09-09)
 - [LangGraph 201: Adding Human Oversight to Your Deep Research Agent](https://towardsdatascience.com/langgraph-201-adding-human-oversight-to-your-deep-research-agent/) (2025-09-09)
-- [Exploring Merit Order and Marginal Abatement Cost Curve in Python](https://towardsdatascience.com/merit-order-and-marginal-abatement-cost-curve-in-python/) (2025-09-09)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [15 Nano Banana Prompts to Try Today!](https://www.analyticsvidhya.com/blog/2025/09/nano-banana-prompts/) (2025-09-10)
 - [OpenAI Announces Jobs Platform, Certifications For AI-Powered Job Roles](https://www.analyticsvidhya.com/blog/2025/09/openai-jobs-platform-certifications-for-ai-jobs/) (2025-09-09)
 - [Nano Banana vs. Qwen Image: Which is Better?](https://www.analyticsvidhya.com/blog/2025/09/nano-banana-vs-qwen-image/) (2025-09-09)
 - [Embedding Gemma: On-Device RAG Made Easy](https://www.analyticsvidhya.com/blog/2025/09/embeddinggemma/) (2025-09-08)
 - [Grok Code Fast 1: New Superfast Coding Model](https://www.analyticsvidhya.com/blog/2025/09/grok-code-fast-1/) (2025-09-08)
-- [How To Build an LLM-Powered Application Using Prompt Engineering? ](https://www.analyticsvidhya.com/blog/2025/09/llm-powered-application-using-prompt-engineering/) (2025-09-07)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Portfolio Mistakes That Keep Data Scientists From Getting Hired](https://www.kdnuggets.com/5-portfolio-mistakes-that-keep-data-scientists-from-getting-hired) (2025-09-10)
 - [A Gentle Introduction to Docker for Python Developers](https://www.kdnuggets.com/a-gentle-introduction-to-docker-for-python-developers) (2025-09-09)
 - [Ray or Dask? A Practical Guide for Data Scientists](https://www.kdnuggets.com/ray-or-dask-a-practical-guide-for-data-scientists) (2025-09-09)
 - [5 Free AI Courses from Hugging Face](https://www.kdnuggets.com/5-free-ai-courses-from-hugging-face) (2025-09-09)
 - [The Raku Programming Language: There’s More Than One Way To Do It](https://www.kdnuggets.com/the-raku-programming-language-theres-more-than-one-way-to-do-it) (2025-09-08)
-- [What is Artificial Intelligence in Simple Words?](https://www.kdnuggets.com/what-is-artificial-intelligence-in-simple-words) (2025-09-08)
 
 </details>
 
