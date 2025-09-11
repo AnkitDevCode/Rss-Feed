@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [YouTube’s multi-language audio feature for dubbing videos rolls out to all creators](https://techcrunch.com/2025/09/10/youtubes-multi-language-audio-feature-for-dubbing-videos-rolls-out-to-all-creators/) (2025-09-10)
-- [TechCrunch Disrupt 2025: Full agenda reveal for the brand-new Going Public Stage](https://techcrunch.com/2025/09/10/techcrunch-disrupt-2025-first-full-agenda-reveal-for-the-brand-new-going-public-stage/) (2025-09-10)
-- [Arc gets its first major order for electric tugboats worth $160M](https://techcrunch.com/2025/09/10/arc-gets-its-first-major-order-for-electric-tugboats-worth-160m/) (2025-09-10)
-- [Meta adds new features to Community Notes fact checks, including alerts for corrected posts](https://techcrunch.com/2025/09/10/meta-adds-new-features-to-community-notes-fact-checks-including-alerts-for-corrected-posts/) (2025-09-10)
-- [Anthropic reports outages, Claude and Console impacted](https://techcrunch.com/2025/09/10/anthropic-reports-outages-claude-and-console-impacted/) (2025-09-10)
+- [Thinking Machines Lab wants to make AI models more consistent](https://techcrunch.com/2025/09/10/thinking-machines-lab-wants-to-make-ai-models-more-consistent/) (2025-09-10)
+- [How to turn off autoplay on your social media feeds](https://techcrunch.com/2025/09/10/how-to-turn-off-autoplay-on-your-social-media-feeds/) (2025-09-10)
+- [While US stalls, Australia and Anduril move to put XL undersea vehicle into service](https://techcrunch.com/2025/09/10/while-u-s-stalls-australia-and-anduril-move-to-put-xl-undersea-vehicle-into-service/) (2025-09-10)
+- [Klarna’s IPO pops, raising $1.4B, with Sequoia as the biggest winner](https://techcrunch.com/2025/09/10/klarnas-ipo-pops-raising-1-4b-with-sequoia-as-the-biggest-winner/) (2025-09-10)
+- [OpenAI and Oracle reportedly ink historic cloud computing deal](https://techcrunch.com/2025/09/10/openai-and-oracle-reportedly-ink-historic-cloud-computing-deal/) (2025-09-10)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Delphi 13 Florence Released](https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-13-florence/) (2025-09-10)
-- [Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/) (2025-09-10)
-- [Bild AI (YC W25) Is Hiring](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai) (2025-09-10)
-- ['Block Everything' protests sweep across France, scores arrested](https://www.reuters.com/world/europe/block-everything-protests-sweep-across-france-scores-arrested-2025-09-10/) (2025-09-10)
-- [Anthropic Services Down](https://status.anthropic.com/incidents/k6gkm2b8cjk9) (2025-09-10)
+- [Gravitational wave detector confirms theories of Einstein and Hawking](https://www.space.com/astronomy/gravitational-wave-detector-confirms-theories-of-einstein-and-hawking-this-is-the-clearest-view-yet-of-the-nature-of-black-holes) (2025-09-10)
+- [DOOMscrolling: The Game](https://ironicsans.ghost.io/doomscrolling-the-game/) (2025-09-10)
+- [Intel's E2200 "Mount Morgan" IPU at Hot Chips 2025](https://chipsandcheese.com/p/intels-e2200-mount-morgan-ipu-at) (2025-09-10)
+- [KDE launches its own distribution](https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/) (2025-09-10)
+- [Fraudulent Publishing in the Mathematical Sciences](https://arxiv.org/abs/2509.07257) (2025-09-10)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Apple isn&#8217;t packing a charging cable in with the AirPods Pro 3](https://www.theverge.com/news/775981/apple-airpods-pro-3-no-charging-cable-in-box) (2025-09-10)
-- [PlayStation launches new app for parental controls](https://www.theverge.com/news/775918/playstation-family-parental-controls-ios-android-app) (2025-09-10)
-- [Bluesky brings age verification to South Dakota and Wyoming](https://www.theverge.com/news/775901/bluesky-age-verification-us-south-dakota-wyoming) (2025-09-10)
-- [Windows developers can now publish apps to Microsoft’s store without fees](https://www.theverge.com/news/775877/windows-developers-microsoft-store-publishing-free) (2025-09-10)
-- [Blackmagic’s camera dock works with the new iPhone’s professional filmmaking features](https://www.theverge.com/news/775855/blackmagic-design-camera-prodock-iphone-17-pro-filmmakers) (2025-09-10)
+- [Charlie Kirk fatally shot at Turning Point USA event in Utah](https://www.theverge.com/news/776079/charlie-kirk-shooting) (2025-09-11)
+- [How platforms are responding to the Charlie Kirk shooting](https://www.theverge.com/news/776187/charlie-kirk-shooting-videos-platforms-meta-youtube) (2025-09-10)
+- [OpenAI reportedly signs $300 billion Project Stargate cloud deal with Oracle](https://www.theverge.com/ai-artificial-intelligence/776170/oracle-openai-300-billion-contract-project-stargate) (2025-09-10)
+- [Amazon drivers could be wearing AR glasses with a built-in display next year](https://www.theverge.com/news/776155/amazon-augmented-reality-glasses-jayhawk-launch-rumors) (2025-09-10)
+- [Ted Cruz’s new bill would let AI companies set their own rules for up to 10 years](https://www.theverge.com/ai-artificial-intelligence/776130/senator-ted-cruz-ai-sandbox-bill) (2025-09-10)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Can we please keep our broadband money, Republican governor asks Trump admin](https://arstechnica.com/tech-policy/2025/09/can-we-please-keep-our-broadband-money-republican-governor-asks-trump-admin/) (2025-09-10)
-- [Spotify peeved after 10,000 users sold data to build AI tools](https://arstechnica.com/tech-policy/2025/09/spotify-peeved-after-10000-users-sold-data-to-build-ai-tools/) (2025-09-10)
-- [Microsoft ends OpenAI exclusivity in Office, adds rival Anthropic](https://arstechnica.com/ai/2025/09/report-microsoft-taps-rival-anthropics-ai-for-office-after-it-beats-openai-at-some-tasks/) (2025-09-10)
-- [Flush door handles are the car industry’s latest safety problem](https://arstechnica.com/cars/2025/09/flush-door-handles-are-the-car-industrys-latest-safety-problem/) (2025-09-10)
-- [Has Perseverance found a biosignature on Mars?](https://arstechnica.com/science/2025/09/has-perseverance-found-a-biosignature-on-mars/) (2025-09-10)
+- [Court rejects Verizon claim that selling location data without consent is legal](https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/) (2025-09-10)
+- [After Ukrainian testing, drone detection radar doubles range with simple software patch](https://arstechnica.com/culture/2025/09/after-ukrainian-testing-drone-detection-radar-doubles-range-with-simple-software-patch/) (2025-09-10)
+- [HBO Max is “way underpriced,” Warner Bros. Discovery CEO says](https://arstechnica.com/gadgets/2025/09/hbo-max-is-way-underpriced-warner-bros-discovery-ceo-says/) (2025-09-10)
+- [Ousted CDC director to testify before Senate after RFK Jr. called her a liar](https://arstechnica.com/health/2025/09/ousted-cdc-director-to-testify-before-senate-after-rfk-jr-called-her-a-liar/) (2025-09-10)
+- [Senator blasts Microsoft for making default Windows vulnerable to “Kerberoasting”](https://arstechnica.com/security/2025/09/senator-blasts-microsoft-for-making-default-windows-vulnerable-to-kerberoasting/) (2025-09-10)
 
 </details>
 
@@ -75,11 +75,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Your guide to GitHub Universe 2025: The schedule just launched!](https://github.blog/news-insights/company-news/your-guide-to-github-universe-2025-the-schedule-just-launched/) (2025-09-10)
 - [How to use the GitHub and JFrog integration for secure, traceable builds from commit to production](https://github.blog/enterprise-software/devsecops/how-to-use-the-github-and-jfrog-integration-for-secure-traceable-builds-from-commit-to-production/) (2025-09-09)
 - [How to debug a web app with Playwright MCP and GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/how-to-debug-a-web-app-with-playwright-mcp-and-github-copilot/) (2025-09-05)
 - [GitHub is enabling broader access for developers in Syria following new government trade rules](https://github.blog/company/github-is-enabling-broader-access-for-developers-in-syria-following-new-government-trade-rules/) (2025-09-05)
 - [Building smarter interactions with MCP elicitation: From clunky tool calls to seamless user experiences](https://github.blog/ai-and-ml/github-copilot/building-smarter-interactions-with-mcp-elicitation-from-clunky-tool-calls-to-seamless-user-experiences/) (2025-09-04)
-- [5 tips for writing better custom instructions for Copilot](https://github.blog/ai-and-ml/github-copilot/5-tips-for-writing-better-custom-instructions-for-copilot/) (2025-09-03)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [KEXP: THIS WILL DESTROY YOU - Full Performance (Live on KEXP)](https://dev.to/music_youtube/kexp-this-will-destroy-you-full-performance-live-on-kexp-25i6) (2025-09-10)
-- [LangChain + Supabase Vector Store (pgvector) - A Beginner‑Friendly Guide](https://dev.to/gautam_kumar_d3daad738680/langchain-supabase-vector-store-pgvector-a-beginner-friendly-guide-5h33) (2025-09-10)
-- [Waving the Red Flag: Avoiding a 9-to-5 Nightmare, pt. 1](https://dev.to/jessangelo/waving-the-red-flag-avoiding-a-9-to-5-nightmare-pt-1-2n57) (2025-09-10)
-- [The Ultimate Guide to Self-Hosting n8n for Free using Render and Nhost](https://dev.to/singhamandeep007/the-ultimate-guide-to-self-hosting-n8n-for-free-using-render-and-nhost-2d69) (2025-09-10)
-- [IGN: Chainsaw Man - Official Series Recap Video (Sub)](https://dev.to/gg_news/ign-chainsaw-man-official-series-recap-video-sub-5683) (2025-09-10)
+- [The Bilingual Story Engine: Crafting Audio for My Son with the Gemini API](https://dev.to/mark_rembert_03ed82761158/the-bilingual-story-engine-crafting-audio-for-my-son-with-the-gemini-api-5ho0) (2025-09-11)
+- [How do I Structure Projects for Scalability](https://dev.to/aleksandr_ryzhikov/how-do-i-structure-projects-for-scalability-4ppo) (2025-09-11)
+- [Google AI Studio Multimodal Challenge: Free-Tier My A$](https://dev.to/ghotet/google-ai-studio-multimodal-challenge-free-tier-my-a-150a) (2025-09-11)
+- [Hello everyone!](https://dev.to/esdk/hello-everyone-165f) (2025-09-11)
+- [GameSpot: Hollow Knight: Silksong 7 Things I Wish I Knew](https://dev.to/gg_news/gamespot-hollow-knight-silksong-7-things-i-wish-i-knew-5d25) (2025-09-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Great AI Regression.](https://medium.com/@ignacio.de.gregorio.noblejas/the-great-ai-regression-ca1cdc6f1351?source=rss------programming-5) (2025-09-10)
-- [⚡ React Native Advanced Guide: Optimizing Performance with Virtualized Lists ](https://medium.com/@theHackHabitual/react-native-advanced-guide-optimizing-performance-with-virtualized-lists-ba75b693b6f1?source=rss------programming-5) (2025-09-10)
-- [Why Juniors Keep Failing Interviews in Go — And How Seniors Handle Variables Differently](https://elsyarifx.medium.com/why-juniors-keep-failing-interviews-in-go-and-how-seniors-handle-variables-differently-a536649d1fed?source=rss------programming-5) (2025-09-10)
-- [This Quote Is My Best Career Advice for Junior Developers & New Grads](https://medium.com/career-programming/this-quote-is-my-best-career-advice-for-junior-developers-new-grads-e717b03ae10c?source=rss------programming-5) (2025-09-10)
-- [ Freelancing as a Developer: The Complete Guide to Building a Successful Independent Career ](https://medium.com/@MissLucina/freelancing-as-a-developer-the-complete-guide-to-building-a-successful-independent-career-7cbea5c5702f?source=rss------programming-5) (2025-09-10)
+- [7 Hidden Cargo Features That Cut Rust Build Times by 40% and Boost Team Productivity](https://medium.techkoalainsights.com/7-hidden-cargo-features-that-cut-rust-build-times-by-40-and-boost-team-productivity-a27b20f66629?source=rss------programming-5) (2025-09-11)
+- [The Impossible Java Challenge: Writing Code Without Semicolons ](https://medium.com/@sudarshanpawar0007/the-impossible-java-challenge-writing-code-without-semicolons-93bfa432ba3b?source=rss------programming-5) (2025-09-11)
+- [11 Performance Tweaks for Faster EC2 Boot Times](https://aws.plainenglish.io/11-performance-tweaks-for-faster-ec2-boot-times-d3b791f4d569?source=rss------programming-5) (2025-09-11)
+- [One More Skill Every Problem Solver Needs](https://aws.plainenglish.io/one-more-skill-every-problem-solver-needs-4c33bd1f9548?source=rss------programming-5) (2025-09-11)
+- [8 Python Tools That Stop Projects From Breaking](https://python.plainenglish.io/8-python-tools-that-stop-projects-from-breaking-663ec2126303?source=rss------programming-5) (2025-09-11)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Agent Factory: Connecting agents, apps, and data with new open standards like MCP and A2A](https://azure.microsoft.com/en-us/blog/agent-factory-connecting-agents-apps-and-data-with-new-open-standards-like-mcp-and-a2a/) (2025-09-10)
+- [Ask Ralph: Where style meets AI—a new era of conversational commerce](https://www.microsoft.com/en-us/industry/blog/retail/2025/09/09/ask-ralph-where-style-meets-ai-a-new-era-of-conversational-commerce/) (2025-09-09)
 - [Azure mandatory multifactor authentication: Phase 2 starting in October 2025](https://azure.microsoft.com/en-us/blog/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/) (2025-09-05)
 - [Microsoft Cost Management updates—July & August 2025](https://azure.microsoft.com/en-us/blog/microsoft-cost-management-updates-july-august-2025/) (2025-09-04)
 - [Agent Factory: From prototype to production—developer tools and rapid agent development](https://azure.microsoft.com/en-us/blog/agent-factory-from-prototype-to-production-developer-tools-and-rapid-agent-development/) (2025-09-03)
-- [Agent Factory: Top 5 agent observability best practices for reliable AI](https://azure.microsoft.com/en-us/blog/agent-factory-top-5-agent-observability-best-practices-for-reliable-ai/) (2025-08-27)
-- [Transforming scientific discovery with Microsoft Azure and NVIDIA](https://azure.microsoft.com/en-us/blog/transforming-scientific-discovery-with-microsoft-azure-and-nvidia/) (2025-08-26)
 
 </details>
 
@@ -196,11 +196,11 @@
 <details>
 <summary>🟩 Node.js Blog</summary>
 
+- [Node.js v24.8.0 (Current)](https://nodejs.org/en/blog/release/v24.8.0) (2025-09-10)
 - [Node.js v20.19.5 (LTS)](https://nodejs.org/en/blog/release/v20.19.5) (2025-09-03)
 - [Node.js v22.19.0 (LTS)](https://nodejs.org/en/blog/release/v22.19.0) (2025-08-28)
 - [Node.js v24.7.0 (Current)](https://nodejs.org/en/blog/release/v24.7.0) (2025-08-27)
 - [Node.js v24.6.0 (Current)](https://nodejs.org/en/blog/release/v24.6.0) (2025-08-14)
-- [Node.js v22.18.0 (LTS)](https://nodejs.org/en/blog/release/v22.18.0) (2025-07-31)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.34: Use An Init Container To Define App Environment Variables](https://kubernetes.io/blog/2025/09/10/kubernetes-v1-34-env-files/) (2025-09-10)
 - [Kubernetes v1.34: Snapshottable API server cache](https://kubernetes.io/blog/2025/09/09/kubernetes-v1-34-snapshottable-api-server-cache/) (2025-09-09)
 - [Kubernetes v1.34: VolumeAttributesClass for Volume Modification GA](https://kubernetes.io/blog/2025/09/08/kubernetes-v1-34-volume-attributes-class/) (2025-09-08)
 - [Kubernetes v1.34: Pod Replacement Policy for Jobs Goes GA](https://kubernetes.io/blog/2025/09/05/kubernetes-v1-34-pod-replacement-policy-for-jobs-goes-ga/) (2025-09-05)
 - [Kubernetes v1.34: PSI Metrics for Kubernetes Graduates to Beta](https://kubernetes.io/blog/2025/09/04/kubernetes-v1-34-introducing-psi-metrics-beta/) (2025-09-04)
-- [Kubernetes v1.34: Service Account Token Integration for Image Pulls Graduates to Beta](https://kubernetes.io/blog/2025/09/03/kubernetes-v1-34-sa-tokens-image-pulls-beta/) (2025-09-03)
 
 </details>
 
@@ -339,11 +339,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [Supercharge your Git workflows](https://about.gitlab.com/blog/supercharge-your-git-workflows/) (2025-09-10)
 - [A developer's guide to building secure retail apps with GitLab](https://about.gitlab.com/blog/a-developers-guide-to-building-secure-retail-apps-with-gitlab/) (2025-09-04)
 - [Vibe coding with GitLab Duo Agent Platform: Issue to MR Flow](https://about.gitlab.com/blog/vibe-coding-with-gitlab-duo-agent-platform-issue-to-mr-flow/) (2025-09-03)
 - [GitLab achieves ISO/IEC 42001 certification for AI governance](https://about.gitlab.com/blog/gitlab-achieves-iso-iec-42001-certification-for-ai-governance/) (2025-09-02)
 - [Secure Rust development with GitLab](https://about.gitlab.com/blog/secure-rust-development-with-gitlab/) (2025-09-02)
-- [Why enterprise independence matters more than ever in DevSecOps](https://about.gitlab.com/blog/why-enterprise-independence-matters-more-than-ever-in-devsecops/) (2025-09-02)
 
 </details>
 
@@ -373,21 +373,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-A Heartfelt Thanks to Our Community of Builders
-](
-https://www.twilio.com/en-us/blog/company/news/fast-company-2025-best-workplaces-innovators
-) (2025-09-09)
-- [
-The End of the Emergency Plan-as-Usual
-](
-https://www.twilio.com/en-us/blog/insights/crisis-readiness-use-cases
-) (2025-09-09)
-- [
-Perform a Warm Transfer to a Human Agent from the OpenAI Realtime API using Twilio Programmable SIP and TypeScript
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/warm-transfer-openai-realtime-programmable-sip
-) (2025-09-08)
-- [
 Compliance Toolkit: AI-powered support for SMS compliance
 ](
 https://www.twilio.com/en-us/blog/products/launches/introducing-compliance-toolkit
@@ -397,6 +382,21 @@ Calculating Character Count of RCS Messages
 ](
 https://www.twilio.com/en-us/blog/developers/rcs-character-count
 ) (2025-09-03)
+- [
+Laravel Queries: Learn by Building a Data Table
+](
+https://www.twilio.com/en-us/blog/developers/community/laravel-queries-learn-by-building-a-data-table
+) (2025-09-02)
+- [
+Guide to Apple Mail Privacy Protection (MPP) & iOS 18 (2025)
+](
+https://www.twilio.com/en-us/blog/insights/apple-mail-privacy-protection
+) (2025-09-01)
+- [
+AI Email Marketing: Tools, Benefits & Best Practices in 2025
+](
+https://www.twilio.com/en-us/blog/insights/ai-based-email-marketing
+) (2025-09-01)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/developers/rcs-character-count
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Is Your Training Data Representative? A Guide to Checking with PSI in Python](https://towardsdatascience.com/assessment-of-representativeness-between-two-populations-to-ensure-valid-performance-2/) (2025-09-10)
 - [Fighting Back Against Attacks in Federated Learning ](https://towardsdatascience.com/fighting-back-against-attacks-in-federated-learning/) (2025-09-10)
 - [When A Difference Actually Makes A Difference](https://towardsdatascience.com/when-a-difference-actually-makes-a-difference/) (2025-09-10)
 - [Why Task-Based Evaluations Matter](https://towardsdatascience.com/why-task-based-evaluations-matter/) (2025-09-10)
 - [How to Build an AI Budget-Planning Optimizer for Your 2026 CAPEX Review: LangGraph, FastAPI, and n8n](https://towardsdatascience.com/how-to-build-an-ai-budget-planning-optimizer-for-your-2026-capex-review-langgraph-fastapi-and-n8n/) (2025-09-10)
-- [LangChain for EDA: Build a CSV Sanity-Check Agent in Python](https://towardsdatascience.com/langchain-for-eda-build-a-csv-sanity-check-agent-in-python/) (2025-09-09)
 
 </details>
 
