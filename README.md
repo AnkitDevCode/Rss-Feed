@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [A California bill that would regulate AI companion chatbots is close to becoming law](https://techcrunch.com/2025/09/10/a-california-bill-that-would-regulate-ai-companion-chatbots-is-close-to-becoming-law/) (2025-09-11)
+- [Perplexity reportedly raised $200M at $20B valuation](https://techcrunch.com/2025/09/10/perplexity-reportedly-raised-200m-at-20b-valuation/) (2025-09-11)
 - [Thinking Machines Lab wants to make AI models more consistent](https://techcrunch.com/2025/09/10/thinking-machines-lab-wants-to-make-ai-models-more-consistent/) (2025-09-10)
 - [How to turn off autoplay on your social media feeds](https://techcrunch.com/2025/09/10/how-to-turn-off-autoplay-on-your-social-media-feeds/) (2025-09-10)
 - [While US stalls, Australia and Anduril move to put XL undersea vehicle into service](https://techcrunch.com/2025/09/10/while-u-s-stalls-australia-and-anduril-move-to-put-xl-undersea-vehicle-into-service/) (2025-09-10)
-- [Klarna’s IPO pops, raising $1.4B, with Sequoia as the biggest winner](https://techcrunch.com/2025/09/10/klarnas-ipo-pops-raising-1-4b-with-sequoia-as-the-biggest-winner/) (2025-09-10)
-- [OpenAI and Oracle reportedly ink historic cloud computing deal](https://techcrunch.com/2025/09/10/openai-and-oracle-reportedly-ink-historic-cloud-computing-deal/) (2025-09-10)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Gravitational wave detector confirms theories of Einstein and Hawking](https://www.space.com/astronomy/gravitational-wave-detector-confirms-theories-of-einstein-and-hawking-this-is-the-clearest-view-yet-of-the-nature-of-black-holes) (2025-09-10)
+- [The Four Fallacies of Modern AI](https://blog.apiad.net/p/the-four-fallacies-of-modern-ai) (2025-09-11)
+- [Court rejects Verizon claim that selling location data without consent is legal](https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/) (2025-09-11)
+- [Where did the Smurfs get their hats (2018)](https://www.pipelinecomics.com/beginning-bd-smurfs-hats-origin/) (2025-09-11)
 - [DOOMscrolling: The Game](https://ironicsans.ghost.io/doomscrolling-the-game/) (2025-09-10)
 - [Intel's E2200 "Mount Morgan" IPU at Hot Chips 2025](https://chipsandcheese.com/p/intels-e2200-mount-morgan-ipu-at) (2025-09-10)
-- [KDE launches its own distribution](https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/) (2025-09-10)
-- [Fraudulent Publishing in the Mathematical Sciences](https://arxiv.org/abs/2509.07257) (2025-09-10)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Pentagon begins deploying new satellite network to link sensors with shooters](https://arstechnica.com/space/2025/09/pentagon-begins-deploying-new-satellite-network-to-link-sensors-with-shooters/) (2025-09-11)
 - [Court rejects Verizon claim that selling location data without consent is legal](https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/) (2025-09-10)
 - [After Ukrainian testing, drone detection radar doubles range with simple software patch](https://arstechnica.com/culture/2025/09/after-ukrainian-testing-drone-detection-radar-doubles-range-with-simple-software-patch/) (2025-09-10)
 - [HBO Max is “way underpriced,” Warner Bros. Discovery CEO says](https://arstechnica.com/gadgets/2025/09/hbo-max-is-way-underpriced-warner-bros-discovery-ceo-says/) (2025-09-10)
 - [Ousted CDC director to testify before Senate after RFK Jr. called her a liar](https://arstechnica.com/health/2025/09/ousted-cdc-director-to-testify-before-senate-after-rfk-jr-called-her-a-liar/) (2025-09-10)
-- [Senator blasts Microsoft for making default Windows vulnerable to “Kerberoasting”](https://arstechnica.com/security/2025/09/senator-blasts-microsoft-for-making-default-windows-vulnerable-to-kerberoasting/) (2025-09-10)
 
 </details>
 
@@ -86,33 +86,36 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [How AI is reshaping developer teams and the future of software development](https://stackoverflow.blog/2025/09/11/how-ai-is-reshaping-developer-teams/) (2025-09-11)
 - [AI vs Gen Z: How AI has changed the career pathway for junior developers](https://stackoverflow.blog/2025/09/10/ai-vs-gen-z/) (2025-09-10)
 - [We built stackoverflow.ai with the community and for the community](https://stackoverflow.blog/2025/09/09/we-built-stackoverflow-ai-with-the-community-and-for-the-community/) (2025-09-09)
 - [Kotlin is more than just the Android house language](https://stackoverflow.blog/2025/09/05/kotlin-is-more-than-just-the-android-house-language/) (2025-09-05)
 - [Back to school? Developers at Stack Overflow have some advice for you](https://stackoverflow.blog/2025/09/02/back-to-school-developers-at-stack-overflow-have-some-advice-for-you/) (2025-09-02)
-- [Getting started on Stack Overflow: a step-by-step guide for students](https://stackoverflow.blog/2025/09/02/getting-started-on-stack-overflow-a-step-by-step-guide-for-students/) (2025-09-02)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Bilingual Story Engine: Crafting Audio for My Son with the Gemini API](https://dev.to/mark_rembert_03ed82761158/the-bilingual-story-engine-crafting-audio-for-my-son-with-the-gemini-api-5ho0) (2025-09-11)
-- [How do I Structure Projects for Scalability](https://dev.to/aleksandr_ryzhikov/how-do-i-structure-projects-for-scalability-4ppo) (2025-09-11)
-- [Google AI Studio Multimodal Challenge: Free-Tier My A$](https://dev.to/ghotet/google-ai-studio-multimodal-challenge-free-tier-my-a-150a) (2025-09-11)
-- [Hello everyone!](https://dev.to/esdk/hello-everyone-165f) (2025-09-11)
-- [GameSpot: Hollow Knight: Silksong 7 Things I Wish I Knew](https://dev.to/gg_news/gamespot-hollow-knight-silksong-7-things-i-wish-i-knew-5d25) (2025-09-11)
+- [How do you keep async communication clear without making everyone write essays?](https://dev.to/clariti_22_6e89b280ccd102/how-do-you-keep-async-communication-clear-without-making-everyone-write-essays-3ack) (2025-09-11)
+- [Text Base64 Encoder – Encode Your Text Online Effortlessly](https://dev.to/frontendtoolstech/text-base64-encoder-encode-your-text-online-effortlessly-11ce) (2025-09-11)
+- [#DAY 5: Configuring the Data Pipeline](https://dev.to/samueladeduntan/day-5-configuring-the-data-pipeline-b1j) (2025-09-11)
+- [Compile-Time vs Runtime Safety in React (TSX): The Power of never in TypeScript](https://dev.to/itsmearka/blog-3-compile-time-vs-runtime-implications-of-invalid-values-258k) (2025-09-11)
+- [Ng-News 25/36: Q&A with Angular Team, Mutations in ngrx-toolkit](https://dev.to/this-is-angular/ng-news-2536-qa-with-angular-team-mutations-in-ngrx-toolkit-71c) (2025-09-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [7 Hidden Cargo Features That Cut Rust Build Times by 40% and Boost Team Productivity](https://medium.techkoalainsights.com/7-hidden-cargo-features-that-cut-rust-build-times-by-40-and-boost-team-productivity-a27b20f66629?source=rss------programming-5) (2025-09-11)
-- [The Impossible Java Challenge: Writing Code Without Semicolons ](https://medium.com/@sudarshanpawar0007/the-impossible-java-challenge-writing-code-without-semicolons-93bfa432ba3b?source=rss------programming-5) (2025-09-11)
-- [11 Performance Tweaks for Faster EC2 Boot Times](https://aws.plainenglish.io/11-performance-tweaks-for-faster-ec2-boot-times-d3b791f4d569?source=rss------programming-5) (2025-09-11)
-- [One More Skill Every Problem Solver Needs](https://aws.plainenglish.io/one-more-skill-every-problem-solver-needs-4c33bd1f9548?source=rss------programming-5) (2025-09-11)
-- [8 Python Tools That Stop Projects From Breaking](https://python.plainenglish.io/8-python-tools-that-stop-projects-from-breaking-663ec2126303?source=rss------programming-5) (2025-09-11)
+- [09389212898شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dhehxhehehsgsgsgegeg/09389212898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-52a43f8cbe5c?source=rss------programming-5) (2025-09-11)
+- [09389212898شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dhehxhehehsgsgsgegeg/09389212898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-1e650d2ec40d?source=rss------programming-5) (2025-09-11)
+- [09389212898شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dhehxhehehsgsgsgegeg/09389212898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-c9af2ecf2e4e?source=rss------programming-5) (2025-09-11)
+- [Struck gold Ultimate AI video tools](https://thxishwar.medium.com/struck-gold-ultimate-ai-video-tools-52e07786f50c?source=rss------programming-5) (2025-09-11)
+- [️ My Cybersecurity Roadmap: From Curious Beginner to Ethical Hacker](https://medium.com/@vaghelajaydeep069/%EF%B8%8F-my-cybersecurity-roadmap-from-curious-beginner-to-ethical-hacker-7a58d37a51ef?source=rss------programming-5) (2025-09-11)
 
 </details>
 
@@ -373,6 +376,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Perform a Warm Transfer to a Human Agent from the OpenAI Realtime API using Twilio Programmable SIP and TypeScript
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/warm-transfer-openai-realtime-programmable-sip
+) (2025-09-08)
+- [
 Compliance Toolkit: AI-powered support for SMS compliance
 ](
 https://www.twilio.com/en-us/blog/products/launches/introducing-compliance-toolkit
@@ -391,11 +399,6 @@ https://www.twilio.com/en-us/blog/developers/community/laravel-queries-learn-by-
 Guide to Apple Mail Privacy Protection (MPP) & iOS 18 (2025)
 ](
 https://www.twilio.com/en-us/blog/insights/apple-mail-privacy-protection
-) (2025-09-01)
-- [
-AI Email Marketing: Tools, Benefits & Best Practices in 2025
-](
-https://www.twilio.com/en-us/blog/insights/ai-based-email-marketing
 ) (2025-09-01)
 
 </details>
