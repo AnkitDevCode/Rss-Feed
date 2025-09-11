@@ -20,66 +20,66 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [A California bill that would regulate AI companion chatbots is close to becoming law](https://techcrunch.com/2025/09/10/a-california-bill-that-would-regulate-ai-companion-chatbots-is-close-to-becoming-law/) (2025-09-11)
-- [Perplexity reportedly raised $200M at $20B valuation](https://techcrunch.com/2025/09/10/perplexity-reportedly-raised-200m-at-20b-valuation/) (2025-09-11)
-- [Thinking Machines Lab wants to make AI models more consistent](https://techcrunch.com/2025/09/10/thinking-machines-lab-wants-to-make-ai-models-more-consistent/) (2025-09-10)
-- [How to turn off autoplay on your social media feeds](https://techcrunch.com/2025/09/10/how-to-turn-off-autoplay-on-your-social-media-feeds/) (2025-09-10)
-- [While US stalls, Australia and Anduril move to put XL undersea vehicle into service](https://techcrunch.com/2025/09/10/while-u-s-stalls-australia-and-anduril-move-to-put-xl-undersea-vehicle-into-service/) (2025-09-10)
+- [FTC launches inquiry into AI chatbot companions from Meta, OpenAI, and others](https://techcrunch.com/2025/09/11/ftc-launches-inquiry-into-ai-chatbot-companions-from-meta-openai-and-others/) (2025-09-11)
+- [Gmail makes it easier to track upcoming package deliveries](https://techcrunch.com/2025/09/11/gmail-makes-it-easier-to-track-upcoming-package-deliveries/) (2025-09-11)
+- [France says Apple notified victims of new spyware attacks](https://techcrunch.com/2025/09/11/france-says-apple-notified-victims-of-new-spyware-attacks/) (2025-09-11)
+- [Google is shutting down Tables, its Airtable rival](https://techcrunch.com/2025/09/11/google-is-shutting-down-tables-its-airtable-rival/) (2025-09-11)
+- [Humanoids, AVs, and what’s next in AI hardware with Waabi and Apptronik at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/11/humanoids-avs-and-whats-next-in-ai-hardware-at-techcrunch-disrupt-2025/) (2025-09-11)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Piramidal (YC W24) Is Hiring Back End Engineer](https://www.ycombinator.com/companies/piramidal/jobs/1HvdaXs-full-stack-engineer-platform) (2025-09-11)
-- [Reshaped is now open source](https://reshaped.so/blog/reshaped-oss) (2025-09-11)
-- [DeepCodeBench: Real-World Codebase Understanding by Q&A Benchmarking](https://www.qodo.ai/blog/deepcodebench-real-world-codebase-understanding-by-qa-benchmarking/) (2025-09-11)
-- [Germany is not supporting ChatControl – blocking minority secured](https://digitalcourage.social/@echo_pbreyer/115184350819592476) (2025-09-11)
-- [PgEdge Goes Open Source](https://www.pgedge.com/blog/pgedge-goes-open-source) (2025-09-11)
+- [How 'overworked, underpaid' humans train Google's AI to seem smart](https://www.theguardian.com/technology/2025/sep/11/google-gemini-ai-training-humans) (2025-09-11)
+- [Bulletproof host Stark Industries evades EU sanctions](https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/) (2025-09-11)
+- [Native ACME support comes to Nginx](https://letsencrypt.org/2025/09/11/native-acme-for-nginx) (2025-09-11)
+- ['Robber bees' invade apiarist's shop in attempted honey heist](https://www.cbc.ca/news/canada/british-columbia/robber-bees-terrace-bc-apiary-1.7627532) (2025-09-11)
+- [A tech-law measurement and analysis of event listeners for wiretapping](https://arxiv.org/abs/2508.19825) (2025-09-11)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Meet R1, a Chinese tech giant’s rival to Tesla’s Optimus robot](https://www.theverge.com/news/776224/ant-group-tesla-optimus-rival-r1) (2025-09-11)
-- [Borderlands 4 turns off your brain and turns on the fun](https://www.theverge.com/games/776148/borderlands-4-review-coop-looter-shooter-gearbox) (2025-09-11)
-- [David Zaslav thinks HBO Max is ‘way underpriced’](https://www.theverge.com/news/776211/david-zaslav-hbo-max-way-underpriced-password-sharing) (2025-09-11)
-- [Charlie Kirk fatally shot at Turning Point USA event in Utah](https://www.theverge.com/news/776079/charlie-kirk-shooting) (2025-09-11)
-- [How platforms are responding to the Charlie Kirk shooting](https://www.theverge.com/news/776187/charlie-kirk-shooting-videos-platforms-meta-youtube) (2025-09-10)
+- [Baseus&#8217; solar-powered dash cam keeps an eye on your parked car for up to two weeks](https://www.theverge.com/news/776613/baseus-primetrip-vd1-pro-dashcam-solar-power-two-week-standby) (2025-09-11)
+- [You can now play Silksong on flagship Android phones — and pick up where you left off on PC](https://www.theverge.com/hands-on/776180/hollow-knight-silksong-android-phone-windows-emulation-gamehub) (2025-09-11)
+- [The best ereader to buy right now](https://www.theverge.com/23769068/best-ebook-readers) (2025-09-11)
+- [Even killings are content](https://www.theverge.com/analysis/776497/charlie-kirk-shooting-utah-content-creators-influencers) (2025-09-11)
+- [Netflix&#8217;s best movies deserve more time on the big screen](https://www.theverge.com/netflix/776477/netflix-movie-theaters-frankenstein-knives-out) (2025-09-11)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Gmail gets a dedicated place to track all your purchases](https://arstechnica.com/gadgets/2025/09/gmail-gets-a-dedicated-place-to-track-all-your-purchases/) (2025-09-11)
+- [The US is now the largest investor in commercial spyware](https://arstechnica.com/security/2025/09/the-us-is-now-the-largest-investor-in-commercial-spyware/) (2025-09-11)
 - [Pentagon begins deploying new satellite network to link sensors with shooters](https://arstechnica.com/space/2025/09/pentagon-begins-deploying-new-satellite-network-to-link-sensors-with-shooters/) (2025-09-11)
 - [Court rejects Verizon claim that selling location data without consent is legal](https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/) (2025-09-10)
-- [After Ukrainian testing, drone detection radar doubles range with simple software patch](https://arstechnica.com/culture/2025/09/after-ukrainian-testing-drone-detection-radar-doubles-range-with-simple-software-patch/) (2025-09-10)
-- [HBO Max is “way underpriced,” Warner Bros. Discovery CEO says](https://arstechnica.com/gadgets/2025/09/hbo-max-is-way-underpriced-warner-bros-discovery-ceo-says/) (2025-09-10)
-- [Ousted CDC director to testify before Senate after RFK Jr. called her a liar](https://arstechnica.com/health/2025/09/ousted-cdc-director-to-testify-before-senate-after-rfk-jr-called-her-a-liar/) (2025-09-10)
+- [After Ukrainian testing, drone-detection radar doubles range with simple software patch](https://arstechnica.com/culture/2025/09/after-ukrainian-testing-drone-detection-radar-doubles-range-with-simple-software-patch/) (2025-09-10)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [We can’t “make American children healthy again” without tackling the gun crisis](https://www.technologyreview.com/2025/09/11/1123553/maha-report-gun-violence-checkup/) (2025-09-11)
+- [Partnering with generative AI in the finance function](https://www.technologyreview.com/2025/09/11/1123508/partnering-with-generative-ai-in-the-finance-function/) (2025-09-11)
+- [The Download: Trump’s impact on science, and meet our climate and energy honorees](https://www.technologyreview.com/2025/09/11/1123534/the-download-trumps-impact-on-science-and-meet-our-climate-and-energy-honorees/) (2025-09-11)
 - [Texas banned lab-grown meat. What’s next for the industry?](https://www.technologyreview.com/2025/09/11/1123512/texas-lab-grown-meat/) (2025-09-11)
 - [The Download: AI’s energy future](https://www.technologyreview.com/2025/09/10/1123489/the-download-ais-energy-future/) (2025-09-10)
-- [Adapting to new threats with proactive risk management](https://www.technologyreview.com/2025/09/09/1123083/adapting-to-new-threats-with-proactive-risk-management/) (2025-09-09)
-- [The Download: meet our AI innovators, and what happens when therapists use AI covertly](https://www.technologyreview.com/2025/09/09/1123447/the-download-meet-our-ai-innovators-and-what-happens-when-therapists-use-ai-covertly/) (2025-09-09)
-- [Help! My therapist is secretly using ChatGPT](https://www.technologyreview.com/2025/09/09/1123386/help-my-therapist-is-secretly-using-chatgpt/) (2025-09-09)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [GitHub Copilot coding agent 101: Getting started with agentic workflows on GitHub](https://github.blog/ai-and-ml/github-copilot/github-copilot-coding-agent-101-getting-started-with-agentic-workflows-on-github/) (2025-09-11)
 - [Your guide to GitHub Universe 2025: The schedule just launched!](https://github.blog/news-insights/company-news/your-guide-to-github-universe-2025-the-schedule-just-launched/) (2025-09-10)
 - [How to use the GitHub and JFrog integration for secure, traceable builds from commit to production](https://github.blog/enterprise-software/devsecops/how-to-use-the-github-and-jfrog-integration-for-secure-traceable-builds-from-commit-to-production/) (2025-09-09)
 - [How to debug a web app with Playwright MCP and GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/how-to-debug-a-web-app-with-playwright-mcp-and-github-copilot/) (2025-09-05)
 - [GitHub is enabling broader access for developers in Syria following new government trade rules](https://github.blog/company/github-is-enabling-broader-access-for-developers-in-syria-following-new-government-trade-rules/) (2025-09-05)
-- [Building smarter interactions with MCP elicitation: From clunky tool calls to seamless user experiences](https://github.blog/ai-and-ml/github-copilot/building-smarter-interactions-with-mcp-elicitation-from-clunky-tool-calls-to-seamless-user-experiences/) (2025-09-04)
 
 </details>
 
@@ -97,47 +97,44 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [🚀 Day 33 of My Data Analytics Journey !](https://dev.to/ramyacse/day-33-of-my-data-analytics-journey--369d) (2025-09-11)
-- [LearnSphere: Transforming Every Syllabus into a Personalized Learning Journey 📚🚀✨](https://dev.to/divyasinghdev/learnsphere-transforming-every-syllabus-into-a-personalized-learning-journey-4ghp) (2025-09-11)
-- [🕷️ How I Built My First Open Source Project: Spider.css (and What I Learned)](https://dev.to/pjdeveloper896/how-i-built-my-first-open-source-project-spidercss-and-what-i-learned-1hc3) (2025-09-11)
-- [Inside the Hacker’s Playbook (Part 2): The Advanced Stuff Nobody Talks About](https://dev.to/mohamed_essam_27afebce427/inside-the-hackers-playbook-part-2-the-advanced-stuff-nobody-talks-about-d1l) (2025-09-11)
-- [Web Developer Travis McCracken on Structured Logging with Logrus](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-structured-logging-with-logrus-2j9l) (2025-09-11)
+- [🧃 Juice Oracle: The AI That Judges Your Soul Through Your Beverages](https://dev.to/jcloud/juice-oracle-the-ai-that-judges-your-soul-through-your-beverages-3k6l) (2025-09-11)
+- [This is just a test](https://dev.to/ben/this-is-just-a-test-1b12) (2025-09-11)
+- [KEXP: Sea Lemon - Full Performance (Live on KEXP)](https://dev.to/music_youtube/kexp-sea-lemon-full-performance-live-on-kexp-320g) (2025-09-11)
+- [IGN: Borderlands 4 – 9 Things You NEED To Do First](https://dev.to/gg_news/ign-borderlands-4-9-things-you-need-to-do-first-j0f) (2025-09-11)
+- [IGN: Delta Force - Official ‘Fault’ Warfare Map Reveal Trailer](https://dev.to/gg_news/ign-delta-force-official-fault-warfare-map-reveal-trailer-3ma) (2025-09-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [พื้นฐานการใช้งาน React | React Essentials | EP10](https://medium.com/@promsun.9/%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-react-react-essentials-ep10-782b9e156c9d?source=rss------programming-5) (2025-09-11)
-- [09232174161شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@xnjcdiiddnxbwoencjcjdidii/09232174161%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-a16644a57f30?source=rss------programming-5) (2025-09-11)
-- [09232174161شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@xnjcdiiddnxbwoencjcjdidii/09232174161%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-155a7c90257e?source=rss------programming-5) (2025-09-11)
-- [09232174161شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@xnjcdiiddnxbwoencjcjdidii/09232174161%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-6d327fee0bde?source=rss------programming-5) (2025-09-11)
-- [09309022560شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@kxnxjncmnc/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-5bac3e347529?source=rss------programming-5) (2025-09-11)
+- [I Trained an LLM on Stack Overflow: It Learned to Be as Toxic as the Community](https://medium.com/@sohail_saifii/i-trained-an-llm-on-stack-overflow-it-learned-to-be-as-toxic-as-the-community-a4b3a088e27a?source=rss------programming-5) (2025-09-11)
+- [Why PWAs Are a Scam That Benefits No One (Except Google)](https://medium.com/@sohail_saifi/why-pwas-are-a-scam-that-benefits-no-one-except-google-0308d6887d6d?source=rss------programming-5) (2025-09-11)
+- [Native or Cross-Platform? Choosing the Future of Mobile Apps in 2025](https://medium.com/@arkhan.khansb/native-or-cross-platform-choosing-the-future-of-mobile-apps-in-2025-26a252cbd832?source=rss------programming-5) (2025-09-11)
+- [You are absolutely stupid if you believe using AI is like God Mode](https://medium.com/write-a-catalyst/you-are-absolutely-stupid-if-you-believe-using-ai-is-like-god-mode-f0678ba37489?source=rss------programming-5) (2025-09-11)
+- [09332705315شماره خاله مریوان،شماره خاله سراوان،شماره خاله چابهار.شماره](https://medium.com/@ejsksiosodkdod/09332705315%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D8%B1%DB%8C%D9%88%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%D8%B1%D8%A7%D9%88%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%86%D8%A7%D8%A8%D9%87%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-1c59664c1630?source=rss------programming-5) (2025-09-11)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Accelerate serverless testing with LocalStack integration in VS Code IDE](https://aws.amazon.com/blogs/aws/accelerate-serverless-testing-with-localstack-integration-in-vs-code-ide/) (2025-09-11)
 - [AWS Weekly Roundup: AWS Transform, Amazon Neptune, and more (September 8, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-transform-amazon-neptune-and-more-september-8-2025/) (2025-09-08)
 - [Now Open — AWS Asia Pacific (New Zealand) Region](https://aws.amazon.com/blogs/aws/now-open-aws-asia-pacific-new-zealand-region/) (2025-09-01)
 - [AWS Weekly Roundup: Amazon EC2, Amazon Q Developer, IPv6 updates, and more (September 1, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-amazon-q-developer-ipv6-updates-and-more-september-1-2025/) (2025-09-01)
 - [New general-purpose Amazon EC2 M8i and M8i Flex instances are now available](https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8i-and-m8i-flex-instances-are-now-available/) (2025-08-28)
-- [AWS services scale to new heights for Prime Day 2025: key metrics and milestones](https://aws.amazon.com/blogs/aws/aws-services-scale-to-new-heights-for-prime-day-2025-key-metrics-and-milestones/) (2025-08-26)
 
 </details>
 
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Agent Factory: Connecting agents, apps, and data with new open standards like MCP and A2A](https://azure.microsoft.com/en-us/blog/agent-factory-connecting-agents-apps-and-data-with-new-open-standards-like-mcp-and-a2a/) (2025-09-10)
 - [Ask Ralph: Where style meets AI—a new era of conversational commerce](https://www.microsoft.com/en-us/industry/blog/retail/2025/09/09/ask-ralph-where-style-meets-ai-a-new-era-of-conversational-commerce/) (2025-09-09)
 - [Azure mandatory multifactor authentication: Phase 2 starting in October 2025](https://azure.microsoft.com/en-us/blog/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/) (2025-09-05)
 - [Microsoft Cost Management updates—July & August 2025](https://azure.microsoft.com/en-us/blog/microsoft-cost-management-updates-july-august-2025/) (2025-09-04)
 - [Agent Factory: From prototype to production—developer tools and rapid agent development](https://azure.microsoft.com/en-us/blog/agent-factory-from-prototype-to-production-developer-tools-and-rapid-agent-development/) (2025-09-03)
-- [Agent Factory: Top 5 agent observability best practices for reliable AI](https://azure.microsoft.com/en-us/blog/agent-factory-top-5-agent-observability-best-practices-for-reliable-ai/) (2025-08-27)
 
 </details>
 
@@ -276,11 +273,11 @@
 <details>
 <summary>💳 Stripe Blog</summary>
 
+- [A framework for pricing AI products](https://stripe.com/blog/a-framework-for-pricing-ai-products) (2025-09-11)
 - [Introducing Tempo, the payments-first blockchain](https://tempo.xyz/launch-announcement) (2025-09-04)
 - [The conversion paradox: 3DS trends in regulated markets](https://stripe.com/blog/3ds-trends-in-regulated-markets) (2025-08-26)
 - [The top industries and business models using AI for fraud prevention](https://stripe.com/blog/top-industries-and-business-models-using-ai-for-fraud-prevention) (2025-08-12)
 - [How we built it: Jurisdiction resolution for Stripe Tax](https://stripe.com/blog/how-we-built-it-jurisdiction-resolution-for-stripe-tax) (2025-07-10)
-- [Inside the growth of the top AI companies on Stripe](https://stripe.com/blog/inside-the-growth-of-the-top-ai-companies-on-stripe) (2025-06-30)
 
 </details>
 
@@ -320,22 +317,22 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [JetBrains at the ICPC World Finals 2025 Baku](https://blog.jetbrains.com/blog/2025/09/11/jetbrains-at-the-icpc-world-finals-2025-baku/) (2025-09-11)
 - [Testing AI Coding Agents With TeamCity and SWE-bench](https://blog.jetbrains.com/teamcity/2025/09/testing-ai-coding-agents-with-teamcity-and-swe-bench/) (2025-09-11)
 - [TeamCity 2025.07.2 Is Available](https://blog.jetbrains.com/teamcity/2025/09/teamcity-2025-07-2-bug-fix/) (2025-09-10)
 - [Kotlin 2.2.20 Released](https://blog.jetbrains.com/kotlin/2025/09/kotlin-2-2-20-released/) (2025-09-10)
 - [Junie Is Now Available in CLion: Supercharge Your C and C++ Development Today](https://blog.jetbrains.com/clion/2025/09/junie-availability/) (2025-09-10)
-- [MPS 2025.2 Is Out!](https://blog.jetbrains.com/mps/2025/09/mps-2025-1-is-out-2/) (2025-09-09)
 
 </details>
 
 <details>
 <summary>📝 Visual Studio Code</summary>
 
+- [August 2025 (version 1.104)](https://code.visualstudio.com/updates/v1_104) (2025-09-11)
 - [VS Code Dev Days – Join an event near you to learn about AI-assisted development](https://code.visualstudio.com/blogs/2025/08/27/vscode-dev-days) (2025-08-26)
 - [July 2025 (version 1.103)](https://code.visualstudio.com/updates/v1_103) (2025-08-07)
 - [Command GitHub's Coding Agent from VS Code](https://code.visualstudio.com/blogs/2025/07/17/copilot-coding-agent) (2025-07-17)
 - [June 2025 (version 1.102)](https://code.visualstudio.com/updates/v1_102) (2025-07-09)
-- [Open Source AI Editor: First Milestone](https://code.visualstudio.com/blogs/2025/06/30/openSourceAIEditorFirstMilestone) (2025-06-30)
 
 </details>
 
@@ -381,6 +378,11 @@ A Heartfelt Thanks to Our Community of Builders
 https://www.twilio.com/en-us/blog/company/news/fast-company-2025-best-workplaces-innovators
 ) (2025-09-09)
 - [
+The End of the Emergency Plan-as-Usual
+](
+https://www.twilio.com/en-us/blog/insights/crisis-readiness-use-cases
+) (2025-09-09)
+- [
 Perform a Warm Transfer to a Human Agent from the OpenAI Realtime API using Twilio Programmable SIP and TypeScript
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/warm-transfer-openai-realtime-programmable-sip
@@ -395,11 +397,6 @@ Calculating Character Count of RCS Messages
 ](
 https://www.twilio.com/en-us/blog/developers/rcs-character-count
 ) (2025-09-03)
-- [
-Laravel Queries: Learn by Building a Data Table
-](
-https://www.twilio.com/en-us/blog/developers/community/laravel-queries-learn-by-building-a-data-table
-) (2025-09-02)
 
 </details>
 
@@ -494,11 +491,11 @@ https://www.twilio.com/en-us/blog/developers/community/laravel-queries-learn-by-
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
+- [Integrate Data Cloud’s Document AI with Agentforce](https://developer.salesforce.com/blogs/2025/09/integrate-data-clouds-document-ai-with-agentforce.html) (2025-09-11)
 - [AuraEnabled Apex Methods Are Now Available as Agent Actions](https://developer.salesforce.com/blogs/2025/09/auraenabled-apex-methods-are-now-available-as-agent-actions.html) (2025-09-09)
 - [The Salesforce Developer’s Guide to the Winter ’26 Release](https://developer.salesforce.com/blogs/2025/09/winter26-developers.html) (2025-09-08)
 - [Build and Manage Agents with Agentforce Python SDK](https://developer.salesforce.com/blogs/2025/09/build-and-manage-agents-with-agentforce-python-sdk.html) (2025-09-04)
 - [A Developer’s Guide to Context Engineering with Agentforce](https://developer.salesforce.com/blogs/2025/08/a-developers-guide-to-context-engineering-with-agentforce.html) (2025-08-26)
-- [Secure Service Agents with Customer Verification](https://developer.salesforce.com/blogs/2025/08/secure-service-agents-with-customer-verification.html) (2025-08-21)
 
 </details>
 
@@ -516,11 +513,11 @@ https://www.twilio.com/en-us/blog/developers/community/laravel-queries-learn-by-
 <details>
 <summary>💬 Slack API</summary>
 
-- [Workforce Lab Expert Panel – AI agents and the future of work](https://slack.com/blog/news/workforce-lab-expert-panel-ai-agents-and-the-future-of-work) (2025-09-03)
-- [AI Summarization: A Guide to Conquering Information Overload](https://slack.com/blog/productivity/ai-summarization-a-guide-to-conquering-information-overload) (2025-08-31)
-- [Unlock the Full Power of Your Tech Stack with Slack Work Objects](https://slack.com/blog/news/slack-work-objects-integration) (2025-08-27)
-- [Why Your Next Big Idea Needs a Proof of Concept First](https://slack.com/blog/productivity/why-your-next-big-idea-needs-a-proof-of-concept-first) (2025-08-26)
-- [7 Team-Building Activities To Move Forward as One](https://slack.com/blog/collaboration/team-building-activities-move-forward) (2025-08-20)
+- [A Research-Backed Sales Playbook for Connecting Slack and Salesforce](https://slack.com/blog/productivity/connecting-slack-salesforce-sales-playbook) (2025-09-11)
+- [15 Team Meeting Ideas That Help Employees Stay Focused](https://slack.com/blog/collaboration/15-team-meeting-ideas-that-help-employees-stay-focused) (2025-09-10)
+- [15 Team Meeting Ideas That Help Employees Stay Focused](https://slack.com/blog/collaboration/engaging-team-meetings) (2025-09-10)
+- [Agile and Scrum: Definitions, Differences, and Examples](https://slack.com/blog/collaboration/agile-vs-scrum) (2025-09-10)
+- [How a Well-Managed Backlog Keeps Your Sprint on Track](https://slack.com/blog/productivity/how-a-well-managed-backlog-keeps-your-sprint-on-track) (2025-09-08)
 
 </details>
 
@@ -560,33 +557,33 @@ https://www.twilio.com/en-us/blog/developers/community/laravel-queries-learn-by-
 <details>
 <summary>🤖 AI News</summary>
 
+- [VMware nods to AI but looks to long-term](https://www.artificialintelligence-news.com/news/broadcom-nods-at-ai-looks-to-long-term/) (2025-09-11)
+- [Yext Scout Guides Brands Through AI Search Challenges](https://www.artificialintelligence-news.com/news/yext-scout-guides-brands-through-ai-search-challenges/) (2025-09-11)
 - [Thinking Machines becomes OpenAI’s first services partner in APAC](https://www.artificialintelligence-news.com/news/thinking-machines-becomes-openai-first-services-partner-in-apac/) (2025-09-09)
 - [Alibaba’s new Qwen model to supercharge AI transcription tools](https://www.artificialintelligence-news.com/news/alibaba-new-qwen-model-supercharge-ai-transcription-tools/) (2025-09-08)
 - [Siddhartha Choudhury, Booking.com: Fighting online fraud with AI](https://www.artificialintelligence-news.com/news/siddhartha-choudhury-booking-com-fighting-online-fraud-with-ai/) (2025-09-08)
-- [UK AI sector growth hits record £2.9B investment ](https://www.artificialintelligence-news.com/news/uk-ai-sector-growth-hits-record-2-9b-investment/) (2025-09-05)
-- [Switzerland releases 100% open AI model](https://www.artificialintelligence-news.com/news/switzerland-releases-its-own-fully-open-ai-model/) (2025-09-04)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Analyze and Optimize Your LLMs in 3 Steps](https://towardsdatascience.com/how-to-analyze-and-optimize-your-llms-in-3-steps/) (2025-09-11)
+- [The Crucial Role of Color Theory in Data Analysis and Visualization](https://towardsdatascience.com/the-crucial-role-of-color-theory-in-data-analysis-and-visualization/) (2025-09-11)
 - [Is Your Training Data Representative? A Guide to Checking with PSI in Python](https://towardsdatascience.com/assessment-of-representativeness-between-two-populations-to-ensure-valid-performance-2/) (2025-09-10)
 - [Fighting Back Against Attacks in Federated Learning ](https://towardsdatascience.com/fighting-back-against-attacks-in-federated-learning/) (2025-09-10)
 - [When A Difference Actually Makes A Difference](https://towardsdatascience.com/when-a-difference-actually-makes-a-difference/) (2025-09-10)
-- [Why Task-Based Evaluations Matter](https://towardsdatascience.com/why-task-based-evaluations-matter/) (2025-09-10)
-- [How to Build an AI Budget-Planning Optimizer for Your 2026 CAPEX Review: LangGraph, FastAPI, and n8n](https://towardsdatascience.com/how-to-build-an-ai-budget-planning-optimizer-for-your-2026-capex-review-langgraph-fastapi-and-n8n/) (2025-09-10)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Tips for Building ML Models that Solve Real Problems ](https://www.analyticsvidhya.com/blog/2025/09/tips-for-building-ml-models/) (2025-09-11)
+- [Why do LLMs hallucinate and how can these be fixed?](https://www.analyticsvidhya.com/blog/2025/09/why-llms-hallucinate/) (2025-09-11)
 - [Better Than GPT-5? We Try ERNIE X1.1, Baidu’s Latest AI Model](https://www.analyticsvidhya.com/blog/2025/09/ernie-x1-1/) (2025-09-10)
 - [15 Nano Banana Prompts to Try Today!](https://www.analyticsvidhya.com/blog/2025/09/nano-banana-prompts/) (2025-09-10)
 - [OpenAI Announces Jobs Platform, Certifications For AI-Powered Job Roles](https://www.analyticsvidhya.com/blog/2025/09/openai-jobs-platform-certifications-for-ai-jobs/) (2025-09-09)
-- [Nano Banana vs. Qwen Image: Which is Better?](https://www.analyticsvidhya.com/blog/2025/09/nano-banana-vs-qwen-image/) (2025-09-09)
-- [Embedding Gemma: On-Device RAG Made Easy](https://www.analyticsvidhya.com/blog/2025/09/embeddinggemma/) (2025-09-08)
 
 </details>
 
@@ -604,11 +601,11 @@ https://www.twilio.com/en-us/blog/developers/community/laravel-queries-learn-by-
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [The Roadmap for Mastering AI-Assisted Coding in 2025](https://machinelearningmastery.com/the-roadmap-for-mastering-ai-assisted-coding-in-2025/) (2025-09-11)
 - [10 Common Misconceptions About Large Language Models](https://machinelearningmastery.com/10-common-misconceptions-about-large-language-models/) (2025-09-10)
 - [Multi-Agent Systems: The Next Frontier in AI-Driven Cyber Defense](https://machinelearningmastery.com/multi-agent-systems-the-next-frontier-in-ai-driven-cyber-defense/) (2025-09-09)
 - [ROC AUC vs Precision-Recall for Imbalanced Data](https://machinelearningmastery.com/roc-auc-vs-precision-recall-for-imbalanced-data/) (2025-09-09)
 - [7 Scikit-learn Tricks for Optimized Cross-Validation](https://machinelearningmastery.com/7-scikit-learn-tricks-for-optimized-cross-validation/) (2025-09-08)
-- [A Gentle Introduction to Batch Normalization](https://machinelearningmastery.com/a-gentle-introduction-to-batch-normalization/) (2025-09-05)
 
 </details>
 
