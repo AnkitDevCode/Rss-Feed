@@ -31,44 +31,44 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Debian 13, Postgres, and the US time zones](https://rachelbythebay.com/w/2025/09/11/debtz/) (2025-09-12)
-- [The challenge of maintaining curl](https://lwn.net/Articles/1034966/) (2025-09-12)
-- [The effects of algorithms on the public discourse](https://tekhne.dev/internet-resist/) (2025-09-12)
-- [Backprompting: Leveraging synthetic production data for health advice guardrails](https://arxiv.org/abs/2508.18384) (2025-09-12)
-- [Float Exposed](https://float.exposed/) (2025-09-12)
+- [Astrophysics Source Code Library](http://ascl.net/) (2025-09-12)
+- [Becoming the person who does the thing](https://www.fredrivett.com/2025/09/10/becoming-the-person-who-does-the-thing/) (2025-09-12)
+- [Examples from The LaTeX Companion book (3rd edition)](https://ctan.org/pkg/tlc3-examples) (2025-09-12)
+- [Show HN: I made a generative online drum machine with ClojureScript](https://dopeloop.ai/beat-maker/) (2025-09-12)
+- [Qwen3-Next](https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list) (2025-09-12)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Apple Watch hypertension feature cleared by FDA](https://www.theverge.com/news/776942/apple-watch-hypertension-feature-cleared-by-fda) (2025-09-12)
-- [Microsoft and OpenAI have a new deal that could clear the way for an IPO](https://www.theverge.com/news/776884/openai-microsoft-mou) (2025-09-11)
-- [Microsoft is making &#8216;significant investments&#8217; in training its own AI models](https://www.theverge.com/report/776853/microsoft-ai-training-capacity-investments-in-house-models) (2025-09-11)
-- [Republicans pledge censorship crackdown to avenge Charlie Kirk’s death](https://www.theverge.com/policy/776840/charlie-kirk-death-social-media-jawboning) (2025-09-11)
-- [Anthropic’s Claude AI can now automatically ‘remember’ past chats](https://www.theverge.com/news/776827/anthropic-claude-ai-memory-upgrade-team-enterprise) (2025-09-11)
+- [iPhone Air launch delayed in China over eSIM issues](https://www.theverge.com/news/777023/iphone-air-launch-delayed-china-esim-issues) (2025-09-12)
+- [Apple’s 2025 iPhone lineup is now available to preorder](https://www.theverge.com/tech/772748/iphone-17-pro-air-preorder-price-how-to-buy-release-date) (2025-09-12)
+- [Sony’s new Xperia phone jumps on the camera bar bandwagon](https://www.theverge.com/news/777002/sony-xperia-10-vii-phone-design-specs-price) (2025-09-12)
+- [Prongs rock](https://www.theverge.com/hands-on/776797/xbox-ally-x-prongs-comfort-editorial) (2025-09-12)
+- [Microsoft avoids EU fine after Slack complained about Teams bundling](https://www.theverge.com/news/776968/microsoft-teams-eu-commitments-avoid-fine) (2025-09-12)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Jef Raskin’s cul-de-sac and the quest for the humane computer](https://arstechnica.com/gadgets/2025/09/jef-raskins-cul-de-sac-and-the-quest-for-the-humane-computer/) (2025-09-12)
 - [OpenAI and Microsoft sign preliminary deal to revise partnership terms](https://arstechnica.com/ai/2025/09/openai-and-microsoft-sign-preliminary-deal-to-revise-partnership-terms/) (2025-09-11)
 - [Child dies of horrifying measles complication in Los Angeles](https://arstechnica.com/health/2025/09/child-dies-of-horrifying-measles-complication-in-los-angeles/) (2025-09-11)
 - [NASA found intriguing rocks on Mars, so where does that leave Mars Sample Return?](https://arstechnica.com/space/2025/09/nasa-found-intriguing-rocks-on-mars-so-where-does-that-leave-mars-sample-return/) (2025-09-11)
 - [Latest TRON: Ares trailer takes us back to 1982](https://arstechnica.com/culture/2025/09/latest-tron-ares-trailer-takes-us-back-to-1982/) (2025-09-11)
-- [New black hole merger bolsters Hawking area theorem](https://arstechnica.com/science/2025/09/new-black-hole-merger-bolsters-hawking-area-theorem/) (2025-09-11)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: America’s gun crisis, and how AI video models work](https://www.technologyreview.com/2025/09/12/1123577/the-download-americas-gun-crisis-and-how-ai-video-models-work/) (2025-09-12)
+- [How do AI models generate videos?](https://www.technologyreview.com/2025/09/12/1123562/how-do-ai-models-generate-videos/) (2025-09-12)
 - [We can’t “make American children healthy again” without tackling the gun crisis](https://www.technologyreview.com/2025/09/11/1123553/maha-report-gun-violence-checkup/) (2025-09-11)
 - [Partnering with generative AI in the finance function](https://www.technologyreview.com/2025/09/11/1123508/partnering-with-generative-ai-in-the-finance-function/) (2025-09-11)
 - [The Download: Trump’s impact on science, and meet our climate and energy honorees](https://www.technologyreview.com/2025/09/11/1123534/the-download-trumps-impact-on-science-and-meet-our-climate-and-energy-honorees/) (2025-09-11)
-- [Texas banned lab-grown meat. What’s next for the industry?](https://www.technologyreview.com/2025/09/11/1123512/texas-lab-grown-meat/) (2025-09-11)
-- [The Download: AI’s energy future](https://www.technologyreview.com/2025/09/10/1123489/the-download-ais-energy-future/) (2025-09-10)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How to Avoid Becoming Dependent on One Model](https://dev.to/leena_malhotra/how-to-avoid-becoming-dependent-on-one-model-68j) (2025-09-12)
-- [Unlocking Team Superpowers: The Secret Language of Spatial Harmony by Arvind Sundararajan](https://dev.to/arvindsundararajan/unlocking-team-superpowers-the-secret-language-of-spatial-harmony-by-arvind-sundararajan-540a) (2025-09-12)
-- [JuiceFS Writeback: The Write Acceleration Mechanism and Its Applicable Scenarios](https://dev.to/daswu/juicefs-writeback-the-write-acceleration-mechanism-and-its-applicable-scenarios-4787) (2025-09-12)
-- [❌ Stop Using Kubernetes for Simple Apps](https://dev.to/abdelghani_alhijawi_499197ca/stop-using-kubernetes-for-simple-apps-2if3) (2025-09-12)
-- [Why Data Partitioning Is Harder Than It Looks](https://dev.to/dct_technology/why-data-partitioning-is-harder-than-it-looks-4hc9) (2025-09-12)
+- [Web Developer Travis McCracken on Fast File Upload APIs with Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-fast-file-upload-apis-with-go-2a9i) (2025-09-12)
+- [Pi-hole v6: How to actually set a password and login properly?](https://dev.to/yoshi_homelab/pi-hole-v6-how-to-actually-set-a-password-and-login-properly-n9k) (2025-09-12)
+- [KEXP: Japanese Breakfast - My Baby (Got Nothing At All) (Live on KEXP)](https://dev.to/music_youtube/kexp-japanese-breakfast-my-baby-got-nothing-at-all-live-on-kexp-1eh3) (2025-09-12)
+- [KEXP: Japanese Breakfast - Honey Water (Live on KEXP)](https://dev.to/music_youtube/kexp-japanese-breakfast-honey-water-live-on-kexp-1k3d) (2025-09-12)
+- [KEXP: Japanese Breakfast - Picture Window (Live on KEXP)](https://dev.to/music_youtube/kexp-japanese-breakfast-picture-window-live-on-kexp-5fod) (2025-09-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ Action Mailbox + IMAP/POP3: The Guide I Wish Already Existed](https://medium.com/code-and-coffee/action-mailbox-imap-pop3-the-guide-i-wish-already-existed-cfc641fd4ba4?source=rss------programming-5) (2025-09-12)
-- [Why Ethereum Developers Are the Most Delusional People in Tech](https://medium.com/@sohail_saifi/why-ethereum-developers-are-the-most-delusional-people-in-tech-19e6f1acb2b6?source=rss------programming-5) (2025-09-12)
-- [Demystifying ~ and ^ in package.json: A Guide for Angular Developers](https://medium.com/@surajkale2215/demystifying-and-in-package-json-a-guide-for-angular-developers-6d86f3ea5647?source=rss------programming-5) (2025-09-12)
-- [ Next.js Advanced Deep Dive: Mastering Server Actions & The Future of Full-Stack React](https://medium.com/@Amanda10/next-js-advanced-deep-dive-mastering-server-actions-the-future-of-full-stack-react-fd23c7e84775?source=rss------programming-5) (2025-09-12)
-- [The Python Trick That Made My Friends Think I Was a Hacker](https://python.plainenglish.io/the-python-trick-that-made-my-friends-think-i-was-a-hacker-26c3022a2261?source=rss------programming-5) (2025-09-12)
+- [Apple Is Secretly Killing Flutter — Here’s How](https://medium.com/@avula.koti.realpage/apple-is-secretly-killing-flutter-heres-how-93f60c6a7f32?source=rss------programming-5) (2025-09-12)
+- [Why Scaling Down Is Harder Than Scaling Up](https://medium.com/@toyezyadav/why-scaling-down-is-harder-than-scaling-up-edc5cfb27e17?source=rss------programming-5) (2025-09-12)
+- [09013027390](https://medium.com/@ctfjsg5dh5fhrdh/09013027390-5302b2e2bb67?source=rss------programming-5) (2025-09-12)
+- [09013027390](https://medium.com/@ctfjsg5dh5fhrdh/09013027390-cc771b93201d?source=rss------programming-5) (2025-09-12)
+- [09013027390](https://medium.com/@ctfjsg5dh5fhrdh/09013027390-03973ae52da0?source=rss------programming-5) (2025-09-12)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Agent Factory: Connecting agents, apps, and data with new open standards like MCP and A2A](https://azure.microsoft.com/en-us/blog/agent-factory-connecting-agents-apps-and-data-with-new-open-standards-like-mcp-and-a2a/) (2025-09-10)
 - [Ask Ralph: Where style meets AI—a new era of conversational commerce](https://www.microsoft.com/en-us/industry/blog/retail/2025/09/09/ask-ralph-where-style-meets-ai-a-new-era-of-conversational-commerce/) (2025-09-09)
 - [Azure mandatory multifactor authentication: Phase 2 starting in October 2025](https://azure.microsoft.com/en-us/blog/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/) (2025-09-05)
 - [Microsoft Cost Management updates—July & August 2025](https://azure.microsoft.com/en-us/blog/microsoft-cost-management-updates-july-august-2025/) (2025-09-04)
 - [Agent Factory: From prototype to production—developer tools and rapid agent development](https://azure.microsoft.com/en-us/blog/agent-factory-from-prototype-to-production-developer-tools-and-rapid-agent-development/) (2025-09-03)
+- [Agent Factory: Top 5 agent observability best practices for reliable AI](https://azure.microsoft.com/en-us/blog/agent-factory-top-5-agent-observability-best-practices-for-reliable-ai/) (2025-08-27)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Achieve Effortless GitHub Releases With a New Plugin for TeamCity](https://blog.jetbrains.com/teamcity/2025/09/teamcity-github-releases-plugin/) (2025-09-12)
 - [JetBrains at the ICPC World Finals 2025 Baku](https://blog.jetbrains.com/blog/2025/09/11/jetbrains-at-the-icpc-world-finals-2025-baku/) (2025-09-11)
 - [Testing AI Coding Agents With TeamCity and SWE-bench](https://blog.jetbrains.com/teamcity/2025/09/testing-ai-coding-agents-with-teamcity-and-swe-bench/) (2025-09-11)
 - [TeamCity 2025.07.2 Is Available](https://blog.jetbrains.com/teamcity/2025/09/teamcity-2025-07-2-bug-fix/) (2025-09-10)
 - [Kotlin 2.2.20 Released](https://blog.jetbrains.com/kotlin/2025/09/kotlin-2-2-20-released/) (2025-09-10)
-- [Junie Is Now Available in CLion: Supercharge Your C and C++ Development Today](https://blog.jetbrains.com/clion/2025/09/junie-availability/) (2025-09-10)
 
 </details>
 
@@ -513,11 +513,11 @@ https://www.twilio.com/en-us/blog/developers/rcs-character-count
 <details>
 <summary>💬 Slack API</summary>
 
+- [A Research-Backed Sales Playbook for Connecting Slack and Salesforce](https://slack.com/blog/productivity/connecting-slack-salesforce-sales-playbook) (2025-09-11)
+- [15 Team Meeting Ideas That Help Employees Stay Focused](https://slack.com/blog/collaboration/engaging-team-meetings) (2025-09-10)
+- [Agile and Scrum: Definitions, Differences, and Examples](https://slack.com/blog/collaboration/agile-vs-scrum) (2025-09-10)
 - [How a Well-Managed Backlog Keeps Your Sprint on Track](https://slack.com/blog/productivity/how-a-well-managed-backlog-keeps-your-sprint-on-track) (2025-09-08)
 - [What is a Digital Workplace? How It Works & Why It Matters](https://slack.com/blog/transformation/what-is-a-digital-workplace-how-it-works-why-it-matters) (2025-09-08)
-- [Workforce Lab Expert Panel – AI agents and the future of work](https://slack.com/blog/news/workforce-lab-expert-panel-ai-agents-and-the-future-of-work) (2025-09-03)
-- [AI Summarization: A Guide to Conquering Information Overload](https://slack.com/blog/productivity/ai-summarization-a-guide-to-conquering-information-overload) (2025-08-31)
-- [Unlock the Full Power of Your Tech Stack with Slack Work Objects](https://slack.com/blog/news/slack-work-objects-integration) (2025-08-27)
 
 </details>
 
@@ -579,22 +579,22 @@ https://www.twilio.com/en-us/blog/developers/rcs-character-count
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Qwen-3-Next: Leaner, Faster, Smarter Than GPT-5 and Gemini 2.5 Pro](https://www.analyticsvidhya.com/blog/2025/09/qwen3-next/) (2025-09-12)
+- [End-to-End Marketing Automation Using Nano Banana + n8n](https://www.analyticsvidhya.com/blog/2025/09/marketing-automation-using-nano-banana-and-n8n/) (2025-09-12)
 - [Tips for Building ML Models that Solve Real Problems ](https://www.analyticsvidhya.com/blog/2025/09/tips-for-building-ml-models/) (2025-09-11)
 - [Why do LLMs hallucinate and how can these be fixed?](https://www.analyticsvidhya.com/blog/2025/09/why-llms-hallucinate/) (2025-09-11)
 - [Better Than GPT-5? We Try ERNIE X1.1, Baidu’s Latest AI Model](https://www.analyticsvidhya.com/blog/2025/09/ernie-x1-1/) (2025-09-10)
-- [15 Nano Banana Prompts to Try Today!](https://www.analyticsvidhya.com/blog/2025/09/nano-banana-prompts/) (2025-09-10)
-- [OpenAI Announces Jobs Platform, Certifications For AI-Powered Job Roles](https://www.analyticsvidhya.com/blog/2025/09/openai-jobs-platform-certifications-for-ai-jobs/) (2025-09-09)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Tips for Building Optimized Hugging Face Transformer Pipelines](https://www.kdnuggets.com/5-tips-for-building-optimized-hugging-face-transformer-pipelines) (2025-09-12)
 - [12 Essential Lessons for Building AI Agents](https://www.kdnuggets.com/12-essential-lessons-for-building-ai-agents) (2025-09-11)
 - [5 Portfolio Mistakes That Keep Data Scientists From Getting Hired](https://www.kdnuggets.com/5-portfolio-mistakes-that-keep-data-scientists-from-getting-hired) (2025-09-10)
 - [A Gentle Introduction to Docker for Python Developers](https://www.kdnuggets.com/a-gentle-introduction-to-docker-for-python-developers) (2025-09-09)
 - [Ray or Dask? A Practical Guide for Data Scientists](https://www.kdnuggets.com/ray-or-dask-a-practical-guide-for-data-scientists) (2025-09-09)
-- [5 Free AI Courses from Hugging Face](https://www.kdnuggets.com/5-free-ai-courses-from-hugging-face) (2025-09-09)
 
 </details>
 
