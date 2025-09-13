@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Qwen 3 now supports ARM and MLX](https://www.alizila.com/qwen-ecosystem-expands-rapidly-accelerating-ai-adoption-across-industries/) (2025-09-13)
-- [SkiftOS: A hobby OS built from scratch using C/C++ for ARM, x86, and RISC-V](https://skiftos.org) (2025-09-13)
-- [Raspberry Pi Synthesizers – How the Pi is transforming synths](https://www.gearnews.com/raspberry-pi-synthesizers-how-the-pi-is-transforming-synths/) (2025-09-13)
-- [Show HN: wcwidth-o1 – Find Unicode text cell width in no time for JavaScript/TS](https://github.com/dawsonhuang0/Wcwidth-O1) (2025-09-13)
-- [OCI Registry Explorer](https://oci.dag.dev/) (2025-09-13)
+- [How 'overworked, underpaid' humans train Google's AI to seem smart](https://www.theguardian.com/technology/2025/sep/11/google-gemini-ai-training-humans) (2025-09-13)
+- [AI Coding](https://geohot.github.io//blog/jekyll/update/2025/09/12/ai-coding.html) (2025-09-13)
+- [Java 25's new CPU-Time Profiler (1)](https://mostlynerdless.de/blog/2025/06/11/java-25s-new-cpu-time-profiler-1/) (2025-09-13)
+- [I unified convolution and attention into a single framework](https://zenodo.org/records/17103133) (2025-09-13)
+- [Social media promised connection, but it has delivered exhaustion](https://www.noemamag.com/the-last-days-of-social-media/) (2025-09-13)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [The US is trying to kick-start a “nuclear energy renaissance”](https://arstechnica.com/science/2025/09/the-us-is-trying-to-kick-start-a-nuclear-energy-renaissance/) (2025-09-13)
+- [60 years after Gemini, newly processed images reveal incredible details](https://arstechnica.com/space/2025/09/60-years-after-gemini-newly-processed-images-reveal-incredible-details/) (2025-09-13)
 - [Scientists: It’s do or die time for America’s primacy exploring the Solar System](https://arstechnica.com/space/2025/09/scientists-its-do-or-die-time-for-americas-primacy-exploring-the-solar-system/) (2025-09-12)
 - [RFK Jr.’s CDC may limit COVID shots to 75 and up, claim they killed kids](https://arstechnica.com/health/2025/09/covid-shot-access-could-tighten-rfk-jr-may-claim-they-cause-child-deaths/) (2025-09-12)
 - [Modder injects AI dialogue into 2002’s Animal Crossing using memory hack](https://arstechnica.com/gaming/2025/09/animal-crossing-mod-uses-ai-to-orchestrate-anti-tom-nook-villager-revolt/) (2025-09-12)
-- [Feds try to dodge lawsuit against their bogus climate report](https://arstechnica.com/science/2025/09/department-of-energy-gets-rid-of-climate-skeptics-group-to-dodge-lawsuit/) (2025-09-12)
-- [After Kirk shooting, Utah governor calls social media a “cancer.” Will we treat it like one?](https://arstechnica.com/culture/2025/09/after-kirk-shooting-utah-governor-calls-social-media-a-cancer-will-we-treat-it-like-one/) (2025-09-12)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Meet Super Banana 🍌](https://dev.to/abhinav-writes/meet-super-banana-7hf) (2025-09-13)
-- [Proving God with JavaScript? A React & TypeScript Experiment](https://dev.to/aelassas/proving-god-with-javascript-a-react-typescript-experiment-2c3m) (2025-09-13)
-- [Quantum Composition: Teaching AI to Paint Like Picasso](https://dev.to/arvindsundararajan/quantum-composition-teaching-ai-to-paint-like-picasso-3dnd) (2025-09-13)
-- [Building FocusQuest: How I Created a Gamified Productivity App with Kiro AI](https://dev.to/jake_joseph_1c55bb2b04b55/building-focusquest-how-i-created-a-gamified-productivity-app-with-kiro-ai-2kb6) (2025-09-13)
-- [Async Web Scraping with scrapy_cffi](https://dev.to/strange_funny_ca3065432c5/async-web-scraping-with-scrapycffi-1em3) (2025-09-13)
+- [pgdbtemplate – fast PostgreSQL test databases in Go using templates](https://dev.to/andrei-polukhin/pgdbtemplate-fast-postgresql-test-databases-in-go-using-templates-138n) (2025-09-13)
+- [Day 35 of My Data Analytics Journey !](https://dev.to/ramyacse/day-35-of-my-data-analytics-journey--32mm) (2025-09-13)
+- [First Contributions: My First Pull request to a project.](https://dev.to/spitfiyah/first-contributions-my-first-pull-request-to-a-project-5501) (2025-09-13)
+- [🚀 Day 14 of My Python Learning Journey](https://dev.to/_adii3107/day-14-of-my-python-learning-journey-50nh) (2025-09-13)
+- [Hands-On Exploitation with Metasploitable2: From Scanning to Mitigation](https://dev.to/seifeldienahmad/hands-on-exploitation-with-metasploitable2-from-scanning-to-mitigation-2h5k) (2025-09-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [What Are The Fundamentals Of Forex Trading?](https://medium.com/@michaeloliver4138/what-are-the-fundamentals-of-forex-trading-f459a0580b3d?source=rss------programming-5) (2025-09-13)
-- [ How to Book Guests for Your YouTube Podcast (Even If You’re a Beginner) ️✨](https://medium.com/@Snehalodha/how-to-book-guests-for-your-youtube-podcast-even-if-youre-a-beginner-%EF%B8%8F-265954e29fe4?source=rss------programming-5) (2025-09-13)
-- [How Smart Workers Are Thriving While Others Fall Behind](https://medium.com/@xournalexplain/how-smart-workers-are-thriving-while-others-fall-behind-b37069a6d14e?source=rss------programming-5) (2025-09-13)
-- [12 JavaScript Performance Traps That Blow Up Your Cloud Bill](https://medium.com/@sonampatel_97163/12-javascript-performance-traps-that-blow-up-your-cloud-bill-4673d293cad6?source=rss------programming-5) (2025-09-13)
-- [Anvharmonic Geometry (Q‑RRG): The Next Leap in Spatial Intelligence](https://medium.com/@EchoMirrowen/anvharmonic-geometry-q-rrg-the-next-leap-in-spatial-intelligence-31c7e64ab09d?source=rss------programming-5) (2025-09-13)
+- [ React Native in 2025: The Ultimate Guide to Building Cross-Platform Mobile Apps](https://medium.com/@TheEnaModernCoder/react-native-in-2025-the-ultimate-guide-to-building-cross-platform-mobile-apps-ca62f253b54b?source=rss------programming-5) (2025-09-13)
+- [Getting Started with Java Programming](https://medium.com/rise-inspire/getting-started-with-java-programming-1b56a8c33c88?source=rss------programming-5) (2025-09-13)
+- [LD_PRELOAD Privilege Escalation (Linux Priv Escalation)](https://medium.com/@amaraltohami30/ld-preload-privilege-escalation-linux-priv-escalation-c8abdf1a9bec?source=rss------programming-5) (2025-09-13)
+- [How to Build Software That Scales: Developer’s Guide](https://medium.com/@sharma-deepak/how-to-build-software-that-scales-developers-guide-863485b1d81e?source=rss------programming-5) (2025-09-13)
+- [09335063036#شماره خاله تهران #دختر #بدنسازی #باشگاه #شراب #دخترانه #دخترایرانی #داف #رقص…](https://medium.com/@ayjipoststreamcfd/09335063036-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AF%D8%AE%D8%AA%D8%B1-%D8%A8%D8%AF%D9%86%D8%B3%D8%A7%D8%B2%DB%8C-%D8%A8%D8%A7%D8%B4%DA%AF%D8%A7%D9%87-%D8%B4%D8%B1%D8%A7%D8%A8-%D8%AF%D8%AE%D8%AA%D8%B1%D8%A7%D9%86%D9%87-%D8%AF%D8%AE%D8%AA%D8%B1%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%AF%D8%A7%D9%81-%D8%B1%D9%82%D8%B5-f3494521c68c?source=rss------programming-5) (2025-09-13)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [A deep dive into Cloudflare’s September 12, 2025 dashboard and API outage](https://blog.cloudflare.com/deep-dive-into-cloudflares-sept-12-dashboard-and-api-outage/) (2025-09-13)
 - [Bringing Node.js HTTP servers to Cloudflare Workers](https://blog.cloudflare.com/bringing-node-js-http-servers-to-cloudflare-workers/) (2025-09-08)
 - [Addressing the unauthorized issuance of multiple TLS certificates for 1.1.1.1](https://blog.cloudflare.com/unauthorized-issuance-of-certificates-for-1-1-1-1/) (2025-09-04)
 - [AI Week 2025: Recap](https://blog.cloudflare.com/ai-week-2025-wrapup/) (2025-09-03)
 - [The impact of the Salesloft Drift breach on Cloudflare and our customers](https://blog.cloudflare.com/response-to-salesloft-drift-incident/) (2025-09-02)
-- [Automating threat analysis and response with Cloudy ](https://blog.cloudflare.com/automating-threat-analysis-and-response-with-cloudy/) (2025-08-29)
 
 </details>
 
@@ -513,11 +513,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/warm-transfer-ope
 <details>
 <summary>💬 Slack API</summary>
 
-- [A Research-Backed Sales Playbook for Connecting Slack and Salesforce](https://slack.com/blog/productivity/connecting-slack-salesforce-sales-playbook) (2025-09-11)
-- [15 Team Meeting Ideas That Help Employees Stay Focused](https://slack.com/blog/collaboration/engaging-team-meetings) (2025-09-10)
-- [Agile and Scrum: Definitions, Differences, and Examples](https://slack.com/blog/collaboration/agile-vs-scrum) (2025-09-10)
 - [How a Well-Managed Backlog Keeps Your Sprint on Track](https://slack.com/blog/productivity/how-a-well-managed-backlog-keeps-your-sprint-on-track) (2025-09-08)
 - [What is a Digital Workplace? How It Works & Why It Matters](https://slack.com/blog/transformation/what-is-a-digital-workplace-how-it-works-why-it-matters) (2025-09-08)
+- [Workforce Lab Expert Panel – AI agents and the future of work](https://slack.com/blog/news/workforce-lab-expert-panel-ai-agents-and-the-future-of-work) (2025-09-03)
+- [AI Summarization: A Guide to Conquering Information Overload](https://slack.com/blog/productivity/ai-summarization-a-guide-to-conquering-information-overload) (2025-08-31)
+- [Unlock the Full Power of Your Tech Stack with Slack Work Objects](https://slack.com/blog/news/slack-work-objects-integration) (2025-08-27)
 
 </details>
 
@@ -579,11 +579,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/warm-transfer-ope
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [What is a Multi-Agent System and How Does It Handle Complex Tasks?](https://www.analyticsvidhya.com/blog/2025/09/what-is-multi-agent-system/) (2025-09-13)
+- [A Guide to Exploratory and Sentiment Data Analysis with Fabi.ai](https://www.analyticsvidhya.com/blog/2025/09/sentiment-data-analysiswith-fabi-ai/) (2025-09-13)
 - [How to Use Nano Banana AI to Create Your Own 3D Figurine?](https://www.analyticsvidhya.com/blog/2025/09/create-3d-figurine-using-nano-banana-ai/) (2025-09-12)
 - [Qwen-3-Next: Leaner, Faster, Smarter Than GPT-5 and Gemini 2.5 Pro](https://www.analyticsvidhya.com/blog/2025/09/qwen3-next/) (2025-09-12)
 - [End-to-End Marketing Automation Using Nano Banana + n8n](https://www.analyticsvidhya.com/blog/2025/09/marketing-automation-using-nano-banana-and-n8n/) (2025-09-12)
-- [Tips for Building ML Models that Solve Real Problems ](https://www.analyticsvidhya.com/blog/2025/09/tips-for-building-ml-models/) (2025-09-11)
-- [Why do LLMs hallucinate and how can these be fixed?](https://www.analyticsvidhya.com/blog/2025/09/why-llms-hallucinate/) (2025-09-11)
 
 </details>
 
