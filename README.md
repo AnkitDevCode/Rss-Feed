@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Micro1, a competitor to Scale AI, raises funds at $500M valuation](https://techcrunch.com/2025/09/12/micro1-a-competitor-to-scale-ai-raises-funds-at-500m-valuation/) (2025-09-12)
-- [New FAA program will let eVTOL startups test some operations before full certification](https://techcrunch.com/2025/09/12/new-faa-program-will-let-evtol-startups-test-some-operations-before-full-certification/) (2025-09-12)
-- [Mastodon rolls out quote posts with protections to prevent ‘dunking’](https://techcrunch.com/2025/09/12/mastodon-rolls-out-quote-posts-with-protections-to-prevent-dunking/) (2025-09-12)
-- [Preparing for your later-stage raise: Insider strategies from top investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/12/how-to-prepare-now-for-your-later-stage-raise-at-techcrunch-disrupt-2025/) (2025-09-12)
-- [Last day to amplify your brand: Host your Side Event at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/12/last-day-to-amplify-your-brand-host-your-side-event-at-disrupt-2025/) (2025-09-12)
+- [Ram ends EV pickup truck plans](https://techcrunch.com/2025/09/12/ram-ends-ev-pickup-truck-plans/) (2025-09-12)
+- [Via shrugs off tepid open to end first day of trading slightly above IPO price](https://techcrunch.com/2025/09/12/via-shrugs-off-tepid-open-to-end-first-day-of-trading-slightly-above-ipo-price/) (2025-09-12)
+- [Pilot union urges FAA to reject Rainmaker’s drone cloud-seeding plan](https://techcrunch.com/2025/09/12/pilot-union-urges-faa-to-reject-rainmakers-drone-cloud-seeding-plan/) (2025-09-12)
+- [Why the Oracle-OpenAI deal caught Wall Street by surprise](https://techcrunch.com/2025/09/12/why-the-oracle-openai-deal-caught-wall-street-by-surprise/) (2025-09-12)
+- [Google is a ‘bad actor’ says People CEO, accusing the company of stealing content](https://techcrunch.com/2025/09/12/google-is-a-bad-actor-says-people-ceo-accusing-the-company-of-stealing-content/) (2025-09-12)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Epistemic Collapse at the WSJ](https://www.math.columbia.edu/~woit/wordpress/?p=15206) (2025-09-12)
-- [How FOSS Projects Handle Legal Takedown Requests](https://f-droid.org/2025/09/10/how-foss-projects-handle-legal-takedown-requests.html) (2025-09-12)
-- [Humanely Dealing with Humungus Crawlers](https://flak.tedunangst.com/post/humanely-dealing-with-humungus-crawlers) (2025-09-12)
-- [QGIS is a free, open-source, cross platform geographical information system](https://github.com/qgis/QGIS) (2025-09-12)
-- [Vector database that can index 1B vectors in 48M](https://www.vectroid.com/blog/why-and-how-we-built-Vectroid) (2025-09-12)
+- [Tips for installing Windows 98 in QEMU/UTM](https://sporks.space/2025/08/28/tips-for-installing-windows-98-in-qemu-utm/) (2025-09-12)
+- [FFglitch, FFmpeg fork for glitch arch](https://ffglitch.org/gallery/) (2025-09-12)
+- [Show HN: Aris – a free AI-powered answer engine for kids](https://www.aris.chat) (2025-09-12)
+- [Proton Mail suspended journalist accounts at request of cybersecurity agency](https://theintercept.com/2025/09/12/proton-mail-journalist-accounts-suspended/) (2025-09-12)
+- [I used standard Emacs extension-points to extend org-mode](https://edoput.it/2025/04/16/emacs-paradigm-shift.html) (2025-09-12)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Encyclopedia Britannica and Merriam-Webster sue Perplexity for copying their definitions ](https://www.theverge.com/news/777344/perplexity-lawsuit-encyclopedia-britannica-merriam-webster) (2025-09-12)
-- [Charlie Kirk&#8217;s alleged killer scratched bullets with a Helldivers combo and a furry sex meme](https://www.theverge.com/politics/777313/charlie-kirks-alleged-killer-scratched-bullets-with-a-helldivers-combo-and-a-furry-sex-meme) (2025-09-12)
-- [The Galaxy Watch 8 Classic is $140 off, nearly the same price as the standard model](https://www.theverge.com/tech/777246/samsung-galaxy-watch-8-classic-anker-soundcore-select-4-go-deal-sale) (2025-09-12)
-- [The Powerbeats Pro 2 are getting heart rate monitoring updates with iOS 26](https://www.theverge.com/news/777289/apple-beats-powerbeats-pro-2-heart-rate-monitoring-ios-26) (2025-09-12)
-- [Fight for glory in Fire Emblem: Fortune’s Weave coming to the Switch 2 next year](https://www.theverge.com/news/777187/fire-emblem-fortunes-weave-annoucement-trailer) (2025-09-12)
+- [Tucker Carlson asks Sam Altman if an OpenAI employee was murdered &#8216;on your orders&#8217;](https://www.theverge.com/news/777666/tucker-carlson-altman-openai-interview) (2025-09-13)
+- [Elon Musk is trying to silence Microsoft employees who criticize Charlie Kirk](https://www.theverge.com/news/777664/elon-musk-charlie-kirk-satya-nadella-fire) (2025-09-13)
+- [The WSJ carelessly spread anti-trans misinformation](https://www.theverge.com/politics/777630/wsj-trans-misinformation-charlie-kirk) (2025-09-12)
+- [Congress Republicans want to target liberal donors after Charlie Kirk&#8217;s death](https://www.theverge.com/policy/777615/republicans-radical-left-select-committee) (2025-09-12)
+- [Discord is distancing itself from the Charlie Kirk shooting suspect](https://www.theverge.com/news/777614/discord-charlie-kirk-shooting-tyler-robinson) (2025-09-12)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Education report calling for ethical AI use contains over 15 fake sources](https://arstechnica.com/ai/2025/09/education-report-calling-for-ethical-ai-use-contains-over-15-fake-sources/) (2025-09-12)
-- [Over three decades later, Nintendo remembers the Virtual Boy exists](https://arstechnica.com/gaming/2025/09/over-three-decades-later-nintendo-remembers-the-virtual-boy-exists/) (2025-09-12)
-- [New pathway engineered into plants lets them suck up more CO₂](https://arstechnica.com/science/2025/09/new-pathway-engineered-into-plants-lets-them-suck-up-more-co%e2%82%82/) (2025-09-12)
-- [Small, affordable, efficient: A lot to like about the 2026 Nissan Leaf](https://arstechnica.com/cars/2025/09/small-affordable-efficient-a-lot-to-like-about-the-2026-nissan-leaf/) (2025-09-12)
-- [Ex-DVD company employee gets 4 years for leaking Spider-Man Blu-ray](https://arstechnica.com/tech-policy/2025/09/ex-dvd-company-employee-gets-4-years-for-leaking-spider-man-blu-ray/) (2025-09-12)
+- [Scientists: It’s do or die time for America’s primacy exploring the Solar System](https://arstechnica.com/space/2025/09/scientists-its-do-or-die-time-for-americas-primacy-exploring-the-solar-system/) (2025-09-12)
+- [RFK Jr.’s CDC may limit COVID shots to 75 and up, claim they killed kids](https://arstechnica.com/health/2025/09/covid-shot-access-could-tighten-rfk-jr-may-claim-they-cause-child-deaths/) (2025-09-12)
+- [Modder injects AI dialogue into 2002’s Animal Crossing using memory hack](https://arstechnica.com/gaming/2025/09/animal-crossing-mod-uses-ai-to-orchestrate-anti-tom-nook-villager-revolt/) (2025-09-12)
+- [Feds try to dodge lawsuit against their bogus climate report](https://arstechnica.com/science/2025/09/department-of-energy-gets-rid-of-climate-skeptics-group-to-dodge-lawsuit/) (2025-09-12)
+- [After Kirk shooting, Utah governor calls social media a “cancer.” Will we treat it like one?](https://arstechnica.com/culture/2025/09/after-kirk-shooting-utah-governor-calls-social-media-a-cancer-will-we-treat-it-like-one/) (2025-09-12)
 
 </details>
 
@@ -97,22 +97,28 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [COLORS: Negros Tou Moria - To Deltio | A COLORS SHOW](https://dev.to/music_youtube/colors-negros-tou-moria-to-deltio-a-colors-show-351a) (2025-09-12)
-- [KEXP: Japanese Breakfast - Full Performance (Live on KEXP)](https://dev.to/music_youtube/kexp-japanese-breakfast-full-performance-live-on-kexp-4bfk) (2025-09-12)
-- [Noclip: Announcing /noclip's Brand New Channel](https://dev.to/gg_news/noclip-announcing-noclips-brand-new-channel-4ab2) (2025-09-12)
-- [GameSpot: Fire Emblem: Fortune’s Weave - Official Announcement Trailer](https://dev.to/gg_news/gamespot-fire-emblem-fortunes-weave-official-announcement-trailer-1mm9) (2025-09-12)
-- [GameSpot: Every Announcement from the Nintendo Direct September 2025](https://dev.to/gg_news/gamespot-every-announcement-from-the-nintendo-direct-september-2025-mhi) (2025-09-12)
+- [Vibe Coding vs. Professional Coding: A Developer’s Honest Take](https://dev.to/naresh_82de734ade4c1c66d9/vibe-coding-vs-professional-coding-a-developers-honest-take-5f16) (2025-09-13)
+- [How to Evaluate ROI on AI Tools Before You Buy](https://dev.to/kapusto/how-to-evaluate-roi-on-ai-tools-before-you-buy-1if1) (2025-09-13)
+- [💡 Ideias de SaaS Baseadas nas Tendências: vasco, volta redonda x criciúma, nelson wilians](https://dev.to/oismaelash/ideias-de-saas-baseadas-nas-tendencias-vasco-volta-redonda-x-criciuma-nelson-wilians-1jpi) (2025-09-13)
+- [Choosing Between On-Premises and Cloud SQL Hosting: What Businesses Should Consider](https://dev.to/kapusto/choosing-between-on-premises-and-cloud-sql-hosting-what-businesses-should-consider-4a3a) (2025-09-13)
+- [OSD600 Lab 1](https://dev.to/kphero/osd600-lab-1-3a54) (2025-09-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ Advanced Node.js: Mastering Streams, Workers & Performance Optimization](https://medium.com/@Amanda10/advanced-node-js-mastering-streams-workers-performance-optimization-533d560a49fe?source=rss------programming-5) (2025-09-12)
-- [Handling REST API in Angular](https://medium.com/@angir777/handling-rest-api-in-angular-4ed14bf56715?source=rss------programming-5) (2025-09-12)
-- [I Thought Learning Data Science Would Make Me Feel Smart. Instead, I Just Feel Human.](https://medium.com/illumination/i-thought-learning-data-science-would-make-me-feel-smart-instead-i-just-feel-human-acfb9de032bc?source=rss------programming-5) (2025-09-12)
-- [Is Computer Technology Related to Mathematics?](https://medium.com/illumination/is-computer-technology-related-to-mathematics-60d837e71c59?source=rss------programming-5) (2025-09-12)
-- [I Asked AI to Write a Python Library — The Results Surprised Me](https://medium.com/pythonic-thinking/i-asked-ai-to-write-a-python-library-the-results-surprised-me-266d45b3cec1?source=rss------programming-5) (2025-09-12)
+- [09332705315شماره خاله شماره خاله تهران شماره اصفهان شماره خاله کرج شماره خاله اردبیل شماره خاله…](https://medium.com/@ejsksiosodkdod/09332705315%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-05f8714faa5e?source=rss------programming-5) (2025-09-13)
+- [09389632898
+شماره خاله #شماره خاله# تهران #
+#شماره #خاله #شماره خاله# تهران #شماره خاله# اصفهان…](https://medium.com/@grglysmanh/09389632898-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-e7f6d805dd47?source=rss------programming-5) (2025-09-13)
+- [09332705315](https://medium.com/@ejsksiosodkdod/09332705315-ce9a74a25566?source=rss------programming-5) (2025-09-13)
+- [09389632898
+شماره خاله #شماره خاله# تهران #
+#شماره #خاله #شماره خاله# تهران #شماره خاله# اصفهان…](https://medium.com/@grglysmanh/09389632898-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-e4b49c41a6ad?source=rss------programming-5) (2025-09-13)
+- [09389632898
+شماره خاله #شماره خاله# تهران #
+#شماره #خاله #شماره خاله# تهران #شماره خاله# اصفهان…](https://medium.com/@grglysmanh/09389632898-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-e5da9a9ad8f5?source=rss------programming-5) (2025-09-13)
 
 </details>
 
@@ -218,11 +224,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.34: Autoconfiguration for Node Cgroup Driver Goes GA](https://kubernetes.io/blog/2025/09/12/kubernetes-v1-34-cri-cgroup-driver-lookup-now-ga/) (2025-09-12)
 - [Kubernetes v1.34: Mutable CSI Node Allocatable Graduates to Beta](https://kubernetes.io/blog/2025/09/11/kubernetes-v1-34-mutable-csi-node-allocatable-count/) (2025-09-11)
 - [Kubernetes v1.34: Use An Init Container To Define App Environment Variables](https://kubernetes.io/blog/2025/09/10/kubernetes-v1-34-env-files/) (2025-09-10)
 - [Kubernetes v1.34: Snapshottable API server cache](https://kubernetes.io/blog/2025/09/09/kubernetes-v1-34-snapshottable-api-server-cache/) (2025-09-09)
 - [Kubernetes v1.34: VolumeAttributesClass for Volume Modification GA](https://kubernetes.io/blog/2025/09/08/kubernetes-v1-34-volume-attributes-class/) (2025-09-08)
-- [Kubernetes v1.34: Pod Replacement Policy for Jobs Goes GA](https://kubernetes.io/blog/2025/09/05/kubernetes-v1-34-pod-replacement-policy-for-jobs-goes-ga/) (2025-09-05)
 
 </details>
 
@@ -317,11 +323,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Your Voice Belongs Here: Creating Compelling KotlinConf Proposals [Livestream]](https://blog.jetbrains.com/kotlin/2025/09/creating-kotlinconf-proposals/) (2025-09-12)
 - [Achieve Effortless GitHub Releases With a New Plugin for TeamCity](https://blog.jetbrains.com/teamcity/2025/09/teamcity-github-releases-plugin/) (2025-09-12)
 - [JetBrains at the ICPC World Finals 2025 Baku](https://blog.jetbrains.com/blog/2025/09/11/jetbrains-at-the-icpc-world-finals-2025-baku/) (2025-09-11)
 - [Testing AI Coding Agents With TeamCity and SWE-bench](https://blog.jetbrains.com/teamcity/2025/09/testing-ai-coding-agents-with-teamcity-and-swe-bench/) (2025-09-11)
 - [TeamCity 2025.07.2 Is Available](https://blog.jetbrains.com/teamcity/2025/09/teamcity-2025-07-2-bug-fix/) (2025-09-10)
-- [Kotlin 2.2.20 Released](https://blog.jetbrains.com/kotlin/2025/09/kotlin-2-2-20-released/) (2025-09-10)
 
 </details>
 
