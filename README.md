@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [xAI reportedly lays off 500 workers from data annotation team](https://techcrunch.com/2025/09/13/xai-reportedly-lays-off-500-workers-from-data-annotation-team/) (2025-09-13)
+- [Here’s the tech powering ICE’s deportation crackdown ](https://techcrunch.com/2025/09/13/heres-the-tech-powering-ices-deportation-crackdown/) (2025-09-13)
+- [Hike, once a unicorn, shuts down as India cracks down on real-money gaming](https://techcrunch.com/2025/09/13/hike-once-a-unicorn-shuts-down-as-india-cracks-down-on-real-money-gaming/) (2025-09-13)
 - [Ram ends EV pickup truck plans](https://techcrunch.com/2025/09/12/ram-ends-ev-pickup-truck-plans/) (2025-09-12)
 - [Via shrugs off tepid open to end first day of trading slightly above IPO price](https://techcrunch.com/2025/09/12/via-shrugs-off-tepid-open-to-end-first-day-of-trading-slightly-above-ipo-price/) (2025-09-12)
-- [Pilot union urges FAA to reject Rainmaker’s drone cloud-seeding plan](https://techcrunch.com/2025/09/12/pilot-union-urges-faa-to-reject-rainmakers-drone-cloud-seeding-plan/) (2025-09-12)
-- [Why the Oracle-OpenAI deal caught Wall Street by surprise](https://techcrunch.com/2025/09/12/why-the-oracle-openai-deal-caught-wall-street-by-surprise/) (2025-09-12)
-- [Google is a ‘bad actor’ says People CEO, accusing the company of stealing content](https://techcrunch.com/2025/09/12/google-is-a-bad-actor-says-people-ceo-accusing-the-company-of-stealing-content/) (2025-09-12)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [How 'overworked, underpaid' humans train Google's AI to seem smart](https://www.theguardian.com/technology/2025/sep/11/google-gemini-ai-training-humans) (2025-09-13)
-- [AI Coding](https://geohot.github.io//blog/jekyll/update/2025/09/12/ai-coding.html) (2025-09-13)
-- [Java 25's new CPU-Time Profiler (1)](https://mostlynerdless.de/blog/2025/06/11/java-25s-new-cpu-time-profiler-1/) (2025-09-13)
-- [I unified convolution and attention into a single framework](https://zenodo.org/records/17103133) (2025-09-13)
-- [Social media promised connection, but it has delivered exhaustion](https://www.noemamag.com/the-last-days-of-social-media/) (2025-09-13)
+- [Why OpenAI's solution to AI hallucinations would kill ChatGPT tomorrow](https://theconversation.com/why-openais-solution-to-ai-hallucinations-would-kill-chatgpt-tomorrow-265107) (2025-09-13)
+- [Magical Systems Thinking](https://worksinprogress.co/issue/magical-systems-thinking/) (2025-09-13)
+- ["Learning how to Learn" will be next generation's most needed skill](https://techxplore.com/news/2025-09-google-ai-scientist-generation-skill.html) (2025-09-13)
+- [486Tang – 486 on a credit-card-sized FPGA board](https://nand2mario.github.io/posts/2025/486tang_486_on_a_credit_card_size_fpga_board/) (2025-09-13)
+- ['Someone must know this guy': four-year wedding crasher mystery solved](https://www.theguardian.com/uk-news/2025/sep/12/wedding-crasher-mystery-solved-four-years-bride-scotland) (2025-09-13)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Time is running out to get half off a year of Paramount Plus](https://www.theverge.com/tech/777057/paramount-plus-baseus-dash-cam-solar-lego-earbuds-deal-sale) (2025-09-13)
+- [Spotify Lossless is an inconvenient improvement](https://www.theverge.com/hands-on/777691/spotify-lossless-flac-audio-inconvenient-improvement) (2025-09-13)
+- [Adult Swim&#8217;s new stop-motion series is a celebration of Latin American culture](https://www.theverge.com/tv/777484/women-wearing-shoulder-pads-interview) (2025-09-13)
+- [Exit 8’s director was inspired by watching people play the game](https://www.theverge.com/interview/777509/exit-8-director-interview) (2025-09-13)
 - [Tucker Carlson asks Sam Altman if an OpenAI employee was murdered &#8216;on your orders&#8217;](https://www.theverge.com/news/777666/tucker-carlson-altman-openai-interview) (2025-09-13)
-- [Elon Musk is trying to silence Microsoft employees who criticize Charlie Kirk](https://www.theverge.com/news/777664/elon-musk-charlie-kirk-satya-nadella-fire) (2025-09-13)
-- [The WSJ carelessly spread anti-trans misinformation](https://www.theverge.com/politics/777630/wsj-trans-misinformation-charlie-kirk) (2025-09-12)
-- [Congress Republicans want to target liberal donors after Charlie Kirk&#8217;s death](https://www.theverge.com/policy/777615/republicans-radical-left-select-committee) (2025-09-12)
-- [Discord is distancing itself from the Charlie Kirk shooting suspect](https://www.theverge.com/news/777614/discord-charlie-kirk-shooting-tyler-robinson) (2025-09-12)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [pgdbtemplate – fast PostgreSQL test databases in Go using templates](https://dev.to/andrei-polukhin/pgdbtemplate-fast-postgresql-test-databases-in-go-using-templates-138n) (2025-09-13)
-- [Day 35 of My Data Analytics Journey !](https://dev.to/ramyacse/day-35-of-my-data-analytics-journey--32mm) (2025-09-13)
-- [First Contributions: My First Pull request to a project.](https://dev.to/spitfiyah/first-contributions-my-first-pull-request-to-a-project-5501) (2025-09-13)
-- [🚀 Day 14 of My Python Learning Journey](https://dev.to/_adii3107/day-14-of-my-python-learning-journey-50nh) (2025-09-13)
-- [Hands-On Exploitation with Metasploitable2: From Scanning to Mitigation](https://dev.to/seifeldienahmad/hands-on-exploitation-with-metasploitable2-from-scanning-to-mitigation-2h5k) (2025-09-13)
+- [Learn Bash Scripting With Me 🚀 - Day 4](https://dev.to/babsarena/learn-bash-scripting-with-me-day-4-fo7) (2025-09-13)
+- [Why I'm Starting to Share My Developer Journey](https://dev.to/navidreza80/why-im-starting-to-share-my-developer-journey-3lah) (2025-09-13)
+- [MCP Servers Made Simple: Why Model Context Protocol Matters for AI](https://dev.to/snehalkadwe/mcp-servers-made-simple-why-model-context-protocol-matters-for-ai-1ppf) (2025-09-13)
+- [🚀 Gemini 2.5 “Nano Banana 🍌 ”: Ultra-Light Linux Image for Banana Pi M2 Zero & NanoPi Neo Air](https://dev.to/hemant_007/gemini-25-nano-banana-ultra-light-linux-image-for-banana-pi-m2-zero-nanopi-neo-air-4bj2) (2025-09-13)
+- [Creating and Publishing Your First NPM Package 📦](https://dev.to/raksbisht/creating-and-publishing-your-first-npm-package-27ih) (2025-09-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ React Native in 2025: The Ultimate Guide to Building Cross-Platform Mobile Apps](https://medium.com/@TheEnaModernCoder/react-native-in-2025-the-ultimate-guide-to-building-cross-platform-mobile-apps-ca62f253b54b?source=rss------programming-5) (2025-09-13)
-- [Getting Started with Java Programming](https://medium.com/rise-inspire/getting-started-with-java-programming-1b56a8c33c88?source=rss------programming-5) (2025-09-13)
-- [LD_PRELOAD Privilege Escalation (Linux Priv Escalation)](https://medium.com/@amaraltohami30/ld-preload-privilege-escalation-linux-priv-escalation-c8abdf1a9bec?source=rss------programming-5) (2025-09-13)
-- [How to Build Software That Scales: Developer’s Guide](https://medium.com/@sharma-deepak/how-to-build-software-that-scales-developers-guide-863485b1d81e?source=rss------programming-5) (2025-09-13)
-- [09335063036#شماره خاله تهران #دختر #بدنسازی #باشگاه #شراب #دخترانه #دخترایرانی #داف #رقص…](https://medium.com/@ayjipoststreamcfd/09335063036-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AF%D8%AE%D8%AA%D8%B1-%D8%A8%D8%AF%D9%86%D8%B3%D8%A7%D8%B2%DB%8C-%D8%A8%D8%A7%D8%B4%DA%AF%D8%A7%D9%87-%D8%B4%D8%B1%D8%A7%D8%A8-%D8%AF%D8%AE%D8%AA%D8%B1%D8%A7%D9%86%D9%87-%D8%AF%D8%AE%D8%AA%D8%B1%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%AF%D8%A7%D9%81-%D8%B1%D9%82%D8%B5-f3494521c68c?source=rss------programming-5) (2025-09-13)
+- [Why Side Projects Don’t Make You Smarter — They Just Make You Tired](https://medium.com/@masoomdeveloper1615/why-side-projects-dont-make-you-smarter-they-just-make-you-tired-e9b418c286ab?source=rss------programming-5) (2025-09-13)
+- [ Ruby on Rails Clean Code & Best Practices: Write Like a Pro! ](https://rajputlakhveer.medium.com/ruby-on-rails-clean-code-best-practices-write-like-a-pro-fd05fb16bfb7?source=rss------programming-5) (2025-09-13)
+- [#1 Enhancement Dashboard: Optimasi Query & Implementasi Cache](https://medium.com/@ronisetiawan/1-enhancement-dashboard-optimasi-query-implementasi-cache-bbaf67f07079?source=rss------programming-5) (2025-09-13)
+- [नकद रुपया लोन ऐप कस्टमर केयर हेल्पलाइन नंबर 7261075104 // 7261075104 सभी संबंधित](https://medium.com/@hwb_36104/%E0%A4%A8%E0%A4%95%E0%A4%A6-%E0%A4%B0%E0%A5%81%E0%A4%AA%E0%A4%AF%E0%A4%BE-%E0%A4%B2%E0%A5%8B%E0%A4%A8-%E0%A4%90%E0%A4%AA-%E0%A4%95%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%AE%E0%A4%B0-%E0%A4%95%E0%A5%87%E0%A4%AF%E0%A4%B0-%E0%A4%B9%E0%A5%87%E0%A4%B2%E0%A5%8D%E0%A4%AA%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%A8-%E0%A4%A8%E0%A4%82%E0%A4%AC%E0%A4%B0-7261075104-7261075104-%E0%A4%B8%E0%A4%AD%E0%A5%80-%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A4%BF%E0%A4%A4-c55d22e8dbe0?source=rss------programming-5) (2025-09-13)
+- [Laravel is Dead, and We’re All Just Dancing on Its Grave](https://javascript.plainenglish.io/laravel-is-dead-and-were-all-just-dancing-on-its-grave-af44c136b292?source=rss------programming-5) (2025-09-13)
 
 </details>
 
@@ -513,11 +513,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/warm-transfer-ope
 <details>
 <summary>💬 Slack API</summary>
 
-- [How a Well-Managed Backlog Keeps Your Sprint on Track](https://slack.com/blog/productivity/how-a-well-managed-backlog-keeps-your-sprint-on-track) (2025-09-08)
-- [What is a Digital Workplace? How It Works & Why It Matters](https://slack.com/blog/transformation/what-is-a-digital-workplace-how-it-works-why-it-matters) (2025-09-08)
-- [Workforce Lab Expert Panel – AI agents and the future of work](https://slack.com/blog/news/workforce-lab-expert-panel-ai-agents-and-the-future-of-work) (2025-09-03)
-- [AI Summarization: A Guide to Conquering Information Overload](https://slack.com/blog/productivity/ai-summarization-a-guide-to-conquering-information-overload) (2025-08-31)
-- [Unlock the Full Power of Your Tech Stack with Slack Work Objects](https://slack.com/blog/news/slack-work-objects-integration) (2025-08-27)
+- [Standard Operating Procedure Templates: What They Are and How to Use Them Effectively](https://slack.com/blog/productivity/standard-operating-procedure-templates-why-theyre-important-and-how-to-create-one) (2025-09-12)
+- [Streamline Note-Taking with Board Meeting Minutes Templates](https://slack.com/blog/productivity/better-board-meeting-minutes) (2025-09-12)
+- [A Research-Backed Sales Playbook for Connecting Slack and Salesforce](https://slack.com/blog/productivity/connecting-slack-salesforce-sales-playbook) (2025-09-11)
+- [15 Team Meeting Ideas That Help Employees Stay Focused](https://slack.com/blog/collaboration/engaging-team-meetings) (2025-09-10)
+- [Agile and Scrum: Definitions, Differences, and Examples](https://slack.com/blog/collaboration/agile-vs-scrum) (2025-09-10)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/warm-transfer-ope
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Building Research Agents for Tech Insights](https://towardsdatascience.com/building-research-agents-for-tech-insights/) (2025-09-13)
 - [Docling: The Document Alchemist](https://towardsdatascience.com/docling-the-document-alchemist/) (2025-09-12)
 - [If we use AI to do our work – what is our job, then?](https://towardsdatascience.com/if-we-use-ai-to-do-our-work/) (2025-09-12)
 - [Generalists Can Also Dig Deep](https://towardsdatascience.com/generalists-can-also-dig-deep/) (2025-09-12)
 - [A Focused Approach to Learning SQL](https://towardsdatascience.com/a-focused-approach-to-learning-sql/) (2025-09-12)
-- [Why Context Is the New Currency in AI: From RAG to Context Engineering](https://towardsdatascience.com/why-context-is-the-new-currency-in-ai-from-rag-to-context-engineering/) (2025-09-11)
 
 </details>
 
