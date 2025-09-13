@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Tips for installing Windows 98 in QEMU/UTM](https://sporks.space/2025/08/28/tips-for-installing-windows-98-in-qemu-utm/) (2025-09-12)
-- [FFglitch, FFmpeg fork for glitch arch](https://ffglitch.org/gallery/) (2025-09-12)
-- [Show HN: Aris – a free AI-powered answer engine for kids](https://www.aris.chat) (2025-09-12)
-- [Proton Mail suspended journalist accounts at request of cybersecurity agency](https://theintercept.com/2025/09/12/proton-mail-journalist-accounts-suspended/) (2025-09-12)
-- [I used standard Emacs extension-points to extend org-mode](https://edoput.it/2025/04/16/emacs-paradigm-shift.html) (2025-09-12)
+- [Qwen 3 now supports ARM and MLX](https://www.alizila.com/qwen-ecosystem-expands-rapidly-accelerating-ai-adoption-across-industries/) (2025-09-13)
+- [SkiftOS: A hobby OS built from scratch using C/C++ for ARM, x86, and RISC-V](https://skiftos.org) (2025-09-13)
+- [Raspberry Pi Synthesizers – How the Pi is transforming synths](https://www.gearnews.com/raspberry-pi-synthesizers-how-the-pi-is-transforming-synths/) (2025-09-13)
+- [Show HN: wcwidth-o1 – Find Unicode text cell width in no time for JavaScript/TS](https://github.com/dawsonhuang0/Wcwidth-O1) (2025-09-13)
+- [OCI Registry Explorer](https://oci.dag.dev/) (2025-09-13)
 
 </details>
 
@@ -97,28 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Vibe Coding vs. Professional Coding: A Developer’s Honest Take](https://dev.to/naresh_82de734ade4c1c66d9/vibe-coding-vs-professional-coding-a-developers-honest-take-5f16) (2025-09-13)
-- [How to Evaluate ROI on AI Tools Before You Buy](https://dev.to/kapusto/how-to-evaluate-roi-on-ai-tools-before-you-buy-1if1) (2025-09-13)
-- [💡 Ideias de SaaS Baseadas nas Tendências: vasco, volta redonda x criciúma, nelson wilians](https://dev.to/oismaelash/ideias-de-saas-baseadas-nas-tendencias-vasco-volta-redonda-x-criciuma-nelson-wilians-1jpi) (2025-09-13)
-- [Choosing Between On-Premises and Cloud SQL Hosting: What Businesses Should Consider](https://dev.to/kapusto/choosing-between-on-premises-and-cloud-sql-hosting-what-businesses-should-consider-4a3a) (2025-09-13)
-- [OSD600 Lab 1](https://dev.to/kphero/osd600-lab-1-3a54) (2025-09-13)
+- [Meet Super Banana 🍌](https://dev.to/abhinav-writes/meet-super-banana-7hf) (2025-09-13)
+- [Proving God with JavaScript? A React & TypeScript Experiment](https://dev.to/aelassas/proving-god-with-javascript-a-react-typescript-experiment-2c3m) (2025-09-13)
+- [Quantum Composition: Teaching AI to Paint Like Picasso](https://dev.to/arvindsundararajan/quantum-composition-teaching-ai-to-paint-like-picasso-3dnd) (2025-09-13)
+- [Building FocusQuest: How I Created a Gamified Productivity App with Kiro AI](https://dev.to/jake_joseph_1c55bb2b04b55/building-focusquest-how-i-created-a-gamified-productivity-app-with-kiro-ai-2kb6) (2025-09-13)
+- [Async Web Scraping with scrapy_cffi](https://dev.to/strange_funny_ca3065432c5/async-web-scraping-with-scrapycffi-1em3) (2025-09-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09332705315شماره خاله شماره خاله تهران شماره اصفهان شماره خاله کرج شماره خاله اردبیل شماره خاله…](https://medium.com/@ejsksiosodkdod/09332705315%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-05f8714faa5e?source=rss------programming-5) (2025-09-13)
-- [09389632898
-شماره خاله #شماره خاله# تهران #
-#شماره #خاله #شماره خاله# تهران #شماره خاله# اصفهان…](https://medium.com/@grglysmanh/09389632898-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-e7f6d805dd47?source=rss------programming-5) (2025-09-13)
-- [09332705315](https://medium.com/@ejsksiosodkdod/09332705315-ce9a74a25566?source=rss------programming-5) (2025-09-13)
-- [09389632898
-شماره خاله #شماره خاله# تهران #
-#شماره #خاله #شماره خاله# تهران #شماره خاله# اصفهان…](https://medium.com/@grglysmanh/09389632898-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-e4b49c41a6ad?source=rss------programming-5) (2025-09-13)
-- [09389632898
-شماره خاله #شماره خاله# تهران #
-#شماره #خاله #شماره خاله# تهران #شماره خاله# اصفهان…](https://medium.com/@grglysmanh/09389632898-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-e5da9a9ad8f5?source=rss------programming-5) (2025-09-13)
+- [What Are The Fundamentals Of Forex Trading?](https://medium.com/@michaeloliver4138/what-are-the-fundamentals-of-forex-trading-f459a0580b3d?source=rss------programming-5) (2025-09-13)
+- [ How to Book Guests for Your YouTube Podcast (Even If You’re a Beginner) ️✨](https://medium.com/@Snehalodha/how-to-book-guests-for-your-youtube-podcast-even-if-youre-a-beginner-%EF%B8%8F-265954e29fe4?source=rss------programming-5) (2025-09-13)
+- [How Smart Workers Are Thriving While Others Fall Behind](https://medium.com/@xournalexplain/how-smart-workers-are-thriving-while-others-fall-behind-b37069a6d14e?source=rss------programming-5) (2025-09-13)
+- [12 JavaScript Performance Traps That Blow Up Your Cloud Bill](https://medium.com/@sonampatel_97163/12-javascript-performance-traps-that-blow-up-your-cloud-bill-4673d293cad6?source=rss------programming-5) (2025-09-13)
+- [Anvharmonic Geometry (Q‑RRG): The Next Leap in Spatial Intelligence](https://medium.com/@EchoMirrowen/anvharmonic-geometry-q-rrg-the-next-leap-in-spatial-intelligence-31c7e64ab09d?source=rss------programming-5) (2025-09-13)
 
 </details>
 
