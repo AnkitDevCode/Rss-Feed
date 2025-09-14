@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Tesla board chair calls debate over Elon Musk’s $1T pay package ‘a little bit weird’](https://techcrunch.com/2025/09/13/tesla-board-chair-calls-debate-over-elon-musks-1t-pay-package-a-little-bit-weird/) (2025-09-13)
+- [Pilot union urges FAA to reject Rainmaker’s drone cloud-seeding plan](https://techcrunch.com/2025/09/13/pilot-union-urges-faa-to-reject-rainmakers-drone-cloud-seeding-plan/) (2025-09-13)
+- [California lawmakers pass AI safety bill SB 53 — but Newsom could still veto](https://techcrunch.com/2025/09/13/california-lawmakers-pass-ai-safety-bill-sb-53-but-newsom-could-still-veto/) (2025-09-13)
 - [xAI reportedly lays off 500 workers from data annotation team](https://techcrunch.com/2025/09/13/xai-reportedly-lays-off-500-workers-from-data-annotation-team/) (2025-09-13)
 - [Here’s the tech powering ICE’s deportation crackdown ](https://techcrunch.com/2025/09/13/heres-the-tech-powering-ices-deportation-crackdown/) (2025-09-13)
-- [Hike, once a unicorn, shuts down as India cracks down on real-money gaming](https://techcrunch.com/2025/09/13/hike-once-a-unicorn-shuts-down-as-india-cracks-down-on-real-money-gaming/) (2025-09-13)
-- [Ram ends EV pickup truck plans](https://techcrunch.com/2025/09/12/ram-ends-ev-pickup-truck-plans/) (2025-09-12)
-- [Via shrugs off tepid open to end first day of trading slightly above IPO price](https://techcrunch.com/2025/09/12/via-shrugs-off-tepid-open-to-end-first-day-of-trading-slightly-above-ipo-price/) (2025-09-12)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Why OpenAI's solution to AI hallucinations would kill ChatGPT tomorrow](https://theconversation.com/why-openais-solution-to-ai-hallucinations-would-kill-chatgpt-tomorrow-265107) (2025-09-13)
-- [Magical Systems Thinking](https://worksinprogress.co/issue/magical-systems-thinking/) (2025-09-13)
-- ["Learning how to Learn" will be next generation's most needed skill](https://techxplore.com/news/2025-09-google-ai-scientist-generation-skill.html) (2025-09-13)
-- [486Tang – 486 on a credit-card-sized FPGA board](https://nand2mario.github.io/posts/2025/486tang_486_on_a_credit_card_size_fpga_board/) (2025-09-13)
-- ['Someone must know this guy': four-year wedding crasher mystery solved](https://www.theguardian.com/uk-news/2025/sep/12/wedding-crasher-mystery-solved-four-years-bride-scotland) (2025-09-13)
+- [RFC9460: SVCB and HTTPS DNS Records](https://datatracker.ietf.org/doc/html/rfc9460) (2025-09-14)
+- [EFF to court: The Supreme Court must rein in secondary copyright liability](https://www.eff.org/deeplinks/2025/09/eff-court-supreme-court-must-rein-expansive-secondary-copyright-liability) (2025-09-13)
+- [Leonardo da Vinci’s Y chromosome shared by living family descendants](https://phys.org/news/2025-05-leonardo-da-vinci-dna-chromosome.html) (2025-09-13)
+- [Pass: Unix Password Manager](https://www.passwordstore.org/) (2025-09-13)
+- [Will AI be the basis of many future industrial fortunes, or a net loser?](https://joincolossus.com/article/ai-will-not-make-you-rich/) (2025-09-13)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Learn Bash Scripting With Me 🚀 - Day 4](https://dev.to/babsarena/learn-bash-scripting-with-me-day-4-fo7) (2025-09-13)
-- [Why I'm Starting to Share My Developer Journey](https://dev.to/navidreza80/why-im-starting-to-share-my-developer-journey-3lah) (2025-09-13)
-- [MCP Servers Made Simple: Why Model Context Protocol Matters for AI](https://dev.to/snehalkadwe/mcp-servers-made-simple-why-model-context-protocol-matters-for-ai-1ppf) (2025-09-13)
-- [🚀 Gemini 2.5 “Nano Banana 🍌 ”: Ultra-Light Linux Image for Banana Pi M2 Zero & NanoPi Neo Air](https://dev.to/hemant_007/gemini-25-nano-banana-ultra-light-linux-image-for-banana-pi-m2-zero-nanopi-neo-air-4bj2) (2025-09-13)
-- [Creating and Publishing Your First NPM Package 📦](https://dev.to/raksbisht/creating-and-publishing-your-first-npm-package-27ih) (2025-09-13)
+- [[Boost]](https://dev.to/jordanadair/-l6n) (2025-09-14)
+- [Private LLM Inference: Democratizing AI with Ciphertext Computations](https://dev.to/arvindsundararajan/private-llm-inference-democratizing-ai-with-ciphertext-computations-3k43) (2025-09-14)
+- [Vision Stock-Financial Applet](https://dev.to/shakarpg/vision-stock-financial-applet-2hc6) (2025-09-14)
+- [From ASTs to RakuAST to ASTQuery](https://dev.to/fco/from-asts-to-rakuast-to-astquery-c3f) (2025-09-14)
+- [Laravel Real-time](https://dev.to/ashrakt_amin/laravel-real-time-5g48) (2025-09-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why Side Projects Don’t Make You Smarter — They Just Make You Tired](https://medium.com/@masoomdeveloper1615/why-side-projects-dont-make-you-smarter-they-just-make-you-tired-e9b418c286ab?source=rss------programming-5) (2025-09-13)
-- [ Ruby on Rails Clean Code & Best Practices: Write Like a Pro! ](https://rajputlakhveer.medium.com/ruby-on-rails-clean-code-best-practices-write-like-a-pro-fd05fb16bfb7?source=rss------programming-5) (2025-09-13)
-- [#1 Enhancement Dashboard: Optimasi Query & Implementasi Cache](https://medium.com/@ronisetiawan/1-enhancement-dashboard-optimasi-query-implementasi-cache-bbaf67f07079?source=rss------programming-5) (2025-09-13)
-- [नकद रुपया लोन ऐप कस्टमर केयर हेल्पलाइन नंबर 7261075104 // 7261075104 सभी संबंधित](https://medium.com/@hwb_36104/%E0%A4%A8%E0%A4%95%E0%A4%A6-%E0%A4%B0%E0%A5%81%E0%A4%AA%E0%A4%AF%E0%A4%BE-%E0%A4%B2%E0%A5%8B%E0%A4%A8-%E0%A4%90%E0%A4%AA-%E0%A4%95%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%AE%E0%A4%B0-%E0%A4%95%E0%A5%87%E0%A4%AF%E0%A4%B0-%E0%A4%B9%E0%A5%87%E0%A4%B2%E0%A5%8D%E0%A4%AA%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%A8-%E0%A4%A8%E0%A4%82%E0%A4%AC%E0%A4%B0-7261075104-7261075104-%E0%A4%B8%E0%A4%AD%E0%A5%80-%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A4%BF%E0%A4%A4-c55d22e8dbe0?source=rss------programming-5) (2025-09-13)
-- [Laravel is Dead, and We’re All Just Dancing on Its Grave](https://javascript.plainenglish.io/laravel-is-dead-and-were-all-just-dancing-on-its-grave-af44c136b292?source=rss------programming-5) (2025-09-13)
+- [7 Advanced Python Memory Tricks That Cut Data Pipeline RAM Usage by 60%](https://medium.techkoalainsights.com/7-advanced-python-memory-tricks-that-cut-data-pipeline-ram-usage-by-60-87f876a8debb?source=rss------programming-5) (2025-09-14)
+- [Design Patterns Look Great In Interviews — And Awful In Production](https://medium.com/@toyezyadav/design-patterns-look-great-in-interviews-and-awful-in-production-b56c0b910ead?source=rss------programming-5) (2025-09-14)
+- [Activating Game Objects — Unity](https://racerzstudios.medium.com/activating-game-objects-unity-49e142af8b31?source=rss------programming-5) (2025-09-14)
+- [Unlocking High-Performance iOS Development with Swift’s Latest Features](https://ravi6997.medium.com/unlocking-high-performance-ios-development-with-swifts-latest-features-44c224663c43?source=rss------programming-5) (2025-09-14)
+- [ModelMapper vs MapStruct: The Ultimate Comparison for Java Object Mapping](https://medium.com/@sunil17bbmp/modelmapper-vs-mapstruct-the-ultimate-comparison-for-java-object-mapping-7e38ebf19040?source=rss------programming-5) (2025-09-14)
 
 </details>
 
@@ -141,11 +141,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Reaching Across the Isles: UK-LLM Brings AI to UK Languages With NVIDIA Nemotron](https://blogs.nvidia.com/blog/uk-llm-nemotron/) (2025-09-14)
 - [Paint It Blackwell: GeForce RTX 5080 SuperPOD Rollout Begins](https://blogs.nvidia.com/blog/geforce-now-thursday-blackwell-rtx-launch/) (2025-09-10)
 - [‘Safety First, Always,’ NVIDIA VP of Automotive Says, Unveiling the Future of AI-Defined Vehicles at IAA Mobility](https://blogs.nvidia.com/blog/iaa-mobility-ai-defined-vehicles/) (2025-09-09)
 - [NVIDIA Blackwell Ultra Sets the Bar in New MLPerf Inference Benchmark](https://blogs.nvidia.com/blog/mlperf-inference-blackwell-ultra/) (2025-09-09)
 - [NVIDIA Partners With AI Infrastructure Ecosystem to Unveil Reference Design for Giga-Scale AI Factories](https://blogs.nvidia.com/blog/ai-factories-reference-design/) (2025-09-09)
-- [Get Started Using Generative AI for Content Creation With ComfyUI and NVIDIA RTX AI PCs](https://blogs.nvidia.com/blog/rtx-ai-garage-comfyui-wan-qwen-flux-krea-remix/) (2025-09-09)
 
 </details>
 
