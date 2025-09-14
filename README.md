@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Tesla board chair calls debate over Elon Musk’s $1T pay package ‘a little bit weird’](https://techcrunch.com/2025/09/13/tesla-board-chair-calls-debate-over-elon-musks-1t-pay-package-a-little-bit-weird/) (2025-09-13)
-- [Pilot union urges FAA to reject Rainmaker’s drone cloud-seeding plan](https://techcrunch.com/2025/09/13/pilot-union-urges-faa-to-reject-rainmakers-drone-cloud-seeding-plan/) (2025-09-13)
-- [California lawmakers pass AI safety bill SB 53 — but Newsom could still veto](https://techcrunch.com/2025/09/13/california-lawmakers-pass-ai-safety-bill-sb-53-but-newsom-could-still-veto/) (2025-09-13)
-- [xAI reportedly lays off 500 workers from data annotation team](https://techcrunch.com/2025/09/13/xai-reportedly-lays-off-500-workers-from-data-annotation-team/) (2025-09-13)
-- [Here’s the tech powering ICE’s deportation crackdown ](https://techcrunch.com/2025/09/13/heres-the-tech-powering-ices-deportation-crackdown/) (2025-09-13)
+- [Karen Hao on the Empire of AI, AGI evangelists, and the cost of belief](https://techcrunch.com/2025/09/14/karen-hao-on-the-empire-of-ai-agi-evangelists-and-the-cost-of-belief/) (2025-09-14)
+- [iPhone 17, iPhone Air, AirPods Pro 3, and everything else announced at Apple’s hardware event](https://techcrunch.com/2025/09/14/iphone-17-iphone-air-airpods-pro-3-and-everything-else-announced-at-apples-hardware-event/) (2025-09-14)
+- [Rolling Stone owner Penske Media sues Google over AI summaries](https://techcrunch.com/2025/09/14/rolling-stone-owner-penske-media-sues-google-over-ai-summaries/) (2025-09-14)
+- [Via raises $492.9M in IPO, and German automakers go on the offensive](https://techcrunch.com/2025/09/14/via-raises-492-9m-in-ipo-and-german-automakers-go-on-the-offensive/) (2025-09-14)
+- [‘Selling coffee beans to Starbucks’ – how the AI boom could leave AI’s biggest companies behind](https://techcrunch.com/2025/09/14/selling-coffee-beans-to-starbucks-how-the-ai-boom-could-leave-ais-biggest-companies-behind/) (2025-09-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Repetitive negative thinking is associated with cognitive function decline](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-025-06815-2) (2025-09-14)
-- [macOS Tahoe is certified Unix 03 [pdf]](https://www.opengroup.org/openbrand/certificates/1223p.pdf) (2025-09-14)
-- [Fukushima Insects Tested for Cognition](https://news.cnrs.fr/articles/fukushima-insects-tested-for-cognition) (2025-09-14)
-- [The PC was never a true 'IBMer'](https://thechipletter.substack.com/p/the-pc-was-never-a-true-ibmer) (2025-09-14)
-- [Gemini (2023)](https://geminiquickst.art/) (2025-09-14)
+- [World emissions hit record high, but the EU leads trend reversal](https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/world-emissions-hit-record-high-eu-leads-trend-reversal-2025-09-09_en) (2025-09-14)
+- [Writing an operating system kernel from scratch](https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/) (2025-09-14)
+- [Nicu's test website made with SVG (2007)](https://svg.nicubunu.ro/) (2025-09-14)
+- [Bank of Thailand freezes 3M accounts, sets daily transfer limits to curb fraud](https://www.thaienquirer.com/57752/bot-freezes-3-million-accounts-sets-daily-transfer-limits-of-50000-200000-baht-to-curb-6-billion-baht-scam-losses/) (2025-09-14)
+- [Why We Spiral](https://behavioralscientist.org/why-we-spiral/) (2025-09-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Rolling Stone’s parent company sues Google over AI Overviews](https://www.theverge.com/ai-artificial-intelligence/777788/rolling-stone-penske-media-sue-google-ai-overviews) (2025-09-14)
+- [The Helldivers community is coping with a spotlight it doesn’t want](https://www.theverge.com/games/777738/helldivers-community-reddit-discord-charlie-kirk) (2025-09-14)
+- [Scarlet turns Shakespeare into an animated fantasy epic](https://www.theverge.com/toronto-international-film-festival/777609/tiff-2025-reviews-scarlet-project-y-sentimental-value) (2025-09-14)
+- [In Silksong, spite is my motivation to keep playing](https://www.theverge.com/games/777653/silksong-impressions-team-cherry-metroidvania-sherma-is-cool) (2025-09-14)
 - [Phone batteries are getting more compact, but the US is missing out](https://www.theverge.com/the-stepback-newsletter/776517/silicon-carbon-batteries-phones) (2025-09-14)
-- [The iPhone to get this year](https://www.theverge.com/installer-newsletter/777346/best-iphone-17-airpods-jeopardy-installer) (2025-09-14)
-- [Liam Hemsworth is Geralt in the first Witcher season 4 trailer](https://www.theverge.com/netflix/777590/the-witcher-netflix-season-4-trailer-release-date-liam-hemsworth) (2025-09-14)
-- [Time is running out to get half off a year of Paramount Plus](https://www.theverge.com/tech/777057/paramount-plus-baseus-dash-cam-solar-lego-earbuds-deal-sale) (2025-09-13)
-- [Spotify Lossless is an inconvenient improvement](https://www.theverge.com/hands-on/777691/spotify-lossless-flac-audio-inconvenient-improvement) (2025-09-13)
 
 </details>
 
@@ -97,28 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How to Use AI Effectively in Coding & Development? How to have a Senior Developer Mindset?](https://dev.to/sumonta056/how-to-use-ai-effectively-in-coding-development-how-to-have-a-senior-developer-mindset-43bl) (2025-09-14)
-- [Creative Ways to Style the HTML Details Tag](https://dev.to/ilham-bouktir/creative-ways-to-style-the-html-details-tag-3c5k) (2025-09-14)
-- [Teaching AI to Blog: My Journey into Agentic AI Development — Part 1](https://dev.to/jimmyhott/teaching-ai-to-blog-my-journey-into-agentic-ai-development-part-1-eb0) (2025-09-14)
-- [Use SVG Sprites to Make Your React App Load Faster](https://dev.to/gouranga-das-khulna/use-svg-sprites-to-make-your-react-app-load-faster-319a) (2025-09-14)
-- [Resume Crafting Guide - PLSQL dev](https://dev.to/mrcaption49/resume-crafting-guide-plsql-dev-2gk8) (2025-09-14)
+- [Special Files in Linux: The Hidden Power Behind “Everything is a File”](https://dev.to/naval_upadhyay/special-files-in-linux-the-hidden-power-behind-everything-is-a-file-34j7) (2025-09-14)
+- [Why You Need to Know How a Database Works Internally?](https://dev.to/deepak_negi_f1d64e7393000/why-you-need-to-know-how-a-database-works-internally-5g6a) (2025-09-14)
+- [Learning Scala with chess #1 - Color and coordinates](https://dev.to/kaiba78987_4/learning-scala-with-chess-1-color-and-coordinates-gdj) (2025-09-14)
+- [Introducing Clprolf: a New Programming Language for Clear OOP](https://dev.to/charles_koffler_bcabc582b/introducing-clprolf-a-new-programming-language-for-clear-oop-3mjk) (2025-09-14)
+- [I Built LexKit: A Modern, Type-Safe Rich Text Editor for React](https://dev.to/codeideal/i-built-lexkit-a-modern-type-safe-rich-text-editor-for-react-3ahc) (2025-09-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09389632898
-شماره خاله #شماره خاله# تهران #
-#شماره #خاله #شماره خاله# تهران #شماره خاله# اصفهان…](https://medium.com/@jlalymrjan1/09389632898-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-4ce9458ba9ed?source=rss------programming-5) (2025-09-14)
-- [09389632898
-شماره خاله #شماره خاله# تهران #
-#شماره #خاله #شماره خاله# تهران #شماره خاله# اصفهان…](https://medium.com/@jlalymrjan1/09389632898-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-977cbe3c7cd9?source=rss------programming-5) (2025-09-14)
-- [09389632898
-شماره خاله #شماره خاله# تهران #
-#شماره #خاله #شماره خاله# تهران #شماره خاله# اصفهان…](https://medium.com/@jlalymrjan1/09389632898-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-fcf68a4079f4?source=rss------programming-5) (2025-09-14)
-- [Understanding <em>TypeScript</em>’s Readonly Utility: Enhancing Immutability in Your Projects](https://arnab-k.medium.com/understanding-em-typescript-em-s-readonly-utility-enhancing-immutability-in-your-projects-71a9aef858d3?source=rss------programming-5) (2025-09-14)
-- [6 Python Debugging Tricks That Saved Me From Quitting](https://medium.com/codrift/6-python-debugging-tricks-that-saved-me-from-quitting-9179afbe0197?source=rss------programming-5) (2025-09-14)
+- [Object-Oriented Programming Anti-Patterns You Must Avoid](https://medium.com/@CodeWithPurpose/object-oriented-programming-anti-patterns-you-must-avoid-e1b6785778d9?source=rss------programming-5) (2025-09-14)
+- [The Linux Security Journey — Use Virtually Mapped Stack with Guard Pages](https://medium.com/@boutnaru/the-linux-security-journey-use-virtually-mapped-stack-with-guard-pages-0e723f5132ba?source=rss------programming-5) (2025-09-14)
+- [09045080282شماره خاله کیش شماره خاله قشم شماره خاله بندرعباس شماره خاله تهران شماره خاله شیراز…](https://medium.com/@2kskwkwnsnsn/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%DB%8C%D8%B4-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D8%B4%D9%85-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-67c39f06cbbf?source=rss------programming-5) (2025-09-14)
+- [09045080282شماره خاله کیش شماره خاله قشم شماره خاله بندرعباس شماره خاله تهران شماره خاله شیراز…](https://medium.com/@2kskwkwnsnsn/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%DB%8C%D8%B4-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D8%B4%D9%85-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-d44574692657?source=rss------programming-5) (2025-09-14)
+- [09045080282شماره خاله کیش شماره خاله قشم شماره خاله بندرعباس شماره خاله تهران شماره خاله شیراز…](https://medium.com/@2kskwkwnsnsn/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%DB%8C%D8%B4-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D8%B4%D9%85-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-293939e34077?source=rss------programming-5) (2025-09-14)
 
 </details>
 
@@ -574,11 +568,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/warm-transfer-ope
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Rise of Semantic Entity Resolution](https://towardsdatascience.com/the-rise-of-semantic-entity-resolution/) (2025-09-14)
+- [No Peeking Ahead: Time-Aware Graph Fraud Detection](https://towardsdatascience.com/no-peeking-ahead-time-aware-graph-fraud-detection/) (2025-09-14)
 - [Building Research Agents for Tech Insights](https://towardsdatascience.com/building-research-agents-for-tech-insights/) (2025-09-13)
 - [Docling: The Document Alchemist](https://towardsdatascience.com/docling-the-document-alchemist/) (2025-09-12)
 - [If we use AI to do our work – what is our job, then?](https://towardsdatascience.com/if-we-use-ai-to-do-our-work/) (2025-09-12)
-- [Generalists Can Also Dig Deep](https://towardsdatascience.com/generalists-can-also-dig-deep/) (2025-09-12)
-- [A Focused Approach to Learning SQL](https://towardsdatascience.com/a-focused-approach-to-learning-sql/) (2025-09-12)
 
 </details>
 
