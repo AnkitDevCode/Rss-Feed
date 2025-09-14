@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Refurb Weekend: Silicon Graphics Indigo² Impact 10000](http://oldvcr.blogspot.com/2025/09/refurb-weekend-silicon-graphics-indigo.html) (2025-09-14)
-- [High Altitude Living – 8,000 ft and above (2021)](https://studioq.com/blog/2021/5/30/high-altitude-living-8000-ft-and-above-2450-meters) (2025-09-14)
-- [Why you’d issue a branded stablecoin](https://text-incubation.com/Why+you%27d+issue+a+branded+stablecoin+like+McDonaldsCoin) (2025-09-14)
-- [Visual programming is stuck on the form](https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/) (2025-09-14)
-- [How the restoration of ancient Babylon is drawing tourists back to Iraq](https://www.theartnewspaper.com/2025/09/12/how-the-restoration-of-ancient-babylon-is-helping-to-draw-tourists-back-to-iraq) (2025-09-14)
+- [Repetitive negative thinking is associated with cognitive function decline](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-025-06815-2) (2025-09-14)
+- [macOS Tahoe is certified Unix 03 [pdf]](https://www.opengroup.org/openbrand/certificates/1223p.pdf) (2025-09-14)
+- [Fukushima Insects Tested for Cognition](https://news.cnrs.fr/articles/fukushima-insects-tested-for-cognition) (2025-09-14)
+- [The PC was never a true 'IBMer'](https://thechipletter.substack.com/p/the-pc-was-never-a-true-ibmer) (2025-09-14)
+- [Gemini (2023)](https://geminiquickst.art/) (2025-09-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Phone batteries are getting more compact, but the US is missing out](https://www.theverge.com/the-stepback-newsletter/776517/silicon-carbon-batteries-phones) (2025-09-14)
+- [The iPhone to get this year](https://www.theverge.com/installer-newsletter/777346/best-iphone-17-airpods-jeopardy-installer) (2025-09-14)
 - [Liam Hemsworth is Geralt in the first Witcher season 4 trailer](https://www.theverge.com/netflix/777590/the-witcher-netflix-season-4-trailer-release-date-liam-hemsworth) (2025-09-14)
 - [Time is running out to get half off a year of Paramount Plus](https://www.theverge.com/tech/777057/paramount-plus-baseus-dash-cam-solar-lego-earbuds-deal-sale) (2025-09-13)
 - [Spotify Lossless is an inconvenient improvement](https://www.theverge.com/hands-on/777691/spotify-lossless-flac-audio-inconvenient-improvement) (2025-09-13)
-- [Adult Swim&#8217;s new stop-motion series is a celebration of Latin American culture](https://www.theverge.com/tv/777484/women-wearing-shoulder-pads-interview) (2025-09-13)
-- [Exit 8’s director was inspired by watching people play the game](https://www.theverge.com/interview/777509/exit-8-director-interview) (2025-09-13)
 
 </details>
 
@@ -97,22 +97,28 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Best UI Animation Libraries & Inspiration for Modern Designers](https://dev.to/tamim_ahmed_412f3d75a7fc0/best-ui-animation-libraries-inspiration-for-modern-designers-257f) (2025-09-14)
-- [Referenceable: Generate Unique Laravel Model References the](https://dev.to/eg-mohamed/referenceable-generate-unique-laravel-model-references-the-400n) (2025-09-14)
-- [How to get a job without losing your mind!](https://dev.to/jestebandev/how-to-get-a-job-without-losing-your-mind-3ifg) (2025-09-14)
-- [🌟 Story Weaver: An AI-Powered Multimodal App for Crafting and Experiencing Stories](https://dev.to/pravesh_sudha_3c2b0c2b5e0/story-weaver-an-ai-powered-multimodal-app-for-crafting-and-experiencing-stories-5a55) (2025-09-14)
-- [Git & GitHub: Theoretical concepts](https://dev.to/tapobanray/git-github-theoretical-concepts-3974) (2025-09-14)
+- [How to Use AI Effectively in Coding & Development? How to have a Senior Developer Mindset?](https://dev.to/sumonta056/how-to-use-ai-effectively-in-coding-development-how-to-have-a-senior-developer-mindset-43bl) (2025-09-14)
+- [Creative Ways to Style the HTML Details Tag](https://dev.to/ilham-bouktir/creative-ways-to-style-the-html-details-tag-3c5k) (2025-09-14)
+- [Teaching AI to Blog: My Journey into Agentic AI Development — Part 1](https://dev.to/jimmyhott/teaching-ai-to-blog-my-journey-into-agentic-ai-development-part-1-eb0) (2025-09-14)
+- [Use SVG Sprites to Make Your React App Load Faster](https://dev.to/gouranga-das-khulna/use-svg-sprites-to-make-your-react-app-load-faster-319a) (2025-09-14)
+- [Resume Crafting Guide - PLSQL dev](https://dev.to/mrcaption49/resume-crafting-guide-plsql-dev-2gk8) (2025-09-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09337624612شماره خاله تهران شماره خاله تهران  شماره خاله بندرجاسک شماره خاله نکا شماره خاله…](https://medium.com/@jawydybhar91/09337624612-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%AC%D8%A7%D8%B3%DA%A9-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%86%DA%A9%D8%A7-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-784815266051?source=rss------programming-5) (2025-09-14)
-- [09337624612شماره خاله تهران شماره خاله تهران  شماره خاله بندرجاسک شماره خاله نکا شماره خاله…](https://medium.com/@jawydybhar91/09337624612-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%AC%D8%A7%D8%B3%DA%A9-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%86%DA%A9%D8%A7-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-b98029924898?source=rss------programming-5) (2025-09-14)
-- [Dynamic Arrays — When Arrays Learn to Flex](https://medium.com/@learning4ev/dynamic-arrays-when-arrays-learn-to-flex-1cf7ecefeaa8?source=rss------programming-5) (2025-09-14)
-- [ React Native + Rust: Building Ultra-Fast Mobile Apps with Native Modules ](https://medium.com/@theHackHabitual/react-native-rust-building-ultra-fast-mobile-apps-with-native-modules-9c4b00c27f43?source=rss------programming-5) (2025-09-14)
-- [⚡ Next.js in 2025: The Complete Guide to Modern Web Development](https://medium.com/@TheblogStacker/next-js-in-2025-the-complete-guide-to-modern-web-development-49d7c8b93d64?source=rss------programming-5) (2025-09-14)
+- [09389632898
+شماره خاله #شماره خاله# تهران #
+#شماره #خاله #شماره خاله# تهران #شماره خاله# اصفهان…](https://medium.com/@jlalymrjan1/09389632898-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-4ce9458ba9ed?source=rss------programming-5) (2025-09-14)
+- [09389632898
+شماره خاله #شماره خاله# تهران #
+#شماره #خاله #شماره خاله# تهران #شماره خاله# اصفهان…](https://medium.com/@jlalymrjan1/09389632898-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-977cbe3c7cd9?source=rss------programming-5) (2025-09-14)
+- [09389632898
+شماره خاله #شماره خاله# تهران #
+#شماره #خاله #شماره خاله# تهران #شماره خاله# اصفهان…](https://medium.com/@jlalymrjan1/09389632898-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-fcf68a4079f4?source=rss------programming-5) (2025-09-14)
+- [Understanding <em>TypeScript</em>’s Readonly Utility: Enhancing Immutability in Your Projects](https://arnab-k.medium.com/understanding-em-typescript-em-s-readonly-utility-enhancing-immutability-in-your-projects-71a9aef858d3?source=rss------programming-5) (2025-09-14)
+- [6 Python Debugging Tricks That Saved Me From Quitting](https://medium.com/codrift/6-python-debugging-tricks-that-saved-me-from-quitting-9179afbe0197?source=rss------programming-5) (2025-09-14)
 
 </details>
 
@@ -579,11 +585,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/warm-transfer-ope
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Agentic system for Self-documenting code using LangGraph](https://www.analyticsvidhya.com/blog/2025/09/langgraph-agents/) (2025-09-14)
+- [How to Create Videos Using Nano Banana + Veo 3?](https://www.analyticsvidhya.com/blog/2025/09/create-videos-using-veo-3-and-nano-banana/) (2025-09-14)
 - [What is a Multi-Agent System and How Does It Handle Complex Tasks?](https://www.analyticsvidhya.com/blog/2025/09/what-is-multi-agent-system/) (2025-09-13)
 - [A Guide to Exploratory and Sentiment Data Analysis with Fabi.ai](https://www.analyticsvidhya.com/blog/2025/09/sentiment-data-analysiswith-fabi-ai/) (2025-09-13)
 - [How to Use Nano Banana AI to Create Your Own 3D Figurine?](https://www.analyticsvidhya.com/blog/2025/09/create-3d-figurine-using-nano-banana-ai/) (2025-09-12)
-- [Qwen-3-Next: Leaner, Faster, Smarter Than GPT-5 and Gemini 2.5 Pro](https://www.analyticsvidhya.com/blog/2025/09/qwen3-next/) (2025-09-12)
-- [End-to-End Marketing Automation Using Nano Banana + n8n](https://www.analyticsvidhya.com/blog/2025/09/marketing-automation-using-nano-banana-and-n8n/) (2025-09-12)
 
 </details>
 
