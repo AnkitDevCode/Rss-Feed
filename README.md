@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [RFC9460: SVCB and HTTPS DNS Records](https://datatracker.ietf.org/doc/html/rfc9460) (2025-09-14)
-- [EFF to court: The Supreme Court must rein in secondary copyright liability](https://www.eff.org/deeplinks/2025/09/eff-court-supreme-court-must-rein-expansive-secondary-copyright-liability) (2025-09-13)
-- [Leonardo da Vinci’s Y chromosome shared by living family descendants](https://phys.org/news/2025-05-leonardo-da-vinci-dna-chromosome.html) (2025-09-13)
-- [Pass: Unix Password Manager](https://www.passwordstore.org/) (2025-09-13)
-- [Will AI be the basis of many future industrial fortunes, or a net loser?](https://joincolossus.com/article/ai-will-not-make-you-rich/) (2025-09-13)
+- [Refurb Weekend: Silicon Graphics Indigo² Impact 10000](http://oldvcr.blogspot.com/2025/09/refurb-weekend-silicon-graphics-indigo.html) (2025-09-14)
+- [High Altitude Living – 8,000 ft and above (2021)](https://studioq.com/blog/2021/5/30/high-altitude-living-8000-ft-and-above-2450-meters) (2025-09-14)
+- [Why you’d issue a branded stablecoin](https://text-incubation.com/Why+you%27d+issue+a+branded+stablecoin+like+McDonaldsCoin) (2025-09-14)
+- [Visual programming is stuck on the form](https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/) (2025-09-14)
+- [How the restoration of ancient Babylon is drawing tourists back to Iraq](https://www.theartnewspaper.com/2025/09/12/how-the-restoration-of-ancient-babylon-is-helping-to-draw-tourists-back-to-iraq) (2025-09-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Liam Hemsworth is Geralt in the first Witcher season 4 trailer](https://www.theverge.com/netflix/777590/the-witcher-netflix-season-4-trailer-release-date-liam-hemsworth) (2025-09-14)
 - [Time is running out to get half off a year of Paramount Plus](https://www.theverge.com/tech/777057/paramount-plus-baseus-dash-cam-solar-lego-earbuds-deal-sale) (2025-09-13)
 - [Spotify Lossless is an inconvenient improvement](https://www.theverge.com/hands-on/777691/spotify-lossless-flac-audio-inconvenient-improvement) (2025-09-13)
 - [Adult Swim&#8217;s new stop-motion series is a celebration of Latin American culture](https://www.theverge.com/tv/777484/women-wearing-shoulder-pads-interview) (2025-09-13)
 - [Exit 8’s director was inspired by watching people play the game](https://www.theverge.com/interview/777509/exit-8-director-interview) (2025-09-13)
-- [Tucker Carlson asks Sam Altman if an OpenAI employee was murdered &#8216;on your orders&#8217;](https://www.theverge.com/news/777666/tucker-carlson-altman-openai-interview) (2025-09-13)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [[Boost]](https://dev.to/jordanadair/-l6n) (2025-09-14)
-- [Private LLM Inference: Democratizing AI with Ciphertext Computations](https://dev.to/arvindsundararajan/private-llm-inference-democratizing-ai-with-ciphertext-computations-3k43) (2025-09-14)
-- [Vision Stock-Financial Applet](https://dev.to/shakarpg/vision-stock-financial-applet-2hc6) (2025-09-14)
-- [From ASTs to RakuAST to ASTQuery](https://dev.to/fco/from-asts-to-rakuast-to-astquery-c3f) (2025-09-14)
-- [Laravel Real-time](https://dev.to/ashrakt_amin/laravel-real-time-5g48) (2025-09-14)
+- [Best UI Animation Libraries & Inspiration for Modern Designers](https://dev.to/tamim_ahmed_412f3d75a7fc0/best-ui-animation-libraries-inspiration-for-modern-designers-257f) (2025-09-14)
+- [Referenceable: Generate Unique Laravel Model References the](https://dev.to/eg-mohamed/referenceable-generate-unique-laravel-model-references-the-400n) (2025-09-14)
+- [How to get a job without losing your mind!](https://dev.to/jestebandev/how-to-get-a-job-without-losing-your-mind-3ifg) (2025-09-14)
+- [🌟 Story Weaver: An AI-Powered Multimodal App for Crafting and Experiencing Stories](https://dev.to/pravesh_sudha_3c2b0c2b5e0/story-weaver-an-ai-powered-multimodal-app-for-crafting-and-experiencing-stories-5a55) (2025-09-14)
+- [Git & GitHub: Theoretical concepts](https://dev.to/tapobanray/git-github-theoretical-concepts-3974) (2025-09-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [7 Advanced Python Memory Tricks That Cut Data Pipeline RAM Usage by 60%](https://medium.techkoalainsights.com/7-advanced-python-memory-tricks-that-cut-data-pipeline-ram-usage-by-60-87f876a8debb?source=rss------programming-5) (2025-09-14)
-- [Design Patterns Look Great In Interviews — And Awful In Production](https://medium.com/@toyezyadav/design-patterns-look-great-in-interviews-and-awful-in-production-b56c0b910ead?source=rss------programming-5) (2025-09-14)
-- [Activating Game Objects — Unity](https://racerzstudios.medium.com/activating-game-objects-unity-49e142af8b31?source=rss------programming-5) (2025-09-14)
-- [Unlocking High-Performance iOS Development with Swift’s Latest Features](https://ravi6997.medium.com/unlocking-high-performance-ios-development-with-swifts-latest-features-44c224663c43?source=rss------programming-5) (2025-09-14)
-- [ModelMapper vs MapStruct: The Ultimate Comparison for Java Object Mapping](https://medium.com/@sunil17bbmp/modelmapper-vs-mapstruct-the-ultimate-comparison-for-java-object-mapping-7e38ebf19040?source=rss------programming-5) (2025-09-14)
+- [09337624612شماره خاله تهران شماره خاله تهران  شماره خاله بندرجاسک شماره خاله نکا شماره خاله…](https://medium.com/@jawydybhar91/09337624612-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%AC%D8%A7%D8%B3%DA%A9-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%86%DA%A9%D8%A7-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-784815266051?source=rss------programming-5) (2025-09-14)
+- [09337624612شماره خاله تهران شماره خاله تهران  شماره خاله بندرجاسک شماره خاله نکا شماره خاله…](https://medium.com/@jawydybhar91/09337624612-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%AC%D8%A7%D8%B3%DA%A9-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%86%DA%A9%D8%A7-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-b98029924898?source=rss------programming-5) (2025-09-14)
+- [Dynamic Arrays — When Arrays Learn to Flex](https://medium.com/@learning4ev/dynamic-arrays-when-arrays-learn-to-flex-1cf7ecefeaa8?source=rss------programming-5) (2025-09-14)
+- [ React Native + Rust: Building Ultra-Fast Mobile Apps with Native Modules ](https://medium.com/@theHackHabitual/react-native-rust-building-ultra-fast-mobile-apps-with-native-modules-9c4b00c27f43?source=rss------programming-5) (2025-09-14)
+- [⚡ Next.js in 2025: The Complete Guide to Modern Web Development](https://medium.com/@TheblogStacker/next-js-in-2025-the-complete-guide-to-modern-web-development-49d7c8b93d64?source=rss------programming-5) (2025-09-14)
 
 </details>
 
