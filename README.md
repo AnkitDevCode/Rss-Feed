@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Harvard Law to AI: MarqVision lands $48M to combat brand abuse](https://techcrunch.com/2025/09/15/harvard-law-to-ai-marqvision-lands-48m-to-combat-brand-abuse/) (2025-09-15)
 - [OpenAI board chair Bret Taylor says we’re in an AI bubble (but that’s okay)](https://techcrunch.com/2025/09/14/openai-board-chair-bret-taylor-says-were-in-an-ai-bubble-but-thats-okay/) (2025-09-14)
 - [Vibe coding has turned senior devs into ‘AI babysitters,’ but they say it’s worth it](https://techcrunch.com/2025/09/14/vibe-coding-has-turned-senior-devs-into-ai-babysitters-but-they-say-its-worth-it/) (2025-09-14)
 - [Users turn to chatbots for spiritual guidance](https://techcrunch.com/2025/09/14/users-turn-to-chatbots-for-spiritual-guidance/) (2025-09-14)
 - [Karen Hao on the Empire of AI, AGI evangelists, and the cost of belief](https://techcrunch.com/2025/09/14/karen-hao-on-the-empire-of-ai-agi-evangelists-and-the-cost-of-belief/) (2025-09-14)
-- [iPhone 17, iPhone Air, AirPods Pro 3, and everything else announced at Apple’s hardware event](https://techcrunch.com/2025/09/14/iphone-17-iphone-air-airpods-pro-3-and-everything-else-announced-at-apples-hardware-event/) (2025-09-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Celestia – real-time 3D visualization of space](https://celestiaproject.space/) (2025-09-15)
-- [Americans Crushed by Auto Loans as Defaults and Repossessions Surge](https://www.carscoops.com/2025/09/auto-loan-delinquencies-are-off-the-dial-and-even-prime-borrowers-are-struggling/) (2025-09-15)
-- [Starlink is currently experiencing a service outage](https://www.starlink.com/) (2025-09-15)
-- [A qualitative analysis of pig-butchering scams](https://arxiv.org/abs/2503.20821) (2025-09-15)
-- [Language Models Pack Billions of Concepts into 12,000 Dimensions](https://nickyoder.com/johnson-lindenstrauss/) (2025-09-15)
+- [The $10 Payment That Cost Me $43.95 – The Madness of SaaS Chargebacks](https://medium.com/@citizenblr/the-10-payment-that-cost-me-43-95-the-madness-of-saas-chargebacks-5c308d5a49cc) (2025-09-15)
+- [RustGPT: A pure-Rust transformer LLM built from scratch](https://github.com/tekaratzas/RustGPT) (2025-09-15)
+- [Folks, we have the best π](https://lcamtuf.substack.com/p/folks-we-have-the-best) (2025-09-15)
+- [Celestia – Real-time 3D visualization of space](https://celestiaproject.space/) (2025-09-15)
+- [Omarchy on CachyOS](https://github.com/mroboff/omarchy-on-cachyos) (2025-09-15)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [What’s next for Apple after the iPhone 17?](https://www.theverge.com/apple-rumors/777791/whats-next-for-apple-iphone-17-m5-ipad-pro) (2025-09-14)
-- [Rolling Stone’s parent company sues Google over AI Overviews](https://www.theverge.com/ai-artificial-intelligence/777788/rolling-stone-penske-media-sue-google-ai-overviews) (2025-09-14)
-- [The Helldivers community is coping with a spotlight it doesn’t want](https://www.theverge.com/games/777738/helldivers-community-reddit-discord-charlie-kirk) (2025-09-14)
-- [Scarlet turns Shakespeare into an animated fantasy epic](https://www.theverge.com/toronto-international-film-festival/777609/tiff-2025-reviews-scarlet-project-y-sentimental-value) (2025-09-14)
-- [In Silksong, spite is my motivation to keep playing](https://www.theverge.com/games/777653/silksong-impressions-team-cherry-metroidvania-sherma-is-cool) (2025-09-14)
+- [AirPods Pro 3 review: tripling down on a good thing](https://www.theverge.com/headphone-review/777798/airpods-pro-3-review-active-noise-cancelling-live-translation-headphones) (2025-09-15)
+- [Android&#8217;s next flagship processor will be the &#8216;Snapdragon 8 Elite Gen 5&#8217;](https://www.theverge.com/news/777925/qualcomm-snapdragon-8-elite-gen-5-name) (2025-09-15)
+- [Microsoft is changing how Xbox controllers work on Windows 11](https://www.theverge.com/news/777898/microsoft-xbox-controller-changes-windows-11) (2025-09-15)
+- [The SSD version of LaCie’s iconic Rugged drive gets a speed boost](https://www.theverge.com/news/776676/seagate-lacie-rugged-ssd4-external-drive-apple-prores-4k) (2025-09-15)
+- [Apple’s new iPhone charger is a first of its kind](https://www.theverge.com/news/777883/apple-charger-usb-pd-3-2-avs-dynamic) (2025-09-15)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: computing’s bright young minds, and cleaning up satellite streaks](https://www.technologyreview.com/2025/09/15/1123608/the-download-computings-bright-young-minds-and-cleaning-up-satellite-streaks/) (2025-09-15)
 - [The Download: America’s gun crisis, and how AI video models work](https://www.technologyreview.com/2025/09/12/1123577/the-download-americas-gun-crisis-and-how-ai-video-models-work/) (2025-09-12)
 - [How do AI models generate videos?](https://www.technologyreview.com/2025/09/12/1123562/how-do-ai-models-generate-videos/) (2025-09-12)
 - [We can’t “make American children healthy again” without tackling the gun crisis](https://www.technologyreview.com/2025/09/11/1123553/maha-report-gun-violence-checkup/) (2025-09-11)
 - [Partnering with generative AI in the finance function](https://www.technologyreview.com/2025/09/11/1123508/partnering-with-generative-ai-in-the-finance-function/) (2025-09-11)
-- [The Download: Trump’s impact on science, and meet our climate and energy honorees](https://www.technologyreview.com/2025/09/11/1123534/the-download-trumps-impact-on-science-and-meet-our-climate-and-energy-honorees/) (2025-09-11)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Security Risks and Improvement Strategies for Multi-Channel OTP Fallback](https://dev.to/mybest99/security-risks-and-improvement-strategies-for-multi-channel-otp-fallback-3mec) (2025-09-15)
-- [JavaScript Numbers: The Ultimate Guide for Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/javascript-numbers-the-ultimate-guide-for-developers-40nf) (2025-09-15)
-- [My Web Dev Journey Begins 🚀](https://dev.to/nikhilsharma6/my-web-dev-journey-begins-lca) (2025-09-15)
-- [Bharat Vesh: Try On India’s Traditions with AI](https://dev.to/akshatbindal/bharat-vesh-try-on-indias-traditions-with-ai-1gj3) (2025-09-15)
-- [Q the Future: Enterprise Productivity with AWS Q Business](https://dev.to/aws-builders/q-the-future-enterprise-productivity-with-aws-q-business-5fn) (2025-09-15)
+- [Web Developer Travis McCracken on Horizontal Scaling Mistakes I’ve Made](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-horizontal-scaling-mistakes-ive-made-3e7) (2025-09-15)
+- [🚀 Introducing Pebble: A Tiny New Programming Language](https://dev.to/rasa8877/introducing-pebble-a-tiny-new-programming-language-2di7) (2025-09-15)
+- [Who Is Responsible When Algorithms Rule? Reintroducing Human Accountability in Executable Governance](https://dev.to/agustin_v_startari/who-is-responsible-when-algorithms-rule-reintroducing-human-accountability-in-executable-governance-476i) (2025-09-15)
+- [Meme Monday](https://dev.to/ben/meme-monday-1546) (2025-09-15)
+- [Creating a Platform Game with TCJSGame v3: Step-by-Step Tutorial](https://dev.to/kehinde_owolabi_e2e54567a/creating-a-platform-game-with-tcjsgame-v3-step-by-step-tutorial-1h17) (2025-09-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why Many Developers Still Use Older Python Versions and What It Costs](https://medium.com/@ccpythonprogramming/why-many-developers-still-use-older-python-versions-and-what-it-costs-2e132e921417?source=rss------programming-5) (2025-09-15)
-- [How I start every Python project](https://han-aectech.medium.com/how-i-start-every-python-project-805e989caee5?source=rss------programming-5) (2025-09-15)
-- [I Made $2,847 in 19 Days Licensing My Cloned Voice Using AI (Without Recording a Single New Word)](https://medium.com/write-a-catalyst/i-made-2-847-in-19-days-licensing-my-cloned-voice-using-ai-without-recording-a-single-new-word-e26b4a483408?source=rss------programming-5) (2025-09-15)
-- [Show PDF files in React: No library needed](https://medium.com/@scriptingwithcharles/show-pdf-files-in-react-no-library-needed-f819793e09d5?source=rss------programming-5) (2025-09-15)
-- [Do You Really Need ResponseEntity?](https://mammadyahya.medium.com/do-you-really-need-responseentity-fd1530f73a35?source=rss------programming-5) (2025-09-15)
+- [The Python Framework That Helped Me Prototype an Idea in a Single Night](https://blog.stackademic.com/the-python-framework-that-helped-me-prototype-an-idea-in-a-single-night-9f551f357ab8?source=rss------programming-5) (2025-09-15)
+- [Exactly How AI Influencers Like Aitana Lopez Make Crazy Money](https://medium.com/@sandeepkant65/exactly-how-ai-influencers-like-aitana-lopez-make-crazy-money-3ecda339311e?source=rss------programming-5) (2025-09-15)
+- [09370673570شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@mmbcxzzfvb25/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-dfeac246988f?source=rss------programming-5) (2025-09-15)
+- [09370673570شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@mmbcxzzfvb25/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-4b7db8d652e9?source=rss------programming-5) (2025-09-15)
+- [09370673570شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@mmbcxzzfvb25/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-61f24c5b6518?source=rss------programming-5) (2025-09-15)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Introducing the Constexpr Debugger](https://blog.jetbrains.com/clion/2025/09/introducing-constexpr-debugger/) (2025-09-15)
+- [GameDev Day 2025 Is Back in October!](https://blog.jetbrains.com/dotnet/2025/09/15/gamedev-day-2025-is-back-in-october/) (2025-09-14)
 - [Your Voice Belongs Here: Creating Compelling KotlinConf Proposals [Livestream]](https://blog.jetbrains.com/kotlin/2025/09/creating-kotlinconf-proposals/) (2025-09-12)
 - [Achieve Effortless GitHub Releases With a New Plugin for TeamCity](https://blog.jetbrains.com/teamcity/2025/09/teamcity-github-releases-plugin/) (2025-09-12)
 - [JetBrains at the ICPC World Finals 2025 Baku](https://blog.jetbrains.com/blog/2025/09/11/jetbrains-at-the-icpc-world-finals-2025-baku/) (2025-09-11)
-- [Testing AI Coding Agents With TeamCity and SWE-bench](https://blog.jetbrains.com/teamcity/2025/09/testing-ai-coding-agents-with-teamcity-and-swe-bench/) (2025-09-11)
-- [TeamCity 2025.07.2 Is Available](https://blog.jetbrains.com/teamcity/2025/09/teamcity-2025-07-2-bug-fix/) (2025-09-10)
 
 </details>
 
@@ -339,11 +339,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [GitLab and Accenture announce Global Reseller Agreement](https://about.gitlab.com/blog/gitlab-and-accenture-announce-global-reseller-agreement/) (2025-09-15)
 - [Supercharge your Git workflows](https://about.gitlab.com/blog/supercharge-your-git-workflows/) (2025-09-10)
 - [A developer's guide to building secure retail apps with GitLab](https://about.gitlab.com/blog/a-developers-guide-to-building-secure-retail-apps-with-gitlab/) (2025-09-04)
 - [Vibe coding with GitLab Duo Agent Platform: Issue to MR Flow](https://about.gitlab.com/blog/vibe-coding-with-gitlab-duo-agent-platform-issue-to-mr-flow/) (2025-09-03)
 - [GitLab achieves ISO/IEC 42001 certification for AI governance](https://about.gitlab.com/blog/gitlab-achieves-iso-iec-42001-certification-for-ai-governance/) (2025-09-02)
-- [Secure Rust development with GitLab](https://about.gitlab.com/blog/secure-rust-development-with-gitlab/) (2025-09-02)
 
 </details>
 
@@ -568,44 +568,44 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/warm-transfer-ope
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Become a Machine Learning Engineer (Step-by-Step)](https://towardsdatascience.com/dont-follow-generic-ml-engineer-roadmaps-do-this-instead-2/) (2025-09-15)
 - [The Rise of Semantic Entity Resolution](https://towardsdatascience.com/the-rise-of-semantic-entity-resolution/) (2025-09-14)
 - [No Peeking Ahead: Time-Aware Graph Fraud Detection](https://towardsdatascience.com/no-peeking-ahead-time-aware-graph-fraud-detection/) (2025-09-14)
 - [Building Research Agents for Tech Insights](https://towardsdatascience.com/building-research-agents-for-tech-insights/) (2025-09-13)
 - [Docling: The Document Alchemist](https://towardsdatascience.com/docling-the-document-alchemist/) (2025-09-12)
-- [If we use AI to do our work – what is our job, then?](https://towardsdatascience.com/if-we-use-ai-to-do-our-work/) (2025-09-12)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
-- [Agentic system for Self-documenting code using LangGraph](https://www.analyticsvidhya.com/blog/2025/09/langgraph-agents/) (2025-09-14)
+- [12 Nano Banana Prompts to Convert Your Photos into Retro Images](https://www.analyticsvidhya.com/blog/2025/09/nano-banana-retro-prompts/) (2025-09-15)
+- [Seedream v4: Nano Banana Can’t Keep Up!](https://www.analyticsvidhya.com/blog/2025/09/seedream-v4-nano-banana-cant-keep-up/) (2025-09-15)
+- [Agentic System for Self-documenting code using LangGraph](https://www.analyticsvidhya.com/blog/2025/09/langgraph-agents/) (2025-09-14)
 - [How to Create Videos Using Nano Banana + Veo 3?](https://www.analyticsvidhya.com/blog/2025/09/create-videos-using-veo-3-and-nano-banana/) (2025-09-14)
 - [What is a Multi-Agent System and How Does It Handle Complex Tasks?](https://www.analyticsvidhya.com/blog/2025/09/what-is-multi-agent-system/) (2025-09-13)
-- [A Guide to Exploratory and Sentiment Data Analysis with Fabi.ai](https://www.analyticsvidhya.com/blog/2025/09/sentiment-data-analysiswith-fabi-ai/) (2025-09-13)
-- [How to Use Nano Banana AI to Create Your Own 3D Figurine?](https://www.analyticsvidhya.com/blog/2025/09/create-3d-figurine-using-nano-banana-ai/) (2025-09-12)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Cutting-Edge Generative AI Advances to Watch in 2026](https://www.kdnuggets.com/5-cutting-edge-generative-ai-advances-to-watch-in-2026) (2025-09-15)
 - [Uncommon Uses of Common Python Standard Library Functions](https://www.kdnuggets.com/uncommon-uses-of-common-python-standard-library-functions) (2025-09-12)
 - [5 Tips for Building Optimized Hugging Face Transformer Pipelines](https://www.kdnuggets.com/5-tips-for-building-optimized-hugging-face-transformer-pipelines) (2025-09-12)
 - [12 Essential Lessons for Building AI Agents](https://www.kdnuggets.com/12-essential-lessons-for-building-ai-agents) (2025-09-11)
 - [5 Portfolio Mistakes That Keep Data Scientists From Getting Hired](https://www.kdnuggets.com/5-portfolio-mistakes-that-keep-data-scientists-from-getting-hired) (2025-09-10)
-- [A Gentle Introduction to Docker for Python Developers](https://www.kdnuggets.com/a-gentle-introduction-to-docker-for-python-developers) (2025-09-09)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [5 Lesser-Known Visualization Libraries for Impactful Machine Learning Storytelling](https://machinelearningmastery.com/5-lesser-known-visualization-libraries-for-impactful-machine-learning-storytelling/) (2025-09-15)
 - [The Roadmap for Mastering AI-Assisted Coding in 2025](https://machinelearningmastery.com/the-roadmap-for-mastering-ai-assisted-coding-in-2025/) (2025-09-11)
 - [10 Common Misconceptions About Large Language Models](https://machinelearningmastery.com/10-common-misconceptions-about-large-language-models/) (2025-09-10)
 - [Multi-Agent Systems: The Next Frontier in AI-Driven Cyber Defense](https://machinelearningmastery.com/multi-agent-systems-the-next-frontier-in-ai-driven-cyber-defense/) (2025-09-09)
 - [ROC AUC vs Precision-Recall for Imbalanced Data](https://machinelearningmastery.com/roc-auc-vs-precision-recall-for-imbalanced-data/) (2025-09-09)
-- [7 Scikit-learn Tricks for Optimized Cross-Validation](https://machinelearningmastery.com/7-scikit-learn-tricks-for-optimized-cross-validation/) (2025-09-08)
 
 </details>
 
