@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Rebutting 33 False Claims About Solar, Wind, and Electric Vehicles](https://scholarship.law.columbia.edu/cgi/viewcontent.cgi?article=1218&context=sabin_climate_change) (2025-09-15)
-- [J-Link RTT for the Masses using Semihosting on ARM](https://bogdanthegeek.github.io/blog/insights/jlink-rtt-for-the-masses/) (2025-09-15)
-- [California age verification bill backed by Google, Meta, OpenAI heads to Newsom](https://www.politico.com/news/2025/09/13/california-advances-effort-to-check-kids-ages-online-amid-safety-concerns-00563005) (2025-09-14)
-- [Titania Programming Language](https://github.com/gingerBill/titania) (2025-09-14)
-- [Cannabis use associated with quadrupled risk of developing type 2 diabetes](https://medicalxpress.com/news/2025-09-cannabis-quadrupled-diabetes-million-adults.html) (2025-09-14)
+- [Celestia – real-time 3D visualization of space](https://celestiaproject.space/) (2025-09-15)
+- [Americans Crushed by Auto Loans as Defaults and Repossessions Surge](https://www.carscoops.com/2025/09/auto-loan-delinquencies-are-off-the-dial-and-even-prime-borrowers-are-struggling/) (2025-09-15)
+- [Starlink is currently experiencing a service outage](https://www.starlink.com/) (2025-09-15)
+- [A qualitative analysis of pig-butchering scams](https://arxiv.org/abs/2503.20821) (2025-09-15)
+- [Language Models Pack Billions of Concepts into 12,000 Dimensions](https://nickyoder.com/johnson-lindenstrauss/) (2025-09-15)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [My First MCP Server: Semantic Code Search](https://dev.to/paradoxy/my-first-mcp-server-semantic-code-search-3520) (2025-09-15)
-- [Frontend Architecture for Small Teams: A Guide for Managers and Startup Founders](https://dev.to/aleksandr_ryzhikov/frontend-architecture-for-small-teams-a-guide-for-managers-and-startup-founders-1924) (2025-09-15)
-- [Finding Amount of Clusters](https://dev.to/carlosrambles/finding-amount-of-clusters-4hfp) (2025-09-15)
-- [Graceful Motion: Learning to Flow with AI by Arvind Sundararajan](https://dev.to/arvindsundararajan/graceful-motion-learning-to-flow-with-ai-by-arvind-sundararajan-36p3) (2025-09-15)
-- [Building High-Performance Caching in Go: A Practical Guide](https://dev.to/jones_charles_ad50858dbc0/building-high-performance-caching-in-go-a-practical-guide-137) (2025-09-15)
+- [Security Risks and Improvement Strategies for Multi-Channel OTP Fallback](https://dev.to/mybest99/security-risks-and-improvement-strategies-for-multi-channel-otp-fallback-3mec) (2025-09-15)
+- [JavaScript Numbers: The Ultimate Guide for Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/javascript-numbers-the-ultimate-guide-for-developers-40nf) (2025-09-15)
+- [My Web Dev Journey Begins 🚀](https://dev.to/nikhilsharma6/my-web-dev-journey-begins-lca) (2025-09-15)
+- [Bharat Vesh: Try On India’s Traditions with AI](https://dev.to/akshatbindal/bharat-vesh-try-on-indias-traditions-with-ai-1gj3) (2025-09-15)
+- [Q the Future: Enterprise Productivity with AWS Q Business](https://dev.to/aws-builders/q-the-future-enterprise-productivity-with-aws-q-business-5fn) (2025-09-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [7 Advanced TypeScript Conditional Types That Eliminate Runtime API Validation Overhead While…](https://medium.techkoalainsights.com/7-advanced-typescript-conditional-types-that-eliminate-runtime-api-validation-overhead-while-4570cc6a68ed?source=rss------programming-5) (2025-09-15)
-- [Stop Writing Boilerplate in Python: 11 One-Liners That Do the Heavy Lifting](https://python.plainenglish.io/stop-writing-boilerplate-in-python-11-one-liners-that-do-the-heavy-lifting-61f1a5f4910c?source=rss------programming-5) (2025-09-15)
-- [ty, Built in Rust: The Fastest Type Checker Python Has Ever Seen](https://python.plainenglish.io/ty-built-in-rust-the-fastest-type-checker-python-has-ever-seen-9bf3960c1bf4?source=rss------programming-5) (2025-09-15)
-- [Building Projects That Taught Me the Depths of Python](https://python.plainenglish.io/building-projects-that-taught-me-the-depths-of-python-a16ca560eccb?source=rss------programming-5) (2025-09-15)
-- [Python for Absolute Beginners: The Only Guide You’ll Ever Need to Start Coding](https://python.plainenglish.io/python-for-absolute-beginners-the-only-guide-youll-ever-need-to-start-coding-c63cdbf567b9?source=rss------programming-5) (2025-09-15)
+- [Why Many Developers Still Use Older Python Versions and What It Costs](https://medium.com/@ccpythonprogramming/why-many-developers-still-use-older-python-versions-and-what-it-costs-2e132e921417?source=rss------programming-5) (2025-09-15)
+- [How I start every Python project](https://han-aectech.medium.com/how-i-start-every-python-project-805e989caee5?source=rss------programming-5) (2025-09-15)
+- [I Made $2,847 in 19 Days Licensing My Cloned Voice Using AI (Without Recording a Single New Word)](https://medium.com/write-a-catalyst/i-made-2-847-in-19-days-licensing-my-cloned-voice-using-ai-without-recording-a-single-new-word-e26b4a483408?source=rss------programming-5) (2025-09-15)
+- [Show PDF files in React: No library needed](https://medium.com/@scriptingwithcharles/show-pdf-files-in-react-no-library-needed-f819793e09d5?source=rss------programming-5) (2025-09-15)
+- [Do You Really Need ResponseEntity?](https://mammadyahya.medium.com/do-you-really-need-responseentity-fd1530f73a35?source=rss------programming-5) (2025-09-15)
 
 </details>
 
@@ -513,11 +513,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/warm-transfer-ope
 <details>
 <summary>💬 Slack API</summary>
 
-- [Standard Operating Procedure Templates: What They Are and How to Use Them Effectively](https://slack.com/blog/productivity/standard-operating-procedure-templates-why-theyre-important-and-how-to-create-one) (2025-09-12)
-- [Streamline Note-Taking with Board Meeting Minutes Templates](https://slack.com/blog/productivity/better-board-meeting-minutes) (2025-09-12)
 - [A Research-Backed Sales Playbook for Connecting Slack and Salesforce](https://slack.com/blog/productivity/connecting-slack-salesforce-sales-playbook) (2025-09-11)
 - [15 Team Meeting Ideas That Help Employees Stay Focused](https://slack.com/blog/collaboration/engaging-team-meetings) (2025-09-10)
 - [Agile and Scrum: Definitions, Differences, and Examples](https://slack.com/blog/collaboration/agile-vs-scrum) (2025-09-10)
+- [How a Well-Managed Backlog Keeps Your Sprint on Track](https://slack.com/blog/productivity/how-a-well-managed-backlog-keeps-your-sprint-on-track) (2025-09-08)
+- [What is a Digital Workplace? How It Works & Why It Matters](https://slack.com/blog/transformation/what-is-a-digital-workplace-how-it-works-why-it-matters) (2025-09-08)
 
 </details>
 
