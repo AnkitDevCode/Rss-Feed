@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [OpenAI board chair Bret Taylor says we’re in an AI bubble (but that’s okay)](https://techcrunch.com/2025/09/14/openai-board-chair-bret-taylor-says-were-in-an-ai-bubble-but-thats-okay/) (2025-09-14)
+- [Vibe coding has turned senior devs into ‘AI babysitters,’ but they say it’s worth it](https://techcrunch.com/2025/09/14/vibe-coding-has-turned-senior-devs-into-ai-babysitters-but-they-say-its-worth-it/) (2025-09-14)
+- [Users turn to chatbots for spiritual guidance](https://techcrunch.com/2025/09/14/users-turn-to-chatbots-for-spiritual-guidance/) (2025-09-14)
 - [Karen Hao on the Empire of AI, AGI evangelists, and the cost of belief](https://techcrunch.com/2025/09/14/karen-hao-on-the-empire-of-ai-agi-evangelists-and-the-cost-of-belief/) (2025-09-14)
 - [iPhone 17, iPhone Air, AirPods Pro 3, and everything else announced at Apple’s hardware event](https://techcrunch.com/2025/09/14/iphone-17-iphone-air-airpods-pro-3-and-everything-else-announced-at-apples-hardware-event/) (2025-09-14)
-- [Rolling Stone owner Penske Media sues Google over AI summaries](https://techcrunch.com/2025/09/14/rolling-stone-owner-penske-media-sues-google-over-ai-summaries/) (2025-09-14)
-- [Via raises $492.9M in IPO, and German automakers go on the offensive](https://techcrunch.com/2025/09/14/via-raises-492-9m-in-ipo-and-german-automakers-go-on-the-offensive/) (2025-09-14)
-- [‘Selling coffee beans to Starbucks’ – how the AI boom could leave AI’s biggest companies behind](https://techcrunch.com/2025/09/14/selling-coffee-beans-to-starbucks-how-the-ai-boom-could-leave-ais-biggest-companies-behind/) (2025-09-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [World emissions hit record high, but the EU leads trend reversal](https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/world-emissions-hit-record-high-eu-leads-trend-reversal-2025-09-09_en) (2025-09-14)
-- [Writing an operating system kernel from scratch](https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/) (2025-09-14)
-- [Nicu's test website made with SVG (2007)](https://svg.nicubunu.ro/) (2025-09-14)
-- [Bank of Thailand freezes 3M accounts, sets daily transfer limits to curb fraud](https://www.thaienquirer.com/57752/bot-freezes-3-million-accounts-sets-daily-transfer-limits-of-50000-200000-baht-to-curb-6-billion-baht-scam-losses/) (2025-09-14)
-- [Why We Spiral](https://behavioralscientist.org/why-we-spiral/) (2025-09-14)
+- [Rebutting 33 False Claims About Solar, Wind, and Electric Vehicles](https://scholarship.law.columbia.edu/cgi/viewcontent.cgi?article=1218&context=sabin_climate_change) (2025-09-15)
+- [J-Link RTT for the Masses using Semihosting on ARM](https://bogdanthegeek.github.io/blog/insights/jlink-rtt-for-the-masses/) (2025-09-15)
+- [California age verification bill backed by Google, Meta, OpenAI heads to Newsom](https://www.politico.com/news/2025/09/13/california-advances-effort-to-check-kids-ages-online-amid-safety-concerns-00563005) (2025-09-14)
+- [Titania Programming Language](https://github.com/gingerBill/titania) (2025-09-14)
+- [Cannabis use associated with quadrupled risk of developing type 2 diabetes](https://medicalxpress.com/news/2025-09-cannabis-quadrupled-diabetes-million-adults.html) (2025-09-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [What’s next for Apple after the iPhone 17?](https://www.theverge.com/apple-rumors/777791/whats-next-for-apple-iphone-17-m5-ipad-pro) (2025-09-14)
 - [Rolling Stone’s parent company sues Google over AI Overviews](https://www.theverge.com/ai-artificial-intelligence/777788/rolling-stone-penske-media-sue-google-ai-overviews) (2025-09-14)
 - [The Helldivers community is coping with a spotlight it doesn’t want](https://www.theverge.com/games/777738/helldivers-community-reddit-discord-charlie-kirk) (2025-09-14)
 - [Scarlet turns Shakespeare into an animated fantasy epic](https://www.theverge.com/toronto-international-film-festival/777609/tiff-2025-reviews-scarlet-project-y-sentimental-value) (2025-09-14)
 - [In Silksong, spite is my motivation to keep playing](https://www.theverge.com/games/777653/silksong-impressions-team-cherry-metroidvania-sherma-is-cool) (2025-09-14)
-- [Phone batteries are getting more compact, but the US is missing out](https://www.theverge.com/the-stepback-newsletter/776517/silicon-carbon-batteries-phones) (2025-09-14)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Special Files in Linux: The Hidden Power Behind “Everything is a File”](https://dev.to/naval_upadhyay/special-files-in-linux-the-hidden-power-behind-everything-is-a-file-34j7) (2025-09-14)
-- [Why You Need to Know How a Database Works Internally?](https://dev.to/deepak_negi_f1d64e7393000/why-you-need-to-know-how-a-database-works-internally-5g6a) (2025-09-14)
-- [Learning Scala with chess #1 - Color and coordinates](https://dev.to/kaiba78987_4/learning-scala-with-chess-1-color-and-coordinates-gdj) (2025-09-14)
-- [Introducing Clprolf: a New Programming Language for Clear OOP](https://dev.to/charles_koffler_bcabc582b/introducing-clprolf-a-new-programming-language-for-clear-oop-3mjk) (2025-09-14)
-- [I Built LexKit: A Modern, Type-Safe Rich Text Editor for React](https://dev.to/codeideal/i-built-lexkit-a-modern-type-safe-rich-text-editor-for-react-3ahc) (2025-09-14)
+- [My First MCP Server: Semantic Code Search](https://dev.to/paradoxy/my-first-mcp-server-semantic-code-search-3520) (2025-09-15)
+- [Frontend Architecture for Small Teams: A Guide for Managers and Startup Founders](https://dev.to/aleksandr_ryzhikov/frontend-architecture-for-small-teams-a-guide-for-managers-and-startup-founders-1924) (2025-09-15)
+- [Finding Amount of Clusters](https://dev.to/carlosrambles/finding-amount-of-clusters-4hfp) (2025-09-15)
+- [Graceful Motion: Learning to Flow with AI by Arvind Sundararajan](https://dev.to/arvindsundararajan/graceful-motion-learning-to-flow-with-ai-by-arvind-sundararajan-36p3) (2025-09-15)
+- [Building High-Performance Caching in Go: A Practical Guide](https://dev.to/jones_charles_ad50858dbc0/building-high-performance-caching-in-go-a-practical-guide-137) (2025-09-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Object-Oriented Programming Anti-Patterns You Must Avoid](https://medium.com/@CodeWithPurpose/object-oriented-programming-anti-patterns-you-must-avoid-e1b6785778d9?source=rss------programming-5) (2025-09-14)
-- [The Linux Security Journey — Use Virtually Mapped Stack with Guard Pages](https://medium.com/@boutnaru/the-linux-security-journey-use-virtually-mapped-stack-with-guard-pages-0e723f5132ba?source=rss------programming-5) (2025-09-14)
-- [09045080282شماره خاله کیش شماره خاله قشم شماره خاله بندرعباس شماره خاله تهران شماره خاله شیراز…](https://medium.com/@2kskwkwnsnsn/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%DB%8C%D8%B4-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D8%B4%D9%85-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-67c39f06cbbf?source=rss------programming-5) (2025-09-14)
-- [09045080282شماره خاله کیش شماره خاله قشم شماره خاله بندرعباس شماره خاله تهران شماره خاله شیراز…](https://medium.com/@2kskwkwnsnsn/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%DB%8C%D8%B4-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D8%B4%D9%85-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-d44574692657?source=rss------programming-5) (2025-09-14)
-- [09045080282شماره خاله کیش شماره خاله قشم شماره خاله بندرعباس شماره خاله تهران شماره خاله شیراز…](https://medium.com/@2kskwkwnsnsn/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%DB%8C%D8%B4-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D8%B4%D9%85-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-293939e34077?source=rss------programming-5) (2025-09-14)
+- [7 Advanced TypeScript Conditional Types That Eliminate Runtime API Validation Overhead While…](https://medium.techkoalainsights.com/7-advanced-typescript-conditional-types-that-eliminate-runtime-api-validation-overhead-while-4570cc6a68ed?source=rss------programming-5) (2025-09-15)
+- [Stop Writing Boilerplate in Python: 11 One-Liners That Do the Heavy Lifting](https://python.plainenglish.io/stop-writing-boilerplate-in-python-11-one-liners-that-do-the-heavy-lifting-61f1a5f4910c?source=rss------programming-5) (2025-09-15)
+- [ty, Built in Rust: The Fastest Type Checker Python Has Ever Seen](https://python.plainenglish.io/ty-built-in-rust-the-fastest-type-checker-python-has-ever-seen-9bf3960c1bf4?source=rss------programming-5) (2025-09-15)
+- [Building Projects That Taught Me the Depths of Python](https://python.plainenglish.io/building-projects-that-taught-me-the-depths-of-python-a16ca560eccb?source=rss------programming-5) (2025-09-15)
+- [Python for Absolute Beginners: The Only Guide You’ll Ever Need to Start Coding](https://python.plainenglish.io/python-for-absolute-beginners-the-only-guide-youll-ever-need-to-start-coding-c63cdbf567b9?source=rss------programming-5) (2025-09-15)
 
 </details>
 
