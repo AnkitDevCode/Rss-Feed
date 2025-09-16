@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Y Combinator-backed Rulebase wants to be the AI coworker for fintech](https://techcrunch.com/2025/09/16/y-combinator-backed-rulebase-wants-to-be-the-ai-coworker-for-fintech/) (2025-09-16)
+- [Kayak co-founder takes on Calendly with new Supercal scheduling platform](https://techcrunch.com/2025/09/16/kayak-co-founder-takes-on-calendly-with-new-supercal-scheduling-platform/) (2025-09-16)
+- [Amazon to host Prime Big Deals Day sales event on October 7 and 8](https://techcrunch.com/2025/09/15/amazon-to-host-prime-big-deals-day-sales-event-on-october-7-and-8/) (2025-09-16)
 - [Nothing closes $200M Series C led by Tiger Global, plans AI-first device launch](https://techcrunch.com/2025/09/15/nothing-closes-200m-series-c-led-by-tiger-global-plans-ai-first-device-launch/) (2025-09-16)
 - [Rodatherm Energy wants to make geothermal more efficient, but will it be cheaper?](https://techcrunch.com/2025/09/15/rodatherm-energy-wants-to-make-geothermal-more-efficient-but-will-it-be-cheaper/) (2025-09-15)
-- [With no DOJ breakup, Alphabet becomes a $3 trillion company ](https://techcrunch.com/2025/09/15/with-no-doj-breakup-alphabet-becomes-a-3-trillion-company/) (2025-09-15)
-- [Divergent raises $290M to expand production of specialized military parts](https://techcrunch.com/2025/09/15/divergent-raises-290m-to-expand-production-of-specialized-military-parts/) (2025-09-15)
-- [Robinhood plans to launch a startups fund open to all retail investors ](https://techcrunch.com/2025/09/15/robinhood-plans-to-launch-a-startups-fund-open-to-all-retail-investors/) (2025-09-15)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Public static void main(String[] args) is dead](https://mccue.dev/pages/9-16-25-psvm) (2025-09-16)
+- [FBI couldn't get my husband to decrypt his Tor node so he was jailed for 3 years](https://old.reddit.com/r/TOR/comments/1ni5drm/the_fbi_couldnt_get_my_husband_to_decrypt_his_tor/) (2025-09-16)
+- [Robert Redford Has Died](https://www.nytimes.com/2025/09/16/movies/robert-redford-dead.html) (2025-09-16)
+- [Ask HN: Generalists, when do you say "I know enough" about any particular topic?](https://news.ycombinator.com/item?id=45260969) (2025-09-16)
+- [Self Propagating NPM Malware Compromises over 40 Packages](https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised) (2025-09-16)
 - [Show HN: Pyproc – Call Python from Go Without CGO or Microservices](https://github.com/YuminosukeSato/pyproc) (2025-09-16)
-- ["Your" vs. "My" in user interfaces](https://adamsilver.io/blog/your-vs-my-in-user-interfaces/) (2025-09-16)
-- [Linux phones are more important now than ever](https://feddit.org/post/18353777) (2025-09-16)
-- [I feel Apple has lost its alignment with me and other long-time customers](https://morrick.me/archives/10137) (2025-09-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Amazon’s next Prime Day sale is happening on October 7th](https://www.theverge.com/news/774151/amazon-october-prime-day-fall-dates-2025) (2025-09-16)
-- [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s) (2025-09-15)
-- [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals) (2025-09-15)
-- [Facebook gave our data to Cambridge Analytica and all I got was this $38.36](https://www.theverge.com/tech/778472/facebook-gave-our-data-to-cambridge-analytica-and-all-i-got-was-this-38-36) (2025-09-15)
-- [The Supreme Court is Google’s last hope to avoid an Epic reckoning in October](https://www.theverge.com/news/778332/google-epic-play-store-lawsuit-30-days-supreme-court) (2025-09-15)
+- [Welcome to our pen-and-paper club](https://www.theverge.com/tech/773135/pen-notebook-upgrade-calendar) (2025-09-16)
+- [Meta&#8217;s new smart glasses are coming this week](https://www.theverge.com/news/777541/meta-connect-2025-what-to-expect) (2025-09-16)
+- [Apple Watch Series 11 review: stuck in the middle](https://www.theverge.com/smartwatch-review/778012/apple-watch-series-11-review-hypertension-5g-sleep-score-wearables-smartwatch) (2025-09-16)
+- [The Apple Watch SE 3 is the one to buy](https://www.theverge.com/smartwatch-review/778037/apple-watch-se-3-review-battery-specs-watchos-26-smartwatch-wearable) (2025-09-16)
+- [Microsoft favors Anthropic over OpenAI for Visual Studio Code](https://www.theverge.com/report/778641/microsoft-visual-studio-code-anthropic-claude-4) (2025-09-16)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Millions turn to AI chatbots for spiritual guidance and confession](https://arstechnica.com/ai/2025/09/millions-turn-to-ai-chatbots-for-spiritual-guidance-and-confession/) (2025-09-16)
 - [Northrop Grumman’s new spacecraft is a real chonker](https://arstechnica.com/space/2025/09/northrop-grummans-new-spacecraft-is-a-real-chonker/) (2025-09-15)
 - [RFK Jr. adds more anti-vaccine members to CDC vaccine advisory panel](https://arstechnica.com/health/2025/09/meet-the-latest-anti-vaccine-voices-on-rfk-jr-s-cdc-advisory-panel/) (2025-09-15)
 - [Google releases VaultGemma, its first privacy-preserving LLM](https://arstechnica.com/ai/2025/09/google-releases-vaultgemma-its-first-privacy-preserving-llm/) (2025-09-15)
 - [Internet Archive’s big battle with music publishers ends in settlement](https://arstechnica.com/tech-policy/2025/09/internet-archives-big-battle-with-music-publishers-ends-in-settlement/) (2025-09-15)
-- [What do people actually use ChatGPT for? OpenAI provides some numbers.](https://arstechnica.com/ai/2025/09/seven-things-we-learned-from-openais-first-study-on-chatgpt-usage/) (2025-09-15)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: regulators are coming for AI companions, and meet our Innovator of 2025](https://www.technologyreview.com/2025/09/16/1123695/the-download-regulators-are-coming-for-ai-companions-and-meet-our-innovator-of-2025/) (2025-09-16)
+- [The looming crackdown on AI companionship](https://www.technologyreview.com/2025/09/16/1123614/the-looming-crackdown-on-ai-companionship/) (2025-09-16)
 - [The Download: computing’s bright young minds, and cleaning up satellite streaks](https://www.technologyreview.com/2025/09/15/1123608/the-download-computings-bright-young-minds-and-cleaning-up-satellite-streaks/) (2025-09-15)
 - [The Download: America’s gun crisis, and how AI video models work](https://www.technologyreview.com/2025/09/12/1123577/the-download-americas-gun-crisis-and-how-ai-video-models-work/) (2025-09-12)
 - [How do AI models generate videos?](https://www.technologyreview.com/2025/09/12/1123562/how-do-ai-models-generate-videos/) (2025-09-12)
-- [We can’t “make American children healthy again” without tackling the gun crisis](https://www.technologyreview.com/2025/09/11/1123553/maha-report-gun-violence-checkup/) (2025-09-11)
-- [Partnering with generative AI in the finance function](https://www.technologyreview.com/2025/09/11/1123508/partnering-with-generative-ai-in-the-finance-function/) (2025-09-11)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [A Beginner’s Guide to Channel Attribution Modeling in Marketing (with Markov Chains and an R Case Study)](https://dev.to/thedatageek/a-beginners-guide-to-channel-attribution-modeling-in-marketing-with-markov-chains-and-an-r-case-3m03) (2025-09-16)
-- [Stop Repeating Yourself: How Custom Hooks Will Change Your React Code Forever](https://dev.to/ilsa_shaikh_089e2bfab0bf4/stop-repeating-yourself-how-custom-hooks-will-change-your-react-code-forever-36i) (2025-09-16)
-- [Ringer Movies: ‘Tin Cup’ — Classic Sports Movie, Flawed Classic, or Both? | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-tin-cup-classic-sports-movie-flawed-classic-or-both-the-rewatchables-4dal) (2025-09-16)
-- [How to structure a Modular Monolith](https://dev.to/shieldstring/how-to-structure-a-modular-monolith-110o) (2025-09-16)
-- [It helps beginners in ML not just preprocess data (missing values, encoding, scaling, outliers) but also generate reports + plots of transformations. ⚡](https://dev.to/rushedcomet/it-helps-beginners-in-ml-not-just-preprocess-data-missing-values-encoding-scaling-outliers-but-5ehp) (2025-09-16)
+- [Spring Batch Project with Multi-File Processing](https://dev.to/sadiul_hakim/spring-batch-project-with-multi-file-processing-487j) (2025-09-16)
+- [Web Developer Travis McCracken on DevOps Tips from a Web Developer](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-devops-tips-from-a-web-developer-3cda) (2025-09-16)
+- [Dev Log 20 - The Grind](https://dev.to/asx/dev-log-20-the-grind-1k4c) (2025-09-16)
+- [🚀 Matters AI (Prev. OptIQ) – Round 2 JavaScript Interview](https://dev.to/ml318097/matters-ai-prev-optiq-round-2-javascript-interview-3c63) (2025-09-16)
+- [Free-First Anime Release: My Idea for Maximizing Reach and Revenue](https://dev.to/hejhdiss/free-first-anime-release-my-idea-for-maximizing-reach-and-revenue-30a3) (2025-09-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Art of Defensive Programming](https://shadisbaih.medium.com/the-art-of-defensive-programming-da5f87e0959a?source=rss------programming-5) (2025-09-16)
-- [ Premium Real Estate Investment Near Jaipur](https://medium.com/@yogeshnagar_83290/premium-real-estate-investment-near-jaipur-fe0b65e70b03?source=rss------programming-5) (2025-09-16)
-- [The programming has 0 so u can start anytime](https://medium.com/@shivangi.rgsm105/the-programming-has-0-so-u-can-start-anytime-98cac2f63be9?source=rss------programming-5) (2025-09-16)
-- [How to Reduce Docker Image Size with Multi-Stage Builds](https://medium.com/@kanhaaggarwal/how-to-reduce-docker-image-size-with-multi-stage-builds-cb9035b6cfba?source=rss------programming-5) (2025-09-16)
-- [Network Requests with Ktor Client in Android Jetpack Compose](https://alenibric.medium.com/network-requests-with-ktor-client-in-android-jetpack-compose-ff2202501bb4?source=rss------programming-5) (2025-09-16)
+- [How I Started Earning Free Traffic as a College Student](https://medium.com/@digitalhustleee/how-i-started-earning-free-traffic-as-a-college-student-9f2b60312b4c?source=rss------programming-5) (2025-09-16)
+- [ Waterfall Charts Using Power BI Native Visuals (.pbix included)](https://medium.com/microsoft-power-bi/waterfall-charts-using-power-bi-native-visuals-pbix-included-071650badf2b?source=rss------programming-5) (2025-09-16)
+- [8 Frontend Coding Patterns Every Frontend Dev Should Know for Cleaner, Scalable Code](https://javascript.plainenglish.io/8-frontend-coding-patterns-every-frontend-dev-should-know-for-cleaner-scalable-code-e36b2cc0a0d6?source=rss------programming-5) (2025-09-16)
+- [5 Things Every Data Scientist Should Know About Parquet in PySpark](https://medium.com/data-science-collective/5-things-every-data-scientist-should-know-about-parquet-in-pyspark-17537150f440?source=rss------programming-5) (2025-09-16)
+- [ Automate Backups with a Shell Script (Step by Step Guide)](https://medium.com/@preethijutur0621/automate-backups-with-a-shell-script-step-by-step-guide-0dfbd51612b2?source=rss------programming-5) (2025-09-16)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Accelerating AI and databases with Azure Container Storage, now 7 times faster and open source](https://azure.microsoft.com/en-us/blog/accelerating-ai-and-databases-with-azure-container-storage-now-7-times-faster-and-open-source/) (2025-09-15)
 - [Agent Factory: Connecting agents, apps, and data with new open standards like MCP and A2A](https://azure.microsoft.com/en-us/blog/agent-factory-connecting-agents-apps-and-data-with-new-open-standards-like-mcp-and-a2a/) (2025-09-10)
 - [Ask Ralph: Where style meets AI—a new era of conversational commerce](https://www.microsoft.com/en-us/industry/blog/retail/2025/09/09/ask-ralph-where-style-meets-ai-a-new-era-of-conversational-commerce/) (2025-09-09)
 - [Azure mandatory multifactor authentication: Phase 2 starting in October 2025](https://azure.microsoft.com/en-us/blog/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/) (2025-09-05)
 - [Microsoft Cost Management updates—July & August 2025](https://azure.microsoft.com/en-us/blog/microsoft-cost-management-updates-july-august-2025/) (2025-09-04)
+- [Agent Factory: From prototype to production—developer tools and rapid agent development](https://azure.microsoft.com/en-us/blog/agent-factory-from-prototype-to-production-developer-tools-and-rapid-agent-development/) (2025-09-03)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [IntelliJ IDEA 2025.3 Early Access Program Is Open!](https://blog.jetbrains.com/idea/2025/09/intellij-idea-2025-3-eap/) (2025-09-16)
+- [Java 25 LTS and IntelliJ IDEA](https://blog.jetbrains.com/idea/2025/09/java-25-lts-and-intellij-idea/) (2025-09-16)
 - [Introducing the Constexpr Debugger](https://blog.jetbrains.com/clion/2025/09/introducing-constexpr-debugger/) (2025-09-15)
 - [GameDev Day 2025 Is Back in October!](https://blog.jetbrains.com/dotnet/2025/09/15/gamedev-day-2025-is-back-in-october/) (2025-09-14)
 - [Your Voice Belongs Here: Creating Compelling KotlinConf Proposals [Livestream]](https://blog.jetbrains.com/kotlin/2025/09/creating-kotlinconf-proposals/) (2025-09-12)
-- [Achieve Effortless GitHub Releases With a New Plugin for TeamCity](https://blog.jetbrains.com/teamcity/2025/09/teamcity-github-releases-plugin/) (2025-09-12)
-- [JetBrains at the ICPC World Finals 2025 Baku](https://blog.jetbrains.com/blog/2025/09/11/jetbrains-at-the-icpc-world-finals-2025-baku/) (2025-09-11)
 
 </details>
 
@@ -568,44 +568,44 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/warm-transfer-ope
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Why Your A/B Test Winner Might Just Be Random Noise](https://towardsdatascience.com/why-your-a-b-test-winner-might-just-be-random-noise/) (2025-09-16)
 - [A Visual Guide to Tuning Gradient Boosted Trees](https://towardsdatascience.com/a-visual-guide-to-tuning-gradient-boosted-trees/) (2025-09-15)
 - [Implementing the Coffee Machine Project in Python Using Object Oriented Programming](https://towardsdatascience.com/implementing-the-coffee-machine-project-in-python-using-object-oriented-programming/) (2025-09-15)
 - [You Only Need 3 Things to Turn AI Experiments into AI Advantage](https://towardsdatascience.com/you-only-need-3-things-to-turn-ai-experiments-into-ai-advantage/) (2025-09-15)
 - [Learn How to Use Transformers with HuggingFace and SpaCy](https://towardsdatascience.com/mastering-nlp-with-spacy-part-4/) (2025-09-15)
-- [How to Become a Machine Learning Engineer (Step-by-Step)](https://towardsdatascience.com/dont-follow-generic-ml-engineer-roadmaps-do-this-instead-2/) (2025-09-15)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Simple Nano Banana Prompt to Turn Your Family Photo Into a Royal Portrait](https://www.analyticsvidhya.com/blog/2025/09/nano-banana-prompt-for-royal-portrait/) (2025-09-16)
+- [4 Ways to Access Nano Banana for Free](https://www.analyticsvidhya.com/blog/2025/09/nano-banana-for-free/) (2025-09-16)
 - [How to Access Qwen3-Next API for Free?](https://www.analyticsvidhya.com/blog/2025/09/access-qwen3-next-api-free/) (2025-09-15)
 - [12 Nano Banana Prompts to Convert Your Photos into Retro Images](https://www.analyticsvidhya.com/blog/2025/09/nano-banana-retro-prompts/) (2025-09-15)
 - [Seedream v4: Nano Banana Can’t Keep Up!](https://www.analyticsvidhya.com/blog/2025/09/seedream-v4-nano-banana-cant-keep-up/) (2025-09-15)
-- [Agentic System for Self-documenting code using LangGraph](https://www.analyticsvidhya.com/blog/2025/09/langgraph-agents/) (2025-09-14)
-- [How to Create Videos Using Nano Banana + Veo 3?](https://www.analyticsvidhya.com/blog/2025/09/create-videos-using-veo-3-and-nano-banana/) (2025-09-14)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [7 Free Web Search APIs for AI Agents](https://www.kdnuggets.com/7-free-web-search-apis-for-ai-agents) (2025-09-16)
 - [Here’s How I Built an MCP to Automate My Data Science Job](https://www.kdnuggets.com/built-an-mcp-to-automate-my-data-science-job) (2025-09-15)
 - [Why Cybersecurity is More Important Today for Data Science Than Ever](https://www.kdnuggets.com/why-cybersecurity-is-more-important-today-for-data-science-than-ever) (2025-09-15)
 - [5 Cutting-Edge Generative AI Advances to Watch in 2026](https://www.kdnuggets.com/5-cutting-edge-generative-ai-advances-to-watch-in-2026) (2025-09-15)
 - [Uncommon Uses of Common Python Standard Library Functions](https://www.kdnuggets.com/uncommon-uses-of-common-python-standard-library-functions) (2025-09-12)
-- [5 Tips for Building Optimized Hugging Face Transformer Pipelines](https://www.kdnuggets.com/5-tips-for-building-optimized-hugging-face-transformer-pipelines) (2025-09-12)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [7 NumPy Tricks for Faster Numerical Computations](https://machinelearningmastery.com/7-numpy-tricks-for-faster-numerical-computations/) (2025-09-16)
 - [5 Lesser-Known Visualization Libraries for Impactful Machine Learning Storytelling](https://machinelearningmastery.com/5-lesser-known-visualization-libraries-for-impactful-machine-learning-storytelling/) (2025-09-15)
 - [The Roadmap for Mastering AI-Assisted Coding in 2025](https://machinelearningmastery.com/the-roadmap-for-mastering-ai-assisted-coding-in-2025/) (2025-09-11)
 - [10 Common Misconceptions About Large Language Models](https://machinelearningmastery.com/10-common-misconceptions-about-large-language-models/) (2025-09-10)
 - [Multi-Agent Systems: The Next Frontier in AI-Driven Cyber Defense](https://machinelearningmastery.com/multi-agent-systems-the-next-frontier-in-ai-driven-cyber-defense/) (2025-09-09)
-- [ROC AUC vs Precision-Recall for Imbalanced Data](https://machinelearningmastery.com/roc-auc-vs-precision-recall-for-imbalanced-data/) (2025-09-09)
 
 </details>
 
