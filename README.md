@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Apple’s iOS 26 with the new Liquid Glass design is now available to everyone](https://techcrunch.com/2025/09/15/apples-ios-26-with-the-new-liquid-glass-design-is-now-available-to-everyone/) (2025-09-15)
-- [Inside the Shift at Disrupt: Building Community and Scaling in the AI Era](https://techcrunch.com/2025/09/15/on-stage-at-techcrunch-disrupt-2025-how-ai-is-forcing-late-stage-startups-to-rewire-gtm-or-be-left-behind/) (2025-09-15)
-- [OpenAI upgrades Codex with a new version of GPT-5](https://techcrunch.com/2025/09/15/openai-upgrades-codex-with-a-new-version-of-gpt-5/) (2025-09-15)
-- [China says Nvidia violated antitrust regulations](https://techcrunch.com/2025/09/15/china-says-nvidia-violated-antitrust-regulations/) (2025-09-15)
-- [Israel announces seizure of $1.5M from crypto wallets tied to Iran](https://techcrunch.com/2025/09/15/israel-announces-seizure-of-1-5-million-from-crypto-wallets-tied-to-iran/) (2025-09-15)
+- [Rodatherm Energy wants to make geothermal more efficient, but will it be cheaper?](https://techcrunch.com/2025/09/15/rodatherm-energy-wants-to-make-geothermal-more-efficient-but-will-it-be-cheaper/) (2025-09-15)
+- [With no DOJ breakup, Alphabet becomes a $3 trillion company ](https://techcrunch.com/2025/09/15/with-no-doj-breakup-alphabet-becomes-a-3-trillion-company/) (2025-09-15)
+- [Divergent raises $290M to expand production of specialized military parts](https://techcrunch.com/2025/09/15/divergent-raises-290m-to-expand-production-of-specialized-military-parts/) (2025-09-15)
+- [Robinhood plans to launch a startups fund open to all retail investors ](https://techcrunch.com/2025/09/15/robinhood-plans-to-launch-a-startups-fund-open-to-all-retail-investors/) (2025-09-15)
+- [The 9 most sought-after startups from YC Demo Day](https://techcrunch.com/2025/09/15/the-9-most-sought-after-startups-from-yc-demo-day/) (2025-09-15)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Hosting a website on a disposable vape](https://bogdanthegeek.github.io/blog/projects/vapeserver/) (2025-09-15)
-- [React Won by Default – and It's Killing Front End Innovation](https://www.lorenstew.art/blog/react-won-by-default/) (2025-09-15)
-- [Wanted to spy on my dog, ended up spying on TP-Link](https://kennedn.com/blog/posts/tapo/) (2025-09-15)
-- [Microsoft to force install the Microsoft 365 Copilot app in October](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-force-install-the-microsoft-365-copilot-app-in-october/) (2025-09-15)
-- [Asciinema CLI 3.0 rewritten in Rust, adds live streaming, upgrades file format](https://blog.asciinema.org/post/three-point-o/) (2025-09-15)
+- [The Awe Keeps Dropping](https://morrick.me/archives/10137) (2025-09-16)
+- [Fighting human trafficking with self-contained applications](https://lwn.net/SubscriberLink/1036916/2b10f1356b7ab0e7/) (2025-09-15)
+- [Massive Attack turns concert into facial recognition surveillance experiment](https://www.gadgetreview.com/massive-attack-turns-concert-into-facial-recognition-surveillance-experiment) (2025-09-15)
+- [Show HN: Pooshit – Sync local code to remote Docker containers](https://news.ycombinator.com/item?id=45255337) (2025-09-15)
+- [The Revised Report on Scheme or An UnCommon Lisp (1985) [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/5600/AIM-848.pdf) (2025-09-15)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Google thinks it can have AI summaries and a healthy web, too](https://www.theverge.com/news/778306/google-ai-summaries-penske-lawsuit) (2025-09-15)
-- [Microsoft’s Office apps now have free Copilot Chat features](https://www.theverge.com/news/778272/microsoft-office-free-copilot-ai-features-copilot-chat) (2025-09-15)
-- [The best phone to buy right now](https://www.theverge.com/22163811/best-phone) (2025-09-15)
-- [I&#8217;ve been using macOS Tahoe 26 since June and here are the eight best things about it](https://www.theverge.com/apple-mac-os/777936/apple-macos-tahoe-26-final-release-testing-impressions-liquid-glass) (2025-09-15)
-- [The unbearable sameness of Liquid Glass](https://www.theverge.com/apple/778197/liquid-glass-iphone-watch-ipad-mac) (2025-09-15)
+- [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s) (2025-09-15)
+- [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals) (2025-09-15)
+- [Facebook gave our data to Cambridge Analytica and all I got was this $38.36](https://www.theverge.com/tech/778472/facebook-gave-our-data-to-cambridge-analytica-and-all-i-got-was-this-38-36) (2025-09-15)
+- [The Supreme Court is Google’s last hope to avoid an Epic reckoning in October](https://www.theverge.com/news/778332/google-epic-play-store-lawsuit-30-days-supreme-court) (2025-09-15)
+- [Meta leaks its new smart glasses with a display](https://www.theverge.com/news/778354/meta-smart-glasses-display-ray-ban-oakley-sphaera-connect) (2025-09-15)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Get into the cockpit as new crop of “Top Gun” pilots get their wings](https://arstechnica.com/science/2025/09/get-into-the-cockpit-as-new-crop-of-top-gun-pilots-get-their-wings/) (2025-09-15)
-- [Will TikTok go dark Wednesday? Trump claims deal with China avoids shutdown.](https://arstechnica.com/tech-policy/2025/09/will-tiktok-go-dark-wednesday-trump-claims-deal-with-china-avoids-shutdown/) (2025-09-15)
-- [Parts shortage is the latest problem to hit General Motors production](https://arstechnica.com/cars/2025/09/parts-shortage-is-the-latest-problem-to-hit-general-motors-production/) (2025-09-15)
-- [NASA closing its original repository for Columbia artifacts to tours](https://arstechnica.com/space/2025/09/nasa-seeks-to-expand-employee-access-to-space-shuttle-tragedy-artifacts/) (2025-09-15)
-- [China rules that Nvidia violated its antitrust laws](https://arstechnica.com/tech-policy/2025/09/china-rules-that-nvidia-violated-its-antitrust-laws/) (2025-09-15)
+- [Northrop Grumman’s new spacecraft is a real chonker](https://arstechnica.com/space/2025/09/northrop-grummans-new-spacecraft-is-a-real-chonker/) (2025-09-15)
+- [RFK Jr. adds more anti-vaccine members to CDC vaccine advisory panel](https://arstechnica.com/health/2025/09/meet-the-latest-anti-vaccine-voices-on-rfk-jr-s-cdc-advisory-panel/) (2025-09-15)
+- [Google releases VaultGemma, its first privacy-preserving LLM](https://arstechnica.com/ai/2025/09/google-releases-vaultgemma-its-first-privacy-preserving-llm/) (2025-09-15)
+- [Internet Archive’s big battle with music publishers ends in settlement](https://arstechnica.com/tech-policy/2025/09/internet-archives-big-battle-with-music-publishers-ends-in-settlement/) (2025-09-15)
+- [What do people actually use ChatGPT for? OpenAI provides some numbers.](https://arstechnica.com/ai/2025/09/seven-things-we-learned-from-openais-first-study-on-chatgpt-usage/) (2025-09-15)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Real Cost of Technical Debt: Why Your Spring Apps May be Holding You Back (and What to Do About it)](https://dev.to/michelle_sebek_/the-real-cost-of-technical-debt-why-your-spring-apps-may-be-holding-you-back-and-what-to-do-about-1226) (2025-09-15)
-- [My journey with LEGATO ---dun dun dunnnnnnn](https://dev.to/emmanuel_appah_8f0d1e6903/my-journey-with-legato-dun-dun-dunnnnnnn-1hhj) (2025-09-15)
-- [Unused Imports - The Hidden Performance Tax](https://dev.to/vivekjami/unused-imports-the-hidden-performance-tax-3340) (2025-09-15)
-- [KEXP: Kevin Kaarl - Full Performance (Live on KEXP)](https://dev.to/music_youtube/kexp-kevin-kaarl-full-performance-live-on-kexp-4il8) (2025-09-15)
-- [IGN: Dying Light: Story So Far](https://dev.to/gg_news/ign-dying-light-story-so-far-32mk) (2025-09-15)
+- [Cost-Optimized Three-Tier Architecture on AWS with DevOps](https://dev.to/hasan_ashab/cost-optimized-three-tier-architecture-on-aws-with-devops-15h2) (2025-09-16)
+- [🔄 CSS Unit Converter – Instantly Convert px, rem, em, %, vh, vw](https://dev.to/frontendtoolstech/css-unit-converter-instantly-convert-px-rem-em-vh-vw-2h3h) (2025-09-16)
+- [JSON prompts bring more control to vibe coding](https://dev.to/tj-ldc/json-prompts-bring-more-control-to-vibe-coding-25cm) (2025-09-16)
+- [Building a Mouse-Responsive SVG Polygon Background with JavaScript and CSS](https://dev.to/kadenwildauer/building-a-mouse-responsive-svg-polygon-background-with-javascript-and-css-206f) (2025-09-16)
+- [Removing 11,005 Lines: Why We Replaced Our Custom LLM Manager with Portkey](https://dev.to/clayroach/removing-11005-lines-why-we-replaced-our-custom-llm-manager-with-portkey-bhn) (2025-09-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How Rust Lifetimes Map to CPU Registers (And Why It Matters)](https://medium.com/@theopinionatedev/how-rust-lifetimes-map-to-cpu-registers-and-why-it-matters-8e02da3a5aa1?source=rss------programming-5) (2025-09-15)
-- [⚡ Mastering TypeScript: Advanced Concepts, Patterns & Real-World Applications ](https://medium.com/@Amanda10/mastering-typescript-advanced-concepts-patterns-real-world-applications-103798de9e6f?source=rss------programming-5) (2025-09-15)
-- [Qwen-3-Max-Preview: Alibaba’s Trillion-Parameter LLM](https://medium.com/@leucopsis/qwen-3-max-preview-alibabas-trillion-parameter-llm-e9cb6f982042?source=rss------programming-5) (2025-09-15)
-- [ 12 Powerful Tips to Master Flutter Development in 2025 ](https://medium.com/@missAvantika/12-powerful-tips-to-master-flutter-development-in-2025-decc462cd050?source=rss------programming-5) (2025-09-15)
-- [Python Logging Was a Nightmare… Until This One Trick Saved My Sanity ](https://medium.com/pyzilla/python-logging-trick-simplify-setup-e94665272646?source=rss------programming-5) (2025-09-15)
+- [7 Hidden Pydantic Features That Will Revolutionize Your Python API Data Validation](https://medium.techkoalainsights.com/7-hidden-pydantic-features-that-will-revolutionize-your-python-api-data-validation-f70ede55ade2?source=rss------programming-5) (2025-09-16)
+- [I Built a Linear API MCP Server for Cursor: Automate Project & Issue Management](https://medium.com/@techaiinsights2022/i-built-a-linear-api-mcp-server-for-cursor-automate-project-issue-management-e6a80bf5a123?source=rss------programming-5) (2025-09-16)
+- [✨Guardians of Tomorrow](https://medium.com/jasira-intelligence-press-room/guardians-of-tomorrow-324aa3ee9a2d?source=rss------programming-5) (2025-09-16)
+- [Malware Development with NIM — Process Hollowing (or the Art of Soul Transplant)](https://medium.com/@edgarhuemac/malware-development-with-nim-process-hollowing-or-the-art-of-soul-transplant-30326e0a2b5c?source=rss------programming-5) (2025-09-16)
+- [Virtual Threads Cut Our Latency by 37% — Here’s How](https://medium.com/@VaishnaviK99/virtual-threads-cut-our-latency-by-37-heres-how-f0037d73e695?source=rss------programming-5) (2025-09-16)
 
 </details>
 
@@ -163,11 +163,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Simplifying advanced networking with DHCPv6 Prefix Delegation](https://android-developers.googleblog.com/2025/09/simplifying-advanced-networking-with.html) (2025-09-15)
 - [HDR and User Interfaces](https://android-developers.googleblog.com/2025/09/hdr-and-user-interfaces.html) (2025-09-10)
 - [#WeArePlay: Meet the people using Google AI to solve problems in agriculture, education, and pet care](https://android-developers.googleblog.com/2025/09/weareplay-meet-people-using-google-ai.html) (2025-09-10)
 - [Improve app performance with optimized resource shrinking](https://android-developers.googleblog.com/2025/09/improve-app-performance-with-optimized-resource-shrinking.html) (2025-09-09)
 - [Elevating media playback: Introducing preloading with Media3 - Part 1](https://android-developers.googleblog.com/2025/09/introducing-preloading-with-media3.html) (2025-09-05)
-- [Best practices for migrating users to passkeys with Credential Manager](https://android-developers.googleblog.com/2025/09/best-practices-migrating-users-passkeys-credential-manager.html) (2025-09-04)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.34: Decoupled Taint Manager Is Now Stable](https://kubernetes.io/blog/2025/09/15/kubernetes-v1-34-decoupled-taint-manager-is-now-stable/) (2025-09-15)
 - [Kubernetes v1.34: Autoconfiguration for Node Cgroup Driver Goes GA](https://kubernetes.io/blog/2025/09/12/kubernetes-v1-34-cri-cgroup-driver-lookup-now-ga/) (2025-09-12)
 - [Kubernetes v1.34: Mutable CSI Node Allocatable Graduates to Beta](https://kubernetes.io/blog/2025/09/11/kubernetes-v1-34-mutable-csi-node-allocatable-count/) (2025-09-11)
 - [Kubernetes v1.34: Use An Init Container To Define App Environment Variables](https://kubernetes.io/blog/2025/09/10/kubernetes-v1-34-env-files/) (2025-09-10)
 - [Kubernetes v1.34: Snapshottable API server cache](https://kubernetes.io/blog/2025/09/09/kubernetes-v1-34-snapshottable-api-server-cache/) (2025-09-09)
-- [Kubernetes v1.34: VolumeAttributesClass for Volume Modification GA](https://kubernetes.io/blog/2025/09/08/kubernetes-v1-34-volume-attributes-class/) (2025-09-08)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/warm-transfer-ope
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [A Visual Guide to Tuning Gradient Boosted Trees](https://towardsdatascience.com/a-visual-guide-to-tuning-gradient-boosted-trees/) (2025-09-15)
+- [Implementing the Coffee Machine Project in Python Using Object Oriented Programming](https://towardsdatascience.com/implementing-the-coffee-machine-project-in-python-using-object-oriented-programming/) (2025-09-15)
 - [You Only Need 3 Things to Turn AI Experiments into AI Advantage](https://towardsdatascience.com/you-only-need-3-things-to-turn-ai-experiments-into-ai-advantage/) (2025-09-15)
 - [Learn How to Use Transformers with HuggingFace and SpaCy](https://towardsdatascience.com/mastering-nlp-with-spacy-part-4/) (2025-09-15)
 - [How to Become a Machine Learning Engineer (Step-by-Step)](https://towardsdatascience.com/dont-follow-generic-ml-engineer-roadmaps-do-this-instead-2/) (2025-09-15)
-- [The Rise of Semantic Entity Resolution](https://towardsdatascience.com/the-rise-of-semantic-entity-resolution/) (2025-09-14)
-- [No Peeking Ahead: Time-Aware Graph Fraud Detection](https://towardsdatascience.com/no-peeking-ahead-time-aware-graph-fraud-detection/) (2025-09-14)
 
 </details>
 
