@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Nothing closes $200M Series C led by Tiger Global, plans AI-first device launch](https://techcrunch.com/2025/09/15/nothing-closes-200m-series-c-led-by-tiger-global-plans-ai-first-device-launch/) (2025-09-16)
 - [Rodatherm Energy wants to make geothermal more efficient, but will it be cheaper?](https://techcrunch.com/2025/09/15/rodatherm-energy-wants-to-make-geothermal-more-efficient-but-will-it-be-cheaper/) (2025-09-15)
 - [With no DOJ breakup, Alphabet becomes a $3 trillion company ](https://techcrunch.com/2025/09/15/with-no-doj-breakup-alphabet-becomes-a-3-trillion-company/) (2025-09-15)
 - [Divergent raises $290M to expand production of specialized military parts](https://techcrunch.com/2025/09/15/divergent-raises-290m-to-expand-production-of-specialized-military-parts/) (2025-09-15)
 - [Robinhood plans to launch a startups fund open to all retail investors ](https://techcrunch.com/2025/09/15/robinhood-plans-to-launch-a-startups-fund-open-to-all-retail-investors/) (2025-09-15)
-- [The 9 most sought-after startups from YC Demo Day](https://techcrunch.com/2025/09/15/the-9-most-sought-after-startups-from-yc-demo-day/) (2025-09-15)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Awe Keeps Dropping](https://morrick.me/archives/10137) (2025-09-16)
-- [Fighting human trafficking with self-contained applications](https://lwn.net/SubscriberLink/1036916/2b10f1356b7ab0e7/) (2025-09-15)
-- [Massive Attack turns concert into facial recognition surveillance experiment](https://www.gadgetreview.com/massive-attack-turns-concert-into-facial-recognition-surveillance-experiment) (2025-09-15)
-- [Show HN: Pooshit – Sync local code to remote Docker containers](https://news.ycombinator.com/item?id=45255337) (2025-09-15)
-- [The Revised Report on Scheme or An UnCommon Lisp (1985) [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/5600/AIM-848.pdf) (2025-09-15)
+- [Public static void main(String[] args) is dead](https://mccue.dev/pages/9-16-25-psvm) (2025-09-16)
+- [Show HN: Pyproc – Call Python from Go Without CGO or Microservices](https://github.com/YuminosukeSato/pyproc) (2025-09-16)
+- ["Your" vs. "My" in user interfaces](https://adamsilver.io/blog/your-vs-my-in-user-interfaces/) (2025-09-16)
+- [Linux phones are more important now than ever](https://feddit.org/post/18353777) (2025-09-16)
+- [I feel Apple has lost its alignment with me and other long-time customers](https://morrick.me/archives/10137) (2025-09-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Amazon’s next Prime Day sale is happening on October 7th](https://www.theverge.com/news/774151/amazon-october-prime-day-fall-dates-2025) (2025-09-16)
 - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s) (2025-09-15)
 - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals) (2025-09-15)
 - [Facebook gave our data to Cambridge Analytica and all I got was this $38.36](https://www.theverge.com/tech/778472/facebook-gave-our-data-to-cambridge-analytica-and-all-i-got-was-this-38-36) (2025-09-15)
 - [The Supreme Court is Google’s last hope to avoid an Epic reckoning in October](https://www.theverge.com/news/778332/google-epic-play-store-lawsuit-30-days-supreme-court) (2025-09-15)
-- [Meta leaks its new smart glasses with a display](https://www.theverge.com/news/778354/meta-smart-glasses-display-ray-ban-oakley-sphaera-connect) (2025-09-15)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [What an MCP implementation looks like at a CRM company](https://stackoverflow.blog/2025/09/16/what-an-mcp-implementation-looks-like-at-a-crm-company/) (2025-09-16)
 - [Planning to Arm mobile devices with chips that handle AI](https://stackoverflow.blog/2025/09/12/planning-to-arm-mobile-devices-with-chips-that-handle-ai/) (2025-09-12)
 - [How AI is reshaping developer teams and the future of software development](https://stackoverflow.blog/2025/09/11/how-ai-is-reshaping-developer-teams/) (2025-09-11)
 - [AI vs Gen Z: How AI has changed the career pathway for junior developers](https://stackoverflow.blog/2025/09/10/ai-vs-gen-z/) (2025-09-10)
 - [We built stackoverflow.ai with the community and for the community](https://stackoverflow.blog/2025/09/09/we-built-stackoverflow-ai-with-the-community-and-for-the-community/) (2025-09-09)
-- [Kotlin is more than just the Android house language](https://stackoverflow.blog/2025/09/05/kotlin-is-more-than-just-the-android-house-language/) (2025-09-05)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Cost-Optimized Three-Tier Architecture on AWS with DevOps](https://dev.to/hasan_ashab/cost-optimized-three-tier-architecture-on-aws-with-devops-15h2) (2025-09-16)
-- [🔄 CSS Unit Converter – Instantly Convert px, rem, em, %, vh, vw](https://dev.to/frontendtoolstech/css-unit-converter-instantly-convert-px-rem-em-vh-vw-2h3h) (2025-09-16)
-- [JSON prompts bring more control to vibe coding](https://dev.to/tj-ldc/json-prompts-bring-more-control-to-vibe-coding-25cm) (2025-09-16)
-- [Building a Mouse-Responsive SVG Polygon Background with JavaScript and CSS](https://dev.to/kadenwildauer/building-a-mouse-responsive-svg-polygon-background-with-javascript-and-css-206f) (2025-09-16)
-- [Removing 11,005 Lines: Why We Replaced Our Custom LLM Manager with Portkey](https://dev.to/clayroach/removing-11005-lines-why-we-replaced-our-custom-llm-manager-with-portkey-bhn) (2025-09-16)
+- [A Beginner’s Guide to Channel Attribution Modeling in Marketing (with Markov Chains and an R Case Study)](https://dev.to/thedatageek/a-beginners-guide-to-channel-attribution-modeling-in-marketing-with-markov-chains-and-an-r-case-3m03) (2025-09-16)
+- [Stop Repeating Yourself: How Custom Hooks Will Change Your React Code Forever](https://dev.to/ilsa_shaikh_089e2bfab0bf4/stop-repeating-yourself-how-custom-hooks-will-change-your-react-code-forever-36i) (2025-09-16)
+- [Ringer Movies: ‘Tin Cup’ — Classic Sports Movie, Flawed Classic, or Both? | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-tin-cup-classic-sports-movie-flawed-classic-or-both-the-rewatchables-4dal) (2025-09-16)
+- [How to structure a Modular Monolith](https://dev.to/shieldstring/how-to-structure-a-modular-monolith-110o) (2025-09-16)
+- [It helps beginners in ML not just preprocess data (missing values, encoding, scaling, outliers) but also generate reports + plots of transformations. ⚡](https://dev.to/rushedcomet/it-helps-beginners-in-ml-not-just-preprocess-data-missing-values-encoding-scaling-outliers-but-5ehp) (2025-09-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [7 Hidden Pydantic Features That Will Revolutionize Your Python API Data Validation](https://medium.techkoalainsights.com/7-hidden-pydantic-features-that-will-revolutionize-your-python-api-data-validation-f70ede55ade2?source=rss------programming-5) (2025-09-16)
-- [I Built a Linear API MCP Server for Cursor: Automate Project & Issue Management](https://medium.com/@techaiinsights2022/i-built-a-linear-api-mcp-server-for-cursor-automate-project-issue-management-e6a80bf5a123?source=rss------programming-5) (2025-09-16)
-- [✨Guardians of Tomorrow](https://medium.com/jasira-intelligence-press-room/guardians-of-tomorrow-324aa3ee9a2d?source=rss------programming-5) (2025-09-16)
-- [Malware Development with NIM — Process Hollowing (or the Art of Soul Transplant)](https://medium.com/@edgarhuemac/malware-development-with-nim-process-hollowing-or-the-art-of-soul-transplant-30326e0a2b5c?source=rss------programming-5) (2025-09-16)
-- [Virtual Threads Cut Our Latency by 37% — Here’s How](https://medium.com/@VaishnaviK99/virtual-threads-cut-our-latency-by-37-heres-how-f0037d73e695?source=rss------programming-5) (2025-09-16)
+- [The Art of Defensive Programming](https://shadisbaih.medium.com/the-art-of-defensive-programming-da5f87e0959a?source=rss------programming-5) (2025-09-16)
+- [ Premium Real Estate Investment Near Jaipur](https://medium.com/@yogeshnagar_83290/premium-real-estate-investment-near-jaipur-fe0b65e70b03?source=rss------programming-5) (2025-09-16)
+- [The programming has 0 so u can start anytime](https://medium.com/@shivangi.rgsm105/the-programming-has-0-so-u-can-start-anytime-98cac2f63be9?source=rss------programming-5) (2025-09-16)
+- [How to Reduce Docker Image Size with Multi-Stage Builds](https://medium.com/@kanhaaggarwal/how-to-reduce-docker-image-size-with-multi-stage-builds-cb9035b6cfba?source=rss------programming-5) (2025-09-16)
+- [Network Requests with Ktor Client in Android Jetpack Compose](https://alenibric.medium.com/network-requests-with-ktor-client-in-android-jetpack-compose-ff2202501bb4?source=rss------programming-5) (2025-09-16)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Accelerating AI and databases with Azure Container Storage, now 7 times faster and open source](https://azure.microsoft.com/en-us/blog/accelerating-ai-and-databases-with-azure-container-storage-now-7-times-faster-and-open-source/) (2025-09-15)
 - [Agent Factory: Connecting agents, apps, and data with new open standards like MCP and A2A](https://azure.microsoft.com/en-us/blog/agent-factory-connecting-agents-apps-and-data-with-new-open-standards-like-mcp-and-a2a/) (2025-09-10)
 - [Ask Ralph: Where style meets AI—a new era of conversational commerce](https://www.microsoft.com/en-us/industry/blog/retail/2025/09/09/ask-ralph-where-style-meets-ai-a-new-era-of-conversational-commerce/) (2025-09-09)
 - [Azure mandatory multifactor authentication: Phase 2 starting in October 2025](https://azure.microsoft.com/en-us/blog/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/) (2025-09-05)
 - [Microsoft Cost Management updates—July & August 2025](https://azure.microsoft.com/en-us/blog/microsoft-cost-management-updates-july-august-2025/) (2025-09-04)
-- [Agent Factory: From prototype to production—developer tools and rapid agent development](https://azure.microsoft.com/en-us/blog/agent-factory-from-prototype-to-production-developer-tools-and-rapid-agent-development/) (2025-09-03)
 
 </details>
 
