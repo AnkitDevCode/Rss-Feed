@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Gemini overtakes ChatGPT on App Store, as its Nano Banana AI model drives downloads up 45%](https://techcrunch.com/2025/09/16/gemini-overtakes-chatgpt-on-app-store-as-its-nano-banana-ai-model-drives-downloads-up-45/) (2025-09-16)
-- [Rivian breaks ground on $5B Georgia factory ahead of construction in 2026](https://techcrunch.com/2025/09/16/rivian-breaks-ground-on-5b-georgia-factory-ahead-of-construction-in-2026/) (2025-09-16)
-- [Andrew Yang took inspiration from Mark Cuban for his budget cell carrier Noble Mobile](https://techcrunch.com/2025/09/16/andrew-yang-took-inspiration-from-mark-cuban-for-his-budget-cell-carrier-noble-mobile/) (2025-09-16)
-- [Waymo’s Tekedra Mawakana on Scaling Self-Driving Beyond the Hype](https://techcrunch.com/2025/09/16/waymos-tekedra-mawakana-on-the-truth-behind-autonomous-vehicles-at-techcrunch-disrupt-2025/) (2025-09-16)
-- [Figure reaches $39B valuation in latest funding round](https://techcrunch.com/2025/09/16/figure-reaches-39b-valuation-in-latest-funding-round/) (2025-09-16)
+- [Al Gore on China’s climate rise: ‘I would not have seen this coming’](https://techcrunch.com/2025/09/16/al-gore-on-chinas-climate-rise-i-would-not-have-seen-this-coming/) (2025-09-16)
+- [Meta Connect 2025: What to expect and how to watch](https://techcrunch.com/2025/09/16/meta-connect-2025-what-to-expect-and-how-to-watch/) (2025-09-16)
+- [Same-day delivery comes to space, as Impulse promises satellite transport in hours, not months](https://techcrunch.com/2025/09/16/same-day-delivery-comes-to-space-as-impulse-promises-satellite-transport-in-hours-not-months/) (2025-09-16)
+- [Jack Altman raised a new $275M early-stage fund in a mere week ](https://techcrunch.com/2025/09/16/jack-altman-raised-a-new-275m-early-stage-fund-in-a-mere-week/) (2025-09-16)
+- [Tesla is recalling Powerwall 2 batteries over fire risk](https://techcrunch.com/2025/09/16/tesla-is-recalling-powerwall-2-batteries-over-fire-risk/) (2025-09-16)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [AMD Begins Plumbing APCI C4 Support in the Linux Kernel for Power Savings](https://www.phoronix.com/news/AMD-ACPI-C4-Linux-Kernel-Code) (2025-09-16)
-- [Launch HN: Rowboat (YC S24) – Open-source IDE for multi-agent systems](https://github.com/rowboatlabs/rowboat) (2025-09-16)
-- [Waymo has received our pilot permit allowing for commercial operations at SFO](https://waymo.com/blog/#short-all-systems-go-at-sfo-waymo-has-received-our-pilot-permit) (2025-09-16)
-- [The Japanese landscapes that inspired Studio Ghibli films](https://www.bbc.com/travel/article/20250912-the-japanese-landscapes-that-inspired-studio-ghibli-films) (2025-09-16)
-- [Bertrand Russell to Oswald Mosley (1962)](https://lettersofnote.com/2016/02/02/every-ounce-of-my-energy/) (2025-09-16)
+- [Apple releases iOS 15.8.5 security update for 10-year old iPhone 6s](https://support.apple.com/en-us/125142) (2025-09-17)
+- [I launched a Mac utility; now there are 5 clones on the App Store using my story](https://news.ycombinator.com/item?id=45269827) (2025-09-16)
+- [Fairchild PPS-25: 4-bit CPU for 25-digit precision](https://www.cpushack.com/2025/02/01/fairchild-pps-25-4-bit-cpu-for-25-digit-precision/) (2025-09-16)
+- [Micro-LEDs boost random number generation](https://discovery.kaust.edu.sa/en/article/25936/micro-leds-boost-random-number-generation/) (2025-09-16)
+- [Doom crash after 2.5 years of real-world runtime confirmed on real hardware](https://lenowo.org/viewtopic.php?t=31) (2025-09-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Wyze’s new palm-scanning door lock has a second, backup battery](https://www.theverge.com/news/779046/wyze-palm-scanning-door-smart-lock) (2025-09-16)
-- [The right wing is creating a society of snitches](https://www.theverge.com/policy/778972/right-wing-harassment-firings-charlie-kirk) (2025-09-16)
-- [Tesla under investigation for door handles that trap people inside](https://www.theverge.com/news/778980/tesla-nhtsa-investigation-door-handles-trap) (2025-09-16)
-- [Google&#8217;s new Windows desktop app brings a Spotlight-like search bar to PC](https://www.theverge.com/news/778940/google-app-windows-launch) (2025-09-16)
-- [Official watch bands for your new Apple Watch are $34 off at Woot](https://www.theverge.com/tech/778766/apple-watch-solo-loop-band-ipad-air-m3-deal-sale) (2025-09-16)
+- [Can Luigi Mangione get too big to jail?](https://www.theverge.com/report/779351/luigi-mangione-hearing-new-york-social-media-ecosystem) (2025-09-16)
+- [Sam Altman says ChatGPT will stop talking about suicide with teens](https://www.theverge.com/ai-artificial-intelligence/779053/sam-altman-says-chatgpt-will-stop-talking-about-suicide-with-teens) (2025-09-16)
+- [Charlie Kirk’s death got complicated by gamer brainrot](https://www.theverge.com/column/778988/charlie-kirk-tyler-robinson-online-regulator) (2025-09-16)
+- [Consumer Reports asks Microsoft to keep supporting Windows 10](https://www.theverge.com/news/779079/consumer-reports-windows-10-extended-support-microsoft) (2025-09-16)
+- [Microsoft trumps Google with $30 billion investment in the UK](https://www.theverge.com/news/778881/microsoft-uk-investment-ai-supercomputer) (2025-09-16)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [A new report finds China’s space program will soon equal that of the US](https://arstechnica.com/space/2025/09/a-new-report-finds-chinas-space-program-will-soon-equal-that-of-the-us/) (2025-09-16)
-- [How Nissan leveraged its driver assist to cut traffic jams](https://arstechnica.com/cars/2025/09/how-nissan-leveraged-its-driver-assist-to-cut-traffic-jams/) (2025-09-16)
-- [When will Jaguar Land Rover restart production? “No one actually knows.”](https://arstechnica.com/cars/2025/09/when-will-jaguar-land-rover-restart-production-no-one-actually-knows/) (2025-09-16)
-- [Millions turn to AI chatbots for spiritual guidance and confession](https://arstechnica.com/ai/2025/09/millions-turn-to-ai-chatbots-for-spiritual-guidance-and-confession/) (2025-09-16)
-- [Northrop Grumman’s new spacecraft is a real chonker](https://arstechnica.com/space/2025/09/northrop-grummans-new-spacecraft-is-a-real-chonker/) (2025-09-15)
+- [A record supply load won’t reach the International Space Station as scheduled](https://arstechnica.com/space/2025/09/a-record-supply-load-wont-reach-the-international-space-station-as-scheduled/) (2025-09-16)
+- [“China keeps the algorithm”: Critics attack Trump’s TikTok deal](https://arstechnica.com/tech-policy/2025/09/china-keeps-the-algorithm-critics-attack-trumps-tiktok-deal/) (2025-09-16)
+- [Repeat creepy meat problems at Boar’s Head plants draw congressional scrutiny](https://arstechnica.com/health/2025/09/repeat-creepy-meat-problems-at-boars-head-plants-draw-congressional-scrutiny/) (2025-09-16)
+- [An antidote to fat, heavy cars? Check out these lightweighting awards.](https://arstechnica.com/cars/2025/09/an-antidote-to-fat-heavy-cars-check-out-these-lightweighting-awards/) (2025-09-16)
+- [Mods react as Reddit kicks some of them out again: “This will break the site”](https://arstechnica.com/gadgets/2025/09/mods-react-as-reddit-kicks-some-of-them-out-again-this-will-break-the-site/) (2025-09-16)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [afterRenderEffect, afterNextRender, afterEveryRender & Renderer2](https://dev.to/this-is-angular/afterrendereffect-afternextrender-aftereveryrender-renderer2-106o) (2025-09-16)
-- [How I made Dental APIs less painful than the dentist](https://dev.to/lake22traillady/how-i-made-dental-apis-less-painful-than-the-dentist-14ki) (2025-09-16)
-- [🚀 Exploring GitHub Models (Public Preview) for AI in Development Workflows🚀](https://dev.to/shanbasu/exploring-github-models-public-preview-for-ai-in-development-workflows-1e6o) (2025-09-16)
-- [SEO for Developers: A Technical Guide](https://dev.to/stasxreal/seo-for-developers-a-technical-guide-2com) (2025-09-16)
-- [How Large Language Models (LLMs) Work: A Complete Overview](https://dev.to/stasxreal/how-large-language-models-llms-work-a-complete-overview-4gfc) (2025-09-16)
+- [Modern Data Visualization Tools: A Comprehensive Guide to Streamlit, Dash, and Bokeh](https://dev.to/sergiocolqueponce/modern-data-visualization-tools-a-comprehensive-guide-to-streamlit-dash-and-bokeh-7ed) (2025-09-17)
+- [Applying Semgrep SAST to Any Application](https://dev.to/r3d_cr0wn/applying-semgrep-sast-to-any-application-3h15) (2025-09-17)
+- [[Boost]](https://dev.to/clsource/-1k7p) (2025-09-17)
+- [Authentication Using Better-Auth (Basics Tutorial)](https://dev.to/devrayat000/authentication-using-better-auth-basics-tutorial-1bc1) (2025-09-17)
+- [How to create a MCP server and MCP tools from scratch?](https://dev.to/zeedu_dev/how-to-create-a-mcp-server-and-mcp-tools-from-scratch-fea) (2025-09-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How AI Makes Everyday Life Easier](https://medium.com/@agha47094/how-ai-makes-everyday-life-easier-bb6d58d51a79?source=rss------programming-5) (2025-09-16)
-- [How One CSS Hack Dropped My CLS Score to 0.01](https://medium.com/@Krishnajlathi/how-one-css-hack-dropped-my-cls-score-to-0-01-c5e53470a5a0?source=rss------programming-5) (2025-09-16)
-- [Kotlin Brain Teasers](https://medium.com/pragmatic-programmers/kotlin-brain-teasers-bd076d8728ef?source=rss------programming-5) (2025-09-16)
-- [Stop Wasting Time — These 7 Homebrew Tools Made My Mac 10× Faster](https://medium.com/@CodeWithPurpose/stop-wasting-time-these-7-homebrew-tools-made-my-mac-10-faster-53c18cb54ca9?source=rss------programming-5) (2025-09-16)
-- [Most Multi-Tenant Database Designs Fail at Scale — Here’s How to Do It Right](https://medium.com/@CodeWithPurpose/most-multi-tenant-database-designs-fail-at-scale-heres-how-to-do-it-right-68bd0de3732a?source=rss------programming-5) (2025-09-16)
+- [Spring Security Core Modules Explained: Protect Your Java Apps the Right Way](https://maneeshaindrachapa.medium.com/spring-security-core-modules-explained-protect-your-java-apps-the-right-way-d185bb31f861?source=rss------programming-5) (2025-09-17)
+- [ Lead Backend Engineer (Laravel) — $90–100/hr Remote](https://medium.com/codetodeploy/lead-backend-engineer-laravel-90-100-hr-remote-402baf4e3516?source=rss------programming-5) (2025-09-17)
+- [Mastering Java for Profit](https://medium.com/predict/mastering-java-for-profit-aee20a1735c1?source=rss------programming-5) (2025-09-17)
+- [09027641209شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز شماره خاله اهواز شماره خاله لاهیجان…](https://medium.com/@nrgs04423/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86-ececc947c192?source=rss------programming-5) (2025-09-17)
+- [09027641209شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز شماره خاله اهواز شماره خاله لاهیجان…](https://medium.com/@nrgs04423/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86-5a8e532df84e?source=rss------programming-5) (2025-09-17)
 
 </details>
 
@@ -130,22 +130,22 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [FabCon Vienna: Build data-rich agents on an enterprise-ready foundation](https://www.microsoft.com/en-us/microsoft-fabric/blog/2025/09/16/fabcon-vienna-build-data-rich-agents-on-an-enterprise-ready-foundation) (2025-09-16)
 - [Accelerating AI and databases with Azure Container Storage, now 7 times faster and open source](https://azure.microsoft.com/en-us/blog/accelerating-ai-and-databases-with-azure-container-storage-now-7-times-faster-and-open-source/) (2025-09-15)
 - [Agent Factory: Connecting agents, apps, and data with new open standards like MCP and A2A](https://azure.microsoft.com/en-us/blog/agent-factory-connecting-agents-apps-and-data-with-new-open-standards-like-mcp-and-a2a/) (2025-09-10)
 - [Ask Ralph: Where style meets AI—a new era of conversational commerce](https://www.microsoft.com/en-us/industry/blog/retail/2025/09/09/ask-ralph-where-style-meets-ai-a-new-era-of-conversational-commerce/) (2025-09-09)
 - [Azure mandatory multifactor authentication: Phase 2 starting in October 2025](https://azure.microsoft.com/en-us/blog/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/) (2025-09-05)
-- [Microsoft Cost Management updates—July & August 2025](https://azure.microsoft.com/en-us/blog/microsoft-cost-management-updates-july-august-2025/) (2025-09-04)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [The AI Makers: NVIDIA Partners in UK Advance Physical and Agentic AI, Robotics, Life Sciences and More](https://blogs.nvidia.com/blog/uk-partner-ecosystem-ai-makers/) (2025-09-16)
 - [Reaching Across the Isles: UK-LLM Brings AI to UK Languages With NVIDIA Nemotron](https://blogs.nvidia.com/blog/uk-llm-nemotron/) (2025-09-14)
 - [Paint It Blackwell: GeForce RTX 5080 SuperPOD Rollout Begins](https://blogs.nvidia.com/blog/geforce-now-thursday-blackwell-rtx-launch/) (2025-09-10)
 - [‘Safety First, Always,’ NVIDIA VP of Automotive Says, Unveiling the Future of AI-Defined Vehicles at IAA Mobility](https://blogs.nvidia.com/blog/iaa-mobility-ai-defined-vehicles/) (2025-09-09)
 - [NVIDIA Blackwell Ultra Sets the Bar in New MLPerf Inference Benchmark](https://blogs.nvidia.com/blog/mlperf-inference-blackwell-ultra/) (2025-09-09)
-- [NVIDIA Partners With AI Infrastructure Ecosystem to Unveil Reference Design for Giga-Scale AI Factories](https://blogs.nvidia.com/blog/ai-factories-reference-design/) (2025-09-09)
 
 </details>
 
@@ -218,22 +218,22 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.34: Moving Volume Group Snapshots to v1beta2](https://kubernetes.io/blog/2025/09/16/kubernetes-v1-34-volume-group-snapshot-beta-2/) (2025-09-16)
 - [Kubernetes v1.34: Decoupled Taint Manager Is Now Stable](https://kubernetes.io/blog/2025/09/15/kubernetes-v1-34-decoupled-taint-manager-is-now-stable/) (2025-09-15)
 - [Kubernetes v1.34: Autoconfiguration for Node Cgroup Driver Goes GA](https://kubernetes.io/blog/2025/09/12/kubernetes-v1-34-cri-cgroup-driver-lookup-now-ga/) (2025-09-12)
 - [Kubernetes v1.34: Mutable CSI Node Allocatable Graduates to Beta](https://kubernetes.io/blog/2025/09/11/kubernetes-v1-34-mutable-csi-node-allocatable-count/) (2025-09-11)
 - [Kubernetes v1.34: Use An Init Container To Define App Environment Variables](https://kubernetes.io/blog/2025/09/10/kubernetes-v1-34-env-files/) (2025-09-10)
-- [Kubernetes v1.34: Snapshottable API server cache](https://kubernetes.io/blog/2025/09/09/kubernetes-v1-34-snapshottable-api-server-cache/) (2025-09-09)
 
 </details>
 
 <details>
 <summary>🏠 Airbnb Engineering</summary>
 
+- [Taming Service-Oriented Architecture Using A Data-Oriented Service Mesh](https://medium.com/airbnb-engineering/taming-service-oriented-architecture-using-a-data-oriented-service-mesh-da771a841344?source=rss----53c7c27702d5---4) (2025-09-16)
 - [Migrating Airbnb’s JVM Monorepo to Bazel](https://medium.com/airbnb-engineering/migrating-airbnbs-jvm-monorepo-to-bazel-33f90eda51ec?source=rss----53c7c27702d5---4) (2025-08-13)
 - [Seamless Istio Upgrades at Scale](https://medium.com/airbnb-engineering/seamless-istio-upgrades-at-scale-bcb0e49c5cf8?source=rss----53c7c27702d5---4) (2025-08-07)
 - [Achieving High Availability with distributed database on Kubernetes at Airbnb](https://medium.com/airbnb-engineering/achieving-high-availability-with-distributed-database-on-kubernetes-at-airbnb-58cc2e9856f4?source=rss----53c7c27702d5---4) (2025-07-28)
 - [Understanding and Improving SwiftUI Performance](https://medium.com/airbnb-engineering/understanding-and-improving-swiftui-performance-37b77ac61896?source=rss----53c7c27702d5---4) (2025-06-24)
-- [Load Testing with Impulse at Airbnb](https://medium.com/airbnb-engineering/load-testing-with-impulse-at-airbnb-f466874d03d2?source=rss----53c7c27702d5---4) (2025-06-09)
 
 </details>
 
@@ -339,11 +339,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [How GitLab Duo Agent Platform transforms DataOps](https://about.gitlab.com/blog/how-gitlab-duo-agent-platform-transforms-dataops/) (2025-09-16)
 - [GitLab and Accenture announce Global Reseller Agreement](https://about.gitlab.com/blog/gitlab-and-accenture-announce-global-reseller-agreement/) (2025-09-15)
 - [How we supercharged GitLab CI statuses with WebSockets](https://about.gitlab.com/blog/how-we-supercharged-gitlab-ci-statuses-with-websockets/) (2025-09-15)
 - [Supercharge your Git workflows](https://about.gitlab.com/blog/supercharge-your-git-workflows/) (2025-09-10)
 - [A developer's guide to building secure retail apps with GitLab](https://about.gitlab.com/blog/a-developers-guide-to-building-secure-retail-apps-with-gitlab/) (2025-09-04)
-- [Vibe coding with GitLab Duo Agent Platform: Issue to MR Flow](https://about.gitlab.com/blog/vibe-coding-with-gitlab-duo-agent-platform-issue-to-mr-flow/) (2025-09-03)
 
 </details>
 
@@ -373,11 +373,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Say Hello to SIP Code 603+: The FCC’s New Standard for Analytics-based Blocked Calls
-](
-https://www.twilio.com/en-us/blog/insights/fcc_new_standard
-) (2025-09-15)
-- [
 Redesigning Twilio’s Onboarding Experience: What’s New
 ](
 https://www.twilio.com/en-us/blog/developers/redesigning-twilio-onboarding-experience-whats-new
@@ -397,6 +392,11 @@ The End of the Emergency Plan-as-Usual
 ](
 https://www.twilio.com/en-us/blog/insights/crisis-readiness-use-cases
 ) (2025-09-09)
+- [
+Perform a Warm Transfer to a Human Agent from the OpenAI Realtime API using Twilio Programmable SIP and TypeScript
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/warm-transfer-openai-realtime-programmable-sip
+) (2025-09-08)
 
 </details>
 
@@ -568,22 +568,22 @@ https://www.twilio.com/en-us/blog/insights/crisis-readiness-use-cases
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Building a Unified Intent Recognition Engine](https://towardsdatascience.com/building-a-unified-intent-recognition-engine/) (2025-09-16)
+- [Using Python to Build a Calculator](https://towardsdatascience.com/using-python-to-build-a-calculator/) (2025-09-16)
 - [My Experiments with NotebookLM for Teaching ](https://towardsdatascience.com/my-experiments-with-notebooklm-for-teaching/) (2025-09-16)
 - [How to Enrich LLM Context to Significantly Enhance Capabilities](https://towardsdatascience.com/how-to-enrich-llm-context-to-significantly-enhance-capabilities/) (2025-09-16)
 - [Why Your A/B Test Winner Might Just Be Random Noise](https://towardsdatascience.com/why-your-a-b-test-winner-might-just-be-random-noise/) (2025-09-16)
-- [A Visual Guide to Tuning Gradient Boosted Trees](https://towardsdatascience.com/a-visual-guide-to-tuning-gradient-boosted-trees/) (2025-09-15)
-- [Implementing the Coffee Machine Project in Python Using Object Oriented Programming](https://towardsdatascience.com/implementing-the-coffee-machine-project-in-python-using-object-oriented-programming/) (2025-09-15)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Inside X’s Recommendation Algorithm: How the “For You” Feed Really Works](https://www.analyticsvidhya.com/blog/2025/09/x-recommendation-algorithm/) (2025-09-16)
 - [Turn Your Family Photo into a Royal Portrait Using this Nano Banana Prompt](https://www.analyticsvidhya.com/blog/2025/09/nano-banana-prompt-for-royal-portrait/) (2025-09-16)
 - [4 Ways to Access Nano Banana for Free](https://www.analyticsvidhya.com/blog/2025/09/nano-banana-for-free/) (2025-09-16)
 - [How to Access Qwen3-Next API for Free?](https://www.analyticsvidhya.com/blog/2025/09/access-qwen3-next-api-free/) (2025-09-15)
 - [12 Nano Banana Prompts to Convert Your Photos into Retro Images](https://www.analyticsvidhya.com/blog/2025/09/nano-banana-retro-prompts/) (2025-09-15)
-- [Seedream v4: Nano Banana Can’t Keep Up!](https://www.analyticsvidhya.com/blog/2025/09/seedream-v4-nano-banana-cant-keep-up/) (2025-09-15)
 
 </details>
 
