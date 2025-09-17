@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Groww, backed by Satya Nadella, set to become first Indian startup to go public after U.S.-to-India move](https://techcrunch.com/2025/09/16/groww-backed-by-satya-nadella-set-to-become-first-indian-startup-to-go-public-after-u-s-to-india-move/) (2025-09-17)
 - [Al Gore on China’s climate rise: ‘I would not have seen this coming’](https://techcrunch.com/2025/09/16/al-gore-on-chinas-climate-rise-i-would-not-have-seen-this-coming/) (2025-09-16)
 - [Meta Connect 2025: What to expect and how to watch](https://techcrunch.com/2025/09/16/meta-connect-2025-what-to-expect-and-how-to-watch/) (2025-09-16)
 - [Same-day delivery comes to space, as Impulse promises satellite transport in hours, not months](https://techcrunch.com/2025/09/16/same-day-delivery-comes-to-space-as-impulse-promises-satellite-transport-in-hours-not-months/) (2025-09-16)
 - [Jack Altman raised a new $275M early-stage fund in a mere week ](https://techcrunch.com/2025/09/16/jack-altman-raised-a-new-275m-early-stage-fund-in-a-mere-week/) (2025-09-16)
-- [Tesla is recalling Powerwall 2 batteries over fire risk](https://techcrunch.com/2025/09/16/tesla-is-recalling-powerwall-2-batteries-over-fire-risk/) (2025-09-16)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Apple releases iOS 15.8.5 security update for 10-year old iPhone 6s](https://support.apple.com/en-us/125142) (2025-09-17)
-- [I launched a Mac utility; now there are 5 clones on the App Store using my story](https://news.ycombinator.com/item?id=45269827) (2025-09-16)
-- [Fairchild PPS-25: 4-bit CPU for 25-digit precision](https://www.cpushack.com/2025/02/01/fairchild-pps-25-4-bit-cpu-for-25-digit-precision/) (2025-09-16)
-- [Micro-LEDs boost random number generation](https://discovery.kaust.edu.sa/en/article/25936/micro-leds-boost-random-number-generation/) (2025-09-16)
-- [Doom crash after 2.5 years of real-world runtime confirmed on real hardware](https://lenowo.org/viewtopic.php?t=31) (2025-09-16)
+- [Notion API importer, with Databases to Bases conversion bounty](https://github.com/obsidianmd/obsidian-importer/issues/421) (2025-09-17)
+- [I just want an 80×25 console, but that's no longer possible](https://changelog.complete.org/archives/10881-i-just-want-an-80x25-console-but-thats-no-longer-possible) (2025-09-17)
+- [The Asus Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation](https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive) (2025-09-17)
+- [GNU Midnight Commander](https://midnight-commander.org/) (2025-09-17)
+- [Show HN: A PSX/DOS style 3D game written in Rust with a custom software renderer](https://totenarctanz.itch.io/a-scavenging-trip) (2025-09-17)
 
 </details>
 
@@ -97,22 +97,26 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Modern Data Visualization Tools: A Comprehensive Guide to Streamlit, Dash, and Bokeh](https://dev.to/sergiocolqueponce/modern-data-visualization-tools-a-comprehensive-guide-to-streamlit-dash-and-bokeh-7ed) (2025-09-17)
-- [Applying Semgrep SAST to Any Application](https://dev.to/r3d_cr0wn/applying-semgrep-sast-to-any-application-3h15) (2025-09-17)
-- [[Boost]](https://dev.to/clsource/-1k7p) (2025-09-17)
-- [Authentication Using Better-Auth (Basics Tutorial)](https://dev.to/devrayat000/authentication-using-better-auth-basics-tutorial-1bc1) (2025-09-17)
-- [How to create a MCP server and MCP tools from scratch?](https://dev.to/zeedu_dev/how-to-create-a-mcp-server-and-mcp-tools-from-scratch-fea) (2025-09-17)
+- [[Boost]](https://dev.to/grexe/-4e46) (2025-09-17)
+- [🚀 How to Redesign Your Website Without Losing SEO (With a Little AI Help)](https://dev.to/web5lab_938e9096be8dc3e78/how-to-redesign-your-website-without-losing-seo-with-a-little-ai-help-2lb2) (2025-09-17)
+- [IGN: Hollow Knight: Silksong Review](https://dev.to/gg_news/ign-hollow-knight-silksong-review-1efg) (2025-09-17)
+- [Understanding URLs, URIs, and URNs: A Beginner’s Guide to Web Identifiers](https://dev.to/mcheremnov/understanding-urls-uris-and-urns-a-beginners-guide-to-web-identifiers-1nfe) (2025-09-17)
+- [Managing Users and Access Rights in Odoo (for New Admins)](https://dev.to/midlaj_cybrosys_ab8a268cb/managing-users-and-access-rights-in-odoo-for-new-admins-4k8e) (2025-09-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Spring Security Core Modules Explained: Protect Your Java Apps the Right Way](https://maneeshaindrachapa.medium.com/spring-security-core-modules-explained-protect-your-java-apps-the-right-way-d185bb31f861?source=rss------programming-5) (2025-09-17)
-- [ Lead Backend Engineer (Laravel) — $90–100/hr Remote](https://medium.com/codetodeploy/lead-backend-engineer-laravel-90-100-hr-remote-402baf4e3516?source=rss------programming-5) (2025-09-17)
-- [Mastering Java for Profit](https://medium.com/predict/mastering-java-for-profit-aee20a1735c1?source=rss------programming-5) (2025-09-17)
-- [09027641209شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز شماره خاله اهواز شماره خاله لاهیجان…](https://medium.com/@nrgs04423/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86-ececc947c192?source=rss------programming-5) (2025-09-17)
-- [09027641209شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز شماره خاله اهواز شماره خاله لاهیجان…](https://medium.com/@nrgs04423/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86-5a8e532df84e?source=rss------programming-5) (2025-09-17)
+- [️ Understanding Flutter Widgets: A Beginner’s Guide](https://medium.com/@ghanashyambudhathoki03/%EF%B8%8F-understanding-flutter-widgets-a-beginners-guide-a26f6877d3ef?source=rss------programming-5) (2025-09-17)
+- [Python and DuckDB 1.4 Andium Release Brings Encryption and Iceberg Support](https://medium.com/@ccpythonprogramming/python-and-duckdb-1-4-andium-release-brings-encryption-and-iceberg-support-d619cfd4dc70?source=rss------programming-5) (2025-09-17)
+- [Secure by Design: 10 Enterprise-Grade Security Practices for ASP.NET Core Applications](https://medium.com/c-sharp-programming/secure-by-design-10-enterprise-grade-security-practices-for-asp-net-core-applications-8013db4db59b?source=rss------programming-5) (2025-09-17)
+- [09389632898
+شماره خاله #شماره خاله# تهران #
+#شماره #خاله #شماره خاله# تهران #شماره خاله# اصفهان…](https://medium.com/@narwyysayda74/09389632898-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-3482753411de?source=rss------programming-5) (2025-09-17)
+- [09389632898
+شماره خاله #شماره خاله# تهران #
+#شماره #خاله #شماره خاله# تهران #شماره خاله# اصفهان…](https://medium.com/@narwyysayda74/09389632898-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-049f2b9e4e47?source=rss------programming-5) (2025-09-17)
 
 </details>
 
@@ -130,11 +134,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [FabCon Vienna: Build data-rich agents on an enterprise-ready foundation](https://www.microsoft.com/en-us/microsoft-fabric/blog/2025/09/16/fabcon-vienna-build-data-rich-agents-on-an-enterprise-ready-foundation) (2025-09-16)
-- [Accelerating AI and databases with Azure Container Storage, now 7 times faster and open source](https://azure.microsoft.com/en-us/blog/accelerating-ai-and-databases-with-azure-container-storage-now-7-times-faster-and-open-source/) (2025-09-15)
 - [Agent Factory: Connecting agents, apps, and data with new open standards like MCP and A2A](https://azure.microsoft.com/en-us/blog/agent-factory-connecting-agents-apps-and-data-with-new-open-standards-like-mcp-and-a2a/) (2025-09-10)
 - [Ask Ralph: Where style meets AI—a new era of conversational commerce](https://www.microsoft.com/en-us/industry/blog/retail/2025/09/09/ask-ralph-where-style-meets-ai-a-new-era-of-conversational-commerce/) (2025-09-09)
 - [Azure mandatory multifactor authentication: Phase 2 starting in October 2025](https://azure.microsoft.com/en-us/blog/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/) (2025-09-05)
+- [Microsoft Cost Management updates—July & August 2025](https://azure.microsoft.com/en-us/blog/microsoft-cost-management-updates-july-august-2025/) (2025-09-04)
+- [Agent Factory: From prototype to production—developer tools and rapid agent development](https://azure.microsoft.com/en-us/blog/agent-factory-from-prototype-to-production-developer-tools-and-rapid-agent-development/) (2025-09-03)
 
 </details>
 
@@ -373,6 +377,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Say Hello to SIP Code 603+: The FCC’s New Standard for Analytics-based Blocked Calls
+](
+https://www.twilio.com/en-us/blog/insights/fcc_new_standard
+) (2025-09-15)
+- [
 Redesigning Twilio’s Onboarding Experience: What’s New
 ](
 https://www.twilio.com/en-us/blog/developers/redesigning-twilio-onboarding-experience-whats-new
@@ -392,11 +401,6 @@ The End of the Emergency Plan-as-Usual
 ](
 https://www.twilio.com/en-us/blog/insights/crisis-readiness-use-cases
 ) (2025-09-09)
-- [
-Perform a Warm Transfer to a Human Agent from the OpenAI Realtime API using Twilio Programmable SIP and TypeScript
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/warm-transfer-openai-realtime-programmable-sip
-) (2025-09-08)
 
 </details>
 
