@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Zoom launches a cross application AI notetaker, AI avatars and more in its latest update](https://techcrunch.com/2025/09/17/zoom-launches-a-cross-application-ai-notetaker-ai-avatars-and-more-in-its-latest-update/) (2025-09-17)
-- [Jaguar Land Rover to pause production for third week due to cyberattack ](https://techcrunch.com/2025/09/17/jaguar-land-rover-to-pause-production-for-third-week-due-to-cyberattack/) (2025-09-17)
-- [Airbuds is the music social network Apple and Spotify wish they had built](https://techcrunch.com/2025/09/17/airbuds-is-the-music-social-network-apple-and-spotify-wish-they-had-built/) (2025-09-17)
-- [AI and the Future of Defense: Mach Industries’ Ethan Thornton at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/17/the-new-face-of-defense-tech-takes-the-ai-stage-at-techcrunch-disrupt-2025/) (2025-09-17)
-- [Google revamps Discover page to show content from creators](https://techcrunch.com/2025/09/17/google-revamps-discover-page-to-show-content-from-creators/) (2025-09-17)
+- [Meta launches Hyperscape, technology to turn real-world spaces into VR](https://techcrunch.com/2025/09/17/meta-launches-hyperscape-technology-to-turn-real-world-spaces-into-vr/) (2025-09-18)
+- [Meta unveils new smart glasses with a display and wristband controller](https://techcrunch.com/2025/09/17/meta-unveils-new-smart-glasses-with-a-display-and-wristband-controller/) (2025-09-18)
+- [Meta unveils its new Oakley Meta Vanguard smart glasses for athletes](https://techcrunch.com/2025/09/17/meta-unveils-its-new-oakley-meta-vanguard-smart-glasses-for-athletes/) (2025-09-18)
+- [Nvidia AI chip challenger Groq raises even more than expected, hits $6.9B valuation](https://techcrunch.com/2025/09/17/nvidia-ai-chip-challenger-groq-raises-even-more-than-expected-hits-6-9b-valuation/) (2025-09-17)
+- [Eric Baker’s long, winding road to taking StubHub public](https://techcrunch.com/2025/09/17/eric-bakers-long-winding-road-to-taking-stubhub-public/) (2025-09-17)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Anthropic irks White House with limits on models’ use](https://www.semafor.com/article/09/17/2025/anthropic-irks-white-house-with-limits-on-models-uswhite-house-with-limits-on-models-use) (2025-09-17)
-- [DeepSeek writes less secure code for groups China disfavors](https://www.washingtonpost.com/technology/2025/09/16/deepseek-ai-security/) (2025-09-17)
-- [Depression Reduces Capacity to Learn to Actively Avoid Aversive Events](https://www.eneuro.org/content/12/9/ENEURO.0034-25.2025) (2025-09-17)
-- [Tinycolor supply chain attack post-mortem](https://sigh.dev/posts/ctrl-tinycolor-post-mortem/) (2025-09-17)
-- [Drought in Iraq Reveals Ancient Tombs Created 2,300 Years Ago](https://www.smithsonianmag.com/smart-news/severe-droughts-in-iraq-reveals-dozens-of-ancient-tombs-created-2300-years-ago-180987347/) (2025-09-17)
+- [Meta Ray-Ban Display: A Breakthrough Category of AI Glasses](https://www.meta.com/fr-fr/blog/meta-ray-ban-display-ai-glasses-connect-2025/) (2025-09-18)
+- [One Token to rule them all – obtaining Global Admin in every Entra ID tenant](https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/) (2025-09-17)
+- [A postmortem of three recent issues](https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues) (2025-09-17)
+- [Gluon: a GPU programming language based on the same compiler stack as Triton](https://github.com/triton-lang/triton/blob/main/python/tutorials/gluon/01-intro.py) (2025-09-17)
+- [Famous cognitive psychology experiments that failed to replicate](https://buttondown.com/aethermug/archive/aether-mug-famous-cognitive-psychology/) (2025-09-17)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Logitech’s Pro X2 Superstrike offers haptic-based clicks and rapid trigger](https://www.theverge.com/news/778722/logitech-pro-x2-superstrike-superlight-wireless-haptics-rapid-trigger-gaming-mouse-pc) (2025-09-17)
-- [Americans want AI to stay out of their personal lives](https://www.theverge.com/ai-artificial-intelligence/780184/pew-research-americans-want-ai-out-of-their-personal-lives) (2025-09-17)
-- [The Astro A20 X headset was made for multi-console homes](https://www.theverge.com/news/776006/astro-a20x-headset-switch-ps5-xbox-price-features) (2025-09-17)
-- [The best laptop deals you can get right now](https://www.theverge.com/good-deals/23161948/apple-macbook-lenovo-acer-deal-sale) (2025-09-17)
-- [Garmin’s Venu 4 adds an LED flashlight and accessibility upgrades](https://www.theverge.com/news/780138/garmin-venu-4-smartwatch-accessibility-flashlight-color-blindness) (2025-09-17)
+- [Meta Connect 2025: the 6 biggest announcements](https://www.theverge.com/news/780087/meta-connect-2025-ray-ban-oakley-biggest-announcements) (2025-09-18)
+- [Meta&#8217;s Ray-Ban Gen 2 and Oakley Vanguard glasses are available to preorder](https://www.theverge.com/tech/780353/meta-ray-ban-display-oakley-vanguard-preorder-price-how-to-buy) (2025-09-18)
+- [Meta is bringing an all-in-one movie and TV streaming hub to Quest headsets](https://www.theverge.com/news/780492/meta-quest-headset-horizon-tv-streaming) (2025-09-18)
+- [Meta is making the metaverse look better](https://www.theverge.com/news/780256/meta-horizon-worlds-engine-studio) (2025-09-18)
+- [Meta will let you use a Quest VR headset to turn your real-world space into a virtual world](https://www.theverge.com/news/780044/meta-quest-metaverse-hyperscape-capture-vr) (2025-09-18)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [After child’s trauma, chatbot maker allegedly forced mom to arbitration for $100 payout](https://arstechnica.com/tech-policy/2025/09/after-childs-trauma-chatbot-maker-allegedly-forced-mom-to-arbitration-for-100-payout/) (2025-09-17)
-- [Trailer for Anaconda meta-reboot leans into the laughs](https://arstechnica.com/culture/2025/09/trailer-for-anaconda-meta-reboot-leans-into-the-laughs/) (2025-09-17)
-- [Tesla Model Y door handles now under federal safety scrutiny](https://arstechnica.com/cars/2025/09/tesla-model-y-door-handles-now-under-federal-safety-scrutiny/) (2025-09-17)
-- [Report: Apple inches closer to releasing an OLED touchscreen MacBook Pro](https://arstechnica.com/gadgets/2025/09/latest-round-of-credible-touchscreen-macbook-rumors-point-to-a-2026-launch/) (2025-09-17)
-- [China blocks sale of Nvidia AI chips](https://arstechnica.com/tech-policy/2025/09/china-blocks-sale-of-nvidia-ai-chips/) (2025-09-17)
+- [You can hold on to your butts thanks to DNA that evolved in fish](https://arstechnica.com/science/2025/09/distinct-digits-may-have-evolved-by-using-dna-that-makes-the-cloaca/) (2025-09-17)
+- [White House officials reportedly frustrated by Anthropic’s law enforcement AI limits](https://arstechnica.com/ai/2025/09/white-house-officials-reportedly-frustrated-by-anthropics-law-enforcement-ai-limits/) (2025-09-17)
+- [RFK Jr.’s anti-vaccine delusions—not science—steer CDC now, ex-director testifies](https://arstechnica.com/health/2025/09/rfk-jrs-anti-vaccine-delusions-not-science-steer-cdc-now-ex-director-testifies/) (2025-09-17)
+- [Why, as a responsible adult, SimCity 2000 hits differently](https://arstechnica.com/gaming/2025/09/thirty-years-later-simcity-2000-hasnt-changed-but-i-have/) (2025-09-17)
+- [Trump admin says Social Security database wasn’t “leaked, hacked, or shared”](https://arstechnica.com/tech-policy/2025/09/trump-admin-denies-doge-put-social-security-data-into-insecure-cloud-system/) (2025-09-17)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [🔐 Breaking Down Identity, Authentication, Authorization & SSO](https://dev.to/sohillalakiya/breaking-down-identity-authentication-authorization-sso-hf0) (2025-09-17)
-- [How I Applied an Higher Order Array Method In a Project](https://dev.to/kansoldev/how-i-applied-an-higher-order-array-method-in-a-project-2m0k) (2025-09-17)
-- [COLORS: Bashy - Lost In Dreams | A COLORS ENCORE](https://dev.to/music_youtube/colors-bashy-lost-in-dreams-a-colors-encore-252) (2025-09-17)
-- [10 Must-Join Medical Coding Communities That Will Skyrocket Your Career](https://dev.to/khushi_dixit_bf540d2e1fc9/10-must-join-medical-coding-communities-that-will-skyrocket-your-career-4nol) (2025-09-17)
-- [Golf.com: Sneaking Onto Bethpage | Keegan Bradley’s Remarkable Ryder Cup Redemption](https://dev.to/youtube_golf/golfcom-sneaking-onto-bethpage-keegan-bradleys-remarkable-ryder-cup-redemption-2977) (2025-09-17)
+- [Avoiding Symbol Block-Pass (&:to_s) in Ruby and Choosing More Readable Alternatives](https://dev.to/hamajyotan/avoiding-symbol-block-pass-tos-in-ruby-and-choosing-more-readable-alternatives-45ap) (2025-09-18)
+- [Pydantic Settings](https://dev.to/jesus_oviedoriquelme_084/pydantic-settings-2ghd) (2025-09-18)
+- [controller-runtime: What Happens When You Do Partial Server-Side Apply?](https://dev.to/suin/controller-runtime-what-happens-when-you-do-partial-server-side-apply-1oi0) (2025-09-18)
+- [Today I Learned: Layouts and the Z-Index Trap in React](https://dev.to/minoosh/today-i-learned-layouts-and-the-z-index-trap-in-react-366f) (2025-09-18)
+- [The next step in privacy: A messenger that doesn't send data and doesn't keep your secrets. 🚀](https://dev.to/smartlegionlab/the-next-step-in-privacy-a-messenger-that-doesnt-send-data-and-doesnt-keep-your-secrets-ge4) (2025-09-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Python Techniques That Will Change How You Code](https://medium.com/@Sabrina-Carpenter/python-techniques-that-will-change-how-you-code-d9b809c3cf91?source=rss------programming-5) (2025-09-17)
-- [. Shah Ismail I, the Founder of the Safavid Empire](https://medium.com/@amirrezadaliran139/shah-ismail-i-the-founder-of-the-safavid-empire-2333dec4a1c9?source=rss------programming-5) (2025-09-17)
-- [Can we say that , we can’t have more than one top level public class in a Java file ?](https://satvindersinghmavi.medium.com/can-we-say-that-we-cant-have-more-than-one-top-level-public-class-in-a-java-file-fb951828e883?source=rss------programming-5) (2025-09-17)
-- [The Silent Resignation: Why Top Engineers Are Walking Away From Big Tech](https://medium.com/@optimzationking2/the-silent-resignation-why-top-engineers-are-walking-away-from-big-tech-b9b0035f6b61?source=rss------programming-5) (2025-09-17)
-- [This UI Pattern Builds Instant Trust — And Most Designers Miss It](https://medium.com/@Krishnajlathi/this-ui-pattern-builds-instant-trust-and-most-designers-miss-it-86aabe4a8c97?source=rss------programming-5) (2025-09-17)
+- [7 Advanced Python Memory Profiling Techniques Beyond Memory_profiler for Production Applications](https://medium.techkoalainsights.com/7-advanced-python-memory-profiling-techniques-beyond-memory-profiler-for-production-applications-7c8b30b25aaa?source=rss------programming-5) (2025-09-18)
+- [Can Television Make A Comeback?](https://medium.com/predict/can-television-make-a-comeback-8f0561df6b5a?source=rss------programming-5) (2025-09-18)
+- [I Confused print and return for Months. Here’s What Finally Clicked](https://medium.com/@aaron.rose.tx/i-confused-print-and-return-for-months-heres-what-finally-clicked-e569ec771423?source=rss------programming-5) (2025-09-18)
+- [8 Python Projects That Teach You DevOps Basics](https://medium.com/codrift/8-python-projects-that-teach-you-devops-basics-044b9b8706fc?source=rss------programming-5) (2025-09-18)
+- [What Happens When You Run a Java Program? The Execution Lifecycle Explained](https://medium.com/@sunil17bbmp/what-happens-when-you-run-a-java-program-the-execution-lifecycle-explained-aadc68447baf?source=rss------programming-5) (2025-09-18)
 
 </details>
 
@@ -153,21 +153,21 @@
 <summary>🍎 Apple Developer News</summary>
 
 - [App Store submissions now open for the latest OS releases](https://developer.apple.com/news/?id=6lxhtioi) (2025-09-09)
+- [Hello Developer: September 2025](https://developer.apple.com/news/?id=6zd7a3al) (2025-09-02)
 - [Awe dropping.](https://developer.apple.com/news/?id=p9nukitr) (2025-08-26)
 - [Tax and Price Updates for Apps, In-App Purchases, and Subscriptions](https://developer.apple.com/news/?id=yo2104n5) (2025-08-21)
-- [Updated age ratings in App Store Connect](https://developer.apple.com/news/?id=ks775ehf) (2025-07-24)
-- [New 64-bit requirement for watchOS apps](https://developer.apple.com/news/?id=zt8rydnt) (2025-07-22)
+- [Hello Developer: August 2025](https://developer.apple.com/news/?id=4qkavrhc) (2025-08-05)
 
 </details>
 
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Android 16 QPR2 Beta 2 is Here](https://android-developers.googleblog.com/2025/09/android-16-qpr2-beta-2-is-here.html) (2025-09-17)
 - [Simplifying advanced networking with DHCPv6 Prefix Delegation](https://android-developers.googleblog.com/2025/09/simplifying-advanced-networking-with.html) (2025-09-15)
 - [HDR and User Interfaces](https://android-developers.googleblog.com/2025/09/hdr-and-user-interfaces.html) (2025-09-10)
 - [#WeArePlay: Meet the people using Google AI to solve problems in agriculture, education, and pet care](https://android-developers.googleblog.com/2025/09/weareplay-meet-people-using-google-ai.html) (2025-09-10)
 - [Improve app performance with optimized resource shrinking](https://android-developers.googleblog.com/2025/09/improve-app-performance-with-optimized-resource-shrinking.html) (2025-09-09)
-- [Elevating media playback: Introducing preloading with Media3 - Part 1](https://android-developers.googleblog.com/2025/09/introducing-preloading-with-media3.html) (2025-09-05)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.34: Pods Report DRA Resource Health](https://kubernetes.io/blog/2025/09/17/kubernetes-v1-34-pods-report-dra-resource-health/) (2025-09-17)
 - [Kubernetes v1.34: Moving Volume Group Snapshots to v1beta2](https://kubernetes.io/blog/2025/09/16/kubernetes-v1-34-volume-group-snapshot-beta-2/) (2025-09-16)
 - [Kubernetes v1.34: Decoupled Taint Manager Is Now Stable](https://kubernetes.io/blog/2025/09/15/kubernetes-v1-34-decoupled-taint-manager-is-now-stable/) (2025-09-15)
 - [Kubernetes v1.34: Autoconfiguration for Node Cgroup Driver Goes GA](https://kubernetes.io/blog/2025/09/12/kubernetes-v1-34-cri-cgroup-driver-lookup-now-ga/) (2025-09-12)
 - [Kubernetes v1.34: Mutable CSI Node Allocatable Graduates to Beta](https://kubernetes.io/blog/2025/09/11/kubernetes-v1-34-mutable-csi-node-allocatable-count/) (2025-09-11)
-- [Kubernetes v1.34: Use An Init Container To Define App Environment Variables](https://kubernetes.io/blog/2025/09/10/kubernetes-v1-34-env-files/) (2025-09-10)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [8 Common DevOps Problems And How to Solve Them With GoLand](https://blog.jetbrains.com/go/2025/09/17/8-common-devops-problems-and-how-to-solve-them-with-goland/) (2025-09-17)
 - [Spring Debugger: ApplicationContext at Your Fingertips](https://blog.jetbrains.com/idea/2025/09/spring-debugger-applicationcontext-at-your-fingertips/) (2025-09-17)
 - [The Early Access Program for Rider 2025.3 Is Now Open!](https://blog.jetbrains.com/dotnet/2025/09/17/the-early-access-program-for-rider-2025-3/) (2025-09-17)
 - [The Early Access Program for ReSharper and .NET Tools 2025.3 Is Here!](https://blog.jetbrains.com/dotnet/2025/09/17/the-early-access-program-for-resharper-and-net-tools-2025-3/) (2025-09-17)
 - [A Farewell to Consoles](https://blog.jetbrains.com/datagrip/2025/09/16/a-farewell-to-consoles/) (2025-09-16)
-- [FAQ: New AI Quotas](https://blog.jetbrains.com/ai/2025/09/faq-new-ai-quota/) (2025-09-16)
 
 </details>
 
@@ -339,11 +339,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [A comprehensive guide to GitLab DAST](https://about.gitlab.com/blog/comprehensive-guide-to-gitlab-dast/) (2025-09-17)
 - [GitLab named a Leader in the 2025 Gartner Magic Quadrant for AI Code Assistants](https://about.gitlab.com/blog/gitlab-named-a-leader-in-the-2025-gartner-magic-quadrant-for-ai-code-assistants/) (2025-09-17)
 - [How GitLab Duo Agent Platform transforms DataOps](https://about.gitlab.com/blog/how-gitlab-duo-agent-platform-transforms-dataops/) (2025-09-16)
 - [GitLab and Accenture announce Global Reseller Agreement](https://about.gitlab.com/blog/gitlab-and-accenture-announce-global-reseller-agreement/) (2025-09-15)
 - [How we supercharged GitLab CI statuses with WebSockets](https://about.gitlab.com/blog/how-we-supercharged-gitlab-ci-statuses-with-websockets/) (2025-09-15)
-- [Supercharge your Git workflows](https://about.gitlab.com/blog/supercharge-your-git-workflows/) (2025-09-10)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [The RUM Diaries: enabling Web Analytics by default](https://blog.cloudflare.com/the-rum-diaries-enabling-web-analytics-by-default/) (2025-09-17)
 - [Integrating CrowdStrike Falcon Fusion SOAR with Cloudflare’s SASE platform](https://blog.cloudflare.com/integrating-crowdstrike-falcon-fusion-soar-with-cloudflares-sase-platform/) (2025-09-15)
 - [A deep dive into Cloudflare’s September 12, 2025 dashboard and API outage](https://blog.cloudflare.com/deep-dive-into-cloudflares-sept-12-dashboard-and-api-outage/) (2025-09-13)
 - [Bringing Node.js HTTP servers to Cloudflare Workers](https://blog.cloudflare.com/bringing-node-js-http-servers-to-cloudflare-workers/) (2025-09-08)
 - [Addressing the unauthorized issuance of multiple TLS certificates for 1.1.1.1](https://blog.cloudflare.com/unauthorized-issuance-of-certificates-for-1-1-1-1/) (2025-09-04)
-- [AI Week 2025: Recap](https://blog.cloudflare.com/ai-week-2025-wrapup/) (2025-09-03)
 
 </details>
 
@@ -373,30 +373,30 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Build a Real-Time Support Chat with Go and Twilio Conversations
+](
+https://www.twilio.com/en-us/blog/developers/community/build-real-time-support-chat-go-twilio-conversations
+) (2025-09-16)
+- [
+MCP-Based .NET Micro-Weather Wisdom SMS Service Using Twilio & OpenAI
+](
+https://www.twilio.com/en-us/blog/developers/community/mcp-based-dot-net-micro-weather-wisdom-sms-service-using-twilio-and-openai
+) (2025-09-16)
+- [
 Say Hello to SIP Code 603+: The FCC’s New Standard for Analytics-based Blocked Calls
 ](
 https://www.twilio.com/en-us/blog/insights/fcc_new_standard
+) (2025-09-15)
+- [
+Yahoo Mail’s Storage Limit Change Impacts Senders
+](
+https://www.twilio.com/en-us/blog/insights/yahoo-mail-storage-impacts-senders
 ) (2025-09-15)
 - [
 Redesigning Twilio’s Onboarding Experience: What’s New
 ](
 https://www.twilio.com/en-us/blog/developers/redesigning-twilio-onboarding-experience-whats-new
 ) (2025-09-10)
-- [
-Twilio’s 2025 Heightened Awareness Period: Ensuring Reliable Messaging for Peak Season
-](
-https://www.twilio.com/en-us/blog/products/twilio-s-2025-heightened-awareness-period--ensuring-reliable-mes
-) (2025-09-10)
-- [
-A Heartfelt Thanks to Our Community of Builders
-](
-https://www.twilio.com/en-us/blog/company/news/fast-company-2025-best-workplaces-innovators
-) (2025-09-09)
-- [
-The End of the Emergency Plan-as-Usual
-](
-https://www.twilio.com/en-us/blog/insights/crisis-readiness-use-cases
-) (2025-09-09)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/insights/crisis-readiness-use-cases
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Analysis of Sales Shift in Retail with Causal Impact: A Case Study at Carrefour](https://towardsdatascience.com/analysis-of-sales-shift-in-retail-with-causal-impact-a-case-study-at-carrefour/) (2025-09-17)
+- [RAG Explained: Understanding Embeddings, Similarity, and Retrieval](https://towardsdatascience.com/rag-explained-understanding-embeddings-similarity-and-retrieval/) (2025-09-17)
+- [Evaluating Your RAG Solution](https://towardsdatascience.com/evaluating-your-rag-solution/) (2025-09-17)
 - [Deploying AI Safely and Responsibly](https://towardsdatascience.com/deploying-ai-safely-and-responsibly/) (2025-09-17)
 - [ROC AUC Explained: A Beginner’s Guide to Evaluating Classification Models](https://towardsdatascience.com/roc-auc-explained-a-beginners-guide-to-evaluating-classification-models/) (2025-09-17)
-- [Building a Unified Intent Recognition Engine](https://towardsdatascience.com/building-a-unified-intent-recognition-engine/) (2025-09-16)
-- [Using Python to Build a Calculator](https://towardsdatascience.com/using-python-to-build-a-calculator/) (2025-09-16)
-- [My Experiments with NotebookLM for Teaching ](https://towardsdatascience.com/my-experiments-with-notebooklm-for-teaching/) (2025-09-16)
 
 </details>
 
