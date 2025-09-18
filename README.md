@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Bumble BFF’s revamped app is here, focusing on friend groups and community building](https://techcrunch.com/2025/09/18/bumble-bffs-revamped-app-is-here-focusing-on-friend-groups-and-community-building/) (2025-09-18)
 - [India leads the way on Google’s Nano Banana with a local creative twist](https://techcrunch.com/2025/09/17/india-leads-the-way-on-googles-nano-banana-with-a-local-creative-twist/) (2025-09-18)
 - [Meta launches Hyperscape, technology to turn real-world spaces into VR](https://techcrunch.com/2025/09/17/meta-launches-hyperscape-technology-to-turn-real-world-spaces-into-vr/) (2025-09-18)
 - [Meta unveils new smart glasses with a display and wristband controller](https://techcrunch.com/2025/09/17/meta-unveils-new-smart-glasses-with-a-display-and-wristband-controller/) (2025-09-18)
 - [Meta unveils its new Oakley Meta Vanguard smart glasses for athletes](https://techcrunch.com/2025/09/17/meta-unveils-its-new-oakley-meta-vanguard-smart-glasses-for-athletes/) (2025-09-18)
-- [Nvidia AI chip challenger Groq raises even more than expected, hits $6.9B valuation](https://techcrunch.com/2025/09/17/nvidia-ai-chip-challenger-groq-raises-even-more-than-expected-hits-6-9b-valuation/) (2025-09-17)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [European ant is the first known animal to clone members of another species](https://www.livescience.com/animals/ants/almost-like-science-fiction-european-ant-is-the-first-known-animal-to-clone-members-of-another-species) (2025-09-18)
-- [Towards a Physics Foundation Model](https://arxiv.org/abs/2509.13805) (2025-09-18)
-- [A QBasic Text Adventure Still Expanding in 2025](https://the-ventureweaver.itch.io/) (2025-09-18)
-- [Show HN: The text disappears when you screenshot it](https://unscreenshottable.vercel.app/?text=Hello) (2025-09-18)
-- [Slack has raised our charges by $195k per year](https://skyfall.dev/posts/slack) (2025-09-18)
+- [You Had No Taste Before AI](https://matthewsanabria.dev/posts/you-had-no-taste-before-ai/) (2025-09-18)
+- [Track Aipac (American Israel Public Affairs Committee) Donations](https://www.trackaipac.com) (2025-09-18)
+- [Nvidia to Invest $5B in Intel](https://www.ft.com/content/be8d4c0c-66ff-4dfd-9b43-af6c0b290ada) (2025-09-18)
+- [Nvidia buys $5B in Intel stock in seismic deal](https://www.tomshardware.com/pc-components/cpus/nvidia-and-intel-announce-jointly-developed-intel-x86-rtx-socs-for-pcs-with-nvidia-graphics-also-custom-nvidia-data-center-x86-processors-nvidia-buys-usd5-billion-in-intel-stock-in-seismic-deal) (2025-09-18)
+- [CircuitHub (YC W12) Is Hiring Operations Research Engineers (UK/Remote)](https://www.ycombinator.com/companies/circuithub/jobs/UM1QSjZ-operations-research-engineer) (2025-09-18)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Meta Connect 2025: the 6 biggest announcements](https://www.theverge.com/news/780087/meta-connect-2025-ray-ban-oakley-biggest-announcements) (2025-09-18)
-- [Meta&#8217;s Ray-Ban Gen 2 and Oakley Vanguard glasses are available to preorder](https://www.theverge.com/tech/780353/meta-ray-ban-display-oakley-vanguard-preorder-price-how-to-buy) (2025-09-18)
-- [Meta is bringing an all-in-one movie and TV streaming hub to Quest headsets](https://www.theverge.com/news/780492/meta-quest-headset-horizon-tv-streaming) (2025-09-18)
-- [Meta is making the metaverse look better](https://www.theverge.com/news/780256/meta-horizon-worlds-engine-studio) (2025-09-18)
-- [Meta will let you use a Quest VR headset to turn your real-world space into a virtual world](https://www.theverge.com/news/780044/meta-quest-metaverse-hyperscape-capture-vr) (2025-09-18)
+- [Seven indie games that will upgrade your downtime this fall](https://www.theverge.com/games/774447/upgrade-downtime-indie-games-2025) (2025-09-18)
+- [Robotaxis as public transit? Waymo thinks so](https://www.theverge.com/news/780156/waymo-via-robotaxi-microtransit-chandler-flex) (2025-09-18)
+- [Nvidia invests $5 billion into Intel to jointly develop PC and data center chips](https://www.theverge.com/news/780792/nvidia-intel-investment-pc-chips-data-center) (2025-09-18)
+- [Reddit wants a better AI deal with Google: users in exchange for content](https://www.theverge.com/news/780769/reddit-ai-google-new-deal) (2025-09-18)
+- [Tesla is updating its passenger-trapping door handles](https://www.theverge.com/news/780744/tesla-redesigning-passenger-trapping-door-handles) (2025-09-18)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: AI-designed viruses, and bad news for the hydrogen industry](https://www.technologyreview.com/2025/09/18/1123830/the-download-ai-designed-viruses-and-bad-news-for-the-hydrogen-industry/) (2025-09-18)
+- [Clean hydrogen is facing a big reality check](https://www.technologyreview.com/2025/09/18/1123818/hydrogen-reality-check-china/) (2025-09-18)
 - [AI-designed viruses are here and already killing bacteria](https://www.technologyreview.com/2025/09/17/1123801/ai-virus-bacteriophage-life/) (2025-09-17)
 - [The Download: measuring returns on R&D, and AI’s creative potential](https://www.technologyreview.com/2025/09/17/1123795/the-download-measuring-returns-on-rd-and-ais-creative-potential/) (2025-09-17)
 - [How to measure the returns on R&D spending](https://www.technologyreview.com/2025/09/17/1123760/how-to-measure-the-returns-to-rd-spending/) (2025-09-17)
-- [De-risking investment in AI agents](https://www.technologyreview.com/2025/09/16/1123592/de-risking-investment-in-ai-agents/) (2025-09-16)
-- [The Download: regulators are coming for AI companions, and meet our Innovator of 2025](https://www.technologyreview.com/2025/09/16/1123695/the-download-regulators-are-coming-for-ai-companions-and-meet-our-innovator-of-2025/) (2025-09-16)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Java Microbenchmark Harness(JMH): StringBuilder vs String - quando performance importa](https://dev.to/soncastro/java-microbenchmark-harnessjmh-stringbuilder-vs-string-quando-performance-importa-5ad8) (2025-09-18)
-- [Java Web Services Tutorial: A Beginner’s Guide to Building APIs](https://dev.to/suraj_kumar_fb57ae0928df2/java-web-services-tutorial-a-beginners-guide-to-building-apis-lnp) (2025-09-18)
-- [Mastering JavaScript Break: A Complete Guide with Examples & Best Practices](https://dev.to/satyam_gupta_0d1ff2152dcc/mastering-javascript-break-a-complete-guide-with-examples-best-practices-38f2) (2025-09-18)
-- [Don't turn Right: journey through the monkeyverse](https://dev.to/dont_turnright_46e237bb77/dont-turn-right-journey-through-the-monkeyverse-4n3k) (2025-09-18)
-- [Buscador de Estatus Becas Benito Juárez 2025 (Actualizado)](https://dev.to/ilyas_khan_14e88f67b6657a/buscador-de-estatus-becas-benito-juarez-2025-actualizado-168m) (2025-09-18)
+- [Day 4 - The Parser!](https://dev.to/lahari_tenneti_4a8a082e9c/day-4-the-parser-582l) (2025-09-18)
+- [Harnessing the Future of Data Centers: A Definitive Examination of the Cisco QDD-400G-LR8-S Transceiver](https://dev.to/etechbuy/harnessing-the-future-of-data-centers-a-definitive-examination-of-the-cisco-qdd-400g-lr8-s-50aa) (2025-09-18)
+- [3 AM Wake-Up Calls Made Me Realize IT Support is Broken. Here's My AI Fix.](https://dev.to/francis_ngari/3-am-wake-up-calls-made-me-realize-it-support-is-broken-heres-my-ai-fix-2ho1) (2025-09-18)
+- [Web Developer Travis McCracken on Rust Macros That Save Me Time](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-rust-macros-that-save-me-time-4gob) (2025-09-18)
+- [showDirectoryPicker() open](https://dev.to/bhushan_harpade_e5b0d9849/showdirectorypicker-open-3fe9) (2025-09-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [10 Fun Weekend Projects Using Hidden Web APIs (With Code Examples)](https://javascript.plainenglish.io/10-fun-weekend-projects-using-hidden-web-apis-with-code-examples-23fee7c2979d?source=rss------programming-5) (2025-09-18)
-- [The Ultimate Guide to JavaScript Automation and Real-Time Development](https://javascript.plainenglish.io/the-ultimate-guide-to-javascript-automation-and-real-time-development-8b4c2775d8d8?source=rss------programming-5) (2025-09-18)
-- [How I Built a Drag-and-Drop UI Builder in Vanilla JavaScript (and Stayed Sane)](https://javascript.plainenglish.io/how-i-built-a-drag-and-drop-ui-builder-in-vanilla-javascript-and-stayed-sane-115f771dc743?source=rss------programming-5) (2025-09-18)
-- [React State Management: Which Library Should You Choose?](https://javascript.plainenglish.io/react-state-management-which-library-should-you-choose-b3a9c3c9aa4b?source=rss------programming-5) (2025-09-18)
-- [ Nothing is impossible!](https://medium.com/@dalrajakhalid/nothing-is-impossible-089a463ecf66?source=rss------programming-5) (2025-09-18)
+- [POJO, JavaBean, Component & Spring Bean — Know the Difference in 5 Minutes](https://codewithshahnawaaz.medium.com/pojo-javabean-component-spring-bean-know-the-difference-in-5-minutes-183ffeaace76?source=rss------programming-5) (2025-09-18)
+- [09370750325](https://medium.com/@s38135578/09370750325-3cdddfd4a112?source=rss------programming-5) (2025-09-18)
+- [09370750325](https://medium.com/@s38135578/09370750325-0dc1097168f9?source=rss------programming-5) (2025-09-18)
+- [09370750325](https://medium.com/@s38135578/09370750325-e3567f2655ff?source=rss------programming-5) (2025-09-18)
+- [Valley (Easy) CTF — TryHackMe Writeup](https://infosecwriteups.com/valley-easy-ctf-tryhackme-writeup-42f81a032083?source=rss------programming-5) (2025-09-18)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Docker Model Runner General Availability](https://www.docker.com/blog/announcing-docker-model-runner-ga/) (2025-09-18)
 - [How to Build Secure AI Coding Agents with Cerebras and Docker Compose](https://www.docker.com/blog/cerebras-docker-compose-secure-ai-coding-agents/) (2025-09-17)
 - [MCP Security: A Developer’s Guide](https://www.docker.com/blog/mcp-security-explained/) (2025-09-16)
 - [The Nine Rules of AI PoC Success: How to Build Demos That Actually Ship](https://www.docker.com/blog/ai-poc-success-rules/) (2025-09-15)
 - [From Hallucinations to Prompt Injection: Securing AI Workflows at Runtime](https://www.docker.com/blog/secure-ai-agents-runtime-security/) (2025-09-10)
-- [Docker Acquisition of MCP Defender Helps Meet Challenges of Securing the Agentic Future](https://www.docker.com/blog/docker-acquires-mcp-defender-ai-agent-security/) (2025-09-05)
 
 </details>
 
@@ -403,11 +403,11 @@ https://www.twilio.com/en-us/blog/developers/redesigning-twilio-onboarding-exper
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Implementing DPoP with Auth0](https://auth0.com/blog/implementing-dpop-with-auth0/) (2025-09-17)
 - [Four Identity Security Essentials for a Trusted AI Agent Strategy](https://auth0.com/blog/four-identity-security-essentials-for-a-trusted-ai-agent-strategy/) (2025-09-16)
 - [Integrate Your Auth0 Secured Remote MCP Server in ChatGPT Developer Mode](https://auth0.com/blog/add-remote-mcp-server-chatgpt/) (2025-09-11)
 - [Defending Against AI-Powered CLI Supply Chain Attacks](https://auth0.com/blog/defending-against-ai-powered-cli-supply-chain-attacks/) (2025-09-10)
 - [August 2025 in Auth0: Non-Unique Emails, DPoP, and TLS Fingerprints](https://auth0.com/blog/august-2025-in-auth0-non-unique-emails-dpop-and-tls-fingerprints/) (2025-09-09)
-- [How to Configure the Auth0 MCP Server in VS Code for AI Assistant Integration](https://auth0.com/blog/auth0-mcp-server-in-vscode/) (2025-09-08)
 
 </details>
 
@@ -546,11 +546,11 @@ https://www.twilio.com/en-us/blog/developers/redesigning-twilio-onboarding-exper
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Public AI on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/inference-providers-publicai) (2025-09-17)
 - [`LeRobotDataset`: Bringing large-scale datasets to lerobot](https://huggingface.co/blog/lerobot-datasets-v3) (2025-09-16)
 - [Visible Watermarking with Gradio](https://huggingface.co/blog/watermarking-with-gradio) (2025-09-15)
 - [Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers](https://huggingface.co/blog/faster-transformers) (2025-09-11)
 - [Jupyter Agents: training LLMs to reason with notebooks](https://huggingface.co/blog/jupyter-agent-2) (2025-09-10)
-- [mmBERT: ModernBERT goes Multilingual](https://huggingface.co/blog/mmbert) (2025-09-09)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/developers/redesigning-twilio-onboarding-exper
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [From Amnesia to Awareness: Giving Retrieval-Only Chatbots Memory](https://towardsdatascience.com/from-amnesia-to-awareness-giving-retrieval-only-chatbots-memory/) (2025-09-18)
 - [Analysis of Sales Shift in Retail with Causal Impact: A Case Study at Carrefour](https://towardsdatascience.com/analysis-of-sales-shift-in-retail-with-causal-impact-a-case-study-at-carrefour/) (2025-09-17)
 - [RAG Explained: Understanding Embeddings, Similarity, and Retrieval](https://towardsdatascience.com/rag-explained-understanding-embeddings-similarity-and-retrieval/) (2025-09-17)
 - [Evaluating Your RAG Solution](https://towardsdatascience.com/evaluating-your-rag-solution/) (2025-09-17)
 - [Deploying AI Safely and Responsibly](https://towardsdatascience.com/deploying-ai-safely-and-responsibly/) (2025-09-17)
-- [ROC AUC Explained: A Beginner’s Guide to Evaluating Classification Models](https://towardsdatascience.com/roc-auc-explained-a-beginners-guide-to-evaluating-classification-models/) (2025-09-17)
 
 </details>
 
@@ -590,22 +590,22 @@ https://www.twilio.com/en-us/blog/developers/redesigning-twilio-onboarding-exper
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Tips for Building Useful Streamlit Dashboards in Minutes](https://www.kdnuggets.com/5-tips-for-building-useful-streamlit-dashboards-in-minutes) (2025-09-18)
 - [Airtable + GPT: Prototyping a Lightweight RAG System with No-Code Tools](https://www.kdnuggets.com/airtable-gpt-prototyping-a-lightweight-rag-system-with-no-code-tools) (2025-09-17)
 - [The Best Local Coding LLMs You Can Run Yourself](https://www.kdnuggets.com/the-best-local-coding-llms-you-can-run-yourself) (2025-09-17)
 - [5 Strategic Steps to a Seamless AI Integration](https://www.kdnuggets.com/2025/09/damcosolutions/5-strategic-steps-to-a-seamless-ai-integration) (2025-09-16)
 - [The Lazy Data Scientist’s Guide to Time Series Forecasting](https://www.kdnuggets.com/the-lazy-data-scientists-guide-to-time-series-forecasting) (2025-09-16)
-- [How to Build Production-Ready UI Prototypes in Minutes Using Google Stitch](https://www.kdnuggets.com/how-to-build-production-ready-ui-prototypes-in-minutes-using-google-stitch) (2025-09-16)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [A Hands-On Introduction to cuML for GPU-Accelerated Machine Learning Workflows](https://machinelearningmastery.com/a-hands-on-introduction-to-cuml-for-gpu-accelerated-machine-learning-workflows/) (2025-09-18)
+- [A Hands-On Introduction to cuDF for GPU-Accelerated Data Workflows](https://machinelearningmastery.com/a-hands-on-introduction-to-cudf-for-gpu-accelerated-data-workflows/) (2025-09-18)
 - [Feature Scaling in Practice: What Works and What Doesn’t](https://machinelearningmastery.com/feature-scaling-in-practice-what-works-and-what-doesnt/) (2025-09-17)
 - [7 NumPy Tricks for Faster Numerical Computations](https://machinelearningmastery.com/7-numpy-tricks-for-faster-numerical-computations/) (2025-09-16)
 - [5 Lesser-Known Visualization Libraries for Impactful Machine Learning Storytelling](https://machinelearningmastery.com/5-lesser-known-visualization-libraries-for-impactful-machine-learning-storytelling/) (2025-09-15)
-- [The Roadmap for Mastering AI-Assisted Coding in 2025](https://machinelearningmastery.com/the-roadmap-for-mastering-ai-assisted-coding-in-2025/) (2025-09-11)
-- [10 Common Misconceptions About Large Language Models](https://machinelearningmastery.com/10-common-misconceptions-about-large-language-models/) (2025-09-10)
 
 </details>
 
