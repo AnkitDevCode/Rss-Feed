@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [India leads the way on Google’s Nano Banana with a local creative twist](https://techcrunch.com/2025/09/17/india-leads-the-way-on-googles-nano-banana-with-a-local-creative-twist/) (2025-09-18)
 - [Meta launches Hyperscape, technology to turn real-world spaces into VR](https://techcrunch.com/2025/09/17/meta-launches-hyperscape-technology-to-turn-real-world-spaces-into-vr/) (2025-09-18)
 - [Meta unveils new smart glasses with a display and wristband controller](https://techcrunch.com/2025/09/17/meta-unveils-new-smart-glasses-with-a-display-and-wristband-controller/) (2025-09-18)
 - [Meta unveils its new Oakley Meta Vanguard smart glasses for athletes](https://techcrunch.com/2025/09/17/meta-unveils-its-new-oakley-meta-vanguard-smart-glasses-for-athletes/) (2025-09-18)
 - [Nvidia AI chip challenger Groq raises even more than expected, hits $6.9B valuation](https://techcrunch.com/2025/09/17/nvidia-ai-chip-challenger-groq-raises-even-more-than-expected-hits-6-9b-valuation/) (2025-09-17)
-- [Eric Baker’s long, winding road to taking StubHub public](https://techcrunch.com/2025/09/17/eric-bakers-long-winding-road-to-taking-stubhub-public/) (2025-09-17)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Meta Ray-Ban Display: A Breakthrough Category of AI Glasses](https://www.meta.com/fr-fr/blog/meta-ray-ban-display-ai-glasses-connect-2025/) (2025-09-18)
-- [One Token to rule them all – obtaining Global Admin in every Entra ID tenant](https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/) (2025-09-17)
-- [A postmortem of three recent issues](https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues) (2025-09-17)
-- [Gluon: a GPU programming language based on the same compiler stack as Triton](https://github.com/triton-lang/triton/blob/main/python/tutorials/gluon/01-intro.py) (2025-09-17)
-- [Famous cognitive psychology experiments that failed to replicate](https://buttondown.com/aethermug/archive/aether-mug-famous-cognitive-psychology/) (2025-09-17)
+- [European ant is the first known animal to clone members of another species](https://www.livescience.com/animals/ants/almost-like-science-fiction-european-ant-is-the-first-known-animal-to-clone-members-of-another-species) (2025-09-18)
+- [Towards a Physics Foundation Model](https://arxiv.org/abs/2509.13805) (2025-09-18)
+- [A QBasic Text Adventure Still Expanding in 2025](https://the-ventureweaver.itch.io/) (2025-09-18)
+- [Show HN: The text disappears when you screenshot it](https://unscreenshottable.vercel.app/?text=Hello) (2025-09-18)
+- [Slack has raised our charges by $195k per year](https://skyfall.dev/posts/slack) (2025-09-18)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Avoiding Symbol Block-Pass (&:to_s) in Ruby and Choosing More Readable Alternatives](https://dev.to/hamajyotan/avoiding-symbol-block-pass-tos-in-ruby-and-choosing-more-readable-alternatives-45ap) (2025-09-18)
-- [Pydantic Settings](https://dev.to/jesus_oviedoriquelme_084/pydantic-settings-2ghd) (2025-09-18)
-- [controller-runtime: What Happens When You Do Partial Server-Side Apply?](https://dev.to/suin/controller-runtime-what-happens-when-you-do-partial-server-side-apply-1oi0) (2025-09-18)
-- [Today I Learned: Layouts and the Z-Index Trap in React](https://dev.to/minoosh/today-i-learned-layouts-and-the-z-index-trap-in-react-366f) (2025-09-18)
-- [The next step in privacy: A messenger that doesn't send data and doesn't keep your secrets. 🚀](https://dev.to/smartlegionlab/the-next-step-in-privacy-a-messenger-that-doesnt-send-data-and-doesnt-keep-your-secrets-ge4) (2025-09-18)
+- [Java Microbenchmark Harness(JMH): StringBuilder vs String - quando performance importa](https://dev.to/soncastro/java-microbenchmark-harnessjmh-stringbuilder-vs-string-quando-performance-importa-5ad8) (2025-09-18)
+- [Java Web Services Tutorial: A Beginner’s Guide to Building APIs](https://dev.to/suraj_kumar_fb57ae0928df2/java-web-services-tutorial-a-beginners-guide-to-building-apis-lnp) (2025-09-18)
+- [Mastering JavaScript Break: A Complete Guide with Examples & Best Practices](https://dev.to/satyam_gupta_0d1ff2152dcc/mastering-javascript-break-a-complete-guide-with-examples-best-practices-38f2) (2025-09-18)
+- [Don't turn Right: journey through the monkeyverse](https://dev.to/dont_turnright_46e237bb77/dont-turn-right-journey-through-the-monkeyverse-4n3k) (2025-09-18)
+- [Buscador de Estatus Becas Benito Juárez 2025 (Actualizado)](https://dev.to/ilyas_khan_14e88f67b6657a/buscador-de-estatus-becas-benito-juarez-2025-actualizado-168m) (2025-09-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [7 Advanced Python Memory Profiling Techniques Beyond Memory_profiler for Production Applications](https://medium.techkoalainsights.com/7-advanced-python-memory-profiling-techniques-beyond-memory-profiler-for-production-applications-7c8b30b25aaa?source=rss------programming-5) (2025-09-18)
-- [Can Television Make A Comeback?](https://medium.com/predict/can-television-make-a-comeback-8f0561df6b5a?source=rss------programming-5) (2025-09-18)
-- [I Confused print and return for Months. Here’s What Finally Clicked](https://medium.com/@aaron.rose.tx/i-confused-print-and-return-for-months-heres-what-finally-clicked-e569ec771423?source=rss------programming-5) (2025-09-18)
-- [8 Python Projects That Teach You DevOps Basics](https://medium.com/codrift/8-python-projects-that-teach-you-devops-basics-044b9b8706fc?source=rss------programming-5) (2025-09-18)
-- [What Happens When You Run a Java Program? The Execution Lifecycle Explained](https://medium.com/@sunil17bbmp/what-happens-when-you-run-a-java-program-the-execution-lifecycle-explained-aadc68447baf?source=rss------programming-5) (2025-09-18)
+- [10 Fun Weekend Projects Using Hidden Web APIs (With Code Examples)](https://javascript.plainenglish.io/10-fun-weekend-projects-using-hidden-web-apis-with-code-examples-23fee7c2979d?source=rss------programming-5) (2025-09-18)
+- [The Ultimate Guide to JavaScript Automation and Real-Time Development](https://javascript.plainenglish.io/the-ultimate-guide-to-javascript-automation-and-real-time-development-8b4c2775d8d8?source=rss------programming-5) (2025-09-18)
+- [How I Built a Drag-and-Drop UI Builder in Vanilla JavaScript (and Stayed Sane)](https://javascript.plainenglish.io/how-i-built-a-drag-and-drop-ui-builder-in-vanilla-javascript-and-stayed-sane-115f771dc743?source=rss------programming-5) (2025-09-18)
+- [React State Management: Which Library Should You Choose?](https://javascript.plainenglish.io/react-state-management-which-library-should-you-choose-b3a9c3c9aa4b?source=rss------programming-5) (2025-09-18)
+- [ Nothing is impossible!](https://medium.com/@dalrajakhalid/nothing-is-impossible-089a463ecf66?source=rss------programming-5) (2025-09-18)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Azure Kubernetes Service Automatic: Fast and frictionless Kubernetes for all](https://azure.microsoft.com/en-us/blog/azure-kubernetes-service-automatic-fast-and-frictionless-kubernetes-for-all/) (2025-09-16)
 - [FabCon Vienna: Build data-rich agents on an enterprise-ready foundation](https://www.microsoft.com/en-us/microsoft-fabric/blog/2025/09/16/fabcon-vienna-build-data-rich-agents-on-an-enterprise-ready-foundation) (2025-09-16)
 - [Accelerating AI and databases with Azure Container Storage, now 7 times faster and open source](https://azure.microsoft.com/en-us/blog/accelerating-ai-and-databases-with-azure-container-storage-now-7-times-faster-and-open-source/) (2025-09-15)
 - [Agent Factory: Connecting agents, apps, and data with new open standards like MCP and A2A](https://azure.microsoft.com/en-us/blog/agent-factory-connecting-agents-apps-and-data-with-new-open-standards-like-mcp-and-a2a/) (2025-09-10)
 - [Ask Ralph: Where style meets AI—a new era of conversational commerce](https://www.microsoft.com/en-us/industry/blog/retail/2025/09/09/ask-ralph-where-style-meets-ai-a-new-era-of-conversational-commerce/) (2025-09-09)
-- [Azure mandatory multifactor authentication: Phase 2 starting in October 2025](https://azure.microsoft.com/en-us/blog/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/) (2025-09-05)
 
 </details>
 
