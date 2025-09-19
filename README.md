@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Indian fintech Jar turns profitable by enabling millions to save in gold](https://techcrunch.com/2025/09/18/indian-fintech-jar-turns-profitable-by-helping-millions-save-in-gold/) (2025-09-19)
 - [OpenAI’s research on AI models deliberately lying is wild ](https://techcrunch.com/2025/09/18/openais-research-on-ai-models-deliberately-lying-is-wild/) (2025-09-18)
 - [Raising Series A in 2026: Insights from top early-stage VCs at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/18/term-sheets-traction-and-truth-bombs-inside-the-series-a-mindset-at-techcrunch-disrupt-2025/) (2025-09-18)
 - [Huawei announces new AI infrastructure as Nvidia gets locked out of China](https://techcrunch.com/2025/09/18/huawei-announces-new-ai-infrastructure-as-nvidia-gets-locked-out-of-china/) (2025-09-18)
 - [How AI startups are fueling Google’s booming cloud business](https://techcrunch.com/2025/09/18/how-ai-startups-are-fueling-googles-booming-cloud-business/) (2025-09-18)
-- [Tim Cook, Sam Altman, and more attend Trump’s UK state banquet](https://techcrunch.com/2025/09/18/tim-cook-sam-altman-and-more-attend-trumps-uk-state-banquet/) (2025-09-18)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [The health benefits of sunlight may outweigh the risk of skin cancer](https://www.economist.com/science-and-technology/2025/09/17/the-health-benefits-of-sunlight-may-outweigh-the-risk-of-skin-cancer) (2025-09-19)
+- [Gemini in Chrome](https://gemini.google/overview/gemini-in-chrome/) (2025-09-19)
+- [Playing “Minecraft” without Minecraft (2024)](https://lenowo.org/viewtopic.php?t=5) (2025-09-19)
+- [The Math of Catastrophe](https://www.quantamagazine.org/the-math-of-climate-change-tipping-points-20250915/) (2025-09-19)
 - [David Lynch LA House](https://www.wallpaper.com/design-interiors/david-lynch-house-los-angeles-for-sale) (2025-09-19)
-- [Show HN: Nallely – A Python signals/MIDI processing system inspired by Smalltalk](https://dr-schlange.github.io/nallely-midi/) (2025-09-19)
-- [Llama-Factory: Unified, Efficient Fine-Tuning for 100 Open LLMs](https://github.com/hiyouga/LLaMA-Factory) (2025-09-18)
-- [Classic recessive-or-dominant gene dynamics may not be so simple](https://news.stanford.edu/stories/2025/09/classic-recessive-dominant-gene-dynamics-pesticide-resistance-research) (2025-09-18)
-- [Want to piss off your IT department? Are the links not malicious looking enough?](https://phishyurl.com/) (2025-09-18)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Off with your CMS’s head! Composability and security in headless CMS](https://stackoverflow.blog/2025/09/19/off-with-your-cms-s-head-composability-and-security-in-headless-cms/) (2025-09-19)
 - [Stack Overflow is helping you learn to code with new resources](https://stackoverflow.blog/2025/09/18/stack-overflow-is-helping-you-learn-to-code-with-new-resources/) (2025-09-18)
 - [What an MCP implementation looks like at a CRM company](https://stackoverflow.blog/2025/09/16/what-an-mcp-implementation-looks-like-at-a-crm-company/) (2025-09-16)
 - [Planning to Arm mobile devices with chips that handle AI](https://stackoverflow.blog/2025/09/12/planning-to-arm-mobile-devices-with-chips-that-handle-ai/) (2025-09-12)
 - [How AI is reshaping developer teams and the future of software development](https://stackoverflow.blog/2025/09/11/how-ai-is-reshaping-developer-teams/) (2025-09-11)
-- [AI vs Gen Z: How AI has changed the career pathway for junior developers](https://stackoverflow.blog/2025/09/10/ai-vs-gen-z/) (2025-09-10)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Shifting Security Left: Why DevSecOps is Not Optional Anymore](https://dev.to/ezekiel_umesi_5bd2fa6069c/shifting-security-left-why-devsecops-is-not-optional-anymore-52fk) (2025-09-19)
-- [You’re Already a Narrative Designer (Even If You Don’t Feel Like One)](https://dev.to/mitch-narrativeflow/youre-already-a-narrative-designer-even-if-you-dont-feel-like-one-1jb0) (2025-09-19)
-- [Connecting to LLMs: Building a Simple HTTP Client for AI Integration](https://dev.to/gazolla/connecting-to-llms-building-a-simple-http-client-for-ai-integration-p4o) (2025-09-19)
-- [A guide to using Graphite's stacked PRs for GitHub users](https://dev.to/semgrep/a-guide-to-using-graphites-stacked-prs-for-github-users-5c47) (2025-09-19)
-- [Ultimate AI Writing Tools for Content Creators 2025](https://dev.to/coding180/ultimate-ai-writing-tools-for-content-creators-2025-42gd) (2025-09-19)
+- [Secure Remote Access with AWS Verified Access](https://dev.to/aws-builders/secure-remote-access-with-aws-verified-access-53d9) (2025-09-19)
+- [JavaScript DOM: A Beginner’s Guide to Changing Styles and Classes](https://dev.to/wisdomudo/javascript-dom-a-beginners-guide-to-changing-styles-and-classes-32b) (2025-09-19)
+- [The Battle of Real-Time Databases: Firebase vs Supabase vs Postgres](https://dev.to/dct_technology/the-battle-of-real-time-databases-firebase-vs-supabase-vs-postgres-3gfc) (2025-09-19)
+- [Best Platform to Learn Google Cloud Platform: A Dev’s Take](https://dev.to/stack_overflowed/best-platform-to-learn-google-cloud-platform-a-devs-take-4027) (2025-09-19)
+- [Pick a Translation API Without Regrets in 2025](https://dev.to/naitsirhc/pick-a-translation-api-without-regrets-in-2025-3fa6) (2025-09-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [7 Advanced PyTorch Memory Management Patterns to Eliminate Silent Performance Degradation in…](https://medium.techkoalainsights.com/7-advanced-pytorch-memory-management-patterns-to-eliminate-silent-performance-degradation-in-ca2bc0990ab3?source=rss------programming-5) (2025-09-19)
-- [ The Hidden Password Cracking Tool That Every Cybersecurity Expert Uses (But Never Talks About)…](https://medium.com/@qaafqasim/the-hidden-password-cracking-tool-that-every-cybersecurity-expert-uses-but-never-talks-about-896af2d8fa2b?source=rss------programming-5) (2025-09-19)
-- [I Built a Python Script That Turns Meeting Transcripts Into Action Points](https://python.plainenglish.io/i-built-a-python-script-that-turns-meeting-transcripts-into-action-points-c0d9ca6907d1?source=rss------programming-5) (2025-09-18)
-- [Mastering the Art of AI-Driven Phishing: A Comprehensive Guide for Modern Cyber Sleuths](https://medium.com/@ambitionmagician/mastering-the-art-of-ai-driven-phishing-a-comprehensive-guide-for-modern-cyber-sleuths-3f68da43179a?source=rss------programming-5) (2025-09-18)
-- [The day I discovered my grandmother’s language was disappearing](https://medium.com/@delija.milaim/the-day-i-discovered-my-grandmothers-language-was-disappearing-596a092be625?source=rss------programming-5) (2025-09-18)
+- [Gamma AI Presentation Tool: Why 250 Million Users Ditched PowerPoint](https://medium.com/@eddyenos1/gamma-ai-presentation-tool-why-250-million-users-ditched-powerpoint-1d48b54ef5fd?source=rss------programming-5) (2025-09-19)
+- [How Early-Growth Startups Can Quickly Scale Products with Dedicated TypeScript Developers](https://medium.com/@kristen.carter/how-early-growth-startups-can-quickly-scale-products-with-dedicated-typescript-developers-3c64d408c426?source=rss------programming-5) (2025-09-19)
+- [ FastAPI + SQLAlchemy: Build Your First CRUD API Like a Boss](https://medium.com/@priyanshu011109/fastapi-sqlalchemy-build-your-first-crud-api-like-a-boss-c0d67bce5933?source=rss------programming-5) (2025-09-19)
+- [ Python and Concurrency in the Modern World: Asyncio, Multiprocessing, and Beyond](https://medium.com/@TheEnaModernCoder/python-and-concurrency-in-the-modern-world-asyncio-multiprocessing-and-beyond-0a7796b16b9d?source=rss------programming-5) (2025-09-19)
+- [ 12+ Advanced Python Tips Every Developer Should Know ](https://medium.com/@theHackHabitual/12-advanced-python-tips-every-developer-should-know-175ac4444238?source=rss------programming-5) (2025-09-19)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Inside the world’s most powerful AI datacenter](https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/) (2025-09-18)
+- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms ](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms/) (2025-09-18)
+- [Agent Factory: Creating a blueprint for safe and secure AI agents](https://azure.microsoft.com/en-us/blog/agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents/) (2025-09-17)
+- [Azure Kubernetes Service Automatic: Fast and frictionless Kubernetes for all](https://azure.microsoft.com/en-us/blog/azure-kubernetes-service-automatic-fast-and-frictionless-kubernetes-for-all/) (2025-09-16)
 - [FabCon Vienna: Build data-rich agents on an enterprise-ready foundation](https://www.microsoft.com/en-us/microsoft-fabric/blog/2025/09/16/fabcon-vienna-build-data-rich-agents-on-an-enterprise-ready-foundation) (2025-09-16)
-- [Accelerating AI and databases with Azure Container Storage, now 7 times faster and open source](https://azure.microsoft.com/en-us/blog/accelerating-ai-and-databases-with-azure-container-storage-now-7-times-faster-and-open-source/) (2025-09-15)
-- [Agent Factory: Connecting agents, apps, and data with new open standards like MCP and A2A](https://azure.microsoft.com/en-us/blog/agent-factory-connecting-agents-apps-and-data-with-new-open-standards-like-mcp-and-a2a/) (2025-09-10)
-- [Ask Ralph: Where style meets AI—a new era of conversational commerce](https://www.microsoft.com/en-us/industry/blog/retail/2025/09/09/ask-ralph-where-style-meets-ai-a-new-era-of-conversational-commerce/) (2025-09-09)
-- [Azure mandatory multifactor authentication: Phase 2 starting in October 2025](https://azure.microsoft.com/en-us/blog/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/) (2025-09-05)
 
 </details>
 
@@ -555,13 +555,24 @@ https://www.twilio.com/en-us/blog/developers/community/mcp-based-dot-net-micro-w
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [Huawei announces new Ascend chips, to power world’s most powerful clusters](https://www.artificialintelligence-news.com/news/huawei-announces-new-ascend-chips-to-power-worlds-most-powerful-clusters/) (2025-09-18)
+- [AI-enabled threats and stricter regulation in France](https://www.artificialintelligence-news.com/news/ai-enabled-threats-and-stricter-regulation-in-france/) (2025-09-17)
+- [CSI and HuLoop deliver AI-driven efficiency to banks](https://www.artificialintelligence-news.com/news/csi-and-huloop-deliver-ai-driven-efficiency-to-banks/) (2025-09-17)
+- [Mythos AI and lomarlabs deploy sea-pilot AI assistance](https://www.artificialintelligence-news.com/news/apas-radar-sea-trial-tests-ai-ocean-transport/) (2025-09-15)
+- [VMware nods to AI but looks to long-term](https://www.artificialintelligence-news.com/news/broadcom-nods-at-ai-looks-to-long-term/) (2025-09-11)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
+- [TDS Newsletter: How to Make Smarter Business Decisions with AI](https://towardsdatascience.com/tds-newsletter-how-to-make-smarter-business-decisions-with-ai/) (2025-09-19)
 - [How I Built and Deployed an App in 2 days with Lovable, Supabase, and Netlify](https://towardsdatascience.com/how-i-built-and-deployed-an-app-in-2-days-with-lovable-supabase-and-netlify/) (2025-09-18)
 - [From Python to JavaScript: A Playbook for Data Analytics in n8n with Code Node Examples](https://towardsdatascience.com/from-python-to-javascript-a-playbook-for-data-analytics-in-n8n-with-code-node-examples/) (2025-09-18)
 - [Rapid Prototyping of Chatbots with Streamlit and Chainlit](https://towardsdatascience.com/rapid-prototyping-of-chatbots-with-streamlit-and-chainlit/) (2025-09-18)
 - [From Amnesia to Awareness: Giving Retrieval-Only Chatbots Memory](https://towardsdatascience.com/from-amnesia-to-awareness-giving-retrieval-only-chatbots-memory/) (2025-09-18)
-- [Analysis of Sales Shift in Retail with Causal Impact: A Case Study at Carrefour](https://towardsdatascience.com/analysis-of-sales-shift-in-retail-with-causal-impact-a-case-study-at-carrefour/) (2025-09-17)
 
 </details>
 
