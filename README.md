@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Here’s the tech powering ICE’s deportation crackdown ](https://techcrunch.com/2025/09/18/heres-the-tech-powering-ices-deportation-crackdown/) (2025-09-18)
-- [Notion launches agents for data analysis and task automation](https://techcrunch.com/2025/09/18/notion-launches-agents-for-data-analysis-and-task-automation/) (2025-09-18)
-- [Uber is trying drone delivery again](https://techcrunch.com/2025/09/18/uber-is-trying-drone-delivery-again/) (2025-09-18)
-- [Google now lets you share your custom Gemini AI assistants known as Gems](https://techcrunch.com/2025/09/18/google-now-lets-you-share-your-custom-gemini-ai-assistants-known-as-gems/) (2025-09-18)
-- [Mark Zuckerberg has begun his quest to kill the smartphone](https://techcrunch.com/2025/09/18/mark-zuckerberg-has-begun-his-quest-to-kill-the-smartphone/) (2025-09-18)
+- [OpenAI’s research on AI models deliberately lying is wild ](https://techcrunch.com/2025/09/18/openais-research-on-ai-models-deliberately-lying-is-wild/) (2025-09-18)
+- [Raising Series A in 2026: Insights from top early-stage VCs at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/18/term-sheets-traction-and-truth-bombs-inside-the-series-a-mindset-at-techcrunch-disrupt-2025/) (2025-09-18)
+- [Huawei announces new AI infrastructure as Nvidia gets locked out of China](https://techcrunch.com/2025/09/18/huawei-announces-new-ai-infrastructure-as-nvidia-gets-locked-out-of-china/) (2025-09-18)
+- [How AI startups are fueling Google’s booming cloud business](https://techcrunch.com/2025/09/18/how-ai-startups-are-fueling-googles-booming-cloud-business/) (2025-09-18)
+- [Tim Cook, Sam Altman, and more attend Trump’s UK state banquet](https://techcrunch.com/2025/09/18/tim-cook-sam-altman-and-more-attend-trumps-uk-state-banquet/) (2025-09-18)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Map Is Not Upside Down](https://www.maps.com/this-map-is-not-upside-down/) (2025-09-18)
-- [OpenTelemetry Collector: What It Is, When You Need It, and When You Don't](https://oneuptime.com/blog/post/2025-09-18-what-is-opentelemetry-collector-and-why-use-one/view) (2025-09-18)
-- [Chrome's New AI Features](https://blog.google/products/chrome/new-ai-features-for-chrome/) (2025-09-18)
-- [Configuration files are user interfaces](https://ochagavia.nl/blog/configuration-files-are-user-interfaces/) (2025-09-18)
-- [Show HN: One prompt generates an app with its own database](https://www.manyminiapps.com/) (2025-09-18)
+- [David Lynch LA House](https://www.wallpaper.com/design-interiors/david-lynch-house-los-angeles-for-sale) (2025-09-19)
+- [Show HN: Nallely – A Python signals/MIDI processing system inspired by Smalltalk](https://dr-schlange.github.io/nallely-midi/) (2025-09-19)
+- [Llama-Factory: Unified, Efficient Fine-Tuning for 100 Open LLMs](https://github.com/hiyouga/LLaMA-Factory) (2025-09-18)
+- [Classic recessive-or-dominant gene dynamics may not be so simple](https://news.stanford.edu/stories/2025/09/classic-recessive-dominant-gene-dynamics-pesticide-resistance-research) (2025-09-18)
+- [Want to piss off your IT department? Are the links not malicious looking enough?](https://phishyurl.com/) (2025-09-18)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Meta&#8217;s Ray-Ban Gen 2 and Oakley Vanguard glasses are available to preorder](https://www.theverge.com/tech/780353/meta-ray-ban-display-oakley-vanguard-preorder-price-how-to-buy) (2025-09-18)
-- [Meta is opening up its smart glasses to developers](https://www.theverge.com/news/780943/meta-smart-glasses-developer-toolkit-ray-ban-display) (2025-09-18)
-- [Notion’s new AI Agents will basically do your job for you](https://www.theverge.com/news/781293/notion-ai-agent-do-your-job) (2025-09-18)
-- [Kirby Air Riders feels more like F-Zero than Mario Kart](https://www.theverge.com/games/781177/kirby-air-riders-feels-more-like-f-zero-than-mario-kart) (2025-09-18)
-- [Microsoft is filling Teams with AI agents](https://www.theverge.com/news/781278/microsoft-teams-copilot-ai-agents) (2025-09-18)
+- [Intel says Arc GPUs will live on after Nvidia deal](https://www.theverge.com/news/781635/intel-says-arc-gpus-will-live-on-after-nvidia-deal) (2025-09-18)
+- [How to find the best deals during Amazon’s October Prime Day sale](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find) (2025-09-18)
+- [Nothing’s charging case Super Mic is a small upgrade to earbud audio](https://www.theverge.com/tech/781588/nothing-ear-3-charging-case-super-mic-impressions-hands-on) (2025-09-18)
+- [Nvidia and Intel’s $5 billion deal is apparently about eating AMD’s lunch](https://www.theverge.com/report/781330/nvidia-intel-explain-5-billion-deal-jensen-huang-lip-bu-tan-amd) (2025-09-18)
+- [Hyundai CEO distances company from ICE raid: ‘not our facility’](https://www.theverge.com/news/781497/hyundai-ceo-distances-ice-raid-georgia-trump) (2025-09-18)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Nvidia will invest $5 billion in Intel, co-develop new server and PC chips](https://arstechnica.com/gadgets/2025/09/nvidia-will-invest-5-billion-in-intel-co-develop-new-server-and-pc-chips/) (2025-09-18)
-- [New attack on ChatGPT research agent pilfers secrets from Gmail inboxes](https://arstechnica.com/information-technology/2025/09/new-attack-on-chatgpt-research-agent-pilfers-secrets-from-gmail-inboxes/) (2025-09-18)
-- [Trump’s Golden Dome will cost 10 to 100 times more than the Manhattan Project](https://arstechnica.com/space/2025/09/trumps-golden-dome-will-cost-10-to-100-times-more-than-the-manhattan-project/) (2025-09-18)
-- [Some dogs can classify their toys by function](https://arstechnica.com/science/2025/09/some-dogs-can-classify-their-toys-by-function/) (2025-09-18)
-- [Meta’s $799 Ray-Ban Display is the company’s first big step from VR to AR](https://arstechnica.com/gadgets/2025/09/metas-799-ray-ban-display-is-the-companys-first-big-step-from-vr-to-ar/) (2025-09-18)
+- [Two UK teens charged in connection to Scattered Spider ransomware attacks](https://arstechnica.com/security/2025/09/two-uk-teens-charged-in-connection-to-scattered-spider-ransomware-attacks/) (2025-09-19)
+- [In new level of stupid, RFK Jr.’s anti-vaccine advisors axe MMRV recommendation](https://arstechnica.com/health/2025/09/in-new-level-of-stupid-rfk-jr-s-anti-vaccine-advisors-axe-mmrv-recommendation/) (2025-09-18)
+- [Meet the 2025 Ig Nobel Prize winners](https://arstechnica.com/science/2025/09/meet-the-2025-ig-nobel-prize-winners/) (2025-09-18)
+- [“Get off the iPad!” warns air traffic control as Spirit flight nears Air Force One](https://arstechnica.com/culture/2025/09/get-off-the-ipad-warns-air-traffic-control-as-spirit-flight-nears-air-force-one/) (2025-09-18)
+- [Google announces massive expansion of AI features in Chrome](https://arstechnica.com/google/2025/09/google-announces-massive-expansion-of-ai-features-in-chrome/) (2025-09-18)
 
 </details>
 
@@ -97,55 +97,55 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Cercle: Two Lanes - Signs of Change (Live Version) | Cercle Odyssey](https://dev.to/music_youtube/cercle-two-lanes-signs-of-change-live-version-cercle-odyssey-4ng0) (2025-09-18)
-- [Introducing: Clips Open-Source AI Clipping Tool for Every Creator](https://dev.to/samyaksgupta/introducing-clips-open-source-ai-clipping-tool-for-every-creator-3jhk) (2025-09-18)
-- [Golf.com: The Ultimate Golf Pilgrimage: 3 Legendary English Courses in A Day](https://dev.to/youtube_golf/golfcom-the-ultimate-golf-pilgrimage-3-legendary-english-courses-in-a-day-3poh) (2025-09-18)
-- [GameSpot: Dying Light The Beast Review](https://dev.to/gg_news/gamespot-dying-light-the-beast-review-3pdp) (2025-09-18)
-- [IGN: Ghost of Yotei - Official 'The Hunt Begins' Cinematic Trailer](https://dev.to/gg_news/ign-ghost-of-yotei-official-the-hunt-begins-cinematic-trailer-kij) (2025-09-18)
+- [Shifting Security Left: Why DevSecOps is Not Optional Anymore](https://dev.to/ezekiel_umesi_5bd2fa6069c/shifting-security-left-why-devsecops-is-not-optional-anymore-52fk) (2025-09-19)
+- [You’re Already a Narrative Designer (Even If You Don’t Feel Like One)](https://dev.to/mitch-narrativeflow/youre-already-a-narrative-designer-even-if-you-dont-feel-like-one-1jb0) (2025-09-19)
+- [Connecting to LLMs: Building a Simple HTTP Client for AI Integration](https://dev.to/gazolla/connecting-to-llms-building-a-simple-http-client-for-ai-integration-p4o) (2025-09-19)
+- [A guide to using Graphite's stacked PRs for GitHub users](https://dev.to/semgrep/a-guide-to-using-graphites-stacked-prs-for-github-users-5c47) (2025-09-19)
+- [Ultimate AI Writing Tools for Content Creators 2025](https://dev.to/coding180/ultimate-ai-writing-tools-for-content-creators-2025-42gd) (2025-09-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Tired of Git’s Pain Points? Google’s Jujutsu (jj) Could Be a Game Changer](https://medium.com/@CodeWithPurpose/tired-of-gits-pain-points-google-s-jujutsu-jj-could-be-a-game-changer-f771ecb34c98?source=rss------programming-5) (2025-09-18)
-- [Code Swift Like Apple](https://medium.com/@sharma-deepak/code-swift-like-apple-1508465c4f88?source=rss------programming-5) (2025-09-18)
-- [AI Needs Liberal Arts More Than Ever](https://medium.com/@tu_celine/ai-needs-liberal-arts-more-than-ever-9294235c7aa2?source=rss------programming-5) (2025-09-18)
-- [Use Git Like a Senior Developer — Best Practices and Pro Workflows](https://observabilityguy.medium.com/use-git-like-a-senior-developer-best-practices-and-pro-workflows-28ba2001de8c?source=rss------programming-5) (2025-09-18)
-- [Dezvoltarea personală nu înseamnă să schimbi totul peste noapte, ci să faci pași mici și constanți…](https://medium.com/@alinaecaterina79/dezvoltarea-personal%C4%83-nu-%C3%AEnseamn%C4%83-s%C4%83-schimbi-totul-peste-noapte-ci-s%C4%83-faci-pa%C8%99i-mici-%C8%99i-constan%C8%9Bi-6ebbe15a3c56?source=rss------programming-5) (2025-09-18)
+- [7 Advanced PyTorch Memory Management Patterns to Eliminate Silent Performance Degradation in…](https://medium.techkoalainsights.com/7-advanced-pytorch-memory-management-patterns-to-eliminate-silent-performance-degradation-in-ca2bc0990ab3?source=rss------programming-5) (2025-09-19)
+- [ The Hidden Password Cracking Tool That Every Cybersecurity Expert Uses (But Never Talks About)…](https://medium.com/@qaafqasim/the-hidden-password-cracking-tool-that-every-cybersecurity-expert-uses-but-never-talks-about-896af2d8fa2b?source=rss------programming-5) (2025-09-19)
+- [I Built a Python Script That Turns Meeting Transcripts Into Action Points](https://python.plainenglish.io/i-built-a-python-script-that-turns-meeting-transcripts-into-action-points-c0d9ca6907d1?source=rss------programming-5) (2025-09-18)
+- [Mastering the Art of AI-Driven Phishing: A Comprehensive Guide for Modern Cyber Sleuths](https://medium.com/@ambitionmagician/mastering-the-art-of-ai-driven-phishing-a-comprehensive-guide-for-modern-cyber-sleuths-3f68da43179a?source=rss------programming-5) (2025-09-18)
+- [The day I discovered my grandmother’s language was disappearing](https://medium.com/@delija.milaim/the-day-i-discovered-my-grandmothers-language-was-disappearing-596a092be625?source=rss------programming-5) (2025-09-18)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Qwen models are now available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/qwen-models-are-now-available-in-amazon-bedrock/) (2025-09-18)
+- [DeepSeek-V3.1 model now available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/deepseek-v3-1-now-available-in-amazon-bedrock/) (2025-09-18)
 - [AWS named as a Leader in 2025 Gartner Magic Quadrant for Cloud-Native Application Platforms and Container Management](https://aws.amazon.com/blogs/aws/aws-named-as-a-leader-in-2025-gartner-magic-quadrant-for-cloud-native-application-platforms-and-container-management/) (2025-09-15)
 - [AWS Weekly Roundup: Strands Agents 1M+ downloads, Cloud Club Captain, AI Agent Hackathon, and more (September 15, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-strands-agents-1m-downloads-cloud-club-captain-ai-agent-hackathon-and-more-september-15-2025/) (2025-09-15)
 - [Announcing Amazon EC2 M4 and M4 Pro Mac instances](https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-m4-and-m4-pro-mac-instances/) (2025-09-12)
-- [Accelerate serverless testing with LocalStack integration in VS Code IDE](https://aws.amazon.com/blogs/aws/accelerate-serverless-testing-with-localstack-integration-in-vs-code-ide/) (2025-09-11)
-- [AWS Weekly Roundup: AWS Transform, Amazon Neptune, and more (September 8, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-transform-amazon-neptune-and-more-september-8-2025/) (2025-09-08)
 
 </details>
 
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [FabCon Vienna: Build data-rich agents on an enterprise-ready foundation](https://www.microsoft.com/en-us/microsoft-fabric/blog/2025/09/16/fabcon-vienna-build-data-rich-agents-on-an-enterprise-ready-foundation) (2025-09-16)
 - [Accelerating AI and databases with Azure Container Storage, now 7 times faster and open source](https://azure.microsoft.com/en-us/blog/accelerating-ai-and-databases-with-azure-container-storage-now-7-times-faster-and-open-source/) (2025-09-15)
 - [Agent Factory: Connecting agents, apps, and data with new open standards like MCP and A2A](https://azure.microsoft.com/en-us/blog/agent-factory-connecting-agents-apps-and-data-with-new-open-standards-like-mcp-and-a2a/) (2025-09-10)
 - [Ask Ralph: Where style meets AI—a new era of conversational commerce](https://www.microsoft.com/en-us/industry/blog/retail/2025/09/09/ask-ralph-where-style-meets-ai-a-new-era-of-conversational-commerce/) (2025-09-09)
 - [Azure mandatory multifactor authentication: Phase 2 starting in October 2025](https://azure.microsoft.com/en-us/blog/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/) (2025-09-05)
-- [Microsoft Cost Management updates—July & August 2025](https://azure.microsoft.com/en-us/blog/microsoft-cost-management-updates-july-august-2025/) (2025-09-04)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [The UK’s ‘Goldilocks Moment for AI’: NVIDIA, UK and US Leaders Highlight AI Infrastructure Investments](https://blogs.nvidia.com/blog/uk-ai-ecosystem-celebration/) (2025-09-18)
 - [NVIDIA Blackwell: Born for Extreme-Scale AI Inference](https://blogs.nvidia.com/blog/blackwell-ai-inference/) (2025-09-18)
 - [GeForce NOW Unleashes ‘Dying Light: The Beast’ in the Cloud](https://blogs.nvidia.com/blog/geforce-now-thursday-dying-light-the-beast/) (2025-09-18)
 - [Meet the Streamlabs Streaming Assistant, Accelerated by NVIDIA RTX](https://blogs.nvidia.com/blog/rtx-ai-garage-logitech-streamlabs-agent/) (2025-09-17)
 - [The AI Makers: NVIDIA Partners in UK Advance Physical and Agentic AI, Robotics, Life Sciences and More](https://blogs.nvidia.com/blog/uk-partner-ecosystem-ai-makers/) (2025-09-16)
-- [Reaching Across the Isles: UK-LLM Brings AI to UK Languages With NVIDIA Nemotron](https://blogs.nvidia.com/blog/uk-llm-nemotron/) (2025-09-14)
 
 </details>
 
@@ -163,11 +163,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Gratitude's developers released 2X the amount of innovative experiments with the help of Gemini in Android Studio](https://android-developers.googleblog.com/2025/09/gratitudes-developers-released-2x.html) (2025-09-18)
 - [#WeArePlay: Meet the people whose personal challenges inspired their apps and games.](https://android-developers.googleblog.com/2025/09/weareplay-meet-people-whose-personal.html) (2025-09-18)
 - [Android 16 QPR2 Beta 2 is Here](https://android-developers.googleblog.com/2025/09/android-16-qpr2-beta-2-is-here.html) (2025-09-17)
 - [Simplifying advanced networking with DHCPv6 Prefix Delegation](https://android-developers.googleblog.com/2025/09/simplifying-advanced-networking-with.html) (2025-09-15)
 - [HDR and User Interfaces](https://android-developers.googleblog.com/2025/09/hdr-and-user-interfaces.html) (2025-09-10)
-- [#WeArePlay: Meet the people using Google AI to solve problems in agriculture, education, and pet care](https://android-developers.googleblog.com/2025/09/weareplay-meet-people-using-google-ai.html) (2025-09-10)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.34: DRA Consumable Capacity](https://kubernetes.io/blog/2025/09/18/kubernetes-v1-34-dra-consumable-capacity/) (2025-09-18)
 - [Kubernetes v1.34: Pods Report DRA Resource Health](https://kubernetes.io/blog/2025/09/17/kubernetes-v1-34-pods-report-dra-resource-health/) (2025-09-17)
 - [Kubernetes v1.34: Moving Volume Group Snapshots to v1beta2](https://kubernetes.io/blog/2025/09/16/kubernetes-v1-34-volume-group-snapshot-beta-2/) (2025-09-16)
 - [Kubernetes v1.34: Decoupled Taint Manager Is Now Stable](https://kubernetes.io/blog/2025/09/15/kubernetes-v1-34-decoupled-taint-manager-is-now-stable/) (2025-09-15)
 - [Kubernetes v1.34: Autoconfiguration for Node Cgroup Driver Goes GA](https://kubernetes.io/blog/2025/09/12/kubernetes-v1-34-cri-cgroup-driver-lookup-now-ga/) (2025-09-12)
-- [Kubernetes v1.34: Mutable CSI Node Allocatable Graduates to Beta](https://kubernetes.io/blog/2025/09/11/kubernetes-v1-34-mutable-csi-node-allocatable-count/) (2025-09-11)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Announcing: JetBrains .NET Days Online 2025](https://blog.jetbrains.com/dotnet/2025/09/18/announcing-jetbrains-net-days-online-2025/) (2025-09-18)
 - [More Updates and Fixes for ReSharper and Rider 2025.2](https://blog.jetbrains.com/dotnet/2025/09/18/resharper-rider-2025-2-2/) (2025-09-18)
 - [8 Common DevOps Problems And How to Solve Them With GoLand](https://blog.jetbrains.com/go/2025/09/17/8-common-devops-problems-and-how-to-solve-them-with-goland/) (2025-09-17)
 - [Spring Debugger: ApplicationContext at Your Fingertips](https://blog.jetbrains.com/idea/2025/09/spring-debugger-applicationcontext-at-your-fingertips/) (2025-09-17)
 - [The Early Access Program for Rider 2025.3 Is Now Open!](https://blog.jetbrains.com/dotnet/2025/09/17/the-early-access-program-for-rider-2025-3/) (2025-09-17)
-- [The Early Access Program for ReSharper and .NET Tools 2025.3 Is Here!](https://blog.jetbrains.com/dotnet/2025/09/17/the-early-access-program-for-resharper-and-net-tools-2025-3/) (2025-09-17)
 
 </details>
 
@@ -555,17 +555,6 @@ https://www.twilio.com/en-us/blog/developers/community/mcp-based-dot-net-micro-w
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [Huawei announces new Ascend chips, to power world’s most powerful clusters](https://www.artificialintelligence-news.com/news/huawei-announces-new-ascend-chips-to-power-worlds-most-powerful-clusters/) (2025-09-18)
-- [AI-enabled threats and stricter regulation in France](https://www.artificialintelligence-news.com/news/ai-enabled-threats-and-stricter-regulation-in-france/) (2025-09-17)
-- [CSI and HuLoop deliver AI-driven efficiency to banks](https://www.artificialintelligence-news.com/news/csi-and-huloop-deliver-ai-driven-efficiency-to-banks/) (2025-09-17)
-- [Mythos AI and lomarlabs deploy sea-pilot AI assistance](https://www.artificialintelligence-news.com/news/apas-radar-sea-trial-tests-ai-ocean-transport/) (2025-09-15)
-- [VMware nods to AI but looks to long-term](https://www.artificialintelligence-news.com/news/broadcom-nods-at-ai-looks-to-long-term/) (2025-09-11)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
 - [How I Built and Deployed an App in 2 days with Lovable, Supabase, and Netlify](https://towardsdatascience.com/how-i-built-and-deployed-an-app-in-2-days-with-lovable-supabase-and-netlify/) (2025-09-18)
@@ -579,11 +568,11 @@ https://www.twilio.com/en-us/blog/developers/community/mcp-based-dot-net-micro-w
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [I Built an App Using Nano Banana: Selfie with a Celeb](https://www.analyticsvidhya.com/blog/2025/09/nano-banana-app/) (2025-09-18)
 - [Is it Safe to Use Nano Banana?](https://www.analyticsvidhya.com/blog/2025/09/is-it-safe-to-use-nano-banana/) (2025-09-17)
 - [700 Million People Use ChatGPT Weekly: Here’s What They’re Doing With It!](https://www.analyticsvidhya.com/blog/2025/09/top-chatgpt-use-prompts/) (2025-09-17)
 - [I Tried GPT-5 Codex and Here is Why You Must Too!](https://www.analyticsvidhya.com/blog/2025/09/gpt-5-codex/) (2025-09-17)
 - [Inside X’s Recommendation Algorithm: How the “For You” Feed Really Works](https://www.analyticsvidhya.com/blog/2025/09/x-recommendation-algorithm/) (2025-09-16)
-- [Turn Your Family Photo into a Royal Portrait Using this Nano Banana Prompt](https://www.analyticsvidhya.com/blog/2025/09/nano-banana-prompt-for-royal-portrait/) (2025-09-16)
 
 </details>
 
