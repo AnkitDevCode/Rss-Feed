@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [High-performance read-through cache for object storage](https://github.com/s2-streamstore/cachey) (2025-09-20)
-- [Supporting Our AI Overlords: Redesigning Data Systems to Be Agent-First](https://arxiv.org/abs/2509.00997) (2025-09-20)
-- [Less is safer: How Obsidian reduces the risk of supply chain attacks](https://obsidian.md/blog/less-is-safer/) (2025-09-19)
-- [Show HN: Zedis – A Redis clone I'm writing in Zig](https://github.com/barddoo/zedis) (2025-09-19)
-- [Hidden risk in Notion 3.0 AI agents: Web search tool abuse for data exfiltration](https://www.codeintegrity.ai/blog/notion) (2025-09-19)
+- [Images over DNS](https://dgl.cx/2025/09/images-over-dns) (2025-09-20)
+- [Czech founding father Masaryk's message revealed in long-sealed envelope](https://www.nbcnews.com/world/europe/masaryk-message-revealed-envelope-czech-founding-father-rcna232353) (2025-09-20)
+- [The Gold Card](https://www.whitehouse.gov/presidential-actions/2025/09/the-gold-card/) (2025-09-20)
+- [Overcoming barriers of hydrogen storage with a low-temperature hydrogen battery](https://www.isct.ac.jp/en/news/okmktjxyrvdc) (2025-09-20)
+- [FLX1s Is Launched](https://furilabs.com/flx1s-is-launched/) (2025-09-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [An ICE raid at an EV factory begs the question: how ‘stable’ is the US?](https://www.theverge.com/transportation/781869/ice-raid-georgia-hyundai-lg-ev-foreign-chilling) (2025-09-20)
+- [Anker’s latest sleep buds can silence snoring](https://www.theverge.com/reviews/781970/earbuds-that-block-snoring-soundcore-a30) (2025-09-20)
 - [Trump claims the US is about to get a tremendous fee for taking TikTok out of China](https://www.theverge.com/news/782218/trump-claims-the-us-is-about-to-get-a-tremendous-fee-for-taking-tiktok-out-of-china) (2025-09-19)
 - [Windows 11 is adding another Copilot button nobody asked for](https://www.theverge.com/news/782194/windows-11-share-with-copilot-button) (2025-09-19)
 - [Ex-Disney CEO Michael Eisner calls the FCC’s threats ‘out-of-control intimidation’](https://www.theverge.com/streaming/782191/ex-disney-ceo-michael-eisner-calls-the-fccs-threats-out-of-control-intimidation) (2025-09-19)
-- [Microsoft is raising prices on Xbox consoles in the US again](https://www.theverge.com/news/782079/microsoft-xbox-console-price-increase-us) (2025-09-19)
-- [I know why Mark Zuckerberg risked live demo failure](https://www.theverge.com/report/781673/meta-demo-fail-connect-2025-mark-zuckerberg-google-glass-steve-jobs-wi-fi) (2025-09-19)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Python Variables: A Complete Beginner's Guide with Examples & Best Practices](https://dev.to/satyam_gupta_0d1ff2152dcc/python-variables-a-complete-beginners-guide-with-examples-best-practices-2hi2) (2025-09-20)
-- [My first UI based Rust application - A Skip Counter - created using iced UI library...](https://dev.to/sommukhopadhyay/my-first-ui-based-rust-application-a-skip-counter-created-using-iced-ui-library-1eb2) (2025-09-20)
-- [Python Comments: The Ultimate Guide to Writing Clean, Effective Code](https://dev.to/satyam_gupta_0d1ff2152dcc/python-comments-the-ultimate-guide-to-writing-clean-effective-code-ndi) (2025-09-20)
-- [React Component Testing: Best Practices for 2025 🧪](https://dev.to/tahamjp/react-component-testing-best-practices-for-2025-2674) (2025-09-20)
-- [Things to do when bored for seniors without internet](https://dev.to/hue_thuc_d3821160dbf5e3c1/things-to-do-when-bored-for-seniors-without-internet-3h0o) (2025-09-20)
+- [picoCTF RPS writeup](https://dev.to/hitanshugedam/picoctf-rps-writeup-365k) (2025-09-20)
+- [The NKTm Unit in the NKTg Law (Varying Inertia)](https://dev.to/thenktlaw/the-nktm-unit-in-the-nktg-law-varying-inertia-54e6) (2025-09-20)
+- [Engineering for Longevity: How to Build Software That Survives Hype Cycles](https://dev.to/sonia_bobrik_1939cdddd79d/engineering-for-longevity-how-to-build-software-that-survives-hype-cycles-mdk) (2025-09-20)
+- [Template Your Own Clean, Precise Boilerplate Code: No AI, No Wallet Drain. Part 3 – Enough Theory, Now We Code](https://dev.to/georgekobaidze/template-your-own-clean-precise-boilerplate-code-no-ai-no-wallet-drain-part-3-enough-theory-1e0b) (2025-09-20)
+- [IGN: GTA 6 and Witcher 4 Prove the Console Wars Are Over, Base PS5 Won.](https://dev.to/gg_news/ign-gta-6-and-witcher-4-prove-the-console-wars-are-over-base-ps5-won-4mjp) (2025-09-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [9 Python Libraries That Replace Expensive Analytics Tools](https://medium.com/codrift/9-python-libraries-that-replace-expensive-analytics-tools-efeb16202b7b?source=rss------programming-5) (2025-09-20)
-- [Beginner C LeetCode Problem: Running Sum Explained (Writeup #1)](https://infosecwriteups.com/beginner-c-leetcode-problem-running-sum-explained-writeup-1-4b6783a5bd7b?source=rss------programming-5) (2025-09-20)
-- [10 AI Experiments That Changed How I Think About Technology](https://medium.com/codrift/10-ai-experiments-that-changed-how-i-think-about-technology-23c98cab214f?source=rss------programming-5) (2025-09-20)
-- [Debouncing vs Throttling: The Only 3 Rules That Matter](https://medium.com/@premchandak_11/debouncing-vs-throttling-the-only-3-rules-that-matter-2c0b05e682d9?source=rss------programming-5) (2025-09-20)
-- [What started as a CSV cleanup hack became a paid product](https://medium.com/codrift/what-started-as-a-csv-cleanup-hack-became-a-paid-product-6737a42b4f6b?source=rss------programming-5) (2025-09-20)
+- [“Everyone at GitHub Must Use AI Tools” — CEO Thomas Dohmke’s Bold Rule](https://techpaathshala.medium.com/everyone-at-github-must-use-ai-tools-ceo-thomas-dohmkes-bold-rule-2c97ea56e50c?source=rss------programming-5) (2025-09-20)
+- [0903.509.2568](https://medium.com/@r17478461/0903-509-2568-a210ca049dd8?source=rss------programming-5) (2025-09-20)
+- [Forget Learning 10 Frameworks — Master These Core CS Concepts Instead](https://medium.com/@cleanCompile/forget-learning-10-frameworks-master-these-core-cs-concepts-instead-ce374427ac60?source=rss------programming-5) (2025-09-20)
+- [Why Every NFT Project Is Technically Identical (The Copy-Paste Economy)](https://coinsbench.com/why-every-nft-project-is-technically-identical-the-copy-paste-economy-e531cd9b76bc?source=rss------programming-5) (2025-09-20)
+- [My Next.js Stack of Choice: Security with Arcjet](https://medium.com/@joseph.goins/my-next-js-stack-of-choice-security-with-arcjet-ff85285d5059?source=rss------programming-5) (2025-09-20)
 
 </details>
 
