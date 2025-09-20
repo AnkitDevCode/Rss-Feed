@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Why California’s SB 53 might provide a meaningful check on big AI companies](https://techcrunch.com/2025/09/19/why-californias-sb-53-might-provide-a-meaningful-check-on-big-ai-companies/) (2025-09-19)
+- [Nvidia eyes $500M investment into self-driving tech startup Wayve](https://techcrunch.com/2025/09/19/nvidia-eyes-500m-investment-into-self-driving-tech-startup-wayve/) (2025-09-19)
+- [Cracking product-market fit: Lessons from founders and investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/19/crack-the-code-to-startup-traction-with-insights-from-chef-robotics-nea-and-iconiq-at-techcrunch-disrupt-2025/) (2025-09-19)
+- [Best Apple Watch apps for boosting your productivity](https://techcrunch.com/2025/09/19/best-apple-watch-apps-for-boosting-your-productivity/) (2025-09-19)
 - [TechCrunch’s Equity podcast is on video, starting today](https://techcrunch.com/2025/09/19/techcrunchs-equity-podcast-is-on-video-starting-today/) (2025-09-19)
-- [Trump and ByteDance tout TikTok deal approval, but no official details yet](https://techcrunch.com/2025/09/19/trump-and-bytedance-tout-tiktok-deal-approval-but-no-official-details-yet/) (2025-09-19)
-- [Meta’s AR ambitions meet reality, and California gets serious about AI safety…again](https://techcrunch.com/video/metas-ar-ambitions-meet-reality-and-california-gets-serious-about-ai-safetyagain/) (2025-09-19)
-- [Meta CTO explains why the smart glasses demos failed at Meta Connect — and it wasn’t the Wi-Fi](https://techcrunch.com/2025/09/19/meta-cto-explains-why-the-smart-glasses-demos-failed-at-meta-connect-and-it-wasnt-the-wi-fi/) (2025-09-19)
-- [Final hours to apply: Be the life of TechCrunch Disrupt 2025 by hosting your own Side Event](https://techcrunch.com/2025/09/19/final-hours-be-the-life-of-techcrunch-disrupt-2025-by-hosting-your-own-side-event/) (2025-09-19)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [A shift in developer culture is impacting innovation and creativity](https://dayvster.com/blog/dev-culture-is-dying-the-curious-developer-is-gone/) (2025-09-19)
-- [Revamping an Old TV as a Gift (2019)](https://blog.davidv.dev/posts/revamping-an-old-tv-as-a-gift/) (2025-09-19)
-- [Trevor Milton's Nikola Case Dropped by SEC Following Trump Pardon](https://eletric-vehicles.com/nikola/trevor-miltons-nikola-case-dropped-by-sec-following-trump-pardon/) (2025-09-19)
-- [I regret building this $3000 Pi AI cluster](https://www.jeffgeerling.com/blog/2025/i-regret-building-3000-pi-ai-cluster) (2025-09-19)
-- [As Android developer verification gets ready to go, a new reason to be worried](https://www.androidauthority.com/android-sideload-offline-3598988/) (2025-09-19)
+- [Disney+ cancellation page crashes as customers rush to quit](https://creators.yahoo.com/lifestyle/story/disney-cancellation-page-crashes-as-customers-rush-to-quit-after-kimmel-suspension-033512277.html) (2025-09-20)
+- [Restriction on Entry of Certain Nonimmigrant Workers](https://www.whitehouse.gov/presidential-actions/2025/09/restriction-on-entry-of-certain-nonimmigrant-workers/) (2025-09-19)
+- [Less is safer: how Obsidian reduces the risk of supply chain attacks](https://obsidian.md/blog/less-is-safer/) (2025-09-19)
+- [Show HN: Zedis – A Redis clone I'm writing in Zig](https://github.com/barddoo/zedis) (2025-09-19)
+- [Hidden risk in Notion 3.0 AI agents: Web search tool abuse for data exfiltration](https://www.codeintegrity.ai/blog/notion) (2025-09-19)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Trump claims the US is about to get a tremendous fee for taking TikTok out of China](https://www.theverge.com/news/782218/trump-claims-the-us-is-about-to-get-a-tremendous-fee-for-taking-tiktok-out-of-china) (2025-09-19)
+- [Windows 11 is adding another Copilot button nobody asked for](https://www.theverge.com/news/782194/windows-11-share-with-copilot-button) (2025-09-19)
+- [Ex-Disney CEO Michael Eisner calls the FCC’s threats ‘out-of-control intimidation’](https://www.theverge.com/streaming/782191/ex-disney-ceo-michael-eisner-calls-the-fccs-threats-out-of-control-intimidation) (2025-09-19)
+- [Microsoft is raising prices on Xbox consoles in the US again](https://www.theverge.com/news/782079/microsoft-xbox-console-price-increase-us) (2025-09-19)
 - [I know why Mark Zuckerberg risked live demo failure](https://www.theverge.com/report/781673/meta-demo-fail-connect-2025-mark-zuckerberg-google-glass-steve-jobs-wi-fi) (2025-09-19)
-- [It&#8217;s new iPhone day, so grab some screen protectors for just $4.49](https://www.theverge.com/tech/781914/iphone-17-pro-air-screen-protector-anker-nano-travel-adapter-deal-sale) (2025-09-19)
-- [Ugreen’s new super slim wallet tracker has 5 years of battery life](https://www.theverge.com/news/781945/ugreen-finetrack-slim-smart-g-bluetooth-tracker-battery-life) (2025-09-19)
-- [So… is there a TikTok deal or not?](https://www.theverge.com/policy/781967/tiktok-deal-us-china-still-ambiguous) (2025-09-19)
-- [MAGA influencers are already fighting over Charlie Kirk’s death](https://www.theverge.com/policy/781862/charlie-kirk-nick-fuentes-candace-owens-tucker-carlson) (2025-09-19)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Steam will drop support for the last 32-bit Windows systems in January 2026](https://arstechnica.com/gaming/2025/09/steam-will-drop-support-for-the-last-32-bit-windows-systems-in-january-2026/) (2025-09-19)
-- [Science journalists find ChatGPT is bad at summarizing scientific papers](https://arstechnica.com/ai/2025/09/science-journalists-find-chatgpt-is-bad-at-summarizing-scientific-papers/) (2025-09-19)
-- [Your very own humane interface: Try Jef Raskin’s ideas at home](https://arstechnica.com/gadgets/2025/09/your-very-own-humane-interface-try-jef-raskins-ideas-at-home/) (2025-09-19)
-- [“Yikes”: Internal emails reveal Ticketmaster helped scalpers jack up prices](https://arstechnica.com/tech-policy/2025/09/ticketmaster-intentionally-screwed-fans-out-of-billions-ftc-lawsuit-says/) (2025-09-19)
-- [If you own a Volvo EX90, you’re getting a free computer upgrade](https://arstechnica.com/cars/2025/09/forget-ota-volvo-is-upgrading-the-core-computer-in-the-ex90-for-free/) (2025-09-19)
+- [In a win for science, NASA told to use House budget as shutdown looms](https://arstechnica.com/space/2025/09/amid-budget-uncertainty-nasa-gets-some-good-news-use-house-funding-levels/) (2025-09-19)
+- [After a very slow start, Europe’s reusable rocket program shows signs of life](https://arstechnica.com/space/2025/09/after-a-very-slow-start-europes-reusable-rocket-program-shows-signs-of-life/) (2025-09-19)
+- [Bonkers CDC vaccine meeting ends with vote to keep COVID shot access](https://arstechnica.com/health/2025/09/bonkers-cdc-vaccine-meeting-ends-with-vote-to-keep-covid-shot-access/) (2025-09-19)
+- [Oklahoma’s big “TV nudes” scandal was… a Jackie Chan movie on a Samsung streaming service](https://arstechnica.com/culture/2025/09/oklahomas-big-tv-nudes-scandal-was-a-jackie-chan-movie-on-a-samsung-streaming-service/) (2025-09-19)
+- [Microsoft raises Xbox console prices for the second time this year](https://arstechnica.com/gaming/2025/09/microsoft-raises-xbox-console-prices-for-the-second-time-this-year/) (2025-09-19)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [🔬 PF–AI Simulation Lab: How I Built a Full-Stack AI Research Platform to Accelerate Pulmonary Fibrosis Discovery](https://dev.to/ghostking314/pf-ai-simulation-lab-how-i-built-a-full-stack-ai-research-platform-to-accelerate-pulmonary-1hk6) (2025-09-19)
-- [COLORS: Ray Lozano - HiYA | A COLORS SHOW](https://dev.to/music_youtube/colors-ray-lozano-hiya-a-colors-show-59a) (2025-09-19)
-- [Trash Theory: The 7 Songs To Blame For Stomp Clap Hey](https://dev.to/music_youtube/trash-theory-the-7-songs-to-blame-for-stomp-clap-hey-dg0) (2025-09-19)
-- [8-Bit Music Theory: Live Transcribe Stean Gardens from Super Mario Odyssey](https://dev.to/music_youtube/8-bit-music-theory-live-transcribe-stean-gardens-from-super-mario-odyssey-2jc2) (2025-09-19)
-- [GameSpot: Ghost of Yotei Everything To Know](https://dev.to/gg_news/gamespot-ghost-of-yotei-everything-to-know-55na) (2025-09-19)
+- [Building My Own CLI Tool: A Better Way to Share Code with LLMs](https://dev.to/jongwan93/building-my-own-cli-tool-a-better-way-to-share-code-with-llms-1708) (2025-09-20)
+- [How to Contribute a Feature to Someone Else's Repository](https://dev.to/whyang9701/how-to-contribute-a-feature-to-someone-elses-repository-2lo) (2025-09-20)
+- [Type of changing software](https://dev.to/kittichanr/type-of-changing-software-16km) (2025-09-20)
+- [[Boost]](https://dev.to/miss_mrf7/-n58) (2025-09-20)
+- [Anyone Know anything about rawdrawandroid or c bionic for #Android as I would Like to build for Android without using #java?](https://dev.to/1negroup/anyone-know-anything-about-rawdrawandroid-or-c-bionic-for-android-as-i-would-like-to-build-for-360o) (2025-09-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmbvsscb4/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-31b3523aaa01?source=rss------programming-5) (2025-09-19)
-- [Practical Terminal Commands Every Developer Should Know](https://blog.stackademic.com/practical-terminal-commands-every-developer-should-know-84408ddd8b4c?source=rss------programming-5) (2025-09-19)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbcxbnn1m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-c6abd1f387eb?source=rss------programming-5) (2025-09-19)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbcxbnn1m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-9f7e1489a41c?source=rss------programming-5) (2025-09-19)
-- [⚡ Advanced Next.js Interview Questions (with Detailed Explanations)](https://medium.com/@missAvantika/advanced-next-js-interview-questions-with-detailed-explanations-5ba1852573be?source=rss------programming-5) (2025-09-19)
+- [Python Power Scripts for Everyday Development](https://medium.com/technology-core/python-power-scripts-for-everyday-development-2e4a274f008a?source=rss------programming-5) (2025-09-20)
+- [I Built a Python Bot That Monitors Air Quality in My Room and Warns Me](https://medium.com/codrift/i-built-a-python-bot-that-monitors-air-quality-in-my-room-and-warns-me-565034ddf428?source=rss------programming-5) (2025-09-20)
+- [Why Everybody Uses Git and GitHub](https://medium.com/@a.benazizariyadh/why-everybody-uses-git-and-github-bd0452053bc6?source=rss------programming-5) (2025-09-20)
+- [Spring Boot Auto-Configuration: A Deep Dive into Internals](https://medium.com/@sunil17bbmp/spring-boot-auto-configuration-a-deep-dive-into-internals-1ccfd7be66bb?source=rss------programming-5) (2025-09-20)
+- [09013027390](https://medium.com/@ishsjssjwnju/09013027390-0dd50f10e2e8?source=rss------programming-5) (2025-09-20)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Inside the world’s most powerful AI datacenter](https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/) (2025-09-18)
+- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms ](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms/) (2025-09-18)
+- [Agent Factory: Creating a blueprint for safe and secure AI agents](https://azure.microsoft.com/en-us/blog/agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents/) (2025-09-17)
+- [Azure Kubernetes Service Automatic: Fast and frictionless Kubernetes for all](https://azure.microsoft.com/en-us/blog/azure-kubernetes-service-automatic-fast-and-frictionless-kubernetes-for-all/) (2025-09-16)
 - [FabCon Vienna: Build data-rich agents on an enterprise-ready foundation](https://www.microsoft.com/en-us/microsoft-fabric/blog/2025/09/16/fabcon-vienna-build-data-rich-agents-on-an-enterprise-ready-foundation) (2025-09-16)
-- [Accelerating AI and databases with Azure Container Storage, now 7 times faster and open source](https://azure.microsoft.com/en-us/blog/accelerating-ai-and-databases-with-azure-container-storage-now-7-times-faster-and-open-source/) (2025-09-15)
-- [Agent Factory: Connecting agents, apps, and data with new open standards like MCP and A2A](https://azure.microsoft.com/en-us/blog/agent-factory-connecting-agents-apps-and-data-with-new-open-standards-like-mcp-and-a2a/) (2025-09-10)
-- [Ask Ralph: Where style meets AI—a new era of conversational commerce](https://www.microsoft.com/en-us/industry/blog/retail/2025/09/09/ask-ralph-where-style-meets-ai-a-new-era-of-conversational-commerce/) (2025-09-09)
-- [Azure mandatory multifactor authentication: Phase 2 starting in October 2025](https://azure.microsoft.com/en-us/blog/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/) (2025-09-05)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.34: Recovery From Volume Expansion Failure (GA)](https://kubernetes.io/blog/2025/09/19/kubernetes-v1-34-recover-expansion-failure/) (2025-09-19)
 - [Kubernetes v1.34: DRA Consumable Capacity](https://kubernetes.io/blog/2025/09/18/kubernetes-v1-34-dra-consumable-capacity/) (2025-09-18)
 - [Kubernetes v1.34: Pods Report DRA Resource Health](https://kubernetes.io/blog/2025/09/17/kubernetes-v1-34-pods-report-dra-resource-health/) (2025-09-17)
 - [Kubernetes v1.34: Moving Volume Group Snapshots to v1beta2](https://kubernetes.io/blog/2025/09/16/kubernetes-v1-34-volume-group-snapshot-beta-2/) (2025-09-16)
 - [Kubernetes v1.34: Decoupled Taint Manager Is Now Stable](https://kubernetes.io/blog/2025/09/15/kubernetes-v1-34-decoupled-taint-manager-is-now-stable/) (2025-09-15)
-- [Kubernetes v1.34: Autoconfiguration for Node Cgroup Driver Goes GA](https://kubernetes.io/blog/2025/09/12/kubernetes-v1-34-cri-cgroup-driver-lookup-now-ga/) (2025-09-12)
 
 </details>
 
@@ -373,6 +373,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Big Changes Are Coming to the Gmail Inbox
+](
+https://www.twilio.com/en-us/blog/insights/gmail-inbox-changes
+) (2025-09-18)
+- [
 How to Build a Smart Inventory Chatbot on WhatsApp with LangChain, LangGraph, OpenAI, and Flask
 ](
 https://www.twilio.com/en-us/blog/developers/community/how-to-build-a-smart-inventory-chatbot-on-whatsapp-with-langchai
@@ -388,26 +393,21 @@ Vibe Coding with an Agent and Twilio SMS
 https://www.twilio.com/en-us/blog/developers/vibe-coding-with-an-agent-and-twilio-sms
 ) (2025-09-17)
 - [
-Build a Real-Time Support Chat with Go and Twilio Conversations
+How to schedule a text message on iPhone and Android
 ](
-https://www.twilio.com/en-us/blog/developers/community/build-real-time-support-chat-go-twilio-conversations
-) (2025-09-16)
-- [
-MCP-Based .NET Micro-Weather Wisdom SMS Service Using Twilio & OpenAI
-](
-https://www.twilio.com/en-us/blog/developers/community/mcp-based-dot-net-micro-weather-wisdom-sms-service-using-twilio-and-openai
-) (2025-09-16)
+https://www.twilio.com/en-us/blog/how-to-schedule-a-text-message
+) (2025-09-17)
 
 </details>
 
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Oktane Online 2025: The AI Security Event You Can’t Miss](https://auth0.com/blog/oktane-online-2025-the-ai-security-event-you-cant-miss/) (2025-09-18)
 - [Implementing DPoP with Auth0](https://auth0.com/blog/implementing-dpop-with-auth0/) (2025-09-18)
 - [Is Your Product Hitting Its Limits? A Guide to Upgrading Your Auth0 Plan](https://auth0.com/blog/is-your-product-hitting-its-limits-how-to-know-when-to-upgrade-your-auth0-plan/) (2025-09-17)
 - [Four Identity Security Essentials for a Trusted AI Agent Strategy](https://auth0.com/blog/four-identity-security-essentials-for-a-trusted-ai-agent-strategy/) (2025-09-16)
 - [Integrate Your Auth0 Secured Remote MCP Server in ChatGPT Developer Mode](https://auth0.com/blog/add-remote-mcp-server-chatgpt/) (2025-09-11)
-- [Defending Against AI-Powered CLI Supply Chain Attacks](https://auth0.com/blog/defending-against-ai-powered-cli-supply-chain-attacks/) (2025-09-10)
 
 </details>
 
