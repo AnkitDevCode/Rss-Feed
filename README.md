@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [How Phoebe Gates and Sophia Kianni used Gen Z methods to raise $8M for Phia](https://techcrunch.com/2025/09/20/how-phoebe-gates-and-sophia-kianni-used-gen-z-methods-to-raise-8m-for-phia/) (2025-09-20)
+- [Updates to Studio, YouTube Live, new gen AI tools, and everything else announced at Made on YouTube](https://techcrunch.com/2025/09/20/updates-to-studio-youtube-live-new-gen-ai-tools-and-everything-else-announced-at-made-on-youtube/) (2025-09-20)
+- [Lincoln Center’s Collider Fellows explore how tech could transform the performing arts](https://techcrunch.com/2025/09/20/lincoln-centers-collider-fellows-explore-how-tech-could-transform-the-performing-arts/) (2025-09-20)
+- [Only 7 days left to save on TechCrunch Disrupt 2025 tickets — lock in Regular Bird pricing now](https://techcrunch.com/2025/09/20/only-7-days-left-to-save-on-techcrunch-disrupt-2025-tickets-lock-in-regular-bird-pricing-now/) (2025-09-20)
 - [Google isn’t kidding around about cost cutting, even slashing its FT subscription](https://techcrunch.com/2025/09/19/google-isnt-kidding-around-about-cost-cutting-even-slashing-its-ft-subscription/) (2025-09-20)
-- [Trump hits H-1B visas with $100,000 fee, targeting the program that launched Elon Musk and Instagram](https://techcrunch.com/2025/09/19/trump-hits-h-1b-visas-with-100000-fee-targeting-the-program-that-launched-elon-musk-and-instagram/) (2025-09-20)
-- [Why California’s SB 53 might provide a meaningful check on big AI companies](https://techcrunch.com/2025/09/19/why-californias-sb-53-might-provide-a-meaningful-check-on-big-ai-companies/) (2025-09-19)
-- [Nvidia eyes $500M investment into self-driving tech startup Wayve](https://techcrunch.com/2025/09/19/nvidia-eyes-500m-investment-into-self-driving-tech-startup-wayve/) (2025-09-19)
-- [Cracking product-market fit: Lessons from founders and investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/19/crack-the-code-to-startup-traction-with-insights-from-chef-robotics-nea-and-iconiq-at-techcrunch-disrupt-2025/) (2025-09-19)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Images over DNS](https://dgl.cx/2025/09/images-over-dns) (2025-09-20)
-- [Czech founding father Masaryk's message revealed in long-sealed envelope](https://www.nbcnews.com/world/europe/masaryk-message-revealed-envelope-czech-founding-father-rcna232353) (2025-09-20)
-- [The Gold Card](https://www.whitehouse.gov/presidential-actions/2025/09/the-gold-card/) (2025-09-20)
-- [Overcoming barriers of hydrogen storage with a low-temperature hydrogen battery](https://www.isct.ac.jp/en/news/okmktjxyrvdc) (2025-09-20)
-- [FLX1s Is Launched](https://furilabs.com/flx1s-is-launched/) (2025-09-20)
+- [Seattle Ultrasonics: Ultrasonic Chef's Knife](https://seattleultrasonics.com/) (2025-09-20)
+- [Are Touchscreens in Cars Dangerous?](https://www.economist.com/science-and-technology/2025/09/19/are-touchscreens-in-cars-dangerous) (2025-09-20)
+- [Is Zig's New Writer Unsafe?](https://www.openmymind.net/Is-Zigs-New-Io-Unsafe/) (2025-09-20)
+- [Cormac McCarthy's tips on how to write a science paper (2019) [pdf]](https://gwern.net/doc/science/2019-savage.pdf) (2025-09-20)
+- [What Makes System Calls Expensive: A Linux Internals Deep Dive](https://blog.codingconfessions.com/p/what-makes-system-calls-expensive) (2025-09-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [An ICE raid at an EV factory begs the question: how ‘stable’ is the US?](https://www.theverge.com/transportation/781869/ice-raid-georgia-hyundai-lg-ev-foreign-chilling) (2025-09-20)
-- [Anker’s latest sleep buds can silence snoring](https://www.theverge.com/reviews/781970/earbuds-that-block-snoring-soundcore-a30) (2025-09-20)
-- [Trump claims the US is about to get a tremendous fee for taking TikTok out of China](https://www.theverge.com/news/782218/trump-claims-the-us-is-about-to-get-a-tremendous-fee-for-taking-tiktok-out-of-china) (2025-09-19)
-- [Windows 11 is adding another Copilot button nobody asked for](https://www.theverge.com/news/782194/windows-11-share-with-copilot-button) (2025-09-19)
-- [Ex-Disney CEO Michael Eisner calls the FCC’s threats ‘out-of-control intimidation’](https://www.theverge.com/streaming/782191/ex-disney-ceo-michael-eisner-calls-the-fccs-threats-out-of-control-intimidation) (2025-09-19)
+- [Trump announces skilled worker visas will now cost $100,000](https://www.theverge.com/news/782251/trump-h-1b-skilled-worker-visas-cost-100000) (2025-09-20)
+- [Prime members can get three months of Kindle Unlimited for free](https://www.theverge.com/tech/782073/kindle-unlimited-subscription-ipad-m3-deal-sale) (2025-09-20)
+- [The wafer-thin iPhone Air is surprisingly strong](https://www.theverge.com/tech/782245/iphone-air-jerryrigeverything-durability-test) (2025-09-20)
+- [Republicans’ political purge is just getting started](https://www.theverge.com/policy/781974/charlie-kirk-free-speech-legal-attacks) (2025-09-20)
+- [The US government is taking a second stab at breaking up Google](https://www.theverge.com/policy/782029/google-doj-ad-tech-remedies-trial-break-up) (2025-09-20)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Microsoft’s Entra ID vulnerabilities could have been catastrophic](https://arstechnica.com/security/2025/09/microsofts-entra-id-vulnerabilities-could-have-been-catastrophic/) (2025-09-20)
+- [You’ll enjoy the Specialized Turbo Vado SL 2 6.0 Carbon even without assist](https://arstechnica.com/gadgets/2025/09/youll-enjoy-the-specialized-turbo-vado-sl-2-6-0-carbon-even-without-assist/) (2025-09-20)
 - [Starship will soon fly over towns and cities, but will dodge the biggest ones](https://arstechnica.com/space/2025/09/starship-will-soon-fly-over-towns-and-cities-but-will-dodge-the-biggest-ones/) (2025-09-20)
 - [In a win for science, NASA told to use House budget as shutdown looms](https://arstechnica.com/space/2025/09/amid-budget-uncertainty-nasa-gets-some-good-news-use-house-funding-levels/) (2025-09-19)
 - [After a very slow start, Europe’s reusable rocket program shows signs of life](https://arstechnica.com/space/2025/09/after-a-very-slow-start-europes-reusable-rocket-program-shows-signs-of-life/) (2025-09-19)
-- [Bonkers CDC vaccine meeting ends with vote to keep COVID shot access](https://arstechnica.com/health/2025/09/bonkers-cdc-vaccine-meeting-ends-with-vote-to-keep-covid-shot-access/) (2025-09-19)
-- [Oklahoma’s big “TV nudes” scandal was… a Jackie Chan movie on a Samsung streaming service](https://arstechnica.com/culture/2025/09/oklahomas-big-tv-nudes-scandal-was-a-jackie-chan-movie-on-a-samsung-streaming-service/) (2025-09-19)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [picoCTF RPS writeup](https://dev.to/hitanshugedam/picoctf-rps-writeup-365k) (2025-09-20)
-- [The NKTm Unit in the NKTg Law (Varying Inertia)](https://dev.to/thenktlaw/the-nktm-unit-in-the-nktg-law-varying-inertia-54e6) (2025-09-20)
-- [Engineering for Longevity: How to Build Software That Survives Hype Cycles](https://dev.to/sonia_bobrik_1939cdddd79d/engineering-for-longevity-how-to-build-software-that-survives-hype-cycles-mdk) (2025-09-20)
-- [Template Your Own Clean, Precise Boilerplate Code: No AI, No Wallet Drain. Part 3 – Enough Theory, Now We Code](https://dev.to/georgekobaidze/template-your-own-clean-precise-boilerplate-code-no-ai-no-wallet-drain-part-3-enough-theory-1e0b) (2025-09-20)
-- [IGN: GTA 6 and Witcher 4 Prove the Console Wars Are Over, Base PS5 Won.](https://dev.to/gg_news/ign-gta-6-and-witcher-4-prove-the-console-wars-are-over-base-ps5-won-4mjp) (2025-09-20)
+- ["Your Profile Doesn't Match the Role" and Other Interview Horror Stories](https://dev.to/alvaromontoro/your-profile-doesnt-match-the-role-and-other-interview-horror-stories-3alh) (2025-09-20)
+- [The Game Theorists: Game Theory: I Made Minecraft’s Suspicious Stew in REAL LIFE](https://dev.to/gg_news/the-game-theorists-game-theory-i-made-minecrafts-suspicious-stew-in-real-life-1im8) (2025-09-20)
+- [GameSpot: LEGO Batman: Legacy of the Dark Knight - Official Batman Day Behind the Scenes Trailer](https://dev.to/gg_news/gamespot-lego-batman-legacy-of-the-dark-knight-official-batman-day-behind-the-scenes-trailer-4a44) (2025-09-20)
+- [IGN: LEGO Batman: Legacy of the Dark Knight - Official 'Batman Day 2025' Behind the Scenes Clip](https://dev.to/gg_news/ign-lego-batman-legacy-of-the-dark-knight-official-batman-day-2025-behind-the-scenes-clip-9o9) (2025-09-20)
+- [Inside Modulax Infra: EVM RPC, Blockscout, and Wallet Indexing](https://dev.to/modulaxorg/inside-modulax-infra-evm-rpc-blockscout-and-wallet-indexing-475i) (2025-09-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [“Everyone at GitHub Must Use AI Tools” — CEO Thomas Dohmke’s Bold Rule](https://techpaathshala.medium.com/everyone-at-github-must-use-ai-tools-ceo-thomas-dohmkes-bold-rule-2c97ea56e50c?source=rss------programming-5) (2025-09-20)
-- [0903.509.2568](https://medium.com/@r17478461/0903-509-2568-a210ca049dd8?source=rss------programming-5) (2025-09-20)
-- [Forget Learning 10 Frameworks — Master These Core CS Concepts Instead](https://medium.com/@cleanCompile/forget-learning-10-frameworks-master-these-core-cs-concepts-instead-ce374427ac60?source=rss------programming-5) (2025-09-20)
-- [Why Every NFT Project Is Technically Identical (The Copy-Paste Economy)](https://coinsbench.com/why-every-nft-project-is-technically-identical-the-copy-paste-economy-e531cd9b76bc?source=rss------programming-5) (2025-09-20)
-- [My Next.js Stack of Choice: Security with Arcjet](https://medium.com/@joseph.goins/my-next-js-stack-of-choice-security-with-arcjet-ff85285d5059?source=rss------programming-5) (2025-09-20)
+- [09013027390](https://medium.com/@hsnngar87/09013027390-4a15020ae1cb?source=rss------programming-5) (2025-09-20)
+- [09013027390](https://medium.com/@hsnngar87/09013027390-968ad5225e65?source=rss------programming-5) (2025-09-20)
+- [09013027390](https://medium.com/@hsnngar87/09013027390-ecc1d6168b12?source=rss------programming-5) (2025-09-20)
+- [09013027390](https://medium.com/@hsnngar50/09013027390-08263879239a?source=rss------programming-5) (2025-09-20)
+- [09013027390](https://medium.com/@hsnngar50/09013027390-6c57e7f07d19?source=rss------programming-5) (2025-09-20)
 
 </details>
 
@@ -568,22 +568,33 @@ https://www.twilio.com/en-us/blog/how-to-schedule-a-text-message
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Building LLM Apps That Can See, Think, and Integrate: Using o3 with Multimodal Input and Structured Output](https://towardsdatascience.com/building-llm-apps-that-can-see-think-and-integrate-using-o3-with-multimodal-input-and-structured-output/) (2025-09-20)
+- [The SyncNet Research Paper, Clearly Explained](https://towardsdatascience.com/syncnet-paper-easily-explained/) (2025-09-20)
 - [Deploying a PICO Extractor in Five Steps](https://towardsdatascience.com/deploying-a-pico-extractor-in-five-steps-lessons-learned-deploying-a-domain-specific-ner-model/) (2025-09-19)
 - [An Interactive Guide to 4 Fundamental Computer Vision Tasks Using Transformers](https://towardsdatascience.com/an-interactive-guide-to-4-fundamental-computer-vision-tasks-using-transformers/) (2025-09-19)
 - [How to Select the 5 Most Relevant Documents for AI Search](https://towardsdatascience.com/how-to-select-the-5-most-relevant-documents-for-ai-search/) (2025-09-19)
-- [TDS Newsletter: How to Make Smarter Business Decisions with AI](https://towardsdatascience.com/tds-newsletter-how-to-make-smarter-business-decisions-with-ai/) (2025-09-19)
-- [How I Built and Deployed an App in 2 days with Lovable, Supabase, and Netlify](https://towardsdatascience.com/how-i-built-and-deployed-an-app-in-2-days-with-lovable-supabase-and-netlify/) (2025-09-18)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Efficiently Updating LLM Weights: A Deep Dive into MoonshotAI’s Checkpoint-Engine](https://www.analyticsvidhya.com/blog/2025/09/checkpoint-engine/) (2025-09-20)
 - [I Made a PPT in 10 Minutes Using Gamma 3.0 AI and it is Unbelievable!](https://www.analyticsvidhya.com/blog/2025/09/gamma-3-0/) (2025-09-19)
 - [I Built an App Using Nano Banana: Selfie with a Celeb](https://www.analyticsvidhya.com/blog/2025/09/nano-banana-app/) (2025-09-18)
 - [Is it Safe to Use Nano Banana?](https://www.analyticsvidhya.com/blog/2025/09/is-it-safe-to-use-nano-banana/) (2025-09-17)
 - [700 Million People Use ChatGPT Weekly: Here’s What They’re Doing With It!](https://www.analyticsvidhya.com/blog/2025/09/top-chatgpt-use-prompts/) (2025-09-17)
-- [I Tried GPT-5 Codex and Here is Why You Must Too!](https://www.analyticsvidhya.com/blog/2025/09/gpt-5-codex/) (2025-09-17)
+
+</details>
+
+<details>
+<summary>💎 KDnuggets</summary>
+
+- [Beginner’s Guide to Data Analysis with Polars](https://www.kdnuggets.com/beginners-guide-to-data-analysis-with-polars) (2025-09-19)
+- [Top 10 Free API Providers for Data Science Projects](https://www.kdnuggets.com/top-10-free-api-providers-for-data-science-projects) (2025-09-19)
+- [A Gentle Introduction to vLLM for Serving](https://www.kdnuggets.com/a-gentle-introduction-to-vllm-for-serving) (2025-09-18)
+- [5 Tips for Building Useful Streamlit Dashboards in Minutes](https://www.kdnuggets.com/5-tips-for-building-useful-streamlit-dashboards-in-minutes) (2025-09-18)
+- [Airtable + GPT: Prototyping a Lightweight RAG System with No-Code Tools](https://www.kdnuggets.com/airtable-gpt-prototyping-a-lightweight-rag-system-with-no-code-tools) (2025-09-17)
 
 </details>
 
