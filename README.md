@@ -20,20 +20,20 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Google isn’t kidding around about cost cutting, even slashing its FT subscription](https://techcrunch.com/2025/09/19/google-isnt-kidding-around-about-cost-cutting-even-slashing-its-ft-subscription/) (2025-09-20)
+- [Trump hits H-1B visas with $100,000 fee, targeting the program that launched Elon Musk and Instagram](https://techcrunch.com/2025/09/19/trump-hits-h-1b-visas-with-100000-fee-targeting-the-program-that-launched-elon-musk-and-instagram/) (2025-09-20)
 - [Why California’s SB 53 might provide a meaningful check on big AI companies](https://techcrunch.com/2025/09/19/why-californias-sb-53-might-provide-a-meaningful-check-on-big-ai-companies/) (2025-09-19)
 - [Nvidia eyes $500M investment into self-driving tech startup Wayve](https://techcrunch.com/2025/09/19/nvidia-eyes-500m-investment-into-self-driving-tech-startup-wayve/) (2025-09-19)
 - [Cracking product-market fit: Lessons from founders and investors at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/19/crack-the-code-to-startup-traction-with-insights-from-chef-robotics-nea-and-iconiq-at-techcrunch-disrupt-2025/) (2025-09-19)
-- [Best Apple Watch apps for boosting your productivity](https://techcrunch.com/2025/09/19/best-apple-watch-apps-for-boosting-your-productivity/) (2025-09-19)
-- [TechCrunch’s Equity podcast is on video, starting today](https://techcrunch.com/2025/09/19/techcrunchs-equity-podcast-is-on-video-starting-today/) (2025-09-19)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Disney+ cancellation page crashes as customers rush to quit](https://creators.yahoo.com/lifestyle/story/disney-cancellation-page-crashes-as-customers-rush-to-quit-after-kimmel-suspension-033512277.html) (2025-09-20)
-- [Restriction on Entry of Certain Nonimmigrant Workers](https://www.whitehouse.gov/presidential-actions/2025/09/restriction-on-entry-of-certain-nonimmigrant-workers/) (2025-09-19)
-- [Less is safer: how Obsidian reduces the risk of supply chain attacks](https://obsidian.md/blog/less-is-safer/) (2025-09-19)
+- [High-performance read-through cache for object storage](https://github.com/s2-streamstore/cachey) (2025-09-20)
+- [Supporting Our AI Overlords: Redesigning Data Systems to Be Agent-First](https://arxiv.org/abs/2509.00997) (2025-09-20)
+- [Less is safer: How Obsidian reduces the risk of supply chain attacks](https://obsidian.md/blog/less-is-safer/) (2025-09-19)
 - [Show HN: Zedis – A Redis clone I'm writing in Zig](https://github.com/barddoo/zedis) (2025-09-19)
 - [Hidden risk in Notion 3.0 AI agents: Web search tool abuse for data exfiltration](https://www.codeintegrity.ai/blog/notion) (2025-09-19)
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Starship will soon fly over towns and cities, but will dodge the biggest ones](https://arstechnica.com/space/2025/09/starship-will-soon-fly-over-towns-and-cities-but-will-dodge-the-biggest-ones/) (2025-09-20)
 - [In a win for science, NASA told to use House budget as shutdown looms](https://arstechnica.com/space/2025/09/amid-budget-uncertainty-nasa-gets-some-good-news-use-house-funding-levels/) (2025-09-19)
 - [After a very slow start, Europe’s reusable rocket program shows signs of life](https://arstechnica.com/space/2025/09/after-a-very-slow-start-europes-reusable-rocket-program-shows-signs-of-life/) (2025-09-19)
 - [Bonkers CDC vaccine meeting ends with vote to keep COVID shot access](https://arstechnica.com/health/2025/09/bonkers-cdc-vaccine-meeting-ends-with-vote-to-keep-covid-shot-access/) (2025-09-19)
 - [Oklahoma’s big “TV nudes” scandal was… a Jackie Chan movie on a Samsung streaming service](https://arstechnica.com/culture/2025/09/oklahomas-big-tv-nudes-scandal-was-a-jackie-chan-movie-on-a-samsung-streaming-service/) (2025-09-19)
-- [Microsoft raises Xbox console prices for the second time this year](https://arstechnica.com/gaming/2025/09/microsoft-raises-xbox-console-prices-for-the-second-time-this-year/) (2025-09-19)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building My Own CLI Tool: A Better Way to Share Code with LLMs](https://dev.to/jongwan93/building-my-own-cli-tool-a-better-way-to-share-code-with-llms-1708) (2025-09-20)
-- [How to Contribute a Feature to Someone Else's Repository](https://dev.to/whyang9701/how-to-contribute-a-feature-to-someone-elses-repository-2lo) (2025-09-20)
-- [Type of changing software](https://dev.to/kittichanr/type-of-changing-software-16km) (2025-09-20)
-- [[Boost]](https://dev.to/miss_mrf7/-n58) (2025-09-20)
-- [Anyone Know anything about rawdrawandroid or c bionic for #Android as I would Like to build for Android without using #java?](https://dev.to/1negroup/anyone-know-anything-about-rawdrawandroid-or-c-bionic-for-android-as-i-would-like-to-build-for-360o) (2025-09-20)
+- [Python Variables: A Complete Beginner's Guide with Examples & Best Practices](https://dev.to/satyam_gupta_0d1ff2152dcc/python-variables-a-complete-beginners-guide-with-examples-best-practices-2hi2) (2025-09-20)
+- [My first UI based Rust application - A Skip Counter - created using iced UI library...](https://dev.to/sommukhopadhyay/my-first-ui-based-rust-application-a-skip-counter-created-using-iced-ui-library-1eb2) (2025-09-20)
+- [Python Comments: The Ultimate Guide to Writing Clean, Effective Code](https://dev.to/satyam_gupta_0d1ff2152dcc/python-comments-the-ultimate-guide-to-writing-clean-effective-code-ndi) (2025-09-20)
+- [React Component Testing: Best Practices for 2025 🧪](https://dev.to/tahamjp/react-component-testing-best-practices-for-2025-2674) (2025-09-20)
+- [Things to do when bored for seniors without internet](https://dev.to/hue_thuc_d3821160dbf5e3c1/things-to-do-when-bored-for-seniors-without-internet-3h0o) (2025-09-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Python Power Scripts for Everyday Development](https://medium.com/technology-core/python-power-scripts-for-everyday-development-2e4a274f008a?source=rss------programming-5) (2025-09-20)
-- [I Built a Python Bot That Monitors Air Quality in My Room and Warns Me](https://medium.com/codrift/i-built-a-python-bot-that-monitors-air-quality-in-my-room-and-warns-me-565034ddf428?source=rss------programming-5) (2025-09-20)
-- [Why Everybody Uses Git and GitHub](https://medium.com/@a.benazizariyadh/why-everybody-uses-git-and-github-bd0452053bc6?source=rss------programming-5) (2025-09-20)
-- [Spring Boot Auto-Configuration: A Deep Dive into Internals](https://medium.com/@sunil17bbmp/spring-boot-auto-configuration-a-deep-dive-into-internals-1ccfd7be66bb?source=rss------programming-5) (2025-09-20)
-- [09013027390](https://medium.com/@ishsjssjwnju/09013027390-0dd50f10e2e8?source=rss------programming-5) (2025-09-20)
+- [9 Python Libraries That Replace Expensive Analytics Tools](https://medium.com/codrift/9-python-libraries-that-replace-expensive-analytics-tools-efeb16202b7b?source=rss------programming-5) (2025-09-20)
+- [Beginner C LeetCode Problem: Running Sum Explained (Writeup #1)](https://infosecwriteups.com/beginner-c-leetcode-problem-running-sum-explained-writeup-1-4b6783a5bd7b?source=rss------programming-5) (2025-09-20)
+- [10 AI Experiments That Changed How I Think About Technology](https://medium.com/codrift/10-ai-experiments-that-changed-how-i-think-about-technology-23c98cab214f?source=rss------programming-5) (2025-09-20)
+- [Debouncing vs Throttling: The Only 3 Rules That Matter](https://medium.com/@premchandak_11/debouncing-vs-throttling-the-only-3-rules-that-matter-2c0b05e682d9?source=rss------programming-5) (2025-09-20)
+- [What started as a CSV cleanup hack became a paid product](https://medium.com/codrift/what-started-as-a-csv-cleanup-hack-became-a-paid-product-6737a42b4f6b?source=rss------programming-5) (2025-09-20)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Inside the world’s most powerful AI datacenter](https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/) (2025-09-18)
-- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms ](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms/) (2025-09-18)
-- [Agent Factory: Creating a blueprint for safe and secure AI agents](https://azure.microsoft.com/en-us/blog/agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents/) (2025-09-17)
-- [Azure Kubernetes Service Automatic: Fast and frictionless Kubernetes for all](https://azure.microsoft.com/en-us/blog/azure-kubernetes-service-automatic-fast-and-frictionless-kubernetes-for-all/) (2025-09-16)
 - [FabCon Vienna: Build data-rich agents on an enterprise-ready foundation](https://www.microsoft.com/en-us/microsoft-fabric/blog/2025/09/16/fabcon-vienna-build-data-rich-agents-on-an-enterprise-ready-foundation) (2025-09-16)
+- [Accelerating AI and databases with Azure Container Storage, now 7 times faster and open source](https://azure.microsoft.com/en-us/blog/accelerating-ai-and-databases-with-azure-container-storage-now-7-times-faster-and-open-source/) (2025-09-15)
+- [Agent Factory: Connecting agents, apps, and data with new open standards like MCP and A2A](https://azure.microsoft.com/en-us/blog/agent-factory-connecting-agents-apps-and-data-with-new-open-standards-like-mcp-and-a2a/) (2025-09-10)
+- [Ask Ralph: Where style meets AI—a new era of conversational commerce](https://www.microsoft.com/en-us/industry/blog/retail/2025/09/09/ask-ralph-where-style-meets-ai-a-new-era-of-conversational-commerce/) (2025-09-09)
+- [Azure mandatory multifactor authentication: Phase 2 starting in October 2025](https://azure.microsoft.com/en-us/blog/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/) (2025-09-05)
 
 </details>
 
