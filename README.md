@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [White House offers more details about potential TikTok deal](https://techcrunch.com/2025/09/20/white-house-offers-more-details-about-potential-tiktok-deal/) (2025-09-20)
+- [Trump hits H-1B visas with $100,000 fee, targeting the program that launched Elon Musk and Instagram](https://techcrunch.com/2025/09/20/trump-hits-h-1b-visas-with-100000-fee-targeting-the-program-that-launched-elon-musk-and-instagram/) (2025-09-20)
+- [Amazon, Google, Microsoft reportedly warn H-1B employees to stay in the US](https://techcrunch.com/2025/09/20/amazon-google-microsoft-warn-h-1b-employees-to-stay-in-the-us/) (2025-09-20)
 - [How Phoebe Gates and Sophia Kianni used Gen Z methods to raise $8M for Phia](https://techcrunch.com/2025/09/20/how-phoebe-gates-and-sophia-kianni-used-gen-z-methods-to-raise-8m-for-phia/) (2025-09-20)
 - [Updates to Studio, YouTube Live, new gen AI tools, and everything else announced at Made on YouTube](https://techcrunch.com/2025/09/20/updates-to-studio-youtube-live-new-gen-ai-tools-and-everything-else-announced-at-made-on-youtube/) (2025-09-20)
-- [Lincoln Center’s Collider Fellows explore how tech could transform the performing arts](https://techcrunch.com/2025/09/20/lincoln-centers-collider-fellows-explore-how-tech-could-transform-the-performing-arts/) (2025-09-20)
-- [Only 7 days left to save on TechCrunch Disrupt 2025 tickets — lock in Regular Bird pricing now](https://techcrunch.com/2025/09/20/only-7-days-left-to-save-on-techcrunch-disrupt-2025-tickets-lock-in-regular-bird-pricing-now/) (2025-09-20)
-- [Google isn’t kidding around about cost cutting, even slashing its FT subscription](https://techcrunch.com/2025/09/19/google-isnt-kidding-around-about-cost-cutting-even-slashing-its-ft-subscription/) (2025-09-20)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Seattle Ultrasonics: Ultrasonic Chef's Knife](https://seattleultrasonics.com/) (2025-09-20)
-- [Are Touchscreens in Cars Dangerous?](https://www.economist.com/science-and-technology/2025/09/19/are-touchscreens-in-cars-dangerous) (2025-09-20)
-- [Is Zig's New Writer Unsafe?](https://www.openmymind.net/Is-Zigs-New-Io-Unsafe/) (2025-09-20)
-- [Cormac McCarthy's tips on how to write a science paper (2019) [pdf]](https://gwern.net/doc/science/2019-savage.pdf) (2025-09-20)
-- [What Makes System Calls Expensive: A Linux Internals Deep Dive](https://blog.codingconfessions.com/p/what-makes-system-calls-expensive) (2025-09-20)
+- [macOS becomes iOS: Safari video controls](https://underpassapp.com/news/2025/9/8.html) (2025-09-20)
+- [Teen Suspect Surrenders in 2023 Las Vegas Casino Cyberattack Case](https://www.casino.org/news/teen-suspect-surrenders-in-2023-las-vegas-strip-cyberattack-case/) (2025-09-20)
+- [Bazel and Glibc Versions](https://blogsystem5.substack.com/p/glibc-versions-bazel) (2025-09-20)
+- [Why do some gamers invert their controls?](https://www.theguardian.com/games/2025/sep/18/why-do-some-gamers-invert-their-controls-scientists-now-have-answers-but-theyre-not-what-you-think) (2025-09-20)
+- [$2 WeAct Display FS adds a 0.96-inch USB information display to your computer](https://www.cnx-software.com/2025/09/18/2-weact-display-fs-adds-a-0-96-inch-usb-information-display-to-your-computer/) (2025-09-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Amazon, Google, and Microsoft warn employees to rush back to the US](https://www.theverge.com/news/782258/amazon-google-microsoft-warn-h-1b-employees-return-to-the-us) (2025-09-20)
 - [Trump announces skilled worker visas will now cost $100,000](https://www.theverge.com/news/782251/trump-h-1b-skilled-worker-visas-cost-100000) (2025-09-20)
 - [Prime members can get three months of Kindle Unlimited for free](https://www.theverge.com/tech/782073/kindle-unlimited-subscription-ipad-m3-deal-sale) (2025-09-20)
 - [The wafer-thin iPhone Air is surprisingly strong](https://www.theverge.com/tech/782245/iphone-air-jerryrigeverything-durability-test) (2025-09-20)
 - [Republicans’ political purge is just getting started](https://www.theverge.com/policy/781974/charlie-kirk-free-speech-legal-attacks) (2025-09-20)
-- [The US government is taking a second stab at breaking up Google](https://www.theverge.com/policy/782029/google-doj-ad-tech-remedies-trial-break-up) (2025-09-20)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- ["Your Profile Doesn't Match the Role" and Other Interview Horror Stories](https://dev.to/alvaromontoro/your-profile-doesnt-match-the-role-and-other-interview-horror-stories-3alh) (2025-09-20)
-- [The Game Theorists: Game Theory: I Made Minecraft’s Suspicious Stew in REAL LIFE](https://dev.to/gg_news/the-game-theorists-game-theory-i-made-minecrafts-suspicious-stew-in-real-life-1im8) (2025-09-20)
-- [GameSpot: LEGO Batman: Legacy of the Dark Knight - Official Batman Day Behind the Scenes Trailer](https://dev.to/gg_news/gamespot-lego-batman-legacy-of-the-dark-knight-official-batman-day-behind-the-scenes-trailer-4a44) (2025-09-20)
-- [IGN: LEGO Batman: Legacy of the Dark Knight - Official 'Batman Day 2025' Behind the Scenes Clip](https://dev.to/gg_news/ign-lego-batman-legacy-of-the-dark-knight-official-batman-day-2025-behind-the-scenes-clip-9o9) (2025-09-20)
-- [Inside Modulax Infra: EVM RPC, Blockscout, and Wallet Indexing](https://dev.to/modulaxorg/inside-modulax-infra-evm-rpc-blockscout-and-wallet-indexing-475i) (2025-09-20)
+- [Terraform for DevOps Engineers: Complete Beginner’s Guide](https://dev.to/srinivasamcjf/terraform-for-devops-engineers-complete-beginners-guide-j86) (2025-09-21)
+- [My First GKE Experience - GKE Turns 10 Hackathon.](https://dev.to/jerrod_kim_3809262f7f2543/my-first-gke-experience-gke-turns-10-hackathon-1m9f) (2025-09-21)
+- [Angular 20 Interview Questions and Answers (2025) – Part 4: Standalone Components, Angular Elements & Micro Frontends](https://dev.to/paaarth/angular-20-interview-questions-and-answers-2025-part-4-standalone-components-angular-elements-458g) (2025-09-21)
+- [My vscode theme based on Monokai](https://dev.to/adriantaf/my-vscode-theme-based-on-monokai-19b2) (2025-09-21)
+- [How to Render Emojis and International Text on Images with Python](https://dev.to/francozanardi/how-to-render-emojis-and-international-text-on-images-with-python-31ok) (2025-09-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09013027390](https://medium.com/@hsnngar87/09013027390-4a15020ae1cb?source=rss------programming-5) (2025-09-20)
-- [09013027390](https://medium.com/@hsnngar87/09013027390-968ad5225e65?source=rss------programming-5) (2025-09-20)
-- [09013027390](https://medium.com/@hsnngar87/09013027390-ecc1d6168b12?source=rss------programming-5) (2025-09-20)
-- [09013027390](https://medium.com/@hsnngar50/09013027390-08263879239a?source=rss------programming-5) (2025-09-20)
-- [09013027390](https://medium.com/@hsnngar50/09013027390-6c57e7f07d19?source=rss------programming-5) (2025-09-20)
+- [7 JavaScript Mistakes I Kept Repeating (Until They Cost Me Real Money)](https://javascript.plainenglish.io/7-javascript-mistakes-i-kept-repeating-until-they-cost-me-real-money-0f94c491dce0?source=rss------programming-5) (2025-09-21)
+- [Building Dynamic and Scalable Applications](https://javascript.plainenglish.io/building-dynamic-and-scalable-applications-8781d6be440e?source=rss------programming-5) (2025-09-21)
+- [The JavaScript Automation I Built That Started Paying Me Rent](https://javascript.plainenglish.io/the-javascript-automation-i-built-that-started-paying-me-rent-b896d4a2758b?source=rss------programming-5) (2025-09-21)
+- [Mistakes Senior C# Developers Make — Hard-Won Lessons](https://medium.com/inside-the-if/mistakes-senior-c-developers-make-hard-won-lessons-bdbb454376f2?source=rss------programming-5) (2025-09-21)
+- [7 Advanced TypeScript Template Literal Patterns That Eliminate Runtime Errors Before Production](https://medium.techkoalainsights.com/7-advanced-typescript-template-literal-patterns-that-eliminate-runtime-errors-before-production-22175dd851a1?source=rss------programming-5) (2025-09-21)
 
 </details>
 
@@ -373,6 +373,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Holiday Email Marketing Best Practices for 2025 (and Beyond)
+](
+https://www.twilio.com/en-us/blog/insights/planning-ahead-for-your-holiday-email-sending
+) (2025-09-19)
+- [
 Big Changes Are Coming to the Gmail Inbox
 ](
 https://www.twilio.com/en-us/blog/insights/gmail-inbox-changes
@@ -391,11 +396,6 @@ https://www.twilio.com/en-us/blog/insights/siloes-platforms-security-teams-closi
 Vibe Coding with an Agent and Twilio SMS
 ](
 https://www.twilio.com/en-us/blog/developers/vibe-coding-with-an-agent-and-twilio-sms
-) (2025-09-17)
-- [
-How to schedule a text message on iPhone and Android
-](
-https://www.twilio.com/en-us/blog/how-to-schedule-a-text-message
 ) (2025-09-17)
 
 </details>
