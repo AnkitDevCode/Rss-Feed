@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [macOS becomes iOS: Safari video controls](https://underpassapp.com/news/2025/9/8.html) (2025-09-20)
-- [Teen Suspect Surrenders in 2023 Las Vegas Casino Cyberattack Case](https://www.casino.org/news/teen-suspect-surrenders-in-2023-las-vegas-strip-cyberattack-case/) (2025-09-20)
-- [Bazel and Glibc Versions](https://blogsystem5.substack.com/p/glibc-versions-bazel) (2025-09-20)
-- [Why do some gamers invert their controls?](https://www.theguardian.com/games/2025/sep/18/why-do-some-gamers-invert-their-controls-scientists-now-have-answers-but-theyre-not-what-you-think) (2025-09-20)
-- [$2 WeAct Display FS adds a 0.96-inch USB information display to your computer](https://www.cnx-software.com/2025/09/18/2-weact-display-fs-adds-a-0-96-inch-usb-information-display-to-your-computer/) (2025-09-20)
+- [Representing Heterogeneous Data (2023)](https://journal.stuffwithstuff.com/2023/08/04/representing-heterogeneous-data/) (2025-09-21)
+- [Spectral Labs releases SGS-1: the first generative model for structured CAD](https://www.spectrallabs.ai/research/SGS-1) (2025-09-21)
+- [iFixit iPhone Air teardown](https://www.ifixit.com/News/113171/iphone-air-teardown) (2025-09-21)
+- [Ask HN: Radar and radio failures at Dallas area airports](https://news.ycombinator.com/item?id=45319496) (2025-09-21)
+- [Amazon to end commingling after years of complaints from brands and sellers](https://www.modernretail.co/operations/amazon-to-end-commingling-program-after-years-of-complaints-from-brands-and-sellers/) (2025-09-21)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Terraform for DevOps Engineers: Complete Beginner’s Guide](https://dev.to/srinivasamcjf/terraform-for-devops-engineers-complete-beginners-guide-j86) (2025-09-21)
-- [My First GKE Experience - GKE Turns 10 Hackathon.](https://dev.to/jerrod_kim_3809262f7f2543/my-first-gke-experience-gke-turns-10-hackathon-1m9f) (2025-09-21)
-- [Angular 20 Interview Questions and Answers (2025) – Part 4: Standalone Components, Angular Elements & Micro Frontends](https://dev.to/paaarth/angular-20-interview-questions-and-answers-2025-part-4-standalone-components-angular-elements-458g) (2025-09-21)
-- [My vscode theme based on Monokai](https://dev.to/adriantaf/my-vscode-theme-based-on-monokai-19b2) (2025-09-21)
-- [How to Render Emojis and International Text on Images with Python](https://dev.to/francozanardi/how-to-render-emojis-and-international-text-on-images-with-python-31ok) (2025-09-21)
+- [The feature flags](https://dev.to/umangmittal/the-feature-flags-39c6) (2025-09-21)
+- [Kiro Did It! – From Prompt to Customer API Using Vibe Coding!](https://dev.to/bhatiagirish/kiro-did-it-from-prompt-to-customer-api-using-vibe-coding-5hil) (2025-09-21)
+- [From Junior to Pro: Mastering Code Design with S.O.L.I.D.](https://dev.to/umangmittal/from-junior-to-pro-mastering-code-design-with-solid-4nhh) (2025-09-21)
+- [🎭✨ Bringing Interfaces to Life with Theatre.js ✨🎭](https://dev.to/dmsmenula/bringing-interfaces-to-life-with-theatrejs-3apm) (2025-09-21)
+- [Part-74: Implement a Regional External Network Load balancer with TCP Proxy in GCP Cloud](https://dev.to/latchudevops/part-74-implement-a-regional-external-network-load-balancer-with-tcp-proxy-in-gcp-cloud-5a5k) (2025-09-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [7 JavaScript Mistakes I Kept Repeating (Until They Cost Me Real Money)](https://javascript.plainenglish.io/7-javascript-mistakes-i-kept-repeating-until-they-cost-me-real-money-0f94c491dce0?source=rss------programming-5) (2025-09-21)
-- [Building Dynamic and Scalable Applications](https://javascript.plainenglish.io/building-dynamic-and-scalable-applications-8781d6be440e?source=rss------programming-5) (2025-09-21)
-- [The JavaScript Automation I Built That Started Paying Me Rent](https://javascript.plainenglish.io/the-javascript-automation-i-built-that-started-paying-me-rent-b896d4a2758b?source=rss------programming-5) (2025-09-21)
-- [Mistakes Senior C# Developers Make — Hard-Won Lessons](https://medium.com/inside-the-if/mistakes-senior-c-developers-make-hard-won-lessons-bdbb454376f2?source=rss------programming-5) (2025-09-21)
-- [7 Advanced TypeScript Template Literal Patterns That Eliminate Runtime Errors Before Production](https://medium.techkoalainsights.com/7-advanced-typescript-template-literal-patterns-that-eliminate-runtime-errors-before-production-22175dd851a1?source=rss------programming-5) (2025-09-21)
+- [Mastering Python Iterators and Generators](https://python.plainenglish.io/mastering-python-iterators-and-generators-88b8ee85286c?source=rss------programming-5) (2025-09-21)
+- [Python Skills I’m Glad I Learned Early](https://python.plainenglish.io/python-skills-im-glad-i-learned-early-b348352b8222?source=rss------programming-5) (2025-09-21)
+- [Why Python Still Dominates the Programming World](https://python.plainenglish.io/why-python-still-dominates-the-programming-world-5ca3ca36973d?source=rss------programming-5) (2025-09-21)
+- [The Trick I Used to Shrink My Python CLI Tool From 120 MB to 12 MB](https://python.plainenglish.io/the-trick-i-used-to-shrink-my-python-cli-tool-from-120-mb-to-12-mb-43674e03d707?source=rss------programming-5) (2025-09-21)
+- [What Writing Python Bindings for C++ Showed Me About Performance](https://python.plainenglish.io/what-writing-python-bindings-for-c-showed-me-about-performance-67435562bf8a?source=rss------programming-5) (2025-09-21)
 
 </details>
 
@@ -135,17 +135,6 @@
 - [Agent Factory: Connecting agents, apps, and data with new open standards like MCP and A2A](https://azure.microsoft.com/en-us/blog/agent-factory-connecting-agents-apps-and-data-with-new-open-standards-like-mcp-and-a2a/) (2025-09-10)
 - [Ask Ralph: Where style meets AI—a new era of conversational commerce](https://www.microsoft.com/en-us/industry/blog/retail/2025/09/09/ask-ralph-where-style-meets-ai-a-new-era-of-conversational-commerce/) (2025-09-09)
 - [Azure mandatory multifactor authentication: Phase 2 starting in October 2025](https://azure.microsoft.com/en-us/blog/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/) (2025-09-05)
-
-</details>
-
-<details>
-<summary>🎮 NVIDIA Blog</summary>
-
-- [AI On: How Onboarding Teams of AI Agents Drives Productivity and Revenue for Businesses](https://blogs.nvidia.com/blog/onboarding-teams-ai-agents-productivity-revenue-businesses/) (2025-09-19)
-- [The UK’s ‘Goldilocks Moment for AI’: NVIDIA, UK and US Leaders Highlight AI Infrastructure Investments](https://blogs.nvidia.com/blog/uk-ai-ecosystem-celebration/) (2025-09-18)
-- [NVIDIA Blackwell: Born for Extreme-Scale AI Inference](https://blogs.nvidia.com/blog/blackwell-ai-inference/) (2025-09-18)
-- [GeForce NOW Unleashes ‘Dying Light: The Beast’ in the Cloud](https://blogs.nvidia.com/blog/geforce-now-thursday-dying-light-the-beast/) (2025-09-18)
-- [Meet the Streamlabs Streaming Assistant, Accelerated by NVIDIA RTX](https://blogs.nvidia.com/blog/rtx-ai-garage-logitech-streamlabs-agent/) (2025-09-17)
 
 </details>
 
