@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Representing Heterogeneous Data (2023)](https://journal.stuffwithstuff.com/2023/08/04/representing-heterogeneous-data/) (2025-09-21)
-- [Spectral Labs releases SGS-1: the first generative model for structured CAD](https://www.spectrallabs.ai/research/SGS-1) (2025-09-21)
-- [iFixit iPhone Air teardown](https://www.ifixit.com/News/113171/iphone-air-teardown) (2025-09-21)
-- [Ask HN: Radar and radio failures at Dallas area airports](https://news.ycombinator.com/item?id=45319496) (2025-09-21)
-- [Amazon to end commingling after years of complaints from brands and sellers](https://www.modernretail.co/operations/amazon-to-end-commingling-program-after-years-of-complaints-from-brands-and-sellers/) (2025-09-21)
+- [Meta exposé author faces bankruptcy after ban on criticising company](https://www.theguardian.com/technology/2025/sep/21/meta-expose-author-sarah-wynn-williams-faces-bankruptcy-after-ban-on-criticising-company) (2025-09-21)
+- [Yangwang U9 Xtreme hits 308mph(496km/h), becomes fastest production car](https://www.topgear.com/car-news/electric/yangwang-u9-xtreme-hits-308mph-becomes-worlds-fastest-ever-production-car) (2025-09-21)
+- [They Thought They Were Free (1955)](https://press.uchicago.edu/Misc/Chicago/511928.html) (2025-09-21)
+- [Universities should be more than toll gates](https://www.waliddib.com/posts/universities-should-be-more-than-toll-gates/) (2025-09-21)
+- [Vibe coding cleanup as a service](https://donado.co/en/articles/2025-09-16-vibe-coding-cleanup-as-a-service/) (2025-09-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Why PlayStation and Xbox are no longer about the station or the box](https://www.theverge.com/column/781303/microsoft-sony-playstation-xbox-future-of-gaming-console) (2025-09-21)
+- [The best smart glasses got a little better](https://www.theverge.com/tech/782118/meta-smart-glasses-notion-3-skate-installer) (2025-09-21)
 - [Amazon, Google, and Microsoft warn employees to rush back to the US](https://www.theverge.com/news/782258/amazon-google-microsoft-warn-h-1b-employees-return-to-the-us) (2025-09-20)
 - [Trump announces skilled worker visas will now cost $100,000](https://www.theverge.com/news/782251/trump-h-1b-skilled-worker-visas-cost-100000) (2025-09-20)
 - [Prime members can get three months of Kindle Unlimited for free](https://www.theverge.com/tech/782073/kindle-unlimited-subscription-ipad-m3-deal-sale) (2025-09-20)
-- [The wafer-thin iPhone Air is surprisingly strong](https://www.theverge.com/tech/782245/iphone-air-jerryrigeverything-durability-test) (2025-09-20)
-- [Republicans’ political purge is just getting started](https://www.theverge.com/policy/781974/charlie-kirk-free-speech-legal-attacks) (2025-09-20)
 
 </details>
 
@@ -97,22 +97,25 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The feature flags](https://dev.to/umangmittal/the-feature-flags-39c6) (2025-09-21)
-- [Kiro Did It! – From Prompt to Customer API Using Vibe Coding!](https://dev.to/bhatiagirish/kiro-did-it-from-prompt-to-customer-api-using-vibe-coding-5hil) (2025-09-21)
-- [From Junior to Pro: Mastering Code Design with S.O.L.I.D.](https://dev.to/umangmittal/from-junior-to-pro-mastering-code-design-with-solid-4nhh) (2025-09-21)
-- [🎭✨ Bringing Interfaces to Life with Theatre.js ✨🎭](https://dev.to/dmsmenula/bringing-interfaces-to-life-with-theatrejs-3apm) (2025-09-21)
-- [Part-74: Implement a Regional External Network Load balancer with TCP Proxy in GCP Cloud](https://dev.to/latchudevops/part-74-implement-a-regional-external-network-load-balancer-with-tcp-proxy-in-gcp-cloud-5a5k) (2025-09-21)
+- [Building Responsive Web Applications: A Modern Developer's Guide](https://dev.to/muhammmad_nawaz_d8ba895e1/building-responsive-web-applications-a-modern-developers-guide-38lk) (2025-09-21)
+- [Web Developer Travis McCracken on Effective GitHub Practices for Backend Teams](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-effective-github-practices-for-backend-teams-518b) (2025-09-21)
+- [# ☁️ Cloud Engineer vs 🔄 DevOps Engineer: Which Path Should You Take?](https://dev.to/jimmybillz/-cloud-engineer-vs-devops-engineer-which-path-should-you-take-211o) (2025-09-21)
+- [Got 678 users for my B2C SaaS in a month. When did you start charging for your SaaS?](https://dev.to/sisyph_4434/got-678-users-for-my-b2c-saas-in-a-month-when-did-you-start-charging-for-your-saas-38bn) (2025-09-21)
+- [A toutes les tours 20 de France](https://dev.to/s44d/a-toutes-les-tours-20-de-france-3n3e) (2025-09-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Mastering Python Iterators and Generators](https://python.plainenglish.io/mastering-python-iterators-and-generators-88b8ee85286c?source=rss------programming-5) (2025-09-21)
-- [Python Skills I’m Glad I Learned Early](https://python.plainenglish.io/python-skills-im-glad-i-learned-early-b348352b8222?source=rss------programming-5) (2025-09-21)
-- [Why Python Still Dominates the Programming World](https://python.plainenglish.io/why-python-still-dominates-the-programming-world-5ca3ca36973d?source=rss------programming-5) (2025-09-21)
-- [The Trick I Used to Shrink My Python CLI Tool From 120 MB to 12 MB](https://python.plainenglish.io/the-trick-i-used-to-shrink-my-python-cli-tool-from-120-mb-to-12-mb-43674e03d707?source=rss------programming-5) (2025-09-21)
-- [What Writing Python Bindings for C++ Showed Me About Performance](https://python.plainenglish.io/what-writing-python-bindings-for-c-showed-me-about-performance-67435562bf8a?source=rss------programming-5) (2025-09-21)
+- [09232174161شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@bnbbgiiiyrefvbgvvbheeyubvc/09232174161%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-5cf971448426?source=rss------programming-5) (2025-09-21)
+- [09232174161شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@bnbbgiiiyrefvbgvvbheeyubvc/09232174161%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-be33d460e89a?source=rss------programming-5) (2025-09-21)
+- [09232174161شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@bnbbgiiiyrefvbgvvbheeyubvc/09232174161%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-6c6ecbbf68a9?source=rss------programming-5) (2025-09-21)
+- [Are You Building a New Microservice? A Checklist Before Moving to Production](https://medium.com/@letslearnnow/are-you-building-a-new-microservice-a-checklist-before-moving-to-production-81817edbe7a4?source=rss------programming-5) (2025-09-21)
+- [09027641209شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز شماره خاله اهواز شماره خاله لاهیجان…](https://medium.com/@m31498184/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86-6674d9304941?source=rss------programming-5) (2025-09-21)
 
 </details>
 
@@ -130,11 +133,22 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Inside the world’s most powerful AI datacenter](https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/) (2025-09-18)
+- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms ](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms/) (2025-09-18)
+- [Agent Factory: Creating a blueprint for safe and secure AI agents](https://azure.microsoft.com/en-us/blog/agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents/) (2025-09-17)
+- [Azure Kubernetes Service Automatic: Fast and frictionless Kubernetes for all](https://azure.microsoft.com/en-us/blog/azure-kubernetes-service-automatic-fast-and-frictionless-kubernetes-for-all/) (2025-09-16)
 - [FabCon Vienna: Build data-rich agents on an enterprise-ready foundation](https://www.microsoft.com/en-us/microsoft-fabric/blog/2025/09/16/fabcon-vienna-build-data-rich-agents-on-an-enterprise-ready-foundation) (2025-09-16)
-- [Accelerating AI and databases with Azure Container Storage, now 7 times faster and open source](https://azure.microsoft.com/en-us/blog/accelerating-ai-and-databases-with-azure-container-storage-now-7-times-faster-and-open-source/) (2025-09-15)
-- [Agent Factory: Connecting agents, apps, and data with new open standards like MCP and A2A](https://azure.microsoft.com/en-us/blog/agent-factory-connecting-agents-apps-and-data-with-new-open-standards-like-mcp-and-a2a/) (2025-09-10)
-- [Ask Ralph: Where style meets AI—a new era of conversational commerce](https://www.microsoft.com/en-us/industry/blog/retail/2025/09/09/ask-ralph-where-style-meets-ai-a-new-era-of-conversational-commerce/) (2025-09-09)
-- [Azure mandatory multifactor authentication: Phase 2 starting in October 2025](https://azure.microsoft.com/en-us/blog/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/) (2025-09-05)
+
+</details>
+
+<details>
+<summary>🎮 NVIDIA Blog</summary>
+
+- [AI On: How Onboarding Teams of AI Agents Drives Productivity and Revenue for Businesses](https://blogs.nvidia.com/blog/onboarding-teams-ai-agents-productivity-revenue-businesses/) (2025-09-19)
+- [The UK’s ‘Goldilocks Moment for AI’: NVIDIA, UK and US Leaders Highlight AI Infrastructure Investments](https://blogs.nvidia.com/blog/uk-ai-ecosystem-celebration/) (2025-09-18)
+- [NVIDIA Blackwell: Born for Extreme-Scale AI Inference](https://blogs.nvidia.com/blog/blackwell-ai-inference/) (2025-09-18)
+- [GeForce NOW Unleashes ‘Dying Light: The Beast’ in the Cloud](https://blogs.nvidia.com/blog/geforce-now-thursday-dying-light-the-beast/) (2025-09-18)
+- [Meet the Streamlabs Streaming Assistant, Accelerated by NVIDIA RTX](https://blogs.nvidia.com/blog/rtx-ai-garage-logitech-streamlabs-agent/) (2025-09-17)
 
 </details>
 
@@ -502,11 +516,11 @@ https://www.twilio.com/en-us/blog/developers/vibe-coding-with-an-agent-and-twili
 <details>
 <summary>💬 Slack API</summary>
 
+- [How to Create a Mind Map: Examples, Benefits, and Uses](https://slack.com/blog/collaboration/how-to-create-a-mind-map-examples-benefits-and-uses) (2025-09-19)
+- [Capacity Planning 101: Balance Workloads and Boost Team Productivity](https://slack.com/blog/productivity/capacity-planning-101-balance-workloads-and-boost-team-productivity) (2025-09-19)
 - [Standard Operating Procedure Templates: What They Are and How to Use Them Effectively](https://slack.com/blog/productivity/standard-operating-procedure-templates-why-theyre-important-and-how-to-create-one) (2025-09-12)
 - [Streamline Note-Taking with Board Meeting Minutes Templates](https://slack.com/blog/productivity/better-board-meeting-minutes) (2025-09-12)
 - [A Research-Backed Sales Playbook for Connecting Slack and Salesforce](https://slack.com/blog/productivity/connecting-slack-salesforce-sales-playbook) (2025-09-11)
-- [15 Team Meeting Ideas That Help Employees Stay Focused](https://slack.com/blog/collaboration/engaging-team-meetings) (2025-09-10)
-- [Agile and Scrum: Definitions, Differences, and Examples](https://slack.com/blog/collaboration/agile-vs-scrum) (2025-09-10)
 
 </details>
 
