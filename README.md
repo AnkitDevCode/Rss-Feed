@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Powered by India’s small businesses, UK fintech Tide becomes a TPG-backed unicorn](https://techcrunch.com/2025/09/21/powered-by-indias-small-businesses-uk-fintech-tide-becomes-a-tpg-backed-unicorn/) (2025-09-22)
 - [VCs are still hiring MBAs, but firms are starting to need other experience more](https://techcrunch.com/2025/09/21/vcs-are-still-hiring-mbas-but-firms-are-starting-to-need-other-experience-more/) (2025-09-21)
 - [Trump says Lachlan and Rupert Murdoch might invest in TikTok deal](https://techcrunch.com/2025/09/21/white-house-offers-more-details-about-potential-tiktok-deal/) (2025-09-21)
 - [Silicon Valley bets big on ‘environments’ to train AI agents](https://techcrunch.com/2025/09/21/silicon-valley-bets-big-on-environments-to-train-ai-agents/) (2025-09-21)
 - [TechCrunch Mobility: The two robotaxi battlegrounds that matter](https://techcrunch.com/2025/09/21/techcrunch-mobility-the-two-robotaxi-battlegrounds-that-matter/) (2025-09-21)
-- [Hundreds of flights delayed at Heathrow and other airports after apparent cyberattack](https://techcrunch.com/2025/09/21/hundreds-of-flights-delayed-at-heathrow-and-other-airports-after-apparent-cyberattack/) (2025-09-21)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Be Careful with Go Struct Embedding](https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html) (2025-09-21)
-- [Why is Venus hell and Earth an Eden?](https://www.quantamagazine.org/why-is-venus-hell-and-earth-an-eden-20250915/) (2025-09-21)
-- [EU to block Big Tech from new financial data sharing system](https://www.ft.com/content/6596876f-c831-482c-878c-78c1499ef543) (2025-09-21)
-- [Zig got a new ELF linker and it's fast](https://github.com/ziglang/zig/pull/25299) (2025-09-21)
-- [How can I influence others without manipulating them?](https://andiroberts.com/leadership-questions/how-to-influence-others-without-manipulating) (2025-09-21)
+- [Privacy and Security Risks in the eSIM Ecosystem [pdf]](https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf) (2025-09-22)
+- [The US Is Tracking 14 Potential Rabies Outbreaks in 20 States](https://www.accuweather.com/en/health-wellness/the-us-is-tracking-14-potential-rabies-outbreaks-in-20-states-heres-what-to-know/1817668) (2025-09-22)
+- [South Korea's President says US investment demands would spark financial crisis](https://www.cnbc.com/2025/09/21/south-koreas-president-lee-trump-investment-financial-crisis.html) (2025-09-22)
+- [Seattle, Tech Boomtown, Grapples with a Future of Fewer Tech Jobs](https://www.wsj.com/tech/seattle-tech-amazon-microsoft-jobs-95f2db27) (2025-09-22)
+- [DSM Disorders Disappear in Statistical Clustering of Psychiatric Symptoms (2024)](https://www.psychiatrymargins.com/p/traditional-dsm-disorders-dissolve?r=2wyot6&triedRedirect=true) (2025-09-22)
 
 </details>
 
@@ -97,25 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [7 Tips for Securing SSH Key Management on Linux Servers](https://dev.to/ramer2b58cbe46bc8/7-tips-for-securing-ssh-key-management-on-linux-servers-4kjn) (2025-09-22)
-- [Go Reflection: Taming Memory Costs for High-Performance Apps](https://dev.to/jones_charles_ad50858dbc0/go-reflection-taming-memory-costs-for-high-performance-apps-5f6e) (2025-09-22)
-- [Self-Hosting Listmonk with Coolify: Your Own Newsletter Platform in Minutes](https://dev.to/jaskarandeogan/self-hosting-listmonk-with-coolify-your-own-newsletter-platform-in-minutes-50j1) (2025-09-22)
-- [Stop the Code Chaos: Git Stash Checkpoints for Claude Code](https://dev.to/ztor2/prevent-claude-code-from-destroying-your-project-setting-up-a-git-stash-based-checkpoint-1721) (2025-09-22)
-- [AI Comedy: A New Era of Hilarious Content](https://dev.to/sebastian_reid999/ai-comedy-a-new-era-of-hilarious-content-40j2) (2025-09-22)
+- [Global Event Bus in Vue](https://dev.to/jacobandrewsky/global-event-bus-in-vue-16bl) (2025-09-22)
+- [What You Really Need Is Event-Based Laravel](https://dev.to/raheelshan/what-you-really-need-is-event-based-laravel-37a4) (2025-09-22)
+- [01. Pengenenalan Pemrograman Mobile](https://dev.to/sandatya_widhi_ce7cb1c809/01-pengenenalan-pemrogramanmobile-2d5d) (2025-09-22)
+- [Anthropic Economic Index – September 2025 📈](https://dev.to/techstuff/anthropic-economic-index-september-2025-1h55) (2025-09-22)
+- [Python Tuples: The Ultimate Guide to Immutable Sequences](https://dev.to/satyam_gupta_0d1ff2152dcc/python-tuples-the-ultimate-guide-to-immutable-sequences-4lpf) (2025-09-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09051012897شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@yyuffdygmailcom/09051012897%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-3ff99dc561a2?source=rss------programming-5) (2025-09-22)
-- [09051012897شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@yyuffdygmailcom/09051012897%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-4ae78b73d92f?source=rss------programming-5) (2025-09-22)
-- [09022190941](https://medium.com/@fariba25cx/09022190941-3ac5f22e5fe4?source=rss------programming-5) (2025-09-22)
-- [09051012897شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@yyuffdygmailcom/09051012897%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-1a33effceb75?source=rss------programming-5) (2025-09-22)
-- [09022190941](https://medium.com/@fariba25cx/09022190941-cde99853aa25?source=rss------programming-5) (2025-09-22)
+- [[TIL — 7일차] 데이터 엔지니어링: 파이썬으로 웹 데이터를 크롤하고 분석하기 (2)](https://medium.com/@seonggil/til-7%EC%9D%BC%EC%B0%A8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EC%9B%B9-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%ED%81%AC%EB%A1%A4%ED%95%98%EA%B3%A0-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0-2-2432ed894fb1?source=rss------programming-5) (2025-09-22)
+- [Call Intent - Android Studio - Compose](https://medium.com/@atifsayings/call-intent-android-studio-compose-23ca191d87a9?source=rss------programming-5) (2025-09-22)
+- [Why Learning Linux is So Frustrating (And How to Make It Easy)](https://aws.plainenglish.io/why-learning-linux-is-so-frustrating-and-how-to-make-it-easy-a1f2c8d6a5cd?source=rss------programming-5) (2025-09-22)
+- [Marketing Strategie You Can’t Afford to Ignore in 2026](https://dropshipecombeacon.medium.com/marketing-strategie-you-cant-afford-to-ignore-in-2026-9761c94f330d?source=rss------programming-5) (2025-09-22)
+- [I Swapped Node for Rust in My Backend — And Paid the Price](https://medium.com/@Krishnajlathi/i-swapped-node-for-rust-in-my-backend-and-paid-the-price-1cc95dcf87b0?source=rss------programming-5) (2025-09-22)
 
 </details>
 
@@ -133,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Inside the world’s most powerful AI datacenter](https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/) (2025-09-18)
+- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms ](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms/) (2025-09-18)
+- [Agent Factory: Creating a blueprint for safe and secure AI agents](https://azure.microsoft.com/en-us/blog/agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents/) (2025-09-17)
+- [Azure Kubernetes Service Automatic: Fast and frictionless Kubernetes for all](https://azure.microsoft.com/en-us/blog/azure-kubernetes-service-automatic-fast-and-frictionless-kubernetes-for-all/) (2025-09-16)
 - [FabCon Vienna: Build data-rich agents on an enterprise-ready foundation](https://www.microsoft.com/en-us/microsoft-fabric/blog/2025/09/16/fabcon-vienna-build-data-rich-agents-on-an-enterprise-ready-foundation) (2025-09-16)
-- [Accelerating AI and databases with Azure Container Storage, now 7 times faster and open source](https://azure.microsoft.com/en-us/blog/accelerating-ai-and-databases-with-azure-container-storage-now-7-times-faster-and-open-source/) (2025-09-15)
-- [Agent Factory: Connecting agents, apps, and data with new open standards like MCP and A2A](https://azure.microsoft.com/en-us/blog/agent-factory-connecting-agents-apps-and-data-with-new-open-standards-like-mcp-and-a2a/) (2025-09-10)
-- [Ask Ralph: Where style meets AI—a new era of conversational commerce](https://www.microsoft.com/en-us/industry/blog/retail/2025/09/09/ask-ralph-where-style-meets-ai-a-new-era-of-conversational-commerce/) (2025-09-09)
-- [Azure mandatory multifactor authentication: Phase 2 starting in October 2025](https://azure.microsoft.com/en-us/blog/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/) (2025-09-05)
 
 </details>
 
