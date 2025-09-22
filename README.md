@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Commonwealth Fusion Systems books a $1B+ power deal for its future fusion reactor](https://techcrunch.com/2025/09/22/commonwealth-fusion-systems-books-a-1b-power-deal-for-its-future-fusion-reactor/) (2025-09-22)
 - [Powered by India’s small businesses, UK fintech Tide becomes a TPG-backed unicorn](https://techcrunch.com/2025/09/21/powered-by-indias-small-businesses-uk-fintech-tide-becomes-a-tpg-backed-unicorn/) (2025-09-22)
 - [VCs are still hiring MBAs, but firms are starting to need other experience more](https://techcrunch.com/2025/09/21/vcs-are-still-hiring-mbas-but-firms-are-starting-to-need-other-experience-more/) (2025-09-21)
 - [Trump says Lachlan and Rupert Murdoch might invest in TikTok deal](https://techcrunch.com/2025/09/21/white-house-offers-more-details-about-potential-tiktok-deal/) (2025-09-21)
 - [Silicon Valley bets big on ‘environments’ to train AI agents](https://techcrunch.com/2025/09/21/silicon-valley-bets-big-on-environments-to-train-ai-agents/) (2025-09-21)
-- [TechCrunch Mobility: The two robotaxi battlegrounds that matter](https://techcrunch.com/2025/09/21/techcrunch-mobility-the-two-robotaxi-battlegrounds-that-matter/) (2025-09-21)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Privacy and Security Risks in the eSIM Ecosystem [pdf]](https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf) (2025-09-22)
-- [The US Is Tracking 14 Potential Rabies Outbreaks in 20 States](https://www.accuweather.com/en/health-wellness/the-us-is-tracking-14-potential-rabies-outbreaks-in-20-states-heres-what-to-know/1817668) (2025-09-22)
-- [South Korea's President says US investment demands would spark financial crisis](https://www.cnbc.com/2025/09/21/south-koreas-president-lee-trump-investment-financial-crisis.html) (2025-09-22)
-- [Seattle, Tech Boomtown, Grapples with a Future of Fewer Tech Jobs](https://www.wsj.com/tech/seattle-tech-amazon-microsoft-jobs-95f2db27) (2025-09-22)
-- [DSM Disorders Disappear in Statistical Clustering of Psychiatric Symptoms (2024)](https://www.psychiatrymargins.com/p/traditional-dsm-disorders-dissolve?r=2wyot6&triedRedirect=true) (2025-09-22)
+- [Tesla coast-to-coast FSD crashes after 60 miles](https://electrek.co/2025/09/21/tesla-influencers-tried-elon-musk-coast-to-coast-self-driving-crashed-before-60-miles/) (2025-09-22)
+- [Kmart's use of facial recognition to tackle refund fraud unlawful](https://www.oaic.gov.au/news/media-centre/18-kmarts-use-of-facial-recognition-to-tackle-refund-fraud-unlawful,-privacy-commissioner-finds) (2025-09-22)
+- [Tell the EU: Don't Break Encryption with "Chat Control"](https://www.mozillafoundation.org/en/campaigns/tell-the-eu-dont-break-encryption-with-chat-control/) (2025-09-22)
+- [M4.6 Earthquake – 2 km ESE of Berkeley, CA](https://earthquake.usgs.gov/earthquakes/eventpage/ew1758534970/executive) (2025-09-22)
+- [LinkedIn will soon train AI models with data from European users](https://hostvix.com/linkedin-will-soon-train-ai-models-with-data-from-european-users/) (2025-09-22)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The foldable iPhone might look like two iPhone Airs stuck together](https://www.theverge.com/news/782366/foldable-details-iphone-air-ifixit-teardown) (2025-09-21)
-- [The touchscreen MacBook rumors are never ending](https://www.theverge.com/news/782302/touchscreen-oled-macbook-rumors) (2025-09-21)
-- [Montblanc is getting into the digital notepad game](https://www.theverge.com/news/782288/montblanc-is-getting-into-the-digital-notepad-game) (2025-09-21)
-- [A jury will decide if Amazon illegally tricked people into paying for Prime](https://www.theverge.com/policy/782197/amazon-prime-ftc-consumer-protection-trial) (2025-09-21)
-- [Trump&#8217;s H-1B visa fee isn&#8217;t just about immigration, it&#8217;s about fealty](https://www.theverge.com/report/782289/trumps-h-1b-visa-fee-isnt-about-immigration-its-about-fealty) (2025-09-21)
+- [Books that changed our lives](https://www.theverge.com/tech/774085/books-that-changed-our-lives) (2025-09-22)
+- [The best fall desk upgrades](https://www.theverge.com/tech/771798/fall-desk-upgrades) (2025-09-22)
+- [Apple&#8217;s iPhone 17 Pro can be easily scratched](https://www.theverge.com/news/782393/apple-iphone-17-series-easily-scratched-anodized) (2025-09-22)
+- [Windows 11 is getting a video wallpaper feature](https://www.theverge.com/news/782383/microsoft-windows-11-video-wallpapers) (2025-09-22)
+- [Silent Hill F has two killer ingredients: mystery and rage](https://www.theverge.com/games/782012/silent-hill-f-review-ps5-xbox-steam) (2025-09-22)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: the LLM will see you now, and a new fusion power deal](https://www.technologyreview.com/2025/09/22/1123889/the-download-the-llm-will-see-you-now-and-a-new-fusion-power-deal/) (2025-09-22)
+- [An oil and gas giant signed a $1 billion deal with Commonwealth Fusion Systems](https://www.technologyreview.com/2025/09/22/1123870/commonwealth-fusion-eni/) (2025-09-22)
+- [This medical startup uses LLMs to run appointments and make diagnoses](https://www.technologyreview.com/2025/09/22/1123873/medical-diagnosis-llm/) (2025-09-22)
 - [The Download: the CDC’s vaccine chaos](https://www.technologyreview.com/2025/09/19/1123860/the-download-the-cdcs-vaccine-chaos/) (2025-09-19)
 - [A pivotal meeting on vaccine guidance is underway—and former CDC leaders are alarmed](https://www.technologyreview.com/2025/09/18/1123844/meeting-vaccine-guidance-former-cdc-leaders-alarmed/) (2025-09-18)
-- [The Download: AI-designed viruses, and bad news for the hydrogen industry](https://www.technologyreview.com/2025/09/18/1123830/the-download-ai-designed-viruses-and-bad-news-for-the-hydrogen-industry/) (2025-09-18)
-- [Clean hydrogen is facing a big reality check](https://www.technologyreview.com/2025/09/18/1123818/hydrogen-reality-check-china/) (2025-09-18)
-- [AI-designed viruses are here and already killing bacteria](https://www.technologyreview.com/2025/09/17/1123801/ai-virus-bacteriophage-life/) (2025-09-17)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Global Event Bus in Vue](https://dev.to/jacobandrewsky/global-event-bus-in-vue-16bl) (2025-09-22)
-- [What You Really Need Is Event-Based Laravel](https://dev.to/raheelshan/what-you-really-need-is-event-based-laravel-37a4) (2025-09-22)
-- [01. Pengenenalan Pemrograman Mobile](https://dev.to/sandatya_widhi_ce7cb1c809/01-pengenenalan-pemrogramanmobile-2d5d) (2025-09-22)
-- [Anthropic Economic Index – September 2025 📈](https://dev.to/techstuff/anthropic-economic-index-september-2025-1h55) (2025-09-22)
-- [Python Tuples: The Ultimate Guide to Immutable Sequences](https://dev.to/satyam_gupta_0d1ff2152dcc/python-tuples-the-ultimate-guide-to-immutable-sequences-4lpf) (2025-09-22)
+- [How I Watched the UX Skills Hustle Eat My Friends Alive (And Almost Got Me Too)](https://dev.to/dnskwork/how-i-watched-the-ux-skills-hustle-eat-my-friends-alive-and-almost-got-me-too-4fni) (2025-09-22)
+- [API Gateway vs Varnish for API Security & Traffic Control](https://dev.to/harshit_sharma_83a1c3b54e/api-gateway-vs-varnish-for-api-security-traffic-control-n24) (2025-09-22)
+- [Liman Miço Kurulumu](https://dev.to/erenalpteksen/liman-mico-kurulumu-mo9) (2025-09-22)
+- [Web Developer Travis McCracken on Why I Use Rust for Stateless Microservices](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-why-i-use-rust-for-stateless-microservices-2g6p) (2025-09-22)
+- [How to Set Up Ollama: Install, Download Models, and Run LLMs Locally](https://dev.to/sophyia/how-to-set-up-ollama-install-download-models-and-run-llms-locally-2542) (2025-09-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [[TIL — 7일차] 데이터 엔지니어링: 파이썬으로 웹 데이터를 크롤하고 분석하기 (2)](https://medium.com/@seonggil/til-7%EC%9D%BC%EC%B0%A8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EC%9B%B9-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%ED%81%AC%EB%A1%A4%ED%95%98%EA%B3%A0-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0-2-2432ed894fb1?source=rss------programming-5) (2025-09-22)
-- [Call Intent - Android Studio - Compose](https://medium.com/@atifsayings/call-intent-android-studio-compose-23ca191d87a9?source=rss------programming-5) (2025-09-22)
-- [Why Learning Linux is So Frustrating (And How to Make It Easy)](https://aws.plainenglish.io/why-learning-linux-is-so-frustrating-and-how-to-make-it-easy-a1f2c8d6a5cd?source=rss------programming-5) (2025-09-22)
-- [Marketing Strategie You Can’t Afford to Ignore in 2026](https://dropshipecombeacon.medium.com/marketing-strategie-you-cant-afford-to-ignore-in-2026-9761c94f330d?source=rss------programming-5) (2025-09-22)
-- [I Swapped Node for Rust in My Backend — And Paid the Price](https://medium.com/@Krishnajlathi/i-swapped-node-for-rust-in-my-backend-and-paid-the-price-1cc95dcf87b0?source=rss------programming-5) (2025-09-22)
+- [How kiosks help new users open accounts without staff help.](https://medium.com/@panashisolutions/how-kiosks-help-new-users-open-accounts-without-staff-help-6fa5f771b8e5?source=rss------programming-5) (2025-09-22)
+- [Your 2025 Survival Guide: 50+ Coding Interview Questions That Still Matter](https://medium.com/@pudarimadhavi99/your-2025-survival-guide-50-coding-interview-questions-that-still-matter-5e0cdff4003d?source=rss------programming-5) (2025-09-22)
+- [5 Common Mistakes Developers Make While Writing APIs (and How to Avoid Them)](https://medium.com/@mestirousyadav/5-common-mistakes-developers-make-while-writing-apis-and-how-to-avoid-them-e5db788aa8e7?source=rss------programming-5) (2025-09-22)
+- [Could TypeScript Outgrow JavaScript Altogether?](https://shivanjalispritualguidance.medium.com/could-typescript-outgrow-javascript-altogether-0e839b14ab86?source=rss------programming-5) (2025-09-22)
+- [ Node.js in 2025: Mistakes Even Senior Developers Must Avoid](https://medium.com/@TheblogStacker/node-js-in-2025-mistakes-even-senior-developers-must-avoid-2a6bec5cbe50?source=rss------programming-5) (2025-09-22)
 
 </details>
 
@@ -546,55 +546,55 @@ https://www.twilio.com/en-us/blog/developers/vibe-coding-with-an-agent-and-twili
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Gaia2 and ARE: Empowering the community to study agents](https://huggingface.co/blog/gaia2) (2025-09-22)
 - [Scaleway on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/inference-providers-scaleway) (2025-09-19)
 - [Democratizing AI Safety with RiskRubric.ai](https://huggingface.co/blog/riskrubric) (2025-09-18)
 - [Public AI on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/inference-providers-publicai) (2025-09-17)
 - [`LeRobotDataset`: Bringing large-scale datasets to lerobot](https://huggingface.co/blog/lerobot-datasets-v3) (2025-09-16)
-- [Visible Watermarking with Gradio](https://huggingface.co/blog/watermarking-with-gradio) (2025-09-15)
 
 </details>
 
 <details>
 <summary>🤖 AI News</summary>
 
+- [How BMC can be the ‘orchestrator of orchestrators’ for enterprise agentic AI](https://www.artificialintelligence-news.com/news/how-bmc-can-be-the-orchestrator-of-orchestrators-for-enterprise-agentic-ai/) (2025-09-22)
 - [TechEx Europe 2025: Practical learnings for AI leaders](https://www.artificialintelligence-news.com/news/techex-europe-2025-practical-learnings-for-ai-leaders/) (2025-09-19)
 - [Christian Spindeldreher, Dell Technologies: Powering AI at scale](https://www.artificialintelligence-news.com/news/christian-spindeldreher-dell-technologies-powering-ai-at-scale/) (2025-09-19)
 - [Trump jokes about AI while US and UK sign new tech deal](https://www.artificialintelligence-news.com/news/trump-jokes-about-ai-while-us-and-uk-sign-new-tech-deal/) (2025-09-19)
 - [Huawei announces new Ascend chips, to power world’s most powerful clusters](https://www.artificialintelligence-news.com/news/huawei-announces-new-ascend-chips-to-power-worlds-most-powerful-clusters/) (2025-09-18)
-- [AI-enabled threats and stricter regulation in France](https://www.artificialintelligence-news.com/news/ai-enabled-threats-and-stricter-regulation-in-france/) (2025-09-17)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Theory of Universal Computation: Bayesian Optimality, Solomonoff Induction & AIXI](https://towardsdatascience.com/the-theory-of-universal-computation-bayesian-optimality-solomonoff-induction-aixi/) (2025-09-22)
 - [Data Visualization Explained: What It Is and Why It Matters](https://towardsdatascience.com/data-visualization-explained-what-it-is-and-why-it-matters/) (2025-09-21)
 - [Python Can Now Call Mojo](https://towardsdatascience.com/python-can-now-call-mojo/) (2025-09-21)
 - [Building LLM Apps That Can See, Think, and Integrate: Using o3 with Multimodal Input and Structured Output](https://towardsdatascience.com/building-llm-apps-that-can-see-think-and-integrate-using-o3-with-multimodal-input-and-structured-output/) (2025-09-20)
 - [The SyncNet Research Paper, Clearly Explained](https://towardsdatascience.com/syncnet-paper-easily-explained/) (2025-09-20)
-- [Deploying a PICO Extractor in Five Steps](https://towardsdatascience.com/deploying-a-pico-extractor-in-five-steps-lessons-learned-deploying-a-domain-specific-ner-model/) (2025-09-19)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [6 Nano Banana Projects to Try Out Today](https://www.analyticsvidhya.com/blog/2025/09/nano-banana-projects/) (2025-09-22)
 - [Github Repository for Top LLM Datasets](https://www.analyticsvidhya.com/blog/2025/09/github-repository-for-top-llm-datasets/) (2025-09-21)
 - [Efficiently Updating LLM Weights: A Deep Dive into MoonshotAI’s Checkpoint-Engine](https://www.analyticsvidhya.com/blog/2025/09/checkpoint-engine/) (2025-09-20)
 - [I Made a PPT in 10 Minutes Using Gamma 3.0 AI and it is Unbelievable!](https://www.analyticsvidhya.com/blog/2025/09/gamma-3-0/) (2025-09-19)
 - [I Built an App Using Nano Banana: Selfie with a Celeb](https://www.analyticsvidhya.com/blog/2025/09/nano-banana-app/) (2025-09-18)
-- [Is it Safe to Use Nano Banana?](https://www.analyticsvidhya.com/blog/2025/09/is-it-safe-to-use-nano-banana/) (2025-09-17)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [10 Python One-Liners to Optimize Your Hugging Face Transformers Pipelines](https://www.kdnuggets.com/10-python-one-liners-to-optimize-your-hugging-face-transformers-pipelines) (2025-09-22)
 - [Beginner’s Guide to Data Analysis with Polars](https://www.kdnuggets.com/beginners-guide-to-data-analysis-with-polars) (2025-09-19)
 - [Top 10 Free API Providers for Data Science Projects](https://www.kdnuggets.com/top-10-free-api-providers-for-data-science-projects) (2025-09-19)
 - [A Gentle Introduction to vLLM for Serving](https://www.kdnuggets.com/a-gentle-introduction-to-vllm-for-serving) (2025-09-18)
 - [5 Tips for Building Useful Streamlit Dashboards in Minutes](https://www.kdnuggets.com/5-tips-for-building-useful-streamlit-dashboards-in-minutes) (2025-09-18)
-- [Airtable + GPT: Prototyping a Lightweight RAG System with No-Code Tools](https://www.kdnuggets.com/airtable-gpt-prototyping-a-lightweight-rag-system-with-no-code-tools) (2025-09-17)
 
 </details>
 
@@ -623,11 +623,11 @@ https://www.twilio.com/en-us/blog/developers/vibe-coding-with-an-agent-and-twili
 <details>
 <summary>🧠 DeepMind Blog</summary>
 
-- [Discovering new solutions to century-old problems in fluid dynamics](https://deepmind.google/discover/blog/discovering-new-solutions-to-century-old-problems-in-fluid-dynamics/) (2025-09-18)
-- [Gemini achieves gold-level performance at the International Collegiate Programming Contest World Finals](https://deepmind.google/discover/blog/gemini-achieves-gold-level-performance-at-the-international-collegiate-programming-contest-world-finals/) (2025-09-17)
-- [Using AI to perceive the universe in greater depth](https://deepmind.google/discover/blog/using-ai-to-perceive-the-universe-in-greater-depth/) (2025-09-04)
-- [Image editing in Gemini just got a major upgrade](https://deepmind.google/discover/blog/image-editing-in-gemini-just-got-a-major-upgrade/) (2025-08-26)
-- [Introducing Gemma 3 270M: The compact model for hyper-efficient AI](https://deepmind.google/discover/blog/introducing-gemma-3-270m-the-compact-model-for-hyper-efficient-ai/) (2025-08-14)
+- [Discovering new solutions to century-old problems in fluid dynamics](https://d1f9a8b-dot-gdm-deepmind-com-prod.appspot.com/discover/blog/discovering-new-solutions-to-century-old-problems-in-fluid-dynamics/) (2025-09-18)
+- [Gemini achieves gold-level performance at the International Collegiate Programming Contest World Finals](https://d1f9a8b-dot-gdm-deepmind-com-prod.appspot.com/discover/blog/gemini-achieves-gold-level-performance-at-the-international-collegiate-programming-contest-world-finals/) (2025-09-17)
+- [Using AI to perceive the universe in greater depth](https://d1f9a8b-dot-gdm-deepmind-com-prod.appspot.com/discover/blog/using-ai-to-perceive-the-universe-in-greater-depth/) (2025-09-04)
+- [Image editing in Gemini just got a major upgrade](https://d1f9a8b-dot-gdm-deepmind-com-prod.appspot.com/discover/blog/image-editing-in-gemini-just-got-a-major-upgrade/) (2025-08-26)
+- [Introducing Gemma 3 270M: The compact model for hyper-efficient AI](https://d1f9a8b-dot-gdm-deepmind-com-prod.appspot.com/discover/blog/introducing-gemma-3-270m-the-compact-model-for-hyper-efficient-ai/) (2025-08-14)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
