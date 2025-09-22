@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [VCs are still hiring MBAs, but firms are starting to need other experience more](https://techcrunch.com/2025/09/21/vcs-are-still-hiring-mbas-but-firms-are-starting-to-need-other-experience-more/) (2025-09-21)
+- [Trump says Lachlan and Rupert Murdoch might invest in TikTok deal](https://techcrunch.com/2025/09/21/white-house-offers-more-details-about-potential-tiktok-deal/) (2025-09-21)
+- [Silicon Valley bets big on ‘environments’ to train AI agents](https://techcrunch.com/2025/09/21/silicon-valley-bets-big-on-environments-to-train-ai-agents/) (2025-09-21)
 - [TechCrunch Mobility: The two robotaxi battlegrounds that matter](https://techcrunch.com/2025/09/21/techcrunch-mobility-the-two-robotaxi-battlegrounds-that-matter/) (2025-09-21)
 - [Hundreds of flights delayed at Heathrow and other airports after apparent cyberattack](https://techcrunch.com/2025/09/21/hundreds-of-flights-delayed-at-heathrow-and-other-airports-after-apparent-cyberattack/) (2025-09-21)
-- [Amazon, Google, Microsoft reportedly warn H-1B employees to stay in the US](https://techcrunch.com/2025/09/21/amazon-google-microsoft-warn-h-1b-employees-to-stay-in-the-us/) (2025-09-21)
-- [6 days left: Last chance for Regular Bird savings for TechCrunch Disrupt 2025 passes](https://techcrunch.com/2025/09/21/6-days-left-last-chance-for-regular-bird-pricing/) (2025-09-21)
-- [White House offers more details about potential TikTok deal](https://techcrunch.com/2025/09/20/white-house-offers-more-details-about-potential-tiktok-deal/) (2025-09-20)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Modern life makes us sick](https://www.theguardian.com/books/2025/sep/21/how-modern-life-makes-us-sick-and-what-to-do-about-it) (2025-09-21)
-- [The link between trauma, drug use, and our search to feel better](https://lithub.com/the-link-between-trauma-drug-use-and-our-search-to-feel-better/) (2025-09-21)
-- [President Trump Signs Technology Prosperity Deal with United Kingdom](https://www.whitehouse.gov/articles/2025/09/president-trump-signs-technology-prosperity-deal-with-united-kingdom/) (2025-09-21)
-- [Liberté, égalité, Radioactivité](https://worksinprogress.co/issue/liberte-egalite-radioactivite/) (2025-09-21)
-- [Sj.h: A tiny little JSON parsing library in ~150 lines of C99](https://github.com/rxi/sj.h) (2025-09-21)
+- [Be Careful with Go Struct Embedding](https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html) (2025-09-21)
+- [Why is Venus hell and Earth an Eden?](https://www.quantamagazine.org/why-is-venus-hell-and-earth-an-eden-20250915/) (2025-09-21)
+- [EU to block Big Tech from new financial data sharing system](https://www.ft.com/content/6596876f-c831-482c-878c-78c1499ef543) (2025-09-21)
+- [Zig got a new ELF linker and it's fast](https://github.com/ziglang/zig/pull/25299) (2025-09-21)
+- [How can I influence others without manipulating them?](https://andiroberts.com/leadership-questions/how-to-influence-others-without-manipulating) (2025-09-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The foldable iPhone might look like two iPhone Airs stuck together](https://www.theverge.com/news/782366/foldable-details-iphone-air-ifixit-teardown) (2025-09-21)
+- [The touchscreen MacBook rumors are never ending](https://www.theverge.com/news/782302/touchscreen-oled-macbook-rumors) (2025-09-21)
 - [Montblanc is getting into the digital notepad game](https://www.theverge.com/news/782288/montblanc-is-getting-into-the-digital-notepad-game) (2025-09-21)
 - [A jury will decide if Amazon illegally tricked people into paying for Prime](https://www.theverge.com/policy/782197/amazon-prime-ftc-consumer-protection-trial) (2025-09-21)
 - [Trump&#8217;s H-1B visa fee isn&#8217;t just about immigration, it&#8217;s about fealty](https://www.theverge.com/report/782289/trumps-h-1b-visa-fee-isnt-about-immigration-its-about-fealty) (2025-09-21)
-- [Why PlayStation and Xbox are no longer about the station or the box](https://www.theverge.com/column/781303/microsoft-sony-playstation-xbox-future-of-gaming-console) (2025-09-21)
-- [The best smart glasses got a little better](https://www.theverge.com/tech/782118/meta-smart-glasses-notion-3-skate-installer) (2025-09-21)
 
 </details>
 
@@ -97,22 +97,25 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [🔹 The Importance of AWS in Modern Cloud Computing 🔹](https://dev.to/hajixhayjhay/the-importance-of-aws-in-modern-cloud-computing-18b1) (2025-09-21)
-- [🔒 How Platforms Detect Fake Accounts & Inflated Likes 📊 Instagram, YouTube, Facebook Explained 👀](https://dev.to/ahmed_kadiwala/how-platforms-detect-fake-accounts-inflated-likes-instagram-youtube-facebook-explained-1fh8) (2025-09-21)
-- [DevOps by Doing: Setting Up a Complete Modern DevOps Environment — Part 2](https://dev.to/johnogbonna/devops-by-doing-setting-up-a-complete-modern-devops-environment-part-2-3pf1) (2025-09-21)
-- [First look to store manager](https://dev.to/george-hernz/first-look-to-store-manager-cep) (2025-09-21)
-- [COLORS: Souly | A COLORS SHOW](https://dev.to/music_youtube/colors-souly-a-colors-show-3f3g) (2025-09-21)
+- [7 Tips for Securing SSH Key Management on Linux Servers](https://dev.to/ramer2b58cbe46bc8/7-tips-for-securing-ssh-key-management-on-linux-servers-4kjn) (2025-09-22)
+- [Go Reflection: Taming Memory Costs for High-Performance Apps](https://dev.to/jones_charles_ad50858dbc0/go-reflection-taming-memory-costs-for-high-performance-apps-5f6e) (2025-09-22)
+- [Self-Hosting Listmonk with Coolify: Your Own Newsletter Platform in Minutes](https://dev.to/jaskarandeogan/self-hosting-listmonk-with-coolify-your-own-newsletter-platform-in-minutes-50j1) (2025-09-22)
+- [Stop the Code Chaos: Git Stash Checkpoints for Claude Code](https://dev.to/ztor2/prevent-claude-code-from-destroying-your-project-setting-up-a-git-stash-based-checkpoint-1721) (2025-09-22)
+- [AI Comedy: A New Era of Hilarious Content](https://dev.to/sebastian_reid999/ai-comedy-a-new-era-of-hilarious-content-40j2) (2025-09-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Docker Networking Explained: Basics and Beyond](https://arnab-k.medium.com/docker-networking-explained-basics-and-beyond-cb4f9ea0892d?source=rss------programming-5) (2025-09-21)
-- [When Your Claude Code Becomes Terribly Slow Over Time …](https://medium.com/@j.y.weng/when-your-claude-code-becomes-terribly-slow-over-time-cb9e11e50447?source=rss------programming-5) (2025-09-21)
-- [Is Starknet trying to be the “internet of blockchains” for Ethereum + Bitcoin?](https://medium.com/@AlexiaChukwuma/is-starknet-trying-to-be-the-internet-of-blockchains-for-ethereum-bitcoin-32bacbc7bd0a?source=rss------programming-5) (2025-09-21)
-- [Python for Audio Processing: Speech Recognition, Transformation, and Analysis](https://medium.com/codrift/python-for-audio-processing-speech-recognition-transformation-and-analysis-2101e22d7b06?source=rss------programming-5) (2025-09-21)
-- [What Actually Makes a “Senior” Java Developer?](https://medium.com/@ujjawalr/what-actually-makes-a-senior-java-developer-cbba665f87b3?source=rss------programming-5) (2025-09-21)
+- [09051012897شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@yyuffdygmailcom/09051012897%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-3ff99dc561a2?source=rss------programming-5) (2025-09-22)
+- [09051012897شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@yyuffdygmailcom/09051012897%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-4ae78b73d92f?source=rss------programming-5) (2025-09-22)
+- [09022190941](https://medium.com/@fariba25cx/09022190941-3ac5f22e5fe4?source=rss------programming-5) (2025-09-22)
+- [09051012897شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@yyuffdygmailcom/09051012897%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-1a33effceb75?source=rss------programming-5) (2025-09-22)
+- [09022190941](https://medium.com/@fariba25cx/09022190941-cde99853aa25?source=rss------programming-5) (2025-09-22)
 
 </details>
 
