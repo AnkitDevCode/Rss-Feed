@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Here’s what’s happening right now with the US TikTok deal](https://techcrunch.com/2025/09/22/heres-whats-happening-right-now-with-the-us-tiktok-deal/) (2025-09-22)
-- [The billion-dollar infrastructure deals powering the AI boom](https://techcrunch.com/2025/09/22/the-billion-dollar-infrastructure-deals-powering-the-ai-boom/) (2025-09-22)
-- [Nvidia plans to invest up to $100B in OpenAI](https://techcrunch.com/2025/09/22/nvidia-plans-to-invest-up-to-100b-in-openai/) (2025-09-22)
-- [Google’s Gemini AI is coming to your TV](https://techcrunch.com/2025/09/22/googles-gemini-ai-is-coming-to-your-tv/) (2025-09-22)
-- [Oracle promotes two presidents to co-CEO role](https://techcrunch.com/2025/09/22/oracle-promotes-two-presidents-to-co-ceo-role/) (2025-09-22)
+- [Mirror founder Brynn Putnam to unveil her gaming hardware startup at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/22/mirror-founder-brynn-putnam-to-unveil-her-gaming-hardware-startup-at-techcrunch-disrupt-2025/) (2025-09-22)
+- [Facebook is getting an AI dating assistant](https://techcrunch.com/2025/09/22/facebook-is-getting-an-ai-dating-assistant/) (2025-09-22)
+- [Stellantis cancels plans for an electrified Jeep Gladiator](https://techcrunch.com/2025/09/22/stellantis-cancels-plans-for-an-electrified-jeep-gladiator/) (2025-09-22)
+- [The Oakland Ballers let an AI manage the team. What could go wrong?](https://techcrunch.com/2025/09/22/the-oakland-ballers-let-an-ai-manage-the-team-what-could-go-wrong/) (2025-09-22)
+- [What Early-Stage Investors Really Look for in Founders at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/22/from-idea-to-first-check-raising-pre-seed-and-seed-capital-at-techcrunch-disrupt-2025/) (2025-09-22)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Mentra (YC W25) Is Hiring to build smart glasses](https://news.ycombinator.com/item?id=45336282) (2025-09-22)
-- [California issues historic fine over lawyer's ChatGPT fabrications](https://calmatters.org/economy/technology/2025/09/chatgpt-lawyer-fine-ai-regulation/) (2025-09-22)
-- [A board member's perspective of the RubyGems controversy](https://apiguy.substack.com/p/a-board-members-perspective-of-the) (2025-09-22)
-- [OpenAI and Nvidia announce partnership to deploy 10GW of Nvidia systems](https://openai.com/index/openai-nvidia-systems-partnership/) (2025-09-22)
-- [SWE-Bench Pro](https://github.com/scaleapi/SWE-bench_Pro-os) (2025-09-22)
+- [In Maine, prisoners are thriving in remote jobs, other states are taking notice](https://www.mainepublic.org/2025-08-29/in-maine-prisoners-are-thriving-in-remote-jobs-and-other-states-are-taking-notice) (2025-09-22)
+- [Federal judge lifts administration halt of offshore wind farm in New England](https://apnews.com/article/trump-renewable-energy-offshore-wind-revolution-wind-f1cbe85a829e3d5e5496f834bcb617d1) (2025-09-22)
+- [Paper2Agent: Stanford Reimagining Research Papers as Interactive AI Agents](https://arxiv.org/abs/2509.06917) (2025-09-22)
+- [Choose Your Own Adventure](https://www.filfre.net/2025/09/choose-your-own-adventure/) (2025-09-22)
+- [Diffusion Beats Autoregressive in Data-Constrained Settings](https://blog.ml.cmu.edu/2025/09/22/diffusion-beats-autoregressive-in-data-constrained-settings/) (2025-09-22)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free) (2025-09-22)
-- [The Steam Deck LCD is 20 percent off through October 6th](https://www.theverge.com/tech/782737/the-steam-deck-lcd-is-20-percent-off-through-october-6th) (2025-09-22)
-- [This is part of Disney&#8217;s legacy now](https://www.theverge.com/policy/781960/disney-jimmy-kimmel-disney-boycott-bob-iger-dana-walden) (2025-09-22)
-- [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals) (2025-09-22)
-- [The Trump administration just can’t stop leaking its chats](https://www.theverge.com/report/782655/trump-truth-social-pam-bondi-post-government-security) (2025-09-22)
+- [Palworld is getting a farming spinoff](https://www.theverge.com/news/782945/palworld-palfarm-farming-spinoff) (2025-09-23)
+- [Trump escalates crackdown by designating ‘Antifa’ a domestic terror group](https://www.theverge.com/news/783158/antifa-domestic-terror-designation-donald-trump) (2025-09-22)
+- [The AI-energy apocalypse might be a little overblown](https://www.theverge.com/report/782952/ai-electricity-demand-inflated-forecast-report) (2025-09-22)
+- [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide) (2025-09-22)
+- [Steam game removed after cryptostealer takes over $150K](https://www.theverge.com/news/782993/steam-blockblasters-crypto-scam-malware) (2025-09-22)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Three crashes in the first day? Tesla’s robotaxi test in Austin.](https://arstechnica.com/cars/2025/09/teslas-robotaxi-test-three-crashes-in-only-7000-miles/) (2025-09-22)
-- [Our fave Star Wars duo is back in Mandalorian and Grogu teaser](https://arstechnica.com/culture/2025/09/our-fave-star-wars-duo-is-back-in-mandalorian-and-grogu-teaser/) (2025-09-22)
-- [F1 in Azerbaijan: This sport is my red flag](https://arstechnica.com/cars/2025/09/f1-in-azerbaijan-this-sport-is-my-red-flag/) (2025-09-22)
-- [What climate targets? Top fossil fuel producing nations keep boosting output](https://arstechnica.com/science/2025/09/what-climate-targets-top-fossil-fuel-producing-nations-keep-boosting-output/) (2025-09-22)
-- [A history of the Internet, part 3: The rise of the user](https://arstechnica.com/gadgets/2025/09/a-history-of-the-internet-part-3-the-rise-of-the-user/) (2025-09-22)
+- [US intel officials “concerned” China will soon master reusable launch](https://arstechnica.com/space/2025/09/us-intel-officials-cite-reusable-launch-as-difference-maker-with-china/) (2025-09-22)
+- [How to fight censorship, one Disney+ cancellation at a time](https://arstechnica.com/culture/2025/09/kimmel-censorship-fiasco-shows-that-protests-still-matter-and-can-still-work/) (2025-09-22)
+- [NASA names 24th astronaut class, including prior SpaceX crew member](https://arstechnica.com/space/2025/09/nasa-names-24th-astronaut-class-including-prior-spacex-crew-member/) (2025-09-22)
+- [Anti-vaccine groups melt down over RFK Jr. linking autism to Tylenol](https://arstechnica.com/health/2025/09/anti-vaccine-groups-melt-down-over-reports-rfk-jr-to-link-autism-to-tylenol/) (2025-09-22)
+- [iFixit tears down the iPhone Air, finds that it’s mostly battery](https://arstechnica.com/gadgets/2025/09/iphone-air-teardown-reveals-a-phone-thats-more-durable-repairable-than-expected/) (2025-09-22)
 
 </details>
 
@@ -75,11 +75,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Our plan for a more secure npm supply chain](https://github.blog/security/supply-chain-security/our-plan-for-a-more-secure-npm-supply-chain/) (2025-09-23)
+- [Gartner positions GitHub as a Leader in the 2025 Magic Quadrant for AI Code Assistants for the second year in a row](https://github.blog/ai-and-ml/github-copilot/gartner-positions-github-as-a-leader-in-the-2025-magic-quadrant-for-ai-code-assistants-for-the-second-year-in-a-row/) (2025-09-22)
 - [What’s next for Git? 20 years in, the community is still pushing forward](https://github.blog/open-source/whats-next-for-git-20-years-in-the-community-is-still-pushing-forward/) (2025-09-22)
 - [5 ways to integrate GitHub Copilot coding agent into your workflow](https://github.blog/ai-and-ml/github-copilot/5-ways-to-integrate-github-copilot-coding-agent-into-your-workflow/) (2025-09-18)
 - [Meet the GitHub MCP Registry: The fastest way to discover MCP Servers](https://github.blog/ai-and-ml/github-copilot/meet-the-github-mcp-registry-the-fastest-way-to-discover-mcp-servers/) (2025-09-16)
-- [Post-quantum security for SSH access on GitHub](https://github.blog/engineering/platform-security/post-quantum-security-for-ssh-access-on-github/) (2025-09-15)
-- [Building personal apps with open source and AI](https://github.blog/open-source/maintainers/building-personal-apps-with-open-source-and-ai/) (2025-09-12)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building a Chat Interface: From Components to Conversation](https://dev.to/gazolla/building-a-chat-interface-from-components-to-conversation-53jc) (2025-09-22)
-- [Grant Horvat: Can I Beat Max Homa if I Start 5 Under Par?](https://dev.to/youtube_golf/grant-horvat-can-i-beat-max-homa-if-i-start-5-under-par-i91) (2025-09-22)
-- [GameSpot: SILENT HILL f | Official Launch Trailer](https://dev.to/gg_news/gamespot-silent-hill-f-official-launch-trailer-2cj0) (2025-09-22)
-- [GameSpot: Top Hat Studios' TGS Fall Showcase 2025](https://dev.to/gg_news/gamespot-top-hat-studios-tgs-fall-showcase-2025-20hc) (2025-09-22)
-- [GameSpot: Indie Fan Fest Fall 2025](https://dev.to/gg_news/gamespot-indie-fan-fest-fall-2025-4bo) (2025-09-22)
+- [Python: How to Encrypt and Decrypt with AES](https://dev.to/ankitmalikg/python-how-to-encrypt-and-decrypt-with-aes-4h1k) (2025-09-23)
+- [Introduction to Python Module Two Part Two Best Practices](https://dev.to/theoriginalbpc/introduction-to-python-module-two-part-two-best-practices-336b) (2025-09-23)
+- [ShadCN Rich Text Editor with Lexical + Lexkit](https://dev.to/codeideal/shadcn-rich-text-editor-with-lexical-lexkit-4gnm) (2025-09-23)
+- [Three.js: How to determine if a point is inside a box?](https://dev.to/handsometan/threejs-how-to-determine-if-a-point-is-inside-a-box-1fpi) (2025-09-23)
+- [Ask Your Video: Build a Containerized RAG Application for Visual and Audio Analysis](https://dev.to/aws/ask-your-video-build-a-containerized-rag-application-for-visual-and-audio-analysis-58bg) (2025-09-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Types of Constructors in C#: A Complete Guide for Beginners](https://medium.com/@ishanillangakoon/types-of-constructors-in-c-a-complete-guide-for-beginners-8643993a97ba?source=rss------programming-5) (2025-09-22)
-- [ Python Concurrency Deep Dive: Asyncio, Multithreading, and Multiprocessing](https://medium.com/@theHackHabitual/python-concurrency-deep-dive-asyncio-multithreading-and-multiprocessing-1d372166865a?source=rss------programming-5) (2025-09-22)
-- [10 MySQL Performance Tips I Used to Fix High-Traffic Sites](https://javascript.plainenglish.io/10-mysql-performance-tips-i-used-to-fix-high-traffic-sites-b48a28d7da41?source=rss------programming-5) (2025-09-22)
-- [⚡ Node.js Tips & Tricks Every Developer Should Know ‍](https://medium.com/@Sofia07/node-js-tips-tricks-every-developer-should-know-04d2bfa116b7?source=rss------programming-5) (2025-09-22)
-- [Why Everyone’s Wrong About API Key Security Being “Too Simple”](https://medium.com/c-sharp-programming/api-key-authentication-dotnet-core-security-guide-1440895936ee?source=rss------programming-5) (2025-09-22)
+- [18 React.js Hacks for Beginners in 2025](https://medium.com/@vioscott/18-react-js-hacks-for-beginners-in-2025-535557371ed5?source=rss------programming-5) (2025-09-23)
+- [09309022560شماره خاله#شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان #شماره خاله کرج…](https://medium.com/@jfmmfkmfm/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-82ef57d7dbc1?source=rss------programming-5) (2025-09-23)
+- [09309022560شماره خاله#شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان #شماره خاله کرج…](https://medium.com/@jfmmfkmfm/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-88d7bf513d4b?source=rss------programming-5) (2025-09-23)
+- [09309022560شماره خاله#شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان #شماره خاله کرج…](https://medium.com/@jfmmfkmfm/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-353a39bc1cba?source=rss------programming-5) (2025-09-23)
+- [Rust isn’t just hype anymore big tech already bet on it](https://medium.com/@devlinktips/rust-isnt-just-hype-anymore-big-tech-already-bet-on-it-b7975a0b3001?source=rss------programming-5) (2025-09-23)
 
 </details>
 
@@ -141,22 +141,22 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [NVIDIA, OpenAI Announce ‘the Biggest AI Infrastructure Deployment in History’](https://blogs.nvidia.com/blog/openai-nvidia/) (2025-09-22)
 - [AI On: How Onboarding Teams of AI Agents Drives Productivity and Revenue for Businesses](https://blogs.nvidia.com/blog/onboarding-teams-ai-agents-productivity-revenue-businesses/) (2025-09-19)
 - [The UK’s ‘Goldilocks Moment for AI’: NVIDIA, UK and US Leaders Highlight AI Infrastructure Investments](https://blogs.nvidia.com/blog/uk-ai-ecosystem-celebration/) (2025-09-18)
 - [NVIDIA Blackwell: Born for Extreme-Scale AI Inference](https://blogs.nvidia.com/blog/blackwell-ai-inference/) (2025-09-18)
 - [GeForce NOW Unleashes ‘Dying Light: The Beast’ in the Cloud](https://blogs.nvidia.com/blog/geforce-now-thursday-dying-light-the-beast/) (2025-09-18)
-- [Meet the Streamlabs Streaming Assistant, Accelerated by NVIDIA RTX](https://blogs.nvidia.com/blog/rtx-ai-garage-logitech-streamlabs-agent/) (2025-09-17)
 
 </details>
 
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [Get ready with the latest beta releases](https://developer.apple.com/news/?id=4uj8znqq) (2025-09-22)
 - [App Store submissions now open for the latest OS releases](https://developer.apple.com/news/?id=6lxhtioi) (2025-09-09)
 - [Hello Developer: September 2025](https://developer.apple.com/news/?id=6zd7a3al) (2025-09-02)
 - [Awe dropping.](https://developer.apple.com/news/?id=p9nukitr) (2025-08-26)
 - [Tax and Price Updates for Apps, In-App Purchases, and Subscriptions](https://developer.apple.com/news/?id=yo2104n5) (2025-08-21)
-- [Hello Developer: August 2025](https://developer.apple.com/news/?id=4qkavrhc) (2025-08-05)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.34: Pod Level Resources Graduated to Beta](https://kubernetes.io/blog/2025/09/22/kubernetes-v1-34-pod-level-resources/) (2025-09-22)
 - [Kubernetes v1.34: Recovery From Volume Expansion Failure (GA)](https://kubernetes.io/blog/2025/09/19/kubernetes-v1-34-recover-expansion-failure/) (2025-09-19)
 - [Kubernetes v1.34: DRA Consumable Capacity](https://kubernetes.io/blog/2025/09/18/kubernetes-v1-34-dra-consumable-capacity/) (2025-09-18)
 - [Kubernetes v1.34: Pods Report DRA Resource Health](https://kubernetes.io/blog/2025/09/17/kubernetes-v1-34-pods-report-dra-resource-health/) (2025-09-17)
 - [Kubernetes v1.34: Moving Volume Group Snapshots to v1beta2](https://kubernetes.io/blog/2025/09/16/kubernetes-v1-34-volume-group-snapshot-beta-2/) (2025-09-16)
-- [Kubernetes v1.34: Decoupled Taint Manager Is Now Stable](https://kubernetes.io/blog/2025/09/15/kubernetes-v1-34-decoupled-taint-manager-is-now-stable/) (2025-09-15)
 
 </details>
 
@@ -403,11 +403,11 @@ https://www.twilio.com/en-us/blog/developers/vibe-coding-with-an-agent-and-twili
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Introducing Transaction Metadata for Auth0 Actions](https://auth0.com/blog/introducing-transaction-metadata-for-auth0-actions/) (2025-09-22)
 - [Oktane Online 2025: The AI Security Event You Can’t Miss](https://auth0.com/blog/oktane-online-2025-the-ai-security-event-you-cant-miss/) (2025-09-18)
 - [Implementing DPoP with Auth0](https://auth0.com/blog/implementing-dpop-with-auth0/) (2025-09-18)
 - [Is Your Product Hitting Its Limits? A Guide to Upgrading Your Auth0 Plan](https://auth0.com/blog/is-your-product-hitting-its-limits-how-to-know-when-to-upgrade-your-auth0-plan/) (2025-09-17)
 - [Four Identity Security Essentials for a Trusted AI Agent Strategy](https://auth0.com/blog/four-identity-security-essentials-for-a-trusted-ai-agent-strategy/) (2025-09-16)
-- [Integrate Your Auth0 Secured Remote MCP Server in ChatGPT Developer Mode](https://auth0.com/blog/add-remote-mcp-server-chatgpt/) (2025-09-11)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/developers/vibe-coding-with-an-agent-and-twili
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Kolmogorov–Smirnov Statistic, Explained: Measuring Model Power in Credit Risk Modeling](https://towardsdatascience.com/kolmogorov-smirnov-statistic-explained-measuring-model-power-in-credit-risk-modeling/) (2025-09-22)
 - [Creating and Deploying an MCP Server from Scratch](https://towardsdatascience.com/creating-and-deploying-an-mcp-server-from-scratch/) (2025-09-22)
 - [Integrating DataHub into Jira: A Practical Guide Using DataHub Actions](https://towardsdatascience.com/integrating-datahub-into-jira-a-practical-guide-using-datahub-actions/) (2025-09-22)
 - [The Theory of Universal Computation: Bayesian Optimality, Solomonoff Induction & AIXI](https://towardsdatascience.com/the-theory-of-universal-computation-bayesian-optimality-solomonoff-induction-aixi/) (2025-09-22)
 - [Data Visualization Explained: What It Is and Why It Matters](https://towardsdatascience.com/data-visualization-explained-what-it-is-and-why-it-matters/) (2025-09-21)
-- [Python Can Now Call Mojo](https://towardsdatascience.com/python-can-now-call-mojo/) (2025-09-21)
 
 </details>
 
