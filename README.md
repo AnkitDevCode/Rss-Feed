@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [After India, OpenAI launches its affordable ChatGPT Go plan in Indonesia](https://techcrunch.com/2025/09/22/after-india-openai-launches-its-affordable-chatgpt-go-plan-in-indonesia/) (2025-09-23)
+- [Rocket.new, one of India’s first vibe-coding startups, snags $15M from Accel, Salesforce Ventures](https://techcrunch.com/2025/09/22/rocket-new-one-of-indias-first-vibe-coding-startups-snags-15m-from-accel-salesforce-ventures/) (2025-09-23)
 - [Mirror founder Brynn Putnam to unveil her gaming hardware startup at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/22/mirror-founder-brynn-putnam-to-unveil-her-gaming-hardware-startup-at-techcrunch-disrupt-2025/) (2025-09-22)
 - [Facebook is getting an AI dating assistant](https://techcrunch.com/2025/09/22/facebook-is-getting-an-ai-dating-assistant/) (2025-09-22)
 - [Stellantis cancels plans for an electrified Jeep Gladiator](https://techcrunch.com/2025/09/22/stellantis-cancels-plans-for-an-electrified-jeep-gladiator/) (2025-09-22)
-- [The Oakland Ballers let an AI manage the team. What could go wrong?](https://techcrunch.com/2025/09/22/the-oakland-ballers-let-an-ai-manage-the-team-what-could-go-wrong/) (2025-09-22)
-- [What Early-Stage Investors Really Look for in Founders at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/22/from-idea-to-first-check-raising-pre-seed-and-seed-capital-at-techcrunch-disrupt-2025/) (2025-09-22)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [In Maine, prisoners are thriving in remote jobs, other states are taking notice](https://www.mainepublic.org/2025-08-29/in-maine-prisoners-are-thriving-in-remote-jobs-and-other-states-are-taking-notice) (2025-09-22)
-- [Federal judge lifts administration halt of offshore wind farm in New England](https://apnews.com/article/trump-renewable-energy-offshore-wind-revolution-wind-f1cbe85a829e3d5e5496f834bcb617d1) (2025-09-22)
-- [Paper2Agent: Stanford Reimagining Research Papers as Interactive AI Agents](https://arxiv.org/abs/2509.06917) (2025-09-22)
-- [Choose Your Own Adventure](https://www.filfre.net/2025/09/choose-your-own-adventure/) (2025-09-22)
-- [Diffusion Beats Autoregressive in Data-Constrained Settings](https://blog.ml.cmu.edu/2025/09/22/diffusion-beats-autoregressive-in-data-constrained-settings/) (2025-09-22)
+- [Delete FROM users WHERE location = 'Iran';](https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4) (2025-09-23)
+- [Zoxide: A Better CD Command](https://github.com/ajeetdsouza/zoxide) (2025-09-23)
+- [Gamebooks and graph theory (2019)](https://notes.atomutek.org/gamebooks-and-graph-theory.html) (2025-09-23)
+- [The Latest Linux File-System: TernFS](https://www.phoronix.com/news/TernFS-File-System-Open-Source) (2025-09-23)
+- [Nine Things I Learned in Ninety Years](http://edwardpackard.com/wp-content/uploads/2025/09/Nine-Things-I-Learned-in-Ninety-Years.pdf) (2025-09-23)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [A first look at Kojima’s OD Xbox game](https://www.theverge.com/news/783409/od-kojima-xbox-game-trailer) (2025-09-23)
 - [Palworld is getting a farming spinoff](https://www.theverge.com/news/782945/palworld-palfarm-farming-spinoff) (2025-09-23)
 - [Trump escalates crackdown by designating ‘Antifa’ a domestic terror group](https://www.theverge.com/news/783158/antifa-domestic-terror-designation-donald-trump) (2025-09-22)
 - [The AI-energy apocalypse might be a little overblown](https://www.theverge.com/report/782952/ai-electricity-demand-inflated-forecast-report) (2025-09-22)
 - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide) (2025-09-22)
-- [Steam game removed after cryptostealer takes over $150K](https://www.theverge.com/news/782993/steam-blockblasters-crypto-scam-malware) (2025-09-22)
 
 </details>
 
@@ -86,33 +86,36 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Democratizing your data access with AI agents](https://stackoverflow.blog/2025/09/23/democratizing-your-data-access-with-ai-agents/) (2025-09-23)
 - [Off with your CMS’s head! Composability and security in headless CMS](https://stackoverflow.blog/2025/09/19/off-with-your-cms-s-head-composability-and-security-in-headless-cms/) (2025-09-19)
 - [Stack Overflow is helping you learn to code with new resources](https://stackoverflow.blog/2025/09/18/stack-overflow-is-helping-you-learn-to-code-with-new-resources/) (2025-09-18)
 - [What an MCP implementation looks like at a CRM company](https://stackoverflow.blog/2025/09/16/what-an-mcp-implementation-looks-like-at-a-crm-company/) (2025-09-16)
 - [Planning to Arm mobile devices with chips that handle AI](https://stackoverflow.blog/2025/09/12/planning-to-arm-mobile-devices-with-chips-that-handle-ai/) (2025-09-12)
-- [How AI is reshaping developer teams and the future of software development](https://stackoverflow.blog/2025/09/11/how-ai-is-reshaping-developer-teams/) (2025-09-11)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Python: How to Encrypt and Decrypt with AES](https://dev.to/ankitmalikg/python-how-to-encrypt-and-decrypt-with-aes-4h1k) (2025-09-23)
-- [Introduction to Python Module Two Part Two Best Practices](https://dev.to/theoriginalbpc/introduction-to-python-module-two-part-two-best-practices-336b) (2025-09-23)
-- [ShadCN Rich Text Editor with Lexical + Lexkit](https://dev.to/codeideal/shadcn-rich-text-editor-with-lexical-lexkit-4gnm) (2025-09-23)
-- [Three.js: How to determine if a point is inside a box?](https://dev.to/handsometan/threejs-how-to-determine-if-a-point-is-inside-a-box-1fpi) (2025-09-23)
-- [Ask Your Video: Build a Containerized RAG Application for Visual and Audio Analysis](https://dev.to/aws/ask-your-video-build-a-containerized-rag-application-for-visual-and-audio-analysis-58bg) (2025-09-23)
+- [A Complete Guide to the Latest ZoomEye Search Syntax](https://dev.to/stark_zhuang_df5076f35c68/a-complete-guide-to-the-latest-zoomeye-search-syntax-4loo) (2025-09-23)
+- [การใช้ `netcat` เปิดพอร์ตรับข้อความแบบง่ายๆ](https://dev.to/anuchito/kaaraich-netcat-epidphrtrabkhkhwaamaebbngaay-4bmo) (2025-09-23)
+- [IGN: OD - 'Knock' Teaser Trailer | TGS 2025](https://dev.to/gg_news/ign-od-knock-teaser-trailer-tgs-2025-1333) (2025-09-23)
+- [IGN: Death Stranding Mosquito - Teaser Trailer | TGS 2025](https://dev.to/gg_news/ign-death-stranding-mosquito-teaser-trailer-tgs-2025-205f) (2025-09-23)
+- [Ringer Movies: ‘Airplane!’ With Bill Simmons and Bill Hader | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-airplane-with-bill-simmons-and-bill-hader-the-rewatchables-l45) (2025-09-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [18 React.js Hacks for Beginners in 2025](https://medium.com/@vioscott/18-react-js-hacks-for-beginners-in-2025-535557371ed5?source=rss------programming-5) (2025-09-23)
-- [09309022560شماره خاله#شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان #شماره خاله کرج…](https://medium.com/@jfmmfkmfm/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-82ef57d7dbc1?source=rss------programming-5) (2025-09-23)
-- [09309022560شماره خاله#شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان #شماره خاله کرج…](https://medium.com/@jfmmfkmfm/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-88d7bf513d4b?source=rss------programming-5) (2025-09-23)
-- [09309022560شماره خاله#شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان #شماره خاله کرج…](https://medium.com/@jfmmfkmfm/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-353a39bc1cba?source=rss------programming-5) (2025-09-23)
-- [Rust isn’t just hype anymore big tech already bet on it](https://medium.com/@devlinktips/rust-isnt-just-hype-anymore-big-tech-already-bet-on-it-b7975a0b3001?source=rss------programming-5) (2025-09-23)
+- [09389632898شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@zablynrgs4/09389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-8b0252e857ea?source=rss------programming-5) (2025-09-23)
+- [09389632898شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@zablynrgs4/09389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-4f4a34203f0c?source=rss------programming-5) (2025-09-23)
+- [Building Scalable React Dashboards: A Practical Production Guide](https://medium.com/@Adem_Korkmaz/building-scalable-react-dashboards-a-practical-production-guide-f81296481831?source=rss------programming-5) (2025-09-23)
+- [09389632898شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@zablynrgs4/09389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-0d1077746a11?source=rss------programming-5) (2025-09-23)
+- [My Favorite Mobile Game: PUBG Mobile and Why It Stands Out](https://medium.com/@sukhsidh2002/my-favorite-mobile-game-pubg-mobile-and-why-it-stands-out-34b3ea00b99f?source=rss------programming-5) (2025-09-23)
 
 </details>
 
@@ -568,11 +571,11 @@ https://www.twilio.com/en-us/blog/developers/vibe-coding-with-an-agent-and-twili
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Connect an MCP Server for an AI-Powered, Supply-Chain Network Optimization Agent](https://towardsdatascience.com/mcp-server-for-an-ai-powered-supply-chain-network-optimization-agent/) (2025-09-23)
 - [The Kolmogorov–Smirnov Statistic, Explained: Measuring Model Power in Credit Risk Modeling](https://towardsdatascience.com/kolmogorov-smirnov-statistic-explained-measuring-model-power-in-credit-risk-modeling/) (2025-09-22)
 - [Creating and Deploying an MCP Server from Scratch](https://towardsdatascience.com/creating-and-deploying-an-mcp-server-from-scratch/) (2025-09-22)
 - [Integrating DataHub into Jira: A Practical Guide Using DataHub Actions](https://towardsdatascience.com/integrating-datahub-into-jira-a-practical-guide-using-datahub-actions/) (2025-09-22)
 - [The Theory of Universal Computation: Bayesian Optimality, Solomonoff Induction & AIXI](https://towardsdatascience.com/the-theory-of-universal-computation-bayesian-optimality-solomonoff-induction-aixi/) (2025-09-22)
-- [Data Visualization Explained: What It Is and Why It Matters](https://towardsdatascience.com/data-visualization-explained-what-it-is-and-why-it-matters/) (2025-09-21)
 
 </details>
 
