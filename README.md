@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Goodnotes collaborative docs and AI assitant to cater to professional users](https://techcrunch.com/2025/09/23/goodnotes-collaborative-docs-and-ai-assitant-to-cater-to-professional-users/) (2025-09-23)
+- [Sila opens U.S. factory to make silicon anodes for energy dense EV batteries](https://techcrunch.com/2025/09/23/sila-opens-u-s-factory-to-make-silicon-anodes-for-energy-dense-ev-batteries/) (2025-09-23)
 - [After India, OpenAI launches its affordable ChatGPT Go plan in Indonesia](https://techcrunch.com/2025/09/22/after-india-openai-launches-its-affordable-chatgpt-go-plan-in-indonesia/) (2025-09-23)
 - [Rocket.new, one of India’s first vibe-coding startups, snags $15M from Accel, Salesforce Ventures](https://techcrunch.com/2025/09/22/rocket-new-one-of-indias-first-vibe-coding-startups-snags-15m-from-accel-salesforce-ventures/) (2025-09-23)
 - [Mirror founder Brynn Putnam to unveil her gaming hardware startup at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/22/mirror-founder-brynn-putnam-to-unveil-her-gaming-hardware-startup-at-techcrunch-disrupt-2025/) (2025-09-22)
-- [Facebook is getting an AI dating assistant](https://techcrunch.com/2025/09/22/facebook-is-getting-an-ai-dating-assistant/) (2025-09-22)
-- [Stellantis cancels plans for an electrified Jeep Gladiator](https://techcrunch.com/2025/09/22/stellantis-cancels-plans-for-an-electrified-jeep-gladiator/) (2025-09-22)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Delete FROM users WHERE location = 'Iran';](https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4) (2025-09-23)
-- [Zoxide: A Better CD Command](https://github.com/ajeetdsouza/zoxide) (2025-09-23)
-- [Gamebooks and graph theory (2019)](https://notes.atomutek.org/gamebooks-and-graph-theory.html) (2025-09-23)
-- [The Latest Linux File-System: TernFS](https://www.phoronix.com/news/TernFS-File-System-Open-Source) (2025-09-23)
-- [Nine Things I Learned in Ninety Years](http://edwardpackard.com/wp-content/uploads/2025/09/Nine-Things-I-Learned-in-Ninety-Years.pdf) (2025-09-23)
+- [Zinc (YC W14) Is Hiring a Senior Back End Engineer (NYC)](https://app.dover.com/apply/Zinc/4d32fdb9-c3e6-4f84-a4a2-12c80018fe8f/?rs=76643084) (2025-09-23)
+- [Cache of Devices Capable of Crashing Cell Network Is Found Near U.N](https://www.nytimes.com/2025/09/23/us/politics/secret-service-sim-cards-servers-un.html) (2025-09-23)
+- [Walking Michigan City (Indiana)](https://walkingtheworld.substack.com/p/walking-michigan-city-indiana) (2025-09-23)
+- [Structured Outputs in LLMs](https://parthsareen.com/blog.html#sampling.md) (2025-09-23)
+- [Hyb Error: A Hybrid Metric Combining Absolute and Relative Errors](https://arxiv.org/abs/2403.07492) (2025-09-23)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [A first look at Kojima’s OD Xbox game](https://www.theverge.com/news/783409/od-kojima-xbox-game-trailer) (2025-09-23)
-- [Palworld is getting a farming spinoff](https://www.theverge.com/news/782945/palworld-palfarm-farming-spinoff) (2025-09-23)
-- [Trump escalates crackdown by designating ‘Antifa’ a domestic terror group](https://www.theverge.com/news/783158/antifa-domestic-terror-designation-donald-trump) (2025-09-22)
-- [The AI-energy apocalypse might be a little overblown](https://www.theverge.com/report/782952/ai-electricity-demand-inflated-forecast-report) (2025-09-22)
-- [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide) (2025-09-22)
+- [We’re living in a golden age of affordable mechanical keyboards](https://www.theverge.com/tech/783024/upgrade-mechanical-keyboard-prebuilt-best-affordable-typing-gaming-specs) (2025-09-23)
+- [Google begins its battle for the ‘unofficial currency of the internet’](https://www.theverge.com/policy/783285/google-doj-ad-tech-remedies-trial) (2025-09-23)
+- [The EU is scrutinizing how Apple, Google, and Microsoft tackle online scams](https://www.theverge.com/news/783507/eu-regulators-apple-google-microsoft-online-scams) (2025-09-23)
+- [Fall into smarter lighting](https://www.theverge.com/tech/781652/smart-light-matter-philips-hue-apple-home) (2025-09-23)
+- [DJI’s smallest action camera will start recording when you nod](https://www.theverge.com/news/781827/dji-osmo-nano-4k-action-camera-multifunctional-vision-dock) (2025-09-23)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [AI models are using material from retracted scientific papers](https://www.technologyreview.com/2025/09/23/1123897/ai-models-are-using-material-from-retracted-scientific-papers/) (2025-09-23)
 - [The Download: the LLM will see you now, and a new fusion power deal](https://www.technologyreview.com/2025/09/22/1123889/the-download-the-llm-will-see-you-now-and-a-new-fusion-power-deal/) (2025-09-22)
 - [An oil and gas giant signed a $1 billion deal with Commonwealth Fusion Systems](https://www.technologyreview.com/2025/09/22/1123870/commonwealth-fusion-eni/) (2025-09-22)
 - [This medical startup uses LLMs to run appointments and make diagnoses](https://www.technologyreview.com/2025/09/22/1123873/medical-diagnosis-llm/) (2025-09-22)
 - [The Download: the CDC’s vaccine chaos](https://www.technologyreview.com/2025/09/19/1123860/the-download-the-cdcs-vaccine-chaos/) (2025-09-19)
-- [A pivotal meeting on vaccine guidance is underway—and former CDC leaders are alarmed](https://www.technologyreview.com/2025/09/18/1123844/meeting-vaccine-guidance-former-cdc-leaders-alarmed/) (2025-09-18)
 
 </details>
 
@@ -97,25 +97,25 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [A Complete Guide to the Latest ZoomEye Search Syntax](https://dev.to/stark_zhuang_df5076f35c68/a-complete-guide-to-the-latest-zoomeye-search-syntax-4loo) (2025-09-23)
-- [การใช้ `netcat` เปิดพอร์ตรับข้อความแบบง่ายๆ](https://dev.to/anuchito/kaaraich-netcat-epidphrtrabkhkhwaamaebbngaay-4bmo) (2025-09-23)
-- [IGN: OD - 'Knock' Teaser Trailer | TGS 2025](https://dev.to/gg_news/ign-od-knock-teaser-trailer-tgs-2025-1333) (2025-09-23)
-- [IGN: Death Stranding Mosquito - Teaser Trailer | TGS 2025](https://dev.to/gg_news/ign-death-stranding-mosquito-teaser-trailer-tgs-2025-205f) (2025-09-23)
-- [Ringer Movies: ‘Airplane!’ With Bill Simmons and Bill Hader | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-airplane-with-bill-simmons-and-bill-hader-the-rewatchables-l45) (2025-09-23)
+- [How I prepared for Frontend interviews in 2 weeks (And how you can too)](https://dev.to/swastikyadav/how-i-prepared-for-frontend-interviews-in-2-weeks-and-how-you-can-too-jmd) (2025-09-23)
+- [Making this Hugo-built blog multilingual](https://dev.to/masutaka/making-this-hugo-built-blog-multilingual-l9b) (2025-09-23)
+- [8 Useful Developer Tools That You Will Be Amazed to Discover 🧙‍♂️🤩](https://dev.to/madza/8-useful-developer-tools-that-you-will-be-amazed-to-discover-4cm9) (2025-09-23)
+- [Handling Distributed Transactions with Orchestrator Pattern (Withdrawal & Deposit Example)](https://dev.to/mahmoudabbasi/handling-distributed-transactions-with-orchestrator-pattern-withdrawal-deposit-example-dap) (2025-09-23)
+- [KEXP: Rosali - Change Is In The Form (Live on KEXP)](https://dev.to/music_youtube/kexp-rosali-change-is-in-the-form-live-on-kexp-2a9k) (2025-09-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09389632898شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@zablynrgs4/09389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-8b0252e857ea?source=rss------programming-5) (2025-09-23)
-- [09389632898شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@zablynrgs4/09389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-4f4a34203f0c?source=rss------programming-5) (2025-09-23)
-- [Building Scalable React Dashboards: A Practical Production Guide](https://medium.com/@Adem_Korkmaz/building-scalable-react-dashboards-a-practical-production-guide-f81296481831?source=rss------programming-5) (2025-09-23)
-- [09389632898شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@zablynrgs4/09389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-0d1077746a11?source=rss------programming-5) (2025-09-23)
-- [My Favorite Mobile Game: PUBG Mobile and Why It Stands Out](https://medium.com/@sukhsidh2002/my-favorite-mobile-game-pubg-mobile-and-why-it-stands-out-34b3ea00b99f?source=rss------programming-5) (2025-09-23)
+- [Mastering Laravel Essentials: From Dependency Injection to Policies](https://medium.com/@jha.ameet/mastering-laravel-essentials-from-dependency-injection-to-policies-3e23ff2b7937?source=rss------programming-5) (2025-09-23)
+- [RHAPSODY OF REALITIES - 23RD SEPTEMBER 2025
+"God’s desire for you is to be fruitful and productive…](https://medium.com/@folajeff/rhapsody-of-realities-23rd-september-2025-gods-desire-for-you-is-to-be-fruitful-and-productive-0d6e64f968e2?source=rss------programming-5) (2025-09-23)
+- [ Next.js 2025 Deep Dive: Mastering Incremental Static Regeneration (ISR) 2.0](https://medium.com/@TheEnaModernCoder/next-js-2025-deep-dive-mastering-incremental-static-regeneration-isr-2-0-02ecafc469db?source=rss------programming-5) (2025-09-23)
+- [09010712940شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@ncjforfjfjfjrncnfofifjcjf/09010712940%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-7642ca6b994c?source=rss------programming-5) (2025-09-23)
+- [09010712940شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@ncjforfjfjfjrncnfofifjcjf/09010712940%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-950710df5f4a?source=rss------programming-5) (2025-09-23)
 
 </details>
 
@@ -144,11 +144,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [At Climate Week NYC, NVIDIA Details AI’s Key Role in the Sustainable Energy Transition](https://blogs.nvidia.com/blog/ai-energy-innovation-climate-research/) (2025-09-23)
 - [NVIDIA, OpenAI Announce ‘the Biggest AI Infrastructure Deployment in History’](https://blogs.nvidia.com/blog/openai-nvidia/) (2025-09-22)
 - [AI On: How Onboarding Teams of AI Agents Drives Productivity and Revenue for Businesses](https://blogs.nvidia.com/blog/onboarding-teams-ai-agents-productivity-revenue-businesses/) (2025-09-19)
 - [The UK’s ‘Goldilocks Moment for AI’: NVIDIA, UK and US Leaders Highlight AI Infrastructure Investments](https://blogs.nvidia.com/blog/uk-ai-ecosystem-celebration/) (2025-09-18)
 - [NVIDIA Blackwell: Born for Extreme-Scale AI Inference](https://blogs.nvidia.com/blog/blackwell-ai-inference/) (2025-09-18)
-- [GeForce NOW Unleashes ‘Dying Light: The Beast’ in the Cloud](https://blogs.nvidia.com/blog/geforce-now-thursday-dying-light-the-beast/) (2025-09-18)
 
 </details>
 
@@ -243,11 +243,11 @@
 <details>
 <summary>🎵 Spotify Engineering</summary>
 
+- [Beyond Winning: Spotify’s Experiments with Learning Framework](https://engineering.atspotify.com/2025/9/spotifys-experiments-with-learning-framework/) (2025-09-23)
 - [Incident Report: Spotify Outage on April 16, 2025](https://engineering.atspotify.com/2025/5/incident-report-spotify-outage-on-april-16-2025/) (2025-05-09)
 - [Celebrating Five Years of Backstage: From Open Source Project to Enterprise Business](https://engineering.atspotify.com/2025/4/celebrating-five-years-of-backstage/) (2025-04-23)
 - [A Behind-the-Scenes Look at How We Release the Spotify App (Part 1)](https://engineering.atspotify.com/2025/4/how-we-release-the-spotify-app-part-1/) (2025-04-17)
 - [An Insider’s Tips for Taking the Certified Backstage Associate (CBA) Exam](https://engineering.atspotify.com/2025/3/certified-backstage-associate-exam-tips/) (2025-03-25)
-- [Building Confidence: A Case Study in How to Create Confidence Scores for GenAI Applications](https://engineering.atspotify.com/2024/12/building-confidence-a-case-study-in-how-to-create-confidence-scores-for-genai-applications/) (2024-12-12)
 
 </details>
 
@@ -505,22 +505,22 @@ https://www.twilio.com/en-us/blog/developers/vibe-coding-with-an-agent-and-twili
 <details>
 <summary>🧡 HubSpot Developer</summary>
 
+- [From Legacy Apps to Platform Speed: Building with the New Developer Platform](https://developers.hubspot.com/blog/from-legacy-apps-to-platform-speed-building-with-developer-platform) (2025-09-23)
 - [Navigating the Reimagined Marketplace for App Developers](https://developers.hubspot.com/blog/reimagined-marketplace-for-app-developers) (2025-09-03)
 - [Fall Spotlight 2025: A Look at Tools for Developers](https://developers.hubspot.com/blog/a-look-at-tools-for-developers) (2025-09-02)
 - [Build Faster, Deliver Smarter: Introducing the HubSpot Developer Platform](https://developers.hubspot.com/blog/introducing-hubspot-developer-platform) (2025-09-02)
 - [A Developer's Guide to Building on the HubSpot Marketplace: The Swarm's Journey](https://developers.hubspot.com/blog/a-developers-guide-to-building-on-the-hubspot-marketplace-the-swarms-journey) (2025-08-29)
-- [The Developer’s Guide to INBOUND25](https://developers.hubspot.com/blog/the-developers-guide-to-inbound25) (2025-08-08)
 
 </details>
 
 <details>
 <summary>💬 Slack API</summary>
 
+- [How to Build Work Habits: 25 Expert-Backed Tips](https://slack.com/blog/productivity/build-productive-work-habits) (2025-09-22)
+- [How to Create a Mind Map: Examples, Benefits, and Uses](https://slack.com/blog/collaboration/how-to-create-a-mind-map-examples-benefits-and-uses) (2025-09-19)
+- [Capacity Planning 101: Balance Workloads and Boost Team Productivity](https://slack.com/blog/productivity/capacity-planning-101-balance-workloads-and-boost-team-productivity) (2025-09-19)
 - [Standard Operating Procedure Templates: What They Are and How to Use Them Effectively](https://slack.com/blog/productivity/standard-operating-procedure-templates-why-theyre-important-and-how-to-create-one) (2025-09-12)
 - [Streamline Note-Taking with Board Meeting Minutes Templates](https://slack.com/blog/productivity/better-board-meeting-minutes) (2025-09-12)
-- [A Research-Backed Sales Playbook for Connecting Slack and Salesforce](https://slack.com/blog/productivity/connecting-slack-salesforce-sales-playbook) (2025-09-11)
-- [15 Team Meeting Ideas That Help Employees Stay Focused](https://slack.com/blog/collaboration/engaging-team-meetings) (2025-09-10)
-- [Agile and Scrum: Definitions, Differences, and Examples](https://slack.com/blog/collaboration/agile-vs-scrum) (2025-09-10)
 
 </details>
 
@@ -571,11 +571,11 @@ https://www.twilio.com/en-us/blog/developers/vibe-coding-with-an-agent-and-twili
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [5 Techniques to Prevent Hallucinations in Your RAG Question Answering](https://towardsdatascience.com/5-techniques-to-prevent-hallucinations-in-your-rag-question-answering/) (2025-09-23)
 - [How to Connect an MCP Server for an AI-Powered, Supply-Chain Network Optimization Agent](https://towardsdatascience.com/mcp-server-for-an-ai-powered-supply-chain-network-optimization-agent/) (2025-09-23)
 - [The Kolmogorov–Smirnov Statistic, Explained: Measuring Model Power in Credit Risk Modeling](https://towardsdatascience.com/kolmogorov-smirnov-statistic-explained-measuring-model-power-in-credit-risk-modeling/) (2025-09-22)
 - [Creating and Deploying an MCP Server from Scratch](https://towardsdatascience.com/creating-and-deploying-an-mcp-server-from-scratch/) (2025-09-22)
 - [Integrating DataHub into Jira: A Practical Guide Using DataHub Actions](https://towardsdatascience.com/integrating-datahub-into-jira-a-practical-guide-using-datahub-actions/) (2025-09-22)
-- [The Theory of Universal Computation: Bayesian Optimality, Solomonoff Induction & AIXI](https://towardsdatascience.com/the-theory-of-universal-computation-bayesian-optimality-solomonoff-induction-aixi/) (2025-09-22)
 
 </details>
 
@@ -593,11 +593,11 @@ https://www.twilio.com/en-us/blog/developers/vibe-coding-with-an-agent-and-twili
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [10 Newsletters for Busy Data Scientists](https://www.kdnuggets.com/10-newsletters-for-busy-data-scientists) (2025-09-23)
 - [How To Use Synthetic Data To Build a Portfolio Project](https://www.kdnuggets.com/how-to-use-synthetic-data-to-build-a-portfolio-project) (2025-09-22)
 - [Beginner’s Guide to VibeVoice](https://www.kdnuggets.com/beginners-guide-to-vibevoice) (2025-09-22)
 - [10 Python One-Liners to Optimize Your Hugging Face Transformers Pipelines](https://www.kdnuggets.com/10-python-one-liners-to-optimize-your-hugging-face-transformers-pipelines) (2025-09-22)
 - [Beginner’s Guide to Data Analysis with Polars](https://www.kdnuggets.com/beginners-guide-to-data-analysis-with-polars) (2025-09-19)
-- [Top 10 Free API Providers for Data Science Projects](https://www.kdnuggets.com/top-10-free-api-providers-for-data-science-projects) (2025-09-19)
 
 </details>
 
