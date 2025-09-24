@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Baldur's Gate 3 Steam Deck – Native Version](https://larian.com/support/faqs/steam-deck-native-version_121) (2025-09-24)
-- [The Top Programming Languages 2025](https://spectrum.ieee.org/top-programming-languages-2025) (2025-09-23)
-- [MLB approves robot umpires for 2026 as part of challenge system](https://www.espn.com/mlb/story/_/id/46357017/mlb-approves-robot-umpires-2026-part-challenge-system) (2025-09-23)
-- [NYC Telecom Raid: What's Up with Those Weird SIM Banks?](https://tedium.co/2025/09/23/secret-service-raid-sim-bank-telecom-hardware/) (2025-09-23)
-- [From Rust to reality: The hidden journey of fetch_max](https://questdb.com/blog/rust-fetch-max-compiler-journey/) (2025-09-23)
+- [Greatest irony of the AI age: Humans hired to clean AI slop](https://www.sify.com/ai-analytics/greatest-irony-of-the-ai-age-humans-being-increasingly-hired-to-clean-ai-slop/) (2025-09-24)
+- [America's top companies keep talking about AI – but can't explain the upsides](https://www.ft.com/content/e93e56df-dd9b-40c1-b77a-dba1ca01e473) (2025-09-24)
+- [Quadratic memory reductions for Zero-knowledge Proofs](https://github.com/logannye/space-efficient-zero-knowledge-proofs) (2025-09-24)
+- [Zutty: Zero-cost Unicode Teletype, high-end terminal for low-end systems](https://git.hq.sig7.se/zutty.git) (2025-09-24)
+- [Periodic Table of Cognition](https://kk.org/thetechnium/the-periodic-table-of-cognition/) (2025-09-24)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Kimmel returns to television to mock FCC Chair Brendan Carr](https://www.theverge.com/policy/784355/jimmy-kimmel-return-brendan-carr-trump) (2025-09-24)
+- [iFixit zooms in on reports of an iPhone 17 Pro scratch problem](https://www.theverge.com/news/784324/apple-iphone-17-pro-ifixit-teardown-scratch) (2025-09-24)
 - [Pokémon lawyers won&#8217;t sue DHS for that video, former legal head predicts](https://www.theverge.com/news/784312/pokemon-lawyers-wont-sue-dhs-for-that-video-former-legal-head-predicts) (2025-09-24)
 - [YouTube will let creators who spread covid misinformation back on the site](https://www.theverge.com/policy/784238/youtube-covid-election-misinformation-reversal) (2025-09-23)
 - [The Switch 2 version of Borderlands 4 has been delayed](https://www.theverge.com/news/784277/borderlands-4-nintendo-switch-2-delay) (2025-09-23)
-- [Inside Charlie Kirk’s megachurch memorial service](https://www.theverge.com/column/784033/charlie-kirk-memorial-jimmy-kimmel-fcc-regulator) (2025-09-23)
-- [Apple TV Plus has quietly pulled its new show about domestic extremism](https://www.theverge.com/entertainment/784185/apple-tv-plus-the-savant-domestic-terrorism) (2025-09-23)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [From Kaizen to Wabi-Sabi: What Japanese Developers Taught Me About Writing Code That Lasts](https://dev.to/dev_tips/from-kaizen-to-wabi-sabi-what-japanese-developers-taught-me-about-writing-code-that-lasts-mjl) (2025-09-24)
-- [Go vs. C#: Which Language Uses Memory More Efficiently?](https://dev.to/lamri_abdellahramdane_15/go-vs-c-which-language-uses-memory-more-efficiently-pk5) (2025-09-24)
-- [Forget Meta Ray-Ban Glasses. The Neural Band Is the Real Platform (If Devs Get In)](https://dev.to/dev_tips/forget-meta-ray-ban-glasses-the-neural-band-is-the-real-platform-if-devs-get-in-gl5) (2025-09-24)
-- [I've been drifting, here is my line in the sand.](https://dev.to/regalman/ive-been-drifting-here-is-my-line-in-the-sand-b3a) (2025-09-24)
-- [Are you still calling yourself DevOps? That role won’t exist in 2026.](https://dev.to/dev_tips/are-you-still-calling-yourself-devops-that-role-wont-exist-in-2026-4pk6) (2025-09-24)
+- [Building and Deploying a Cloud-Native FastAPI Student Tracker App with MongoDB, Kubernetes, and GitOps](https://dev.to/keneojiteli/building-and-deploying-a-cloud-native-fastapi-student-tracker-app-with-mongodb-kubernetes-and-1m8) (2025-09-24)
+- [How to Create Groups Efficiently in Tableau](https://dev.to/dipti_moryani_185c244d578/how-to-create-groups-efficiently-in-tableau-554f) (2025-09-24)
+- [GameSpot: Yakuza 3 Gaiden Dark Ties Trailer | RGG Summit 2025](https://dev.to/gg_news/gamespot-yakuza-3-gaiden-dark-ties-trailer-rgg-summit-2025-35nb) (2025-09-24)
+- [GameSpot: Yakuza Kiwami 3 and Dark Ties Gameplay Breakdown | RGG Direct 2025](https://dev.to/gg_news/gamespot-yakuza-kiwami-3-and-dark-ties-gameplay-breakdown-rgg-direct-2025-3imi) (2025-09-24)
+- [GameSpot: Stranger Than Heaven Behind The Scenes Trailer | RGG Summit 2025](https://dev.to/gg_news/gamespot-stranger-than-heaven-behind-the-scenes-trailer-rgg-summit-2025-3i60) (2025-09-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09055770486شماره خاله#شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان #شماره خاله کرج…](https://medium.com/@tdiuuhjfjggjfyd/09055770486%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-dc870fee94b4?source=rss------programming-5) (2025-09-24)
-- [Event Loop, Microtasks, and Scheduling Explained](https://medium.com/codetodeploy/event-loop-microtasks-and-scheduling-explained-b637e721c835?source=rss------programming-5) (2025-09-24)
-- [09055770486شماره خاله#شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان #شماره خاله کرج…](https://medium.com/@tdiuuhjfjggjfyd/09055770486%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-d7f42c14142f?source=rss------programming-5) (2025-09-24)
-- [09055770486شماره خاله#شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان #شماره خاله کرج…](https://medium.com/@tdiuuhjfjggjfyd/09055770486%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-c8d694170804?source=rss------programming-5) (2025-09-24)
-- [How I Built Command-Line Tools That Made My Workflow 10× Faster](https://medium.com/codetodeploy/how-i-built-command-line-tools-that-made-my-workflow-10-faster-0756d4db1dcc?source=rss------programming-5) (2025-09-24)
+- [1 CSS Variable Hack That Instantly Fixed My Dark Mode](https://medium.com/@Krishnajlathi/1-css-variable-hack-that-instantly-fixed-my-dark-mode-06f954270c72?source=rss------programming-5) (2025-09-24)
+- [⚡ Advanced Next.js Tips & Tricks Every Developer Should Know](https://medium.com/@MissLucina/advanced-next-js-tips-tricks-every-developer-should-know-de01b0eb6791?source=rss------programming-5) (2025-09-24)
+- [Delphi Procedures and Functions for OpenOffice Integration](https://alenibric.medium.com/delphi-procedures-and-functions-for-openoffice-integration-52dbefb2c238?source=rss------programming-5) (2025-09-24)
+- [Zero-Downtime Deployments Explained Simply](https://medium.com/@diveshrajputr405/zero-downtime-deployments-explained-simply-340809c1e7b0?source=rss------programming-5) (2025-09-24)
+- [GPU-Friendly Animations in Flutter: Building 60 FPS Parallax with CustomPainter](https://medium.com/@workflow094093/gpu-friendly-animations-in-flutter-building-60-fps-parallax-with-custompainter-c8555e6734e9?source=rss------programming-5) (2025-09-24)
 
 </details>
 
@@ -513,11 +513,11 @@ https://www.twilio.com/en-us/blog/insights/gmail-inbox-changes
 <details>
 <summary>💬 Slack API</summary>
 
+- [How to Build Work Habits: 25 Expert-Backed Tips](https://slack.com/blog/productivity/build-productive-work-habits) (2025-09-22)
+- [How to Create a Mind Map: Examples, Benefits, and Uses](https://slack.com/blog/collaboration/how-to-create-a-mind-map-examples-benefits-and-uses) (2025-09-19)
+- [Capacity Planning 101: Balance Workloads and Boost Team Productivity](https://slack.com/blog/productivity/capacity-planning-101-balance-workloads-and-boost-team-productivity) (2025-09-19)
 - [Standard Operating Procedure Templates: What They Are and How to Use Them Effectively](https://slack.com/blog/productivity/standard-operating-procedure-templates-why-theyre-important-and-how-to-create-one) (2025-09-12)
 - [Streamline Note-Taking with Board Meeting Minutes Templates](https://slack.com/blog/productivity/better-board-meeting-minutes) (2025-09-12)
-- [A Research-Backed Sales Playbook for Connecting Slack and Salesforce](https://slack.com/blog/productivity/connecting-slack-salesforce-sales-playbook) (2025-09-11)
-- [15 Team Meeting Ideas That Help Employees Stay Focused](https://slack.com/blog/collaboration/engaging-team-meetings) (2025-09-10)
-- [Agile and Scrum: Definitions, Differences, and Examples](https://slack.com/blog/collaboration/agile-vs-scrum) (2025-09-10)
 
 </details>
 
