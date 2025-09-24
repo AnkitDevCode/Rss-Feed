@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Google’s cheaper AI Plus plan is now available in over 40 countries](https://techcrunch.com/2025/09/24/googles-cheaper-ai-plus-plan-is-now-available-in-over-40-countries/) (2025-09-24)
+- [South Korea’s ‘Silicon Valley’ struggles to live up to its global ambitions](https://techcrunch.com/2025/09/24/south-koreas-silicon-valley-struggles-to-live-up-to-its-global-ambitions/) (2025-09-24)
+- [How Al Gore used AI to track 660M polluters](https://techcrunch.com/2025/09/24/how-al-gore-used-ai-to-track-660m-polluters/) (2025-09-24)
 - [OpenAI is building five new Stargate data centers with Oracle and SoftBank](https://techcrunch.com/2025/09/23/openai-is-building-five-new-stargate-data-centers-with-oracle-and-softbank/) (2025-09-23)
 - [Building the new backbone of space at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/23/space-is-open-for-business-with-even-rogers-and-max-haot-at-techcrunch-disrupt-2025/) (2025-09-23)
-- [What is Bluesky? Everything to know about the X competitor](https://techcrunch.com/2025/09/23/what-is-bluesky-everything-to-know-about-the-x-competitor/) (2025-09-23)
-- [Google’s AI Mode arrives in Spanish globally](https://techcrunch.com/2025/09/23/googles-ai-mode-arrives-in-spanish-globally/) (2025-09-23)
-- [Scott Wiener on his fight to make Big Tech disclose AI’s dangers](https://techcrunch.com/2025/09/23/scott-wiener-on-his-fight-to-make-big-tech-disclose-ais-dangers/) (2025-09-23)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Greatest irony of the AI age: Humans hired to clean AI slop](https://www.sify.com/ai-analytics/greatest-irony-of-the-ai-age-humans-being-increasingly-hired-to-clean-ai-slop/) (2025-09-24)
-- [America's top companies keep talking about AI – but can't explain the upsides](https://www.ft.com/content/e93e56df-dd9b-40c1-b77a-dba1ca01e473) (2025-09-24)
-- [Quadratic memory reductions for Zero-knowledge Proofs](https://github.com/logannye/space-efficient-zero-knowledge-proofs) (2025-09-24)
-- [Zutty: Zero-cost Unicode Teletype, high-end terminal for low-end systems](https://git.hq.sig7.se/zutty.git) (2025-09-24)
-- [Periodic Table of Cognition](https://kk.org/thetechnium/the-periodic-table-of-cognition/) (2025-09-24)
+- [Huntington's disease treated for first time](https://www.bbc.com/news/articles/cevz13xkxpro) (2025-09-24)
+- [My game's server is blocked in Spain whenever there's a football match on](https://old.reddit.com/r/gamedev/comments/1np6kyn/my_games_server_is_blocked_in_spain_whenever/) (2025-09-24)
+- [S3 scales to petabytes a second on top of slow HDDs](https://bigdata.2minutestreaming.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives) (2025-09-24)
+- [Exploring GrapheneOS secure allocator: Hardened Malloc](https://www.synacktiv.com/en/publications/exploring-grapheneos-secure-allocator-hardened-malloc) (2025-09-24)
+- [That Secret Service SIM farm story is bogus](https://cybersect.substack.com/p/that-secret-service-sim-farm-story) (2025-09-24)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Kimmel returns to television to mock FCC Chair Brendan Carr](https://www.theverge.com/policy/784355/jimmy-kimmel-return-brendan-carr-trump) (2025-09-24)
-- [iFixit zooms in on reports of an iPhone 17 Pro scratch problem](https://www.theverge.com/news/784324/apple-iphone-17-pro-ifixit-teardown-scratch) (2025-09-24)
-- [Pokémon lawyers won&#8217;t sue DHS for that video, former legal head predicts](https://www.theverge.com/news/784312/pokemon-lawyers-wont-sue-dhs-for-that-video-former-legal-head-predicts) (2025-09-24)
-- [YouTube will let creators who spread covid misinformation back on the site](https://www.theverge.com/policy/784238/youtube-covid-election-misinformation-reversal) (2025-09-23)
-- [The Switch 2 version of Borderlands 4 has been delayed](https://www.theverge.com/news/784277/borderlands-4-nintendo-switch-2-delay) (2025-09-23)
+- [Trump’s H-1B chaos is Europe&#8217;s opportunity to steal tech talent](https://www.theverge.com/news/784412/trump-h-1b-visa-europe-steal) (2025-09-24)
+- [Bluesky seemed to have some trouble today](https://www.theverge.com/news/784442/bluesky-seems-to-be-having-trouble) (2025-09-24)
+- [Pocket Casts is showing ads to people who paid for an ad-free app](https://www.theverge.com/news/784429/pocket-casts-ads-lifetime-memberships-complaints) (2025-09-24)
+- [Google&#8217;s Android for PC: &#8216;I&#8217;ve seen it, it is incredible&#8217;](https://www.theverge.com/news/784381/qualcomm-ceo-seen-googles-android-pc-merger-incredible) (2025-09-24)
+- [Spotify is adding support for third-party DJ apps, again](https://www.theverge.com/news/784347/spotify-reintegrates-algoriddim-djay) (2025-09-24)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: accidental AI relationships, and the future of contraception](https://www.technologyreview.com/2025/09/24/1124026/the-download-accidental-ai-relationships-and-future-contraception/) (2025-09-24)
+- [Trump is pushing leucovorin as a new treatment for autism. What is it?](https://www.technologyreview.com/2025/09/24/1124029/trump-leucovorin-autism-tylenol/) (2025-09-24)
+- [The AI Hype Index: Cracking the chatbot code](https://www.technologyreview.com/2025/09/24/1123999/the-ai-hype-index-cracking-the-chatbot-code/) (2025-09-24)
+- [It’s surprisingly easy to stumble into a relationship with an AI chatbot](https://www.technologyreview.com/2025/09/24/1123915/relationship-ai-without-seeking-it/) (2025-09-24)
 - [Roundtables: Meet the 2025 Innovator of the Year](https://www.technologyreview.com/2025/09/23/1123986/roundtables-meet-the-2025-innovator-of-the-year/) (2025-09-23)
-- [The Download: AI’s retracted papers problem](https://www.technologyreview.com/2025/09/23/1123921/the-download-ais-retracted-papers-problem/) (2025-09-23)
-- [AI models are using material from retracted scientific papers](https://www.technologyreview.com/2025/09/23/1123897/ai-models-are-using-material-from-retracted-scientific-papers/) (2025-09-23)
-- [The Download: the LLM will see you now, and a new fusion power deal](https://www.technologyreview.com/2025/09/22/1123889/the-download-the-llm-will-see-you-now-and-a-new-fusion-power-deal/) (2025-09-22)
-- [An oil and gas giant signed a $1 billion deal with Commonwealth Fusion Systems](https://www.technologyreview.com/2025/09/22/1123870/commonwealth-fusion-eni/) (2025-09-22)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building and Deploying a Cloud-Native FastAPI Student Tracker App with MongoDB, Kubernetes, and GitOps](https://dev.to/keneojiteli/building-and-deploying-a-cloud-native-fastapi-student-tracker-app-with-mongodb-kubernetes-and-1m8) (2025-09-24)
-- [How to Create Groups Efficiently in Tableau](https://dev.to/dipti_moryani_185c244d578/how-to-create-groups-efficiently-in-tableau-554f) (2025-09-24)
-- [GameSpot: Yakuza 3 Gaiden Dark Ties Trailer | RGG Summit 2025](https://dev.to/gg_news/gamespot-yakuza-3-gaiden-dark-ties-trailer-rgg-summit-2025-35nb) (2025-09-24)
-- [GameSpot: Yakuza Kiwami 3 and Dark Ties Gameplay Breakdown | RGG Direct 2025](https://dev.to/gg_news/gamespot-yakuza-kiwami-3-and-dark-ties-gameplay-breakdown-rgg-direct-2025-3imi) (2025-09-24)
-- [GameSpot: Stranger Than Heaven Behind The Scenes Trailer | RGG Summit 2025](https://dev.to/gg_news/gamespot-stranger-than-heaven-behind-the-scenes-trailer-rgg-summit-2025-3i60) (2025-09-24)
+- [Phoenix Cockpit Is Online: Command Your Swarm](https://dev.to/matrixswarm/phoenix-cockpit-is-online-command-your-swarm-1934) (2025-09-24)
+- [From Prompt to Production: A Developer's Guide to Deploying LLM Applications](https://dev.to/code_2/from-prompt-to-production-a-developers-guide-to-deploying-llm-applications-3c77) (2025-09-24)
+- [⚡9 AI Tools you cannot afford to miss in 2025! 🚀🔥](https://dev.to/composiodev/9-ai-tools-you-cannot-afford-to-miss-in-2025-5878) (2025-09-24)
+- [Building a Practical DevSecOps Pipeline: From Basic Security to Enterprise-Style Protection](https://dev.to/eklavvya/building-a-practical-devsecops-pipeline-from-basic-security-to-enterprise-style-protection-2b9k) (2025-09-24)
+- [How to Monitor Data Pipelines in Rust Using OpenTelemetry and Shuttle](https://dev.to/shuttle/how-to-monitor-data-pipelines-in-rust-using-opentelemetry-and-shuttle-53en) (2025-09-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [1 CSS Variable Hack That Instantly Fixed My Dark Mode](https://medium.com/@Krishnajlathi/1-css-variable-hack-that-instantly-fixed-my-dark-mode-06f954270c72?source=rss------programming-5) (2025-09-24)
-- [⚡ Advanced Next.js Tips & Tricks Every Developer Should Know](https://medium.com/@MissLucina/advanced-next-js-tips-tricks-every-developer-should-know-de01b0eb6791?source=rss------programming-5) (2025-09-24)
-- [Delphi Procedures and Functions for OpenOffice Integration](https://alenibric.medium.com/delphi-procedures-and-functions-for-openoffice-integration-52dbefb2c238?source=rss------programming-5) (2025-09-24)
-- [Zero-Downtime Deployments Explained Simply](https://medium.com/@diveshrajputr405/zero-downtime-deployments-explained-simply-340809c1e7b0?source=rss------programming-5) (2025-09-24)
-- [GPU-Friendly Animations in Flutter: Building 60 FPS Parallax with CustomPainter](https://medium.com/@workflow094093/gpu-friendly-animations-in-flutter-building-60-fps-parallax-with-custompainter-c8555e6734e9?source=rss------programming-5) (2025-09-24)
+- [09363843642شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز شماره خاله اهواز شماره خاله لاهیجان…](https://medium.com/@rwz14368/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86-8bc33d72a19c?source=rss------programming-5) (2025-09-24)
+- [09363843642شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز شماره خاله اهواز شماره خاله لاهیجان…](https://medium.com/@rwz14368/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86-64c43ba8ae1d?source=rss------programming-5) (2025-09-24)
+- [09363843642شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز شماره خاله اهواز شماره خاله لاهیجان…](https://medium.com/@rwz14368/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86-d9e06c1064fc?source=rss------programming-5) (2025-09-24)
+- [Using Win32 API With Rust: A Step-By-Step Guide](https://redfoxsecurity.medium.com/using-win32-api-with-rust-a-step-by-step-guide-151110c0f557?source=rss------programming-5) (2025-09-24)
+- [Long Term Memory + RAG + MCP + LangGraph = The Key To Powerful Agentic AI](https://pub.towardsai.net/long-term-memory-rag-mcp-langgraph-the-key-to-powerful-agentic-ai-39e75b7ecd1c?source=rss------programming-5) (2025-09-24)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [How Azure Cobalt 100 VMs are powering real-world solutions, delivering performance and efficiency results](https://azure.microsoft.com/en-us/blog/how-azure-cobalt-100-vms-are-powering-real-world-solutions-delivering-performance-and-efficiency-results/) (2025-09-23)
+- [Accelerate migration and modernization with agentic AI](https://azure.microsoft.com/en-us/blog/accelerate-migration-and-modernization-with-agentic-ai/) (2025-09-23)
 - [Inside the world’s most powerful AI datacenter](https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/) (2025-09-18)
 - [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms ](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms/) (2025-09-18)
 - [Agent Factory: Creating a blueprint for safe and secure AI agents](https://azure.microsoft.com/en-us/blog/agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents/) (2025-09-17)
-- [Azure Kubernetes Service Automatic: Fast and frictionless Kubernetes for all](https://azure.microsoft.com/en-us/blog/azure-kubernetes-service-automatic-fast-and-frictionless-kubernetes-for-all/) (2025-09-16)
-- [FabCon Vienna: Build data-rich agents on an enterprise-ready foundation](https://www.microsoft.com/en-us/microsoft-fabric/blog/2025/09/16/fabcon-vienna-build-data-rich-agents-on-an-enterprise-ready-foundation) (2025-09-16)
 
 </details>
 
@@ -251,11 +251,11 @@
 <details>
 <summary>👥 Facebook Engineering</summary>
 
+- [Video Streaming With the AV1 Video Codec in Mobile Devices](https://engineering.fb.com/2025/09/24/video-engineering/video-streaming-with-av1-video-codec-mobile-devices-meta-white-paper/) (2025-09-24)
 - [Read Meta’s 2025 Sustainability Report](https://sustainability.atmeta.com/2025-sustainability-report/) (2025-09-12)
 - [A New Ranking Framework for Better Notification Quality on Instagram](https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-for-better-notification-quality-on-instagram/) (2025-09-02)
 - [Enabling Kotlin incremental compilation on Buck2](https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/) (2025-08-26)
 - [Creating AI agent solutions for warehouse data access and security](https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/) (2025-08-13)
-- [Federation Platform and Privacy Waves: How Meta distributes compliance-related tasks at scale](https://engineering.fb.com/2025/08/11/security/federation-platform-privacy-waves-meta-distributes-compliance-tasks/) (2025-08-11)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [The Kotlin AI Stack: Build AI Agents With Koog, Code Smarter With Junie, and More](https://blog.jetbrains.com/kotlin/2025/09/the-kotlin-ai-stack-build-ai-agents-with-koog-code-smarter-with-junie-and-more/) (2025-09-24)
 - [The Ktor roadmap and previews](https://blog.jetbrains.com/kotlin/2025/09/ktor-roadmap-2025/) (2025-09-23)
 - [From AI-Generated to Production-Ready Code: WebStorm Refactorings for the Modern Workflow](https://blog.jetbrains.com/webstorm/2025/09/from-ai-generated-to-production-ready-code-webstorm-refactorings-for-the-modern-workflow/) (2025-09-23)
 - [Supercharging Unit Test Generation with in-IDE TestSpark](https://blog.jetbrains.com/research/2025/09/testspark-unit-test-generation/) (2025-09-23)
 - [Islands Theme: The New Look Coming to JetBrains IDEs](https://blog.jetbrains.com/platform/2025/09/islands-theme-the-new-look-coming-to-jetbrains-ides/) (2025-09-22)
-- [Compose Multiplatform 1.9.0 Released: Compose Multiplatform for Web Goes Beta](https://blog.jetbrains.com/kotlin/2025/09/compose-multiplatform-1-9-0-compose-for-web-beta/) (2025-09-22)
 
 </details>
 
@@ -513,11 +513,11 @@ https://www.twilio.com/en-us/blog/insights/gmail-inbox-changes
 <details>
 <summary>💬 Slack API</summary>
 
-- [How to Build Work Habits: 25 Expert-Backed Tips](https://slack.com/blog/productivity/build-productive-work-habits) (2025-09-22)
 - [How to Create a Mind Map: Examples, Benefits, and Uses](https://slack.com/blog/collaboration/how-to-create-a-mind-map-examples-benefits-and-uses) (2025-09-19)
 - [Capacity Planning 101: Balance Workloads and Boost Team Productivity](https://slack.com/blog/productivity/capacity-planning-101-balance-workloads-and-boost-team-productivity) (2025-09-19)
 - [Standard Operating Procedure Templates: What They Are and How to Use Them Effectively](https://slack.com/blog/productivity/standard-operating-procedure-templates-why-theyre-important-and-how-to-create-one) (2025-09-12)
 - [Streamline Note-Taking with Board Meeting Minutes Templates](https://slack.com/blog/productivity/better-board-meeting-minutes) (2025-09-12)
+- [A Research-Backed Sales Playbook for Connecting Slack and Salesforce](https://slack.com/blog/productivity/connecting-slack-salesforce-sales-playbook) (2025-09-11)
 
 </details>
 
@@ -557,22 +557,22 @@ https://www.twilio.com/en-us/blog/insights/gmail-inbox-changes
 <details>
 <summary>🤖 AI News</summary>
 
+- [OpenAI and Nvidia plan $100B chip deal for AI future](https://www.artificialintelligence-news.com/news/openai-and-nvidia-plan-100-b-chip-deal-for-ai-future/) (2025-09-24)
+- [Governing the age of agentic AI: Balancing autonomy and accountability  ](https://www.artificialintelligence-news.com/news/governing-the-age-of-agentic-ai-balancing-autonomy-and-accountability/) (2025-09-24)
 - [Martin Frederik, Snowflake: Data quality is key to AI-driven growth](https://www.artificialintelligence-news.com/news/martin-frederik-snowflake-data-quality-key-ai-driven-growth/) (2025-09-23)
 - [Public trust deficit is a major hurdle for AI growth](https://www.artificialintelligence-news.com/news/public-trust-deficit-major-hurdle-for-ai-growth/) (2025-09-22)
 - [How BMC can be the ‘orchestrator of orchestrators’ for enterprise agentic AI](https://www.artificialintelligence-news.com/news/how-bmc-can-be-the-orchestrator-of-orchestrators-for-enterprise-agentic-ai/) (2025-09-22)
-- [TechEx Europe 2025: Practical learnings for AI leaders](https://www.artificialintelligence-news.com/news/techex-europe-2025-practical-learnings-for-ai-leaders/) (2025-09-19)
-- [Christian Spindeldreher, Dell Technologies: Powering AI at scale](https://www.artificialintelligence-news.com/news/christian-spindeldreher-dell-technologies-powering-ai-at-scale/) (2025-09-19)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Introducing the AI-3P Assessment Framework: Score AI Projects Before Committing Resources](https://towardsdatascience.com/the-ai-3p-assessment-framework/) (2025-09-24)
 - [Generating Consistent Imagery with Gemini](https://towardsdatascience.com/generating-consistent-imagery-with-gemini/) (2025-09-23)
 - [The Art of Asking Good Questions](https://towardsdatascience.com/the-art-of-asking-good-questions/) (2025-09-23)
 - [Generative AI Myths, Busted: An Engineers’s Quick Guide](https://towardsdatascience.com/gen-ai-myths-busted-a-engineerss-quick-guide/) (2025-09-23)
 - [Why Are Marketers Turning To Quasi Geo-Lift Experiments? (And How to Plan Them)](https://towardsdatascience.com/why-are-marketers-turning-to-quasi-geo-lift-experiments-and-how-to-plan-them/) (2025-09-23)
-- [5 Techniques to Prevent Hallucinations in Your RAG Question Answering](https://towardsdatascience.com/5-techniques-to-prevent-hallucinations-in-your-rag-question-answering/) (2025-09-23)
 
 </details>
 
@@ -590,11 +590,11 @@ https://www.twilio.com/en-us/blog/insights/gmail-inbox-changes
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Cutting-Edge Natural Language Processing Trends Shaping 2026](https://www.kdnuggets.com/5-cutting-edge-natural-language-processing-trends-shaping-2026) (2025-09-24)
 - [7 Python Libraries Every Analytics Engineer Should Know](https://www.kdnuggets.com/7-python-libraries-every-analytics-engineer-should-know) (2025-09-23)
 - [10 Newsletters for Busy Data Scientists](https://www.kdnuggets.com/10-newsletters-for-busy-data-scientists) (2025-09-23)
 - [How To Use Synthetic Data To Build a Portfolio Project](https://www.kdnuggets.com/how-to-use-synthetic-data-to-build-a-portfolio-project) (2025-09-22)
 - [Beginner’s Guide to VibeVoice](https://www.kdnuggets.com/beginners-guide-to-vibevoice) (2025-09-22)
-- [10 Python One-Liners to Optimize Your Hugging Face Transformers Pipelines](https://www.kdnuggets.com/10-python-one-liners-to-optimize-your-hugging-face-transformers-pipelines) (2025-09-22)
 
 </details>
 
