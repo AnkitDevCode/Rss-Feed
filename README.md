@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Disney is raising the price of Disney+, Hulu subscriptions next month](https://techcrunch.com/2025/09/23/disney-is-raising-the-price-of-disney-hulu-subscriptions-next-month/) (2025-09-23)
-- [Uber-rival Rapido doubles valuation to $2.3B following Swiggy stake sale](https://techcrunch.com/2025/09/23/uber-rival-rapido-doubles-valuation-to-2-3b-following-swiggy-stake-sale/) (2025-09-23)
-- [Jaguar Land Rover to pause production until next week – at least ](https://techcrunch.com/2025/09/23/jaguar-land-rover-to-pause-production-until-next-week-at-least/) (2025-09-23)
-- [Do startups still need Silicon Valley? Leaders at Signalfire, Lago, and Revolution debate at TechCrunch Disrupt 2025.](https://techcrunch.com/2025/09/23/do-startups-still-need-silicon-valley-hear-from-the-founders-and-funders-challenging-old-assumptions-at-techcrunch-disrupt-2025/) (2025-09-23)
-- [Google Photos users on Android can now edit their photos by talking to or texting the AI](https://techcrunch.com/2025/09/23/google-photos-users-on-android-can-now-edit-their-photos-by-talking-to-or-texting-the-ai/) (2025-09-23)
+- [OpenAI is building five new Stargate data centers with Oracle and SoftBank](https://techcrunch.com/2025/09/23/openai-is-building-five-new-stargate-data-centers-with-oracle-and-softbank/) (2025-09-23)
+- [Building the new backbone of space at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/23/space-is-open-for-business-with-even-rogers-and-max-haot-at-techcrunch-disrupt-2025/) (2025-09-23)
+- [What is Bluesky? Everything to know about the X competitor](https://techcrunch.com/2025/09/23/what-is-bluesky-everything-to-know-about-the-x-competitor/) (2025-09-23)
+- [Google’s AI Mode arrives in Spanish globally](https://techcrunch.com/2025/09/23/googles-ai-mode-arrives-in-spanish-globally/) (2025-09-23)
+- [Scott Wiener on his fight to make Big Tech disclose AI’s dangers](https://techcrunch.com/2025/09/23/scott-wiener-on-his-fight-to-make-big-tech-disclose-ais-dangers/) (2025-09-23)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Android users can now use conversational editing in Google Photos](https://blog.google/products/photos/android-conversational-editing-google-photos/) (2025-09-23)
-- [Always Invite Anna](https://sharif.io/anna-alexei) (2025-09-23)
-- [Shopify, pulling strings at Ruby Central, forces Bundler and RubyGems takeover](https://joel.drapper.me/p/rubygems-takeover/) (2025-09-23)
-- [From MCP to shell: MCP auth flaws enable RCE in Claude Code, Gemini CLI and more](https://verialabs.com/blog/from-mcp-to-shell/) (2025-09-23)
-- [Launch HN: Strata (YC X25) – One MCP server for AI to handle thousands of tools](https://news.ycombinator.com/item?id=45347914) (2025-09-23)
+- [Baldur's Gate 3 Steam Deck – Native Version](https://larian.com/support/faqs/steam-deck-native-version_121) (2025-09-24)
+- [The Top Programming Languages 2025](https://spectrum.ieee.org/top-programming-languages-2025) (2025-09-23)
+- [MLB approves robot umpires for 2026 as part of challenge system](https://www.espn.com/mlb/story/_/id/46357017/mlb-approves-robot-umpires-2026-part-challenge-system) (2025-09-23)
+- [NYC Telecom Raid: What's Up with Those Weird SIM Banks?](https://tedium.co/2025/09/23/secret-service-raid-sim-bank-telecom-hardware/) (2025-09-23)
+- [From Rust to reality: The hidden journey of fetch_max](https://questdb.com/blog/rust-fetch-max-compiler-journey/) (2025-09-23)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [TP-Link’s BE3600 Travel Router makes it easy to get online on the go, and it’s cheaper than ever](https://www.theverge.com/tech/783870/tp-link-be3600-travel-router-apple-airtag-deal-sale) (2025-09-23)
-- [Trump couldn’t win over Charlie Kirk’s mourners](https://www.theverge.com/policy/783707/charlie-kirk-memorial-christian-nationalism-maga) (2025-09-23)
-- [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables) (2025-09-23)
-- [Disney Plus is getting another price hike](https://www.theverge.com/news/783489/disney-plus-streaming-subscription-price-increase) (2025-09-23)
-- [Tesla’s robotaxi push is confusing the hell out of regulators](https://www.theverge.com/news/783804/tesla-robotaxi-california-dmv-confusion) (2025-09-23)
+- [Pokémon lawyers won&#8217;t sue DHS for that video, former legal head predicts](https://www.theverge.com/news/784312/pokemon-lawyers-wont-sue-dhs-for-that-video-former-legal-head-predicts) (2025-09-24)
+- [YouTube will let creators who spread covid misinformation back on the site](https://www.theverge.com/policy/784238/youtube-covid-election-misinformation-reversal) (2025-09-23)
+- [The Switch 2 version of Borderlands 4 has been delayed](https://www.theverge.com/news/784277/borderlands-4-nintendo-switch-2-delay) (2025-09-23)
+- [Inside Charlie Kirk’s megachurch memorial service](https://www.theverge.com/column/784033/charlie-kirk-memorial-jimmy-kimmel-fcc-regulator) (2025-09-23)
+- [Apple TV Plus has quietly pulled its new show about domestic extremism](https://www.theverge.com/entertainment/784185/apple-tv-plus-the-savant-domestic-terrorism) (2025-09-23)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Scientists catch a shark threesome on camera](https://arstechnica.com/science/2025/09/scientists-catch-a-shark-threesome-on-camera/) (2025-09-23)
-- [Baby Steps is the most gloriously frustrating game I’ve ever struggled through](https://arstechnica.com/gaming/2025/09/baby-steps-is-the-most-gloriously-frustrating-game-ive-ever-struggled-through/) (2025-09-23)
-- [US uncovers 100,000 SIM cards that could have “shut down” NYC cell network](https://arstechnica.com/security/2025/09/us-uncovers-100000-sim-cards-that-could-have-shut-down-nyc-cell-network/) (2025-09-23)
-- [NASA targeting early February for Artemis II mission to the Moon](https://arstechnica.com/space/2025/09/nasa-targeting-early-february-for-artemis-ii-mission-to-the-moon/) (2025-09-23)
-- [Judge lets construction on an offshore wind farm resume](https://arstechnica.com/science/2025/09/judge-lets-construction-on-an-offshore-wind-farm-resume/) (2025-09-23)
+- [Pennywise gets an origin story in Welcome to Derry trailer](https://arstechnica.com/culture/2025/09/pennywise-gets-an-origin-story-in-welcome-to-derry-trailer/) (2025-09-23)
+- [When “no” means “yes”: Why AI chatbots can’t process Persian social etiquette](https://arstechnica.com/ai/2025/09/when-no-means-yes-why-ai-chatbots-cant-process-persian-social-etiquette/) (2025-09-23)
+- [Disney decides it hasn’t angered people enough, announces Disney+ price hikes](https://arstechnica.com/gadgets/2025/09/disney-decides-it-hasnt-angered-people-enough-announces-disney-price-hikes/) (2025-09-23)
+- [YouTube will restore channels banned for COVID and election misinformation](https://arstechnica.com/gadgets/2025/09/youtube-will-restore-channels-banned-for-covid-and-election-misinformation/) (2025-09-23)
+- [FCC chairman unconvincingly claims he never threatened ABC station licenses](https://arstechnica.com/tech-policy/2025/09/fcc-chairman-unconvincingly-claims-he-never-threatened-abc-station-licenses/) (2025-09-23)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Roundtables: Meet the 2025 Innovator of the Year](https://www.technologyreview.com/2025/09/23/1123986/roundtables-meet-the-2025-innovator-of-the-year/) (2025-09-23)
 - [The Download: AI’s retracted papers problem](https://www.technologyreview.com/2025/09/23/1123921/the-download-ais-retracted-papers-problem/) (2025-09-23)
 - [AI models are using material from retracted scientific papers](https://www.technologyreview.com/2025/09/23/1123897/ai-models-are-using-material-from-retracted-scientific-papers/) (2025-09-23)
 - [The Download: the LLM will see you now, and a new fusion power deal](https://www.technologyreview.com/2025/09/22/1123889/the-download-the-llm-will-see-you-now-and-a-new-fusion-power-deal/) (2025-09-22)
 - [An oil and gas giant signed a $1 billion deal with Commonwealth Fusion Systems](https://www.technologyreview.com/2025/09/22/1123870/commonwealth-fusion-eni/) (2025-09-22)
-- [This medical startup uses LLMs to run appointments and make diagnoses](https://www.technologyreview.com/2025/09/22/1123873/medical-diagnosis-llm/) (2025-09-22)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Streamlining MCP Management: Bundle Multiple Servers with FastMCP Proxies](https://dev.to/alexretana/streamlining-mcp-management-bundle-multiple-servers-with-fastmcp-proxies-n3i) (2025-09-23)
-- [Como Integrar Chainlink Data Feeds em Go para Múltiplos Tokens](https://dev.to/dev-araujo/como-integrar-chainlink-data-feeds-em-go-para-multiplos-tokens-ekb) (2025-09-23)
-- [Node.js Multi-Threading with Worker Threads](https://dev.to/dushmanta/nodejs-multi-threading-with-worker-threads-1nmj) (2025-09-23)
-- [Complete Ansible Guide](https://dev.to/mcheremnov/complete-ansible-guide-omf) (2025-09-23)
-- [Unlock More FPS with Object Pooling](https://dev.to/rahul_barate_e965377330fe/unlock-more-fps-with-object-pooling-3e3f) (2025-09-23)
+- [From Kaizen to Wabi-Sabi: What Japanese Developers Taught Me About Writing Code That Lasts](https://dev.to/dev_tips/from-kaizen-to-wabi-sabi-what-japanese-developers-taught-me-about-writing-code-that-lasts-mjl) (2025-09-24)
+- [Go vs. C#: Which Language Uses Memory More Efficiently?](https://dev.to/lamri_abdellahramdane_15/go-vs-c-which-language-uses-memory-more-efficiently-pk5) (2025-09-24)
+- [Forget Meta Ray-Ban Glasses. The Neural Band Is the Real Platform (If Devs Get In)](https://dev.to/dev_tips/forget-meta-ray-ban-glasses-the-neural-band-is-the-real-platform-if-devs-get-in-gl5) (2025-09-24)
+- [I've been drifting, here is my line in the sand.](https://dev.to/regalman/ive-been-drifting-here-is-my-line-in-the-sand-b3a) (2025-09-24)
+- [Are you still calling yourself DevOps? That role won’t exist in 2026.](https://dev.to/dev_tips/are-you-still-calling-yourself-devops-that-role-wont-exist-in-2026-4pk6) (2025-09-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [⚡ Advanced Next.js Tips & Best Practices for Scaling Applications](https://medium.com/@theHackHabitual/advanced-next-js-tips-best-practices-for-scaling-applications-ec70424624c9?source=rss------programming-5) (2025-09-23)
-- [How a Side AI Project Ended Up Paying My Rent](https://python.plainenglish.io/how-a-side-ai-project-ended-up-paying-my-rent-7d9a8aee7807?source=rss------programming-5) (2025-09-23)
-- [⚛️ React.js 2025: 12 Advanced Concepts Every Developer Should Master](https://medium.com/@TheEnaModernCoder/%EF%B8%8F-react-js-2025-12-advanced-concepts-every-developer-should-master-9a4be15c3873?source=rss------programming-5) (2025-09-23)
-- [Channel Direction Types in Go](https://medium.com/@AlexanderObregon/channel-direction-types-in-go-6467de14ca88?source=rss------programming-5) (2025-09-23)
-- [Adding Matrix Values Together with Java Arrays](https://medium.com/@AlexanderObregon/adding-matrix-values-together-with-java-arrays-15bcc03411d0?source=rss------programming-5) (2025-09-23)
+- [09055770486شماره خاله#شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان #شماره خاله کرج…](https://medium.com/@tdiuuhjfjggjfyd/09055770486%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-dc870fee94b4?source=rss------programming-5) (2025-09-24)
+- [Event Loop, Microtasks, and Scheduling Explained](https://medium.com/codetodeploy/event-loop-microtasks-and-scheduling-explained-b637e721c835?source=rss------programming-5) (2025-09-24)
+- [09055770486شماره خاله#شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان #شماره خاله کرج…](https://medium.com/@tdiuuhjfjggjfyd/09055770486%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-d7f42c14142f?source=rss------programming-5) (2025-09-24)
+- [09055770486شماره خاله#شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان #شماره خاله کرج…](https://medium.com/@tdiuuhjfjggjfyd/09055770486%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-c8d694170804?source=rss------programming-5) (2025-09-24)
+- [How I Built Command-Line Tools That Made My Workflow 10× Faster](https://medium.com/codetodeploy/how-i-built-command-line-tools-that-made-my-workflow-10-faster-0756d4db1dcc?source=rss------programming-5) (2025-09-24)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [The Ktor roadmap and previews](https://blog.jetbrains.com/kotlin/2025/09/ktor-roadmap-2025/) (2025-09-23)
 - [From AI-Generated to Production-Ready Code: WebStorm Refactorings for the Modern Workflow](https://blog.jetbrains.com/webstorm/2025/09/from-ai-generated-to-production-ready-code-webstorm-refactorings-for-the-modern-workflow/) (2025-09-23)
 - [Supercharging Unit Test Generation with in-IDE TestSpark](https://blog.jetbrains.com/research/2025/09/testspark-unit-test-generation/) (2025-09-23)
 - [Islands Theme: The New Look Coming to JetBrains IDEs](https://blog.jetbrains.com/platform/2025/09/islands-theme-the-new-look-coming-to-jetbrains-ides/) (2025-09-22)
 - [Compose Multiplatform 1.9.0 Released: Compose Multiplatform for Web Goes Beta](https://blog.jetbrains.com/kotlin/2025/09/compose-multiplatform-1-9-0-compose-for-web-beta/) (2025-09-22)
-- [JetBrains Academy – September Digest](https://blog.jetbrains.com/education/2025/09/19/jetbrains-academy-september/) (2025-09-19)
 
 </details>
 
@@ -373,6 +373,21 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Self-service in the age of AI: Virtual agents that actually resolve
+](
+https://www.twilio.com/en-us/blog/insights/ai/self-service-ai-virtual-agents
+) (2025-09-22)
+- [
+Breaking the Monolith: How We Used the Strangler Fig Pattern to Transform Segment’s Notification Architecture
+](
+https://www.twilio.com/en-us/blog/developers/transform-segment-notification-architecture-orchestration
+) (2025-09-22)
+- [
+Use ConversationRelay with the Open Source Agent Builder Flowise: A Multi-Agent Example with Voice
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/conversationrelay-agent-builder-flowise-voice-messaging
+) (2025-09-22)
+- [
 Holiday Email Marketing Best Practices for 2025 (and Beyond)
 ](
 https://www.twilio.com/en-us/blog/insights/planning-ahead-for-your-holiday-email-sending
@@ -382,21 +397,6 @@ Big Changes Are Coming to the Gmail Inbox
 ](
 https://www.twilio.com/en-us/blog/insights/gmail-inbox-changes
 ) (2025-09-18)
-- [
-How to Build a Smart Inventory Chatbot on WhatsApp with LangChain, LangGraph, OpenAI, and Flask
-](
-https://www.twilio.com/en-us/blog/developers/community/how-to-build-a-smart-inventory-chatbot-on-whatsapp-with-langchai
-) (2025-09-17)
-- [
-From Siloes to Platforms: New Data on How Security Teams Are Closing the Fraud Gap
-](
-https://www.twilio.com/en-us/blog/insights/siloes-platforms-security-teams-closing-the-fraud-gap
-) (2025-09-17)
-- [
-Vibe Coding with an Agent and Twilio SMS
-](
-https://www.twilio.com/en-us/blog/developers/vibe-coding-with-an-agent-and-twilio-sms
-) (2025-09-17)
 
 </details>
 
@@ -513,11 +513,11 @@ https://www.twilio.com/en-us/blog/developers/vibe-coding-with-an-agent-and-twili
 <details>
 <summary>💬 Slack API</summary>
 
-- [How to Build Work Habits: 25 Expert-Backed Tips](https://slack.com/blog/productivity/build-productive-work-habits) (2025-09-22)
-- [How to Create a Mind Map: Examples, Benefits, and Uses](https://slack.com/blog/collaboration/how-to-create-a-mind-map-examples-benefits-and-uses) (2025-09-19)
-- [Capacity Planning 101: Balance Workloads and Boost Team Productivity](https://slack.com/blog/productivity/capacity-planning-101-balance-workloads-and-boost-team-productivity) (2025-09-19)
 - [Standard Operating Procedure Templates: What They Are and How to Use Them Effectively](https://slack.com/blog/productivity/standard-operating-procedure-templates-why-theyre-important-and-how-to-create-one) (2025-09-12)
 - [Streamline Note-Taking with Board Meeting Minutes Templates](https://slack.com/blog/productivity/better-board-meeting-minutes) (2025-09-12)
+- [A Research-Backed Sales Playbook for Connecting Slack and Salesforce](https://slack.com/blog/productivity/connecting-slack-salesforce-sales-playbook) (2025-09-11)
+- [15 Team Meeting Ideas That Help Employees Stay Focused](https://slack.com/blog/collaboration/engaging-team-meetings) (2025-09-10)
+- [Agile and Scrum: Definitions, Differences, and Examples](https://slack.com/blog/collaboration/agile-vs-scrum) (2025-09-10)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/developers/vibe-coding-with-an-agent-and-twili
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Generating Consistent Imagery with Gemini](https://towardsdatascience.com/generating-consistent-imagery-with-gemini/) (2025-09-23)
 - [The Art of Asking Good Questions](https://towardsdatascience.com/the-art-of-asking-good-questions/) (2025-09-23)
 - [Generative AI Myths, Busted: An Engineers’s Quick Guide](https://towardsdatascience.com/gen-ai-myths-busted-a-engineerss-quick-guide/) (2025-09-23)
 - [Why Are Marketers Turning To Quasi Geo-Lift Experiments? (And How to Plan Them)](https://towardsdatascience.com/why-are-marketers-turning-to-quasi-geo-lift-experiments-and-how-to-plan-them/) (2025-09-23)
 - [5 Techniques to Prevent Hallucinations in Your RAG Question Answering](https://towardsdatascience.com/5-techniques-to-prevent-hallucinations-in-your-rag-question-answering/) (2025-09-23)
-- [How to Connect an MCP Server for an AI-Powered, Supply-Chain Network Optimization Agent](https://towardsdatascience.com/mcp-server-for-an-ai-powered-supply-chain-network-optimization-agent/) (2025-09-23)
 
 </details>
 
