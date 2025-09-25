@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Y Combinator launches “Early Decision” for students who want to graduate first, build later](https://techcrunch.com/2025/09/24/y-combinator-launches-early-decision-for-students-who-want-to-graduate-first-build-later/) (2025-09-24)
-- [India court rejects X’s “free speech” argument, backs government takedown powers](https://techcrunch.com/2025/09/24/india-court-rejects-xs-free-speech-argument-backs-government-takedown-powers/) (2025-09-24)
+- [Smartphone maker Nothing to spin off its affordable CMF brand](https://techcrunch.com/2025/09/24/smartphone-maker-nothing-to-spin-off-its-affordable-cmf-brand/) (2025-09-25)
+- [It isn’t your imagination: Google Cloud is flooding the zone](https://techcrunch.com/2025/09/24/it-isnt-your-imagination-google-cloud-is-flooding-the-zone/) (2025-09-25)
+- [Y Combinator launches ‘Early Decision’ for students who want to graduate first, build later](https://techcrunch.com/2025/09/24/y-combinator-launches-early-decision-for-students-who-want-to-graduate-first-build-later/) (2025-09-24)
+- [India court rejects X’s ‘free speech’ argument, backs government takedown powers](https://techcrunch.com/2025/09/24/india-court-rejects-xs-free-speech-argument-backs-government-takedown-powers/) (2025-09-24)
 - [Billionaire VC Mike Moritz slams new H-1B visa fee as ‘brutish extortion scheme’](https://techcrunch.com/2025/09/24/billionaire-vc-mike-moritz-slams-new-h-1b-visa-fee-as-brutish-extortion-scheme/) (2025-09-24)
-- [Chipiron’s big idea: rethinking MRI access, not replacing old machines ](https://techcrunch.com/video/chipirons-big-idea-rethinking-mri-access-not-replacing-old-machines/) (2025-09-24)
-- [Neon, the No. 2 social app on the Apple App Store, pays users to record their phone calls and sells data to AI firms](https://techcrunch.com/2025/09/24/neon-the-no-2-social-app-on-the-apple-app-store-pays-users-to-record-their-phone-calls-and-sells-data-to-ai-firms/) (2025-09-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Denmark shuts multiple airports, more unidentified drones spotted](https://www.msn.com/en-us/news/world/denmark-shuts-second-airport-in-a-week-more-unidentified-drones-spotted/ar-AA1NfVVj) (2025-09-25)
+- [The "Wage Level" Mirage: H-1B proposal could help outsourcers and hurt US talent](https://ifp.org/the-wage-level-mirage/) (2025-09-25)
 - [How did sports betting become legal in the US?](https://shreyashariharan.substack.com/p/how-did-sports-betting-become-legal) (2025-09-24)
 - [Docker Hub Is Down](https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68d47a2f93c09e05486d93a9) (2025-09-24)
 - [Do YC after you graduate: Early decision for students](https://www.ycombinator.com/early-decision) (2025-09-24)
-- [I built a CLI to test and eval MCP servers](https://www.npmjs.com/package/@mcpjam/cli) (2025-09-24)
-- [Helium Browser](https://helium.computer/) (2025-09-24)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Honor’s Magic 8 Pro is getting a new AI button](https://www.theverge.com/news/784711/honor-magic-8-pro-design-snapdragon-8-elite-gen-5-ai-button-first-look-exclusive) (2025-09-25)
 - [Google just asked the Supreme Court to save it from the Epic ruling](https://www.theverge.com/news/785456/google-just-asked-the-supreme-court-to-save-it-from-the-epic-ruling) (2025-09-25)
 - [Nintendo’s new Fire Emblem mobile game has an Among Us-style twist](https://www.theverge.com/news/785416/nintendo-fire-emblem-shadows-mobile-game-among-us) (2025-09-24)
 - [The best Apple deals to shop ahead of Amazon’s fall Prime Day event](https://www.theverge.com/tech/784180/amazon-october-prime-day-sale-best-early-apple-deals-2025) (2025-09-24)
 - [Google reveals its Android for PC is coming next year](https://www.theverge.com/tech/785351/google-reveals-its-android-for-pc-is-coming-next-year) (2025-09-24)
-- [X-ray scans reveal the hidden risks of cheap batteries](https://www.theverge.com/news/784966/lumafield-x-ray-ct-scan-lithium-ion-battery-risks-manufacturing-defect) (2025-09-24)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker & Nginx](https://dev.to/ramer2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-nginx-29gl) (2025-09-25)
-- [GDPR in 2025 - Why It Still Matters and How to Stay Updated](https://dev.to/heyjoshlee/gdpr-in-2025-why-it-still-matters-and-how-to-stay-updated-190p) (2025-09-25)
-- [From $820 to $92: How A Startup Cut Cloud Costs by 88%](https://dev.to/hasan_ashab/from-820-to-92-how-a-startup-cut-cloud-costs-by-88-2mne) (2025-09-25)
-- [The Ultimate Guide to Open Table Formats: Iceberg, Delta Lake, Hudi, Paimon, and DuckLake](https://dev.to/alexmercedcoder/the-ultimate-guide-to-open-table-formats-iceberg-delta-lake-hudi-paimon-and-ducklake-dnk) (2025-09-25)
-- [For those looking to build portfolio and gain collaborative experience: GirlHacks is running the Innovate Series 2025, a multi-week program focused on building innovative tech solutions in teams. https://www.girlhacks.net/events/innovate-series-2025](https://dev.to/shuchi_agarwal_b24d7792cc/for-those-looking-to-build-portfolio-and-gain-collaborative-experience-girlhacks-is-running-the-48om) (2025-09-25)
+- [The victims deserve to see every single person in this conspiracy held accountable, not just the front men.](https://dev.to/techtalk/the-victims-deserve-to-see-every-single-person-in-this-conspiracy-held-accountable-not-just-the-2o5e) (2025-09-25)
+- [How I fixed the Chakra UI List component not found error by updating to the latest version.](https://dev.to/kazutora_hattori_66972c88/how-i-fixed-the-chakra-ui-list-component-not-found-error-by-updating-to-the-latest-version-emg) (2025-09-25)
+- [Electric Border ⚡ (SVG seed thrashing)](https://dev.to/chchkchk22488/electric-border-svg-seed-thrashing-3geo) (2025-09-25)
+- [AI for Coding Interviews: How It’s Changing the Way We Prepare](https://dev.to/alex_hunter_44f4c9ed6671e/ai-for-coding-interviews-how-its-changing-the-way-we-prepare-5ajg) (2025-09-25)
+- [Mastering Celery: A Complete Guide to Task Management, Database Connections, and Scaling](https://dev.to/sizan_mahmud0_e7c3fd0cb68/mastering-celery-a-complete-guide-to-task-management-database-connections-and-scaling-34gi) (2025-09-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09045080282شماره خاله ورامین شماره خاله کرمان شماره خاله کرج](https://medium.com/@2kskwkwnsnsn/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%88%D8%B1%D8%A7%D9%85%DB%8C%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D9%85%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-606631205181?source=rss------programming-5) (2025-09-25)
-- [09045080282شماره خاله ورامین شماره خاله کرمان شماره خاله کرج](https://medium.com/@2kskwkwnsnsn/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%88%D8%B1%D8%A7%D9%85%DB%8C%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D9%85%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-4e960d31d691?source=rss------programming-5) (2025-09-25)
-- [09045080282شماره خاله ورامین شماره خاله کرمان شماره خاله کرج](https://medium.com/@2kskwkwnsnsn/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%88%D8%B1%D8%A7%D9%85%DB%8C%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D9%85%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-c83c1de9e679?source=rss------programming-5) (2025-09-25)
-- [7 Advanced Gin Middleware Patterns to Boost API Performance Beyond Standard Authentication and…](https://medium.techkoalainsights.com/7-advanced-gin-middleware-patterns-to-boost-api-performance-beyond-standard-authentication-and-22d62836796a?source=rss------programming-5) (2025-09-25)
-- [09045080282شماره خاله بندرعباس # شماره خاله اراک # شماره خاله رشت # شماره خاله همدان # شماره خاله…](https://medium.com/@1akkaaksknsnsksks/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B1%D8%A7%DA%A9-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D8%B4%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%87%D9%85%D8%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-e68226ea6027?source=rss------programming-5) (2025-09-25)
+- [The Hacker’s Map: From Recon to Persistence — How Attacks Actually Flow](https://blog.stackademic.com/the-hackers-map-from-recon-to-persistence-how-attacks-actually-flow-dc0b4e03c23e?source=rss------programming-5) (2025-09-25)
+- [I Replaced My Habit Tracker App With a Python Script I Built in a Weekend](https://medium.com/codrift/i-replaced-my-habit-tracker-app-with-a-python-script-i-built-in-a-weekend-442941d22555?source=rss------programming-5) (2025-09-25)
+- [7 One-Liners in JavaScript That Will Save You Hours](https://medium.com/@kaklotarrahul79/7-one-liners-in-javascript-that-will-save-you-hours-00fc45822c43?source=rss------programming-5) (2025-09-25)
+- [ Flutter in 2025: The Ultimate Guide to Cross-Platform Development](https://medium.com/@TheEnaModernCoder/flutter-in-2025-the-ultimate-guide-to-cross-platform-development-cb655748ea09?source=rss------programming-5) (2025-09-25)
+- [Mastering the Factory Design Pattern: When, Why, and How to Use It](https://medium.com/@HasanMubin/mastering-the-factory-design-pattern-when-why-and-how-to-use-it-c6c59cb82618?source=rss------programming-5) (2025-09-25)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [How Azure Cobalt 100 VMs are powering real-world solutions, delivering performance and efficiency results](https://azure.microsoft.com/en-us/blog/how-azure-cobalt-100-vms-are-powering-real-world-solutions-delivering-performance-and-efficiency-results/) (2025-09-23)
+- [Accelerate migration and modernization with agentic AI](https://azure.microsoft.com/en-us/blog/accelerate-migration-and-modernization-with-agentic-ai/) (2025-09-23)
 - [Inside the world’s most powerful AI datacenter](https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/) (2025-09-18)
 - [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms ](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms/) (2025-09-18)
 - [Agent Factory: Creating a blueprint for safe and secure AI agents](https://azure.microsoft.com/en-us/blog/agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents/) (2025-09-17)
-- [Azure Kubernetes Service Automatic: Fast and frictionless Kubernetes for all](https://azure.microsoft.com/en-us/blog/azure-kubernetes-service-automatic-fast-and-frictionless-kubernetes-for-all/) (2025-09-16)
-- [FabCon Vienna: Build data-rich agents on an enterprise-ready foundation](https://www.microsoft.com/en-us/microsoft-fabric/blog/2025/09/16/fabcon-vienna-build-data-rich-agents-on-an-enterprise-ready-foundation) (2025-09-16)
 
 </details>
 
@@ -373,6 +373,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Manage a List of Safe Phone Numbers in PHP with Twilio Verify's Safe List API
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/manage-list-of-safe-phone-numbers-php-with-twilio-verify-safe-list-api
+) (2025-09-23)
+- [
 Self-service in the age of AI: Virtual agents that actually resolve
 ](
 https://www.twilio.com/en-us/blog/insights/ai/self-service-ai-virtual-agents
@@ -383,20 +388,15 @@ Breaking the Monolith: How We Used the Strangler Fig Pattern to Transform Segmen
 https://www.twilio.com/en-us/blog/developers/transform-segment-notification-architecture-orchestration
 ) (2025-09-22)
 - [
+Build 2-Way Conversational Email Experiences Using SendGrid Inbound Parse
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/conversational-email-inbound-parse-signature-verification
+) (2025-09-22)
+- [
 Use ConversationRelay with the Open Source Agent Builder Flowise: A Multi-Agent Example with Voice
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/conversationrelay-agent-builder-flowise-voice-messaging
 ) (2025-09-22)
-- [
-Holiday Email Marketing Best Practices for 2025 (and Beyond)
-](
-https://www.twilio.com/en-us/blog/insights/planning-ahead-for-your-holiday-email-sending
-) (2025-09-19)
-- [
-Big Changes Are Coming to the Gmail Inbox
-](
-https://www.twilio.com/en-us/blog/insights/gmail-inbox-changes
-) (2025-09-18)
 
 </details>
 
@@ -579,11 +579,11 @@ https://www.twilio.com/en-us/blog/insights/gmail-inbox-changes
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [DeepCode: This FREE Agentic AI Coder is INSANE!](https://www.analyticsvidhya.com/blog/2025/09/deepcode/) (2025-09-25)
+- [Google’s Agent Payments Protocol (AP2): The New Way AI Agents Pay for You](https://www.analyticsvidhya.com/blog/2025/09/agent-payments-protocol-ap2/) (2025-09-25)
 - [12 Things you can do with the Free Gemini API](https://www.analyticsvidhya.com/blog/2025/09/gemini-free-api/) (2025-09-24)
 - [Zero-Day Attack Detection using Denoising Autoencoder on UNSW-NB15](https://www.analyticsvidhya.com/blog/2025/09/zero-day-attack-detection/) (2025-09-24)
 - [Is Qwen-Image-Edit-2509 Better than Nano Banana?](https://www.analyticsvidhya.com/blog/2025/09/qwen-image-edit-2509/) (2025-09-23)
-- [I Tried Deepseek-V3.1-Terminus and This is How it Went..](https://www.analyticsvidhya.com/blog/2025/09/deepseek-v3-1-terminus/) (2025-09-23)
-- [Qwen3-Omni Review: Multimodal Powerhouse or Overhyped Promise?](https://www.analyticsvidhya.com/blog/2025/09/qwen3-omni/) (2025-09-23)
 
 </details>
 
