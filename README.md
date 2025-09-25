@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [TuneIn partners with FEMA to give drivers real-time emergency alerts](https://techcrunch.com/2025/09/25/tunein-partners-with-fema-to-give-drivers-real-time-emergency-alerts/) (2025-09-25)
+- [Spotify to label AI music, filter spam and more in AI policy change](https://techcrunch.com/2025/09/25/spotify-updates-ai-policy-to-label-tracks-cut-down-on-spam/) (2025-09-25)
 - [Smartphone maker Nothing to spin off its affordable CMF brand](https://techcrunch.com/2025/09/24/smartphone-maker-nothing-to-spin-off-its-affordable-cmf-brand/) (2025-09-25)
 - [It isn’t your imagination: Google Cloud is flooding the zone](https://techcrunch.com/2025/09/24/it-isnt-your-imagination-google-cloud-is-flooding-the-zone/) (2025-09-25)
 - [Y Combinator launches ‘Early Decision’ for students who want to graduate first, build later](https://techcrunch.com/2025/09/24/y-combinator-launches-early-decision-for-students-who-want-to-graduate-first-build-later/) (2025-09-24)
-- [India court rejects X’s ‘free speech’ argument, backs government takedown powers](https://techcrunch.com/2025/09/24/india-court-rejects-xs-free-speech-argument-backs-government-takedown-powers/) (2025-09-24)
-- [Billionaire VC Mike Moritz slams new H-1B visa fee as ‘brutish extortion scheme’](https://techcrunch.com/2025/09/24/billionaire-vc-mike-moritz-slams-new-h-1b-visa-fee-as-brutish-extortion-scheme/) (2025-09-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Denmark shuts multiple airports, more unidentified drones spotted](https://www.msn.com/en-us/news/world/denmark-shuts-second-airport-in-a-week-more-unidentified-drones-spotted/ar-AA1NfVVj) (2025-09-25)
-- [The "Wage Level" Mirage: H-1B proposal could help outsourcers and hurt US talent](https://ifp.org/the-wage-level-mirage/) (2025-09-25)
-- [How did sports betting become legal in the US?](https://shreyashariharan.substack.com/p/how-did-sports-betting-become-legal) (2025-09-24)
-- [Docker Hub Is Down](https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68d47a2f93c09e05486d93a9) (2025-09-24)
-- [Do YC after you graduate: Early decision for students](https://www.ycombinator.com/early-decision) (2025-09-24)
+- [The Wind, a Pole, and the Dragon](https://entropicthoughts.com/the-wind-a-pole-and-the-dragon) (2025-09-25)
+- [The Theatre of Pull Requests and Code Review](https://meks.quest/blogs/the-theatre-of-pull-requests-and-code-review) (2025-09-25)
+- [Bundler Belongs to the Ruby Community](https://andre.arko.net/2025/09/25/bundler-belongs-to-the-ruby-community/) (2025-09-25)
+- [Some interesting stuff I found on IX LANs](https://blog.benjojo.co.uk/post/ixp-bad-broadcast-packets-interesting) (2025-09-25)
+- [Is This Bad? This Feels Bad. (Fortra GoAnywhere CVE-2025-10035)](https://labs.watchtowr.com/is-this-bad-this-feels-bad-goanywhere-cve-2025-10035/) (2025-09-25)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Honor’s Magic 8 Pro is getting a new AI button](https://www.theverge.com/news/784711/honor-magic-8-pro-design-snapdragon-8-elite-gen-5-ai-button-first-look-exclusive) (2025-09-25)
-- [Google just asked the Supreme Court to save it from the Epic ruling](https://www.theverge.com/news/785456/google-just-asked-the-supreme-court-to-save-it-from-the-epic-ruling) (2025-09-25)
-- [Nintendo’s new Fire Emblem mobile game has an Among Us-style twist](https://www.theverge.com/news/785416/nintendo-fire-emblem-shadows-mobile-game-among-us) (2025-09-24)
-- [The best Apple deals to shop ahead of Amazon’s fall Prime Day event](https://www.theverge.com/tech/784180/amazon-october-prime-day-sale-best-early-apple-deals-2025) (2025-09-24)
-- [Google reveals its Android for PC is coming next year](https://www.theverge.com/tech/785351/google-reveals-its-android-for-pc-is-coming-next-year) (2025-09-24)
+- [Spotify is finally taking steps to address its AI slop and clone problem](https://www.theverge.com/news/785136/spotify-ai-slop-impersonation-disclosure) (2025-09-25)
+- [Jimmy Kimmel returns bigger than ever](https://www.theverge.com/news/785552/jimmy-kimmel-returns-record-viewership-figures) (2025-09-25)
+- [Microsoft forced to make Windows 10 extended security updates truly free in Europe](https://www.theverge.com/news/785544/microsoft-windows-10-extended-security-updates-free-europe-changes) (2025-09-25)
+- [OnePlus 13 plus one equals the OnePlus 15](https://www.theverge.com/tech/785386/oneplus-13-plus-one-equals-the-oneplus-15) (2025-09-25)
+- [Uber Eats is offering grocery discounts to combat ‘veggie-flation’](https://www.theverge.com/transportation/784953/uber-eats-fresh-day-grocery-discount-price) (2025-09-25)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Ford decides to run its Le Mans program in-house, racing in 2027](https://arstechnica.com/cars/2025/09/ford-decides-to-run-its-le-mans-program-in-house-racing-in-2027/) (2025-09-25)
+- [DeepMind’s robotic ballet: An AI for coordinating manufacturing robots](https://arstechnica.com/science/2025/09/deepminds-robotic-ballet-an-ai-for-coordinating-manufacturing-robots/) (2025-09-25)
 - [The crew of Artemis II will fly on Integrity during mission to the Moon](https://arstechnica.com/space/2025/09/introducing-integrity-artemis-ii-astronauts-name-their-orion-ride-to-the-moon/) (2025-09-24)
 - [Console wars death watch: Microsoft Flight Simulator coming to PS5 in December](https://arstechnica.com/gaming/2025/09/microsoft-flight-simulator-becomes-a-sony-flight-simulator-on-ps5-this-december/) (2025-09-24)
 - [“Screwworm is dangerously close”: Flesh-eating parasites just 70 miles from US](https://arstechnica.com/health/2025/09/flesh-eating-parasite-just-70-miles-from-us-check-pets-texas-officials-say/) (2025-09-24)
-- [Newly found ancient Egyptian port may lead to Cleopatra’s tomb](https://arstechnica.com/science/2025/09/is-this-archaeologist-on-the-verge-of-finding-cleopatras-tomb/) (2025-09-24)
-- [Jimmy Kimmel returns, calls FCC chairman an embarrassment to Republicans](https://arstechnica.com/tech-policy/2025/09/jimmy-kimmel-returns-calls-fcc-chairman-an-embarrassment-to-republicans/) (2025-09-24)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Fusion power plants don’t exist yet, but they’re making money anyway](https://www.technologyreview.com/2025/09/25/1124050/fusion-future-funding/) (2025-09-25)
+- [How AI and Wikipedia have sent vulnerable languages into a doom spiral](https://www.technologyreview.com/2025/09/25/1124005/ai-wikipedia-vulnerable-languages-doom-spiral/) (2025-09-25)
 - [Roundtables: The Future of Birth Control](https://www.technologyreview.com/2025/09/24/1124058/roundtables-the-future-of-birth-control/) (2025-09-24)
 - [The Download: accidental AI relationships, and the future of contraception](https://www.technologyreview.com/2025/09/24/1124026/the-download-accidental-ai-relationships-and-future-contraception/) (2025-09-24)
-- [Trump is pushing leucovorin as a new treatment for autism. What is it?](https://www.technologyreview.com/2025/09/24/1124029/trump-leucovorin-autism-tylenol/) (2025-09-24)
-- [The AI Hype Index: Cracking the chatbot code](https://www.technologyreview.com/2025/09/24/1123999/the-ai-hype-index-cracking-the-chatbot-code/) (2025-09-24)
-- [It’s surprisingly easy to stumble into a relationship with an AI chatbot](https://www.technologyreview.com/2025/09/24/1123915/relationship-ai-without-seeking-it/) (2025-09-24)
+- [Trump is pushing leucovorin as a treatment for autism. What is it?](https://www.technologyreview.com/2025/09/24/1124029/trump-leucovorin-autism-tylenol/) (2025-09-24)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The victims deserve to see every single person in this conspiracy held accountable, not just the front men.](https://dev.to/techtalk/the-victims-deserve-to-see-every-single-person-in-this-conspiracy-held-accountable-not-just-the-2o5e) (2025-09-25)
-- [How I fixed the Chakra UI List component not found error by updating to the latest version.](https://dev.to/kazutora_hattori_66972c88/how-i-fixed-the-chakra-ui-list-component-not-found-error-by-updating-to-the-latest-version-emg) (2025-09-25)
-- [Electric Border ⚡ (SVG seed thrashing)](https://dev.to/chchkchk22488/electric-border-svg-seed-thrashing-3geo) (2025-09-25)
-- [AI for Coding Interviews: How It’s Changing the Way We Prepare](https://dev.to/alex_hunter_44f4c9ed6671e/ai-for-coding-interviews-how-its-changing-the-way-we-prepare-5ajg) (2025-09-25)
-- [Mastering Celery: A Complete Guide to Task Management, Database Connections, and Scaling](https://dev.to/sizan_mahmud0_e7c3fd0cb68/mastering-celery-a-complete-guide-to-task-management-database-connections-and-scaling-34gi) (2025-09-25)
+- [ReactJS Libraries to speed up development - Every developer should know](https://dev.to/codedthemes/reactjs-libraries-to-speed-up-development-every-developer-should-know-1196) (2025-09-25)
+- [That Decision Makes No Sense!](https://dev.to/bid_solution/that-decision-makes-no-sense-3mn7) (2025-09-25)
+- [Parin Game Engine Devlog – September 2025](https://dev.to/kapendev/parin-game-engine-devlog-september-2025-517o) (2025-09-25)
+- [Agentic AI vs. Traditional Automation: Understanding the Shift](https://dev.to/brains_behind_bots/agentic-ai-vs-traditional-automation-understanding-the-shift-1l1h) (2025-09-25)
+- [released: active_record_compose 1.0.0 — Wrap multiple models with an ActiveModel interface](https://dev.to/hamajyotan/released-activerecordcompose-100-wrap-multiple-models-with-an-activemodel-interface-347a) (2025-09-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Hacker’s Map: From Recon to Persistence — How Attacks Actually Flow](https://blog.stackademic.com/the-hackers-map-from-recon-to-persistence-how-attacks-actually-flow-dc0b4e03c23e?source=rss------programming-5) (2025-09-25)
-- [I Replaced My Habit Tracker App With a Python Script I Built in a Weekend](https://medium.com/codrift/i-replaced-my-habit-tracker-app-with-a-python-script-i-built-in-a-weekend-442941d22555?source=rss------programming-5) (2025-09-25)
-- [7 One-Liners in JavaScript That Will Save You Hours](https://medium.com/@kaklotarrahul79/7-one-liners-in-javascript-that-will-save-you-hours-00fc45822c43?source=rss------programming-5) (2025-09-25)
-- [ Flutter in 2025: The Ultimate Guide to Cross-Platform Development](https://medium.com/@TheEnaModernCoder/flutter-in-2025-the-ultimate-guide-to-cross-platform-development-cb655748ea09?source=rss------programming-5) (2025-09-25)
-- [Mastering the Factory Design Pattern: When, Why, and How to Use It](https://medium.com/@HasanMubin/mastering-the-factory-design-pattern-when-why-and-how-to-use-it-c6c59cb82618?source=rss------programming-5) (2025-09-25)
+- [The AI Tool That Saved Me FromSpending $500 on Freelancers](https://medium.com/codrift/the-ai-tool-that-saved-me-fromspending-500-on-freelancers-2126c40dc0d7?source=rss------programming-5) (2025-09-25)
+- [The JavaScript Mistake I Made That Cost Me Weeks of Work](https://javascript.plainenglish.io/the-javascript-mistake-i-made-that-cost-me-weeks-of-work-27de9e72e3cf?source=rss------programming-5) (2025-09-25)
+- [10 AI Tricks That Instantly Made Me Look Like a Pro Coder](https://medium.com/technology-core/10-ai-tricks-that-instantly-made-me-look-like-a-pro-coder-774811c99904?source=rss------programming-5) (2025-09-25)
+- [How I Started Earning Real Money With Python Side Projects](https://medium.com/codrift/how-i-started-earning-real-money-with-python-side-projects-ad833305815e?source=rss------programming-5) (2025-09-25)
+- [7 Ways AI Quietly Took Over My Daily Life](https://medium.com/codetodeploy/7-ways-ai-quietly-took-over-my-daily-life-87eea92152e9?source=rss------programming-5) (2025-09-25)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Run, Test, and Evaluate Models and MCP Locally with Docker + Promptfoo](https://www.docker.com/blog/evaluate-models-and-mcp-with-promptfoo-docker/) (2025-09-25)
 - [MCP Horror Stories: The Drive-By Localhost Breach](https://www.docker.com/blog/mpc-horror-stories-cve-2025-49596-local-host-breach/) (2025-09-23)
 - [Silent Component Updates & Redesigned Update Experience](https://www.docker.com/blog/docker-desktop-silent-component-updates/) (2025-09-19)
 - [Beyond Containers: llama.cpp Now Pulls GGUF Models Directly from Docker Hub](https://www.docker.com/blog/llama-cpp-pulls-gguf-models-from-docker-hub/) (2025-09-19)
 - [Build and Distribute AI Agents and Workflows with cagent](https://www.docker.com/blog/cagent-build-and-distribute-ai-agents-and-workflows/) (2025-09-18)
-- [Docker and CNCF: Partnering to Power the Future of Open Source](https://www.docker.com/blog/docker-cncf-partnership/) (2025-09-18)
 
 </details>
 
@@ -363,9 +363,9 @@
 
 - [A simpler path to a safer Internet: an update to our CSAM scanning tool](https://blog.cloudflare.com/a-simpler-path-to-a-safer-internet-an-update-to-our-csam-scanning-tool/) (2025-09-24)
 - [Automatically Secure: how we upgraded 6,000,000 domains by default to get ready for the Quantum Future](https://blog.cloudflare.com/automatically-secure/) (2025-09-24)
+- [Giving users choice with Cloudflare’s new Content Signals Policy](https://blog.cloudflare.com/content-signals-policy/) (2025-09-24)
 - [To build a better Internet in the age of AI, we need responsible AI bot principles. Here’s our proposal.](https://blog.cloudflare.com/building-a-better-internet-with-responsible-ai-bot-principles/) (2025-09-24)
 - [Securing data in SaaS to SaaS applications](https://blog.cloudflare.com/saas-to-saas-security/) (2025-09-24)
-- [Securing today for the quantum future: WARP client now supports post-quantum cryptography (PQC)](https://blog.cloudflare.com/post-quantum-warp/) (2025-09-24)
 
 </details>
 
@@ -403,10 +403,10 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/conversationrelay
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Announcing Auth0 for AI Agents: Powering the Future of AI, Securely](https://auth0.com/blog/announcing-auth0-for-ai-agents-powering-the-future-of-ai-securely/) (2025-09-25)
 - [Detecting Signup Fraud: 3 Ways to Use Auth0 Logs to Protect Your Business](https://auth0.com/blog/detecting-signup-fraud-3-ways-to-use-auth0-logs-to-protect-your-business/) (2025-09-24)
 - [Shopify + Auth0: A New Era for Retail Customer Identity](https://auth0.com/blog/shopify-auth0-a-new-era-for-retail-customer-identity/) (2025-09-23)
 - [Introducing Transaction Metadata for Auth0 Actions](https://auth0.com/blog/introducing-transaction-metadata-for-auth0-actions/) (2025-09-22)
-- [Oktane Online 2025: The AI Security Event You Can’t Miss](https://auth0.com/blog/oktane-online-2025-the-ai-security-event-you-cant-miss/) (2025-09-18)
 - [Implementing DPoP with Auth0](https://auth0.com/blog/implementing-dpop-with-auth0/) (2025-09-18)
 
 </details>
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/conversationrelay
 <details>
 <summary>🧡 HubSpot Developer</summary>
 
+- [Building Omnichannel Customer Connections at HubSpot: A Look Under the Hood](https://developers.hubspot.com/blog/building-omnichannel-customer-connections-at-hubspot) (2025-09-25)
 - [From Legacy Apps to Platform Speed: Building with the New Developer Platform](https://developers.hubspot.com/blog/from-legacy-apps-to-platform-speed-building-with-developer-platform) (2025-09-23)
 - [Navigating the Reimagined Marketplace for App Developers](https://developers.hubspot.com/blog/reimagined-marketplace-for-app-developers) (2025-09-03)
 - [Fall Spotlight 2025: A Look at Tools for Developers](https://developers.hubspot.com/blog/a-look-at-tools-for-developers) (2025-09-02)
 - [Build Faster, Deliver Smarter: Introducing the HubSpot Developer Platform](https://developers.hubspot.com/blog/introducing-hubspot-developer-platform) (2025-09-02)
-- [A Developer's Guide to Building on the HubSpot Marketplace: The Swarm's Journey](https://developers.hubspot.com/blog/a-developers-guide-to-building-on-the-hubspot-marketplace-the-swarms-journey) (2025-08-29)
 
 </details>
 
@@ -557,22 +557,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/conversationrelay
 <details>
 <summary>🤖 AI News</summary>
 
+- [Inside Huawei’s plan to make thousands of AI chips think like one computer](https://www.artificialintelligence-news.com/news/huawei-ai-chips-superpod-technology/) (2025-09-25)
 - [Generative AI in retail: Adoption comes at high security cost](https://www.artificialintelligence-news.com/news/generative-ai-in-retail-adoption-high-security-cost/) (2025-09-24)
 - [OpenAI and Nvidia plan $100B chip deal for AI future](https://www.artificialintelligence-news.com/news/openai-and-nvidia-plan-100-b-chip-deal-for-ai-future/) (2025-09-24)
 - [Governing the age of agentic AI: Balancing autonomy and accountability  ](https://www.artificialintelligence-news.com/news/governing-the-age-of-agentic-ai-balancing-autonomy-and-accountability/) (2025-09-24)
 - [Martin Frederik, Snowflake: Data quality is key to AI-driven growth](https://www.artificialintelligence-news.com/news/martin-frederik-snowflake-data-quality-key-ai-driven-growth/) (2025-09-23)
-- [Public trust deficit is a major hurdle for AI growth](https://www.artificialintelligence-news.com/news/public-trust-deficit-major-hurdle-for-ai-growth/) (2025-09-22)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Building a Video Game Recommender System with FastAPI, PostgreSQL, and Render: Part 2](https://towardsdatascience.com/building-a-video-game-recommender-system-with-fastapi-postgresql-and-render-part-2/) (2025-09-25)
+- [Building Video Game Recommender Systems with FastAPI, PostgreSQL, and Render: Part 1](https://towardsdatascience.com/building-video-game-recommender-systems-with-fastapi-postgresql-and-render-part-1/) (2025-09-25)
 - [Decoding Nonlinear Signals In Large Observational Datasets](https://towardsdatascience.com/decoding-nonlinear-signals-in-large-observational-datasets/) (2025-09-24)
 - [RAG Explained: Reranking for Better Answers](https://towardsdatascience.com/rag-explained-reranking-for-better-answers/) (2025-09-24)
 - [PyTorch Explained: From Automatic Differentiation to Training Custom Neural Networks](https://towardsdatascience.com/the-basics-of-deep-learning-with-pytorch-in-1-hour/) (2025-09-24)
-- [Introducing the AI-3P Assessment Framework: Score AI Projects Before Committing Resources](https://towardsdatascience.com/the-ai-3p-assessment-framework/) (2025-09-24)
-- [Generating Consistent Imagery with Gemini](https://towardsdatascience.com/generating-consistent-imagery-with-gemini/) (2025-09-23)
 
 </details>
 
@@ -590,11 +590,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/conversationrelay
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [10 Useful Python One-Liners for Data Engineering](https://www.kdnuggets.com/10-useful-python-one-liners-for-data-engineering) (2025-09-25)
 - [Why Do Language Models Hallucinate?](https://www.kdnuggets.com/why-do-language-models-hallucinate) (2025-09-24)
 - [Beginner’s Guide to Creating Your Own Python Shell with the cmd Module](https://www.kdnuggets.com/beginners-guide-to-creating-your-own-python-shell-with-the-cmd-module) (2025-09-24)
 - [5 Cutting-Edge Natural Language Processing Trends Shaping 2026](https://www.kdnuggets.com/5-cutting-edge-natural-language-processing-trends-shaping-2026) (2025-09-24)
 - [7 Python Libraries Every Analytics Engineer Should Know](https://www.kdnuggets.com/7-python-libraries-every-analytics-engineer-should-know) (2025-09-23)
-- [10 Newsletters for Busy Data Scientists](https://www.kdnuggets.com/10-newsletters-for-busy-data-scientists) (2025-09-23)
 
 </details>
 
