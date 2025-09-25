@@ -20,66 +20,66 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [TuneIn partners with FEMA to give drivers real-time emergency alerts](https://techcrunch.com/2025/09/25/tunein-partners-with-fema-to-give-drivers-real-time-emergency-alerts/) (2025-09-25)
-- [Spotify to label AI music, filter spam and more in AI policy change](https://techcrunch.com/2025/09/25/spotify-updates-ai-policy-to-label-tracks-cut-down-on-spam/) (2025-09-25)
-- [Smartphone maker Nothing to spin off its affordable CMF brand](https://techcrunch.com/2025/09/24/smartphone-maker-nothing-to-spin-off-its-affordable-cmf-brand/) (2025-09-25)
-- [It isn’t your imagination: Google Cloud is flooding the zone](https://techcrunch.com/2025/09/24/it-isnt-your-imagination-google-cloud-is-flooding-the-zone/) (2025-09-25)
-- [Y Combinator launches ‘Early Decision’ for students who want to graduate first, build later](https://techcrunch.com/2025/09/24/y-combinator-launches-early-decision-for-students-who-want-to-graduate-first-build-later/) (2025-09-24)
+- [OpenAI launches ChatGPT Pulse to proactively write you morning briefs](https://techcrunch.com/2025/09/25/openai-launches-chatgpt-pulse-to-proactively-write-you-morning-briefs/) (2025-09-25)
+- [Threads is developing a tool that lets you ‘tag’ its algorithm to configure your feed](https://techcrunch.com/2025/09/25/threads-is-developing-a-tool-that-lets-you-tag-its-algorithm-to-configure-your-feed/) (2025-09-25)
+- [Juicebox raises $30M from Sequoia to revolutionize hiring with LLM-powered search](https://techcrunch.com/2025/09/25/juicebox-raises-30m-from-sequoia-to-revolutionize-hiring-with-llm-powered-search/) (2025-09-25)
+- [Steph Curry’s VC firm just backed an AI startup that wants to fix food supply chains](https://techcrunch.com/2025/09/25/steph-currys-vc-firm-just-backed-an-ai-startup-that-wants-to-fix-food-supply-chains/) (2025-09-25)
+- [Amazon to pay $2.5B in FTC settlement over ‘deceptive’ Prime tactics](https://techcrunch.com/2025/09/25/amazon-to-pay-2-5b-in-ftc-settlement-over-deceptive-prime-tactics/) (2025-09-25)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Wind, a Pole, and the Dragon](https://entropicthoughts.com/the-wind-a-pole-and-the-dragon) (2025-09-25)
-- [The Theatre of Pull Requests and Code Review](https://meks.quest/blogs/the-theatre-of-pull-requests-and-code-review) (2025-09-25)
-- [Bundler Belongs to the Ruby Community](https://andre.arko.net/2025/09/25/bundler-belongs-to-the-ruby-community/) (2025-09-25)
-- [Some interesting stuff I found on IX LANs](https://blog.benjojo.co.uk/post/ixp-bad-broadcast-packets-interesting) (2025-09-25)
-- [Is This Bad? This Feels Bad. (Fortra GoAnywhere CVE-2025-10035)](https://labs.watchtowr.com/is-this-bad-this-feels-bad-goanywhere-cve-2025-10035/) (2025-09-25)
+- [Microsoft blocks Israel's use of its data centers](https://www.engadget.com/big-tech/microsoft-blocks-israels-use-of-its-data-centers-for-mass-surveillance-of-palestinians-170107061.html) (2025-09-25)
+- [Improved Gemini 2.5 Flash and Flash-Lite](https://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/) (2025-09-25)
+- [Starbucks: Location closures and elimination of roles](https://about.starbucks.com/press/2025/message-from-brian-an-important-update/) (2025-09-25)
+- [ChatGPT Pulse](https://openai.com/index/introducing-chatgpt-pulse/) (2025-09-25)
+- [GDPVal: Measuring the performance of our models on real-world tasks](https://openai.com/index/gdpval/) (2025-09-25)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Spotify is finally taking steps to address its AI slop and clone problem](https://www.theverge.com/news/785136/spotify-ai-slop-impersonation-disclosure) (2025-09-25)
-- [Jimmy Kimmel returns bigger than ever](https://www.theverge.com/news/785552/jimmy-kimmel-returns-record-viewership-figures) (2025-09-25)
-- [Microsoft forced to make Windows 10 extended security updates truly free in Europe](https://www.theverge.com/news/785544/microsoft-windows-10-extended-security-updates-free-europe-changes) (2025-09-25)
-- [OnePlus 13 plus one equals the OnePlus 15](https://www.theverge.com/tech/785386/oneplus-13-plus-one-equals-the-oneplus-15) (2025-09-25)
-- [Uber Eats is offering grocery discounts to combat ‘veggie-flation’](https://www.theverge.com/transportation/784953/uber-eats-fresh-day-grocery-discount-price) (2025-09-25)
+- [Gemini now explains why your Sheets formula failed](https://www.theverge.com/news/785895/gemini-explanation-google-sheets-formula) (2025-09-25)
+- [What happens when an AI-generated artist gets a record deal? A copyright mess](https://www.theverge.com/ai-artificial-intelligence/785792/ai-generated-music-record-deal-copyright) (2025-09-25)
+- [OpenAI really, really wants you to start your day with ChatGPT Pulse](https://www.theverge.com/ai-artificial-intelligence/785881/openai-really-really-wants-you-to-start-your-day-with-chatgpt-pulse) (2025-09-25)
+- [Jackery’s newest Explorer 240D power station is already over 30 percent off](https://www.theverge.com/tech/785833/jackery-explorer-240d-bose-quietcomfor-earbuds-deal-sale) (2025-09-25)
+- [LG’s new TV is designed to be easier for seniors to use](https://www.theverge.com/news/785808/lg-easy-smart-tv-senior-citizens-redesigned-remote) (2025-09-25)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Ford decides to run its Le Mans program in-house, racing in 2027](https://arstechnica.com/cars/2025/09/ford-decides-to-run-its-le-mans-program-in-house-racing-in-2027/) (2025-09-25)
-- [DeepMind’s robotic ballet: An AI for coordinating manufacturing robots](https://arstechnica.com/science/2025/09/deepminds-robotic-ballet-an-ai-for-coordinating-manufacturing-robots/) (2025-09-25)
-- [The crew of Artemis II will fly on Integrity during mission to the Moon](https://arstechnica.com/space/2025/09/introducing-integrity-artemis-ii-astronauts-name-their-orion-ride-to-the-moon/) (2025-09-24)
-- [Console wars death watch: Microsoft Flight Simulator coming to PS5 in December](https://arstechnica.com/gaming/2025/09/microsoft-flight-simulator-becomes-a-sony-flight-simulator-on-ps5-this-december/) (2025-09-24)
-- [“Screwworm is dangerously close”: Flesh-eating parasites just 70 miles from US](https://arstechnica.com/health/2025/09/flesh-eating-parasite-just-70-miles-from-us-check-pets-texas-officials-say/) (2025-09-24)
+- [Apple iPhone 17 review: Sometimes boring is best](https://arstechnica.com/gadgets/2025/09/review-apples-injects-just-the-right-amount-of-pro-into-the-regular-iphone-17/) (2025-09-25)
+- [Amazon agrees to make canceling Prime easy, will refund customers $1.5B](https://arstechnica.com/tech-policy/2025/09/amazon-agrees-to-make-canceling-prime-easy-will-refund-customers-1-5b/) (2025-09-25)
+- [Google DeepMind unveils its first “thinking” robotics AI](https://arstechnica.com/google/2025/09/google-deepmind-unveils-its-first-thinking-robotics-ai/) (2025-09-25)
+- [Reviewing iOS 26 for power users: Reminders, Preview, and more](https://arstechnica.com/gadgets/2025/09/reviewing-ios-26-for-power-users-reminders-preview-and-more/) (2025-09-25)
+- [Apple demands EU repeal the Digital Markets Act](https://arstechnica.com/tech-policy/2025/09/apple-demands-eu-repeal-the-digital-markets-act/) (2025-09-25)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Shoplifters could soon be chased down by drones](https://www.technologyreview.com/2025/09/25/1124088/shoplifters-could-soon-be-chased-down-by-drones/) (2025-09-25)
+- [The Download: growing threats to vulnerable languages, and fact-checking Trump’s medical claims](https://www.technologyreview.com/2025/09/25/1124079/the-download-threats-vulnerable-languages-and-trump-medical-claims/) (2025-09-25)
 - [Fusion power plants don’t exist yet, but they’re making money anyway](https://www.technologyreview.com/2025/09/25/1124050/fusion-future-funding/) (2025-09-25)
 - [How AI and Wikipedia have sent vulnerable languages into a doom spiral](https://www.technologyreview.com/2025/09/25/1124005/ai-wikipedia-vulnerable-languages-doom-spiral/) (2025-09-25)
 - [Roundtables: The Future of Birth Control](https://www.technologyreview.com/2025/09/24/1124058/roundtables-the-future-of-birth-control/) (2025-09-24)
-- [The Download: accidental AI relationships, and the future of contraception](https://www.technologyreview.com/2025/09/24/1124026/the-download-accidental-ai-relationships-and-future-contraception/) (2025-09-24)
-- [Trump is pushing leucovorin as a treatment for autism. What is it?](https://www.technologyreview.com/2025/09/24/1124029/trump-leucovorin-autism-tylenol/) (2025-09-24)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Building beyond the browser: Keeley Hammond on Electron, open source, and the future of maintainership](https://github.blog/open-source/maintainers/building-beyond-the-browser-keeley-hammond-on-electron-open-source-and-the-future-of-maintainership/) (2025-09-25)
 - [GitHub Copilot gets smarter at finding your code: Inside our new embedding model ](https://github.blog/news-insights/product-news/copilot-new-embedding-model-vs-code/) (2025-09-24)
 - [Using AI to map hope for refugees with UNHCR, the UN Refugee Agency](https://github.blog/open-source/social-impact/using-ai-to-map-hope-for-refugees-with-unhcr-the-un-refugee-agency/) (2025-09-24)
 - [A step-by-step guide to modernizing Java projects with GitHub Copilot agent mode](https://github.blog/ai-and-ml/github-copilot/a-step-by-step-guide-to-modernizing-java-projects-with-github-copilot-agent-mode/) (2025-09-23)
 - [Our plan for a more secure npm supply chain](https://github.blog/security/supply-chain-security/our-plan-for-a-more-secure-npm-supply-chain/) (2025-09-23)
-- [Gartner positions GitHub as a Leader in the 2025 Magic Quadrant for AI Code Assistants for the second year in a row](https://github.blog/ai-and-ml/github-copilot/gartner-positions-github-as-a-leader-in-the-2025-magic-quadrant-for-ai-code-assistants-for-the-second-year-in-a-row/) (2025-09-22)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [ReactJS Libraries to speed up development - Every developer should know](https://dev.to/codedthemes/reactjs-libraries-to-speed-up-development-every-developer-should-know-1196) (2025-09-25)
-- [That Decision Makes No Sense!](https://dev.to/bid_solution/that-decision-makes-no-sense-3mn7) (2025-09-25)
-- [Parin Game Engine Devlog – September 2025](https://dev.to/kapendev/parin-game-engine-devlog-september-2025-517o) (2025-09-25)
-- [Agentic AI vs. Traditional Automation: Understanding the Shift](https://dev.to/brains_behind_bots/agentic-ai-vs-traditional-automation-understanding-the-shift-1l1h) (2025-09-25)
-- [released: active_record_compose 1.0.0 — Wrap multiple models with an ActiveModel interface](https://dev.to/hamajyotan/released-activerecordcompose-100-wrap-multiple-models-with-an-activemodel-interface-347a) (2025-09-25)
+- [Learn AI Independently: How to Use ChatGPT and Other Tools to Understand a Technical Book](https://dev.to/masudio/learn-ai-independently-how-to-use-chatgpt-and-other-tools-to-understand-a-technical-book-1ep8) (2025-09-25)
+- [How to Instantly Unblock Your AI Dev Tool: The GitHub Issues Prompt](https://dev.to/aaronksaunders/how-to-instantly-unblock-your-ai-dev-tool-the-github-issues-prompt-2efl) (2025-09-25)
+- [📰 Major Tech News: September 25, 2025](https://dev.to/om_shree_0709/major-tech-news-september-25-2025-5h38) (2025-09-25)
+- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-37mg) (2025-09-25)
+- [KEXP: Thee Marloes - Full Performance (Live on KEXP)](https://dev.to/music_youtube/kexp-thee-marloes-full-performance-live-on-kexp-10ei) (2025-09-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The AI Tool That Saved Me FromSpending $500 on Freelancers](https://medium.com/codrift/the-ai-tool-that-saved-me-fromspending-500-on-freelancers-2126c40dc0d7?source=rss------programming-5) (2025-09-25)
-- [The JavaScript Mistake I Made That Cost Me Weeks of Work](https://javascript.plainenglish.io/the-javascript-mistake-i-made-that-cost-me-weeks-of-work-27de9e72e3cf?source=rss------programming-5) (2025-09-25)
-- [10 AI Tricks That Instantly Made Me Look Like a Pro Coder](https://medium.com/technology-core/10-ai-tricks-that-instantly-made-me-look-like-a-pro-coder-774811c99904?source=rss------programming-5) (2025-09-25)
-- [How I Started Earning Real Money With Python Side Projects](https://medium.com/codrift/how-i-started-earning-real-money-with-python-side-projects-ad833305815e?source=rss------programming-5) (2025-09-25)
-- [7 Ways AI Quietly Took Over My Daily Life](https://medium.com/codetodeploy/7-ways-ai-quietly-took-over-my-daily-life-87eea92152e9?source=rss------programming-5) (2025-09-25)
+- [ CandyDrop #88: Somnia (SOMI)](https://medium.com/@babichevv2/candydrop-88-somnia-somi-21f786bd1130?source=rss------programming-5) (2025-09-25)
+- [ Next.js Tips for 2025: A Comprehensive Guide to Building High-Performance Web Apps](https://medium.com/@theHackHabitual/next-js-tips-for-2025-a-comprehensive-guide-to-building-high-performance-web-apps-272a77213da8?source=rss------programming-5) (2025-09-25)
+- [ping swiftnet](https://medium.com/@omidajdady500/ping-swiftnet-9e3137d3c474?source=rss------programming-5) (2025-09-25)
+- [ Exploring Next.js 14+ Middleware and Edge Functions: Building Ultra-Fast, Scalable Apps in 2025](https://medium.com/@TheblogStacker/exploring-next-js-14-middleware-and-edge-functions-building-ultra-fast-scalable-apps-in-2025-4f1d6be88e73?source=rss------programming-5) (2025-09-25)
+- [ Firebase in 2025: The Ultimate Guide to Building Modern, Scalable Apps](https://medium.com/@missAvantika/firebase-in-2025-the-ultimate-guide-to-building-modern-scalable-apps-fbf27fded64a?source=rss------programming-5) (2025-09-25)
 
 </details>
 
@@ -130,33 +130,33 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [How Azure Cobalt 100 VMs are powering real-world solutions, delivering performance and efficiency results](https://azure.microsoft.com/en-us/blog/how-azure-cobalt-100-vms-are-powering-real-world-solutions-delivering-performance-and-efficiency-results/) (2025-09-23)
-- [Accelerate migration and modernization with agentic AI](https://azure.microsoft.com/en-us/blog/accelerate-migration-and-modernization-with-agentic-ai/) (2025-09-23)
 - [Inside the world’s most powerful AI datacenter](https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/) (2025-09-18)
 - [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms ](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms/) (2025-09-18)
 - [Agent Factory: Creating a blueprint for safe and secure AI agents](https://azure.microsoft.com/en-us/blog/agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents/) (2025-09-17)
+- [Azure Kubernetes Service Automatic: Fast and frictionless Kubernetes for all](https://azure.microsoft.com/en-us/blog/azure-kubernetes-service-automatic-fast-and-frictionless-kubernetes-for-all/) (2025-09-16)
+- [FabCon Vienna: Build data-rich agents on an enterprise-ready foundation](https://www.microsoft.com/en-us/microsoft-fabric/blog/2025/09/16/fabcon-vienna-build-data-rich-agents-on-an-enterprise-ready-foundation) (2025-09-16)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Pilots Wanted: Stream ‘Mecha BREAK’ on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-mecha-break/) (2025-09-25)
 - [Open Secret: How NVIDIA Nemotron Models, Datasets and Techniques Fuel AI Development](https://blogs.nvidia.com/blog/nemotron-open-source-ai/) (2025-09-24)
 - [Canada Goes All In on AI: NVIDIA Joins Nations’ Technology Leaders in Montreal to Shape Sovereign AI Strategy](https://blogs.nvidia.com/blog/canada-all-in/) (2025-09-24)
 - [At Climate Week NYC, NVIDIA Details AI’s Key Role in the Sustainable Energy Transition](https://blogs.nvidia.com/blog/ai-energy-innovation-climate-research/) (2025-09-23)
 - [NVIDIA, OpenAI Announce ‘the Biggest AI Infrastructure Deployment in History’](https://blogs.nvidia.com/blog/openai-nvidia/) (2025-09-22)
-- [AI On: How Onboarding Teams of AI Agents Drives Productivity and Revenue for Businesses](https://blogs.nvidia.com/blog/onboarding-teams-ai-agents-productivity-revenue-businesses/) (2025-09-19)
 
 </details>
 
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [Upcoming Currency Change in Bulgaria](https://developer.apple.com/news/?id=rbfp3bpb) (2025-09-25)
 - [Get ready with the latest beta releases](https://developer.apple.com/news/?id=4uj8znqq) (2025-09-22)
 - [App Store submissions now open for the latest OS releases](https://developer.apple.com/news/?id=6lxhtioi) (2025-09-09)
 - [Hello Developer: September 2025](https://developer.apple.com/news/?id=6zd7a3al) (2025-09-02)
 - [Awe dropping.](https://developer.apple.com/news/?id=p9nukitr) (2025-08-26)
-- [Tax and Price Updates for Apps, In-App Purchases, and Subscriptions](https://developer.apple.com/news/?id=yo2104n5) (2025-08-21)
 
 </details>
 
@@ -207,22 +207,22 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Introducing the Docker Premium Support and TAM service](https://www.docker.com/blog/introducing-the-docker-premium-support-and-tam-service/) (2025-09-25)
 - [Run, Test, and Evaluate Models and MCP Locally with Docker + Promptfoo](https://www.docker.com/blog/evaluate-models-and-mcp-with-promptfoo-docker/) (2025-09-25)
 - [MCP Horror Stories: The Drive-By Localhost Breach](https://www.docker.com/blog/mpc-horror-stories-cve-2025-49596-local-host-breach/) (2025-09-23)
 - [Silent Component Updates & Redesigned Update Experience](https://www.docker.com/blog/docker-desktop-silent-component-updates/) (2025-09-19)
 - [Beyond Containers: llama.cpp Now Pulls GGUF Models Directly from Docker Hub](https://www.docker.com/blog/llama-cpp-pulls-gguf-models-from-docker-hub/) (2025-09-19)
-- [Build and Distribute AI Agents and Workflows with cagent](https://www.docker.com/blog/cagent-build-and-distribute-ai-agents-and-workflows/) (2025-09-18)
 
 </details>
 
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Announcing Changed Block Tracking API support (alpha)](https://kubernetes.io/blog/2025/09/25/csi-changed-block-tracking/) (2025-09-25)
 - [Kubernetes v1.34: Pod Level Resources Graduated to Beta](https://kubernetes.io/blog/2025/09/22/kubernetes-v1-34-pod-level-resources/) (2025-09-22)
 - [Kubernetes v1.34: Recovery From Volume Expansion Failure (GA)](https://kubernetes.io/blog/2025/09/19/kubernetes-v1-34-recover-expansion-failure/) (2025-09-19)
 - [Kubernetes v1.34: DRA Consumable Capacity](https://kubernetes.io/blog/2025/09/18/kubernetes-v1-34-dra-consumable-capacity/) (2025-09-18)
 - [Kubernetes v1.34: Pods Report DRA Resource Health](https://kubernetes.io/blog/2025/09/17/kubernetes-v1-34-pods-report-dra-resource-health/) (2025-09-17)
-- [Kubernetes v1.34: Moving Volume Group Snapshots to v1beta2](https://kubernetes.io/blog/2025/09/16/kubernetes-v1-34-volume-group-snapshot-beta-2/) (2025-09-16)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Continuing Positive Impact: This Year’s AI4SE Interns in their New Roles at JetBrains](https://blog.jetbrains.com/research/2025/09/ai4se-interns-employees-part-2/) (2025-09-25)
+- [Rider Roadmap: What to Expect From the Upcoming Updates and Releases](https://blog.jetbrains.com/dotnet/2025/09/25/rider-rider-roadmap-2025-3/) (2025-09-25)
 - [Why Is Python So Popular in 2025?](https://blog.jetbrains.com/pycharm/2025/09/why-is-python-so-popular/) (2025-09-24)
 - [The Kotlin AI Stack: Build AI Agents With Koog, Code Smarter With Junie, and More](https://blog.jetbrains.com/kotlin/2025/09/the-kotlin-ai-stack-build-ai-agents-with-koog-code-smarter-with-junie-and-more/) (2025-09-24)
 - [The Ktor roadmap and previews](https://blog.jetbrains.com/kotlin/2025/09/ktor-roadmap-2025/) (2025-09-23)
-- [From AI-Generated to Production-Ready Code: WebStorm Refactorings for the Modern Workflow](https://blog.jetbrains.com/webstorm/2025/09/from-ai-generated-to-production-ready-code-webstorm-refactorings-for-the-modern-workflow/) (2025-09-23)
-- [Supercharging Unit Test Generation with in-IDE TestSpark](https://blog.jetbrains.com/research/2025/09/testspark-unit-test-generation/) (2025-09-23)
 
 </details>
 
@@ -339,11 +339,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [GitLab named a Leader in the 2025 Gartner Magic Quadrant for DevOps Platforms](https://about.gitlab.com/blog/gitlab-named-a-leader-in-the-2025-gartner-magic-quadrant-for-devops-platforms/) (2025-09-25)
 - [GitLab 18.4: AI-native development with automation and insight](https://about.gitlab.com/blog/gitlab-18-4-ai-native-development-with-automation-and-insight/) (2025-09-23)
 - [A comprehensive guide to GitLab DAST](https://about.gitlab.com/blog/comprehensive-guide-to-gitlab-dast/) (2025-09-17)
 - [GitLab named a Leader in the 2025 Gartner Magic Quadrant for AI Code Assistants](https://about.gitlab.com/blog/gitlab-named-a-leader-in-the-2025-gartner-magic-quadrant-for-ai-code-assistants/) (2025-09-17)
 - [How GitLab Duo Agent Platform transforms DataOps](https://about.gitlab.com/blog/how-gitlab-duo-agent-platform-transforms-dataops/) (2025-09-16)
-- [GitLab and Accenture announce Global Reseller Agreement](https://about.gitlab.com/blog/gitlab-and-accenture-announce-global-reseller-agreement/) (2025-09-15)
 
 </details>
 
@@ -361,11 +361,11 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
-- [A simpler path to a safer Internet: an update to our CSAM scanning tool](https://blog.cloudflare.com/a-simpler-path-to-a-safer-internet-an-update-to-our-csam-scanning-tool/) (2025-09-24)
-- [Automatically Secure: how we upgraded 6,000,000 domains by default to get ready for the Quantum Future](https://blog.cloudflare.com/automatically-secure/) (2025-09-24)
-- [Giving users choice with Cloudflare’s new Content Signals Policy](https://blog.cloudflare.com/content-signals-policy/) (2025-09-24)
-- [To build a better Internet in the age of AI, we need responsible AI bot principles. Here’s our proposal.](https://blog.cloudflare.com/building-a-better-internet-with-responsible-ai-bot-principles/) (2025-09-24)
-- [Securing data in SaaS to SaaS applications](https://blog.cloudflare.com/saas-to-saas-security/) (2025-09-24)
+- [Cloudflare's developer platform keeps getting better, faster, and more powerful. Here's everything that's new.](https://blog.cloudflare.com/cloudflare-developer-platform-keeps-getting-better-faster-and-more-powerful/) (2025-09-25)
+- [Partnering to make full-stack fast: deploy PlanetScale databases directly from Workers](https://blog.cloudflare.com/planetscale-postgres-workers/) (2025-09-25)
+- [R2 SQL: a deep dive into our new distributed query engine](https://blog.cloudflare.com/r2-sql-deep-dive/) (2025-09-25)
+- [Safe in the sandbox: security hardening for Cloudflare Workers](https://blog.cloudflare.com/safe-in-the-sandbox-security-hardening-for-cloudflare-workers/) (2025-09-25)
+- [Every Cloudflare feature, available to everyone](https://blog.cloudflare.com/enterprise-grade-features-for-all/) (2025-09-25)
 
 </details>
 
@@ -376,6 +376,11 @@
 Manage a List of Safe Phone Numbers in PHP with Twilio Verify's Safe List API
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/manage-list-of-safe-phone-numbers-php-with-twilio-verify-safe-list-api
+) (2025-09-23)
+- [
+Upstream Data Orchestration:  The Key to Real-Time, 1:1 Personalization
+](
+https://www.twilio.com/en-us/blog/insights/upstream-data-orchestration---the-key-to-real-time--1-1-personal
 ) (2025-09-23)
 - [
 Self-service in the age of AI: Virtual agents that actually resolve
@@ -391,11 +396,6 @@ https://www.twilio.com/en-us/blog/developers/transform-segment-notification-arch
 Build 2-Way Conversational Email Experiences Using SendGrid Inbound Parse
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/conversational-email-inbound-parse-signature-verification
-) (2025-09-22)
-- [
-Use ConversationRelay with the Open Source Agent Builder Flowise: A Multi-Agent Example with Voice
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/conversationrelay-agent-builder-flowise-voice-messaging
 ) (2025-09-22)
 
 </details>
@@ -425,11 +425,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/conversationrelay
 <details>
 <summary>🪐 PlanetScale Blog</summary>
 
+- [Partnering with Cloudflare to bring you the fastest globally distributed applications](https://planetscale.com/blog/partnering-with-cloudflare-fastest-applications) (2025-09-24)
 - [Processes and Threads](https://planetscale.com/blog/processes-and-threads) (2025-09-24)
 - [PlanetScale for Postgres is now GA](https://planetscale.com/blog/planetscale-for-postgres-is-generally-available) (2025-09-22)
 - [Postgres High Availability with CDC](https://planetscale.com/blog/postgres-ha-with-cdc) (2025-09-12)
 - [Announcing Neki](https://planetscale.com/blog/announcing-neki) (2025-08-11)
-- [Caching](https://planetscale.com/blog/caching) (2025-07-08)
 
 </details>
 
@@ -491,11 +491,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/conversationrelay
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
+- [Inside ApexGuru: Agentic Code Fixing](https://developer.salesforce.com/blogs/2025/09/inside-apexguru-agentic-code-fixing.html) (2025-09-25)
 - [Connect Data Cloud to Snowflake Using Salesforce IDP](https://developer.salesforce.com/blogs/2025/09/connect-data-cloud-to-snowflake-using-salesforce-idp.html) (2025-09-24)
 - [Take a Deep Dive into Metadata API Deployments](https://developer.salesforce.com/blogs/2025/09/take-a-deep-dive-into-metadata-api-deployments.html) (2025-09-23)
 - [Build a Cited Web Search Agent with Agentforce](https://developer.salesforce.com/blogs/2025/09/build-a-cited-web-search-agent-with-agentforce.html) (2025-09-18)
 - [The Developer’s Guide to Dreamforce 2025](https://developer.salesforce.com/blogs/2025/09/developers-guide-dreamforce-2025.html) (2025-09-17)
-- [Integrate Data Cloud’s Document AI with Agentforce](https://developer.salesforce.com/blogs/2025/09/integrate-data-clouds-document-ai-with-agentforce.html) (2025-09-11)
 
 </details>
 
@@ -557,55 +557,55 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/conversationrelay
 <details>
 <summary>🤖 AI News</summary>
 
+- [Samsung benchmarks real productivity of enterprise AI models](https://www.artificialintelligence-news.com/news/samsung-benchmarks-real-productivity-enterprise-ai-models/) (2025-09-25)
 - [Inside Huawei’s plan to make thousands of AI chips think like one computer](https://www.artificialintelligence-news.com/news/huawei-ai-chips-superpod-technology/) (2025-09-25)
 - [Generative AI in retail: Adoption comes at high security cost](https://www.artificialintelligence-news.com/news/generative-ai-in-retail-adoption-high-security-cost/) (2025-09-24)
 - [OpenAI and Nvidia plan $100B chip deal for AI future](https://www.artificialintelligence-news.com/news/openai-and-nvidia-plan-100-b-chip-deal-for-ai-future/) (2025-09-24)
 - [Governing the age of agentic AI: Balancing autonomy and accountability  ](https://www.artificialintelligence-news.com/news/governing-the-age-of-agentic-ai-balancing-autonomy-and-accountability/) (2025-09-24)
-- [Martin Frederik, Snowflake: Data quality is key to AI-driven growth](https://www.artificialintelligence-news.com/news/martin-frederik-snowflake-data-quality-key-ai-driven-growth/) (2025-09-23)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Notes on LLM Evaluation](https://towardsdatascience.com/notes-on-llm-evaluation/) (2025-09-25)
 - [Building a Video Game Recommender System with FastAPI, PostgreSQL, and Render: Part 2](https://towardsdatascience.com/building-a-video-game-recommender-system-with-fastapi-postgresql-and-render-part-2/) (2025-09-25)
 - [Building Video Game Recommender Systems with FastAPI, PostgreSQL, and Render: Part 1](https://towardsdatascience.com/building-video-game-recommender-systems-with-fastapi-postgresql-and-render-part-1/) (2025-09-25)
-- [Decoding Nonlinear Signals In Large Observational Datasets](https://towardsdatascience.com/decoding-nonlinear-signals-in-large-observational-datasets/) (2025-09-24)
+- [Decoding Nonlinear Signals in Large Observational Datasets](https://towardsdatascience.com/decoding-nonlinear-signals-in-large-observational-datasets/) (2025-09-24)
 - [RAG Explained: Reranking for Better Answers](https://towardsdatascience.com/rag-explained-reranking-for-better-answers/) (2025-09-24)
-- [PyTorch Explained: From Automatic Differentiation to Training Custom Neural Networks](https://towardsdatascience.com/the-basics-of-deep-learning-with-pytorch-in-1-hour/) (2025-09-24)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [5 Best Laptops for AI Engineers and Developers](https://www.analyticsvidhya.com/blog/2025/09/laptops-for-ai-engineers-and-developers/) (2025-09-25)
 - [DeepCode: This FREE Agentic AI Coder is INSANE!](https://www.analyticsvidhya.com/blog/2025/09/deepcode/) (2025-09-25)
 - [Google’s Agent Payments Protocol (AP2): The New Way AI Agents Pay for You](https://www.analyticsvidhya.com/blog/2025/09/agent-payments-protocol-ap2/) (2025-09-25)
 - [12 Things you can do with the Free Gemini API](https://www.analyticsvidhya.com/blog/2025/09/gemini-free-api/) (2025-09-24)
 - [Zero-Day Attack Detection using Denoising Autoencoder on UNSW-NB15](https://www.analyticsvidhya.com/blog/2025/09/zero-day-attack-detection/) (2025-09-24)
-- [Is Qwen-Image-Edit-2509 Better than Nano Banana?](https://www.analyticsvidhya.com/blog/2025/09/qwen-image-edit-2509/) (2025-09-23)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [What Is Big Tech’s Influence on AI Development?](https://www.kdnuggets.com/2025/09/what-is-big-techs-influence-on-ai-development) (2025-09-25)
+- [How to Build and Publish a Docker Image to Docker Hub](https://www.kdnuggets.com/how-to-build-and-publish-a-docker-image-to-docker-hub) (2025-09-25)
 - [10 Useful Python One-Liners for Data Engineering](https://www.kdnuggets.com/10-useful-python-one-liners-for-data-engineering) (2025-09-25)
 - [Why Do Language Models Hallucinate?](https://www.kdnuggets.com/why-do-language-models-hallucinate) (2025-09-24)
 - [Beginner’s Guide to Creating Your Own Python Shell with the cmd Module](https://www.kdnuggets.com/beginners-guide-to-creating-your-own-python-shell-with-the-cmd-module) (2025-09-24)
-- [5 Cutting-Edge Natural Language Processing Trends Shaping 2026](https://www.kdnuggets.com/5-cutting-edge-natural-language-processing-trends-shaping-2026) (2025-09-24)
-- [7 Python Libraries Every Analytics Engineer Should Know](https://www.kdnuggets.com/7-python-libraries-every-analytics-engineer-should-know) (2025-09-23)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [5 AI Agent Projects for Beginners](https://machinelearningmastery.com/5-ai-agent-projects-for-beginners/) (2025-09-25)
 - [Beyond Vector Search: 5 Next-Gen RAG Retrieval Strategies](https://machinelearningmastery.com/beyond-vector-search-5-next-gen-rag-retrieval-strategies/) (2025-09-24)
 - [Bagging vs Boosting vs Stacking: Which Ensemble Method Wins in 2025?](https://machinelearningmastery.com/bagging-vs-boosting-vs-stacking-which-ensemble-method-wins-in-2025/) (2025-09-23)
 - [10 Machine Learning Newsletters to Stay Informed](https://machinelearningmastery.com/10-machine-learning-newsletters-to-stay-informed/) (2025-09-22)
 - [A Hands-On Introduction to cuML for GPU-Accelerated Machine Learning Workflows](https://machinelearningmastery.com/a-hands-on-introduction-to-cuml-for-gpu-accelerated-machine-learning-workflows/) (2025-09-18)
-- [A Hands-On Introduction to cuDF for GPU-Accelerated Data Workflows](https://machinelearningmastery.com/a-hands-on-introduction-to-cudf-for-gpu-accelerated-data-workflows/) (2025-09-18)
 
 </details>
 
@@ -623,11 +623,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/conversationrelay
 <details>
 <summary>🧠 DeepMind Blog</summary>
 
+- [Gemini Robotics 1.5 brings AI agents into the physical world](https://deepmind.google/discover/blog/gemini-robotics-15-brings-ai-agents-into-the-physical-world/) (2025-09-25)
 - [Strengthening our Frontier Safety Framework](https://deepmind.google/discover/blog/strengthening-our-frontier-safety-framework/) (2025-09-22)
 - [Discovering new solutions to century-old problems in fluid dynamics](https://deepmind.google/discover/blog/discovering-new-solutions-to-century-old-problems-in-fluid-dynamics/) (2025-09-18)
 - [Gemini achieves gold-level performance at the International Collegiate Programming Contest World Finals](https://deepmind.google/discover/blog/gemini-achieves-gold-level-performance-at-the-international-collegiate-programming-contest-world-finals/) (2025-09-17)
-- [Using AI to perceive the universe in greater depth](https://deepmind.google/discover/blog/using-ai-to-perceive-the-universe-in-greater-depth/) (2025-09-04)
-- [Image editing in Gemini just got a major upgrade](https://deepmind.google/discover/blog/image-editing-in-gemini-just-got-a-major-upgrade/) (2025-08-26)
+- [VaultGemma: The world's most capable differentially private LLM](https://deepmind.google/discover/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm/) (2025-09-12)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
