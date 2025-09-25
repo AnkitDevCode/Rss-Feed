@@ -20,66 +20,66 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Cohere hits $7B valuation a month after its last raise, partners with AMD](https://techcrunch.com/2025/09/24/cohere-hits-7b-valuation-a-month-after-its-last-raise-partners-with-amd/) (2025-09-24)
-- [Microsoft adds Anthropic’s AI to Copilot](https://techcrunch.com/2025/09/24/microsoft-adds-anthropics-ai-to-copilot/) (2025-09-24)
-- [How to build a GTM strategy that actually drives results at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/24/how-to-build-a-gtm-strategy-that-actually-drives-results-at-techcrunch-disrupt-2025/) (2025-09-24)
-- [These YC founders pivoted 5 times before building a social app that nabbed 300K users and over $1M ARR in 6 months](https://techcrunch.com/2025/09/24/these-yc-founders-pivoted-5-times-before-building-a-social-app-that-nabbed-300k-users-and-over-1m-arr-in-6-months/) (2025-09-24)
-- [Instagram now has 3 billion monthly active users, will test features to help users control their feeds](https://techcrunch.com/2025/09/24/instagram-now-has-3-billion-monthly-active-users-will-test-features-to-help-users-control-their-feeds/) (2025-09-24)
+- [Y Combinator launches “Early Decision” for students who want to graduate first, build later](https://techcrunch.com/2025/09/24/y-combinator-launches-early-decision-for-students-who-want-to-graduate-first-build-later/) (2025-09-24)
+- [India court rejects X’s “free speech” argument, backs government takedown powers](https://techcrunch.com/2025/09/24/india-court-rejects-xs-free-speech-argument-backs-government-takedown-powers/) (2025-09-24)
+- [Billionaire VC Mike Moritz slams new H-1B visa fee as ‘brutish extortion scheme’](https://techcrunch.com/2025/09/24/billionaire-vc-mike-moritz-slams-new-h-1b-visa-fee-as-brutish-extortion-scheme/) (2025-09-24)
+- [Chipiron’s big idea: rethinking MRI access, not replacing old machines ](https://techcrunch.com/video/chipirons-big-idea-rethinking-mri-access-not-replacing-old-machines/) (2025-09-24)
+- [Neon, the No. 2 social app on the Apple App Store, pays users to record their phone calls and sells data to AI firms](https://techcrunch.com/2025/09/24/neon-the-no-2-social-app-on-the-apple-app-store-pays-users-to-record-their-phone-calls-and-sells-data-to-ai-firms/) (2025-09-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Tinder, Hinge, and Their Corporate Owner Keep Rape Under Wraps](https://themarkup.org/investigations/2025/02/13/dating-app-tinder-hinge-cover-up) (2025-09-24)
-- [Launch HN: Flywheel (YC S25) – Waymo for Excavators](https://news.ycombinator.com/item?id=45362914) (2025-09-24)
-- [Terence Tao: The role of small organizations in society has shrunk significantly](https://mathstodon.xyz/@tao/115259943398316677) (2025-09-24)
-- [Product Hunt is dead](https://sedimental.org/product_hunt_is_dead.html) (2025-09-24)
-- [Better Curl Saul: a lightweight API testing CLI focused on UX and simplicity](https://github.com/DeprecatedLuar/better-curl-saul) (2025-09-24)
+- [How did sports betting become legal in the US?](https://shreyashariharan.substack.com/p/how-did-sports-betting-become-legal) (2025-09-24)
+- [Docker Hub Is Down](https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68d47a2f93c09e05486d93a9) (2025-09-24)
+- [Do YC after you graduate: Early decision for students](https://www.ycombinator.com/early-decision) (2025-09-24)
+- [I built a CLI to test and eval MCP servers](https://www.npmjs.com/package/@mcpjam/cli) (2025-09-24)
+- [Helium Browser](https://helium.computer/) (2025-09-24)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Waymo is launching a new service for business travelers](https://www.theverge.com/news/784929/waymo-for-business-corporate-travel-employer) (2025-09-24)
-- [Volvo’s next-gen hyrbids will be American-made EREVs](https://www.theverge.com/news/784652/volvo-erev-hybrid-factory-range-us) (2025-09-24)
-- [You can now upgrade a retro Casio watch with Bluetooth, step tracking, and games](https://www.theverge.com/news/784895/ollee-casio-f-91w-a158w-watch-one-kit-bluetooth-smartwatch) (2025-09-24)
-- [Jessica Chastain says she and Apple are &#8216;not aligned&#8217; on decision to halt The Savant](https://www.theverge.com/news/784839/jessica-chastain-respone-the-savant-pause-apple-tv-plus) (2025-09-24)
-- [Instagram hits 3 billion monthly users](https://www.theverge.com/news/784784/instagram-3-billion-monthly-users-reels-dms-updates) (2025-09-24)
+- [Google just asked the Supreme Court to save it from the Epic ruling](https://www.theverge.com/news/785456/google-just-asked-the-supreme-court-to-save-it-from-the-epic-ruling) (2025-09-25)
+- [Nintendo’s new Fire Emblem mobile game has an Among Us-style twist](https://www.theverge.com/news/785416/nintendo-fire-emblem-shadows-mobile-game-among-us) (2025-09-24)
+- [The best Apple deals to shop ahead of Amazon’s fall Prime Day event](https://www.theverge.com/tech/784180/amazon-october-prime-day-sale-best-early-apple-deals-2025) (2025-09-24)
+- [Google reveals its Android for PC is coming next year](https://www.theverge.com/tech/785351/google-reveals-its-android-for-pc-is-coming-next-year) (2025-09-24)
+- [X-ray scans reveal the hidden risks of cheap batteries](https://www.theverge.com/news/784966/lumafield-x-ray-ct-scan-lithium-ion-battery-risks-manufacturing-defect) (2025-09-24)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Meet the first person to own over 40,000 paid Steam games](https://arstechnica.com/gaming/2025/09/meet-the-first-person-to-own-over-40000-paid-steam-games/) (2025-09-24)
-- [Anti-vaccine allies cheer as Trump claims shots have “too much liquid”](https://arstechnica.com/health/2025/09/trump-pacifies-anti-vaccine-allies-by-trashing-shots-alongside-tylenol/) (2025-09-24)
-- [Why does OpenAI need six giant data centers?](https://arstechnica.com/ai/2025/09/why-does-openai-need-six-giant-data-centers/) (2025-09-24)
-- [Taiwan starts weaponizing chip access after US urged it to, expert says](https://arstechnica.com/tech-policy/2025/09/pacifying-us-taiwan-weaponizes-chip-access-targeting-south-africa-first/) (2025-09-24)
-- [The DHS has been quietly harvesting DNA from Americans for years](https://arstechnica.com/tech-policy/2025/09/the-dhs-has-been-quietly-harvesting-dna-from-americans-for-years/) (2025-09-24)
+- [The crew of Artemis II will fly on Integrity during mission to the Moon](https://arstechnica.com/space/2025/09/introducing-integrity-artemis-ii-astronauts-name-their-orion-ride-to-the-moon/) (2025-09-24)
+- [Console wars death watch: Microsoft Flight Simulator coming to PS5 in December](https://arstechnica.com/gaming/2025/09/microsoft-flight-simulator-becomes-a-sony-flight-simulator-on-ps5-this-december/) (2025-09-24)
+- [“Screwworm is dangerously close”: Flesh-eating parasites just 70 miles from US](https://arstechnica.com/health/2025/09/flesh-eating-parasite-just-70-miles-from-us-check-pets-texas-officials-say/) (2025-09-24)
+- [Newly found ancient Egyptian port may lead to Cleopatra’s tomb](https://arstechnica.com/science/2025/09/is-this-archaeologist-on-the-verge-of-finding-cleopatras-tomb/) (2025-09-24)
+- [Jimmy Kimmel returns, calls FCC chairman an embarrassment to Republicans](https://arstechnica.com/tech-policy/2025/09/jimmy-kimmel-returns-calls-fcc-chairman-an-embarrassment-to-republicans/) (2025-09-24)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Roundtables: The Future of Birth Control](https://www.technologyreview.com/2025/09/24/1124058/roundtables-the-future-of-birth-control/) (2025-09-24)
 - [The Download: accidental AI relationships, and the future of contraception](https://www.technologyreview.com/2025/09/24/1124026/the-download-accidental-ai-relationships-and-future-contraception/) (2025-09-24)
 - [Trump is pushing leucovorin as a new treatment for autism. What is it?](https://www.technologyreview.com/2025/09/24/1124029/trump-leucovorin-autism-tylenol/) (2025-09-24)
 - [The AI Hype Index: Cracking the chatbot code](https://www.technologyreview.com/2025/09/24/1123999/the-ai-hype-index-cracking-the-chatbot-code/) (2025-09-24)
 - [It’s surprisingly easy to stumble into a relationship with an AI chatbot](https://www.technologyreview.com/2025/09/24/1123915/relationship-ai-without-seeking-it/) (2025-09-24)
-- [Roundtables: Meet the 2025 Innovator of the Year](https://www.technologyreview.com/2025/09/23/1123986/roundtables-meet-the-2025-innovator-of-the-year/) (2025-09-23)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [GitHub Copilot gets smarter at finding your code: Inside our new embedding model ](https://github.blog/news-insights/product-news/copilot-new-embedding-model-vs-code/) (2025-09-24)
 - [Using AI to map hope for refugees with UNHCR, the UN Refugee Agency](https://github.blog/open-source/social-impact/using-ai-to-map-hope-for-refugees-with-unhcr-the-un-refugee-agency/) (2025-09-24)
 - [A step-by-step guide to modernizing Java projects with GitHub Copilot agent mode](https://github.blog/ai-and-ml/github-copilot/a-step-by-step-guide-to-modernizing-java-projects-with-github-copilot-agent-mode/) (2025-09-23)
 - [Our plan for a more secure npm supply chain](https://github.blog/security/supply-chain-security/our-plan-for-a-more-secure-npm-supply-chain/) (2025-09-23)
 - [Gartner positions GitHub as a Leader in the 2025 Magic Quadrant for AI Code Assistants for the second year in a row](https://github.blog/ai-and-ml/github-copilot/gartner-positions-github-as-a-leader-in-the-2025-magic-quadrant-for-ai-code-assistants-for-the-second-year-in-a-row/) (2025-09-22)
-- [What’s next for Git? 20 years in, the community is still pushing forward](https://github.blog/open-source/whats-next-for-git-20-years-in-the-community-is-still-pushing-forward/) (2025-09-22)
 
 </details>
 
@@ -97,25 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Polyglot Dockerization: Java + Python + Vue in Local and Production](https://dev.to/mrmajed7/polyglot-dockerization-java-python-vue-in-local-and-production-5c22) (2025-09-24)
-- [The Night I Discovered I'd Built Something Revolutionary (And Didn't Know It)](https://dev.to/homeless-coder/the-night-i-discovered-id-built-something-revolutionary-and-didnt-know-it-2oik) (2025-09-24)
-- [COLORS: The Favors - Lake George | A COLORS SHOW](https://dev.to/music_youtube/colors-the-favors-lake-george-a-colors-show-1glb) (2025-09-24)
-- [Workspace on Demand in i3wm](https://dev.to/waterkip/workspace-on-demand-in-i3wm-3nki) (2025-09-24)
-- [Bryan Bros Golf: We Played With the #1 Junior Golfer in the Country](https://dev.to/youtube_golf/bryan-bros-golf-we-played-with-the-1-junior-golfer-in-the-country-2k6k) (2025-09-24)
+- [The Ultimate Checklist for Zero‑Downtime Deploys with Docker & Nginx](https://dev.to/ramer2b58cbe46bc8/the-ultimate-checklist-for-zero-downtime-deploys-with-docker-nginx-29gl) (2025-09-25)
+- [GDPR in 2025 - Why It Still Matters and How to Stay Updated](https://dev.to/heyjoshlee/gdpr-in-2025-why-it-still-matters-and-how-to-stay-updated-190p) (2025-09-25)
+- [From $820 to $92: How A Startup Cut Cloud Costs by 88%](https://dev.to/hasan_ashab/from-820-to-92-how-a-startup-cut-cloud-costs-by-88-2mne) (2025-09-25)
+- [The Ultimate Guide to Open Table Formats: Iceberg, Delta Lake, Hudi, Paimon, and DuckLake](https://dev.to/alexmercedcoder/the-ultimate-guide-to-open-table-formats-iceberg-delta-lake-hudi-paimon-and-ducklake-dnk) (2025-09-25)
+- [For those looking to build portfolio and gain collaborative experience: GirlHacks is running the Innovate Series 2025, a multi-week program focused on building innovative tech solutions in teams. https://www.girlhacks.net/events/innovate-series-2025](https://dev.to/shuchi_agarwal_b24d7792cc/for-those-looking-to-build-portfolio-and-gain-collaborative-experience-girlhacks-is-running-the-48om) (2025-09-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09051012897شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@uoshbbs/09051012897%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-bda58dd589ae?source=rss------programming-5) (2025-09-24)
-- [09051012897شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@uoshbbs/09051012897%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-777ae0ab3a36?source=rss------programming-5) (2025-09-24)
-- [09051012897شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@uoshbbs/09051012897%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-c0da9ebdc605?source=rss------programming-5) (2025-09-24)
-- [Building Offline-First Android Apps: A Developer’s Complete Guide](https://medium.com/codetodeploy/building-offline-first-android-apps-a-developers-complete-guide-c105d939535b?source=rss------programming-5) (2025-09-24)
-- [The Rust ML Ecosystem Is Quietly Becoming Production-Ready](https://medium.com/@theopinionatedev/the-rust-ml-ecosystem-is-quietly-becoming-production-ready-f4d348bea118?source=rss------programming-5) (2025-09-24)
+- [09045080282شماره خاله ورامین شماره خاله کرمان شماره خاله کرج](https://medium.com/@2kskwkwnsnsn/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%88%D8%B1%D8%A7%D9%85%DB%8C%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D9%85%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-606631205181?source=rss------programming-5) (2025-09-25)
+- [09045080282شماره خاله ورامین شماره خاله کرمان شماره خاله کرج](https://medium.com/@2kskwkwnsnsn/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%88%D8%B1%D8%A7%D9%85%DB%8C%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D9%85%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-4e960d31d691?source=rss------programming-5) (2025-09-25)
+- [09045080282شماره خاله ورامین شماره خاله کرمان شماره خاله کرج](https://medium.com/@2kskwkwnsnsn/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%88%D8%B1%D8%A7%D9%85%DB%8C%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D9%85%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-c83c1de9e679?source=rss------programming-5) (2025-09-25)
+- [7 Advanced Gin Middleware Patterns to Boost API Performance Beyond Standard Authentication and…](https://medium.techkoalainsights.com/7-advanced-gin-middleware-patterns-to-boost-api-performance-beyond-standard-authentication-and-22d62836796a?source=rss------programming-5) (2025-09-25)
+- [09045080282شماره خاله بندرعباس # شماره خاله اراک # شماره خاله رشت # شماره خاله همدان # شماره خاله…](https://medium.com/@1akkaaksknsnsksks/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B1%D8%A7%DA%A9-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D8%B4%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%87%D9%85%D8%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-e68226ea6027?source=rss------programming-5) (2025-09-25)
 
 </details>
 
@@ -144,11 +141,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Open Secret: How NVIDIA Nemotron Models, Datasets and Techniques Fuel AI Development](https://blogs.nvidia.com/blog/nemotron-open-source-ai/) (2025-09-24)
 - [Canada Goes All In on AI: NVIDIA Joins Nations’ Technology Leaders in Montreal to Shape Sovereign AI Strategy](https://blogs.nvidia.com/blog/canada-all-in/) (2025-09-24)
 - [At Climate Week NYC, NVIDIA Details AI’s Key Role in the Sustainable Energy Transition](https://blogs.nvidia.com/blog/ai-energy-innovation-climate-research/) (2025-09-23)
 - [NVIDIA, OpenAI Announce ‘the Biggest AI Infrastructure Deployment in History’](https://blogs.nvidia.com/blog/openai-nvidia/) (2025-09-22)
 - [AI On: How Onboarding Teams of AI Agents Drives Productivity and Revenue for Businesses](https://blogs.nvidia.com/blog/onboarding-teams-ai-agents-productivity-revenue-businesses/) (2025-09-19)
-- [The UK’s ‘Goldilocks Moment for AI’: NVIDIA, UK and US Leaders Highlight AI Infrastructure Investments](https://blogs.nvidia.com/blog/uk-ai-ecosystem-celebration/) (2025-09-18)
 
 </details>
 
@@ -276,11 +273,11 @@
 <details>
 <summary>💳 Stripe Blog</summary>
 
+- [High-growth companies stand out with flexible pricing](https://stripe.com/blog/high-growth-companies-stand-out-with-flexible-pricing) (2025-09-24)
 - [How we built it: Real-time analytics for Stripe Billing](https://stripe.com/blog/how-we-built-it-real-time-analytics-for-stripe-billing) (2025-09-16)
 - [A framework for pricing AI products](https://stripe.com/blog/a-framework-for-pricing-ai-products) (2025-09-11)
 - [Introducing Tempo, the payments-first blockchain](https://tempo.xyz/launch-announcement) (2025-09-04)
 - [The conversion paradox: 3DS trends in regulated markets](https://stripe.com/blog/3ds-trends-in-regulated-markets) (2025-08-26)
-- [The top industries and business models using AI for fraud prevention](https://stripe.com/blog/top-industries-and-business-models-using-ai-for-fraud-prevention) (2025-08-12)
 
 </details>
 
@@ -376,11 +373,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Manage a List of Safe Phone Numbers in PHP with Twilio Verify's Safe List API
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/manage-list-of-safe-phone-numbers-php-with-twilio-verify-safe-list-api
-) (2025-09-23)
-- [
 Self-service in the age of AI: Virtual agents that actually resolve
 ](
 https://www.twilio.com/en-us/blog/insights/ai/self-service-ai-virtual-agents
@@ -391,26 +383,31 @@ Breaking the Monolith: How We Used the Strangler Fig Pattern to Transform Segmen
 https://www.twilio.com/en-us/blog/developers/transform-segment-notification-architecture-orchestration
 ) (2025-09-22)
 - [
-Build 2-Way Conversational Email Experiences Using SendGrid Inbound Parse
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/conversational-email-inbound-parse-signature-verification
-) (2025-09-22)
-- [
 Use ConversationRelay with the Open Source Agent Builder Flowise: A Multi-Agent Example with Voice
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/conversationrelay-agent-builder-flowise-voice-messaging
 ) (2025-09-22)
+- [
+Holiday Email Marketing Best Practices for 2025 (and Beyond)
+](
+https://www.twilio.com/en-us/blog/insights/planning-ahead-for-your-holiday-email-sending
+) (2025-09-19)
+- [
+Big Changes Are Coming to the Gmail Inbox
+](
+https://www.twilio.com/en-us/blog/insights/gmail-inbox-changes
+) (2025-09-18)
 
 </details>
 
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Detecting Signup Fraud: 3 Ways to Use Auth0 Logs to Protect Your Business](https://auth0.com/blog/detecting-signup-fraud-3-ways-to-use-auth0-logs-to-protect-your-business/) (2025-09-24)
 - [Shopify + Auth0: A New Era for Retail Customer Identity](https://auth0.com/blog/shopify-auth0-a-new-era-for-retail-customer-identity/) (2025-09-23)
 - [Introducing Transaction Metadata for Auth0 Actions](https://auth0.com/blog/introducing-transaction-metadata-for-auth0-actions/) (2025-09-22)
 - [Oktane Online 2025: The AI Security Event You Can’t Miss](https://auth0.com/blog/oktane-online-2025-the-ai-security-event-you-cant-miss/) (2025-09-18)
 - [Implementing DPoP with Auth0](https://auth0.com/blog/implementing-dpop-with-auth0/) (2025-09-18)
-- [Is Your Product Hitting Its Limits? A Guide to Upgrading Your Auth0 Plan](https://auth0.com/blog/is-your-product-hitting-its-limits-how-to-know-when-to-upgrade-your-auth0-plan/) (2025-09-17)
 
 </details>
 
@@ -571,11 +568,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/conversationrelay
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Decoding Nonlinear Signals In Large Observational Datasets](https://towardsdatascience.com/decoding-nonlinear-signals-in-large-observational-datasets/) (2025-09-24)
+- [RAG Explained: Reranking for Better Answers](https://towardsdatascience.com/rag-explained-reranking-for-better-answers/) (2025-09-24)
 - [PyTorch Explained: From Automatic Differentiation to Training Custom Neural Networks](https://towardsdatascience.com/the-basics-of-deep-learning-with-pytorch-in-1-hour/) (2025-09-24)
 - [Introducing the AI-3P Assessment Framework: Score AI Projects Before Committing Resources](https://towardsdatascience.com/the-ai-3p-assessment-framework/) (2025-09-24)
 - [Generating Consistent Imagery with Gemini](https://towardsdatascience.com/generating-consistent-imagery-with-gemini/) (2025-09-23)
-- [The Art of Asking Good Questions](https://towardsdatascience.com/the-art-of-asking-good-questions/) (2025-09-23)
-- [Generative AI Myths, Busted: An Engineer’s Quick Guide](https://towardsdatascience.com/gen-ai-myths-busted-a-engineerss-quick-guide/) (2025-09-23)
 
 </details>
 
