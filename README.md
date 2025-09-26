@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Thousands of Indian bank transfer records found online](https://techcrunch.com/2025/09/25/thousands-of-indian-bank-transfer-records-found-online/) (2025-09-26)
 - [Aaron Levie on building for the long game in enterprise software at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/25/inside-the-box-aaron-levie-on-reinvention-at-techcrunch-disrupt-2025/) (2025-09-25)
 - [Trump signs executive order to facilitate TikTok deal](https://techcrunch.com/2025/09/25/trump-signs-executive-order-approving-tiktok-deal/) (2025-09-25)
 - [Meta launches ‘Vibes,’ a short-form video feed of AI slop](https://techcrunch.com/2025/09/25/meta-launches-vibes-a-short-form-video-feed-of-ai-slop/) (2025-09-25)
 - [Viral call-recording app Neon goes dark after exposing users’ phone numbers, call recordings, and transcripts](https://techcrunch.com/2025/09/25/viral-call-recording-app-neon-goes-dark-after-exposing-users-phone-numbers-call-recordings-and-transcripts/) (2025-09-25)
-- [Microsoft cuts cloud services to Israeli military unit over Palestinian surveillance](https://techcrunch.com/2025/09/25/microsoft-cuts-cloud-services-to-israeli-military-unit-over-palestinian-surveillance/) (2025-09-25)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Conspiracy content drives anti-establishment sentiment on TikTok, YouTube](https://news.umich.edu/conspiracy-content-drives-anti-establishment-sentiment-on-tiktok-youtube/) (2025-09-25)
-- [Arctic sea ice has reached minimum extent for 2025](https://cires.colorado.edu/news/arctic-sea-ice-has-reached-minimum-extent-2025) (2025-09-25)
-- [Bluesky Alt Text Stream](https://bobbiec.github.io/bluesky-alt-text.html) (2025-09-25)
-- [Apple Demands EU Repeal the Digital Markets Act](https://arstechnica.com/tech-policy/2025/09/apple-demands-eu-repeal-the-digital-markets-act/) (2025-09-25)
-- [The Word Made Lifeless. Are we becoming stochastic parrots?](https://hedgehogreview.com/issues/lessons-of-babel/articles/the-word-made-lifeless) (2025-09-25)
+- [No reachable chess position with more than 218 moves](https://lichess.org/@/Tobs40/blog/there-is-no-reachable-chess-position-with-more-than-218-moves/a5xdxeqs) (2025-09-26)
+- [The effect of H-1B quota on employment and selection of foreign-born labor (2018)](https://doi.org/10.1016/j.euroecorev.2018.06.010) (2025-09-26)
+- [A platform-jumping prince – History of Prince of Persia's 1990s Ports](https://www.jordanmechner.com/en/latest-news/#a-platform-jumping-prince) (2025-09-26)
+- [Flock Reinstalls Cameras Without City Approval After Unlawful Govt Access](https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/) (2025-09-26)
+- [My Deus Ex lipsyncing fix mod](https://www.joewintergreen.com/my-deus-ex-lipsyncing-fix-mod-making-of/) (2025-09-26)
 
 </details>
 
@@ -97,24 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Cache Multi-Nível com FusionCache em Aplicações .NET 8](https://dev.to/obrusilva/cache-multi-nivel-com-fusioncache-em-aplicacoes-net-8-4hdo) (2025-09-26)
-- [Enhancing Open-Source Security & Education with AI and Gamification — OWASP BLT GSoC 2025 Highlights](https://dev.to/donnieblt/enhancing-open-source-security-education-with-ai-and-gamification-owasp-blt-gsoc-2025-highlights-22lc) (2025-09-26)
-- [Too busy for friends? Try Friendship 1:1s](https://dev.to/pedromassango/too-busy-for-friends-try-friendship-11s-g5d) (2025-09-26)
-- [IGN: Greenland 2: Migration - Official Trailer (2025) Gerard Butler](https://dev.to/gg_news/ign-greenland-2-migration-official-trailer-2025-gerard-butler-4h55) (2025-09-26)
-- [C++ References Tutorial: Complete Guide to Aliases, Performance, and Modern C++ (2025)](https://dev.to/bashtech1/c-references-tutorial-complete-guide-to-aliases-performance-and-modern-c-2025-509h) (2025-09-25)
+- [Employees who have accumulated more than 5 years of work experience in New York--SPL Programming Practice](https://dev.to/esproc_spl/employees-who-have-accumulated-more-than-5-years-of-work-experience-in-new-york-spl-programming-2ah0) (2025-09-26)
+- [Anix: A Streamlined Platform for Anime Enthusiasts](https://dev.to/jessica_yamada_2f4cfd0e06/anix-a-streamlined-platform-for-anime-enthusiasts-193m) (2025-09-26)
+- [How Vue Animations Enhance User Engagement and Interaction on Digital Platforms](https://dev.to/fiona_blackwood_07/how-vue-animations-enhance-user-engagement-and-interaction-on-digital-platforms-49g9) (2025-09-26)
+- [Factory Method in Clprolf: Clear Rules for Object Creation](https://dev.to/charles_koffler_bcabc582b/factory-method-in-clprolf-clear-rules-for-object-creation-4ga) (2025-09-26)
+- [This case needs to be on the radar of the DOJ and IRS. Fraud of this magnitude cannot be swept under the rug.](https://dev.to/dayologic/this-case-needs-to-be-on-the-radar-of-the-doj-and-irs-fraud-of-this-magnitude-cannot-be-swept-59ph) (2025-09-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [5 Advanced TypeScript Conditional Type Patterns That Eliminate Runtime Errors Before They Happen](https://medium.techkoalainsights.com/5-advanced-typescript-conditional-type-patterns-that-eliminate-runtime-errors-before-they-happen-701d952d3e4e?source=rss------programming-5) (2025-09-26)
-- [Python Performance Patterns: Writing Code That Runs Like C but Reads Like Python](https://medium.com/technology-core/python-performance-patterns-writing-code-that-runs-like-c-but-reads-like-python-ac0d2a2ec223?source=rss------programming-5) (2025-09-26)
-- [Front-End do Zero ao Pro — EP1: Começando](https://medium.com/@iamfelipegomes/front-end-do-zero-ao-pro-ep1-come%C3%A7ando-c73188274ece?source=rss------programming-5) (2025-09-26)
-- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jfmmfkmfm/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-dc97ca98b6ce?source=rss------programming-5) (2025-09-26)
-- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jfmmfkmfm/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-4f7b25412257?source=rss------programming-5) (2025-09-26)
+- [small screen.](https://medium.com/@mohdhameem0/small-screen-9886c0543242?source=rss------programming-5) (2025-09-26)
+- [The Rise of No-Code and Low-Code Platforms: Should Developers Be Worried?](https://zoople-technologies.medium.com/the-rise-of-no-code-and-low-code-platforms-should-developers-be-worried-17db5d4cabb5?source=rss------programming-5) (2025-09-26)
+- [Book Taxi Service In Badarpur, Delhi Taxi Service, Book Affordable Taxi](https://medium.com/@soniyarealestatepropertysale/book-taxi-service-in-badarpur-delhi-taxi-service-book-affordable-taxi-8db0feb0d4df?source=rss------programming-5) (2025-09-26)
+- [ Blockchain Adoption: Challenges and Opportunities](https://medium.com/@DigiMaaya/blockchain-adoption-challenges-and-opportunities-04cba28def23?source=rss------programming-5) (2025-09-26)
+- [9 Python Features You’re Not Using (Yet)](https://medium.com/codrift/9-python-features-youre-not-using-yet-02a8a1c8030d?source=rss------programming-5) (2025-09-26)
 
 </details>
 
@@ -132,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.](https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/) (2025-09-25)
+- [Agent Factory: Designing the open agentic web stack](https://azure.microsoft.com/en-us/blog/agent-factory-designing-the-open-agentic-web-stack/) (2025-09-24)
 - [How Azure Cobalt 100 VMs are powering real-world solutions, delivering performance and efficiency results](https://azure.microsoft.com/en-us/blog/how-azure-cobalt-100-vms-are-powering-real-world-solutions-delivering-performance-and-efficiency-results/) (2025-09-23)
 - [Accelerate migration and modernization with agentic AI](https://azure.microsoft.com/en-us/blog/accelerate-migration-and-modernization-with-agentic-ai/) (2025-09-23)
 - [Inside the world’s most powerful AI datacenter](https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/) (2025-09-18)
-- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms ](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms/) (2025-09-18)
-- [Agent Factory: Creating a blueprint for safe and secure AI agents](https://azure.microsoft.com/en-us/blog/agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents/) (2025-09-17)
 
 </details>
 
@@ -147,7 +145,7 @@
 - [Pilots Wanted: Stream ‘Mecha BREAK’ on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-mecha-break/) (2025-09-25)
 - [Open Secret: How NVIDIA Nemotron Models, Datasets and Techniques Fuel AI Development](https://blogs.nvidia.com/blog/nemotron-open-source-ai/) (2025-09-24)
 - [Canada Goes All In on AI: NVIDIA Joins Nations’ Technology Leaders in Montreal to Shape Sovereign AI Strategy](https://blogs.nvidia.com/blog/canada-all-in/) (2025-09-24)
-- [At Climate Week NYC, NVIDIA Details AI’s Key Role in the Sustainable Energy Transition](https://blogs.nvidia.com/blog/ai-energy-innovation-climate-research/) (2025-09-23)
+- [At Climate Week NYC, NVIDIA Details AI’s Key Role in Energy Efficiency](https://blogs.nvidia.com/blog/ai-energy-innovation-climate-research/) (2025-09-23)
 
 </details>
 
@@ -375,6 +373,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Behind the builder: Tanise Love, Senior Employee Impact Manager
+](
+https://www.twilio.com/en-us/blog/company/spotlights/behind-the-builder-tanise-love-twilio
+) (2025-09-24)
+- [
 Manage a List of Safe Phone Numbers in PHP with Twilio Verify's Safe List API
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/manage-list-of-safe-phone-numbers-php-with-twilio-verify-safe-list-api
@@ -393,11 +396,6 @@ https://www.twilio.com/en-us/blog/insights/ai/self-service-ai-virtual-agents
 Breaking the Monolith: How We Used the Strangler Fig Pattern to Transform Segment’s Notification Architecture
 ](
 https://www.twilio.com/en-us/blog/developers/transform-segment-notification-architecture-orchestration
-) (2025-09-22)
-- [
-Build 2-Way Conversational Email Experiences Using SendGrid Inbound Parse
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/conversational-email-inbound-parse-signature-verification
 ) (2025-09-22)
 
 </details>
@@ -515,11 +513,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/conversational-em
 <details>
 <summary>💬 Slack API</summary>
 
-- [How to Build Work Habits: 25 Expert-Backed Tips](https://slack.com/blog/productivity/build-productive-work-habits) (2025-09-22)
-- [How to Create a Mind Map: Examples, Benefits, and Uses](https://slack.com/blog/collaboration/how-to-create-a-mind-map-examples-benefits-and-uses) (2025-09-19)
-- [Capacity Planning 101: Balance Workloads and Boost Team Productivity](https://slack.com/blog/productivity/capacity-planning-101-balance-workloads-and-boost-team-productivity) (2025-09-19)
-- [Standard Operating Procedure Templates: What They Are and How to Use Them Effectively](https://slack.com/blog/productivity/standard-operating-procedure-templates-why-theyre-important-and-how-to-create-one) (2025-09-12)
-- [Streamline Note-Taking with Board Meeting Minutes Templates](https://slack.com/blog/productivity/better-board-meeting-minutes) (2025-09-12)
+- [How to Choose the Right Communication Model for Every Team](https://slack.com/blog/collaboration/communication-model) (2025-09-24)
+- [Best Methods for Prioritizing Tasks and Projects at Work](https://slack.com/blog/productivity/best-methods-for-prioritizing-tasks-and-projects-at-work) (2025-09-24)
+- [Meet Channel Expert: Your Always-On Agent in Slack](https://slack.com/blog/news/channel-expert) (2025-09-24)
+- [The AI Workforce: What It Is and How It Can Help Your Team](https://slack.com/blog/productivity/ai-workforce-what-it-is-and-how-it-can-help-your-team) (2025-09-23)
+- [What Is Virtual Work, and How Can It Benefit You?](https://slack.com/blog/collaboration/what-is-virtual-work-and-how-can-it-benefit-you) (2025-09-23)
 
 </details>
 
@@ -581,11 +579,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/conversational-em
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Integrating Monte Carlo Simulation in Excel for Risk Modeling using Python](https://www.analyticsvidhya.com/blog/2025/09/python-monte-carlo-simulation-in-excel/) (2025-09-26)
 - [5 Best Laptops for AI Engineers and Developers](https://www.analyticsvidhya.com/blog/2025/09/laptops-for-ai-engineers-and-developers/) (2025-09-25)
 - [DeepCode: This FREE Agentic AI Coder is INSANE!](https://www.analyticsvidhya.com/blog/2025/09/deepcode/) (2025-09-25)
 - [Google’s Agent Payments Protocol (AP2): The New Way AI Agents Pay for You](https://www.analyticsvidhya.com/blog/2025/09/agent-payments-protocol-ap2/) (2025-09-25)
 - [12 Things you can do with the Free Gemini API](https://www.analyticsvidhya.com/blog/2025/09/gemini-free-api/) (2025-09-24)
-- [Zero-Day Attack Detection using Denoising Autoencoder on UNSW-NB15](https://www.analyticsvidhya.com/blog/2025/09/zero-day-attack-detection/) (2025-09-24)
 
 </details>
 
