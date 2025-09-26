@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [OpenAI launches ChatGPT Pulse to proactively write you morning briefs](https://techcrunch.com/2025/09/25/openai-launches-chatgpt-pulse-to-proactively-write-you-morning-briefs/) (2025-09-25)
-- [Threads is developing a tool that lets you ‘tag’ its algorithm to configure your feed](https://techcrunch.com/2025/09/25/threads-is-developing-a-tool-that-lets-you-tag-its-algorithm-to-configure-your-feed/) (2025-09-25)
-- [Juicebox raises $30M from Sequoia to revolutionize hiring with LLM-powered search](https://techcrunch.com/2025/09/25/juicebox-raises-30m-from-sequoia-to-revolutionize-hiring-with-llm-powered-search/) (2025-09-25)
-- [Steph Curry’s VC firm just backed an AI startup that wants to fix food supply chains](https://techcrunch.com/2025/09/25/steph-currys-vc-firm-just-backed-an-ai-startup-that-wants-to-fix-food-supply-chains/) (2025-09-25)
-- [Amazon to pay $2.5B in FTC settlement over ‘deceptive’ Prime tactics](https://techcrunch.com/2025/09/25/amazon-to-pay-2-5b-in-ftc-settlement-over-deceptive-prime-tactics/) (2025-09-25)
+- [Aaron Levie on building for the long game in enterprise software at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/25/inside-the-box-aaron-levie-on-reinvention-at-techcrunch-disrupt-2025/) (2025-09-25)
+- [Trump signs executive order to facilitate TikTok deal](https://techcrunch.com/2025/09/25/trump-signs-executive-order-approving-tiktok-deal/) (2025-09-25)
+- [Meta launches ‘Vibes,’ a short-form video feed of AI slop](https://techcrunch.com/2025/09/25/meta-launches-vibes-a-short-form-video-feed-of-ai-slop/) (2025-09-25)
+- [Viral call-recording app Neon goes dark after exposing users’ phone numbers, call recordings, and transcripts](https://techcrunch.com/2025/09/25/viral-call-recording-app-neon-goes-dark-after-exposing-users-phone-numbers-call-recordings-and-transcripts/) (2025-09-25)
+- [Microsoft cuts cloud services to Israeli military unit over Palestinian surveillance](https://techcrunch.com/2025/09/25/microsoft-cuts-cloud-services-to-israeli-military-unit-over-palestinian-surveillance/) (2025-09-25)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Microsoft blocks Israel's use of its data centers](https://www.engadget.com/big-tech/microsoft-blocks-israels-use-of-its-data-centers-for-mass-surveillance-of-palestinians-170107061.html) (2025-09-25)
-- [Improved Gemini 2.5 Flash and Flash-Lite](https://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/) (2025-09-25)
-- [Starbucks: Location closures and elimination of roles](https://about.starbucks.com/press/2025/message-from-brian-an-important-update/) (2025-09-25)
-- [ChatGPT Pulse](https://openai.com/index/introducing-chatgpt-pulse/) (2025-09-25)
-- [GDPVal: Measuring the performance of our models on real-world tasks](https://openai.com/index/gdpval/) (2025-09-25)
+- [Conspiracy content drives anti-establishment sentiment on TikTok, YouTube](https://news.umich.edu/conspiracy-content-drives-anti-establishment-sentiment-on-tiktok-youtube/) (2025-09-25)
+- [Arctic sea ice has reached minimum extent for 2025](https://cires.colorado.edu/news/arctic-sea-ice-has-reached-minimum-extent-2025) (2025-09-25)
+- [Bluesky Alt Text Stream](https://bobbiec.github.io/bluesky-alt-text.html) (2025-09-25)
+- [Apple Demands EU Repeal the Digital Markets Act](https://arstechnica.com/tech-policy/2025/09/apple-demands-eu-repeal-the-digital-markets-act/) (2025-09-25)
+- [The Word Made Lifeless. Are we becoming stochastic parrots?](https://hedgehogreview.com/issues/lessons-of-babel/articles/the-word-made-lifeless) (2025-09-25)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Gemini now explains why your Sheets formula failed](https://www.theverge.com/news/785895/gemini-explanation-google-sheets-formula) (2025-09-25)
-- [What happens when an AI-generated artist gets a record deal? A copyright mess](https://www.theverge.com/ai-artificial-intelligence/785792/ai-generated-music-record-deal-copyright) (2025-09-25)
-- [OpenAI really, really wants you to start your day with ChatGPT Pulse](https://www.theverge.com/ai-artificial-intelligence/785881/openai-really-really-wants-you-to-start-your-day-with-chatgpt-pulse) (2025-09-25)
-- [Jackery’s newest Explorer 240D power station is already over 30 percent off](https://www.theverge.com/tech/785833/jackery-explorer-240d-bose-quietcomfor-earbuds-deal-sale) (2025-09-25)
-- [LG’s new TV is designed to be easier for seniors to use](https://www.theverge.com/news/785808/lg-easy-smart-tv-senior-citizens-redesigned-remote) (2025-09-25)
+- [Microsoft and Asus open Xbox Ally preorders — the X costs $999](https://www.theverge.com/news/784286/xbox-handheld-ally-x-price-preorder) (2025-09-26)
+- [Hell yeah, I want a Gundam keyboard with Topre switches](https://www.theverge.com/news/785991/realforce-gx1-mobile-suit-gundam-mechanical-keyboard-limited-edition-collaboration) (2025-09-25)
+- [Nintendo of America boss Doug Bowser is retiring](https://www.theverge.com/news/786068/nintendo-of-america-president-doug-bowser-retirement) (2025-09-25)
+- [Nvidia is letting anyone use its AI voice animation tech](https://www.theverge.com/news/785981/nvidia-audio2face-ai-voice-animation-open-source) (2025-09-25)
+- [Trump signs &#8216;Saving TikTok&#8217; order to start resolving its big ban problem](https://www.theverge.com/news/640745/tiktok-deal-trump-us-china-bytedance) (2025-09-25)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Apple iPhone 17 review: Sometimes boring is best](https://arstechnica.com/gadgets/2025/09/review-apples-injects-just-the-right-amount-of-pro-into-the-regular-iphone-17/) (2025-09-25)
-- [Amazon agrees to make canceling Prime easy, will refund customers $1.5B](https://arstechnica.com/tech-policy/2025/09/amazon-agrees-to-make-canceling-prime-easy-will-refund-customers-1-5b/) (2025-09-25)
-- [Google DeepMind unveils its first “thinking” robotics AI](https://arstechnica.com/google/2025/09/google-deepmind-unveils-its-first-thinking-robotics-ai/) (2025-09-25)
-- [Reviewing iOS 26 for power users: Reminders, Preview, and more](https://arstechnica.com/gadgets/2025/09/reviewing-ios-26-for-power-users-reminders-preview-and-more/) (2025-09-25)
-- [Apple demands EU repeal the Digital Markets Act](https://arstechnica.com/tech-policy/2025/09/apple-demands-eu-repeal-the-digital-markets-act/) (2025-09-25)
+- [Senate staff probes DOGE, finds locked doors and windows covered with trash bags](https://arstechnica.com/tech-policy/2025/09/senate-staff-probes-doge-finds-locked-doors-and-windows-covered-with-trash-bags/) (2025-09-25)
+- [Sierra’s Dream Chaser is starting to resemble a nightmare](https://arstechnica.com/space/2025/09/sierras-dream-chaser-is-starting-to-resemble-a-nightmare/) (2025-09-25)
+- [Felony charges after South Carolina high school filled with “fart spray”… for weeks](https://arstechnica.com/culture/2025/09/felony-charges-after-south-carolina-high-school-filled-with-fart-spray-for-weeks/) (2025-09-25)
+- [Amazon Fire TV devices expected to ditch Android for Linux in 2025](https://arstechnica.com/gadgets/2025/09/amazon-fire-tv-devices-expected-to-ditch-android-for-linux-in-2025/) (2025-09-25)
+- [High above the equator, Russia is stalking satellites used by NATO armed forces](https://arstechnica.com/space/2025/09/in-a-major-policy-shift-germany-considers-offensive-weapons-in-space/) (2025-09-25)
 
 </details>
 
@@ -97,22 +97,24 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Learn AI Independently: How to Use ChatGPT and Other Tools to Understand a Technical Book](https://dev.to/masudio/learn-ai-independently-how-to-use-chatgpt-and-other-tools-to-understand-a-technical-book-1ep8) (2025-09-25)
-- [How to Instantly Unblock Your AI Dev Tool: The GitHub Issues Prompt](https://dev.to/aaronksaunders/how-to-instantly-unblock-your-ai-dev-tool-the-github-issues-prompt-2efl) (2025-09-25)
-- [📰 Major Tech News: September 25, 2025](https://dev.to/om_shree_0709/major-tech-news-september-25-2025-5h38) (2025-09-25)
-- [Andrew Huang: The most innovative music tools of 2025!](https://dev.to/music_youtube/andrew-huang-the-most-innovative-music-tools-of-2025-37mg) (2025-09-25)
-- [KEXP: Thee Marloes - Full Performance (Live on KEXP)](https://dev.to/music_youtube/kexp-thee-marloes-full-performance-live-on-kexp-10ei) (2025-09-25)
+- [Cache Multi-Nível com FusionCache em Aplicações .NET 8](https://dev.to/obrusilva/cache-multi-nivel-com-fusioncache-em-aplicacoes-net-8-4hdo) (2025-09-26)
+- [Enhancing Open-Source Security & Education with AI and Gamification — OWASP BLT GSoC 2025 Highlights](https://dev.to/donnieblt/enhancing-open-source-security-education-with-ai-and-gamification-owasp-blt-gsoc-2025-highlights-22lc) (2025-09-26)
+- [Too busy for friends? Try Friendship 1:1s](https://dev.to/pedromassango/too-busy-for-friends-try-friendship-11s-g5d) (2025-09-26)
+- [IGN: Greenland 2: Migration - Official Trailer (2025) Gerard Butler](https://dev.to/gg_news/ign-greenland-2-migration-official-trailer-2025-gerard-butler-4h55) (2025-09-26)
+- [C++ References Tutorial: Complete Guide to Aliases, Performance, and Modern C++ (2025)](https://dev.to/bashtech1/c-references-tutorial-complete-guide-to-aliases-performance-and-modern-c-2025-509h) (2025-09-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ CandyDrop #88: Somnia (SOMI)](https://medium.com/@babichevv2/candydrop-88-somnia-somi-21f786bd1130?source=rss------programming-5) (2025-09-25)
-- [ Next.js Tips for 2025: A Comprehensive Guide to Building High-Performance Web Apps](https://medium.com/@theHackHabitual/next-js-tips-for-2025-a-comprehensive-guide-to-building-high-performance-web-apps-272a77213da8?source=rss------programming-5) (2025-09-25)
-- [ping swiftnet](https://medium.com/@omidajdady500/ping-swiftnet-9e3137d3c474?source=rss------programming-5) (2025-09-25)
-- [ Exploring Next.js 14+ Middleware and Edge Functions: Building Ultra-Fast, Scalable Apps in 2025](https://medium.com/@TheblogStacker/exploring-next-js-14-middleware-and-edge-functions-building-ultra-fast-scalable-apps-in-2025-4f1d6be88e73?source=rss------programming-5) (2025-09-25)
-- [ Firebase in 2025: The Ultimate Guide to Building Modern, Scalable Apps](https://medium.com/@missAvantika/firebase-in-2025-the-ultimate-guide-to-building-modern-scalable-apps-fbf27fded64a?source=rss------programming-5) (2025-09-25)
+- [5 Advanced TypeScript Conditional Type Patterns That Eliminate Runtime Errors Before They Happen](https://medium.techkoalainsights.com/5-advanced-typescript-conditional-type-patterns-that-eliminate-runtime-errors-before-they-happen-701d952d3e4e?source=rss------programming-5) (2025-09-26)
+- [Python Performance Patterns: Writing Code That Runs Like C but Reads Like Python](https://medium.com/technology-core/python-performance-patterns-writing-code-that-runs-like-c-but-reads-like-python-ac0d2a2ec223?source=rss------programming-5) (2025-09-26)
+- [Front-End do Zero ao Pro — EP1: Começando](https://medium.com/@iamfelipegomes/front-end-do-zero-ao-pro-ep1-come%C3%A7ando-c73188274ece?source=rss------programming-5) (2025-09-26)
+- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jfmmfkmfm/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-dc97ca98b6ce?source=rss------programming-5) (2025-09-26)
+- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jfmmfkmfm/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-4f7b25412257?source=rss------programming-5) (2025-09-26)
 
 </details>
 
@@ -130,22 +132,22 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [How Azure Cobalt 100 VMs are powering real-world solutions, delivering performance and efficiency results](https://azure.microsoft.com/en-us/blog/how-azure-cobalt-100-vms-are-powering-real-world-solutions-delivering-performance-and-efficiency-results/) (2025-09-23)
+- [Accelerate migration and modernization with agentic AI](https://azure.microsoft.com/en-us/blog/accelerate-migration-and-modernization-with-agentic-ai/) (2025-09-23)
 - [Inside the world’s most powerful AI datacenter](https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/) (2025-09-18)
 - [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms ](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms/) (2025-09-18)
 - [Agent Factory: Creating a blueprint for safe and secure AI agents](https://azure.microsoft.com/en-us/blog/agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents/) (2025-09-17)
-- [Azure Kubernetes Service Automatic: Fast and frictionless Kubernetes for all](https://azure.microsoft.com/en-us/blog/azure-kubernetes-service-automatic-fast-and-frictionless-kubernetes-for-all/) (2025-09-16)
-- [FabCon Vienna: Build data-rich agents on an enterprise-ready foundation](https://www.microsoft.com/en-us/microsoft-fabric/blog/2025/09/16/fabcon-vienna-build-data-rich-agents-on-an-enterprise-ready-foundation) (2025-09-16)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [‘Vietnam Puts AI at the Center of Its Economic Strategy,’ Deputy Director of the Vietnam National Innovation Center Says at NVIDIA AI Day Ho Chi Minh City](https://blogs.nvidia.com/blog/ai-day-ho-chi-minh-city/) (2025-09-25)
 - [Pilots Wanted: Stream ‘Mecha BREAK’ on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-mecha-break/) (2025-09-25)
 - [Open Secret: How NVIDIA Nemotron Models, Datasets and Techniques Fuel AI Development](https://blogs.nvidia.com/blog/nemotron-open-source-ai/) (2025-09-24)
 - [Canada Goes All In on AI: NVIDIA Joins Nations’ Technology Leaders in Montreal to Shape Sovereign AI Strategy](https://blogs.nvidia.com/blog/canada-all-in/) (2025-09-24)
 - [At Climate Week NYC, NVIDIA Details AI’s Key Role in the Sustainable Energy Transition](https://blogs.nvidia.com/blog/ai-energy-innovation-climate-research/) (2025-09-23)
-- [NVIDIA, OpenAI Announce ‘the Biggest AI Infrastructure Deployment in History’](https://blogs.nvidia.com/blog/openai-nvidia/) (2025-09-22)
 
 </details>
 
@@ -196,11 +198,11 @@
 <details>
 <summary>🟩 Node.js Blog</summary>
 
+- [Node.js v24.9.0 (Current)](https://nodejs.org/en/blog/release/v24.9.0) (2025-09-25)
 - [Node.js v22.20.0 (LTS)](https://nodejs.org/en/blog/release/v22.20.0) (2025-09-24)
 - [Node.js v24.8.0 (Current)](https://nodejs.org/en/blog/release/v24.8.0) (2025-09-10)
 - [Node.js v20.19.5 (LTS)](https://nodejs.org/en/blog/release/v20.19.5) (2025-09-03)
 - [Node.js v22.19.0 (LTS)](https://nodejs.org/en/blog/release/v22.19.0) (2025-08-28)
-- [Node.js v24.7.0 (Current)](https://nodejs.org/en/blog/release/v24.7.0) (2025-08-27)
 
 </details>
 
@@ -568,11 +570,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/conversational-em
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [TDS Newsletter: To Better Understand AI, Look Under the Hood](https://towardsdatascience.com/tds-newsletter-to-better-understand-ai-look-under-the-hood/) (2025-09-25)
 - [Notes on LLM Evaluation](https://towardsdatascience.com/notes-on-llm-evaluation/) (2025-09-25)
 - [Building a Video Game Recommender System with FastAPI, PostgreSQL, and Render: Part 2](https://towardsdatascience.com/building-a-video-game-recommender-system-with-fastapi-postgresql-and-render-part-2/) (2025-09-25)
 - [Building Video Game Recommender Systems with FastAPI, PostgreSQL, and Render: Part 1](https://towardsdatascience.com/building-video-game-recommender-systems-with-fastapi-postgresql-and-render-part-1/) (2025-09-25)
 - [Decoding Nonlinear Signals in Large Observational Datasets](https://towardsdatascience.com/decoding-nonlinear-signals-in-large-observational-datasets/) (2025-09-24)
-- [RAG Explained: Reranking for Better Answers](https://towardsdatascience.com/rag-explained-reranking-for-better-answers/) (2025-09-24)
 
 </details>
 
