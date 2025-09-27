@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [As people look for ways to make new friends, here are the apps promising to help](https://techcrunch.com/2025/09/26/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/) (2025-09-26)
-- [More executives depart Hyundai’s air taxi startup Supernal](https://techcrunch.com/2025/09/26/more-executives-depart-hyundais-air-taxi-startup-supernal/) (2025-09-26)
-- [Everyone’s still throwing billions at AI data centers](https://techcrunch.com/video/everyones-still-throwing-billions-at-ai-data-centers/) (2025-09-26)
-- [TruSources to show off its on-device identity-checking tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/26/trusources-to-show-off-its-on-device-identity-checking-tech-at-techcrunch-disrupt-2025/) (2025-09-26)
-- [Thousands of Indian bank transfer records found spilling online after security lapse](https://techcrunch.com/2025/09/26/thousands-of-indian-bank-transfer-records-found-online/) (2025-09-26)
+- [Vibe coding: Hype or new reality? Only at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/26/discover-how-developer-tools-are-shifting-fast-with-lauri-moore-and-david-cramer-at-techcrunch-disrupt-2025/) (2025-09-26)
+- [What’s behind the massive AI data center headlines?](https://techcrunch.com/2025/09/26/whats-behind-the-massive-ai-data-center-headlines/) (2025-09-26)
+- [Checkout.com’s new $12B valuation is a glass half-full situation  ](https://techcrunch.com/2025/09/26/checkout-coms-new-12b-valuation-is-a-glass-half-full-situation/) (2025-09-26)
+- [Electronic Arts will reportedly be acquired for $50B](https://techcrunch.com/2025/09/26/electronic-arts-will-reportedly-be-acquired-for-50b/) (2025-09-26)
+- [‘The Social Network’ sequel will focus on Haugen leaks, with Jeremy Strong as Mark Zuckerberg](https://techcrunch.com/2025/09/26/the-social-network-sequel-will-focus-on-haugen-leaks-with-jeremy-strong-as-mark-zuckerberg/) (2025-09-26)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [SimpleFold: Folding Proteins Is Simpler Than You Think](https://github.com/apple/ml-simplefold) (2025-09-26)
-- [Suno Studio, a Generative AI DAW](https://suno.com/studio-welcome) (2025-09-26)
-- [Informed poll](https://pigweed.dev/pw_async2/informed_poll.html) (2025-09-26)
-- [Modular Manifolds](https://thinkingmachines.ai/blog/modular-manifolds/) (2025-09-26)
-- [Gauntlet AI (YC S17) is looking for engineers who want to master AI](https://apply.gauntletai.com/) (2025-09-26)
+- [The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/) (2025-09-26)
+- [Show HN: Family Chess: Play across firewalls and Internet cultures](https://github.com/kelvinq/family-chess) (2025-09-26)
+- [Clean Hydrogen at a Crossroads: Why Methane Pyrolysis Deserves Attention](https://www.c2es.org/2025/09/clean-hydrogen-at-a-crossroads-why-methane-pyrolysis-deserves-attention/) (2025-09-26)
+- [New math revives geometry's oldest problems](https://www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-20250926/) (2025-09-26)
+- [Why do we remember some life moments but not others?](https://www.bu.edu/articles/2025/why-do-we-remember-some-moments-but-not-others/) (2025-09-26)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The Social Network sequel has a new title and release date](https://www.theverge.com/entertainment/786648/aaron-sorkin-the-social-reckoning) (2025-09-26)
-- [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os) (2025-09-26)
-- [Here are 50 great deals you can snag ahead of Amazon&#8217;s fall Prime Day event](https://www.theverge.com/tech/783008/amazon-october-prime-day-sale-best-early-deals-2025) (2025-09-26)
-- [Pentagon can call DJI a Chinese Military Company, court rules](https://www.theverge.com/news/786540/dji-loses-chinese-military-company-lawsuit-dod) (2025-09-26)
-- [Trump’s new H-1B policy caused short-term panic — and will cause long-term chaos](https://www.theverge.com/policy/786511/h-1b-skilled-worker-visa-policy-chaos) (2025-09-26)
+- [The Blink security camera app was down, but Amazon rolled out a fix](https://www.theverge.com/news/786900/amazon-blink-security-cameras-down-503-403-error) (2025-09-26)
+- [Trump’s new target: Microsoft head of global affairs Lisa Monaco](https://www.theverge.com/news/786885/trump-calls-for-firing-microsoft-lisa-monaco) (2025-09-26)
+- [Microsoft Photos will soon auto-categorize your pictures](https://www.theverge.com/news/786837/microsoft-photos-ai-auto-categorize-test) (2025-09-26)
+- [ABC affiliates end their boycott, putting Jimmy Kimmel back on the air nationwide](https://www.theverge.com/news/786792/jimmy-kimmel-live-sinclair-return-air) (2025-09-26)
+- [One of our favorite video doorbells is 47 percent off in the run-up to Prime Day](https://www.theverge.com/tech/786558/ring-battery-doorbell-plus-october-prime-day-deals-sale) (2025-09-26)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Trump says TikTok should be tweaked to become “100% MAGA”](https://arstechnica.com/tech-policy/2025/09/trump-says-tiktok-should-be-tweaked-to-become-100-maga/) (2025-09-26)
-- [Scientists want to treat complex bone fractures with a bone-healing gun](https://arstechnica.com/science/2025/09/scientists-want-to-treat-complex-bone-fractures-with-a-bone-healing-gun/) (2025-09-26)
-- [50+ scientific societies sign letter objecting to Trump executive order](https://arstechnica.com/science/2025/09/50-scientific-societies-sign-letter-objecting-to-trump-executive-order/) (2025-09-26)
-- [Asus’ new ROG Xbox Ally X set to break the bank at $999.99](https://arstechnica.com/gaming/2025/09/ready-for-a-1000-handheld-gaming-pc-asus-rog-xbox-ally-x-set-to-find-out/) (2025-09-26)
-- [Rocket Report: Keeping up with Kuiper; New Glenn’s second flight slips](https://arstechnica.com/space/2025/09/rocket-report-keeping-up-with-kuiper-new-glenns-second-flight-slips/) (2025-09-26)
+- [Can AI detect hedgehogs from space? Maybe if you find brambles first.](https://arstechnica.com/ai/2025/09/can-ai-detect-hedgehogs-from-space-maybe-if-you-find-brambles-first/) (2025-09-26)
+- [Woman hospitalized with pain and vomiting—diet soda cured her](https://arstechnica.com/health/2025/09/woman-hospitalized-with-pain-and-vomiting-a-diet-soda-cured-her/) (2025-09-26)
+- [LG’s $1,800 TV for seniors makes misguided assumptions](https://arstechnica.com/gadgets/2025/09/lgs-1800-tv-for-seniors-comes-with-an-upcharge-and-ai-button/) (2025-09-26)
+- [Reports: EA set to be sold to private investors for up to $50 billion](https://arstechnica.com/gaming/2025/09/reports-ea-set-to-be-sold-to-private-investors-for-up-to-50-billion/) (2025-09-26)
+- [YouTube Music is testing AI hosts that will interrupt your tunes](https://arstechnica.com/google/2025/09/youtube-music-is-testing-ai-hosts-that-will-interrupt-your-tunes/) (2025-09-26)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [US investigators are using AI to detect child abuse images made by AI](https://www.technologyreview.com/2025/09/26/1124343/us-investigators-are-using-ai-to-detect-child-abuse-images-made-by-ai/) (2025-09-26)
 - [The Download: shoplifter-chasing drones, and Trump’s TikTok deal](https://www.technologyreview.com/2025/09/26/1124253/the-download-shoplifter-chasing-drones-and-trumps-tiktok-deal/) (2025-09-26)
 - [Shoplifters could soon be chased down by drones](https://www.technologyreview.com/2025/09/25/1124088/shoplifters-could-soon-be-chased-down-by-drones/) (2025-09-25)
 - [The Download: growing threats to vulnerable languages, and fact-checking Trump’s medical claims](https://www.technologyreview.com/2025/09/25/1124079/the-download-threats-vulnerable-languages-and-trump-medical-claims/) (2025-09-25)
 - [Fusion power plants don’t exist yet, but they’re making money anyway](https://www.technologyreview.com/2025/09/25/1124050/fusion-future-funding/) (2025-09-25)
-- [How AI and Wikipedia have sent vulnerable languages into a doom spiral](https://www.technologyreview.com/2025/09/25/1124005/ai-wikipedia-vulnerable-languages-doom-spiral/) (2025-09-25)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-11gi) (2025-09-26)
-- [KEXP: Thee Marloes - Mungkin Saja (Live on KEXP)](https://dev.to/music_youtube/kexp-thee-marloes-mungkin-saja-live-on-kexp-emh) (2025-09-26)
-- [KEXP: Thee Marloes - Over (Live on KEXP)](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-3073) (2025-09-26)
-- [How to generate an APK and an AAB file on a .NET 8 MAUI app and publish on the Google Play Store](https://dev.to/injamulcse15/how-to-generate-an-apk-and-an-aab-file-on-a-net-8-maui-app-and-publish-on-the-google-play-store-1igl) (2025-09-26)
-- [KEXP: Nation of Language - In Another Life (Live on KEXP)](https://dev.to/music_youtube/kexp-nation-of-language-in-another-life-live-on-kexp-4j2c) (2025-09-26)
+- [Getting Started with AI Agent Development with LangChain & LangGraph: Build an Autonomous Starbucks Agent](https://dev.to/djibrilm/getting-started-with-ai-agent-development-with-langchain-langgraph-build-an-autonomous-starbucks-2ii2) (2025-09-27)
+- [Git is really cool, actually](https://dev.to/depot/git-is-really-cool-actually-3b59) (2025-09-27)
+- [#DAY 2: Deploying the Monitoring Dashboard - Uptime Kuma](https://dev.to/samueladeduntan/day-2-deploying-the-monitoring-dashboard-uptime-kuma-4996) (2025-09-27)
+- [Stop Getting Blocked: How a Simple Design Pattern Unlocks Your Project's Complex Logic](https://dev.to/trent_best_ca8617e4911baf/stop-getting-blocked-how-a-simple-design-pattern-unlocks-your-projects-complex-logic-1420) (2025-09-26)
+- [GNU Screen vs Tmux: The Ultimate Terminal Multiplexer Showdown" - A Hilarious Yet Comprehensive Guide](https://dev.to/davidcanhelp/gnu-screen-vs-tmux-the-ultimate-terminal-multiplexer-showdown-a-hilarious-yet-comprehensive-1kcd) (2025-09-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09055019190شماره خاله شهریار شماره خاله پاکدشت شماره خاله قدس](https://medium.com/@gshsudhdhjnbh/09055019190%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%87%D8%B1%DB%8C%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%BE%D8%A7%DA%A9%D8%AF%D8%B4%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D8%AF%D8%B3-a1513122e48f?source=rss------programming-5) (2025-09-26)
-- [09055019190شماره خاله شهریار شماره خاله پاکدشت شماره خاله قدس](https://medium.com/@gshsudhdhjnbh/09055019190%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%87%D8%B1%DB%8C%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%BE%D8%A7%DA%A9%D8%AF%D8%B4%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D8%AF%D8%B3-879307471591?source=rss------programming-5) (2025-09-26)
-- [09055019190شماره خاله شهریار شماره خاله پاکدشت شماره خاله قدس](https://medium.com/@gshsudhdhjnbh/09055019190%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%87%D8%B1%DB%8C%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%BE%D8%A7%DA%A9%D8%AF%D8%B4%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D8%AF%D8%B3-061ddf9e7708?source=rss------programming-5) (2025-09-26)
-- [09055019190شماره خاله بندرعباس شماره خاله اراک شماره خاله قم](https://medium.com/@mhtab1863/09055019190%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B1%D8%A7%DA%A9-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-aea90ee4fe4f?source=rss------programming-5) (2025-09-26)
-- [09055019190شماره خاله بندرعباس شماره خاله اراک شماره خاله قم](https://medium.com/@mhtab1863/09055019190%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B1%D8%A7%DA%A9-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-7f26a16dea61?source=rss------programming-5) (2025-09-26)
+- [The Hidden Power of JavaScript Proxies](https://javascript.plainenglish.io/the-hidden-power-of-javascript-proxies-6c1b1149e58b?source=rss------programming-5) (2025-09-27)
+- [Mastering JavaScript’s Event Loop](https://javascript.plainenglish.io/mastering-javascripts-event-loop-6a347ad7fecb?source=rss------programming-5) (2025-09-27)
+- [7 Python Shortcuts That Make Large Projects Manageable](https://medium.com/codrift/7-python-shortcuts-that-make-large-projects-manageable-a20e0196768b?source=rss------programming-5) (2025-09-27)
+- [Smarter Forms with Signals in Angular 20](https://javascript.plainenglish.io/smarter-forms-with-signals-in-angular-20-cd475305c96c?source=rss------programming-5) (2025-09-27)
+- [JavaScript Hustle Hacks: 7 Clever Tricks to Turn Code into Cash](https://javascript.plainenglish.io/javascript-hustle-hacks-7-clever-tricks-to-turn-code-into-cash-79c6a8b0c2bf?source=rss------programming-5) (2025-09-27)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.](https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/) (2025-09-25)
+- [Agent Factory: Designing the open agentic web stack](https://azure.microsoft.com/en-us/blog/agent-factory-designing-the-open-agentic-web-stack/) (2025-09-24)
 - [How Azure Cobalt 100 VMs are powering real-world solutions, delivering performance and efficiency results](https://azure.microsoft.com/en-us/blog/how-azure-cobalt-100-vms-are-powering-real-world-solutions-delivering-performance-and-efficiency-results/) (2025-09-23)
 - [Accelerate migration and modernization with agentic AI](https://azure.microsoft.com/en-us/blog/accelerate-migration-and-modernization-with-agentic-ai/) (2025-09-23)
 - [Inside the world’s most powerful AI datacenter](https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/) (2025-09-18)
-- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms ](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms/) (2025-09-18)
-- [Agent Factory: Creating a blueprint for safe and secure AI agents](https://azure.microsoft.com/en-us/blog/agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents/) (2025-09-17)
 
 </details>
 
@@ -370,6 +370,37 @@
 </details>
 
 <details>
+<summary>📞 Twilio Blog</summary>
+
+- [
+Behind the builder: Tanise Love, Senior Employee Impact Manager
+](
+https://www.twilio.com/en-us/blog/company/spotlights/behind-the-builder-tanise-love-twilio
+) (2025-09-24)
+- [
+Manage a List of Safe Phone Numbers in PHP with Twilio Verify's Safe List API
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/manage-list-of-safe-phone-numbers-php-with-twilio-verify-safe-list-api
+) (2025-09-23)
+- [
+Upstream Data Orchestration:  The Key to Real-Time, 1:1 Personalization
+](
+https://www.twilio.com/en-us/blog/insights/upstream-data-orchestration---the-key-to-real-time--1-1-personal
+) (2025-09-23)
+- [
+Self-service in the age of AI: Virtual agents that actually resolve
+](
+https://www.twilio.com/en-us/blog/insights/ai/self-service-ai-virtual-agents
+) (2025-09-22)
+- [
+Breaking the Monolith: How We Used the Strangler Fig Pattern to Transform Segment’s Notification Architecture
+](
+https://www.twilio.com/en-us/blog/developers/transform-segment-notification-architecture-orchestration
+) (2025-09-22)
+
+</details>
+
+<details>
 <summary>🔐 Auth0 Blog</summary>
 
 - [Announcing Auth0 for AI Agents: Powering the Future of AI, Securely](https://auth0.com/blog/announcing-auth0-for-ai-agents-powering-the-future-of-ai-securely/) (2025-09-25)
@@ -482,11 +513,11 @@
 <details>
 <summary>💬 Slack API</summary>
 
+- [How to Build Work Habits: 25 Expert-Backed Tips](https://slack.com/blog/productivity/build-productive-work-habits) (2025-09-22)
 - [How to Create a Mind Map: Examples, Benefits, and Uses](https://slack.com/blog/collaboration/how-to-create-a-mind-map-examples-benefits-and-uses) (2025-09-19)
 - [Capacity Planning 101: Balance Workloads and Boost Team Productivity](https://slack.com/blog/productivity/capacity-planning-101-balance-workloads-and-boost-team-productivity) (2025-09-19)
 - [Standard Operating Procedure Templates: What They Are and How to Use Them Effectively](https://slack.com/blog/productivity/standard-operating-procedure-templates-why-theyre-important-and-how-to-create-one) (2025-09-12)
 - [Streamline Note-Taking with Board Meeting Minutes Templates](https://slack.com/blog/productivity/better-board-meeting-minutes) (2025-09-12)
-- [A Research-Backed Sales Playbook for Connecting Slack and Salesforce](https://slack.com/blog/productivity/connecting-slack-salesforce-sales-playbook) (2025-09-11)
 
 </details>
 
@@ -537,11 +568,11 @@
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Building Fact-Checking Systems: Catching Repeating False Claims Before They Spread](https://towardsdatascience.com/building-fact-checking-systems-catching-repeating-false-claims-before-they-spread/) (2025-09-26)
 - [Why MissForest Fails in Prediction Tasks: A Key Limitation You Need to Keep in Mind](https://towardsdatascience.com/why-missforest-fails-in-prediction-tasks-a-key-limitation-you-need-to-know/) (2025-09-26)
 - [Using Vision Language Models to Process Millions of Documents](https://towardsdatascience.com/using-vision-language-models-to-process-millions-of-documents/) (2025-09-26)
 - [TDS Newsletter: To Better Understand AI, Look Under the Hood](https://towardsdatascience.com/tds-newsletter-to-better-understand-ai-look-under-the-hood/) (2025-09-25)
 - [Notes on LLM Evaluation](https://towardsdatascience.com/notes-on-llm-evaluation/) (2025-09-25)
-- [Building a Video Game Recommender System with FastAPI, PostgreSQL, and Render: Part 2](https://towardsdatascience.com/building-a-video-game-recommender-system-with-fastapi-postgresql-and-render-part-2/) (2025-09-25)
 
 </details>
 
