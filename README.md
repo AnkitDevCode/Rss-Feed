@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [AI startup Friend spent more than $1M on all those subway ads](https://techcrunch.com/2025/09/27/ai-startup-friend-spent-more-than-1m-on-all-those-subway-ads/) (2025-09-27)
+- [Trump demands Microsoft fire global affairs head Lisa Monaco](https://techcrunch.com/2025/09/27/trump-demands-microsoft-fire-global-affairs-head-lisa-monaco/) (2025-09-27)
+- [How South Korea plans to best OpenAI, Google, others with homegrown AI ](https://techcrunch.com/2025/09/27/how-south-korea-plans-to-best-openai-google-others-with-homegrown-ai/) (2025-09-27)
 - [Famed roboticist says humanoid robot bubble is doomed to burst](https://techcrunch.com/2025/09/26/famed-roboticist-says-humanoid-robot-bubble-is-doomed-to-burst/) (2025-09-27)
 - [Vibe coding: Hype or new reality? Only at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/26/discover-how-developer-tools-are-shifting-fast-with-lauri-moore-and-david-cramer-at-techcrunch-disrupt-2025/) (2025-09-26)
-- [What’s behind the massive AI data center headlines?](https://techcrunch.com/2025/09/26/whats-behind-the-massive-ai-data-center-headlines/) (2025-09-26)
-- [Checkout.com’s new $12B valuation is a glass half-full situation  ](https://techcrunch.com/2025/09/26/checkout-coms-new-12b-valuation-is-a-glass-half-full-situation/) (2025-09-26)
-- [Electronic Arts will reportedly be acquired for $50B](https://techcrunch.com/2025/09/26/electronic-arts-will-reportedly-be-acquired-for-50b/) (2025-09-26)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Trellis (YC W24) Is Hiring: Automate Healthcare Paperwork](https://www.ycombinator.com/companies/trellis/jobs/C0VryYb-forward-deployed-engineers-intern-august-2025) (2025-09-27)
-- [Cracker Barrel Outrage Was Almost Certainly Driven by Bots, Researchers Say](https://gizmodo.com/cracker-barrel-outrage-was-almost-certainly-driven-by-bots-researchers-say-2000664221) (2025-09-27)
-- [Typst: A Possible LaTeX Replacement](https://lwn.net/Articles/1037577/) (2025-09-27)
-- [Property-Based Testing of OCaml 5's Runtime System [pdf]](https://janmidtgaard.dk/papers/Midtgaard%3AOLIVIERFEST25.pdf) (2025-09-27)
-- [Lifetime of social ties adds up to healthy aging at molecular level](https://news.cornell.edu/stories/2025/09/lifetime-social-ties-adds-healthy-aging) (2025-09-27)
+- [I made a public living room and the internet keeps putting weirder stuff in it](https://www.theroom.lol) (2025-09-27)
+- [Americans Are Using PTO to Sleep, Not for Vacation–Report](https://www.newsweek.com/americans-are-using-pto-to-sleep-not-for-vacation-report-10783162) (2025-09-27)
+- [Great Question (YC W21) Is Hiring Director of Product](https://www.ycombinator.com/companies/great-question/jobs/9crdslU-director-of-product) (2025-09-27)
+- [Greenland Is a Beautiful Nightmare](https://matduggan.com/greenland-is-a-beautiful-nightmare/) (2025-09-27)
+- [Norway to Monitor Airborne Radioactivity in Svalbard](https://www.highnorthnews.com/en/norway-monitor-airborne-radioactivity-svalbard) (2025-09-27)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Switch 2 controllers and the OnePlus Watch 3 top our list of the best deals this week](https://www.theverge.com/tech/786564/nintendo-switch-2-easysmx-controller-oneplus-watch-3-deal-sale) (2025-09-27)
+- [The strangest game of the year is a channel-surfing simulator](https://www.theverge.com/games/785848/blippo-plus-review-switch-steam) (2025-09-27)
+- [Can Google be trusted without a break up?](https://www.theverge.com/policy/786930/google-doj-ad-tech-remedies-break-up-trust) (2025-09-27)
 - [When this EV maker collapsed, its customers became the car company](https://www.theverge.com/transportation/785872/fisker-ocean-ownership-association-software-recall) (2025-09-27)
 - [What to expect from Amazon’s big fall hardware event on Tuesday](https://www.theverge.com/news/786455/amazon-fall-hardware-event-2025-what-to-expect-alexa-echo-kindle) (2025-09-27)
-- [Raleigh One e-bike review: redemption tour](https://www.theverge.com/reviews/786538/raleigh-one-e-bike-review-vanmoof-carlier-ties-taco) (2025-09-27)
-- [The Blink security camera app was down, but Amazon rolled out a fix](https://www.theverge.com/news/786900/amazon-blink-security-cameras-down-503-403-error) (2025-09-26)
-- [Trump’s new target: Microsoft head of global affairs Lisa Monaco](https://www.theverge.com/news/786885/trump-calls-for-firing-microsoft-lisa-monaco) (2025-09-26)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [HeMA-MISO: Heterogeneous Memory Architecture for LLM Inference with SW Optimization](https://dev.to/peterysh/hema-miso-heterogeneous-memory-architecture-for-llm-inference-with-sw-optimization-3d1) (2025-09-27)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-3gek) (2025-09-27)
-- [KEXP: Thee Marloes - Over (Live on KEXP)](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-1fll) (2025-09-27)
-- [KEXP: Nation of Language - I'm Not Ready For The Change (Live on KEXP)](https://dev.to/music_youtube/kexp-nation-of-language-im-not-ready-for-the-change-live-on-kexp-553a) (2025-09-27)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-101m) (2025-09-27)
+- [Adam Savage's Tested: Advice on Weathering Today's Uncertain, Hostile Times](https://dev.to/maker_youtube/adam-savages-tested-advice-on-weathering-todays-uncertain-hostile-times-4kfj) (2025-09-27)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-5hkd) (2025-09-27)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-3gmc) (2025-09-27)
+- [KEXP: Thee Marloes - Over (Live on KEXP)](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-n51) (2025-09-27)
+- [Why I Prefer to Work Alone on My Personal Projects](https://dev.to/marcantondahmen/why-i-prefer-to-work-alone-on-my-personal-projects-46md) (2025-09-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Java Systems I Built That Taught Me More Than Any Course Ever Could](https://medium.com/@michaelpreston515/the-java-systems-i-built-that-taught-me-more-than-any-course-ever-could-711f6025e065?source=rss------programming-5) (2025-09-27)
-- [✨ Celebrating the Queen of Grace – Tamannaah Bhatia ✨](https://medium.com/@ankitdamodar89/celebrating-the-queen-of-grace-tamannaah-bhatia-2e9b6010daf1?source=rss------programming-5) (2025-09-27)
-- [HonoJS: The Next-Gen NodeJS Back-end Framework built with Web standards.](https://medium.com/@TheAkshayKhale/honojs-the-next-gen-nodejs-back-end-framework-built-with-web-standards-f8ba55a7f94c?source=rss------programming-5) (2025-09-27)
-- [3 Go Reflection Patterns That Will Blow Your Mind (And When to Avoid Them)](https://codexplorer.medium.com/3-go-reflection-patterns-that-will-blow-your-mind-and-when-to-avoid-them-3555970d843c?source=rss------programming-5) (2025-09-27)
-- [My 5-Minute Workflow to Find Bugs on Any Website](https://infosecwriteups.com/my-5-minute-workflow-to-find-bugs-on-any-website-c20075320c96?source=rss------programming-5) (2025-09-27)
+- [Stop Answering iOS App Life Cycles Like This — Here’s the Smarter Way!](https://blog.stackademic.com/stop-answering-ios-app-life-cycles-like-this-heres-the-smarter-way-9f2a28953508?source=rss------programming-5) (2025-09-27)
+- [6 Python Libraries I Never Knew Existed — Until They Solved My Hardest Problems](https://medium.com/@mariaali056/6-python-libraries-i-never-knew-existed-until-they-solved-my-hardest-problems-fe955ffbeb1e?source=rss------programming-5) (2025-09-27)
+- [Hbdjdvn](https://medium.com/@mhlarstmy037/hbdjdvn-3b5bcb16ccde?source=rss------programming-5) (2025-09-27)
+- [A Developer’s Crash Course in Cryptography, Part 5: Building Blocks of Modern Cryptography](https://medium.com/@steinwendner.matthias/a-developers-crash-course-in-cryptography-part-5-building-blocks-of-modern-cryptography-919a50cdbfa9?source=rss------programming-5) (2025-09-27)
+- [My Coding Journey](https://medium.com/@bestlittleclare/my-coding-journey-b1b2feb62505?source=rss------programming-5) (2025-09-27)
 
 </details>
 
@@ -513,11 +513,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/manage-list-of-safe-phone
 <details>
 <summary>💬 Slack API</summary>
 
-- [How to Build Work Habits: 25 Expert-Backed Tips](https://slack.com/blog/productivity/build-productive-work-habits) (2025-09-22)
-- [How to Create a Mind Map: Examples, Benefits, and Uses](https://slack.com/blog/collaboration/how-to-create-a-mind-map-examples-benefits-and-uses) (2025-09-19)
-- [Capacity Planning 101: Balance Workloads and Boost Team Productivity](https://slack.com/blog/productivity/capacity-planning-101-balance-workloads-and-boost-team-productivity) (2025-09-19)
-- [Standard Operating Procedure Templates: What They Are and How to Use Them Effectively](https://slack.com/blog/productivity/standard-operating-procedure-templates-why-theyre-important-and-how-to-create-one) (2025-09-12)
-- [Streamline Note-Taking with Board Meeting Minutes Templates](https://slack.com/blog/productivity/better-board-meeting-minutes) (2025-09-12)
+- [RACI Model Explained: Definition, Benefits, and How to Use It](https://slack.com/blog/productivity/raci-model-explained-definition-benefits-and-how-to-use-it) (2025-09-26)
+- [Enterprise Data Security: A Guide to Protecting Your Organization](https://slack.com/blog/transformation/enterprise-data-security-a-guide-to-protecting-your-organization) (2025-09-26)
+- [Why Every Modern Team Needs a Work OS](https://slack.com/blog/productivity/why-every-modern-team-needs-a-work-os) (2025-09-26)
+- [How to Choose the Right Communication Model for Every Team](https://slack.com/blog/collaboration/communication-model) (2025-09-24)
+- [Best Methods for Prioritizing Tasks and Projects at Work](https://slack.com/blog/productivity/best-methods-for-prioritizing-tasks-and-projects-at-work) (2025-09-24)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/manage-list-of-safe-phone
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Learning Triton One Kernel At a Time: Vector Addition](https://towardsdatascience.com/learning-triton-one-kernel-at-a-time-vector-addition/) (2025-09-27)
+- [What Clients Really Ask for in AI Projects](https://towardsdatascience.com/what-clients-really-ask-for-in-ai-projects/) (2025-09-27)
 - [Building Fact-Checking Systems: Catching Repeating False Claims Before They Spread](https://towardsdatascience.com/building-fact-checking-systems-catching-repeating-false-claims-before-they-spread/) (2025-09-26)
 - [Why MissForest Fails in Prediction Tasks: A Key Limitation You Need to Keep in Mind](https://towardsdatascience.com/why-missforest-fails-in-prediction-tasks-a-key-limitation-you-need-to-know/) (2025-09-26)
 - [Using Vision Language Models to Process Millions of Documents](https://towardsdatascience.com/using-vision-language-models-to-process-millions-of-documents/) (2025-09-26)
-- [TDS Newsletter: To Better Understand AI, Look Under the Hood](https://towardsdatascience.com/tds-newsletter-to-better-understand-ai-look-under-the-hood/) (2025-09-25)
-- [Notes on LLM Evaluation](https://towardsdatascience.com/notes-on-llm-evaluation/) (2025-09-25)
 
 </details>
 
