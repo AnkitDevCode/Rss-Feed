@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Why Today's Humanoids Won't Learn Dexterity](https://rodneybrooks.com/why-todays-humanoids-wont-learn-dexterity/) (2025-09-27)
+- [GPT-OSS Reinforcement Learning](https://docs.unsloth.ai/new/gpt-oss-reinforcement-learning) (2025-09-27)
 - [The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/) (2025-09-26)
 - [Show HN: Family Chess: Play across firewalls and Internet cultures](https://github.com/kelvinq/family-chess) (2025-09-26)
 - [Clean Hydrogen at a Crossroads: Why Methane Pyrolysis Deserves Attention](https://www.c2es.org/2025/09/clean-hydrogen-at-a-crossroads-why-methane-pyrolysis-deserves-attention/) (2025-09-26)
-- [New math revives geometry's oldest problems](https://www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-20250926/) (2025-09-26)
-- [Why do we remember some life moments but not others?](https://www.bu.edu/articles/2025/why-do-we-remember-some-moments-but-not-others/) (2025-09-26)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Getting Started with AI Agent Development with LangChain & LangGraph: Build an Autonomous Starbucks Agent](https://dev.to/djibrilm/getting-started-with-ai-agent-development-with-langchain-langgraph-build-an-autonomous-starbucks-2ii2) (2025-09-27)
-- [Git is really cool, actually](https://dev.to/depot/git-is-really-cool-actually-3b59) (2025-09-27)
-- [#DAY 2: Deploying the Monitoring Dashboard - Uptime Kuma](https://dev.to/samueladeduntan/day-2-deploying-the-monitoring-dashboard-uptime-kuma-4996) (2025-09-27)
-- [Stop Getting Blocked: How a Simple Design Pattern Unlocks Your Project's Complex Logic](https://dev.to/trent_best_ca8617e4911baf/stop-getting-blocked-how-a-simple-design-pattern-unlocks-your-projects-complex-logic-1420) (2025-09-26)
-- [GNU Screen vs Tmux: The Ultimate Terminal Multiplexer Showdown" - A Hilarious Yet Comprehensive Guide](https://dev.to/davidcanhelp/gnu-screen-vs-tmux-the-ultimate-terminal-multiplexer-showdown-a-hilarious-yet-comprehensive-1kcd) (2025-09-26)
+- [Part-87: 🚀 Kubernetes Deployments with Imperative Commands in GCP (Google Kubernetes Engine)](https://dev.to/latchudevops/part-87-kubernetes-deployments-with-imperative-commands-in-gcp-google-kubernetes-engine-1l46) (2025-09-27)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-178c) (2025-09-27)
+- [KEXP: Thee Marloes - Over (Live on KEXP)](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-50jm) (2025-09-27)
+- [KEXP: Nation of Language - I'm Not Ready For The Change (Live on KEXP)](https://dev.to/music_youtube/kexp-nation-of-language-im-not-ready-for-the-change-live-on-kexp-36k5) (2025-09-27)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-529i) (2025-09-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Hidden Power of JavaScript Proxies](https://javascript.plainenglish.io/the-hidden-power-of-javascript-proxies-6c1b1149e58b?source=rss------programming-5) (2025-09-27)
-- [Mastering JavaScript’s Event Loop](https://javascript.plainenglish.io/mastering-javascripts-event-loop-6a347ad7fecb?source=rss------programming-5) (2025-09-27)
-- [7 Python Shortcuts That Make Large Projects Manageable](https://medium.com/codrift/7-python-shortcuts-that-make-large-projects-manageable-a20e0196768b?source=rss------programming-5) (2025-09-27)
-- [Smarter Forms with Signals in Angular 20](https://javascript.plainenglish.io/smarter-forms-with-signals-in-angular-20-cd475305c96c?source=rss------programming-5) (2025-09-27)
-- [JavaScript Hustle Hacks: 7 Clever Tricks to Turn Code into Cash](https://javascript.plainenglish.io/javascript-hustle-hacks-7-clever-tricks-to-turn-code-into-cash-79c6a8b0c2bf?source=rss------programming-5) (2025-09-27)
+- [7 Python Hacking Tricks So Good, They Feel Almost Illegal](https://python.plainenglish.io/7-python-hacking-tricks-so-good-they-feel-almost-illegal-1cd873f103f0?source=rss------programming-5) (2025-09-27)
+- [7 Data Science Tools That Quietly Changed the Way I Work](https://blog.stackademic.com/7-data-science-tools-that-quietly-changed-the-way-i-work-6a694203c3dd?source=rss------programming-5) (2025-09-27)
+- [I Built an Entire App Using Only “Unknown” Python Libraries — Here’s What Happened](https://medium.com/codrift/i-built-an-entire-app-using-only-unknown-python-libraries-heres-what-happened-3894e3729f84?source=rss------programming-5) (2025-09-27)
+- [The 10 Python GUI Tools That Don’t Feel Like They’re From 2005](https://medium.com/codrift/the-10-python-gui-tools-that-dont-feel-like-they-re-from-2005-ad6cc30e982f?source=rss------programming-5) (2025-09-27)
+- [The Python Script I Built That Accidentally Paid My Rent](https://blog.stackademic.com/the-python-script-i-built-that-accidentally-paid-my-rent-75a758d11f32?source=rss------programming-5) (2025-09-27)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.](https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/) (2025-09-25)
-- [Agent Factory: Designing the open agentic web stack](https://azure.microsoft.com/en-us/blog/agent-factory-designing-the-open-agentic-web-stack/) (2025-09-24)
 - [How Azure Cobalt 100 VMs are powering real-world solutions, delivering performance and efficiency results](https://azure.microsoft.com/en-us/blog/how-azure-cobalt-100-vms-are-powering-real-world-solutions-delivering-performance-and-efficiency-results/) (2025-09-23)
 - [Accelerate migration and modernization with agentic AI](https://azure.microsoft.com/en-us/blog/accelerate-migration-and-modernization-with-agentic-ai/) (2025-09-23)
 - [Inside the world’s most powerful AI datacenter](https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/) (2025-09-18)
+- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms ](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms/) (2025-09-18)
+- [Agent Factory: Creating a blueprint for safe and secure AI agents](https://azure.microsoft.com/en-us/blog/agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents/) (2025-09-17)
 
 </details>
 
@@ -513,11 +513,11 @@ https://www.twilio.com/en-us/blog/developers/transform-segment-notification-arch
 <details>
 <summary>💬 Slack API</summary>
 
-- [How to Build Work Habits: 25 Expert-Backed Tips](https://slack.com/blog/productivity/build-productive-work-habits) (2025-09-22)
-- [How to Create a Mind Map: Examples, Benefits, and Uses](https://slack.com/blog/collaboration/how-to-create-a-mind-map-examples-benefits-and-uses) (2025-09-19)
-- [Capacity Planning 101: Balance Workloads and Boost Team Productivity](https://slack.com/blog/productivity/capacity-planning-101-balance-workloads-and-boost-team-productivity) (2025-09-19)
-- [Standard Operating Procedure Templates: What They Are and How to Use Them Effectively](https://slack.com/blog/productivity/standard-operating-procedure-templates-why-theyre-important-and-how-to-create-one) (2025-09-12)
-- [Streamline Note-Taking with Board Meeting Minutes Templates](https://slack.com/blog/productivity/better-board-meeting-minutes) (2025-09-12)
+- [How to Choose the Right Communication Model for Every Team](https://slack.com/blog/collaboration/communication-model) (2025-09-24)
+- [Best Methods for Prioritizing Tasks and Projects at Work](https://slack.com/blog/productivity/best-methods-for-prioritizing-tasks-and-projects-at-work) (2025-09-24)
+- [Meet Channel Expert: Your Always-On Agent in Slack](https://slack.com/blog/news/channel-expert) (2025-09-24)
+- [The AI Workforce: What It Is and How It Can Help Your Team](https://slack.com/blog/productivity/ai-workforce-what-it-is-and-how-it-can-help-your-team) (2025-09-23)
+- [What Is Virtual Work, and How Can It Benefit You?](https://slack.com/blog/collaboration/what-is-virtual-work-and-how-can-it-benefit-you) (2025-09-23)
 
 </details>
 
