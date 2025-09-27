@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Famed roboticist says humanoid robot bubble is doomed to burst](https://techcrunch.com/2025/09/26/famed-roboticist-says-humanoid-robot-bubble-is-doomed-to-burst/) (2025-09-27)
 - [Vibe coding: Hype or new reality? Only at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/26/discover-how-developer-tools-are-shifting-fast-with-lauri-moore-and-david-cramer-at-techcrunch-disrupt-2025/) (2025-09-26)
 - [What’s behind the massive AI data center headlines?](https://techcrunch.com/2025/09/26/whats-behind-the-massive-ai-data-center-headlines/) (2025-09-26)
 - [Checkout.com’s new $12B valuation is a glass half-full situation  ](https://techcrunch.com/2025/09/26/checkout-coms-new-12b-valuation-is-a-glass-half-full-situation/) (2025-09-26)
 - [Electronic Arts will reportedly be acquired for $50B](https://techcrunch.com/2025/09/26/electronic-arts-will-reportedly-be-acquired-for-50b/) (2025-09-26)
-- [‘The Social Network’ sequel will focus on Haugen leaks, with Jeremy Strong as Mark Zuckerberg](https://techcrunch.com/2025/09/26/the-social-network-sequel-will-focus-on-haugen-leaks-with-jeremy-strong-as-mark-zuckerberg/) (2025-09-26)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Why Today's Humanoids Won't Learn Dexterity](https://rodneybrooks.com/why-todays-humanoids-wont-learn-dexterity/) (2025-09-27)
-- [GPT-OSS Reinforcement Learning](https://docs.unsloth.ai/new/gpt-oss-reinforcement-learning) (2025-09-27)
-- [The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/) (2025-09-26)
-- [Show HN: Family Chess: Play across firewalls and Internet cultures](https://github.com/kelvinq/family-chess) (2025-09-26)
-- [Clean Hydrogen at a Crossroads: Why Methane Pyrolysis Deserves Attention](https://www.c2es.org/2025/09/clean-hydrogen-at-a-crossroads-why-methane-pyrolysis-deserves-attention/) (2025-09-26)
+- [Trellis (YC W24) Is Hiring: Automate Healthcare Paperwork](https://www.ycombinator.com/companies/trellis/jobs/C0VryYb-forward-deployed-engineers-intern-august-2025) (2025-09-27)
+- [Cracker Barrel Outrage Was Almost Certainly Driven by Bots, Researchers Say](https://gizmodo.com/cracker-barrel-outrage-was-almost-certainly-driven-by-bots-researchers-say-2000664221) (2025-09-27)
+- [Typst: A Possible LaTeX Replacement](https://lwn.net/Articles/1037577/) (2025-09-27)
+- [Property-Based Testing of OCaml 5's Runtime System [pdf]](https://janmidtgaard.dk/papers/Midtgaard%3AOLIVIERFEST25.pdf) (2025-09-27)
+- [Lifetime of social ties adds up to healthy aging at molecular level](https://news.cornell.edu/stories/2025/09/lifetime-social-ties-adds-healthy-aging) (2025-09-27)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [When this EV maker collapsed, its customers became the car company](https://www.theverge.com/transportation/785872/fisker-ocean-ownership-association-software-recall) (2025-09-27)
+- [What to expect from Amazon’s big fall hardware event on Tuesday](https://www.theverge.com/news/786455/amazon-fall-hardware-event-2025-what-to-expect-alexa-echo-kindle) (2025-09-27)
+- [Raleigh One e-bike review: redemption tour](https://www.theverge.com/reviews/786538/raleigh-one-e-bike-review-vanmoof-carlier-ties-taco) (2025-09-27)
 - [The Blink security camera app was down, but Amazon rolled out a fix](https://www.theverge.com/news/786900/amazon-blink-security-cameras-down-503-403-error) (2025-09-26)
 - [Trump’s new target: Microsoft head of global affairs Lisa Monaco](https://www.theverge.com/news/786885/trump-calls-for-firing-microsoft-lisa-monaco) (2025-09-26)
-- [Microsoft Photos will soon auto-categorize your pictures](https://www.theverge.com/news/786837/microsoft-photos-ai-auto-categorize-test) (2025-09-26)
-- [ABC affiliates end their boycott, putting Jimmy Kimmel back on the air nationwide](https://www.theverge.com/news/786792/jimmy-kimmel-live-sinclair-return-air) (2025-09-26)
-- [One of our favorite video doorbells is 47 percent off in the run-up to Prime Day](https://www.theverge.com/tech/786558/ring-battery-doorbell-plus-october-prime-day-deals-sale) (2025-09-26)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [The current war on science, and who’s behind it](https://arstechnica.com/science/2025/09/who-should-we-blame-for-the-current-war-on-science/) (2025-09-27)
+- [Why LA Comic Con thought making an AI-powered Stan Lee hologram was a good idea](https://arstechnica.com/ai/2025/09/why-la-comic-con-thought-making-an-ai-powered-stan-lee-hologram-was-a-good-idea/) (2025-09-27)
 - [Can AI detect hedgehogs from space? Maybe if you find brambles first.](https://arstechnica.com/ai/2025/09/can-ai-detect-hedgehogs-from-space-maybe-if-you-find-brambles-first/) (2025-09-26)
 - [Woman hospitalized with pain and vomiting—diet soda cured her](https://arstechnica.com/health/2025/09/woman-hospitalized-with-pain-and-vomiting-a-diet-soda-cured-her/) (2025-09-26)
 - [LG’s $1,800 TV for seniors makes misguided assumptions](https://arstechnica.com/gadgets/2025/09/lgs-1800-tv-for-seniors-comes-with-an-upcharge-and-ai-button/) (2025-09-26)
-- [Reports: EA set to be sold to private investors for up to $50 billion](https://arstechnica.com/gaming/2025/09/reports-ea-set-to-be-sold-to-private-investors-for-up-to-50-billion/) (2025-09-26)
-- [YouTube Music is testing AI hosts that will interrupt your tunes](https://arstechnica.com/google/2025/09/youtube-music-is-testing-ai-hosts-that-will-interrupt-your-tunes/) (2025-09-26)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Part-87: 🚀 Kubernetes Deployments with Imperative Commands in GCP (Google Kubernetes Engine)](https://dev.to/latchudevops/part-87-kubernetes-deployments-with-imperative-commands-in-gcp-google-kubernetes-engine-1l46) (2025-09-27)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-178c) (2025-09-27)
-- [KEXP: Thee Marloes - Over (Live on KEXP)](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-50jm) (2025-09-27)
-- [KEXP: Nation of Language - I'm Not Ready For The Change (Live on KEXP)](https://dev.to/music_youtube/kexp-nation-of-language-im-not-ready-for-the-change-live-on-kexp-36k5) (2025-09-27)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-529i) (2025-09-27)
+- [HeMA-MISO: Heterogeneous Memory Architecture for LLM Inference with SW Optimization](https://dev.to/peterysh/hema-miso-heterogeneous-memory-architecture-for-llm-inference-with-sw-optimization-3d1) (2025-09-27)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-3gek) (2025-09-27)
+- [KEXP: Thee Marloes - Over (Live on KEXP)](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-1fll) (2025-09-27)
+- [KEXP: Nation of Language - I'm Not Ready For The Change (Live on KEXP)](https://dev.to/music_youtube/kexp-nation-of-language-im-not-ready-for-the-change-live-on-kexp-553a) (2025-09-27)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-101m) (2025-09-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [7 Python Hacking Tricks So Good, They Feel Almost Illegal](https://python.plainenglish.io/7-python-hacking-tricks-so-good-they-feel-almost-illegal-1cd873f103f0?source=rss------programming-5) (2025-09-27)
-- [7 Data Science Tools That Quietly Changed the Way I Work](https://blog.stackademic.com/7-data-science-tools-that-quietly-changed-the-way-i-work-6a694203c3dd?source=rss------programming-5) (2025-09-27)
-- [I Built an Entire App Using Only “Unknown” Python Libraries — Here’s What Happened](https://medium.com/codrift/i-built-an-entire-app-using-only-unknown-python-libraries-heres-what-happened-3894e3729f84?source=rss------programming-5) (2025-09-27)
-- [The 10 Python GUI Tools That Don’t Feel Like They’re From 2005](https://medium.com/codrift/the-10-python-gui-tools-that-dont-feel-like-they-re-from-2005-ad6cc30e982f?source=rss------programming-5) (2025-09-27)
-- [The Python Script I Built That Accidentally Paid My Rent](https://blog.stackademic.com/the-python-script-i-built-that-accidentally-paid-my-rent-75a758d11f32?source=rss------programming-5) (2025-09-27)
+- [The Java Systems I Built That Taught Me More Than Any Course Ever Could](https://medium.com/@michaelpreston515/the-java-systems-i-built-that-taught-me-more-than-any-course-ever-could-711f6025e065?source=rss------programming-5) (2025-09-27)
+- [✨ Celebrating the Queen of Grace – Tamannaah Bhatia ✨](https://medium.com/@ankitdamodar89/celebrating-the-queen-of-grace-tamannaah-bhatia-2e9b6010daf1?source=rss------programming-5) (2025-09-27)
+- [HonoJS: The Next-Gen NodeJS Back-end Framework built with Web standards.](https://medium.com/@TheAkshayKhale/honojs-the-next-gen-nodejs-back-end-framework-built-with-web-standards-f8ba55a7f94c?source=rss------programming-5) (2025-09-27)
+- [3 Go Reflection Patterns That Will Blow Your Mind (And When to Avoid Them)](https://codexplorer.medium.com/3-go-reflection-patterns-that-will-blow-your-mind-and-when-to-avoid-them-3555970d843c?source=rss------programming-5) (2025-09-27)
+- [My 5-Minute Workflow to Find Bugs on Any Website](https://infosecwriteups.com/my-5-minute-workflow-to-find-bugs-on-any-website-c20075320c96?source=rss------programming-5) (2025-09-27)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.](https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/) (2025-09-25)
+- [Agent Factory: Designing the open agentic web stack](https://azure.microsoft.com/en-us/blog/agent-factory-designing-the-open-agentic-web-stack/) (2025-09-24)
 - [How Azure Cobalt 100 VMs are powering real-world solutions, delivering performance and efficiency results](https://azure.microsoft.com/en-us/blog/how-azure-cobalt-100-vms-are-powering-real-world-solutions-delivering-performance-and-efficiency-results/) (2025-09-23)
 - [Accelerate migration and modernization with agentic AI](https://azure.microsoft.com/en-us/blog/accelerate-migration-and-modernization-with-agentic-ai/) (2025-09-23)
 - [Inside the world’s most powerful AI datacenter](https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/) (2025-09-18)
-- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms ](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms/) (2025-09-18)
-- [Agent Factory: Creating a blueprint for safe and secure AI agents](https://azure.microsoft.com/en-us/blog/agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents/) (2025-09-17)
 
 </details>
 
@@ -373,6 +373,21 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Building an OmniChannel Experience: Context Aware Interactions using Salesforce Integration
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/building-an-omnichannel-experience--context-aware-interactions-u
+) (2025-09-26)
+- [
+Announcing Twilio Docs Support for llms.txt and Markdown
+](
+https://www.twilio.com/en-us/blog/developers/docs-llms-txt-markdown-support
+) (2025-09-26)
+- [
+Twilio named to the IDC FinTech Rankings 2025 Enterprise Top 50
+](
+https://www.twilio.com/en-us/blog/insights/twilio-named-IDC-FinTech-Rankings-2025-Enterprise-Top-50
+) (2025-09-26)
+- [
 Behind the builder: Tanise Love, Senior Employee Impact Manager
 ](
 https://www.twilio.com/en-us/blog/company/spotlights/behind-the-builder-tanise-love-twilio
@@ -382,21 +397,6 @@ Manage a List of Safe Phone Numbers in PHP with Twilio Verify's Safe List API
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/manage-list-of-safe-phone-numbers-php-with-twilio-verify-safe-list-api
 ) (2025-09-23)
-- [
-Upstream Data Orchestration:  The Key to Real-Time, 1:1 Personalization
-](
-https://www.twilio.com/en-us/blog/insights/upstream-data-orchestration---the-key-to-real-time--1-1-personal
-) (2025-09-23)
-- [
-Self-service in the age of AI: Virtual agents that actually resolve
-](
-https://www.twilio.com/en-us/blog/insights/ai/self-service-ai-virtual-agents
-) (2025-09-22)
-- [
-Breaking the Monolith: How We Used the Strangler Fig Pattern to Transform Segment’s Notification Architecture
-](
-https://www.twilio.com/en-us/blog/developers/transform-segment-notification-architecture-orchestration
-) (2025-09-22)
 
 </details>
 
@@ -513,11 +513,11 @@ https://www.twilio.com/en-us/blog/developers/transform-segment-notification-arch
 <details>
 <summary>💬 Slack API</summary>
 
-- [How to Choose the Right Communication Model for Every Team](https://slack.com/blog/collaboration/communication-model) (2025-09-24)
-- [Best Methods for Prioritizing Tasks and Projects at Work](https://slack.com/blog/productivity/best-methods-for-prioritizing-tasks-and-projects-at-work) (2025-09-24)
-- [Meet Channel Expert: Your Always-On Agent in Slack](https://slack.com/blog/news/channel-expert) (2025-09-24)
-- [The AI Workforce: What It Is and How It Can Help Your Team](https://slack.com/blog/productivity/ai-workforce-what-it-is-and-how-it-can-help-your-team) (2025-09-23)
-- [What Is Virtual Work, and How Can It Benefit You?](https://slack.com/blog/collaboration/what-is-virtual-work-and-how-can-it-benefit-you) (2025-09-23)
+- [How to Build Work Habits: 25 Expert-Backed Tips](https://slack.com/blog/productivity/build-productive-work-habits) (2025-09-22)
+- [How to Create a Mind Map: Examples, Benefits, and Uses](https://slack.com/blog/collaboration/how-to-create-a-mind-map-examples-benefits-and-uses) (2025-09-19)
+- [Capacity Planning 101: Balance Workloads and Boost Team Productivity](https://slack.com/blog/productivity/capacity-planning-101-balance-workloads-and-boost-team-productivity) (2025-09-19)
+- [Standard Operating Procedure Templates: What They Are and How to Use Them Effectively](https://slack.com/blog/productivity/standard-operating-procedure-templates-why-theyre-important-and-how-to-create-one) (2025-09-12)
+- [Streamline Note-Taking with Board Meeting Minutes Templates](https://slack.com/blog/productivity/better-board-meeting-minutes) (2025-09-12)
 
 </details>
 
@@ -579,11 +579,11 @@ https://www.twilio.com/en-us/blog/developers/transform-segment-notification-arch
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Build Your Own Comic Generator using OpenAI + Gemini](https://www.analyticsvidhya.com/blog/2025/09/build-comic-generator-using-openai-gemini/) (2025-09-27)
 - [Wild ChatGPT “Pulse” Update Will Forever Change the Way You Use AI](https://www.analyticsvidhya.com/blog/2025/09/chatgpt-pulse-update-ai/) (2025-09-26)
 - [Guide to Host your Resume on your Own Static Website](https://www.analyticsvidhya.com/blog/2025/09/host-resume-on-website/) (2025-09-26)
 - [Integrating Monte Carlo Simulation in Excel for Risk Modeling using Python](https://www.analyticsvidhya.com/blog/2025/09/python-monte-carlo-simulation-in-excel/) (2025-09-26)
 - [10 Best Laptops for AI Engineers and Developers under ₹1.5 Lakhs](https://www.analyticsvidhya.com/blog/2025/09/laptops-for-ai-engineers-and-developers/) (2025-09-25)
-- [DeepCode: This FREE Agentic AI Coder is INSANE!](https://www.analyticsvidhya.com/blog/2025/09/deepcode/) (2025-09-25)
 
 </details>
 
