@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Beware coworkers who produce AI-generated ‘workslop’](https://techcrunch.com/2025/09/27/beware-coworkers-who-produce-ai-generated-workslop/) (2025-09-27)
 - [AI startup Friend spent more than $1M on all those subway ads](https://techcrunch.com/2025/09/27/ai-startup-friend-spent-more-than-1m-on-all-those-subway-ads/) (2025-09-27)
 - [Trump demands Microsoft fire global affairs head Lisa Monaco](https://techcrunch.com/2025/09/27/trump-demands-microsoft-fire-global-affairs-head-lisa-monaco/) (2025-09-27)
 - [How South Korea plans to best OpenAI, Google, others with homegrown AI ](https://techcrunch.com/2025/09/27/how-south-korea-plans-to-best-openai-google-others-with-homegrown-ai/) (2025-09-27)
 - [Famed roboticist says humanoid robot bubble is doomed to burst](https://techcrunch.com/2025/09/26/famed-roboticist-says-humanoid-robot-bubble-is-doomed-to-burst/) (2025-09-27)
-- [Vibe coding: Hype or new reality? Only at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/26/discover-how-developer-tools-are-shifting-fast-with-lauri-moore-and-david-cramer-at-techcrunch-disrupt-2025/) (2025-09-26)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [I made a public living room and the internet keeps putting weirder stuff in it](https://www.theroom.lol) (2025-09-27)
-- [Americans Are Using PTO to Sleep, Not for Vacation–Report](https://www.newsweek.com/americans-are-using-pto-to-sleep-not-for-vacation-report-10783162) (2025-09-27)
-- [Great Question (YC W21) Is Hiring Director of Product](https://www.ycombinator.com/companies/great-question/jobs/9crdslU-director-of-product) (2025-09-27)
-- [Greenland Is a Beautiful Nightmare](https://matduggan.com/greenland-is-a-beautiful-nightmare/) (2025-09-27)
-- [Norway to Monitor Airborne Radioactivity in Svalbard](https://www.highnorthnews.com/en/norway-monitor-airborne-radioactivity-svalbard) (2025-09-27)
+- [UK government underwriting £1.5B loan to Jaguar Land Rover after cyber-attack](https://www.theguardian.com/business/2025/sep/27/jaguar-land-rover-plans-to-restart-engine-manufacturing-in-early-october-report-says) (2025-09-28)
+- [Reports: EA set to be sold to private investors for up to $50B](https://arstechnica.com/gaming/2025/09/reports-ea-set-to-be-sold-to-private-investors-for-up-to-50-billion/) (2025-09-28)
+- [Spending on AI Is at Epic Levels. Will It Ever Pay Off?](https://www.wsj.com/tech/ai/ai-bubble-building-spree-55ee6128) (2025-09-27)
+- [Why Warm Countries Are Poorer](https://unchartedterritories.tomaspueyo.com/p/mountains) (2025-09-27)
+- [Microwave weapon downs 49 drones with a single blast](https://newatlas.com/military/microwave-beam-anti-drone-weapon/) (2025-09-27)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Martin Shkreli can be sued for copying Wu-Tang’s one-of-a-kind record](https://www.theverge.com/news/787023/martin-shkreli-sued-for-copying-wu-tang-clan-record) (2025-09-27)
 - [Switch 2 controllers and the OnePlus Watch 3 top our list of the best deals this week](https://www.theverge.com/tech/786564/nintendo-switch-2-easysmx-controller-oneplus-watch-3-deal-sale) (2025-09-27)
 - [The strangest game of the year is a channel-surfing simulator](https://www.theverge.com/games/785848/blippo-plus-review-switch-steam) (2025-09-27)
 - [Can Google be trusted without a break up?](https://www.theverge.com/policy/786930/google-doj-ad-tech-remedies-break-up-trust) (2025-09-27)
 - [When this EV maker collapsed, its customers became the car company](https://www.theverge.com/transportation/785872/fisker-ocean-ownership-association-software-recall) (2025-09-27)
-- [What to expect from Amazon’s big fall hardware event on Tuesday](https://www.theverge.com/news/786455/amazon-fall-hardware-event-2025-what-to-expect-alexa-echo-kindle) (2025-09-27)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Adam Savage's Tested: Advice on Weathering Today's Uncertain, Hostile Times](https://dev.to/maker_youtube/adam-savages-tested-advice-on-weathering-todays-uncertain-hostile-times-4kfj) (2025-09-27)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-5hkd) (2025-09-27)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-3gmc) (2025-09-27)
-- [KEXP: Thee Marloes - Over (Live on KEXP)](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-n51) (2025-09-27)
-- [Why I Prefer to Work Alone on My Personal Projects](https://dev.to/marcantondahmen/why-i-prefer-to-work-alone-on-my-personal-projects-46md) (2025-09-27)
+- [Streams de Dados: Processamento de Informações em Tempo Real](https://dev.to/programadriano/streams-de-dados-processamento-de-informacoes-em-tempo-real-2ccm) (2025-09-28)
+- [Maximizing Your Development Skills: Proven Strategies for Continuous Learning](https://dev.to/mikeover/maximizing-your-development-skills-proven-strategies-for-continuous-learning-527l) (2025-09-28)
+- [Crolite: filling the "Mojolicious::Lite" gap in the Cro ecosystem](https://dev.to/fco/crolite-filling-the-mojoliciouslite-gap-in-the-cro-ecosystem-4ebi) (2025-09-28)
+- [Promise Hashes](https://dev.to/oculus42/promise-hashes-394j) (2025-09-28)
+- [Architectures for Manufacturing Software: Quick Deployment in a Single Plant](https://dev.to/harshal_jaiswal_9867fe65b/architectures-for-manufacturing-software-quick-deployment-in-a-single-plant-5cj6) (2025-09-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Stop Answering iOS App Life Cycles Like This — Here’s the Smarter Way!](https://blog.stackademic.com/stop-answering-ios-app-life-cycles-like-this-heres-the-smarter-way-9f2a28953508?source=rss------programming-5) (2025-09-27)
-- [6 Python Libraries I Never Knew Existed — Until They Solved My Hardest Problems](https://medium.com/@mariaali056/6-python-libraries-i-never-knew-existed-until-they-solved-my-hardest-problems-fe955ffbeb1e?source=rss------programming-5) (2025-09-27)
-- [Hbdjdvn](https://medium.com/@mhlarstmy037/hbdjdvn-3b5bcb16ccde?source=rss------programming-5) (2025-09-27)
-- [A Developer’s Crash Course in Cryptography, Part 5: Building Blocks of Modern Cryptography](https://medium.com/@steinwendner.matthias/a-developers-crash-course-in-cryptography-part-5-building-blocks-of-modern-cryptography-919a50cdbfa9?source=rss------programming-5) (2025-09-27)
-- [My Coding Journey](https://medium.com/@bestlittleclare/my-coding-journey-b1b2feb62505?source=rss------programming-5) (2025-09-27)
+- [Python’s Hidden Arsenal: Libraries and Patterns That Feel Like Superpowers](https://medium.com/codrift/pythons-hidden-arsenal-libraries-and-patterns-that-feel-like-superpowers-59153a299d5a?source=rss------programming-5) (2025-09-28)
+- [Installing Python Packages with pip: A Guide for Data Analysts](https://medium.com/@rabailzaheer/installing-python-packages-with-pip-a-guide-for-data-analysts-c97ef149e916?source=rss------programming-5) (2025-09-28)
+- [Go Map Iteration Behavior](https://medium.com/@AlexanderObregon/go-map-iteration-behavior-e33dee785cb4?source=rss------programming-5) (2025-09-28)
+- [Replacing Vowels in Text with Java Code](https://medium.com/@AlexanderObregon/replacing-vowels-in-text-with-java-code-01085835e722?source=rss------programming-5) (2025-09-28)
+- [Field Level Encryption in Spring Boot Database Records](https://medium.com/@AlexanderObregon/field-level-encryption-in-spring-boot-database-records-6cb56d9aae56?source=rss------programming-5) (2025-09-28)
 
 </details>
 
