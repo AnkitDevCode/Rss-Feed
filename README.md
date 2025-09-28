@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [UK government underwriting £1.5B loan to Jaguar Land Rover after cyber-attack](https://www.theguardian.com/business/2025/sep/27/jaguar-land-rover-plans-to-restart-engine-manufacturing-in-early-october-report-says) (2025-09-28)
-- [Reports: EA set to be sold to private investors for up to $50B](https://arstechnica.com/gaming/2025/09/reports-ea-set-to-be-sold-to-private-investors-for-up-to-50-billion/) (2025-09-28)
-- [Spending on AI Is at Epic Levels. Will It Ever Pay Off?](https://www.wsj.com/tech/ai/ai-bubble-building-spree-55ee6128) (2025-09-27)
-- [Why Warm Countries Are Poorer](https://unchartedterritories.tomaspueyo.com/p/mountains) (2025-09-27)
-- [Microwave weapon downs 49 drones with a single blast](https://newatlas.com/military/microwave-beam-anti-drone-weapon/) (2025-09-27)
+- [IBM Intellistation 185 AIX workstation](http://www.ibmfiles.com/pages/intellipower185.htm) (2025-09-28)
+- [Do not do this unless you want magic black smoke](https://www.linspyre.com/ecoholics/temps.html) (2025-09-28)
+- [Bonding twelve 56K modems together to set dial-up broadband records](https://www.tomshardware.com/networking/enthusiasts-bond-twelve-56k-dial-up-modems-together-to-set-dial-up-broadband-records-a-dozen-screeching-boxes-achieve-record-668-kbps-download-speeds) (2025-09-28)
+- [Learn to play Go](https://online-go.com/learn-to-play-go) (2025-09-27)
+- [High-power microwave defeats drone swarm](https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration) (2025-09-27)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Streams de Dados: Processamento de Informações em Tempo Real](https://dev.to/programadriano/streams-de-dados-processamento-de-informacoes-em-tempo-real-2ccm) (2025-09-28)
-- [Maximizing Your Development Skills: Proven Strategies for Continuous Learning](https://dev.to/mikeover/maximizing-your-development-skills-proven-strategies-for-continuous-learning-527l) (2025-09-28)
-- [Crolite: filling the "Mojolicious::Lite" gap in the Cro ecosystem](https://dev.to/fco/crolite-filling-the-mojoliciouslite-gap-in-the-cro-ecosystem-4ebi) (2025-09-28)
-- [Promise Hashes](https://dev.to/oculus42/promise-hashes-394j) (2025-09-28)
-- [Architectures for Manufacturing Software: Quick Deployment in a Single Plant](https://dev.to/harshal_jaiswal_9867fe65b/architectures-for-manufacturing-software-quick-deployment-in-a-single-plant-5cj6) (2025-09-28)
+- [A Crispy History of Node.js](https://dev.to/rahul_kalita_ef112347128e/a-crispy-history-of-nodejs-581c) (2025-09-28)
+- [Adam Savage's Tested: Advice on Weathering Today's Uncertain, Hostile Times](https://dev.to/maker_youtube/adam-savages-tested-advice-on-weathering-todays-uncertain-hostile-times-3mpk) (2025-09-28)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-3gbi) (2025-09-28)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-10hd) (2025-09-28)
+- [KEXP: Thee Marloes - Over (Live on KEXP)](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-4dc9) (2025-09-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Python’s Hidden Arsenal: Libraries and Patterns That Feel Like Superpowers](https://medium.com/codrift/pythons-hidden-arsenal-libraries-and-patterns-that-feel-like-superpowers-59153a299d5a?source=rss------programming-5) (2025-09-28)
-- [Installing Python Packages with pip: A Guide for Data Analysts](https://medium.com/@rabailzaheer/installing-python-packages-with-pip-a-guide-for-data-analysts-c97ef149e916?source=rss------programming-5) (2025-09-28)
-- [Go Map Iteration Behavior](https://medium.com/@AlexanderObregon/go-map-iteration-behavior-e33dee785cb4?source=rss------programming-5) (2025-09-28)
-- [Replacing Vowels in Text with Java Code](https://medium.com/@AlexanderObregon/replacing-vowels-in-text-with-java-code-01085835e722?source=rss------programming-5) (2025-09-28)
-- [Field Level Encryption in Spring Boot Database Records](https://medium.com/@AlexanderObregon/field-level-encryption-in-spring-boot-database-records-6cb56d9aae56?source=rss------programming-5) (2025-09-28)
+- [ Top U.S. Breaking News](https://medium.com/@praptachakma94/top-u-s-breaking-news-e8e3a4c96075?source=rss------programming-5) (2025-09-28)
+- [If you are a beginner developer, read this](https://medium.com/pyzilla/advice-for-beginner-developers-tips-guide-448db67ba308?source=rss------programming-5) (2025-09-28)
+- [23 Real-World Java Backend Interview Scenarios: Part -2](https://medium.com/mind-meets-machine/23-real-world-java-backend-interview-scenarios-part-2-6836b86eadcc?source=rss------programming-5) (2025-09-28)
+- [23 Real-World Java Backend Interview Scenarios: Part -1](https://medium.com/mind-meets-machine/23-real-world-java-backend-interview-scenarios-part-1-b4138f54ddb0?source=rss------programming-5) (2025-09-28)
+- [Signs You’re Thinking Like an Architect, Not Just a Developer](https://skilledcoder.medium.com/signs-youre-thinking-like-an-architect-not-just-a-developer-062a1678567c?source=rss------programming-5) (2025-09-28)
 
 </details>
 
@@ -513,11 +513,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/manage-list-of-safe-phone
 <details>
 <summary>💬 Slack API</summary>
 
-- [RACI Model Explained: Definition, Benefits, and How to Use It](https://slack.com/blog/productivity/raci-model-explained-definition-benefits-and-how-to-use-it) (2025-09-26)
-- [Enterprise Data Security: A Guide to Protecting Your Organization](https://slack.com/blog/transformation/enterprise-data-security-a-guide-to-protecting-your-organization) (2025-09-26)
-- [Why Every Modern Team Needs a Work OS](https://slack.com/blog/productivity/why-every-modern-team-needs-a-work-os) (2025-09-26)
 - [How to Choose the Right Communication Model for Every Team](https://slack.com/blog/collaboration/communication-model) (2025-09-24)
 - [Best Methods for Prioritizing Tasks and Projects at Work](https://slack.com/blog/productivity/best-methods-for-prioritizing-tasks-and-projects-at-work) (2025-09-24)
+- [Meet Channel Expert: Your Always-On Agent in Slack](https://slack.com/blog/news/channel-expert) (2025-09-24)
+- [The AI Workforce: What It Is and How It Can Help Your Team](https://slack.com/blog/productivity/ai-workforce-what-it-is-and-how-it-can-help-your-team) (2025-09-23)
+- [What Is Virtual Work, and How Can It Benefit You?](https://slack.com/blog/collaboration/what-is-virtual-work-and-how-can-it-benefit-you) (2025-09-23)
 
 </details>
 
