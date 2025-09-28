@@ -31,33 +31,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [IBM Intellistation 185 AIX workstation](http://www.ibmfiles.com/pages/intellipower185.htm) (2025-09-28)
-- [Do not do this unless you want magic black smoke](https://www.linspyre.com/ecoholics/temps.html) (2025-09-28)
-- [Bonding twelve 56K modems together to set dial-up broadband records](https://www.tomshardware.com/networking/enthusiasts-bond-twelve-56k-dial-up-modems-together-to-set-dial-up-broadband-records-a-dozen-screeching-boxes-achieve-record-668-kbps-download-speeds) (2025-09-28)
-- [Learn to play Go](https://online-go.com/learn-to-play-go) (2025-09-27)
-- [High-power microwave defeats drone swarm](https://www.epirusinc.com/press-releases/epirus-leonidas-high-power-microwave-defeats-49-drone-swarm-100-of-drones-flown-at-live-fire-demonstration) (2025-09-27)
+- [Why I gave the world wide web away for free](https://www.theguardian.com/technology/2025/sep/28/why-i-gave-the-world-wide-web-away-for-free) (2025-09-28)
+- [1982: Fred Dibnah shows how to erect a CHIMNEY SCAFFOLD at 200 feet [video]](https://www.youtube.com/watch?v=w3ma9iYx4rg) (2025-09-28)
+- [US Military struggling to deploy AI weapons](https://www.msn.com/en-us/money/companies/us-military-is-struggling-to-deploy-ai-weapons/ar-AA1NoiNK) (2025-09-28)
+- [Beyond OpenMP in C++ and Rust: Taskflow, Rayon, Fork Union](https://ashvardanian.com/posts/beyond-openmp-in-cpp-rust/) (2025-09-28)
+- [Ed Zitron is mad as hell](https://www.ft.com/content/4c8d6420-d088-4660-8973-c4996cd990fb) (2025-09-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [How generative AI boosters are trying to break into Hollywood](https://www.theverge.com/column/785975/hollywood-ai-stepback) (2025-09-28)
+- [I need a life cool enough for the new GoPro](https://www.theverge.com/tech/787032/gopro-max-chatgpt-pulse-silent-hill-installer) (2025-09-28)
 - [Martin Shkreli can be sued for copying Wu-Tang’s one-of-a-kind record](https://www.theverge.com/news/787023/martin-shkreli-sued-for-copying-wu-tang-clan-record) (2025-09-27)
 - [Switch 2 controllers and the OnePlus Watch 3 top our list of the best deals this week](https://www.theverge.com/tech/786564/nintendo-switch-2-easysmx-controller-oneplus-watch-3-deal-sale) (2025-09-27)
 - [The strangest game of the year is a channel-surfing simulator](https://www.theverge.com/games/785848/blippo-plus-review-switch-steam) (2025-09-27)
-- [Can Google be trusted without a break up?](https://www.theverge.com/policy/786930/google-doj-ad-tech-remedies-break-up-trust) (2025-09-27)
-- [When this EV maker collapsed, its customers became the car company](https://www.theverge.com/transportation/785872/fisker-ocean-ownership-association-software-recall) (2025-09-27)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [30 years later, I’m still obliterating planets in Master of Orion II—and you can, too](https://arstechnica.com/gaming/2025/09/30-years-later-im-still-obliterating-planets-in-master-of-orion-ii-and-you-can-too/) (2025-09-28)
+- [150 million-year-old pterosaur cold case has finally been solved](https://arstechnica.com/science/2025/09/150-million-year-old-pterosaur-cold-case-has-finally-been-solved/) (2025-09-28)
 - [The current war on science, and who’s behind it](https://arstechnica.com/science/2025/09/who-should-we-blame-for-the-current-war-on-science/) (2025-09-27)
 - [Why LA Comic Con thought making an AI-powered Stan Lee hologram was a good idea](https://arstechnica.com/ai/2025/09/why-la-comic-con-thought-making-an-ai-powered-stan-lee-hologram-was-a-good-idea/) (2025-09-27)
 - [Can AI detect hedgehogs from space? Maybe if you find brambles first.](https://arstechnica.com/ai/2025/09/can-ai-detect-hedgehogs-from-space-maybe-if-you-find-brambles-first/) (2025-09-26)
-- [Woman hospitalized with pain and vomiting—diet soda cured her](https://arstechnica.com/health/2025/09/woman-hospitalized-with-pain-and-vomiting-a-diet-soda-cured-her/) (2025-09-26)
-- [LG’s $1,800 TV for seniors makes misguided assumptions](https://arstechnica.com/gadgets/2025/09/lgs-1800-tv-for-seniors-comes-with-an-upcharge-and-ai-button/) (2025-09-26)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [A Crispy History of Node.js](https://dev.to/rahul_kalita_ef112347128e/a-crispy-history-of-nodejs-581c) (2025-09-28)
-- [Adam Savage's Tested: Advice on Weathering Today's Uncertain, Hostile Times](https://dev.to/maker_youtube/adam-savages-tested-advice-on-weathering-todays-uncertain-hostile-times-3mpk) (2025-09-28)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-3gbi) (2025-09-28)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-10hd) (2025-09-28)
-- [KEXP: Thee Marloes - Over (Live on KEXP)](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-4dc9) (2025-09-28)
+- [Statistical Analysis Using NumPy and SciPy: A Complete Guide with Case Studies](https://dev.to/thedatageek/statistical-analysis-using-numpy-and-scipy-a-complete-guide-with-case-studies-3mhc) (2025-09-28)
+- [Chat With Your Obsidian Notes: Introducing HTTP MCP Server](https://dev.to/matsch1/chat-with-your-obsidian-notes-introducing-http-mcp-server-4paj) (2025-09-28)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-11kn) (2025-09-28)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-3e5l) (2025-09-28)
+- [KEXP: Thee Marloes - Over (Live on KEXP)](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-p77) (2025-09-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ Top U.S. Breaking News](https://medium.com/@praptachakma94/top-u-s-breaking-news-e8e3a4c96075?source=rss------programming-5) (2025-09-28)
-- [If you are a beginner developer, read this](https://medium.com/pyzilla/advice-for-beginner-developers-tips-guide-448db67ba308?source=rss------programming-5) (2025-09-28)
-- [23 Real-World Java Backend Interview Scenarios: Part -2](https://medium.com/mind-meets-machine/23-real-world-java-backend-interview-scenarios-part-2-6836b86eadcc?source=rss------programming-5) (2025-09-28)
-- [23 Real-World Java Backend Interview Scenarios: Part -1](https://medium.com/mind-meets-machine/23-real-world-java-backend-interview-scenarios-part-1-b4138f54ddb0?source=rss------programming-5) (2025-09-28)
-- [Signs You’re Thinking Like an Architect, Not Just a Developer](https://skilledcoder.medium.com/signs-youre-thinking-like-an-architect-not-just-a-developer-062a1678567c?source=rss------programming-5) (2025-09-28)
+- [09045080282شماره خاله کرمانشاه# شماره خاله تبریز #شماره خاله قم # شماره خاله شیراز # شماره خاله کرج…](https://medium.com/@3hjjgjcjcyfudugcjgojvcjjc/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-a2bb4eab891d?source=rss------programming-5) (2025-09-28)
+- [09045080282شماره خاله کرمانشاه# شماره خاله تبریز #شماره خاله قم # شماره خاله شیراز # شماره خاله کرج…](https://medium.com/@3hjjgjcjcyfudugcjgojvcjjc/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-e15496f216c0?source=rss------programming-5) (2025-09-28)
+- [09045080282شماره خاله کرمانشاه# شماره خاله تبریز #شماره خاله قم # شماره خاله شیراز # شماره خاله کرج…](https://medium.com/@3hjjgjcjcyfudugcjgojvcjjc/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-218f7654f503?source=rss------programming-5) (2025-09-28)
+- [10 AI Tools Nobody Told Me About — Until They Changed Everything](https://medium.com/@mariaali056/10-ai-tools-nobody-told-me-about-until-they-changed-everything-047cd85221ce?source=rss------programming-5) (2025-09-28)
+- [09045080282شماره خاله اهواز # شماره خاله کرمان # شماره خاله رشت # شماره خاله کرج # شماره خاله…](https://medium.com/@2kwkwkwjwkwkwkkwkw/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D9%85%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D8%B4%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-c5e42d764dd8?source=rss------programming-5) (2025-09-28)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.](https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/) (2025-09-25)
-- [Agent Factory: Designing the open agentic web stack](https://azure.microsoft.com/en-us/blog/agent-factory-designing-the-open-agentic-web-stack/) (2025-09-24)
 - [How Azure Cobalt 100 VMs are powering real-world solutions, delivering performance and efficiency results](https://azure.microsoft.com/en-us/blog/how-azure-cobalt-100-vms-are-powering-real-world-solutions-delivering-performance-and-efficiency-results/) (2025-09-23)
 - [Accelerate migration and modernization with agentic AI](https://azure.microsoft.com/en-us/blog/accelerate-migration-and-modernization-with-agentic-ai/) (2025-09-23)
 - [Inside the world’s most powerful AI datacenter](https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/) (2025-09-18)
+- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms ](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms/) (2025-09-18)
+- [Agent Factory: Creating a blueprint for safe and secure AI agents](https://azure.microsoft.com/en-us/blog/agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents/) (2025-09-17)
 
 </details>
 
@@ -513,11 +513,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/manage-list-of-safe-phone
 <details>
 <summary>💬 Slack API</summary>
 
+- [RACI Model Explained: Definition, Benefits, and How to Use It](https://slack.com/blog/productivity/raci-model-explained-definition-benefits-and-how-to-use-it) (2025-09-26)
+- [Enterprise Data Security: A Guide to Protecting Your Organization](https://slack.com/blog/transformation/enterprise-data-security-a-guide-to-protecting-your-organization) (2025-09-26)
+- [Why Every Modern Team Needs a Work OS](https://slack.com/blog/productivity/why-every-modern-team-needs-a-work-os) (2025-09-26)
 - [How to Choose the Right Communication Model for Every Team](https://slack.com/blog/collaboration/communication-model) (2025-09-24)
 - [Best Methods for Prioritizing Tasks and Projects at Work](https://slack.com/blog/productivity/best-methods-for-prioritizing-tasks-and-projects-at-work) (2025-09-24)
-- [Meet Channel Expert: Your Always-On Agent in Slack](https://slack.com/blog/news/channel-expert) (2025-09-24)
-- [The AI Workforce: What It Is and How It Can Help Your Team](https://slack.com/blog/productivity/ai-workforce-what-it-is-and-how-it-can-help-your-team) (2025-09-23)
-- [What Is Virtual Work, and How Can It Benefit You?](https://slack.com/blog/collaboration/what-is-virtual-work-and-how-can-it-benefit-you) (2025-09-23)
 
 </details>
 
@@ -579,11 +579,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/manage-list-of-safe-phone
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [4 LLM Compression Techniques to Make Models Smaller and Faster](https://www.analyticsvidhya.com/blog/2025/09/llm-compression-techniques/) (2025-09-28)
 - [Build Your Own Comic Generator using OpenAI + Gemini](https://www.analyticsvidhya.com/blog/2025/09/build-comic-generator-using-openai-gemini/) (2025-09-27)
 - [Wild ChatGPT “Pulse” Update Will Forever Change the Way You Use AI](https://www.analyticsvidhya.com/blog/2025/09/chatgpt-pulse-update-ai/) (2025-09-26)
 - [Guide to Host your Resume on your Own Static Website](https://www.analyticsvidhya.com/blog/2025/09/host-resume-on-website/) (2025-09-26)
 - [Integrating Monte Carlo Simulation in Excel for Risk Modeling using Python](https://www.analyticsvidhya.com/blog/2025/09/python-monte-carlo-simulation-in-excel/) (2025-09-26)
-- [10 Best Laptops for AI Engineers and Developers under ₹1.5 Lakhs](https://www.analyticsvidhya.com/blog/2025/09/laptops-for-ai-engineers-and-developers/) (2025-09-25)
 
 </details>
 
