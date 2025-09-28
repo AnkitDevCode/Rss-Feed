@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Beware coworkers who produce AI-generated ‘workslop’](https://techcrunch.com/2025/09/27/beware-coworkers-who-produce-ai-generated-workslop/) (2025-09-27)
-- [AI startup Friend spent more than $1M on all those subway ads](https://techcrunch.com/2025/09/27/ai-startup-friend-spent-more-than-1m-on-all-those-subway-ads/) (2025-09-27)
-- [Trump demands Microsoft fire global affairs head Lisa Monaco](https://techcrunch.com/2025/09/27/trump-demands-microsoft-fire-global-affairs-head-lisa-monaco/) (2025-09-27)
-- [How South Korea plans to best OpenAI, Google, others with homegrown AI ](https://techcrunch.com/2025/09/27/how-south-korea-plans-to-best-openai-google-others-with-homegrown-ai/) (2025-09-27)
-- [Famed roboticist says humanoid robot bubble is doomed to burst](https://techcrunch.com/2025/09/26/famed-roboticist-says-humanoid-robot-bubble-is-doomed-to-burst/) (2025-09-27)
+- [The billion-dollar infrastructure deals powering the AI boom](https://techcrunch.com/2025/09/28/the-billion-dollar-infrastructure-deals-powering-the-ai-boom/) (2025-09-28)
+- [TechCrunch Mobility: Self-driving trucks startup Kodiak goes public and a shake-up at Hyundai’s Supernal](https://techcrunch.com/2025/09/28/techcrunch-mobility-self-driving-trucks-startup-kodiak-goes-public-and-a-shake-up-at-hyundais-supernal/) (2025-09-28)
+- [Do EA buyout talks hint at bigger industry troubles?](https://techcrunch.com/2025/09/28/do-ea-buyout-talks-hint-at-bigger-industry-troubles/) (2025-09-28)
+- [Lootlock protects kids from overspending on gaming and will be presenting at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/28/lootlock-protects-kids-from-overspending-on-gaming-and-will-be-presenting-at-techcrunch-disrupt-2025/) (2025-09-28)
+- [Wiz chief technologist Ami Luttwak on how AI is transforming cyberattacks ](https://techcrunch.com/2025/09/28/wiz-chief-technologist-ami-luttwak-on-how-ai-is-transforming-cyberattacks/) (2025-09-28)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Why I gave the world wide web away for free](https://www.theguardian.com/technology/2025/sep/28/why-i-gave-the-world-wide-web-away-for-free) (2025-09-28)
-- [1982: Fred Dibnah shows how to erect a CHIMNEY SCAFFOLD at 200 feet [video]](https://www.youtube.com/watch?v=w3ma9iYx4rg) (2025-09-28)
-- [US Military struggling to deploy AI weapons](https://www.msn.com/en-us/money/companies/us-military-is-struggling-to-deploy-ai-weapons/ar-AA1NoiNK) (2025-09-28)
-- [Beyond OpenMP in C++ and Rust: Taskflow, Rayon, Fork Union](https://ashvardanian.com/posts/beyond-openmp-in-cpp-rust/) (2025-09-28)
-- [Ed Zitron is mad as hell](https://www.ft.com/content/4c8d6420-d088-4660-8973-c4996cd990fb) (2025-09-28)
+- [Denmark bans civil drones after more sightings](https://www.dw.com/en/denmark-bans-civil-drones-after-more-sightings/a-74166973) (2025-09-28)
+- [UN lists 158 firms tied to illegal Israeli settlements](https://www.aljazeera.com/news/2025/9/26/un-lists-150-firms-tied-to-illegal-israeli-settlements) (2025-09-28)
+- [Bayesian Data Analysis, Third edition [pdf]](https://sites.stat.columbia.edu/gelman/book/BDA3.pdf) (2025-09-28)
+- [Ask HN: How Do I Get over My Existential Crisis?](https://news.ycombinator.com/item?id=45405977) (2025-09-28)
+- [Testing "Exotic" P2P VPN](https://blog.nommy.moe/blog/exotic-mesh-vpn/) (2025-09-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Trump posts, then pulls bizarre AI video promoting MedBed conspiracy](https://www.theverge.com/news/787042/trump-posts-then-pulls-bizarre-ai-video-promoting-medbed-conspiracy) (2025-09-28)
+- [I spent three months with Telly, the free TV that&#8217;s always showing ads](https://www.theverge.com/televisions/777588/telly-tv-hands-on-ads) (2025-09-28)
+- [Good news: TechWoven is fine](https://www.theverge.com/tech/786161/techwoven-case-iphone-17-pro) (2025-09-28)
+- [How the voice of Silksong&#8217;s Hornet brought her to life through gibberish](https://www.theverge.com/games/785915/hollow-knight-silksong-hornet-voice-actor-makoto-koji-gibberish) (2025-09-28)
 - [How generative AI boosters are trying to break into Hollywood](https://www.theverge.com/column/785975/hollywood-ai-stepback) (2025-09-28)
-- [I need a life cool enough for the new GoPro](https://www.theverge.com/tech/787032/gopro-max-chatgpt-pulse-silent-hill-installer) (2025-09-28)
-- [Martin Shkreli can be sued for copying Wu-Tang’s one-of-a-kind record](https://www.theverge.com/news/787023/martin-shkreli-sued-for-copying-wu-tang-clan-record) (2025-09-27)
-- [Switch 2 controllers and the OnePlus Watch 3 top our list of the best deals this week](https://www.theverge.com/tech/786564/nintendo-switch-2-easysmx-controller-oneplus-watch-3-deal-sale) (2025-09-27)
-- [The strangest game of the year is a channel-surfing simulator](https://www.theverge.com/games/785848/blippo-plus-review-switch-steam) (2025-09-27)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Statistical Analysis Using NumPy and SciPy: A Complete Guide with Case Studies](https://dev.to/thedatageek/statistical-analysis-using-numpy-and-scipy-a-complete-guide-with-case-studies-3mhc) (2025-09-28)
-- [Chat With Your Obsidian Notes: Introducing HTTP MCP Server](https://dev.to/matsch1/chat-with-your-obsidian-notes-introducing-http-mcp-server-4paj) (2025-09-28)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-11kn) (2025-09-28)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-3e5l) (2025-09-28)
-- [KEXP: Thee Marloes - Over (Live on KEXP)](https://dev.to/music_youtube/kexp-thee-marloes-over-live-on-kexp-p77) (2025-09-28)
+- [KendoReact Free Components Challenge Entry, Invoice Dashboard](https://dev.to/hazel79/kendoreact-free-components-challenge-entry-invoice-dashboard-ee0) (2025-09-28)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-28no) (2025-09-28)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3oil) (2025-09-28)
+- [Golf.com: The Ryder Cup's Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-537g) (2025-09-28)
+- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-4l65) (2025-09-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09045080282شماره خاله کرمانشاه# شماره خاله تبریز #شماره خاله قم # شماره خاله شیراز # شماره خاله کرج…](https://medium.com/@3hjjgjcjcyfudugcjgojvcjjc/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-a2bb4eab891d?source=rss------programming-5) (2025-09-28)
-- [09045080282شماره خاله کرمانشاه# شماره خاله تبریز #شماره خاله قم # شماره خاله شیراز # شماره خاله کرج…](https://medium.com/@3hjjgjcjcyfudugcjgojvcjjc/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-e15496f216c0?source=rss------programming-5) (2025-09-28)
-- [09045080282شماره خاله کرمانشاه# شماره خاله تبریز #شماره خاله قم # شماره خاله شیراز # شماره خاله کرج…](https://medium.com/@3hjjgjcjcyfudugcjgojvcjjc/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-218f7654f503?source=rss------programming-5) (2025-09-28)
-- [10 AI Tools Nobody Told Me About — Until They Changed Everything](https://medium.com/@mariaali056/10-ai-tools-nobody-told-me-about-until-they-changed-everything-047cd85221ce?source=rss------programming-5) (2025-09-28)
-- [09045080282شماره خاله اهواز # شماره خاله کرمان # شماره خاله رشت # شماره خاله کرج # شماره خاله…](https://medium.com/@2kwkwkwjwkwkwkkwkw/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D9%85%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D8%B4%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-c5e42d764dd8?source=rss------programming-5) (2025-09-28)
+- [09370750325](https://medium.com/@sdfmhmdrda273/09370750325-52426234325b?source=rss------programming-5) (2025-09-28)
+- [Smart and Broke? How to Make Money Coding Without a “Job”](https://medium.com/@pythonminded/smart-and-broke-how-to-make-money-coding-without-a-job-6a08238d50e9?source=rss------programming-5) (2025-09-28)
+- [ MongoDB Magic: Features, Tricks, Hacks & Real-World Use Cases Explained! ️✨](https://rajputlakhveer.medium.com/mongodb-magic-features-tricks-hacks-real-world-use-cases-explained-%EF%B8%8F-2cc7cc36dc63?source=rss------programming-5) (2025-09-28)
+- [SOLID Principles in Go: The Concise Guide](https://codexplorer.medium.com/solid-principles-in-go-the-concise-guide-204d36ae147a?source=rss------programming-5) (2025-09-28)
+- [VPCs Explained Across AWS, Azure, and GCP](https://medium.com/@samarth38work/vpcs-explained-across-aws-azure-and-gcp-cdd61f4c608a?source=rss------programming-5) (2025-09-28)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.](https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/) (2025-09-25)
+- [Agent Factory: Designing the open agentic web stack](https://azure.microsoft.com/en-us/blog/agent-factory-designing-the-open-agentic-web-stack/) (2025-09-24)
 - [How Azure Cobalt 100 VMs are powering real-world solutions, delivering performance and efficiency results](https://azure.microsoft.com/en-us/blog/how-azure-cobalt-100-vms-are-powering-real-world-solutions-delivering-performance-and-efficiency-results/) (2025-09-23)
 - [Accelerate migration and modernization with agentic AI](https://azure.microsoft.com/en-us/blog/accelerate-migration-and-modernization-with-agentic-ai/) (2025-09-23)
 - [Inside the world’s most powerful AI datacenter](https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/) (2025-09-18)
-- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms ](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms/) (2025-09-18)
-- [Agent Factory: Creating a blueprint for safe and secure AI agents](https://azure.microsoft.com/en-us/blog/agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents/) (2025-09-17)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/manage-list-of-safe-phone
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Eulerian Melodies: Graph Algorithms for Music Composition](https://towardsdatascience.com/eulerian-melodies-graph-algorithms-for-music-composition/) (2025-09-28)
 - [Learning Triton One Kernel At a Time: Vector Addition](https://towardsdatascience.com/learning-triton-one-kernel-at-a-time-vector-addition/) (2025-09-27)
 - [What Clients Really Ask for in AI Projects](https://towardsdatascience.com/what-clients-really-ask-for-in-ai-projects/) (2025-09-27)
 - [Building Fact-Checking Systems: Catching Repeating False Claims Before They Spread](https://towardsdatascience.com/building-fact-checking-systems-catching-repeating-false-claims-before-they-spread/) (2025-09-26)
 - [Why MissForest Fails in Prediction Tasks: A Key Limitation You Need to Keep in Mind](https://towardsdatascience.com/why-missforest-fails-in-prediction-tasks-a-key-limitation-you-need-to-know/) (2025-09-26)
-- [Using Vision Language Models to Process Millions of Documents](https://towardsdatascience.com/using-vision-language-models-to-process-millions-of-documents/) (2025-09-26)
 
 </details>
 
