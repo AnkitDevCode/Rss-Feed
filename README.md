@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Oura CEO talks potential IPO and ‘nonnegotiable’ data privacy](https://techcrunch.com/2025/09/28/oura-ceo-talks-potential-ipo-and-nonnegotiable-data-privacy/) (2025-09-28)
+- [DJI loses lawsuit over classification as Chinese military company](https://techcrunch.com/2025/09/28/dji-loses-lawsuit-over-classification-as-chinese-military-company/) (2025-09-28)
 - [The billion-dollar infrastructure deals powering the AI boom](https://techcrunch.com/2025/09/28/the-billion-dollar-infrastructure-deals-powering-the-ai-boom/) (2025-09-28)
 - [TechCrunch Mobility: Self-driving trucks startup Kodiak goes public and a shake-up at Hyundai’s Supernal](https://techcrunch.com/2025/09/28/techcrunch-mobility-self-driving-trucks-startup-kodiak-goes-public-and-a-shake-up-at-hyundais-supernal/) (2025-09-28)
 - [Do EA buyout talks hint at bigger industry troubles?](https://techcrunch.com/2025/09/28/do-ea-buyout-talks-hint-at-bigger-industry-troubles/) (2025-09-28)
-- [Lootlock protects kids from overspending on gaming and will be presenting at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/28/lootlock-protects-kids-from-overspending-on-gaming-and-will-be-presenting-at-techcrunch-disrupt-2025/) (2025-09-28)
-- [Wiz chief technologist Ami Luttwak on how AI is transforming cyberattacks ](https://techcrunch.com/2025/09/28/wiz-chief-technologist-ami-luttwak-on-how-ai-is-transforming-cyberattacks/) (2025-09-28)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Denmark bans civil drones after more sightings](https://www.dw.com/en/denmark-bans-civil-drones-after-more-sightings/a-74166973) (2025-09-28)
-- [UN lists 158 firms tied to illegal Israeli settlements](https://www.aljazeera.com/news/2025/9/26/un-lists-150-firms-tied-to-illegal-israeli-settlements) (2025-09-28)
-- [Bayesian Data Analysis, Third edition [pdf]](https://sites.stat.columbia.edu/gelman/book/BDA3.pdf) (2025-09-28)
-- [Ask HN: How Do I Get over My Existential Crisis?](https://news.ycombinator.com/item?id=45405977) (2025-09-28)
-- [Testing "Exotic" P2P VPN](https://blog.nommy.moe/blog/exotic-mesh-vpn/) (2025-09-28)
+- [Health officials in the US are sounding the alarm over drug-resistant bacteria](https://www.aljazeera.com/news/2025/9/24/what-are-nightmare-bacteria-and-why-are-infections-rising-in-the-us) (2025-09-29)
+- [Imagination as General Intelligence: Reconciling Consciousness and Free Will](https://zenodo.org/records/17109096) (2025-09-28)
+- [Autism may be the price of human intelligence, linked to human brain evolution](https://academic.oup.com/mbe/article/42/9/msaf189/8245036?login=false) (2025-09-28)
+- [Go ahead, write the “stupid” code](https://spikepuppet.io/posts/write-the-stupid-code/) (2025-09-28)
+- [Tai Lopez charged by SEC in ponzi scheme](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26413) (2025-09-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Apple&#8217;s &#8216;Veritas&#8217; chatbot is reportedly an employee-only test of Siri&#8217;s AI upgrades](https://www.theverge.com/news/787046/apples-veritas-siri-ai-chatbot) (2025-09-28)
+- [Larry Ellison’s quest to run the world](https://www.theverge.com/tech/787051/larry-ellison-tiktok-quest-to-run-the-world) (2025-09-28)
 - [Trump posts, then pulls bizarre AI video promoting MedBed conspiracy](https://www.theverge.com/news/787042/trump-posts-then-pulls-bizarre-ai-video-promoting-medbed-conspiracy) (2025-09-28)
 - [I spent three months with Telly, the free TV that&#8217;s always showing ads](https://www.theverge.com/televisions/777588/telly-tv-hands-on-ads) (2025-09-28)
 - [Good news: TechWoven is fine](https://www.theverge.com/tech/786161/techwoven-case-iphone-17-pro) (2025-09-28)
-- [How the voice of Silksong&#8217;s Hornet brought her to life through gibberish](https://www.theverge.com/games/785915/hollow-knight-silksong-hornet-voice-actor-makoto-koji-gibberish) (2025-09-28)
-- [How generative AI boosters are trying to break into Hollywood](https://www.theverge.com/column/785975/hollywood-ai-stepback) (2025-09-28)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [KendoReact Free Components Challenge Entry, Invoice Dashboard](https://dev.to/hazel79/kendoreact-free-components-challenge-entry-invoice-dashboard-ee0) (2025-09-28)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-28no) (2025-09-28)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3oil) (2025-09-28)
-- [Golf.com: The Ryder Cup's Unusual Custom Merch You Know Nothing About](https://dev.to/youtube_golf/golfcom-the-ryder-cups-unusual-custom-merch-you-know-nothing-about-537g) (2025-09-28)
-- [Bryan Bros Golf: Can We Beat the US Junior Champion?](https://dev.to/youtube_golf/bryan-bros-golf-can-we-beat-the-us-junior-champion-4l65) (2025-09-28)
+- [Study Bud: AI-Powered Learning Companion](https://dev.to/anurajbhaskar47/study-bud-ai-powered-learning-companion-22io) (2025-09-29)
+- [What is a Network Topology? (Explained Like You're Five… But Cooler)](https://dev.to/araiznaqvi/what-is-a-network-topology-explained-like-youre-five-but-cooler-3pep) (2025-09-29)
+- [Shuttering Sheltah](https://dev.to/hmcodes/final-thoughts-a3h) (2025-09-29)
+- [There is no prompt; we are gonna try to make this interesting.](https://dev.to/francis_galarza_3f4d79a87/there-is-no-prompt-we-are-gonna-try-to-make-this-interesting-38fp) (2025-09-29)
+- [Next.js 배포할 때, CloudFront + S3 vs ECS 뭐가 다를까?](https://dev.to/maya_lee/nextjs-baepohal-ddae-cloudfront-s3-vs-ecs-mweoga-dareulgga-2kl7) (2025-09-29)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09370750325](https://medium.com/@sdfmhmdrda273/09370750325-52426234325b?source=rss------programming-5) (2025-09-28)
-- [Smart and Broke? How to Make Money Coding Without a “Job”](https://medium.com/@pythonminded/smart-and-broke-how-to-make-money-coding-without-a-job-6a08238d50e9?source=rss------programming-5) (2025-09-28)
-- [ MongoDB Magic: Features, Tricks, Hacks & Real-World Use Cases Explained! ️✨](https://rajputlakhveer.medium.com/mongodb-magic-features-tricks-hacks-real-world-use-cases-explained-%EF%B8%8F-2cc7cc36dc63?source=rss------programming-5) (2025-09-28)
-- [SOLID Principles in Go: The Concise Guide](https://codexplorer.medium.com/solid-principles-in-go-the-concise-guide-204d36ae147a?source=rss------programming-5) (2025-09-28)
-- [VPCs Explained Across AWS, Azure, and GCP](https://medium.com/@samarth38work/vpcs-explained-across-aws-azure-and-gcp-cdd61f4c608a?source=rss------programming-5) (2025-09-28)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmbcxzzfvb25/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-0f83858b7e22?source=rss------programming-5) (2025-09-29)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmbvxxcv22m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-c35b2b95ce34?source=rss------programming-5) (2025-09-29)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmbvxxcv22m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-7c25c769283b?source=rss------programming-5) (2025-09-29)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmbvxxcv22m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e4291c8dd5ce?source=rss------programming-5) (2025-09-29)
+- [09370673570شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@mmbvcddcv23/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-c555c7335253?source=rss------programming-5) (2025-09-29)
 
 </details>
 
@@ -513,11 +513,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/manage-list-of-safe-phone
 <details>
 <summary>💬 Slack API</summary>
 
-- [RACI Model Explained: Definition, Benefits, and How to Use It](https://slack.com/blog/productivity/raci-model-explained-definition-benefits-and-how-to-use-it) (2025-09-26)
-- [Enterprise Data Security: A Guide to Protecting Your Organization](https://slack.com/blog/transformation/enterprise-data-security-a-guide-to-protecting-your-organization) (2025-09-26)
-- [Why Every Modern Team Needs a Work OS](https://slack.com/blog/productivity/why-every-modern-team-needs-a-work-os) (2025-09-26)
 - [How to Choose the Right Communication Model for Every Team](https://slack.com/blog/collaboration/communication-model) (2025-09-24)
 - [Best Methods for Prioritizing Tasks and Projects at Work](https://slack.com/blog/productivity/best-methods-for-prioritizing-tasks-and-projects-at-work) (2025-09-24)
+- [Meet Channel Expert: Your Always-On Agent in Slack](https://slack.com/blog/news/channel-expert) (2025-09-24)
+- [The AI Workforce: What It Is and How It Can Help Your Team](https://slack.com/blog/productivity/ai-workforce-what-it-is-and-how-it-can-help-your-team) (2025-09-23)
+- [What Is Virtual Work, and How Can It Benefit You?](https://slack.com/blog/collaboration/what-is-virtual-work-and-how-can-it-benefit-you) (2025-09-23)
 
 </details>
 
