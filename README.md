@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Paid, the AI agent ‘results-based billing’ startup from Manny Medina, raises huge $21M seed](https://techcrunch.com/2025/09/28/paid-the-ai-agent-results-based-billing-startup-from-manny-medina-raises-huge-21m-seed/) (2025-09-29)
+- [The AI services transformation may be harder than VCs think](https://techcrunch.com/2025/09/28/the-ai-services-transformation-may-be-harder-than-vcs-think/) (2025-09-29)
 - [Oura CEO talks potential IPO and ‘nonnegotiable’ data privacy](https://techcrunch.com/2025/09/28/oura-ceo-talks-potential-ipo-and-nonnegotiable-data-privacy/) (2025-09-28)
 - [DJI loses lawsuit over classification as Chinese military company](https://techcrunch.com/2025/09/28/dji-loses-lawsuit-over-classification-as-chinese-military-company/) (2025-09-28)
 - [The billion-dollar infrastructure deals powering the AI boom](https://techcrunch.com/2025/09/28/the-billion-dollar-infrastructure-deals-powering-the-ai-boom/) (2025-09-28)
-- [TechCrunch Mobility: Self-driving trucks startup Kodiak goes public and a shake-up at Hyundai’s Supernal](https://techcrunch.com/2025/09/28/techcrunch-mobility-self-driving-trucks-startup-kodiak-goes-public-and-a-shake-up-at-hyundais-supernal/) (2025-09-28)
-- [Do EA buyout talks hint at bigger industry troubles?](https://techcrunch.com/2025/09/28/do-ea-buyout-talks-hint-at-bigger-industry-troubles/) (2025-09-28)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Health officials in the US are sounding the alarm over drug-resistant bacteria](https://www.aljazeera.com/news/2025/9/24/what-are-nightmare-bacteria-and-why-are-infections-rising-in-the-us) (2025-09-29)
-- [Imagination as General Intelligence: Reconciling Consciousness and Free Will](https://zenodo.org/records/17109096) (2025-09-28)
-- [Autism may be the price of human intelligence, linked to human brain evolution](https://academic.oup.com/mbe/article/42/9/msaf189/8245036?login=false) (2025-09-28)
-- [Go ahead, write the “stupid” code](https://spikepuppet.io/posts/write-the-stupid-code/) (2025-09-28)
-- [Tai Lopez charged by SEC in ponzi scheme](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26413) (2025-09-28)
+- [Zero ASIC releases Wildebeest, the highest performance FPGA synthesis tool](https://www.zeroasic.com/blog/wildebeest-launch) (2025-09-29)
+- [High-Level Synthesis Synthesis](https://stefanabikaram.com/writing/hls-synthesis/) (2025-09-29)
+- [The elusive roots of rosin potatoes (2022)](https://bittersoutherner.com/feature/2022/the-elusive-roots-of-rosin-potatoes) (2025-09-29)
+- [F-Droid and Google's Developer Registration Decree](https://f-droid.org/2025/09/29/google-developer-registration-decree.html) (2025-09-29)
+- [Primer on FedEx's Distribution Network (2024)](https://ontheseams.substack.com/p/a-brief-primer-on-fedexs-distribution) (2025-09-29)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Study Bud: AI-Powered Learning Companion](https://dev.to/anurajbhaskar47/study-bud-ai-powered-learning-companion-22io) (2025-09-29)
-- [What is a Network Topology? (Explained Like You're Five… But Cooler)](https://dev.to/araiznaqvi/what-is-a-network-topology-explained-like-youre-five-but-cooler-3pep) (2025-09-29)
-- [Shuttering Sheltah](https://dev.to/hmcodes/final-thoughts-a3h) (2025-09-29)
-- [There is no prompt; we are gonna try to make this interesting.](https://dev.to/francis_galarza_3f4d79a87/there-is-no-prompt-we-are-gonna-try-to-make-this-interesting-38fp) (2025-09-29)
-- [Next.js 배포할 때, CloudFront + S3 vs ECS 뭐가 다를까?](https://dev.to/maya_lee/nextjs-baepohal-ddae-cloudfront-s3-vs-ecs-mweoga-dareulgga-2kl7) (2025-09-29)
+- [Building Dynamic Skeleton Loaders in React the Easy Way](https://dev.to/sinan_mp_dc8f4d9a51b63c29/building-dynamic-skeleton-loaders-in-react-the-easy-way-1fae) (2025-09-29)
+- [My understanding of microservices was totally wrong](https://dev.to/rohan_mhadgut_10/my-understanding-of-microservices-was-totally-wrong-j9) (2025-09-29)
+- [How to future-proof your web app's password authentication](https://dev.to/tidefoundation/how-to-future-proof-your-web-apps-password-authentication-3oh3) (2025-09-29)
+- [Why End-to-End Encryption Makes Password Managers Truly Secure](https://dev.to/rahul_sharma_15bd129bc69e/why-end-to-end-encryption-makes-password-managers-truly-secure-13ca) (2025-09-29)
+- [Beyond “opens”: what signals show a doc actually landed?](https://dev.to/howard_shaw_3c36a3a6cb900/beyond-opens-what-signals-show-a-doc-actually-landed-4a7) (2025-09-29)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmbcxzzfvb25/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-0f83858b7e22?source=rss------programming-5) (2025-09-29)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmbvxxcv22m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-c35b2b95ce34?source=rss------programming-5) (2025-09-29)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmbvxxcv22m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-7c25c769283b?source=rss------programming-5) (2025-09-29)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmbvxxcv22m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e4291c8dd5ce?source=rss------programming-5) (2025-09-29)
-- [09370673570شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@mmbvcddcv23/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-c555c7335253?source=rss------programming-5) (2025-09-29)
+- [I Wrote an Audio Plugin in Fortran and Maybe You Should Too?](https://medium.com/@me_85668/i-wrote-an-audio-plugin-in-fortran-and-maybe-you-should-too-d24e1b0e4fff?source=rss------programming-5) (2025-09-29)
+- [Attention is All You Need: Explained Like You’re 12](https://mayur-ds.medium.com/attention-is-all-you-need-explained-like-youre-12-5bfa15b6a038?source=rss------programming-5) (2025-09-29)
+- [ Advanced Flutter in 2025: Building Adaptive and Ultra-Responsive Cross-Platform Apps with…](https://medium.com/@TheEnaModernCoder/advanced-flutter-in-2025-building-adaptive-and-ultra-responsive-cross-platform-apps-with-5493f601db94?source=rss------programming-5) (2025-09-29)
+- [ Advanced React Native Tips in 2025: Building Performant and Maintainable Cross-Platform Mobile…](https://medium.com/@theHackHabitual/advanced-react-native-tips-in-2025-building-performant-and-maintainable-cross-platform-mobile-81a29b75d4e4?source=rss------programming-5) (2025-09-29)
+- [ The Hidden Bugs Behind var, let, and const — And How to Avoid Them in 2025](https://medium.com/@kapilanmanikandan2002/the-hidden-bugs-behind-var-let-and-const-and-how-to-avoid-them-in-2025-9ed50b4ac7a2?source=rss------programming-5) (2025-09-29)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.](https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/) (2025-09-25)
-- [Agent Factory: Designing the open agentic web stack](https://azure.microsoft.com/en-us/blog/agent-factory-designing-the-open-agentic-web-stack/) (2025-09-24)
 - [How Azure Cobalt 100 VMs are powering real-world solutions, delivering performance and efficiency results](https://azure.microsoft.com/en-us/blog/how-azure-cobalt-100-vms-are-powering-real-world-solutions-delivering-performance-and-efficiency-results/) (2025-09-23)
 - [Accelerate migration and modernization with agentic AI](https://azure.microsoft.com/en-us/blog/accelerate-migration-and-modernization-with-agentic-ai/) (2025-09-23)
 - [Inside the world’s most powerful AI datacenter](https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/) (2025-09-18)
+- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms ](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms/) (2025-09-18)
+- [Agent Factory: Creating a blueprint for safe and secure AI agents](https://azure.microsoft.com/en-us/blog/agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents/) (2025-09-17)
 
 </details>
 
@@ -513,11 +513,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/manage-list-of-safe-phone
 <details>
 <summary>💬 Slack API</summary>
 
+- [RACI Model Explained: Definition, Benefits, and How to Use It](https://slack.com/blog/productivity/raci-model-explained-definition-benefits-and-how-to-use-it) (2025-09-26)
+- [Enterprise Data Security: A Guide to Protecting Your Organization](https://slack.com/blog/transformation/enterprise-data-security-a-guide-to-protecting-your-organization) (2025-09-26)
+- [Why Every Modern Team Needs a Work OS](https://slack.com/blog/productivity/why-every-modern-team-needs-a-work-os) (2025-09-26)
 - [How to Choose the Right Communication Model for Every Team](https://slack.com/blog/collaboration/communication-model) (2025-09-24)
 - [Best Methods for Prioritizing Tasks and Projects at Work](https://slack.com/blog/productivity/best-methods-for-prioritizing-tasks-and-projects-at-work) (2025-09-24)
-- [Meet Channel Expert: Your Always-On Agent in Slack](https://slack.com/blog/news/channel-expert) (2025-09-24)
-- [The AI Workforce: What It Is and How It Can Help Your Team](https://slack.com/blog/productivity/ai-workforce-what-it-is-and-how-it-can-help-your-team) (2025-09-23)
-- [What Is Virtual Work, and How Can It Benefit You?](https://slack.com/blog/collaboration/what-is-virtual-work-and-how-can-it-benefit-you) (2025-09-23)
 
 </details>
 
