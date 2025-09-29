@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Honda and Astrobotic team up to keep the lights on through the long lunar night](https://techcrunch.com/2025/09/29/honda-and-astrobotic-team-up-to-keep-the-lights-on-through-the-long-lunar-night/) (2025-09-29)
+- [Instagram is testing a Reels-first UI in India and South Korea](https://techcrunch.com/2025/09/29/instagram-is-testing-a-reels-first-ui-in-india-and-south-korea/) (2025-09-29)
+- [X says will fight Indian court ruling on content takedown system](https://techcrunch.com/2025/09/29/x-says-will-fight-indian-court-ruling-on-content-takedown-system/) (2025-09-29)
+- [Former Microsoft execs launch AI agents to end Excel-led finance](https://techcrunch.com/2025/09/29/former-microsoft-executives-launch-ai-agents-to-end-excel-driven-finance-for-mid-market-enterprise-businesses/) (2025-09-29)
 - [Paid, the AI agent ‘results-based billing’ startup from Manny Medina, raises huge $21M seed](https://techcrunch.com/2025/09/28/paid-the-ai-agent-results-based-billing-startup-from-manny-medina-raises-huge-21m-seed/) (2025-09-29)
-- [The AI services transformation may be harder than VCs think](https://techcrunch.com/2025/09/28/the-ai-services-transformation-may-be-harder-than-vcs-think/) (2025-09-29)
-- [Oura CEO talks potential IPO and ‘nonnegotiable’ data privacy](https://techcrunch.com/2025/09/28/oura-ceo-talks-potential-ipo-and-nonnegotiable-data-privacy/) (2025-09-28)
-- [DJI loses lawsuit over classification as Chinese military company](https://techcrunch.com/2025/09/28/dji-loses-lawsuit-over-classification-as-chinese-military-company/) (2025-09-28)
-- [The billion-dollar infrastructure deals powering the AI boom](https://techcrunch.com/2025/09/28/the-billion-dollar-infrastructure-deals-powering-the-ai-boom/) (2025-09-28)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Zero ASIC releases Wildebeest, the highest performance FPGA synthesis tool](https://www.zeroasic.com/blog/wildebeest-launch) (2025-09-29)
-- [High-Level Synthesis Synthesis](https://stefanabikaram.com/writing/hls-synthesis/) (2025-09-29)
-- [The elusive roots of rosin potatoes (2022)](https://bittersoutherner.com/feature/2022/the-elusive-roots-of-rosin-potatoes) (2025-09-29)
-- [F-Droid and Google's Developer Registration Decree](https://f-droid.org/2025/09/29/google-developer-registration-decree.html) (2025-09-29)
-- [Primer on FedEx's Distribution Network (2024)](https://ontheseams.substack.com/p/a-brief-primer-on-fedexs-distribution) (2025-09-29)
+- [Tuning async IO in PostgreSQL 18](https://vondra.me/posts/tuning-aio-in-postgresql-18/) (2025-09-29)
+- [What if I don't want videos of my hobby time available to the world?](https://neilzone.co.uk/2025/09/what-if-i-dont-want-videos-of-my-hobby-time-available-to-the-entire-world/) (2025-09-29)
+- [DeepSeek-v3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp) (2025-09-29)
+- [Avalanche Studios NYC Retrospective – An Ambitious Company Ruined](https://probablydance.com/2025/09/28/avalanche-studios-nyc-retrospective-an-ambitious-company-ruined-by-bad-development-practices/) (2025-09-29)
+- [Optimizing a 6502 image decoder, from 70 minutes to 1 minute](https://www.colino.net/wordpress/en/archives/2025/09/28/optimizing-a-6502-image-decoder-from-70-minutes-to-1-minute/) (2025-09-29)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [CMF’s first over-ear headphones have a slider for boosting bass and treble](https://www.theverge.com/news/786552/cmf-headphone-pro-nothing-anc-energy-slider-volume-wheel) (2025-09-29)
 - [Apple&#8217;s &#8216;Veritas&#8217; chatbot is reportedly an employee-only test of Siri&#8217;s AI upgrades](https://www.theverge.com/news/787046/apples-veritas-siri-ai-chatbot) (2025-09-28)
 - [Larry Ellison’s quest to run the world](https://www.theverge.com/tech/787051/larry-ellison-tiktok-quest-to-run-the-world) (2025-09-28)
 - [Trump posts, then pulls bizarre AI video promoting MedBed conspiracy](https://www.theverge.com/news/787042/trump-posts-then-pulls-bizarre-ai-video-promoting-medbed-conspiracy) (2025-09-28)
 - [I spent three months with Telly, the free TV that&#8217;s always showing ads](https://www.theverge.com/televisions/777588/telly-tv-hands-on-ads) (2025-09-28)
-- [Good news: TechWoven is fine](https://www.theverge.com/tech/786161/techwoven-case-iphone-17-pro) (2025-09-28)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [ZR1, GTD, and America’s new Nurburgring war](https://arstechnica.com/cars/2025/09/zr1-gtd-and-americas-new-nurburgring-war/) (2025-09-29)
 - [30 years later, I’m still obliterating planets in Master of Orion II—and you can, too](https://arstechnica.com/gaming/2025/09/30-years-later-im-still-obliterating-planets-in-master-of-orion-ii-and-you-can-too/) (2025-09-28)
 - [150 million-year-old pterosaur cold case has finally been solved](https://arstechnica.com/science/2025/09/150-million-year-old-pterosaur-cold-case-has-finally-been-solved/) (2025-09-28)
 - [The current war on science, and who’s behind it](https://arstechnica.com/science/2025/09/who-should-we-blame-for-the-current-war-on-science/) (2025-09-27)
 - [Why LA Comic Con thought making an AI-powered Stan Lee hologram was a good idea](https://arstechnica.com/ai/2025/09/why-la-comic-con-thought-making-an-ai-powered-stan-lee-hologram-was-a-good-idea/) (2025-09-27)
-- [Can AI detect hedgehogs from space? Maybe if you find brambles first.](https://arstechnica.com/ai/2025/09/can-ai-detect-hedgehogs-from-space-maybe-if-you-find-brambles-first/) (2025-09-26)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: AI to detect child abuse images, and what to expect from our 2025 Climate Tech Companies to Watch list](https://www.technologyreview.com/2025/09/29/1124465/the-download-ai-to-detect-child-abuse-images-and-what-to-expect-from-our-2025-climate-tech-companies-to-watch-list/) (2025-09-29)
+- [Coming soon: Our 2025 list of Climate Tech Companies to Watch](https://www.technologyreview.com/2025/09/29/1124055/2025-climate-tech-companies-to-watch-preview/) (2025-09-29)
 - [US investigators are using AI to detect child abuse images made by AI](https://www.technologyreview.com/2025/09/26/1124343/us-investigators-are-using-ai-to-detect-child-abuse-images-made-by-ai/) (2025-09-26)
 - [The Download: shoplifter-chasing drones, and Trump’s TikTok deal](https://www.technologyreview.com/2025/09/26/1124253/the-download-shoplifter-chasing-drones-and-trumps-tiktok-deal/) (2025-09-26)
 - [Shoplifters could soon be chased down by drones](https://www.technologyreview.com/2025/09/25/1124088/shoplifters-could-soon-be-chased-down-by-drones/) (2025-09-25)
-- [The Download: growing threats to vulnerable languages, and fact-checking Trump’s medical claims](https://www.technologyreview.com/2025/09/25/1124079/the-download-threats-vulnerable-languages-and-trump-medical-claims/) (2025-09-25)
-- [Fusion power plants don’t exist yet, but they’re making money anyway](https://www.technologyreview.com/2025/09/25/1124050/fusion-future-funding/) (2025-09-25)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building Dynamic Skeleton Loaders in React the Easy Way](https://dev.to/sinan_mp_dc8f4d9a51b63c29/building-dynamic-skeleton-loaders-in-react-the-easy-way-1fae) (2025-09-29)
-- [My understanding of microservices was totally wrong](https://dev.to/rohan_mhadgut_10/my-understanding-of-microservices-was-totally-wrong-j9) (2025-09-29)
-- [How to future-proof your web app's password authentication](https://dev.to/tidefoundation/how-to-future-proof-your-web-apps-password-authentication-3oh3) (2025-09-29)
-- [Why End-to-End Encryption Makes Password Managers Truly Secure](https://dev.to/rahul_sharma_15bd129bc69e/why-end-to-end-encryption-makes-password-managers-truly-secure-13ca) (2025-09-29)
-- [Beyond “opens”: what signals show a doc actually landed?](https://dev.to/howard_shaw_3c36a3a6cb900/beyond-opens-what-signals-show-a-doc-actually-landed-4a7) (2025-09-29)
+- [Frontend Mentor's Contact form challenge built with Elm](https://dev.to/dwayne/frontend-mentors-contact-form-challenge-built-with-elm-47ig) (2025-09-29)
+- [RustyBoot-RISCV - A bare metal Boot-loader in Rust](https://dev.to/kushalmeghani1644/rustyboot-riscv-a-bare-metal-boot-loader-in-rust-171g) (2025-09-29)
+- [Integrating Groq with Google ADK using LiteLLM](https://dev.to/mmtq/integrating-groq-with-google-adk-using-litellm-50me) (2025-09-29)
+- [Benefits of Neem: Nature’s Gift for Healthy Skin](https://dev.to/lilymin_organic_762ebc085/benefits-of-neem-natures-gift-for-healthy-skin-26b7) (2025-09-29)
+- [I Built an AI Meme Generator to Be Cheaper and Faster with a Frontend Hack](https://dev.to/hemant_manwani_4a460bde7a/i-built-an-ai-meme-generator-to-be-cheaper-and-faster-with-a-frontend-hack-3ggn) (2025-09-29)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Wrote an Audio Plugin in Fortran and Maybe You Should Too?](https://medium.com/@me_85668/i-wrote-an-audio-plugin-in-fortran-and-maybe-you-should-too-d24e1b0e4fff?source=rss------programming-5) (2025-09-29)
-- [Attention is All You Need: Explained Like You’re 12](https://mayur-ds.medium.com/attention-is-all-you-need-explained-like-youre-12-5bfa15b6a038?source=rss------programming-5) (2025-09-29)
-- [ Advanced Flutter in 2025: Building Adaptive and Ultra-Responsive Cross-Platform Apps with…](https://medium.com/@TheEnaModernCoder/advanced-flutter-in-2025-building-adaptive-and-ultra-responsive-cross-platform-apps-with-5493f601db94?source=rss------programming-5) (2025-09-29)
-- [ Advanced React Native Tips in 2025: Building Performant and Maintainable Cross-Platform Mobile…](https://medium.com/@theHackHabitual/advanced-react-native-tips-in-2025-building-performant-and-maintainable-cross-platform-mobile-81a29b75d4e4?source=rss------programming-5) (2025-09-29)
-- [ The Hidden Bugs Behind var, let, and const — And How to Avoid Them in 2025](https://medium.com/@kapilanmanikandan2002/the-hidden-bugs-behind-var-let-and-const-and-how-to-avoid-them-in-2025-9ed50b4ac7a2?source=rss------programming-5) (2025-09-29)
+- [Transform Power BI Reports into Interactive Action Hubs](https://medium.com/microsoft-power-bi/transform-power-bi-reports-into-interactive-action-hubs-ca5f0397126d?source=rss------programming-5) (2025-09-29)
+- [5 Data Storytelling Secrets That Turn Analysts Into Decision-Makers](https://medium.com/microsoft-power-bi/5-data-storytelling-secrets-that-turn-analysts-into-decision-makers-25e71d78cc7c?source=rss------programming-5) (2025-09-29)
+- [Common SQL Mistakes That Even Experienced Developers Make](https://medium.com/h7w/common-sql-mistakes-that-even-experienced-developers-make-e8c0ae804956?source=rss------programming-5) (2025-09-29)
+- [How to Use AI to Learn Coding Faster (Without Becoming Dependent on It)](https://medium.com/write-a-catalyst/how-to-use-ai-to-learn-coding-faster-without-becoming-dependent-on-it-a3ace39c70b6?source=rss------programming-5) (2025-09-29)
+- [Bandit | Level 0 | OverTheWire-Writeup …](https://cybersecuritywriteups.com/bandit-level-0-overthewire-writeup-72e649f64bd9?source=rss------programming-5) (2025-09-29)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.](https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/) (2025-09-25)
+- [Agent Factory: Designing the open agentic web stack](https://azure.microsoft.com/en-us/blog/agent-factory-designing-the-open-agentic-web-stack/) (2025-09-24)
 - [How Azure Cobalt 100 VMs are powering real-world solutions, delivering performance and efficiency results](https://azure.microsoft.com/en-us/blog/how-azure-cobalt-100-vms-are-powering-real-world-solutions-delivering-performance-and-efficiency-results/) (2025-09-23)
 - [Accelerate migration and modernization with agentic AI](https://azure.microsoft.com/en-us/blog/accelerate-migration-and-modernization-with-agentic-ai/) (2025-09-23)
 - [Inside the world’s most powerful AI datacenter](https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/) (2025-09-18)
-- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms ](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms/) (2025-09-18)
-- [Agent Factory: Creating a blueprint for safe and secure AI agents](https://azure.microsoft.com/en-us/blog/agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents/) (2025-09-17)
 
 </details>
 
@@ -557,44 +557,44 @@ https://www.twilio.com/en-us/blog/developers/tutorials/manage-list-of-safe-phone
 <details>
 <summary>🤖 AI News</summary>
 
+- [Huawei details open-source AI development roadmap at Huawei Connect 2025](https://www.artificialintelligence-news.com/news/huawei-open-source-ai-development-platform-technical-specs/) (2025-09-29)
 - [CAMIA privacy attack reveals what AI models memorise](https://www.artificialintelligence-news.com/news/camia-privacy-attack-reveals-what-ai-models-memorise/) (2025-09-26)
 - [Ethical cybersecurity practice reshapes enterprise security in 2025](https://www.artificialintelligence-news.com/news/manageengine-ethical-cybersecurity-2025/) (2025-09-26)
 - [Samsung benchmarks real productivity of enterprise AI models](https://www.artificialintelligence-news.com/news/samsung-benchmarks-real-productivity-enterprise-ai-models/) (2025-09-25)
 - [Inside Huawei’s plan to make thousands of AI chips think like one computer](https://www.artificialintelligence-news.com/news/huawei-ai-chips-superpod-technology/) (2025-09-25)
-- [Generative AI in retail: Adoption comes at high security cost](https://www.artificialintelligence-news.com/news/generative-ai-in-retail-adoption-high-security-cost/) (2025-09-24)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [MCP in Practice](https://towardsdatascience.com/mcp-in-practice/) (2025-09-29)
 - [Eulerian Melodies: Graph Algorithms for Music Composition](https://towardsdatascience.com/eulerian-melodies-graph-algorithms-for-music-composition/) (2025-09-28)
 - [Learning Triton One Kernel At a Time: Vector Addition](https://towardsdatascience.com/learning-triton-one-kernel-at-a-time-vector-addition/) (2025-09-27)
 - [What Clients Really Ask for in AI Projects](https://towardsdatascience.com/what-clients-really-ask-for-in-ai-projects/) (2025-09-27)
 - [Building Fact-Checking Systems: Catching Repeating False Claims Before They Spread](https://towardsdatascience.com/building-fact-checking-systems-catching-repeating-false-claims-before-they-spread/) (2025-09-26)
-- [Why MissForest Fails in Prediction Tasks: A Key Limitation You Need to Keep in Mind](https://towardsdatascience.com/why-missforest-fails-in-prediction-tasks-a-key-limitation-you-need-to-know/) (2025-09-26)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [RIP, Data Scientists!](https://www.analyticsvidhya.com/blog/2025/09/rip-data-scientists/) (2025-09-29)
+- [7 Practical Techniques to Reduce LLM Hallucinations](https://www.analyticsvidhya.com/blog/2025/09/reducing-hallucinations-in-llms/) (2025-09-29)
+- [Top 5 AI Smartphones to Buy in 2025: iPhone 17 Pro, Galaxy S25 Ultra and More](https://www.analyticsvidhya.com/blog/2025/09/ai-smartphones-to-buy-2025/) (2025-09-28)
 - [4 LLM Compression Techniques to Make Models Smaller and Faster](https://www.analyticsvidhya.com/blog/2025/09/llm-compression-techniques/) (2025-09-28)
 - [Build Your Own Comic Generator using OpenAI + Gemini](https://www.analyticsvidhya.com/blog/2025/09/build-comic-generator-using-openai-gemini/) (2025-09-27)
-- [Wild ChatGPT “Pulse” Update Will Forever Change the Way You Use AI](https://www.analyticsvidhya.com/blog/2025/09/chatgpt-pulse-update-ai/) (2025-09-26)
-- [Guide to Host your Resume on your Own Static Website](https://www.analyticsvidhya.com/blog/2025/09/host-resume-on-website/) (2025-09-26)
-- [Integrating Monte Carlo Simulation in Excel for Risk Modeling using Python](https://www.analyticsvidhya.com/blog/2025/09/python-monte-carlo-simulation-in-excel/) (2025-09-26)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Python for Data Science (Free 7-Day Mini-Course)](https://www.kdnuggets.com/python-for-data-science-free-7-day-mini-course) (2025-09-29)
 - [Building Machine Learning Application with Django](https://www.kdnuggets.com/building-machine-learning-application-with-django) (2025-09-26)
 - [Nano Banana Practical Prompting & Usage Guide](https://www.kdnuggets.com/nano-banana-practical-prompting-usage-guide) (2025-09-26)
 - [What Is Big Tech’s Influence on AI Development?](https://www.kdnuggets.com/2025/09/what-is-big-techs-influence-on-ai-development) (2025-09-25)
 - [How to Build and Publish a Docker Image to Docker Hub](https://www.kdnuggets.com/how-to-build-and-publish-a-docker-image-to-docker-hub) (2025-09-25)
-- [10 Useful Python One-Liners for Data Engineering](https://www.kdnuggets.com/10-useful-python-one-liners-for-data-engineering) (2025-09-25)
 
 </details>
 
