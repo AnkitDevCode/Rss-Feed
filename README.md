@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Notion Capital raises $130M growth fund to tackle Europe’s follow-on gap](https://techcrunch.com/2025/09/29/notion-capital-raises-130m-growth-fund-to-tackle-europes-follow-on-gap/) (2025-09-30)
-- [California Governor Newsom signs landmark AI safety bill SB 53](https://techcrunch.com/2025/09/29/california-governor-newsom-signs-landmark-ai-safety-bill-sb-53/) (2025-09-29)
-- [Frank founder Charlie Javice sentenced to 7 years in prison for defrauding JPMorgan Chase](https://techcrunch.com/2025/09/29/frank-founder-charlie-javice-sentenced-to-7-years-in-prison-for-defrauding-jpmorgan-chase/) (2025-09-29)
-- [DeepSeek: Everything you need to know about the AI chatbot app](https://techcrunch.com/2025/09/29/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/) (2025-09-29)
-- [Explosion, vehicle fire rock Faraday Future’s LA headquarters](https://techcrunch.com/2025/09/29/explosion-vehicle-fire-rock-faraday-futures-la-headquarters/) (2025-09-29)
+- [Nothing launches AI tool for building mini apps using prompts](https://techcrunch.com/2025/09/30/nothing-launches-ai-tool-for-building-mini-apps-using-prompts/) (2025-09-30)
+- [Spotify’s founder and CEO Daniel Ek is stepping down](https://techcrunch.com/2025/09/30/spotifys-founder-and-ceo-daniel-ek-is-stepping-down/) (2025-09-30)
+- [Hinge is taking a fairer approach to account banning](https://techcrunch.com/2025/09/30/hinge-is-taking-a-fairer-approach-to-account-banning/) (2025-09-30)
+- [Whoop opens blood-testing service to what it says is a 350,000-person waitlist](https://techcrunch.com/2025/09/30/whoop-opens-its-blood-testing-service-to-350000-on-wait-list/) (2025-09-30)
+- [Opera launches its AI-centric Neon browser](https://techcrunch.com/2025/09/30/opera-launches-its-ai-centric-neon-browser/) (2025-09-30)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [AI tools I wish existed](https://sharif.io/28-ideas-2025) (2025-09-30)
-- [Show HN: Devbox – Containers for better dev environments](https://devbox.ar0.eu/) (2025-09-30)
-- [Awakening Bell](https://awakeningbell.org/) (2025-09-30)
-- [FAA decides it trusts Boeing enough to certify safety of its own planes again](https://www.theregister.com/2025/09/29/faa_decides_it_trusts_boeing/) (2025-09-29)
-- [How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial) (2025-09-29)
+- [Airgoods (YC S23) Is Hiring](https://airgoods.com/careers?utm_source=hacker_news) (2025-09-30)
+- [Intel's original 64bit extensions for x86](https://soc.me/interfaces/intels-original-64bit-extensions-for-x86.html) (2025-09-30)
+- [Apple HomeKit – The Long Con](https://www.naut.ca/blog/2025/08/29/apple-homekit-the-long-con/) (2025-09-30)
+- [Using the TPDE Codegen Back End in LLVM Orc](https://weliveindetail.github.io/blog/post/2025/09/30/tpde-in-llvm-orc.html) (2025-09-30)
+- [Comprehension Debt: The Ticking Time Bomb of LLM-Generated Code](https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/) (2025-09-30)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Here are 55 great deals you can snag ahead of Amazon&#8217;s fall Prime Day event](https://www.theverge.com/tech/783008/amazon-october-prime-day-sale-best-early-deals-2025) (2025-09-29)
-- [YouTube caves to Trump with $24.5 million settlement](https://www.theverge.com/news/787932/youtube-trump-ban-lawsuit-settlement) (2025-09-29)
-- [SB 53, the landmark AI transparency bill, is now law in California](https://www.theverge.com/ai-artificial-intelligence/787918/sb-53-the-landmark-ai-transparency-bill-is-now-law-in-california) (2025-09-29)
-- [Microsoft is bringing its Windows engineering teams back together again](https://www.theverge.com/report/787796/microsoft-windows-reorg-single-engineering-team-changes) (2025-09-29)
-- [Tile&#8217;s lack of encryption could make tracker owners vulnerable to stalking](https://www.theverge.com/news/787836/tile-trackers-stalking-research-unencrypted) (2025-09-29)
+- [The EV tax credit is dead — here’s what happens next](https://www.theverge.com/transportation/787281/ev-tax-credit-sales-lease-trump-climate) (2025-09-30)
+- [Nothing’s ‘first step’ to an &#8216;AI OS&#8217; is not first, or an OS, but is fascinating](https://www.theverge.com/news/788242/nothing-ai-os-essential-apps-playground) (2025-09-30)
+- [Spotify founder Daniel Ek is stepping down as CEO](https://www.theverge.com/news/788278/spotify-founder-daniel-ek-stepping-down-ceo-executive-chairman) (2025-09-30)
+- [Garmin’s eTrex Touch navigator can go almost a month without charging](https://www.theverge.com/news/788213/garmins-etrex-touch-navigator-can-go-almost-a-month-without-charging) (2025-09-30)
+- [Opera launches its AI browser, but you&#8217;ll have to pay to try it](https://www.theverge.com/news/787707/opera-neon-ai-browser-launch-monthly-cost) (2025-09-30)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Scientists unlock secret to Venus flytrap’s hair-trigger response](https://arstechnica.com/science/2025/09/scientists-unlock-secret-to-venus-flytraps-hair-trigger-response/) (2025-09-30)
 - [Trump obtains another settlement as YouTube agrees to pay $24.5 million](https://arstechnica.com/tech-policy/2025/09/youtube-pays-24-5m-to-settle-trump-lawsuit-over-january-2021-suspension/) (2025-09-29)
 - [Another setback for Firefly Aerospace’s beleaguered rocket program](https://arstechnica.com/space/2025/09/after-another-fiery-setback-it-seems-fireflys-alpha-rocket-is-still-in-beta/) (2025-09-29)
 - [Anthropic says its new AI model “maintained focus” for 30 hours on multistep tasks](https://arstechnica.com/ai/2025/09/anthropic-says-its-new-ai-model-maintained-focus-for-30-hours-on-multistep-tasks/) (2025-09-29)
 - [Sports piracy site Streameast returns after US government let domain expire](https://arstechnica.com/gadgets/2025/09/sports-piracy-site-streameast-returns-after-us-government-let-domain-expire/) (2025-09-29)
-- [EA will be a very different company under private ownership](https://arstechnica.com/gaming/2025/09/how-private-ownership-will-change-electronic-arts/) (2025-09-29)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The US may be heading toward a drone-filled future](https://www.technologyreview.com/2025/09/30/1124470/the-us-may-be-heading-toward-a-drone-filled-future/) (2025-09-30)
+- [Scientists can see Earth’s permafrost thawing from space](https://www.technologyreview.com/2025/09/30/1124548/scientists-see-permafrost-thawing-from-space/) (2025-09-30)
+- [Delivering a digital sixth sense with next-generation networks](https://www.technologyreview.com/2025/09/30/1124259/delivering-a-digital-sixth-sense-with-next-generation-networks/) (2025-09-30)
 - [The Download: AI to detect child abuse images, and what to expect from our 2025 Climate Tech Companies to Watch list](https://www.technologyreview.com/2025/09/29/1124465/the-download-ai-to-detect-child-abuse-images-and-what-to-expect-from-our-2025-climate-tech-companies-to-watch-list/) (2025-09-29)
 - [Coming soon: Our 2025 list of Climate Tech Companies to Watch](https://www.technologyreview.com/2025/09/29/1124055/2025-climate-tech-companies-to-watch-preview/) (2025-09-29)
-- [US investigators are using AI to detect child abuse images made by AI](https://www.technologyreview.com/2025/09/26/1124343/us-investigators-are-using-ai-to-detect-child-abuse-images-made-by-ai/) (2025-09-26)
-- [The Download: shoplifter-chasing drones, and Trump’s TikTok deal](https://www.technologyreview.com/2025/09/26/1124253/the-download-shoplifter-chasing-drones-and-trumps-tiktok-deal/) (2025-09-26)
-- [Shoplifters could soon be chased down by drones](https://www.technologyreview.com/2025/09/25/1124088/shoplifters-could-soon-be-chased-down-by-drones/) (2025-09-25)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [🚀 The Ultimate Algorithms & Data Structures Cheat Sheet Collection](https://dev.to/harsh8088/the-ultimate-algorithms-data-structures-cheat-sheet-collection-2p2k) (2025-09-30)
-- [¿El futuro del modelado es la IA o la especialización?](https://dev.to/yomero243/el-futuro-del-modelado-es-la-ia-o-la-especializacion-240b) (2025-09-30)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-5953) (2025-09-30)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-1c5c) (2025-09-30)
-- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-551f) (2025-09-30)
+- [Why Small Language Models (SLM) Are the Secret Weapon of Scalable AI?](https://dev.to/aiwaaligirl/why-small-language-models-slm-are-the-secret-weapon-of-scalable-ai-3k8f) (2025-09-30)
+- [ALB & SNI (Server Name Indication)](https://dev.to/wakeup_flower_8591a6cb6a9/alb-sni-server-name-indication-n54) (2025-09-30)
+- [Don’t Let Cyber Risk Kill Your GenAI Vibe: A Developer’s Guide](https://dev.to/mkdev/dont-let-cyber-risk-kill-your-genai-vibe-a-developers-guide-1lbf) (2025-09-30)
+- [Combating Dual Diagnosis: How Moriah Behavioral Health Treats Mood & Substance Disorders Simultaneously](https://dev.to/moriah_behavioralhealth_/combating-dual-diagnosis-how-moriah-behavioral-health-treats-mood-substance-disorders-44in) (2025-09-30)
+- [EventBridge asynchronously decouple a SaaS application](https://dev.to/wakeup_flower_8591a6cb6a9/eventbridge-asynchronously-decouple-a-saas-application-1j81) (2025-09-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How Edge Computing Is Secretly Decentralizing the Internet](https://medium.com/@sohail_saifii/how-edge-computing-is-secretly-decentralizing-the-internet-f34cf9ef9a43?source=rss------programming-5) (2025-09-30)
-- [6 Skills That Make Data Engineers Unstoppable](https://medium.com/@vijaygadhave2014/6-skills-that-make-data-engineers-unstoppable-5bb953314de3?source=rss------programming-5) (2025-09-30)
-- [ Mastering the Node.js Event Loop & Asynchronous Programming](https://medium.com/@MissLucina/mastering-the-node-js-event-loop-asynchronous-programming-ca6af097fa95?source=rss------programming-5) (2025-09-30)
-- [Java Design Patterns Cheat Sheet](https://medium.com/mind-meets-machine/java-design-patterns-cheat-sheet-41e240661e28?source=rss------programming-5) (2025-09-30)
-- [ Advanced Next.js Topic — Server Actions in Next.js 13+ (The Future of Fullstack Development)](https://medium.com/@Sofia07/advanced-next-js-topic-server-actions-in-next-js-13-the-future-of-fullstack-development-ad2e09bfb6ed?source=rss------programming-5) (2025-09-30)
+- [ Advanced Node.js Tips for Scalable, Modern Backends](https://medium.com/@theHackHabitual/advanced-node-js-tips-for-scalable-modern-backends-5e56052a2bd1?source=rss------programming-5) (2025-09-30)
+- [09363843642شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز شماره خاله اهواز شماره خاله لاهیجان…](https://medium.com/@iwiaisuyzhzhzhsushzyz/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86-ae0bbe179e0b?source=rss------programming-5) (2025-09-30)
+- [09363843642شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز شماره خاله اهواز شماره خاله لاهیجان…](https://medium.com/@iwiaisuyzhzhzhsushzyz/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86-237dae6e13ab?source=rss------programming-5) (2025-09-30)
+- [09363843642شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز شماره خاله اهواز شماره خاله لاهیجان…](https://medium.com/@iwiaisuyzhzhzhsushzyz/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%84%D8%A7%D9%87%DB%8C%D8%AC%D8%A7%D9%86-d191090cd369?source=rss------programming-5) (2025-09-30)
+- [DROSERA NETWORK: BUILDING THE IMMUNE SYSTEM FOR ETHEREUM](https://medium.com/@joyj50232/drosera-network-building-the-immune-system-for-ethereum-428ec0df655a?source=rss------programming-5) (2025-09-30)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Better AI Depends on Better Data: We Need Your Help](https://blog.jetbrains.com/blog/2025/09/30/detailed-data-sharing-for-better-ai/) (2025-09-30)
+- [Updates to TeamCity On-Premises Renewal Pricing](https://blog.jetbrains.com/teamcity/2025/09/updates-to-teamcity-on-premises-renewal-pricing/) (2025-09-30)
 - [Introducing Claude Agent in JetBrains IDEs](https://blog.jetbrains.com/ai/2025/09/introducing-claude-agent-in-jetbrains-ides/) (2025-09-29)
 - [“I tried out JetBrains’ code analysis tool Qodana”](https://blog.jetbrains.com/qodana/2025/09/i-tried-out-jetbrains-code-analysis-tool-qodana/) (2025-09-29)
 - [How Java Open-Source Projects Use IntelliJ IDEA: Real-World Examples – Part 2](https://blog.jetbrains.com/blog/2025/09/26/how-java-open-source-projects-use-intellij-idea-real-world-examples-part-2/) (2025-09-26)
-- [Continuing Positive Impact: This Year’s AI4SE Interns in their New Roles at JetBrains](https://blog.jetbrains.com/research/2025/09/ai4se-interns-employees-part-2/) (2025-09-25)
-- [Rider Roadmap: What to Expect From the Upcoming Updates and Releases](https://blog.jetbrains.com/dotnet/2025/09/25/rider-rider-roadmap-2025-3/) (2025-09-25)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Nationwide Internet shutdown in Afghanistan extends localized disruptions](https://blog.cloudflare.com/nationwide-internet-shutdown-in-afghanistan/) (2025-09-30)
 - [15 years of helping build a better Internet: a look back at Birthday Week 2025](https://blog.cloudflare.com/birthday-week-2025-wrap-up/) (2025-09-29)
 - [Cloudflare just got faster and more secure, powered by Rust](https://blog.cloudflare.com/20-percent-internet-upgrade/) (2025-09-26)
 - [Introducing Observatory and Smart Shield — see how the world sees your website, and make it faster in one click](https://blog.cloudflare.com/introducing-observatory-and-smart-shield/) (2025-09-26)
 - [Monitoring AS-SETs and why they matter](https://blog.cloudflare.com/monitoring-as-sets-and-why-they-matter/) (2025-09-26)
-- [An AI Index for all our customers](https://blog.cloudflare.com/an-ai-index-for-all-our-customers/) (2025-09-26)
 
 </details>
 
@@ -546,44 +546,44 @@ https://www.twilio.com/en-us/blog/developers/tutorials/manage-list-of-safe-phone
 <details>
 <summary>🤖 AI News</summary>
 
+- [The rise of algorithmic agriculture? AI steps in](https://www.artificialintelligence-news.com/news/the-rise-of-algorithmic-agriculture-ai-steps-in/) (2025-09-30)
+- [Inside Huawei’s Shanghai acoustics lab: Where automotive sound engineering meets science](https://www.artificialintelligence-news.com/news/huawei-automotive-sound-engineering-lab-shanghai/) (2025-09-30)
+- [Rising AI demands push Asia Pacific data centres to adapt, says Vertiv](https://www.artificialintelligence-news.com/news/rising-ai-demands-push-asia-pacific-data-centres-to-adapt/) (2025-09-30)
+- [Reply’s pre-built AI apps aim to fast-track AI adoption](https://www.artificialintelligence-news.com/news/replys-pre-built-ai-apps-aim-to-fast-track-ai-adoption/) (2025-09-30)
 - [Huawei details open-source AI development roadmap at Huawei Connect 2025](https://www.artificialintelligence-news.com/news/huawei-open-source-ai-development-platform-technical-specs/) (2025-09-29)
-- [CAMIA privacy attack reveals what AI models memorise](https://www.artificialintelligence-news.com/news/camia-privacy-attack-reveals-what-ai-models-memorise/) (2025-09-26)
-- [Ethical cybersecurity practice reshapes enterprise security in 2025](https://www.artificialintelligence-news.com/news/manageengine-ethical-cybersecurity-2025/) (2025-09-26)
-- [Samsung benchmarks real productivity of enterprise AI models](https://www.artificialintelligence-news.com/news/samsung-benchmarks-real-productivity-enterprise-ai-models/) (2025-09-25)
-- [Inside Huawei’s plan to make thousands of AI chips think like one computer](https://www.artificialintelligence-news.com/news/huawei-ai-chips-superpod-technology/) (2025-09-25)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Machine Learning Lessons I’ve Learned This Month](https://towardsdatascience.com/the-machine-learning-lessons-ive-learned-this-month/) (2025-09-30)
 - [Preparing Video Data for Deep Learning: Introducing Vid Prepper](https://towardsdatascience.com/introducing-vid-prepper/) (2025-09-29)
 - [I Made My AI Model 84% Smaller and It Got Better, Not Worse](https://towardsdatascience.com/i-made-my-ai-model-84-smaller-and-it-got-better-not-worse/) (2025-09-29)
 - [MCP in Practice](https://towardsdatascience.com/mcp-in-practice/) (2025-09-29)
 - [Eulerian Melodies: Graph Algorithms for Music Composition](https://towardsdatascience.com/eulerian-melodies-graph-algorithms-for-music-composition/) (2025-09-28)
-- [Learning Triton One Kernel At a Time: Vector Addition](https://towardsdatascience.com/learning-triton-one-kernel-at-a-time-vector-addition/) (2025-09-27)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Claude Sonnet 4.5: The New Coding King?](https://www.analyticsvidhya.com/blog/2025/09/claude-sonnet-4-5/) (2025-09-30)
 - [DeepSeek-V3.2-Exp: 50% Cheaper, 3x Faster, Maximum Value](https://www.analyticsvidhya.com/blog/2025/09/deepseek-v3-2-exp/) (2025-09-29)
 - [RIP, Data Scientists!](https://www.analyticsvidhya.com/blog/2025/09/rip-data-scientists/) (2025-09-29)
 - [7 Practical Techniques to Reduce LLM Hallucinations](https://www.analyticsvidhya.com/blog/2025/09/reducing-hallucinations-in-llms/) (2025-09-29)
 - [Top 5 AI Smartphones to Buy in 2025: iPhone 17 Pro, Galaxy S25 Ultra and More](https://www.analyticsvidhya.com/blog/2025/09/ai-smartphones-to-buy-2025/) (2025-09-28)
-- [4 LLM Compression Techniques to Make Models Smaller and Faster](https://www.analyticsvidhya.com/blog/2025/09/llm-compression-techniques/) (2025-09-28)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Exploring Metaclasses in Python: Unleashing the Power of Class Creation](https://www.kdnuggets.com/exploring-metaclasses-in-python-unleashing-the-power-of-class-creation) (2025-09-30)
 - [Debunking 5 Myths About Cloud Computing for Small Business (Sponsored)](https://usa.ingrammicro.com/cep/app/cms/en-us/General/guiding-tech#new_tab) (2025-09-29)
 - [The Algorithmic X-Men](https://www.kdnuggets.com/the-algorithmic-x-men) (2025-09-29)
 - [Python for Data Science (Free 7-Day Mini-Course)](https://www.kdnuggets.com/python-for-data-science-free-7-day-mini-course) (2025-09-29)
 - [Building Machine Learning Application with Django](https://www.kdnuggets.com/building-machine-learning-application-with-django) (2025-09-26)
-- [Nano Banana Practical Prompting & Usage Guide](https://www.kdnuggets.com/nano-banana-practical-prompting-usage-guide) (2025-09-26)
 
 </details>
 
