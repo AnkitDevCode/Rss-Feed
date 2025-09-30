@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Notion Capital raises $130M growth fund to tackle Europe’s follow-on gap](https://techcrunch.com/2025/09/29/notion-capital-raises-130m-growth-fund-to-tackle-europes-follow-on-gap/) (2025-09-30)
 - [California Governor Newsom signs landmark AI safety bill SB 53](https://techcrunch.com/2025/09/29/california-governor-newsom-signs-landmark-ai-safety-bill-sb-53/) (2025-09-29)
 - [Frank founder Charlie Javice sentenced to 7 years in prison for defrauding JPMorgan Chase](https://techcrunch.com/2025/09/29/frank-founder-charlie-javice-sentenced-to-7-years-in-prison-for-defrauding-jpmorgan-chase/) (2025-09-29)
 - [DeepSeek: Everything you need to know about the AI chatbot app](https://techcrunch.com/2025/09/29/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/) (2025-09-29)
 - [Explosion, vehicle fire rock Faraday Future’s LA headquarters](https://techcrunch.com/2025/09/29/explosion-vehicle-fire-rock-faraday-futures-la-headquarters/) (2025-09-29)
-- [AI recruiter Alex raises $17M to automate initial job interviews](https://techcrunch.com/2025/09/29/ai-recruiter-alex-raises-17m-to-automate-initial-job-interviews/) (2025-09-29)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [AI tools I wish existed](https://sharif.io/28-ideas-2025) (2025-09-30)
+- [Show HN: Devbox – Containers for better dev environments](https://devbox.ar0.eu/) (2025-09-30)
+- [Awakening Bell](https://awakeningbell.org/) (2025-09-30)
 - [FAA decides it trusts Boeing enough to certify safety of its own planes again](https://www.theregister.com/2025/09/29/faa_decides_it_trusts_boeing/) (2025-09-29)
-- [How to Create an OS from Scratch](https://github.com/cfenollosa/os-tutorial) (2025-09-29)
-- [Technology without humanity means nothing](https://moneo.com.tr/blog/technology-without-humanity-means-nothing) (2025-09-29)
-- [Google to merge Android and ChromeOS in 2026](https://www.theregister.com/2025/09/25/google_android_chromeos/) (2025-09-29)
-- [Jax: Fast Combinations Calculation](https://github.com/phoenicyan/combinadics) (2025-09-29)
+- [How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial) (2025-09-29)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [As your AI gets smarter, so must your API](https://stackoverflow.blog/2025/09/30/as-your-ai-gets-smarter-so-must-your-api/) (2025-09-30)
 - [Making your code base better will make your code coverage worse](https://stackoverflow.blog/2025/09/29/making-your-code-base-better-will-make-your-code-coverage-worse/) (2025-09-29)
 - [Getting Backstage in front of a shifting dev experience](https://stackoverflow.blog/2025/09/26/getting-backstage-in-front-of-a-shifting-dev-experience/) (2025-09-26)
 - [The history and future of software development (part 1)](https://stackoverflow.blog/2025/09/24/the-history-and-future-of-software-development-part-1/) (2025-09-24)
 - [Democratizing your data access with AI agents](https://stackoverflow.blog/2025/09/23/democratizing-your-data-access-with-ai-agents/) (2025-09-23)
-- [Off with your CMS’s head! Composability and security in headless CMS](https://stackoverflow.blog/2025/09/19/off-with-your-cms-s-head-composability-and-security-in-headless-cms/) (2025-09-19)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Unlocking the Power of Developer Tools: Transforming Your Workflow with Modern Solutions](https://dev.to/mikeover/unlocking-the-power-of-developer-tools-transforming-your-workflow-with-modern-solutions-21d5) (2025-09-30)
-- [Slack Relay Agent — Swarm Alerts to Slack](https://dev.to/matrixswarm/slack-relay-agent-swarm-alerts-to-slack-1dp5) (2025-09-30)
-- [Radiomics in Breast Cancer – Part 1: Exploring the CBIS-DDSM Dataset](https://dev.to/helloerika__/radiomics-in-breast-cancer-part-1-exploring-the-cbis-ddsm-dataset-1ece) (2025-09-30)
-- [“Understanding REST APIs in Simple Terms”](https://dev.to/george_hany_899df0785b4fe/understanding-rest-apis-in-simple-terms-1129) (2025-09-30)
-- [Alpacon: Network Access and Resource Management (Part 1)](https://dev.to/baek/alpacon-network-access-and-resource-management-part-1-coo) (2025-09-30)
+- [🚀 The Ultimate Algorithms & Data Structures Cheat Sheet Collection](https://dev.to/harsh8088/the-ultimate-algorithms-data-structures-cheat-sheet-collection-2p2k) (2025-09-30)
+- [¿El futuro del modelado es la IA o la especialización?](https://dev.to/yomero243/el-futuro-del-modelado-es-la-ia-o-la-especializacion-240b) (2025-09-30)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-5953) (2025-09-30)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-1c5c) (2025-09-30)
+- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-551f) (2025-09-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Mastering Java Garbage Collection: A Complete Guide from Beginner to Expert](https://medium.com/@sunil17bbmp/mastering-java-garbage-collection-a-complete-guide-from-beginner-to-expert-0671846ff15f?source=rss------programming-5) (2025-09-30)
-- [09045080282شماره خاله اهواز by09045080282.شماره](https://medium.com/@kdnmbxgbxnn/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-by09045080282-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-71c839da9c77?source=rss------programming-5) (2025-09-30)
-- [Pengaruh Laptop ASUS TUF terhadap Perkembangan Teknologi dan Gaming](https://medium.com/@filipiii201107/pengaruh-laptop-asus-tuf-terhadap-perkembangan-teknologi-dan-gaming-dbc26b067f25?source=rss------programming-5) (2025-09-30)
-- [09045080282شماره خاله اهواز by09045080282.شماره](https://medium.com/@kdnmbxgbxnn/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-by09045080282-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-eb9d06fa2493?source=rss------programming-5) (2025-09-30)
-- [09045080282شماره خاله اهواز by09045080282.شماره](https://medium.com/@kdnmbxgbxnn/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-by09045080282-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-69c3f824de70?source=rss------programming-5) (2025-09-30)
+- [How Edge Computing Is Secretly Decentralizing the Internet](https://medium.com/@sohail_saifii/how-edge-computing-is-secretly-decentralizing-the-internet-f34cf9ef9a43?source=rss------programming-5) (2025-09-30)
+- [6 Skills That Make Data Engineers Unstoppable](https://medium.com/@vijaygadhave2014/6-skills-that-make-data-engineers-unstoppable-5bb953314de3?source=rss------programming-5) (2025-09-30)
+- [ Mastering the Node.js Event Loop & Asynchronous Programming](https://medium.com/@MissLucina/mastering-the-node-js-event-loop-asynchronous-programming-ca6af097fa95?source=rss------programming-5) (2025-09-30)
+- [Java Design Patterns Cheat Sheet](https://medium.com/mind-meets-machine/java-design-patterns-cheat-sheet-41e240661e28?source=rss------programming-5) (2025-09-30)
+- [ Advanced Next.js Topic — Server Actions in Next.js 13+ (The Future of Fullstack Development)](https://medium.com/@Sofia07/advanced-next-js-topic-server-actions-in-next-js-13-the-future-of-fullstack-development-ad2e09bfb6ed?source=rss------programming-5) (2025-09-30)
 
 </details>
 
