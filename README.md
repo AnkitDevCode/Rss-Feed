@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Vibe coding Anything nabs a $100M valuation, after hitting $2M ARR in its first two weeks](https://techcrunch.com/2025/09/29/vibe-coding-anything-nabs-a-100m-valuation-after-hitting-2m-arr-in-its-first-two-weeks/) (2025-09-29)
-- [Anthropic launches Claude Sonnet 4.5, its best AI model for coding](https://techcrunch.com/2025/09/29/anthropic-launches-claude-sonnet-4-5-its-best-ai-model-for-coding/) (2025-09-29)
-- [Brave updates its AI-powered search with a detailed answers feature](https://techcrunch.com/2025/09/29/brave-updates-its-ai-powered-search-with-a-detailed-answers-feature/) (2025-09-29)
-- [Trump’s Energy Department forbids staff from saying ‘climate change’ or ‘green’](https://techcrunch.com/2025/09/29/trumps-energy-department-forbids-staff-from-saying-climate-change-or-green/) (2025-09-29)
-- [Final day to apply: Volunteer at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/29/final-day-to-apply-volunteer-at-techcrunch-disrupt-2025/) (2025-09-29)
+- [California Governor Newsom signs landmark AI safety bill SB 53](https://techcrunch.com/2025/09/29/california-governor-newsom-signs-landmark-ai-safety-bill-sb-53/) (2025-09-29)
+- [Frank founder Charlie Javice sentenced to 7 years in prison for defrauding JPMorgan Chase](https://techcrunch.com/2025/09/29/frank-founder-charlie-javice-sentenced-to-7-years-in-prison-for-defrauding-jpmorgan-chase/) (2025-09-29)
+- [DeepSeek: Everything you need to know about the AI chatbot app](https://techcrunch.com/2025/09/29/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/) (2025-09-29)
+- [Explosion, vehicle fire rock Faraday Future’s LA headquarters](https://techcrunch.com/2025/09/29/explosion-vehicle-fire-rock-faraday-futures-la-headquarters/) (2025-09-29)
+- [AI recruiter Alex raises $17M to automate initial job interviews](https://techcrunch.com/2025/09/29/ai-recruiter-alex-raises-17m-to-automate-initial-job-interviews/) (2025-09-29)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [FCC Accidentally Leaked iPhone Schematics](https://www.engadget.com/big-tech/fcc-accidentally-leaked-iphone-schematics-potentially-giving-rivals-a-peek-at-company-secrets-154551807.html) (2025-09-29)
-- [Claude Code 2.0](https://www.npmjs.com/package/@anthropic-ai/claude-code) (2025-09-29)
-- [Claude Sonnet 4.5](https://www.anthropic.com/news/claude-sonnet-4-5) (2025-09-29)
-- [Sandboxing AI Agents at the Kernel Level](https://www.greptile.com/blog/sandboxing-agents-at-the-kernel-level) (2025-09-29)
-- [Show HN: Every single torrent is on this website](https://infohash.lol/) (2025-09-29)
+- [FAA decides it trusts Boeing enough to certify safety of its own planes again](https://www.theregister.com/2025/09/29/faa_decides_it_trusts_boeing/) (2025-09-29)
+- [How to Create an OS from Scratch](https://github.com/cfenollosa/os-tutorial) (2025-09-29)
+- [Technology without humanity means nothing](https://moneo.com.tr/blog/technology-without-humanity-means-nothing) (2025-09-29)
+- [Google to merge Android and ChromeOS in 2026](https://www.theregister.com/2025/09/25/google_android_chromeos/) (2025-09-29)
+- [Jax: Fast Combinations Calculation](https://github.com/phoenicyan/combinadics) (2025-09-29)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [RidePods is the first iPhone game you control with AirPods](https://www.theverge.com/news/787396/ride-pods-race-with-head-apple-airpods-spatial-audio-motion-controls) (2025-09-29)
-- [Anthropic releases Claude Sonnet 4.5 in latest bid for AI agents and coding supremacy](https://www.theverge.com/ai-artificial-intelligence/787524/anthropic-releases-claude-sonnet-4-5-in-latest-bid-for-ai-agents-and-coding-supremacy) (2025-09-29)
-- [Anker’s fastest airline-friendly power bank is now available](https://www.theverge.com/news/787213/anker-prime-power-bank-300w-battery-portable-charger-airline-friendly) (2025-09-29)
-- [Alexa Plus is smarter — but it’s not yet smart enough](https://www.theverge.com/report/787171/amazon-alexa-plus-hardware-event-smart-home) (2025-09-29)
-- [Amazon’s kid-friendly Kindles are cheaper than ever ahead of October Prime Day](https://www.theverge.com/tech/787249/amazon-kindle-kids-october-prime-day-deal-sale) (2025-09-29)
+- [Here are 55 great deals you can snag ahead of Amazon&#8217;s fall Prime Day event](https://www.theverge.com/tech/783008/amazon-october-prime-day-sale-best-early-deals-2025) (2025-09-29)
+- [YouTube caves to Trump with $24.5 million settlement](https://www.theverge.com/news/787932/youtube-trump-ban-lawsuit-settlement) (2025-09-29)
+- [SB 53, the landmark AI transparency bill, is now law in California](https://www.theverge.com/ai-artificial-intelligence/787918/sb-53-the-landmark-ai-transparency-bill-is-now-law-in-california) (2025-09-29)
+- [Microsoft is bringing its Windows engineering teams back together again](https://www.theverge.com/report/787796/microsoft-windows-reorg-single-engineering-team-changes) (2025-09-29)
+- [Tile&#8217;s lack of encryption could make tracker owners vulnerable to stalking](https://www.theverge.com/news/787836/tile-trackers-stalking-research-unencrypted) (2025-09-29)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [ESA will pay an Italian company nearly $50 million to design a mini-Starship](https://arstechnica.com/space/2025/09/esa-will-pay-an-italian-company-nearly-50-million-to-design-a-mini-starship/) (2025-09-29)
-- [Senators try to halt shuttle move, saying “little evidence” of public demand](https://arstechnica.com/space/2025/09/senators-to-appropriators-leave-space-shuttle-discovery-in-smithsonian/) (2025-09-29)
-- [Fortnite disables Peacemaker emote that might resemble a swastika](https://arstechnica.com/gaming/2025/09/fortnite-disables-peacemaker-emote-that-might-resemble-a-swastika/) (2025-09-29)
-- [Taiwan pressured to move 50% of chip production to US or lose protection](https://arstechnica.com/tech-policy/2025/09/taiwan-pressured-to-move-50-of-chip-production-to-us-or-lose-protection/) (2025-09-29)
-- [It’s official: EA is selling to private equity in $55 billion deal](https://arstechnica.com/gaming/2025/09/its-official-ea-is-selling-to-private-equity-in-55-billion-deal/) (2025-09-29)
+- [Trump obtains another settlement as YouTube agrees to pay $24.5 million](https://arstechnica.com/tech-policy/2025/09/youtube-pays-24-5m-to-settle-trump-lawsuit-over-january-2021-suspension/) (2025-09-29)
+- [Another setback for Firefly Aerospace’s beleaguered rocket program](https://arstechnica.com/space/2025/09/after-another-fiery-setback-it-seems-fireflys-alpha-rocket-is-still-in-beta/) (2025-09-29)
+- [Anthropic says its new AI model “maintained focus” for 30 hours on multistep tasks](https://arstechnica.com/ai/2025/09/anthropic-says-its-new-ai-model-maintained-focus-for-30-hours-on-multistep-tasks/) (2025-09-29)
+- [Sports piracy site Streameast returns after US government let domain expire](https://arstechnica.com/gadgets/2025/09/sports-piracy-site-streameast-returns-after-us-government-let-domain-expire/) (2025-09-29)
+- [EA will be a very different company under private ownership](https://arstechnica.com/gaming/2025/09/how-private-ownership-will-change-electronic-arts/) (2025-09-29)
 
 </details>
 
@@ -77,7 +77,7 @@
 
 - [CodeQL zero to hero part 5: Debugging queries](https://github.blog/security/vulnerability-research/codeql-zero-to-hero-part-5-debugging-queries/) (2025-09-29)
 - [How GitHub protects developers from copyright enforcement overreach](https://github.blog/news-insights/policy-news-and-insights/how-github-protects-developers-from-copyright-enforcement-overreach/) (2025-09-26)
-- [Kicking off Cybersecurity Awareness Month 2025: Researcher Spotlights and Enhanced Incentives](https://github.blog/security/vulnerability-research/kicking-off-cybersecurity-awareness-month-2025-researcher-spotlights-and-enhanced-incentives/) (2025-09-26)
+- [Kicking off Cybersecurity Awareness Month 2025: Researcher spotlights and enhanced incentives](https://github.blog/security/vulnerability-research/kicking-off-cybersecurity-awareness-month-2025-researcher-spotlights-and-enhanced-incentives/) (2025-09-26)
 - [Building beyond the browser: Keeley Hammond on Electron, open source, and the future of maintainership](https://github.blog/open-source/maintainers/building-beyond-the-browser-keeley-hammond-on-electron-open-source-and-the-future-of-maintainership/) (2025-09-25)
 - [GitHub Copilot gets smarter at finding your code: Inside our new embedding model ](https://github.blog/news-insights/product-news/copilot-new-embedding-model-vs-code/) (2025-09-24)
 
@@ -97,23 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Cloud, Edge, or Local: Choosing the Right Architecture for Smart Security Cameras](https://dev.to/dyrok/cloud-edge-or-local-choosing-the-right-architecture-for-smart-security-cameras-2ej4) (2025-09-29)
-- [Comparing Dijkstra's Algorithm in iGraph vs networkX: Which One Should You Use?](https://dev.to/whoakarsh/comparing-dijkstras-algorithm-in-igraph-vs-networkx-which-one-should-you-use-4d82) (2025-09-29)
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-5dh) (2025-09-29)
-- [I made a real-time Mafia game you can play with strangers – no signups(pt3)](https://dev.to/hito/i-made-a-real-time-mafia-game-you-can-play-with-strangers-no-signupspt3-3nf7) (2025-09-29)
-- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-16jc) (2025-09-29)
+- [Unlocking the Power of Developer Tools: Transforming Your Workflow with Modern Solutions](https://dev.to/mikeover/unlocking-the-power-of-developer-tools-transforming-your-workflow-with-modern-solutions-21d5) (2025-09-30)
+- [Slack Relay Agent — Swarm Alerts to Slack](https://dev.to/matrixswarm/slack-relay-agent-swarm-alerts-to-slack-1dp5) (2025-09-30)
+- [Radiomics in Breast Cancer – Part 1: Exploring the CBIS-DDSM Dataset](https://dev.to/helloerika__/radiomics-in-breast-cancer-part-1-exploring-the-cbis-ddsm-dataset-1ece) (2025-09-30)
+- [“Understanding REST APIs in Simple Terms”](https://dev.to/george_hany_899df0785b4fe/understanding-rest-apis-in-simple-terms-1129) (2025-09-30)
+- [Alpacon: Network Access and Resource Management (Part 1)](https://dev.to/baek/alpacon-network-access-and-resource-management-part-1-coo) (2025-09-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Asked Claude for an Online Income Idea — Minutes Later, I Had a Product to Sell](https://learnaitoprofit.com/i-asked-claude-for-an-online-income-idea-minutes-later-i-had-a-product-to-sell-906c91b43631?source=rss------programming-5) (2025-09-29)
-- [2025 NCU NCPC Preliminary](https://medium.com/@as6325400/2025-ncu-ncpc-preliminary-fd611644e7b3?source=rss------programming-5) (2025-09-29)
-- [#  Dari Ide ke Aksi: Perjalanan Eksperimen Teknologi Seorang Pemula](https://medium.com/@junadrian/dari-ide-ke-aksi-perjalanan-eksperimen-teknologi-seorang-pemula-3238b6e8c1d1?source=rss------programming-5) (2025-09-29)
-- [RHAPSODY OF REALITIES - 29TH SEPTEMBER 2025
-"As a child of God, it makes no difference the…](https://medium.com/@folajeff/rhapsody-of-realities-29th-september-2025-as-a-child-of-god-it-makes-no-difference-the-4153861da367?source=rss------programming-5) (2025-09-29)
-- [Different Ways to Get CSS Gradient Shadows](https://er-raj-aryan.medium.com/different-ways-to-get-css-gradient-shadows-c82652401b05?source=rss------programming-5) (2025-09-29)
+- [Mastering Java Garbage Collection: A Complete Guide from Beginner to Expert](https://medium.com/@sunil17bbmp/mastering-java-garbage-collection-a-complete-guide-from-beginner-to-expert-0671846ff15f?source=rss------programming-5) (2025-09-30)
+- [09045080282شماره خاله اهواز by09045080282.شماره](https://medium.com/@kdnmbxgbxnn/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-by09045080282-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-71c839da9c77?source=rss------programming-5) (2025-09-30)
+- [Pengaruh Laptop ASUS TUF terhadap Perkembangan Teknologi dan Gaming](https://medium.com/@filipiii201107/pengaruh-laptop-asus-tuf-terhadap-perkembangan-teknologi-dan-gaming-dbc26b067f25?source=rss------programming-5) (2025-09-30)
+- [09045080282شماره خاله اهواز by09045080282.شماره](https://medium.com/@kdnmbxgbxnn/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-by09045080282-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-eb9d06fa2493?source=rss------programming-5) (2025-09-30)
+- [09045080282شماره خاله اهواز by09045080282.شماره](https://medium.com/@kdnmbxgbxnn/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-by09045080282-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-69c3f824de70?source=rss------programming-5) (2025-09-30)
 
 </details>
 
@@ -208,11 +207,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Expanding Docker Hardened Images: Secure Helm Charts for Deployments](https://www.docker.com/blog/docker-hardened-images-helm-charts-beta/) (2025-09-29)
 - [Docker MCP Toolkit: MCP Servers That Just Work](https://www.docker.com/blog/mcp-toolkit-mcp-servers-that-just-work/) (2025-09-29)
 - [The Trust Paradox: When Your AI Gets Catfished](https://www.docker.com/blog/mcp-prompt-injection-trust-paradox/) (2025-09-26)
 - [Introducing the Docker Premium Support and TAM service](https://www.docker.com/blog/introducing-the-docker-premium-support-and-tam-service/) (2025-09-25)
 - [Run, Test, and Evaluate Models and MCP Locally with Docker + Promptfoo](https://www.docker.com/blog/evaluate-models-and-mcp-with-promptfoo-docker/) (2025-09-25)
-- [MCP Horror Stories: The Drive-By Localhost Breach](https://www.docker.com/blog/mpc-horror-stories-cve-2025-49596-local-host-breach/) (2025-09-23)
 
 </details>
 
@@ -329,11 +328,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [Greater AI choice in GitLab Duo: Claude Sonnet 4.5 arrives](https://about.gitlab.com/blog/greater-ai-choice-in-gitlab-duo-claude-sonnet-4-5-arrives/) (2025-09-29)
 - [Agentic AI guides and resources](https://about.gitlab.com/blog/agentic-ai-guides-and-resources/) (2025-09-26)
 - [GitLab Duo Agent Platform adds support for Model Context Protocol](https://about.gitlab.com/blog/duo-agent-platform-with-mcp/) (2025-09-26)
 - [GitLab named a Leader in the 2025 Gartner Magic Quadrant for DevOps Platforms](https://about.gitlab.com/blog/gitlab-named-a-leader-in-the-2025-gartner-magic-quadrant-for-devops-platforms/) (2025-09-25)
 - [GitLab 18.4: AI-native development with automation and insight](https://about.gitlab.com/blog/gitlab-18-4-ai-native-development-with-automation-and-insight/) (2025-09-23)
-- [A comprehensive guide to GitLab DAST](https://about.gitlab.com/blog/comprehensive-guide-to-gitlab-dast/) (2025-09-17)
 
 </details>
 
@@ -536,11 +535,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/manage-list-of-safe-phone
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models](https://huggingface.co/blog/intel-qwen3-agent) (2025-09-29)
 - [VibeGame: Exploring Vibe Coding Games](https://huggingface.co/blog/vibegame) (2025-09-29)
 - [Swift Transformers Reaches 1.0 — and Looks to the Future](https://huggingface.co/blog/swift-transformers) (2025-09-26)
 - [Smol2Operator: Post-Training GUI Agents for Computer Use](https://huggingface.co/blog/smol2operator) (2025-09-23)
 - [Gaia2 and ARE: Empowering the community to study agents](https://huggingface.co/blog/gaia2) (2025-09-22)
-- [Scaleway on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/inference-providers-scaleway) (2025-09-19)
 
 </details>
 
@@ -569,22 +568,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/manage-list-of-safe-phone
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [DeepSeek-V3.2-Exp: 50% Cheaper, 3x Faster, Maximum Value](https://www.analyticsvidhya.com/blog/2025/09/deepseek-v3-2-exp/) (2025-09-29)
 - [RIP, Data Scientists!](https://www.analyticsvidhya.com/blog/2025/09/rip-data-scientists/) (2025-09-29)
 - [7 Practical Techniques to Reduce LLM Hallucinations](https://www.analyticsvidhya.com/blog/2025/09/reducing-hallucinations-in-llms/) (2025-09-29)
 - [Top 5 AI Smartphones to Buy in 2025: iPhone 17 Pro, Galaxy S25 Ultra and More](https://www.analyticsvidhya.com/blog/2025/09/ai-smartphones-to-buy-2025/) (2025-09-28)
 - [4 LLM Compression Techniques to Make Models Smaller and Faster](https://www.analyticsvidhya.com/blog/2025/09/llm-compression-techniques/) (2025-09-28)
-- [Build Your Own Comic Generator using OpenAI + Gemini](https://www.analyticsvidhya.com/blog/2025/09/build-comic-generator-using-openai-gemini/) (2025-09-27)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Debunking 5 Myths About Cloud Computing for Small Business (Sponsored)](https://usa.ingrammicro.com/cep/app/cms/en-us/General/guiding-tech#new_tab) (2025-09-29)
 - [The Algorithmic X-Men](https://www.kdnuggets.com/the-algorithmic-x-men) (2025-09-29)
 - [Python for Data Science (Free 7-Day Mini-Course)](https://www.kdnuggets.com/python-for-data-science-free-7-day-mini-course) (2025-09-29)
 - [Building Machine Learning Application with Django](https://www.kdnuggets.com/building-machine-learning-application-with-django) (2025-09-26)
 - [Nano Banana Practical Prompting & Usage Guide](https://www.kdnuggets.com/nano-banana-practical-prompting-usage-guide) (2025-09-26)
-- [What Is Big Tech’s Influence on AI Development?](https://www.kdnuggets.com/2025/09/what-is-big-techs-influence-on-ai-development) (2025-09-25)
 
 </details>
 
