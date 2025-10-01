@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Rio Terminal: A hardware-accelerated GPU terminal emulator](https://rioterm.com/) (2025-10-01)
-- [Economics of sportsbooks and why they ban the best bettors](https://www.dopaminemarkets.com/p/the-business-of-sports-betting-is) (2025-09-30)
-- [Pre-Emptive Multi-Tasking on Arm Cortex-M](https://thejpster.org.uk/blog/blog-2025-09-28/) (2025-09-30)
-- [Our stewardship: Where we are, what's changing and how we'll engage](https://rubycentral.org/news/our-stewardship-where-we-are-whats-changing-and-how-well-engage/) (2025-09-30)
-- [Introduction to Multi-Armed Bandits (2019)](https://arxiv.org/abs/1904.07272) (2025-09-30)
+- [Intelligent Kubernetes Load Balancing at Databricks](https://www.databricks.com/blog/intelligent-kubernetes-load-balancing-databricks) (2025-10-01)
+- [US government shuts down after Senate fails to pass last-ditch funding plan](https://www.bbc.com/news/live/clylje0rmp2t) (2025-10-01)
+- [Blockdiff: We built our own file format for VM disk snapshots](https://cognition.ai/blog/blockdiff) (2025-10-01)
+- [The gaslit asset class](https://blog.dshr.org/2025/09/the-gaslit-asset-class.html) (2025-10-01)
+- [CDC File Transfer](https://github.com/google/cdc-file-transfer) (2025-10-01)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [monitor network, CPU, RAM, disk with persistent overlay using Rainmeter.](https://dev.to/nl_p_/monitor-network-cpu-ram-disk-with-persistent-overlay-using-rainmeter-na3) (2025-10-01)
-- [DIY Holding Tank Sensors Part 1: Or "Mommy, the AI made me code in C"](https://dev.to/mergewithcare/diy-holding-tank-sensors-part-1-or-mommy-the-ai-made-me-code-in-c-4llg) (2025-10-01)
-- [Mapping CSV Airtable (or Notion) without tears (template inside)](https://dev.to/xxbricksquadxx/mapping-csv-airtable-or-notion-without-tears-template-inside-2lnd) (2025-10-01)
-- [Self-host Uptime Kuma with Docker in 5 minutes (+ TLS-expiry alerts)](https://dev.to/xxbricksquadxx/self-host-uptime-kuma-with-docker-in-5-minutes-tls-expiry-alerts-229f) (2025-10-01)
-- [Adam Savage's Tested: How to Replicate a Long-Lost Patterned Fabric](https://dev.to/maker_youtube/adam-savages-tested-how-to-replicate-a-long-lost-patterned-fabric-298d) (2025-10-01)
+- [What's new in the 2025 State of JavaScript survey](https://dev.to/sachagreif/whats-new-in-the-2025-state-of-javascript-survey-17ii) (2025-10-01)
+- [AI Writing Assistants in 2025: Free vs Paid – Which Should You Choose?](https://dev.to/sanjaynaker/ai-writing-assistants-in-2025-free-vs-paid-which-should-you-choose-3on3) (2025-10-01)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-dee) (2025-10-01)
+- [COLORS: Penyair - Bambú | A COLORS SHOW](https://dev.to/music_youtube/colors-penyair-bambu-a-colors-show-344b) (2025-10-01)
+- [COLORS: La Lá - También te vi | A COLORS SHOW](https://dev.to/music_youtube/colors-la-la-tambien-te-vi-a-colors-show-318b) (2025-10-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [7 Advanced Gin Middleware Patterns for Production-Ready APIs: Circuit Breaker, Rate Limiting & More](https://medium.techkoalainsights.com/7-advanced-gin-middleware-patterns-for-production-ready-apis-circuit-breaker-rate-limiting-more-ae61f8984732?source=rss------programming-5) (2025-10-01)
-- [ChatGPT Pulse Update is Insane!](https://medium.com/ai-meets-ui/chatgpt-pulse-update-is-insane-fe755affbf89?source=rss------programming-5) (2025-10-01)
-- [Building AI Systems with Architectural Patterns That Actually Work](https://medium.com/codrift/building-ai-systems-with-architectural-patterns-that-actually-work-a41bafb57380?source=rss------programming-5) (2025-10-01)
-- [09022190941](https://medium.com/@mino3590m/09022190941-d8fcfbbcebd3?source=rss------programming-5) (2025-10-01)
-- [0902.219.0941](https://medium.com/@nilo86774/0902-219-0941-e00b753d5a1a?source=rss------programming-5) (2025-10-01)
+- [09309022560شماره خاله#شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان #شماره خاله کرج…](https://medium.com/@kdhlfcjnc/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-e049b1fe1de3?source=rss------programming-5) (2025-10-01)
+- [ The Rise of Edge Computing with Node.js: Building the Next Generation of Applications](https://medium.com/@theNewGenCoder/the-rise-of-edge-computing-with-node-js-building-the-next-generation-of-applications-ef802ae51ed2?source=rss------programming-5) (2025-10-01)
+- [Why Every Programming Language Is Adopting the Same Type System](https://medium.com/@sohail_saifii/why-every-programming-language-is-adopting-the-same-type-system-93e97d0fc111?source=rss------programming-5) (2025-10-01)
+- [AI Is Coming for Your Job: How to Stay Ahead Before It’s Too Late](https://medium.com/@hallseaton105/ai-is-coming-for-your-job-how-to-stay-ahead-before-its-too-late-5f152b434f7c?source=rss------programming-5) (2025-10-01)
+- [This Python Script Analyzes My Sleep Data and Warns Me When I’m Burning Out](https://medium.com/codrift/this-python-script-analyzes-my-sleep-data-and-warns-me-when-im-burning-out-a5793d8ae492?source=rss------programming-5) (2025-10-01)
 
 </details>
 
@@ -362,14 +362,14 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Empowering Partners for the AI Era: Twilio AI Certification Program
-](
-https://www.twilio.com/en-us/blog/partners/spotlights/empowering-partners-for-the-ai-era--twilio-ai-certification-prog
-) (2025-09-29)
-- [
 ConversationRelay and the AI Agent Builder Dify: A Multimodal Example with Voice
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/conversationrelay-agent-dify-voice-messaging
+) (2025-09-29)
+- [
+Empowering Partners for the AI Era: Twilio AI Certification Program
+](
+https://www.twilio.com/en-us/blog/partners/spotlights/empowering-partners-for-the-ai-era--twilio-ai-certification-prog
 ) (2025-09-29)
 - [
 Building an OmniChannel Experience: Context Aware Interactions using Salesforce Integration
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/developers/docs-llms-txt-markdown-support
 <details>
 <summary>💬 Slack API</summary>
 
-- [Work Order Management: Essential Steps and Strategies](https://slack.com/blog/productivity/work-order-management-essential-steps-and-strategies) (2025-09-29)
-- [Enterprise Process Automation: the Key to Faster, Smarter Workflows](https://slack.com/blog/productivity/an-introductory-guide-to-enterprise-automation) (2025-09-29)
 - [RACI Model Explained: Definition, Benefits, and How to Use It](https://slack.com/blog/productivity/raci-model-explained-definition-benefits-and-how-to-use-it) (2025-09-26)
 - [Enterprise Data Security: A Guide to Protecting Your Organization](https://slack.com/blog/transformation/enterprise-data-security-a-guide-to-protecting-your-organization) (2025-09-26)
 - [Why Every Modern Team Needs a Work OS](https://slack.com/blog/productivity/why-every-modern-team-needs-a-work-os) (2025-09-26)
+- [How to Choose the Right Communication Model for Every Team](https://slack.com/blog/collaboration/communication-model) (2025-09-24)
+- [Best Methods for Prioritizing Tasks and Projects at Work](https://slack.com/blog/productivity/best-methods-for-prioritizing-tasks-and-projects-at-work) (2025-09-24)
 
 </details>
 
