@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Typepad is closed for business](https://www.typepad.com) (2025-10-02)
 - [The biggest semantic mess in Futhark](https://futhark-lang.org/blog/2025-09-26-the-biggest-semantic-mess.html) (2025-10-02)
+- [Keyhive – Local-first access control](https://www.inkandswitch.com/keyhive/notebook/) (2025-10-02)
 - [Cormac McCarthy's personal library](https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/) (2025-10-01)
 - [Egg-Shaped Curves (2007)](https://nyjp07.com/index_egg_E.html) (2025-10-01)
-- [Edge264 – Minimalist, high-performance software decoder for H.264/AVC video](https://github.com/tvlabs/edge264) (2025-10-01)
-- [DARPA project for automated translation from C to Rust (2024)](https://www.darpa.mil/news/2024/memory-safety-vulnerabilities) (2025-10-01)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Meet the Arc spacecraft: it aims to deliver cargo anywhere in the world in an hour](https://arstechnica.com/space/2025/10/meet-the-arc-spacecraft-it-aims-to-deliver-cargo-anywhere-in-the-world-in-an-hour/) (2025-10-02)
 - [That annoying SMS phish you just got may have come from a box like this](https://arstechnica.com/security/2025/10/that-annoying-sms-phish-you-just-got-may-have-come-from-a-box-like-this/) (2025-10-01)
 - [Megafauna was the meat of choice for South American hunters](https://arstechnica.com/science/2025/10/ice-age-hunters-in-south-america-preferred-now-extinct-megafauna/) (2025-10-01)
 - [OpenAI mocks Musk’s math in suit over iPhone/ChatGPT integration](https://arstechnica.com/tech-policy/2025/10/openai-mocks-musks-math-in-suit-over-iphone-chatgpt-integration/) (2025-10-01)
 - [Hyundai gives the Ioniq 5 a huge price cut for model-year 2026](https://arstechnica.com/cars/2025/10/hyundai-gives-the-ioniq-5-a-huge-price-cut-for-model-year-2026/) (2025-10-01)
-- [Cable nostalgia persists as streaming gets more expensive, fragmented ](https://arstechnica.com/gadgets/2025/10/cable-nostalgia-lives-on-as-streaming-gets-more-expensive-fragmented/) (2025-10-01)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Building AI-ready teams: Why documentation and culture matter more than tools](https://stackoverflow.blog/2025/10/02/building-ai-ready-teams-why-documentation-and-culture-matter-more-than-tools/) (2025-10-02)
 - [Turning investments into impact: Stack Overflow for Teams 2025.7](https://stackoverflow.blog/2025/09/30/turning-investments-into-impact-stack-overflow-for-teams-2025-7/) (2025-09-30)
 - [As your AI gets smarter, so must your API](https://stackoverflow.blog/2025/09/30/as-your-ai-gets-smarter-so-must-your-api/) (2025-09-30)
 - [Making your code base better will make your code coverage worse](https://stackoverflow.blog/2025/09/29/making-your-code-base-better-will-make-your-code-coverage-worse/) (2025-09-29)
 - [Getting Backstage in front of a shifting dev experience](https://stackoverflow.blog/2025/09/26/getting-backstage-in-front-of-a-shifting-dev-experience/) (2025-09-26)
-- [The history and future of software development (part 1)](https://stackoverflow.blog/2025/09/24/the-history-and-future-of-software-development-part-1/) (2025-09-24)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [SE 371 Assignment 2](https://dev.to/mthom2141/se-371-assignment-2-4i2d) (2025-10-02)
-- [Alpacon: Identity, Automation, and Auditing (Part 2)](https://dev.to/baek/alpacon-identity-automation-and-auditing-part-2-43ln) (2025-10-02)
-- [Cloud Architects are Movie Directors: An OCI IAM Story](https://dev.to/smyekh/cloud-architects-are-movie-directors-an-oci-iam-story-4lni) (2025-10-02)
-- [Automate EC2 Backups on AWS with Lambda, EventBridge, and Terraform](https://dev.to/hasan_ashab/automate-ec2-backups-on-aws-with-lambda-eventbridge-and-terraform-k4n) (2025-10-02)
-- [How to serve Markdown to AI agents: Making your docs more AI-friendly](https://dev.to/lingodotdev/how-to-serve-markdown-to-ai-agents-making-your-docs-more-ai-friendly-4pdn) (2025-10-02)
+- [Enhancing MiroFlow: Tracking Data Sources for AskPaul App](https://dev.to/askpaul/enhancing-miroflow-tracking-data-sources-for-askpaul-app-53em) (2025-10-02)
+- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_f8c307c5/you-might-not-need-websockets-the-simple-power-of-server-sent-events-192k) (2025-10-02)
+- [ACID Properties](https://dev.to/divya__sundarasekaran_459/acid-properties-42pd) (2025-10-02)
+- [Getting Started with AWS Bedrock AgentCore (preview)](https://dev.to/claudio_codes/getting-started-with-aws-bedrock-agentcore-preview-34km) (2025-10-02)
+- [Большой миф разработки](https://dev.to/phonty29/bolshoi-mif-razrabotki-477j) (2025-10-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [7 Hidden Cargo Features That Will Transform Your Rust Development Workflow in 2024](https://medium.techkoalainsights.com/7-hidden-cargo-features-that-will-transform-your-rust-development-workflow-in-2024-39c6d571367f?source=rss------programming-5) (2025-10-02)
-- [5x Faster Sprints:Agile The Scrum Secrets Nobody Tells You](https://medium.com/@VaishnaviK99/5x-faster-sprints-agile-the-scrum-secrets-nobody-tells-you-bf053f1f7281?source=rss------programming-5) (2025-10-02)
-- [Running My Python Pipeline with Airflow](https://medium.com/technology-core/running-my-python-pipeline-with-airflow-d28b32d99c73?source=rss------programming-5) (2025-10-02)
-- [Securing APIs with Role-Based Access Control in Express.js](https://medium.com/@uyanhewagetr/securing-apis-with-role-based-access-control-in-express-js-72507c4b5d7a?source=rss------programming-5) (2025-10-02)
-- [Spring Bean Scopes in Spring Boot: A Complete Guide with Examples](https://medium.com/@sunil17bbmp/spring-bean-scopes-in-spring-boot-a-complete-guide-with-examples-5aff59358429?source=rss------programming-5) (2025-10-02)
+- [⚡ Advanced Node.js Best Practices & Tips for Scalable Applications](https://medium.com/@theHackHabitual/advanced-node-js-best-practices-tips-for-scalable-applications-e9abf6b73a51?source=rss------programming-5) (2025-10-02)
+- [I Built a Game with “Vibe Coding.” Here Are 7 Tips That Saved My Project.](https://kingmph.medium.com/i-built-a-game-with-vibe-coding-here-are-7-tips-that-saved-my-project-15f3896b81e7?source=rss------programming-5) (2025-10-02)
+- [Lazy vs Eager Beans in Spring Boot: The One Question That Exposed My Weak Spot](https://medium.com/codex/lazy-vs-eager-beans-in-spring-boot-the-one-question-that-exposed-my-weak-spot-c44e05373f61?source=rss------programming-5) (2025-10-02)
+- [Snowflake Python Connector 3.17.4 Released What It Changes for Python Data Access](https://medium.com/@ccpythonprogramming/snowflake-python-connector-3-17-4-released-what-it-changes-for-python-data-access-57a90282cf36?source=rss------programming-5) (2025-10-02)
+- [10 Rust Tricks That Feel Illegal (But Are Not)](https://medium.com/@kedarbpatil07/10-rust-tricks-that-feel-illegal-but-are-not-e61e6b687d7e?source=rss------programming-5) (2025-10-02)
 
 </details>
 
@@ -362,6 +362,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Book Appointments With Laravel, Twilio and SendGrid
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/book-appointments-with-laravel-twilio-sendgrid
+) (2025-10-01)
+- [
+How to Validate Twilio Event Streams Webhooks in Go
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/how-to-validate-twilio-event-streams-webhooks-in-go
+) (2025-10-01)
+- [
 ConversationRelay and the AI Agent Builder Dify: A Multimodal Example with Voice
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/conversationrelay-agent-dify-voice-messaging
@@ -375,16 +385,6 @@ https://www.twilio.com/en-us/blog/partners/spotlights/empowering-partners-for-th
 Building an OmniChannel Experience: Context Aware Interactions using Salesforce Integration
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/building-an-omnichannel-experience--context-aware-interactions-u
-) (2025-09-26)
-- [
-Twilio named to the IDC FinTech Rankings 2025 Enterprise Top 50
-](
-https://www.twilio.com/en-us/blog/insights/twilio-named-IDC-FinTech-Rankings-2025-Enterprise-Top-50
-) (2025-09-26)
-- [
-Announcing Twilio Docs Support for llms.txt and Markdown
-](
-https://www.twilio.com/en-us/blog/developers/docs-llms-txt-markdown-support
 ) (2025-09-26)
 
 </details>
@@ -557,11 +557,11 @@ https://www.twilio.com/en-us/blog/developers/docs-llms-txt-markdown-support
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Temporal-Difference Learning and the Importance of Exploration: An Illustrated Guide](https://towardsdatascience.com/temporal-difference-learning-and-the-importance-of-exploration-an-illustrated-guide/) (2025-10-02)
 - [Are Foundation Models Ready for Your Production Tabular Data?](https://towardsdatascience.com/foundation-models-in-tabular-data/) (2025-10-01)
 - [How to Improve the Efficiency of Your PyTorch Training Loop](https://towardsdatascience.com/improve-efficiency-of-your-pytorch-training-loop/) (2025-10-01)
 - [Data Visualization Explained (Part 2): An Introduction to Visual Variables](https://towardsdatascience.com/data-visualization-explained-part-2-an-introduction-to-visual-variables/) (2025-10-01)
 - [Visual Pollen Classification Using CNNs and Vision Transformers](https://towardsdatascience.com/visual-pollen-classification-using-cnns-and-vision-transformers/) (2025-10-01)
-- [Under the Hood: How DAX Works with Filters](https://towardsdatascience.com/under-the-hood-how-dax-works-with-filters/) (2025-10-01)
 
 </details>
 
