@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [After nine years of grinding, Replit finally found its market. Can it keep it?](https://techcrunch.com/2025/10/02/after-nine-years-of-grinding-replit-finally-found-its-market-can-it-keep-it/) (2025-10-03)
 - [Amazon to resume drone delivery following crash in Arizona](https://techcrunch.com/2025/10/02/amazon-to-resume-drone-delivery-following-crash-in-arizona/) (2025-10-02)
 - [Department of Energy cancels $7.5B of clean energy projects in mostly blue states](https://techcrunch.com/2025/10/02/department-of-energy-cancels-7-5b-of-clean-energy-projects-in-mostly-blue-states/) (2025-10-02)
 - [Anthropic hires new CTO with focus on AI infrastructure](https://techcrunch.com/2025/10/02/anthropic-hires-new-cto-with-focus-on-ai-infrastructure/) (2025-10-02)
 - [OpenAI’s Sora soars to No. 3 on the US App Store](https://techcrunch.com/2025/10/02/openais-sora-soars-to-no-3-on-the-u-s-app-store/) (2025-10-02)
-- [YouTubers aren’t relying on ad revenue anymore — here’s how some are diversifying](https://techcrunch.com/2025/10/02/youtubers-arent-relying-on-ad-revenue-anymore-heres-how-some-are-diversifying/) (2025-10-02)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Apple takes down ICE tracking apps after pressure from Bondi DOJ](https://www.foxbusiness.com/politics/apple-takes-down-ice-tracking-app-after-pressure-from-ag-bondi) (2025-10-03)
-- [Bonsai – A library for building dynamic webapps, using JS_of_OCaml](https://github.com/janestreet/bonsai) (2025-10-02)
-- [PortalVR: XR Without a Headset](https://portalvr.io/) (2025-10-02)
-- [The strangest letter of the alphabet: The rise and fall of yogh](https://www.deadlanguagesociety.com/p/history-of-letter-yogh) (2025-10-02)
-- [Solveit – A course and platform for solving problems with code](https://www.answer.ai/posts/2025-10-01-solveit-full.html) (2025-10-02)
+- [In Praise of RSS and Controlled Feeds of Information](https://blog.burkert.me/posts/in_praise_of_syndication/) (2025-10-03)
+- [Japan's ruling party is in crisis as voters swing to right-wing rivals](https://www.cnn.com/2025/10/02/asia/japan-ruling-party-election-explainer-intl-hnk) (2025-10-03)
+- ['Western Qwen': IBM Wows with Granite 4 LLM Launch and Hybrid Mamba/Transformer](https://venturebeat.com/ai/western-qwen-ibm-wows-with-granite-4-llm-launch-and-hybrid-mamba-transformer) (2025-10-03)
+- [Fp8 runs ~100 tflops faster when the kernel name has "cutlass" in it](https://github.com/triton-lang/triton/pull/7298) (2025-10-03)
+- [Blender 4.5 brings big changes](https://lwn.net/Articles/1036262/) (2025-10-03)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Apple pulls ICEBlock from the App Store](https://www.theverge.com/news/791170/iceblock-app-store-removed-by-apple) (2025-10-03)
 - [NBCUniversal’s new YouTube TV deal covers YouTube, Peacock, and a new sports network](https://www.theverge.com/news/791124/youtube-tv-nbc-universal-peacock-nbcsn) (2025-10-02)
 - [Redbox’s next product may be piracy lawsuits](https://www.theverge.com/tech/791013/redbox-chicken-soup-piracy-lawsuits-ip-sale-grove-street) (2025-10-02)
 - [Here’s how to get Xbox Game Pass Ultimate at the old price](https://www.theverge.com/tech/791012/xbox-pc-game-pass-ultimate-how-to-get-old-price) (2025-10-02)
 - [Shein is opening its first physical stores](https://www.theverge.com/news/791000/shein-france-physical-store-chinese-ecommerce-fast-fashion) (2025-10-02)
-- [Ring’s new Search Party feature is on by default; should you opt out?](https://www.theverge.com/news/790928/ring-search-party-cameras-default-opt-out) (2025-10-02)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Setting Up an Express TypeScript Server: A Step-by-Step Guide](https://dev.to/justwonder/setting-up-an-express-typescript-server-a-step-by-step-guide-gic) (2025-10-03)
-- [Is Excel Still Relevant in the Era of Power BI and Python? (Spoiler: It's Complicated)](https://dev.to/mercy_muema/is-excel-still-relevant-in-the-era-of-power-bi-and-python-spoiler-its-complicated-3im0) (2025-10-03)
-- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_f8c307c5/files-are-not-just-data-a-guide-to-robust-file-handling-138o) (2025-10-03)
-- [El arte de dar vida a tu web: Guía completa de animaciones con CSS](https://dev.to/aprendivzaje/el-arte-de-dar-vida-a-tu-web-guia-completa-de-animaciones-con-css-24mc) (2025-10-03)
-- [Hacktoberfest Contribution: README Creation](https://dev.to/oleksandrakordonets/hacktoberfest-contribution-readme-creation-4l24) (2025-10-03)
+- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-564j) (2025-10-03)
+- [Cercle: Parra for Cuva - Nightjar (Live Version) | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-pk9) (2025-10-03)
+- [KEXP: Tunde Adebimpe - God Knows (Live on KEXP)](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-18h6) (2025-10-03)
+- [KEXP: Tunde Adebimpe - Ate The Moon (Live on KEXP)](https://dev.to/music_youtube/kexp-tunde-adebimpe-ate-the-moon-live-on-kexp-4cm0) (2025-10-03)
+- [KEXP: strongboi - magic (Live on KEXP)](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-5c8n) (2025-10-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [7 Hidden FastAPI Features That Make Your Python APIs Self-Healing in Production](https://medium.techkoalainsights.com/7-hidden-fastapi-features-that-make-your-python-apis-self-healing-in-production-778675d3e348?source=rss------programming-5) (2025-10-03)
-- [The Two-Faced CPU: The Hybrid Harvard & Von Neumann Soul of Your Processor](https://medium.com/@humble_bee/the-two-faced-cpu-the-hybrid-harvard-von-neumann-soul-of-your-processor-0397912b97f0?source=rss------programming-5) (2025-10-03)
-- [Running My Python Pipeline with Prefect](https://medium.com/codrift/running-my-python-pipeline-with-prefect-68d987132960?source=rss------programming-5) (2025-10-03)
-- [“This 50-Line Python Script Replaced 6 Productivity Apps for Me”](https://medium.com/codrift/this-50-line-python-script-replaced-6-productivity-apps-for-me-101100104033?source=rss------programming-5) (2025-10-03)
-- [⚡ VS Code Setup That Saves Me 2+ Hours Every Week](https://medium.com/@jaydipkumarjha/vs-code-setup-that-saves-me-2-hours-every-week-616d4f2ae884?source=rss------programming-5) (2025-10-03)
+- [The One SQL Trick That Made Our Joins 10x Faster in Production](https://medium.com/@premchandak_11/the-one-sql-trick-that-made-our-joins-10x-faster-in-production-832ef4e81f87?source=rss------programming-5) (2025-10-03)
+- [    :    ✨](https://medium.com/@errichagautam1111/-5efc24f97acc?source=rss------programming-5) (2025-10-03)
+- [ Daily Real Estate Income Growth Strategy](https://medium.com/@yogeshnagar_83290/daily-real-estate-income-growth-strategy-2d3f4ca9587a?source=rss------programming-5) (2025-10-03)
+- [إذا كنت تبحث عن أفضل محامي شرعي في الأردن، أو أقوى محامي شرعي يمكنه أن يتولى قضاياك الشرعية بكل دقة…](https://medium.com/@aaljarrah78/%D8%A5%D8%B0%D8%A7-%D9%83%D9%86%D8%AA-%D8%AA%D8%A8%D8%AD%D8%AB-%D8%B9%D9%86-%D8%A3%D9%81%D8%B6%D9%84-%D9%85%D8%AD%D8%A7%D9%85%D9%8A-%D8%B4%D8%B1%D8%B9%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D8%A3%D9%88-%D8%A3%D9%82%D9%88%D9%89-%D9%85%D8%AD%D8%A7%D9%85%D9%8A-%D8%B4%D8%B1%D8%B9%D9%8A-%D9%8A%D9%85%D9%83%D9%86%D9%87-%D8%A3%D9%86-%D9%8A%D8%AA%D9%88%D9%84%D9%89-%D9%82%D8%B6%D8%A7%D9%8A%D8%A7%D9%83-%D8%A7%D9%84%D8%B4%D8%B1%D8%B9%D9%8A%D8%A9-%D8%A8%D9%83%D9%84-%D8%AF%D9%82%D8%A9-bd4e9c3a09ba?source=rss------programming-5) (2025-10-03)
+- [Why Estonian Developers Are Secretly the Best in the World (The 3 Practices American Teams Refuse…](https://medium.com/@sohail_saifi/why-estonian-developers-are-secretly-the-best-in-the-world-the-3-practices-american-teams-refuse-3ec8e9dcedb0?source=rss------programming-5) (2025-10-03)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.](https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/) (2025-09-25)
+- [Agent Factory: Designing the open agentic web stack](https://azure.microsoft.com/en-us/blog/agent-factory-designing-the-open-agentic-web-stack/) (2025-09-24)
 - [How Azure Cobalt 100 VMs are powering real-world solutions, delivering performance and efficiency results](https://azure.microsoft.com/en-us/blog/how-azure-cobalt-100-vms-are-powering-real-world-solutions-delivering-performance-and-efficiency-results/) (2025-09-23)
 - [Accelerate migration and modernization with agentic AI](https://azure.microsoft.com/en-us/blog/accelerate-migration-and-modernization-with-agentic-ai/) (2025-09-23)
 - [Inside the world’s most powerful AI datacenter](https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/) (2025-09-18)
-- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms ](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms/) (2025-09-18)
-- [Agent Factory: Creating a blueprint for safe and secure AI agents](https://azure.microsoft.com/en-us/blog/agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents/) (2025-09-17)
 
 </details>
 
@@ -456,6 +456,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/building-an-
 </details>
 
 <details>
+<summary>🚀 Apollo GraphQL</summary>
+
+- [10 Years of GraphQL Celebrated at GraphQLConf 2025](https://www.apollographql.com/blog/10-years-of-graphql-celebrated-at-graphqlconf-2025) (2025-10-02)
+- [Smart Schema Discovery: How Apollo MCP Server Maximizes AI Context Efficiency](https://www.apollographql.com/blog/smart-schema-discovery-how-apollo-mcp-server-maximizes-ai-context-efficiency) (2025-09-17)
+- [Apollo Client 4.0: A Leaner and Cleaner GraphQL Client with No Compromises](https://www.apollographql.com/blog/announcing-apollo-client-4-0) (2025-09-03)
+- [How Indeed’s Bold Bet on Parallel API Platforms Paid Off](https://www.apollographql.com/blog/how-indeeds-bold-bet-on-parallel-api-platforms-paid-off) (2025-09-02)
+- [MCP Server Builder Drop: July Highlights from San Francisco and New York](https://www.apollographql.com/blog/mcp-server-builder-drop-july-highlights-from-san-francisco-and-new-york) (2025-08-12)
+
+</details>
+
+<details>
 <summary>📊 Airtable Blog</summary>
 
 - [Applications closing for the Airtable AI Incubator](https://blog.airtable.com/applications-closing-for-the-airtable-ai-incubator/) (2025-09-29)
@@ -491,11 +502,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/building-an-
 <details>
 <summary>💬 Slack API</summary>
 
-- [A Complete Guide to AI Summarization: Benefits, Use Cases, and Tools](https://slack.com/blog/productivity/ai-summarization-a-guide-to-conquering-information-overload) (2025-10-01)
-- [Document Workflows Like a Pro: Tips, Tools, and Real-World Examples](https://slack.com/blog/productivity/workflow-documentation-what-it-is-how-to-create-it-and-why-it-matters) (2025-10-01)
-- [Work Order Management: Essential Steps and Strategies](https://slack.com/blog/productivity/work-order-management-essential-steps-and-strategies) (2025-09-29)
-- [Enterprise Process Automation: the Key to Faster, Smarter Workflows](https://slack.com/blog/productivity/an-introductory-guide-to-enterprise-automation) (2025-09-29)
 - [RACI Model Explained: Definition, Benefits, and How to Use It](https://slack.com/blog/productivity/raci-model-explained-definition-benefits-and-how-to-use-it) (2025-09-26)
+- [Enterprise Data Security: A Guide to Protecting Your Organization](https://slack.com/blog/transformation/enterprise-data-security-a-guide-to-protecting-your-organization) (2025-09-26)
+- [Why Every Modern Team Needs a Work OS](https://slack.com/blog/productivity/why-every-modern-team-needs-a-work-os) (2025-09-26)
+- [How to Choose the Right Communication Model for Every Team](https://slack.com/blog/collaboration/communication-model) (2025-09-24)
+- [Best Methods for Prioritizing Tasks and Projects at Work](https://slack.com/blog/productivity/best-methods-for-prioritizing-tasks-and-projects-at-work) (2025-09-24)
 
 </details>
 
