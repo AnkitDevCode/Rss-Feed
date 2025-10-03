@@ -20,20 +20,20 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [How developers are using Apple’s local AI models with iOS 26](https://techcrunch.com/2025/10/03/how-developers-are-using-apples-local-ai-models-with-ios-26/) (2025-10-03)
 - [After nine years of grinding, Replit finally found its market. Can it keep it?](https://techcrunch.com/2025/10/02/after-nine-years-of-grinding-replit-finally-found-its-market-can-it-keep-it/) (2025-10-03)
 - [Amazon to resume drone delivery following crash in Arizona](https://techcrunch.com/2025/10/02/amazon-to-resume-drone-delivery-following-crash-in-arizona/) (2025-10-02)
 - [Department of Energy cancels $7.5B of clean energy projects in mostly blue states](https://techcrunch.com/2025/10/02/department-of-energy-cancels-7-5b-of-clean-energy-projects-in-mostly-blue-states/) (2025-10-02)
 - [Anthropic hires new CTO with focus on AI infrastructure](https://techcrunch.com/2025/10/02/anthropic-hires-new-cto-with-focus-on-ai-infrastructure/) (2025-10-02)
-- [OpenAI’s Sora soars to No. 3 on the US App Store](https://techcrunch.com/2025/10/02/openais-sora-soars-to-no-3-on-the-u-s-app-store/) (2025-10-02)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [QuestDB (YC S20) Is Hiring a Core Database Engineer – C++ and Rust](https://questdb.com/careers/core-database-engineer/) (2025-10-03)
+- [Niri – A scrollable-tiling Wayland compositor](https://github.com/YaLTeR/niri) (2025-10-03)
 - [In Praise of RSS and Controlled Feeds of Information](https://blog.burkert.me/posts/in_praise_of_syndication/) (2025-10-03)
-- [Japan's ruling party is in crisis as voters swing to right-wing rivals](https://www.cnn.com/2025/10/02/asia/japan-ruling-party-election-explainer-intl-hnk) (2025-10-03)
-- ['Western Qwen': IBM Wows with Granite 4 LLM Launch and Hybrid Mamba/Transformer](https://venturebeat.com/ai/western-qwen-ibm-wows-with-granite-4-llm-launch-and-hybrid-mamba-transformer) (2025-10-03)
 - [Fp8 runs ~100 tflops faster when the kernel name has "cutlass" in it](https://github.com/triton-lang/triton/pull/7298) (2025-10-03)
 - [Blender 4.5 brings big changes](https://lwn.net/Articles/1036262/) (2025-10-03)
 
@@ -42,22 +42,22 @@
 <details>
 <summary>📱 The Verge</summary>
 
+- [Japan’s most popular beer is running low after cyberattack](https://www.theverge.com/news/791192/asahi-beer-cyberattack-systems-outage) (2025-10-03)
 - [Apple pulls ICEBlock from the App Store](https://www.theverge.com/news/791170/iceblock-app-store-removed-by-apple) (2025-10-03)
 - [NBCUniversal’s new YouTube TV deal covers YouTube, Peacock, and a new sports network](https://www.theverge.com/news/791124/youtube-tv-nbc-universal-peacock-nbcsn) (2025-10-02)
 - [Redbox’s next product may be piracy lawsuits](https://www.theverge.com/tech/791013/redbox-chicken-soup-piracy-lawsuits-ip-sale-grove-street) (2025-10-02)
 - [Here’s how to get Xbox Game Pass Ultimate at the old price](https://www.theverge.com/tech/791012/xbox-pc-game-pass-ultimate-how-to-get-old-price) (2025-10-02)
-- [Shein is opening its first physical stores](https://www.theverge.com/news/791000/shein-france-physical-store-chinese-ecommerce-fast-fashion) (2025-10-02)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Rocket Report: Alpha explodes on test stand; Europe wants a mini Starship](https://arstechnica.com/space/2025/10/rocket-report-alpha-explodes-on-test-stand-europe-wants-a-mini-starship/) (2025-10-03)
 - [Trump admin defiles even the “out of office” email auto-reply](https://arstechnica.com/culture/2025/10/trump-admin-defiles-even-the-out-of-office-email-auto-reply/) (2025-10-02)
 - [Blue Origin aims to land next New Glenn booster, then reuse it for Moon mission](https://arstechnica.com/space/2025/10/blue-origin-aims-to-land-next-new-glenn-booster-then-reuse-it-for-moon-mission/) (2025-10-02)
 - [Why iRobot’s founder won’t go within 10 feet of today’s walking robots](https://arstechnica.com/ai/2025/10/why-irobots-founder-wont-go-within-10-feet-of-todays-walking-robots/) (2025-10-02)
 - [RFK Jr. drags feet on COVID-19 vaccine recommendations, delaying shots for kids](https://arstechnica.com/health/2025/10/rfk-jr-drags-feet-on-covid-19-vaccine-recommendations-delaying-shots-for-kids/) (2025-10-02)
-- [Trump offers universities a choice: Comply for preferential funding](https://arstechnica.com/science/2025/10/trump-offers-universities-a-choice-comply-for-preferential-funding/) (2025-10-02)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-564j) (2025-10-03)
-- [Cercle: Parra for Cuva - Nightjar (Live Version) | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-pk9) (2025-10-03)
-- [KEXP: Tunde Adebimpe - God Knows (Live on KEXP)](https://dev.to/music_youtube/kexp-tunde-adebimpe-god-knows-live-on-kexp-18h6) (2025-10-03)
-- [KEXP: Tunde Adebimpe - Ate The Moon (Live on KEXP)](https://dev.to/music_youtube/kexp-tunde-adebimpe-ate-the-moon-live-on-kexp-4cm0) (2025-10-03)
-- [KEXP: strongboi - magic (Live on KEXP)](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-5c8n) (2025-10-03)
+- [Fighting phishing abuse as a solo SaaS founder — what works?](https://dev.to/howard_shaw_3c36a3a6cb900/fighting-phishing-abuse-as-a-solo-saas-founder-what-works-4i50) (2025-10-03)
+- [Web Developer Travis McCracken on Go’s Standard Library is a Hidden Gem](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-gos-standard-library-is-a-hidden-gem-1jlf) (2025-10-03)
+- [From Dream Project to Portfolio Piece: How My 'Failed' Game Became My Biggest Asset](https://dev.to/yousef0m/from-dream-project-to-portfolio-piece-how-my-failed-game-became-my-biggest-asset-1hpe) (2025-10-03)
+- [Farewell-to-Framework-Bloat-How-I-Rediscovered-Simplicity-Without-Sacrificing-Performance](https://dev.to/member_06022d8b/farewell-to-framework-bloat-how-i-rediscovered-simplicity-without-sacrificing-performance-5d5m) (2025-10-03)
+- [Why You Might Be Looking for a Jotform Alternative and What to Choose](https://dev.to/vishal_sahu/why-you-might-be-looking-for-a-jotform-alternative-and-what-to-choose-1jo3) (2025-10-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The One SQL Trick That Made Our Joins 10x Faster in Production](https://medium.com/@premchandak_11/the-one-sql-trick-that-made-our-joins-10x-faster-in-production-832ef4e81f87?source=rss------programming-5) (2025-10-03)
-- [    :    ✨](https://medium.com/@errichagautam1111/-5efc24f97acc?source=rss------programming-5) (2025-10-03)
-- [ Daily Real Estate Income Growth Strategy](https://medium.com/@yogeshnagar_83290/daily-real-estate-income-growth-strategy-2d3f4ca9587a?source=rss------programming-5) (2025-10-03)
-- [إذا كنت تبحث عن أفضل محامي شرعي في الأردن، أو أقوى محامي شرعي يمكنه أن يتولى قضاياك الشرعية بكل دقة…](https://medium.com/@aaljarrah78/%D8%A5%D8%B0%D8%A7-%D9%83%D9%86%D8%AA-%D8%AA%D8%A8%D8%AD%D8%AB-%D8%B9%D9%86-%D8%A3%D9%81%D8%B6%D9%84-%D9%85%D8%AD%D8%A7%D9%85%D9%8A-%D8%B4%D8%B1%D8%B9%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D8%A3%D9%88-%D8%A3%D9%82%D9%88%D9%89-%D9%85%D8%AD%D8%A7%D9%85%D9%8A-%D8%B4%D8%B1%D8%B9%D9%8A-%D9%8A%D9%85%D9%83%D9%86%D9%87-%D8%A3%D9%86-%D9%8A%D8%AA%D9%88%D9%84%D9%89-%D9%82%D8%B6%D8%A7%D9%8A%D8%A7%D9%83-%D8%A7%D9%84%D8%B4%D8%B1%D8%B9%D9%8A%D8%A9-%D8%A8%D9%83%D9%84-%D8%AF%D9%82%D8%A9-bd4e9c3a09ba?source=rss------programming-5) (2025-10-03)
-- [Why Estonian Developers Are Secretly the Best in the World (The 3 Practices American Teams Refuse…](https://medium.com/@sohail_saifi/why-estonian-developers-are-secretly-the-best-in-the-world-the-3-practices-american-teams-refuse-3ec8e9dcedb0?source=rss------programming-5) (2025-10-03)
+- [Build a Multi-Tenant SaaS with Subdomains in Next.js](https://medium.com/@theNewGenCoder/build-a-multi-tenant-saas-with-subdomains-in-next-js-6b40910da4cf?source=rss------programming-5) (2025-10-03)
+- [Next.js Senior Interview Q&A (2025): Architecture, Perf, Security, and Trade-Offs ⚙️](https://medium.com/@theHackHabitual/next-js-senior-interview-q-a-2025-architecture-perf-security-and-trade-offs-%EF%B8%8F-51c597385d9d?source=rss------programming-5) (2025-10-03)
+- [10 Underrated SwiftUI Libraries That Will Save You Hours in 2025](https://medium.com/@avula.koti.realpage/10-underrated-swiftui-libraries-that-will-save-you-hours-in-2025-698c68619bae?source=rss------programming-5) (2025-10-03)
+- [Next.js Interview Deep-Dive (2025): Model Answers, and Practical Tasks ⚡️](https://medium.com/@TheblogStacker/next-js-interview-deep-dive-2025-model-answers-and-practical-tasks-%EF%B8%8F-cd7f12f73748?source=rss------programming-5) (2025-10-03)
+- [Android Apps File Storage — Scalable, Secure Storage Without managing single server](https://medium.com/@androidlab/android-apps-file-storage-scalable-secure-storage-without-managing-single-server-7eeaa6e2de63?source=rss------programming-5) (2025-10-03)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.](https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/) (2025-09-25)
-- [Agent Factory: Designing the open agentic web stack](https://azure.microsoft.com/en-us/blog/agent-factory-designing-the-open-agentic-web-stack/) (2025-09-24)
 - [How Azure Cobalt 100 VMs are powering real-world solutions, delivering performance and efficiency results](https://azure.microsoft.com/en-us/blog/how-azure-cobalt-100-vms-are-powering-real-world-solutions-delivering-performance-and-efficiency-results/) (2025-09-23)
 - [Accelerate migration and modernization with agentic AI](https://azure.microsoft.com/en-us/blog/accelerate-migration-and-modernization-with-agentic-ai/) (2025-09-23)
 - [Inside the world’s most powerful AI datacenter](https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/) (2025-09-18)
+- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms ](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms/) (2025-09-18)
+- [Agent Factory: Creating a blueprint for safe and secure AI agents](https://azure.microsoft.com/en-us/blog/agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents/) (2025-09-17)
 
 </details>
 
@@ -372,20 +372,20 @@ How to Validate Twilio Event Streams Webhooks in Go
 https://www.twilio.com/en-us/blog/developers/tutorials/how-to-validate-twilio-event-streams-webhooks-in-go
 ) (2025-10-01)
 - [
-ConversationRelay and the AI Agent Builder Dify: A Multimodal Example with Voice
+Gmail to Retire Domain & IP Reputation in Postmaster Tools
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/conversationrelay-agent-dify-voice-messaging
-) (2025-09-29)
+https://www.twilio.com/en-us/blog/insights/gmail-postmaster-tools-changes
+) (2025-10-01)
 - [
-Empowering Partners for the AI Era: Twilio AI Certification Program
+Build a Secure Signup API in .NET that Filters Emails and Verifies with Twilio SendGrid
 ](
-https://www.twilio.com/en-us/blog/partners/spotlights/empowering-partners-for-the-ai-era--twilio-ai-certification-prog
-) (2025-09-29)
+https://www.twilio.com/en-us/blog/developers/community/build-a-secure-signup-api-in-dot-net-filters-emails-verifies-twilio-sendgrid
+) (2025-10-01)
 - [
-Building an OmniChannel Experience: Context Aware Interactions using Salesforce Integration
+The RCS holiday messaging playbook: Turn texts into branded experiences
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/building-an-omnichannel-experience--context-aware-interactions-u
-) (2025-09-26)
+https://www.twilio.com/en-us/blog/insights/best-practices/rcs-messaging-holiday-playbook
+) (2025-10-01)
 
 </details>
 
@@ -546,22 +546,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/building-an-
 <details>
 <summary>🤖 AI News</summary>
 
+- [China Mobile Shanghai launches industry-first 5G-A network monetisation strategy with Huawei](https://www.artificialintelligence-news.com/news/5g-a-shanghai-huawei-network-monetization-football/) (2025-10-03)
 - [AI causes reduction in users’ brain activity – MIT](https://www.artificialintelligence-news.com/news/ai-causes-reduction-in-users-brain-activity-mit/) (2025-10-01)
 - [The 5 best AI AppSec tools in 2025](https://www.artificialintelligence-news.com/news/the-5-best-ai-appsec-tools-in-2025/) (2025-10-01)
 - [Why AI phishing detection will define cybersecurity in 2026](https://www.artificialintelligence-news.com/news/why-ai-phishing-detection-will-define-cybersecurity-in-2026/) (2025-10-01)
 - [Google: EU’s AI adoption lags China amid regulatory hurdles](https://www.artificialintelligence-news.com/news/google-eu-ai-adoption-lags-china-amid-regulatory-hurdles/) (2025-10-01)
-- [The value gap from AI investments is widening dangerously fast](https://www.artificialintelligence-news.com/news/value-gap-ai-investments-widening-dangerously-fast/) (2025-09-30)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [MobileNetV2 Paper Walkthrough: The Smarter Tiny Giant](https://towardsdatascience.com/mobilenetv2-paper-walkthrough-the-smarter-tiny-giant/) (2025-10-03)
 - [Prediction vs. Search Models: What Data Scientists Are Missing](https://towardsdatascience.com/the-economics-of-two-sided-platforms/) (2025-10-02)
 - [AI Engineering and Evals as New Layers of Software Work](https://towardsdatascience.com/ai-engineering-and-evals-as-new-layers-of-software-work/) (2025-10-02)
 - [What Makes a Language Look Like Itself?](https://towardsdatascience.com/what-makes-a-language-look-like-itself/) (2025-10-02)
 - [Smarter, Not Harder: How AI’s Self-Doubt Unlocks Peak Performance](https://towardsdatascience.com/smarter-not-harder-how-ais-self-doubt-unlocks-peak-performance/) (2025-10-02)
-- [Temporal-Difference Learning and the Importance of Exploration: An Illustrated Guide](https://towardsdatascience.com/temporal-difference-learning-and-the-importance-of-exploration-an-illustrated-guide/) (2025-10-02)
 
 </details>
 
@@ -579,11 +579,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/building-an-
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Fun AI Agent Projects for Absolute Beginners](https://www.kdnuggets.com/5-fun-ai-agent-projects-for-absolute-beginners) (2025-10-03)
 - [A Gentle Introduction to MCP Servers and Clients](https://www.kdnuggets.com/a-gentle-introduction-to-mcp-servers-and-clients) (2025-10-02)
 - [We Used 3 Feature Selection Techniques: This One Worked Best](https://www.kdnuggets.com/we-used-3-feature-selection-techniques-this-one-worked-best) (2025-10-02)
 - [Debunking 5 Myths About Cloud Computing for Small Business (Sponsored)](https://www.kdnuggets.com/ingram-micro-debunking-5-myths-about-cloud-computing-for-small-business#new_tab) (2025-10-01)
 - [What Is Cross-Validation? A Plain English Guide with Diagrams](https://www.kdnuggets.com/what-is-cross-validation-a-plain-english-guide-with-diagrams) (2025-10-01)
-- [Qwen Code Leverages Qwen3 as a CLI Agentic Programming Tool](https://www.kdnuggets.com/qwen-code-leverages-qwen3-as-a-cli-agentic-programming-tool) (2025-10-01)
 
 </details>
 
