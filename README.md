@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Can AI companies turn brainrot into revenue?](https://techcrunch.com/video/can-ai-companies-turn-brainrot-into-revenue/) (2025-10-03)
-- [Supabase nabs $5B valuation, four months after hitting $2B](https://techcrunch.com/2025/10/03/supabase-nabs-5b-valuation-four-months-after-hitting-2b/) (2025-10-03)
-- [OpenAI’s Sora soars to No. 1 on Apple’s US App Store](https://techcrunch.com/2025/10/03/openais-sora-soars-to-no-1-on-the-u-s-app-store/) (2025-10-03)
-- [Leaked doc reveals the chaotic politics behind Trump Energy Department cuts](https://techcrunch.com/2025/10/03/leaked-doc-reveals-the-chaotic-politics-behind-trump-energy-department-cuts/) (2025-10-03)
-- [Space defense, gravity, and connectivity with Bridgit Mendler, Even Rogers, and Max Haot at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/03/space-is-open-for-business-with-even-rogers-and-max-haot-at-techcrunch-disrupt-2025/) (2025-10-03)
+- [With its latest acqui-hire, OpenAI is doubling down on personalized consumer AI ](https://techcrunch.com/2025/10/03/with-its-latest-acqui-hire-openai-is-doubling-down-on-personalized-consumer-ai/) (2025-10-03)
+- [Sources: Naveen Rao’s new AI hardware startup targets $5B valuation with backing from a16z ](https://techcrunch.com/2025/10/03/sources-naveen-raos-new-ai-hardware-startup-targets-5b-valuation-with-backing-from-a16z/) (2025-10-03)
+- [What to expect at OpenAI’s DevDay 2025, and how to watch it](https://techcrunch.com/2025/10/03/what-to-expect-at-openais-devday-2025-and-how-to-watch-it/) (2025-10-03)
+- [Snapchat is going to charge for storage — here’s how to save your Memories for free](https://techcrunch.com/2025/10/03/snapchat-is-going-to-charge-for-storage-heres-how-to-save-your-memories-for-free/) (2025-10-03)
+- [Google’s Gemini AI app could soon be getting a big makeover](https://techcrunch.com/2025/10/03/googles-gemini-ai-app-could-soon-be-getting-a-big-makeover/) (2025-10-03)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Email was the user interface for the first AI recommendation engines](https://buttondown.com/blog/ringo-email-as-an-ai-interface) (2025-10-03)
-- [Be Worried](https://dlo.me/archives/2025/10/03/you-should-be-worried/) (2025-10-03)
-- [Ants Trapped in a Soviet Nuclear Bunker Survived for Years](https://www.sciencealert.com/ants-trapped-in-an-old-soviet-nuclear-bunker-survived-for-years-by-turning-on-their-own) (2025-10-03)
-- [Depot (YC W23) Is Hiring a Principal Design Engineer (Remote US/EU)](https://www.ycombinator.com/companies/depot/jobs/qg8iVTz-principal-design-engineer) (2025-10-03)
-- [The Collapse of the Econ PhD Job Market](https://www.chrisbrunet.com/p/the-collapse-of-the-econ-phd-job) (2025-10-03)
+- [Binary Formats Gallery](https://formats.kaitai.io/) (2025-10-04)
+- [When private practices merge with hospital systems, costs go up](https://insights.som.yale.edu/insights/when-private-practices-merge-with-hospital-systems-costs-go-up) (2025-10-03)
+- [Zig builds are getting faster](https://mitchellh.com/writing/zig-builds-getting-faster) (2025-10-03)
+- [Against the Uncritical Adoption of 'AI' Technologies in Academia](https://zenodo.org/records/17065099) (2025-10-03)
+- [TrueVault (YC W14) Is Hiring a BDR (Ex-ECommerce Manager)](https://www.ycombinator.com/companies/truevault/jobs/FaC8Apo-ecommerce-manager-bdr) (2025-10-03)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Hori’s new Switch 2 controller lets you deactivate its home and screenshot buttons](https://www.theverge.com/news/791438/hori-wireless-horipad-turbo-nintendo-switch-2-controller) (2025-10-03)
-- [Tesla’s cheaper Model Y finally breaks cover](https://www.theverge.com/news/791414/tesla-model-y-cheap-affordable-photos-leak) (2025-10-03)
-- [I’ve fallen into Sora’s slippery slop](https://www.theverge.com/ai-artificial-intelligence/791290/openai-sora-ai-generated-video-hands-on) (2025-10-03)
-- [Trump rolled YouTube into paying for his ballroom](https://www.theverge.com/policy/791355/trump-youtube-google-antitrust-ballroom) (2025-10-03)
-- [Sony shrinks PS5 Slim storage in the US, too](https://www.theverge.com/news/791380/sony-ps5-slim-reduced-storage-2100-model-series) (2025-10-03)
+- [Oregon’s National Guard lawsuit hinges on Trump’s Truth Social posts](https://www.theverge.com/policy/792042/trump-oregon-national-guard-tro) (2025-10-04)
+- [Discord customer service data breach leaks user info and scanned photo IDs](https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack) (2025-10-03)
+- [Tales from the AI hiring frenzy](https://www.theverge.com/column/791572/ai-hiring-frenzy-startup-challenges) (2025-10-03)
+- [Unity discloses a years-old security exploit and urges developers to update their games](https://www.theverge.com/news/791609/unity-security-exploit-developers-update-games) (2025-10-03)
+- [Google removes ICE-spotting app following Apple’s ICEBlock crackdown](https://www.theverge.com/news/791533/google-apple-ice-tracking-app-store-red-dot-iceblock) (2025-10-03)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Rally Arcade Classics is a fun ’90s-throwback racing game](https://arstechnica.com/gaming/2025/10/rally-arcade-classics-is-a-fun-90s-throwback-racing-game/) (2025-10-03)
-- [Apple iPhone 17 Pro review: Come for the camera, stay for the battery](https://arstechnica.com/gadgets/2025/10/apple-iphone-17-pro-review-come-for-the-camera-stay-for-the-battery/) (2025-10-03)
-- [Scientists revive old Bulgarian recipe to make yogurt with ants](https://arstechnica.com/science/2025/10/how-ants-can-kick-start-fermentation-to-make-yogurt/) (2025-10-03)
-- [Illinois utility tries using electric school buses for bidirectional charging](https://arstechnica.com/cars/2025/10/illinois-utility-tries-using-electric-school-buses-for-bidirectional-charging/) (2025-10-03)
-- [Rocket Report: Alpha explodes on test stand; Europe wants a mini Starship](https://arstechnica.com/space/2025/10/rocket-report-alpha-explodes-on-test-stand-europe-wants-a-mini-starship/) (2025-10-03)
+- [Nearly 80% of Americans want Congress to extend ACA tax credits, poll finds](https://arstechnica.com/health/2025/10/most-americans-want-aca-tax-credits-extended-even-57-of-maga-supporters/) (2025-10-03)
+- [Removing these 50 objects from orbit would cut danger from space junk in half](https://arstechnica.com/space/2025/10/everyone-but-china-has-pretty-much-stopped-littering-in-low-earth-orbit/) (2025-10-03)
+- [A biological 0-day? Threat-screening tools may miss AI-designed proteins.](https://arstechnica.com/science/2025/10/do-ai-designed-proteins-create-a-biosecurity-vulnerability/) (2025-10-03)
+- [Google confirms Android dev verification will have free and paid tiers, no public list of devs](https://arstechnica.com/gadgets/2025/10/google-confirms-android-dev-verification-will-have-free-and-paid-tiers-no-public-list-of-devs/) (2025-10-03)
+- [Ars Live: Is the AI bubble about to pop? A live chat with Ed Zitron.](https://arstechnica.com/ai/2025/10/ars-live-is-the-ai-bubble-about-to-pop-a-live-chat-with-ed-zitron/) (2025-10-03)
 
 </details>
 
@@ -86,33 +86,37 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [One is not the loneliest number for API calls](https://stackoverflow.blog/2025/10/03/one-is-not-the-loneliest-number-for-api-calls/) (2025-10-03)
 - [Building AI-ready teams: Why documentation and culture matter more than tools](https://stackoverflow.blog/2025/10/02/building-ai-ready-teams-why-documentation-and-culture-matter-more-than-tools/) (2025-10-02)
 - [Turning investments into impact: Stack Overflow for Teams 2025.7](https://stackoverflow.blog/2025/09/30/turning-investments-into-impact-stack-overflow-for-teams-2025-7/) (2025-09-30)
 - [As your AI gets smarter, so must your API](https://stackoverflow.blog/2025/09/30/as-your-ai-gets-smarter-so-must-your-api/) (2025-09-30)
 - [Making your code base better will make your code coverage worse](https://stackoverflow.blog/2025/09/29/making-your-code-base-better-will-make-your-code-coverage-worse/) (2025-09-29)
-- [Getting Backstage in front of a shifting dev experience](https://stackoverflow.blog/2025/09/26/getting-backstage-in-front-of-a-shifting-dev-experience/) (2025-09-26)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why SPM Needs a CHANGELOG (And How to Write One)](https://dev.to/arshtechpro/why-spm-needs-a-changelog-and-how-to-write-one-1eln) (2025-10-03)
-- [Cercle: Parra for Cuva - Nightjar (Live Version) | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-3a0f) (2025-10-03)
-- [KEXP: strongboi - magic (Live on KEXP)](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-244k) (2025-10-03)
-- [KEXP: Waxahatchee - Much Ado About Nothing (Live on KEXP)](https://dev.to/music_youtube/kexp-waxahatchee-much-ado-about-nothing-live-on-kexp-3ilh) (2025-10-03)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-29g1) (2025-10-03)
+- [🎼 From Container Chaos to Compose Harmony: A DevOps Love Story](https://dev.to/tavernetech/from-container-chaos-to-compose-harmony-a-devops-love-story-5bjc) (2025-10-04)
+- [Mastering Routing in Express with TypeScript](https://dev.to/justwonder/mastering-routing-in-express-with-typescript-4el7) (2025-10-04)
+- [Building on LangChain, FAISS, and Next.js, I turned my mother‑in‑law’s Mexican recipes into SazónBot—a bilingual AI chef that scales dishes, offers substitutions, and even embeds cooking videos. Check out the journey!](https://dev.to/yosolita1978/building-on-langchain-faiss-and-nextjs-i-turned-my-mother-in-laws-mexican-recipes-into-pmg) (2025-10-04)
+- [Unlocking Productivity: How to Leverage AI Tools for Enhanced Development Workflows](https://dev.to/mikeover/unlocking-productivity-how-to-leverage-ai-tools-for-enhanced-development-workflows-4ng2) (2025-10-04)
+- [Building SazónBot: A Journey from Family Recipes to AI Chatbot](https://dev.to/yosolita1978/building-sazonbot-a-journey-from-family-recipes-to-ai-chatbot-3096) (2025-10-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ How I Gave My Side Projects a Second Life](https://medium.com/@sidecrate/how-i-gave-my-side-projects-a-second-life-695cc920fbc3?source=rss------programming-5) (2025-10-03)
-- [I Tried 10 Python Web Frameworks — Only 3 Made Me Feel Like I Wasn’t Wasting My Time](https://blog.stackademic.com/i-tried-10-python-web-frameworks-only-3-made-me-feel-like-i-wasnt-wasting-my-time-b03ba10c586b?source=rss------programming-5) (2025-10-03)
-- [10 Common JSON Errors and How to Fix Them (With a Free JSON Formatter Tool)](https://medium.com/@souh.kd/10-common-json-errors-and-how-to-fix-them-with-a-free-json-formatter-tool-e7d9cef038d4?source=rss------programming-5) (2025-10-03)
-- [I Switched to Go for 30 Days — Here’s What Shocked Me ](https://medium.com/@kushalburad07/i-switched-to-go-for-30-days-heres-what-shocked-me-916d98015d2d?source=rss------programming-5) (2025-10-03)
-- [From Idea to Live App in 48 Hours: The Python Web Development Stack That Changed Everything for Me](https://blog.stackademic.com/from-idea-to-live-app-in-48-hours-the-python-web-development-stack-that-changed-everything-for-me-b626e20e40af?source=rss------programming-5) (2025-10-03)
+- [09055770486شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@eiierurudiiddhhd/09055770486%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-522d8e3039ee?source=rss------programming-5) (2025-10-04)
+- [09055770486شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@eiierurudiiddhhd/09055770486%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-b1d167f6b2d3?source=rss------programming-5) (2025-10-04)
+- [09055770486شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@eiierurudiiddhhd/09055770486%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-bd3c40929d1d?source=rss------programming-5) (2025-10-04)
+- [09336086822](https://medium.com/@mrymthranyshyrazy/09336086822-e02ac1a222a2?source=rss------programming-5) (2025-10-04)
+- [0933.608.6822شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@smyrakhalhthrany/0933-608-6822%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-c1ce18694f39?source=rss------programming-5) (2025-10-04)
 
 </details>
 
@@ -130,11 +134,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.](https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/) (2025-09-25)
-- [Agent Factory: Designing the open agentic web stack](https://azure.microsoft.com/en-us/blog/agent-factory-designing-the-open-agentic-web-stack/) (2025-09-24)
 - [How Azure Cobalt 100 VMs are powering real-world solutions, delivering performance and efficiency results](https://azure.microsoft.com/en-us/blog/how-azure-cobalt-100-vms-are-powering-real-world-solutions-delivering-performance-and-efficiency-results/) (2025-09-23)
 - [Accelerate migration and modernization with agentic AI](https://azure.microsoft.com/en-us/blog/accelerate-migration-and-modernization-with-agentic-ai/) (2025-09-23)
 - [Inside the world’s most powerful AI datacenter](https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/) (2025-09-18)
+- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms ](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms/) (2025-09-18)
+- [Agent Factory: Creating a blueprint for safe and secure AI agents](https://azure.microsoft.com/en-us/blog/agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents/) (2025-09-17)
 
 </details>
 
