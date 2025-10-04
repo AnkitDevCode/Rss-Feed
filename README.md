@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Bezos predicts that millions will live in space kind of soon](https://techcrunch.com/2025/10/03/bezos-predicts-that-millions-will-live-in-space-kind-of-soon/) (2025-10-04)
-- [With its latest acqui-hire, OpenAI is doubling down on personalized consumer AI ](https://techcrunch.com/2025/10/03/with-its-latest-acqui-hire-openai-is-doubling-down-on-personalized-consumer-ai/) (2025-10-03)
-- [Sources: Naveen Rao’s new AI hardware startup targets $5B valuation with backing from a16z ](https://techcrunch.com/2025/10/03/sources-naveen-raos-new-ai-hardware-startup-targets-5b-valuation-with-backing-from-a16z/) (2025-10-03)
-- [What to expect at OpenAI’s DevDay 2025, and how to watch it](https://techcrunch.com/2025/10/03/what-to-expect-at-openais-devday-2025-and-how-to-watch-it/) (2025-10-03)
-- [Snapchat is going to charge for storage — here’s how to save your Memories for free](https://techcrunch.com/2025/10/03/snapchat-is-going-to-charge-for-storage-heres-how-to-save-your-memories-for-free/) (2025-10-03)
+- [Instacrops will demo its water-saving, crop-boosting AI at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/04/instacrops-will-demo-its-water-saving-crop-boosting-ai-at-techcrunch-disrupt-2025/) (2025-10-04)
+- [Sam Altman says Sora will add ‘granular,’ opt-in copyright controls](https://techcrunch.com/2025/10/04/sam-altman-says-sora-will-add-granular-opt-in-copyright-controls/) (2025-10-04)
+- [Event startup Partiful wasn’t stripping GPS locations from user-uploaded photos](https://techcrunch.com/2025/10/04/event-startup-partiful-wasnt-stripping-gps-locations-from-user-uploaded-photos/) (2025-10-04)
+- [Tesla’s insurance arm accused of ‘egregious delays’ and ‘systemic failures’ by CA regulator](https://techcrunch.com/2025/10/04/teslas-insurance-arm-accused-of-egregious-delays-and-systemic-failures-by-ca-regulator/) (2025-10-04)
+- [Bezos predicts that millions will live in space in ‘couple of decades’](https://techcrunch.com/2025/10/03/bezos-predicts-that-millions-will-live-in-space-kind-of-soon/) (2025-10-04)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Buchstabenmuseum Berlin closing after 20 year](https://www.buchstabenmuseum.de/en/) (2025-10-04)
-- [Scientists are discovering a powerful new way to prevent cancer (Economist)](https://www.economist.com/science-and-technology/2025/09/02/scientists-are-discovering-a-powerful-new-way-to-prevent-cancer) (2025-10-04)
-- [Paged Out Issue #7 [pdf]](https://pagedout.institute/download/PagedOut_007.pdf) (2025-10-04)
-- [Alibaba cloud FPGA: the $200 Kintex UltraScale+](https://essenceia.github.io/projects/alibaba_cloud_fpga/) (2025-10-04)
-- [Toyota runs a car-hacking event to boost security (2024)](https://toyotatimes.jp/en/spotlights/1061.html) (2025-10-04)
+- [Privacy Harm Is Harm](https://www.eff.org/deeplinks/2025/10/privacy-harm-harm) (2025-10-04)
+- [A Comparison of Ada and Rust, Using Solutions to the Advent of Code](https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md) (2025-10-04)
+- [How I influence tech company politics as a staff software engineer](https://www.seangoedecke.com/how-to-influence-politics/) (2025-10-04)
+- [Self-Hosting Email Like It's 1984](https://maxadamski.com/blog/2025/10/email.html) (2025-10-04)
+- [Flock's gunshot detection microphones will start listening for human voices](https://www.eff.org/deeplinks/2025/10/flocks-gunshot-detection-microphones-will-start-listening-human-voices) (2025-10-04)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Acer&#8217;s latest Spin 514 is so close to Chromebook greatness](https://www.theverge.com/tech/791532/acer-chromebook-plus-spin-514-2in1-laptop-review) (2025-10-04)
-- [Oregon’s National Guard lawsuit hinges on Trump’s Truth Social posts](https://www.theverge.com/policy/792042/trump-oregon-national-guard-tro) (2025-10-04)
-- [Discord customer service data breach leaks user info and scanned photo IDs](https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack) (2025-10-03)
-- [Tales from the AI hiring frenzy](https://www.theverge.com/column/791572/ai-hiring-frenzy-startup-challenges) (2025-10-03)
-- [Unity discloses a years-old security exploit and urges developers to update their games](https://www.theverge.com/news/791609/unity-security-exploit-developers-update-games) (2025-10-03)
+- [This week&#8217;s best deal is a &#8216;kids&#8217; Kindle Paperwhite that&#8217;s better than the adult version](https://www.theverge.com/tech/791728/kindle-paperwhite-kids-sonos-era-100-deal-sale) (2025-10-04)
+- [Daniel Ek stepping down changes nothing for Spotify](https://www.theverge.com/report/791593/daniel-ek-stepping-down-changes-nothing-for-artists-boycotting-spotify) (2025-10-04)
+- [Ecovacs’ Deebot X8 and X9 Pro Omni robovacs have hit a new low price](https://www.theverge.com/tech/791106/ecovacs-deebot-x8-x9-pro-omni-robot-vacuum-prime-day-deal-sale) (2025-10-04)
+- [Instagram wants me to make content — I just want to post a photo](https://www.theverge.com/tech/791595/instagram-uploading-features-content) (2025-10-04)
+- [Tilly Norwood is a gen AI psyop](https://www.theverge.com/ai-artificial-intelligence/791680/tilly-norwood-particle6-xicoia-eline-van-der-velden) (2025-10-04)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [ICE wants to build a 24/7 social media surveillance team](https://arstechnica.com/security/2025/10/ice-wants-to-build-a-24-7-social-media-surveillance-team/) (2025-10-04)
+- [How different mushrooms learned the same psychedelic trick](https://arstechnica.com/science/2025/10/how-different-mushrooms-learned-the-same-psychedelic-trick/) (2025-10-04)
 - [Nearly 80% of Americans want Congress to extend ACA tax credits, poll finds](https://arstechnica.com/health/2025/10/most-americans-want-aca-tax-credits-extended-even-57-of-maga-supporters/) (2025-10-03)
 - [Removing these 50 objects from orbit would cut danger from space junk in half](https://arstechnica.com/space/2025/10/everyone-but-china-has-pretty-much-stopped-littering-in-low-earth-orbit/) (2025-10-03)
 - [A biological 0-day? Threat-screening tools may miss AI-designed proteins.](https://arstechnica.com/science/2025/10/do-ai-designed-proteins-create-a-biosecurity-vulnerability/) (2025-10-03)
-- [Google confirms Android dev verification will have free and paid tiers, no public list of devs](https://arstechnica.com/gadgets/2025/10/google-confirms-android-dev-verification-will-have-free-and-paid-tiers-no-public-list-of-devs/) (2025-10-03)
-- [Ars Live: Is the AI bubble about to pop? A live chat with Ed Zitron.](https://arstechnica.com/ai/2025/10/ars-live-is-the-ai-bubble-about-to-pop-a-live-chat-with-ed-zitron/) (2025-10-03)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Trying Out Arm's Scalable Matrix Extension with Apple M4 or QEMU](https://dev.to/aratamizuki/trying-out-arms-scalable-matrix-extension-with-apple-m4-or-qemu-1cgh) (2025-10-04)
-- [The Local Data Regeneration Paradigm: Ontological Shift from Data Transmission to Synchronous State Discovery](https://dev.to/smartlegionlab/the-local-data-regeneration-paradigm-ontological-shift-from-data-transmission-to-synchronous-state-21e) (2025-10-04)
-- [Join Me in Building the Ultimate C++ Telegram Bot Framework!](https://dev.to/oasispioneer/join-me-in-building-the-ultimate-c-telegram-bot-framework-nkh) (2025-10-04)
-- [GameSpot: Ghost of Yotei - Creative High Level Combat](https://dev.to/gg_news/gamespot-ghost-of-yotei-creative-high-level-combat-1a86) (2025-10-04)
-- [IGN: What Pokemon Reveals About Peacemaker's Earth-X - IGN Daily Fix](https://dev.to/gg_news/ign-what-pokemon-reveals-about-peacemakers-earth-x-ign-daily-fix-49ig) (2025-10-04)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don't Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-2h65) (2025-10-04)
+- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-5bnj) (2025-10-04)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong's Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-dg1) (2025-10-04)
+- [The Game Theorists: Game Theory: FINALLY Reacting To Your FNAF Theories](https://dev.to/gg_news/the-game-theorists-game-theory-finally-reacting-to-your-fnaf-theories-21e1) (2025-10-04)
+- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-3lhj) (2025-10-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How I Simplified My Android App’s Data Layer with Room and Kotlin](https://medium.com/@iamrajeshjena/how-i-simplified-my-android-apps-data-layer-with-room-and-kotlin-395fd3d024d5?source=rss------programming-5) (2025-10-04)
-- [How Spring Boot 4 Reinvents Backend Development: Key Features Explained](https://medium.com/@anshusinghal703/how-spring-boot-4-reinvents-backend-development-key-features-explained-1a928bb5784d?source=rss------programming-5) (2025-10-04)
-- [Launch a Full-Stack App on the Edge — Free, Fast, and (Surprisingly) Robust](https://medium.com/@leucopsis/launch-a-full-stack-app-on-the-edge-free-fast-and-surprisingly-robust-ebe26fdb51ab?source=rss------programming-5) (2025-10-04)
-- [10 Free Developer Tools That Will 10x Your Performance Instantly](https://medium.com/@premchandak_11/10-free-developer-tools-that-will-10x-your-performance-instantly-2bec4dbca0e1?source=rss------programming-5) (2025-10-04)
-- [Stop Setting Yourself Up for a Bad Day](https://medium.com/@adeebrehman50/stop-setting-yourself-up-for-a-bad-day-2cebbbabddd5?source=rss------programming-5) (2025-10-04)
+- [What Debugging Taught Me About Leadership](https://medium.com/@flores.jorgeluis/what-debugging-taught-me-about-leadership-d10975fe5b7a?source=rss------programming-5) (2025-10-04)
+- [Developing Multi-Stage Docker Builds for Optimized Application Deployment](https://arnab-k.medium.com/developing-multi-stage-docker-builds-for-optimized-application-deployment-85281fa8a84b?source=rss------programming-5) (2025-10-04)
+- [I Built a Python Script That Monitors Real Estate Deals in Real Time](https://medium.com/codrift/i-built-a-python-script-that-monitors-real-estate-deals-in-real-time-ec541f8ae868?source=rss------programming-5) (2025-10-04)
+- [Kotlin: 5 Advanced Coroutines Patterns That Scale in Production](https://medium.com/@cleanCompile/kotlin-5-advanced-coroutines-patterns-that-scale-in-production-f6338ebe8a6a?source=rss------programming-5) (2025-10-04)
+- [The Ethical Minefield of Self-Driving Software: Bugs That Kill](https://medium.com/@tihomir.manushev/the-ethical-minefield-of-self-driving-software-bugs-that-kill-56d6a04852b7?source=rss------programming-5) (2025-10-04)
 
 </details>
 
@@ -557,11 +557,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/rcs-messaging-holiday-
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Real-Time Intelligence in Microsoft Fabric: The Ultimate Guide](https://towardsdatascience.com/real-time-intelligence-in-microsoft-fabric-the-ultimate-guide/) (2025-10-04)
+- [How to Build a Powerful Deep Research System](https://towardsdatascience.com/how-to-build-a-powerful-deep-research-system/) (2025-10-04)
 - [Build a Data Dashboard Using HTML, CSS, and JavaScript](https://towardsdatascience.com/build-a-data-dashboard-using-html-css-javascript/) (2025-10-03)
 - [MobileNetV2 Paper Walkthrough: The Smarter Tiny Giant](https://towardsdatascience.com/mobilenetv2-paper-walkthrough-the-smarter-tiny-giant/) (2025-10-03)
 - [Prediction vs. Search Models: What Data Scientists Are Missing](https://towardsdatascience.com/the-economics-of-two-sided-platforms/) (2025-10-02)
-- [AI Engineering and Evals as New Layers of Software Work](https://towardsdatascience.com/ai-engineering-and-evals-as-new-layers-of-software-work/) (2025-10-02)
-- [What Makes a Language Look Like Itself?](https://towardsdatascience.com/what-makes-a-language-look-like-itself/) (2025-10-02)
 
 </details>
 
