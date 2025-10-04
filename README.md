@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Bezos predicts that millions will live in space kind of soon](https://techcrunch.com/2025/10/03/bezos-predicts-that-millions-will-live-in-space-kind-of-soon/) (2025-10-04)
 - [With its latest acqui-hire, OpenAI is doubling down on personalized consumer AI ](https://techcrunch.com/2025/10/03/with-its-latest-acqui-hire-openai-is-doubling-down-on-personalized-consumer-ai/) (2025-10-03)
 - [Sources: Naveen Rao’s new AI hardware startup targets $5B valuation with backing from a16z ](https://techcrunch.com/2025/10/03/sources-naveen-raos-new-ai-hardware-startup-targets-5b-valuation-with-backing-from-a16z/) (2025-10-03)
 - [What to expect at OpenAI’s DevDay 2025, and how to watch it](https://techcrunch.com/2025/10/03/what-to-expect-at-openais-devday-2025-and-how-to-watch-it/) (2025-10-03)
 - [Snapchat is going to charge for storage — here’s how to save your Memories for free](https://techcrunch.com/2025/10/03/snapchat-is-going-to-charge-for-storage-heres-how-to-save-your-memories-for-free/) (2025-10-03)
-- [Google’s Gemini AI app could soon be getting a big makeover](https://techcrunch.com/2025/10/03/googles-gemini-ai-app-could-soon-be-getting-a-big-makeover/) (2025-10-03)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Starship's Eleventh Flight Test](https://www.spacex.com/launches/starship-flight-11) (2025-10-04)
+- [Buchstabenmuseum Berlin closing after 20 year](https://www.buchstabenmuseum.de/en/) (2025-10-04)
+- [Scientists are discovering a powerful new way to prevent cancer (Economist)](https://www.economist.com/science-and-technology/2025/09/02/scientists-are-discovering-a-powerful-new-way-to-prevent-cancer) (2025-10-04)
+- [Paged Out Issue #7 [pdf]](https://pagedout.institute/download/PagedOut_007.pdf) (2025-10-04)
+- [Alibaba cloud FPGA: the $200 Kintex UltraScale+](https://essenceia.github.io/projects/alibaba_cloud_fpga/) (2025-10-04)
 - [Toyota runs a car-hacking event to boost security (2024)](https://toyotatimes.jp/en/spotlights/1061.html) (2025-10-04)
-- [New antibiotic targets IBD and AI predicted how it would work](https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/) (2025-10-04)
-- [Track which Electron apps slow down macOS 26 Tahoe](https://avarayr.github.io/shamelectron/) (2025-10-04)
-- [Sora Update #1](https://blog.samaltman.com/sora-update-number-1) (2025-10-04)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Acer&#8217;s latest Spin 514 is so close to Chromebook greatness](https://www.theverge.com/tech/791532/acer-chromebook-plus-spin-514-2in1-laptop-review) (2025-10-04)
 - [Oregon’s National Guard lawsuit hinges on Trump’s Truth Social posts](https://www.theverge.com/policy/792042/trump-oregon-national-guard-tro) (2025-10-04)
 - [Discord customer service data breach leaks user info and scanned photo IDs](https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack) (2025-10-03)
 - [Tales from the AI hiring frenzy](https://www.theverge.com/column/791572/ai-hiring-frenzy-startup-challenges) (2025-10-03)
 - [Unity discloses a years-old security exploit and urges developers to update their games](https://www.theverge.com/news/791609/unity-security-exploit-developers-update-games) (2025-10-03)
-- [Google removes ICE-spotting app following Apple’s ICEBlock crackdown](https://www.theverge.com/news/791533/google-apple-ice-tracking-app-store-red-dot-iceblock) (2025-10-03)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Cercle: Parra for Cuva - Nightjar (Live Version) | Cercle Odyssey](https://dev.to/music_youtube/cercle-parra-for-cuva-nightjar-live-version-cercle-odyssey-5ah4) (2025-10-04)
-- [KEXP: strongboi - magic (Live on KEXP)](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-39jf) (2025-10-04)
-- [KEXP: Waxahatchee - Evil Spawn (Live on KEXP)](https://dev.to/music_youtube/kexp-waxahatchee-evil-spawn-live-on-kexp-e3b) (2025-10-04)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-3j1c) (2025-10-04)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-4l8g) (2025-10-04)
+- [Trying Out Arm's Scalable Matrix Extension with Apple M4 or QEMU](https://dev.to/aratamizuki/trying-out-arms-scalable-matrix-extension-with-apple-m4-or-qemu-1cgh) (2025-10-04)
+- [The Local Data Regeneration Paradigm: Ontological Shift from Data Transmission to Synchronous State Discovery](https://dev.to/smartlegionlab/the-local-data-regeneration-paradigm-ontological-shift-from-data-transmission-to-synchronous-state-21e) (2025-10-04)
+- [Join Me in Building the Ultimate C++ Telegram Bot Framework!](https://dev.to/oasispioneer/join-me-in-building-the-ultimate-c-telegram-bot-framework-nkh) (2025-10-04)
+- [GameSpot: Ghost of Yotei - Creative High Level Combat](https://dev.to/gg_news/gamespot-ghost-of-yotei-creative-high-level-combat-1a86) (2025-10-04)
+- [IGN: What Pokemon Reveals About Peacemaker's Earth-X - IGN Daily Fix](https://dev.to/gg_news/ign-what-pokemon-reveals-about-peacemakers-earth-x-ign-daily-fix-49ig) (2025-10-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Know Docker](https://medium.com/mind-meets-machine/i-know-docker-60168fddcdf6?source=rss------programming-5) (2025-10-04)
-- [10 Mind-Blowing Free APIs to Power Up Your Next Project!](https://medium.com/the-software-journal/10-mind-blowing-free-apis-to-power-up-your-next-project-9e867372e392?source=rss------programming-5) (2025-10-04)
-- [C Plus Plus Course In Rawalpindi And Islamabad](https://medium.com/@fitcomputerinstitute/c-plus-plus-course-in-rawalpindi-and-islamabad-93ca4a794cb5?source=rss------programming-5) (2025-10-04)
-- [Why Some Algorithms Only Work at Scale (The Network Effect Paradox)](https://medium.com/@sohail_saifi/why-some-algorithms-only-work-at-scale-the-network-effect-paradox-8c364c612fd3?source=rss------programming-5) (2025-10-04)
-- [Offline-First React Native Apps in 2025: Build Experiences That Never Break ](https://medium.com/@MissLucina/offline-first-react-native-apps-in-2025-build-experiences-that-never-break-8aee4f8076dc?source=rss------programming-5) (2025-10-04)
+- [How I Simplified My Android App’s Data Layer with Room and Kotlin](https://medium.com/@iamrajeshjena/how-i-simplified-my-android-apps-data-layer-with-room-and-kotlin-395fd3d024d5?source=rss------programming-5) (2025-10-04)
+- [How Spring Boot 4 Reinvents Backend Development: Key Features Explained](https://medium.com/@anshusinghal703/how-spring-boot-4-reinvents-backend-development-key-features-explained-1a928bb5784d?source=rss------programming-5) (2025-10-04)
+- [Launch a Full-Stack App on the Edge — Free, Fast, and (Surprisingly) Robust](https://medium.com/@leucopsis/launch-a-full-stack-app-on-the-edge-free-fast-and-surprisingly-robust-ebe26fdb51ab?source=rss------programming-5) (2025-10-04)
+- [10 Free Developer Tools That Will 10x Your Performance Instantly](https://medium.com/@premchandak_11/10-free-developer-tools-that-will-10x-your-performance-instantly-2bec4dbca0e1?source=rss------programming-5) (2025-10-04)
+- [Stop Setting Yourself Up for a Bad Day](https://medium.com/@adeebrehman50/stop-setting-yourself-up-for-a-bad-day-2cebbbabddd5?source=rss------programming-5) (2025-10-04)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/rcs-messaging-holiday-
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Build a Text-to-SQL System: A Guide to Replicating Pinterest’s Approach](https://www.analyticsvidhya.com/blog/2025/10/build-a-text-to-sql-system/) (2025-10-04)
+- [Optimizing Retail Demand Forecasting with Advanced Time-Series Feature Engineering in SQL and Python](https://www.analyticsvidhya.com/blog/2025/10/retail-demand-forecasting/) (2025-10-04)
 - [Data-Driven Hiring: Leveraging Workday with Analytics Platforms](https://www.analyticsvidhya.com/blog/2025/10/data-driven-hiring/) (2025-10-03)
 - [A2A vs MCP vs AP2: Different Between AI Communication Protocols](https://www.analyticsvidhya.com/blog/2025/10/a2a-vs-mcp-vs-ap2/) (2025-10-03)
 - [OpenAI’s GDPval Isn’t Just a Test, It’s a Tool for Navigation](https://www.analyticsvidhya.com/blog/2025/10/openai-gdpval/) (2025-10-02)
-- [How to Access GitHub Copilot CLI? ](https://www.analyticsvidhya.com/blog/2025/10/github-copilot-cli/) (2025-10-02)
-- [Ok Computer by Kimi: An AI Agent That Does Everything for You, for Free!](https://www.analyticsvidhya.com/blog/2025/10/kimi-ok-computer/) (2025-10-01)
 
 </details>
 
