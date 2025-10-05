@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [How ICE Is Using Your Data – and What You Can Do About It](https://www.kqed.org/news/12055606/how-ice-is-using-your-data-and-what-you-can-do-about-it) (2025-10-05)
-- [Space Mission Options for Reconnaissance and Mitigation of Asteroid 2024 YR4](https://arxiv.org/abs/2509.12351) (2025-10-04)
-- [Probiotics Finder](https://www.probioticfinder.org/) (2025-10-04)
-- [Borehole Oscillators](https://www.gregegan.net/SCIENCE/Borehole/Borehole.html) (2025-10-04)
-- [OpenAI's hunger for computing power has Sam Altman dashing around the globe](https://www.wsj.com/tech/ai/openai-sam-altman-asia-middle-east-7b660809) (2025-10-04)
+- [Way past its prime: how did Amazon get so rubbish?](https://www.theguardian.com/technology/2025/oct/05/way-past-its-prime-how-did-amazon-get-so-rubbish) (2025-10-05)
+- [Scientists debunk claims of seed oil health risks](https://hsph.harvard.edu/news/scientists-debunk-seed-oil-health-risks/) (2025-10-05)
+- [Americans increasingly see legal sports betting as a bad thing for society](https://www.pewresearch.org/short-reads/2025/10/02/americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society-and-sports/) (2025-10-05)
+- [Parrot – type-safe SQL in Gleam, supports SQlite, PostgreSQL and MySQL](https://github.com/daniellionel01/parrot) (2025-10-05)
+- [Mod. 5140 - IBM's First Laptop Computer](https://richardsapperdesign.com/products/mod-5140/) (2025-10-05)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [ASP .NET Core FluentValidation](https://dev.to/karenpayneoregon/aspnet-core-fluentvalidation-16nc) (2025-10-05)
-- [100 Days of DevOps: Day 62.](https://dev.to/wycliffealphus/100-days-of-devops-day-62-31he) (2025-10-05)
-- [Hack'spire25 on top 💥🔥](https://dev.to/debaditya_saha_5b45172210/hackspire25-on-top-4lco) (2025-10-05)
-- [100 Days of DevOps: Day 62](https://dev.to/wycliffealphus/100-days-of-devops-day-63-20bi) (2025-10-05)
-- [Explorando o Java 25: O Que Há de Novo na Última Versão LTS do Java](https://dev.to/ikauedev/explorando-o-java-25-o-que-ha-de-novo-na-ultima-versao-lts-do-java-50gj) (2025-10-05)
+- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong's Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-5bld) (2025-10-05)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-3ibi) (2025-10-05)
+- [GameSpot: Ghost Of Yotei 10 Tips We Wish We Knew Before Playing](https://dev.to/gg_news/gamespot-ghost-of-yotei-10-tips-we-wish-we-knew-before-playing-no0) (2025-10-05)
+- [GameSpot: Super Mario Galaxy And Galaxy 2 Are Still Peak 3D Platforming](https://dev.to/gg_news/gamespot-super-mario-galaxy-and-galaxy-2-are-still-peak-3d-platforming-4bke) (2025-10-05)
+- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-397a) (2025-10-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [7 Hidden Gin Middleware Patterns to Eliminate 80% of Your Go Boilerplate Code](https://medium.techkoalainsights.com/7-hidden-gin-middleware-patterns-to-eliminate-80-of-your-go-boilerplate-code-be6228e5126c?source=rss------programming-5) (2025-10-05)
-- [Supercharge Your Neovim with FKvim: A Guide to a Customizable Lightweight IDE](https://medium.com/@the.mayank.k.jha/supercharge-your-neovim-with-fkvim-a-guide-to-a-customizable-lightweight-ide-462b295ca774?source=rss------programming-5) (2025-10-05)
-- [10 Python Features I Wish I Learned Sooner](https://medium.com/codrift/10-python-features-i-wish-i-learned-sooner-bb6075dd9fe4?source=rss------programming-5) (2025-10-05)
-- [AI : Model Context Protocol](https://medium.com/@angadi.saa/ai-model-context-protocol-bd7c303c1c5a?source=rss------programming-5) (2025-10-05)
-- [How To Rate Limit, Validate Requests, and Cache in Node.js (2025 edition)](https://medium.com/@colizu2020/how-to-rate-limit-validate-requests-and-cache-in-node-js-2025-edition-603f5a03c85c?source=rss------programming-5) (2025-10-05)
+- [Inheritance is a Lie: How Rust’s Trait Objects Finally Deliver Truly Flexible Code](https://medium.com/@kedarbpatil07/inheritance-is-a-lie-how-rusts-trait-objects-finally-deliver-truly-flexible-code-2b575869a6dd?source=rss------programming-5) (2025-10-05)
+- [ Mastering React Native with TypeScript — The Future of Scalable Mobile Development](https://medium.com/@TheEnaModernCoder/mastering-react-native-with-typescript-the-future-of-scalable-mobile-development-9f3757103987?source=rss------programming-5) (2025-10-05)
+- [Our Experience with Domain-Driven Design in a Growing Codebase](https://medium.com/@sohail_saifii/our-experience-with-domain-driven-design-in-a-growing-codebase-c76883085acd?source=rss------programming-5) (2025-10-05)
+- [From Panic to Production: My First 48 Hours with TypeScript](https://niranjanpanwar.medium.com/from-panic-to-production-my-first-48-hours-with-typescript-bc2a4724988a?source=rss------programming-5) (2025-10-05)
+- [ Web Development in 2025: The Rise of Edge Computing & Modern Architectures ⚡](https://medium.com/@theHackHabitual/web-development-in-2025-the-rise-of-edge-computing-modern-architectures-5d76dda945b1?source=rss------programming-5) (2025-10-05)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/rcs-messaging-holiday-
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Top 15 DBMS Interview Questions](https://www.analyticsvidhya.com/blog/2025/10/top-dbms-interview-questions/) (2025-10-05)
 - [The rise of Agentic AI: How Multi-Agent Workflows are Shaping the Future of AI](https://www.analyticsvidhya.com/blog/2025/10/multi-agent-workflow/) (2025-10-05)
 - [Build a Text-to-SQL System: A Guide to Replicating Pinterest’s Approach](https://www.analyticsvidhya.com/blog/2025/10/build-a-text-to-sql-system/) (2025-10-04)
 - [Optimizing Retail Demand Forecasting with Advanced Time-Series Feature Engineering in SQL and Python](https://www.analyticsvidhya.com/blog/2025/10/retail-demand-forecasting/) (2025-10-04)
 - [Data-Driven Hiring: Leveraging Workday with Analytics Platforms](https://www.analyticsvidhya.com/blog/2025/10/data-driven-hiring/) (2025-10-03)
-- [A2A vs MCP vs AP2: Different Between AI Communication Protocols](https://www.analyticsvidhya.com/blog/2025/10/a2a-vs-mcp-vs-ap2/) (2025-10-03)
 
 </details>
 
