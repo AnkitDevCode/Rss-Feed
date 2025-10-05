@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Instacrops will demo its water-saving, crop-boosting AI at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/04/instacrops-will-demo-its-water-saving-crop-boosting-ai-at-techcrunch-disrupt-2025/) (2025-10-04)
-- [Sam Altman says Sora will add ‘granular,’ opt-in copyright controls](https://techcrunch.com/2025/10/04/sam-altman-says-sora-will-add-granular-opt-in-copyright-controls/) (2025-10-04)
-- [Event startup Partiful wasn’t stripping GPS locations from user-uploaded photos](https://techcrunch.com/2025/10/04/event-startup-partiful-wasnt-stripping-gps-locations-from-user-uploaded-photos/) (2025-10-04)
-- [Tesla’s insurance arm accused of ‘egregious delays’ and ‘systemic failures’ by CA regulator](https://techcrunch.com/2025/10/04/teslas-insurance-arm-accused-of-egregious-delays-and-systemic-failures-by-ca-regulator/) (2025-10-04)
-- [Bezos predicts that millions will live in space in ‘couple of decades’](https://techcrunch.com/2025/10/03/bezos-predicts-that-millions-will-live-in-space-kind-of-soon/) (2025-10-04)
+- [A breach every month raises doubts about South Korea’s digital defenses](https://techcrunch.com/2025/10/04/a-breach-every-month-raises-doubts-about-south-koreas-digital-defenses/) (2025-10-04)
+- [Newsom signs bill giving Uber and Lyft drivers in California the right to unionize](https://techcrunch.com/2025/10/04/newsom-signs-bill-giving-uber-and-lyft-drivers-in-california-the-right-to-unionize/) (2025-10-04)
+- [If you’re not an AI startup, good luck raising money from VCs](https://techcrunch.com/2025/10/04/if-youre-not-an-ai-startup-good-luck-raising-money-from-vcs/) (2025-10-04)
+- [Startups and the U.S. government: It’s getting complicated](https://techcrunch.com/2025/10/04/startups-and-the-u-s-government-its-getting-complicated/) (2025-10-04)
+- [Anker offered Eufy camera owners $2 per video for AI training](https://techcrunch.com/2025/10/04/anker-offered-to-pay-eufy-camera-owners-to-share-videos-for-training-its-ai/) (2025-10-04)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Privacy Harm Is Harm](https://www.eff.org/deeplinks/2025/10/privacy-harm-harm) (2025-10-04)
-- [A Comparison of Ada and Rust, Using Solutions to the Advent of Code](https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md) (2025-10-04)
-- [How I influence tech company politics as a staff software engineer](https://www.seangoedecke.com/how-to-influence-politics/) (2025-10-04)
-- [Self-Hosting Email Like It's 1984](https://maxadamski.com/blog/2025/10/email.html) (2025-10-04)
-- [Flock's gunshot detection microphones will start listening for human voices](https://www.eff.org/deeplinks/2025/10/flocks-gunshot-detection-microphones-will-start-listening-human-voices) (2025-10-04)
+- [How ICE Is Using Your Data – and What You Can Do About It](https://www.kqed.org/news/12055606/how-ice-is-using-your-data-and-what-you-can-do-about-it) (2025-10-05)
+- [Space Mission Options for Reconnaissance and Mitigation of Asteroid 2024 YR4](https://arxiv.org/abs/2509.12351) (2025-10-04)
+- [Probiotics Finder](https://www.probioticfinder.org/) (2025-10-04)
+- [Borehole Oscillators](https://www.gregegan.net/SCIENCE/Borehole/Borehole.html) (2025-10-04)
+- [OpenAI's hunger for computing power has Sam Altman dashing around the globe](https://www.wsj.com/tech/ai/openai-sam-altman-asia-middle-east-7b660809) (2025-10-04)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Pentagon contract figures show ULA’s Vulcan rocket is getting more expensive](https://arstechnica.com/space/2025/10/pentagon-contract-figures-show-ulas-vulcan-rocket-is-getting-more-expensive/) (2025-10-04)
 - [ICE wants to build a 24/7 social media surveillance team](https://arstechnica.com/security/2025/10/ice-wants-to-build-a-24-7-social-media-surveillance-team/) (2025-10-04)
 - [How different mushrooms learned the same psychedelic trick](https://arstechnica.com/science/2025/10/how-different-mushrooms-learned-the-same-psychedelic-trick/) (2025-10-04)
 - [Nearly 80% of Americans want Congress to extend ACA tax credits, poll finds](https://arstechnica.com/health/2025/10/most-americans-want-aca-tax-credits-extended-even-57-of-maga-supporters/) (2025-10-03)
 - [Removing these 50 objects from orbit would cut danger from space junk in half](https://arstechnica.com/space/2025/10/everyone-but-china-has-pretty-much-stopped-littering-in-low-earth-orbit/) (2025-10-03)
-- [A biological 0-day? Threat-screening tools may miss AI-designed proteins.](https://arstechnica.com/science/2025/10/do-ai-designed-proteins-create-a-biosecurity-vulnerability/) (2025-10-03)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Rick Beato: Listening to the Spotify Top 10 So You Don't Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-2h65) (2025-10-04)
-- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-5bnj) (2025-10-04)
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong's Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-dg1) (2025-10-04)
-- [The Game Theorists: Game Theory: FINALLY Reacting To Your FNAF Theories](https://dev.to/gg_news/the-game-theorists-game-theory-finally-reacting-to-your-fnaf-theories-21e1) (2025-10-04)
-- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-3lhj) (2025-10-04)
+- [ASP .NET Core FluentValidation](https://dev.to/karenpayneoregon/aspnet-core-fluentvalidation-16nc) (2025-10-05)
+- [100 Days of DevOps: Day 62.](https://dev.to/wycliffealphus/100-days-of-devops-day-62-31he) (2025-10-05)
+- [Hack'spire25 on top 💥🔥](https://dev.to/debaditya_saha_5b45172210/hackspire25-on-top-4lco) (2025-10-05)
+- [100 Days of DevOps: Day 62](https://dev.to/wycliffealphus/100-days-of-devops-day-63-20bi) (2025-10-05)
+- [Explorando o Java 25: O Que Há de Novo na Última Versão LTS do Java](https://dev.to/ikauedev/explorando-o-java-25-o-que-ha-de-novo-na-ultima-versao-lts-do-java-50gj) (2025-10-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [What Debugging Taught Me About Leadership](https://medium.com/@flores.jorgeluis/what-debugging-taught-me-about-leadership-d10975fe5b7a?source=rss------programming-5) (2025-10-04)
-- [Developing Multi-Stage Docker Builds for Optimized Application Deployment](https://arnab-k.medium.com/developing-multi-stage-docker-builds-for-optimized-application-deployment-85281fa8a84b?source=rss------programming-5) (2025-10-04)
-- [I Built a Python Script That Monitors Real Estate Deals in Real Time](https://medium.com/codrift/i-built-a-python-script-that-monitors-real-estate-deals-in-real-time-ec541f8ae868?source=rss------programming-5) (2025-10-04)
-- [Kotlin: 5 Advanced Coroutines Patterns That Scale in Production](https://medium.com/@cleanCompile/kotlin-5-advanced-coroutines-patterns-that-scale-in-production-f6338ebe8a6a?source=rss------programming-5) (2025-10-04)
-- [The Ethical Minefield of Self-Driving Software: Bugs That Kill](https://medium.com/@tihomir.manushev/the-ethical-minefield-of-self-driving-software-bugs-that-kill-56d6a04852b7?source=rss------programming-5) (2025-10-04)
+- [7 Hidden Gin Middleware Patterns to Eliminate 80% of Your Go Boilerplate Code](https://medium.techkoalainsights.com/7-hidden-gin-middleware-patterns-to-eliminate-80-of-your-go-boilerplate-code-be6228e5126c?source=rss------programming-5) (2025-10-05)
+- [Supercharge Your Neovim with FKvim: A Guide to a Customizable Lightweight IDE](https://medium.com/@the.mayank.k.jha/supercharge-your-neovim-with-fkvim-a-guide-to-a-customizable-lightweight-ide-462b295ca774?source=rss------programming-5) (2025-10-05)
+- [10 Python Features I Wish I Learned Sooner](https://medium.com/codrift/10-python-features-i-wish-i-learned-sooner-bb6075dd9fe4?source=rss------programming-5) (2025-10-05)
+- [AI : Model Context Protocol](https://medium.com/@angadi.saa/ai-model-context-protocol-bd7c303c1c5a?source=rss------programming-5) (2025-10-05)
+- [How To Rate Limit, Validate Requests, and Cache in Node.js (2025 edition)](https://medium.com/@colizu2020/how-to-rate-limit-validate-requests-and-cache-in-node-js-2025-edition-603f5a03c85c?source=rss------programming-5) (2025-10-05)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/rcs-messaging-holiday-
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [The rise of Agentic AI: How Multi-Agent Workflows are Shaping the Future of AI](https://www.analyticsvidhya.com/blog/2025/10/multi-agent-workflow/) (2025-10-05)
 - [Build a Text-to-SQL System: A Guide to Replicating Pinterest’s Approach](https://www.analyticsvidhya.com/blog/2025/10/build-a-text-to-sql-system/) (2025-10-04)
 - [Optimizing Retail Demand Forecasting with Advanced Time-Series Feature Engineering in SQL and Python](https://www.analyticsvidhya.com/blog/2025/10/retail-demand-forecasting/) (2025-10-04)
 - [Data-Driven Hiring: Leveraging Workday with Analytics Platforms](https://www.analyticsvidhya.com/blog/2025/10/data-driven-hiring/) (2025-10-03)
 - [A2A vs MCP vs AP2: Different Between AI Communication Protocols](https://www.analyticsvidhya.com/blog/2025/10/a2a-vs-mcp-vs-ap2/) (2025-10-03)
-- [OpenAI’s GDPval Isn’t Just a Test, It’s a Tool for Navigation](https://www.analyticsvidhya.com/blog/2025/10/openai-gdpval/) (2025-10-02)
 
 </details>
 
