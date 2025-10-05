@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Way past its prime: how did Amazon get so rubbish?](https://www.theguardian.com/technology/2025/oct/05/way-past-its-prime-how-did-amazon-get-so-rubbish) (2025-10-05)
-- [Scientists debunk claims of seed oil health risks](https://hsph.harvard.edu/news/scientists-debunk-seed-oil-health-risks/) (2025-10-05)
-- [Americans increasingly see legal sports betting as a bad thing for society](https://www.pewresearch.org/short-reads/2025/10/02/americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society-and-sports/) (2025-10-05)
-- [Parrot – type-safe SQL in Gleam, supports SQlite, PostgreSQL and MySQL](https://github.com/daniellionel01/parrot) (2025-10-05)
-- [Mod. 5140 - IBM's First Laptop Computer](https://richardsapperdesign.com/products/mod-5140/) (2025-10-05)
+- [Laptops create systems. Phones feed algorithms. The asymmetry determines power](https://zakelfassi.com/command-interface-device-power) (2025-10-05)
+- [Beginner Guide to VPS Hetzner and Coolify](https://bhargav.dev/blog/VPS_Setup_and_Security_Checklist_A_Complete_Self_Hosting_Guide) (2025-10-05)
+- [Personal data storage is an idea whose time has come](https://blog.muni.town/personal-data-storage-idea/) (2025-10-05)
+- [Why I Choose Email over Messaging](https://www.spinellis.gr/blog/20250926/?li) (2025-10-05)
+- [Social Cooling (2017)](https://www.socialcooling.com/) (2025-10-05)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Can tap-to-pay save public transportation?](https://www.theverge.com/column/789127/tap-to-pay-public-transportation) (2025-10-05)
+- [The best lists to keep — and the best ways to keep them](https://www.theverge.com/tech/791905/best-lists-apps-to-do-shopping-installer) (2025-10-05)
 - [This week&#8217;s best deal is a &#8216;kids&#8217; Kindle Paperwhite that&#8217;s better than the adult version](https://www.theverge.com/tech/791728/kindle-paperwhite-kids-sonos-era-100-deal-sale) (2025-10-04)
 - [Daniel Ek stepping down changes nothing for Spotify](https://www.theverge.com/report/791593/daniel-ek-stepping-down-changes-nothing-for-artists-boycotting-spotify) (2025-10-04)
 - [Ecovacs’ Deebot X8 and X9 Pro Omni robovacs have hit a new low price](https://www.theverge.com/tech/791106/ecovacs-deebot-x8-x9-pro-omni-robot-vacuum-prime-day-deal-sale) (2025-10-04)
-- [Instagram wants me to make content — I just want to post a photo](https://www.theverge.com/tech/791595/instagram-uploading-features-content) (2025-10-04)
-- [Tilly Norwood is a gen AI psyop](https://www.theverge.com/ai-artificial-intelligence/791680/tilly-norwood-particle6-xicoia-eline-van-der-velden) (2025-10-04)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Game Theorists: Game Theory: How DEADLY Is Donkey Kong's Punch?](https://dev.to/gg_news/the-game-theorists-game-theory-how-deadly-is-donkey-kongs-punch-5bld) (2025-10-05)
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-3ibi) (2025-10-05)
-- [GameSpot: Ghost Of Yotei 10 Tips We Wish We Knew Before Playing](https://dev.to/gg_news/gamespot-ghost-of-yotei-10-tips-we-wish-we-knew-before-playing-no0) (2025-10-05)
-- [GameSpot: Super Mario Galaxy And Galaxy 2 Are Still Peak 3D Platforming](https://dev.to/gg_news/gamespot-super-mario-galaxy-and-galaxy-2-are-still-peak-3d-platforming-4bke) (2025-10-05)
-- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-397a) (2025-10-05)
+- [happy birthday 🩷](https://dev.to/sanvi_0424fec9c7a19/happy-birthday-210n) (2025-10-05)
+- [Web Developer Travis McCracken on Load Testing Rust APIs with K6](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-load-testing-rust-apis-with-k6-5084) (2025-10-05)
+- [Introduce myself](https://dev.to/gitenghar/introduce-myself-4mka) (2025-10-05)
+- [KEXP: strongboi - magic (Live on KEXP)](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-4ofa) (2025-10-05)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-58o0) (2025-10-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Inheritance is a Lie: How Rust’s Trait Objects Finally Deliver Truly Flexible Code](https://medium.com/@kedarbpatil07/inheritance-is-a-lie-how-rusts-trait-objects-finally-deliver-truly-flexible-code-2b575869a6dd?source=rss------programming-5) (2025-10-05)
-- [ Mastering React Native with TypeScript — The Future of Scalable Mobile Development](https://medium.com/@TheEnaModernCoder/mastering-react-native-with-typescript-the-future-of-scalable-mobile-development-9f3757103987?source=rss------programming-5) (2025-10-05)
-- [Our Experience with Domain-Driven Design in a Growing Codebase](https://medium.com/@sohail_saifii/our-experience-with-domain-driven-design-in-a-growing-codebase-c76883085acd?source=rss------programming-5) (2025-10-05)
-- [From Panic to Production: My First 48 Hours with TypeScript](https://niranjanpanwar.medium.com/from-panic-to-production-my-first-48-hours-with-typescript-bc2a4724988a?source=rss------programming-5) (2025-10-05)
-- [ Web Development in 2025: The Rise of Edge Computing & Modern Architectures ⚡](https://medium.com/@theHackHabitual/web-development-in-2025-the-rise-of-edge-computing-modern-architectures-5d76dda945b1?source=rss------programming-5) (2025-10-05)
+- [Coding Jokes One-Liners: When Python Meets Love❤️](https://python.plainenglish.io/coding-jokes-one-liners-when-python-meets-love-%EF%B8%8F-3d62bd157372?source=rss------programming-5) (2025-10-05)
+- [Implementing the Hangman Game in Python](https://python.plainenglish.io/implementing-the-hangman-game-in-python-e52977039f11?source=rss------programming-5) (2025-10-05)
+- [Loan Milo app CUSTO MER Care number 9589547380 24 hours 6266384374// available call now please.khgji](https://medium.com/@maniseunrayscom/loan-milo-app-custo-mer-care-number-9589547380-24-hours-6266384374-available-call-now-please-khgji-91cc22599d51?source=rss------programming-5) (2025-10-05)
+- [Flutter is Not React Native: 7 Mistakes Developers Keep Making](https://medium.com/@kedarbpatil07/flutter-is-not-react-native-7-mistakes-developers-keep-making-5319067c9a35?source=rss------programming-5) (2025-10-05)
+- [#خاله اصفهان #خاله شیراز #خاله اهواز #خاله کردستان #خاله اسفراین #خاله اقلیم #خاله آباده #خاله مشهد…](https://medium.com/@atfh3960/%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%81%D8%B1%D8%A7%DB%8C%D9%86-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%82%D9%84%DB%8C%D9%85-%D8%AE%D8%A7%D9%84%D9%87-%D8%A2%D8%A8%D8%A7%D8%AF%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D8%B4%D9%87%D8%AF-1ea9631df2d1?source=rss------programming-5) (2025-10-05)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.](https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/) (2025-09-25)
-- [Agent Factory: Designing the open agentic web stack](https://azure.microsoft.com/en-us/blog/agent-factory-designing-the-open-agentic-web-stack/) (2025-09-24)
 - [How Azure Cobalt 100 VMs are powering real-world solutions, delivering performance and efficiency results](https://azure.microsoft.com/en-us/blog/how-azure-cobalt-100-vms-are-powering-real-world-solutions-delivering-performance-and-efficiency-results/) (2025-09-23)
 - [Accelerate migration and modernization with agentic AI](https://azure.microsoft.com/en-us/blog/accelerate-migration-and-modernization-with-agentic-ai/) (2025-09-23)
 - [Inside the world’s most powerful AI datacenter](https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/) (2025-09-18)
+- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms ](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms/) (2025-09-18)
+- [Agent Factory: Creating a blueprint for safe and secure AI agents](https://azure.microsoft.com/en-us/blog/agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents/) (2025-09-17)
 
 </details>
 
