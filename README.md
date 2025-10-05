@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [A breach every month raises doubts about South Korea’s digital defenses](https://techcrunch.com/2025/10/04/a-breach-every-month-raises-doubts-about-south-koreas-digital-defenses/) (2025-10-04)
-- [Newsom signs bill giving Uber and Lyft drivers in California the right to unionize](https://techcrunch.com/2025/10/04/newsom-signs-bill-giving-uber-and-lyft-drivers-in-california-the-right-to-unionize/) (2025-10-04)
-- [If you’re not an AI startup, good luck raising money from VCs](https://techcrunch.com/2025/10/04/if-youre-not-an-ai-startup-good-luck-raising-money-from-vcs/) (2025-10-04)
-- [Startups and the U.S. government: It’s getting complicated](https://techcrunch.com/2025/10/04/startups-and-the-u-s-government-its-getting-complicated/) (2025-10-04)
-- [Anker offered Eufy camera owners $2 per video for AI training](https://techcrunch.com/2025/10/04/anker-offered-to-pay-eufy-camera-owners-to-share-videos-for-training-its-ai/) (2025-10-04)
+- [California’s new AI safety law shows regulation and innovation don’t have to clash ](https://techcrunch.com/2025/10/05/californias-new-ai-safety-law-shows-regulation-and-innovation-dont-have-to-clash/) (2025-10-05)
+- [OpenAI and Jony Ive may be struggling to figure out their AI device](https://techcrunch.com/2025/10/05/openai-and-jony-ive-may-be-struggling-to-figure-out-their-ai-device/) (2025-10-05)
+- [TechCrunch Mobility: Toyota makes a $1.5B bet on the startup ecosystem](https://techcrunch.com/2025/10/05/techcrunch-mobility-toyota-makes-a-1-5b-bet-on-the-startup-ecosystem/) (2025-10-05)
+- [The Reinforcement Gap — or why some AI skills improve faster than others  ](https://techcrunch.com/2025/10/05/the-reinforcement-gap-or-why-some-ai-skills-improve-faster-than-others/) (2025-10-05)
+- [The Young Minds App wants to protect and educate children online and will show its tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/05/the-young-minds-app-wants-to-protect-and-educate-children-online-and-will-show-its-tech-at-techcrunch-disrupt-2025/) (2025-10-05)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Laptops create systems. Phones feed algorithms. The asymmetry determines power](https://zakelfassi.com/command-interface-device-power) (2025-10-05)
-- [Beginner Guide to VPS Hetzner and Coolify](https://bhargav.dev/blog/VPS_Setup_and_Security_Checklist_A_Complete_Self_Hosting_Guide) (2025-10-05)
-- [Personal data storage is an idea whose time has come](https://blog.muni.town/personal-data-storage-idea/) (2025-10-05)
-- [Why I Choose Email over Messaging](https://www.spinellis.gr/blog/20250926/?li) (2025-10-05)
-- [Social Cooling (2017)](https://www.socialcooling.com/) (2025-10-05)
+- [Fire destroys Korean government's cloud storage system, no backups available](https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936) (2025-10-05)
+- [Focus Is Saying No](https://medium.com/@HobokenDays/software-modernization-projects-dilemma-part-2-7f6002c4b6f1) (2025-10-05)
+- [Implicit Actor Critic Coupling via a Supervised Learning Framework for RLVR](https://arxiv.org/abs/2509.02522) (2025-10-05)
+- [BYD Builds World's Fastest Car](https://www.autotrader.co.uk/content/news/byd-builds-world-s-fastest-car) (2025-10-05)
+- [If the University of Chicago won't defend the humanities, who will?](https://www.theatlantic.com/culture/archive/2025/08/university-chicago-humanities-doctorate/684004/) (2025-10-05)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Can tap-to-pay save public transportation?](https://www.theverge.com/column/789127/tap-to-pay-public-transportation) (2025-10-05)
-- [The best lists to keep — and the best ways to keep them](https://www.theverge.com/tech/791905/best-lists-apps-to-do-shopping-installer) (2025-10-05)
-- [This week&#8217;s best deal is a &#8216;kids&#8217; Kindle Paperwhite that&#8217;s better than the adult version](https://www.theverge.com/tech/791728/kindle-paperwhite-kids-sonos-era-100-deal-sale) (2025-10-04)
-- [Daniel Ek stepping down changes nothing for Spotify](https://www.theverge.com/report/791593/daniel-ek-stepping-down-changes-nothing-for-artists-boycotting-spotify) (2025-10-04)
-- [Ecovacs’ Deebot X8 and X9 Pro Omni robovacs have hit a new low price](https://www.theverge.com/tech/791106/ecovacs-deebot-x8-x9-pro-omni-robot-vacuum-prime-day-deal-sale) (2025-10-04)
+- [If you can get past the terrible logo, Audacity 4 looks pretty great](https://www.theverge.com/news/792368/if-you-can-get-past-the-terrible-logo-audacity-4-looks-pretty-great) (2025-10-05)
+- [Roland is finally honoring its legacy instead of just cashing in on it](https://www.theverge.com/entertainment/792209/roland-is-finally-honoring-its-legacy-instead-of-just-cashing-in-tr-1000) (2025-10-05)
+- [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers) (2025-10-05)
+- [The developers behind a hit sausage-dueling game hope Steam launch will take it furter](https://www.theverge.com/entertainment/791353/sausage-legend-steam-launch-interview) (2025-10-05)
+- [Version History is live — here’s how to find it](https://www.theverge.com/podcast/792339/version-history-podcast-hoverboards) (2025-10-05)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [happy birthday 🩷](https://dev.to/sanvi_0424fec9c7a19/happy-birthday-210n) (2025-10-05)
-- [Web Developer Travis McCracken on Load Testing Rust APIs with K6](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-load-testing-rust-apis-with-k6-5084) (2025-10-05)
-- [Introduce myself](https://dev.to/gitenghar/introduce-myself-4mka) (2025-10-05)
-- [KEXP: strongboi - magic (Live on KEXP)](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-4ofa) (2025-10-05)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-58o0) (2025-10-05)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-j5j) (2025-10-05)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-2lia) (2025-10-05)
+- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-4fhe) (2025-10-05)
+- [GameSpot: Ghost of Yotei - The Most Stylish Armor Combinations](https://dev.to/gg_news/gamespot-ghost-of-yotei-the-most-stylish-armor-combinations-157h) (2025-10-05)
+- [GameSpot: skate. | Early Access Season 1 Overview Trailer](https://dev.to/gg_news/gamespot-skate-early-access-season-1-overview-trailer-5gd0) (2025-10-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Coding Jokes One-Liners: When Python Meets Love❤️](https://python.plainenglish.io/coding-jokes-one-liners-when-python-meets-love-%EF%B8%8F-3d62bd157372?source=rss------programming-5) (2025-10-05)
-- [Implementing the Hangman Game in Python](https://python.plainenglish.io/implementing-the-hangman-game-in-python-e52977039f11?source=rss------programming-5) (2025-10-05)
-- [Loan Milo app CUSTO MER Care number 9589547380 24 hours 6266384374// available call now please.khgji](https://medium.com/@maniseunrayscom/loan-milo-app-custo-mer-care-number-9589547380-24-hours-6266384374-available-call-now-please-khgji-91cc22599d51?source=rss------programming-5) (2025-10-05)
-- [Flutter is Not React Native: 7 Mistakes Developers Keep Making](https://medium.com/@kedarbpatil07/flutter-is-not-react-native-7-mistakes-developers-keep-making-5319067c9a35?source=rss------programming-5) (2025-10-05)
-- [#خاله اصفهان #خاله شیراز #خاله اهواز #خاله کردستان #خاله اسفراین #خاله اقلیم #خاله آباده #خاله مشهد…](https://medium.com/@atfh3960/%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%81%D8%B1%D8%A7%DB%8C%D9%86-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%82%D9%84%DB%8C%D9%85-%D8%AE%D8%A7%D9%84%D9%87-%D8%A2%D8%A8%D8%A7%D8%AF%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D8%B4%D9%87%D8%AF-1ea9631df2d1?source=rss------programming-5) (2025-10-05)
+- [Here's a sweet love story...](https://medium.com/@dineshkumargodara79/heres-a-sweet-love-story-671dedebf068?source=rss------programming-5) (2025-10-05)
+- [This New Algorithm Just Rewrote the Rules of Computer Science](https://medium.com/@letsCodeDevelopers/this-new-algorithm-just-rewrote-the-rules-of-computer-science-9cb667d1f8ca?source=rss------programming-5) (2025-10-05)
+- [Avoid These 10 Architecture Traps Before You Hit 1M Users](https://observabilityguy.medium.com/avoid-these-10-architecture-traps-before-you-hit-1m-users-25d34af8c0d4?source=rss------programming-5) (2025-10-05)
+- [Singletons in Rust? Yes, and Here’s the Dangerous Way People Do It](https://medium.com/@bugsybits/singletons-in-rust-yes-and-heres-the-dangerous-way-people-do-it-cabc8db0ffb3?source=rss------programming-5) (2025-10-05)
+- [Why did the über-protocols fail?](https://medium.com/@octskyward/why-did-the-%C3%BCber-protocols-fail-e7f10b4a996a?source=rss------programming-5) (2025-10-05)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.](https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/) (2025-09-25)
+- [Agent Factory: Designing the open agentic web stack](https://azure.microsoft.com/en-us/blog/agent-factory-designing-the-open-agentic-web-stack/) (2025-09-24)
 - [How Azure Cobalt 100 VMs are powering real-world solutions, delivering performance and efficiency results](https://azure.microsoft.com/en-us/blog/how-azure-cobalt-100-vms-are-powering-real-world-solutions-delivering-performance-and-efficiency-results/) (2025-09-23)
 - [Accelerate migration and modernization with agentic AI](https://azure.microsoft.com/en-us/blog/accelerate-migration-and-modernization-with-agentic-ai/) (2025-09-23)
 - [Inside the world’s most powerful AI datacenter](https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/) (2025-09-18)
-- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms ](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms/) (2025-09-18)
-- [Agent Factory: Creating a blueprint for safe and secure AI agents](https://azure.microsoft.com/en-us/blog/agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents/) (2025-09-17)
 
 </details>
 
@@ -219,10 +219,10 @@
 <summary>☸️ Kubernetes Blog</summary>
 
 - [Announcing Changed Block Tracking API support (alpha)](https://kubernetes.io/blog/2025/09/25/csi-changed-block-tracking/) (2025-09-25)
+- [Introducing Headlamp Plugin for Karpenter - Scaling and Visibility](https://kubernetes.io/blog/2025/09/23/introducing-headlamp-plugin-for-karpenter/) (2025-09-23)
 - [Kubernetes v1.34: Pod Level Resources Graduated to Beta](https://kubernetes.io/blog/2025/09/22/kubernetes-v1-34-pod-level-resources/) (2025-09-22)
 - [Kubernetes v1.34: Recovery From Volume Expansion Failure (GA)](https://kubernetes.io/blog/2025/09/19/kubernetes-v1-34-recover-expansion-failure/) (2025-09-19)
 - [Kubernetes v1.34: DRA Consumable Capacity](https://kubernetes.io/blog/2025/09/18/kubernetes-v1-34-dra-consumable-capacity/) (2025-09-18)
-- [Kubernetes v1.34: Pods Report DRA Resource Health](https://kubernetes.io/blog/2025/09/17/kubernetes-v1-34-pods-report-dra-resource-health/) (2025-09-17)
 
 </details>
 
@@ -557,11 +557,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/rcs-messaging-holiday-
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Classical Computer Vision and Perspective Transformation for Sudoku Extraction](https://towardsdatascience.com/classical-computer-vision-and-perspective-transformation-for-sudoku-extraction/) (2025-10-05)
+- [Building a Command-Line Quiz Application in R](https://towardsdatascience.com/building-a-command-line-quiz-application-in-r/) (2025-10-05)
 - [Real-Time Intelligence in Microsoft Fabric: The Ultimate Guide](https://towardsdatascience.com/real-time-intelligence-in-microsoft-fabric-the-ultimate-guide/) (2025-10-04)
 - [How to Build a Powerful Deep Research System](https://towardsdatascience.com/how-to-build-a-powerful-deep-research-system/) (2025-10-04)
 - [Build a Data Dashboard Using HTML, CSS, and JavaScript](https://towardsdatascience.com/build-a-data-dashboard-using-html-css-javascript/) (2025-10-03)
-- [MobileNetV2 Paper Walkthrough: The Smarter Tiny Giant](https://towardsdatascience.com/mobilenetv2-paper-walkthrough-the-smarter-tiny-giant/) (2025-10-03)
-- [Prediction vs. Search Models: What Data Scientists Are Missing](https://towardsdatascience.com/the-economics-of-two-sided-platforms/) (2025-10-02)
 
 </details>
 
