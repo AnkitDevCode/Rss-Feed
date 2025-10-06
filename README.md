@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Waffles eat Bluesky](https://techcrunch.com/2025/10/05/waffles-eat-bluesky/) (2025-10-05)
+- [Suspect arrested after threats against TikTok’s Culver City headquarters](https://techcrunch.com/2025/10/05/suspect-arrested-after-threats-against-tiktoks-culver-city-headquarters/) (2025-10-05)
 - [California’s new AI safety law shows regulation and innovation don’t have to clash ](https://techcrunch.com/2025/10/05/californias-new-ai-safety-law-shows-regulation-and-innovation-dont-have-to-clash/) (2025-10-05)
 - [OpenAI and Jony Ive may be struggling to figure out their AI device](https://techcrunch.com/2025/10/05/openai-and-jony-ive-may-be-struggling-to-figure-out-their-ai-device/) (2025-10-05)
 - [TechCrunch Mobility: Toyota makes a $1.5B bet on the startup ecosystem](https://techcrunch.com/2025/10/05/techcrunch-mobility-toyota-makes-a-1-5b-bet-on-the-startup-ecosystem/) (2025-10-05)
-- [The Reinforcement Gap — or why some AI skills improve faster than others  ](https://techcrunch.com/2025/10/05/the-reinforcement-gap-or-why-some-ai-skills-improve-faster-than-others/) (2025-10-05)
-- [The Young Minds App wants to protect and educate children online and will show its tech at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/05/the-young-minds-app-wants-to-protect-and-educate-children-online-and-will-show-its-tech-at-techcrunch-disrupt-2025/) (2025-10-05)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Fire destroys Korean government's cloud storage system, no backups available](https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936) (2025-10-05)
-- [Focus Is Saying No](https://medium.com/@HobokenDays/software-modernization-projects-dilemma-part-2-7f6002c4b6f1) (2025-10-05)
-- [Implicit Actor Critic Coupling via a Supervised Learning Framework for RLVR](https://arxiv.org/abs/2509.02522) (2025-10-05)
-- [BYD Builds World's Fastest Car](https://www.autotrader.co.uk/content/news/byd-builds-world-s-fastest-car) (2025-10-05)
-- [If the University of Chicago won't defend the humanities, who will?](https://www.theatlantic.com/culture/archive/2025/08/university-chicago-humanities-doctorate/684004/) (2025-10-05)
+- [Generative AI's Energy Needs Are Reshaping Our World](https://spectrum.ieee.org/ai-energy-use) (2025-10-05)
+- [Germany outfitted half a million balconies with solar panels](https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/) (2025-10-05)
+- [Ken Parker, famed luthier, has died](https://kenparkerarchtops.com) (2025-10-05)
+- [The dangerous intimacy of social location sharing](https://joinreboot.org/p/lighthouses-in-the-sky) (2025-10-05)
+- [The death of industrial design and the era of dull electronics](https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/) (2025-10-05)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Jane Goodall’s death triggered the premiere of Netflix’s new show](https://www.theverge.com/news/792477/jane-goodall-netflix-famous-last-words) (2025-10-05)
 - [If you can get past the terrible logo, Audacity 4 looks pretty great](https://www.theverge.com/news/792368/if-you-can-get-past-the-terrible-logo-audacity-4-looks-pretty-great) (2025-10-05)
 - [Roland is finally honoring its legacy instead of just cashing in on it](https://www.theverge.com/entertainment/792209/roland-is-finally-honoring-its-legacy-instead-of-just-cashing-in-tr-1000) (2025-10-05)
 - [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers) (2025-10-05)
 - [The developers behind a hit sausage-dueling game hope Steam launch will take it furter](https://www.theverge.com/entertainment/791353/sausage-legend-steam-launch-interview) (2025-10-05)
-- [Version History is live — here’s how to find it](https://www.theverge.com/podcast/792339/version-history-podcast-hoverboards) (2025-10-05)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-j5j) (2025-10-05)
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-2lia) (2025-10-05)
-- [GameSpot: Pokemon Legends: Z-A – Official Gameplay Overview Trailer](https://dev.to/gg_news/gamespot-pokemon-legends-z-a-official-gameplay-overview-trailer-4fhe) (2025-10-05)
-- [GameSpot: Ghost of Yotei - The Most Stylish Armor Combinations](https://dev.to/gg_news/gamespot-ghost-of-yotei-the-most-stylish-armor-combinations-157h) (2025-10-05)
-- [GameSpot: skate. | Early Access Season 1 Overview Trailer](https://dev.to/gg_news/gamespot-skate-early-access-season-1-overview-trailer-5gd0) (2025-10-05)
+- [Creating a CLI Tool with Node.js](https://dev.to/hasan_ashab/creating-a-cli-tool-with-nodejs-5b1k) (2025-10-06)
+- [Why I Built Things-Kit: A Spring Boot Alternative for Go](https://dev.to/noxymon/why-i-built-things-kit-a-spring-boot-alternative-for-go-3ip4) (2025-10-06)
+- [How to Activate SSL and Security Headers for WordPress in 2 Clicks](https://dev.to/volixta-plugin/how-to-activate-ssl-and-security-headers-for-wordpress-in-2-clicks-5b44) (2025-10-06)
+- [Your 2025 AI Upgrade, Minus the Noise](https://dev.to/theainews/your-2025-ai-upgrade-minus-the-noise-13a5) (2025-10-06)
+- [KEXP: strongboi - magic (Live on KEXP)](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-2078) (2025-10-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Here's a sweet love story...](https://medium.com/@dineshkumargodara79/heres-a-sweet-love-story-671dedebf068?source=rss------programming-5) (2025-10-05)
-- [This New Algorithm Just Rewrote the Rules of Computer Science](https://medium.com/@letsCodeDevelopers/this-new-algorithm-just-rewrote-the-rules-of-computer-science-9cb667d1f8ca?source=rss------programming-5) (2025-10-05)
-- [Avoid These 10 Architecture Traps Before You Hit 1M Users](https://observabilityguy.medium.com/avoid-these-10-architecture-traps-before-you-hit-1m-users-25d34af8c0d4?source=rss------programming-5) (2025-10-05)
-- [Singletons in Rust? Yes, and Here’s the Dangerous Way People Do It](https://medium.com/@bugsybits/singletons-in-rust-yes-and-heres-the-dangerous-way-people-do-it-cabc8db0ffb3?source=rss------programming-5) (2025-10-05)
-- [Why did the über-protocols fail?](https://medium.com/@octskyward/why-did-the-%C3%BCber-protocols-fail-e7f10b4a996a?source=rss------programming-5) (2025-10-05)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbccxcnnn6m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-0cdcaa61e508?source=rss------programming-5) (2025-10-06)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbccxcnnn6m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-d90be79f123a?source=rss------programming-5) (2025-10-06)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbccxcnnn6m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-9aef15052e58?source=rss------programming-5) (2025-10-06)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbvvgbbb5m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-3e82b95d2e41?source=rss------programming-5) (2025-10-06)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbvvgbbb5m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-27559a406457?source=rss------programming-5) (2025-10-06)
 
 </details>
 
