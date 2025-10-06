@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Heidi Health raises $65M Series B led by Steve Cohen’s Point72](https://techcrunch.com/2025/10/05/heidi-health-raises-65m-series-b-led-by-steve-cohens-point72/) (2025-10-06)
 - [Waffles eat Bluesky](https://techcrunch.com/2025/10/05/waffles-eat-bluesky/) (2025-10-05)
 - [Suspect arrested after threats against TikTok’s Culver City headquarters](https://techcrunch.com/2025/10/05/suspect-arrested-after-threats-against-tiktoks-culver-city-headquarters/) (2025-10-05)
 - [California’s new AI safety law shows regulation and innovation don’t have to clash ](https://techcrunch.com/2025/10/05/californias-new-ai-safety-law-shows-regulation-and-innovation-dont-have-to-clash/) (2025-10-05)
 - [OpenAI and Jony Ive may be struggling to figure out their AI device](https://techcrunch.com/2025/10/05/openai-and-jony-ive-may-be-struggling-to-figure-out-their-ai-device/) (2025-10-05)
-- [TechCrunch Mobility: Toyota makes a $1.5B bet on the startup ecosystem](https://techcrunch.com/2025/10/05/techcrunch-mobility-toyota-makes-a-1-5b-bet-on-the-startup-ecosystem/) (2025-10-05)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Generative AI's Energy Needs Are Reshaping Our World](https://spectrum.ieee.org/ai-energy-use) (2025-10-05)
-- [Germany outfitted half a million balconies with solar panels](https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/) (2025-10-05)
-- [Ken Parker, famed luthier, has died](https://kenparkerarchtops.com) (2025-10-05)
-- [The dangerous intimacy of social location sharing](https://joinreboot.org/p/lighthouses-in-the-sky) (2025-10-05)
-- [The death of industrial design and the era of dull electronics](https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/) (2025-10-05)
+- [CHERI with a Linux on Top](https://lwn.net/Articles/1037974/) (2025-10-06)
+- [1 Trillion Web Pages Archived](https://blog.archive.org/trillion/) (2025-10-06)
+- [Find Nearby Automated License Plate Readers (ALPR)](https://deflock.me/) (2025-10-06)
+- [Building Effective Text-to-3D AI Agents: A Hybrid Architecture Approach](https://www.addy.rocks/blog/text-to-3d-agent-hybrid-architecture) (2025-10-06)
+- [Why do LLMs freak out over the seahorse emoji?](https://vgel.me/posts/seahorse/) (2025-10-06)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Beyond code generation: How AI is changing tech teams' dynamics](https://stackoverflow.blog/2025/10/06/beyond-code-generation-how-ai-is-changing-tech-teams-dynamics/) (2025-10-06)
 - [One is not the loneliest number for API calls](https://stackoverflow.blog/2025/10/03/one-is-not-the-loneliest-number-for-api-calls/) (2025-10-03)
 - [Building AI-ready teams: Why documentation and culture matter more than tools](https://stackoverflow.blog/2025/10/02/building-ai-ready-teams-why-documentation-and-culture-matter-more-than-tools/) (2025-10-02)
 - [Turning investments into impact: Stack Overflow for Teams 2025.7](https://stackoverflow.blog/2025/09/30/turning-investments-into-impact-stack-overflow-for-teams-2025-7/) (2025-09-30)
 - [As your AI gets smarter, so must your API](https://stackoverflow.blog/2025/09/30/as-your-ai-gets-smarter-so-must-your-api/) (2025-09-30)
-- [Making your code base better will make your code coverage worse](https://stackoverflow.blog/2025/09/29/making-your-code-base-better-will-make-your-code-coverage-worse/) (2025-09-29)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Creating a CLI Tool with Node.js](https://dev.to/hasan_ashab/creating-a-cli-tool-with-nodejs-5b1k) (2025-10-06)
-- [Why I Built Things-Kit: A Spring Boot Alternative for Go](https://dev.to/noxymon/why-i-built-things-kit-a-spring-boot-alternative-for-go-3ip4) (2025-10-06)
-- [How to Activate SSL and Security Headers for WordPress in 2 Clicks](https://dev.to/volixta-plugin/how-to-activate-ssl-and-security-headers-for-wordpress-in-2-clicks-5b44) (2025-10-06)
-- [Your 2025 AI Upgrade, Minus the Noise](https://dev.to/theainews/your-2025-ai-upgrade-minus-the-noise-13a5) (2025-10-06)
-- [KEXP: strongboi - magic (Live on KEXP)](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-2078) (2025-10-06)
+- [Day 5 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-5-of-100-days-dsa-coding-challenge-2h59) (2025-10-06)
+- [What is Apache Kafka? A Beginner’s Guide](https://dev.to/suraj_kumar_fb57ae0928df2/what-is-apache-kafka-a-beginners-guide-4p4m) (2025-10-06)
+- [KEXP: strongboi - magic (Live on KEXP)](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-3a7c) (2025-10-06)
+- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-4h1p) (2025-10-06)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-40e4) (2025-10-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbccxcnnn6m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-0cdcaa61e508?source=rss------programming-5) (2025-10-06)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbccxcnnn6m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-d90be79f123a?source=rss------programming-5) (2025-10-06)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbccxcnnn6m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-9aef15052e58?source=rss------programming-5) (2025-10-06)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbvvgbbb5m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-3e82b95d2e41?source=rss------programming-5) (2025-10-06)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbvvgbbb5m/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-27559a406457?source=rss------programming-5) (2025-10-06)
+- [8 Best Coffee Chains to Code](https://algorithmman.medium.com/8-best-coffee-chains-to-code-e1ad39d6de05?source=rss------programming-5) (2025-10-06)
+- [I Stopped Using Docker — And Everything Got Easier (Yes, Seriously)](https://medium.com/the-software-journal/i-stopped-using-docker-and-everything-got-easier-yes-seriously-dfb8ae2216b5?source=rss------programming-5) (2025-10-06)
+- [⚡ Building a Scalable Full-Stack Application with Node.js and React.js](https://medium.com/@missAvantika/building-a-scalable-full-stack-application-with-node-js-and-react-js-aa611a86fabc?source=rss------programming-5) (2025-10-06)
+- [ Artificial Intelligence and Its Role in Intelligent Control with MQTT](https://medium.com/@parscontroltajhiz/artificial-intelligence-and-its-role-in-intelligent-control-with-mqtt-56c07cf67806?source=rss------programming-5) (2025-10-06)
+- [ ReactJS Advanced Topic: Server-Side Rendering (SSR) vs Client-Side Rendering (CSR) vs Static…](https://medium.com/@theHackHabitual/reactjs-advanced-topic-server-side-rendering-ssr-vs-client-side-rendering-csr-vs-static-a8eb55eb04ac?source=rss------programming-5) (2025-10-06)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.](https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/) (2025-09-25)
-- [Agent Factory: Designing the open agentic web stack](https://azure.microsoft.com/en-us/blog/agent-factory-designing-the-open-agentic-web-stack/) (2025-09-24)
 - [How Azure Cobalt 100 VMs are powering real-world solutions, delivering performance and efficiency results](https://azure.microsoft.com/en-us/blog/how-azure-cobalt-100-vms-are-powering-real-world-solutions-delivering-performance-and-efficiency-results/) (2025-09-23)
 - [Accelerate migration and modernization with agentic AI](https://azure.microsoft.com/en-us/blog/accelerate-migration-and-modernization-with-agentic-ai/) (2025-09-23)
 - [Inside the world’s most powerful AI datacenter](https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/) (2025-09-18)
+- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms ](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms/) (2025-09-18)
+- [Agent Factory: Creating a blueprint for safe and secure AI agents](https://azure.microsoft.com/en-us/blog/agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents/) (2025-09-17)
 
 </details>
 
@@ -251,11 +251,11 @@
 <details>
 <summary>👥 Facebook Engineering</summary>
 
+- [Introducing the Candle Subsea Cable, Updates to Our Asia-Pacific Connectivity Projects](https://engineering.fb.com/2025/10/05/connectivity/introducing-the-candle-subsea-cable-updates-to-our-asia-pacific-connectivity-projects/) (2025-10-06)
 - [Accelerating our Android apps with Baseline Profiles](https://engineering.fb.com/2025/10/01/android/accelerating-our-android-apps-with-baseline-profiles/) (2025-10-01)
 - [LLMs Are the Key to Mutation Testing and Better Compliance](https://engineering.fb.com/2025/09/30/security/llms-are-the-key-to-mutation-testing-and-better-compliance/) (2025-09-30)
 - [Meta 3D AssetGen: Generating 3D Worlds With AI](https://engineering.fb.com/2025/09/29/virtual-reality/assetgen-generating-3d-worlds-with-ai/) (2025-09-29)
 - [Meta’s Infrastructure Evolution and the Advent of AI](https://engineering.fb.com/2025/09/29/data-infrastructure/metas-infrastructure-evolution-and-the-advent-of-ai/) (2025-09-29)
-- [Networking at the Heart of AI — @Scale: Networking 2025 Recap](https://engineering.fb.com/2025/09/26/networking-traffic/networking-at-the-heart-of-ai-scale-networking-2025-recap/) (2025-09-26)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/rcs-messaging-holiday-
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Top 20 AI Tools for Work: 10X Your Output](https://www.analyticsvidhya.com/blog/2025/10/ai-tools-for-work/) (2025-10-06)
 - [Top 15 DBMS Interview Questions](https://www.analyticsvidhya.com/blog/2025/10/top-dbms-interview-questions/) (2025-10-05)
 - [The rise of Agentic AI: How Multi-Agent Workflows are Shaping the Future of AI](https://www.analyticsvidhya.com/blog/2025/10/multi-agent-workflow/) (2025-10-05)
 - [Build a Text-to-SQL System: A Guide to Replicating Pinterest’s Approach](https://www.analyticsvidhya.com/blog/2025/10/build-a-text-to-sql-system/) (2025-10-04)
 - [Optimizing Retail Demand Forecasting with Advanced Time-Series Feature Engineering in SQL and Python](https://www.analyticsvidhya.com/blog/2025/10/retail-demand-forecasting/) (2025-10-04)
-- [Data-Driven Hiring: Leveraging Workday with Analytics Platforms](https://www.analyticsvidhya.com/blog/2025/10/data-driven-hiring/) (2025-10-03)
 
 </details>
 
