@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Firefly leans into its defense ambitions with $855M SciTec acquisition](https://techcrunch.com/2025/10/06/firefly-leans-into-its-defense-ambitions-with-855m-scitec-acquisition/) (2025-10-06)
 - [Heidi Health raises $65M Series B led by Steve Cohen’s Point72](https://techcrunch.com/2025/10/05/heidi-health-raises-65m-series-b-led-by-steve-cohens-point72/) (2025-10-06)
 - [Waffles eat Bluesky](https://techcrunch.com/2025/10/05/waffles-eat-bluesky/) (2025-10-05)
 - [Suspect arrested after threats against TikTok’s Culver City headquarters](https://techcrunch.com/2025/10/05/suspect-arrested-after-threats-against-tiktoks-culver-city-headquarters/) (2025-10-05)
 - [California’s new AI safety law shows regulation and innovation don’t have to clash ](https://techcrunch.com/2025/10/05/californias-new-ai-safety-law-shows-regulation-and-innovation-dont-have-to-clash/) (2025-10-05)
-- [OpenAI and Jony Ive may be struggling to figure out their AI device](https://techcrunch.com/2025/10/05/openai-and-jony-ive-may-be-struggling-to-figure-out-their-ai-device/) (2025-10-05)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [CHERI with a Linux on Top](https://lwn.net/Articles/1037974/) (2025-10-06)
-- [1 Trillion Web Pages Archived](https://blog.archive.org/trillion/) (2025-10-06)
-- [Find Nearby Automated License Plate Readers (ALPR)](https://deflock.me/) (2025-10-06)
-- [Building Effective Text-to-3D AI Agents: A Hybrid Architecture Approach](https://www.addy.rocks/blog/text-to-3d-agent-hybrid-architecture) (2025-10-06)
-- [Why do LLMs freak out over the seahorse emoji?](https://vgel.me/posts/seahorse/) (2025-10-06)
+- [Build a VPN Tunnel with Wintun on Windows – Part 1](https://0xmm.in/posts/peer-to-peer-windows-part1/) (2025-10-06)
+- [Nobel Prize in Physiology or Medicine 2025 awarded to immune system researchers](https://www.nobelprize.org/prizes/medicine/2025/press-release/) (2025-10-06)
+- [Demodesk (YC W19) Is Hiring a Ruby on Rails Engineer](https://demodesk.com/careers) (2025-10-06)
+- [Battering RAM – Low-Cost Interposer Attacks on Confidential Computing](https://batteringram.eu/) (2025-10-06)
+- [Flightcontrol: AWS PaaS](https://www.flightcontrol.dev/) (2025-10-06)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [AMD teams up with OpenAI to challenge Nvidia&#8217;s AI chip dominance](https://www.theverge.com/news/792650/amd-openai-five-year-ai-chip-agreement) (2025-10-06)
+- [Sora provides better control over videos featuring your AI self](https://www.theverge.com/news/792638/sora-provides-better-control-over-videos-featuring-your-ai-self) (2025-10-06)
+- [While you were partying with your Steam Deck, GPD studied the cord](https://www.theverge.com/games/791460/gpd-win-5-corded-handhelds) (2025-10-06)
+- [Sam Altman and Jony Ive&#8217;s secret device won&#8217;t be &#8216;your weird AI girlfriend&#8217;](https://www.theverge.com/news/792635/openai-jony-ive-ai-device-voice-personality-issues) (2025-10-06)
 - [Jane Goodall’s death triggered the premiere of Netflix’s new show](https://www.theverge.com/news/792477/jane-goodall-netflix-famous-last-words) (2025-10-05)
-- [If you can get past the terrible logo, Audacity 4 looks pretty great](https://www.theverge.com/news/792368/if-you-can-get-past-the-terrible-logo-audacity-4-looks-pretty-great) (2025-10-05)
-- [Roland is finally honoring its legacy instead of just cashing in on it](https://www.theverge.com/entertainment/792209/roland-is-finally-honoring-its-legacy-instead-of-just-cashing-in-tr-1000) (2025-10-05)
-- [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers) (2025-10-05)
-- [The developers behind a hit sausage-dueling game hope Steam launch will take it furter](https://www.theverge.com/entertainment/791353/sausage-legend-steam-launch-interview) (2025-10-05)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Elon Musk tries to make Apple and mobile carriers regret choosing Starlink rivals](https://arstechnica.com/tech-policy/2025/10/starlinks-ambitious-mobile-plan-could-be-trouble-for-apple-att-and-verizon/) (2025-10-06)
+- [Here’s the real reason Endurance sank](https://arstechnica.com/science/2025/10/heres-the-real-reason-endurance-sank/) (2025-10-06)
 - [Pentagon contract figures show ULA’s Vulcan rocket is getting more expensive](https://arstechnica.com/space/2025/10/pentagon-contract-figures-show-ulas-vulcan-rocket-is-getting-more-expensive/) (2025-10-04)
 - [ICE wants to build a 24/7 social media surveillance team](https://arstechnica.com/security/2025/10/ice-wants-to-build-a-24-7-social-media-surveillance-team/) (2025-10-04)
 - [How different mushrooms learned the same psychedelic trick](https://arstechnica.com/science/2025/10/how-different-mushrooms-learned-the-same-psychedelic-trick/) (2025-10-04)
-- [Nearly 80% of Americans want Congress to extend ACA tax credits, poll finds](https://arstechnica.com/health/2025/10/most-americans-want-aca-tax-credits-extended-even-57-of-maga-supporters/) (2025-10-03)
-- [Removing these 50 objects from orbit would cut danger from space junk in half](https://arstechnica.com/space/2025/10/everyone-but-china-has-pretty-much-stopped-littering-in-low-earth-orbit/) (2025-10-03)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
-- [The Download: using AI to discover “zero day” vulnerabilities, and Apple’s ICE app removal](https://www.technologyreview.com/2025/10/03/1124782/the-download-using-ai-to-discover-zero-day-vulnerabilities-and-apples-ice-app-removal/) (2025-10-03)
-- [Microsoft says AI can create “zero day” threats in biology](https://www.technologyreview.com/2025/10/02/1124767/microsoft-says-ai-can-create-zero-day-threats-in-biology/) (2025-10-02)
-- [The Download: RIP EV tax credits, and OpenAI’s new valuation](https://www.technologyreview.com/2025/10/02/1124684/the-download-rip-ev-tax-credits-and-openais-new-valuation/) (2025-10-02)
-- [EV tax credits are dead in the US. Now what?](https://www.technologyreview.com/2025/10/02/1124603/ev-tax-credits-end-us/) (2025-10-02)
-- [Turning migration into modernization](https://www.technologyreview.com/2025/10/02/1124570/turning-migration-into-modernization/) (2025-10-02)
+- [2025 Climate Tech Companies to Watch](https://www.technologyreview.com/2025/10/06/1124257/2025-climate-tech-companies-to-watch/) (2025-10-06)
+- [Bill Gates: Our best weapon against climate change is ingenuity](https://www.technologyreview.com/2025/10/06/1124265/bill-gates-ingenuity-climate-change-tech-investment/) (2025-10-06)
+- [2025 Climate Tech Companies to Watch: HiNa Battery Technology and its effort to commercialize salt cells](https://www.technologyreview.com/2025/10/06/1124270/2025-climate-tech-companies-to-watch-hina-battery-salt-cells/) (2025-10-06)
+- [How we picked promising climate tech companies in an especially unsettling year](https://www.technologyreview.com/2025/10/06/1124275/2025-climate-tech-companies-to-watch-methodology/) (2025-10-06)
+- [2025 Climate Tech Companies to Watch: Pairwise and its climate-adapted crops](https://www.technologyreview.com/2025/10/06/1124278/2025-climate-tech-companies-to-watch-pairwise-gene-edited-crops/) (2025-10-06)
 
 </details>
 
@@ -97,22 +97,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Day 5 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-5-of-100-days-dsa-coding-challenge-2h59) (2025-10-06)
-- [What is Apache Kafka? A Beginner’s Guide](https://dev.to/suraj_kumar_fb57ae0928df2/what-is-apache-kafka-a-beginners-guide-4p4m) (2025-10-06)
-- [KEXP: strongboi - magic (Live on KEXP)](https://dev.to/music_youtube/kexp-strongboi-magic-live-on-kexp-3a7c) (2025-10-06)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-4h1p) (2025-10-06)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-40e4) (2025-10-06)
+- [Web Developer Travis McCracken on Building Dev Tools for Backend Engineers](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-building-dev-tools-for-backend-engineers-2m67) (2025-10-06)
+- [Convex - an alternative to Firebase and Supabase](https://dev.to/noyan_alim/convex-an-alternative-to-firebase-and-supabase-3n9e) (2025-10-06)
+- [The Stack Unpacked Episode 4: to Query or Not to Query](https://dev.to/shaq_attack/the-stack-unpacked-episode-4-to-query-or-not-to-query-4jcp) (2025-10-06)
+- [[Question] Is Dev.to banned at Reddit?](https://dev.to/aregtech/question-is-devto-banned-at-reddit-4jkd) (2025-10-06)
+- [My Journey with Pipecat + Attendee (And Hacking the Infrastructure)](https://dev.to/angad_2002/my-journey-with-pipecat-attendee-and-hacking-the-infrastructure-3cea) (2025-10-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [8 Best Coffee Chains to Code](https://algorithmman.medium.com/8-best-coffee-chains-to-code-e1ad39d6de05?source=rss------programming-5) (2025-10-06)
-- [I Stopped Using Docker — And Everything Got Easier (Yes, Seriously)](https://medium.com/the-software-journal/i-stopped-using-docker-and-everything-got-easier-yes-seriously-dfb8ae2216b5?source=rss------programming-5) (2025-10-06)
-- [⚡ Building a Scalable Full-Stack Application with Node.js and React.js](https://medium.com/@missAvantika/building-a-scalable-full-stack-application-with-node-js-and-react-js-aa611a86fabc?source=rss------programming-5) (2025-10-06)
-- [ Artificial Intelligence and Its Role in Intelligent Control with MQTT](https://medium.com/@parscontroltajhiz/artificial-intelligence-and-its-role-in-intelligent-control-with-mqtt-56c07cf67806?source=rss------programming-5) (2025-10-06)
-- [ ReactJS Advanced Topic: Server-Side Rendering (SSR) vs Client-Side Rendering (CSR) vs Static…](https://medium.com/@theHackHabitual/reactjs-advanced-topic-server-side-rendering-ssr-vs-client-side-rendering-csr-vs-static-a8eb55eb04ac?source=rss------programming-5) (2025-10-06)
+- [Actuator Unleashed: A Guide to Finding and Exploiting Spring Boot Actuator Endpoints](https://infosecwriteups.com/actuator-unleashed-a-guide-to-finding-and-exploiting-spring-boot-actuator-endpoints-29252dcd9d79?source=rss------programming-5) (2025-10-06)
+- [09389212898شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@xbhsbdhhhehhdhdhhdfh/09389212898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-fd301bf7f432?source=rss------programming-5) (2025-10-06)
+- [ My 6-Month Internship Interview Experience at OYO (On-Campus)](https://medium.com/@shhreyyyaa1/my-6-month-internship-interview-experience-at-oyo-on-campus-6d47657af43a?source=rss------programming-5) (2025-10-06)
+- [Kotlin DSLs: The Secret Weapon for Writing Elegant Android Code](https://medium.com/@androidlab/kotlin-dsls-the-secret-weapon-for-writing-elegant-android-code-78a5cb3a967d?source=rss------programming-5) (2025-10-06)
+- [Inside the MySQL Architecture That Powers YouTube’s Billions of Daily Queries](https://medium.com/@premchandak_11/inside-the-mysql-architecture-that-powers-youtubes-billions-of-daily-queries-bee7ce0e032f?source=rss------programming-5) (2025-10-06)
 
 </details>
 
@@ -130,11 +131,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.](https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/) (2025-09-25)
+- [Agent Factory: Designing the open agentic web stack](https://azure.microsoft.com/en-us/blog/agent-factory-designing-the-open-agentic-web-stack/) (2025-09-24)
 - [How Azure Cobalt 100 VMs are powering real-world solutions, delivering performance and efficiency results](https://azure.microsoft.com/en-us/blog/how-azure-cobalt-100-vms-are-powering-real-world-solutions-delivering-performance-and-efficiency-results/) (2025-09-23)
 - [Accelerate migration and modernization with agentic AI](https://azure.microsoft.com/en-us/blog/accelerate-migration-and-modernization-with-agentic-ai/) (2025-09-23)
 - [Inside the world’s most powerful AI datacenter](https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/) (2025-09-18)
-- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Global Industrial IoT Platforms ](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms/) (2025-09-18)
-- [Agent Factory: Creating a blueprint for safe and secure AI agents](https://azure.microsoft.com/en-us/blog/agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents/) (2025-09-17)
 
 </details>
 
@@ -207,11 +208,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Llama.cpp Gets an Upgrade: Resumable Model Downloads](https://www.docker.com/blog/llama-cpp-resumable-gguf-downloads/) (2025-10-06)
 - [From Shell Scripts to Science Agents: How AI Agents Are Transforming Research Workflows](https://www.docker.com/blog/ai-science-agents-research-workflows/) (2025-10-02)
 - [Fine-Tuning Local Models with Docker Offload and Unsloth](https://www.docker.com/blog/fine-tuning-models-with-offload-and-unsloth/) (2025-10-02)
 - [Expanding Docker Hardened Images: Secure Helm Charts for Deployments](https://www.docker.com/blog/docker-hardened-images-helm-charts-beta/) (2025-09-29)
 - [Docker MCP Toolkit: MCP Servers That Just Work](https://www.docker.com/blog/mcp-toolkit-mcp-servers-that-just-work/) (2025-09-29)
-- [The Trust Paradox: When Your AI Gets Catfished](https://www.docker.com/blog/mcp-prompt-injection-trust-paradox/) (2025-09-26)
 
 </details>
 
@@ -306,11 +307,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [dotInsights | October 2025](https://blog.jetbrains.com/dotnet/2025/10/06/dotinsights-october-2025/) (2025-10-06)
+- [ReSharper and Rider 2025.2.3: The Third Set of Updates Released](https://blog.jetbrains.com/dotnet/2025/10/06/resharper-and-rider-2025-2-3/) (2025-10-06)
+- [Java Annotated Monthly – October 2025](https://blog.jetbrains.com/idea/2025/10/java-annotated-monthly-october-2025/) (2025-10-06)
 - [Amper Update, October 2025 – Compose Hot Reload and UX Improvements](https://blog.jetbrains.com/amper/2025/10/amper-update-october-2025/) (2025-10-03)
 - [IntelliJ IDEA 2025.2.3 Is Out!](https://blog.jetbrains.com/idea/2025/10/intellij-idea-2025-2-3/) (2025-10-02)
-- [Koog × A2A: Building Connected AI Agents in Kotlin](https://blog.jetbrains.com/ai/2025/10/koog-a2a-building-connected-ai-agents-in-kotlin/) (2025-10-02)
-- [ReSharper and Visual Studio 2026: Day-One Compatibility, Migration Steps, and Performance Gains](https://blog.jetbrains.com/dotnet/2025/10/02/resharper-and-visual-studio-2026/) (2025-10-02)
-- [Moving PHP open source forward](https://blog.jetbrains.com/phpstorm/2025/10/moving-php-open-source-forward/) (2025-10-02)
 
 </details>
 
@@ -480,11 +481,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/rcs-messaging-holiday-
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
+- [プロンプトテンプレートでファイルを扱う二つの方法](https://developer.salesforce.com/blogs/2025/10/%e3%83%97%e3%83%ad%e3%83%b3%e3%83%97%e3%83%88%e3%83%86%e3%83%b3%e3%83%97%e3%83%ac%e3%83%bc%e3%83%88%e3%81%a7%e3%83%95%e3%82%a1%e3%82%a4%e3%83%ab%e3%82%92%e6%89%b1%e3%81%86%e4%ba%8c%e3%81%a4%e3%81%ae.html) (2025-10-05)
 - [Test Your Agentforce Agents with Custom Evaluation Criteria](https://developer.salesforce.com/blogs/2025/10/test-your-agentforce-agents-with-custom-evaluation-criteria.html) (2025-10-02)
 - [Unleash Your Innovation with Agentforce Vibes: Vibe Coding for the Enterprise](https://developer.salesforce.com/blogs/2025/10/unleash-your-innovation-with-agentforce-vibes-vibe-coding-for-the-enterprise.html) (2025-10-01)
 - [Monitor Performance with the New Test Health Report in Scale Test](https://developer.salesforce.com/blogs/2025/09/monitor-performance-with-the-new-test-health-report-in-scale-test.html) (2025-09-30)
 - [Inside ApexGuru: Agentic Code Fixing](https://developer.salesforce.com/blogs/2025/09/inside-apexguru-agentic-code-fixing.html) (2025-09-25)
-- [Connect Data Cloud to Snowflake Using Salesforce IDP](https://developer.salesforce.com/blogs/2025/09/connect-data-cloud-to-snowflake-using-salesforce-idp.html) (2025-09-24)
 
 </details>
 
@@ -557,33 +558,33 @@ https://www.twilio.com/en-us/blog/insights/best-practices/rcs-messaging-holiday-
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Plotly Dash — A Structured Framework for a Multi-Page Dashboard](https://towardsdatascience.com/plotly-dash-a-structured-framework-for-a-multi-page-dashboard/) (2025-10-06)
 - [Classical Computer Vision and Perspective Transformation for Sudoku Extraction](https://towardsdatascience.com/classical-computer-vision-and-perspective-transformation-for-sudoku-extraction/) (2025-10-05)
 - [Building a Command-Line Quiz Application in R](https://towardsdatascience.com/building-a-command-line-quiz-application-in-r/) (2025-10-05)
 - [Real-Time Intelligence in Microsoft Fabric: The Ultimate Guide](https://towardsdatascience.com/real-time-intelligence-in-microsoft-fabric-the-ultimate-guide/) (2025-10-04)
 - [How to Build a Powerful Deep Research System](https://towardsdatascience.com/how-to-build-a-powerful-deep-research-system/) (2025-10-04)
-- [Build a Data Dashboard Using HTML, CSS, and JavaScript](https://towardsdatascience.com/build-a-data-dashboard-using-html-css-javascript/) (2025-10-03)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Microsoft Agent Framework: Unifying Enterprise AI Agent Development](https://www.analyticsvidhya.com/blog/2025/10/microsoft-agent-framework/) (2025-10-06)
 - [Top 20 AI Tools for Work: 10X Your Output](https://www.analyticsvidhya.com/blog/2025/10/ai-tools-for-work/) (2025-10-06)
 - [Top 15 DBMS Interview Questions](https://www.analyticsvidhya.com/blog/2025/10/top-dbms-interview-questions/) (2025-10-05)
 - [The rise of Agentic AI: How Multi-Agent Workflows are Shaping the Future of AI](https://www.analyticsvidhya.com/blog/2025/10/multi-agent-workflow/) (2025-10-05)
 - [Build a Text-to-SQL System: A Guide to Replicating Pinterest’s Approach](https://www.analyticsvidhya.com/blog/2025/10/build-a-text-to-sql-system/) (2025-10-04)
-- [Optimizing Retail Demand Forecasting with Advanced Time-Series Feature Engineering in SQL and Python](https://www.analyticsvidhya.com/blog/2025/10/retail-demand-forecasting/) (2025-10-04)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [7 LinkedIn Tricks to Get Noticed by Recruiters](https://www.kdnuggets.com/7-linkedin-tricks-to-get-noticed-by-recruiters) (2025-10-06)
 - [Is ChatGPT Study Mode a Hidden Gem or a Gimmick?](https://www.kdnuggets.com/is-chatgpt-study-mode-a-hidden-gem-or-a-gimmick) (2025-10-03)
 - [5 Fun AI Agent Projects for Absolute Beginners](https://www.kdnuggets.com/5-fun-ai-agent-projects-for-absolute-beginners) (2025-10-03)
 - [A Gentle Introduction to MCP Servers and Clients](https://www.kdnuggets.com/a-gentle-introduction-to-mcp-servers-and-clients) (2025-10-02)
 - [We Used 3 Feature Selection Techniques: This One Worked Best](https://www.kdnuggets.com/we-used-3-feature-selection-techniques-this-one-worked-best) (2025-10-02)
-- [Debunking 5 Myths About Cloud Computing for Small Business (Sponsored)](https://www.kdnuggets.com/ingram-micro-debunking-5-myths-about-cloud-computing-for-small-business#new_tab) (2025-10-01)
 
 </details>
 
