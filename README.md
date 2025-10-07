@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Instagram introduces new ‘Ring’ award for top creators](https://techcrunch.com/2025/10/06/instagram-introduces-new-ring-award-for-top-creators/) (2025-10-06)
-- [OpenAI launches AgentKit to help developers build and ship AI agents ](https://techcrunch.com/2025/10/06/openai-launches-agentkit-to-help-developers-build-and-ship-ai-agents/) (2025-10-06)
-- [OpenAI launches apps inside of ChatGPT](https://techcrunch.com/2025/10/06/openai-launches-apps-inside-of-chatgpt/) (2025-10-06)
-- [Sam Altman says ChatGPT has hit 800M weekly active users ](https://techcrunch.com/2025/10/06/sam-altman-says-chatgpt-has-hit-800m-weekly-active-users/) (2025-10-06)
-- [Meta Llama: Everything you need to know about the open generative AI model](https://techcrunch.com/2025/10/06/meta-llama-everything-you-need-to-know-about-the-open-generative-ai-model/) (2025-10-06)
+- [Deloitte goes all in on AI — despite having to issue a hefty refund for use of AI](https://techcrunch.com/2025/10/06/deloitte-goes-all-in-on-ai-despite-having-to-issue-a-hefty-refund-for-use-of-ai/) (2025-10-06)
+- [Lucid Motors sets record as Gravity sales pick up and tax credit expires](https://techcrunch.com/2025/10/06/lucid-motors-sets-record-as-gravity-sales-pick-up-and-tax-credit-expires/) (2025-10-06)
+- [Taylor Swift fans accuse singer of using AI in her Google scavenger hunt videos](https://techcrunch.com/2025/10/06/taylor-swift-fans-accuse-singer-of-using-ai-in-her-google-scavenger-hunt-videos/) (2025-10-06)
+- [Microsoft buys another 100 MW of solar, this time in Japan](https://techcrunch.com/2025/10/06/microsoft-buys-another-100-mw-of-solar-this-time-in-japan/) (2025-10-06)
+- [OpenAI ramps up developer push with more powerful models in its API ](https://techcrunch.com/2025/10/06/openai-ramps-up-developer-push-with-more-powerful-models-in-its-api/) (2025-10-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [How Europe crushes innovation](https://www.economist.com/europe/2025/10/02/how-europe-crushes-innovation) (2025-10-06)
-- [OpenAI Is Good at Deals](https://www.bloomberg.com/opinion/newsletters/2025-10-06/openai-is-good-at-deals) (2025-10-06)
-- [UpCodes (YC S17) is hiring remote engineers across the Americas](https://up.codes/careers?utm_source=HN) (2025-10-06)
-- [Ladybird passes the Apple 90% threshold on web-platform-tests](https://twitter.com/awesomekling/status/1974781722953953601) (2025-10-06)
-- [When ChatGPT Turns Informant](https://www.futureofbeinghuman.com/p/when-chatgpt-turns-snitch) (2025-10-06)
+- [Microsoft are removing mechanisms for creating a local account in Windows Setup](https://blogs.windows.com/windows-insider/2025/10/06/announcing-windows-11-insider-preview-build-26120-6772-beta-channel/) (2025-10-07)
+- [Analytical Review of Depression and Suicidality from Finasteride](https://www.psychiatrist.com/jcp/analytical-review-depression-suicidality-finasteride/) (2025-10-07)
+- [The least amount of CSS for a decent looking site (2023)](https://thecascade.dev/article/least-amount-of-css/) (2025-10-06)
+- [RediShell: Critical remote code execution vulnerability in Redis](https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844) (2025-10-06)
+- [CodeMender: an AI agent for code security](https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/) (2025-10-06)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [OpenAI will let developers build apps that work inside ChatGPT](https://www.theverge.com/news/793039/openai-chatgpt-apps-developers-sdk-canva-zillow-devday-2025) (2025-10-06)
-- [Lexar’s new SSD sticks to your iPhone and can survive nearly a 10-foot drop](https://www.theverge.com/news/793032/lexar-es5-magnetic-magsafe-portable-ssd-apple-prores-4k) (2025-10-06)
-- [The best Apple deals to shop ahead of Amazon’s fall Prime Day event](https://www.theverge.com/tech/784180/amazon-october-prime-day-sale-best-early-apple-deals-2025) (2025-10-06)
-- [All of the updates from OpenAI DevDay 2025](https://www.theverge.com/news/640086/openai-chat-gpt-news-updates) (2025-10-06)
-- [Tech companies poured money into carbon removal projects now in Trump’s crosshairs](https://www.theverge.com/report/792812/trump-funding-cut-climate-carbon-removal-hub) (2025-10-06)
+- [The Supreme Court didn’t save Google from Epic, and now the clock is ticking](https://www.theverge.com/news/793610/google-epic-android-supreme-court-stay-denied) (2025-10-06)
+- [Microsoft is plugging more holes that let you use Windows 11 without an online account](https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes) (2025-10-06)
+- [Sam Altman says there are no current plans for ads within ChatGPT Pulse — but he’s not ruling it out](https://www.theverge.com/news/793073/chatgpt-pulse-no-plans-for-ads-sam-altman) (2025-10-06)
+- [ChatGPT apps are live: Here are the first ones you can try](https://www.theverge.com/news/793081/chagpt-apps-sdk-spotify-zillow-openai) (2025-10-06)
+- [The judge tasked with deciding Google’s fate would rather not](https://www.theverge.com/policy/793455/google-doj-ad-tech-judge-brinkema-break-up) (2025-10-06)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Discovery of cells that keep immune responses in check wins medicine Nobel Prize](https://arstechnica.com/health/2025/10/discovery-of-cells-that-keep-immune-responses-in-check-wins-medicine-nobel-prize/) (2025-10-06)
+- [Ted Cruz picks a fight with Wikipedia, accusing platform of left-wing bias](https://arstechnica.com/tech-policy/2025/10/ted-cruz-picks-a-fight-with-wikipedia-accusing-platform-of-left-wing-bias/) (2025-10-06)
+- [OpenAI wants to make ChatGPT into a universal app frontend](https://arstechnica.com/ai/2025/10/openai-wants-to-make-chatgpt-into-a-universal-app-frontend/) (2025-10-06)
+- [The neurons that let us see what isn’t there](https://arstechnica.com/science/2025/10/the-neurons-that-let-us-see-what-isnt-there/) (2025-10-06)
 - [Trump’s EPA sued for axing $7 billion solar energy program](https://arstechnica.com/tech-policy/2025/10/trumps-epa-sued-for-clawing-back-7b-in-solar-energy-funds/) (2025-10-06)
-- [Deloitte will refund Australian government for AI hallucination-filled report](https://arstechnica.com/ai/2025/10/deloitte-will-refund-australian-government-for-ai-hallucination-filled-report/) (2025-10-06)
-- [F1 in Singapore: “Trophy for the hero of the race”](https://arstechnica.com/cars/2025/10/f1-in-singapore-trophy-for-the-hero-of-race/) (2025-10-06)
-- [AMD wins massive AI chip deal from OpenAI with stock sweetener](https://arstechnica.com/ai/2025/10/amd-wins-massive-ai-chip-deal-from-openai-with-stock-sweetener/) (2025-10-06)
-- [OpenAI, Jony Ive struggle with technical details on secretive new AI gadget](https://arstechnica.com/ai/2025/10/openai-jony-ive-struggle-with-technical-details-on-secretive-new-ai-gadget/) (2025-10-06)
 
 </details>
 
@@ -75,11 +75,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [The developer role is evolving. Here’s how to stay ahead.](https://github.blog/ai-and-ml/the-developer-role-is-evolving-heres-how-to-stay-ahead/) (2025-10-06)
 - [Spec-driven development: Using Markdown as a programming language when building with AI](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-using-markdown-as-a-programming-language-when-building-with-ai/) (2025-09-30)
 - [CodeQL zero to hero part 5: Debugging queries](https://github.blog/security/vulnerability-research/codeql-zero-to-hero-part-5-debugging-queries/) (2025-09-29)
 - [How GitHub protects developers from copyright enforcement overreach](https://github.blog/news-insights/policy-news-and-insights/how-github-protects-developers-from-copyright-enforcement-overreach/) (2025-09-26)
 - [Kicking off Cybersecurity Awareness Month 2025: Researcher spotlights and enhanced incentives](https://github.blog/security/vulnerability-research/kicking-off-cybersecurity-awareness-month-2025-researcher-spotlights-and-enhanced-incentives/) (2025-09-26)
-- [Building beyond the browser: Keeley Hammond on Electron, open source, and the future of maintainership](https://github.blog/open-source/maintainers/building-beyond-the-browser-keeley-hammond-on-electron-open-source-and-the-future-of-maintainership/) (2025-09-25)
 
 </details>
 
@@ -97,33 +97,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-1104) (2025-10-06)
-- [KEXP: NewDad - Entertainer (Live on KEXP)](https://dev.to/music_youtube/kexp-newdad-entertainer-live-on-kexp-1clb) (2025-10-06)
-- [KEXP: NewDad - Misery (Live on KEXP)](https://dev.to/music_youtube/kexp-newdad-misery-live-on-kexp-43pm) (2025-10-06)
-- [Polyphonic: The War Songs of Greenwich Village](https://dev.to/music_youtube/polyphonic-the-war-songs-of-greenwich-village-5cfe) (2025-10-06)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-3h4b) (2025-10-06)
+- [#DAY 8: Monitoring, Logs & Troubleshooting](https://dev.to/samueladeduntan/day-8-monitoring-logs-troubleshooting-406d) (2025-10-07)
+- [#DAY 7: Users & Authentication](https://dev.to/samueladeduntan/day-7-users-authentication-12jm) (2025-10-07)
+- [#DAY 6: Security Profiles: Web Filtering & Application Control](https://dev.to/samueladeduntan/day-6-security-profiles-web-filtering-application-control-341j) (2025-10-07)
+- [#DAY 5: Firewall Policies, NAT & Logging](https://dev.to/samueladeduntan/day-5-firewall-policies-nat-logging-4ofj) (2025-10-07)
+- [#DAY 4: Interfaces & Internal Network Setup](https://dev.to/samueladeduntan/day-4-interfaces-internal-network-setup-3176) (2025-10-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [We Built a Microkernel in Rust: Here’s What Actually Worked](https://medium.com/@theopinionatedev/we-built-a-microkernel-in-rust-heres-what-actually-worked-95ab907bd1cf?source=rss------programming-5) (2025-10-06)
-- [Why Package Managers Are Becoming Programming Language Runtimes](https://medium.com/@sohail_saifii/why-package-managers-are-becoming-programming-language-runtimes-674d1980d651?source=rss------programming-5) (2025-10-06)
-- [How Language Servers Are Unifying Every Editor’s Intelligence](https://medium.com/@coders.stop/how-language-servers-are-unifying-every-editors-intelligence-6bec9cd5be29?source=rss------programming-5) (2025-10-06)
-- [How US Chip Sanctions Are Accidentally Supercharging Chinese Innovation](https://medium.com/@sohail_saifi/how-us-chip-sanctions-are-accidentally-supercharging-chinese-innovation-b97f02efd521?source=rss------programming-5) (2025-10-06)
-- [ Automating Like a Pro: A QA’s Guide to Python + Playwright](https://medium.com/@prakashkandarp/automating-like-a-pro-a-qas-guide-to-python-playwright-9d0644b29e57?source=rss------programming-5) (2025-10-06)
+- [9 Python Workflows That Save Me From Burnout](https://medium.com/codrift/9-python-workflows-that-save-me-from-burnout-bd2f74cdde46?source=rss------programming-5) (2025-10-07)
+- [I Built a Web3 Ticketing System in a Day. Then I Threw It All Away.](https://medium.com/@dgriggsde/i-built-a-web3-ticketing-system-in-a-day-then-i-threw-it-all-away-cc04dc52dca1?source=rss------programming-5) (2025-10-07)
+- [0937_667_6273#شماره خاله تهران #شماره خاله اصفهان #شماره خاله شیراز #شماره خاله ارومیه #شماره خاله…](https://medium.com/@yspsysoysosoy/0937-667-6273-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-da884fb41a45?source=rss------programming-5) (2025-10-07)
+- [0937_667_6273#شماره خاله تهران #شماره خاله اصفهان #شماره خاله شیراز #شماره خاله ارومیه #شماره خاله…](https://medium.com/@yspsysoysosoy/0937-667-6273-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-034953d78552?source=rss------programming-5) (2025-10-07)
+- [0937_667_6273#شماره خاله تهران #شماره خاله اصفهان #شماره خاله شیراز #شماره خاله ارومیه #شماره خاله…](https://medium.com/@yspsysoysosoy/0937-667-6273-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-8d7310ceb04e?source=rss------programming-5) (2025-10-07)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Introducing new compute-optimized Amazon EC2 C8i and C8i-flex instances](https://aws.amazon.com/blogs/aws/introducing-new-compute-optimized-amazon-ec2-c8i-and-c8i-flex-instances/) (2025-10-06)
+- [AWS IAM Identity Center now supports customer-managed KMS keys for encryption at rest](https://aws.amazon.com/blogs/aws/aws-iam-identity-center-now-supports-customer-managed-kms-keys-for-encryption-at-rest/) (2025-10-06)
 - [AWS Weekly Roundup:  Amazon Bedrock, AWS Outposts, Amazon ECS Managed Instances, AWS Builder ID, and more (October 6, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-aws-outposts-amazon-ecs-managed-instances-aws-builder-id-and-more-october-6-2025/) (2025-10-06)
 - [Announcing Amazon ECS Managed Instances for containerized applications](https://aws.amazon.com/blogs/aws/announcing-amazon-ecs-managed-instances-for-containerized-applications/) (2025-09-30)
 - [Announcing AWS Outposts third-party storage integration with Dell and HPE](https://aws.amazon.com/blogs/aws/announcing-aws-outposts-third-party-storage-integration-with-dell-and-hpe/) (2025-09-30)
-- [Introducing Claude Sonnet 4.5 in Amazon Bedrock: Anthropic’s most intelligent model, best for coding and complex agents](https://aws.amazon.com/blogs/aws/introducing-claude-sonnet-4-5-in-amazon-bedrock-anthropics-most-intelligent-model-best-for-coding-and-complex-agents/) (2025-09-29)
-- [AWS Weekly Roundup: Amazon S3, Amazon Bedrock AgentCore, AWS X-Ray and more (September 29, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-s3-amazon-bedrock-agentcore-aws-x-ray-and-more-september-29-2025/) (2025-09-29)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [IBM Granite 4.0 Models Now Available on Docker Hub](https://www.docker.com/blog/ibm-granite-4-0-models-now-available-on-docker-hub/) (2025-10-06)
+- [Unlimited access to Docker Hardened Images: Because security should be affordable, always](https://www.docker.com/blog/unlimited-access-to-docker-hardened-images-because-security-should-be-affordable-always/) (2025-10-06)
 - [Docker at AI Engineer Paris: Build and Secure AI Agents with Docker](https://www.docker.com/blog/ai-engineer-paris-build-secure-ai-agents/) (2025-10-06)
 - [Llama.cpp Gets an Upgrade: Resumable Model Downloads](https://www.docker.com/blog/llama-cpp-resumable-gguf-downloads/) (2025-10-06)
 - [From Shell Scripts to Science Agents: How AI Agents Are Transforming Research Workflows](https://www.docker.com/blog/ai-science-agents-research-workflows/) (2025-10-02)
-- [Fine-Tuning Local Models with Docker Offload and Unsloth](https://www.docker.com/blog/fine-tuning-models-with-offload-and-unsloth/) (2025-10-02)
-- [Expanding Docker Hardened Images: Secure Helm Charts for Deployments](https://www.docker.com/blog/docker-hardened-images-helm-charts-beta/) (2025-09-29)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [CLion Nova Will Become the Default Engine for All Users in v2025.3 – Here’s What You Need to Know](https://blog.jetbrains.com/clion/2025/10/nova-default-for-all/) (2025-10-06)
 - [JetBrains × Zed: Open Interoperability for AI Coding Agents in Your IDE](https://blog.jetbrains.com/ai/2025/10/jetbrains-zed-open-interoperability-for-ai-coding-agents-in-your-ide/) (2025-10-06)
 - [9 ReSharper Features Every .NET Developer Should Know](https://blog.jetbrains.com/dotnet/2025/10/06/9-resharper-features-every-dotnet-developer-should-know/) (2025-10-06)
 - [The State of CI/CD in 2025: Key Insights from the Latest JetBrains Survey](https://blog.jetbrains.com/teamcity/2025/10/the-state-of-cicd/) (2025-10-06)
 - [dotInsights | October 2025](https://blog.jetbrains.com/dotnet/2025/10/06/dotinsights-october-2025/) (2025-10-06)
-- [ReSharper and Rider 2025.2.3: The Third Set of Updates Released](https://blog.jetbrains.com/dotnet/2025/10/06/resharper-and-rider-2025-2-3/) (2025-10-06)
 
 </details>
 
@@ -362,6 +362,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Introducing Customer Intelligence for Advertisers
+](
+https://www.twilio.com/en-us/blog/products/launches/customer-intelligence-for-advertisers
+) (2025-10-06)
+- [
 Book Appointments With Laravel, Twilio and SendGrid
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/book-appointments-with-laravel-twilio-sendgrid
@@ -380,11 +385,6 @@ https://www.twilio.com/en-us/blog/insights/gmail-postmaster-tools-changes
 Build a Secure Signup API in .NET that Filters Emails and Verifies with Twilio SendGrid
 ](
 https://www.twilio.com/en-us/blog/developers/community/build-a-secure-signup-api-in-dot-net-filters-emails-verifies-twilio-sendgrid
-) (2025-10-01)
-- [
-The RCS holiday messaging playbook: Turn texts into branded experiences
-](
-https://www.twilio.com/en-us/blog/insights/best-practices/rcs-messaging-holiday-playbook
 ) (2025-10-01)
 
 </details>
