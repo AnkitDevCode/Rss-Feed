@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [xAI hires former Morgan Stanley banker Anthony Armstrong as CFO](https://techcrunch.com/2025/10/07/xai-hires-former-morgan-stanley-banker-anthony-armstrong-as-cfo/) (2025-10-07)
 - [Deloitte goes all in on AI — despite having to issue a hefty refund for use of AI](https://techcrunch.com/2025/10/06/deloitte-goes-all-in-on-ai-despite-having-to-issue-a-hefty-refund-for-use-of-ai/) (2025-10-06)
 - [Lucid Motors sets record as Gravity sales pick up and tax credit expires](https://techcrunch.com/2025/10/06/lucid-motors-sets-record-as-gravity-sales-pick-up-and-tax-credit-expires/) (2025-10-06)
 - [Taylor Swift fans accuse singer of using AI in her Google scavenger hunt videos](https://techcrunch.com/2025/10/06/taylor-swift-fans-accuse-singer-of-using-ai-in-her-google-scavenger-hunt-videos/) (2025-10-06)
 - [Microsoft buys another 100 MW of solar, this time in Japan](https://techcrunch.com/2025/10/06/microsoft-buys-another-100-mw-of-solar-this-time-in-japan/) (2025-10-06)
-- [OpenAI ramps up developer push with more powerful models in its API ](https://techcrunch.com/2025/10/06/openai-ramps-up-developer-push-with-more-powerful-models-in-its-api/) (2025-10-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Learning a foreign language–before you're born](https://nouvelles.umontreal.ca/en/article/2025/10/03/learning-a-foreign-language-before-you-re-born) (2025-10-07)
-- [California law forces Netflix, Hulu to turn down ad volumes](https://www.politico.com/news/2025/10/06/dial-it-down-california-forces-netflix-hulu-to-lower-ad-volume-00595663) (2025-10-07)
-- [Pdoc – Generate API documentation for Python projects](https://pdoc.dev/) (2025-10-07)
-- [Origami Patterns Solve a Major Physics Riddle](https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/) (2025-10-07)
-- [The least amount of CSS for a decent looking site (2023)](https://thecascade.dev/article/least-amount-of-css/) (2025-10-06)
+- [The Quiet Driving Force Behind Rising Curtailment Costs in Great Britain](https://ukerc.ac.uk/news/transmission-network-unavailability-the-quiet-driving-force-behind-rising-curtailment-costs-in-great-britain/) (2025-10-07)
+- [MacBook Lid Angle Sensor](https://github.com/samhenrigold/LidAngleSensor) (2025-10-07)
+- [Like Vercel, but open source and for all language](https://github.com/hunvreus/devpush) (2025-10-07)
+- [Nobel Prize in Physics 2025](https://www.nobelprize.org/prizes/physics/2025/popular-information/) (2025-10-07)
+- [The Mondrian introduction to functional optics](http://marcosh.github.io/post/2025/10/07/the-mondrian-introduction-to-functional-optics.html) (2025-10-07)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The Supreme Court didn’t save Google from Epic, and now the clock is ticking](https://www.theverge.com/news/793610/google-epic-android-supreme-court-stay-denied) (2025-10-06)
-- [Microsoft is plugging more holes that let you use Windows 11 without an online account](https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes) (2025-10-06)
-- [Sam Altman says there are no current plans for ads within ChatGPT Pulse — but he’s not ruling it out](https://www.theverge.com/news/793073/chatgpt-pulse-no-plans-for-ads-sam-altman) (2025-10-06)
-- [ChatGPT apps are live: Here are the first ones you can try](https://www.theverge.com/news/793081/chagpt-apps-sdk-spotify-zillow-openai) (2025-10-06)
-- [The judge tasked with deciding Google’s fate would rather not](https://www.theverge.com/policy/793455/google-doj-ad-tech-judge-brinkema-break-up) (2025-10-06)
+- [The Apple Watch Ultra 3 is for folks who don’t already have one](https://www.theverge.com/tech/793264/apple-watch-ultra-3-review-satellite-5g-display-battery-wearable) (2025-10-07)
+- [Memo to Bari Weiss Re: CBS News: You’re doomed](https://www.theverge.com/business/793525/bari-weiss-cbs-news-glass-cliff) (2025-10-07)
+- [The Verge&#8217;s Guide to Amazon&#8217;s October Prime Day Event 2025](https://www.theverge.com/tech/782478/october-amazon-prime-day-deals-guide) (2025-10-07)
+- [The best October Prime Day deals at Walmart](https://www.theverge.com/tech/793052/best-walmart-anti-prime-day-deals-october-2025) (2025-10-07)
+- [The 180 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1) (2025-10-07)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: extracting lithium, and what we still don’t know about Sora](https://www.technologyreview.com/2025/10/07/1125075/the-download-extracting-lithium-and-what-we-still-dont-know-about-sora/) (2025-10-07)
+- [The three big unanswered questions about Sora](https://www.technologyreview.com/2025/10/07/1124998/the-three-big-unanswered-questions-about-sora/) (2025-10-07)
+- [This company is planning a lithium empire from the shores of the Great Salt Lake](https://www.technologyreview.com/2025/10/07/1125060/this-company-is-planning-a-lithium-empire-from-the-shores-of-the-great-salt-lake/) (2025-10-07)
 - [The Download: introducing the 10 climate tech companies to watch for 2025](https://www.technologyreview.com/2025/10/06/1124939/the-download-introducing-the-10-climate-tech-companies-to-watch-for-2025/) (2025-10-06)
 - [2025 Climate Tech Companies to Watch](https://www.technologyreview.com/2025/10/06/1124257/2025-climate-tech-companies-to-watch/) (2025-10-06)
-- [Bill Gates: Our best weapon against climate change is ingenuity](https://www.technologyreview.com/2025/10/06/1124265/bill-gates-ingenuity-climate-change-tech-investment/) (2025-10-06)
-- [2025 Climate Tech Companies to Watch: HiNa Battery Technology and its effort to commercialize salt cells](https://www.technologyreview.com/2025/10/06/1124270/2025-climate-tech-companies-to-watch-hina-battery-salt-cells/) (2025-10-06)
-- [How we picked promising climate tech companies in an especially unsettling year](https://www.technologyreview.com/2025/10/06/1124275/2025-climate-tech-companies-to-watch-methodology/) (2025-10-06)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-2890) (2025-10-07)
-- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2760) (2025-10-07)
-- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-5dbc) (2025-10-07)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-4kh4) (2025-10-07)
-- [Peter Finch Golf: Playing my favourite course before it falls into the sea...](https://dev.to/youtube_golf/peter-finch-golf-playing-my-favourite-course-before-it-falls-into-the-sea-1a) (2025-10-07)
+- [What AI Taught Me About Sharing Context With Humans](https://dev.to/saxmanjes/what-ai-taught-me-about-sharing-context-with-humans-1djc) (2025-10-07)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-1jnc) (2025-10-07)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Blockage (Live on KEXP)](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-blockage-live-on-kexp-4hcg) (2025-10-07)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - The Wyrm (Live on KEXP)](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-the-wyrm-live-on-kexp-4kn1) (2025-10-07)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Carousel (Live on KEXP)](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-carousel-live-on-kexp-1h1o) (2025-10-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Storage Engine Battle: LSM Trees vs B+ Trees](https://medium.com/@sohail_saifi/the-storage-engine-battle-lsm-trees-vs-b-trees-37d52131225d?source=rss------programming-5) (2025-10-07)
-- [I Asked Amazon Q About My Kubernetes Cluster — Here’s What Happened](https://medium.com/@pooja.daga17/i-asked-amazon-q-about-my-kubernetes-cluster-heres-what-happened-29a44f8858cc?source=rss------programming-5) (2025-10-07)
-- [⚖️ Load Balancing Strategies: Round-Robin, Least Requests, and Power of Two Choices](https://medium.com/@k4ndev/%EF%B8%8F-load-balancing-strategies-round-robin-least-requests-and-power-of-two-choices-75b45807ff5c?source=rss------programming-5) (2025-10-07)
-- [Why You Should Rethink How You Use Python Classes](https://medium.com/the-pythonworld/why-you-should-rethink-how-you-use-python-classes-a210dfd3709f?source=rss------programming-5) (2025-10-07)
-- [Hidden API Endpoints: The Hacker’s Secret Weapon ](https://infosecwriteups.com/hidden-api-endpoints-the-hackers-secret-weapon-a9ee297a29c2?source=rss------programming-5) (2025-10-07)
+- [From Figma to Production: How I Optimised Frontend Development Time by 70%](https://envitab.medium.com/from-figma-to-production-how-i-optimised-frontend-development-time-by-70-b4d2d603e316?source=rss------programming-5) (2025-10-07)
+- [Building a Currency Converter in Flutter: Learn with Material and Cupertino Widgets](https://medium.com/@ghanashyambudhathoki03/building-a-currency-converter-in-flutter-learn-with-material-and-cupertino-widgets-ae613dc1400b?source=rss------programming-5) (2025-10-07)
+- [09055770486شماره خاله بندرعباس.شماره](https://medium.com/@njbjbhbjibivjknbibjjbjbjbu/09055770486%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-6b550ffbdedb?source=rss------programming-5) (2025-10-07)
+- [09055770486شماره خاله بندرعباس.شماره](https://medium.com/@njbjbhbjibivjknbibjjbjbjbu/09055770486%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-78f4de99f933?source=rss------programming-5) (2025-10-07)
+- [The Python Script That Accidentally Crashed My Own Server](https://python.plainenglish.io/the-python-script-that-accidentally-crashed-my-own-server-2a73a094d4d1?source=rss------programming-5) (2025-10-07)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Introducing Microsoft Agent Framework](https://azure.microsoft.com/en-us/blog/introducing-microsoft-agent-framework/) (2025-10-01)
+- [Grok 4 is now available in Azure AI Foundry: Unlock frontier intelligence and business-ready capabilities](https://azure.microsoft.com/en-us/blog/grok-4-is-now-available-in-azure-ai-foundry-unlock-frontier-intelligence-and-business-ready-capabilities/) (2025-09-29)
 - [Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.](https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/) (2025-09-25)
 - [Agent Factory: Designing the open agentic web stack](https://azure.microsoft.com/en-us/blog/agent-factory-designing-the-open-agentic-web-stack/) (2025-09-24)
 - [How Azure Cobalt 100 VMs are powering real-world solutions, delivering performance and efficiency results](https://azure.microsoft.com/en-us/blog/how-azure-cobalt-100-vms-are-powering-real-world-solutions-delivering-performance-and-efficiency-results/) (2025-09-23)
-- [Accelerate migration and modernization with agentic AI](https://azure.microsoft.com/en-us/blog/accelerate-migration-and-modernization-with-agentic-ai/) (2025-09-23)
-- [Inside the world’s most powerful AI datacenter](https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/) (2025-09-18)
 
 </details>
 
@@ -392,11 +392,11 @@ https://www.twilio.com/en-us/blog/developers/community/build-a-secure-signup-api
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Demystifying JOSE, the JWT Family: JWS, JWE, JWA, and JWK Explained](https://auth0.com/blog/demystifying-jose-jwt-family/) (2025-10-06)
 - [Identity That Helps You Sell: Introducing Auth0 for B2B Enhancements](https://auth0.com/blog/identity-that-helps-you-sell-introducing-auth0-for-b2b-enhancements/) (2025-10-02)
 - [Secure a .NET RAG System with Auth0 FGA](https://auth0.com/blog/secure-dotnet-rag-system-with-auth0-fga/) (2025-10-01)
 - [From Building to Scaling: How to Choose the Right Auth0 Plan](https://auth0.com/blog/from-building-to-scaling-how-to-choose-the-right-auth0-plan/) (2025-09-26)
 - [Announcing Auth0 for AI Agents: Powering the Future of AI, Securely](https://auth0.com/blog/announcing-auth0-for-ai-agents-powering-the-future-of-ai-securely/) (2025-09-25)
-- [Detecting Signup Fraud: 3 Ways to Use Auth0 Logs to Protect Your Business](https://auth0.com/blog/detecting-signup-fraud-3-ways-to-use-auth0-logs-to-protect-your-business/) (2025-09-24)
 
 </details>
 
@@ -546,22 +546,22 @@ https://www.twilio.com/en-us/blog/developers/community/build-a-secure-signup-api
 <details>
 <summary>🤖 AI News</summary>
 
+- [How AI is changing the way we travel](https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-way-we-travel/) (2025-10-07)
 - [Google’s new AI agent rewrites code to automate vulnerability fixes](https://www.artificialintelligence-news.com/news/google-new-ai-agent-rewrites-code-automate-vulnerability-fixes/) (2025-10-06)
 - [China Mobile Shanghai launches industry-first 5G-A network monetisation strategy with Huawei](https://www.artificialintelligence-news.com/news/5g-a-shanghai-huawei-network-monetization-football/) (2025-10-03)
 - [AI causes reduction in users’ brain activity – MIT](https://www.artificialintelligence-news.com/news/ai-causes-reduction-in-users-brain-activity-mit/) (2025-10-01)
 - [The 5 best AI AppSec tools in 2025](https://www.artificialintelligence-news.com/news/the-5-best-ai-appsec-tools-in-2025/) (2025-10-01)
-- [Why AI phishing detection will define cybersecurity in 2026](https://www.artificialintelligence-news.com/news/why-ai-phishing-detection-will-define-cybersecurity-in-2026/) (2025-10-01)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Perform Effective Agentic Context Engineering](https://towardsdatascience.com/how-to-perform-effective-agentic-context-engineering/) (2025-10-07)
 - [How I Used ChatGPT to Land My Next Data Science Role](https://towardsdatascience.com/how-i-used-chatgpt-to-land-my-next-data-science-role/) (2025-10-06)
 - [How To Build Effective Technical Guardrails for AI Applications](https://towardsdatascience.com/how-to-build-effective-technical-guardrails-for-ai-applications/) (2025-10-06)
 - [Plotly Dash — A Structured Framework for a Multi-Page Dashboard](https://towardsdatascience.com/plotly-dash-a-structured-framework-for-a-multi-page-dashboard/) (2025-10-06)
 - [Classical Computer Vision and Perspective Transformation for Sudoku Extraction](https://towardsdatascience.com/classical-computer-vision-and-perspective-transformation-for-sudoku-extraction/) (2025-10-05)
-- [Building a Command-Line Quiz Application in R](https://towardsdatascience.com/building-a-command-line-quiz-application-in-r/) (2025-10-05)
 
 </details>
 
@@ -579,22 +579,22 @@ https://www.twilio.com/en-us/blog/developers/community/build-a-secure-signup-api
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Signs Your Business Is a Prime Target for Cyberattacks](https://www.kdnuggets.com/5-signs-your-business-is-a-prime-target-for-cyberattacks) (2025-10-07)
 - [A Gentle Introduction to TypeScript for Python Programmers](https://www.kdnuggets.com/a-gentle-introduction-to-typescript-for-python-programmers) (2025-10-06)
 - [Weights & Biases: A KDnuggets Crash Course](https://www.kdnuggets.com/weights-biases-a-kdnuggets-crash-course) (2025-10-06)
 - [7 LinkedIn Tricks to Get Noticed by Recruiters](https://www.kdnuggets.com/7-linkedin-tricks-to-get-noticed-by-recruiters) (2025-10-06)
 - [Is ChatGPT Study Mode a Hidden Gem or a Gimmick?](https://www.kdnuggets.com/is-chatgpt-study-mode-a-hidden-gem-or-a-gimmick) (2025-10-03)
-- [5 Fun AI Agent Projects for Absolute Beginners](https://www.kdnuggets.com/5-fun-ai-agent-projects-for-absolute-beginners) (2025-10-03)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Is ChatGPT-5 Able to Provide Proofs for Advanced Mathematics?](https://machinelearningmastery.com/is-chatgpt-5-able-to-provide-proofs-for-advanced-mathematics/) (2025-10-07)
 - [A Decision Matrix for Time Series Forecasting Models](https://machinelearningmastery.com/a-decision-matrix-for-time-series-forecasting-models/) (2025-10-06)
 - [Algorithm Showdown: Logistic Regression vs. Random Forest vs. XGBoost on Imbalanced Data](https://machinelearningmastery.com/algorithm-showdown-logistic-regression-vs-random-forest-vs-xgboost-on-imbalanced-data/) (2025-10-03)
 - [MinMax vs Standard vs Robust Scaler: Which One Wins for Skewed Data?](https://machinelearningmastery.com/minmax-vs-standard-vs-robust-scaler-which-one-wins-for-skewed-data/) (2025-10-01)
 - [The Model Selection Showdown: 6 Considerations for Choosing the Best Model](https://machinelearningmastery.com/the-model-selection-showdown-6-considerations-for-choosing-the-best-model/) (2025-09-30)
-- [7 Python Decorator Tricks to Write Cleaner Code](https://machinelearningmastery.com/7-python-decorator-tricks-to-write-cleaner-code/) (2025-09-29)
 
 </details>
 
