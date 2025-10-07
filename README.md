@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Microsoft are removing mechanisms for creating a local account in Windows Setup](https://blogs.windows.com/windows-insider/2025/10/06/announcing-windows-11-insider-preview-build-26120-6772-beta-channel/) (2025-10-07)
-- [Analytical Review of Depression and Suicidality from Finasteride](https://www.psychiatrist.com/jcp/analytical-review-depression-suicidality-finasteride/) (2025-10-07)
+- [Learning a foreign language–before you're born](https://nouvelles.umontreal.ca/en/article/2025/10/03/learning-a-foreign-language-before-you-re-born) (2025-10-07)
+- [California law forces Netflix, Hulu to turn down ad volumes](https://www.politico.com/news/2025/10/06/dial-it-down-california-forces-netflix-hulu-to-lower-ad-volume-00595663) (2025-10-07)
+- [Pdoc – Generate API documentation for Python projects](https://pdoc.dev/) (2025-10-07)
+- [Origami Patterns Solve a Major Physics Riddle](https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/) (2025-10-07)
 - [The least amount of CSS for a decent looking site (2023)](https://thecascade.dev/article/least-amount-of-css/) (2025-10-06)
-- [RediShell: Critical remote code execution vulnerability in Redis](https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844) (2025-10-06)
-- [CodeMender: an AI agent for code security](https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/) (2025-10-06)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Context is king for secure, AI-generated code](https://stackoverflow.blog/2025/10/07/context-is-king-for-secure-ai-generated-code/) (2025-10-07)
 - [Beyond code generation: How AI is changing tech teams' dynamics](https://stackoverflow.blog/2025/10/06/beyond-code-generation-how-ai-is-changing-tech-teams-dynamics/) (2025-10-06)
 - [One is not the loneliest number for API calls](https://stackoverflow.blog/2025/10/03/one-is-not-the-loneliest-number-for-api-calls/) (2025-10-03)
 - [Building AI-ready teams: Why documentation and culture matter more than tools](https://stackoverflow.blog/2025/10/02/building-ai-ready-teams-why-documentation-and-culture-matter-more-than-tools/) (2025-10-02)
 - [Turning investments into impact: Stack Overflow for Teams 2025.7](https://stackoverflow.blog/2025/09/30/turning-investments-into-impact-stack-overflow-for-teams-2025-7/) (2025-09-30)
-- [As your AI gets smarter, so must your API](https://stackoverflow.blog/2025/09/30/as-your-ai-gets-smarter-so-must-your-api/) (2025-09-30)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [#DAY 8: Monitoring, Logs & Troubleshooting](https://dev.to/samueladeduntan/day-8-monitoring-logs-troubleshooting-406d) (2025-10-07)
-- [#DAY 7: Users & Authentication](https://dev.to/samueladeduntan/day-7-users-authentication-12jm) (2025-10-07)
-- [#DAY 6: Security Profiles: Web Filtering & Application Control](https://dev.to/samueladeduntan/day-6-security-profiles-web-filtering-application-control-341j) (2025-10-07)
-- [#DAY 5: Firewall Policies, NAT & Logging](https://dev.to/samueladeduntan/day-5-firewall-policies-nat-logging-4ofj) (2025-10-07)
-- [#DAY 4: Interfaces & Internal Network Setup](https://dev.to/samueladeduntan/day-4-interfaces-internal-network-setup-3176) (2025-10-07)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-2890) (2025-10-07)
+- [Rick Beato: Escape the Pentatonic Trap in One Lesson](https://dev.to/music_youtube/rick-beato-escape-the-pentatonic-trap-in-one-lesson-2760) (2025-10-07)
+- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-5dbc) (2025-10-07)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-4kh4) (2025-10-07)
+- [Peter Finch Golf: Playing my favourite course before it falls into the sea...](https://dev.to/youtube_golf/peter-finch-golf-playing-my-favourite-course-before-it-falls-into-the-sea-1a) (2025-10-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [9 Python Workflows That Save Me From Burnout](https://medium.com/codrift/9-python-workflows-that-save-me-from-burnout-bd2f74cdde46?source=rss------programming-5) (2025-10-07)
-- [I Built a Web3 Ticketing System in a Day. Then I Threw It All Away.](https://medium.com/@dgriggsde/i-built-a-web3-ticketing-system-in-a-day-then-i-threw-it-all-away-cc04dc52dca1?source=rss------programming-5) (2025-10-07)
-- [0937_667_6273#شماره خاله تهران #شماره خاله اصفهان #شماره خاله شیراز #شماره خاله ارومیه #شماره خاله…](https://medium.com/@yspsysoysosoy/0937-667-6273-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-da884fb41a45?source=rss------programming-5) (2025-10-07)
-- [0937_667_6273#شماره خاله تهران #شماره خاله اصفهان #شماره خاله شیراز #شماره خاله ارومیه #شماره خاله…](https://medium.com/@yspsysoysosoy/0937-667-6273-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-034953d78552?source=rss------programming-5) (2025-10-07)
-- [0937_667_6273#شماره خاله تهران #شماره خاله اصفهان #شماره خاله شیراز #شماره خاله ارومیه #شماره خاله…](https://medium.com/@yspsysoysosoy/0937-667-6273-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-8d7310ceb04e?source=rss------programming-5) (2025-10-07)
+- [The Storage Engine Battle: LSM Trees vs B+ Trees](https://medium.com/@sohail_saifi/the-storage-engine-battle-lsm-trees-vs-b-trees-37d52131225d?source=rss------programming-5) (2025-10-07)
+- [I Asked Amazon Q About My Kubernetes Cluster — Here’s What Happened](https://medium.com/@pooja.daga17/i-asked-amazon-q-about-my-kubernetes-cluster-heres-what-happened-29a44f8858cc?source=rss------programming-5) (2025-10-07)
+- [⚖️ Load Balancing Strategies: Round-Robin, Least Requests, and Power of Two Choices](https://medium.com/@k4ndev/%EF%B8%8F-load-balancing-strategies-round-robin-least-requests-and-power-of-two-choices-75b45807ff5c?source=rss------programming-5) (2025-10-07)
+- [Why You Should Rethink How You Use Python Classes](https://medium.com/the-pythonworld/why-you-should-rethink-how-you-use-python-classes-a210dfd3709f?source=rss------programming-5) (2025-10-07)
+- [Hidden API Endpoints: The Hacker’s Secret Weapon ](https://infosecwriteups.com/hidden-api-endpoints-the-hackers-secret-weapon-a9ee297a29c2?source=rss------programming-5) (2025-10-07)
 
 </details>
 
@@ -547,10 +547,10 @@ https://www.twilio.com/en-us/blog/developers/community/build-a-secure-signup-api
 <summary>🤖 AI News</summary>
 
 - [Google’s new AI agent rewrites code to automate vulnerability fixes](https://www.artificialintelligence-news.com/news/google-new-ai-agent-rewrites-code-automate-vulnerability-fixes/) (2025-10-06)
-- [5 best AI observability tools in 2025](https://www.artificialintelligence-news.com/news/5-best-ai-observability-tools-in-2025/) (2025-10-05)
 - [China Mobile Shanghai launches industry-first 5G-A network monetisation strategy with Huawei](https://www.artificialintelligence-news.com/news/5g-a-shanghai-huawei-network-monetization-football/) (2025-10-03)
 - [AI causes reduction in users’ brain activity – MIT](https://www.artificialintelligence-news.com/news/ai-causes-reduction-in-users-brain-activity-mit/) (2025-10-01)
 - [The 5 best AI AppSec tools in 2025](https://www.artificialintelligence-news.com/news/the-5-best-ai-appsec-tools-in-2025/) (2025-10-01)
+- [Why AI phishing detection will define cybersecurity in 2026](https://www.artificialintelligence-news.com/news/why-ai-phishing-detection-will-define-cybersecurity-in-2026/) (2025-10-01)
 
 </details>
 
