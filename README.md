@@ -20,21 +20,21 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Charles Schwab backs Singapore’s Qapita, a Carta challenger](https://techcrunch.com/2025/10/08/charles-schwab-backs-singapores-qapita-in-26-5m-bet-to-challenge-carta-with-u-s-private-market-platform/) (2025-10-08)
 - [Revolut aims to take on Indian banks and their ‘criminal’ forex fees](https://techcrunch.com/2025/10/07/revolut-aims-to-take-on-indian-banks-and-their-criminal-forex-fees/) (2025-10-08)
 - [You can’t libel the dead. But that doesn’t mean you should deepfake them.](https://techcrunch.com/2025/10/07/you-cant-libel-the-dead-but-that-doesnt-mean-you-should-deepfake-them/) (2025-10-07)
 - [Trump’s DOE proposes cutting billions in grants for GM, Ford, and lots of startups](https://techcrunch.com/2025/10/07/trumps-doe-proposes-cutting-billions-in-grants-for-gm-ford-and-lots-of-startups/) (2025-10-07)
 - [Wall Street analysts explain how AMD’s own stock will pay for OpenAI’s billions in chip purchases ](https://techcrunch.com/2025/10/07/wall-street-analysts-explain-how-amds-own-stock-will-pay-for-openais-billions-in-chip-purchases/) (2025-10-07)
-- [Google launches its AI vibe-coding app Opal in 15 more countries](https://techcrunch.com/2025/10/07/google-launches-its-ai-vibe-coding-app-opal-in-15-more-countries/) (2025-10-07)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Without data centers, GDP growth was 0.1% in the first half of 2025](https://fortune.com/2025/10/07/data-centers-gdp-growth-zero-first-half-2025-jason-furman-harvard-economist/) (2025-10-08)
-- [TiVo exiting legacy DVR business](https://www.mediaplaynews.com/tivo-exiting-legacy-dvr-business/) (2025-10-08)
-- [The paradoxical efficient market hypothesis (2024)](https://3quarksdaily.com/3quarksdaily/2024/09/the-paradoxical-efficient-market-hypothesis.html) (2025-10-08)
-- [Bob Ross paintings to be auctioned to fund US public broadcasting](https://www.bbc.com/news/articles/cly10275v5zo) (2025-10-08)
+- [One-man spam campaign ravages EU 'Chat Control' bill](https://www.politico.eu/article/one-man-spam-campaign-ravages-eu-chat-control-bill-fight-chat-control/) (2025-10-08)
+- [Nobel Prize in Chemistry 2025](https://www.nobelprize.org/prizes/chemistry/2025/popular-information/) (2025-10-08)
+- [Synology reverses policy banning third-party HDDs after sales allegedly plummet](https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/) (2025-10-08)
+- [Show HN: Oh Yah – Routine management app I built for my sons](https://ohyahapp.com) (2025-10-08)
 - [Study of 1M-year-old skull points to earlier origins of modern humans](https://www.theguardian.com/science/2025/sep/25/study-of-1m-year-old-skull-points-to-earlier-origins-of-modern-humans) (2025-10-08)
 
 </details>
@@ -42,33 +42,33 @@
 <details>
 <summary>📱 The Verge</summary>
 
-- [The 207 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1) (2025-10-08)
-- [The best laptop deals you can get for Amazon’s October Prime Day](https://www.theverge.com/tech/792893/amazon-october-prime-big-deal-day-laptops-gaming-apple) (2025-10-08)
-- [You can score up to $750 off robovacs from iRobot, Dreame, and Eufy right now](https://www.theverge.com/tech/793567/robot-vacuum-mop-deals-amazon-october-prime-day-2025) (2025-10-08)
-- [The 26 best fall Prime Day deals on AirPods, iPads, and other Apple gear](https://www.theverge.com/tech/792289/amazon-october-prime-day-apple-deals-ipad-airpods-sale-2025) (2025-10-08)
-- [The best October Prime Day deals on TVs, soundbars, and more — up to 50% off](https://www.theverge.com/tech/788328/amazon-october-prime-day-4k-tv-soundbar-streaming-deal-sale-2025) (2025-10-08)
+- [Amazfit’s Active 2, one of our favorite fitness trackers, is a steal at just $81](https://www.theverge.com/tech/791143/amazon-october-prime-day-amazfit-active-2-deal-sale-2025) (2025-10-08)
+- [OpenAI wasn’t expecting Sora’s copyright drama](https://www.theverge.com/ai-artificial-intelligence/795171/openai-devday-sam-altman-sora-launch-copyright) (2025-10-08)
+- [HMD’s Touch 4G is a dumb-smart-phone](https://www.theverge.com/news/795993/hmds-touch-4g-is-a-dumb-smart-phone) (2025-10-08)
+- [Firefox is adding profiles to separate your browsing sessions](https://www.theverge.com/news/795998/mozilla-firefox-browser-profiles-separate-tabs) (2025-10-08)
+- [Here’s what Verge readers are buying during October Prime Day](https://www.theverge.com/tech/795055/amazon-october-prime-day-2025-popular-products-verge-readers) (2025-10-08)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Floating electrons on a sea of helium](https://arstechnica.com/science/2025/10/new-qubit-tech-traps-single-electrons-on-liquid-helium/) (2025-10-08)
 - [Tesla’s standard-range Model 3, Model Y join the lineup](https://arstechnica.com/cars/2025/10/teslas-new-cut-price-evs-a-39990-model-y-and-36990-model-3/) (2025-10-07)
 - [Despite RFK Jr.’s shenanigans, COVID shot access will be a lot like last year](https://arstechnica.com/health/2025/10/after-rfk-jr-s-shenanigans-covid-shot-access-will-be-a-lot-like-last-year/) (2025-10-07)
 - [2025 Nobel Prize in Physics awarded for macroscale quantum tunneling](https://arstechnica.com/science/2025/10/2025-nobel-prize-in-physics-awarded-for-macroscale-quantum-tunneling/) (2025-10-07)
 - [Ted Cruz doesn’t seem to understand Wikipedia, lawyer for Wikimedia says](https://arstechnica.com/tech-policy/2025/10/wikipedia-rebuts-ted-cruz-attack-says-cruz-just-doesnt-understand-the-site/) (2025-10-07)
-- [Microsoft removes even more Microsoft account workarounds from Windows 11 build](https://arstechnica.com/gadgets/2025/10/microsoft-removes-even-more-microsoft-account-workarounds-from-windows-11-build/) (2025-10-07)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
-- [The Trump administration may cut funding for two major direct-air capture plants](https://www.technologyreview.com/2025/10/07/1125207/the-us-is-set-to-cancel-funding-for-two-major-direct-air-capture-plants/) (2025-10-07)
+- [The Download: carbon removal factories’ funding cuts, and AI toys](https://www.technologyreview.com/2025/10/08/1125301/the-download-carbon-removal-factories-funding-cuts-and-ai-toys/) (2025-10-08)
+- [The Trump administration may cut funding for two major direct-air-capture plants](https://www.technologyreview.com/2025/10/07/1125207/the-us-is-set-to-cancel-funding-for-two-major-direct-air-capture-plants/) (2025-10-07)
 - [AI toys are all the rage in China—and now they’re appearing on shelves in the US too](https://www.technologyreview.com/2025/10/07/1125191/ai-toys-in-china/) (2025-10-07)
 - [The Download: extracting lithium, and what we still don’t know about Sora](https://www.technologyreview.com/2025/10/07/1125075/the-download-extracting-lithium-and-what-we-still-dont-know-about-sora/) (2025-10-07)
 - [The three big unanswered questions about Sora](https://www.technologyreview.com/2025/10/07/1124998/the-three-big-unanswered-questions-about-sora/) (2025-10-07)
-- [This company is planning a lithium empire from the shores of the Great Salt Lake](https://www.technologyreview.com/2025/10/07/1125060/this-company-is-planning-a-lithium-empire-from-the-shores-of-the-great-salt-lake/) (2025-10-07)
 
 </details>
 
@@ -97,22 +97,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [COLORS: Nono La Grinta | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-a-colors-show-4h17) (2025-10-08)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Blockage (Live on KEXP)](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-blockage-live-on-kexp-4apb) (2025-10-08)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - The Wyrm (Live on KEXP)](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-the-wyrm-live-on-kexp-418p) (2025-10-08)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Collider (Live on KEXP)](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-collider-live-on-kexp-1ebe) (2025-10-08)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Full Performance (Live on KEXP)](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-full-performance-live-on-kexp-1kal) (2025-10-08)
+- [What Devs Are Actually Learning in 2025 (Stack Overflow + DORA Insights)](https://dev.to/dhruvjoshi9/what-devs-are-actually-learning-in-2025-stack-overflow-dora-insights-17j3) (2025-10-08)
+- [Build a Powerful AI Chatbot UI in Minutes with Next.js](https://dev.to/buildandcodewithraman/build-a-powerful-ai-chatbot-ui-in-minutes-with-nextjs-511j) (2025-10-08)
+- [Dictionary in Python (3)](https://dev.to/hyperkai/dictionary-in-python-3-42e8) (2025-10-08)
+- [How to choose between the four types of safety levels and the two types of safety levels for safety curtains?](https://dev.to/daidisike/how-to-choose-between-the-four-types-of-safety-levels-and-the-two-types-of-safety-levels-for-safety-2gp7) (2025-10-08)
+- [GitHub Copilot Chat Modes: From Chaos to Command 🎛️](https://dev.to/anchildress1/github-copilot-chat-modes-from-chaos-to-command-54k0) (2025-10-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Most Misunderstood Feature in React: useEffect Isn’t a Lifecycle Hook](https://medium.com/@flores.jorgeluis/the-most-misunderstood-feature-in-react-useeffect-isnt-a-lifecycle-hook-ae04bb8a37dd?source=rss------programming-5) (2025-10-08)
-- [Python’s Quirks That Catch Developers Off Guard](https://medium.com/@ccpythonprogramming/pythons-quirks-that-catch-developers-off-guard-470cd8ccfd44?source=rss------programming-5) (2025-10-08)
-- [React Behind the Scenes, map(), props, even handling & propagation](https://medium.com/@noransaber685/react-behind-the-scenes-map-props-even-handling-propagation-52cd1d4260c4?source=rss------programming-5) (2025-10-08)
-- [10 Python Trends Every Developer Should Watch in 2025 ](https://medium.com/the-pythonworld/10-python-trends-every-developer-should-watch-in-2025-70db570690ff?source=rss------programming-5) (2025-10-08)
-- [Why Are Developers Replacing NgRx with SignalStore Events?](https://medium.com/@Angular_With_Awais/why-are-developers-replacing-ngrx-with-signalstore-events-3e2620d0e3b3?source=rss------programming-5) (2025-10-08)
+- [“7 Python Automations That Make Me Money While I Sleep”](https://python.plainenglish.io/7-python-automations-that-make-me-money-while-i-sleep-7635e263b6cc?source=rss------programming-5) (2025-10-08)
+- [I Tested 5 Popular Security Tools: Only One Actually Protected Me](https://blog.stackademic.com/i-tested-5-popular-security-tools-only-one-actually-protected-me-730fd70dd992?source=rss------programming-5) (2025-10-08)
+- [Agent Memory Retrieval Strategies: How to Learn to Remember](https://luhuidev.medium.com/agent-memory-retrieval-strategies-how-to-learn-to-remember-c702b46314e0?source=rss------programming-5) (2025-10-08)
+- [Why Senior Engineers Are Choosing Small Teams Over Big Salaries](https://medium.com/@cleanCompile/why-senior-engineers-are-choosing-small-teams-over-big-salaries-44db285d172c?source=rss------programming-5) (2025-10-08)
+- [09027641209شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@glkfsyatfig/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ef0bfa51bcda?source=rss------programming-5) (2025-10-08)
 
 </details>
 
@@ -207,11 +208,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Unlocking Local AI on Any GPU: Docker Model Runner Now with Vulkan Support](https://www.docker.com/blog/docker-model-runner-vulkan-gpu-support/) (2025-10-08)
 - [Powered by Docker: How Open Source Genius Cut Entropy Debt with Docker MCP Toolkit and Claude Desktop](https://www.docker.com/blog/open-source-genius-cut-entropy-debt-docker-mcp-claude/) (2025-10-07)
 - [IBM Granite 4.0 Models Now Available on Docker Hub](https://www.docker.com/blog/ibm-granite-4-0-models-now-available-on-docker-hub/) (2025-10-06)
 - [Unlimited access to Docker Hardened Images: Because security should be affordable, always](https://www.docker.com/blog/unlimited-access-to-docker-hardened-images-because-security-should-be-affordable-always/) (2025-10-06)
 - [Docker at AI Engineer Paris: Build and Secure AI Agents with Docker](https://www.docker.com/blog/ai-engineer-paris-build-secure-ai-agents/) (2025-10-06)
-- [Llama.cpp Gets an Upgrade: Resumable Model Downloads](https://www.docker.com/blog/llama-cpp-resumable-gguf-downloads/) (2025-10-06)
 
 </details>
 
@@ -502,11 +503,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/how-to-validate-twilio-ev
 <details>
 <summary>💬 Slack API</summary>
 
+- [What Is Personalized Search, and How Does It Work?](https://slack.com/blog/productivity/what-is-personalized-search-and-how-does-it-work) (2025-10-07)
+- [AI Assistants: Everything You Need to Know](https://slack.com/blog/transformation/ai-assistants-what-they-do-and-why-you-need-them) (2025-10-07)
 - [A Complete Guide to AI Summarization: Benefits, Use Cases, and Tools](https://slack.com/blog/productivity/ai-summarization-a-guide-to-conquering-information-overload) (2025-10-01)
 - [Document Workflows Like a Pro: Tips, Tools, and Real-World Examples](https://slack.com/blog/productivity/workflow-documentation-what-it-is-how-to-create-it-and-why-it-matters) (2025-10-01)
 - [Work Order Management: Essential Steps and Strategies](https://slack.com/blog/productivity/work-order-management-essential-steps-and-strategies) (2025-09-29)
-- [Enterprise Process Automation: the Key to Faster, Smarter Workflows](https://slack.com/blog/productivity/an-introductory-guide-to-enterprise-automation) (2025-09-29)
-- [RACI Model Explained: Definition, Benefits, and How to Use It](https://slack.com/blog/productivity/raci-model-explained-definition-benefits-and-how-to-use-it) (2025-09-26)
 
 </details>
 
@@ -546,22 +547,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/how-to-validate-twilio-ev
 <details>
 <summary>🤖 AI News</summary>
 
+- [Samsung’s tiny AI model beats giant reasoning LLMs](https://www.artificialintelligence-news.com/news/samsung-tiny-ai-model-beats-giant-reasoning-llms/) (2025-10-08)
+- [Tuned Global strengthens its leadership in music technology with the acquisition of Figaro.ai](https://www.artificialintelligence-news.com/news/tuned-global-strengthens-its-leadership-in-music-technology-with-the-acquisition-of-figaro-ai/) (2025-10-08)
+- [AI Redaction That Puts Privacy First: CaseGuard Studio Leading The Way](https://www.artificialintelligence-news.com/news/ai-redaction-that-puts-privacy-first-caseguard-studio-leading-the-way/) (2025-10-08)
 - [How AI is changing the way we travel](https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-way-we-travel/) (2025-10-07)
-- [Google’s new AI agent rewrites code to automate vulnerability fixes](https://www.artificialintelligence-news.com/news/google-new-ai-agent-rewrites-code-automate-vulnerability-fixes/) (2025-10-06)
-- [China Mobile Shanghai launches industry-first 5G-A network monetisation strategy with Huawei](https://www.artificialintelligence-news.com/news/5g-a-shanghai-huawei-network-monetization-football/) (2025-10-03)
-- [AI causes reduction in users’ brain activity – MIT](https://www.artificialintelligence-news.com/news/ai-causes-reduction-in-users-brain-activity-mit/) (2025-10-01)
-- [The 5 best AI AppSec tools in 2025](https://www.artificialintelligence-news.com/news/the-5-best-ai-appsec-tools-in-2025/) (2025-10-01)
+- [5 best AI observability tools in 2025](https://www.artificialintelligence-news.com/news/5-best-ai-observability-tools-in-2025/) (2025-10-06)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Data Visualization Explained (Part 3): The Role of Color](https://towardsdatascience.com/data-visualization-explained-part-3-the-role-of-color/) (2025-10-08)
 - [This Puzzle Shows Just How Far LLMs Have Progressed in a Little Over a Year](https://towardsdatascience.com/this-puzzle-shows-just-how-far-llms-have-progressed-in-little-over-a-year/) (2025-10-07)
 - [How to Perform Effective Agentic Context Engineering](https://towardsdatascience.com/how-to-perform-effective-agentic-context-engineering/) (2025-10-07)
 - [How I Used ChatGPT to Land My Next Data Science Role](https://towardsdatascience.com/how-i-used-chatgpt-to-land-my-next-data-science-role/) (2025-10-06)
 - [How To Build Effective Technical Guardrails for AI Applications](https://towardsdatascience.com/how-to-build-effective-technical-guardrails-for-ai-applications/) (2025-10-06)
-- [Plotly Dash — A Structured Framework for a Multi-Page Dashboard](https://towardsdatascience.com/plotly-dash-a-structured-framework-for-a-multi-page-dashboard/) (2025-10-06)
 
 </details>
 
@@ -579,22 +580,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/how-to-validate-twilio-ev
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [10 Command-Line Tools Every Data Scientist Should Know](https://www.kdnuggets.com/10-command-line-tools-every-data-scientist-should-know) (2025-10-08)
 - [How I Actually Use Statistics as a Data Scientist](https://www.kdnuggets.com/how-i-actually-use-statistics-as-a-data-scientist) (2025-10-07)
 - [The Lazy Data Scientist’s Guide to Exploratory Data Analysis](https://www.kdnuggets.com/the-lazy-data-scientists-guide-to-exploratory-data-analysis) (2025-10-07)
 - [5 Signs Your Business Is a Prime Target for Cyberattacks](https://www.kdnuggets.com/5-signs-your-business-is-a-prime-target-for-cyberattacks) (2025-10-07)
 - [A Gentle Introduction to TypeScript for Python Programmers](https://www.kdnuggets.com/a-gentle-introduction-to-typescript-for-python-programmers) (2025-10-06)
-- [Weights & Biases: A KDnuggets Crash Course](https://www.kdnuggets.com/weights-biases-a-kdnuggets-crash-course) (2025-10-06)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [7 NumPy Tricks to Vectorize Your Code](https://machinelearningmastery.com/7-numpy-tricks-to-vectorize-your-code/) (2025-10-08)
 - [Is ChatGPT-5 Able to Provide Proofs for Advanced Mathematics?](https://machinelearningmastery.com/is-chatgpt-5-able-to-provide-proofs-for-advanced-mathematics/) (2025-10-07)
 - [A Decision Matrix for Time Series Forecasting Models](https://machinelearningmastery.com/a-decision-matrix-for-time-series-forecasting-models/) (2025-10-06)
 - [Algorithm Showdown: Logistic Regression vs. Random Forest vs. XGBoost on Imbalanced Data](https://machinelearningmastery.com/algorithm-showdown-logistic-regression-vs-random-forest-vs-xgboost-on-imbalanced-data/) (2025-10-03)
 - [MinMax vs Standard vs Robust Scaler: Which One Wins for Skewed Data?](https://machinelearningmastery.com/minmax-vs-standard-vs-robust-scaler-which-one-wins-for-skewed-data/) (2025-10-01)
-- [The Model Selection Showdown: 6 Considerations for Choosing the Best Model](https://machinelearningmastery.com/the-model-selection-showdown-6-considerations-for-choosing-the-best-model/) (2025-09-30)
 
 </details>
 
@@ -612,11 +613,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/how-to-validate-twilio-ev
 <details>
 <summary>🧠 DeepMind Blog</summary>
 
+- [Introducing the Gemini 2.5 Computer Use model](https://deepmind.google/discover/blog/introducing-the-gemini-2-5-computer-use-model/) (2025-10-08)
 - [Introducing CodeMender: an AI agent for code security](https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/) (2025-10-06)
 - [Gemini Robotics 1.5 brings AI agents into the physical world](https://deepmind.google/discover/blog/gemini-robotics-15-brings-ai-agents-into-the-physical-world/) (2025-09-25)
 - [Strengthening our Frontier Safety Framework](https://deepmind.google/discover/blog/strengthening-our-frontier-safety-framework/) (2025-09-22)
 - [Discovering new solutions to century-old problems in fluid dynamics](https://deepmind.google/discover/blog/discovering-new-solutions-to-century-old-problems-in-fluid-dynamics/) (2025-09-18)
-- [Gemini achieves gold-level performance at the International Collegiate Programming Contest World Finals](https://deepmind.google/discover/blog/gemini-achieves-gold-level-performance-at-the-international-collegiate-programming-contest-world-finals/) (2025-09-17)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
