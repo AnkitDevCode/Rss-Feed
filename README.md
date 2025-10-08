@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [X splits Verified Organizations into ‘Premium Business’ and ‘Premium Organizations’](https://techcrunch.com/2025/10/07/x-splits-verified-organizations-into-premium-business-and-premium-organizations/) (2025-10-07)
-- [Facebook updates its algorithm to give users more control over which videos they see](https://techcrunch.com/2025/10/07/facebook-updates-its-algorithm-to-give-users-more-control-over-which-videos-they-see/) (2025-10-07)
-- [ICE bought vehicles equipped with fake cell towers to spy on phones ](https://techcrunch.com/2025/10/07/ice-bought-vehicles-equipped-with-fake-cell-towers-to-spy-on-phones/) (2025-10-07)
-- [Mastodon is taking cues from Bluesky with plans for its own starter ‘Packs’](https://techcrunch.com/2025/10/07/mastodon-is-taking-cues-from-bluesky-with-plans-for-its-own-starter-packs/) (2025-10-07)
-- [Anthropic plans to open India office, eyes tie-up with billionaire Ambani](https://techcrunch.com/2025/10/07/anthropic-plans-to-open-india-office-eyes-tie-up-with-billionaire-ambani/) (2025-10-07)
+- [You can’t libel the dead. But that doesn’t mean you should deepfake them.](https://techcrunch.com/2025/10/07/you-cant-libel-the-dead-but-that-doesnt-mean-you-should-deepfake-them/) (2025-10-07)
+- [Trump’s DOE proposes cutting billions in grants for GM, Ford, and lots of startups](https://techcrunch.com/2025/10/07/trumps-doe-proposes-cutting-billions-in-grants-for-gm-ford-and-lots-of-startups/) (2025-10-07)
+- [Wall Street analysts explain how AMD’s own stock will pay for OpenAI’s billions in chip purchases ](https://techcrunch.com/2025/10/07/wall-street-analysts-explain-how-amds-own-stock-will-pay-for-openais-billions-in-chip-purchases/) (2025-10-07)
+- [Google launches its AI vibe-coding app Opal in 15 more countries](https://techcrunch.com/2025/10/07/google-launches-its-ai-vibe-coding-app-opal-in-15-more-countries/) (2025-10-07)
+- [How Otter.ai’s CEO is pushing the company to be more than just a meeting scribe](https://techcrunch.com/2025/10/07/how-otter-ais-ceo-is-pushing-the-company-to-be-more-than-just-a-meeting-scribe/) (2025-10-07)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Less Is More: Recursive Reasoning with Tiny Networks](https://arxiv.org/abs/2510.04871) (2025-10-07)
-- [German government comes out against Chat Control](https://xcancel.com/paddi_hansen/status/1975595307800142205) (2025-10-07)
-- [Building a Browser for Reverse Engineers](https://nullpt.rs/reverse-engineering-browser) (2025-10-07)
-- [You're Doing Rails Wrong](https://www.bananacurvingmachine.com/articles/you-re-doing-rails-wrong) (2025-10-07)
-- [Pigeon (YC W23) is hiring a lead full stack engineer](https://www.ycombinator.com/companies/pigeon/jobs/sjuJOg3-lead-full-stack-software-engineer-remote-us) (2025-10-07)
+- [Study of 1M-year-old skull points to earlier origins of modern humans](https://www.theguardian.com/science/2025/sep/25/study-of-1m-year-old-skull-points-to-earlier-origins-of-modern-humans) (2025-10-08)
+- [Become unbannable from your email](https://karboosx.net/post/PJOveGVa/become-unbannable-from-your-emailgmail) (2025-10-07)
+- [Metriport (YC S22) is hiring a founding recruiter](https://www.ycombinator.com/companies/metriport/jobs/uq6CuhA-founding-recruiter) (2025-10-07)
+- [Gemini 2.5 Computer Use model](https://blog.google/technology/google-deepmind/gemini-computer-use-model/) (2025-10-07)
+- [User ban controversy reveals Bluesky’s decentralized aspiration isn’t reality](https://plus.flux.community/p/banning-controversy-reveals-blueskys) (2025-10-07)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Facebook is turning into TikTok](https://www.theverge.com/news/794923/meta-facebook-tiktok-reels-friend-bubble) (2025-10-07)
-- [The best robot vacuum deals you can snag during Amazon’s fall Prime Day sale](https://www.theverge.com/tech/793567/robot-vacuum-mop-deals-amazon-october-prime-day-2025) (2025-10-07)
-- [Microsoft delays Xbox Game Pass Ultimate price hikes for some subscribers](https://www.theverge.com/news/794032/microsoft-xbox-game-pass-ultimate-price-changes-countries) (2025-10-07)
-- [Tron: Ares is a soft reboot that’s running low on RAM](https://www.theverge.com/entertainment/794222/tron-ares-review) (2025-10-07)
-- [Boox’s next smartphone-sized e-reader has a color screen and a stylus](https://www.theverge.com/news/794751/onyx-boox-p6-pro-e-ink-reader-smartphone-color-palma) (2025-10-07)
+- [The electric screwdriver I use for DIY projects is 40 percent off right now](https://www.theverge.com/tech/792618/amazon-october-prime-day-hoto-electric-screwdriver-deal-tools-sale-2025) (2025-10-08)
+- [The 194 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1) (2025-10-07)
+- [The 25 best fall Prime Day deals on AirPods, iPads, and other Apple gear](https://www.theverge.com/tech/792289/amazon-october-prime-day-apple-deals-ipad-airpods-sale-2025) (2025-10-07)
+- [You can score up to $750 off robovacs from iRobot, Dreame, and Eufy right now](https://www.theverge.com/tech/793567/robot-vacuum-mop-deals-amazon-october-prime-day-2025) (2025-10-07)
+- [The best October Prime Day deals on TVs, soundbars, and more — up to 50% off](https://www.theverge.com/tech/788328/amazon-october-prime-day-4k-tv-soundbar-streaming-deal-sale-2025) (2025-10-07)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Dead celebrities are apparently fair game for Sora 2 video manipulation](https://arstechnica.com/ai/2025/10/dj-bruce-lee-and-jackass-mr-rogers-dead-celebrities-become-puppets-in-sora-2-videos/) (2025-10-07)
-- [Qualcomm buys Arduino, releases new Raspberry Pi-esque Arduino board](https://arstechnica.com/gadgets/2025/10/arduino-retains-its-brand-and-mission-following-acquisition-by-qualcomm/) (2025-10-07)
-- [Play Store changes coming this month as SCOTUS declines to freeze antitrust remedies](https://arstechnica.com/gadgets/2025/10/supreme-court-refuses-to-pause-play-store-changes-while-google-appeals-antitrust-case/) (2025-10-07)
-- [Newest developer beta backtracks on one iPadOS 26 multitasking decision](https://arstechnica.com/gadgets/2025/10/newest-developer-beta-backtracks-on-one-ipados-26-multitasking-decision/) (2025-10-07)
-- [It’s Prime Day 2025 part two, and here are the best deals we could find](https://arstechnica.com/shopping/2025/10/its-prime-day-2025-part-two-and-here-are-the-best-deals-we-could-find/) (2025-10-07)
+- [Tesla’s standard-range Model 3, Model Y join the lineup](https://arstechnica.com/cars/2025/10/teslas-new-cut-price-evs-a-39990-model-y-and-36990-model-3/) (2025-10-07)
+- [After RFK Jr.’s shenanigans, COVID shot access will be a lot like last year](https://arstechnica.com/health/2025/10/after-rfk-jr-s-shenanigans-covid-shot-access-will-be-a-lot-like-last-year/) (2025-10-07)
+- [2025 Nobel Prize in Physics awarded for macroscale quantum tunneling](https://arstechnica.com/science/2025/10/2025-nobel-prize-in-physics-awarded-for-macroscale-quantum-tunneling/) (2025-10-07)
+- [Ted Cruz doesn’t seem to understand Wikipedia, lawyer for Wikimedia says](https://arstechnica.com/tech-policy/2025/10/wikipedia-rebuts-ted-cruz-attack-says-cruz-just-doesnt-understand-the-site/) (2025-10-07)
+- [Microsoft removes even more Microsoft account workarounds from Windows 11 build](https://arstechnica.com/gadgets/2025/10/microsoft-removes-even-more-microsoft-account-workarounds-from-windows-11-build/) (2025-10-07)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Trump administration may cut funding for two major direct-air capture plants](https://www.technologyreview.com/2025/10/07/1125207/the-us-is-set-to-cancel-funding-for-two-major-direct-air-capture-plants/) (2025-10-07)
 - [AI toys are all the rage in China—and now they’re appearing on shelves in the US too](https://www.technologyreview.com/2025/10/07/1125191/ai-toys-in-china/) (2025-10-07)
 - [The Download: extracting lithium, and what we still don’t know about Sora](https://www.technologyreview.com/2025/10/07/1125075/the-download-extracting-lithium-and-what-we-still-dont-know-about-sora/) (2025-10-07)
 - [The three big unanswered questions about Sora](https://www.technologyreview.com/2025/10/07/1124998/the-three-big-unanswered-questions-about-sora/) (2025-10-07)
 - [This company is planning a lithium empire from the shores of the Great Salt Lake](https://www.technologyreview.com/2025/10/07/1125060/this-company-is-planning-a-lithium-empire-from-the-shores-of-the-great-salt-lake/) (2025-10-07)
-- [The Download: introducing the 10 climate tech companies to watch for 2025](https://www.technologyreview.com/2025/10/06/1124939/the-download-introducing-the-10-climate-tech-companies-to-watch-for-2025/) (2025-10-06)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [COLORS: Nono La Grinta | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-a-colors-show-26ih) (2025-10-07)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-3cfj) (2025-10-07)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Stitches (Live on KEXP)](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-stitches-live-on-kexp-36g3) (2025-10-07)
-- [Rick Beato: Hiromi: The Most Electrifying Pianist Alive](https://dev.to/music_youtube/rick-beato-hiromi-the-most-electrifying-pianist-alive-3bca) (2025-10-07)
-- [Academic-Scheduler.com: Revolutionary School Management System - Transform Your Institution Today!](https://dev.to/muhammad-huzaifa/academic-schedulercom-revolutionary-school-management-system-transform-your-institution-today-292c) (2025-10-07)
+- [How to Send and Track Transactional Emails in Your App with the MonkeysMail API](https://dev.to/yorchperaza/how-to-send-and-track-transactional-emails-in-your-app-with-the-monkeysmail-api-bnn) (2025-10-08)
+- [Microsoft Agent Framework: Combining Semantic Kernel + Autogen for Advanced AI Agents](https://dev.to/sreeni5018/microsoft-agent-framework-combining-semantic-kernel-autogen-for-advanced-ai-agents-2i4i) (2025-10-08)
+- [🚀 Hello DEV Community! I’m Thiyagarajan Varadharajan – Python Full Stack Developer | AI Enthusiast](https://dev.to/thiyagu26v/hello-dev-community-im-thiyagarajan-varadharajan-python-full-stack-developer-ai-enthusiast-eb7) (2025-10-08)
+- [Nvidia's AI Chips: A Geopolitical Dilemma](https://dev.to/yagyaraj_sharma_6cd410179/nvidias-ai-chips-a-geopolitical-dilemma-4nom) (2025-10-08)
+- [Pictera.co — Generate clean Open Graph images for your links](https://dev.to/hamza_chebbah_0fe9e67a52a/picteraco-generate-clean-open-graph-images-for-your-links-150f) (2025-10-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The MVCC Implementation That PostgreSQL Stole from Oracle](https://medium.com/@sohail_saifi/the-mvcc-implementation-that-postgresql-stole-from-oracle-4c26f3735f8f?source=rss------programming-5) (2025-10-07)
-- [Why Our App Used More RAM at Night Than During the Day](https://medium.com/@optimzationking2/why-our-app-used-more-ram-at-night-than-during-the-day-968adeae3416?source=rss------programming-5) (2025-10-07)
-- [ Supercharge Your Django APIs with ViewSets — Write Less, Do More](https://medium.com/@priyanshu011109/supercharge-your-django-apis-with-viewsets-write-less-do-more-fd366aec322a?source=rss------programming-5) (2025-10-07)
-- [Custom Theming in Jetpack Compose (with explanations + variants + code)](https://medium.com/android-alchemy/custom-theming-in-jetpack-compose-with-explanations-variants-code-ffb04b126b10?source=rss------programming-5) (2025-10-07)
-- [Webhooks That Don’t Page You at 3 AM: Idempotency + Backoff That Hold](https://medium.com/@maahisoft20/webhooks-that-dont-page-you-at-3-am-idempotency-backoff-that-hold-62d996bd774a?source=rss------programming-5) (2025-10-07)
+- [Building Enterprise-Ready AI Agents That Don’t Hallucinate in Production](https://medium.com/codrift/building-enterprise-ready-ai-agents-that-dont-hallucinate-in-production-ac7ce5478bb6?source=rss------programming-5) (2025-10-08)
+- [AI : Hugging Face Transformers](https://medium.com/@angadi.saa/ai-hugging-face-transformers-aa8c84b927f7?source=rss------programming-5) (2025-10-08)
+- [How Java’s Optional Eliminated Null Checks and Cleaned Up My Code](https://medium.com/@sunil17bbmp/how-javas-optional-eliminated-null-checks-and-cleaned-up-my-code-4b130c1796ea?source=rss------programming-5) (2025-10-08)
+- [Python Optimization Techniques — A Senior Developer’s Guide to Writing Faster, Leaner, and Smarter…](https://medium.com/pen-with-paper/python-optimization-techniques-a-senior-developers-guide-to-writing-faster-leaner-and-smarter-8662222e5741?source=rss------programming-5) (2025-10-08)
+- [09045080282شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@9skoalansjsnsns/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-b2e819a65abc?source=rss------programming-5) (2025-10-08)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Unleash your creativity at scale: Azure AI Foundry’s multimodal revolution](https://azure.microsoft.com/en-us/blog/unleash-your-creativity-at-scale-azure-ai-foundrys-multimodal-revolution/) (2025-10-06)
-- [Introducing Microsoft Agent Framework](https://azure.microsoft.com/en-us/blog/introducing-microsoft-agent-framework/) (2025-10-01)
-- [Grok 4 is now available in Azure AI Foundry: Unlock frontier intelligence and business-ready capabilities](https://azure.microsoft.com/en-us/blog/grok-4-is-now-available-in-azure-ai-foundry-unlock-frontier-intelligence-and-business-ready-capabilities/) (2025-09-29)
 - [Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.](https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/) (2025-09-25)
 - [Agent Factory: Designing the open agentic web stack](https://azure.microsoft.com/en-us/blog/agent-factory-designing-the-open-agentic-web-stack/) (2025-09-24)
+- [How Azure Cobalt 100 VMs are powering real-world solutions, delivering performance and efficiency results](https://azure.microsoft.com/en-us/blog/how-azure-cobalt-100-vms-are-powering-real-world-solutions-delivering-performance-and-efficiency-results/) (2025-09-23)
+- [Accelerate migration and modernization with agentic AI](https://azure.microsoft.com/en-us/blog/accelerate-migration-and-modernization-with-agentic-ai/) (2025-09-23)
+- [Inside the world’s most powerful AI datacenter](https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/) (2025-09-18)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Meet JetBrains at Azure Dev Summit 2025 (Lisbon, Oct 13–16)](https://blog.jetbrains.com/dotnet/2025/10/07/meet-jetbrains-at-azure-dev-summit-2025/) (2025-10-07)
 - [CLion Now Supports DAP Debuggers](https://blog.jetbrains.com/clion/2025/10/dap-debuggers/) (2025-10-07)
 - [CLion Nova Will Become the Default Engine for All Users in v2025.3 – Here’s What You Need to Know](https://blog.jetbrains.com/clion/2025/10/nova-default-for-all/) (2025-10-06)
 - [JetBrains × Zed: Open Interoperability for AI Coding Agents in Your IDE](https://blog.jetbrains.com/ai/2025/10/jetbrains-zed-open-interoperability-for-ai-coding-agents-in-your-ide/) (2025-10-06)
 - [9 ReSharper Features Every .NET Developer Should Know](https://blog.jetbrains.com/dotnet/2025/10/06/9-resharper-features-every-dotnet-developer-should-know/) (2025-10-06)
-- [The State of CI/CD in 2025: Key Insights from the Latest JetBrains Survey](https://blog.jetbrains.com/teamcity/2025/10/the-state-of-cicd/) (2025-10-06)
 
 </details>
 
@@ -367,6 +367,16 @@ Introducing Customer Intelligence for Advertisers
 https://www.twilio.com/en-us/blog/products/launches/customer-intelligence-for-advertisers
 ) (2025-10-06)
 - [
+Twilio Segment Unify: Expert Answers to Profiles, Journeys, and Secure Activation
+](
+https://www.twilio.com/en-us/blog/insights/best-practices/segment-unify-webinar-q-and-a
+) (2025-10-06)
+- [
+How to Build an AI Chatbot with Facebook Messenger, OpenAI, and Twilio Programmable Messaging using Python
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/how-to-build-an-ai-chatbot-with-facebook-messenger--openai--and-
+) (2025-10-06)
+- [
 Book Appointments With Laravel, Twilio and SendGrid
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/book-appointments-with-laravel-twilio-sendgrid
@@ -375,16 +385,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/book-appointments-with-la
 How to Validate Twilio Event Streams Webhooks in Go
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/how-to-validate-twilio-event-streams-webhooks-in-go
-) (2025-10-01)
-- [
-Gmail to Retire Domain & IP Reputation in Postmaster Tools
-](
-https://www.twilio.com/en-us/blog/insights/gmail-postmaster-tools-changes
-) (2025-10-01)
-- [
-Build a Secure Signup API in .NET that Filters Emails and Verifies with Twilio SendGrid
-](
-https://www.twilio.com/en-us/blog/developers/community/build-a-secure-signup-api-in-dot-net-filters-emails-verifies-twilio-sendgrid
 ) (2025-10-01)
 
 </details>
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/developers/community/build-a-secure-signup-api
 <details>
 <summary>💬 Slack API</summary>
 
-- [AI Assistants: Everything You Need to Know](https://slack.com/blog/transformation/ai-assistants-what-they-do-and-why-you-need-them) (2025-10-07)
 - [A Complete Guide to AI Summarization: Benefits, Use Cases, and Tools](https://slack.com/blog/productivity/ai-summarization-a-guide-to-conquering-information-overload) (2025-10-01)
 - [Document Workflows Like a Pro: Tips, Tools, and Real-World Examples](https://slack.com/blog/productivity/workflow-documentation-what-it-is-how-to-create-it-and-why-it-matters) (2025-10-01)
 - [Work Order Management: Essential Steps and Strategies](https://slack.com/blog/productivity/work-order-management-essential-steps-and-strategies) (2025-09-29)
 - [Enterprise Process Automation: the Key to Faster, Smarter Workflows](https://slack.com/blog/productivity/an-introductory-guide-to-enterprise-automation) (2025-09-29)
+- [RACI Model Explained: Definition, Benefits, and How to Use It](https://slack.com/blog/productivity/raci-model-explained-definition-benefits-and-how-to-use-it) (2025-09-26)
 
 </details>
 
