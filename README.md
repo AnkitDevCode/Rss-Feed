@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Sora’s first week on iOS in the US was nearly as big as ChatGPT’s](https://techcrunch.com/2025/10/08/soras-first-week-on-ios-in-the-us-was-nearly-as-big-as-chatgpts/) (2025-10-08)
+- [Even after Stargate, Oracle, Nvidia, and AMD, OpenAI has more big deals coming soon, Sam Altman says](https://techcrunch.com/2025/10/08/even-after-stargate-oracle-nvidia-and-amd-openai-has-more-big-deals-coming-soon-sam-altman-says/) (2025-10-08)
+- [Here’s what it’s really like to appear on billionaire VC Tim Draper’s ‘Meet the Drapers’ pitch show](https://techcrunch.com/2025/10/08/heres-what-its-really-like-to-appear-on-billionaire-vc-tim-drapers-meet-the-drapers-pitch-show/) (2025-10-08)
+- [OpenAI’s Nick Turley on transforming ChatGPT into an operating system](https://techcrunch.com/2025/10/08/openais-nick-turley-on-transforming-chatgpt-into-an-operating-system/) (2025-10-08)
+- [Sora’s downloads in its first week was nearly as big as ChatGPT’s launch](https://techcrunch.com/2025/10/08/soras-downloads-in-its-first-week-was-nearly-as-big-as-chatgpts-launch/) (2025-10-08)
 - [Elon Musk will settle $128M lawsuit with former Twitter execs](https://techcrunch.com/2025/10/08/elon-musk-will-settle-128m-lawsuit-with-former-twitter-execs/) (2025-10-08)
-- [Amazon Pharmacy is launching vending machines for prescription drugs](https://techcrunch.com/2025/10/08/amazon-pharmacy-is-launching-vending-machines-for-prescription-drugs/) (2025-10-08)
-- [Here’s the tech powering ICE’s deportation crackdown ](https://techcrunch.com/2025/10/08/heres-the-tech-powering-ices-deportation-crackdown/) (2025-10-08)
-- [Zendesk says its new AI agent can solve 80% of support issues](https://techcrunch.com/2025/10/08/zendesk-says-its-new-ai-agent-can-solve-80-of-support-issues/) (2025-10-08)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Doctorow: American tech cartels use apps to break the law](https://lithub.com/how-american-tech-cartels-use-apps-to-break-the-law/) (2025-10-08)
-- [Ortega Hypothesis](https://en.wikipedia.org/wiki/Ortega_hypothesis) (2025-10-08)
-- [Suspicionless ChatControl must be taboo in a state governed by the rule of law](https://digitalcourage.social/@echo_pbreyer/115337976340299372) (2025-10-08)
-- [A 9KB (3KB gzip) single HTML notebook, perfect for minimalists](https://chunqiuyiyu.github.io/xie/) (2025-10-08)
-- [A deep dive into the RSS feed reader landscape](https://lighthouseapp.io/blog/feed-reader-deep-dive) (2025-10-08)
+- [A Competitor Crippled a $23.5M Bootcamp by Becoming a Reddit Moderator](https://larslofgren.com/codesmith-reddit-reputation-attack/) (2025-10-08)
+- [Winter 2025/2026 weather outlook](https://www.severe-weather.eu/long-range-2/winter-2025-2026-outlook-colder-season-forecast-for-united-states-canada-europe-fa/) (2025-10-08)
+- [Show HN: HyprMCP – Open-Source Analytics, Logs and Auth Platform for MCP Servers](https://github.com/hyprmcp/jetski) (2025-10-08)
+- [Discord says 70k users may have had their government IDs leaked in breach](https://www.theverge.com/news/797051/discord-government-ids-leaked-data-breach) (2025-10-08)
+- [PWA Browser Scorecards](https://pwascore.com/) (2025-10-08)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The best October Prime Day deals at Walmart](https://www.theverge.com/tech/793052/best-walmart-anti-prime-day-deals-october-2025) (2025-10-08)
-- [We handpicked 30 last-minute Prime Day deals you can still grab for under $25](https://www.theverge.com/tech/793679/amazon-october-prime-day-best-cheap-tech-deals-under-25-2025) (2025-10-08)
-- [Switch 2 accessories that I recommend are cheaper than ever during October Prime Day](https://www.theverge.com/tech/789835/switch-2-accessories-that-i-recommend-are-cheaper-than-ever-during-october-prime-day) (2025-10-08)
-- [Trump’s vague and confusing immigration policies are the point](https://www.theverge.com/policy/794893/anti-american-activities-immigration-policy) (2025-10-08)
-- [These 63 October Prime Day deals under $50 are still available](https://www.theverge.com/tech/793435/amazon-october-prime-day-best-cheap-tech-deals-under-50-2025) (2025-10-08)
+- [These great October Prime Day deals on laptops won’t last much longer](https://www.theverge.com/tech/792893/amazon-october-prime-big-deal-day-laptops-gaming-apple) (2025-10-09)
+- [The 225 best last-minute Prime Day deals you can still grab](https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2) (2025-10-09)
+- [Switch 2 accessories that I recommend are cheaper than ever during October Prime Day](https://www.theverge.com/tech/789835/switch-2-accessories-that-i-recommend-are-cheaper-than-ever-during-october-prime-day) (2025-10-09)
+- [You still have time to save on Verge-favorite gadgets before Prime Day ends](https://www.theverge.com/tech/794507/amazon-october-prime-day-deals-verge-favorites-2025) (2025-10-08)
+- [I never lose my wallet with Nomad&#8217;s slim tracker, which is 20 percent off right now](https://www.theverge.com/tech/797044/amazon-october-prime-day-nomad-tracking-card-deal-sale-2025) (2025-10-08)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Google Pixel 10 Pro Fold review: The ultimate Google phone](https://arstechnica.com/gadgets/2025/10/google-pixel-10-pro-fold-review-the-ultimate-google-phone/) (2025-10-08)
-- [Synology caves, walks back some drive restrictions on upcoming NAS models](https://arstechnica.com/gadgets/2025/10/synology-caves-walks-back-some-drive-restrictions-on-upcoming-nas-models/) (2025-10-08)
-- [Vandals deface ads for AI necklaces that listen to all your conversations](https://arstechnica.com/tech-policy/2025/10/vandals-deface-ads-for-ai-necklaces-that-listen-to-all-your-conversations/) (2025-10-08)
-- [Building ordered polymers with metal](https://arstechnica.com/science/2025/10/building-ordered-polymers-with-metal/) (2025-10-08)
-- [Actually, we are going to tell you the odds of recovering New Glenn’s second launch](https://arstechnica.com/space/2025/10/the-second-new-glenn-rolls-to-the-launch-pad-and-they-expect-to-recover-this-one/) (2025-10-08)
+- [One NASA science mission saved from Trump’s cuts, but others still in limbo](https://arstechnica.com/space/2025/10/one-nasa-science-mission-saved-from-trumps-cuts-but-others-still-in-limbo/) (2025-10-08)
+- [Stoke Space gives us another reason to take it very seriously](https://arstechnica.com/space/2025/10/stoke-space-gives-us-another-reason-to-take-it-very-seriously/) (2025-10-08)
+- [Man gets drunk, wakes up with a medical mystery that nearly kills him](https://arstechnica.com/health/2025/10/man-gets-drunk-wakes-up-with-a-medical-mystery-that-nearly-kills-him/) (2025-10-08)
+- [Bank of England warns AI stock bubble rivals 2000 dotcom peak](https://arstechnica.com/ai/2025/10/bank-of-england-warns-ai-stock-bubble-rivals-2000-dotcom-peak/) (2025-10-08)
+- [ISPs created so many fees that FCC will kill requirement to list them all](https://arstechnica.com/tech-policy/2025/10/isps-created-so-many-fees-that-fcc-will-kill-requirement-to-list-them-all/) (2025-10-08)
 
 </details>
 
@@ -97,44 +97,44 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Your-Error-Handling-is-a-Mess-and-Its-Costing-You-💸](https://dev.to/member_40446303/your-error-handling-is-a-mess-and-its-costing-you--5hen) (2025-10-08)
-- [🔍 Understanding 6 Common Data Formats in Data Analytics (With Examples)](https://dev.to/shrutti_kannan_4d6b7159e2/understanding-6-common-data-formats-in-data-analytics-with-examples-4mh7) (2025-10-08)
-- [Hands-On with MongoDB: Performing CRUD Operations on a Student Collection 🎓](https://dev.to/vishnupriya_k_678c3b9ea11/hands-on-with-mongodb-performing-crud-operations-on-a-student-collection-3855) (2025-10-08)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-730) (2025-10-08)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4j4g) (2025-10-08)
+- [Track your TODO list from the Command Line: Taskwarrior](https://dev.to/kelpopko/track-your-todo-list-from-the-command-line-taskwarrior-2ngc) (2025-10-09)
+- [AI's Rapid Ascent: Breakthroughs, Market Dynamics, and Ethical Crossroads](https://dev.to/antony_brahin_f47b663f3a0/ais-rapid-ascent-breakthroughs-market-dynamics-and-ethical-crossroads-4a1g) (2025-10-09)
+- [Automate Your Google Workspace with Apps Script Triggers](https://dev.to/googleworkspace/automate-your-google-workspace-with-apps-script-triggers-5090) (2025-10-09)
+- [第 10 课：Freqtrade交易对选择与测试](https://dev.to/henry_lin_3ac6363747f45b4/di-10-ke-freqtradejiao-yi-dui-xuan-ze-yu-ce-shi-3198) (2025-10-09)
+- [第 9 课：Freqtrade时间范围测试](https://dev.to/henry_lin_3ac6363747f45b4/di-9-ke-freqtradeshi-jian-fan-wei-ce-shi-1l7e) (2025-10-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Counting White Spaces in a Line of Text with Java Strings](https://medium.com/@AlexanderObregon/counting-white-spaces-in-a-line-of-text-with-java-strings-094babd6f7c8?source=rss------programming-5) (2025-10-08)
-- [Why Every Developer Should Read Tech Books in 2025](https://medium.com/@dargslan/why-every-developer-should-read-tech-books-in-2025-1485f0e51d33?source=rss------programming-5) (2025-10-08)
-- [Accessibility First: How to Build Inclusive Websites](https://medium.com/@minaamahmad/accessibility-first-how-to-build-inclusive-websites-aef32fd61a1e?source=rss------programming-5) (2025-10-08)
-- [The Real Reason 90% of Startups Don’t Fail — They Just Fade Away](https://medium.com/@optimzationking2/the-real-reason-90-of-startups-dont-fail-they-just-fade-away-107ab1ea452e?source=rss------programming-5) (2025-10-08)
-- [I Let an AI Manage My Calendar for a Week. Here’s What Really Happened.](https://observabilityguy.medium.com/i-let-an-ai-manage-my-calendar-for-a-week-heres-what-really-happened-e57a70de0d0b?source=rss------programming-5) (2025-10-08)
+- [09021901293](https://medium.com/@shmarhkhalh019/09021901293-2dde8734eb6c?source=rss------programming-5) (2025-10-09)
+- [09021901293](https://medium.com/@shmarhkhalh019/09021901293-01c159279caa?source=rss------programming-5) (2025-10-09)
+- [09021901293](https://medium.com/@shmarhkhalh019/09021901293-33031040694d?source=rss------programming-5) (2025-10-09)
+- [09013027390شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@nh001726/09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-c577a8ec0e8a?source=rss------programming-5) (2025-10-09)
+- [09013027390شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@nh001726/09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-4465b1e8b11f?source=rss------programming-5) (2025-10-09)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [New general-purpose Amazon EC2 M8a instances are now available](https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8a-instances-are-now-available/) (2025-10-08)
 - [Introducing new compute-optimized Amazon EC2 C8i and C8i-flex instances](https://aws.amazon.com/blogs/aws/introducing-new-compute-optimized-amazon-ec2-c8i-and-c8i-flex-instances/) (2025-10-06)
 - [AWS IAM Identity Center now supports customer-managed KMS keys for encryption at rest](https://aws.amazon.com/blogs/aws/aws-iam-identity-center-now-supports-customer-managed-kms-keys-for-encryption-at-rest/) (2025-10-06)
 - [AWS Weekly Roundup:  Amazon Bedrock, AWS Outposts, Amazon ECS Managed Instances, AWS Builder ID, and more (October 6, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-aws-outposts-amazon-ecs-managed-instances-aws-builder-id-and-more-october-6-2025/) (2025-10-06)
 - [Announcing Amazon ECS Managed Instances for containerized applications](https://aws.amazon.com/blogs/aws/announcing-amazon-ecs-managed-instances-for-containerized-applications/) (2025-09-30)
-- [Announcing AWS Outposts third-party storage integration with Dell and HPE](https://aws.amazon.com/blogs/aws/announcing-aws-outposts-third-party-storage-integration-with-dell-and-hpe/) (2025-09-30)
 
 </details>
 
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Unleash your creativity at scale: Azure AI Foundry’s multimodal revolution](https://azure.microsoft.com/en-us/blog/unleash-your-creativity-at-scale-azure-ai-foundrys-multimodal-revolution/) (2025-10-06)
-- [Introducing Microsoft Agent Framework](https://azure.microsoft.com/en-us/blog/introducing-microsoft-agent-framework/) (2025-10-01)
 - [Grok 4 is now available in Azure AI Foundry: Unlock frontier intelligence and business-ready capabilities](https://azure.microsoft.com/en-us/blog/grok-4-is-now-available-in-azure-ai-foundry-unlock-frontier-intelligence-and-business-ready-capabilities/) (2025-09-29)
 - [Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.](https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/) (2025-09-25)
 - [Agent Factory: Designing the open agentic web stack](https://azure.microsoft.com/en-us/blog/agent-factory-designing-the-open-agentic-web-stack/) (2025-09-24)
+- [How Azure Cobalt 100 VMs are powering real-world solutions, delivering performance and efficiency results](https://azure.microsoft.com/en-us/blog/how-azure-cobalt-100-vms-are-powering-real-world-solutions-delivering-performance-and-efficiency-results/) (2025-09-23)
+- [Accelerate migration and modernization with agentic AI](https://azure.microsoft.com/en-us/blog/accelerate-migration-and-modernization-with-agentic-ai/) (2025-09-23)
 
 </details>
 
@@ -328,11 +328,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [Optimize GitLab object storage for scale and performance](https://about.gitlab.com/blog/optimize-gitlab-object-storage-for-scale-and-performance/) (2025-10-08)
 - [Streamline enterprise artifact management with GitLab](https://about.gitlab.com/blog/streamline-enterprise-artifact-management-with-gitlab/) (2025-10-08)
 - [Atlassian ending Data Center as GitLab maintains deployment choice](https://about.gitlab.com/blog/atlassian-ending-data-center-as-gitlab-maintains-deployment-choice/) (2025-10-07)
 - [How GitLab transforms embedded systems testing cycles](https://about.gitlab.com/blog/how-gitlab-transforms-embedded-systems-testing-cycles/) (2025-10-02)
 - [Greater AI choice in GitLab Duo: Claude Sonnet 4.5 arrives](https://about.gitlab.com/blog/greater-ai-choice-in-gitlab-duo-claude-sonnet-4-5-arrives/) (2025-09-29)
-- [Agentic AI guides and resources](https://about.gitlab.com/blog/agentic-ai-guides-and-resources/) (2025-09-26)
 
 </details>
 
@@ -362,6 +362,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+From Traffic Jams to Green Lights: Faster, Smarter Messaging with Twilio’s Traffic Optimization Engine
+](
+https://www.twilio.com/en-us/blog/products/traffic_optimization_engine
+) (2025-10-07)
+- [
+Use a TwiML Application to Connect your Voice AI Agent to a Twilio Conference
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/connect-twiml-app-twilio-conference
+) (2025-10-07)
+- [
 Introducing Customer Intelligence for Advertisers
 ](
 https://www.twilio.com/en-us/blog/products/launches/customer-intelligence-for-advertisers
@@ -376,27 +386,17 @@ How to Build an AI Chatbot with Facebook Messenger, OpenAI, and Twilio Programma
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/how-to-build-an-ai-chatbot-with-facebook-messenger--openai--and-
 ) (2025-10-06)
-- [
-Book Appointments With Laravel, Twilio and SendGrid
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/book-appointments-with-laravel-twilio-sendgrid
-) (2025-10-01)
-- [
-How to Validate Twilio Event Streams Webhooks in Go
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/how-to-validate-twilio-event-streams-webhooks-in-go
-) (2025-10-01)
 
 </details>
 
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Refresh Token Security: Detecting Hijacking and Misuse with Auth0](https://auth0.com/blog/refresh-token-security-detecting-hijacking-and-misuse-with-auth0/) (2025-10-08)
 - [Demystifying JOSE, the JWT Family: JWS, JWE, JWA, and JWK Explained](https://auth0.com/blog/demystifying-jose-jwt-family/) (2025-10-07)
 - [Identity That Helps You Sell: Introducing Auth0 for B2B Enhancements](https://auth0.com/blog/identity-that-helps-you-sell-introducing-auth0-for-b2b-enhancements/) (2025-10-02)
 - [Secure a .NET RAG System with Auth0 FGA](https://auth0.com/blog/secure-dotnet-rag-system-with-auth0-fga/) (2025-10-01)
 - [From Building to Scaling: How to Choose the Right Auth0 Plan](https://auth0.com/blog/from-building-to-scaling-how-to-choose-the-right-auth0-plan/) (2025-09-26)
-- [Announcing Auth0 for AI Agents: Powering the Future of AI, Securely](https://auth0.com/blog/announcing-auth0-for-ai-agents-powering-the-future-of-ai-securely/) (2025-09-25)
 
 </details>
 
