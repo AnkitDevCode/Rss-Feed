@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Novoloop’s upcycled plastic takes a step closer to production](https://techcrunch.com/2025/10/08/novoloops-upcycled-plastic-takes-a-step-closer-to-production/) (2025-10-09)
 - [Even after Stargate, Oracle, Nvidia, and AMD, OpenAI has more big deals coming soon, Sam Altman says](https://techcrunch.com/2025/10/08/even-after-stargate-oracle-nvidia-and-amd-openai-has-more-big-deals-coming-soon-sam-altman-says/) (2025-10-08)
 - [Here’s what it’s really like to appear on billionaire VC Tim Draper’s ‘Meet the Drapers’ pitch show](https://techcrunch.com/2025/10/08/heres-what-its-really-like-to-appear-on-billionaire-vc-tim-drapers-meet-the-drapers-pitch-show/) (2025-10-08)
 - [OpenAI’s Nick Turley on transforming ChatGPT into an operating system](https://techcrunch.com/2025/10/08/openais-nick-turley-on-transforming-chatgpt-into-an-operating-system/) (2025-10-08)
 - [Sora’s downloads in its first week was nearly as big as ChatGPT’s launch](https://techcrunch.com/2025/10/08/soras-downloads-in-its-first-week-was-nearly-as-big-as-chatgpts-launch/) (2025-10-08)
-- [Elon Musk will settle $128M lawsuit with former Twitter execs](https://techcrunch.com/2025/10/08/elon-musk-will-settle-128m-lawsuit-with-former-twitter-execs/) (2025-10-08)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [A Competitor Crippled a $23.5M Bootcamp by Becoming a Reddit Moderator](https://larslofgren.com/codesmith-reddit-reputation-attack/) (2025-10-08)
-- [Winter 2025/2026 weather outlook](https://www.severe-weather.eu/long-range-2/winter-2025-2026-outlook-colder-season-forecast-for-united-states-canada-europe-fa/) (2025-10-08)
-- [Show HN: HyprMCP – Open-Source Analytics, Logs and Auth Platform for MCP Servers](https://github.com/hyprmcp/jetski) (2025-10-08)
-- [Discord says 70k users may have had their government IDs leaked in breach](https://www.theverge.com/news/797051/discord-government-ids-leaked-data-breach) (2025-10-08)
-- [PWA Browser Scorecards](https://pwascore.com/) (2025-10-08)
+- [Two things LLM coding agents are still bad at](https://kix.dev/two-things-llm-coding-agents-are-still-bad-at/) (2025-10-09)
+- [California enacts law enabling people to universally opt out of data sharing](https://therecord.media/california-signs-law-opt-out-browsers) (2025-10-09)
+- [Designing a Low Latency 10G Ethernet Core (2023)](https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html) (2025-10-09)
+- [In-Party Love, Out-Party Hate, and Affective Polarization in Twelve Democracies](https://academic.oup.com/poq/article/89/2/459/8152104?login=false) (2025-10-09)
+- [A competitor crippled a $23.5M bootcamp by becoming a Reddit moderator](https://larslofgren.com/codesmith-reddit-reputation-attack/) (2025-10-08)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [October’s Prime Day event is almost over, but our favorite deals are still live](https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2) (2025-10-09)
+- [Sony&#8217;s noise-canceling WH-1000XM5 headphones are a Prime Day steal at $150 off](https://www.theverge.com/tech/797220/amazon-october-prime-day-sony-wh-1000xm5-headphones-deal-sale-2025) (2025-10-09)
+- [Prime Day ends soon, but these deals are still going at Walmart](https://www.theverge.com/tech/793052/best-walmart-anti-prime-day-deals-october-2025) (2025-10-09)
+- [Alienware’s incredible 27-inch 4K QD-OLED gaming monitor is $200 off](https://www.theverge.com/tech/796918/amazon-october-prime-day-alienware-aw2725q-oled-gaming-monitor-deal-sale) (2025-10-09)
 - [These great October Prime Day deals on laptops won’t last much longer](https://www.theverge.com/tech/792893/amazon-october-prime-big-deal-day-laptops-gaming-apple) (2025-10-09)
-- [The 225 best last-minute Prime Day deals you can still grab](https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2) (2025-10-09)
-- [Switch 2 accessories that I recommend are cheaper than ever during October Prime Day](https://www.theverge.com/tech/789835/switch-2-accessories-that-i-recommend-are-cheaper-than-ever-during-october-prime-day) (2025-10-09)
-- [You still have time to save on Verge-favorite gadgets before Prime Day ends](https://www.theverge.com/tech/794507/amazon-october-prime-day-deals-verge-favorites-2025) (2025-10-08)
-- [I never lose my wallet with Nomad&#8217;s slim tracker, which is 20 percent off right now](https://www.theverge.com/tech/797044/amazon-october-prime-day-nomad-tracking-card-deal-sale-2025) (2025-10-08)
 
 </details>
 
@@ -75,11 +75,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [GitHub Availability Report: September 2025](https://github.blog/news-insights/company-news/github-availability-report-september-2025/) (2025-10-09)
 - [Completing urgent fixes anywhere with GitHub Copilot coding agent and mobile](https://github.blog/developer-skills/github/completing-urgent-fixes-anywhere-with-github-copilot-coding-agent-and-mobile/) (2025-10-08)
 - [How GitHub Copilot enabled accessibility governance process improvements in record time](https://github.blog/ai-and-ml/github-copilot/how-we-automated-accessibility-compliance-in-five-hours-with-github-copilot/) (2025-10-07)
 - [How a top bug bounty researcher got their start in security](https://github.blog/security/how-a-top-bug-bounty-researcher-got-their-start-in-security/) (2025-10-07)
 - [The developer role is evolving. Here’s how to stay ahead.](https://github.blog/ai-and-ml/the-developer-role-is-evolving-heres-how-to-stay-ahead/) (2025-10-06)
-- [Spec-driven development: Using Markdown as a programming language when building with AI](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-using-markdown-as-a-programming-language-when-building-with-ai/) (2025-09-30)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Track your TODO list from the Command Line: Taskwarrior](https://dev.to/kelpopko/track-your-todo-list-from-the-command-line-taskwarrior-2ngc) (2025-10-09)
-- [AI's Rapid Ascent: Breakthroughs, Market Dynamics, and Ethical Crossroads](https://dev.to/antony_brahin_f47b663f3a0/ais-rapid-ascent-breakthroughs-market-dynamics-and-ethical-crossroads-4a1g) (2025-10-09)
-- [Automate Your Google Workspace with Apps Script Triggers](https://dev.to/googleworkspace/automate-your-google-workspace-with-apps-script-triggers-5090) (2025-10-09)
-- [第 10 课：Freqtrade交易对选择与测试](https://dev.to/henry_lin_3ac6363747f45b4/di-10-ke-freqtradejiao-yi-dui-xuan-ze-yu-ce-shi-3198) (2025-10-09)
-- [第 9 课：Freqtrade时间范围测试](https://dev.to/henry_lin_3ac6363747f45b4/di-9-ke-freqtradeshi-jian-fan-wei-ce-shi-1l7e) (2025-10-09)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-o8p) (2025-10-09)
+- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Blockage (Live on KEXP)](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-blockage-live-on-kexp-4im9) (2025-10-09)
+- [KEXP: Babe Rainbow - Sunday (Live on KEXP)](https://dev.to/music_youtube/kexp-babe-rainbow-sunday-live-on-kexp-1n29) (2025-10-09)
+- [KEXP: Babe Rainbow - Aquarium cowgirl (Live on KEXP)](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-d58) (2025-10-09)
+- [Python Selenium Architecture](https://dev.to/roshan_rumaiza/python-selenium-architecture-26h7) (2025-10-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09021901293](https://medium.com/@shmarhkhalh019/09021901293-2dde8734eb6c?source=rss------programming-5) (2025-10-09)
-- [09021901293](https://medium.com/@shmarhkhalh019/09021901293-01c159279caa?source=rss------programming-5) (2025-10-09)
-- [09021901293](https://medium.com/@shmarhkhalh019/09021901293-33031040694d?source=rss------programming-5) (2025-10-09)
-- [09013027390شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@nh001726/09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-c577a8ec0e8a?source=rss------programming-5) (2025-10-09)
-- [09013027390شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@nh001726/09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-4465b1e8b11f?source=rss------programming-5) (2025-10-09)
+- [ “10 Python Habits That Turn Good Coders Into Great Engineers”](https://medium.com/@priyanshu011109/10-python-habits-that-turn-good-coders-into-great-engineers-2bcd73ea840b?source=rss------programming-5) (2025-10-09)
+- [It happened Twice, Why I Stopped Using Terraform](https://luckynautiyal.medium.com/it-happened-twice-why-i-stopped-using-terraform-0dd155a78cda?source=rss------programming-5) (2025-10-09)
+- [Drop Static Utils: Extension Methods + DI Services](https://medium.com/c-sharp-programming/drop-static-utils-extension-methods-di-services-29006d6094d3?source=rss------programming-5) (2025-10-09)
+- [What are the top programming languages for data science?](https://medium.com/@sharetonschool/what-are-the-top-programming-languages-for-data-science-7569f3e713d3?source=rss------programming-5) (2025-10-09)
+- [How Australian Universities Are Solving Problems American Tech Ignores](https://medium.com/@sohail_saifii/how-australian-universities-are-solving-problems-american-tech-ignores-a3c775898ebe?source=rss------programming-5) (2025-10-09)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Grok 4 is now available in Azure AI Foundry: Unlock frontier intelligence and business-ready capabilities](https://azure.microsoft.com/en-us/blog/grok-4-is-now-available-in-azure-ai-foundry-unlock-frontier-intelligence-and-business-ready-capabilities/) (2025-09-29)
 - [Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.](https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/) (2025-09-25)
 - [Agent Factory: Designing the open agentic web stack](https://azure.microsoft.com/en-us/blog/agent-factory-designing-the-open-agentic-web-stack/) (2025-09-24)
 - [How Azure Cobalt 100 VMs are powering real-world solutions, delivering performance and efficiency results](https://azure.microsoft.com/en-us/blog/how-azure-cobalt-100-vms-are-powering-real-world-solutions-delivering-performance-and-efficiency-results/) (2025-09-23)
 - [Accelerate migration and modernization with agentic AI](https://azure.microsoft.com/en-us/blog/accelerate-migration-and-modernization-with-agentic-ai/) (2025-09-23)
+- [Inside the world’s most powerful AI datacenter](https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/) (2025-09-18)
 
 </details>
 
