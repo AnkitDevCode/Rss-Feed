@@ -20,66 +20,66 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Novoloop’s upcycled plastic takes a step closer to production](https://techcrunch.com/2025/10/08/novoloops-upcycled-plastic-takes-a-step-closer-to-production/) (2025-10-09)
-- [Even after Stargate, Oracle, Nvidia, and AMD, OpenAI has more big deals coming soon, Sam Altman says](https://techcrunch.com/2025/10/08/even-after-stargate-oracle-nvidia-and-amd-openai-has-more-big-deals-coming-soon-sam-altman-says/) (2025-10-08)
-- [Here’s what it’s really like to appear on billionaire VC Tim Draper’s ‘Meet the Drapers’ pitch show](https://techcrunch.com/2025/10/08/heres-what-its-really-like-to-appear-on-billionaire-vc-tim-drapers-meet-the-drapers-pitch-show/) (2025-10-08)
-- [OpenAI’s Nick Turley on transforming ChatGPT into an operating system](https://techcrunch.com/2025/10/08/openais-nick-turley-on-transforming-chatgpt-into-an-operating-system/) (2025-10-08)
-- [Sora’s downloads in its first week was nearly as big as ChatGPT’s launch](https://techcrunch.com/2025/10/08/soras-downloads-in-its-first-week-was-nearly-as-big-as-chatgpts-launch/) (2025-10-08)
+- [Tesla’s ‘Full Self-Driving’ software under investigation for traffic safety violations](https://techcrunch.com/2025/10/09/teslas-full-self-driving-software-under-investigation-for-traffic-safety-violations/) (2025-10-09)
+- [Google ramps up its ‘AI in the workplace’ ambitions with Gemini Enterprise](https://techcrunch.com/2025/10/09/google-ramps-up-its-ai-in-the-workplace-ambitions-with-gemini-enterprise/) (2025-10-09)
+- [DoorDash to use Serve Robotics’ sidewalk robots for deliveries in Los Angeles](https://techcrunch.com/2025/10/09/doordash-to-use-serve-robotics-sidewalk-robots-for-deliveries-in-los-angeles/) (2025-10-09)
+- [Battlefield alum DevAlly raises €2M to help companies with Europe’s feisty new accessibility law](https://techcrunch.com/2025/10/09/battlefield-alum-devally-raises-e2m-to-help-companies-with-europes-feisty-new-accessibility-law/) (2025-10-09)
+- [OpenAI’s affordable ChatGPT Go plan expands to 16 new countries in Asia](https://techcrunch.com/2025/10/09/openais-affordable-chatgpt-go-plan-expands-to-16-new-countries-in-asia/) (2025-10-09)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Two things LLM coding agents are still bad at](https://kix.dev/two-things-llm-coding-agents-are-still-bad-at/) (2025-10-09)
-- [California enacts law enabling people to universally opt out of data sharing](https://therecord.media/california-signs-law-opt-out-browsers) (2025-10-09)
-- [Designing a Low Latency 10G Ethernet Core (2023)](https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html) (2025-10-09)
-- [In-Party Love, Out-Party Hate, and Affective Polarization in Twelve Democracies](https://academic.oup.com/poq/article/89/2/459/8152104?login=false) (2025-10-09)
-- [A competitor crippled a $23.5M bootcamp by becoming a Reddit moderator](https://larslofgren.com/codesmith-reddit-reputation-attack/) (2025-10-08)
+- [Why Are So Many Pedestrians Killed by Cars in the US?](https://www.construction-physics.com/p/why-are-so-many-pedestrians-killed) (2025-10-09)
+- [Zippers: Making Functional "Updates" Efficient (2010)](http://www.goodmath.org/blog/2010/01/13/zippers-making-functional-updates-efficient/) (2025-10-09)
+- [The React Foundation](https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/) (2025-10-09)
+- [The Forecasting Company (YC S24) Is Hiring a Machine Learning Engineer](https://www.ycombinator.com/companies/the-forecasting-company/jobs/cXJzAhA-founding-machine-learning-engineer) (2025-10-09)
+- [The Unknotting Number Is Not Additive](https://divisbyzero.com/2025/10/08/the-unknotting-number-is-not-additive/) (2025-10-09)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [October’s Prime Day event is almost over, but our favorite deals are still live](https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2) (2025-10-09)
-- [Sony&#8217;s noise-canceling WH-1000XM5 headphones are a Prime Day steal at $150 off](https://www.theverge.com/tech/797220/amazon-october-prime-day-sony-wh-1000xm5-headphones-deal-sale-2025) (2025-10-09)
-- [Prime Day ends soon, but these deals are still going at Walmart](https://www.theverge.com/tech/793052/best-walmart-anti-prime-day-deals-october-2025) (2025-10-09)
-- [Alienware’s incredible 27-inch 4K QD-OLED gaming monitor is $200 off](https://www.theverge.com/tech/796918/amazon-october-prime-day-alienware-aw2725q-oled-gaming-monitor-deal-sale) (2025-10-09)
-- [These great October Prime Day deals on laptops won’t last much longer](https://www.theverge.com/tech/792893/amazon-october-prime-big-deal-day-laptops-gaming-apple) (2025-10-09)
+- [DC Comics won’t support generative AI: ‘not now, not ever’](https://www.theverge.com/news/797540/dc-comics-jim-lee-no-generative-ai-pledge) (2025-10-09)
+- [Google’s Pixel 10 Pro Fold is the thin-enough foldable](https://www.theverge.com/tech/796297/google-pixel-10-pro-fold-thickness-weight-design) (2025-10-09)
+- [OneDrive is getting a new Windows app and an AI photo agent](https://www.theverge.com/news/797444/microsoft-onedrive-new-windows-app-ai-copilot-features) (2025-10-09)
+- [The Meta Ray-Ban Display’s most interesting tech might be the glass](https://www.theverge.com/news/797442/ifixit-meta-ray-ban-display-smartglasses-teardown-glass) (2025-10-09)
+- [The Browser Company’s Dia is now available on Mac, no invite needed](https://www.theverge.com/news/797436/dia-browser-available-mac) (2025-10-09)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Everything we know about Ferrari’s first electric vehicle](https://arstechnica.com/cars/2025/10/everything-we-know-about-ferraris-first-electric-vehicle/) (2025-10-09)
 - [One NASA science mission saved from Trump’s cuts, but others still in limbo](https://arstechnica.com/space/2025/10/one-nasa-science-mission-saved-from-trumps-cuts-but-others-still-in-limbo/) (2025-10-08)
 - [Stoke Space gives us another reason to take it very seriously](https://arstechnica.com/space/2025/10/stoke-space-gives-us-another-reason-to-take-it-very-seriously/) (2025-10-08)
 - [Man gets drunk, wakes up with a medical mystery that nearly kills him](https://arstechnica.com/health/2025/10/man-gets-drunk-wakes-up-with-a-medical-mystery-that-nearly-kills-him/) (2025-10-08)
 - [Bank of England warns AI stock bubble rivals 2000 dotcom peak](https://arstechnica.com/ai/2025/10/bank-of-england-warns-ai-stock-bubble-rivals-2000-dotcom-peak/) (2025-10-08)
-- [ISPs created so many fees that FCC will kill requirement to list them all](https://arstechnica.com/tech-policy/2025/10/isps-created-so-many-fees-that-fcc-will-kill-requirement-to-list-them-all/) (2025-10-08)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [3 takeaways about climate tech right now](https://www.technologyreview.com/2025/10/09/1125302/3-takeaways-about-climate-tech-right-now/) (2025-10-09)
+- [How healthy am I? My immunome knows the score.  ](https://www.technologyreview.com/2025/10/09/1125376/how-healthy-am-i-my-immunome-knows-the-score/) (2025-10-09)
 - [The Download: carbon removal factories’ funding cuts, and AI toys](https://www.technologyreview.com/2025/10/08/1125301/the-download-carbon-removal-factories-funding-cuts-and-ai-toys/) (2025-10-08)
 - [The Trump administration may cut funding for two major direct-air-capture plants](https://www.technologyreview.com/2025/10/07/1125207/the-us-is-set-to-cancel-funding-for-two-major-direct-air-capture-plants/) (2025-10-07)
 - [AI toys are all the rage in China—and now they’re appearing on shelves in the US too](https://www.technologyreview.com/2025/10/07/1125191/ai-toys-in-china/) (2025-10-07)
-- [The Download: extracting lithium, and what we still don’t know about Sora](https://www.technologyreview.com/2025/10/07/1125075/the-download-extracting-lithium-and-what-we-still-dont-know-about-sora/) (2025-10-07)
-- [The three big unanswered questions about Sora](https://www.technologyreview.com/2025/10/07/1124998/the-three-big-unanswered-questions-about-sora/) (2025-10-07)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [20 Years of Git, 2 days at GitHub HQ: Git Merge 2025 highlights 🎉](https://github.blog/open-source/git/20-years-of-git-2-days-at-github-hq-git-merge-2025-highlights/) (2025-10-09)
 - [GitHub Availability Report: September 2025](https://github.blog/news-insights/company-news/github-availability-report-september-2025/) (2025-10-09)
 - [Completing urgent fixes anywhere with GitHub Copilot coding agent and mobile](https://github.blog/developer-skills/github/completing-urgent-fixes-anywhere-with-github-copilot-coding-agent-and-mobile/) (2025-10-08)
 - [How GitHub Copilot enabled accessibility governance process improvements in record time](https://github.blog/ai-and-ml/github-copilot/how-we-automated-accessibility-compliance-in-five-hours-with-github-copilot/) (2025-10-07)
 - [How a top bug bounty researcher got their start in security](https://github.blog/security/how-a-top-bug-bounty-researcher-got-their-start-in-security/) (2025-10-07)
-- [The developer role is evolving. Here’s how to stay ahead.](https://github.blog/ai-and-ml/the-developer-role-is-evolving-heres-how-to-stay-ahead/) (2025-10-06)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-o8p) (2025-10-09)
-- [KEXP: Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Blockage (Live on KEXP)](https://dev.to/music_youtube/kexp-pigs-pigs-pigs-pigs-pigs-pigs-pigs-blockage-live-on-kexp-4im9) (2025-10-09)
-- [KEXP: Babe Rainbow - Sunday (Live on KEXP)](https://dev.to/music_youtube/kexp-babe-rainbow-sunday-live-on-kexp-1n29) (2025-10-09)
-- [KEXP: Babe Rainbow - Aquarium cowgirl (Live on KEXP)](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-d58) (2025-10-09)
-- [Python Selenium Architecture](https://dev.to/roshan_rumaiza/python-selenium-architecture-26h7) (2025-10-09)
+- [Unlock Your Enterprise Data: A Java/Spring Guide to AI-Ready Schema.org & JSON-LD](https://dev.to/ashucommits/unlock-your-enterprise-data-a-javaspring-guide-to-ai-ready-schemaorg-json-ld-1d20) (2025-10-09)
+- [50 Most Useful HTML5 Snippets](https://dev.to/softwaredeveloper01/50-most-useful-html5-snippets-449) (2025-10-09)
+- [Pico Display Pack 2.8"](https://dev.to/djchadderton/pico-display-pack-28-2co7) (2025-10-09)
+- [Containers Made Simple: No more ‘It Works on My Machine’](https://dev.to/shaq_attack/containers-made-simple-no-more-it-works-on-my-machine-573o) (2025-10-09)
+- [https://www.npmjs.com/package/iso8583-lite](https://dev.to/khanyakwezwe_fdb40a4815d1/httpswwwnpmjscompackageiso8583-lite-458i) (2025-10-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ “10 Python Habits That Turn Good Coders Into Great Engineers”](https://medium.com/@priyanshu011109/10-python-habits-that-turn-good-coders-into-great-engineers-2bcd73ea840b?source=rss------programming-5) (2025-10-09)
-- [It happened Twice, Why I Stopped Using Terraform](https://luckynautiyal.medium.com/it-happened-twice-why-i-stopped-using-terraform-0dd155a78cda?source=rss------programming-5) (2025-10-09)
-- [Drop Static Utils: Extension Methods + DI Services](https://medium.com/c-sharp-programming/drop-static-utils-extension-methods-di-services-29006d6094d3?source=rss------programming-5) (2025-10-09)
-- [What are the top programming languages for data science?](https://medium.com/@sharetonschool/what-are-the-top-programming-languages-for-data-science-7569f3e713d3?source=rss------programming-5) (2025-10-09)
-- [How Australian Universities Are Solving Problems American Tech Ignores](https://medium.com/@sohail_saifii/how-australian-universities-are-solving-problems-american-tech-ignores-a3c775898ebe?source=rss------programming-5) (2025-10-09)
+- [How I Accidentally Built My First AI Tool Just to Avoid Writing Code](https://ai.plainenglish.io/how-i-accidentally-built-my-first-ai-tool-just-to-avoid-writing-code-edfd0a9f6eae?source=rss------programming-5) (2025-10-09)
+- [Title: I Stopped Using 8 “Popular” AI Tools — Here’s What I Learned the Hard Way](https://medium.com/@maryashoukataly/title-i-stopped-using-8-popular-ai-tools-heres-what-i-learned-the-hard-way-d46428805777?source=rss------programming-5) (2025-10-09)
+- [Threads Waiting in Line: Understanding BlockingQueue Through Connection Pooling in Java](https://medium.com/@BuildandDebug/threads-waiting-in-line-understanding-blockingqueue-through-connection-pooling-in-java-5a5ad255fa45?source=rss------programming-5) (2025-10-09)
+- [10 Laws of Efficient Programming Learning — What Science Says About Becoming a Better Coder](https://medium.com/@mohsen.kadoura/10-laws-of-efficient-programming-learning-what-science-says-about-becoming-a-better-coder-3956b0929573?source=rss------programming-5) (2025-10-09)
+- [Embracing AI: A Senior Developer’s Advantage](https://medium.com/@asorin/embracing-ai-a-senior-developers-advantage-000c06ccbfcb?source=rss------programming-5) (2025-10-09)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [TeamCity 2025.07.3 Is Here](https://blog.jetbrains.com/teamcity/2025/10/teamcity-2025-07-3-bug-fix/) (2025-10-09)
 - [Crafting Your KotlinConf Proposal: Expert Tips to  Help You Stand Out](https://blog.jetbrains.com/kotlin/2025/10/crafting-your-kotlinconf-proposal-expert-tips/) (2025-10-08)
 - [Calling All Non-Commercial JetBrains Rider Users: Tell Us Your Stories!](https://blog.jetbrains.com/dotnet/2025/10/08/calling-all-non-commercial-rider-users/) (2025-10-08)
 - [Meet JetBrains at Azure Dev Summit 2025 (Lisbon, Oct 13–16)](https://blog.jetbrains.com/dotnet/2025/10/07/meet-jetbrains-at-azure-dev-summit-2025/) (2025-10-07)
 - [CLion Now Supports DAP Debuggers](https://blog.jetbrains.com/clion/2025/10/dap-debuggers/) (2025-10-07)
-- [CLion Nova Will Become the Default Engine for All Users in v2025.3 – Here’s What You Need to Know](https://blog.jetbrains.com/clion/2025/10/nova-default-for-all/) (2025-10-06)
 
 </details>
 
@@ -546,11 +546,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/how-to-build
 <details>
 <summary>🤖 AI News</summary>
 
+- [Gemini Enterprise: Google aims to put an AI agent on every desk](https://www.artificialintelligence-news.com/news/gemini-enterprise-google-ai-agent-every-desk/) (2025-10-09)
+- [Can Cisco’s new AI data centre router tackle the industry’s biggest infrastructure bottleneck?](https://www.artificialintelligence-news.com/news/cisco-ai-data-centre-router-infrastructure-bottleneck/) (2025-10-09)
+- [AI value remains elusive despite soaring investment](https://www.artificialintelligence-news.com/news/ai-value-remains-elusive-despite-soaring-investment/) (2025-10-09)
 - [Samsung’s tiny AI model beats giant reasoning LLMs](https://www.artificialintelligence-news.com/news/samsung-tiny-ai-model-beats-giant-reasoning-llms/) (2025-10-08)
 - [Tuned Global strengthens its leadership in music technology with the acquisition of Figaro.ai](https://www.artificialintelligence-news.com/news/tuned-global-strengthens-its-leadership-in-music-technology-with-the-acquisition-of-figaro-ai/) (2025-10-08)
-- [AI Redaction That Puts Privacy First: CaseGuard Studio Leading The Way](https://www.artificialintelligence-news.com/news/ai-redaction-that-puts-privacy-first-caseguard-studio-leading-the-way/) (2025-10-08)
-- [How AI is changing the way we travel](https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-way-we-travel/) (2025-10-07)
-- [5 best AI observability tools in 2025](https://www.artificialintelligence-news.com/news/5-best-ai-observability-tools-in-2025/) (2025-10-06)
 
 </details>
 
@@ -568,33 +568,33 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/how-to-build
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
-- [Gemini 2.5 Computer Use: Google’s FREE Browser Use AI Agent! ](https://www.analyticsvidhya.com/blog/2025/10/gemini-2-5-computer-use/) (2025-10-08)
+- [How to Use NotebookLM and Gems in Google Classroom? A Teacher’s Guide](https://www.analyticsvidhya.com/blog/2025/10/notebooklm-and-gems-in-google-classroom/) (2025-10-09)
+- [Create Your Personalised Diwali Greeting Card using Nano Banana: Here is How](https://www.analyticsvidhya.com/blog/2025/10/personalised-diwali-greeting-card-using-nano-banana/) (2025-10-09)
+- [Gemini Computer Use: Google’s FREE Browser Use AI Agent! ](https://www.analyticsvidhya.com/blog/2025/10/gemini-2-5-computer-use/) (2025-10-08)
 - [Top 10 AI Tools That Make a Developer’s Life Easier ](https://www.analyticsvidhya.com/blog/2025/10/ai-tools-for-developers/) (2025-10-08)
 - [OpenAI’s AgentKit and Agent Builder: Is it End of n8n?](https://www.analyticsvidhya.com/blog/2025/10/openai-agent-builder/) (2025-10-07)
-- [Convert Images to Videos with the Grok App! [Takes only 10 Seconds]](https://www.analyticsvidhya.com/blog/2025/10/grok-imagine-image-to-video/) (2025-10-07)
-- [Job Search On? First Make the Perfect LinkedIn Profile Pic With These Nano Banana Prompts](https://www.analyticsvidhya.com/blog/2025/10/nano-banana-linkedin/) (2025-10-07)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Prompt Engineering Templates That Work: 7 Copy-Paste Recipes for LLMs](https://www.kdnuggets.com/prompt-engineering-templates-that-work-7-copy-paste-recipes-for-llms) (2025-10-09)
 - [A Complete Guide to Seaborn](https://www.kdnuggets.com/a-complete-guide-to-seaborn) (2025-10-08)
 - [10 Command-Line Tools Every Data Scientist Should Know](https://www.kdnuggets.com/10-command-line-tools-every-data-scientist-should-know) (2025-10-08)
 - [How I Actually Use Statistics as a Data Scientist](https://www.kdnuggets.com/how-i-actually-use-statistics-as-a-data-scientist) (2025-10-07)
 - [The Lazy Data Scientist’s Guide to Exploratory Data Analysis](https://www.kdnuggets.com/the-lazy-data-scientists-guide-to-exploratory-data-analysis) (2025-10-07)
-- [5 Signs Your Business Is a Prime Target for Cyberattacks](https://www.kdnuggets.com/5-signs-your-business-is-a-prime-target-for-cyberattacks) (2025-10-07)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Build an Inference Cache to Save Costs in High-Traffic LLM Apps](https://machinelearningmastery.com/build-an-inference-cache-to-save-costs-in-high-traffic-llm-apps/) (2025-10-09)
 - [7 NumPy Tricks to Vectorize Your Code](https://machinelearningmastery.com/7-numpy-tricks-to-vectorize-your-code/) (2025-10-08)
 - [Is ChatGPT-5 Able to Provide Proofs for Advanced Mathematics?](https://machinelearningmastery.com/is-chatgpt-5-able-to-provide-proofs-for-advanced-mathematics/) (2025-10-07)
 - [A Decision Matrix for Time Series Forecasting Models](https://machinelearningmastery.com/a-decision-matrix-for-time-series-forecasting-models/) (2025-10-06)
 - [Algorithm Showdown: Logistic Regression vs. Random Forest vs. XGBoost on Imbalanced Data](https://machinelearningmastery.com/algorithm-showdown-logistic-regression-vs-random-forest-vs-xgboost-on-imbalanced-data/) (2025-10-03)
-- [MinMax vs Standard vs Robust Scaler: Which One Wins for Skewed Data?](https://machinelearningmastery.com/minmax-vs-standard-vs-robust-scaler-which-one-wins-for-skewed-data/) (2025-10-01)
 
 </details>
 
