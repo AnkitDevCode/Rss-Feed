@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Shutdown silver lining? Your IPO review comes after investors buy in](https://techcrunch.com/2025/10/09/shutdown-silver-lining-your-ipo-review-comes-after-investors-buy-in/) (2025-10-10)
-- [Flipkart’s Super.money quietly partners with troubled Juspay as it expands its reach](https://techcrunch.com/2025/10/09/flipkarts-super-money-quietly-partners-with-with-troubled-juspay-as-it-expands-its-reach/) (2025-10-10)
-- [While OpenAI races to build AI data centers, Nadella reminds us that Microsoft already has them](https://techcrunch.com/2025/10/09/while-openai-races-to-build-ai-data-centers-nadella-reminds-us-that-microsoft-already-has-them/) (2025-10-09)
-- [Andreessen Horowitz denies report of India office, calls it ‘fake news’](https://techcrunch.com/2025/10/09/andreessen-horowitz-denies-report-of-india-office-calls-it-fake-news/) (2025-10-09)
-- [Reflection AI raises $2B to be America’s open frontier AI lab, challenging DeepSeek](https://techcrunch.com/2025/10/09/reflection-raises-2b-to-be-americas-open-frontier-ai-lab-challenging-deepseek/) (2025-10-09)
+- [The billion-dollar infrastructure deals powering the AI boom](https://techcrunch.com/2025/10/10/the-billion-dollar-infrastructure-deals-powering-the-ai-boom/) (2025-10-10)
+- [Prezent raises $30 million to acquire AI services firms — starting with founder’s other company](https://techcrunch.com/2025/10/10/prezent-raises-30-million-to-acquire-ai-services-firms-starting-with-founders-other-company/) (2025-10-10)
+- [Best iPad apps for unleashing and exploring your creativity](https://techcrunch.com/2025/10/10/best-ipad-apps-for-unleashing-and-exploring-your-creativity/) (2025-10-10)
+- [Homeland Security reassigns ‘hundreds’ of CISA cyber staffers to support Trump’s deportation crackdown](https://techcrunch.com/2025/10/10/homeland-security-reassigns-hundreds-of-cisa-cyber-staffers-to-support-trumps-deportation-crackdown/) (2025-10-10)
+- [iPhone 17 Pro Max review: Orange you glad the battery is bigger](https://techcrunch.com/2025/10/10/iphone-17-pro-max-review-orange-you-glad-the-battery-is-bigger/) (2025-10-10)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Weave (YC W25) is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer) (2025-10-10)
-- [AI is an attack from above on wages": cognitive scientist Hagen Blix](https://www.bloodinthemachine.com/p/ai-is-an-attack-from-above-on-wages) (2025-10-10)
-- [Digital euro could drain up to 700B euros of deposits in bank run, ECB says](https://www.reuters.com/business/finance/digital-euro-could-drain-up-700-billion-euros-deposits-bank-run-ecb-says-2025-10-10/) (2025-10-10)
-- [Vite+ – The Unified Toolchain for the Web](https://viteplus.dev/) (2025-10-10)
-- [Parallelizing Cellular Automata with WebGPU Compute Shaders](https://vectrx.substack.com/p/webgpu-cellular-automata) (2025-10-10)
+- [2025.41: It's OpenAI's World, We're Just Living in It](https://stratechery.com/2025/its-openais-world-were-just-living-in-it/) (2025-10-10)
+- [Regarding the Compact](https://president.mit.edu/writing-speeches/regarding-compact) (2025-10-10)
+- [Boring Company cited for almost 800 environmental violations in Las Vegas](https://www.propublica.org/article/elon-musk-boring-company-violations-fines-vegas-loop) (2025-10-10)
+- ["Vibe code hell" has replaced "tutorial hell" in coding education](https://blog.boot.dev/education/vibe-code-hell/) (2025-10-10)
+- [Show HN: Gitcasso – Syntax Highlighting and Draft Recovery for GitHub Comments](https://github.com/diffplug/gitcasso) (2025-10-10)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Copilot on Windows can now create Office documents and connect to Gmail](https://www.theverge.com/news/798098/microsoft-copilot-windows-create-documents-outlook-gmail-connection) (2025-10-10)
-- [The Minecraft movie is getting a sequel](https://www.theverge.com/news/798064/a-minecraft-movie-sequel-2-release-date-2027) (2025-10-09)
-- [Ferrari exposes the guts of its upcoming 1000hp EV](https://www.theverge.com/news/797746/ferrari-ev-motor-range-power-shifting) (2025-10-09)
-- [The Vision Pro is getting its first live ‘immersive’ sports](https://www.theverge.com/news/797970/apple-vision-pro-immersive-nba-lakers-games) (2025-10-09)
-- [Amazon’s giant ads have ruined the Echo Show](https://www.theverge.com/report/797672/amazon-echo-show-ads-alexa-plus) (2025-10-09)
+- [You can still snag LG’s C4 OLED TV at half the price ](https://www.theverge.com/tech/798322/lg-c4-c5-oled-tv-deal-sale) (2025-10-10)
+- [Chrome will automatically disable web notifications you don’t care about](https://www.theverge.com/news/798122/google-chrome-website-notifications-disable-feature) (2025-10-10)
+- [Boox’s new smartphone-sized e-readers come with a steep price hike](https://www.theverge.com/news/798298/onyx-boox-p6-pro-color-e-ink-color-kaleido-3-5g-sim-card) (2025-10-10)
+- [Samsung SmartThings finally adds support for joining existing Thread networks](https://www.theverge.com/news/798263/samsung-smartthings-thread-border-routers-apple-google-amazon-matter) (2025-10-10)
+- [Apple&#8217;s executive reshuffling isn&#8217;t over](https://www.theverge.com/news/798258/apple-executive-reshuffling-eddy-cue-johnny-srouji) (2025-10-10)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [“Like putting on glasses for the first time”—how AI improves earthquake detection](https://arstechnica.com/science/2025/10/like-putting-on-glasses-for-the-first-time-how-ai-improves-earthquake-detection/) (2025-10-10)
-- [Childhood vaccines safe for a little longer as CDC cancels advisory meeting](https://arstechnica.com/health/2025/10/childhood-vaccines-safe-for-a-little-longer-as-cdc-cancels-advisory-meeting/) (2025-10-09)
-- [AI models can acquire backdoors from surprisingly few malicious documents](https://arstechnica.com/ai/2025/10/ai-models-can-acquire-backdoors-from-surprisingly-few-malicious-documents/) (2025-10-09)
-- [A Knight of the Seven Kingdoms teaser debuts at NYCC](https://arstechnica.com/culture/2025/10/a-knight-of-the-seven-kingdoms-teaser-debuts-at-nycc/) (2025-10-09)
-- [It’s time for game developers to bring back the cheat code](https://arstechnica.com/gaming/2025/10/why-the-humble-video-game-cheat-code-is-overdue-for-a-comeback/) (2025-10-09)
+- [Termite farmers fine-tune their weed control](https://arstechnica.com/science/2025/10/termite-farmers-fine-tune-their-weed-control/) (2025-10-10)
+- [UK regulators plan to force Google changes under new competition law](https://arstechnica.com/google/2025/10/uk-antitrust-regulator-takes-aim-at-googles-search-dominance/) (2025-10-10)
+- [AMD and Sony’s PS6 chipset aims to rethink the current graphics pipeline](https://arstechnica.com/gaming/2025/10/amd-and-sony-tease-new-chip-architecture-ahead-of-playstation-6/) (2025-10-10)
+- [OpenAI will stop saving most ChatGPT users’ deleted chats](https://arstechnica.com/tech-policy/2025/10/openai-no-longer-forced-to-save-deleted-chats-but-some-users-still-affected/) (2025-10-10)
+- [Boring Company cited for almost 800 environmental violations in Las Vegas](https://arstechnica.com/tech-policy/2025/10/boring-company-cited-for-almost-800-environmental-violations-in-las-vegas/) (2025-10-10)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Building connected data ecosystems for AI at scale](https://www.technologyreview.com/2025/10/10/1124313/building-connected-data-ecosystems-for-ai-at-scale/) (2025-10-10)
 - [The Download: our bodies’ memories, and Traton’s electric trucks](https://www.technologyreview.com/2025/10/10/1125586/the-download-our-bodies-memories-and-tratons-electric-trucks/) (2025-10-10)
 - [How do our bodies remember?](https://www.technologyreview.com/2025/10/10/1124963/muscles-remember-explained/) (2025-10-10)
 - [This test could reveal the health of your immune system](https://www.technologyreview.com/2025/10/10/1125559/test-health-immune-system/) (2025-10-10)
 - [The Download: mysteries of the immunome, and how to choose a climate tech pioneer](https://www.technologyreview.com/2025/10/09/1125517/the-download-mysteries-of-the-immunome-and-how-to-choose-a-climate-tech-pioneer/) (2025-10-09)
-- [3 takeaways about climate tech right now](https://www.technologyreview.com/2025/10/09/1125302/3-takeaways-about-climate-tech-right-now/) (2025-10-09)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Enabling Faster Development Feedback with LocalStack: Lessons from the Software Development Lifecycle](https://dev.to/kiwimike/enabling-faster-development-feedback-with-localstack-lessons-from-the-software-development-m2l) (2025-10-10)
-- [Excited to Contribute](https://dev.to/hankvscode2024/excited-to-contribute-4626) (2025-10-10)
-- [Builders' Challenge v3](https://dev.to/nosana/builders-challenge-v3-2979) (2025-10-10)
-- [Apache ZooKeeper: The Unsung Hero of Distributed Systems](https://dev.to/zhangwei42/apache-zookeeper-the-unsung-hero-of-distributed-systems-4h1g) (2025-10-10)
-- [SQL is King, But is it Your Only Ruler? A Developer's Guide to NoSQL](https://dev.to/kallileiser/sql-is-king-but-is-it-your-only-ruler-a-developers-guide-to-nosql-22la) (2025-10-10)
+- [Understanding DAX Functions in Power BI](https://dev.to/beatrice_njagi/understanding-dax-functions-in-power-bi-59bm) (2025-10-10)
+- [Recommended Approaches for Loading Many Large Images on the Web](https://dev.to/rijultp/recommended-approaches-for-loading-many-large-images-on-the-web-5997) (2025-10-10)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-co9) (2025-10-10)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-11he) (2025-10-10)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid (Live on KEXP)](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-2039) (2025-10-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ Stop Waiting to Be “Perfect” Before Applying for Internships — Start Now!](https://javascript.plainenglish.io/stop-waiting-to-be-perfect-before-applying-for-internships-start-now-f15556ec38bb?source=rss------programming-5) (2025-10-10)
-- [ DevOps vs SRE vs Cloud Engineer vs Platform Engineer: What’s the Real Difference?](https://javascript.plainenglish.io/devops-vs-sre-vs-cloud-engineer-vs-platform-engineer-whats-the-real-difference-d17f8d3bbf3f?source=rss------programming-5) (2025-10-10)
-- [Understanding JavaScript Type Coercion: Why [] == 0 Is True](https://mehulmorker.medium.com/understanding-javascript-type-coercion-why-0-is-true-f992a5a64b90?source=rss------programming-5) (2025-10-10)
-- [ The Ultimate Python Developer Stack 2025 — From Web Apps to AI & DevOps](https://javascript.plainenglish.io/the-ultimate-python-developer-stack-2025-from-web-apps-to-ai-devops-a2433e802341?source=rss------programming-5) (2025-10-10)
-- [ From Basic Prompt to Full-Stack Timer: I Built ‘ChronoShift’ Using Google’s AI Studio](https://medium.com/@gaurawsingh/from-basic-prompt-to-full-stack-timer-i-built-chronoshift-using-google-s-ai-studio-9c4a94fa30ca?source=rss------programming-5) (2025-10-10)
+- [Supercharge Your Flutter API Integration: A Complete Guide to Retrofit](https://medium.com/@dayakumar06588/supercharge-your-flutter-api-integration-a-complete-guide-to-retrofit-5cb25efb104a?source=rss------programming-5) (2025-10-10)
+- [Setting Up Your Local JavaScript Development Environment](https://medium.com/@pawan_joshi/setting-up-your-local-javascript-development-environment-4769b2a778b9?source=rss------programming-5) (2025-10-10)
+- [Why setTimeout(fn, 0) Doesn’t Run Immediately in JavaScript](https://medium.com/front-end-world/why-settimeout-fn-0-doesnt-run-immediately-in-javascript-8d90583ef9d9?source=rss------programming-5) (2025-10-10)
+- [I Rewrote Our Core Spring Boot App In Java 21: What Virtual Threads Really Did For Our Latency](https://medium.com/@toyezyadav/i-rewrote-our-core-spring-boot-app-in-java-21-what-virtual-threads-really-did-for-our-latency-812c2e433f99?source=rss------programming-5) (2025-10-10)
+- [How I Built a Full AI Business in One Afternoon (Without Coding or Products)](https://medium.com/@digitalhustleee/how-i-built-a-full-ai-business-in-one-afternoon-without-coding-or-products-853c89862918?source=rss------programming-5) (2025-10-10)
 
 </details>
 
@@ -163,11 +163,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Jetpack WindowManager 1.5 is stable](https://android-developers.googleblog.com/2025/10/jetpack-windowmanager-15-is-stable.html) (2025-10-10)
 - [Android Studio Narwhal 4 Feature Drop: watch face support and improved stability](https://android-developers.googleblog.com/2025/09/android-studio-narwhal-4-feature-drop.html) (2025-10-09)
 - [#WeArePlay: Meet the people building apps and games that are making finance simple for everyone, everywhere.](https://android-developers.googleblog.com/2025/10/weareplay-meet-people-building-apps-and.html) (2025-10-09)
 - [ #WeArePlay:  Meet the founders of Geocaching, the digital treasure hunt game with 3.4 million caches ](https://android-developers.googleblog.com/2025/10/weareplay-meet-founders-of-geocaching.html) (2025-10-07)
 - [Optimize your app battery using Android vitals wake lock metric](https://android-developers.googleblog.com/2025/09/guide-to-excessive-wake-lock-usage.html) (2025-10-02)
-- [Let's talk security: Answering your top questions about Android developer verification](https://android-developers.googleblog.com/2025/09/lets-talk-security-answering-your-top.html) (2025-09-30)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [How to Add MCP Servers to Claude Code with Docker MCP Toolkit](https://www.docker.com/blog/add-mcp-servers-to-claude-code-with-mcp-toolkit/) (2025-10-10)
 - [LoRA Explained: Faster, More Efficient Fine-Tuning with Docker](https://www.docker.com/blog/lora-explained/) (2025-10-09)
 - [From the Captain’s Chair: Pradumna Saraf](https://www.docker.com/blog/from-the-captains-chair-pradumna-saraf/) (2025-10-08)
 - [Unlocking Local AI on Any GPU: Docker Model Runner Now with Vulkan Support](https://www.docker.com/blog/docker-model-runner-vulkan-gpu-support/) (2025-10-08)
 - [Powered by Docker: How Open Source Genius Cut Entropy Debt with Docker MCP Toolkit and Claude Desktop](https://www.docker.com/blog/open-source-genius-cut-entropy-debt-docker-mcp-claude/) (2025-10-07)
-- [IBM Granite 4.0 Models Now Available on Docker Hub](https://www.docker.com/blog/ibm-granite-4-0-models-now-available-on-docker-hub/) (2025-10-06)
 
 </details>
 
@@ -328,11 +328,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [How we built a structured Streamlit Application Framework in Snowflake](https://about.gitlab.com/blog/how-we-built-a-structured-streamlit-application-framework-in-snowflake/) (2025-10-10)
 - [Optimize GitLab object storage for scale and performance](https://about.gitlab.com/blog/optimize-gitlab-object-storage-for-scale-and-performance/) (2025-10-08)
 - [Streamline enterprise artifact management with GitLab](https://about.gitlab.com/blog/streamline-enterprise-artifact-management-with-gitlab/) (2025-10-08)
 - [Atlassian ending Data Center as GitLab maintains deployment choice](https://about.gitlab.com/blog/atlassian-ending-data-center-as-gitlab-maintains-deployment-choice/) (2025-10-07)
 - [How GitLab transforms embedded systems testing cycles](https://about.gitlab.com/blog/how-gitlab-transforms-embedded-systems-testing-cycles/) (2025-10-02)
-- [Greater AI choice in GitLab Duo: Claude Sonnet 4.5 arrives](https://about.gitlab.com/blog/greater-ai-choice-in-gitlab-duo-claude-sonnet-4-5-arrives/) (2025-09-29)
 
 </details>
 
@@ -392,11 +392,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/segment-unify-webinar-
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Is Your Business Ready for AI Agents? The Ultimate AI Security Checklist for Customer Identity](https://auth0.com/blog/is-your-business-ready-for-ai-agents-the-ultimate-ai-security-checklist-for-customer-identity/) (2025-10-10)
 - [Auth0 Token Vault: Secure Token Exchange for AI Agents](https://auth0.com/blog/auth0-token-vault-secure-token-exchange-for-ai-agents/) (2025-10-09)
 - [Refresh Token Security: Detecting Hijacking and Misuse with Auth0](https://auth0.com/blog/refresh-token-security-detecting-hijacking-and-misuse-with-auth0/) (2025-10-08)
 - [Demystifying JOSE, the JWT Family: JWS, JWE, JWA, and JWK Explained](https://auth0.com/blog/demystifying-jose-jwt-family/) (2025-10-07)
 - [Identity That Helps You Sell: Introducing Auth0 for B2B Enhancements](https://auth0.com/blog/identity-that-helps-you-sell-introducing-auth0-for-b2b-enhancements/) (2025-10-02)
-- [Secure a .NET RAG System with Auth0 FGA](https://auth0.com/blog/secure-dotnet-rag-system-with-auth0-fga/) (2025-10-01)
 
 </details>
 
@@ -557,33 +557,33 @@ https://www.twilio.com/en-us/blog/insights/best-practices/segment-unify-webinar-
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [10 Data + AI Observations for Fall 2025](https://towardsdatascience.com/10-data-ai-observations-to-watch-in-fall-2025/) (2025-10-10)
+- [Dreaming in Blocks — MineWorld, the Minecraft World Model](https://towardsdatascience.com/dreaming-in-blocks-mineworld-the-minecraft-world-model/) (2025-10-10)
 - [Past is Prologue: How Conversational Analytics Is Changing Data Work](https://towardsdatascience.com/past-is-prologue-how-conversational-analytics-is-changing-data-work/) (2025-10-09)
 - [How the Rise of Tabular Foundation Models Is Reshaping Data Science](https://towardsdatascience.com/tabular-foundation-models/) (2025-10-09)
 - [Know Your Real Birthday: Astronomical Computation and Geospatial-Temporal Analytics in Python](https://towardsdatascience.com/know-your-real-birthday-astronomical-computation-and-geospatial-temporal-analytics-in-python/) (2025-10-08)
-- [Data Visualization Explained (Part 3): The Role of Color](https://towardsdatascience.com/data-visualization-explained-part-3-the-role-of-color/) (2025-10-08)
-- [This Puzzle Shows Just How Far LLMs Have Progressed in a Little Over a Year](https://towardsdatascience.com/this-puzzle-shows-just-how-far-llms-have-progressed-in-little-over-a-year/) (2025-10-07)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [The Data Science Behind Zepto’s 10-Minute Delivery Success](https://www.analyticsvidhya.com/blog/2025/10/zepto-data-science/) (2025-10-10)
+- [You Can’t Miss These 15 FREE Courses on AI Agents](https://www.analyticsvidhya.com/blog/2025/10/free-ai-agent-courses/) (2025-10-10)
 - [Better Than ChatGPT and Claude? GLM 4.6 Might Surprise You](https://www.analyticsvidhya.com/blog/2025/10/glm-4-6/) (2025-10-09)
 - [How to Use NotebookLM and Gems in Google Classroom? A Teacher’s Guide](https://www.analyticsvidhya.com/blog/2025/10/notebooklm-and-gems-in-google-classroom/) (2025-10-09)
 - [Create Your Personalised Diwali Greeting Card using Nano Banana: Here is How](https://www.analyticsvidhya.com/blog/2025/10/personalised-diwali-greeting-card-using-nano-banana/) (2025-10-09)
-- [Gemini Computer Use: Google’s FREE Browser Use AI Agent! ](https://www.analyticsvidhya.com/blog/2025/10/gemini-2-5-computer-use/) (2025-10-08)
-- [Top 10 AI Tools That Make a Developer’s Life Easier ](https://www.analyticsvidhya.com/blog/2025/10/ai-tools-for-developers/) (2025-10-08)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [We Benchmarked DuckDB, SQLite, and Pandas on 1M Rows: Here’s What Happened](https://www.kdnuggets.com/we-benchmarked-duckdb-sqlite-and-pandas-on-1m-rows-heres-what-happened) (2025-10-10)
 - [Prompt Engineering Templates That Work: 7 Copy-Paste Recipes for LLMs](https://www.kdnuggets.com/prompt-engineering-templates-that-work-7-copy-paste-recipes-for-llms) (2025-10-09)
 - [A Complete Guide to Seaborn](https://www.kdnuggets.com/a-complete-guide-to-seaborn) (2025-10-08)
 - [10 Command-Line Tools Every Data Scientist Should Know](https://www.kdnuggets.com/10-command-line-tools-every-data-scientist-should-know) (2025-10-08)
 - [How I Actually Use Statistics as a Data Scientist](https://www.kdnuggets.com/how-i-actually-use-statistics-as-a-data-scientist) (2025-10-07)
-- [The Lazy Data Scientist’s Guide to Exploratory Data Analysis](https://www.kdnuggets.com/the-lazy-data-scientists-guide-to-exploratory-data-analysis) (2025-10-07)
 
 </details>
 
