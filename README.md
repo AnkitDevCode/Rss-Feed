@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Stoke Space’s $510M round shows the future of launch belongs to defense](https://techcrunch.com/2025/10/09/stoke-spaces-510m-round-shows-the-future-of-launch-belongs-to-defense/) (2025-10-09)
-- [Intel unveils new processor powered by its 18A semiconductor tech ](https://techcrunch.com/2025/10/09/intel-unveils-new-processor-powered-by-its-18a-semiconductor-tech/) (2025-10-09)
-- [Italian businessman’s phone reportedly targeted with Paragon spyware](https://techcrunch.com/2025/10/09/italian-businessmans-phone-reportedly-targeted-with-paragon-spyware/) (2025-10-09)
-- [‘Dozens’ of organizations had data stolen in Oracle-linked hacks](https://techcrunch.com/2025/10/09/dozens-of-organizations-had-data-stolen-in-oracle-linked-hacks/) (2025-10-09)
-- [YouTubers who were kicked off the platform for rule violations can now request a ‘second chance’](https://techcrunch.com/2025/10/09/youtubers-who-were-kicked-off-the-platform-for-rule-violations-can-now-request-a-second-chance/) (2025-10-09)
+- [While OpenAI races to build AI data centers, Nadella reminds us that Microsoft already has them](https://techcrunch.com/2025/10/09/while-openai-races-to-build-ai-data-centers-nadella-reminds-us-that-microsoft-already-has-them/) (2025-10-09)
+- [Andreessen Horowitz denies report of India office, calls it ‘fake news’](https://techcrunch.com/2025/10/09/andreessen-horowitz-denies-report-of-india-office-calls-it-fake-news/) (2025-10-09)
+- [Reflection AI raises $2B to be America’s open frontier AI lab, challenging DeepSeek](https://techcrunch.com/2025/10/09/reflection-raises-2b-to-be-americas-open-frontier-ai-lab-challenging-deepseek/) (2025-10-09)
+- [Discord data breach affects at least 70,000 users](https://techcrunch.com/2025/10/09/discord-suffers-data-breach-impacting-at-least-70000-users/) (2025-10-09)
+- [Sora copycats flooded Apple’s App Store, and some still remain](https://techcrunch.com/2025/10/09/sora-copycats-flooded-apples-app-store-and-some-still-remain/) (2025-10-09)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Rubygems.org AWS Root Access Event – September 2025](https://rubycentral.org/news/rubygems-org-aws-root-access-event-september-2025/) (2025-10-09)
-- [Subway Builder: A Realistic Subway Simulation Game](https://www.subwaybuilder.com/) (2025-10-09)
-- [Show HN: I Wrote a Full Text Search Engine from Scratch in Go](https://github.com/wizenheimer/blaze) (2025-10-09)
-- [ESP32 and Termux](https://blog.gavide.dev/blog/esp32-and-termux) (2025-10-09)
-- [Tariffs Are Way Up. Interest on Debt Tops $1T. and Doge Didn't Do Much](https://www.wsj.com/economy/federal-budget-fiscal-2025-e8d21595) (2025-10-09)
+- [Time Warp IDE – Complete environment for old-school coding](https://github.com/James-HoneyBadger/Time_Warp) (2025-10-09)
+- [How to Write in Cuneiform, the Oldest Writing System in the World](https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html) (2025-10-09)
+- [Show HN: 100% open source, logical multi-master PostgreSQL replication](https://github.com/pgEdge/spock) (2025-10-09)
+- [Show HN: GYST – Digital organizer that replicates the feeling of a physical desk](https://gyst.fr/) (2025-10-09)
+- [A built-in 'off switch' to stop persistent pain](https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain) (2025-10-09)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The Minecraft movie is getting a sequel](https://www.theverge.com/news/798064/a-minecraft-movie-sequel-2-release-date-2027) (2025-10-09)
+- [Ferrari exposes the guts of its upcoming 1000hp EV](https://www.theverge.com/news/797746/ferrari-ev-motor-range-power-shifting) (2025-10-09)
+- [The Vision Pro is getting its first live ‘immersive’ sports](https://www.theverge.com/news/797970/apple-vision-pro-immersive-nba-lakers-games) (2025-10-09)
+- [Amazon’s giant ads have ruined the Echo Show](https://www.theverge.com/report/797672/amazon-echo-show-ads-alexa-plus) (2025-10-09)
 - [512GB microSD Express cards for Switch 2 are cheaper than ever right now](https://www.theverge.com/tech/797782/lexar-microsd-express-card-nintendo-switch-2-deal-sale) (2025-10-09)
-- [YouTube opens &#8216;second chance&#8217; program to creators banned for misinformation](https://www.theverge.com/news/797848/youtube-banned-creators-second-chance-program-covid-election-misinformation-new-channel) (2025-10-09)
-- [Belkin’s new power bank gives your smartphone a camera grip for $80](https://www.theverge.com/news/797749/belkin-stage-powergrip-camera-photography-wireless-qi-power-bank) (2025-10-09)
-- [HBO&#8217;s next Game of Thrones spinoff premieres in January](https://www.theverge.com/entertainment/797762/hbo-a-knight-of-seven-kingdoms-trailer-release-date) (2025-10-09)
-- [Cruz wants to make it easier for Americans to get damages for government censorship](https://www.theverge.com/news/797766/cruz-government-censorship-kimmel-carr-first-amendment) (2025-10-09)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Musk’s X posts on ketamine, Putin spur release of his security clearances](https://arstechnica.com/tech-policy/2025/10/musks-x-posts-on-ketamine-putin-spur-release-of-his-security-clearances/) (2025-10-09)
-- [We’re about to find many more interstellar interlopers—here’s how to visit one](https://arstechnica.com/features/2025/10/were-about-to-find-many-more-interstellar-interlopers-heres-how-to-visit-one/) (2025-10-09)
-- [How Easter Island’s giant statues “walked” to their final platforms](https://arstechnica.com/science/2025/10/how-easter-islands-giant-statues-walked-to-their-final-platforms/) (2025-10-09)
-- [Tax credits for electric cars are no more. What’s next for the US EV industry?](https://arstechnica.com/cars/2025/10/tax-credits-for-electric-cars-are-no-more-whats-next-for-the-us-ev-industry/) (2025-10-09)
-- [Intel’s next-generation Panther Lake laptop chips could be a return to form](https://arstechnica.com/gadgets/2025/10/intels-next-generation-panther-lake-laptop-chips-could-be-a-return-to-form/) (2025-10-09)
+- [Childhood vaccines safe for a little longer as CDC cancels advisory meeting](https://arstechnica.com/health/2025/10/childhood-vaccines-safe-for-a-little-longer-as-cdc-cancels-advisory-meeting/) (2025-10-09)
+- [AI models can acquire backdoors from surprisingly few malicious documents](https://arstechnica.com/ai/2025/10/ai-models-can-acquire-backdoors-from-surprisingly-few-malicious-documents/) (2025-10-09)
+- [A Knight of the Seven Kingdoms teaser debuts at NYCC](https://arstechnica.com/culture/2025/10/a-knight-of-the-seven-kingdoms-teaser-debuts-at-nycc/) (2025-10-09)
+- [It’s time for game developers to bring back the cheat code](https://arstechnica.com/gaming/2025/10/why-the-humble-video-game-cheat-code-is-overdue-for-a-comeback/) (2025-10-09)
+- [YouTube prepares to welcome back banned creators with “second chance” program](https://arstechnica.com/gadgets/2025/10/youtube-explains-how-banned-creators-can-get-a-second-chance/) (2025-10-09)
 
 </details>
 
@@ -97,22 +97,11 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Vector's VRL introduction (chapter 1)](https://dev.to/amarao/vectors-vrl-introduction-chapter-1-30p1) (2025-10-09)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-2ikf) (2025-10-09)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-5dee) (2025-10-09)
-- [KEXP: Babe Rainbow - Sunday (Live on KEXP)](https://dev.to/music_youtube/kexp-babe-rainbow-sunday-live-on-kexp-2cb3) (2025-10-09)
-- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid (Live on KEXP)](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-31) (2025-10-09)
-
-</details>
-
-<details>
-<summary>✍️ Medium - Programming</summary>
-
-- [When Design Becomes a Conversation: Why “Vibe Coding” Is Changing How I Work](https://medium.com/@OsmanGunesCizmeci/when-design-becomes-a-conversation-why-vibe-coding-is-changing-how-i-work-200d3ac25902?source=rss------programming-5) (2025-10-09)
-- [Rolling Out an API Gateway: Pitfalls, Solutions, and Practical Tips](https://medium.com/@virtualik/rolling-out-an-api-gateway-pitfalls-solutions-and-practical-tips-2fcf2366c30f?source=rss------programming-5) (2025-10-09)
-- [How Sound Null Safety Works in Dart](https://medium.com/@AlexanderObregon/how-sound-null-safety-works-in-dart-389f9afdcbb9?source=rss------programming-5) (2025-10-09)
-- [Broadcasting and Operations with Numpy Arrays](https://giulio-laurenti.medium.com/broadcasting-and-operations-with-numpy-arrays-e9981285424e?source=rss------programming-5) (2025-10-09)
-- [Stop Copy-Pasting Prompts — Start Writing Like an AI Whisperer](https://levelup.gitconnected.com/stop-copy-pasting-prompts-start-writing-like-an-ai-whisperer-41f1a98b0373?source=rss------programming-5) (2025-10-09)
+- [Understanding `'PropsWithChildren'` and `verbatimModuleSyntax` in React + TypeScript 5](https://dev.to/cristiansifuentes/understanding-propswithchildren-and-verbatimmodulesyntax-in-react-typescript-5-5fie) (2025-10-10)
+- [Stress Testing Go Memory: A Practical Guide to High-Load Scenarios](https://dev.to/jones_charles_ad50858dbc0/stress-testing-go-memory-a-practical-guide-to-high-load-scenarios-349c) (2025-10-10)
+- [Refactoring My Code and Rewriting Git History](https://dev.to/oleksandrakordonets/refactoring-my-code-and-rewriting-git-history-d2e) (2025-10-10)
+- [Architectural vs Transport Asynchrony: What Most Engineers Get Wrong About Async Systems](https://dev.to/komelgman/architectural-vs-transport-asynchrony-what-most-engineers-get-wrong-about-async-systems-5dkj) (2025-10-10)
+- [What is Dependency Injection in Laravel?](https://dev.to/laracopilot/what-is-dependency-injection-in-laravel-2fp) (2025-10-10)
 
 </details>
 
@@ -130,33 +119,33 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft Azure delivers the first large scale cluster with NVIDIA GB300 NVL72 for OpenAI workloads](https://azure.microsoft.com/en-us/blog/microsoft-azure-delivers-the-first-large-scale-cluster-with-nvidia-gb300-nvl72-for-openai-workloads/) (2025-10-09)
+- [Microsoft’s commitment to supporting cloud infrastructure demand in Asia](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-asia/) (2025-10-09)
 - [Unleash your creativity at scale: Azure AI Foundry’s multimodal revolution](https://azure.microsoft.com/en-us/blog/unleash-your-creativity-at-scale-azure-ai-foundrys-multimodal-revolution/) (2025-10-06)
 - [Introducing Microsoft Agent Framework](https://azure.microsoft.com/en-us/blog/introducing-microsoft-agent-framework/) (2025-10-01)
 - [Grok 4 is now available in Azure AI Foundry: Unlock frontier intelligence and business-ready capabilities](https://azure.microsoft.com/en-us/blog/grok-4-is-now-available-in-azure-ai-foundry-unlock-frontier-intelligence-and-business-ready-capabilities/) (2025-09-29)
-- [Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.](https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/) (2025-09-25)
-- [Agent Factory: Designing the open agentic web stack](https://azure.microsoft.com/en-us/blog/agent-factory-designing-the-open-agentic-web-stack/) (2025-09-24)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [NVIDIA Blackwell Raises Bar in New InferenceMAX Benchmarks, Delivering Unmatched Performance and Efficiency](https://blogs.nvidia.com/blog/blackwell-inferencemax-benchmark-results/) (2025-10-09)
 - [Microsoft Azure Unveils World’s First NVIDIA GB300 NVL72 Supercomputing Cluster for OpenAI](https://blogs.nvidia.com/blog/microsoft-azure-worlds-first-gb300-nvl72-supercomputing-cluster-openai/) (2025-10-09)
 - [Incoming: ‘Battlefield 6’ Lands on GeForce NOW at Launch](https://blogs.nvidia.com/blog/geforce-now-thursday-battlefield-6/) (2025-10-09)
 - [How AI-Powered Wireless Networks Will Revitalize US Global Leadership in Communications](https://blogs.nvidia.com/blog/ai-6g-telecommunications/) (2025-10-08)
 - [GeForce NOW Brings 18 Games to the Cloud in October for a Spooky Good Time](https://blogs.nvidia.com/blog/geforce-now-thursday-oct-2025/) (2025-10-02)
-- [Japan’s AI Demand Will Increase 320x by 2030, Industry Leader Says at NVIDIA AI Day Tokyo](https://blogs.nvidia.com/blog/ai-day-tokyo/) (2025-10-01)
 
 </details>
 
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [New requirement for apps using Sign in with Apple for account creation](https://developer.apple.com/news/?id=j9zukcr6) (2025-10-09)
 - [Updated Apple Developer Program License Agreement now available](https://developer.apple.com/news/?id=fnkpd51y) (2025-10-08)
 - [New requirements for apps available in Texas](https://developer.apple.com/news/?id=btkirlj8) (2025-10-08)
 - [Hello Developer: October 2025](https://developer.apple.com/news/?id=glqa1owr) (2025-10-07)
 - [Upcoming Currency Change in Bulgaria](https://developer.apple.com/news/?id=rbfp3bpb) (2025-09-25)
-- [Get ready with the latest beta releases](https://developer.apple.com/news/?id=4uj8znqq) (2025-09-22)
 
 </details>
 
@@ -392,11 +381,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/segment-unify-webinar-
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Auth0 Token Vault: Secure Token Exchange for AI Agents](https://auth0.com/blog/auth0-token-vault-secure-token-exchange-for-ai-agents/) (2025-10-09)
 - [Refresh Token Security: Detecting Hijacking and Misuse with Auth0](https://auth0.com/blog/refresh-token-security-detecting-hijacking-and-misuse-with-auth0/) (2025-10-08)
 - [Demystifying JOSE, the JWT Family: JWS, JWE, JWA, and JWK Explained](https://auth0.com/blog/demystifying-jose-jwt-family/) (2025-10-07)
 - [Identity That Helps You Sell: Introducing Auth0 for B2B Enhancements](https://auth0.com/blog/identity-that-helps-you-sell-introducing-auth0-for-b2b-enhancements/) (2025-10-02)
 - [Secure a .NET RAG System with Auth0 FGA](https://auth0.com/blog/secure-dotnet-rag-system-with-auth0-fga/) (2025-10-01)
-- [From Building to Scaling: How to Choose the Right Auth0 Plan](https://auth0.com/blog/from-building-to-scaling-how-to-choose-the-right-auth0-plan/) (2025-09-26)
 
 </details>
 
@@ -480,11 +469,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/segment-unify-webinar-
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
+- [Agentforce Vibesでイノベーションを推進 – エンタープライズ向けバイブコーディング](https://developer.salesforce.com/blogs/2025/10/agentforce-vibes%e3%81%a7%e3%82%a4%e3%83%8e%e3%83%99%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%92%e6%8e%a8%e9%80%b2-%e3%82%a8%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%97%e3%83%a9%e3%82%a4%e3%82%ba.html) (2025-10-09)
+- [Salesforce Hosted MCP Servers Are in Beta Today](https://developer.salesforce.com/blogs/2025/10/salesforce-hosted-mcp-servers-are-in-beta-today.html) (2025-10-09)
 - [Enhance Integration Security with mTLS for Salesforce and MuleSoft](https://developer.salesforce.com/blogs/2025/10/enhance-integration-security-with-mtls-for-salesforce-and-mulesoft.html) (2025-10-09)
 - [Lightning Out 2.0 Is Now Generally Available in Winter ’26](https://developer.salesforce.com/blogs/2025/10/lightning-out-2-0-is-now-generally-available-in-winter-26.html) (2025-10-08)
 - [Master Metadata API Deployments with Best Practices](https://developer.salesforce.com/blogs/2025/10/master-metadata-api-deployments-with-best-practices.html) (2025-10-07)
-- [プロンプトテンプレートでファイルを扱う二つの方法](https://developer.salesforce.com/blogs/2025/10/%e3%83%97%e3%83%ad%e3%83%b3%e3%83%97%e3%83%88%e3%83%86%e3%83%b3%e3%83%97%e3%83%ac%e3%83%bc%e3%83%88%e3%81%a7%e3%83%95%e3%82%a1%e3%82%a4%e3%83%ab%e3%82%92%e6%89%b1%e3%81%86%e4%ba%8c%e3%81%a4%e3%81%ae.html) (2025-10-05)
-- [Test Your Agentforce Agents with Custom Evaluation Criteria](https://developer.salesforce.com/blogs/2025/10/test-your-agentforce-agents-with-custom-evaluation-criteria.html) (2025-10-02)
 
 </details>
 
