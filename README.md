@@ -31,44 +31,44 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Reasoning LLMs are wandering solution explorers](https://arxiv.org/abs/2505.20296) (2025-10-10)
-- [I'm turning 41, but I don't feel like celebrating](https://twitter.com/durov/status/1976420399970701543) (2025-10-10)
-- [My approach to building large technical projects (2023)](https://mitchellh.com/writing/building-large-technical-projects) (2025-10-10)
-- [Love C, Hate C: Web Framework Memory Problems](https://alew.is/lava.html) (2025-10-10)
-- [The RubyGems "Security Incident"](https://andre.arko.net/2025/10/09/the-rubygems-security-incident/) (2025-10-10)
+- [Weave (YC W25) is hiring a founding AI engineer](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer) (2025-10-10)
+- [AI is an attack from above on wages": cognitive scientist Hagen Blix](https://www.bloodinthemachine.com/p/ai-is-an-attack-from-above-on-wages) (2025-10-10)
+- [Digital euro could drain up to 700B euros of deposits in bank run, ECB says](https://www.reuters.com/business/finance/digital-euro-could-drain-up-700-billion-euros-deposits-bank-run-ecb-says-2025-10-10/) (2025-10-10)
+- [Vite+ – The Unified Toolchain for the Web](https://viteplus.dev/) (2025-10-10)
+- [Parallelizing Cellular Automata with WebGPU Compute Shaders](https://vectrx.substack.com/p/webgpu-cellular-automata) (2025-10-10)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Copilot on Windows can now create Office documents and connect to Gmail](https://www.theverge.com/news/798098/microsoft-copilot-windows-create-documents-outlook-gmail-connection) (2025-10-10)
 - [The Minecraft movie is getting a sequel](https://www.theverge.com/news/798064/a-minecraft-movie-sequel-2-release-date-2027) (2025-10-09)
 - [Ferrari exposes the guts of its upcoming 1000hp EV](https://www.theverge.com/news/797746/ferrari-ev-motor-range-power-shifting) (2025-10-09)
 - [The Vision Pro is getting its first live ‘immersive’ sports](https://www.theverge.com/news/797970/apple-vision-pro-immersive-nba-lakers-games) (2025-10-09)
 - [Amazon’s giant ads have ruined the Echo Show](https://www.theverge.com/report/797672/amazon-echo-show-ads-alexa-plus) (2025-10-09)
-- [512GB microSD Express cards for Switch 2 are cheaper than ever right now](https://www.theverge.com/tech/797782/lexar-microsd-express-card-nintendo-switch-2-deal-sale) (2025-10-09)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [“Like putting on glasses for the first time”—how AI improves earthquake detection](https://arstechnica.com/science/2025/10/like-putting-on-glasses-for-the-first-time-how-ai-improves-earthquake-detection/) (2025-10-10)
 - [Childhood vaccines safe for a little longer as CDC cancels advisory meeting](https://arstechnica.com/health/2025/10/childhood-vaccines-safe-for-a-little-longer-as-cdc-cancels-advisory-meeting/) (2025-10-09)
 - [AI models can acquire backdoors from surprisingly few malicious documents](https://arstechnica.com/ai/2025/10/ai-models-can-acquire-backdoors-from-surprisingly-few-malicious-documents/) (2025-10-09)
 - [A Knight of the Seven Kingdoms teaser debuts at NYCC](https://arstechnica.com/culture/2025/10/a-knight-of-the-seven-kingdoms-teaser-debuts-at-nycc/) (2025-10-09)
 - [It’s time for game developers to bring back the cheat code](https://arstechnica.com/gaming/2025/10/why-the-humble-video-game-cheat-code-is-overdue-for-a-comeback/) (2025-10-09)
-- [YouTube prepares to welcome back banned creators with “second chance” program](https://arstechnica.com/gadgets/2025/10/youtube-explains-how-banned-creators-can-get-a-second-chance/) (2025-10-09)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: our bodies’ memories, and Traton’s electric trucks](https://www.technologyreview.com/2025/10/10/1125586/the-download-our-bodies-memories-and-tratons-electric-trucks/) (2025-10-10)
+- [How do our bodies remember?](https://www.technologyreview.com/2025/10/10/1124963/muscles-remember-explained/) (2025-10-10)
+- [This test could reveal the health of your immune system](https://www.technologyreview.com/2025/10/10/1125559/test-health-immune-system/) (2025-10-10)
 - [The Download: mysteries of the immunome, and how to choose a climate tech pioneer](https://www.technologyreview.com/2025/10/09/1125517/the-download-mysteries-of-the-immunome-and-how-to-choose-a-climate-tech-pioneer/) (2025-10-09)
 - [3 takeaways about climate tech right now](https://www.technologyreview.com/2025/10/09/1125302/3-takeaways-about-climate-tech-right-now/) (2025-10-09)
-- [How healthy am I? My immunome knows the score.  ](https://www.technologyreview.com/2025/10/09/1125376/how-healthy-am-i-my-immunome-knows-the-score/) (2025-10-09)
-- [The Download: carbon removal factories’ funding cuts, and AI toys](https://www.technologyreview.com/2025/10/08/1125301/the-download-carbon-removal-factories-funding-cuts-and-ai-toys/) (2025-10-08)
-- [The Trump administration may cut funding for two major direct-air-capture plants](https://www.technologyreview.com/2025/10/07/1125207/the-us-is-set-to-cancel-funding-for-two-major-direct-air-capture-plants/) (2025-10-07)
 
 </details>
 
@@ -97,23 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [KEXP: Babe Rainbow - Aquarium cowgirl (Live on KEXP)](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-5b16) (2025-10-10)
-- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid (Live on KEXP)](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-26oj) (2025-10-10)
-- [Rick Beato: Listening to the Spotify Top 10 So You Don't Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-37mb) (2025-10-10)
-- [Rick Beato: My Thoughts on Rush's NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-4ehn) (2025-10-10)
-- [Rick Beato: Is There Anything Bumblefoot Can't Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-50o6) (2025-10-10)
+- [Enabling Faster Development Feedback with LocalStack: Lessons from the Software Development Lifecycle](https://dev.to/kiwimike/enabling-faster-development-feedback-with-localstack-lessons-from-the-software-development-m2l) (2025-10-10)
+- [Excited to Contribute](https://dev.to/hankvscode2024/excited-to-contribute-4626) (2025-10-10)
+- [Builders' Challenge v3](https://dev.to/nosana/builders-challenge-v3-2979) (2025-10-10)
+- [Apache ZooKeeper: The Unsung Hero of Distributed Systems](https://dev.to/zhangwei42/apache-zookeeper-the-unsung-hero-of-distributed-systems-4h1g) (2025-10-10)
+- [SQL is King, But is it Your Only Ruler? A Developer's Guide to NoSQL](https://dev.to/kallileiser/sql-is-king-but-is-it-your-only-ruler-a-developers-guide-to-nosql-22la) (2025-10-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [GLM 4.5: Save your Cash from Claude with This $3/Month AI Coding Tool](https://medium.com/coding-nexus/glm-4-5-save-your-cash-from-claude-with-this-3-month-ai-coding-tool-153ce703b106?source=rss------programming-5) (2025-10-10)
-- [Making Sense of Incomplete Data](https://medium.com/@mtwesley/making-sense-of-incomplete-data-4bc9362367f2?source=rss------programming-5) (2025-10-10)
-- [How Profiling Python Forced Me to Rethink Efficiency Entirely](https://medium.com/@zainahmad0123456/how-profiling-python-forced-me-to-rethink-efficiency-entirely-f29295aa63da?source=rss------programming-5) (2025-10-10)
-- [Angular’s Biggest Template Upgrade Yet](https://codebybilal.medium.com/angulars-biggest-template-upgrade-yet-ad5c7af784bc?source=rss------programming-5) (2025-10-10)
-- [09389632898شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@qwryshynyka/09389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-96a20fb1d8f7?source=rss------programming-5) (2025-10-10)
+- [ Stop Waiting to Be “Perfect” Before Applying for Internships — Start Now!](https://javascript.plainenglish.io/stop-waiting-to-be-perfect-before-applying-for-internships-start-now-f15556ec38bb?source=rss------programming-5) (2025-10-10)
+- [ DevOps vs SRE vs Cloud Engineer vs Platform Engineer: What’s the Real Difference?](https://javascript.plainenglish.io/devops-vs-sre-vs-cloud-engineer-vs-platform-engineer-whats-the-real-difference-d17f8d3bbf3f?source=rss------programming-5) (2025-10-10)
+- [Understanding JavaScript Type Coercion: Why [] == 0 Is True](https://mehulmorker.medium.com/understanding-javascript-type-coercion-why-0-is-true-f992a5a64b90?source=rss------programming-5) (2025-10-10)
+- [ The Ultimate Python Developer Stack 2025 — From Web Apps to AI & DevOps](https://javascript.plainenglish.io/the-ultimate-python-developer-stack-2025-from-web-apps-to-ai-devops-a2433e802341?source=rss------programming-5) (2025-10-10)
+- [ From Basic Prompt to Full-Stack Timer: I Built ‘ChronoShift’ Using Google’s AI Studio](https://medium.com/@gaurawsingh/from-basic-prompt-to-full-stack-timer-i-built-chronoshift-using-google-s-ai-studio-9c4a94fa30ca?source=rss------programming-5) (2025-10-10)
 
 </details>
 
@@ -373,6 +372,11 @@ Use a TwiML Application to Connect your Voice AI Agent to a Twilio Conference
 https://www.twilio.com/en-us/blog/developers/tutorials/product/connect-twiml-app-twilio-conference
 ) (2025-10-07)
 - [
+Scheduling SMS in Laravel with Twilio
+](
+https://www.twilio.com/en-us/blog/developers/community/scheduling-sms-laravel-twilio
+) (2025-10-07)
+- [
 Introducing Customer Intelligence for Advertisers
 ](
 https://www.twilio.com/en-us/blog/products/launches/customer-intelligence-for-advertisers
@@ -381,11 +385,6 @@ https://www.twilio.com/en-us/blog/products/launches/customer-intelligence-for-ad
 Twilio Segment Unify: Expert Answers to Profiles, Journeys, and Secure Activation
 ](
 https://www.twilio.com/en-us/blog/insights/best-practices/segment-unify-webinar-q-and-a
-) (2025-10-06)
-- [
-How to Build an AI Chatbot with Facebook Messenger, OpenAI, and Twilio Programmable Messaging using Python
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/how-to-build-an-ai-chatbot-with-facebook-messenger--openai--and-
 ) (2025-10-06)
 
 </details>
@@ -591,11 +590,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/how-to-build
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [The Machine Learning Practitioner’s Guide to Agentic AI Systems](https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-agentic-ai-systems/) (2025-10-10)
 - [Build an Inference Cache to Save Costs in High-Traffic LLM Apps](https://machinelearningmastery.com/build-an-inference-cache-to-save-costs-in-high-traffic-llm-apps/) (2025-10-09)
 - [7 NumPy Tricks to Vectorize Your Code](https://machinelearningmastery.com/7-numpy-tricks-to-vectorize-your-code/) (2025-10-08)
 - [Is ChatGPT-5 Able to Provide Proofs for Advanced Mathematics?](https://machinelearningmastery.com/is-chatgpt-5-able-to-provide-proofs-for-advanced-mathematics/) (2025-10-07)
 - [A Decision Matrix for Time Series Forecasting Models](https://machinelearningmastery.com/a-decision-matrix-for-time-series-forecasting-models/) (2025-10-06)
-- [Algorithm Showdown: Logistic Regression vs. Random Forest vs. XGBoost on Imbalanced Data](https://machinelearningmastery.com/algorithm-showdown-logistic-regression-vs-random-forest-vs-xgboost-on-imbalanced-data/) (2025-10-03)
 
 </details>
 
