@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Shutdown silver lining? Your IPO review comes after investors buy in](https://techcrunch.com/2025/10/09/shutdown-silver-lining-your-ipo-review-comes-after-investors-buy-in/) (2025-10-10)
+- [Flipkart’s Super.money quietly partners with troubled Juspay as it expands its reach](https://techcrunch.com/2025/10/09/flipkarts-super-money-quietly-partners-with-with-troubled-juspay-as-it-expands-its-reach/) (2025-10-10)
 - [While OpenAI races to build AI data centers, Nadella reminds us that Microsoft already has them](https://techcrunch.com/2025/10/09/while-openai-races-to-build-ai-data-centers-nadella-reminds-us-that-microsoft-already-has-them/) (2025-10-09)
 - [Andreessen Horowitz denies report of India office, calls it ‘fake news’](https://techcrunch.com/2025/10/09/andreessen-horowitz-denies-report-of-india-office-calls-it-fake-news/) (2025-10-09)
 - [Reflection AI raises $2B to be America’s open frontier AI lab, challenging DeepSeek](https://techcrunch.com/2025/10/09/reflection-raises-2b-to-be-americas-open-frontier-ai-lab-challenging-deepseek/) (2025-10-09)
-- [Discord data breach affects at least 70,000 users](https://techcrunch.com/2025/10/09/discord-suffers-data-breach-impacting-at-least-70000-users/) (2025-10-09)
-- [Sora copycats flooded Apple’s App Store, and some still remain](https://techcrunch.com/2025/10/09/sora-copycats-flooded-apples-app-store-and-some-still-remain/) (2025-10-09)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Time Warp IDE – Complete environment for old-school coding](https://github.com/James-HoneyBadger/Time_Warp) (2025-10-09)
-- [How to Write in Cuneiform, the Oldest Writing System in the World](https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html) (2025-10-09)
-- [Show HN: 100% open source, logical multi-master PostgreSQL replication](https://github.com/pgEdge/spock) (2025-10-09)
-- [Show HN: GYST – Digital organizer that replicates the feeling of a physical desk](https://gyst.fr/) (2025-10-09)
-- [A built-in 'off switch' to stop persistent pain](https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain) (2025-10-09)
+- [Reasoning LLMs are wandering solution explorers](https://arxiv.org/abs/2505.20296) (2025-10-10)
+- [I'm turning 41, but I don't feel like celebrating](https://twitter.com/durov/status/1976420399970701543) (2025-10-10)
+- [My approach to building large technical projects (2023)](https://mitchellh.com/writing/building-large-technical-projects) (2025-10-10)
+- [Love C, Hate C: Web Framework Memory Problems](https://alew.is/lava.html) (2025-10-10)
+- [The RubyGems "Security Incident"](https://andre.arko.net/2025/10/09/the-rubygems-security-incident/) (2025-10-10)
 
 </details>
 
@@ -86,22 +86,34 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Vite is like the United Nations of JavaScript](https://stackoverflow.blog/2025/10/10/vite-is-like-the-united-nations-of-javascript/) (2025-10-10)
 - [Who watches the watchers? LLM on LLM evaluations](https://stackoverflow.blog/2025/10/09/who-watches-the-watchers-llm-on-llm-evaluations/) (2025-10-09)
 - [A new look for comments](https://stackoverflow.blog/2025/10/08/a-new-look-for-comments/) (2025-10-08)
 - [Context is king for secure, AI-generated code](https://stackoverflow.blog/2025/10/07/context-is-king-for-secure-ai-generated-code/) (2025-10-07)
 - [Beyond code generation: How AI is changing tech teams' dynamics](https://stackoverflow.blog/2025/10/06/beyond-code-generation-how-ai-is-changing-tech-teams-dynamics/) (2025-10-06)
-- [One is not the loneliest number for API calls](https://stackoverflow.blog/2025/10/03/one-is-not-the-loneliest-number-for-api-calls/) (2025-10-03)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Understanding `'PropsWithChildren'` and `verbatimModuleSyntax` in React + TypeScript 5](https://dev.to/cristiansifuentes/understanding-propswithchildren-and-verbatimmodulesyntax-in-react-typescript-5-5fie) (2025-10-10)
-- [Stress Testing Go Memory: A Practical Guide to High-Load Scenarios](https://dev.to/jones_charles_ad50858dbc0/stress-testing-go-memory-a-practical-guide-to-high-load-scenarios-349c) (2025-10-10)
-- [Refactoring My Code and Rewriting Git History](https://dev.to/oleksandrakordonets/refactoring-my-code-and-rewriting-git-history-d2e) (2025-10-10)
-- [Architectural vs Transport Asynchrony: What Most Engineers Get Wrong About Async Systems](https://dev.to/komelgman/architectural-vs-transport-asynchrony-what-most-engineers-get-wrong-about-async-systems-5dkj) (2025-10-10)
-- [What is Dependency Injection in Laravel?](https://dev.to/laracopilot/what-is-dependency-injection-in-laravel-2fp) (2025-10-10)
+- [KEXP: Babe Rainbow - Aquarium cowgirl (Live on KEXP)](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-5b16) (2025-10-10)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid (Live on KEXP)](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-26oj) (2025-10-10)
+- [Rick Beato: Listening to the Spotify Top 10 So You Don't Have To](https://dev.to/music_youtube/rick-beato-listening-to-the-spotify-top-10-so-you-dont-have-to-37mb) (2025-10-10)
+- [Rick Beato: My Thoughts on Rush's NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-4ehn) (2025-10-10)
+- [Rick Beato: Is There Anything Bumblefoot Can't Play? ...No!](https://dev.to/music_youtube/rick-beato-is-there-anything-bumblefoot-cant-play-no-50o6) (2025-10-10)
+
+</details>
+
+<details>
+<summary>✍️ Medium - Programming</summary>
+
+- [GLM 4.5: Save your Cash from Claude with This $3/Month AI Coding Tool](https://medium.com/coding-nexus/glm-4-5-save-your-cash-from-claude-with-this-3-month-ai-coding-tool-153ce703b106?source=rss------programming-5) (2025-10-10)
+- [Making Sense of Incomplete Data](https://medium.com/@mtwesley/making-sense-of-incomplete-data-4bc9362367f2?source=rss------programming-5) (2025-10-10)
+- [How Profiling Python Forced Me to Rethink Efficiency Entirely](https://medium.com/@zainahmad0123456/how-profiling-python-forced-me-to-rethink-efficiency-entirely-f29295aa63da?source=rss------programming-5) (2025-10-10)
+- [Angular’s Biggest Template Upgrade Yet](https://codebybilal.medium.com/angulars-biggest-template-upgrade-yet-ad5c7af784bc?source=rss------programming-5) (2025-10-10)
+- [09389632898شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@qwryshynyka/09389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-96a20fb1d8f7?source=rss------programming-5) (2025-10-10)
 
 </details>
 
@@ -361,11 +373,6 @@ Use a TwiML Application to Connect your Voice AI Agent to a Twilio Conference
 https://www.twilio.com/en-us/blog/developers/tutorials/product/connect-twiml-app-twilio-conference
 ) (2025-10-07)
 - [
-Scheduling SMS in Laravel with Twilio
-](
-https://www.twilio.com/en-us/blog/developers/community/scheduling-sms-laravel-twilio
-) (2025-10-07)
-- [
 Introducing Customer Intelligence for Advertisers
 ](
 https://www.twilio.com/en-us/blog/products/launches/customer-intelligence-for-advertisers
@@ -374,6 +381,11 @@ https://www.twilio.com/en-us/blog/products/launches/customer-intelligence-for-ad
 Twilio Segment Unify: Expert Answers to Profiles, Journeys, and Secure Activation
 ](
 https://www.twilio.com/en-us/blog/insights/best-practices/segment-unify-webinar-q-and-a
+) (2025-10-06)
+- [
+How to Build an AI Chatbot with Facebook Messenger, OpenAI, and Twilio Programmable Messaging using Python
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/how-to-build-an-ai-chatbot-with-facebook-messenger--openai--and-
 ) (2025-10-06)
 
 </details>
@@ -491,11 +503,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/segment-unify-webinar-
 <details>
 <summary>💬 Slack API</summary>
 
+- [What Is Personalized Search, and How Does It Work?](https://slack.com/blog/productivity/what-is-personalized-search-and-how-does-it-work) (2025-10-07)
+- [AI Assistants: Everything You Need to Know](https://slack.com/blog/transformation/ai-assistants-what-they-do-and-why-you-need-them) (2025-10-07)
 - [A Complete Guide to AI Summarization: Benefits, Use Cases, and Tools](https://slack.com/blog/productivity/ai-summarization-a-guide-to-conquering-information-overload) (2025-10-01)
 - [Document Workflows Like a Pro: Tips, Tools, and Real-World Examples](https://slack.com/blog/productivity/workflow-documentation-what-it-is-how-to-create-it-and-why-it-matters) (2025-10-01)
 - [Work Order Management: Essential Steps and Strategies](https://slack.com/blog/productivity/work-order-management-essential-steps-and-strategies) (2025-09-29)
-- [Enterprise Process Automation: the Key to Faster, Smarter Workflows](https://slack.com/blog/productivity/an-introductory-guide-to-enterprise-automation) (2025-09-29)
-- [RACI Model Explained: Definition, Benefits, and How to Use It](https://slack.com/blog/productivity/raci-model-explained-definition-benefits-and-how-to-use-it) (2025-09-26)
 
 </details>
 
