@@ -31,33 +31,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [What Is Going on with All This Radioactive Shrimp?](https://www.consumerreports.org/health/food-safety/radioactive-shrimp-explained-a5493175857/) (2025-10-11)
-- [How hard do you have to hit a chicken to cook it? (2020)](https://james-simon.github.io/blog/chicken-cooking/) (2025-10-11)
-- [Programming in the Sun: A Year with the Daylight Computer](https://wickstrom.tech/2025-10-10-programming-in-the-sun-a-year-with-the-daylight-computer.html) (2025-10-10)
-- [In a post-truth world truth-seeking is more important](https://iai.tv/articles/in-a-post-truth-world-truth-seeking-is-more-important-than-ever-auid-3382) (2025-10-10)
-- [Verge Genomics (YC S15) Is Hiring for Multiple Engineering and Product Roles](https://news.ycombinator.com/item?id=45544636) (2025-10-10)
+- [Learn Turbo Pascal – a video series originally released on VHS](https://www.youtube.com/watch?v=UOtonwG3DXM) (2025-10-11)
+- [Vietnam Airlines Data Breach](https://haveibeenpwned.com/Breach/VietnamAirlines) (2025-10-11)
+- [The <output> Tag](https://denodell.com/blog/html-best-kept-secret-output-tag) (2025-10-11)
+- [AV2 video codec delivers 30% lower bitrate than AV1, final spec due in late 2025](https://videocardz.com/newz/av2-video-codec-delivers-30-lower-bitrate-than-av1-final-spec-due-in-late-2025) (2025-10-11)
+- [Daniel Kahneman opted for assisted suicide in Switzerland](https://www.bluewin.ch/en/entertainment/nobel-prize-winner-opts-for-suicide-in-switzerland-2619460.html) (2025-10-11)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Is the Coros Nomad really an adventure watch?](https://www.theverge.com/tech/798613/coros-nomad-thru-hike-rucking) (2025-10-11)
 - [Hollywood has no idea what to do about AI](https://www.theverge.com/ai-artificial-intelligence/798496/hollywood-openai-training-netflix-paramount-warner) (2025-10-10)
 - [OpenAI allegedly sent police to an AI regulation advocate’s door](https://www.theverge.com/news/798523/openai-ai-regulation-advocates-subpoenas-police) (2025-10-10)
 - [Bose is yanking key features from its SoundTouch speakers](https://www.theverge.com/news/798501/bose-soundtouch-speakers-cloud-discontinue-shut-down) (2025-10-10)
 - [OpenAI is trying to clamp down on ‘bias’ in ChatGPT](https://www.theverge.com/news/798388/openai-chatgpt-political-bias-eval) (2025-10-10)
-- [You can still snag LG’s C4 OLED TV at half the price ](https://www.theverge.com/tech/798322/lg-c4-c5-oled-tv-deal-sale) (2025-10-10)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Why doesn’t Cards Against Humanity print its game in the US? It’s complicated.](https://arstechnica.com/culture/2025/10/why-doesnt-cards-against-humanity-print-its-game-in-the-us-its-complicated/) (2025-10-11)
+- [Apple ups the reward for finding major exploits to $2 million](https://arstechnica.com/security/2025/10/apple-ups-the-reward-for-finding-major-exploits-to-2-million/) (2025-10-11)
+- [How close are we to solid state batteries for electric vehicles?](https://arstechnica.com/cars/2025/10/how-close-are-we-to-solid-state-batteries-for-electric-vehicles/) (2025-10-11)
 - [Trump admin fires more health employees amid government shutdown](https://arstechnica.com/health/2025/10/more-federal-health-employees-axed-amid-shutdown-linked-terminations/) (2025-10-10)
 - [Putin OKs plan to turn Russian spacecraft into flying billboards](https://arstechnica.com/space/2025/10/putin-oks-plan-to-turn-russian-spacecraft-into-flying-billboards/) (2025-10-10)
-- [People regret buying Amazon smart displays after being bombarded with ads](https://arstechnica.com/gadgets/2025/10/people-regret-buying-amazon-smart-displays-after-being-bombarded-with-ads/) (2025-10-10)
-- [Marvel gets meta with Wonder Man teaser](https://arstechnica.com/culture/2025/10/marvel-gets-meta-with-wonder-man-teaser/) (2025-10-10)
-- [“Extremely angry” Trump threatens “massive” tariff on all Chinese exports](https://arstechnica.com/tech-policy/2025/10/extremely-angry-trump-threatens-massive-tariff-on-all-chinese-exports/) (2025-10-10)
 
 </details>
 
@@ -97,22 +97,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-1g7h) (2025-10-11)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4fcg) (2025-10-11)
-- [KEXP: Wet Leg - mangetout (Live on KEXP)](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-4fp5) (2025-10-11)
-- [KEXP: Wet Leg - davina mccall (Live on KEXP)](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-4fna) (2025-10-11)
-- [Trash Theory: The Most Bizarre UK No. 1s of the 1990s](https://dev.to/music_youtube/trash-theory-the-most-bizarre-uk-no-1s-of-the-1990s-26eh) (2025-10-11)
+- [PHP 8.4 Performance Optimization — A Practical, Repeatable Guide](https://dev.to/blamsa0mine/php-84-performance-optimization-a-practical-repeatable-guide-1jp4) (2025-10-11)
+- [💸 A Stack pra Ganhar Dinheiro em 2025/2026](https://dev.to/duquedotdev/a-stack-pra-ganhar-dinheiro-em-20252026-4mj0) (2025-10-11)
+- [Web Developer Travis McCracken on DevOps Tips from a Web Developer](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-devops-tips-from-a-web-developer-1k7f) (2025-10-11)
+- [How I Stay Productive and Keep Learning as a Software Engineer (Even Without a Full-Time Job)](https://dev.to/aymen-hammami/how-i-stay-productive-and-keep-learning-as-a-software-engineer-even-without-a-full-time-job-3map) (2025-10-11)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-4373) (2025-10-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Java Programming Essentials: Code Your Way to Success](https://medium.com/@nakulnegi3800/java-programming-essentials-code-your-way-to-success-d9985d30863e?source=rss------programming-5) (2025-10-11)
-- [CI/CD Basics on Linux (Git Hooks)](https://medium.com/codetodeploy/ci-cd-basics-on-linux-git-hooks-6f54951e3673?source=rss------programming-5) (2025-10-11)
-- [Instant answers in the browser with Edge Copilot](https://medium.com/@lancegabrielwork91/instant-answers-in-the-browser-with-edge-copilot-d97f739705f2?source=rss------programming-5) (2025-10-11)
-- [The Brutal Truth About Making Money Online That Every Guru Is Hiding From You (And Why You’re…](https://medium.com/codetodeploy/the-brutal-truth-about-making-money-online-that-every-guru-is-hiding-from-you-and-why-youre-2fffff0ae006?source=rss------programming-5) (2025-10-11)
-- [What I Learned After Reading 10,000 Lines of “Bad” Python Code](https://medium.com/the-pythonworld/what-i-learned-after-reading-10-000-lines-of-bad-python-code-5004e5600fa4?source=rss------programming-5) (2025-10-11)
+- [Indexing Across Data Models: From Tables to Documents to Text](https://medium.com/@husain.ammar/indexing-across-data-models-from-tables-to-documents-to-text-860b0189a437?source=rss------programming-5) (2025-10-11)
+- [ The Evolution of Artificial Intelligence: From Smart Tools to Superintelligent Systems](https://javascript.plainenglish.io/the-evolution-of-artificial-intelligence-from-smart-tools-to-superintelligent-systems-8aaa4cd5bb7d?source=rss------programming-5) (2025-10-11)
+- [Why Isn’t There a Single Language for All 54 African Nations?](https://medium.com/@muzanslux/why-isnt-there-a-single-language-for-all-54-african-nations-357d0b1a78e0?source=rss------programming-5) (2025-10-11)
+- [ Mastering DSA: The Ultimate Game-Changer for Your Coding Interviews](https://javascript.plainenglish.io/mastering-dsa-the-ultimate-game-changer-for-your-coding-interviews-ed79b0058dd2?source=rss------programming-5) (2025-10-11)
+- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kxnjxkndjbd/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-0f6c277138da?source=rss------programming-5) (2025-10-11)
 
 </details>
 
@@ -362,11 +363,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Senders Gain Access to More Data with Yahoo ‘Insights’ 
-](
-https://www.twilio.com/en-us/blog/insights/yahoo-insights
-) (2025-10-09)
-- [
 From Traffic Jams to Green Lights: Faster, Smarter Messaging with Twilio’s Traffic Optimization Engine
 ](
 https://www.twilio.com/en-us/blog/products/traffic_optimization_engine
@@ -385,6 +381,11 @@ https://www.twilio.com/en-us/blog/developers/community/scheduling-sms-laravel-tw
 Introducing Customer Intelligence for Advertisers
 ](
 https://www.twilio.com/en-us/blog/products/launches/customer-intelligence-for-advertisers
+) (2025-10-06)
+- [
+Twilio Segment Unify: Expert Answers to Profiles, Journeys, and Secure Activation
+](
+https://www.twilio.com/en-us/blog/insights/best-practices/segment-unify-webinar-q-and-a
 ) (2025-10-06)
 
 </details>
@@ -568,11 +569,11 @@ https://www.twilio.com/en-us/blog/products/launches/customer-intelligence-for-ad
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Building an AI Agent Tutorial – Part 1 of 2: YouTube Summarizer Agent](https://www.analyticsvidhya.com/blog/2025/10/building-an-ai-agent-tutorial-part-1/) (2025-10-11)
+- [Building an AI Agent Tutorial – Part 2: Make Your Own Study Planner Agent](https://www.analyticsvidhya.com/blog/2025/10/building-study-planner-agent-ai-agent-tutorial/) (2025-10-11)
 - [The Data Science Behind Zepto’s 10-Minute Delivery Success](https://www.analyticsvidhya.com/blog/2025/10/zepto-data-science/) (2025-10-10)
 - [You Can’t Miss These 15 FREE Courses on AI Agents](https://www.analyticsvidhya.com/blog/2025/10/free-ai-agent-courses/) (2025-10-10)
 - [Better Than ChatGPT and Claude? GLM 4.6 Might Surprise You](https://www.analyticsvidhya.com/blog/2025/10/glm-4-6/) (2025-10-09)
-- [How to Use NotebookLM and Gems in Google Classroom? A Teacher’s Guide](https://www.analyticsvidhya.com/blog/2025/10/notebooklm-and-gems-in-google-classroom/) (2025-10-09)
-- [Create Your Personalised Diwali Greeting Card using Nano Banana: Here is How](https://www.analyticsvidhya.com/blog/2025/10/personalised-diwali-greeting-card-using-nano-banana/) (2025-10-09)
 
 </details>
 
