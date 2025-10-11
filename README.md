@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Ready or not, enterprises are betting on AI](https://techcrunch.com/2025/10/11/ready-or-not-enterprises-are-betting-on-ai/) (2025-10-11)
+- [Prince Harry and Meghan call out the harmful effects of social media on today’s youth](https://techcrunch.com/2025/10/11/prince-harry-and-meghan-call-out-the-harmful-effects-of-social-media-on-todays-youth/) (2025-10-11)
+- [Trump fires back at China’s rare earth mineral restrictions by threatening 100% tariffs](https://techcrunch.com/2025/10/11/trump-fires-back-at-chinas-rare-earth-mineral-restrictions-by-threatening-100-tariffs/) (2025-10-11)
+- [It’s not too late for Apple to get AI right](https://techcrunch.com/2025/10/11/its-not-too-late-for-apple-to-get-ai-right/) (2025-10-11)
 - [The fixer’s dilemma: Chris Lehane and OpenAI’s impossible mission](https://techcrunch.com/2025/10/10/the-fixers-dilemma-chris-lehane-and-openais-impossible-mission/) (2025-10-11)
-- [Salesforce CEO says National Guard should patrol San Francisco — stunning his own PR team](https://techcrunch.com/2025/10/10/salesforce-ceo-says-national-guard-should-patrol-san-francisco-stunning-his-own-pr-team/) (2025-10-11)
-- [Navan plows ahead with IPO during shutdown, aims for $6.45B valuation ](https://techcrunch.com/2025/10/10/navan-plows-ahead-with-ipo-during-shutdown-aims-for-6-45b-valuation/) (2025-10-10)
-- [Why Deloitte is betting big on AI despite a $10M refund](https://techcrunch.com/video/why-deloitte-is-betting-big-on-ai-despite-a-10m-refund/) (2025-10-10)
-- [Kalshi hits $5B valuation days after rival Polymarket gets $2B NYSE backing at $8B](https://techcrunch.com/2025/10/10/kalshi-hits-5b-valuation-days-after-rival-polymarket-gets-2b-nyse-backing-at-8b/) (2025-10-10)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Learn Turbo Pascal – a video series originally released on VHS](https://www.youtube.com/watch?v=UOtonwG3DXM) (2025-10-11)
-- [Vietnam Airlines Data Breach](https://haveibeenpwned.com/Breach/VietnamAirlines) (2025-10-11)
-- [The <output> Tag](https://denodell.com/blog/html-best-kept-secret-output-tag) (2025-10-11)
-- [AV2 video codec delivers 30% lower bitrate than AV1, final spec due in late 2025](https://videocardz.com/newz/av2-video-codec-delivers-30-lower-bitrate-than-av1-final-spec-due-in-late-2025) (2025-10-11)
-- [Daniel Kahneman opted for assisted suicide in Switzerland](https://www.bluewin.ch/en/entertainment/nobel-prize-winner-opts-for-suicide-in-switzerland-2619460.html) (2025-10-11)
+- [Show HN: Gnokestation Is an Ultra Lightweight Web Desktop Environment](https://gnokestation.netlify.app) (2025-10-11)
+- [GNU Health](https://www.gnuhealth.org/about-us.html) (2025-10-11)
+- [How to Check for Overlapping Intervals](https://zayenz.se/blog/post/how-to-check-for-overlapping-intervals/) (2025-10-11)
+- [Microsoft Amplifier](https://github.com/microsoft/amplifier) (2025-10-11)
+- [Vibing a non-trivial Ghostty feature](https://mitchellh.com/writing/non-trivial-vibing) (2025-10-11)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [How The Verge and our readers manage kids’ screen time](https://www.theverge.com/tech/798648/how-verge-parents-and-readers-manage-kids-screen-time) (2025-10-11)
+- [The AirPods 4 and Lego’s brick-ified Grogu are our favorite deals this week](https://www.theverge.com/tech/798362/apple-airpods-4-lego-star-wars-grogu-deal-sale) (2025-10-11)
+- [American politics has devolved into shitposting and aura farming](https://www.theverge.com/policy/798491/frog-portland-trump-national-guard) (2025-10-11)
+- [Dreams of Another feels like a fever dream](https://www.theverge.com/games/795553/dreams-of-another-review-ps5-pc) (2025-10-11)
 - [Is the Coros Nomad really an adventure watch?](https://www.theverge.com/tech/798613/coros-nomad-thru-hike-rucking) (2025-10-11)
-- [Hollywood has no idea what to do about AI](https://www.theverge.com/ai-artificial-intelligence/798496/hollywood-openai-training-netflix-paramount-warner) (2025-10-10)
-- [OpenAI allegedly sent police to an AI regulation advocate’s door](https://www.theverge.com/news/798523/openai-ai-regulation-advocates-subpoenas-police) (2025-10-10)
-- [Bose is yanking key features from its SoundTouch speakers](https://www.theverge.com/news/798501/bose-soundtouch-speakers-cloud-discontinue-shut-down) (2025-10-10)
-- [OpenAI is trying to clamp down on ‘bias’ in ChatGPT](https://www.theverge.com/news/798388/openai-chatgpt-political-bias-eval) (2025-10-10)
 
 </details>
 
@@ -97,23 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [PHP 8.4 Performance Optimization — A Practical, Repeatable Guide](https://dev.to/blamsa0mine/php-84-performance-optimization-a-practical-repeatable-guide-1jp4) (2025-10-11)
-- [💸 A Stack pra Ganhar Dinheiro em 2025/2026](https://dev.to/duquedotdev/a-stack-pra-ganhar-dinheiro-em-20252026-4mj0) (2025-10-11)
-- [Web Developer Travis McCracken on DevOps Tips from a Web Developer](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-devops-tips-from-a-web-developer-1k7f) (2025-10-11)
-- [How I Stay Productive and Keep Learning as a Software Engineer (Even Without a Full-Time Job)](https://dev.to/aymen-hammami/how-i-stay-productive-and-keep-learning-as-a-software-engineer-even-without-a-full-time-job-3map) (2025-10-11)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-4373) (2025-10-11)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid (Live on KEXP)](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-52ej) (2025-10-11)
+- [KEXP: Wet Leg - davina mccall (Live on KEXP)](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-3mci) (2025-10-11)
+- [Trash Theory: The Most Bizarre UK No. 1s of the 1990s](https://dev.to/music_youtube/trash-theory-the-most-bizarre-uk-no-1s-of-the-1990s-1k1c) (2025-10-11)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-52hm) (2025-10-11)
+- [Rick Beato: My Thoughts on Rush's NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-4fc8) (2025-10-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Indexing Across Data Models: From Tables to Documents to Text](https://medium.com/@husain.ammar/indexing-across-data-models-from-tables-to-documents-to-text-860b0189a437?source=rss------programming-5) (2025-10-11)
-- [ The Evolution of Artificial Intelligence: From Smart Tools to Superintelligent Systems](https://javascript.plainenglish.io/the-evolution-of-artificial-intelligence-from-smart-tools-to-superintelligent-systems-8aaa4cd5bb7d?source=rss------programming-5) (2025-10-11)
-- [Why Isn’t There a Single Language for All 54 African Nations?](https://medium.com/@muzanslux/why-isnt-there-a-single-language-for-all-54-african-nations-357d0b1a78e0?source=rss------programming-5) (2025-10-11)
-- [ Mastering DSA: The Ultimate Game-Changer for Your Coding Interviews](https://javascript.plainenglish.io/mastering-dsa-the-ultimate-game-changer-for-your-coding-interviews-ed79b0058dd2?source=rss------programming-5) (2025-10-11)
-- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kxnjxkndjbd/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-0f6c277138da?source=rss------programming-5) (2025-10-11)
+- [Becoming Advanced in Any Program and Reaching Knowledge Saturation](https://medium.com/@demirhanyasin77/becoming-advanced-in-any-program-and-reaching-knowledge-saturation-f293c8013cad?source=rss------programming-5) (2025-10-11)
+- [⚡ Next.js 15 Deep Dive: The Future of Full-Stack React Development](https://medium.com/@Sofia07/next-js-15-deep-dive-the-future-of-full-stack-react-development-36b0c07b7205?source=rss------programming-5) (2025-10-11)
+- [The Messaging Arena: How Apache Pulsar Takes on Kafka and RabbitMQ](https://isjain35.medium.com/the-messaging-arena-how-apache-pulsar-takes-on-kafka-and-rabbitmq-4c29d75c1752?source=rss------programming-5) (2025-10-11)
+- [7 Python Libraries That Keep My Code Bug-Free](https://medium.com/@abdur.rahman12/7-python-libraries-that-keep-my-code-bug-free-bedc0140ad8a?source=rss------programming-5) (2025-10-11)
+- [ETL Data Pipeline in Oracle](https://medium.com/@pranavsb699/etl-data-pipeline-in-air-cargo-operations-streamlining-shipment-data-138cfa70fec9?source=rss------programming-5) (2025-10-11)
 
 </details>
 
@@ -197,11 +196,11 @@
 <details>
 <summary>🟩 Node.js Blog</summary>
 
+- [Node.js v24.10.0 (Current)](https://nodejs.org/en/blog/release/v24.10.0) (2025-10-11)
 - [Node.js v24.9.0 (Current)](https://nodejs.org/en/blog/release/v24.9.0) (2025-09-25)
 - [Node.js v22.20.0 (LTS)](https://nodejs.org/en/blog/release/v22.20.0) (2025-09-24)
 - [Node.js v24.8.0 (Current)](https://nodejs.org/en/blog/release/v24.8.0) (2025-09-10)
 - [Node.js v20.19.5 (LTS)](https://nodejs.org/en/blog/release/v20.19.5) (2025-09-03)
-- [Node.js v22.19.0 (LTS)](https://nodejs.org/en/blog/release/v22.19.0) (2025-08-28)
 
 </details>
 
@@ -363,6 +362,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Senders Gain Access to More Data with Yahoo ‘Insights’ 
+](
+https://www.twilio.com/en-us/blog/insights/yahoo-insights
+) (2025-10-09)
+- [
 From Traffic Jams to Green Lights: Faster, Smarter Messaging with Twilio’s Traffic Optimization Engine
 ](
 https://www.twilio.com/en-us/blog/products/traffic_optimization_engine
@@ -381,11 +385,6 @@ https://www.twilio.com/en-us/blog/developers/community/scheduling-sms-laravel-tw
 Introducing Customer Intelligence for Advertisers
 ](
 https://www.twilio.com/en-us/blog/products/launches/customer-intelligence-for-advertisers
-) (2025-10-06)
-- [
-Twilio Segment Unify: Expert Answers to Profiles, Journeys, and Secure Activation
-](
-https://www.twilio.com/en-us/blog/insights/best-practices/segment-unify-webinar-q-and-a
 ) (2025-10-06)
 
 </details>
