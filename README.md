@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [The billion-dollar infrastructure deals powering the AI boom](https://techcrunch.com/2025/10/10/the-billion-dollar-infrastructure-deals-powering-the-ai-boom/) (2025-10-10)
-- [Prezent raises $30 million to acquire AI services firms — starting with founder’s other company](https://techcrunch.com/2025/10/10/prezent-raises-30-million-to-acquire-ai-services-firms-starting-with-founders-other-company/) (2025-10-10)
-- [Best iPad apps for unleashing and exploring your creativity](https://techcrunch.com/2025/10/10/best-ipad-apps-for-unleashing-and-exploring-your-creativity/) (2025-10-10)
-- [Homeland Security reassigns ‘hundreds’ of CISA cyber staffers to support Trump’s deportation crackdown](https://techcrunch.com/2025/10/10/homeland-security-reassigns-hundreds-of-cisa-cyber-staffers-to-support-trumps-deportation-crackdown/) (2025-10-10)
-- [iPhone 17 Pro Max review: Orange you glad the battery is bigger](https://techcrunch.com/2025/10/10/iphone-17-pro-max-review-orange-you-glad-the-battery-is-bigger/) (2025-10-10)
+- [Salesforce CEO says National Guard should patrol San Francisco — stunning his own PR team](https://techcrunch.com/2025/10/10/salesforce-ceo-says-national-guard-should-patrol-san-francisco-stunning-his-own-pr-team/) (2025-10-11)
+- [Navan plows ahead with IPO during shutdown, aims for $6.45B valuation ](https://techcrunch.com/2025/10/10/navan-plows-ahead-with-ipo-during-shutdown-aims-for-6-45b-valuation/) (2025-10-10)
+- [Why Deloitte is betting big on AI despite a $10M refund](https://techcrunch.com/video/why-deloitte-is-betting-big-on-ai-despite-a-10m-refund/) (2025-10-10)
+- [Kalshi hits $5B valuation days after rival Polymarket gets $2B NYSE backing at $8B](https://techcrunch.com/2025/10/10/kalshi-hits-5b-valuation-days-after-rival-polymarket-gets-2b-nyse-backing-at-8b/) (2025-10-10)
+- [Google Chrome silences those pesky notifications](https://techcrunch.com/2025/10/10/google-chrome-silences-those-pesky-notifications/) (2025-10-10)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [2025.41: It's OpenAI's World, We're Just Living in It](https://stratechery.com/2025/its-openais-world-were-just-living-in-it/) (2025-10-10)
-- [Regarding the Compact](https://president.mit.edu/writing-speeches/regarding-compact) (2025-10-10)
-- [Boring Company cited for almost 800 environmental violations in Las Vegas](https://www.propublica.org/article/elon-musk-boring-company-violations-fines-vegas-loop) (2025-10-10)
-- ["Vibe code hell" has replaced "tutorial hell" in coding education](https://blog.boot.dev/education/vibe-code-hell/) (2025-10-10)
-- [Show HN: Gitcasso – Syntax Highlighting and Draft Recovery for GitHub Comments](https://github.com/diffplug/gitcasso) (2025-10-10)
+- [Climate goals go up in smoke as US datacenters turn to coal](https://www.theregister.com/2025/10/10/datacenter_coal_power/) (2025-10-11)
+- [They Don't Have the Money: OpenAI Edition](https://platformonomics.com/2025/10/they-dont-have-the-money-openai-edition/) (2025-10-11)
+- [TikTok removing posts for violating the "joy of TikTok"](https://twitter.com/prem_thakker/status/1976786912154386828/) (2025-10-11)
+- [Verge Genomics (YC S15) Is Hiring for Multiple Engineering and Product Roles](https://news.ycombinator.com/item?id=45544636) (2025-10-10)
+- [Liquid Glass Is Cracked, and Usability Suffers in iOS 26](https://www.nngroup.com/articles/liquid-glass/) (2025-10-10)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Hollywood has no idea what to do about AI](https://www.theverge.com/ai-artificial-intelligence/798496/hollywood-openai-training-netflix-paramount-warner) (2025-10-10)
+- [OpenAI allegedly sent police to an AI regulation advocate’s door](https://www.theverge.com/news/798523/openai-ai-regulation-advocates-subpoenas-police) (2025-10-10)
+- [Bose is yanking key features from its SoundTouch speakers](https://www.theverge.com/news/798501/bose-soundtouch-speakers-cloud-discontinue-shut-down) (2025-10-10)
+- [OpenAI is trying to clamp down on ‘bias’ in ChatGPT](https://www.theverge.com/news/798388/openai-chatgpt-political-bias-eval) (2025-10-10)
 - [You can still snag LG’s C4 OLED TV at half the price ](https://www.theverge.com/tech/798322/lg-c4-c5-oled-tv-deal-sale) (2025-10-10)
-- [Chrome will automatically disable web notifications you don’t care about](https://www.theverge.com/news/798122/google-chrome-website-notifications-disable-feature) (2025-10-10)
-- [Boox’s new smartphone-sized e-readers come with a steep price hike](https://www.theverge.com/news/798298/onyx-boox-p6-pro-color-e-ink-color-kaleido-3-5g-sim-card) (2025-10-10)
-- [Samsung SmartThings finally adds support for joining existing Thread networks](https://www.theverge.com/news/798263/samsung-smartthings-thread-border-routers-apple-google-amazon-matter) (2025-10-10)
-- [Apple&#8217;s executive reshuffling isn&#8217;t over](https://www.theverge.com/news/798258/apple-executive-reshuffling-eddy-cue-johnny-srouji) (2025-10-10)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Termite farmers fine-tune their weed control](https://arstechnica.com/science/2025/10/termite-farmers-fine-tune-their-weed-control/) (2025-10-10)
-- [UK regulators plan to force Google changes under new competition law](https://arstechnica.com/google/2025/10/uk-antitrust-regulator-takes-aim-at-googles-search-dominance/) (2025-10-10)
-- [AMD and Sony’s PS6 chipset aims to rethink the current graphics pipeline](https://arstechnica.com/gaming/2025/10/amd-and-sony-tease-new-chip-architecture-ahead-of-playstation-6/) (2025-10-10)
-- [OpenAI will stop saving most ChatGPT users’ deleted chats](https://arstechnica.com/tech-policy/2025/10/openai-no-longer-forced-to-save-deleted-chats-but-some-users-still-affected/) (2025-10-10)
-- [Boring Company cited for almost 800 environmental violations in Las Vegas](https://arstechnica.com/tech-policy/2025/10/boring-company-cited-for-almost-800-environmental-violations-in-las-vegas/) (2025-10-10)
+- [Trump admin fires more health employees amid government shutdown](https://arstechnica.com/health/2025/10/more-federal-health-employees-axed-amid-shutdown-linked-terminations/) (2025-10-10)
+- [Putin OKs plan to turn Russian spacecraft into flying billboards](https://arstechnica.com/space/2025/10/putin-oks-plan-to-turn-russian-spacecraft-into-flying-billboards/) (2025-10-10)
+- [People regret buying Amazon smart displays after being bombarded with ads](https://arstechnica.com/gadgets/2025/10/people-regret-buying-amazon-smart-displays-after-being-bombarded-with-ads/) (2025-10-10)
+- [Marvel gets meta with Wonder Man teaser](https://arstechnica.com/culture/2025/10/marvel-gets-meta-with-wonder-man-teaser/) (2025-10-10)
+- [“Extremely angry” Trump threatens “massive” tariff on all Chinese exports](https://arstechnica.com/tech-policy/2025/10/extremely-angry-trump-threatens-massive-tariff-on-all-chinese-exports/) (2025-10-10)
 
 </details>
 
@@ -97,22 +97,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Understanding DAX Functions in Power BI](https://dev.to/beatrice_njagi/understanding-dax-functions-in-power-bi-59bm) (2025-10-10)
-- [Recommended Approaches for Loading Many Large Images on the Web](https://dev.to/rijultp/recommended-approaches-for-loading-many-large-images-on-the-web-5997) (2025-10-10)
-- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-co9) (2025-10-10)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-11he) (2025-10-10)
-- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid (Live on KEXP)](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-2039) (2025-10-10)
+- [Stop Using SSH Keys in GitHub Actions (Here's What to Use Instead)](https://dev.to/alpacax/stop-using-ssh-keys-in-github-actions-heres-what-to-use-instead-1mbe) (2025-10-11)
+- [How to Set Up NativeWind (Tailwind CSS) in Your Expo React Native App](https://dev.to/cathylai/how-to-set-up-nativewind-tailwind-css-in-your-expo-react-native-app-5g23) (2025-10-11)
+- [Refactoring Code && Git Rebase](https://dev.to/elsad_humbetli_0971c995ce/refactoring-code-git-rebase-2kpm) (2025-10-11)
+- [Onion Architecture (Arquitetura Cebola)](https://dev.to/yuripeixinho/onion-architecture-arquitetura-cebola-3e2a) (2025-10-11)
+- [Title: Harnessing Nuclear Energy for Bitcoin Mining: A French Parliamentary Proposal](https://dev.to/yagyaraj_sharma_6cd410179/title-harnessing-nuclear-energy-for-bitcoin-mining-a-french-parliamentary-proposal-3i8c) (2025-10-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Supercharge Your Flutter API Integration: A Complete Guide to Retrofit](https://medium.com/@dayakumar06588/supercharge-your-flutter-api-integration-a-complete-guide-to-retrofit-5cb25efb104a?source=rss------programming-5) (2025-10-10)
-- [Setting Up Your Local JavaScript Development Environment](https://medium.com/@pawan_joshi/setting-up-your-local-javascript-development-environment-4769b2a778b9?source=rss------programming-5) (2025-10-10)
-- [Why setTimeout(fn, 0) Doesn’t Run Immediately in JavaScript](https://medium.com/front-end-world/why-settimeout-fn-0-doesnt-run-immediately-in-javascript-8d90583ef9d9?source=rss------programming-5) (2025-10-10)
-- [I Rewrote Our Core Spring Boot App In Java 21: What Virtual Threads Really Did For Our Latency](https://medium.com/@toyezyadav/i-rewrote-our-core-spring-boot-app-in-java-21-what-virtual-threads-really-did-for-our-latency-812c2e433f99?source=rss------programming-5) (2025-10-10)
-- [How I Built a Full AI Business in One Afternoon (Without Coding or Products)](https://medium.com/@digitalhustleee/how-i-built-a-full-ai-business-in-one-afternoon-without-coding-or-products-853c89862918?source=rss------programming-5) (2025-10-10)
+- [How I Built an Autonomous AI Research Assistant That Reads, Thinks, and Summarizes Better Than Me](https://medium.com/technology-core/how-i-built-an-autonomous-ai-research-assistant-that-reads-thinks-and-summarizes-better-than-me-65a678ca335c?source=rss------programming-5) (2025-10-11)
+- [Reactive Forms versus Template-Driven Forms: 5 Reasons I Will Never Go Back](https://medium.com/@Krishnajlathi/reactive-forms-versus-template-driven-forms-5-reasons-i-will-never-go-back-274844056ac7?source=rss------programming-5) (2025-10-11)
+- [The Android Lifecycle Mistakes That Cost Me a Job Offer](https://trricho.medium.com/the-android-lifecycle-mistakes-that-cost-me-a-job-offer-7c98a7713319?source=rss------programming-5) (2025-10-11)
+- [5 Reasons Your Next.js App is Slow (And How to Fix Them)](https://javascript.plainenglish.io/5-reasons-your-next-js-app-is-slow-and-how-to-fix-them-8ebd99f7d1d8?source=rss------programming-5) (2025-10-11)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jdyd52713/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-61812917895a?source=rss------programming-5) (2025-10-11)
 
 </details>
 
@@ -362,6 +363,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Senders Gain Access to More Data with Yahoo ‘Insights’ 
+](
+https://www.twilio.com/en-us/blog/insights/yahoo-insights
+) (2025-10-09)
+- [
 From Traffic Jams to Green Lights: Faster, Smarter Messaging with Twilio’s Traffic Optimization Engine
 ](
 https://www.twilio.com/en-us/blog/products/traffic_optimization_engine
@@ -380,11 +386,6 @@ https://www.twilio.com/en-us/blog/developers/community/scheduling-sms-laravel-tw
 Introducing Customer Intelligence for Advertisers
 ](
 https://www.twilio.com/en-us/blog/products/launches/customer-intelligence-for-advertisers
-) (2025-10-06)
-- [
-Twilio Segment Unify: Expert Answers to Profiles, Journeys, and Secure Activation
-](
-https://www.twilio.com/en-us/blog/insights/best-practices/segment-unify-webinar-q-and-a
 ) (2025-10-06)
 
 </details>
