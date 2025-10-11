@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The fixer’s dilemma: Chris Lehane and OpenAI’s impossible mission](https://techcrunch.com/2025/10/10/the-fixers-dilemma-chris-lehane-and-openais-impossible-mission/) (2025-10-11)
 - [Salesforce CEO says National Guard should patrol San Francisco — stunning his own PR team](https://techcrunch.com/2025/10/10/salesforce-ceo-says-national-guard-should-patrol-san-francisco-stunning-his-own-pr-team/) (2025-10-11)
 - [Navan plows ahead with IPO during shutdown, aims for $6.45B valuation ](https://techcrunch.com/2025/10/10/navan-plows-ahead-with-ipo-during-shutdown-aims-for-6-45b-valuation/) (2025-10-10)
 - [Why Deloitte is betting big on AI despite a $10M refund](https://techcrunch.com/video/why-deloitte-is-betting-big-on-ai-despite-a-10m-refund/) (2025-10-10)
 - [Kalshi hits $5B valuation days after rival Polymarket gets $2B NYSE backing at $8B](https://techcrunch.com/2025/10/10/kalshi-hits-5b-valuation-days-after-rival-polymarket-gets-2b-nyse-backing-at-8b/) (2025-10-10)
-- [Google Chrome silences those pesky notifications](https://techcrunch.com/2025/10/10/google-chrome-silences-those-pesky-notifications/) (2025-10-10)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Climate goals go up in smoke as US datacenters turn to coal](https://www.theregister.com/2025/10/10/datacenter_coal_power/) (2025-10-11)
-- [They Don't Have the Money: OpenAI Edition](https://platformonomics.com/2025/10/they-dont-have-the-money-openai-edition/) (2025-10-11)
-- [TikTok removing posts for violating the "joy of TikTok"](https://twitter.com/prem_thakker/status/1976786912154386828/) (2025-10-11)
+- [What Is Going on with All This Radioactive Shrimp?](https://www.consumerreports.org/health/food-safety/radioactive-shrimp-explained-a5493175857/) (2025-10-11)
+- [How hard do you have to hit a chicken to cook it? (2020)](https://james-simon.github.io/blog/chicken-cooking/) (2025-10-11)
+- [Programming in the Sun: A Year with the Daylight Computer](https://wickstrom.tech/2025-10-10-programming-in-the-sun-a-year-with-the-daylight-computer.html) (2025-10-10)
+- [In a post-truth world truth-seeking is more important](https://iai.tv/articles/in-a-post-truth-world-truth-seeking-is-more-important-than-ever-auid-3382) (2025-10-10)
 - [Verge Genomics (YC S15) Is Hiring for Multiple Engineering and Product Roles](https://news.ycombinator.com/item?id=45544636) (2025-10-10)
-- [Liquid Glass Is Cracked, and Usability Suffers in iOS 26](https://www.nngroup.com/articles/liquid-glass/) (2025-10-10)
 
 </details>
 
@@ -97,23 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Stop Using SSH Keys in GitHub Actions (Here's What to Use Instead)](https://dev.to/alpacax/stop-using-ssh-keys-in-github-actions-heres-what-to-use-instead-1mbe) (2025-10-11)
-- [How to Set Up NativeWind (Tailwind CSS) in Your Expo React Native App](https://dev.to/cathylai/how-to-set-up-nativewind-tailwind-css-in-your-expo-react-native-app-5g23) (2025-10-11)
-- [Refactoring Code && Git Rebase](https://dev.to/elsad_humbetli_0971c995ce/refactoring-code-git-rebase-2kpm) (2025-10-11)
-- [Onion Architecture (Arquitetura Cebola)](https://dev.to/yuripeixinho/onion-architecture-arquitetura-cebola-3e2a) (2025-10-11)
-- [Title: Harnessing Nuclear Energy for Bitcoin Mining: A French Parliamentary Proposal](https://dev.to/yagyaraj_sharma_6cd410179/title-harnessing-nuclear-energy-for-bitcoin-mining-a-french-parliamentary-proposal-3i8c) (2025-10-11)
+- [COLORS: SABRI - Sold Myself For Love | A COLORS SHOW](https://dev.to/music_youtube/colors-sabri-sold-myself-for-love-a-colors-show-1g7h) (2025-10-11)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4fcg) (2025-10-11)
+- [KEXP: Wet Leg - mangetout (Live on KEXP)](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-4fp5) (2025-10-11)
+- [KEXP: Wet Leg - davina mccall (Live on KEXP)](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-4fna) (2025-10-11)
+- [Trash Theory: The Most Bizarre UK No. 1s of the 1990s](https://dev.to/music_youtube/trash-theory-the-most-bizarre-uk-no-1s-of-the-1990s-26eh) (2025-10-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How I Built an Autonomous AI Research Assistant That Reads, Thinks, and Summarizes Better Than Me](https://medium.com/technology-core/how-i-built-an-autonomous-ai-research-assistant-that-reads-thinks-and-summarizes-better-than-me-65a678ca335c?source=rss------programming-5) (2025-10-11)
-- [Reactive Forms versus Template-Driven Forms: 5 Reasons I Will Never Go Back](https://medium.com/@Krishnajlathi/reactive-forms-versus-template-driven-forms-5-reasons-i-will-never-go-back-274844056ac7?source=rss------programming-5) (2025-10-11)
-- [The Android Lifecycle Mistakes That Cost Me a Job Offer](https://trricho.medium.com/the-android-lifecycle-mistakes-that-cost-me-a-job-offer-7c98a7713319?source=rss------programming-5) (2025-10-11)
-- [5 Reasons Your Next.js App is Slow (And How to Fix Them)](https://javascript.plainenglish.io/5-reasons-your-next-js-app-is-slow-and-how-to-fix-them-8ebd99f7d1d8?source=rss------programming-5) (2025-10-11)
-- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jdyd52713/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-61812917895a?source=rss------programming-5) (2025-10-11)
+- [Java Programming Essentials: Code Your Way to Success](https://medium.com/@nakulnegi3800/java-programming-essentials-code-your-way-to-success-d9985d30863e?source=rss------programming-5) (2025-10-11)
+- [CI/CD Basics on Linux (Git Hooks)](https://medium.com/codetodeploy/ci-cd-basics-on-linux-git-hooks-6f54951e3673?source=rss------programming-5) (2025-10-11)
+- [Instant answers in the browser with Edge Copilot](https://medium.com/@lancegabrielwork91/instant-answers-in-the-browser-with-edge-copilot-d97f739705f2?source=rss------programming-5) (2025-10-11)
+- [The Brutal Truth About Making Money Online That Every Guru Is Hiding From You (And Why You’re…](https://medium.com/codetodeploy/the-brutal-truth-about-making-money-online-that-every-guru-is-hiding-from-you-and-why-youre-2fffff0ae006?source=rss------programming-5) (2025-10-11)
+- [What I Learned After Reading 10,000 Lines of “Bad” Python Code](https://medium.com/the-pythonworld/what-i-learned-after-reading-10-000-lines-of-bad-python-code-5004e5600fa4?source=rss------programming-5) (2025-10-11)
 
 </details>
 
