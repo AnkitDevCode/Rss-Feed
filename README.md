@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [LineageOS 23](https://lineageos.org/Changelog-30/) (2025-10-11)
-- [Vancouver Stock Exchange: Scam capital of the world (1989) [pdf]](https://scamcouver.wordpress.com/wp-content/uploads/2012/04/scam-capital.pdf) (2025-10-11)
-- [Google blocks Android hack that let Pixel users enable VoLTE anywhere](https://www.androidauthority.com/pixel-ims-broken-october-update-3606444/) (2025-10-11)
-- [Meta Superintelligence's surprising first paper](https://paddedinputs.substack.com/p/meta-superintelligences-surprising) (2025-10-11)
-- [The story of X-Copy on the Amiga](https://spillhistorie.no/2025/10/10/the-story-of-x-copy-on-the-amiga/) (2025-10-11)
+- [Spyware maker NSO Group confirms acquisition by US investors](https://techcrunch.com/2025/10/10/spyware-maker-nso-group-confirms-acquisition-by-us-investors/) (2025-10-12)
+- [Pipelining in psql (PostgreSQL 18)](https://postgresql.verite.pro/blog/2025/10/01/psql-pipeline.html) (2025-10-12)
+- [Major security breach at Austrian AI startup localmind.ai](https://localmind.ai/) (2025-10-12)
+- [Coral Protocol Open Infrastructure Connecting the Internet of Agents](https://arxiv.org/abs/2505.00749) (2025-10-12)
+- [China's New Rare Earth and Magnet Restrictions Threaten US Defense Supply Chains](https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains) (2025-10-12)
 
 </details>
 
@@ -97,26 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Determining the Maximum Decimal Digits at Compile-Time](https://dev.to/pauljlucas/determining-the-maximum-decimal-digits-at-compile-time-40lb) (2025-10-12)
-- [Everyone wants prompt templates, and most developers ask AI for answers. Few ask AI for structure, clarity, frameworks, and thought direction.
-
-That’s the difference between regular ChatGPT users & Expert ChatGPT users.](https://dev.to/jaideepparashar/everyone-wants-prompt-templates-and-most-developers-ask-ai-for-answers-few-ask-ai-for-structure-pla) (2025-10-12)
-- [Introducing Varkit: Dynamic CSS Variables for React with TypeScript](https://dev.to/kunaltanwar/introducing-varkit-dynamic-css-variables-for-react-with-typescript-584f) (2025-10-12)
-- [The 9 Best CLIs with Artificial Intelligence](https://dev.to/nube_colectiva_nc/the-9-best-clis-with-artificial-intelligence-3lim) (2025-10-12)
-- [The Hidden Power of ChatGPT Prompts Nobody Talks About](https://dev.to/jaideepparashar/the-hidden-power-of-chatgpt-prompts-nobody-talks-about-558f) (2025-10-12)
+- [Systems As Mirrors](https://dev.to/interstelios/systems-as-mirrors-3g5n) (2025-10-12)
+- [Stop “Vibe Coding”: What Worked for Me as a Front-End Tech Lead](https://dev.to/haco29/stop-vibe-coding-what-worked-for-me-as-a-front-end-tech-lead-1ljh) (2025-10-12)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-8d1) (2025-10-12)
+- [KEXP: Babe Rainbow - Aquarium cowgirl (Live on KEXP)](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-49cf) (2025-10-12)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid (Live on KEXP)](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-502) (2025-10-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How I Designed Autonomous Agents That Build, Learn, and Evolve Themselves](https://medium.com/codrift/how-i-designed-autonomous-agents-that-build-learn-and-evolve-themselves-38a65b5c98eb?source=rss------programming-5) (2025-10-12)
-- [The Dark Side of Python Mastery: Why Most Developers Plateau Without Realizing It](https://medium.com/write-a-catalyst/the-dark-side-of-python-mastery-why-most-developers-plateau-without-realizing-it-a153b4332364?source=rss------programming-5) (2025-10-12)
-- [09389632898شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mrymtkhty34/09389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-4d1d62ae2ca2?source=rss------programming-5) (2025-10-12)
-- [09389632898شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mrymtkhty34/09389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-9c01829cc2ab?source=rss------programming-5) (2025-10-12)
-- [09336086822شماره خاله #شماره خاله #تهران #شماره خاله #شیراز #شماره خاله #کرج # شماره خاله # اهواز…](https://medium.com/@mrymthranyshyrazy/09336086822%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-36fe4967c56b?source=rss------programming-5) (2025-10-12)
+- [Why Uber, Netflix, and Cloudflare Bet on Go -And Won](https://medium.com/@thecodingwizard3/why-uber-netflix-and-cloudflare-bet-on-go-and-won-63203f37ed4b?source=rss------programming-5) (2025-10-12)
+- [How I Built an AI That Writes Like Me (and Why It Was Harder Than Writing It Myself)](https://ai.plainenglish.io/how-i-built-an-ai-that-writes-like-me-and-why-it-was-harder-than-writing-it-myself-b348175913f4?source=rss------programming-5) (2025-10-12)
+- [The Python Hack That Automatically Summarizes Every Article I Read](https://medium.com/codrift/the-python-hack-that-automatically-summarizes-every-article-i-read-ae2a1b184f63?source=rss------programming-5) (2025-10-12)
+- [The Python Script That Turns My Daily Tasks Into Automated Workflows](https://medium.com/codrift/the-python-script-that-turns-my-daily-tasks-into-automated-workflows-4c1e00e9dbb0?source=rss------programming-5) (2025-10-12)
+- [8 Python Libraries So Good, I Stopped Writing My Own Code](https://python.plainenglish.io/8-python-libraries-so-good-i-stopped-writing-my-own-code-df4c0cd10f95?source=rss------programming-5) (2025-10-12)
 
 </details>
 
@@ -134,11 +130,11 @@ That’s the difference between regular ChatGPT users & Expert ChatGPT users.](h
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft Azure delivers the first large scale cluster with NVIDIA GB300 NVL72 for OpenAI workloads](https://azure.microsoft.com/en-us/blog/microsoft-azure-delivers-the-first-large-scale-cluster-with-nvidia-gb300-nvl72-for-openai-workloads/) (2025-10-09)
+- [Microsoft’s commitment to supporting cloud infrastructure demand in Asia](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-asia/) (2025-10-09)
 - [Unleash your creativity at scale: Azure AI Foundry’s multimodal revolution](https://azure.microsoft.com/en-us/blog/unleash-your-creativity-at-scale-azure-ai-foundrys-multimodal-revolution/) (2025-10-06)
 - [Introducing Microsoft Agent Framework](https://azure.microsoft.com/en-us/blog/introducing-microsoft-agent-framework/) (2025-10-01)
 - [Grok 4 is now available in Azure AI Foundry: Unlock frontier intelligence and business-ready capabilities](https://azure.microsoft.com/en-us/blog/grok-4-is-now-available-in-azure-ai-foundry-unlock-frontier-intelligence-and-business-ready-capabilities/) (2025-09-29)
-- [Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.](https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/) (2025-09-25)
-- [Agent Factory: Designing the open agentic web stack](https://azure.microsoft.com/en-us/blog/agent-factory-designing-the-open-agentic-web-stack/) (2025-09-24)
 
 </details>
 
@@ -572,11 +568,11 @@ https://www.twilio.com/en-us/blog/products/launches/customer-intelligence-for-ad
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Rethinking Data Products With Snowflake Native Apps for Next-Gen Secure Deployment](https://www.analyticsvidhya.com/blog/2025/10/data-products-with-snowflake-native-apps/) (2025-10-12)
+- [10 Cool Tricks Modern LLM Design Uses](https://www.analyticsvidhya.com/blog/2025/10/modern-llm-designs/) (2025-10-12)
 - [Building an AI Agent Tutorial – Part 1 of 2: YouTube Summarizer Agent](https://www.analyticsvidhya.com/blog/2025/10/building-an-ai-agent-tutorial-part-1/) (2025-10-11)
 - [Building an AI Agent Tutorial – Part 2: Make Your Own Study Planner Agent](https://www.analyticsvidhya.com/blog/2025/10/building-study-planner-agent-ai-agent-tutorial/) (2025-10-11)
 - [The Data Science Behind Zepto’s 10-Minute Delivery Success](https://www.analyticsvidhya.com/blog/2025/10/zepto-data-science/) (2025-10-10)
-- [You Can’t Miss These 15 FREE Courses on AI Agents](https://www.analyticsvidhya.com/blog/2025/10/free-ai-agent-courses/) (2025-10-10)
-- [Better Than ChatGPT and Claude? GLM 4.6 Might Surprise You](https://www.analyticsvidhya.com/blog/2025/10/glm-4-6/) (2025-10-09)
 
 </details>
 
@@ -594,11 +590,11 @@ https://www.twilio.com/en-us/blog/products/launches/customer-intelligence-for-ad
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Building Transformer Models from Scratch with PyTorch (10-day Mini-Course)](https://machinelearningmastery.com/building-transformer-models-from-scratch-with-pytorch-10-day-mini-course/) (2025-10-12)
 - [The Machine Learning Practitioner’s Guide to Agentic AI Systems](https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-agentic-ai-systems/) (2025-10-10)
 - [Build an Inference Cache to Save Costs in High-Traffic LLM Apps](https://machinelearningmastery.com/build-an-inference-cache-to-save-costs-in-high-traffic-llm-apps/) (2025-10-09)
 - [7 NumPy Tricks to Vectorize Your Code](https://machinelearningmastery.com/7-numpy-tricks-to-vectorize-your-code/) (2025-10-08)
 - [Is ChatGPT-5 Able to Provide Proofs for Advanced Mathematics?](https://machinelearningmastery.com/is-chatgpt-5-able-to-provide-proofs-for-advanced-mathematics/) (2025-10-07)
-- [A Decision Matrix for Time Series Forecasting Models](https://machinelearningmastery.com/a-decision-matrix-for-time-series-forecasting-models/) (2025-10-06)
 
 </details>
 
