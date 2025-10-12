@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The ZoraSafe app wants to protect older people online and will present at TechCrunch Disrupt 2025 ](https://techcrunch.com/2025/10/12/the-zorasafe-app-wants-to-protect-older-people-online-and-will-present-at-techcrunch-disrupt-2025/) (2025-10-12)
+- [Elon Musk vs. the regulators](https://techcrunch.com/2025/10/12/elon-musk-vs-the-regulators/) (2025-10-12)
+- [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/10/12/nvidias-ai-empire-a-look-at-its-top-startup-investments/) (2025-10-12)
+- [Dating app Cerca will show how Gen Z really dates at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/12/dating-app-cerca-will-show-how-gen-z-really-dates-at-techcrunch-disrupt-2025/) (2025-10-12)
 - [Thinking Machines Lab co-founder Andrew Tulloch heads to Meta](https://techcrunch.com/2025/10/11/thinking-machines-lab-co-founder-andrew-tulloch-heads-to-meta/) (2025-10-11)
-- [Apple says goodbye to the Clips app](https://techcrunch.com/2025/10/11/apple-says-goodbye-to-the-clips-app/) (2025-10-11)
-- [Ready or not, enterprises are betting on AI](https://techcrunch.com/2025/10/11/ready-or-not-enterprises-are-betting-on-ai/) (2025-10-11)
-- [Prince Harry and Meghan call out the harmful effects of social media on today’s youth](https://techcrunch.com/2025/10/11/prince-harry-and-meghan-call-out-the-harmful-effects-of-social-media-on-todays-youth/) (2025-10-11)
-- [Trump fires back at China’s rare earth mineral restrictions by threatening 100% tariffs](https://techcrunch.com/2025/10/11/trump-fires-back-at-chinas-rare-earth-mineral-restrictions-by-threatening-100-tariffs/) (2025-10-11)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Blood test detecting Long Covid in kids with 94% accuracy microclots](https://www.researchsquare.com/article/rs-7483367/v1) (2025-10-12)
-- [Why Wikipedia cannot claim the Earth is not flat](https://en.wikipedia.org/wiki/Wikipedia:Why_Wikipedia_cannot_claim_the_Earth_is_not_flat) (2025-10-12)
-- [Macro Gaussian Splats](https://danybittel.ch/macro.html) (2025-10-12)
-- [Nostr and ATProto (2024)](https://shreyanjain.net/2024/07/05/nostr-and-atproto.html) (2025-10-12)
-- [Why it took 4 years to get a lock files specification](https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/) (2025-10-12)
+- [Kuzu DB devs no longer supporting the project](https://kuzudb.com) (2025-10-12)
+- [Wireguard FPGA](https://github.com/chili-chips-ba/wireguard-fpga) (2025-10-12)
+- ['Death to Spotify': the DIY movement to get artists and fans to quit the app](https://www.theguardian.com/technology/2025/oct/12/spotify-boycott-artists) (2025-10-12)
+- [GitHub Copilot: Remote Code Execution via Prompt Injection (CVE-2025-53773)](https://embracethered.com/blog/posts/2025/github-copilot-remote-code-execution-via-prompt-injection/) (2025-10-12)
+- [In 1776, Thomas Paine made the best case for fighting kings −and being skeptical](https://theconversation.com/in-1776-thomas-paine-made-the-best-case-for-fighting-kings-and-for-being-skeptical-266448) (2025-10-12)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [You need to watch the bonkers Japanese fantasy horror film House](https://www.theverge.com/entertainment/798719/watch-japanese-horror-fantasy-film-house-halloween) (2025-10-12)
+- [Amazon awkwardly edited the guns out of James Bond art](https://www.theverge.com/news/798712/amazon-awkwardly-edited-the-guns-out-of-james-bond-art) (2025-10-12)
+- [Police are asking kids to stop pulling AI homeless man prank](https://www.theverge.com/news/798681/police-stop-pulling-ai-homeless-man-tiktok-prank) (2025-10-12)
+- [How BlackBerry Messenger set texting free](https://www.theverge.com/podcast/798692/how-blackberry-messenger-set-texting-free) (2025-10-12)
 - [Welcome to the ‘papers, please’ internet](https://www.theverge.com/column/798159/age-gating-internet) (2025-10-12)
-- [ChatGPT is becoming an everything app](https://www.theverge.com/tech/798368/chatgpt-everything-app-chair-company-installer) (2025-10-12)
-- [Apple ends support for Clips video-editing app](https://www.theverge.com/news/798676/apple-ends-support-for-clips-video-editing-app) (2025-10-11)
-- [How Verge readers, and writers, are managing our kids&#8217; screen time](https://www.theverge.com/tech/798648/how-verge-parents-and-readers-manage-kids-screen-time) (2025-10-11)
-- [The AirPods 4 and Lego’s brick-ified Grogu are our favorite deals this week](https://www.theverge.com/tech/798362/apple-airpods-4-lego-star-wars-grogu-deal-sale) (2025-10-11)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Understanding React Hooks: Simplifying State and Logic (Without Losing Your Mind)](https://dev.to/aryan_jain/understanding-react-hooks-simplifying-state-and-logic-without-losing-your-mind-10pj) (2025-10-12)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4i20) (2025-10-12)
-- [KEXP: Babe Rainbow - Aquarium cowgirl (Live on KEXP)](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-4o30) (2025-10-12)
-- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid (Live on KEXP)](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-16pa) (2025-10-12)
-- [Polyphonic: When artists don't write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-fja) (2025-10-12)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-1ei2) (2025-10-12)
+- [KEXP: Wet Leg - mangetout (Live on KEXP)](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-565e) (2025-10-12)
+- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-17pp) (2025-10-12)
+- [Rick Beato: My Thoughts on Rush's NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-589p) (2025-10-12)
+- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-1d8m) (2025-10-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Coder, Programmer, Software Developer, atau Software Engineer?](https://dittmptrr27.medium.com/code-programmer-software-developer-atau-software-engineer-9b9dd3e4e04d?source=rss------programming-5) (2025-10-12)
-- [Day 1 — What Is Machine Learning in Simple Words](https://medium.com/@ShubhamVerma28/day-1-what-is-machine-learning-in-simple-words-270f47426dc8?source=rss------programming-5) (2025-10-12)
-- [09360627233شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز شماره خاله اسلامشهر شماره خاله…](https://medium.com/@dktr920/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-15c3f2181773?source=rss------programming-5) (2025-10-12)
-- [09360627233شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز شماره خاله اسلامشهر شماره خاله…](https://medium.com/@dktr920/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-676c5fca4832?source=rss------programming-5) (2025-10-12)
-- [09360627233شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز شماره خاله اسلامشهر شماره خاله…](https://medium.com/@dktr920/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-94ff7c6d752f?source=rss------programming-5) (2025-10-12)
+- [How Python Handles References and Mutable Objects](https://medium.com/@matilitheory/how-python-handles-references-and-mutable-objects-315a6f344b31?source=rss------programming-5) (2025-10-12)
+- [Go Slices: Mechanics, Memory, and Design Philosophy](https://medium.com/programmers-career/go-slices-mechanics-memory-and-design-philosophy-4b15d8c76705?source=rss------programming-5) (2025-10-12)
+- [Hangi Programlama Dili ile Başlamalıyım?](https://medium.com/@hsdzaimu/hangi-programlama-dili-ile-ba%C5%9Flamal%C4%B1y%C4%B1m-5484942f8528?source=rss------programming-5) (2025-10-12)
+- [How I Learned The Rare Skill Of Reviewing Senior Developers’ Code](https://medium.com/@vndpal/how-i-learned-the-rare-skill-of-reviewing-senior-developers-code-fa3233cd933f?source=rss------programming-5) (2025-10-12)
+- [How to Find Common Characters Between Two Strings in Java](https://medium.com/@AlexanderObregon/how-to-find-common-characters-between-two-strings-in-java-26a6d1cf5885?source=rss------programming-5) (2025-10-12)
 
 </details>
 
