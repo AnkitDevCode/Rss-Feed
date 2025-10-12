@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Thinking Machines Lab co-founder Andrew Tulloch heads to Meta](https://techcrunch.com/2025/10/11/thinking-machines-lab-co-founder-andrew-tulloch-heads-to-meta/) (2025-10-11)
+- [Apple says goodbye to the Clips app](https://techcrunch.com/2025/10/11/apple-says-goodbye-to-the-clips-app/) (2025-10-11)
 - [Ready or not, enterprises are betting on AI](https://techcrunch.com/2025/10/11/ready-or-not-enterprises-are-betting-on-ai/) (2025-10-11)
 - [Prince Harry and Meghan call out the harmful effects of social media on today’s youth](https://techcrunch.com/2025/10/11/prince-harry-and-meghan-call-out-the-harmful-effects-of-social-media-on-todays-youth/) (2025-10-11)
 - [Trump fires back at China’s rare earth mineral restrictions by threatening 100% tariffs](https://techcrunch.com/2025/10/11/trump-fires-back-at-chinas-rare-earth-mineral-restrictions-by-threatening-100-tariffs/) (2025-10-11)
-- [It’s not too late for Apple to get AI right](https://techcrunch.com/2025/10/11/its-not-too-late-for-apple-to-get-ai-right/) (2025-10-11)
-- [The fixer’s dilemma: Chris Lehane and OpenAI’s impossible mission](https://techcrunch.com/2025/10/10/the-fixers-dilemma-chris-lehane-and-openais-impossible-mission/) (2025-10-11)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: Gnokestation Is an Ultra Lightweight Web Desktop Environment](https://gnokestation.netlify.app) (2025-10-11)
-- [GNU Health](https://www.gnuhealth.org/about-us.html) (2025-10-11)
-- [How to Check for Overlapping Intervals](https://zayenz.se/blog/post/how-to-check-for-overlapping-intervals/) (2025-10-11)
-- [Microsoft Amplifier](https://github.com/microsoft/amplifier) (2025-10-11)
-- [Vibing a non-trivial Ghostty feature](https://mitchellh.com/writing/non-trivial-vibing) (2025-10-11)
+- [LineageOS 23](https://lineageos.org/Changelog-30/) (2025-10-11)
+- [Vancouver Stock Exchange: Scam capital of the world (1989) [pdf]](https://scamcouver.wordpress.com/wp-content/uploads/2012/04/scam-capital.pdf) (2025-10-11)
+- [Google blocks Android hack that let Pixel users enable VoLTE anywhere](https://www.androidauthority.com/pixel-ims-broken-october-update-3606444/) (2025-10-11)
+- [Meta Superintelligence's surprising first paper](https://paddedinputs.substack.com/p/meta-superintelligences-surprising) (2025-10-11)
+- [The story of X-Copy on the Amiga](https://spillhistorie.no/2025/10/10/the-story-of-x-copy-on-the-amiga/) (2025-10-11)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [How The Verge and our readers manage kids’ screen time](https://www.theverge.com/tech/798648/how-verge-parents-and-readers-manage-kids-screen-time) (2025-10-11)
+- [Apple ends support for Clips video-editing app](https://www.theverge.com/news/798676/apple-ends-support-for-clips-video-editing-app) (2025-10-11)
+- [How Verge readers, and writers, are managing our kids&#8217; screen time](https://www.theverge.com/tech/798648/how-verge-parents-and-readers-manage-kids-screen-time) (2025-10-11)
 - [The AirPods 4 and Lego’s brick-ified Grogu are our favorite deals this week](https://www.theverge.com/tech/798362/apple-airpods-4-lego-star-wars-grogu-deal-sale) (2025-10-11)
 - [American politics has devolved into shitposting and aura farming](https://www.theverge.com/policy/798491/frog-portland-trump-national-guard) (2025-10-11)
 - [Dreams of Another feels like a fever dream](https://www.theverge.com/games/795553/dreams-of-another-review-ps5-pc) (2025-10-11)
-- [Is the Coros Nomad really an adventure watch?](https://www.theverge.com/tech/798613/coros-nomad-thru-hike-rucking) (2025-10-11)
 
 </details>
 
@@ -97,22 +97,26 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid (Live on KEXP)](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-52ej) (2025-10-11)
-- [KEXP: Wet Leg - davina mccall (Live on KEXP)](https://dev.to/music_youtube/kexp-wet-leg-davina-mccall-live-on-kexp-3mci) (2025-10-11)
-- [Trash Theory: The Most Bizarre UK No. 1s of the 1990s](https://dev.to/music_youtube/trash-theory-the-most-bizarre-uk-no-1s-of-the-1990s-1k1c) (2025-10-11)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-52hm) (2025-10-11)
-- [Rick Beato: My Thoughts on Rush's NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-4fc8) (2025-10-11)
+- [Determining the Maximum Decimal Digits at Compile-Time](https://dev.to/pauljlucas/determining-the-maximum-decimal-digits-at-compile-time-40lb) (2025-10-12)
+- [Everyone wants prompt templates, and most developers ask AI for answers. Few ask AI for structure, clarity, frameworks, and thought direction.
+
+That’s the difference between regular ChatGPT users & Expert ChatGPT users.](https://dev.to/jaideepparashar/everyone-wants-prompt-templates-and-most-developers-ask-ai-for-answers-few-ask-ai-for-structure-pla) (2025-10-12)
+- [Introducing Varkit: Dynamic CSS Variables for React with TypeScript](https://dev.to/kunaltanwar/introducing-varkit-dynamic-css-variables-for-react-with-typescript-584f) (2025-10-12)
+- [The 9 Best CLIs with Artificial Intelligence](https://dev.to/nube_colectiva_nc/the-9-best-clis-with-artificial-intelligence-3lim) (2025-10-12)
+- [The Hidden Power of ChatGPT Prompts Nobody Talks About](https://dev.to/jaideepparashar/the-hidden-power-of-chatgpt-prompts-nobody-talks-about-558f) (2025-10-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Becoming Advanced in Any Program and Reaching Knowledge Saturation](https://medium.com/@demirhanyasin77/becoming-advanced-in-any-program-and-reaching-knowledge-saturation-f293c8013cad?source=rss------programming-5) (2025-10-11)
-- [⚡ Next.js 15 Deep Dive: The Future of Full-Stack React Development](https://medium.com/@Sofia07/next-js-15-deep-dive-the-future-of-full-stack-react-development-36b0c07b7205?source=rss------programming-5) (2025-10-11)
-- [The Messaging Arena: How Apache Pulsar Takes on Kafka and RabbitMQ](https://isjain35.medium.com/the-messaging-arena-how-apache-pulsar-takes-on-kafka-and-rabbitmq-4c29d75c1752?source=rss------programming-5) (2025-10-11)
-- [7 Python Libraries That Keep My Code Bug-Free](https://medium.com/@abdur.rahman12/7-python-libraries-that-keep-my-code-bug-free-bedc0140ad8a?source=rss------programming-5) (2025-10-11)
-- [ETL Data Pipeline in Oracle](https://medium.com/@pranavsb699/etl-data-pipeline-in-air-cargo-operations-streamlining-shipment-data-138cfa70fec9?source=rss------programming-5) (2025-10-11)
+- [How I Designed Autonomous Agents That Build, Learn, and Evolve Themselves](https://medium.com/codrift/how-i-designed-autonomous-agents-that-build-learn-and-evolve-themselves-38a65b5c98eb?source=rss------programming-5) (2025-10-12)
+- [The Dark Side of Python Mastery: Why Most Developers Plateau Without Realizing It](https://medium.com/write-a-catalyst/the-dark-side-of-python-mastery-why-most-developers-plateau-without-realizing-it-a153b4332364?source=rss------programming-5) (2025-10-12)
+- [09389632898شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mrymtkhty34/09389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-4d1d62ae2ca2?source=rss------programming-5) (2025-10-12)
+- [09389632898شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mrymtkhty34/09389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-9c01829cc2ab?source=rss------programming-5) (2025-10-12)
+- [09336086822شماره خاله #شماره خاله #تهران #شماره خاله #شیراز #شماره خاله #کرج # شماره خاله # اهواز…](https://medium.com/@mrymthranyshyrazy/09336086822%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-36fe4967c56b?source=rss------programming-5) (2025-10-12)
 
 </details>
 
@@ -130,11 +134,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Microsoft Azure delivers the first large scale cluster with NVIDIA GB300 NVL72 for OpenAI workloads](https://azure.microsoft.com/en-us/blog/microsoft-azure-delivers-the-first-large-scale-cluster-with-nvidia-gb300-nvl72-for-openai-workloads/) (2025-10-09)
-- [Microsoft’s commitment to supporting cloud infrastructure demand in Asia](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-asia/) (2025-10-09)
 - [Unleash your creativity at scale: Azure AI Foundry’s multimodal revolution](https://azure.microsoft.com/en-us/blog/unleash-your-creativity-at-scale-azure-ai-foundrys-multimodal-revolution/) (2025-10-06)
 - [Introducing Microsoft Agent Framework](https://azure.microsoft.com/en-us/blog/introducing-microsoft-agent-framework/) (2025-10-01)
 - [Grok 4 is now available in Azure AI Foundry: Unlock frontier intelligence and business-ready capabilities](https://azure.microsoft.com/en-us/blog/grok-4-is-now-available-in-azure-ai-foundry-unlock-frontier-intelligence-and-business-ready-capabilities/) (2025-09-29)
+- [Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.](https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/) (2025-09-25)
+- [Agent Factory: Designing the open agentic web stack](https://azure.microsoft.com/en-us/blog/agent-factory-designing-the-open-agentic-web-stack/) (2025-09-24)
 
 </details>
 
