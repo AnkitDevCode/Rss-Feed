@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Spyware maker NSO Group confirms acquisition by US investors](https://techcrunch.com/2025/10/10/spyware-maker-nso-group-confirms-acquisition-by-us-investors/) (2025-10-12)
-- [Pipelining in psql (PostgreSQL 18)](https://postgresql.verite.pro/blog/2025/10/01/psql-pipeline.html) (2025-10-12)
-- [Major security breach at Austrian AI startup localmind.ai](https://localmind.ai/) (2025-10-12)
-- [Coral Protocol Open Infrastructure Connecting the Internet of Agents](https://arxiv.org/abs/2505.00749) (2025-10-12)
-- [China's New Rare Earth and Magnet Restrictions Threaten US Defense Supply Chains](https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains) (2025-10-12)
+- [Blood test detecting Long Covid in kids with 94% accuracy microclots](https://www.researchsquare.com/article/rs-7483367/v1) (2025-10-12)
+- [Why Wikipedia cannot claim the Earth is not flat](https://en.wikipedia.org/wiki/Wikipedia:Why_Wikipedia_cannot_claim_the_Earth_is_not_flat) (2025-10-12)
+- [Macro Gaussian Splats](https://danybittel.ch/macro.html) (2025-10-12)
+- [Nostr and ATProto (2024)](https://shreyanjain.net/2024/07/05/nostr-and-atproto.html) (2025-10-12)
+- [Why it took 4 years to get a lock files specification](https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/) (2025-10-12)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Welcome to the ‘papers, please’ internet](https://www.theverge.com/column/798159/age-gating-internet) (2025-10-12)
+- [ChatGPT is becoming an everything app](https://www.theverge.com/tech/798368/chatgpt-everything-app-chair-company-installer) (2025-10-12)
 - [Apple ends support for Clips video-editing app](https://www.theverge.com/news/798676/apple-ends-support-for-clips-video-editing-app) (2025-10-11)
 - [How Verge readers, and writers, are managing our kids&#8217; screen time](https://www.theverge.com/tech/798648/how-verge-parents-and-readers-manage-kids-screen-time) (2025-10-11)
 - [The AirPods 4 and Lego’s brick-ified Grogu are our favorite deals this week](https://www.theverge.com/tech/798362/apple-airpods-4-lego-star-wars-grogu-deal-sale) (2025-10-11)
-- [American politics has devolved into shitposting and aura farming](https://www.theverge.com/policy/798491/frog-portland-trump-national-guard) (2025-10-11)
-- [Dreams of Another feels like a fever dream](https://www.theverge.com/games/795553/dreams-of-another-review-ps5-pc) (2025-10-11)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Systems As Mirrors](https://dev.to/interstelios/systems-as-mirrors-3g5n) (2025-10-12)
-- [Stop “Vibe Coding”: What Worked for Me as a Front-End Tech Lead](https://dev.to/haco29/stop-vibe-coding-what-worked-for-me-as-a-front-end-tech-lead-1ljh) (2025-10-12)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-8d1) (2025-10-12)
-- [KEXP: Babe Rainbow - Aquarium cowgirl (Live on KEXP)](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-49cf) (2025-10-12)
-- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid (Live on KEXP)](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-502) (2025-10-12)
+- [Understanding React Hooks: Simplifying State and Logic (Without Losing Your Mind)](https://dev.to/aryan_jain/understanding-react-hooks-simplifying-state-and-logic-without-losing-your-mind-10pj) (2025-10-12)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4i20) (2025-10-12)
+- [KEXP: Babe Rainbow - Aquarium cowgirl (Live on KEXP)](https://dev.to/music_youtube/kexp-babe-rainbow-aquarium-cowgirl-live-on-kexp-4o30) (2025-10-12)
+- [KEXP: Hunx and His Punx - Alone In Hollywood On Acid (Live on KEXP)](https://dev.to/music_youtube/kexp-hunx-and-his-punx-alone-in-hollywood-on-acid-live-on-kexp-16pa) (2025-10-12)
+- [Polyphonic: When artists don't write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-fja) (2025-10-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why Uber, Netflix, and Cloudflare Bet on Go -And Won](https://medium.com/@thecodingwizard3/why-uber-netflix-and-cloudflare-bet-on-go-and-won-63203f37ed4b?source=rss------programming-5) (2025-10-12)
-- [How I Built an AI That Writes Like Me (and Why It Was Harder Than Writing It Myself)](https://ai.plainenglish.io/how-i-built-an-ai-that-writes-like-me-and-why-it-was-harder-than-writing-it-myself-b348175913f4?source=rss------programming-5) (2025-10-12)
-- [The Python Hack That Automatically Summarizes Every Article I Read](https://medium.com/codrift/the-python-hack-that-automatically-summarizes-every-article-i-read-ae2a1b184f63?source=rss------programming-5) (2025-10-12)
-- [The Python Script That Turns My Daily Tasks Into Automated Workflows](https://medium.com/codrift/the-python-script-that-turns-my-daily-tasks-into-automated-workflows-4c1e00e9dbb0?source=rss------programming-5) (2025-10-12)
-- [8 Python Libraries So Good, I Stopped Writing My Own Code](https://python.plainenglish.io/8-python-libraries-so-good-i-stopped-writing-my-own-code-df4c0cd10f95?source=rss------programming-5) (2025-10-12)
+- [Coder, Programmer, Software Developer, atau Software Engineer?](https://dittmptrr27.medium.com/code-programmer-software-developer-atau-software-engineer-9b9dd3e4e04d?source=rss------programming-5) (2025-10-12)
+- [Day 1 — What Is Machine Learning in Simple Words](https://medium.com/@ShubhamVerma28/day-1-what-is-machine-learning-in-simple-words-270f47426dc8?source=rss------programming-5) (2025-10-12)
+- [09360627233شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز شماره خاله اسلامشهر شماره خاله…](https://medium.com/@dktr920/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-15c3f2181773?source=rss------programming-5) (2025-10-12)
+- [09360627233شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز شماره خاله اسلامشهر شماره خاله…](https://medium.com/@dktr920/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-676c5fca4832?source=rss------programming-5) (2025-10-12)
+- [09360627233شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز شماره خاله اسلامشهر شماره خاله…](https://medium.com/@dktr920/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-94ff7c6d752f?source=rss------programming-5) (2025-10-12)
 
 </details>
 
