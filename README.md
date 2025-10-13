@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Salesforce announces Agentforce 360 as enterprise AI competition heats up](https://techcrunch.com/2025/10/13/salesforce-announces-agentforce-360-as-enterprise-ai-competition-heats-up/) (2025-10-13)
+- [Anduril’s new EagleEye MR helmet sees Palmer Luckey return to his VR roots](https://techcrunch.com/2025/10/13/andurils-new-eagleeye-mr-helmet-sees-palmer-luckey-return-to-his-vr-roots/) (2025-10-13)
 - [Strava eyes IPO as Gen Z trades dating apps for running clubs](https://techcrunch.com/2025/10/12/strava-eyes-ipo-as-gen-z-trades-dating-apps-for-running-clubs/) (2025-10-13)
 - [The ZoraSafe app wants to protect older people online and will present at TechCrunch Disrupt 2025 ](https://techcrunch.com/2025/10/12/the-zorasafe-app-wants-to-protect-older-people-online-and-will-present-at-techcrunch-disrupt-2025/) (2025-10-12)
 - [Elon Musk vs. the regulators](https://techcrunch.com/2025/10/12/elon-musk-vs-the-regulators/) (2025-10-12)
-- [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/10/12/nvidias-ai-empire-a-look-at-its-top-startup-investments/) (2025-10-12)
-- [Dating app Cerca will show how Gen Z really dates at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/12/dating-app-cerca-will-show-how-gen-z-really-dates-at-techcrunch-disrupt-2025/) (2025-10-12)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Fastmail Desktop App](https://www.fastmail.com/blog/desktop-app/) (2025-10-13)
-- [Countering Trusting Trust Through Diverse Double-Compiling (DDC)](https://dwheeler.com/trusting-trust/) (2025-10-13)
-- [For centuries massive meals amazed visitors to Korea (2019)](https://www.atlasobscura.com/articles/history-of-korean-food) (2025-10-13)
-- [John Searle has died](https://www.nytimes.com/2025/10/12/books/john-searle-dead.html) (2025-10-13)
-- [Novelty Automation](https://www.novelty-automation.com/) (2025-10-12)
+- [Matrices can be your Friends](https://www.sjbaker.org/steve/omniv/matrices_can_be_your_friends.html) (2025-10-13)
+- [American solar farms](https://tech.marksblogg.com/american-solar-farms.html) (2025-10-13)
+- [Modern Linux tools](https://ikrima.dev/dev-notes/linux/linux-modern-tools/) (2025-10-13)
+- [Some graphene firms have reaped its potential but others are struggling](https://www.theguardian.com/business/2025/oct/13/lab-to-fab-are-promises-of-a-graphene-revolution-finally-coming-true) (2025-10-13)
+- [Spotlight on pdfly, the Swiss Army knife for PDF files](https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html) (2025-10-13)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Slack is turning Slackbot into an AI assistant](https://www.theverge.com/news/797890/slack-slackbot-ai-assistant-upgrade) (2025-10-13)
+- [Wi-Fi 8 demonstrated with first prototype connection](https://www.theverge.com/news/798780/wi-fi-8-prototype-tp-link-test-explained) (2025-10-13)
 - [Marvel details upcoming slate of shows at New York Comic Con](https://www.theverge.com/news/798740/marvels-upcoming-shows-new-york-comic-con-spider-man-x-men-daredevil-visionquest) (2025-10-12)
 - [You need to watch the bonkers Japanese fantasy horror film House](https://www.theverge.com/entertainment/798719/watch-japanese-horror-fantasy-film-house-halloween) (2025-10-12)
 - [Amazon awkwardly edited the guns out of James Bond art](https://www.theverge.com/news/798712/amazon-awkwardly-edited-the-guns-out-of-james-bond-art) (2025-10-12)
-- [Police are asking kids to stop pulling AI homeless man prank](https://www.theverge.com/news/798681/police-stop-pulling-ai-homeless-man-tiktok-prank) (2025-10-12)
-- [How BlackBerry Messenger set texting free](https://www.theverge.com/podcast/798692/how-blackberry-messenger-set-texting-free) (2025-10-12)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: planet hunting, and India’s e-scooters](https://www.technologyreview.com/2025/10/13/1125657/the-download-planet-hunting-and-indias-e-scooters/) (2025-10-13)
+- [An Earthling’s guide to planet hunting](https://www.technologyreview.com/2025/10/13/1124970/astronomy-planet-hunting-atmosphere/) (2025-10-13)
 - [Building connected data ecosystems for AI at scale](https://www.technologyreview.com/2025/10/10/1124313/building-connected-data-ecosystems-for-ai-at-scale/) (2025-10-10)
 - [The Download: our bodies’ memories, and Traton’s electric trucks](https://www.technologyreview.com/2025/10/10/1125586/the-download-our-bodies-memories-and-tratons-electric-trucks/) (2025-10-10)
 - [How do our bodies remember?](https://www.technologyreview.com/2025/10/10/1124963/muscles-remember-explained/) (2025-10-10)
-- [This test could reveal the health of your immune system](https://www.technologyreview.com/2025/10/10/1125559/test-health-immune-system/) (2025-10-10)
-- [The Download: mysteries of the immunome, and how to choose a climate tech pioneer](https://www.technologyreview.com/2025/10/09/1125517/the-download-mysteries-of-the-immunome-and-how-to-choose-a-climate-tech-pioneer/) (2025-10-09)
 
 </details>
 
@@ -97,22 +97,24 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How Midgen AI's 'Show, Don't Tell' Converter Elevates Storytelling](https://dev.to/mdsiaofficial/how-midgen-ais-show-dont-tell-converter-elevates-storytelling-49m4) (2025-10-13)
-- [Bikes, Big Data, and Better Cities: How Tech is Reshaping Urban Mobility](https://dev.to/ahmmrizv9/bikes-big-data-and-better-cities-how-tech-is-reshaping-urban-mobility-4pom) (2025-10-13)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-1mno) (2025-10-13)
-- [Polyphonic: When artists don't write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-55pl) (2025-10-13)
-- [Rick Beato: My Thoughts on Rush's NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-19mj) (2025-10-13)
+- [[Djangonaut][first PR] Week 1 ~ 2 (9.29 ~ 10.10)](https://dev.to/_e6641d4181e2ba2945d1f/djangonautfirst-pr-week-1-2-929-1010-2ah2) (2025-10-13)
+- [Migrating to <template> tag](https://dev.to/ijlee2/migrating-to-tag-39on) (2025-10-13)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-l9g) (2025-10-13)
+- [KEXP: Ezra Furman - Power Of The Moon (Live on KEXP)](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-4cn5) (2025-10-13)
+- [KEXP: Ezra Furman - Jump Out (Live on KEXP)](https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-46lc) (2025-10-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Spent a Month Using Every New AI Tool — Here’s Where the Technology Is Really Headed](https://medium.com/codrift/i-spent-a-month-using-every-new-ai-tool-heres-where-the-technology-is-really-headed-b655bdf9c288?source=rss------programming-5) (2025-10-13)
-- [You Don’t Need a Company to Print Money Online (But You Do Need This Legal Hack)](https://medium.com/codetodeploy/you-dont-need-a-company-to-print-money-online-but-you-do-need-this-legal-hack-3b398934663a?source=rss------programming-5) (2025-10-13)
-- [Python and the FastAPI Shortcut to Serving Templates Fast](https://medium.com/@ccpythonprogramming/python-and-the-fastapi-shortcut-to-serving-templates-fast-bbe6b2cd0910?source=rss------programming-5) (2025-10-13)
-- [ Mastering Advanced Firebase Features in 2025 — A Senior Developer’s Deep Dive](https://medium.com/@Amanda10/mastering-advanced-firebase-features-in-2025-a-senior-developers-deep-dive-b70634e889bc?source=rss------programming-5) (2025-10-13)
-- [Building REST APIs with FastAPI](https://medium.com/@pythonbyeli/building-rest-apis-with-fastapi-d05336399283?source=rss------programming-5) (2025-10-13)
+- [09389632898شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dwstymrym4/09389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-34be5ebe4688?source=rss------programming-5) (2025-10-13)
+- [09389632898شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dwstymrym4/09389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-0ebed843034a?source=rss------programming-5) (2025-10-13)
+- [Kick Off the Fall Semester with 20% Off on Programming Assignments at ProgrammingHomeworkHelp.com!](https://medium.com/@enzojade62/kick-off-the-fall-semester-with-20-off-on-programming-assignments-at-programminghomeworkhelp-com-f9eec5fb183f?source=rss------programming-5) (2025-10-13)
+- [لماذا تعتبر المهارات الحياتية أساس نجاح الطفل في المستقبل؟ ](https://medium.com/@noura5559nour/%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D8%B9%D8%AA%D8%A8%D8%B1-%D8%A7%D9%84%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A%D8%A9-%D8%A3%D8%B3%D8%A7%D8%B3-%D9%86%D8%AC%D8%A7%D8%AD-%D8%A7%D9%84%D8%B7%D9%81%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-5e2fd2ab3d8e?source=rss------programming-5) (2025-10-13)
+- [The Subtle Ways JavaScript Modules Reshaped My Workflow and Focus](https://medium.com/@zainahmad0123456/the-subtle-ways-javascript-modules-reshaped-my-workflow-and-focus-3083bc5c8861?source=rss------programming-5) (2025-10-13)
 
 </details>
 
@@ -546,11 +548,11 @@ https://www.twilio.com/en-us/blog/products/launches/customer-intelligence-for-ad
 <details>
 <summary>🤖 AI News</summary>
 
+- [Vibe analytics for data insights that are simple to surface ](https://www.artificialintelligence-news.com/news/vibe-analytics-for-data-insights-that-are-simple-to-surface/) (2025-10-13)
 - [Gemini Enterprise: Google aims to put an AI agent on every desk](https://www.artificialintelligence-news.com/news/gemini-enterprise-google-ai-agent-every-desk/) (2025-10-09)
 - [Can Cisco’s new AI data centre router tackle the industry’s biggest infrastructure bottleneck?](https://www.artificialintelligence-news.com/news/cisco-ai-data-centre-router-infrastructure-bottleneck/) (2025-10-09)
 - [AI value remains elusive despite soaring investment](https://www.artificialintelligence-news.com/news/ai-value-remains-elusive-despite-soaring-investment/) (2025-10-09)
 - [Samsung’s tiny AI model beats giant reasoning LLMs](https://www.artificialintelligence-news.com/news/samsung-tiny-ai-model-beats-giant-reasoning-llms/) (2025-10-08)
-- [Tuned Global strengthens its leadership in music technology with the acquisition of Figaro.ai](https://www.artificialintelligence-news.com/news/tuned-global-strengthens-its-leadership-in-music-technology-with-the-acquisition-of-figaro-ai/) (2025-10-08)
 
 </details>
 
@@ -579,22 +581,22 @@ https://www.twilio.com/en-us/blog/products/launches/customer-intelligence-for-ad
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 NotebookLM Tips to Make Your Day a Little Easier](https://www.kdnuggets.com/5-notebooklm-tips-to-make-your-day-a-little-easier) (2025-10-13)
 - [We Benchmarked DuckDB, SQLite, and Pandas on 1M Rows: Here’s What Happened](https://www.kdnuggets.com/we-benchmarked-duckdb-sqlite-and-pandas-on-1m-rows-heres-what-happened) (2025-10-10)
 - [Prompt Engineering Templates That Work: 7 Copy-Paste Recipes for LLMs](https://www.kdnuggets.com/prompt-engineering-templates-that-work-7-copy-paste-recipes-for-llms) (2025-10-09)
 - [A Complete Guide to Seaborn](https://www.kdnuggets.com/a-complete-guide-to-seaborn) (2025-10-08)
 - [10 Command-Line Tools Every Data Scientist Should Know](https://www.kdnuggets.com/10-command-line-tools-every-data-scientist-should-know) (2025-10-08)
-- [How I Actually Use Statistics as a Data Scientist](https://www.kdnuggets.com/how-i-actually-use-statistics-as-a-data-scientist) (2025-10-07)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [7 Pandas Tricks to Handle Large Datasets](https://machinelearningmastery.com/7-pandas-tricks-to-handle-large-datasets/) (2025-10-13)
 - [Building Transformer Models from Scratch with PyTorch (10-day Mini-Course)](https://machinelearningmastery.com/building-transformer-models-from-scratch-with-pytorch-10-day-mini-course/) (2025-10-12)
 - [The Machine Learning Practitioner’s Guide to Agentic AI Systems](https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-agentic-ai-systems/) (2025-10-10)
 - [Build an Inference Cache to Save Costs in High-Traffic LLM Apps](https://machinelearningmastery.com/build-an-inference-cache-to-save-costs-in-high-traffic-llm-apps/) (2025-10-09)
 - [7 NumPy Tricks to Vectorize Your Code](https://machinelearningmastery.com/7-numpy-tricks-to-vectorize-your-code/) (2025-10-08)
-- [Is ChatGPT-5 Able to Provide Proofs for Advanced Mathematics?](https://machinelearningmastery.com/is-chatgpt-5-able-to-provide-proofs-for-advanced-mathematics/) (2025-10-07)
 
 </details>
 
