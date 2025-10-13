@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Strava eyes IPO as Gen Z trades dating apps for running clubs](https://techcrunch.com/2025/10/12/strava-eyes-ipo-as-gen-z-trades-dating-apps-for-running-clubs/) (2025-10-13)
 - [The ZoraSafe app wants to protect older people online and will present at TechCrunch Disrupt 2025 ](https://techcrunch.com/2025/10/12/the-zorasafe-app-wants-to-protect-older-people-online-and-will-present-at-techcrunch-disrupt-2025/) (2025-10-12)
 - [Elon Musk vs. the regulators](https://techcrunch.com/2025/10/12/elon-musk-vs-the-regulators/) (2025-10-12)
 - [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/10/12/nvidias-ai-empire-a-look-at-its-top-startup-investments/) (2025-10-12)
 - [Dating app Cerca will show how Gen Z really dates at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/12/dating-app-cerca-will-show-how-gen-z-really-dates-at-techcrunch-disrupt-2025/) (2025-10-12)
-- [Thinking Machines Lab co-founder Andrew Tulloch heads to Meta](https://techcrunch.com/2025/10/11/thinking-machines-lab-co-founder-andrew-tulloch-heads-to-meta/) (2025-10-11)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Everything You Need to Know About [California] SB 79](https://mnolangray.substack.com/p/everything-you-need-to-know-about) (2025-10-13)
+- [Fastmail Desktop App](https://www.fastmail.com/blog/desktop-app/) (2025-10-13)
+- [Countering Trusting Trust Through Diverse Double-Compiling (DDC)](https://dwheeler.com/trusting-trust/) (2025-10-13)
+- [For centuries massive meals amazed visitors to Korea (2019)](https://www.atlasobscura.com/articles/history-of-korean-food) (2025-10-13)
+- [John Searle has died](https://www.nytimes.com/2025/10/12/books/john-searle-dead.html) (2025-10-13)
 - [Novelty Automation](https://www.novelty-automation.com/) (2025-10-12)
-- [Why are Big Tech companies a threat to human rights?](https://www.amnesty.org/en/latest/news/2025/08/why-are-big-tech-companies-a-threat-to-human-rights/) (2025-10-12)
-- [Wall Street is worried the private credit bubble will burst](https://www.thetimes.com/business-money/economics/article/wall-street-first-brands-private-credit-bubble-risk-363q2tcds) (2025-10-12)
-- [Free software hasn't won](https://dorotac.eu/posts/fosswon/) (2025-10-12)
 
 </details>
 
@@ -97,27 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I’ve tested thousands of prompts across coding, writing, publishing, consulting, and product building.
-Only a few made it into my personal high-leverage prompt library, the ones that saved me real time in real workflows!](https://dev.to/jaideepparashar/ive-tested-thousands-of-prompts-across-coding-writing-publishing-consulting-and-product-20kn) (2025-10-13)
-- [I’ve tested thousands of prompts across coding, writing, publishing, consulting, and product building.
-Only a few made it into my personal high-leverage prompt library, the ones that saved me real time in real workflows.](https://dev.to/jaideepparashar/ive-tested-thousands-of-prompts-across-coding-writing-publishing-consulting-and-product-j89) (2025-10-13)
-- [Reimagine Libraries management as Apps using Agentic Executable framework](https://dev.to/arenukvern/reimagine-libraries-management-as-apps-using-agentic-executable-framework-ami) (2025-10-13)
-- [10 ChatGPT Prompt Templates That Saved Me 100+ Hours of Work](https://dev.to/jaideepparashar/10-chatgpt-prompt-templates-that-saved-me-100-hours-of-work-1n2g) (2025-10-13)
-- [00. AI in Bioinformatics](https://dev.to/charlie_bushman_b844b155f/00-ai-in-bioinformatics-1f6) (2025-10-13)
+- [How Midgen AI's 'Show, Don't Tell' Converter Elevates Storytelling](https://dev.to/mdsiaofficial/how-midgen-ais-show-dont-tell-converter-elevates-storytelling-49m4) (2025-10-13)
+- [Bikes, Big Data, and Better Cities: How Tech is Reshaping Urban Mobility](https://dev.to/ahmmrizv9/bikes-big-data-and-better-cities-how-tech-is-reshaping-urban-mobility-4pom) (2025-10-13)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-1mno) (2025-10-13)
+- [Polyphonic: When artists don't write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-55pl) (2025-10-13)
+- [Rick Beato: My Thoughts on Rush's NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-19mj) (2025-10-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [7 Hidden Python Memory Profiling Techniques: tracemalloc and Custom Hooks for Data Pipeline…](https://medium.techkoalainsights.com/7-hidden-python-memory-profiling-techniques-tracemalloc-and-custom-hooks-for-data-pipeline-f257781cc9b1?source=rss------programming-5) (2025-10-13)
-- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jvjbbggjnb/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-3253ce9b6357?source=rss------programming-5) (2025-10-13)
-- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jvjbbggjnb/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-6978248c750a?source=rss------programming-5) (2025-10-13)
-- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jvjbbggjnb/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-3bc08219d759?source=rss------programming-5) (2025-10-13)
-- [Did Anthropic’s ‘Max Plan’ Just Kill the Best Thing About Claude?](https://beckmoulton.medium.com/did-anthropics-max-plan-just-kill-the-best-thing-about-claude-f9f8b2349d1f?source=rss------programming-5) (2025-10-13)
+- [I Spent a Month Using Every New AI Tool — Here’s Where the Technology Is Really Headed](https://medium.com/codrift/i-spent-a-month-using-every-new-ai-tool-heres-where-the-technology-is-really-headed-b655bdf9c288?source=rss------programming-5) (2025-10-13)
+- [You Don’t Need a Company to Print Money Online (But You Do Need This Legal Hack)](https://medium.com/codetodeploy/you-dont-need-a-company-to-print-money-online-but-you-do-need-this-legal-hack-3b398934663a?source=rss------programming-5) (2025-10-13)
+- [Python and the FastAPI Shortcut to Serving Templates Fast](https://medium.com/@ccpythonprogramming/python-and-the-fastapi-shortcut-to-serving-templates-fast-bbe6b2cd0910?source=rss------programming-5) (2025-10-13)
+- [ Mastering Advanced Firebase Features in 2025 — A Senior Developer’s Deep Dive](https://medium.com/@Amanda10/mastering-advanced-firebase-features-in-2025-a-senior-developers-deep-dive-b70634e889bc?source=rss------programming-5) (2025-10-13)
+- [Building REST APIs with FastAPI](https://medium.com/@pythonbyeli/building-rest-apis-with-fastapi-d05336399283?source=rss------programming-5) (2025-10-13)
 
 </details>
 
@@ -573,11 +568,11 @@ https://www.twilio.com/en-us/blog/products/launches/customer-intelligence-for-ad
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Agentic AI Training Efficiency: Less is More for Intelligent Agency](https://www.analyticsvidhya.com/blog/2025/10/less-is-more-for-intelligent-agency/) (2025-10-13)
 - [Rethinking Data Products With Snowflake Native Apps for Next-Gen Secure Deployment](https://www.analyticsvidhya.com/blog/2025/10/data-products-with-snowflake-native-apps/) (2025-10-12)
 - [10 Cool Tricks Modern LLM Design Uses](https://www.analyticsvidhya.com/blog/2025/10/modern-llm-designs/) (2025-10-12)
 - [Building an AI Agent Tutorial – Part 1 of 2: YouTube Summarizer Agent](https://www.analyticsvidhya.com/blog/2025/10/building-an-ai-agent-tutorial-part-1/) (2025-10-11)
 - [Building an AI Agent Tutorial – Part 2: Make Your Own Study Planner Agent](https://www.analyticsvidhya.com/blog/2025/10/building-study-planner-agent-ai-agent-tutorial/) (2025-10-11)
-- [The Data Science Behind Zepto’s 10-Minute Delivery Success](https://www.analyticsvidhya.com/blog/2025/10/zepto-data-science/) (2025-10-10)
 
 </details>
 
