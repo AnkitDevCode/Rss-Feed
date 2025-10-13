@@ -20,66 +20,66 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Slate Auto’s electric truck: See it first at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/13/slate-autos-electric-truck-see-it-first-at-techcrunch-disrupt-2025/) (2025-10-13)
+- [California becomes first state to regulate AI companion chatbots](https://techcrunch.com/2025/10/13/california-becomes-first-state-to-regulate-ai-companion-chatbots/) (2025-10-13)
+- [The time is now: Only 5 days remain to book your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/13/the-time-is-now-only-5-days-remain-to-book-your-exhibit-table-at-techcrunch-disrupt-2025/) (2025-10-13)
+- [Final flash sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — ends October 17](https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-october-17/) (2025-10-13)
 - [Salesforce announces Agentforce 360 as enterprise AI competition heats up](https://techcrunch.com/2025/10/13/salesforce-announces-agentforce-360-as-enterprise-ai-competition-heats-up/) (2025-10-13)
-- [Anduril’s new EagleEye MR helmet sees Palmer Luckey return to his VR roots](https://techcrunch.com/2025/10/13/andurils-new-eagleeye-mr-helmet-sees-palmer-luckey-return-to-his-vr-roots/) (2025-10-13)
-- [Strava eyes IPO as Gen Z trades dating apps for running clubs](https://techcrunch.com/2025/10/12/strava-eyes-ipo-as-gen-z-trades-dating-apps-for-running-clubs/) (2025-10-13)
-- [The ZoraSafe app wants to protect older people online and will present at TechCrunch Disrupt 2025 ](https://techcrunch.com/2025/10/12/the-zorasafe-app-wants-to-protect-older-people-online-and-will-present-at-techcrunch-disrupt-2025/) (2025-10-12)
-- [Elon Musk vs. the regulators](https://techcrunch.com/2025/10/12/elon-musk-vs-the-regulators/) (2025-10-12)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Matrices can be your Friends](https://www.sjbaker.org/steve/omniv/matrices_can_be_your_friends.html) (2025-10-13)
-- [American solar farms](https://tech.marksblogg.com/american-solar-farms.html) (2025-10-13)
-- [Modern Linux tools](https://ikrima.dev/dev-notes/linux/linux-modern-tools/) (2025-10-13)
-- [Some graphene firms have reaped its potential but others are struggling](https://www.theguardian.com/business/2025/oct/13/lab-to-fab-are-promises-of-a-graphene-revolution-finally-coming-true) (2025-10-13)
-- [Spotlight on pdfly, the Swiss Army knife for PDF files](https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html) (2025-10-13)
+- [ProtonVPN Lied About Logging](https://vp.net/l/en-US/blog/ProtonVPN-Lied-About-Logging) (2025-10-13)
+- [Optery (YC W22) – Hiring Tech Lead with Node.js Experience (U.S. & Latin America)](https://www.optery.com/careers/) (2025-10-13)
+- [Environment variables are a legacy mess: Let's dive deep into them](https://allvpv.org/haotic-journey-through-envvars/) (2025-10-13)
+- [Jeep software update bricks vehicles, leaves owners stranded](https://www.thestack.technology/jeep-software-update-bricks-vehicles-leaves-owners-stranded/) (2025-10-13)
+- [Android's sideloading limits are its most anti-consumer move yet](https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/) (2025-10-13)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Slack is turning Slackbot into an AI assistant](https://www.theverge.com/news/797890/slack-slackbot-ai-assistant-upgrade) (2025-10-13)
-- [Wi-Fi 8 demonstrated with first prototype connection](https://www.theverge.com/news/798780/wi-fi-8-prototype-tp-link-test-explained) (2025-10-13)
-- [Marvel details upcoming slate of shows at New York Comic Con](https://www.theverge.com/news/798740/marvels-upcoming-shows-new-york-comic-con-spider-man-x-men-daredevil-visionquest) (2025-10-12)
-- [You need to watch the bonkers Japanese fantasy horror film House](https://www.theverge.com/entertainment/798719/watch-japanese-horror-fantasy-film-house-halloween) (2025-10-12)
-- [Amazon awkwardly edited the guns out of James Bond art](https://www.theverge.com/news/798712/amazon-awkwardly-edited-the-guns-out-of-james-bond-art) (2025-10-12)
+- [New California law requires AI to tell you it’s AI](https://www.theverge.com/news/798875/california-just-passed-a-new-law-requiring-ai-to-tell-you-its-ai) (2025-10-13)
+- [California enacts its own internet age-gating law](https://www.theverge.com/news/798871/california-governor-newsom-age-gating-ab-1043) (2025-10-13)
+- [Apple TV Plus is being rebranded to… Apple TV](https://www.theverge.com/news/798857/apple-tv-plus-rebrand-streaming-service) (2025-10-13)
+- [EcoFlow’s Delta Pro Ultra X can power a home for weeks](https://www.theverge.com/news/798772/ecoflow-delta-pro-ultra-x-battery-system) (2025-10-13)
+- [OpenAI partners with Broadcom to produce its own AI chips](https://www.theverge.com/news/798827/openai-broadcom-custom-ai-chips) (2025-10-13)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [New Starfleet Academy trailer debuts at NYCC](https://arstechnica.com/culture/2025/10/new-starfleet-academy-trailer-debuts-at-nycc/) (2025-10-12)
-- [Why doesn’t Cards Against Humanity print its game in the US? It’s complicated.](https://arstechnica.com/culture/2025/10/why-doesnt-cards-against-humanity-print-its-game-in-the-us-its-complicated/) (2025-10-11)
-- [Apple ups the reward for finding major exploits to $2 million](https://arstechnica.com/security/2025/10/apple-ups-the-reward-for-finding-major-exploits-to-2-million/) (2025-10-11)
-- [How close are we to solid state batteries for electric vehicles?](https://arstechnica.com/cars/2025/10/how-close-are-we-to-solid-state-batteries-for-electric-vehicles/) (2025-10-11)
-- [Trump admin fires more health employees amid government shutdown](https://arstechnica.com/health/2025/10/more-federal-health-employees-axed-amid-shutdown-linked-terminations/) (2025-10-10)
+- [Apple’s streaming service gets harder to tell apart from its streaming app, box](https://arstechnica.com/apple/2025/10/apple-tv-streaming-service-is-renamed-to-just-apple-tv/) (2025-10-13)
+- [Why Signal’s post-quantum makeover is an amazing engineering achievement](https://arstechnica.com/security/2025/10/why-signals-post-quantum-makeover-is-an-amazing-engineering-achievement/) (2025-10-13)
+- [4chan fined $26K for refusing to assess risks under UK Online Safety Act](https://arstechnica.com/tech-policy/2025/10/4chan-fined-26k-for-refusing-to-assess-risks-under-uk-online-safety-act/) (2025-10-13)
+- [Hans Koenigsmann, who investigated all of SpaceX’s rocket failures, is going to space](https://arstechnica.com/space/2025/10/one-of-spacexs-earliest-employees-is-going-to-space-via-blue-origin/) (2025-10-13)
+- [Layoffs, a “coding error,” chaos: Trump admin ravages the health dept.](https://arstechnica.com/health/2025/10/mass-firings-at-us-health-dept-partially-reversed-but-still-devastating/) (2025-10-13)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Transforming commercial pharma with agentic AI ](https://www.technologyreview.com/2025/10/13/1124829/transforming-commercial-pharma-with-agentic-ai/) (2025-10-13)
 - [The Download: planet hunting, and India’s e-scooters](https://www.technologyreview.com/2025/10/13/1125657/the-download-planet-hunting-and-indias-e-scooters/) (2025-10-13)
 - [An Earthling’s guide to planet hunting](https://www.technologyreview.com/2025/10/13/1124970/astronomy-planet-hunting-atmosphere/) (2025-10-13)
 - [Building connected data ecosystems for AI at scale](https://www.technologyreview.com/2025/10/10/1124313/building-connected-data-ecosystems-for-ai-at-scale/) (2025-10-10)
 - [The Download: our bodies’ memories, and Traton’s electric trucks](https://www.technologyreview.com/2025/10/10/1125586/the-download-our-bodies-memories-and-tratons-electric-trucks/) (2025-10-10)
-- [How do our bodies remember?](https://www.technologyreview.com/2025/10/10/1124963/muscles-remember-explained/) (2025-10-10)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [How to build reliable AI workflows with agentic primitives and context engineering](https://github.blog/ai-and-ml/github-copilot/how-to-build-reliable-ai-workflows-with-agentic-primitives-and-context-engineering/) (2025-10-13)
 - [20 Years of Git, 2 days at GitHub HQ: Git Merge 2025 highlights 🎉](https://github.blog/open-source/git/20-years-of-git-2-days-at-github-hq-git-merge-2025-highlights/) (2025-10-09)
 - [GitHub Availability Report: September 2025](https://github.blog/news-insights/company-news/github-availability-report-september-2025/) (2025-10-09)
 - [Completing urgent fixes anywhere with GitHub Copilot coding agent and mobile](https://github.blog/developer-skills/github/completing-urgent-fixes-anywhere-with-github-copilot-coding-agent-and-mobile/) (2025-10-08)
 - [How GitHub Copilot enabled accessibility governance process improvements in record time](https://github.blog/ai-and-ml/github-copilot/how-we-automated-accessibility-compliance-in-five-hours-with-github-copilot/) (2025-10-07)
-- [How a top bug bounty researcher got their start in security](https://github.blog/security/how-a-top-bug-bounty-researcher-got-their-start-in-security/) (2025-10-07)
 
 </details>
 
@@ -97,35 +97,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [[Djangonaut][first PR] Week 1 ~ 2 (9.29 ~ 10.10)](https://dev.to/_e6641d4181e2ba2945d1f/djangonautfirst-pr-week-1-2-929-1010-2ah2) (2025-10-13)
-- [Migrating to <template> tag](https://dev.to/ijlee2/migrating-to-tag-39on) (2025-10-13)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-l9g) (2025-10-13)
-- [KEXP: Ezra Furman - Power Of The Moon (Live on KEXP)](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-4cn5) (2025-10-13)
-- [KEXP: Ezra Furman - Jump Out (Live on KEXP)](https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-46lc) (2025-10-13)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4p4l) (2025-10-13)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-an8) (2025-10-13)
+- [KEXP: Ezra Furman - Power Of The Moon (Live on KEXP)](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-57k7) (2025-10-13)
+- [KEXP: Ezra Furman - Jump Out (Live on KEXP)](https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-5am0) (2025-10-13)
+- [KEXP: Ezra Furman - Veil Song (Live on KEXP)](https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-4n6f) (2025-10-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09389632898شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dwstymrym4/09389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-34be5ebe4688?source=rss------programming-5) (2025-10-13)
-- [09389632898شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dwstymrym4/09389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-0ebed843034a?source=rss------programming-5) (2025-10-13)
-- [Kick Off the Fall Semester with 20% Off on Programming Assignments at ProgrammingHomeworkHelp.com!](https://medium.com/@enzojade62/kick-off-the-fall-semester-with-20-off-on-programming-assignments-at-programminghomeworkhelp-com-f9eec5fb183f?source=rss------programming-5) (2025-10-13)
-- [لماذا تعتبر المهارات الحياتية أساس نجاح الطفل في المستقبل؟ ](https://medium.com/@noura5559nour/%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D8%B9%D8%AA%D8%A8%D8%B1-%D8%A7%D9%84%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%AA%D9%8A%D8%A9-%D8%A3%D8%B3%D8%A7%D8%B3-%D9%86%D8%AC%D8%A7%D8%AD-%D8%A7%D9%84%D8%B7%D9%81%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-5e2fd2ab3d8e?source=rss------programming-5) (2025-10-13)
-- [The Subtle Ways JavaScript Modules Reshaped My Workflow and Focus](https://medium.com/@zainahmad0123456/the-subtle-ways-javascript-modules-reshaped-my-workflow-and-focus-3083bc5c8861?source=rss------programming-5) (2025-10-13)
+- [The Type System That Outsmarts You — How Rust Enforces Safety with Math](https://medium.com/@bugsybits/the-type-system-that-outsmarts-you-how-rust-enforces-safety-with-math-bab0740234bf?source=rss------programming-5) (2025-10-13)
+- [thinkpad_tank](https://medium.com/beyond-t3ch/thinkpad-tank-f4bbad86b862?source=rss------programming-5) (2025-10-13)
+- [LangChain + Tensorlake: Unlocking Document Understanding for Agents](https://medium.com/tensorlake-ai/langchain-tensorlake-unlocking-document-understanding-for-agents-ca2d709c9417?source=rss------programming-5) (2025-10-13)
+- [The Ultimate Guide to Free SQL Practice Platforms: Sharpen Your Database Skills](https://medium.com/@bltizr9/the-ultimate-guide-to-free-sql-practice-platforms-sharpen-your-database-skills-67fbe73a7802?source=rss------programming-5) (2025-10-13)
+- [How Rust’s Type Inference Works — and Why It Sometimes Gives Up on You](https://medium.com/@syntaxSavage/how-rusts-type-inference-works-and-why-it-sometimes-gives-up-on-you-7658e0c1065f?source=rss------programming-5) (2025-10-13)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [AWS Weekly Roundup: Amazon Quick Suite, Amazon EC2, Amazon EKS, and more (October 13, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-quick-suite-amazon-ec2-amazon-eks-and-more-october-13-2025/) (2025-10-13)
 - [Announcing Amazon Quick Suite: your agentic teammate for answering questions and taking action](https://aws.amazon.com/blogs/aws/reimagine-the-way-you-work-with-ai-agents-in-amazon-quick-suite/) (2025-10-09)
 - [New general-purpose Amazon EC2 M8a instances are now available](https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8a-instances-are-now-available/) (2025-10-08)
 - [Introducing new compute-optimized Amazon EC2 C8i and C8i-flex instances](https://aws.amazon.com/blogs/aws/introducing-new-compute-optimized-amazon-ec2-c8i-and-c8i-flex-instances/) (2025-10-06)
 - [AWS IAM Identity Center now supports customer-managed KMS keys for encryption at rest](https://aws.amazon.com/blogs/aws/aws-iam-identity-center-now-supports-customer-managed-kms-keys-for-encryption-at-rest/) (2025-10-06)
-- [AWS Weekly Roundup:  Amazon Bedrock, AWS Outposts, Amazon ECS Managed Instances, AWS Builder ID, and more (October 6, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-aws-outposts-amazon-ecs-managed-instances-aws-builder-id-and-more-october-6-2025/) (2025-10-06)
 
 </details>
 
@@ -143,11 +141,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [NVIDIA, Partners Drive Next-Gen Efficient Gigawatt AI Factories in Buildup for Vera Rubin](https://blogs.nvidia.com/blog/gigawatt-ai-factories-ocp-vera-rubin/) (2025-10-13)
 - [NVIDIA Blackwell Raises Bar in New InferenceMAX Benchmarks, Delivering Unmatched Performance and Efficiency](https://blogs.nvidia.com/blog/blackwell-inferencemax-benchmark-results/) (2025-10-09)
 - [Microsoft Azure Unveils World’s First NVIDIA GB300 NVL72 Supercomputing Cluster for OpenAI](https://blogs.nvidia.com/blog/microsoft-azure-worlds-first-gb300-nvl72-supercomputing-cluster-openai/) (2025-10-09)
 - [Incoming: ‘Battlefield 6’ Lands on GeForce NOW at Launch](https://blogs.nvidia.com/blog/geforce-now-thursday-battlefield-6/) (2025-10-09)
 - [How AI-Powered Wireless Networks Will Revitalize US Global Leadership in Communications](https://blogs.nvidia.com/blog/ai-6g-telecommunications/) (2025-10-08)
-- [GeForce NOW Brings 18 Games to the Cloud in October for a Spooky Good Time](https://blogs.nvidia.com/blog/geforce-now-thursday-oct-2025/) (2025-10-02)
 
 </details>
 
@@ -165,11 +163,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Boost user engagement with AI Image Generation](https://android-developers.googleblog.com/2025/10/boost-user-engagement-with-ai-image.html) (2025-10-13)
 - [Jetpack WindowManager 1.5 is stable](https://android-developers.googleblog.com/2025/10/jetpack-windowmanager-15-is-stable.html) (2025-10-10)
 - [Android Studio Narwhal 4 Feature Drop: watch face support and improved stability](https://android-developers.googleblog.com/2025/09/android-studio-narwhal-4-feature-drop.html) (2025-10-09)
 - [#WeArePlay: Meet the people building apps and games that are making finance simple for everyone, everywhere.](https://android-developers.googleblog.com/2025/10/weareplay-meet-people-building-apps-and.html) (2025-10-09)
 - [ #WeArePlay:  Meet the founders of Geocaching, the digital treasure hunt game with 3.4 million caches ](https://android-developers.googleblog.com/2025/10/weareplay-meet-founders-of-geocaching.html) (2025-10-07)
-- [Optimize your app battery using Android vitals wake lock metric](https://android-developers.googleblog.com/2025/09/guide-to-excessive-wake-lock-usage.html) (2025-10-02)
 
 </details>
 
@@ -482,11 +480,11 @@ https://www.twilio.com/en-us/blog/products/launches/customer-intelligence-for-ad
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
+- [Introducing Hybrid Reasoning with Agent Script](https://developer.salesforce.com/blogs/2025/10/introducing-hybrid-reasoning-with-agent-script.html) (2025-10-13)
 - [Agentforce Vibesでイノベーションを推進 – エンタープライズ向けバイブコーディング](https://developer.salesforce.com/blogs/2025/10/agentforce-vibes%e3%81%a7%e3%82%a4%e3%83%8e%e3%83%99%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%92%e6%8e%a8%e9%80%b2-%e3%82%a8%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%97%e3%83%a9%e3%82%a4%e3%82%ba.html) (2025-10-09)
 - [Salesforce Hosted MCP Servers Are in Beta Today](https://developer.salesforce.com/blogs/2025/10/salesforce-hosted-mcp-servers-are-in-beta-today.html) (2025-10-09)
 - [Enhance Integration Security with mTLS for Salesforce and MuleSoft](https://developer.salesforce.com/blogs/2025/10/enhance-integration-security-with-mtls-for-salesforce-and-mulesoft.html) (2025-10-09)
 - [Lightning Out 2.0 Is Now Generally Available in Winter ’26](https://developer.salesforce.com/blogs/2025/10/lightning-out-2-0-is-now-generally-available-in-winter-26.html) (2025-10-08)
-- [Master Metadata API Deployments with Best Practices](https://developer.salesforce.com/blogs/2025/10/master-metadata-api-deployments-with-best-practices.html) (2025-10-07)
 
 </details>
 
@@ -548,44 +546,44 @@ https://www.twilio.com/en-us/blog/products/launches/customer-intelligence-for-ad
 <details>
 <summary>🤖 AI News</summary>
 
+- [Meta and Oracle choose NVIDIA Spectrum-X for AI data centres](https://www.artificialintelligence-news.com/news/meta-and-oracle-choose-nvidia-spectrum-x-for-ai-data-centres/) (2025-10-13)
 - [Vibe analytics for data insights that are simple to surface ](https://www.artificialintelligence-news.com/news/vibe-analytics-for-data-insights-that-are-simple-to-surface/) (2025-10-13)
 - [Gemini Enterprise: Google aims to put an AI agent on every desk](https://www.artificialintelligence-news.com/news/gemini-enterprise-google-ai-agent-every-desk/) (2025-10-09)
 - [Can Cisco’s new AI data centre router tackle the industry’s biggest infrastructure bottleneck?](https://www.artificialintelligence-news.com/news/cisco-ai-data-centre-router-infrastructure-bottleneck/) (2025-10-09)
 - [AI value remains elusive despite soaring investment](https://www.artificialintelligence-news.com/news/ai-value-remains-elusive-despite-soaring-investment/) (2025-10-09)
-- [Samsung’s tiny AI model beats giant reasoning LLMs](https://www.artificialintelligence-news.com/news/samsung-tiny-ai-model-beats-giant-reasoning-llms/) (2025-10-08)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Spin Up a Project Structure with Cookiecutter](https://towardsdatascience.com/how-to-spin-up-a-project-structure-with-cookiecutter/) (2025-10-13)
 - [10 Data + AI Observations for Fall 2025](https://towardsdatascience.com/10-data-ai-observations-to-watch-in-fall-2025/) (2025-10-10)
 - [Dreaming in Blocks — MineWorld, the Minecraft World Model](https://towardsdatascience.com/dreaming-in-blocks-mineworld-the-minecraft-world-model/) (2025-10-10)
 - [Past is Prologue: How Conversational Analytics Is Changing Data Work](https://towardsdatascience.com/past-is-prologue-how-conversational-analytics-is-changing-data-work/) (2025-10-09)
 - [How the Rise of Tabular Foundation Models Is Reshaping Data Science](https://towardsdatascience.com/tabular-foundation-models/) (2025-10-09)
-- [Know Your Real Birthday: Astronomical Computation and Geospatial-Temporal Analytics in Python](https://towardsdatascience.com/know-your-real-birthday-astronomical-computation-and-geospatial-temporal-analytics-in-python/) (2025-10-08)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Governing AI Agents at Scale: Unifying AI Gateways and MCP](https://www.analyticsvidhya.com/blog/2025/10/governing-agentic-ai-at-scale-with-mcp/) (2025-10-13)
+- [Build an End-to-End AI Web App with Google Genkit ](https://www.analyticsvidhya.com/blog/2025/10/build-web-app-with-google-genkit/) (2025-10-13)
 - [Agentic AI Training Efficiency: Less is More for Intelligent Agency](https://www.analyticsvidhya.com/blog/2025/10/less-is-more-for-intelligent-agency/) (2025-10-13)
 - [Rethinking Data Products With Snowflake Native Apps for Next-Gen Secure Deployment](https://www.analyticsvidhya.com/blog/2025/10/data-products-with-snowflake-native-apps/) (2025-10-12)
 - [10 Cool Tricks Modern LLM Design Uses](https://www.analyticsvidhya.com/blog/2025/10/modern-llm-designs/) (2025-10-12)
-- [Building an AI Agent Tutorial – Part 1 of 2: YouTube Summarizer Agent](https://www.analyticsvidhya.com/blog/2025/10/building-an-ai-agent-tutorial-part-1/) (2025-10-11)
-- [Building an AI Agent Tutorial – Part 2: Make Your Own Study Planner Agent](https://www.analyticsvidhya.com/blog/2025/10/building-study-planner-agent-ai-agent-tutorial/) (2025-10-11)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Building Pure Python Web Apps with Reflex](https://www.kdnuggets.com/building-pure-python-web-apps-with-reflex) (2025-10-13)
+- [Here’s When You Would Choose Spreadsheets Over SQL](https://www.kdnuggets.com/heres-when-you-would-choose-spreadsheets-over-sql) (2025-10-13)
 - [5 NotebookLM Tips to Make Your Day a Little Easier](https://www.kdnuggets.com/5-notebooklm-tips-to-make-your-day-a-little-easier) (2025-10-13)
 - [We Benchmarked DuckDB, SQLite, and Pandas on 1M Rows: Here’s What Happened](https://www.kdnuggets.com/we-benchmarked-duckdb-sqlite-and-pandas-on-1m-rows-heres-what-happened) (2025-10-10)
 - [Prompt Engineering Templates That Work: 7 Copy-Paste Recipes for LLMs](https://www.kdnuggets.com/prompt-engineering-templates-that-work-7-copy-paste-recipes-for-llms) (2025-10-09)
-- [A Complete Guide to Seaborn](https://www.kdnuggets.com/a-complete-guide-to-seaborn) (2025-10-08)
-- [10 Command-Line Tools Every Data Scientist Should Know](https://www.kdnuggets.com/10-command-line-tools-every-data-scientist-should-know) (2025-10-08)
 
 </details>
 
