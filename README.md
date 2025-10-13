@@ -31,33 +31,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Kuzu DB devs no longer supporting the project](https://kuzudb.com) (2025-10-12)
-- [Wireguard FPGA](https://github.com/chili-chips-ba/wireguard-fpga) (2025-10-12)
-- ['Death to Spotify': the DIY movement to get artists and fans to quit the app](https://www.theguardian.com/technology/2025/oct/12/spotify-boycott-artists) (2025-10-12)
-- [GitHub Copilot: Remote Code Execution via Prompt Injection (CVE-2025-53773)](https://embracethered.com/blog/posts/2025/github-copilot-remote-code-execution-via-prompt-injection/) (2025-10-12)
-- [In 1776, Thomas Paine made the best case for fighting kings −and being skeptical](https://theconversation.com/in-1776-thomas-paine-made-the-best-case-for-fighting-kings-and-for-being-skeptical-266448) (2025-10-12)
+- [Everything You Need to Know About [California] SB 79](https://mnolangray.substack.com/p/everything-you-need-to-know-about) (2025-10-13)
+- [Novelty Automation](https://www.novelty-automation.com/) (2025-10-12)
+- [Why are Big Tech companies a threat to human rights?](https://www.amnesty.org/en/latest/news/2025/08/why-are-big-tech-companies-a-threat-to-human-rights/) (2025-10-12)
+- [Wall Street is worried the private credit bubble will burst](https://www.thetimes.com/business-money/economics/article/wall-street-first-brands-private-credit-bubble-risk-363q2tcds) (2025-10-12)
+- [Free software hasn't won](https://dorotac.eu/posts/fosswon/) (2025-10-12)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Marvel details upcoming slate of shows at New York Comic Con](https://www.theverge.com/news/798740/marvels-upcoming-shows-new-york-comic-con-spider-man-x-men-daredevil-visionquest) (2025-10-12)
 - [You need to watch the bonkers Japanese fantasy horror film House](https://www.theverge.com/entertainment/798719/watch-japanese-horror-fantasy-film-house-halloween) (2025-10-12)
 - [Amazon awkwardly edited the guns out of James Bond art](https://www.theverge.com/news/798712/amazon-awkwardly-edited-the-guns-out-of-james-bond-art) (2025-10-12)
 - [Police are asking kids to stop pulling AI homeless man prank](https://www.theverge.com/news/798681/police-stop-pulling-ai-homeless-man-tiktok-prank) (2025-10-12)
 - [How BlackBerry Messenger set texting free](https://www.theverge.com/podcast/798692/how-blackberry-messenger-set-texting-free) (2025-10-12)
-- [Welcome to the ‘papers, please’ internet](https://www.theverge.com/column/798159/age-gating-internet) (2025-10-12)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [New Starfleet Academy trailer debuts at NYCC](https://arstechnica.com/culture/2025/10/new-starfleet-academy-trailer-debuts-at-nycc/) (2025-10-12)
 - [Why doesn’t Cards Against Humanity print its game in the US? It’s complicated.](https://arstechnica.com/culture/2025/10/why-doesnt-cards-against-humanity-print-its-game-in-the-us-its-complicated/) (2025-10-11)
 - [Apple ups the reward for finding major exploits to $2 million](https://arstechnica.com/security/2025/10/apple-ups-the-reward-for-finding-major-exploits-to-2-million/) (2025-10-11)
 - [How close are we to solid state batteries for electric vehicles?](https://arstechnica.com/cars/2025/10/how-close-are-we-to-solid-state-batteries-for-electric-vehicles/) (2025-10-11)
 - [Trump admin fires more health employees amid government shutdown](https://arstechnica.com/health/2025/10/more-federal-health-employees-axed-amid-shutdown-linked-terminations/) (2025-10-10)
-- [Putin OKs plan to turn Russian spacecraft into flying billboards](https://arstechnica.com/space/2025/10/putin-oks-plan-to-turn-russian-spacecraft-into-flying-billboards/) (2025-10-10)
 
 </details>
 
@@ -97,22 +97,27 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-1ei2) (2025-10-12)
-- [KEXP: Wet Leg - mangetout (Live on KEXP)](https://dev.to/music_youtube/kexp-wet-leg-mangetout-live-on-kexp-565e) (2025-10-12)
-- [Rick Beato: Finally…Breaking Down Kansas LIVE](https://dev.to/music_youtube/rick-beato-finallybreaking-down-kansas-live-17pp) (2025-10-12)
-- [Rick Beato: My Thoughts on Rush's NEW Drummer](https://dev.to/music_youtube/rick-beato-my-thoughts-on-rushs-new-drummer-589p) (2025-10-12)
-- [The Game Theorists: Game Theory: Was I WRONG About Secret of the Mimic?](https://dev.to/gg_news/the-game-theorists-game-theory-was-i-wrong-about-secret-of-the-mimic-1d8m) (2025-10-12)
+- [I’ve tested thousands of prompts across coding, writing, publishing, consulting, and product building.
+Only a few made it into my personal high-leverage prompt library, the ones that saved me real time in real workflows!](https://dev.to/jaideepparashar/ive-tested-thousands-of-prompts-across-coding-writing-publishing-consulting-and-product-20kn) (2025-10-13)
+- [I’ve tested thousands of prompts across coding, writing, publishing, consulting, and product building.
+Only a few made it into my personal high-leverage prompt library, the ones that saved me real time in real workflows.](https://dev.to/jaideepparashar/ive-tested-thousands-of-prompts-across-coding-writing-publishing-consulting-and-product-j89) (2025-10-13)
+- [Reimagine Libraries management as Apps using Agentic Executable framework](https://dev.to/arenukvern/reimagine-libraries-management-as-apps-using-agentic-executable-framework-ami) (2025-10-13)
+- [10 ChatGPT Prompt Templates That Saved Me 100+ Hours of Work](https://dev.to/jaideepparashar/10-chatgpt-prompt-templates-that-saved-me-100-hours-of-work-1n2g) (2025-10-13)
+- [00. AI in Bioinformatics](https://dev.to/charlie_bushman_b844b155f/00-ai-in-bioinformatics-1f6) (2025-10-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How Python Handles References and Mutable Objects](https://medium.com/@matilitheory/how-python-handles-references-and-mutable-objects-315a6f344b31?source=rss------programming-5) (2025-10-12)
-- [Go Slices: Mechanics, Memory, and Design Philosophy](https://medium.com/programmers-career/go-slices-mechanics-memory-and-design-philosophy-4b15d8c76705?source=rss------programming-5) (2025-10-12)
-- [Hangi Programlama Dili ile Başlamalıyım?](https://medium.com/@hsdzaimu/hangi-programlama-dili-ile-ba%C5%9Flamal%C4%B1y%C4%B1m-5484942f8528?source=rss------programming-5) (2025-10-12)
-- [How I Learned The Rare Skill Of Reviewing Senior Developers’ Code](https://medium.com/@vndpal/how-i-learned-the-rare-skill-of-reviewing-senior-developers-code-fa3233cd933f?source=rss------programming-5) (2025-10-12)
-- [How to Find Common Characters Between Two Strings in Java](https://medium.com/@AlexanderObregon/how-to-find-common-characters-between-two-strings-in-java-26a6d1cf5885?source=rss------programming-5) (2025-10-12)
+- [7 Hidden Python Memory Profiling Techniques: tracemalloc and Custom Hooks for Data Pipeline…](https://medium.techkoalainsights.com/7-hidden-python-memory-profiling-techniques-tracemalloc-and-custom-hooks-for-data-pipeline-f257781cc9b1?source=rss------programming-5) (2025-10-13)
+- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jvjbbggjnb/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-3253ce9b6357?source=rss------programming-5) (2025-10-13)
+- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jvjbbggjnb/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-6978248c750a?source=rss------programming-5) (2025-10-13)
+- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jvjbbggjnb/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-3bc08219d759?source=rss------programming-5) (2025-10-13)
+- [Did Anthropic’s ‘Max Plan’ Just Kill the Best Thing About Claude?](https://beckmoulton.medium.com/did-anthropics-max-plan-just-kill-the-best-thing-about-claude-f9f8b2349d1f?source=rss------programming-5) (2025-10-13)
 
 </details>
 
