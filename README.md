@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [SpaceX Starship flight 11 successful](https://twitter.com/SpaceX/status/1977895039318864296) (2025-10-14)
-- [SpaceX launches Starship megarocket on 11th test flight](https://www.cnn.com/science/live-news/spacex-starship-flight-11-launch-10-13-25) (2025-10-14)
+- [Copy-and-Patch: A Copy-and-Patch Tutorial](https://transactional.blog/copy-and-patch/tutorial) (2025-10-14)
+- [New York Times, AP, Newsmax and others say they won't sign new Pentagon rules](https://apnews.com/article/pentagon-press-access-defense-department-rules-95878bce05096912887701eaa6d019c6) (2025-10-14)
+- [Don’t Look Up: Sensitive internal links in the clear on GEO satellites [pdf]](https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf) (2025-10-14)
+- [NVIDIA DGX Spark In-Depth Review: A New Standard for Local AI Inference](https://lmsys.org/blog/2025-10-13-nvidia-dgx-spark/) (2025-10-14)
 - [StreamingVLM: Real-Time Understanding for Infinite Video Streams](https://arxiv.org/abs/2510.09608) (2025-10-14)
-- [Hackers can steal 2FA codes and private messages from Android phones](https://arstechnica.com/security/2025/10/no-fix-yet-for-attack-that-lets-hackers-pluck-2fa-codes-from-android-phones/) (2025-10-13)
-- [DDoS Botnet Aisuru Blankets US ISPs in Record DDoS](https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/) (2025-10-13)
 
 </details>
 
@@ -86,37 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [AI agents for your digital chores](https://stackoverflow.blog/2025/10/14/ai-agents-for-your-digital-chores/) (2025-10-14)
 - [Vite is like the United Nations of JavaScript](https://stackoverflow.blog/2025/10/10/vite-is-like-the-united-nations-of-javascript/) (2025-10-10)
 - [Who watches the watchers? LLM on LLM evaluations](https://stackoverflow.blog/2025/10/09/who-watches-the-watchers-llm-on-llm-evaluations/) (2025-10-09)
 - [A new look for comments](https://stackoverflow.blog/2025/10/08/a-new-look-for-comments/) (2025-10-08)
 - [Context is king for secure, AI-generated code](https://stackoverflow.blog/2025/10/07/context-is-king-for-secure-ai-generated-code/) (2025-10-07)
-- [Beyond code generation: How AI is changing tech teams' dynamics](https://stackoverflow.blog/2025/10/06/beyond-code-generation-how-ai-is-changing-tech-teams-dynamics/) (2025-10-06)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Mastering Distributed Machine Learning: How to 10X Your PyTorch Training Speed with Ray & DDP](https://dev.to/m-a-h-b-u-b/mastering-distributed-machine-learning-how-to-10x-your-pytorch-training-speed-with-ray-ddp-5hgg) (2025-10-14)
-- [Barebones metadata for page sharing](https://dev.to/ovidem/barebones-metadata-for-page-sharing-3o8p) (2025-10-14)
-- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_fafe1668/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-11f2) (2025-10-14)
-- [💎 ANN: omniauth-identity v3.1.5 (Hanami/ROM Support)](https://dev.to/galtzo/ann-omniauth-identity-v315-hanamirom-support-4ha3) (2025-10-14)
-- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_02ee41d0/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-3288) (2025-10-14)
+- [FlashFuzz ⚡Quick URL Fuzzing & Secret Scanning, straight from your browser](https://dev.to/ademkouki/flashfuzz-quick-url-fuzzing-secret-scanning-straight-from-your-browser-4f54) (2025-10-14)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-37ld) (2025-10-14)
+- [KEXP: Ezra Furman - Power Of The Moon (Live on KEXP)](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-50eo) (2025-10-14)
+- [KEXP: Ezra Furman - Jump Out (Live on KEXP)](https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-3onf) (2025-10-14)
+- [KEXP: Ezra Furman - Veil Song (Live on KEXP)](https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-54he) (2025-10-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@d43103516/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-23dbab9e4c46?source=rss------programming-5) (2025-10-14)
-- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@d43103516/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-640b21e7ef46?source=rss------programming-5) (2025-10-14)
-- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@d43103516/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ad408086f681?source=rss------programming-5) (2025-10-14)
-- [Spec-Driven Development: Designing Before You Code (Again)](https://medium.com/@dave-patten/spec-driven-development-designing-before-you-code-again-21023ac91180?source=rss------programming-5) (2025-10-14)
-- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jjjxmnxkmx/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-765ddd237824?source=rss------programming-5) (2025-10-14)
+- [Simplify State Management with NgRx SignalStore Entities](https://medium.com/@Angular_With_Awais/simplify-state-management-with-ngrx-signalstore-entities-55d12f44dd5d?source=rss------programming-5) (2025-10-14)
+- [ Advanced System Design Scenarios Every Spring Boot Developer Should Master..!!](https://medium.com/spring-boot/advanced-system-design-scenarios-every-spring-boot-developer-should-master-7a5a01720e71?source=rss------programming-5) (2025-10-14)
+- [The Internet Isn’t Broken, It’s Being Hijacked](https://radiohackers.com/the-internet-isnt-broken-it-s-being-hijacked-e40207bd5d85?source=rss------programming-5) (2025-10-14)
+- [How I Learned JavaScript the Easiest Way Using Japanese Method](https://aws.plainenglish.io/how-i-learned-javascript-the-easiest-way-using-japanese-method-d37d85423bba?source=rss------programming-5) (2025-10-14)
+- [5 Harsh Truths Every Junior Developer Learns the Hard Way (2025 Edition)](https://aws.plainenglish.io/5-harsh-truths-every-junior-developer-learns-the-hard-way-2025-edition-022c5629c11e?source=rss------programming-5) (2025-10-14)
 
 </details>
 
@@ -134,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [FYAI: Why developers will lead AI transformation across the enterprise](https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/) (2025-10-13)
 - [Microsoft Azure delivers the first large scale cluster with NVIDIA GB300 NVL72 for OpenAI workloads](https://azure.microsoft.com/en-us/blog/microsoft-azure-delivers-the-first-large-scale-cluster-with-nvidia-gb300-nvl72-for-openai-workloads/) (2025-10-09)
 - [Microsoft’s commitment to supporting cloud infrastructure demand in Asia](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-asia/) (2025-10-09)
 - [Unleash your creativity at scale: Azure AI Foundry’s multimodal revolution](https://azure.microsoft.com/en-us/blog/unleash-your-creativity-at-scale-azure-ai-foundrys-multimodal-revolution/) (2025-10-06)
 - [Introducing Microsoft Agent Framework](https://azure.microsoft.com/en-us/blog/introducing-microsoft-agent-framework/) (2025-10-01)
-- [Grok 4 is now available in Azure AI Foundry: Unlock frontier intelligence and business-ready capabilities](https://azure.microsoft.com/en-us/blog/grok-4-is-now-available-in-azure-ai-foundry-unlock-frontier-intelligence-and-business-ready-capabilities/) (2025-09-29)
 
 </details>
 
@@ -572,11 +568,11 @@ https://www.twilio.com/en-us/blog/products/launches/customer-intelligence-for-ad
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [A Guide to LangGraph and LangSmith for Building AI Agents](https://www.analyticsvidhya.com/blog/2025/10/a-guide-to-langgraph-and-langsmith-for-building-ai-agents/) (2025-10-14)
+- [A Step-by-Step Guide to Finetuning GPT-OSS-20B](https://www.analyticsvidhya.com/blog/2025/10/finetuning-gpt-oss/) (2025-10-14)
 - [Governing AI Agents at Scale: Unifying AI Gateways and MCP](https://www.analyticsvidhya.com/blog/2025/10/governing-agentic-ai-at-scale-with-mcp/) (2025-10-13)
 - [Build an End-to-End AI Web App with Google Genkit ](https://www.analyticsvidhya.com/blog/2025/10/build-web-app-with-google-genkit/) (2025-10-13)
 - [Agentic AI Training Efficiency: Less is More for Intelligent Agency](https://www.analyticsvidhya.com/blog/2025/10/less-is-more-for-intelligent-agency/) (2025-10-13)
-- [Rethinking Data Products With Snowflake Native Apps for Next-Gen Secure Deployment](https://www.analyticsvidhya.com/blog/2025/10/data-products-with-snowflake-native-apps/) (2025-10-12)
-- [10 Cool Tricks Modern LLM Design Uses](https://www.analyticsvidhya.com/blog/2025/10/modern-llm-designs/) (2025-10-12)
 
 </details>
 
