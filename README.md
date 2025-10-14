@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Goldman Sachs is acquiring Industry Ventures for up to $965M as alternative VC exits surge](https://techcrunch.com/2025/10/13/goldman-sachs-is-acquiring-industry-ventures-for-up-to-965m-as-alternative-vc-exits-surge/) (2025-10-13)
-- [Grindr’s owners may take it private after a financial squeeze](https://techcrunch.com/2025/10/13/grindrs-owners-may-take-it-private-after-a-financial-squeeze/) (2025-10-13)
-- [Oura is winning young women and losing gym rats, and it’s fine with that](https://techcrunch.com/2025/10/13/oura-is-winning-young-women-and-losing-gym-rats-and-its-fine-with-that/) (2025-10-13)
-- [Slate Auto’s electric truck: See it first at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/13/slate-autos-electric-truck-see-it-first-at-techcrunch-disrupt-2025/) (2025-10-13)
-- [California becomes first state to regulate AI companion chatbots](https://techcrunch.com/2025/10/13/california-becomes-first-state-to-regulate-ai-companion-chatbots/) (2025-10-13)
+- [Instagram to show PG-13 content by default to teens, adds more parental controls](https://techcrunch.com/2025/10/14/instagram-defaults-to-pg-13-content-for-teens-adds-more-parental-controls/) (2025-10-14)
+- [SpaceX wraps action-packed Starship V2 era as program moves to V3](https://techcrunch.com/2025/10/14/spacex-wraps-action-packed-starship-v2-era-as-program-moves-to-v3/) (2025-10-14)
+- [Smart ring maker Oura raises $900M from Fidelity](https://techcrunch.com/2025/10/14/smart-ring-maker-oura-raises-900m-from-fidelity/) (2025-10-14)
+- [Google to invest $15B in Indian AI infrastructure hub](https://techcrunch.com/2025/10/14/google-to-invest-15b-in-indian-ai-infrastructure-hub/) (2025-10-14)
+- [India’s Airbound bags $8.65M to build rocket-like drones for one-cent deliveries](https://techcrunch.com/2025/10/14/indias-airbound-led-by-20-year-old-bags-8-65m-to-work-toward-one-cent-drone-deliveries-at-scale/) (2025-10-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Copy-and-Patch: A Copy-and-Patch Tutorial](https://transactional.blog/copy-and-patch/tutorial) (2025-10-14)
-- [New York Times, AP, Newsmax and others say they won't sign new Pentagon rules](https://apnews.com/article/pentagon-press-access-defense-department-rules-95878bce05096912887701eaa6d019c6) (2025-10-14)
-- [Don’t Look Up: Sensitive internal links in the clear on GEO satellites [pdf]](https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf) (2025-10-14)
-- [NVIDIA DGX Spark In-Depth Review: A New Standard for Local AI Inference](https://lmsys.org/blog/2025-10-13-nvidia-dgx-spark/) (2025-10-14)
-- [StreamingVLM: Real-Time Understanding for Infinite Video Streams](https://arxiv.org/abs/2510.09608) (2025-10-14)
+- [Kyber (YC W23) Is Hiring an Enterprise AE](https://www.ycombinator.com/companies/kyber/jobs/BQRRSrZ-enterprise-account-executive-ae) (2025-10-14)
+- [Zoo of Array Languages](https://ktye.github.io/) (2025-10-14)
+- [KDE celebrates the 29th birthday and kicks off the yearly fundraiser](https://kde.org/fundraisers/yearend2025/) (2025-10-14)
+- [Why the push for Agentic when models can barely follow a simple instruction?](https://forum.cursor.com/t/why-the-push-for-agentic-when-models-can-barely-follow-a-single-simple-instruction/137154) (2025-10-14)
+- [Why study programming languages (2022)](https://people.csail.mit.edu/rachit/post/why-study-programming-languages/) (2025-10-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Spotify rolls out controls to keep kids music out of your algorithm](https://www.theverge.com/news/799047/spotify-managed-account-parental-controls-expansion) (2025-10-14)
+- [How trans visibility became a trap](https://www.theverge.com/cs/features/798490/trans-visibility-trap) (2025-10-14)
+- [Instagram is making all teen accounts ‘PG-13’](https://www.theverge.com/news/798308/instagram-teen-accounts-pg-13-overhaul-safety) (2025-10-14)
+- [TiVo has sold its last DVR](https://www.theverge.com/news/798997/tivo-stops-dvr-hardware-production-sales) (2025-10-14)
 - [Nvidia’s ‘personal AI supercomputer’ goes on sale October 15th](https://www.theverge.com/news/798775/nvidia-spark-personal-ai-supercomputer) (2025-10-14)
-- [Facebook is adding job listings, again](https://www.theverge.com/tech/798921/facebook-local-jobs-us) (2025-10-13)
-- [Microsoft AI announces first image generator created in-house](https://www.theverge.com/news/798923/microsoft-ai-image-generator-in-house) (2025-10-13)
-- [Google will let you hide sponsored results in search — after you’ve seen them](https://www.theverge.com/tech/798901/google-will-let-you-hide-sponsored-results-in-search-after-youve-seen-them) (2025-10-13)
-- [Tesla Cybertruck sales are flatlining](https://www.theverge.com/news/798889/tesla-cybertruck-sales-decrease-q3-2025) (2025-10-13)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [SpaceX finally got exactly what it needed from Starship V2](https://arstechnica.com/space/2025/10/after-year-of-hardships-spacexs-starship-finally-flirts-with-perfection/) (2025-10-14)
 - [Hackers can steal 2FA codes and private messages from Android phones](https://arstechnica.com/security/2025/10/no-fix-yet-for-attack-that-lets-hackers-pluck-2fa-codes-from-android-phones/) (2025-10-13)
 - [Measles outbreak in SC sends 150 unvaccinated kids into 21-day quarantine](https://arstechnica.com/health/2025/10/over-150-unvaccinated-kids-quarantined-for-21-days-in-sc-measles-outbreak/) (2025-10-13)
 - [Google’s Photoshop-killer AI model is coming to search, Photos, and NotebookLM](https://arstechnica.com/google/2025/10/googles-nano-banana-ai-image-editor-is-coming-to-search-photos-and-notebooklm/) (2025-10-13)
 - [Starship’s elementary era ends today with mega-rocket’s 11th test flight](https://arstechnica.com/science/2025/10/starships-elementary-era-ends-today-with-mega-rockets-11th-test-flight/) (2025-10-13)
-- [To shield kids, California hikes fake nude fines to $250K max](https://arstechnica.com/tech-policy/2025/10/to-shield-kids-california-hikes-fake-nude-fines-to-250k-max/) (2025-10-13)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: aging clocks, and repairing the internet](https://www.technologyreview.com/2025/10/14/1125672/the-download-aging-clocks-and-repairing-the-internet/) (2025-10-14)
+- [How aging clocks can help us understand why we age—and if we can reverse it](https://www.technologyreview.com/2025/10/14/1124977/aging-clocks-biology-mortality-longevity/) (2025-10-14)
+- [Can we repair the internet?](https://www.technologyreview.com/2025/10/14/1125104/internet-improvement-book-review-regulation-user-responsibility/) (2025-10-14)
 - [Transforming commercial pharma with agentic AI ](https://www.technologyreview.com/2025/10/13/1124829/transforming-commercial-pharma-with-agentic-ai/) (2025-10-13)
 - [The Download: planet hunting, and India’s e-scooters](https://www.technologyreview.com/2025/10/13/1125657/the-download-planet-hunting-and-indias-e-scooters/) (2025-10-13)
-- [An Earthling’s guide to planet hunting](https://www.technologyreview.com/2025/10/13/1124970/astronomy-planet-hunting-atmosphere/) (2025-10-13)
-- [Building connected data ecosystems for AI at scale](https://www.technologyreview.com/2025/10/10/1124313/building-connected-data-ecosystems-for-ai-at-scale/) (2025-10-10)
-- [The Download: our bodies’ memories, and Traton’s electric trucks](https://www.technologyreview.com/2025/10/10/1125586/the-download-our-bodies-memories-and-tratons-electric-trucks/) (2025-10-10)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [FlashFuzz ⚡Quick URL Fuzzing & Secret Scanning, straight from your browser](https://dev.to/ademkouki/flashfuzz-quick-url-fuzzing-secret-scanning-straight-from-your-browser-4f54) (2025-10-14)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-37ld) (2025-10-14)
-- [KEXP: Ezra Furman - Power Of The Moon (Live on KEXP)](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-50eo) (2025-10-14)
-- [KEXP: Ezra Furman - Jump Out (Live on KEXP)](https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-3onf) (2025-10-14)
-- [KEXP: Ezra Furman - Veil Song (Live on KEXP)](https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-54he) (2025-10-14)
+- [How I Made My Website 200% Faster Using Just One Line of Code](https://dev.to/mridudixit15/how-i-made-my-website-200-faster-using-just-one-line-of-code-6ip) (2025-10-14)
+- [Why Model-First and where the Truth lives](https://dev.to/_555c69ff310ebfa46b/why-model-first-and-where-the-truth-lives-2l9c) (2025-10-14)
+- [Copy Trading vs Independent Analysis: Building Hybrid Strategies for Crypto Trading](https://dev.to/tradelinkpro/copy-trading-vs-independent-analysis-building-hybrid-strategies-for-crypto-trading-ma4) (2025-10-14)
+- [Your-Tests-Are-Slow-and-Brittle-Youre-Testing-the-Wrong-Thing](https://dev.to/member_02ee41d0/your-tests-are-slow-and-brittle-youre-testing-the-wrong-thing-12mb) (2025-10-14)
+- [AI Driven Daily Sales Report Generator](https://dev.to/sabbschow/ai-driven-daily-sales-report-generator-2oe1) (2025-10-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Simplify State Management with NgRx SignalStore Entities](https://medium.com/@Angular_With_Awais/simplify-state-management-with-ngrx-signalstore-entities-55d12f44dd5d?source=rss------programming-5) (2025-10-14)
-- [ Advanced System Design Scenarios Every Spring Boot Developer Should Master..!!](https://medium.com/spring-boot/advanced-system-design-scenarios-every-spring-boot-developer-should-master-7a5a01720e71?source=rss------programming-5) (2025-10-14)
-- [The Internet Isn’t Broken, It’s Being Hijacked](https://radiohackers.com/the-internet-isnt-broken-it-s-being-hijacked-e40207bd5d85?source=rss------programming-5) (2025-10-14)
-- [How I Learned JavaScript the Easiest Way Using Japanese Method](https://aws.plainenglish.io/how-i-learned-javascript-the-easiest-way-using-japanese-method-d37d85423bba?source=rss------programming-5) (2025-10-14)
-- [5 Harsh Truths Every Junior Developer Learns the Hard Way (2025 Edition)](https://aws.plainenglish.io/5-harsh-truths-every-junior-developer-learns-the-hard-way-2025-edition-022c5629c11e?source=rss------programming-5) (2025-10-14)
+- [09021901293](https://medium.com/@shmarhkhalhshyraz15/09021901293-b3deecd5be4d?source=rss------programming-5) (2025-10-14)
+- [09308657613شماره خاله بندرعباس.شماره](https://medium.com/@gybchrjudgj/09308657613%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-82dcce593c77?source=rss------programming-5) (2025-10-14)
+- [09308657613شماره خاله بندرعباس.شماره](https://medium.com/@gybchrjudgj/09308657613%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-01a6c8f31ddd?source=rss------programming-5) (2025-10-14)
+- [09308657613شماره خاله بندرعباس.شماره](https://medium.com/@laakhal625/09308657613%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-80c3e26c3d15?source=rss------programming-5) (2025-10-14)
+- [09308657613#شماره خاله#شماره خاله#شماره خاله تهرانسر#شماره خاله تهران#شماره خاله شیراز#شماره خاله…](https://medium.com/@laakhal625/09308657613-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D8%B3%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-6164c86c9c27?source=rss------programming-5) (2025-10-14)
 
 </details>
 
@@ -130,22 +130,22 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [FYAI: Why developers will lead AI transformation across the enterprise](https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/) (2025-10-13)
 - [Microsoft Azure delivers the first large scale cluster with NVIDIA GB300 NVL72 for OpenAI workloads](https://azure.microsoft.com/en-us/blog/microsoft-azure-delivers-the-first-large-scale-cluster-with-nvidia-gb300-nvl72-for-openai-workloads/) (2025-10-09)
 - [Microsoft’s commitment to supporting cloud infrastructure demand in Asia](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-asia/) (2025-10-09)
 - [Unleash your creativity at scale: Azure AI Foundry’s multimodal revolution](https://azure.microsoft.com/en-us/blog/unleash-your-creativity-at-scale-azure-ai-foundrys-multimodal-revolution/) (2025-10-06)
 - [Introducing Microsoft Agent Framework](https://azure.microsoft.com/en-us/blog/introducing-microsoft-agent-framework/) (2025-10-01)
+- [Grok 4 is now available in Azure AI Foundry: Unlock frontier intelligence and business-ready capabilities](https://azure.microsoft.com/en-us/blog/grok-4-is-now-available-in-azure-ai-foundry-unlock-frontier-intelligence-and-business-ready-capabilities/) (2025-09-29)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Oracle and NVIDIA Accelerate Sovereign AI, Enabling Abu Dhabi’s AI-Native Government Transformation](https://blogs.nvidia.com/blog/oracle-nvidia-accelerate-sovereign-ai-abu-dhabi/) (2025-10-14)
+- [NVIDIA and Oracle to Accelerate Enterprise AI and Data Processing](https://blogs.nvidia.com/blog/nvidia-oracle-accelerate-enterprise-ai-data-processing/) (2025-10-14)
 - [Elon Musk Gets Just-Launched NVIDIA DGX Spark: Petaflop AI Supercomputer Lands at SpaceX](https://blogs.nvidia.com/blog/live-dgx-spark-delivery/) (2025-10-14)
 - [NVIDIA, Partners Drive Next-Gen Efficient Gigawatt AI Factories in Buildup for Vera Rubin](https://blogs.nvidia.com/blog/gigawatt-ai-factories-ocp-vera-rubin/) (2025-10-13)
 - [NVIDIA Blackwell Raises Bar in New InferenceMAX Benchmarks, Delivering Unmatched Performance and Efficiency](https://blogs.nvidia.com/blog/blackwell-inferencemax-benchmark-results/) (2025-10-09)
-- [Microsoft Azure Unveils World’s First NVIDIA GB300 NVL72 Supercomputing Cluster for OpenAI](https://blogs.nvidia.com/blog/microsoft-azure-worlds-first-gb300-nvl72-supercomputing-cluster-openai/) (2025-10-09)
-- [Incoming: ‘Battlefield 6’ Lands on GeForce NOW at Launch](https://blogs.nvidia.com/blog/geforce-now-thursday-battlefield-6/) (2025-10-09)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Join Us in Rebooting the Docker Model Runner Community!](https://www.docker.com/blog/rebooting-model-runner-community/) (2025-10-14)
 - [Docker Model Runner on the new NVIDIA DGX Spark: a new paradigm for developing AI locally](https://www.docker.com/blog/new-nvidia-dgx-spark-docker-model-runner/) (2025-10-14)
 - [100% Transparency and Five Pillars](https://www.docker.com/blog/100-transparency-and-five-pillars/) (2025-10-13)
 - [How to Add MCP Servers to Claude Code with Docker MCP Toolkit](https://www.docker.com/blog/add-mcp-servers-to-claude-code-with-mcp-toolkit/) (2025-10-10)
 - [LoRA Explained: Faster, More Efficient Fine-Tuning with Docker](https://www.docker.com/blog/lora-explained/) (2025-10-09)
-- [From the Captain’s Chair: Pradumna Saraf](https://www.docker.com/blog/from-the-captains-chair-pradumna-saraf/) (2025-10-08)
 
 </details>
 
@@ -447,11 +447,11 @@ https://www.twilio.com/en-us/blog/products/launches/customer-intelligence-for-ad
 <details>
 <summary>🔗 GraphQL Blog</summary>
 
+- [Announcing GraphQL AI Working Group](https://graphql.org/blog/2025-10-14-announcing-ai-wg) (2025-10-14)
 - [Introducing the New GraphQL.org: A Decade of Evolution, Redesigned](https://graphql.org/blog/2025-09-08-announcing-graphqldotorg) (2025-09-08)
 - [Announcing the September 2025 Edition of the GraphQL Specification](https://graphql.org/blog/2025-09-08-september-edition) (2025-09-08)
 - [GraphQL: Supercharging AI](https://graphql.org/blog/2025-07-03-graphql-supercharging-ai) (2025-07-03)
 - [📣 May 2025 GraphQL Foundation Board Meeting Recap](https://graphql.org/blog/2025-06-27-governing-board-recap) (2025-06-27)
-- [GraphQL.js Docs Updates, April - May 2025](https://graphql.org/blog/2025-06-26-docs-updates) (2025-06-26)
 
 </details>
 
@@ -546,11 +546,11 @@ https://www.twilio.com/en-us/blog/products/launches/customer-intelligence-for-ad
 <details>
 <summary>🤖 AI News</summary>
 
+- [How Huawei is building agentic AI systems that make decisions independently](https://www.artificialintelligence-news.com/news/huawei-agentic-ai-systems/) (2025-10-14)
+- [Cisco: Only 13% have a solid AI strategy and they’re lapping rivals](https://www.artificialintelligence-news.com/news/cisco-only-13-percent-solid-ai-strategy-and-lapping-rivals/) (2025-10-14)
+- [Salesforce commits $15 billion to boost AI growth in San Francisco](https://www.artificialintelligence-news.com/news/salesforce-commits-15-billion-to-boost-ai-growth-in-san-francisco/) (2025-10-14)
 - [Meta and Oracle choose NVIDIA Spectrum-X for AI data centres](https://www.artificialintelligence-news.com/news/meta-and-oracle-choose-nvidia-spectrum-x-for-ai-data-centres/) (2025-10-13)
 - [Vibe analytics for data insights that are simple to surface ](https://www.artificialintelligence-news.com/news/vibe-analytics-for-data-insights-that-are-simple-to-surface/) (2025-10-13)
-- [Gemini Enterprise: Google aims to put an AI agent on every desk](https://www.artificialintelligence-news.com/news/gemini-enterprise-google-ai-agent-every-desk/) (2025-10-09)
-- [Can Cisco’s new AI data centre router tackle the industry’s biggest infrastructure bottleneck?](https://www.artificialintelligence-news.com/news/cisco-ai-data-centre-router-infrastructure-bottleneck/) (2025-10-09)
-- [AI value remains elusive despite soaring investment](https://www.artificialintelligence-news.com/news/ai-value-remains-elusive-despite-soaring-investment/) (2025-10-09)
 
 </details>
 
@@ -568,22 +568,22 @@ https://www.twilio.com/en-us/blog/products/launches/customer-intelligence-for-ad
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Learn like a Pro: 7 Cool Google NotebookLM Features No One Told You](https://www.analyticsvidhya.com/blog/2025/10/notebooklm-features/) (2025-10-14)
 - [A Guide to LangGraph and LangSmith for Building AI Agents](https://www.analyticsvidhya.com/blog/2025/10/a-guide-to-langgraph-and-langsmith-for-building-ai-agents/) (2025-10-14)
 - [A Step-by-Step Guide to Finetuning GPT-OSS-20B](https://www.analyticsvidhya.com/blog/2025/10/finetuning-gpt-oss/) (2025-10-14)
 - [Governing AI Agents at Scale: Unifying AI Gateways and MCP](https://www.analyticsvidhya.com/blog/2025/10/governing-agentic-ai-at-scale-with-mcp/) (2025-10-13)
 - [Build an End-to-End AI Web App with Google Genkit ](https://www.analyticsvidhya.com/blog/2025/10/build-web-app-with-google-genkit/) (2025-10-13)
-- [Agentic AI Training Efficiency: Less is More for Intelligent Agency](https://www.analyticsvidhya.com/blog/2025/10/less-is-more-for-intelligent-agency/) (2025-10-13)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [10 Useful Python One-Liners for CSV Processing](https://www.kdnuggets.com/10-useful-python-one-liners-for-csv-processing) (2025-10-14)
+- [5 Signs Your Business Is Ready For AI (Sponsored)](https://www.kdnuggets.com/ingram-5-signs-your-business-is-ready-for-ai#new_tab) (2025-10-14)
 - [Building Pure Python Web Apps with Reflex](https://www.kdnuggets.com/building-pure-python-web-apps-with-reflex) (2025-10-13)
 - [Here’s When You Would Choose Spreadsheets Over SQL](https://www.kdnuggets.com/heres-when-you-would-choose-spreadsheets-over-sql) (2025-10-13)
 - [5 NotebookLM Tips to Make Your Day a Little Easier](https://www.kdnuggets.com/5-notebooklm-tips-to-make-your-day-a-little-easier) (2025-10-13)
-- [We Benchmarked DuckDB, SQLite, and Pandas on 1M Rows: Here’s What Happened](https://www.kdnuggets.com/we-benchmarked-duckdb-sqlite-and-pandas-on-1m-rows-heres-what-happened) (2025-10-10)
-- [Prompt Engineering Templates That Work: 7 Copy-Paste Recipes for LLMs](https://www.kdnuggets.com/prompt-engineering-templates-that-work-7-copy-paste-recipes-for-llms) (2025-10-09)
 
 </details>
 
