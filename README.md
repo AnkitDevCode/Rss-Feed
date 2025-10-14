@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Goldman Sachs is acquiring Industry Ventures for up to $965M as alternative VC exits surge](https://techcrunch.com/2025/10/13/goldman-sachs-is-acquiring-industry-ventures-for-up-to-965m-as-alternative-vc-exits-surge/) (2025-10-13)
+- [Grindr’s owners may take it private after a financial squeeze](https://techcrunch.com/2025/10/13/grindrs-owners-may-take-it-private-after-a-financial-squeeze/) (2025-10-13)
+- [Oura is winning young women and losing gym rats, and it’s fine with that](https://techcrunch.com/2025/10/13/oura-is-winning-young-women-and-losing-gym-rats-and-its-fine-with-that/) (2025-10-13)
 - [Slate Auto’s electric truck: See it first at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/13/slate-autos-electric-truck-see-it-first-at-techcrunch-disrupt-2025/) (2025-10-13)
 - [California becomes first state to regulate AI companion chatbots](https://techcrunch.com/2025/10/13/california-becomes-first-state-to-regulate-ai-companion-chatbots/) (2025-10-13)
-- [The time is now: Only 5 days remain to book your exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/13/the-time-is-now-only-5-days-remain-to-book-your-exhibit-table-at-techcrunch-disrupt-2025/) (2025-10-13)
-- [Final flash sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — ends October 17](https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-october-17/) (2025-10-13)
-- [Salesforce announces Agentforce 360 as enterprise AI competition heats up](https://techcrunch.com/2025/10/13/salesforce-announces-agentforce-360-as-enterprise-ai-competition-heats-up/) (2025-10-13)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [ProtonVPN Lied About Logging](https://vp.net/l/en-US/blog/ProtonVPN-Lied-About-Logging) (2025-10-13)
-- [Optery (YC W22) – Hiring Tech Lead with Node.js Experience (U.S. & Latin America)](https://www.optery.com/careers/) (2025-10-13)
-- [Environment variables are a legacy mess: Let's dive deep into them](https://allvpv.org/haotic-journey-through-envvars/) (2025-10-13)
-- [Jeep software update bricks vehicles, leaves owners stranded](https://www.thestack.technology/jeep-software-update-bricks-vehicles-leaves-owners-stranded/) (2025-10-13)
-- [Android's sideloading limits are its most anti-consumer move yet](https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/) (2025-10-13)
+- [SpaceX Starship flight 11 successful](https://twitter.com/SpaceX/status/1977895039318864296) (2025-10-14)
+- [SpaceX launches Starship megarocket on 11th test flight](https://www.cnn.com/science/live-news/spacex-starship-flight-11-launch-10-13-25) (2025-10-14)
+- [StreamingVLM: Real-Time Understanding for Infinite Video Streams](https://arxiv.org/abs/2510.09608) (2025-10-14)
+- [Hackers can steal 2FA codes and private messages from Android phones](https://arstechnica.com/security/2025/10/no-fix-yet-for-attack-that-lets-hackers-pluck-2fa-codes-from-android-phones/) (2025-10-13)
+- [DDoS Botnet Aisuru Blankets US ISPs in Record DDoS](https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/) (2025-10-13)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [New California law requires AI to tell you it’s AI](https://www.theverge.com/news/798875/california-just-passed-a-new-law-requiring-ai-to-tell-you-its-ai) (2025-10-13)
-- [California enacts its own internet age-gating law](https://www.theverge.com/news/798871/california-governor-newsom-age-gating-ab-1043) (2025-10-13)
-- [Apple TV Plus is being rebranded to… Apple TV](https://www.theverge.com/news/798857/apple-tv-plus-rebrand-streaming-service) (2025-10-13)
-- [EcoFlow’s Delta Pro Ultra X can power a home for weeks](https://www.theverge.com/news/798772/ecoflow-delta-pro-ultra-x-battery-system) (2025-10-13)
-- [OpenAI partners with Broadcom to produce its own AI chips](https://www.theverge.com/news/798827/openai-broadcom-custom-ai-chips) (2025-10-13)
+- [Nvidia’s ‘personal AI supercomputer’ goes on sale October 15th](https://www.theverge.com/news/798775/nvidia-spark-personal-ai-supercomputer) (2025-10-14)
+- [Facebook is adding job listings, again](https://www.theverge.com/tech/798921/facebook-local-jobs-us) (2025-10-13)
+- [Microsoft AI announces first image generator created in-house](https://www.theverge.com/news/798923/microsoft-ai-image-generator-in-house) (2025-10-13)
+- [Google will let you hide sponsored results in search — after you’ve seen them](https://www.theverge.com/tech/798901/google-will-let-you-hide-sponsored-results-in-search-after-youve-seen-them) (2025-10-13)
+- [Tesla Cybertruck sales are flatlining](https://www.theverge.com/news/798889/tesla-cybertruck-sales-decrease-q3-2025) (2025-10-13)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Apple’s streaming service gets harder to tell apart from its streaming app, box](https://arstechnica.com/apple/2025/10/apple-tv-streaming-service-is-renamed-to-just-apple-tv/) (2025-10-13)
-- [Why Signal’s post-quantum makeover is an amazing engineering achievement](https://arstechnica.com/security/2025/10/why-signals-post-quantum-makeover-is-an-amazing-engineering-achievement/) (2025-10-13)
-- [4chan fined $26K for refusing to assess risks under UK Online Safety Act](https://arstechnica.com/tech-policy/2025/10/4chan-fined-26k-for-refusing-to-assess-risks-under-uk-online-safety-act/) (2025-10-13)
-- [Hans Koenigsmann, who investigated all of SpaceX’s rocket failures, is going to space](https://arstechnica.com/space/2025/10/one-of-spacexs-earliest-employees-is-going-to-space-via-blue-origin/) (2025-10-13)
-- [Layoffs, a “coding error,” chaos: Trump admin ravages the health dept.](https://arstechnica.com/health/2025/10/mass-firings-at-us-health-dept-partially-reversed-but-still-devastating/) (2025-10-13)
+- [Hackers can steal 2FA codes and private messages from Android phones](https://arstechnica.com/security/2025/10/no-fix-yet-for-attack-that-lets-hackers-pluck-2fa-codes-from-android-phones/) (2025-10-13)
+- [Measles outbreak in SC sends 150 unvaccinated kids into 21-day quarantine](https://arstechnica.com/health/2025/10/over-150-unvaccinated-kids-quarantined-for-21-days-in-sc-measles-outbreak/) (2025-10-13)
+- [Google’s Photoshop-killer AI model is coming to search, Photos, and NotebookLM](https://arstechnica.com/google/2025/10/googles-nano-banana-ai-image-editor-is-coming-to-search-photos-and-notebooklm/) (2025-10-13)
+- [Starship’s elementary era ends today with mega-rocket’s 11th test flight](https://arstechnica.com/science/2025/10/starships-elementary-era-ends-today-with-mega-rockets-11th-test-flight/) (2025-10-13)
+- [To shield kids, California hikes fake nude fines to $250K max](https://arstechnica.com/tech-policy/2025/10/to-shield-kids-california-hikes-fake-nude-fines-to-250k-max/) (2025-10-13)
 
 </details>
 
@@ -75,11 +75,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [GitHub Copilot CLI: How to get started](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-how-to-get-started/) (2025-10-13)
 - [How to build reliable AI workflows with agentic primitives and context engineering](https://github.blog/ai-and-ml/github-copilot/how-to-build-reliable-ai-workflows-with-agentic-primitives-and-context-engineering/) (2025-10-13)
 - [20 Years of Git, 2 days at GitHub HQ: Git Merge 2025 highlights 🎉](https://github.blog/open-source/git/20-years-of-git-2-days-at-github-hq-git-merge-2025-highlights/) (2025-10-09)
 - [GitHub Availability Report: September 2025](https://github.blog/news-insights/company-news/github-availability-report-september-2025/) (2025-10-09)
 - [Completing urgent fixes anywhere with GitHub Copilot coding agent and mobile](https://github.blog/developer-skills/github/completing-urgent-fixes-anywhere-with-github-copilot-coding-agent-and-mobile/) (2025-10-08)
-- [How GitHub Copilot enabled accessibility governance process improvements in record time](https://github.blog/ai-and-ml/github-copilot/how-we-automated-accessibility-compliance-in-five-hours-with-github-copilot/) (2025-10-07)
 
 </details>
 
@@ -97,22 +97,26 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-4p4l) (2025-10-13)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-an8) (2025-10-13)
-- [KEXP: Ezra Furman - Power Of The Moon (Live on KEXP)](https://dev.to/music_youtube/kexp-ezra-furman-power-of-the-moon-live-on-kexp-57k7) (2025-10-13)
-- [KEXP: Ezra Furman - Jump Out (Live on KEXP)](https://dev.to/music_youtube/kexp-ezra-furman-jump-out-live-on-kexp-5am0) (2025-10-13)
-- [KEXP: Ezra Furman - Veil Song (Live on KEXP)](https://dev.to/music_youtube/kexp-ezra-furman-veil-song-live-on-kexp-4n6f) (2025-10-13)
+- [Mastering Distributed Machine Learning: How to 10X Your PyTorch Training Speed with Ray & DDP](https://dev.to/m-a-h-b-u-b/mastering-distributed-machine-learning-how-to-10x-your-pytorch-training-speed-with-ray-ddp-5hgg) (2025-10-14)
+- [Barebones metadata for page sharing](https://dev.to/ovidem/barebones-metadata-for-page-sharing-3o8p) (2025-10-14)
+- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_fafe1668/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-11f2) (2025-10-14)
+- [💎 ANN: omniauth-identity v3.1.5 (Hanami/ROM Support)](https://dev.to/galtzo/ann-omniauth-identity-v315-hanamirom-support-4ha3) (2025-10-14)
+- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_02ee41d0/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-3288) (2025-10-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Type System That Outsmarts You — How Rust Enforces Safety with Math](https://medium.com/@bugsybits/the-type-system-that-outsmarts-you-how-rust-enforces-safety-with-math-bab0740234bf?source=rss------programming-5) (2025-10-13)
-- [thinkpad_tank](https://medium.com/beyond-t3ch/thinkpad-tank-f4bbad86b862?source=rss------programming-5) (2025-10-13)
-- [LangChain + Tensorlake: Unlocking Document Understanding for Agents](https://medium.com/tensorlake-ai/langchain-tensorlake-unlocking-document-understanding-for-agents-ca2d709c9417?source=rss------programming-5) (2025-10-13)
-- [The Ultimate Guide to Free SQL Practice Platforms: Sharpen Your Database Skills](https://medium.com/@bltizr9/the-ultimate-guide-to-free-sql-practice-platforms-sharpen-your-database-skills-67fbe73a7802?source=rss------programming-5) (2025-10-13)
-- [How Rust’s Type Inference Works — and Why It Sometimes Gives Up on You](https://medium.com/@syntaxSavage/how-rusts-type-inference-works-and-why-it-sometimes-gives-up-on-you-7658e0c1065f?source=rss------programming-5) (2025-10-13)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@d43103516/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-23dbab9e4c46?source=rss------programming-5) (2025-10-14)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@d43103516/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-640b21e7ef46?source=rss------programming-5) (2025-10-14)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@d43103516/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ad408086f681?source=rss------programming-5) (2025-10-14)
+- [Spec-Driven Development: Designing Before You Code (Again)](https://medium.com/@dave-patten/spec-driven-development-designing-before-you-code-again-21023ac91180?source=rss------programming-5) (2025-10-14)
+- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jjjxmnxkmx/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-765ddd237824?source=rss------programming-5) (2025-10-14)
 
 </details>
 
@@ -141,11 +145,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Elon Musk Gets Just-Launched NVIDIA DGX Spark: Petaflop AI Supercomputer Lands at SpaceX](https://blogs.nvidia.com/blog/live-dgx-spark-delivery/) (2025-10-14)
 - [NVIDIA, Partners Drive Next-Gen Efficient Gigawatt AI Factories in Buildup for Vera Rubin](https://blogs.nvidia.com/blog/gigawatt-ai-factories-ocp-vera-rubin/) (2025-10-13)
 - [NVIDIA Blackwell Raises Bar in New InferenceMAX Benchmarks, Delivering Unmatched Performance and Efficiency](https://blogs.nvidia.com/blog/blackwell-inferencemax-benchmark-results/) (2025-10-09)
 - [Microsoft Azure Unveils World’s First NVIDIA GB300 NVL72 Supercomputing Cluster for OpenAI](https://blogs.nvidia.com/blog/microsoft-azure-worlds-first-gb300-nvl72-supercomputing-cluster-openai/) (2025-10-09)
 - [Incoming: ‘Battlefield 6’ Lands on GeForce NOW at Launch](https://blogs.nvidia.com/blog/geforce-now-thursday-battlefield-6/) (2025-10-09)
-- [How AI-Powered Wireless Networks Will Revitalize US Global Leadership in Communications](https://blogs.nvidia.com/blog/ai-6g-telecommunications/) (2025-10-08)
 
 </details>
 
@@ -207,11 +211,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Docker Model Runner on the new NVIDIA DGX Spark: a new paradigm for developing AI locally](https://www.docker.com/blog/new-nvidia-dgx-spark-docker-model-runner/) (2025-10-14)
+- [100% Transparency and Five Pillars](https://www.docker.com/blog/100-transparency-and-five-pillars/) (2025-10-13)
 - [How to Add MCP Servers to Claude Code with Docker MCP Toolkit](https://www.docker.com/blog/add-mcp-servers-to-claude-code-with-mcp-toolkit/) (2025-10-10)
 - [LoRA Explained: Faster, More Efficient Fine-Tuning with Docker](https://www.docker.com/blog/lora-explained/) (2025-10-09)
 - [From the Captain’s Chair: Pradumna Saraf](https://www.docker.com/blog/from-the-captains-chair-pradumna-saraf/) (2025-10-08)
-- [Unlocking Local AI on Any GPU: Docker Model Runner Now with Vulkan Support](https://www.docker.com/blog/docker-model-runner-vulkan-gpu-support/) (2025-10-08)
-- [Powered by Docker: How Open Source Genius Cut Entropy Debt with Docker MCP Toolkit and Claude Desktop](https://www.docker.com/blog/open-source-genius-cut-entropy-debt-docker-mcp-claude/) (2025-10-07)
 
 </details>
 
@@ -251,11 +255,11 @@
 <details>
 <summary>👥 Facebook Engineering</summary>
 
+- [OCP Summit 2025: The Open Future of Networking Hardware for AI](https://engineering.fb.com/2025/10/13/data-infrastructure/ocp-summit-2025-the-open-future-of-networking-hardware-for-ai/) (2025-10-14)
 - [Introducing the React Foundation: The New Home for React & React Native](https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/) (2025-10-07)
 - [Introducing OpenZL: An Open Source Format-Aware Compression Framework](https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/) (2025-10-06)
 - [Introducing the Candle Subsea Cable, Updates to Our Asia-Pacific Connectivity Projects](https://engineering.fb.com/2025/10/05/connectivity/introducing-the-candle-subsea-cable-updates-to-our-asia-pacific-connectivity-projects/) (2025-10-06)
 - [Accelerating our Android apps with Baseline Profiles](https://engineering.fb.com/2025/10/01/android/accelerating-our-android-apps-with-baseline-profiles/) (2025-10-01)
-- [LLMs Are the Key to Mutation Testing and Better Compliance](https://engineering.fb.com/2025/09/30/security/llms-are-the-key-to-mutation-testing-and-better-compliance/) (2025-09-30)
 
 </details>
 
@@ -480,11 +484,11 @@ https://www.twilio.com/en-us/blog/products/launches/customer-intelligence-for-ad
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
+- [Named Query API Simplifies Data Access for Agents and Apps](https://developer.salesforce.com/blogs/2025/10/named-query-api-simplifies-data-access-for-agents-and-apps.html) (2025-10-13)
 - [Introducing Hybrid Reasoning with Agent Script](https://developer.salesforce.com/blogs/2025/10/introducing-hybrid-reasoning-with-agent-script.html) (2025-10-13)
 - [Agentforce Vibesでイノベーションを推進 – エンタープライズ向けバイブコーディング](https://developer.salesforce.com/blogs/2025/10/agentforce-vibes%e3%81%a7%e3%82%a4%e3%83%8e%e3%83%99%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%92%e6%8e%a8%e9%80%b2-%e3%82%a8%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%97%e3%83%a9%e3%82%a4%e3%82%ba.html) (2025-10-09)
 - [Salesforce Hosted MCP Servers Are in Beta Today](https://developer.salesforce.com/blogs/2025/10/salesforce-hosted-mcp-servers-are-in-beta-today.html) (2025-10-09)
 - [Enhance Integration Security with mTLS for Salesforce and MuleSoft](https://developer.salesforce.com/blogs/2025/10/enhance-integration-security-with-mtls-for-salesforce-and-mulesoft.html) (2025-10-09)
-- [Lightning Out 2.0 Is Now Generally Available in Winter ’26](https://developer.salesforce.com/blogs/2025/10/lightning-out-2-0-is-now-generally-available-in-winter-26.html) (2025-10-08)
 
 </details>
 
