@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [VSCO gets AI editing chops, support for RAW files](https://techcrunch.com/2025/10/15/vsco-gets-ai-editing-chops-support-for-raw-files/) (2025-10-15)
+- [Waymo plans to launch a robotaxi service in London in 2026](https://techcrunch.com/2025/10/15/waymo-plans-to-launch-a-robotaxi-service-in-london-in-2026/) (2025-10-15)
 - [OpenAI has five years to turn $13 billion into $1 trillion](https://techcrunch.com/2025/10/14/openai-has-five-years-to-turn-13-billion-into-1-trillion/) (2025-10-15)
 - [Coinbase boosts investment in India’s CoinDCX, valuing exchange at $2.45B](https://techcrunch.com/2025/10/14/coinbase-boosts-investment-in-indias-coindcx-valuing-exchange-at-2-45b/) (2025-10-15)
 - [EVs take a backseat in Stellantis’ $13B US investment plan](https://techcrunch.com/2025/10/14/evs-take-a-backseat-in-stellantis-13b-u-s-investment-plan/) (2025-10-14)
-- [Sam Altman says ChatGPT will soon allow erotica for adult users](https://techcrunch.com/2025/10/14/sam-altman-says-chatgpt-will-soon-allow-erotica-for-adult-users/) (2025-10-14)
-- [At Starbase, SpaceX is taking firefighting into its own hands](https://techcrunch.com/2025/10/14/at-starbase-spacex-is-taking-firefighting-into-its-own-hands/) (2025-10-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Pixnapping Attack](https://www.pixnapping.com/) (2025-10-15)
-- [I am a programmer, not a rubber-stamp that approves Copilot generated code](https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html) (2025-10-15)
-- [Can we know whether a profiler is accurate?](https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/) (2025-10-15)
-- [Disk Prices](https://diskprices.com/?locale=us) (2025-10-15)
-- [Nvidia DGX Spark: great hardware, early days for the ecosystem](https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/) (2025-10-15)
+- [Helpcare AI (YC F24) Is Hiring](https://news.ycombinator.com/item?id=45591082) (2025-10-15)
+- [Show HN: Halloy – the modern IRC client I hope will outlive me](https://github.com/squidowl/halloy) (2025-10-15)
+- [Ireland Is Making Basic Income for Artists Program Permanent](https://www.artnews.com/art-news/news/ireland-basic-income-artists-program-permanent-1234756981/) (2025-10-15)
+- [Esports scholarship at Deutsche Bahn (German railways)](https://db.jobs/de-de/esports-11092734) (2025-10-15)
+- [Why We're Leaving Serverless](https://www.unkey.com/blog/serverless-exit) (2025-10-15)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Samsung officially teases Moohan headset launch for next week](https://www.theverge.com/news/799607/samsung-galaxy-event-project-moohan-android-xr-event-date-worlds-wide-open) (2025-10-14)
-- [Netflix is making a big bet on video podcasts](https://www.theverge.com/news/799582/netflix-spotify-video-podcast-deal) (2025-10-14)
-- [Google’s Pixel 10 Pro Fold is the first to ‘go up in smoke during a bend test,’ JerryRigEverything says](https://www.theverge.com/news/799561/google-pixel-10-pro-fold-jerryrigeverything-teardown-durability-bend-test-battery) (2025-10-14)
-- [YouTube has a new video player](https://www.theverge.com/news/799492/youtube-new-video-player-update-changes) (2025-10-14)
-- [Facebook removes ICE-tracking page after US government ‘outreach’](https://www.theverge.com/policy/799473/facebook-meta-ice-jawboning) (2025-10-14)
+- [Only out online](https://www.theverge.com/cs/features/799045/trans-identity-online-anonymous) (2025-10-15)
+- [Doing it for themselves](https://www.theverge.com/cs/features/798638/trans-resources-online-sharing) (2025-10-15)
+- [The government shutdown is strangling aviation](https://www.theverge.com/transportation/799413/faa-air-travel-delays-government-shutdown) (2025-10-15)
+- [These are the Office icons Microsoft rejected](https://www.theverge.com/news/799736/microsoft-office-icons-test-versions) (2025-10-15)
+- [Apple exec on Apple TV rebranding: ‘let’s just do it’](https://www.theverge.com/news/799725/apple-tv-streaming-rebrand-eddy-cue) (2025-10-15)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
-- [The Download: aging clocks, and repairing the internet](https://www.technologyreview.com/2025/10/14/1125672/the-download-aging-clocks-and-repairing-the-internet/) (2025-10-14)
-- [How aging clocks can help us understand why we age—and if we can reverse it](https://www.technologyreview.com/2025/10/14/1124977/aging-clocks-biology-mortality-longevity/) (2025-10-14)
-- [Can we repair the internet?](https://www.technologyreview.com/2025/10/14/1125104/internet-improvement-book-review-regulation-user-responsibility/) (2025-10-14)
-- [Transforming commercial pharma with agentic AI ](https://www.technologyreview.com/2025/10/13/1124829/transforming-commercial-pharma-with-agentic-ai/) (2025-10-13)
-- [The Download: planet hunting, and India’s e-scooters](https://www.technologyreview.com/2025/10/13/1125657/the-download-planet-hunting-and-indias-e-scooters/) (2025-10-13)
+- [The Download: Big Tech’s carbon removals plans, and the next wave of nuclear reactors](https://www.technologyreview.com/2025/10/15/1125770/the-download-big-techs-carbon-removals-plans-and-the-next-wave-of-nuclear-reactors/) (2025-10-15)
+- [Future-proofing business capabilities with AI technologies](https://www.technologyreview.com/2025/10/15/1124329/future-proofing-business-capabilities-with-ai-technologies/) (2025-10-15)
+- [The quest to find out how our bodies react to extreme temperatures](https://www.technologyreview.com/2025/10/15/1124949/bodies-heat-climate-change-extreme-temperatures/) (2025-10-15)
+- [AI is changing how we quantify pain](https://www.technologyreview.com/2025/10/15/1125116/ai-is-changing-how-we-quantify-pain/) (2025-10-15)
+- [Big Tech’s big bet on a controversial carbon removal tactic](https://www.technologyreview.com/2025/10/15/1125715/big-techs-big-bet-on-a-controversial-carbon-removal-tactic/) (2025-10-15)
 
 </details>
 
@@ -97,26 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [🔐 10 Core Concepts Every Developer Should Know About Data Security](https://dev.to/kasra10/10-core-concepts-every-developer-should-know-about-data-security-o9d) (2025-10-15)
-- [Building an AI-Powered CV Screening System with Explainable Scoring](https://dev.to/nesnyx/building-an-ai-powered-cv-screening-system-with-explainable-scoring-20o) (2025-10-15)
-- [Andrew Huang: Beautiful new music making environment! (GRM Atelier)](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-oej) (2025-10-15)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-14k9) (2025-10-15)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-3n1e) (2025-10-15)
+- [Full Guide on Snowflake Salesforce Integration](https://dev.to/doriansabitov/full-guide-on-snowflake-salesforce-integration-10pb) (2025-10-15)
+- [Automating Deployment of Your Vue.js App to Firebase Hosting with GitHub Actions](https://dev.to/udara_dananjaya/-automating-deployment-of-your-vuejs-app-to-firebase-hosting-with-github-actions-4l6g) (2025-10-15)
+- [What is Agentic Commerce and How Macaron's AI-Powered Checkout Can Transform E-Commerce in 2025](https://dev.to/banelygalan/what-is-agentic-commerce-and-how-macarons-ai-powered-checkout-can-transform-e-commerce-in-2025-12h3) (2025-10-15)
+- [10 Tricks to Write Super Clean Code in TypeScript](https://dev.to/marcellin/10-tricks-to-write-super-clean-code-in-typescript-10k9) (2025-10-15)
+- [From Prompt to Practical: Evolving HandyFEM’s User Flow with Claude.ai + Mermaid.live](https://dev.to/constanza_diaz_dev/from-prompt-to-practical-evolving-handyfems-user-flow-with-claudeai-mermaidlive-fj7) (2025-10-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [0905.501.9190شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mbijoon999999/0905-501-9190%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-44a6a9faa06d?source=rss------programming-5) (2025-10-15)
-- [0905.501.9190شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mbijoon999999/0905-501-9190%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-dd0b9ae22914?source=rss------programming-5) (2025-10-15)
-- [7 Python Features That Feel Like Hidden Easter Eggs](https://medium.com/codrift/7-python-features-that-feel-like-hidden-easter-eggs-7b306c6f5657?source=rss------programming-5) (2025-10-15)
-- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@9skoalansjsnsns/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-938dab1c6793?source=rss------programming-5) (2025-10-15)
-- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@9skoalansjsnsns/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-58378b108e32?source=rss------programming-5) (2025-10-15)
+- [6 Python Libraries That Made Me Fall Back in Love With Coding](https://medium.com/readers-club/6-python-libraries-that-made-me-fall-back-in-love-with-coding-446cbeae63a6?source=rss------programming-5) (2025-10-15)
+- [⚙️ Node.js in 2025: Building High-Performance, Event-Driven Architectures with Worker Threads…](https://medium.com/@TheEnaModernCoder/%EF%B8%8F-node-js-in-2025-building-high-performance-event-driven-architectures-with-worker-threads-0d69802354bd?source=rss------programming-5) (2025-10-15)
+- [Python Was Great — Until It Slowed Everyone Down.](https://devrimozcay.medium.com/python-was-great-until-it-slowed-everyone-down-41df2e659ccd?source=rss------programming-5) (2025-10-15)
+- [Grok vs ChatGPT](https://morganlynne92.medium.com/grok-vs-chatgpt-c5e8b47b351a?source=rss------programming-5) (2025-10-15)
+- [⚙️ 15 Advanced Next.js : Server Actions, Edge Runtimes, React Compiler & AI-Powered Apps ](https://medium.com/@theHackHabitual/%EF%B8%8F-15-advanced-next-js-server-actions-edge-runtimes-react-compiler-ai-powered-apps-302de47bc16c?source=rss------programming-5) (2025-10-15)
 
 </details>
 
@@ -134,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation](https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/) (2025-10-14)
+- [Accelerating open-source infrastructure development for frontier AI at scale](https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/) (2025-10-14)
+- [FYAI: Why developers will lead AI transformation across the enterprise](https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/) (2025-10-13)
 - [Microsoft Azure delivers the first large scale cluster with NVIDIA GB300 NVL72 for OpenAI workloads](https://azure.microsoft.com/en-us/blog/microsoft-azure-delivers-the-first-large-scale-cluster-with-nvidia-gb300-nvl72-for-openai-workloads/) (2025-10-09)
 - [Microsoft’s commitment to supporting cloud infrastructure demand in Asia](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-asia/) (2025-10-09)
-- [Unleash your creativity at scale: Azure AI Foundry’s multimodal revolution](https://azure.microsoft.com/en-us/blog/unleash-your-creativity-at-scale-azure-ai-foundrys-multimodal-revolution/) (2025-10-06)
-- [Introducing Microsoft Agent Framework](https://azure.microsoft.com/en-us/blog/introducing-microsoft-agent-framework/) (2025-10-01)
-- [Grok 4 is now available in Azure AI Foundry: Unlock frontier intelligence and business-ready capabilities](https://azure.microsoft.com/en-us/blog/grok-4-is-now-available-in-azure-ai-foundry-unlock-frontier-intelligence-and-business-ready-capabilities/) (2025-09-29)
 
 </details>
 
@@ -451,7 +447,7 @@ https://www.twilio.com/en-us/blog/developers/community/scheduling-sms-laravel-tw
 <details>
 <summary>🔗 GraphQL Blog</summary>
 
-- [Announcing GraphQL AI Working Group](https://graphql.org/blog/2025-10-14-announcing-ai-wg) (2025-10-14)
+- [Announcing the GraphQL AI Working Group](https://graphql.org/blog/2025-10-14-announcing-ai-wg) (2025-10-14)
 - [Introducing the New GraphQL.org: A Decade of Evolution, Redesigned](https://graphql.org/blog/2025-09-08-announcing-graphqldotorg) (2025-09-08)
 - [Announcing the September 2025 Edition of the GraphQL Specification](https://graphql.org/blog/2025-09-08-september-edition) (2025-09-08)
 - [GraphQL: Supercharging AI](https://graphql.org/blog/2025-07-03-graphql-supercharging-ai) (2025-07-03)
@@ -550,11 +546,11 @@ https://www.twilio.com/en-us/blog/developers/community/scheduling-sms-laravel-tw
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Get your VLM running in 3 simple steps on Intel CPUs](https://huggingface.co/blog/openvino-vlm) (2025-10-15)
 - [SOTA OCR on-device with Core ML and dots.ocr](https://huggingface.co/blog/dots-ocr-ne) (2025-10-02)
 - [Introducing RTEB: A New Standard for Retrieval Evaluation](https://huggingface.co/blog/rteb) (2025-10-01)
 - [Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models](https://huggingface.co/blog/intel-qwen3-agent) (2025-09-29)
 - [VibeGame: Exploring Vibe Coding Games](https://huggingface.co/blog/vibegame) (2025-09-29)
-- [Swift Transformers Reaches 1.0 — and Looks to the Future](https://huggingface.co/blog/swift-transformers) (2025-09-26)
 
 </details>
 
@@ -583,11 +579,11 @@ https://www.twilio.com/en-us/blog/developers/community/scheduling-sms-laravel-tw
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [7 Tasks You Can Automate with Perplexity Comet](https://www.analyticsvidhya.com/blog/2025/10/perplexity-comet/) (2025-10-15)
 - [Qwen Code Updates: Hands-on with Plan Mode and Vision Intelligence ](https://www.analyticsvidhya.com/blog/2025/10/qwen-code-updates/) (2025-10-14)
 - [Learn like a Pro: 7 Cool Google NotebookLM Features No One Told You](https://www.analyticsvidhya.com/blog/2025/10/notebooklm-features/) (2025-10-14)
 - [A Guide to LangGraph and LangSmith for Building AI Agents](https://www.analyticsvidhya.com/blog/2025/10/a-guide-to-langgraph-and-langsmith-for-building-ai-agents/) (2025-10-14)
 - [A Step-by-Step Guide to Finetuning GPT-OSS-20B](https://www.analyticsvidhya.com/blog/2025/10/finetuning-gpt-oss/) (2025-10-14)
-- [Governing AI Agents at Scale: Unifying AI Gateways and MCP](https://www.analyticsvidhya.com/blog/2025/10/governing-agentic-ai-at-scale-with-mcp/) (2025-10-13)
 
 </details>
 
