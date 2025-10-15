@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [OpenAI has five years to turn $13 billion into $1 trillion](https://techcrunch.com/2025/10/14/openai-has-five-years-to-turn-13-billion-into-1-trillion/) (2025-10-15)
+- [Coinbase boosts investment in India’s CoinDCX, valuing exchange at $2.45B](https://techcrunch.com/2025/10/14/coinbase-boosts-investment-in-indias-coindcx-valuing-exchange-at-2-45b/) (2025-10-15)
 - [EVs take a backseat in Stellantis’ $13B US investment plan](https://techcrunch.com/2025/10/14/evs-take-a-backseat-in-stellantis-13b-u-s-investment-plan/) (2025-10-14)
 - [Sam Altman says ChatGPT will soon allow erotica for adult users](https://techcrunch.com/2025/10/14/sam-altman-says-chatgpt-will-soon-allow-erotica-for-adult-users/) (2025-10-14)
 - [At Starbase, SpaceX is taking firefighting into its own hands](https://techcrunch.com/2025/10/14/at-starbase-spacex-is-taking-firefighting-into-its-own-hands/) (2025-10-14)
-- [Inaudible sound might be the next frontier in wildfire defense](https://techcrunch.com/2025/10/14/inaudible-sound-might-be-the-next-frontier-in-wildfire-defense/) (2025-10-14)
-- [Spotify partners with Netflix for video podcast distribution deal](https://techcrunch.com/2025/10/14/spotifys-video-podcasts-are-coming-to-netflix-next-year/) (2025-10-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Meditating with mongooses: Backyard wildlife phtotography lessons](https://wildgundmi.com/meditating-with-mongooses) (2025-10-15)
-- [State Department Revokes Visas over Charlie Kirk Comments](https://www.wsj.com/politics/state-department-revokes-visas-over-charlie-kirk-comments-3c30d9ae) (2025-10-14)
-- [FSF announces Librephone project](https://www.fsf.org/news/librephone-project) (2025-10-14)
-- [Interior cancels largest solar project in North America](https://www.politico.com/news/2025/10/10/trump-interior-department-cancels-largest-solar-project-in-north-america-00602071) (2025-10-14)
-- [GrapheneOS is finally ready to break free from Pixels and it may never look back](https://www.androidauthority.com/graphene-os-major-android-oem-partnership-3606853/) (2025-10-14)
+- [Pixnapping Attack](https://www.pixnapping.com/) (2025-10-15)
+- [I am a programmer, not a rubber-stamp that approves Copilot generated code](https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html) (2025-10-15)
+- [Can we know whether a profiler is accurate?](https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/) (2025-10-15)
+- [Disk Prices](https://diskprices.com/?locale=us) (2025-10-15)
+- [Nvidia DGX Spark: great hardware, early days for the ecosystem](https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/) (2025-10-15)
 
 </details>
 
@@ -97,22 +97,26 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Exploring Brazilian E-commerce with Spark on Databricks Free Edition](https://dev.to/jackson_freitas_42cbeaf74/exploring-brazilian-e-commerce-with-spark-on-databricks-free-edition-4lb6) (2025-10-15)
-- [How to Build AI-Powered Tools Without Writing Code](https://dev.to/jaideepparashar/how-to-build-ai-powered-tools-without-writing-code-d37) (2025-10-15)
-- [Pagonic: My 10-Month Journey to Build a WinRAR Alternative](https://dev.to/setrathexx/pagonic-my-10-month-journey-to-build-a-winrar-alternative-5436) (2025-10-15)
-- [Dual Write and the Transactional Outbox Pattern](https://dev.to/igor_grieder/dual-write-and-the-transactional-outbox-pattern-aid) (2025-10-15)
-- [: Issues with APIs for soccer stats and CORS when using API](https://dev.to/samuel_pea_923ed4db2832b/-issues-with-apis-for-soccer-stats-and-cors-when-using-api-64d) (2025-10-15)
+- [🔐 10 Core Concepts Every Developer Should Know About Data Security](https://dev.to/kasra10/10-core-concepts-every-developer-should-know-about-data-security-o9d) (2025-10-15)
+- [Building an AI-Powered CV Screening System with Explainable Scoring](https://dev.to/nesnyx/building-an-ai-powered-cv-screening-system-with-explainable-scoring-20o) (2025-10-15)
+- [Andrew Huang: Beautiful new music making environment! (GRM Atelier)](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-oej) (2025-10-15)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-14k9) (2025-10-15)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-3n1e) (2025-10-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [7 Advanced FastAPI Background Task Patterns That Eliminate the Need for Celery and Redis Queues](https://medium.techkoalainsights.com/7-advanced-fastapi-background-task-patterns-that-eliminate-the-need-for-celery-and-redis-queues-c3bce29dd5fb?source=rss------programming-5) (2025-10-15)
-- [Implementing Custom Iterators and Generators Like a Pro](https://medium.com/predict/implementing-custom-iterators-and-generators-like-a-pro-01c601263564?source=rss------programming-5) (2025-10-15)
-- [Title: Can Technology Predict the Rise and Fall of Nations?](https://medium.com/predict/title-can-technology-predict-the-rise-and-fall-of-nations-65967e336721?source=rss------programming-5) (2025-10-15)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbvxx2vhjn/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-8dc9e70f346a?source=rss------programming-5) (2025-10-15)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbvxx2vhjn/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ff136e78470c?source=rss------programming-5) (2025-10-15)
+- [0905.501.9190شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mbijoon999999/0905-501-9190%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-44a6a9faa06d?source=rss------programming-5) (2025-10-15)
+- [0905.501.9190شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mbijoon999999/0905-501-9190%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-dd0b9ae22914?source=rss------programming-5) (2025-10-15)
+- [7 Python Features That Feel Like Hidden Easter Eggs](https://medium.com/codrift/7-python-features-that-feel-like-hidden-easter-eggs-7b306c6f5657?source=rss------programming-5) (2025-10-15)
+- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@9skoalansjsnsns/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-938dab1c6793?source=rss------programming-5) (2025-10-15)
+- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@9skoalansjsnsns/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-58378b108e32?source=rss------programming-5) (2025-10-15)
 
 </details>
 
@@ -362,6 +366,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+What Brand Builders Need Most Right Now? Smarter Data, Real-Time Personalization, and AI That Actually Works | AdWeek 2025 Recap
+](
+https://www.twilio.com/en-us/blog/events/advertising-week-2025-recap
+) (2025-10-14)
+- [
 Senders Gain Access to More Data with Yahoo ‘Insights’ 
 ](
 https://www.twilio.com/en-us/blog/insights/yahoo-insights
@@ -381,11 +390,6 @@ Scheduling SMS in Laravel with Twilio
 ](
 https://www.twilio.com/en-us/blog/developers/community/scheduling-sms-laravel-twilio
 ) (2025-10-07)
-- [
-Introducing Customer Intelligence for Advertisers
-](
-https://www.twilio.com/en-us/blog/products/launches/customer-intelligence-for-advertisers
-) (2025-10-06)
 
 </details>
 
@@ -502,11 +506,11 @@ https://www.twilio.com/en-us/blog/products/launches/customer-intelligence-for-ad
 <details>
 <summary>💬 Slack API</summary>
 
+- [Introducing the Agentic OS: How Slack Is Reimagining Work for the AI Era](https://slack.com/blog/news/dreamforce-slack-native-ai) (2025-10-13)
+- [Unlocking the Power of Conversation: How Slack’s New Platform is Fueling the Agentic Era](https://slack.com/blog/news/powering-agentic-collaboration) (2025-10-13)
 - [What Is Personalized Search, and How Does It Work?](https://slack.com/blog/productivity/what-is-personalized-search-and-how-does-it-work) (2025-10-07)
 - [AI Assistants: Everything You Need to Know](https://slack.com/blog/transformation/ai-assistants-what-they-do-and-why-you-need-them) (2025-10-07)
 - [A Complete Guide to AI Summarization: Benefits, Use Cases, and Tools](https://slack.com/blog/productivity/ai-summarization-a-guide-to-conquering-information-overload) (2025-10-01)
-- [Document Workflows Like a Pro: Tips, Tools, and Real-World Examples](https://slack.com/blog/productivity/workflow-documentation-what-it-is-how-to-create-it-and-why-it-matters) (2025-10-01)
-- [Work Order Management: Essential Steps and Strategies](https://slack.com/blog/productivity/work-order-management-essential-steps-and-strategies) (2025-09-29)
 
 </details>
 
