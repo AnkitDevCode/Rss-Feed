@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [EVs take a backseat in Stellantis’ $13B US investment plan](https://techcrunch.com/2025/10/14/evs-take-a-backseat-in-stellantis-13b-u-s-investment-plan/) (2025-10-14)
+- [Sam Altman says ChatGPT will soon allow erotica for adult users](https://techcrunch.com/2025/10/14/sam-altman-says-chatgpt-will-soon-allow-erotica-for-adult-users/) (2025-10-14)
+- [At Starbase, SpaceX is taking firefighting into its own hands](https://techcrunch.com/2025/10/14/at-starbase-spacex-is-taking-firefighting-into-its-own-hands/) (2025-10-14)
+- [Inaudible sound might be the next frontier in wildfire defense](https://techcrunch.com/2025/10/14/inaudible-sound-might-be-the-next-frontier-in-wildfire-defense/) (2025-10-14)
 - [Spotify partners with Netflix for video podcast distribution deal](https://techcrunch.com/2025/10/14/spotifys-video-podcasts-are-coming-to-netflix-next-year/) (2025-10-14)
-- [Impulse Space details plan to deliver up to 6 tons a year to the Moon](https://techcrunch.com/2025/10/14/impulse-space-details-plan-to-deliver-up-to-6-tons-a-year-to-the-moon/) (2025-10-14)
-- [Mozilla’s Firefox adds Perplexity’s AI answer engine as a new search option](https://techcrunch.com/2025/10/14/mozillas-firefox-adds-perplexitys-ai-answer-engine-as-a-new-search-option/) (2025-10-14)
-- [Facebook brings back job listings in the US](https://techcrunch.com/2025/10/14/facebook-brings-back-job-listings-in-the-us/) (2025-10-14)
-- [Google’s Gemini can now help you schedule Google Calendar meetings](https://techcrunch.com/2025/10/14/googles-gemini-can-now-help-you-schedule-google-calendar-meetings/) (2025-10-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [How bad can a $2.97 ADC be?](https://excamera.substack.com/p/how-bad-can-a-297-adc-be) (2025-10-14)
-- [Prefix sum: 20 GB/s (2.6x baseline)](https://github.com/ashtonsix/perf-portfolio/tree/main/delta) (2025-10-14)
-- [Hold Off on Litestream 0.5.0](https://mtlynch.io/notes/hold-off-on-litestream-0.5.0/) (2025-10-14)
-- [Subverting Telegram's end-to-end encryption (2023)](https://tosc.iacr.org/index.php/ToSC/article/view/10302) (2025-10-14)
-- [GPT-5o-mini hallucinates medical residency applicant grades](https://www.thalamusgme.com/blogs/cortex-core-clerkship-grades-and-transcript-normalization) (2025-10-14)
+- [Meditating with mongooses: Backyard wildlife phtotography lessons](https://wildgundmi.com/meditating-with-mongooses) (2025-10-15)
+- [State Department Revokes Visas over Charlie Kirk Comments](https://www.wsj.com/politics/state-department-revokes-visas-over-charlie-kirk-comments-3c30d9ae) (2025-10-14)
+- [FSF announces Librephone project](https://www.fsf.org/news/librephone-project) (2025-10-14)
+- [Interior cancels largest solar project in North America](https://www.politico.com/news/2025/10/10/trump-interior-department-cancels-largest-solar-project-in-north-america-00602071) (2025-10-14)
+- [GrapheneOS is finally ready to break free from Pixels and it may never look back](https://www.androidauthority.com/graphene-os-major-android-oem-partnership-3606853/) (2025-10-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Sam Altman says ChatGPT will soon sext with verified adults](https://www.theverge.com/news/799312/openai-chatgpt-erotica-sam-altman-verified-adults) (2025-10-14)
-- [The best ereader to buy right now](https://www.theverge.com/23769068/best-ebook-readers) (2025-10-14)
-- [California cracks down on ‘predatory’ early cancellation fees](https://www.theverge.com/news/799237/california-ab483-law-early-termination-fees) (2025-10-14)
-- [Discord blamed a vendor for its data breach — now the vendor says it was ‘not hacked’](https://www.theverge.com/news/799274/discord-security-breach-5ca-vendor-blamed-not-hacked) (2025-10-14)
-- [Pokémon Legends: Z-A is a fantastic return to (mega) form](https://www.theverge.com/games/798848/pokemon-legends-za-review-nintendo-switch-2) (2025-10-14)
+- [Samsung officially teases Moohan headset launch for next week](https://www.theverge.com/news/799607/samsung-galaxy-event-project-moohan-android-xr-event-date-worlds-wide-open) (2025-10-14)
+- [Netflix is making a big bet on video podcasts](https://www.theverge.com/news/799582/netflix-spotify-video-podcast-deal) (2025-10-14)
+- [Google’s Pixel 10 Pro Fold is the first to ‘go up in smoke during a bend test,’ JerryRigEverything says](https://www.theverge.com/news/799561/google-pixel-10-pro-fold-jerryrigeverything-teardown-durability-bend-test-battery) (2025-10-14)
+- [YouTube has a new video player](https://www.theverge.com/news/799492/youtube-new-video-player-update-changes) (2025-10-14)
+- [Facebook removes ICE-tracking page after US government ‘outreach’](https://www.theverge.com/policy/799473/facebook-meta-ice-jawboning) (2025-10-14)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [OpenAI unveils “wellness” council; suicide prevention expert not included](https://arstechnica.com/tech-policy/2025/10/openai-unveils-wellness-council-suicide-prevention-expert-not-included/) (2025-10-14)
-- [Nvidia sells tiny new computer that puts big AI on your desktop](https://arstechnica.com/ai/2025/10/nvidia-sells-tiny-new-computer-that-puts-big-ai-on-your-desktop/) (2025-10-14)
-- [GM’s EV push will cost it $1.6 billion in Q3 with end of the tax credit](https://arstechnica.com/cars/2025/10/gms-ev-push-will-cost-it-1-6-billion-in-q3-with-end-of-the-tax-credit/) (2025-10-14)
-- [Windows 10 support “ends” today, but it’s just the first of many deaths](https://arstechnica.com/gadgets/2025/10/windows-10-support-ends-today-but-its-just-the-first-of-many-deaths/) (2025-10-14)
-- [OpenAI wants to stop ChatGPT from validating users’ political views](https://arstechnica.com/ai/2025/10/openai-wants-to-stop-chatgpt-from-validating-users-political-views/) (2025-10-14)
+- [NATO boss mocks Russian navy, which is on the hunt for Red October “the nearest mechanic”](https://arstechnica.com/security/2025/10/nato-boss-mocks-russian-navy-which-is-on-the-hunt-for-red-october-the-nearest-mechanic/) (2025-10-14)
+- [Feds seize $15 billion from alleged forced labor scam built on “human suffering”](https://arstechnica.com/tech-policy/2025/10/feds-seize-15-billion-from-alleged-forced-labor-scam-built-on-human-suffering/) (2025-10-14)
+- [Trump admin pressured Facebook into removing ICE-tracking group](https://arstechnica.com/tech-policy/2025/10/trump-admin-pressured-facebook-into-removing-ice-tracking-group/) (2025-10-14)
+- [DirecTV screensavers will show AI-generated ads with your face in 2026](https://arstechnica.com/gadgets/2025/10/directv-screensavers-will-show-ai-generated-ads-with-your-face-in-2026/) (2025-10-14)
+- [Google will let Gemini schedule meetings for you in Gmail](https://arstechnica.com/google/2025/10/gemini-can-now-help-schedule-meetings-in-gmail/) (2025-10-14)
 
 </details>
 
@@ -97,33 +97,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building Arenadata’s Engineering Team: Growth Story from the Inside](https://dev.to/marina_feder_912194c77adb/building-arenadatas-engineering-team-growth-story-from-the-inside-40ia) (2025-10-14)
-- [AutoAgents – a Rust-Based Multi-Agent Framework for LLM-Powered Intelligence](https://dev.to/saivishwak/autoagents-a-rust-based-multi-agent-framework-for-llm-powered-intelligence-27h2) (2025-10-14)
-- [Tree Shaking in JavaScript - A Practical Guide](https://dev.to/md_isfaruddin_65557809e/tree-shaking-in-javascript-a-practical-guide-4bk7) (2025-10-14)
-- [Named Params in C](https://dev.to/jmatth11/named-params-in-c-2a2n) (2025-10-14)
-- [Your Website Speaks to Humans, But Does AI Understand It? A Deep Dive into the Dual Web Strategy](https://dev.to/thedavestack/your-website-speaks-to-humans-but-does-ai-understand-it-a-deep-dive-into-the-dual-web-strategy-4bp1) (2025-10-14)
+- [Exploring Brazilian E-commerce with Spark on Databricks Free Edition](https://dev.to/jackson_freitas_42cbeaf74/exploring-brazilian-e-commerce-with-spark-on-databricks-free-edition-4lb6) (2025-10-15)
+- [How to Build AI-Powered Tools Without Writing Code](https://dev.to/jaideepparashar/how-to-build-ai-powered-tools-without-writing-code-d37) (2025-10-15)
+- [Pagonic: My 10-Month Journey to Build a WinRAR Alternative](https://dev.to/setrathexx/pagonic-my-10-month-journey-to-build-a-winrar-alternative-5436) (2025-10-15)
+- [Dual Write and the Transactional Outbox Pattern](https://dev.to/igor_grieder/dual-write-and-the-transactional-outbox-pattern-aid) (2025-10-15)
+- [: Issues with APIs for soccer stats and CORS when using API](https://dev.to/samuel_pea_923ed4db2832b/-issues-with-apis-for-soccer-stats-and-cors-when-using-api-64d) (2025-10-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [AI Killed My Coding Brain But I’m Rebuilding It](https://gauravtakjaipur.medium.com/ai-killed-my-coding-brain-but-im-rebuilding-it-2c2142e83815?source=rss------programming-5) (2025-10-14)
-- [The slow death of epiphanies and utilitarian coding](https://prahladyeri.medium.com/the-slow-death-of-epiphanies-and-utilitarian-coding-0b03a2194633?source=rss------programming-5) (2025-10-14)
-- [Understanding JavaScript Functions](https://medium.com/@zakirhussain97/understanding-javascript-functions-96597bcec4e1?source=rss------programming-5) (2025-10-14)
-- [How Does JavaScript Handle Numbers in Memory?](https://medium.com/@poojapawar3774/how-does-javascript-handle-numbers-in-memory-699d35a50c99?source=rss------programming-5) (2025-10-14)
-- [Finding the Least Common Multiple with Java Loops](https://medium.com/@AlexanderObregon/finding-the-least-common-multiple-with-java-loops-bf37d62da1ec?source=rss------programming-5) (2025-10-14)
+- [7 Advanced FastAPI Background Task Patterns That Eliminate the Need for Celery and Redis Queues](https://medium.techkoalainsights.com/7-advanced-fastapi-background-task-patterns-that-eliminate-the-need-for-celery-and-redis-queues-c3bce29dd5fb?source=rss------programming-5) (2025-10-15)
+- [Implementing Custom Iterators and Generators Like a Pro](https://medium.com/predict/implementing-custom-iterators-and-generators-like-a-pro-01c601263564?source=rss------programming-5) (2025-10-15)
+- [Title: Can Technology Predict the Rise and Fall of Nations?](https://medium.com/predict/title-can-technology-predict-the-rise-and-fall-of-nations-65967e336721?source=rss------programming-5) (2025-10-15)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbvxx2vhjn/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-8dc9e70f346a?source=rss------programming-5) (2025-10-15)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbvxx2vhjn/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ff136e78470c?source=rss------programming-5) (2025-10-15)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Introducing Amazon EBS Volume Clones: Create instant copies of your EBS volumes](https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-create-instant-copies-of-your-ebs-volumes/) (2025-10-14)
+- [AWS Transfer Family SFTP connectors now support VPC-based connectivity](https://aws.amazon.com/blogs/aws/aws-transfer-family-sftp-connectors-now-support-vpc-based-connectivity/) (2025-10-14)
 - [AWS Weekly Roundup: Amazon Quick Suite, Amazon EC2, Amazon EKS, and more (October 13, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-quick-suite-amazon-ec2-amazon-eks-and-more-october-13-2025/) (2025-10-13)
 - [Announcing Amazon Quick Suite: your agentic teammate for answering questions and taking action](https://aws.amazon.com/blogs/aws/reimagine-the-way-you-work-with-ai-agents-in-amazon-quick-suite/) (2025-10-09)
 - [New general-purpose Amazon EC2 M8a instances are now available](https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8a-instances-are-now-available/) (2025-10-08)
-- [Introducing new compute-optimized Amazon EC2 C8i and C8i-flex instances](https://aws.amazon.com/blogs/aws/introducing-new-compute-optimized-amazon-ec2-c8i-and-c8i-flex-instances/) (2025-10-06)
-- [AWS IAM Identity Center now supports customer-managed KMS keys for encryption at rest](https://aws.amazon.com/blogs/aws/aws-iam-identity-center-now-supports-customer-managed-kms-keys-for-encryption-at-rest/) (2025-10-06)
 
 </details>
 
@@ -251,11 +251,11 @@
 <details>
 <summary>👥 Facebook Engineering</summary>
 
+- [Design for Sustainability: New Design Principles for Reducing IT Hardware Emissions](https://engineering.fb.com/2025/10/14/data-center-engineering/design-for-sustainability-new-design-principles-for-reducing-it-hardware-emissions/) (2025-10-14)
+- [How Meta Is Leveraging AI To Improve the Quality of Scope 3 Emission Estimates for IT Hardware](https://engineering.fb.com/2025/10/14/data-center-engineering/how-meta-is-leveraging-ai-to-improve-the-quality-of-scope-3-emission-estimates-for-it-hardware/) (2025-10-14)
 - [OCP Summit 2025: The Open Future of Networking Hardware for AI](https://engineering.fb.com/2025/10/13/data-infrastructure/ocp-summit-2025-the-open-future-of-networking-hardware-for-ai/) (2025-10-14)
 - [Introducing the React Foundation: The New Home for React & React Native](https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/) (2025-10-07)
 - [Introducing OpenZL: An Open Source Format-Aware Compression Framework](https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/) (2025-10-06)
-- [Introducing the Candle Subsea Cable, Updates to Our Asia-Pacific Connectivity Projects](https://engineering.fb.com/2025/10/05/connectivity/introducing-the-candle-subsea-cable-updates-to-our-asia-pacific-connectivity-projects/) (2025-10-06)
-- [Accelerating our Android apps with Baseline Profiles](https://engineering.fb.com/2025/10/01/android/accelerating-our-android-apps-with-baseline-profiles/) (2025-10-01)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Unpacking Cloudflare Workers CPU Performance Benchmarks](https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/) (2025-10-14)
 - [Introducing REACT: Why We Built an Elite Incident Response Team](https://blog.cloudflare.com/introducing-react-why-we-built-an-elite-incident-response-team/) (2025-10-09)
 - [How we found a bug in Go's arm64 compiler](https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/) (2025-10-08)
 - [Payload on Workers: a full-fledged CMS, running entirely on Cloudflare’s stack](https://blog.cloudflare.com/payload-cms-workers/) (2025-09-30)
 - [Nationwide Internet shutdown in Afghanistan extends localized disruptions](https://blog.cloudflare.com/nationwide-internet-shutdown-in-afghanistan/) (2025-09-30)
-- [15 years of helping build a better Internet: a look back at Birthday Week 2025](https://blog.cloudflare.com/birthday-week-2025-wrap-up/) (2025-09-29)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/products/launches/customer-intelligence-for-ad
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Learning Triton One Kernel at a Time: Matrix Multiplication](https://towardsdatascience.com/learning-triton-one-kernel-at-a-time-matrix-multiplication/) (2025-10-14)
 - [Building A Successful Relationship With Stakeholders](https://towardsdatascience.com/building-a-successful-relationship-with-stakeholders-2/) (2025-10-14)
 - [Why AI Still Can’t Replace Analysts: A Predictive Maintenance Example](https://towardsdatascience.com/why-ai-still-cant-replace-analysts-a-predictive-maintenance-example/) (2025-10-14)
 - [Human Won’t Replace Python](https://towardsdatascience.com/human-wont-replace-python/) (2025-10-14)
 - [How to Spin Up a Project Structure with Cookiecutter](https://towardsdatascience.com/how-to-spin-up-a-project-structure-with-cookiecutter/) (2025-10-13)
-- [10 Data + AI Observations for Fall 2025](https://towardsdatascience.com/10-data-ai-observations-to-watch-in-fall-2025/) (2025-10-10)
 
 </details>
 
