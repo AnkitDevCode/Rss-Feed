@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Jack & Jill raises $20 million to bring conversational AI to job-hunting](https://techcrunch.com/2025/10/16/jack-jill-raises-20-million-to-bring-conversational-ai-to-job-hunting/) (2025-10-16)
+- [How emerging Mubadala-backed AAF is winning VC deals in some of the hottest startups](https://techcrunch.com/2025/10/16/how-tiny-mubadala-backed-aaf-is-winning-vc-deals-in-some-of-the-hottest-startups/) (2025-10-16)
+- [Zepto raises $450 million at $7 billion valuation as Indian quick commerce market heats up](https://techcrunch.com/2025/10/16/zepto-raises-450-million-at-7-billion-valuation-as-indian-quick-commerce-market-heats-up/) (2025-10-16)
+- [India’s Kuku snags $85M as mobile content wars intensify](https://techcrunch.com/2025/10/15/indias-kuku-snags-85m-as-mobile-content-wars-intensify/) (2025-10-16)
 - [Co-founder of Indian social network Koo releases a new photo sharing app](https://techcrunch.com/2025/10/15/co-founder-of-indian-social-network-koo-releases-a-new-photo-sharing-app/) (2025-10-16)
-- [Seoul weighs approval for Google, Apple high-resolution map requests](https://techcrunch.com/2025/10/15/seoul-weighs-approval-for-google-apple-high-resolution-map-requests/) (2025-10-16)
-- [Electric aircraft startup Beta Technologies seeks to raise $825M in IPO](https://techcrunch.com/2025/10/15/electric-aircraft-startup-beta-technologies-seeks-to-raise-825m-in-ipo/) (2025-10-15)
-- [This Thiel-backed venture allows doping in its own sports](https://techcrunch.com/video/this-thiel-backed-venture-allows-doping-in-its-own-sports/) (2025-10-15)
-- [Spotify spotted working on a ‘SongDNA’ feature that showcases the people behind your favorite music](https://techcrunch.com/2025/10/15/spotify-spotted-working-on-a-songdna-feature-that-showcases-the-people-behind-your-favorite-music/) (2025-10-15)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [New Coding Models and Integrations](https://ollama.com/blog/coding-models) (2025-10-16)
-- [TurboTax's 20-Year Fight to Stop Americans from Filing Their Taxes for Free (2019)](https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free) (2025-10-16)
-- [What Does George Orwell's '1984' Mean in 2024?](https://www.smithsonianmag.com/history/what-does-george-orwells-1984-mean-in-2024-180984468/) (2025-10-16)
-- [TaxCalcBench: Evaluating Frontier Models on the Tax Calculation Task](https://arxiv.org/abs/2507.16126) (2025-10-16)
-- [Free applicatives, the handle pattern, and remote systems](https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html) (2025-10-16)
+- [How The Pentagon Is Blocking Out News Organizations](https://www.nytimes.com/interactive/2025/10/15/business/media/pentatgon-press-rules.html) (2025-10-16)
+- [Jiga (YC W21) Is Hiring Full Stacks](https://www.workatastartup.com/jobs/44310) (2025-10-16)
+- [Liquibase continues to advertise itself as "open source" despite license switch](https://github.com/liquibase/liquibase/issues/7374) (2025-10-16)
+- [The Hidden Math of Ocean Waves Crashes Into View](https://www.quantamagazine.org/the-hidden-math-of-ocean-waves-crashes-into-view-20251015/) (2025-10-16)
+- [Steve Jobs and Cray-1 to be featured on 2026 American Innovations $1 coin](https://www.usmint.gov/news/press-releases/united-states-mint-releases-2026-american-innovation-one-dollar-coin-program-designs) (2025-10-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The DIY and IRL energy of punk rock mutual aid](https://www.theverge.com/cs/features/799722/trans-punk-rock-mutual-aid-ekko-astral) (2025-10-16)
+- [Steve Jobs will appear on commemorative $1 coin](https://www.theverge.com/news/800548/steve-jobs-commemorative-dollar-coin-us-mint) (2025-10-16)
+- [Microsoft is reportedly moving its Surface manufacturing out of China](https://www.theverge.com/news/800538/microsoft-surface-manufacturing-china-move-report) (2025-10-16)
 - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals) (2025-10-16)
 - [Google’s AI video generator is getting better editing and more audio](https://www.theverge.com/news/800371/google-veo-3-1-flow-audio) (2025-10-15)
-- [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple) (2025-10-15)
-- [The MLB app’s best feature is a 30-second delay](https://www.theverge.com/tech/800279/mlb-app-baseball-notifications-delay) (2025-10-15)
-- [Here’s where you can preorder the new M5 MacBook Pro and iPad Pro](https://www.theverge.com/tech/800056/m5-macbook-pro-14-inch-ipad-pro-preorder-price-release-date-availability) (2025-10-15)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Inside the web infrastructure revolt over Google’s AI Overviews](https://arstechnica.com/ai/2025/10/inside-the-web-infrastructure-revolt-over-googles-ai-overviews/) (2025-10-16)
 - [Army general says he’s using AI to improve “decision-making”](https://arstechnica.com/ai/2025/10/army-general-says-hes-using-ai-to-improve-decision-making/) (2025-10-15)
 - [Rice weevil on a grain of rice wins 2025 Nikon Small World contest](https://arstechnica.com/science/2025/10/meet-the-2025-nikon-photomicrography-winners/) (2025-10-15)
 - [Once unthinkable, NASA and Lockheed now consider launching Orion on other rockets](https://arstechnica.com/space/2025/10/once-unthinkable-nasa-and-lockheed-now-consider-launching-orion-on-other-rockets/) (2025-10-15)
 - [Thousands of customers imperiled after nation-state ransacks F5’s network](https://arstechnica.com/security/2025/10/breach-of-f5-requires-emergency-action-from-big-ip-users-feds-warn/) (2025-10-15)
-- [CDC tormented: HR workers summoned from furlough to lay off themselves, others](https://arstechnica.com/health/2025/10/cdc-tormented-hr-workers-summoned-from-furlough-to-lay-off-themselves-others/) (2025-10-15)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: creating the perfect baby, and carbon removal’s lofty promises](https://www.technologyreview.com/2025/10/16/1125851/the-download-creating-the-perfect-baby-and-carbon-removals-lofty-promises/) (2025-10-16)
+- [Meet the man building a starter kit for civilization](https://www.technologyreview.com/2025/10/16/1125146/civilization-start-kit-open-source-essential-machines/) (2025-10-16)
+- [The race to make the perfect baby is creating an ethical mess](https://www.technologyreview.com/2025/10/16/1125159/ethics-embryo-screening-reproduction-baby/) (2025-10-16)
+- [The problem with Big Tech’s favorite carbon removal tech](https://www.technologyreview.com/2025/10/16/1125794/carbon-removal-beccs-problems/) (2025-10-16)
 - [The Download: Big Tech’s carbon removals plans, and the next wave of nuclear reactors](https://www.technologyreview.com/2025/10/15/1125770/the-download-big-techs-carbon-removals-plans-and-the-next-wave-of-nuclear-reactors/) (2025-10-15)
-- [Future-proofing business capabilities with AI technologies](https://www.technologyreview.com/2025/10/15/1124329/future-proofing-business-capabilities-with-ai-technologies/) (2025-10-15)
-- [The quest to find out how our bodies react to extreme temperatures](https://www.technologyreview.com/2025/10/15/1124949/bodies-heat-climate-change-extreme-temperatures/) (2025-10-15)
-- [AI is changing how we quantify pain](https://www.technologyreview.com/2025/10/15/1125116/ai-is-changing-how-we-quantify-pain/) (2025-10-15)
-- [Big Tech’s big bet on a controversial carbon removal tactic](https://www.technologyreview.com/2025/10/15/1125715/big-techs-big-bet-on-a-controversial-carbon-removal-tactic/) (2025-10-15)
 
 </details>
 
@@ -97,25 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Hashicorp Vault: High-Level Architecture, Components, and Key Concepts](https://dev.to/admantium/hashicorp-vault-high-level-architecture-components-and-key-concepts-4d8j) (2025-10-16)
-- [I built Log Bull — the simple alternative to ELK, Loki and Graylog to collect logs from code (Python, Java, Go, JS, PHP, etc.)](https://dev.to/rostislav_dugin/i-built-log-bull-the-simple-alternative-to-elk-loki-and-graylog-to-collect-logs-from-code-5eji) (2025-10-16)
-- [Secret Productivity Hack On VS Code](https://dev.to/harish_kumar_20cdaccf4610/secret-productivity-hack-on-vs-code-1cna) (2025-10-16)
-- [Andrew Huang: Beautiful new music making environment! (GRM Atelier)](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-4920) (2025-10-16)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-4ehg) (2025-10-16)
+- [Why Africa’s Digital Future Depends on Free and Open Source Software (FOSS) and Linux](https://dev.to/dominique_adabi/why-africas-digital-future-depends-on-free-and-open-source-software-foss-and-linux-305d) (2025-10-16)
+- [Andrew Huang: Beautiful new music making environment! (GRM Atelier)](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-39i) (2025-10-16)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-1pd5) (2025-10-16)
+- [KEXP: Indigo De Souza - Not My Body (Live on KEXP)](https://dev.to/music_youtube/kexp-indigo-de-souza-not-my-body-live-on-kexp-40jb) (2025-10-16)
+- [KEXP: Circles Around the Sun - Hot Pursuit (Live on KEXP)](https://dev.to/music_youtube/kexp-circles-around-the-sun-hot-pursuit-live-on-kexp-1m3e) (2025-10-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jdhdkmdbbbx/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-a9064988d5d1?source=rss------programming-5) (2025-10-16)
-- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jdhdkmdbbbx/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-2ca70697ee44?source=rss------programming-5) (2025-10-16)
-- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jdhdkmdbbbx/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-64367d43fefa?source=rss------programming-5) (2025-10-16)
-- [09045080282شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@16yyccyfifufufujffjfj/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-771d8f362cbc?source=rss------programming-5) (2025-10-16)
-- [ 12 React Coding Interview Questions](https://javascript.plainenglish.io/12-react-coding-interview-questions-19a4b19496bd?source=rss------programming-5) (2025-10-16)
+- [Spatial Web Development: Build Modern Location-Aware Applications](https://medium.com/@stacyfuende/spatial-web-development-build-modern-location-aware-applications-bd539f895e3a?source=rss------programming-5) (2025-10-16)
+- [ JavaScript Event Loop Explained — The Magic Behind Async Code](https://javascript.plainenglish.io/javascript-event-loop-explained-the-magic-behind-async-code-2aad41e81139?source=rss------programming-5) (2025-10-16)
+- [5 Hidden Python Gems That’ll Make You a Smarter Data Scientist](https://medium.com/pyzilla/lesser-known-python-features-for-data-scientists-80e7d92b1080?source=rss------programming-5) (2025-10-16)
+- [Fullstack DOT NET Training in Hyderabad](https://medium.com/@molletibalu/fullstack-dot-net-training-in-hyderabad-0e5552e53280?source=rss------programming-5) (2025-10-16)
+- [ 10 Next.js Tips & Tricks to Build Faster, Smarter, and Scalable Apps](https://medium.com/@theNewGenCoder/10-next-js-tips-tricks-to-build-faster-smarter-and-scalable-apps-e5ee37fa06c7?source=rss------programming-5) (2025-10-16)
 
 </details>
 
@@ -133,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Accelerating open-source infrastructure development for frontier AI at scale](https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/) (2025-10-14)
 - [FYAI: Why developers will lead AI transformation across the enterprise](https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/) (2025-10-13)
 - [Microsoft Azure delivers the first large scale cluster with NVIDIA GB300 NVL72 for OpenAI workloads](https://azure.microsoft.com/en-us/blog/microsoft-azure-delivers-the-first-large-scale-cluster-with-nvidia-gb300-nvl72-for-openai-workloads/) (2025-10-09)
 - [Microsoft’s commitment to supporting cloud infrastructure demand in Asia](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-asia/) (2025-10-09)
 - [Unleash your creativity at scale: Azure AI Foundry’s multimodal revolution](https://azure.microsoft.com/en-us/blog/unleash-your-creativity-at-scale-azure-ai-foundrys-multimodal-revolution/) (2025-10-06)
-- [Introducing Microsoft Agent Framework](https://azure.microsoft.com/en-us/blog/introducing-microsoft-agent-framework/) (2025-10-01)
 
 </details>
 
@@ -309,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [JetBrains Is Sunsetting CodeCanvas](https://blog.jetbrains.com/codecanvas/2025/10/jetbrains-is-sunsetting-codecanvas/) (2025-10-16)
 - [The State of PHP 2025](https://blog.jetbrains.com/phpstorm/2025/10/state-of-php-2025/) (2025-10-15)
 - [The State of Developer Ecosystem 2025: Coding in the Age of AI, New Productivity Metrics, and Changing Realities](https://blog.jetbrains.com/research/2025/10/state-of-developer-ecosystem-2025/) (2025-10-15)
 - [[Livestream] Maximizing TeamCity: New Features in Action and a Look Ahead](https://blog.jetbrains.com/teamcity/2025/10/livestream-maximizing-teamcity-oct22-2025/) (2025-10-15)
 - [New Bug-Fix Releases Are Available for MPS – 2025.2.1, 2025.1.1, 2024.3.4, and 2024.1.5](https://blog.jetbrains.com/mps/2025/10/new_bugfix_releases_mps-2025-2/) (2025-10-14)
-- [ReSharper Is Now on the Open VSX Registry](https://blog.jetbrains.com/dotnet/2025/10/14/resharper-open-vsx/) (2025-10-14)
 
 </details>
 
@@ -365,11 +362,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Take command of your customer data with the latest Twilio platform releases
-](
-https://www.twilio.com/en-us/blog/products/launches/trust-access-data-tools-1
-) (2025-10-15)
-- [
 2025 Global Impact Week Recap
 ](
 https://www.twilio.com/en-us/blog/company/inside-twilio/2025-global-impact-week-recap
@@ -389,6 +381,11 @@ How to Write Better Reminder Emails (Template + Examples)
 ](
 https://www.twilio.com/en-us/blog/insights/write-reminder-emails
 ) (2025-10-13)
+- [
+How to Create a Professional Email Address (+ Examples)
+](
+https://www.twilio.com/en-us/blog/insights/make-professional-email-address
+) (2025-10-11)
 
 </details>
 
@@ -549,44 +546,44 @@ https://www.twilio.com/en-us/blog/insights/write-reminder-emails
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face](https://huggingface.co/blog/gpt-oss-on-intel-xeon) (2025-10-16)
 - [Get your VLM running in 3 simple steps on Intel CPUs](https://huggingface.co/blog/openvino-vlm) (2025-10-15)
 - [SOTA OCR on-device with Core ML and dots.ocr](https://huggingface.co/blog/dots-ocr-ne) (2025-10-02)
 - [Introducing RTEB: A New Standard for Retrieval Evaluation](https://huggingface.co/blog/rteb) (2025-10-01)
 - [Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models](https://huggingface.co/blog/intel-qwen3-agent) (2025-09-29)
-- [VibeGame: Exploring Vibe Coding Games](https://huggingface.co/blog/vibegame) (2025-09-29)
 
 </details>
 
 <details>
 <summary>🤖 AI News</summary>
 
+- [Trillion-parameter AI model from Ant Group targets reasoning benchmarks with dual release strategy](https://www.artificialintelligence-news.com/news/trillion-parameter-ai-model-ant-group-ling-1t/) (2025-10-16)
+- [MHRA fast-tracks next wave of AI tools for patient care](https://www.artificialintelligence-news.com/news/mhra-fast-tracks-next-wave-of-ai-tools-for-patient-care/) (2025-10-16)
 - [NVIDIA GPUs to power Oracle’s next-gen enterprise AI services](https://www.artificialintelligence-news.com/news/nvidia-gpus-power-oracle-next-gen-enterprise-ai-services/) (2025-10-14)
 - [How Huawei is building agentic AI systems that make decisions independently](https://www.artificialintelligence-news.com/news/huawei-agentic-ai-systems/) (2025-10-14)
 - [Cisco: Only 13% have a solid AI strategy and they’re lapping rivals](https://www.artificialintelligence-news.com/news/cisco-only-13-percent-solid-ai-strategy-and-lapping-rivals/) (2025-10-14)
-- [Salesforce commits $15 billion to boost AI growth in San Francisco](https://www.artificialintelligence-news.com/news/salesforce-commits-15-billion-to-boost-ai-growth-in-san-francisco/) (2025-10-14)
-- [Meta and Oracle choose NVIDIA Spectrum-X for AI data centres](https://www.artificialintelligence-news.com/news/meta-and-oracle-choose-nvidia-spectrum-x-for-ai-data-centres/) (2025-10-13)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Evaluate Retrieval Quality in RAG Pipelines: Precision@k, Recall@k, and F1@k](https://towardsdatascience.com/how-to-evaluate-retrieval-quality-in-rag-pipelines-precisionk-recallk-and-f1k/) (2025-10-16)
 - [First Principles Thinking for Data Scientists](https://towardsdatascience.com/first-principles-thinking-for-data-scientists/) (2025-10-15)
 - [Prompt Engineering for Time-Series Analysis with Large Language Models](https://towardsdatascience.com/prompt-engineering-for-time-series-analysis-with-large-language-models/) (2025-10-15)
 - [Beyond Requests: Why httpx is the Modern HTTP Client You Need (Sometimes)](https://towardsdatascience.com/beyond-requests-why-httpx-is-the-modern-http-client-you-need-sometimes/) (2025-10-15)
 - [How to Build Tools for AI Agents](https://towardsdatascience.com/how-to-build-tools-for-ai-agents/) (2025-10-15)
-- [Learning Triton One Kernel at a Time: Matrix Multiplication](https://towardsdatascience.com/learning-triton-one-kernel-at-a-time-matrix-multiplication/) (2025-10-14)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [7 Best GitHub Repositories For Mastering RAG Systems](https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems/) (2025-10-16)
+- [How to Run your ML Notebook on Databricks?](https://www.analyticsvidhya.com/blog/2025/10/ml-notebook-on-databricks/) (2025-10-16)
 - [Build ChatGPT Clone with Andrej Karpathy’s nanochat ](https://www.analyticsvidhya.com/blog/2025/10/andrej-karpathys-nanochat/) (2025-10-15)
 - [7 Crazy Things You Can Do with Perplexity Comet](https://www.analyticsvidhya.com/blog/2025/10/perplexity-comet/) (2025-10-15)
 - [Qwen Code Updates: Hands-on with Plan Mode and Vision Intelligence ](https://www.analyticsvidhya.com/blog/2025/10/qwen-code-updates/) (2025-10-14)
-- [Learn like a Pro: 7 Cool Google NotebookLM Features No One Told You](https://www.analyticsvidhya.com/blog/2025/10/notebooklm-features/) (2025-10-14)
-- [A Guide to LangGraph and LangSmith for Building AI Agents](https://www.analyticsvidhya.com/blog/2025/10/a-guide-to-langgraph-and-langsmith-for-building-ai-agents/) (2025-10-14)
 
 </details>
 
