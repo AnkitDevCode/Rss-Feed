@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Co-founder of Indian social network Koo releases a new photo sharing app](https://techcrunch.com/2025/10/15/co-founder-of-indian-social-network-koo-releases-a-new-photo-sharing-app/) (2025-10-16)
 - [Seoul weighs approval for Google, Apple high-resolution map requests](https://techcrunch.com/2025/10/15/seoul-weighs-approval-for-google-apple-high-resolution-map-requests/) (2025-10-16)
 - [Electric aircraft startup Beta Technologies seeks to raise $825M in IPO](https://techcrunch.com/2025/10/15/electric-aircraft-startup-beta-technologies-seeks-to-raise-825m-in-ipo/) (2025-10-15)
 - [This Thiel-backed venture allows doping in its own sports](https://techcrunch.com/video/this-thiel-backed-venture-allows-doping-in-its-own-sports/) (2025-10-15)
 - [Spotify spotted working on a ‘SongDNA’ feature that showcases the people behind your favorite music](https://techcrunch.com/2025/10/15/spotify-spotted-working-on-a-songdna-feature-that-showcases-the-people-behind-your-favorite-music/) (2025-10-15)
-- [Apple adds 650 megawatts of renewables in Europe with more coming in China](https://techcrunch.com/2025/10/15/apple-adds-650-megawatts-of-renewables-in-europe-with-more-coming-in-china/) (2025-10-15)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Writing an LLM from scratch, part 22 – training our LLM](https://www.gilesthomas.com/2025/10/llm-from-scratch-22-finally-training-our-llm) (2025-10-15)
-- [IRS Open Sources its Fact Graph](https://github.com/IRS-Public/fact-graph) (2025-10-15)
-- [US Dept of Interior denies canceling largest solar project after axing review](https://www.utilitydive.com/news/department-interior-cancels-review-nevada-solar-project-trump/802704/) (2025-10-15)
-- [ImapGoose](https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/) (2025-10-15)
-- [How First Wap tracks phones around the world](https://www.lighthousereports.com/methodology/surveillance-secrets-explainer/) (2025-10-15)
+- [New Coding Models and Integrations](https://ollama.com/blog/coding-models) (2025-10-16)
+- [TurboTax's 20-Year Fight to Stop Americans from Filing Their Taxes for Free (2019)](https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free) (2025-10-16)
+- [What Does George Orwell's '1984' Mean in 2024?](https://www.smithsonianmag.com/history/what-does-george-orwells-1984-mean-in-2024-180984468/) (2025-10-16)
+- [TaxCalcBench: Evaluating Frontier Models on the Tax Calculation Task](https://arxiv.org/abs/2507.16126) (2025-10-16)
+- [Free applicatives, the handle pattern, and remote systems](https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html) (2025-10-16)
 
 </details>
 
@@ -97,22 +97,25 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Keep Calm and Use Docker Volumes](https://dev.to/tshenolo/keep-calm-and-use-docker-volumes-35p6) (2025-10-16)
-- [From Manual API to AI Agent: Automating High-Stakes Art Storage Brokerage](https://dev.to/stockage-oeuvres-dart/from-manual-api-to-ai-agent-automating-high-stakes-art-storage-brokerage-203m) (2025-10-16)
-- [Built UtilCraft: 15+ Free Web Tools in One Place](https://dev.to/fullmoon_a4b52e10aed483d/built-utilcraft-15-free-web-tools-in-one-place-24ik) (2025-10-16)
-- [Unlocking the Power of AI in Modern Development: A Deep Dive into Practical Applications](https://dev.to/mikeover/unlocking-the-power-of-ai-in-modern-development-a-deep-dive-into-practical-applications-5h68) (2025-10-16)
-- [Flutter Flavors: Guía completa de implementación para proyectos multicliente en Android e iOS](https://dev.to/david_gonzalez_ini/guia-de-implementacion-de-flavors-en-flutter-para-proyectos-multicliente-1cjo) (2025-10-16)
+- [Hashicorp Vault: High-Level Architecture, Components, and Key Concepts](https://dev.to/admantium/hashicorp-vault-high-level-architecture-components-and-key-concepts-4d8j) (2025-10-16)
+- [I built Log Bull — the simple alternative to ELK, Loki and Graylog to collect logs from code (Python, Java, Go, JS, PHP, etc.)](https://dev.to/rostislav_dugin/i-built-log-bull-the-simple-alternative-to-elk-loki-and-graylog-to-collect-logs-from-code-5eji) (2025-10-16)
+- [Secret Productivity Hack On VS Code](https://dev.to/harish_kumar_20cdaccf4610/secret-productivity-hack-on-vs-code-1cna) (2025-10-16)
+- [Andrew Huang: Beautiful new music making environment! (GRM Atelier)](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-4920) (2025-10-16)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-4ehg) (2025-10-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Your Flutter App is Secretly Eating 2GB of RAM (And Killing User Phones)](https://medium.com/@alaxhenry0121/your-flutter-app-is-secretly-eating-2gb-of-ram-and-killing-user-phones-105b38c4ac4d?source=rss------programming-5) (2025-10-16)
-- [09013027390شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@ngarhsn696/09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-369b8e19811a?source=rss------programming-5) (2025-10-16)
-- [09013027390شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@ngarhsn696/09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-8f801c87c2da?source=rss------programming-5) (2025-10-16)
-- [09013027390شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@ngarhsn696/09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-2030e2a643c8?source=rss------programming-5) (2025-10-16)
-- [Java GC Performance: G1 vs ZGC vs Shenandoah — Pick the Right One Fast](https://medium.com/@sunil17bbmp/java-gc-performance-g1-vs-zgc-vs-shenandoah-pick-the-right-one-fast-28749c82af8f?source=rss------programming-5) (2025-10-16)
+- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jdhdkmdbbbx/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-a9064988d5d1?source=rss------programming-5) (2025-10-16)
+- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jdhdkmdbbbx/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-2ca70697ee44?source=rss------programming-5) (2025-10-16)
+- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jdhdkmdbbbx/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-64367d43fefa?source=rss------programming-5) (2025-10-16)
+- [09045080282شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@16yyccyfifufufujffjfj/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-771d8f362cbc?source=rss------programming-5) (2025-10-16)
+- [ 12 React Coding Interview Questions](https://javascript.plainenglish.io/12-react-coding-interview-questions-19a4b19496bd?source=rss------programming-5) (2025-10-16)
 
 </details>
 
@@ -130,11 +133,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [FYAI: Why developers will lead AI transformation across the enterprise](https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/) (2025-10-13)
 - [Microsoft Azure delivers the first large scale cluster with NVIDIA GB300 NVL72 for OpenAI workloads](https://azure.microsoft.com/en-us/blog/microsoft-azure-delivers-the-first-large-scale-cluster-with-nvidia-gb300-nvl72-for-openai-workloads/) (2025-10-09)
 - [Microsoft’s commitment to supporting cloud infrastructure demand in Asia](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-asia/) (2025-10-09)
 - [Unleash your creativity at scale: Azure AI Foundry’s multimodal revolution](https://azure.microsoft.com/en-us/blog/unleash-your-creativity-at-scale-azure-ai-foundrys-multimodal-revolution/) (2025-10-06)
 - [Introducing Microsoft Agent Framework](https://azure.microsoft.com/en-us/blog/introducing-microsoft-agent-framework/) (2025-10-01)
-- [Grok 4 is now available in Azure AI Foundry: Unlock frontier intelligence and business-ready capabilities](https://azure.microsoft.com/en-us/blog/grok-4-is-now-available-in-azure-ai-foundry-unlock-frontier-intelligence-and-business-ready-capabilities/) (2025-09-29)
 
 </details>
 
@@ -502,11 +505,11 @@ https://www.twilio.com/en-us/blog/insights/write-reminder-emails
 <details>
 <summary>💬 Slack API</summary>
 
-- [Introducing the Agentic OS: How Slack Is Reimagining Work for the AI Era](https://slack.com/blog/news/dreamforce-slack-native-ai) (2025-10-13)
-- [Unlocking the Power of Conversation: How Slack’s New Platform is Fueling the Agentic Era](https://slack.com/blog/news/powering-agentic-collaboration) (2025-10-13)
 - [What Is Personalized Search, and How Does It Work?](https://slack.com/blog/productivity/what-is-personalized-search-and-how-does-it-work) (2025-10-07)
 - [AI Assistants: Everything You Need to Know](https://slack.com/blog/transformation/ai-assistants-what-they-do-and-why-you-need-them) (2025-10-07)
 - [A Complete Guide to AI Summarization: Benefits, Use Cases, and Tools](https://slack.com/blog/productivity/ai-summarization-a-guide-to-conquering-information-overload) (2025-10-01)
+- [Document Workflows Like a Pro: Tips, Tools, and Real-World Examples](https://slack.com/blog/productivity/workflow-documentation-what-it-is-how-to-create-it-and-why-it-matters) (2025-10-01)
+- [Work Order Management: Essential Steps and Strategies](https://slack.com/blog/productivity/work-order-management-essential-steps-and-strategies) (2025-09-29)
 
 </details>
 
