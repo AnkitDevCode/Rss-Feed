@@ -20,66 +20,66 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Jack & Jill raises $20 million to bring conversational AI to job-hunting](https://techcrunch.com/2025/10/16/jack-jill-raises-20-million-to-bring-conversational-ai-to-job-hunting/) (2025-10-16)
-- [How emerging Mubadala-backed AAF is winning VC deals in some of the hottest startups](https://techcrunch.com/2025/10/16/how-tiny-mubadala-backed-aaf-is-winning-vc-deals-in-some-of-the-hottest-startups/) (2025-10-16)
-- [Zepto raises $450 million at $7 billion valuation as Indian quick commerce market heats up](https://techcrunch.com/2025/10/16/zepto-raises-450-million-at-7-billion-valuation-as-indian-quick-commerce-market-heats-up/) (2025-10-16)
-- [India’s Kuku snags $85M as mobile content wars intensify](https://techcrunch.com/2025/10/15/indias-kuku-snags-85m-as-mobile-content-wars-intensify/) (2025-10-16)
-- [Co-founder of Indian social network Koo releases a new photo sharing app](https://techcrunch.com/2025/10/15/co-founder-of-indian-social-network-koo-releases-a-new-photo-sharing-app/) (2025-10-16)
+- [Meta to shut down Messenger desktop apps for Mac and Windows](https://techcrunch.com/2025/10/16/meta-to-shut-down-messenger-desktop-apps-for-mac-and-windows/) (2025-10-16)
+- [The real reason Google DeepMind is working with a fusion energy startup](https://techcrunch.com/2025/10/16/the-real-reason-google-deepmind-is-working-with-a-fusion-energy-startup/) (2025-10-16)
+- [Rent a Cyber Friend will pay you to talk to strangers online and will show off its platform at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/16/rent-a-cyber-friend-will-pay-you-to-talk-to-strangers-online-and-will-show-off-its-platform-at-techcrunch-disrupt-2025/) (2025-10-16)
+- [A new wave of social media apps provide hope in a doomscrolling world ](https://techcrunch.com/2025/10/16/a-new-wave-of-social-media-apps-provide-hope-in-a-doomscrolling-world/) (2025-10-16)
+- [Deel hits $17.3B valuation after raising $300M from big-name VCs](https://techcrunch.com/2025/10/16/deel-hits-17-3b-valuation-after-raising-300m-from-big-name-vcs/) (2025-10-16)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [How The Pentagon Is Blocking Out News Organizations](https://www.nytimes.com/interactive/2025/10/15/business/media/pentatgon-press-rules.html) (2025-10-16)
-- [Jiga (YC W21) Is Hiring Full Stacks](https://www.workatastartup.com/jobs/44310) (2025-10-16)
-- [Liquibase continues to advertise itself as "open source" despite license switch](https://github.com/liquibase/liquibase/issues/7374) (2025-10-16)
-- [The Hidden Math of Ocean Waves Crashes Into View](https://www.quantamagazine.org/the-hidden-math-of-ocean-waves-crashes-into-view-20251015/) (2025-10-16)
-- [Steve Jobs and Cray-1 to be featured on 2026 American Innovations $1 coin](https://www.usmint.gov/news/press-releases/united-states-mint-releases-2026-american-innovation-one-dollar-coin-program-designs) (2025-10-16)
+- [Mysterious Intrigue Around an x86 "Corporate Entity Other Than Intel/AMD"](https://www.phoronix.com/news/x86-Opcodes-Not-AMD-Or-Intel) (2025-10-16)
+- [SWE-Grep and SWE-Grep-Mini: RL for Fast Multi-Turn Context Retrieval](https://cognition.ai/blog/swe-grep) (2025-10-16)
+- [Gemini 3.0 spotted in the wild through A/B testing](https://ricklamers.io/posts/gemini-3-spotted-in-the-wild/) (2025-10-16)
+- [Claude Skills](https://www.anthropic.com/news/skills) (2025-10-16)
+- [RTFM: A Real-Time Frame Model](https://www.worldlabs.ai/blog/rtfm) (2025-10-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The DIY and IRL energy of punk rock mutual aid](https://www.theverge.com/cs/features/799722/trans-punk-rock-mutual-aid-ekko-astral) (2025-10-16)
-- [Steve Jobs will appear on commemorative $1 coin](https://www.theverge.com/news/800548/steve-jobs-commemorative-dollar-coin-us-mint) (2025-10-16)
-- [Microsoft is reportedly moving its Surface manufacturing out of China](https://www.theverge.com/news/800538/microsoft-surface-manufacturing-china-move-report) (2025-10-16)
-- [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals) (2025-10-16)
-- [Google’s AI video generator is getting better editing and more audio](https://www.theverge.com/news/800371/google-veo-3-1-flow-audio) (2025-10-15)
+- [Fujifilm redesigned its Instax Mini LiPlay for snapping selfies](https://www.theverge.com/news/801098/fujifilm-instax-mini-liplay-plus-instant-camera-selfies) (2025-10-16)
+- [Pinterest&#8217;s &#8216;tuner&#8217; lets you dial down the amount of AI content — but not entirely](https://www.theverge.com/news/801093/pinterest-tuner-tool-ai-content-categories) (2025-10-16)
+- [Apple TV and Peacock announce a discounted $15 monthly subscription bundle](https://www.theverge.com/news/800928/apple-tv-peacock-premium-plus-nbcuniversal-subscription-bundle) (2025-10-16)
+- [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker) (2025-10-16)
+- [Anthropic turns to &#8216;skills&#8217; to make Claude more useful at work](https://www.theverge.com/ai-artificial-intelligence/800868/anthropic-claude-skills-ai-agents) (2025-10-16)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Open source GZDoom community splinters after creator inserts AI-generated code](https://arstechnica.com/gaming/2025/10/civil-war-gzdoom-fan-developers-split-off-over-use-of-chatgpt-generated-code/) (2025-10-16)
+- [OpenAI thinks Elon Musk funded its biggest critics—who also hate Musk](https://arstechnica.com/tech-policy/2025/10/openai-thinks-elon-musk-funded-its-biggest-critics-who-also-hate-musk/) (2025-10-16)
+- [SpaceX has plans to launch Falcon Heavy from California—if anyone wants it to](https://arstechnica.com/space/2025/10/spacex-has-plans-to-launch-falcon-heavy-from-california-if-anyone-wants-it-to/) (2025-10-16)
+- [Antarctica is starting to look a lot like Greenland—and that isn’t good](https://arstechnica.com/science/2025/10/antarctica-is-starting-to-look-a-lot-like-greenland-and-that-isnt-good/) (2025-10-16)
 - [Inside the web infrastructure revolt over Google’s AI Overviews](https://arstechnica.com/ai/2025/10/inside-the-web-infrastructure-revolt-over-googles-ai-overviews/) (2025-10-16)
-- [Army general says he’s using AI to improve “decision-making”](https://arstechnica.com/ai/2025/10/army-general-says-hes-using-ai-to-improve-decision-making/) (2025-10-15)
-- [Rice weevil on a grain of rice wins 2025 Nikon Small World contest](https://arstechnica.com/science/2025/10/meet-the-2025-nikon-photomicrography-winners/) (2025-10-15)
-- [Once unthinkable, NASA and Lockheed now consider launching Orion on other rockets](https://arstechnica.com/space/2025/10/once-unthinkable-nasa-and-lockheed-now-consider-launching-orion-on-other-rockets/) (2025-10-15)
-- [Thousands of customers imperiled after nation-state ransacks F5’s network](https://arstechnica.com/security/2025/10/breach-of-f5-requires-emergency-action-from-big-ip-users-feds-warn/) (2025-10-15)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Take our quiz: How much do you know about antimicrobial resistance?](https://www.technologyreview.com/2025/10/16/1125853/antimicrobial-resistance-quiz-antibiotics-infection/) (2025-10-16)
+- [Unlocking the potential of SAF with book and claim in air freight](https://www.technologyreview.com/2025/10/16/1123850/unlocking-the-potential-of-saf-with-book-and-claim-in-air-freight/) (2025-10-16)
 - [The Download: creating the perfect baby, and carbon removal’s lofty promises](https://www.technologyreview.com/2025/10/16/1125851/the-download-creating-the-perfect-baby-and-carbon-removals-lofty-promises/) (2025-10-16)
 - [Meet the man building a starter kit for civilization](https://www.technologyreview.com/2025/10/16/1125146/civilization-start-kit-open-source-essential-machines/) (2025-10-16)
 - [The race to make the perfect baby is creating an ethical mess](https://www.technologyreview.com/2025/10/16/1125159/ethics-embryo-screening-reproduction-baby/) (2025-10-16)
-- [The problem with Big Tech’s favorite carbon removal tech](https://www.technologyreview.com/2025/10/16/1125794/carbon-removal-beccs-problems/) (2025-10-16)
-- [The Download: Big Tech’s carbon removals plans, and the next wave of nuclear reactors](https://www.technologyreview.com/2025/10/15/1125770/the-download-big-techs-carbon-removals-plans-and-the-next-wave-of-nuclear-reactors/) (2025-10-15)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [How to navigate GitHub Universe (or any tech conference) if you’re an introvert](https://github.blog/news-insights/company-news/how-to-navigate-github-universe-or-any-tech-conference-if-youre-an-introvert/) (2025-10-16)
 - [Copilot: Faster, smarter, and built for how you work now](https://github.blog/ai-and-ml/github-copilot/copilot-faster-smarter-and-built-for-how-you-work-now/) (2025-10-15)
 - [How GitHub Copilot and AI agents are saving legacy systems](https://github.blog/ai-and-ml/github-copilot/how-github-copilot-and-ai-agents-are-saving-legacy-systems/) (2025-10-14)
 - [GitHub Copilot CLI: How to get started](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-how-to-get-started/) (2025-10-13)
 - [How to build reliable AI workflows with agentic primitives and context engineering](https://github.blog/ai-and-ml/github-copilot/how-to-build-reliable-ai-workflows-with-agentic-primitives-and-context-engineering/) (2025-10-13)
-- [20 Years of Git, 2 days at GitHub HQ: Git Merge 2025 highlights 🎉](https://github.blog/open-source/git/20-years-of-git-2-days-at-github-hq-git-merge-2025-highlights/) (2025-10-09)
 
 </details>
 
@@ -97,55 +97,55 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why Africa’s Digital Future Depends on Free and Open Source Software (FOSS) and Linux](https://dev.to/dominique_adabi/why-africas-digital-future-depends-on-free-and-open-source-software-foss-and-linux-305d) (2025-10-16)
-- [Andrew Huang: Beautiful new music making environment! (GRM Atelier)](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-39i) (2025-10-16)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-1pd5) (2025-10-16)
-- [KEXP: Indigo De Souza - Not My Body (Live on KEXP)](https://dev.to/music_youtube/kexp-indigo-de-souza-not-my-body-live-on-kexp-40jb) (2025-10-16)
-- [KEXP: Circles Around the Sun - Hot Pursuit (Live on KEXP)](https://dev.to/music_youtube/kexp-circles-around-the-sun-hot-pursuit-live-on-kexp-1m3e) (2025-10-16)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-2i6p) (2025-10-16)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-4dok) (2025-10-16)
+- [KEXP: Circles Around the Sun & Mikaela Davis - After Sunrise (Live on KEXP)](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-after-sunrise-live-on-kexp-51ag) (2025-10-16)
+- [KEXP: Jorja Smith - Try Me (Live on KEXP)](https://dev.to/music_youtube/kexp-jorja-smith-try-me-live-on-kexp-3eeo) (2025-10-16)
+- [KEXP: Jorja Smith - Be Honest (Live on KEXP)](https://dev.to/music_youtube/kexp-jorja-smith-be-honest-live-on-kexp-86h) (2025-10-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Spatial Web Development: Build Modern Location-Aware Applications](https://medium.com/@stacyfuende/spatial-web-development-build-modern-location-aware-applications-bd539f895e3a?source=rss------programming-5) (2025-10-16)
-- [ JavaScript Event Loop Explained — The Magic Behind Async Code](https://javascript.plainenglish.io/javascript-event-loop-explained-the-magic-behind-async-code-2aad41e81139?source=rss------programming-5) (2025-10-16)
-- [5 Hidden Python Gems That’ll Make You a Smarter Data Scientist](https://medium.com/pyzilla/lesser-known-python-features-for-data-scientists-80e7d92b1080?source=rss------programming-5) (2025-10-16)
-- [Fullstack DOT NET Training in Hyderabad](https://medium.com/@molletibalu/fullstack-dot-net-training-in-hyderabad-0e5552e53280?source=rss------programming-5) (2025-10-16)
-- [ 10 Next.js Tips & Tricks to Build Faster, Smarter, and Scalable Apps](https://medium.com/@theNewGenCoder/10-next-js-tips-tricks-to-build-faster-smarter-and-scalable-apps-e5ee37fa06c7?source=rss------programming-5) (2025-10-16)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnvxzsxvb34/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-f5053a2f995a?source=rss------programming-5) (2025-10-16)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnvxzsxvb34/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-4bcfa43c6101?source=rss------programming-5) (2025-10-16)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnvxzsxvb34/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-117cc518310d?source=rss------programming-5) (2025-10-16)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmnbvccx32/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-c6516eccc1d9?source=rss------programming-5) (2025-10-16)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmnbvccx32/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e94a0a2d787d?source=rss------programming-5) (2025-10-16)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Monitor, analyze, and manage capacity usage from a single interface with Amazon EC2 Capacity Manager](https://aws.amazon.com/blogs/aws/monitor-analyze-and-manage-capacity-usage-from-a-single-interface-with-amazon-ec2-capacity-manager/) (2025-10-16)
 - [Introducing Amazon EBS Volume Clones: Create instant copies of your EBS volumes](https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-create-instant-copies-of-your-ebs-volumes/) (2025-10-14)
 - [AWS Transfer Family SFTP connectors now support VPC-based connectivity](https://aws.amazon.com/blogs/aws/aws-transfer-family-sftp-connectors-now-support-vpc-based-connectivity/) (2025-10-14)
 - [AWS Weekly Roundup: Amazon Quick Suite, Amazon EC2, Amazon EKS, and more (October 13, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-quick-suite-amazon-ec2-amazon-eks-and-more-october-13-2025/) (2025-10-13)
 - [Announcing Amazon Quick Suite: your agentic teammate for answering questions and taking action](https://aws.amazon.com/blogs/aws/reimagine-the-way-you-work-with-ai-agents-in-amazon-quick-suite/) (2025-10-09)
-- [New general-purpose Amazon EC2 M8a instances are now available](https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8a-instances-are-now-available/) (2025-10-08)
 
 </details>
 
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Accelerating open-source infrastructure development for frontier AI at scale](https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/) (2025-10-14)
 - [FYAI: Why developers will lead AI transformation across the enterprise](https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/) (2025-10-13)
 - [Microsoft Azure delivers the first large scale cluster with NVIDIA GB300 NVL72 for OpenAI workloads](https://azure.microsoft.com/en-us/blog/microsoft-azure-delivers-the-first-large-scale-cluster-with-nvidia-gb300-nvl72-for-openai-workloads/) (2025-10-09)
 - [Microsoft’s commitment to supporting cloud infrastructure demand in Asia](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-asia/) (2025-10-09)
 - [Unleash your creativity at scale: Azure AI Foundry’s multimodal revolution](https://azure.microsoft.com/en-us/blog/unleash-your-creativity-at-scale-azure-ai-foundrys-multimodal-revolution/) (2025-10-06)
+- [Introducing Microsoft Agent Framework](https://azure.microsoft.com/en-us/blog/introducing-microsoft-agent-framework/) (2025-10-01)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Ready, Set, Reward — GeForce NOW Membership Rewards Await](https://blogs.nvidia.com/blog/geforce-now-thursday-members-reward-program/) (2025-10-16)
 - [How Starcloud Is Bringing Data Centers to Outer Space](https://blogs.nvidia.com/blog/starcloud/) (2025-10-15)
 - [Oracle and NVIDIA Accelerate Sovereign AI, Enabling Abu Dhabi’s AI-Native Government Transformation](https://blogs.nvidia.com/blog/oracle-nvidia-accelerate-sovereign-ai-abu-dhabi/) (2025-10-14)
 - [NVIDIA and Oracle to Accelerate Enterprise AI and Data Processing](https://blogs.nvidia.com/blog/nvidia-oracle-accelerate-enterprise-ai-data-processing/) (2025-10-14)
 - [Elon Musk Gets Just-Launched NVIDIA DGX Spark: Petaflop AI Supercomputer Lands at SpaceX](https://blogs.nvidia.com/blog/live-dgx-spark-delivery/) (2025-10-14)
-- [NVIDIA, Partners Drive Next-Gen Efficient Gigawatt AI Factories in Buildup for Vera Rubin](https://blogs.nvidia.com/blog/gigawatt-ai-factories-ocp-vera-rubin/) (2025-10-13)
 
 </details>
 
@@ -163,11 +163,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [#WeArePlay: Meet the founder making breast cancer awareness simple and accessible](https://android-developers.googleblog.com/2025/10/weareplay-meet-founder-making-breast.html) (2025-10-16)
 - [Beyond Single Features: Guaranteeing Feature Combinations With CameraX 1.5](https://android-developers.googleblog.com/2025/10/beyond-single-features-guaranteeing.html) (2025-10-15)
 - [Boost user engagement with AI Image Generation](https://android-developers.googleblog.com/2025/10/boost-user-engagement-with-ai-image.html) (2025-10-13)
 - [Jetpack WindowManager 1.5 is stable](https://android-developers.googleblog.com/2025/10/jetpack-windowmanager-15-is-stable.html) (2025-10-10)
 - [Android Studio Narwhal 4 Feature Drop: watch face support and improved stability](https://android-developers.googleblog.com/2025/09/android-studio-narwhal-4-feature-drop.html) (2025-10-09)
-- [#WeArePlay: Meet the people building apps and games that are making finance simple for everyone, everywhere.](https://android-developers.googleblog.com/2025/10/weareplay-meet-people-building-apps-and.html) (2025-10-09)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Debug Docker Builds with Visual Studio Code](https://www.docker.com/blog/debug-docker-builds-with-visual-studio-code/) (2025-10-16)
 - [Docker Hardened Images: crafted by humans, protected by AI](https://www.docker.com/blog/docker-hardened-images-crafted-by-humans-protected-by-ai/) (2025-10-15)
 - [How to add MCP Servers to Gemini CLI with Docker MCP Toolkit](https://www.docker.com/blog/how-to-set-up-gemini-cli-with-mcp-toolkit/) (2025-10-15)
 - [Build a Multi-Agent System in 5 Minutes with cagent](https://www.docker.com/blog/how-to-build-a-multi-agent-system/) (2025-10-14)
 - [Join Us in Rebooting the Docker Model Runner Community!](https://www.docker.com/blog/rebooting-model-runner-community/) (2025-10-14)
-- [Docker Model Runner on the new NVIDIA DGX Spark: a new paradigm for developing AI locally](https://www.docker.com/blog/new-nvidia-dgx-spark-docker-model-runner/) (2025-10-14)
 
 </details>
 
@@ -251,11 +251,11 @@
 <details>
 <summary>👥 Facebook Engineering</summary>
 
+- [Branching in a Sapling Monorepo](https://engineering.fb.com/2025/10/16/developer-tools/branching-in-a-sapling-monorepo/) (2025-10-16)
+- [10X Backbone: How Meta Is Scaling Backbone Connectivity for AI](https://engineering.fb.com/2025/10/16/data-center-engineering/10x-backbone-how-meta-is-scaling-backbone-connectivity-for-ai/) (2025-10-16)
 - [Design for Sustainability: New Design Principles for Reducing IT Hardware Emissions](https://engineering.fb.com/2025/10/14/data-center-engineering/design-for-sustainability-new-design-principles-for-reducing-it-hardware-emissions/) (2025-10-14)
 - [How Meta Is Leveraging AI To Improve the Quality of Scope 3 Emission Estimates for IT Hardware](https://engineering.fb.com/2025/10/14/data-center-engineering/how-meta-is-leveraging-ai-to-improve-the-quality-of-scope-3-emission-estimates-for-it-hardware/) (2025-10-14)
 - [OCP Summit 2025: The Open Future of Networking Hardware for AI](https://engineering.fb.com/2025/10/13/data-infrastructure/ocp-summit-2025-the-open-future-of-networking-hardware-for-ai/) (2025-10-14)
-- [Introducing the React Foundation: The New Home for React & React Native](https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/) (2025-10-07)
-- [Introducing OpenZL: An Open Source Format-Aware Compression Framework](https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/) (2025-10-06)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [The “10x” Commandments of Highly Effective Go](https://blog.jetbrains.com/go/2025/10/16/the-10x-commandments-of-highly-effective-go/) (2025-10-16)
 - [JetBrains Is Sunsetting CodeCanvas](https://blog.jetbrains.com/codecanvas/2025/10/jetbrains-is-sunsetting-codecanvas/) (2025-10-16)
 - [The State of PHP 2025](https://blog.jetbrains.com/phpstorm/2025/10/state-of-php-2025/) (2025-10-15)
 - [The State of Developer Ecosystem 2025: Coding in the Age of AI, New Productivity Metrics, and Changing Realities](https://blog.jetbrains.com/research/2025/10/state-of-developer-ecosystem-2025/) (2025-10-15)
 - [[Livestream] Maximizing TeamCity: New Features in Action and a Look Ahead](https://blog.jetbrains.com/teamcity/2025/10/livestream-maximizing-teamcity-oct22-2025/) (2025-10-15)
-- [New Bug-Fix Releases Are Available for MPS – 2025.2.1, 2025.1.1, 2024.3.4, and 2024.1.5](https://blog.jetbrains.com/mps/2025/10/new_bugfix_releases_mps-2025-2/) (2025-10-14)
 
 </details>
 
@@ -350,17 +350,22 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Improving the trustworthiness of Javascript on the Web](https://blog.cloudflare.com/improving-the-trustworthiness-of-javascript-on-the-web/) (2025-10-16)
 - [Unpacking Cloudflare Workers CPU Performance Benchmarks](https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/) (2025-10-14)
 - [Introducing REACT: Why We Built an Elite Incident Response Team](https://blog.cloudflare.com/introducing-react-why-we-built-an-elite-incident-response-team/) (2025-10-09)
 - [How we found a bug in Go's arm64 compiler](https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/) (2025-10-08)
 - [Payload on Workers: a full-fledged CMS, running entirely on Cloudflare’s stack](https://blog.cloudflare.com/payload-cms-workers/) (2025-09-30)
-- [Nationwide Internet shutdown in Afghanistan extends localized disruptions](https://blog.cloudflare.com/nationwide-internet-shutdown-in-afghanistan/) (2025-09-30)
 
 </details>
 
 <details>
 <summary>📞 Twilio Blog</summary>
 
+- [
+Take command of your customer data with the latest Twilio platform releases
+](
+https://www.twilio.com/en-us/blog/products/launches/trust-access-data-tools-1
+) (2025-10-15)
 - [
 2025 Global Impact Week Recap
 ](
@@ -381,11 +386,6 @@ How to Write Better Reminder Emails (Template + Examples)
 ](
 https://www.twilio.com/en-us/blog/insights/write-reminder-emails
 ) (2025-10-13)
-- [
-How to Create a Professional Email Address (+ Examples)
-](
-https://www.twilio.com/en-us/blog/insights/make-professional-email-address
-) (2025-10-11)
 
 </details>
 
@@ -447,11 +447,11 @@ https://www.twilio.com/en-us/blog/insights/make-professional-email-address
 <details>
 <summary>🔗 GraphQL Blog</summary>
 
+- [GraphQL Locals 2025: Increasing Support](https://graphql.org/blog/2025-10-16-graphql-local-initiative-update) (2025-10-16)
 - [Announcing the GraphQL AI Working Group](https://graphql.org/blog/2025-10-14-announcing-ai-wg) (2025-10-14)
 - [Introducing the New GraphQL.org: A Decade of Evolution, Redesigned](https://graphql.org/blog/2025-09-08-announcing-graphqldotorg) (2025-09-08)
 - [Announcing the September 2025 Edition of the GraphQL Specification](https://graphql.org/blog/2025-09-08-september-edition) (2025-09-08)
 - [GraphQL: Supercharging AI](https://graphql.org/blog/2025-07-03-graphql-supercharging-ai) (2025-07-03)
-- [📣 May 2025 GraphQL Foundation Board Meeting Recap](https://graphql.org/blog/2025-06-27-governing-board-recap) (2025-06-27)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/insights/make-professional-email-address
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Feature Detection, Part 1: Image Derivatives, Gradients, and Sobel Operator](https://towardsdatascience.com/feature-detection-part-1-image-derivatives-gradients-and-sobel-operator/) (2025-10-16)
+- [Stop Feeling Lost :  How to Master ML System Design](https://towardsdatascience.com/stop-feeling-lost-how-to-master-ml-system-design-easy/) (2025-10-16)
+- [A Beginner’s Guide to Robotics with Python](https://towardsdatascience.com/robotics-with-python-for-beginners/) (2025-10-16)
 - [How to Evaluate Retrieval Quality in RAG Pipelines: Precision@k, Recall@k, and F1@k](https://towardsdatascience.com/how-to-evaluate-retrieval-quality-in-rag-pipelines-precisionk-recallk-and-f1k/) (2025-10-16)
 - [First Principles Thinking for Data Scientists](https://towardsdatascience.com/first-principles-thinking-for-data-scientists/) (2025-10-15)
-- [Prompt Engineering for Time-Series Analysis with Large Language Models](https://towardsdatascience.com/prompt-engineering-for-time-series-analysis-with-large-language-models/) (2025-10-15)
-- [Beyond Requests: Why httpx is the Modern HTTP Client You Need (Sometimes)](https://towardsdatascience.com/beyond-requests-why-httpx-is-the-modern-http-client-you-need-sometimes/) (2025-10-15)
-- [How to Build Tools for AI Agents](https://towardsdatascience.com/how-to-build-tools-for-ai-agents/) (2025-10-15)
 
 </details>
 
@@ -590,22 +590,22 @@ https://www.twilio.com/en-us/blog/insights/make-professional-email-address
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [How I Built a Data Cleaning Pipeline Using One Messy DoorDash Dataset](https://www.kdnuggets.com/how-i-built-a-data-cleaning-pipeline-using-one-messy-doordash-dataset) (2025-10-16)
+- [Accessing Data Commons with the New Python API Client](https://www.kdnuggets.com/accessing-data-commons-with-the-new-python-api-client) (2025-10-16)
 - [Reinvent Customer Engagement with Dynamics 365: Turn Insights into Action](https://www.kdnuggets.com/2025/10/damcosolutions/reinvent-customer-engagement-with-dynamics-365-turn-insights-into-action) (2025-10-15)
 - [Data Analytics Automation Scripts with SQL Stored Procedures](https://www.kdnuggets.com/data-analytics-automation-scripts-with-sql-stored-procedures) (2025-10-14)
 - [The Beginner’s Guide to Tracking Token Usage in LLM Apps](https://www.kdnuggets.com/the-beginners-guide-to-tracking-token-usage-in-llm-apps) (2025-10-14)
-- [10 Useful Python One-Liners for CSV Processing](https://www.kdnuggets.com/10-useful-python-one-liners-for-csv-processing) (2025-10-14)
-- [5 Signs Your Business Is Ready For AI (Sponsored)](https://www.kdnuggets.com/ingram-5-signs-your-business-is-ready-for-ai#new_tab) (2025-10-14)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [3 Ways to Speed Up Model Training Without More GPUs](https://machinelearningmastery.com/3-ways-to-speed-up-model-training-without-more-gpus/) (2025-10-16)
+- [7 Feature Engineering Tricks for Text Data](https://machinelearningmastery.com/7-feature-engineering-tricks-for-text-data/) (2025-10-16)
 - [10 Python One-Liners for Calling LLMs from Your Code](https://machinelearningmastery.com/10-python-one-liners-for-calling-llms-from-your-code/) (2025-10-14)
 - [7 Pandas Tricks to Handle Large Datasets](https://machinelearningmastery.com/7-pandas-tricks-to-handle-large-datasets/) (2025-10-13)
 - [Building Transformer Models from Scratch with PyTorch (10-day Mini-Course)](https://machinelearningmastery.com/building-transformer-models-from-scratch-with-pytorch-10-day-mini-course/) (2025-10-12)
-- [The Machine Learning Practitioner’s Guide to Agentic AI Systems](https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-agentic-ai-systems/) (2025-10-10)
-- [Build an Inference Cache to Save Costs in High-Traffic LLM Apps](https://machinelearningmastery.com/build-an-inference-cache-to-save-costs-in-high-traffic-llm-apps/) (2025-10-09)
 
 </details>
 
@@ -623,11 +623,11 @@ https://www.twilio.com/en-us/blog/insights/make-professional-email-address
 <details>
 <summary>🧠 DeepMind Blog</summary>
 
+- [Bringing AI to the next generation of fusion energy](https://deepmind.google/discover/blog/bringing-ai-to-the-next-generation-of-fusion-energy/) (2025-10-16)
+- [How a Gemma model helped discover a new potential cancer therapy pathway](https://deepmind.google/discover/blog/how-a-gemma-model-helped-discover-a-new-potential-cancer-therapy-pathway/) (2025-10-16)
 - [Introducing Veo 3.1 and advanced creative capabilities](https://deepmind.google/discover/blog/introducing-veo-3-1-and-advanced-creative-capabilities/) (2025-10-15)
 - [Introducing the Gemini 2.5 Computer Use model](https://deepmind.google/discover/blog/introducing-the-gemini-2-5-computer-use-model/) (2025-10-08)
 - [Introducing CodeMender: an AI agent for code security](https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/) (2025-10-06)
-- [Gemini Robotics 1.5 brings AI agents into the physical world](https://deepmind.google/discover/blog/gemini-robotics-15-brings-ai-agents-into-the-physical-world/) (2025-09-25)
-- [Strengthening our Frontier Safety Framework](https://deepmind.google/discover/blog/strengthening-our-frontier-safety-framework/) (2025-09-22)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
