@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [VLGE is making it easier to world build and shop on Roblox](https://techcrunch.com/2025/10/17/vlge-is-making-it-easier-to-world-build-and-shop-on-roblox/) (2025-10-17)
+- [SK Telecom’s AI unit offers staff voluntary retirement program just weeks after launch](https://techcrunch.com/2025/10/17/sk-telecoms-ai-unit-offers-staff-voluntary-retirement-program-just-weeks-after-launch/) (2025-10-17)
+- [Meta previews new parental controls for its AI experiences](https://techcrunch.com/2025/10/17/meta-previews-new-parental-controls-for-its-ai-experiences/) (2025-10-17)
 - [Reddit expands its AI-powered search to five new languages](https://techcrunch.com/2025/10/16/reddit-expands-its-ai-powered-search-to-five-new-languages/) (2025-10-17)
 - [OpenAI pauses Sora video generations of Martin Luther King Jr.](https://techcrunch.com/2025/10/16/openai-pauses-sora-video-generations-of-martin-luther-king-jr/) (2025-10-17)
-- [Defunct electric aircraft startup Lilium’s tech lives on over at Archer](https://techcrunch.com/2025/10/16/defunct-electric-aircraft-startup-liliums-tech-lives-on-over-at-archer/) (2025-10-17)
-- [VC legend Ron Conway quits Salesforce Foundation after Benioff’s National Guard comments](https://techcrunch.com/2025/10/16/vc-legend-ron-conway-quits-salesforce-foundation-after-benioffs-national-guard-comments/) (2025-10-16)
-- [Waymo dips its wheels back into delivery, this time with DoorDash](https://techcrunch.com/2025/10/16/waymo-dips-its-wheels-back-into-delivery-this-time-with-doordash/) (2025-10-16)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Ask HN: How to stop an AWS bot sending 2B requests/month](https://news.ycombinator.com/item?id=45613567) (2025-10-17)
-- [Free the Internet: The Tor Project's annual fundraiser](https://blog.torproject.org/2025-fundraiser-donations-matched/) (2025-10-17)
+- [3x performance for 1/4 of the price by migrating from AWS to Hetzner](https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/) (2025-10-17)
+- [Ring to partner with Flock, a network of cameras used by ICE, feds, and police](https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/) (2025-10-17)
+- [Frank founder Charlie Javice sentenced for JPMorgan fraud](https://www.bbc.com/news/articles/c4gwj15djdxo) (2025-10-17)
+- [Flight Simulator for the Brain Reveals How We Learn and Why Minds Go Off Course](https://now.tufts.edu/2025/10/16/flight-simulator-brain-reveals-how-we-learn-and-why-minds-sometimes-go-course) (2025-10-17)
 - [Meow.camera](https://meow.camera/) (2025-10-17)
-- [Next steps for BPF support in the GNU toolchain](https://lwn.net/Articles/1039827/) (2025-10-17)
-- [Lead Limited Brain and Language Development in Neanderthals and Other Hominids?](https://today.ucsd.edu/story/did-lead-limit-brain-and-language-development-in-neanderthals-and-other-extinct-hominids) (2025-10-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Meta is adding more parental controls for teen AI use](https://www.theverge.com/news/801505/meta-ai-chatbot-parental-controls-instagram) (2025-10-17)
+- [Anthropic connects Claude to Microsoft Teams, Outlook, and OneDrive](https://www.theverge.com/news/801487/anthropic-claude-microsoft-365-connector-ai) (2025-10-17)
 - [AT&#038;T is raising home internet prices for the second year in a row](https://www.theverge.com/news/801423/att-fiber-home-internet-december-2025-price-raise-hike) (2025-10-17)
 - [Why world models are the next big thing in AI](https://www.theverge.com/column/801370/ai-world-models-general-intuition-medal) (2025-10-17)
 - [MacBook Pro rumor points to OLED, touchscreen upgrades next year](https://www.theverge.com/news/801363/apple-macbook-pro-2026-rumor-oled-touchscreen) (2025-10-17)
-- [Amazon shares a ‘first look’ at new nuclear facility](https://www.theverge.com/news/801257/amazon-nuclear-energy-reactor-first-look) (2025-10-16)
-- [The best laptop deals you can get right now](https://www.theverge.com/good-deals/23161948/apple-macbook-lenovo-acer-deal-sale) (2025-10-16)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Rocket Report: China launches with no advance warning; Europe’s drone ship](https://arstechnica.com/space/2025/10/rocket-report-a-nearly-perfect-flight-for-starship-chinas-surprise-launch/) (2025-10-17)
+- [Yes, everything online sucks now—but it doesn’t have to](https://arstechnica.com/gadgets/2025/10/yes-everything-online-sucks-now-but-it-doesnt-have-to/) (2025-10-17)
 - [RFK Jr.’s MAHA wants to make chemtrail conspiracy theories great again](https://arstechnica.com/health/2025/10/rfk-jr-s-maha-wants-to-make-chemtrail-conspiracy-theories-great-again/) (2025-10-16)
 - [AI-powered features begin creeping deeper into the bedrock of Windows 11](https://arstechnica.com/gadgets/2025/10/microsofts-vision-for-ai-pcs-looks-a-lot-like-another-crack-at-cortana/) (2025-10-16)
 - [Nation-state hackers deliver malware from “bulletproof” blockchains](https://arstechnica.com/security/2025/10/hackers-bullet-proof-hosts-deliver-malware-from-blockchains/) (2025-10-16)
-- [Ars Live recap: Is the AI bubble about to pop? Ed Zitron weighs in.](https://arstechnica.com/ai/2025/10/ars-live-recap-is-the-ai-bubble-about-to-pop-ed-zitron-weighs-in/) (2025-10-16)
-- [OnePlus unveils OxygenOS 16 update with deep Gemini integration](https://arstechnica.com/google/2025/10/oneplus-unveils-oxygenos-16-update-with-deep-gemini-integration/) (2025-10-16)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [From slop to Sotheby’s? AI art enters a new phase](https://www.technologyreview.com/2025/10/17/1125193/ai-art-artist-new-chapter/) (2025-10-17)
+- [This startup thinks slime mold can help us design better cities](https://www.technologyreview.com/2025/10/17/1125223/slime-design-better-cities-mireta/) (2025-10-17)
 - [Take our quiz: How much do you know about antimicrobial resistance?](https://www.technologyreview.com/2025/10/16/1125853/antimicrobial-resistance-quiz-antibiotics-infection/) (2025-10-16)
 - [Unlocking the potential of SAF with book and claim in air freight](https://www.technologyreview.com/2025/10/16/1123850/unlocking-the-potential-of-saf-with-book-and-claim-in-air-freight/) (2025-10-16)
 - [The Download: creating the perfect baby, and carbon removal’s lofty promises](https://www.technologyreview.com/2025/10/16/1125851/the-download-creating-the-perfect-baby-and-carbon-removals-lofty-promises/) (2025-10-16)
-- [Meet the man building a starter kit for civilization](https://www.technologyreview.com/2025/10/16/1125146/civilization-start-kit-open-source-essential-machines/) (2025-10-16)
-- [The race to make the perfect baby is creating an ethical mess](https://www.technologyreview.com/2025/10/16/1125159/ethics-embryo-screening-reproduction-baby/) (2025-10-16)
 
 </details>
 
@@ -97,22 +97,27 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-1mc1) (2025-10-17)
-- [KEXP: Circles Around the Sun & Mikaela Davis - After Sunrise (Live on KEXP)](https://dev.to/music_youtube/kexp-circles-around-the-sun-mikaela-davis-after-sunrise-live-on-kexp-25i) (2025-10-17)
-- [KEXP: Jorja Smith - With You (Live on KEXP)](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-2gfp) (2025-10-17)
-- [KEXP: Jorja Smith - The Way I Love You (Live on KEXP)](https://dev.to/music_youtube/kexp-jorja-smith-the-way-i-love-you-live-on-kexp-i3) (2025-10-17)
-- [KEXP: Jorja Smith - Try Me (Live on KEXP)](https://dev.to/music_youtube/kexp-jorja-smith-try-me-live-on-kexp-1fkm) (2025-10-17)
+- [Building a Real-Time Log Monitoring and Alerting System on AWS Using Terraform](https://dev.to/copubah/building-a-real-time-log-monitoring-and-alerting-system-on-aws-using-terraform-4kdd) (2025-10-17)
+- [Web Developer Travis McCracken on Automated Testing for Backend Devs](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-automated-testing-for-backend-devs-1ngg) (2025-10-17)
+- [Build a Real-Time ESP32 GPS Tracker with SIM800L and NEO-6M Module](https://dev.to/messin_tom/build-a-real-time-esp32-gps-tracker-with-sim800l-and-neo-6m-module-58lm) (2025-10-17)
+- [Why S3, NFS, and EFS Are Not Block Storage](https://dev.to/mohideen_sahib_79f5f9e8de/why-s3-nfs-and-efs-are-not-block-storage-3512) (2025-10-17)
+- [Draw and edit network‑snapped tracks in OpenLayers with edittrack](https://dev.to/camptocamp-geo/draw-and-edit-network-snapped-tracks-in-openlayers-with-edittrack-pbl) (2025-10-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Python for Real-Time Analytics Dashboards with WebSockets and Plotly](https://medium.com/data-science-collective/python-for-real-time-analytics-dashboards-with-websockets-and-plotly-42554a759860?source=rss------programming-5) (2025-10-17)
-- [Reverse Engineering Android: Cara Profesional Membongkar Aplikasi untuk Pembelajaran Etis](https://handevcode.medium.com/reverse-engineering-android-cara-profesional-membongkar-aplikasi-untuk-pembelajaran-etis-a47bd8820fbd?source=rss------programming-5) (2025-10-17)
-- [Regex Backtracking Meltdowns: One Pattern, 100% CPU](https://medium.com/@sonampatel_97163/regex-backtracking-meltdowns-one-pattern-100-cpu-1a58837efeda?source=rss------programming-5) (2025-10-17)
-- [Turn Your Frustration Into Innovation](https://medium.com/@kkduniya/turn-your-frustration-into-innovation-b790c95cbe0a?source=rss------programming-5) (2025-10-17)
-- [Your App Got Rejected Because of THIS Permission Mistake (Don’t Make It!)](https://medium.com/@alaxhenry0121/your-app-got-rejected-because-of-this-permission-mistake-dont-make-it-93435a9f509b?source=rss------programming-5) (2025-10-17)
+- [09027641209شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@xljgddjdjfjjccj/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-2c0ec0989e7f?source=rss------programming-5) (2025-10-17)
+- [09027641209شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@xljgddjdjfjjccj/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-a14dbe0db060?source=rss------programming-5) (2025-10-17)
+- [09027641209شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@xljgddjdjfjjccj/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-b5c83b54a8c0?source=rss------programming-5) (2025-10-17)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jdyd52713/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-fea4f9c46a1a?source=rss------programming-5) (2025-10-17)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jdyd52713/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-d6fc99c6fedd?source=rss------programming-5) (2025-10-17)
 
 </details>
 
@@ -306,11 +311,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Koog 0.5.0 Is Out: Smarter Tools, Persistent Agents, and Simplified Strategy Design](https://blog.jetbrains.com/ai/2025/10/koog-0-5-0-is-out-smarter-tools-persistent-agents-and-simplified-strategy-design/) (2025-10-17)
 - [JetBrains Plugin Developer Conf 2025 Is Coming Up Soon!](https://blog.jetbrains.com/platform/2025/10/jetbrains-plugin-developer-conf-2025-is-coming-up-soon/) (2025-10-16)
 - [The “10x” Commandments of Highly Effective Go](https://blog.jetbrains.com/go/2025/10/16/the-10x-commandments-of-highly-effective-go/) (2025-10-16)
 - [JetBrains Is Sunsetting CodeCanvas](https://blog.jetbrains.com/codecanvas/2025/10/jetbrains-is-sunsetting-codecanvas/) (2025-10-16)
 - [The State of PHP 2025](https://blog.jetbrains.com/phpstorm/2025/10/state-of-php-2025/) (2025-10-15)
-- [The State of Developer Ecosystem 2025: Coding in the Age of AI, New Productivity Metrics, and Changing Realities](https://blog.jetbrains.com/research/2025/10/state-of-developer-ecosystem-2025/) (2025-10-15)
 
 </details>
 
@@ -557,22 +562,22 @@ https://www.twilio.com/en-us/blog/insights/write-reminder-emails
 <details>
 <summary>🤖 AI News</summary>
 
+- [South Korea scraps AI textbook programme](https://www.artificialintelligence-news.com/news/south-korea-ai-schools-programme-project-failure/) (2025-10-17)
+- [What if AI is the next dot-com bubble?](https://www.artificialintelligence-news.com/news/what-if-ai-is-the-next-dot-com-bubble/) (2025-10-17)
 - [Trillion-parameter AI model from Ant Group targets reasoning benchmarks with dual release strategy](https://www.artificialintelligence-news.com/news/trillion-parameter-ai-model-ant-group-ling-1t/) (2025-10-16)
 - [MHRA fast-tracks next wave of AI tools for patient care](https://www.artificialintelligence-news.com/news/mhra-fast-tracks-next-wave-of-ai-tools-for-patient-care/) (2025-10-16)
 - [NVIDIA GPUs to power Oracle’s next-gen enterprise AI services](https://www.artificialintelligence-news.com/news/nvidia-gpus-power-oracle-next-gen-enterprise-ai-services/) (2025-10-14)
-- [How Huawei is building agentic AI systems that make decisions independently](https://www.artificialintelligence-news.com/news/huawei-agentic-ai-systems/) (2025-10-14)
-- [Cisco: Only 13% have a solid AI strategy and they’re lapping rivals](https://www.artificialintelligence-news.com/news/cisco-only-13-percent-solid-ai-strategy-and-lapping-rivals/) (2025-10-14)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Statistical Method mcRigor Enhances the Rigor of Metacell Partitioning in Single-Cell Data Analysis](https://towardsdatascience.com/statistical-method-mcrigor-enhances-the-rigor-of-metacell-partitioning-in-single-cell-data-analysis/) (2025-10-17)
 - [Feature Detection, Part 1: Image Derivatives, Gradients, and Sobel Operator](https://towardsdatascience.com/feature-detection-part-1-image-derivatives-gradients-and-sobel-operator/) (2025-10-16)
 - [Stop Feeling Lost :  How to Master ML System Design](https://towardsdatascience.com/stop-feeling-lost-how-to-master-ml-system-design-easy/) (2025-10-16)
 - [A Beginner’s Guide to Robotics with Python](https://towardsdatascience.com/robotics-with-python-for-beginners/) (2025-10-16)
 - [How to Evaluate Retrieval Quality in RAG Pipelines: Precision@k, Recall@k, and F1@k](https://towardsdatascience.com/how-to-evaluate-retrieval-quality-in-rag-pipelines-precisionk-recallk-and-f1k/) (2025-10-16)
-- [First Principles Thinking for Data Scientists](https://towardsdatascience.com/first-principles-thinking-for-data-scientists/) (2025-10-15)
 
 </details>
 
