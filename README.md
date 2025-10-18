@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Senate Republicans deepfaked Chuck Schumer, and X hasn’t taken it down ](https://techcrunch.com/2025/10/17/senate-republicans-deepfaked-chuck-schumer-and-x-hasnt-taken-it-down/) (2025-10-17)
+- [Your AI tools run on fracked gas and bulldozed Texas land](https://techcrunch.com/2025/10/17/your-ai-tools-run-on-fracked-gas-and-bulldozed-texas-land/) (2025-10-17)
+- [Trump DOE decides to keep at least one Biden-era energy program](https://techcrunch.com/2025/10/17/trump-doe-decides-to-keep-at-least-one-biden-era-energy-program/) (2025-10-17)
+- [Should AI do everything? OpenAI thinks so](https://techcrunch.com/video/should-ai-do-everything-openai-thinks-so/) (2025-10-17)
 - [Facebook’s AI can now suggest edits to the photos still on your phone](https://techcrunch.com/2025/10/17/facebooks-ai-can-now-suggest-edits-to-the-photos-still-on-your-phone/) (2025-10-17)
-- [ChatGPT’s mobile app is seeing slowing download growth and daily use, analysis shows](https://techcrunch.com/2025/10/17/chatgpts-mobile-app-is-seeing-slowing-download-growth-and-daily-use-analysis-shows/) (2025-10-17)
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/10/17/tech-layoffs-2025-list/) (2025-10-17)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/10/17/chatgpt-everything-to-know-about-the-ai-chatbot/) (2025-10-17)
-- [Together, we make TechCrunch Disrupt 2025 unforgettable — thank you to our sponsors](https://techcrunch.com/2025/10/17/together-we-make-disrupt-unforgettable-thank-you-to-our-sponsors/) (2025-10-17)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [OpenAI Needs $400B In The Next 12 Months](https://www.wheresyoured.at/openai400bn/) (2025-10-17)
-- [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/) (2025-10-17)
-- [Andrej Karpathy – AGI is still a decade away](https://www.dwarkesh.com/p/andrej-karpathy) (2025-10-17)
-- [The Rapper 50 Cent, Adjusted for Inflation](https://50centadjustedforinflation.com/) (2025-10-17)
-- [AI has a cargo cult problem](https://www.ft.com/content/f2025ac7-a71f-464f-a3a6-1e39c98612c7) (2025-10-17)
+- [The Unix Executable as a Smalltalk Method (and Unix-Smalltalk Unification) [pdf]](https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf) (2025-10-18)
+- [Ring cameras are about to get increasingly chummy with law enforcement](https://arstechnica.com/gadgets/2025/10/ring-cameras-are-about-to-get-increasingly-chummy-with-law-enforcement/) (2025-10-18)
+- [NeXT Computer Offices](https://archive.org/details/NeXTComputerOffices) (2025-10-18)
+- [Jeep Wrangler Owners Waiting for Answers Week After an Update Bricked Their Cars](https://www.thedrive.com/news/jeep-wrangler-4xe-owners-still-waiting-for-answers-a-week-after-an-update-bricked-their-cars) (2025-10-17)
+- [Every vibe-coded website is the same page with different words. So I made that](https://vibe-coded.lol/) (2025-10-17)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Ex-lidar CEO makes a bid to reclaim his company](https://www.theverge.com/news/801827/ex-lidar-ceo-makes-a-bid-to-reclaim-his-company) (2025-10-17)
-- [Amazon’s Ring now works with video surveillance company Flock](https://www.theverge.com/news/801856/amazon-ring-partners-flock-video) (2025-10-17)
-- [Kelly Reichardt’s anti-heist movie](https://www.theverge.com/entertainment/801651/the-mastermind-kelly-reichardt-director-interview) (2025-10-17)
-- [SteelSeries makes some of the best wireless gaming earbuds, and they’re 36 percent off](https://www.theverge.com/tech/801041/steelseries-arctis-buds-rtx-5070-gpu-deal-sale) (2025-10-17)
-- [Atari’s resurrecting the Intellivision, one of its biggest competitors in the ‘80s](https://www.theverge.com/news/801646/atari-intellivision-sprint-console-competition) (2025-10-17)
+- [Facebook’s new button lets its AI look at photos you haven&#8217;t uploaded yet](https://www.theverge.com/ai-artificial-intelligence/802102/meta-facebook-opt-in-ai-edits-photos-camera-roll) (2025-10-18)
+- [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap) (2025-10-18)
+- [The US has a new roadmap for fusion energy, without the funds to back it up](https://www.theverge.com/news/802070/nuclear-fusion-energy-ai-trump-roadmap) (2025-10-17)
+- [Fictional gadget reviews: exploring the latest in fantasy and sci-fi tech](https://www.theverge.com/entertainment/801966/fictional-gadget-reviews) (2025-10-17)
+- [Pokémon Legends: Z-A Rotom Phone review: better camera, higher jumps](https://www.theverge.com/games/801113/pokemon-legends-za-rotom-phone-pokedex-review) (2025-10-17)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [12 years of HDD analysis brings insight to the bathtub curve’s reliability](https://arstechnica.com/gadgets/2025/10/backblaze-owner-of-317230-hdds-says-hdds-are-lasting-longer/) (2025-10-17)
-- [Lead poisoning has been a feature of our evolution](https://arstechnica.com/science/2025/10/hominins-suffered-lead-poisoning-starting-at-least-2-million-years-ago/) (2025-10-17)
-- [Apple pays $750 million for US Formula 1 streaming coverage](https://arstechnica.com/cars/2025/10/apple-pays-750-million-for-us-formula-1-streaming-coverage/) (2025-10-17)
-- [3 years, 4 championships, but 0 Le Mans wins: Assessing the Porsche 963](https://arstechnica.com/cars/2025/10/3-years-4-championships-but-0-le-mans-wins-assessing-the-porsche-963/) (2025-10-17)
-- [Teachers get an F on AI-generated lesson plans](https://arstechnica.com/ai/2025/10/teachers-get-an-f-on-ai-generated-lesson-plans/) (2025-10-17)
+- [With deadline looming, 4 of 9 universities reject Trump’s “compact” to remake higher ed](https://arstechnica.com/culture/2025/10/with-deadline-looming-4-of-9-universities-reject-trumps-compact-to-remake-higher-ed/) (2025-10-17)
+- [Vaginal condition treatment update: Men should get treated, too](https://arstechnica.com/health/2025/10/vaginal-condition-treatment-update-men-should-get-treated-too/) (2025-10-17)
+- [Ring cameras are about to get increasingly chummy with law enforcement](https://arstechnica.com/gadgets/2025/10/ring-cameras-are-about-to-get-increasingly-chummy-with-law-enforcement/) (2025-10-17)
+- [Dead Ends is a fun, macabre medical history for kids](https://arstechnica.com/science/2025/10/dead-ends-is-a-fun-macabre-medical-history-for-kids/) (2025-10-17)
+- [Big Tech sues Texas, says age-verification law is “broad censorship regime”](https://arstechnica.com/tech-policy/2025/10/big-tech-sues-texas-says-age-verification-law-is-broad-censorship-regime/) (2025-10-17)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
-- [Roundtables: Seeking Climate Solutions in Turbulent Times](https://www.technologyreview.com/2025/10/17/1125962/roundtables-seeking-climate-solutions-in-turbulent-times/) (2025-10-17)
 - [The Download: the rehabilitation of AI art, and the scary truth about antimicrobial resistance](https://www.technologyreview.com/2025/10/17/1125895/the-download-the-rehabilitation-of-ai-art-and-the-scary-truth-about-antimicrobial-resistance/) (2025-10-17)
 - [From slop to Sotheby’s? AI art enters a new phase](https://www.technologyreview.com/2025/10/17/1125193/ai-art-artist-new-chapter/) (2025-10-17)
 - [This startup thinks slime mold can help us design better cities](https://www.technologyreview.com/2025/10/17/1125223/slime-design-better-cities-mireta/) (2025-10-17)
 - [Take our quiz: How much do you know about antimicrobial resistance?](https://www.technologyreview.com/2025/10/16/1125853/antimicrobial-resistance-quiz-antibiotics-infection/) (2025-10-16)
+- [Unlocking the potential of SAF with book and claim in air freight](https://www.technologyreview.com/2025/10/16/1123850/unlocking-the-potential-of-saf-with-book-and-claim-in-air-freight/) (2025-10-16)
 
 </details>
 
@@ -97,22 +97,24 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [🧠 What Is Immutability?](https://dev.to/yash_agarwal_4faf140fcd68/what-is-immutability-3ehh) (2025-10-17)
-- [react-portalslots](https://dev.to/devall/react-portalslots-2637) (2025-10-17)
-- [⚙ Handling Nulls the Smart Way in Java](https://dev.to/yash_agarwal_4faf140fcd68/handling-nulls-the-smart-way-in-java-4ehm) (2025-10-17)
-- [Beyond Parent/Child: Navigating the DOM Tree Fluently with XPathy](https://dev.to/volta_jebaprashanth_ac7af/beyond-parentchild-navigating-the-dom-tree-fluently-with-xpathy-5f89) (2025-10-17)
-- [How to Write Clean, Readable, and Maintainable Java Code](https://dev.to/yash_agarwal_4faf140fcd68/how-to-write-clean-readable-and-maintainable-java-code-3klg) (2025-10-17)
+- [3003. Maximize the Number of Partitions After Operations](https://dev.to/mdarifulhaque/3003-maximize-the-number-of-partitions-after-operations-2dl5) (2025-10-18)
+- [Unlocking the Power of Community: How Engaging with Developers on Reddit Can Elevate Your Skills](https://dev.to/mikeover/unlocking-the-power-of-community-how-engaging-with-developers-on-reddit-can-elevate-your-skills-3co6) (2025-10-18)
+- [How to Manage WireGuard VPN Connection in GNOME Without the wireguard-tools](https://dev.to/archerallstars/how-to-manage-wireguard-vpn-connection-in-gnome-without-the-wireguard-tools-1od5) (2025-10-18)
+- [Title: Figure Technology Solutions Submits Confidential IPO Filing to US Securities and Exchange Commission](https://dev.to/yagyaraj_sharma_6cd410179/title-figure-technology-solutions-submits-confidential-ipo-filing-to-us-securities-and-exchange-2n4p) (2025-10-18)
+- [DB Mysql/Postgres on AWS vs Hetzner](https://dev.to/devops-make-it-run/db-mysqlpostgres-on-aws-vs-hetzner-5h43) (2025-10-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [7 Types of Python Classes I Wish I Learned Earlier](https://medium.com/the-pythonworld/7-types-of-python-classes-i-wish-i-learned-earlier-e05d58684543?source=rss------programming-5) (2025-10-17)
-- [Mixins and Interfaces for Code Reuse in Dart](https://medium.com/@AlexanderObregon/mixins-and-interfaces-for-code-reuse-in-dart-34936bab751d?source=rss------programming-5) (2025-10-17)
-- [Don’t flood your horror game with dogshit screamers — Instead.](https://medium.com/@dontunsub840/dont-flood-your-horror-game-with-dogshit-screamers-instead-a2cea65ebb86?source=rss------programming-5) (2025-10-17)
-- [Why You Should Stop Overusing Virtual Environments in Python](https://medium.com/the-pythonworld/why-you-should-stop-overusing-virtual-environments-in-python-c2ac6eeeefa4?source=rss------programming-5) (2025-10-17)
-- [7 Things Every Data Engineer Should Know About match/case in Scala](https://blog.dataengineerthings.org/7-things-every-data-engineer-should-know-about-match-case-in-scala-f222f86723f9?source=rss------programming-5) (2025-10-17)
+- [09021901293](https://medium.com/@jsjxjxxkzjzubsvizb/09021901293-a71e3a0d2e33?source=rss------programming-5) (2025-10-18)
+- [09021901293](https://medium.com/@jsjxjxxkzjzubsvizb/09021901293-f8a7b4a15e6a?source=rss------programming-5) (2025-10-18)
+- [09021901293](https://medium.com/@jsjxjxxkzjzubsvizb/09021901293-2b720cf2714f?source=rss------programming-5) (2025-10-18)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@d36160898/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-7d8f22780148?source=rss------programming-5) (2025-10-18)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@d36160898/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-b99f193e58f8?source=rss------programming-5) (2025-10-18)
 
 </details>
 
@@ -141,11 +143,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [The Engines of American-Made Intelligence: NVIDIA and TSMC Celebrate First NVIDIA Blackwell Wafer Produced in the US](https://blogs.nvidia.com/blog/tsmc-blackwell-manufacturing/) (2025-10-17)
 - [Open Source AI Week — How Developers and Contributors Are Advancing AI Innovation](https://blogs.nvidia.com/blog/open-source-ai-week/) (2025-10-17)
 - [Ready, Set, Reward — GeForce NOW Membership Rewards Await](https://blogs.nvidia.com/blog/geforce-now-thursday-members-reward-program/) (2025-10-16)
 - [How Starcloud Is Bringing Data Centers to Outer Space](https://blogs.nvidia.com/blog/starcloud/) (2025-10-15)
 - [Oracle and NVIDIA Accelerate Sovereign AI, Enabling Abu Dhabi’s AI-Native Government Transformation](https://blogs.nvidia.com/blog/oracle-nvidia-accelerate-sovereign-ai-abu-dhabi/) (2025-10-14)
-- [NVIDIA and Oracle to Accelerate Enterprise AI and Data Processing](https://blogs.nvidia.com/blog/nvidia-oracle-accelerate-enterprise-ai-data-processing/) (2025-10-14)
 
 </details>
 
@@ -207,22 +209,22 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [How to add MCP Servers to OpenAI’s Codex with Docker MCP Toolkit](https://www.docker.com/blog/connect-codex-to-mcp-servers-mcp-toolkit/) (2025-10-17)
 - [Why I Still Use jQuery](https://www.docker.com/blog/why-i-still-use-jquery-2025/) (2025-10-17)
 - [Debug Docker Builds with Visual Studio Code](https://www.docker.com/blog/debug-docker-builds-with-visual-studio-code/) (2025-10-16)
 - [Docker Hardened Images: crafted by humans, protected by AI](https://www.docker.com/blog/docker-hardened-images-crafted-by-humans-protected-by-ai/) (2025-10-15)
 - [How to add MCP Servers to Gemini CLI with Docker MCP Toolkit](https://www.docker.com/blog/how-to-set-up-gemini-cli-with-mcp-toolkit/) (2025-10-15)
-- [Build a Multi-Agent System in 5 Minutes with cagent](https://www.docker.com/blog/how-to-build-a-multi-agent-system/) (2025-10-14)
 
 </details>
 
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Spotlight on Policy Working Group](https://kubernetes.io/blog/2025/10/18/wg-policy-spotlight-2025/) (2025-10-18)
 - [Introducing Headlamp Plugin for Karpenter - Scaling and Visibility](https://kubernetes.io/blog/2025/10/06/introducing-headlamp-plugin-for-karpenter/) (2025-10-06)
 - [Announcing Changed Block Tracking API support (alpha)](https://kubernetes.io/blog/2025/09/25/csi-changed-block-tracking/) (2025-09-25)
 - [Kubernetes v1.34: Pod Level Resources Graduated to Beta](https://kubernetes.io/blog/2025/09/22/kubernetes-v1-34-pod-level-resources/) (2025-09-22)
 - [Kubernetes v1.34: Recovery From Volume Expansion Failure (GA)](https://kubernetes.io/blog/2025/09/19/kubernetes-v1-34-recover-expansion-failure/) (2025-09-19)
-- [Kubernetes v1.34: DRA Consumable Capacity](https://kubernetes.io/blog/2025/09/18/kubernetes-v1-34-dra-consumable-capacity/) (2025-09-18)
 
 </details>
 
@@ -362,6 +364,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+How to Manage Your Twilio Verify Safe List in Laravel
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/manage-twilio-verify-safe-list-laravel
+) (2025-10-17)
+- [
 Take command of your customer data with the latest Twilio platform releases
 ](
 https://www.twilio.com/en-us/blog/products/launches/trust-access-data-tools-1
@@ -381,11 +388,6 @@ Welcome to the Builder’s Arcade at SIGNAL Sydney 2025
 ](
 https://www.twilio.com/en-us/blog/events/twilio-builders-arcade-syd25
 ) (2025-10-14)
-- [
-How to Write Better Reminder Emails (Template + Examples)
-](
-https://www.twilio.com/en-us/blog/insights/write-reminder-emails
-) (2025-10-13)
 
 </details>
 
@@ -568,11 +570,11 @@ https://www.twilio.com/en-us/blog/insights/write-reminder-emails
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Google’s Veo 3.1 Just Killed Sora 2!](https://www.analyticsvidhya.com/blog/2025/10/veo-3-1/) (2025-10-17)
 - [Top 10 AI Chrome Extensions for Hyper Productive Work](https://www.analyticsvidhya.com/blog/2025/10/ai-chrome-extensions-for-work/) (2025-10-17)
 - [How Instagram leverages AI For Content Moderation?](https://www.analyticsvidhya.com/blog/2025/10/how-instagram-leverages-ai-for-content-moderation/) (2025-10-17)
 - [7 Best GitHub Repositories For Mastering RAG Systems](https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems/) (2025-10-16)
 - [How to Run your ML Notebook on Databricks?](https://www.analyticsvidhya.com/blog/2025/10/ml-notebook-on-databricks/) (2025-10-16)
-- [Build ChatGPT Clone with Andrej Karpathy’s nanochat ](https://www.analyticsvidhya.com/blog/2025/10/andrej-karpathys-nanochat/) (2025-10-15)
 
 </details>
 
