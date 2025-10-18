@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Silicon Valley spooks the AI safety advocates](https://techcrunch.com/2025/10/17/silicon-valley-spooks-the-ai-safety-advocates/) (2025-10-18)
 - [Senate Republicans deepfaked Chuck Schumer, and X hasn’t taken it down ](https://techcrunch.com/2025/10/17/senate-republicans-deepfaked-chuck-schumer-and-x-hasnt-taken-it-down/) (2025-10-17)
 - [Your AI tools run on fracked gas and bulldozed Texas land](https://techcrunch.com/2025/10/17/your-ai-tools-run-on-fracked-gas-and-bulldozed-texas-land/) (2025-10-17)
 - [Trump DOE decides to keep at least one Biden-era energy program](https://techcrunch.com/2025/10/17/trump-doe-decides-to-keep-at-least-one-biden-era-energy-program/) (2025-10-17)
 - [Should AI do everything? OpenAI thinks so](https://techcrunch.com/video/should-ai-do-everything-openai-thinks-so/) (2025-10-17)
-- [Facebook’s AI can now suggest edits to the photos still on your phone](https://techcrunch.com/2025/10/17/facebooks-ai-can-now-suggest-edits-to-the-photos-still-on-your-phone/) (2025-10-17)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Unix Executable as a Smalltalk Method (and Unix-Smalltalk Unification) [pdf]](https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf) (2025-10-18)
-- [Ring cameras are about to get increasingly chummy with law enforcement](https://arstechnica.com/gadgets/2025/10/ring-cameras-are-about-to-get-increasingly-chummy-with-law-enforcement/) (2025-10-18)
+- [The Majority AI View](https://www.anildash.com//2025/10/17/the-majority-ai-view/) (2025-10-18)
+- [Show HN: ServiceRadar – open-source Network Observability Platform](https://github.com/carverauto/serviceradar) (2025-10-18)
+- [The Unix Executable as a Smalltalk Method [pdf]](https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf) (2025-10-18)
 - [NeXT Computer Offices](https://archive.org/details/NeXTComputerOffices) (2025-10-18)
-- [Jeep Wrangler Owners Waiting for Answers Week After an Update Bricked Their Cars](https://www.thedrive.com/news/jeep-wrangler-4xe-owners-still-waiting-for-answers-a-week-after-an-update-bricked-their-cars) (2025-10-17)
-- [Every vibe-coded website is the same page with different words. So I made that](https://vibe-coded.lol/) (2025-10-17)
+- [WebMCP](https://github.com/jasonjmcghee/WebMCP) (2025-10-17)
 
 </details>
 
@@ -97,24 +97,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [3003. Maximize the Number of Partitions After Operations](https://dev.to/mdarifulhaque/3003-maximize-the-number-of-partitions-after-operations-2dl5) (2025-10-18)
-- [Unlocking the Power of Community: How Engaging with Developers on Reddit Can Elevate Your Skills](https://dev.to/mikeover/unlocking-the-power-of-community-how-engaging-with-developers-on-reddit-can-elevate-your-skills-3co6) (2025-10-18)
-- [How to Manage WireGuard VPN Connection in GNOME Without the wireguard-tools](https://dev.to/archerallstars/how-to-manage-wireguard-vpn-connection-in-gnome-without-the-wireguard-tools-1od5) (2025-10-18)
-- [Title: Figure Technology Solutions Submits Confidential IPO Filing to US Securities and Exchange Commission](https://dev.to/yagyaraj_sharma_6cd410179/title-figure-technology-solutions-submits-confidential-ipo-filing-to-us-securities-and-exchange-2n4p) (2025-10-18)
-- [DB Mysql/Postgres on AWS vs Hetzner](https://dev.to/devops-make-it-run/db-mysqlpostgres-on-aws-vs-hetzner-5h43) (2025-10-18)
+- [Polyphonic: When artists don't write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-2f7p) (2025-10-18)
+- [8-Bit Music Theory: How to Write Gorgeous Chords like Masashi Hamauzu](https://dev.to/music_youtube/8-bit-music-theory-how-to-write-gorgeous-chords-like-masashi-hamauzu-4co7) (2025-10-18)
+- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-30mo) (2025-10-18)
+- [Rick Beato: Justin Hawkins Isn't Afraid To Talk Sh*t](https://dev.to/music_youtube/rick-beato-justin-hawkins-isnt-afraid-to-talk-sht-57b8) (2025-10-18)
+- [Rick Beato: I Fried ChatGPT With ONE Simple Question](https://dev.to/music_youtube/rick-beato-i-fried-chatgpt-with-one-simple-question-ne3) (2025-10-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09021901293](https://medium.com/@jsjxjxxkzjzubsvizb/09021901293-a71e3a0d2e33?source=rss------programming-5) (2025-10-18)
-- [09021901293](https://medium.com/@jsjxjxxkzjzubsvizb/09021901293-f8a7b4a15e6a?source=rss------programming-5) (2025-10-18)
-- [09021901293](https://medium.com/@jsjxjxxkzjzubsvizb/09021901293-2b720cf2714f?source=rss------programming-5) (2025-10-18)
-- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@d36160898/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-7d8f22780148?source=rss------programming-5) (2025-10-18)
-- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@d36160898/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-b99f193e58f8?source=rss------programming-5) (2025-10-18)
+- [“this.isMyNindo!”: A Dev Learning Journey Chronicle - Episode 10](https://medium.com/@MathieuBoko/this-ismynindo-a-dev-learning-journey-chronicle-episode-10-618fd498645b?source=rss------programming-5) (2025-10-18)
+- [Java Practicing Series, Project #1: Building a Library Management System (Part 2)](https://medium.com/@semihcettin/java-practicing-series-project-1-building-a-library-management-system-part-2-8cf108c9fd89?source=rss------programming-5) (2025-10-18)
+- [The Psychological Principle Behind Every Successful API Design](https://medium.com/@sohail_saifi/the-psychological-principle-behind-every-successful-api-design-a62d8a34646b?source=rss------programming-5) (2025-10-18)
+- [Stop Using Big Endian Protocols — It’s 2025, Not 1985](https://medium.com/@premchandak_11/stop-using-big-endian-protocols-its-2025-not-1985-81521c01c830?source=rss------programming-5) (2025-10-18)
+- [0905.501.9190شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@a71780087/0905-501-9190%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-23638798584f?source=rss------programming-5) (2025-10-18)
 
 </details>
 
