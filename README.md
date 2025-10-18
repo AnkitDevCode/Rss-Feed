@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Majority AI View](https://www.anildash.com//2025/10/17/the-majority-ai-view/) (2025-10-18)
-- [Show HN: ServiceRadar – open-source Network Observability Platform](https://github.com/carverauto/serviceradar) (2025-10-18)
-- [The Unix Executable as a Smalltalk Method [pdf]](https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf) (2025-10-18)
-- [NeXT Computer Offices](https://archive.org/details/NeXTComputerOffices) (2025-10-18)
-- [WebMCP](https://github.com/jasonjmcghee/WebMCP) (2025-10-17)
+- [./watch](https://dotslashwatch.com/) (2025-10-18)
+- [Fast calculation of the distance to cubic Bezier curves on the GPU](https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html) (2025-10-18)
+- [Windows 10 refugees flock to Linux in what devs call their "biggest launch"](https://www.neowin.net/news/windows-10-refugees-flock-to-linux-in-what-devs-call-their-biggest-launch-ever/) (2025-10-18)
+- [StageConnect: Behringer protocol is open source](https://github.com/OpenMixerProject/StageConnect) (2025-10-18)
+- [How I ditched smartphones](https://discuss.techlore.tech/t/how-i-ditched-smartphones/15315) (2025-10-18)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The future I saw through the Meta Ray-Ban Display amazes and terrifies me](https://www.theverge.com/tech/801684/meta-ray-ban-display-review-smart-glasses-ai-wearables) (2025-10-18)
+- [The lab where GM is cooking up new EV batteries to beat China](https://www.theverge.com/transportation/801780/gm-ev-battery-lab-lmr-range-cost) (2025-10-18)
 - [Facebook’s new button lets its AI look at photos you haven&#8217;t uploaded yet](https://www.theverge.com/ai-artificial-intelligence/802102/meta-facebook-opt-in-ai-edits-photos-camera-roll) (2025-10-18)
 - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap) (2025-10-18)
 - [The US has a new roadmap for fusion energy, without the funds to back it up](https://www.theverge.com/news/802070/nuclear-fusion-energy-ai-trump-roadmap) (2025-10-17)
-- [Fictional gadget reviews: exploring the latest in fantasy and sci-fi tech](https://www.theverge.com/entertainment/801966/fictional-gadget-reviews) (2025-10-17)
-- [Pokémon Legends: Z-A Rotom Phone review: better camera, higher jumps](https://www.theverge.com/games/801113/pokemon-legends-za-rotom-phone-pokedex-review) (2025-10-17)
 
 </details>
 
@@ -97,23 +97,26 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Polyphonic: When artists don't write their own songs](https://dev.to/music_youtube/polyphonic-when-artists-dont-write-their-own-songs-2f7p) (2025-10-18)
-- [8-Bit Music Theory: How to Write Gorgeous Chords like Masashi Hamauzu](https://dev.to/music_youtube/8-bit-music-theory-how-to-write-gorgeous-chords-like-masashi-hamauzu-4co7) (2025-10-18)
-- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-30mo) (2025-10-18)
-- [Rick Beato: Justin Hawkins Isn't Afraid To Talk Sh*t](https://dev.to/music_youtube/rick-beato-justin-hawkins-isnt-afraid-to-talk-sht-57b8) (2025-10-18)
-- [Rick Beato: I Fried ChatGPT With ONE Simple Question](https://dev.to/music_youtube/rick-beato-i-fried-chatgpt-with-one-simple-question-ne3) (2025-10-18)
+- [[Boost]](https://dev.to/hadil/-3c9a) (2025-10-18)
+- [Andrew Huang: Beautiful new music making environment! (GRM Atelier)](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-434m) (2025-10-18)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-18hl) (2025-10-18)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-1ded) (2025-10-18)
+- [KEXP: Jorja Smith - With You (Live on KEXP)](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-46d) (2025-10-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [“this.isMyNindo!”: A Dev Learning Journey Chronicle - Episode 10](https://medium.com/@MathieuBoko/this-ismynindo-a-dev-learning-journey-chronicle-episode-10-618fd498645b?source=rss------programming-5) (2025-10-18)
-- [Java Practicing Series, Project #1: Building a Library Management System (Part 2)](https://medium.com/@semihcettin/java-practicing-series-project-1-building-a-library-management-system-part-2-8cf108c9fd89?source=rss------programming-5) (2025-10-18)
-- [The Psychological Principle Behind Every Successful API Design](https://medium.com/@sohail_saifi/the-psychological-principle-behind-every-successful-api-design-a62d8a34646b?source=rss------programming-5) (2025-10-18)
-- [Stop Using Big Endian Protocols — It’s 2025, Not 1985](https://medium.com/@premchandak_11/stop-using-big-endian-protocols-its-2025-not-1985-81521c01c830?source=rss------programming-5) (2025-10-18)
-- [0905.501.9190شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@a71780087/0905-501-9190%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-23638798584f?source=rss------programming-5) (2025-10-18)
+- [How can I build my first ETF portfolio](https://medium.com/@kkom82971/how-can-i-build-my-first-etf-portfolio-78c7ff4f96ab?source=rss------programming-5) (2025-10-18)
+- [09025042560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@nzbxbxbsbbzbzbxbxbxbzbzbxbbx/09025042560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-0b2ff3fd6da4?source=rss------programming-5) (2025-10-18)
+- [09025042560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@nzbxbxbsbbzbzbxbxbxbzbzbxbbx/09025042560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-f53681c67c9a?source=rss------programming-5) (2025-10-18)
+- [09025042560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@nzbxbxbsbbzbzbxbxbxbzbzbxbbx/09025042560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-54f1e9910247?source=rss------programming-5) (2025-10-18)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kydduiufxhiigcxfhug/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-5b3fc60d7204?source=rss------programming-5) (2025-10-18)
 
 </details>
 
