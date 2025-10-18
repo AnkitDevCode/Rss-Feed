@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [YouTubers aren’t relying on ad revenue anymore — here’s how some are diversifying](https://techcrunch.com/2025/10/18/youtubers-arent-relying-on-ad-revenue-anymore-heres-how-some-are-diversifying/) (2025-10-18)
+- [Too burned out to travel? This new app fakes your summer vacation photos for you](https://techcrunch.com/2025/10/18/too-burned-out-to-travel-this-new-app-fakes-your-summer-vacation-photos-for-you/) (2025-10-18)
+- [Salesforce CEO Marc Benioff apologizes for saying National Guard needed in San Francisco](https://techcrunch.com/2025/10/18/salesforce-ceo-marc-benioff-apologizes-for-saying-national-guard-troops-needed-in-san-francisco/) (2025-10-18)
+- [WhatsApp changes its terms to bar general purpose chatbots from its platform](https://techcrunch.com/2025/10/18/whatssapp-changes-its-terms-to-bar-general-purpose-chatbots-from-its-platform/) (2025-10-18)
 - [Silicon Valley spooks the AI safety advocates](https://techcrunch.com/2025/10/17/silicon-valley-spooks-the-ai-safety-advocates/) (2025-10-18)
-- [Senate Republicans deepfaked Chuck Schumer, and X hasn’t taken it down ](https://techcrunch.com/2025/10/17/senate-republicans-deepfaked-chuck-schumer-and-x-hasnt-taken-it-down/) (2025-10-17)
-- [Your AI tools run on fracked gas and bulldozed Texas land](https://techcrunch.com/2025/10/17/your-ai-tools-run-on-fracked-gas-and-bulldozed-texas-land/) (2025-10-17)
-- [Trump DOE decides to keep at least one Biden-era energy program](https://techcrunch.com/2025/10/17/trump-doe-decides-to-keep-at-least-one-biden-era-energy-program/) (2025-10-17)
-- [Should AI do everything? OpenAI thinks so](https://techcrunch.com/video/should-ai-do-everything-openai-thinks-so/) (2025-10-17)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [./watch](https://dotslashwatch.com/) (2025-10-18)
-- [Fast calculation of the distance to cubic Bezier curves on the GPU](https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html) (2025-10-18)
-- [Windows 10 refugees flock to Linux in what devs call their "biggest launch"](https://www.neowin.net/news/windows-10-refugees-flock-to-linux-in-what-devs-call-their-biggest-launch-ever/) (2025-10-18)
-- [StageConnect: Behringer protocol is open source](https://github.com/OpenMixerProject/StageConnect) (2025-10-18)
-- [How I ditched smartphones](https://discuss.techlore.tech/t/how-i-ditched-smartphones/15315) (2025-10-18)
+- [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/inrUYH9-founding-engineer) (2025-10-18)
+- [Tinnitus Neuromodulator](https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php) (2025-10-18)
+- [Free Programing Books](https://github.com/EbookFoundation/free-programming-books) (2025-10-18)
+- [Event Sourcing, CQRS and Micro Services: Real FinTech Example](https://lukasniessen.medium.com/this-is-a-detailed-breakdown-of-a-fintech-project-from-my-consulting-career-9ec61603709c) (2025-10-18)
+- [Picturing Mathematics](https://mathenchant.wordpress.com/2025/10/18/picturing-mathematics/) (2025-10-18)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The future I saw through the Meta Ray-Ban Display amazes and terrifies me](https://www.theverge.com/tech/801684/meta-ray-ban-display-review-smart-glasses-ai-wearables) (2025-10-18)
-- [The lab where GM is cooking up new EV batteries to beat China](https://www.theverge.com/transportation/801780/gm-ev-battery-lab-lmr-range-cost) (2025-10-18)
-- [Facebook’s new button lets its AI look at photos you haven&#8217;t uploaded yet](https://www.theverge.com/ai-artificial-intelligence/802102/meta-facebook-opt-in-ai-edits-photos-camera-roll) (2025-10-18)
-- [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap) (2025-10-18)
-- [The US has a new roadmap for fusion energy, without the funds to back it up](https://www.theverge.com/news/802070/nuclear-fusion-energy-ai-trump-roadmap) (2025-10-17)
+- [TiVo won the court battles, but lost the TV war](https://www.theverge.com/tech/802254/tivo-time-warp-patent-courtoom-battles-lost-tv-war) (2025-10-18)
+- [Motorola’s Razr Ultra and the Marshall Emberton II top this week’s best deals](https://www.theverge.com/tech/801962/motorola-razr-ultra-2025-foldable-marshall-emberton-ii-speaker-deal-sale) (2025-10-18)
+- [8BitDo’s new collection celebrates the NES’s 40th anniversary](https://www.theverge.com/news/801832/8bitdo-nintendo-nes-ultimate-2-controller-retro-keyboard-bluetooth-cube-speaker) (2025-10-18)
+- [Pokémon Legends: Z-A makes a big, welcome change for shiny hunters](https://www.theverge.com/games/802089/pokemon-legends-z-a-shiny-hunting) (2025-10-18)
+- [Easy Delivery Co. is a cozy, Lynchian dream](https://www.theverge.com/games/800733/easy-delivery-co-review-steam) (2025-10-18)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Roberta Williams’ The Colonel’s Bequest was a different type of adventure game](https://arstechnica.com/gaming/2025/10/roberta-williams-the-colonels-bequest-was-a-different-type-of-adventure-game/) (2025-10-18)
 - [With deadline looming, 4 of 9 universities reject Trump’s “compact” to remake higher ed](https://arstechnica.com/culture/2025/10/with-deadline-looming-4-of-9-universities-reject-trumps-compact-to-remake-higher-ed/) (2025-10-17)
 - [Vaginal condition treatment update: Men should get treated, too](https://arstechnica.com/health/2025/10/vaginal-condition-treatment-update-men-should-get-treated-too/) (2025-10-17)
 - [Ring cameras are about to get increasingly chummy with law enforcement](https://arstechnica.com/gadgets/2025/10/ring-cameras-are-about-to-get-increasingly-chummy-with-law-enforcement/) (2025-10-17)
 - [Dead Ends is a fun, macabre medical history for kids](https://arstechnica.com/science/2025/10/dead-ends-is-a-fun-macabre-medical-history-for-kids/) (2025-10-17)
-- [Big Tech sues Texas, says age-verification law is “broad censorship regime”](https://arstechnica.com/tech-policy/2025/10/big-tech-sues-texas-says-age-verification-law-is-broad-censorship-regime/) (2025-10-17)
 
 </details>
 
@@ -97,26 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [[Boost]](https://dev.to/hadil/-3c9a) (2025-10-18)
-- [Andrew Huang: Beautiful new music making environment! (GRM Atelier)](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-434m) (2025-10-18)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-18hl) (2025-10-18)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-1ded) (2025-10-18)
-- [KEXP: Jorja Smith - With You (Live on KEXP)](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-46d) (2025-10-18)
+- [Nahre Sol: how to engineer nostalgia in music (studio ghibli style)](https://dev.to/music_youtube/nahre-sol-how-to-engineer-nostalgia-in-music-studio-ghibli-style-36mc) (2025-10-18)
+- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-5dj3) (2025-10-18)
+- [Rick Beato: Justin Hawkins Isn't Afraid To Talk Sh*t](https://dev.to/music_youtube/rick-beato-justin-hawkins-isnt-afraid-to-talk-sht-37n) (2025-10-18)
+- [Rick Beato: I Fried ChatGPT With ONE Simple Question](https://dev.to/music_youtube/rick-beato-i-fried-chatgpt-with-one-simple-question-3c92) (2025-10-18)
+- [The Game Theorists: Game Theory: Poké Balls Are KILLING Pokémon?!](https://dev.to/gg_news/the-game-theorists-game-theory-poke-balls-are-killing-pokemon-46je) (2025-10-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How can I build my first ETF portfolio](https://medium.com/@kkom82971/how-can-i-build-my-first-etf-portfolio-78c7ff4f96ab?source=rss------programming-5) (2025-10-18)
-- [09025042560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@nzbxbxbsbbzbzbxbxbxbzbzbxbbx/09025042560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-0b2ff3fd6da4?source=rss------programming-5) (2025-10-18)
-- [09025042560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@nzbxbxbsbbzbzbxbxbxbzbzbxbbx/09025042560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-f53681c67c9a?source=rss------programming-5) (2025-10-18)
-- [09025042560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@nzbxbxbsbbzbzbxbxbxbzbzbxbbx/09025042560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-54f1e9910247?source=rss------programming-5) (2025-10-18)
-- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kydduiufxhiigcxfhug/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-5b3fc60d7204?source=rss------programming-5) (2025-10-18)
+- [End-to-End Data Analysis Workflow for Beginners using SQL](https://theanalyticsedge.medium.com/end-to-end-data-analysis-workflow-for-beginners-using-sql-404991e9e966?source=rss------programming-5) (2025-10-18)
+- [Dart Compilation Targets JIT AOT and WebAssembly](https://medium.com/@AlexanderObregon/dart-compilation-targets-jit-aot-and-webassembly-9fee9be687c1?source=rss------programming-5) (2025-10-18)
+- [Combining SQL and Excel for Efficient Data Analysis](https://theanalyticsedge.medium.com/combining-sql-and-excel-for-efficient-data-analysis-331331e7f931?source=rss------programming-5) (2025-10-18)
+- [Structured vs Unstructured Data: How to Handle and Analyze Each Type](https://theanalyticsedge.medium.com/structured-vs-unstructured-data-how-to-handle-and-analyze-each-type-dcb25b8ddaf9?source=rss------programming-5) (2025-10-18)
+- [ 10 Mistakes Every Beginner Ethical Hacker Makes (and How to Avoid Them in 2025)](https://medium.com/@lazyhun3r/10-mistakes-every-beginner-ethical-hacker-makes-and-how-to-avoid-them-in-2025-aa89c6b92a87?source=rss------programming-5) (2025-10-18)
 
 </details>
 
@@ -504,6 +500,17 @@ https://www.twilio.com/en-us/blog/events/twilio-builders-arcade-syd25
 </details>
 
 <details>
+<summary>💬 Slack API</summary>
+
+- [Unlocking the Power of Conversation: How Slack’s New Platform is Fueling the Agentic Era](https://slack.com/blog/news/powering-agentic-collaboration) (2025-10-13)
+- [What Is Personalized Search, and How Does It Work?](https://slack.com/blog/productivity/what-is-personalized-search-and-how-does-it-work) (2025-10-07)
+- [AI Assistants: Everything You Need to Know](https://slack.com/blog/transformation/ai-assistants-what-they-do-and-why-you-need-them) (2025-10-07)
+- [A Complete Guide to AI Summarization: Benefits, Use Cases, and Tools](https://slack.com/blog/productivity/ai-summarization-a-guide-to-conquering-information-overload) (2025-10-01)
+- [Document Workflows Like a Pro: Tips, Tools, and Real-World Examples](https://slack.com/blog/productivity/workflow-documentation-what-it-is-how-to-create-it-and-why-it-matters) (2025-10-01)
+
+</details>
+
+<details>
 <summary>🔒 Signal Blog</summary>
 
 - [Signal Protocol and Post-Quantum Ratchets](https://signal.org/blog/spqr/) (2025-10-02)
@@ -561,22 +568,22 @@ https://www.twilio.com/en-us/blog/events/twilio-builders-arcade-syd25
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Can We Save the AI Economy?](https://towardsdatascience.com/can-we-save-the-ai-economy/) (2025-10-18)
+- [Python 3.14 and the End of the GIL](https://towardsdatascience.com/python-3-14-and-the-end-of-the-gil/) (2025-10-18)
 - [Machine Learning Meets Panel Data: What Practitioners Need to Know](https://towardsdatascience.com/machine-learning-meets-panel-data-what-practitioners-need-to-know/) (2025-10-17)
 - [How to Classify Lung Cancer Subtype from DNA Copy Numbers Using PyTorch](https://towardsdatascience.com/classification-of-lung-cancer-type-from-genomic-copy-number-profiles-using-a-convolutional-neural-network/) (2025-10-17)
 - [How I Used Machine Learning to Predict 41% of Project Delays Before They Happened](https://towardsdatascience.com/how-i-used-machine-learning-to-predict-41-of-project-delays-before-they-happened/) (2025-10-17)
-- [Statistical Method mcRigor Enhances the Rigor of Metacell Partitioning in Single-Cell Data Analysis](https://towardsdatascience.com/statistical-method-mcrigor-enhances-the-rigor-of-metacell-partitioning-in-single-cell-data-analysis/) (2025-10-17)
-- [Feature Detection, Part 1: Image Derivatives, Gradients, and Sobel Operator](https://towardsdatascience.com/feature-detection-part-1-image-derivatives-gradients-and-sobel-operator/) (2025-10-16)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [With Demo: How AI is Automating Car Servicing](https://www.analyticsvidhya.com/blog/2025/10/how-ai-is-automating-car-servicing/) (2025-10-18)
 - [Google’s Veo 3.1 Just Killed Sora 2!](https://www.analyticsvidhya.com/blog/2025/10/veo-3-1/) (2025-10-17)
 - [Top 10 AI Chrome Extensions for Hyper Productive Work](https://www.analyticsvidhya.com/blog/2025/10/ai-chrome-extensions-for-work/) (2025-10-17)
 - [How Instagram leverages AI For Content Moderation?](https://www.analyticsvidhya.com/blog/2025/10/how-instagram-leverages-ai-for-content-moderation/) (2025-10-17)
 - [7 Best GitHub Repositories For Mastering RAG Systems](https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems/) (2025-10-16)
-- [How to Run your ML Notebook on Databricks?](https://www.analyticsvidhya.com/blog/2025/10/ml-notebook-on-databricks/) (2025-10-16)
 
 </details>
 
