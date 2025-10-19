@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Show HN: Duck-UI – Browser-Based SQL IDE for DuckDB](https://demo.duckui.com) (2025-10-19)
+- [Did Space Debris Hit A United Flight Over The Rockies Thursday?](https://viewfromthewing.com/did-space-debris-hit-a-united-flight-over-the-rockies-thursday-heres-what-we-know-so-far/) (2025-10-19)
+- [The Case for the Return of Fine-Tuning](https://welovesota.com/article/the-case-for-the-return-of-fine-tuning) (2025-10-19)
+- [Space junk falls on Western Australian minesite](https://www.abc.net.au/news/2025-10-19/wa-space-debris-reentry-investigation/105909612) (2025-10-19)
 - [The Accountability Problem](https://www.jamesshore.com/v2/blog/2025/the-accountability-problem) (2025-10-19)
-- [Friendship Begins at Home](https://3quarksdaily.com/3quarksdaily/2025/10/friendship-begins-at-home.html) (2025-10-19)
-- [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=45631422) (2025-10-19)
-- [Using Pegs in Janet](https://articles.inqk.net/2020/09/19/how-to-use-pegs-in-janet.html) (2025-10-19)
-- [How to sequence your DNA for <$2k](https://maxlangenkamp.substack.com/p/how-to-sequence-your-dna-for-2k) (2025-10-18)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Time to catch ‘em all again](https://www.theverge.com/tech/801870/pokemon-legends-za-apple-m5-macbook-scorsese-installer) (2025-10-19)
+- [The AI sexting era has arrived](https://www.theverge.com/column/802022/ai-sexting-openai-chatbot-chatgpt) (2025-10-19)
 - [TiVo won the court battles, but lost the TV war](https://www.theverge.com/tech/802254/tivo-time-warp-patent-courtoom-battles-lost-tv-war) (2025-10-18)
 - [Motorola’s Razr Ultra and the Marshall Emberton II top this week’s best deals](https://www.theverge.com/tech/801962/motorola-razr-ultra-2025-foldable-marshall-emberton-ii-speaker-deal-sale) (2025-10-18)
 - [8BitDo’s new collection celebrates the NES’s 40th anniversary](https://www.theverge.com/news/801832/8bitdo-nintendo-nes-ultimate-2-controller-retro-keyboard-bluetooth-cube-speaker) (2025-10-18)
-- [Pokémon Legends: Z-A makes a big, welcome change for shiny hunters](https://www.theverge.com/games/802089/pokemon-legends-z-a-shiny-hunting) (2025-10-18)
-- [Easy Delivery Co. is a cozy, Lynchian dream](https://www.theverge.com/games/800733/easy-delivery-co-review-steam) (2025-10-18)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Andrew Huang: Beautiful new music making environment! (GRM Atelier)](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-465e) (2025-10-19)
-- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-ck9) (2025-10-19)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-27bo) (2025-10-19)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-3jma) (2025-10-19)
-- [KEXP: Jorja Smith - With You (Live on KEXP)](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-39gh) (2025-10-19)
+- [I'm building an open-source AI ATC for flight sims (and looking for like-minded devs)](https://dev.to/itssrubberduck/im-building-an-open-source-ai-atc-for-flight-sims-and-looking-for-like-minded-devs-2ii5) (2025-10-19)
+- [Web Developer Travis McCracken on The Tools I Use Every Day as a Web Developer](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-tools-i-use-every-day-as-a-web-developer-15e8) (2025-10-19)
+- [Conversational Architecture with LLM Intelligence — SemanticCue v1](https://dev.to/ganeshn/conversational-architecture-with-llm-intelligence-semanticcue-v1-2ak9) (2025-10-19)
+- [Migrating VMware Workloads from VMWare to AWS – A Smarter, Future-Ready Approach](https://dev.to/kishore_karumanchi_acbc18/migrating-vmware-workloads-from-vmware-to-aws-a-smarter-future-ready-approach-4agd) (2025-10-19)
+- [Creating the Pinnacle of Niche Software: Consume Squidex Headless CMS Api's in ELM!](https://dev.to/sukkergris/creating-the-pinnacle-of-niche-software-consume-squidex-headless-cms-apis-in-elm-59i7) (2025-10-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ React Native in 2025: The Rise of Fabric, TurboModules & the New Architecture Revolution ⚛️](https://medium.com/@EnaModernCoder/react-native-in-2025-the-rise-of-fabric-turbomodules-the-new-architecture-revolution-%EF%B8%8F-c09ff8316ace?source=rss------programming-5) (2025-10-19)
-- [10 Python Shortcuts So Powerful, They Made Me Rethink How I Code](https://python.plainenglish.io/10-python-shortcuts-so-powerful-they-made-me-rethink-how-i-code-e18e21fcf93e?source=rss------programming-5) (2025-10-19)
-- [ Advanced Topic: Python in the Era of Native Compilation & Accelerated Performance](https://medium.com/@alisha00/advanced-topic-python-in-the-era-of-native-compilation-accelerated-performance-1f35da887b1c?source=rss------programming-5) (2025-10-19)
-- [How foreachPartition() in PySpark Really Works (and How It Can Secretly Break Your job)](https://medium.com/@sudeepwrites/how-foreachpartition-in-pyspark-really-works-and-how-it-can-secretly-break-your-job-8a0f89919754?source=rss------programming-5) (2025-10-19)
-- [ Voice Recognition in React Native: Build Smarter Apps with Speech-to-Text](https://medium.com/@blogstacker20/voice-recognition-in-react-native-build-smarter-apps-with-speech-to-text-915ebc07964e?source=rss------programming-5) (2025-10-19)
+- [Using Secrets from your HashiCorp Vault in GitLab Pipelines.](https://blog.devgenius.io/using-secrets-from-your-hashicorp-vault-in-gitlab-pipelines-653fcd92afc4?source=rss------programming-5) (2025-10-19)
+- [09021901293](https://medium.com/@jvkfbjcjcbvnc/09021901293-6a92beb5e031?source=rss------programming-5) (2025-10-19)
+- [09021901293](https://medium.com/@jvkfbjcjcbvnc/09021901293-5c325dd8a73c?source=rss------programming-5) (2025-10-19)
+- [09021901293](https://medium.com/@jvkfbjcjcbvnc/09021901293-f460c2c857b5?source=rss------programming-5) (2025-10-19)
+- [7 SQL Mistakes Every Beginner Makes (And How to Fix Them)](https://medium.com/@leonwong282/7-sql-mistakes-every-beginner-makes-and-how-to-fix-them-f79fdf4594b8?source=rss------programming-5) (2025-10-19)
 
 </details>
 
