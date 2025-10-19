@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [TechCrunch Mobility: A takeover that might not be hostile](https://techcrunch.com/2025/10/19/techcrunch-mobility-a-takeover-that-might-not-be-hostile/) (2025-10-19)
+- [The White House is already one of the most blocked accounts on Bluesky](https://techcrunch.com/2025/10/19/the-white-house-is-already-one-of-the-most-blocked-accounts-on-bluesky/) (2025-10-19)
 - [Spyware maker NSO Group blocked from WhatsApp](https://techcrunch.com/2025/10/18/spyware-maker-nso-group-blocked-from-whatsapp/) (2025-10-18)
 - [Wikipedia says traffic is falling due to AI search summaries and social video](https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/) (2025-10-18)
 - [This top VC has bet close to 20% of his fund on teenagers — here’s why](https://techcrunch.com/2025/10/18/this-top-vc-bet-close-to-20-of-his-fund-on-teenagers-heres-why/) (2025-10-18)
-- [YouTubers aren’t relying on ad revenue anymore — here’s how some are diversifying](https://techcrunch.com/2025/10/18/youtubers-arent-relying-on-ad-revenue-anymore-heres-how-some-are-diversifying/) (2025-10-18)
-- [Too burned out to travel? This new app fakes your summer vacation photos for you](https://techcrunch.com/2025/10/18/too-burned-out-to-travel-this-new-app-fakes-your-summer-vacation-photos-for-you/) (2025-10-18)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: Duck-UI – Browser-Based SQL IDE for DuckDB](https://demo.duckui.com) (2025-10-19)
-- [Did Space Debris Hit A United Flight Over The Rockies Thursday?](https://viewfromthewing.com/did-space-debris-hit-a-united-flight-over-the-rockies-thursday-heres-what-we-know-so-far/) (2025-10-19)
-- [The Case for the Return of Fine-Tuning](https://welovesota.com/article/the-case-for-the-return-of-fine-tuning) (2025-10-19)
-- [Space junk falls on Western Australian minesite](https://www.abc.net.au/news/2025-10-19/wa-space-debris-reentry-investigation/105909612) (2025-10-19)
-- [The Accountability Problem](https://www.jamesshore.com/v2/blog/2025/the-accountability-problem) (2025-10-19)
+- [Ask HN: What are people doing to get off of VMware?](https://news.ycombinator.com/item?id=45635940) (2025-10-19)
+- [I wish SSDs gave you CPU performance style metrics about their activity](https://utcc.utoronto.ca/~cks/space/blog/tech/SSDWritePerfMetricsWish) (2025-10-19)
+- [Infisical (YC W23) Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/infisical/jobs/0gY2Da1-full-stack-engineer-global) (2025-10-19)
+- [The Trinary Dream Endures](https://www.robinsloan.com/lab/trinary-dream/) (2025-10-19)
+- [Doing well in your courses: Andrej's advice for success (2013)](https://cs.stanford.edu/people/karpathy/advice.html) (2025-10-19)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Time to catch ‘em all again](https://www.theverge.com/tech/801870/pokemon-legends-za-apple-m5-macbook-scorsese-installer) (2025-10-19)
-- [The AI sexting era has arrived](https://www.theverge.com/column/802022/ai-sexting-openai-chatbot-chatgpt) (2025-10-19)
-- [TiVo won the court battles, but lost the TV war](https://www.theverge.com/tech/802254/tivo-time-warp-patent-courtoom-battles-lost-tv-war) (2025-10-18)
-- [Motorola’s Razr Ultra and the Marshall Emberton II top this week’s best deals](https://www.theverge.com/tech/801962/motorola-razr-ultra-2025-foldable-marshall-emberton-ii-speaker-deal-sale) (2025-10-18)
-- [8BitDo’s new collection celebrates the NES’s 40th anniversary](https://www.theverge.com/news/801832/8bitdo-nintendo-nes-ultimate-2-controller-retro-keyboard-bluetooth-cube-speaker) (2025-10-18)
+- [You need to read the epic Argentinian horror novel Our Share of Night](https://www.theverge.com/entertainment/802340/you-need-to-read-the-epic-argentinian-horror-novel-our-share-of-night) (2025-10-19)
+- [March of the frogs](https://www.theverge.com/policy/802315/portland-no-kings-october-ice-protests-frog-antifa) (2025-10-19)
+- [Organizers say over 7 million showed up to No Kings protests](https://www.theverge.com/news/802321/organizers-say-over-7-million-showed-up-to-no-kings-protests) (2025-10-19)
+- [This weekend is your last chance to get a month of Disney Plus starting at $9.99](https://www.theverge.com/tech/801979/disney-plus-premium-october-price-hike-deal) (2025-10-19)
+- [The Sony Watchman was must-see TV](https://www.theverge.com/podcast/802307/sony-watchman-tv-version-history) (2025-10-19)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I'm building an open-source AI ATC for flight sims (and looking for like-minded devs)](https://dev.to/itssrubberduck/im-building-an-open-source-ai-atc-for-flight-sims-and-looking-for-like-minded-devs-2ii5) (2025-10-19)
-- [Web Developer Travis McCracken on The Tools I Use Every Day as a Web Developer](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-tools-i-use-every-day-as-a-web-developer-15e8) (2025-10-19)
-- [Conversational Architecture with LLM Intelligence — SemanticCue v1](https://dev.to/ganeshn/conversational-architecture-with-llm-intelligence-semanticcue-v1-2ak9) (2025-10-19)
-- [Migrating VMware Workloads from VMWare to AWS – A Smarter, Future-Ready Approach](https://dev.to/kishore_karumanchi_acbc18/migrating-vmware-workloads-from-vmware-to-aws-a-smarter-future-ready-approach-4agd) (2025-10-19)
-- [Creating the Pinnacle of Niche Software: Consume Squidex Headless CMS Api's in ELM!](https://dev.to/sukkergris/creating-the-pinnacle-of-niche-software-consume-squidex-headless-cms-apis-in-elm-59i7) (2025-10-19)
+- [Andrew Huang: Beautiful new music making environment! (GRM Atelier)](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-5g0a) (2025-10-19)
+- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-1798) (2025-10-19)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-3gik) (2025-10-19)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-4k88) (2025-10-19)
+- [KEXP: Jorja Smith - With You (Live on KEXP)](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-1aea) (2025-10-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Using Secrets from your HashiCorp Vault in GitLab Pipelines.](https://blog.devgenius.io/using-secrets-from-your-hashicorp-vault-in-gitlab-pipelines-653fcd92afc4?source=rss------programming-5) (2025-10-19)
-- [09021901293](https://medium.com/@jvkfbjcjcbvnc/09021901293-6a92beb5e031?source=rss------programming-5) (2025-10-19)
-- [09021901293](https://medium.com/@jvkfbjcjcbvnc/09021901293-5c325dd8a73c?source=rss------programming-5) (2025-10-19)
-- [09021901293](https://medium.com/@jvkfbjcjcbvnc/09021901293-f460c2c857b5?source=rss------programming-5) (2025-10-19)
-- [7 SQL Mistakes Every Beginner Makes (And How to Fix Them)](https://medium.com/@leonwong282/7-sql-mistakes-every-beginner-makes-and-how-to-fix-them-f79fdf4594b8?source=rss------programming-5) (2025-10-19)
+- [5 Code Smells That Quietly Destroy Your Good Architecture](https://medium.com/@vndpal/5-code-smells-that-quietly-destroy-your-good-architecture-c90c5f381b00?source=rss------programming-5) (2025-10-19)
+- [RestTemplate to RestClient to WebClient: Evolving HTTP in Spring 7](https://marconak-matej.medium.com/resttemplate-to-restclient-to-webclient-evolving-http-in-spring-7-6fbd73402707?source=rss------programming-5) (2025-10-19)
+- [AI : LlamaIndex](https://medium.com/@angadi.saa/ai-llamaindex-3428e9f8566f?source=rss------programming-5) (2025-10-19)
+- [Why Counting Substrings Broke My Brain (Until One Simple Logic Made It Easy)](https://medium.com/@vishal25goyal25/why-counting-substrings-broke-my-brain-until-one-simple-logic-made-it-easy-e34d13007954?source=rss------programming-5) (2025-10-19)
+- [Title:](https://medium.com/@aqqqq5543/title-7dc0161d426d?source=rss------programming-5) (2025-10-19)
 
 </details>
 
@@ -500,6 +500,17 @@ https://www.twilio.com/en-us/blog/events/advertising-week-2025-recap
 </details>
 
 <details>
+<summary>💬 Slack API</summary>
+
+- [Unlocking the Power of Conversation: How Slack’s New Platform is Fueling the Agentic Era](https://slack.com/blog/news/powering-agentic-collaboration) (2025-10-13)
+- [What Is Personalized Search, and How Does It Work?](https://slack.com/blog/productivity/what-is-personalized-search-and-how-does-it-work) (2025-10-07)
+- [AI Assistants: Everything You Need to Know](https://slack.com/blog/transformation/ai-assistants-what-they-do-and-why-you-need-them) (2025-10-07)
+- [A Complete Guide to AI Summarization: Benefits, Use Cases, and Tools](https://slack.com/blog/productivity/ai-summarization-a-guide-to-conquering-information-overload) (2025-10-01)
+- [Document Workflows Like a Pro: Tips, Tools, and Real-World Examples](https://slack.com/blog/productivity/workflow-documentation-what-it-is-how-to-create-it-and-why-it-matters) (2025-10-01)
+
+</details>
+
+<details>
 <summary>🔒 Signal Blog</summary>
 
 - [Signal Protocol and Post-Quantum Ratchets](https://signal.org/blog/spqr/) (2025-10-02)
@@ -557,11 +568,11 @@ https://www.twilio.com/en-us/blog/events/advertising-week-2025-recap
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Conceptual Frameworks for Data Science Projects](https://towardsdatascience.com/conceptual-frameworks-for-data-science-projects/) (2025-10-19)
+- [How to Build Guardrails for Effective Agents](https://towardsdatascience.com/how-to-build-guardrails-for-effective-agents/) (2025-10-19)
 - [Can We Save the AI Economy?](https://towardsdatascience.com/can-we-save-the-ai-economy/) (2025-10-18)
 - [Python 3.14 and the End of the GIL](https://towardsdatascience.com/python-3-14-and-the-end-of-the-gil/) (2025-10-18)
 - [Machine Learning Meets Panel Data: What Practitioners Need to Know](https://towardsdatascience.com/machine-learning-meets-panel-data-what-practitioners-need-to-know/) (2025-10-17)
-- [How to Classify Lung Cancer Subtype from DNA Copy Numbers Using PyTorch](https://towardsdatascience.com/classification-of-lung-cancer-type-from-genomic-copy-number-profiles-using-a-convolutional-neural-network/) (2025-10-17)
-- [How I Used Machine Learning to Predict 41% of Project Delays Before They Happened](https://towardsdatascience.com/how-i-used-machine-learning-to-predict-41-of-project-delays-before-they-happened/) (2025-10-17)
 
 </details>
 
