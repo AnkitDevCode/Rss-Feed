@@ -20,21 +20,21 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Spyware maker NSO Group blocked from WhatsApp](https://techcrunch.com/2025/10/18/spyware-maker-nso-group-blocked-from-whatsapp/) (2025-10-18)
+- [Wikipedia says traffic is falling due to AI search summaries and social video](https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/) (2025-10-18)
+- [This top VC has bet close to 20% of his fund on teenagers — here’s why](https://techcrunch.com/2025/10/18/this-top-vc-bet-close-to-20-of-his-fund-on-teenagers-heres-why/) (2025-10-18)
 - [YouTubers aren’t relying on ad revenue anymore — here’s how some are diversifying](https://techcrunch.com/2025/10/18/youtubers-arent-relying-on-ad-revenue-anymore-heres-how-some-are-diversifying/) (2025-10-18)
 - [Too burned out to travel? This new app fakes your summer vacation photos for you](https://techcrunch.com/2025/10/18/too-burned-out-to-travel-this-new-app-fakes-your-summer-vacation-photos-for-you/) (2025-10-18)
-- [Salesforce CEO Marc Benioff apologizes for saying National Guard needed in San Francisco](https://techcrunch.com/2025/10/18/salesforce-ceo-marc-benioff-apologizes-for-saying-national-guard-troops-needed-in-san-francisco/) (2025-10-18)
-- [WhatsApp changes its terms to bar general purpose chatbots from its platform](https://techcrunch.com/2025/10/18/whatssapp-changes-its-terms-to-bar-general-purpose-chatbots-from-its-platform/) (2025-10-18)
-- [Silicon Valley spooks the AI safety advocates](https://techcrunch.com/2025/10/17/silicon-valley-spooks-the-ai-safety-advocates/) (2025-10-18)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/inrUYH9-founding-engineer) (2025-10-18)
+- [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=45631422) (2025-10-19)
+- [How to sequence your DNA for <$2k](https://maxlangenkamp.substack.com/p/how-to-sequence-your-dna-for-2k) (2025-10-18)
+- [Most users cannot identify AI bias, even in training data](https://www.psu.edu/news/bellisario-college-communications/story/most-users-cannot-identify-ai-bias-even-training-data) (2025-10-18)
 - [Tinnitus Neuromodulator](https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php) (2025-10-18)
-- [Free Programing Books](https://github.com/EbookFoundation/free-programming-books) (2025-10-18)
-- [Event Sourcing, CQRS and Micro Services: Real FinTech Example](https://lukasniessen.medium.com/this-is-a-detailed-breakdown-of-a-fintech-project-from-my-consulting-career-9ec61603709c) (2025-10-18)
 - [Picturing Mathematics](https://mathenchant.wordpress.com/2025/10/18/picturing-mathematics/) (2025-10-18)
 
 </details>
@@ -97,22 +97,28 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Nahre Sol: how to engineer nostalgia in music (studio ghibli style)](https://dev.to/music_youtube/nahre-sol-how-to-engineer-nostalgia-in-music-studio-ghibli-style-36mc) (2025-10-18)
-- [Rick Beato: The Concepts That Actually Changed My Playing](https://dev.to/music_youtube/rick-beato-the-concepts-that-actually-changed-my-playing-5dj3) (2025-10-18)
-- [Rick Beato: Justin Hawkins Isn't Afraid To Talk Sh*t](https://dev.to/music_youtube/rick-beato-justin-hawkins-isnt-afraid-to-talk-sht-37n) (2025-10-18)
-- [Rick Beato: I Fried ChatGPT With ONE Simple Question](https://dev.to/music_youtube/rick-beato-i-fried-chatgpt-with-one-simple-question-3c92) (2025-10-18)
-- [The Game Theorists: Game Theory: Poké Balls Are KILLING Pokémon?!](https://dev.to/gg_news/the-game-theorists-game-theory-poke-balls-are-killing-pokemon-46je) (2025-10-18)
+- [When I started building ReThynk AI, publishing books, and managing dev.to, YouTube and other projects, I realised something:
+
+The problem wasn’t coding speed; it was decision fatigue. AI helped me fix that.](https://dev.to/jaideepparashar/when-i-started-building-rethynk-ai-publishing-books-and-managing-devto-youtube-and-other-1heb) (2025-10-19)
+- [How I Used ChatGPT to Automate My Business Strategy](https://dev.to/jaideepparashar/how-i-used-chatgpt-to-automate-my-business-strategy-1ab2) (2025-10-19)
+- [** "Ian Khan - Top Keynote Speaker in Belo Horizonte, Brazil](https://dev.to/iankhanfuturist/-ian-khan-top-keynote-speaker-in-belo-horizonte-brazil-1anj) (2025-10-19)
+- [Writing Clean Code Without Losing Your Mind](https://dev.to/gold_roger_667d8242695024/writing-clean-code-without-losing-your-mind-136e) (2025-10-19)
+- [How I Automated Membership Fee Collection Using Stripe and Google Services](https://dev.to/yo-shi/how-i-automated-membership-fee-collection-using-stripe-and-google-services-2gd4) (2025-10-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [End-to-End Data Analysis Workflow for Beginners using SQL](https://theanalyticsedge.medium.com/end-to-end-data-analysis-workflow-for-beginners-using-sql-404991e9e966?source=rss------programming-5) (2025-10-18)
-- [Dart Compilation Targets JIT AOT and WebAssembly](https://medium.com/@AlexanderObregon/dart-compilation-targets-jit-aot-and-webassembly-9fee9be687c1?source=rss------programming-5) (2025-10-18)
-- [Combining SQL and Excel for Efficient Data Analysis](https://theanalyticsedge.medium.com/combining-sql-and-excel-for-efficient-data-analysis-331331e7f931?source=rss------programming-5) (2025-10-18)
-- [Structured vs Unstructured Data: How to Handle and Analyze Each Type](https://theanalyticsedge.medium.com/structured-vs-unstructured-data-how-to-handle-and-analyze-each-type-dcb25b8ddaf9?source=rss------programming-5) (2025-10-18)
-- [ 10 Mistakes Every Beginner Ethical Hacker Makes (and How to Avoid Them in 2025)](https://medium.com/@lazyhun3r/10-mistakes-every-beginner-ethical-hacker-makes-and-how-to-avoid-them-in-2025-aa89c6b92a87?source=rss------programming-5) (2025-10-18)
+- [17 Days of Silence — 3I/ATLAS.](https://medium.com/@earthexistclothing/17-days-of-silence-3i-atlas-1c28f09c91b8?source=rss------programming-5) (2025-10-19)
+- [09027641209شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@glkfsyatfig/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ec95dc6844ab?source=rss------programming-5) (2025-10-19)
+- [09027641209شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@glkfsyatfig/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-aca0454440bb?source=rss------programming-5) (2025-10-19)
+- [09027641209شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@glkfsyatfig/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-47f5b44b980c?source=rss------programming-5) (2025-10-19)
+- [09389632898شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@rha767283/09389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-88d2b59b4fbb?source=rss------programming-5) (2025-10-19)
 
 </details>
 
@@ -496,17 +502,6 @@ https://www.twilio.com/en-us/blog/events/twilio-builders-arcade-syd25
 - [Building Omnichannel Customer Connections at HubSpot: A Look Under the Hood](https://developers.hubspot.com/blog/building-omnichannel-customer-connections-at-hubspot) (2025-09-25)
 - [From Legacy Apps to Platform Speed: Building with the New Developer Platform](https://developers.hubspot.com/blog/from-legacy-apps-to-platform-speed-building-with-developer-platform) (2025-09-23)
 - [Navigating the Reimagined Marketplace for App Developers](https://developers.hubspot.com/blog/reimagined-marketplace-for-app-developers) (2025-09-03)
-
-</details>
-
-<details>
-<summary>💬 Slack API</summary>
-
-- [Unlocking the Power of Conversation: How Slack’s New Platform is Fueling the Agentic Era](https://slack.com/blog/news/powering-agentic-collaboration) (2025-10-13)
-- [What Is Personalized Search, and How Does It Work?](https://slack.com/blog/productivity/what-is-personalized-search-and-how-does-it-work) (2025-10-07)
-- [AI Assistants: Everything You Need to Know](https://slack.com/blog/transformation/ai-assistants-what-they-do-and-why-you-need-them) (2025-10-07)
-- [A Complete Guide to AI Summarization: Benefits, Use Cases, and Tools](https://slack.com/blog/productivity/ai-summarization-a-guide-to-conquering-information-overload) (2025-10-01)
-- [Document Workflows Like a Pro: Tips, Tools, and Real-World Examples](https://slack.com/blog/productivity/workflow-documentation-what-it-is-how-to-create-it-and-why-it-matters) (2025-10-01)
 
 </details>
 
