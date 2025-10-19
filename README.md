@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [The Accountability Problem](https://www.jamesshore.com/v2/blog/2025/the-accountability-problem) (2025-10-19)
+- [Friendship Begins at Home](https://3quarksdaily.com/3quarksdaily/2025/10/friendship-begins-at-home.html) (2025-10-19)
 - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=45631422) (2025-10-19)
+- [Using Pegs in Janet](https://articles.inqk.net/2020/09/19/how-to-use-pegs-in-janet.html) (2025-10-19)
 - [How to sequence your DNA for <$2k](https://maxlangenkamp.substack.com/p/how-to-sequence-your-dna-for-2k) (2025-10-18)
-- [Most users cannot identify AI bias, even in training data](https://www.psu.edu/news/bellisario-college-communications/story/most-users-cannot-identify-ai-bias-even-training-data) (2025-10-18)
-- [Tinnitus Neuromodulator](https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php) (2025-10-18)
-- [Picturing Mathematics](https://mathenchant.wordpress.com/2025/10/18/picturing-mathematics/) (2025-10-18)
 
 </details>
 
@@ -97,28 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [When I started building ReThynk AI, publishing books, and managing dev.to, YouTube and other projects, I realised something:
-
-The problem wasn’t coding speed; it was decision fatigue. AI helped me fix that.](https://dev.to/jaideepparashar/when-i-started-building-rethynk-ai-publishing-books-and-managing-devto-youtube-and-other-1heb) (2025-10-19)
-- [How I Used ChatGPT to Automate My Business Strategy](https://dev.to/jaideepparashar/how-i-used-chatgpt-to-automate-my-business-strategy-1ab2) (2025-10-19)
-- [** "Ian Khan - Top Keynote Speaker in Belo Horizonte, Brazil](https://dev.to/iankhanfuturist/-ian-khan-top-keynote-speaker-in-belo-horizonte-brazil-1anj) (2025-10-19)
-- [Writing Clean Code Without Losing Your Mind](https://dev.to/gold_roger_667d8242695024/writing-clean-code-without-losing-your-mind-136e) (2025-10-19)
-- [How I Automated Membership Fee Collection Using Stripe and Google Services](https://dev.to/yo-shi/how-i-automated-membership-fee-collection-using-stripe-and-google-services-2gd4) (2025-10-19)
+- [Andrew Huang: Beautiful new music making environment! (GRM Atelier)](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-465e) (2025-10-19)
+- [COLORS: Nono La Grinta - LOVE YOU | A COLORS SHOW](https://dev.to/music_youtube/colors-nono-la-grinta-love-you-a-colors-show-ck9) (2025-10-19)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-27bo) (2025-10-19)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-3jma) (2025-10-19)
+- [KEXP: Jorja Smith - With You (Live on KEXP)](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-39gh) (2025-10-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [17 Days of Silence — 3I/ATLAS.](https://medium.com/@earthexistclothing/17-days-of-silence-3i-atlas-1c28f09c91b8?source=rss------programming-5) (2025-10-19)
-- [09027641209شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@glkfsyatfig/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ec95dc6844ab?source=rss------programming-5) (2025-10-19)
-- [09027641209شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@glkfsyatfig/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-aca0454440bb?source=rss------programming-5) (2025-10-19)
-- [09027641209شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@glkfsyatfig/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-47f5b44b980c?source=rss------programming-5) (2025-10-19)
-- [09389632898شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@rha767283/09389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-88d2b59b4fbb?source=rss------programming-5) (2025-10-19)
+- [ React Native in 2025: The Rise of Fabric, TurboModules & the New Architecture Revolution ⚛️](https://medium.com/@EnaModernCoder/react-native-in-2025-the-rise-of-fabric-turbomodules-the-new-architecture-revolution-%EF%B8%8F-c09ff8316ace?source=rss------programming-5) (2025-10-19)
+- [10 Python Shortcuts So Powerful, They Made Me Rethink How I Code](https://python.plainenglish.io/10-python-shortcuts-so-powerful-they-made-me-rethink-how-i-code-e18e21fcf93e?source=rss------programming-5) (2025-10-19)
+- [ Advanced Topic: Python in the Era of Native Compilation & Accelerated Performance](https://medium.com/@alisha00/advanced-topic-python-in-the-era-of-native-compilation-accelerated-performance-1f35da887b1c?source=rss------programming-5) (2025-10-19)
+- [How foreachPartition() in PySpark Really Works (and How It Can Secretly Break Your job)](https://medium.com/@sudeepwrites/how-foreachpartition-in-pyspark-really-works-and-how-it-can-secretly-break-your-job-8a0f89919754?source=rss------programming-5) (2025-10-19)
+- [ Voice Recognition in React Native: Build Smarter Apps with Speech-to-Text](https://medium.com/@blogstacker20/voice-recognition-in-react-native-build-smarter-apps-with-speech-to-text-915ebc07964e?source=rss------programming-5) (2025-10-19)
 
 </details>
 
@@ -373,6 +367,11 @@ How to Manage Your Twilio Verify Safe List in Laravel
 https://www.twilio.com/en-us/blog/developers/tutorials/manage-twilio-verify-safe-list-laravel
 ) (2025-10-17)
 - [
+Sending SMS Messages with Twilio and Zapier
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/sending-sms-messages-with-twilio-and-zapier
+) (2025-10-17)
+- [
 Take command of your customer data with the latest Twilio platform releases
 ](
 https://www.twilio.com/en-us/blog/products/launches/trust-access-data-tools-1
@@ -386,11 +385,6 @@ https://www.twilio.com/en-us/blog/company/inside-twilio/2025-global-impact-week-
 What Brand Builders Need Most Right Now? Smarter Data, Real-Time Personalization, and AI That Actually Works | AdWeek 2025 Recap
 ](
 https://www.twilio.com/en-us/blog/events/advertising-week-2025-recap
-) (2025-10-14)
-- [
-Welcome to the Builder’s Arcade at SIGNAL Sydney 2025
-](
-https://www.twilio.com/en-us/blog/events/twilio-builders-arcade-syd25
 ) (2025-10-14)
 
 </details>
@@ -574,11 +568,11 @@ https://www.twilio.com/en-us/blog/events/twilio-builders-arcade-syd25
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [The Hidden Limits of Single Vector Embeddings in Retrieval](https://www.analyticsvidhya.com/blog/2025/10/single-vector-embeddings-limits-in-retrieval/) (2025-10-19)
 - [With Demo: How AI is Automating Car Servicing](https://www.analyticsvidhya.com/blog/2025/10/how-ai-is-automating-car-servicing/) (2025-10-18)
 - [Google’s Veo 3.1 Just Killed Sora 2!](https://www.analyticsvidhya.com/blog/2025/10/veo-3-1/) (2025-10-17)
 - [Top 10 AI Chrome Extensions for Hyper Productive Work](https://www.analyticsvidhya.com/blog/2025/10/ai-chrome-extensions-for-work/) (2025-10-17)
 - [How Instagram leverages AI For Content Moderation?](https://www.analyticsvidhya.com/blog/2025/10/how-instagram-leverages-ai-for-content-moderation/) (2025-10-17)
-- [7 Best GitHub Repositories For Mastering RAG Systems](https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems/) (2025-10-16)
 
 </details>
 
