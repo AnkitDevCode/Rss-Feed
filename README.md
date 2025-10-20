@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Amazon DNS outage breaks much of the internet](https://techcrunch.com/2025/10/20/amazon-dns-outage-breaks-much-of-the-internet/) (2025-10-20)
+- [Scale AI alum raises $9M for AI serving critical industries in MENA](https://techcrunch.com/2025/10/20/scale-ai-alum-raises-9m-for-ai-serving-critical-industries-in-mena/) (2025-10-20)
+- [The man betting everything on AI and Bill Belichick](https://techcrunch.com/2025/10/20/the-man-betting-everything-on-ai-and-bill-belichick/) (2025-10-20)
 - [Kohler unveils a camera for your toilet](https://techcrunch.com/2025/10/19/kohler-unveils-a-camera-for-your-toilet/) (2025-10-19)
 - [OpenAI’s ‘embarrassing’ math](https://techcrunch.com/2025/10/19/openais-embarrassing-math/) (2025-10-19)
-- [TechCrunch Mobility: A takeover that might not be hostile](https://techcrunch.com/2025/10/19/techcrunch-mobility-a-takeover-that-might-not-be-hostile/) (2025-10-19)
-- [The White House is already one of the most blocked accounts on Bluesky](https://techcrunch.com/2025/10/19/the-white-house-is-already-one-of-the-most-blocked-accounts-on-bluesky/) (2025-10-19)
-- [Spyware maker NSO Group blocked from WhatsApp](https://techcrunch.com/2025/10/18/spyware-maker-nso-group-blocked-from-whatsapp/) (2025-10-18)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Space Elevator](https://neal.fun/space-elevator/) (2025-10-20)
-- [Entire Linux Network stack diagram (2024)](https://zenodo.org/records/14179366) (2025-10-20)
-- [Introduction to reverse-engineering vintage synth firmware](https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html) (2025-10-20)
-- [Nvidia has produced the first Blackwell wafer on US soil](https://www.xda-developers.com/nvidia-produced-first-blackwell-wafer-us-soil/) (2025-10-20)
-- [Look at how unhinged GPU box art was in the 2000s (2024)](https://www.xda-developers.com/absolutely-unhinged-gpu-box-art-from-the-early-2000s/) (2025-10-20)
+- [The MacBook Air 2025 Is Now Cheaper Than a Random Mid-Range Windows Laptop](https://kotaku.com/apple-is-going-nuts-the-macbook-air-2025-is-now-cheaper-than-a-random-mid-range-windows-laptop-2000634464) (2025-10-20)
+- [How Kids' TV Got Way Too Normal](https://slate.com/life/2025/10/kids-tv-movies-best-ratings-parents-disney.html) (2025-10-20)
+- [Beaver-engineered dam in the Czech Republic](https://en.wikipedia.org/wiki/Beaver-engineered_dam_in_the_Czech_Republic) (2025-10-20)
+- [State-based vs Signal-based rendering](https://jovidecroock.com/blog/state-vs-signals/) (2025-10-20)
+- [Major AWS outage takes down Fortnite, Alexa, Snapchat, and more](https://www.theverge.com/news/802486/aws-outage-alexa-fortnite-snapchat-offline) (2025-10-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [SpaceX launches 10,000th Starlink internet satellite](https://www.theverge.com/news/802509/starlink-launches-10000th-internet-satellite) (2025-10-20)
+- [Major AWS outage takes down Fortnite, Alexa, Snapchat, and more](https://www.theverge.com/news/802486/aws-outage-alexa-fortnite-snapchat-offline) (2025-10-20)
 - [X is changing how it handles links to try and keep you in the app](https://www.theverge.com/news/802480/x-is-changing-how-it-handles-links-to-try-and-keep-you-in-the-app) (2025-10-19)
 - [X is launching a marketplace for inactive handles](https://www.theverge.com/news/802474/x-is-launching-a-marketplace-for-inactive-handles) (2025-10-19)
 - [You need to read the epic Argentinian horror novel Our Share of Night](https://www.theverge.com/entertainment/802340/you-need-to-read-the-epic-argentinian-horror-novel-our-share-of-night) (2025-10-19)
-- [March of the frogs](https://www.theverge.com/policy/802315/portland-no-kings-october-ice-protests-frog-antifa) (2025-10-19)
-- [Organizers say over 7 million showed up to No Kings protests](https://www.theverge.com/news/802321/organizers-say-over-7-million-showed-up-to-no-kings-protests) (2025-10-19)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: a promising retina implant, and how climate change affects flowers](https://www.technologyreview.com/2025/10/20/1126099/the-download-a-promising-retina-implant-and-how-climate-change-affects-flowers/) (2025-10-20)
+- [This retina implant lets people with vision loss do a crossword puzzle](https://www.technologyreview.com/2025/10/20/1126065/this-retina-implant-lets-people-with-vision-loss-do-a-crossword-puzzle/) (2025-10-20)
+- [AI could predict who will have a heart attack](https://www.technologyreview.com/2025/10/20/1125336/ai-heart-attack-prediction/) (2025-10-20)
+- [Flowers of the future](https://www.technologyreview.com/2025/10/20/1125345/plant-future-climate-change-research-project/) (2025-10-20)
 - [The Download: the rehabilitation of AI art, and the scary truth about antimicrobial resistance](https://www.technologyreview.com/2025/10/17/1125895/the-download-the-rehabilitation-of-ai-art-and-the-scary-truth-about-antimicrobial-resistance/) (2025-10-17)
-- [From slop to Sotheby’s? AI art enters a new phase](https://www.technologyreview.com/2025/10/17/1125193/ai-art-artist-new-chapter/) (2025-10-17)
-- [This startup thinks slime mold can help us design better cities](https://www.technologyreview.com/2025/10/17/1125223/slime-design-better-cities-mireta/) (2025-10-17)
-- [Take our quiz: How much do you know about antimicrobial resistance?](https://www.technologyreview.com/2025/10/16/1125853/antimicrobial-resistance-quiz-antibiotics-infection/) (2025-10-16)
-- [Unlocking the potential of SAF with book and claim in air freight](https://www.technologyreview.com/2025/10/16/1123850/unlocking-the-potential-of-saf-with-book-and-claim-in-air-freight/) (2025-10-16)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Data Engineering 102: Understanding Transactions, ACID, and Isolation in PostgreSQL](https://dev.to/sajjadrahman56/data-engineering-102-understanding-transactions-acid-and-isolation-in-postgresql-2l60) (2025-10-20)
-- [Andrew Huang: Beautiful new music making environment! (GRM Atelier)](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-53p2) (2025-10-20)
-- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-1jnm) (2025-10-20)
-- [3 Best AI UGC Ad Generators of 2025](https://dev.to/artturijalli/3-best-ai-ugc-ad-generators-of-2025-lco) (2025-10-20)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-n2p) (2025-10-20)
+- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-329n) (2025-10-20)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-5hg7) (2025-10-20)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-3ajo) (2025-10-20)
+- [KEXP: Jorja Smith - Try Me (Live on KEXP)](https://dev.to/music_youtube/kexp-jorja-smith-try-me-live-on-kexp-53oi) (2025-10-20)
+- [KEXP: Jorja Smith - Be Honest (Live on KEXP)](https://dev.to/music_youtube/kexp-jorja-smith-be-honest-live-on-kexp-5fda) (2025-10-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Greatest Characters From Black Sitcoms](https://medium.com/@DARSportsAndMedia/the-greatest-characters-from-black-sitcoms-81419917c610?source=rss------programming-5) (2025-10-20)
-- [From Idea to MVP Roadmap: How Solopreneurs Can Use AI to Plan Their First Product](https://theaihustlelab.medium.com/from-idea-to-mvp-roadmap-how-solopreneurs-can-use-ai-to-plan-their-first-product-0ec5f336700d?source=rss------programming-5) (2025-10-20)
-- [Understanding @For in Angular](https://codebybilal.medium.com/understanding-for-in-angular-109723435ba7?source=rss------programming-5) (2025-10-20)
-- [From OOP to FP: How I Changed My Entire Python Coding Style](https://medium.com/the-pythonworld/from-oop-to-fp-how-i-changed-my-entire-python-coding-style-7533078a5ec7?source=rss------programming-5) (2025-10-20)
-- [Truly Seeing Inside the DOM (Why It Matters Today)](https://medium.com/@tanialapalelo/truly-seeing-inside-the-dom-why-it-matters-today-07432cd5b7b3?source=rss------programming-5) (2025-10-20)
+- [SQL WHERE Clause Explained: Filter Data Like a Pro in 10 Minutes](https://medium.com/@leonwong282/sql-where-clause-explained-filter-data-like-a-pro-in-10-minutes-3cbf78a38402?source=rss------programming-5) (2025-10-20)
+- [Can Machines Really Think? ](https://mmabukhadra.medium.com/can-machines-really-think-ed224b23578b?source=rss------programming-5) (2025-10-20)
+- [Check If a String is Valid JSON in PHP](https://ashallendesign-uk.medium.com/check-if-a-string-is-valid-json-in-php-d4753dc935b6?source=rss------programming-5) (2025-10-20)
+- [Why “Working More” Doesn’t Mean “Earning More” in Tech](https://medium.com/@randyliucodes/why-working-more-doesnt-mean-earning-more-in-tech-f13210e34f02?source=rss------programming-5) (2025-10-20)
+- [How I Helped a European Leather Brand Reach Thousands of Customers in China](https://perolahammar.medium.com/how-i-helped-a-european-leather-brand-reach-thousands-of-customers-in-china-436a5eee7be3?source=rss------programming-5) (2025-10-20)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Computer Science Learning Curve: Insights from 18k Learners Worldwide](https://blog.jetbrains.com/research/2025/10/computer-science-learning-curve/) (2025-10-20)
 - [Koog 0.5.0 Is Out: Smarter Tools, Persistent Agents, and Simplified Strategy Design](https://blog.jetbrains.com/ai/2025/10/koog-0-5-0-is-out-smarter-tools-persistent-agents-and-simplified-strategy-design/) (2025-10-17)
 - [JetBrains Plugin Developer Conf 2025 Is Coming Up Soon!](https://blog.jetbrains.com/platform/2025/10/jetbrains-plugin-developer-conf-2025-is-coming-up-soon/) (2025-10-16)
 - [The “10x” Commandments of Highly Effective Go](https://blog.jetbrains.com/go/2025/10/16/the-10x-commandments-of-highly-effective-go/) (2025-10-16)
 - [JetBrains Is Sunsetting CodeCanvas](https://blog.jetbrains.com/codecanvas/2025/10/jetbrains-is-sunsetting-codecanvas/) (2025-10-16)
-- [The State of PHP 2025](https://blog.jetbrains.com/phpstorm/2025/10/state-of-php-2025/) (2025-10-15)
 
 </details>
 
@@ -500,6 +500,17 @@ https://www.twilio.com/en-us/blog/events/advertising-week-2025-recap
 </details>
 
 <details>
+<summary>💬 Slack API</summary>
+
+- [Unlocking the Power of Conversation: How Slack’s New Platform is Fueling the Agentic Era](https://slack.com/blog/news/powering-agentic-collaboration) (2025-10-13)
+- [What Is Personalized Search, and How Does It Work?](https://slack.com/blog/productivity/what-is-personalized-search-and-how-does-it-work) (2025-10-07)
+- [AI Assistants: Everything You Need to Know](https://slack.com/blog/transformation/ai-assistants-what-they-do-and-why-you-need-them) (2025-10-07)
+- [A Complete Guide to AI Summarization: Benefits, Use Cases, and Tools](https://slack.com/blog/productivity/ai-summarization-a-guide-to-conquering-information-overload) (2025-10-01)
+- [Document Workflows Like a Pro: Tips, Tools, and Real-World Examples](https://slack.com/blog/productivity/workflow-documentation-what-it-is-how-to-create-it-and-why-it-matters) (2025-10-01)
+
+</details>
+
+<details>
 <summary>🔒 Signal Blog</summary>
 
 - [Signal Protocol and Post-Quantum Ratchets](https://signal.org/blog/spqr/) (2025-10-02)
@@ -568,33 +579,33 @@ https://www.twilio.com/en-us/blog/events/advertising-week-2025-recap
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Create an AI-Powered WhatsApp Sticker Generator using Python](https://www.analyticsvidhya.com/blog/2025/10/whatsapp-sticker-generator/) (2025-10-20)
 - [Build Your Own Video Generation WebApp – TimeCapsule](https://www.analyticsvidhya.com/blog/2025/10/build-video-generation-webapp/) (2025-10-20)
 - [The Hidden Limits of Single Vector Embeddings in Retrieval](https://www.analyticsvidhya.com/blog/2025/10/single-vector-embeddings-limits-in-retrieval/) (2025-10-19)
 - [With Demo: How AI is Automating Car Servicing](https://www.analyticsvidhya.com/blog/2025/10/how-ai-is-automating-car-servicing/) (2025-10-18)
 - [Google’s Veo 3.1 Just Killed Sora 2!](https://www.analyticsvidhya.com/blog/2025/10/veo-3-1/) (2025-10-17)
-- [Top 10 AI Chrome Extensions for Hyper Productive Work](https://www.analyticsvidhya.com/blog/2025/10/ai-chrome-extensions-for-work/) (2025-10-17)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Docker Containers for Your AI Infrastructure](https://www.kdnuggets.com/5-docker-containers-for-your-ai-infrastructure) (2025-10-20)
 - [Creating a Text to SQL App with OpenAI + FastAPI + SQLite](https://www.kdnuggets.com/creating-a-text-to-sql-app-with-openai-fastapi-sqlite) (2025-10-17)
 - [5 Practical Examples for ChatGPT Agents](https://www.kdnuggets.com/5-practical-examples-for-chatgpt-agents) (2025-10-17)
 - [How I Built a Data Cleaning Pipeline Using One Messy DoorDash Dataset](https://www.kdnuggets.com/how-i-built-a-data-cleaning-pipeline-using-one-messy-doordash-dataset) (2025-10-16)
 - [Accessing Data Commons with the New Python API Client](https://www.kdnuggets.com/accessing-data-commons-with-the-new-python-api-client) (2025-10-16)
-- [Data Analytics Automation Scripts with SQL Stored Procedures](https://www.kdnuggets.com/data-analytics-automation-scripts-with-sql-stored-procedures) (2025-10-14)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Future-Proofing Your AI Engineering Career in 2026](https://machinelearningmastery.com/future-proofing-your-ai-engineering-career-in-2026/) (2025-10-20)
 - [Revolutionizing MLOps: Enhanced BigQuery ML UI for Seamless Model Creation and Management](https://machinelearningmastery.com/revolutionizing-mlops-enhanced-bigquery-ml-ui-for-seamless-model-creation-and-management/) (2025-10-17)
 - [The Complete Guide to Vector Databases for Machine Learning](https://machinelearningmastery.com/the-complete-guide-to-vector-databases-for-machine-learning/) (2025-10-17)
 - [3 Ways to Speed Up Model Training Without More GPUs](https://machinelearningmastery.com/3-ways-to-speed-up-model-training-without-more-gpus/) (2025-10-16)
 - [7 Feature Engineering Tricks for Text Data](https://machinelearningmastery.com/7-feature-engineering-tricks-for-text-data/) (2025-10-16)
-- [10 Python One-Liners for Calling LLMs from Your Code](https://machinelearningmastery.com/10-python-one-liners-for-calling-llms-from-your-code/) (2025-10-14)
 
 </details>
 
