@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Kohler unveils a camera for your toilet](https://techcrunch.com/2025/10/19/kohler-unveils-a-camera-for-your-toilet/) (2025-10-19)
+- [OpenAI’s ‘embarrassing’ math](https://techcrunch.com/2025/10/19/openais-embarrassing-math/) (2025-10-19)
 - [TechCrunch Mobility: A takeover that might not be hostile](https://techcrunch.com/2025/10/19/techcrunch-mobility-a-takeover-that-might-not-be-hostile/) (2025-10-19)
 - [The White House is already one of the most blocked accounts on Bluesky](https://techcrunch.com/2025/10/19/the-white-house-is-already-one-of-the-most-blocked-accounts-on-bluesky/) (2025-10-19)
 - [Spyware maker NSO Group blocked from WhatsApp](https://techcrunch.com/2025/10/18/spyware-maker-nso-group-blocked-from-whatsapp/) (2025-10-18)
-- [Wikipedia says traffic is falling due to AI search summaries and social video](https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/) (2025-10-18)
-- [This top VC has bet close to 20% of his fund on teenagers — here’s why](https://techcrunch.com/2025/10/18/this-top-vc-bet-close-to-20-of-his-fund-on-teenagers-heres-why/) (2025-10-18)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Ask HN: What are people doing to get off of VMware?](https://news.ycombinator.com/item?id=45635940) (2025-10-19)
-- [I wish SSDs gave you CPU performance style metrics about their activity](https://utcc.utoronto.ca/~cks/space/blog/tech/SSDWritePerfMetricsWish) (2025-10-19)
-- [Infisical (YC W23) Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/infisical/jobs/0gY2Da1-full-stack-engineer-global) (2025-10-19)
-- [The Trinary Dream Endures](https://www.robinsloan.com/lab/trinary-dream/) (2025-10-19)
-- [Doing well in your courses: Andrej's advice for success (2013)](https://cs.stanford.edu/people/karpathy/advice.html) (2025-10-19)
+- [From Hollywood to horticulture: Cate Blanchett on a mission to save seeds](https://www.bbc.com/news/articles/cwy7ekl4yl8o) (2025-10-20)
+- [QuickDrawViewer: A Mac OS X utility to visualise QuickDraw (PICT) files](https://github.com/wiesmann/QuickDrawViewer) (2025-10-19)
+- [Replua.nvim – an Emacs-style scratch buffer for executing Lua](https://github.com/mghaight/replua.nvim) (2025-10-19)
+- [Gleam OTP – Fault Tolerant Multicore Programs with Actors](https://github.com/gleam-lang/otp) (2025-10-19)
+- [Original C64 Lode Runner Source Code](https://github.com/Piddewitt/Loderunner) (2025-10-19)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [X is changing how it handles links to try and keep you in the app](https://www.theverge.com/news/802480/x-is-changing-how-it-handles-links-to-try-and-keep-you-in-the-app) (2025-10-19)
+- [X is launching a marketplace for inactive handles](https://www.theverge.com/news/802474/x-is-launching-a-marketplace-for-inactive-handles) (2025-10-19)
 - [You need to read the epic Argentinian horror novel Our Share of Night](https://www.theverge.com/entertainment/802340/you-need-to-read-the-epic-argentinian-horror-novel-our-share-of-night) (2025-10-19)
 - [March of the frogs](https://www.theverge.com/policy/802315/portland-no-kings-october-ice-protests-frog-antifa) (2025-10-19)
 - [Organizers say over 7 million showed up to No Kings protests](https://www.theverge.com/news/802321/organizers-say-over-7-million-showed-up-to-no-kings-protests) (2025-10-19)
-- [This weekend is your last chance to get a month of Disney Plus starting at $9.99](https://www.theverge.com/tech/801979/disney-plus-premium-october-price-hike-deal) (2025-10-19)
-- [The Sony Watchman was must-see TV](https://www.theverge.com/podcast/802307/sony-watchman-tv-version-history) (2025-10-19)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Something from “space” may have just struck a United Airlines flight over Utah](https://arstechnica.com/space/2025/10/something-from-space-may-have-just-struck-a-united-airlines-flight-over-utah/) (2025-10-19)
 - [Roberta Williams’ The Colonel’s Bequest was a different type of adventure game](https://arstechnica.com/gaming/2025/10/roberta-williams-the-colonels-bequest-was-a-different-type-of-adventure-game/) (2025-10-18)
 - [With deadline looming, 4 of 9 universities reject Trump’s “compact” to remake higher ed](https://arstechnica.com/culture/2025/10/with-deadline-looming-4-of-9-universities-reject-trumps-compact-to-remake-higher-ed/) (2025-10-17)
 - [Vaginal condition treatment update: Men should get treated, too](https://arstechnica.com/health/2025/10/vaginal-condition-treatment-update-men-should-get-treated-too/) (2025-10-17)
 - [Ring cameras are about to get increasingly chummy with law enforcement](https://arstechnica.com/gadgets/2025/10/ring-cameras-are-about-to-get-increasingly-chummy-with-law-enforcement/) (2025-10-17)
-- [Dead Ends is a fun, macabre medical history for kids](https://arstechnica.com/science/2025/10/dead-ends-is-a-fun-macabre-medical-history-for-kids/) (2025-10-17)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Andrew Huang: Beautiful new music making environment! (GRM Atelier)](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-5g0a) (2025-10-19)
-- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-1798) (2025-10-19)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-3gik) (2025-10-19)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-4k88) (2025-10-19)
-- [KEXP: Jorja Smith - With You (Live on KEXP)](https://dev.to/music_youtube/kexp-jorja-smith-with-you-live-on-kexp-1aea) (2025-10-19)
+- [List functions in Python (2)](https://dev.to/hyperkai/list-functions-in-python-2-1nf2) (2025-10-20)
+- [Reativar automations específicas após update da aplicação no Oracle APEX](https://dev.to/valter_filho_24448308265f/reativar-automations-especificas-apos-update-da-aplicacao-no-oracle-apex-2cnj) (2025-10-20)
+- [Why Choose Go for Development?](https://dev.to/hugohenrick/why-choose-go-for-development-3kj0) (2025-10-20)
+- [How I Built a Dynamic Profile API with Live Cat Facts](https://dev.to/towbee98/how-i-built-a-dynamic-profile-api-with-live-cat-facts-12p5) (2025-10-20)
+- [Authentication & Security: Keeping Bad Guys Out Without Annoying Users](https://dev.to/shaq_attack/authentication-security-keeping-bad-guys-out-without-annoying-users-2443) (2025-10-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [5 Code Smells That Quietly Destroy Your Good Architecture](https://medium.com/@vndpal/5-code-smells-that-quietly-destroy-your-good-architecture-c90c5f381b00?source=rss------programming-5) (2025-10-19)
-- [RestTemplate to RestClient to WebClient: Evolving HTTP in Spring 7](https://marconak-matej.medium.com/resttemplate-to-restclient-to-webclient-evolving-http-in-spring-7-6fbd73402707?source=rss------programming-5) (2025-10-19)
-- [AI : LlamaIndex](https://medium.com/@angadi.saa/ai-llamaindex-3428e9f8566f?source=rss------programming-5) (2025-10-19)
-- [Why Counting Substrings Broke My Brain (Until One Simple Logic Made It Easy)](https://medium.com/@vishal25goyal25/why-counting-substrings-broke-my-brain-until-one-simple-logic-made-it-easy-e34d13007954?source=rss------programming-5) (2025-10-19)
-- [Title:](https://medium.com/@aqqqq5543/title-7dc0161d426d?source=rss------programming-5) (2025-10-19)
+- [Practical use cases for TCO in Ruby and Ruby on Rails](https://medium.com/@sdemian/practical-use-cases-for-tco-in-ruby-and-ruby-on-rails-5dea0565b205?source=rss------programming-5) (2025-10-20)
+- [AI : LangGraph vs LangChain](https://medium.com/@angadi.saa/ai-langgraph-vs-langchain-fb16490c6cf8?source=rss------programming-5) (2025-10-20)
+- [10 Java Concurrency Patterns for High Performance and Scalability](https://medium.com/@sunil17bbmp/10-java-concurrency-patterns-for-high-performance-and-scalability-934848e5978f?source=rss------programming-5) (2025-10-20)
+- [Django 5.0 New Features Every Developer Should Know](https://medium.com/@pythonbyeli/django-5-0-new-features-every-developer-should-know-fa7ec9e88945?source=rss------programming-5) (2025-10-20)
+- [09010712940](https://medium.com/@ofbxruxn/09010712940-e16124fe69f4?source=rss------programming-5) (2025-10-20)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available](https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/) (2025-10-16)
 - [Sora 2 now available in Azure AI Foundry](https://azure.microsoft.com/en-us/blog/sora-2-now-available-in-azure-ai-foundry/) (2025-10-15)
 - [Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation](https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/) (2025-10-14)
 - [Accelerating open-source infrastructure development for frontier AI at scale](https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/) (2025-10-14)
 - [FYAI: Why developers will lead AI transformation across the enterprise](https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/) (2025-10-13)
+- [Microsoft Azure delivers the first large scale cluster with NVIDIA GB300 NVL72 for OpenAI workloads](https://azure.microsoft.com/en-us/blog/microsoft-azure-delivers-the-first-large-scale-cluster-with-nvidia-gb300-nvl72-for-openai-workloads/) (2025-10-09)
 
 </details>
 
@@ -500,17 +500,6 @@ https://www.twilio.com/en-us/blog/events/advertising-week-2025-recap
 </details>
 
 <details>
-<summary>💬 Slack API</summary>
-
-- [Unlocking the Power of Conversation: How Slack’s New Platform is Fueling the Agentic Era](https://slack.com/blog/news/powering-agentic-collaboration) (2025-10-13)
-- [What Is Personalized Search, and How Does It Work?](https://slack.com/blog/productivity/what-is-personalized-search-and-how-does-it-work) (2025-10-07)
-- [AI Assistants: Everything You Need to Know](https://slack.com/blog/transformation/ai-assistants-what-they-do-and-why-you-need-them) (2025-10-07)
-- [A Complete Guide to AI Summarization: Benefits, Use Cases, and Tools](https://slack.com/blog/productivity/ai-summarization-a-guide-to-conquering-information-overload) (2025-10-01)
-- [Document Workflows Like a Pro: Tips, Tools, and Real-World Examples](https://slack.com/blog/productivity/workflow-documentation-what-it-is-how-to-create-it-and-why-it-matters) (2025-10-01)
-
-</details>
-
-<details>
 <summary>🔒 Signal Blog</summary>
 
 - [Signal Protocol and Post-Quantum Ratchets](https://signal.org/blog/spqr/) (2025-10-02)
@@ -579,11 +568,11 @@ https://www.twilio.com/en-us/blog/events/advertising-week-2025-recap
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Build Your Own Video Generation WebApp – TimeCapsule](https://www.analyticsvidhya.com/blog/2025/10/build-video-generation-webapp/) (2025-10-20)
 - [The Hidden Limits of Single Vector Embeddings in Retrieval](https://www.analyticsvidhya.com/blog/2025/10/single-vector-embeddings-limits-in-retrieval/) (2025-10-19)
 - [With Demo: How AI is Automating Car Servicing](https://www.analyticsvidhya.com/blog/2025/10/how-ai-is-automating-car-servicing/) (2025-10-18)
 - [Google’s Veo 3.1 Just Killed Sora 2!](https://www.analyticsvidhya.com/blog/2025/10/veo-3-1/) (2025-10-17)
 - [Top 10 AI Chrome Extensions for Hyper Productive Work](https://www.analyticsvidhya.com/blog/2025/10/ai-chrome-extensions-for-work/) (2025-10-17)
-- [How Instagram leverages AI For Content Moderation?](https://www.analyticsvidhya.com/blog/2025/10/how-instagram-leverages-ai-for-content-moderation/) (2025-10-17)
 
 </details>
 
