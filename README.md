@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [From Hollywood to horticulture: Cate Blanchett on a mission to save seeds](https://www.bbc.com/news/articles/cwy7ekl4yl8o) (2025-10-20)
-- [QuickDrawViewer: A Mac OS X utility to visualise QuickDraw (PICT) files](https://github.com/wiesmann/QuickDrawViewer) (2025-10-19)
-- [Replua.nvim – an Emacs-style scratch buffer for executing Lua](https://github.com/mghaight/replua.nvim) (2025-10-19)
-- [Gleam OTP – Fault Tolerant Multicore Programs with Actors](https://github.com/gleam-lang/otp) (2025-10-19)
-- [Original C64 Lode Runner Source Code](https://github.com/Piddewitt/Loderunner) (2025-10-19)
+- [Space Elevator](https://neal.fun/space-elevator/) (2025-10-20)
+- [Entire Linux Network stack diagram (2024)](https://zenodo.org/records/14179366) (2025-10-20)
+- [Introduction to reverse-engineering vintage synth firmware](https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html) (2025-10-20)
+- [Nvidia has produced the first Blackwell wafer on US soil](https://www.xda-developers.com/nvidia-produced-first-blackwell-wafer-us-soil/) (2025-10-20)
+- [Look at how unhinged GPU box art was in the 2000s (2024)](https://www.xda-developers.com/absolutely-unhinged-gpu-box-art-from-the-early-2000s/) (2025-10-20)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [List functions in Python (2)](https://dev.to/hyperkai/list-functions-in-python-2-1nf2) (2025-10-20)
-- [Reativar automations específicas após update da aplicação no Oracle APEX](https://dev.to/valter_filho_24448308265f/reativar-automations-especificas-apos-update-da-aplicacao-no-oracle-apex-2cnj) (2025-10-20)
-- [Why Choose Go for Development?](https://dev.to/hugohenrick/why-choose-go-for-development-3kj0) (2025-10-20)
-- [How I Built a Dynamic Profile API with Live Cat Facts](https://dev.to/towbee98/how-i-built-a-dynamic-profile-api-with-live-cat-facts-12p5) (2025-10-20)
-- [Authentication & Security: Keeping Bad Guys Out Without Annoying Users](https://dev.to/shaq_attack/authentication-security-keeping-bad-guys-out-without-annoying-users-2443) (2025-10-20)
+- [Data Engineering 102: Understanding Transactions, ACID, and Isolation in PostgreSQL](https://dev.to/sajjadrahman56/data-engineering-102-understanding-transactions-acid-and-isolation-in-postgresql-2l60) (2025-10-20)
+- [Andrew Huang: Beautiful new music making environment! (GRM Atelier)](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-53p2) (2025-10-20)
+- [COLORS: UMI | A COLORS SHOW](https://dev.to/music_youtube/colors-umi-a-colors-show-1jnm) (2025-10-20)
+- [3 Best AI UGC Ad Generators of 2025](https://dev.to/artturijalli/3-best-ai-ugc-ad-generators-of-2025-lco) (2025-10-20)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-n2p) (2025-10-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Practical use cases for TCO in Ruby and Ruby on Rails](https://medium.com/@sdemian/practical-use-cases-for-tco-in-ruby-and-ruby-on-rails-5dea0565b205?source=rss------programming-5) (2025-10-20)
-- [AI : LangGraph vs LangChain](https://medium.com/@angadi.saa/ai-langgraph-vs-langchain-fb16490c6cf8?source=rss------programming-5) (2025-10-20)
-- [10 Java Concurrency Patterns for High Performance and Scalability](https://medium.com/@sunil17bbmp/10-java-concurrency-patterns-for-high-performance-and-scalability-934848e5978f?source=rss------programming-5) (2025-10-20)
-- [Django 5.0 New Features Every Developer Should Know](https://medium.com/@pythonbyeli/django-5-0-new-features-every-developer-should-know-fa7ec9e88945?source=rss------programming-5) (2025-10-20)
-- [09010712940](https://medium.com/@ofbxruxn/09010712940-e16124fe69f4?source=rss------programming-5) (2025-10-20)
+- [The Greatest Characters From Black Sitcoms](https://medium.com/@DARSportsAndMedia/the-greatest-characters-from-black-sitcoms-81419917c610?source=rss------programming-5) (2025-10-20)
+- [From Idea to MVP Roadmap: How Solopreneurs Can Use AI to Plan Their First Product](https://theaihustlelab.medium.com/from-idea-to-mvp-roadmap-how-solopreneurs-can-use-ai-to-plan-their-first-product-0ec5f336700d?source=rss------programming-5) (2025-10-20)
+- [Understanding @For in Angular](https://codebybilal.medium.com/understanding-for-in-angular-109723435ba7?source=rss------programming-5) (2025-10-20)
+- [From OOP to FP: How I Changed My Entire Python Coding Style](https://medium.com/the-pythonworld/from-oop-to-fp-how-i-changed-my-entire-python-coding-style-7533078a5ec7?source=rss------programming-5) (2025-10-20)
+- [Truly Seeing Inside the DOM (Why It Matters Today)](https://medium.com/@tanialapalelo/truly-seeing-inside-the-dom-why-it-matters-today-07432cd5b7b3?source=rss------programming-5) (2025-10-20)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available](https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/) (2025-10-16)
 - [Sora 2 now available in Azure AI Foundry](https://azure.microsoft.com/en-us/blog/sora-2-now-available-in-azure-ai-foundry/) (2025-10-15)
 - [Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation](https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/) (2025-10-14)
 - [Accelerating open-source infrastructure development for frontier AI at scale](https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/) (2025-10-14)
 - [FYAI: Why developers will lead AI transformation across the enterprise](https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/) (2025-10-13)
-- [Microsoft Azure delivers the first large scale cluster with NVIDIA GB300 NVL72 for OpenAI workloads](https://azure.microsoft.com/en-us/blog/microsoft-azure-delivers-the-first-large-scale-cluster-with-nvidia-gb300-nvl72-for-openai-workloads/) (2025-10-09)
 
 </details>
 
