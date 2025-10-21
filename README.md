@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [European AI rising star Nexos.ai raises $30M to unlock enterprise AI adoption](https://techcrunch.com/2025/10/20/european-ai-rising-star-nexos-ai-raises-30m-to-unlock-enterprise-ai-adoption/) (2025-10-21)
+- [Airbnb is becoming more social by allowing users to connect with fellow travelers](https://techcrunch.com/2025/10/21/airbnb-is-becoming-more-social-by-allowing-users-to-connect-with-fellow-travelers/) (2025-10-21)
+- [Yelp’s AI assistant can now scan restaurant menus to show you what dishes look like](https://techcrunch.com/2025/10/21/yelps-ai-assistant-can-now-scan-restaurant-menus-to-show-you-what-dishes-look-like/) (2025-10-21)
+- [Spiro raises $100M, the largest-ever investment in Africa’s e-mobility](https://techcrunch.com/2025/10/21/spiro-raises-100m-the-largest-ever-investment-in-africas-e-mobility/) (2025-10-21)
+- [European AI rising star Nexos.ai raises €30M to unlock enterprise AI adoption](https://techcrunch.com/2025/10/20/european-ai-rising-star-nexos-ai-raises-30m-to-unlock-enterprise-ai-adoption/) (2025-10-21)
 - [YC alum Cercli, an AI-powered Rippling for MENA, raises oversubscribed $12M Series A](https://techcrunch.com/2025/10/20/yc-alum-cercli-an-ai-powered-rippling-for-mena-raises-oversubscribed-12m-series-a/) (2025-10-21)
-- [Apple will let users roll back the Liquid Glass look with new ‘tinted’ option](https://techcrunch.com/2025/10/20/apple-will-let-users-roll-back-the-liquid-glass-look-with-new-tinted-option/) (2025-10-20)
-- [Top OpenAI, Google Brain researchers set off a $300M VC frenzy for their startup Periodic Labs ](https://techcrunch.com/2025/10/20/top-openai-google-brain-researchers-set-off-a-300m-vc-frenzy-for-their-startup-periodic-labs/) (2025-10-20)
-- [US and Australia sign $3B critical minerals deal](https://techcrunch.com/2025/10/20/u-s-and-australia-sign-3b-critical-minerals-deal/) (2025-10-20)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [60k kids have avoided peanut allergies due to 2015 advice, study finds](https://www.cbsnews.com/news/peanut-allergies-60000-kids-avoided-2015-advice/) (2025-10-21)
-- [Old Computer Challenge – Modern Web for the ZX Spectrum](https://0x00.cl/blog/2025/occ-2025/) (2025-10-20)
-- [Today is when the Amazon brain drain sent AWS down the spout](https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/) (2025-10-20)
-- [Claude Code on the web](https://www.anthropic.com/news/claude-code-on-the-web) (2025-10-20)
-- [x86-64 Playground – An online assembly editor and GDB-like debugger](https://x64.halb.it/) (2025-10-20)
+- [StarGrid: A Brand-New Palm OS Strategy Game in 2025](https://quarters.captaintouch.com/blog/posts/2025-10-21-stargrid-has-arrived,-a-brand-new-palm-os-strategy-game-in-2025.html) (2025-10-21)
+- [Tesla is heading into multi-billion-dollar iceberg of its own making](https://electrek.co/2025/10/20/tesla-heading-into-multi-billion-dollar-iceberg-of-own-making/) (2025-10-21)
+- [US chess grandmaster Daniel Naroditsky dies aged 29](https://www.bbc.com/news/articles/c15pz8vpjp9o) (2025-10-21)
+- [Pasta/80 is a simple Pascal cross compiler targeting the Z80 microprocessor](https://github.com/pleumann/pasta80) (2025-10-21)
+- [Language Support for Marginalia Search](https://www.marginalia.nu/log/a_126_multilingual/) (2025-10-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Amazon hopes to replace 600,000 US workers with robots, according to leaked documents](https://www.theverge.com/news/803257/amazon-robotics-automation-replace-600000-human-jobs) (2025-10-21)
+- [Yelp’s AI can now take reservations over the phone](https://www.theverge.com/news/802529/yelp-ai-host-receptionist) (2025-10-21)
 - [Google’s new deadline for Epic consequences is October 29th](https://www.theverge.com/news/803143/googles-new-deadline-for-epic-consequences-is-october-29th) (2025-10-21)
 - [Bryan Cranston and SAG-AFTRA say OpenAI is taking their deepfake concerns seriously](https://www.theverge.com/news/803141/openai-sora-bryan-cranston-deepfakes) (2025-10-21)
 - [Ninja Gaiden 4 is the perfect place to jump into the series](https://www.theverge.com/games/802755/ninja-gaiden-4-review-xbox-series-x-s-ps5-pc) (2025-10-20)
-- [I tested 15 cases for the Switch 2 and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases) (2025-10-20)
-- [Apple adds a new toggle to make Liquid Glass less glassy](https://www.theverge.com/news/802963/apple-liquid-glass-ios-26-1-beta-tint-option) (2025-10-20)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: embryo ethics, and reducing chatbot risks](https://www.technologyreview.com/2025/10/21/1126189/the-download-embryo-ethics-and-reducing-chatbot-risks/) (2025-10-21)
+- [New noninvasive endometriosis tests are on the rise](https://www.technologyreview.com/2025/10/21/1125327/endometriosis-tests-noninvasive/) (2025-10-21)
+- [The astonishing embryo models of Jacob Hanna](https://www.technologyreview.com/2025/10/21/1125523/jacob-hanna-israel-synthetic-embryo-models/) (2025-10-21)
+- [Why AI should be able to “hang up” on you](https://www.technologyreview.com/2025/10/21/1126116/why-ai-should-be-able-to-hang-up-on-you/) (2025-10-21)
 - [Fold your own tessellation](https://www.technologyreview.com/2025/10/20/1125594/technologyreview-com-tessellation/) (2025-10-20)
-- [The Download: a promising retina implant, and how climate change affects flowers](https://www.technologyreview.com/2025/10/20/1126099/the-download-a-promising-retina-implant-and-how-climate-change-affects-flowers/) (2025-10-20)
-- [This retina implant lets people with vision loss do a crossword puzzle](https://www.technologyreview.com/2025/10/20/1126065/this-retina-implant-lets-people-with-vision-loss-do-a-crossword-puzzle/) (2025-10-20)
-- [AI could predict who will have a heart attack](https://www.technologyreview.com/2025/10/20/1125336/ai-heart-attack-prediction/) (2025-10-20)
-- [Flowers of the future](https://www.technologyreview.com/2025/10/20/1125345/plant-future-climate-change-research-project/) (2025-10-20)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Andrew Huang: Beautiful new music making environment! (GRM Atelier)](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-3k2n) (2025-10-21)
-- [Andrew Huang: Using a vocal generator very wrong](https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-1l3p) (2025-10-21)
-- [Cercle: OFF STAGE WITH WhoMadeWho & Tripolism](https://dev.to/music_youtube/cercle-off-stage-with-whomadewho-tripolism-40b0) (2025-10-21)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-179j) (2025-10-21)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-4lie) (2025-10-21)
+- [Database Design: Start from Business Logic or Jump into Code?](https://dev.to/pascal_cescato_692b7a8a20/database-design-start-from-business-logic-or-jump-into-code-1k5m) (2025-10-21)
+- [I Just Published My Book: Docker and Kubernetes Security](https://dev.to/docker/i-just-published-my-book-docker-and-kubernetes-security-17lo) (2025-10-21)
+- [Andrew Huang: Beautiful new music making environment! (GRM Atelier)](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-243d) (2025-10-21)
+- [Andrew Huang: Using a vocal generator very wrong](https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-27ef) (2025-10-21)
+- [Cercle: OFF STAGE WITH WhoMadeWho & Tripolism](https://dev.to/music_youtube/cercle-off-stage-with-whomadewho-tripolism-5efe) (2025-10-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Python and NiceGUI — Building Browser-Based UIs with Pure Python](https://medium.com/@ccpythonprogramming/python-and-nicegui-building-browser-based-uis-with-pure-python-0169897b1896?source=rss------programming-5) (2025-10-21)
-- [Understanding Blok’s Context Object](https://blog.nanoservice.xyz/understanding-bloks-context-object-d8ec96dcc089?source=rss------programming-5) (2025-10-21)
-- [The Signal Forms Revolution: How I Migrated from Template-Driven Forms and Never Looked Back](https://javascript.plainenglish.io/signal-forms-migration-angular-developer-journey-e340cd8cc077?source=rss------programming-5) (2025-10-21)
-- [5 Powerful F-String Tricks Every Python Developer Should Know!](https://medium.com/the-pythonworld/5-powerful-f-string-tricks-every-python-developer-should-know-dc83251e681d?source=rss------programming-5) (2025-10-21)
-- [Beginner’s Guide to AWS Elastic Container Registry (ECR): From Setup to Docker Push](https://medium.com/@arijit83work/beginners-guide-to-aws-elastic-container-registry-ecr-from-setup-to-docker-push-db09febb5c96?source=rss------programming-5) (2025-10-21)
+- [09338812675](https://medium.com/@vbjcxvnkcxc/09338812675-f75b12533c9b?source=rss------programming-5) (2025-10-21)
+- [09338812675](https://medium.com/@s31208181/09338812675-364aeb775019?source=rss------programming-5) (2025-10-21)
+- [10 Hidden Jupyter Notebook Features You Probably Never Used](https://python.plainenglish.io/10-hidden-jupyter-notebook-features-you-probably-never-used-cb951059c9a9?source=rss------programming-5) (2025-10-21)
+- [09338812675](https://medium.com/@s31208181/09338812675-46c7744f0697?source=rss------programming-5) (2025-10-21)
+- [When the Cloud Caught a Cold: The October 20, 2025 AWS Outage](https://medium.com/@ThreadSafeDiaries/when-the-cloud-caught-a-cold-the-october-20-2025-aws-outage-8823306dd48a?source=rss------programming-5) (2025-10-21)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Innovation spotlight: How 3 customers are driving change with migration to Azure SQL](https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/) (2025-10-20)
 - [From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available](https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/) (2025-10-16)
 - [Sora 2 now available in Azure AI Foundry](https://azure.microsoft.com/en-us/blog/sora-2-now-available-in-azure-ai-foundry/) (2025-10-15)
 - [Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation](https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/) (2025-10-14)
 - [Accelerating open-source infrastructure development for frontier AI at scale](https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/) (2025-10-14)
-- [FYAI: Why developers will lead AI transformation across the enterprise](https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/) (2025-10-13)
 
 </details>
 
@@ -372,6 +372,11 @@ How to Manage Your Twilio Verify Safe List in Laravel
 https://www.twilio.com/en-us/blog/developers/tutorials/manage-twilio-verify-safe-list-laravel
 ) (2025-10-17)
 - [
+Complete US Carrier Coverage for RCS with AT&T Integration
+](
+https://www.twilio.com/en-us/blog/products/RCS-ATT-Integration
+) (2025-10-17)
+- [
 Take command of your customer data with the latest Twilio platform releases
 ](
 https://www.twilio.com/en-us/blog/products/launches/trust-access-data-tools-1
@@ -380,11 +385,6 @@ https://www.twilio.com/en-us/blog/products/launches/trust-access-data-tools-1
 2025 Global Impact Week Recap
 ](
 https://www.twilio.com/en-us/blog/company/inside-twilio/2025-global-impact-week-recap
-) (2025-10-14)
-- [
-What Brand Builders Need Most Right Now? Smarter Data, Real-Time Personalization, and AI That Actually Works | AdWeek 2025 Recap
-](
-https://www.twilio.com/en-us/blog/events/advertising-week-2025-recap
 ) (2025-10-14)
 
 </details>
@@ -546,44 +546,44 @@ https://www.twilio.com/en-us/blog/events/advertising-week-2025-recap
 <details>
 <summary>🤖 AI News</summary>
 
+- [How accounting firms are using AI agents to reclaim time and trust](https://www.artificialintelligence-news.com/news/finance-ai-reclaiming-time-trust-with-openai-chatgpt/) (2025-10-21)
+- [China’s generative AI user base doubles to 515 million in six months](https://www.artificialintelligence-news.com/news/china-ai-adoption-doubles-515-million-users/) (2025-10-21)
 - [Arm provides edge AI platform to startups via flexible access](https://www.artificialintelligence-news.com/news/arm-provides-edge-ai-platform-startups-flexible-access/) (2025-10-20)
 - [Google AI tool pinpoints genetic drivers of cancer](https://www.artificialintelligence-news.com/news/google-ai-tool-pinpoints-genetic-drivers-of-cancer/) (2025-10-17)
 - [South Korea scraps AI textbook programme](https://www.artificialintelligence-news.com/news/south-korea-ai-schools-programme-project-failure/) (2025-10-17)
-- [What if AI is the next dot-com bubble?](https://www.artificialintelligence-news.com/news/what-if-ai-is-the-next-dot-com-bubble/) (2025-10-17)
-- [Trillion-parameter AI model from Ant Group targets reasoning benchmarks with dual release strategy](https://www.artificialintelligence-news.com/news/trillion-parameter-ai-model-ant-group-ling-1t/) (2025-10-16)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Implementing the Fourier Transform Numerically in Python: A Step-by-Step Guide](https://towardsdatascience.com/implementing-the-fourier-transform-numerically-in-python-a-step-by-step-guide/) (2025-10-21)
 - [How to Build An AI Agent with Function Calling and GPT-5](https://towardsdatascience.com/how-to-build-an-ai-agent-with-function-calling-and-gpt-5/) (2025-10-20)
 - [How to Use Frontier Vision LLMs: Qwen3-VL](https://towardsdatascience.com/how-to-use-frontier-vision-llms-qwen-3-vl-2/) (2025-10-20)
 - [How I Tailored the Resume That Landed Me $100K+ Data Science and ML Offers](https://towardsdatascience.com/this-resume-landed-me-100k-data-science-ml-offers/) (2025-10-20)
 - [Things I Learned by Participating in GenAI Hackathons Over the Past 6 Months](https://towardsdatascience.com/things-i-learnt-by-participating-in-genai-hackathons-over-the-past-6-months/) (2025-10-20)
-- [Conceptual Frameworks for Data Science Projects](https://towardsdatascience.com/conceptual-frameworks-for-data-science-projects/) (2025-10-19)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [How to Access ChatGPT Apps SDK?](https://www.analyticsvidhya.com/blog/2025/10/chatgpt-apps-sdk/) (2025-10-21)
 - [Create an AI-Powered WhatsApp Sticker Generator using Python](https://www.analyticsvidhya.com/blog/2025/10/whatsapp-sticker-generator/) (2025-10-20)
 - [Build Your Own Video Generation WebApp – TimeCapsule](https://www.analyticsvidhya.com/blog/2025/10/build-video-generation-webapp/) (2025-10-20)
 - [The Hidden Limits of Single Vector Embeddings in Retrieval](https://www.analyticsvidhya.com/blog/2025/10/single-vector-embeddings-limits-in-retrieval/) (2025-10-19)
 - [With Demo: How AI is Automating Car Servicing](https://www.analyticsvidhya.com/blog/2025/10/how-ai-is-automating-car-servicing/) (2025-10-18)
-- [Google’s Veo 3.1 Just Killed Sora 2!](https://www.analyticsvidhya.com/blog/2025/10/veo-3-1/) (2025-10-17)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Useful Python Scripts for Busy Data Analysts](https://www.kdnuggets.com/5-useful-python-scripts-for-busy-data-analysts) (2025-10-21)
 - [Vibe Coding with GLM 4.6 Coding Plan](https://www.kdnuggets.com/vibe-coding-with-glm-46-coding-plan) (2025-10-20)
 - [SQL for Data Analysts: Essential Queries for Data Extraction & Transformation](https://www.kdnuggets.com/sql-for-data-analysts-essential-queries-for-data-extraction-transformation) (2025-10-20)
 - [5 Docker Containers for Your AI Infrastructure](https://www.kdnuggets.com/5-docker-containers-for-your-ai-infrastructure) (2025-10-20)
 - [Creating a Text to SQL App with OpenAI + FastAPI + SQLite](https://www.kdnuggets.com/creating-a-text-to-sql-app-with-openai-fastapi-sqlite) (2025-10-17)
-- [5 Practical Examples for ChatGPT Agents](https://www.kdnuggets.com/5-practical-examples-for-chatgpt-agents) (2025-10-17)
 
 </details>
 
