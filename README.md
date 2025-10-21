@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Apple will let users roll back the Liquid Glass look with new ‘tinted’ option](https://techcrunch.com/2025/10/20/apple-will-let-users-roll-back-the-liquid-glass-look-with-new-tinted-option/) (2025-10-20)
+- [Top OpenAI, Google Brain researchers set off a $300M VC frenzy for their startup Periodic Labs ](https://techcrunch.com/2025/10/20/top-openai-google-brain-researchers-set-off-a-300m-vc-frenzy-for-their-startup-periodic-labs/) (2025-10-20)
+- [US and Australia sign $3B critical minerals deal](https://techcrunch.com/2025/10/20/u-s-and-australia-sign-3b-critical-minerals-deal/) (2025-10-20)
 - [Meta AI’s app downloads and daily users spiked after launch of ‘Vibes’ AI video feed](https://techcrunch.com/2025/10/20/meta-ais-app-downloads-and-daily-users-spiked-after-launch-of-vibes-ai-video-feed/) (2025-10-20)
 - [Trump DOE confirms it’s canceling over $700M in manufacturing grants](https://techcrunch.com/2025/10/20/trump-doe-confirms-its-canceling-over-700m-in-manufacturing-grants/) (2025-10-20)
-- [Anthropic brings Claude Code to the web](https://techcrunch.com/2025/10/20/anthropic-brings-claude-code-to-the-web/) (2025-10-20)
-- [Cards Against Humanity settles trespass lawsuit against SpaceX](https://techcrunch.com/2025/10/20/cards-against-humanity-settles-trespass-lawsuit-against-spacex/) (2025-10-20)
-- [FTC removes Lina Khan-era posts about AI risks and open source](https://techcrunch.com/2025/10/20/ftc-removes-lina-khan-era-posts-about-ai-risks-and-open-source/) (2025-10-20)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Why a 'Boring' Life Might Be the Happiest One](https://karunpal.substack.com/p/why-a-boring-life-might-be-the-happiest) (2025-10-20)
-- [TernFS – an exabyte scale, multi-region distributed filesystem](https://www.xtxmarkets.com/tech/2025-ternfs/#posix-shaped) (2025-10-20)
-- [AWS outage shows internet users 'at mercy' of too few providers, experts say](https://www.theguardian.com/technology/2025/oct/20/amazon-web-services-aws-outage-hits-dozens-websites-apps) (2025-10-20)
-- [Dutch spy services have restricted intelligence-sharing with the United States](https://intelnews.org/2025/10/20/01-3416/) (2025-10-20)
-- [Chess grandmaster Daniel Naroditsky has passed away](https://old.reddit.com/r/chess/comments/1obnbmu/grandmaster_daniel_naroditsky_has_passed_away/) (2025-10-20)
+- [Why UUIDs won't protect your secrets](https://alexsci.com/blog/uuids-and-idor/) (2025-10-20)
+- [Building a message queue with only two UNIX signals](https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals) (2025-10-20)
+- [Today is when the Amazon brain drain sent AWS down the spout](https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/) (2025-10-20)
+- [iOS 26.1 lets users control Liquid Glass transparency](https://www.macrumors.com/2025/10/20/ios-26-1-liquid-glass-toggle/) (2025-10-20)
+- [J.P. Morgan's OpenAI loan is strange](https://marketunpack.com/j-p-morgans-openai-loan-is-strange/) (2025-10-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Iniu&#8217;s tiny 10,000mAh power bank is almost half off right now](https://www.theverge.com/tech/799260/iniu-45w-usbc-power-bank-deal-sale) (2025-10-20)
-- [The Friend AI pendant’s creator publicized a ‘Friend protest’ in NYC](https://www.theverge.com/ai-artificial-intelligence/802697/friend-ai-device-subway-ad-protest-nyc) (2025-10-20)
-- [Major AWS outage took down Fortnite, Alexa, Snapchat, and more](https://www.theverge.com/news/802486/aws-outage-alexa-fortnite-snapchat-offline) (2025-10-20)
-- [Kohler’s new toilet camera provides health insights based on your bathroom breaks](https://www.theverge.com/news/802727/kohler-health-dekoda-toilet-camera-optical-sensors) (2025-10-20)
-- [The Sims Mobile is shutting down next year](https://www.theverge.com/games/802631/the-sims-mobile-shut-down-2026) (2025-10-20)
+- [Google’s new deadline for Epic consequences is October 29th](https://www.theverge.com/news/803143/googles-new-deadline-for-epic-consequences-is-october-29th) (2025-10-21)
+- [Bryan Cranston and SAG-AFTRA say OpenAI is taking their deepfake concerns seriously](https://www.theverge.com/news/803141/openai-sora-bryan-cranston-deepfakes) (2025-10-21)
+- [Ninja Gaiden 4 is the perfect place to jump into the series](https://www.theverge.com/games/802755/ninja-gaiden-4-review-xbox-series-x-s-ps5-pc) (2025-10-20)
+- [I tested 15 cases for the Switch 2 and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases) (2025-10-20)
+- [Apple adds a new toggle to make Liquid Glass less glassy](https://www.theverge.com/news/802963/apple-liquid-glass-ios-26-1-beta-tint-option) (2025-10-20)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Musk’s $1 trillion Tesla pay plan draws some protest ahead of likely approval](https://arstechnica.com/tech-policy/2025/10/musks-1-trillion-pay-plan-doesnt-force-him-to-keep-focus-on-tesla-critics-say/) (2025-10-20)
-- [F1 in Texas: Well, now the championship is exciting again](https://arstechnica.com/cars/2025/10/f1-in-texas-well-now-the-championship-is-exciting-again/) (2025-10-20)
-- [Anti-vaccine activists want to go nationwide after Idaho law passes](https://arstechnica.com/health/2025/10/after-success-in-idaho-anti-vaccine-activists-want-to-export-their-idiocy-nationwide/) (2025-10-20)
-- [Should an AI copy of you help decide if you live or die?](https://arstechnica.com/features/2025/10/should-an-ai-copy-of-you-help-decide-if-you-live-or-die/) (2025-10-20)
-- [Something from “space” may have just struck a United Airlines flight over Utah](https://arstechnica.com/space/2025/10/something-from-space-may-have-just-struck-a-united-airlines-flight-over-utah/) (2025-10-19)
+- [NSO permanently barred from targeting WhatsApp users with Pegasus spyware](https://arstechnica.com/security/2025/10/nso-permanently-barred-from-targeting-whatsapp-users-with-pegasus-spyware/) (2025-10-20)
+- [Why did NASA’s chief just shake up the agency’s plans to land on the Moon?](https://arstechnica.com/space/2025/10/nasas-acting-leader-seeks-to-keep-his-job-with-new-lunar-lander-announcement/) (2025-10-20)
+- [Claude Code gets a web version—but it’s the new sandboxing that really matters](https://arstechnica.com/ai/2025/10/claude-code-gets-a-web-version-but-its-the-new-sandboxing-that-really-matters/) (2025-10-20)
+- [Google reportedly searching for 15 Pixel “Superfans” to test unreleased phones](https://arstechnica.com/gadgets/2025/10/google-reportedly-searching-for-15-pixel-superfans-to-test-unreleased-phones/) (2025-10-20)
+- [Breaking down rare earth element magnets for recycling](https://arstechnica.com/science/2025/10/breaking-down-rare-earth-element-magnets-for-recycling/) (2025-10-20)
 
 </details>
 
@@ -97,11 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Andrew Huang: Beautiful new music making environment! (GRM Atelier)](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-3an5) (2025-10-20)
-- [Andrew Huang: Using a vocal generator very wrong](https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-568d) (2025-10-20)
-- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-5a9i) (2025-10-20)
-- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-5213) (2025-10-20)
-- [KEXP: Car Seat Headrest - The Catastrophe (Good Luck With That, Man) (Live on KEXP)](https://dev.to/music_youtube/kexp-car-seat-headrest-the-catastrophe-good-luck-with-that-man-live-on-kexp-2g7l) (2025-10-20)
+- [[Boost]](https://dev.to/ben/-1l4n) (2025-10-21)
+- [The Effects of Performance Appraisal: A Study of 7up Bottling Company in Aba, Abia State](https://dev.to/loveline/the-effects-of-performance-appraisal-a-study-of-7up-bottling-company-in-aba-abia-state-3k50) (2025-10-21)
+- [Dabs dev](https://dev.to/drake_bourque_36281e691a4/dabs-dev-4kif) (2025-10-21)
+- [🧠 Bringing AI to One Keystroke](https://dev.to/louis7/bringing-ai-to-one-keystroke-5kn) (2025-10-21)
+- [Project: CrystalPure Water Company – Business Plan Development](https://dev.to/loveline/project-crystal-pure-water-company-business-plan-development-1157) (2025-10-21)
+
+</details>
+
+<details>
+<summary>✍️ Medium - Programming</summary>
+
+- [Async/Await Is Great… Until It’s Not (Here’s the Fix)](https://amirdevwrites.medium.com/async-await-is-great-until-its-not-here-s-the-fix-0ab3b28ae3fd?source=rss------programming-5) (2025-10-21)
+- [09021901293](https://medium.com/@shmarhkhalhthran17/09021901293-7d167a0353f2?source=rss------programming-5) (2025-10-21)
+- [09021901293](https://medium.com/@shmarhkhalhthran17/09021901293-6921a1d9fc74?source=rss------programming-5) (2025-10-21)
+- [09021901293](https://medium.com/@shmarhkhalhthran17/09021901293-0870130c0f58?source=rss------programming-5) (2025-10-21)
+- [[Completa] película Culpa nuestra en español latino](https://www.betterhumans.pub/completa-pel%C3%ADcula-culpa-nuestra-en-espa%C3%B1ol-latino-e853a94c1469?source=rss------programming-5) (2025-10-21)
 
 </details>
 
@@ -130,10 +141,10 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Open Source AI Week — How Developers and Contributors Are Advancing AI Innovation](https://blogs.nvidia.com/blog/open-source-ai-week/) (2025-10-20)
 - [NVIDIA and Google Cloud Accelerate Enterprise AI and Industrial Digitalization](https://blogs.nvidia.com/blog/nvidia-google-cloud-enterprise-ai-industrial-digitalization/) (2025-10-20)
 - [How AI Is Unlocking Level 4 Autonomous Driving](https://blogs.nvidia.com/blog/level-4-autonomous-driving-ai/) (2025-10-20)
 - [The Engines of American-Made Intelligence: NVIDIA and TSMC Celebrate First NVIDIA Blackwell Wafer Produced in the US](https://blogs.nvidia.com/blog/tsmc-blackwell-manufacturing/) (2025-10-17)
-- [Open Source AI Week — How Developers and Contributors Are Advancing AI Innovation](https://blogs.nvidia.com/blog/open-source-ai-week/) (2025-10-17)
 - [Ready, Set, Reward — GeForce NOW Membership Rewards Await](https://blogs.nvidia.com/blog/geforce-now-thursday-members-reward-program/) (2025-10-16)
 
 </details>
@@ -185,11 +196,11 @@
 <details>
 <summary>🟩 Node.js Blog</summary>
 
+- [Node.js v22.21.0 (LTS)](https://nodejs.org/en/blog/release/v22.21.0) (2025-10-20)
 - [Node.js v25.0.0 (Current)](https://nodejs.org/en/blog/release/v25.0.0) (2025-10-15)
 - [Node.js v24.10.0 (Current)](https://nodejs.org/en/blog/release/v24.10.0) (2025-10-11)
 - [Node.js v24.9.0 (Current)](https://nodejs.org/en/blog/release/v24.9.0) (2025-09-25)
 - [Node.js v22.20.0 (LTS)](https://nodejs.org/en/blog/release/v22.20.0) (2025-09-24)
-- [Node.js v24.8.0 (Current)](https://nodejs.org/en/blog/release/v24.8.0) (2025-09-10)
 
 </details>
 
@@ -216,6 +227,17 @@
 </details>
 
 <details>
+<summary>🏠 Airbnb Engineering</summary>
+
+- [From Static Rate Limiting to Adaptive Traffic Management in Airbnb’s Key-Value Store](https://medium.com/airbnb-engineering/from-static-rate-limiting-to-adaptive-traffic-management-in-airbnbs-key-value-store-29362764e5c2?source=rss----53c7c27702d5---4) (2025-10-09)
+- [Building a Next-Generation Key-Value Store at Airbnb](https://medium.com/airbnb-engineering/building-a-next-generation-key-value-store-at-airbnb-0de8465ba354?source=rss----53c7c27702d5---4) (2025-09-24)
+- [Viaduct, Five Years On: Modernizing the Data-Oriented Service Mesh](https://medium.com/airbnb-engineering/viaduct-five-years-on-modernizing-the-data-oriented-service-mesh-e66397c9e9a9?source=rss----53c7c27702d5---4) (2025-09-17)
+- [Taming Service-Oriented Architecture Using A Data-Oriented Service Mesh](https://medium.com/airbnb-engineering/taming-service-oriented-architecture-using-a-data-oriented-service-mesh-da771a841344?source=rss----53c7c27702d5---4) (2025-09-16)
+- [Migrating Airbnb’s JVM Monorepo to Bazel](https://medium.com/airbnb-engineering/migrating-airbnbs-jvm-monorepo-to-bazel-33f90eda51ec?source=rss----53c7c27702d5---4) (2025-08-13)
+
+</details>
+
+<details>
 <summary>🎵 Spotify Engineering</summary>
 
 - [Beyond Winning: Spotify’s Experiments with Learning Framework](https://engineering.atspotify.com/2025/9/spotifys-experiments-with-learning-framework/) (2025-09-23)
@@ -229,11 +251,11 @@
 <details>
 <summary>👥 Facebook Engineering</summary>
 
+- [Disaggregated Scheduled Fabric: Scaling Meta’s AI Journey](https://engineering.fb.com/2025/10/20/data-center-engineering/disaggregated-scheduled-fabric-scaling-metas-ai-journey/) (2025-10-20)
 - [Scaling LLM Inference: Innovations in Tensor Parallelism, Context Parallelism, and Expert Parallelism](https://engineering.fb.com/2025/10/17/ai-research/scaling-llm-inference-innovations-tensor-parallelism-context-parallelism-expert-parallelism/) (2025-10-17)
 - [Branching in a Sapling Monorepo](https://engineering.fb.com/2025/10/16/developer-tools/branching-in-a-sapling-monorepo/) (2025-10-16)
 - [10X Backbone: How Meta Is Scaling Backbone Connectivity for AI](https://engineering.fb.com/2025/10/16/data-center-engineering/10x-backbone-how-meta-is-scaling-backbone-connectivity-for-ai/) (2025-10-16)
 - [Design for Sustainability: New Design Principles for Reducing IT Hardware Emissions](https://engineering.fb.com/2025/10/14/data-center-engineering/design-for-sustainability-new-design-principles-for-reducing-it-hardware-emissions/) (2025-10-14)
-- [How Meta Is Leveraging AI To Improve the Quality of Scope 3 Emission Estimates for IT Hardware](https://engineering.fb.com/2025/10/14/data-center-engineering/how-meta-is-leveraging-ai-to-improve-the-quality-of-scope-3-emission-estimates-for-it-hardware/) (2025-10-14)
 
 </details>
 
@@ -267,6 +289,17 @@
 - [Optimizing Our E2E Pipeline](https://slack.engineering/speedup-e2e-testing/) (2025-04-14)
 - [How we built enterprise search to be secure and private](https://slack.engineering/how-we-built-enterprise-search-to-be-secure-and-private/) (2025-03-07)
 - [Automated Accessibility Testing at Slack](https://slack.engineering/automated-accessibility-testing-at-slack/) (2025-01-07)
+
+</details>
+
+<details>
+<summary>📌 Pinterest Engineering</summary>
+
+- [Tracking Down Mysterious ML Training Stalls](https://medium.com/@Pinterest_Engineering/tracking-down-mysterious-ml-training-stalls-5290bb19be6d?source=rss-ef81ef829bcb------2) (2025-10-17)
+- [Next Gen Data Processing at Massive Scale At Pinterest With Moka (Part 2 of 2)](https://medium.com/pinterest-engineering/next-gen-data-processing-at-massive-scale-at-pinterest-with-moka-part-2-of-2-d0210ded34e0?source=rss-ef81ef829bcb------2) (2025-09-10)
+- [Developer Experience at Pinterest: The Journey to PinConsole](https://medium.com/pinterest-engineering/developer-experience-at-pinterest-the-journey-to-pinconsole-b34ac9e3bdd9?source=rss-ef81ef829bcb------2) (2025-08-22)
+- [Debugging the One-in-a-Million Failure: Migrating Pinterest’s Search Infrastructure to Kubernetes](https://medium.com/pinterest-engineering/debugging-the-one-in-a-million-failure-migrating-pinterests-search-infrastructure-to-kubernetes-bef9af9dabf4?source=rss-ef81ef829bcb------2) (2025-07-16)
+- [Next Gen Data Processing at Massive Scale At Pinterest With Moka (Part 1 of 2)](https://medium.com/pinterest-engineering/next-gen-data-processing-at-massive-scale-at-pinterest-with-moka-part-1-of-2-39a36d5e82c4?source=rss-ef81ef829bcb------2) (2025-07-11)
 
 </details>
 
@@ -329,14 +362,14 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Sending SMS Messages with Twilio and Zapier
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/sending-sms-messages-with-twilio-and-zapier
-) (2025-10-17)
-- [
 How to Manage Your Twilio Verify Safe List in Laravel
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/manage-twilio-verify-safe-list-laravel
+) (2025-10-17)
+- [
+Sending SMS Messages with Twilio and Zapier
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/sending-sms-messages-with-twilio-and-zapier
 ) (2025-10-17)
 - [
 Take command of your customer data with the latest Twilio platform releases
@@ -445,6 +478,17 @@ https://www.twilio.com/en-us/blog/events/advertising-week-2025-recap
 </details>
 
 <details>
+<summary>☁️ Salesforce Developer</summary>
+
+- [Named Query API Simplifies Data Access for Agents and Apps](https://developer.salesforce.com/blogs/2025/10/named-query-api-simplifies-data-access-for-agents-and-apps.html) (2025-10-13)
+- [Introducing Hybrid Reasoning with Agent Script](https://developer.salesforce.com/blogs/2025/10/introducing-hybrid-reasoning-with-agent-script.html) (2025-10-13)
+- [Agentforce Vibesでイノベーションを推進 – エンタープライズ向けバイブコーディング](https://developer.salesforce.com/blogs/2025/10/agentforce-vibes%e3%81%a7%e3%82%a4%e3%83%8e%e3%83%99%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%92%e6%8e%a8%e9%80%b2-%e3%82%a8%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%97%e3%83%a9%e3%82%a4%e3%82%ba.html) (2025-10-09)
+- [Salesforce Hosted MCP Servers Are in Beta Today](https://developer.salesforce.com/blogs/2025/10/salesforce-hosted-mcp-servers-are-in-beta-today.html) (2025-10-09)
+- [Enhance Integration Security with mTLS for Salesforce and MuleSoft](https://developer.salesforce.com/blogs/2025/10/enhance-integration-security-with-mtls-for-salesforce-and-mulesoft.html) (2025-10-09)
+
+</details>
+
+<details>
 <summary>🧡 HubSpot Developer</summary>
 
 - [Optimizing Developer Docs in the Age of AI: Our Mintlify Migration Story](https://developers.hubspot.com/blog/optimizing-developer-docs-in-the-age-of-ai-our-mintlify-migration-story) (2025-10-09)
@@ -513,11 +557,11 @@ https://www.twilio.com/en-us/blog/events/advertising-week-2025-recap
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Build An AI Agent with Function Calling and GPT-5](https://towardsdatascience.com/how-to-build-an-ai-agent-with-function-calling-and-gpt-5/) (2025-10-20)
+- [How to Use Frontier Vision LLMs: Qwen3-VL](https://towardsdatascience.com/how-to-use-frontier-vision-llms-qwen-3-vl-2/) (2025-10-20)
+- [How I Tailored the Resume That Landed Me $100K+ Data Science and ML Offers](https://towardsdatascience.com/this-resume-landed-me-100k-data-science-ml-offers/) (2025-10-20)
+- [Things I Learned by Participating in GenAI Hackathons Over the Past 6 Months](https://towardsdatascience.com/things-i-learnt-by-participating-in-genai-hackathons-over-the-past-6-months/) (2025-10-20)
 - [Conceptual Frameworks for Data Science Projects](https://towardsdatascience.com/conceptual-frameworks-for-data-science-projects/) (2025-10-19)
-- [How to Build Guardrails for Effective Agents](https://towardsdatascience.com/how-to-build-guardrails-for-effective-agents/) (2025-10-19)
-- [Can We Save the AI Economy?](https://towardsdatascience.com/can-we-save-the-ai-economy/) (2025-10-18)
-- [Python 3.14 and the End of the GIL](https://towardsdatascience.com/python-3-14-and-the-end-of-the-gil/) (2025-10-18)
-- [Machine Learning Meets Panel Data: What Practitioners Need to Know](https://towardsdatascience.com/machine-learning-meets-panel-data-what-practitioners-need-to-know/) (2025-10-17)
 
 </details>
 
