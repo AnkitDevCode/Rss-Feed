@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [European AI rising star Nexos.ai raises $30M to unlock enterprise AI adoption](https://techcrunch.com/2025/10/20/european-ai-rising-star-nexos-ai-raises-30m-to-unlock-enterprise-ai-adoption/) (2025-10-21)
+- [YC alum Cercli, an AI-powered Rippling for MENA, raises oversubscribed $12M Series A](https://techcrunch.com/2025/10/20/yc-alum-cercli-an-ai-powered-rippling-for-mena-raises-oversubscribed-12m-series-a/) (2025-10-21)
 - [Apple will let users roll back the Liquid Glass look with new ‘tinted’ option](https://techcrunch.com/2025/10/20/apple-will-let-users-roll-back-the-liquid-glass-look-with-new-tinted-option/) (2025-10-20)
 - [Top OpenAI, Google Brain researchers set off a $300M VC frenzy for their startup Periodic Labs ](https://techcrunch.com/2025/10/20/top-openai-google-brain-researchers-set-off-a-300m-vc-frenzy-for-their-startup-periodic-labs/) (2025-10-20)
 - [US and Australia sign $3B critical minerals deal](https://techcrunch.com/2025/10/20/u-s-and-australia-sign-3b-critical-minerals-deal/) (2025-10-20)
-- [Meta AI’s app downloads and daily users spiked after launch of ‘Vibes’ AI video feed](https://techcrunch.com/2025/10/20/meta-ais-app-downloads-and-daily-users-spiked-after-launch-of-vibes-ai-video-feed/) (2025-10-20)
-- [Trump DOE confirms it’s canceling over $700M in manufacturing grants](https://techcrunch.com/2025/10/20/trump-doe-confirms-its-canceling-over-700m-in-manufacturing-grants/) (2025-10-20)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Why UUIDs won't protect your secrets](https://alexsci.com/blog/uuids-and-idor/) (2025-10-20)
-- [Building a message queue with only two UNIX signals](https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals) (2025-10-20)
+- [60k kids have avoided peanut allergies due to 2015 advice, study finds](https://www.cbsnews.com/news/peanut-allergies-60000-kids-avoided-2015-advice/) (2025-10-21)
+- [Old Computer Challenge – Modern Web for the ZX Spectrum](https://0x00.cl/blog/2025/occ-2025/) (2025-10-20)
 - [Today is when the Amazon brain drain sent AWS down the spout](https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/) (2025-10-20)
-- [iOS 26.1 lets users control Liquid Glass transparency](https://www.macrumors.com/2025/10/20/ios-26-1-liquid-glass-toggle/) (2025-10-20)
-- [J.P. Morgan's OpenAI loan is strange](https://marketunpack.com/j-p-morgans-openai-loan-is-strange/) (2025-10-20)
+- [Claude Code on the web](https://www.anthropic.com/news/claude-code-on-the-web) (2025-10-20)
+- [x86-64 Playground – An online assembly editor and GDB-like debugger](https://x64.halb.it/) (2025-10-20)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [It wasn’t space debris that struck a United Airlines plane—it was a weather balloon](https://arstechnica.com/space/2025/10/the-mystery-object-that-struck-a-plane-in-flight-it-was-probably-a-weather-balloon/) (2025-10-21)
 - [NSO permanently barred from targeting WhatsApp users with Pegasus spyware](https://arstechnica.com/security/2025/10/nso-permanently-barred-from-targeting-whatsapp-users-with-pegasus-spyware/) (2025-10-20)
 - [Why did NASA’s chief just shake up the agency’s plans to land on the Moon?](https://arstechnica.com/space/2025/10/nasas-acting-leader-seeks-to-keep-his-job-with-new-lunar-lander-announcement/) (2025-10-20)
 - [Claude Code gets a web version—but it’s the new sandboxing that really matters](https://arstechnica.com/ai/2025/10/claude-code-gets-a-web-version-but-its-the-new-sandboxing-that-really-matters/) (2025-10-20)
 - [Google reportedly searching for 15 Pixel “Superfans” to test unreleased phones](https://arstechnica.com/gadgets/2025/10/google-reportedly-searching-for-15-pixel-superfans-to-test-unreleased-phones/) (2025-10-20)
-- [Breaking down rare earth element magnets for recycling](https://arstechnica.com/science/2025/10/breaking-down-rare-earth-element-magnets-for-recycling/) (2025-10-20)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Open source is giving you choices with your agent systems](https://stackoverflow.blog/2025/10/21/open-source-is-giving-you-choices-with-your-agent-systems/) (2025-10-21)
 - [From multilingual semantic search to virtual assistants at Bosch Digital](https://stackoverflow.blog/2025/10/20/from-multilingual-semantic-search-to-virtual-assistants-at-bosch-digital/) (2025-10-20)
 - [Why rent a cloud when you can build one?](https://stackoverflow.blog/2025/10/17/why-rent-a-cloud-when-you-can-build-one/) (2025-10-17)
 - [Secure coding in JavaScript](https://stackoverflow.blog/2025/10/15/secure-coding-in-javascript/) (2025-10-15)
 - [AI agents for your digital chores](https://stackoverflow.blog/2025/10/14/ai-agents-for-your-digital-chores/) (2025-10-14)
-- [Vite is like the United Nations of JavaScript](https://stackoverflow.blog/2025/10/10/vite-is-like-the-united-nations-of-javascript/) (2025-10-10)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [[Boost]](https://dev.to/ben/-1l4n) (2025-10-21)
-- [The Effects of Performance Appraisal: A Study of 7up Bottling Company in Aba, Abia State](https://dev.to/loveline/the-effects-of-performance-appraisal-a-study-of-7up-bottling-company-in-aba-abia-state-3k50) (2025-10-21)
-- [Dabs dev](https://dev.to/drake_bourque_36281e691a4/dabs-dev-4kif) (2025-10-21)
-- [🧠 Bringing AI to One Keystroke](https://dev.to/louis7/bringing-ai-to-one-keystroke-5kn) (2025-10-21)
-- [Project: CrystalPure Water Company – Business Plan Development](https://dev.to/loveline/project-crystal-pure-water-company-business-plan-development-1157) (2025-10-21)
+- [Andrew Huang: Beautiful new music making environment! (GRM Atelier)](https://dev.to/music_youtube/andrew-huang-beautiful-new-music-making-environment-grm-atelier-3k2n) (2025-10-21)
+- [Andrew Huang: Using a vocal generator very wrong](https://dev.to/music_youtube/andrew-huang-using-a-vocal-generator-very-wrong-1l3p) (2025-10-21)
+- [Cercle: OFF STAGE WITH WhoMadeWho & Tripolism](https://dev.to/music_youtube/cercle-off-stage-with-whomadewho-tripolism-40b0) (2025-10-21)
+- [COLORS: Indys Blu - Saddest Song | A COLORS SHOW](https://dev.to/music_youtube/colors-indys-blu-saddest-song-a-colors-show-179j) (2025-10-21)
+- [COLORS: Dear Silas - Still Southern Playalistic | A COLORS SHOW](https://dev.to/music_youtube/colors-dear-silas-still-southern-playalistic-a-colors-show-4lie) (2025-10-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Async/Await Is Great… Until It’s Not (Here’s the Fix)](https://amirdevwrites.medium.com/async-await-is-great-until-its-not-here-s-the-fix-0ab3b28ae3fd?source=rss------programming-5) (2025-10-21)
-- [09021901293](https://medium.com/@shmarhkhalhthran17/09021901293-7d167a0353f2?source=rss------programming-5) (2025-10-21)
-- [09021901293](https://medium.com/@shmarhkhalhthran17/09021901293-6921a1d9fc74?source=rss------programming-5) (2025-10-21)
-- [09021901293](https://medium.com/@shmarhkhalhthran17/09021901293-0870130c0f58?source=rss------programming-5) (2025-10-21)
-- [[Completa] película Culpa nuestra en español latino](https://www.betterhumans.pub/completa-pel%C3%ADcula-culpa-nuestra-en-espa%C3%B1ol-latino-e853a94c1469?source=rss------programming-5) (2025-10-21)
+- [Python and NiceGUI — Building Browser-Based UIs with Pure Python](https://medium.com/@ccpythonprogramming/python-and-nicegui-building-browser-based-uis-with-pure-python-0169897b1896?source=rss------programming-5) (2025-10-21)
+- [Understanding Blok’s Context Object](https://blog.nanoservice.xyz/understanding-bloks-context-object-d8ec96dcc089?source=rss------programming-5) (2025-10-21)
+- [The Signal Forms Revolution: How I Migrated from Template-Driven Forms and Never Looked Back](https://javascript.plainenglish.io/signal-forms-migration-angular-developer-journey-e340cd8cc077?source=rss------programming-5) (2025-10-21)
+- [5 Powerful F-String Tricks Every Python Developer Should Know!](https://medium.com/the-pythonworld/5-powerful-f-string-tricks-every-python-developer-should-know-dc83251e681d?source=rss------programming-5) (2025-10-21)
+- [Beginner’s Guide to AWS Elastic Container Registry (ECR): From Setup to Docker Push](https://medium.com/@arijit83work/beginners-guide-to-aws-elastic-container-registry-ecr-from-setup-to-docker-push-db09febb5c96?source=rss------programming-5) (2025-10-21)
 
 </details>
 
@@ -362,14 +362,14 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-How to Manage Your Twilio Verify Safe List in Laravel
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/manage-twilio-verify-safe-list-laravel
-) (2025-10-17)
-- [
 Sending SMS Messages with Twilio and Zapier
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/sending-sms-messages-with-twilio-and-zapier
+) (2025-10-17)
+- [
+How to Manage Your Twilio Verify Safe List in Laravel
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/manage-twilio-verify-safe-list-laravel
 ) (2025-10-17)
 - [
 Take command of your customer data with the latest Twilio platform releases
