@@ -24,17 +24,17 @@
 - [Open source agentic startup LangChain hits $1.25B valuation](https://techcrunch.com/2025/10/21/open-source-agentic-startup-langchain-hits-1-25b-valuation/) (2025-10-21)
 - [Sesame, the conversational AI startup from Oculus founders, raises $250M and launches beta](https://techcrunch.com/2025/10/21/sesame-the-conversational-ai-startup-from-oculus-founders-raises-250m-and-launches-beta/) (2025-10-21)
 - [OpenAI’s new browser is a broadside shot at Google ](https://techcrunch.com/2025/10/21/openais-new-browser-is-a-broadside-shot-at-google/) (2025-10-21)
-- [Sources: Multimodal AI startup Fal.ai already raised at $4B+ valuation](https://techcrunch.com/2025/10/21/sources-multimodal-ai-startup-fal-ai-already-raised-at-4b-valuation/) (2025-10-21)
+- [Sources: Multimodal AI startup Fal AI already raised at $4B+ valuation](https://techcrunch.com/2025/10/21/sources-multimodal-ai-startup-fal-ai-already-raised-at-4b-valuation/) (2025-10-21)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Daniel J. Bernstein updated cdb (Constant database) to go beyond 4GB](https://cdb.cr.yp.to/) (2025-10-22)
-- ["Butt breathing" might soon be a real medical treatment](https://arstechnica.com/science/2025/10/butt-breathing-might-soon-be-a-real-medical-treatment/) (2025-10-21)
+- [Evaluating the Infinity Cache in AMD Strix Halo](https://chipsandcheese.com/p/evaluating-the-infinity-cache-in) (2025-10-22)
+- [Show HN: AutoLearn Skills for self-improving agents](https://www.autolearn.dev) (2025-10-22)
+- [OpenBSD 7.8](https://cdn.openbsd.org/pub/OpenBSD/7.8/ANNOUNCEMENT) (2025-10-22)
 - [The Hidden Engineering of Niagara Falls](https://practical.engineering/blog/2025/10/21/the-hidden-engineering-of-niagara-falls) (2025-10-21)
-- [The Lottery-fication of Everything](https://www.dopaminemarkets.com/p/the-lottery-fication-of-everything) (2025-10-21)
 - [rlsw – Raylib software OpenGL renderer in less than 5k LOC](https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h) (2025-10-21)
 
 </details>
@@ -42,11 +42,11 @@
 <details>
 <summary>📱 The Verge</summary>
 
+- [Samsung Galaxy XR hands-on: It’s like a cheaper Apple Vision Pro and launches today](https://www.theverge.com/tech/802299/samsung-galaxy-xr-hands-on-price-release-date) (2025-10-22)
+- [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals) (2025-10-22)
 - [Netflix is &#8216;judiciously&#8217; expanding into interactive experiences](https://www.theverge.com/news/803097/netflix-games-interactive-experiences-real-time-voting-q3-2025-earnings) (2025-10-21)
 - [The iPhone 17’s selfie camera is to blame for delayed Project Indigo support](https://www.theverge.com/tech/803712/adobe-project-indigo-camera-app-iphone-17-support) (2025-10-21)
 - [How Apple’s walled garden protects ICE](https://www.theverge.com/column/803693/ice-epic-games-apple-app-store) (2025-10-21)
-- [YouTube’s AI ‘likeness detection’ tool is searching for deepfakes of popular creators](https://www.theverge.com/news/803818/youtube-ai-likeness-detection-deepfake) (2025-10-21)
-- [Did Microsoft just tease that the next Xbox is a PC and console?](https://www.theverge.com/news/803824/microsoft-xbox-sarah-bond-next-gen-xbox-console-pc) (2025-10-21)
 
 </details>
 
@@ -97,18 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Enhance Your SMS Communication with Automatic OPT-OUT Handling](https://dev.to/smsmobileapi/enhance-your-sms-communication-with-automatic-opt-out-handling-2edc) (2025-10-22)
-- [Vibe Coding: The Rise of AI-First Coding Paradigms](https://dev.to/softwaredeveloper01/vibe-coding-the-rise-of-ai-first-coding-paradigms-4ab8) (2025-10-22)
-- [TCP Programming in Go: Build Reliable Network Apps with Ease](https://dev.to/jones_charles_ad50858dbc0/tcp-programming-in-go-build-reliable-network-apps-with-ease-2bgb) (2025-10-22)
-- [Test Plan and Non-Functional Requirements (NFR) Document](https://dev.to/loveline/test-plan-and-non-functional-requirements-nfr-document-519j) (2025-10-22)
-- [Unlocking the Power of Developer Communities: What Reddit Can Teach Us About Collaboration](https://dev.to/mikeover/unlocking-the-power-of-developer-communities-what-reddit-can-teach-us-about-collaboration-1nj5) (2025-10-22)
+- [New universal drivers for IoT Platform](https://dev.to/palo/new-universal-drivers-for-iot-platform-3fbe) (2025-10-22)
+- [Build and push Docker images to Amazon ECR using Terraform](https://dev.to/ashraf-minhaj/build-and-push-docker-images-to-amazon-ecr-using-terraform-4m67) (2025-10-22)
+- [#2 Lexical Scoping && Closure in JavaScript --](https://dev.to/mithukr/2-lexical-scoping-closure-in-javascript--48pa) (2025-10-22)
+- [Translating Requirements into Test Plan & Strategy: My HNGi13 QA Journey](https://dev.to/amidat_sule_6ba4feb8bcbe2/translating-requirements-into-test-plan-strategy-my-hngi13-qa-journey-59hc) (2025-10-22)
+- [Bryan Bros Golf: We Took Jason Day to a 1 Star Course](https://dev.to/youtube_golf/bryan-bros-golf-we-took-jason-day-to-a-1-star-course-235j) (2025-10-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ “How Live Cricket Apps Stay in Sync: Short Polling vs Long Polling”](https://medium.com/@BuildandDebug/how-live-cricket-apps-stay-in-sync-short-polling-vs-long-polling-4c1007ce047c?source=rss------programming-5) (2025-10-22)
+- [Inline, Internal, External Farkları Nelerdir?](https://medium.com/@nursimamnc/inline-internal-external-farklar%C4%B1-nelerdir-7e0aa7db6838?source=rss------programming-5) (2025-10-22)
+- [Hello World](https://medium.com/@tecvil/hello-world-173043bd26a1?source=rss------programming-5) (2025-10-22)
+- [How Airlines Handle System Failures (And Why Your Startup Should Copy Them)](https://medium.com/@coders.stop/how-airlines-handle-system-failures-and-why-your-startup-should-copy-them-9acd37a10ada?source=rss------programming-5) (2025-10-22)
+- [Tools, Tips, Tricks, and Console Magic: Debugging Angular Like a Pro](https://codebybilal.medium.com/tools-tips-tricks-and-console-magic-debugging-angular-like-a-pro-6e486332ef20?source=rss------programming-5) (2025-10-22)
+- [Most AI Agents Are Flashy Demos That Never Scale](https://medium.com/@vadim.briliantov/most-ai-agents-are-flashy-demos-that-never-scale-ba126d5861b0?source=rss------programming-5) (2025-10-22)
 
 </details>
 
@@ -126,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [The Signals Loop: Fine-tuning for world-class AI apps and agents ](https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/) (2025-10-21)
-- [Innovation spotlight: How 3 customers are driving change with migration to Azure SQL](https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/) (2025-10-20)
 - [From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available](https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/) (2025-10-16)
 - [Sora 2 now available in Azure AI Foundry](https://azure.microsoft.com/en-us/blog/sora-2-now-available-in-azure-ai-foundry/) (2025-10-15)
 - [Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation](https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/) (2025-10-14)
+- [Accelerating open-source infrastructure development for frontier AI at scale](https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/) (2025-10-14)
+- [FYAI: Why developers will lead AI transformation across the enterprise](https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/) (2025-10-13)
 
 </details>
 
@@ -565,11 +569,11 @@ https://www.twilio.com/en-us/blog/company/inside-twilio/2025-global-impact-week-
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [RIP Prompt Engineering? Why Verbalized Sampling Changes Everything!](https://www.analyticsvidhya.com/blog/2025/10/verbalized-sampling/) (2025-10-22)
+- [5 Ways to Run LLMs Locally With Enhanced Privacy and Security ](https://www.analyticsvidhya.com/blog/2025/10/run-llms-locally-with-privacy-and-security/) (2025-10-22)
 - [Grokipedia: Wikipedia 2.0? ](https://www.analyticsvidhya.com/blog/2025/10/grokipedia/) (2025-10-21)
 - [No Job Apocalypse Coming: 10 AGI Myths Busted by Andrej Karapathy](https://www.analyticsvidhya.com/blog/2025/10/agi-myths-busted-by-andrej-karapathy/) (2025-10-21)
 - [DeepSeek’s New OCR Compresses Documents By 10x](https://www.analyticsvidhya.com/blog/2025/10/deepseeks-ocr/) (2025-10-21)
-- [How to Access ChatGPT Apps SDK?](https://www.analyticsvidhya.com/blog/2025/10/chatgpt-apps-sdk/) (2025-10-21)
-- [Create an AI-Powered WhatsApp Sticker Generator using Python](https://www.analyticsvidhya.com/blog/2025/10/whatsapp-sticker-generator/) (2025-10-20)
 
 </details>
 
