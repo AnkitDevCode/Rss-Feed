@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2025](https://techcrunch.com/2025/10/21/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2025/) (2025-10-21)
-- [A16z-backed Codi launches AI agent office manager](https://techcrunch.com/2025/10/21/a16z-backed-codi-launches-ai-agent-office-manager/) (2025-10-21)
-- [OpenAI launches an AI-powered browser: ChatGPT Atlas](https://techcrunch.com/2025/10/21/openai-launches-an-ai-powered-browser-chatgpt-atlas/) (2025-10-21)
-- [YouTube’s likeness-detection technology has officially launched](https://techcrunch.com/2025/10/21/youtubes-likeness-detection-technology-has-officially-launched/) (2025-10-21)
-- [WhatsApp and Messenger add new warnings to help older people avoid online scams](https://techcrunch.com/2025/10/21/whatsapp-and-messenger-add-new-warnings-to-help-older-people-avoid-online-scams/) (2025-10-21)
+- [Netflix goes ‘all in’ on generative AI as entertainment industry remains divided](https://techcrunch.com/2025/10/21/netflix-goes-all-in-on-generative-ai-as-entertainment-industry-remains-divided/) (2025-10-21)
+- [Open source agentic startup LangChain hits $1.25B valuation](https://techcrunch.com/2025/10/21/open-source-agentic-startup-langchain-hits-1-25b-valuation/) (2025-10-21)
+- [Sesame, the conversational AI startup from Oculus founders, raises $250M and launches beta](https://techcrunch.com/2025/10/21/sesame-the-conversational-ai-startup-from-oculus-founders-raises-250m-and-launches-beta/) (2025-10-21)
+- [OpenAI’s new browser is a broadside shot at Google ](https://techcrunch.com/2025/10/21/openais-new-browser-is-a-broadside-shot-at-google/) (2025-10-21)
+- [Sources: Multimodal AI startup Fal.ai already raised at $4B+ valuation](https://techcrunch.com/2025/10/21/sources-multimodal-ai-startup-fal-ai-already-raised-at-4b-valuation/) (2025-10-21)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [ChatGPT Atlas](https://chatgpt.com/atlas) (2025-10-21)
-- [Flexport Is Hiring SDRs in Chicago](https://job-boards.greenhouse.io/flexport/jobs/5690976?gh_jid=5690976) (2025-10-21)
-- [Fallout from the AWS Outage: Smart Mattresses Go Rogue and Ruin Sleep Worldwide](https://quasa.io/media/the-strangest-fallout-from-the-aws-outage-smart-mattresses-go-rogue-and-ruin-sleep-worldwide) (2025-10-21)
-- [The Programmer Identity Crisis](https://hojberg.xyz/the-programmer-identity-crisis/) (2025-10-21)
-- [The Greatness of Text Adventures](https://entropicthoughts.com/the-greatness-of-text-adventures) (2025-10-21)
+- [Daniel J. Bernstein updated cdb (Constant database) to go beyond 4GB](https://cdb.cr.yp.to/) (2025-10-22)
+- ["Butt breathing" might soon be a real medical treatment](https://arstechnica.com/science/2025/10/butt-breathing-might-soon-be-a-real-medical-treatment/) (2025-10-21)
+- [The Hidden Engineering of Niagara Falls](https://practical.engineering/blog/2025/10/21/the-hidden-engineering-of-niagara-falls) (2025-10-21)
+- [The Lottery-fication of Everything](https://www.dopaminemarkets.com/p/the-lottery-fication-of-everything) (2025-10-21)
+- [rlsw – Raylib software OpenGL renderer in less than 5k LOC](https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h) (2025-10-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [I see your Haribo gummy bear battery and raise you a Pocket Rocket instead](https://www.theverge.com/tech/803021/haribo-gummy-bear-battery-nitecore-iniu-pocket-rocket) (2025-10-21)
-- [OpenAI’s AI-powered browser, ChatGPT Atlas, is here](https://www.theverge.com/ai-artificial-intelligence/803475/openais-ai-powered-browser-chatgpt-atlas-google-chrome-competition-agent) (2025-10-21)
-- [Apple MacBook Pro M5 review: new chip, same greatness](https://www.theverge.com/tech/803349/apple-macbook-pro-14-m5-2025-review) (2025-10-21)
-- [Google Fi is getting AI-powered noise filters and RCS web messaging](https://www.theverge.com/news/803542/google-fi-rcs-browser-messaging-ai-enhanced-audio) (2025-10-21)
-- [Even Xbox developer kits are getting a big price hike](https://www.theverge.com/report/803237/microsoft-xbox-devkit-price-hikes-developers) (2025-10-21)
+- [Netflix is &#8216;judiciously&#8217; expanding into interactive experiences](https://www.theverge.com/news/803097/netflix-games-interactive-experiences-real-time-voting-q3-2025-earnings) (2025-10-21)
+- [The iPhone 17’s selfie camera is to blame for delayed Project Indigo support](https://www.theverge.com/tech/803712/adobe-project-indigo-camera-app-iphone-17-support) (2025-10-21)
+- [How Apple’s walled garden protects ICE](https://www.theverge.com/column/803693/ice-epic-games-apple-app-store) (2025-10-21)
+- [YouTube’s AI ‘likeness detection’ tool is searching for deepfakes of popular creators](https://www.theverge.com/news/803818/youtube-ai-likeness-detection-deepfake) (2025-10-21)
+- [Did Microsoft just tease that the next Xbox is a PC and console?](https://www.theverge.com/news/803824/microsoft-xbox-sarah-bond-next-gen-xbox-console-pc) (2025-10-21)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Warner Bros. Discovery raises HBO Max prices as it puts itself up for sale](https://arstechnica.com/gadgets/2025/10/warner-bros-discovery-raises-hbo-max-prices-as-it-puts-itself-up-for-sale/) (2025-10-21)
-- [MacBook Pro: Apple’s most awkward laptop is the first to show off Apple M5](https://arstechnica.com/gadgets/2025/10/m5-macbook-pro-review-fifth-generation-apple-silicon-in-a-familiar-wrapper/) (2025-10-21)
-- [Google Fi is getting enhanced web calls and messaging, AI bill summaries](https://arstechnica.com/gadgets/2025/10/google-fi-is-getting-enhanced-web-calls-and-messaging-ai-bill-summaries/) (2025-10-21)
-- [Amazon’s DNS problem knocked out half the web, likely costing billions](https://arstechnica.com/tech-policy/2025/10/amazons-dns-problem-knocked-out-half-the-web-likely-costing-billions/) (2025-10-21)
-- [Even with protections, wolves still fear humans](https://arstechnica.com/science/2025/10/even-with-protections-wolves-still-fear-humans/) (2025-10-21)
+- [FDA slows down on drug reviews, approvals amid Trump admin chaos](https://arstechnica.com/health/2025/10/fda-slows-down-on-drug-reviews-approvals-amid-trump-admin-chaos/) (2025-10-21)
+- [It’s troll vs. troll in Netflix’s Troll 2 trailer](https://arstechnica.com/culture/2025/10/troll-2-trailer-is-a-godzilla-inspired-monster-mash/) (2025-10-21)
+- [Elon Musk just declared war on NASA’s acting administrator, apparently](https://arstechnica.com/space/2025/10/elon-musk-just-declared-war-on-nasas-acting-administrator-apparently/) (2025-10-21)
+- [Upcoming iOS and macOS 26.1 update will let you fog up your Liquid Glass](https://arstechnica.com/gadgets/2025/10/new-ios-and-macos-betas-add-tinted-toggle-to-tone-down-liquid-glass/) (2025-10-21)
+- [OpenAI looks for its “Google Chrome” moment with new Atlas web browser](https://arstechnica.com/ai/2025/10/openais-new-atlas-web-browser-wants-to-let-you-chat-with-a-page/) (2025-10-21)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
-- [The Download: embryo ethics, and reducing chatbot risks](https://www.technologyreview.com/2025/10/21/1126189/the-download-embryo-ethics-and-reducing-chatbot-risks/) (2025-10-21)
-- [New noninvasive endometriosis tests are on the rise](https://www.technologyreview.com/2025/10/21/1125327/endometriosis-tests-noninvasive/) (2025-10-21)
-- [The astonishing embryo models of Jacob Hanna](https://www.technologyreview.com/2025/10/21/1125523/jacob-hanna-israel-synthetic-embryo-models/) (2025-10-21)
-- [Why AI should be able to “hang up” on you](https://www.technologyreview.com/2025/10/21/1126116/why-ai-should-be-able-to-hang-up-on-you/) (2025-10-21)
-- [Fold your own tessellation](https://www.technologyreview.com/2025/10/20/1125594/technologyreview-com-tessellation/) (2025-10-20)
+- [Engineering better care](https://www.technologyreview.com/2025/10/21/1124712/engineering-better-care/) (2025-10-21)
+- [Infinite folds](https://www.technologyreview.com/2025/10/21/1124723/infinite-folds/) (2025-10-21)
+- [25 years of research in space](https://www.technologyreview.com/2025/10/21/1124727/25-years-of-research-in-space/) (2025-10-21)
+- [How Millie Dresselhaus paid it forward](https://www.technologyreview.com/2025/10/21/1124731/how-millie-dresselhaus-paid-it-forward/) (2025-10-21)
+- [Navigating MIT](https://www.technologyreview.com/2025/10/21/1124743/navigating-mit/) (2025-10-21)
 
 </details>
 
@@ -97,22 +97,18 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [KEXP: Dean Johnson - Before You Hit The Ground (Live on KEXP)](https://dev.to/music_youtube/kexp-dean-johnson-before-you-hit-the-ground-live-on-kexp-3jkl) (2025-10-21)
-- [KEXP: Dean Johnson - Faraway Skies (Live on KEXP)](https://dev.to/music_youtube/kexp-dean-johnson-faraway-skies-live-on-kexp-416b) (2025-10-21)
-- [KEXP: Dean Johnson - Full Performance (Live on KEXP)](https://dev.to/music_youtube/kexp-dean-johnson-full-performance-live-on-kexp-1e0a) (2025-10-21)
-- [NPR Music: Kokoroko: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-kokoroko-tiny-desk-concert-4gek) (2025-10-21)
-- [NPR Music: Tyshawn Sorey’s powerful sounds of silence | Amplify with Lara Downes](https://dev.to/music_youtube/npr-music-tyshawn-soreys-powerful-sounds-of-silence-amplify-with-lara-downes-5blp) (2025-10-21)
+- [Enhance Your SMS Communication with Automatic OPT-OUT Handling](https://dev.to/smsmobileapi/enhance-your-sms-communication-with-automatic-opt-out-handling-2edc) (2025-10-22)
+- [Vibe Coding: The Rise of AI-First Coding Paradigms](https://dev.to/softwaredeveloper01/vibe-coding-the-rise-of-ai-first-coding-paradigms-4ab8) (2025-10-22)
+- [TCP Programming in Go: Build Reliable Network Apps with Ease](https://dev.to/jones_charles_ad50858dbc0/tcp-programming-in-go-build-reliable-network-apps-with-ease-2bgb) (2025-10-22)
+- [Test Plan and Non-Functional Requirements (NFR) Document](https://dev.to/loveline/test-plan-and-non-functional-requirements-nfr-document-519j) (2025-10-22)
+- [Unlocking the Power of Developer Communities: What Reddit Can Teach Us About Collaboration](https://dev.to/mikeover/unlocking-the-power-of-developer-communities-what-reddit-can-teach-us-about-collaboration-1nj5) (2025-10-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ C Dilinde Dizilerde Eleman Silme ve Ekleme İşlemleri](https://medium.com/@hedaguler25/c-dilinde-dizilerde-eleman-silme-ve-ekleme-i%CC%87%C5%9Flemleri-779fa179a497?source=rss------programming-5) (2025-10-21)
-- [Building Resilient Python Backends: Lessons I Learned the Hard Way](https://medium.com/@kainatnafees/building-resilient-python-backends-lessons-i-learned-the-hard-way-44f6db60bb2c?source=rss------programming-5) (2025-10-21)
-- [Neden List<Integer> İçine String Ekleyebilirsiniz?](https://medium.com/@tugce.dev.journal/neden-list-integer-i%CC%87%C3%A7ine-string-ekleyebilirsiniz-046fb9d0ec84?source=rss------programming-5) (2025-10-21)
-- [The Hidden Latency Tax of AWS Services ⏲ !](https://aws.plainenglish.io/the-hidden-latency-tax-of-aws-services-fd1a8d47e28e?source=rss------programming-5) (2025-10-21)
-- [ How I Built Minitok — My First App as a Teen Developer](https://medium.com/@labsnovasoft/how-i-built-minitok-my-first-app-as-a-teen-developer-d40ce47d7d5f?source=rss------programming-5) (2025-10-21)
+- [ “How Live Cricket Apps Stay in Sync: Short Polling vs Long Polling”](https://medium.com/@BuildandDebug/how-live-cricket-apps-stay-in-sync-short-polling-vs-long-polling-4c1007ce047c?source=rss------programming-5) (2025-10-22)
 
 </details>
 
@@ -130,11 +126,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [FYAI: Why developers will lead AI transformation across the enterprise](https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/) (2025-10-13)
-- [Microsoft Azure delivers the first large scale cluster with NVIDIA GB300 NVL72 for OpenAI workloads](https://azure.microsoft.com/en-us/blog/microsoft-azure-delivers-the-first-large-scale-cluster-with-nvidia-gb300-nvl72-for-openai-workloads/) (2025-10-09)
-- [Microsoft’s commitment to supporting cloud infrastructure demand in Asia](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-asia/) (2025-10-09)
-- [Unleash your creativity at scale: Azure AI Foundry’s multimodal revolution](https://azure.microsoft.com/en-us/blog/unleash-your-creativity-at-scale-azure-ai-foundrys-multimodal-revolution/) (2025-10-06)
-- [Introducing Microsoft Agent Framework](https://azure.microsoft.com/en-us/blog/introducing-microsoft-agent-framework/) (2025-10-01)
+- [The Signals Loop: Fine-tuning for world-class AI apps and agents ](https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/) (2025-10-21)
+- [Innovation spotlight: How 3 customers are driving change with migration to Azure SQL](https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/) (2025-10-20)
+- [From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available](https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/) (2025-10-16)
+- [Sora 2 now available in Azure AI Foundry](https://azure.microsoft.com/en-us/blog/sora-2-now-available-in-azure-ai-foundry/) (2025-10-15)
+- [Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation](https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/) (2025-10-14)
 
 </details>
 
@@ -295,11 +291,11 @@
 <details>
 <summary>📌 Pinterest Engineering</summary>
 
+- [Identify User Journeys at Pinterest](https://medium.com/pinterest-engineering/identify-user-journeys-at-pinterest-b517f6275b42?source=rss-ef81ef829bcb------2) (2025-10-21)
 - [Tracking Down Mysterious ML Training Stalls](https://medium.com/@Pinterest_Engineering/tracking-down-mysterious-ml-training-stalls-5290bb19be6d?source=rss-ef81ef829bcb------2) (2025-10-17)
 - [Next Gen Data Processing at Massive Scale At Pinterest With Moka (Part 2 of 2)](https://medium.com/pinterest-engineering/next-gen-data-processing-at-massive-scale-at-pinterest-with-moka-part-2-of-2-d0210ded34e0?source=rss-ef81ef829bcb------2) (2025-09-10)
 - [Developer Experience at Pinterest: The Journey to PinConsole](https://medium.com/pinterest-engineering/developer-experience-at-pinterest-the-journey-to-pinconsole-b34ac9e3bdd9?source=rss-ef81ef829bcb------2) (2025-08-22)
 - [Debugging the One-in-a-Million Failure: Migrating Pinterest’s Search Infrastructure to Kubernetes](https://medium.com/pinterest-engineering/debugging-the-one-in-a-million-failure-migrating-pinterests-search-infrastructure-to-kubernetes-bef9af9dabf4?source=rss-ef81ef829bcb------2) (2025-07-16)
-- [Next Gen Data Processing at Massive Scale At Pinterest With Moka (Part 1 of 2)](https://medium.com/pinterest-engineering/next-gen-data-processing-at-massive-scale-at-pinterest-with-moka-part-1-of-2-39a36d5e82c4?source=rss-ef81ef829bcb------2) (2025-07-11)
 
 </details>
 
@@ -525,11 +521,11 @@ https://www.twilio.com/en-us/blog/company/inside-twilio/2025-global-impact-week-
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [Enabling vLLM V1 on AMD GPUs With Triton](https://pytorch.org/blog/enabling-vllm-v1-on-amd-gpus-with-triton/) (2025-10-21)
 - [PyTorch 2.9 Release Blog](https://pytorch.org/blog/pytorch-2-9/) (2025-10-15)
 - [SuperOffload: Unleashing the Power of Large-Scale LLM Training on Superchips](https://pytorch.org/blog/superoffload-unleashing-the-power-of-large-scale-llm-training-on-superchips/) (2025-10-09)
 - [When Quantization Isn’t Enough: Why 2:4 Sparsity Matters](https://pytorch.org/blog/when-quantization-isnt-enough-why-24-sparsity-matters/) (2025-10-06)
 - [TorchAO Quantized Models and Quantization Recipes Now Available on HuggingFace Hub](https://pytorch.org/blog/torchao-quantized-models-and-quantization-recipes-now-available-on-huggingface-hub/) (2025-09-19)
-- [Experience in Reducing PT2 Compilation Time for Meta Internal Workloads](https://pytorch.org/blog/experience-in-reducing-pt2-compilation-time-for-meta-internal-workloads/) (2025-09-18)
 
 </details>
 
@@ -558,11 +554,11 @@ https://www.twilio.com/en-us/blog/company/inside-twilio/2025-global-impact-week-
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Scaling Recommender Transformers to a Billion Parameters](https://towardsdatascience.com/scaling-recommender-transformers-to-a-billion-parameters/) (2025-10-21)
 - [Is RAG Dead? The Rise of Context Engineering and Semantic Layers for Agentic AI](https://towardsdatascience.com/beyond-rag/) (2025-10-21)
 - [Hidden Gems in NumPy: 7 Functions Every Data Scientist Should Know](https://towardsdatascience.com/hidden-gems-in-numpy-7-functions-every-data-scientist-should-know/) (2025-10-21)
 - [Implementing the Fourier Transform Numerically in Python: A Step-by-Step Guide](https://towardsdatascience.com/implementing-the-fourier-transform-numerically-in-python-a-step-by-step-guide/) (2025-10-21)
 - [How to Build An AI Agent with Function Calling and GPT-5](https://towardsdatascience.com/how-to-build-an-ai-agent-with-function-calling-and-gpt-5/) (2025-10-20)
-- [How to Use Frontier Vision LLMs: Qwen3-VL](https://towardsdatascience.com/how-to-use-frontier-vision-llms-qwen-3-vl-2/) (2025-10-20)
 
 </details>
 
