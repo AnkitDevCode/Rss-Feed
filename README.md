@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Life360 ventures into pet tech with the launch of a new GPS tracker](https://techcrunch.com/2025/10/22/life360-ventures-into-pet-tech-with-the-launch-of-a-new-gps-tracker/) (2025-10-22)
+- [One startup’s quest to store electricity in the ocean](https://techcrunch.com/2025/10/22/one-startups-quest-to-store-electricity-in-the-ocean/) (2025-10-22)
 - [Netflix goes ‘all in’ on generative AI as entertainment industry remains divided](https://techcrunch.com/2025/10/21/netflix-goes-all-in-on-generative-ai-as-entertainment-industry-remains-divided/) (2025-10-21)
 - [Open source agentic startup LangChain hits $1.25B valuation](https://techcrunch.com/2025/10/21/open-source-agentic-startup-langchain-hits-1-25b-valuation/) (2025-10-21)
 - [Sesame, the conversational AI startup from Oculus founders, raises $250M and launches beta](https://techcrunch.com/2025/10/21/sesame-the-conversational-ai-startup-from-oculus-founders-raises-250m-and-launches-beta/) (2025-10-21)
-- [OpenAI’s new browser is a broadside shot at Google ](https://techcrunch.com/2025/10/21/openais-new-browser-is-a-broadside-shot-at-google/) (2025-10-21)
-- [Sources: Multimodal AI startup Fal AI already raised at $4B+ valuation](https://techcrunch.com/2025/10/21/sources-multimodal-ai-startup-fal-ai-already-raised-at-4b-valuation/) (2025-10-21)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Evaluating the Infinity Cache in AMD Strix Halo](https://chipsandcheese.com/p/evaluating-the-infinity-cache-in) (2025-10-22)
-- [Show HN: AutoLearn Skills for self-improving agents](https://www.autolearn.dev) (2025-10-22)
-- [OpenBSD 7.8](https://cdn.openbsd.org/pub/OpenBSD/7.8/ANNOUNCEMENT) (2025-10-22)
-- [The Hidden Engineering of Niagara Falls](https://practical.engineering/blog/2025/10/21/the-hidden-engineering-of-niagara-falls) (2025-10-21)
-- [rlsw – Raylib software OpenGL renderer in less than 5k LOC](https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h) (2025-10-21)
+- [Internet's Biggest Annoyance: Cookie Laws Should Target Browsers, Not Websites](https://nednex.com/en/the-internets-biggest-annoyance-why-cookie-laws-should-target-browsers-not-websites/) (2025-10-22)
+- [Infracost (YC W21) Hiring First Dev Advocate to Shift FinOps Left](https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate) (2025-10-22)
+- [A Word on Omarchy](https://xn--gckvb8fzb.com/a-word-on-omarchy/) (2025-10-22)
+- [HarmonyOS 6 Full Overview: New Design, AI Features and Privacy Upgrades [video]](https://www.youtube.com/watch?v=KzpXObhArco) (2025-10-22)
+- [Greg Newby, CEO of Project Gutenberg, has died](https://www.pgdp.net/wiki/In_Memoriam/gbnewby) (2025-10-22)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Uber will pay drivers $4,000 to switch to EVs](https://www.theverge.com/news/802983/uber-electric-ev-driver-4000-grant-price) (2025-10-22)
 - [Samsung Galaxy XR hands-on: It’s like a cheaper Apple Vision Pro and launches today](https://www.theverge.com/tech/802299/samsung-galaxy-xr-hands-on-price-release-date) (2025-10-22)
 - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals) (2025-10-22)
 - [Netflix is &#8216;judiciously&#8217; expanding into interactive experiences](https://www.theverge.com/news/803097/netflix-games-interactive-experiences-real-time-voting-q3-2025-earnings) (2025-10-21)
 - [The iPhone 17’s selfie camera is to blame for delayed Project Indigo support](https://www.theverge.com/tech/803712/adobe-project-indigo-camera-app-iphone-17-support) (2025-10-21)
-- [How Apple’s walled garden protects ICE](https://www.theverge.com/column/803693/ice-epic-games-apple-app-store) (2025-10-21)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [3 Things Stephanie Arnett is into right now](https://www.technologyreview.com/2025/10/22/1125356/3-things-stephanie-arnett/) (2025-10-22)
+- [Dispatch: Partying at one of Africa’s largest AI gatherings](https://www.technologyreview.com/2025/10/22/1125361/africa-ai-policymaking-nyalleng-moorosi/) (2025-10-22)
+- [Job titles of the future: AI embryologist](https://www.technologyreview.com/2025/10/22/1125367/ai-embryologist-reproduction-future-jobs/) (2025-10-22)
+- [Inside the archives of the NASA Ames Research Center](https://www.technologyreview.com/2025/10/22/1125378/nasa-ames-research-center-archives/) (2025-10-22)
 - [Engineering better care](https://www.technologyreview.com/2025/10/21/1124712/engineering-better-care/) (2025-10-21)
-- [Infinite folds](https://www.technologyreview.com/2025/10/21/1124723/infinite-folds/) (2025-10-21)
-- [25 years of research in space](https://www.technologyreview.com/2025/10/21/1124727/25-years-of-research-in-space/) (2025-10-21)
-- [How Millie Dresselhaus paid it forward](https://www.technologyreview.com/2025/10/21/1124731/how-millie-dresselhaus-paid-it-forward/) (2025-10-21)
-- [Navigating MIT](https://www.technologyreview.com/2025/10/21/1124743/navigating-mit/) (2025-10-21)
 
 </details>
 
@@ -97,22 +97,26 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [New universal drivers for IoT Platform](https://dev.to/palo/new-universal-drivers-for-iot-platform-3fbe) (2025-10-22)
-- [Build and push Docker images to Amazon ECR using Terraform](https://dev.to/ashraf-minhaj/build-and-push-docker-images-to-amazon-ecr-using-terraform-4m67) (2025-10-22)
-- [#2 Lexical Scoping && Closure in JavaScript --](https://dev.to/mithukr/2-lexical-scoping-closure-in-javascript--48pa) (2025-10-22)
-- [Translating Requirements into Test Plan & Strategy: My HNGi13 QA Journey](https://dev.to/amidat_sule_6ba4feb8bcbe2/translating-requirements-into-test-plan-strategy-my-hngi13-qa-journey-59hc) (2025-10-22)
-- [Bryan Bros Golf: We Took Jason Day to a 1 Star Course](https://dev.to/youtube_golf/bryan-bros-golf-we-took-jason-day-to-a-1-star-course-235j) (2025-10-22)
+- [The Return of Assembly: When LLMs No Longer Need High-Level Languages](https://dev.to/ionionascu/the-return-of-assembly-when-llms-no-longer-need-high-level-languages-1dak) (2025-10-22)
+- [DOCKER RUN İLE SSL SERTİFİKALI KEYCLOAK KURMA](https://dev.to/emine_nurarc_ca7d62402/docker-run-ile-ssl-sertifikali-keycloak-kurma-38e4) (2025-10-22)
+- [Simple queue system](https://dev.to/brendon_oneill__/simple-queue-system-1lnk) (2025-10-22)
+- [# Self-Hosted Push Notifications Part-8](https://dev.to/bunty9/-self-hosted-push-notifications-part-8-f0g) (2025-10-22)
+- [# Self-Hosted Push Notifications Part-7](https://dev.to/bunty9/-self-hosted-push-notifications-part-7-2f82) (2025-10-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Inline, Internal, External Farkları Nelerdir?](https://medium.com/@nursimamnc/inline-internal-external-farklar%C4%B1-nelerdir-7e0aa7db6838?source=rss------programming-5) (2025-10-22)
-- [Hello World](https://medium.com/@tecvil/hello-world-173043bd26a1?source=rss------programming-5) (2025-10-22)
-- [How Airlines Handle System Failures (And Why Your Startup Should Copy Them)](https://medium.com/@coders.stop/how-airlines-handle-system-failures-and-why-your-startup-should-copy-them-9acd37a10ada?source=rss------programming-5) (2025-10-22)
-- [Tools, Tips, Tricks, and Console Magic: Debugging Angular Like a Pro](https://codebybilal.medium.com/tools-tips-tricks-and-console-magic-debugging-angular-like-a-pro-6e486332ef20?source=rss------programming-5) (2025-10-22)
-- [Most AI Agents Are Flashy Demos That Never Scale](https://medium.com/@vadim.briliantov/most-ai-agents-are-flashy-demos-that-never-scale-ba126d5861b0?source=rss------programming-5) (2025-10-22)
+- [Google launched SQL Cells for BigQuery Notebooks](https://medium.com/codex/google-launched-sql-cells-for-bigquery-notebooks-346fa54f44e8?source=rss------programming-5) (2025-10-22)
+- [0937.667.6273شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@sdhdjjfueh/0937-667-6273%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-c476d3fe82b5?source=rss------programming-5) (2025-10-22)
+- [0937.667.6273شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@sdhdjjfueh/0937-667-6273%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-4f3e1cc35518?source=rss------programming-5) (2025-10-22)
+- [0937.667.6273شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@sdhdjjfueh/0937-667-6273%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-66a7d853716e?source=rss------programming-5) (2025-10-22)
+- [0937.667.6273شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dhdhdhdhii81/0937-667-6273%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-41a5f1d1aff8?source=rss------programming-5) (2025-10-22)
 
 </details>
 
@@ -163,11 +167,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Grow your app with the Google Play Apps Accelerator - apply now](https://android-developers.googleblog.com/2025/10/grow-your-app-with-google-play-apps.html) (2025-10-22)
 - [Dynamic App Links: Elevating your Android deep linking](https://android-developers.googleblog.com/2025/10/dynamic-app-links-elevating-your.html) (2025-10-20)
 - [#WeArePlay: Meet the founder making breast cancer awareness simple and accessible](https://android-developers.googleblog.com/2025/10/weareplay-meet-founder-making-breast.html) (2025-10-16)
 - [Beyond Single Features: Guaranteeing Feature Combinations With CameraX 1.5](https://android-developers.googleblog.com/2025/10/beyond-single-features-guaranteeing.html) (2025-10-15)
 - [Boost user engagement with AI Image Generation](https://android-developers.googleblog.com/2025/10/boost-user-engagement-with-ai-image.html) (2025-10-13)
-- [Jetpack WindowManager 1.5 is stable](https://android-developers.googleblog.com/2025/10/jetpack-windowmanager-15-is-stable.html) (2025-10-10)
 
 </details>
 
@@ -481,11 +485,11 @@ https://www.twilio.com/en-us/blog/company/inside-twilio/2025-global-impact-week-
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
+- [AIエージェント開発の悩みを解決！Agent Scriptとハイブリッド推論のすすめ](https://developer.salesforce.com/blogs/2025/10/ai%e3%82%a8%e3%83%bc%e3%82%b8%e3%82%a7%e3%83%b3%e3%83%88%e9%96%8b%e7%99%ba%e3%81%ae%e6%82%a9%e3%81%bf%e3%82%92%e8%a7%a3%e6%b1%ba%ef%bc%81agent-script%e3%81%a8%e3%83%8f%e3%82%a4%e3%83%96%e3%83%aa.html) (2025-10-22)
 - [Named Query API Simplifies Data Access for Agents and Apps](https://developer.salesforce.com/blogs/2025/10/named-query-api-simplifies-data-access-for-agents-and-apps.html) (2025-10-13)
 - [Introducing Hybrid Reasoning with Agent Script](https://developer.salesforce.com/blogs/2025/10/introducing-hybrid-reasoning-with-agent-script.html) (2025-10-13)
 - [Agentforce Vibesでイノベーションを推進 – エンタープライズ向けバイブコーディング](https://developer.salesforce.com/blogs/2025/10/agentforce-vibes%e3%81%a7%e3%82%a4%e3%83%8e%e3%83%99%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%92%e6%8e%a8%e9%80%b2-%e3%82%a8%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%97%e3%83%a9%e3%82%a4%e3%82%ba.html) (2025-10-09)
 - [Salesforce Hosted MCP Servers Are in Beta Today](https://developer.salesforce.com/blogs/2025/10/salesforce-hosted-mcp-servers-are-in-beta-today.html) (2025-10-09)
-- [Enhance Integration Security with mTLS for Salesforce and MuleSoft](https://developer.salesforce.com/blogs/2025/10/enhance-integration-security-with-mtls-for-salesforce-and-mulesoft.html) (2025-10-09)
 
 </details>
 
@@ -547,22 +551,22 @@ https://www.twilio.com/en-us/blog/company/inside-twilio/2025-global-impact-week-
 <details>
 <summary>🤖 AI News</summary>
 
+- [MCP prompt hijacking: Examining the major AI security threat](https://www.artificialintelligence-news.com/news/mcp-prompt-hijacking-examining-major-ai-security-threat/) (2025-10-22)
+- [AI is changing how we build links for SEO](https://www.artificialintelligence-news.com/news/ai-is-changing-how-we-build-links-for-seo/) (2025-10-22)
 - [How AI adoption is moving IT operations from reactive to proactive](https://www.artificialintelligence-news.com/news/how-ai-adoption-it-operations-reactive-to-proactive/) (2025-10-21)
 - [Businesses still face the AI data challenge](https://www.artificialintelligence-news.com/news/businesses-still-face-the-ai-data-challenge/) (2025-10-21)
 - [How accounting firms are using AI agents to reclaim time and trust](https://www.artificialintelligence-news.com/news/finance-ai-reclaiming-time-trust-with-openai-chatgpt/) (2025-10-21)
-- [China’s generative AI user base doubles to 515 million in six months](https://www.artificialintelligence-news.com/news/china-ai-adoption-doubles-515-million-users/) (2025-10-21)
-- [Arm provides edge AI platform to startups via flexible access](https://www.artificialintelligence-news.com/news/arm-provides-edge-ai-platform-startups-flexible-access/) (2025-10-20)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Agentic AI in Finance: Opportunities and Challenges for Indonesia](https://towardsdatascience.com/agentic-ai-in-finance-opportunities-and-challenges-for-indonesia/) (2025-10-22)
 - [Scaling Recommender Transformers to a Billion Parameters](https://towardsdatascience.com/scaling-recommender-transformers-to-a-billion-parameters/) (2025-10-21)
 - [Is RAG Dead? The Rise of Context Engineering and Semantic Layers for Agentic AI](https://towardsdatascience.com/beyond-rag/) (2025-10-21)
 - [Hidden Gems in NumPy: 7 Functions Every Data Scientist Should Know](https://towardsdatascience.com/hidden-gems-in-numpy-7-functions-every-data-scientist-should-know/) (2025-10-21)
 - [Implementing the Fourier Transform Numerically in Python: A Step-by-Step Guide](https://towardsdatascience.com/implementing-the-fourier-transform-numerically-in-python-a-step-by-step-guide/) (2025-10-21)
-- [How to Build An AI Agent with Function Calling and GPT-5](https://towardsdatascience.com/how-to-build-an-ai-agent-with-function-calling-and-gpt-5/) (2025-10-20)
 
 </details>
 
