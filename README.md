@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Amazon will buy thousands of pedal-assist cargo vehicles from Rivian spinoff Also](https://techcrunch.com/2025/10/22/amazon-will-buy-thousands-of-pedal-assist-cargo-vehicles-from-rivian-spinoff-also/) (2025-10-22)
-- [Should you trust Tools for Humanity’s iris-scanning orb?](https://techcrunch.com/video/should-you-trust-tools-for-humanitys-iris-scanning-orb/) (2025-10-22)
-- [What’s Updog? Datadog’s new tool tells you which apps are down](https://techcrunch.com/2025/10/22/whats-updog-datadogs-new-tool-tells-you-which-apps-are-down/) (2025-10-22)
-- [Rivian spinoff Also reveals a high-end modular e-bike for $4,500](https://techcrunch.com/2025/10/22/rivian-spinoff-also-reveals-a-high-end-modular-e-bike-for-4500/) (2025-10-22)
-- [Apple confirms it pulled controversial dating apps Tea & TeaOnHer from the App Store](https://techcrunch.com/2025/10/22/apple-confirms-it-pulled-controversial-dating-apps-tea-and-teaonher-from-the-app-store/) (2025-10-22)
+- [Elon Musk frets over controlling Tesla’s ‘robot army’ as car biz rebounds slightly](https://techcrunch.com/2025/10/22/elon-musk-frets-over-controlling-teslas-robot-army-as-car-biz-rebounds/) (2025-10-22)
+- [Snapchat makes its first open prompt AI Lens available for free in the US](https://techcrunch.com/2025/10/22/snapchat-makes-its-first-open-prompt-ai-lens-available-for-free-in-the-us/) (2025-10-22)
+- [Why Cohere’s ex-AI research lead is betting against the scaling race](https://techcrunch.com/2025/10/22/why-coheres-ex-ai-research-lead-is-betting-against-the-scaling-race/) (2025-10-22)
+- [OpenAI requested memorial attendee list in ChatGPT suicide lawsuit](https://techcrunch.com/2025/10/22/openai-requested-memorial-attendee-list-in-chatgpt-suicide-lawsuit/) (2025-10-22)
+- [OpenAI’s Atlas is more about ChatGPT than the web](https://techcrunch.com/2025/10/22/openais-atlas-is-more-about-chatgpt-than-the-web/) (2025-10-22)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [How do LLM's trade off lives between different categories?](https://arctotherium.substack.com/p/llm-exchange-rates-updated) (2025-10-22)
-- [JMAP for Calendars, Contacts and Files Now in Stalwart](https://stalw.art/blog/jmap-collaboration/) (2025-10-22)
-- [HP SitePrint](https://www.hp.com/us-en/printers/site-print/layout-robot.html) (2025-10-22)
-- [Look, Another AI Browser](https://manuelmoreale.com/thoughts/look-another-ai-browser) (2025-10-22)
-- [Bild AI (YC W25) Is Hiring a Founding AI Engineer](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai) (2025-10-22)
+- [VortexNet: Neural network based on fluid dynamics](https://github.com/samim23/vortexnet) (2025-10-22)
+- [Iceland reports the presence of mosquitoes as climate warms](https://www.npr.org/2025/10/22/nx-s1-5582748/iceland-mosquitoes-first-time) (2025-10-22)
+- [InpharmD (YC W21) Is Hiring – NLP Engineer](https://inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer) (2025-10-22)
+- [YASA beats own power density record pushing electric motor to 59kW/kg benchmark](https://yasa.com/news/yasa-smashes-own-unofficial-power-density-world-record-pushing-state-of-the-art-electric-motor-to-staggering-new-59kw-kg-benchmark/) (2025-10-22)
+- [Google flags Immich sites as dangerous](https://immich.app/blog/google-flags-immich-as-dangerous) (2025-10-22)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [This magnetic Qi 2.2 powerbank looks like a classic Sony Cybershot](https://www.theverge.com/news/804531/sharge-icemag-3-magsafe-qi-2-2-sony-cybershot) (2025-10-22)
-- [Reddit sues Perplexity for allegedly ripping its content to feed AI](https://www.theverge.com/news/804660/reddit-suing-perplexity-data-scrapers-ai-lawsuit) (2025-10-22)
-- [Rivian’s first e-bike is unlike anything you’ve ever seen](https://www.theverge.com/news/804157/rivian-tm-b-electric-bike-price-specs-helmet-quad) (2025-10-22)
-- [Inside Rivian’s $4,500 electric bike gamble](https://www.theverge.com/transportation/804163/rivian-also-tm-b-ebike-specs-price) (2025-10-22)
-- [The PlayStation 5 is $125 off straight from Sony](https://www.theverge.com/tech/804510/sony-playstation-5-ps-direct-deal-sale) (2025-10-22)
+- [Amazon claims the headline isn&#8217;t robots taking jobs as it reveals new cost-cutting robots](https://www.theverge.com/news/805098/amazon-robots-ai-warehouses) (2025-10-23)
+- [Musk wants to get rid of Tesla’s robotaxi babysitters ‘by the end of the year’](https://www.theverge.com/transportation/804972/tesla-robotaxi-safety-monitor-remove-austin-musk) (2025-10-22)
+- [Here are Amazon’s smart delivery glasses that guide drivers and scan packages](https://www.theverge.com/news/804962/amazon-reveals-smart-delivery-glasses-that-guide-drivers-and-scan-packages) (2025-10-22)
+- [Fandom&#8217;s CEO has left the company](https://www.theverge.com/entertainment/804821/fandom-ceo-perkins-miller-departure) (2025-10-22)
+- [Lomography made a new film camera that charges with USB-C](https://www.theverge.com/news/804782/lomography-lomo-mca-metal-35mm-film-camera-usbc-charging-price-specs) (2025-10-22)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Google has a useful quantum algorithm that outperforms a supercomputer](https://arstechnica.com/science/2025/10/google-claims-to-have-quantum-advantage-with-a-potentially-useful-algorithm/) (2025-10-22)
-- [Jaguar Land Rover looking at $2.5 billion price tag from crippling cyberattack](https://arstechnica.com/security/2025/10/jaguar-land-rover-struggling-8-weeks-after-most-expensive-uk-cyberattack/) (2025-10-22)
-- [FDA slows down on drug reviews, approvals amid Trump admin chaos](https://arstechnica.com/health/2025/10/fda-slows-down-on-drug-reviews-approvals-amid-trump-admin-chaos/) (2025-10-21)
-- [It’s troll vs. troll in Netflix’s Troll 2 trailer](https://arstechnica.com/culture/2025/10/troll-2-trailer-is-a-godzilla-inspired-monster-mash/) (2025-10-21)
-- [Elon Musk just declared war on NASA’s acting administrator, apparently](https://arstechnica.com/space/2025/10/elon-musk-just-declared-war-on-nasas-acting-administrator-apparently/) (2025-10-21)
+- [Cache poisoning vulnerabilities found in 2 DNS resolving apps](https://arstechnica.com/security/2025/10/bind-warns-of-bugs-that-could-bring-dns-cache-attack-back-from-the-dead/) (2025-10-22)
+- [Tesla profits fall 37% in Q3 despite healthy sales](https://arstechnica.com/cars/2025/10/tesla-profits-fall-37-in-q3-despite-healthy-sales/) (2025-10-22)
+- [This may be the most bonkers tech job listing I’ve ever seen](https://arstechnica.com/culture/2025/10/the-tech-ceo-who-would-eat-dog-poop-if-it-means-winning/) (2025-10-22)
+- [General Motors will integrate AI into its cars, plus new hands-free assist](https://arstechnica.com/cars/2025/10/ai-and-hands-free-driving-are-coming-to-gms-vehicles/) (2025-10-22)
+- [Health plan enrollment period is set to be horrifying for everyone this year](https://arstechnica.com/health/2025/10/health-care-costs-are-soaring-for-americans-and-2026-is-looking-grim/) (2025-10-22)
 
 </details>
 
@@ -75,11 +75,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [From karaoke terminals to AI résumés: The winners of GitHub’s For the Love of Code challenge](https://github.blog/open-source/from-karaoke-terminals-to-ai-resumes-the-winners-of-githubs-for-the-love-of-code-challenge/) (2025-10-22)
 - [Top security researcher shares their bug bounty process](https://github.blog/security/top-security-researcher-shares-their-bug-bounty-process/) (2025-10-22)
 - [How to update community health files with AI](https://github.blog/ai-and-ml/github-copilot/how-to-update-community-health-files-with-ai/) (2025-10-21)
 - [Inside the breach that broke the internet: The untold story of Log4Shell](https://github.blog/open-source/inside-the-breach-that-broke-the-internet-the-untold-story-of-log4shell/) (2025-10-20)
 - [Accelerate developer productivity with these 9 open source AI and MCP projects](https://github.blog/open-source/accelerate-developer-productivity-with-these-9-open-source-ai-and-mcp-projects/) (2025-10-17)
-- [How to navigate GitHub Universe (or any tech conference) if you’re an introvert](https://github.blog/news-insights/company-news/how-to-navigate-github-universe-or-any-tech-conference-if-youre-an-introvert/) (2025-10-16)
 
 </details>
 
@@ -97,25 +97,27 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [AI-Powered Git Commits: Alternative for GitHub Copilot with Mistral codestral](https://dev.to/d-oit/ai-powered-git-commits-alternative-for-github-copilot-with-mistral-codestral-502n) (2025-10-22)
-- [Calico Node Readiness Probe Failed Issues](https://dev.to/abirk/calico-node-readiness-probe-failed-issues-42i8) (2025-10-22)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... (Ep. 1 – Heswall GC)](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-50hm) (2025-10-22)
-- [🎥 I Built a Professional YouTube Downloader with Python - Here's How!](https://dev.to/dusmamud/i-built-a-professional-youtube-downloader-with-python-heres-how-p4b) (2025-10-22)
-- [Bring AI agents with Long-Term memory into production in minutes](https://dev.to/aws/bring-ai-agents-with-long-term-memory-into-production-in-minutes-338l) (2025-10-22)
+- [a introduction to deepseek API](https://dev.to/sengseng/a-introduction-to-deepseek-api-b92) (2025-10-23)
+- [LLM evaluation: a quick overview of Stax](https://dev.to/lethargicpanda/llm-evaluation-a-quick-overview-of-stax-51km) (2025-10-23)
+- [How I Removed Redux Toolkit From My React Native App](https://dev.to/martyroque/how-i-removed-redux-toolkit-from-my-react-native-app-3cjk) (2025-10-23)
+- [Keep Your AWS S3 Demo Assets Live: Automating Presigned URLs with Node.js](https://dev.to/dzeitman/keep-your-aws-s3-demo-assets-live-automating-presigned-urls-with-nodejs-9b0) (2025-10-23)
+- [3D Game Scene with Raylib](https://dev.to/justaguyfrombr/3d-game-scene-with-raylib-9d3) (2025-10-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09055770486شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dqdjksjdhd/09055770486%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-2ccaf8fff47b?source=rss------programming-5) (2025-10-22)
-- [** Free Nintendo eShop Codes You Can Actually Redeem (2025 List)**](https://medium.com/@ni2771239/free-nintendo-eshop-codes-you-can-actually-redeem-2025-list-a0e80b40efb3?source=rss------programming-5) (2025-10-22)
-- [The 2026 AI Apocalypse: 10 Jobs That Vanished Overnight](https://medium.com/@mahadrajpoot911/the-2026-ai-apocalypse-10-jobs-that-vanished-overnight-8f89f9541ebd?source=rss------programming-5) (2025-10-22)
-- [09055770486شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dqdjksjdhd/09055770486%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-433b4bec9dda?source=rss------programming-5) (2025-10-22)
-- [09055770486شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dqdjksjdhd/09055770486%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-673e3351bc12?source=rss------programming-5) (2025-10-22)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kydduiufxhiigcxfhug/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-d7209c1b5446?source=rss------programming-5) (2025-10-23)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kydduiufxhiigcxfhug/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-3256759a2d63?source=rss------programming-5) (2025-10-23)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kydduiufxhiigcxfhug/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-34b6499c75fa?source=rss------programming-5) (2025-10-23)
+- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@4skekejdijndbskwnwbs/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-586616b06696?source=rss------programming-5) (2025-10-23)
+- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@4skekejdijndbskwnwbs/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-83fc81a1195f?source=rss------programming-5) (2025-10-23)
 
 </details>
 
@@ -133,22 +135,22 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Innovation spotlight: How 3 customers are driving change with migration to Azure SQL](https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/) (2025-10-20)
 - [From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available](https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/) (2025-10-16)
 - [Sora 2 now available in Azure AI Foundry](https://azure.microsoft.com/en-us/blog/sora-2-now-available-in-azure-ai-foundry/) (2025-10-15)
 - [Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation](https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/) (2025-10-14)
 - [Accelerating open-source infrastructure development for frontier AI at scale](https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/) (2025-10-14)
+- [FYAI: Why developers will lead AI transformation across the enterprise](https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/) (2025-10-13)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [‘The Next Generation of Compute Is Driving AI,’ Technology Leader Says at NVIDIA AI Day Sydney](https://blogs.nvidia.com/blog/ai-day-sydney/) (2025-10-22)
 - [Open Source AI Week — How Developers and Contributors Are Advancing AI Innovation](https://blogs.nvidia.com/blog/open-source-ai-week/) (2025-10-22)
 - [UC Santa Cruz Maps Coastal Flooding With NVIDIA Accelerated Computing](https://blogs.nvidia.com/blog/uc-santa-cruz-maps-coastal-flooding/) (2025-10-21)
 - [NVIDIA and Google Cloud Accelerate Enterprise AI and Industrial Digitalization](https://blogs.nvidia.com/blog/nvidia-google-cloud-enterprise-ai-industrial-digitalization/) (2025-10-20)
 - [How AI Is Unlocking Level 4 Autonomous Driving](https://blogs.nvidia.com/blog/level-4-autonomous-driving-ai/) (2025-10-20)
-- [The Engines of American-Made Intelligence: NVIDIA and TSMC Celebrate First NVIDIA Blackwell Wafer Produced in the US](https://blogs.nvidia.com/blog/tsmc-blackwell-manufacturing/) (2025-10-17)
 
 </details>
 
@@ -506,11 +508,11 @@ https://www.twilio.com/en-us/blog/company/inside-twilio/2025-global-impact-week-
 <details>
 <summary>💬 Slack API</summary>
 
-- [Introducing the Agentic OS: How Slack Is Reimagining Work for the AI Era](https://slack.com/blog/news/dreamforce-slack-native-ai) (2025-10-20)
-- [Unlocking the Power of Conversation: How Slack’s New Platform is Fueling the Agentic Era](https://slack.com/blog/news/powering-agentic-collaboration) (2025-10-13)
-- [What Is Personalized Search, and How Does It Work?](https://slack.com/blog/productivity/what-is-personalized-search-and-how-does-it-work) (2025-10-07)
-- [AI Assistants: Everything You Need to Know](https://slack.com/blog/transformation/ai-assistants-what-they-do-and-why-you-need-them) (2025-10-07)
-- [A Complete Guide to AI Summarization: Benefits, Use Cases, and Tools](https://slack.com/blog/productivity/ai-summarization-a-guide-to-conquering-information-overload) (2025-10-01)
+- [What Is Multifactor Authentication (MFA): Definition and Benefits](https://slack.com/blog/productivity/what-is-multifactor-authentication-mfa-definition-and-benefits) (2025-10-22)
+- [How Strategic Planning Aligns Teams and Drives Results](https://slack.com/blog/collaboration/how-strategic-planning-aligns-teams-and-drives-results) (2025-10-21)
+- [Teamwork or Collaboration? Choosing the Right Approach](https://slack.com/blog/collaboration/teamwork-or-collaboration-choosing-the-right-approach) (2025-10-21)
+- [18 AI Tools Your Team Will Actually Want to Use](https://slack.com/blog/productivity/18-ai-tools-your-team-will-actually-want-to-use) (2025-10-21)
+- [What Is Time Management? Strategies for Success](https://slack.com/blog/productivity/what-is-time-management-strategies-for-success) (2025-10-21)
 
 </details>
 
