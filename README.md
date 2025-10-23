@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [As China’s 996 culture spreads, South Korea’s tech sector grapples with 52-hour limit](https://techcrunch.com/2025/10/22/as-chinas-996-culture-spreads-south-koreas-tech-sector-grapples-with-52-hour-limit/) (2025-10-23)
 - [Elon Musk frets over controlling Tesla’s ‘robot army’ as car biz rebounds slightly](https://techcrunch.com/2025/10/22/elon-musk-frets-over-controlling-teslas-robot-army-as-car-biz-rebounds/) (2025-10-22)
 - [Snapchat makes its first open prompt AI Lens available for free in the US](https://techcrunch.com/2025/10/22/snapchat-makes-its-first-open-prompt-ai-lens-available-for-free-in-the-us/) (2025-10-22)
 - [Why Cohere’s ex-AI research lead is betting against the scaling race](https://techcrunch.com/2025/10/22/why-coheres-ex-ai-research-lead-is-betting-against-the-scaling-race/) (2025-10-22)
 - [OpenAI requested memorial attendee list in ChatGPT suicide lawsuit](https://techcrunch.com/2025/10/22/openai-requested-memorial-attendee-list-in-chatgpt-suicide-lawsuit/) (2025-10-22)
-- [OpenAI’s Atlas is more about ChatGPT than the web](https://techcrunch.com/2025/10/22/openais-atlas-is-more-about-chatgpt-than-the-web/) (2025-10-22)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [VST3 audio plugin format is now MIT](https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988) (2025-10-23)
+- [The mild mannered Englishman who was the most prolific ghost hunter](https://lithub.com/the-mild-mannered-englishman-who-was-the-worlds-most-prolific-ghost-hunter/) (2025-10-23)
+- [Sodium-ion batteries have started to appear in cars and home storage](https://cleantechnica.com/2025/10/22/the-sodium-ion-battery-revolution-has-started/) (2025-10-23)
 - [VortexNet: Neural network based on fluid dynamics](https://github.com/samim23/vortexnet) (2025-10-22)
-- [Iceland reports the presence of mosquitoes as climate warms](https://www.npr.org/2025/10/22/nx-s1-5582748/iceland-mosquitoes-first-time) (2025-10-22)
 - [InpharmD (YC W21) Is Hiring – NLP Engineer](https://inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer) (2025-10-22)
-- [YASA beats own power density record pushing electric motor to 59kW/kg benchmark](https://yasa.com/news/yasa-smashes-own-unofficial-power-density-world-record-pushing-state-of-the-art-electric-motor-to-staggering-new-59kw-kg-benchmark/) (2025-10-22)
-- [Google flags Immich sites as dangerous](https://immich.app/blog/google-flags-immich-as-dangerous) (2025-10-22)
 
 </details>
 
@@ -86,38 +86,34 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [What leaders need to know from the 2025 Stack Overflow Developer Survey](https://stackoverflow.blog/2025/10/23/what-leaders-need-to-know-from-the-2025-stack-overflow-developer-survey/) (2025-10-23)
 - [Open source is giving you choices with your agent systems](https://stackoverflow.blog/2025/10/21/open-source-is-giving-you-choices-with-your-agent-systems/) (2025-10-21)
 - [From multilingual semantic search to virtual assistants at Bosch Digital](https://stackoverflow.blog/2025/10/20/from-multilingual-semantic-search-to-virtual-assistants-at-bosch-digital/) (2025-10-20)
 - [Why rent a cloud when you can build one?](https://stackoverflow.blog/2025/10/17/why-rent-a-cloud-when-you-can-build-one/) (2025-10-17)
 - [Secure coding in JavaScript](https://stackoverflow.blog/2025/10/15/secure-coding-in-javascript/) (2025-10-15)
-- [AI agents for your digital chores](https://stackoverflow.blog/2025/10/14/ai-agents-for-your-digital-chores/) (2025-10-14)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [a introduction to deepseek API](https://dev.to/sengseng/a-introduction-to-deepseek-api-b92) (2025-10-23)
-- [LLM evaluation: a quick overview of Stax](https://dev.to/lethargicpanda/llm-evaluation-a-quick-overview-of-stax-51km) (2025-10-23)
-- [How I Removed Redux Toolkit From My React Native App](https://dev.to/martyroque/how-i-removed-redux-toolkit-from-my-react-native-app-3cjk) (2025-10-23)
-- [Keep Your AWS S3 Demo Assets Live: Automating Presigned URLs with Node.js](https://dev.to/dzeitman/keep-your-aws-s3-demo-assets-live-automating-presigned-urls-with-nodejs-9b0) (2025-10-23)
-- [3D Game Scene with Raylib](https://dev.to/justaguyfrombr/3d-game-scene-with-raylib-9d3) (2025-10-23)
+- [Check out the guide on - Building Regression Models in R using Support Vector Regression (SVR)](https://dev.to/thedatageek/check-out-the-guide-on-building-regression-models-in-r-using-support-vector-regression-svr-4fb0) (2025-10-23)
+- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-492n) (2025-10-23)
+- [100 Days of DevOps: Day 76](https://dev.to/wycliffealphus/100-days-of-devops-day-76-1fi7) (2025-10-23)
+- [How AI Noise Cancellation for Call Centers Builds Real-Time Voice Fluency and Harmonization?](https://dev.to/allandermot/how-ai-noise-cancellation-for-call-centers-builds-real-time-voice-fluency-and-harmonization-5cfc) (2025-10-23)
+- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-10ll) (2025-10-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kydduiufxhiigcxfhug/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-d7209c1b5446?source=rss------programming-5) (2025-10-23)
-- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kydduiufxhiigcxfhug/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-3256759a2d63?source=rss------programming-5) (2025-10-23)
-- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kydduiufxhiigcxfhug/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-34b6499c75fa?source=rss------programming-5) (2025-10-23)
-- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@4skekejdijndbskwnwbs/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-586616b06696?source=rss------programming-5) (2025-10-23)
-- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@4skekejdijndbskwnwbs/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-83fc81a1195f?source=rss------programming-5) (2025-10-23)
+- [ Important Update: I’m Moving My Content to a New Medium Channel](https://medium.com/the-pythonworld/important-update-im-moving-my-content-to-a-new-medium-channel-ca51400f82db?source=rss------programming-5) (2025-10-23)
+- [STOP Using Python Dictionaries the Wrong Way — Here’s the Right Way!](https://medium.com/the-pythonworld/stop-using-python-dictionaries-the-wrong-way-heres-the-right-way-20d7ccd4b493?source=rss------programming-5) (2025-10-23)
+- [09338812675](https://medium.com/@s31208181/09338812675-c2973df1ca03?source=rss------programming-5) (2025-10-23)
+- [09338812675شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@s31208181/09338812675%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-c5bfd77a3aa1?source=rss------programming-5) (2025-10-23)
+- [The Python Automation That Made Me $1,200 Without Writing a Single Line of Content](https://medium.com/@SulemanSafdar/the-python-automation-that-made-me-1-200-without-writing-a-single-line-of-content-7bbd93493ce2?source=rss------programming-5) (2025-10-23)
 
 </details>
 
@@ -135,11 +131,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Innovation spotlight: How 3 customers are driving change with migration to Azure SQL](https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/) (2025-10-20)
 - [From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available](https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/) (2025-10-16)
 - [Sora 2 now available in Azure AI Foundry](https://azure.microsoft.com/en-us/blog/sora-2-now-available-in-azure-ai-foundry/) (2025-10-15)
 - [Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation](https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/) (2025-10-14)
 - [Accelerating open-source infrastructure development for frontier AI at scale](https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/) (2025-10-14)
-- [FYAI: Why developers will lead AI transformation across the enterprise](https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/) (2025-10-13)
 
 </details>
 
@@ -506,17 +502,6 @@ https://www.twilio.com/en-us/blog/company/inside-twilio/2025-global-impact-week-
 </details>
 
 <details>
-<summary>💬 Slack API</summary>
-
-- [What Is Multifactor Authentication (MFA): Definition and Benefits](https://slack.com/blog/productivity/what-is-multifactor-authentication-mfa-definition-and-benefits) (2025-10-22)
-- [How Strategic Planning Aligns Teams and Drives Results](https://slack.com/blog/collaboration/how-strategic-planning-aligns-teams-and-drives-results) (2025-10-21)
-- [Teamwork or Collaboration? Choosing the Right Approach](https://slack.com/blog/collaboration/teamwork-or-collaboration-choosing-the-right-approach) (2025-10-21)
-- [18 AI Tools Your Team Will Actually Want to Use](https://slack.com/blog/productivity/18-ai-tools-your-team-will-actually-want-to-use) (2025-10-21)
-- [What Is Time Management? Strategies for Success](https://slack.com/blog/productivity/what-is-time-management-strategies-for-success) (2025-10-21)
-
-</details>
-
-<details>
 <summary>🔒 Signal Blog</summary>
 
 - [Signal Protocol and Post-Quantum Ratchets](https://signal.org/blog/spqr/) (2025-10-02)
@@ -585,11 +570,11 @@ https://www.twilio.com/en-us/blog/company/inside-twilio/2025-global-impact-week-
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Less is More: Recursive Reasoning with Tiny Networks](https://www.analyticsvidhya.com/blog/2025/10/trm-recursive-reasoning/) (2025-10-23)
 - [RIP Prompt Engineering? Why Verbalized Sampling Changes Everything!](https://www.analyticsvidhya.com/blog/2025/10/verbalized-sampling/) (2025-10-22)
 - [5 Ways to Run LLMs Locally With Enhanced Privacy and Security ](https://www.analyticsvidhya.com/blog/2025/10/run-llms-locally-with-privacy-and-security/) (2025-10-22)
 - [Grokipedia: Wikipedia 2.0? ](https://www.analyticsvidhya.com/blog/2025/10/grokipedia/) (2025-10-21)
 - [No Job Apocalypse Coming: 10 AGI Myths Busted by Andrej Karapathy](https://www.analyticsvidhya.com/blog/2025/10/agi-myths-busted-by-andrej-karapathy/) (2025-10-21)
-- [DeepSeek’s New OCR Compresses Documents By 10x](https://www.analyticsvidhya.com/blog/2025/10/deepseeks-ocr/) (2025-10-21)
 
 </details>
 
