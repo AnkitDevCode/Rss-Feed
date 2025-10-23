@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Redwood Materials raises another $350M to power up its energy storage business](https://techcrunch.com/2025/10/23/redwood-materials-raises-another-350-million-to-power-up-its-energy-storage-business/) (2025-10-23)
 - [As China’s 996 culture spreads, South Korea’s tech sector grapples with 52-hour limit](https://techcrunch.com/2025/10/22/as-chinas-996-culture-spreads-south-koreas-tech-sector-grapples-with-52-hour-limit/) (2025-10-23)
 - [Elon Musk frets over controlling Tesla’s ‘robot army’ as car biz rebounds slightly](https://techcrunch.com/2025/10/22/elon-musk-frets-over-controlling-teslas-robot-army-as-car-biz-rebounds/) (2025-10-22)
 - [Snapchat makes its first open prompt AI Lens available for free in the US](https://techcrunch.com/2025/10/22/snapchat-makes-its-first-open-prompt-ai-lens-available-for-free-in-the-us/) (2025-10-22)
 - [Why Cohere’s ex-AI research lead is betting against the scaling race](https://techcrunch.com/2025/10/22/why-coheres-ex-ai-research-lead-is-betting-against-the-scaling-race/) (2025-10-22)
-- [OpenAI requested memorial attendee list in ChatGPT suicide lawsuit](https://techcrunch.com/2025/10/22/openai-requested-memorial-attendee-list-in-chatgpt-suicide-lawsuit/) (2025-10-22)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [VST3 audio plugin format is now MIT](https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988) (2025-10-23)
-- [The mild mannered Englishman who was the most prolific ghost hunter](https://lithub.com/the-mild-mannered-englishman-who-was-the-worlds-most-prolific-ghost-hunter/) (2025-10-23)
-- [Sodium-ion batteries have started to appear in cars and home storage](https://cleantechnica.com/2025/10/22/the-sodium-ion-battery-revolution-has-started/) (2025-10-23)
-- [VortexNet: Neural network based on fluid dynamics](https://github.com/samim23/vortexnet) (2025-10-22)
-- [InpharmD (YC W21) Is Hiring – NLP Engineer](https://inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer) (2025-10-22)
+- [Nango (YC W23) is hiring Staff Back end Engs (remote)](https://www.nango.dev/careers) (2025-10-23)
+- [The Game Theory of How Algorithms Can Drive Up Prices](https://www.quantamagazine.org/the-game-theory-of-how-algorithms-can-drive-up-prices-20251022/) (2025-10-23)
+- [SpaceX disables 2,500 Starlink terminals allegedly used by Asian scam centers](https://arstechnica.com/tech-policy/2025/10/starlink-blocks-2500-dishes-allegedly-used-by-myanmars-notorious-scam-centers/) (2025-10-23)
+- [Egg prices vs. Consumer Price Index since 1980](https://fred.stlouisfed.org/graph/?g=1Nm5b) (2025-10-23)
+- [PyTorch Monarch](https://pytorch.org/blog/introducing-pytorch-monarch/) (2025-10-23)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Amazon claims the headline isn&#8217;t robots taking jobs as it reveals new cost-cutting robots](https://www.theverge.com/news/805098/amazon-robots-ai-warehouses) (2025-10-23)
-- [Musk wants to get rid of Tesla’s robotaxi babysitters ‘by the end of the year’](https://www.theverge.com/transportation/804972/tesla-robotaxi-safety-monitor-remove-austin-musk) (2025-10-22)
-- [Here are Amazon’s smart delivery glasses that guide drivers and scan packages](https://www.theverge.com/news/804962/amazon-reveals-smart-delivery-glasses-that-guide-drivers-and-scan-packages) (2025-10-22)
-- [Fandom&#8217;s CEO has left the company](https://www.theverge.com/entertainment/804821/fandom-ceo-perkins-miller-departure) (2025-10-22)
-- [Lomography made a new film camera that charges with USB-C](https://www.theverge.com/news/804782/lomography-lomo-mca-metal-35mm-film-camera-usbc-charging-price-specs) (2025-10-22)
+- [The ChatGPT Atlas browser still feels like Googling with extra steps](https://www.theverge.com/ai-artificial-intelligence/804931/openai-chatgpt-atlas-hands-on-google-search) (2025-10-23)
+- [Ledger’s new Nano is meant to be more than just a crypto wallet](https://www.theverge.com/news/801726/ledger-nano-gen-5-crypto-signer-ai-authentication-susan-kare) (2025-10-23)
+- [Hands-free home security is here, thanks to ADT and Google — but it’ll cost you](https://www.theverge.com/tech/803867/adt-plus-home-security-google-nest-smart-home) (2025-10-23)
+- [OpenAI teases a string of updates for its AI-powered browser, ChatGPT Atlas](https://www.theverge.com/news/805160/openai-chatgpt-atlas-updates) (2025-10-23)
+- [The Espresso Pro portable monitor is a revolution for remote work](https://www.theverge.com/reviews/805112/the-espresso-pro-portable-monitor-is-a-revolution-for-remote-work) (2025-10-23)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [We let OpenAI’s “Agent Mode” surf the web for us—here’s what happened](https://arstechnica.com/features/2025/10/we-let-openais-agent-mode-surf-the-web-for-us-heres-what-happened/) (2025-10-23)
 - [Cache poisoning vulnerabilities found in 2 DNS resolving apps](https://arstechnica.com/security/2025/10/bind-warns-of-bugs-that-could-bring-dns-cache-attack-back-from-the-dead/) (2025-10-22)
 - [Tesla profits fall 37% in Q3 despite healthy sales](https://arstechnica.com/cars/2025/10/tesla-profits-fall-37-in-q3-despite-healthy-sales/) (2025-10-22)
 - [This may be the most bonkers tech job listing I’ve ever seen](https://arstechnica.com/culture/2025/10/the-tech-ceo-who-would-eat-dog-poop-if-it-means-winning/) (2025-10-22)
 - [General Motors will integrate AI into its cars, plus new hands-free assist](https://arstechnica.com/cars/2025/10/ai-and-hands-free-driving-are-coming-to-gms-vehicles/) (2025-10-22)
-- [Health plan enrollment period is set to be horrifying for everyone this year](https://arstechnica.com/health/2025/10/health-care-costs-are-soaring-for-americans-and-2026-is-looking-grim/) (2025-10-22)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: aluminium’s potential as a zero-carbon fuel, and what’s next for energy storage](https://www.technologyreview.com/2025/10/23/1126428/the-download-aluminiums-potential-as-a-zero-carbon-fuel-and-whats-next-for-energy-storage/) (2025-10-23)
+- [What a massive thermal battery means for energy storage](https://www.technologyreview.com/2025/10/23/1126419/thermal-batteries-energy-storage/) (2025-10-23)
+- [This startup is about to conduct the biggest real-world test of aluminum as a zero-carbon fuel](https://www.technologyreview.com/2025/10/23/1126397/startup-aluminum-zero-carbon-fuel/) (2025-10-23)
 - [ Introducing: the body issue](https://www.technologyreview.com/2025/10/22/1126376/introducing-the-body-issue/) (2025-10-22)
 - [3 Things Stephanie Arnett is into right now](https://www.technologyreview.com/2025/10/22/1125356/3-things-stephanie-arnett/) (2025-10-22)
-- [Dispatch: Partying at one of Africa’s largest AI gatherings](https://www.technologyreview.com/2025/10/22/1125361/africa-ai-policymaking-nyalleng-moorosi/) (2025-10-22)
-- [Job titles of the future: AI embryologist](https://www.technologyreview.com/2025/10/22/1125367/ai-embryologist-reproduction-future-jobs/) (2025-10-22)
-- [Inside the archives of the NASA Ames Research Center](https://www.technologyreview.com/2025/10/22/1125378/nasa-ames-research-center-archives/) (2025-10-22)
 
 </details>
 
@@ -97,45 +97,47 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Check out the guide on - Building Regression Models in R using Support Vector Regression (SVR)](https://dev.to/thedatageek/check-out-the-guide-on-building-regression-models-in-r-using-support-vector-regression-svr-4fb0) (2025-10-23)
-- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-492n) (2025-10-23)
-- [100 Days of DevOps: Day 76](https://dev.to/wycliffealphus/100-days-of-devops-day-76-1fi7) (2025-10-23)
-- [How AI Noise Cancellation for Call Centers Builds Real-Time Voice Fluency and Harmonization?](https://dev.to/allandermot/how-ai-noise-cancellation-for-call-centers-builds-real-time-voice-fluency-and-harmonization-5cfc) (2025-10-23)
-- [CinemaSins: Everything Wrong With M3GAN 2.0 In 25 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-m3gan-20-in-25-minutes-or-less-10ll) (2025-10-23)
+- [The out Parameter in Turbine: A Markdown-like Scripting Language](https://dev.to/tsubo164/the-out-parameter-in-turbine-a-markdown-like-scripting-language-53ab) (2025-10-23)
+- [Zshell [My Dev Environment]](https://dev.to/pkorsch/zshell-my-dev-environment-1mcl) (2025-10-23)
+- [Why Edge-Native MVNOs Are Critical for IoT Success: A Developer’s Perspective](https://dev.to/hassham_1_f5926bd173cb1a5/why-edge-native-mvnos-are-critical-for-iot-success-a-developers-perspective-43fb) (2025-10-23)
+- [From Beginner to Codex CLI Pro](https://dev.to/andyrewlee/from-beginner-to-codex-cli-pro-4no3) (2025-10-23)
+- [Developers Spend Just 1% of Coding Time Using VS Code's Debugger (11,805 Sessions Analyzed)](https://dev.to/floustate/developers-spend-just-1-of-coding-time-using-vs-codes-debugger-11805-sessions-analyzed-2b84) (2025-10-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ Important Update: I’m Moving My Content to a New Medium Channel](https://medium.com/the-pythonworld/important-update-im-moving-my-content-to-a-new-medium-channel-ca51400f82db?source=rss------programming-5) (2025-10-23)
-- [STOP Using Python Dictionaries the Wrong Way — Here’s the Right Way!](https://medium.com/the-pythonworld/stop-using-python-dictionaries-the-wrong-way-heres-the-right-way-20d7ccd4b493?source=rss------programming-5) (2025-10-23)
-- [09338812675](https://medium.com/@s31208181/09338812675-c2973df1ca03?source=rss------programming-5) (2025-10-23)
-- [09338812675شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@s31208181/09338812675%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-c5bfd77a3aa1?source=rss------programming-5) (2025-10-23)
-- [The Python Automation That Made Me $1,200 Without Writing a Single Line of Content](https://medium.com/@SulemanSafdar/the-python-automation-that-made-me-1-200-without-writing-a-single-line-of-content-7bbd93493ce2?source=rss------programming-5) (2025-10-23)
+- [09372091598شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@ufhdhdgddhdhhd/09372091598%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-969b81ce3a2e?source=rss------programming-5) (2025-10-23)
+- [The `match` Expression in PHP](https://ashallendesign-uk.medium.com/the-match-expression-in-php-5d6f991f48c0?source=rss------programming-5) (2025-10-23)
+- [09372091598شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@hddhfhdbbdfjjfhd/09372091598%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-b7400d19b69d?source=rss------programming-5) (2025-10-23)
+- [5 AI Tools That Made My Portfolio Stand Out Instantly](https://python.plainenglish.io/5-ai-tools-that-made-my-portfolio-stand-out-instantly-a2e6a924bfb5?source=rss------programming-5) (2025-10-23)
+- [09372091598شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@hddhfhdbbdfjjfhd/09372091598%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-aafd8a98caa1?source=rss------programming-5) (2025-10-23)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Introducing AWS RTB Fabric for real-time advertising technology workloads](https://aws.amazon.com/blogs/aws/introducing-aws-rtb-fabric-for-real-time-advertising-technology-workloads/) (2025-10-23)
 - [Customer Carbon Footprint Tool Expands: Additional emissions categories including Scope 3 are now available](https://aws.amazon.com/blogs/aws/aws-customer-carbon-footprint-tool-now-includes-scope-3-emissions/) (2025-10-22)
 - [AWS Weekly Roundup: Kiro waitlist, EBS Volume Clones, EC2 Capacity Manager, and more (October 20, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-kiro-waitlist-ebs-volume-clones-ec2-capacity-manager-and-more-october-20-2025/) (2025-10-20)
 - [Monitor, analyze, and manage capacity usage from a single interface with Amazon EC2 Capacity Manager](https://aws.amazon.com/blogs/aws/monitor-analyze-and-manage-capacity-usage-from-a-single-interface-with-amazon-ec2-capacity-manager/) (2025-10-16)
 - [Introducing Amazon EBS Volume Clones: Create instant copies of your EBS volumes](https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-create-instant-copies-of-your-ebs-volumes/) (2025-10-14)
-- [AWS Transfer Family SFTP connectors now support VPC-based connectivity](https://aws.amazon.com/blogs/aws/aws-transfer-family-sftp-connectors-now-support-vpc-based-connectivity/) (2025-10-14)
 
 </details>
 
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Innovation spotlight: How 3 customers are driving change with migration to Azure SQL](https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/) (2025-10-20)
 - [From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available](https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/) (2025-10-16)
 - [Sora 2 now available in Azure AI Foundry](https://azure.microsoft.com/en-us/blog/sora-2-now-available-in-azure-ai-foundry/) (2025-10-15)
 - [Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation](https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/) (2025-10-14)
 - [Accelerating open-source infrastructure development for frontier AI at scale](https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/) (2025-10-14)
+- [FYAI: Why developers will lead AI transformation across the enterprise](https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/) (2025-10-13)
 
 </details>
 
@@ -307,11 +309,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Getting Started With Kotlin for Java Developers](https://blog.jetbrains.com/kotlin/2025/10/getting-started-with-kotlin-for-java-developers/) (2025-10-23)
 - [Introducing Matter: The AI Development Companion for Product Teams](https://blog.jetbrains.com/matter/2025/10/introducing-matter-the-ai-development-companion-for-product-teams/) (2025-10-22)
 - [From Python to Kotlin: A Transition Worth Making](https://blog.jetbrains.com/kotlin/2025/10/from-python-to-kotlin-a-transition-worth-making/) (2025-10-22)
 - [Coming to Rider 2025.3: ASP.NET and Database Issue Detection In The Monitoring Tool Window](https://blog.jetbrains.com/dotnet/2025/10/20/rider-2025-3-asp-dotnet-and-database-issue-monitoring/) (2025-10-20)
 - [Computer Science Learning Curve: Insights from 18k Learners Worldwide](https://blog.jetbrains.com/research/2025/10/computer-science-learning-curve/) (2025-10-20)
-- [Koog 0.5.0 Is Out: Smarter Tools, Persistent Agents, and Simplified Strategy Design](https://blog.jetbrains.com/ai/2025/10/koog-0-5-0-is-out-smarter-tools-persistent-agents-and-simplified-strategy-design/) (2025-10-17)
 
 </details>
 
@@ -537,33 +539,33 @@ https://www.twilio.com/en-us/blog/company/inside-twilio/2025-global-impact-week-
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Hugging Face and VirusTotal collaborate to strengthen AI security](https://huggingface.co/blog/virustotal) (2025-10-22)
 - [Sentence Transformers is joining Hugging Face!](https://huggingface.co/blog/sentence-transformers-joins-hf) (2025-10-22)
 - [Supercharge your OCR Pipelines with Open Models](https://huggingface.co/blog/ocr-open-models) (2025-10-21)
 - [Unlock the power of images with AI Sheets](https://huggingface.co/blog/aisheets-unlock-images) (2025-10-21)
 - [Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face](https://huggingface.co/blog/gpt-oss-on-intel-xeon) (2025-10-16)
-- [Get your VLM running in 3 simple steps on Intel CPUs](https://huggingface.co/blog/openvino-vlm) (2025-10-15)
 
 </details>
 
 <details>
 <summary>🤖 AI News</summary>
 
+- [How do AI ‘humanisers’ compare to human editing?](https://www.artificialintelligence-news.com/news/how-do-ai-humanisers-compare-to-human-editing/) (2025-10-23)
+- [OpenAI data residency advances enterprise AI governance](https://www.artificialintelligence-news.com/news/openai-data-residency-advances-enterprise-ai-governance/) (2025-10-23)
+- [Meta hires and fires AI workers: Behind the contradiction](https://www.artificialintelligence-news.com/news/meta-ai-job-cuts-hiring-contradiction-2025/) (2025-10-23)
 - [MCP prompt hijacking: Examining the major AI security threat](https://www.artificialintelligence-news.com/news/mcp-prompt-hijacking-examining-major-ai-security-threat/) (2025-10-22)
 - [AI is changing how we build links for SEO](https://www.artificialintelligence-news.com/news/ai-is-changing-how-we-build-links-for-seo/) (2025-10-22)
-- [How AI adoption is moving IT operations from reactive to proactive](https://www.artificialintelligence-news.com/news/how-ai-adoption-it-operations-reactive-to-proactive/) (2025-10-21)
-- [Businesses still face the AI data challenge](https://www.artificialintelligence-news.com/news/businesses-still-face-the-ai-data-challenge/) (2025-10-21)
-- [How accounting firms are using AI agents to reclaim time and trust](https://www.artificialintelligence-news.com/news/finance-ai-reclaiming-time-trust-with-openai-chatgpt/) (2025-10-21)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Multiple Linear Regression, Explained Simply (Part 1)](https://towardsdatascience.com/multiple-linear-regression-math-explained-simply-part-1/) (2025-10-23)
 - [Why Should We Bother with Quantum Computing in ML?](https://towardsdatascience.com/why-should-we-bother-with-quantum-computing-in-ml/) (2025-10-22)
 - [Federated Learning and Custom Aggregation Schemes](https://towardsdatascience.com/federated-learning-and-custom-aggregation-schemes/) (2025-10-22)
 - [Implementing DRIFT Search with Neo4j and LlamaIndex](https://towardsdatascience.com/implementing-drift-search-with-neo4j-and-llamaindex/) (2025-10-22)
 - [Agentic AI in Finance: Opportunities and Challenges for Indonesia](https://towardsdatascience.com/agentic-ai-in-finance-opportunities-and-challenges-for-indonesia/) (2025-10-22)
-- [Scaling Recommender Transformers to a Billion Parameters](https://towardsdatascience.com/scaling-recommender-transformers-to-a-billion-parameters/) (2025-10-21)
 
 </details>
 
