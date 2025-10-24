@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Introducing Build Mode: TechCrunch’s new podcast for founders ](https://techcrunch.com/2025/10/23/introducing-build-mode-techcrunchs-new-podcast-for-founders/) (2025-10-23)
-- [San Francisco Mayor Daniel Lurie is coming to TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/23/san-francisco-mayor-daniel-lurie-is-coming-to-techcrunch-disrupt-2025/) (2025-10-23)
-- [Two days after OpenAI’s Atlas, Microsoft launches a nearly identical AI browser](https://techcrunch.com/2025/10/23/two-days-after-openais-atlas-microsoft-launches-a-nearly-identical-ai-browser/) (2025-10-23)
-- [Microsoft’s Mico is a ‘Clippy’ for the AI era](https://techcrunch.com/2025/10/23/microsofts-mico-is-a-clippy-for-the-ai-era/) (2025-10-23)
-- [Trump pardons Binance founder Changpeng Zhao](https://techcrunch.com/2025/10/23/trump-pardons-binance-founder-changpeng-zhao/) (2025-10-23)
+- [With an Intel recovery underway, all eyes turn to its foundry business](https://techcrunch.com/2025/10/23/with-an-intel-recovery-underway-all-eyes-turn-to-its-foundry-business/) (2025-10-24)
+- [Ford isn’t going to make more F-150 Lightnings for a while](https://techcrunch.com/2025/10/23/ford-isnt-going-to-make-more-f-150-lightnings-for-a-while/) (2025-10-23)
+- [Trump credits Benioff, Huang for decision not to ‘surge’ Fed troops into San Francisco](https://techcrunch.com/2025/10/23/trump-credits-benioff-huang-for-decision-not-to-surge-fed-troops-into-san-francisco/) (2025-10-23)
+- [OpenAI buys Sky, an AI interface for Mac](https://techcrunch.com/2025/10/23/openai-buys-sky-an-ai-interface-for-mac/) (2025-10-23)
+- [Rivian CEO takes top marketing role in shakeup ahead of R2 launch](https://techcrunch.com/2025/10/23/rivian-ceo-takes-top-marketing-role-in-shakeup-ahead-of-r2-launch/) (2025-10-23)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [OpenMaxIO is a community-maintained fork of MinIO](https://github.com/OpenMaxIO/openmaxio-object-browser) (2025-10-23)
-- [U.S. Details Gambling Cases Involving Pro Athletes and Mafia Families](https://www.nytimes.com/live/2025/10/23/nyregion/nba-illegal-gambling-arrests) (2025-10-23)
-- [Make Any TypeScript Function Durable](https://useworkflow.dev/) (2025-10-23)
-- [Google Earth AI expanding access around the globe](https://blog.google/technology/research/new-updates-and-more-access-to-google-earth-ai/) (2025-10-23)
-- [Claude Memory](https://www.anthropic.com/news/memory) (2025-10-23)
+- [React Flow, open source libraries for node-based UIs with React or Svelte](https://github.com/xyflow/xyflow) (2025-10-23)
+- [Introduction to the concept of likelihood and its applications (2018)](https://journals.sagepub.com/doi/10.1177/2515245917744314) (2025-10-23)
+- [Populism Fast and Slow](https://josephheath.substack.com/p/populism-fast-and-slow) (2025-10-23)
+- [AI discovers a 5x faster MoE load balancing algorithm than human experts](https://adrs-ucb.notion.site/moe-load-balancing) (2025-10-23)
+- [Apple loses UK App Store monopoly case, penalty might near $2B](https://9to5mac.com/2025/10/23/apple-loses-uk-app-store-monopoly-case-penalty-might-near-2-billion/) (2025-10-23)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [PUBG maker Krafton is turning into an &#8216;AI first&#8217; developer](https://www.theverge.com/news/805509/krafton-pubg-ai-first-developer-agentic-gpu-cluster) (2025-10-23)
-- [Netflix, Amazon, and Apple are reportedly interested in buying Warner Bros.](https://www.theverge.com/news/805387/warner-bros-sale-netflix-amazon-apple-interested) (2025-10-23)
-- [Anthropic’s Claude chatbot is getting a ‘memory’ upgrade](https://www.theverge.com/news/804124/anthropic-claude-ai-memory-upgrade-all-subscribers) (2025-10-23)
-- [Elden Ring on the Switch 2 is delayed until 2026](https://www.theverge.com/games/805381/elden-ring-tarnished-edition-nintendo-switch-2-delay) (2025-10-23)
-- [Meet Mico, Microsoft&#8217;s AI version of Clippy](https://www.theverge.com/news/804106/microsoft-mico-copilot-ai-assistant-clippy) (2025-10-23)
+- [Intel’s tick-tock isn’t coming back, and everything else I just learned](https://www.theverge.com/tech/805652/intel-q3-2025-earnings-18a-panther-lake-ai-gpus-annual) (2025-10-23)
+- [The best Sonos speakers to buy in 2025](https://www.theverge.com/tech/652171/best-sonos-speakers) (2025-10-23)
+- [Microsoft Edge’s new Copilot Mode turns on more AI features](https://www.theverge.com/news/805833/microsoft-edge-copilot-mode-ai-launch) (2025-10-23)
+- [Nintendo&#8217;s chips let this Lego Game Boy upgrade kit play real cartridges](https://www.theverge.com/games/805673/nintendos-chips-make-this-lego-game-boy-upgrade-kit-the-most-authentic) (2025-10-23)
+- [Nike designed new gear to keep athletes cool in a warming world](https://www.theverge.com/news/805823/nike-peformance-apparel-heat-football) (2025-10-23)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Valve upends the CS2 item marketplace with new “trade up” update](https://arstechnica.com/gaming/2025/10/valve-upends-the-cs2-item-marketplace-with-new-trade-up-update/) (2025-10-23)
-- [Great hybrid V6, lousy HMI: Three days with a Ferrari 296 GTB](https://arstechnica.com/cars/2025/10/great-hybrid-v6-lousy-hmi-three-days-with-a-ferrari-296-gtb/) (2025-10-23)
-- [Trump eyes government control of quantum computing firms with Intel-like deals](https://arstechnica.com/tech-policy/2025/10/trumps-industry-meddling-may-give-us-a-stake-in-quantum-computing-firms/) (2025-10-23)
-- [Reports suggest Apple is already pulling back on the iPhone Air](https://arstechnica.com/gadgets/2025/10/early-indicators-analyst-reports-suggest-apples-iphone-air-isnt-taking-off/) (2025-10-23)
-- [An outcast faces a deadly alien world in Predator: Badlands trailer](https://arstechnica.com/culture/2025/10/an-outcast-faces-a-deadly-alien-world-in-predator-badlands-trailer/) (2025-10-23)
+- [With new acquisition, OpenAI signals plans to integrate deeper into the OS](https://arstechnica.com/ai/2025/10/openai-acquires-the-team-that-made-apples-shortcuts/) (2025-10-23)
+- [Lawsuit: Reddit caught Perplexity “red-handed” stealing data from Google results](https://arstechnica.com/tech-policy/2025/10/reddit-sues-to-block-perplexity-from-scraping-google-search-results/) (2025-10-23)
+- [Researchers show that training on “junk data” can lead to LLM “brain rot”](https://arstechnica.com/ai/2025/10/researchers-show-that-training-on-junk-data-can-lead-to-llm-brain-rot/) (2025-10-23)
+- [Dinosaurs may have flourished right up to when the asteroid hit](https://arstechnica.com/science/2025/10/dinosaurs-may-have-flourished-right-up-to-when-the-asteroid-hit/) (2025-10-23)
+- [An NIH director joins MAHA, gets replaced by JD Vance’s close friend](https://arstechnica.com/health/2025/10/an-nih-director-joins-maha-gets-replaced-by-jd-vances-close-friend/) (2025-10-23)
 
 </details>
 
@@ -75,11 +75,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [The road to better completions: Building a faster, smarter GitHub Copilot with a new custom model](https://github.blog/ai-and-ml/github-copilot/the-road-to-better-completions-building-a-faster-smarter-github-copilot-with-a-new-custom-model/) (2025-10-23)
 - [From karaoke terminals to AI résumés: The winners of GitHub’s For the Love of Code challenge](https://github.blog/open-source/from-karaoke-terminals-to-ai-resumes-the-winners-of-githubs-for-the-love-of-code-challenge/) (2025-10-22)
 - [Top security researcher shares their bug bounty process](https://github.blog/security/top-security-researcher-shares-their-bug-bounty-process/) (2025-10-22)
 - [How to update community health files with AI](https://github.blog/ai-and-ml/github-copilot/how-to-update-community-health-files-with-ai/) (2025-10-21)
 - [Inside the breach that broke the internet: The untold story of Log4Shell](https://github.blog/open-source/inside-the-breach-that-broke-the-internet-the-untold-story-of-log4shell/) (2025-10-20)
-- [Accelerate developer productivity with these 9 open source AI and MCP projects](https://github.blog/open-source/accelerate-developer-productivity-with-these-9-open-source-ai-and-mcp-projects/) (2025-10-17)
 
 </details>
 
@@ -97,27 +97,26 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Olá pessoal, se você encontrar alguma área que não esteja traduzida ou traduzida incorretamente, sinta-se à vontade para nos informar em https://core.forem.com ou abra um problema diretamente em https://github.com/forem/forem](https://dev.to/ben/ola-pessoal-se-voce-encontrar-alguma-area-que-nao-esteja-traduzida-ou-traduzida-incorretamente-3jd2) (2025-10-23)
-- [I Built an AI Resume Butler That Actually Gets You Interviews (Auth0 Made It Possible)](https://dev.to/varshithvhegde/i-built-an-ai-resume-butler-that-actually-gets-you-interviews-auth0-made-it-possible-2n0d) (2025-10-23)
-- [A marketer's hour of hell: What I finally get about slow builds](https://dev.to/depot/a-marketers-hour-of-hell-what-i-finally-get-about-slow-builds-4jg4) (2025-10-23)
-- [🧠10 Semantic & Practical Frontend Tips Every Developer Should Know in 2025](https://dev.to/priyanshu_buley/10-semantic-practical-frontend-tips-every-developer-should-know-in-2025-5e8m) (2025-10-23)
-- [Unlock Real-Time AI Art: Smarter Caching for Diffusion Models](https://dev.to/arvind_sundararajan/unlock-real-time-ai-art-smarter-caching-for-diffusion-models-984) (2025-10-23)
+- [OpenStreetMap's software ecosystem and tools](https://dev.to/tylerlwsmith/openstreetmaps-software-ecosystem-and-tools-m09) (2025-10-24)
+- [💡 Discovering `CustomMultiChildLayout` in Flutter: A Personal Journey](https://dev.to/artkinx/discovering-custommultichildlayout-in-flutter-a-personal-journey-1fi5) (2025-10-24)
+- [GitScroll I: The Unbroken Line](https://dev.to/flyingrobots/gitscroll-i-the-unbroken-line-5ba0) (2025-10-24)
+- [Tool Calling dando mãos e olhos aos modelos de linguagem (LLMs)](https://dev.to/wandealves/tool-calling-dando-maos-e-olhos-aos-modelos-de-linguagem-llms-275b) (2025-10-24)
+- [The GitHub Actions Documentation Problem: Managing Multiple Actions (And How to Fix It)](https://dev.to/reakaleek/the-github-actions-documentation-problem-managing-multiple-actions-and-how-to-fix-it-3910) (2025-10-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09035285784شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kfnkmfmn/09035285784%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-2c6d1ad76d26?source=rss------programming-5) (2025-10-23)
-- [09035285784شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kfnkmfmn/09035285784%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-14ea17e5024f?source=rss------programming-5) (2025-10-23)
-- [09035285784شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kfnkmfmn/09035285784%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-04ee86e8502d?source=rss------programming-5) (2025-10-23)
-- [09035285784شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kfnckfkm/09035285784%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-0b1c640ee679?source=rss------programming-5) (2025-10-23)
-- [09035285784شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kfnckfkm/09035285784%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-b2bb2b1a09ca?source=rss------programming-5) (2025-10-23)
+- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@2keoekejenskkwkwkw/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-11fab15081a4?source=rss------programming-5) (2025-10-24)
+- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@2keoekejenskkwkwkw/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-c81c2b769c15?source=rss------programming-5) (2025-10-24)
+- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@2keoekejenskkwkwkw/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-fa1772a06fa7?source=rss------programming-5) (2025-10-24)
+- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@1vjcjicifufkfgkhxdyhs/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-a7109122de35?source=rss------programming-5) (2025-10-24)
+- [10 Python One-Liners That’ll Make JSON Parsing Feel Like Magic](https://medium.com/pyzilla/python-json-parsing-one-liners-c62be62a1ab5?source=rss------programming-5) (2025-10-24)
 
 </details>
 
@@ -135,11 +134,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Fully managed cloud-to-cloud transfers with Azure Storage Mover](https://azure.microsoft.com/en-us/blog/fully-managed-cloud-to-cloud-transfers-with-azure-storage-mover/) (2025-10-23)
+- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2025-10-22)
+- [The Signals Loop: Fine-tuning for world-class AI apps and agents ](https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/) (2025-10-21)
 - [Innovation spotlight: How 3 customers are driving change with migration to Azure SQL](https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/) (2025-10-20)
 - [From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available](https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/) (2025-10-16)
-- [Sora 2 now available in Azure AI Foundry](https://azure.microsoft.com/en-us/blog/sora-2-now-available-in-azure-ai-foundry/) (2025-10-15)
-- [Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation](https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/) (2025-10-14)
-- [Accelerating open-source infrastructure development for frontier AI at scale](https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/) (2025-10-14)
 
 </details>
 
@@ -168,11 +167,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Set a reminder: Tune in on October 30 for our Fall episode of The Android Show, live from Droidcon London](https://android-developers.googleblog.com/2025/10/set-reminder-tune-in-on-october-30-for.html) (2025-10-23)
 - [Optimizing Performance for Android XR with Unity](https://android-developers.googleblog.com/2025/10/optimizing-performance-for-android-xr.html) (2025-10-23)
 - [Getting started with Unity and Android XR](https://android-developers.googleblog.com/2025/10/getting-started-with-unity-and-android.html) (2025-10-23)
 - [Bringing Androidify to XR with the Jetpack XR SDK](https://android-developers.googleblog.com/2025/10/bringing-androidify-to-xr-with-jetpack.html) (2025-10-22)
 - [Giving your apps a new home on Samsung Galaxy XR, the first device powered by Android XR](https://android-developers.googleblog.com/2025/10/giving-your-apps-new-home-on-samsung.html) (2025-10-22)
-- [Welcome to Android XR Spotlight Week!](https://android-developers.googleblog.com/2025/10/welcome-to-android-xr-spotlight-week.html) (2025-10-22)
 
 </details>
 
@@ -256,11 +255,11 @@
 <details>
 <summary>👥 Facebook Engineering</summary>
 
+- [Scaling Privacy Infrastructure for GenAI Product Innovation](https://engineering.fb.com/2025/10/23/security/scaling-privacy-infrastructure-for-genai-product-innovation/) (2025-10-23)
 - [Disaggregated Scheduled Fabric: Scaling Meta’s AI Journey](https://engineering.fb.com/2025/10/20/data-center-engineering/disaggregated-scheduled-fabric-scaling-metas-ai-journey/) (2025-10-20)
 - [Scaling LLM Inference: Innovations in Tensor Parallelism, Context Parallelism, and Expert Parallelism](https://engineering.fb.com/2025/10/17/ai-research/scaling-llm-inference-innovations-tensor-parallelism-context-parallelism-expert-parallelism/) (2025-10-17)
 - [Branching in a Sapling Monorepo](https://engineering.fb.com/2025/10/16/developer-tools/branching-in-a-sapling-monorepo/) (2025-10-16)
 - [10X Backbone: How Meta Is Scaling Backbone Connectivity for AI](https://engineering.fb.com/2025/10/16/data-center-engineering/10x-backbone-how-meta-is-scaling-backbone-connectivity-for-ai/) (2025-10-16)
-- [Design for Sustainability: New Design Principles for Reducing IT Hardware Emissions](https://engineering.fb.com/2025/10/14/data-center-engineering/design-for-sustainability-new-design-principles-for-reducing-it-hardware-emissions/) (2025-10-14)
 
 </details>
 
@@ -311,11 +310,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [How BoldSign Modernized Development at Scale With JetBrains dotUltimate](https://blog.jetbrains.com/dotnet/2025/10/23/how-boldsign-modernized-development-at-scale-with-jetbrains-dotultimate/) (2025-10-23)
 - [Why Performance Matters in Python Development](https://blog.jetbrains.com/pycharm/2025/10/why-performance-matters-in-python-development/) (2025-10-23)
 - [Getting Started With Kotlin for Java Developers](https://blog.jetbrains.com/kotlin/2025/10/getting-started-with-kotlin-for-java-developers/) (2025-10-23)
 - [Introducing Matter: The AI Development Companion for Product Teams](https://blog.jetbrains.com/matter/2025/10/introducing-matter-the-ai-development-companion-for-product-teams/) (2025-10-22)
 - [From Python to Kotlin: A Transition Worth Making](https://blog.jetbrains.com/kotlin/2025/10/from-python-to-kotlin-a-transition-worth-making/) (2025-10-22)
-- [Coming to Rider 2025.3: ASP.NET and Database Issue Detection In The Monitoring Tool Window](https://blog.jetbrains.com/dotnet/2025/10/20/rider-2025-3-asp-dotnet-and-database-issue-monitoring/) (2025-10-20)
 
 </details>
 
@@ -508,11 +507,11 @@ https://www.twilio.com/en-us/blog/company/inside-twilio/2025-global-impact-week-
 <details>
 <summary>💬 Slack API</summary>
 
-- [Introducing the Agentic OS: How Slack Is Reimagining Work for the AI Era](https://slack.com/blog/news/dreamforce-slack-native-ai) (2025-10-20)
-- [Unlocking the Power of Conversation: How Slack’s New Platform is Fueling the Agentic Era](https://slack.com/blog/news/powering-agentic-collaboration) (2025-10-13)
-- [What Is Personalized Search, and How Does It Work?](https://slack.com/blog/productivity/what-is-personalized-search-and-how-does-it-work) (2025-10-07)
-- [AI Assistants: Everything You Need to Know](https://slack.com/blog/transformation/ai-assistants-what-they-do-and-why-you-need-them) (2025-10-07)
-- [A Complete Guide to AI Summarization: Benefits, Use Cases, and Tools](https://slack.com/blog/productivity/ai-summarization-a-guide-to-conquering-information-overload) (2025-10-01)
+- [What Is Multifactor Authentication (MFA): Definition and Benefits](https://slack.com/blog/productivity/what-is-multifactor-authentication-mfa-definition-and-benefits) (2025-10-22)
+- [How Strategic Planning Aligns Teams and Drives Results](https://slack.com/blog/collaboration/how-strategic-planning-aligns-teams-and-drives-results) (2025-10-21)
+- [Teamwork or Collaboration? Choosing the Right Approach](https://slack.com/blog/collaboration/teamwork-or-collaboration-choosing-the-right-approach) (2025-10-21)
+- [18 AI Tools Your Team Will Actually Want to Use](https://slack.com/blog/productivity/18-ai-tools-your-team-will-actually-want-to-use) (2025-10-21)
+- [What Is Time Management? Strategies for Success](https://slack.com/blog/productivity/what-is-time-management-strategies-for-success) (2025-10-21)
 
 </details>
 
