@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Big tech is paying for Trump’s White House ballroom](https://techcrunch.com/2025/10/23/big-tech-is-paying-for-trumps-white-house-ballroom/) (2025-10-24)
 - [With an Intel recovery underway, all eyes turn to its foundry business](https://techcrunch.com/2025/10/23/with-an-intel-recovery-underway-all-eyes-turn-to-its-foundry-business/) (2025-10-24)
 - [Ford isn’t going to make more F-150 Lightnings for a while](https://techcrunch.com/2025/10/23/ford-isnt-going-to-make-more-f-150-lightnings-for-a-while/) (2025-10-23)
 - [Trump credits Benioff, Huang for decision not to ‘surge’ Fed troops into San Francisco](https://techcrunch.com/2025/10/23/trump-credits-benioff-huang-for-decision-not-to-surge-fed-troops-into-san-francisco/) (2025-10-23)
 - [OpenAI buys Sky, an AI interface for Mac](https://techcrunch.com/2025/10/23/openai-buys-sky-an-ai-interface-for-mac/) (2025-10-23)
-- [Rivian CEO takes top marketing role in shakeup ahead of R2 launch](https://techcrunch.com/2025/10/23/rivian-ceo-takes-top-marketing-role-in-shakeup-ahead-of-r2-launch/) (2025-10-23)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [React Flow, open source libraries for node-based UIs with React or Svelte](https://github.com/xyflow/xyflow) (2025-10-23)
-- [Introduction to the concept of likelihood and its applications (2018)](https://journals.sagepub.com/doi/10.1177/2515245917744314) (2025-10-23)
-- [Populism Fast and Slow](https://josephheath.substack.com/p/populism-fast-and-slow) (2025-10-23)
-- [AI discovers a 5x faster MoE load balancing algorithm than human experts](https://adrs-ucb.notion.site/moe-load-balancing) (2025-10-23)
-- [Apple loses UK App Store monopoly case, penalty might near $2B](https://9to5mac.com/2025/10/23/apple-loses-uk-app-store-monopoly-case-penalty-might-near-2-billion/) (2025-10-23)
+- [JupyterGIS breaks through to the next level](https://eo4society.esa.int/2025/10/16/jupytergis-breaks-through-to-the-next-level/) (2025-10-24)
+- [Roc Camera](https://roc.camera/) (2025-10-24)
+- [Fast-DLLM: Training-Free Acceleration of Diffusion LLM](https://arxiv.org/abs/2505.22618) (2025-10-24)
+- [Computer science courses that don't exist, but should (2015)](https://prog21.dadgum.com/210.html) (2025-10-24)
+- [Counter-Strike's player economy is in a multi-billion dollar freefall](https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall/) (2025-10-24)
 
 </details>
 
@@ -86,37 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Your runbooks are obsolete in the age of agents](https://stackoverflow.blog/2025/10/24/your-runbooks-are-obsolete-in-the-age-of-agents/) (2025-10-24)
 - [What leaders need to know from the 2025 Stack Overflow Developer Survey](https://stackoverflow.blog/2025/10/23/what-leaders-need-to-know-from-the-2025-stack-overflow-developer-survey/) (2025-10-23)
 - [Open source is giving you choices with your agent systems](https://stackoverflow.blog/2025/10/21/open-source-is-giving-you-choices-with-your-agent-systems/) (2025-10-21)
 - [From multilingual semantic search to virtual assistants at Bosch Digital](https://stackoverflow.blog/2025/10/20/from-multilingual-semantic-search-to-virtual-assistants-at-bosch-digital/) (2025-10-20)
 - [Why rent a cloud when you can build one?](https://stackoverflow.blog/2025/10/17/why-rent-a-cloud-when-you-can-build-one/) (2025-10-17)
-- [Secure coding in JavaScript](https://stackoverflow.blog/2025/10/15/secure-coding-in-javascript/) (2025-10-15)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [OpenStreetMap's software ecosystem and tools](https://dev.to/tylerlwsmith/openstreetmaps-software-ecosystem-and-tools-m09) (2025-10-24)
-- [💡 Discovering `CustomMultiChildLayout` in Flutter: A Personal Journey](https://dev.to/artkinx/discovering-custommultichildlayout-in-flutter-a-personal-journey-1fi5) (2025-10-24)
-- [GitScroll I: The Unbroken Line](https://dev.to/flyingrobots/gitscroll-i-the-unbroken-line-5ba0) (2025-10-24)
-- [Tool Calling dando mãos e olhos aos modelos de linguagem (LLMs)](https://dev.to/wandealves/tool-calling-dando-maos-e-olhos-aos-modelos-de-linguagem-llms-275b) (2025-10-24)
-- [The GitHub Actions Documentation Problem: Managing Multiple Actions (And How to Fix It)](https://dev.to/reakaleek/the-github-actions-documentation-problem-managing-multiple-actions-and-how-to-fix-it-3910) (2025-10-24)
+- [Why your business needs a Bespoke Application](https://dev.to/imobisoft_03b7912a7d93210/why-your-business-needs-a-bespoke-application-2nna) (2025-10-24)
+- [Why Your Mac Software Installation is Broken (And How to Fix It in 10 Minutes)](https://dev.to/leonwong282/why-your-mac-software-installation-is-broken-and-how-to-fix-it-in-10-minutes-331d) (2025-10-24)
+- [Oracle AI Database 26ai: RESETTABLE Clause](https://dev.to/vahidusefzadeh/oracle-ai-database-26ai-resettable-clause-4pho) (2025-10-24)
+- [Meet the AI Voice Agent That Actually Gets Your Customers](https://dev.to/array_platforms/meet-the-ai-voice-agent-that-actually-gets-your-customers-p8l) (2025-10-24)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... (Ep. 1 – Heswall GC)](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-3e06) (2025-10-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@2keoekejenskkwkwkw/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-11fab15081a4?source=rss------programming-5) (2025-10-24)
-- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@2keoekejenskkwkwkw/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-c81c2b769c15?source=rss------programming-5) (2025-10-24)
-- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@2keoekejenskkwkwkw/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-fa1772a06fa7?source=rss------programming-5) (2025-10-24)
-- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@1vjcjicifufkfgkhxdyhs/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-a7109122de35?source=rss------programming-5) (2025-10-24)
-- [10 Python One-Liners That’ll Make JSON Parsing Feel Like Magic](https://medium.com/pyzilla/python-json-parsing-one-liners-c62be62a1ab5?source=rss------programming-5) (2025-10-24)
+- [SSR vs SSG vs CSR: We Cut Infra 30%](https://medium.com/@sonampatel_97163/ssr-vs-ssg-vs-csr-we-cut-infra-30-7dbdcc5fb93f?source=rss------programming-5) (2025-10-24)
+- [BroCode a fun toy programming language](https://medium.com/@instep.madhavjangid/brocode-a-fun-toy-programming-language-37218d5daf1d?source=rss------programming-5) (2025-10-24)
+- [10 Python Concepts Every Serious Developer Should Master](https://python.plainenglish.io/10-python-concepts-every-serious-developer-should-master-4c5d27a24369?source=rss------programming-5) (2025-10-24)
+- [Riverpod 2.0](https://medium.com/@alaxhenry0121/riverpod-2-0-3c2c0ac0a002?source=rss------programming-5) (2025-10-24)
+- [Are We Thinking Less in the Age of AI?](https://gauravtakjaipur.medium.com/are-we-thinking-less-in-the-age-of-ai-af578f1c1771?source=rss------programming-5) (2025-10-24)
 
 </details>
 
@@ -310,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [IntelliJ IDEA 2025.2.4 Is Out!](https://blog.jetbrains.com/idea/2025/10/intellij-idea-2025-2-4/) (2025-10-24)
 - [How BoldSign Modernized Development at Scale With JetBrains dotUltimate](https://blog.jetbrains.com/dotnet/2025/10/23/how-boldsign-modernized-development-at-scale-with-jetbrains-dotultimate/) (2025-10-23)
 - [Why Performance Matters in Python Development](https://blog.jetbrains.com/pycharm/2025/10/why-performance-matters-in-python-development/) (2025-10-23)
 - [Getting Started With Kotlin for Java Developers](https://blog.jetbrains.com/kotlin/2025/10/getting-started-with-kotlin-for-java-developers/) (2025-10-23)
 - [Introducing Matter: The AI Development Companion for Product Teams](https://blog.jetbrains.com/matter/2025/10/introducing-matter-the-ai-development-companion-for-product-teams/) (2025-10-22)
-- [From Python to Kotlin: A Transition Worth Making](https://blog.jetbrains.com/kotlin/2025/10/from-python-to-kotlin-a-transition-worth-making/) (2025-10-22)
 
 </details>
 
@@ -366,6 +362,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Behind the Builder: Cesar Hernandez, Manager, Personalized Support
+](
+https://www.twilio.com/en-us/blog/company/spotlights/Behind-the-Builder-Cesar-Hernandez-twilio
+) (2025-10-22)
+- [
 Sending SMS Messages with Twilio and Zapier
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/sending-sms-messages-with-twilio-and-zapier
@@ -385,11 +386,6 @@ Take command of your customer data with the latest Twilio platform releases
 ](
 https://www.twilio.com/en-us/blog/products/launches/trust-access-data-tools-1
 ) (2025-10-15)
-- [
-2025 Global Impact Week Recap
-](
-https://www.twilio.com/en-us/blog/company/inside-twilio/2025-global-impact-week-recap
-) (2025-10-14)
 
 </details>
 
@@ -507,11 +503,11 @@ https://www.twilio.com/en-us/blog/company/inside-twilio/2025-global-impact-week-
 <details>
 <summary>💬 Slack API</summary>
 
-- [What Is Multifactor Authentication (MFA): Definition and Benefits](https://slack.com/blog/productivity/what-is-multifactor-authentication-mfa-definition-and-benefits) (2025-10-22)
-- [How Strategic Planning Aligns Teams and Drives Results](https://slack.com/blog/collaboration/how-strategic-planning-aligns-teams-and-drives-results) (2025-10-21)
-- [Teamwork or Collaboration? Choosing the Right Approach](https://slack.com/blog/collaboration/teamwork-or-collaboration-choosing-the-right-approach) (2025-10-21)
-- [18 AI Tools Your Team Will Actually Want to Use](https://slack.com/blog/productivity/18-ai-tools-your-team-will-actually-want-to-use) (2025-10-21)
-- [What Is Time Management? Strategies for Success](https://slack.com/blog/productivity/what-is-time-management-strategies-for-success) (2025-10-21)
+- [Introducing the Agentic OS: How Slack Is Reimagining Work for the AI Era](https://slack.com/blog/news/dreamforce-slack-native-ai) (2025-10-20)
+- [Unlocking the Power of Conversation: How Slack’s New Platform is Fueling the Agentic Era](https://slack.com/blog/news/powering-agentic-collaboration) (2025-10-13)
+- [What Is Personalized Search, and How Does It Work?](https://slack.com/blog/productivity/what-is-personalized-search-and-how-does-it-work) (2025-10-07)
+- [AI Assistants: Everything You Need to Know](https://slack.com/blog/transformation/ai-assistants-what-they-do-and-why-you-need-them) (2025-10-07)
+- [A Complete Guide to AI Summarization: Benefits, Use Cases, and Tools](https://slack.com/blog/productivity/ai-summarization-a-guide-to-conquering-information-overload) (2025-10-01)
 
 </details>
 
