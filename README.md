@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Who are AI browsers for?](https://techcrunch.com/2025/10/25/who-are-ai-browsers-for/) (2025-10-25)
+- [TikTok robot star Rizzbot gave me the middle finger](https://techcrunch.com/2025/10/25/tiktok-robot-star-rizzbot-gave-me-the-middle-finger/) (2025-10-25)
+- [India, the market BlaBlaCar once walked away from, is now its biggest](https://techcrunch.com/2025/10/25/india-the-market-blablacar-once-walked-away-from-is-now-its-biggest/) (2025-10-25)
 - [The glaring security risks with AI browser agents](https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/) (2025-10-25)
 - [Musk’s ad chief at X departs after just 10 months](https://techcrunch.com/2025/10/24/musks-ad-chief-at-x-departs-after-just-10-months/) (2025-10-25)
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/10/24/tech-layoffs-2025-list/) (2025-10-24)
-- [How to use the new ChatGPT app integrations, including Spotify, Figma, Canva, and others](https://techcrunch.com/2025/10/24/how-to-use-the-new-chatgpt-app-integrations-including-spotify-figma-canva-and-others/) (2025-10-24)
-- [The browser wars are back, and this time they’re powered by AI](https://techcrunch.com/video/the-browser-wars-are-back-and-this-time-theyre-powered-by-ai/) (2025-10-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: Chonky – a neural text semantic chunking goes multilingual](https://huggingface.co/mirth/chonky_mmbert_small_multilingual_1) (2025-10-25)
-- [The Missing Semester of Your CS Education (2020)](https://missing.csail.mit.edu/) (2025-10-25)
-- [React vs. Backbone in 2025](https://backbonenotbad.hyperclay.com/) (2025-10-25)
-- [Euro cops take down cybercrime network with 49M fake accounts](https://www.itnews.com.au/news/euro-cops-take-down-cybercrime-network-with-49-million-fake-accounts-621174) (2025-10-25)
-- [Fast TypeScript (Code Complexity) Analyzer](https://ftaproject.dev/) (2025-10-25)
+- [Libera Chat receives legal advice that the Online Safety Act does not apply to](https://libera.chat/news/advised) (2025-10-25)
+- [Rock Tumbler Instructions: Turning Rough Rocks into Beautiful Tumbled Stones](https://rocktumbler.com/tips/rock-tumbler-instructions/) (2025-10-25)
+- [Against SQL](https://www.scattered-thoughts.net/writing/against-sql/) (2025-10-25)
+- [DNA reveals the real killers that brought down Napoleon's army](https://www.gavi.org/vaccineswork/dna-reveals-real-killers-brought-down-napoleons-army) (2025-10-25)
+- [Synadia and TigerBeetle Commit $512k USD to the Zig Software Foundation](https://www.synadia.com/blog/synadia-tigerbeetle-zig-foundation-pledge) (2025-10-25)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Is Waymo ready for winter?](https://www.theverge.com/transportation/805471/waymo-robotaxi-winter-snow-weather-testing) (2025-10-25)
-- [The rise of &#8220;catch a cheater&#8221; apps exploits our worst human tendencies](https://www.theverge.com/tech/806465/catch-cheater-app-facial-recognition-tinder) (2025-10-25)
-- [Bored Ape Yacht Club is making a comeback — as a metaverse](https://www.theverge.com/tech/806492/bored-ape-yacht-club-bayc-crypto-metaverse-otherside-yuga-labs) (2025-10-25)
-- [Sam Altman’s next startup eyes using sound waves to read your brain](https://www.theverge.com/column/806666/sam-altman-merge-labs-brain-computer-interface-startup-hire) (2025-10-25)
-- [Apple says Jon Prosser ‘has not indicated’ when he may respond to lawsuit](https://www.theverge.com/news/806664/apple-jon-prosser-not-indicated-respond-lawsuit-trade-secrets-ramacciotti) (2025-10-24)
+- [Tech left teens fighting over scraps, and now it wants those too](https://www.theverge.com/report/806728/tech-left-teens-fighting-over-scraps-robots-taking-jobs) (2025-10-25)
+- [AirTags and cheap gaming laptops headline our favorite deals this week](https://www.theverge.com/tech/806174/apple-airtag-hulu-with-live-tv-deal-sale) (2025-10-25)
+- [What does nearly $6,000 of gaming laptop get you?](https://www.theverge.com/tech/806052/msi-titan-18-ai-rtx-5090-gaming-laptop-review) (2025-10-25)
+- [ICE is building a social media panopticon](https://www.theverge.com/policy/806425/ice-social-media-surveillance-free-speech-assault) (2025-10-25)
+- [Ball x Pit is a deep, delightful rabbit hole](https://www.theverge.com/games/805022/ball-x-pit-review-pc-nintendo-switch-ps5-xbox-series-x-s) (2025-10-25)
 
 </details>
 
@@ -97,24 +97,25 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Web Developer Travis McCracken on Using GitHub Actions for Rust CI](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-using-github-actions-for-rust-ci-4ddp) (2025-10-25)
-- [Jason Brown on the Real Superpower in the Age of AI: Becoming a Relentless Learner](https://dev.to/jason_brown/jason-brown-on-the-real-superpower-in-the-age-of-ai-becoming-a-relentless-learner-28ma) (2025-10-25)
-- [NPR Music: Tyshawn Sorey’s powerful sounds of silence | Amplify with Lara Downes](https://dev.to/music_youtube/npr-music-tyshawn-soreys-powerful-sounds-of-silence-amplify-with-lara-downes-1lf8) (2025-10-25)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... (Ep. 1 – Heswall GC)](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-h3c) (2025-10-25)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-356a) (2025-10-25)
+- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can't Strike Their Irons & hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-2ooc) (2025-10-25)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-4ak) (2025-10-25)
+- [ApexQuest: Architecting Trust - Where Every AI Agent is Authenticated by Auth0](https://dev.to/divyasinghdev/apexquest-architecting-trust-where-every-ai-agent-is-authenticated-by-auth0-23l9) (2025-10-25)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER (That We've Sinned So Far)](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-54h3) (2025-10-25)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-245l) (2025-10-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [“The Elegance of the Soul”](https://medium.com/@aswmalsymy/the-elegance-of-the-soul-de2270f4cfde?source=rss------programming-5) (2025-10-25)
-- [A secret story from the past and Discord servers in gamedev (there are many people, but the…](https://medium.com/@prybulets/a-secret-story-from-the-past-and-discord-servers-in-gamedev-there-are-many-people-but-the-10c5cd4d088e?source=rss------programming-5) (2025-10-25)
-- [09232174161شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mjyd37452/09232174161%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-c75a0323f32a?source=rss------programming-5) (2025-10-25)
-- [09232174161شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mjyd37452/09232174161%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-80ab97262c4a?source=rss------programming-5) (2025-10-25)
-- [I’m Writing a Book on Reinforcement Learning](https://bamania-ashish.medium.com/im-writing-a-book-on-reinforcement-learning-94f888494469?source=rss------programming-5) (2025-10-25)
+- [Build Your Own Dictionary: Subclassing UserDict vs. dict](https://medium.com/@tihomir.manushev/build-your-own-dictionary-subclassing-userdict-vs-dict-cf72628e4631?source=rss------programming-5) (2025-10-25)
+- [09010712940شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@xjjdsdjjdhxhxdjdiisjdhdhd/09010712940%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-3acba3892f82?source=rss------programming-5) (2025-10-25)
+- [09010712940شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@xjjdsdjjdhxhxdjdiisjdhdhd/09010712940%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-9a8d1f75ae2e?source=rss------programming-5) (2025-10-25)
+- [09010712940شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@xjjdsdjjdhxhxdjdiisjdhdhd/09010712940%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-fd7eec61da68?source=rss------programming-5) (2025-10-25)
+- [The Journey of Pattern Recognition: From Instinct to Intelligence](https://ai.plainenglish.io/the-journey-of-pattern-recognition-from-instinct-to-intelligence-bc586fcb63c7?source=rss------programming-5) (2025-10-25)
 
 </details>
 
@@ -132,11 +133,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Fully managed cloud-to-cloud transfers with Azure Storage Mover](https://azure.microsoft.com/en-us/blog/fully-managed-cloud-to-cloud-transfers-with-azure-storage-mover/) (2025-10-23)
-- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2025-10-22)
-- [The Signals Loop: Fine-tuning for world-class AI apps and agents ](https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/) (2025-10-21)
 - [Innovation spotlight: How 3 customers are driving change with migration to Azure SQL](https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/) (2025-10-20)
 - [From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available](https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/) (2025-10-16)
+- [Sora 2 now available in Azure AI Foundry](https://azure.microsoft.com/en-us/blog/sora-2-now-available-in-azure-ai-foundry/) (2025-10-15)
+- [Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation](https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/) (2025-10-14)
+- [Accelerating open-source infrastructure development for frontier AI at scale](https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/) (2025-10-14)
 
 </details>
 
@@ -505,11 +506,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/manage-twilio-verify-safe
 <details>
 <summary>💬 Slack API</summary>
 
-- [Customer Connection: How It Drives Loyalty and Business Growth](https://slack.com/blog/collaboration/customer-connection-how-it-drives-loyalty-and-business-growth) (2025-10-23)
-- [Master Effective Communication Skills With These 10 Techniques](https://slack.com/blog/collaboration/master-effective-communication-skills-with-these-10-techniques) (2025-10-23)
-- [What Is Customer Data Integration, and Why Is It Important?](https://slack.com/blog/transformation/what-is-customer-data-integration-and-why-is-it-important) (2025-10-23)
-- [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2025-10-23)
 - [What Is Multifactor Authentication (MFA): Definition and Benefits](https://slack.com/blog/productivity/what-is-multifactor-authentication-mfa-definition-and-benefits) (2025-10-22)
+- [How Strategic Planning Aligns Teams and Drives Results](https://slack.com/blog/collaboration/how-strategic-planning-aligns-teams-and-drives-results) (2025-10-21)
+- [Teamwork or Collaboration? Choosing the Right Approach](https://slack.com/blog/collaboration/teamwork-or-collaboration-choosing-the-right-approach) (2025-10-21)
+- [18 AI Tools Your Team Will Actually Want to Use](https://slack.com/blog/productivity/18-ai-tools-your-team-will-actually-want-to-use) (2025-10-21)
+- [What Is Time Management? Strategies for Success](https://slack.com/blog/productivity/what-is-time-management-strategies-for-success) (2025-10-21)
 
 </details>
 
@@ -571,11 +572,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/manage-twilio-verify-safe
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Data Visualization Explained (Part 4): A Review of Python Essentials](https://towardsdatascience.com/data-visualization-explained-part-4-a-review-of-python-essentials/) (2025-10-25)
+- [Building a Geospatial Lakehouse with Open Source and Databricks](https://towardsdatascience.com/building-a-geospatial-lakehouse-with-open-source-and-databricks-2/) (2025-10-25)
 - [Agentic AI from First Principles: Reflection](https://towardsdatascience.com/agentic-ai-from-first-principles-reflection/) (2025-10-24)
 - [How to Consistently Extract Metadata from Complex Documents](https://towardsdatascience.com/how-to-consistently-extract-metadata-from-complex-documents/) (2025-10-24)
 - [Choosing the Best Model Size and Dataset Size under a Fixed Budget for LLMs](https://towardsdatascience.com/choosing-the-best-model-size-and-dataset-size-under-a-fixed-budget-for-llms/) (2025-10-24)
-- [Deploy an OpenAI Agent Builder Chatbot to a Website](https://towardsdatascience.com/deploy-an-openai-agent-builder-chatbot-to-a-website/) (2025-10-24)
-- [When Transformers Sing: Adapting SpectralKD for Text-Based Knowledge Distillation](https://towardsdatascience.com/when-transformers-sing-adapting-spectralkd-for-text-based-knowledge-distillation/) (2025-10-23)
 
 </details>
 
