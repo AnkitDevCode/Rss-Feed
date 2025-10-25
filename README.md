@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Instagram’s latest feature lets you go back see your watched Reels](https://techcrunch.com/2025/10/24/instagrams-latest-feature-lets-you-go-back-see-your-watched-reels/) (2025-10-24)
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/10/24/tech-layoffs-2025-list/) (2025-10-24)
+- [How to use the new ChatGPT app integrations, including Spotify, Figma, Canva, and others](https://techcrunch.com/2025/10/24/how-to-use-the-new-chatgpt-app-integrations-including-spotify-figma-canva-and-others/) (2025-10-24)
+- [The browser wars are back, and this time they’re powered by AI](https://techcrunch.com/video/the-browser-wars-are-back-and-this-time-theyre-powered-by-ai/) (2025-10-24)
+- [Instagram’s latest feature lets you go back to see your watched Reels](https://techcrunch.com/2025/10/24/instagrams-latest-feature-lets-you-go-back-see-your-watched-reels/) (2025-10-24)
 - [Arbor’s ‘vegetarian rocket engine’ power plant is actually an omnivore](https://techcrunch.com/2025/10/24/arbors-vegetarian-rocket-engine-power-plant-is-actually-an-omnivore/) (2025-10-24)
-- [EC finds Meta and TikTok breached transparency rules under DSA](https://techcrunch.com/2025/10/24/ec-finds-meta-and-tiktok-breached-transparency-rules-under-dsa/) (2025-10-24)
-- [TechCrunch Disrupt 2025 Side Events schedule:  Women in Tech, MongoDB, Silkroad Innovation Hub, and more to host](https://techcrunch.com/2025/10/24/techcrunch-disrupt-2025-side-events-schedule-women-in-tech-mongodb-silkroad-innovation-hub-and-more-to-host/) (2025-10-24)
-- [The full breakout session agenda at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/24/techcrunch-disrupt-2025-breakout-sessions/) (2025-10-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Disable AI in Firefox](https://flamedfury.com/posts/disable-ai-in-firefox/) (2025-10-24)
-- [The Mainframe Six (2022)](https://arcanesciences.com/os2200/app1.html) (2025-10-24)
-- [Asahi Linux Still Working on Apple M3 Support, M1n1 Bootloader Going Rust](https://www.phoronix.com/news/Asahi-Linux-M3-m1n1-Update) (2025-10-24)
-- [A sharded DuckDB on 63 nodes runs 1T row aggregation challenge in 5 sec](https://gizmodata.com/blog/gizmoedge-one-trillion-row-challenge) (2025-10-24)
-- [Typst 0.14](https://typst.app/blog/2025/typst-0.14/) (2025-10-24)
+- [Vibe Coding in the 90s](https://ssg.dev/vibe-coding-in-the-90s/) (2025-10-24)
+- [New OSM file format: 30% smaller than PBF, 5x faster to import](https://community.openstreetmap.org/t/new-osm-file-format-30-smaller-than-pbf-5x-faster-to-import/137151) (2025-10-24)
+- [Conductor (YC S24) Is Hiring a Founding Engineer in San Francisco](https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer) (2025-10-24)
+- [MRI Contrast Agent Causes Harmful Metal Buildup in Some Patients [study]](https://www.ormanager.com/briefs/study-mri-contrast-agent-causes-harmful-metal-buildup-in-some-patients/) (2025-10-24)
+- [TextEdit and the relief of simple software](https://www.newyorker.com/culture/infinite-scroll/textedit-and-the-relief-of-simple-software) (2025-10-24)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Eufy’s X10 Pro Omni robovac is matching its Prime Day low for a limited time](https://www.theverge.com/tech/806364/eufy-x10-pro-omni-robot-vacuum-mop-amazon-deal-sale) (2025-10-24)
-- [Neato’s cloud is shutting down, leaving its robovacs stuck in manual mode](https://www.theverge.com/news/806246/neato-robovac-cloud-shutdown) (2025-10-24)
-- [Kirby Air Riders&#8217; impressive accessibility features are a rarity for Nintendo](https://www.theverge.com/games/806242/kirby-air-riders-accessibility-features-nintendo-switch-2) (2025-10-24)
-- [Epomaker’s surprisingly great P75 keyboard is on sale for just $79.99](https://www.theverge.com/tech/806167/epomaker-p75-mechanical-keyboard-blink-mini-2-deal-sale) (2025-10-24)
-- [Netflix shuts down its Squid Game mobile studio](https://www.theverge.com/news/806303/netflix-squid-game-unleashed-boss-fight-entertainment-studio-shut-down) (2025-10-24)
+- [Sam Altman’s next startup eyes using sound waves to read your brain](https://www.theverge.com/column/806666/sam-altman-merge-labs-brain-computer-interface-startup-hire) (2025-10-25)
+- [Apple says Jon Prosser ‘has not indicated’ when he may respond to lawsuit](https://www.theverge.com/news/806664/apple-jon-prosser-not-indicated-respond-lawsuit-trade-secrets-ramacciotti) (2025-10-24)
+- [Wordle has achievements now](https://www.theverge.com/news/806578/nyt-games-badges-achievements-wordle-spelling-bee-connections) (2025-10-24)
+- [I tested a bunch of gaming laptops and these are the best](https://www.theverge.com/22295181/best-gaming-laptop) (2025-10-24)
+- [Halo: Campaign Evolved is a gorgeous remake that debuts on PS5 and Xbox in 2026](https://www.theverge.com/news/805174/halo-campaign-evolved-remake-xbox-ps5-release-date) (2025-10-24)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Microsoft’s Mico heightens the risks of parasocial LLM relationships](https://arstechnica.com/ai/2025/10/microsofts-mico-heightens-the-risks-of-parasocial-llm-relationships/) (2025-10-24)
-- [Rivian is settling $250 million lawsuit to focus on next year’s R2 EV](https://arstechnica.com/cars/2025/10/rivian-settles-shareholder-lawsuit-for-250-million-denies-allegations/) (2025-10-24)
-- [Bats eat the birds they pluck from the sky while on the wing](https://arstechnica.com/science/2025/10/tracking-bats-as-they-hunt-birds-in-the-skies-above-europe/) (2025-10-24)
-- [DNA analysis reveals likely pathogens that killed Napoleon’s army](https://arstechnica.com/science/2025/10/dna-analysis-reveals-likely-pathogens-that-killed-napoleons-army/) (2025-10-24)
-- [This browser claims “perfect privacies protection,” but it acts like malware](https://arstechnica.com/security/2025/10/this-browser-claims-perfect-privacies-protection-but-it-acts-like-malware/) (2025-10-24)
+- [Are you the asshole? Of course not!—quantifying LLMs’ sycophancy problem](https://arstechnica.com/ai/2025/10/are-you-the-asshole-of-course-not-quantifying-llms-sycophancy-problem/) (2025-10-24)
+- [A single point of failure triggered the Amazon outage affecting millions](https://arstechnica.com/gadgets/2025/10/a-single-point-of-failure-triggered-the-amazon-outage-affecting-millions/) (2025-10-24)
+- [Man takes herbal pain quackery, nearly dies, spends months in hospital](https://arstechnica.com/health/2025/10/man-takes-herbal-pain-quackery-nearly-dies-spends-months-in-hospital/) (2025-10-24)
+- [Clinical trial of a technique that could give everyone the best antibodies](https://arstechnica.com/science/2025/10/dna-and-jolts-of-electricity-get-people-to-make-optimal-antibodies/) (2025-10-24)
+- [The Android-powered Boox Palma 2 Pro fits in your pocket, but it’s not a phone](https://arstechnica.com/gadgets/2025/10/the-android-powered-boox-palma-2-pro-fits-in-your-pocket-but-its-not-a-phone/) (2025-10-24)
 
 </details>
 
@@ -97,22 +97,26 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Wie ein Chatbot Event-Anfragen revolutionieren kann – von der Idee zur automatisierten DJ-Buchung](https://dev.to/25heartbeats_djservice_1/wie-ein-chatbot-event-anfragen-revolutionieren-kann-von-der-idee-zur-automatisierten-dj-buchung-54e0) (2025-10-24)
-- [The Strategic Migration: Transforming a Manual QA Team into an Automation Powerhouse](https://dev.to/mohsen_akbari_ebe53d7cbc2/the-strategic-migration-transforming-a-manual-qa-team-into-an-automation-powerhouse-54mb) (2025-10-24)
-- [Jeff Su: Steal the Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-steal-the-productivity-system-i-taught-to-6642-googlers-4oob) (2025-10-24)
-- [How I Simplified My Laravel Filters Using the Pipeline Pattern (With Real Examples)](https://dev.to/jahid02/how-to-use-laravel-pipeline-4jek) (2025-10-24)
-- [The Cost of Clarity: Building Libraries For Artists](https://dev.to/bekalah/the-cost-of-clarity-building-libraries-for-artists-50g3) (2025-10-24)
+- [Building High-Performance Analytics with Rust, Apache Iceberg, and Apache Doris: A Modern Data Stack](https://dev.to/mayu2008/building-high-performance-analytics-with-rust-apache-iceberg-and-apache-doris-a-modern-data-stack-agm) (2025-10-25)
+- [My journey to Go](https://dev.to/ruxozheng/my-journey-to-go-2ji2) (2025-10-25)
+- [Unleashing the Power of Collaboration: How to Harness the Right Tools for Developer Teams](https://dev.to/mikeover/unleashing-the-power-of-collaboration-how-to-harness-the-right-tools-for-developer-teams-224f) (2025-10-25)
+- [an introduction to Dask](https://dev.to/sengseng/an-introduction-to-dask-4kgi) (2025-10-25)
+- [New in BC 2024 Wave 2: Production Scrap Report for Manufacturing Teams](https://dev.to/jeffreybulanadi/new-in-bc-2024-wave-2-production-scrap-report-for-manufacturing-teams-2h5h) (2025-10-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Inside Chalk: The Next-Gen Type System Solver for Rust](https://medium.com/@theopinionatedev/inside-chalk-the-next-gen-type-system-solver-for-rust-d5c562dd3cc8?source=rss------programming-5) (2025-10-24)
-- [What Every Developer Should Understand About I/O Before Writing Another API](https://medium.com/@optimzationking2/what-every-developer-should-understand-about-i-o-before-writing-another-api-a024b4593deb?source=rss------programming-5) (2025-10-24)
-- [The Hidden Power of Neuroplasticity: How the Brain Rewires Itself](https://medium.com/@nickoutlaw261/the-hidden-power-of-neuroplasticity-how-the-brain-rewires-itself-8867057978ba?source=rss------programming-5) (2025-10-24)
-- [Belajar Dasar Pemrograman Web (HTML)](https://medium.com/@Day0405/belajar-dasar-pemrograman-web-html-eeb6f656fb16?source=rss------programming-5) (2025-10-24)
-- [Don’t Be Scared of Money and Finances: Elevate Yourself](https://medium.com/@1goallifestyle/dont-be-scared-of-money-and-finances-elevate-yourself-921296f6370b?source=rss------programming-5) (2025-10-24)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mnbvcxzgsgd/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-d4e8ad51d4c0?source=rss------programming-5) (2025-10-25)
+- [09360627233شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@a68604087/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-4441f72d9905?source=rss------programming-5) (2025-10-25)
+- [09360627233شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@a68604087/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-b2b00f74c12d?source=rss------programming-5) (2025-10-25)
+- [09360627233شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@a68604087/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e6303510e317?source=rss------programming-5) (2025-10-25)
+- [These 7 ‘Boring’ Python Built-ins Are Secretly Brilliant](https://medium.com/@kuldeepkumawat195/these-7-boring-python-built-ins-are-secretly-brilliant-15ef6c5b7bec?source=rss------programming-5) (2025-10-25)
 
 </details>
 
@@ -130,11 +134,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Fully managed cloud-to-cloud transfers with Azure Storage Mover](https://azure.microsoft.com/en-us/blog/fully-managed-cloud-to-cloud-transfers-with-azure-storage-mover/) (2025-10-23)
+- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2025-10-22)
+- [The Signals Loop: Fine-tuning for world-class AI apps and agents ](https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/) (2025-10-21)
 - [Innovation spotlight: How 3 customers are driving change with migration to Azure SQL](https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/) (2025-10-20)
 - [From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available](https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/) (2025-10-16)
-- [Sora 2 now available in Azure AI Foundry](https://azure.microsoft.com/en-us/blog/sora-2-now-available-in-azure-ai-foundry/) (2025-10-15)
-- [Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation](https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/) (2025-10-14)
-- [Accelerating open-source infrastructure development for frontier AI at scale](https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/) (2025-10-14)
 
 </details>
 
@@ -207,11 +211,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Docker Hub Incident Report – October 20, 2025](https://www.docker.com/blog/docker-hub-incident-report-october-20-2025/) (2025-10-24)
+- [Your Org, Your Tools: Building a Custom MCP Catalog](https://www.docker.com/blog/build-custom-mcp-catalog/) (2025-10-24)
 - [Why More People Are Taking Control of Their Digital Lives with Self-Hosted Alternatives](https://www.docker.com/blog/self-hosted-alternatives-control-your-data/) (2025-10-24)
 - [AI Guide to the Galaxy: MCP Toolkit and Gateway, Explained](https://www.docker.com/blog/mcp-toolkit-gateway-explained/) (2025-10-24)
 - [Docker + E2B: Building the Future of Trusted AI](https://www.docker.com/blog/docker-e2b-building-the-future-of-trusted-ai/) (2025-10-23)
-- [Getting Started with Offload: Automating Everyday Workflows with Docker](https://www.docker.com/blog/getting-started-docker-offload/) (2025-10-22)
-- [Introducing a Richer ”docker model run” Experience](https://www.docker.com/blog/docker-model-run-prompt/) (2025-10-21)
 
 </details>
 
@@ -372,6 +376,11 @@ Behind the Builder: Cesar Hernandez, Manager, Personalized Support
 https://www.twilio.com/en-us/blog/company/spotlights/Behind-the-Builder-Cesar-Hernandez-twilio
 ) (2025-10-22)
 - [
+How to Build  a CLI Reminder Application in GO
+](
+https://www.twilio.com/en-us/blog/developers/community/build-cli-reminder-app-go
+) (2025-10-21)
+- [
 Sending SMS Messages with Twilio and Zapier
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/sending-sms-messages-with-twilio-and-zapier
@@ -380,11 +389,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/sending-sms-
 How to Manage Your Twilio Verify Safe List in Laravel
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/manage-twilio-verify-safe-list-laravel
-) (2025-10-17)
-- [
-Complete US Carrier Coverage for RCS with AT&T Integration
-](
-https://www.twilio.com/en-us/blog/products/RCS-ATT-Integration
 ) (2025-10-17)
 
 </details>
@@ -503,11 +507,11 @@ https://www.twilio.com/en-us/blog/products/RCS-ATT-Integration
 <details>
 <summary>💬 Slack API</summary>
 
-- [Introducing the Agentic OS: How Slack Is Reimagining Work for the AI Era](https://slack.com/blog/news/dreamforce-slack-native-ai) (2025-10-20)
-- [Unlocking the Power of Conversation: How Slack’s New Platform is Fueling the Agentic Era](https://slack.com/blog/news/powering-agentic-collaboration) (2025-10-13)
-- [What Is Personalized Search, and How Does It Work?](https://slack.com/blog/productivity/what-is-personalized-search-and-how-does-it-work) (2025-10-07)
-- [AI Assistants: Everything You Need to Know](https://slack.com/blog/transformation/ai-assistants-what-they-do-and-why-you-need-them) (2025-10-07)
-- [A Complete Guide to AI Summarization: Benefits, Use Cases, and Tools](https://slack.com/blog/productivity/ai-summarization-a-guide-to-conquering-information-overload) (2025-10-01)
+- [What Is Multifactor Authentication (MFA): Definition and Benefits](https://slack.com/blog/productivity/what-is-multifactor-authentication-mfa-definition-and-benefits) (2025-10-22)
+- [How Strategic Planning Aligns Teams and Drives Results](https://slack.com/blog/collaboration/how-strategic-planning-aligns-teams-and-drives-results) (2025-10-21)
+- [Teamwork or Collaboration? Choosing the Right Approach](https://slack.com/blog/collaboration/teamwork-or-collaboration-choosing-the-right-approach) (2025-10-21)
+- [18 AI Tools Your Team Will Actually Want to Use](https://slack.com/blog/productivity/18-ai-tools-your-team-will-actually-want-to-use) (2025-10-21)
+- [What Is Time Management? Strategies for Success](https://slack.com/blog/productivity/what-is-time-management-strategies-for-success) (2025-10-21)
 
 </details>
 
