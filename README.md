@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The glaring security risks with AI browser agents](https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/) (2025-10-25)
+- [Musk’s ad chief at X departs after just 10 months](https://techcrunch.com/2025/10/24/musks-ad-chief-at-x-departs-after-just-10-months/) (2025-10-25)
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/10/24/tech-layoffs-2025-list/) (2025-10-24)
 - [How to use the new ChatGPT app integrations, including Spotify, Figma, Canva, and others](https://techcrunch.com/2025/10/24/how-to-use-the-new-chatgpt-app-integrations-including-spotify-figma-canva-and-others/) (2025-10-24)
 - [The browser wars are back, and this time they’re powered by AI](https://techcrunch.com/video/the-browser-wars-are-back-and-this-time-theyre-powered-by-ai/) (2025-10-24)
-- [Instagram’s latest feature lets you go back to see your watched Reels](https://techcrunch.com/2025/10/24/instagrams-latest-feature-lets-you-go-back-see-your-watched-reels/) (2025-10-24)
-- [Arbor’s ‘vegetarian rocket engine’ power plant is actually an omnivore](https://techcrunch.com/2025/10/24/arbors-vegetarian-rocket-engine-power-plant-is-actually-an-omnivore/) (2025-10-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Claudeskills.cc – Share, Discover, and Reuse Claude/OpenAI Agent Skills](https://claudeskills.cc) (2025-10-25)
-- [Key IOCs for Pegasus and Predator Spyware Removed with iOS 26 Update](https://iverify.io/blog/key-iocs-for-pegasus-and-predator-spyware-cleaned-with-ios-26-update) (2025-10-25)
-- [Underdetermined Weaving with Machines (2021) [video]](https://www.youtube.com/watch?v=on_sK8KoObo) (2025-10-25)
-- [Advice for New Principal Tech ICs (I.e., Notes to Myself)](https://eugeneyan.com/writing/principal/) (2025-10-25)
-- [Deepagent: A powerful desktop AI assistant](https://deepagent.abacus.ai) (2025-10-25)
+- [Show HN: Chonky – a neural text semantic chunking goes multilingual](https://huggingface.co/mirth/chonky_mmbert_small_multilingual_1) (2025-10-25)
+- [The Missing Semester of Your CS Education (2020)](https://missing.csail.mit.edu/) (2025-10-25)
+- [React vs. Backbone in 2025](https://backbonenotbad.hyperclay.com/) (2025-10-25)
+- [Euro cops take down cybercrime network with 49M fake accounts](https://www.itnews.com.au/news/euro-cops-take-down-cybercrime-network-with-49-million-fake-accounts-621174) (2025-10-25)
+- [Fast TypeScript (Code Complexity) Analyzer](https://ftaproject.dev/) (2025-10-25)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Is Waymo ready for winter?](https://www.theverge.com/transportation/805471/waymo-robotaxi-winter-snow-weather-testing) (2025-10-25)
+- [The rise of &#8220;catch a cheater&#8221; apps exploits our worst human tendencies](https://www.theverge.com/tech/806465/catch-cheater-app-facial-recognition-tinder) (2025-10-25)
 - [Bored Ape Yacht Club is making a comeback — as a metaverse](https://www.theverge.com/tech/806492/bored-ape-yacht-club-bayc-crypto-metaverse-otherside-yuga-labs) (2025-10-25)
 - [Sam Altman’s next startup eyes using sound waves to read your brain](https://www.theverge.com/column/806666/sam-altman-merge-labs-brain-computer-interface-startup-hire) (2025-10-25)
 - [Apple says Jon Prosser ‘has not indicated’ when he may respond to lawsuit](https://www.theverge.com/news/806664/apple-jon-prosser-not-indicated-respond-lawsuit-trade-secrets-ramacciotti) (2025-10-24)
-- [Wordle has achievements now](https://www.theverge.com/news/806578/nyt-games-badges-achievements-wordle-spelling-bee-connections) (2025-10-24)
-- [I tested a bunch of gaming laptops and these are the best](https://www.theverge.com/22295181/best-gaming-laptop) (2025-10-24)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Whale and dolphin migrations are being disrupted by climate change](https://arstechnica.com/science/2025/10/whale-and-dolphin-migrations-are-being-disrupted-by-climate-change/) (2025-10-25)
 - [Are you the asshole? Of course not!—quantifying LLMs’ sycophancy problem](https://arstechnica.com/ai/2025/10/are-you-the-asshole-of-course-not-quantifying-llms-sycophancy-problem/) (2025-10-24)
 - [A single point of failure triggered the Amazon outage affecting millions](https://arstechnica.com/gadgets/2025/10/a-single-point-of-failure-triggered-the-amazon-outage-affecting-millions/) (2025-10-24)
 - [Man takes herbal pain quackery, nearly dies, spends months in hospital](https://arstechnica.com/health/2025/10/man-takes-herbal-pain-quackery-nearly-dies-spends-months-in-hospital/) (2025-10-24)
 - [Clinical trial of a technique that could give everyone the best antibodies](https://arstechnica.com/science/2025/10/dna-and-jolts-of-electricity-get-people-to-make-optimal-antibodies/) (2025-10-24)
-- [The Android-powered Boox Palma 2 Pro fits in your pocket, but it’s not a phone](https://arstechnica.com/gadgets/2025/10/the-android-powered-boox-palma-2-pro-fits-in-your-pocket-but-its-not-a-phone/) (2025-10-24)
 
 </details>
 
@@ -97,22 +97,24 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building MCP Server - The Hidden Protocol Behind Smart AI Collaboration](https://dev.to/hiruthicsha/building-mcp-server-the-hidden-protocol-behind-smart-ai-collaboration-3pdd) (2025-10-25)
-- [The History of HTTP](https://dev.to/iarchitsharma/the-history-of-http-32ga) (2025-10-25)
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-172) (2025-10-25)
-- [S3 aws guide](https://dev.to/sachin841/s3-aws-guide-45e1) (2025-10-25)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2mke) (2025-10-25)
+- [Web Developer Travis McCracken on Using GitHub Actions for Rust CI](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-using-github-actions-for-rust-ci-4ddp) (2025-10-25)
+- [Jason Brown on the Real Superpower in the Age of AI: Becoming a Relentless Learner](https://dev.to/jason_brown/jason-brown-on-the-real-superpower-in-the-age-of-ai-becoming-a-relentless-learner-28ma) (2025-10-25)
+- [NPR Music: Tyshawn Sorey’s powerful sounds of silence | Amplify with Lara Downes](https://dev.to/music_youtube/npr-music-tyshawn-soreys-powerful-sounds-of-silence-amplify-with-lara-downes-1lf8) (2025-10-25)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... (Ep. 1 – Heswall GC)](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-1-heswall-gc-h3c) (2025-10-25)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-356a) (2025-10-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why Gen AI First Development is changing how I build software](https://medium.com/@dconsonni/how-i-use-coding-agents-like-a-development-team-1a2f37924c1b?source=rss------programming-5) (2025-10-25)
-- [Next.js 16 Is Here With Major Updates You Can’t Ignore](https://themindshift.medium.com/next-js-16-is-here-with-major-updates-you-cant-ignore-44540108257a?source=rss------programming-5) (2025-10-25)
-- [How Bad Data Nearly Broke My Machine Learning Model](https://ai.plainenglish.io/how-bad-data-nearly-broke-my-machine-learning-model-0839643529a1?source=rss------programming-5) (2025-10-25)
-- [I Built a Model That Predicted My Own Habits](https://ai.plainenglish.io/i-built-a-model-that-predicted-my-own-habits-d1fcbf732a12?source=rss------programming-5) (2025-10-25)
-- [I Failed 12 Java Interviews Until a Google Engineer Told Me This HashMap Secret](https://medium.com/@the_atomic_architect/i-failed-12-java-interviews-until-a-google-engineer-told-me-this-hashmap-secret-d0aa0fa56a00?source=rss------programming-5) (2025-10-25)
+- [“The Elegance of the Soul”](https://medium.com/@aswmalsymy/the-elegance-of-the-soul-de2270f4cfde?source=rss------programming-5) (2025-10-25)
+- [A secret story from the past and Discord servers in gamedev (there are many people, but the…](https://medium.com/@prybulets/a-secret-story-from-the-past-and-discord-servers-in-gamedev-there-are-many-people-but-the-10c5cd4d088e?source=rss------programming-5) (2025-10-25)
+- [09232174161شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mjyd37452/09232174161%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-c75a0323f32a?source=rss------programming-5) (2025-10-25)
+- [09232174161شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mjyd37452/09232174161%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-80ab97262c4a?source=rss------programming-5) (2025-10-25)
+- [I’m Writing a Book on Reinforcement Learning](https://bamania-ashish.medium.com/im-writing-a-book-on-reinforcement-learning-94f888494469?source=rss------programming-5) (2025-10-25)
 
 </details>
 
@@ -130,11 +132,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Fully managed cloud-to-cloud transfers with Azure Storage Mover](https://azure.microsoft.com/en-us/blog/fully-managed-cloud-to-cloud-transfers-with-azure-storage-mover/) (2025-10-23)
+- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2025-10-22)
+- [The Signals Loop: Fine-tuning for world-class AI apps and agents ](https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/) (2025-10-21)
 - [Innovation spotlight: How 3 customers are driving change with migration to Azure SQL](https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/) (2025-10-20)
 - [From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available](https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/) (2025-10-16)
-- [Sora 2 now available in Azure AI Foundry](https://azure.microsoft.com/en-us/blog/sora-2-now-available-in-azure-ai-foundry/) (2025-10-15)
-- [Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation](https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/) (2025-10-14)
-- [Accelerating open-source infrastructure development for frontier AI at scale](https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/) (2025-10-14)
 
 </details>
 
@@ -503,11 +505,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/manage-twilio-verify-safe
 <details>
 <summary>💬 Slack API</summary>
 
-- [Introducing the Agentic OS: How Slack Is Reimagining Work for the AI Era](https://slack.com/blog/news/dreamforce-slack-native-ai) (2025-10-20)
-- [Unlocking the Power of Conversation: How Slack’s New Platform is Fueling the Agentic Era](https://slack.com/blog/news/powering-agentic-collaboration) (2025-10-13)
-- [What Is Personalized Search, and How Does It Work?](https://slack.com/blog/productivity/what-is-personalized-search-and-how-does-it-work) (2025-10-07)
-- [AI Assistants: Everything You Need to Know](https://slack.com/blog/transformation/ai-assistants-what-they-do-and-why-you-need-them) (2025-10-07)
-- [A Complete Guide to AI Summarization: Benefits, Use Cases, and Tools](https://slack.com/blog/productivity/ai-summarization-a-guide-to-conquering-information-overload) (2025-10-01)
+- [Customer Connection: How It Drives Loyalty and Business Growth](https://slack.com/blog/collaboration/customer-connection-how-it-drives-loyalty-and-business-growth) (2025-10-23)
+- [Master Effective Communication Skills With These 10 Techniques](https://slack.com/blog/collaboration/master-effective-communication-skills-with-these-10-techniques) (2025-10-23)
+- [What Is Customer Data Integration, and Why Is It Important?](https://slack.com/blog/transformation/what-is-customer-data-integration-and-why-is-it-important) (2025-10-23)
+- [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2025-10-23)
+- [What Is Multifactor Authentication (MFA): Definition and Benefits](https://slack.com/blog/productivity/what-is-multifactor-authentication-mfa-definition-and-benefits) (2025-10-22)
 
 </details>
 
@@ -580,11 +582,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/manage-twilio-verify-safe
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Less Syntax, More Insights: LLMs as SQL Copilots](https://www.analyticsvidhya.com/blog/2025/10/llms-as-sql-copilots/) (2025-10-25)
 - [Claude Haiku 4.5 is Here… and it’s BETTER than Sonnet 4.5?](https://www.analyticsvidhya.com/blog/2025/10/claude-haiku-4-5/) (2025-10-24)
 - [Guardrails in LLMs: Building Reliable AI Systems with Guardrails](https://www.analyticsvidhya.com/blog/2025/10/guardrails-in-llm/) (2025-10-24)
 - [Poisoning Attacks on LLMs: A Direct Attack on LLMs with Less than 250 Samples](https://www.analyticsvidhya.com/blog/2025/10/llm-data-poisoning/) (2025-10-24)
 - [Less is More: Recursive Reasoning with Tiny Networks](https://www.analyticsvidhya.com/blog/2025/10/trm-recursive-reasoning/) (2025-10-23)
-- [RIP Prompt Engineering? Why Verbalized Sampling Changes Everything!](https://www.analyticsvidhya.com/blog/2025/10/verbalized-sampling/) (2025-10-22)
 
 </details>
 
