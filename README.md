@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Auto Dark Mode for Windows](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) (2025-10-26)
-- [Tsdown – The Elegant Bundler for Libraries](https://tsdown.dev/) (2025-10-26)
-- [GenAI Image Editing Showdown](https://genai-showdown.specr.net/) (2025-10-26)
-- [PCB Edge USB C Connector Library](https://github.com/AnasMalas/pcb-edge-usb-c) (2025-10-26)
-- [Pico-Banana-400k](https://github.com/apple/pico-banana-400k) (2025-10-26)
+- [My favorite cult sci-fi and fantasy books you may not have heard of before](https://shepherd.com/best-books/cult-sci-fi-and-fantasy-you-may-not-have-heard-of) (2025-10-26)
+- [You Already Have a Git Server](https://maurycyz.com/misc/easy_git/) (2025-10-26)
+- [Connect to a 1980s Atari BBS through the web](https://www.southernamis.com/ataribbsconnect) (2025-10-26)
+- [Asbestosis](https://diamondgeezer.blogspot.com/2025/10/asbestosis.html) (2025-10-26)
+- [What If Tariffs?](https://www.swatch.com/en-en/what-if-tariffs-so34z106/SO34Z106.html) (2025-10-26)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The next legal frontier is your face and AI](https://www.theverge.com/column/805821/the-next-legal-frontier-is-your-face-and-ai) (2025-10-26)
+- [My favorite e-reader just got a big update](https://www.theverge.com/tech/806697/boox-palma-2-pro-chatgpt-atlas-galaxy-xr-installer) (2025-10-26)
 - [Tech left teens fighting over scraps, and now it wants those too](https://www.theverge.com/report/806728/tech-left-teens-fighting-over-scraps-robots-taking-jobs) (2025-10-25)
 - [AirTags and cheap gaming laptops headline our favorite deals this week](https://www.theverge.com/tech/806174/apple-airtag-hulu-with-live-tv-deal-sale) (2025-10-25)
 - [What does nearly $6,000 of gaming laptop get you?](https://www.theverge.com/tech/806052/msi-titan-18-ai-rtx-5090-gaming-laptop-review) (2025-10-25)
-- [ICE is building a social media panopticon](https://www.theverge.com/policy/806425/ice-social-media-surveillance-free-speech-assault) (2025-10-25)
-- [Ball x Pit is a deep, delightful rabbit hole](https://www.theverge.com/games/805022/ball-x-pit-review-pc-nintendo-switch-ps5-xbox-series-x-s) (2025-10-25)
 
 </details>
 
@@ -97,22 +97,25 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Unlocking Developer Revenue: Dual Monetization Strategies for LLM Apps with Monetzly](https://dev.to/monetzly/unlocking-developer-revenue-dual-monetization-strategies-for-llm-apps-with-monetzly-4oep) (2025-10-26)
-- [Build Your First Movie Recommendation Engine in Python](https://dev.to/saint2706/build-your-first-movie-recommendation-engine-in-python-5585) (2025-10-26)
-- [Django REST Framework Views Decoded: Choosing Between FBVs, APIView, Generics, and ViewSets](https://dev.to/sizan_mahmud0_e7c3fd0cb68/django-rest-framework-views-decoded-choosing-between-fbvs-apiview-generics-and-viewsets-32i9) (2025-10-26)
-- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_ece4a271/your-projects-a-mess-its-not-you-its-your-frameworks-fault-432o) (2025-10-26)
-- [8-Bit Music Theory: How to Write Gorgeous Chords like Masashi Hamauzu](https://dev.to/music_youtube/8-bit-music-theory-how-to-write-gorgeous-chords-like-masashi-hamauzu-1cga) (2025-10-26)
+- [5 lines of code = OTP login system in Telegram 🤯](https://dev.to/jahongir2007/5-lines-of-code-otp-login-system-in-telegram-p82) (2025-10-26)
+- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can't Strike Their Irons & hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-2heo) (2025-10-26)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-1b99) (2025-10-26)
+- [CinemaSins: Everything Wrong With Every Saw Movie EVER (That We've Sinned So Far)](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-35cj) (2025-10-26)
+- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-2805) (2025-10-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Jack of All Trades Master of Many “Master of None”](https://medium.com/@dongkidongkidong/the-jack-of-all-trades-master-of-many-master-of-none-2dc59d28aec9?source=rss------programming-5) (2025-10-26)
-- [How I Debug 10x Faster With One Simple Strategy](https://blog.stackademic.com/how-i-debug-10x-faster-with-one-simple-strategy-81059b1a4677?source=rss------programming-5) (2025-10-26)
-- [How Hackers Really Think (And Why You Should Too)](https://blog.stackademic.com/how-hackers-really-think-and-why-you-should-too-954505de5440?source=rss------programming-5) (2025-10-26)
-- [I Built an AI That Writes My Reports :and My Boss Still Hasn’t Noticed](https://ai.plainenglish.io/i-built-an-ai-that-writes-my-reports-and-my-boss-still-hasnt-noticed-f1f09dd8dbe0?source=rss------programming-5) (2025-10-26)
-- [How to Fix Subtle Working File Color in IntelliJ IDEA | Quick Settings Guide](https://fresult.medium.com/how-to-fix-subtle-working-file-color-in-intellij-idea-quick-settings-guide-65e50006fb9c?source=rss------programming-5) (2025-10-26)
+- [9 Python Libraries So Addictive, I Can’t Code Without Them Anymore](https://medium.com/@arfaali/9-python-libraries-so-addictive-i-cant-code-without-them-anymore-209853536a6d?source=rss------programming-5) (2025-10-26)
+- [The 2-hour upgrade: coder → engineer](https://medium.com/@dev_tips/the-2-hour-upgrade-coder-engineer-cedca81507c9?source=rss------programming-5) (2025-10-26)
+- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@3skwkwmqmmqnw/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-48bed3ddf3b1?source=rss------programming-5) (2025-10-26)
+- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@3skwkwmqmmqnw/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-27f3ba23ab3d?source=rss------programming-5) (2025-10-26)
+- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@3skwkwmqmmqnw/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-333bfd627228?source=rss------programming-5) (2025-10-26)
 
 </details>
 
@@ -503,11 +506,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/manage-twilio-verify-safe
 <details>
 <summary>💬 Slack API</summary>
 
+- [Customer Connection: How It Drives Loyalty and Business Growth](https://slack.com/blog/collaboration/customer-connection-how-it-drives-loyalty-and-business-growth) (2025-10-23)
+- [Master Effective Communication Skills With These 10 Techniques](https://slack.com/blog/collaboration/master-effective-communication-skills-with-these-10-techniques) (2025-10-23)
+- [What Is Customer Data Integration, and Why Is It Important?](https://slack.com/blog/transformation/what-is-customer-data-integration-and-why-is-it-important) (2025-10-23)
+- [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2025-10-23)
 - [What Is Multifactor Authentication (MFA): Definition and Benefits](https://slack.com/blog/productivity/what-is-multifactor-authentication-mfa-definition-and-benefits) (2025-10-22)
-- [How Strategic Planning Aligns Teams and Drives Results](https://slack.com/blog/collaboration/how-strategic-planning-aligns-teams-and-drives-results) (2025-10-21)
-- [Teamwork or Collaboration? Choosing the Right Approach](https://slack.com/blog/collaboration/teamwork-or-collaboration-choosing-the-right-approach) (2025-10-21)
-- [18 AI Tools Your Team Will Actually Want to Use](https://slack.com/blog/productivity/18-ai-tools-your-team-will-actually-want-to-use) (2025-10-21)
-- [What Is Time Management? Strategies for Success](https://slack.com/blog/productivity/what-is-time-management-strategies-for-success) (2025-10-21)
 
 </details>
 
@@ -580,11 +583,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/manage-twilio-verify-safe
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Top 5 Beginner-Friendly Courses to Level Up with Google Skills](https://www.analyticsvidhya.com/blog/2025/10/beginner-friendly-courses-google-skills/) (2025-10-26)
 - [Less Syntax, More Insights: LLMs as SQL Copilots](https://www.analyticsvidhya.com/blog/2025/10/llms-as-sql-copilots/) (2025-10-25)
 - [Claude Haiku 4.5 is Here… and it’s BETTER than Sonnet 4.5?](https://www.analyticsvidhya.com/blog/2025/10/claude-haiku-4-5/) (2025-10-24)
 - [Guardrails in LLMs: Building Reliable AI Systems with Guardrails](https://www.analyticsvidhya.com/blog/2025/10/guardrails-in-llm/) (2025-10-24)
 - [Poisoning Attacks on LLMs: A Direct Attack on LLMs with Less than 250 Samples](https://www.analyticsvidhya.com/blog/2025/10/llm-data-poisoning/) (2025-10-24)
-- [Less is More: Recursive Reasoning with Tiny Networks](https://www.analyticsvidhya.com/blog/2025/10/trm-recursive-reasoning/) (2025-10-23)
 
 </details>
 
