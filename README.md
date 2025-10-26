@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [OpenAI reportedly developing new generative music tool](https://techcrunch.com/2025/10/25/openai-reportedly-developing-new-generative-music-tool/) (2025-10-25)
+- [High school’s AI security system confuses Doritos bag for a possible firearm](https://techcrunch.com/2025/10/25/high-schools-ai-security-system-confuses-doritos-bag-for-a-possible-firearm/) (2025-10-25)
 - [Who are AI browsers for?](https://techcrunch.com/2025/10/25/who-are-ai-browsers-for/) (2025-10-25)
 - [TikTok robot star Rizzbot gave me the middle finger](https://techcrunch.com/2025/10/25/tiktok-robot-star-rizzbot-gave-me-the-middle-finger/) (2025-10-25)
 - [India, the market BlaBlaCar once walked away from, is now its biggest](https://techcrunch.com/2025/10/25/india-the-market-blablacar-once-walked-away-from-is-now-its-biggest/) (2025-10-25)
-- [The glaring security risks with AI browser agents](https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/) (2025-10-25)
-- [Musk’s ad chief at X departs after just 10 months](https://techcrunch.com/2025/10/24/musks-ad-chief-at-x-departs-after-just-10-months/) (2025-10-25)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Libera Chat receives legal advice that the Online Safety Act does not apply to](https://libera.chat/news/advised) (2025-10-25)
-- [Rock Tumbler Instructions: Turning Rough Rocks into Beautiful Tumbled Stones](https://rocktumbler.com/tips/rock-tumbler-instructions/) (2025-10-25)
-- [Against SQL](https://www.scattered-thoughts.net/writing/against-sql/) (2025-10-25)
-- [DNA reveals the real killers that brought down Napoleon's army](https://www.gavi.org/vaccineswork/dna-reveals-real-killers-brought-down-napoleons-army) (2025-10-25)
-- [Synadia and TigerBeetle Commit $512k USD to the Zig Software Foundation](https://www.synadia.com/blog/synadia-tigerbeetle-zig-foundation-pledge) (2025-10-25)
+- [The Linux Boot Process: From Power Button to Kernel](https://www.0xkato.xyz/linux-boot/) (2025-10-25)
+- [D2: Diagram Scripting Language](https://d2lang.com/tour/intro/) (2025-10-25)
+- [Belittled Magazine: Thirty years after the Sokal affair](https://thebaffler.com/salvos/belittled-magazine-robbins) (2025-10-25)
+- [How programs get run: ELF binaries (2015)](https://lwn.net/Articles/631631/) (2025-10-25)
+- [An Efficient Implementation of SELF (1989) [pdf]](https://courses.cs.washington.edu/courses/cse501/15sp/papers/chambers.pdf) (2025-10-25)
 
 </details>
 
@@ -97,25 +97,26 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can't Strike Their Irons & hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-2ooc) (2025-10-25)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-4ak) (2025-10-25)
-- [ApexQuest: Architecting Trust - Where Every AI Agent is Authenticated by Auth0](https://dev.to/divyasinghdev/apexquest-architecting-trust-where-every-ai-agent-is-authenticated-by-auth0-23l9) (2025-10-25)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER (That We've Sinned So Far)](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-54h3) (2025-10-25)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-245l) (2025-10-25)
+- [Automating Infrastructure Provisioning with Terraform, AWS S3 Remote Backend, and GitHub Actions](https://dev.to/keneojiteli/automating-infrastructure-provisioning-with-terraform-aws-s3-remote-backend-and-github-actions-2k5b) (2025-10-26)
+- [Rust for JavaScript Developers: A Complete Roadmap](https://dev.to/mayu2008/rust-for-javascript-developers-a-complete-roadmap-232p) (2025-10-26)
+- [Your-Deployments-Are-Stuck-in-the-Past-The-Lost-Art-of-the-Hot-Restart](https://dev.to/member_3bfe2e68/your-deployments-are-stuck-in-the-past-the-lost-art-of-the-hot-restart-29b8) (2025-10-26)
+- [Presento GozoLite — un Code Executor modular que ejecuta 29 lenguajes reales, hecho por TotyLabs](https://dev.to/darkbyte01/presento-gozolite-un-code-executor-modular-que-ejecuta-29-lenguajes-reales-hecho-por-totylabs-2amd) (2025-10-26)
+- [Post 2 — Contribution Chronicles](https://dev.to/p_thabiwa_0ca34c2f83/post-2-contribution-chronicles-3ago) (2025-10-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Build Your Own Dictionary: Subclassing UserDict vs. dict](https://medium.com/@tihomir.manushev/build-your-own-dictionary-subclassing-userdict-vs-dict-cf72628e4631?source=rss------programming-5) (2025-10-25)
-- [09010712940شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@xjjdsdjjdhxhxdjdiisjdhdhd/09010712940%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-3acba3892f82?source=rss------programming-5) (2025-10-25)
-- [09010712940شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@xjjdsdjjdhxhxdjdiisjdhdhd/09010712940%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-9a8d1f75ae2e?source=rss------programming-5) (2025-10-25)
-- [09010712940شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@xjjdsdjjdhxhxdjdiisjdhdhd/09010712940%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-fd7eec61da68?source=rss------programming-5) (2025-10-25)
-- [The Journey of Pattern Recognition: From Instinct to Intelligence](https://ai.plainenglish.io/the-journey-of-pattern-recognition-from-instinct-to-intelligence-bc586fcb63c7?source=rss------programming-5) (2025-10-25)
+- [How to claim snort presale airdrop](https://medium.com/@bridgeAI2/how-to-claim-snort-presale-airdrop-5aed73bb368f?source=rss------programming-5) (2025-10-26)
+- [09232174161شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@fylm48870/09232174161%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-01e61ce29752?source=rss------programming-5) (2025-10-26)
+- [09232174161شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@fylm48870/09232174161%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-c5b5e86d939b?source=rss------programming-5) (2025-10-26)
+- [09232174161شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@fylm48870/09232174161%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-3f418fb54e57?source=rss------programming-5) (2025-10-26)
+- [09232174161شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kdksksmsm31/09232174161%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-33fa58c1e0e4?source=rss------programming-5) (2025-10-26)
 
 </details>
 
@@ -133,11 +134,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Fully managed cloud-to-cloud transfers with Azure Storage Mover](https://azure.microsoft.com/en-us/blog/fully-managed-cloud-to-cloud-transfers-with-azure-storage-mover/) (2025-10-23)
+- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2025-10-22)
+- [The Signals Loop: Fine-tuning for world-class AI apps and agents ](https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/) (2025-10-21)
 - [Innovation spotlight: How 3 customers are driving change with migration to Azure SQL](https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/) (2025-10-20)
 - [From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available](https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/) (2025-10-16)
-- [Sora 2 now available in Azure AI Foundry](https://azure.microsoft.com/en-us/blog/sora-2-now-available-in-azure-ai-foundry/) (2025-10-15)
-- [Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation](https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/) (2025-10-14)
-- [Accelerating open-source infrastructure development for frontier AI at scale](https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/) (2025-10-14)
 
 </details>
 
@@ -506,11 +507,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/manage-twilio-verify-safe
 <details>
 <summary>💬 Slack API</summary>
 
+- [Customer Connection: How It Drives Loyalty and Business Growth](https://slack.com/blog/collaboration/customer-connection-how-it-drives-loyalty-and-business-growth) (2025-10-23)
+- [Master Effective Communication Skills With These 10 Techniques](https://slack.com/blog/collaboration/master-effective-communication-skills-with-these-10-techniques) (2025-10-23)
+- [What Is Customer Data Integration, and Why Is It Important?](https://slack.com/blog/transformation/what-is-customer-data-integration-and-why-is-it-important) (2025-10-23)
+- [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2025-10-23)
 - [What Is Multifactor Authentication (MFA): Definition and Benefits](https://slack.com/blog/productivity/what-is-multifactor-authentication-mfa-definition-and-benefits) (2025-10-22)
-- [How Strategic Planning Aligns Teams and Drives Results](https://slack.com/blog/collaboration/how-strategic-planning-aligns-teams-and-drives-results) (2025-10-21)
-- [Teamwork or Collaboration? Choosing the Right Approach](https://slack.com/blog/collaboration/teamwork-or-collaboration-choosing-the-right-approach) (2025-10-21)
-- [18 AI Tools Your Team Will Actually Want to Use](https://slack.com/blog/productivity/18-ai-tools-your-team-will-actually-want-to-use) (2025-10-21)
-- [What Is Time Management? Strategies for Success](https://slack.com/blog/productivity/what-is-time-management-strategies-for-success) (2025-10-21)
 
 </details>
 
