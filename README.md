@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Trump and Xi will ‘consummate’ TikTok deal on Thursday, treasury secretary says](https://techcrunch.com/2025/10/26/trump-and-xi-will-consummate-tiktok-deal-on-thursday-treasury-secretary-says/) (2025-10-26)
+- [TechCrunch Mobility: The ‘robot army’ argument](https://techcrunch.com/2025/10/26/techcrunch-mobility-the-robot-army-argument/) (2025-10-26)
+- [Less than 24 hours until 10,000 founders, investors, and innovators hit TechCrunch Disrupt 2025 — and ticket rates rise](https://techcrunch.com/2025/10/26/less-than-24-hours-until-10000-founders-investors-and-innovators-hit-techcrunch-disrupt-2025-and-ticket-rates-rise/) (2025-10-26)
 - [OpenAI reportedly developing new generative music tool](https://techcrunch.com/2025/10/25/openai-reportedly-developing-new-generative-music-tool/) (2025-10-25)
 - [High school’s AI security system confuses Doritos bag for a possible firearm](https://techcrunch.com/2025/10/25/high-schools-ai-security-system-confuses-doritos-bag-for-a-possible-firearm/) (2025-10-25)
-- [Who are AI browsers for?](https://techcrunch.com/2025/10/25/who-are-ai-browsers-for/) (2025-10-25)
-- [TikTok robot star Rizzbot gave me the middle finger](https://techcrunch.com/2025/10/25/tiktok-robot-star-rizzbot-gave-me-the-middle-finger/) (2025-10-25)
-- [India, the market BlaBlaCar once walked away from, is now its biggest](https://techcrunch.com/2025/10/25/india-the-market-blablacar-once-walked-away-from-is-now-its-biggest/) (2025-10-25)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [My favorite cult sci-fi and fantasy books you may not have heard of before](https://shepherd.com/best-books/cult-sci-fi-and-fantasy-you-may-not-have-heard-of) (2025-10-26)
-- [You Already Have a Git Server](https://maurycyz.com/misc/easy_git/) (2025-10-26)
-- [Connect to a 1980s Atari BBS through the web](https://www.southernamis.com/ataribbsconnect) (2025-10-26)
-- [Asbestosis](https://diamondgeezer.blogspot.com/2025/10/asbestosis.html) (2025-10-26)
-- [What If Tariffs?](https://www.swatch.com/en-en/what-if-tariffs-so34z106/SO34Z106.html) (2025-10-26)
+- [Show HN: FlashRecord – 2MB Python-native CLI screen recorder](https://github.com/Flamehaven/FlashRecord) (2025-10-26)
+- [Books by People – Defending Organic Literature in an AI World](https://booksbypeople.org/) (2025-10-26)
+- [Movie Posters from Africa That Are So Bad, They're Good](https://www.utterlyinteresting.com/post/bizarre-movie-posters-from-africa-that-are-so-bad-they-re-good) (2025-10-26)
+- [Myanmar military shuts down a major cybercrime center, detains over 2k people](https://apnews.com/article/scam-centers-cybercrime-myanmar-a2c9fda85187121e51bd0efdf29c81da) (2025-10-26)
+- [The FSF considers large language models](https://lwn.net/Articles/1040888/) (2025-10-26)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [You need to listen to the brutally oppressive I’ve Seen All I Need to See](https://www.theverge.com/column/806767/you-need-to-listen-to-the-body-ive-seen-all-i-need-to-see) (2025-10-26)
+- [Adobe’s Project Indigo camera finally adds iPhone 17 support](https://www.theverge.com/news/806779/adobes-project-indigo-camera-finally-adds-iphone-17-support) (2025-10-26)
+- [How Guitar Hero made everybody a rock star](https://www.theverge.com/podcast/806168/guitar-hero-game-version-history) (2025-10-26)
 - [The next legal frontier is your face and AI](https://www.theverge.com/column/805821/the-next-legal-frontier-is-your-face-and-ai) (2025-10-26)
 - [My favorite e-reader just got a big update](https://www.theverge.com/tech/806697/boox-palma-2-pro-chatgpt-atlas-galaxy-xr-installer) (2025-10-26)
-- [Tech left teens fighting over scraps, and now it wants those too](https://www.theverge.com/report/806728/tech-left-teens-fighting-over-scraps-robots-taking-jobs) (2025-10-25)
-- [AirTags and cheap gaming laptops headline our favorite deals this week](https://www.theverge.com/tech/806174/apple-airtag-hulu-with-live-tv-deal-sale) (2025-10-25)
-- [What does nearly $6,000 of gaming laptop get you?](https://www.theverge.com/tech/806052/msi-titan-18-ai-rtx-5090-gaming-laptop-review) (2025-10-25)
 
 </details>
 
@@ -97,25 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [5 lines of code = OTP login system in Telegram 🤯](https://dev.to/jahongir2007/5-lines-of-code-otp-login-system-in-telegram-p82) (2025-10-26)
-- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can't Strike Their Irons & hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-2heo) (2025-10-26)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-1b99) (2025-10-26)
-- [CinemaSins: Everything Wrong With Every Saw Movie EVER (That We've Sinned So Far)](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-every-saw-movie-ever-that-weve-sinned-so-far-35cj) (2025-10-26)
-- [CinemaSins: Everything Wrong With Final Destination: Bloodlines in 24 Minutes or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-final-destination-bloodlines-in-24-minutes-or-less-2805) (2025-10-26)
+- [NaViL: Rethinking Scaling Properties of Native Multimodal Large Language Modelsunder Data Constraints](https://dev.to/paperium/navil-rethinking-scaling-properties-of-native-multimodal-large-language-modelsunder-data-49ej) (2025-10-26)
+- [How to Write Clean DTO & Entity Mappers in Java (with Spring Boot)](https://dev.to/gianfcop98/how-to-write-clean-dto-entity-mappers-in-java-with-spring-boot-5ac6) (2025-10-26)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-32dj) (2025-10-26)
+- [Visualize Tailscale Network Flow Logs with New Relic](https://dev.to/pnvnd/visualize-tailscale-network-flow-logs-with-new-relic-1mfg) (2025-10-26)
+- [Why New Businesses Should Build Their Websites with Next.js](https://dev.to/shoyayeb/why-new-businesses-should-build-their-websites-with-nextjs-4ek4) (2025-10-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [9 Python Libraries So Addictive, I Can’t Code Without Them Anymore](https://medium.com/@arfaali/9-python-libraries-so-addictive-i-cant-code-without-them-anymore-209853536a6d?source=rss------programming-5) (2025-10-26)
-- [The 2-hour upgrade: coder → engineer](https://medium.com/@dev_tips/the-2-hour-upgrade-coder-engineer-cedca81507c9?source=rss------programming-5) (2025-10-26)
-- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@3skwkwmqmmqnw/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-48bed3ddf3b1?source=rss------programming-5) (2025-10-26)
-- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@3skwkwmqmmqnw/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-27f3ba23ab3d?source=rss------programming-5) (2025-10-26)
-- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@3skwkwmqmmqnw/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-333bfd627228?source=rss------programming-5) (2025-10-26)
+- [ Mastering APIs: The Complete Guide to REST vs RESTful APIs (with Examples & Pro Tips)](https://blog.stackademic.com/mastering-apis-the-complete-guide-to-rest-vs-restful-apis-with-examples-pro-tips-1209aabb9495?source=rss------programming-5) (2025-10-26)
+- [Nigeria cybercrime law](https://medium.com/@chiamaka.o/nigeria-cybercrime-law-96f7f12a0dca?source=rss------programming-5) (2025-10-26)
+- [PHP 8.5 Alpha + Laravel: First Benchmarks & Gotchas You Shouldn’t Ignore](https://sadiqueali.medium.com/php-8-5-alpha-laravel-first-benchmarks-gotchas-you-shouldnt-ignore-a7b2d5bf2728?source=rss------programming-5) (2025-10-26)
+- [Godot 4: The Book of Code](https://christinec-dev.medium.com/godot-4-the-book-of-code-148ebdb60a3e?source=rss------programming-5) (2025-10-26)
+- [How Rust Bootstraps in a Bare-Metal Environment](https://medium.com/@theopinionatedev/how-rust-bootstraps-in-a-bare-metal-environment-46f8a49320b4?source=rss------programming-5) (2025-10-26)
 
 </details>
 
@@ -133,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Fully managed cloud-to-cloud transfers with Azure Storage Mover](https://azure.microsoft.com/en-us/blog/fully-managed-cloud-to-cloud-transfers-with-azure-storage-mover/) (2025-10-23)
-- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2025-10-22)
-- [The Signals Loop: Fine-tuning for world-class AI apps and agents ](https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/) (2025-10-21)
 - [Innovation spotlight: How 3 customers are driving change with migration to Azure SQL](https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/) (2025-10-20)
 - [From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available](https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/) (2025-10-16)
+- [Sora 2 now available in Azure AI Foundry](https://azure.microsoft.com/en-us/blog/sora-2-now-available-in-azure-ai-foundry/) (2025-10-15)
+- [Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation](https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/) (2025-10-14)
+- [Accelerating open-source infrastructure development for frontier AI at scale](https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/) (2025-10-14)
 
 </details>
 
@@ -506,11 +503,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/manage-twilio-verify-safe
 <details>
 <summary>💬 Slack API</summary>
 
-- [Customer Connection: How It Drives Loyalty and Business Growth](https://slack.com/blog/collaboration/customer-connection-how-it-drives-loyalty-and-business-growth) (2025-10-23)
-- [Master Effective Communication Skills With These 10 Techniques](https://slack.com/blog/collaboration/master-effective-communication-skills-with-these-10-techniques) (2025-10-23)
-- [What Is Customer Data Integration, and Why Is It Important?](https://slack.com/blog/transformation/what-is-customer-data-integration-and-why-is-it-important) (2025-10-23)
-- [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2025-10-23)
 - [What Is Multifactor Authentication (MFA): Definition and Benefits](https://slack.com/blog/productivity/what-is-multifactor-authentication-mfa-definition-and-benefits) (2025-10-22)
+- [How Strategic Planning Aligns Teams and Drives Results](https://slack.com/blog/collaboration/how-strategic-planning-aligns-teams-and-drives-results) (2025-10-21)
+- [Teamwork or Collaboration? Choosing the Right Approach](https://slack.com/blog/collaboration/teamwork-or-collaboration-choosing-the-right-approach) (2025-10-21)
+- [18 AI Tools Your Team Will Actually Want to Use](https://slack.com/blog/productivity/18-ai-tools-your-team-will-actually-want-to-use) (2025-10-21)
+- [What Is Time Management? Strategies for Success](https://slack.com/blog/productivity/what-is-time-management-strategies-for-success) (2025-10-21)
 
 </details>
 
@@ -572,11 +569,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/manage-twilio-verify-safe
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Power of Framework Dimensions: What Data Scientists Should Know](https://towardsdatascience.com/the-power-of-framework-dimensions-what-data-scientists-should-know/) (2025-10-26)
+- [AI Agents: From Assistants for Efficiency to Leaders of Tomorrow?](https://towardsdatascience.com/ai-agents-from-assistants-for-efficiency-to-leaders-of-tomorrow/) (2025-10-26)
 - [Data Visualization Explained (Part 4): A Review of Python Essentials](https://towardsdatascience.com/data-visualization-explained-part-4-a-review-of-python-essentials/) (2025-10-25)
 - [Building a Geospatial Lakehouse with Open Source and Databricks](https://towardsdatascience.com/building-a-geospatial-lakehouse-with-open-source-and-databricks-2/) (2025-10-25)
 - [Agentic AI from First Principles: Reflection](https://towardsdatascience.com/agentic-ai-from-first-principles-reflection/) (2025-10-24)
-- [How to Consistently Extract Metadata from Complex Documents](https://towardsdatascience.com/how-to-consistently-extract-metadata-from-complex-documents/) (2025-10-24)
-- [Choosing the Best Model Size and Dataset Size under a Fixed Budget for LLMs](https://towardsdatascience.com/choosing-the-best-model-size-and-dataset-size-under-a-fixed-budget-for-llms/) (2025-10-24)
 
 </details>
 
