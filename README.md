@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [We're in the wrong moment](https://ezrichards.github.io/posts/were-in-the-wrong-moment/) (2025-10-27)
+- [ICE Will Use AI to Surveil Social Media](https://jacobin.com/2025/10/ice-zignal-surveillance-social-media) (2025-10-27)
+- [How I turned Zig into my favorite language to write network programs in](https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html) (2025-10-27)
 - [Are-we-fast-yet implementations in Oberon, C++, C, Pascal, Micron and Luon](https://github.com/rochus-keller/Are-we-fast-yet) (2025-10-26)
 - [Microsoft 365 Copilot – Arbitrary Data Exfiltration via Mermaid Diagrams](https://www.adamlogue.com/microsoft-365-copilot-arbitrary-data-exfiltration-via-mermaid-diagrams-fixed/) (2025-10-26)
-- [AI Mafia Network – An interactive visualization](https://dipakwani.com/ai-mafia/) (2025-10-26)
-- [Show HN: Helium Browser for Android with extensions support, based on Vanadium](https://github.com/jqssun/android-helium-browser) (2025-10-26)
-- [Poison, Poison Everywhere](https://loeber.substack.com/p/29-poison-poison-everywhere) (2025-10-26)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [DevSecOps: Modelo de madurez y alternativas de implementación](https://dev.to/djhuertasg/devsecops-modelo-de-madurez-y-alternativas-de-implementacion-168c) (2025-10-27)
-- [Full Stack Fatigue:](https://dev.to/cheetah100/full-stack-fatigue-22de) (2025-10-27)
-- [SERP AI Agent Search with Thordata + OpenAI GPT-4.1-mini in n8n](https://dev.to/ranjancse/serp-ai-agent-search-with-thordata-openai-gpt-41-mini-in-n8n-3lh7) (2025-10-27)
-- [How to Build a Spam Detector with ML and Python](https://dev.to/hew/how-to-build-a-spam-detector-with-ml-and-python-3b5p) (2025-10-27)
-- [Learning on the Job: An Experience-Driven Self-Evolving Agent for Long-HorizonTasks](https://dev.to/paperium/learning-on-the-job-an-experience-driven-self-evolving-agent-for-long-horizontasks-38j3) (2025-10-27)
+- [Task0 - AI task manager](https://dev.to/itsmefminsaf/task0-ai-task-manager-181a) (2025-10-27)
+- [Check out the guide on - The Power of Grouping in Tableau](https://dev.to/dipti_moryani_185c244d578/check-out-the-guide-on-the-power-of-grouping-in-tableau-k74) (2025-10-27)
+- [The Power of Grouping in Tableau](https://dev.to/dipti_moryani_185c244d578/the-power-of-grouping-in-tableau-2ejp) (2025-10-27)
+- [Hashicorp Vault CLI Part 1: Initialization, Authentication & Plugin Management](https://dev.to/admantium/hashicorp-vault-cli-part-1-initialization-authentication-plugin-management-2ndl) (2025-10-27)
+- [Why I Replaced My Dev Stack With One AI Workspace](https://dev.to/rohit_gavali_0c2ad84fe4e0/why-i-replaced-my-dev-stack-with-one-ai-workspace-e2f) (2025-10-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why I Choose Neovim (with LazyVim) Over Full-Blown GUI IDEs](https://medium.com/@tuliopinheiroc23/why-i-choose-neovim-with-lazyvim-over-full-blown-gui-ides-0898d3408a4d?source=rss------programming-5) (2025-10-27)
-- [Project Loom Has Landed. Will It Save Java, or Just Complicate Spring Boot?](https://medium.com/@himanshu675/project-loom-has-landed-will-it-save-java-or-just-complicate-spring-boot-474823677d17?source=rss------programming-5) (2025-10-27)
-- [Python vs. JavaScript for Data Science: Pros, Cons, and Use Cases](https://medium.com/@Jason-Han/python-vs-javascript-for-data-science-pros-cons-and-use-cases-18585309d8e2?source=rss------programming-5) (2025-10-27)
-- [ Important Update: I’m Moving My Content to a New Medium Channel](https://medium.com/the-pythonworld/important-update-im-moving-my-content-to-a-new-medium-channel-7a0e96db3581?source=rss------programming-5) (2025-10-27)
-- [No Backend Developer? No Problem: Build Full-Stack Flutter Apps with Riverpod 3.0](https://medium.com/@alaxhenry0121/no-backend-developer-no-problem-build-full-stack-flutter-apps-with-riverpod-3-0-caca552b44a8?source=rss------programming-5) (2025-10-27)
+- [Python’s Async: aiobotocore 2.25.0 and Its Move to AnyIO](https://medium.com/@ccpythonprogramming/pythons-async-aiobotocore-2-25-0-and-its-move-to-anyio-57a131073631?source=rss------programming-5) (2025-10-27)
+- [⚡ Mastering Next.js Server Actions in 2025 — The Future of Full-Stack React](https://medium.com/@EnaModernCoder/mastering-next-js-server-actions-in-2025-the-future-of-full-stack-react-0040c358c59b?source=rss------programming-5) (2025-10-27)
+- [ Django Guide to Designing Clean APIs](https://adimbrugh.medium.com/django-guide-to-designing-clean-apis-1f73330eabe2?source=rss------programming-5) (2025-10-27)
+- [C# Programming I — Introduction (EP01)](https://medium.com/@ycaktirma/c-programming-i-introduction-ep01-585f8b42f1ac?source=rss------programming-5) (2025-10-27)
+- [I Switched From Windows to Linux for One Month — Here’s What Happened](https://pawannatekar220.medium.com/i-switched-from-windows-to-linux-for-one-month-heres-what-happened-17b01a490439?source=rss------programming-5) (2025-10-27)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Innovation spotlight: How 3 customers are driving change with migration to Azure SQL](https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/) (2025-10-20)
 - [From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available](https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/) (2025-10-16)
 - [Sora 2 now available in Azure AI Foundry](https://azure.microsoft.com/en-us/blog/sora-2-now-available-in-azure-ai-foundry/) (2025-10-15)
 - [Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation](https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/) (2025-10-14)
 - [Accelerating open-source infrastructure development for frontier AI at scale](https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/) (2025-10-14)
+- [FYAI: Why developers will lead AI transformation across the enterprise](https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/10/13/fyai-why-developers-will-lead-ai-transformation-across-the-enterprise/) (2025-10-13)
 
 </details>
 
