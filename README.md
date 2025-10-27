@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Accel and Prosus team up to back early-stage Indian startups](https://techcrunch.com/2025/10/26/accel-and-prosus-team-up-to-back-early-stage-indian-startups-building-for-1-4b-people/) (2025-10-26)
+- [Ads might be coming to Apple Maps next year](https://techcrunch.com/2025/10/26/ads-might-be-coming-to-apple-maps-next-year/) (2025-10-26)
+- [TechCrunch Disrupt 2025 begins in less than 24 hours — catch our last ticket deals](https://techcrunch.com/2025/10/26/techcrunch-disrupt-2025-begins-in-less-than-24-hours-catch-our-last-ticket-deals/) (2025-10-26)
 - [Trump and Xi will ‘consummate’ TikTok deal on Thursday, treasury secretary says](https://techcrunch.com/2025/10/26/trump-and-xi-will-consummate-tiktok-deal-on-thursday-treasury-secretary-says/) (2025-10-26)
 - [TechCrunch Mobility: The ‘robot army’ argument](https://techcrunch.com/2025/10/26/techcrunch-mobility-the-robot-army-argument/) (2025-10-26)
-- [Less than 24 hours until 10,000 founders, investors, and innovators hit TechCrunch Disrupt 2025 — and ticket rates rise](https://techcrunch.com/2025/10/26/less-than-24-hours-until-10000-founders-investors-and-innovators-hit-techcrunch-disrupt-2025-and-ticket-rates-rise/) (2025-10-26)
-- [OpenAI reportedly developing new generative music tool](https://techcrunch.com/2025/10/25/openai-reportedly-developing-new-generative-music-tool/) (2025-10-25)
-- [High school’s AI security system confuses Doritos bag for a possible firearm](https://techcrunch.com/2025/10/25/high-schools-ai-security-system-confuses-doritos-bag-for-a-possible-firearm/) (2025-10-25)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: FlashRecord – 2MB Python-native CLI screen recorder](https://github.com/Flamehaven/FlashRecord) (2025-10-26)
-- [Books by People – Defending Organic Literature in an AI World](https://booksbypeople.org/) (2025-10-26)
-- [Movie Posters from Africa That Are So Bad, They're Good](https://www.utterlyinteresting.com/post/bizarre-movie-posters-from-africa-that-are-so-bad-they-re-good) (2025-10-26)
-- [Myanmar military shuts down a major cybercrime center, detains over 2k people](https://apnews.com/article/scam-centers-cybercrime-myanmar-a2c9fda85187121e51bd0efdf29c81da) (2025-10-26)
-- [The FSF considers large language models](https://lwn.net/Articles/1040888/) (2025-10-26)
+- [Are-we-fast-yet implementations in Oberon, C++, C, Pascal, Micron and Luon](https://github.com/rochus-keller/Are-we-fast-yet) (2025-10-26)
+- [Microsoft 365 Copilot – Arbitrary Data Exfiltration via Mermaid Diagrams](https://www.adamlogue.com/microsoft-365-copilot-arbitrary-data-exfiltration-via-mermaid-diagrams-fixed/) (2025-10-26)
+- [AI Mafia Network – An interactive visualization](https://dipakwani.com/ai-mafia/) (2025-10-26)
+- [Show HN: Helium Browser for Android with extensions support, based on Vanadium](https://github.com/jqssun/android-helium-browser) (2025-10-26)
+- [Poison, Poison Everywhere](https://loeber.substack.com/p/29-poison-poison-everywhere) (2025-10-26)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [NaViL: Rethinking Scaling Properties of Native Multimodal Large Language Modelsunder Data Constraints](https://dev.to/paperium/navil-rethinking-scaling-properties-of-native-multimodal-large-language-modelsunder-data-49ej) (2025-10-26)
-- [How to Write Clean DTO & Entity Mappers in Java (with Spring Boot)](https://dev.to/gianfcop98/how-to-write-clean-dto-entity-mappers-in-java-with-spring-boot-5ac6) (2025-10-26)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-32dj) (2025-10-26)
-- [Visualize Tailscale Network Flow Logs with New Relic](https://dev.to/pnvnd/visualize-tailscale-network-flow-logs-with-new-relic-1mfg) (2025-10-26)
-- [Why New Businesses Should Build Their Websites with Next.js](https://dev.to/shoyayeb/why-new-businesses-should-build-their-websites-with-nextjs-4ek4) (2025-10-26)
+- [DevSecOps: Modelo de madurez y alternativas de implementación](https://dev.to/djhuertasg/devsecops-modelo-de-madurez-y-alternativas-de-implementacion-168c) (2025-10-27)
+- [Full Stack Fatigue:](https://dev.to/cheetah100/full-stack-fatigue-22de) (2025-10-27)
+- [SERP AI Agent Search with Thordata + OpenAI GPT-4.1-mini in n8n](https://dev.to/ranjancse/serp-ai-agent-search-with-thordata-openai-gpt-41-mini-in-n8n-3lh7) (2025-10-27)
+- [How to Build a Spam Detector with ML and Python](https://dev.to/hew/how-to-build-a-spam-detector-with-ml-and-python-3b5p) (2025-10-27)
+- [Learning on the Job: An Experience-Driven Self-Evolving Agent for Long-HorizonTasks](https://dev.to/paperium/learning-on-the-job-an-experience-driven-self-evolving-agent-for-long-horizontasks-38j3) (2025-10-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ Mastering APIs: The Complete Guide to REST vs RESTful APIs (with Examples & Pro Tips)](https://blog.stackademic.com/mastering-apis-the-complete-guide-to-rest-vs-restful-apis-with-examples-pro-tips-1209aabb9495?source=rss------programming-5) (2025-10-26)
-- [Nigeria cybercrime law](https://medium.com/@chiamaka.o/nigeria-cybercrime-law-96f7f12a0dca?source=rss------programming-5) (2025-10-26)
-- [PHP 8.5 Alpha + Laravel: First Benchmarks & Gotchas You Shouldn’t Ignore](https://sadiqueali.medium.com/php-8-5-alpha-laravel-first-benchmarks-gotchas-you-shouldnt-ignore-a7b2d5bf2728?source=rss------programming-5) (2025-10-26)
-- [Godot 4: The Book of Code](https://christinec-dev.medium.com/godot-4-the-book-of-code-148ebdb60a3e?source=rss------programming-5) (2025-10-26)
-- [How Rust Bootstraps in a Bare-Metal Environment](https://medium.com/@theopinionatedev/how-rust-bootstraps-in-a-bare-metal-environment-46f8a49320b4?source=rss------programming-5) (2025-10-26)
+- [Why I Choose Neovim (with LazyVim) Over Full-Blown GUI IDEs](https://medium.com/@tuliopinheiroc23/why-i-choose-neovim-with-lazyvim-over-full-blown-gui-ides-0898d3408a4d?source=rss------programming-5) (2025-10-27)
+- [Project Loom Has Landed. Will It Save Java, or Just Complicate Spring Boot?](https://medium.com/@himanshu675/project-loom-has-landed-will-it-save-java-or-just-complicate-spring-boot-474823677d17?source=rss------programming-5) (2025-10-27)
+- [Python vs. JavaScript for Data Science: Pros, Cons, and Use Cases](https://medium.com/@Jason-Han/python-vs-javascript-for-data-science-pros-cons-and-use-cases-18585309d8e2?source=rss------programming-5) (2025-10-27)
+- [ Important Update: I’m Moving My Content to a New Medium Channel](https://medium.com/the-pythonworld/important-update-im-moving-my-content-to-a-new-medium-channel-7a0e96db3581?source=rss------programming-5) (2025-10-27)
+- [No Backend Developer? No Problem: Build Full-Stack Flutter Apps with Riverpod 3.0](https://medium.com/@alaxhenry0121/no-backend-developer-no-problem-build-full-stack-flutter-apps-with-riverpod-3-0-caca552b44a8?source=rss------programming-5) (2025-10-27)
 
 </details>
 
@@ -141,11 +141,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [NVIDIA Contributes to Open Frameworks for Next-Generation Robotics Development](https://blogs.nvidia.com/blog/roscon-2025-open-framework-robotics/) (2025-10-27)
 - [NVIDIA GTC Washington, DC: Live Updates on What’s Next in AI](https://blogs.nvidia.com/blog/nvidia-gtc-washington-dc-2025-news/) (2025-10-24)
 - [Open Source AI Week — How Developers and Contributors Are Advancing AI Innovation](https://blogs.nvidia.com/blog/open-source-ai-week/) (2025-10-24)
 - [Fangs Out, Frames Up: ‘Vampire: The Masquerade — Bloodlines 2’ Leads a Killer GFN Thursday](https://blogs.nvidia.com/blog/geforce-now-thursday-vampire-the-masquerades-bloodlines-2/) (2025-10-23)
 - [‘The Next Generation of Compute Is Driving AI,’ Technology Leader Says at NVIDIA AI Day Sydney](https://blogs.nvidia.com/blog/ai-day-sydney/) (2025-10-22)
-- [UC Santa Cruz Maps Coastal Flooding With NVIDIA Accelerated Computing](https://blogs.nvidia.com/blog/uc-santa-cruz-maps-coastal-flooding/) (2025-10-21)
 
 </details>
 
@@ -503,11 +503,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/manage-twilio-verify-safe
 <details>
 <summary>💬 Slack API</summary>
 
+- [Customer Connection: How It Drives Loyalty and Business Growth](https://slack.com/blog/collaboration/customer-connection-how-it-drives-loyalty-and-business-growth) (2025-10-23)
+- [Master Effective Communication Skills With These 10 Techniques](https://slack.com/blog/collaboration/master-effective-communication-skills-with-these-10-techniques) (2025-10-23)
+- [What Is Customer Data Integration, and Why Is It Important?](https://slack.com/blog/transformation/what-is-customer-data-integration-and-why-is-it-important) (2025-10-23)
+- [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2025-10-23)
 - [What Is Multifactor Authentication (MFA): Definition and Benefits](https://slack.com/blog/productivity/what-is-multifactor-authentication-mfa-definition-and-benefits) (2025-10-22)
-- [How Strategic Planning Aligns Teams and Drives Results](https://slack.com/blog/collaboration/how-strategic-planning-aligns-teams-and-drives-results) (2025-10-21)
-- [Teamwork or Collaboration? Choosing the Right Approach](https://slack.com/blog/collaboration/teamwork-or-collaboration-choosing-the-right-approach) (2025-10-21)
-- [18 AI Tools Your Team Will Actually Want to Use](https://slack.com/blog/productivity/18-ai-tools-your-team-will-actually-want-to-use) (2025-10-21)
-- [What Is Time Management? Strategies for Success](https://slack.com/blog/productivity/what-is-time-management-strategies-for-success) (2025-10-21)
 
 </details>
 
