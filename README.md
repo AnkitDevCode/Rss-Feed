@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Adobe Firefly Image 5 brings support for layers, will let creators make custom models](https://techcrunch.com/2025/10/28/adobe-firefly-image-5-brings-support-for-layers-will-let-creators-make-custom-models/) (2025-10-28)
+- [Adobe launches AI assistants for Express and Photoshop](https://techcrunch.com/2025/10/28/adobe-launches-ai-assistants-for-express-and-photoshop/) (2025-10-28)
+- [PayPal partners with OpenAI to let users pay for their shopping within ChatGPT](https://techcrunch.com/2025/10/28/paypal-partners-with-openai-to-let-users-pay-for-their-shopping-within-chatgpt/) (2025-10-28)
 - [OpenAI offers free ChatGPT Go for one year to all users in India](https://techcrunch.com/2025/10/27/openai-offers-free-chatgpt-go-for-one-year-to-all-users-in-india/) (2025-10-28)
 - [Venture capital is not an asset class, says Sequoia’s Roelof Botha](https://techcrunch.com/2025/10/27/venture-capital-is-not-an-asset-class-says-sequoias-roelof-botha/) (2025-10-28)
-- [CEO of Alphabet’s X, Astro Teller, on what makes a moonshot](https://techcrunch.com/2025/10/27/ceo-of-alphabets-x-astro-teller-on-what-makes-a-moonshot/) (2025-10-28)
-- [Zoom CEO Eric Yuan says AI will shorten our workweek](https://techcrunch.com/2025/10/27/zoom-ceo-eric-yuan-says-ai-will-shorten-our-workweek/) (2025-10-28)
-- [Roelof Botha explains why Sequoia supports Shaun Maguire after COO quit](https://techcrunch.com/2025/10/27/roelof-botha-explains-why-sequoia-supports-shaun-maguire-after-coo-quit/) (2025-10-27)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [I Built the Same App 10 Times: Evaluating Frameworks for Mobile Performance](https://www.lorenstew.art/blog/10-kanban-boards/) (2025-10-28)
-- [Tough truths about climate](https://www.gatesnotes.com/home/home-page-topic/reader/three-tough-truths-about-climate) (2025-10-28)
-- [Complete Digitization of Leonardo da Vinci's Codex Atlanticus](https://www.openculture.com/2025/10/digitization-of-leonardo-da-vincis-codex-atlanticus.html) (2025-10-28)
-- [AI can code, but it can't build software](https://bytesauna.com/post/coding-vs-software-engineering) (2025-10-27)
-- [Iroh-blobs](https://www.iroh.computer/blog/iroh-blobs-0-95-new-features) (2025-10-27)
+- [Amazon confirms 14,000 job losses in corporate division](https://www.bbc.com/news/articles/c1m3zm9jnl1o) (2025-10-28)
+- [Show HN: Bash Screensavers](https://github.com/attogram/bash-screensavers) (2025-10-28)
+- [Your vibe coded slop PR is not welcome](https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome) (2025-10-28)
+- [Understanding the Worst .NET Vulnerability](https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/) (2025-10-28)
+- [Situated Software – Clay Shirky (2004)](http://shirky.com/essays/situated-software/) (2025-10-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Elon Musk’s Grokipedia contains copied Wikipedia pages](https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied) (2025-10-28)
-- [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free) (2025-10-27)
-- [ExxonMobil accuses California of violating its free speech](https://www.theverge.com/news/807357/exxon-lawsuit-california-greenhouse-gas-climate-reporting-laws) (2025-10-27)
-- [Trump’s DHS is recruiting ICE officers with a Halo meme](https://www.theverge.com/news/807514/trump-white-house-dhs-ice-halo-image-meme-gamestop-console-wars) (2025-10-27)
-- [AMD, Department of Energy announce $1 billion AI supercomputer partnership](https://www.theverge.com/news/807483/amd-department-of-energy-announce-1-billion-ai-supercomputer-partnership) (2025-10-27)
+- [The government shutdown is delaying new gadgets](https://www.theverge.com/report/807850/government-shutdown-fcc-clearance-delaying-tech-products) (2025-10-28)
+- [Democrats slam FCC’s decision to ‘gut’ prison phone call price cap](https://www.theverge.com/news/807422/democrats-prison-phone-calls-fcc-letter) (2025-10-28)
+- [Kensington’s new trackball comes packed with scroll wheels](https://www.theverge.com/news/806297/kensington-expert-mouse-tb800-eq-trackball) (2025-10-28)
+- [Insta360’s X4 Air is a smaller and cheaper version of its 360-degree X5 action camera](https://www.theverge.com/news/806482/insta360-x4-air-action-camera-8k-replaceable-lenses) (2025-10-28)
+- [Adobe&#8217;s AI social media admin is here with &#8216;Project Moonlight&#8217;](https://www.theverge.com/news/807457/adobe-ai-agent-project-moonlight) (2025-10-28)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Trump’s UCLA deal: Pay us $1B+, and we can still cut your grants again](https://arstechnica.com/tech-policy/2025/10/trumps-ucla-deal-pay-us-1b-and-we-can-still-cut-your-grants-again/) (2025-10-28)
+- [Trump and Republicans join Big Oil’s push to shut down climate liability efforts](https://arstechnica.com/tech-policy/2025/10/trump-and-republicans-join-big-oils-push-to-shut-down-climate-liability-efforts/) (2025-10-28)
 - [Porsche’s 2026 911 Turbo S is a ballistic, twin-turbo, 701-horsepower monster](https://arstechnica.com/cars/2025/10/porsches-2026-911-turbo-s-is-a-ballistic-twin-turbo-701-horsepower-monster/) (2025-10-27)
 - [AI-powered search engines rely on “less popular” sources, researchers find](https://arstechnica.com/ai/2025/10/ai-powered-search-engines-rely-on-less-popular-sources-researchers-find/) (2025-10-27)
 - [AT&T ad congratulating itself for its ethics violated an ad-industry rule](https://arstechnica.com/tech-policy/2025/10/att-ad-congratulating-itself-for-its-ethics-violated-an-ad-industry-rule/) (2025-10-27)
-- [25 years, one website: ISS in Real Time captures quarter-century on space station](https://arstechnica.com/space/2025/10/25-years-one-website-iss-in-real-time-captures-quarter-century-on-space-station/) (2025-10-27)
-- [F1 in Mexico City: We have a new championship leader](https://arstechnica.com/cars/2025/10/f1-in-mexico-city-we-have-a-new-championship-leader/) (2025-10-27)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [“We will never build a sex robot,” says Mustafa Suleyman](https://www.technologyreview.com/2025/10/28/1126781/we-will-never-build-a-sex-robot-says-mustafa-suleyman/) (2025-10-28)
+- [An AI adoption riddle](https://www.technologyreview.com/2025/10/28/1126687/an-ai-adoption-riddle/) (2025-10-28)
 - [The Download: what to make of OpenAI’s Atlas browser, and how to make climate progress](https://www.technologyreview.com/2025/10/27/1126679/the-download-what-to-make-of-openais-atlas-browser-and-how-to-make-climate-progress/) (2025-10-27)
 - [I tried OpenAI’s new Atlas browser but I still don’t know what it’s for](https://www.technologyreview.com/2025/10/27/1126673/openai-new-atlas-browser/) (2025-10-27)
 - [Stand Up for Research, Innovation, and Education](https://www.technologyreview.com/2025/10/24/1126584/stand-up-for-research-innovation-and-education-2/) (2025-10-24)
-- [The Download: carbon removal’s future, and measuring pain using an app](https://www.technologyreview.com/2025/10/24/1126569/the-download-carbon-removals-future-and-measuring-pain-using-an-app/) (2025-10-24)
-- [An AI app to measure pain is here](https://www.technologyreview.com/2025/10/24/1126451/an-ai-app-to-measure-pain-is-here/) (2025-10-24)
 
 </details>
 
@@ -97,22 +97,25 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building Smarter AI: Types of Memory and How to Make Your Agent Remember](https://dev.to/chaitrali_kakde/building-smarter-ai-types-of-memory-and-how-to-make-your-agent-remember-11ek) (2025-10-28)
-- [Unlocking Revenue: How Monetzly Transforms AI App Monetization for Developers](https://dev.to/monetzly/unlocking-revenue-how-monetzly-transforms-ai-app-monetization-for-developers-3fgm) (2025-10-28)
-- [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_ece4a271/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-l35) (2025-10-28)
-- [WAMP vs XAMPP: Choosing the Best Local Server for WordPress Development](https://dev.to/medha_bhatt_21b7dc4cc53e7/wamp-vs-xampp-choosing-the-best-local-server-for-wordpress-development-44i) (2025-10-28)
-- [How to Avoid Burnout: Strategic PM for Team Resilience](https://dev.to/hardikbhawsar/how-to-avoid-burnout-strategic-pm-for-team-resilience-2cif) (2025-10-28)
+- [Society need tecnology](https://dev.to/ubaid_ullah_fa7600cc6735d/society-need-tecnology-5gp5) (2025-10-28)
+- [Your-Projects-a-Mess-Its-Not-You-Its-Your-Frameworks-Fault](https://dev.to/member_083ff294/your-projects-a-mess-its-not-you-its-your-frameworks-fault-1i4e) (2025-10-28)
+- [Web Developer Travis McCracken on Building a Private API with Rust](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-building-a-private-api-with-rust-j0o) (2025-10-28)
+- [What are the most common development and security pitfalls when launching a centralized exchange and how to avoid them?](https://dev.to/zara_fernandes_b02180aa0b/what-are-the-most-common-development-and-security-pitfalls-when-launching-a-centralized-exchange-1e5k) (2025-10-28)
+- [Usando o Oh My Zsh!](https://dev.to/kbdemiranda/usando-o-oh-my-zsh-489l) (2025-10-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Error Handling — Don’t Panic, Handle It!](https://python.plainenglish.io/error-handling-dont-panic-handle-it-146b1bd036fd?source=rss------programming-5) (2025-10-28)
-- [Why Most Data Scientists Miss the Point of Data](https://ai.plainenglish.io/why-most-data-scientists-miss-the-point-of-data-5b7d8e9f5be4?source=rss------programming-5) (2025-10-28)
-- [ Understanding base() vs this() in C# Constructors — A Deep Dive](https://medium.com/@pavanpitthdiya/understanding-base-vs-this-in-c-constructors-a-deep-dive-a4c58f672a43?source=rss------programming-5) (2025-10-28)
-- [“I Tried Predicting My Own Habits With Data Science”](https://blog.stackademic.com/i-tried-predicting-my-own-habits-with-data-science-b2343326343f?source=rss------programming-5) (2025-10-28)
-- [Why a Backend Engineer Should — and Should Not — Learn Rust](https://medium.com/@joyichiro/why-a-backend-engineer-should-and-should-not-learn-rust-928b466aa4b2?source=rss------programming-5) (2025-10-28)
+- [09027641209شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jdyd52713/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-905d923aa504?source=rss------programming-5) (2025-10-28)
+- [09027641209شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jdyd52713/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-b7a16df82720?source=rss------programming-5) (2025-10-28)
+- [09027641209شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jdyd52713/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-435cca79551f?source=rss------programming-5) (2025-10-28)
+- [The AI Workflow That Runs My Business While I Sleep](https://medium.com/@SulemanSafdar/the-ai-workflow-that-runs-my-business-while-i-sleep-8d81f861447f?source=rss------programming-5) (2025-10-28)
+- [ TypeScript in 2025: The Future of JavaScript Development, Strong Typing & AI-Driven Coding ](https://medium.com/@beenakumawat002/typescript-in-2025-the-future-of-javascript-development-strong-typing-ai-driven-coding-fc5340f36622?source=rss------programming-5) (2025-10-28)
 
 </details>
 
@@ -306,11 +309,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [ReSharper and Rider 2025.2.4: Another Set of Updates Released](https://blog.jetbrains.com/dotnet/2025/10/28/resharper-and-rider-2025-1-4-2/) (2025-10-28)
 - [The Modern Enterprise Toolkit for Secure, High-Quality Code](https://blog.jetbrains.com/qodana/2025/10/the-modern-enterprise-toolkit-for-secure-high-quality-code/) (2025-10-27)
 - [Kodee’s Kotlin Roundup: Finally Back with News](https://blog.jetbrains.com/kotlin/2025/10/kodees-kotlin-roundup-october-edition/) (2025-10-27)
 - [The State of Django 2025](https://blog.jetbrains.com/pycharm/2025/10/the-state-of-django-2025/) (2025-10-27)
 - [How to Use a Spec-Driven Approach for Coding with AI](https://blog.jetbrains.com/junie/2025/10/how-to-use-a-spec-driven-approach-for-coding-with-ai/) (2025-10-27)
-- [IntelliJ IDEA 2025.2.4 Is Out!](https://blog.jetbrains.com/idea/2025/10/intellij-idea-2025-2-4/) (2025-10-24)
 
 </details>
 
@@ -328,11 +331,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [Ace your planning without the context-switching](https://about.gitlab.com/blog/ace-your-planning-without-the-context-switching/) (2025-10-28)
 - [Modernize Java applications quickly with GitLab Duo with Amazon Q](https://about.gitlab.com/blog/modernize-java-applications-quickly-with-gitlab-duo-with-amazon-q/) (2025-10-22)
 - [Delivering faster and smarter scans with Advanced SAST](https://about.gitlab.com/blog/delivering-faster-and-smarter-scans-with-advanced-sast/) (2025-10-21)
 - [GitLab 18.5: Intelligence that moves software development forward](https://about.gitlab.com/blog/gitlab-18-5-intelligence-that-moves-software-development-forward/) (2025-10-21)
 - [Claude Haiku 4.5 now available in GitLab Duo Agentic Chat](https://about.gitlab.com/blog/claude-haiku-4-5-now-available-in-gitlab-duo-agentic-chat/) (2025-10-20)
-- [Variable and artifact sharing in GitLab parent-child pipelines](https://about.gitlab.com/blog/variable-and-artifact-sharing-in-gitlab-parent-child-pipelines/) (2025-10-16)
 
 </details>
 
@@ -486,17 +489,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/manage-twilio-verify-safe
 - [Named Query API Simplifies Data Access for Agents and Apps](https://developer.salesforce.com/blogs/2025/10/named-query-api-simplifies-data-access-for-agents-and-apps.html) (2025-10-13)
 - [Introducing Hybrid Reasoning with Agent Script](https://developer.salesforce.com/blogs/2025/10/introducing-hybrid-reasoning-with-agent-script.html) (2025-10-13)
 - [Agentforce Vibesでイノベーションを推進 – エンタープライズ向けバイブコーディング](https://developer.salesforce.com/blogs/2025/10/agentforce-vibes%e3%81%a7%e3%82%a4%e3%83%8e%e3%83%99%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%92%e6%8e%a8%e9%80%b2-%e3%82%a8%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%97%e3%83%a9%e3%82%a4%e3%82%ba.html) (2025-10-09)
-
-</details>
-
-<details>
-<summary>🧡 HubSpot Developer</summary>
-
-- [Unlocking the Power of Webhooks & Custom Workflow Actions in HubSpot’s New Developer Platform](https://developers.hubspot.com/blog/unlocking-the-power-of-webhooks-workflow-actions-in-hubspots-new-developer-platform) (2025-10-22)
-- [Optimizing Developer Docs in the Age of AI: Our Mintlify Migration Story](https://developers.hubspot.com/blog/optimizing-developer-docs-in-the-age-of-ai-our-mintlify-migration-story) (2025-10-09)
-- [Navigating Serverless Functions on HubSpot’s New Developer Platform](https://developers.hubspot.com/blog/navigating-serverless-functions-on-hubspots-new-developer-platform) (2025-10-02)
-- [Building Omnichannel Customer Connections at HubSpot: A Look Under the Hood](https://developers.hubspot.com/blog/building-omnichannel-customer-connections-at-hubspot) (2025-09-25)
-- [From Legacy Apps to Platform Speed: Building with the New Developer Platform](https://developers.hubspot.com/blog/from-legacy-apps-to-platform-speed-building-with-developer-platform) (2025-09-23)
 
 </details>
 
