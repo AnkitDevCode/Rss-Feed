@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [OpenAI offers free ChatGPT Go for one year to all users in India](https://techcrunch.com/2025/10/27/openai-offers-free-chatgpt-go-for-one-year-to-all-users-in-india/) (2025-10-28)
+- [Venture capital is not an asset class, says Sequoia’s Roelof Botha](https://techcrunch.com/2025/10/27/venture-capital-is-not-an-asset-class-says-sequoias-roelof-botha/) (2025-10-28)
 - [CEO of Alphabet’s X, Astro Teller, on what makes a moonshot](https://techcrunch.com/2025/10/27/ceo-of-alphabets-x-astro-teller-on-what-makes-a-moonshot/) (2025-10-28)
 - [Zoom CEO Eric Yuan says AI will shorten our workweek](https://techcrunch.com/2025/10/27/zoom-ceo-eric-yuan-says-ai-will-shorten-our-workweek/) (2025-10-28)
 - [Roelof Botha explains why Sequoia supports Shaun Maguire after COO quit](https://techcrunch.com/2025/10/27/roelof-botha-explains-why-sequoia-supports-shaun-maguire-after-coo-quit/) (2025-10-27)
-- [Defense startup Pytho AI wants to turbocharge military mission planning and it will show off its tech at Disrupt 2025](https://techcrunch.com/2025/10/27/defense-startup-pytho-ai-wants-to-turbocharge-military-mission-planning-and-it-will-show-off-its-tech-at-disrupt-2025/) (2025-10-27)
-- [Strong by Form will show its ultralight engineered wood at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/27/strong-by-form-will-show-its-ultralight-engineered-wood-at-techcrunch-disrupt-2025/) (2025-10-27)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [I Built the Same App 10 Times: Evaluating Frameworks for Mobile Performance](https://www.lorenstew.art/blog/10-kanban-boards/) (2025-10-28)
+- [Tough truths about climate](https://www.gatesnotes.com/home/home-page-topic/reader/three-tough-truths-about-climate) (2025-10-28)
+- [Complete Digitization of Leonardo da Vinci's Codex Atlanticus](https://www.openculture.com/2025/10/digitization-of-leonardo-da-vincis-codex-atlanticus.html) (2025-10-28)
 - [AI can code, but it can't build software](https://bytesauna.com/post/coding-vs-software-engineering) (2025-10-27)
 - [Iroh-blobs](https://www.iroh.computer/blog/iroh-blobs-0-95-new-features) (2025-10-27)
-- [Are these real CVEs? VulDB entries for dnsmasq rely on replacing config files](https://seclists.org/oss-sec/2025/q4/79) (2025-10-27)
-- [Easy RISC-V](https://dramforever.github.io/easyriscv/) (2025-10-27)
-- [Why Nigeria accepted GMOs](https://www.asimov.press/p/nigeria-crops) (2025-10-27)
 
 </details>
 
@@ -86,34 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Craft and quality beat speed and scale, with or without agents](https://stackoverflow.blog/2025/10/28/craft-and-quality-beat-speed-and-scale-with-or-without-agents/) (2025-10-28)
 - [AI agents will succeed because one tool is better than ten](https://stackoverflow.blog/2025/10/27/ai-agents-will-succeed-because-one-tool-is-better-than-ten/) (2025-10-27)
 - [Your runbooks are obsolete in the age of agents](https://stackoverflow.blog/2025/10/24/your-runbooks-are-obsolete-in-the-age-of-agents/) (2025-10-24)
 - [What leaders need to know from the 2025 Stack Overflow Developer Survey](https://stackoverflow.blog/2025/10/23/what-leaders-need-to-know-from-the-2025-stack-overflow-developer-survey/) (2025-10-23)
 - [Open source is giving you choices with your agent systems](https://stackoverflow.blog/2025/10/21/open-source-is-giving-you-choices-with-your-agent-systems/) (2025-10-21)
-- [From multilingual semantic search to virtual assistants at Bosch Digital](https://stackoverflow.blog/2025/10/20/from-multilingual-semantic-search-to-virtual-assistants-at-bosch-digital/) (2025-10-20)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Tipos de Cloud Computing: IaaS, PaaS e SaaS.](https://dev.to/sinngjpeg/tipos-de-cloud-computing-iaas-paas-e-saas-55if) (2025-10-28)
-- [What Makes a Prime Data Center: Design, Operations, and Future-Ready Capabilities](https://dev.to/brianjcane/what-makes-a-prime-data-center-design-operations-and-future-ready-capabilities-1aoe) (2025-10-28)
-- [AI Video's Character Consistency Problem & How to Fix It](https://dev.to/andrew_klubnikin_609150ae/ai-videos-character-consistency-problem-how-to-fix-it-3amj) (2025-10-28)
-- [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_25c2e834/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-1pc) (2025-10-28)
-- [The smartest wallet wins - new trend in crypto UX](https://dev.to/kubo_sk/the-smartest-wallet-wins-new-trend-in-crypto-ux-e43) (2025-10-28)
+- [Building Smarter AI: Types of Memory and How to Make Your Agent Remember](https://dev.to/chaitrali_kakde/building-smarter-ai-types-of-memory-and-how-to-make-your-agent-remember-11ek) (2025-10-28)
+- [Unlocking Revenue: How Monetzly Transforms AI App Monetization for Developers](https://dev.to/monetzly/unlocking-revenue-how-monetzly-transforms-ai-app-monetization-for-developers-3fgm) (2025-10-28)
+- [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_ece4a271/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-l35) (2025-10-28)
+- [WAMP vs XAMPP: Choosing the Best Local Server for WordPress Development](https://dev.to/medha_bhatt_21b7dc4cc53e7/wamp-vs-xampp-choosing-the-best-local-server-for-wordpress-development-44i) (2025-10-28)
+- [How to Avoid Burnout: Strategic PM for Team Resilience](https://dev.to/hardikbhawsar/how-to-avoid-burnout-strategic-pm-for-team-resilience-2cif) (2025-10-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Building Smarter Data Pipelines with Python: Lessons from My Automation Journey](https://medium.com/top-python-libraries/building-smarter-data-pipelines-with-python-lessons-from-my-automation-journey-0b3f8c71d0dd?source=rss------programming-5) (2025-10-28)
-- [ Everyone Uses ChatGPT Wrong — This 1-Sentence Tweak Doubles Your Creativity Instantly!](https://medium.com/@khalidfatimafk56/everyone-uses-chatgpt-wrong-this-1-sentence-tweak-doubles-your-creativity-instantly-36a3edfde28b?source=rss------programming-5) (2025-10-28)
-- [What Is This Static Factory Method ?](https://medium.com/@deryayildirimm/what-is-this-static-factory-method-a0385801c6d1?source=rss------programming-5) (2025-10-28)
-- [Defensive Programming: Stop Trusting Your Own Code](https://bhonemyintkyaw777.medium.com/defensive-programming-stop-trusting-your-own-code-c9537d75042a?source=rss------programming-5) (2025-10-28)
-- [0937.667.6273شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mahdisjoon999999/0937-667-6273%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e94cc6f791fb?source=rss------programming-5) (2025-10-28)
+- [Error Handling — Don’t Panic, Handle It!](https://python.plainenglish.io/error-handling-dont-panic-handle-it-146b1bd036fd?source=rss------programming-5) (2025-10-28)
+- [Why Most Data Scientists Miss the Point of Data](https://ai.plainenglish.io/why-most-data-scientists-miss-the-point-of-data-5b7d8e9f5be4?source=rss------programming-5) (2025-10-28)
+- [ Understanding base() vs this() in C# Constructors — A Deep Dive](https://medium.com/@pavanpitthdiya/understanding-base-vs-this-in-c-constructors-a-deep-dive-a4c58f672a43?source=rss------programming-5) (2025-10-28)
+- [“I Tried Predicting My Own Habits With Data Science”](https://blog.stackademic.com/i-tried-predicting-my-own-habits-with-data-science-b2343326343f?source=rss------programming-5) (2025-10-28)
+- [Why a Backend Engineer Should — and Should Not — Learn Rust](https://medium.com/@joyichiro/why-a-backend-engineer-should-and-should-not-learn-rust-928b466aa4b2?source=rss------programming-5) (2025-10-28)
 
 </details>
 
