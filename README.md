@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [CEO of spyware maker Memento Labs confirms one of its government customers was caught using its malware](https://techcrunch.com/2025/10/28/ceo-of-spyware-maker-memento-labs-confirms-one-of-its-government-customers-was-caught-using-its-malware/) (2025-10-29)
+- [LG Uplus is latest South Korean telco to confirm cybersecurity incident](https://techcrunch.com/2025/10/28/lg-uplus-is-latest-south-korean-telco-to-confirm-cybersecurity-incident/) (2025-10-29)
+- [Tata Motors confirms it fixed security flaws, which exposed company and customer data](https://techcrunch.com/2025/10/28/tata-motors-confirms-it-fixed-security-flaws-that-exposed-company-and-customer-data/) (2025-10-29)
 - [Here are the 5 Startup Battlefield finalists at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/here-are-the-5-startup-battlefield-finalists-at-techcrunch-disrupt-2025/) (2025-10-29)
 - [‘Silicon Valley’ star Thomas Middleditch makes a surprise appearance at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/silicon-valley-star-thomas-middleditch-makes-a-surprise-appearance-at-techcrunch-disrupt-2025/) (2025-10-29)
-- [Waabi unveils autonomous truck made in partnership with Volvo](https://techcrunch.com/2025/10/28/waabi-unveils-autonomous-truck-made-in-partnership-with-volvo/) (2025-10-28)
-- [Unlisted connects homeowners with prospective buyers before they even put their homes up for sale and is part of TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/unlisted-homes-connects-homeowners-with-prospective-buyers-before-they-even-put-their-homes-up-for-sale-and-is-part-of-techcrunch-disrupt-2025/) (2025-10-28)
-- [Super Teacher is building an AI tutor for elementary schools — catch it at Disrupt 2025](https://techcrunch.com/2025/10/28/super-teacher-is-building-an-ai-tutor-for-elementary-schools-catch-it-at-disrupt-2025/) (2025-10-28)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Keeping the Internet fast and secure: introducing Merkle Tree Certificates](https://blog.cloudflare.com/bootstrap-mtc/) (2025-10-28)
-- [Tor Browser 15.0](https://blog.torproject.org/new-release-tor-browser-150/) (2025-10-28)
-- [Tinkering is a way to acquire good taste](https://seated.ro/blog/tinkering-a-lost-art) (2025-10-28)
-- [Generative AI Image Editing Showdown](https://genai-showdown.specr.net/image-editing) (2025-10-28)
-- [Boring is what we wanted](https://512pixels.net/2025/10/boring-is-what-we-wanted/) (2025-10-28)
+- [Wacl – A Tcl Distribution for WebAssembly](https://github.com/ecky-l/wacl) (2025-10-29)
+- [Keep Android Open](http://keepandroidopen.org/) (2025-10-29)
+- [uBlock Origin Lite Apple App Store](https://apps.apple.com/in/app/ublock-origin-lite/id6745342698) (2025-10-29)
+- [Tips for stroke-surviving software engineers](https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/) (2025-10-29)
+- [Project Shadowglass](https://shadowglassgame.com) (2025-10-29)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Withings’ urine scanning health tracker is now available for $350](https://www.theverge.com/news/808381/withings-u-scan-toilet-urine-test-health-nutrio-calci) (2025-10-29)
 - [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone) (2025-10-28)
 - [Senators propose banning teens from using AI chatbots](https://www.theverge.com/news/808589/senators-ai-chatbot-bill-age-verification-teen-ban) (2025-10-28)
 - [YouTube will age-restrict more content showing &#8216;graphic violence&#8217; in video games](https://www.theverge.com/news/808545/youtube-graphic-video-game-violence-age-restriction) (2025-10-28)
 - [Amazon is ditching MMOs and cranking out party games](https://www.theverge.com/news/808332/amazon-gaming-layoffs-mmo-aaa-first-party-games) (2025-10-28)
-- [Nothing’s Ear Open earbuds are back under $100 right now](https://www.theverge.com/tech/808321/nothing-ear-open-earbuds-deal-sale) (2025-10-28)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Mazda shows a rotary hybrid concept for Tokyo with evolved design language](https://arstechnica.com/cars/2025/10/mazda-shows-a-rotary-hybrid-concept-for-tokyo-with-evolved-design-language/) (2025-10-29)
 - [Westinghouse is claiming a nuclear deal would see $80B of new reactors](https://arstechnica.com/science/2025/10/westinghouse-is-claiming-a-nuclear-deal-would-see-80b-of-new-reactors/) (2025-10-28)
 - [If things in America weren’t stupid enough, Texas is suing Tylenol maker](https://arstechnica.com/health/2025/10/if-things-in-america-werent-stupid-enough-texas-is-suing-tylenol-maker/) (2025-10-28)
 - [An autonomous car for consumers? Lucid says it’s happening.](https://arstechnica.com/cars/2025/10/an-autonomous-car-for-consumers-lucid-says-its-happening/) (2025-10-28)
 - [Senators move to keep Big Tech’s creepy companion bots away from kids](https://arstechnica.com/tech-policy/2025/10/senators-move-to-keep-big-techs-creepy-companion-bots-away-from-kids/) (2025-10-28)
-- [OpenAI data suggests 1 million users discuss suicide with ChatGPT weekly](https://arstechnica.com/ai/2025/10/openai-data-suggests-1-million-users-discuss-suicide-with-chatgpt-weekly/) (2025-10-28)
 
 </details>
 
@@ -97,24 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Debian First Aid Kit](https://dev.to/divsmart/debian-first-aid-kit-2llm) (2025-10-29)
-- [Binary Brains: Secure AI on the Edge with In-Memory Magic by Arvind Sundararajan](https://dev.to/arvind_sundararajan/binary-brains-secure-ai-on-the-edge-with-in-memory-magic-by-arvind-sundararajan-2j98) (2025-10-29)
-- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_ece4a271/files-are-not-just-data-a-guide-to-robust-file-handling-58pi) (2025-10-29)
-- [🚀 Launch Announcement — SQAToolBox is Now Live](https://dev.to/sqaesabbir/launch-announcement-sqatoolbox-is-now-live-4ib7) (2025-10-29)
-- [The Circular Import Problem: Breaking Dependency Cycles](https://dev.to/aaron_rose_0787cc8b4775a0/the-circular-import-problem-breaking-dependency-cycles-4i56) (2025-10-29)
+- [The Resume Format That Finally Gets You Past the ATS Filter](https://dev.to/whoozit_in_82812c2fd22a09/the-resume-format-that-finally-gets-you-past-the-ats-filter-4hco) (2025-10-29)
+- [WebAssembly 3.0 and the Infrastructure We Actually Need](https://dev.to/aronchick/webassembly-30-and-the-infrastructure-we-actually-need-3joa) (2025-10-29)
+- [WASM's "Identity Crisis" Is Actually Its Superpower](https://dev.to/aronchick/wasms-identity-crisis-is-actually-its-superpower-16m3) (2025-10-29)
+- [NPR Music: The Beaches: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-the-beaches-tiny-desk-concert-187) (2025-10-29)
+- [Asupixel](https://dev.to/samuel_asuse10chimela_/asupixel-4ki2) (2025-10-29)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09021901293](https://medium.com/@jcdffjfnbddjbvc/09021901293-13427cfabb17?source=rss------programming-5) (2025-10-29)
-- [09021901293](https://medium.com/@jcdffjfnbddjbvc/09021901293-496d6174eb69?source=rss------programming-5) (2025-10-29)
-- [09021901293](https://medium.com/@jcdffjfnbddjbvc/09021901293-8e4b336dd1b3?source=rss------programming-5) (2025-10-29)
-- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mfkmdmnf/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-6824c66fedc8?source=rss------programming-5) (2025-10-29)
-- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mfkmdmnf/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-fa21f78f9b14?source=rss------programming-5) (2025-10-29)
+- [0937.667.6273شماره خاله اردبیل شماره خاله رشت شماره خاله مشهد](https://medium.com/@ebdhhehhshss989sh/0937-667-6273%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D8%B4%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D8%B4%D9%87%D8%AF-ba725eefc3ff?source=rss------programming-5) (2025-10-29)
+- [0937.667.6273شماره خاله اردبیل شماره خاله رشت شماره خاله مشهد](https://medium.com/@ebdhhehhshss989sh/0937-667-6273%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D8%B4%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D8%B4%D9%87%D8%AF-6284cefd2ba3?source=rss------programming-5) (2025-10-29)
+- [0937.667.6273شماره خاله اردبیل شماره خاله رشت شماره خاله مشهد](https://medium.com/@ebdhhehhshss989sh/0937-667-6273%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B1%D8%B4%D8%AA-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D8%B4%D9%87%D8%AF-2f861a9a8316?source=rss------programming-5) (2025-10-29)
+- [Fixing Prop Drilling with Component Composition](https://medium.com/@muhammadhashir752/fixing-prop-drilling-with-component-composition-72a994a57c8f?source=rss------programming-5) (2025-10-29)
+- [Borrow Checker Therapy: How Rust Broke My Code, My Ego, and Then Made Me a Better Engineer](https://medium.com/@kedarbpatil07/borrow-checker-therapy-how-rust-broke-my-code-my-ego-and-then-made-me-a-better-engineer-5e901f511763?source=rss------programming-5) (2025-10-29)
 
 </details>
 
@@ -132,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Fully managed cloud-to-cloud transfers with Azure Storage Mover](https://azure.microsoft.com/en-us/blog/fully-managed-cloud-to-cloud-transfers-with-azure-storage-mover/) (2025-10-23)
-- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2025-10-22)
-- [The Signals Loop: Fine-tuning for world-class AI apps and agents ](https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/) (2025-10-21)
 - [Innovation spotlight: How 3 customers are driving change with migration to Azure SQL](https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/) (2025-10-20)
 - [From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available](https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/) (2025-10-16)
+- [Sora 2 now available in Azure AI Foundry](https://azure.microsoft.com/en-us/blog/sora-2-now-available-in-azure-ai-foundry/) (2025-10-15)
+- [Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation](https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/) (2025-10-14)
+- [Accelerating open-source infrastructure development for frontier AI at scale](https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/) (2025-10-14)
 
 </details>
 
@@ -505,11 +503,11 @@ https://www.twilio.com/en-us/blog/developers/community/build-cli-reminder-app-go
 <details>
 <summary>💬 Slack API</summary>
 
-- [Real-Time Collaboration: What It Is, Benefits, and Best Practices](https://slack.com/blog/collaboration/real-time-collaboration) (2025-10-27)
 - [Customer Connection: How It Drives Loyalty and Business Growth](https://slack.com/blog/collaboration/customer-connection-how-it-drives-loyalty-and-business-growth) (2025-10-23)
 - [Master Effective Communication Skills With These 10 Techniques](https://slack.com/blog/collaboration/master-effective-communication-skills-with-these-10-techniques) (2025-10-23)
 - [What Is Customer Data Integration, and Why Is It Important?](https://slack.com/blog/transformation/what-is-customer-data-integration-and-why-is-it-important) (2025-10-23)
 - [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2025-10-23)
+- [What Is Multifactor Authentication (MFA): Definition and Benefits](https://slack.com/blog/productivity/what-is-multifactor-authentication-mfa-definition-and-benefits) (2025-10-22)
 
 </details>
 
