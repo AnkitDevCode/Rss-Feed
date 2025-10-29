@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Charter Space brings fintech to spacecraft insurance and is showing off its stuff at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/charter-space-brings-fintech-to-spacecraft-insurance-and-is-showing-off-its-stuff-at-techcrunch-disrupt-2025/) (2025-10-28)
-- [CyDeploy wants to create a replica of a company’s system to help it test updates before pushing them out — catch it at Disrupt 2025](https://techcrunch.com/2025/10/28/cydeploy-wants-to-create-a-replica-of-a-companys-system-to-help-it-test-updates-before-pushing-them-out-catch-it-at-disrupt-2025/) (2025-10-28)
-- [Cyphr will reveal how it makes lending easier for small businesses at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/cyphr-will-reveal-how-it-makes-lending-easier-for-small-businesses-at-techcrunch-disrupt-2025/) (2025-10-28)
-- [Identifee, built by Wells Fargo alumni, unifies productivity tech for bankers into a single platform — catch it at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/identifee-built-by-wells-fargo-alumni-unifies-productivity-tech-for-bankers-into-a-single-platform-catch-it-at-techcrunch-disrupt-2025/) (2025-10-28)
-- [Elloe AI wants to be the ‘immune system’ for AI — check it out at Disrupt 2025](https://techcrunch.com/2025/10/28/elloe-ai-wants-to-be-the-immune-system-for-ai-check-it-out-at-disrupt-2025/) (2025-10-28)
+- [Here are the 5 Startup Battlefield finalists at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/here-are-the-5-startup-battlefield-finalists-at-techcrunch-disrupt-2025/) (2025-10-29)
+- [‘Silicon Valley’ star Thomas Middleditch makes a surprise appearance at TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/silicon-valley-star-thomas-middleditch-makes-a-surprise-appearance-at-techcrunch-disrupt-2025/) (2025-10-29)
+- [Waabi unveils autonomous truck made in partnership with Volvo](https://techcrunch.com/2025/10/28/waabi-unveils-autonomous-truck-made-in-partnership-with-volvo/) (2025-10-28)
+- [Unlisted connects homeowners with prospective buyers before they even put their homes up for sale and is part of TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/28/unlisted-homes-connects-homeowners-with-prospective-buyers-before-they-even-put-their-homes-up-for-sale-and-is-part-of-techcrunch-disrupt-2025/) (2025-10-28)
+- [Super Teacher is building an AI tutor for elementary schools — catch it at Disrupt 2025](https://techcrunch.com/2025/10/28/super-teacher-is-building-an-ai-tutor-for-elementary-schools-catch-it-at-disrupt-2025/) (2025-10-28)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [SigNoz (YC W21) Is Hiring DevRel Engineers in the US – Open Source O11y Platform](https://jobs.ashbyhq.com/SigNoz/8447522c-1163-48d0-8f55-fac25f64a0f3) (2025-10-28)
-- [I've been loving Claude Code on the Web](https://ben.page/claude-code-web) (2025-10-28)
-- [HOPL: The Human Only Public License](https://vanderessen.com/posts/hopl/) (2025-10-28)
-- [Show HN: Dexto – Connect your AI Agents with real-world tools and data](https://github.com/truffle-ai/dexto) (2025-10-28)
-- [Using AI to negotiate a $195k hospital bill down to $33k](https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw) (2025-10-28)
+- [Keeping the Internet fast and secure: introducing Merkle Tree Certificates](https://blog.cloudflare.com/bootstrap-mtc/) (2025-10-28)
+- [Tor Browser 15.0](https://blog.torproject.org/new-release-tor-browser-150/) (2025-10-28)
+- [Tinkering is a way to acquire good taste](https://seated.ro/blog/tinkering-a-lost-art) (2025-10-28)
+- [Generative AI Image Editing Showdown](https://genai-showdown.specr.net/image-editing) (2025-10-28)
+- [Boring is what we wanted](https://512pixels.net/2025/10/boring-is-what-we-wanted/) (2025-10-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Uber, Stellantis, Nvidia, and Foxconn make a robotaxi deal](https://www.theverge.com/news/808042/uber-stellantis-nvidia-and-foxconn-make-a-robotaxi-deal) (2025-10-28)
-- [Lucid jumps on the ‘privately owned’ autonomous vehicle bandwagon](https://www.theverge.com/transportation/807954/lucid-private-owned-autonomous-vehicle-nvidia) (2025-10-28)
-- [Disney is breaking up with Doctor Who](https://www.theverge.com/entertainment/808183/disney-bbc-doctor-who-partnership-ending) (2025-10-28)
-- [Oppo Find X9 Pro’s massive 7,500mAh battery arrives in Europe](https://www.theverge.com/news/808187/oppo-find-x9-pros-massive-7500mah-battery-arrives-in-europe) (2025-10-28)
-- [Here are the price-matching policies for Best Buy, GameStop, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft) (2025-10-28)
+- [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone) (2025-10-28)
+- [Senators propose banning teens from using AI chatbots](https://www.theverge.com/news/808589/senators-ai-chatbot-bill-age-verification-teen-ban) (2025-10-28)
+- [YouTube will age-restrict more content showing &#8216;graphic violence&#8217; in video games](https://www.theverge.com/news/808545/youtube-graphic-video-game-violence-age-restriction) (2025-10-28)
+- [Amazon is ditching MMOs and cranking out party games](https://www.theverge.com/news/808332/amazon-gaming-layoffs-mmo-aaa-first-party-games) (2025-10-28)
+- [Nothing’s Ear Open earbuds are back under $100 right now](https://www.theverge.com/tech/808321/nothing-ear-open-earbuds-deal-sale) (2025-10-28)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Here’s how Slate Auto plans to handle repairs to its electric trucks](https://arstechnica.com/cars/2025/10/slate-auto-announces-repair-network-access-to-superchargers/) (2025-10-28)
-- [Australia’s social media ban is “problematic,” but platforms will comply anyway](https://arstechnica.com/tech-policy/2025/10/social-media-firms-abandon-fight-against-australia-law-banning-under-16-users/) (2025-10-28)
-- [AMD shores up its budget laptop CPUs by renaming more years-old silicon](https://arstechnica.com/gadgets/2025/10/amd-shores-up-its-budget-laptop-cpus-by-renaming-more-years-old-silicon/) (2025-10-28)
-- [Expert panel will determine AGI arrival in new Microsoft-OpenAI agreement](https://arstechnica.com/information-technology/2025/10/expert-panel-will-determine-agi-arrival-in-new-microsoft-openai-agreement/) (2025-10-28)
-- [Trump’s UCLA deal: Pay us $1B+, and we can still cut your grants again](https://arstechnica.com/tech-policy/2025/10/trumps-ucla-deal-pay-us-1b-and-we-can-still-cut-your-grants-again/) (2025-10-28)
+- [Westinghouse is claiming a nuclear deal would see $80B of new reactors](https://arstechnica.com/science/2025/10/westinghouse-is-claiming-a-nuclear-deal-would-see-80b-of-new-reactors/) (2025-10-28)
+- [If things in America weren’t stupid enough, Texas is suing Tylenol maker](https://arstechnica.com/health/2025/10/if-things-in-america-werent-stupid-enough-texas-is-suing-tylenol-maker/) (2025-10-28)
+- [An autonomous car for consumers? Lucid says it’s happening.](https://arstechnica.com/cars/2025/10/an-autonomous-car-for-consumers-lucid-says-its-happening/) (2025-10-28)
+- [Senators move to keep Big Tech’s creepy companion bots away from kids](https://arstechnica.com/tech-policy/2025/10/senators-move-to-keep-big-techs-creepy-companion-bots-away-from-kids/) (2025-10-28)
+- [OpenAI data suggests 1 million users discuss suicide with ChatGPT weekly](https://arstechnica.com/ai/2025/10/openai-data-suggests-1-million-users-discuss-suicide-with-chatgpt-weekly/) (2025-10-28)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Roundtables: Seeking Climate Solutions in Turbulent Times](https://www.technologyreview.com/2025/10/28/1125962/roundtables-seeking-climate-solutions-in-turbulent-times/) (2025-10-28)
 - [Finding return on AI investments across industries](https://www.technologyreview.com/2025/10/28/1126693/finding-return-on-ai-investments-across-industries/) (2025-10-28)
 - [The Download: Microsoft’s stance on erotic AI, and an AI hype mystery](https://www.technologyreview.com/2025/10/28/1126802/the-download-microsofts-stance-on-erotic-ai-and-an-ai-hype-mystery/) (2025-10-28)
 - [“We will never build a sex robot,” says Mustafa Suleyman](https://www.technologyreview.com/2025/10/28/1126781/we-will-never-build-a-sex-robot-says-mustafa-suleyman/) (2025-10-28)
 - [An AI adoption riddle](https://www.technologyreview.com/2025/10/28/1126687/an-ai-adoption-riddle/) (2025-10-28)
-- [The Download: what to make of OpenAI’s Atlas browser, and how to make climate progress](https://www.technologyreview.com/2025/10/27/1126679/the-download-what-to-make-of-openais-atlas-browser-and-how-to-make-climate-progress/) (2025-10-27)
 
 </details>
 
@@ -97,55 +97,57 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [New file change detection and improved source control validation in Puppet Continuous Delivery 5.12.0](https://dev.to/puppet/new-file-change-detection-and-improved-source-control-validation-in-puppet-continuous-delivery-4ed9) (2025-10-28)
-- [🎃 CSS Halloween — *Crypt-o-Crypt*](https://dev.to/mdarifulhaque/css-halloween-crypt-o-crypt-fog) (2025-10-28)
-- [Automation QandA Part 1 How can APIs be integrated with RPA bots](https://dev.to/janvi_patel_f1f56b5e8f1d2/automation-qanda-part-1-how-can-apis-be-integrated-with-rpa-bots-2bn4) (2025-10-28)
-- [Persist PHP objects without a database](https://dev.to/melia72/persist-php-objects-without-a-database-5fip) (2025-10-28)
-- [Building CloudWise: Why AWS Cost Tools Failed Startups (And How We Fixed It)](https://dev.to/cloudwiseteam/building-cloudwise-why-aws-cost-tools-failed-startups-and-how-we-fixed-it-4pmn) (2025-10-28)
+- [Debian First Aid Kit](https://dev.to/divsmart/debian-first-aid-kit-2llm) (2025-10-29)
+- [Binary Brains: Secure AI on the Edge with In-Memory Magic by Arvind Sundararajan](https://dev.to/arvind_sundararajan/binary-brains-secure-ai-on-the-edge-with-in-memory-magic-by-arvind-sundararajan-2j98) (2025-10-29)
+- [Files-are-Not-Just-Data-A-Guide-to-Robust-File-Handling](https://dev.to/member_ece4a271/files-are-not-just-data-a-guide-to-robust-file-handling-58pi) (2025-10-29)
+- [🚀 Launch Announcement — SQAToolBox is Now Live](https://dev.to/sqaesabbir/launch-announcement-sqatoolbox-is-now-live-4ib7) (2025-10-29)
+- [The Circular Import Problem: Breaking Dependency Cycles](https://dev.to/aaron_rose_0787cc8b4775a0/the-circular-import-problem-breaking-dependency-cycles-4i56) (2025-10-29)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Rust’s Unseen Crisis: Why Its Core Devs Are Job-Hunting While AI Grabs the Spotlight ](https://medium.com/@chiranjilalsinghal4/rusts-unseen-crisis-why-its-core-devs-are-job-hunting-while-ai-grabs-the-spotlight-66c75cfca2f4?source=rss------programming-5) (2025-10-28)
-- [Every Developer Should Know These 7 CSS Features (They Made Houdini Obsolete)](https://javascript.plainenglish.io/every-developer-should-know-these-7-css-features-they-made-houdini-obsolete-9a2c7f7e83f6?source=rss------programming-5) (2025-10-28)
-- [What Every Developer Should Know About Stack Allocation in Go](https://medium.com/@chainacademy.ardata/what-every-developer-should-know-about-stack-allocation-in-go-ece87647e868?source=rss------programming-5) (2025-10-28)
-- [I Built My Own Automation Toolkit With These 6 JavaScript Libraries](https://javascript.plainenglish.io/i-built-my-own-automation-toolkit-with-these-6-javascript-libraries-45bac6449b0e?source=rss------programming-5) (2025-10-28)
-- [The 7 JavaScript Patterns That Fixed 90% of My Bugs](https://javascript.plainenglish.io/the-7-javascript-patterns-that-fixed-90-of-my-bugs-59567b06e3ce?source=rss------programming-5) (2025-10-28)
+- [09021901293](https://medium.com/@jcdffjfnbddjbvc/09021901293-13427cfabb17?source=rss------programming-5) (2025-10-29)
+- [09021901293](https://medium.com/@jcdffjfnbddjbvc/09021901293-496d6174eb69?source=rss------programming-5) (2025-10-29)
+- [09021901293](https://medium.com/@jcdffjfnbddjbvc/09021901293-8e4b336dd1b3?source=rss------programming-5) (2025-10-29)
+- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mfkmdmnf/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-6824c66fedc8?source=rss------programming-5) (2025-10-29)
+- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mfkmdmnf/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-fa21f78f9b14?source=rss------programming-5) (2025-10-29)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Build more accurate AI applications with Amazon Nova Web Grounding](https://aws.amazon.com/blogs/aws/build-more-accurate-ai-applications-with-amazon-nova-web-grounding/) (2025-10-28)
 - [Amazon Nova Multimodal Embeddings: State-of-the-art embedding model for agentic RAG and semantic search](https://aws.amazon.com/blogs/aws/amazon-nova-multimodal-embeddings-now-available-in-amazon-bedrock/) (2025-10-28)
 - [AWS Weekly Roundup: AWS RTB Fabric, AWS Customer Carbon Footprint Tool, AWS Secret-West Region, and more (October 27, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-rtb-fabric-aws-customer-carbon-footprint-tool-aws-secret-west-region-and-more-october-27-2025/) (2025-10-27)
 - [Introducing AWS RTB Fabric for real-time advertising technology workloads](https://aws.amazon.com/blogs/aws/introducing-aws-rtb-fabric-for-real-time-advertising-technology-workloads/) (2025-10-23)
 - [Customer Carbon Footprint Tool Expands: Additional emissions categories including Scope 3 are now available](https://aws.amazon.com/blogs/aws/aws-customer-carbon-footprint-tool-now-includes-scope-3-emissions/) (2025-10-22)
-- [AWS Weekly Roundup: Kiro waitlist, EBS Volume Clones, EC2 Capacity Manager, and more (October 20, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-kiro-waitlist-ebs-volume-clones-ec2-capacity-manager-and-more-october-20-2025/) (2025-10-20)
 
 </details>
 
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Fully managed cloud-to-cloud transfers with Azure Storage Mover](https://azure.microsoft.com/en-us/blog/fully-managed-cloud-to-cloud-transfers-with-azure-storage-mover/) (2025-10-23)
+- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2025-10-22)
+- [The Signals Loop: Fine-tuning for world-class AI apps and agents ](https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/) (2025-10-21)
 - [Innovation spotlight: How 3 customers are driving change with migration to Azure SQL](https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/) (2025-10-20)
 - [From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available](https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/) (2025-10-16)
-- [Sora 2 now available in Azure AI Foundry](https://azure.microsoft.com/en-us/blog/sora-2-now-available-in-azure-ai-foundry/) (2025-10-15)
-- [Oracle Database@Azure offers new features, regions, and programs to unlock data and AI innovation](https://azure.microsoft.com/en-us/blog/oracle-databaseazure-offers-new-features-regions-and-programs-to-unlock-data-and-ai-innovation/) (2025-10-14)
-- [Accelerating open-source infrastructure development for frontier AI at scale](https://azure.microsoft.com/en-us/blog/accelerating-open-source-infrastructure-development-for-frontier-ai-at-scale/) (2025-10-14)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [NVIDIA GTC Washington, DC: Live Updates on What’s Next in AI](https://blogs.nvidia.com/blog/nvidia-gtc-washington-dc-2025-news/) (2025-10-28)
 - [NVIDIA AI Physics Transforms Aerospace and Automotive Design, Accelerating Engineering by 500x](https://blogs.nvidia.com/blog/ai-physics-aerospace-automotive-design-engineering/) (2025-10-28)
 - [Fueling Economic Development Across the US: How NVIDIA Is Empowering States, Municipalities and Universities to Drive Innovation](https://blogs.nvidia.com/blog/economic-development-us/) (2025-10-28)
 - [NVIDIA, NPS Commission the Navy’s AI Flagship for Training Tomorrow’s Leaders](https://blogs.nvidia.com/blog/naval-postgraduate-school-ai/) (2025-10-28)
 - [NVIDIA and General Atomics Advance Commercial Fusion Energy](https://blogs.nvidia.com/blog/nvidia-general-atomics-fusion/) (2025-10-28)
-- [NVIDIA Open Sources Aerial Software to Accelerate AI-Native 6G](https://blogs.nvidia.com/blog/open-source-aerial-ai-native-6g/) (2025-10-28)
 
 </details>
 
@@ -196,11 +198,11 @@
 <details>
 <summary>🟩 Node.js Blog</summary>
 
+- [Node.js v25.1.0 (Current)](https://nodejs.org/en/blog/release/v25.1.0) (2025-10-28)
+- [Node.js v22.21.1 (LTS)](https://nodejs.org/en/blog/release/v22.21.1) (2025-10-28)
 - [Node.js v24.11.0 (LTS)](https://nodejs.org/en/blog/release/v24.11.0) (2025-10-28)
 - [Node.js v22.21.0 (LTS)](https://nodejs.org/en/blog/release/v22.21.0) (2025-10-20)
 - [Node.js v25.0.0 (Current)](https://nodejs.org/en/blog/release/v25.0.0) (2025-10-15)
-- [Node.js v24.10.0 (Current)](https://nodejs.org/en/blog/release/v24.10.0) (2025-10-11)
-- [Node.js v24.9.0 (Current)](https://nodejs.org/en/blog/release/v24.9.0) (2025-09-25)
 
 </details>
 
@@ -306,11 +308,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [The Launch of Developer Productivity AI Arena: An Open Platform for Benchmarking AI Coding Agents](https://blog.jetbrains.com/blog/2025/10/28/the-launch-of-developer-productivity-ai-arena-an-open-platform-for-benchmarking-ai-coding-agents/) (2025-10-28)
+- [Introducing Developer Productivity AI Arena: An Open Platform for AI Coding Agents Benchmarks](https://blog.jetbrains.com/blog/2025/10/28/introducing-developer-productivity-ai-arena-an-open-platform-for-ai-coding-agents-benchmarks/) (2025-10-28)
+- [YouTrack Introduces a Remote MCP Server and New Apps](https://blog.jetbrains.com/youtrack/2025/10/youtrack-introduces-a-remote-mcp-server-and-new-apps/) (2025-10-28)
 - [Evaluating Kotlin in Real Projects](https://blog.jetbrains.com/kotlin/2025/10/evaluating-kotlin-in-real-projects/) (2025-10-28)
 - [ReSharper and Rider 2025.2.4: Another Set of Updates Released](https://blog.jetbrains.com/dotnet/2025/10/28/resharper-and-rider-2025-1-4-2/) (2025-10-28)
-- [The Modern Enterprise Toolkit for Secure, High-Quality Code](https://blog.jetbrains.com/qodana/2025/10/the-modern-enterprise-toolkit-for-secure-high-quality-code/) (2025-10-27)
-- [Kodee’s Kotlin Roundup: Finally Back with News](https://blog.jetbrains.com/kotlin/2025/10/kodees-kotlin-roundup-october-edition/) (2025-10-27)
-- [The State of Django 2025](https://blog.jetbrains.com/pycharm/2025/10/the-state-of-django-2025/) (2025-10-27)
 
 </details>
 
@@ -503,11 +505,11 @@ https://www.twilio.com/en-us/blog/developers/community/build-cli-reminder-app-go
 <details>
 <summary>💬 Slack API</summary>
 
+- [Real-Time Collaboration: What It Is, Benefits, and Best Practices](https://slack.com/blog/collaboration/real-time-collaboration) (2025-10-27)
 - [Customer Connection: How It Drives Loyalty and Business Growth](https://slack.com/blog/collaboration/customer-connection-how-it-drives-loyalty-and-business-growth) (2025-10-23)
 - [Master Effective Communication Skills With These 10 Techniques](https://slack.com/blog/collaboration/master-effective-communication-skills-with-these-10-techniques) (2025-10-23)
 - [What Is Customer Data Integration, and Why Is It Important?](https://slack.com/blog/transformation/what-is-customer-data-integration-and-why-is-it-important) (2025-10-23)
 - [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2025-10-23)
-- [What Is Multifactor Authentication (MFA): Definition and Benefits](https://slack.com/blog/productivity/what-is-multifactor-authentication-mfa-definition-and-benefits) (2025-10-22)
 
 </details>
 
