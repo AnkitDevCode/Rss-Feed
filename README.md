@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Microsoft Azure is down, affecting 365, Xbox, Minecraft, and others](https://techcrunch.com/2025/10/29/microsoft-azure-is-down-affecting-365-xbox-minecraft-and-others/) (2025-10-29)
-- [GM cuts thousands of EV and battery factory workers](https://techcrunch.com/2025/10/29/gm-cuts-thousands-of-ev-and-battery-factory-workers/) (2025-10-29)
-- [Former L3Harris Trenchant boss pleads guilty to selling zero-day exploits to Russian broker](https://techcrunch.com/2025/10/29/former-l3harris-trenchant-boss-pleads-guilty-to-selling-zero-day-exploits-to-russian-broker/) (2025-10-29)
-- [Google to bring shuttered nuclear power plant back from the dead](https://techcrunch.com/2025/10/29/google-to-bring-shuttered-nuclear-power-plant-back-from-the-dead/) (2025-10-29)
-- [Bending Spoons to acquire AOL](https://techcrunch.com/2025/10/29/bending-spoons-to-acquire-aol/) (2025-10-29)
+- [Cluely’s Roy Lee on the ragebait strategy for startup marketing](https://techcrunch.com/2025/10/29/cluelys-roy-lee-on-the-ragebait-strategy-for-startup-marketing/) (2025-10-30)
+- [NBA champion Tristan Thompson and World Mobile launch community-owned network Uplift](https://techcrunch.com/2025/10/29/nba-champion-tristan-thompson-and-world-mobile-launch-community-owned-network-uplift/) (2025-10-29)
+- [Digg founder Kevin Rose on the need for trusted social communities in the AI era](https://techcrunch.com/2025/10/29/digg-founder-kevin-rose-on-the-need-for-trusted-social-communities-in-the-ai-era/) (2025-10-29)
+- [YouTube announces ‘voluntary exit program’ for US staff](https://techcrunch.com/2025/10/29/youtube-announces-voluntary-exit-program-for-us-staff/) (2025-10-29)
+- [And the winner of Startup Battlefield at Disrupt 2025 is: Glīd](https://techcrunch.com/2025/10/29/and-the-winner-of-startup-battlefield-at-disrupt-2025-is-glid/) (2025-10-29)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [OpenAI’s promise to stay in California helped clear the path for its IPO](https://www.wsj.com/tech/ai/openais-promise-to-stay-in-california-helped-clear-the-path-for-its-ipo-3af1c31c) (2025-10-29)
-- [Pentagon orders states' national guards to form 'quick reaction forces'](https://www.theguardian.com/us-news/2025/oct/29/pentagon-memo-quick-reaction-forces) (2025-10-29)
-- [ICE and CBP Agents Are Scanning Faces on the Street to Verify Citizenship](https://www.404media.co/ice-and-cbp-agents-are-scanning-peoples-faces-on-the-street-to-verify-citizenship/) (2025-10-29)
-- [A Year of Fast Apply – Our Path to 10k Tokens per Second](https://www.relace.ai/blog/relace-apply-3) (2025-10-29)
-- [Does brand advertising work? Upwave (YC S12) is hiring engineers to answer that](https://www.upwave.com/job/8228849002/) (2025-10-29)
+- [OS/2 Warp, PowerPC Edition](https://www.os2museum.com/wp/os2-history/os2-warp-powerpc-edition/) (2025-10-29)
+- [Crunchyroll is destroying its subtitles for no good reason](https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/) (2025-10-29)
+- [Raspberry Pi Pico Bit-Bangs 100 Mbit/S Ethernet](https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet) (2025-10-29)
+- [A century of reforestation helped keep the eastern US cool](https://news.agu.org/press-release/a-century-of-reforestation-helped-keep-the-eastern-us-cool/) (2025-10-29)
+- [Meta and TikTok are obstructing researchers' access to data, EU commission rules](https://www.science.org/content/article/meta-and-tiktok-are-obstructing-researchers-access-data-european-commission-rules) (2025-10-29)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The Outer Worlds 2&#8217;s satire has a Microsoft-shaped problem](https://www.theverge.com/entertainment/809022/the-outer-worlds-2-corporate-satire-interview-xbox) (2025-10-29)
-- [Anker’s fast 2-in-1 USB-C cable is less than $20 right now](https://www.theverge.com/tech/809180/anker-140w-2-in-1-usb-c-cable-deal-sale) (2025-10-29)
-- [A massive Microsoft Azure outage is taking down Xbox and 365](https://www.theverge.com/news/809142/microsoft-azure-xbox-365-is-down-outage) (2025-10-29)
-- [Halo on PlayStation might be what Xbox needs to survive](https://www.theverge.com/entertainment/809053/halo-playstation-xbox-multiplatform-strategy) (2025-10-29)
-- [LG’s G5 65-inch OLED 4K TV is the most affordable it’s ever been](https://www.theverge.com/tech/809043/lg-g5-oled-tv-pawsync-smart-pet-feeder-deal-sale) (2025-10-29)
+- [Microsoft says it’s recovering after Azure outage took down 365, Xbox, and Starbucks](https://www.theverge.com/news/809142/microsoft-azure-xbox-365-is-down-outage) (2025-10-29)
+- [Rode has a better way to connect your tiny wireless mics to your digital camera](https://www.theverge.com/news/809146/rode-wireless-microphone-micro-digital-camera-kit-receiver-oled-display) (2025-10-29)
+- [Meta repents again to Republicans in hearing over moderation, while Google stands its ground](https://www.theverge.com/policy/809613/senate-commerce-jawboning-tech-speech-hearing) (2025-10-29)
+- [Trump administration charges influencer and congressional candidate over ICE protests](https://www.theverge.com/news/809401/kat-abughazaleh-ice-indicted) (2025-10-29)
+- [Mark Zuckerberg is excited to add more AI content to all your social feeds](https://www.theverge.com/news/809349/meta-mark-zuckerberg-ai-social-feeds-q3-2025-earnings) (2025-10-29)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Fermentation is key to coffee beans gleaned from civet feces](https://arstechnica.com/science/2025/10/fermentation-is-key-to-coffee-beans-gleaned-from-civet-feces/) (2025-10-29)
-- [Nvidia hits record $5 trillion mark as CEO dismisses AI bubble concerns](https://arstechnica.com/ai/2025/10/nvidia-hits-record-5-trillion-mark-as-ceo-dismisses-ai-bubble-concerns/) (2025-10-29)
-- [Man accidentally gets leech up his nose. It took 20 days to figure it out.](https://arstechnica.com/health/2025/10/man-accidentally-gets-leech-up-his-nose-it-took-20-days-to-figure-it-out/) (2025-10-29)
-- [New physical attacks are quickly diluting secure enclave defenses from Nvidia, AMD, and Intel](https://arstechnica.com/security/2025/10/new-physical-attacks-are-quickly-diluting-secure-enclave-defenses-from-nvidia-amd-and-intel/) (2025-10-29)
-- [Republican plan would make deanonymization of census data trivial](https://arstechnica.com/tech-policy/2025/10/republican-plan-would-make-deanonymization-of-census-data-trivial/) (2025-10-29)
+- [Meta denies torrenting porn to train AI, says downloads were for “personal use”](https://arstechnica.com/tech-policy/2025/10/meta-says-porn-downloads-on-its-ips-were-for-personal-use-not-ai-training/) (2025-10-29)
+- [Space station astronauts eager to open “golden treasure box” from Japan](https://arstechnica.com/space/2025/10/space-station-astronauts-eager-to-open-golden-treasure-box-from-japan/) (2025-10-29)
+- [NPM flooded with malicious packages downloaded more than 86,000 times](https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/) (2025-10-29)
+- [Trump health official ousted after allegedly giving himself a fake title](https://arstechnica.com/health/2025/10/trump-health-official-ousted-after-allegedly-giving-himself-a-fake-title/) (2025-10-29)
+- [FCC Republicans force prisoners and families to pay more for phone calls](https://arstechnica.com/tech-policy/2025/10/fcc-republicans-force-prisoners-and-families-to-pay-more-for-phone-calls/) (2025-10-29)
 
 </details>
 
@@ -97,22 +97,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [You-Might-Not-Need-WebSockets-The-Simple-Power-of-Server-Sent-Events](https://dev.to/member_ece4a271/you-might-not-need-websockets-the-simple-power-of-server-sent-events-15e8) (2025-10-29)
-- [Como ajudar as pessoas a contribuirem com seu projeto Open Source](https://dev.to/morgannadev/como-ajudar-as-pessoas-a-contribuirem-com-seu-projeto-open-source-4cjm) (2025-10-29)
-- [How I Made an MCP Server That Saves Me an Hour per Week](https://dev.to/googlecloud/how-i-made-an-mcp-server-that-saves-me-an-hour-per-week-3k8k) (2025-10-29)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... (Ep. 2 – Carlisle GC)](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-lef) (2025-10-29)
-- [Meetup: Show Your Stack! TypeScript Community](https://dev.to/getjv/meetup-show-your-stack-typescript-community-5587) (2025-10-29)
+- [Managing goose Configurations Across Multiple Projects](https://dev.to/lymah/managing-goose-configurations-across-multiple-projects-58i3) (2025-10-30)
+- [The future of dev: more unified?](https://dev.to/devy/the-future-of-development-more-unified-5d2n) (2025-10-30)
+- [Automate Resume Parsing with n8n, Thordata Universal API & OpenAI GPT-4.1-mini](https://dev.to/ranjancse/automate-resume-parsing-with-n8n-thordata-universal-api-openai-gpt-41-mini-eh5) (2025-10-30)
+- [Title: The Fierce Hockey Mom Who Took to the Ice to Protest Her Son's Team](https://dev.to/yagyaraj_sharma_6cd410179/title-the-fierce-hockey-mom-who-took-to-the-ice-to-protest-her-sons-team-3b33) (2025-10-30)
+- [NPR Music: Oklou: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-oklou-tiny-desk-concert-5gc4) (2025-10-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Top 10 Open-Source AI Frameworks You Should Try (2025 Edition)](https://ai.plainenglish.io/top-10-open-source-ai-frameworks-you-should-try-2025-edition-f5a09d3700f6?source=rss------programming-5) (2025-10-29)
-- [I Ditched Microservices for Serverless (AWS Lambda), and My AI Bill Shrank by 70%](https://medium.com/@kushalburad07/i-ditched-microservices-for-serverless-aws-lambda-and-my-ai-bill-shrank-by-70-20d3fd5c65f6?source=rss------programming-5) (2025-10-29)
-- [I Rebuilt Our Core Service in Rust. The Performance Still Surprised Me.](https://medium.com/@CodeWithPurpose/i-rebuilt-our-core-service-in-rust-the-performance-still-surprised-me-182f57aa834b?source=rss------programming-5) (2025-10-29)
-- [ Rust’s IDE Support: The Hidden Productivity Trap Nobody Tells You About](https://medium.com/@anshusinghal703/rusts-ide-support-the-hidden-productivity-trap-nobody-tells-you-about-dc9947b62d78?source=rss------programming-5) (2025-10-29)
-- [ 10 Power BI UI/UX Tricks That Will Make Your Dashboards Look Professional!](https://medium.com/microsoft-power-bi/10-power-bi-ui-ux-tricks-that-will-make-your-dashboards-look-professional-1fb5109b872e?source=rss------programming-5) (2025-10-29)
+- [09021901293](https://medium.com/@gvjcjhvcf/09021901293-617c644f2592?source=rss------programming-5) (2025-10-30)
+- [09021901293](https://medium.com/@gvjcjhvcf/09021901293-a339ee127a80?source=rss------programming-5) (2025-10-30)
+- [09021901293](https://medium.com/@gvjcjhvcf/09021901293-5a92420ff8dc?source=rss------programming-5) (2025-10-30)
+- [9 Python Tricks That Make Complex APIs Feel Simple](https://python.plainenglish.io/9-python-tricks-that-make-complex-apis-feel-simple-e7a4d40b92ec?source=rss------programming-5) (2025-10-30)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@d19688357/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-26af24ddb7fc?source=rss------programming-5) (2025-10-30)
 
 </details>
 
@@ -152,11 +153,11 @@
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [Enhancements to help you submit and market your apps and games](https://developer.apple.com/news/?id=gf6mgrs6) (2025-10-29)
 - [New requirement for apps using Sign in with Apple for account creation](https://developer.apple.com/news/?id=j9zukcr6) (2025-10-09)
 - [Updated Apple Developer Program License Agreement now available](https://developer.apple.com/news/?id=fnkpd51y) (2025-10-08)
 - [New requirements for apps available in Texas](https://developer.apple.com/news/?id=btkirlj8) (2025-10-08)
 - [Hello Developer: October 2025](https://developer.apple.com/news/?id=glqa1owr) (2025-10-07)
-- [Upcoming Currency Change in Bulgaria](https://developer.apple.com/news/?id=rbfp3bpb) (2025-09-25)
 
 </details>
 
@@ -199,8 +200,8 @@
 - [Node.js v25.1.0 (Current)](https://nodejs.org/en/blog/release/v25.1.0) (2025-10-28)
 - [Node.js v22.21.1 (LTS)](https://nodejs.org/en/blog/release/v22.21.1) (2025-10-28)
 - [Node.js v24.11.0 (LTS)](https://nodejs.org/en/blog/release/v24.11.0) (2025-10-28)
-- [Node.js v22.21.0 (LTS)](https://nodejs.org/en/blog/release/v22.21.0) (2025-10-20)
-- [Node.js v25.0.0 (Current)](https://nodejs.org/en/blog/release/v25.0.0) (2025-10-15)
+- [Node.js v22 to v24](https://nodejs.org/en/blog/migrations/v22-to-v24) (2025-10-28)
+- [Node.js v20 to v22](https://nodejs.org/en/blog/migrations/v20-to-v22) (2025-10-28)
 
 </details>
 
@@ -306,11 +307,22 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [JetBrains Becomes Cloud9’s Official AI-Powered Coding Partner](https://blog.jetbrains.com/blog/2025/10/29/jetbrains-becomes-cloud9s-official-ai-powered-coding-partner/) (2025-10-29)
 - [Simplifying Distributed Systems: Jason Taylor Shows How .NET Aspire Makes the Complex Feel Effortless](https://blog.jetbrains.com/dotnet/2025/10/29/simplifying-distributed-systems-dotnet-aspire-jason-taylor/) (2025-10-29)
 - [The MPS 2025.3 Early Access Program Has Started](https://blog.jetbrains.com/mps/2025/10/the-mps-2025-3-eap-has-started/) (2025-10-29)
 - [Finding Order in the Mayhem: A Novel Concurrency Testing Tool that Improved the Kotlin Compiler](https://blog.jetbrains.com/research/2025/10/litmuskt-concurrency-testing/) (2025-10-29)
 - [The Launch of Developer Productivity AI Arena: An Open Platform for Benchmarking AI Coding Agents](https://blog.jetbrains.com/blog/2025/10/28/the-launch-of-developer-productivity-ai-arena-an-open-platform-for-benchmarking-ai-coding-agents/) (2025-10-28)
-- [Introducing Developer Productivity AI Arena: An Open Platform for AI Coding Agents Benchmarks](https://blog.jetbrains.com/blog/2025/10/28/introducing-developer-productivity-ai-arena-an-open-platform-for-ai-coding-agents-benchmarks/) (2025-10-28)
+
+</details>
+
+<details>
+<summary>📝 Visual Studio Code</summary>
+
+- [Expanding Model Choice in VS Code with Bring Your Own Key](https://code.visualstudio.com/blogs/2025/10/22/bring-your-own-key) (2025-10-22)
+- [September 2025 (version 1.105)](https://code.visualstudio.com/updates/v1_105) (2025-10-09)
+- [Introducing auto model selection (preview)](https://code.visualstudio.com/blogs/2025/09/15/autoModelSelection) (2025-09-15)
+- [August 2025 (version 1.104)](https://code.visualstudio.com/updates/v1_104) (2025-09-11)
+- [VS Code Dev Days – Join an event near you to learn about AI-assisted development](https://code.visualstudio.com/blogs/2025/08/27/vscode-dev-days) (2025-08-26)
 
 </details>
 
@@ -351,6 +363,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+The Future of BPO in the Age of AI and Automation: A Conversational Recap
+](
+https://www.twilio.com/en-us/blog/insights/the-future-of-bpo-in-the-age-of-ai-and-automation--a-conversatio
+) (2025-10-29)
+- [
+October 2025 Fraud Update: How ISVs can Prepare for the Holiday Season
+](
+https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update-october-2025
+) (2025-10-28)
+- [
 Making Alt Text Fast: How Twilio Scaled Docs Accessibility with Automation
 ](
 https://www.twilio.com/en-us/blog/developers/docs-accessibility-automation-llm-prompts
@@ -361,20 +383,10 @@ Regulatory & Compliance Corner – October 2025
 https://www.twilio.com/en-us/blog/insights/2025-october-regulatory-updates
 ) (2025-10-27)
 - [
-Build a Twilio Voice + ElevenLabs Agents Integration
+What Is IVR (Interactive Voice Response) for Call Centers?
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/build-twilio-voice-elevenlabs-agents-integration
-) (2025-10-23)
-- [
-Behind the Builder: Cesar Hernandez, Manager, Personalized Support
-](
-https://www.twilio.com/en-us/blog/company/spotlights/Behind-the-Builder-Cesar-Hernandez-twilio
-) (2025-10-22)
-- [
-How to Build  a CLI Reminder Application in GO
-](
-https://www.twilio.com/en-us/blog/developers/community/build-cli-reminder-app-go
-) (2025-10-21)
+https://www.twilio.com/en-us/blog/ivr-what-it-is-and-how-it-benefits-contact-center
+) (2025-10-25)
 
 </details>
 
@@ -492,11 +504,11 @@ https://www.twilio.com/en-us/blog/developers/community/build-cli-reminder-app-go
 <details>
 <summary>💬 Slack API</summary>
 
+- [Real-Time Collaboration: What It Is, Benefits, and Best Practices](https://slack.com/blog/collaboration/real-time-collaboration) (2025-10-27)
 - [Customer Connection: How It Drives Loyalty and Business Growth](https://slack.com/blog/collaboration/customer-connection-how-it-drives-loyalty-and-business-growth) (2025-10-23)
 - [Master Effective Communication Skills With These 10 Techniques](https://slack.com/blog/collaboration/master-effective-communication-skills-with-these-10-techniques) (2025-10-23)
 - [What Is Customer Data Integration, and Why Is It Important?](https://slack.com/blog/transformation/what-is-customer-data-integration-and-why-is-it-important) (2025-10-23)
 - [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2025-10-23)
-- [What Is Multifactor Authentication (MFA): Definition and Benefits](https://slack.com/blog/productivity/what-is-multifactor-authentication-mfa-definition-and-benefits) (2025-10-22)
 
 </details>
 
@@ -558,11 +570,11 @@ https://www.twilio.com/en-us/blog/developers/community/build-cli-reminder-app-go
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [4 Techniques to Optimize Your LLM Prompts for Cost, Latency and Performance](https://towardsdatascience.com/4-techniques-to-optimize-your-llm-prompts-for-cost-latency-and-performance/) (2025-10-29)
 - [Bringing Vision-Language Intelligence to RAG with ColPali](https://towardsdatascience.com/bringing-vision-language-intelligence-to-rag-with-colpali/) (2025-10-29)
 - [Using NumPy to Analyze My Daily Habits (Sleep, Screen Time & Mood)](https://towardsdatascience.com/using-numpy-to-analyze-my-daily-habits-sleep-screen-time-mood/) (2025-10-28)
 - [Deep Reinforcement Learning: 0 to 100](https://towardsdatascience.com/deep-reinforcement-learning-for-dummies/) (2025-10-28)
 - [Using Claude Skills with Neo4j](https://towardsdatascience.com/using-claude-skills-with-neo4j/) (2025-10-28)
-- [Water Cooler Small Talk, Ep. 9: What “Thinking” and “Reasoning” Really Mean in AI and LLMs](https://towardsdatascience.com/water-cooler-small-talk-ep-9-what-thinking-and-reasoning-really-mean-in-ai-and-llms/) (2025-10-28)
 
 </details>
 
