@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [IntrCity SmartBus lands $30M at $140M valuation to deepen its grip on India’s intercity travel market](https://techcrunch.com/2025/10/29/intrcity-smartbus-lands-30m-at-140m-valuation-to-deepen-its-grip-on-indias-intercity-travel-market/) (2025-10-30)
+- [India’s Snabbit valuation doubled to $180M in 5 months on its quick house-help bet](https://techcrunch.com/2025/10/29/indias-snabbit-valuation-doubled-to-180m-in-5-months-on-its-quick-house-help-bet/) (2025-10-30)
 - [Cluely’s Roy Lee on the ragebait strategy for startup marketing](https://techcrunch.com/2025/10/29/cluelys-roy-lee-on-the-ragebait-strategy-for-startup-marketing/) (2025-10-30)
 - [NBA champion Tristan Thompson and World Mobile launch community-owned network Uplift](https://techcrunch.com/2025/10/29/nba-champion-tristan-thompson-and-world-mobile-launch-community-owned-network-uplift/) (2025-10-29)
 - [Digg founder Kevin Rose on the need for trusted social communities in the AI era](https://techcrunch.com/2025/10/29/digg-founder-kevin-rose-on-the-need-for-trusted-social-communities-in-the-ai-era/) (2025-10-29)
-- [YouTube announces ‘voluntary exit program’ for US staff](https://techcrunch.com/2025/10/29/youtube-announces-voluntary-exit-program-for-us-staff/) (2025-10-29)
-- [And the winner of Startup Battlefield at Disrupt 2025 is: Glīd](https://techcrunch.com/2025/10/29/and-the-winner-of-startup-battlefield-at-disrupt-2025-is-glid/) (2025-10-29)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [OS/2 Warp, PowerPC Edition](https://www.os2museum.com/wp/os2-history/os2-warp-powerpc-edition/) (2025-10-29)
-- [Crunchyroll is destroying its subtitles for no good reason](https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/) (2025-10-29)
-- [Raspberry Pi Pico Bit-Bangs 100 Mbit/S Ethernet](https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet) (2025-10-29)
-- [A century of reforestation helped keep the eastern US cool](https://news.agu.org/press-release/a-century-of-reforestation-helped-keep-the-eastern-us-cool/) (2025-10-29)
-- [Meta and TikTok are obstructing researchers' access to data, EU commission rules](https://www.science.org/content/article/meta-and-tiktok-are-obstructing-researchers-access-data-european-commission-rules) (2025-10-29)
+- [Carlo Rovelli’s radical perspective on reality](https://www.quantamagazine.org/carlo-rovellis-radical-perspective-on-reality-20251029/) (2025-10-30)
+- [One year with Next.js App Router and why we're moving on](https://paperclover.net/blog/webdev/one-year-next-app-router) (2025-10-30)
+- [Hello-World iOS App in Assembly](https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31) (2025-10-30)
+- [IRCd service (2024)](https://example.fi/blog/ircd.html) (2025-10-30)
+- [OS/2 Warp, PowerPC Edition (2011)](https://www.os2museum.com/wp/os2-history/os2-warp-powerpc-edition/) (2025-10-29)
 
 </details>
 
@@ -97,23 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Managing goose Configurations Across Multiple Projects](https://dev.to/lymah/managing-goose-configurations-across-multiple-projects-58i3) (2025-10-30)
-- [The future of dev: more unified?](https://dev.to/devy/the-future-of-development-more-unified-5d2n) (2025-10-30)
-- [Automate Resume Parsing with n8n, Thordata Universal API & OpenAI GPT-4.1-mini](https://dev.to/ranjancse/automate-resume-parsing-with-n8n-thordata-universal-api-openai-gpt-41-mini-eh5) (2025-10-30)
-- [Title: The Fierce Hockey Mom Who Took to the Ice to Protest Her Son's Team](https://dev.to/yagyaraj_sharma_6cd410179/title-the-fierce-hockey-mom-who-took-to-the-ice-to-protest-her-sons-team-3b33) (2025-10-30)
-- [NPR Music: Oklou: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-oklou-tiny-desk-concert-5gc4) (2025-10-30)
+- [GitHub Co‑Creator: Tetrix for Codebase Mastery](https://dev.to/akkii2022/github-co-creator-tetrix-for-codebase-mastery-4bnp) (2025-10-30)
+- [Danny Maude: The Ridiculous Reason Why 90% of Golfers Can't Strike Their Irons & Hybrids](https://dev.to/youtube_golf/danny-maude-the-ridiculous-reason-why-90-of-golfers-cant-strike-their-irons-hybrids-4hbb) (2025-10-30)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-2308) (2025-10-30)
+- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-2k9b) (2025-10-30)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-4he1) (2025-10-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09021901293](https://medium.com/@gvjcjhvcf/09021901293-617c644f2592?source=rss------programming-5) (2025-10-30)
-- [09021901293](https://medium.com/@gvjcjhvcf/09021901293-a339ee127a80?source=rss------programming-5) (2025-10-30)
-- [09021901293](https://medium.com/@gvjcjhvcf/09021901293-5a92420ff8dc?source=rss------programming-5) (2025-10-30)
-- [9 Python Tricks That Make Complex APIs Feel Simple](https://python.plainenglish.io/9-python-tricks-that-make-complex-apis-feel-simple-e7a4d40b92ec?source=rss------programming-5) (2025-10-30)
-- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@d19688357/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-26af24ddb7fc?source=rss------programming-5) (2025-10-30)
+- [09306349860](https://medium.com/@1hsjskwkwkwnbskw/09306349860-60f2d69065db?source=rss------programming-5) (2025-10-30)
+- [The Death of Apps: How AI Agents Will Replace Your Home Screen](https://medium.com/activated-thinker/the-death-of-apps-how-ai-agents-will-replace-your-home-screen-ce10ba196f84?source=rss------programming-5) (2025-10-30)
+- [09306349860](https://medium.com/@2iwowkeskwllwkqkw/09306349860-1b4ae6212871?source=rss------programming-5) (2025-10-30)
+- [How One CSS Change Dropped Page Paint from 1.8s to 0.5s — No JS Needed](https://medium.com/@kedarbpatil07/how-one-css-change-dropped-page-paint-from-1-8s-to-0-5s-no-js-needed-2ab1bed969ac?source=rss------programming-5) (2025-10-30)
+- [09306349860](https://medium.com/@2iwowkeskwllwkqkw/09306349860-5bfdf5fa189d?source=rss------programming-5) (2025-10-30)
 
 </details>
 
@@ -363,16 +362,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-The Future of BPO in the Age of AI and Automation: A Conversational Recap
-](
-https://www.twilio.com/en-us/blog/insights/the-future-of-bpo-in-the-age-of-ai-and-automation--a-conversatio
-) (2025-10-29)
-- [
-October 2025 Fraud Update: How ISVs can Prepare for the Holiday Season
-](
-https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update-october-2025
-) (2025-10-28)
-- [
 Making Alt Text Fast: How Twilio Scaled Docs Accessibility with Automation
 ](
 https://www.twilio.com/en-us/blog/developers/docs-accessibility-automation-llm-prompts
@@ -383,10 +372,20 @@ Regulatory & Compliance Corner – October 2025
 https://www.twilio.com/en-us/blog/insights/2025-october-regulatory-updates
 ) (2025-10-27)
 - [
-What Is IVR (Interactive Voice Response) for Call Centers?
+Build a Twilio Voice + ElevenLabs Agents Integration
 ](
-https://www.twilio.com/en-us/blog/ivr-what-it-is-and-how-it-benefits-contact-center
-) (2025-10-25)
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/build-twilio-voice-elevenlabs-agents-integration
+) (2025-10-23)
+- [
+Behind the Builder: Cesar Hernandez, Manager, Personalized Support
+](
+https://www.twilio.com/en-us/blog/company/spotlights/Behind-the-Builder-Cesar-Hernandez-twilio
+) (2025-10-22)
+- [
+How to Build  a CLI Reminder Application in GO
+](
+https://www.twilio.com/en-us/blog/developers/community/build-cli-reminder-app-go
+) (2025-10-21)
 
 </details>
 
@@ -504,11 +503,11 @@ https://www.twilio.com/en-us/blog/ivr-what-it-is-and-how-it-benefits-contact-cen
 <details>
 <summary>💬 Slack API</summary>
 
-- [Real-Time Collaboration: What It Is, Benefits, and Best Practices](https://slack.com/blog/collaboration/real-time-collaboration) (2025-10-27)
 - [Customer Connection: How It Drives Loyalty and Business Growth](https://slack.com/blog/collaboration/customer-connection-how-it-drives-loyalty-and-business-growth) (2025-10-23)
 - [Master Effective Communication Skills With These 10 Techniques](https://slack.com/blog/collaboration/master-effective-communication-skills-with-these-10-techniques) (2025-10-23)
 - [What Is Customer Data Integration, and Why Is It Important?](https://slack.com/blog/transformation/what-is-customer-data-integration-and-why-is-it-important) (2025-10-23)
 - [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2025-10-23)
+- [What Is Multifactor Authentication (MFA): Definition and Benefits](https://slack.com/blog/productivity/what-is-multifactor-authentication-mfa-definition-and-benefits) (2025-10-22)
 
 </details>
 
