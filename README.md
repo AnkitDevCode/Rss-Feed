@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Scenes from TechCrunch Disrupt](https://techcrunch.com/2025/10/30/scenes-from-techcrunch-disrupt/) (2025-10-31)
 - [Navan IPO tumbles 20% after historic debut under SEC shutdown workaround](https://techcrunch.com/2025/10/30/navan-ipo-tumbles-20-after-historic-debut-under-sec-shutdown-workaround/) (2025-10-30)
 - [Nvidia is reportedly investing up to $1B in Poolside ](https://techcrunch.com/2025/10/30/nvidia-is-reportedly-investing-up-to-1-billion-in-poolside/) (2025-10-30)
 - [Canva launches its own design model, adds new AI features to the platform](https://techcrunch.com/2025/10/30/canva-launches-its-own-design-model-adds-new-ai-features-to-the-platform/) (2025-10-30)
 - [Bevel raises $10M Series A from General Catalyst for its AI health companion](https://techcrunch.com/2025/10/30/bevel-raises-10m-series-a-from-general-catalyst-for-its-ai-health-companion/) (2025-10-30)
-- [Threads now lets you approve and filter your replies](https://techcrunch.com/2025/10/30/threads-now-lets-you-approve-and-filter-your-replies/) (2025-10-30)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Kimi Linear: An Expressive, Efficient Attention Architecture](https://github.com/MoonshotAI/Kimi-Linear) (2025-10-31)
-- [A change of address led to our Wise accounts being shut down](https://shaun.nz/why-were-never-using-wise-again-a-cautionary-tale-from-a-business-burned/) (2025-10-30)
-- [Phone numbers for use in TV shows, films and creative works](https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works) (2025-10-30)
-- [Denmark reportedly withdraws Chat Control proposal following controversy](https://therecord.media/demark-reportedly-withdraws-chat-control-proposal) (2025-10-30)
-- [Show HN: ekoAcademic – Convert ArXiv papers to interactive podcasts](https://www.wadamczyk.io/projects/ekoacademic/index.html) (2025-10-30)
+- [ANTML: Anthropic’s Markup Language](https://karashiiro.leaflet.pub/3m4gf7geefs2l) (2025-10-31)
+- [AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process](https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/) (2025-10-31)
+- [ICE and the Smartphone Panopticon](https://www.newyorker.com/culture/infinite-scroll/ice-and-the-smartphone-panopticon) (2025-10-31)
+- [Roadmap for Improving the Type Checker](https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952) (2025-10-31)
+- [Show HN: Quibbler – A critic for your coding agent that learns what you want](https://github.com/fulcrumresearch/quibbler) (2025-10-31)
 
 </details>
 
@@ -86,36 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Vibe coding needs a spec, too](https://stackoverflow.blog/2025/10/31/vibe-coding-needs-a-spec-too/) (2025-10-31)
 - [Live from the OpenAI forum: Learning to code in the age of AI](https://stackoverflow.blog/2025/10/30/live-from-the-openai-forum-learning-to-code-in-the-age-of-ai/) (2025-10-30)
 - [Craft and quality beat speed and scale, with or without agents](https://stackoverflow.blog/2025/10/28/craft-and-quality-beat-speed-and-scale-with-or-without-agents/) (2025-10-28)
 - [AI agents will succeed because one tool is better than ten](https://stackoverflow.blog/2025/10/27/ai-agents-will-succeed-because-one-tool-is-better-than-ten/) (2025-10-27)
 - [Your runbooks are obsolete in the age of agents](https://stackoverflow.blog/2025/10/24/your-runbooks-are-obsolete-in-the-age-of-agents/) (2025-10-24)
-- [What leaders need to know from the 2025 Stack Overflow Developer Survey](https://stackoverflow.blog/2025/10/23/what-leaders-need-to-know-from-the-2025-stack-overflow-developer-survey/) (2025-10-23)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [My Wife's Cognitive Challenge](https://dev.to/tempuskg/my-wifes-cognitive-challenge-174h) (2025-10-31)
-- [Building a Full-Stack E-Commerce Site with Lovable: From Zero to Production](https://dev.to/cathylai/building-a-full-stack-e-commerce-site-with-lovable-from-zero-to-production-2hm8) (2025-10-31)
-- [Tool as Prompt: From LLM-First Docs to Teaching LLMs Domain Knowledge On The Fly](https://dev.to/francesco_marconi_282058b/from-llm-first-docs-to-teaching-llms-domain-knowledge-on-the-fly-5dma) (2025-10-31)
-- [Stop Doing Business Logic in Webhook Endpoints. I Don't Care What Your Lead Engineer Says.](https://dev.to/elvissautet/stop-doing-business-logic-in-webhook-endpoints-i-dont-care-what-your-lead-engineer-says-8o0) (2025-10-31)
-- [5 Best Go Libraries for Uploading Files to MinIO (Without Losing Your Mind)](https://dev.to/lamri_abdellahramdane_15/5-best-go-libraries-for-uploading-files-to-minio-without-losing-your-mind-5616) (2025-10-31)
+- [Building My Invoice App – Added File Attachments Today](https://dev.to/sudarshan_s_hosalli/building-my-invoice-app-added-file-attachments-today-1313) (2025-10-31)
+- [The 90-Minute Sprint Model: How Deep Work Cycles Transform Developer Output](https://dev.to/teamcamp/the-90-minute-sprint-model-how-deep-work-cycles-transform-developer-output-43f1) (2025-10-31)
+- [Google Rolls Out Merchant Center for Agencies](https://dev.to/me_bhavesh/google-rolls-out-merchant-center-for-agencies-80h) (2025-10-31)
+- [My ML Learning Journey: From Confusion to Building a Working Model](https://dev.to/cessamaeeee/my-ml-learning-journey-from-confusion-to-building-a-working-model-235p) (2025-10-31)
+- [5 Ways to Use AI Art for Standout Online Presence](https://dev.to/anachur/5-ways-to-use-ai-art-for-standout-online-presence-4dbd) (2025-10-31)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mbvddsvbn1/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-6a1ced184379?source=rss------programming-5) (2025-10-31)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mbvddsvbn1/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e05897ceb451?source=rss------programming-5) (2025-10-31)
-- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@6sksowksnsbsjwk/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ab86221825c7?source=rss------programming-5) (2025-10-31)
-- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@6sksowksnsbsjwk/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-58714098994d?source=rss------programming-5) (2025-10-31)
-- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@6sksowksnsbsjwk/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-95969bfb29be?source=rss------programming-5) (2025-10-31)
+- [ 8 Advanced Frontend Patterns You’re Probably Missing (And Should Know Now)](https://medium.com/codetodeploy/8-advanced-frontend-patterns-youre-probably-missing-and-should-know-now-8ba1cb78f2d6?source=rss------programming-5) (2025-10-31)
+- [ Advanced Node.js Tips Every Developer Should Know](https://medium.com/@Samira8872/advanced-node-js-tips-every-developer-should-know-ec63fdc89b2f?source=rss------programming-5) (2025-10-31)
+- [Bun vs Deno vs Node: I Migrated Our API Three Times. Here’s the Real Performance Data.](https://medium.com/@sohail_saifii/bun-vs-deno-vs-node-i-migrated-our-api-three-times-heres-the-real-performance-data-a4499bb07b8d?source=rss------programming-5) (2025-10-31)
+- [☕ Java 2025: Exploring Advanced Features and Modern Capabilities of the World’s Most Reliable…](https://medium.com/@beenakumawat003/java-2025-exploring-advanced-features-and-modern-capabilities-of-the-worlds-most-reliable-c9791eb0b64b?source=rss------programming-5) (2025-10-31)
+- [⚡ Modern JavaScript 2025: Exploring the Power of ES2025 and Beyond](https://medium.com/@avantika0/modern-javascript-2025-exploring-the-power-of-es2025-and-beyond-bbfbbffb2b64?source=rss------programming-5) (2025-10-31)
 
 </details>
 
@@ -507,11 +504,11 @@ https://www.twilio.com/en-us/blog/ivr-what-it-is-and-how-it-benefits-contact-cen
 <details>
 <summary>💬 Slack API</summary>
 
+- [Real-Time Collaboration: What It Is, Benefits, and Best Practices](https://slack.com/blog/collaboration/real-time-collaboration) (2025-10-27)
 - [Customer Connection: How It Drives Loyalty and Business Growth](https://slack.com/blog/collaboration/customer-connection-how-it-drives-loyalty-and-business-growth) (2025-10-23)
 - [Master Effective Communication Skills With These 10 Techniques](https://slack.com/blog/collaboration/master-effective-communication-skills-with-these-10-techniques) (2025-10-23)
 - [What Is Customer Data Integration, and Why Is It Important?](https://slack.com/blog/transformation/what-is-customer-data-integration-and-why-is-it-important) (2025-10-23)
 - [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2025-10-23)
-- [What Is Multifactor Authentication (MFA): Definition and Benefits](https://slack.com/blog/productivity/what-is-multifactor-authentication-mfa-definition-and-benefits) (2025-10-22)
 
 </details>
 
