@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Navan IPO tumbles 20% after historic debut under SEC shutdown workaround](https://techcrunch.com/2025/10/30/navan-ipo-tumbles-20-after-historic-debut-under-sec-shutdown-workaround/) (2025-10-30)
+- [Nvidia is reportedly investing up to $1B in Poolside ](https://techcrunch.com/2025/10/30/nvidia-is-reportedly-investing-up-to-1-billion-in-poolside/) (2025-10-30)
 - [Canva launches its own design model, adds new AI features to the platform](https://techcrunch.com/2025/10/30/canva-launches-its-own-design-model-adds-new-ai-features-to-the-platform/) (2025-10-30)
 - [Bevel raises $10M Series A from General Catalyst for its AI health companion](https://techcrunch.com/2025/10/30/bevel-raises-10m-series-a-from-general-catalyst-for-its-ai-health-companion/) (2025-10-30)
 - [Threads now lets you approve and filter your replies](https://techcrunch.com/2025/10/30/threads-now-lets-you-approve-and-filter-your-replies/) (2025-10-30)
-- [Google partners with Ambani’s Reliance to offer free AI Pro access to millions of Jio users in India](https://techcrunch.com/2025/10/30/google-partners-with-ambanis-reliance-to-offer-free-ai-pro-access-to-millions-of-jio-users-in-india/) (2025-10-30)
-- [Figma acquires AI-powered media generation company Weavy](https://techcrunch.com/2025/10/30/figma-acquires-ai-powered-media-generation-company-weavy/) (2025-10-30)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Some People Can't See Mental Images. The Consequences Are Profound](https://www.newyorker.com/magazine/2025/11/03/some-people-cant-see-mental-images-the-consequences-are-profound) (2025-10-30)
-- [The ear does not do a Fourier transform](https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform) (2025-10-30)
-- [Moderna, the company that helped save the world, has unraveled](https://www.statnews.com/2025/10/30/moderna-rise-fall-biotech-analysis-from-pandemic-rise-to-mrna-crash/) (2025-10-30)
-- [Launch HN: Propolis (YC X25) – Browser agents that QA your web app autonomously](https://app.propolis.tech/#/launch) (2025-10-30)
-- [Falling panel prices lead to global solar boom, except for the US](https://arstechnica.com/science/2025/10/theres-a-global-boom-in-solar-except-in-the-united-states/) (2025-10-30)
+- [Kimi Linear: An Expressive, Efficient Attention Architecture](https://github.com/MoonshotAI/Kimi-Linear) (2025-10-31)
+- [A change of address led to our Wise accounts being shut down](https://shaun.nz/why-were-never-using-wise-again-a-cautionary-tale-from-a-business-burned/) (2025-10-30)
+- [Phone numbers for use in TV shows, films and creative works](https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works) (2025-10-30)
+- [Denmark reportedly withdraws Chat Control proposal following controversy](https://therecord.media/demark-reportedly-withdraws-chat-control-proposal) (2025-10-30)
+- [Show HN: ekoAcademic – Convert ArXiv papers to interactive podcasts](https://www.wadamczyk.io/projects/ekoacademic/index.html) (2025-10-30)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Windows 11&#8217;s Vision Pro-like remote desktop is now widely available on Quest 3](https://www.theverge.com/news/810576/microsoft-windows-11-mixed-reality-link-meta-quest-3-vr) (2025-10-30)
-- [Canva&#8217;s new &#8216;Creative Operating System&#8217; is actually a marketing workspace](https://www.theverge.com/news/810414/canva-creative-operating-system-ai-launch) (2025-10-30)
-- [The discounted SwitchBot Bot can add smarts to your monitor and coffee maker for just $24 ](https://www.theverge.com/tech/810358/switchbot-bot-smart-home-amazon-deal-sale) (2025-10-30)
-- [Amazon has reportedly canceled its LOTR MMO](https://www.theverge.com/news/810383/amazon-lotr-mmo-embracer-canceled-layoffs) (2025-10-30)
-- [These are my favorite Switch 2 accessories](https://www.theverge.com/buying-guides/720160/best-switch-2-accessories) (2025-10-30)
+- [Microsoft&#8217;s agent platform play](https://www.theverge.com/tech/809889/github-agent-hq-platform-play-microsoft-jared-palmer-jay-parikh) (2025-10-31)
+- [Tim Cook says more AIs are coming to Apple Intelligence](https://www.theverge.com/news/810735/tim-cook-ai-apple-intelligence-integrations) (2025-10-30)
+- [Samsung’s AirPods Pro look-alikes have fallen to their best price in months](https://www.theverge.com/tech/810613/samsung-galaxy-buds-3-pro-anc-earbuds-deal-sale) (2025-10-30)
+- [How to shop like a pro during Black Friday and Cyber Monday](https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find) (2025-10-30)
+- [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers) (2025-10-30)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Disney+ gets HDR10+ via “over 1,000” Hulu titles](https://arstechnica.com/gadgets/2025/10/disney-gets-hdr10-through-over-1000-hulu-titles/) (2025-10-30)
-- [New study settles 40-year debate: Nanotyrannus is a new species](https://arstechnica.com/science/2025/10/nanotyrannus-species-confirmed-its-not-just-a-baby-t-rex/) (2025-10-30)
-- [Google makes first Play Store changes after losing Epic Games antitrust case](https://arstechnica.com/gadgets/2025/10/google-begins-loosening-developer-restrictions-in-play-store-against-its-will/) (2025-10-30)
-- [After teen death lawsuits, Character.AI will restrict chats for under-18 users](https://arstechnica.com/information-technology/2025/10/after-teen-death-lawsuits-character-ai-will-restrict-chats-for-under-18-users/) (2025-10-30)
-- [TikTok may become more right-wing as China signals approval for US sale](https://arstechnica.com/tech-policy/2025/10/us-creeps-closer-to-controlling-tiktok-after-trump-xi-meeting/) (2025-10-30)
+- [Calley Means is out of the White House; Casey Means misses Senate hearing](https://arstechnica.com/health/2025/10/the-means-siblings-darlings-of-maha-both-out-of-the-trump-admin-for-now/) (2025-10-30)
+- [Man finally released a month after absurd arrest for reposting Trump meme](https://arstechnica.com/tech-policy/2025/10/man-finally-released-a-month-after-absurd-arrest-for-reposting-trump-meme/) (2025-10-30)
+- [Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking](https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/) (2025-10-30)
+- [Caught cheating in class, college students “apologized” using AI—and profs called them out](https://arstechnica.com/culture/2025/10/when-caught-cheating-in-college-dont-apologize-with-ai/) (2025-10-30)
+- [Affinity’s image-editing apps go “freemium” in first major post-Canva update](https://arstechnica.com/gadgets/2025/10/canvas-new-affinity-app-is-free-to-use-but-locks-ai-features-behind-a-subscription/) (2025-10-30)
 
 </details>
 
@@ -75,11 +75,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Measuring what matters: How offline evaluation of GitHub MCP Server works](https://github.blog/ai-and-ml/generative-ai/measuring-what-matters-how-offline-evaluation-of-github-mcp-server-works/) (2025-10-30)
 - [Introducing Agent HQ: Any agent, any way you work](https://github.blog/news-insights/company-news/welcome-home-agents/) (2025-10-28)
 - [Octoverse: A new developer joins GitHub every second as AI leads TypeScript to #1](https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/) (2025-10-28)
 - [Announcing the 2025 GitHub Partner Award winners 🎉](https://github.blog/news-insights/company-news/announcing-the-2025-github-partner-award-winners/) (2025-10-28)
 - [How to find, install, and manage MCP servers with the GitHub MCP Registry](https://github.blog/ai-and-ml/generative-ai/how-to-find-install-and-manage-mcp-servers-with-the-github-mcp-registry/) (2025-10-24)
-- [The road to better completions: Building a faster, smarter GitHub Copilot with a new custom model](https://github.blog/ai-and-ml/github-copilot/the-road-to-better-completions-building-a-faster-smarter-github-copilot-with-a-new-custom-model/) (2025-10-23)
 
 </details>
 
@@ -97,22 +97,25 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [From Overwhelmed to Empowered: My Hacktoberfest 2025 Journey](https://dev.to/codejourney/from-overwhelmed-to-empowered-my-hacktoberfest-2025-journey-f94) (2025-10-30)
-- [Are Local Virginia Transporters More Reliable Than National Carriers for NJ Delivery?](https://dev.to/autostartransportexpress/are-local-virginia-transporters-more-reliable-than-national-carriers-for-nj-delivery-32g8) (2025-10-30)
-- [No Laying Up Podcast: The Booth Vol.23 | Trap Draw, Ep 365](https://dev.to/youtube_golf/no-laying-up-podcast-the-booth-vol23-trap-draw-ep-365-2md4) (2025-10-30)
-- [Protect Your Software IP with Smart, Automated Licensing Solutions](https://dev.to/soraco_technologies_85385/protect-your-software-ip-with-smart-automated-licensing-solutions-3nfb) (2025-10-30)
-- [Ringer Movies: ‘Halloween II’ With Bill Simmons, Chris Ryan, and Van Lathan](https://dev.to/popcorn_movies/ringer-movies-halloween-ii-with-bill-simmons-chris-ryan-and-van-lathan-3eap) (2025-10-30)
+- [My Wife's Cognitive Challenge](https://dev.to/tempuskg/my-wifes-cognitive-challenge-174h) (2025-10-31)
+- [Building a Full-Stack E-Commerce Site with Lovable: From Zero to Production](https://dev.to/cathylai/building-a-full-stack-e-commerce-site-with-lovable-from-zero-to-production-2hm8) (2025-10-31)
+- [Tool as Prompt: From LLM-First Docs to Teaching LLMs Domain Knowledge On The Fly](https://dev.to/francesco_marconi_282058b/from-llm-first-docs-to-teaching-llms-domain-knowledge-on-the-fly-5dma) (2025-10-31)
+- [Stop Doing Business Logic in Webhook Endpoints. I Don't Care What Your Lead Engineer Says.](https://dev.to/elvissautet/stop-doing-business-logic-in-webhook-endpoints-i-dont-care-what-your-lead-engineer-says-8o0) (2025-10-31)
+- [5 Best Go Libraries for Uploading Files to MinIO (Without Losing Your Mind)](https://dev.to/lamri_abdellahramdane_15/5-best-go-libraries-for-uploading-files-to-minio-without-losing-your-mind-5616) (2025-10-31)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ How the Internet Actually Works — A Deep, Friendly Walkthrough ](https://rajputlakhveer.medium.com/how-the-internet-actually-works-a-deep-friendly-walkthrough-e4b12e16f3c7?source=rss------programming-5) (2025-10-30)
-- [Streamline Identity Checks: Docscan’s Developer-Friendly API in Action](https://medium.com/ai-simplified-in-plain-english/streamline-identity-checks-docscans-developer-friendly-api-in-action-27ac45139487?source=rss------programming-5) (2025-10-30)
-- [For the Love of Programming](https://kennethreilly.medium.com/for-the-love-of-programming-d385d4eace32?source=rss------programming-5) (2025-10-30)
-- [#7 Python Tools That Make Backend Development 10x Faster](https://medium.com/@vitorandreviel/7-python-tools-that-make-backend-development-10x-faster-f58550951707?source=rss------programming-5) (2025-10-30)
-- [AI 2030: The World After the Revolution](https://medium.com/@bushrazaheer424/ai-2030-the-world-after-the-revolution-f863c29224c9?source=rss------programming-5) (2025-10-30)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mbvddsvbn1/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-6a1ced184379?source=rss------programming-5) (2025-10-31)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mbvddsvbn1/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e05897ceb451?source=rss------programming-5) (2025-10-31)
+- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@6sksowksnsbsjwk/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ab86221825c7?source=rss------programming-5) (2025-10-31)
+- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@6sksowksnsbsjwk/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-58714098994d?source=rss------programming-5) (2025-10-31)
+- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@6sksowksnsbsjwk/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-95969bfb29be?source=rss------programming-5) (2025-10-31)
 
 </details>
 
@@ -152,22 +155,22 @@
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [Price updates for apps, In-App Purchases, and subscriptions](https://developer.apple.com/news/?id=nomqoqfm) (2025-10-30)
 - [Enhancements to help you submit and market your apps and games](https://developer.apple.com/news/?id=gf6mgrs6) (2025-10-29)
 - [New requirement for apps using Sign in with Apple for account creation](https://developer.apple.com/news/?id=j9zukcr6) (2025-10-09)
 - [Updated Apple Developer Program License Agreement now available](https://developer.apple.com/news/?id=fnkpd51y) (2025-10-08)
 - [New requirements for apps available in Texas](https://developer.apple.com/news/?id=btkirlj8) (2025-10-08)
-- [Hello Developer: October 2025](https://developer.apple.com/news/?id=glqa1owr) (2025-10-07)
 
 </details>
 
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [ML Kit’s Prompt API: Unlock Custom On-Device Gemini Nano Experiences](https://android-developers.googleblog.com/2025/10/ml-kit-genai-prompt-api-alpha-release.html) (2025-10-30)
+- [Kakao Mobility uses Gemini Nano on-device to reduce costs and boost call conversion by 45%](https://android-developers.googleblog.com/2025/10/kakao-mobility-uses-gemini-nano-on.html) (2025-10-30)
 - [redBus uses Gemini Flash via Firebase AI Logic to boost the length of customer reviews by 57%](https://android-developers.googleblog.com/2025/10/redbus-gains-57-deeper-insights-into.html) (2025-10-30)
 - [New agentic experiences for Android Studio, new AI APIs, the first Android XR device and more, in our Fall episode of The Android Show](https://android-developers.googleblog.com/2025/10/new-agentic-experiences-for-android.html) (2025-10-30)
 - [New tools and programs to accelerate your success on Google Play](https://android-developers.googleblog.com/2025/10/new-tools-and-programs-to-accelerate.html) (2025-10-30)
-- [How Calm Reimagined Mindfulness for Android XR](https://android-developers.googleblog.com/2025/10/how-calm-reimagined-mindfulness-for.html) (2025-10-30)
-- [Introducing Cahier: A new Android GitHub sample for large screen productivity and creativity](https://android-developers.googleblog.com/2025/10/introducing-cahier-new-android-github.html) (2025-10-29)
 
 </details>
 
@@ -339,28 +342,38 @@
 <details>
 <summary>💜 Heroku Blog</summary>
 
+- [Heroku Connect: Faster, More Reliable Data Sync with Salesforce CDC](https://www.heroku.com/blog/heroku-connect-data-sync-with-salesforce-cdc/) (2025-10-30)
 - [Heroku Introduces New Innovations to Expand the Capabilities of Every Salesforce Org](https://www.heroku.com/blog/new-innovations-expand-capabilities-every-salesforce-org/) (2025-10-14)
 - [Introducing the Next Generation of Heroku Postgres – Unlocking Performance, Scale, and Zero-Friction Ops](https://www.heroku.com/blog/introducing-the-next-generation-of-heroku-postgres/) (2025-10-14)
 - [Welcome to Heroku Vibes](https://www.heroku.com/blog/turn-ideas-into-apps-heroku-vibes-pilot/) (2025-10-08)
 - [Heroku AI Studio is Your Workspace for Smarter, Faster AI Apps](https://www.heroku.com/blog/heroku-ai-studio-workspace-for-smarter-faster-ai-apps/) (2025-09-17)
-- [Securing Salesforce Integrations with Heroku AppLink](https://www.heroku.com/blog/securing-salesforce-integrations-with-heroku-applink/) (2025-09-10)
 
 </details>
 
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Beyond IP lists: a registry format for bots and agents](https://blog.cloudflare.com/agent-registry/) (2025-10-30)
 - [Anonymous credentials: rate-limiting bots and agents without compromising privacy](https://blog.cloudflare.com/private-rate-limiting/) (2025-10-30)
 - [Policy, privacy and post-quantum: anonymous credentials for everyone](https://blog.cloudflare.com/pq-anonymous-credentials/) (2025-10-30)
 - [Measuring characteristics of TCP connections at Internet scale](https://blog.cloudflare.com/measuring-network-connections-at-scale/) (2025-10-29)
 - [One IP address, many users: detecting CGNAT to reduce collateral effects](https://blog.cloudflare.com/detecting-cgn-to-reduce-collateral-damage/) (2025-10-29)
-- [How to build your own VPN, or: the history of WARP](https://blog.cloudflare.com/how-to-build-your-own-vpn-or-the-history-of-warp/) (2025-10-29)
 
 </details>
 
 <details>
 <summary>📞 Twilio Blog</summary>
 
+- [
+The Future of BPO in the Age of AI and Automation: A Conversational Recap
+](
+https://www.twilio.com/en-us/blog/insights/the-future-of-bpo-in-the-age-of-ai-and-automation--a-conversatio
+) (2025-10-29)
+- [
+October 2025 Fraud Update: How ISVs can Prepare for the Holiday Season
+](
+https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update-october-2025
+) (2025-10-28)
 - [
 Making Alt Text Fast: How Twilio Scaled Docs Accessibility with Automation
 ](
@@ -372,20 +385,10 @@ Regulatory & Compliance Corner – October 2025
 https://www.twilio.com/en-us/blog/insights/2025-october-regulatory-updates
 ) (2025-10-27)
 - [
-Build a Twilio Voice + ElevenLabs Agents Integration
+What Is IVR (Interactive Voice Response) for Call Centers?
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/build-twilio-voice-elevenlabs-agents-integration
-) (2025-10-23)
-- [
-Behind the Builder: Cesar Hernandez, Manager, Personalized Support
-](
-https://www.twilio.com/en-us/blog/company/spotlights/Behind-the-Builder-Cesar-Hernandez-twilio
-) (2025-10-22)
-- [
-How to Build  a CLI Reminder Application in GO
-](
-https://www.twilio.com/en-us/blog/developers/community/build-cli-reminder-app-go
-) (2025-10-21)
+https://www.twilio.com/en-us/blog/ivr-what-it-is-and-how-it-benefits-contact-center
+) (2025-10-25)
 
 </details>
 
@@ -504,11 +507,11 @@ https://www.twilio.com/en-us/blog/developers/community/build-cli-reminder-app-go
 <details>
 <summary>💬 Slack API</summary>
 
-- [Real-Time Collaboration: What It Is, Benefits, and Best Practices](https://slack.com/blog/collaboration/real-time-collaboration) (2025-10-27)
 - [Customer Connection: How It Drives Loyalty and Business Growth](https://slack.com/blog/collaboration/customer-connection-how-it-drives-loyalty-and-business-growth) (2025-10-23)
 - [Master Effective Communication Skills With These 10 Techniques](https://slack.com/blog/collaboration/master-effective-communication-skills-with-these-10-techniques) (2025-10-23)
 - [What Is Customer Data Integration, and Why Is It Important?](https://slack.com/blog/transformation/what-is-customer-data-integration-and-why-is-it-important) (2025-10-23)
 - [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2025-10-23)
+- [What Is Multifactor Authentication (MFA): Definition and Benefits](https://slack.com/blog/productivity/what-is-multifactor-authentication-mfa-definition-and-benefits) (2025-10-22)
 
 </details>
 
