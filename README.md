@@ -20,7 +20,7 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Scenes from TechCrunch Disrupt](https://techcrunch.com/2025/10/30/scenes-from-techcrunch-disrupt/) (2025-10-31)
+- [Scenes from TechCrunch Disrupt 2025](https://techcrunch.com/2025/10/30/scenes-from-techcrunch-disrupt/) (2025-10-31)
 - [Navan IPO tumbles 20% after historic debut under SEC shutdown workaround](https://techcrunch.com/2025/10/30/navan-ipo-tumbles-20-after-historic-debut-under-sec-shutdown-workaround/) (2025-10-30)
 - [Nvidia is reportedly investing up to $1B in Poolside ](https://techcrunch.com/2025/10/30/nvidia-is-reportedly-investing-up-to-1-billion-in-poolside/) (2025-10-30)
 - [Canva launches its own design model, adds new AI features to the platform](https://techcrunch.com/2025/10/30/canva-launches-its-own-design-model-adds-new-ai-features-to-the-platform/) (2025-10-30)
@@ -31,44 +31,44 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [ANTML: Anthropic’s Markup Language](https://karashiiro.leaflet.pub/3m4gf7geefs2l) (2025-10-31)
+- [After delays, Egypt set for lavish opening of grand museum](https://phys.org/news/2025-10-delays-egypt-lavish-grand-museum.html) (2025-10-31)
+- [Reasoning Models Reason Well, Until They Don't](https://arxiv.org/abs/2510.22371) (2025-10-31)
 - [AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process](https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/) (2025-10-31)
-- [ICE and the Smartphone Panopticon](https://www.newyorker.com/culture/infinite-scroll/ice-and-the-smartphone-panopticon) (2025-10-31)
+- [John Carmack on mutable variables](https://twitter.com/id_aa_carmack/status/1983593511703474196) (2025-10-31)
 - [Roadmap for Improving the Type Checker](https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952) (2025-10-31)
-- [Show HN: Quibbler – A critic for your coding agent that learns what you want](https://github.com/fulcrumresearch/quibbler) (2025-10-31)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Sora now lets you pay extra to make more AI videos](https://www.theverge.com/news/811241/sora-pay-for-extra-video-gens) (2025-10-31)
+- [A bizarre Windows 11 bug duplicates Task Manager instead of closing it](https://www.theverge.com/news/811233/microsoft-windows-11-task-manager-duplicate-bug) (2025-10-31)
 - [Microsoft&#8217;s agent platform play](https://www.theverge.com/tech/809889/github-agent-hq-platform-play-microsoft-jared-palmer-jay-parikh) (2025-10-31)
 - [Tim Cook says more AIs are coming to Apple Intelligence](https://www.theverge.com/news/810735/tim-cook-ai-apple-intelligence-integrations) (2025-10-30)
 - [Samsung’s AirPods Pro look-alikes have fallen to their best price in months](https://www.theverge.com/tech/810613/samsung-galaxy-buds-3-pro-anc-earbuds-deal-sale) (2025-10-30)
-- [How to shop like a pro during Black Friday and Cyber Monday](https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find) (2025-10-30)
-- [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers) (2025-10-30)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [“Unexpectedly, a deer briefly entered the family room”: Living with Gemini Home](https://arstechnica.com/google/2025/10/unexpectedly-a-deer-briefly-entered-the-family-room-living-with-gemini-home/) (2025-10-31)
+- [Rocket Report: SpaceX surpasses shuttle launch total; Skyroot has big ambitions](https://arstechnica.com/space/2025/10/rocket-report-chinas-moon-rocket-to-debut-soon-arcaspace-is-back-sort-of/) (2025-10-31)
 - [Calley Means is out of the White House; Casey Means misses Senate hearing](https://arstechnica.com/health/2025/10/the-means-siblings-darlings-of-maha-both-out-of-the-trump-admin-for-now/) (2025-10-30)
 - [Man finally released a month after absurd arrest for reposting Trump meme](https://arstechnica.com/tech-policy/2025/10/man-finally-released-a-month-after-absurd-arrest-for-reposting-trump-meme/) (2025-10-30)
 - [Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking](https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/) (2025-10-30)
-- [Caught cheating in class, college students “apologized” using AI—and profs called them out](https://arstechnica.com/culture/2025/10/when-caught-cheating-in-college-dont-apologize-with-ai/) (2025-10-30)
-- [Affinity’s image-editing apps go “freemium” in first major post-Canva update](https://arstechnica.com/gadgets/2025/10/canvas-new-affinity-app-is-free-to-use-but-locks-ai-features-behind-a-subscription/) (2025-10-30)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
-- [The Download: Introducing: the new conspiracy age](https://www.technologyreview.com/2025/10/30/1127327/the-download-introducing-the-new-conspiracy-age/) (2025-10-30)
+- [The Download: down the Mandela effect rabbit hole, and the promise of a vaccine for colds](https://www.technologyreview.com/2025/10/31/1127444/the-download-down-the-mandela-effect-rabbit-hole-and-the-promise-of-a-vaccine-for-colds/) (2025-10-31)
+- [Here’s why we don’t have a cold vaccine. Yet.](https://www.technologyreview.com/2025/10/31/1127408/heres-why-we-dont-have-a-cold-vaccine-yet/) (2025-10-31)
+- [The Download: Introducing the new conspiracy age](https://www.technologyreview.com/2025/10/30/1127327/the-download-introducing-the-new-conspiracy-age/) (2025-10-30)
 - [Leveraging the clinician’s expertise with agentic AI](https://www.technologyreview.com/2025/10/30/1125697/leveraging-the-clinicians-expertise-with-agentic-ai/) (2025-10-30)
 - [Four thoughts from Bill Gates on climate tech](https://www.technologyreview.com/2025/10/30/1127056/four-thoughts-from-bill-gates-on-climate-tech/) (2025-10-30)
-- [It’s never been easier to be a conspiracy theorist](https://www.technologyreview.com/2025/10/30/1126457/its-never-been-easier-to-be-a-conspiracy-theorist/) (2025-10-30)
-- [Can “The Simpsons” really predict the future?](https://www.technologyreview.com/2025/10/30/1126462/the-simpsons-conspiracy-theories-al-jean/) (2025-10-30)
 
 </details>
 
@@ -97,22 +97,24 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building My Invoice App – Added File Attachments Today](https://dev.to/sudarshan_s_hosalli/building-my-invoice-app-added-file-attachments-today-1313) (2025-10-31)
-- [The 90-Minute Sprint Model: How Deep Work Cycles Transform Developer Output](https://dev.to/teamcamp/the-90-minute-sprint-model-how-deep-work-cycles-transform-developer-output-43f1) (2025-10-31)
-- [Google Rolls Out Merchant Center for Agencies](https://dev.to/me_bhavesh/google-rolls-out-merchant-center-for-agencies-80h) (2025-10-31)
-- [My ML Learning Journey: From Confusion to Building a Working Model](https://dev.to/cessamaeeee/my-ml-learning-journey-from-confusion-to-building-a-working-model-235p) (2025-10-31)
-- [5 Ways to Use AI Art for Standout Online Presence](https://dev.to/anachur/5-ways-to-use-ai-art-for-standout-online-presence-4dbd) (2025-10-31)
+- [Worker Pools in Go: The Minimal Pattern I Use for High-Efficiency Concurrency](https://dev.to/evgeny_pantela/worker-pools-in-go-the-minimal-pattern-i-use-for-high-efficiency-concurrency-ein) (2025-10-31)
+- [A Dashboard About Scammers, Telemarketers, My Cellphone, and Who Annoys Me Most](https://dev.to/caldas/a-dashboard-about-scammers-telemarketers-my-cellphone-and-who-annoys-me-most-2dml) (2025-10-31)
+- [Understanding E Supply Chain Components: A Complete Guide for Modern Businesses](https://dev.to/pujagothi/understanding-e-supply-chain-components-a-complete-guide-for-modern-businesses-35gd) (2025-10-31)
+- [ServiceNow Roles and Responsibilities: Complete Guide for 2025](https://dev.to/morrismoses149/servicenow-roles-and-responsibilities-complete-guide-for-2025-4ioa) (2025-10-31)
+- [Rick Shiels Golf: Our Best Golf Challenge EVER](https://dev.to/youtube_golf/rick-shiels-golf-our-best-golf-challenge-ever-277e) (2025-10-31)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ 8 Advanced Frontend Patterns You’re Probably Missing (And Should Know Now)](https://medium.com/codetodeploy/8-advanced-frontend-patterns-youre-probably-missing-and-should-know-now-8ba1cb78f2d6?source=rss------programming-5) (2025-10-31)
-- [ Advanced Node.js Tips Every Developer Should Know](https://medium.com/@Samira8872/advanced-node-js-tips-every-developer-should-know-ec63fdc89b2f?source=rss------programming-5) (2025-10-31)
-- [Bun vs Deno vs Node: I Migrated Our API Three Times. Here’s the Real Performance Data.](https://medium.com/@sohail_saifii/bun-vs-deno-vs-node-i-migrated-our-api-three-times-heres-the-real-performance-data-a4499bb07b8d?source=rss------programming-5) (2025-10-31)
-- [☕ Java 2025: Exploring Advanced Features and Modern Capabilities of the World’s Most Reliable…](https://medium.com/@beenakumawat003/java-2025-exploring-advanced-features-and-modern-capabilities-of-the-worlds-most-reliable-c9791eb0b64b?source=rss------programming-5) (2025-10-31)
-- [⚡ Modern JavaScript 2025: Exploring the Power of ES2025 and Beyond](https://medium.com/@avantika0/modern-javascript-2025-exploring-the-power-of-es2025-and-beyond-bbfbbffb2b64?source=rss------programming-5) (2025-10-31)
+- [Genville 50](https://medium.com/@genville/genville-50-8da0cc0056dc?source=rss------programming-5) (2025-10-31)
+- [09367743135شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@4ugugfufififohioffiif/09367743135%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ac9a180c6b89?source=rss------programming-5) (2025-10-31)
+- [Stop Doing Video Transcoding Wrong](https://medium.com/@medipansh/stop-doing-video-transcoding-wrong-6732fde3e450?source=rss------programming-5) (2025-10-31)
+- [09367743135شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@4ugugfufififohioffiif/09367743135%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-20a4c95b81ba?source=rss------programming-5) (2025-10-31)
+- [The Past And The Future Of Technology And Artificial Intelligence](https://medium.com/@oyewoleseye009/the-past-and-the-future-of-technology-and-artificial-intelligence-6aaa21647e1f?source=rss------programming-5) (2025-10-31)
 
 </details>
 
@@ -207,11 +209,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Mr. Bones: A Pirate-Voiced Halloween Chatbot Powered by Docker Model Runner](https://www.docker.com/blog/talking-skeleton-docker-llm/) (2025-10-31)
 - [theCUBE Research economic validation of Docker’s development platform](https://www.docker.com/blog/thecube-research-economic-validation-of-docker-development-platform/) (2025-10-30)
 - [How to add MCP Servers to Claude Desktop with Docker MCP Toolkit](https://www.docker.com/blog/connect-mcp-servers-to-claude-desktop-with-mcp-toolkit/) (2025-10-27)
 - [Docker Hub Incident Report – October 20, 2025](https://www.docker.com/blog/docker-hub-incident-report-october-20-2025/) (2025-10-24)
 - [Your Org, Your Tools: Building a Custom MCP Catalog](https://www.docker.com/blog/build-custom-mcp-catalog/) (2025-10-24)
-- [Why More People Are Taking Control of Their Digital Lives with Self-Hosted Alternatives](https://www.docker.com/blog/self-hosted-alternatives-control-your-data/) (2025-10-24)
 
 </details>
 
@@ -504,11 +506,11 @@ https://www.twilio.com/en-us/blog/ivr-what-it-is-and-how-it-benefits-contact-cen
 <details>
 <summary>💬 Slack API</summary>
 
-- [Real-Time Collaboration: What It Is, Benefits, and Best Practices](https://slack.com/blog/collaboration/real-time-collaboration) (2025-10-27)
 - [Customer Connection: How It Drives Loyalty and Business Growth](https://slack.com/blog/collaboration/customer-connection-how-it-drives-loyalty-and-business-growth) (2025-10-23)
 - [Master Effective Communication Skills With These 10 Techniques](https://slack.com/blog/collaboration/master-effective-communication-skills-with-these-10-techniques) (2025-10-23)
 - [What Is Customer Data Integration, and Why Is It Important?](https://slack.com/blog/transformation/what-is-customer-data-integration-and-why-is-it-important) (2025-10-23)
 - [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2025-10-23)
+- [What Is Multifactor Authentication (MFA): Definition and Benefits](https://slack.com/blog/productivity/what-is-multifactor-authentication-mfa-definition-and-benefits) (2025-10-22)
 
 </details>
 
@@ -562,19 +564,19 @@ https://www.twilio.com/en-us/blog/ivr-what-it-is-and-how-it-benefits-contact-cen
 - [Bending Spoons’ acquisition of AOL shows the value of legacy platforms](https://www.artificialintelligence-news.com/news/bending-spoons-acquisition-of-aol-shows-the-value-of-legacy-platforms/) (2025-10-30)
 - [Thailand becomes one of the first in Asia to get the Sora app](https://www.artificialintelligence-news.com/news/thailand-becomes-one-of-the-first-in-asia-to-get-the-sora-app/) (2025-10-30)
 - [Inside Samsung’s semiconductor recovery: How AI demand reversed four quarters of decline](https://www.artificialintelligence-news.com/news/samsung-semiconductor-recovery-q3-2025/) (2025-10-30)
+- [Reco wants to eliminate the blind spot of shadow AI](https://www.artificialintelligence-news.com/news/reco-wants-to-eliminate-the-blind-spot-of-shadow-ai/) (2025-10-30)
 - [Cursor 2.0 pivots to multi-agent AI coding, debuts Composer model](https://www.artificialintelligence-news.com/news/cursor-2-pivots-multi-agent-ai-coding-debuts-composer-model/) (2025-10-29)
-- [Migrating AI from Nvidia to Huawei: Opportunities and trade-offs](https://www.artificialintelligence-news.com/news/migrating-ai-from-nvidia-to-huawei-opportunities-and-trade-offs/) (2025-10-29)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [RF-DETR Under the Hood: The Insights of a Real-Time Transformer Detection](https://towardsdatascience.com/rf-detr-under-the-hood-the-insights-of-a-real-time-transformer-detection/) (2025-10-31)
 - [Building a Rules Engine from First Principles](https://towardsdatascience.com/building-a-rules-engine-from-first-principles/) (2025-10-30)
 - [Build LLM Agents Faster with Datapizza AI](https://towardsdatascience.com/datapizza-the-ai-framework-made-in-italy/) (2025-10-30)
 - [“Systems thinking helps me put the big picture front and center”](https://towardsdatascience.com/systems-thinking-helps-me-put-the-big-picture-front-and-center/) (2025-10-30)
 - [4 Techniques to Optimize Your LLM Prompts for Cost, Latency and Performance](https://towardsdatascience.com/4-techniques-to-optimize-your-llm-prompts-for-cost-latency-and-performance/) (2025-10-29)
-- [Bringing Vision-Language Intelligence to RAG with ColPali](https://towardsdatascience.com/bringing-vision-language-intelligence-to-rag-with-colpali/) (2025-10-29)
 
 </details>
 
