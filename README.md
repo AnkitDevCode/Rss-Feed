@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Intent to Deprecate and Remove XSLT](https://groups.google.com/a/chromium.org/g/blink-dev/c/CxL4gYZeSJA/m/yNs4EsD5AQAJ) (2025-11-01)
-- [Precise and scalable analogue matrix equation solving using resistive RAM chips](https://www.livescience.com/technology/computing/china-solves-century-old-problem-with-new-analog-chip-that-is-1-000-times-faster-than-high-end-nvidia-gpus) (2025-11-01)
 - [The profitable startup](https://linear.app/now/the-profitable-startup) (2025-11-01)
-- [Fungus: The Befunge CPU (2015)](https://www.bedroomlan.org/hardware/fungus/) (2025-11-01)
 - [Show HN: Strange Attractors](https://blog.shashanktomar.com/posts/strange-attractors) (2025-10-31)
+- [Photographing the rare brown hyena stalking a diamond mining ghost town](https://www.bbc.com/future/article/20251014-the-rare-hyena-stalking-a-diamond-mining-ghost-town) (2025-10-31)
+- [S.A.R.C.A.S.M: Slightly Annoying Rubik's Cube Automatic Solving Machine](https://github.com/vindar/SARCASM) (2025-10-31)
+- [A theoretical way to circumvent Android developer verification](https://enaix.github.io/2025/10/30/developer-verification.html) (2025-10-31)
 
 </details>
 
@@ -97,22 +97,26 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Tetrix vs Claude](https://dev.to/akkii2022/tetrix-vs-claude-4923) (2025-11-01)
-- [No Laying Up Podcast: How an Apparrel Business Gets Built | Trap Draw, Ep 366](https://dev.to/youtube_golf/no-laying-up-podcast-how-an-apparrel-business-gets-built-trap-draw-ep-366-i99) (2025-11-01)
-- [How I Ended Up Choosing Cloudflare Workers for My Projects](https://dev.to/ukasyah-dev/how-i-ended-up-choosing-cloudflare-workers-for-my-projects-45a) (2025-11-01)
-- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-1mic) (2025-11-01)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1fdo) (2025-11-01)
+- [Check out the guide on - Mastering Principal Component Analysis (PCA) in R: A Complete Guide from Basics to Business Insights](https://dev.to/thedatageek/check-out-the-guide-on-mastering-principal-component-analysis-pca-in-r-a-complete-guide-from-1kjg) (2025-11-01)
+- [Reactive Tree Management in Nuxt 4: How I Modeled Complex Hierarchies with Pinia](https://dev.to/smaug6739/reactive-tree-management-in-nuxt-4-how-i-modeled-complex-hierarchies-with-pinia-2m8f) (2025-11-01)
+- [🧠 Inside an AI’s Brain: What Data Scientists Can Learn from Neuroscience](https://dev.to/sanskruti_sugandhi/inside-an-ais-brain-what-data-scientists-can-learn-from-neuroscience-2467) (2025-11-01)
+- [Web Developer Travis McCracken on Async Queues in Rust vs Python](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-async-queues-in-rust-vs-python-2oca) (2025-11-01)
+- [Learning Elixir: Ranges](https://dev.to/abreujp/learning-elixir-ranges-1iia) (2025-11-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Unlocking Free $100 Xbox Gift Card Codes in 2025 — Legit Strategies That Work](https://medium.com/@tipuyousufjahan/unlocking-free-100-xbox-gift-card-codes-in-2025-legit-strategies-that-work-17ca12ecc3d4?source=rss------programming-5) (2025-11-01)
-- [How Pair Programming Changed the Way I Think About Problem-Solving](https://blog.stackademic.com/how-pair-programming-changed-the-way-i-think-about-problem-solving-6c607378ecee?source=rss------programming-5) (2025-11-01)
-- [ PHP 8.5 Just Changed the Game — Here’s Why Everyone’s Talking About It](https://medium.com/@devrabiul/php-8-5-just-changed-the-game-heres-why-everyone-s-talking-about-it-1ceaf3ff0ce9?source=rss------programming-5) (2025-11-01)
-- [Death](https://medium.com/@marloweianuzi/death-6faa8fcabaaf?source=rss------programming-5) (2025-11-01)
-- [Cursor 2.0: A Game-Changing Update I Absolutely Love!](https://fhaladin-dev.medium.com/cursor-2-0-a-game-changing-update-i-absolutely-love-acddbaea4f7f?source=rss------programming-5) (2025-11-01)
+- [09025042560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@fufufuuffuufyrrytuufuf/09025042560-405fcfac2a7d?source=rss------programming-5) (2025-11-01)
+- [09025042560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@fufufuuffuufyrrytuufuf/09025042560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-04eaf0acb119?source=rss------programming-5) (2025-11-01)
+- [Meet uv: The All-in-One Python Package and Environment Manager](https://python.plainenglish.io/meet-uv-the-all-in-one-python-package-and-environment-manager-59fa48054b42?source=rss------programming-5) (2025-11-01)
+- [09025042560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@fufufuuffuufyrrytuufuf/09025042560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-39275d1e6619?source=rss------programming-5) (2025-11-01)
+- [09025042560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@vufyfycycyxyyfxy/09025042560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-4215e75f7f25?source=rss------programming-5) (2025-11-01)
 
 </details>
 
@@ -130,11 +134,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [GitHub Universe 2025: Where developer innovation took center stage](https://azure.microsoft.com/en-us/blog/github-universe-2025-where-developer-innovation-took-center-stage/) (2025-10-30)
-- [Building the future together: Microsoft and NVIDIA announce AI advancements at GTC DC](https://azure.microsoft.com/en-us/blog/building-the-future-together-microsoft-and-nvidia-announce-ai-advancements-at-gtc-dc/) (2025-10-28)
-- [Introducing Agent HQ: Any agent, any way you work](https://github.blog/news-insights/company-news/welcome-home-agents/?utm_source=MSFT-day1-blog&utm_medium=social&utm_campaign=universe25) (2025-10-28)
 - [Fully managed cloud-to-cloud transfers with Azure Storage Mover](https://azure.microsoft.com/en-us/blog/fully-managed-cloud-to-cloud-transfers-with-azure-storage-mover/) (2025-10-23)
 - [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2025-10-22)
+- [The Signals Loop: Fine-tuning for world-class AI apps and agents ](https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/) (2025-10-21)
+- [Innovation spotlight: How 3 customers are driving change with migration to Azure SQL](https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/) (2025-10-20)
+- [From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available](https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/) (2025-10-16)
 
 </details>
 
@@ -372,6 +376,11 @@ Building Trust in the Age of AI: Why Identity Is the Foundation of Customer Enga
 https://www.twilio.com/en-us/blog/company/news/twilio-to-acquire-stytch
 ) (2025-10-30)
 - [
+Cyber Week 2025 preparation: Key insights and best practices for retail success
+](
+https://www.twilio.com/en-us/blog/insights/best-practices/cyber-week-preparation-retail-business
+) (2025-10-30)
+- [
 The Future of BPO in the Age of AI and Automation: A Conversational Recap
 ](
 https://www.twilio.com/en-us/blog/insights/the-future-of-bpo-in-the-age-of-ai-and-automation--a-conversatio
@@ -381,11 +390,6 @@ October 2025 Fraud Update: How ISVs can Prepare for the Holiday Season
 ](
 https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update-october-2025
 ) (2025-10-28)
-- [
-Making Alt Text Fast: How Twilio Scaled Docs Accessibility with Automation
-](
-https://www.twilio.com/en-us/blog/developers/docs-accessibility-automation-llm-prompts
-) (2025-10-27)
 
 </details>
 
