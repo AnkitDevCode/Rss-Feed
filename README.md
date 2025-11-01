@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [What is Bending Spoons? Everything to know about AOL’s acquirer](https://techcrunch.com/2025/10/31/what-is-bending-spoons-everything-to-know-about-aols-acquirer/) (2025-11-01)
+- [Bluesky hits 40 million users, introduces ‘dislikes’ beta](https://techcrunch.com/2025/10/31/bluesky-hits-40-million-users-introduces-dislikes-beta/) (2025-10-31)
+- [Meta bought 1 GW of solar this week](https://techcrunch.com/2025/10/31/meta-bought-1-gw-of-solar-this-week/) (2025-10-31)
+- [AI mania tanks CoreWeave’s Core Scientific acquisition — it buys Python notebook Marimo](https://techcrunch.com/2025/10/31/ai-mania-tanks-coreweaves-core-scientific-acquisition-it-buys-python-notebook-marimo/) (2025-10-31)
 - [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/10/31/chatgpt-everything-to-know-about-the-ai-chatbot/) (2025-10-31)
-- [Tattd gave four TechCrunch writers tattoos at Startup Battlefield](https://techcrunch.com/2025/10/31/tattd-gave-four-techcrunch-writers-tattoos-at-startup-battlefield/) (2025-10-31)
-- [Hackers threaten to leak data after breaching University of Pennsylvania to send mass emails](https://techcrunch.com/2025/10/31/hackers-threaten-to-leak-data-after-breaching-university-of-pennsylvania-to-send-mass-emails/) (2025-10-31)
-- [AWS exceeds Wall Street’s expectations as demand for cloud infra remains high](https://techcrunch.com/2025/10/31/aws-exceeds-wall-streets-expectations-as-demand-for-cloud-infra-remains-high/) (2025-10-31)
-- [Government hackers breached telecom giant Ribbon for months before getting caught](https://techcrunch.com/2025/10/31/government-hackers-breached-telecom-giant-ribbon-for-months-before-getting-caught/) (2025-10-31)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [x86 architecture 1 byte opcodes](https://www.sandpile.org/x86/opc_1.htm) (2025-10-31)
-- [Addiction Markets: Abolish Corporate-Run Gambling](https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate) (2025-10-31)
-- [Fire TV: Amazon to block piracy apps in the future](https://www.heise.de/en/news/Fire-TV-Amazon-to-block-piracy-apps-in-the-future-10964878.html) (2025-10-31)
-- [Pangolin (YC S25) Is Hiring a Full Stack Software Engineer (Open-Source)](https://docs.pangolin.net/careers/software-engineer-full-stack) (2025-10-31)
-- [Just Use a Button](https://gomakethings.com/just-use-a-button/) (2025-10-31)
+- [Show HN: Strange Attractors](https://blog.shashanktomar.com/posts/strange-attractors) (2025-10-31)
+- [S.a.r.c.a.s.m: Slightly Annoying Rubik's Cube Automatic Solving Machine](https://github.com/vindar/SARCASM) (2025-10-31)
+- [Tim Bray on Grokipedia](https://www.tbray.org/ongoing/When/202x/2025/10/28/Grokipedia) (2025-10-31)
+- [A theoretical way to circumvent Android developer verification](https://enaix.github.io/2025/10/30/developer-verification.html) (2025-10-31)
+- [How to build silos and decrease collaboration on purpose](https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/) (2025-10-31)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Bose headphones and earbuds return to all-time lows for Black Friday](https://www.theverge.com/tech/811598/bose-headphones-earbuds-xbox-wireless-controller-deal-sale) (2025-10-31)
-- [Hackers threaten to leak ‘woke’ University of Pennsylvania student data](https://www.theverge.com/news/811600/university-of-pennsylvania-hack-woke) (2025-10-31)
-- [Adobe’s experimental AI tool can edit entire videos using one frame](https://www.theverge.com/news/811602/adobe-max-2025-sneaks-projects) (2025-10-31)
-- [Woot is offering solid discounts on some of the best Nintendo Switch 2 games](https://www.theverge.com/tech/811251/best-nintendo-switch-2-game-mario-zelda-deal-sale) (2025-10-31)
-- [Netflix is reportedly looking into a bid for Warner Bros. Discovery](https://www.theverge.com/news/811462/netflix-warner-bros-discovery-bid-rumor) (2025-10-31)
+- [GTA VI developer accused of union busting in mass firings](https://www.theverge.com/news/811999/gta-vi-rockstar-games-union-busting) (2025-10-31)
+- [Here are the shipping and return policies for all the big-name retailers](https://www.theverge.com/21570161/holiday-shipping-return-policy-apple-google-microsoft-amazon) (2025-10-31)
+- [Microsoft releases an Xbox Full Screen Experience preview for the MSI Claw](https://www.theverge.com/news/811826/microsoft-xbox-full-screen-experience-fse-msi-claw-windows-11-insider) (2025-10-31)
+- [Windows 11 tests Bluetooth audio sharing that connects two headsets at once](https://www.theverge.com/news/811795/microsoft-windows-11-bluetooth-le-shared-audio-headsets) (2025-10-31)
+- [Dolby Atmos arrives in the new, affordable China-exclusive Hyundai Elexio](https://www.theverge.com/tech/811718/dolby-atmos-arrives-in-the-new-affordable-china-exclusive-hyundai-elexio) (2025-10-31)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [2026 Hyundai Ioniq 9: American car-buyer tastes meet Korean EV tech](https://arstechnica.com/cars/2025/10/a-week-with-the-hyundai-ioniq-9-suv-what-we-liked-what-we-didnt/) (2025-10-31)
-- [Elon Musk on data centers in orbit: “SpaceX will be doing this”](https://arstechnica.com/space/2025/10/elon-musk-on-data-centers-in-orbit-spacex-will-be-doing-this/) (2025-10-31)
-- [Closing Windows 11’s Task Manager accidentally opens up more copies of Task Manager](https://arstechnica.com/gadgets/2025/10/windows-11-task-manager-bug-makes-the-apps-close-button-do-the-exact-opposite/) (2025-10-31)
-- [Trump’s swift demolition of East Wing may have launched asbestos plumes](https://arstechnica.com/health/2025/10/trumps-swift-demolition-of-east-wing-may-have-launched-asbestos-plumes/) (2025-10-31)
-- [Wear marks suggest Neanderthals made ocher crayons](https://arstechnica.com/science/2025/10/crimean-neanderthals-made-stone-age-crayons-from-ocher-50000-years-ago/) (2025-10-31)
+- [YouTube denies AI was involved with odd removals of tech tutorials](https://arstechnica.com/tech-policy/2025/10/youtube-denies-ai-was-involved-with-odd-removals-of-tech-tutorials/) (2025-11-01)
+- [Neural network finds an enzyme that can break down polyurethane](https://arstechnica.com/science/2025/10/polyurethane-is-the-latest-polymer-broken-down-by-designer-enzymes/) (2025-10-31)
+- [Cursor introduces its coding model alongside multi-agent interface](https://arstechnica.com/ai/2025/10/cursor-introduces-its-coding-model-alongside-multi-agent-interface/) (2025-10-31)
+- [Two Windows vulnerabilities, one a 0-day, are under active exploitation](https://arstechnica.com/security/2025/10/two-windows-vulnerabilities-one-a-0-day-are-under-active-exploitation/) (2025-10-31)
+- [FCC to rescind ruling that said ISPs are required to secure their networks](https://arstechnica.com/tech-policy/2025/10/fcc-dumps-plan-for-telecom-security-rules-that-internet-providers-dont-like/) (2025-10-31)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Here’s the latest company planning for gene-edited babies](https://www.technologyreview.com/2025/10/31/1127461/heres-the-latest-company-planning-for-gene-edited-babies/) (2025-10-31)
 - [The Download: down the Mandela effect rabbit hole, and the promise of a vaccine for colds](https://www.technologyreview.com/2025/10/31/1127444/the-download-down-the-mandela-effect-rabbit-hole-and-the-promise-of-a-vaccine-for-colds/) (2025-10-31)
 - [Here’s why we don’t have a cold vaccine. Yet.](https://www.technologyreview.com/2025/10/31/1127408/heres-why-we-dont-have-a-cold-vaccine-yet/) (2025-10-31)
 - [The Download: Introducing the new conspiracy age](https://www.technologyreview.com/2025/10/30/1127327/the-download-introducing-the-new-conspiracy-age/) (2025-10-30)
 - [Leveraging the clinician’s expertise with agentic AI](https://www.technologyreview.com/2025/10/30/1125697/leveraging-the-clinicians-expertise-with-agentic-ai/) (2025-10-30)
-- [Four thoughts from Bill Gates on climate tech](https://www.technologyreview.com/2025/10/30/1127056/four-thoughts-from-bill-gates-on-climate-tech/) (2025-10-30)
 
 </details>
 
@@ -97,22 +97,24 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why I Built Another Feedback Tool](https://dev.to/notedisapp/why-i-built-another-feedback-tool-28e2) (2025-10-31)
-- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-48l0) (2025-10-31)
-- [Bryan Bros Golf: Can We Make Cut in Return to Pro Golf? (International Series)](https://dev.to/youtube_golf/bryan-bros-golf-can-we-make-cut-in-return-to-pro-golf-international-series-547e) (2025-10-31)
-- [Building Privacy-Safe Attribution Pipelines: A Marketer’s Engineering Approach](https://dev.to/saka_satish_661/building-privacy-safe-attribution-pipelines-a-marketers-engineering-approach-578l) (2025-10-31)
-- [Why DFS Topological Sort Writes Nodes on Backtracking](https://dev.to/haris_abdullah_b8fc481573/why-dfs-topological-sort-writes-nodes-on-backtracking-2p34) (2025-10-31)
+- ["Unlocking the Musical Secrets of Ancient Civilizations: The](https://dev.to/drcarlosruizviquez/unlocking-the-musical-secrets-of-ancient-civilizations-the-58n2) (2025-11-01)
+- [MCP Security](https://dev.to/barak_codes/mcp-security-45o8) (2025-11-01)
+- [📰 Major Tech News: Oct 31, 2025 : Big Tech's AI Spending Surge, Nvidia's Chip Partnerships, and OpenAI's Security Innovation](https://dev.to/om_shree_0709/major-tech-news-oct-31-2025-big-techs-ai-spending-surge-nvidias-chip-partnerships-and-3884) (2025-11-01)
+- [🎓 "Amodal Completion" in Computer Vision: Unveiling the Powe](https://dev.to/drcarlosruizviquez/amodal-completion-in-computer-vision-unveiling-the-powe-3bpp) (2025-11-01)
+- [MCP Security: Navigating the Exploit Playbook for Agent](https://dev.to/om_shree_0709/mcp-security-navigating-the-exploit-playbook-for-agent-56m7) (2025-11-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09035285784شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@3gugigugucuyc/09035285784%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-1ba5b3cab42e?source=rss------programming-5) (2025-10-31)
-- [09035285784شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@3gugigugucuyc/09035285784%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-de69a712a56d?source=rss------programming-5) (2025-10-31)
-- [09035285784شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@3gugigugucuyc/09035285784%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-503de42edb51?source=rss------programming-5) (2025-10-31)
-- [ GitHub 2025: The Complete Advanced Guide for Developers](https://medium.com/@alisha00/github-2025-the-complete-advanced-guide-for-developers-359d36aca717?source=rss------programming-5) (2025-10-31)
-- [ How To Track Entity Changes With EF Core |  Audit Logging (JSON Before/After)](https://medium.com/@mariammaurice/how-to-track-entity-changes-with-ef-core-audit-logging-json-before-after-50d279e9db80?source=rss------programming-5) (2025-10-31)
+- [09035285784شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@7skeiwkkaksjsj/09035285784%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-18a4b3c4bc41?source=rss------programming-5) (2025-11-01)
+- [How I got into the tech industry](https://medium.com/@reinaldo_35559/how-i-got-into-the-tech-industry-4200496c37e8?source=rss------programming-5) (2025-11-01)
+- [Breaking Down E.F. Codd’s 1970 Paper That Changed Databases Forever](https://medium.com/@sunil.makkar97/breaking-down-e-f-codds-1970-paper-that-changed-databases-forever-7747cfb93a15?source=rss------programming-5) (2025-11-01)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jdyd52713/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-eda4cbe99b68?source=rss------programming-5) (2025-11-01)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jdyd52713/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-269c4b9c34db?source=rss------programming-5) (2025-11-01)
 
 </details>
 
@@ -328,11 +330,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [Claude Sonnet 3.7 deprecation notice for GitLab Duo](https://about.gitlab.com/blog/claude-sonnet-3-7-deprecation-notice-for-gitlab-duo/) (2025-10-31)
 - [What is a YAML file? A complete guide from basics to practical use](https://about.gitlab.com/blog/what-is-yaml/) (2025-10-31)
 - [Ace your planning without the context-switching](https://about.gitlab.com/blog/ace-your-planning-without-the-context-switching/) (2025-10-28)
 - [Modernize Java applications quickly with GitLab Duo with Amazon Q](https://about.gitlab.com/blog/modernize-java-applications-quickly-with-gitlab-duo-with-amazon-q/) (2025-10-22)
 - [Delivering faster and smarter scans with Advanced SAST](https://about.gitlab.com/blog/delivering-faster-and-smarter-scans-with-advanced-sast/) (2025-10-21)
-- [GitLab 18.5: Intelligence that moves software development forward](https://about.gitlab.com/blog/gitlab-18-5-intelligence-that-moves-software-development-forward/) (2025-10-21)
 
 </details>
 
