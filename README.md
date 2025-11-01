@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Intent to Deprecate and Remove XSLT](https://groups.google.com/a/chromium.org/g/blink-dev/c/CxL4gYZeSJA/m/yNs4EsD5AQAJ) (2025-11-01)
+- [Precise and scalable analogue matrix equation solving using resistive RAM chips](https://www.livescience.com/technology/computing/china-solves-century-old-problem-with-new-analog-chip-that-is-1-000-times-faster-than-high-end-nvidia-gpus) (2025-11-01)
+- [The profitable startup](https://linear.app/now/the-profitable-startup) (2025-11-01)
+- [Fungus: The Befunge CPU (2015)](https://www.bedroomlan.org/hardware/fungus/) (2025-11-01)
 - [Show HN: Strange Attractors](https://blog.shashanktomar.com/posts/strange-attractors) (2025-10-31)
-- [S.a.r.c.a.s.m: Slightly Annoying Rubik's Cube Automatic Solving Machine](https://github.com/vindar/SARCASM) (2025-10-31)
-- [Tim Bray on Grokipedia](https://www.tbray.org/ongoing/When/202x/2025/10/28/Grokipedia) (2025-10-31)
-- [A theoretical way to circumvent Android developer verification](https://enaix.github.io/2025/10/30/developer-verification.html) (2025-10-31)
-- [How to build silos and decrease collaboration on purpose](https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/) (2025-10-31)
 
 </details>
 
@@ -97,24 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- ["Unlocking the Musical Secrets of Ancient Civilizations: The](https://dev.to/drcarlosruizviquez/unlocking-the-musical-secrets-of-ancient-civilizations-the-58n2) (2025-11-01)
-- [MCP Security](https://dev.to/barak_codes/mcp-security-45o8) (2025-11-01)
-- [📰 Major Tech News: Oct 31, 2025 : Big Tech's AI Spending Surge, Nvidia's Chip Partnerships, and OpenAI's Security Innovation](https://dev.to/om_shree_0709/major-tech-news-oct-31-2025-big-techs-ai-spending-surge-nvidias-chip-partnerships-and-3884) (2025-11-01)
-- [🎓 "Amodal Completion" in Computer Vision: Unveiling the Powe](https://dev.to/drcarlosruizviquez/amodal-completion-in-computer-vision-unveiling-the-powe-3bpp) (2025-11-01)
-- [MCP Security: Navigating the Exploit Playbook for Agent](https://dev.to/om_shree_0709/mcp-security-navigating-the-exploit-playbook-for-agent-56m7) (2025-11-01)
+- [Tetrix vs Claude](https://dev.to/akkii2022/tetrix-vs-claude-4923) (2025-11-01)
+- [No Laying Up Podcast: How an Apparrel Business Gets Built | Trap Draw, Ep 366](https://dev.to/youtube_golf/no-laying-up-podcast-how-an-apparrel-business-gets-built-trap-draw-ep-366-i99) (2025-11-01)
+- [How I Ended Up Choosing Cloudflare Workers for My Projects](https://dev.to/ukasyah-dev/how-i-ended-up-choosing-cloudflare-workers-for-my-projects-45a) (2025-11-01)
+- [Jeff Su: The Productivity System I Taught to 6,642 Googlers](https://dev.to/future_ai/jeff-su-the-productivity-system-i-taught-to-6642-googlers-1mic) (2025-11-01)
+- [CinemaSins: Everything Wrong With Frankenweenie In 14 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-frankenweenie-in-14-minutes-or-less-1fdo) (2025-11-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09035285784شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@7skeiwkkaksjsj/09035285784%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-18a4b3c4bc41?source=rss------programming-5) (2025-11-01)
-- [How I got into the tech industry](https://medium.com/@reinaldo_35559/how-i-got-into-the-tech-industry-4200496c37e8?source=rss------programming-5) (2025-11-01)
-- [Breaking Down E.F. Codd’s 1970 Paper That Changed Databases Forever](https://medium.com/@sunil.makkar97/breaking-down-e-f-codds-1970-paper-that-changed-databases-forever-7747cfb93a15?source=rss------programming-5) (2025-11-01)
-- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jdyd52713/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-eda4cbe99b68?source=rss------programming-5) (2025-11-01)
-- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jdyd52713/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-269c4b9c34db?source=rss------programming-5) (2025-11-01)
+- [Unlocking Free $100 Xbox Gift Card Codes in 2025 — Legit Strategies That Work](https://medium.com/@tipuyousufjahan/unlocking-free-100-xbox-gift-card-codes-in-2025-legit-strategies-that-work-17ca12ecc3d4?source=rss------programming-5) (2025-11-01)
+- [How Pair Programming Changed the Way I Think About Problem-Solving](https://blog.stackademic.com/how-pair-programming-changed-the-way-i-think-about-problem-solving-6c607378ecee?source=rss------programming-5) (2025-11-01)
+- [ PHP 8.5 Just Changed the Game — Here’s Why Everyone’s Talking About It](https://medium.com/@devrabiul/php-8-5-just-changed-the-game-heres-why-everyone-s-talking-about-it-1ceaf3ff0ce9?source=rss------programming-5) (2025-11-01)
+- [Death](https://medium.com/@marloweianuzi/death-6faa8fcabaaf?source=rss------programming-5) (2025-11-01)
+- [Cursor 2.0: A Game-Changing Update I Absolutely Love!](https://fhaladin-dev.medium.com/cursor-2-0-a-game-changing-update-i-absolutely-love-acddbaea4f7f?source=rss------programming-5) (2025-11-01)
 
 </details>
 
@@ -132,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [GitHub Universe 2025: Where developer innovation took center stage](https://azure.microsoft.com/en-us/blog/github-universe-2025-where-developer-innovation-took-center-stage/) (2025-10-30)
+- [Building the future together: Microsoft and NVIDIA announce AI advancements at GTC DC](https://azure.microsoft.com/en-us/blog/building-the-future-together-microsoft-and-nvidia-announce-ai-advancements-at-gtc-dc/) (2025-10-28)
+- [Introducing Agent HQ: Any agent, any way you work](https://github.blog/news-insights/company-news/welcome-home-agents/?utm_source=MSFT-day1-blog&utm_medium=social&utm_campaign=universe25) (2025-10-28)
 - [Fully managed cloud-to-cloud transfers with Azure Storage Mover](https://azure.microsoft.com/en-us/blog/fully-managed-cloud-to-cloud-transfers-with-azure-storage-mover/) (2025-10-23)
 - [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2025-10-22)
-- [The Signals Loop: Fine-tuning for world-class AI apps and agents ](https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/) (2025-10-21)
-- [Innovation spotlight: How 3 customers are driving change with migration to Azure SQL](https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/) (2025-10-20)
-- [From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available](https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/) (2025-10-16)
 
 </details>
 
@@ -364,6 +362,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+8 ways Twilio’s infrastructure ensures reliability 
+](
+https://www.twilio.com/en-us/blog/insights/cloud-comms/twilio-infrastructure-reliability
+) (2025-10-30)
+- [
+Building Trust in the Age of AI: Why Identity Is the Foundation of Customer Engagement
+](
+https://www.twilio.com/en-us/blog/company/news/twilio-to-acquire-stytch
+) (2025-10-30)
+- [
 The Future of BPO in the Age of AI and Automation: A Conversational Recap
 ](
 https://www.twilio.com/en-us/blog/insights/the-future-of-bpo-in-the-age-of-ai-and-automation--a-conversatio
@@ -378,16 +386,6 @@ Making Alt Text Fast: How Twilio Scaled Docs Accessibility with Automation
 ](
 https://www.twilio.com/en-us/blog/developers/docs-accessibility-automation-llm-prompts
 ) (2025-10-27)
-- [
-Regulatory & Compliance Corner – October 2025
-](
-https://www.twilio.com/en-us/blog/insights/2025-october-regulatory-updates
-) (2025-10-27)
-- [
-What Is IVR (Interactive Voice Response) for Call Centers?
-](
-https://www.twilio.com/en-us/blog/ivr-what-it-is-and-how-it-benefits-contact-center
-) (2025-10-25)
 
 </details>
 
@@ -583,11 +581,11 @@ https://www.twilio.com/en-us/blog/ivr-what-it-is-and-how-it-benefits-contact-cen
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Evaluating LLMs with LangSmith: A Comprehensive Guide ](https://www.analyticsvidhya.com/blog/2025/11/evaluating-llms-with-langsmith/) (2025-11-01)
 - [AI Agents vs LLMs vs RAG ](https://www.analyticsvidhya.com/blog/2025/10/ai-agents-vs-llms-vs-rag/) (2025-10-31)
 - [What is gpt-oss-safeguard? OpenAI’s Policy-Driven Safety Model](https://www.analyticsvidhya.com/blog/2025/10/gpt-oss-safeguard/) (2025-10-30)
 - [I Built a Working App in 4 Minutes, Thanks to Manus 1.5](https://www.analyticsvidhya.com/blog/2025/10/working-app-in-minutes-manus-1-5/) (2025-10-30)
 - [Grokipedia vs Wikipedia: Elon Musk’s AI Encyclopedia is Here!](https://www.analyticsvidhya.com/blog/2025/10/grokipedia-elon-musks-ai-encyclopedia/) (2025-10-29)
-- [Train Your AI Agents Like a Pro with Microsoft Agent Lightning (Full Setup & Workflow) ](https://www.analyticsvidhya.com/blog/2025/10/microsoft-agent-lightning/) (2025-10-29)
 
 </details>
 
