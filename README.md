@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Coinbase CEO Brian Armstrong trolls the prediction markets](https://techcrunch.com/2025/11/01/coinbase-ceo-brian-armstrong-trolls-the-prediction-markets/) (2025-11-01)
+- [Rising energy prices put AI and data centers in the crosshairs](https://techcrunch.com/2025/11/01/rising-energy-prices-put-ai-and-data-centers-in-the-crosshairs/) (2025-11-01)
+- [AI researchers ’embodied’ an LLM into a robot – and it started channeling Robin Williams](https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/) (2025-11-01)
 - [What is Bending Spoons? Everything to know about AOL’s acquirer](https://techcrunch.com/2025/10/31/what-is-bending-spoons-everything-to-know-about-aols-acquirer/) (2025-11-01)
 - [Bluesky hits 40 million users, introduces ‘dislikes’ beta](https://techcrunch.com/2025/10/31/bluesky-hits-40-million-users-introduces-dislikes-beta/) (2025-10-31)
-- [Meta bought 1 GW of solar this week](https://techcrunch.com/2025/10/31/meta-bought-1-gw-of-solar-this-week/) (2025-10-31)
-- [AI mania tanks CoreWeave’s Core Scientific acquisition — it buys Python notebook Marimo](https://techcrunch.com/2025/10/31/ai-mania-tanks-coreweaves-core-scientific-acquisition-it-buys-python-notebook-marimo/) (2025-10-31)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/10/31/chatgpt-everything-to-know-about-the-ai-chatbot/) (2025-10-31)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The profitable startup](https://linear.app/now/the-profitable-startup) (2025-11-01)
-- [Show HN: Strange Attractors](https://blog.shashanktomar.com/posts/strange-attractors) (2025-10-31)
-- [Photographing the rare brown hyena stalking a diamond mining ghost town](https://www.bbc.com/future/article/20251014-the-rare-hyena-stalking-a-diamond-mining-ghost-town) (2025-10-31)
-- [S.A.R.C.A.S.M: Slightly Annoying Rubik's Cube Automatic Solving Machine](https://github.com/vindar/SARCASM) (2025-10-31)
-- [A theoretical way to circumvent Android developer verification](https://enaix.github.io/2025/10/30/developer-verification.html) (2025-10-31)
+- [Stack based Prolog. Cool thing you can do with DCGs](https://old.reddit.com/r/prolog/comments/1olni8c/stack_based_prolog_cool_thing_you_can_do_with_dcgs/) (2025-11-01)
+- [Visible from space, Sudan's bloodied sands expose a massacre of thousands](https://www.telegraph.co.uk/world-news/2025/10/28/sudan-bloodied-sands-massacre-thousands/) (2025-11-01)
+- [Show HN: Why write code if the LLM can just do the thing? (web app experiment)](https://github.com/samrolken/nokode) (2025-11-01)
+- [OpenAI Moves to Complete Potentially the Largest Theft in Human History](https://thezvi.substack.com/p/openai-moves-to-complete-potentially) (2025-11-01)
+- [The giant basket case countries](https://www.noahpinion.blog/p/the-giant-basket-case-countries) (2025-11-01)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [GTA VI developer accused of union busting in mass firings](https://www.theverge.com/news/811999/gta-vi-rockstar-games-union-busting) (2025-10-31)
-- [Here are the shipping and return policies for all the big-name retailers](https://www.theverge.com/21570161/holiday-shipping-return-policy-apple-google-microsoft-amazon) (2025-10-31)
-- [Microsoft releases an Xbox Full Screen Experience preview for the MSI Claw](https://www.theverge.com/news/811826/microsoft-xbox-full-screen-experience-fse-msi-claw-windows-11-insider) (2025-10-31)
-- [Windows 11 tests Bluetooth audio sharing that connects two headsets at once](https://www.theverge.com/news/811795/microsoft-windows-11-bluetooth-le-shared-audio-headsets) (2025-10-31)
-- [Dolby Atmos arrives in the new, affordable China-exclusive Hyundai Elexio](https://www.theverge.com/tech/811718/dolby-atmos-arrives-in-the-new-affordable-china-exclusive-hyundai-elexio) (2025-10-31)
+- [Google’s Pixel Watch 3 and Anker’s two-headed USB-C cable are our favorite deals this week](https://www.theverge.com/tech/811879/google-pixel-watch-3-anker-140w-usb-c-cable-deal-sale) (2025-11-01)
+- [Ayaneo Phone confirmed in a teaser featuring retro Remake branding](https://www.theverge.com/news/812084/ayaneo-phone-confirmed-in-a-teaser-featuring-retro-remake-branding) (2025-11-01)
+- [LG’s brilliant B5 OLED TV is already down to just $530 for Black Friday](https://www.theverge.com/tech/811935/lg-b5-oled-tv-black-friday-doorbuster-deal-sale) (2025-11-01)
+- [You wish your phone had the Oppo Find X9 Pro&#8217;s battery life](https://www.theverge.com/tech/808067/oppo-find-x9-pro-review) (2025-11-01)
+- [The Playdate is a great indie puzzle machine](https://www.theverge.com/games/811497/playdate-puzzle-game-reviews-lexgrid-togglebot-what-time-is-it) (2025-11-01)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Research roundup: 6 cool science stories we almost missed](https://arstechnica.com/science/2025/11/research-roundup-6-cool-science-stories-we-almost-missed-3/) (2025-11-01)
+- [Inside the marketplace for vaccine medical exemptions](https://arstechnica.com/health/2025/11/inside-the-marketplace-for-vaccine-medical-exemptions/) (2025-11-01)
 - [YouTube denies AI was involved with odd removals of tech tutorials](https://arstechnica.com/tech-policy/2025/10/youtube-denies-ai-was-involved-with-odd-removals-of-tech-tutorials/) (2025-11-01)
 - [Neural network finds an enzyme that can break down polyurethane](https://arstechnica.com/science/2025/10/polyurethane-is-the-latest-polymer-broken-down-by-designer-enzymes/) (2025-10-31)
 - [Cursor introduces its coding model alongside multi-agent interface](https://arstechnica.com/ai/2025/10/cursor-introduces-its-coding-model-alongside-multi-agent-interface/) (2025-10-31)
-- [Two Windows vulnerabilities, one a 0-day, are under active exploitation](https://arstechnica.com/security/2025/10/two-windows-vulnerabilities-one-a-0-day-are-under-active-exploitation/) (2025-10-31)
-- [FCC to rescind ruling that said ISPs are required to secure their networks](https://arstechnica.com/tech-policy/2025/10/fcc-dumps-plan-for-telecom-security-rules-that-internet-providers-dont-like/) (2025-10-31)
 
 </details>
 
@@ -97,26 +97,26 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Check out the guide on - Mastering Principal Component Analysis (PCA) in R: A Complete Guide from Basics to Business Insights](https://dev.to/thedatageek/check-out-the-guide-on-mastering-principal-component-analysis-pca-in-r-a-complete-guide-from-1kjg) (2025-11-01)
-- [Reactive Tree Management in Nuxt 4: How I Modeled Complex Hierarchies with Pinia](https://dev.to/smaug6739/reactive-tree-management-in-nuxt-4-how-i-modeled-complex-hierarchies-with-pinia-2m8f) (2025-11-01)
-- [🧠 Inside an AI’s Brain: What Data Scientists Can Learn from Neuroscience](https://dev.to/sanskruti_sugandhi/inside-an-ais-brain-what-data-scientists-can-learn-from-neuroscience-2467) (2025-11-01)
-- [Web Developer Travis McCracken on Async Queues in Rust vs Python](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-async-queues-in-rust-vs-python-2oca) (2025-11-01)
-- [Learning Elixir: Ranges](https://dev.to/abreujp/learning-elixir-ranges-1iia) (2025-11-01)
+- [Checkout my new post!](https://dev.to/jay_sheth/checkout-my-new-post-1k10) (2025-11-01)
+- [Danny Maude: 3 Golf Swing Tips That I Wish I'd Told You Sooner](https://dev.to/youtube_golf/danny-maude-3-golf-swing-tips-that-i-wish-id-told-you-sooner-oe9) (2025-11-01)
+- [🌍 How to Set Up a Global HTTP Load Balancer on Google Cloud (Step-by-Step with Screenshots)](https://dev.to/jay_sheth/how-to-set-up-a-global-http-load-balancer-on-google-cloud-step-by-step-with-screenshots-3ghi) (2025-11-01)
+- [Smart Form Submissions: Only Send Changed Data with WebForms Core 2](https://dev.to/elanatframework/smart-form-submissions-only-send-changed-data-with-webforms-core-2-29f3) (2025-11-01)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-1nh4) (2025-11-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09025042560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@fufufuuffuufyrrytuufuf/09025042560-405fcfac2a7d?source=rss------programming-5) (2025-11-01)
-- [09025042560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@fufufuuffuufyrrytuufuf/09025042560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-04eaf0acb119?source=rss------programming-5) (2025-11-01)
-- [Meet uv: The All-in-One Python Package and Environment Manager](https://python.plainenglish.io/meet-uv-the-all-in-one-python-package-and-environment-manager-59fa48054b42?source=rss------programming-5) (2025-11-01)
-- [09025042560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@fufufuuffuufyrrytuufuf/09025042560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-39275d1e6619?source=rss------programming-5) (2025-11-01)
-- [09025042560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@vufyfycycyxyyfxy/09025042560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-4215e75f7f25?source=rss------programming-5) (2025-11-01)
+- [09338812675شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@s31208181/09338812675%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-23af05fd4ade?source=rss------programming-5) (2025-11-01)
+- [Angular vs React in 2025: The Trade-offs I’d Bet My On-Call On](https://medium.com/@ArkProtocol1/angular-vs-react-in-2025-the-trade-offs-id-bet-my-on-call-on-f4b151855f74?source=rss------programming-5) (2025-11-01)
+- [09338812675شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@s31208181/09338812675%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-577b4e2a1979?source=rss------programming-5) (2025-11-01)
+- [09338812675شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@s31208181/09338812675%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-7abe344289c4?source=rss------programming-5) (2025-11-01)
+- [09338812675شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@djdnsnnddjbxndjdbz/09338812675%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-883ccd4b3a09?source=rss------programming-5) (2025-11-01)
 
 </details>
 
@@ -134,11 +134,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [GitHub Universe 2025: Where developer innovation took center stage](https://azure.microsoft.com/en-us/blog/github-universe-2025-where-developer-innovation-took-center-stage/) (2025-10-30)
+- [Building the future together: Microsoft and NVIDIA announce AI advancements at GTC DC](https://azure.microsoft.com/en-us/blog/building-the-future-together-microsoft-and-nvidia-announce-ai-advancements-at-gtc-dc/) (2025-10-28)
+- [Introducing Agent HQ: Any agent, any way you work](https://github.blog/news-insights/company-news/welcome-home-agents/?utm_source=MSFT-day1-blog&utm_medium=social&utm_campaign=universe25) (2025-10-28)
 - [Fully managed cloud-to-cloud transfers with Azure Storage Mover](https://azure.microsoft.com/en-us/blog/fully-managed-cloud-to-cloud-transfers-with-azure-storage-mover/) (2025-10-23)
 - [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2025-10-22)
-- [The Signals Loop: Fine-tuning for world-class AI apps and agents ](https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/) (2025-10-21)
-- [Innovation spotlight: How 3 customers are driving change with migration to Azure SQL](https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/) (2025-10-20)
-- [From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available](https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/) (2025-10-16)
 
 </details>
 
@@ -574,11 +574,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Pearson Correlation Coefficient, Explained Simply](https://towardsdatascience.com/pearson-correlation-coefficient-explained-simply/) (2025-11-01)
+- [Graph RAG vs SQL RAG](https://towardsdatascience.com/graph-rag-vs-sql-rag/) (2025-11-01)
 - [Let Hypothesis Break Your Python Code Before Your Users Do](https://towardsdatascience.com/let-hypothesis-break-your-python-code-before-your-users-do/) (2025-10-31)
 - [The Machine Learning Projects Employers Want to See](https://towardsdatascience.com/the-machine-learning-projects-employers-want-to-see/) (2025-10-31)
 - [RF-DETR Under the Hood: The Insights of a Real-Time Transformer Detection](https://towardsdatascience.com/rf-detr-under-the-hood-the-insights-of-a-real-time-transformer-detection/) (2025-10-31)
-- [Building a Rules Engine from First Principles](https://towardsdatascience.com/building-a-rules-engine-from-first-principles/) (2025-10-30)
-- [Build LLM Agents Faster with Datapizza AI](https://towardsdatascience.com/datapizza-the-ai-framework-made-in-italy/) (2025-10-30)
 
 </details>
 
