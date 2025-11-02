@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Elon Musk wants you to know that Sam Altman got a refund for his Tesla Roadster](https://techcrunch.com/2025/11/01/elon-musk-wants-you-to-know-that-sam-altman-got-a-refund-for-his-tesla-roadster/) (2025-11-01)
-- [Coinbase CEO Brian Armstrong trolls the prediction markets](https://techcrunch.com/2025/11/01/coinbase-ceo-brian-armstrong-trolls-the-prediction-markets/) (2025-11-01)
-- [Rising energy prices put AI and data centers in the crosshairs](https://techcrunch.com/2025/11/01/rising-energy-prices-put-ai-and-data-centers-in-the-crosshairs/) (2025-11-01)
-- [AI researchers ’embodied’ an LLM into a robot – and it started channeling Robin Williams](https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/) (2025-11-01)
-- [What is Bending Spoons? Everything to know about AOL’s acquirer](https://techcrunch.com/2025/10/31/what-is-bending-spoons-everything-to-know-about-aols-acquirer/) (2025-11-01)
+- [Sam Altman says ‘enough’ to questions about OpenAI’s revenue](https://techcrunch.com/2025/11/02/sam-altman-says-enough-to-questions-about-openais-revenue/) (2025-11-02)
+- [TechCrunch Mobility: Everything said on, and off, the stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/11/02/techcrunch-mobility-everything-said-on-and-off-the-stage-at-techcrunch-disrupt-2025/) (2025-11-02)
+- [China is rolling back rare earth mineral restrictions, White House says](https://techcrunch.com/2025/11/02/china-is-rolling-back-rare-earth-mineral-restrictions-white-house-saus/) (2025-11-02)
+- [Meta has an AI product problem ](https://techcrunch.com/2025/11/02/meta-has-an-ai-product-problem/) (2025-11-02)
+- [Elon Musk wants you to know that Sam Altman got a refund from Tesla](https://techcrunch.com/2025/11/01/elon-musk-wants-you-to-know-that-sam-altman-got-a-refund-for-his-tesla-roadster/) (2025-11-01)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Mock – An API creation and testing utility: Examples](https://dhuan.github.io/mock/latest/examples.html) (2025-11-02)
-- [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html) (2025-11-02)
-- [Context engineering](https://chrisloy.dev/post/2025/08/03/context-engineering) (2025-11-02)
-- [CLI to manage your SQL database schemas and migrations](https://github.com/gh-PonyM/shed) (2025-11-02)
-- [Notes by djb on using Fil-C (2025)](https://cr.yp.to/2025/fil-c.html) (2025-11-02)
+- [At the end you use Git bisect](https://kevin3010.github.io/git/2025/11/02/At-the-end-you-use-git-bisect.html) (2025-11-02)
+- [New South Korean national law will turn large parking lots into solar farms](https://electrek.co/2025/11/02/new-national-law-will-turn-large-parking-lots-into-solar-power-farms/) (2025-11-02)
+- ["Why don't you use dependent types?"](https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html) (2025-11-02)
+- [Writing FreeDOS Programs in C](https://www.freedos.org/books/cprogramming/) (2025-11-02)
+- [A prison of my own making](https://jsteuernagel.de/posts/a-prison-of-my-own-making/) (2025-11-02)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Google’s Pixel Watch 3 and Anker’s two-headed USB-C cable are our favorite deals this week](https://www.theverge.com/tech/811879/google-pixel-watch-3-anker-140w-usb-c-cable-deal-sale) (2025-11-01)
-- [Ayaneo Phone confirmed in a teaser featuring retro Remake branding](https://www.theverge.com/news/812084/ayaneo-phone-confirmed-in-a-teaser-featuring-retro-remake-branding) (2025-11-01)
-- [LG’s brilliant B5 OLED TV is already down to just $530 for Black Friday](https://www.theverge.com/tech/811935/lg-b5-oled-tv-black-friday-doorbuster-deal-sale) (2025-11-01)
-- [You wish your phone had the Oppo Find X9 Pro&#8217;s battery life](https://www.theverge.com/tech/808067/oppo-find-x9-pro-review) (2025-11-01)
-- [The Playdate is a great indie puzzle machine](https://www.theverge.com/games/811497/playdate-puzzle-game-reviews-lexgrid-togglebot-what-time-is-it) (2025-11-01)
+- [You need to watch the found footage classic, Lake Mungo](https://www.theverge.com/column/812150/watch-the-found-footage-classic-horror-mokumentary-lake-mungo) (2025-11-02)
+- [Why the Zune never killed the iPod](https://www.theverge.com/podcast/811595/microsoft-zune-version-history) (2025-11-02)
+- [The perfect grocery list-making app doesn’t exist](https://www.theverge.com/tech/809152/grocery-list-app-paprika-better-meal-google-keep) (2025-11-02)
+- [The great tariff shakedown](https://www.theverge.com/column/811549/trump-tariff-shakedown) (2025-11-02)
+- [The best things to watch over and over and over](https://www.theverge.com/tech/811575/best-shows-rewatch-multiple-times-installer) (2025-11-02)
 
 </details>
 
@@ -97,26 +97,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Web Developer Travis McCracken on Modular Monoliths: Backend Architecture That Works](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-modular-monoliths-backend-architecture-that-works-6pb) (2025-11-02)
-- [FlashWorld: High-quality 3D Scene Generation within Seconds](https://dev.to/paperium/flashworld-high-quality-3d-scene-generation-within-seconds-44lk) (2025-11-02)
-- [Everything You Need to Know About AI — In One Repository](https://dev.to/dhanushnehru/everything-you-need-to-know-about-ai-in-one-repository-2fd5) (2025-11-02)
-- [Flutter Development Setup for WSL2 + Windows Android Studio (Complete Guide)](https://dev.to/abdullahyasir/flutter-development-setup-for-wsl2-windows-android-studio-complete-guide-4493) (2025-11-02)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... (Ep. 2 – Carlisle GC)](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-3am3) (2025-11-02)
+- [Offline-First Kiosk: Lessons from the Field](https://dev.to/drvcodenta/offline-first-kiosk-lessons-from-the-field-86e) (2025-11-02)
+- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-40b5) (2025-11-02)
+- [HacktoberFest: Return to Animation](https://dev.to/jarvisscript/hacktoberfest-return-to-animation-i1d) (2025-11-02)
+- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-22p9) (2025-11-02)
+- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-2op4) (2025-11-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09360627233شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@whahiahzbsizzuh/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-c7fd7ee36938?source=rss------programming-5) (2025-11-02)
-- [09360627233شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@whahiahzbsizzuh/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e0434efac615?source=rss------programming-5) (2025-11-02)
-- [09360627233شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@whahiahzbsizzuh/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-d9eae4a0f1f2?source=rss------programming-5) (2025-11-02)
-- [VS Code Warnings Errors: Why You Sometimes Can’t Use Some Special Symbols Like % and !](https://medium.com/@merwinpinto/vs-code-warnings-errors-why-you-sometimes-cant-use-some-special-symbols-like-and-f655596936a9?source=rss------programming-5) (2025-11-02)
-- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jdyd52713/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ae2e471def33?source=rss------programming-5) (2025-11-02)
+- [I will be honest.](https://medium.com/@o.jesse1/i-will-be-honest-516079927660?source=rss------programming-5) (2025-11-02)
+- [C# is blazing fast so don’t worry.](https://medium.com/@cschrumm/c-is-blazing-fast-so-dont-worry-84e364acc5ce?source=rss------programming-5) (2025-11-02)
+- [The One LINQ Method You NEED for Cleaner EF Core: Select](https://medium.com/@michaelmaurice410/the-one-linq-method-you-need-for-cleaner-ef-core-select-a8155d1008b3?source=rss------programming-5) (2025-11-02)
+- [Building an Extremely Fast Caching Repository Using the Decorator Pattern in ASP.NET Core 9.](https://medium.com/@mariammaurice/building-an-extremely-fast-caching-repository-using-the-decorator-pattern-in-asp-net-core-9-947ff75dd920?source=rss------programming-5) (2025-11-02)
+- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@5alwkakskskns/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-c6de73659c1b?source=rss------programming-5) (2025-11-02)
 
 </details>
 
@@ -310,11 +307,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
-- [Pourquoi Python est-il si populaire en 2025 ?](https://blog.jetbrains.com/pycharm/2025/10/pourquoi-python-est-il-si-populaire-en-2025) (2025-10-31)
-- [JetBrains Academy 插件迎来 AI 驱动的学习功能](https://blog.jetbrains.com/education/2025/10/31/jetbrains-academy-plugin-2025-3-ai-features) (2025-10-31)
-- [Koog × A2A: KI-Agents in Kotlin vernetzen](https://blog.jetbrains.com/ai/2025/10/koog-a2a-ki-agents-in-kotlin-vernetzen) (2025-10-31)
-- [[Livestream recording] Maximizing TeamCity: New Features in Action and a Look Ahead](https://blog.jetbrains.com/teamcity/2025/10/livestream-recording-maximizing-teamcity) (2025-10-30)
-- [Grazie’s Next Step: Built-In Language Intelligence for Your IDE](https://blog.jetbrains.com/grazie/2025/10/grazie-s-next-step-built-in-language-intelligence-for-your-ide) (2025-10-30)
+- [[Livestream recording] Maximizing TeamCity: New Features in Action and a Look Ahead](https://blog.jetbrains.com/teamcity/2025/10/livestream-recording-maximizing-teamcity/) (2025-10-30)
+- [Grazie’s Next Step: Built-In Language Intelligence for Your IDE](https://blog.jetbrains.com/grazie/2025/10/grazie-s-next-step-built-in-language-intelligence-for-your-ide/) (2025-10-30)
+- [JetBrains Becomes Cloud9’s Official AI-Powered Coding Partner](https://blog.jetbrains.com/blog/2025/10/29/jetbrains-becomes-cloud9s-official-ai-powered-coding-partner/) (2025-10-29)
+- [Simplifying Distributed Systems: Jason Taylor Shows How .NET Aspire Makes the Complex Feel Effortless](https://blog.jetbrains.com/dotnet/2025/10/29/simplifying-distributed-systems-dotnet-aspire-jason-taylor/) (2025-10-29)
+- [The MPS 2025.3 Early Access Program Has Started](https://blog.jetbrains.com/mps/2025/10/the-mps-2025-3-eap-has-started/) (2025-10-29)
 
 </details>
 
@@ -574,11 +571,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [From Classical Models to AI: Forecasting Humidity for Energy and Water Efficiency in Data Centers](https://towardsdatascience.com/from-classical-models-to-ai-forecasting-humidity-for-energy-and-water-efficiency-in-data-centers-2/) (2025-11-02)
+- [MobileNetV3 Paper Walkthrough: The Tiny Giant Getting Even Smarter](https://towardsdatascience.com/mobilenetv3-paper-walkthrough-the-tiny-giant-getting-even-smarter/) (2025-11-02)
 - [The Pearson Correlation Coefficient, Explained Simply](https://towardsdatascience.com/pearson-correlation-coefficient-explained-simply/) (2025-11-01)
 - [Graph RAG vs SQL RAG](https://towardsdatascience.com/graph-rag-vs-sql-rag/) (2025-11-01)
 - [Let Hypothesis Break Your Python Code Before Your Users Do](https://towardsdatascience.com/let-hypothesis-break-your-python-code-before-your-users-do/) (2025-10-31)
-- [How to Build Machine Learning Projects That Help You Get Hired](https://towardsdatascience.com/the-machine-learning-projects-employers-want-to-see/) (2025-10-31)
-- [RF-DETR Under the Hood: The Insights of a Real-Time Transformer Detection](https://towardsdatascience.com/rf-detr-under-the-hood-the-insights-of-a-real-time-transformer-detection/) (2025-10-31)
 
 </details>
 
