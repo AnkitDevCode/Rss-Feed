@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Elon Musk wants you to know that Sam Altman got a refund for his Tesla Roadster](https://techcrunch.com/2025/11/01/elon-musk-wants-you-to-know-that-sam-altman-got-a-refund-for-his-tesla-roadster/) (2025-11-01)
 - [Coinbase CEO Brian Armstrong trolls the prediction markets](https://techcrunch.com/2025/11/01/coinbase-ceo-brian-armstrong-trolls-the-prediction-markets/) (2025-11-01)
 - [Rising energy prices put AI and data centers in the crosshairs](https://techcrunch.com/2025/11/01/rising-energy-prices-put-ai-and-data-centers-in-the-crosshairs/) (2025-11-01)
 - [AI researchers ’embodied’ an LLM into a robot – and it started channeling Robin Williams](https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/) (2025-11-01)
 - [What is Bending Spoons? Everything to know about AOL’s acquirer](https://techcrunch.com/2025/10/31/what-is-bending-spoons-everything-to-know-about-aols-acquirer/) (2025-11-01)
-- [Bluesky hits 40 million users, introduces ‘dislikes’ beta](https://techcrunch.com/2025/10/31/bluesky-hits-40-million-users-introduces-dislikes-beta/) (2025-10-31)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Stack based Prolog. Cool thing you can do with DCGs](https://old.reddit.com/r/prolog/comments/1olni8c/stack_based_prolog_cool_thing_you_can_do_with_dcgs/) (2025-11-01)
-- [Visible from space, Sudan's bloodied sands expose a massacre of thousands](https://www.telegraph.co.uk/world-news/2025/10/28/sudan-bloodied-sands-massacre-thousands/) (2025-11-01)
-- [Show HN: Why write code if the LLM can just do the thing? (web app experiment)](https://github.com/samrolken/nokode) (2025-11-01)
-- [OpenAI Moves to Complete Potentially the Largest Theft in Human History](https://thezvi.substack.com/p/openai-moves-to-complete-potentially) (2025-11-01)
-- [The giant basket case countries](https://www.noahpinion.blog/p/the-giant-basket-case-countries) (2025-11-01)
+- [Policy, privacy and post-quantum: anonymous credentials for everyone](https://blog.cloudflare.com/private-rate-limiting/) (2025-11-02)
+- [Pomelli](https://labs.google.com/pomelli/about/) (2025-11-01)
+- [Show HN: KeyLeak Detector – Scan websites for exposed API keys and secrets](https://github.com/Amal-David/keyleak-detector) (2025-11-01)
+- [OpenDesk by the Centre for Digital Sovereignty](https://www.opendesk.eu/en/product) (2025-11-01)
+- [OS maintained by a single developer since 1997: Visopsys](https://visopsys.org/) (2025-11-01)
 
 </details>
 
@@ -75,11 +75,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [GitHub Game Off 2025 theme announcement](https://github.blog/company/github-game-off-2025-theme-announcement/) (2025-11-01)
 - [Measuring what matters: How offline evaluation of GitHub MCP Server works](https://github.blog/ai-and-ml/generative-ai/measuring-what-matters-how-offline-evaluation-of-github-mcp-server-works/) (2025-10-30)
 - [Introducing Agent HQ: Any agent, any way you work](https://github.blog/news-insights/company-news/welcome-home-agents/) (2025-10-28)
 - [Octoverse: A new developer joins GitHub every second as AI leads TypeScript to #1](https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/) (2025-10-28)
 - [Announcing the 2025 GitHub Partner Award winners 🎉](https://github.blog/news-insights/company-news/announcing-the-2025-github-partner-award-winners/) (2025-10-28)
-- [How to find, install, and manage MCP servers with the GitHub MCP Registry](https://github.blog/ai-and-ml/generative-ai/how-to-find-install-and-manage-mcp-servers-with-the-github-mcp-registry/) (2025-10-24)
 
 </details>
 
@@ -97,26 +97,26 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Checkout my new post!](https://dev.to/jay_sheth/checkout-my-new-post-1k10) (2025-11-01)
-- [Danny Maude: 3 Golf Swing Tips That I Wish I'd Told You Sooner](https://dev.to/youtube_golf/danny-maude-3-golf-swing-tips-that-i-wish-id-told-you-sooner-oe9) (2025-11-01)
-- [🌍 How to Set Up a Global HTTP Load Balancer on Google Cloud (Step-by-Step with Screenshots)](https://dev.to/jay_sheth/how-to-set-up-a-global-http-load-balancer-on-google-cloud-step-by-step-with-screenshots-3ghi) (2025-11-01)
-- [Smart Form Submissions: Only Send Changed Data with WebForms Core 2](https://dev.to/elanatframework/smart-form-submissions-only-send-changed-data-with-webforms-core-2-29f3) (2025-11-01)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-1nh4) (2025-11-01)
+- [The 7 Paid Subscriptions I Use in 2025 as a Freelance Software Developer](https://dev.to/nnash/the-7-paid-subscriptions-i-use-in-2025-as-a-freelance-software-developer-285k) (2025-11-02)
+- [Browser scrollbar color in the Dark mode.](https://dev.to/whyang9701/browser-scrollbar-color-in-the-dark-mode-29db) (2025-11-02)
+- [Daily Artificial Intelligence Digest - Nov 02, 2025](https://dev.to/antony_brahin_f47b663f3a0/daily-artificial-intelligence-digest-nov-02-2025-2o9m) (2025-11-02)
+- [AI Inference: The Silent Budget Killer (and How to Stop It)](https://dev.to/arvind_sundararajan/ai-inference-the-silent-budget-killer-and-how-to-stop-it-c4e) (2025-11-02)
+- [📰 Major Tech News: November 1st, 2025 — Nvidia's Korean AI Surge, Energy Pressures Mount, and Video AI Takes Center Stage](https://dev.to/om_shree_0709/major-tech-news-november-1st-2025-nvidias-korean-ai-surge-energy-pressures-mount-and-video-592g) (2025-11-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09338812675شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@s31208181/09338812675%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-23af05fd4ade?source=rss------programming-5) (2025-11-01)
-- [Angular vs React in 2025: The Trade-offs I’d Bet My On-Call On](https://medium.com/@ArkProtocol1/angular-vs-react-in-2025-the-trade-offs-id-bet-my-on-call-on-f4b151855f74?source=rss------programming-5) (2025-11-01)
-- [09338812675شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@s31208181/09338812675%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-577b4e2a1979?source=rss------programming-5) (2025-11-01)
-- [09338812675شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@s31208181/09338812675%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-7abe344289c4?source=rss------programming-5) (2025-11-01)
-- [09338812675شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@djdnsnnddjbxndjdbz/09338812675%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-883ccd4b3a09?source=rss------programming-5) (2025-11-01)
+- [0شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره خاله#…](https://medium.com/@hchffhfhhccjch/0%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-8869141f51eb?source=rss------programming-5) (2025-11-02)
+- [09شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره خاله#…](https://medium.com/@xhhddhdhhdufdudujd/09%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-6a13c92bbcdc?source=rss------programming-5) (2025-11-02)
+- [09شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره خاله#…](https://medium.com/@xhhddhdhhdufdudujd/09%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-72c478bfc4aa?source=rss------programming-5) (2025-11-02)
+- [09336شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره خاله#…](https://medium.com/@xhhddhdhhdufdudujd/09336%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-1c2461d38eae?source=rss------programming-5) (2025-11-02)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbvxx2vhjn/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-7e7cb5c7a9a6?source=rss------programming-5) (2025-11-02)
 
 </details>
 
@@ -134,11 +134,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [GitHub Universe 2025: Where developer innovation took center stage](https://azure.microsoft.com/en-us/blog/github-universe-2025-where-developer-innovation-took-center-stage/) (2025-10-30)
-- [Building the future together: Microsoft and NVIDIA announce AI advancements at GTC DC](https://azure.microsoft.com/en-us/blog/building-the-future-together-microsoft-and-nvidia-announce-ai-advancements-at-gtc-dc/) (2025-10-28)
-- [Introducing Agent HQ: Any agent, any way you work](https://github.blog/news-insights/company-news/welcome-home-agents/?utm_source=MSFT-day1-blog&utm_medium=social&utm_campaign=universe25) (2025-10-28)
 - [Fully managed cloud-to-cloud transfers with Azure Storage Mover](https://azure.microsoft.com/en-us/blog/fully-managed-cloud-to-cloud-transfers-with-azure-storage-mover/) (2025-10-23)
 - [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2025-10-22)
+- [The Signals Loop: Fine-tuning for world-class AI apps and agents ](https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/) (2025-10-21)
+- [Innovation spotlight: How 3 customers are driving change with migration to Azure SQL](https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/) (2025-10-20)
+- [From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available](https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/) (2025-10-16)
 
 </details>
 
@@ -310,11 +310,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
-- [[Livestream recording] Maximizing TeamCity: New Features in Action and a Look Ahead](https://blog.jetbrains.com/teamcity/2025/10/livestream-recording-maximizing-teamcity/) (2025-10-30)
-- [Grazie’s Next Step: Built-In Language Intelligence for Your IDE](https://blog.jetbrains.com/grazie/2025/10/grazie-s-next-step-built-in-language-intelligence-for-your-ide/) (2025-10-30)
-- [JetBrains Becomes Cloud9’s Official AI-Powered Coding Partner](https://blog.jetbrains.com/blog/2025/10/29/jetbrains-becomes-cloud9s-official-ai-powered-coding-partner/) (2025-10-29)
-- [Simplifying Distributed Systems: Jason Taylor Shows How .NET Aspire Makes the Complex Feel Effortless](https://blog.jetbrains.com/dotnet/2025/10/29/simplifying-distributed-systems-dotnet-aspire-jason-taylor/) (2025-10-29)
-- [The MPS 2025.3 Early Access Program Has Started](https://blog.jetbrains.com/mps/2025/10/the-mps-2025-3-eap-has-started/) (2025-10-29)
+- [Pourquoi Python est-il si populaire en 2025 ?](https://blog.jetbrains.com/pycharm/2025/10/pourquoi-python-est-il-si-populaire-en-2025) (2025-10-31)
+- [JetBrains Academy 插件迎来 AI 驱动的学习功能](https://blog.jetbrains.com/education/2025/10/31/jetbrains-academy-plugin-2025-3-ai-features) (2025-10-31)
+- [Koog × A2A: KI-Agents in Kotlin vernetzen](https://blog.jetbrains.com/ai/2025/10/koog-a2a-ki-agents-in-kotlin-vernetzen) (2025-10-31)
+- [[Livestream recording] Maximizing TeamCity: New Features in Action and a Look Ahead](https://blog.jetbrains.com/teamcity/2025/10/livestream-recording-maximizing-teamcity) (2025-10-30)
+- [Grazie’s Next Step: Built-In Language Intelligence for Your IDE](https://blog.jetbrains.com/grazie/2025/10/grazie-s-next-step-built-in-language-intelligence-for-your-ide) (2025-10-30)
 
 </details>
 
@@ -585,11 +585,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Jio Users Get Free Google AI Pro Plan Worth Rs 35,000: Here is How](https://www.analyticsvidhya.com/blog/2025/11/jio-users-get-free-google-ai-pro-plan/) (2025-11-01)
 - [Evaluating LLMs with LangSmith: A Comprehensive Guide ](https://www.analyticsvidhya.com/blog/2025/11/evaluating-llms-with-langsmith/) (2025-11-01)
 - [AI Agents vs LLMs vs RAG ](https://www.analyticsvidhya.com/blog/2025/10/ai-agents-vs-llms-vs-rag/) (2025-10-31)
 - [What is gpt-oss-safeguard? OpenAI’s Policy-Driven Safety Model](https://www.analyticsvidhya.com/blog/2025/10/gpt-oss-safeguard/) (2025-10-30)
 - [I Built a Working App in 4 Minutes, Thanks to Manus 1.5](https://www.analyticsvidhya.com/blog/2025/10/working-app-in-minutes-manus-1-5/) (2025-10-30)
-- [Grokipedia vs Wikipedia: Elon Musk’s AI Encyclopedia is Here!](https://www.analyticsvidhya.com/blog/2025/10/grokipedia-elon-musks-ai-encyclopedia/) (2025-10-29)
 
 </details>
 
