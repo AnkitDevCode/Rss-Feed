@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Meta readies $25B bond sale as soaring AI costs trigger stock sell-off](https://www.ft.com/content/120d2321-8382-4d74-ab48-f9ecb483c2a9) (2025-11-02)
-- [LM8560, the eternal chip from the 1980 years](https://www.tycospages.com/other-themes/lm8560-the-eternal-chip-from-the-1980-years/) (2025-11-02)
-- [You Don't Need Anubis](https://fxgn.dev/blog/anubis/) (2025-11-02)
-- [Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust](https://github.com/frostyplanet/crossfire-rs) (2025-11-02)
-- [A Few Words About Async](https://yoric.github.io/post/quite-a-few-words-about-async/) (2025-11-02)
+- [Mock – An API creation and testing utility: Examples](https://dhuan.github.io/mock/latest/examples.html) (2025-11-02)
+- [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html) (2025-11-02)
+- [Context engineering](https://chrisloy.dev/post/2025/08/03/context-engineering) (2025-11-02)
+- [CLI to manage your SQL database schemas and migrations](https://github.com/gh-PonyM/shed) (2025-11-02)
+- [Notes by djb on using Fil-C (2025)](https://cr.yp.to/2025/fil-c.html) (2025-11-02)
 
 </details>
 
@@ -97,22 +97,26 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Exploring Next.js 16 File System Conventions](https://dev.to/ganesh_tidake/exploring-nextjs-16-file-system-conventions-2akk) (2025-11-02)
-- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... (Ep. 2 – Carlisle GC)](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-363a) (2025-11-02)
-- [I'm Building an AI Agent That Automates Competitor Research](https://dev.to/theweekenddev/im-building-an-ai-agent-that-automates-competitor-research-1fie) (2025-11-02)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-51fd) (2025-11-02)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-2928) (2025-11-02)
+- [Web Developer Travis McCracken on Modular Monoliths: Backend Architecture That Works](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-modular-monoliths-backend-architecture-that-works-6pb) (2025-11-02)
+- [FlashWorld: High-quality 3D Scene Generation within Seconds](https://dev.to/paperium/flashworld-high-quality-3d-scene-generation-within-seconds-44lk) (2025-11-02)
+- [Everything You Need to Know About AI — In One Repository](https://dev.to/dhanushnehru/everything-you-need-to-know-about-ai-in-one-repository-2fd5) (2025-11-02)
+- [Flutter Development Setup for WSL2 + Windows Android Studio (Complete Guide)](https://dev.to/abdullahyasir/flutter-development-setup-for-wsl2-windows-android-studio-complete-guide-4493) (2025-11-02)
+- [Peter Finch Golf: I challenged a HEAD PRO at HIS OWN course... (Ep. 2 – Carlisle GC)](https://dev.to/youtube_golf/peter-finch-golf-i-challenged-a-head-pro-at-his-own-course-ep-2-carlisle-gc-3am3) (2025-11-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [React Native Interview Questions ✨](https://medium.com/@beenakumawat004/react-native-interview-questions-424e87b3b211?source=rss------programming-5) (2025-11-02)
-- [Java Legacy Apps Meet Rust Rewrites: What Works, What Doesn’t](https://medium.com/@premchandak_11/java-legacy-apps-meet-rust-rewrites-what-works-what-doesnt-d4da03d3b716?source=rss------programming-5) (2025-11-02)
-- [10 Python Libraries That Would’ve Saved Me Years as a Beginner](https://mind-to-machine.medium.com/10-python-libraries-that-wouldve-saved-me-years-as-a-beginner-460c0e290c3f?source=rss------programming-5) (2025-11-02)
-- [Deconstructing the Digital Echo: Why True Intelligence Isn’t Just Recursion](https://medium.com/@datascode/deconstructing-the-digital-echo-why-true-intelligence-isnt-just-recursion-453a09a9d790?source=rss------programming-5) (2025-11-02)
-- [Mengenal JavaScript dan Perannya dalam Pengembangan Web Modern](https://medium.com/@hikaruian99/mengenal-javascript-dan-perannya-dalam-pengembangan-web-modern-e43c6881e490?source=rss------programming-5) (2025-11-02)
+- [09360627233شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@whahiahzbsizzuh/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-c7fd7ee36938?source=rss------programming-5) (2025-11-02)
+- [09360627233شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@whahiahzbsizzuh/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e0434efac615?source=rss------programming-5) (2025-11-02)
+- [09360627233شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@whahiahzbsizzuh/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-d9eae4a0f1f2?source=rss------programming-5) (2025-11-02)
+- [VS Code Warnings Errors: Why You Sometimes Can’t Use Some Special Symbols Like % and !](https://medium.com/@merwinpinto/vs-code-warnings-errors-why-you-sometimes-cant-use-some-special-symbols-like-and-f655596936a9?source=rss------programming-5) (2025-11-02)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jdyd52713/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ae2e471def33?source=rss------programming-5) (2025-11-02)
 
 </details>
 
@@ -130,11 +134,22 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [GitHub Universe 2025: Where developer innovation took center stage](https://azure.microsoft.com/en-us/blog/github-universe-2025-where-developer-innovation-took-center-stage/) (2025-10-30)
+- [Building the future together: Microsoft and NVIDIA announce AI advancements at GTC DC](https://azure.microsoft.com/en-us/blog/building-the-future-together-microsoft-and-nvidia-announce-ai-advancements-at-gtc-dc/) (2025-10-28)
+- [Introducing Agent HQ: Any agent, any way you work](https://github.blog/news-insights/company-news/welcome-home-agents/?utm_source=MSFT-day1-blog&utm_medium=social&utm_campaign=universe25) (2025-10-28)
 - [Fully managed cloud-to-cloud transfers with Azure Storage Mover](https://azure.microsoft.com/en-us/blog/fully-managed-cloud-to-cloud-transfers-with-azure-storage-mover/) (2025-10-23)
 - [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2025-10-22)
-- [The Signals Loop: Fine-tuning for world-class AI apps and agents ](https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/) (2025-10-21)
-- [Innovation spotlight: How 3 customers are driving change with migration to Azure SQL](https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/) (2025-10-20)
-- [From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available](https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/) (2025-10-16)
+
+</details>
+
+<details>
+<summary>🎮 NVIDIA Blog</summary>
+
+- [Korea Joins AI Industrial Revolution: NVIDIA CEO Jensen Huang Unveils Historic Partnership at APEC Summit](https://blogs.nvidia.com/blog/korea-ai-apec-ceo-summit/) (2025-10-31)
+- [AI-Powered Mobile Clinics Deliver Breast Cancer Screening to India’s Rural Communities](https://blogs.nvidia.com/blog/medcognetics-ai-powered-breast-cancer-screening-india/) (2025-10-30)
+- [Join the Resistance: ‘ARC Raiders’ Launches in the Cloud](https://blogs.nvidia.com/blog/geforce-now-thursday-arc-raiders/) (2025-10-30)
+- [Into the Omniverse: Open World Foundation Models Generate Synthetic Worlds for Physical AI Development](https://blogs.nvidia.com/blog/scaling-physical-ai-omniverse/) (2025-10-29)
+- [NVIDIA GTC Washington, DC: Live Updates on What’s Next in AI](https://blogs.nvidia.com/blog/nvidia-gtc-washington-dc-2025-news/) (2025-10-28)
 
 </details>
 
@@ -562,7 +577,7 @@ https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update
 - [The Pearson Correlation Coefficient, Explained Simply](https://towardsdatascience.com/pearson-correlation-coefficient-explained-simply/) (2025-11-01)
 - [Graph RAG vs SQL RAG](https://towardsdatascience.com/graph-rag-vs-sql-rag/) (2025-11-01)
 - [Let Hypothesis Break Your Python Code Before Your Users Do](https://towardsdatascience.com/let-hypothesis-break-your-python-code-before-your-users-do/) (2025-10-31)
-- [The Machine Learning Projects Employers Want to See](https://towardsdatascience.com/the-machine-learning-projects-employers-want-to-see/) (2025-10-31)
+- [How to Build Machine Learning Projects That Help You Get Hired](https://towardsdatascience.com/the-machine-learning-projects-employers-want-to-see/) (2025-10-31)
 - [RF-DETR Under the Hood: The Insights of a Real-Time Transformer Detection](https://towardsdatascience.com/rf-detr-under-the-hood-the-insights-of-a-real-time-transformer-detection/) (2025-10-31)
 
 </details>
