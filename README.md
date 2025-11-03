@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Kevin Rose’s simple test for AI hardware — would you want to punch someone in the face who’s wearing it?](https://techcrunch.com/2025/11/02/kevin-roses-simple-test-for-ai-hardware-would-you-want-to-punch-someone-in-the-face-whos-wearing-it/) (2025-11-03)
 - [Alphabet is increasingly launching “moonshot” projects as independent companies — here’s why](https://techcrunch.com/2025/11/02/alphabet-is-increasingly-launching-moonshot-projects-as-independent-companies-heres-why/) (2025-11-03)
 - [Sequoia’s Roelof Botha warns founders about chasing sky-high valuations as the firm doubles down on its selective approach](https://techcrunch.com/2025/11/02/sequoias-roelof-botha-warns-founders-about-chasing-sky-high-valuations-as-the-firm-doubles-down-on-its-selective-approach/) (2025-11-02)
 - [Google pulls Gemma from AI Studio after Senator Blackburn accuses model of defamation](https://techcrunch.com/2025/11/02/google-pulls-gemma-from-ai-studio-after-senator-blackburn-accuses-model-of-defamation/) (2025-11-02)
 - [Sam Altman says ‘enough’ to questions about OpenAI’s revenue](https://techcrunch.com/2025/11/02/sam-altman-says-enough-to-questions-about-openais-revenue/) (2025-11-02)
-- [TechCrunch Mobility: Everything said on, and off, the stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/11/02/techcrunch-mobility-everything-said-on-and-off-the-stage-at-techcrunch-disrupt-2025/) (2025-11-02)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Facts about throwing good parties](https://www.atvbt.com/21-facts-about-throwing-good-parties/) (2025-11-02)
-- [FurtherAI (Series A – A16Z, YC) Is Hiring Across Software and AI](https://news.ycombinator.com/item?id=45793652) (2025-11-02)
-- [Paris had a moving sidewalk in 1900, and a Thomas Edison film captured it (2020)](https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html) (2025-11-02)
-- [Alleged Jabber Zeus Coder 'MrICQ' in U.S. Custody](https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/) (2025-11-02)
-- [Amazon Rivian electric delivery vans arrive in Canada](https://cleantechnica.com/2025/10/30/rivian-electric-delivery-vans-arrive-in-canada/) (2025-11-02)
+- [Oxy is Cloudflare's Rust-based next generation proxy framework (2023)](https://blog.cloudflare.com/introducing-oxy/) (2025-11-03)
+- [Syllabi – Open-source agentic AI with tools, RAG, and multi-channel deploy](https://www.syllabi-ai.com/) (2025-11-03)
+- [Simple trick to increase coverage: Lying to users about signal strength](https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/) (2025-11-03)
+- [I ****Ing Hate Science (2021)](https://buttondown.com/hillelwayne/archive/i-ing-hate-science/) (2025-11-02)
+- [New Prompt Injection Papers: Agents Rule of Two and the Attacker Moves Second](https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/) (2025-11-02)
 
 </details>
 
@@ -97,26 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Surprising Twist Behind Alphabet’s Moonshot Spinouts (And What Every Innovator Gets Wrong)](https://dev.to/paul_allen_ccfde9d33a48d5/the-surprising-twist-behind-alphabets-moonshot-spinouts-and-what-every-innovator-gets-wrong-15l9) (2025-11-03)
-- [Infinite Worlds, Perfect Recall: AI's Leap in Simulated Reality](https://dev.to/arvind_sundararajan/infinite-worlds-perfect-recall-ais-leap-in-simulated-reality-1512) (2025-11-03)
-- [FG-CLIP 2: A Bilingual Fine-grained Vision-Language Alignment Model](https://dev.to/paperium/fg-clip-2-a-bilingual-fine-grained-vision-language-alignment-model-g9o) (2025-11-03)
-- [The Design Innovations of NopGraphQL: From API Protocol to a General-Purpose Information Operation Engine](https://dev.to/canonical/the-design-innovations-of-nopgraphql-from-api-protocol-to-a-general-purpose-information-operation-f5g) (2025-11-03)
-- [Code, community, and copilot. AI is changing the way we contribute](https://dev.to/mishmanners/code-community-and-copilot-ai-is-changing-the-way-we-contribute-2b3n) (2025-11-03)
+- [Microfrontend architecture](https://dev.to/vinit_kotian_b31a215d8ae7/microfrontend-architecture-4ooj) (2025-11-03)
+- [Stay ahead in web development: latest news, tools, and insights #109](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-109-2844) (2025-11-03)
+- [99% of People Use AI Wrong — Here’s How I Actually Learn and Remember Faster](https://dev.to/nitinfab/99-of-people-use-ai-wrong-heres-how-i-actually-learn-and-remember-faster-5084) (2025-11-03)
+- [UI/UX Design Trends for 2026: What Every Designer Should Know](https://dev.to/pixel_mosaic/uiux-design-trends-for-2026-what-every-designer-should-know-4179) (2025-11-03)
+- [🎃 Quote.Vote Hacktoberfest 2025 — Building Civic Tech, One Pull Request at a Time](https://dev.to/quotevote/quotevote-hacktoberfest-2025-building-civic-tech-one-pull-request-at-a-time-43l1) (2025-11-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09010712940شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@nxnxncnckxxnxxnmxxnnxnxnz/09010712940%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-55f43f3250a9?source=rss------programming-5) (2025-11-03)
-- [09389632898شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@ngynmwzh/09389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-0e4777abf448?source=rss------programming-5) (2025-11-03)
-- [09010712940شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@nxnxncnckxxnxxnmxxnnxnxnz/09010712940%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-1b1b65c0712e?source=rss------programming-5) (2025-11-03)
-- [Understanding wordPattern — Why Two HashMaps Make It O(n)](https://medium.com/@dailywork8998/understanding-wordpattern-why-two-hashmaps-make-it-o-n-d32326c2079e?source=rss------programming-5) (2025-11-03)
-- [09389632898شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@ngynmwzh/09389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-2d7cb0b7e5ad?source=rss------programming-5) (2025-11-03)
+- [⚡ Git Like a Pro: 15 Commands That Instantly Level Up Your Dev Game](https://towardsdev.com/git-like-a-pro-15-commands-that-instantly-level-up-your-dev-game-84bd57561b38?source=rss------programming-5) (2025-11-03)
+- [The Odd JavaScript Quirk : Why ‘Hello’ + 1 + 2 Isn’t the Same as 1 + 2 + ‘Hello’](https://medium.com/@christophorusdryantoro/the-odd-javascript-quirk-why-hello-1-2-isn-t-the-same-as-1-2-hello-ac37265c25d3?source=rss------programming-5) (2025-11-03)
+- [ Stop Using Git Like a Beginner: 15 Pro Tricks Every Senior Dev Swears By](https://blog.stackademic.com/stop-using-git-like-a-beginner-15-pro-tricks-every-senior-dev-swears-by-7320a1beeaef?source=rss------programming-5) (2025-11-03)
+- [Stop using new Thread()! Master the Executor Framework](https://mammadyahya.medium.com/stop-using-new-thread-master-the-executor-framework-f8348d818cbb?source=rss------programming-5) (2025-11-03)
+- [Why 90% Fail This Angular Interview Question](https://codebybilal.medium.com/why-90-fail-this-angular-interview-question-8054b6b415dc?source=rss------programming-5) (2025-11-03)
 
 </details>
 
@@ -134,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [GitHub Universe 2025: Where developer innovation took center stage](https://azure.microsoft.com/en-us/blog/github-universe-2025-where-developer-innovation-took-center-stage/) (2025-10-30)
-- [Building the future together: Microsoft and NVIDIA announce AI advancements at GTC DC](https://azure.microsoft.com/en-us/blog/building-the-future-together-microsoft-and-nvidia-announce-ai-advancements-at-gtc-dc/) (2025-10-28)
-- [Introducing Agent HQ: Any agent, any way you work](https://github.blog/news-insights/company-news/welcome-home-agents/?utm_source=MSFT-day1-blog&utm_medium=social&utm_campaign=universe25) (2025-10-28)
 - [Fully managed cloud-to-cloud transfers with Azure Storage Mover](https://azure.microsoft.com/en-us/blog/fully-managed-cloud-to-cloud-transfers-with-azure-storage-mover/) (2025-10-23)
 - [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2025-10-22)
+- [The Signals Loop: Fine-tuning for world-class AI apps and agents ](https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/) (2025-10-21)
+- [Innovation spotlight: How 3 customers are driving change with migration to Azure SQL](https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/) (2025-10-20)
+- [From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available](https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/) (2025-10-16)
 
 </details>
 
