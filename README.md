@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Alphabet is increasingly launching “moonshot” projects as independent companies — here’s why](https://techcrunch.com/2025/11/02/alphabet-is-increasingly-launching-moonshot-projects-as-independent-companies-heres-why/) (2025-11-03)
+- [Sequoia’s Roelof Botha warns founders about chasing sky-high valuations as the firm doubles down on its selective approach](https://techcrunch.com/2025/11/02/sequoias-roelof-botha-warns-founders-about-chasing-sky-high-valuations-as-the-firm-doubles-down-on-its-selective-approach/) (2025-11-02)
+- [Google pulls Gemma from AI Studio after Senator Blackburn accuses model of defamation](https://techcrunch.com/2025/11/02/google-pulls-gemma-from-ai-studio-after-senator-blackburn-accuses-model-of-defamation/) (2025-11-02)
 - [Sam Altman says ‘enough’ to questions about OpenAI’s revenue](https://techcrunch.com/2025/11/02/sam-altman-says-enough-to-questions-about-openais-revenue/) (2025-11-02)
 - [TechCrunch Mobility: Everything said on, and off, the stage at TechCrunch Disrupt 2025](https://techcrunch.com/2025/11/02/techcrunch-mobility-everything-said-on-and-off-the-stage-at-techcrunch-disrupt-2025/) (2025-11-02)
-- [China is rolling back rare earth mineral restrictions, White House says](https://techcrunch.com/2025/11/02/china-is-rolling-back-rare-earth-mineral-restrictions-white-house-saus/) (2025-11-02)
-- [Meta has an AI product problem ](https://techcrunch.com/2025/11/02/meta-has-an-ai-product-problem/) (2025-11-02)
-- [Elon Musk wants you to know that Sam Altman got a refund from Tesla](https://techcrunch.com/2025/11/01/elon-musk-wants-you-to-know-that-sam-altman-got-a-refund-for-his-tesla-roadster/) (2025-11-01)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [At the end you use Git bisect](https://kevin3010.github.io/git/2025/11/02/At-the-end-you-use-git-bisect.html) (2025-11-02)
-- [New South Korean national law will turn large parking lots into solar farms](https://electrek.co/2025/11/02/new-national-law-will-turn-large-parking-lots-into-solar-power-farms/) (2025-11-02)
-- ["Why don't you use dependent types?"](https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html) (2025-11-02)
-- [Writing FreeDOS Programs in C](https://www.freedos.org/books/cprogramming/) (2025-11-02)
-- [A prison of my own making](https://jsteuernagel.de/posts/a-prison-of-my-own-making/) (2025-11-02)
+- [Facts about throwing good parties](https://www.atvbt.com/21-facts-about-throwing-good-parties/) (2025-11-02)
+- [FurtherAI (Series A – A16Z, YC) Is Hiring Across Software and AI](https://news.ycombinator.com/item?id=45793652) (2025-11-02)
+- [Paris had a moving sidewalk in 1900, and a Thomas Edison film captured it (2020)](https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html) (2025-11-02)
+- [Alleged Jabber Zeus Coder 'MrICQ' in U.S. Custody](https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/) (2025-11-02)
+- [Amazon Rivian electric delivery vans arrive in Canada](https://cleantechnica.com/2025/10/30/rivian-electric-delivery-vans-arrive-in-canada/) (2025-11-02)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The best new movies to stream this week](https://www.theverge.com/entertainment/812193/the-best-new-movies-to-stream-this-week) (2025-11-03)
 - [You need to watch the found footage classic, Lake Mungo](https://www.theverge.com/column/812150/watch-the-found-footage-classic-horror-mokumentary-lake-mungo) (2025-11-02)
 - [Why the Zune never killed the iPod](https://www.theverge.com/podcast/811595/microsoft-zune-version-history) (2025-11-02)
 - [The perfect grocery list-making app doesn’t exist](https://www.theverge.com/tech/809152/grocery-list-app-paprika-better-meal-google-keep) (2025-11-02)
 - [The great tariff shakedown](https://www.theverge.com/column/811549/trump-tariff-shakedown) (2025-11-02)
-- [The best things to watch over and over and over](https://www.theverge.com/tech/811575/best-shows-rewatch-multiple-times-installer) (2025-11-02)
 
 </details>
 
@@ -97,23 +97,26 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Offline-First Kiosk: Lessons from the Field](https://dev.to/drvcodenta/offline-first-kiosk-lessons-from-the-field-86e) (2025-11-02)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-40b5) (2025-11-02)
-- [HacktoberFest: Return to Animation](https://dev.to/jarvisscript/hacktoberfest-return-to-animation-i1d) (2025-11-02)
-- [Mr Sunday Movies: Predator - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-caravan-of-garbage-22p9) (2025-11-02)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-2op4) (2025-11-02)
+- [The Surprising Twist Behind Alphabet’s Moonshot Spinouts (And What Every Innovator Gets Wrong)](https://dev.to/paul_allen_ccfde9d33a48d5/the-surprising-twist-behind-alphabets-moonshot-spinouts-and-what-every-innovator-gets-wrong-15l9) (2025-11-03)
+- [Infinite Worlds, Perfect Recall: AI's Leap in Simulated Reality](https://dev.to/arvind_sundararajan/infinite-worlds-perfect-recall-ais-leap-in-simulated-reality-1512) (2025-11-03)
+- [FG-CLIP 2: A Bilingual Fine-grained Vision-Language Alignment Model](https://dev.to/paperium/fg-clip-2-a-bilingual-fine-grained-vision-language-alignment-model-g9o) (2025-11-03)
+- [The Design Innovations of NopGraphQL: From API Protocol to a General-Purpose Information Operation Engine](https://dev.to/canonical/the-design-innovations-of-nopgraphql-from-api-protocol-to-a-general-purpose-information-operation-f5g) (2025-11-03)
+- [Code, community, and copilot. AI is changing the way we contribute](https://dev.to/mishmanners/code-community-and-copilot-ai-is-changing-the-way-we-contribute-2b3n) (2025-11-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I will be honest.](https://medium.com/@o.jesse1/i-will-be-honest-516079927660?source=rss------programming-5) (2025-11-02)
-- [C# is blazing fast so don’t worry.](https://medium.com/@cschrumm/c-is-blazing-fast-so-dont-worry-84e364acc5ce?source=rss------programming-5) (2025-11-02)
-- [The One LINQ Method You NEED for Cleaner EF Core: Select](https://medium.com/@michaelmaurice410/the-one-linq-method-you-need-for-cleaner-ef-core-select-a8155d1008b3?source=rss------programming-5) (2025-11-02)
-- [Building an Extremely Fast Caching Repository Using the Decorator Pattern in ASP.NET Core 9.](https://medium.com/@mariammaurice/building-an-extremely-fast-caching-repository-using-the-decorator-pattern-in-asp-net-core-9-947ff75dd920?source=rss------programming-5) (2025-11-02)
-- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@5alwkakskskns/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-c6de73659c1b?source=rss------programming-5) (2025-11-02)
+- [09010712940شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@nxnxncnckxxnxxnmxxnnxnxnz/09010712940%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-55f43f3250a9?source=rss------programming-5) (2025-11-03)
+- [09389632898شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@ngynmwzh/09389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-0e4777abf448?source=rss------programming-5) (2025-11-03)
+- [09010712940شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@nxnxncnckxxnxxnmxxnnxnxnz/09010712940%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-1b1b65c0712e?source=rss------programming-5) (2025-11-03)
+- [Understanding wordPattern — Why Two HashMaps Make It O(n)](https://medium.com/@dailywork8998/understanding-wordpattern-why-two-hashmaps-make-it-o-n-d32326c2079e?source=rss------programming-5) (2025-11-03)
+- [09389632898شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@ngynmwzh/09389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-2d7cb0b7e5ad?source=rss------programming-5) (2025-11-03)
 
 </details>
 
