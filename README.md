@@ -31,44 +31,44 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Oxy is Cloudflare's Rust-based next generation proxy framework (2023)](https://blog.cloudflare.com/introducing-oxy/) (2025-11-03)
-- [Syllabi – Open-source agentic AI with tools, RAG, and multi-channel deploy](https://www.syllabi-ai.com/) (2025-11-03)
-- [Simple trick to increase coverage: Lying to users about signal strength](https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/) (2025-11-03)
-- [I ****Ing Hate Science (2021)](https://buttondown.com/hillelwayne/archive/i-ing-hate-science/) (2025-11-02)
-- [New Prompt Injection Papers: Agents Rule of Two and the Attacker Moves Second](https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/) (2025-11-02)
+- [Working Past 100? In Japan, Some People Never Quit](https://www.nytimes.com/2025/11/01/world/asia/japan-work-job-retirement-centenarian.html) (2025-11-03)
+- [Update and shut down no longer restarts PC, 25H2 patch addresses decades-old bug](https://www.windowslatest.com/2025/11/02/update-and-shut-down-no-longer-restarts-pc-as-windows-11-25h2-patch-addresses-a-decades-old-bug/) (2025-11-03)
+- [Nvidia to invest up to $1B in AI startup Poolside](https://www.reuters.com/business/nvidia-invest-up-1-billion-ai-startup-poolside-bloomberg-news-reports-2025-10-30/) (2025-11-03)
+- [Tiny electric motor can produce more than 1,000 horsepower](https://supercarblondie.com/electric-motor-yasa-more-powerful-tesla-mercedes/) (2025-11-03)
+- [ECL Runs Maxima in a Browser](https://mailman3.common-lisp.net/hyperkitty/list/ecl-devel@common-lisp.net/thread/T64S5EMVV6WHDPKWZ3AQHEPO3EQE2K5M/) (2025-11-03)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Google pulls AI model after senator says it fabricated assault allegation](https://www.theverge.com/news/812376/google-removes-gemma-senator-blackburn-hallucination) (2025-11-03)
+- [Logitech’s latest keyboard dabbles in enthusiast features](https://www.theverge.com/tech/810124/logitech-alto-keys-k98m-mechanical-keyboard-price-specs-impressions) (2025-11-03)
 - [The best new movies to stream this week](https://www.theverge.com/entertainment/812193/the-best-new-movies-to-stream-this-week) (2025-11-03)
 - [You need to watch the found footage classic, Lake Mungo](https://www.theverge.com/column/812150/watch-the-found-footage-classic-horror-mokumentary-lake-mungo) (2025-11-02)
 - [Why the Zune never killed the iPod](https://www.theverge.com/podcast/811595/microsoft-zune-version-history) (2025-11-02)
-- [The perfect grocery list-making app doesn’t exist](https://www.theverge.com/tech/809152/grocery-list-app-paprika-better-meal-google-keep) (2025-11-02)
-- [The great tariff shakedown](https://www.theverge.com/column/811549/trump-tariff-shakedown) (2025-11-02)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Internet Archive’s legal fights are over, but its founder mourns what was lost](https://arstechnica.com/tech-policy/2025/11/the-internet-archive-survived-major-copyright-losses-whats-next/) (2025-11-03)
 - [Research roundup: 6 cool science stories we almost missed](https://arstechnica.com/science/2025/11/research-roundup-6-cool-science-stories-we-almost-missed-3/) (2025-11-01)
 - [Inside the marketplace for vaccine medical exemptions](https://arstechnica.com/health/2025/11/inside-the-marketplace-for-vaccine-medical-exemptions/) (2025-11-01)
 - [YouTube denies AI was involved with odd removals of tech tutorials](https://arstechnica.com/tech-policy/2025/10/youtube-denies-ai-was-involved-with-odd-removals-of-tech-tutorials/) (2025-11-01)
 - [Neural network finds an enzyme that can break down polyurethane](https://arstechnica.com/science/2025/10/polyurethane-is-the-latest-polymer-broken-down-by-designer-enzymes/) (2025-10-31)
-- [Cursor introduces its coding model alongside multi-agent interface](https://arstechnica.com/ai/2025/10/cursor-introduces-its-coding-model-alongside-multi-agent-interface/) (2025-10-31)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [This startup wants to clean up the copper industry](https://www.technologyreview.com/2025/11/03/1127474/copper-smelting-chemistry-clean/) (2025-11-03)
 - [Here’s the latest company planning for gene-edited babies](https://www.technologyreview.com/2025/10/31/1127461/heres-the-latest-company-planning-for-gene-edited-babies/) (2025-10-31)
 - [The Download: down the Mandela effect rabbit hole, and the promise of a vaccine for colds](https://www.technologyreview.com/2025/10/31/1127444/the-download-down-the-mandela-effect-rabbit-hole-and-the-promise-of-a-vaccine-for-colds/) (2025-10-31)
 - [Here’s why we don’t have a cold vaccine. Yet.](https://www.technologyreview.com/2025/10/31/1127408/heres-why-we-dont-have-a-cold-vaccine-yet/) (2025-10-31)
 - [The Download: Introducing the new conspiracy age](https://www.technologyreview.com/2025/10/30/1127327/the-download-introducing-the-new-conspiracy-age/) (2025-10-30)
-- [Leveraging the clinician’s expertise with agentic AI](https://www.technologyreview.com/2025/10/30/1125697/leveraging-the-clinicians-expertise-with-agentic-ai/) (2025-10-30)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Microfrontend architecture](https://dev.to/vinit_kotian_b31a215d8ae7/microfrontend-architecture-4ooj) (2025-11-03)
-- [Stay ahead in web development: latest news, tools, and insights #109](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-109-2844) (2025-11-03)
-- [99% of People Use AI Wrong — Here’s How I Actually Learn and Remember Faster](https://dev.to/nitinfab/99-of-people-use-ai-wrong-heres-how-i-actually-learn-and-remember-faster-5084) (2025-11-03)
-- [UI/UX Design Trends for 2026: What Every Designer Should Know](https://dev.to/pixel_mosaic/uiux-design-trends-for-2026-what-every-designer-should-know-4179) (2025-11-03)
-- [🎃 Quote.Vote Hacktoberfest 2025 — Building Civic Tech, One Pull Request at a Time](https://dev.to/quotevote/quotevote-hacktoberfest-2025-building-civic-tech-one-pull-request-at-a-time-43l1) (2025-11-03)
+- [Monitor, analyze, and manage capacity usage from a single interface with Amazon EC2 Capacity Manager](https://dev.to/latchudevops/monitor-analyze-and-manage-capacity-usage-from-a-single-interface-with-amazon-ec2-capacity-manager-27kl) (2025-11-03)
+- [My AI habit Tracker](https://dev.to/john_otienoh/my-ai-habit-tracker-1l8j) (2025-11-03)
+- [KT142C Chip – BUSY Pin Idle Voltage Only 0.2V? + Low Power Mode Configuration Guide](https://dev.to/ble-voice-cn/kt142c-chip-busy-pin-idle-voltage-only-02v-low-power-mode-configuration-guide-5f1g) (2025-11-03)
+- [Consciousness Emerges in Waves: Evidence from Scale-Dependent Resonance](https://dev.to/aureus_c_b3ba7f87cc34d74d49/consciousness-emerges-in-waves-evidence-from-scale-dependent-resonance-3cj) (2025-11-03)
+- [I built ARIA - Adaptive Resonant Intelligent Architecture](https://dev.to/aria_dontmindme/i-built-aria-adaptive-resonant-intelligent-architecture-1a9i) (2025-11-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [⚡ Git Like a Pro: 15 Commands That Instantly Level Up Your Dev Game](https://towardsdev.com/git-like-a-pro-15-commands-that-instantly-level-up-your-dev-game-84bd57561b38?source=rss------programming-5) (2025-11-03)
-- [The Odd JavaScript Quirk : Why ‘Hello’ + 1 + 2 Isn’t the Same as 1 + 2 + ‘Hello’](https://medium.com/@christophorusdryantoro/the-odd-javascript-quirk-why-hello-1-2-isn-t-the-same-as-1-2-hello-ac37265c25d3?source=rss------programming-5) (2025-11-03)
-- [ Stop Using Git Like a Beginner: 15 Pro Tricks Every Senior Dev Swears By](https://blog.stackademic.com/stop-using-git-like-a-beginner-15-pro-tricks-every-senior-dev-swears-by-7320a1beeaef?source=rss------programming-5) (2025-11-03)
-- [Stop using new Thread()! Master the Executor Framework](https://mammadyahya.medium.com/stop-using-new-thread-master-the-executor-framework-f8348d818cbb?source=rss------programming-5) (2025-11-03)
-- [Why 90% Fail This Angular Interview Question](https://codebybilal.medium.com/why-90-fail-this-angular-interview-question-8054b6b415dc?source=rss------programming-5) (2025-11-03)
+- [Tla software Pro – The Future of Fast USDT Transfers](https://medium.com/@hometaw32/tla-software-pro-the-future-of-fast-usdt-transfers-d77fd9534a15?source=rss------programming-5) (2025-11-03)
+- [Building a GraphQL API in Java with Spring Boot](https://medium.com/devdomain/building-a-graphql-api-in-java-with-spring-boot-6812f2a66742?source=rss------programming-5) (2025-11-03)
+- [I have a question: My safepl wallet holds $5000 , and I have the seed phrase :(cannon laptop few…](https://medium.com/@susanghandour48/i-have-a-question-my-safepl-wallet-holds-5000-and-i-have-the-seed-phrase-cannon-laptop-few-368921ea0cc9?source=rss------programming-5) (2025-11-03)
+- [ Monitoring Oracle Scheduler Jobs — Checking Last, Current, and Next Run Times](https://medium.com/@pranavsb699/monitoring-oracle-scheduler-jobs-checking-last-current-and-next-run-times-57668f5350e0?source=rss------programming-5) (2025-11-03)
+- [C# Value Types vs Reference Types — Differences, Performance, and Memory Usage Explained](https://medium.com/@afigjabbarli.tech/c-value-types-vs-reference-types-differences-performance-and-memory-usage-explained-b5a824ecfeb2?source=rss------programming-5) (2025-11-03)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [GitHub Universe 2025: Where developer innovation took center stage](https://azure.microsoft.com/en-us/blog/github-universe-2025-where-developer-innovation-took-center-stage/) (2025-10-30)
+- [Building the future together: Microsoft and NVIDIA announce AI advancements at GTC DC](https://azure.microsoft.com/en-us/blog/building-the-future-together-microsoft-and-nvidia-announce-ai-advancements-at-gtc-dc/) (2025-10-28)
+- [Introducing Agent HQ: Any agent, any way you work](https://github.blog/news-insights/company-news/welcome-home-agents/?utm_source=MSFT-day1-blog&utm_medium=social&utm_campaign=universe25) (2025-10-28)
 - [Fully managed cloud-to-cloud transfers with Azure Storage Mover](https://azure.microsoft.com/en-us/blog/fully-managed-cloud-to-cloud-transfers-with-azure-storage-mover/) (2025-10-23)
 - [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2025-10-22)
-- [The Signals Loop: Fine-tuning for world-class AI apps and agents ](https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/) (2025-10-21)
-- [Innovation spotlight: How 3 customers are driving change with migration to Azure SQL](https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/) (2025-10-20)
-- [From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available](https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/) (2025-10-16)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [IntelliJ Platform 2025.3: What Plugin Developers Should Know](https://blog.jetbrains.com/platform/2025/11/intellij-platform-2025-3-what-plugin-developers-should-know/) (2025-11-03)
+- [Why Trust Leads and Speed Follows in Agentic Design](https://blog.jetbrains.com/ai/2025/11/why-trust-leads-and-speed-follows-in-agentic-design/) (2025-11-03)
 - [[Livestream recording] Maximizing TeamCity: New Features in Action and a Look Ahead](https://blog.jetbrains.com/teamcity/2025/10/livestream-recording-maximizing-teamcity/) (2025-10-30)
 - [Grazie’s Next Step: Built-In Language Intelligence for Your IDE](https://blog.jetbrains.com/grazie/2025/10/grazie-s-next-step-built-in-language-intelligence-for-your-ide/) (2025-10-30)
 - [JetBrains Becomes Cloud9’s Official AI-Powered Coding Partner](https://blog.jetbrains.com/blog/2025/10/29/jetbrains-becomes-cloud9s-official-ai-powered-coding-partner/) (2025-10-29)
-- [Simplifying Distributed Systems: Jason Taylor Shows How .NET Aspire Makes the Complex Feel Effortless](https://blog.jetbrains.com/dotnet/2025/10/29/simplifying-distributed-systems-dotnet-aspire-jason-taylor/) (2025-10-29)
-- [The MPS 2025.3 Early Access Program Has Started](https://blog.jetbrains.com/mps/2025/10/the-mps-2025-3-eap-has-started/) (2025-10-29)
 
 </details>
 
@@ -559,11 +559,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update
 <details>
 <summary>🤖 AI News</summary>
 
+- [From ambition to accountability: Quantifying AI ROI in strategy](https://www.artificialintelligence-news.com/news/quantifying-ai-roi-leading-resolutions/) (2025-11-03)
+- [DevOps for AI: Continuous deployment pipelines for machine learning systems](https://www.artificialintelligence-news.com/news/devops-for-ai-continuous-deployment-pipelines-for-machine-learning-systems/) (2025-11-03)
+- [NVIDIA and South Korea align on sovereign AI at APEC CEO Summit](https://www.artificialintelligence-news.com/news/nvidia-and-south-korea-align-on-sovereign-ai-at-apec-summit/) (2025-11-03)
+- [Qualcomm unveils AI data centre chips to crack the Inference market](https://www.artificialintelligence-news.com/news/qualcomm-ai-data-centre-chips-ai200-ai250/) (2025-11-03)
 - [How LeapXpert uses AI to bring order and oversight to business messaging](https://www.artificialintelligence-news.com/news/how-leapxpert-uses-ai-to-bring-order-and-oversight-to-business-messaging/) (2025-10-31)
-- [How Lumana is redefining AI’s role in video surveillance](https://www.artificialintelligence-news.com/news/how-lumana-is-redefining-ais-role-in-video-surveillance/) (2025-10-31)
-- [Bending Spoons’ acquisition of AOL shows the value of legacy platforms](https://www.artificialintelligence-news.com/news/bending-spoons-acquisition-of-aol-shows-the-value-of-legacy-platforms/) (2025-10-30)
-- [Thailand becomes one of the first in Asia to get the Sora app](https://www.artificialintelligence-news.com/news/thailand-becomes-one-of-the-first-in-asia-to-get-the-sora-app/) (2025-10-30)
-- [Inside Samsung’s semiconductor recovery: How AI demand reversed four quarters of decline](https://www.artificialintelligence-news.com/news/samsung-semiconductor-recovery-q3-2025/) (2025-10-30)
 
 </details>
 
@@ -603,11 +603,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [7 Prompt Engineering Tricks to Mitigate Hallucinations in LLMs](https://machinelearningmastery.com/7-prompt-engineering-tricks-to-mitigate-hallucinations-in-llms/) (2025-11-03)
 - [7 Machine Learning Projects to Land Your Dream Job in 2026](https://machinelearningmastery.com/7-machine-learning-projects-to-land-your-dream-job-in-2026/) (2025-10-30)
 - [7 Advanced Feature Engineering Tricks for Text Data Using LLM Embeddings](https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-for-text-data-using-llm-embeddings/) (2025-10-29)
 - [The Complete Guide to Model Context Protocol](https://machinelearningmastery.com/the-complete-guide-to-model-context-protocol/) (2025-10-28)
 - [10 Python One-Liners for Generating Time Series Features](https://machinelearningmastery.com/10-python-one-liners-for-generating-time-series-features/) (2025-10-27)
-- [The Complete Guide to Pydantic for Python Developers](https://machinelearningmastery.com/the-complete-guide-to-pydantic-for-python-developers/) (2025-10-24)
 
 </details>
 
