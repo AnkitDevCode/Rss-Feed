@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Facebook Groups can now go public without exposing members’ private posts](https://techcrunch.com/2025/11/03/facebook-groups-can-now-go-public-without-exposing-members-private-posts/) (2025-11-03)
-- [Chrome can now autofill your passport, driver’s license, and vehicle registration info](https://techcrunch.com/2025/11/03/chrome-can-now-autofill-your-passport-drivers-license-and-vehicle-registration-info/) (2025-11-03)
-- [Dia’s AI browser starts adding Arc’s ‘greatest hits’ to its feature set](https://techcrunch.com/2025/11/03/dias-ai-browser-starts-adding-arcs-greatest-hits-to-its-feature-set/) (2025-11-03)
-- [Pine Labs aims to take Indian fintech global even as it cuts valuation for IPO](https://techcrunch.com/2025/11/03/pine-labs-aims-to-take-indian-fintech-global-even-as-it-cuts-valuation-for-ipo/) (2025-11-03)
-- [TikTok announces its first awards show in the US](https://techcrunch.com/2025/11/03/tiktok-announces-its-first-awards-show-in-the-us/) (2025-11-03)
+- [a16z pauses its famed TxO Fund for underserved founders, lays off staff](https://techcrunch.com/2025/11/03/a16z-pauses-its-famed-txo-fund-for-underserved-founders-lays-off-staff/) (2025-11-04)
+- [Elad Gil on which AI markets have winners — and which are still wide open](https://techcrunch.com/2025/11/03/elad-gil-on-which-ai-markets-have-winners-and-which-are-still-wide-open/) (2025-11-03)
+- [Lawmakers say stolen police logins are exposing Flock surveillance cameras to hackers](https://techcrunch.com/2025/11/03/lawmakers-say-stolen-police-logins-are-exposing-flock-surveillance-cameras-to-hackers/) (2025-11-03)
+- [Studio Ghibli and other Japanese publishers want OpenAI to stop training on their work](https://techcrunch.com/2025/11/03/studio-ghibli-and-other-japanese-publishers-want-openai-to-stop-training-on-their-work/) (2025-11-03)
+- [Locket’s social app is picking up steam with Gen Alpha](https://techcrunch.com/2025/11/03/lockets-social-app-is-picking-up-steam-with-gen-alpha/) (2025-11-03)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Case That A.I. Is Thinking](https://www.newyorker.com/magazine/2025/11/10/the-case-that-ai-is-thinking) (2025-11-03)
-- [No Socials November](https://bjhess.com/posts/no-socials-november) (2025-11-03)
-- [Python Steering Council unanimously accepts "PEP 810, Explicit lazy imports"](https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131?page=23) (2025-11-03)
-- [Why We Migrated from Python to Node.js](https://blog.yakkomajuri.com/blog/python-to-node) (2025-11-03)
-- [Learning to read Arthur Whitney's C to become smart (2024)](https://needleful.net/blog/2024/01/arthur_whitney.html) (2025-11-03)
+- [Things you can do with diodes](https://lcamtuf.substack.com/p/things-you-can-do-with-diodes) (2025-11-03)
+- [A Friendly Tour of Process Memory on Linux](https://www.0xkato.xyz/linux-process-memory/) (2025-11-03)
+- [Linkers: A 20 Part Series (2007)](https://www.airs.com/blog/archives/38) (2025-11-03)
+- [Guideline has been acquired by Gusto](https://help.guideline.com/en/articles/12694322-guideline-has-joined-gusto-faqs-about-our-recent-acquisition) (2025-11-03)
+- [AI's Dial-Up Era](https://www.wreflection.com/p/ai-dial-up-era) (2025-11-03)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Studio Ghibli, Bandai Namco, Square Enix demand OpenAI stop using their content to train AI](https://www.theverge.com/news/812545/coda-studio-ghibli-sora-2-copyright-infringement) (2025-11-03)
-- [Coca-Cola&#8217;s new AI holiday ad is a sloppy eyesore](https://www.theverge.com/news/812559/coca-cola-ai-holiday-christmas-commercial-2025) (2025-11-03)
-- [The AI industry is running on FOMO](https://www.theverge.com/ai-artificial-intelligence/812455/ai-industry-earnings-bubble-fomo-hype) (2025-11-03)
-- [The Apple Watch SE 3 is on sale for a record low price of $199](https://www.theverge.com/tech/812446/apple-watch-se-3-amazon-fire-tablet-hd-10-deal-sale) (2025-11-03)
-- [Waymo’s robotaxis are coming to three new cities](https://www.theverge.com/transportation/812440/waymo-san-diego-las-vegas-detroit-robotaxi-launch) (2025-11-03)
+- [I tested 30 smart locks, and these are the best](https://www.theverge.com/23393163/best-smart-door-lock) (2025-11-03)
+- [No, ChatGPT hasn&#8217;t added a ban on giving legal and health advice](https://www.theverge.com/news/812848/chatgpt-legal-medical-advice-rumor) (2025-11-03)
+- [iOS 26.1 lets you tweak Liquid Glass, and it&#8217;s out now](https://www.theverge.com/news/812375/apple-iphone-ios-26-1-update-availability) (2025-11-03)
+- [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals) (2025-11-03)
+- [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple) (2025-11-03)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [OpenAI signs massive AI compute deal with Amazon](https://arstechnica.com/ai/2025/11/openai-signs-massive-ai-compute-deal-with-amazon/) (2025-11-03)
-- [Capitol Hill is abuzz with talk of the “Athena” plan for NASA](https://arstechnica.com/space/2025/11/capitol-hill-is-abuzz-with-talk-of-the-athena-plan-for-nasa/) (2025-11-03)
-- [Disruption to science will last longer than the US government shutdown](https://arstechnica.com/science/2025/11/disruption-to-science-will-last-longer-than-the-us-government-shutdown/) (2025-11-03)
-- [Internet Archive’s legal fights are over, but its founder mourns what was lost](https://arstechnica.com/tech-policy/2025/11/the-internet-archive-survived-major-copyright-losses-whats-next/) (2025-11-03)
-- [Research roundup: 6 cool science stories we almost missed](https://arstechnica.com/science/2025/11/research-roundup-6-cool-science-stories-we-almost-missed-3/) (2025-11-01)
+- [A commercial space station startup now has a foothold in space](https://arstechnica.com/space/2025/11/a-commercial-space-station-startup-now-has-a-foothold-in-space/) (2025-11-03)
+- [Real humans don’t stream Drake songs 23 hours a day, rapper suing Spotify says](https://arstechnica.com/tech-policy/2025/11/real-humans-dont-stream-drake-songs-23-hours-a-day-rapper-suing-spotify-says/) (2025-11-03)
+- [After confusing driver release, AMD says old GPUs are still actively supported](https://arstechnica.com/gadgets/2025/11/amd-says-that-its-not-pulling-driver-support-for-older-radeon-gpus-afterall/) (2025-11-03)
+- [LLMs show a “highly unreliable” capacity to describe their own internal processes](https://arstechnica.com/ai/2025/11/llms-show-a-highly-unreliable-capacity-to-describe-their-own-internal-processes/) (2025-11-03)
+- [Trump on why he pardoned Binance CEO: “Are you ready? I don’t know who he is.”](https://arstechnica.com/tech-policy/2025/11/trump-on-why-he-pardoned-binance-ceo-are-you-ready-i-dont-know-who-he-is/) (2025-11-03)
 
 </details>
 
@@ -97,24 +97,25 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Git LFS: The Developer’s Solution to Large File Chaos](https://dev.to/rijultp/git-lfs-the-developers-solution-to-large-file-chaos-kma) (2025-11-03)
-- [Cracking the Cube: How Competitive Rubik’s Cube Algorithms Inspire Modern AI and Programming](https://dev.to/gowtham_e9296cf2c1012d9c0/cracking-the-cube-how-competitive-rubiks-cube-algorithms-inspire-modern-ai-and-programming-3m2e) (2025-11-03)
-- [HNG Internship Stage 1: String Analyzer API](https://dev.to/abisoyeo/hng-internship-stage-1-string-analyzer-api-286) (2025-11-03)
-- [Building AI Co-workers That Actually Think With You](https://dev.to/abisoyeo/building-ai-co-workers-that-actually-think-with-you-bee) (2025-11-03)
-- [Show & Tell: go-docx v2.0.0 - Create & modify Word documents in Go](https://dev.to/mmonterroca_8/show-tell-go-docx-v200-create-modify-word-documents-in-go-4ekh) (2025-11-03)
+- [Mastering Web Internationalization](https://dev.to/xfq/mastering-web-internationalization-i7m) (2025-11-04)
+- [My First Experience as a Speaker at AWS Community Day](https://dev.to/danielcristho/my-first-experience-as-a-speaker-at-aws-community-day-2ki3) (2025-11-04)
+- [Building an AI-Powered E-Shopping Platform with Intelligent Product Recommendations](https://dev.to/exploredataaiml/building-an-ai-powered-e-shopping-platform-with-intelligent-product-recommendations-2hp8) (2025-11-04)
+- [TypeScript Backend Toolkit V2 - the Express stack that writes its own docs, SDK, and admin UI while you code](https://dev.to/themuneebh/typescript-backend-toolkit-v2-the-express-stack-that-writes-its-own-docs-sdk-and-admin-ui-while-2lp5) (2025-11-04)
+- [The True Cost of AI Integrations: Comparing Performance and Pricing Models for C# Libraries](https://dev.to/lofcz/the-true-cost-of-ai-integrations-comparing-performance-and-pricing-models-for-c-libraries-4fg4) (2025-11-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [⚛️ React Tips That Save Time (and Sanity) — For Every Developer Tired of Rewriting the Same Code](https://medium.com/@blogstacker20/%EF%B8%8F-react-tips-that-save-time-and-sanity-for-every-developer-tired-of-rewriting-the-same-code-f04fa5461ee7?source=rss------programming-5) (2025-11-03)
-- [How to Build Smarter AI with PyTorch Lightning](https://medium.com/@bushrazaheer424/how-to-build-smarter-ai-with-pytorch-lightning-84a13bba2e55?source=rss------programming-5) (2025-11-03)
-- [5 Powerful Flutter Packages You Should Try in 2025](https://medium.com/@shalu023/5-powerful-flutter-packages-you-should-try-in-2025-72296187634d?source=rss------programming-5) (2025-11-03)
-- [09055770486شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dqdjksjdhd/09055770486%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-3b2b954a2d8f?source=rss------programming-5) (2025-11-03)
-- [09055770486شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dqdjksjdhd/09055770486%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e8c44a3449de?source=rss------programming-5) (2025-11-03)
+- [09010712940شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@eoieshshsdhdhdhdjdieiejdhsjsij/09010712940%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-d7a545bbf515?source=rss------programming-5) (2025-11-04)
+- [09010712940شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@eoieshshsdhdhdhdjdieiejdhsjsij/09010712940%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-fbdd9b0a79ef?source=rss------programming-5) (2025-11-04)
+- [Game dev list to complete pac man horror game](https://medium.com/@malachisallie351/game-dev-list-to-complete-pac-man-horror-game-c00c9ba1dc06?source=rss------programming-5) (2025-11-04)
+- [09010712940شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@eoieshshsdhdhdhdjdieiejdhsjsij/09010712940%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-3b8fb573d896?source=rss------programming-5) (2025-11-04)
+- [The Bridge Between You and Your Dreams](https://medium.com/@fsxwdr/the-bridge-between-you-and-your-dreams-17c2df1df8d6?source=rss------programming-5) (2025-11-04)
 
 </details>
 
@@ -419,10 +420,10 @@ https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update
 <summary>🪐 PlanetScale Blog</summary>
 
 - [$50 PlanetScale Metal](https://planetscale.com/blog/50-dollar-planetscale-metal) (2025-11-03)
+- [Report on our investigation of the 2025-10-20 incident in AWS us-east-1](https://planetscale.com/blog/aws-us-east-1-incident-2025-10-20) (2025-11-03)
 - [$5 PlanetScale](https://planetscale.com/blog/5-dollar-planetscale) (2025-10-30)
 - [Benchmarking Postgres 17 vs 18](https://planetscale.com/blog/benchmarking-postgres-17-vs-18) (2025-10-14)
 - [Larger than RAM Vector Indexes for Relational Databases](https://planetscale.com/blog/larger-than-ram-vector-indexes-for-relational-databases) (2025-10-01)
-- [Partnering with Cloudflare to bring you the fastest globally distributed applications](https://planetscale.com/blog/partnering-with-cloudflare-fastest-applications) (2025-09-24)
 
 </details>
 
@@ -572,11 +573,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [It Doesn’t Need to Be a Chatbot](https://towardsdatascience.com/it-doesnt-need-to-be-a-chatbot/) (2025-11-04)
+- [How to Apply Vision Language Models to Long Documents](https://towardsdatascience.com/how-to-apply-vision-language-models-to-long-documents/) (2025-11-03)
+- [Does AI Need to Be Conscious to Care?](https://towardsdatascience.com/does-ai-need-to-be-conscious-to-care/) (2025-11-03)
+- [Building a Multimodal RAG That Responds with Text, Images, and Tables from Sources](https://towardsdatascience.com/building-a-multimodal-rag-with-text-images-tables-from-sources-in-response/) (2025-11-03)
 - [From Classical Models to AI: Forecasting Humidity for Energy and Water Efficiency in Data Centers](https://towardsdatascience.com/from-classical-models-to-ai-forecasting-humidity-for-energy-and-water-efficiency-in-data-centers-2/) (2025-11-02)
-- [MobileNetV3 Paper Walkthrough: The Tiny Giant Getting Even Smarter](https://towardsdatascience.com/mobilenetv3-paper-walkthrough-the-tiny-giant-getting-even-smarter/) (2025-11-02)
-- [The Pearson Correlation Coefficient, Explained Simply](https://towardsdatascience.com/pearson-correlation-coefficient-explained-simply/) (2025-11-01)
-- [Graph RAG vs SQL RAG](https://towardsdatascience.com/graph-rag-vs-sql-rag/) (2025-11-01)
-- [Let Hypothesis Break Your Python Code Before Your Users Do](https://towardsdatascience.com/let-hypothesis-break-your-python-code-before-your-users-do/) (2025-10-31)
 
 </details>
 
