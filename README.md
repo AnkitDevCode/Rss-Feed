@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Wait, people actually use Facebook Dating?](https://techcrunch.com/2025/11/03/wait-people-actually-use-facebook-dating/) (2025-11-04)
 - [a16z pauses its famed TxO Fund for underserved founders, lays off staff](https://techcrunch.com/2025/11/03/a16z-pauses-its-famed-txo-fund-for-underserved-founders-lays-off-staff/) (2025-11-04)
 - [Elad Gil on which AI markets have winners — and which are still wide open](https://techcrunch.com/2025/11/03/elad-gil-on-which-ai-markets-have-winners-and-which-are-still-wide-open/) (2025-11-03)
 - [Lawmakers say stolen police logins are exposing Flock surveillance cameras to hackers](https://techcrunch.com/2025/11/03/lawmakers-say-stolen-police-logins-are-exposing-flock-surveillance-cameras-to-hackers/) (2025-11-03)
 - [Studio Ghibli and other Japanese publishers want OpenAI to stop training on their work](https://techcrunch.com/2025/11/03/studio-ghibli-and-other-japanese-publishers-want-openai-to-stop-training-on-their-work/) (2025-11-03)
-- [Locket’s social app is picking up steam with Gen Alpha](https://techcrunch.com/2025/11/03/lockets-social-app-is-picking-up-steam-with-gen-alpha/) (2025-11-03)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Things you can do with diodes](https://lcamtuf.substack.com/p/things-you-can-do-with-diodes) (2025-11-03)
-- [A Friendly Tour of Process Memory on Linux](https://www.0xkato.xyz/linux-process-memory/) (2025-11-03)
-- [Linkers: A 20 Part Series (2007)](https://www.airs.com/blog/archives/38) (2025-11-03)
-- [Guideline has been acquired by Gusto](https://help.guideline.com/en/articles/12694322-guideline-has-joined-gusto-faqs-about-our-recent-acquisition) (2025-11-03)
-- [AI's Dial-Up Era](https://www.wreflection.com/p/ai-dial-up-era) (2025-11-03)
+- [Tell HN: X is opening any tweet link in a webview whether you press it or not](https://news.ycombinator.com/item?id=45807775) (2025-11-04)
+- [Why AC is cheap, but AC repair is a luxury](https://a16z.substack.com/p/why-ac-is-cheap-but-ac-repair-is) (2025-11-04)
+- [An individual can change an organization](https://notes.eatonphil.com/2025-11-03-an-individual-can-change-an-organization.html) (2025-11-04)
+- [My Truck Desk](https://www.theparisreview.org/blog/2025/10/29/truck-desk/) (2025-11-04)
+- [When stick figures fought](https://animationobsessive.substack.com/p/when-stick-figures-fought) (2025-11-04)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Apple releases iOS 26.1, macOS 26.1, other updates with Liquid Glass controls and more](https://arstechnica.com/gadgets/2025/11/apple-releases-ios-26-1-macos-26-1-other-updates-with-liquid-glass-controls-and-more/) (2025-11-04)
 - [A commercial space station startup now has a foothold in space](https://arstechnica.com/space/2025/11/a-commercial-space-station-startup-now-has-a-foothold-in-space/) (2025-11-03)
 - [Real humans don’t stream Drake songs 23 hours a day, rapper suing Spotify says](https://arstechnica.com/tech-policy/2025/11/real-humans-dont-stream-drake-songs-23-hours-a-day-rapper-suing-spotify-says/) (2025-11-03)
 - [After confusing driver release, AMD says old GPUs are still actively supported](https://arstechnica.com/gadgets/2025/11/amd-says-that-its-not-pulling-driver-support-for-older-radeon-gpus-afterall/) (2025-11-03)
 - [LLMs show a “highly unreliable” capacity to describe their own internal processes](https://arstechnica.com/ai/2025/11/llms-show-a-highly-unreliable-capacity-to-describe-their-own-internal-processes/) (2025-11-03)
-- [Trump on why he pardoned Binance CEO: “Are you ready? I don’t know who he is.”](https://arstechnica.com/tech-policy/2025/11/trump-on-why-he-pardoned-binance-ceo-are-you-ready-i-dont-know-who-he-is/) (2025-11-03)
 
 </details>
 
@@ -86,36 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [To write secure code, be less gullible than your AI](https://stackoverflow.blog/2025/11/04/to-write-secure-code-be-less-gullible-than-your-ai/) (2025-11-04)
 - [What’s new at Stack Overflow: November 2025](https://stackoverflow.blog/2025/11/03/what-s-new-at-stack-overflow-november-2025/) (2025-11-03)
 - [Vibe coding needs a spec, too](https://stackoverflow.blog/2025/10/31/vibe-coding-needs-a-spec-too/) (2025-10-31)
 - [Live from the OpenAI forum: Learning to code in the age of AI](https://stackoverflow.blog/2025/10/30/live-from-the-openai-forum-learning-to-code-in-the-age-of-ai/) (2025-10-30)
 - [Craft and quality beat speed and scale, with or without agents](https://stackoverflow.blog/2025/10/28/craft-and-quality-beat-speed-and-scale-with-or-without-agents/) (2025-10-28)
-- [AI agents will succeed because one tool is better than ten](https://stackoverflow.blog/2025/10/27/ai-agents-will-succeed-because-one-tool-is-better-than-ten/) (2025-10-27)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Mastering Web Internationalization](https://dev.to/xfq/mastering-web-internationalization-i7m) (2025-11-04)
-- [My First Experience as a Speaker at AWS Community Day](https://dev.to/danielcristho/my-first-experience-as-a-speaker-at-aws-community-day-2ki3) (2025-11-04)
-- [Building an AI-Powered E-Shopping Platform with Intelligent Product Recommendations](https://dev.to/exploredataaiml/building-an-ai-powered-e-shopping-platform-with-intelligent-product-recommendations-2hp8) (2025-11-04)
-- [TypeScript Backend Toolkit V2 - the Express stack that writes its own docs, SDK, and admin UI while you code](https://dev.to/themuneebh/typescript-backend-toolkit-v2-the-express-stack-that-writes-its-own-docs-sdk-and-admin-ui-while-2lp5) (2025-11-04)
-- [The True Cost of AI Integrations: Comparing Performance and Pricing Models for C# Libraries](https://dev.to/lofcz/the-true-cost-of-ai-integrations-comparing-performance-and-pricing-models-for-c-libraries-4fg4) (2025-11-04)
+- [Unlocking Developer Revenue: The Future of AI Monetization with Monetzly](https://dev.to/monetzly/unlocking-developer-revenue-the-future-of-ai-monetization-with-monetzly-3l80) (2025-11-04)
+- [3 State Management Mistakes I Wish I Knew Earlier — By Bayajit Islam](https://dev.to/bayajitislam/3-state-management-mistakes-i-wish-i-knew-earlier-by-bayajit-islam-4gp3) (2025-11-04)
+- [🦇 Spooky Night — Halloween CSS Art 🌙✨](https://dev.to/dmsmenula/spooky-night-halloween-css-art-4h0n) (2025-11-04)
+- [The Software Development Journey](https://dev.to/jedaqsaul/the-software-development-journey-2g6j) (2025-11-04)
+- [💾 Custom "Save as Draft Without Validation" Button with Auto-Redirect in Joget Forms](https://dev.to/exploringmylifeworks/custom-save-as-draft-without-validation-button-with-auto-redirect-in-joget-forms-1839) (2025-11-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09010712940شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@eoieshshsdhdhdhdjdieiejdhsjsij/09010712940%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-d7a545bbf515?source=rss------programming-5) (2025-11-04)
-- [09010712940شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@eoieshshsdhdhdhdjdieiejdhsjsij/09010712940%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-fbdd9b0a79ef?source=rss------programming-5) (2025-11-04)
-- [Game dev list to complete pac man horror game](https://medium.com/@malachisallie351/game-dev-list-to-complete-pac-man-horror-game-c00c9ba1dc06?source=rss------programming-5) (2025-11-04)
-- [09010712940شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@eoieshshsdhdhdhdjdieiejdhsjsij/09010712940%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-3b8fb573d896?source=rss------programming-5) (2025-11-04)
-- [The Bridge Between You and Your Dreams](https://medium.com/@fsxwdr/the-bridge-between-you-and-your-dreams-17c2df1df8d6?source=rss------programming-5) (2025-11-04)
+- [ Memahami Looping di PHP dengan Mudah](https://medium.com/@autolose366/memahami-looping-di-php-dengan-mudah-ce4112bdfa1f?source=rss------programming-5) (2025-11-04)
+- [Angular Interview Questions No One Prepares For](https://codebybilal.medium.com/angular-interview-questions-no-one-prepares-for-f20885c06510?source=rss------programming-5) (2025-11-04)
+- [Testing Double Booking at Scale — How QA Ensures Reservation Consistency on High Traffic Systems](https://medium.com/@niarsdet/testing-double-booking-at-scale-how-qa-ensures-reservation-consistency-on-high-traffic-systems-77580d94049c?source=rss------programming-5) (2025-11-04)
+- [ Looping di PHP: Pengertian, Jenis, dan Contohnya](https://medium.com/@autolose366/looping-di-php-pengertian-jenis-dan-contohnya-fa9a3720eca5?source=rss------programming-5) (2025-11-04)
+- [15 Modern CSS + JavaScript Combos Every Developer Should Master](https://medium.com/@theabhishek.040/15-modern-css-javascript-combos-every-developer-should-master-38d68b94f7cd?source=rss------programming-5) (2025-11-04)
 
 </details>
 
@@ -133,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [GitHub Universe 2025: Where developer innovation took center stage](https://azure.microsoft.com/en-us/blog/github-universe-2025-where-developer-innovation-took-center-stage/) (2025-10-30)
+- [Building the future together: Microsoft and NVIDIA announce AI advancements at GTC DC](https://azure.microsoft.com/en-us/blog/building-the-future-together-microsoft-and-nvidia-announce-ai-advancements-at-gtc-dc/) (2025-10-28)
+- [Introducing Agent HQ: Any agent, any way you work](https://github.blog/news-insights/company-news/welcome-home-agents/?utm_source=MSFT-day1-blog&utm_medium=social&utm_campaign=universe25) (2025-10-28)
 - [Fully managed cloud-to-cloud transfers with Azure Storage Mover](https://azure.microsoft.com/en-us/blog/fully-managed-cloud-to-cloud-transfers-with-azure-storage-mover/) (2025-10-23)
 - [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2025-10-22)
-- [The Signals Loop: Fine-tuning for world-class AI apps and agents ](https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/) (2025-10-21)
-- [Innovation spotlight: How 3 customers are driving change with migration to Azure SQL](https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/) (2025-10-20)
-- [From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available](https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/) (2025-10-16)
 
 </details>
 
