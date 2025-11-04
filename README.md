@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [iOS 26.1 lets you turn down liquid glass’ transparency](https://techcrunch.com/2025/11/04/ios-26-1-lets-you-turn-down-liquid-glass-transparency/) (2025-11-04)
 - [Wait, people actually use Facebook Dating?](https://techcrunch.com/2025/11/03/wait-people-actually-use-facebook-dating/) (2025-11-04)
 - [a16z pauses its famed TxO Fund for underserved founders, lays off staff](https://techcrunch.com/2025/11/03/a16z-pauses-its-famed-txo-fund-for-underserved-founders-lays-off-staff/) (2025-11-04)
 - [Elad Gil on which AI markets have winners — and which are still wide open](https://techcrunch.com/2025/11/03/elad-gil-on-which-ai-markets-have-winners-and-which-are-still-wide-open/) (2025-11-03)
 - [Lawmakers say stolen police logins are exposing Flock surveillance cameras to hackers](https://techcrunch.com/2025/11/03/lawmakers-say-stolen-police-logins-are-exposing-flock-surveillance-cameras-to-hackers/) (2025-11-03)
-- [Studio Ghibli and other Japanese publishers want OpenAI to stop training on their work](https://techcrunch.com/2025/11/03/studio-ghibli-and-other-japanese-publishers-want-openai-to-stop-training-on-their-work/) (2025-11-03)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Tell HN: X is opening any tweet link in a webview whether you press it or not](https://news.ycombinator.com/item?id=45807775) (2025-11-04)
-- [Why AC is cheap, but AC repair is a luxury](https://a16z.substack.com/p/why-ac-is-cheap-but-ac-repair-is) (2025-11-04)
-- [An individual can change an organization](https://notes.eatonphil.com/2025-11-03-an-individual-can-change-an-organization.html) (2025-11-04)
-- [My Truck Desk](https://www.theparisreview.org/blog/2025/10/29/truck-desk/) (2025-11-04)
-- [When stick figures fought](https://animationobsessive.substack.com/p/when-stick-figures-fought) (2025-11-04)
+- [This Month in Ladybird – October 2025](https://ladybird.org/newsletter/2025-10-31/) (2025-11-04)
+- [Studio Ghibli, Bandai Namco, Square Enix Demand OpenAI to Stop Using Their IP](https://www.theverge.com/news/812545/coda-studio-ghibli-sora-2-copyright-infringement) (2025-11-04)
+- [Over $70T of inherited wealth over next decade will widen inequality, economists](https://www.theguardian.com/inequality/2025/nov/03/more-than-70tn-of-inherited-wealth-over-next-decade-will-widen-inequality-economists-warn) (2025-11-04)
+- [What Is a Manifold?](https://www.quantamagazine.org/what-is-a-manifold-20251103/) (2025-11-04)
+- [Bloom filters are good for search that does not scale](https://notpeerreviewed.com/blog/bloom-filters/) (2025-11-04)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [How a bunch of hackers freed the Kinect from the Xbox](https://www.theverge.com/tech/812803/hacking-kinect-history) (2025-11-04)
+- [Nintendo is raising its Switch 2 sales expectations](https://www.theverge.com/news/813025/nintendo-switch-2-sales-september-2025-earnings) (2025-11-04)
 - [I tested 30 smart locks, and these are the best](https://www.theverge.com/23393163/best-smart-door-lock) (2025-11-03)
 - [No, ChatGPT hasn&#8217;t added a ban on giving legal and health advice](https://www.theverge.com/news/812848/chatgpt-legal-medical-advice-rumor) (2025-11-03)
 - [iOS 26.1 lets you tweak Liquid Glass, and it&#8217;s out now](https://www.theverge.com/news/812375/apple-iphone-ios-26-1-update-availability) (2025-11-03)
-- [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals) (2025-11-03)
-- [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple) (2025-11-03)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Dune driving with Mercedes-Benz as it tests off-road systems](https://arstechnica.com/cars/2025/11/dune-driving-with-mercedes-benz-as-it-tests-off-road-systems/) (2025-11-04)
 - [Apple releases iOS 26.1, macOS 26.1, other updates with Liquid Glass controls and more](https://arstechnica.com/gadgets/2025/11/apple-releases-ios-26-1-macos-26-1-other-updates-with-liquid-glass-controls-and-more/) (2025-11-04)
 - [A commercial space station startup now has a foothold in space](https://arstechnica.com/space/2025/11/a-commercial-space-station-startup-now-has-a-foothold-in-space/) (2025-11-03)
 - [Real humans don’t stream Drake songs 23 hours a day, rapper suing Spotify says](https://arstechnica.com/tech-policy/2025/11/real-humans-dont-stream-drake-songs-23-hours-a-day-rapper-suing-spotify-says/) (2025-11-03)
 - [After confusing driver release, AMD says old GPUs are still actively supported](https://arstechnica.com/gadgets/2025/11/amd-says-that-its-not-pulling-driver-support-for-older-radeon-gpus-afterall/) (2025-11-03)
-- [LLMs show a “highly unreliable” capacity to describe their own internal processes](https://arstechnica.com/ai/2025/11/llms-show-a-highly-unreliable-capacity-to-describe-their-own-internal-processes/) (2025-11-03)
 
 </details>
 
@@ -97,22 +97,24 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Unlocking Developer Revenue: The Future of AI Monetization with Monetzly](https://dev.to/monetzly/unlocking-developer-revenue-the-future-of-ai-monetization-with-monetzly-3l80) (2025-11-04)
-- [3 State Management Mistakes I Wish I Knew Earlier — By Bayajit Islam](https://dev.to/bayajitislam/3-state-management-mistakes-i-wish-i-knew-earlier-by-bayajit-islam-4gp3) (2025-11-04)
-- [🦇 Spooky Night — Halloween CSS Art 🌙✨](https://dev.to/dmsmenula/spooky-night-halloween-css-art-4h0n) (2025-11-04)
-- [The Software Development Journey](https://dev.to/jedaqsaul/the-software-development-journey-2g6j) (2025-11-04)
-- [💾 Custom "Save as Draft Without Validation" Button with Auto-Redirect in Joget Forms](https://dev.to/exploringmylifeworks/custom-save-as-draft-without-validation-button-with-auto-redirect-in-joget-forms-1839) (2025-11-04)
+- [How Did I Build a .NET Application Using ChatGPT?](https://dev.to/mehul_budasana/how-did-i-build-a-net-application-using-chatgpt-538i) (2025-11-04)
+- [Developing an A2A-compliant AI Agent with Java, Spring Boot and Spring AI](https://dev.to/bituan/developing-an-a2a-compliant-ai-agent-with-java-spring-boot-and-spring-ai-3l5e) (2025-11-04)
+- [Why You Should Try Vite For Your Next Project (and Forget About Webpack)](https://dev.to/danilo1/why-you-should-try-vite-for-your-next-project-and-forget-about-webpack-33dh) (2025-11-04)
+- [🚀 Building Knowledge Agent using A2A protocol: An AI Assistant for Backend Developers](https://dev.to/ayobami_adepoju/building-knowledge-agent-an-ai-assistant-for-backend-developers-using-a2a-protocol-40dj) (2025-11-04)
+- [A 70% Crypto Crash: Lessons from a Token Collapse](https://dev.to/dan_keller/a-70-crypto-crash-lessons-from-a-token-collapse-1543) (2025-11-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ Memahami Looping di PHP dengan Mudah](https://medium.com/@autolose366/memahami-looping-di-php-dengan-mudah-ce4112bdfa1f?source=rss------programming-5) (2025-11-04)
-- [Angular Interview Questions No One Prepares For](https://codebybilal.medium.com/angular-interview-questions-no-one-prepares-for-f20885c06510?source=rss------programming-5) (2025-11-04)
-- [Testing Double Booking at Scale — How QA Ensures Reservation Consistency on High Traffic Systems](https://medium.com/@niarsdet/testing-double-booking-at-scale-how-qa-ensures-reservation-consistency-on-high-traffic-systems-77580d94049c?source=rss------programming-5) (2025-11-04)
-- [ Looping di PHP: Pengertian, Jenis, dan Contohnya](https://medium.com/@autolose366/looping-di-php-pengertian-jenis-dan-contohnya-fa9a3720eca5?source=rss------programming-5) (2025-11-04)
-- [15 Modern CSS + JavaScript Combos Every Developer Should Master](https://medium.com/@theabhishek.040/15-modern-css-javascript-combos-every-developer-should-master-38d68b94f7cd?source=rss------programming-5) (2025-11-04)
+- [09025042560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@fufufuuffuufyrrytuufuf/09025042560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-6b7194670a7d?source=rss------programming-5) (2025-11-04)
+- [09010712940شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@nxnxncnckxxnxxnmxxnnxnxnz/09010712940%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-dcc021af1e9f?source=rss------programming-5) (2025-11-04)
+- [Power BI Finally Clicked — But Only After I Stopped Making Dashboards](https://medium.com/microsoft-power-bi/power-bi-finally-clicked-but-only-after-i-stopped-making-dashboards-64fb76c36a8c?source=rss------programming-5) (2025-11-04)
+- [The Fallacy of “Data-Driven” Decisions: When Your Observability Dashboards Are Actively Lying to…](https://technodiaries.medium.com/the-fallacy-of-data-driven-decisions-when-your-observability-dashboards-are-actively-lying-to-5634ba04b748?source=rss------programming-5) (2025-11-04)
+- [The Hardest Lesson of My Career: Your Code Is Not Your Baby.](https://medium.com/@kanhaaggarwal/the-hardest-lesson-of-my-career-your-code-is-not-your-baby-21c8802c7fd3?source=rss------programming-5) (2025-11-04)
 
 </details>
 
@@ -141,11 +143,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [NVIDIA Partners Bring Physical AI, New Smart City Technologies to Dublin, Ho Chi Minh City, Raleigh and More](https://blogs.nvidia.com/blog/physical-ai-smart-city-expo-world-congress/) (2025-11-04)
 - [Korea Joins AI Industrial Revolution: NVIDIA CEO Jensen Huang Unveils Historic Partnership at APEC Summit](https://blogs.nvidia.com/blog/korea-ai-apec-ceo-summit/) (2025-10-31)
 - [AI-Powered Mobile Clinics Deliver Breast Cancer Screening to India’s Rural Communities](https://blogs.nvidia.com/blog/medcognetics-ai-powered-breast-cancer-screening-india/) (2025-10-30)
 - [Join the Resistance: ‘ARC Raiders’ Launches in the Cloud](https://blogs.nvidia.com/blog/geforce-now-thursday-arc-raiders/) (2025-10-30)
 - [Into the Omniverse: Open World Foundation Models Generate Synthetic Worlds for Physical AI Development](https://blogs.nvidia.com/blog/scaling-physical-ai-omniverse/) (2025-10-29)
-- [NVIDIA GTC Washington, DC: Live Updates on What’s Next in AI](https://blogs.nvidia.com/blog/nvidia-gtc-washington-dc-2025-news/) (2025-10-28)
 
 </details>
 
@@ -559,11 +561,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update
 <details>
 <summary>🤖 AI News</summary>
 
+- [ClinCheck Live brings AI planning to Invisalign dental treatments](https://www.artificialintelligence-news.com/news/clincheck-live-brings-ai-planning-to-invisalign-dental-treatments/) (2025-11-04)
 - [OpenAI spreads $600B cloud AI bet across AWS, Oracle, Microsoft](https://www.artificialintelligence-news.com/news/openai-spreads-600b-cloud-ai-bet-aws-oracle-microsoft/) (2025-11-03)
 - [AI browsers are a significant security threat](https://www.artificialintelligence-news.com/news/ai-browser-security-issue-shadow-ai-malware/) (2025-11-03)
 - [From ambition to accountability: Quantifying AI ROI in strategy](https://www.artificialintelligence-news.com/news/quantifying-ai-roi-leading-resolutions/) (2025-11-03)
 - [DevOps for AI: Continuous deployment pipelines for machine learning systems](https://www.artificialintelligence-news.com/news/devops-for-ai-continuous-deployment-pipelines-for-machine-learning-systems/) (2025-11-03)
-- [NVIDIA and South Korea align on sovereign AI at APEC CEO Summit](https://www.artificialintelligence-news.com/news/nvidia-and-south-korea-align-on-sovereign-ai-at-apec-summit/) (2025-11-03)
 
 </details>
 
@@ -581,11 +583,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [How to Build a Smart AI Voice Assistant with Vapi: A Step-by-Step Tutorial  ](https://www.analyticsvidhya.com/blog/2025/11/vapi-ai-voice-assistant/) (2025-11-04)
+- [7 Ways to Build Investment Portfolio Tracker in Excel](https://www.analyticsvidhya.com/blog/2025/11/investment-portfolio-tracker-in-excel/) (2025-11-04)
 - [7 MCP Projects That You Must Do Before 2025 Ends!](https://www.analyticsvidhya.com/blog/2025/11/mcp-projects/) (2025-11-03)
 - [Top 10 AI Tools for Writers: With My Favourite 3](https://www.analyticsvidhya.com/blog/2025/11/ai-tools-for-writers/) (2025-11-02)
 - [Jio Users Get Free Google AI Pro Plan Worth Rs 35,000: Here is How](https://www.analyticsvidhya.com/blog/2025/11/jio-users-get-free-google-ai-pro-plan/) (2025-11-01)
-- [Evaluating LLMs with LangSmith: A Comprehensive Guide ](https://www.analyticsvidhya.com/blog/2025/11/evaluating-llms-with-langsmith/) (2025-11-01)
-- [AI Agents vs LLMs vs RAG ](https://www.analyticsvidhya.com/blog/2025/10/ai-agents-vs-llms-vs-rag/) (2025-10-31)
 
 </details>
 
