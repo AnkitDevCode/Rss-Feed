@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Former Meta employees launch a ring to take voice notes and control music](https://techcrunch.com/2025/11/05/former-meta-employees-launch-a-ring-to-take-voice-notes-and-control-music/) (2025-11-05)
 - [Goldman Sachs doubles down on MoEngage in new round to fuel global expansion](https://techcrunch.com/2025/11/04/goldman-sachs-doubles-down-on-moengage-in-100m-round-to-fuel-global-expansion/) (2025-11-05)
 - [NVIDIA, Qualcomm join U.S., Indian VCs to help build India’s next deep tech startups](https://techcrunch.com/2025/11/04/nvidia-qualcomm-join-u-s-indian-vcs-to-help-build-indias-next-deep-tech-startups/) (2025-11-05)
 - [Trump flips and re-nominates Jared Isaacman to lead NASA](https://techcrunch.com/2025/11/04/trump-flips-and-re-nominates-jared-isaacman-to-lead-nasa/) (2025-11-05)
 - [Amazon sends legal threats to Perplexity over agentic browsing](https://techcrunch.com/2025/11/04/amazon-sends-legal-threats-to-perplexity-over-agentic-browsing/) (2025-11-04)
-- [People Inc. forges AI licensing deal with Microsoft as Google traffic drops](https://techcrunch.com/2025/11/04/people-inc-forges-ai-licensing-deal-with-microsoft-as-google-traffic-drops/) (2025-11-04)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Epic vs. Google settlement: Opening up Android](https://twitter.com/TimSweeneyEpic/status/1985920786545123613) (2025-11-05)
+- [YouTube Erased More Than 700 Videos Documenting Israeli Human Rights Violations](https://theintercept.com/2025/11/04/youtube-google-israel-palestine-human-rights-censorship/) (2025-11-05)
+- [Founder in Residence at Woz (San Francisco)](https://news.ycombinator.com/item?id=45821921) (2025-11-05)
+- [72% of devs believe Steam has a monopoly on PC games, according to study](https://www.gamesindustry.biz/72-of-devs-believe-steam-has-a-monopoly-on-pc-games-according-to-study) (2025-11-05)
+- [The Hackers Manifesto (The Conscience of a Hacker) (1986)](https://phrack.org/issues/7/3) (2025-11-05)
 - [Hypothesis: Property-Based Testing for Python](https://hypothesis.readthedocs.io/en/latest/) (2025-11-05)
-- [Preventing Kubernetes from Pulling the Pause Image from the Internet](https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-the-pause-image-from-the-internet/) (2025-11-05)
-- [What Happened to Piracy? Copyright Enforcement Fades as AI Giants Rise](https://www.leefang.com/p/what-happened-to-piracy-copyright) (2025-11-05)
-- [Zohran Mamdani wins the New York mayoral race](https://www.nbcnews.com/politics/elections/new-york-city-mayor-election-winner-2025-race-rcna238909) (2025-11-05)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Hot subpoena summer](https://www.theverge.com/cs/features/804409/perez-hilton-lively-baldoni-subpoena) (2025-11-05)
+- [Stability AI&#8217;s legal win over Getty leaves copyright law in limbo](https://www.theverge.com/news/814042/getty-lawsuit-stability-ai-copyright-ruling-uk) (2025-11-05)
+- [Trump re-nominates billionaire Jared Isaacman to lead NASA](https://www.theverge.com/news/814035/donald-trump-jared-isaacman-nasa-nomination) (2025-11-05)
+- [Motorola’s Edge 70 is the blueprint for future thin phones](https://www.theverge.com/gadgets/813377/motorola-edge-70-review) (2025-11-05)
 - [Epic and Google agree to settle their lawsuit and change Android’s fate globally](https://www.theverge.com/policy/813991/epic-google-proposed-settlement) (2025-11-05)
-- [The best robot vacuums we&#8217;ve tested for 2025](https://www.theverge.com/22997597/best-robot-vacuum-cleaner) (2025-11-05)
-- [Google has a ‘moonshot’ plan for AI data centers in space](https://www.theverge.com/news/813894/google-project-suncatcher-ai-datacenter-satellites) (2025-11-04)
-- [Valve will finally turn off the Steam Deck&#8217;s screen while it&#8217;s downloading games](https://www.theverge.com/news/813864/valve-steam-deck-screen-download-games-low-power-screen-off) (2025-11-04)
-- [Apple Podcasts is generating automatic links and chapters](https://www.theverge.com/news/813817/apple-podcasts-automatic-links-and-chapters) (2025-11-04)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Space junk may have struck a Chinese crew ship in low-Earth orbit](https://arstechnica.com/space/2025/11/landing-postponed-for-chinese-astronauts-after-suspected-space-debris-strike/) (2025-11-05)
 - [In a stunning comeback, Jared Isaacman is renominated to lead NASA](https://arstechnica.com/space/2025/11/in-a-stunning-comeback-jared-isaacman-is-renominated-to-lead-nasa/) (2025-11-05)
 - [FDA described as a “clown show” amid latest scandal; top drug regulator is out](https://arstechnica.com/health/2025/11/fda-described-as-a-clown-show-amid-latest-scandal-top-drug-regulator-is-out/) (2025-11-04)
 - [Google’s new hurricane model was breathtakingly good this season](https://arstechnica.com/science/2025/11/googles-new-weather-model-impressed-during-its-first-hurricane-season/) (2025-11-04)
 - [New HDR10+ Advanced standard will try to fix the soap opera effect](https://arstechnica.com/gadgets/2025/11/hdr10-advanced-joins-dolby-vision-2-in-trying-to-make-you-like-motion-smoothing/) (2025-11-04)
-- [US gives local police a face-scanning app similar to one used by ICE agents](https://arstechnica.com/tech-policy/2025/11/us-gives-local-police-a-face-scanning-app-similar-to-one-used-by-ice-agents/) (2025-11-04)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [From vibe coding to context engineering: 2025 in software development](https://www.technologyreview.com/2025/11/05/1127477/from-vibe-coding-to-context-engineering-2025-in-software-development/) (2025-11-05)
 - [Why the for-profit race into solar geoengineering is bad for science and public trust](https://www.technologyreview.com/2025/11/04/1127532/why-the-for-profit-race-into-solar-geoengineering-is-bad-for-science-and-public-trust/) (2025-11-04)
 - [The Download: the AGI myth, and US/China AI competition](https://www.technologyreview.com/2025/11/04/1127547/the-download-the-agi-myth-and-us-china-ai-competition/) (2025-11-04)
 - [The State of AI: Is China about to win the race? ](https://www.technologyreview.com/2025/11/03/1126780/the-state-of-ai-is-china-about-to-win-the-race/) (2025-11-03)
 - [The Download: gene-edited babies, and cleaning up copper](https://www.technologyreview.com/2025/11/03/1127483/the-download-gene-edited-babies-and-cleaning-up-copper/) (2025-11-03)
-- [This startup wants to clean up the copper industry](https://www.technologyreview.com/2025/11/03/1127474/copper-smelting-chemistry-clean/) (2025-11-03)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Learning patience, not skills](https://dev.to/dshaw0004/learning-patience-not-skills-l5o) (2025-11-05)
-- [Understanding the Rake Roof: Design, Function, and Modern Applications](https://dev.to/seo-dipak-2312/understanding-the-rake-roof-design-function-and-modern-applications-13a0) (2025-11-05)
-- [Jeff Su: 4 Next-Level ChatGPT Techniques (Save 15+ Hours Weekly)](https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-save-15-hours-weekly-h9n) (2025-11-05)
-- [From Clutter to Clarity: How AI Batch Tools Clean Up Your Visuals Instantly](https://dev.to/freepixel11/from-clutter-to-clarity-how-ai-batch-tools-clean-up-your-visuals-instantly-108j) (2025-11-05)
-- [Ringer Movies: ‘The Truman Show’ With Bill Simmons, Glen Powell, and Chris Ryan | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-the-truman-show-with-bill-simmons-glen-powell-and-chris-ryan-the-rewatchables-ekj) (2025-11-05)
+- [Building Domain-Driven Design (DDD) Applications with PHP](https://dev.to/patoliyainfotech/building-domain-driven-design-ddd-applications-with-php-3hp4) (2025-11-05)
+- [🧠 How We Built an AI Code Reviewer That Understands Intent — Not Just Syntax](https://dev.to/anitha_subramanian_4d83c2/how-we-built-an-ai-code-reviewer-that-understands-intent-not-just-syntax-44d2) (2025-11-05)
+- [Jeff Su: 4 Next-Level ChatGPT Techniques](https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-4nfc) (2025-11-05)
+- [Provide Private Storage for Internal Company Documents](https://dev.to/daniel_shaibu_49affe8d51e/provide-private-storage-for-internal-company-documents-3895) (2025-11-05)
+- [🏗️ Full Stack Open — Modern Web Development, No Cost](https://dev.to/ml318097/full-stack-open-modern-web-development-no-cost-lfd) (2025-11-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why is processing a sorted array faster than processing an unsorted array?️](https://rasathuraikaran26.medium.com/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array-%EF%B8%8F-8fa1653027bc?source=rss------programming-5) (2025-11-05)
-- [3 Recommended Shoe Storage Cabinets for Hassle-Free Shoe Organization](https://medium.com/@AmazingShopping.net/3-recommended-shoe-storage-cabinets-for-hassle-free-shoe-organization-bceb49957b24?source=rss------programming-5) (2025-11-05)
-- [ 10 must-know JavaScript array methods ](https://medium.com/@Amanda0/10-must-know-javascript-array-methods-72947443fde7?source=rss------programming-5) (2025-11-05)
-- [Code Faster: Master IntelliJ IDEA, VS Code, and Eclipse Shortcuts Like a Pro](https://medium.com/@vallabhsangale7/code-faster-master-intellij-idea-vs-code-and-eclipse-shortcuts-like-a-pro-d0eae13444af?source=rss------programming-5) (2025-11-05)
-- [ 10 Essential React.js Tips Every Developer Should Know ](https://medium.com/@beenakumawat002/10-essential-react-js-tips-every-developer-should-know-4f4205441f15?source=rss------programming-5) (2025-11-05)
+- [Boost Your Git Productivity: A Simple Dev’s Guide to Git Aliases with Real Examples](https://javascript.plainenglish.io/boost-your-git-productivity-a-simple-devs-guide-to-git-aliases-with-real-examples-fbd70a68ee5d?source=rss------programming-5) (2025-11-05)
+- [Are You Using useMemo Wrong?](https://medium.com/@wittcode/are-you-using-usememo-wrong-feee2aa1cc9e?source=rss------programming-5) (2025-11-05)
+- [The FastAPI Crash Course I Wish I Had Before My First Project](https://python.plainenglish.io/the-fastapi-crash-course-i-wish-i-had-before-my-first-project-ea4338cad1df?source=rss------programming-5) (2025-11-05)
+- [Using command aliases for Laravel Development](https://blog.stackademic.com/using-command-aliases-for-laravel-development-204ad1dbb14f?source=rss------programming-5) (2025-11-05)
+- [From Viral Prompts to AI Diversity: I’m Building a Book, and Your Feedback Matters](https://medium.com/@adhamhidawy/from-viral-prompts-to-ai-diversity-im-building-a-book-and-your-feedback-matters-149db3dcc3eb?source=rss------programming-5) (2025-11-05)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Fully managed cloud-to-cloud transfers with Azure Storage Mover](https://azure.microsoft.com/en-us/blog/fully-managed-cloud-to-cloud-transfers-with-azure-storage-mover/) (2025-10-23)
-- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2025-10-22)
-- [The Signals Loop: Fine-tuning for world-class AI apps and agents ](https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/) (2025-10-21)
-- [Innovation spotlight: How 3 customers are driving change with migration to Azure SQL](https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/) (2025-10-20)
-- [From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available](https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/) (2025-10-16)
+- [Enhancing software supply chain security with Microsoft’s Signing Transparency](https://azure.microsoft.com/en-us/blog/enhancing-software-supply-chain-security-with-microsofts-signing-transparency/) (2025-11-03)
+- [Resiliency in the cloud—empowered by shared responsibility and Azure Essentials](https://azure.microsoft.com/en-us/blog/resiliency-in-the-cloud-empowered-by-shared-responsibility-and-azure-essentials/) (2025-10-31)
+- [GitHub Universe 2025: Where developer innovation took center stage](https://azure.microsoft.com/en-us/blog/github-universe-2025-where-developer-innovation-took-center-stage/) (2025-10-30)
+- [Building the future together: Microsoft and NVIDIA announce AI advancements at GTC DC](https://azure.microsoft.com/en-us/blog/building-the-future-together-microsoft-and-nvidia-announce-ai-advancements-at-gtc-dc/) (2025-10-28)
+- [Introducing Agent HQ: Any agent, any way you work](https://github.blog/news-insights/company-news/welcome-home-agents/?utm_source=MSFT-day1-blog&utm_medium=social&utm_campaign=universe25) (2025-10-28)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>📝 Visual Studio Code</summary>
 
+- [A Unified Experience for all Coding Agents](https://code.visualstudio.com/blogs/2025/11/03/unified-agent-experience) (2025-11-05)
 - [Expanding Model Choice in VS Code with Bring Your Own Key](https://code.visualstudio.com/blogs/2025/10/22/bring-your-own-key) (2025-10-22)
 - [September 2025 (version 1.105)](https://code.visualstudio.com/updates/v1_105) (2025-10-09)
 - [Introducing auto model selection (preview)](https://code.visualstudio.com/blogs/2025/09/15/autoModelSelection) (2025-09-15)
 - [August 2025 (version 1.104)](https://code.visualstudio.com/updates/v1_104) (2025-09-11)
-- [VS Code Dev Days – Join an event near you to learn about AI-assisted development](https://code.visualstudio.com/blogs/2025/08/27/vscode-dev-days) (2025-08-26)
 
 </details>
 
@@ -362,6 +362,21 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Integrate Twilio Flex and Microsoft Dynamics 365 with Zing
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/integrate-flex-microsoft-dynamics-zing-blueprint
+) (2025-11-03)
+- [
+Understanding Twilio and ZenDesk Voice Integration
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/twilio-zendesk-voice-integration
+) (2025-11-03)
+- [
+Detecting iOS 26 Call Screening and Leaving Voicemail​: ​How Twilio AMD and Real-Time Transcriptions Make It Possible
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/detect-ios-call-screening-amd-transcriptions
+) (2025-11-03)
+- [
 8 ways Twilio’s infrastructure ensures reliability 
 ](
 https://www.twilio.com/en-us/blog/insights/cloud-comms/twilio-infrastructure-reliability
@@ -371,21 +386,6 @@ Building Trust in the Age of AI: Why Identity Is the Foundation of Customer Enga
 ](
 https://www.twilio.com/en-us/blog/company/news/twilio-to-acquire-stytch
 ) (2025-10-30)
-- [
-Cyber Week 2025 preparation: Key insights and best practices for retail success
-](
-https://www.twilio.com/en-us/blog/insights/best-practices/cyber-week-preparation-retail-business
-) (2025-10-30)
-- [
-The Future of BPO in the Age of AI and Automation: A Conversational Recap
-](
-https://www.twilio.com/en-us/blog/insights/the-future-of-bpo-in-the-age-of-ai-and-automation--a-conversatio
-) (2025-10-29)
-- [
-October 2025 Fraud Update: How ISVs can Prepare for the Holiday Season
-](
-https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update-october-2025
-) (2025-10-28)
 
 </details>
 
@@ -580,11 +580,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [The 5% Rule: What can you do That AI Still Can’t?](https://www.analyticsvidhya.com/blog/2025/11/save-your-job-against-ai/) (2025-11-05)
+- [Gemini Can Now Create “Presentations” with One Prompt!](https://www.analyticsvidhya.com/blog/2025/11/gemini-presentation/) (2025-11-05)
 - [How to Build a Smart AI Voice Assistant with Vapi: A Step-by-Step Tutorial  ](https://www.analyticsvidhya.com/blog/2025/11/vapi-ai-voice-assistant/) (2025-11-04)
 - [7 Ways to Build Investment Portfolio Tracker in Excel](https://www.analyticsvidhya.com/blog/2025/11/investment-portfolio-tracker-in-excel/) (2025-11-04)
 - [7 MCP Projects That You Must Do Before 2025 Ends!](https://www.analyticsvidhya.com/blog/2025/11/mcp-projects/) (2025-11-03)
-- [Top 10 AI Tools for Writers: With My Favourite 3](https://www.analyticsvidhya.com/blog/2025/11/ai-tools-for-writers/) (2025-11-02)
-- [Jio Users Get Free Google AI Pro Plan Worth Rs 35,000: Here is How](https://www.analyticsvidhya.com/blog/2025/11/jio-users-get-free-google-ai-pro-plan/) (2025-11-01)
 
 </details>
 
