@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Shopify says AI traffic is up 7x since January, AI-driven orders are up 11x](https://techcrunch.com/2025/11/04/shopify-says-ai-traffic-is-up-7x-since-january-ai-driven-orders-are-up-11x/) (2025-11-04)
-- [Netflix in talks to license video podcasts from iHeartMedia, report says](https://techcrunch.com/2025/11/04/netflix-in-talks-to-license-video-podcasts-from-iheartmedia-report-says/) (2025-11-04)
-- [Phone location data of top EU officials for sale, report finds](https://techcrunch.com/2025/11/04/phone-location-data-of-top-eu-officials-for-sale-report-finds/) (2025-11-04)
-- [Anthropic projects $70B in revenue by 2028: Report](https://techcrunch.com/2025/11/04/anthropic-expects-b2b-demand-to-boost-revenue-to-70b-in-2028-report/) (2025-11-04)
-- [Tesla’s Master Plan 4 still lacks specifics ahead of $1T Musk pay vote](https://techcrunch.com/2025/11/04/teslas-master-plan-4-still-lacks-specifics-ahead-of-1t-musk-pay-vote/) (2025-11-04)
+- [Amazon sends legal threats to Perplexity over agentic browsing](https://techcrunch.com/2025/11/04/amazon-sends-legal-threats-to-perplexity-over-agentic-browsing/) (2025-11-04)
+- [People Inc. forges AI licensing deal with Microsoft as Google traffic drops](https://techcrunch.com/2025/11/04/people-inc-forges-ai-licensing-deal-with-microsoft-as-google-traffic-drops/) (2025-11-04)
+- [Beta Technologies ends first day on NYSE in the green and $1B raised](https://techcrunch.com/2025/11/04/beta-technologies-ends-first-day-on-nyse-in-the-green-and-1b-raised/) (2025-11-04)
+- [Rivian creates another spinoff company called Mind Robotics](https://techcrunch.com/2025/11/04/rivian-creates-another-spinoff-company-called-mind-robotics/) (2025-11-04)
+- [Google’s AI Mode gets new agentic capabilities to help book event tickets and beauty appointments](https://techcrunch.com/2025/11/04/googles-ai-mode-gets-new-agentic-capabilities-to-help-book-event-tickets-and-beauty-appointments/) (2025-11-04)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Michael Burry a.k.a. "Big Short",discloses $1.1B bet against Nvidia&Palantir](https://sherwood.news/markets/michael-burry-big-short-discloses-1-1-billion-options-bet-against-nvidia-palantir-puts/) (2025-11-04)
-- [The Rust Foundation Maintainers Fund](https://rustfoundation.org/media/announcing-the-rust-foundation-maintainers-fund/) (2025-11-04)
-- [Launch HN: Plexe (YC X25) – Build production-grade ML models from prompts](https://www.plexe.ai/) (2025-11-04)
-- [Exploring a space-based, scalable AI infrastructure system design](https://research.google/blog/exploring-a-space-based-scalable-ai-infrastructure-system-design/) (2025-11-04)
-- [US nuclear weapons testing can forever scar a nation.Just ask Marshall Island](https://www.cnn.com/2025/11/04/asia/nuclear-testing-marshall-islands-legacy-intl-hnk-dst) (2025-11-04)
+- [Uncle Sam wants to scan your iris and collect your DNA, citizen or not](https://www.theregister.com/2025/11/04/dhs_wants_to_collect_biometric_data/) (2025-11-04)
+- [Bluetui – A TUI for managing Bluetooth on Linux](https://github.com/pythops/bluetui) (2025-11-04)
+- [Analyzing the Performance of WebAssembly vs. Native Code](https://ar5iv.labs.arxiv.org/html/1901.09056) (2025-11-04)
+- [Google Removed 749M Anna's Archive URLs from Its Search Results](https://torrentfreak.com/google-removed-749-million-annas-archive-urls-from-its-search-results/) (2025-11-04)
+- [Patching 68K Software – SimpleText](https://tinkerdifferent.com/threads/patching-68k-software-simpletext.4793/) (2025-11-04)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Predator: Badlands is a lighthearted twist on the brutal sci-fi series](https://www.theverge.com/entertainment/813146/predator-badlands-review) (2025-11-04)
-- [Wikipedia co-founder joins editing conflict over the Gaza genocide page](https://www.theverge.com/news/813245/wikipedia-co-founder-jimmy-wales-gaza-genocide) (2025-11-04)
-- [Apple is reportedly working on a cheaper Mac laptop with an iPhone chip](https://www.theverge.com/news/813391/apple-mac-laptop-iphone-a-series-chip-macbook-cheaper) (2025-11-04)
-- [Google Maps can tell Polestar 4 drivers when to merge lanes](https://www.theverge.com/news/813315/google-maps-polestar-4-live-lane-guidance) (2025-11-04)
-- [Google’s entire Pixel 10 lineup is up to 25 percent off for the first time](https://www.theverge.com/tech/813137/google-pixel-10-pro-fold-motherboard-nintendo-deal-sale) (2025-11-04)
+- [The best robot vacuums we&#8217;ve tested for 2025](https://www.theverge.com/22997597/best-robot-vacuum-cleaner) (2025-11-05)
+- [Google has a ‘moonshot’ plan for AI data centers in space](https://www.theverge.com/news/813894/google-project-suncatcher-ai-datacenter-satellites) (2025-11-04)
+- [Valve will finally turn off the Steam Deck&#8217;s screen while it&#8217;s downloading games](https://www.theverge.com/news/813864/valve-steam-deck-screen-download-games-low-power-screen-off) (2025-11-04)
+- [Apple Podcasts is generating automatic links and chapters](https://www.theverge.com/news/813817/apple-podcasts-automatic-links-and-chapters) (2025-11-04)
+- [Your Stream Deck’s ‘device not supported’ error should fix itself if you log in](https://www.theverge.com/tech/813814/your-stream-decks-device-not-supported-error-should-fix-itself-if-you-log-in) (2025-11-04)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Dune driving with Mercedes-Benz as it tests off-road systems](https://arstechnica.com/cars/2025/11/dune-driving-with-mercedes-benz-as-it-tests-off-road-systems/) (2025-11-04)
-- [Apple releases iOS 26.1, macOS 26.1, other updates with Liquid Glass controls and more](https://arstechnica.com/gadgets/2025/11/apple-releases-ios-26-1-macos-26-1-other-updates-with-liquid-glass-controls-and-more/) (2025-11-04)
-- [A commercial space station startup now has a foothold in space](https://arstechnica.com/space/2025/11/a-commercial-space-station-startup-now-has-a-foothold-in-space/) (2025-11-03)
-- [Real humans don’t stream Drake songs 23 hours a day, rapper suing Spotify says](https://arstechnica.com/tech-policy/2025/11/real-humans-dont-stream-drake-songs-23-hours-a-day-rapper-suing-spotify-says/) (2025-11-03)
-- [After confusing driver release, AMD says old GPUs are still actively supported](https://arstechnica.com/gadgets/2025/11/amd-says-that-its-not-pulling-driver-support-for-older-radeon-gpus-afterall/) (2025-11-03)
+- [FDA described as a “clown show” amid latest scandal; top drug regulator is out](https://arstechnica.com/health/2025/11/fda-described-as-a-clown-show-amid-latest-scandal-top-drug-regulator-is-out/) (2025-11-04)
+- [Google’s new hurricane model was breathtakingly good this season](https://arstechnica.com/science/2025/11/googles-new-weather-model-impressed-during-its-first-hurricane-season/) (2025-11-04)
+- [New HDR10+ Advanced standard will try to fix the soap opera effect](https://arstechnica.com/gadgets/2025/11/hdr10-advanced-joins-dolby-vision-2-in-trying-to-make-you-like-motion-smoothing/) (2025-11-04)
+- [US gives local police a face-scanning app similar to one used by ICE agents](https://arstechnica.com/tech-policy/2025/11/us-gives-local-police-a-face-scanning-app-similar-to-one-used-by-ice-agents/) (2025-11-04)
+- [Meet Project Suncatcher, Google’s plan to put AI data centers in space](https://arstechnica.com/google/2025/11/meet-project-suncatcher-googles-plan-to-put-ai-data-centers-in-space/) (2025-11-04)
 
 </details>
 
@@ -97,22 +97,25 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1g8e) (2025-11-04)
-- [CinemaSins: Everything Wrong With Longlegs In 24 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-longlegs-in-24-minutes-or-less-147c) (2025-11-04)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-42i0) (2025-11-04)
-- [CinemaSins: Everything Wrong With Predator: Killer of Killers In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-predator-killer-of-killers-in-16-minutes-or-less-c06) (2025-11-04)
-- [Mr Sunday Movies: Predator 2 - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predator-2-caravan-of-garbage-1jo5) (2025-11-04)
+- [Spiking Neural Networks: The Next Leap in AI Power Efficiency by Arvind Sundararajan](https://dev.to/arvind_sundararajan/spiking-neural-networks-the-next-leap-in-ai-power-efficiency-by-arvind-sundararajan-45n8) (2025-11-05)
+- [Angular & RxJS in 2025: The Expert’s Playbook (Signals, RxJS 8, and Interop)](https://dev.to/cristiansifuentes/angular-rxjs-in-2025-the-experts-playbook-signals-rxjs-8-and-interop-28ed) (2025-11-05)
+- [6 habits every computer science student must have](https://dev.to/sayrolivares/6-habits-every-computer-science-student-must-have-2gmh) (2025-11-05)
+- [📊🔍 OpenSearch Dashboards: Optimizing Massive Data Queries (Big Data) with Asynchronous Search](https://dev.to/fonteeboa/opensearch-dashboards-optimizing-massive-data-queries-big-data-with-asynchronous-search-16ib) (2025-11-05)
+- [While Everyone Argues About AI Regulation, Data Is the Real Wild West](https://dev.to/aronchick/while-everyone-argues-about-ai-regulation-data-is-the-real-wild-west-4f8a) (2025-11-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09370750325](https://medium.com/@shmarhkhalhmshhdy49/09370750325-a67847f80e55?source=rss------programming-5) (2025-11-04)
-- [09370750325](https://medium.com/@shmarhkhalhmshhdy49/09370750325-aa66a035c912?source=rss------programming-5) (2025-11-04)
-- [11 Python Libraries So Useful, They Should Be Built Into the Language](https://python.plainenglish.io/11-python-libraries-so-useful-they-should-be-built-into-the-language-90d4bfe45b12?source=rss------programming-5) (2025-11-04)
-- [10 No-Drama Patterns to Make Your ASP.NET Core API Controllers Incredibly Simple (in .NET 9)](https://medium.com/@michaelmaurice410/10-no-drama-patterns-to-make-your-asp-net-core-api-controllers-incredibly-simple-in-net-9-f460ca94866c?source=rss------programming-5) (2025-11-04)
-- [When to Use Claude Skills vs MCPs](https://medium.com/@codecraftsphere/when-to-use-claude-skills-vs-mcps-8dad04d02800?source=rss------programming-5) (2025-11-04)
+- [09335063036شماره خاله اسلامشهر سکس حضوری شهریار شماره خاله کرج سکس حضوری ملارد شماره خاله پاکدشت…](https://medium.com/@ftkkpidgecfd/09335063036%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B3%DA%A9%D8%B3-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%B4%D9%87%D8%B1%DB%8C%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B3%DA%A9%D8%B3-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D9%85%D9%84%D8%A7%D8%B1%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%BE%D8%A7%DA%A9%D8%AF%D8%B4%D8%AA-387e79b58763?source=rss------programming-5) (2025-11-05)
+- [09309022560شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kdhlfcjnc/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-5d2b07c1a47b?source=rss------programming-5) (2025-11-05)
+- [09309022560شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kdhlfcjnc/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-d79eefabc8f2?source=rss------programming-5) (2025-11-05)
+- [09309022560شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kdhlfcjnc/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-34ac7dba9ebf?source=rss------programming-5) (2025-11-05)
+- [3 Top-Rated 240Hz Monitors for Smooth and Responsive Performance](https://medium.com/@AmazingShopping.net/3-top-rated-240hz-monitors-for-smooth-and-responsive-performance-db5783361940?source=rss------programming-5) (2025-11-05)
 
 </details>
 
@@ -152,11 +155,11 @@
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [Next Steps for Apps Distributed in Texas](https://developer.apple.com/news/?id=2ezb6jhj) (2025-11-04)
+- [Get ready with the latest beta releases](https://developer.apple.com/news/?id=8atty4sp) (2025-11-04)
 - [Price updates for apps, In-App Purchases, and subscriptions](https://developer.apple.com/news/?id=nomqoqfm) (2025-10-30)
 - [Enhancements to help you submit and market your apps and games](https://developer.apple.com/news/?id=gf6mgrs6) (2025-10-29)
 - [New requirement for apps using Sign in with Apple for account creation](https://developer.apple.com/news/?id=j9zukcr6) (2025-10-09)
-- [Updated Apple Developer Program License Agreement now available](https://developer.apple.com/news/?id=fnkpd51y) (2025-10-08)
-- [New requirements for apps available in Texas](https://developer.apple.com/news/?id=btkirlj8) (2025-10-08)
 
 </details>
 
@@ -328,11 +331,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [Migrate from pipeline variables to pipeline inputs for better security](https://about.gitlab.com/blog/migrate-from-pipeline-variables-to-pipeline-inputs-for-better-security/) (2025-11-04)
 - [Claude Sonnet 3.7 deprecation notice for GitLab Duo](https://about.gitlab.com/blog/claude-sonnet-3-7-deprecation-notice-for-gitlab-duo/) (2025-10-31)
 - [Ace your planning without the context-switching](https://about.gitlab.com/blog/ace-your-planning-without-the-context-switching/) (2025-10-28)
 - [Modernize Java applications quickly with GitLab Duo with Amazon Q](https://about.gitlab.com/blog/modernize-java-applications-quickly-with-gitlab-duo-with-amazon-q/) (2025-10-22)
 - [Delivering faster and smarter scans with Advanced SAST](https://about.gitlab.com/blog/delivering-faster-and-smarter-scans-with-advanced-sast/) (2025-10-21)
-- [GitLab 18.5: Intelligence that moves software development forward](https://about.gitlab.com/blog/gitlab-18-5-intelligence-that-moves-software-development-forward/) (2025-10-21)
 
 </details>
 
@@ -362,6 +365,21 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Integrate Twilio Flex and Microsoft Dynamics 365 with Zing
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/integrate-flex-microsoft-dynamics-zing-blueprint
+) (2025-11-03)
+- [
+Understanding Twilio and ZenDesk Voice Integration
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/twilio-zendesk-voice-integration
+) (2025-11-03)
+- [
+Detecting iOS 26 Call Screening and Leaving Voicemail​: ​How Twilio AMD and Real-Time Transcriptions Make It Possible
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/detect-ios-call-screening-amd-transcriptions
+) (2025-11-03)
+- [
 8 ways Twilio’s infrastructure ensures reliability 
 ](
 https://www.twilio.com/en-us/blog/insights/cloud-comms/twilio-infrastructure-reliability
@@ -371,21 +389,6 @@ Building Trust in the Age of AI: Why Identity Is the Foundation of Customer Enga
 ](
 https://www.twilio.com/en-us/blog/company/news/twilio-to-acquire-stytch
 ) (2025-10-30)
-- [
-Cyber Week 2025 preparation: Key insights and best practices for retail success
-](
-https://www.twilio.com/en-us/blog/insights/best-practices/cyber-week-preparation-retail-business
-) (2025-10-30)
-- [
-The Future of BPO in the Age of AI and Automation: A Conversational Recap
-](
-https://www.twilio.com/en-us/blog/insights/the-future-of-bpo-in-the-age-of-ai-and-automation--a-conversatio
-) (2025-10-29)
-- [
-October 2025 Fraud Update: How ISVs can Prepare for the Holiday Season
-](
-https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update-october-2025
-) (2025-10-28)
 
 </details>
 
@@ -481,11 +484,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
+- [Ensure a Seamless, Secure Connection Between Data 360 and Google BigQuery](https://developer.salesforce.com/blogs/2025/11/ensure-a-seamless-secure-connection-between-data-360-and-google-bigquery.html) (2025-11-04)
 - [Connect Data 360 to Databricks Using Salesforce IDP](https://developer.salesforce.com/blogs/2025/10/connect-data-360-to-databricks-using-salesforce-idp.html) (2025-10-30)
 - [Build and Optimize Agents with New Agentforce 360 Features](https://developer.salesforce.com/blogs/2025/10/build-and-optimize-agents-with-new-agentforce-360-features.html) (2025-10-29)
 - [Vibe Code Lightning Web Components with Salesforce DX MCP](https://developer.salesforce.com/blogs/2025/10/vibe-code-lightning-web-components-with-salesforce-dx-mcp.html) (2025-10-28)
 - [Customize Agent Conversations with Adaptive Response Formats](https://developer.salesforce.com/blogs/2025/10/customize-agent-conversations-with-adaptive-response-formats.html) (2025-10-23)
-- [AIエージェント開発の悩みを解決！Agent Scriptとハイブリッド推論のすすめ](https://developer.salesforce.com/blogs/2025/10/ai%e3%82%a8%e3%83%bc%e3%82%b8%e3%82%a7%e3%83%b3%e3%83%88%e9%96%8b%e7%99%ba%e3%81%ae%e6%82%a9%e3%81%bf%e3%82%92%e8%a7%a3%e6%b1%ba%ef%bc%81agent-script%e3%81%a8%e3%83%8f%e3%82%a4%e3%83%96%e3%83%aa.html) (2025-10-22)
 
 </details>
 
@@ -569,11 +572,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [NumPy for Absolute Beginners: A Project-Based Approach to Data Analysis](https://towardsdatascience.com/numpy-for-absolute-beginners-a-project-based-approach-to-data-analysis/) (2025-11-04)
+- [What Building My First Dashboard Taught Me About Data Storytelling](https://towardsdatascience.com/what-building-my-first-dashboard-taught-me-about-data-storytelling/) (2025-11-04)
+- [What to Do When Your Credit Risk Model Works Today, but Breaks Six Months Later](https://towardsdatascience.com/your-credit-risk-model-works-today-it-breaks-in-six-months/) (2025-11-04)
 - [Train a Humanoid Robot with AI and Python](https://towardsdatascience.com/train-humanoid-robots-with-ai-and-python/) (2025-11-04)
 - [It Doesn’t Need to Be a Chatbot](https://towardsdatascience.com/it-doesnt-need-to-be-a-chatbot/) (2025-11-04)
-- [How to Apply Vision Language Models to Long Documents](https://towardsdatascience.com/how-to-apply-vision-language-models-to-long-documents/) (2025-11-03)
-- [Does AI Need to Be Conscious to Care?](https://towardsdatascience.com/does-ai-need-to-be-conscious-to-care/) (2025-11-03)
-- [Building a Multimodal RAG That Responds with Text, Images, and Tables from Sources](https://towardsdatascience.com/building-a-multimodal-rag-with-text-images-tables-from-sources-in-response/) (2025-11-03)
 
 </details>
 
