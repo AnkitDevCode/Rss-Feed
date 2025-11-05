@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Goldman Sachs doubles down on MoEngage in new round to fuel global expansion](https://techcrunch.com/2025/11/04/goldman-sachs-doubles-down-on-moengage-in-100m-round-to-fuel-global-expansion/) (2025-11-05)
+- [NVIDIA, Qualcomm join U.S., Indian VCs to help build India’s next deep tech startups](https://techcrunch.com/2025/11/04/nvidia-qualcomm-join-u-s-indian-vcs-to-help-build-indias-next-deep-tech-startups/) (2025-11-05)
+- [Trump flips and re-nominates Jared Isaacman to lead NASA](https://techcrunch.com/2025/11/04/trump-flips-and-re-nominates-jared-isaacman-to-lead-nasa/) (2025-11-05)
 - [Amazon sends legal threats to Perplexity over agentic browsing](https://techcrunch.com/2025/11/04/amazon-sends-legal-threats-to-perplexity-over-agentic-browsing/) (2025-11-04)
 - [People Inc. forges AI licensing deal with Microsoft as Google traffic drops](https://techcrunch.com/2025/11/04/people-inc-forges-ai-licensing-deal-with-microsoft-as-google-traffic-drops/) (2025-11-04)
-- [Beta Technologies ends first day on NYSE in the green and $1B raised](https://techcrunch.com/2025/11/04/beta-technologies-ends-first-day-on-nyse-in-the-green-and-1b-raised/) (2025-11-04)
-- [Rivian creates another spinoff company called Mind Robotics](https://techcrunch.com/2025/11/04/rivian-creates-another-spinoff-company-called-mind-robotics/) (2025-11-04)
-- [Google’s AI Mode gets new agentic capabilities to help book event tickets and beauty appointments](https://techcrunch.com/2025/11/04/googles-ai-mode-gets-new-agentic-capabilities-to-help-book-event-tickets-and-beauty-appointments/) (2025-11-04)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Uncle Sam wants to scan your iris and collect your DNA, citizen or not](https://www.theregister.com/2025/11/04/dhs_wants_to_collect_biometric_data/) (2025-11-04)
-- [Bluetui – A TUI for managing Bluetooth on Linux](https://github.com/pythops/bluetui) (2025-11-04)
-- [Analyzing the Performance of WebAssembly vs. Native Code](https://ar5iv.labs.arxiv.org/html/1901.09056) (2025-11-04)
-- [Google Removed 749M Anna's Archive URLs from Its Search Results](https://torrentfreak.com/google-removed-749-million-annas-archive-urls-from-its-search-results/) (2025-11-04)
-- [Patching 68K Software – SimpleText](https://tinkerdifferent.com/threads/patching-68k-software-simpletext.4793/) (2025-11-04)
+- [Epic vs. Google settlement: Opening up Android](https://twitter.com/TimSweeneyEpic/status/1985920786545123613) (2025-11-05)
+- [Hypothesis: Property-Based Testing for Python](https://hypothesis.readthedocs.io/en/latest/) (2025-11-05)
+- [Preventing Kubernetes from Pulling the Pause Image from the Internet](https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-the-pause-image-from-the-internet/) (2025-11-05)
+- [What Happened to Piracy? Copyright Enforcement Fades as AI Giants Rise](https://www.leefang.com/p/what-happened-to-piracy-copyright) (2025-11-05)
+- [Zohran Mamdani wins the New York mayoral race](https://www.nbcnews.com/politics/elections/new-york-city-mayor-election-winner-2025-race-rcna238909) (2025-11-05)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Epic and Google agree to settle their lawsuit and change Android’s fate globally](https://www.theverge.com/policy/813991/epic-google-proposed-settlement) (2025-11-05)
 - [The best robot vacuums we&#8217;ve tested for 2025](https://www.theverge.com/22997597/best-robot-vacuum-cleaner) (2025-11-05)
 - [Google has a ‘moonshot’ plan for AI data centers in space](https://www.theverge.com/news/813894/google-project-suncatcher-ai-datacenter-satellites) (2025-11-04)
 - [Valve will finally turn off the Steam Deck&#8217;s screen while it&#8217;s downloading games](https://www.theverge.com/news/813864/valve-steam-deck-screen-download-games-low-power-screen-off) (2025-11-04)
 - [Apple Podcasts is generating automatic links and chapters](https://www.theverge.com/news/813817/apple-podcasts-automatic-links-and-chapters) (2025-11-04)
-- [Your Stream Deck’s ‘device not supported’ error should fix itself if you log in](https://www.theverge.com/tech/813814/your-stream-decks-device-not-supported-error-should-fix-itself-if-you-log-in) (2025-11-04)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [In a stunning comeback, Jared Isaacman is renominated to lead NASA](https://arstechnica.com/space/2025/11/in-a-stunning-comeback-jared-isaacman-is-renominated-to-lead-nasa/) (2025-11-05)
 - [FDA described as a “clown show” amid latest scandal; top drug regulator is out](https://arstechnica.com/health/2025/11/fda-described-as-a-clown-show-amid-latest-scandal-top-drug-regulator-is-out/) (2025-11-04)
 - [Google’s new hurricane model was breathtakingly good this season](https://arstechnica.com/science/2025/11/googles-new-weather-model-impressed-during-its-first-hurricane-season/) (2025-11-04)
 - [New HDR10+ Advanced standard will try to fix the soap opera effect](https://arstechnica.com/gadgets/2025/11/hdr10-advanced-joins-dolby-vision-2-in-trying-to-make-you-like-motion-smoothing/) (2025-11-04)
 - [US gives local police a face-scanning app similar to one used by ICE agents](https://arstechnica.com/tech-policy/2025/11/us-gives-local-police-a-face-scanning-app-similar-to-one-used-by-ice-agents/) (2025-11-04)
-- [Meet Project Suncatcher, Google’s plan to put AI data centers in space](https://arstechnica.com/google/2025/11/meet-project-suncatcher-googles-plan-to-put-ai-data-centers-in-space/) (2025-11-04)
 
 </details>
 
@@ -97,25 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Spiking Neural Networks: The Next Leap in AI Power Efficiency by Arvind Sundararajan](https://dev.to/arvind_sundararajan/spiking-neural-networks-the-next-leap-in-ai-power-efficiency-by-arvind-sundararajan-45n8) (2025-11-05)
-- [Angular & RxJS in 2025: The Expert’s Playbook (Signals, RxJS 8, and Interop)](https://dev.to/cristiansifuentes/angular-rxjs-in-2025-the-experts-playbook-signals-rxjs-8-and-interop-28ed) (2025-11-05)
-- [6 habits every computer science student must have](https://dev.to/sayrolivares/6-habits-every-computer-science-student-must-have-2gmh) (2025-11-05)
-- [📊🔍 OpenSearch Dashboards: Optimizing Massive Data Queries (Big Data) with Asynchronous Search](https://dev.to/fonteeboa/opensearch-dashboards-optimizing-massive-data-queries-big-data-with-asynchronous-search-16ib) (2025-11-05)
-- [While Everyone Argues About AI Regulation, Data Is the Real Wild West](https://dev.to/aronchick/while-everyone-argues-about-ai-regulation-data-is-the-real-wild-west-4f8a) (2025-11-05)
+- [Learning patience, not skills](https://dev.to/dshaw0004/learning-patience-not-skills-l5o) (2025-11-05)
+- [Understanding the Rake Roof: Design, Function, and Modern Applications](https://dev.to/seo-dipak-2312/understanding-the-rake-roof-design-function-and-modern-applications-13a0) (2025-11-05)
+- [Jeff Su: 4 Next-Level ChatGPT Techniques (Save 15+ Hours Weekly)](https://dev.to/future_ai/jeff-su-4-next-level-chatgpt-techniques-save-15-hours-weekly-h9n) (2025-11-05)
+- [From Clutter to Clarity: How AI Batch Tools Clean Up Your Visuals Instantly](https://dev.to/freepixel11/from-clutter-to-clarity-how-ai-batch-tools-clean-up-your-visuals-instantly-108j) (2025-11-05)
+- [Ringer Movies: ‘The Truman Show’ With Bill Simmons, Glen Powell, and Chris Ryan | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-the-truman-show-with-bill-simmons-glen-powell-and-chris-ryan-the-rewatchables-ekj) (2025-11-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09335063036شماره خاله اسلامشهر سکس حضوری شهریار شماره خاله کرج سکس حضوری ملارد شماره خاله پاکدشت…](https://medium.com/@ftkkpidgecfd/09335063036%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B3%DA%A9%D8%B3-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%B4%D9%87%D8%B1%DB%8C%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B3%DA%A9%D8%B3-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D9%85%D9%84%D8%A7%D8%B1%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%BE%D8%A7%DA%A9%D8%AF%D8%B4%D8%AA-387e79b58763?source=rss------programming-5) (2025-11-05)
-- [09309022560شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kdhlfcjnc/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-5d2b07c1a47b?source=rss------programming-5) (2025-11-05)
-- [09309022560شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kdhlfcjnc/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-d79eefabc8f2?source=rss------programming-5) (2025-11-05)
-- [09309022560شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kdhlfcjnc/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-34ac7dba9ebf?source=rss------programming-5) (2025-11-05)
-- [3 Top-Rated 240Hz Monitors for Smooth and Responsive Performance](https://medium.com/@AmazingShopping.net/3-top-rated-240hz-monitors-for-smooth-and-responsive-performance-db5783361940?source=rss------programming-5) (2025-11-05)
+- [Why is processing a sorted array faster than processing an unsorted array?️](https://rasathuraikaran26.medium.com/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array-%EF%B8%8F-8fa1653027bc?source=rss------programming-5) (2025-11-05)
+- [3 Recommended Shoe Storage Cabinets for Hassle-Free Shoe Organization](https://medium.com/@AmazingShopping.net/3-recommended-shoe-storage-cabinets-for-hassle-free-shoe-organization-bceb49957b24?source=rss------programming-5) (2025-11-05)
+- [ 10 must-know JavaScript array methods ](https://medium.com/@Amanda0/10-must-know-javascript-array-methods-72947443fde7?source=rss------programming-5) (2025-11-05)
+- [Code Faster: Master IntelliJ IDEA, VS Code, and Eclipse Shortcuts Like a Pro](https://medium.com/@vallabhsangale7/code-faster-master-intellij-idea-vs-code-and-eclipse-shortcuts-like-a-pro-d0eae13444af?source=rss------programming-5) (2025-11-05)
+- [ 10 Essential React.js Tips Every Developer Should Know ](https://medium.com/@beenakumawat002/10-essential-react-js-tips-every-developer-should-know-4f4205441f15?source=rss------programming-5) (2025-11-05)
 
 </details>
 
@@ -365,21 +362,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Integrate Twilio Flex and Microsoft Dynamics 365 with Zing
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/integrate-flex-microsoft-dynamics-zing-blueprint
-) (2025-11-03)
-- [
-Understanding Twilio and ZenDesk Voice Integration
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/twilio-zendesk-voice-integration
-) (2025-11-03)
-- [
-Detecting iOS 26 Call Screening and Leaving Voicemail​: ​How Twilio AMD and Real-Time Transcriptions Make It Possible
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/detect-ios-call-screening-amd-transcriptions
-) (2025-11-03)
-- [
 8 ways Twilio’s infrastructure ensures reliability 
 ](
 https://www.twilio.com/en-us/blog/insights/cloud-comms/twilio-infrastructure-reliability
@@ -389,6 +371,21 @@ Building Trust in the Age of AI: Why Identity Is the Foundation of Customer Enga
 ](
 https://www.twilio.com/en-us/blog/company/news/twilio-to-acquire-stytch
 ) (2025-10-30)
+- [
+Cyber Week 2025 preparation: Key insights and best practices for retail success
+](
+https://www.twilio.com/en-us/blog/insights/best-practices/cyber-week-preparation-retail-business
+) (2025-10-30)
+- [
+The Future of BPO in the Age of AI and Automation: A Conversational Recap
+](
+https://www.twilio.com/en-us/blog/insights/the-future-of-bpo-in-the-age-of-ai-and-automation--a-conversatio
+) (2025-10-29)
+- [
+October 2025 Fraud Update: How ISVs can Prepare for the Holiday Season
+](
+https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update-october-2025
+) (2025-10-28)
 
 </details>
 
