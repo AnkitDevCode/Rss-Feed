@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Discord’s Family Center update now lets parents monitor weekly purchases](https://techcrunch.com/2025/11/05/discords-family-center-update-now-lets-parents-monitor-weekly-purchases/) (2025-11-06)
 - [Blue Origin plans second launch of New Glenn mega-rocket on November 9](https://techcrunch.com/2025/11/05/blue-origin-plans-second-launch-of-new-glenn-mega-rocket-on-november-9/) (2025-11-05)
 - [Cluely’s Roy Lee hints that viral hype is not enough](https://techcrunch.com/2025/11/05/cluelys-roy-lee-hints-that-viral-hype-is-not-enough/) (2025-11-05)
 - [Lucid Motors’ chief engineer leaves after 10 years](https://techcrunch.com/2025/11/05/lucid-motors-chief-engineer-leaves-after-10-years/) (2025-11-05)
 - [Apple nears deal to pay Google $1B annually to power new Siri, report says](https://techcrunch.com/2025/11/05/apple-nears-deal-to-pay-google-1b-annually-to-power-new-siri-report-says/) (2025-11-05)
-- [Pinterest CEO touts open source AI: ‘tremendous performance’ with reduced costs](https://techcrunch.com/2025/11/05/pinterest-ceo-touts-open-source-ai-tremendous-performance-with-reduced-costs/) (2025-11-05)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Photos: New Phoenix Microcenter is a 'tech-heaven' for geeks](https://www.phoenixnewtimes.com/arts-culture/micro-center-in-phoenix-a-look-inside-the-new-tech-heaven-40618548/) (2025-11-05)
-- [The Basic Laws of Human Stupidity (1987) [pdf]](https://gandalf.fee.urv.cat/professors/AntonioQuesada/Curs1920/Cipolla_laws.pdf) (2025-11-05)
-- [Microsoft and Google overstate job creation at Chile data centers](https://restofworld.org/2025/data-centers-jobs-microsoft-google-chile/) (2025-11-05)
-- [A Lost IBM PC/at Model? Analyzing a Newfound Old Bios](https://int10h.org/blog/2025/11/lost-ibm-at-model-bios-analysis/) (2025-11-05)
-- [Solarpunk is happening in Africa](https://climatedrift.substack.com/p/why-solarpunk-is-already-happening) (2025-11-05)
+- [I may have found a way to spot U.S. at-sea strikes before they're announced](https://old.reddit.com/r/OSINT/comments/1opjjyv/i_may_have_found_a_way_to_spot_us_atsea_strikes/) (2025-11-06)
+- [Ratatui – App Showcase](https://ratatui.rs/showcase/apps/) (2025-11-06)
+- [Brain-IT: Image Reconstruction from fMRI via Brain-Interaction Transformer](https://AmitZalcher.github.io/Brain-IT/) (2025-11-06)
+- [End of Japanese community](https://support.mozilla.org/en-US/forums/contributors/717446) (2025-11-06)
+- [Recursive macros in C, demystified (once the ugly crying stops)](https://h4x0r.org/big-mac-ro-attack/) (2025-11-06)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Canon adds a 32-megapixel sensor and 7K video to the new EOS R6 Mark III](https://www.theverge.com/news/814245/canon-eos-r6-mark-iii-mirrorless-camera-price-specs) (2025-11-06)
+- [Election night at Kalshi HQ](https://www.theverge.com/column/815208/election-night-at-kalshi-hq) (2025-11-06)
 - [Rode’s all-in-one video production console is now smaller and cheaper](https://www.theverge.com/news/813545/rode-rodecaster-video-s-production-console-audio-switcher) (2025-11-06)
 - [Films from YouTube and Google Play are no longer available on Movies Anywhere](https://www.theverge.com/news/815082/movies-anywhere-ends-google-play-youtube-support) (2025-11-05)
 - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals) (2025-11-05)
-- [Google Gemini’s Deep Research can look into your emails, drive, and chats](https://www.theverge.com/ai-artificial-intelligence/814878/google-ai-gemini-deep-research-personalized) (2025-11-05)
-- [Apple’s slim M4 MacBook Air is cheaper than ever ahead of Black Friday](https://www.theverge.com/tech/814640/apple-macbook-air-m4-deal-sale) (2025-11-05)
 
 </details>
 
@@ -97,26 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Según el Banco de México, en 2022 se identificaron casi 20 m](https://dev.to/drcarlosruizviquez/segun-el-banco-de-mexico-en-2022-se-identificaron-casi-20-m-cdo) (2025-11-06)
-- [Unleashing Human Potential: The Hidden Benefit of AI Sports](https://dev.to/drcarlosruizviquez/unleashing-human-potential-the-hidden-benefit-of-ai-sports-4nkk) (2025-11-06)
-- [Understanding Value and Pointer Receivers in Go: Building a Crypto Tracker](https://dev.to/ajipelumi/understanding-value-and-pointer-receivers-in-go-building-a-crypto-tracker-lkn) (2025-11-06)
-- [MVC and Client-Server Details](https://dev.to/zamirul_kabir/mvc-and-client-server-details-51n1) (2025-11-06)
-- [Free GitHub Backup, 2 commands (read-only, restore with plain Git)](https://dev.to/richard_ballard_ead60395c/free-github-backup-2-commands-read-only-restore-with-plain-git-3j06) (2025-11-06)
+- [Why `rem` Should Be Your Default for Spacing in Modern CSS](https://dev.to/alok38/why-rem-should-be-your-default-for-spacing-in-modern-css-2l9m) (2025-11-06)
+- [vimconfig: Auto-Setup Vim dengan Backup Otomatis](https://dev.to/wadahkode/vimconfig-auto-setup-vim-dengan-backup-otomatis-2ejg) (2025-11-06)
+- [Building a Password Checker with Vanilla JS (No Frameworks!)](https://dev.to/cnivargi/building-a-password-checker-with-vanilla-js-no-frameworks-1ofo) (2025-11-06)
+- [Recommendations for Useful AI Search Tools](https://dev.to/serenepine/recommendations-for-useful-ai-search-tools-1ceg) (2025-11-06)
+- [Chapter 2 Git使用心得](https://dev.to/jason_liu_606805294b05bf6/chapter-2-gitshi-yong-xin-de-51in) (2025-11-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [3 Top-Rated Sliding Door Locks for Peace of Mind](https://medium.com/@AmazingShopping.net/3-top-rated-sliding-door-locks-for-peace-of-mind-a32d0d9a28f6?source=rss------programming-5) (2025-11-06)
-- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@2keoekejenskkwkwkw/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-5bf86a116260?source=rss------programming-5) (2025-11-06)
-- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@2keoekejenskkwkwkw/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-5d568979fe9e?source=rss------programming-5) (2025-11-06)
-- [09045080282شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@2keoekejenskkwkwkw/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-205aa39b1363?source=rss------programming-5) (2025-11-06)
-- [09360627233شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@ly4003798/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-9e9b1840d6f2?source=rss------programming-5) (2025-11-06)
+- [What is DNS A Record?](https://medium.com/@su_bak/what-is-dns-a-record-55e3232232e2?source=rss------programming-5) (2025-11-06)
+- [Why JavaScript Is Always Asked in Frontend Interviews](https://javascript.plainenglish.io/why-javascript-is-always-asked-in-frontend-interviews-a17558be8646?source=rss------programming-5) (2025-11-06)
+- [Mastering Custom CSS Properties](https://medium.com/devmap/mastering-custom-css-properties-9c3d0c0775a0?source=rss------programming-5) (2025-11-06)
+- [Why Most Developers Don’t Make Money Online (And How to Fix That)](https://medium.com/mern-mastery/why-most-developers-dont-make-money-online-and-how-to-fix-that-be1e59291e1b?source=rss------programming-5) (2025-11-06)
+- [ Advanced Symfony Security: 12 Secret Management Techniques You Need (Part 2)](https://medium.com/@laurentmn/advanced-symfony-security-12-secret-management-techniques-you-need-part-2-3e767e3a8c7b?source=rss------programming-5) (2025-11-06)
 
 </details>
 
@@ -343,11 +339,11 @@
 <details>
 <summary>💜 Heroku Blog</summary>
 
+- [Upgrade to Puma 7 and Unlock the Power of Fair Scheduled Keep-alive](https://www.heroku.com/blog/upgrade-to-puma-7-and-unlock-the-power-of-fair-scheduled-keep-alive/) (2025-11-05)
+- [Building an Enterprise Data Warehouse on Heroku: From Complex ETL to Seamless Salesforce Integration](https://www.heroku.com/blog/building-an-enterprise-data-warehouse-on-heroku/) (2025-11-05)
 - [Learn How to Lower Heroku Dyno Latency through Persistent Connections (Keep-alive)](https://www.heroku.com/blog/learn-how-to-lower-heroku-dyno-latency-keep-alive/) (2025-11-04)
 - [Heroku Connect: Faster, More Reliable Data Sync with Salesforce CDC](https://www.heroku.com/blog/heroku-connect-data-sync-with-salesforce-cdc/) (2025-10-30)
 - [Heroku Introduces New Innovations to Expand the Capabilities of Every Salesforce Org](https://www.heroku.com/blog/new-innovations-expand-capabilities-every-salesforce-org/) (2025-10-14)
-- [Introducing the Next Generation of Heroku Postgres – Unlocking Performance, Scale, and Zero-Friction Ops](https://www.heroku.com/blog/introducing-the-next-generation-of-heroku-postgres/) (2025-10-14)
-- [Welcome to Heroku Vibes](https://www.heroku.com/blog/turn-ideas-into-apps-heroku-vibes-pilot/) (2025-10-08)
 
 </details>
 
