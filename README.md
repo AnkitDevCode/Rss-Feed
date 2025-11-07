@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [‘Landfall’ spyware abused zero-day to hack Samsung Galaxy phones](https://techcrunch.com/2025/11/07/landfall-spyware-abused-zero-day-to-hack-samsung-galaxy-phones/) (2025-11-07)
 - [Tesla delays reveal of production Roadster 2 to April Fools’ Day](https://techcrunch.com/2025/11/06/tesla-delays-reveal-of-production-roadster-2-to-april-fools-day/) (2025-11-06)
 - [Chris Sacca’s VC firm is raising a second nuclear fusion fund ](https://techcrunch.com/2025/11/06/chris-saccas-vc-firm-is-raising-a-second-nuclear-fusion-fund/) (2025-11-06)
 - [Tesla to begin Cybercab production in April, Musk claims](https://techcrunch.com/2025/11/06/tesla-to-begin-cybercab-production-in-april-musk-claims/) (2025-11-06)
 - [Accel backs Uber rival Rapido as Prosus boosts stake](https://techcrunch.com/2025/11/06/accel-backs-uber-rival-rapido-as-prosus-boosts-stake/) (2025-11-06)
-- [Grand Theft Auto VI is delayed — again](https://techcrunch.com/2025/11/06/grand-theft-auto-vi-is-delayed-again/) (2025-11-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Dead Framework Theory](https://aifoc.us/dead-framework-theory/) (2025-11-07)
-- [A Fond Farewell from Farmers' Almanac](https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac) (2025-11-07)
-- [A prvalue is not a temporary](https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/) (2025-11-07)
-- [HTML Slides with notes](https://nbd.neocities.org/slidepresentation/Slide%20presentation%20about%20slides) (2025-11-07)
-- [$40M 3D printing factory open for business on Guam, will produce parts for Navy](https://www.guampdn.com/news/40m-3d-printing-factory-now-open-for-business-on-guam-will-produce-parts-of-navy/article_0bff0888-b760-4eb4-868a-9bcb46eb507f.html) (2025-11-07)
+- [Sweep (YC S23) is hiring to build autocomplete for JetBrains](https://www.ycombinator.com/companies/sweep/jobs/8dUn406-founding-engineer-intern) (2025-11-07)
+- [A startup’s quest to store electricity in the ocean](https://techcrunch.com/2025/10/22/one-startups-quest-to-store-electricity-in-the-ocean/) (2025-11-07)
+- [Lessons from Growing a Piracy Streaming Site](https://prison.josh.mn/lessons) (2025-11-07)
+- [Leaving Meta and PyTorch](https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html) (2025-11-07)
+- [JermCAD: Browser-Based CAD Software](https://github.com/jeremyaboyd/jerm-cad) (2025-11-07)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The Polestar 4 takes EV minimalism to the next level](https://www.theverge.com/transportation/814717/polestar-4-review-specs-price-rear-windshield) (2025-11-07)
 - [Apple’s latest sci-fi series Pluribus luxuriates in its mystery](https://www.theverge.com/entertainment/815745/pluribus-review-apple-tv) (2025-11-07)
 - [The best AirPods to buy](https://www.theverge.com/tech/645217/best-apple-airpods-pro) (2025-11-07)
 - [Samsung’s new Switch 2-compatible microSD Express card is already on sale](https://www.theverge.com/tech/815946/samsung-p9-microsd-express-card-nintendo-switch-2-deal-sale) (2025-11-06)
 - [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games) (2025-11-06)
-- [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops) (2025-11-06)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The first new subsea habitat in 40 years is about to launch](https://www.technologyreview.com/2025/11/07/1127682/vanguard-deep-subsea-habitat-launch/) (2025-11-07)
+- [Cloning isn’t just for celebrity pets like Tom Brady’s dog](https://www.technologyreview.com/2025/11/07/1127692/cloning-celebrity-pets-tom-brady-dog-conservation/) (2025-11-07)
 - [The Download: how doctors fight conspiracy theories, and your AI footprint](https://www.technologyreview.com/2025/11/06/1127666/the-download-how-doctors-fight-conspiracy-theories-and-your-ai-footprint/) (2025-11-06)
 - [Stop worrying about your AI footprint. Look at the big picture instead.](https://www.technologyreview.com/2025/11/06/1127579/ai-footprint/) (2025-11-06)
 - [A new ion-based quantum computer makes error correction simpler](https://www.technologyreview.com/2025/11/05/1127659/a-new-ion-based-quantum-computer-makes-error-correction-simpler/) (2025-11-05)
-- [The Download: the solar geoengineering race, and future gazing with the The Simpsons](https://www.technologyreview.com/2025/11/05/1127627/the-download-the-solar-geoengineering-race-and-future-gazing-with-the-the-simpsons/) (2025-11-05)
-- [From vibe coding to context engineering: 2025 in software development](https://www.technologyreview.com/2025/11/05/1127477/from-vibe-coding-to-context-engineering-2025-in-software-development/) (2025-11-05)
 
 </details>
 
@@ -97,25 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Novel idea in vector search: Wormhole vectors](https://dev.to/vectorpodcast/novel-idea-in-vector-search-wormhole-vectors-3dg8) (2025-11-07)
-- [JavaScript Made Easy: Your First Step into Web Development](https://dev.to/suraj_kumar_fb57ae0928df2/javascript-made-easy-your-first-step-into-web-development-1dk2) (2025-11-07)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3039) (2025-11-07)
-- [How Small Retailers Can Use Batch Background Removers to Compete with Big Brands](https://dev.to/freepixel11/how-small-retailers-can-use-batch-background-removers-to-compete-with-big-brands-2dh6) (2025-11-07)
-- [Beyond Static: Building Interactive Depth Charts with React, D3.js, and Real-time Data](https://dev.to/ffteamnames/beyond-static-building-interactive-depth-charts-with-react-d3js-and-real-time-data-12o7) (2025-11-07)
+- [The Real Reason Developers Hate Meetings (It’s Not Time) 🧠💥](https://dev.to/sylwia-lask/the-real-reason-developers-hate-meetings-its-not-time-31do) (2025-11-07)
+- [How to improve your waitlist landing page and get more signups?](https://dev.to/avdept/how-to-improve-your-waitlist-landing-page-and-get-more-signups-3b87) (2025-11-07)
+- [Agentic AI has moved from lab to production, ChatGPT and GitHub Copilot are the leaders, says AI analyst firm SlashData](https://dev.to/slashdatahq/agentic-ai-has-moved-from-lab-to-production-chatgpt-and-github-copilot-are-the-leaders-says-ai-2gi) (2025-11-07)
+- [VLA^2: Empowering Vision-Language-Action Models with an Agentic Framework forUnseen Concept Manipulation](https://dev.to/paperium/vla2-empowering-vision-language-action-models-with-an-agentic-framework-forunseen-concept-4405) (2025-11-07)
+- [Hacktoberfest 25 : l’édition Zenika Open Source](https://dev.to/zenika/hacktoberfest-25-ledition-zenika-open-source-3mh3) (2025-11-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Apple ][, //e Resources](https://medium.com/@autodmc/apple-e-resources-bb5a62de4063?source=rss------programming-5) (2025-11-07)
-- [09334082420شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@ohihbojoohighobonohoboohohhiib/09334082420%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-52fcf469d0e1?source=rss------programming-5) (2025-11-07)
-- [09334082420شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@ohihbojoohighobonohoboohohhiib/09334082420%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-77d9a309687f?source=rss------programming-5) (2025-11-07)
-- [09334082420شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@ohihbojoohighobonohoboohohhiib/09334082420%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-a51032b8f473?source=rss------programming-5) (2025-11-07)
-- [3 Top-Rated Bamboo Pillows for Ultimate Comfort and Support](https://medium.com/@AmazingShopping.net/3-top-rated-bamboo-pillows-for-ultimate-comfort-and-support-4a6bad632932?source=rss------programming-5) (2025-11-07)
+- [09013027390شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@fhdfjegjshj/09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-9e324489cade?source=rss------programming-5) (2025-11-07)
+- [09013027390شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@fhdfjegjshj/09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-ffe12f68ae34?source=rss------programming-5) (2025-11-07)
+- [09013027390شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@fhdfjegjshj/09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-eaae7ebf78e8?source=rss------programming-5) (2025-11-07)
+- [Bitcoin's Fog of War: The IF-THEN Awakening to Unchained Sovereignty ⚡](https://medium.com/@blackwolf_79546/bitcoins-fog-of-war-awakening-to-digital-sovereignty-we-re-smack-dab-in-the-throbbing-heart-of-4485efe4c57c?source=rss------programming-5) (2025-11-07)
+- [Inside an Open Source Project: What’s in a GitHub Repo](https://medium.com/@bitsbyritik/inside-an-open-source-project-whats-in-a-github-repo-4f7073d424f2?source=rss------programming-5) (2025-11-07)
 
 </details>
 
@@ -133,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Fully managed cloud-to-cloud transfers with Azure Storage Mover](https://azure.microsoft.com/en-us/blog/fully-managed-cloud-to-cloud-transfers-with-azure-storage-mover/) (2025-10-23)
-- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2025-10-22)
-- [The Signals Loop: Fine-tuning for world-class AI apps and agents ](https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/) (2025-10-21)
-- [Innovation spotlight: How 3 customers are driving change with migration to Azure SQL](https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/) (2025-10-20)
-- [From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available](https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/) (2025-10-16)
+- [Microsoft strengthens sovereign cloud capabilities with new services](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/) (2025-11-05)
+- [Powering Distributed AI/ML at Scale with Azure and Anyscale](https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/) (2025-11-04)
+- [Enhancing software supply chain security with Microsoft’s Signing Transparency](https://azure.microsoft.com/en-us/blog/enhancing-software-supply-chain-security-with-microsofts-signing-transparency/) (2025-11-03)
+- [Resiliency in the cloud—empowered by shared responsibility and Azure Essentials](https://azure.microsoft.com/en-us/blog/resiliency-in-the-cloud-empowered-by-shared-responsibility-and-azure-essentials/) (2025-10-31)
+- [GitHub Universe 2025: Where developer innovation took center stage](https://azure.microsoft.com/en-us/blog/github-universe-2025-where-developer-innovation-took-center-stage/) (2025-10-30)
 
 </details>
 
@@ -365,16 +362,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Auto-Instrumentation: The End of Manual Tracking
-](
-https://www.twilio.com/en-us/blog/products/launches/auto-instrumentation-end-of-manual-tracking
-) (2025-11-05)
-- [
-SMS vs. WhatsApp: What’s best for your business
-](
-https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-whatsapp-for-business
-) (2025-11-05)
-- [
 Introducing Email Logs: Search, Filter, and Troubleshoot Email Events
 ](
 https://www.twilio.com/en-us/blog/products/launches/email-logs-generally-available
@@ -388,6 +375,16 @@ https://www.twilio.com/en-us/blog/what-is-rcs-messaging
 Integrate Twilio Flex and Microsoft Dynamics 365 with Zing
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/integrate-flex-microsoft-dynamics-zing-blueprint
+) (2025-11-03)
+- [
+Detecting iOS 26 Call Screening and Leaving Voicemail​: ​How Twilio AMD and Real-Time Transcriptions Make It Possible
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/detect-ios-call-screening-amd-transcriptions
+) (2025-11-03)
+- [
+Understanding Twilio and ZenDesk Voice Integration
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/twilio-zendesk-voice-integration
 ) (2025-11-03)
 
 </details>
@@ -561,33 +558,33 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/integrate-fl
 <details>
 <summary>🤖 AI News</summary>
 
+- [Microsoft’s next big AI bet: building a ‘humanist superintelligence’](https://www.artificialintelligence-news.com/news/microsoft-next-big-ai-bet-building-a-humanist-superintelligence/) (2025-11-07)
+- [Nvidia AI chip ban: Can tech giants navigate a geopolitical zero-sum game?](https://www.artificialintelligence-news.com/news/nvidia-ai-chip-ban-china-market-share/) (2025-11-07)
 - [Exclusive: Dubai’s Digital Government chief says speed trumps spending in AI efficiency race](https://www.artificialintelligence-news.com/news/dubai-ai-government-efficiency-speed-exclusive/) (2025-11-06)
 - [Is AI in a bubble? Succeed despite a market correction](https://www.artificialintelligence-news.com/news/is-ai-in-a-bubble-succeed-despite-market-correction/) (2025-11-06)
 - [Apple plans big Siri update with help from Google AI](https://www.artificialintelligence-news.com/news/apple-plans-big-siri-update-with-help-from-google-ai/) (2025-11-06)
-- [Keep CALM: New model design could fix high enterprise AI costs](https://www.artificialintelligence-news.com/news/keep-calm-new-model-design-fix-high-enterprise-ai-costs/) (2025-11-05)
-- [The enemy within: AI as the attack surface](https://www.artificialintelligence-news.com/news/tenable-untenable-ai-assistant-attack-threats-what-enterprises-should-do/) (2025-11-05)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Use GPT-5 Effectively](https://towardsdatascience.com/how-to-use-gpt-5-effectively/) (2025-11-07)
 - [TDS Newsletter: The Theory and Practice of Using AI Effectively](https://towardsdatascience.com/tds-newsletter-the-theory-and-practice-of-using-ai-effectively/) (2025-11-06)
 - [Expected Value Analysis in AI Product Management](https://towardsdatascience.com/expected-value-analysis-in-ai-product-management/) (2025-11-06)
 - [The Reinforcement Learning Handbook: A Guide to Foundational Questions](https://towardsdatascience.com/the-handbook-of-reinforcement-learning-guide-to-the-foundational-questions/) (2025-11-06)
 - [Multi-Agent SQL Assistant, Part 2: Building a RAG Manager](https://towardsdatascience.com/multi-agent-sql-assistant-part-2-building-a-rag-manager/) (2025-11-06)
-- [We Didn’t Invent Attention — We Just Rediscovered It](https://towardsdatascience.com/we-didnt-invent-attention-we-just-rediscovered-it/) (2025-11-05)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Gemini API File Search: The Easy Way to Build RAG](https://www.analyticsvidhya.com/blog/2025/11/gemini-api-file-search/) (2025-11-07)
+- [Crash Course to Crack Machine Learning Interview – Part 2: Linear Regression](https://www.analyticsvidhya.com/blog/2025/11/linear-regression-interview-questions/) (2025-11-07)
 - [Kimi K2 Thinking is Here and It Beats GPT-5!](https://www.analyticsvidhya.com/blog/2025/11/kimi-k2-thinking/) (2025-11-06)
 - [8 AI Tools to Analyze Data in Excel by Just Chatting](https://www.analyticsvidhya.com/blog/2025/11/ai-tools-for-excel/) (2025-11-06)
 - [The 5% Rule: What can you do That AI Still Can’t?](https://www.analyticsvidhya.com/blog/2025/11/save-your-job-against-ai/) (2025-11-05)
-- [Gemini Can Now Create “Presentations” with One Prompt!](https://www.analyticsvidhya.com/blog/2025/11/gemini-presentation/) (2025-11-05)
-- [How to Build a Smart AI Voice Assistant with Vapi: A Step-by-Step Tutorial  ](https://www.analyticsvidhya.com/blog/2025/11/vapi-ai-voice-assistant/) (2025-11-04)
 
 </details>
 
@@ -605,11 +602,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/integrate-fl
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [The 7 Statistical Concepts You Need to Succeed as a Machine Learning Engineer](https://machinelearningmastery.com/the-7-statistical-concepts-you-need-to-succeed-as-a-machine-learning-engineer/) (2025-11-07)
 - [Free AI and Data Courses with 365 Data Science—100% Unlimited Access until Nov 21](https://machinelearningmastery.com/free-ai-and-data-courses-with-365-data-science-100-unlimited-access-until-nov-21/) (2025-11-06)
 - [Essential Chunking Techniques for Building Better LLM Applications](https://machinelearningmastery.com/essential-chunking-techniques-for-building-better-llm-applications/) (2025-11-06)
 - [How to Diagnose Why Your Language Model Fails](https://machinelearningmastery.com/how-to-diagnose-why-your-language-model-fails/) (2025-11-05)
 - [10 Python One-Liners for Calculating Model Feature Importance](https://machinelearningmastery.com/10-python-one-liners-for-calculating-model-feature-importance/) (2025-11-04)
-- [7 Prompt Engineering Tricks to Mitigate Hallucinations in LLMs](https://machinelearningmastery.com/7-prompt-engineering-tricks-to-mitigate-hallucinations-in-llms/) (2025-11-03)
 
 </details>
 
