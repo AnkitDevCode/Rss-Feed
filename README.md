@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Scientists find ways to boost memory in aging brains](https://news.vt.edu/articles/2025/10/cals-jarome-improving-memory.html) (2025-11-07)
-- [Game design is simple](https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/) (2025-11-06)
-- [The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html) (2025-11-06)
-- [Hightouch (YC S19) Is Hiring](https://job-boards.greenhouse.io/hightouch/jobs/5542602004) (2025-11-06)
-- [Universe's expansion 'is now slowing, not speeding up'](https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding) (2025-11-06)
+- [Dead Framework Theory](https://aifoc.us/dead-framework-theory/) (2025-11-07)
+- [A Fond Farewell from Farmers' Almanac](https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac) (2025-11-07)
+- [A prvalue is not a temporary](https://blog.knatten.org/2025/10/31/a-prvalue-is-not-a-temporary/) (2025-11-07)
+- [HTML Slides with notes](https://nbd.neocities.org/slidepresentation/Slide%20presentation%20about%20slides) (2025-11-07)
+- [$40M 3D printing factory open for business on Guam, will produce parts for Navy](https://www.guampdn.com/news/40m-3d-printing-factory-now-open-for-business-on-guam-will-produce-parts-of-navy/article_0bff0888-b760-4eb4-868a-9bcb46eb507f.html) (2025-11-07)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Apple’s latest sci-fi series Pluribus luxuriates in its mystery](https://www.theverge.com/entertainment/815745/pluribus-review-apple-tv) (2025-11-07)
+- [The best AirPods to buy](https://www.theverge.com/tech/645217/best-apple-airpods-pro) (2025-11-07)
 - [Samsung’s new Switch 2-compatible microSD Express card is already on sale](https://www.theverge.com/tech/815946/samsung-p9-microsd-express-card-nintendo-switch-2-deal-sale) (2025-11-06)
 - [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games) (2025-11-06)
 - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops) (2025-11-06)
-- [Tesla shareholders approve Elon Musk’s $1 trillion pay package](https://www.theverge.com/news/815892/tesla-shareholder-vote-elon-musk-pay-trillion-robot) (2025-11-06)
-- [Grand Theft Auto VI launch delayed until November 2026](https://www.theverge.com/news/816005/grand-theft-auto-vi-gta-g-delayed-november-2026) (2025-11-06)
 
 </details>
 
@@ -86,35 +86,36 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Revealing the unknown unknowns in your software](https://stackoverflow.blog/2025/11/07/revealing-the-unknown-unknowns-in-your-software/) (2025-11-07)
 - [The AI ick](https://stackoverflow.blog/2025/11/05/the-ai-ick/) (2025-11-05)
 - [To write secure code, be less gullible than your AI](https://stackoverflow.blog/2025/11/04/to-write-secure-code-be-less-gullible-than-your-ai/) (2025-11-04)
 - [What’s new at Stack Overflow: November 2025](https://stackoverflow.blog/2025/11/03/what-s-new-at-stack-overflow-november-2025/) (2025-11-03)
 - [Vibe coding needs a spec, too](https://stackoverflow.blog/2025/10/31/vibe-coding-needs-a-spec-too/) (2025-10-31)
-- [Live from the OpenAI forum: Learning to code in the age of AI](https://stackoverflow.blog/2025/10/30/live-from-the-openai-forum-learning-to-code-in-the-age-of-ai/) (2025-10-30)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Virtual Music Lessons: A Modern Way to Learn With Freedom, Confidence, and Connection](https://dev.to/christopherjhon/virtual-music-lessons-a-modern-way-to-learn-with-freedom-confidence-and-connection-40fo) (2025-11-07)
-- [Unlocking Developer Revenue: AI Monetization with Dual Earnings for LLM Apps](https://dev.to/monetzly/unlocking-developer-revenue-ai-monetization-with-dual-earnings-for-llm-apps-54il) (2025-11-07)
-- [Build a Highly Available Pi-hole Cluster with Ansible (VRRP)](https://dev.to/mikula/build-a-highly-available-pi-hole-cluster-with-ansible-vrrp-gbp) (2025-11-07)
-- [🚀 I Built a Full SaaS App in 10 Minutes Using Blink.new — No Code, No Team, No Stress](https://dev.to/duodevlogs/i-built-a-full-saas-app-in-10-minutes-using-blinknew-no-code-no-team-no-stress-lfo) (2025-11-07)
-- [How Reddit Shaped v1.1 of My Open-Source Secrets Scanner](https://dev.to/amosfinds/how-reddit-shaped-v11-of-my-open-source-secrets-scanner-2n7b) (2025-11-07)
+- [Novel idea in vector search: Wormhole vectors](https://dev.to/vectorpodcast/novel-idea-in-vector-search-wormhole-vectors-3dg8) (2025-11-07)
+- [JavaScript Made Easy: Your First Step into Web Development](https://dev.to/suraj_kumar_fb57ae0928df2/javascript-made-easy-your-first-step-into-web-development-1dk2) (2025-11-07)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-3039) (2025-11-07)
+- [How Small Retailers Can Use Batch Background Removers to Compete with Big Brands](https://dev.to/freepixel11/how-small-retailers-can-use-batch-background-removers-to-compete-with-big-brands-2dh6) (2025-11-07)
+- [Beyond Static: Building Interactive Depth Charts with React, D3.js, and Real-time Data](https://dev.to/ffteamnames/beyond-static-building-interactive-depth-charts-with-react-d3js-and-real-time-data-12o7) (2025-11-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [3 Recommended Pressure Washer Hoses for Durable and Reliable Use](https://medium.com/@AmazingShopping.net/3-recommended-pressure-washer-hoses-for-durable-and-reliable-use-98fa3eea1f9b?source=rss------programming-5) (2025-11-07)
-- [09381554690شماره خاله کرج شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز شماره خاله اهواز…](https://medium.com/@baxivuxamicom/09381554690%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-67808801deab?source=rss------programming-5) (2025-11-07)
+- [Apple ][, //e Resources](https://medium.com/@autodmc/apple-e-resources-bb5a62de4063?source=rss------programming-5) (2025-11-07)
 - [09334082420شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@vkvkkcvkvlvlbokbbbkifoggk/09334082420%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-38f68b399c0e?source=rss------programming-5) (2025-11-07)
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@ohihbojoohighobonohoboohohhiib/09334082420%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-52fcf469d0e1?source=rss------programming-5) (2025-11-07)
 - [09334082420شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@vkvkkcvkvlvlbokbbbkifoggk/09334082420%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-3b892fbafc91?source=rss------programming-5) (2025-11-07)
-- [09381554690شماره خاله کرج شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز شماره خاله اهواز…](https://medium.com/@baxivuxamicom/09381554690%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-55da13ef348e?source=rss------programming-5) (2025-11-07)
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@ohihbojoohighobonohoboohohhiib/09334082420%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-77d9a309687f?source=rss------programming-5) (2025-11-07)
+- [09334082420شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@ohihbojoohighobonohoboohohhiib/09334082420%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-a51032b8f473?source=rss------programming-5) (2025-11-07)
+- [3 Top-Rated Bamboo Pillows for Ultimate Comfort and Support](https://medium.com/@AmazingShopping.net/3-top-rated-bamboo-pillows-for-ultimate-comfort-and-support-4a6bad632932?source=rss------programming-5) (2025-11-07)
 
 </details>
 
@@ -364,6 +365,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Auto-Instrumentation: The End of Manual Tracking
+](
+https://www.twilio.com/en-us/blog/products/launches/auto-instrumentation-end-of-manual-tracking
+) (2025-11-05)
+- [
+SMS vs. WhatsApp: What’s best for your business
+](
+https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-whatsapp-for-business
+) (2025-11-05)
+- [
 Introducing Email Logs: Search, Filter, and Troubleshoot Email Events
 ](
 https://www.twilio.com/en-us/blog/products/launches/email-logs-generally-available
@@ -377,16 +388,6 @@ https://www.twilio.com/en-us/blog/what-is-rcs-messaging
 Integrate Twilio Flex and Microsoft Dynamics 365 with Zing
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/integrate-flex-microsoft-dynamics-zing-blueprint
-) (2025-11-03)
-- [
-Detecting iOS 26 Call Screening and Leaving Voicemail​: ​How Twilio AMD and Real-Time Transcriptions Make It Possible
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/detect-ios-call-screening-amd-transcriptions
-) (2025-11-03)
-- [
-Understanding Twilio and ZenDesk Voice Integration
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/twilio-zendesk-voice-integration
 ) (2025-11-03)
 
 </details>
