@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [TechCrunch Disrupt 2025 Startup Battlefield 200: Celebrating outstanding achievements](https://techcrunch.com/2025/11/07/techcrunch-disrupt-2025s-startup-battlefield-200-celebrating-outstanding-achievements/) (2025-11-07)
-- [Kim Kardashian says ChatGPT is her ‘frenemy’](https://techcrunch.com/2025/11/07/kim-kardashian-says-chatgpt-is-her-frenemy/) (2025-11-07)
-- [Congressional Budget Office confirms it was hacked](https://techcrunch.com/2025/11/07/congressional-budget-office-confirms-it-was-hacked/) (2025-11-07)
-- [Amazon launches a low-price standalone shopping app, Amazon Bazaar, in over a dozen markets](https://techcrunch.com/2025/11/07/amazon-launches-a-low-price-standalone-shopping-app-amazon-bazaar-in-over-a-dozen-markets/) (2025-11-07)
-- [How one founder plans to save cities from flooding with terraforming robots](https://techcrunch.com/2025/11/07/one-founders-plan-to-save-his-city-san-rafael-with-terraforming-robots/) (2025-11-07)
+- [Rivian gives RJ Scaringe a new pay package worth up to $5B](https://techcrunch.com/2025/11/07/rivian-gives-rj-scaringe-a-new-pay-package-worth-up-to-5b/) (2025-11-07)
+- [Seven more families are now suing OpenAI over ChatGPT’s role in suicides, delusions](https://techcrunch.com/2025/11/07/seven-more-families-are-now-suing-openai-over-chatgpts-role-in-suicides-delusions/) (2025-11-07)
+- [GoWish’s shopping and wish list app is having its biggest year yet](https://techcrunch.com/2025/11/07/gowishs-shopping-and-wishlist-app-is-having-its-biggest-year-yet/) (2025-11-07)
+- [Washington Post confirms data breach linked to Oracle hacks](https://techcrunch.com/2025/11/07/washington-post-confirms-data-breach-linked-to-oracle-hacks/) (2025-11-07)
+- [I tried the Apple Crossbody Strap. It’s convenient, but the phone looks silly when the strap is removed.](https://techcrunch.com/2025/11/07/i-tried-the-apple-crossbody-strap-its-convenient-but-the-phone-looks-silly-when-the-strap-is-removed/) (2025-11-07)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Gmail AI gets more intrusive](https://daveverse.org/2025/11/07/gmail-ai-gets-even-more-intrusive/) (2025-11-07)
-- [Vodafone Germany is killing the open internet – one peering connection at a time](https://coffee.link/vodafone-germany-is-killing-the-open-internet-one-peering-connection-at-a-time/) (2025-11-07)
-- [Nasdaq 100 set for worst week since April meltdown](https://fortune.com/2025/11/07/nasdaq-100-worst-week-since-april-bear-market-correction/) (2025-11-07)
-- [Toxic Salton Sea dust triggers changes in lung microbiome after just one week](https://phys.org/news/2025-10-toxic-salton-sea-triggers-lung.html) (2025-11-07)
-- [3I/ATLAS shows perihelion burst and radial-only non-gravitational acceleration](https://old.reddit.com/r/dataisbeautiful/comments/1oqfau8/3iatlas_shows_perihelion_burst_and_radialonly/) (2025-11-07)
+- [Immutable Software Deploys Using ZFS Jails on FreeBSD](https://conradresearch.com/articles/immutable-software-deploy-zfs-jails) (2025-11-08)
+- [Snapchat open-sources Valdi a cross-platform UI framework](https://github.com/Snapchat/Valdi) (2025-11-08)
+- [Analysis of Hedy Lamarr's Contribution to Spread-Spectrum Communication](https://researchers.one/articles/24.01.00001v4) (2025-11-07)
+- [Why is Zig so Cool?](https://nilostolte.github.io/tech/articles/ZigCool.html) (2025-11-07)
+- [FAA restricts commercial rocket launches indefinitely due to air traffic risks](https://www.space.com/space-exploration/launches-spacecraft/faa-restricts-commercial-rocket-launches-indefinitely-due-to-air-traffic-risks-from-government-shutdown) (2025-11-07)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Steam store pages are wider now](https://www.theverge.com/news/816599/valve-steam-store-pages-wider) (2025-11-07)
-- [Texas sues Roblox for allegedly failing to protect children on its platform](https://www.theverge.com/news/816549/texas-roblox-lawsuit-child-safety) (2025-11-07)
-- [BioWare says it&#8217;s &#8216;focused exclusively&#8217; on the next Mass Effect](https://www.theverge.com/news/816555/bioware-mass-effect-5-development-focused-tv-show-amazon-n7-day) (2025-11-07)
-- [Does the Trump phone exist yet?](https://www.theverge.com/news/816484/does-trump-phone-exist-yet) (2025-11-07)
-- [X appears to be sending fake traffic across the web](https://www.theverge.com/news/816451/x-fake-traffic-preloading-links-bluesky-substack) (2025-11-07)
+- [Halo Infinite is about to get its last major update](https://www.theverge.com/news/816960/halo-infinite-end) (2025-11-07)
+- [Maybe Peloton is its own worst enemy](https://www.theverge.com/gadgets/816352/peloton-q1-2026-earnings-fitness) (2025-11-07)
+- [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker) (2025-11-07)
+- [World of Warcraft is getting a new kind of fake money](https://www.theverge.com/news/816714/world-of-warcraft-player-housing-hearthsteel-currency) (2025-11-07)
+- [Blackmagic’s free camera app can now stream directly to YouTube and Twitch](https://www.theverge.com/news/816516/blackmagic-design-camera-mobile-app-ios-android-streaming-youtube-twitch) (2025-11-07)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [With Skigill, the classic RPG skill tree becomes a crowded battlefield](https://arstechnica.com/gaming/2025/11/with-skigill-the-classic-rpg-skill-tree-becomes-a-crowded-battlefield/) (2025-11-07)
-- [Ford says “no exact date” to restart F-150 Lightning production](https://arstechnica.com/cars/2025/11/ford-says-no-exact-date-to-restart-f-150-lightning-production/) (2025-11-07)
-- [10,000 generations of hominins used the same stone tools to weather a changing world](https://arstechnica.com/science/2025/11/10000-generations-of-hominins-used-the-same-stone-tools-to-weather-a-changing-world/) (2025-11-07)
-- [Mark Zuckerberg’s illegal school drove his neighbors crazy](https://arstechnica.com/tech-policy/2025/11/mark-zuckerbergs-illegal-school-drove-his-neighbors-crazy/) (2025-11-07)
-- [Rocket Report: Canada invests in sovereign launch; India flexes rocket muscles](https://arstechnica.com/space/2025/11/rocket-report-canada-invests-in-sovereign-launch-india-flexes-rocket-muscles/) (2025-11-07)
+- [James Watson, who helped unravel DNA’s double-helix, has died](https://arstechnica.com/health/2025/11/james-watson-who-helped-unravel-dnas-double-helix-has-died/) (2025-11-07)
+- [Researchers surprised that with AI, toxicity is harder to fake than intelligence](https://arstechnica.com/information-technology/2025/11/being-too-nice-online-is-a-dead-giveaway-for-ai-bots-study-suggests/) (2025-11-07)
+- [Commercial spyware “Landfall” ran rampant on Samsung phones for almost a year](https://arstechnica.com/gadgets/2025/11/commercial-spyware-landfall-ran-rampant-on-samsung-phones-for-almost-a-year/) (2025-11-07)
+- [The government shutdown is starting to have cosmic consequences](https://arstechnica.com/space/2025/11/faa-says-commercial-rockets-must-launch-at-night-citing-government-shutdown/) (2025-11-07)
+- [Higher prices, simpler streaming expected if HBO Max folds into Paramount+](https://arstechnica.com/gadgets/2025/11/higher-prices-simpler-streaming-expected-if-hbo-max-folds-into-paramount/) (2025-11-07)
 
 </details>
 
@@ -97,25 +97,27 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-159c) (2025-11-07)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - 'Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-h48) (2025-11-07)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-40km) (2025-11-07)
-- [CinemaSins: Everything Wrong With Thunderbolts* (The New Avengers) In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-3m11) (2025-11-07)
-- [Getting Organized with the Synology DS925+: My Honest First NAS Experience](https://dev.to/hardeep_singhajimal_e72e/getting-organized-with-the-synology-ds925-my-honest-first-nas-experience-cp7) (2025-11-07)
+- [Implementare Micro Frontend con Angular 19 e Module Federation: Shell + Runtime Integration](https://dev.to/fedecroletti/implementare-micro-frontend-con-angular-19-e-module-federation-shell-runtime-integration-5d69) (2025-11-08)
+- [Dear Devs, This Is a Call to All of Us 💻❤️](https://dev.to/velora_tech_cbfb10dd9eede/dear-devs-this-is-a-call-to-all-of-us-4blp) (2025-11-08)
+- [たった1枚の引き伸ばされた画像から、AWS Lambdaのコード移行とCI/CD構築に至った話](https://dev.to/kaziusan/tatuta1mei-noyin-kishen-basaretahua-xiang-kara-aws-lambdanokodoyi-xing-tocicdgou-zhu-nizhi-tutahua-252p) (2025-11-08)
+- [Building a Mini Build System in Go: Understanding How Bazel Works Under the Hood](https://dev.to/tmwakalasya/building-a-mini-build-system-in-go-understanding-how-bazel-works-under-the-hood-3gp6) (2025-11-08)
+- [Title: The Rise and Fall of ChatGPT: A Tech-Savvy Perspective](https://dev.to/yagyaraj_sharma_6cd410179/title-the-rise-and-fall-of-chatgpt-a-tech-savvy-perspective-600) (2025-11-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [3 Ways To Achieve Concurrency In Python](https://medium.com/@speaktoharisudhan/3-ways-to-achieve-concurrency-in-python-275a39d5cd18?source=rss------programming-5) (2025-11-07)
-- [09025042560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@fffggffdddedddddddfgvt/09025042560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-69e5dacebb7f?source=rss------programming-5) (2025-11-07)
-- [09025042560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@fffggffdddedddddddfgvt/09025042560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-eb9882ac6b1c?source=rss------programming-5) (2025-11-07)
-- [09025042560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@fffggffdddedddddddfgvt/09025042560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-db49c1933c1a?source=rss------programming-5) (2025-11-07)
-- [Airbnb’s $X Million Mistake: 3 Lessons from Their React Native Failure.](https://medium.com/@kushalburad07/airbnbs-x-million-mistake-3-lessons-from-their-react-native-failure-e6013afe6cbb?source=rss------programming-5) (2025-11-07)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mbvcfcvb4mkjb/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-7888302e7fee?source=rss------programming-5) (2025-11-08)
+- [09027641209شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@gxghcxfjjfxghjfxghg/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-30008c680c7e?source=rss------programming-5) (2025-11-08)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mbvcfcvb4mkjb/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-30221c9b4ea8?source=rss------programming-5) (2025-11-08)
+- [09027641209شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@gxghcxfjjfxghjfxghg/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-0ca0e5d493db?source=rss------programming-5) (2025-11-08)
+- [0901 390 1618شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@gxghcxfjjfxghjfxghg/0901-390-1618%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-c03499f8b638?source=rss------programming-5) (2025-11-08)
 
 </details>
 
@@ -133,11 +135,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Fully managed cloud-to-cloud transfers with Azure Storage Mover](https://azure.microsoft.com/en-us/blog/fully-managed-cloud-to-cloud-transfers-with-azure-storage-mover/) (2025-10-23)
-- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2025-10-22)
-- [The Signals Loop: Fine-tuning for world-class AI apps and agents ](https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/) (2025-10-21)
-- [Innovation spotlight: How 3 customers are driving change with migration to Azure SQL](https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/) (2025-10-20)
-- [From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available](https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/) (2025-10-16)
+- [Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows](https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/) (2025-11-05)
+- [Microsoft strengthens sovereign cloud capabilities with new services](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/) (2025-11-05)
+- [Powering Distributed AI/ML at Scale with Azure and Anyscale](https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/) (2025-11-04)
+- [Enhancing software supply chain security with Microsoft’s Signing Transparency](https://azure.microsoft.com/en-us/blog/enhancing-software-supply-chain-security-with-microsofts-signing-transparency/) (2025-11-03)
+- [Resiliency in the cloud—empowered by shared responsibility and Azure Essentials](https://azure.microsoft.com/en-us/blog/resiliency-in-the-cloud-empowered-by-shared-responsibility-and-azure-essentials/) (2025-10-31)
 
 </details>
 
@@ -365,16 +367,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Auto-Instrumentation: The End of Manual Tracking
-](
-https://www.twilio.com/en-us/blog/products/launches/auto-instrumentation-end-of-manual-tracking
-) (2025-11-05)
-- [
-SMS vs. WhatsApp: What’s best for your business
-](
-https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-whatsapp-for-business
-) (2025-11-05)
-- [
 Introducing Email Logs: Search, Filter, and Troubleshoot Email Events
 ](
 https://www.twilio.com/en-us/blog/products/launches/email-logs-generally-available
@@ -388,6 +380,16 @@ https://www.twilio.com/en-us/blog/what-is-rcs-messaging
 Integrate Twilio Flex and Microsoft Dynamics 365 with Zing
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/integrate-flex-microsoft-dynamics-zing-blueprint
+) (2025-11-03)
+- [
+Detecting iOS 26 Call Screening and Leaving Voicemail​: ​How Twilio AMD and Real-Time Transcriptions Make It Possible
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/detect-ios-call-screening-amd-transcriptions
+) (2025-11-03)
+- [
+Understanding Twilio and ZenDesk Voice Integration
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/twilio-zendesk-voice-integration
 ) (2025-11-03)
 
 </details>
@@ -573,11 +575,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/integrate-fl
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Evaluating Synthetic Data — The Million Dollar Question](https://towardsdatascience.com/evaluating-synthetic-data-the-million-dollar-question-a54701d1b621/) (2025-11-07)
 - [Beyond Numbers: How to Humanize Your Data & Analysis](https://towardsdatascience.com/beyond-numbers-how-to-humanize-your-data-analysis/) (2025-11-07)
 - [How to Use GPT-5 Effectively](https://towardsdatascience.com/how-to-use-gpt-5-effectively/) (2025-11-07)
 - [TDS Newsletter: The Theory and Practice of Using AI Effectively](https://towardsdatascience.com/tds-newsletter-the-theory-and-practice-of-using-ai-effectively/) (2025-11-06)
 - [Expected Value Analysis in AI Product Management](https://towardsdatascience.com/expected-value-analysis-in-ai-product-management/) (2025-11-06)
-- [The Reinforcement Learning Handbook: A Guide to Foundational Questions](https://towardsdatascience.com/the-handbook-of-reinforcement-learning-guide-to-the-foundational-questions/) (2025-11-06)
 
 </details>
 
