@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [OpenAI asked Trump administration to expand Chips Act tax credit to cover data centers](https://techcrunch.com/2025/11/08/openai-asked-trump-administration-to-expand-chips-act-tax-credit-to-cover-data-centers/) (2025-11-08)
+- [How startups can lure good talent fairly without big tech bank accounts ](https://techcrunch.com/2025/11/08/how-startups-can-lure-good-talent-fairly-without-big-tech-bank-accounts/) (2025-11-08)
 - [Rivian gives RJ Scaringe a new pay package worth up to $5B](https://techcrunch.com/2025/11/07/rivian-gives-rj-scaringe-a-new-pay-package-worth-up-to-5b/) (2025-11-07)
 - [Seven more families are now suing OpenAI over ChatGPT’s role in suicides, delusions](https://techcrunch.com/2025/11/07/seven-more-families-are-now-suing-openai-over-chatgpts-role-in-suicides-delusions/) (2025-11-07)
 - [GoWish’s shopping and wish list app is having its biggest year yet](https://techcrunch.com/2025/11/07/gowishs-shopping-and-wishlist-app-is-having-its-biggest-year-yet/) (2025-11-07)
-- [Washington Post confirms data breach linked to Oracle hacks](https://techcrunch.com/2025/11/07/washington-post-confirms-data-breach-linked-to-oracle-hacks/) (2025-11-07)
-- [I tried the Apple Crossbody Strap. It’s convenient, but the phone looks silly when the strap is removed.](https://techcrunch.com/2025/11/07/i-tried-the-apple-crossbody-strap-its-convenient-but-the-phone-looks-silly-when-the-strap-is-removed/) (2025-11-07)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Cekura (YC F24) Is Hiring](https://news.ycombinator.com/item?id=45856069) (2025-11-08)
-- [Copy button added to Stack Overflow](https://meta.stackexchange.com/questions/414573/results-of-the-october-2025-community-asks-sprint-copy-button-for-code-blocks) (2025-11-08)
-- [My friends and I accidentally faked the Ryzen 7 9700X3D leaks](https://old.reddit.com/r/pcmasterrace/comments/1orc6jl/my_friends_and_i_accidentally_faked_the_ryzen_7/) (2025-11-08)
-- [A rats to riches story: Larry the Downing Street cat finds place in TV spotlight](https://www.theguardian.com/politics/2025/nov/08/a-rats-to-riches-story-larry-the-downing-street-cat-finds-place-in-tv-spotlight) (2025-11-08)
-- [Making Democracy Work: Fixing and Simplifying Egalitarian Paxos](https://arxiv.org/abs/2511.02743) (2025-11-08)
+- [Driver livestreams on TikTok as she apparently hits and kills man in Chicago](https://www.theguardian.com/us-news/2025/nov/08/tiktok-live-stream-fatal-crash-chicago) (2025-11-08)
+- [Cloudflare Scrubs Aisuru Botnet from Top Domains List](https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/) (2025-11-08)
+- [52 Year old data tape could contain Unix history](https://www.theregister.com/2025/11/07/unix_fourth_edition_tape_rediscovered/) (2025-11-08)
+- [Ticker: Don't Die of Heart Disease](https://myticker.com/) (2025-11-08)
+- [An Algebraic Language for the Manipulation of Symbolic Expressions (1958) [pdf]](https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf) (2025-11-08)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Halo Infinite is about to get its last major update](https://www.theverge.com/news/816960/halo-infinite-end) (2025-11-07)
-- [Maybe Peloton is its own worst enemy](https://www.theverge.com/gadgets/816352/peloton-q1-2026-earnings-fitness) (2025-11-07)
-- [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker) (2025-11-07)
-- [World of Warcraft is getting a new kind of fake money](https://www.theverge.com/news/816714/world-of-warcraft-player-housing-hearthsteel-currency) (2025-11-07)
-- [Blackmagic’s free camera app can now stream directly to YouTube and Twitch](https://www.theverge.com/news/816516/blackmagic-design-camera-mobile-app-ios-android-streaming-youtube-twitch) (2025-11-07)
+- [The best earbuds we’ve tested for 2025](https://www.theverge.com/21309820/best-wireless-earbuds) (2025-11-08)
+- [Apple helped kill netbooks. Will it bring them back?](https://www.theverge.com/tech/817277/apple-ipad-killed-the-netbook-cheap-macbook-is-bringing-them-back) (2025-11-08)
+- [Sims streamers are distancing themselves from EA, but for some the choice is hard](https://www.theverge.com/games/816750/the-sims-ea-buyout-content-creator-program-departures-lilsimsie) (2025-11-08)
+- [Apple Watches and advent calendars top our list of the best deals this week](https://www.theverge.com/tech/816649/apple-watch-se-3-lego-star-wars-advent-calendar-deal-sale) (2025-11-08)
+- [The Matic robot vacuum is smarter, quieter, and gets the job done](https://www.theverge.com/tech/816645/matic-robot-vacuum-review) (2025-11-08)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [apimock-rs 4.4.0 is released: HTTPS is now supported](https://dev.to/nabbisen/apimock-rs-440-is-released-https-is-now-supported-291e) (2025-11-08)
-- [How to Set Up AWS Cost Explorer (and Why It’s Not Enough)](https://dev.to/cloudwiseteam/how-to-set-up-aws-cost-explorer-and-why-its-not-enough-45hg) (2025-11-08)
-- [Andrew Huang: S4 2.0 is incredible!](https://dev.to/music_youtube/andrew-huang-s4-20-is-incredible-4ci9) (2025-11-08)
-- [Python basics - Day 22](https://dev.to/ian_b838138a27a917398d181/python-basics-day-22-35i) (2025-11-08)
-- [Pair-Coding CleanIt.Now with AI on Cloudflare Workers](https://dev.to/valeriavg/pair-coding-cleanitnow-with-ai-on-cloudflare-workers-2967) (2025-11-08)
+- [Offline Souls, Online Noise (Dead Internet) PART 1](https://dev.to/cir9akovic/offline-souls-online-noise-dead-internet-2a65) (2025-11-08)
+- [Understanding Preload and Stylesheet Links for Faster CSS Loading](https://dev.to/rijultp/understanding-preload-and-stylesheet-links-for-faster-css-loading-4lng) (2025-11-08)
+- [Understanding the Logic Behind Two Sum — and Extending It to Three Sum](https://dev.to/we_are_broken_compilers/understanding-the-logic-behind-two-sum-and-extending-it-to-three-sum-838) (2025-11-08)
+- ["Code, Scarcity, and the Asymmetric Bet: 4.8 Million Coins. One Question: Can You Run the Code?”](https://dev.to/bitnet4ever/code-scarcity-and-the-asymmetric-bet48-million-coins-one-question-can-you-run-the-code-1oel) (2025-11-08)
+- [Building Reddit Game with Devvit and TypeScript (starter included)](https://dev.to/room_js/building-reddit-game-with-devvit-and-typescript-starter-included-3kcp) (2025-11-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How I Accidentally Created a Memory Leak That Taught Me C#’s Darkest Secret](https://medium.com/c-sharp-programming/how-i-accidentally-created-a-memory-leak-that-taught-me-c-s-darkest-secret-3191fc4f71c3?source=rss------programming-5) (2025-11-08)
-- [What a Production-Grade CI/CD Pipeline Looks Like (With Commentary)](https://medium.com/@obaff/what-a-production-grade-ci-cd-pipeline-looks-like-with-commentary-a886630564ff?source=rss------programming-5) (2025-11-08)
-- [3 Editor’s Picks Round Coffee Tables That Elevate Your Decor](https://medium.com/@AmazingShopping.net/3-editors-picks-round-coffee-tables-that-elevate-your-decor-6e82e43a89ce?source=rss------programming-5) (2025-11-08)
-- [#خاله اصفهان #خاله شیراز #خاله اهواز #خاله کردستان #خاله اسفراین #خاله اقلیم #خاله آباده #خاله مشهد…](https://medium.com/@baran14084806/%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%81%D8%B1%D8%A7%DB%8C%D9%86-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%82%D9%84%DB%8C%D9%85-%D8%AE%D8%A7%D9%84%D9%87-%D8%A2%D8%A8%D8%A7%D8%AF%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D8%B4%D9%87%D8%AF-8c5d40167db2?source=rss------programming-5) (2025-11-08)
-- [Master Python PID Controllers: Build, Code & Tame Your Machines](https://medium.com/pyzilla/python-pid-controller-tutorial-build-code-bf9b6e3d82e1?source=rss------programming-5) (2025-11-08)
+- [I Made $50,520 From One Article By Saying “Python Is Dying.](https://devrimozcay.medium.com/i-made-50-520-from-one-article-by-saying-python-is-dying-6037f150ee57?source=rss------programming-5) (2025-11-08)
+- [Python But Make It Pretty](https://medium.com/@dondmtadaya/python-but-make-it-pretty-9dfcf071367e?source=rss------programming-5) (2025-11-08)
+- [Master Tuple Packing and Unpacking in Python](https://medium.com/cloud-for-everybody/master-tuple-packing-and-unpacking-in-python-d7903158f44c?source=rss------programming-5) (2025-11-08)
+- [How To Deploy Your .NET 9 Application to Azure Using GitHub Actions (Full CI/CD Pipeline Guide)](https://medium.com/@mariammaurice/how-to-deploy-your-net-9-application-to-azure-using-github-actions-full-ci-cd-pipeline-guide-32ca8043c69b?source=rss------programming-5) (2025-11-08)
+- [3 Best Wireless CarPlay Adapters for Seamless Connectivity](https://medium.com/@AmazingShopping.net/3-best-wireless-carplay-adapters-for-seamless-connectivity-a022150463f1?source=rss------programming-5) (2025-11-08)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [The new era of Azure Ultra Disk: Experience the next generation of mission-critical block storage](https://azure.microsoft.com/en-us/blog/the-new-era-of-azure-ultra-disk-experience-the-next-generation-of-mission-critical-block-storage/) (2025-11-06)
+- [Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows](https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/) (2025-11-05)
 - [Microsoft strengthens sovereign cloud capabilities with new services](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/) (2025-11-05)
 - [Powering Distributed AI/ML at Scale with Azure and Anyscale](https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/) (2025-11-04)
 - [Enhancing software supply chain security with Microsoft’s Signing Transparency](https://azure.microsoft.com/en-us/blog/enhancing-software-supply-chain-security-with-microsofts-signing-transparency/) (2025-11-03)
-- [Resiliency in the cloud—empowered by shared responsibility and Azure Essentials](https://azure.microsoft.com/en-us/blog/resiliency-in-the-cloud-empowered-by-shared-responsibility-and-azure-essentials/) (2025-10-31)
-- [GitHub Universe 2025: Where developer innovation took center stage](https://azure.microsoft.com/en-us/blog/github-universe-2025-where-developer-innovation-took-center-stage/) (2025-10-30)
 
 </details>
 
@@ -570,11 +570,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/integrate-fl
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Power Analysis in Marketing: A Hands-On Introduction](https://towardsdatascience.com/power-analysis-in-marketing/) (2025-11-08)
 - [Evaluating Synthetic Data — The Million Dollar Question](https://towardsdatascience.com/evaluating-synthetic-data-the-million-dollar-question-a54701d1b621/) (2025-11-07)
 - [Beyond Numbers: How to Humanize Your Data & Analysis](https://towardsdatascience.com/beyond-numbers-how-to-humanize-your-data-analysis/) (2025-11-07)
 - [How to Use GPT-5 Effectively](https://towardsdatascience.com/how-to-use-gpt-5-effectively/) (2025-11-07)
 - [TDS Newsletter: The Theory and Practice of Using AI Effectively](https://towardsdatascience.com/tds-newsletter-the-theory-and-practice-of-using-ai-effectively/) (2025-11-06)
-- [Expected Value Analysis in AI Product Management](https://towardsdatascience.com/expected-value-analysis-in-ai-product-management/) (2025-11-06)
 
 </details>
 
