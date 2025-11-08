@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Oddest ChatGPT leaks yet: Cringey chat logs found in Google Analytics tool](https://arstechnica.com/tech-policy/2025/11/oddest-chatgpt-leaks-yet-cringey-chat-logs-found-in-google-analytics-tool/) (2025-11-08)
-- [Local First Htmx](https://elijahm.com/posts/local_first_htmx/) (2025-11-08)
-- [Running a 68060 CPU in Quadra 650](https://github.com/ZigZagJoe/Macintosh-Q650-68060) (2025-11-08)
-- [Mullvad: Shutting down our search proxy Leta](https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta) (2025-11-08)
-- [Immutable Software Deploys Using ZFS Jails on FreeBSD](https://conradresearch.com/articles/immutable-software-deploy-zfs-jails) (2025-11-08)
+- [Cekura (YC F24) Is Hiring](https://news.ycombinator.com/item?id=45856069) (2025-11-08)
+- [Copy button added to Stack Overflow](https://meta.stackexchange.com/questions/414573/results-of-the-october-2025-community-asks-sprint-copy-button-for-code-blocks) (2025-11-08)
+- [My friends and I accidentally faked the Ryzen 7 9700X3D leaks](https://old.reddit.com/r/pcmasterrace/comments/1orc6jl/my_friends_and_i_accidentally_faked_the_ryzen_7/) (2025-11-08)
+- [A rats to riches story: Larry the Downing Street cat finds place in TV spotlight](https://www.theguardian.com/politics/2025/nov/08/a-rats-to-riches-story-larry-the-downing-street-cat-finds-place-in-tv-spotlight) (2025-11-08)
+- [Making Democracy Work: Fixing and Simplifying Egalitarian Paxos](https://arxiv.org/abs/2511.02743) (2025-11-08)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Common Manual Testing Techniques](https://dev.to/pon_pandian_b9a552f746eff/common-manual-testing-techniques-2adp) (2025-11-08)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-2b43) (2025-11-08)
-- [🚀 Google & SpaceX Are Building AI Datacenters in Space — Nvidia Hits $5 Trillion](https://dev.to/aivanguard/google-spacex-are-building-ai-datacenters-in-space-nvidia-hits-5-trillion-pnf) (2025-11-08)
-- [Exploring NoSQL Data Analysis: A Practical Study Using a Kaggle Dataset](https://dev.to/jayanth_anbu_28041adad45b/exploring-nosql-data-analysis-a-practical-study-using-a-kaggle-dataset-1fgn) (2025-11-08)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - 'Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-anj) (2025-11-08)
+- [apimock-rs 4.4.0 is released: HTTPS is now supported](https://dev.to/nabbisen/apimock-rs-440-is-released-https-is-now-supported-291e) (2025-11-08)
+- [How to Set Up AWS Cost Explorer (and Why It’s Not Enough)](https://dev.to/cloudwiseteam/how-to-set-up-aws-cost-explorer-and-why-its-not-enough-45hg) (2025-11-08)
+- [Andrew Huang: S4 2.0 is incredible!](https://dev.to/music_youtube/andrew-huang-s4-20-is-incredible-4ci9) (2025-11-08)
+- [Python basics - Day 22](https://dev.to/ian_b838138a27a917398d181/python-basics-day-22-35i) (2025-11-08)
+- [Pair-Coding CleanIt.Now with AI on Cloudflare Workers](https://dev.to/valeriavg/pair-coding-cleanitnow-with-ai-on-cloudflare-workers-2967) (2025-11-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [From Console Logs to Command Center: How I Turned JavaScript into My Personal Automation Engine](https://medium.com/codetodeploy/from-console-logs-to-command-center-how-i-turned-javascript-into-my-personal-automation-engine-b231493e5efb?source=rss------programming-5) (2025-11-08)
-- [Linux Networking Commands and Static IP Configuration](https://adhwaithas.medium.com/linux-networking-commands-and-static-ip-configuration-3e688af8a274?source=rss------programming-5) (2025-11-08)
-- [3 Top-Rated Texture Powders for Quick and Easy Styling](https://medium.com/@AmazingShopping.net/3-top-rated-texture-powders-for-quick-and-easy-styling-0ed9539d726f?source=rss------programming-5) (2025-11-08)
-- [How 5 MCP Servers Turn Claude and Cursor into AI Powerhouses](https://medium.com/@premchandak_11/how-5-mcp-servers-turn-claude-and-cursor-into-ai-powerhouses-c3025ecf8523?source=rss------programming-5) (2025-11-08)
-- [Agentic AI versus Autonomous Systems: Understanding the Next Frontier of Intelligent Technology](https://medium.com/codetodeploy/agentic-ai-versus-autonomous-systems-understanding-the-next-frontier-of-intelligent-technology-16fac57431a2?source=rss------programming-5) (2025-11-08)
+- [How I Accidentally Created a Memory Leak That Taught Me C#’s Darkest Secret](https://medium.com/c-sharp-programming/how-i-accidentally-created-a-memory-leak-that-taught-me-c-s-darkest-secret-3191fc4f71c3?source=rss------programming-5) (2025-11-08)
+- [What a Production-Grade CI/CD Pipeline Looks Like (With Commentary)](https://medium.com/@obaff/what-a-production-grade-ci-cd-pipeline-looks-like-with-commentary-a886630564ff?source=rss------programming-5) (2025-11-08)
+- [3 Editor’s Picks Round Coffee Tables That Elevate Your Decor](https://medium.com/@AmazingShopping.net/3-editors-picks-round-coffee-tables-that-elevate-your-decor-6e82e43a89ce?source=rss------programming-5) (2025-11-08)
+- [#خاله اصفهان #خاله شیراز #خاله اهواز #خاله کردستان #خاله اسفراین #خاله اقلیم #خاله آباده #خاله مشهد…](https://medium.com/@baran14084806/%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%81%D8%B1%D8%A7%DB%8C%D9%86-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%82%D9%84%DB%8C%D9%85-%D8%AE%D8%A7%D9%84%D9%87-%D8%A2%D8%A8%D8%A7%D8%AF%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D8%B4%D9%87%D8%AF-8c5d40167db2?source=rss------programming-5) (2025-11-08)
+- [Master Python PID Controllers: Build, Code & Tame Your Machines](https://medium.com/pyzilla/python-pid-controller-tutorial-build-code-bf9b6e3d82e1?source=rss------programming-5) (2025-11-08)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows](https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/) (2025-11-05)
 - [Microsoft strengthens sovereign cloud capabilities with new services](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/) (2025-11-05)
 - [Powering Distributed AI/ML at Scale with Azure and Anyscale](https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/) (2025-11-04)
 - [Enhancing software supply chain security with Microsoft’s Signing Transparency](https://azure.microsoft.com/en-us/blog/enhancing-software-supply-chain-security-with-microsofts-signing-transparency/) (2025-11-03)
 - [Resiliency in the cloud—empowered by shared responsibility and Azure Essentials](https://azure.microsoft.com/en-us/blog/resiliency-in-the-cloud-empowered-by-shared-responsibility-and-azure-essentials/) (2025-10-31)
+- [GitHub Universe 2025: Where developer innovation took center stage](https://azure.microsoft.com/en-us/blog/github-universe-2025-where-developer-innovation-took-center-stage/) (2025-10-30)
 
 </details>
 
@@ -482,11 +482,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/integrate-fl
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
+- [名前付きクエリAPIで、AIエージェントやアプリケーションによるデータアクセスを簡略化](https://developer.salesforce.com/blogs/2025/11/named-query-api-simplifies-data-access-for-agents-and-apps-jp.html) (2025-11-08)
 - [Introducing the New Lightning Component Reference](https://developer.salesforce.com/blogs/2025/11/introducing-the-new-lightning-component-reference.html) (2025-11-05)
 - [Ensure a Seamless, Secure Connection Between Data 360 and Google BigQuery](https://developer.salesforce.com/blogs/2025/11/ensure-a-seamless-secure-connection-between-data-360-and-google-bigquery.html) (2025-11-04)
 - [Connect Data 360 to Databricks Using Salesforce IDP](https://developer.salesforce.com/blogs/2025/10/connect-data-360-to-databricks-using-salesforce-idp.html) (2025-10-30)
 - [Build and Optimize Agents with New Agentforce 360 Features](https://developer.salesforce.com/blogs/2025/10/build-and-optimize-agents-with-new-agentforce-360-features.html) (2025-10-29)
-- [Vibe Code Lightning Web Components with Salesforce DX MCP](https://developer.salesforce.com/blogs/2025/10/vibe-code-lightning-web-components-with-salesforce-dx-mcp.html) (2025-10-28)
 
 </details>
 
