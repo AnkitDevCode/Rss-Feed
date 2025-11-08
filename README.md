@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Oddest ChatGPT leaks yet: Cringey chat logs found in Google Analytics tool](https://arstechnica.com/tech-policy/2025/11/oddest-chatgpt-leaks-yet-cringey-chat-logs-found-in-google-analytics-tool/) (2025-11-08)
+- [Local First Htmx](https://elijahm.com/posts/local_first_htmx/) (2025-11-08)
+- [Running a 68060 CPU in Quadra 650](https://github.com/ZigZagJoe/Macintosh-Q650-68060) (2025-11-08)
+- [Mullvad: Shutting down our search proxy Leta](https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta) (2025-11-08)
 - [Immutable Software Deploys Using ZFS Jails on FreeBSD](https://conradresearch.com/articles/immutable-software-deploy-zfs-jails) (2025-11-08)
-- [Snapchat open-sources Valdi a cross-platform UI framework](https://github.com/Snapchat/Valdi) (2025-11-08)
-- [Analysis of Hedy Lamarr's Contribution to Spread-Spectrum Communication](https://researchers.one/articles/24.01.00001v4) (2025-11-07)
-- [Why is Zig so Cool?](https://nilostolte.github.io/tech/articles/ZigCool.html) (2025-11-07)
-- [FAA restricts commercial rocket launches indefinitely due to air traffic risks](https://www.space.com/space-exploration/launches-spacecraft/faa-restricts-commercial-rocket-launches-indefinitely-due-to-air-traffic-risks-from-government-shutdown) (2025-11-07)
 
 </details>
 
@@ -97,27 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Implementare Micro Frontend con Angular 19 e Module Federation: Shell + Runtime Integration](https://dev.to/fedecroletti/implementare-micro-frontend-con-angular-19-e-module-federation-shell-runtime-integration-5d69) (2025-11-08)
-- [Dear Devs, This Is a Call to All of Us 💻❤️](https://dev.to/velora_tech_cbfb10dd9eede/dear-devs-this-is-a-call-to-all-of-us-4blp) (2025-11-08)
-- [たった1枚の引き伸ばされた画像から、AWS Lambdaのコード移行とCI/CD構築に至った話](https://dev.to/kaziusan/tatuta1mei-noyin-kishen-basaretahua-xiang-kara-aws-lambdanokodoyi-xing-tocicdgou-zhu-nizhi-tutahua-252p) (2025-11-08)
-- [Building a Mini Build System in Go: Understanding How Bazel Works Under the Hood](https://dev.to/tmwakalasya/building-a-mini-build-system-in-go-understanding-how-bazel-works-under-the-hood-3gp6) (2025-11-08)
-- [Title: The Rise and Fall of ChatGPT: A Tech-Savvy Perspective](https://dev.to/yagyaraj_sharma_6cd410179/title-the-rise-and-fall-of-chatgpt-a-tech-savvy-perspective-600) (2025-11-08)
+- [Common Manual Testing Techniques](https://dev.to/pon_pandian_b9a552f746eff/common-manual-testing-techniques-2adp) (2025-11-08)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-2b43) (2025-11-08)
+- [🚀 Google & SpaceX Are Building AI Datacenters in Space — Nvidia Hits $5 Trillion](https://dev.to/aivanguard/google-spacex-are-building-ai-datacenters-in-space-nvidia-hits-5-trillion-pnf) (2025-11-08)
+- [Exploring NoSQL Data Analysis: A Practical Study Using a Kaggle Dataset](https://dev.to/jayanth_anbu_28041adad45b/exploring-nosql-data-analysis-a-practical-study-using-a-kaggle-dataset-1fgn) (2025-11-08)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 6 - 'Mulholland Drive’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-6-mulholland-drive-anj) (2025-11-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mbvcfcvb4mkjb/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-7888302e7fee?source=rss------programming-5) (2025-11-08)
-- [09027641209شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@gxghcxfjjfxghjfxghg/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-30008c680c7e?source=rss------programming-5) (2025-11-08)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mbvcfcvb4mkjb/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-30221c9b4ea8?source=rss------programming-5) (2025-11-08)
-- [09027641209شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@gxghcxfjjfxghjfxghg/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-0ca0e5d493db?source=rss------programming-5) (2025-11-08)
-- [0901 390 1618شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@gxghcxfjjfxghjfxghg/0901-390-1618%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-c03499f8b638?source=rss------programming-5) (2025-11-08)
+- [From Console Logs to Command Center: How I Turned JavaScript into My Personal Automation Engine](https://medium.com/codetodeploy/from-console-logs-to-command-center-how-i-turned-javascript-into-my-personal-automation-engine-b231493e5efb?source=rss------programming-5) (2025-11-08)
+- [Linux Networking Commands and Static IP Configuration](https://adhwaithas.medium.com/linux-networking-commands-and-static-ip-configuration-3e688af8a274?source=rss------programming-5) (2025-11-08)
+- [3 Top-Rated Texture Powders for Quick and Easy Styling](https://medium.com/@AmazingShopping.net/3-top-rated-texture-powders-for-quick-and-easy-styling-0ed9539d726f?source=rss------programming-5) (2025-11-08)
+- [How 5 MCP Servers Turn Claude and Cursor into AI Powerhouses](https://medium.com/@premchandak_11/how-5-mcp-servers-turn-claude-and-cursor-into-ai-powerhouses-c3025ecf8523?source=rss------programming-5) (2025-11-08)
+- [Agentic AI versus Autonomous Systems: Understanding the Next Frontier of Intelligent Technology](https://medium.com/codetodeploy/agentic-ai-versus-autonomous-systems-understanding-the-next-frontier-of-intelligent-technology-16fac57431a2?source=rss------programming-5) (2025-11-08)
 
 </details>
 
@@ -367,6 +362,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Auto-Instrumentation: The End of Manual Tracking
+](
+https://www.twilio.com/en-us/blog/products/launches/auto-instrumentation-end-of-manual-tracking
+) (2025-11-05)
+- [
+SMS vs. WhatsApp: What’s best for your business
+](
+https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-whatsapp-for-business
+) (2025-11-05)
+- [
 Introducing Email Logs: Search, Filter, and Troubleshoot Email Events
 ](
 https://www.twilio.com/en-us/blog/products/launches/email-logs-generally-available
@@ -380,16 +385,6 @@ https://www.twilio.com/en-us/blog/what-is-rcs-messaging
 Integrate Twilio Flex and Microsoft Dynamics 365 with Zing
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/integrate-flex-microsoft-dynamics-zing-blueprint
-) (2025-11-03)
-- [
-Detecting iOS 26 Call Screening and Leaving Voicemail​: ​How Twilio AMD and Real-Time Transcriptions Make It Possible
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/detect-ios-call-screening-amd-transcriptions
-) (2025-11-03)
-- [
-Understanding Twilio and ZenDesk Voice Integration
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/twilio-zendesk-voice-integration
 ) (2025-11-03)
 
 </details>
@@ -586,7 +581,7 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/twilio-zende
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
-- [Gemini API File Search: The Easy Way to Build RAG](https://www.analyticsvidhya.com/blog/2025/11/gemini-api-file-search/) (2025-11-07)
+- [Guide to Context Engineering](https://www.analyticsvidhya.com/blog/2025/11/guide-to-context-engineering/) (2025-11-08)
 - [Crash Course to Crack Machine Learning Interview – Part 2: Linear Regression](https://www.analyticsvidhya.com/blog/2025/11/linear-regression-interview-questions/) (2025-11-07)
 - [Kimi K2 Thinking is Here and It Beats GPT-5!](https://www.analyticsvidhya.com/blog/2025/11/kimi-k2-thinking/) (2025-11-06)
 - [8 AI Tools to Analyze Data in Excel by Just Chatting](https://www.analyticsvidhya.com/blog/2025/11/ai-tools-for-excel/) (2025-11-06)
