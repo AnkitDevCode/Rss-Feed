@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Apple reportedly plans ambitious satellite-powered iPhone features](https://techcrunch.com/2025/11/09/apple-reportedly-plans-ambitious-satellite-powered-iphone-features/) (2025-11-09)
+- [TechCrunch Mobility: Elon Musk’s threats worked](https://techcrunch.com/2025/11/09/techcrunch-mobility-elon-musks-threats-worked/) (2025-11-09)
 - [Is Wall Street losing faith in AI?](https://techcrunch.com/2025/11/08/is-wall-street-losing-faith-in-ai/) (2025-11-08)
 - [‘Breaking Bad’ creator’s new show ‘Pluribus’ was emphatically ‘made by humans,’ not AI](https://techcrunch.com/2025/11/08/breaking-bad-creators-new-show-pluribus-was-emphatically-made-by-humans-not-ai/) (2025-11-08)
 - [OpenAI asked Trump administration to expand Chips Act tax credit to cover data centers](https://techcrunch.com/2025/11/08/openai-asked-trump-administration-to-expand-chips-act-tax-credit-to-cover-data-centers/) (2025-11-08)
-- [How startups can lure good talent fairly without big tech bank accounts ](https://techcrunch.com/2025/11/08/how-startups-can-lure-good-talent-fairly-without-big-tech-bank-accounts/) (2025-11-08)
-- [Rivian gives RJ Scaringe a new pay package worth up to $5B](https://techcrunch.com/2025/11/07/rivian-gives-rj-scaringe-a-new-pay-package-worth-up-to-5b/) (2025-11-07)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Ask HN: How would u setup a child's first Linux computer?](https://news.ycombinator.com/item?id=45864732) (2025-11-09)
-- [I Am Mark Zuckerberg](https://iammarkzuckerberg.com/) (2025-11-09)
-- [Study finds memory decline surge in young people](https://onepercentrule.substack.com/p/under-40s-declining-memory) (2025-11-09)
-- [Forth – is it still relevant?](https://github.com/chochain/eforth) (2025-11-09)
-- [Grok 4 Fast now has 2M context window](https://docs.x.ai/docs/models) (2025-11-09)
+- [Ask HN: How do you get over the fear of sharing code?](https://news.ycombinator.com/item?id=45867176) (2025-11-09)
+- [Bumble Berry Pi – A Cheap DIY Raspberry Pi Handheld Cyberdeck](https://github.com/samcervantes/bumble-berry-pi) (2025-11-09)
+- [Marble Fountain](https://willmorrison.net/posts/marble-fountain/) (2025-11-09)
+- [Bull markets make you feel smarter than you are](https://awealthofcommonsense.com/2025/11/ben-graham-bull-market-brains/) (2025-11-09)
+- [The Principles of Diffusion Models](https://arxiv.org/abs/2510.21890) (2025-11-09)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The best earbuds we’ve tested for 2025](https://www.theverge.com/21309820/best-wireless-earbuds) (2025-11-08)
-- [Apple helped kill netbooks. Will it bring them back?](https://www.theverge.com/tech/817277/apple-ipad-killed-the-netbook-cheap-macbook-is-bringing-them-back) (2025-11-08)
-- [Sims streamers are distancing themselves from EA, but for some the choice is hard](https://www.theverge.com/games/816750/the-sims-ea-buyout-content-creator-program-departures-lilsimsie) (2025-11-08)
-- [Apple Watches and advent calendars top our list of the best deals this week](https://www.theverge.com/tech/816649/apple-watch-se-3-lego-star-wars-advent-calendar-deal-sale) (2025-11-08)
-- [The Matic robot vacuum is smarter, quieter, and gets the job done](https://www.theverge.com/tech/816645/matic-robot-vacuum-review) (2025-11-08)
+- [The tale of the Fire Phone, Amazon’s very strange smartphone](https://www.theverge.com/podcast/816739/amazon-fire-phone-version-history) (2025-11-09)
+- [Deck out your tree with ornaments of retro consoles, movie moments, and more](https://www.theverge.com/tech/811614/best-christmas-ornaments-2025) (2025-11-09)
+- [65daysofstatic’s new No Man’s Sky album searches for humanity in an AI-filled world](https://www.theverge.com/report/816427/no-mans-sky-album-journeys-65daysofstatic) (2025-11-09)
+- [The algorithm failed music](https://www.theverge.com/column/815744/music-recommendation-algorithms) (2025-11-09)
+- [Ikea just took over your smart home](https://www.theverge.com/tech/816650/ikea-just-took-over-your-smart-home) (2025-11-09)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Here’s how orbital dynamics wizardry helped save NASA’s next Mars mission](https://arstechnica.com/space/2025/11/heres-how-orbital-dynamics-wizardry-helped-save-nasas-next-mars-mission/) (2025-11-09)
 - [Blue Origin will ‘move heaven and Earth’ to help NASA reach the Moon faster, CEO says](https://arstechnica.com/space/2025/11/blue-origin-will-move-heaven-and-earth-to-help-nasa-reach-the-moon-faster-ceo-says/) (2025-11-08)
 - [James Watson, who helped unravel DNA’s double-helix, has died](https://arstechnica.com/health/2025/11/james-watson-who-helped-unravel-dnas-double-helix-has-died/) (2025-11-07)
 - [Researchers surprised that with AI, toxicity is harder to fake than intelligence](https://arstechnica.com/information-technology/2025/11/being-too-nice-online-is-a-dead-giveaway-for-ai-bots-study-suggests/) (2025-11-07)
 - [Commercial spyware “Landfall” ran rampant on Samsung phones for almost a year](https://arstechnica.com/gadgets/2025/11/commercial-spyware-landfall-ran-rampant-on-samsung-phones-for-almost-a-year/) (2025-11-07)
-- [The government shutdown is starting to have cosmic consequences](https://arstechnica.com/space/2025/11/faa-says-commercial-rockets-must-launch-at-night-citing-government-shutdown/) (2025-11-07)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The State of AI: Energy is king, and the US is falling behind](https://www.technologyreview.com/2025/11/09/1126805/the-state-of-ai-energy-is-king-and-the-us-is-falling-behind/) (2025-11-09)
 - [The Download: a new home under the sea, and cloning pets](https://www.technologyreview.com/2025/11/07/1127765/the-download-a-new-home-under-the-sea-and-cloning-pets/) (2025-11-07)
 - [The first new subsea habitat in 40 years is about to launch](https://www.technologyreview.com/2025/11/07/1127682/vanguard-deep-subsea-habitat-launch/) (2025-11-07)
 - [Cloning isn’t just for celebrity pets like Tom Brady’s dog](https://www.technologyreview.com/2025/11/07/1127692/cloning-celebrity-pets-tom-brady-dog-conservation/) (2025-11-07)
 - [The Download: how doctors fight conspiracy theories, and your AI footprint](https://www.technologyreview.com/2025/11/06/1127666/the-download-how-doctors-fight-conspiracy-theories-and-your-ai-footprint/) (2025-11-06)
-- [Stop worrying about your AI footprint. Look at the big picture instead.](https://www.technologyreview.com/2025/11/06/1127579/ai-footprint/) (2025-11-06)
 
 </details>
 
@@ -97,25 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [From TCP Sockets to Thread Pools - Building a Production Grade Web Framework](https://dev.to/rprakashdass/from-tcp-sockets-to-thread-pools-building-a-production-grade-web-framework-4hl1) (2025-11-09)
-- [Web Developer Travis McCracken on The Tools I Use Every Day as a Web Developer](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-tools-i-use-every-day-as-a-web-developer-52d3) (2025-11-09)
-- [How I Learned IaC Without Losing My Mind 🤯](https://dev.to/danlinx2004x/how-i-learned-iac-without-losing-my-mind-347c) (2025-11-09)
-- [How AI Can Help Households Reduce Food Waste and Save Money](https://dev.to/michaelihegazie/how-ai-can-help-households-reduce-food-waste-and-save-money-272n) (2025-11-09)
-- [Stop Coding in Chaos: Why You Need a Pro Dev Environment Now (And How to Set It Up)](https://dev.to/samuel_ochaba_eb9c875fa89/stop-coding-in-chaos-why-you-need-a-pro-dev-environment-now-and-how-to-set-it-up-1779) (2025-11-09)
+- [CinemaSins: Everything Wrong With Thunderbolts* (The New Avengers) In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-25l1) (2025-11-09)
+- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-h77) (2025-11-09)
+- [The Day Mentoring Felt Like Parenting: Lessons from The Explosive Child](https://dev.to/sanjayajoseph/the-day-mentoring-felt-like-parenting-lessons-from-the-explosive-child-59cm) (2025-11-09)
+- [Robust Layerwise Scaling Rules by Proper Weight Decay Tuning](https://dev.to/paperium/robust-layerwise-scaling-rules-by-proper-weight-decay-tuning-4hjd) (2025-11-09)
+- [Claude vs ChatGPT vs Gemini: Why Anthropic’s AI Outcodes the Rest?](https://dev.to/grenishrai/claude-vs-chatgpt-vs-gemini-why-anthropics-ai-outcodes-the-rest-451i) (2025-11-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Used to Obsess Over Finishing Things.](https://medium.com/@pewienpawcio12345/i-used-to-obsess-over-finishing-things-e3b89974929f?source=rss------programming-5) (2025-11-09)
-- [Anonymous Classes and Objects in Python: What They Are and Why They Matter](https://medium.com/cloud-for-everybody/anonymous-classes-and-objects-in-python-what-they-are-and-why-they-matter-e66638a2076b?source=rss------programming-5) (2025-11-09)
-- [09027641209شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dwnya395/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-bdcc553ff46b?source=rss------programming-5) (2025-11-09)
-- [09027641209شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dwnya395/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-bef87f11461f?source=rss------programming-5) (2025-11-09)
-- [09027641209شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dwnya395/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e7850a507012?source=rss------programming-5) (2025-11-09)
+- [Beyond the Hype: Why Next.js Might Not Be the Engineering Silver Bullet You Think It Is ](https://medium.com/@monikasinghal713/beyond-the-hype-why-next-js-might-not-be-the-engineering-silver-bullet-you-think-it-is-5fe579bfa3f8?source=rss------programming-5) (2025-11-09)
+- [The Day Rust Gets a JIT: How Cranelift Could Change Everything](https://medium.com/@bugsybits/the-day-rust-gets-a-jit-how-cranelift-could-change-everything-bac03a41b530?source=rss------programming-5) (2025-11-09)
+- [2025’s Biggest Mobile Dev Twist: Swift’s *Jaw-Dropping* Performance on Android ⚡](https://medium.com/@anshusinghal703/2025s-biggest-mobile-dev-twist-swift-s-jaw-dropping-performance-on-android-e35c7018a18e?source=rss------programming-5) (2025-11-09)
+- [3 Ultimate Balloon Pumps for Quick and Easy Party Setup](https://medium.com/@AmazingShopping.net/3-ultimate-balloon-pumps-for-quick-and-easy-party-setup-0469226a8bd9?source=rss------programming-5) (2025-11-09)
+- [Distributed Caching in ASP.NET Core with Redis | A Complete Practical Guide (.NET 9 + Minimal APIs)](https://medium.com/@mariammaurice/distributed-caching-in-asp-net-core-with-redis-a-complete-practical-guide-net-9-minimal-apis-b67e0c83d3e3?source=rss------programming-5) (2025-11-09)
 
 </details>
 
@@ -133,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [The new era of Azure Ultra Disk: Experience the next generation of mission-critical block storage](https://azure.microsoft.com/en-us/blog/the-new-era-of-azure-ultra-disk-experience-the-next-generation-of-mission-critical-block-storage/) (2025-11-06)
-- [Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows](https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/) (2025-11-05)
 - [Microsoft strengthens sovereign cloud capabilities with new services](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/) (2025-11-05)
 - [Powering Distributed AI/ML at Scale with Azure and Anyscale](https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/) (2025-11-04)
 - [Enhancing software supply chain security with Microsoft’s Signing Transparency](https://azure.microsoft.com/en-us/blog/enhancing-software-supply-chain-security-with-microsofts-signing-transparency/) (2025-11-03)
+- [Resiliency in the cloud—empowered by shared responsibility and Azure Essentials](https://azure.microsoft.com/en-us/blog/resiliency-in-the-cloud-empowered-by-shared-responsibility-and-azure-essentials/) (2025-10-31)
+- [GitHub Universe 2025: Where developer innovation took center stage](https://azure.microsoft.com/en-us/blog/github-universe-2025-where-developer-innovation-took-center-stage/) (2025-10-30)
 
 </details>
 
@@ -573,11 +570,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/integrate-fl
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [LLM-Powered Time-Series Analysis](https://towardsdatascience.com/llm-powered-time-series-analysis/) (2025-11-09)
+- [How to Build Your Own Agentic AI System Using CrewAI](https://towardsdatascience.com/how-to-build-your-own-agentic-ai-system-using-crewai/) (2025-11-09)
 - [Power Analysis in Marketing: A Hands-On Introduction](https://towardsdatascience.com/power-analysis-in-marketing/) (2025-11-08)
 - [Evaluating Synthetic Data — The Million Dollar Question](https://towardsdatascience.com/evaluating-synthetic-data-the-million-dollar-question-a54701d1b621/) (2025-11-07)
 - [Beyond Numbers: How to Humanize Your Data & Analysis](https://towardsdatascience.com/beyond-numbers-how-to-humanize-your-data-analysis/) (2025-11-07)
-- [How to Use GPT-5 Effectively](https://towardsdatascience.com/how-to-use-gpt-5-effectively/) (2025-11-07)
-- [TDS Newsletter: The Theory and Practice of Using AI Effectively](https://towardsdatascience.com/tds-newsletter-the-theory-and-practice-of-using-ai-effectively/) (2025-11-06)
 
 </details>
 
