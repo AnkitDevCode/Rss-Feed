@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Characterizing the American Upper Paleolithic](https://www.science.org/doi/10.1126/sciadv.ady9545) (2025-11-09)
-- [OpenAI: Our new model GPT-5-Codex-Mini – a more cost-efficient GPT-5-Codex](https://github.com/openai/codex/releases/tag/rust-v0.56.0) (2025-11-08)
-- [Ironclad – formally verified, real-time capable, Unix-like OS kernel](https://ironclad-os.org/) (2025-11-08)
-- [IP Blocking the UK Is Not Enough to Comply with the Online Safety Act](https://prestonbyrne.com/2025/11/06/the-ofcom-files-part-2-ip-blocking-the-uk-is-not-enough-to-comply-with-the-online-safety-act/) (2025-11-08)
-- [Debugging BeagleBoard USB boot with a sniffer: fixing omap_loader on modern PCs](https://www.downtowndougbrown.com/2025/11/debugging-beagleboard-usb-boot-with-a-sniffer-fixing-omap_loader-on-modern-pcs/) (2025-11-08)
+- [Reverse engineering Codex CLI to get GPT-5-Codex-Mini to draw me a pelican](https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/) (2025-11-09)
+- [Boring Company fined nearly $500K after it dumped drilling fluids into manholes](https://www.yahoo.com/news/articles/elon-musk-boring-company-fined-150000426.html) (2025-11-09)
+- [Syntax and Semantics of Programming Languages (1995)](https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/) (2025-11-09)
+- [Show HN: Geofenced chat communities anyone can create](https://vicinity.social/) (2025-11-09)
+- [Tabloid: The Clickbait Headline Programming Language](https://tabloid.vercel.app/) (2025-11-09)
 
 </details>
 
@@ -97,24 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [TelUI leaves prototype purpose, now for making UIs!](https://dev.to/eotterbeep/telui-leaves-prototype-purpose-now-for-making-uis-24k6) (2025-11-09)
-- [My first small Project Website.](https://dev.to/didzis_skujevskis_c83d708/my-first-small-project-website-i3c) (2025-11-09)
-- [Unlocking Cellular Secrets: Precision Alignment for Multi-Stain Bioimages by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlocking-cellular-secrets-precision-alignment-for-multi-stain-bioimages-by-arvind-sundararajan-438l) (2025-11-09)
-- [Unlocking Developer Revenue: How Monetzly Transforms AI App Monetization](https://dev.to/monetzly/unlocking-developer-revenue-how-monetzly-transforms-ai-app-monetization-1g3h) (2025-11-09)
-- [ASP .NET Core Project details](https://dev.to/karenpayneoregon/asp-net-core-project-details-log) (2025-11-09)
+- [✅ Scenario #4 — Debugging with Ephemeral Debug Containers in Kubernetes](https://dev.to/latchudevops/scenario-4-debugging-with-ephemeral-debug-containers-in-kubernetes-l76) (2025-11-09)
+- [The Silent Killer of Your SaaS Growth](https://dev.to/tracksimple/the-silent-killer-of-your-saas-growth-3pg8) (2025-11-09)
+- [My new project: Coz.jp](https://dev.to/danielpetrica/my-new-project-cozjp-45o) (2025-11-09)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-52i2) (2025-11-09)
+- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-59eg) (2025-11-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09027641209شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@shq22879/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-1fc648beeaa1?source=rss------programming-5) (2025-11-09)
-- [0901 390 1618شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@shq22879/0901-390-1618%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-3a4b44801fe5?source=rss------programming-5) (2025-11-09)
-- [Understanding @abstractmethod and @staticmethod in Python](https://medium.com/fundamentals-of-artificial-intelligence/understanding-abstractmethod-and-staticmethod-in-python-c269be2fe720?source=rss------programming-5) (2025-11-09)
-- [3 Top-Rated Matcha Whisk Sets for Traditional Tea Lovers](https://medium.com/@AmazingShopping.net/3-top-rated-matcha-whisk-sets-for-traditional-tea-lovers-2256e319c48c?source=rss------programming-5) (2025-11-09)
-- [The Theoretical Transition from Pornographic Mass-Entertainment to the Industry of Human…](https://medium.com/@wmvvv777/the-theoretical-transition-from-pornographic-mass-entertainment-to-the-industry-of-human-66dd606225a6?source=rss------programming-5) (2025-11-09)
+- [Stop Doing Tutorials — Build These 5 Python Projects Instead](https://medium.com/@maryashoukataly/stop-doing-tutorials-build-these-5-python-projects-instead-d1ca2cab4080?source=rss------programming-5) (2025-11-09)
+- [3 Best Fuzzy Socks for Ultimate Comfort and Warmth](https://medium.com/@AmazingShopping.net/3-best-fuzzy-socks-for-ultimate-comfort-and-warmth-3f7b974bf01c?source=rss------programming-5) (2025-11-09)
+- [How to Do Soft Delete in Spring Boot?](https://mammadyahya.medium.com/how-to-do-soft-delete-in-spring-boot-2f46453281ac?source=rss------programming-5) (2025-11-09)
+- [Abstraction: Hiding Complexity Like a Pro](https://medium.com/@azimruet28/abstraction-hiding-complexity-like-a-pro-a644bc53ee0d?source=rss------programming-5) (2025-11-09)
+- [The name React was chosen primarily because the library is designed to "react" to changes in data…](https://medium.com/@yout83048/the-name-react-was-chosen-primarily-because-the-library-is-designed-to-react-to-changes-in-data-73ce8814c3a7?source=rss------programming-5) (2025-11-09)
 
 </details>
 
@@ -132,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows](https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/) (2025-11-05)
-- [Microsoft strengthens sovereign cloud capabilities with new services](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/) (2025-11-05)
-- [Powering Distributed AI/ML at Scale with Azure and Anyscale](https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/) (2025-11-04)
 - [Enhancing software supply chain security with Microsoft’s Signing Transparency](https://azure.microsoft.com/en-us/blog/enhancing-software-supply-chain-security-with-microsofts-signing-transparency/) (2025-11-03)
 - [Resiliency in the cloud—empowered by shared responsibility and Azure Essentials](https://azure.microsoft.com/en-us/blog/resiliency-in-the-cloud-empowered-by-shared-responsibility-and-azure-essentials/) (2025-10-31)
+- [GitHub Universe 2025: Where developer innovation took center stage](https://azure.microsoft.com/en-us/blog/github-universe-2025-where-developer-innovation-took-center-stage/) (2025-10-30)
+- [Building the future together: Microsoft and NVIDIA announce AI advancements at GTC DC](https://azure.microsoft.com/en-us/blog/building-the-future-together-microsoft-and-nvidia-announce-ai-advancements-at-gtc-dc/) (2025-10-28)
+- [Introducing Agent HQ: Any agent, any way you work](https://github.blog/news-insights/company-news/welcome-home-agents/?utm_source=MSFT-day1-blog&utm_medium=social&utm_campaign=universe25) (2025-10-28)
 
 </details>
 
