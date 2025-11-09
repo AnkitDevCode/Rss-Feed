@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Reverse engineering Codex CLI to get GPT-5-Codex-Mini to draw me a pelican](https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/) (2025-11-09)
-- [Boring Company fined nearly $500K after it dumped drilling fluids into manholes](https://www.yahoo.com/news/articles/elon-musk-boring-company-fined-150000426.html) (2025-11-09)
-- [Syntax and Semantics of Programming Languages (1995)](https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/) (2025-11-09)
-- [Show HN: Geofenced chat communities anyone can create](https://vicinity.social/) (2025-11-09)
-- [Tabloid: The Clickbait Headline Programming Language](https://tabloid.vercel.app/) (2025-11-09)
+- [Ask HN: How would u setup a child's first Linux computer?](https://news.ycombinator.com/item?id=45864732) (2025-11-09)
+- [I Am Mark Zuckerberg](https://iammarkzuckerberg.com/) (2025-11-09)
+- [Study finds memory decline surge in young people](https://onepercentrule.substack.com/p/under-40s-declining-memory) (2025-11-09)
+- [Forth – is it still relevant?](https://github.com/chochain/eforth) (2025-11-09)
+- [Grok 4 Fast now has 2M context window](https://docs.x.ai/docs/models) (2025-11-09)
 
 </details>
 
@@ -97,22 +97,25 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [✅ Scenario #4 — Debugging with Ephemeral Debug Containers in Kubernetes](https://dev.to/latchudevops/scenario-4-debugging-with-ephemeral-debug-containers-in-kubernetes-l76) (2025-11-09)
-- [The Silent Killer of Your SaaS Growth](https://dev.to/tracksimple/the-silent-killer-of-your-saas-growth-3pg8) (2025-11-09)
-- [My new project: Coz.jp](https://dev.to/danielpetrica/my-new-project-cozjp-45o) (2025-11-09)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-52i2) (2025-11-09)
-- [CinemaSins: Everything Wrong With Sinners In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-sinners-in-15-minutes-or-less-59eg) (2025-11-09)
+- [From TCP Sockets to Thread Pools - Building a Production Grade Web Framework](https://dev.to/rprakashdass/from-tcp-sockets-to-thread-pools-building-a-production-grade-web-framework-4hl1) (2025-11-09)
+- [Web Developer Travis McCracken on The Tools I Use Every Day as a Web Developer](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-tools-i-use-every-day-as-a-web-developer-52d3) (2025-11-09)
+- [How I Learned IaC Without Losing My Mind 🤯](https://dev.to/danlinx2004x/how-i-learned-iac-without-losing-my-mind-347c) (2025-11-09)
+- [How AI Can Help Households Reduce Food Waste and Save Money](https://dev.to/michaelihegazie/how-ai-can-help-households-reduce-food-waste-and-save-money-272n) (2025-11-09)
+- [Stop Coding in Chaos: Why You Need a Pro Dev Environment Now (And How to Set It Up)](https://dev.to/samuel_ochaba_eb9c875fa89/stop-coding-in-chaos-why-you-need-a-pro-dev-environment-now-and-how-to-set-it-up-1779) (2025-11-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Stop Doing Tutorials — Build These 5 Python Projects Instead](https://medium.com/@maryashoukataly/stop-doing-tutorials-build-these-5-python-projects-instead-d1ca2cab4080?source=rss------programming-5) (2025-11-09)
-- [3 Best Fuzzy Socks for Ultimate Comfort and Warmth](https://medium.com/@AmazingShopping.net/3-best-fuzzy-socks-for-ultimate-comfort-and-warmth-3f7b974bf01c?source=rss------programming-5) (2025-11-09)
-- [How to Do Soft Delete in Spring Boot?](https://mammadyahya.medium.com/how-to-do-soft-delete-in-spring-boot-2f46453281ac?source=rss------programming-5) (2025-11-09)
-- [Abstraction: Hiding Complexity Like a Pro](https://medium.com/@azimruet28/abstraction-hiding-complexity-like-a-pro-a644bc53ee0d?source=rss------programming-5) (2025-11-09)
-- [The name React was chosen primarily because the library is designed to "react" to changes in data…](https://medium.com/@yout83048/the-name-react-was-chosen-primarily-because-the-library-is-designed-to-react-to-changes-in-data-73ce8814c3a7?source=rss------programming-5) (2025-11-09)
+- [I Used to Obsess Over Finishing Things.](https://medium.com/@pewienpawcio12345/i-used-to-obsess-over-finishing-things-e3b89974929f?source=rss------programming-5) (2025-11-09)
+- [Anonymous Classes and Objects in Python: What They Are and Why They Matter](https://medium.com/cloud-for-everybody/anonymous-classes-and-objects-in-python-what-they-are-and-why-they-matter-e66638a2076b?source=rss------programming-5) (2025-11-09)
+- [09027641209شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dwnya395/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-bdcc553ff46b?source=rss------programming-5) (2025-11-09)
+- [09027641209شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dwnya395/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-bef87f11461f?source=rss------programming-5) (2025-11-09)
+- [09027641209شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dwnya395/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e7850a507012?source=rss------programming-5) (2025-11-09)
 
 </details>
 
@@ -130,11 +133,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [The new era of Azure Ultra Disk: Experience the next generation of mission-critical block storage](https://azure.microsoft.com/en-us/blog/the-new-era-of-azure-ultra-disk-experience-the-next-generation-of-mission-critical-block-storage/) (2025-11-06)
+- [Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows](https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/) (2025-11-05)
+- [Microsoft strengthens sovereign cloud capabilities with new services](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/) (2025-11-05)
+- [Powering Distributed AI/ML at Scale with Azure and Anyscale](https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/) (2025-11-04)
 - [Enhancing software supply chain security with Microsoft’s Signing Transparency](https://azure.microsoft.com/en-us/blog/enhancing-software-supply-chain-security-with-microsofts-signing-transparency/) (2025-11-03)
-- [Resiliency in the cloud—empowered by shared responsibility and Azure Essentials](https://azure.microsoft.com/en-us/blog/resiliency-in-the-cloud-empowered-by-shared-responsibility-and-azure-essentials/) (2025-10-31)
-- [GitHub Universe 2025: Where developer innovation took center stage](https://azure.microsoft.com/en-us/blog/github-universe-2025-where-developer-innovation-took-center-stage/) (2025-10-30)
-- [Building the future together: Microsoft and NVIDIA announce AI advancements at GTC DC](https://azure.microsoft.com/en-us/blog/building-the-future-together-microsoft-and-nvidia-announce-ai-advancements-at-gtc-dc/) (2025-10-28)
-- [Introducing Agent HQ: Any agent, any way you work](https://github.blog/news-insights/company-news/welcome-home-agents/?utm_source=MSFT-day1-blog&utm_medium=social&utm_campaign=universe25) (2025-10-28)
 
 </details>
 
@@ -581,11 +584,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/integrate-fl
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Top 10 AI Video Generators: Make a Cinematic Video in Seconds Using These Tools](https://www.analyticsvidhya.com/blog/2025/11/ai-video-generators/) (2025-11-09)
 - [Guide to Context Engineering](https://www.analyticsvidhya.com/blog/2025/11/guide-to-context-engineering/) (2025-11-08)
 - [Crash Course to Crack Machine Learning Interview – Part 2: Linear Regression](https://www.analyticsvidhya.com/blog/2025/11/linear-regression-interview-questions/) (2025-11-07)
 - [Kimi K2 Thinking is Here and It Beats GPT-5!](https://www.analyticsvidhya.com/blog/2025/11/kimi-k2-thinking/) (2025-11-06)
 - [8 AI Tools to Analyze Data in Excel by Just Chatting](https://www.analyticsvidhya.com/blog/2025/11/ai-tools-for-excel/) (2025-11-06)
-- [The 5% Rule: What can you do That AI Still Can’t?](https://www.analyticsvidhya.com/blog/2025/11/save-your-job-against-ai/) (2025-11-05)
 
 </details>
 
