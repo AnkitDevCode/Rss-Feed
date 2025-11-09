@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Is Wall Street losing faith in AI?](https://techcrunch.com/2025/11/08/is-wall-street-losing-faith-in-ai/) (2025-11-08)
+- [‘Breaking Bad’ creator’s new show ‘Pluribus’ was emphatically ‘made by humans,’ not AI](https://techcrunch.com/2025/11/08/breaking-bad-creators-new-show-pluribus-was-emphatically-made-by-humans-not-ai/) (2025-11-08)
 - [OpenAI asked Trump administration to expand Chips Act tax credit to cover data centers](https://techcrunch.com/2025/11/08/openai-asked-trump-administration-to-expand-chips-act-tax-credit-to-cover-data-centers/) (2025-11-08)
 - [How startups can lure good talent fairly without big tech bank accounts ](https://techcrunch.com/2025/11/08/how-startups-can-lure-good-talent-fairly-without-big-tech-bank-accounts/) (2025-11-08)
 - [Rivian gives RJ Scaringe a new pay package worth up to $5B](https://techcrunch.com/2025/11/07/rivian-gives-rj-scaringe-a-new-pay-package-worth-up-to-5b/) (2025-11-07)
-- [Seven more families are now suing OpenAI over ChatGPT’s role in suicides, delusions](https://techcrunch.com/2025/11/07/seven-more-families-are-now-suing-openai-over-chatgpts-role-in-suicides-delusions/) (2025-11-07)
-- [GoWish’s shopping and wish list app is having its biggest year yet](https://techcrunch.com/2025/11/07/gowishs-shopping-and-wishlist-app-is-having-its-biggest-year-yet/) (2025-11-07)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Driver livestreams on TikTok as she apparently hits and kills man in Chicago](https://www.theguardian.com/us-news/2025/nov/08/tiktok-live-stream-fatal-crash-chicago) (2025-11-08)
-- [Cloudflare Scrubs Aisuru Botnet from Top Domains List](https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/) (2025-11-08)
-- [52 Year old data tape could contain Unix history](https://www.theregister.com/2025/11/07/unix_fourth_edition_tape_rediscovered/) (2025-11-08)
-- [Ticker: Don't Die of Heart Disease](https://myticker.com/) (2025-11-08)
-- [An Algebraic Language for the Manipulation of Symbolic Expressions (1958) [pdf]](https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf) (2025-11-08)
+- [Characterizing the American Upper Paleolithic](https://www.science.org/doi/10.1126/sciadv.ady9545) (2025-11-09)
+- [OpenAI: Our new model GPT-5-Codex-Mini – a more cost-efficient GPT-5-Codex](https://github.com/openai/codex/releases/tag/rust-v0.56.0) (2025-11-08)
+- [Ironclad – formally verified, real-time capable, Unix-like OS kernel](https://ironclad-os.org/) (2025-11-08)
+- [IP Blocking the UK Is Not Enough to Comply with the Online Safety Act](https://prestonbyrne.com/2025/11/06/the-ofcom-files-part-2-ip-blocking-the-uk-is-not-enough-to-comply-with-the-online-safety-act/) (2025-11-08)
+- [Debugging BeagleBoard USB boot with a sniffer: fixing omap_loader on modern PCs](https://www.downtowndougbrown.com/2025/11/debugging-beagleboard-usb-boot-with-a-sniffer-fixing-omap_loader-on-modern-pcs/) (2025-11-08)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Blue Origin will ‘move heaven and Earth’ to help NASA reach the Moon faster, CEO says](https://arstechnica.com/space/2025/11/blue-origin-will-move-heaven-and-earth-to-help-nasa-reach-the-moon-faster-ceo-says/) (2025-11-08)
 - [James Watson, who helped unravel DNA’s double-helix, has died](https://arstechnica.com/health/2025/11/james-watson-who-helped-unravel-dnas-double-helix-has-died/) (2025-11-07)
 - [Researchers surprised that with AI, toxicity is harder to fake than intelligence](https://arstechnica.com/information-technology/2025/11/being-too-nice-online-is-a-dead-giveaway-for-ai-bots-study-suggests/) (2025-11-07)
 - [Commercial spyware “Landfall” ran rampant on Samsung phones for almost a year](https://arstechnica.com/gadgets/2025/11/commercial-spyware-landfall-ran-rampant-on-samsung-phones-for-almost-a-year/) (2025-11-07)
 - [The government shutdown is starting to have cosmic consequences](https://arstechnica.com/space/2025/11/faa-says-commercial-rockets-must-launch-at-night-citing-government-shutdown/) (2025-11-07)
-- [Higher prices, simpler streaming expected if HBO Max folds into Paramount+](https://arstechnica.com/gadgets/2025/11/higher-prices-simpler-streaming-expected-if-hbo-max-folds-into-paramount/) (2025-11-07)
 
 </details>
 
@@ -97,22 +97,24 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Offline Souls, Online Noise (Dead Internet) PART 1](https://dev.to/cir9akovic/offline-souls-online-noise-dead-internet-2a65) (2025-11-08)
-- [Understanding Preload and Stylesheet Links for Faster CSS Loading](https://dev.to/rijultp/understanding-preload-and-stylesheet-links-for-faster-css-loading-4lng) (2025-11-08)
-- [Understanding the Logic Behind Two Sum — and Extending It to Three Sum](https://dev.to/we_are_broken_compilers/understanding-the-logic-behind-two-sum-and-extending-it-to-three-sum-838) (2025-11-08)
-- ["Code, Scarcity, and the Asymmetric Bet: 4.8 Million Coins. One Question: Can You Run the Code?”](https://dev.to/bitnet4ever/code-scarcity-and-the-asymmetric-bet48-million-coins-one-question-can-you-run-the-code-1oel) (2025-11-08)
-- [Building Reddit Game with Devvit and TypeScript (starter included)](https://dev.to/room_js/building-reddit-game-with-devvit-and-typescript-starter-included-3kcp) (2025-11-08)
+- [TelUI leaves prototype purpose, now for making UIs!](https://dev.to/eotterbeep/telui-leaves-prototype-purpose-now-for-making-uis-24k6) (2025-11-09)
+- [My first small Project Website.](https://dev.to/didzis_skujevskis_c83d708/my-first-small-project-website-i3c) (2025-11-09)
+- [Unlocking Cellular Secrets: Precision Alignment for Multi-Stain Bioimages by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlocking-cellular-secrets-precision-alignment-for-multi-stain-bioimages-by-arvind-sundararajan-438l) (2025-11-09)
+- [Unlocking Developer Revenue: How Monetzly Transforms AI App Monetization](https://dev.to/monetzly/unlocking-developer-revenue-how-monetzly-transforms-ai-app-monetization-1g3h) (2025-11-09)
+- [ASP .NET Core Project details](https://dev.to/karenpayneoregon/asp-net-core-project-details-log) (2025-11-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Made $50,520 From One Article By Saying “Python Is Dying.](https://devrimozcay.medium.com/i-made-50-520-from-one-article-by-saying-python-is-dying-6037f150ee57?source=rss------programming-5) (2025-11-08)
-- [Python But Make It Pretty](https://medium.com/@dondmtadaya/python-but-make-it-pretty-9dfcf071367e?source=rss------programming-5) (2025-11-08)
-- [Master Tuple Packing and Unpacking in Python](https://medium.com/cloud-for-everybody/master-tuple-packing-and-unpacking-in-python-d7903158f44c?source=rss------programming-5) (2025-11-08)
-- [How To Deploy Your .NET 9 Application to Azure Using GitHub Actions (Full CI/CD Pipeline Guide)](https://medium.com/@mariammaurice/how-to-deploy-your-net-9-application-to-azure-using-github-actions-full-ci-cd-pipeline-guide-32ca8043c69b?source=rss------programming-5) (2025-11-08)
-- [3 Best Wireless CarPlay Adapters for Seamless Connectivity](https://medium.com/@AmazingShopping.net/3-best-wireless-carplay-adapters-for-seamless-connectivity-a022150463f1?source=rss------programming-5) (2025-11-08)
+- [09027641209شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@shq22879/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-1fc648beeaa1?source=rss------programming-5) (2025-11-09)
+- [0901 390 1618شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@shq22879/0901-390-1618%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-3a4b44801fe5?source=rss------programming-5) (2025-11-09)
+- [Understanding @abstractmethod and @staticmethod in Python](https://medium.com/fundamentals-of-artificial-intelligence/understanding-abstractmethod-and-staticmethod-in-python-c269be2fe720?source=rss------programming-5) (2025-11-09)
+- [3 Top-Rated Matcha Whisk Sets for Traditional Tea Lovers](https://medium.com/@AmazingShopping.net/3-top-rated-matcha-whisk-sets-for-traditional-tea-lovers-2256e319c48c?source=rss------programming-5) (2025-11-09)
+- [The Theoretical Transition from Pornographic Mass-Entertainment to the Industry of Human…](https://medium.com/@wmvvv777/the-theoretical-transition-from-pornographic-mass-entertainment-to-the-industry-of-human-66dd606225a6?source=rss------programming-5) (2025-11-09)
 
 </details>
 
@@ -130,11 +132,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [The new era of Azure Ultra Disk: Experience the next generation of mission-critical block storage](https://azure.microsoft.com/en-us/blog/the-new-era-of-azure-ultra-disk-experience-the-next-generation-of-mission-critical-block-storage/) (2025-11-06)
 - [Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows](https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/) (2025-11-05)
 - [Microsoft strengthens sovereign cloud capabilities with new services](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/) (2025-11-05)
 - [Powering Distributed AI/ML at Scale with Azure and Anyscale](https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/) (2025-11-04)
 - [Enhancing software supply chain security with Microsoft’s Signing Transparency](https://azure.microsoft.com/en-us/blog/enhancing-software-supply-chain-security-with-microsofts-signing-transparency/) (2025-11-03)
+- [Resiliency in the cloud—empowered by shared responsibility and Azure Essentials](https://azure.microsoft.com/en-us/blog/resiliency-in-the-cloud-empowered-by-shared-responsibility-and-azure-essentials/) (2025-10-31)
 
 </details>
 
