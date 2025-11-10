@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Work After Work: Notes from an Unemployed New Grad Watching the Job Market Break](https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/) (2025-11-10)
+- [LLM policy?](https://github.com/opencontainers/runc/issues/4990) (2025-11-10)
+- [Show HN: DroidDock – A sleek macOS app for browsing Android device files via ADB](https://rajivm1991.github.io/DroidDock/) (2025-11-10)
+- [Work after work: Notes from an unemployed new grad watching the job market break](https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/) (2025-11-10)
 - [Sued by Nintendo](https://www.suedbynintendo.com/) (2025-11-10)
-- [If You're Not Active, You're Sick – You Just Don't Know It Yet](https://howardluksmd.substack.com/p/if-youre-not-active-youre-sick-you) (2025-11-09)
-- [Custom doorbell app with Home Assistant and WebRTC](https://www.naps62.com/posts/custom-doorbell-app-with-homeassistant) (2025-11-09)
-- [Ask HN: What Are You Working On? (Nov 2025)](https://news.ycombinator.com/item?id=45869146) (2025-11-09)
+- [Metabolic and cellular differences between sedentary and active individuals](https://howardluksmd.substack.com/p/if-youre-not-active-youre-sick-you) (2025-11-09)
 
 </details>
 
@@ -97,25 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [PiHMP Stack (v2) - The Phoenix Protocol Build Log](https://dev.to/twop0intfive/pihmp-stack-v2-the-phoenix-protocol-build-log-m1f) (2025-11-10)
-- [HPSR Proxy Stack: Tu Propio Servidor Proxy HTTPS con Docker, Squid y Certificados SSL Válidos](https://dev.to/hopsersmerk/hpsr-proxy-stack-tu-propio-servidor-proxy-https-con-docker-squid-y-certificados-ssl-validos-47a8) (2025-11-10)
-- [Glyph: Scaling Context Windows via Visual-Text Compression](https://dev.to/paperium/glyph-scaling-context-windows-via-visual-text-compression-bjc) (2025-11-10)
-- [ChatGPT Lied to Me: A Warning to Developers](https://dev.to/todd427/chatgpt-lied-to-me-a-warning-to-developers-2ddh) (2025-11-10)
-- [dev diary 20251109](https://dev.to/hirooka_kazuya_d7f37d3cde/dev-diary-20251109-4l34) (2025-11-10)
+- [How I Approach Building Component Systems](https://dev.to/meetaryzhikov/how-i-approach-building-component-systems-g9m) (2025-11-10)
+- [Writing Unit Tests for My Open Source Project](https://dev.to/denisc96/writing-unit-tests-for-my-open-source-project-33j3) (2025-11-10)
+- [Vibe Coding ++](https://dev.to/peteralexbizjak/vibe-coding--bp3) (2025-11-10)
+- [I Built Convodb So You Can Talk to Your Database (And It Talks Back With 4 AI Agents)](https://dev.to/prime_299792/i-built-convodb-so-you-can-talk-to-your-database-and-it-talks-back-with-4-ai-agents-1fno) (2025-11-10)
+- [Step Into Mystic Falls: A Halloween Story Telling Game](https://dev.to/amelia2802/step-into-mystic-falls-a-halloween-story-telling-game-imb) (2025-11-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09051012897شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@hddhfhdbbdfjjfhd/09051012897%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-df6df590d4d5?source=rss------programming-5) (2025-11-10)
-- [ Turn Your Small Capital into Big Profits with Bitcoin Investment! ](https://medium.com/@udofiasamuelusoro/turn-your-small-capital-into-big-profits-with-bitcoin-investment-8189a3bc3092?source=rss------programming-5) (2025-11-10)
-- [09051012897شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@hddhfhdbbdfjjfhd/09051012897%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ca0837c96295?source=rss------programming-5) (2025-11-10)
-- [3 Editor’s Picks Stylish Incense Holders for Cozy Moments](https://medium.com/@AmazingShopping.net/3-editors-picks-stylish-incense-holders-for-cozy-moments-32fffe1ced07?source=rss------programming-5) (2025-11-10)
-- [09051012897شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@hdjfhhrhdjsbxbf/09051012897%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-03136e43bb5f?source=rss------programming-5) (2025-11-10)
+- [3 Laravel Broadcasting Drivers You Should Try: Reverb, Pusher, and Ably](https://medium.com/@developerawam/3-laravel-broadcasting-drivers-you-should-try-reverb-pusher-and-ably-3eada5e419b1?source=rss------programming-5) (2025-11-10)
+- [How to Secure Your API Keys (And Why .env Files Aren’t Enough)](https://medium.com/@sohail_saifii/how-to-secure-your-api-keys-and-why-env-files-arent-enough-704eefb26711?source=rss------programming-5) (2025-11-10)
+- [Stop Guessing CSS Layouts: Grid vs Flexbox — What to Use, When, and Why](https://medium.com/@vishwajitpatil1224/stop-guessing-css-layouts-grid-vs-flexbox-what-to-use-when-and-why-933703fca364?source=rss------programming-5) (2025-11-10)
+- [The Ship of Theseus Paradox Is Happening to Your Codebase Right Now](https://medium.com/@sohail_saifi/the-ship-of-theseus-paradox-is-happening-to-your-codebase-right-now-d90ab80be839?source=rss------programming-5) (2025-11-10)
+- [20% OFF on your Fall Semester Programming Assignment](https://medium.com/@enzojade62/20-off-on-your-fall-semester-programming-assignment-b977da3a4a31?source=rss------programming-5) (2025-11-10)
 
 </details>
 
@@ -584,11 +581,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/integrate-fl
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [From Zero to LLMOps Hero: Your 101 Guide to Running LLMs in Production ](https://www.analyticsvidhya.com/blog/2025/11/llms-in-production/) (2025-11-10)
 - [Top 10 AI Video Generators: Make a Cinematic Video in Seconds Using These Tools](https://www.analyticsvidhya.com/blog/2025/11/ai-video-generators/) (2025-11-09)
 - [Guide to Context Engineering](https://www.analyticsvidhya.com/blog/2025/11/guide-to-context-engineering/) (2025-11-08)
 - [Gemini API File Search: The Easy Way to Build RAG](https://www.analyticsvidhya.com/blog/2025/11/gemini-api-file-search/) (2025-11-07)
 - [Crash Course to Crack Machine Learning Interview – Part 2: Linear Regression](https://www.analyticsvidhya.com/blog/2025/11/linear-regression-interview-questions/) (2025-11-07)
-- [Kimi K2 Thinking is Here and It Beats GPT-5!](https://www.analyticsvidhya.com/blog/2025/11/kimi-k2-thinking/) (2025-11-06)
 
 </details>
 
