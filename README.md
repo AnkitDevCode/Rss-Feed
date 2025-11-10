@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Blue Origin scrubs second New Glenn launch, will try again November 12](https://techcrunch.com/2025/11/09/blue-origin-scrubs-second-new-glenn-launch-will-try-again-november-12/) (2025-11-10)
+- [Slow Ventures holds a ‘finishing school’ to help founders learn to be fancy](https://techcrunch.com/2025/11/09/slow-ventures-holds-a-finishing-school-to-help-founders-learn-to-be-fancy/) (2025-11-09)
+- [YouTube TV is giving customers a $20 credit for Disney blackout](https://techcrunch.com/2025/11/09/youtube-tv-is-giving-customers-a-20-credit-for-disney-blackout/) (2025-11-09)
+- [Elon Musk uses Grok to imagine the possibility of love](https://techcrunch.com/2025/11/09/elon-musk-uses-grok-to-imagine-the-possibility-of-love/) (2025-11-09)
 - [Apple reportedly plans ambitious satellite-powered iPhone features](https://techcrunch.com/2025/11/09/apple-reportedly-plans-ambitious-satellite-powered-iphone-features/) (2025-11-09)
-- [TechCrunch Mobility: Elon Musk’s threats worked](https://techcrunch.com/2025/11/09/techcrunch-mobility-elon-musks-threats-worked/) (2025-11-09)
-- [Is Wall Street losing faith in AI?](https://techcrunch.com/2025/11/08/is-wall-street-losing-faith-in-ai/) (2025-11-08)
-- [‘Breaking Bad’ creator’s new show ‘Pluribus’ was emphatically ‘made by humans,’ not AI](https://techcrunch.com/2025/11/08/breaking-bad-creators-new-show-pluribus-was-emphatically-made-by-humans-not-ai/) (2025-11-08)
-- [OpenAI asked Trump administration to expand Chips Act tax credit to cover data centers](https://techcrunch.com/2025/11/08/openai-asked-trump-administration-to-expand-chips-act-tax-credit-to-cover-data-centers/) (2025-11-08)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Ask HN: How do you get over the fear of sharing code?](https://news.ycombinator.com/item?id=45867176) (2025-11-09)
-- [Bumble Berry Pi – A Cheap DIY Raspberry Pi Handheld Cyberdeck](https://github.com/samcervantes/bumble-berry-pi) (2025-11-09)
-- [Marble Fountain](https://willmorrison.net/posts/marble-fountain/) (2025-11-09)
-- [Bull markets make you feel smarter than you are](https://awealthofcommonsense.com/2025/11/ben-graham-bull-market-brains/) (2025-11-09)
-- [The Principles of Diffusion Models](https://arxiv.org/abs/2510.21890) (2025-11-09)
+- [Work After Work: Notes from an Unemployed New Grad Watching the Job Market Break](https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/) (2025-11-10)
+- [Sued by Nintendo](https://www.suedbynintendo.com/) (2025-11-10)
+- [If You're Not Active, You're Sick – You Just Don't Know It Yet](https://howardluksmd.substack.com/p/if-youre-not-active-youre-sick-you) (2025-11-09)
+- [Custom doorbell app with Home Assistant and WebRTC](https://www.naps62.com/posts/custom-doorbell-app-with-homeassistant) (2025-11-09)
+- [Ask HN: What Are You Working On? (Nov 2025)](https://news.ycombinator.com/item?id=45869146) (2025-11-09)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Cleveland Guardians&#8217; pitchers indicted for rigging online bets](https://www.theverge.com/news/817425/cleveland-guardians-pitchers-indicted-for-rigging-online-bets) (2025-11-09)
+- [You need to listen to this compilation of ‘80s Spanish ambient and electronic music](https://www.theverge.com/column/817417/la-ola-interior-compilation-80s-spanish-ambient-and-electronic-music) (2025-11-09)
+- [YouTube TV, ESPN, and Disney: the latest on the blackout](https://www.theverge.com/news/817403/youtube-tv-disney-espn-blackout-updates) (2025-11-09)
+- [Arturia&#8217;s KeyStep mk2 MIDI controller is a shortcut to flow state](https://www.theverge.com/tech/817387/arturia-keystep-mk2-midi-controller-generative-sequencing-writers-block) (2025-11-09)
 - [The tale of the Fire Phone, Amazon’s very strange smartphone](https://www.theverge.com/podcast/816739/amazon-fire-phone-version-history) (2025-11-09)
-- [Deck out your tree with ornaments of retro consoles, movie moments, and more](https://www.theverge.com/tech/811614/best-christmas-ornaments-2025) (2025-11-09)
-- [65daysofstatic’s new No Man’s Sky album searches for humanity in an AI-filled world](https://www.theverge.com/report/816427/no-mans-sky-album-journeys-65daysofstatic) (2025-11-09)
-- [The algorithm failed music](https://www.theverge.com/column/815744/music-recommendation-algorithms) (2025-11-09)
-- [Ikea just took over your smart home](https://www.theverge.com/tech/816650/ikea-just-took-over-your-smart-home) (2025-11-09)
 
 </details>
 
@@ -97,22 +97,25 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [CinemaSins: Everything Wrong With Thunderbolts* (The New Avengers) In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-25l1) (2025-11-09)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-h77) (2025-11-09)
-- [The Day Mentoring Felt Like Parenting: Lessons from The Explosive Child](https://dev.to/sanjayajoseph/the-day-mentoring-felt-like-parenting-lessons-from-the-explosive-child-59cm) (2025-11-09)
-- [Robust Layerwise Scaling Rules by Proper Weight Decay Tuning](https://dev.to/paperium/robust-layerwise-scaling-rules-by-proper-weight-decay-tuning-4hjd) (2025-11-09)
-- [Claude vs ChatGPT vs Gemini: Why Anthropic’s AI Outcodes the Rest?](https://dev.to/grenishrai/claude-vs-chatgpt-vs-gemini-why-anthropics-ai-outcodes-the-rest-451i) (2025-11-09)
+- [PiHMP Stack (v2) - The Phoenix Protocol Build Log](https://dev.to/twop0intfive/pihmp-stack-v2-the-phoenix-protocol-build-log-m1f) (2025-11-10)
+- [HPSR Proxy Stack: Tu Propio Servidor Proxy HTTPS con Docker, Squid y Certificados SSL Válidos](https://dev.to/hopsersmerk/hpsr-proxy-stack-tu-propio-servidor-proxy-https-con-docker-squid-y-certificados-ssl-validos-47a8) (2025-11-10)
+- [Glyph: Scaling Context Windows via Visual-Text Compression](https://dev.to/paperium/glyph-scaling-context-windows-via-visual-text-compression-bjc) (2025-11-10)
+- [ChatGPT Lied to Me: A Warning to Developers](https://dev.to/todd427/chatgpt-lied-to-me-a-warning-to-developers-2ddh) (2025-11-10)
+- [dev diary 20251109](https://dev.to/hirooka_kazuya_d7f37d3cde/dev-diary-20251109-4l34) (2025-11-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Beyond the Hype: Why Next.js Might Not Be the Engineering Silver Bullet You Think It Is ](https://medium.com/@monikasinghal713/beyond-the-hype-why-next-js-might-not-be-the-engineering-silver-bullet-you-think-it-is-5fe579bfa3f8?source=rss------programming-5) (2025-11-09)
-- [The Day Rust Gets a JIT: How Cranelift Could Change Everything](https://medium.com/@bugsybits/the-day-rust-gets-a-jit-how-cranelift-could-change-everything-bac03a41b530?source=rss------programming-5) (2025-11-09)
-- [2025’s Biggest Mobile Dev Twist: Swift’s *Jaw-Dropping* Performance on Android ⚡](https://medium.com/@anshusinghal703/2025s-biggest-mobile-dev-twist-swift-s-jaw-dropping-performance-on-android-e35c7018a18e?source=rss------programming-5) (2025-11-09)
-- [3 Ultimate Balloon Pumps for Quick and Easy Party Setup](https://medium.com/@AmazingShopping.net/3-ultimate-balloon-pumps-for-quick-and-easy-party-setup-0469226a8bd9?source=rss------programming-5) (2025-11-09)
-- [Distributed Caching in ASP.NET Core with Redis | A Complete Practical Guide (.NET 9 + Minimal APIs)](https://medium.com/@mariammaurice/distributed-caching-in-asp-net-core-with-redis-a-complete-practical-guide-net-9-minimal-apis-b67e0c83d3e3?source=rss------programming-5) (2025-11-09)
+- [09051012897شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@hddhfhdbbdfjjfhd/09051012897%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-df6df590d4d5?source=rss------programming-5) (2025-11-10)
+- [ Turn Your Small Capital into Big Profits with Bitcoin Investment! ](https://medium.com/@udofiasamuelusoro/turn-your-small-capital-into-big-profits-with-bitcoin-investment-8189a3bc3092?source=rss------programming-5) (2025-11-10)
+- [09051012897شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@hddhfhdbbdfjjfhd/09051012897%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ca0837c96295?source=rss------programming-5) (2025-11-10)
+- [3 Editor’s Picks Stylish Incense Holders for Cozy Moments](https://medium.com/@AmazingShopping.net/3-editors-picks-stylish-incense-holders-for-cozy-moments-32fffe1ced07?source=rss------programming-5) (2025-11-10)
+- [09051012897شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@hdjfhhrhdjsbxbf/09051012897%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-03136e43bb5f?source=rss------programming-5) (2025-11-10)
 
 </details>
 
@@ -130,11 +133,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [The new era of Azure Ultra Disk: Experience the next generation of mission-critical block storage](https://azure.microsoft.com/en-us/blog/the-new-era-of-azure-ultra-disk-experience-the-next-generation-of-mission-critical-block-storage/) (2025-11-06)
+- [Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows](https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/) (2025-11-05)
 - [Microsoft strengthens sovereign cloud capabilities with new services](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/) (2025-11-05)
 - [Powering Distributed AI/ML at Scale with Azure and Anyscale](https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/) (2025-11-04)
 - [Enhancing software supply chain security with Microsoft’s Signing Transparency](https://azure.microsoft.com/en-us/blog/enhancing-software-supply-chain-security-with-microsofts-signing-transparency/) (2025-11-03)
-- [Resiliency in the cloud—empowered by shared responsibility and Azure Essentials](https://azure.microsoft.com/en-us/blog/resiliency-in-the-cloud-empowered-by-shared-responsibility-and-azure-essentials/) (2025-10-31)
-- [GitHub Universe 2025: Where developer innovation took center stage](https://azure.microsoft.com/en-us/blog/github-universe-2025-where-developer-innovation-took-center-stage/) (2025-10-30)
 
 </details>
 
@@ -583,9 +586,9 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/integrate-fl
 
 - [Top 10 AI Video Generators: Make a Cinematic Video in Seconds Using These Tools](https://www.analyticsvidhya.com/blog/2025/11/ai-video-generators/) (2025-11-09)
 - [Guide to Context Engineering](https://www.analyticsvidhya.com/blog/2025/11/guide-to-context-engineering/) (2025-11-08)
+- [Gemini API File Search: The Easy Way to Build RAG](https://www.analyticsvidhya.com/blog/2025/11/gemini-api-file-search/) (2025-11-07)
 - [Crash Course to Crack Machine Learning Interview – Part 2: Linear Regression](https://www.analyticsvidhya.com/blog/2025/11/linear-regression-interview-questions/) (2025-11-07)
 - [Kimi K2 Thinking is Here and It Beats GPT-5!](https://www.analyticsvidhya.com/blog/2025/11/kimi-k2-thinking/) (2025-11-06)
-- [8 AI Tools to Analyze Data in Excel by Just Chatting](https://www.analyticsvidhya.com/blog/2025/11/ai-tools-for-excel/) (2025-11-06)
 
 </details>
 
