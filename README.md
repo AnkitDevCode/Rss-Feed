@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Lenskart recovers from tepid open to close first day slightly above IPO price](https://techcrunch.com/2025/11/10/lenskart-recovers-from-tepid-open-to-close-first-day-slightly-above-ipo-price/) (2025-11-10)
 - [Blue Origin scrubs second New Glenn launch, will try again November 12](https://techcrunch.com/2025/11/09/blue-origin-scrubs-second-new-glenn-launch-will-try-again-november-12/) (2025-11-10)
 - [Slow Ventures holds a ‘finishing school’ to help founders learn to be fancy](https://techcrunch.com/2025/11/09/slow-ventures-holds-a-finishing-school-to-help-founders-learn-to-be-fancy/) (2025-11-09)
 - [YouTube TV is giving customers a $20 credit for Disney blackout](https://techcrunch.com/2025/11/09/youtube-tv-is-giving-customers-a-20-credit-for-disney-blackout/) (2025-11-09)
 - [Elon Musk uses Grok to imagine the possibility of love](https://techcrunch.com/2025/11/09/elon-musk-uses-grok-to-imagine-the-possibility-of-love/) (2025-11-09)
-- [Apple reportedly plans ambitious satellite-powered iPhone features](https://techcrunch.com/2025/11/09/apple-reportedly-plans-ambitious-satellite-powered-iphone-features/) (2025-11-09)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [LLM policy?](https://github.com/opencontainers/runc/issues/4990) (2025-11-10)
-- [Show HN: DroidDock – A sleek macOS app for browsing Android device files via ADB](https://rajivm1991.github.io/DroidDock/) (2025-11-10)
-- [Work after work: Notes from an unemployed new grad watching the job market break](https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/) (2025-11-10)
-- [Sued by Nintendo](https://www.suedbynintendo.com/) (2025-11-10)
-- [Metabolic and cellular differences between sedentary and active individuals](https://howardluksmd.substack.com/p/if-youre-not-active-youre-sick-you) (2025-11-09)
+- [DNS Provider Quad9 Sees Piracy Blocking Orders as "Existential Threat"](https://torrentfreak.com/dns-provider-quad9-sees-piracy-blocking-orders-as-existential-threat/) (2025-11-10)
+- [Europe to decide if 6 GHz is shared between Wi-Fi and cellular networks](https://www.theregister.com/2025/11/09/europe_to_decide_if_6/) (2025-11-10)
+- [Installing and using HP-UX 9](https://thejpster.org.uk/blog/blog-2025-11-08/) (2025-11-10)
+- [Microsoft's lack of quality control is out of control](https://www.theregister.com/2025/11/08/microsoft_lacks_quality_control/) (2025-11-10)
+- [EU takes aim at plastic pellets to prevent their nightmare cleanup](https://www.yahoo.com/news/articles/eu-takes-aim-plastic-pellets-030314496.html) (2025-11-10)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Blue Origin scrubs second New Glenn launch](https://www.theverge.com/news/817466/blue-origin-new-glenn-second-launch-scrubbed) (2025-11-10)
 - [Cleveland Guardians&#8217; pitchers indicted for rigging online bets](https://www.theverge.com/news/817425/cleveland-guardians-pitchers-indicted-for-rigging-online-bets) (2025-11-09)
 - [You need to listen to this compilation of ‘80s Spanish ambient and electronic music](https://www.theverge.com/column/817417/la-ola-interior-compilation-80s-spanish-ambient-and-electronic-music) (2025-11-09)
 - [YouTube TV, ESPN, and Disney: the latest on the blackout](https://www.theverge.com/news/817403/youtube-tv-disney-espn-blackout-updates) (2025-11-09)
 - [Arturia&#8217;s KeyStep mk2 MIDI controller is a shortcut to flow state](https://www.theverge.com/tech/817387/arturia-keystep-mk2-midi-controller-generative-sequencing-writers-block) (2025-11-09)
-- [The tale of the Fire Phone, Amazon’s very strange smartphone](https://www.theverge.com/podcast/816739/amazon-fire-phone-version-history) (2025-11-09)
 
 </details>
 
@@ -97,22 +97,24 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How I Approach Building Component Systems](https://dev.to/meetaryzhikov/how-i-approach-building-component-systems-g9m) (2025-11-10)
-- [Writing Unit Tests for My Open Source Project](https://dev.to/denisc96/writing-unit-tests-for-my-open-source-project-33j3) (2025-11-10)
-- [Vibe Coding ++](https://dev.to/peteralexbizjak/vibe-coding--bp3) (2025-11-10)
-- [I Built Convodb So You Can Talk to Your Database (And It Talks Back With 4 AI Agents)](https://dev.to/prime_299792/i-built-convodb-so-you-can-talk-to-your-database-and-it-talks-back-with-4-ai-agents-1fno) (2025-11-10)
-- [Step Into Mystic Falls: A Halloween Story Telling Game](https://dev.to/amelia2802/step-into-mystic-falls-a-halloween-story-telling-game-imb) (2025-11-10)
+- [Why AI Developers Are Transitioning from Centralized Cloud to Decentralized Compute Networks: A Technical Overview](https://dev.to/neurolov__ai/why-ai-developers-are-transitioning-from-centralized-cloud-to-decentralized-compute-networks-a-321l) (2025-11-10)
+- [AI Coding Assistants for Beginners: How to Use ChatGPT & Copilot Without ‘Cheating’](https://dev.to/dhruvjoshi9/ai-coding-assistants-for-beginners-how-to-use-chatgpt-copilot-without-cheating-544) (2025-11-10)
+- [Building a Cloud-Native App to Match Founders with the Right Hackathon](https://dev.to/abishek_muthian/building-a-cloud-native-app-to-match-founders-with-the-right-hackathon-14ae) (2025-11-10)
+- [A Practical Guide to AI Voice Agent Observability: Debugging Latency with VideoSDK Traces](https://dev.to/chaitrali_kakde/a-practical-guide-to-ai-voice-agent-observability-debugging-latency-with-videosdk-traces-4kmj) (2025-11-10)
+- [How to Deposit Skins on Clash.gg](https://dev.to/cs2caseguides/how-to-deposit-skins-on-clashgg-70b) (2025-11-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [3 Laravel Broadcasting Drivers You Should Try: Reverb, Pusher, and Ably](https://medium.com/@developerawam/3-laravel-broadcasting-drivers-you-should-try-reverb-pusher-and-ably-3eada5e419b1?source=rss------programming-5) (2025-11-10)
-- [How to Secure Your API Keys (And Why .env Files Aren’t Enough)](https://medium.com/@sohail_saifii/how-to-secure-your-api-keys-and-why-env-files-arent-enough-704eefb26711?source=rss------programming-5) (2025-11-10)
-- [Stop Guessing CSS Layouts: Grid vs Flexbox — What to Use, When, and Why](https://medium.com/@vishwajitpatil1224/stop-guessing-css-layouts-grid-vs-flexbox-what-to-use-when-and-why-933703fca364?source=rss------programming-5) (2025-11-10)
-- [The Ship of Theseus Paradox Is Happening to Your Codebase Right Now](https://medium.com/@sohail_saifi/the-ship-of-theseus-paradox-is-happening-to-your-codebase-right-now-d90ab80be839?source=rss------programming-5) (2025-11-10)
-- [20% OFF on your Fall Semester Programming Assignment](https://medium.com/@enzojade62/20-off-on-your-fall-semester-programming-assignment-b977da3a4a31?source=rss------programming-5) (2025-11-10)
+- [The Great Compromise: Why Cross-Platform Tools Like Flutter and React Native Dominate Development —…](https://medium.com/@pewienpawcio12345/the-great-compromise-why-cross-platform-tools-like-flutter-and-react-native-dominate-development-62f767b05522?source=rss------programming-5) (2025-11-10)
+- [How I Upgraded a Legacy .NET Core App to .NET 9 in 48 Hours: Complete Blueprint](https://medium.com/c-sharp-programming/how-i-upgraded-a-legacy-net-core-app-to-net-9-in-48-hours-complete-blueprint-d1d40853dac3?source=rss------programming-5) (2025-11-10)
+- [Beginner Programming Editor Shortcuts](https://medium.com/@tsumit849/beginner-programming-editor-shortcuts-4071e0c0a5bd?source=rss------programming-5) (2025-11-10)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@shq22879/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-d38eee4c34ee?source=rss------programming-5) (2025-11-10)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@shq22879/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e6953131c11e?source=rss------programming-5) (2025-11-10)
 
 </details>
 
@@ -130,11 +132,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [The new era of Azure Ultra Disk: Experience the next generation of mission-critical block storage](https://azure.microsoft.com/en-us/blog/the-new-era-of-azure-ultra-disk-experience-the-next-generation-of-mission-critical-block-storage/) (2025-11-06)
 - [Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows](https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/) (2025-11-05)
 - [Microsoft strengthens sovereign cloud capabilities with new services](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/) (2025-11-05)
 - [Powering Distributed AI/ML at Scale with Azure and Anyscale](https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/) (2025-11-04)
 - [Enhancing software supply chain security with Microsoft’s Signing Transparency](https://azure.microsoft.com/en-us/blog/enhancing-software-supply-chain-security-with-microsofts-signing-transparency/) (2025-11-03)
+- [Resiliency in the cloud—empowered by shared responsibility and Azure Essentials](https://azure.microsoft.com/en-us/blog/resiliency-in-the-cloud-empowered-by-shared-responsibility-and-azure-essentials/) (2025-10-31)
 
 </details>
 
@@ -306,11 +308,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [The Go Ecosystem in 2025: Key Trends in Frameworks, Tools, and Developer Practices](https://blog.jetbrains.com/go/2025/11/10/go-language-trends-ecosystem-2025/) (2025-11-10)
 - [The Rider 2025.3 Release Candidate Is Now Available](https://blog.jetbrains.com/dotnet/2025/11/05/the-rider-2025-3-release-candidate/) (2025-11-05)
 - [The ReSharper, .NET Tools, and ReSharper C++ 2025.3 Release Candidates Are Now Available](https://blog.jetbrains.com/dotnet/2025/11/05/the-resharper-dotnet-tools-2025-3-release-candidate/) (2025-11-05)
 - [dotInsights | November 2025](https://blog.jetbrains.com/dotnet/2025/11/05/dotinsights-november-2025/) (2025-11-05)
 - [Java Annotated Monthly – November 2025](https://blog.jetbrains.com/idea/2025/11/java-annotated-monthly-november-2025/) (2025-11-05)
-- [Growing Kotlin Adoption in Your Company](https://blog.jetbrains.com/kotlin/2025/11/growing-kotlin-adoption-in-your-company-2/) (2025-11-05)
 
 </details>
 
@@ -559,11 +561,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/integrate-fl
 <details>
 <summary>🤖 AI News</summary>
 
+- [10% of Nvidia’s cost: Why Tesla-Intel chip partnership demands attention](https://www.artificialintelligence-news.com/news/tesla-intel-chip-partnership-nvidia-cost/) (2025-11-10)
 - [Microsoft’s next big AI bet: building a ‘humanist superintelligence’](https://www.artificialintelligence-news.com/news/microsoft-next-big-ai-bet-building-a-humanist-superintelligence/) (2025-11-07)
 - [Nvidia AI chip ban: Can tech giants navigate a geopolitical zero-sum game?](https://www.artificialintelligence-news.com/news/nvidia-ai-chip-ban-china-market-share/) (2025-11-07)
 - [Exclusive: Dubai’s Digital Government chief says speed trumps spending in AI efficiency race](https://www.artificialintelligence-news.com/news/dubai-ai-government-efficiency-speed-exclusive/) (2025-11-06)
 - [Is AI in a bubble? Succeed despite a market correction](https://www.artificialintelligence-news.com/news/is-ai-in-a-bubble-succeed-despite-market-correction/) (2025-11-06)
-- [Apple plans big Siri update with help from Google AI](https://www.artificialintelligence-news.com/news/apple-plans-big-siri-update-with-help-from-google-ai/) (2025-11-06)
 
 </details>
 
@@ -581,11 +583,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/integrate-fl
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [AI in Education: Google’s Plan to Fix a Broken System](https://www.analyticsvidhya.com/blog/2025/11/ai-in-education-googles-plan-to-fix-a-broken-system/) (2025-11-10)
+- [7 Crazy Things You Can Do with Canva Creative Operating System](https://www.analyticsvidhya.com/blog/2025/11/canva-creative-operating-system-for-creators/) (2025-11-10)
 - [From Zero to LLMOps Hero: Your 101 Guide to Running LLMs in Production ](https://www.analyticsvidhya.com/blog/2025/11/llms-in-production/) (2025-11-10)
 - [Top 10 AI Video Generators: Make a Cinematic Video in Seconds Using These Tools](https://www.analyticsvidhya.com/blog/2025/11/ai-video-generators/) (2025-11-09)
 - [Guide to Context Engineering](https://www.analyticsvidhya.com/blog/2025/11/guide-to-context-engineering/) (2025-11-08)
-- [Gemini API File Search: The Easy Way to Build RAG](https://www.analyticsvidhya.com/blog/2025/11/gemini-api-file-search/) (2025-11-07)
-- [Crash Course to Crack Machine Learning Interview – Part 2: Linear Regression](https://www.analyticsvidhya.com/blog/2025/11/linear-regression-interview-questions/) (2025-11-07)
 
 </details>
 
@@ -603,11 +605,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/integrate-fl
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Everything You Need to Know About LLM Evaluation Metrics](https://machinelearningmastery.com/everything-you-need-to-know-about-llm-evaluation-metrics/) (2025-11-10)
 - [The 7 Statistical Concepts You Need to Succeed as a Machine Learning Engineer](https://machinelearningmastery.com/the-7-statistical-concepts-you-need-to-succeed-as-a-machine-learning-engineer/) (2025-11-07)
 - [Free AI and Data Courses with 365 Data Science—100% Unlimited Access until Nov 21](https://machinelearningmastery.com/free-ai-and-data-courses-with-365-data-science-100-unlimited-access-until-nov-21/) (2025-11-06)
 - [Essential Chunking Techniques for Building Better LLM Applications](https://machinelearningmastery.com/essential-chunking-techniques-for-building-better-llm-applications/) (2025-11-06)
 - [How to Diagnose Why Your Language Model Fails](https://machinelearningmastery.com/how-to-diagnose-why-your-language-model-fails/) (2025-11-05)
-- [10 Python One-Liners for Calculating Model Feature Importance](https://machinelearningmastery.com/10-python-one-liners-for-calculating-model-feature-importance/) (2025-11-04)
 
 </details>
 
