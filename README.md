@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Two 20-somethings are building America's FPV drone war machine](https://dronexl.co/2025/11/10/teenage-drone-racers-defense-contractors/) (2025-11-11)
-- [Rademacher Complexity and Models of Group Competition](https://www.symmetrybroken.com/group-selection/) (2025-11-11)
-- [What Caused Performance Issues in My Tiny RPG](https://jslegenddev.substack.com/p/what-caused-performance-issues-in) (2025-11-10)
-- [High-performance 2D graphics rendering on the CPU using sparse strips [pdf]](https://github.com/LaurenzV/master-thesis/blob/main/main.pdf) (2025-11-10)
-- [3D Heterogeneous Integration Powers New DARPA Fab](https://spectrum.ieee.org/3d-heterogeneous-integration) (2025-11-10)
+- [AI documentation you can talk to, for every repo](https://deepwiki.com/) (2025-11-11)
+- [Hiring a developer as a small indie studio in 2025](https://www.ballardgames.com/tales/hiring-dev-2025/) (2025-11-11)
+- [The 'Toy Story' You Remember](https://animationobsessive.substack.com/p/the-toy-story-you-remember) (2025-11-11)
+- [I hate screenshots of text](https://parkscomputing.com/page/i-hate-screenshots-of-text) (2025-11-11)
+- [Warren Buffett's final shareholder letter [pdf]](https://berkshirehathaway.com/news/nov1025.pdf) (2025-11-11)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Neutron rocket’s debut slips into mid-2026 as company seeks success from the start](https://arstechnica.com/space/2025/11/neutron-rockets-debut-slips-into-mid-2026-as-company-seeks-success-from-the-start/) (2025-11-11)
 - [Intuitive Machines—known for its Moon landers—will become a military contractor](https://arstechnica.com/space/2025/11/intuitive-machines-known-for-its-moon-landers-will-become-a-military-contractor/) (2025-11-10)
 - [Researchers isolate memorization from reasoning in AI neural networks](https://arstechnica.com/ai/2025/11/study-finds-ai-models-store-memories-and-logic-in-different-neural-regions/) (2025-11-10)
 - [Canada fought measles and measles won; virus now endemic after 1998 elimination](https://arstechnica.com/health/2025/11/canada-fought-measles-and-measles-won-virus-now-endemic-after-1998-elimination/) (2025-11-10)
 - [Apple TV execs dismiss introducing an ad tier, buying Warner Bros. Discovery](https://arstechnica.com/apple/2025/11/apple-has-no-plans-to-bring-ads-to-apple-tv/) (2025-11-10)
-- [New project brings strong Linux compatibility to more classic Windows games](https://arstechnica.com/gaming/2025/11/new-project-brings-strong-linux-compatibility-to-more-classic-windows-games/) (2025-11-10)
 
 </details>
 
@@ -86,35 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [AI code means more critical thinking, not less](https://stackoverflow.blog/2025/11/11/ai-code-means-more-critical-thinking-not-less/) (2025-11-11)
 - [Revealing the unknown unknowns in your software](https://stackoverflow.blog/2025/11/07/revealing-the-unknown-unknowns-in-your-software/) (2025-11-07)
 - [The AI ick](https://stackoverflow.blog/2025/11/05/the-ai-ick/) (2025-11-05)
 - [To write secure code, be less gullible than your AI](https://stackoverflow.blog/2025/11/04/to-write-secure-code-be-less-gullible-than-your-ai/) (2025-11-04)
 - [What’s new at Stack Overflow: November 2025](https://stackoverflow.blog/2025/11/03/what-s-new-at-stack-overflow-november-2025/) (2025-11-03)
-- [Vibe coding needs a spec, too](https://stackoverflow.blog/2025/10/31/vibe-coding-needs-a-spec-too/) (2025-10-31)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How I Built AgriPath: An AI-Powered Farming Platform That Increases Profits by 90% Using Google Cloud Run and ADK](https://dev.to/anil_kumarum/how-i-built-agripath-an-ai-powered-farming-platform-that-increases-profits-by-90-using-google-14k5) (2025-11-11)
-- [Inside Quantum Ball: Building a Playful Oracle with AI Studio + Cloud Run](https://dev.to/akifin_6f85bfd38e12738869/inside-quantum-ball-building-a-playful-oracle-with-ai-studio-cloud-run-5g9l) (2025-11-11)
-- [Building NetGenius Instructor Copilot: A Multi-Agent AI System on Google Cloud Run](https://dev.to/racampos/building-netgenius-instructor-copilot-a-multi-agent-ai-system-on-google-cloud-run-54if) (2025-11-11)
-- [Building Scalable, Fault-Tolerant, and Highly Available Cloud Architectures with AWS Best Practices.](https://dev.to/taiwoakinbolaji/building-scalable-fault-tolerant-and-highly-available-cloud-architectures-with-aws-best-practices-2a5f) (2025-11-11)
-- [Searching Algorithms Part 2: Pattern Matching in Strings with Z, KMP, and Rabin-Karp](https://dev.to/picciniuscodes/searching-algorithms-part-2-pattern-matching-in-strings-with-z-kmp-and-rabin-karp-178d) (2025-11-11)
+- [Enhancing App Security with OTP SMS APIs: A Developer’s Guide](https://dev.to/dbhatasana/enhancing-app-security-with-otp-sms-apis-a-developers-guide-1o4a) (2025-11-11)
+- [Building Trust in AI: Why Content Detection Should Matter to Developers](https://dev.to/dovran/building-trust-in-ai-why-content-detection-should-matter-to-developers-55j) (2025-11-11)
+- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-2iei) (2025-11-11)
+- [Building AI-Powered Projects: My Complete Claude Development Stack](https://dev.to/aldenweaver/building-ai-powered-projects-my-complete-claude-development-stack-4903) (2025-11-11)
+- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-397b) (2025-11-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Flutter Lesson 4 : Functions, Classes, Stateless vs Stateful Widgets](https://medium.com/coding-nexus/flutter-lesson-4-functions-classes-stateless-vs-stateful-widgets-48390ec1d924?source=rss------programming-5) (2025-11-11)
-- [Why Companies Won’t Hire You as a Junior Developer (And What Changed)](https://medium.com/@dannyseo_26499/why-companies-wont-hire-you-as-a-junior-developer-and-what-changed-e73b5715c91d?source=rss------programming-5) (2025-11-11)
-- [3 Best Vanity Stools for Functional and Chic Dressing Areas](https://medium.com/@AmazingShopping.net/3-best-vanity-stools-for-functional-and-chic-dressing-areas-56cc1e73234d?source=rss------programming-5) (2025-11-11)
-- [09335063036شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@ftkkpidgecfd/09335063036%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-9b1a80079255?source=rss------programming-5) (2025-11-11)
-- [09335063036شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@ftkkpidgecfd/09335063036%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-656ba61617fa?source=rss------programming-5) (2025-11-11)
+- [The Python Data Science Stack That Finally Made Me Enjoy Machine Learning](https://python.plainenglish.io/the-python-data-science-stack-that-finally-made-me-enjoy-machine-learning-fbd6886aa7a4?source=rss------programming-5) (2025-11-11)
+- [   Operators C#](https://medium.com/@amant8391/operators-c-7000b32ecb65?source=rss------programming-5) (2025-11-11)
+- [The One useEffect Mistake That Costs Developers Job Offers](https://javascript.plainenglish.io/the-one-useeffect-mistake-that-costs-developers-job-offers-78cc5260c4cd?source=rss------programming-5) (2025-11-11)
+- [Big Tech’s Boldest Bet Yet: Monetizing AI Search Like Never Before](https://medium.com/@premchandak_11/big-techs-boldest-bet-yet-monetizing-ai-search-like-never-before-baff1ace46b9?source=rss------programming-5) (2025-11-11)
+- [Can You Actually Attract Freelance Clients Through GitHub and Ditch Upwork Forever?](https://medium.com/mern-mastery/can-you-actually-attract-freelance-clients-through-github-and-ditch-upwork-forever-fd7168891fa6?source=rss------programming-5) (2025-11-11)
 
 </details>
 
@@ -132,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [The new era of Azure Ultra Disk: Experience the next generation of mission-critical block storage](https://azure.microsoft.com/en-us/blog/the-new-era-of-azure-ultra-disk-experience-the-next-generation-of-mission-critical-block-storage/) (2025-11-06)
 - [Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows](https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/) (2025-11-05)
 - [Microsoft strengthens sovereign cloud capabilities with new services](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/) (2025-11-05)
 - [Powering Distributed AI/ML at Scale with Azure and Anyscale](https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/) (2025-11-04)
 - [Enhancing software supply chain security with Microsoft’s Signing Transparency](https://azure.microsoft.com/en-us/blog/enhancing-software-supply-chain-security-with-microsofts-signing-transparency/) (2025-11-03)
-- [Resiliency in the cloud—empowered by shared responsibility and Azure Essentials](https://azure.microsoft.com/en-us/blog/resiliency-in-the-cloud-empowered-by-shared-responsibility-and-azure-essentials/) (2025-10-31)
 
 </details>
 
