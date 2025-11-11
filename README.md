@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Consolidation begins to hit the carbon credit market](https://techcrunch.com/2025/11/10/consolidation-begins-to-hit-the-carbon-credit-market/) (2025-11-10)
-- [YouTubers aren’t relying on ad revenue anymore — here’s how some are diversifying](https://techcrunch.com/2025/11/10/youtubers-arent-relying-on-ad-revenue-anymore-heres-how-some-are-diversifying/) (2025-11-10)
-- [Google Maps releases new AI tools that let you create interactive projects](https://techcrunch.com/2025/11/10/google-maps-releases-new-ai-tools-to-let-you-create-interactive-projects/) (2025-11-10)
-- [Venmo launches cash back rewards program for debit cards](https://techcrunch.com/2025/11/10/venmo-launches-cash-back-rewards-program-for-debit-cards/) (2025-11-10)
-- [Knicks player Miles McBride launches a location-sharing friendship app to rival Snap Map](https://techcrunch.com/2025/11/10/knicks-player-miles-mcbride-launches-a-location-sharing-friendship-app-to-rival-snap-map/) (2025-11-10)
+- [Lovable says it’s nearing 8 million users as the year-old AI coding startup eyes more corporate employees](https://techcrunch.com/2025/11/10/lovable-says-its-nearing-8-million-users-as-the-year-old-ai-coding-startup-eyes-more-corporate-employees/) (2025-11-10)
+- [The circular money problem at the heart of AI’s biggest deals](https://techcrunch.com/video/the-circular-money-problem-at-the-heart-of-ais-biggest-deals/) (2025-11-10)
+- [VC Jennifer Neundorfer explains how founders can stand out in a crowded AI market](https://techcrunch.com/2025/11/10/vc-jennifer-neundorfer-explains-how-founders-can-stand-out-in-a-crowded-ai-market/) (2025-11-10)
+- [A better way of thinking about the AI bubble ](https://techcrunch.com/2025/11/10/a-better-way-of-thinking-about-the-ai-bubble/) (2025-11-10)
+- [Rad Power Bikes faces shutdown in January without new funding](https://techcrunch.com/2025/11/10/rad-power-bikes-faces-shutdown-in-january-without-new-funding/) (2025-11-10)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Hacker News Headlines (game)](https://projects.peercy.net/projects/hn-oracle/index.html) (2025-11-10)
-- [Canadian military will rely on army of public servants to grow its ranks by 300k](https://ottawacitizen.com/public-service/defence-watch/canadian-military-public-servants) (2025-11-10)
-- [ClickHouse acquires LibreChat, open-source AI chat platform](https://clickhouse.com/blog/librechat-open-source-agentic-data-stack) (2025-11-10)
-- [Benchmarking leading AI agents against Google reCAPTCHA v2](https://research.roundtable.ai/captcha-benchmarking/) (2025-11-10)
-- [Launch HN: Hypercubic (YC F25) – AI for COBOL and Mainframes](https://www.hypercubic.ai/) (2025-11-10)
+- [Two 20-somethings are building America's FPV drone war machine](https://dronexl.co/2025/11/10/teenage-drone-racers-defense-contractors/) (2025-11-11)
+- [Rademacher Complexity and Models of Group Competition](https://www.symmetrybroken.com/group-selection/) (2025-11-11)
+- [What Caused Performance Issues in My Tiny RPG](https://jslegenddev.substack.com/p/what-caused-performance-issues-in) (2025-11-10)
+- [High-performance 2D graphics rendering on the CPU using sparse strips [pdf]](https://github.com/LaurenzV/master-thesis/blob/main/main.pdf) (2025-11-10)
+- [3D Heterogeneous Integration Powers New DARPA Fab](https://spectrum.ieee.org/3d-heterogeneous-integration) (2025-11-10)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Netflix might make its own video podcasts](https://www.theverge.com/news/817675/netflix-exclusive-original-podcasts-rumor) (2025-11-10)
-- [Why I love my OXO kitchen scale](https://www.theverge.com/tech/812853/oxo-kitchen-scale-favorites) (2025-11-10)
-- [Patreon is adding tweet-like features and more recommended content](https://www.theverge.com/news/816723/patreon-features-quips-recommendations-collaborative-posts) (2025-11-10)
-- [iRobot’s revenue has tanked and it’s almost out of cash](https://www.theverge.com/news/817536/irobots-revenue-has-tanked-and-its-almost-out-of-cash) (2025-11-10)
-- [Bose’s latest QuietComfort Ultra earbuds are $50 off ahead of Black Friday](https://www.theverge.com/tech/817575/bose-quietcomfort-ultra-earbuds-blink-video-doorbell-bundle-deal-sale) (2025-11-10)
+- [Siri Shortcuts now works with Samsung SmartThings routines](https://www.theverge.com/news/818054/samsung-smartthings-routines-siri-ios-support) (2025-11-10)
+- [The best early Black Friday deals we’ve found so far on laptops, TVs, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025) (2025-11-10)
+- [Paramount Plus is getting a price hike in early 2026](https://www.theverge.com/news/818019/paramount-plus-price-increase-us-2026) (2025-11-10)
+- [Nintendo&#8217;s upcoming Black Friday sale includes up to $30 off Switch classics](https://www.theverge.com/gadgets/817944/nintendo-switch-2-black-friday-games-amiibo-deal-sale) (2025-11-10)
+- [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera) (2025-11-10)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Intuitive Machines—known for its Moon landers—will become a military contractor](https://arstechnica.com/space/2025/11/intuitive-machines-known-for-its-moon-landers-will-become-a-military-contractor/) (2025-11-10)
+- [Researchers isolate memorization from reasoning in AI neural networks](https://arstechnica.com/ai/2025/11/study-finds-ai-models-store-memories-and-logic-in-different-neural-regions/) (2025-11-10)
+- [Canada fought measles and measles won; virus now endemic after 1998 elimination](https://arstechnica.com/health/2025/11/canada-fought-measles-and-measles-won-virus-now-endemic-after-1998-elimination/) (2025-11-10)
+- [Apple TV execs dismiss introducing an ad tier, buying Warner Bros. Discovery](https://arstechnica.com/apple/2025/11/apple-has-no-plans-to-bring-ads-to-apple-tv/) (2025-11-10)
 - [New project brings strong Linux compatibility to more classic Windows games](https://arstechnica.com/gaming/2025/11/new-project-brings-strong-linux-compatibility-to-more-classic-windows-games/) (2025-11-10)
-- [Runaway black hole mergers may have built supermassive black holes](https://arstechnica.com/science/2025/11/runaway-black-hole-mergers-may-have-built-supermassive-black-holes/) (2025-11-10)
-- [The Running Man’s final trailer amps up the high-octane action](https://arstechnica.com/culture/2025/11/the-running-mans-final-trailer-amps-up-the-high-octane-action/) (2025-11-10)
-- [F1 in Brazil: That’s what generational talent looks like](https://arstechnica.com/cars/2025/11/f1-in-brazil-thats-what-generational-talent-looks-like/) (2025-11-10)
-- [NASA is kind of a mess: Here are the top priorities for a new administrator](https://arstechnica.com/space/2025/11/nasa-is-kind-of-a-mess-here-are-the-top-priorities-for-a-new-administrator/) (2025-11-10)
 
 </details>
 
@@ -97,44 +97,46 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Effective Prompting for Generative Vision Models](https://dev.to/pruna-ai/effective-prompting-for-generative-vision-models-1bpc) (2025-11-10)
-- [You Can't Unbake a Cake (or Why Data Isolation in the Age of AI is BASICALLY Impossible)](https://dev.to/aronchick/you-cant-unbake-a-cake-or-why-data-isolation-in-the-age-of-ai-is-basically-impossible-4jmg) (2025-11-10)
-- [Building a Producer–Consumer Pipeline in Go Using Goroutines and Channels](https://dev.to/lovestaco/building-a-producer-consumer-pipeline-in-go-using-goroutines-and-channels-5fdf) (2025-11-10)
-- [The 9 Best Web Hosting Deals for 2025: Black Friday Discounts Are Live](https://dev.to/sanu_kumar_377c4dc19b88a1/the-9-best-web-hosting-deals-for-2025-black-friday-discounts-are-live-188f) (2025-11-10)
-- [My Learnings from Day 1a & 1b of the Google AI Agents Intensive](https://dev.to/pavansai_ponguluri_aef522/my-learnings-from-day-1a-1b-of-the-google-ai-agents-intensive-57hf) (2025-11-10)
+- [How I Built AgriPath: An AI-Powered Farming Platform That Increases Profits by 90% Using Google Cloud Run and ADK](https://dev.to/anil_kumarum/how-i-built-agripath-an-ai-powered-farming-platform-that-increases-profits-by-90-using-google-14k5) (2025-11-11)
+- [Inside Quantum Ball: Building a Playful Oracle with AI Studio + Cloud Run](https://dev.to/akifin_6f85bfd38e12738869/inside-quantum-ball-building-a-playful-oracle-with-ai-studio-cloud-run-5g9l) (2025-11-11)
+- [Building NetGenius Instructor Copilot: A Multi-Agent AI System on Google Cloud Run](https://dev.to/racampos/building-netgenius-instructor-copilot-a-multi-agent-ai-system-on-google-cloud-run-54if) (2025-11-11)
+- [Building Scalable, Fault-Tolerant, and Highly Available Cloud Architectures with AWS Best Practices.](https://dev.to/taiwoakinbolaji/building-scalable-fault-tolerant-and-highly-available-cloud-architectures-with-aws-best-practices-2a5f) (2025-11-11)
+- [Searching Algorithms Part 2: Pattern Matching in Strings with Z, KMP, and Rabin-Karp](https://dev.to/picciniuscodes/searching-algorithms-part-2-pattern-matching-in-strings-with-z-kmp-and-rabin-karp-178d) (2025-11-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Python Script That Saves Me 20 Hours Every Week — Without Touching My Keyboard](https://medium.com/@SulemanSafdar/the-python-script-that-saves-me-20-hours-every-week-without-touching-my-keyboard-b4b46f5d91d5?source=rss------programming-5) (2025-11-10)
-- [How to Get Started with Cursor AI — What It Is, Benefits & Copilot Comparison](https://eraoftech.medium.com/how-to-get-started-with-cursor-ai-what-it-is-benefits-copilot-comparison-d6401f4a0af1?source=rss------programming-5) (2025-11-10)
-- [3 Best Slouch Socks for Ultimate Comfort and Style](https://medium.com/@AmazingShopping.net/3-best-slouch-socks-for-ultimate-comfort-and-style-2edeeb77d013?source=rss------programming-5) (2025-11-10)
-- [How to Find Duplicates in a Collection (Multiple Ways) — With Benchmarks in .NET 9](https://medium.com/@mariammaurice/how-to-find-duplicates-in-a-collection-multiple-ways-with-benchmarks-in-net-9-5ecb906b983b?source=rss------programming-5) (2025-11-10)
-- [Introduction to Python](https://medium.com/@ekansh.jain2011/introduction-to-python-0c8fd6396a41?source=rss------programming-5) (2025-11-10)
+- [Flutter Lesson 4 : Functions, Classes, Stateless vs Stateful Widgets](https://medium.com/coding-nexus/flutter-lesson-4-functions-classes-stateless-vs-stateful-widgets-48390ec1d924?source=rss------programming-5) (2025-11-11)
+- [Why Companies Won’t Hire You as a Junior Developer (And What Changed)](https://medium.com/@dannyseo_26499/why-companies-wont-hire-you-as-a-junior-developer-and-what-changed-e73b5715c91d?source=rss------programming-5) (2025-11-11)
+- [3 Best Vanity Stools for Functional and Chic Dressing Areas](https://medium.com/@AmazingShopping.net/3-best-vanity-stools-for-functional-and-chic-dressing-areas-56cc1e73234d?source=rss------programming-5) (2025-11-11)
+- [09335063036شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@ftkkpidgecfd/09335063036%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-9b1a80079255?source=rss------programming-5) (2025-11-11)
+- [09335063036شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@ftkkpidgecfd/09335063036%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-656ba61617fa?source=rss------programming-5) (2025-11-11)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Secure EKS clusters with the new support for Amazon EKS in AWS Backup](https://aws.amazon.com/blogs/aws/secure-eks-clusters-with-the-new-support-for-amazon-eks-in-aws-backup/) (2025-11-10)
 - [AWS Weekly Roundup: Amazon S3, Amazon EC2, and more (November 10, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-s3-amazon-ec2-and-more-november-10-2025/) (2025-11-10)
 - [Introducing AWS Capabilities by Region for easier Regional planning and faster global deployments](https://aws.amazon.com/blogs/aws/introducing-aws-capabilities-by-region-for-easier-regional-planning-and-faster-global-deployments/) (2025-11-06)
 - [AWS Weekly Roundup: Project Rainier online, Amazon Nova, Amazon Bedrock, and more (November 3, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-project-rainier-online-amazon-nova-amazon-bedrock-and-more-november-3-2025/) (2025-11-03)
 - [Build more accurate AI applications with Amazon Nova Web Grounding](https://aws.amazon.com/blogs/aws/build-more-accurate-ai-applications-with-amazon-nova-web-grounding/) (2025-10-28)
-- [Amazon Nova Multimodal Embeddings: State-of-the-art embedding model for agentic RAG and semantic search](https://aws.amazon.com/blogs/aws/amazon-nova-multimodal-embeddings-now-available-in-amazon-bedrock/) (2025-10-28)
 
 </details>
 
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Fully managed cloud-to-cloud transfers with Azure Storage Mover](https://azure.microsoft.com/en-us/blog/fully-managed-cloud-to-cloud-transfers-with-azure-storage-mover/) (2025-10-23)
-- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2025-10-22)
-- [The Signals Loop: Fine-tuning for world-class AI apps and agents ](https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/) (2025-10-21)
-- [Innovation spotlight: How 3 customers are driving change with migration to Azure SQL](https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/) (2025-10-20)
-- [From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available](https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/) (2025-10-16)
+- [Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows](https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/) (2025-11-05)
+- [Microsoft strengthens sovereign cloud capabilities with new services](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/) (2025-11-05)
+- [Powering Distributed AI/ML at Scale with Azure and Anyscale](https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/) (2025-11-04)
+- [Enhancing software supply chain security with Microsoft’s Signing Transparency](https://azure.microsoft.com/en-us/blog/enhancing-software-supply-chain-security-with-microsofts-signing-transparency/) (2025-11-03)
+- [Resiliency in the cloud—empowered by shared responsibility and Azure Essentials](https://azure.microsoft.com/en-us/blog/resiliency-in-the-cloud-empowered-by-shared-responsibility-and-azure-essentials/) (2025-10-31)
 
 </details>
 
@@ -163,11 +165,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Raising the bar on battery performance: excessive partial wake locks metric is now out of beta](https://android-developers.googleblog.com/2025/11/raising-bar-on-battery-performance.html) (2025-11-10)
 - [#WeArePlay: Meet the people making apps & games to improve your health](https://android-developers.googleblog.com/2025/11/weareplay-meet-people-making-apps-games.html) (2025-11-06)
 - [Health Connect Jetpack v1.1.0 is now available!](https://android-developers.googleblog.com/2025/11/health-connect-jetpack-v110-is-now.html) (2025-11-03)
 - [ML Kit’s Prompt API: Unlock Custom On-Device Gemini Nano Experiences](https://android-developers.googleblog.com/2025/10/ml-kit-genai-prompt-api-alpha-release.html) (2025-10-30)
 - [Kakao Mobility uses Gemini Nano on-device to reduce costs and boost call conversion by 45%](https://android-developers.googleblog.com/2025/10/kakao-mobility-uses-gemini-nano-on.html) (2025-10-30)
-- [redBus uses Gemini Flash via Firebase AI Logic to boost the length of customer reviews by 57%](https://android-developers.googleblog.com/2025/10/redbus-gains-57-deeper-insights-into.html) (2025-10-30)
 
 </details>
 
@@ -295,11 +297,11 @@
 <details>
 <summary>📌 Pinterest Engineering</summary>
 
+- [Slashing CI Wait Times: How Pinterest Cut Android Testing Build Times by 36%+](https://medium.com/pinterest-engineering/slashing-ci-wait-times-how-pinterest-cut-android-testing-build-times-by-36-feb6ff121d91?source=rss-ef81ef829bcb------2) (2025-11-10)
 - [A Decade of AI Platform at Pinterest](https://medium.com/pinterest-engineering/a-decade-of-ai-platform-at-pinterest-4e3b37c0f758?source=rss-ef81ef829bcb------2) (2025-11-04)
 - [Identify User Journeys at Pinterest](https://medium.com/pinterest-engineering/identify-user-journeys-at-pinterest-b517f6275b42?source=rss-ef81ef829bcb------2) (2025-10-21)
 - [Tracking Down Mysterious ML Training Stalls](https://medium.com/@Pinterest_Engineering/tracking-down-mysterious-ml-training-stalls-5290bb19be6d?source=rss-ef81ef829bcb------2) (2025-10-17)
 - [Next Gen Data Processing at Massive Scale At Pinterest With Moka (Part 2 of 2)](https://medium.com/pinterest-engineering/next-gen-data-processing-at-massive-scale-at-pinterest-with-moka-part-2-of-2-d0210ded34e0?source=rss-ef81ef829bcb------2) (2025-09-10)
-- [Developer Experience at Pinterest: The Journey to PinConsole](https://medium.com/pinterest-engineering/developer-experience-at-pinterest-the-journey-to-pinconsole-b34ac9e3bdd9?source=rss-ef81ef829bcb------2) (2025-08-22)
 
 </details>
 
@@ -328,11 +330,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [Secure AI agent deployment to GKE](https://about.gitlab.com/blog/secure-ai-agent-deployment-to-gke/) (2025-11-10)
 - [Migrate from pipeline variables to pipeline inputs for better security](https://about.gitlab.com/blog/migrate-from-pipeline-variables-to-pipeline-inputs-for-better-security/) (2025-11-04)
 - [Claude Sonnet 3.7 deprecation notice for GitLab Duo](https://about.gitlab.com/blog/claude-sonnet-3-7-deprecation-notice-for-gitlab-duo/) (2025-10-31)
 - [Ace your planning without the context-switching](https://about.gitlab.com/blog/ace-your-planning-without-the-context-switching/) (2025-10-28)
 - [Modernize Java applications quickly with GitLab Duo with Amazon Q](https://about.gitlab.com/blog/modernize-java-applications-quickly-with-gitlab-duo-with-amazon-q/) (2025-10-22)
-- [Delivering faster and smarter scans with Advanced SAST](https://about.gitlab.com/blog/delivering-faster-and-smarter-scans-with-advanced-sast/) (2025-10-21)
 
 </details>
 
@@ -494,7 +496,7 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/integrate-fl
 
 - [Seven Benefits of Employee Engagement and Why It’s Important](https://slack.com/blog/collaboration/seven-benefits-of-employee-engagement-and-why-its-important) (2025-11-03)
 - [Nine Ways to Boost Team Productivity](https://slack.com/blog/productivity/team-productivity) (2025-11-03)
-- [Expanding Global Data Residency: Switzerland, UAE, and Brazil Now Available](https://slack.com/blog/news/introducing-data-residency-for-slack) (2025-11-03)
+- [Expanding Global Data Residency: Switzerland, UAE, and Brazil Now Available](https://slack.com/blog/news/introducing-data-residency-for-slack) (2025-11-10)
 - [Does Your AI have Blind Spots? The Hidden Risk of Disconnected Business Tools](https://slack.com/blog/transformation/how-slack-differs-from-teams) (2025-11-03)
 - [Microsoft Unbundled Teams: It’s Your Chance to Reimagine Work](https://slack.com/blog/transformation/teams-unbundling-microsoft-integration) (2025-11-03)
 
@@ -558,11 +560,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/integrate-fl
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Make Python Up to 150× Faster with C](https://towardsdatascience.com/make-python-up-to-150x-faster-with-c/) (2025-11-10)
+- [Why Storytelling With Data Matters for Business and Data Analysts](https://towardsdatascience.com/why-storytelling-with-data-matters-for-business-and-data-analysts/) (2025-11-10)
+- [Does More Data Always Yield Better Performance?](https://towardsdatascience.com/does-more-data-always-yield-better-performance/) (2025-11-10)
 - [Data Culture Is the Symptom, Not the Solution](https://towardsdatascience.com/data-culture-is-the-symptom-not-the-solution/) (2025-11-10)
 - [LLM-Powered Time-Series Analysis](https://towardsdatascience.com/llm-powered-time-series-analysis/) (2025-11-09)
-- [How to Build Your Own Agentic AI System Using CrewAI](https://towardsdatascience.com/how-to-build-your-own-agentic-ai-system-using-crewai/) (2025-11-09)
-- [Power Analysis in Marketing: A Hands-On Introduction](https://towardsdatascience.com/power-analysis-in-marketing/) (2025-11-08)
-- [Evaluating Synthetic Data — The Million Dollar Question](https://towardsdatascience.com/evaluating-synthetic-data-the-million-dollar-question-a54701d1b621/) (2025-11-07)
 
 </details>
 
@@ -573,7 +575,7 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/integrate-fl
 - [7 Crazy Things You Can Do with Canva Creative Operating System](https://www.analyticsvidhya.com/blog/2025/11/canva-creative-operating-system-for-creators/) (2025-11-10)
 - [From Zero to LLMOps Hero: Your 101 Guide to Running LLMs in Production ](https://www.analyticsvidhya.com/blog/2025/11/llms-in-production/) (2025-11-10)
 - [Top 10 AI Video Generators: Make a Cinematic Video in Seconds Using These Tools](https://www.analyticsvidhya.com/blog/2025/11/ai-video-generators/) (2025-11-09)
-- [Guide to Context Engineering](https://www.analyticsvidhya.com/blog/2025/11/guide-to-context-engineering/) (2025-11-08)
+- [6 Components of Context Engineering and How They Work](https://www.analyticsvidhya.com/blog/2025/11/guide-to-context-engineering/) (2025-11-08)
 
 </details>
 
