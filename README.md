@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [AI documentation you can talk to, for every repo](https://deepwiki.com/) (2025-11-11)
-- [Hiring a developer as a small indie studio in 2025](https://www.ballardgames.com/tales/hiring-dev-2025/) (2025-11-11)
-- [The 'Toy Story' You Remember](https://animationobsessive.substack.com/p/the-toy-story-you-remember) (2025-11-11)
-- [I hate screenshots of text](https://parkscomputing.com/page/i-hate-screenshots-of-text) (2025-11-11)
-- [Warren Buffett's final shareholder letter [pdf]](https://berkshirehathaway.com/news/nov1025.pdf) (2025-11-11)
+- [Hazel (YC W24) Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/hazel-2/jobs/fCdGOZw-full-stack-engineer) (2025-11-11)
+- [Stop overhyping AI, scientists tell von der Leyen](https://www.euractiv.com/news/stop-overhyping-ai-scientists-tell-von-der-leyen/) (2025-11-11)
+- [Advent of Code on the Z-Machine](https://entropicthoughts.com/advent-of-code-on-z-machine) (2025-11-11)
+- [OpenAI may not use lyrics without license, German court rules](https://www.reuters.com/world/german-court-sides-with-plaintiff-copyright-case-against-openai-2025-11-11/) (2025-11-11)
+- [Why Effort Scales Superlinearly with the Perceived Quality of Creative Work](https://markusstrasser.org/creative-work-landscapes.html) (2025-11-11)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Apple made a $230 crossbody… sock](https://www.theverge.com/news/818328/apple-iphone-pocket-crossbody-knitted-sock-bag) (2025-11-11)
 - [Siri Shortcuts now works with Samsung SmartThings routines](https://www.theverge.com/news/818054/samsung-smartthings-routines-siri-ios-support) (2025-11-10)
 - [The best early Black Friday deals we’ve found so far on laptops, TVs, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025) (2025-11-10)
 - [Paramount Plus is getting a price hike in early 2026](https://www.theverge.com/news/818019/paramount-plus-price-increase-us-2026) (2025-11-10)
 - [Nintendo&#8217;s upcoming Black Friday sale includes up to $30 off Switch classics](https://www.theverge.com/gadgets/817944/nintendo-switch-2-black-friday-games-amiibo-deal-sale) (2025-11-10)
-- [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera) (2025-11-10)
 
 </details>
 
@@ -86,33 +86,36 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [2025.8 release introduces Stack Overflow Internal: The next generation of enterprise knowledge intelligence](https://stackoverflow.blog/2025/11/12/2025-8-release-introduces-stack-overflow-internal-the-next-generation-of-enterprise-knowledge-intelligence/) (2025-11-12)
 - [AI code means more critical thinking, not less](https://stackoverflow.blog/2025/11/11/ai-code-means-more-critical-thinking-not-less/) (2025-11-11)
 - [Revealing the unknown unknowns in your software](https://stackoverflow.blog/2025/11/07/revealing-the-unknown-unknowns-in-your-software/) (2025-11-07)
 - [The AI ick](https://stackoverflow.blog/2025/11/05/the-ai-ick/) (2025-11-05)
 - [To write secure code, be less gullible than your AI](https://stackoverflow.blog/2025/11/04/to-write-secure-code-be-less-gullible-than-your-ai/) (2025-11-04)
-- [What’s new at Stack Overflow: November 2025](https://stackoverflow.blog/2025/11/03/what-s-new-at-stack-overflow-november-2025/) (2025-11-03)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Enhancing App Security with OTP SMS APIs: A Developer’s Guide](https://dev.to/dbhatasana/enhancing-app-security-with-otp-sms-apis-a-developers-guide-1o4a) (2025-11-11)
-- [Building Trust in AI: Why Content Detection Should Matter to Developers](https://dev.to/dovran/building-trust-in-ai-why-content-detection-should-matter-to-developers-55j) (2025-11-11)
-- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-2iei) (2025-11-11)
-- [Building AI-Powered Projects: My Complete Claude Development Stack](https://dev.to/aldenweaver/building-ai-powered-projects-my-complete-claude-development-stack-4903) (2025-11-11)
-- [Jeff Su: 4 ChatGPT Hacks that Cut My Workload in Half](https://dev.to/future_ai/jeff-su-4-chatgpt-hacks-that-cut-my-workload-in-half-397b) (2025-11-11)
+- [Next.js 16: What's New? Turbopack, React Compiler & Key Features](https://dev.to/vrushikvisavadiya/nextjs-16-whats-new-turbopack-react-compiler-key-features-kj4) (2025-11-11)
+- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-1d70) (2025-11-11)
+- [Keycloak, WebSockets & Symfony: Solving Real-Time Auth Without Sacrificing Performance](https://dev.to/mattleads/keycloak-websockets-symfony-solving-real-time-auth-without-sacrificing-performance-2ahm) (2025-11-11)
+- [So true!](https://dev.to/agunechemba/so-true-gkf) (2025-11-11)
+- [Rebuilding Grep in Go: What I Learned About Unix Text Processing](https://dev.to/uthman_dev/rebuilding-grep-in-go-what-i-learned-about-unix-text-processing-1oc) (2025-11-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Python Data Science Stack That Finally Made Me Enjoy Machine Learning](https://python.plainenglish.io/the-python-data-science-stack-that-finally-made-me-enjoy-machine-learning-fbd6886aa7a4?source=rss------programming-5) (2025-11-11)
-- [   Operators C#](https://medium.com/@amant8391/operators-c-7000b32ecb65?source=rss------programming-5) (2025-11-11)
-- [The One useEffect Mistake That Costs Developers Job Offers](https://javascript.plainenglish.io/the-one-useeffect-mistake-that-costs-developers-job-offers-78cc5260c4cd?source=rss------programming-5) (2025-11-11)
-- [Big Tech’s Boldest Bet Yet: Monetizing AI Search Like Never Before](https://medium.com/@premchandak_11/big-techs-boldest-bet-yet-monetizing-ai-search-like-never-before-baff1ace46b9?source=rss------programming-5) (2025-11-11)
-- [Can You Actually Attract Freelance Clients Through GitHub and Ditch Upwork Forever?](https://medium.com/mern-mastery/can-you-actually-attract-freelance-clients-through-github-and-ditch-upwork-forever-fd7168891fa6?source=rss------programming-5) (2025-11-11)
+- [Design Patterns: What are they and why do they matter?](https://blog.stackademic.com/design-patterns-what-are-they-and-why-do-they-matter-896e2104fc5a?source=rss------programming-5) (2025-11-11)
+- [09027641209شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@xljgddjdjfjjccj/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-f1c20b9180e3?source=rss------programming-5) (2025-11-11)
+- [09027641209شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@xljgddjdjfjjccj/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-544fd666c35c?source=rss------programming-5) (2025-11-11)
+- [09027641209شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@xljgddjdjfjjccj/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-78023f1d76bb?source=rss------programming-5) (2025-11-11)
+- [The 10 “Invisible” Habits of Exceptional Developers](https://medium.com/@numannadeem/the-10-invisible-habits-of-exceptional-developers-9cf545a322a9?source=rss------programming-5) (2025-11-11)
 
 </details>
 
@@ -306,11 +309,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Building AI Agents in Kotlin – Part 1: A Minimal Coding Agent ](https://blog.jetbrains.com/ai/2025/11/building-ai-agents-in-kotlin-part-1-a-minimal-coding-agent/) (2025-11-11)
+- [JetBrains and DMCC AI Centre Announce Strategic Partnership to Accelerate AI Innovation](https://blog.jetbrains.com/blog/2025/11/11/jetbrains-and-dmcc-ai-centre-announce-strategic-partnership-to-accelerate-ai-innovation/) (2025-11-11)
 - [Rust vs. Python: Finding the right balance between speed and simplicity](https://blog.jetbrains.com/rust/2025/11/10/rust-vs-python-finding-the-right-balance-between-speed-and-simplicity/) (2025-11-10)
 - [The Go Ecosystem in 2025: Key Trends in Frameworks, Tools, and Developer Practices](https://blog.jetbrains.com/go/2025/11/10/go-language-trends-ecosystem-2025/) (2025-11-10)
 - [The Rider 2025.3 Release Candidate Is Now Available](https://blog.jetbrains.com/dotnet/2025/11/05/the-rider-2025-3-release-candidate/) (2025-11-05)
-- [The ReSharper, .NET Tools, and ReSharper C++ 2025.3 Release Candidates Are Now Available](https://blog.jetbrains.com/dotnet/2025/11/05/the-resharper-dotnet-tools-2025-3-release-candidate/) (2025-11-05)
-- [dotInsights | November 2025](https://blog.jetbrains.com/dotnet/2025/11/05/dotinsights-november-2025/) (2025-11-05)
 
 </details>
 
@@ -344,6 +347,17 @@
 - [Learn How to Lower Heroku Dyno Latency through Persistent Connections (Keep-alive)](https://www.heroku.com/blog/learn-how-to-lower-heroku-dyno-latency-keep-alive/) (2025-11-04)
 - [Heroku Connect: Faster, More Reliable Data Sync with Salesforce CDC](https://www.heroku.com/blog/heroku-connect-data-sync-with-salesforce-cdc/) (2025-10-30)
 - [Heroku Introduces New Innovations to Expand the Capabilities of Every Salesforce Org](https://www.heroku.com/blog/new-innovations-expand-capabilities-every-salesforce-org/) (2025-10-14)
+
+</details>
+
+<details>
+<summary>🔶 Cloudflare Blog</summary>
+
+- [A closer look at Python Workflows, now in beta](https://blog.cloudflare.com/python-workflows/) (2025-11-10)
+- [DIY BYOIP: a new way to Bring Your Own IP prefixes to Cloudflare](https://blog.cloudflare.com/diy-byoip/) (2025-11-07)
+- [Async QUIC and HTTP/3 made easy: tokio-quiche is now open-source](https://blog.cloudflare.com/async-quic-and-http-3-made-easy-tokio-quiche-is-now-open-source/) (2025-11-06)
+- [Extract audio from your videos with Cloudflare Stream](https://blog.cloudflare.com/extract-audio-from-your-videos-with-cloudflare-stream/) (2025-11-06)
+- [How Workers VPC Services connects to your regional private networks from anywhere in the world](https://blog.cloudflare.com/workers-vpc-open-beta/) (2025-11-05)
 
 </details>
 
@@ -492,9 +506,9 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/integrate-fl
 <details>
 <summary>💬 Slack API</summary>
 
+- [Expanding Global Data Residency: Switzerland, UAE, and Brazil Now Available](https://slack.com/blog/news/introducing-data-residency-for-slack) (2025-11-10)
 - [Seven Benefits of Employee Engagement and Why It’s Important](https://slack.com/blog/collaboration/seven-benefits-of-employee-engagement-and-why-its-important) (2025-11-03)
 - [Nine Ways to Boost Team Productivity](https://slack.com/blog/productivity/team-productivity) (2025-11-03)
-- [Expanding Global Data Residency: Switzerland, UAE, and Brazil Now Available](https://slack.com/blog/news/introducing-data-residency-for-slack) (2025-11-10)
 - [Does Your AI have Blind Spots? The Hidden Risk of Disconnected Business Tools](https://slack.com/blog/transformation/how-slack-differs-from-teams) (2025-11-03)
 - [Microsoft Unbundled Teams: It’s Your Chance to Reimagine Work](https://slack.com/blog/transformation/teams-unbundling-microsoft-integration) (2025-11-03)
 
@@ -547,33 +561,33 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/integrate-fl
 <details>
 <summary>🤖 AI News</summary>
 
+- [Chinese AI startup Moonshot outperforms GPT-5 and Claude Sonnet 4.5: What you need to know](https://www.artificialintelligence-news.com/news/moonshot-ai-gpt-5-claude-comparison-china-breakthrough/) (2025-11-11)
 - [10% of Nvidia’s cost: Why Tesla-Intel chip partnership demands attention](https://www.artificialintelligence-news.com/news/tesla-intel-chip-partnership-nvidia-cost/) (2025-11-10)
 - [Microsoft’s next big AI bet: building a ‘humanist superintelligence’](https://www.artificialintelligence-news.com/news/microsoft-next-big-ai-bet-building-a-humanist-superintelligence/) (2025-11-07)
 - [Nvidia AI chip ban: Can tech giants navigate a geopolitical zero-sum game?](https://www.artificialintelligence-news.com/news/nvidia-ai-chip-ban-china-market-share/) (2025-11-07)
 - [Exclusive: Dubai’s Digital Government chief says speed trumps spending in AI efficiency race](https://www.artificialintelligence-news.com/news/dubai-ai-government-efficiency-speed-exclusive/) (2025-11-06)
-- [Is AI in a bubble? Succeed despite a market correction](https://www.artificialintelligence-news.com/news/is-ai-in-a-bubble-succeed-despite-market-correction/) (2025-11-06)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [AI Hype: Don’t Overestimate the Impact of AI](https://towardsdatascience.com/the-ai-hype-dont-overestimate-the-impact-of-ai/) (2025-11-11)
 - [Make Python Up to 150× Faster with C](https://towardsdatascience.com/make-python-up-to-150x-faster-with-c/) (2025-11-10)
 - [Why Storytelling With Data Matters for Business and Data Analysts](https://towardsdatascience.com/why-storytelling-with-data-matters-for-business-and-data-analysts/) (2025-11-10)
 - [Does More Data Always Yield Better Performance?](https://towardsdatascience.com/does-more-data-always-yield-better-performance/) (2025-11-10)
 - [Data Culture Is the Symptom, Not the Solution](https://towardsdatascience.com/data-culture-is-the-symptom-not-the-solution/) (2025-11-10)
-- [LLM-Powered Time-Series Analysis](https://towardsdatascience.com/llm-powered-time-series-analysis/) (2025-11-09)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [DeepSeek OCR vs Qwen-3 VL vs Mistral OCR: Which is the Best?](https://www.analyticsvidhya.com/blog/2025/11/deepseek-ocr-vs-qwen-3-vl-vs-mistral-ocr/) (2025-11-11)
+- [Order Food From Your Terminal with Zomato MCP](https://www.analyticsvidhya.com/blog/2025/11/zomato-mcp-server/) (2025-11-11)
 - [AI in Education: Google’s Plan to Fix a Broken System](https://www.analyticsvidhya.com/blog/2025/11/ai-in-education-googles-plan-to-fix-a-broken-system/) (2025-11-10)
 - [7 Crazy Things You Can Do with Canva Creative Operating System](https://www.analyticsvidhya.com/blog/2025/11/canva-creative-operating-system-for-creators/) (2025-11-10)
 - [From Zero to LLMOps Hero: Your 101 Guide to Running LLMs in Production ](https://www.analyticsvidhya.com/blog/2025/11/llms-in-production/) (2025-11-10)
-- [Top 10 AI Video Generators: Make a Cinematic Video in Seconds Using These Tools](https://www.analyticsvidhya.com/blog/2025/11/ai-video-generators/) (2025-11-09)
-- [6 Components of Context Engineering and How They Work](https://www.analyticsvidhya.com/blog/2025/11/guide-to-context-engineering/) (2025-11-08)
 
 </details>
 
@@ -591,11 +605,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/integrate-fl
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Expert-Level Feature Engineering: Advanced Techniques for High-Stakes Models](https://machinelearningmastery.com/expert-level-feature-engineering-advanced-techniques-for-high-stakes-models/) (2025-11-11)
 - [Everything You Need to Know About LLM Evaluation Metrics](https://machinelearningmastery.com/everything-you-need-to-know-about-llm-evaluation-metrics/) (2025-11-10)
 - [The 7 Statistical Concepts You Need to Succeed as a Machine Learning Engineer](https://machinelearningmastery.com/the-7-statistical-concepts-you-need-to-succeed-as-a-machine-learning-engineer/) (2025-11-07)
 - [Free AI and Data Courses with 365 Data Science—100% Unlimited Access until Nov 21](https://machinelearningmastery.com/free-ai-and-data-courses-with-365-data-science-100-unlimited-access-until-nov-21/) (2025-11-06)
 - [Essential Chunking Techniques for Building Better LLM Applications](https://machinelearningmastery.com/essential-chunking-techniques-for-building-better-llm-applications/) (2025-11-06)
-- [How to Diagnose Why Your Language Model Fails](https://machinelearningmastery.com/how-to-diagnose-why-your-language-model-fails/) (2025-11-05)
 
 </details>
 
