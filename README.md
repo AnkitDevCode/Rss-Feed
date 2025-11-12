@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [SoftBank’s Nvidia sale rattles market, raises questions](https://techcrunch.com/2025/11/11/softbanks-nvidia-sale-rattles-market-raises-questions/) (2025-11-11)
+- [Google Pixel update adds battery-saving maps mode, AI photo remixing, and smarter notifications](https://techcrunch.com/2025/11/11/google-pixel-update-adds-battery-saving-maps-mode-ai-photo-remixing-and-smarter-notifications/) (2025-11-11)
 - [Threads targets podcasters with new features, aiming to become the home for show discussions](https://techcrunch.com/2025/11/11/threads-targets-podcasters-with-new-features-aiming-to-become-the-place-fans-discuss-shows/) (2025-11-11)
-- [Immortality startup Eternos pivots to a personal AI that sounds like you](https://techcrunch.com/2025/11/11/immortality-startup-eternos-pivots-to-a-personal-ai-that-sounds-like-you/) (2025-11-11)
+- [Immortality startup Eternos nabs $10.3M, pivots to personal AI that sounds like you](https://techcrunch.com/2025/11/11/immortality-startup-eternos-pivots-to-a-personal-ai-that-sounds-like-you/) (2025-11-11)
 - [How AI startups should be thinking about product-market fit](https://techcrunch.com/2025/11/11/how-ai-startups-should-be-thinking-about-product-market-fit/) (2025-11-11)
-- [Google Photos adds new AI features for editing, expands AI-powered search to over 100 countries](https://techcrunch.com/2025/11/11/google-photos-adds-new-ai-features-for-editing-expands-ai-powered-search-to-over-100-countries/) (2025-11-11)
-- [Wonderful raised $100M Series A to put AI agents on the front lines of customer service](https://techcrunch.com/2025/11/11/wonderful-raised-100m-series-a-to-put-ai-agents-on-the-front-lines-of-customer-service/) (2025-11-11)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Contributing to Open-Source Should Be Required, Like Jury Duty](https://www.joshbeckman.org/blog/practicing/contributing-to-opensource-should-be-required-like-jury-duty) (2025-11-11)
-- [We ran over 600 image generations to compare AI image models](https://latenitesoft.com/blog/evaluating-frontier-ai-image-generation-models/) (2025-11-11)
-- [Cache-Friendly, Low-Memory Lanczos Algorithm in Rust](https://lukefleed.xyz/posts/cache-friendly-low-memory-lanczos/) (2025-11-11)
-- [Show HN: Cactoide – Federated RSVP Platform](https://cactoide.org/) (2025-11-11)
-- [Weave (YC W25) is hiring a founding ML engineer](https://www.ycombinator.com/companies/weave-3/jobs/ZPyeXzM-founding-ml-engineer) (2025-11-11)
+- [Why Nietzsche Matters in the Age of Artificial Intelligence](https://cacm.acm.org/blogcacm/why-nietzsche-matters-in-the-age-of-artificial-intelligence/) (2025-11-11)
+- [I can build enterprise software but I can't charge for it](https://gist.github.com/EchenD/8b211ebfa4941d2c5df7b526790b31aa) (2025-11-11)
+- [.NET MAUI Is Coming to Linux and the Browser, Powered by Avalonia](https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia) (2025-11-11)
+- [Four strange places to see London's Roman Wall](https://diamondgeezer.blogspot.com/2025/11/odd-places-to-see-londons-roman-wall.html) (2025-11-11)
+- [Heroku Support for .NET 10](https://www.heroku.com/blog/support-for-dotnet-10-lts-what-developers-need-know/) (2025-11-11)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Disney is losing over $4 million a day in revenue on the YouTube TV blackout](https://www.theverge.com/news/818542/disney-youtube-tv-blackout-cost) (2025-11-11)
+- [Pixel phones are getting notification summaries](https://www.theverge.com/tech/817644/pixel-update-notification-summaries-image-remix-messages) (2025-11-11)
+- [Google is introducing its own version of Apple’s private AI cloud compute](https://www.theverge.com/news/818364/google-private-ai-compute) (2025-11-11)
 - [AI chatbots are helping hide eating disorders and making deepfake ‘thinspiration’ ](https://www.theverge.com/news/818508/chatbot-eating-disorder-mental-health) (2025-11-11)
 - [Amazon’s like-new Kindle Paperwhite Signature Edition is on sale for just $127](https://www.theverge.com/gadgets/818102/amazon-kindle-paperwhite-signature-edition-lego-christmas-tree-deal-sale) (2025-11-11)
-- [Google Photos lets iPhone users edit images by describing changes](https://www.theverge.com/news/818346/google-photos-ios-help-me-edit-update) (2025-11-11)
-- [ElevenLabs’ new AI marketplace lets brands use famous voices for ads](https://www.theverge.com/news/818470/elevenlabs-iconic-voice-marketplace-ai-audio) (2025-11-11)
-- [The 30 best gift ideas for mom this holiday season](https://www.theverge.com/gadgets/802964/best-mom-gift-ideas) (2025-11-11)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [The Mac calculator’s original design came from letting Steve Jobs play with menus for ten minutes](https://arstechnica.com/gadgets/2025/11/the-mac-calculators-original-design-came-from-letting-steve-jobs-play-with-sliders-for-ten-minutes/) (2025-11-11)
+- [Google says new cloud-based “Private AI Compute” is just as secure as local processing](https://arstechnica.com/google/2025/11/google-says-new-cloud-based-private-ai-compute-is-just-as-secure-as-local-processing/) (2025-11-11)
+- [Ryanair tries forcing app downloads by eliminating paper boarding passes](https://arstechnica.com/gadgets/2025/11/ryanair-tries-forcing-app-downloads-by-eliminating-paper-boarding-passes/) (2025-11-11)
+- [Reddit mod jailed for sharing movie sex scenes in rare “moral rights” verdict](https://arstechnica.com/tech-policy/2025/11/reddit-mod-jailed-for-sharing-movie-sex-scenes-in-rare-moral-rights-verdict/) (2025-11-11)
 - [US states could lose $21 billion of broadband grants after Trump overhaul](https://arstechnica.com/tech-policy/2025/11/us-states-could-lose-21-billion-of-broadband-grants-after-trump-overhaul/) (2025-11-11)
-- [Google announces even more AI in Photos app, powered by Nano Banana](https://arstechnica.com/google/2025/11/googles-nano-banana-ai-image-editing-is-finally-coming-to-google-photos/) (2025-11-11)
-- [You won’t believe the excuses lawyers have after getting busted for using AI](https://arstechnica.com/tech-policy/2025/11/lawyers-keep-giving-weak-sauce-excuses-for-fake-ai-citations-in-court-docs/) (2025-11-11)
-- [Pirelli’s Cyber Tire might become highway agencies’ newest assistant](https://arstechnica.com/cars/2025/11/tires-that-talk-to-your-town-about-the-state-of-roads-are-on-the-way/) (2025-11-11)
-- [ClickFix may be the biggest security threat your family has never heard of](https://arstechnica.com/security/2025/11/clickfix-may-be-the-biggest-security-threat-your-family-has-never-heard-of/) (2025-11-11)
 
 </details>
 
@@ -97,27 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Static Website Deployment on AWS Amplify via GitHub (Entry-Level Guide)](https://dev.to/baguio_edianjay/static-website-deployment-on-aws-amplify-via-github-entry-level-guide-3ngj) (2025-11-11)
-- [From Laravel Factories to Framework-Agnostic: Building the Data Factory Package](https://dev.to/fbarrento/from-laravel-factories-to-framework-agnostic-building-the-data-factory-package-4pib) (2025-11-11)
-- [WRITE-UP N1CTF 2025](https://dev.to/null001/write-up-n1ctf-2025-j7e) (2025-11-11)
-- [Making a Read-Only Signal Editable in Your Component](https://dev.to/kobi2294/making-a-read-only-signal-editable-in-your-component-22c8) (2025-11-11)
-- [Architectural decisions](https://dev.to/grzegorzgrzegorz/architectural-decisions-2nmh) (2025-11-11)
+- [AI Genesis: Building Neural Networks from Random Noise](https://dev.to/arvind_sundararajan/ai-genesis-building-neural-networks-from-random-noise-15l6) (2025-11-12)
+- [Monetzly: Monetizing LLM Apps with Google Ads for AI Conversations](https://dev.to/monetzly/monetzly-monetizing-llm-apps-with-google-ads-for-ai-conversations-16pe) (2025-11-12)
+- [The Curious Case of Terraform Workspaces](https://dev.to/aws-builders/the-curious-case-of-terraform-workspaces-3llo) (2025-11-12)
+- [Before You Journey into Tech: My Honest Thoughts from Experience](https://dev.to/nicholaschibueze/before-you-journey-into-tech-my-honest-thoughts-from-experience-23f0) (2025-11-12)
+- [Understanding HTML Semantic Tags: Importance and Practical Uses](https://dev.to/nicholaschibueze/understanding-html-semantic-tags-importance-and-practical-uses-322l) (2025-11-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09013027390شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@hsnn69520/09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-f13020c9b2b8?source=rss------programming-5) (2025-11-11)
-- [09013027390شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@hsnn69520/09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ad71810112ca?source=rss------programming-5) (2025-11-11)
-- [09013027390شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@hsnn69520/09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-5692d3ba5021?source=rss------programming-5) (2025-11-11)
-- [09013027390شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@hsnn44342/09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-05d2027dbaef?source=rss------programming-5) (2025-11-11)
-- [09013027390شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@hsnn44342/09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-8959ba4c16ae?source=rss------programming-5) (2025-11-11)
+- [Elixir: Erlang’s Beautiful Daughter (If You Liked Erlang, But Hated The Syntax)](https://medium.com/@chopra.kanta.73/elixir-erlangs-beautiful-daughter-if-you-liked-erlang-but-hated-the-syntax-b0c1bbfc43ad?source=rss------programming-5) (2025-11-12)
+- [7 Tips for Coding an App with ChatGPT, the Right Way](https://medium.com/@tomsaturndm/7-tips-for-coding-an-app-with-chatgpt-the-right-way-6b2ba1eb1e33?source=rss------programming-5) (2025-11-12)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbcxcbbbb8nkj/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-c87187513106?source=rss------programming-5) (2025-11-12)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbcxcbbbb8nkj/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-3e9ec8d80f82?source=rss------programming-5) (2025-11-12)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbcxcbbbb8nkj/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-1cec55f2053f?source=rss------programming-5) (2025-11-12)
 
 </details>
 
@@ -135,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [The new era of Azure Ultra Disk: Experience the next generation of mission-critical block storage](https://azure.microsoft.com/en-us/blog/the-new-era-of-azure-ultra-disk-experience-the-next-generation-of-mission-critical-block-storage/) (2025-11-06)
 - [Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows](https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/) (2025-11-05)
 - [Microsoft strengthens sovereign cloud capabilities with new services](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/) (2025-11-05)
 - [Powering Distributed AI/ML at Scale with Azure and Anyscale](https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/) (2025-11-04)
 - [Enhancing software supply chain security with Microsoft’s Signing Transparency](https://azure.microsoft.com/en-us/blog/enhancing-software-supply-chain-security-with-microsofts-signing-transparency/) (2025-11-03)
-- [Resiliency in the cloud—empowered by shared responsibility and Azure Essentials](https://azure.microsoft.com/en-us/blog/resiliency-in-the-cloud-empowered-by-shared-responsibility-and-azure-essentials/) (2025-10-31)
 
 </details>
 
@@ -201,11 +196,11 @@
 <details>
 <summary>🟩 Node.js Blog</summary>
 
+- [Node.js v24.11.1 (LTS)](https://nodejs.org/en/blog/release/v24.11.1) (2025-11-11)
+- [Node.js v25.2.0 (Current)](https://nodejs.org/en/blog/release/v25.2.0) (2025-11-11)
 - [Node.js v25.1.0 (Current)](https://nodejs.org/en/blog/release/v25.1.0) (2025-10-28)
 - [Node.js v22.21.1 (LTS)](https://nodejs.org/en/blog/release/v22.21.1) (2025-10-28)
 - [Node.js v24.11.0 (LTS)](https://nodejs.org/en/blog/release/v24.11.0) (2025-10-28)
-- [Node.js v22 to v24](https://nodejs.org/en/blog/migrations/v22-to-v24) (2025-10-28)
-- [Node.js v20 to v22](https://nodejs.org/en/blog/migrations/v20-to-v22) (2025-10-28)
 
 </details>
 
@@ -344,11 +339,11 @@
 <details>
 <summary>💜 Heroku Blog</summary>
 
+- [Heroku Support for .NET 10 LTS: What Developers Need to Know](https://www.heroku.com/blog/support-for-dotnet-10-lts-what-developers-need-know/) (2025-11-11)
 - [Upgrade to Puma 7 and Unlock the Power of Fair Scheduled Keep-alive](https://www.heroku.com/blog/upgrade-to-puma-7-and-unlock-the-power-of-fair-scheduled-keep-alive/) (2025-11-05)
 - [Building an Enterprise Data Warehouse on Heroku: From Complex ETL to Seamless Salesforce Integration](https://www.heroku.com/blog/building-an-enterprise-data-warehouse-on-heroku/) (2025-11-05)
 - [Learn How to Lower Heroku Dyno Latency through Persistent Connections (Keep-alive)](https://www.heroku.com/blog/learn-how-to-lower-heroku-dyno-latency-keep-alive/) (2025-11-04)
 - [Heroku Connect: Faster, More Reliable Data Sync with Salesforce CDC](https://www.heroku.com/blog/heroku-connect-data-sync-with-salesforce-cdc/) (2025-10-30)
-- [Heroku Introduces New Innovations to Expand the Capabilities of Every Salesforce Org](https://www.heroku.com/blog/new-innovations-expand-capabilities-every-salesforce-org/) (2025-10-14)
 
 </details>
 
@@ -367,6 +362,21 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Announcing General Availability of <Start><Recording> for Voice Recording
+](
+https://www.twilio.com/en-us/blog/products/launches/general-availability-start-recording
+) (2025-11-10)
+- [
+Integrating Twilio and Zendesk for SMS Messaging 
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/twilio-zendesk-sms-messaging
+) (2025-11-10)
+- [
+SIGNAL Sydney 2025: A Sold‑out Debut on the Harbour
+](
+https://www.twilio.com/en-us/blog/events/signal-sydney-2025-recap
+) (2025-11-10)
+- [
 Auto-Instrumentation: The End of Manual Tracking
 ](
 https://www.twilio.com/en-us/blog/products/launches/auto-instrumentation-end-of-manual-tracking
@@ -376,21 +386,6 @@ SMS vs. WhatsApp: What’s best for your business
 ](
 https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-whatsapp-for-business
 ) (2025-11-05)
-- [
-Introducing Email Logs: Search, Filter, and Troubleshoot Email Events
-](
-https://www.twilio.com/en-us/blog/products/launches/email-logs-generally-available
-) (2025-11-04)
-- [
-What is RCS messaging?
-](
-https://www.twilio.com/en-us/blog/what-is-rcs-messaging
-) (2025-11-04)
-- [
-Integrate Twilio Flex and Microsoft Dynamics 365 with Zing
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/integrate-flex-microsoft-dynamics-zing-blueprint
-) (2025-11-03)
 
 </details>
 
