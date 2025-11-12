@@ -20,20 +20,20 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Red Bull Racing’s secret weapon? An engineer who treats workflows like lap times](https://techcrunch.com/2025/11/11/red-bull-racings-secret-weapon-an-engineer-who-treats-workflows-like-lap-times/) (2025-11-12)
 - [SoftBank’s Nvidia sale rattles market, raises questions](https://techcrunch.com/2025/11/11/softbanks-nvidia-sale-rattles-market-raises-questions/) (2025-11-11)
 - [Google Pixel update adds battery-saving maps mode, AI photo remixing, and smarter notifications](https://techcrunch.com/2025/11/11/google-pixel-update-adds-battery-saving-maps-mode-ai-photo-remixing-and-smarter-notifications/) (2025-11-11)
 - [Threads targets podcasters with new features, aiming to become the home for show discussions](https://techcrunch.com/2025/11/11/threads-targets-podcasters-with-new-features-aiming-to-become-the-place-fans-discuss-shows/) (2025-11-11)
 - [Immortality startup Eternos nabs $10.3M, pivots to personal AI that sounds like you](https://techcrunch.com/2025/11/11/immortality-startup-eternos-pivots-to-a-personal-ai-that-sounds-like-you/) (2025-11-11)
-- [How AI startups should be thinking about product-market fit](https://techcrunch.com/2025/11/11/how-ai-startups-should-be-thinking-about-product-market-fit/) (2025-11-11)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Why Nietzsche Matters in the Age of Artificial Intelligence](https://cacm.acm.org/blogcacm/why-nietzsche-matters-in-the-age-of-artificial-intelligence/) (2025-11-11)
-- [I can build enterprise software but I can't charge for it](https://gist.github.com/EchenD/8b211ebfa4941d2c5df7b526790b31aa) (2025-11-11)
-- [.NET MAUI Is Coming to Linux and the Browser, Powered by Avalonia](https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia) (2025-11-11)
+- [Perkeep – Personal storage system for life](https://perkeep.org/) (2025-11-12)
+- [Why Nietzsche matters in the age of artificial intelligence](https://cacm.acm.org/blogcacm/why-nietzsche-matters-in-the-age-of-artificial-intelligence/) (2025-11-11)
+- [.NET MAUI is coming to Linux and the browser](https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia) (2025-11-11)
 - [Four strange places to see London's Roman Wall](https://diamondgeezer.blogspot.com/2025/11/odd-places-to-see-londons-roman-wall.html) (2025-11-11)
 - [Heroku Support for .NET 10](https://www.heroku.com/blog/support-for-dotnet-10-lts-what-developers-need-know/) (2025-11-11)
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [AI Genesis: Building Neural Networks from Random Noise](https://dev.to/arvind_sundararajan/ai-genesis-building-neural-networks-from-random-noise-15l6) (2025-11-12)
-- [Monetzly: Monetizing LLM Apps with Google Ads for AI Conversations](https://dev.to/monetzly/monetzly-monetizing-llm-apps-with-google-ads-for-ai-conversations-16pe) (2025-11-12)
-- [The Curious Case of Terraform Workspaces](https://dev.to/aws-builders/the-curious-case-of-terraform-workspaces-3llo) (2025-11-12)
-- [Before You Journey into Tech: My Honest Thoughts from Experience](https://dev.to/nicholaschibueze/before-you-journey-into-tech-my-honest-thoughts-from-experience-23f0) (2025-11-12)
-- [Understanding HTML Semantic Tags: Importance and Practical Uses](https://dev.to/nicholaschibueze/understanding-html-semantic-tags-importance-and-practical-uses-322l) (2025-11-12)
+- [A Dreamy Developer Finding Where I Belong](https://dev.to/huynhnhanquoc/a-dreamy-developer-finding-where-i-belong-5bkh) (2025-11-12)
+- [The Dream of Indie Coders](https://dev.to/huynhnhanquoc/the-dream-of-indie-coders-10g7) (2025-11-12)
+- [The Indie Path](https://dev.to/huynhnhanquoc/the-indie-path-1pa7) (2025-11-12)
+- [Directive Sync – The “Odd” Story of Kit JS](https://dev.to/huynhnhanquoc/directive-sync-the-odd-story-of-kit-js-1nlo) (2025-11-12)
+- [Why Does Kit JS Exist?](https://dev.to/huynhnhanquoc/why-does-kit-js-exist-19oc) (2025-11-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Elixir: Erlang’s Beautiful Daughter (If You Liked Erlang, But Hated The Syntax)](https://medium.com/@chopra.kanta.73/elixir-erlangs-beautiful-daughter-if-you-liked-erlang-but-hated-the-syntax-b0c1bbfc43ad?source=rss------programming-5) (2025-11-12)
-- [7 Tips for Coding an App with ChatGPT, the Right Way](https://medium.com/@tomsaturndm/7-tips-for-coding-an-app-with-chatgpt-the-right-way-6b2ba1eb1e33?source=rss------programming-5) (2025-11-12)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbcxcbbbb8nkj/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-c87187513106?source=rss------programming-5) (2025-11-12)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbcxcbbbb8nkj/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-3e9ec8d80f82?source=rss------programming-5) (2025-11-12)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbcxcbbbb8nkj/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-1cec55f2053f?source=rss------programming-5) (2025-11-12)
+- [Log Aggregation: Structured Logging Best Practices](https://medium.com/@sohail_saifii/log-aggregation-structured-logging-best-practices-5eefebc9699a?source=rss------programming-5) (2025-11-12)
+- [ How to Advance Your Career: Focus on Expanding Your Impact](https://javascript.plainenglish.io/how-to-advance-your-career-focus-on-expanding-your-impact-a9f7778b0c35?source=rss------programming-5) (2025-11-12)
+- [Beyond Pretty Code: What to Actually Look for in a Java Code Review](https://medium.com/@BuildCatalyst/beyond-pretty-code-what-to-actually-look-for-in-a-java-code-review-25ebeb309c44?source=rss------programming-5) (2025-11-12)
+- [On building a General Purpose AI video generation engine](https://medium.com/google-cloud/on-building-a-general-purpose-ai-video-generation-engine-2b9f4bd5fcf0?source=rss------programming-5) (2025-11-12)
+- [Localization, Multilingual AI & Node.js: Building Apps for a Global Audience](https://medium.com/@rammilan1610/localization-multilingual-ai-node-js-building-apps-for-a-global-audience-2a2aa8c85565?source=rss------programming-5) (2025-11-12)
 
 </details>
 
@@ -120,7 +120,7 @@
 <summary>☁️ AWS News</summary>
 
 - [Secure EKS clusters with the new support for Amazon EKS in AWS Backup](https://aws.amazon.com/blogs/aws/secure-eks-clusters-with-the-new-support-for-amazon-eks-in-aws-backup/) (2025-11-10)
-- [AWS Weekly Roundup: Amazon S3, Amazon EC2, and more (November 10, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-s3-amazon-ec2-and-more-november-10-2025/) (2025-11-10)
+- [AWS Weekly Roundup: OpenAI partnership, Jane Goodall Institute research archive, and more (November 10, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-s3-amazon-ec2-and-more-november-10-2025/) (2025-11-10)
 - [Introducing AWS Capabilities by Region for easier Regional planning and faster global deployments](https://aws.amazon.com/blogs/aws/introducing-aws-capabilities-by-region-for-easier-regional-planning-and-faster-global-deployments/) (2025-11-06)
 - [AWS Weekly Roundup: Project Rainier online, Amazon Nova, Amazon Bedrock, and more (November 3, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-project-rainier-online-amazon-nova-amazon-bedrock-and-more-november-3-2025/) (2025-11-03)
 - [Build more accurate AI applications with Amazon Nova Web Grounding](https://aws.amazon.com/blogs/aws/build-more-accurate-ai-applications-with-amazon-nova-web-grounding/) (2025-10-28)
@@ -580,11 +580,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-whatsapp-for-bu
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Indic LLM-Arena: Benchmarking AI for Indian Languages & Culture](https://www.analyticsvidhya.com/blog/2025/11/indic-llm-arena/) (2025-11-12)
+- [Ace Your Exams with AI: Step-by-step Guide for Google Gemini as your Study Buddy](https://www.analyticsvidhya.com/blog/2025/11/gemini-for-exam-preparation/) (2025-11-12)
 - [DeepSeek OCR vs Qwen-3 VL vs Mistral OCR: Which is the Best?](https://www.analyticsvidhya.com/blog/2025/11/deepseek-ocr-vs-qwen-3-vl-vs-mistral-ocr/) (2025-11-11)
 - [Order Food From Your Terminal with Zomato MCP](https://www.analyticsvidhya.com/blog/2025/11/zomato-mcp-server/) (2025-11-11)
 - [AI in Education: Google’s Plan to Fix a Broken System](https://www.analyticsvidhya.com/blog/2025/11/ai-in-education-googles-plan-to-fix-a-broken-system/) (2025-11-10)
-- [7 Crazy Things You Can Do with Canva Creative Operating System](https://www.analyticsvidhya.com/blog/2025/11/canva-creative-operating-system-for-creators/) (2025-11-10)
-- [From Zero to LLMOps Hero: Your 101 Guide to Running LLMs in Production ](https://www.analyticsvidhya.com/blog/2025/11/llms-in-production/) (2025-11-10)
 
 </details>
 
