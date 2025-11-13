@@ -20,29 +20,29 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Kering-backed fund Mirova pours $30.5M into India’s Varaha for regenerative farming](https://techcrunch.com/2025/11/12/kering-backed-fund-mirova-pours-30-5m-into-indias-varaha-for-regenerative-farming-push/) (2025-11-13)
+- [Jack Dorsey funds diVine, a Vine reboot that includes Vine’s video archive](https://techcrunch.com/2025/11/12/jack-dorsey-funds-divine-a-vine-reboot-that-includes-vines-video-archive/) (2025-11-13)
 - [‘Chad: The Brainrot IDE’ is a new Y Combinator-backed product so wild, people thought it was fake](https://techcrunch.com/2025/11/12/chad-the-brainrot-ide-is-a-new-y-combinator-backed-product-so-wild-people-thought-it-was-fake/) (2025-11-13)
 - [Cybersecurity firm Deepwatch lays off dozens, citing move to ‘accelerate’ AI investment](https://techcrunch.com/2025/11/12/cybersecurity-firm-deepwatch-lays-off-dozens-citing-move-to-accelerate-ai-investment/) (2025-11-12)
 - [ElevenLabs strike deals with celebs to create AI audio](https://techcrunch.com/2025/11/12/elevenlabs-strike-deals-with-celebs-to-create-ai-audio/) (2025-11-12)
-- [Elon Musk’s X botched its security key switchover, locking users out](https://techcrunch.com/2025/11/12/elon-musks-x-botched-its-security-key-switchover-locking-users-out/) (2025-11-12)
-- [Court rules that OpenAI violated German copyright law; ordered it to pay damages](https://techcrunch.com/2025/11/12/court-rules-that-openai-violated-german-copyright-law-ordered-it-to-pay-damages/) (2025-11-12)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Louisiana Took Months to Sound Alarm Amid Whooping Cough Outbreak](https://undark.org/2025/11/11/louisiana-whooping-cough-slow/) (2025-11-13)
-- [Voyager 1 is a light-day away by November 2026](https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432) (2025-11-12)
-- [Jasmine: A Simple, Performant and Scalable Jax-Based World Modeling Codebase](https://arxiv.org/abs/2510.27002) (2025-11-12)
-- [Marble: A Multimodal World Model](https://www.worldlabs.ai/blog/marble-world-model) (2025-11-12)
-- [Homebrew no longer allows bypassing Gatekeeper for unsigned/unnotarized software](https://github.com/Homebrew/brew/issues/20755) (2025-11-12)
+- [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/tv3ufcc-forward-deployed-engineer) (2025-11-13)
+- [Android 16 QPR1 is being pushed to the Android Open Source Project](https://grapheneos.social/@GrapheneOS/115533432439509433) (2025-11-13)
+- [Meta replaces WhatsApp for Windows with web wrapper that uses 1 GB RAM when idle](https://www.windowslatest.com/2025/11/12/meta-just-killed-native-whatsapp-on-windows-11-now-it-opens-webview-uses-1gb-ram-all-the-time/) (2025-11-13)
+- [Bitcoin's big secret: How cryptocurrency became law enforcement's secret weapon](https://bitwarden.com/blog/how-cryptocurrency-became-law-enforcements-secret-weapon/) (2025-11-13)
+- [Large integer precision error in Bash command output rendering](https://github.com/anthropics/claude-code/issues/11506) (2025-11-13)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Sony is making a Horizon MMO — here&#8217;s all the details](https://www.theverge.com/news/819657/horizon-steel-frontiers-mmo-sony-ncsoft-playstation) (2025-11-13)
+- [Sony is making a Horizon MMO — here’s the video and details](https://www.theverge.com/news/819657/horizon-steel-frontiers-mmo-sony-ncsoft-playstation) (2025-11-13)
 - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop) (2025-11-12)
 - [The Steam Frame has two speakers on each side of your face for vibration cancellation](https://www.theverge.com/news/818599/valve-steam-frame-headset-speakers-head-strap-vibration-cancellation) (2025-11-12)
 - [Energy and tech news at UN climate negotiations in Brazil](https://www.theverge.com/news/819192/united-nations-climate-change-conference-brazil-updates) (2025-11-12)
@@ -86,35 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [One thing enterprise AI projects need to succeed? Community.](https://stackoverflow.blog/2025/11/13/one-thing-enterprise-ai-projects-need-to-succeed-community/) (2025-11-13)
 - [2025.8 release introduces Stack Overflow Internal: The next generation of enterprise knowledge intelligence](https://stackoverflow.blog/2025/11/12/2025-8-release-introduces-stack-overflow-internal-the-next-generation-of-enterprise-knowledge-intelligence/) (2025-11-12)
 - [AI code means more critical thinking, not less](https://stackoverflow.blog/2025/11/11/ai-code-means-more-critical-thinking-not-less/) (2025-11-11)
 - [Revealing the unknown unknowns in your software](https://stackoverflow.blog/2025/11/07/revealing-the-unknown-unknowns-in-your-software/) (2025-11-07)
 - [The AI ick](https://stackoverflow.blog/2025/11/05/the-ai-ick/) (2025-11-05)
-- [To write secure code, be less gullible than your AI](https://stackoverflow.blog/2025/11/04/to-write-secure-code-be-less-gullible-than-your-ai/) (2025-11-04)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How We Built Coomia DataGPT — An AI Copilot for Data Analysis](https://dev.to/spancer/how-we-built-coomia-datagpt-an-ai-copilot-for-data-analysis-1k6k) (2025-11-13)
-- [Step-by-Step Lab: How to Create a Resource Group in Azure Portal](https://dev.to/ojosamuel129/step-by-step-lab-how-to-create-a-resource-group-in-azure-portal-2gg0) (2025-11-13)
-- [Recreating LinkedIn’s Crossclimb Game with Angular - Part 2](https://dev.to/this-is-angular/recreating-linkedins-crossclimb-game-with-angular-part-2-4a1n) (2025-11-13)
-- [10 Years in: Why I Still Google Everything (And Why I’m Finally Okay With It)](https://dev.to/keeganu/10-years-in-why-i-still-google-everything-and-why-im-finally-okay-with-it-3ca7) (2025-11-13)
-- [Building a Production RAG System for Resume Search: What Actually Worked (and What Didn't)](https://dev.to/harrywynn/building-a-production-rag-system-for-resume-search-what-actually-worked-and-what-didnt-3jaa) (2025-11-13)
+- [Efficient S3 File Uploads: Speed & Large File Handling in NestJS](https://dev.to/adamthedeveloper/efficient-s3-file-uploads-speed-large-file-handling-in-nestjs-31a4) (2025-11-13)
+- [Use Markdownlint for your documentation](https://dev.to/jonasbn/use-markdownlint-for-your-documentation-5ln) (2025-11-13)
+- [Day 3: Fundamental FinOps Principles and Key Terminologies](https://dev.to/ibbus/day-3-fundamental-finops-principles-and-key-terminologies-5fmd) (2025-11-13)
+- [Adventure and Peace on the Trails of Beas Kund](https://dev.to/md_tasin_796ae00572dbbd80/adventure-and-peace-on-the-trails-of-beas-kund-2gp5) (2025-11-13)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 5 - 'Lady Bird’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-5-lady-bird-dcp) (2025-11-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09045080282شماره خاله تهران# شماره خاله تهران پارس# شماره خاله اسلامشهر# شماره خاله صیغه# شماره…](https://medium.com/@9kawkwkwmmwmwkw/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ae250773f135?source=rss------programming-5) (2025-11-13)
-- [09045080282شماره خاله تهران# شماره خاله تهران پارس# شماره خاله اسلامشهر# شماره خاله صیغه# شماره…](https://medium.com/@9kawkwkwmmwmwkw/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-badb64491452?source=rss------programming-5) (2025-11-13)
-- [09045080282شماره خاله تهران# شماره خاله تهران پارس# شماره خاله اسلامشهر# شماره خاله صیغه# شماره…](https://medium.com/@9kawkwkwmmwmwkw/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-f3800a134b04?source=rss------programming-5) (2025-11-13)
-- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@nfjncmbdnb/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-66b6c7a0a9ef?source=rss------programming-5) (2025-11-13)
-- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@nfjncmbdnb/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ddb8f230ffa1?source=rss------programming-5) (2025-11-13)
+- [Cursor 2.0 Is Here — 5 Things You Didn’t Know It Can Do (But Should)](https://blog.stackademic.com/cursor-2-0-is-here-5-things-you-didnt-know-it-can-do-but-should-de99961efd7e?source=rss------programming-5) (2025-11-13)
+- [ Be Ready Before a Layoff: 6 Powerful Lessons to Future-Proof Your Career](https://javascript.plainenglish.io/be-ready-before-a-layoff-6-powerful-lessons-to-future-proof-your-career-d3e57753573d?source=rss------programming-5) (2025-11-13)
+- [I Rewrote My Python Code with These 8 Rules, Now It’s Actually Production Ready.](https://python.plainenglish.io/i-rewrote-my-python-code-with-these-8-rules-now-its-actually-production-ready-7bdef75137e0?source=rss------programming-5) (2025-11-13)
+- [A 15-Minute Journey Through the Fascinating History of HTML](https://blog.stackademic.com/a-15-minute-journey-through-the-fascinating-history-of-html-5fd14abf9695?source=rss------programming-5) (2025-11-13)
+- [Go Promised It. Zig’s Actually Delivering It.](https://medium.com/@premchandak_11/go-promised-it-zigs-actually-delivering-it-ef1ee82093d6?source=rss------programming-5) (2025-11-13)
 
 </details>
 
@@ -132,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [The new era of Azure Ultra Disk: Experience the next generation of mission-critical block storage](https://azure.microsoft.com/en-us/blog/the-new-era-of-azure-ultra-disk-experience-the-next-generation-of-mission-critical-block-storage/) (2025-11-06)
-- [Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows](https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/) (2025-11-05)
-- [Microsoft strengthens sovereign cloud capabilities with new services](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/) (2025-11-05)
-- [Powering Distributed AI/ML at Scale with Azure and Anyscale](https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/) (2025-11-04)
-- [Enhancing software supply chain security with Microsoft’s Signing Transparency](https://azure.microsoft.com/en-us/blog/enhancing-software-supply-chain-security-with-microsofts-signing-transparency/) (2025-11-03)
+- [Fully managed cloud-to-cloud transfers with Azure Storage Mover](https://azure.microsoft.com/en-us/blog/fully-managed-cloud-to-cloud-transfers-with-azure-storage-mover/) (2025-10-23)
+- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2025-10-22)
+- [The Signals Loop: Fine-tuning for world-class AI apps and agents ](https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/) (2025-10-21)
+- [Innovation spotlight: How 3 customers are driving change with migration to Azure SQL](https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/) (2025-10-20)
+- [From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available](https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/) (2025-10-16)
 
 </details>
 
