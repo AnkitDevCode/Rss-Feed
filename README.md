@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Microsoft’s plan to fix its chip problem is, partly, to let OpenAI do the heavy lifting](https://techcrunch.com/2025/11/13/microsofts-plan-to-fix-its-chip-problem-is-partly-to-let-openai-do-the-heavy-lifting/) (2025-11-13)
+- [Milestone raises $10M to make sure AI rhymes with ROI](https://techcrunch.com/2025/11/13/milestone-raises-10m-to-make-sure-ai-rhymes-with-roi/) (2025-11-13)
+- [Cash App debuts a new AI assistant that answers questions about your finances](https://techcrunch.com/2025/11/13/cash-app-debuts-a-new-ai-assistant-that-answers-questions-about-your-finances/) (2025-11-13)
+- [Willow’s voice keyboard lets you type across all your iOS apps — and actually edit what you said](https://techcrunch.com/2025/11/12/willows-voice-keyboard-lets-you-type-across-all-your-ios-apps-and-actually-edit-what-you-said/) (2025-11-13)
 - [Kering-backed fund Mirova pours $30.5M into India’s Varaha for regenerative farming](https://techcrunch.com/2025/11/12/kering-backed-fund-mirova-pours-30-5m-into-indias-varaha-for-regenerative-farming-push/) (2025-11-13)
-- [Jack Dorsey funds diVine, a Vine reboot that includes Vine’s video archive](https://techcrunch.com/2025/11/12/jack-dorsey-funds-divine-a-vine-reboot-that-includes-vines-video-archive/) (2025-11-13)
-- [‘Chad: The Brainrot IDE’ is a new Y Combinator-backed product so wild, people thought it was fake](https://techcrunch.com/2025/11/12/chad-the-brainrot-ide-is-a-new-y-combinator-backed-product-so-wild-people-thought-it-was-fake/) (2025-11-13)
-- [Cybersecurity firm Deepwatch lays off dozens, citing move to ‘accelerate’ AI investment](https://techcrunch.com/2025/11/12/cybersecurity-firm-deepwatch-lays-off-dozens-citing-move-to-accelerate-ai-investment/) (2025-11-12)
-- [ElevenLabs strike deals with celebs to create AI audio](https://techcrunch.com/2025/11/12/elevenlabs-strike-deals-with-celebs-to-create-ai-audio/) (2025-11-12)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/tv3ufcc-forward-deployed-engineer) (2025-11-13)
-- [Android 16 QPR1 is being pushed to the Android Open Source Project](https://grapheneos.social/@GrapheneOS/115533432439509433) (2025-11-13)
-- [Meta replaces WhatsApp for Windows with web wrapper that uses 1 GB RAM when idle](https://www.windowslatest.com/2025/11/12/meta-just-killed-native-whatsapp-on-windows-11-now-it-opens-webview-uses-1gb-ram-all-the-time/) (2025-11-13)
-- [Bitcoin's big secret: How cryptocurrency became law enforcement's secret weapon](https://bitwarden.com/blog/how-cryptocurrency-became-law-enforcements-secret-weapon/) (2025-11-13)
-- [Large integer precision error in Bash command output rendering](https://github.com/anthropics/claude-code/issues/11506) (2025-11-13)
+- [Hack Club has been handling children's data for 4 years without a privacy policy](https://kys.llc/blog/my-hackclub-story) (2025-11-13)
+- [Seed. LINE's Custom Typeface](https://seed.line.me/index_en.html) (2025-11-13)
+- [Telli (Voice AI – YC F24) is hiring ambitious engineers in [on-site, Berlin]](https://hi.telli.com/eng) (2025-11-13)
+- [Checkout.com hacked, refuses ransom payment, donates to security labs](https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion) (2025-11-13)
+- [Reverse Engineering Yaesu FT-70D Firmware Encryption](https://landaire.net/reversing-yaesu-firmware-encryption/) (2025-11-13)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [DJI’s Neo 2 selfie drone launches globally, but not in the US](https://www.theverge.com/news/819109/dji-neo-2-selfie-drone-global-launch) (2025-11-13)
+- [Google will let ‘experienced users’ keep sideloading Android apps](https://www.theverge.com/news/819835/google-android-sideloading-experienced-users-developer-verification) (2025-11-13)
+- [Samsung&#8217;s trifold gets a name and &#8216;confirmed&#8217; specs](https://www.theverge.com/news/819820/samsungs-trifold-gets-a-name-and-confirmed-specs) (2025-11-13)
 - [Sony is making a Horizon MMO — here’s the video and details](https://www.theverge.com/news/819657/horizon-steel-frontiers-mmo-sony-ncsoft-playstation) (2025-11-13)
 - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop) (2025-11-12)
-- [The Steam Frame has two speakers on each side of your face for vibration cancellation](https://www.theverge.com/news/818599/valve-steam-frame-headset-speakers-head-strap-vibration-cancellation) (2025-11-12)
-- [Energy and tech news at UN climate negotiations in Brazil](https://www.theverge.com/news/819192/united-nations-climate-change-conference-brazil-updates) (2025-11-12)
-- [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals) (2025-11-12)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Google is still aiming for its “moonshot” 2030 energy goals](https://www.technologyreview.com/2025/11/13/1127896/google-energy-goals/) (2025-11-13)
 - [The Download: how to survive a conspiracy theory, and moldy cities](https://www.technologyreview.com/2025/11/12/1127881/the-download-how-to-survive-a-conspiracy-theory-and-moldy-cities/) (2025-11-12)
 - [Improving VMware migration workflows with agentic AI](https://www.technologyreview.com/2025/11/12/1124919/improving-vmware-migration-workflows-with-agentic-ai/) (2025-11-12)
 - [The Download: surviving extreme temperatures, and the big whale-wind turbine conspiracy](https://www.technologyreview.com/2025/11/11/1127866/the-download-surviving-extreme-temperatures-and-the-big-whale-wind-turbine-conspiracy/) (2025-11-11)
 - [The State of AI: Energy is king, and the US is falling behind](https://www.technologyreview.com/2025/11/10/1126805/the-state-of-ai-energy-is-king-and-the-us-is-falling-behind/) (2025-11-10)
-- [Reimagining cybersecurity in the era of AI and quantum](https://www.technologyreview.com/2025/11/10/1127774/reimagining-cybersecurity-in-the-era-of-ai-and-quantum/) (2025-11-10)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Efficient S3 File Uploads: Speed & Large File Handling in NestJS](https://dev.to/adamthedeveloper/efficient-s3-file-uploads-speed-large-file-handling-in-nestjs-31a4) (2025-11-13)
-- [Use Markdownlint for your documentation](https://dev.to/jonasbn/use-markdownlint-for-your-documentation-5ln) (2025-11-13)
-- [Day 3: Fundamental FinOps Principles and Key Terminologies](https://dev.to/ibbus/day-3-fundamental-finops-principles-and-key-terminologies-5fmd) (2025-11-13)
-- [Adventure and Peace on the Trails of Beas Kund](https://dev.to/md_tasin_796ae00572dbbd80/adventure-and-peace-on-the-trails-of-beas-kund-2gp5) (2025-11-13)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 5 - 'Lady Bird’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-5-lady-bird-dcp) (2025-11-13)
+- [College Projects to Production Code: Mindset Shifts Every Beginner Developer Must Make](https://dev.to/dhruvjoshi9/college-projects-to-production-code-mindset-shifts-every-beginner-developer-must-make-2a9c) (2025-11-13)
+- [OWASP Cornucopia 3.0 - A call for card game designers!](https://dev.to/owasp/owasp-cornucopia-30-a-call-for-card-game-designers-1j1m) (2025-11-13)
+- [Creating a Basic FastAPI Application with CRUD Operations](https://dev.to/sakshi_agarwal_4c639a581c/creating-a-basic-fastapi-application-with-crud-operations-278o) (2025-11-13)
+- [[Boost]](https://dev.to/mohitrajput987/-3afh) (2025-11-13)
+- [NPR Music: Pulp: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-pulp-tiny-desk-concert-117l) (2025-11-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Cursor 2.0 Is Here — 5 Things You Didn’t Know It Can Do (But Should)](https://blog.stackademic.com/cursor-2-0-is-here-5-things-you-didnt-know-it-can-do-but-should-de99961efd7e?source=rss------programming-5) (2025-11-13)
-- [ Be Ready Before a Layoff: 6 Powerful Lessons to Future-Proof Your Career](https://javascript.plainenglish.io/be-ready-before-a-layoff-6-powerful-lessons-to-future-proof-your-career-d3e57753573d?source=rss------programming-5) (2025-11-13)
-- [I Rewrote My Python Code with These 8 Rules, Now It’s Actually Production Ready.](https://python.plainenglish.io/i-rewrote-my-python-code-with-these-8-rules-now-its-actually-production-ready-7bdef75137e0?source=rss------programming-5) (2025-11-13)
-- [A 15-Minute Journey Through the Fascinating History of HTML](https://blog.stackademic.com/a-15-minute-journey-through-the-fascinating-history-of-html-5fd14abf9695?source=rss------programming-5) (2025-11-13)
-- [Go Promised It. Zig’s Actually Delivering It.](https://medium.com/@premchandak_11/go-promised-it-zigs-actually-delivering-it-ef1ee82093d6?source=rss------programming-5) (2025-11-13)
+- [AI or Excuse? The Truth Behind Job Cuts in the Age of Automation](https://medium.com/design-bootcamp/ai-or-excuse-the-truth-behind-job-cuts-in-the-age-of-automation-b62582b6f253?source=rss------programming-5) (2025-11-13)
+- [ “Python Power Tips 2025–20 Modern Tricks to Write Cleaner, Faster, and Smarter Python Code” ⚡](https://medium.com/@Sofia52/python-power-tips-2025-20-modern-tricks-to-write-cleaner-faster-and-smarter-python-code-af2dd01e0119?source=rss------programming-5) (2025-11-13)
+- [Kubernetes Is Moving On. Are You? The Ingress NGINX Retirement Explained](https://aws.plainenglish.io/kubernetes-is-moving-on-are-you-the-ingress-nginx-retirement-explained-fc7d8468fc92?source=rss------programming-5) (2025-11-13)
+- [Try this & thank me later ](https://infobtctools.medium.com/try-this-thank-me-later-15f6fb10a2a5?source=rss------programming-5) (2025-11-13)
+- [Boost .NET Application Performance with Redis Cache: Part 2](https://pawan-kumawat.medium.com/boost-net-application-performance-with-redis-cache-part-2-2a729a57afe6?source=rss------programming-5) (2025-11-13)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Fully managed cloud-to-cloud transfers with Azure Storage Mover](https://azure.microsoft.com/en-us/blog/fully-managed-cloud-to-cloud-transfers-with-azure-storage-mover/) (2025-10-23)
-- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2025-10-22)
-- [The Signals Loop: Fine-tuning for world-class AI apps and agents ](https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/) (2025-10-21)
-- [Innovation spotlight: How 3 customers are driving change with migration to Azure SQL](https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/) (2025-10-20)
-- [From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available](https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/) (2025-10-16)
+- [Microsoft strengthens sovereign cloud capabilities with new services](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/) (2025-11-05)
+- [Powering Distributed AI/ML at Scale with Azure and Anyscale](https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/) (2025-11-04)
+- [Enhancing software supply chain security with Microsoft’s Signing Transparency](https://azure.microsoft.com/en-us/blog/enhancing-software-supply-chain-security-with-microsofts-signing-transparency/) (2025-11-03)
+- [Resiliency in the cloud—empowered by shared responsibility and Azure Essentials](https://azure.microsoft.com/en-us/blog/resiliency-in-the-cloud-empowered-by-shared-responsibility-and-azure-essentials/) (2025-10-31)
+- [GitHub Universe 2025: Where developer innovation took center stage](https://azure.microsoft.com/en-us/blog/github-universe-2025-where-developer-innovation-took-center-stage/) (2025-10-30)
 
 </details>
 
@@ -558,33 +558,33 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-whatsapp-for-bu
 <details>
 <summary>🤖 AI News</summary>
 
+- [New data centre projects mark Anthropic’s biggest US expansion yet](https://www.artificialintelligence-news.com/news/new-data-centre-projects-mark-anthropic-biggest-us-expansion/) (2025-11-13)
 - [Baidu ERNIE multimodal AI beats GPT and Gemini in benchmarks](https://www.artificialintelligence-news.com/news/baidu-ernie-multimodal-ai-gpt-and-gemini-benchmarks/) (2025-11-12)
 - [Google reveals its own version of Apple’s AI cloud](https://www.artificialintelligence-news.com/news/google-reveals-its-own-version-of-apple-ai-cloud/) (2025-11-12)
 - [Wiz: Security lapses emerge amid the global AI race](https://www.artificialintelligence-news.com/news/wiz-security-lapses-emerge-amid-global-ai-race/) (2025-11-11)
 - [Chinese AI startup Moonshot outperforms GPT-5 and Claude Sonnet 4.5: What you need to know](https://www.artificialintelligence-news.com/news/moonshot-ai-gpt-5-claude-comparison-china-breakthrough/) (2025-11-11)
-- [10% of Nvidia’s cost: Why Tesla-Intel chip partnership demands attention](https://www.artificialintelligence-news.com/news/tesla-intel-chip-partnership-nvidia-cost/) (2025-11-10)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Spearman Correlation Coefficient for When Pearson Isn’t Enough](https://towardsdatascience.com/spearman-correlation-coefficient-for-when-pearson-isnt-enough/) (2025-11-13)
 - [Deploy Your AI Assistant to Monitor and Debug n8n Workflows Using Claude and MCP](https://towardsdatascience.com/deploy-your-ai-assistant-to-monitor-and-debug-n8n-workflows-using-claude-and-mcp/) (2025-11-12)
 - [The Ultimate Guide to Power BI Aggregations](https://towardsdatascience.com/power-bi-aggregations-the-ultimate-guide/) (2025-11-12)
 - [How to Evaluate Retrieval Quality in RAG Pipelines (Part 3): DCG@k and NDCG@k](https://towardsdatascience.com/how-to-evaluate-retrieval-quality-in-rag-pipelines-part-3-dcgk-and-ndcgk/) (2025-11-12)
 - [Feature Detection, Part 2: Laplace & Gaussian Operators](https://towardsdatascience.com/feature-detection-part-2-laplace-gaussian-operators/) (2025-11-12)
-- [Do You Really Need GraphRAG? A Practitioner’s Guide Beyond the Hype](https://towardsdatascience.com/do-you-really-need-graphrag-a-practitioners-guide-beyond-the-hype/) (2025-11-11)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [ERNIE-4.5-VL Review: “Thinking with Images” in a 3B Model](https://www.analyticsvidhya.com/blog/2025/11/ernie-4-5-vl-review/) (2025-11-13)
 - [OpenAI Releases GPT 5.1: Here’s How it Performs!](https://www.analyticsvidhya.com/blog/2025/11/gpt-5-1/) (2025-11-12)
-- [10 Top Free AI Image Generation Tools: Nano Banana, Ideogram and More](https://www.analyticsvidhya.com/blog/2025/11/free-ai-image-generator-tools/) (2025-11-12)
+- [Top 10 Free AI Image Generation Tools: Nano Banana, Ideogram and More](https://www.analyticsvidhya.com/blog/2025/11/free-ai-image-generator-tools/) (2025-11-12)
 - [We Judged AI Models for Indian Experiences with the all-new Indic LLM-Arena](https://www.analyticsvidhya.com/blog/2025/11/indic-llm-arena/) (2025-11-12)
 - [Ace Your Exams with AI: Step-by-step Guide for Google Gemini as your Study Buddy](https://www.analyticsvidhya.com/blog/2025/11/gemini-for-exam-preparation/) (2025-11-12)
-- [DeepSeek OCR vs Qwen-3 VL vs Mistral OCR: Which is the Best?](https://www.analyticsvidhya.com/blog/2025/11/deepseek-ocr-vs-qwen-3-vl-vs-mistral-ocr/) (2025-11-11)
 
 </details>
 
@@ -602,11 +602,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-whatsapp-for-bu
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [5 Essential Python Scripts for Intermediate Machine Learning Practitioners](https://machinelearningmastery.com/5-essential-python-scripts-for-intermediate-machine-learning-practitioners/) (2025-11-13)
 - [Datasets for Training a Language Model](https://machinelearningmastery.com/datasets-for-training-a-language-model/) (2025-11-12)
 - [Building ReAct Agents with LangGraph: A Beginner’s Guide](https://machinelearningmastery.com/building-react-agents-with-langgraph-a-beginners-guide/) (2025-11-12)
 - [Expert-Level Feature Engineering: Advanced Techniques for High-Stakes Models](https://machinelearningmastery.com/expert-level-feature-engineering-advanced-techniques-for-high-stakes-models/) (2025-11-11)
 - [Everything You Need to Know About LLM Evaluation Metrics](https://machinelearningmastery.com/everything-you-need-to-know-about-llm-evaluation-metrics/) (2025-11-10)
-- [The 7 Statistical Concepts You Need to Succeed as a Machine Learning Engineer](https://machinelearningmastery.com/the-7-statistical-concepts-you-need-to-succeed-as-a-machine-learning-engineer/) (2025-11-07)
 
 </details>
 
