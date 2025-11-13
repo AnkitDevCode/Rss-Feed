@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [YouTube TV’s Disney blackout is ruining my life (I can’t watch ‘Jeopardy!’)](https://techcrunch.com/2025/11/12/youtube-tvs-disney-blackout-is-ruining-my-life-i-cant-watch-jeopardy/) (2025-11-12)
-- [Why a researcher is building robots that look and act like bats ](https://techcrunch.com/2025/11/12/why-a-researcher-is-building-robots-that-look-and-act-like-bats/) (2025-11-12)
-- [Productivity app Hero announces an SDK that will complete your AI prompts for you](https://techcrunch.com/2025/11/12/productivity-app-hero-announces-an-sdk-that-will-complete-your-ai-prompts-for-you/) (2025-11-12)
-- [Radio streamer TuneIn acquired for $175M](https://techcrunch.com/2025/11/12/radio-streamer-tunein-acquired-for-175m/) (2025-11-12)
-- [Data centers now attract more investment than than finding new oil supplies](https://techcrunch.com/2025/11/12/data-centers-now-attract-more-investment-than-than-finding-new-oil-supplies/) (2025-11-12)
+- [‘Chad: The Brainrot IDE’ is a new Y Combinator-backed product so wild, people thought it was fake](https://techcrunch.com/2025/11/12/chad-the-brainrot-ide-is-a-new-y-combinator-backed-product-so-wild-people-thought-it-was-fake/) (2025-11-13)
+- [Cybersecurity firm Deepwatch lays off dozens, citing move to ‘accelerate’ AI investment](https://techcrunch.com/2025/11/12/cybersecurity-firm-deepwatch-lays-off-dozens-citing-move-to-accelerate-ai-investment/) (2025-11-12)
+- [ElevenLabs strike deals with celebs to create AI audio](https://techcrunch.com/2025/11/12/elevenlabs-strike-deals-with-celebs-to-create-ai-audio/) (2025-11-12)
+- [Elon Musk’s X botched its security key switchover, locking users out](https://techcrunch.com/2025/11/12/elon-musks-x-botched-its-security-key-switchover-locking-users-out/) (2025-11-12)
+- [Court rules that OpenAI violated German copyright law; ordered it to pay damages](https://techcrunch.com/2025/11/12/court-rules-that-openai-violated-german-copyright-law-ordered-it-to-pay-damages/) (2025-11-12)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Async and Finaliser Deadlocks](https://tratt.net/laurie/blog/2025/async_and_finaliser_deadlocks.html) (2025-11-12)
-- [Steam Machine](https://store.steampowered.com/sale/steammachine) (2025-11-12)
-- [Steam Frame](https://store.steampowered.com/sale/steamframe) (2025-11-12)
-- [Launch HN: JSX Tool (YC F25) – A Browser Dev-Panel IDE for React](https://news.ycombinator.com/item?id=45903161) (2025-11-12)
-- [Helm v4.0.0](https://github.com/helm/helm/releases/tag/v4.0.0) (2025-11-12)
+- [Louisiana Took Months to Sound Alarm Amid Whooping Cough Outbreak](https://undark.org/2025/11/11/louisiana-whooping-cough-slow/) (2025-11-13)
+- [Voyager 1 is a light-day away by November 2026](https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432) (2025-11-12)
+- [Jasmine: A Simple, Performant and Scalable Jax-Based World Modeling Codebase](https://arxiv.org/abs/2510.27002) (2025-11-12)
+- [Marble: A Multimodal World Model](https://www.worldlabs.ai/blog/marble-world-model) (2025-11-12)
+- [Homebrew no longer allows bypassing Gatekeeper for unsigned/unnotarized software](https://github.com/Homebrew/brew/issues/20755) (2025-11-12)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Valve has no news about Steam Deck 2](https://www.theverge.com/news/818313/valve-has-no-news-about-a-steam-deck-2) (2025-11-12)
-- [We tried Valve’s new VR headset, PC, and controller — ask us anything!](https://www.theverge.com/games/818113/valve-steam-frame-machine-controller-vr-headset-pc-ask-us-anything-ama) (2025-11-12)
-- [Valve’s new Steam Controller might be my dream controller](https://www.theverge.com/games/815061/valve-steam-controller-hands-on-deck-frame-machine) (2025-11-12)
-- [The Steam Frame is a surprising new twist on VR](https://www.theverge.com/games/816118/valve-steam-frame-vr-headset-streaming-arm-steamos-hands-on) (2025-11-12)
-- [Our first look at the Steam Machine, Valve’s ambitious new game console](https://www.theverge.com/tech/818111/valve-steam-machine-hands-on-preview-specs-announcement) (2025-11-12)
+- [Sony is making a Horizon MMO — here&#8217;s all the details](https://www.theverge.com/news/819657/horizon-steel-frontiers-mmo-sony-ncsoft-playstation) (2025-11-13)
+- [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop) (2025-11-12)
+- [The Steam Frame has two speakers on each side of your face for vibration cancellation](https://www.theverge.com/news/818599/valve-steam-frame-headset-speakers-head-strap-vibration-cancellation) (2025-11-12)
+- [Energy and tech news at UN climate negotiations in Brazil](https://www.theverge.com/news/819192/united-nations-climate-change-conference-brazil-updates) (2025-11-12)
+- [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals) (2025-11-12)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Corals survived past climate changes by retreating to the deeps](https://arstechnica.com/science/2025/11/corals-survived-past-climate-changes-by-retreating-to-the-deeps/) (2025-11-12)
-- [Meta’s star AI scientist Yann LeCun plans to leave for own startup](https://arstechnica.com/ai/2025/11/metas-star-ai-scientist-yann-lecun-plans-to-leave-for-own-startup/) (2025-11-12)
-- [Good Luck, Have Fun, Don’t Die trailer ushers in AI apocalypse](https://arstechnica.com/culture/2025/11/sam-rockwells-a-time-traveler-in-good-luck-have-fun-dont-die-trailer/) (2025-11-12)
-- [Review: New Framework Laptop 16 takes a fresh stab at the upgradeable laptop GPU](https://arstechnica.com/gadgets/2025/11/review-new-framework-laptop-16-takes-a-fresh-stab-at-the-upgradeable-laptop-gpu/) (2025-11-12)
-- [Formula with “cleanest ingredients” recalled after 15 babies get botulism](https://arstechnica.com/health/2025/11/formula-with-cleanest-ingredients-recalled-after-15-babies-get-botulism/) (2025-11-12)
+- [OpenAI walks a tricky tightrope with GPT-5.1’s eight new personalities](https://arstechnica.com/ai/2025/11/openai-walks-a-tricky-tightrope-with-gpt-5-1s-eight-new-personalities/) (2025-11-12)
+- [With another record broken, the world’s busiest spaceport keeps getting busier](https://arstechnica.com/space/2025/11/with-another-record-broken-the-worlds-busiest-spaceport-keeps-getting-busier/) (2025-11-12)
+- [Microsoft releases update-fixing update for update-eligible Windows 10 PCs](https://arstechnica.com/gadgets/2025/11/microsoft-releases-update-fixing-update-for-update-eligible-windows-10-pcs/) (2025-11-12)
+- [An explosion 92 million miles away just grounded Jeff Bezos’ New Glenn rocket](https://arstechnica.com/space/2025/11/an-explosion-92-million-miles-away-just-grounded-jeff-bezos-new-glenn-rocket/) (2025-11-12)
+- [Well-received big-budget Alien Earth TV series gets a second season](https://arstechnica.com/culture/2025/11/alien-earth-and-series-creator-noah-hawley-will-return-for-season-2/) (2025-11-12)
 
 </details>
 
@@ -97,35 +97,35 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [CNNs: from a beginner's point of view](https://dev.to/nicanor_korir/cnns-from-a-beginners-point-of-view-7ek) (2025-11-12)
-- [Introducing eventsourcing.dev: A Clear Guide to Event Sourcing](https://dev.to/patriceckhart/introducing-eventsourcingdev-a-clear-guide-to-event-sourcing-3hga) (2025-11-12)
-- [CinemaSins: Everything Wrong With Thunderbolts* (The New Avengers) In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-thunderbolts-the-new-avengers-in-20-minutes-or-less-37me) (2025-11-12)
-- [Mr Sunday Movies: Predators - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-predators-caravan-of-garbage-33m1) (2025-11-12)
-- [Git Deep Dive: Mastering rerere](https://dev.to/louis7/git-deep-dive-mastering-rerere-12jm) (2025-11-12)
+- [How We Built Coomia DataGPT — An AI Copilot for Data Analysis](https://dev.to/spancer/how-we-built-coomia-datagpt-an-ai-copilot-for-data-analysis-1k6k) (2025-11-13)
+- [Step-by-Step Lab: How to Create a Resource Group in Azure Portal](https://dev.to/ojosamuel129/step-by-step-lab-how-to-create-a-resource-group-in-azure-portal-2gg0) (2025-11-13)
+- [Recreating LinkedIn’s Crossclimb Game with Angular - Part 2](https://dev.to/this-is-angular/recreating-linkedins-crossclimb-game-with-angular-part-2-4a1n) (2025-11-13)
+- [10 Years in: Why I Still Google Everything (And Why I’m Finally Okay With It)](https://dev.to/keeganu/10-years-in-why-i-still-google-everything-and-why-im-finally-okay-with-it-3ca7) (2025-11-13)
+- [Building a Production RAG System for Resume Search: What Actually Worked (and What Didn't)](https://dev.to/harrywynn/building-a-production-rag-system-for-resume-search-what-actually-worked-and-what-didnt-3jaa) (2025-11-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How Rust Tests Itself: Inside compiletest and the Rustc Test Suite](https://medium.com/@theopinionatedev/how-rust-tests-itself-inside-compiletest-and-the-rustc-test-suite-13c3daa0a205?source=rss------programming-5) (2025-11-12)
-- [Content Security Policy: Your Website’s Bouncer](https://medium.com/@itz.aman.av/content-security-policy-your-websites-bouncer-7d40ae5f0fab?source=rss------programming-5) (2025-11-12)
-- [09367743135شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@6vjugfffuufufucyc/09367743135%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-d60e2f7f92f9?source=rss------programming-5) (2025-11-12)
-- [HTTP Status Codes: The Secret Language of the Web](https://medium.com/@itz.aman.av/http-status-codes-the-secret-language-of-the-web-e2a69953a946?source=rss------programming-5) (2025-11-12)
-- [09367743135شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@6vjugfffuufufucyc/09367743135%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-4cb266708916?source=rss------programming-5) (2025-11-12)
+- [09045080282شماره خاله تهران# شماره خاله تهران پارس# شماره خاله اسلامشهر# شماره خاله صیغه# شماره…](https://medium.com/@9kawkwkwmmwmwkw/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ae250773f135?source=rss------programming-5) (2025-11-13)
+- [09045080282شماره خاله تهران# شماره خاله تهران پارس# شماره خاله اسلامشهر# شماره خاله صیغه# شماره…](https://medium.com/@9kawkwkwmmwmwkw/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-badb64491452?source=rss------programming-5) (2025-11-13)
+- [09045080282شماره خاله تهران# شماره خاله تهران پارس# شماره خاله اسلامشهر# شماره خاله صیغه# شماره…](https://medium.com/@9kawkwkwmmwmwkw/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-f3800a134b04?source=rss------programming-5) (2025-11-13)
+- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@nfjncmbdnb/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-66b6c7a0a9ef?source=rss------programming-5) (2025-11-13)
+- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@nfjncmbdnb/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ddb8f230ffa1?source=rss------programming-5) (2025-11-13)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Introducing Our Final AWS Heroes of 2025](https://aws.amazon.com/blogs/aws/introducing-our-final-aws-heroes-of-2025/) (2025-11-12)
 - [Secure EKS clusters with the new support for Amazon EKS in AWS Backup](https://aws.amazon.com/blogs/aws/secure-eks-clusters-with-the-new-support-for-amazon-eks-in-aws-backup/) (2025-11-10)
 - [AWS Weekly Roundup: OpenAI partnership, Jane Goodall Institute research archive, and more (November 10, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-s3-amazon-ec2-and-more-november-10-2025/) (2025-11-10)
 - [Introducing AWS Capabilities by Region for easier Regional planning and faster global deployments](https://aws.amazon.com/blogs/aws/introducing-aws-capabilities-by-region-for-easier-regional-planning-and-faster-global-deployments/) (2025-11-06)
 - [AWS Weekly Roundup: Project Rainier online, Amazon Nova, Amazon Bedrock, and more (November 3, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-project-rainier-online-amazon-nova-amazon-bedrock-and-more-november-3-2025/) (2025-11-03)
-- [Build more accurate AI applications with Amazon Nova Web Grounding](https://aws.amazon.com/blogs/aws/build-more-accurate-ai-applications-with-amazon-nova-web-grounding/) (2025-10-28)
 
 </details>
 
@@ -165,11 +165,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Android developer verification: Early access starts now as we continue to build with your feedback](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html) (2025-11-12)
 - [Raising the bar on battery performance: excessive partial wake locks metric is now out of beta](https://android-developers.googleblog.com/2025/11/raising-bar-on-battery-performance.html) (2025-11-10)
 - [#WeArePlay: Meet the people making apps & games to improve your health](https://android-developers.googleblog.com/2025/11/weareplay-meet-people-making-apps-games.html) (2025-11-06)
 - [Health Connect Jetpack v1.1.0 is now available!](https://android-developers.googleblog.com/2025/11/health-connect-jetpack-v110-is-now.html) (2025-11-03)
 - [ML Kit’s Prompt API: Unlock Custom On-Device Gemini Nano Experiences](https://android-developers.googleblog.com/2025/10/ml-kit-genai-prompt-api-alpha-release.html) (2025-10-30)
-- [Kakao Mobility uses Gemini Nano on-device to reduce costs and boost call conversion by 45%](https://android-developers.googleblog.com/2025/10/kakao-mobility-uses-gemini-nano-on.html) (2025-10-30)
 
 </details>
 
@@ -308,11 +308,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Google Summer of Code 2025: What Our Contributors Built](https://blog.jetbrains.com/kotlin/2025/11/google-summer-of-code-2025/) (2025-11-12)
 - [What Developers Really Mean by “Bad Code”](https://blog.jetbrains.com/qodana/2025/11/what-is-bad-code/) (2025-11-12)
 - [JetBrains Plugin Developer Conf 2025 Recordings Are Now Live](https://blog.jetbrains.com/platform/2025/11/jetbrains-plugin-developer-conf-2025-recordings-are-now-live/) (2025-11-11)
 - [C# 14 Language Features in ReSharper and Rider 2025.3](https://blog.jetbrains.com/dotnet/2025/11/11/csharp-14-language-features-in-resharper-and-rider-2025-3/) (2025-11-11)
 - [What’s Been Fixed in Rider 2025.3](https://blog.jetbrains.com/dotnet/2025/11/11/what-s-been-fixed-in-rider-2025-3/) (2025-11-11)
-- [ReSharper C++ 2025.3: C++26 Language Support, Faster Unreal Engine Startup, and Visual Studio 2026 Compatibility](https://blog.jetbrains.com/rscpp/2025/11/11/resharper-cpp-2025-3/) (2025-11-11)
 
 </details>
 
@@ -330,11 +330,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [Achieve CMMC Level 2 with GitLab Dedicated for Government](https://about.gitlab.com/blog/achieve-cmmc-level-2-fast-with-gitlab-dedicated-for-government/) (2025-11-12)
 - [Secure AI agent deployment to GKE](https://about.gitlab.com/blog/secure-ai-agent-deployment-to-gke/) (2025-11-10)
 - [Migrate from pipeline variables to pipeline inputs for better security](https://about.gitlab.com/blog/migrate-from-pipeline-variables-to-pipeline-inputs-for-better-security/) (2025-11-04)
 - [Claude Sonnet 3.7 deprecation notice for GitLab Duo](https://about.gitlab.com/blog/claude-sonnet-3-7-deprecation-notice-for-gitlab-duo/) (2025-10-31)
 - [Ace your planning without the context-switching](https://about.gitlab.com/blog/ace-your-planning-without-the-context-switching/) (2025-10-28)
-- [Modernize Java applications quickly with GitLab Duo with Amazon Q](https://about.gitlab.com/blog/modernize-java-applications-quickly-with-gitlab-duo-with-amazon-q/) (2025-10-22)
 
 </details>
 
@@ -571,22 +571,22 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-whatsapp-for-bu
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Deploy Your AI Assistant to Monitor and Debug n8n Workflows Using Claude and MCP](https://towardsdatascience.com/deploy-your-ai-assistant-to-monitor-and-debug-n8n-workflows-using-claude-and-mcp/) (2025-11-12)
+- [The Ultimate Guide to Power BI Aggregations](https://towardsdatascience.com/power-bi-aggregations-the-ultimate-guide/) (2025-11-12)
 - [How to Evaluate Retrieval Quality in RAG Pipelines (Part 3): DCG@k and NDCG@k](https://towardsdatascience.com/how-to-evaluate-retrieval-quality-in-rag-pipelines-part-3-dcgk-and-ndcgk/) (2025-11-12)
 - [Feature Detection, Part 2: Laplace & Gaussian Operators](https://towardsdatascience.com/feature-detection-part-2-laplace-gaussian-operators/) (2025-11-12)
 - [Do You Really Need GraphRAG? A Practitioner’s Guide Beyond the Hype](https://towardsdatascience.com/do-you-really-need-graphrag-a-practitioners-guide-beyond-the-hype/) (2025-11-11)
-- [The Three Ages of Data Science: When to Use Traditional Machine Learning, Deep Learning, or an LLM (Explained with One Example)](https://towardsdatascience.com/the-three-ages-of-data-science-when-to-use-traditional-machine-learning-deep-learning-or-a-large-language-models-explained-with-one-example/) (2025-11-11)
-- [How to Build Agents with GPT-5](https://towardsdatascience.com/how-to-build-agents-with-gpt-5/) (2025-11-11)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [OpenAI Releases GPT 5.1: Here’s How it Performs!](https://www.analyticsvidhya.com/blog/2025/11/gpt-5-1/) (2025-11-12)
 - [10 Top Free AI Image Generation Tools: Nano Banana, Ideogram and More](https://www.analyticsvidhya.com/blog/2025/11/free-ai-image-generator-tools/) (2025-11-12)
 - [We Judged AI Models for Indian Experiences with the all-new Indic LLM-Arena](https://www.analyticsvidhya.com/blog/2025/11/indic-llm-arena/) (2025-11-12)
 - [Ace Your Exams with AI: Step-by-step Guide for Google Gemini as your Study Buddy](https://www.analyticsvidhya.com/blog/2025/11/gemini-for-exam-preparation/) (2025-11-12)
 - [DeepSeek OCR vs Qwen-3 VL vs Mistral OCR: Which is the Best?](https://www.analyticsvidhya.com/blog/2025/11/deepseek-ocr-vs-qwen-3-vl-vs-mistral-ocr/) (2025-11-11)
-- [Order Food From Your Terminal with Zomato MCP](https://www.analyticsvidhya.com/blog/2025/11/zomato-mcp-server/) (2025-11-11)
 
 </details>
 
