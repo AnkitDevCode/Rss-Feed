@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [In defense of Apple’s $230 iPhone sock](https://techcrunch.com/2025/11/13/in-defense-of-apples-230-iphone-sock/) (2025-11-13)
-- [Apple halves commissions for mini app makers](https://techcrunch.com/2025/11/13/apple-halves-commissions-for-mini-app-makers/) (2025-11-13)
-- [Police take down three cybercrime operations in latest round of ‘whack-a-mole’](https://techcrunch.com/2025/11/13/police-take-down-three-cybercrime-operations-in-latest-round-of-whack-a-mole/) (2025-11-13)
-- [The 10 companies that just launched from Betaworks latest startup camp](https://techcrunch.com/2025/11/13/the-10-companies-that-just-launched-from-betaworks-latest-startup-camp/) (2025-11-13)
-- [Tesla might finally bring CarPlay to its EVs](https://techcrunch.com/2025/11/13/tesla-might-finally-bring-carplay-to-its-evs/) (2025-11-13)
+- [VCs abandon old rules for a ‘funky time’ of investing in AI startups](https://techcrunch.com/2025/11/13/vcs-abandon-old-rules-for-a-funky-time-of-investing-in-ai-startups/) (2025-11-13)
+- [Blue Origin sticks first New Glenn rocket landing and launches NASA spacecraft](https://techcrunch.com/2025/11/13/blue-origin-sticks-first-new-glenn-rocket-landing-and-launches-nasa-spacecraft/) (2025-11-13)
+- [Build Mode starts at the beginning: How Forethought AI found product-market fit](https://techcrunch.com/2025/11/13/build-mode-starts-at-the-beginning-how-forethought-ai-found-product-market-fit/) (2025-11-13)
+- [Apple’s new App Review Guidelines clamp down on apps sharing personal data with ‘third-party AI’](https://techcrunch.com/2025/11/13/apples-new-app-review-guidelines-clamp-down-on-apps-sharing-personal-data-with-third-party-ai/) (2025-11-13)
+- [Uber quietly pilots in-app video recording for drivers in India](https://techcrunch.com/2025/11/13/uber-quietly-pilots-in-app-video-recording-for-drivers-in-india/) (2025-11-13)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Nano Banana can be prompt engineered for nuanced AI image generation](https://minimaxir.com/2025/11/nano-banana-prompts/) (2025-11-13)
-- [Let AI do the hard parts of your holiday shopping](https://blog.google/products/shopping/agentic-checkout-holiday-ai-shopping/) (2025-11-13)
-- [BAML is hiring compilers/rust engineers (YC W23)](https://github.com/BoundaryML/baml/tree/canary/jobs) (2025-11-13)
-- [The Monks in the Casino](https://www.derekthompson.org/p/the-monks-in-the-casino) (2025-11-13)
-- [Launch HN: Tweeks (YC W25) – Browser extension to de-enshittify the web](https://www.tweeks.io/onboarding) (2025-11-13)
+- [Apple Mini Apps Partner Program](https://developer.apple.com/programs/mini-apps-partner/) (2025-11-14)
+- [The emergence and diversification of dog morphology](https://www.science.org/doi/10.1126/science.adt0995) (2025-11-13)
+- [650GB of Data (Delta Lake on S3). Polars vs. DuckDB vs. Daft vs. Spark](https://dataengineeringcentral.substack.com/p/650gb-of-data-delta-lake-on-s3-polars) (2025-11-13)
+- [Blue Origin lands New Glenn rocket booster on second try](https://techcrunch.com/2025/11/13/blue-origin-lands-new-glenn-rocket-booster-on-second-try/) (2025-11-13)
+- [OpenMANET Wi-Fi HaLow open-source project for Raspberry Pi–based MANET radios](https://openmanet.net/) (2025-11-13)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Mozilla announces an AI ‘window’ for Firefox](https://www.theverge.com/news/820196/mozilla-firefox-ai-window-browser) (2025-11-13)
-- [The Fire TV Stick 4K Max is back down to $35, its best price in a year](https://www.theverge.com/tech/820121/amazon-fire-tv-stick-4k-max-early-black-friday-deal-sale) (2025-11-13)
-- [World Labs is betting on ‘world generation’ as the next AI frontier](https://www.theverge.com/ai-artificial-intelligence/820016/world-labs-is-betting-on-world-generation-as-the-next-ai-frontier) (2025-11-13)
-- [Tesla is recalling over 10,000 Powerwall 2 batteries due to burn risks](https://www.theverge.com/news/820123/tesla-recall-uscpsc-powerwall-2-batteries-overheat-fire-burn-hazard) (2025-11-13)
-- [Even Realities’ new smart glasses ditch cameras and speakers](https://www.theverge.com/news/820120/even-realities-g2-smart-glasses-r1-ring-launch-ai) (2025-11-13)
+- [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak) (2025-11-13)
+- [Apple TV is getting MLS games at no extra cost](https://www.theverge.com/news/820595/apple-tv-mls-games-bundle-no-extra-cost-subscription-season-pass) (2025-11-13)
+- [Starlink rival ‘Project Kuiper’ rebrands to Amazon Leo](https://www.theverge.com/news/820580/project-kuiper-amazon-leo-rebrand) (2025-11-13)
+- [Valve wants Half-Life: Alyx to work well standalone on Steam Frame](https://www.theverge.com/news/820503/valve-half-life-alyx-steam-frame-standalone-vr) (2025-11-13)
+- [Anthropic details how it measures Claude&#8217;s wokeness](https://www.theverge.com/news/819216/anthropic-claude-political-even-handedness-woke-ai) (2025-11-13)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Google will let Android power users bypass upcoming sideloading restrictions](https://arstechnica.com/gadgets/2025/11/google-will-let-android-power-users-bypass-upcoming-sideloading-restrictions/) (2025-11-13)
-- [Valve says it’s still waiting for better chips to power Steam Deck 2](https://arstechnica.com/gaming/2025/11/valve-says-its-still-waiting-for-better-chips-to-power-steam-deck-2/) (2025-11-13)
-- [Tracking the winds that have turned Mars into a planet of dust](https://arstechnica.com/science/2025/11/tracking-the-winds-that-have-turned-mars-into-a-planet-of-dust/) (2025-11-13)
-- [Waymo to roll out driverless taxis on highways in three US cities](https://arstechnica.com/cars/2025/11/waymo-to-roll-out-driverless-taxis-on-highways-in-three-us-cities/) (2025-11-13)
-- [What would a “simplified” Starship plan for the Moon actually look like?](https://arstechnica.com/space/2025/11/what-would-a-simplified-starship-plan-for-the-moon-actually-look-like/) (2025-11-13)
+- [This flu season looks grim as H3N2 emerges with mutations](https://arstechnica.com/health/2025/11/this-flu-season-looks-grim-as-h3n2-emerges-with-mutations/) (2025-11-13)
+- [Google claims win for everyone as text scammers lost their cloud server](https://arstechnica.com/tech-policy/2025/11/google-claims-win-for-everyone-as-text-scammers-lost-their-cloud-server/) (2025-11-13)
+- [Are you ready for a $1,000 Steam Machine? Some analysts think you should be.](https://arstechnica.com/gaming/2025/11/are-you-ready-for-a-1000-steam-machine-some-analysts-think-you-should-be/) (2025-11-13)
+- [Tiny chips hitch a ride on immune cells to sites of inflammation](https://arstechnica.com/science/2025/11/tiny-chips-hitch-a-ride-on-immune-cells-to-sites-of-inflammation/) (2025-11-13)
+- [What if the aliens come and we just can’t communicate?](https://arstechnica.com/science/2025/11/what-if-the-aliens-come-and-we-just-cant-communicate/) (2025-11-13)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [What’s Next for AI?](https://www.technologyreview.com/2025/11/13/1127930/whats-next-for-ai-2/) (2025-11-13)
 - [OpenAI’s new LLM exposes the secrets of how AI really works](https://www.technologyreview.com/2025/11/13/1127914/openais-new-llm-exposes-the-secrets-of-how-ai-really-works/) (2025-11-13)
 - [Google DeepMind is using Gemini to train agents inside Goat Simulator 3](https://www.technologyreview.com/2025/11/13/1127921/google-deepmind-is-using-gemini-to-train-agents-inside-goat-simulator-3/) (2025-11-13)
 - [The Download: AI to measure pain, and how to deal with conspiracy theorists](https://www.technologyreview.com/2025/11/13/1127911/the-download-ai-to-measure-pain-and-how-to-deal-with-conspiracy-theorists/) (2025-11-13)
 - [Google is still aiming for its “moonshot” 2030 energy goals](https://www.technologyreview.com/2025/11/13/1127896/google-energy-goals/) (2025-11-13)
-- [The Download: how to survive a conspiracy theory, and moldy cities](https://www.technologyreview.com/2025/11/12/1127881/the-download-how-to-survive-a-conspiracy-theory-and-moldy-cities/) (2025-11-12)
 
 </details>
 
@@ -97,55 +97,59 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [MCP x Cursor PoC: Rogue MCP Servers, IDE Browsers, and Real Defenses](https://dev.to/0xrelogic/mcp-x-cursor-poc-rogue-mcp-servers-ide-browsers-and-real-defenses-1dda) (2025-11-13)
-- [UI & UX Course in Pitampura — Start Your Creative Journey at ZICA Pitampura](https://dev.to/divyanshu_rai_a77de0a03ae/ui-ux-course-in-pitampura-start-your-creative-journey-at-zica-pitampura-3jif) (2025-11-13)
-- [Building a Take-Home Pay Calculator Using JavaScript and Open Data APIs](https://dev.to/johan_smith_44df8af459875/building-a-take-home-pay-calculator-using-javascript-and-open-data-apis-115h) (2025-11-13)
-- [AI Content Marketing: 2025 Strategy Guide](https://dev.to/synergistdigitalmedia/ai-content-marketing-2025-strategy-guide-1pc0) (2025-11-13)
-- [Inside the Edge: How Real-Time Data Pipelines Power Connected Devices](https://dev.to/abdul_shamim/inside-the-edge-how-real-time-data-pipelines-power-connected-devices-2m43) (2025-11-13)
+- [The "Right Tool for the Job" Stack: How I Built 8 Niche Sites](https://dev.to/ffteamnames/the-right-tool-for-the-job-stack-how-i-built-8-niche-sites-4i30) (2025-11-14)
+- [Automate NGINX Deployment on AWS EC2 Server using Bash Script](https://dev.to/taiwoakinbolaji/automate-nginx-deployment-on-aws-ec2-server-using-bash-script-5a92) (2025-11-14)
+- [Building an Enhanced PPO Trading Bot with Real-Time Data Sync and IBKR Integration](https://dev.to/jai_thumar/building-an-enhanced-ppo-trading-bot-with-real-time-data-sync-and-ibkr-integration-e0j) (2025-11-14)
+- [OmniNWM: Omniscient Driving Navigation World Models](https://dev.to/paperium/omninwm-omniscient-driving-navigation-world-models-ppi) (2025-11-14)
+- [👠 20년 만의 귀환, <악마는 프라다를 입는다 2>가 온다! 미란다와 앤드리아의 눈부신 재회 ✨](https://dev.to/docenty/20nyeon-manyi-gwihwan-ga-onda-mirandawa-aendeuriayi-nunbusin-jaehoe-2dlo) (2025-11-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09013027390شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@hsushssjjeid/09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-b7c7114065e6?source=rss------programming-5) (2025-11-13)
-- [09013027390شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@hsushssjjeid/09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-173ad13d1aef?source=rss------programming-5) (2025-11-13)
-- [I Read Every ‘NestJS Is Bad’ Rant — Here’s What Backend Engineers Are Getting Wrong](https://medium.com/@the_atomic_architect/i-read-every-nestjs-is-bad-rant-what-engineers-get-wrong-4245863ca1a9?source=rss------programming-5) (2025-11-13)
-- [The Generic Repository Pattern with EF Core — Why It Sucks (and What to Do Instead)](https://medium.com/@michaelmaurice410/the-generic-repository-pattern-with-ef-core-why-it-sucks-and-what-to-do-instead-575cfd1e0872?source=rss------programming-5) (2025-11-13)
-- [Token Authentication in ASP.NET Core 9 With JWT | Clean Architecture [NET 9]](https://medium.com/@mariammaurice/token-authentication-in-asp-net-core-9-with-jwt-clean-architecture-net-9-ae2729b1aa5b?source=rss------programming-5) (2025-11-13)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kydduiufxhiigcxfhug/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-53c98ae3711e?source=rss------programming-5) (2025-11-14)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@shq22879/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-50e10585f16e?source=rss------programming-5) (2025-11-14)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@shq22879/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-34e478ca19c9?source=rss------programming-5) (2025-11-14)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@shq22879/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-16bb7c08aa97?source=rss------programming-5) (2025-11-14)
+- [Why Python’s Built-In Batteries Are Your Code’s Secret Weapon](https://python.plainenglish.io/why-pythons-built-in-batteries-are-your-code-s-secret-weapon-308dd5b2af97?source=rss------programming-5) (2025-11-14)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Introducing AWS IoT Core Device Location integration with Amazon Sidewalk](https://aws.amazon.com/blogs/aws/introducing-aws-iot-core-device-location-integration-with-amazon-sidewalk/) (2025-11-13)
 - [Introducing Our Final AWS Heroes of 2025](https://aws.amazon.com/blogs/aws/introducing-our-final-aws-heroes-of-2025/) (2025-11-12)
 - [Secure EKS clusters with the new support for Amazon EKS in AWS Backup](https://aws.amazon.com/blogs/aws/secure-eks-clusters-with-the-new-support-for-amazon-eks-in-aws-backup/) (2025-11-10)
 - [AWS Weekly Roundup: OpenAI partnership, Jane Goodall Institute research archive, and more (November 10, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-s3-amazon-ec2-and-more-november-10-2025/) (2025-11-10)
 - [Introducing AWS Capabilities by Region for easier Regional planning and faster global deployments](https://aws.amazon.com/blogs/aws/introducing-aws-capabilities-by-region-for-easier-regional-planning-and-faster-global-deployments/) (2025-11-06)
-- [AWS Weekly Roundup: Project Rainier online, Amazon Nova, Amazon Bedrock, and more (November 3, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-project-rainier-online-amazon-nova-amazon-bedrock-and-more-november-3-2025/) (2025-11-03)
 
 </details>
 
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [The new era of Azure Ultra Disk: Experience the next generation of mission-critical block storage](https://azure.microsoft.com/en-us/blog/the-new-era-of-azure-ultra-disk-experience-the-next-generation-of-mission-critical-block-storage/) (2025-11-06)
 - [Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows](https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/) (2025-11-05)
 - [Microsoft strengthens sovereign cloud capabilities with new services](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/) (2025-11-05)
 - [Powering Distributed AI/ML at Scale with Azure and Anyscale](https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/) (2025-11-04)
 - [Enhancing software supply chain security with Microsoft’s Signing Transparency](https://azure.microsoft.com/en-us/blog/enhancing-software-supply-chain-security-with-microsofts-signing-transparency/) (2025-11-03)
-- [Resiliency in the cloud—empowered by shared responsibility and Azure Essentials](https://azure.microsoft.com/en-us/blog/resiliency-in-the-cloud-empowered-by-shared-responsibility-and-azure-essentials/) (2025-10-31)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [AI On: 3 Ways to Bring Agentic AI to Computer Vision Applications](https://blogs.nvidia.com/blog/ways-to-bring-agentic-ai-to-computer-vision-applications/) (2025-11-13)
 - [AWS, Google, Microsoft and OCI Boost AI Inference Performance for Cloud Customers With NVIDIA Dynamo](https://blogs.nvidia.com/blog/think-smart-dynamo-ai-inference-data-center/) (2025-11-13)
 - [GeForce NOW Enlists ‘Call of Duty: Black Ops 7’ for the Cloud](https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-black-ops-7/) (2025-11-13)
 - [NVIDIA Wins Every MLPerf Training v5.1 Benchmark](https://blogs.nvidia.com/blog/mlperf-training-benchmark-blackwell-ultra/) (2025-11-12)
 - [Faster Than a Click: Hyperlink Agent Search Now Available on NVIDIA RTX PCs](https://blogs.nvidia.com/blog/rtx-ai-garage-nexa-hyperlink-local-agent/) (2025-11-12)
-- [Fall Into Gaming With 20+ Titles Joining GeForce NOW in November](https://blogs.nvidia.com/blog/geforce-now-thursday-november-2025-games/) (2025-11-06)
 
 </details>
 
@@ -362,6 +366,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Inside the Conversational AI Revolution: What 5,000+ Consumers and Businesses Told Us 
+](
+https://www.twilio.com/en-us/blog/insights/inside-the-conversational-AI-revolution
+) (2025-11-13)
+- [
+VoIP texting: What it is and how to do it right
+](
+https://www.twilio.com/en-us/blog/voip-texting
+) (2025-11-12)
+- [
 Announcing General Availability of <Start><Recording> for Voice Recording
 ](
 https://www.twilio.com/en-us/blog/products/launches/general-availability-start-recording
@@ -376,16 +390,6 @@ SIGNAL Sydney 2025: A Sold‑out Debut on the Harbour
 ](
 https://www.twilio.com/en-us/blog/events/signal-sydney-2025-recap
 ) (2025-11-10)
-- [
-Auto-Instrumentation: The End of Manual Tracking
-](
-https://www.twilio.com/en-us/blog/products/launches/auto-instrumentation-end-of-manual-tracking
-) (2025-11-05)
-- [
-SMS vs. WhatsApp: What’s best for your business
-](
-https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-whatsapp-for-business
-) (2025-11-05)
 
 </details>
 
@@ -536,11 +540,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-whatsapp-for-bu
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [Beyond Quantization: Bringing Sparse Inference to PyTorch](https://pytorch.org/blog/beyond-quantization-bringing-sparse-inference-to-pytorch/) (2025-11-13)
 - [KernelFalcon: Autonomous GPU Kernel Generation via Deep Agents](https://pytorch.org/blog/kernelfalcon-autonomous-gpu-kernel-generation-via-deep-agents/) (2025-11-06)
 - [Hybrid Models as First-Class Citizens in vLLM](https://pytorch.org/blog/hybrid-models-as-first-class-citizens-in-vllm/) (2025-11-05)
 - [Monarch + Lightning AI: Unlocking New Possibilities in Distributed Training](https://pytorch.org/blog/integration-idea-monarch/) (2025-10-22)
 - [torchcomms: a modern PyTorch communications API](https://pytorch.org/blog/torchcomms/) (2025-10-22)
-- [Helion: A High-Level DSL for Performant and Portable ML Kernels](https://pytorch.org/blog/helion/) (2025-10-22)
 
 </details>
 
