@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Inside Harvey: How a first-year legal associate built one of Silicon Valley’s hottest startups](https://techcrunch.com/2025/11/14/inside-harvey-how-a-first-year-legal-associate-built-one-of-silicon-valleys-hottest-startups/) (2025-11-14)
+- [ChatGPT launches pilot group chats across Japan, New Zealand, South Korea, and Taiwan](https://techcrunch.com/2025/11/14/chatgpt-launches-pilot-group-chats-across-japan-new-zealand-south-korea-and-taiwan/) (2025-11-14)
 - [VCs abandon old rules for a ‘funky time’ of investing in AI startups](https://techcrunch.com/2025/11/13/vcs-abandon-old-rules-for-a-funky-time-of-investing-in-ai-startups/) (2025-11-13)
 - [Blue Origin sticks first New Glenn rocket landing and launches NASA spacecraft](https://techcrunch.com/2025/11/13/blue-origin-sticks-first-new-glenn-rocket-landing-and-launches-nasa-spacecraft/) (2025-11-13)
 - [Build Mode starts at the beginning: How Forethought AI found product-market fit](https://techcrunch.com/2025/11/13/build-mode-starts-at-the-beginning-how-forethought-ai-found-product-market-fit/) (2025-11-13)
-- [Apple’s new App Review Guidelines clamp down on apps sharing personal data with ‘third-party AI’](https://techcrunch.com/2025/11/13/apples-new-app-review-guidelines-clamp-down-on-apps-sharing-personal-data-with-third-party-ai/) (2025-11-13)
-- [Uber quietly pilots in-app video recording for drivers in India](https://techcrunch.com/2025/11/13/uber-quietly-pilots-in-app-video-recording-for-drivers-in-india/) (2025-11-13)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [How to Get a North Korea / Antarctica VPS](https://blog.lyc8503.net/en/post/asn-5-worldwide-servers/) (2025-11-14)
-- [Apple Mini Apps Partner Program](https://developer.apple.com/programs/mini-apps-partner/) (2025-11-14)
-- [Kubernetes Ingress Nginx is retiring](https://www.kubernetes.dev/blog/2025/11/12/ingress-nginx-retirement/) (2025-11-13)
-- [650GB of Data (Delta Lake on S3). Polars vs. DuckDB vs. Daft vs. Spark](https://dataengineeringcentral.substack.com/p/650gb-of-data-delta-lake-on-s3-polars) (2025-11-13)
-- [Blue Origin lands New Glenn rocket booster on second try](https://techcrunch.com/2025/11/13/blue-origin-lands-new-glenn-rocket-booster-on-second-try/) (2025-11-13)
+- [Gnome 50 Ends the X11 Era After Decades](https://linuxiac.com/gnome-50-ends-the-x11-era-after-decades/) (2025-11-14)
+- [Show HN: Encore – Type-safe back end framework that generates infra from code](https://github.com/encoredev/encore) (2025-11-14)
+- [V8 Garbage Collector](https://wingolog.org/archives/2025/11/13/the-last-couple-years-in-v8s-garbage-collector) (2025-11-14)
+- [Show HN: Pegma, the free and open-source version of the classic Peg solitaire](https://pegma.vercel.app) (2025-11-14)
+- [RegreSQL: Regression Testing for PostgreSQL Queries](https://boringsql.com/posts/regresql-testing-queries/) (2025-11-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [WhatsApp is launching third-party chat integration in Europe](https://www.theverge.com/news/820858/whatsapp-third-party-messaging-date-eu-e2ee) (2025-11-14)
+- [I rode in one of the UK’s first self-driving cars](https://www.theverge.com/report/820324/wayve-driverless-robotaxi-london) (2025-11-14)
 - [What insiders anonymously think about the AI race](https://www.theverge.com/column/820664/cerebral-valley-conference-ai-anonymous-survey) (2025-11-14)
 - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak) (2025-11-13)
 - [Apple TV is getting MLS games at no extra cost](https://www.theverge.com/news/820595/apple-tv-mls-games-bundle-no-extra-cost-subscription-season-pass) (2025-11-13)
-- [Starlink rival ‘Project Kuiper’ rebrands to Amazon Leo](https://www.theverge.com/news/820580/project-kuiper-amazon-leo-rebrand) (2025-11-13)
-- [Valve wants Half-Life: Alyx to work well standalone on Steam Frame](https://www.theverge.com/news/820503/valve-half-life-alyx-steam-frame-standalone-vr) (2025-11-13)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [These technologies could help put a stop to animal testing](https://www.technologyreview.com/2025/11/14/1127949/technologies-could-stop-animal-testing/) (2025-11-14)
 - [What’s Next for AI?](https://www.technologyreview.com/2025/11/13/1127930/whats-next-for-ai-2/) (2025-11-13)
 - [OpenAI’s new LLM exposes the secrets of how AI really works](https://www.technologyreview.com/2025/11/13/1127914/openais-new-llm-exposes-the-secrets-of-how-ai-really-works/) (2025-11-13)
 - [Google DeepMind is using Gemini to train agents inside Goat Simulator 3](https://www.technologyreview.com/2025/11/13/1127921/google-deepmind-is-using-gemini-to-train-agents-inside-goat-simulator-3/) (2025-11-13)
 - [The Download: AI to measure pain, and how to deal with conspiracy theorists](https://www.technologyreview.com/2025/11/13/1127911/the-download-ai-to-measure-pain-and-how-to-deal-with-conspiracy-theorists/) (2025-11-13)
-- [Google is still aiming for its “moonshot” 2030 energy goals](https://www.technologyreview.com/2025/11/13/1127896/google-energy-goals/) (2025-11-13)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Rekichizu: A Modern Take on Japan's Historical Maps](https://dev.to/mierune/rekichizu-a-modern-take-on-japans-historical-maps-53gp) (2025-11-14)
-- [📝 React Router Data APIs — The Complete Beginner-Friendly Guide (2025 Edition)](https://dev.to/vishwark/react-router-data-apis-the-complete-beginner-friendly-guide-2025-edition-46cn) (2025-11-14)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-4k4m) (2025-11-14)
-- [From File Chaos to Clean Catalog: How AI Batch Tools Organize & Remove Backgrounds at Scale](https://dev.to/freepixel11/from-file-chaos-to-clean-catalog-how-ai-batch-tools-organize-remove-backgrounds-at-scale-o33) (2025-11-14)
-- [Next.jsでQiita風の見出しアンカーリンクを実装する方法](https://dev.to/beachone1155/nextjsdeqiitafeng-nojian-chu-siankarinkuwoshi-zhuang-surufang-fa-bkj) (2025-11-14)
+- [Setting Up Better-Auth in Next.js with Kysely + Prisma Schema](https://dev.to/golamrabbani/setting-up-better-auth-in-nextjs-with-kysely-prisma-schema-2c0p) (2025-11-14)
+- [SaijinOS Part 10 — Pandora System: Transforming Fractured Personas Into Hope](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-10-pandora-system-transforming-fractured-personas-into-hope-4l83) (2025-11-14)
+- [building Banana AI](https://dev.to/232_123_ea31db9ef368c7c61/building-banana-ai-3ei0) (2025-11-14)
+- [SaijinOS Part 9 — Multi-Persona Co-Creation Protocol](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-9-multi-persona-co-creation-protocol-2bep) (2025-11-14)
+- [Anatomy of a Cloud Collapse: A Technical Deep-Dive on the AWS Outage of October 2025](https://dev.to/harshith_reddy_dev/anatomy-of-a-cloud-collapse-a-technical-deep-dive-on-the-aws-outage-of-october-2025-2mj4) (2025-11-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Code Coverage Tools — measuring test effectiveness with Jacoco or Cobertura](https://medium.com/@vallabhsangale7/code-coverage-tools-measuring-test-effectiveness-with-jacoco-or-cobertura-d552f3378c37?source=rss------programming-5) (2025-11-14)
-- [Day 10 — Evaluation Metrics in Machine Learning: How to Measure Model Performance the Right Way](https://medium.com/@ShubhamVerma28/day-10-evaluation-metrics-in-machine-learning-how-to-measure-model-performance-the-right-way-1445e67308dc?source=rss------programming-5) (2025-11-14)
-- [ The Ultimate Guide to HttpClientFactory in C#: Master the Art of HTTP Calls](https://medium.com/@hpultimatemedia/the-ultimate-guide-to-httpclientfactory-in-c-master-the-art-of-http-calls-10c9f3dfa4a8?source=rss------programming-5) (2025-11-14)
-- [Dart Features You’re Probably Not Using (But Should!)](https://medium.com/easy-flutter/dart-features-youre-probably-not-using-but-should-e4a4f028f44e?source=rss------programming-5) (2025-11-14)
-- [I Failed 12 ML Interviews Before Realizing What Companies Actually Hire For](https://medium.com/@premchandak_11/i-failed-12-ml-interviews-before-realizing-what-companies-actually-hire-for-7f7ccef5cf53?source=rss------programming-5) (2025-11-14)
+- [09960831470](https://medium.com/@nazy37792/09960831470-e28ce0c355f8?source=rss------programming-5) (2025-11-14)
+- [09960831470](https://medium.com/@nazy37792/09960831470-0d180eeb2c9f?source=rss------programming-5) (2025-11-14)
+- [Why Staff Engineers Write Code Completely Differently (And Why It Survives Reorgs)](https://medium.com/@noahblogwriter2025/why-staff-engineers-write-code-completely-differently-and-why-it-survives-reorgs-9ba805df2a87?source=rss------programming-5) (2025-11-14)
+- [Python’s Magical Swap Trick: How It Switches Values Without a Temporary Variable](https://sourabh-phpdev.medium.com/pythons-magical-swap-trick-how-it-switches-values-without-a-temporary-variable-38cbea9ef718?source=rss------programming-5) (2025-11-14)
+- [10 VS Code Extensions Every React & React Native Developer Needs ](https://medium.com/@pasindu.mahima/10-vs-code-extensions-every-react-react-native-developer-needs-08e709231010?source=rss------programming-5) (2025-11-14)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Fully managed cloud-to-cloud transfers with Azure Storage Mover](https://azure.microsoft.com/en-us/blog/fully-managed-cloud-to-cloud-transfers-with-azure-storage-mover/) (2025-10-23)
-- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2025-10-22)
-- [The Signals Loop: Fine-tuning for world-class AI apps and agents ](https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/) (2025-10-21)
-- [Innovation spotlight: How 3 customers are driving change with migration to Azure SQL](https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/) (2025-10-20)
-- [From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available](https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/) (2025-10-16)
+- [Microsoft strengthens sovereign cloud capabilities with new services](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/) (2025-11-05)
+- [Powering Distributed AI/ML at Scale with Azure and Anyscale](https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/) (2025-11-04)
+- [Enhancing software supply chain security with Microsoft’s Signing Transparency](https://azure.microsoft.com/en-us/blog/enhancing-software-supply-chain-security-with-microsofts-signing-transparency/) (2025-11-03)
+- [Resiliency in the cloud—empowered by shared responsibility and Azure Essentials](https://azure.microsoft.com/en-us/blog/resiliency-in-the-cloud-empowered-by-shared-responsibility-and-azure-essentials/) (2025-10-31)
+- [GitHub Universe 2025: Where developer innovation took center stage](https://azure.microsoft.com/en-us/blog/github-universe-2025-where-developer-innovation-took-center-stage/) (2025-10-30)
 
 </details>
 
@@ -362,16 +362,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Inside the Conversational AI Revolution: What 5,000+ Consumers and Businesses Told Us 
-](
-https://www.twilio.com/en-us/blog/insights/inside-the-conversational-AI-revolution
-) (2025-11-13)
-- [
-VoIP texting: What it is and how to do it right
-](
-https://www.twilio.com/en-us/blog/voip-texting
-) (2025-11-12)
-- [
 Announcing General Availability of <Start><Recording> for Voice Recording
 ](
 https://www.twilio.com/en-us/blog/products/launches/general-availability-start-recording
@@ -386,6 +376,16 @@ SIGNAL Sydney 2025: A Sold‑out Debut on the Harbour
 ](
 https://www.twilio.com/en-us/blog/events/signal-sydney-2025-recap
 ) (2025-11-10)
+- [
+Auto-Instrumentation: The End of Manual Tracking
+](
+https://www.twilio.com/en-us/blog/products/launches/auto-instrumentation-end-of-manual-tracking
+) (2025-11-05)
+- [
+SMS vs. WhatsApp: What’s best for your business
+](
+https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-whatsapp-for-business
+) (2025-11-05)
 
 </details>
 
@@ -558,33 +558,33 @@ https://www.twilio.com/en-us/blog/events/signal-sydney-2025-recap
 <details>
 <summary>🤖 AI News</summary>
 
+- [Anthropic details cyber espionage campaign orchestrated by AI](https://www.artificialintelligence-news.com/news/anthropic-details-cyber-espionage-campaign-orchestrated-by-ai/) (2025-11-14)
+- [Visa builds AI commerce infrastructure for the Asia Pacific’s 2026 Pilot](https://www.artificialintelligence-news.com/news/visa-ai-commerce-intelligent-commerce-2026/) (2025-11-14)
 - [IBM: Data silos are holding back enterprise AI](https://www.artificialintelligence-news.com/news/ibm-data-silos-are-holding-back-enterprise-ai/) (2025-11-13)
 - [New data centre projects mark Anthropic’s biggest US expansion yet](https://www.artificialintelligence-news.com/news/new-data-centre-projects-mark-anthropic-biggest-us-expansion/) (2025-11-13)
 - [Baidu ERNIE multimodal AI beats GPT and Gemini in benchmarks](https://www.artificialintelligence-news.com/news/baidu-ernie-multimodal-ai-gpt-and-gemini-benchmarks/) (2025-11-12)
-- [Google reveals its own version of Apple’s AI cloud](https://www.artificialintelligence-news.com/news/google-reveals-its-own-version-of-apple-ai-cloud/) (2025-11-12)
-- [Wiz: Security lapses emerge amid the global AI race](https://www.artificialintelligence-news.com/news/wiz-security-lapses-emerge-amid-global-ai-race/) (2025-11-11)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Critical Mistakes Companies Make When Integrating AI/ML into Their Processes](https://towardsdatascience.com/critical-mistakes-companies-make-when-integrating-ai-ml-into-their-processes/) (2025-11-14)
 - [LLMs Are Randomized Algorithms](https://towardsdatascience.com/llms-are-randomized-algorithms/) (2025-11-13)
 - [Robotics with Python: Q-Learning vs Actor-Critic vs Evolutionary Algorithms](https://towardsdatascience.com/reinforcement-learning-for-robotics-complete-tutorial/) (2025-11-13)
 - [Organizing Code, Experiments, and Research for Kaggle Competitions](https://towardsdatascience.com/organizing-code-experiments-and-research-for-kaggle-competitions/) (2025-11-13)
 - [Spearman Correlation Coefficient for When Pearson Isn’t Enough](https://towardsdatascience.com/spearman-correlation-coefficient-for-when-pearson-isnt-enough/) (2025-11-13)
-- [Deploy Your AI Assistant to Monitor and Debug n8n Workflows Using Claude and MCP](https://towardsdatascience.com/deploy-your-ai-assistant-to-monitor-and-debug-n8n-workflows-using-claude-and-mcp/) (2025-11-12)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [How to Build a Chatbot Using Kimi K2 Thinking?](https://www.analyticsvidhya.com/blog/2025/11/building-chatbot-using-kimi-k2/) (2025-11-14)
 - [OpenAI Releases GPT 5.1: Here’s How it Performs!](https://www.analyticsvidhya.com/blog/2025/11/gpt-5-1-thinking-and-instant/) (2025-11-13)
 - [ERNIE-4.5-VL Review: “Thinking with Images” in a 3B Model](https://www.analyticsvidhya.com/blog/2025/11/ernie-4-5-vl-review/) (2025-11-13)
 - [Top 10 Free AI Image Generation Tools: Nano Banana, Ideogram and More](https://www.analyticsvidhya.com/blog/2025/11/free-ai-image-generator-tools/) (2025-11-12)
 - [We Judged AI Models for Indian Experiences with the all-new Indic LLM-Arena](https://www.analyticsvidhya.com/blog/2025/11/indic-llm-arena/) (2025-11-12)
-- [Ace Your Exams with AI: Step-by-step Guide for Google Gemini as your Study Buddy](https://www.analyticsvidhya.com/blog/2025/11/gemini-for-exam-preparation/) (2025-11-12)
 
 </details>
 
@@ -602,11 +602,11 @@ https://www.twilio.com/en-us/blog/events/signal-sydney-2025-recap
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Mastering JSON Prompting for LLMs](https://machinelearningmastery.com/mastering-json-prompting-for-llms/) (2025-11-14)
 - [5 Essential Python Scripts for Intermediate Machine Learning Practitioners](https://machinelearningmastery.com/5-essential-python-scripts-for-intermediate-machine-learning-practitioners/) (2025-11-13)
 - [Datasets for Training a Language Model](https://machinelearningmastery.com/datasets-for-training-a-language-model/) (2025-11-12)
 - [Building ReAct Agents with LangGraph: A Beginner’s Guide](https://machinelearningmastery.com/building-react-agents-with-langgraph-a-beginners-guide/) (2025-11-12)
 - [Expert-Level Feature Engineering: Advanced Techniques for High-Stakes Models](https://machinelearningmastery.com/expert-level-feature-engineering-advanced-techniques-for-high-stakes-models/) (2025-11-11)
-- [Everything You Need to Know About LLM Evaluation Metrics](https://machinelearningmastery.com/everything-you-need-to-know-about-llm-evaluation-metrics/) (2025-11-10)
 
 </details>
 
