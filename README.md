@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Disney and YouTube TV reach deal to end blackout](https://techcrunch.com/2025/11/15/disney-and-youtube-tv-reach-deal-to-end-blackout/) (2025-11-15)
 - [Leaked documents shed light into how much OpenAI pays Microsoft](https://techcrunch.com/2025/11/14/leaked-documents-shed-light-into-how-much-openai-pays-microsoft/) (2025-11-15)
 - [Databricks co-founder argues US must go open source to beat China in AI](https://techcrunch.com/2025/11/14/databricks-co-founder-argues-us-must-go-open-source-to-beat-china-in-ai/) (2025-11-14)
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/11/14/tech-layoffs-2025-list/) (2025-11-14)
 - [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/11/14/chatgpt-everything-to-know-about-the-ai-chatbot/) (2025-11-14)
-- [Tesla releases detailed safety report after Waymo co-CEO called for more data](https://techcrunch.com/2025/11/14/tesla-releases-detailed-safety-report-after-waymo-co-ceo-called-for-more-data/) (2025-11-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Activeloop (YC S18) Is Hiring MTS(Back End)and AI Search Engineer](https://careers.activeloop.ai/) (2025-11-15)
-- [Our investigation into the suspicious pressure on Archive.today](https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html) (2025-11-15)
-- [One Handed Keyboard](https://github.com/htx-studio/One-Handed-Keyboard) (2025-11-15)
-- [NATO Ended Russia's Estonian Air Incursions](https://themilitaryanalyst.com/2025/11/13/the-real-story-how-nato-ended-russias-estonian-air-incursions/) (2025-11-15)
-- [Spec-Driven Development: The Waterfall Strikes Back](https://marmelab.com/blog/2025/11/12/spec-driven-development-waterfall-strikes-back.html) (2025-11-15)
+- [I implemented an ISO 42001-certified AI Governance program in 6 months](https://beabytes.com/iso42001-certified-ai-governance/) (2025-11-15)
+- [Trellis AI (YC W24) Is Hiring: Streamline access to life-saving therapies](https://www.ycombinator.com/companies/trellis-ai/jobs/f4GWvH0-forward-deployed-engineer-full-time) (2025-11-15)
+- [Windhawk Windows classic theme mod for Windows 11](https://windhawk.net/mods/classic-theme-enable) (2025-11-15)
+- [The Mighty Simplex (2023)](https://galileo-unbound.blog/2023/05/03/the-mighty-simplex/) (2025-11-15)
+- [Wealth](https://saul.pw/mag/wealth/) (2025-11-15)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [YouTube TV, ESPN, and Disney: the latest on the blackout that’s now over](https://www.theverge.com/news/817403/youtube-tv-disney-espn-blackout-updates) (2025-11-15)
-- [Disney and ESPN are back on YouTube TV](https://www.theverge.com/news/821581/disney-youtube-tv-deal-agreement-espn) (2025-11-15)
-- [The best early Black Friday deals we’ve found so far on laptops, TVs, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025) (2025-11-14)
-- [A recent Switch 2 update blocks some third-party docks, but Nintendo isn’t saying why](https://www.theverge.com/news/821250/switch-2-update-third-party-dock-update-blocked) (2025-11-14)
-- [Paramount Skydance is working on a new Star Trek movie](https://www.theverge.com/entertainment/821219/paramount-skydance-star-trak-movie-jonathan-goldstein-john-francis-daley) (2025-11-14)
+- [Here are 25 of our favorite outdoorsy deals from REI’s massive Holiday Sale](https://www.theverge.com/gadgets/821397/best-rei-holiday-sale-2025-deals) (2025-11-15)
+- [Possessor(s) is a fast-paced action game that gets off to a slow start](https://www.theverge.com/games/821117/possessors-review-pc-ps5) (2025-11-15)
+- [How to find music you will love without the algorithm](https://www.theverge.com/report/821614/discover-music-without-algorithms) (2025-11-15)
+- [Framework’s franken-laptop is back with big chip upgrades and familiar frustrations](https://www.theverge.com/tech/821420/framework-laptop-16-2025-nvidia-rtx5070-review) (2025-11-15)
+- [The Steam Machine feels like the TV gaming PC I’ve always wanted](https://www.theverge.com/games/818606/valve-steam-machine-tv-gaming-pc-wanted) (2025-11-15)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Wyoming dinosaur mummies give us a new view of duck-billed species](https://arstechnica.com/science/2025/11/wyoming-dinosaur-mummies-give-us-a-new-view-of-duck-billed-species/) (2025-11-15)
 - [US may owe $1 trillion in refunds if SCOTUS cancels Trump tariffs](https://arstechnica.com/tech-policy/2025/11/tariff-refunds-may-get-messy-if-trump-loses-supreme-court-fight/) (2025-11-14)
 - [The twin probes just launched toward Mars have an Easter egg on board](https://arstechnica.com/space/2025/11/the-twin-probes-just-launched-toward-mars-have-an-easter-egg-on-board/) (2025-11-14)
 - [As shutdown ends, dubious CDC panel gets back to dismantling vaccine schedule](https://arstechnica.com/health/2025/11/as-shutdown-ends-dubious-cdc-panel-gets-back-to-dismantling-vaccine-schedule/) (2025-11-14)
 - [How two Nissan Leafs help make a regional airport more resilient](https://arstechnica.com/cars/2025/11/california-airport-tries-out-bidirectional-ev-charging-microgrid/) (2025-11-14)
-- [“How about no”: FCC boss Brendan Carr says he won’t end news distortion probes](https://arstechnica.com/tech-policy/2025/11/how-about-no-fcc-boss-brendan-carr-says-he-wont-end-news-distortion-probes/) (2025-11-14)
 
 </details>
 
@@ -97,22 +97,24 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How to Divide Long Articles on Blogger to Avoid Boring](https://dev.to/hayatul_makki_1c7007a1488/how-to-divide-long-articles-on-blogger-to-avoid-boring-mb2) (2025-11-15)
-- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-2566) (2025-11-15)
-- [Web3!](https://dev.to/riettah/web3-g69) (2025-11-15)
-- [Build a Secure Blazor WebAssembly App with ASP.NET Core 10 and JWT Authentication](https://dev.to/djamware_tutorial_eba1a61/build-a-secure-blazor-webassembly-app-with-aspnet-core-10-and-jwt-authentication-3e7c) (2025-11-15)
-- [Stop Casting a Wide Net. Start Spear-Phishing: A Developer's Guide to Account-Based Marketing](https://dev.to/michaelaiglobal/stop-casting-a-wide-net-start-spear-phishing-a-developers-guide-to-account-based-marketing-15p3) (2025-11-15)
+- [The Linux App Structure Explained: Working with /opt, Desktop Entries, and sudo tee](https://dev.to/rijultp/the-linux-app-structure-explained-working-with-opt-desktop-entries-and-sudo-tee-1fl7) (2025-11-15)
+- [Building a chatbot in Rust powered by Gemini Flash Models.
+
+It's pretty cool.](https://dev.to/btejas/building-a-chatbot-in-rust-powered-by-gemini-flash-modelsits-pretty-cool-eh6) (2025-11-15)
+- [SRT Pendulum System Recently Failed? Solutions for Programmer Energy Workers](https://dev.to/kassius_jupiter_725bb6799/srt-pendulum-system-recently-failed-solutions-for-programmer-energy-workers-bmi) (2025-11-15)
+- [AI-Powered End-to-End Testing: A New Paradigm for Software Quality Assurance](https://dev.to/pietrocontadini/ai-powered-end-to-end-testing-a-new-paradigm-for-software-quality-assurance-1f5n) (2025-11-15)
+- [Building a crypto tool as a solo developer](https://dev.to/rai_moh_c69ab6ccdf3efc528/building-a-crypto-tool-as-a-solo-developer-34eb) (2025-11-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09360627233شماره خاله اصفهان شماره خاله تهران شماره خاله شیراز شماره خاله کرج شماره خاله اسلامشهر…](https://medium.com/@nrgs56022/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-7f6dca18d6cc?source=rss------programming-5) (2025-11-15)
-- [09360627233شماره خاله اصفهان شماره خاله تهران شماره خاله شیراز شماره خاله کرج شماره خاله اسلامشهر…](https://medium.com/@nrgs56022/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-3217e942f53b?source=rss------programming-5) (2025-11-15)
-- [09360627233شماره خاله اصفهان شماره خاله تهران شماره خاله شیراز شماره خاله کرج شماره خاله اسلامشهر…](https://medium.com/@nrgs56022/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-5ba48aef4075?source=rss------programming-5) (2025-11-15)
-- [DevOps Guide to Python 3.14: Containers, Builds, and Secure Deploys](https://python.plainenglish.io/devops-guide-to-python-3-14-containers-builds-and-secure-deploys-6ee79ac1d37b?source=rss------programming-5) (2025-11-15)
-- [0933 408 24 20شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@niinubninoibhucivmonibijijojob/0933-408-24-20%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-f024a978d732?source=rss------programming-5) (2025-11-15)
+- [Struct vs Class in Unity: The Full, Funny, Overly-Descriptive Guide You’ll Never Forget](https://medium.com/@rohan5210work/struct-vs-class-in-unity-the-full-funny-overly-descriptive-guide-youll-never-forget-623b91398afa?source=rss------programming-5) (2025-11-15)
+- [How to Practice SQL Effectively in 2025 (The Only Approach That Actually Works)](https://medium.com/@nandanpatil8/how-to-practice-sql-effectively-in-2025-the-only-approach-that-actually-works-8815cf19ffa9?source=rss------programming-5) (2025-11-15)
+- [Managing Permissions With EF Core Migrations in ASP.NET Core 9 | Full Guide](https://medium.com/@mariammaurice/managing-permissions-with-ef-core-migrations-in-asp-net-core-9-full-guide-92229a0da4d5?source=rss------programming-5) (2025-11-15)
+- [The INSANE Performance Boost of CQRS Read Models (Yes, It’s That Good)](https://medium.com/@michaelmaurice410/the-insane-performance-boost-of-cqrs-read-models-yes-its-that-good-4d968014c3dd?source=rss------programming-5) (2025-11-15)
+- [09013027390شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@hsnn44342/09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-8c80d1948458?source=rss------programming-5) (2025-11-15)
 
 </details>
 
@@ -130,11 +132,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Infinite scale: The architecture behind the Azure AI superfactory](https://aka.ms/AAyjgcy) (2025-11-12)
-- [Securing our future: November 2025 progress report on Microsoft’s Secure Future Initiative](https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/) (2025-11-10)
-- [The new era of Azure Ultra Disk: Experience the next generation of mission-critical block storage](https://azure.microsoft.com/en-us/blog/the-new-era-of-azure-ultra-disk-experience-the-next-generation-of-mission-critical-block-storage/) (2025-11-06)
-- [Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows](https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/) (2025-11-05)
 - [Microsoft strengthens sovereign cloud capabilities with new services](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/) (2025-11-05)
+- [Powering Distributed AI/ML at Scale with Azure and Anyscale](https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/) (2025-11-04)
+- [Enhancing software supply chain security with Microsoft’s Signing Transparency](https://azure.microsoft.com/en-us/blog/enhancing-software-supply-chain-security-with-microsofts-signing-transparency/) (2025-11-03)
+- [Resiliency in the cloud—empowered by shared responsibility and Azure Essentials](https://azure.microsoft.com/en-us/blog/resiliency-in-the-cloud-empowered-by-shared-responsibility-and-azure-essentials/) (2025-10-31)
+- [GitHub Universe 2025: Where developer innovation took center stage](https://azure.microsoft.com/en-us/blog/github-universe-2025-where-developer-innovation-took-center-stage/) (2025-10-30)
 
 </details>
 
@@ -570,11 +572,11 @@ https://www.twilio.com/en-us/blog/events/signal-sydney-2025-recap
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Automate Workflows with AI](https://towardsdatascience.com/how-to-automate-workflows-with-ai/) (2025-11-15)
+- [I Measured Neural Network Training Every 5 Steps for 10,000 Iterations](https://towardsdatascience.com/i-measured-neural-network-training-every-5-steps-for-10000-iterations/) (2025-11-15)
 - [“The success of an AI product depends on how intuitively users can interact with its capabilities”](https://towardsdatascience.com/the-success-of-an-ai-product-depends-on-how-intuitively-users-can-interact-with-its-capabilities/) (2025-11-14)
 - [How to Crack Machine Learning System-Design Interviews](https://towardsdatascience.com/cracking-machine-learning-system-design-interviews/) (2025-11-14)
 - [Music, Lyrics, and Agentic AI: Building a Smart Song Explainer using Python and OpenAI](https://towardsdatascience.com/music-lyrics-and-agentic-ai-building-a-smart-song-explainer-using-python-and-openai/) (2025-11-14)
-- [Critical Mistakes Companies Make When Integrating AI/ML into Their Processes](https://towardsdatascience.com/critical-mistakes-companies-make-when-integrating-ai-ml-into-their-processes/) (2025-11-14)
-- [LLMs Are Randomized Algorithms](https://towardsdatascience.com/llms-are-randomized-algorithms/) (2025-11-13)
 
 </details>
 
