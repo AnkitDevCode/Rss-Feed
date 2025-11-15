@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [I can't recommend Grafana anymore](https://henrikgerdes.me/blog/2025-11-grafana-mess/) (2025-11-15)
-- [AI note-taking startup Fireflies was really two guys typing notes by hand](https://www.pcgamer.com/software/ai/usd1-billion-ai-company-co-founder-admits-that-its-usd100-a-month-transcription-service-was-originally-two-guys-surviving-on-pizza-and-typing-out-notes-by-hand/) (2025-11-15)
-- [AMD GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2025-11-09-amd-brr) (2025-11-15)
-- [No Leak, No Problem – Bypassing ASLR with a ROP Chain to Gain RCE](https://modzero.com/en/blog/no-leak-no-problem/) (2025-11-14)
-- [Go's Sweet 16](https://go.dev/blog/16years) (2025-11-14)
+- [Activeloop (YC S18) Is Hiring MTS(Back End)and AI Search Engineer](https://careers.activeloop.ai/) (2025-11-15)
+- [Our investigation into the suspicious pressure on Archive.today](https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html) (2025-11-15)
+- [One Handed Keyboard](https://github.com/htx-studio/One-Handed-Keyboard) (2025-11-15)
+- [NATO Ended Russia's Estonian Air Incursions](https://themilitaryanalyst.com/2025/11/13/the-real-story-how-nato-ended-russias-estonian-air-incursions/) (2025-11-15)
+- [Spec-Driven Development: The Waterfall Strikes Back](https://marmelab.com/blog/2025/11/12/spec-driven-development-waterfall-strikes-back.html) (2025-11-15)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Rick Beato: Jahari Stampley... I've Never Heard Playing Like This!](https://dev.to/music_youtube/rick-beato-jahari-stampley-ive-never-heard-playing-like-this-4iog) (2025-11-15)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-2h96) (2025-11-15)
-- [Understanding the Role of Context in AI Agent Responses](https://dev.to/kamya_shah_e69d5dd78f831c/understanding-the-role-of-context-in-ai-agent-responses-2f8h) (2025-11-15)
-- [How AI Batch Background Removal Helps Non-Designers Create Professional Visuals](https://dev.to/freepixel11/how-ai-batch-background-removal-helps-non-designers-create-professional-visuals-51h4) (2025-11-15)
-- [Leveraging Distributed Tracing for AI System Performance Insights](https://dev.to/kamya_shah_e69d5dd78f831c/leveraging-distributed-tracing-for-ai-system-performance-insights-5e5f) (2025-11-15)
+- [How to Divide Long Articles on Blogger to Avoid Boring](https://dev.to/hayatul_makki_1c7007a1488/how-to-divide-long-articles-on-blogger-to-avoid-boring-mb2) (2025-11-15)
+- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-2566) (2025-11-15)
+- [Web3!](https://dev.to/riettah/web3-g69) (2025-11-15)
+- [Build a Secure Blazor WebAssembly App with ASP.NET Core 10 and JWT Authentication](https://dev.to/djamware_tutorial_eba1a61/build-a-secure-blazor-webassembly-app-with-aspnet-core-10-and-jwt-authentication-3e7c) (2025-11-15)
+- [Stop Casting a Wide Net. Start Spear-Phishing: A Developer's Guide to Account-Based Marketing](https://dev.to/michaelaiglobal/stop-casting-a-wide-net-start-spear-phishing-a-developers-guide-to-account-based-marketing-15p3) (2025-11-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How I Automated My Daily Workflow Using 5 Unexpected Python Tools](https://python.plainenglish.io/how-i-automated-my-daily-workflow-using-5-unexpected-python-tools-1d578c242536?source=rss------programming-5) (2025-11-15)
-- [I Tried Automating My Life With Python for 30 Days — Here’s What Happened](https://python.plainenglish.io/i-tried-automating-my-life-with-python-for-30-days-heres-what-happened-0ab89c6bd23d?source=rss------programming-5) (2025-11-15)
-- [Stop Overcomplicating Python: These 6 Patterns Will Clean Up Your Entire Codebase](https://python.plainenglish.io/stop-overcomplicating-python-these-6-patterns-will-clean-up-your-entire-codebase-fd4d819e15f0?source=rss------programming-5) (2025-11-15)
-- [When Code Starts Listening: Building Python Voice Systems That Wake, Think, and Automate](https://python.plainenglish.io/when-code-starts-listening-building-python-voice-systems-that-wake-think-and-automate-980d5a6c5d54?source=rss------programming-5) (2025-11-15)
-- [How to Make $5 in Just 1 Hour — Real Methods That Actually Work](https://python.plainenglish.io/how-to-make-5-in-just-1-hour-real-methods-that-actually-work-281253158b6e?source=rss------programming-5) (2025-11-15)
+- [09360627233شماره خاله اصفهان شماره خاله تهران شماره خاله شیراز شماره خاله کرج شماره خاله اسلامشهر…](https://medium.com/@nrgs56022/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-7f6dca18d6cc?source=rss------programming-5) (2025-11-15)
+- [09360627233شماره خاله اصفهان شماره خاله تهران شماره خاله شیراز شماره خاله کرج شماره خاله اسلامشهر…](https://medium.com/@nrgs56022/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-3217e942f53b?source=rss------programming-5) (2025-11-15)
+- [09360627233شماره خاله اصفهان شماره خاله تهران شماره خاله شیراز شماره خاله کرج شماره خاله اسلامشهر…](https://medium.com/@nrgs56022/09360627233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-5ba48aef4075?source=rss------programming-5) (2025-11-15)
+- [DevOps Guide to Python 3.14: Containers, Builds, and Secure Deploys](https://python.plainenglish.io/devops-guide-to-python-3-14-containers-builds-and-secure-deploys-6ee79ac1d37b?source=rss------programming-5) (2025-11-15)
+- [0933 408 24 20شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@niinubninoibhucivmonibijijojob/0933-408-24-20%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-f024a978d732?source=rss------programming-5) (2025-11-15)
 
 </details>
 
@@ -504,11 +504,11 @@ https://www.twilio.com/en-us/blog/events/signal-sydney-2025-recap
 <details>
 <summary>💬 Slack API</summary>
 
-- [Five Steps to Boost Employee Engagement and Productivity](https://slack.com/blog/productivity/employee-engagement-and-productivity) (2025-11-12)
-- [Ten Project Management Best Practices to Drive Results](https://slack.com/blog/productivity/project-management-best-practices) (2025-11-12)
-- [How Your Team Can Achieve More With AI Project Management](https://slack.com/blog/productivity/how-your-team-can-achieve-more-with-ai-project-management) (2025-11-12)
-- [How to Choose Project Management Software and Set Your Team Up for Success](https://slack.com/blog/productivity/how-to-choose-project-management-software-and-set-your-team-up-for-success) (2025-11-12)
-- [Seven Benefits of Project Management Software for Every Role](https://slack.com/blog/productivity/benefits-of-project-management-software) (2025-11-12)
+- [How to Choose the Best File-Sharing Solution for Your Business](https://slack.com/blog/collaboration/best-business-file-sharing-solutions) (2025-11-14)
+- [FAQ: Slack’s Marketplace review process](https://slack.com/blog/developers/slack-marketplace-review-process) (2025-11-13)
+- [Slack Feature Drop: Contextual AI, Smarter Flows, and a Seriously Streamlined Slack](https://slack.com/blog/news/feature-drop) (2025-11-12)
+- [Efficiency vs. Productivity: What’s the Difference?](https://slack.com/blog/productivity/efficiency-vs-productivity) (2025-11-12)
+- [Seven Surprising Signs of Disengaged Employees and Strategies to Address Them](https://slack.com/blog/productivity/disengaged-employees) (2025-11-12)
 
 </details>
 
@@ -581,11 +581,11 @@ https://www.twilio.com/en-us/blog/events/signal-sydney-2025-recap
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [5 Must-Read AI Agent Research Papers by Google](https://www.analyticsvidhya.com/blog/2025/11/ai-agent-research-papers-by-google/) (2025-11-15)
+- [15 Ways to Make Money with AI the Smart Way](https://www.analyticsvidhya.com/blog/2025/11/ways-to-make-money-with-ai/) (2025-11-15)
 - [Transformers vs Mixture of Experts: What’s the Real Difference?](https://www.analyticsvidhya.com/blog/2025/11/transformers-vs-mixture-of-experts-moe/) (2025-11-15)
 - [Top 10 Downloaded Open-Source Models on HuggingFace](https://www.analyticsvidhya.com/blog/2025/11/top-open-source-models-on-huggingface/) (2025-11-14)
 - [How to Build a Chatbot Using Kimi K2 Thinking?](https://www.analyticsvidhya.com/blog/2025/11/building-chatbot-using-kimi-k2/) (2025-11-14)
-- [OpenAI Releases GPT 5.1: Here’s How it Performs!](https://www.analyticsvidhya.com/blog/2025/11/gpt-5-1-thinking-and-instant/) (2025-11-13)
-- [ERNIE-4.5-VL Review: “Thinking with Images” in a 3B Model](https://www.analyticsvidhya.com/blog/2025/11/ernie-4-5-vl-review/) (2025-11-13)
 
 </details>
 
