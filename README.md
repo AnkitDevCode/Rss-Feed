@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [I can't recommend Grafana anymore](https://henrikgerdes.me/blog/2025-11-grafana-mess/) (2025-11-15)
+- [AI note-taking startup Fireflies was really two guys typing notes by hand](https://www.pcgamer.com/software/ai/usd1-billion-ai-company-co-founder-admits-that-its-usd100-a-month-transcription-service-was-originally-two-guys-surviving-on-pizza-and-typing-out-notes-by-hand/) (2025-11-15)
+- [AMD GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2025-11-09-amd-brr) (2025-11-15)
 - [No Leak, No Problem – Bypassing ASLR with a ROP Chain to Gain RCE](https://modzero.com/en/blog/no-leak-no-problem/) (2025-11-14)
 - [Go's Sweet 16](https://go.dev/blog/16years) (2025-11-14)
-- [SSL Configuration Generator](https://ssl-config.mozilla.org/) (2025-11-14)
-- [Mentra (YC W25) Is Hiring: Head of Growth to Make Smart Glasses Mainstream](https://www.ycombinator.com/companies/mentra/jobs/2YbQCRw-make-smart-glasses-mainstream-head-of-growth) (2025-11-14)
-- [All praise to the lunch ladies](https://bittersoutherner.com/issue-no-12/all-praise-to-the-lunch-ladies) (2025-11-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [YouTube TV, ESPN, and Disney: the latest on the blackout that’s now over](https://www.theverge.com/news/817403/youtube-tv-disney-espn-blackout-updates) (2025-11-15)
 - [Disney and ESPN are back on YouTube TV](https://www.theverge.com/news/821581/disney-youtube-tv-deal-agreement-espn) (2025-11-15)
 - [The best early Black Friday deals we’ve found so far on laptops, TVs, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025) (2025-11-14)
 - [A recent Switch 2 update blocks some third-party docks, but Nintendo isn’t saying why](https://www.theverge.com/news/821250/switch-2-update-third-party-dock-update-blocked) (2025-11-14)
 - [Paramount Skydance is working on a new Star Trek movie](https://www.theverge.com/entertainment/821219/paramount-skydance-star-trak-movie-jonathan-goldstein-john-francis-daley) (2025-11-14)
-- [Fortnite is coming to the Xbox PC store](https://www.theverge.com/news/821177/fortnite-xbox-on-pc-app-store-epic-games-play-anywhere-crew-game-pass) (2025-11-14)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [[Boost]](https://dev.to/b5119/-55ml) (2025-11-15)
-- [Containerizing Your Logic Apps In Your DevBox](https://dev.to/imdj/containerizing-your-logic-apps-in-your-devbox-24c0) (2025-11-15)
-- [Why You Should Become an Influencer While Learning Programming](https://dev.to/bibimbop123/why-you-should-become-an-influencer-while-learning-programming-4512) (2025-11-15)
-- [-AZURE BLOB STORAGE-](https://dev.to/freddie_barron_0a192c3278/-azure-blob-storage--52kd) (2025-11-15)
-- [🚀 ThinkReview Is Now Open Source — and Now Supports Ollama for Local AI Code Review](https://dev.to/jay_elsheikh_59b14ad67922/thinkreview-is-now-open-source-and-now-supports-ollama-for-local-ai-code-review-44fi) (2025-11-15)
+- [Rick Beato: Jahari Stampley... I've Never Heard Playing Like This!](https://dev.to/music_youtube/rick-beato-jahari-stampley-ive-never-heard-playing-like-this-4iog) (2025-11-15)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-2h96) (2025-11-15)
+- [Understanding the Role of Context in AI Agent Responses](https://dev.to/kamya_shah_e69d5dd78f831c/understanding-the-role-of-context-in-ai-agent-responses-2f8h) (2025-11-15)
+- [How AI Batch Background Removal Helps Non-Designers Create Professional Visuals](https://dev.to/freepixel11/how-ai-batch-background-removal-helps-non-designers-create-professional-visuals-51h4) (2025-11-15)
+- [Leveraging Distributed Tracing for AI System Performance Insights](https://dev.to/kamya_shah_e69d5dd78f831c/leveraging-distributed-tracing-for-ai-system-performance-insights-5e5f) (2025-11-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09045080282شماره خاله تهران# شماره خاله تهران پارس# شماره خاله اسلامشهر# شماره خاله صیغه# شماره…](https://medium.com/@13smskksndsowpsnba/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-15963355bd43?source=rss------programming-5) (2025-11-15)
-- [09045080282شماره خاله تهران# شماره خاله تهران پارس# شماره خاله اسلامشهر# شماره خاله صیغه# شماره…](https://medium.com/@13smskksndsowpsnba/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-83a9a40345d2?source=rss------programming-5) (2025-11-15)
-- [09045080282شماره خاله تهران# شماره خاله تهران پارس# شماره خاله اسلامشهر# شماره خاله صیغه# شماره…](https://medium.com/@12vyuvubbiibuvcttc/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-dd67476220ae?source=rss------programming-5) (2025-11-15)
-- [09045080282شماره خاله تهران# شماره خاله تهران پارس# شماره خاله اسلامشهر# شماره خاله صیغه# شماره…](https://medium.com/@12vyuvubbiibuvcttc/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-0c3a5a8730a9?source=rss------programming-5) (2025-11-15)
-- [09045080282شماره خاله تهران# شماره خاله تهران پارس# شماره خاله اسلامشهر# شماره خاله صیغه# شماره…](https://medium.com/@12vyuvubbiibuvcttc/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ca4d555b04ac?source=rss------programming-5) (2025-11-15)
+- [How I Automated My Daily Workflow Using 5 Unexpected Python Tools](https://python.plainenglish.io/how-i-automated-my-daily-workflow-using-5-unexpected-python-tools-1d578c242536?source=rss------programming-5) (2025-11-15)
+- [I Tried Automating My Life With Python for 30 Days — Here’s What Happened](https://python.plainenglish.io/i-tried-automating-my-life-with-python-for-30-days-heres-what-happened-0ab89c6bd23d?source=rss------programming-5) (2025-11-15)
+- [Stop Overcomplicating Python: These 6 Patterns Will Clean Up Your Entire Codebase](https://python.plainenglish.io/stop-overcomplicating-python-these-6-patterns-will-clean-up-your-entire-codebase-fd4d819e15f0?source=rss------programming-5) (2025-11-15)
+- [When Code Starts Listening: Building Python Voice Systems That Wake, Think, and Automate](https://python.plainenglish.io/when-code-starts-listening-building-python-voice-systems-that-wake-think-and-automate-980d5a6c5d54?source=rss------programming-5) (2025-11-15)
+- [How to Make $5 in Just 1 Hour — Real Methods That Actually Work](https://python.plainenglish.io/how-to-make-5-in-just-1-hour-real-methods-that-actually-work-281253158b6e?source=rss------programming-5) (2025-11-15)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Infinite scale: The architecture behind the Azure AI superfactory](https://aka.ms/AAyjgcy) (2025-11-12)
 - [Securing our future: November 2025 progress report on Microsoft’s Secure Future Initiative](https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/) (2025-11-10)
 - [The new era of Azure Ultra Disk: Experience the next generation of mission-critical block storage](https://azure.microsoft.com/en-us/blog/the-new-era-of-azure-ultra-disk-experience-the-next-generation-of-mission-critical-block-storage/) (2025-11-06)
 - [Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows](https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/) (2025-11-05)
 - [Microsoft strengthens sovereign cloud capabilities with new services](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/) (2025-11-05)
-- [Powering Distributed AI/ML at Scale with Azure and Anyscale](https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/) (2025-11-04)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [JetBrains Is Heading to VSLive! Orlando](https://blog.jetbrains.com/dotnet/2025/11/15/jetbrains-is-heading-to-vslive-orlando/) (2025-11-15)
 - [IntelliJ IDEA 2025.3 💚 Spring 7](https://blog.jetbrains.com/idea/2025/11/intellij-idea-2025-3-spring-7/) (2025-11-14)
 - [Google Summer of Code 2025: What Our Contributors Built](https://blog.jetbrains.com/kotlin/2025/11/google-summer-of-code-2025/) (2025-11-12)
 - [What Developers Really Mean by “Bad Code”](https://blog.jetbrains.com/qodana/2025/11/what-is-bad-code/) (2025-11-12)
 - [JetBrains Plugin Developer Conf 2025 Recordings Are Now Live](https://blog.jetbrains.com/platform/2025/11/jetbrains-plugin-developer-conf-2025-recordings-are-now-live/) (2025-11-11)
-- [C# 14 Language Features in ReSharper and Rider 2025.3](https://blog.jetbrains.com/dotnet/2025/11/11/csharp-14-language-features-in-resharper-and-rider-2025-3/) (2025-11-11)
 
 </details>
 
@@ -362,11 +362,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Building Trust in the Age of AI: Why Identity Is the Foundation of Customer Engagement
-](
-https://www.twilio.com/en-us/blog/company/news/twilio-to-acquire-stytch
-) (2025-11-14)
-- [
 Inside the Conversational AI Revolution: What 5,000+ Consumers and Businesses Told Us 
 ](
 https://www.twilio.com/en-us/blog/insights/inside-the-conversational-AI-revolution
@@ -385,6 +380,11 @@ https://www.twilio.com/en-us/blog/products/launches/general-availability-start-r
 Integrating Twilio and Zendesk for SMS Messaging 
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/twilio-zendesk-sms-messaging
+) (2025-11-10)
+- [
+SIGNAL Sydney 2025: A Sold‑out Debut on the Harbour
+](
+https://www.twilio.com/en-us/blog/events/signal-sydney-2025-recap
 ) (2025-11-10)
 
 </details>
@@ -504,11 +504,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/twilio-zende
 <details>
 <summary>💬 Slack API</summary>
 
-- [How to Choose the Best File-Sharing Solution for Your Business](https://slack.com/blog/collaboration/best-business-file-sharing-solutions) (2025-11-14)
-- [FAQ: Slack’s Marketplace review process](https://slack.com/blog/developers/slack-marketplace-review-process) (2025-11-13)
-- [Slack Feature Drop: Contextual AI, Smarter Flows, and a Seriously Streamlined Slack](https://slack.com/blog/news/feature-drop) (2025-11-12)
-- [Efficiency vs. Productivity: What’s the Difference?](https://slack.com/blog/productivity/efficiency-vs-productivity) (2025-11-12)
-- [Seven Surprising Signs of Disengaged Employees and Strategies to Address Them](https://slack.com/blog/productivity/disengaged-employees) (2025-11-12)
+- [Five Steps to Boost Employee Engagement and Productivity](https://slack.com/blog/productivity/employee-engagement-and-productivity) (2025-11-12)
+- [Ten Project Management Best Practices to Drive Results](https://slack.com/blog/productivity/project-management-best-practices) (2025-11-12)
+- [How Your Team Can Achieve More With AI Project Management](https://slack.com/blog/productivity/how-your-team-can-achieve-more-with-ai-project-management) (2025-11-12)
+- [How to Choose Project Management Software and Set Your Team Up for Success](https://slack.com/blog/productivity/how-to-choose-project-management-software-and-set-your-team-up-for-success) (2025-11-12)
+- [Seven Benefits of Project Management Software for Every Role](https://slack.com/blog/productivity/benefits-of-project-management-software) (2025-11-12)
 
 </details>
 
@@ -581,11 +581,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/twilio-zende
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Transformers vs Mixture of Experts: What’s the Real Difference?](https://www.analyticsvidhya.com/blog/2025/11/transformers-vs-mixture-of-experts-moe/) (2025-11-15)
 - [Top 10 Downloaded Open-Source Models on HuggingFace](https://www.analyticsvidhya.com/blog/2025/11/top-open-source-models-on-huggingface/) (2025-11-14)
 - [How to Build a Chatbot Using Kimi K2 Thinking?](https://www.analyticsvidhya.com/blog/2025/11/building-chatbot-using-kimi-k2/) (2025-11-14)
 - [OpenAI Releases GPT 5.1: Here’s How it Performs!](https://www.analyticsvidhya.com/blog/2025/11/gpt-5-1-thinking-and-instant/) (2025-11-13)
 - [ERNIE-4.5-VL Review: “Thinking with Images” in a 3B Model](https://www.analyticsvidhya.com/blog/2025/11/ernie-4-5-vl-review/) (2025-11-13)
-- [Top 10 Free AI Image Generation Tools: Nano Banana, Ideogram and More](https://www.analyticsvidhya.com/blog/2025/11/free-ai-image-generator-tools/) (2025-11-12)
 
 </details>
 
