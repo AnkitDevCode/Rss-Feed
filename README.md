@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [IDEmacs: A Visual Studio Code clone for Emacs](https://codeberg.org/IDEmacs/IDEmacs) (2025-11-16)
-- [AirPods libreated from Apple's ecosystem](https://github.com/kavishdevar/librepods) (2025-11-16)
-- [When UPS charged me a $684 tariff on $355 of vintage computer parts](http://oldvcr.blogspot.com/2025/11/when-ups-charged-me-684-tariff-on-355.html) (2025-11-15)
-- [The inconceivable types of Rust: How to make self-borrows safe (2024)](https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html) (2025-11-15)
-- [Blocking LLM crawlers without JavaScript](https://www.owl.is/blogg/blocking-crawlers-without-javascript/) (2025-11-15)
+- [Anthropic's report smells a lot like bullshit](https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/) (2025-11-16)
+- [UK's first small nuclear power station to be built in north Wales](https://www.bbc.com/news/articles/c051y3d7myzo) (2025-11-16)
+- [Why I Don't Need a Steam Machine](https://brainbaking.com/post/2025/11/why-i-dont-need-a-steam-machine/) (2025-11-16)
+- [Maybe You're Not Actually Trying](https://usefulfictions.substack.com/p/maybe-youre-not-actually-trying) (2025-11-16)
+- [An exposed .git folder let us dox a phishing campaign](https://news.ycombinator.com/item?id=45943802) (2025-11-16)
 
 </details>
 
@@ -97,25 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How to Compare Chatbot Platforms for Your Business](https://dev.to/chatboqai/how-to-compare-chatbot-platforms-for-your-business-3n2n) (2025-11-16)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-59gf) (2025-11-16)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1ad9) (2025-11-16)
-- [How Cryptocurrency Prices Work Across Different Blockchains](https://dev.to/thevenice/how-cryptocurrency-prices-work-across-different-blockchains-13j4) (2025-11-16)
-- [Connect django with tailwind css](https://dev.to/pritish_academy/connect-django-with-tailwind-css-a86) (2025-11-16)
+- [How to Secure RabbitMQ & Celery with TLS/SSL](https://dev.to/zaaachos/how-to-secure-rabbitmq-celery-with-tlsssl-3ie2) (2025-11-16)
+- [Web Developer Travis McCracken on Why You Should Know Your Stack’s Limits](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-why-you-should-know-your-stacks-limits-1g1c) (2025-11-16)
+- [What is Ctrl+H in Excel? Master Find & Replace for Data Cleaning](https://dev.to/mohammad_ehsanansari_671/what-is-ctrlh-in-excel-master-find-replace-for-data-cleaning-37mm) (2025-11-16)
+- [Beyond Vanity Metrics: 7 B2B Marketing KPIs You Can Query Like an API](https://dev.to/michaelaiglobal/beyond-vanity-metrics-7-b2b-marketing-kpis-you-can-query-like-an-api-1878) (2025-11-16)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-1b9l) (2025-11-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09389632898شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dwstymrym4/09389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-904fdeacb470?source=rss------programming-5) (2025-11-16)
-- [The Adapter Pattern in Java: Your Complete Guide to Seamless System Integration (2025)](https://medium.com/programming-and-system-design/the-adapter-pattern-in-java-your-complete-guide-to-seamless-system-integration-2025-57c3b4d1c058?source=rss------programming-5) (2025-11-16)
-- [09389632898شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dwstymrym4/09389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-8e013222eee8?source=rss------programming-5) (2025-11-16)
-- [09389632898شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dwstymrym4/09389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-c68913ab8b42?source=rss------programming-5) (2025-11-16)
-- [Download CapCut Mod APK Premium Terbaru 2025 – Full Efek Pro, Tanpa Watermark!](https://medium.com/@rifkiabdulbasit/download-capcut-mod-apk-premium-terbaru-2025-full-efek-pro-tanpa-watermark-45ccc21f4782?source=rss------programming-5) (2025-11-16)
+- [7 Python 3.14 Patterns That Look Like Magic to Senior Engineers](https://python.plainenglish.io/7-python-3-14-patterns-that-look-like-magic-to-senior-engineers-1c2b338b7029?source=rss------programming-5) (2025-11-16)
+- [Writing Web APIs in Go Is Painful. And Nobody Wants to Admit It](https://medium.com/@spearhead0802/writing-web-apis-in-go-is-painful-and-nobody-wants-to-admit-it-ea9de5415091?source=rss------programming-5) (2025-11-16)
+- [Greater On Right Side -Leetcode Problem](https://medium.com/@santhiyaperiyasamy03/greater-on-right-side-leetcode-problem-c5ab3e9dbdac?source=rss------programming-5) (2025-11-16)
+- [Weekend Python Projects: Build, Automate, and Innovate](https://levelup.gitconnected.com/weekend-python-projects-build-automate-and-innovate-b40c811aa0ae?source=rss------programming-5) (2025-11-16)
+- [Technical Debt vs Product Debt: Şirketinizi Sessizce Yavaşlatan İki Görünmez Borç..](https://keremceliker.medium.com/technical-debt-vs-product-debt-%C5%9Firketinizi-sessizce-yava%C5%9Flatan-i%CC%87ki-g%C3%B6r%C3%BCnmez-bor%C3%A7-da94863c8ece?source=rss------programming-5) (2025-11-16)
 
 </details>
 
@@ -138,6 +135,17 @@
 - [The new era of Azure Ultra Disk: Experience the next generation of mission-critical block storage](https://azure.microsoft.com/en-us/blog/the-new-era-of-azure-ultra-disk-experience-the-next-generation-of-mission-critical-block-storage/) (2025-11-06)
 - [Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows](https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/) (2025-11-05)
 - [Microsoft strengthens sovereign cloud capabilities with new services](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/) (2025-11-05)
+
+</details>
+
+<details>
+<summary>🎮 NVIDIA Blog</summary>
+
+- [How to Unlock Accelerated AI Storage Performance With RDMA for S3-Compatible Storage](https://blogs.nvidia.com/blog/s3-compatible-ai-storage/) (2025-11-14)
+- [AI On: 3 Ways to Bring Agentic AI to Computer Vision Applications](https://blogs.nvidia.com/blog/ways-to-bring-agentic-ai-to-computer-vision-applications/) (2025-11-13)
+- [AWS, Google, Microsoft and OCI Boost AI Inference Performance for Cloud Customers With NVIDIA Dynamo](https://blogs.nvidia.com/blog/think-smart-dynamo-ai-inference-data-center/) (2025-11-13)
+- [GeForce NOW Enlists ‘Call of Duty: Black Ops 7’ for the Cloud](https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-black-ops-7/) (2025-11-13)
+- [NVIDIA Wins Every MLPerf Training v5.1 Benchmark](https://blogs.nvidia.com/blog/mlperf-training-benchmark-blackwell-ultra/) (2025-11-12)
 
 </details>
 
@@ -354,6 +362,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Building Trust in the Age of AI: Why Identity Is the Foundation of Customer Engagement
+](
+https://www.twilio.com/en-us/blog/company/news/twilio-to-acquire-stytch
+) (2025-11-14)
+- [
 Inside the Conversational AI Revolution: What 5,000+ Consumers and Businesses Told Us 
 ](
 https://www.twilio.com/en-us/blog/insights/inside-the-conversational-AI-revolution
@@ -372,11 +385,6 @@ https://www.twilio.com/en-us/blog/products/launches/general-availability-start-r
 Integrating Twilio and Zendesk for SMS Messaging 
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/twilio-zendesk-sms-messaging
-) (2025-11-10)
-- [
-SIGNAL Sydney 2025: A Sold‑out Debut on the Harbour
-](
-https://www.twilio.com/en-us/blog/events/signal-sydney-2025-recap
 ) (2025-11-10)
 
 </details>
