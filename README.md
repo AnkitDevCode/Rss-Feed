@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [TechCrunch Mobility: The robotaxi expansion that really matters](https://techcrunch.com/2025/11/16/techcrunch-mobility-the-robotaxi-expansion-that-really-matters/) (2025-11-16)
+- [How much of the AI data center boom will be powered by renewable energy?](https://techcrunch.com/2025/11/16/how-much-of-the-ai-data-center-boom-will-be-powered-by-renewable-energy/) (2025-11-16)
 - [JPMorgan doesn’t want to pay Frank founder Charlie Javice’s legal bills](https://techcrunch.com/2025/11/15/jpmorgan-doesnt-want-to-pay-frank-founder-charlie-javices-legal-bills/) (2025-11-15)
 - [Jury says Apple owes Masimo $634M for patent infringement](https://techcrunch.com/2025/11/15/jury-says-apple-owes-masimo-634m-for-patent-infringement/) (2025-11-15)
 - [Disney and YouTube TV reach deal to end blackout](https://techcrunch.com/2025/11/15/disney-and-youtube-tv-reach-deal-to-end-blackout/) (2025-11-15)
-- [Leaked documents shed light into how much OpenAI pays Microsoft](https://techcrunch.com/2025/11/14/leaked-documents-shed-light-into-how-much-openai-pays-microsoft/) (2025-11-15)
-- [Databricks co-founder argues US must go open source to beat China in AI](https://techcrunch.com/2025/11/14/databricks-co-founder-argues-us-must-go-open-source-to-beat-china-in-ai/) (2025-11-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Anthropic's report smells a lot like bullshit](https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/) (2025-11-16)
-- [UK's first small nuclear power station to be built in north Wales](https://www.bbc.com/news/articles/c051y3d7myzo) (2025-11-16)
-- [Why I Don't Need a Steam Machine](https://brainbaking.com/post/2025/11/why-i-dont-need-a-steam-machine/) (2025-11-16)
-- [Maybe You're Not Actually Trying](https://usefulfictions.substack.com/p/maybe-youre-not-actually-trying) (2025-11-16)
-- [An exposed .git folder let us dox a phishing campaign](https://news.ycombinator.com/item?id=45943802) (2025-11-16)
+- [Owning a Cat Could Double Your Risk of Schizophrenia, Research Suggests](https://www.sciencealert.com/owning-a-cat-could-double-your-risk-of-schizophrenia-research-suggests) (2025-11-16)
+- [Only three kinds of AI products work](https://www.seangoedecke.com/ai-products/) (2025-11-16)
+- [Dissecting Flock Safety: The Cameras Tracking You Are a Security Nightmare [video]](https://www.youtube.com/watch?v=uB0gr7Fh6lY) (2025-11-16)
+- [FPGA Based IBM-PC-XT](https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/) (2025-11-16)
+- [De Bruijn Numerals](https://text.marvinborner.de/2023-08-22-22.html) (2025-11-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The best gifts for dads that have everything (but deserve more)](https://www.theverge.com/gadgets/780847/best-dad-gift-ideas) (2025-11-16)
+- [How LimeWire ended the Napster music revolution](https://www.theverge.com/podcast/820818/limewire-music-piracy-version-history) (2025-11-16)
+- [The Asus Falcata is an ambitious split ergo gaming keyboard that falls short](https://www.theverge.com/tech/821355/asus-falcata-review-hall-effect-switches-split-ergo-gaming-keyboard) (2025-11-16)
+- [How soapy micro dramas became Hollywood&#8217;s next big bet](https://www.theverge.com/column/821345/micro-dramas-how-hollywood) (2025-11-16)
 - [Tim Cook could step down as Apple CEO next year](https://www.theverge.com/news/821691/tim-cook-step-down-apple-ceo-next-year) (2025-11-15)
-- [Here are 25 of our favorite outdoorsy deals from REI’s massive Holiday Sale](https://www.theverge.com/gadgets/821397/best-rei-holiday-sale-2025-deals) (2025-11-15)
-- [Possessor(s) is a fast-paced action game that gets off to a slow start](https://www.theverge.com/games/821117/possessors-review-pc-ps5) (2025-11-15)
-- [How to find music you will love without the algorithm](https://www.theverge.com/report/821614/discover-music-without-algorithms) (2025-11-15)
-- [Framework’s franken-laptop is back with big chip upgrades and familiar frustrations](https://www.theverge.com/tech/821420/framework-laptop-16-2025-nvidia-rtx5070-review) (2025-11-15)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [The evolution of rationality: How chimps process conflicting evidence](https://arstechnica.com/science/2025/11/the-evolution-of-rationality-how-chimps-process-conflicting-evidence/) (2025-11-16)
 - [Wyoming dinosaur mummies give us a new view of duck-billed species](https://arstechnica.com/science/2025/11/wyoming-dinosaur-mummies-give-us-a-new-view-of-duck-billed-species/) (2025-11-15)
 - [US may owe $1 trillion in refunds if SCOTUS cancels Trump tariffs](https://arstechnica.com/tech-policy/2025/11/tariff-refunds-may-get-messy-if-trump-loses-supreme-court-fight/) (2025-11-14)
 - [The twin probes just launched toward Mars have an Easter egg on board](https://arstechnica.com/space/2025/11/the-twin-probes-just-launched-toward-mars-have-an-easter-egg-on-board/) (2025-11-14)
 - [As shutdown ends, dubious CDC panel gets back to dismantling vaccine schedule](https://arstechnica.com/health/2025/11/as-shutdown-ends-dubious-cdc-panel-gets-back-to-dismantling-vaccine-schedule/) (2025-11-14)
-- [How two Nissan Leafs help make a regional airport more resilient](https://arstechnica.com/cars/2025/11/california-airport-tries-out-bidirectional-ev-charging-microgrid/) (2025-11-14)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How to Secure RabbitMQ & Celery with TLS/SSL](https://dev.to/zaaachos/how-to-secure-rabbitmq-celery-with-tlsssl-3ie2) (2025-11-16)
-- [Web Developer Travis McCracken on Why You Should Know Your Stack’s Limits](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-why-you-should-know-your-stacks-limits-1g1c) (2025-11-16)
-- [What is Ctrl+H in Excel? Master Find & Replace for Data Cleaning](https://dev.to/mohammad_ehsanansari_671/what-is-ctrlh-in-excel-master-find-replace-for-data-cleaning-37mm) (2025-11-16)
-- [Beyond Vanity Metrics: 7 B2B Marketing KPIs You Can Query Like an API](https://dev.to/michaelaiglobal/beyond-vanity-metrics-7-b2b-marketing-kpis-you-can-query-like-an-api-1878) (2025-11-16)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-1b9l) (2025-11-16)
+- [Understand The Algorithm Behind The Coin Change Problem With Mathematics](https://dev.to/ganesh-kumar/understand-the-algorithm-behind-the-coin-change-problem-with-mathematics-1d7e) (2025-11-16)
+- [Syntax Trap #002](https://dev.to/tabeacodes/syntax-trap-002-473p) (2025-11-16)
+- [Dagger 2.0 vs Hilt in Android: A Comprehensive Overview](https://dev.to/lovekgarg/dagger-20-vs-hilt-in-android-a-comprehensive-overview-2lec) (2025-11-16)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-44ml) (2025-11-16)
+- [Untitled](https://dev.to/vivek_kolte_9177c978975a9/untitled-3l9l) (2025-11-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [7 Python 3.14 Patterns That Look Like Magic to Senior Engineers](https://python.plainenglish.io/7-python-3-14-patterns-that-look-like-magic-to-senior-engineers-1c2b338b7029?source=rss------programming-5) (2025-11-16)
-- [Writing Web APIs in Go Is Painful. And Nobody Wants to Admit It](https://medium.com/@spearhead0802/writing-web-apis-in-go-is-painful-and-nobody-wants-to-admit-it-ea9de5415091?source=rss------programming-5) (2025-11-16)
-- [Greater On Right Side -Leetcode Problem](https://medium.com/@santhiyaperiyasamy03/greater-on-right-side-leetcode-problem-c5ab3e9dbdac?source=rss------programming-5) (2025-11-16)
-- [Weekend Python Projects: Build, Automate, and Innovate](https://levelup.gitconnected.com/weekend-python-projects-build-automate-and-innovate-b40c811aa0ae?source=rss------programming-5) (2025-11-16)
-- [Technical Debt vs Product Debt: Şirketinizi Sessizce Yavaşlatan İki Görünmez Borç..](https://keremceliker.medium.com/technical-debt-vs-product-debt-%C5%9Firketinizi-sessizce-yava%C5%9Flatan-i%CC%87ki-g%C3%B6r%C3%BCnmez-bor%C3%A7-da94863c8ece?source=rss------programming-5) (2025-11-16)
+- [Building a Real-World App with Python’s @dataclass](https://medium.com/@tihomir.manushev/building-a-real-world-app-with-pythons-dataclass-e0db80116ce8?source=rss------programming-5) (2025-11-16)
+- [I Tried Rewriting My Python App with Functional Programming — Here’s What I Learned](https://medium.com/the-pythonworld/i-tried-rewriting-my-python-app-with-functional-programming-heres-what-i-learned-b1965d262fa2?source=rss------programming-5) (2025-11-16)
+- [Cache Invalidation Doesn’t Have to Be Hard (Practical .NET 9 Playbook)](https://medium.com/@michaelmaurice410/cache-invalidation-doesnt-have-to-be-hard-practical-net-9-playbook-ed21d16bf0b8?source=rss------programming-5) (2025-11-16)
+- [Implementing a Custom Authorization Handler in ASP.NET](https://medium.com/@mariammaurice/implementing-a-custom-authorization-handler-in-asp-net-937b1e190f3f?source=rss------programming-5) (2025-11-16)
+- [AI for Coders: DeepSeek vs ChatGPT](https://medium.com/@peteroluc/ai-for-coders-deepseek-vs-chatgpt-126534d56b9b?source=rss------programming-5) (2025-11-16)
 
 </details>
 
@@ -570,11 +570,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/twilio-zende
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [I Built an IOS App in 3 Days with Literally No Prior Swift Knowledge](https://towardsdatascience.com/i-built-an-ios-app-in-3-days-with-literally-no-prior-swift-knowledge/) (2025-11-16)
+- [Stop Worrying about AGI: The Immediate Danger is Reduced General Intelligence (RGI)](https://towardsdatascience.com/stop-worrying-about-agi-the-immediate-danger-is-reduced-general-intelligence-rgi/) (2025-11-16)
 - [How to Automate Workflows with AI](https://towardsdatascience.com/how-to-automate-workflows-with-ai/) (2025-11-15)
 - [I Measured Neural Network Training Every 5 Steps for 10,000 Iterations](https://towardsdatascience.com/i-measured-neural-network-training-every-5-steps-for-10000-iterations/) (2025-11-15)
 - [“The success of an AI product depends on how intuitively users can interact with its capabilities”](https://towardsdatascience.com/the-success-of-an-ai-product-depends-on-how-intuitively-users-can-interact-with-its-capabilities/) (2025-11-14)
-- [How to Crack Machine Learning System-Design Interviews](https://towardsdatascience.com/cracking-machine-learning-system-design-interviews/) (2025-11-14)
-- [Music, Lyrics, and Agentic AI: Building a Smart Song Explainer using Python and OpenAI](https://towardsdatascience.com/music-lyrics-and-agentic-ai-building-a-smart-song-explainer-using-python-and-openai/) (2025-11-14)
 
 </details>
 
