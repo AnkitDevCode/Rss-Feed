@@ -32,10 +32,10 @@
 <summary>💻 Hacker News</summary>
 
 - [IDEmacs: A Visual Studio Code clone for Emacs](https://codeberg.org/IDEmacs/IDEmacs) (2025-11-16)
-- [Tech Capitalists Don't Care About Humans](https://jacobin.com/2025/11/musk-thiel-altman-ai-tescrealism/) (2025-11-16)
-- [AirPods Libreated from Apple's Ecosystem](https://github.com/kavishdevar/librepods) (2025-11-16)
+- [AirPods libreated from Apple's ecosystem](https://github.com/kavishdevar/librepods) (2025-11-16)
 - [When UPS charged me a $684 tariff on $355 of vintage computer parts](http://oldvcr.blogspot.com/2025/11/when-ups-charged-me-684-tariff-on-355.html) (2025-11-15)
-- [libwifi: an 802.11 frame parsing and generation library written in C](https://libwifi.so/) (2025-11-15)
+- [The inconceivable types of Rust: How to make self-borrows safe (2024)](https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html) (2025-11-15)
+- [Blocking LLM crawlers without JavaScript](https://www.owl.is/blogg/blocking-crawlers-without-javascript/) (2025-11-15)
 
 </details>
 
@@ -97,27 +97,25 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [dev diary 20251115](https://dev.to/hirooka_kazuya_d7f37d3cde/dev-diary-20251115-3fm5) (2025-11-16)
-- [React Render Optimization Mastery — From Memoization Quiz Answers to Production Patterns](https://dev.to/cristiansifuentes/react-render-optimization-mastery-from-memoization-quiz-answers-to-production-patterns-4mgd) (2025-11-16)
-- [Implementing Strictly Typed JsonRpc Method Calls in Kotlin](https://dev.to/nerzhul500/implementing-strictly-typed-jsonrpc-method-calls-in-kotlin-56pn) (2025-11-16)
-- [ai](https://dev.to/kato_masato_c5593c81af5c6/ai-58o2) (2025-11-16)
-- [Project 3](https://dev.to/misssassypants/project-3-15b8) (2025-11-16)
+- [How to Compare Chatbot Platforms for Your Business](https://dev.to/chatboqai/how-to-compare-chatbot-platforms-for-your-business-3n2n) (2025-11-16)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-59gf) (2025-11-16)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1ad9) (2025-11-16)
+- [How Cryptocurrency Prices Work Across Different Blockchains](https://dev.to/thevenice/how-cryptocurrency-prices-work-across-different-blockchains-13j4) (2025-11-16)
+- [Connect django with tailwind css](https://dev.to/pritish_academy/connect-django-with-tailwind-css-a86) (2025-11-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [5 Free AI Tools Every Indian Hustler Needs in 2025 (No Coding, Just Wins)
-By Mohit Sharma |…](https://medium.com/@mohit.nj89/5-free-ai-tools-every-indian-hustler-needs-in-2025-no-coding-just-wins-by-mohit-sharma-d42065357795?source=rss------programming-5) (2025-11-16)
-- [09027641209شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kydduiufxhiigcxfhug/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-fbb10176c9fc?source=rss------programming-5) (2025-11-16)
-- [09027641209شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kydduiufxhiigcxfhug/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ad9c85f1a5c0?source=rss------programming-5) (2025-11-16)
-- [09027641209شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kydduiufxhiigcxfhug/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ece1a84c8832?source=rss------programming-5) (2025-11-16)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dyhfuffjjfidchjcchsu/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-6e418e7c126c?source=rss------programming-5) (2025-11-16)
+- [09389632898شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dwstymrym4/09389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-904fdeacb470?source=rss------programming-5) (2025-11-16)
+- [The Adapter Pattern in Java: Your Complete Guide to Seamless System Integration (2025)](https://medium.com/programming-and-system-design/the-adapter-pattern-in-java-your-complete-guide-to-seamless-system-integration-2025-57c3b4d1c058?source=rss------programming-5) (2025-11-16)
+- [09389632898شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dwstymrym4/09389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-8e013222eee8?source=rss------programming-5) (2025-11-16)
+- [09389632898شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dwstymrym4/09389632898%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-c68913ab8b42?source=rss------programming-5) (2025-11-16)
+- [Download CapCut Mod APK Premium Terbaru 2025 – Full Efek Pro, Tanpa Watermark!](https://medium.com/@rifkiabdulbasit/download-capcut-mod-apk-premium-terbaru-2025-full-efek-pro-tanpa-watermark-45ccc21f4782?source=rss------programming-5) (2025-11-16)
 
 </details>
 
@@ -135,22 +133,11 @@ By Mohit Sharma |…](https://medium.com/@mohit.nj89/5-free-ai-tools-every-india
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Fully managed cloud-to-cloud transfers with Azure Storage Mover](https://azure.microsoft.com/en-us/blog/fully-managed-cloud-to-cloud-transfers-with-azure-storage-mover/) (2025-10-23)
-- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2025-10-22)
-- [The Signals Loop: Fine-tuning for world-class AI apps and agents ](https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/) (2025-10-21)
-- [Innovation spotlight: How 3 customers are driving change with migration to Azure SQL](https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/) (2025-10-20)
-- [From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available](https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/) (2025-10-16)
-
-</details>
-
-<details>
-<summary>🎮 NVIDIA Blog</summary>
-
-- [How to Unlock Accelerated AI Storage Performance With RDMA for S3-Compatible Storage](https://blogs.nvidia.com/blog/s3-compatible-ai-storage/) (2025-11-14)
-- [AI On: 3 Ways to Bring Agentic AI to Computer Vision Applications](https://blogs.nvidia.com/blog/ways-to-bring-agentic-ai-to-computer-vision-applications/) (2025-11-13)
-- [AWS, Google, Microsoft and OCI Boost AI Inference Performance for Cloud Customers With NVIDIA Dynamo](https://blogs.nvidia.com/blog/think-smart-dynamo-ai-inference-data-center/) (2025-11-13)
-- [GeForce NOW Enlists ‘Call of Duty: Black Ops 7’ for the Cloud](https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-black-ops-7/) (2025-11-13)
-- [NVIDIA Wins Every MLPerf Training v5.1 Benchmark](https://blogs.nvidia.com/blog/mlperf-training-benchmark-blackwell-ultra/) (2025-11-12)
+- [Infinite scale: The architecture behind the Azure AI superfactory](https://aka.ms/AAyjgcy) (2025-11-12)
+- [Securing our future: November 2025 progress report on Microsoft’s Secure Future Initiative](https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/) (2025-11-10)
+- [The new era of Azure Ultra Disk: Experience the next generation of mission-critical block storage](https://azure.microsoft.com/en-us/blog/the-new-era-of-azure-ultra-disk-experience-the-next-generation-of-mission-critical-block-storage/) (2025-11-06)
+- [Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows](https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/) (2025-11-05)
+- [Microsoft strengthens sovereign cloud capabilities with new services](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/) (2025-11-05)
 
 </details>
 
@@ -367,11 +354,6 @@ By Mohit Sharma |…](https://medium.com/@mohit.nj89/5-free-ai-tools-every-india
 <summary>📞 Twilio Blog</summary>
 
 - [
-Building Trust in the Age of AI: Why Identity Is the Foundation of Customer Engagement
-](
-https://www.twilio.com/en-us/blog/company/news/twilio-to-acquire-stytch
-) (2025-11-14)
-- [
 Inside the Conversational AI Revolution: What 5,000+ Consumers and Businesses Told Us 
 ](
 https://www.twilio.com/en-us/blog/insights/inside-the-conversational-AI-revolution
@@ -390,6 +372,11 @@ https://www.twilio.com/en-us/blog/products/launches/general-availability-start-r
 Integrating Twilio and Zendesk for SMS Messaging 
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/twilio-zendesk-sms-messaging
+) (2025-11-10)
+- [
+SIGNAL Sydney 2025: A Sold‑out Debut on the Harbour
+](
+https://www.twilio.com/en-us/blog/events/signal-sydney-2025-recap
 ) (2025-11-10)
 
 </details>
@@ -586,11 +573,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/twilio-zende
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Building a Real-Time Fraud Detection System with Graph Neural Networks and Neo4j](https://www.analyticsvidhya.com/blog/2025/11/gnn-fraud-detection-with-neo4j/) (2025-11-16)
 - [5 Must-Read AI Agent Research Papers by Google](https://www.analyticsvidhya.com/blog/2025/11/ai-agent-research-papers-by-google/) (2025-11-15)
 - [15 Ways to Make Money with AI the Smart Way](https://www.analyticsvidhya.com/blog/2025/11/ways-to-make-money-with-ai/) (2025-11-15)
 - [Transformers vs Mixture of Experts: What’s the Real Difference?](https://www.analyticsvidhya.com/blog/2025/11/transformers-vs-mixture-of-experts-moe/) (2025-11-15)
 - [Top 10 Downloaded Open-Source Models on HuggingFace](https://www.analyticsvidhya.com/blog/2025/11/top-open-source-models-on-huggingface/) (2025-11-14)
-- [How to Build a Chatbot Using Kimi K2 Thinking?](https://www.analyticsvidhya.com/blog/2025/11/building-chatbot-using-kimi-k2/) (2025-11-14)
 
 </details>
 
