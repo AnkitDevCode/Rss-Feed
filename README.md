@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [JPMorgan doesn’t want to pay Frank founder Charlie Javice’s legal bills](https://techcrunch.com/2025/11/15/jpmorgan-doesnt-want-to-pay-frank-founder-charlie-javices-legal-bills/) (2025-11-15)
+- [Jury says Apple owes Masimo $634M for patent infringement](https://techcrunch.com/2025/11/15/jury-says-apple-owes-masimo-634m-for-patent-infringement/) (2025-11-15)
 - [Disney and YouTube TV reach deal to end blackout](https://techcrunch.com/2025/11/15/disney-and-youtube-tv-reach-deal-to-end-blackout/) (2025-11-15)
 - [Leaked documents shed light into how much OpenAI pays Microsoft](https://techcrunch.com/2025/11/14/leaked-documents-shed-light-into-how-much-openai-pays-microsoft/) (2025-11-15)
 - [Databricks co-founder argues US must go open source to beat China in AI](https://techcrunch.com/2025/11/14/databricks-co-founder-argues-us-must-go-open-source-to-beat-china-in-ai/) (2025-11-14)
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/11/14/tech-layoffs-2025-list/) (2025-11-14)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/11/14/chatgpt-everything-to-know-about-the-ai-chatbot/) (2025-11-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [I implemented an ISO 42001-certified AI Governance program in 6 months](https://beabytes.com/iso42001-certified-ai-governance/) (2025-11-15)
-- [Trellis AI (YC W24) Is Hiring: Streamline access to life-saving therapies](https://www.ycombinator.com/companies/trellis-ai/jobs/f4GWvH0-forward-deployed-engineer-full-time) (2025-11-15)
-- [Windhawk Windows classic theme mod for Windows 11](https://windhawk.net/mods/classic-theme-enable) (2025-11-15)
-- [The Mighty Simplex (2023)](https://galileo-unbound.blog/2023/05/03/the-mighty-simplex/) (2025-11-15)
-- [Wealth](https://saul.pw/mag/wealth/) (2025-11-15)
+- [IDEmacs: A Visual Studio Code clone for Emacs](https://codeberg.org/IDEmacs/IDEmacs) (2025-11-16)
+- [Tech Capitalists Don't Care About Humans](https://jacobin.com/2025/11/musk-thiel-altman-ai-tescrealism/) (2025-11-16)
+- [AirPods Libreated from Apple's Ecosystem](https://github.com/kavishdevar/librepods) (2025-11-16)
+- [When UPS charged me a $684 tariff on $355 of vintage computer parts](http://oldvcr.blogspot.com/2025/11/when-ups-charged-me-684-tariff-on-355.html) (2025-11-15)
+- [libwifi: an 802.11 frame parsing and generation library written in C](https://libwifi.so/) (2025-11-15)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Tim Cook could step down as Apple CEO next year](https://www.theverge.com/news/821691/tim-cook-step-down-apple-ceo-next-year) (2025-11-15)
 - [Here are 25 of our favorite outdoorsy deals from REI’s massive Holiday Sale](https://www.theverge.com/gadgets/821397/best-rei-holiday-sale-2025-deals) (2025-11-15)
 - [Possessor(s) is a fast-paced action game that gets off to a slow start](https://www.theverge.com/games/821117/possessors-review-pc-ps5) (2025-11-15)
 - [How to find music you will love without the algorithm](https://www.theverge.com/report/821614/discover-music-without-algorithms) (2025-11-15)
 - [Framework’s franken-laptop is back with big chip upgrades and familiar frustrations](https://www.theverge.com/tech/821420/framework-laptop-16-2025-nvidia-rtx5070-review) (2025-11-15)
-- [The Steam Machine feels like the TV gaming PC I’ve always wanted](https://www.theverge.com/games/818606/valve-steam-machine-tv-gaming-pc-wanted) (2025-11-15)
 
 </details>
 
@@ -97,24 +97,27 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Linux App Structure Explained: Working with /opt, Desktop Entries, and sudo tee](https://dev.to/rijultp/the-linux-app-structure-explained-working-with-opt-desktop-entries-and-sudo-tee-1fl7) (2025-11-15)
-- [Building a chatbot in Rust powered by Gemini Flash Models.
-
-It's pretty cool.](https://dev.to/btejas/building-a-chatbot-in-rust-powered-by-gemini-flash-modelsits-pretty-cool-eh6) (2025-11-15)
-- [SRT Pendulum System Recently Failed? Solutions for Programmer Energy Workers](https://dev.to/kassius_jupiter_725bb6799/srt-pendulum-system-recently-failed-solutions-for-programmer-energy-workers-bmi) (2025-11-15)
-- [AI-Powered End-to-End Testing: A New Paradigm for Software Quality Assurance](https://dev.to/pietrocontadini/ai-powered-end-to-end-testing-a-new-paradigm-for-software-quality-assurance-1f5n) (2025-11-15)
-- [Building a crypto tool as a solo developer](https://dev.to/rai_moh_c69ab6ccdf3efc528/building-a-crypto-tool-as-a-solo-developer-34eb) (2025-11-15)
+- [dev diary 20251115](https://dev.to/hirooka_kazuya_d7f37d3cde/dev-diary-20251115-3fm5) (2025-11-16)
+- [React Render Optimization Mastery — From Memoization Quiz Answers to Production Patterns](https://dev.to/cristiansifuentes/react-render-optimization-mastery-from-memoization-quiz-answers-to-production-patterns-4mgd) (2025-11-16)
+- [Implementing Strictly Typed JsonRpc Method Calls in Kotlin](https://dev.to/nerzhul500/implementing-strictly-typed-jsonrpc-method-calls-in-kotlin-56pn) (2025-11-16)
+- [ai](https://dev.to/kato_masato_c5593c81af5c6/ai-58o2) (2025-11-16)
+- [Project 3](https://dev.to/misssassypants/project-3-15b8) (2025-11-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Struct vs Class in Unity: The Full, Funny, Overly-Descriptive Guide You’ll Never Forget](https://medium.com/@rohan5210work/struct-vs-class-in-unity-the-full-funny-overly-descriptive-guide-youll-never-forget-623b91398afa?source=rss------programming-5) (2025-11-15)
-- [How to Practice SQL Effectively in 2025 (The Only Approach That Actually Works)](https://medium.com/@nandanpatil8/how-to-practice-sql-effectively-in-2025-the-only-approach-that-actually-works-8815cf19ffa9?source=rss------programming-5) (2025-11-15)
-- [Managing Permissions With EF Core Migrations in ASP.NET Core 9 | Full Guide](https://medium.com/@mariammaurice/managing-permissions-with-ef-core-migrations-in-asp-net-core-9-full-guide-92229a0da4d5?source=rss------programming-5) (2025-11-15)
-- [The INSANE Performance Boost of CQRS Read Models (Yes, It’s That Good)](https://medium.com/@michaelmaurice410/the-insane-performance-boost-of-cqrs-read-models-yes-its-that-good-4d968014c3dd?source=rss------programming-5) (2025-11-15)
-- [09013027390شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@hsnn44342/09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-8c80d1948458?source=rss------programming-5) (2025-11-15)
+- [5 Free AI Tools Every Indian Hustler Needs in 2025 (No Coding, Just Wins)
+By Mohit Sharma |…](https://medium.com/@mohit.nj89/5-free-ai-tools-every-indian-hustler-needs-in-2025-no-coding-just-wins-by-mohit-sharma-d42065357795?source=rss------programming-5) (2025-11-16)
+- [09027641209شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kydduiufxhiigcxfhug/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-fbb10176c9fc?source=rss------programming-5) (2025-11-16)
+- [09027641209شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kydduiufxhiigcxfhug/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ad9c85f1a5c0?source=rss------programming-5) (2025-11-16)
+- [09027641209شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kydduiufxhiigcxfhug/09027641209%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ece1a84c8832?source=rss------programming-5) (2025-11-16)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@dyhfuffjjfidchjcchsu/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-6e418e7c126c?source=rss------programming-5) (2025-11-16)
 
 </details>
 
@@ -132,11 +135,11 @@ It's pretty cool.](https://dev.to/btejas/building-a-chatbot-in-rust-powered-by-g
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Microsoft strengthens sovereign cloud capabilities with new services](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/) (2025-11-05)
-- [Powering Distributed AI/ML at Scale with Azure and Anyscale](https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/) (2025-11-04)
-- [Enhancing software supply chain security with Microsoft’s Signing Transparency](https://azure.microsoft.com/en-us/blog/enhancing-software-supply-chain-security-with-microsofts-signing-transparency/) (2025-11-03)
-- [Resiliency in the cloud—empowered by shared responsibility and Azure Essentials](https://azure.microsoft.com/en-us/blog/resiliency-in-the-cloud-empowered-by-shared-responsibility-and-azure-essentials/) (2025-10-31)
-- [GitHub Universe 2025: Where developer innovation took center stage](https://azure.microsoft.com/en-us/blog/github-universe-2025-where-developer-innovation-took-center-stage/) (2025-10-30)
+- [Fully managed cloud-to-cloud transfers with Azure Storage Mover](https://azure.microsoft.com/en-us/blog/fully-managed-cloud-to-cloud-transfers-with-azure-storage-mover/) (2025-10-23)
+- [Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/) (2025-10-22)
+- [The Signals Loop: Fine-tuning for world-class AI apps and agents ](https://azure.microsoft.com/en-us/blog/the-signals-loop-fine-tuning-for-world-class-ai-apps-and-agents/) (2025-10-21)
+- [Innovation spotlight: How 3 customers are driving change with migration to Azure SQL](https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/) (2025-10-20)
+- [From queries to conversations: Unlock insights about your data using Azure Storage Discovery—now generally available](https://azure.microsoft.com/en-us/blog/from-queries-to-conversations-unlock-insights-about-your-data-using-azure-storage-discovery-now-generally-available/) (2025-10-16)
 
 </details>
 
@@ -364,6 +367,11 @@ It's pretty cool.](https://dev.to/btejas/building-a-chatbot-in-rust-powered-by-g
 <summary>📞 Twilio Blog</summary>
 
 - [
+Building Trust in the Age of AI: Why Identity Is the Foundation of Customer Engagement
+](
+https://www.twilio.com/en-us/blog/company/news/twilio-to-acquire-stytch
+) (2025-11-14)
+- [
 Inside the Conversational AI Revolution: What 5,000+ Consumers and Businesses Told Us 
 ](
 https://www.twilio.com/en-us/blog/insights/inside-the-conversational-AI-revolution
@@ -382,11 +390,6 @@ https://www.twilio.com/en-us/blog/products/launches/general-availability-start-r
 Integrating Twilio and Zendesk for SMS Messaging 
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/twilio-zendesk-sms-messaging
-) (2025-11-10)
-- [
-SIGNAL Sydney 2025: A Sold‑out Debut on the Harbour
-](
-https://www.twilio.com/en-us/blog/events/signal-sydney-2025-recap
 ) (2025-11-10)
 
 </details>
