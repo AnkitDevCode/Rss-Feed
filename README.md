@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Sakana AI raises $135M Series B at a $2.65B valuation to continue building AI models for Japan](https://techcrunch.com/2025/11/17/sakana-ai-raises-135m-series-b-at-a-2-65b-valuation-to-continue-building-ai-models-for-japan/) (2025-11-17)
+- [Danish startup FlatPay joins the club of European fintech unicorns to track](https://techcrunch.com/2025/11/16/fast-growing-danish-startup-flatpay-joins-the-club-of-european-fintech-unicorns-to-track/) (2025-11-17)
 - [Beloved SF cat’s death fuels Waymo criticism](https://techcrunch.com/2025/11/16/beloved-sf-cats-death-fuels-waymo-criticism/) (2025-11-16)
 - [‘Buy Now, Pay Later’ is expanding fast, and that should worry everyone](https://techcrunch.com/2025/11/16/bnpl-is-expanding-fast-and-that-should-worry-everyone/) (2025-11-16)
 - [Are we nearing the end of Apple’s Tim Cook era?](https://techcrunch.com/2025/11/16/are-we-nearing-the-end-of-apples-tim-cook-era/) (2025-11-16)
-- [Amazon satellite network gets a rebrand — and drops its affordability pitch](https://techcrunch.com/2025/11/16/amazon-satellite-network-gets-a-rebrand-and-drops-its-affordability-pitch/) (2025-11-16)
-- [TechCrunch Mobility: The robotaxi expansion that really matters](https://techcrunch.com/2025/11/16/techcrunch-mobility-the-robotaxi-expansion-that-really-matters/) (2025-11-16)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Drone footage shows scale of revolting 60M-long mountain of waste next to river](https://news.sky.com/story/kidlington-fly-tipping-drone-footage-shows-scale-of-revolting-60m-long-mountain-of-waste-next-to-river-13471314) (2025-11-17)
+- [The evolution of rationality: How chimps process conflicting evidence](https://arstechnica.com/science/2025/11/the-evolution-of-rationality-how-chimps-process-conflicting-evidence/) (2025-11-17)
+- [Giving C a Superpower](https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/) (2025-11-17)
 - [Building a Simple Search Engine That Works](https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works) (2025-11-17)
 - [Mixing Is the Heartbeat of Deep Lakes. At Crater Lake, It's Slowing Down](https://www.quantamagazine.org/mixing-is-the-heartbeat-of-deep-lakes-at-crater-lake-its-slowing-down-20251114/) (2025-11-17)
-- [People are using iPad OS features on their iPhones](https://idevicecentral.com/ios-customization/how-to-enable-ipad-features-like-multitasking-stage-manager-on-iphone-via-mobilegestalt/) (2025-11-17)
-- [A 1961 Relay Computer Running in the Browser](https://minivac.greg.technology/) (2025-11-17)
-- [A new chapter begins for EV batteries with the expiry of key LFP patents](https://www.shoosmiths.com/insights/articles/a-new-chapter-begins-for-ev-batteries-with-the-expiry-of-key-lfp-patents) (2025-11-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Sky Sports killed off its female-focused Halo brand after just three days](https://www.theverge.com/news/821807/sky-sports-halo-women-tiktok) (2025-11-17)
-- [You need to listen to the searing noise pop album Forever in Your Heart](https://www.theverge.com/entertainment/821782/you-need-to-listen-to-the-searing-noise-pop-album-forever-in-your-heart) (2025-11-16)
-- [Stereogum soldiers on in the era of streaming and AI](https://www.theverge.com/entertainment/821767/stereogum-scott-lapatine-independent-music-media-streaming-ai) (2025-11-16)
-- [The best gifts for dads that have everything (but deserve more)](https://www.theverge.com/gadgets/780847/best-dad-gift-ideas) (2025-11-16)
-- [How LimeWire ended the Napster music revolution](https://www.theverge.com/podcast/820818/limewire-music-piracy-version-history) (2025-11-16)
+- [MSI’s $380 QD-OLED gaming monitor is one of 2025’s best deals so far](https://www.theverge.com/gadgets/820451/msi-qd-oled-1440p-gaming-monitor-deal-sale-black-friday) (2025-11-17)
+- [X launches Chat, its new encrypted DMs](https://www.theverge.com/news/821950/x-chat-encrypted-dms-video-calls) (2025-11-17)
+- [Google is collecting troves of data from downgraded Nest thermostats](https://www.theverge.com/news/820600/google-nest-learning-thermostat-downgraded-data-collection) (2025-11-17)
+- [Jeff Bezos will be co-CEO of AI startup Project Prometheus](https://www.theverge.com/news/821943/jeff-bezos-project-prometheus-co-ceo-funding-ai-startup) (2025-11-17)
+- [Europe banned new gas cars after 2035 — now it’s reconsidering](https://www.theverge.com/transportation/820398/eu-gas-car-ban-2035-weaken-climate) (2025-11-17)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [I’ve already been using a “Steam Machine” for months, and I think it’s great](https://arstechnica.com/gadgets/2025/11/ive-already-been-using-a-steam-machine-for-months-and-i-think-its-great/) (2025-11-17)
 - [The evolution of rationality: How chimps process conflicting evidence](https://arstechnica.com/science/2025/11/the-evolution-of-rationality-how-chimps-process-conflicting-evidence/) (2025-11-16)
 - [Wyoming dinosaur mummies give us a new view of duck-billed species](https://arstechnica.com/science/2025/11/wyoming-dinosaur-mummies-give-us-a-new-view-of-duck-billed-species/) (2025-11-15)
 - [US may owe $1 trillion in refunds if SCOTUS cancels Trump tariffs](https://arstechnica.com/tech-policy/2025/11/tariff-refunds-may-get-messy-if-trump-loses-supreme-court-fight/) (2025-11-14)
 - [The twin probes just launched toward Mars have an Easter egg on board](https://arstechnica.com/space/2025/11/the-twin-probes-just-launched-toward-mars-have-an-easter-egg-on-board/) (2025-11-14)
-- [As shutdown ends, dubious CDC panel gets back to dismantling vaccine schedule](https://arstechnica.com/health/2025/11/as-shutdown-ends-dubious-cdc-panel-gets-back-to-dismantling-vaccine-schedule/) (2025-11-14)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [What is the chance your plane will be hit by space debris?](https://www.technologyreview.com/2025/11/17/1127980/what-is-the-chance-your-plane-will-be-hit-by-space-debris/) (2025-11-17)
 - [The Download: how AI really works, and phasing out animal testing](https://www.technologyreview.com/2025/11/14/1127959/the-download-how-ai-really-works-and-phasing-out-animal-testing/) (2025-11-14)
 - [These technologies could help put a stop to animal testing](https://www.technologyreview.com/2025/11/14/1127949/technologies-could-stop-animal-testing/) (2025-11-14)
 - [EmTech AI 2025: How AI is revolutionizing science](https://www.technologyreview.com/2025/11/13/1127930/emtech-ai-2025-peter-lee/) (2025-11-13)
 - [OpenAI’s new LLM exposes the secrets of how AI really works](https://www.technologyreview.com/2025/11/13/1127914/openais-new-llm-exposes-the-secrets-of-how-ai-really-works/) (2025-11-13)
-- [Google DeepMind is using Gemini to train agents inside Goat Simulator 3](https://www.technologyreview.com/2025/11/13/1127921/google-deepmind-is-using-gemini-to-train-agents-inside-goat-simulator-3/) (2025-11-13)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [When React’s Philosophy Isn’t Enough and Data Attributes Save the Day](https://dev.to/mrezanahi_f133292cb4695d/when-reacts-philosophy-isnt-enough-and-data-attributes-save-the-day-5dpi) (2025-11-17)
-- [Building a Production-Ready AI ChatBot Platform with Real-Time Analytics](https://dev.to/vivekyadav200988/building-a-production-ready-ai-chatbot-platform-with-real-time-analytics-4ioe) (2025-11-17)
-- [From Specs to Spooky: Using Kiro to Build My AI Psychic Hotline](https://dev.to/hulyamasharipov/from-specs-to-spooky-using-kiro-to-build-my-ai-psychic-hotline-3552) (2025-11-17)
-- [Pagination in flutter](https://dev.to/niranjantk_8a74072f217dbe/pagination-in-flutter-34pk) (2025-11-17)
-- [Unified Data Management Platform: The Smartest Way to Control, Connect & Grow Your Data](https://dev.to/infoveave/unified-data-management-platform-the-smartest-way-to-control-connect-grow-your-data-15fi) (2025-11-17)
+- [The Ultimate Promise Deep Dive — Resolve, Reject, Then, and Async/Await Demystified](https://dev.to/okrahul/the-ultimate-promise-deep-dive-resolve-reject-then-and-asyncawait-demystified-1ml5) (2025-11-17)
+- [🚀 Follow Me on X (Twitter) — Let’s Build Something Insane Together](https://dev.to/n3on/follow-me-on-x-twitter-lets-build-something-insane-together-nmn) (2025-11-17)
+- [checkout this article on How We Reduced 99.6% Load Time in a Tableau Workbook: Origins, Applications, and Real Case Studies](https://dev.to/dipti26810/checkout-this-article-on-how-we-reduced-996-load-time-in-a-tableau-workbook-origins-6f1) (2025-11-17)
+- [How We Reduced 99.6% Load Time in a Tableau Workbook: Origins, Applications, and Real Case Studies](https://dev.to/dipti26810/how-we-reduced-996-load-time-in-a-tableau-workbook-origins-applications-and-real-case-studies-5396) (2025-11-17)
+- [Latest fashion trends.](https://dev.to/shah_princy/latest-fashion-trends-nnm) (2025-11-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [TOON: The data format slashing LLM costs by 50%](https://oguzhanaslann.medium.com/toon-the-data-format-slashing-llm-costs-by-50-ac8d7b808ff6?source=rss------programming-5) (2025-11-17)
-- [Angular Devs: Stop Using setTimeout() — Use afterRenderEffect() Instead](https://medium.com/@Angular_With_Awais/angular-devs-stop-using-settimeout-use-afterrendereffect-instead-6291e3d0fec5?source=rss------programming-5) (2025-11-17)
-- [One Week to Nail Your Frontend Interview: A Practical, No-Panic Prep Plan](https://javascript.plainenglish.io/one-week-to-nail-your-frontend-interview-a-practical-no-panic-prep-plan-3f0270e05d3c?source=rss------programming-5) (2025-11-17)
-- [The AI Organization: When Every Python Agent Has a Role](https://python.plainenglish.io/the-ai-organization-when-every-python-agent-has-a-role-cc39bf14f8a8?source=rss------programming-5) (2025-11-17)
-- [Symbols in JavaScript: The Misunderstood Feature That Actually Solves Real Problems](https://medium.com/@coders.stop/symbols-in-javascript-the-misunderstood-feature-that-actually-solves-real-problems-522d3875bc64?source=rss------programming-5) (2025-11-17)
+- [09013027390شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@gybchrjudgj/09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-da50c91e91c0?source=rss------programming-5) (2025-11-17)
+- [How I Built a Python Automation Bot That Manages My Projects](https://python.plainenglish.io/how-i-built-a-python-automation-bot-that-manages-my-projects-b073a14620b7?source=rss------programming-5) (2025-11-17)
+- [8 Python Libraries That Taught Me More Than Any Coding Course Ever Did](https://python.plainenglish.io/8-python-libraries-that-taught-me-more-than-any-coding-course-ever-did-f94fdbefaf80?source=rss------programming-5) (2025-11-17)
+- [Why So Many Teenagers Want to Become Hackers in 2025](https://medium.com/@mohamedgamer853/why-so-many-teenagers-want-to-become-hackers-in-2025-2d5f85579aa6?source=rss------programming-5) (2025-11-17)
+- [I Stopped Chasing Design Patterns in Python — And My Code Got Better](https://medium.com/the-pythonworld/i-stopped-chasing-design-patterns-in-python-and-my-code-got-better-809109abb918?source=rss------programming-5) (2025-11-17)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Infinite scale: The architecture behind the Azure AI superfactory](https://aka.ms/AAyjgcy) (2025-11-12)
 - [Securing our future: November 2025 progress report on Microsoft’s Secure Future Initiative](https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/) (2025-11-10)
 - [The new era of Azure Ultra Disk: Experience the next generation of mission-critical block storage](https://azure.microsoft.com/en-us/blog/the-new-era-of-azure-ultra-disk-experience-the-next-generation-of-mission-critical-block-storage/) (2025-11-06)
 - [Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows](https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/) (2025-11-05)
 - [Microsoft strengthens sovereign cloud capabilities with new services](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/) (2025-11-05)
-- [Powering Distributed AI/ML at Scale with Azure and Anyscale](https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/) (2025-11-04)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Mark Your Calendars! Qodana Events in November](https://blog.jetbrains.com/qodana/2025/11/mark-your-calendars-qodana-events-in-november/) (2025-11-17)
+- [Why Diffusion Models Could Change Developer Workflows in 2026](https://blog.jetbrains.com/ai/2025/11/why-diffusion-models-could-change-developer-workflows-in-2026/) (2025-11-17)
 - [JetBrains Is Heading to VSLive! Orlando](https://blog.jetbrains.com/dotnet/2025/11/15/jetbrains-is-heading-to-vslive-orlando/) (2025-11-15)
 - [IntelliJ IDEA 2025.3 💚 Spring 7](https://blog.jetbrains.com/idea/2025/11/intellij-idea-2025-3-spring-7/) (2025-11-14)
 - [Google Summer of Code 2025: What Our Contributors Built](https://blog.jetbrains.com/kotlin/2025/11/google-summer-of-code-2025/) (2025-11-12)
-- [What Developers Really Mean by “Bad Code”](https://blog.jetbrains.com/qodana/2025/11/what-is-bad-code/) (2025-11-12)
-- [JetBrains Plugin Developer Conf 2025 Recordings Are Now Live](https://blog.jetbrains.com/platform/2025/11/jetbrains-plugin-developer-conf-2025-recordings-are-now-live/) (2025-11-11)
 
 </details>
 
@@ -570,22 +570,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/twilio-zende
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Javascript Fatigue: HTMX is all you need to build ChatGPT — Part 1](https://towardsdatascience.com/javascript-fatigue-you-dont-need-js-to-build-chatgpt/) (2025-11-17)
 - [I Built an IOS App in 3 Days with Literally No Prior Swift Knowledge](https://towardsdatascience.com/i-built-an-ios-app-in-3-days-with-literally-no-prior-swift-knowledge/) (2025-11-16)
 - [Stop Worrying about AGI: The Immediate Danger is Reduced General Intelligence (RGI)](https://towardsdatascience.com/stop-worrying-about-agi-the-immediate-danger-is-reduced-general-intelligence-rgi/) (2025-11-16)
 - [How to Automate Workflows with AI](https://towardsdatascience.com/how-to-automate-workflows-with-ai/) (2025-11-15)
 - [I Measured Neural Network Training Every 5 Steps for 10,000 Iterations](https://towardsdatascience.com/i-measured-neural-network-training-every-5-steps-for-10000-iterations/) (2025-11-15)
-- [“The success of an AI product depends on how intuitively users can interact with its capabilities”](https://towardsdatascience.com/the-success-of-an-ai-product-depends-on-how-intuitively-users-can-interact-with-its-capabilities/) (2025-11-14)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [New Marble AI Creates Entire 3D Worlds from Simple Text Prompts](https://www.analyticsvidhya.com/blog/2025/11/marble-world-ai-creates-3d-worlds-from-text/) (2025-11-17)
+- [Is JSON Dead? Use TOON for LLM Calls](https://www.analyticsvidhya.com/blog/2025/11/toon-token-oriented-object-notation/) (2025-11-17)
 - [Building a Real-Time Fraud Detection System with Graph Neural Networks and Neo4j](https://www.analyticsvidhya.com/blog/2025/11/gnn-fraud-detection-with-neo4j/) (2025-11-16)
 - [5 Must-Read AI Agent Research Papers by Google](https://www.analyticsvidhya.com/blog/2025/11/ai-agent-research-papers-by-google/) (2025-11-15)
 - [15 Ways to Make Money with AI the Smart Way](https://www.analyticsvidhya.com/blog/2025/11/ways-to-make-money-with-ai/) (2025-11-15)
-- [Transformers vs Mixture of Experts: What’s the Real Difference?](https://www.analyticsvidhya.com/blog/2025/11/transformers-vs-mixture-of-experts-moe/) (2025-11-15)
-- [Top 10 Downloaded Open-Source Models on HuggingFace](https://www.analyticsvidhya.com/blog/2025/11/top-open-source-models-on-huggingface/) (2025-11-14)
 
 </details>
 
@@ -603,11 +603,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/twilio-zende
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [The Complete AI Agent Decision Framework](https://machinelearningmastery.com/the-complete-ai-agent-decision-framework/) (2025-11-17)
 - [Mastering JSON Prompting for LLMs](https://machinelearningmastery.com/mastering-json-prompting-for-llms/) (2025-11-14)
 - [5 Essential Python Scripts for Intermediate Machine Learning Practitioners](https://machinelearningmastery.com/5-essential-python-scripts-for-intermediate-machine-learning-practitioners/) (2025-11-13)
 - [Datasets for Training a Language Model](https://machinelearningmastery.com/datasets-for-training-a-language-model/) (2025-11-12)
 - [Building ReAct Agents with LangGraph: A Beginner’s Guide](https://machinelearningmastery.com/building-react-agents-with-langgraph-a-beginners-guide/) (2025-11-12)
-- [Expert-Level Feature Engineering: Advanced Techniques for High-Stakes Models](https://machinelearningmastery.com/expert-level-feature-engineering-advanced-techniques-for-high-stakes-models/) (2025-11-11)
 
 </details>
 
