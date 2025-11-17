@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Beloved SF cat’s death fuels Waymo criticism](https://techcrunch.com/2025/11/16/beloved-sf-cats-death-fuels-waymo-criticism/) (2025-11-16)
+- [‘Buy Now, Pay Later’ is expanding fast, and that should worry everyone](https://techcrunch.com/2025/11/16/bnpl-is-expanding-fast-and-that-should-worry-everyone/) (2025-11-16)
+- [Are we nearing the end of Apple’s Tim Cook era?](https://techcrunch.com/2025/11/16/are-we-nearing-the-end-of-apples-tim-cook-era/) (2025-11-16)
+- [Amazon satellite network gets a rebrand — and drops its affordability pitch](https://techcrunch.com/2025/11/16/amazon-satellite-network-gets-a-rebrand-and-drops-its-affordability-pitch/) (2025-11-16)
 - [TechCrunch Mobility: The robotaxi expansion that really matters](https://techcrunch.com/2025/11/16/techcrunch-mobility-the-robotaxi-expansion-that-really-matters/) (2025-11-16)
-- [How much of the AI data center boom will be powered by renewable energy?](https://techcrunch.com/2025/11/16/how-much-of-the-ai-data-center-boom-will-be-powered-by-renewable-energy/) (2025-11-16)
-- [JPMorgan doesn’t want to pay Frank founder Charlie Javice’s legal bills](https://techcrunch.com/2025/11/15/jpmorgan-doesnt-want-to-pay-frank-founder-charlie-javices-legal-bills/) (2025-11-15)
-- [Jury says Apple owes Masimo $634M for patent infringement](https://techcrunch.com/2025/11/15/jury-says-apple-owes-masimo-634m-for-patent-infringement/) (2025-11-15)
-- [Disney and YouTube TV reach deal to end blackout](https://techcrunch.com/2025/11/15/disney-and-youtube-tv-reach-deal-to-end-blackout/) (2025-11-15)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Owning a Cat Could Double Your Risk of Schizophrenia, Research Suggests](https://www.sciencealert.com/owning-a-cat-could-double-your-risk-of-schizophrenia-research-suggests) (2025-11-16)
-- [Only three kinds of AI products work](https://www.seangoedecke.com/ai-products/) (2025-11-16)
-- [Dissecting Flock Safety: The Cameras Tracking You Are a Security Nightmare [video]](https://www.youtube.com/watch?v=uB0gr7Fh6lY) (2025-11-16)
-- [FPGA Based IBM-PC-XT](https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/) (2025-11-16)
-- [De Bruijn Numerals](https://text.marvinborner.de/2023-08-22-22.html) (2025-11-16)
+- [PicoIDE – An open IDE/ATAPI drive emulator](https://picoide.com/) (2025-11-16)
+- [Britney Spears' Guide to Semiconductor Physics](https://britneyspears.ac/lasers.htm) (2025-11-16)
+- [Goldman Sachs asks in biotech Report: Is curing patients a sustainable business?](https://www.cnbc.com/2018/04/11/goldman-asks-is-curing-patients-a-sustainable-business-model.html) (2025-11-16)
+- [Why your mock breaks later](https://nedbatchelder.com/blog/202511/why_your_mock_breaks_later.html) (2025-11-16)
+- [How Your Brain Creates 'Aha' Moments and Why They Stick](https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/) (2025-11-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Sky Sports killed off its female-focused Halo brand after just three days](https://www.theverge.com/news/821807/sky-sports-halo-women-tiktok) (2025-11-17)
+- [You need to listen to the searing noise pop album Forever in Your Heart](https://www.theverge.com/entertainment/821782/you-need-to-listen-to-the-searing-noise-pop-album-forever-in-your-heart) (2025-11-16)
+- [Stereogum soldiers on in the era of streaming and AI](https://www.theverge.com/entertainment/821767/stereogum-scott-lapatine-independent-music-media-streaming-ai) (2025-11-16)
 - [The best gifts for dads that have everything (but deserve more)](https://www.theverge.com/gadgets/780847/best-dad-gift-ideas) (2025-11-16)
 - [How LimeWire ended the Napster music revolution](https://www.theverge.com/podcast/820818/limewire-music-piracy-version-history) (2025-11-16)
-- [The Asus Falcata is an ambitious split ergo gaming keyboard that falls short](https://www.theverge.com/tech/821355/asus-falcata-review-hall-effect-switches-split-ergo-gaming-keyboard) (2025-11-16)
-- [How soapy micro dramas became Hollywood&#8217;s next big bet](https://www.theverge.com/column/821345/micro-dramas-how-hollywood) (2025-11-16)
-- [Tim Cook could step down as Apple CEO next year](https://www.theverge.com/news/821691/tim-cook-step-down-apple-ceo-next-year) (2025-11-15)
 
 </details>
 
@@ -97,22 +97,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Understand The Algorithm Behind The Coin Change Problem With Mathematics](https://dev.to/ganesh-kumar/understand-the-algorithm-behind-the-coin-change-problem-with-mathematics-1d7e) (2025-11-16)
-- [Syntax Trap #002](https://dev.to/tabeacodes/syntax-trap-002-473p) (2025-11-16)
-- [Dagger 2.0 vs Hilt in Android: A Comprehensive Overview](https://dev.to/lovekgarg/dagger-20-vs-hilt-in-android-a-comprehensive-overview-2lec) (2025-11-16)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-44ml) (2025-11-16)
-- [Untitled](https://dev.to/vivek_kolte_9177c978975a9/untitled-3l9l) (2025-11-16)
+- [Lidando com Concorrência em Java - Lock Pessimista](https://dev.to/alineavila/lidando-com-concorrencia-em-java-lock-pessimista-9o3) (2025-11-17)
+- [Orchestrating Complex Processes in Node.js with @jescrich/nestjs-workflow](https://dev.to/jose_escrich_7a9e40bdd5e7/orchestrating-complex-processes-in-nodejs-with-jescrichnestjs-workflow-jjb) (2025-11-17)
+- [Maximize SDK Integration: Monetize Your AI Conversations](https://dev.to/monetzly/maximize-sdk-integration-monetize-your-ai-conversations-49f5) (2025-11-17)
+- [Domain Events: Transformando Mudanças em Oportunidades](https://dev.to/thrsouza/domain-events-transformando-mudancas-em-oportunidades-5f9o) (2025-11-17)
+- [Terraform Basics Week 3: Managing Variables with tfvars Files](https://dev.to/ozanguner/terraform-basics-week-3-managing-variables-with-tfvars-files-j8i) (2025-11-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Building a Real-World App with Python’s @dataclass](https://medium.com/@tihomir.manushev/building-a-real-world-app-with-pythons-dataclass-e0db80116ce8?source=rss------programming-5) (2025-11-16)
-- [I Tried Rewriting My Python App with Functional Programming — Here’s What I Learned](https://medium.com/the-pythonworld/i-tried-rewriting-my-python-app-with-functional-programming-heres-what-i-learned-b1965d262fa2?source=rss------programming-5) (2025-11-16)
-- [Cache Invalidation Doesn’t Have to Be Hard (Practical .NET 9 Playbook)](https://medium.com/@michaelmaurice410/cache-invalidation-doesnt-have-to-be-hard-practical-net-9-playbook-ed21d16bf0b8?source=rss------programming-5) (2025-11-16)
-- [Implementing a Custom Authorization Handler in ASP.NET](https://medium.com/@mariammaurice/implementing-a-custom-authorization-handler-in-asp-net-937b1e190f3f?source=rss------programming-5) (2025-11-16)
-- [AI for Coders: DeepSeek vs ChatGPT](https://medium.com/@peteroluc/ai-for-coders-deepseek-vs-chatgpt-126534d56b9b?source=rss------programming-5) (2025-11-16)
+- [09013027390شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@ctfjsg5dh5fhrdh/09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-a3a001f06ca8?source=rss------programming-5) (2025-11-17)
+- [09013027390شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@ctfjsg5dh5fhrdh/09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-561c6b26a4d6?source=rss------programming-5) (2025-11-17)
+- [Why I Decided to Study LeetCode (and What It Has to Do With AI and Career Growth)](https://medium.com/@fischer.pedro.social/why-i-decided-to-study-leetcode-and-what-it-has-to-do-with-ai-and-career-growth-6054d4c89ad0?source=rss------programming-5) (2025-11-17)
+- [09309022560شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@1bxnncm.c/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-6c33077acbc0?source=rss------programming-5) (2025-11-17)
+- [09013027390شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@grfbrgyrgurhirgj/09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-1f5583b76932?source=rss------programming-5) (2025-11-17)
 
 </details>
 
