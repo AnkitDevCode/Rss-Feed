@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [PicoIDE – An open IDE/ATAPI drive emulator](https://picoide.com/) (2025-11-16)
-- [Britney Spears' Guide to Semiconductor Physics](https://britneyspears.ac/lasers.htm) (2025-11-16)
-- [Goldman Sachs asks in biotech Report: Is curing patients a sustainable business?](https://www.cnbc.com/2018/04/11/goldman-asks-is-curing-patients-a-sustainable-business-model.html) (2025-11-16)
-- [Why your mock breaks later](https://nedbatchelder.com/blog/202511/why_your_mock_breaks_later.html) (2025-11-16)
-- [How Your Brain Creates 'Aha' Moments and Why They Stick](https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/) (2025-11-16)
+- [Building a Simple Search Engine That Works](https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works) (2025-11-17)
+- [Mixing Is the Heartbeat of Deep Lakes. At Crater Lake, It's Slowing Down](https://www.quantamagazine.org/mixing-is-the-heartbeat-of-deep-lakes-at-crater-lake-its-slowing-down-20251114/) (2025-11-17)
+- [People are using iPad OS features on their iPhones](https://idevicecentral.com/ios-customization/how-to-enable-ipad-features-like-multitasking-stage-manager-on-iphone-via-mobilegestalt/) (2025-11-17)
+- [A 1961 Relay Computer Running in the Browser](https://minivac.greg.technology/) (2025-11-17)
+- [A new chapter begins for EV batteries with the expiry of key LFP patents](https://www.shoosmiths.com/insights/articles/a-new-chapter-begins-for-ev-batteries-with-the-expiry-of-key-lfp-patents) (2025-11-16)
 
 </details>
 
@@ -97,23 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Lidando com Concorrência em Java - Lock Pessimista](https://dev.to/alineavila/lidando-com-concorrencia-em-java-lock-pessimista-9o3) (2025-11-17)
-- [Orchestrating Complex Processes in Node.js with @jescrich/nestjs-workflow](https://dev.to/jose_escrich_7a9e40bdd5e7/orchestrating-complex-processes-in-nodejs-with-jescrichnestjs-workflow-jjb) (2025-11-17)
-- [Maximize SDK Integration: Monetize Your AI Conversations](https://dev.to/monetzly/maximize-sdk-integration-monetize-your-ai-conversations-49f5) (2025-11-17)
-- [Domain Events: Transformando Mudanças em Oportunidades](https://dev.to/thrsouza/domain-events-transformando-mudancas-em-oportunidades-5f9o) (2025-11-17)
-- [Terraform Basics Week 3: Managing Variables with tfvars Files](https://dev.to/ozanguner/terraform-basics-week-3-managing-variables-with-tfvars-files-j8i) (2025-11-17)
+- [When React’s Philosophy Isn’t Enough and Data Attributes Save the Day](https://dev.to/mrezanahi_f133292cb4695d/when-reacts-philosophy-isnt-enough-and-data-attributes-save-the-day-5dpi) (2025-11-17)
+- [Building a Production-Ready AI ChatBot Platform with Real-Time Analytics](https://dev.to/vivekyadav200988/building-a-production-ready-ai-chatbot-platform-with-real-time-analytics-4ioe) (2025-11-17)
+- [From Specs to Spooky: Using Kiro to Build My AI Psychic Hotline](https://dev.to/hulyamasharipov/from-specs-to-spooky-using-kiro-to-build-my-ai-psychic-hotline-3552) (2025-11-17)
+- [Pagination in flutter](https://dev.to/niranjantk_8a74072f217dbe/pagination-in-flutter-34pk) (2025-11-17)
+- [Unified Data Management Platform: The Smartest Way to Control, Connect & Grow Your Data](https://dev.to/infoveave/unified-data-management-platform-the-smartest-way-to-control-connect-grow-your-data-15fi) (2025-11-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09013027390شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@ctfjsg5dh5fhrdh/09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-a3a001f06ca8?source=rss------programming-5) (2025-11-17)
-- [09013027390شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@ctfjsg5dh5fhrdh/09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-561c6b26a4d6?source=rss------programming-5) (2025-11-17)
-- [Why I Decided to Study LeetCode (and What It Has to Do With AI and Career Growth)](https://medium.com/@fischer.pedro.social/why-i-decided-to-study-leetcode-and-what-it-has-to-do-with-ai-and-career-growth-6054d4c89ad0?source=rss------programming-5) (2025-11-17)
-- [09309022560شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@1bxnncm.c/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-6c33077acbc0?source=rss------programming-5) (2025-11-17)
-- [09013027390شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@grfbrgyrgurhirgj/09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-1f5583b76932?source=rss------programming-5) (2025-11-17)
+- [TOON: The data format slashing LLM costs by 50%](https://oguzhanaslann.medium.com/toon-the-data-format-slashing-llm-costs-by-50-ac8d7b808ff6?source=rss------programming-5) (2025-11-17)
+- [Angular Devs: Stop Using setTimeout() — Use afterRenderEffect() Instead](https://medium.com/@Angular_With_Awais/angular-devs-stop-using-settimeout-use-afterrendereffect-instead-6291e3d0fec5?source=rss------programming-5) (2025-11-17)
+- [One Week to Nail Your Frontend Interview: A Practical, No-Panic Prep Plan](https://javascript.plainenglish.io/one-week-to-nail-your-frontend-interview-a-practical-no-panic-prep-plan-3f0270e05d3c?source=rss------programming-5) (2025-11-17)
+- [The AI Organization: When Every Python Agent Has a Role](https://python.plainenglish.io/the-ai-organization-when-every-python-agent-has-a-role-cc39bf14f8a8?source=rss------programming-5) (2025-11-17)
+- [Symbols in JavaScript: The Misunderstood Feature That Actually Solves Real Problems](https://medium.com/@coders.stop/symbols-in-javascript-the-misunderstood-feature-that-actually-solves-real-problems-522d3875bc64?source=rss------programming-5) (2025-11-17)
 
 </details>
 
@@ -131,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Infinite scale: The architecture behind the Azure AI superfactory](https://aka.ms/AAyjgcy) (2025-11-12)
 - [Securing our future: November 2025 progress report on Microsoft’s Secure Future Initiative](https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/) (2025-11-10)
 - [The new era of Azure Ultra Disk: Experience the next generation of mission-critical block storage](https://azure.microsoft.com/en-us/blog/the-new-era-of-azure-ultra-disk-experience-the-next-generation-of-mission-critical-block-storage/) (2025-11-06)
 - [Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows](https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/) (2025-11-05)
 - [Microsoft strengthens sovereign cloud capabilities with new services](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/) (2025-11-05)
+- [Powering Distributed AI/ML at Scale with Azure and Anyscale](https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/) (2025-11-04)
 
 </details>
 
