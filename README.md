@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [As consumers ditch Google for ChatGPT, Peec AI raises $21M to help brands adapt](https://techcrunch.com/2025/11/17/as-consumers-ditch-google-for-chatgpt-peec-ai-raises-21m-to-help-brands-adapt/) (2025-11-18)
 - [a16z-backed super PAC is targeting Alex Bores, sponsor of New York’s AI safety bill — he says bring it on](https://techcrunch.com/2025/11/17/a16z-backed-super-pac-is-targeting-alex-bores-sponsor-of-new-yorks-ai-safety-bill-he-says-bring-it-on/) (2025-11-18)
 - [Meta releases a new tool to protect reels creators from having their work stolen](https://techcrunch.com/2025/11/17/meta-releases-a-new-tool-to-protect-reels-creators-from-having-their-work-stolen/) (2025-11-17)
 - [Ford turns to Amazon to give used cars sales a boost](https://techcrunch.com/2025/11/17/ford-turns-to-amazon-to-give-used-cars-sales-a-boost/) (2025-11-17)
 - [Ramp hits $32B valuation, just 3 months after hitting $22.5B ](https://techcrunch.com/2025/11/17/ramp-hits-32b-valuation-just-three-months-after-hitting-22-5b/) (2025-11-17)
-- [Cisco acquires translation startup EzDubs](https://techcrunch.com/2025/11/17/cisco-acquires-translation-startup-ezdubs/) (2025-11-17)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Windows 11 adds AI agent that runs in background with access to personal folders](https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/) (2025-11-17)
-- [Show HN: Parqeye – A CLI tool to visualize and inspect Parquet files](https://github.com/kaushiksrini/parqeye) (2025-11-17)
-- [Ion: Modern System Shell in Rust](https://github.com/redox-os/ion) (2025-11-17)
-- [Run ancient Unix on modern hardware](https://github.com/felipenlunkes/run-ancient-unix) (2025-11-17)
-- [Compiling Ruby to machine language](https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language) (2025-11-17)
+- [The surprising benefits of giving up](https://nautil.us/the-surprising-benefits-of-giving-up-1248362/) (2025-11-18)
+- [LeJEPA](https://arxiv.org/abs/2511.08544) (2025-11-18)
+- [Core Devices keeps stealing our work](https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html) (2025-11-18)
+- [Unofficial "Tier 4" Rust Target for older Windows versions](https://github.com/rust9x/rust) (2025-11-18)
+- [Rebecca Heineman has died](https://www.pcgamer.com/gaming-industry/legendary-game-designer-programmer-space-invaders-champion-and-lgbtq-trailblazer-rebecca-heineman-has-died/) (2025-11-18)
 
 </details>
 
@@ -86,37 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [How to create agents that people actually want to use](https://stackoverflow.blog/2025/11/18/how-to-create-agents-that-people-actually-want-to-use/) (2025-11-18)
 - [The fastest agent in the race has the best evals](https://stackoverflow.blog/2025/11/14/the-fastest-agent-in-the-race-has-the-best-evals/) (2025-11-14)
 - [One thing enterprise AI projects need to succeed? Community.](https://stackoverflow.blog/2025/11/13/one-thing-enterprise-ai-projects-need-to-succeed-community/) (2025-11-13)
 - [2025.8 release introduces Stack Overflow Internal: The next generation of enterprise knowledge intelligence](https://stackoverflow.blog/2025/11/12/2025-8-release-introduces-stack-overflow-internal-the-next-generation-of-enterprise-knowledge-intelligence/) (2025-11-12)
 - [AI code means more critical thinking, not less](https://stackoverflow.blog/2025/11/11/ai-code-means-more-critical-thinking-not-less/) (2025-11-11)
-- [Revealing the unknown unknowns in your software](https://stackoverflow.blog/2025/11/07/revealing-the-unknown-unknowns-in-your-software/) (2025-11-07)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Stateful Serverless - Cloud Functions without Amnesia](https://dev.to/horda/stateful-serverless-cloud-functions-without-amnesia-1mok) (2025-11-18)
-- [Monetzly: A Game-Changer for AI Monetization in LLM Apps](https://dev.to/monetzly/monetzly-a-game-changer-for-ai-monetization-in-llm-apps-4mi3) (2025-11-18)
-- [The C# Developer’s CURL Copy-Paste Conundrum](https://dev.to/iron-software/the-c-developers-curl-copy-paste-conundrum-mok) (2025-11-18)
-- [Mobile Marketing in 2025: Why Your Desktop Strategy Is Costing You Conversions](https://dev.to/synergistdigitalmedia/mobile-marketing-in-2025-why-your-desktop-strategy-is-costing-you-conversions-4ijd) (2025-11-18)
-- [3d designs repo](https://dev.to/dave_d098aa692107ca4f82d8/3d-designs-repo-3487) (2025-11-18)
+- [# What Exactly Is a Computer Port, What Can Be Found There, and How to See All Existing Ports of a Computer?](https://dev.to/somadinag/-what-exactly-is-a-computer-port-what-can-be-found-there-and-how-to-see-all-existing-ports-of-a-2426) (2025-11-18)
+- [Rick Beato: Jahari Stampley... I've Never Heard Playing Like This!](https://dev.to/music_youtube/rick-beato-jahari-stampley-ive-never-heard-playing-like-this-4i7l) (2025-11-18)
+- [How to Reduce Errors in Voice Typing: Master the Art of Accurate Dictation](https://dev.to/kirat_singh_6067798d492cf/how-to-reduce-errors-in-voice-typing-master-the-art-of-accurate-dictation-3ii4) (2025-11-18)
+- [MVC - First part](https://dev.to/vasudevankumar/mvc-first-part-528j) (2025-11-18)
+- [📻 I built an infinite 90s boombox with Gemini + Lyria (and it has an AI DJ!)](https://dev.to/googleai/i-built-an-infinite-90s-boombox-with-gemini-lyria-and-it-has-an-ai-dj-3jh8) (2025-11-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mnvghjj10mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-119154e5151c?source=rss------programming-5) (2025-11-18)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mnvghjj10mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-d7bddf6f0de7?source=rss------programming-5) (2025-11-18)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mnvghjj10mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-c0a92b71b031?source=rss------programming-5) (2025-11-18)
-- [Using Local JSON Files as a Mini Database in Next.js (Beginner-Friendly Guide)](https://meetpan1048.medium.com/using-local-json-files-as-a-mini-database-in-next-js-beginner-friendly-guide-5c10df3a9154?source=rss------programming-5) (2025-11-18)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mbvddsvbn1/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-cbfdabc4a3d0?source=rss------programming-5) (2025-11-18)
+- [Why jQuery Will Outlast Many JavaScript Frameworks: The Economics of Legacy Code](https://medium.com/@sovannaro/why-jquery-will-outlast-many-javascript-frameworks-the-economics-of-legacy-code-04e962e8826f?source=rss------programming-5) (2025-11-18)
+- [Stop Calling LLMs “AI”](https://medium.com/@sovannaro/stop-calling-llms-ai-2be71abc7f31?source=rss------programming-5) (2025-11-18)
+- [Web Scraping with Scrapling: 2025 Tutorial](https://medium.com/@datajournal/web-scraping-with-scrapling-ae6c7fb1dd81?source=rss------programming-5) (2025-11-18)
+- [The biggest upgrades from GPT-5.1](https://medium.com/coding-beauty/the-biggest-upgrade-from-gpt-5-1-ef324f6acc58?source=rss------programming-5) (2025-11-18)
+- [‍♀️ The Art of Mindful Living](https://medium.com/@Sonakshee/%EF%B8%8F-the-art-of-mindful-living-1f84b94168ae?source=rss------programming-5) (2025-11-18)
 
 </details>
 
@@ -134,22 +130,22 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Infinite scale: The architecture behind the Azure AI superfactory](https://aka.ms/AAyjgcy) (2025-11-12)
 - [Securing our future: November 2025 progress report on Microsoft’s Secure Future Initiative](https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/) (2025-11-10)
 - [The new era of Azure Ultra Disk: Experience the next generation of mission-critical block storage](https://azure.microsoft.com/en-us/blog/the-new-era-of-azure-ultra-disk-experience-the-next-generation-of-mission-critical-block-storage/) (2025-11-06)
 - [Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows](https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/) (2025-11-05)
 - [Microsoft strengthens sovereign cloud capabilities with new services](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/) (2025-11-05)
-- [Powering Distributed AI/ML at Scale with Azure and Anyscale](https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/) (2025-11-04)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [The Great Flip: How Accelerated Computing Redefined Scientific Systems — and What Comes Next](https://blogs.nvidia.com/blog/accelerated-scientific-systems/) (2025-11-18)
 - [Accelerated Computing, Networking Drive Supercomputing in Age of AI](https://blogs.nvidia.com/blog/accelerated-computing-networking-supercomputing-ai/) (2025-11-17)
 - [NVIDIA Accelerates AI for Over 80 New Science Systems Worldwide](https://blogs.nvidia.com/blog/sc25-new-science-systems-worldwide/) (2025-11-17)
 - [NVIDIA Accelerated Computing Enables Scientific Breakthroughs for Materials Discovery](https://blogs.nvidia.com/blog/ai-science-materials-discovery-sc25/) (2025-11-17)
 - [One Giant Leap for AI Physics: NVIDIA Apollo Unveiled as Open Model Family for Scientific Simulation](https://blogs.nvidia.com/blog/apollo-open-models/) (2025-11-17)
-- [How to Unlock Accelerated AI Storage Performance With RDMA for S3-Compatible Storage](https://blogs.nvidia.com/blog/s3-compatible-ai-storage/) (2025-11-14)
 
 </details>
 
@@ -255,11 +251,11 @@
 <details>
 <summary>👥 Facebook Engineering</summary>
 
+- [Announcing the Completion of the Core 2Africa System: Building the Future of Connectivity Together](https://engineering.fb.com/2025/11/17/connectivity/core-2africa-system-completion-future-connectivity/) (2025-11-18)
 - [Enhancing HDR on Instagram for iOS With Dolby Vision](https://engineering.fb.com/2025/11/17/ios/enhancing-hdr-on-instagram-for-ios-with-dolby-vision/) (2025-11-17)
 - [Open Source Is Good for the Environment](https://engineering.fb.com/2025/11/14/production-engineering/open-source-is-good-for-the-environment/) (2025-11-14)
 - [StyleX: A Styling Library for CSS at Scale](https://engineering.fb.com/2025/11/11/web/stylex-a-styling-library-for-css-at-scale/) (2025-11-11)
 - [Meta’s Generative Ads Model (GEM): The Central Brain Accelerating Ads Recommendation AI Innovation](https://engineering.fb.com/2025/11/10/ml-applications/metas-generative-ads-model-gem-the-central-brain-accelerating-ads-recommendation-ai-innovation/) (2025-11-10)
-- [Video Invisible Watermarking at Scale](https://engineering.fb.com/2025/11/04/video-engineering/video-invisible-watermarking-at-scale/) (2025-11-04)
 
 </details>
 
