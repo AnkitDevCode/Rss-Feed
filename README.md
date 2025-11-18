@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Roblox will require all users to perform age-checks to access chat from January](https://techcrunch.com/2025/11/18/roblox-will-require-all-users-to-perform-age-checks-to-access-chat-from-january/) (2025-11-18)
+- [Databricks reportedly in talks to raise funding at a $130B+ valuation](https://techcrunch.com/2025/11/18/databricks-reportedly-in-talks-to-raise-funding-at-a-130b-valuation/) (2025-11-18)
+- [Mastodon CEO steps down as the social network restructures](https://techcrunch.com/2025/11/18/mastodon-ceo-steps-down-as-the-social-network-restructures/) (2025-11-18)
 - [As consumers ditch Google for ChatGPT, Peec AI raises $21M to help brands adapt](https://techcrunch.com/2025/11/17/as-consumers-ditch-google-for-chatgpt-peec-ai-raises-21m-to-help-brands-adapt/) (2025-11-18)
 - [a16z-backed super PAC is targeting Alex Bores, sponsor of New York’s AI safety bill — he says bring it on](https://techcrunch.com/2025/11/17/a16z-backed-super-pac-is-targeting-alex-bores-sponsor-of-new-yorks-ai-safety-bill-he-says-bring-it-on/) (2025-11-18)
-- [Meta releases a new tool to protect reels creators from having their work stolen](https://techcrunch.com/2025/11/17/meta-releases-a-new-tool-to-protect-reels-creators-from-having-their-work-stolen/) (2025-11-17)
-- [Ford turns to Amazon to give used cars sales a boost](https://techcrunch.com/2025/11/17/ford-turns-to-amazon-to-give-used-cars-sales-a-boost/) (2025-11-17)
-- [Ramp hits $32B valuation, just 3 months after hitting $22.5B ](https://techcrunch.com/2025/11/17/ramp-hits-32b-valuation-just-three-months-after-hitting-22-5b/) (2025-11-17)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The surprising benefits of giving up](https://nautil.us/the-surprising-benefits-of-giving-up-1248362/) (2025-11-18)
-- [LeJEPA](https://arxiv.org/abs/2511.08544) (2025-11-18)
-- [Core Devices keeps stealing our work](https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html) (2025-11-18)
-- [Unofficial "Tier 4" Rust Target for older Windows versions](https://github.com/rust9x/rust) (2025-11-18)
-- [Rebecca Heineman has died](https://www.pcgamer.com/gaming-industry/legendary-game-designer-programmer-space-invaders-champion-and-lgbtq-trailblazer-rebecca-heineman-has-died/) (2025-11-18)
+- [Cloudflare Global Network experiencing issues](https://www.cloudflarestatus.com/incidents/8gmgl950y3h7) (2025-11-18)
+- [Gemini 3 Pro Model Card](https://pixeldrain.com/u/hwgaNKeH) (2025-11-18)
+- [Cloudflare Global Network experiencing issues](https://www.cloudflarestatus.com/?t=1) (2025-11-18)
+- [The Miracle of Wörgl](https://scf.green/story-of-worgl-and-others/) (2025-11-18)
+- [Don't blindly trust what AI tells you, says Google's Sundar Pichai](https://www.bbc.com/news/articles/c8drzv37z4jo) (2025-11-18)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [DJI&#8217;s next action camera has an adjustable aperture for better low-light performance](https://www.theverge.com/news/822163/dji-osmo-action-6-camera-adjustable-aperture-4k-square-sensor) (2025-11-18)
+- [Roblox will require age estimation to chat starting next year](https://www.theverge.com/news/822718/roblox-age-estimation-verification-chat-rollout) (2025-11-18)
 - [Google is fighting the defamation battle Meta caved on](https://www.theverge.com/news/822636/google-robby-starbuck-defamation-lawsuit-ai-chatbot) (2025-11-17)
 - [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone) (2025-11-17)
 - [OpenAI is finally letting employees donate their equity to charity](https://www.theverge.com/ai-artificial-intelligence/822496/openai-employee-equity-donation-charity-rounds-share-valuation) (2025-11-17)
-- [Google updates its weather forecasts with a new AI model](https://www.theverge.com/news/822489/weather-forecast-ai-model-google-weathernext) (2025-11-17)
-- [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables) (2025-11-17)
 
 </details>
 
@@ -97,22 +97,25 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [# What Exactly Is a Computer Port, What Can Be Found There, and How to See All Existing Ports of a Computer?](https://dev.to/somadinag/-what-exactly-is-a-computer-port-what-can-be-found-there-and-how-to-see-all-existing-ports-of-a-2426) (2025-11-18)
-- [Rick Beato: Jahari Stampley... I've Never Heard Playing Like This!](https://dev.to/music_youtube/rick-beato-jahari-stampley-ive-never-heard-playing-like-this-4i7l) (2025-11-18)
-- [How to Reduce Errors in Voice Typing: Master the Art of Accurate Dictation](https://dev.to/kirat_singh_6067798d492cf/how-to-reduce-errors-in-voice-typing-master-the-art-of-accurate-dictation-3ii4) (2025-11-18)
-- [MVC - First part](https://dev.to/vasudevankumar/mvc-first-part-528j) (2025-11-18)
-- [📻 I built an infinite 90s boombox with Gemini + Lyria (and it has an AI DJ!)](https://dev.to/googleai/i-built-an-infinite-90s-boombox-with-gemini-lyria-and-it-has-an-ai-dj-3jh8) (2025-11-18)
+- [Outerwear Performance Analysis: A Data-Driven Investigation](https://dev.to/oliver_samuel_028c6f65ad6/outerwear-performance-analysis-a-data-driven-investigation-23b9) (2025-11-18)
+- [Azure Storage CORS erazed: bug or feature?](https://dev.to/andrewelans/azure-storage-bug-or-feature-fea) (2025-11-18)
+- [How I Passed My First Senior Backend Interview (Go) Using Educative](https://dev.to/devflex-pro/how-i-passed-my-first-senior-backend-interview-go-using-educative-35h1) (2025-11-18)
+- [How to manage Let's Encrypt certificate on EC2 instance](https://dev.to/jurijs_iv/how-to-manage-lets-encrypt-certificate-on-ec2-instance-46f4) (2025-11-18)
+- [Web Developer Travis McCracken on Statelessness in Server Architecture](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-statelessness-in-server-architecture-3d80) (2025-11-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why jQuery Will Outlast Many JavaScript Frameworks: The Economics of Legacy Code](https://medium.com/@sovannaro/why-jquery-will-outlast-many-javascript-frameworks-the-economics-of-legacy-code-04e962e8826f?source=rss------programming-5) (2025-11-18)
-- [Stop Calling LLMs “AI”](https://medium.com/@sovannaro/stop-calling-llms-ai-2be71abc7f31?source=rss------programming-5) (2025-11-18)
-- [Web Scraping with Scrapling: 2025 Tutorial](https://medium.com/@datajournal/web-scraping-with-scrapling-ae6c7fb1dd81?source=rss------programming-5) (2025-11-18)
-- [The biggest upgrades from GPT-5.1](https://medium.com/coding-beauty/the-biggest-upgrade-from-gpt-5-1-ef324f6acc58?source=rss------programming-5) (2025-11-18)
-- [‍♀️ The Art of Mindful Living](https://medium.com/@Sonakshee/%EF%B8%8F-the-art-of-mindful-living-1f84b94168ae?source=rss------programming-5) (2025-11-18)
+- [Implementasi Trigger untuk Manajemen Inventaris Toko Buku Online Dalam pengembangan aplikasi toko…](https://medium.com/@suuii1590/implementasi-trigger-untuk-manajemen-inventaris-toko-buku-online-dalam-pengembangan-aplikasi-toko-7552f9782988?source=rss------programming-5) (2025-11-18)
+- [From Messy to Meaningful: My First Data Cleaning Story with Pandas](https://medium.com/@mahenoork309/from-messy-to-meaningful-my-first-data-cleaning-story-with-pandas-429603a6418d?source=rss------programming-5) (2025-11-18)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@owieirufididodkjdjd/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e8694cc74e68?source=rss------programming-5) (2025-11-18)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@owieirufididodkjdjd/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-fb11302f5720?source=rss------programming-5) (2025-11-18)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@owieirufididodkjdjd/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-027973e27a6a?source=rss------programming-5) (2025-11-18)
 
 </details>
 
@@ -504,11 +507,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/twilio-zende
 <details>
 <summary>💬 Slack API</summary>
 
+- [Eight Internal Communications Best Practices You Should Know](https://slack.com/blog/collaboration/internal-communications-best-practices) (2025-11-17)
+- [How to Build an Internal Communication Strategy to Maximize Collaboration](https://slack.com/blog/collaboration/internal-communications-strategy) (2025-11-17)
+- [Employee Productivity Explanation and Tips for Improvement](https://slack.com/blog/productivity/employee-productivity) (2025-11-17)
 - [How to Choose the Best File-Sharing Solution for Your Business](https://slack.com/blog/collaboration/best-business-file-sharing-solutions) (2025-11-14)
 - [FAQ: Slack’s Marketplace review process](https://slack.com/blog/developers/slack-marketplace-review-process) (2025-11-13)
-- [Slack Feature Drop: Contextual AI, Smarter Flows, and a Seriously Streamlined Slack](https://slack.com/blog/news/feature-drop) (2025-11-12)
-- [Efficiency vs. Productivity: What’s the Difference?](https://slack.com/blog/productivity/efficiency-vs-productivity) (2025-11-12)
-- [Seven Surprising Signs of Disengaged Employees and Strategies to Address Them](https://slack.com/blog/productivity/disengaged-employees) (2025-11-12)
 
 </details>
 
@@ -559,22 +562,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/twilio-zende
 <details>
 <summary>🤖 AI News</summary>
 
+- [Bain & Company issues AI Guide for CEOs, opens Singapore hub](https://www.artificialintelligence-news.com/news/bain-company-issues-ai-guide-for-ceos-and-opens-singapore-hub/) (2025-11-18)
+- [SC25 showcases the next phase of Dell and NVIDIA’s AI partnership](https://www.artificialintelligence-news.com/news/sc25-showcases-the-next-phase-of-dell-and-nvidia-ai-partnership/) (2025-11-18)
 - [Local AI models: How to keep control of the bidstream without losing your data](https://www.artificialintelligence-news.com/news/local-ai-models-how-to-keep-control-of-the-bidstream-without-losing-your-data/) (2025-11-17)
 - [How Levi Strauss is using AI for its DTC-first business model](https://www.artificialintelligence-news.com/news/how-levi-strauss-is-using-ai-for-dtc-first-business-model/) (2025-11-17)
 - [Quantitative finance experts believe graduates ill-equipped for AI future](https://www.artificialintelligence-news.com/news/quantitative-finance-experts-believe-graduates-ill-equipped-for-ai-future/) (2025-11-17)
-- [Alibaba rolls out revamped Qwen chatbot as model pricing drops](https://www.artificialintelligence-news.com/news/alibaba-rolls-out-revamped-qwen-chatbot-as-model-pricing-drops/) (2025-11-17)
-- [Anthropic details cyber espionage campaign orchestrated by AI](https://www.artificialintelligence-news.com/news/anthropic-details-cyber-espionage-campaign-orchestrated-by-ai/) (2025-11-14)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Introducing Google’s File Search Tool](https://towardsdatascience.com/introducing-googles-file-search-tool/) (2025-11-18)
 - [Understanding Convolutional Neural Networks (CNNs) Through Excel](https://towardsdatascience.com/understanding-convolutional-neural-networks-cnns-through-excel/) (2025-11-17)
 - [Javascript Fatigue: HTMX Is All You Need to Build ChatGPT — Part 2](https://towardsdatascience.com/javascript-fatigue-you-dont-need-js-to-build-chatgpt-part-2/) (2025-11-17)
 - [Introducing ShaTS: A Shapley-Based Method for Time-Series Models](https://towardsdatascience.com/introducing-shats-a-shapley-based-method-for-time-series-models/) (2025-11-17)
 - [The Absolute Beginner’s Guide to Pandas DataFrames](https://towardsdatascience.com/the-absolute-beginners-guide-to-pandas-dataframes/) (2025-11-17)
-- [Javascript Fatigue: HTMX is all you need to build ChatGPT — Part 1](https://towardsdatascience.com/javascript-fatigue-you-dont-need-js-to-build-chatgpt/) (2025-11-17)
 
 </details>
 
@@ -582,7 +585,7 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/twilio-zende
 <summary>📈 Analytics Vidhya</summary>
 
 - [New Marble AI Creates Entire 3D Worlds from Simple Text Prompts](https://www.analyticsvidhya.com/blog/2025/11/marble-world-ai-creates-3d-worlds-from-text/) (2025-11-17)
-- [Is JSON Dead? Use TOON for LLM Calls](https://www.analyticsvidhya.com/blog/2025/11/toon-token-oriented-object-notation/) (2025-11-17)
+- [Reduce Token Costs for LLMs with TOON](https://www.analyticsvidhya.com/blog/2025/11/toon-token-oriented-object-notation/) (2025-11-17)
 - [Building a Real-Time Fraud Detection System with Graph Neural Networks and Neo4j](https://www.analyticsvidhya.com/blog/2025/11/gnn-fraud-detection-with-neo4j/) (2025-11-16)
 - [5 Must-Read AI Agent Research Papers by Google](https://www.analyticsvidhya.com/blog/2025/11/ai-agent-research-papers-by-google/) (2025-11-15)
 - [15 Ways to Make Money with AI the Smart Way](https://www.analyticsvidhya.com/blog/2025/11/ways-to-make-money-with-ai/) (2025-11-15)
