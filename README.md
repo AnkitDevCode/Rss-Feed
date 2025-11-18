@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Luminar is fighting with its biggest customer as bankruptcy threat looms](https://techcrunch.com/2025/11/17/luminar-is-fighting-with-its-biggest-customer-as-bankruptcy-threat-looms/) (2025-11-17)
-- [Sequoia-backed fintech Aspora will let Indian diaspora pay bills back home](https://techcrunch.com/2025/11/17/sequoia-backed-fintech-aspora-will-let-indian-diaspora-pay-bills-back-home/) (2025-11-17)
-- [Google rolls out its AI ‘Flight Deals’ tool globally, adds new travel features in Search](https://techcrunch.com/2025/11/17/google-rolls-out-its-ai-flight-deals-tool-globally-adds-new-travel-features-in-search/) (2025-11-17)
-- [DoorDash confirms data breach impacting users’ phone numbers and physical addresses](https://techcrunch.com/2025/11/17/doordash-confirms-data-breach-impacting-users-phone-numbers-and-physical-addresses/) (2025-11-17)
-- [PowerLattice attracts investment from ex-Intel CEO Pat Gelsinger for its power-saving chiplet](https://techcrunch.com/2025/11/17/powerlattice-attracts-investment-from-ex-intel-ceo-pat-gelsinger-for-its-power-saving-chiplet/) (2025-11-17)
+- [a16z-backed super PAC is targeting Alex Bores, sponsor of New York’s AI safety bill — he says bring it on](https://techcrunch.com/2025/11/17/a16z-backed-super-pac-is-targeting-alex-bores-sponsor-of-new-yorks-ai-safety-bill-he-says-bring-it-on/) (2025-11-18)
+- [Meta releases a new tool to protect reels creators from having their work stolen](https://techcrunch.com/2025/11/17/meta-releases-a-new-tool-to-protect-reels-creators-from-having-their-work-stolen/) (2025-11-17)
+- [Ford turns to Amazon to give used cars sales a boost](https://techcrunch.com/2025/11/17/ford-turns-to-amazon-to-give-used-cars-sales-a-boost/) (2025-11-17)
+- [Ramp hits $32B valuation, just 3 months after hitting $22.5B ](https://techcrunch.com/2025/11/17/ramp-hits-32b-valuation-just-three-months-after-hitting-22-5b/) (2025-11-17)
+- [Cisco acquires translation startup EzDubs](https://techcrunch.com/2025/11/17/cisco-acquires-translation-startup-ezdubs/) (2025-11-17)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Every log must fire: applying Chekhov's gun to cybersecurity incident reports](https://andreafortuna.org/2025/11/17/chekhovs-gun-and-cybersecurity-incident-reports) (2025-11-17)
-- [A new book recovers the origins of Effective Altruism](https://newrepublic.com/article/202433/happened-effective-altruism) (2025-11-17)
-- [The Baumol Effect and Jevons paradox are related](https://www.a16z.news/p/why-ac-is-cheap-but-ac-repair-is) (2025-11-17)
-- [Cities Panic over Having to Release Mass Surveillance Recordings](https://www.nakedcapitalism.com/2025/11/cities-panic-over-having-to-release-mass-surveillance-recordings.html) (2025-11-17)
-- [Living my best Sun Microsystems ecosystem life in 2025](https://www.osnews.com/story/143570/living-my-best-sun-microsystems-ecosystem-life-in-2025/) (2025-11-17)
+- [Windows 11 adds AI agent that runs in background with access to personal folders](https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/) (2025-11-17)
+- [Show HN: Parqeye – A CLI tool to visualize and inspect Parquet files](https://github.com/kaushiksrini/parqeye) (2025-11-17)
+- [Ion: Modern System Shell in Rust](https://github.com/redox-os/ion) (2025-11-17)
+- [Run ancient Unix on modern hardware](https://github.com/felipenlunkes/run-ancient-unix) (2025-11-17)
+- [Compiling Ruby to machine language](https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language) (2025-11-17)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The best e-reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers) (2025-11-17)
-- [Google&#8217;s AI Mode can now help you visualize your travel plans](https://www.theverge.com/news/822240/google-ai-mode-travel-plans-canvas) (2025-11-17)
-- [Netgear&#8217;s $499.99 5G hotspot lets you swap eSIMs at will](https://www.theverge.com/news/822256/netgear-nighthawk-5g-m7-esim-marketplace-launch) (2025-11-17)
-- [A treasure trove of Criterion Collection DVDs are now on half-price sale](https://www.theverge.com/tech/822105/dvd-bluray-movie-criterion-sale-deal) (2025-11-17)
-- [2TB SSD upgrades for Steam Deck are surprisingly cheap](https://www.theverge.com/gadgets/822070/steam-deck-rog-ally-ssd-2tb-gaming-deal-sale) (2025-11-17)
+- [Google is fighting the defamation battle Meta caved on](https://www.theverge.com/news/822636/google-robby-starbuck-defamation-lawsuit-ai-chatbot) (2025-11-17)
+- [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone) (2025-11-17)
+- [OpenAI is finally letting employees donate their equity to charity](https://www.theverge.com/ai-artificial-intelligence/822496/openai-employee-equity-donation-charity-rounds-share-valuation) (2025-11-17)
+- [Google updates its weather forecasts with a new AI model](https://www.theverge.com/news/822489/weather-forecast-ai-model-google-weathernext) (2025-11-17)
+- [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables) (2025-11-17)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Report claims that Apple has yet again put the Mac Pro “on the back burner”](https://arstechnica.com/gadgets/2025/11/report-claims-that-apple-has-yet-again-put-the-mac-pro-on-the-back-burner/) (2025-11-17)
-- [Benoit Blanc takes on a “perfectly impossible crime” in Wake Up Dead Man trailer](https://arstechnica.com/culture/2025/11/benoit-blanc-takes-on-a-perfectly-impossible-crime-in-wake-up-dead-man-trailer/) (2025-11-17)
-- [Fans’ reverse-engineered servers for Sony’s defunct Concord might be in trouble](https://arstechnica.com/gaming/2025/11/fans-reverse-engineered-servers-for-sonys-defunct-concord-might-be-in-trouble/) (2025-11-17)
-- [Oracle hit hard in Wall Street’s tech sell-off over its huge AI bet](https://arstechnica.com/information-technology/2025/11/oracle-hit-hard-in-wall-streets-tech-sell-off-over-its-huge-ai-bet/) (2025-11-17)
-- [Cities: Skylines upheaval: Developer and publisher announce “mutual” breakup](https://arstechnica.com/gaming/2025/11/cities-skylines-upheaval-developer-and-publisher-announce-mutual-breakup/) (2025-11-17)
+- [Trump admin axed 383 active clinical trials, dumping over 74K participants](https://arstechnica.com/health/2025/11/over-74000-people-were-kicked-out-of-clinical-trials-because-of-trump-cuts/) (2025-11-17)
+- [With a new company, Jeff Bezos will become a CEO again](https://arstechnica.com/gadgets/2025/11/with-a-new-company-jeff-bezos-will-become-a-ceo-again/) (2025-11-17)
+- [5 plead guilty to laptop farm and ID theft scheme to land North Koreans US IT jobs](https://arstechnica.com/security/2025/11/5-plead-guilty-to-laptop-farm-and-id-theft-scheme-to-land-north-koreans-us-it-jobs/) (2025-11-17)
+- [UCLA faculty gets big win in suit against Trump’s university attacks](https://arstechnica.com/science/2025/11/ucla-faculty-gets-big-win-in-suit-against-trumps-university-attacks/) (2025-11-17)
+- [Judge smacks down Texas AG’s request to immediately block Tylenol ads](https://arstechnica.com/health/2025/11/judge-smacks-down-texas-ags-request-to-immediately-block-tylenol-ads/) (2025-11-17)
 
 </details>
 
@@ -97,22 +97,26 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [n8n Web Scraping || Part 2: Pagination, Infinite Scroll, Network Capture & More](https://dev.to/extractdata/n8n-web-scraping-part-2-pagination-infinite-scroll-network-capture-more-365) (2025-11-17)
-- [**A Tale of Two Frameworks: Declarative vs](https://dev.to/drcarlosruizviquez/a-tale-of-two-frameworks-declarative-vs-2j58) (2025-11-17)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-1fdp) (2025-11-17)
-- [Event-Driven Updates with ThingsDB](https://dev.to/joente/event-driven-updates-with-thingsdb-3in5) (2025-11-17)
-- [**The Multimodal AI Blind Spot: Integrating Sensory Feedback](https://dev.to/drcarlosruizviquez/the-multimodal-ai-blind-spot-integrating-sensory-feedback-3e5g) (2025-11-17)
+- [Stateful Serverless - Cloud Functions without Amnesia](https://dev.to/horda/stateful-serverless-cloud-functions-without-amnesia-1mok) (2025-11-18)
+- [Monetzly: A Game-Changer for AI Monetization in LLM Apps](https://dev.to/monetzly/monetzly-a-game-changer-for-ai-monetization-in-llm-apps-4mi3) (2025-11-18)
+- [The C# Developer’s CURL Copy-Paste Conundrum](https://dev.to/iron-software/the-c-developers-curl-copy-paste-conundrum-mok) (2025-11-18)
+- [Mobile Marketing in 2025: Why Your Desktop Strategy Is Costing You Conversions](https://dev.to/synergistdigitalmedia/mobile-marketing-in-2025-why-your-desktop-strategy-is-costing-you-conversions-4ijd) (2025-11-18)
+- [3d designs repo](https://dev.to/dave_d098aa692107ca4f82d8/3d-designs-repo-3487) (2025-11-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Real Impact of Generative AI on Software Development](https://medium.com/@coderslab-io/the-real-impact-of-generative-ai-on-software-development-e17743d6282e?source=rss------programming-5) (2025-11-17)
-- [The Right Tool for the Job: When to Use (and Not Use) Python Data Classes](https://medium.com/@tihomir.manushev/the-right-tool-for-the-job-when-to-use-and-not-use-python-data-classes-37cc6b8ebf73?source=rss------programming-5) (2025-11-17)
-- [How To Implement Rate Limiting in .NET 9 (+ BONUS: Rate Limiter Algorithms 101)](https://medium.com/@michaelmaurice410/how-to-implement-rate-limiting-in-net-9-bonus-rate-limiter-algorithms-101-73a0faf48051?source=rss------programming-5) (2025-11-17)
-- [⭐ 12 Survival Rules of Vibe Coding](https://medium.com/@frederickpi1969/12-survival-rules-of-vibe-coding-503eb5b70226?source=rss------programming-5) (2025-11-17)
-- [Using Custom JWT Claims for Authorization in ASP.NET](https://medium.com/@mariammaurice/using-custom-jwt-claims-for-authorization-in-asp-net-6a0df1be5343?source=rss------programming-5) (2025-11-17)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mnvghjj10mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-119154e5151c?source=rss------programming-5) (2025-11-18)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mnvghjj10mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-d7bddf6f0de7?source=rss------programming-5) (2025-11-18)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mnvghjj10mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-c0a92b71b031?source=rss------programming-5) (2025-11-18)
+- [Using Local JSON Files as a Mini Database in Next.js (Beginner-Friendly Guide)](https://meetpan1048.medium.com/using-local-json-files-as-a-mini-database-in-next-js-beginner-friendly-guide-5c10df3a9154?source=rss------programming-5) (2025-11-18)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mbvddsvbn1/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-cbfdabc4a3d0?source=rss------programming-5) (2025-11-18)
 
 </details>
 
@@ -130,22 +134,22 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Securing our future: November 2025 progress report on Microsoft’s Secure Future Initiative](https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/) (2025-11-10)
 - [The new era of Azure Ultra Disk: Experience the next generation of mission-critical block storage](https://azure.microsoft.com/en-us/blog/the-new-era-of-azure-ultra-disk-experience-the-next-generation-of-mission-critical-block-storage/) (2025-11-06)
 - [Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows](https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/) (2025-11-05)
 - [Microsoft strengthens sovereign cloud capabilities with new services](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/) (2025-11-05)
 - [Powering Distributed AI/ML at Scale with Azure and Anyscale](https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/) (2025-11-04)
-- [Enhancing software supply chain security with Microsoft’s Signing Transparency](https://azure.microsoft.com/en-us/blog/enhancing-software-supply-chain-security-with-microsofts-signing-transparency/) (2025-11-03)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Accelerated Computing, Networking Drive Supercomputing in Age of AI](https://blogs.nvidia.com/blog/accelerated-computing-networking-supercomputing-ai/) (2025-11-17)
+- [NVIDIA Accelerates AI for Over 80 New Science Systems Worldwide](https://blogs.nvidia.com/blog/sc25-new-science-systems-worldwide/) (2025-11-17)
+- [NVIDIA Accelerated Computing Enables Scientific Breakthroughs for Materials Discovery](https://blogs.nvidia.com/blog/ai-science-materials-discovery-sc25/) (2025-11-17)
+- [One Giant Leap for AI Physics: NVIDIA Apollo Unveiled as Open Model Family for Scientific Simulation](https://blogs.nvidia.com/blog/apollo-open-models/) (2025-11-17)
 - [How to Unlock Accelerated AI Storage Performance With RDMA for S3-Compatible Storage](https://blogs.nvidia.com/blog/s3-compatible-ai-storage/) (2025-11-14)
-- [AI On: 3 Ways to Bring Agentic AI to Computer Vision Applications](https://blogs.nvidia.com/blog/ways-to-bring-agentic-ai-to-computer-vision-applications/) (2025-11-13)
-- [AWS, Google, Microsoft and OCI Boost AI Inference Performance for Cloud Customers With NVIDIA Dynamo](https://blogs.nvidia.com/blog/think-smart-dynamo-ai-inference-data-center/) (2025-11-13)
-- [GeForce NOW Enlists ‘Call of Duty: Black Ops 7’ for the Cloud](https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-black-ops-7/) (2025-11-13)
-- [NVIDIA Wins Every MLPerf Training v5.1 Benchmark](https://blogs.nvidia.com/blog/mlperf-training-benchmark-blackwell-ultra/) (2025-11-12)
 
 </details>
 
@@ -196,11 +200,11 @@
 <details>
 <summary>🟩 Node.js Blog</summary>
 
+- [Node.js v25.2.1 (Current)](https://nodejs.org/en/blog/release/v25.2.1) (2025-11-17)
 - [Node.js v24.11.1 (LTS)](https://nodejs.org/en/blog/release/v24.11.1) (2025-11-11)
 - [Node.js v25.2.0 (Current)](https://nodejs.org/en/blog/release/v25.2.0) (2025-11-11)
 - [Node.js v25.1.0 (Current)](https://nodejs.org/en/blog/release/v25.1.0) (2025-10-28)
 - [Node.js v22.21.1 (LTS)](https://nodejs.org/en/blog/release/v22.21.1) (2025-10-28)
-- [Node.js v24.11.0 (LTS)](https://nodejs.org/en/blog/release/v24.11.0) (2025-10-28)
 
 </details>
 
@@ -262,11 +266,11 @@
 <details>
 <summary>📦 Dropbox Tech Blog</summary>
 
+- [How Dash uses context engineering for smarter AI](https://dropbox.tech/machine-learning/how-dash-uses-context-engineering-for-smarter-ai) (2025-11-17)
 - [With Mobius Labs' Aana models, we're bringing deeper multimodal understanding to Dropbox Dash](https://dropbox.tech/machine-learning/mobius-labs-aana-dropbox-multimodal-understanding) (2025-10-23)
 - [Half-Quadratic Quantization of large machine learning models](https://dropbox.tech/machine-learning/halfquadratic-quantization-of-large-machine-learning-models) (2025-10-22)
 - [A practical blueprint for evaluating conversational AI at scale](https://dropbox.tech/machine-learning/practical-blueprint-evaluating-conversational-ai-at-scale-dash) (2025-10-02)
 - [Hack Week 2025: How these engineers liquid-cooled a GPU server](https://dropbox.tech/culture/hack-week-2025-liquid-cooling-gpu-server) (2025-08-27)
-- [Driving AI adoption at Dropbox: a conversation with CTO Ali Dasdan](https://dropbox.tech/culture/ai-adoption-productivity-dropbox-cto-ali-dasdan) (2025-08-19)
 
 </details>
 
@@ -570,11 +574,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/twilio-zende
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Understanding Convolutional Neural Networks (CNNs) Through Excel](https://towardsdatascience.com/understanding-convolutional-neural-networks-cnns-through-excel/) (2025-11-17)
+- [Javascript Fatigue: HTMX Is All You Need to Build ChatGPT — Part 2](https://towardsdatascience.com/javascript-fatigue-you-dont-need-js-to-build-chatgpt-part-2/) (2025-11-17)
 - [Introducing ShaTS: A Shapley-Based Method for Time-Series Models](https://towardsdatascience.com/introducing-shats-a-shapley-based-method-for-time-series-models/) (2025-11-17)
 - [The Absolute Beginner’s Guide to Pandas DataFrames](https://towardsdatascience.com/the-absolute-beginners-guide-to-pandas-dataframes/) (2025-11-17)
 - [Javascript Fatigue: HTMX is all you need to build ChatGPT — Part 1](https://towardsdatascience.com/javascript-fatigue-you-dont-need-js-to-build-chatgpt/) (2025-11-17)
-- [I Built an IOS App in 3 Days with Literally No Prior Swift Knowledge](https://towardsdatascience.com/i-built-an-ios-app-in-3-days-with-literally-no-prior-swift-knowledge/) (2025-11-16)
-- [Stop Worrying about AGI: The Immediate Danger is Reduced General Intelligence (RGI)](https://towardsdatascience.com/stop-worrying-about-agi-the-immediate-danger-is-reduced-general-intelligence-rgi/) (2025-11-16)
 
 </details>
 
