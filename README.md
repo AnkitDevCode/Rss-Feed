@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [As Lovable hits $200M ARR, its CEO credits staying in Europe for its success](https://techcrunch.com/2025/11/19/as-lovable-hits-200m-arr-its-ceo-credits-staying-in-europe-for-its-success/) (2025-11-19)
 - [TikTok will now give you badges for limiting your doomscrolling](https://techcrunch.com/2025/11/18/tiktok-will-now-give-you-badges-for-limiting-your-doomscrolling/) (2025-11-19)
 - [TikTok now lets you choose how much AI-generated content you want to see](https://techcrunch.com/2025/11/18/tiktok-now-lets-you-choose-how-much-ai-generated-content-you-want-to-see/) (2025-11-19)
 - [Emm raises $9M seed to create one of the world’s first ‘smart’ menstrual cups](https://techcrunch.com/2025/11/18/emm-raises-9m-seed-to-create-to-launch-one-of-the-worlds-first-smart-menstrual-cups/) (2025-11-19)
 - [The all-electric Jeep Recon is finally here](https://techcrunch.com/2025/11/18/the-all-electric-jeep-recon-is-finally-here/) (2025-11-19)
-- [Trump DOE gives Microsoft partner $1B loan to restart Three Mile Island reactor](https://techcrunch.com/2025/11/18/trump-doe-gives-microsoft-partner-1b-loan-to-restart-three-mile-island-reactor/) (2025-11-19)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [DOE gives Microsoft partner $1B loan to restart Three Mile Island reactor](https://techcrunch.com/2025/11/18/trump-doe-gives-microsoft-partner-1b-loan-to-restart-three-mile-island-reactor/) (2025-11-19)
-- [I just want working RCS messaging](https://wt.gd/i-just-want-my-rcs-messaging-to-work) (2025-11-19)
-- [Lucent 7 R/E 5ESS Telephone Switch Rescue (2024)](http://kev009.com/wp/2024/07/Lucent-5ESS-Rescue/) (2025-11-18)
+- [Multimodal Diffusion Language Models for Thinking-Aware Editing and Generation](https://github.com/tyfeld/MMaDA-Parallel) (2025-11-19)
+- [Exploring the Limits of Large Language Models as Quant Traders](https://nof1.ai/blog/TechPost1) (2025-11-19)
+- [Strace-macOS: A clone of the strace command for macOS](https://github.com/Mic92/strace-macos) (2025-11-19)
+- [I made a down detector for down detector](https://downdetectorsdowndetector.com) (2025-11-19)
 - [Cloudflare outage on November 18, 2025 post mortem](https://blog.cloudflare.com/18-november-2025-outage/) (2025-11-18)
-- [Rebecca Heineman – from homelessness to porting Doom (2022)](https://corecursive.com/doomed-to-fail-with-burger-becky/) (2025-11-18)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [AI, my unexpected daily travel companion](https://www.theverge.com/report/823725/vanlife-ai-travel-planner-google-zero) (2025-11-19)
+- [Fortnite is getting Unity games](https://www.theverge.com/report/823233/fortnite-epic-games-unity-creators-developers-tim-sweeney-matt-bromberg) (2025-11-19)
 - [Meross’ radar presence sensor ditches the cord and adds Matter-over-Thread support](https://www.theverge.com/news/823265/meross-matter-thread-smart-presence-sensor-ms605-radar-mmwave) (2025-11-19)
 - [Cloudflare explains Tuesday’s outage that temporarily took down ChatGPT](https://www.theverge.com/news/823711/cloudflare-outage-postmortem) (2025-11-19)
 - [The best Android phones](https://www.theverge.com/23674658/best-android-phone) (2025-11-19)
-- [EA will skip next year&#8217;s F1 game and release update DLC instead](https://www.theverge.com/news/823675/ea-f1-25-2026-2027-dlc-expansion-update-game) (2025-11-19)
-- [The Jeep Recon lives](https://www.theverge.com/news/822340/jeep-recon-ev-specs-range-price) (2025-11-19)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Quantum physicists have shrunk and “de-censored” DeepSeek R1](https://www.technologyreview.com/2025/11/19/1128119/quantum-physicists-compress-and-deconsor-deepseekr1/) (2025-11-19)
 - [Networking for AI: Building the foundation for real-time intelligence](https://www.technologyreview.com/2025/11/18/1127997/networking-for-ai-building-the-foundation-for-real-time-intelligence/) (2025-11-18)
 - [Realizing value with AI inference at scale and in production](https://www.technologyreview.com/2025/11/18/1128007/realizing-value-with-ai-inference-at-scale-and-in-production/) (2025-11-18)
 - [Google’s new Gemini 3 “vibe-codes” responses and comes with its own agent](https://www.technologyreview.com/2025/11/18/1128065/googles-gemini-3/) (2025-11-18)
 - [The Download: AI-powered warfare, and how embryo care is changing](https://www.technologyreview.com/2025/11/18/1128056/the-download-ai-powered-warfare-and-how-embryo-care-is-changing/) (2025-11-18)
-- [The State of AI: How war will be changed forever](https://www.technologyreview.com/2025/11/17/1127514/the-state-of-ai-the-new-rules-of-war/) (2025-11-17)
 
 </details>
 
@@ -97,22 +97,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Leaders – Wake Up and Smell the Coffee](https://dev.to/bid_solution/leaders-wake-up-and-smell-the-coffee-1laf) (2025-11-19)
-- [When I Grow Up, I Want to Be a Bid Writer!](https://dev.to/bid_solution/when-i-grow-up-i-want-to-be-a-bid-writer-59j7) (2025-11-19)
-- [コスト削減と自由度アップ！商用ツールからオープンソースへの乗り換え15選](https://dev.to/nakamura_takuya/kosutoxue-jian-tozi-you-du-atupushang-yong-turukaraopunsosuhenocheng-rihuan-e15xuan-d11) (2025-11-19)
-- [From localStorage to Database: Understanding the MongoDB Structure❗](https://dev.to/cristea_theodora_6200140b/from-localstorage-to-database-understanding-the-mongodb-structure-1a21) (2025-11-19)
-- [Python by Structure: Match Statements and Pattern Guards](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-match-statements-and-pattern-guards-1a68) (2025-11-19)
+- [What Is Worqlo? Turning Natural Language Into Deterministic Workflows](https://dev.to/worqlo/what-is-worqlo-turning-natural-language-into-deterministic-workflows-371g) (2025-11-19)
+- [The Overwhelmed Developer: Drowning in the Deep End of the Tech Pool](https://dev.to/j4s0nc/the-overwhelmed-developer-drowning-in-the-deep-end-of-the-tech-pool-el5) (2025-11-19)
+- [A Deep Dive Into ESP-CSI: Channel State Information on ESP32 Chips](https://dev.to/pratha_maniar/a-deep-dive-into-esp-csi-channel-state-information-on-esp32-chips-5el1) (2025-11-19)
+- [I got tired of writing .cursorrules manually for every project, so I built a visual generator (Free & Open)](https://dev.to/diego_b153/i-got-tired-of-writing-cursorrules-manually-for-every-project-so-i-built-a-visual-generator-free-fig) (2025-11-19)
+- [GraphBit’s Agentic AI Mechanisms Compared to Other Agent Frameworks](https://dev.to/yeahiasarker/graphbits-agentic-ai-mechanisms-compared-to-other-agent-frameworks-1141) (2025-11-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Tested Google’s Gemini 3.0 and It Honestly Scared Me (In a Good Way)](https://medium.com/codetodeploy/i-tested-googles-gemini-3-0-and-it-honestly-scared-me-in-a-good-way-606dbdf54a98?source=rss------programming-5) (2025-11-19)
-- [50% Less Coding, 2× Faster Delivery: The AI Agent Workflow That Transformed My 2025 Dev Routine](https://medium.com/@premchandak_11/50-less-coding-2-faster-delivery-the-ai-agent-workflow-that-transformed-my-2025-dev-routine-39854405fead?source=rss------programming-5) (2025-11-19)
-- [Gemini 3 Brutally Destroys the Competition](https://pradipkaity.medium.com/gemini-3-brutally-destroys-the-competition-06394bc519e6?source=rss------programming-5) (2025-11-19)
-- [ Python in 2025: Unlocking the Power of Async Programming for Modern Developers ⚡](https://medium.com/@Samira8872/python-in-2025-unlocking-the-power-of-async-programming-for-modern-developers-ff8bc0d37189?source=rss------programming-5) (2025-11-19)
-- [⚡ Next.js 15 & Beyond: The New Era of Web Development in 2025 ](https://medium.com/@Sofia52/next-js-15-beyond-the-new-era-of-web-development-in-2025-0c1dd98b8a01?source=rss------programming-5) (2025-11-19)
+- [ Python in 2025: Mastering AsyncIO and Concurrency ](https://medium.com/@beenakumawat004/python-in-2025-mastering-asyncio-and-concurrency-5cb538c47240?source=rss------programming-5) (2025-11-19)
+- [I Automated My Entire Day Using Python — Here’s What Happened](https://python.plainenglish.io/i-automated-my-entire-day-using-python-heres-what-happened-a684bf357ee4?source=rss------programming-5) (2025-11-19)
+- [Five Foolproof Tricks to Keep Bugs Out of Your Code](https://medium.com/@hyun17jk/five-foolproof-tricks-to-keep-bugs-out-of-your-code-7e7588fe96e6?source=rss------programming-5) (2025-11-19)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@drya4930/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e2b375cdf2bc?source=rss------programming-5) (2025-11-19)
+- [09045080282شماره خاله تهران شماره خاله تهران پارس شماره خاله اسلامشهر شماره خاله صیغه شماره خاله…](https://medium.com/@2keoekejenskkwkwkw/09045080282%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-817beb8cfd94?source=rss------programming-5) (2025-11-19)
 
 </details>
 
@@ -367,11 +368,6 @@ Send Timely SMS in Adobe Journey Optimizer Using Twilio Programmable Messaging
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/adobe-journey-optimizer-programmable-messaging-sms
 ) (2025-11-17)
 - [
-A Guide to Core Latency in AI Voice Agents (Cascaded Edition)
-](
-https://www.twilio.com/en-us/blog/developers/best-practices/guide-core-latency-ai-voice-agents
-) (2025-11-17)
-- [
 2026 guide to create ads that click to WhatsApp with Twilio
 ](
 https://www.twilio.com/en-us/blog/products/2026-guide-to-create-ads-that-click-to-whatsapp-with-twilio
@@ -386,6 +382,11 @@ Inside the Conversational AI Revolution: What 5,000+ Consumers and Businesses To
 ](
 https://www.twilio.com/en-us/blog/insights/inside-the-conversational-AI-revolution
 ) (2025-11-13)
+- [
+VoIP texting: What it is and how to do it right
+](
+https://www.twilio.com/en-us/blog/voip-texting
+) (2025-11-12)
 
 </details>
 
@@ -559,33 +560,33 @@ https://www.twilio.com/en-us/blog/insights/inside-the-conversational-AI-revoluti
 <details>
 <summary>🤖 AI News</summary>
 
+- [Gartner Data & Analytics Summit unveils expanded AI agenda for 2026](https://www.artificialintelligence-news.com/news/gartner-data-analytics-summit-unveils-expanded-ai-agenda-for-2026/) (2025-11-19)
 - [Microsoft, NVIDIA, and Anthropic forge AI compute alliance](https://www.artificialintelligence-news.com/news/microsoft-nvidia-and-anthropic-forge-ai-compute-alliance/) (2025-11-18)
 - [Franklin Templeton & Wand AI bring agentic AI to asset management](https://www.artificialintelligence-news.com/news/franklin-templeton-wand-ai-bring-agentic-ai-to-asset-management/) (2025-11-18)
 - [AI web search risks: Mitigating business data accuracy threats](https://www.artificialintelligence-news.com/news/ai-web-search-risks-mitigating-business-data-accuracy-threats/) (2025-11-18)
 - [Bain & Company issues AI Guide for CEOs, opens Singapore hub](https://www.artificialintelligence-news.com/news/bain-company-issues-ai-guide-for-ceos-and-opens-singapore-hub/) (2025-11-18)
-- [SC25 showcases the next phase of Dell and NVIDIA’s AI partnership](https://www.artificialintelligence-news.com/news/sc25-showcases-the-next-phase-of-dell-and-nvidia-ai-partnership/) (2025-11-18)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Making Smarter Bets: Towards a Winning AI Strategy with Probabilistic Thinking](https://towardsdatascience.com/making-smarter-bets-towards-a-winning-ai-strategy-with-probabilistic-thinking/) (2025-11-19)
 - [How to Build an Over-Engineered Retrieval System](https://towardsdatascience.com/how-to-build-an-overengineered-retrieval-system/) (2025-11-18)
 - [Why LLMs Aren’t a One-Size-Fits-All Solution for Enterprises](https://towardsdatascience.com/why-llms-arent-a-one-size-fits-all-solution-for-enterprises/) (2025-11-18)
 - [How Deep Feature Embeddings and Euclidean Similarity Power Automatic Plant Leaf Recognition](https://towardsdatascience.com/how-deep-feature-embeddings-and-euclidean-similarity-power-automatic-plant-leaf-recognition/) (2025-11-18)
 - [Introducing Google’s File Search Tool](https://towardsdatascience.com/introducing-googles-file-search-tool/) (2025-11-18)
-- [Understanding Convolutional Neural Networks (CNNs) Through Excel](https://towardsdatascience.com/understanding-convolutional-neural-networks-cnns-through-excel/) (2025-11-17)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [5 Ways to Access Gemini 3 for FREE](https://www.analyticsvidhya.com/blog/2025/11/ways-to-access-gemini-3-free/) (2025-11-19)
+- [Grok 4.1 is Here: Elon Musk is Getting Serious About the AI Race](https://www.analyticsvidhya.com/blog/2025/11/grok-4-1-is-here/) (2025-11-19)
 - [Gemini 3 is Here! The Most Powerful AI Model Out There](https://www.analyticsvidhya.com/blog/2025/11/gemini-3-is-here/) (2025-11-18)
 - [3D Spatial Understanding with Gemini: How AI Learns to See, Point, and Reason Like Humans ](https://www.analyticsvidhya.com/blog/2025/11/3d-spatial-understanding-with-gemini/) (2025-11-18)
 - [New Marble AI Creates Entire 3D Worlds from Simple Text Prompts](https://www.analyticsvidhya.com/blog/2025/11/marble-world-ai-creates-3d-worlds-from-text/) (2025-11-17)
-- [Reduce Token Costs for LLMs with TOON](https://www.analyticsvidhya.com/blog/2025/11/toon-token-oriented-object-notation/) (2025-11-17)
-- [Building a Real-Time Fraud Detection System with Graph Neural Networks and Neo4j](https://www.analyticsvidhya.com/blog/2025/11/gnn-fraud-detection-with-neo4j/) (2025-11-16)
 
 </details>
 
