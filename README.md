@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Toyota keeps betting on hybrid vehicles in the US](https://techcrunch.com/2025/11/18/toyota-keeps-betting-on-hybrid-vehicles-in-the-us/) (2025-11-18)
-- [Poe’s AI app now supports group chats across AI models](https://techcrunch.com/2025/11/18/poes-ai-app-now-supports-group-chats-across-ai-models/) (2025-11-18)
-- [‘Our funds are 20 years old’: limited partners confront VCs’ liquidity crisis](https://techcrunch.com/2025/11/18/our-funds-are-20-years-old-a-look-inside-the-liquidity-crisis-reshaping-venture-capital/) (2025-11-18)
-- [a16z leads $21M Series A into AI-native tax compliance software Sphere](https://techcrunch.com/2025/11/18/a16z-leads-21m-series-a-into-tax-compliance-platform-sphere/) (2025-11-18)
-- [Hank Green’s Focus Friend is Google Play’s app of the year](https://techcrunch.com/2025/11/18/hank-greens-focus-friend-is-google-plays-app-of-the-year/) (2025-11-18)
+- [Trump DOE gives Microsoft partner $1B loan to restart Three Mile Island reactor](https://techcrunch.com/2025/11/18/trump-doe-gives-microsoft-partner-1b-loan-to-restart-three-mile-island-reactor/) (2025-11-19)
+- [European tech gets political](https://techcrunch.com/2025/11/18/european-tech-gets-political/) (2025-11-19)
+- [Tesla receives ride-hailing permit in Arizona in last required step to launch robotaxi service](https://techcrunch.com/2025/11/18/tesla-receives-ride-hailing-permit-in-arizona-in-last-required-step-to-launch-robotaxi-service/) (2025-11-18)
+- [Hugging Face CEO says we’re in an ‘LLM bubble,’ not an AI bubble](https://techcrunch.com/2025/11/18/hugging-face-ceo-says-were-in-an-llm-bubble-not-an-ai-bubble/) (2025-11-18)
+- [AI data center provider Lambda raises whopping $1.5B after multibillion-dollar Microsoft deal ](https://techcrunch.com/2025/11/18/ai-data-center-provider-lambda-raises-whopping-1-5b-after-multibillion-dollar-microsoft-deal/) (2025-11-18)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: Guts – convert Golang types to TypeScript](https://github.com/coder/guts) (2025-11-18)
-- [Pebble, Rebble, and a Path Forward](https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/) (2025-11-18)
-- [Strix Halo's Memory Subsystem: Tackling iGPU Challenges](https://chipsandcheese.com/p/strix-halos-memory-subsystem-tackling) (2025-11-18)
-- [Show HN: Optimizing LiteLLM with Rust – When Expectations Meet Reality](https://github.com/neul-labs/fast-litellm) (2025-11-18)
-- [Solving a Million-Step LLM Task with Zero Errors](https://arxiv.org/abs/2511.09030) (2025-11-18)
+- [Lucent 7 R/E 5ESS Telephone Switch Rescue](http://kev009.com/wp/2024/07/Lucent-5ESS-Rescue/) (2025-11-18)
+- [Cloudflare outage on November 18, 2025 post mortem](https://blog.cloudflare.com/18-november-2025-outage/) (2025-11-18)
+- [Rebecca Heineman – from homelessness to porting Doom](https://corecursive.com/doomed-to-fail-with-burger-becky/) (2025-11-18)
+- [Monotype font licencing shake-down](https://www.insanityworks.org/randomtangent/2025/11/14/monotype-font-licencing-shake-down) (2025-11-18)
+- [Blender 5.0](https://www.blender.org/download/releases/5-0/) (2025-11-18)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Sen. Warren presses Trump admin on potential AI bailout plans](https://www.theverge.com/news/823136/senator-elizabeth-warren-openai-trump-bailout) (2025-11-18)
-- [The Apple Watch Series 11 has plunged to a record low price](https://www.theverge.com/tech/823052/apple-watch-series-11-onn-4k-pro-deal-sale) (2025-11-18)
-- [The Echo Aviation Controller puts a flight simulator in your hands](https://www.theverge.com/news/823018/honeycomb-aeronautical-echo-aviation-controller-gamepad-pc-flight-simulator) (2025-11-18)
-- [Microsoft is turning Windows into an &#8216;agentic OS,&#8217; starting with the taskbar](https://www.theverge.com/news/821948/microsoft-windows-11-ai-agents-taskbar-integration) (2025-11-18)
-- [Microsoft Agent 365 lets businesses manage AI agents like they do people](https://www.theverge.com/news/822035/microsoft-agent-365-businesses-control-security) (2025-11-18)
+- [The best Android phones](https://www.theverge.com/23674658/best-android-phone) (2025-11-19)
+- [EA will skip next year&#8217;s F1 game and release update DLC instead](https://www.theverge.com/news/823675/ea-f1-25-2026-2027-dlc-expansion-update-game) (2025-11-19)
+- [The Jeep Recon lives](https://www.theverge.com/news/822340/jeep-recon-ev-specs-range-price) (2025-11-19)
+- [The Apple deals worth shopping before Black Friday (and the discounts to expect)](https://www.theverge.com/tech/821484/black-friday-best-early-apple-deals-2025) (2025-11-18)
+- [Republicans are looking for a way to bring back the AI moratorium](https://www.theverge.com/policy/823650/ai-moratorium-house-gop-scalise) (2025-11-18)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Google CEO: If an AI bubble pops, no one is getting out clean](https://arstechnica.com/ai/2025/11/googles-sundar-pichai-warns-of-irrationality-in-trillion-dollar-ai-investment-boom/) (2025-11-18)
-- [Google unveils Gemini 3 AI model and AI-first IDE called Antigravity](https://arstechnica.com/google/2025/11/google-unveils-gemini-3-ai-model-and-ai-first-ide-called-antigravity/) (2025-11-18)
-- [Ryan Gosling must save dying stars in Project Hail Mary trailer](https://arstechnica.com/culture/2025/11/stranded-astronaut-finds-an-alien-ally-in-project-hail-mary-trailer/) (2025-11-18)
-- [Tesla safety driver falls asleep during passenger’s robotaxi ride](https://arstechnica.com/cars/2025/11/tesla-safety-driver-falls-asleep-during-passengers-robotaxi-ride/) (2025-11-18)
-- [Widespread Cloudflare outage blamed on mysterious traffic spike](https://arstechnica.com/tech-policy/2025/11/widespread-cloudflare-outage-blamed-on-mysterious-traffic-spike/) (2025-11-18)
+- [GOP overhaul of broadband permit laws: Cities hate it, cable companies love it](https://arstechnica.com/tech-policy/2025/11/gop-overhaul-of-broadband-permit-laws-cities-hate-it-cable-companies-love-it/) (2025-11-18)
+- [Faced with naked man, DoorDasher demands police action; they arrest her for illegal surveillance](https://arstechnica.com/tech-policy/2025/11/doordasher-claims-sexual-assault-but-cops-arrest-her-for-filming-nude-drunk-man/) (2025-11-18)
+- [CDC data confirms US is 2 months away from losing measles elimination status](https://arstechnica.com/health/2025/11/cdc-data-confirms-us-is-2-months-away-from-losing-measles-elimination-status/) (2025-11-18)
+- [Meta wins monopoly trial, convinces judge that social networking is dead](https://arstechnica.com/tech-policy/2025/11/meta-wins-monopoly-trial-convinces-judge-that-social-networking-is-dead/) (2025-11-18)
+- [Tech giants pour billions into Anthropic as circular AI investments roll on](https://arstechnica.com/ai/2025/11/tech-giants-pour-billions-into-anthropic-as-circular-ai-investments-roll-on/) (2025-11-18)
 
 </details>
 
@@ -97,55 +97,55 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [**Mejora en PLD gracias a IA/ML: un micro-caso de éxito**](https://dev.to/drcarlosruizviquez/mejora-en-pld-gracias-a-iaml-un-micro-caso-de-exito-kg3) (2025-11-18)
-- [Five months of learning, breaking things, fixing them, and somehow building my first proper RASA chatbot. Sharing the whole journey here](https://dev.to/aniket_kuyate_15acc4e6587/five-months-of-learning-breaking-things-fixing-them-and-somehow-building-my-first-proper-rasa-55g1) (2025-11-18)
-- [Two KubeCons, One Conference: While Everyone Demos AI Agents, Engineers Are Fighting With Syslogs](https://dev.to/aronchick/two-kubecons-one-conference-while-everyone-demos-ai-agents-engineers-are-fighting-with-syslogs-4bp6) (2025-11-18)
-- [MacOS: Make Paste and Match Style the default Paste hotkey behavior](https://dev.to/adamlombard/macos-make-paste-and-match-style-the-default-paste-hotkey-behavior-a6i) (2025-11-18)
-- [Rococo Supercharged Immutability, Time-Travel Debugging & Event-Driven Workflows](https://dev.to/khaleelhabeeb/rococo-supercharged-immutability-time-travel-debugging-event-driven-workflows-4jk6) (2025-11-18)
+- [AI Amnesia: Erasing Knowledge Without a Trace](https://dev.to/arvind_sundararajan/ai-amnesia-erasing-knowledge-without-a-trace-1cnb) (2025-11-19)
+- [Do Something While Someone Logs Into Your Linux System](https://dev.to/kingyou/do-something-while-someone-logs-into-your-linux-system-3hd4) (2025-11-19)
+- [[Boost]](https://dev.to/grayside/-9kb) (2025-11-19)
+- [The lumberjack paradox: From theory to practice](https://dev.to/googlecloud/the-lumberjack-paradox-from-theory-to-practice-2lb5) (2025-11-19)
+- [dev diary 20251118](https://dev.to/hirooka_kazuya_d7f37d3cde/dev-diary-20251118-555o) (2025-11-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [From Chatbots to Agents: Why Our UIs Need to Grow Up](https://ai.plainenglish.io/from-chatbots-to-agents-why-our-uis-need-to-grow-up-3b312cf055d2?source=rss------programming-5) (2025-11-18)
-- [09032543127](https://medium.com/@calexawsumiadecom/09032543127-b9ca9caa0348?source=rss------programming-5) (2025-11-18)
-- [09032543127](https://medium.com/@calexawsumiadecom/09032543127-4ecde777633b?source=rss------programming-5) (2025-11-18)
-- [09032543127](https://medium.com/@calexawsumiadecom/09032543127-b3b513b0da8f?source=rss------programming-5) (2025-11-18)
-- [Taming Digital Chaos: How the Idempotency Key Header Saves Your Backend](https://medium.com/@dayakumar06588/taming-digital-chaos-how-the-idempotency-key-header-saves-your-backend-769ad885bb8d?source=rss------programming-5) (2025-11-18)
+- [Mastering Gemini AI Photo Prompts: A Hands-On Guide to Visual Intelligence](https://medium.com/@angadi.saa/mastering-gemini-ai-photo-prompts-a-hands-on-guide-to-visual-intelligence-6dc9b77e7d98?source=rss------programming-5) (2025-11-19)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbvcdccc37mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-2f016b572e24?source=rss------programming-5) (2025-11-19)
+- [09370673570شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@mnbvcdccc37mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-05cd1d0b5734?source=rss------programming-5) (2025-11-19)
+- [09370673570شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@mmbcxzsa35/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-f59471c78b28?source=rss------programming-5) (2025-11-19)
+- [10 Python Scripts That Make Remote Work Stress-Free](https://python.plainenglish.io/10-python-scripts-that-make-remote-work-stress-free-27ed037085f8?source=rss------programming-5) (2025-11-19)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [New Amazon Bedrock service tiers help you match AI workload performance with cost](https://aws.amazon.com/blogs/aws/new-amazon-bedrock-service-tiers-help-you-match-ai-workload-performance-with-cost/) (2025-11-18)
+- [Accelerate large-scale AI applications with the new Amazon EC2 P6-B300 instances](https://aws.amazon.com/blogs/aws/accelerate-large-scale-ai-applications-with-the-new-amazon-ec2-p6-b300-instances/) (2025-11-18)
 - [AWS Weekly Roundup: AWS Lambda for Rust, NLB for QUIC protocol, Amazon DCV for Mac, and more (November 17, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-load-balancers-amazon-dcv-amazon-linux-2023-and-more-november-17-2025/) (2025-11-17)
 - [AWS Lambda enhances event processing with provisioned mode for SQS event-source mapping](https://aws.amazon.com/blogs/aws/aws-lambda-enhances-sqs-processing-with-new-provisioned-mode-3x-faster-scaling-16x-higher-capacity/) (2025-11-14)
 - [Introducing AWS IoT Core Device Location integration with Amazon Sidewalk](https://aws.amazon.com/blogs/aws/introducing-aws-iot-core-device-location-integration-with-amazon-sidewalk/) (2025-11-13)
-- [Introducing Our Final AWS Heroes of 2025](https://aws.amazon.com/blogs/aws/introducing-our-final-aws-heroes-of-2025/) (2025-11-12)
-- [Secure EKS clusters with the new support for Amazon EKS in AWS Backup](https://aws.amazon.com/blogs/aws/secure-eks-clusters-with-the-new-support-for-amazon-eks-in-aws-backup/) (2025-11-10)
 
 </details>
 
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Infinite scale: The architecture behind the Azure AI superfactory](https://aka.ms/AAyjgcy) (2025-11-12)
 - [Securing our future: November 2025 progress report on Microsoft’s Secure Future Initiative](https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/) (2025-11-10)
 - [The new era of Azure Ultra Disk: Experience the next generation of mission-critical block storage](https://azure.microsoft.com/en-us/blog/the-new-era-of-azure-ultra-disk-experience-the-next-generation-of-mission-critical-block-storage/) (2025-11-06)
 - [Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows](https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/) (2025-11-05)
 - [Microsoft strengthens sovereign cloud capabilities with new services](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/) (2025-11-05)
+- [Powering Distributed AI/ML at Scale with Azure and Anyscale](https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/) (2025-11-04)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Gordon Bell Prize Finalists Push Open Science Boundaries With NVIDIA-Powered Supercomputers](https://blogs.nvidia.com/blog/gordon-bell-finalists-2025/) (2025-11-18)
+- [Powering AI Superfactories, NVIDIA and Microsoft Integrate Latest Technologies for Inference, Cybersecurity, Physical AI](https://blogs.nvidia.com/blog/nvidia-microsoft-ai-superfactories/) (2025-11-18)
 - [Delivering AI-Ready Enterprise Data With GPU-Accelerated AI Storage](https://blogs.nvidia.com/blog/ai-data-platform-gpu-accelerated-storage/) (2025-11-18)
 - [Microsoft, NVIDIA and Anthropic Announce Strategic Partnerships](https://blogs.nvidia.com/blog/microsoft-nvidia-anthropic-announce-partnership/) (2025-11-18)
 - [The Great Flip: How Accelerated Computing Redefined Scientific Systems — and What Comes Next](https://blogs.nvidia.com/blog/accelerated-scientific-systems/) (2025-11-18)
-- [Accelerated Computing, Networking Drive Supercomputing in Age of AI](https://blogs.nvidia.com/blog/accelerated-computing-networking-supercomputing-ai/) (2025-11-17)
-- [NVIDIA Accelerates AI for Over 80 New Science Systems Worldwide](https://blogs.nvidia.com/blog/sc25-new-science-systems-worldwide/) (2025-11-17)
 
 </details>
 
@@ -163,11 +163,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [How Uber is reducing manual logins by 4 million per year with the Restore Credentials API](https://android-developers.googleblog.com/2025/11/how-uber-is-reducing-manual-logins-by-4.html) (2025-11-18)
 - [Configure and troubleshoot R8 Keep Rules](https://android-developers.googleblog.com/2025/11/configure-and-troubleshoot-r8-keep-rules.html) (2025-11-18)
 - [Gemini 3 is now available for AI assistance in Android Studio](https://android-developers.googleblog.com/2025/11/gemini-3-is-now-available-for-ai.html) (2025-11-18)
 - [How Reddit used the R8 optimizer for high impact performance improvements](https://android-developers.googleblog.com/2025/11/how-reddit-used-r8-optimizer-for-high.html) (2025-11-17)
 - [Use R8 to shrink, optimize, and fast-track your app](https://android-developers.googleblog.com/2025/11/use-r8-to-shrink-optimize-and-fast.html) (2025-11-17)
-- [Get your app on the fast track with Android Performance Spotlight Week!](https://android-developers.googleblog.com/2025/11/get-your-app-on-fast-track-with-android.html) (2025-11-17)
 
 </details>
 
@@ -350,32 +350,17 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Cloudflare outage on November 18, 2025](https://blog.cloudflare.com/18-november-2025-outage/) (2025-11-18)
 - [Replicate is joining Cloudflare](https://blog.cloudflare.com/replicate-joins-cloudflare/) (2025-11-17)
 - [Finding the grain of sand in a heap of Salt](https://blog.cloudflare.com/finding-the-grain-of-sand-in-a-heap-of-salt/) (2025-11-13)
 - [Connecting to production: the architecture of remote bindings](https://blog.cloudflare.com/connecting-to-production-the-architecture-of-remote-bindings/) (2025-11-12)
 - [A closer look at Python Workflows, now in beta](https://blog.cloudflare.com/python-workflows/) (2025-11-10)
-- [DIY BYOIP: a new way to Bring Your Own IP prefixes to Cloudflare](https://blog.cloudflare.com/diy-byoip/) (2025-11-07)
 
 </details>
 
 <details>
 <summary>📞 Twilio Blog</summary>
 
-- [
-Send Timely SMS in Adobe Journey Optimizer Using Twilio Programmable Messaging
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/adobe-journey-optimizer-programmable-messaging-sms
-) (2025-11-17)
-- [
-A Guide to Core Latency in AI Voice Agents (Cascaded Edition)
-](
-https://www.twilio.com/en-us/blog/developers/best-practices/guide-core-latency-ai-voice-agents
-) (2025-11-17)
-- [
-2026 guide to create ads that click to WhatsApp with Twilio
-](
-https://www.twilio.com/en-us/blog/products/2026-guide-to-create-ads-that-click-to-whatsapp-with-twilio
-) (2025-11-17)
 - [
 Building Trust in the Age of AI: Why Identity Is the Foundation of Customer Engagement
 ](
@@ -386,6 +371,21 @@ Inside the Conversational AI Revolution: What 5,000+ Consumers and Businesses To
 ](
 https://www.twilio.com/en-us/blog/insights/inside-the-conversational-AI-revolution
 ) (2025-11-13)
+- [
+VoIP texting: What it is and how to do it right
+](
+https://www.twilio.com/en-us/blog/voip-texting
+) (2025-11-12)
+- [
+Announcing General Availability of <Start><Recording> for Voice Recording
+](
+https://www.twilio.com/en-us/blog/products/launches/general-availability-start-recording
+) (2025-11-10)
+- [
+Integrating Twilio and Zendesk for SMS Messaging 
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/twilio-zendesk-sms-messaging
+) (2025-11-10)
 
 </details>
 
@@ -581,11 +581,11 @@ https://www.twilio.com/en-us/blog/insights/inside-the-conversational-AI-revoluti
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Gemini 3 is Here! The Most Powerful AI Model Out There](https://www.analyticsvidhya.com/blog/2025/11/gemini-3-is-here/) (2025-11-18)
 - [3D Spatial Understanding with Gemini: How AI Learns to See, Point, and Reason Like Humans ](https://www.analyticsvidhya.com/blog/2025/11/3d-spatial-understanding-with-gemini/) (2025-11-18)
 - [New Marble AI Creates Entire 3D Worlds from Simple Text Prompts](https://www.analyticsvidhya.com/blog/2025/11/marble-world-ai-creates-3d-worlds-from-text/) (2025-11-17)
 - [Reduce Token Costs for LLMs with TOON](https://www.analyticsvidhya.com/blog/2025/11/toon-token-oriented-object-notation/) (2025-11-17)
 - [Building a Real-Time Fraud Detection System with Graph Neural Networks and Neo4j](https://www.analyticsvidhya.com/blog/2025/11/gnn-fraud-detection-with-neo4j/) (2025-11-16)
-- [5 Must-Read AI Agent Research Papers by Google](https://www.analyticsvidhya.com/blog/2025/11/ai-agent-research-papers-by-google/) (2025-11-15)
 
 </details>
 
@@ -603,11 +603,11 @@ https://www.twilio.com/en-us/blog/insights/inside-the-conversational-AI-revoluti
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Training a Tokenizer for BERT Models](https://machinelearningmastery.com/training-a-tokenizer-for-bert-models/) (2025-11-18)
 - [Forecasting the Future with Tree-Based Models for Time Series](https://machinelearningmastery.com/forecasting-the-future-with-tree-based-models-for-time-series/) (2025-11-18)
 - [The Complete AI Agent Decision Framework](https://machinelearningmastery.com/the-complete-ai-agent-decision-framework/) (2025-11-17)
 - [Mastering JSON Prompting for LLMs](https://machinelearningmastery.com/mastering-json-prompting-for-llms/) (2025-11-14)
 - [5 Essential Python Scripts for Intermediate Machine Learning Practitioners](https://machinelearningmastery.com/5-essential-python-scripts-for-intermediate-machine-learning-practitioners/) (2025-11-13)
-- [Datasets for Training a Language Model](https://machinelearningmastery.com/datasets-for-training-a-language-model/) (2025-11-12)
 
 </details>
 
