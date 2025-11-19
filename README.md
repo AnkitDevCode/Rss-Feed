@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [TikTok will now give you badges for limiting your doomscrolling](https://techcrunch.com/2025/11/18/tiktok-will-now-give-you-badges-for-limiting-your-doomscrolling/) (2025-11-19)
+- [TikTok now lets you choose how much AI-generated content you want to see](https://techcrunch.com/2025/11/18/tiktok-now-lets-you-choose-how-much-ai-generated-content-you-want-to-see/) (2025-11-19)
+- [Emm raises $9M seed to create one of the world’s first ‘smart’ menstrual cups](https://techcrunch.com/2025/11/18/emm-raises-9m-seed-to-create-to-launch-one-of-the-worlds-first-smart-menstrual-cups/) (2025-11-19)
+- [The all-electric Jeep Recon is finally here](https://techcrunch.com/2025/11/18/the-all-electric-jeep-recon-is-finally-here/) (2025-11-19)
 - [Trump DOE gives Microsoft partner $1B loan to restart Three Mile Island reactor](https://techcrunch.com/2025/11/18/trump-doe-gives-microsoft-partner-1b-loan-to-restart-three-mile-island-reactor/) (2025-11-19)
-- [European tech gets political](https://techcrunch.com/2025/11/18/european-tech-gets-political/) (2025-11-19)
-- [Tesla receives ride-hailing permit in Arizona in last required step to launch robotaxi service](https://techcrunch.com/2025/11/18/tesla-receives-ride-hailing-permit-in-arizona-in-last-required-step-to-launch-robotaxi-service/) (2025-11-18)
-- [Hugging Face CEO says we’re in an ‘LLM bubble,’ not an AI bubble](https://techcrunch.com/2025/11/18/hugging-face-ceo-says-were-in-an-llm-bubble-not-an-ai-bubble/) (2025-11-18)
-- [AI data center provider Lambda raises whopping $1.5B after multibillion-dollar Microsoft deal ](https://techcrunch.com/2025/11/18/ai-data-center-provider-lambda-raises-whopping-1-5b-after-multibillion-dollar-microsoft-deal/) (2025-11-18)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Lucent 7 R/E 5ESS Telephone Switch Rescue](http://kev009.com/wp/2024/07/Lucent-5ESS-Rescue/) (2025-11-18)
+- [DOE gives Microsoft partner $1B loan to restart Three Mile Island reactor](https://techcrunch.com/2025/11/18/trump-doe-gives-microsoft-partner-1b-loan-to-restart-three-mile-island-reactor/) (2025-11-19)
+- [I just want working RCS messaging](https://wt.gd/i-just-want-my-rcs-messaging-to-work) (2025-11-19)
+- [Lucent 7 R/E 5ESS Telephone Switch Rescue (2024)](http://kev009.com/wp/2024/07/Lucent-5ESS-Rescue/) (2025-11-18)
 - [Cloudflare outage on November 18, 2025 post mortem](https://blog.cloudflare.com/18-november-2025-outage/) (2025-11-18)
-- [Rebecca Heineman – from homelessness to porting Doom](https://corecursive.com/doomed-to-fail-with-burger-becky/) (2025-11-18)
-- [Monotype font licencing shake-down](https://www.insanityworks.org/randomtangent/2025/11/14/monotype-font-licencing-shake-down) (2025-11-18)
-- [Blender 5.0](https://www.blender.org/download/releases/5-0/) (2025-11-18)
+- [Rebecca Heineman – from homelessness to porting Doom (2022)](https://corecursive.com/doomed-to-fail-with-burger-becky/) (2025-11-18)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Meross’ radar presence sensor ditches the cord and adds Matter-over-Thread support](https://www.theverge.com/news/823265/meross-matter-thread-smart-presence-sensor-ms605-radar-mmwave) (2025-11-19)
+- [Cloudflare explains Tuesday’s outage that temporarily took down ChatGPT](https://www.theverge.com/news/823711/cloudflare-outage-postmortem) (2025-11-19)
 - [The best Android phones](https://www.theverge.com/23674658/best-android-phone) (2025-11-19)
 - [EA will skip next year&#8217;s F1 game and release update DLC instead](https://www.theverge.com/news/823675/ea-f1-25-2026-2027-dlc-expansion-update-game) (2025-11-19)
 - [The Jeep Recon lives](https://www.theverge.com/news/822340/jeep-recon-ev-specs-range-price) (2025-11-19)
-- [The Apple deals worth shopping before Black Friday (and the discounts to expect)](https://www.theverge.com/tech/821484/black-friday-best-early-apple-deals-2025) (2025-11-18)
-- [Republicans are looking for a way to bring back the AI moratorium](https://www.theverge.com/policy/823650/ai-moratorium-house-gop-scalise) (2025-11-18)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [AI Amnesia: Erasing Knowledge Without a Trace](https://dev.to/arvind_sundararajan/ai-amnesia-erasing-knowledge-without-a-trace-1cnb) (2025-11-19)
-- [Do Something While Someone Logs Into Your Linux System](https://dev.to/kingyou/do-something-while-someone-logs-into-your-linux-system-3hd4) (2025-11-19)
-- [[Boost]](https://dev.to/grayside/-9kb) (2025-11-19)
-- [The lumberjack paradox: From theory to practice](https://dev.to/googlecloud/the-lumberjack-paradox-from-theory-to-practice-2lb5) (2025-11-19)
-- [dev diary 20251118](https://dev.to/hirooka_kazuya_d7f37d3cde/dev-diary-20251118-555o) (2025-11-19)
+- [Leaders – Wake Up and Smell the Coffee](https://dev.to/bid_solution/leaders-wake-up-and-smell-the-coffee-1laf) (2025-11-19)
+- [When I Grow Up, I Want to Be a Bid Writer!](https://dev.to/bid_solution/when-i-grow-up-i-want-to-be-a-bid-writer-59j7) (2025-11-19)
+- [コスト削減と自由度アップ！商用ツールからオープンソースへの乗り換え15選](https://dev.to/nakamura_takuya/kosutoxue-jian-tozi-you-du-atupushang-yong-turukaraopunsosuhenocheng-rihuan-e15xuan-d11) (2025-11-19)
+- [From localStorage to Database: Understanding the MongoDB Structure❗](https://dev.to/cristea_theodora_6200140b/from-localstorage-to-database-understanding-the-mongodb-structure-1a21) (2025-11-19)
+- [Python by Structure: Match Statements and Pattern Guards](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-match-statements-and-pattern-guards-1a68) (2025-11-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Mastering Gemini AI Photo Prompts: A Hands-On Guide to Visual Intelligence](https://medium.com/@angadi.saa/mastering-gemini-ai-photo-prompts-a-hands-on-guide-to-visual-intelligence-6dc9b77e7d98?source=rss------programming-5) (2025-11-19)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbvcdccc37mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-2f016b572e24?source=rss------programming-5) (2025-11-19)
-- [09370673570شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@mnbvcdccc37mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-05cd1d0b5734?source=rss------programming-5) (2025-11-19)
-- [09370673570شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@mmbcxzsa35/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-f59471c78b28?source=rss------programming-5) (2025-11-19)
-- [10 Python Scripts That Make Remote Work Stress-Free](https://python.plainenglish.io/10-python-scripts-that-make-remote-work-stress-free-27ed037085f8?source=rss------programming-5) (2025-11-19)
+- [I Tested Google’s Gemini 3.0 and It Honestly Scared Me (In a Good Way)](https://medium.com/codetodeploy/i-tested-googles-gemini-3-0-and-it-honestly-scared-me-in-a-good-way-606dbdf54a98?source=rss------programming-5) (2025-11-19)
+- [50% Less Coding, 2× Faster Delivery: The AI Agent Workflow That Transformed My 2025 Dev Routine](https://medium.com/@premchandak_11/50-less-coding-2-faster-delivery-the-ai-agent-workflow-that-transformed-my-2025-dev-routine-39854405fead?source=rss------programming-5) (2025-11-19)
+- [Gemini 3 Brutally Destroys the Competition](https://pradipkaity.medium.com/gemini-3-brutally-destroys-the-competition-06394bc519e6?source=rss------programming-5) (2025-11-19)
+- [ Python in 2025: Unlocking the Power of Async Programming for Modern Developers ⚡](https://medium.com/@Samira8872/python-in-2025-unlocking-the-power-of-async-programming-for-modern-developers-ff8bc0d37189?source=rss------programming-5) (2025-11-19)
+- [⚡ Next.js 15 & Beyond: The New Era of Web Development in 2025 ](https://medium.com/@Sofia52/next-js-15-beyond-the-new-era-of-web-development-in-2025-0c1dd98b8a01?source=rss------programming-5) (2025-11-19)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Securing our future: November 2025 progress report on Microsoft’s Secure Future Initiative](https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/) (2025-11-10)
 - [The new era of Azure Ultra Disk: Experience the next generation of mission-critical block storage](https://azure.microsoft.com/en-us/blog/the-new-era-of-azure-ultra-disk-experience-the-next-generation-of-mission-critical-block-storage/) (2025-11-06)
 - [Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows](https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/) (2025-11-05)
 - [Microsoft strengthens sovereign cloud capabilities with new services](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/) (2025-11-05)
 - [Powering Distributed AI/ML at Scale with Azure and Anyscale](https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/) (2025-11-04)
+- [Enhancing software supply chain security with Microsoft’s Signing Transparency](https://azure.microsoft.com/en-us/blog/enhancing-software-supply-chain-security-with-microsofts-signing-transparency/) (2025-11-03)
 
 </details>
 
@@ -362,6 +362,21 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Send Timely SMS in Adobe Journey Optimizer Using Twilio Programmable Messaging
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/adobe-journey-optimizer-programmable-messaging-sms
+) (2025-11-17)
+- [
+A Guide to Core Latency in AI Voice Agents (Cascaded Edition)
+](
+https://www.twilio.com/en-us/blog/developers/best-practices/guide-core-latency-ai-voice-agents
+) (2025-11-17)
+- [
+2026 guide to create ads that click to WhatsApp with Twilio
+](
+https://www.twilio.com/en-us/blog/products/2026-guide-to-create-ads-that-click-to-whatsapp-with-twilio
+) (2025-11-17)
+- [
 Building Trust in the Age of AI: Why Identity Is the Foundation of Customer Engagement
 ](
 https://www.twilio.com/en-us/blog/company/news/twilio-to-acquire-stytch
@@ -371,21 +386,6 @@ Inside the Conversational AI Revolution: What 5,000+ Consumers and Businesses To
 ](
 https://www.twilio.com/en-us/blog/insights/inside-the-conversational-AI-revolution
 ) (2025-11-13)
-- [
-VoIP texting: What it is and how to do it right
-](
-https://www.twilio.com/en-us/blog/voip-texting
-) (2025-11-12)
-- [
-Announcing General Availability of <Start><Recording> for Voice Recording
-](
-https://www.twilio.com/en-us/blog/products/launches/general-availability-start-recording
-) (2025-11-10)
-- [
-Integrating Twilio and Zendesk for SMS Messaging 
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/twilio-zendesk-sms-messaging
-) (2025-11-10)
 
 </details>
 
