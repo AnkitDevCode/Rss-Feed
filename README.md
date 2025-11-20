@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Uber Eats will use Starship sidewalk robots to deliver food in the UK](https://techcrunch.com/2025/11/20/uber-eats-will-use-starship-sidewalk-robots-to-deliver-food-in-the-uk/) (2025-11-20)
 - [Monarch Tractor preps for layoffs and warns employees it may ‘shut down’](https://techcrunch.com/2025/11/19/monarch-tractor-preps-for-layoffs-and-warns-employees-it-may-shut-down/) (2025-11-20)
 - [Nvidia’s record $57B revenue and upbeat forecast quiets AI bubble talk](https://techcrunch.com/2025/11/19/nvidias-record-57b-revenue-and-upbeat-forecast-quiets-ai-bubble-talk/) (2025-11-19)
 - [How the classic anime ‘Ghost in the Shell’ predicted the future of cybersecurity 30 years ago](https://techcrunch.com/2025/11/19/how-the-classic-anime-ghost-in-the-shell-predicted-the-future-of-cybersecurity-30-years-ago/) (2025-11-19)
 - [Cavela lands $6.6M to help brands beat pre-tariff manufacturing costs](https://techcrunch.com/2025/11/19/cavela-lands-6-6m-to-help-brands-beat-pre-tariff-manufacturing-costs/) (2025-11-19)
-- [VC Jennifer Neundorfer explains how founders can stand out in a crowded AI market](https://techcrunch.com/2025/11/19/vc-jennifer-neundorfer-explains-how-founders-can-stand-out-in-a-crowded-ai-market/) (2025-11-19)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: An A2A-compatible, open-source framework for multi-agent networks](https://github.com/openagents-org/openagents) (2025-11-20)
-- [Basalt Woven Textile – MaterialDistrict](https://materialdistrict.com/material/basalt-woven-textile/) (2025-11-20)
-- [Measuring the impact of AI scams on the elderly](https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish) (2025-11-20)
-- [Verifying your Matrix devices is becoming mandatory](https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/) (2025-11-20)
-- [The patent office is about to make bad patents untouchable](https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable) (2025-11-19)
+- [40 years ago, Calvin and Hobbes' raucous adventures burst onto the comics page](https://text.npr.org/nx-s1-5564064) (2025-11-20)
+- [Show HN: Awesome J2ME](https://github.com/hstsethi/awesome-j2me) (2025-11-20)
+- [Interactive World History Atlas Since 3000 BC](http://geacron.com/home-en/) (2025-11-20)
+- [DOS Days – Laptop Displays](https://www.dosdays.co.uk/topics/laptop_displays.php) (2025-11-20)
+- [Implementation of a Java Processor on a FPGA](https://mavmatrix.uta.edu/electricaleng_theses/337/) (2025-11-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Windows on Arm is now ready for gaming thanks to some big changes](https://www.theverge.com/news/824783/windows-on-arm-snapdragon-control-panel-gaming-driver-compatibility-improvements) (2025-11-20)
 - [Here’s the Trump executive order that would ban state AI laws](https://www.theverge.com/ai-artificial-intelligence/824608/trump-executive-order-ai-state-laws) (2025-11-19)
 - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide) (2025-11-19)
-- [Netflix signs a three year deal to stream MLB live events and games](https://www.theverge.com/news/824513/mlb-netflix-nbc-peacock-espn) (2025-11-19)
+- [Netflix signs a three-year deal to stream MLB live events and games](https://www.theverge.com/news/824513/mlb-netflix-nbc-peacock-espn) (2025-11-19)
 - [Nvidia says some AI GPUs are ‘sold out,’ grows data center business by $10B in just three months](https://www.theverge.com/tech/824111/nvidia-q3-2026-earnings-data-center-revenue) (2025-11-19)
-- [Google’s new Scholar Labs search uses AI to find relevant studies](https://www.theverge.com/news/823213/google-scholar-labs-ai-search) (2025-11-19)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [In 1982, a physics joke gone wrong sparked the invention of the emoticon](https://arstechnica.com/gadgets/2025/11/in-1982-a-physics-joke-gone-wrong-sparked-the-invention-of-the-emoticon/) (2025-11-20)
 - [Study: Kids’ drip paintings more like Pollock’s than those of adults](https://arstechnica.com/science/2025/11/study-kids-drip-paintings-more-like-pollocks-than-adults/) (2025-11-20)
 - [“We’re in an LLM bubble,” Hugging Face CEO says—but not an AI one](https://arstechnica.com/ai/2025/11/were-in-an-llm-bubble-hugging-face-ceo-says-but-not-an-ai-one/) (2025-11-19)
 - [NASA really wants you to know that 3I/ATLAS is an interstellar comet](https://arstechnica.com/science/2025/11/nasa-really-wants-you-to-know-that-3i-atlas-is-an-interstellar-comet/) (2025-11-19)
 - [Massive Cloudflare outage was triggered by file that suddenly doubled in size](https://arstechnica.com/tech-policy/2025/11/cloudflare-broke-much-of-the-internet-with-a-corrupted-bot-management-file/) (2025-11-19)
-- [Rocket Lab Electron among first artifacts installed in CA Science Center space gallery](https://arstechnica.com/space/2025/11/rocket-lab-electron-among-first-artifacts-installed-in-ca-science-center-space-gallery/) (2025-11-19)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Three things to know about the future of electricity](https://www.technologyreview.com/2025/11/20/1128167/future-of-electricity/) (2025-11-20)
 - [Scaling innovation in manufacturing with AI](https://www.technologyreview.com/2025/11/19/1128067/scaling-innovation-in-manufacturing-with-ai/) (2025-11-19)
 - [The Download: de-censoring DeepSeek, and Gemini 3](https://www.technologyreview.com/2025/11/19/1128131/the-download-de-censoring-deepseek-and-gemini-3/) (2025-11-19)
 - [Quantum physicists have shrunk and “de-censored” DeepSeek R1](https://www.technologyreview.com/2025/11/19/1128119/quantum-physicists-compress-and-deconsor-deepseekr1/) (2025-11-19)
 - [Networking for AI: Building the foundation for real-time intelligence](https://www.technologyreview.com/2025/11/18/1127997/networking-for-ai-building-the-foundation-for-real-time-intelligence/) (2025-11-18)
-- [Realizing value with AI inference at scale and in production](https://www.technologyreview.com/2025/11/18/1128007/realizing-value-with-ai-inference-at-scale-and-in-production/) (2025-11-18)
 
 </details>
 
@@ -97,11 +97,11 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How I Played With Self-Correcting LLMs While Fixing My Blog](https://dev.to/peggggykang/how-i-played-with-self-correcting-llms-while-fixing-my-blog-1m9k) (2025-11-20)
-- [Why You Should Never Raise Money Before Finding Product Market Fit](https://dev.to/mapster/why-you-should-never-raise-money-before-finding-product-market-fit-884) (2025-11-20)
-- [Which One Should You Choose: Bash or Make?](https://dev.to/kingyou/which-one-should-you-choose-bash-or-make-2ig0) (2025-11-20)
-- [Major lessons every developer should learn before a Microsoft system design interview](https://dev.to/dev_loops/major-lessons-every-developer-should-learn-before-a-microsoft-system-design-interview-36ki) (2025-11-20)
-- [Balancing Cost and Speed: Leading Platform Engineering Companies](https://dev.to/olivia_jhonson_/balancing-cost-and-speed-leading-platform-engineering-companies-2ink) (2025-11-20)
+- [The Developer’s Paradox: Why You Need a Next.js SaaS Starter Kit to Stop Coding and Start Selling](https://dev.to/thekarlesi/the-developers-paradox-why-you-need-a-nextjs-saas-starter-kit-to-stop-coding-and-start-selling-4a9k) (2025-11-20)
+- [Lesson 26: Freqtrade-Custom Strategy Development](https://dev.to/henry_lin_3ac6363747f45b4/lesson-26-freqtrade-custom-strategy-development-255) (2025-11-20)
+- [Stop Shipping Muddy Shadows: A Practical, Copy‑Paste Guide to Professional UI Shadows (CSS + Tailwind)](https://dev.to/srisomanaath/stop-shipping-muddy-shadows-a-practical-copy-paste-guide-to-professional-ui-shadows-css--34lg) (2025-11-20)
+- [GraphBit vs. LangChain, LlamaIndex, Haystack, and similar tools](https://dev.to/yeahiasarker/graphbit-vs-langchain-llamaindex-haystack-and-similar-tools-26cm) (2025-11-20)
+- [Top 6 WordPress Heatmap Plugins to Decode Real User Behavior](https://dev.to/paloma_kingsley_8f28c45cb/top-6-wordpress-heatmap-plugins-to-decode-real-user-behavior-252f) (2025-11-20)
 
 </details>
 
@@ -449,11 +449,11 @@ https://www.twilio.com/en-us/blog/developers/best-practices/guide-core-latency-a
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slack for iOS 26: A Simpler, More Productive Way to Work from Anywhere](https://slack.com/blog/news/redesigning-slack-ios26) (2025-11-18)
+- [Eight Internal Communications Best Practices You Should Know](https://slack.com/blog/collaboration/internal-communications-best-practices) (2025-11-17)
+- [How to Build an Internal Communication Strategy to Maximize Collaboration](https://slack.com/blog/collaboration/internal-communications-strategy) (2025-11-17)
+- [Employee Productivity Explanation and Tips for Improvement](https://slack.com/blog/productivity/employee-productivity) (2025-11-17)
 - [How to Choose the Best File-Sharing Solution for Your Business](https://slack.com/blog/collaboration/best-business-file-sharing-solutions) (2025-11-14)
-- [FAQ: Slack’s Marketplace review process](https://slack.com/blog/developers/slack-marketplace-review-process) (2025-11-13)
-- [Slack Feature Drop: Contextual AI, Smarter Flows, and a Seriously Streamlined Slack](https://slack.com/blog/news/feature-drop) (2025-11-12)
-- [Efficiency vs. Productivity: What’s the Difference?](https://slack.com/blog/productivity/efficiency-vs-productivity) (2025-11-12)
-- [Seven Surprising Signs of Disengaged Employees and Strategies to Address Them](https://slack.com/blog/productivity/disengaged-employees) (2025-11-12)
 
 </details>
 
@@ -493,44 +493,44 @@ https://www.twilio.com/en-us/blog/developers/best-practices/guide-core-latency-a
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms](https://huggingface.co/blog/anylanguagemodel) (2025-11-20)
 - [Easily Build and Share ROCm Kernels with Hugging Face](https://huggingface.co/blog/build-rocm-kernels) (2025-11-17)
 - [Building for an Open Future - our new partnership with Google Cloud](https://huggingface.co/blog/google-cloud) (2025-11-13)
 - [Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac](https://huggingface.co/blog/lerobotxnvidia-healthcare) (2025-10-29)
 - [Voice Cloning with Consent](https://huggingface.co/blog/voice-consent-gate) (2025-10-28)
-- [Streaming datasets: 100x More Efficient](https://huggingface.co/blog/streaming-datasets) (2025-10-27)
 
 </details>
 
 <details>
 <summary>🤖 AI News</summary>
 
+- [Lightweight LLM powers Japanese enterprise AI deployments](https://www.artificialintelligence-news.com/news/lightweight-llm-enterprise-deployment-single-gpu/) (2025-11-20)
 - [What Europe’s AI education experiments can teach a business](https://www.artificialintelligence-news.com/news/ai-education-the-european-experience/) (2025-11-19)
 - [Gartner Data & Analytics Summit unveils expanded AI agenda for 2026](https://www.artificialintelligence-news.com/news/gartner-data-analytics-summit-unveils-expanded-ai-agenda-for-2026/) (2025-11-19)
 - [Microsoft, NVIDIA, and Anthropic forge AI compute alliance](https://www.artificialintelligence-news.com/news/microsoft-nvidia-and-anthropic-forge-ai-compute-alliance/) (2025-11-18)
 - [Franklin Templeton & Wand AI bring agentic AI to asset management](https://www.artificialintelligence-news.com/news/franklin-templeton-wand-ai-bring-agentic-ai-to-asset-management/) (2025-11-18)
-- [AI web search risks: Mitigating business data accuracy threats](https://www.artificialintelligence-news.com/news/ai-web-search-risks-mitigating-business-data-accuracy-threats/) (2025-11-18)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Why I’m Making the Switch to marimo Notebooks](https://towardsdatascience.com/why-im-making-the-switch-to-marimo-notebooks/) (2025-11-20)
 - [How to Perform Agentic Information Retrieval](https://towardsdatascience.com/how-to-perform-agentic-information-retrieval/) (2025-11-19)
 - [Developing Human Sexuality in the Age of AI](https://towardsdatascience.com/developing-human-sexuality-in-the-age-of-ai/) (2025-11-19)
 - [PyTorch Tutorial for Beginners: Build a Multiple Regression Model from Scratch](https://towardsdatascience.com/pytorch-tutorial-for-beginners-build-a-multiple-regression-model-from-scratch/) (2025-11-19)
 - [Making Smarter Bets: Towards a Winning AI Strategy with Probabilistic Thinking](https://towardsdatascience.com/making-smarter-bets-towards-a-winning-ai-strategy-with-probabilistic-thinking/) (2025-11-19)
-- [How to Build an Over-Engineered Retrieval System](https://towardsdatascience.com/how-to-build-an-overengineered-retrieval-system/) (2025-11-18)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Is Gemini 3 Better than GPT 5.1?](https://www.analyticsvidhya.com/blog/2025/11/gemini-3-vs-gpt-5-1/) (2025-11-20)
 - [Gemini 3 vs Grok 4.1: The Best AI of 2025 is…](https://www.analyticsvidhya.com/blog/2025/11/gemini-3-vs-grok-4-1-best-ai-of-2025/) (2025-11-20)
 - [5 Ways to Access Gemini 3 for FREE](https://www.analyticsvidhya.com/blog/2025/11/ways-to-access-gemini-3-free/) (2025-11-19)
 - [Grok 4.1 is Here: Elon Musk is Getting Serious About the AI Race](https://www.analyticsvidhya.com/blog/2025/11/grok-4-1-is-here/) (2025-11-19)
 - [Gemini 3 is Here! The Most Powerful AI Model Out There](https://www.analyticsvidhya.com/blog/2025/11/gemini-3-is-here/) (2025-11-18)
-- [3D Spatial Understanding with Gemini: How AI Learns to See, Point, and Reason Like Humans ](https://www.analyticsvidhya.com/blog/2025/11/3d-spatial-understanding-with-gemini/) (2025-11-18)
 
 </details>
 
@@ -548,11 +548,11 @@ https://www.twilio.com/en-us/blog/developers/best-practices/guide-core-latency-a
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [From Shannon to Modern AI: A Complete Information Theory Guide for Machine Learning](https://machinelearningmastery.com/from-shannon-to-modern-ai-a-complete-information-theory-guide-for-machine-learning/) (2025-11-20)
 - [Why Decision Trees Fail (and How to Fix Them)](https://machinelearningmastery.com/why-decision-trees-fail-and-how-to-fix-them/) (2025-11-19)
 - [Training a Tokenizer for BERT Models](https://machinelearningmastery.com/training-a-tokenizer-for-bert-models/) (2025-11-18)
 - [Forecasting the Future with Tree-Based Models for Time Series](https://machinelearningmastery.com/forecasting-the-future-with-tree-based-models-for-time-series/) (2025-11-18)
 - [The Complete AI Agent Decision Framework](https://machinelearningmastery.com/the-complete-ai-agent-decision-framework/) (2025-11-17)
-- [Mastering JSON Prompting for LLMs](https://machinelearningmastery.com/mastering-json-prompting-for-llms/) (2025-11-14)
 
 </details>
 
