@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Monarch Tractor preps for layoffs and warns employees it may ‘shut down’](https://techcrunch.com/2025/11/19/monarch-tractor-preps-for-layoffs-and-warns-employees-it-may-shut-down/) (2025-11-20)
 - [Nvidia’s record $57B revenue and upbeat forecast quiets AI bubble talk](https://techcrunch.com/2025/11/19/nvidias-record-57b-revenue-and-upbeat-forecast-quiets-ai-bubble-talk/) (2025-11-19)
 - [How the classic anime ‘Ghost in the Shell’ predicted the future of cybersecurity 30 years ago](https://techcrunch.com/2025/11/19/how-the-classic-anime-ghost-in-the-shell-predicted-the-future-of-cybersecurity-30-years-ago/) (2025-11-19)
 - [Cavela lands $6.6M to help brands beat pre-tariff manufacturing costs](https://techcrunch.com/2025/11/19/cavela-lands-6-6m-to-help-brands-beat-pre-tariff-manufacturing-costs/) (2025-11-19)
 - [VC Jennifer Neundorfer explains how founders can stand out in a crowded AI market](https://techcrunch.com/2025/11/19/vc-jennifer-neundorfer-explains-how-founders-can-stand-out-in-a-crowded-ai-market/) (2025-11-19)
-- [Function Health raises $298M Series B at $2.5B valuation](https://techcrunch.com/2025/11/19/function-health-closes-298m-series-b-at-a-2-5b-valuation-launches-medical-intelligence/) (2025-11-19)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Jailbreaking AI Models to Phish Elderly Victims](https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish) (2025-11-20)
-- [Workday to Acquire Pipedream](https://newsroom.workday.com/2025-11-19-Workday-Signs-Definitive-Agreement-to-Acquire-Pipedream) (2025-11-20)
+- [Show HN: An A2A-compatible, open-source framework for multi-agent networks](https://github.com/openagents-org/openagents) (2025-11-20)
+- [Basalt Woven Textile – MaterialDistrict](https://materialdistrict.com/material/basalt-woven-textile/) (2025-11-20)
+- [Measuring the impact of AI scams on the elderly](https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish) (2025-11-20)
 - [Verifying your Matrix devices is becoming mandatory](https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/) (2025-11-20)
-- [Linux Career Opportunities in 2025: Skills in High Demand](https://www.linuxcareers.com/resources/blog/2025/11/linux-career-opportunities-in-2025-skills-in-high-demand/) (2025-11-20)
-- [Tailscale Down](https://status.tailscale.com/incidents/01KAF1H8V7EGFKVG5KGZBB2RJC) (2025-11-19)
+- [The patent office is about to make bad patents untouchable](https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable) (2025-11-19)
 
 </details>
 
@@ -45,7 +45,7 @@
 - [Here’s the Trump executive order that would ban state AI laws](https://www.theverge.com/ai-artificial-intelligence/824608/trump-executive-order-ai-state-laws) (2025-11-19)
 - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide) (2025-11-19)
 - [Netflix signs a three year deal to stream MLB live events and games](https://www.theverge.com/news/824513/mlb-netflix-nbc-peacock-espn) (2025-11-19)
-- [Nvidia says its AI GPUs are sold out, grows data center business by $10B in a single quarter](https://www.theverge.com/tech/824111/nvidia-q3-2026-earnings-data-center-revenue) (2025-11-19)
+- [Nvidia says some AI GPUs are ‘sold out,’ grows data center business by $10B in just three months](https://www.theverge.com/tech/824111/nvidia-q3-2026-earnings-data-center-revenue) (2025-11-19)
 - [Google’s new Scholar Labs search uses AI to find relevant studies](https://www.theverge.com/news/823213/google-scholar-labs-ai-search) (2025-11-19)
 
 </details>
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Study: Kids’ drip paintings more like Pollock’s than those of adults](https://arstechnica.com/science/2025/11/study-kids-drip-paintings-more-like-pollocks-than-adults/) (2025-11-20)
 - [“We’re in an LLM bubble,” Hugging Face CEO says—but not an AI one](https://arstechnica.com/ai/2025/11/were-in-an-llm-bubble-hugging-face-ceo-says-but-not-an-ai-one/) (2025-11-19)
 - [NASA really wants you to know that 3I/ATLAS is an interstellar comet](https://arstechnica.com/science/2025/11/nasa-really-wants-you-to-know-that-3i-atlas-is-an-interstellar-comet/) (2025-11-19)
 - [Massive Cloudflare outage was triggered by file that suddenly doubled in size](https://arstechnica.com/tech-policy/2025/11/cloudflare-broke-much-of-the-internet-with-a-corrupted-bot-management-file/) (2025-11-19)
 - [Rocket Lab Electron among first artifacts installed in CA Science Center space gallery](https://arstechnica.com/space/2025/11/rocket-lab-electron-among-first-artifacts-installed-in-ca-science-center-space-gallery/) (2025-11-19)
-- [He got sued for sharing public YouTube videos; nightmare ended in settlement](https://arstechnica.com/tech-policy/2025/11/proctorio-settles-curious-lawsuit-with-librarian-who-shared-public-youtube-videos/) (2025-11-19)
 
 </details>
 
@@ -97,11 +97,11 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Securing Cross-Account AWS Operations: Adding External ID Support to AwsCustomResource](https://dev.to/aws-builders/securing-cross-account-aws-operations-adding-external-id-support-to-awscustomresource-l3p) (2025-11-20)
-- [Beyond Scheduling: How Kubernetes Uses QoS, Priority, and Scoring to Keep Your Cluster Balanced](https://dev.to/gteegela/beyond-scheduling-how-kubernetes-uses-qos-priority-and-scoring-to-keep-your-cluster-balanced-4o8i) (2025-11-20)
-- [Restoring files with git](https://dev.to/suzulabo/restoring-files-with-git-34n) (2025-11-20)
-- [Best Primer For Miniatures, The Confident Choice For Perfect Coverage](https://dev.to/dragoongaminguk/best-primer-for-miniatures-the-confident-choice-for-perfect-coverage-2jf6) (2025-11-20)
-- [Introduction to GO Programming](https://dev.to/srinivasuluparanduru/introduction-to-go-programming-3blh) (2025-11-20)
+- [How I Played With Self-Correcting LLMs While Fixing My Blog](https://dev.to/peggggykang/how-i-played-with-self-correcting-llms-while-fixing-my-blog-1m9k) (2025-11-20)
+- [Why You Should Never Raise Money Before Finding Product Market Fit](https://dev.to/mapster/why-you-should-never-raise-money-before-finding-product-market-fit-884) (2025-11-20)
+- [Which One Should You Choose: Bash or Make?](https://dev.to/kingyou/which-one-should-you-choose-bash-or-make-2ig0) (2025-11-20)
+- [Major lessons every developer should learn before a Microsoft system design interview](https://dev.to/dev_loops/major-lessons-every-developer-should-learn-before-a-microsoft-system-design-interview-36ki) (2025-11-20)
+- [Balancing Cost and Speed: Leading Platform Engineering Companies](https://dev.to/olivia_jhonson_/balancing-cost-and-speed-leading-platform-engineering-companies-2ink) (2025-11-20)
 
 </details>
 
@@ -119,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Infinite scale: The architecture behind the Azure AI superfactory](https://aka.ms/AAyjgcy) (2025-11-12)
 - [Securing our future: November 2025 progress report on Microsoft’s Secure Future Initiative](https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/) (2025-11-10)
 - [The new era of Azure Ultra Disk: Experience the next generation of mission-critical block storage](https://azure.microsoft.com/en-us/blog/the-new-era-of-azure-ultra-disk-experience-the-next-generation-of-mission-critical-block-storage/) (2025-11-06)
 - [Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows](https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/) (2025-11-05)
 - [Microsoft strengthens sovereign cloud capabilities with new services](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/) (2025-11-05)
-- [Powering Distributed AI/ML at Scale with Azure and Anyscale](https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/) (2025-11-04)
 
 </details>
 
@@ -318,6 +318,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Launch WhatsApp faster with Twilio: Senders API GA, plus Typing Indicators, Flows, and a smoother ISV experience
+](
+https://www.twilio.com/en-us/blog/products/launches/launch-whatsapp-faster-with-twilio--senders-api-ga--plus-typing-
+) (2025-11-19)
+- [
+How to Create a Magic Link in Laravel with Twilio SMS
+](
+https://www.twilio.com/en-us/blog/developers/community/create-magic-link-laravel-twilio-sms
+) (2025-11-18)
+- [
 How Do You Know if Your Voice AI Agents are Working?
 ](
 https://www.twilio.com/en-us/blog/developers/evaluating-voice-ai-agents
@@ -332,16 +342,6 @@ A Guide to Core Latency in AI Voice Agents (Cascaded Edition)
 ](
 https://www.twilio.com/en-us/blog/developers/best-practices/guide-core-latency-ai-voice-agents
 ) (2025-11-17)
-- [
-2026 guide to create ads that click to WhatsApp with Twilio
-](
-https://www.twilio.com/en-us/blog/products/2026-guide-to-create-ads-that-click-to-whatsapp-with-twilio
-) (2025-11-17)
-- [
-Building Trust in the Age of AI: Why Identity Is the Foundation of Customer Engagement
-](
-https://www.twilio.com/en-us/blog/company/news/twilio-to-acquire-stytch
-) (2025-11-14)
 
 </details>
 
@@ -449,11 +449,11 @@ https://www.twilio.com/en-us/blog/company/news/twilio-to-acquire-stytch
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack for iOS 26: A Simpler, More Productive Way to Work from Anywhere](https://slack.com/blog/news/redesigning-slack-ios26) (2025-11-18)
-- [Eight Internal Communications Best Practices You Should Know](https://slack.com/blog/collaboration/internal-communications-best-practices) (2025-11-17)
-- [How to Build an Internal Communication Strategy to Maximize Collaboration](https://slack.com/blog/collaboration/internal-communications-strategy) (2025-11-17)
-- [Employee Productivity Explanation and Tips for Improvement](https://slack.com/blog/productivity/employee-productivity) (2025-11-17)
 - [How to Choose the Best File-Sharing Solution for Your Business](https://slack.com/blog/collaboration/best-business-file-sharing-solutions) (2025-11-14)
+- [FAQ: Slack’s Marketplace review process](https://slack.com/blog/developers/slack-marketplace-review-process) (2025-11-13)
+- [Slack Feature Drop: Contextual AI, Smarter Flows, and a Seriously Streamlined Slack](https://slack.com/blog/news/feature-drop) (2025-11-12)
+- [Efficiency vs. Productivity: What’s the Difference?](https://slack.com/blog/productivity/efficiency-vs-productivity) (2025-11-12)
+- [Seven Surprising Signs of Disengaged Employees and Strategies to Address Them](https://slack.com/blog/productivity/disengaged-employees) (2025-11-12)
 
 </details>
 
@@ -526,11 +526,11 @@ https://www.twilio.com/en-us/blog/company/news/twilio-to-acquire-stytch
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Gemini 3 vs Grok 4.1: The Best AI of 2025 is…](https://www.analyticsvidhya.com/blog/2025/11/gemini-3-vs-grok-4-1-best-ai-of-2025/) (2025-11-20)
 - [5 Ways to Access Gemini 3 for FREE](https://www.analyticsvidhya.com/blog/2025/11/ways-to-access-gemini-3-free/) (2025-11-19)
 - [Grok 4.1 is Here: Elon Musk is Getting Serious About the AI Race](https://www.analyticsvidhya.com/blog/2025/11/grok-4-1-is-here/) (2025-11-19)
 - [Gemini 3 is Here! The Most Powerful AI Model Out There](https://www.analyticsvidhya.com/blog/2025/11/gemini-3-is-here/) (2025-11-18)
 - [3D Spatial Understanding with Gemini: How AI Learns to See, Point, and Reason Like Humans ](https://www.analyticsvidhya.com/blog/2025/11/3d-spatial-understanding-with-gemini/) (2025-11-18)
-- [New Marble AI Creates Entire 3D Worlds from Simple Text Prompts](https://www.analyticsvidhya.com/blog/2025/11/marble-world-ai-creates-3d-worlds-from-text/) (2025-11-17)
 
 </details>
 
