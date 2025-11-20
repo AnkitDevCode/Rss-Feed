@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Why January Ventures is funding underrepresented AI founders](https://techcrunch.com/video/why-january-ventures-is-funding-underrepresented-ai-founders/) (2025-11-19)
-- [Subletting startup Kiki paid over $152K to settle charges after violating NYC short-term rental laws](https://techcrunch.com/2025/11/19/subletting-startup-kiki-paid-over-152k-to-settle-charges-after-violating-nyc-short-term-rental-laws/) (2025-11-19)
-- [Bluesky announces moderation changes focused on better tracking, improved transparency](https://techcrunch.com/2025/11/19/bluesky-announces-moderation-changes-focused-on-better-tracking-improved-transparency/) (2025-11-19)
-- [Amazon’s Prime Video is getting AI-generated Video Recaps for some TV shows](https://techcrunch.com/2025/11/19/amazons-prime-video-is-getting-ai-generated-video-recaps-for-some-tv-shows/) (2025-11-19)
-- [US, UK, and Australia sanction Russian ‘bulletproof’ web host used in ransomware attacks](https://techcrunch.com/2025/11/19/us-uk-and-australia-sanction-russian-bulletproof-web-host-used-in-ransomware-attacks/) (2025-11-19)
+- [Nvidia’s record $57B revenue and upbeat forecast quiets AI bubble talk](https://techcrunch.com/2025/11/19/nvidias-record-57b-revenue-and-upbeat-forecast-quiets-ai-bubble-talk/) (2025-11-19)
+- [How the classic anime ‘Ghost in the Shell’ predicted the future of cybersecurity 30 years ago](https://techcrunch.com/2025/11/19/how-the-classic-anime-ghost-in-the-shell-predicted-the-future-of-cybersecurity-30-years-ago/) (2025-11-19)
+- [Cavela lands $6.6M to help brands beat pre-tariff manufacturing costs](https://techcrunch.com/2025/11/19/cavela-lands-6-6m-to-help-brands-beat-pre-tariff-manufacturing-costs/) (2025-11-19)
+- [VC Jennifer Neundorfer explains how founders can stand out in a crowded AI market](https://techcrunch.com/2025/11/19/vc-jennifer-neundorfer-explains-how-founders-can-stand-out-in-a-crowded-ai-market/) (2025-11-19)
+- [Function Health raises $298M Series B at $2.5B valuation](https://techcrunch.com/2025/11/19/function-health-closes-298m-series-b-at-a-2-5b-valuation-launches-medical-intelligence/) (2025-11-19)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Building more with GPT-5.1-Codex-Max](https://openai.com/index/gpt-5-1-codex-max/) (2025-11-19)
-- [Show HN: DNS Benchmark Tool – Compare and monitor resolvers](https://github.com/frankovo/dns-benchmark-tool) (2025-11-19)
-- [A Chinese firm bought an insurer for CIA agents](https://www.bbc.com/news/articles/c4g311jn1m9o) (2025-11-19)
-- [LLMs are bullshitters. But that doesn't mean they're not useful](https://blog.kagi.com/llms) (2025-11-19)
-- [Adventures in upgrading Proxmox](https://blog.vasi.li/adventures-in-upgrading-proxmox/) (2025-11-19)
+- [Jailbreaking AI Models to Phish Elderly Victims](https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish) (2025-11-20)
+- [Workday to Acquire Pipedream](https://newsroom.workday.com/2025-11-19-Workday-Signs-Definitive-Agreement-to-Acquire-Pipedream) (2025-11-20)
+- [Verifying your Matrix devices is becoming mandatory](https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/) (2025-11-20)
+- [Linux Career Opportunities in 2025: Skills in High Demand](https://www.linuxcareers.com/resources/blog/2025/11/linux-career-opportunities-in-2025-skills-in-high-demand/) (2025-11-20)
+- [Tailscale Down](https://status.tailscale.com/incidents/01KAF1H8V7EGFKVG5KGZBB2RJC) (2025-11-19)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The Verge’s 2025 holiday gift guide for tinkerers](https://www.theverge.com/tech/800444/best-tool-gift-ideas-2025) (2025-11-19)
-- [Lawmakers want to let users sue over harmful social media algorithms](https://www.theverge.com/policy/824054/algorithm-accountability-act-section-230) (2025-11-19)
-- [Watch how Apple 3D prints Watches by blasting powdered titanium with lasers](https://www.theverge.com/news/823988/apple-watch-3d-printing-process) (2025-11-19)
-- [Disney loses bid to block Sling TV’s one-day cable passes](https://www.theverge.com/news/824017/disney-sling-tv-cable-passes-block-denied) (2025-11-19)
-- [This viral AI pen didn&#8217;t help me cheat](https://www.theverge.com/report/822151/ai-smart-pen-for-cheating-tests) (2025-11-19)
+- [Here’s the Trump executive order that would ban state AI laws](https://www.theverge.com/ai-artificial-intelligence/824608/trump-executive-order-ai-state-laws) (2025-11-19)
+- [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide) (2025-11-19)
+- [Netflix signs a three year deal to stream MLB live events and games](https://www.theverge.com/news/824513/mlb-netflix-nbc-peacock-espn) (2025-11-19)
+- [Nvidia says its AI GPUs are sold out, grows data center business by $10B in a single quarter](https://www.theverge.com/tech/824111/nvidia-q3-2026-earnings-data-center-revenue) (2025-11-19)
+- [Google’s new Scholar Labs search uses AI to find relevant studies](https://www.theverge.com/news/823213/google-scholar-labs-ai-search) (2025-11-19)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Celebrated game developer Rebecca Heineman dies at age 62](https://arstechnica.com/gadgets/2025/11/interplay-co-founder-and-pioneering-game-developer-rebecca-heineman-dies-at-62/) (2025-11-19)
-- [DeepMind’s latest: An AI for handling mathematical proofs](https://arstechnica.com/ai/2025/11/deepminds-latest-an-ai-for-handling-mathematical-proofs/) (2025-11-19)
-- [How Louvre thieves exploited human psychology to avoid suspicion—and what it reveals about AI](https://arstechnica.com/science/2025/11/how-louvre-thieves-exploited-human-psychology-to-avoid-suspicion-and-what-it-reveals-about-ai/) (2025-11-19)
-- [Twin suction turbines and 3-Gs in slow corners? Meet the DRG-Lola.](https://arstechnica.com/cars/2025/11/an-electric-car-thats-faster-than-f1-around-monaco-thats-the-idea/) (2025-11-19)
-- [OnePlus 15 review: The end of range anxiety](https://arstechnica.com/gadgets/2025/11/oneplus-15-review-the-end-of-range-anxiety/) (2025-11-19)
+- [“We’re in an LLM bubble,” Hugging Face CEO says—but not an AI one](https://arstechnica.com/ai/2025/11/were-in-an-llm-bubble-hugging-face-ceo-says-but-not-an-ai-one/) (2025-11-19)
+- [NASA really wants you to know that 3I/ATLAS is an interstellar comet](https://arstechnica.com/science/2025/11/nasa-really-wants-you-to-know-that-3i-atlas-is-an-interstellar-comet/) (2025-11-19)
+- [Massive Cloudflare outage was triggered by file that suddenly doubled in size](https://arstechnica.com/tech-policy/2025/11/cloudflare-broke-much-of-the-internet-with-a-corrupted-bot-management-file/) (2025-11-19)
+- [Rocket Lab Electron among first artifacts installed in CA Science Center space gallery](https://arstechnica.com/space/2025/11/rocket-lab-electron-among-first-artifacts-installed-in-ca-science-center-space-gallery/) (2025-11-19)
+- [He got sued for sharing public YouTube videos; nightmare ended in settlement](https://arstechnica.com/tech-policy/2025/11/proctorio-settles-curious-lawsuit-with-librarian-who-shared-public-youtube-videos/) (2025-11-19)
 
 </details>
 
@@ -75,11 +75,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [How we’re making GitHub Copilot smarter with fewer tools](https://github.blog/ai-and-ml/github-copilot/how-were-making-github-copilot-smarter-with-fewer-tools/) (2025-11-19)
 - [How to write a great agents.md: Lessons from over 2,500 repositories](https://github.blog/ai-and-ml/github-copilot/how-to-write-a-great-agents-md-lessons-from-over-2500-repositories/) (2025-11-19)
 - [Level up design-to-code collaboration with GitHub’s open source Annotation Toolkit](https://github.blog/enterprise-software/collaboration/level-up-design-to-code-collaboration-with-githubs-open-source-annotation-toolkit/) (2025-11-18)
 - [Highlights from Git 2.52](https://github.blog/open-source/git/highlights-from-git-2-52/) (2025-11-17)
 - [Unlocking the full power of Copilot code review: Master your instructions files](https://github.blog/ai-and-ml/unlocking-the-full-power-of-copilot-code-review-master-your-instructions-files/) (2025-11-14)
-- [GitHub Availability Report: October 2025](https://github.blog/news-insights/company-news/github-availability-report-october-2025/) (2025-11-13)
 
 </details>
 
@@ -97,33 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Transform LLM Apps into Profit: Monetizing AI Conversations with Monetzly](https://dev.to/monetzly/transform-llm-apps-into-profit-monetizing-ai-conversations-with-monetzly-179l) (2025-11-19)
-- [A Book Review of A Philosophy of Software Design-how to create software that is easy to maintain](https://dev.to/hectorw_tt/a-book-review-of-a-philosophy-of-software-design-how-to-create-software-that-is-easy-to-maintain-d7n) (2025-11-19)
-- [🚀 Introducing Laravel Chatbot – A simple & powerful chatbot for your Laravel apps!](https://dev.to/emmanuel_saleem_46200ad37/introducing-laravel-chatbot-a-simple-powerful-chatbot-for-your-laravel-apps-2kdl) (2025-11-19)
-- [From Taskmaster to Thought Partner: My Evolution as an Agentic AI Developer](https://dev.to/boobal_writes/from-taskmaster-to-thought-partner-my-evolution-as-an-agentic-ai-developer-34k7) (2025-11-19)
-- [Angular Data Handling: When to use `| async` and when to `.subscribe()` manually](https://dev.to/devhabib/angular-data-handling-when-to-use-async-and-when-to-subscribe-manually-2fed) (2025-11-19)
-
-</details>
-
-<details>
-<summary>✍️ Medium - Programming</summary>
-
-- [The Untold Story of Mirai Botnet](https://medium.com/data-and-beyond/the-untold-story-of-mirai-botnet-71059a5b4a15?source=rss------programming-5) (2025-11-19)
-- [Cursor AI: The Senior iOS Developer’s Secret Weapon for Taming Massive Codebases](https://blog.stackademic.com/cursor-ai-the-senior-ios-developers-secret-weapon-for-taming-massive-codebases-71661293249f?source=rss------programming-5) (2025-11-19)
-- [The Best Way to Write Parameterized Tests in .NET Using xUnit (Clean, Fast, and Not Annoying)](https://medium.com/@michaelmaurice410/the-best-way-to-write-parameterized-tests-in-net-using-xunit-clean-fast-and-not-annoying-2351c2f4d5f2?source=rss------programming-5) (2025-11-19)
-- [0905.501.9190شماره خاله کرمانشاه شماره خاله کرمان شماره خاله قم](https://medium.com/@bdbdbdbddbdb9u/0905-501-9190%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D9%85%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-9fbb52c139d3?source=rss------programming-5) (2025-11-19)
-- [0905.501.9190شماره خاله کرمانشاه شماره خاله کرمان شماره خاله قم](https://medium.com/@bdbdbdbddbdb9u/0905-501-9190%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D9%85%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-0198bd852a63?source=rss------programming-5) (2025-11-19)
+- [Securing Cross-Account AWS Operations: Adding External ID Support to AwsCustomResource](https://dev.to/aws-builders/securing-cross-account-aws-operations-adding-external-id-support-to-awscustomresource-l3p) (2025-11-20)
+- [Beyond Scheduling: How Kubernetes Uses QoS, Priority, and Scoring to Keep Your Cluster Balanced](https://dev.to/gteegela/beyond-scheduling-how-kubernetes-uses-qos-priority-and-scoring-to-keep-your-cluster-balanced-4o8i) (2025-11-20)
+- [Restoring files with git](https://dev.to/suzulabo/restoring-files-with-git-34n) (2025-11-20)
+- [Best Primer For Miniatures, The Confident Choice For Perfect Coverage](https://dev.to/dragoongaminguk/best-primer-for-miniatures-the-confident-choice-for-perfect-coverage-2jf6) (2025-11-20)
+- [Introduction to GO Programming](https://dev.to/srinivasuluparanduru/introduction-to-go-programming-3blh) (2025-11-20)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
-- [New Amazon Bedrock service tiers help you match AI workload performance with cost](https://aws.amazon.com/blogs/aws/new-amazon-bedrock-service-tiers-help-you-match-ai-workload-performance-with-cost/) (2025-11-18)
-- [Accelerate large-scale AI applications with the new Amazon EC2 P6-B300 instances](https://aws.amazon.com/blogs/aws/accelerate-large-scale-ai-applications-with-the-new-amazon-ec2-p6-b300-instances/) (2025-11-18)
-- [AWS Weekly Roundup: AWS Lambda for Rust, NLB for QUIC protocol, Amazon DCV for Mac, and more (November 17, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-load-balancers-amazon-dcv-amazon-linux-2023-and-more-november-17-2025/) (2025-11-17)
-- [AWS Lambda enhances event processing with provisioned mode for SQS event-source mapping](https://aws.amazon.com/blogs/aws/aws-lambda-enhances-sqs-processing-with-new-provisioned-mode-3x-faster-scaling-16x-higher-capacity/) (2025-11-14)
-- [Introducing AWS IoT Core Device Location integration with Amazon Sidewalk](https://aws.amazon.com/blogs/aws/introducing-aws-iot-core-device-location-integration-with-amazon-sidewalk/) (2025-11-13)
+- [Simplify access to external services using AWS IAM Outbound Identity Federation](https://aws.amazon.com/blogs/aws/simplify-access-to-external-services-using-aws-iam-outbound-identity-federation/) (2025-11-19)
+- [Accelerate workflow development with enhanced local testing in AWS Step Functions](https://aws.amazon.com/blogs/aws/accelerate-workflow-development-with-enhanced-local-testing-in-aws-step-functions/) (2025-11-19)
+- [Streamlined multi-tenant application development with tenant isolation mode in AWS Lambda](https://aws.amazon.com/blogs/aws/streamlined-multi-tenant-application-development-with-tenant-isolation-mode-in-aws-lambda/) (2025-11-19)
+- [New business metadata features in Amazon SageMaker Catalog to improve discoverability across organizations](https://aws.amazon.com/blogs/aws/new-business-metadata-features-in-amazon-sagemaker-catalog-to-improve-discoverability-across-organizations/) (2025-11-19)
+- [AWS Control Tower introduces a Controls Dedicated experience](https://aws.amazon.com/blogs/aws/aws-control-tower-introduces-a-controls-dedicated-experience/) (2025-11-19)
 
 </details>
 
@@ -163,11 +152,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Jetpack Navigation 3 is stable](https://android-developers.googleblog.com/2025/11/jetpack-navigation-3-is-stable.html) (2025-11-19)
 - [Stronger threat detection, simpler integration: Protect your growth with the Play Integrity API](https://android-developers.googleblog.com/2025/10/stronger-threat-detection-simpler.html) (2025-11-19)
 - [Deeper Performance Considerations](https://android-developers.googleblog.com/2025/11/deeper-performance-considerations.html) (2025-11-19)
 - [How Uber is reducing manual logins by 4 million per year with the Restore Credentials API](https://android-developers.googleblog.com/2025/11/how-uber-is-reducing-manual-logins-by-4.html) (2025-11-18)
 - [Configure and troubleshoot R8 Keep Rules](https://android-developers.googleblog.com/2025/11/configure-and-troubleshoot-r8-keep-rules.html) (2025-11-18)
-- [Gemini 3 is now available for AI assistance in Android Studio](https://android-developers.googleblog.com/2025/11/gemini-3-is-now-available-for-ai.html) (2025-11-18)
 
 </details>
 
@@ -179,17 +168,6 @@
 - [How to Upgrade to React 18](https://reactjs.org/blog/2022/03/08/react-18-upgrade-guide.html) (2022-03-08)
 - [React Conf 2021 Recap](https://reactjs.org/blog/2021/12/17/react-conf-2021-recap.html) (2021-12-17)
 - [The Plan for React 18](https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html) (2021-06-08)
-
-</details>
-
-<details>
-<summary>🅰️ Angular Blog</summary>
-
-- [Handling Time and Mock Clocks in Tests](https://blog.angular.dev/handling-time-and-mock-clocks-in-tests-5a393b32dd30?source=rss----447683c3d9a3---4) (2025-11-07)
-- [Angular support for generating apps in Google AI Studio is now available](https://blog.angular.dev/angular-support-for-generating-apps-in-google-ai-studio-is-now-available-3a3afde38f58?source=rss----447683c3d9a3---4) (2025-10-02)
-- [Beyond the Horizon: How Angular is Embracing AI for Next-Gen Apps](https://blog.angular.dev/beyond-the-horizon-how-angular-is-embracing-ai-for-next-gen-apps-7a7ed706e1a3?source=rss----447683c3d9a3---4) (2025-09-16)
-- [Angular Summer Update 2025](https://blog.angular.dev/angular-summer-update-2025-1987592a0b42?source=rss----447683c3d9a3---4) (2025-08-29)
-- [The Angular Custom Profiling Track is now available](https://blog.angular.dev/the-angular-custom-profiling-track-is-now-available-0f9d8d36218a?source=rss----447683c3d9a3---4) (2025-07-02)
 
 </details>
 
@@ -223,17 +201,6 @@
 - [Gateway API 1.4: New Features](https://kubernetes.io/blog/2025/11/06/gateway-api-v1-4/) (2025-11-06)
 - [7 Common Kubernetes Pitfalls (and How I Learned to Avoid Them)](https://kubernetes.io/blog/2025/10/20/seven-kubernetes-pitfalls-and-how-to-avoid/) (2025-10-20)
 - [Spotlight on Policy Working Group](https://kubernetes.io/blog/2025/10/18/wg-policy-spotlight-2025/) (2025-10-18)
-
-</details>
-
-<details>
-<summary>🏠 Airbnb Engineering</summary>
-
-- [GraphQL Data Mocking at Scale with LLMs and @generateMock](https://medium.com/airbnb-engineering/graphql-data-mocking-at-scale-with-llms-and-generatemock-30b380f12bd6?source=rss----53c7c27702d5---4) (2025-10-30)
-- [From Static Rate Limiting to Adaptive Traffic Management in Airbnb’s Key-Value Store](https://medium.com/airbnb-engineering/from-static-rate-limiting-to-adaptive-traffic-management-in-airbnbs-key-value-store-29362764e5c2?source=rss----53c7c27702d5---4) (2025-10-09)
-- [Building a Next-Generation Key-Value Store at Airbnb](https://medium.com/airbnb-engineering/building-a-next-generation-key-value-store-at-airbnb-0de8465ba354?source=rss----53c7c27702d5---4) (2025-09-24)
-- [Viaduct, Five Years On: Modernizing the Data-Oriented Service Mesh](https://medium.com/airbnb-engineering/viaduct-five-years-on-modernizing-the-data-oriented-service-mesh-e66397c9e9a9?source=rss----53c7c27702d5---4) (2025-09-17)
-- [Taming Service-Oriented Architecture Using A Data-Oriented Service Mesh](https://medium.com/airbnb-engineering/taming-service-oriented-architecture-using-a-data-oriented-service-mesh-da771a841344?source=rss----53c7c27702d5---4) (2025-09-16)
 
 </details>
 
@@ -289,17 +256,6 @@
 - [Deploy Safety: Reducing customer impact from change](https://slack.engineering/deploy-safety/) (2025-10-07)
 - [Building Slack’s Anomaly Event Response](https://slack.engineering/building-slacks-anomaly-event-response/) (2025-09-04)
 - [Optimizing Our E2E Pipeline](https://slack.engineering/speedup-e2e-testing/) (2025-04-14)
-
-</details>
-
-<details>
-<summary>📌 Pinterest Engineering</summary>
-
-- [Slashing CI Wait Times: How Pinterest Cut Android Testing Build Times by 36%+](https://medium.com/pinterest-engineering/slashing-ci-wait-times-how-pinterest-cut-android-testing-build-times-by-36-feb6ff121d91?source=rss-ef81ef829bcb------2) (2025-11-10)
-- [A Decade of AI Platform at Pinterest](https://medium.com/pinterest-engineering/a-decade-of-ai-platform-at-pinterest-4e3b37c0f758?source=rss-ef81ef829bcb------2) (2025-11-04)
-- [Identify User Journeys at Pinterest](https://medium.com/pinterest-engineering/identify-user-journeys-at-pinterest-b517f6275b42?source=rss-ef81ef829bcb------2) (2025-10-21)
-- [Tracking Down Mysterious ML Training Stalls](https://medium.com/@Pinterest_Engineering/tracking-down-mysterious-ml-training-stalls-5290bb19be6d?source=rss-ef81ef829bcb------2) (2025-10-17)
-- [Next Gen Data Processing at Massive Scale At Pinterest With Moka (Part 2 of 2)](https://medium.com/pinterest-engineering/next-gen-data-processing-at-massive-scale-at-pinterest-with-moka-part-2-of-2-d0210ded34e0?source=rss-ef81ef829bcb------2) (2025-09-10)
 
 </details>
 
@@ -480,17 +436,6 @@ https://www.twilio.com/en-us/blog/company/news/twilio-to-acquire-stytch
 </details>
 
 <details>
-<summary>☁️ Salesforce Developer</summary>
-
-- [Automate Multi-Turn Agent Testing with Conversation History in Agentforce](https://developer.salesforce.com/blogs/2025/11/automate-multi-turn-agent-testing-with-conversation-history-in-agentforce.html) (2025-11-13)
-- [Build Mobile, Offline-Ready LWCs with Agentforce Vibes](https://developer.salesforce.com/blogs/2025/11/build-mobile-offline-ready-lwcs-with-agentforce-vibes.html) (2025-11-11)
-- [名前付きクエリAPIで、AIエージェントやアプリケーションによるデータアクセスを簡略化](https://developer.salesforce.com/blogs/2025/11/named-query-api-simplifies-data-access-for-agents-and-apps-jp.html) (2025-11-08)
-- [Introducing the New Lightning Component Reference](https://developer.salesforce.com/blogs/2025/11/introducing-the-new-lightning-component-reference.html) (2025-11-05)
-- [Ensure a Seamless, Secure Connection Between Data 360 and Google BigQuery](https://developer.salesforce.com/blogs/2025/11/ensure-a-seamless-secure-connection-between-data-360-and-google-bigquery.html) (2025-11-04)
-
-</details>
-
-<details>
 <summary>🧡 HubSpot Developer</summary>
 
 - [How to CODE: Simplifying the Developer Experience with HubSpot](https://developers.hubspot.com/blog/how-to-code-simplifying-the-developer-experience-with-hubspot) (2025-11-13)
@@ -515,11 +460,11 @@ https://www.twilio.com/en-us/blog/company/news/twilio-to-acquire-stytch
 <details>
 <summary>🔒 Signal Blog</summary>
 
+- [Signal Polls: Yes, no, maybe (yes!)](https://signal.org/blog/polls/) (2025-11-19)
 - [Signal Protocol and Post-Quantum Ratchets](https://signal.org/blog/spqr/) (2025-10-02)
 - [Introducing Signal Secure Backups](https://signal.org/blog/introducing-secure-backups/) (2025-09-08)
 - [By Default, Signal Doesn't Recall](https://signal.org/blog/signal-doesnt-recall/) (2025-05-21)
 - [A Synchronized Start for Linked Devices](https://signal.org/blog/a-synchronized-start-for-linked-devices/) (2025-01-27)
-- [Improving Private Signal Calls: Call Links & More](https://signal.org/blog/call-links/) (2024-11-11)
 
 </details>
 
@@ -537,11 +482,11 @@ https://www.twilio.com/en-us/blog/company/news/twilio-to-acquire-stytch
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [PINA Joins the PyTorch Ecosystem: A Unified Framework for Scientific Machine Learning](https://pytorch.org/blog/pina-joins-the-pytorch-ecosystem-a-unified-framework-for-scientific-machine-learning/) (2025-11-18)
 - [Beyond Quantization: Bringing Sparse Inference to PyTorch](https://pytorch.org/blog/beyond-quantization-bringing-sparse-inference-to-pytorch/) (2025-11-13)
 - [KernelFalcon: Autonomous GPU Kernel Generation via Deep Agents](https://pytorch.org/blog/kernelfalcon-autonomous-gpu-kernel-generation-via-deep-agents/) (2025-11-06)
 - [Hybrid Models as First-Class Citizens in vLLM](https://pytorch.org/blog/hybrid-models-as-first-class-citizens-in-vllm/) (2025-11-05)
 - [Monarch + Lightning AI: Unlocking New Possibilities in Distributed Training](https://pytorch.org/blog/integration-idea-monarch/) (2025-10-22)
-- [torchcomms: a modern PyTorch communications API](https://pytorch.org/blog/torchcomms/) (2025-10-22)
 
 </details>
 
