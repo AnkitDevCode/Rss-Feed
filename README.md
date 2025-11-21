@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Perplexity brings its AI browser Comet to Android](https://techcrunch.com/2025/11/20/perplexity-brings-its-ai-browser-comet-to-android/) (2025-11-20)
-- [Android’s Quick Share now works with iPhone’s AirDrop, starting with the Pixel 10 lineup](https://techcrunch.com/2025/11/20/androids-quick-share-now-works-with-iphones-airdrop-starting-with-the-pixel-10-lineup/) (2025-11-20)
-- [This Khosla-based startup can track drones, trucks, and robotaxis, inch by inch](https://techcrunch.com/2025/11/20/this-khosla-based-startup-can-track-drones-trucks-and-robotaxis-inch-by-inch/) (2025-11-20)
-- [The marketing guru who helped turn Khosla Ventures into an AI powerhouse is moving on](https://techcrunch.com/2025/11/20/the-marketing-guru-who-helped-turn-khosla-ventures-into-an-ai-powerhouse-is-moving-on/) (2025-11-20)
-- [Gemini 3 refused to believe it was 2025, and hilarity ensued ](https://techcrunch.com/2025/11/20/gemini-3-refused-to-believe-it-was-2025-and-hilarity-ensued/) (2025-11-20)
+- [Grok says Elon Musk is better than basically everyone, except Shohei Ohtani](https://techcrunch.com/2025/11/20/grok-says-elon-musk-is-better-than-basically-everyone-except-shohei-ohtani/) (2025-11-20)
+- [Google steps up AI scam protection in India, but gaps remain](https://techcrunch.com/2025/11/20/google-steps-up-ai-scam-protection-in-india-but-gaps-remain/) (2025-11-20)
+- [Joby Aviation makes ‘corporate espionage’ claims in lawsuit against rival Archer](https://techcrunch.com/2025/11/20/joby-aviation-makes-corporate-espionage-claims-in-lawsuit-against-rival-archer/) (2025-11-20)
+- [WhatsApp gets its own Instagram Notes-like feature](https://techcrunch.com/2025/11/20/whatsapp-gets-its-own-instagram-notes-like-feature/) (2025-11-20)
+- [Source: Kalshi’s valuation jumps to $11B after raising massive $1B round](https://techcrunch.com/2025/11/20/source-kalshis-valuation-jumps-to-11b-after-raising-massive-1b-round/) (2025-11-20)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Launch HN: Poly (YC S22) – Cursor for Files](https://news.ycombinator.com/item?id=45995394) (2025-11-20)
-- [Go Cryptography State of the Union](https://words.filippo.io/2025-state/) (2025-11-20)
-- [Android and iPhone users can now share files, starting with the Pixel 10](https://blog.google/products/android/quick-share-airdrop/) (2025-11-20)
-- [Show HN: Tangent – log pipeline powered by WASM](https://github.com/telophasehq/tangent) (2025-11-20)
-- [The Firefly and the Pulsar](https://www.centauri-dreams.org/2025/11/20/the-firefly-and-the-pulsar/) (2025-11-20)
+- [Nursing Excluded as 'Professional' Degree by Department of Education](https://nurse.org/news/nursing-excluded-as-professional-degree-dept-of-ed/) (2025-11-21)
+- [Prozac 'no better than placebo' for treating children with depression, experts](https://www.theguardian.com/society/2025/nov/20/prozac-no-better-than-placebo-for-treating-children-with-depression-experts-say) (2025-11-21)
+- [Over-Regulation Is Doubling the Cost by Peter Reinhardt](https://rein.pk/over-regulation-is-doubling-the-cost) (2025-11-20)
+- [GitHut – Programming Languages and GitHub (2014)](https://githut.info/) (2025-11-20)
+- [New Glenn Update](https://www.blueorigin.com/news/new-glenn-upgraded-engines-subcooled-components-drive-enhanced-performance) (2025-11-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Perplexity brings its Comet browser to Android](https://www.theverge.com/news/825221/perplexity-comet-ai-browser-launch-android) (2025-11-20)
-- [Amazon is using AI to create video recaps of its biggest streaming shows](https://www.theverge.com/news/825052/amazon-prime-original-ai-video-recap-fallout-jack-ryan) (2025-11-20)
-- [Pixel 10 phones are now compatible with AirDrop](https://www.theverge.com/news/825228/iphone-airdrop-android-quick-share-pixel-10) (2025-11-20)
-- [Amazon’s latest entry-level Kindle has fallen to a new low for Black Friday](https://www.theverge.com/gadgets/824412/amazon-kindle-paperwhite-black-friday-deal-sale-2025) (2025-11-20)
-- [New Chromebooks will come with a year of Nvidia&#8217;s cloud gaming &#8216;fast pass&#8217;](https://www.theverge.com/news/824940/chromebooks-nvidia-geforce-now-fast-pass-free-year) (2025-11-20)
+- [Grok’s Elon Musk worship is getting weird](https://www.theverge.com/ai-artificial-intelligence/825675/groks-elon-musk-worship-is-getting-weird) (2025-11-20)
+- [The best early Black Friday deals we’ve found so far on laptops, TVs, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025) (2025-11-20)
+- [Google&#8217;s new AI image creator took my shirt off](https://www.theverge.com/news/825667/google-nano-banana-pro-test) (2025-11-20)
+- [Microsoft&#8217;s AI-powered copy and paste can now use on-device AI](https://www.theverge.com/news/825668/microsoft-advanced-paste-powertoys-on-device-ai) (2025-11-20)
+- [Meta&#8217;s Hyperscape is ready to turn your real living room into a VR hangout](https://www.theverge.com/news/825705/meta-hyperscape-social-links-capture-scan-metaverse) (2025-11-20)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Google’s latest swing at Chromebook gaming is a free year of GeForce Now](https://arstechnica.com/gaming/2025/11/googles-latest-swing-at-chromebook-gaming-is-a-free-year-of-geforce-now/) (2025-11-20)
-- [Flying with whales: Drones are remaking marine mammal research](https://arstechnica.com/science/2025/11/flying-with-whales-drones-are-remaking-marine-mammal-research/) (2025-11-20)
-- [“Hey Google, did you upgrade your AI in my Android Auto?”](https://arstechnica.com/cars/2025/11/hey-google-did-you-upgrade-your-ai-in-my-android-auto/) (2025-11-20)
-- [Google’s new Nano Banana Pro uses Gemini 3 power to generate more realistic AI images](https://arstechnica.com/google/2025/11/google-launches-nano-banana-pro-image-model-adds-ai-image-detection-in-gemini-app/) (2025-11-20)
-- [RFK Jr.’s loathesome edits: CDC website now falsely links vaccines and autism](https://arstechnica.com/health/2025/11/rfk-jr-s-loathesome-edits-cdc-website-now-falsely-links-vaccines-and-autism/) (2025-11-20)
+- [HP and Dell disable HEVC support built into their laptops’ CPUs](https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/) (2025-11-20)
+- [From defiant to contrite: Formula maker confirms bacteria amid botulism outbreak](https://arstechnica.com/health/2025/11/from-defiant-to-contrite-formula-maker-confirms-bacteria-amid-botulism-outbreak/) (2025-11-20)
+- [Microsoft makes Zork I, II, and III open source under MIT License](https://arstechnica.com/gaming/2025/11/microsoft-makes-zork-i-ii-and-iii-open-source-under-mit-license/) (2025-11-20)
+- [Scientists found the key to accurate Maya eclipse tables](https://arstechnica.com/science/2025/11/study-how-the-maya-created-such-accurate-eclipse-tables/) (2025-11-20)
+- [The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop](https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/) (2025-11-20)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Roundtables: Surviving the New Age of Conspiracies](https://www.technologyreview.com/2025/11/20/1127749/roundtables-surviving-the-new-age-of-conspiracies/) (2025-11-20)
 - [Designing digital resilience in the agentic AI era](https://www.technologyreview.com/2025/11/20/1127941/designing-digital-resilience-in-the-agentic-ai-era/) (2025-11-20)
 - [The Download: what’s next for electricity, and living in the conspiracy age](https://www.technologyreview.com/2025/11/20/1128183/the-download-whats-next-for-electricity-and-living-in-the-conspiracy-age/) (2025-11-20)
 - [Three things to know about the future of electricity](https://www.technologyreview.com/2025/11/20/1128167/future-of-electricity/) (2025-11-20)
 - [Scaling innovation in manufacturing with AI](https://www.technologyreview.com/2025/11/19/1128067/scaling-innovation-in-manufacturing-with-ai/) (2025-11-19)
-- [The Download: de-censoring DeepSeek, and Gemini 3](https://www.technologyreview.com/2025/11/19/1128131/the-download-de-censoring-deepseek-and-gemini-3/) (2025-11-19)
 
 </details>
 
@@ -97,43 +97,43 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Entendendo Sícrono vs Assíncrono: Threads, Await e Performance](https://dev.to/chihiro_dev/entendendo-sicrono-vs-assincrono-threads-await-e-performance-5ac3) (2025-11-20)
-- [Cat5e UTP ქისთონ ჯეკი - Review](https://dev.to/innocomltd/cat5e-utp-kiston-jeki-review-i0k) (2025-11-20)
-- [Top 10 SEO AI Tools Dominating Search in 2026](https://dev.to/jai_ganesh_eeda660337aaea/top-10-seo-ai-tools-dominating-search-in-2026-59nj) (2025-11-20)
-- [**Evaluación ética y responsable de plataformas de Prevenció](https://dev.to/drcarlosruizviquez/evaluacion-etica-y-responsable-de-plataformas-de-prevencio-3ma9) (2025-11-20)
-- [Big BOMB! 💣 PWA, Service Worker and Push Notification in WebForms Core 2](https://dev.to/elanatframework/big-bomb-pwa-service-worker-and-push-notification-in-webforms-core-2-18ca) (2025-11-20)
+- [Building an Air-Gapped AI Defense System in Python (No Cloud APIs)](https://dev.to/sovarcneo/building-an-air-gapped-ai-defense-system-in-python-no-cloud-apis-ph5) (2025-11-21)
+- [Day 1271 : Full Circle](https://dev.to/dwane/day-1271-full-circle-57in) (2025-11-21)
+- [DSA Fundamentals: Linked Lists - Mastering Dynamic Data Structures](https://dev.to/jayk0001/dsa-fundamentals-linked-lists-mastering-dynamic-data-structures-195l) (2025-11-21)
+- [Website shaped like a brochure](https://dev.to/vamsi_nakireddi_711f6ecd0/website-shaped-like-a-brochure-22kl) (2025-11-21)
+- [🖥️ Experiencia con Pop!_OS](https://dev.to/edhersan/experiencia-con-popos-ngo) (2025-11-21)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Introducing attribute-based access control for Amazon S3 general purpose buckets](https://aws.amazon.com/blogs/aws/introducing-attribute-based-access-control-for-amazon-s3-general-purpose-buckets/) (2025-11-21)
 - [Simplify access to external services using AWS IAM Outbound Identity Federation](https://aws.amazon.com/blogs/aws/simplify-access-to-external-services-using-aws-iam-outbound-identity-federation/) (2025-11-19)
 - [Accelerate workflow development with enhanced local testing in AWS Step Functions](https://aws.amazon.com/blogs/aws/accelerate-workflow-development-with-enhanced-local-testing-in-aws-step-functions/) (2025-11-19)
 - [Streamlined multi-tenant application development with tenant isolation mode in AWS Lambda](https://aws.amazon.com/blogs/aws/streamlined-multi-tenant-application-development-with-tenant-isolation-mode-in-aws-lambda/) (2025-11-19)
 - [New business metadata features in Amazon SageMaker Catalog to improve discoverability across organizations](https://aws.amazon.com/blogs/aws/new-business-metadata-features-in-amazon-sagemaker-catalog-to-improve-discoverability-across-organizations/) (2025-11-19)
-- [AWS Control Tower introduces a Controls Dedicated experience](https://aws.amazon.com/blogs/aws/aws-control-tower-introduces-a-controls-dedicated-experience/) (2025-11-19)
 
 </details>
 
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Infinite scale: The architecture behind the Azure AI superfactory](https://aka.ms/AAyjgcy) (2025-11-12)
 - [Securing our future: November 2025 progress report on Microsoft’s Secure Future Initiative](https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/) (2025-11-10)
 - [The new era of Azure Ultra Disk: Experience the next generation of mission-critical block storage](https://azure.microsoft.com/en-us/blog/the-new-era-of-azure-ultra-disk-experience-the-next-generation-of-mission-critical-block-storage/) (2025-11-06)
 - [Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows](https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/) (2025-11-05)
 - [Microsoft strengthens sovereign cloud capabilities with new services](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/) (2025-11-05)
+- [Powering Distributed AI/ML at Scale with Azure and Anyscale](https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/) (2025-11-04)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Gordon Bell Prize Winners Push Open Science Boundaries With NVIDIA-Powered Supercomputers](https://blogs.nvidia.com/blog/gordon-bell-finalists-2025/) (2025-11-20)
 - [Into the Omniverse: How Smart City AI Agents Transform Urban Operations](https://blogs.nvidia.com/blog/smart-city-ai-agents-urban-operations/) (2025-11-20)
 - [The Largest Digital Zoo: Biology Model Trained on NVIDIA GPUs Identifies Over a Million Species](https://blogs.nvidia.com/blog/bioclip2-foundation-ai-model/) (2025-11-20)
 - [Ultimate Cloud Gaming Is Everywhere With GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-ultimate-is-everywhere/) (2025-11-20)
-- [Gordon Bell Prize Finalists Push Open Science Boundaries With NVIDIA-Powered Supercomputers](https://blogs.nvidia.com/blog/gordon-bell-finalists-2025/) (2025-11-18)
 - [Powering AI Superfactories, NVIDIA and Microsoft Integrate Latest Technologies for Inference, Cybersecurity, Physical AI](https://blogs.nvidia.com/blog/nvidia-microsoft-ai-superfactories/) (2025-11-18)
 
 </details>
@@ -262,11 +262,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Spring Boot 4: Leaner, Safer Apps and a New Kotlin Baseline](https://blog.jetbrains.com/idea/2025/11/spring-boot-4/) (2025-11-20)
+- [IntelliJ IDEA 2025.2.5 Is Out!](https://blog.jetbrains.com/idea/2025/11/intellij-idea-2025-2-5/) (2025-11-20)
 - [More Updates and Fixes for ReSharper and Rider 2025.3](https://blog.jetbrains.com/dotnet/2025/11/20/resharper-rider-2025-3-0-2/) (2025-11-20)
 - [Learn AI-Assisted Programming With Junie: Free Courses From JetBrains Academy and Nebius](https://blog.jetbrains.com/education/2025/11/20/learn-ai-assisted-programming-with-junie-free-courses-from-jetbrains-academy-and-nebius/) (2025-11-20)
 - [Gemini 3 Pro Is Now Available in JetBrains IDEs](https://blog.jetbrains.com/ai/2025/11/gemini-3-pro-is-now-available-in-jetbrains-ides/) (2025-11-18)
-- [The Second Release of MPS 2025.3 Early Access Program](https://blog.jetbrains.com/mps/2025/11/the-mps-2025-3-eap2/) (2025-11-18)
-- [Helping Decision‑Makers Say Yes to Kotlin](https://blog.jetbrains.com/kotlin/2025/11/helping-decision-makers-say-yes-to-kotlin/) (2025-11-18)
 
 </details>
 
@@ -514,11 +514,11 @@ https://www.twilio.com/en-us/blog/developers/best-practices/guide-core-latency-a
 <details>
 <summary>🤖 AI News</summary>
 
+- [How the Royal Navy is using AI to cut its recruitment workload](https://www.artificialintelligence-news.com/news/how-the-royal-navy-is-using-ai-to-cut-recruitment-workload/) (2025-11-20)
 - [How to choose the best thermal binoculars for long-range detection in 2026](https://www.artificialintelligence-news.com/news/how-to-choose-the-best-thermal-binoculars-for-long-range-detection-in-2026/) (2025-11-20)
 - [Pure Storage and Azure’s role in AI-ready data for enterprises](https://www.artificialintelligence-news.com/news/pure-storage-and-azures-role-in-ai-ready-data-for-enterprise/) (2025-11-20)
 - [Lightweight LLM powers Japanese enterprise AI deployments](https://www.artificialintelligence-news.com/news/lightweight-llm-enterprise-deployment-single-gpu/) (2025-11-20)
 - [What Europe’s AI education experiments can teach a business](https://www.artificialintelligence-news.com/news/ai-education-the-european-experience/) (2025-11-19)
-- [Gartner Data & Analytics Summit unveils expanded AI agenda for 2026](https://www.artificialintelligence-news.com/news/gartner-data-analytics-summit-unveils-expanded-ai-agenda-for-2026/) (2025-11-19)
 
 </details>
 
