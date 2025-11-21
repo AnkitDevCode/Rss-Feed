@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The European startup market is ready for the limelight](https://techcrunch.com/2025/11/21/the-european-startup-market-is-ready-for-the-limelight/) (2025-11-21)
 - [Grok says Elon Musk is better than basically everyone, except Shohei Ohtani](https://techcrunch.com/2025/11/20/grok-says-elon-musk-is-better-than-basically-everyone-except-shohei-ohtani/) (2025-11-20)
 - [Google steps up AI scam protection in India, but gaps remain](https://techcrunch.com/2025/11/20/google-steps-up-ai-scam-protection-in-india-but-gaps-remain/) (2025-11-20)
 - [Joby Aviation makes ‘corporate espionage’ claims in lawsuit against rival Archer](https://techcrunch.com/2025/11/20/joby-aviation-makes-corporate-espionage-claims-in-lawsuit-against-rival-archer/) (2025-11-20)
 - [WhatsApp gets its own Instagram Notes-like feature](https://techcrunch.com/2025/11/20/whatsapp-gets-its-own-instagram-notes-like-feature/) (2025-11-20)
-- [Source: Kalshi’s valuation jumps to $11B after raising massive $1B round](https://techcrunch.com/2025/11/20/source-kalshis-valuation-jumps-to-11b-after-raising-massive-1b-round/) (2025-11-20)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Measuring Latency (2015)](https://bravenewgeek.com/everything-you-know-about-latency-is-wrong/) (2025-11-21)
-- [Why top firms fire good workers](https://www.rochester.edu/newscenter/employee-turnover-why-top-firms-churn-good-workers-681832/) (2025-11-21)
-- [Over-regulation is doubling the cost](https://rein.pk/over-regulation-is-doubling-the-cost) (2025-11-20)
-- [GitHut – Programming Languages and GitHub (2014)](https://githut.info/) (2025-11-20)
-- [New Glenn Update](https://www.blueorigin.com/news/new-glenn-upgraded-engines-subcooled-components-drive-enhanced-performance) (2025-11-20)
+- [Roundtable (YC S23) Is Hiring Two Sales Development Representatives (SDRs)](https://www.ycombinator.com/companies/roundtable/jobs/irJTEsg-sales-development-representative) (2025-11-21)
+- [FAWK: LLMs can write a language interpreter](https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html) (2025-11-21)
+- [HP and Dell disable HEVC support built into their laptops' CPUs](https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/) (2025-11-21)
+- [It's Hard to Build an Oscillator](https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator) (2025-11-21)
+- [The Qtile Window Manager: A Python-Powered Tiling Experience](https://tech.stonecharioteer.com/posts/2025/qtile-window-manager/) (2025-11-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The new silicon valley (literally)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) (2025-11-21)
+- [Google’s Nano Banana Pro generates excellent conspiracy fuel](https://www.theverge.com/report/826003/googles-nano-banana-pro-generates-excellent-conspiracy-fuel) (2025-11-21)
 - [Grok’s Elon Musk worship is getting weird](https://www.theverge.com/ai-artificial-intelligence/825675/groks-elon-musk-worship-is-getting-weird) (2025-11-20)
 - [The best early Black Friday deals we’ve found so far on laptops, TVs, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025) (2025-11-20)
 - [Google&#8217;s new AI image creator took my shirt off](https://www.theverge.com/news/825667/google-nano-banana-pro-test) (2025-11-20)
-- [Microsoft&#8217;s AI-powered copy and paste can now use on-device AI](https://www.theverge.com/news/825668/microsoft-advanced-paste-powertoys-on-device-ai) (2025-11-20)
-- [Meta&#8217;s Hyperscape is ready to turn your real living room into a VR hangout](https://www.theverge.com/news/825705/meta-hyperscape-social-links-capture-scan-metaverse) (2025-11-20)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Pornhub is urging tech giants to enact device-based age verification](https://arstechnica.com/tech-policy/2025/11/pornhub-is-urging-tech-giants-to-enact-device-based-age-verification/) (2025-11-21)
+- [Newest Starship booster is significantly damaged during testing early Friday](https://arstechnica.com/space/2025/11/newest-starship-booster-is-significantly-damaged-during-testing-early-friday/) (2025-11-21)
+- [Stoke Space goes for broke to solve the only launch problem that “moves the needle”](https://arstechnica.com/space/2025/11/for-stoke-space-nothing-else-matters-but-full-and-rapid-rocket-reuse/) (2025-11-21)
 - [HP and Dell disable HEVC support built into their laptops’ CPUs](https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/) (2025-11-20)
 - [Infant botulism outbreak doubles; ByHeart confirms bacteria in formula](https://arstechnica.com/health/2025/11/from-defiant-to-contrite-formula-maker-confirms-bacteria-amid-botulism-outbreak/) (2025-11-20)
-- [Microsoft makes Zork I, II, and III open source under MIT License](https://arstechnica.com/gaming/2025/11/microsoft-makes-zork-i-ii-and-iii-open-source-under-mit-license/) (2025-11-20)
-- [Scientists found the key to accurate Maya eclipse tables](https://arstechnica.com/science/2025/11/study-how-the-maya-created-such-accurate-eclipse-tables/) (2025-11-20)
-- [The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop](https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/) (2025-11-20)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [We’re learning more about what vitamin D does to our bodies](https://www.technologyreview.com/2025/11/21/1128206/vitamin-d-bodies-bone-health-immune/) (2025-11-21)
 - [Roundtables: Surviving the New Age of Conspiracies](https://www.technologyreview.com/2025/11/20/1127749/roundtables-surviving-the-new-age-of-conspiracies/) (2025-11-20)
 - [Designing digital resilience in the agentic AI era](https://www.technologyreview.com/2025/11/20/1127941/designing-digital-resilience-in-the-agentic-ai-era/) (2025-11-20)
 - [The Download: what’s next for electricity, and living in the conspiracy age](https://www.technologyreview.com/2025/11/20/1128183/the-download-whats-next-for-electricity-and-living-in-the-conspiracy-age/) (2025-11-20)
 - [Three things to know about the future of electricity](https://www.technologyreview.com/2025/11/20/1128167/future-of-electricity/) (2025-11-20)
-- [Scaling innovation in manufacturing with AI](https://www.technologyreview.com/2025/11/19/1128067/scaling-innovation-in-manufacturing-with-ai/) (2025-11-19)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [From "Gacha" to "Productivity": A Deep Dive into Nano Banana Pro](https://dev.to/rainie_zhou_f/from-gacha-to-productivity-a-deep-dive-into-nano-banana-pro-3p21) (2025-11-21)
-- [SIMA 2: Gemini-Powered Agent That Nearly Doubles Task Success](https://dev.to/aiwithapex/sima-2-gemini-powered-agent-that-nearly-doubles-task-success-43lc) (2025-11-21)
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-1khd) (2025-11-21)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 4 - 'Inglourious Basterds’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-4-inglourious-basterds-55h4) (2025-11-21)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-390b) (2025-11-21)
+- [Molecule Visualiser!](https://dev.to/dev_ops_python/molecule-visualiser-508i) (2025-11-21)
+- [Building for the Future: Why Cloud Native App Development Is Transforming Modern Businesses](https://dev.to/khushi_jitani_ca127abdedd/building-for-the-future-why-cloud-native-app-development-is-transforming-modern-businesses-2dp8) (2025-11-21)
+- [Quick Recap: Databases](https://dev.to/codeintention/quick-recap-databases-4h03) (2025-11-21)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-8df) (2025-11-21)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-2o8b) (2025-11-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [0905.501.9190شماره خاله همدان شماره خاله زنجان شماره خاله سنندج](https://medium.com/@sdhdjjfueh/0905-501-9190%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%87%D9%85%D8%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B2%D9%86%D8%AC%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%D9%86%D9%86%D8%AF%D8%AC-ac812b256943?source=rss------programming-5) (2025-11-21)
-- [0905.501.9190شماره خاله همدان شماره خاله زنجان شماره خاله سنندج](https://medium.com/@sdhdjjfueh/0905-501-9190%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%87%D9%85%D8%AF%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B2%D9%86%D8%AC%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B3%D9%86%D9%86%D8%AF%D8%AC-27b32a697810?source=rss------programming-5) (2025-11-21)
-- [ConfigHub Fixes the One Problem Every Internal Developer Platform Gets Wrong](https://medium.com/@premchandak_11/confighub-fixes-the-one-problem-every-internal-developer-platform-gets-wrong-ad0ad09077d2?source=rss------programming-5) (2025-11-21)
-- [Dead Tech Will Outlive Today’s Stacks](https://medium.com/@iamcesaraguirre/dead-tech-will-outlive-todays-stacks-fa8c8fb65b1c?source=rss------programming-5) (2025-11-21)
-- [Our Retry Logic Created A DDoS Attack On Our Own API](https://medium.com/@maahisoft20/our-retry-logic-created-a-ddos-attack-on-our-own-api-a866df91d69a?source=rss------programming-5) (2025-11-21)
+- [Angular v21 Release](https://pawan-kumawat.medium.com/angular-v21-release-40f22f52096b?source=rss------programming-5) (2025-11-21)
+- [Mastering useRef, forwardRef & useImperativeHandle: The Hidden React Superpowers Every Developer…](https://medium.com/web-tech-journals/mastering-useref-forwardref-useimperativehandle-the-hidden-react-superpowers-every-developer-061278eb5ded?source=rss------programming-5) (2025-11-21)
+- [Node.js in the Age of AI: How Generative Models Are Changing Backend Development](https://medium.com/@rammilan1610/node-js-in-the-age-of-ai-how-generative-models-are-changing-backend-development-cd428a6ae8c2?source=rss------programming-5) (2025-11-21)
+- [The Ultimate Confirmation Secret: Laguerre RSI + Volume + MPWR = The Only Signal You Need!](https://wire.insiderfinance.io/the-ultimate-confirmation-secret-laguerre-rsi-volume-mpwr-the-only-signal-you-need-66c38a1babe5?source=rss------programming-5) (2025-11-21)
+- [09334082420شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@jjgfyytfuytfggjhhjiugvjihffu/09334082420%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-f71a148eb7b4?source=rss------programming-5) (2025-11-21)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Infinite scale: The architecture behind the Azure AI superfactory](https://aka.ms/AAyjgcy) (2025-11-12)
-- [Securing our future: November 2025 progress report on Microsoft’s Secure Future Initiative](https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/) (2025-11-10)
-- [The new era of Azure Ultra Disk: Experience the next generation of mission-critical block storage](https://azure.microsoft.com/en-us/blog/the-new-era-of-azure-ultra-disk-experience-the-next-generation-of-mission-critical-block-storage/) (2025-11-06)
-- [Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows](https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/) (2025-11-05)
-- [Microsoft strengthens sovereign cloud capabilities with new services](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/) (2025-11-05)
+- [Microsoft Foundry: Scale innovation on a modular, interoperable, and secure agent stack](https://azure.microsoft.com/en-us/blog/microsoft-foundry-scale-innovation-on-a-modular-interoperable-and-secure-agent-stack/) (2025-11-18)
+- [Azure at Microsoft Ignite 2025: All the intelligent cloud news explained](https://azure.microsoft.com/en-us/blog/azure-at-microsoft-ignite-2025-all-the-intelligent-cloud-news-explained/) (2025-11-18)
+- [Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate](https://azure.microsoft.com/en-us/blog/microsoft-databases-and-microsoft-fabric-your-unified-and-ai-powered-data-estate/) (2025-11-18)
+- [Announcing Azure Copilot agents and AI infrastructure innovations](https://azure.microsoft.com/en-us/blog/announcing-azure-copilot-agents-and-ai-infrastructure-innovations/) (2025-11-18)
+- [Introducing Anthropic’s Claude models in Microsoft Foundry: Bringing Frontier intelligence to Azure](https://azure.microsoft.com/en-us/blog/introducing-anthropics-claude-models-in-microsoft-foundry-bringing-frontier-intelligence-to-azure/) (2025-11-18)
 
 </details>
 
@@ -558,22 +558,22 @@ https://www.twilio.com/en-us/blog/developers/best-practices/guide-core-latency-a
 <details>
 <summary>🤖 AI News</summary>
 
+- [ChatGPT group chats may help teams bring AI into daily planning](https://www.artificialintelligence-news.com/news/chatgpt-group-chats-may-help-teams-bring-ai-into-daily-planning/) (2025-11-21)
 - [How the Royal Navy is using AI to cut its recruitment workload](https://www.artificialintelligence-news.com/news/how-the-royal-navy-is-using-ai-to-cut-recruitment-workload/) (2025-11-20)
 - [How to choose the best thermal binoculars for long-range detection in 2026](https://www.artificialintelligence-news.com/news/how-to-choose-the-best-thermal-binoculars-for-long-range-detection-in-2026/) (2025-11-20)
 - [Pure Storage and Azure’s role in AI-ready data for enterprises](https://www.artificialintelligence-news.com/news/pure-storage-and-azures-role-in-ai-ready-data-for-enterprise/) (2025-11-20)
 - [Lightweight LLM powers Japanese enterprise AI deployments](https://www.artificialintelligence-news.com/news/lightweight-llm-enterprise-deployment-single-gpu/) (2025-11-20)
-- [What Europe’s AI education experiments can teach a business](https://www.artificialintelligence-news.com/news/ai-education-the-european-experience/) (2025-11-19)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Generative AI Will Redesign Cars, But Not the Way Automakers Think](https://towardsdatascience.com/generative-ai-will-redesign-cars-but-not-the-way-automakers-think/) (2025-11-21)
 - [How to Use Gemini 3 Pro Efficiently](https://towardsdatascience.com/how-to-use-gemini-3-pro-efficiently/) (2025-11-20)
 - [Data Visualization Explained (Part 5): Visualizing Time-Series Data in Python (Matplotlib, Plotly, and Altair)](https://towardsdatascience.com/data-visualization-explained-part-5-visualizing-time-series-data-in-python-matplotlib-plotly-and-altair/) (2025-11-20)
 - [How Relevance Models Foreshadowed Transformers for NLP](https://towardsdatascience.com/how-relevance-models-foreshadowed-transformers-for-nlp/) (2025-11-20)
 - [Why I’m Making the Switch to marimo Notebooks](https://towardsdatascience.com/why-im-making-the-switch-to-marimo-notebooks/) (2025-11-20)
-- [How to Perform Agentic Information Retrieval](https://towardsdatascience.com/how-to-perform-agentic-information-retrieval/) (2025-11-19)
 
 </details>
 
