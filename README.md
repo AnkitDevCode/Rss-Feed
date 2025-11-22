@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [ADHD and Monotropism (2023)](https://monotropism.org/adhd/) (2025-11-22)
+- [My private information is worth $30](https://blog.melashri.net/micro/privacy-price/) (2025-11-22)
+- [Jack Ma's family shifted wealth to UK after years-long 'disappearance'](https://www.source-material.org/jack-ma-bought-uk-home-after-years-long-disappearance/) (2025-11-22)
+- [Libpng 1.6.51: Four buffer overflow vulnerabilities fixed](https://www.openwall.com/lists/oss-security/2025/11/22/1) (2025-11-22)
 - [Superman copy found in mum's attic is most valuable comic ever at $9.12M](https://www.bbc.com/news/articles/c8e9rp0knj6o) (2025-11-22)
-- [Openring-rs: a webring for static site generators written in Rust](https://github.com/lukehsiao/openring-rs) (2025-11-22)
-- [Moss Survives 9 Months in Space Vacuum](https://scienceclock.com/moss-survives-9-months-in-space-vacuum/) (2025-11-22)
-- [Infinibay LXD Container](https://github.com/Infinibay/lxd) (2025-11-22)
-- [Sharper MRI scans may be on horizon thanks to new physics-based model](https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model) (2025-11-22)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-5896) (2025-11-22)
-- [Goodbye Green Screen: Why AI Background Removal Outperforms Traditional Editing](https://dev.to/freepixel11/goodbye-green-screen-why-ai-background-removal-outperforms-traditional-editing-3ih0) (2025-11-22)
-- [Be a Responsible Code Reviewer](https://dev.to/manojshr/be-a-responsible-code-reviewer-46ni) (2025-11-22)
-- [UK Unleashes New Cybersecurity Bill: Fortifying Digital Defenses After $28M Crypto Fraud](https://dev.to/nftsaz2025/uk-unleashes-new-cybersecurity-bill-fortifying-digital-defenses-after-28m-crypto-fraud-4j1g) (2025-11-22)
-- [Building Streaming Iceberg Tables for Real-Time Logistics Analytics](https://dev.to/awsugonair/building-streaming-iceberg-tables-for-real-time-logistics-analytics-43g4) (2025-11-22)
+- [Day 42: Python Roman Numeral Converter, Bidirectional Conversion Between Roman and Integers with Mapping and Loops](https://dev.to/shahrouzlogs/day-42-python-roman-numeral-converter-bidirectional-conversion-between-roman-and-integers-with-1hfg) (2025-11-22)
+- [CSS](https://dev.to/mujahida_joynab_64c7407d8/css-42ep) (2025-11-22)
+- [My Code Worked. Excel’s "Protected View" Killed It.](https://dev.to/not_varunkv/my-code-worked-excels-protected-view-killed-it-d58) (2025-11-22)
+- [Mapping the Skeleton of Every Webpage - Understanding HTML’s Core Structure](https://dev.to/theosnyman-dev/mapping-the-skeleton-of-every-webpage-understanding-htmls-core-structure-28dm) (2025-11-22)
+- [Beyond the Changelog: Engineering Your Blog for B2B Thought Leadership](https://dev.to/michaelaiglobal/beyond-the-changelog-engineering-your-blog-for-b2b-thought-leadership-3ljg) (2025-11-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Stop Over-Engineering in Angular: The Simple Architecture Rule That Makes Everything Easier](https://medium.com/@sourabhda1998/stop-over-engineering-in-angular-the-simple-architecture-rule-that-makes-everything-easier-ec042391332a?source=rss------programming-5) (2025-11-22)
-- [I Built a Google Gemini Agent in Java (So You Don’t Have To)](https://medium.com/@srijith.unni/i-built-a-google-gemini-agent-in-java-so-you-dont-have-to-709a46cf4d5e?source=rss------programming-5) (2025-11-22)
-- [Switching to Vim Motions in Cursor Completely Changed How I Navigate Code](https://javascript.plainenglish.io/switching-to-vim-motions-in-cursor-completely-changed-how-i-navigate-code-a568f744b291?source=rss------programming-5) (2025-11-22)
-- [ MERN Stack Explained: The Complete Guide for Full-Stack Web Development](https://javascript.plainenglish.io/mern-stack-explained-the-complete-guide-for-full-stack-web-development-700148abe360?source=rss------programming-5) (2025-11-22)
-- [Ultimate Investment Portfolio Diversification using PCA Models](https://medium.com/coding-nexus/ultimate-investment-portfolio-diversification-using-pca-models-79cad2d203cf?source=rss------programming-5) (2025-11-22)
+- [09055770486#شماره خاله تهران#شماره خاله#شماره خاله کرج#شماره خاله اصفهان#شماره خاله شیراز#شماره…](https://medium.com/@woeueyehshdqiwuhwjwiwuw/09055770486-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-4bc8c134956b?source=rss------programming-5) (2025-11-22)
+- [09055770486#شماره خاله تهران#شماره خاله#شماره خاله کرج#شماره خاله اصفهان#شماره خاله شیراز#شماره…](https://medium.com/@woeueyehshdqiwuhwjwiwuw/09055770486-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e8b6ee92213a?source=rss------programming-5) (2025-11-22)
+- [09370750325](https://medium.com/@juiiyddgfddtr/09370750325-ac580cb9ee47?source=rss------programming-5) (2025-11-22)
+- [The Great Debate: Package-by-Layer vs Package-by-Feature](https://medium.com/@reyanshicodes/the-great-debate-package-by-layer-vs-package-by-feature-121bcc479336?source=rss------programming-5) (2025-11-22)
+- [When Async Calls Become “Accidentally Distributed Denial-of-Service” Calls](https://medium.com/@reyanshicodes/when-async-calls-become-accidentally-distributed-denial-of-service-calls-9b638cd85b6f?source=rss------programming-5) (2025-11-22)
 
 </details>
 
@@ -580,11 +580,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/adobe-journe
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [What is RAG Indexing?](https://www.analyticsvidhya.com/blog/2025/11/what-is-rag-indexing/) (2025-11-22)
 - [10 Nano Banana Pro Prompts that You Must Try!](https://www.analyticsvidhya.com/blog/2025/11/nano-banana-pro-prompts/) (2025-11-21)
 - [I Made iPhone UI in Seconds with Google’s Antigravity](https://www.analyticsvidhya.com/blog/2025/11/google-antigravity/) (2025-11-20)
 - [Is Gemini 3 Better than GPT 5.1?](https://www.analyticsvidhya.com/blog/2025/11/gemini-3-vs-gpt-5-1/) (2025-11-20)
 - [Gemini 3 vs Grok 4.1: The Best AI of 2025 is…](https://www.analyticsvidhya.com/blog/2025/11/gemini-3-vs-grok-4-1-best-ai-of-2025/) (2025-11-20)
-- [5 Ways to Access Gemini 3 for FREE](https://www.analyticsvidhya.com/blog/2025/11/ways-to-access-gemini-3-free/) (2025-11-19)
 
 </details>
 
