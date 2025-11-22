@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Meta wants to get into the electricity trading business](https://techcrunch.com/2025/11/22/meta-wants-to-get-into-the-electricity-trading-business/) (2025-11-22)
+- [Byju’s founder to appeal U.S. court order to pay over $1B in bankruptcy case](https://techcrunch.com/2025/11/22/byjus-founder-to-appeal-u-s-court-order-to-pay-over-1b-in-bankruptcy-case/) (2025-11-22)
+- [Why now is the best time to invest in climate tech](https://techcrunch.com/2025/11/22/why-now-is-the-best-time-to-invest-in-climate-tech/) (2025-11-22)
+- [Pew’s latest social media report shows X’s staying power in the U.S., despite competition](https://techcrunch.com/2025/11/22/pews-latest-social-media-report-shows-xs-staying-power-in-the-u-s-despite-competition/) (2025-11-22)
 - [How this founder’s unlikely path to Silicon Valley could become an edge in industrial tech](https://techcrunch.com/2025/11/21/how-this-founders-unlikely-path-to-silicon-valley-could-become-an-edge-in-industrial-tech/) (2025-11-22)
-- [Bret Taylor’s Sierra reaches $100M ARR in under two years](https://techcrunch.com/2025/11/21/bret-taylors-sierra-reaches-100m-arr-in-under-two-years/) (2025-11-21)
-- [The hottest AI wearables and gadgets you can buy right now](https://techcrunch.com/2025/11/21/the-hottest-ai-wearables-and-gadgets-you-can-buy-right-now/) (2025-11-21)
-- [CrowdStrike fires ‘suspicious insider’ who passed information to hackers](https://techcrunch.com/2025/11/21/crowdstrike-fires-suspicious-insider-who-passed-information-to-hackers/) (2025-11-21)
-- [Google says hackers stole data from 200 companies following Gainsight breach](https://techcrunch.com/2025/11/21/google-says-hackers-stole-data-from-200-companies-following-gainsight-breach/) (2025-11-21)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [ADHD and Monotropism (2023)](https://monotropism.org/adhd/) (2025-11-22)
-- [My private information is worth $30](https://blog.melashri.net/micro/privacy-price/) (2025-11-22)
-- [Jack Ma's family shifted wealth to UK after years-long 'disappearance'](https://www.source-material.org/jack-ma-bought-uk-home-after-years-long-disappearance/) (2025-11-22)
-- [Libpng 1.6.51: Four buffer overflow vulnerabilities fixed](https://www.openwall.com/lists/oss-security/2025/11/22/1) (2025-11-22)
-- [Superman copy found in mum's attic is most valuable comic ever at $9.12M](https://www.bbc.com/news/articles/c8e9rp0knj6o) (2025-11-22)
+- [Depot (YC W23) Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/depot/jobs/O2iB56E-staff-infrastructure-engineer) (2025-11-22)
+- [The privacy nightmare of browser fingerprinting](https://kevinboone.me/fingerprinting.html) (2025-11-22)
+- [In a U.S. First, New Mexico Opens Doors to Free Child Care for All](https://www.wsj.com/us-news/in-a-u-s-first-new-mexico-opens-doors-to-free-child-care-for-all-2dfdea96) (2025-11-22)
+- [New Apple Study Shows LLMs Can Tell What You're Doing from Audio and Motion Data](https://9to5mac.com/2025/11/21/apple-research-llm-study-audio-motion-activity/) (2025-11-22)
+- ['The French people want to save us': help pours in for glassmaker Duralex](https://www.theguardian.com/world/2025/nov/22/french-people-want-to-save-us-help-pours-glassmaker-duralex) (2025-11-22)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [‘Jmail’ is like any other inbox, except this one has Jeffrey Epstein’s emails](https://www.theverge.com/news/826901/jeffrey-epstein-files-emails-gmail-jmail) (2025-11-22)
-- [Google denies &#8216;misleading&#8217; reports of Gmail using your emails to train AI](https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out) (2025-11-22)
-- [Judge wants to fix Google’s ad tech monopoly before it’s too late](https://www.theverge.com/news/826796/google-ad-tech-closing-arguments) (2025-11-21)
-- [You can save up to $1,300 on robovacs from Roborock and Eufy ahead of Black Friday](https://www.theverge.com/gadgets/823578/black-friday-best-early-robot-vacuum-mop-deals-2025) (2025-11-21)
-- [You can now try the Xbox Full Screen Experience on any PC, laptop, or tablet](https://www.theverge.com/news/826695/microsoft-xbox-full-screen-experience-pc-laptop-tablet-windows-insider) (2025-11-21)
+- [Sony’s entire DualSense lineup is $20 off, including the limited edition models](https://www.theverge.com/gadgets/826320/ps5-dualsense-wireless-controller-black-friday-deal-sale-2025) (2025-11-22)
+- [Spotify simplifies importing playlists from other streaming services](https://www.theverge.com/news/825646/spotify-playlist-import) (2025-11-22)
+- [The absolute best Black Friday deals we’ve found (so far)](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025) (2025-11-22)
+- [The best AR glasses are cheaper than ever during Black Friday](https://www.theverge.com/gadgets/826225/xreal-one-viture-luma-pro-ar-glasses-steam-deck-switch-2-deal-sale) (2025-11-22)
+- [Forestrike trained me to become an incredible pixelated fighter](https://www.theverge.com/games/826331/forestrike-review-nintendo-switch-steam) (2025-11-22)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [This hacker conference installed a literal antivirus monitoring system](https://arstechnica.com/security/2025/11/this-hacker-conference-installed-a-literal-antivirus-monitoring-system/) (2025-11-22)
 - [Oops. Cryptographers cancel election results after losing decryption key.](https://arstechnica.com/security/2025/11/cryptography-group-cancels-election-results-after-official-loses-secret-key/) (2025-11-22)
 - [Why you don’t want to get tuberculosis on your penis](https://arstechnica.com/health/2025/11/why-you-dont-want-to-get-tuberculosis-on-your-penis/) (2025-11-21)
 - [Science-centric streaming service Curiosity Stream is an AI-licensing firm now](https://arstechnica.com/gadgets/2025/11/curiosity-stream-expects-to-make-most-of-its-money-from-ai-deals-by-2027/) (2025-11-21)
 - [Return to the year 2000 with classic multiplayer DOS games in your browser](https://arstechnica.com/gaming/2025/11/return-to-the-year-2000-with-classic-multiplayer-dos-games-in-your-browser/) (2025-11-21)
-- [How to know if your Asus router is one of thousands hacked by China-state hackers](https://arstechnica.com/security/2025/11/thousands-of-hacked-asus-routers-are-under-control-of-suspected-china-state-hackers/) (2025-11-21)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Day 42: Python Roman Numeral Converter, Bidirectional Conversion Between Roman and Integers with Mapping and Loops](https://dev.to/shahrouzlogs/day-42-python-roman-numeral-converter-bidirectional-conversion-between-roman-and-integers-with-1hfg) (2025-11-22)
-- [CSS](https://dev.to/mujahida_joynab_64c7407d8/css-42ep) (2025-11-22)
-- [My Code Worked. Excel’s "Protected View" Killed It.](https://dev.to/not_varunkv/my-code-worked-excels-protected-view-killed-it-d58) (2025-11-22)
-- [Mapping the Skeleton of Every Webpage - Understanding HTML’s Core Structure](https://dev.to/theosnyman-dev/mapping-the-skeleton-of-every-webpage-understanding-htmls-core-structure-28dm) (2025-11-22)
-- [Beyond the Changelog: Engineering Your Blog for B2B Thought Leadership](https://dev.to/michaelaiglobal/beyond-the-changelog-engineering-your-blog-for-b2b-thought-leadership-3ljg) (2025-11-22)
+- [Andrew Huang: Making a track with the dial-up modem sound](https://dev.to/music_youtube/andrew-huang-making-a-track-with-the-dial-up-modem-sound-1cj1) (2025-11-22)
+- [Message Throttling with Apache Camel Master Component](https://dev.to/hiclab/message-throttling-with-apache-camel-master-component-166p) (2025-11-22)
+- [7 TypeScript Tricks That Feel Illegal to Use](https://dev.to/tjcoding/7-typescript-tricks-that-feel-illegal-to-use-k40) (2025-11-22)
+- [Black Friday Web Hosting Deals 2025 – Grab Up to 98% Off on the Best Hosts (Live Offers)](https://dev.to/just4sanu/black-friday-web-hosting-deals-2025-grab-up-to-98-off-on-the-best-hosts-live-offers-1ko7) (2025-11-22)
+- [Debloat OPPO A15s](https://dev.to/skidee/debloat-oppo-a15s-1jed) (2025-11-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09055770486#شماره خاله تهران#شماره خاله#شماره خاله کرج#شماره خاله اصفهان#شماره خاله شیراز#شماره…](https://medium.com/@woeueyehshdqiwuhwjwiwuw/09055770486-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-4bc8c134956b?source=rss------programming-5) (2025-11-22)
-- [09055770486#شماره خاله تهران#شماره خاله#شماره خاله کرج#شماره خاله اصفهان#شماره خاله شیراز#شماره…](https://medium.com/@woeueyehshdqiwuhwjwiwuw/09055770486-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e8b6ee92213a?source=rss------programming-5) (2025-11-22)
-- [09370750325](https://medium.com/@juiiyddgfddtr/09370750325-ac580cb9ee47?source=rss------programming-5) (2025-11-22)
-- [The Great Debate: Package-by-Layer vs Package-by-Feature](https://medium.com/@reyanshicodes/the-great-debate-package-by-layer-vs-package-by-feature-121bcc479336?source=rss------programming-5) (2025-11-22)
-- [When Async Calls Become “Accidentally Distributed Denial-of-Service” Calls](https://medium.com/@reyanshicodes/when-async-calls-become-accidentally-distributed-denial-of-service-calls-9b638cd85b6f?source=rss------programming-5) (2025-11-22)
+- [09391669854شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@dnfjgritwma/09391669854%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-ea6984c07a38?source=rss------programming-5) (2025-11-22)
+- [When Operating Systems Learn to Predict Application Behavior](https://observabilityguy.medium.com/when-operating-systems-learn-to-predict-application-behavior-153024a7c416?source=rss------programming-5) (2025-11-22)
+- [09391669854شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@dnfjgritwma/09391669854%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-208e39340267?source=rss------programming-5) (2025-11-22)
+- [Top 7 Internships Every Engineering Student Should Do (2025 Guide)](https://medium.com/@henryniju1999/top-7-internships-every-engineering-student-should-do-2025-guide-3b04bd6c1b1b?source=rss------programming-5) (2025-11-22)
+- [Implementing Stripe Payments: The Complete Integration Guide](https://medium.com/@sohail_saifii/implementing-stripe-payments-the-complete-integration-guide-28a3ee843277?source=rss------programming-5) (2025-11-22)
 
 </details>
 
@@ -569,11 +569,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/adobe-journe
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Empirical Mode Decomposition: The Most Intuitive Way to Decompose Complex Signals and Time Series](https://towardsdatascience.com/preprocessing-signal-data-with-empirical-mode-decomposition/) (2025-11-22)
+- [Overfitting vs. Underfitting: Making Sense of the Bias-Variance Trade-Off](https://towardsdatascience.com/overfitting-versus-underfitting/) (2025-11-22)
 - [Modern DataFrames in Python: A Hands-On Tutorial with Polars and DuckDB](https://towardsdatascience.com/modern-dataframes-in-python-a-hands-on-tutorial-with-polars-and-duckdb/) (2025-11-21)
 - [How To Build a Graph-Based Recommendation Engine Using EDG and Neo4j](https://towardsdatascience.com/how-to-build-a-recommendation-engine-using-edg-and-neo4j/) (2025-11-21)
 - [Natural Language Visualization and the Future of Data Analysis and Presentation](https://towardsdatascience.com/natural-language-visualization-and-the-future-of-data-analysis-and-presentation/) (2025-11-21)
-- [Generative AI Will Redesign Cars, But Not the Way Automakers Think](https://towardsdatascience.com/generative-ai-will-redesign-cars-but-not-the-way-automakers-think/) (2025-11-21)
-- [TDS Newsletter: How to Build Robust Data and AI Systems](https://towardsdatascience.com/tds-newsletter-how-to-build-robust-data-and-ai-systems/) (2025-11-21)
 
 </details>
 
