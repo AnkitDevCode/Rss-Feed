@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [How this founder’s unlikely path to Silicon Valley could become an edge in industrial tech](https://techcrunch.com/2025/11/21/how-this-founders-unlikely-path-to-silicon-valley-could-become-an-edge-in-industrial-tech/) (2025-11-22)
 - [Bret Taylor’s Sierra reaches $100M ARR in under two years](https://techcrunch.com/2025/11/21/bret-taylors-sierra-reaches-100m-arr-in-under-two-years/) (2025-11-21)
 - [The hottest AI wearables and gadgets you can buy right now](https://techcrunch.com/2025/11/21/the-hottest-ai-wearables-and-gadgets-you-can-buy-right-now/) (2025-11-21)
 - [CrowdStrike fires ‘suspicious insider’ who passed information to hackers](https://techcrunch.com/2025/11/21/crowdstrike-fires-suspicious-insider-who-passed-information-to-hackers/) (2025-11-21)
 - [Google says hackers stole data from 200 companies following Gainsight breach](https://techcrunch.com/2025/11/21/google-says-hackers-stole-data-from-200-companies-following-gainsight-breach/) (2025-11-21)
-- [X begins rolling out the ‘About this account’ feature to users’ profiles](https://techcrunch.com/2025/11/21/x-begins-rolling-out-the-about-this-account-feature-to-users-profiles/) (2025-11-21)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Explaining, at some length, Techmeme's 20 years of consistency](https://news.techmeme.com/250912/20-years) (2025-11-21)
-- [I learned Vulkan and wrote a small game engine with it](https://edw.is/learning-vulkan/) (2025-11-21)
-- [3D printing with unconventional vase mode](https://vorpal.se/posts/2025/jun/23/3d-printing-with-unconventional-vase-mode/) (2025-11-21)
-- [California DMV approves map increase in Waymo driverless operations](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-testing-permit-holders/waymo-approved-areas-of-operation-for-driverless-testing-and-deployment/) (2025-11-21)
-- [Personal blogs are back, should niche blogs be next?](https://disassociated.com/personal-blogs-back-niche-blogs-next/) (2025-11-21)
+- [Superman copy found in mum's attic is most valuable comic ever at $9.12M](https://www.bbc.com/news/articles/c8e9rp0knj6o) (2025-11-22)
+- [Openring-rs: a webring for static site generators written in Rust](https://github.com/lukehsiao/openring-rs) (2025-11-22)
+- [Moss Survives 9 Months in Space Vacuum](https://scienceclock.com/moss-survives-9-months-in-space-vacuum/) (2025-11-22)
+- [Infinibay LXD Container](https://github.com/Infinibay/lxd) (2025-11-22)
+- [Sharper MRI scans may be on horizon thanks to new physics-based model](https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model) (2025-11-22)
 
 </details>
 
@@ -97,35 +97,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [SvelteKit Surreal Database Authentication](https://dev.to/jdgamble555/sveltekit-surreal-database-authentication-51e9) (2025-11-22)
-- [Revolutionize AI Conversations: Monetzly's Impact on Developer Earnings](https://dev.to/monetzly/revolutionize-ai-conversations-monetzlys-impact-on-developer-earnings-4cai) (2025-11-22)
-- [Contributing to Threadbare](https://dev.to/kphero/contributing-to-threadbare-470n) (2025-11-22)
-- [Tiny Games, Big Feelings](https://dev.to/diegodotta/tiny-games-big-feelings-4oke) (2025-11-22)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-179c) (2025-11-22)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-5896) (2025-11-22)
+- [Goodbye Green Screen: Why AI Background Removal Outperforms Traditional Editing](https://dev.to/freepixel11/goodbye-green-screen-why-ai-background-removal-outperforms-traditional-editing-3ih0) (2025-11-22)
+- [Be a Responsible Code Reviewer](https://dev.to/manojshr/be-a-responsible-code-reviewer-46ni) (2025-11-22)
+- [UK Unleashes New Cybersecurity Bill: Fortifying Digital Defenses After $28M Crypto Fraud](https://dev.to/nftsaz2025/uk-unleashes-new-cybersecurity-bill-fortifying-digital-defenses-after-28m-crypto-fraud-4j1g) (2025-11-22)
+- [Building Streaming Iceberg Tables for Real-Time Logistics Analytics](https://dev.to/awsugonair/building-streaming-iceberg-tables-for-real-time-logistics-analytics-43g4) (2025-11-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Google just gave Android Auto that update drivers have been waiting for: Gemini is finally riding…](https://medium.com/predict/google-just-gave-android-auto-that-update-drivers-have-been-waiting-for-gemini-is-finally-riding-7e6dd9479778?source=rss------programming-5) (2025-11-22)
-- [I made Color By Number using python | 100 Game Project #5](https://medium.com/@muddlemon/i-made-color-by-number-using-python-100-game-project-5-f14251065927?source=rss------programming-5) (2025-11-22)
-- [JSON vs TOON — Introducing a New Era of Structured Input?](https://medium.com/@sunil17bbmp/json-vs-toon-introducing-a-new-era-of-structured-input-499e89f0733b?source=rss------programming-5) (2025-11-22)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mnvghjj10mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-6a065b4a518d?source=rss------programming-5) (2025-11-22)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mnvghjj10mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-6d50c6a4dc38?source=rss------programming-5) (2025-11-22)
+- [Stop Over-Engineering in Angular: The Simple Architecture Rule That Makes Everything Easier](https://medium.com/@sourabhda1998/stop-over-engineering-in-angular-the-simple-architecture-rule-that-makes-everything-easier-ec042391332a?source=rss------programming-5) (2025-11-22)
+- [I Built a Google Gemini Agent in Java (So You Don’t Have To)](https://medium.com/@srijith.unni/i-built-a-google-gemini-agent-in-java-so-you-dont-have-to-709a46cf4d5e?source=rss------programming-5) (2025-11-22)
+- [Switching to Vim Motions in Cursor Completely Changed How I Navigate Code](https://javascript.plainenglish.io/switching-to-vim-motions-in-cursor-completely-changed-how-i-navigate-code-a568f744b291?source=rss------programming-5) (2025-11-22)
+- [ MERN Stack Explained: The Complete Guide for Full-Stack Web Development](https://javascript.plainenglish.io/mern-stack-explained-the-complete-guide-for-full-stack-web-development-700148abe360?source=rss------programming-5) (2025-11-22)
+- [Ultimate Investment Portfolio Diversification using PCA Models](https://medium.com/coding-nexus/ultimate-investment-portfolio-diversification-using-pca-models-79cad2d203cf?source=rss------programming-5) (2025-11-22)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [New one-click onboarding and notebooks with a built-in AI agent in Amazon SageMaker Unified Studio](https://aws.amazon.com/blogs/aws/new-one-click-onboarding-and-notebooks-with-ai-agent-in-amazon-sagemaker-unified-studio/) (2025-11-22)
 - [Build production-ready applications without infrastructure complexity using Amazon ECS Express Mode](https://aws.amazon.com/blogs/aws/build-production-ready-applications-without-infrastructure-complexity-using-amazon-ecs-express-mode/) (2025-11-21)
 - [Introducing VPC encryption controls: Enforce encryption in transit within and across VPCs in a Region](https://aws.amazon.com/blogs/aws/introducing-vpc-encryption-controls-enforce-encryption-in-transit-within-and-across-vpcs-in-a-region/) (2025-11-21)
 - [Introducing attribute-based access control for Amazon S3 general purpose buckets](https://aws.amazon.com/blogs/aws/introducing-attribute-based-access-control-for-amazon-s3-general-purpose-buckets/) (2025-11-21)
 - [Simplify access to external services using AWS IAM Outbound Identity Federation](https://aws.amazon.com/blogs/aws/simplify-access-to-external-services-using-aws-iam-outbound-identity-federation/) (2025-11-19)
-- [Accelerate workflow development with enhanced local testing in AWS Step Functions](https://aws.amazon.com/blogs/aws/accelerate-workflow-development-with-enhanced-local-testing-in-aws-step-functions/) (2025-11-19)
 
 </details>
 
@@ -575,7 +573,7 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/adobe-journe
 - [How To Build a Graph-Based Recommendation Engine Using EDG and Neo4j](https://towardsdatascience.com/how-to-build-a-recommendation-engine-using-edg-and-neo4j/) (2025-11-21)
 - [Natural Language Visualization and the Future of Data Analysis and Presentation](https://towardsdatascience.com/natural-language-visualization-and-the-future-of-data-analysis-and-presentation/) (2025-11-21)
 - [Generative AI Will Redesign Cars, But Not the Way Automakers Think](https://towardsdatascience.com/generative-ai-will-redesign-cars-but-not-the-way-automakers-think/) (2025-11-21)
-- [How to Use Gemini 3 Pro Efficiently](https://towardsdatascience.com/how-to-use-gemini-3-pro-efficiently/) (2025-11-20)
+- [TDS Newsletter: How to Build Robust Data and AI Systems](https://towardsdatascience.com/tds-newsletter-how-to-build-robust-data-and-ai-systems/) (2025-11-21)
 
 </details>
 
