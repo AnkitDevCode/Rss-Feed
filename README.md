@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [AI is too risky to insure, say people whose job is insuring risk](https://techcrunch.com/2025/11/23/ai-is-too-risky-to-insure-say-people-whose-job-is-insuring-risk/) (2025-11-23)
+- [TechCrunch Mobility: Searching for the robotaxi tipping point](https://techcrunch.com/2025/11/23/techcrunch-mobility-searching-for-the-robotaxi-tipping-point/) (2025-11-23)
+- [Beehiiv’s CEO isn’t worried about newsletter saturation](https://techcrunch.com/2025/11/23/beehiivs-ceo-isnt-worried-about-newsletter-saturation/) (2025-11-23)
+- [ChatGPT told them they were special — their families say it led to tragedy](https://techcrunch.com/2025/11/23/chatgpt-told-them-they-were-special-their-families-say-it-led-to-tragedy/) (2025-11-23)
 - [Trump administration might not fight state AI regulations after all](https://techcrunch.com/2025/11/22/trump-administration-might-not-fight-state-ai-regulations-after-all/) (2025-11-22)
-- [Waymo gets regulatory approval to expand across Bay Area and Southern California](https://techcrunch.com/2025/11/22/waymo-gets-regulatory-approval-to-expand-across-bay-area-and-southern-california/) (2025-11-22)
-- [Meta wants to get into the electricity trading business](https://techcrunch.com/2025/11/22/meta-wants-to-get-into-the-electricity-trading-business/) (2025-11-22)
-- [Byju’s founder to appeal U.S. court order to pay over $1B in bankruptcy case](https://techcrunch.com/2025/11/22/byjus-founder-to-appeal-u-s-court-order-to-pay-over-1b-in-bankruptcy-case/) (2025-11-22)
-- [Why now is the best time to invest in climate tech](https://techcrunch.com/2025/11/22/why-now-is-the-best-time-to-invest-in-climate-tech/) (2025-11-22)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us) (2025-11-23)
-- [Signal knows who you're talking to](https://sanesecurityguy.com/articles/signal-knows-who-youre-talking-to/) (2025-11-23)
-- [After my dad died, we found the love letters](https://www.jenn.site/after-my-dad-died-we-found-the-love-letters/) (2025-11-23)
-- [Google Revisits JPEG XL in Chromium After Earlier Removal](https://windowsreport.com/google-revisits-jpeg-xl-in-chromium-after-earlier-removal/) (2025-11-23)
-- [Unusual circuits in the Intel 386's standard cell logic](https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html) (2025-11-23)
+- [Native Secure Enclave backed SSH keys on macOS](https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf) (2025-11-23)
+- [SVG.js v3.2](https://svgjs.dev/docs/3.2/) (2025-11-23)
+- [Are consumers just tech debt to Microsoft?](https://birchtree.me/blog/are-consumers-just-tech-debt-to-microsoft/) (2025-11-23)
+- [HumanLayer (YC F24) Is Hiring Founding Engineers](https://www.ycombinator.com/companies/humanlayer/jobs/oBCZzc7-founding-product-engineer) (2025-11-23)
+- [Calculus for Mathematicians, Computer Scientists, and Physicists [pdf]](https://mathcs.holycross.edu/~ahwang/print/calc.pdf) (2025-11-23)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Sony’s last-gen XM4 headphones are over 50 percent off for Black Friday](https://www.theverge.com/gadgets/826784/sony-wh-1000xm4-noise-canceling-headphones-black-friday-deal-sale-2025) (2025-11-23)
+- [Vine walked so TikTok could run](https://www.theverge.com/podcast/827102/vine-influence-tiktok-reels-shorts-version-history) (2025-11-23)
+- [Apple TV wants to go big](https://www.theverge.com/column/825282/apple-tv-streaming-grow-audience) (2025-11-23)
+- [The app that will instantly improve your Windows PC](https://www.theverge.com/tech/826971/raycast-kirby-comet-deadpool-vr-installer) (2025-11-23)
 - [Shocker: Elon Musk spends a lot of time on X posting bad political takes](https://www.theverge.com/tech/827125/elon-musk-x-posts-politics-himself) (2025-11-23)
-- [Sony’s entire DualSense lineup is $20 off, including the limited edition models](https://www.theverge.com/gadgets/826320/ps5-dualsense-wireless-controller-black-friday-deal-sale-2025) (2025-11-22)
-- [Spotify simplifies importing playlists from other streaming services](https://www.theverge.com/news/825646/spotify-playlist-import) (2025-11-22)
-- [The absolute best Black Friday deals we’ve found (so far)](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025) (2025-11-22)
-- [The best AR glasses are cheaper than ever during Black Friday](https://www.theverge.com/gadgets/826225/xreal-one-viture-luma-pro-ar-glasses-steam-deck-switch-2-deal-sale) (2025-11-22)
 
 </details>
 
@@ -97,25 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why Softmax is Used Instead of Argmax in Neural Network Training](https://dev.to/imdadul_haqueohi_1eb693e/why-softmax-is-used-instead-of-argmax-in-neural-network-training-aba) (2025-11-23)
-- [🛠️ Uniface 10.4 Tip: How to Debug C/C++ Components Without Crashing](https://dev.to/petercode/uniface-104-tip-how-to-debug-cc-components-without-crashing-kip) (2025-11-23)
-- [De-Silo Your Revenue Engine: A 5-Step Playbook for Aligning Sales & Marketing APIs](https://dev.to/michaelaiglobal/de-silo-your-revenue-engine-a-5-step-playbook-for-aligning-sales-marketing-apis-3ci9) (2025-11-23)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-37g4) (2025-11-23)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3ae2) (2025-11-23)
+- [AI for Bharat: Tired of Just Reading About AI? It’s Time to Start Building](https://dev.to/arunagri82/ai-for-bharat-tired-of-just-reading-about-ai-its-time-to-start-building-275k) (2025-11-23)
+- [8-Bit Music Theory: Kirby Air Riders' Music is FUN FUN FUN](https://dev.to/music_youtube/8-bit-music-theory-kirby-air-riders-music-is-fun-fun-fun-3fjm) (2025-11-23)
+- [Building Domain-Specific AI Agents Through Configuration, Not Code](https://dev.to/arvindkumar_akula_42a971e/building-domain-specific-ai-agents-through-configuration-not-code-50nh) (2025-11-23)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-292k) (2025-11-23)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-4e3c) (2025-11-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How I Used AI to Automate a Task I Hated for Years](https://medium.com/@amrpratapsingh02/how-i-used-ai-to-automate-a-task-i-hated-for-years-85daba2437e5?source=rss------programming-5) (2025-11-23)
-- [If you need a clean, modern and affordable website, check out my portfolio:
- https://dilraj9351.gi](https://medium.com/@dilrajmeena2880/if-you-need-a-clean-modern-and-affordable-website-check-out-my-portfolio-https-dilraj9351-gi-788ab4cde982?source=rss------programming-5) (2025-11-23)
-- [0936 062 7233شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@n8655028/0936-062-7233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e2de9f06c857?source=rss------programming-5) (2025-11-23)
-- [When Code Starts to Feel Alive](https://medium.com/@des.atkins77/when-code-starts-to-feel-alive-f3ebb8a33aff?source=rss------programming-5) (2025-11-23)
-- [0936 062 7233شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@n50995867/0936-062-7233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-529907f22317?source=rss------programming-5) (2025-11-23)
+- [The Great Screen of Awareness](https://medium.com/@laurenoflight/the-great-screen-of-awareness-93019912491c?source=rss------programming-5) (2025-11-23)
+- [Go Beyond the Bill: Build Your Own OpenAI Cost Exporter for VictoriaMetrics ](https://medium.com/@gerahitesh13/go-beyond-the-bill-build-your-own-openai-cost-exporter-for-victoriametrics-0e1cf837b507?source=rss------programming-5) (2025-11-23)
+- [09334082420شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@owjebdbdnsksn/09334082420%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-155e4e7e03fa?source=rss------programming-5) (2025-11-23)
+- [09334082420شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@owjebdbdnsksn/09334082420%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-704850c035af?source=rss------programming-5) (2025-11-23)
+- [How to Organize Minimal API Endpoints in Clean Architecture (.NET](https://medium.com/@mariammaurice/how-to-organize-minimal-api-endpoints-in-clean-architecture-net-26552cfcc5b4?source=rss------programming-5) (2025-11-23)
 
 </details>
 
@@ -572,11 +569,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/adobe-journe
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Learning Triton One Kernel at a Time: Softmax](https://towardsdatascience.com/learning-triton-one-kernel-at-a-time-softmax/) (2025-11-23)
+- [Your Next ‘Large’ Language Model Might Not Be Large After All](https://towardsdatascience.com/your-next-large-language-model-might-not-be-large-afterall-2/) (2025-11-23)
 - [Empirical Mode Decomposition: The Most Intuitive Way to Decompose Complex Signals and Time Series](https://towardsdatascience.com/preprocessing-signal-data-with-empirical-mode-decomposition/) (2025-11-22)
 - [Overfitting vs. Underfitting: Making Sense of the Bias-Variance Trade-Off](https://towardsdatascience.com/overfitting-versus-underfitting/) (2025-11-22)
 - [Modern DataFrames in Python: A Hands-On Tutorial with Polars and DuckDB](https://towardsdatascience.com/modern-dataframes-in-python-a-hands-on-tutorial-with-polars-and-duckdb/) (2025-11-21)
-- [How To Build a Graph-Based Recommendation Engine Using EDG and Neo4j](https://towardsdatascience.com/how-to-build-a-recommendation-engine-using-edg-and-neo4j/) (2025-11-21)
-- [Natural Language Visualization and the Future of Data Analysis and Presentation](https://towardsdatascience.com/natural-language-visualization-and-the-future-of-data-analysis-and-presentation/) (2025-11-21)
 
 </details>
 
