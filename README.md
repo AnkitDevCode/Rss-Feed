@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Cryptographers Held an Election. They Can't Decrypt the Results](https://www.nytimes.com/2025/11/21/world/cryptography-group-lost-election-results.html) (2025-11-23)
+- [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us) (2025-11-23)
+- [Signal knows who you're talking to](https://sanesecurityguy.com/articles/signal-knows-who-youre-talking-to/) (2025-11-23)
+- [After my dad died, we found the love letters](https://www.jenn.site/after-my-dad-died-we-found-the-love-letters/) (2025-11-23)
+- [Google Revisits JPEG XL in Chromium After Earlier Removal](https://windowsreport.com/google-revisits-jpeg-xl-in-chromium-after-earlier-removal/) (2025-11-23)
 - [Unusual circuits in the Intel 386's standard cell logic](https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html) (2025-11-23)
-- [GCC SC approves inclusion of Algol 68 Front End](https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html) (2025-11-23)
-- [An Economy of AI Agents](https://arxiv.org/abs/2509.01063) (2025-11-23)
-- [Meta buried 'causal' evidence of social media harm, US court filings allege](https://www.reuters.com/sustainability/boards-policy-regulation/meta-buried-causal-evidence-social-media-harm-us-court-filings-allege-2025-11-23/) (2025-11-23)
 
 </details>
 
@@ -97,22 +97,25 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Ultimate Guide to Wisdom: Prompting AI vs. Praying to God](https://dev.to/bobby_sanders_63117dbdf8a/the-ultimate-guide-to-wisdom-prompting-ai-vs-praying-to-god-10f9) (2025-11-23)
-- [Singleton Pattern issue in playwright browser](https://dev.to/taukirsheikh/singleton-pattern-issue-in-playwright-brwoser-g9b) (2025-11-23)
-- [Streamline SDK Integration for AI Monetization with Monetzly](https://dev.to/monetzly/streamline-sdk-integration-for-ai-monetization-with-monetzly-2bf2) (2025-11-23)
-- [SteadyFetch: A tiny Android SDK that refuses to let your downloads die](https://dev.to/namn_dev/steadyfetch-a-tiny-android-sdk-that-refuses-to-let-your-downloads-die-448g) (2025-11-23)
-- [📘 SaijinOS Part 12 (DEV Edition)](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-12-dev-edition-572c) (2025-11-23)
+- [Why Softmax is Used Instead of Argmax in Neural Network Training](https://dev.to/imdadul_haqueohi_1eb693e/why-softmax-is-used-instead-of-argmax-in-neural-network-training-aba) (2025-11-23)
+- [🛠️ Uniface 10.4 Tip: How to Debug C/C++ Components Without Crashing](https://dev.to/petercode/uniface-104-tip-how-to-debug-cc-components-without-crashing-kip) (2025-11-23)
+- [De-Silo Your Revenue Engine: A 5-Step Playbook for Aligning Sales & Marketing APIs](https://dev.to/michaelaiglobal/de-silo-your-revenue-engine-a-5-step-playbook-for-aligning-sales-marketing-apis-3ci9) (2025-11-23)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-37g4) (2025-11-23)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3ae2) (2025-11-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Finding Purpose in Sobriety, Fitness, and Programming](https://medium.com/@v1Rtu3_h05t/finding-purpose-in-sobriety-fitness-and-programming-06f6711df0e9?source=rss------programming-5) (2025-11-23)
-- [2025’te Teknolojinin Yeni Yüzü: Yapay Zeka Artık Sadece Bir Araç Değil, Bir Karar Ortağı!](https://medium.com/@yazicinisanur5885/2025te-teknolojinin-yeni-y%C3%BCz%C3%BC-yapay-zeka-art%C4%B1k-sadece-bir-ara%C3%A7-de%C4%9Fil-bir-karar-orta%C4%9F%C4%B1-351cf9646a83?source=rss------programming-5) (2025-11-23)
-- [Clever AI Humanizer: Best AI Humanizer](https://medium.com/@desewin11/clever-ai-humanizer-best-ai-humanizer-b6da591398bf?source=rss------programming-5) (2025-11-23)
-- [Spring Boot 4 & Spring Framework 7: The Modern Features for Java Development](https://connect2grp.medium.com/spring-boot-4-spring-framework-7-the-modern-features-for-java-development-e447769783cc?source=rss------programming-5) (2025-11-23)
-- [Best Cryptocurrency Recovery Company / iBolt Cyber Hacker](https://medium.com/@zaydbrady92/best-cryptocurrency-recovery-company-ibolt-cyber-hacker-7da19fed166b?source=rss------programming-5) (2025-11-23)
+- [How I Used AI to Automate a Task I Hated for Years](https://medium.com/@amrpratapsingh02/how-i-used-ai-to-automate-a-task-i-hated-for-years-85daba2437e5?source=rss------programming-5) (2025-11-23)
+- [If you need a clean, modern and affordable website, check out my portfolio:
+ https://dilraj9351.gi](https://medium.com/@dilrajmeena2880/if-you-need-a-clean-modern-and-affordable-website-check-out-my-portfolio-https-dilraj9351-gi-788ab4cde982?source=rss------programming-5) (2025-11-23)
+- [0936 062 7233شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@n8655028/0936-062-7233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e2de9f06c857?source=rss------programming-5) (2025-11-23)
+- [When Code Starts to Feel Alive](https://medium.com/@des.atkins77/when-code-starts-to-feel-alive-f3ebb8a33aff?source=rss------programming-5) (2025-11-23)
+- [0936 062 7233شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@n50995867/0936-062-7233%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-529907f22317?source=rss------programming-5) (2025-11-23)
 
 </details>
 
@@ -556,6 +559,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/adobe-journe
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [WorldGen: Meta reveals generative AI for interactive 3D worlds](https://www.artificialintelligence-news.com/news/worldgen-meta-generative-ai-for-interactive-3d-worlds/) (2025-11-21)
+- [ChatGPT group chats may help teams bring AI into daily planning](https://www.artificialintelligence-news.com/news/chatgpt-group-chats-may-help-teams-bring-ai-into-daily-planning/) (2025-11-21)
+- [How the Royal Navy is using AI to cut its recruitment workload](https://www.artificialintelligence-news.com/news/how-the-royal-navy-is-using-ai-to-cut-recruitment-workload/) (2025-11-20)
+- [How to choose the best thermal binoculars for long-range detection in 2026](https://www.artificialintelligence-news.com/news/how-to-choose-the-best-thermal-binoculars-for-long-range-detection-in-2026/) (2025-11-20)
+- [Pure Storage and Azure’s role in AI-ready data for enterprises](https://www.artificialintelligence-news.com/news/pure-storage-and-azures-role-in-ai-ready-data-for-enterprise/) (2025-11-20)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
 - [Empirical Mode Decomposition: The Most Intuitive Way to Decompose Complex Signals and Time Series](https://towardsdatascience.com/preprocessing-signal-data-with-empirical-mode-decomposition/) (2025-11-22)
@@ -569,11 +583,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/adobe-journe
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [10 Weirdest AI Tools You’ve Never Heard of](https://www.analyticsvidhya.com/blog/2025/11/weirdest-ai-tools/) (2025-11-23)
 - [What is RAG Indexing?](https://www.analyticsvidhya.com/blog/2025/11/what-is-rag-indexing/) (2025-11-22)
 - [10 Nano Banana Pro Prompts that You Must Try!](https://www.analyticsvidhya.com/blog/2025/11/nano-banana-pro-prompts/) (2025-11-21)
 - [I Made iPhone UI in Seconds with Google’s Antigravity](https://www.analyticsvidhya.com/blog/2025/11/google-antigravity/) (2025-11-20)
 - [Is Gemini 3 Better than GPT 5.1?](https://www.analyticsvidhya.com/blog/2025/11/gemini-3-vs-gpt-5-1/) (2025-11-20)
-- [Gemini 3 vs Grok 4.1: The Best AI of 2025 is…](https://www.analyticsvidhya.com/blog/2025/11/gemini-3-vs-grok-4-1-best-ai-of-2025/) (2025-11-20)
 
 </details>
 
