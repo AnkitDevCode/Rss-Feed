@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Germany to classify date rape drugs as weapons to ensure justice for survivors](https://www.theguardian.com/society/2025/nov/21/germany-to-classify-date-drugs-as-weapons-in-attempt-to-ensure-justice-for-survivors) (2025-11-23)
-- [How to Spot a Counterfeit Lithium-Ion Battery](https://spectrum.ieee.org/counterfeit-lithium-ion-batteries) (2025-11-22)
-- [A Startup's Bid to Dim the Sun](https://www.newyorker.com/news/the-lede/a-startups-bid-to-dim-the-sun) (2025-11-22)
-- [Windows ARM64 Internals: Deconstructing Pointer Authentication](https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing-pointer-authentication) (2025-11-22)
-- [WorldGen – Text to Immersive 3D Worlds](https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/) (2025-11-22)
+- [Cryptographers Held an Election. They Can't Decrypt the Results](https://www.nytimes.com/2025/11/21/world/cryptography-group-lost-election-results.html) (2025-11-23)
+- [Unusual circuits in the Intel 386's standard cell logic](https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html) (2025-11-23)
+- [GCC SC approves inclusion of Algol 68 Front End](https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html) (2025-11-23)
+- [An Economy of AI Agents](https://arxiv.org/abs/2509.01063) (2025-11-23)
+- [Meta buried 'causal' evidence of social media harm, US court filings allege](https://www.reuters.com/sustainability/boards-policy-regulation/meta-buried-causal-evidence-social-media-harm-us-court-filings-allege-2025-11-23/) (2025-11-23)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Maximize Developer Revenue with Monetzly's AI Conversation Tools](https://dev.to/monetzly/maximize-developer-revenue-with-monetzlys-ai-conversation-tools-3j7d) (2025-11-23)
-- [2025: AI-Assisted Developers Are Shipping Faster Than Ever](https://dev.to/farhannasirdev/2025-ai-assisted-developers-are-shipping-faster-than-ever-41pc) (2025-11-23)
-- [Beyond Gradients: Democratizing Global Optimization with Adaptive Search](https://dev.to/arvind_sundararajan/beyond-gradients-democratizing-global-optimization-with-adaptive-search-12ed) (2025-11-23)
-- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-28jd) (2025-11-23)
-- [How I Optimized an Extremely Slow Oracle SQL Query (Real Case Study)](https://dev.to/pcabreram1234/how-i-optimized-an-extremely-slow-oracle-sql-query-real-case-study-5b6d) (2025-11-23)
+- [The Ultimate Guide to Wisdom: Prompting AI vs. Praying to God](https://dev.to/bobby_sanders_63117dbdf8a/the-ultimate-guide-to-wisdom-prompting-ai-vs-praying-to-god-10f9) (2025-11-23)
+- [Singleton Pattern issue in playwright browser](https://dev.to/taukirsheikh/singleton-pattern-issue-in-playwright-brwoser-g9b) (2025-11-23)
+- [Streamline SDK Integration for AI Monetization with Monetzly](https://dev.to/monetzly/streamline-sdk-integration-for-ai-monetization-with-monetzly-2bf2) (2025-11-23)
+- [SteadyFetch: A tiny Android SDK that refuses to let your downloads die](https://dev.to/namn_dev/steadyfetch-a-tiny-android-sdk-that-refuses-to-let-your-downloads-die-448g) (2025-11-23)
+- [📘 SaijinOS Part 12 (DEV Edition)](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-12-dev-edition-572c) (2025-11-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09309022560#شماره خاله تهران#شماره خاله#شماره خاله کرج#شماره خاله اصفهان#شماره خاله شیراز#شماره…](https://medium.com/@jnbfnnfmcm/09309022560-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-af5621265333?source=rss------programming-5) (2025-11-23)
-- [The silent failure modes that kill most AI agents](https://pub.aimind.so/the-silent-failure-modes-that-kill-most-ai-agents-244b141f717d?source=rss------programming-5) (2025-11-23)
-- [Everything Is an Object in Python](https://medium.com/@erickgaiero15/everything-is-an-object-in-python-3eb10bca5c5b?source=rss------programming-5) (2025-11-23)
-- [Not Just Time-Saving! The Secret Behind How Multi-Station Fixtures Double Production Efficiency](https://medium.com/@shuw6960/not-just-time-saving-the-secret-behind-how-multi-station-fixtures-double-production-efficiency-53d826e45fcb?source=rss------programming-5) (2025-11-23)
-- [When the voice of anger rises… raise the voice of calm](https://medium.com/@aminejimmm/when-the-voice-of-anger-rises-raise-the-voice-of-calm-c85020941e00?source=rss------programming-5) (2025-11-23)
+- [Finding Purpose in Sobriety, Fitness, and Programming](https://medium.com/@v1Rtu3_h05t/finding-purpose-in-sobriety-fitness-and-programming-06f6711df0e9?source=rss------programming-5) (2025-11-23)
+- [2025’te Teknolojinin Yeni Yüzü: Yapay Zeka Artık Sadece Bir Araç Değil, Bir Karar Ortağı!](https://medium.com/@yazicinisanur5885/2025te-teknolojinin-yeni-y%C3%BCz%C3%BC-yapay-zeka-art%C4%B1k-sadece-bir-ara%C3%A7-de%C4%9Fil-bir-karar-orta%C4%9F%C4%B1-351cf9646a83?source=rss------programming-5) (2025-11-23)
+- [Clever AI Humanizer: Best AI Humanizer](https://medium.com/@desewin11/clever-ai-humanizer-best-ai-humanizer-b6da591398bf?source=rss------programming-5) (2025-11-23)
+- [Spring Boot 4 & Spring Framework 7: The Modern Features for Java Development](https://connect2grp.medium.com/spring-boot-4-spring-framework-7-the-modern-features-for-java-development-e447769783cc?source=rss------programming-5) (2025-11-23)
+- [Best Cryptocurrency Recovery Company / iBolt Cyber Hacker](https://medium.com/@zaydbrady92/best-cryptocurrency-recovery-company-ibolt-cyber-hacker-7da19fed166b?source=rss------programming-5) (2025-11-23)
 
 </details>
 
@@ -552,17 +552,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/adobe-journe
 - [Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms](https://huggingface.co/blog/anylanguagemodel) (2025-11-20)
 - [Easily Build and Share ROCm Kernels with Hugging Face](https://huggingface.co/blog/build-rocm-kernels) (2025-11-17)
 - [Building for an Open Future - our new partnership with Google Cloud](https://huggingface.co/blog/google-cloud) (2025-11-13)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [WorldGen: Meta reveals generative AI for interactive 3D worlds](https://www.artificialintelligence-news.com/news/worldgen-meta-generative-ai-for-interactive-3d-worlds/) (2025-11-21)
-- [ChatGPT group chats may help teams bring AI into daily planning](https://www.artificialintelligence-news.com/news/chatgpt-group-chats-may-help-teams-bring-ai-into-daily-planning/) (2025-11-21)
-- [How the Royal Navy is using AI to cut its recruitment workload](https://www.artificialintelligence-news.com/news/how-the-royal-navy-is-using-ai-to-cut-recruitment-workload/) (2025-11-20)
-- [How to choose the best thermal binoculars for long-range detection in 2026](https://www.artificialintelligence-news.com/news/how-to-choose-the-best-thermal-binoculars-for-long-range-detection-in-2026/) (2025-11-20)
-- [Pure Storage and Azure’s role in AI-ready data for enterprises](https://www.artificialintelligence-news.com/news/pure-storage-and-azures-role-in-ai-ready-data-for-enterprise/) (2025-11-20)
 
 </details>
 
