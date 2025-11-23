@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Trump administration might not fight state AI regulations after all](https://techcrunch.com/2025/11/22/trump-administration-might-not-fight-state-ai-regulations-after-all/) (2025-11-22)
+- [Waymo gets regulatory approval to expand across Bay Area and Southern California](https://techcrunch.com/2025/11/22/waymo-gets-regulatory-approval-to-expand-across-bay-area-and-southern-california/) (2025-11-22)
 - [Meta wants to get into the electricity trading business](https://techcrunch.com/2025/11/22/meta-wants-to-get-into-the-electricity-trading-business/) (2025-11-22)
 - [Byju’s founder to appeal U.S. court order to pay over $1B in bankruptcy case](https://techcrunch.com/2025/11/22/byjus-founder-to-appeal-u-s-court-order-to-pay-over-1b-in-bankruptcy-case/) (2025-11-22)
 - [Why now is the best time to invest in climate tech](https://techcrunch.com/2025/11/22/why-now-is-the-best-time-to-invest-in-climate-tech/) (2025-11-22)
-- [Pew’s latest social media report shows X’s staying power in the U.S., despite competition](https://techcrunch.com/2025/11/22/pews-latest-social-media-report-shows-xs-staying-power-in-the-u-s-despite-competition/) (2025-11-22)
-- [How this founder’s unlikely path to Silicon Valley could become an edge in industrial tech](https://techcrunch.com/2025/11/21/how-this-founders-unlikely-path-to-silicon-valley-could-become-an-edge-in-industrial-tech/) (2025-11-22)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Depot (YC W23) Is Hiring a Staff Infrastructure Engineer](https://www.ycombinator.com/companies/depot/jobs/O2iB56E-staff-infrastructure-engineer) (2025-11-22)
-- [The privacy nightmare of browser fingerprinting](https://kevinboone.me/fingerprinting.html) (2025-11-22)
-- [In a U.S. First, New Mexico Opens Doors to Free Child Care for All](https://www.wsj.com/us-news/in-a-u-s-first-new-mexico-opens-doors-to-free-child-care-for-all-2dfdea96) (2025-11-22)
-- [New Apple Study Shows LLMs Can Tell What You're Doing from Audio and Motion Data](https://9to5mac.com/2025/11/21/apple-research-llm-study-audio-motion-activity/) (2025-11-22)
-- ['The French people want to save us': help pours in for glassmaker Duralex](https://www.theguardian.com/world/2025/nov/22/french-people-want-to-save-us-help-pours-glassmaker-duralex) (2025-11-22)
+- [Germany to classify date rape drugs as weapons to ensure justice for survivors](https://www.theguardian.com/society/2025/nov/21/germany-to-classify-date-drugs-as-weapons-in-attempt-to-ensure-justice-for-survivors) (2025-11-23)
+- [How to Spot a Counterfeit Lithium-Ion Battery](https://spectrum.ieee.org/counterfeit-lithium-ion-batteries) (2025-11-22)
+- [A Startup's Bid to Dim the Sun](https://www.newyorker.com/news/the-lede/a-startups-bid-to-dim-the-sun) (2025-11-22)
+- [Windows ARM64 Internals: Deconstructing Pointer Authentication](https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing-pointer-authentication) (2025-11-22)
+- [WorldGen – Text to Immersive 3D Worlds](https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/) (2025-11-22)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Shocker: Elon Musk spends a lot of time on X posting bad political takes](https://www.theverge.com/tech/827125/elon-musk-x-posts-politics-himself) (2025-11-23)
 - [Sony’s entire DualSense lineup is $20 off, including the limited edition models](https://www.theverge.com/gadgets/826320/ps5-dualsense-wireless-controller-black-friday-deal-sale-2025) (2025-11-22)
 - [Spotify simplifies importing playlists from other streaming services](https://www.theverge.com/news/825646/spotify-playlist-import) (2025-11-22)
 - [The absolute best Black Friday deals we’ve found (so far)](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025) (2025-11-22)
 - [The best AR glasses are cheaper than ever during Black Friday](https://www.theverge.com/gadgets/826225/xreal-one-viture-luma-pro-ar-glasses-steam-deck-switch-2-deal-sale) (2025-11-22)
-- [Forestrike trained me to become an incredible pixelated fighter](https://www.theverge.com/games/826331/forestrike-review-nintendo-switch-steam) (2025-11-22)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Andrew Huang: Making a track with the dial-up modem sound](https://dev.to/music_youtube/andrew-huang-making-a-track-with-the-dial-up-modem-sound-1cj1) (2025-11-22)
-- [Message Throttling with Apache Camel Master Component](https://dev.to/hiclab/message-throttling-with-apache-camel-master-component-166p) (2025-11-22)
-- [7 TypeScript Tricks That Feel Illegal to Use](https://dev.to/tjcoding/7-typescript-tricks-that-feel-illegal-to-use-k40) (2025-11-22)
-- [Black Friday Web Hosting Deals 2025 – Grab Up to 98% Off on the Best Hosts (Live Offers)](https://dev.to/just4sanu/black-friday-web-hosting-deals-2025-grab-up-to-98-off-on-the-best-hosts-live-offers-1ko7) (2025-11-22)
-- [Debloat OPPO A15s](https://dev.to/skidee/debloat-oppo-a15s-1jed) (2025-11-22)
+- [Maximize Developer Revenue with Monetzly's AI Conversation Tools](https://dev.to/monetzly/maximize-developer-revenue-with-monetzlys-ai-conversation-tools-3j7d) (2025-11-23)
+- [2025: AI-Assisted Developers Are Shipping Faster Than Ever](https://dev.to/farhannasirdev/2025-ai-assisted-developers-are-shipping-faster-than-ever-41pc) (2025-11-23)
+- [Beyond Gradients: Democratizing Global Optimization with Adaptive Search](https://dev.to/arvind_sundararajan/beyond-gradients-democratizing-global-optimization-with-adaptive-search-12ed) (2025-11-23)
+- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-28jd) (2025-11-23)
+- [How I Optimized an Extremely Slow Oracle SQL Query (Real Case Study)](https://dev.to/pcabreram1234/how-i-optimized-an-extremely-slow-oracle-sql-query-real-case-study-5b6d) (2025-11-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09391669854شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@dnfjgritwma/09391669854%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-ea6984c07a38?source=rss------programming-5) (2025-11-22)
-- [When Operating Systems Learn to Predict Application Behavior](https://observabilityguy.medium.com/when-operating-systems-learn-to-predict-application-behavior-153024a7c416?source=rss------programming-5) (2025-11-22)
-- [09391669854شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@dnfjgritwma/09391669854%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-208e39340267?source=rss------programming-5) (2025-11-22)
-- [Top 7 Internships Every Engineering Student Should Do (2025 Guide)](https://medium.com/@henryniju1999/top-7-internships-every-engineering-student-should-do-2025-guide-3b04bd6c1b1b?source=rss------programming-5) (2025-11-22)
-- [Implementing Stripe Payments: The Complete Integration Guide](https://medium.com/@sohail_saifii/implementing-stripe-payments-the-complete-integration-guide-28a3ee843277?source=rss------programming-5) (2025-11-22)
+- [09309022560#شماره خاله تهران#شماره خاله#شماره خاله کرج#شماره خاله اصفهان#شماره خاله شیراز#شماره…](https://medium.com/@jnbfnnfmcm/09309022560-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-af5621265333?source=rss------programming-5) (2025-11-23)
+- [The silent failure modes that kill most AI agents](https://pub.aimind.so/the-silent-failure-modes-that-kill-most-ai-agents-244b141f717d?source=rss------programming-5) (2025-11-23)
+- [Everything Is an Object in Python](https://medium.com/@erickgaiero15/everything-is-an-object-in-python-3eb10bca5c5b?source=rss------programming-5) (2025-11-23)
+- [Not Just Time-Saving! The Secret Behind How Multi-Station Fixtures Double Production Efficiency](https://medium.com/@shuw6960/not-just-time-saving-the-secret-behind-how-multi-station-fixtures-double-production-efficiency-53d826e45fcb?source=rss------programming-5) (2025-11-23)
+- [When the voice of anger rises… raise the voice of calm](https://medium.com/@aminejimmm/when-the-voice-of-anger-rises-raise-the-voice-of-calm-c85020941e00?source=rss------programming-5) (2025-11-23)
 
 </details>
 
@@ -602,11 +602,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/adobe-journe
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [BERT Models and Its Variants](https://machinelearningmastery.com/bert-models-and-its-variants/) (2025-11-22)
 - [From Shannon to Modern AI: A Complete Information Theory Guide for Machine Learning](https://machinelearningmastery.com/from-shannon-to-modern-ai-a-complete-information-theory-guide-for-machine-learning/) (2025-11-20)
 - [Why Decision Trees Fail (and How to Fix Them)](https://machinelearningmastery.com/why-decision-trees-fail-and-how-to-fix-them/) (2025-11-19)
 - [Training a Tokenizer for BERT Models](https://machinelearningmastery.com/training-a-tokenizer-for-bert-models/) (2025-11-18)
 - [Forecasting the Future with Tree-Based Models for Time Series](https://machinelearningmastery.com/forecasting-the-future-with-tree-based-models-for-time-series/) (2025-11-18)
-- [The Complete AI Agent Decision Framework](https://machinelearningmastery.com/the-complete-ai-agent-decision-framework/) (2025-11-17)
 
 </details>
 
