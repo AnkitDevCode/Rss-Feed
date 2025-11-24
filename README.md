@@ -31,33 +31,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Insurers retreat from AI cover as risk of multibillion-dollar claims mounts](https://www.ft.com/content/abfe9741-f438-4ed6-a673-075ec177dc62) (2025-11-24)
+- [Shai-Hulud Returns: Over 300 NPM Packages Infected](https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24) (2025-11-24)
+- [General principles for the use of AI at CERN](https://home.web.cern.ch/news/official-news/knowledge-sharing/general-principles-use-ai-cern) (2025-11-24)
+- [Lambda Calculus – Animated Beta Reduction of Lambda Diagrams](https://cruzgodar.com/applets/lambda-calculus) (2025-11-24)
 - [RuBee](https://computer.rip/2025-11-22-RuBee.html) (2025-11-24)
 - [Japan's gamble to turn island of Hokkaido into global chip hub](https://www.bbc.com/news/articles/c8676qpxgnqo) (2025-11-24)
-- [The Cloudflare outage was a good thing](https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048) (2025-11-24)
-- [A free tool that stuns LLMs with thousands of invisible Unicode characters](https://gibberifier.com) (2025-11-24)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Why college students prefer News Daddy over The New York Times](https://www.theverge.com/cs/features/818380/college-students-news-sources-tiktok-instagram-newsdaddy) (2025-11-24)
+- [Microsoft is speeding up and decluttering File Explorer in Windows 11](https://www.theverge.com/news/827414/microsoft-file-explorer-windows-11-preload-context-menu-declutter) (2025-11-24)
 - [DOGE is no more, and in its wake, only chaos](https://www.theverge.com/news/827390/doge-is-no-more-and-in-its-wake-only-chaos) (2025-11-24)
 - [About This Account reveals the scale of X’s foreign troll problem](https://www.theverge.com/news/827298/about-this-account-reveals-the-scale-of-xs-foreign-troll-problem) (2025-11-23)
 - [Some of the best Nintendo Switch games are up to $30 off for Black Friday](https://www.theverge.com/gadgets/826416/best-nintendo-black-friday-deals-switch-games-amiibo-sale-2025) (2025-11-23)
-- [X&#8217;s messy About This Account rollout has caused utter chaos](https://www.theverge.com/news/827279/xs-messy-about-this-account-rollout-has-caused-utter-chaos) (2025-11-23)
-- [Sony’s last-gen XM4 headphones are over 50 percent off for Black Friday](https://www.theverge.com/gadgets/826784/sony-wh-1000xm4-noise-canceling-headphones-black-friday-deal-sale-2025) (2025-11-23)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [“Go generate a bridge and jump off it”: How video pros are navigating AI](https://arstechnica.com/features/2025/11/go-generate-a-bridge-and-jump-off-it-how-video-pros-are-navigating-ai/) (2025-11-24)
 - [This hacker conference installed a literal antivirus monitoring system](https://arstechnica.com/security/2025/11/this-hacker-conference-installed-a-literal-antivirus-monitoring-system/) (2025-11-22)
 - [Oops. Cryptographers cancel election results after losing decryption key.](https://arstechnica.com/security/2025/11/cryptography-group-cancels-election-results-after-official-loses-secret-key/) (2025-11-22)
 - [Why you don’t want to get tuberculosis on your penis](https://arstechnica.com/health/2025/11/why-you-dont-want-to-get-tuberculosis-on-your-penis/) (2025-11-21)
 - [Science-centric streaming service Curiosity Stream is an AI-licensing firm now](https://arstechnica.com/gadgets/2025/11/curiosity-stream-expects-to-make-most-of-its-money-from-ai-deals-by-2027/) (2025-11-21)
-- [Return to the year 2000 with classic multiplayer DOS games in your browser](https://arstechnica.com/gaming/2025/11/return-to-the-year-2000-with-classic-multiplayer-dos-games-in-your-browser/) (2025-11-21)
 
 </details>
 
@@ -97,24 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Prompt Optimization for AI Builder: Lessons from TOON vs Text](https://dev.to/balagmadhu/prompt-optimization-for-ai-builder-lessons-from-toon-vs-text-2eol) (2025-11-24)
-- [Savvy HRMS: Best Attendance Management Software India](https://dev.to/savvy_10d6d471cbd5155238a/savvy-hrms-best-attendance-management-software-india-5fi6) (2025-11-24)
-- [Metaprogramming in Low-Code Platforms](https://dev.to/canonical/metaprogramming-in-low-code-platforms-4b0h) (2025-11-24)
-- [NFT Development Company: Building the Next Digital Ownership Economy](https://dev.to/infograins_softwaresolut/nft-development-company-building-the-next-digital-ownership-economy-4874) (2025-11-24)
-- [XDSL: General-Purpose Domain-Specific Language Design](https://dev.to/canonical/xdsl-general-purpose-domain-specific-language-design-35g6) (2025-11-24)
+- [Polars vs Pandas: Why 2025 Data Scientists Must Master This New Power Tool](https://dev.to/gowthamimmek196/polars-vs-pandas-why-2025-data-scientists-must-master-this-new-power-tool-49aa) (2025-11-24)
+- [Coffee Haven - Uno Platform AI Challenge Entry](https://dev.to/shiva_shanker_k/coffee-haven-uno-platform-ai-challenge-entry-4ib) (2025-11-24)
+- [Better Agents CLI with Kilo Code and LangWatch](https://dev.to/kilocode/better-agents-cli-with-kilo-code-and-langwatch-16gc) (2025-11-24)
+- [The Rebirth of the Artist](https://dev.to/rawveg/the-rebirth-of-the-artist-213b) (2025-11-24)
+- [Rubree: A Modern Ruby Regex Editor Running Fully in Your Browser](https://dev.to/aim2bpg/rubree-a-modern-ruby-regex-editor-running-fully-in-your-browser-5g2b) (2025-11-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Chinese Room in the Age of AI](https://medium.com/activated-thinker/the-chinese-room-in-the-age-of-ai-63a0b623cecf?source=rss------programming-5) (2025-11-24)
-- [09025042560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@cofudutududdt/09025042560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-437f61bbd109?source=rss------programming-5) (2025-11-24)
-- [09025042560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@cofudutududdt/09025042560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-0f09b2f940e5?source=rss------programming-5) (2025-11-24)
-- [The Coding Tutorial That Completely Changed How I Think About Programming](https://medium.com/codetodeploy/the-coding-tutorial-that-completely-changed-how-i-think-about-programming-879ba22d1f8d?source=rss------programming-5) (2025-11-24)
-- [Docker’s Gone — Here’s Why It’s Time to Move On](https://medium.com/@lucky292908/dockers-gone-here-s-why-it-s-time-to-move-on-a3fb98b503d5?source=rss------programming-5) (2025-11-24)
+- [My Python Journey Was a Mess — But These 5 Lessons Saved Me](https://python.plainenglish.io/my-python-journey-was-a-mess-but-these-5-lessons-saved-me-f429d14d5843?source=rss------programming-5) (2025-11-24)
+- [I Went From $65K to $280K in 18 Months — Here’s the Exact Playbook](https://devrimozcay.medium.com/i-went-from-65k-to-280k-in-18-months-heres-the-exact-playbook-7974b4cfe98c?source=rss------programming-5) (2025-11-24)
+- [#خاله اصفهان #خاله شیراز #خاله اهواز #خاله کردستان #خاله اسفراین #خاله اقلیم #خاله آباده #خاله مشهد…](https://medium.com/@mytra3734/%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%81%D8%B1%D8%A7%DB%8C%D9%86-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%82%D9%84%DB%8C%D9%85-%D8%AE%D8%A7%D9%84%D9%87-%D8%A2%D8%A8%D8%A7%D8%AF%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D8%B4%D9%87%D8%AF-e2aeac9fc4df?source=rss------programming-5) (2025-11-24)
+- [How a 20-Line Python Script Replaced a Tool I Used for Years](https://medium.com/codetodeploy/how-a-20-line-python-script-replaced-a-tool-i-used-for-years-ba27718cce3f?source=rss------programming-5) (2025-11-24)
+- [Installing R and RStudio on Debian GNU/Linux](https://medium.com/@vincenzo.brachetta/installing-r-and-rstudio-on-debian-gnu-linux-30f271d1538d?source=rss------programming-5) (2025-11-24)
 
 </details>
 
@@ -560,11 +558,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/adobe-journe
 <details>
 <summary>🤖 AI News</summary>
 
+- [APAC enterprises move AI infrastructure to edge as inference costs rise](https://www.artificialintelligence-news.com/news/enterprises-are-rethinking-ai-infrastructure-as-inference-costs-rise/) (2025-11-24)
+- [4 best essay writing websites students choose over AI](https://www.artificialintelligence-news.com/news/4-best-essay-writing-websites-students-choose-over-ai/) (2025-11-24)
+- [Qwen AI hits 10m+ downloads as Alibaba disrupts the AI market](https://www.artificialintelligence-news.com/news/alibaba-qwen-ai-app-10-million-downloads/) (2025-11-24)
 - [WorldGen: Meta reveals generative AI for interactive 3D worlds](https://www.artificialintelligence-news.com/news/worldgen-meta-generative-ai-for-interactive-3d-worlds/) (2025-11-21)
 - [ChatGPT group chats may help teams bring AI into daily planning](https://www.artificialintelligence-news.com/news/chatgpt-group-chats-may-help-teams-bring-ai-into-daily-planning/) (2025-11-21)
-- [How the Royal Navy is using AI to cut its recruitment workload](https://www.artificialintelligence-news.com/news/how-the-royal-navy-is-using-ai-to-cut-recruitment-workload/) (2025-11-20)
-- [How to choose the best thermal binoculars for long-range detection in 2026](https://www.artificialintelligence-news.com/news/how-to-choose-the-best-thermal-binoculars-for-long-range-detection-in-2026/) (2025-11-20)
-- [Pure Storage and Azure’s role in AI-ready data for enterprises](https://www.artificialintelligence-news.com/news/pure-storage-and-azures-role-in-ai-ready-data-for-enterprise/) (2025-11-20)
 
 </details>
 
@@ -582,11 +580,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/adobe-journe
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Introduction to Task Guardrails in CrewAI ](https://www.analyticsvidhya.com/blog/2025/11/introduction-to-task-guardrails-in-crewai/) (2025-11-24)
 - [Vibe Coding With Gemini 3 Pro: Building a Screenshot-to-Code Agent in just Two Prompts](https://www.analyticsvidhya.com/blog/2025/11/gemini-3-pro-screenshot-to-code-agent/) (2025-11-24)
 - [10 Weirdest AI Tools You’ve Never Heard of](https://www.analyticsvidhya.com/blog/2025/11/weirdest-ai-tools/) (2025-11-23)
 - [What is RAG Indexing?](https://www.analyticsvidhya.com/blog/2025/11/what-is-rag-indexing/) (2025-11-22)
 - [10 Nano Banana Pro Prompts that You Must Try!](https://www.analyticsvidhya.com/blog/2025/11/nano-banana-pro-prompts/) (2025-11-21)
-- [I Made iPhone UI in Seconds with Google’s Antigravity](https://www.analyticsvidhya.com/blog/2025/11/google-antigravity/) (2025-11-20)
 
 </details>
 
@@ -604,11 +602,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/adobe-journe
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Preparing Data for BERT Training](https://machinelearningmastery.com/preparing-data-for-bert-training/) (2025-11-24)
 - [BERT Models and Its Variants](https://machinelearningmastery.com/bert-models-and-its-variants/) (2025-11-22)
 - [From Shannon to Modern AI: A Complete Information Theory Guide for Machine Learning](https://machinelearningmastery.com/from-shannon-to-modern-ai-a-complete-information-theory-guide-for-machine-learning/) (2025-11-20)
 - [Why Decision Trees Fail (and How to Fix Them)](https://machinelearningmastery.com/why-decision-trees-fail-and-how-to-fix-them/) (2025-11-19)
 - [Training a Tokenizer for BERT Models](https://machinelearningmastery.com/training-a-tokenizer-for-bert-models/) (2025-11-18)
-- [Forecasting the Future with Tree-Based Models for Time Series](https://machinelearningmastery.com/forecasting-the-future-with-tree-based-models-for-time-series/) (2025-11-18)
 
 </details>
 
