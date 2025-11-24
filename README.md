@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- ['Invisible' microplastics spread in skies as global pollutant](https://www.asahi.com/ajw/articles/16137995) (2025-11-24)
-- [Doge 'doesn't exist' with eight months left on its charter](https://www.reuters.com/world/us/doge-doesnt-exist-with-eight-months-left-its-charter-2025-11-23/) (2025-11-24)
-- [ISPs more likely to throttle netizens who connect through CG-NAT: Cloudflare](https://www.theregister.com/2025/11/03/cloudflare_cgnat_bias_research/) (2025-11-23)
-- [X's new country-of-origin feature reveals many 'US' accounts to be foreign-run](https://www.hindustantimes.com/world-news/us-news/xs-new-country-of-origin-feature-shakes-maga-and-democrat-circles-as-many-us-accounts-revealed-to-be-foreignrun-101763857104296.html) (2025-11-23)
-- [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern) (2025-11-23)
+- [Insurers retreat from AI cover as risk of multibillion-dollar claims mounts](https://www.ft.com/content/abfe9741-f438-4ed6-a673-075ec177dc62) (2025-11-24)
+- [RuBee](https://computer.rip/2025-11-22-RuBee.html) (2025-11-24)
+- [Japan's gamble to turn island of Hokkaido into global chip hub](https://www.bbc.com/news/articles/c8676qpxgnqo) (2025-11-24)
+- [The Cloudflare outage was a good thing](https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048) (2025-11-24)
+- [A free tool that stuns LLMs with thousands of invisible Unicode characters](https://gibberifier.com) (2025-11-24)
 
 </details>
 
@@ -97,22 +97,24 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Can we use Rust to Develop Extensions for PostgreSQL?](https://dev.to/shinyakato_/can-we-use-rust-to-develop-extensions-for-postgresql-5431) (2025-11-24)
-- [Announcing SvelteKit OG v4: An alternative to @vercel/og for sveltekit](https://dev.to/theether0/announcing-sveltekit-og-v4-an-alternative-to-vercelog-for-sveltekit-3cg1) (2025-11-24)
-- [Unlocking Soccer Secrets: AI-Powered Play Analysis from Broadcast Footage by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlocking-soccer-secrets-ai-powered-play-analysis-from-broadcast-footage-by-arvind-sundararajan-5e8e) (2025-11-24)
-- [Boost Developer Revenue with Monetzly’s Conversational AI API](https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-conversational-ai-api-37d1) (2025-11-24)
-- [The Tesser Project is Officially Open to Contributions!](https://dev.to/tesser/the-tesser-project-is-officially-open-to-contributions-16e4) (2025-11-24)
+- [Prompt Optimization for AI Builder: Lessons from TOON vs Text](https://dev.to/balagmadhu/prompt-optimization-for-ai-builder-lessons-from-toon-vs-text-2eol) (2025-11-24)
+- [Savvy HRMS: Best Attendance Management Software India](https://dev.to/savvy_10d6d471cbd5155238a/savvy-hrms-best-attendance-management-software-india-5fi6) (2025-11-24)
+- [Metaprogramming in Low-Code Platforms](https://dev.to/canonical/metaprogramming-in-low-code-platforms-4b0h) (2025-11-24)
+- [NFT Development Company: Building the Next Digital Ownership Economy](https://dev.to/infograins_softwaresolut/nft-development-company-building-the-next-digital-ownership-economy-4874) (2025-11-24)
+- [XDSL: General-Purpose Domain-Specific Language Design](https://dev.to/canonical/xdsl-general-purpose-domain-specific-language-design-35g6) (2025-11-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Stop Storing Secrets in Plain Text: A Simple Guide to Encrypted Storage in React Native (with a…](https://medium.com/@eugenio.andrieu_63440/stop-storing-secrets-in-plain-text-a-simple-guide-to-encrypted-storage-in-react-native-with-a-c7c08200d3de?source=rss------programming-5) (2025-11-24)
-- [ What People Really Think About ChatGPT – A Deep Dive into Review Sentiment](https://medium.com/codetodeploy/what-people-really-think-about-chatgpt-a-deep-dive-into-review-sentiment-0101a0e4570d?source=rss------programming-5) (2025-11-24)
-- [[CodeForces Answer] A. Way Too Long Words with c++](https://medium.com/@happycodingkr/codeforces-answer-a-way-too-long-words-with-c-97dfb54fad5b?source=rss------programming-5) (2025-11-24)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbvcdccc37mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-a6a4ee6f99a6?source=rss------programming-5) (2025-11-24)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbvcdccc37mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-727dfe073e8d?source=rss------programming-5) (2025-11-24)
+- [The Chinese Room in the Age of AI](https://medium.com/activated-thinker/the-chinese-room-in-the-age-of-ai-63a0b623cecf?source=rss------programming-5) (2025-11-24)
+- [09025042560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@cofudutududdt/09025042560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-437f61bbd109?source=rss------programming-5) (2025-11-24)
+- [09025042560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@cofudutududdt/09025042560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-0f09b2f940e5?source=rss------programming-5) (2025-11-24)
+- [The Coding Tutorial That Completely Changed How I Think About Programming](https://medium.com/codetodeploy/the-coding-tutorial-that-completely-changed-how-i-think-about-programming-879ba22d1f8d?source=rss------programming-5) (2025-11-24)
+- [Docker’s Gone — Here’s Why It’s Time to Move On](https://medium.com/@lucky292908/dockers-gone-here-s-why-it-s-time-to-move-on-a3fb98b503d5?source=rss------programming-5) (2025-11-24)
 
 </details>
 
@@ -130,11 +132,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [The new era of Azure Ultra Disk: Experience the next generation of mission-critical block storage](https://azure.microsoft.com/en-us/blog/the-new-era-of-azure-ultra-disk-experience-the-next-generation-of-mission-critical-block-storage/) (2025-11-06)
-- [Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows](https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/) (2025-11-05)
-- [Microsoft strengthens sovereign cloud capabilities with new services](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/) (2025-11-05)
-- [Powering Distributed AI/ML at Scale with Azure and Anyscale](https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/) (2025-11-04)
-- [Enhancing software supply chain security with Microsoft’s Signing Transparency](https://azure.microsoft.com/en-us/blog/enhancing-software-supply-chain-security-with-microsofts-signing-transparency/) (2025-11-03)
+- [Microsoft Foundry: Scale innovation on a modular, interoperable, and secure agent stack](https://azure.microsoft.com/en-us/blog/microsoft-foundry-scale-innovation-on-a-modular-interoperable-and-secure-agent-stack/) (2025-11-18)
+- [Azure at Microsoft Ignite 2025: All the intelligent cloud news explained](https://azure.microsoft.com/en-us/blog/azure-at-microsoft-ignite-2025-all-the-intelligent-cloud-news-explained/) (2025-11-18)
+- [Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate](https://azure.microsoft.com/en-us/blog/microsoft-databases-and-microsoft-fabric-your-unified-and-ai-powered-data-estate/) (2025-11-18)
+- [Announcing Azure Copilot agents and AI infrastructure innovations](https://azure.microsoft.com/en-us/blog/announcing-azure-copilot-agents-and-ai-infrastructure-innovations/) (2025-11-18)
+- [Introducing Anthropic’s Claude models in Microsoft Foundry: Bringing Frontier intelligence to Azure](https://azure.microsoft.com/en-us/blog/introducing-anthropics-claude-models-in-microsoft-foundry-bringing-frontier-intelligence-to-azure/) (2025-11-18)
 
 </details>
 
@@ -580,11 +582,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/adobe-journe
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Vibe Coding With Gemini 3 Pro: Building a Screenshot-to-Code Agent in just Two Prompts](https://www.analyticsvidhya.com/blog/2025/11/gemini-3-pro-screenshot-to-code-agent/) (2025-11-24)
 - [10 Weirdest AI Tools You’ve Never Heard of](https://www.analyticsvidhya.com/blog/2025/11/weirdest-ai-tools/) (2025-11-23)
 - [What is RAG Indexing?](https://www.analyticsvidhya.com/blog/2025/11/what-is-rag-indexing/) (2025-11-22)
 - [10 Nano Banana Pro Prompts that You Must Try!](https://www.analyticsvidhya.com/blog/2025/11/nano-banana-pro-prompts/) (2025-11-21)
 - [I Made iPhone UI in Seconds with Google’s Antigravity](https://www.analyticsvidhya.com/blog/2025/11/google-antigravity/) (2025-11-20)
-- [Is Gemini 3 Better than GPT 5.1?](https://www.analyticsvidhya.com/blog/2025/11/gemini-3-vs-gpt-5-1/) (2025-11-20)
 
 </details>
 
