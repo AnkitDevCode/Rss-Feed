@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Roblox CEO interview gets heated over child safety](https://techcrunch.com/2025/11/23/roblox-ceo-interview-gets-heated-over-child-safety/) (2025-11-23)
+- [X’s new About This Account feature is going great](https://techcrunch.com/2025/11/23/xs-new-about-this-account-feature-is-going-great/) (2025-11-23)
 - [AI is too risky to insure, say people whose job is insuring risk](https://techcrunch.com/2025/11/23/ai-is-too-risky-to-insure-say-people-whose-job-is-insuring-risk/) (2025-11-23)
 - [TechCrunch Mobility: Searching for the robotaxi tipping point](https://techcrunch.com/2025/11/23/techcrunch-mobility-searching-for-the-robotaxi-tipping-point/) (2025-11-23)
 - [Beehiiv’s CEO isn’t worried about newsletter saturation](https://techcrunch.com/2025/11/23/beehiivs-ceo-isnt-worried-about-newsletter-saturation/) (2025-11-23)
-- [ChatGPT told them they were special — their families say it led to tragedy](https://techcrunch.com/2025/11/23/chatgpt-told-them-they-were-special-their-families-say-it-led-to-tragedy/) (2025-11-23)
-- [Trump administration might not fight state AI regulations after all](https://techcrunch.com/2025/11/22/trump-administration-might-not-fight-state-ai-regulations-after-all/) (2025-11-22)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Native Secure Enclave backed SSH keys on macOS](https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf) (2025-11-23)
-- [SVG.js v3.2](https://svgjs.dev/docs/3.2/) (2025-11-23)
-- [Are consumers just tech debt to Microsoft?](https://birchtree.me/blog/are-consumers-just-tech-debt-to-microsoft/) (2025-11-23)
-- [HumanLayer (YC F24) Is Hiring Founding Engineers](https://www.ycombinator.com/companies/humanlayer/jobs/oBCZzc7-founding-product-engineer) (2025-11-23)
-- [Calculus for Mathematicians, Computer Scientists, and Physicists [pdf]](https://mathcs.holycross.edu/~ahwang/print/calc.pdf) (2025-11-23)
+- ['Invisible' microplastics spread in skies as global pollutant](https://www.asahi.com/ajw/articles/16137995) (2025-11-24)
+- [Doge 'doesn't exist' with eight months left on its charter](https://www.reuters.com/world/us/doge-doesnt-exist-with-eight-months-left-its-charter-2025-11-23/) (2025-11-24)
+- [ISPs more likely to throttle netizens who connect through CG-NAT: Cloudflare](https://www.theregister.com/2025/11/03/cloudflare_cgnat_bias_research/) (2025-11-23)
+- [X's new country-of-origin feature reveals many 'US' accounts to be foreign-run](https://www.hindustantimes.com/world-news/us-news/xs-new-country-of-origin-feature-shakes-maga-and-democrat-circles-as-many-us-accounts-revealed-to-be-foreignrun-101763857104296.html) (2025-11-23)
+- [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern) (2025-11-23)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [DOGE is no more, and in its wake, only chaos](https://www.theverge.com/news/827390/doge-is-no-more-and-in-its-wake-only-chaos) (2025-11-24)
+- [About This Account reveals the scale of X’s foreign troll problem](https://www.theverge.com/news/827298/about-this-account-reveals-the-scale-of-xs-foreign-troll-problem) (2025-11-23)
+- [Some of the best Nintendo Switch games are up to $30 off for Black Friday](https://www.theverge.com/gadgets/826416/best-nintendo-black-friday-deals-switch-games-amiibo-sale-2025) (2025-11-23)
+- [X&#8217;s messy About This Account rollout has caused utter chaos](https://www.theverge.com/news/827279/xs-messy-about-this-account-rollout-has-caused-utter-chaos) (2025-11-23)
 - [Sony’s last-gen XM4 headphones are over 50 percent off for Black Friday](https://www.theverge.com/gadgets/826784/sony-wh-1000xm4-noise-canceling-headphones-black-friday-deal-sale-2025) (2025-11-23)
-- [Vine walked so TikTok could run](https://www.theverge.com/podcast/827102/vine-influence-tiktok-reels-shorts-version-history) (2025-11-23)
-- [Apple TV wants to go big](https://www.theverge.com/column/825282/apple-tv-streaming-grow-audience) (2025-11-23)
-- [The app that will instantly improve your Windows PC](https://www.theverge.com/tech/826971/raycast-kirby-comet-deadpool-vr-installer) (2025-11-23)
-- [Shocker: Elon Musk spends a lot of time on X posting bad political takes](https://www.theverge.com/tech/827125/elon-musk-x-posts-politics-himself) (2025-11-23)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [AI for Bharat: Tired of Just Reading About AI? It’s Time to Start Building](https://dev.to/arunagri82/ai-for-bharat-tired-of-just-reading-about-ai-its-time-to-start-building-275k) (2025-11-23)
-- [8-Bit Music Theory: Kirby Air Riders' Music is FUN FUN FUN](https://dev.to/music_youtube/8-bit-music-theory-kirby-air-riders-music-is-fun-fun-fun-3fjm) (2025-11-23)
-- [Building Domain-Specific AI Agents Through Configuration, Not Code](https://dev.to/arvindkumar_akula_42a971e/building-domain-specific-ai-agents-through-configuration-not-code-50nh) (2025-11-23)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-292k) (2025-11-23)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-4e3c) (2025-11-23)
+- [Can we use Rust to Develop Extensions for PostgreSQL?](https://dev.to/shinyakato_/can-we-use-rust-to-develop-extensions-for-postgresql-5431) (2025-11-24)
+- [Announcing SvelteKit OG v4: An alternative to @vercel/og for sveltekit](https://dev.to/theether0/announcing-sveltekit-og-v4-an-alternative-to-vercelog-for-sveltekit-3cg1) (2025-11-24)
+- [Unlocking Soccer Secrets: AI-Powered Play Analysis from Broadcast Footage by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlocking-soccer-secrets-ai-powered-play-analysis-from-broadcast-footage-by-arvind-sundararajan-5e8e) (2025-11-24)
+- [Boost Developer Revenue with Monetzly’s Conversational AI API](https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-conversational-ai-api-37d1) (2025-11-24)
+- [The Tesser Project is Officially Open to Contributions!](https://dev.to/tesser/the-tesser-project-is-officially-open-to-contributions-16e4) (2025-11-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Great Screen of Awareness](https://medium.com/@laurenoflight/the-great-screen-of-awareness-93019912491c?source=rss------programming-5) (2025-11-23)
-- [Go Beyond the Bill: Build Your Own OpenAI Cost Exporter for VictoriaMetrics ](https://medium.com/@gerahitesh13/go-beyond-the-bill-build-your-own-openai-cost-exporter-for-victoriametrics-0e1cf837b507?source=rss------programming-5) (2025-11-23)
-- [09334082420شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@owjebdbdnsksn/09334082420%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-155e4e7e03fa?source=rss------programming-5) (2025-11-23)
-- [09334082420شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@owjebdbdnsksn/09334082420%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-704850c035af?source=rss------programming-5) (2025-11-23)
-- [How to Organize Minimal API Endpoints in Clean Architecture (.NET](https://medium.com/@mariammaurice/how-to-organize-minimal-api-endpoints-in-clean-architecture-net-26552cfcc5b4?source=rss------programming-5) (2025-11-23)
+- [Stop Storing Secrets in Plain Text: A Simple Guide to Encrypted Storage in React Native (with a…](https://medium.com/@eugenio.andrieu_63440/stop-storing-secrets-in-plain-text-a-simple-guide-to-encrypted-storage-in-react-native-with-a-c7c08200d3de?source=rss------programming-5) (2025-11-24)
+- [ What People Really Think About ChatGPT – A Deep Dive into Review Sentiment](https://medium.com/codetodeploy/what-people-really-think-about-chatgpt-a-deep-dive-into-review-sentiment-0101a0e4570d?source=rss------programming-5) (2025-11-24)
+- [[CodeForces Answer] A. Way Too Long Words with c++](https://medium.com/@happycodingkr/codeforces-answer-a-way-too-long-words-with-c-97dfb54fad5b?source=rss------programming-5) (2025-11-24)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbvcdccc37mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-a6a4ee6f99a6?source=rss------programming-5) (2025-11-24)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbvcdccc37mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-727dfe073e8d?source=rss------programming-5) (2025-11-24)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Microsoft Foundry: Scale innovation on a modular, interoperable, and secure agent stack](https://azure.microsoft.com/en-us/blog/microsoft-foundry-scale-innovation-on-a-modular-interoperable-and-secure-agent-stack/) (2025-11-18)
-- [Azure at Microsoft Ignite 2025: All the intelligent cloud news explained](https://azure.microsoft.com/en-us/blog/azure-at-microsoft-ignite-2025-all-the-intelligent-cloud-news-explained/) (2025-11-18)
-- [Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate](https://azure.microsoft.com/en-us/blog/microsoft-databases-and-microsoft-fabric-your-unified-and-ai-powered-data-estate/) (2025-11-18)
-- [Announcing Azure Copilot agents and AI infrastructure innovations](https://azure.microsoft.com/en-us/blog/announcing-azure-copilot-agents-and-ai-infrastructure-innovations/) (2025-11-18)
-- [Introducing Anthropic’s Claude models in Microsoft Foundry: Bringing Frontier intelligence to Azure](https://azure.microsoft.com/en-us/blog/introducing-anthropics-claude-models-in-microsoft-foundry-bringing-frontier-intelligence-to-azure/) (2025-11-18)
+- [The new era of Azure Ultra Disk: Experience the next generation of mission-critical block storage](https://azure.microsoft.com/en-us/blog/the-new-era-of-azure-ultra-disk-experience-the-next-generation-of-mission-critical-block-storage/) (2025-11-06)
+- [Driving ROI with Azure AI Foundry and UiPath: Intelligent agents in real-world healthcare workflows](https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/) (2025-11-05)
+- [Microsoft strengthens sovereign cloud capabilities with new services](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/) (2025-11-05)
+- [Powering Distributed AI/ML at Scale with Azure and Anyscale](https://devblogs.microsoft.com/all-things-azure/powering-distributed-aiml-at-scale-with-azure-and-anyscale/) (2025-11-04)
+- [Enhancing software supply chain security with Microsoft’s Signing Transparency](https://azure.microsoft.com/en-us/blog/enhancing-software-supply-chain-security-with-microsofts-signing-transparency/) (2025-11-03)
 
 </details>
 
