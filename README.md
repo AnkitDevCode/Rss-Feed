@@ -20,11 +20,11 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [India’s gig workers win legal status, but access to social security remains elusive](https://techcrunch.com/2025/11/24/indias-gig-workers-win-legal-status-but-access-to-social-security-remains-elusive/) (2025-11-25)
 - [Google teams up with Accel to hunt for India’s next AI breakouts](https://techcrunch.com/2025/11/24/google-teams-up-with-accel-to-hunt-for-indias-next-ai-breakouts/) (2025-11-25)
 - [Altman describes OpenAI’s forthcoming AI device as more peaceful and calm than the iPhone](https://techcrunch.com/2025/11/24/altman-describes-openais-forthcoming-ai-device-as-more-peaceful-and-calm-than-the-iphone/) (2025-11-24)
 - [OpenAI learned the hard way that Cameo trademarked the word ‘cameo’](https://techcrunch.com/2025/11/24/openai-learned-the-hard-way-that-cameo-trademarked-the-word-cameo/) (2025-11-24)
 - [Rad Power Bikes’ batteries receive major fire risk warning](https://techcrunch.com/2025/11/24/rad-power-bikes-batteries-receive-major-fire-risk-warning/) (2025-11-24)
-- [Tesla FSD software may not be approved by EU regulator after all](https://techcrunch.com/2025/11/24/tesla-fsd-software-may-not-be-approved-by-eu-regulator-after-all/) (2025-11-24)
 
 </details>
 
@@ -42,11 +42,11 @@
 <details>
 <summary>📱 The Verge</summary>
 
+- [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones) (2025-11-25)
 - [RAM prices are so out of control that stores are selling it like lobster](https://www.theverge.com/news/828337/ram-memory-shortage-crunch-market-prices-central-micro-center) (2025-11-25)
 - [UN climate negotiations burned up and then fizzled out](https://www.theverge.com/report/828270/un-climate-change-negotiations-fizzle) (2025-11-24)
 - [DOJ settles with RealPage over its software&#8217;s alleged rent price fixing](https://www.theverge.com/news/828335/doj-realpage-settlement-rent-setting-software) (2025-11-24)
 - [ChatGPT shopping research builds you a buyer&#8217;s guide using AI](https://www.theverge.com/news/828326/chatgpt-shopping-research-chatgpt-buyers-guide) (2025-11-24)
-- [Meta&#8217;s new wearables trade-in program gives you Ray-Ban and Oakley discounts](https://www.theverge.com/news/828256/meta-smart-glasses-trade-in-credit) (2025-11-24)
 
 </details>
 
@@ -86,22 +86,24 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [You’re probably underutilizing your GPUs](https://stackoverflow.blog/2025/11/25/you-re-probably-underutilizing-your-gpus/) (2025-11-25)
 - [Only you can stop AI database drops](https://stackoverflow.blog/2025/11/21/only-you-can-stop-ai-database-drops/) (2025-11-21)
 - [Community Products roadmap update, November 2025](https://stackoverflow.blog/2025/11/20/community-products-roadmap-update-november-2025/) (2025-11-20)
 - [Introducing Stack Internal: Powering the human intelligence layer of enterprise AI](https://stackoverflow.blog/2025/11/18/introducing-stack-internal-powering-the-human-intelligence-layer-of-enterprise-ai/) (2025-11-18)
 - [How to create agents that people actually want to use](https://stackoverflow.blog/2025/11/18/how-to-create-agents-that-people-actually-want-to-use/) (2025-11-18)
-- [The fastest agent in the race has the best evals](https://stackoverflow.blog/2025/11/14/the-fastest-agent-in-the-race-has-the-best-evals/) (2025-11-14)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Erase and Rewind: Surgically Removing Bias from AI Models](https://dev.to/arvind_sundararajan/erase-and-rewind-surgically-removing-bias-from-ai-models-5250) (2025-11-25)
-- [Webfoundry gets GPT 5.1 Codex HTML generation through voice assistant](https://dev.to/guiprav2/webfoundry-gets-gpt-51-codex-html-generation-through-voice-assistant-4o71) (2025-11-25)
-- [While We're Measuring Developer Productivity, Won't Someone Think of the Data Engineers?](https://dev.to/aronchick/while-were-measuring-developer-productivity-wont-someone-think-of-the-data-engineers-1e13) (2025-11-25)
-- [10 Terminal Power Moves That Make Your Teammates Say “Wait, HOW Did You Do That?”](https://dev.to/james_miller_8dc58a89cb9e/10-terminal-power-moves-that-make-your-teammates-say-wait-how-did-you-do-that-3l61) (2025-11-25)
-- [Puzzle solving "agentic loop"](https://dev.to/guiprav2/puzzle-solving-agentic-loop-1gia) (2025-11-25)
+- [7 Must-Try Open-Source AI Coding Models for Privacy, Speed, and Control](https://dev.to/aiwithapex/7-must-try-open-source-ai-coding-models-for-privacy-speed-and-control-2bk0) (2025-11-25)
+- [Construyendo tu Propio C2 con Nim (Porque Python ya es muy Mainstream)](https://dev.to/rventz/construyendo-tu-propio-c2-con-nim-porque-python-ya-es-muy-mainstream-3acj) (2025-11-25)
+- [The next generation of billion-dollar companies won’t be built in glass offices, with huge teams, layers of management, and complex org charts.
+
+They will be built by 5 people and AI. This isn’t a slogan.](https://dev.to/jaideepparashar/the-next-generation-of-billion-dollar-companies-wont-be-built-in-glass-offices-with-huge-teams-6ph) (2025-11-25)
+- [ESP32-S3 + TensorFlow Lite Micro: A Practical Guide to Local Wake Word & Edge AI Inference](https://dev.to/zediot/esp32-s3-tensorflow-lite-micro-a-practical-guide-to-local-wake-word-edge-ai-inference-5540) (2025-11-25)
+- [Why the Next Unicorns Will Be Built With 5 People and AI](https://dev.to/jaideepparashar/why-the-next-unicorns-will-be-built-with-5-people-and-ai-580b) (2025-11-25)
 
 </details>
 
