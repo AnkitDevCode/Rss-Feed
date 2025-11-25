@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Most Stable Raspberry Pi? 81% Better NTP with Thermal Management](https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/) (2025-11-25)
+- [Human brains are preconfigured with instructions for understanding the world](https://news.ucsc.edu/2025/11/sharf-preconfigured-brain/) (2025-11-25)
+- [AI has a deep understanding of how this code works](https://github.com/ocaml/ocaml/pull/14369) (2025-11-24)
 - [PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage](https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026) (2025-11-24)
 - [Unpowered SSDs slowly lose data](https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/) (2025-11-24)
-- [Claude Advanced Tool Use](https://www.anthropic.com/engineering/advanced-tool-use) (2025-11-24)
-- [Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5) (2025-11-24)
-- [Pebble Watch software is now 100% open source](https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source) (2025-11-24)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Huawei Mate 80 Pro Max has the world’s brightest phone screen](https://www.theverge.com/news/828543/huawei-mate-80-pro-max-dual-layer-oled-display-8000-nits) (2025-11-25)
+- [You won’t want to hide Ikea’s colorful new Bluetooth speakers](https://www.theverge.com/news/827516/ikea-bluetooth-speaker-solskydd-kulglass-lamp-spotify-tap) (2025-11-25)
+- [Large language mistake](https://www.theverge.com/ai-artificial-intelligence/827820/large-language-models-ai-intelligence-neuroscience-problems) (2025-11-25)
 - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones) (2025-11-25)
 - [RAM prices are so out of control that stores are selling it like lobster](https://www.theverge.com/news/828337/ram-memory-shortage-crunch-market-prices-central-micro-center) (2025-11-25)
-- [UN climate negotiations burned up and then fizzled out](https://www.theverge.com/report/828270/un-climate-change-negotiations-fizzle) (2025-11-24)
-- [DOJ settles with RealPage over its software&#8217;s alleged rent price fixing](https://www.theverge.com/news/828335/doj-realpage-settlement-rent-setting-software) (2025-11-24)
-- [ChatGPT shopping research builds you a buyer&#8217;s guide using AI](https://www.theverge.com/news/828326/chatgpt-shopping-research-chatgpt-buyers-guide) (2025-11-24)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Aligning VMware migration with business continuity](https://www.technologyreview.com/2025/11/25/1128173/aligning-vmware-migration-with-business-continuity/) (2025-11-25)
 - [The State of AI: Chatbot companions and the future of our privacy](https://www.technologyreview.com/2025/11/24/1128051/the-state-of-ai-chatbot-companions-and-the-future-of-our-privacy/) (2025-11-24)
 - [What’s next for AlphaFold: A conversation with a Google DeepMind Nobel laureate](https://www.technologyreview.com/2025/11/24/1128322/whats-next-for-alphafold-a-conversation-with-a-google-deepmind-nobel-laureate/) (2025-11-24)
 - [The Download: how to fix a tractor, and living among conspiracy theorists](https://www.technologyreview.com/2025/11/24/1128306/the-download-how-to-fix-a-tractor-and-living-among-conspiracy-theorists/) (2025-11-24)
 - [The Download: the secrets of vitamin D, and an AI party in Africa](https://www.technologyreview.com/2025/11/21/1128232/the-download-the-secrets-of-vitamin-d-and-an-ai-party-in-africa/) (2025-11-21)
-- [We’re learning more about what vitamin D does to our bodies](https://www.technologyreview.com/2025/11/21/1128206/vitamin-d-bodies-bone-health-immune/) (2025-11-21)
 
 </details>
 
@@ -97,13 +97,11 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [7 Must-Try Open-Source AI Coding Models for Privacy, Speed, and Control](https://dev.to/aiwithapex/7-must-try-open-source-ai-coding-models-for-privacy-speed-and-control-2bk0) (2025-11-25)
-- [Construyendo tu Propio C2 con Nim (Porque Python ya es muy Mainstream)](https://dev.to/rventz/construyendo-tu-propio-c2-con-nim-porque-python-ya-es-muy-mainstream-3acj) (2025-11-25)
-- [The next generation of billion-dollar companies won’t be built in glass offices, with huge teams, layers of management, and complex org charts.
-
-They will be built by 5 people and AI. This isn’t a slogan.](https://dev.to/jaideepparashar/the-next-generation-of-billion-dollar-companies-wont-be-built-in-glass-offices-with-huge-teams-6ph) (2025-11-25)
-- [ESP32-S3 + TensorFlow Lite Micro: A Practical Guide to Local Wake Word & Edge AI Inference](https://dev.to/zediot/esp32-s3-tensorflow-lite-micro-a-practical-guide-to-local-wake-word-edge-ai-inference-5540) (2025-11-25)
-- [Why the Next Unicorns Will Be Built With 5 People and AI](https://dev.to/jaideepparashar/why-the-next-unicorns-will-be-built-with-5-people-and-ai-580b) (2025-11-25)
+- [Cron Jobs vs Real Task Schedulers: A Love Story](https://dev.to/elvissautet/cron-jobs-vs-real-task-schedulers-a-love-story-1fka) (2025-11-25)
+- [Day-02 Terraform AWS Provider](https://dev.to/amit_kumar_7db8e36a64dd45/day-02-terraform-aws-provider-1305) (2025-11-25)
+- [How LLMs Like ChatGPT Work: A Look Behind the AI Curtain](https://dev.to/sia_negi21/how-llms-like-chatgpt-work-a-look-behind-the-ai-curtain-45mo) (2025-11-25)
+- [Dynamic Log file for each spiders: Scrapy Logging](https://dev.to/ajitkumar/dynamic-log-file-for-each-spiders-scrapy-logging-11a0) (2025-11-25)
+- [Zero-Effort ER Diagrams in Django: Auto-Generate Directly From Your Models](https://dev.to/ajitkumar/zero-effort-er-diagrams-in-django-auto-generate-directly-from-your-models-1ji3) (2025-11-25)
 
 </details>
 
@@ -198,11 +196,11 @@ They will be built by 5 people and AI. This isn’t a slogan.](https://dev.to/ja
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes Configuration Good Practices](https://kubernetes.io/blog/2025/11/25/configuration-good-practices/) (2025-11-25)
 - [Ingress NGINX Retirement: What You Need to Know](https://kubernetes.io/blog/2025/11/11/ingress-nginx-retirement/) (2025-11-11)
 - [Announcing the 2025 Steering Committee Election Results](https://kubernetes.io/blog/2025/11/09/steering-committee-results-2025/) (2025-11-09)
 - [Gateway API 1.4: New Features](https://kubernetes.io/blog/2025/11/06/gateway-api-v1-4/) (2025-11-06)
 - [7 Common Kubernetes Pitfalls (and How I Learned to Avoid Them)](https://kubernetes.io/blog/2025/10/20/seven-kubernetes-pitfalls-and-how-to-avoid/) (2025-10-20)
-- [Spotlight on Policy Working Group](https://kubernetes.io/blog/2025/10/18/wg-policy-spotlight-2025/) (2025-10-18)
 
 </details>
 
@@ -264,11 +262,11 @@ They will be built by 5 people and AI. This isn’t a slogan.](https://dev.to/ja
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Open-source IntelliJ IDEA: A Simpler Way to Build and Contribute to the Community](https://blog.jetbrains.com/idea/2025/11/intellij-idea-open-source/) (2025-11-25)
 - [The Ultimate KMP Watchlist: Level Up Your Skills in 10 Talks](https://blog.jetbrains.com/kotlin/2025/11/the-ultimate-kmp-watchlist/) (2025-11-24)
 - [Amper Update, November 2025 – Extensibility Preview](https://blog.jetbrains.com/amper/2025/11/amper-update-november-2025/) (2025-11-24)
 - [Scaling Kotlin Adoption Across Your Organization](https://blog.jetbrains.com/kotlin/2025/11/scaling-kotlin-adoption-across-your-organization/) (2025-11-24)
 - [Spring Boot 4: Leaner, Safer Apps and a New Kotlin Baseline](https://blog.jetbrains.com/idea/2025/11/spring-boot-4/) (2025-11-20)
-- [IntelliJ IDEA 2025.2.5 Is Out!](https://blog.jetbrains.com/idea/2025/11/intellij-idea-2025-2-5/) (2025-11-20)
 
 </details>
 
@@ -320,6 +318,11 @@ They will be built by 5 people and AI. This isn’t a slogan.](https://dev.to/ja
 <summary>📞 Twilio Blog</summary>
 
 - [
+Checking it twice: How to spot a fake in your inbox and stay safe this holiday season
+](
+https://www.twilio.com/en-us/blog/insights/stay-safe-this-holiday-season
+) (2025-11-24)
+- [
 Behind the Builder: Stefany Millstein, Director of Sales, Commercial
 ](
 https://www.twilio.com/en-us/blog/company/spotlights/behind-the-builder-Stefany-Millstein-twilio
@@ -339,11 +342,6 @@ How Do You Know if Your Voice AI Agents are Working?
 ](
 https://www.twilio.com/en-us/blog/developers/evaluating-voice-ai-agents
 ) (2025-11-18)
-- [
-Send Timely SMS in Adobe Journey Optimizer Using Twilio Programmable Messaging
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/adobe-journey-optimizer-programmable-messaging-sms
-) (2025-11-17)
 
 </details>
 
@@ -515,44 +513,44 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/adobe-journe
 <details>
 <summary>🤖 AI News</summary>
 
+- [e-Conomy SEA 2025: Malaysia takes 32% of regional AI funding](https://www.artificialintelligence-news.com/news/malaysia-ai-investment-32-percent-sea-funding-2025/) (2025-11-25)
 - [ZAYA1: AI model using AMD GPUs for training hits milestone](https://www.artificialintelligence-news.com/news/zaya1-ai-model-using-amd-gpus-for-training-hits-milestone/) (2025-11-24)
 - [Google commits to 1000x more AI infrastructure in next 4-5 years](https://www.artificialintelligence-news.com/news/google-commits-to-1000x-more-ai-infrastructure-in-next-4-5-years/) (2025-11-24)
 - [How Europe’s talent can secure a trillion-euro AI economic injection](https://www.artificialintelligence-news.com/news/how-europe-talent-can-secure-trillion-euro-ai-economic-injection/) (2025-11-24)
 - [APAC enterprises move AI infrastructure to edge as inference costs rise](https://www.artificialintelligence-news.com/news/enterprises-are-rethinking-ai-infrastructure-as-inference-costs-rise/) (2025-11-24)
-- [4 best essay writing websites students choose over AI](https://www.artificialintelligence-news.com/news/4-best-essay-writing-websites-students-choose-over-ai/) (2025-11-24)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Create Professional Articles with LaTeX in Cursor](https://towardsdatascience.com/how-to-create-professional-articles-with-latex-in-cursor/) (2025-11-25)
 - [How to Implement Randomization with the Python Random Module](https://towardsdatascience.com/implementing-randomisation-with-the-python-random-module/) (2025-11-24)
 - [Struggling with Data Science? 5 Common Beginner Mistakes](https://towardsdatascience.com/struggling-with-data-science-5-common-beginner-mistakes/) (2025-11-24)
 - [A Hands-On Guide to Anthropic’s New Structured Output Capabilities](https://towardsdatascience.com/hands-on-with-anthropics-new-structured-output-capabilities/) (2025-11-24)
 - [LLM-as-a-Judge: What It Is, Why It Works, and How to Use It to Evaluate AI Models](https://towardsdatascience.com/llm-as-a-judge-what-it-is-why-it-works-and-how-to-use-it-to-evaluate-ai-models/) (2025-11-24)
-- [Learning Triton One Kernel at a Time: Softmax](https://towardsdatascience.com/learning-triton-one-kernel-at-a-time-softmax/) (2025-11-23)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Mastering Gemini 3 Pro API: A Complete Developer’s Guide](https://www.analyticsvidhya.com/blog/2025/11/gemini-3-pro-api/) (2025-11-25)
+- [This is Why China is Going to Win the AI Race](https://www.analyticsvidhya.com/blog/2025/11/this-is-why-china-is-going-to-win-the-ai-race/) (2025-11-25)
 - [Introduction to Task Guardrails in CrewAI ](https://www.analyticsvidhya.com/blog/2025/11/introduction-to-task-guardrails-in-crewai/) (2025-11-24)
 - [Vibe Coding With Gemini 3 Pro: Building a Screenshot-to-Code Agent in just Two Prompts](https://www.analyticsvidhya.com/blog/2025/11/gemini-3-pro-screenshot-to-code-agent/) (2025-11-24)
 - [10 Weirdest AI Tools You’ve Never Heard of](https://www.analyticsvidhya.com/blog/2025/11/weirdest-ai-tools/) (2025-11-23)
-- [What is RAG Indexing?](https://www.analyticsvidhya.com/blog/2025/11/what-is-rag-indexing/) (2025-11-22)
-- [10 Nano Banana Pro Prompts that You Must Try!](https://www.analyticsvidhya.com/blog/2025/11/nano-banana-pro-prompts/) (2025-11-21)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [The 5 FREE Must-Read Books for Every Machine Learning Engineer](https://www.kdnuggets.com/the-5-free-must-read-books-for-every-machine-learning-engineer) (2025-11-25)
 - [My Honest Review on Abacus AI: ChatLLM, DeepAgent & Enterprise](https://www.kdnuggets.com/2025/11/abacus/my-honest-take-on-abacus-ai-chatllm-deepagent-enterprise) (2025-11-24)
 - [Lux + Pandas: Auto-Visualizations for Lazy Analysts](https://www.kdnuggets.com/lux-pandas-auto-visualizations-for-lazy-analysts) (2025-11-24)
 - [Make.com Automations for Saving Time as a Data Professional](https://www.kdnuggets.com/make-com-automations-for-saving-time-as-a-data-professional) (2025-11-24)
 - [5 Docker Containers for Language Model Development](https://www.kdnuggets.com/5-docker-containers-for-language-model-development) (2025-11-24)
-- [Git for Vibe Coders](https://www.kdnuggets.com/git-for-vibe-coders) (2025-11-21)
 
 </details>
 
