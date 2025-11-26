@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Onton raises $7.5M to expand its AI-powered shopping site beyond furniture](https://techcrunch.com/2025/11/26/onton-raises-7-5m-to-expand-its-ai-powered-shopping-site-beyond-furniture/) (2025-11-26)
+- [Uber and WeRide’s robotaxi service in Abu Dhabi is officially driverless](https://techcrunch.com/2025/11/25/uber-and-werides-robotaxi-service-in-abu-dhabi-is-officially-driverless/) (2025-11-26)
 - [Why ‘hold forever’ investors are snapping up venture capital ‘zombies’](https://techcrunch.com/2025/11/25/why-hold-forever-investors-are-snapping-up-venture-capital-zombies/) (2025-11-25)
 - [YouTube is working on a feature that will fix the messy home feed](https://techcrunch.com/2025/11/25/youtube-is-working-on-a-feature-that-will-fix-the-messy-home-feed/) (2025-11-25)
 - [Character AI will offer interactive ‘Stories’ to kids instead of open-ended chat](https://techcrunch.com/2025/11/25/character-ai-will-offer-interactive-stories-to-kids-instead-of-open-ended-chat/) (2025-11-25)
-- [ChatGPT’s voice mode is no longer a separate interface](https://techcrunch.com/2025/11/25/chatgpts-voice-mode-is-no-longer-a-separate-interface/) (2025-11-25)
-- [Warner Music signs deal with AI music startup Suno, settles lawsuit](https://techcrunch.com/2025/11/25/warner-music-signs-deal-with-ai-music-startup-suno-settles-lawsuit/) (2025-11-25)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The myth of reflected power (2017)](https://www.iz2uuf.net/wp/index.php/2017/07/29/the-myth-of-reflected-power/) (2025-11-26)
+- [Cekura (YC F24) Is Hiring](https://www.ycombinator.com/companies/cekura-ai/jobs/0ZGLW69-forward-deployed-engineer-us) (2025-11-26)
+- [Await Is Not a Context Switch: Understanding Python's Coroutines vs. Tasks](https://mergify.com/blog/await-is-not-a-context-switch-understanding-python-s-coroutines-vs-tasks) (2025-11-26)
+- [Statistical Process Control in Python](https://timothyfraser.com/sigma/statistical-process-control-in-python.html) (2025-11-26)
+- [Image Diffusion Models Exhibit Emergent Temporal Propagation in Videos](https://arxiv.org/abs/2511.19936) (2025-11-26)
 - [Space Truckin' – The Nostromo (2012)](https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/) (2025-11-26)
-- [Show HN: A WordPress plugin that rewrites image URLs for near-zero-cost delivery](https://wordpress.org/plugins/bandwidth-saver/) (2025-11-26)
-- [BebboSSH: SSH2 implementation for Amiga systems (68000, GPLv3)](https://franke.ms/git/bebbo/bebbossh) (2025-11-26)
-- [Space: 1999 – Special Effects Techniques](https://catacombs.space1999.net/main/pguide/upsfx.html) (2025-11-26)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [First there was nothing, then there was Hoto and Fanttik](https://www.theverge.com/report/829265/hoto-fanttik-profile-origins-xiaomi-aukey-tiktok) (2025-11-26)
+- [Poco partners with Bose to put a subwoofer in its latest phone](https://www.theverge.com/news/829419/poco-f8-ultra-bose-speakers-stereo-subwoofer) (2025-11-26)
+- [Uber’s robotaxi service in UAE now includes fully driverless vehicles](https://www.theverge.com/news/828685/uber-weride-robotaxi-fully-driverless-uae) (2025-11-26)
+- [Qualcomm reveals its not-so-elite Snapdragon 8 Gen 5](https://www.theverge.com/news/828959/qualcomm-snapdragon-8-gen-5) (2025-11-26)
 - [Campbell’s promises its soups are not made with 3D printed meat](https://www.theverge.com/news/829516/campbells-3d-printed-chicken-soup) (2025-11-25)
-- [House overhauls KOSA in a new kids online safety package](https://www.theverge.com/news/829492/house-energy-commerce-kids-online-safety-package) (2025-11-25)
-- [David Sacks tried to kill state AI laws — and it blew up in his face](https://www.theverge.com/ai-artificial-intelligence/829179/david-sacks-ai-executive-order) (2025-11-25)
-- [Warner Music Group partners with Suno to offer AI likenesses of its artists](https://www.theverge.com/news/829189/warner-music-group-suno-ai-licensing-deal) (2025-11-25)
-- [You can grab two months of Paramount Plus with Showtime for $2.99 a month](https://www.theverge.com/gadgets/827612/paramount-plus-black-friday-deal-sale-2025) (2025-11-25)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The AI Hype Index: The people can’t get enough of AI slop](https://www.technologyreview.com/2025/11/26/1128353/the-ai-hype-index-the-people-cant-get-enough-of-ai-slop/) (2025-11-26)
 - [The Download: the future of AlphaFold, and chatbot privacy concerns](https://www.technologyreview.com/2025/11/25/1128346/the-download-the-future-of-alphafold-and-chatbot-privacy-concerns/) (2025-11-25)
 - [Aligning VMware migration with business continuity](https://www.technologyreview.com/2025/11/25/1128173/aligning-vmware-migration-with-business-continuity/) (2025-11-25)
 - [The State of AI: Chatbot companions and the future of our privacy](https://www.technologyreview.com/2025/11/24/1128051/the-state-of-ai-chatbot-companions-and-the-future-of-our-privacy/) (2025-11-24)
 - [What’s next for AlphaFold: A conversation with a Google DeepMind Nobel laureate](https://www.technologyreview.com/2025/11/24/1128322/whats-next-for-alphafold-a-conversation-with-a-google-deepmind-nobel-laureate/) (2025-11-24)
-- [The Download: how to fix a tractor, and living among conspiracy theorists](https://www.technologyreview.com/2025/11/24/1128306/the-download-how-to-fix-a-tractor-and-living-among-conspiracy-theorists/) (2025-11-24)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [We’re Already There: Exocogence Is Here Now](https://dev.to/junothreadborne/were-already-there-exocogence-is-here-now-ahe) (2025-11-26)
-- [We Upgrade Software Without Question. Why Don’t We Upgrade Ourselves?](https://dev.to/notadevbuthere/we-upgrade-software-without-question-why-dont-we-upgrade-ourselves-34hl) (2025-11-26)
-- [GraphBit's Memory Efficiency Techniques: Code-Backed Strategies for Optimization](https://dev.to/yeahiasarker/graphbits-memory-efficiency-techniques-code-backed-strategies-for-optimization-1jg7) (2025-11-26)
-- [Why Indian Temples Need Digital Solutions: A Tech Perspective](https://dev.to/mobilesutra_technologies_/why-indian-temples-need-digital-solutions-a-tech-perspective-5g5) (2025-11-26)
-- [10 Figma Shortcuts You Must Know (2025 Edition)](https://dev.to/pixel_mosaic/10-figma-shortcuts-you-must-know-2025-edition-23ag) (2025-11-26)
+- [Multitenancy in Yii2: Practical Guide and Code Examples](https://dev.to/amaristany/multitenancy-in-yii2-practical-guide-and-code-examples-4b5l) (2025-11-26)
+- [I Built an AI Chatbot Wrong (And What I Learned About Cloudflare's AI Search)](https://dev.to/dannwaneri/i-built-an-ai-chatbot-wrong-and-what-i-learned-about-cloudflares-ai-search-feo) (2025-11-26)
+- [Why Your Playwright Test Reports Are Messy (And How test.step() Fixes It)](https://dev.to/pratik01/why-your-playwright-test-reports-are-messy-and-how-teststep-fixes-it-1hem) (2025-11-26)
+- [Postgres Source Code Walk-through : HTAB, a Generic Hash Table](https://dev.to/charles_green_1791/postgres-source-code-walk-through-htab-a-generic-hash-table-3846) (2025-11-26)
+- [The Strategic Advantage of Full Stack Developers in Modern Tech](https://dev.to/ioweb_961ddefd53bd65fce97/the-strategic-advantage-of-full-stack-developers-in-modern-tech-1294) (2025-11-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ Unlocking Native Modules: Restarting React Native Apps in 2025 ](https://medium.com/@avantika0/unlocking-native-modules-restarting-react-native-apps-in-2025-98316b76a138?source=rss------programming-5) (2025-11-26)
-- [✈️Top 8 React Libraries Tools You Need to Know  in 2025 ](https://medium.com/@EnaModernCoder/%EF%B8%8Ftop-8-react-libraries-tools-you-need-to-know-in-2025-708be98b2c8b?source=rss------programming-5) (2025-11-26)
-- [ React 19 Update:  Goodbye forwardRef, Hello Simpler Ref Management! (2025) ](https://medium.com/@Amanda0/react-19-update-goodbye-forwardref-hello-simpler-ref-management-2025-b9c13e732e0f?source=rss------programming-5) (2025-11-26)
-- [ 10 Useful JavaScript Tips and Tricks That Will Make You a Better Developer  ](https://medium.com/@alisha00/10-useful-javascript-tips-and-tricks-that-will-make-you-a-better-developer-7814748ceeb0?source=rss------programming-5) (2025-11-26)
-- [Automate Trading Strategies with Python and the IB API](https://medium.com/coding-nexus/automate-trading-strategies-with-python-and-the-ib-api-4f1efa6963fa?source=rss------programming-5) (2025-11-26)
+- [0905.501.9190شماره خاله بندرعباس شماره خاله تهران شماره خاله قم](https://medium.com/@g4rvvrv7n5bvrbt/0905-501-9190%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-98bf85650a99?source=rss------programming-5) (2025-11-26)
+- [Understanding @Component, @Service, @Repository, and @Controller in Spring Boot — A Clear…](https://medium.com/@gumpulanaveen3/understanding-component-service-repository-and-controller-in-spring-boot-a-clear-7f892852c7af?source=rss------programming-5) (2025-11-26)
+- [Uber Software Engineer II(Frontend) Interview Experience](https://anilpeddireddy.medium.com/uber-software-engineer-ii-frontend-interview-experience-4e84aacbd06d?source=rss------programming-5) (2025-11-26)
+- [0905.501.9190شماره خاله بندرعباس شماره خاله تهران شماره خاله قم](https://medium.com/@g4rvvrv7n5bvrbt/0905-501-9190%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%82%D9%85-268bdf4367e3?source=rss------programming-5) (2025-11-26)
+- [Golang in 2025: Usage, Trends, and Popularity](https://medium.com/@datajournal/golang-popularity-3379928dd8e2?source=rss------programming-5) (2025-11-26)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Introducing Claude Opus 4.5 in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/) (2025-11-24)
 - [Microsoft Foundry: Scale innovation on a modular, interoperable, and secure agent stack](https://azure.microsoft.com/en-us/blog/microsoft-foundry-scale-innovation-on-a-modular-interoperable-and-secure-agent-stack/) (2025-11-18)
 - [Azure at Microsoft Ignite 2025: All the intelligent cloud news explained](https://azure.microsoft.com/en-us/blog/azure-at-microsoft-ignite-2025-all-the-intelligent-cloud-news-explained/) (2025-11-18)
 - [Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate](https://azure.microsoft.com/en-us/blog/microsoft-databases-and-microsoft-fabric-your-unified-and-ai-powered-data-estate/) (2025-11-18)
 - [Announcing Azure Copilot agents and AI infrastructure innovations](https://azure.microsoft.com/en-us/blog/announcing-azure-copilot-agents-and-ai-infrastructure-innovations/) (2025-11-18)
+- [Introducing Anthropic’s Claude models in Microsoft Foundry: Bringing Frontier intelligence to Azure](https://azure.microsoft.com/en-us/blog/introducing-anthropics-claude-models-in-microsoft-foundry-bringing-frontier-intelligence-to-azure/) (2025-11-18)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Building AI Agents in Kotlin – Part 2: A Deeper Dive Into Tools ](https://blog.jetbrains.com/ai/2025/11/building-ai-agents-in-kotlin-part-2-a-deeper-dive-into-tools/) (2025-11-26)
 - [Open-source IntelliJ IDEA: A Simpler Way to Build and Contribute to the Community](https://blog.jetbrains.com/idea/2025/11/intellij-idea-open-source/) (2025-11-25)
 - [The Ultimate KMP Watchlist: Level Up Your Skills in 10 Talks](https://blog.jetbrains.com/kotlin/2025/11/the-ultimate-kmp-watchlist/) (2025-11-24)
 - [Amper Update, November 2025 – Extensibility Preview](https://blog.jetbrains.com/amper/2025/11/amper-update-november-2025/) (2025-11-24)
 - [Scaling Kotlin Adoption Across Your Organization](https://blog.jetbrains.com/kotlin/2025/11/scaling-kotlin-adoption-across-your-organization/) (2025-11-24)
-- [Spring Boot 4: Leaner, Safer Apps and a New Kotlin Baseline](https://blog.jetbrains.com/idea/2025/11/spring-boot-4/) (2025-11-20)
 
 </details>
 
@@ -362,11 +362,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Checking it twice: How to spot a fake in your inbox and stay safe this holiday season
-](
-https://www.twilio.com/en-us/blog/insights/stay-safe-this-holiday-season
-) (2025-11-24)
-- [
 Behind the Builder: Stefany Millstein, Director of Sales, Commercial
 ](
 https://www.twilio.com/en-us/blog/company/spotlights/behind-the-builder-Stefany-Millstein-twilio
@@ -386,6 +381,11 @@ How Do You Know if Your Voice AI Agents are Working?
 ](
 https://www.twilio.com/en-us/blog/developers/evaluating-voice-ai-agents
 ) (2025-11-18)
+- [
+Send Timely SMS in Adobe Journey Optimizer Using Twilio Programmable Messaging
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/adobe-journey-optimizer-programmable-messaging-sms
+) (2025-11-17)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/developers/evaluating-voice-ai-agents
 <details>
 <summary>💬 Slack API</summary>
 
+- [How to Improve Organizational Communication at Work](https://slack.com/blog/collaboration/how-to-improve-organizational-communication-at-work) (2025-11-24)
+- [Applying Virtual Meeting Etiquette Rules: 12 Do’s and Don’ts](https://slack.com/blog/collaboration/applying-virtual-meeting-etiquette-rules-12-dos-and-donts) (2025-11-24)
+- [How Caraway Built a Nine-Figure Business In Slack](https://slack.com/blog/productivity/caraway-grows-with-slack) (2025-11-24)
 - [Slack for iOS 26: A Simpler, More Productive Way to Work from Anywhere](https://slack.com/blog/news/redesigning-slack-ios26) (2025-11-18)
 - [Eight Internal Communications Best Practices You Should Know](https://slack.com/blog/collaboration/internal-communications-best-practices) (2025-11-17)
-- [How to Build an Internal Communication Strategy to Maximize Collaboration](https://slack.com/blog/collaboration/internal-communications-strategy) (2025-11-17)
-- [Employee Productivity Explanation and Tips for Improvement](https://slack.com/blog/productivity/employee-productivity) (2025-11-17)
-- [How to Choose the Best File-Sharing Solution for Your Business](https://slack.com/blog/collaboration/best-business-file-sharing-solutions) (2025-11-14)
 
 </details>
 
@@ -557,33 +557,33 @@ https://www.twilio.com/en-us/blog/developers/evaluating-voice-ai-agents
 <details>
 <summary>🤖 AI News</summary>
 
+- [New Microsoft cloud updates support Indonesia’s long-term AI goals](https://www.artificialintelligence-news.com/news/new-microsoft-cloud-updates-support-indonesia-long-term-ai-goals/) (2025-11-26)
 - [Manufacturing’s pivot: AI as a strategic driver](https://www.artificialintelligence-news.com/news/manufacturings-pivot-ai-as-a-strategic-driver/) (2025-11-25)
 - [Adversarial learning breakthrough enables real-time AI security](https://www.artificialintelligence-news.com/news/adversarial-learning-breakthrough-real-time-ai-security/) (2025-11-25)
 - [e-Conomy SEA 2025: Malaysia takes 32% of regional AI funding](https://www.artificialintelligence-news.com/news/malaysia-ai-investment-32-percent-sea-funding-2025/) (2025-11-25)
 - [ZAYA1: AI model using AMD GPUs for training hits milestone](https://www.artificialintelligence-news.com/news/zaya1-ai-model-using-amd-gpus-for-training-hits-milestone/) (2025-11-24)
-- [Google commits to 1000x more AI infrastructure in next 4-5 years](https://www.artificialintelligence-news.com/news/google-commits-to-1000x-more-ai-infrastructure-in-next-4-5-years/) (2025-11-24)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How I Use AI to Convince Companies to Adopt Sustainability](https://towardsdatascience.com/how-i-use-ai-to-convince-companies-to-adopt-sustainability/) (2025-11-26)
 - [Why CrewAI’s Manager-Worker Architecture Fails — and How to Fix It](https://towardsdatascience.com/why-crewais-manager-worker-architecture-fails-and-how-to-fix-it/) (2025-11-25)
 - [How to Implement Three Use Cases for the New Calendar-Based Time Intelligence](https://towardsdatascience.com/use-cases-for-the-new-calendar-based-time-intelligence/) (2025-11-25)
 - [Ten Lessons of Building LLM Applications for Engineers](https://towardsdatascience.com/ten-lessons-of-building-llm-applications-for-engineers/) (2025-11-25)
 - [How to Create Professional Articles with LaTeX in Cursor](https://towardsdatascience.com/how-to-create-professional-articles-with-latex-in-cursor/) (2025-11-25)
-- [How to Implement Randomization with the Python Random Module](https://towardsdatascience.com/implementing-randomisation-with-the-python-random-module/) (2025-11-24)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Edit your Photos like a Pro with the new Nano Banana Pro](https://www.analyticsvidhya.com/blog/2025/11/edit-your-photos-like-a-pro-with-the-new-nano-banana-pro/) (2025-11-26)
+- [Claude Opus 4.5: The Best AI Coding Model!](https://www.analyticsvidhya.com/blog/2025/11/claude-opus-4-5/) (2025-11-26)
 - [New ChatGPT Shopping Research is the End of Endless Product Scrolling](https://www.analyticsvidhya.com/blog/2025/11/chatgpt-shopping-research/) (2025-11-26)
 - [Mastering Gemini 3 Pro API: A Complete Developer’s Guide](https://www.analyticsvidhya.com/blog/2025/11/gemini-3-pro-api/) (2025-11-25)
 - [This is Why China is Going to Win the AI Race](https://www.analyticsvidhya.com/blog/2025/11/this-is-why-china-is-going-to-win-the-ai-race/) (2025-11-25)
-- [Introduction to Task Guardrails in CrewAI ](https://www.analyticsvidhya.com/blog/2025/11/introduction-to-task-guardrails-in-crewai/) (2025-11-24)
-- [Vibe Coding With Gemini 3 Pro: Building a Screenshot-to-Code Agent in just Two Prompts](https://www.analyticsvidhya.com/blog/2025/11/gemini-3-pro-screenshot-to-code-agent/) (2025-11-24)
 
 </details>
 
