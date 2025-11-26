@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The gruesome new data on tech jobs](https://www.businessinsider.com/gruesome-tech-jobs-data-scientists-analytics-indeed-2025-11) (2025-11-26)
-- [The Generative Burrito Test](https://www.generativist.com/notes/2025/Nov/25/generative-burrito-test.html) (2025-11-25)
-- [LLVM Adds Constant-Time Support for Protecting Cryptographic Code](https://blog.trailofbits.com/2025/11/25/constant-time-support-lands-in-llvm-protecting-cryptographic-code-at-the-compiler-level/) (2025-11-25)
-- [Notes on the Troubleshooting and Repair of Computer and Video Monitors](https://www.repairfaq.org/sam/monfaq.htm) (2025-11-25)
-- [Reinventing how .NET builds and ships (again)](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/) (2025-11-25)
+- [The myth of reflected power (2017)](https://www.iz2uuf.net/wp/index.php/2017/07/29/the-myth-of-reflected-power/) (2025-11-26)
+- [Space Truckin' – The Nostromo (2012)](https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/) (2025-11-26)
+- [Show HN: A WordPress plugin that rewrites image URLs for near-zero-cost delivery](https://wordpress.org/plugins/bandwidth-saver/) (2025-11-26)
+- [BebboSSH: SSH2 implementation for Amiga systems (68000, GPLv3)](https://franke.ms/git/bebbo/bebbossh) (2025-11-26)
+- [Space: 1999 – Special Effects Techniques](https://catacombs.space1999.net/main/pguide/upsfx.html) (2025-11-26)
 
 </details>
 
@@ -97,24 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [El conocimiento lingüístico en NLP: el puente entre la sintaxis y la semántica](https://dev.to/vicodev/el-conocimiento-linguistico-en-nlp-el-puente-entre-la-sintaxis-y-la-semantica-2m8a) (2025-11-26)
-- [Linguistic Knowledge in NLP: bridging syntax and semantics](https://dev.to/vicodev/linguistic-knowledge-in-nlp-bridging-syntax-and-semantics-11a7) (2025-11-26)
-- [Fedora 43 Post-Install Guide: 10 Essential Things to Do After Installing](https://dev.to/alldaylinux/fedora-43-post-install-guide-10-essential-things-to-do-after-installing-2m15) (2025-11-26)
-- [The developers who win the AI era will not be the ones who chase hype.
-
-And if we don’t talk about it, more developers will burn out, stall their careers, or build the wrong things.](https://dev.to/jaideepparashar/the-developers-who-win-the-ai-era-will-not-be-the-ones-who-chase-hype-and-if-we-dont-talk-56kl) (2025-11-26)
-- [Surgical Precision with AI: A New Era in Lung Cancer Staging](https://dev.to/arvind_sundararajan/surgical-precision-with-ai-a-new-era-in-lung-cancer-staging-a26) (2025-11-26)
+- [We’re Already There: Exocogence Is Here Now](https://dev.to/junothreadborne/were-already-there-exocogence-is-here-now-ahe) (2025-11-26)
+- [We Upgrade Software Without Question. Why Don’t We Upgrade Ourselves?](https://dev.to/notadevbuthere/we-upgrade-software-without-question-why-dont-we-upgrade-ourselves-34hl) (2025-11-26)
+- [GraphBit's Memory Efficiency Techniques: Code-Backed Strategies for Optimization](https://dev.to/yeahiasarker/graphbits-memory-efficiency-techniques-code-backed-strategies-for-optimization-1jg7) (2025-11-26)
+- [Why Indian Temples Need Digital Solutions: A Tech Perspective](https://dev.to/mobilesutra_technologies_/why-indian-temples-need-digital-solutions-a-tech-perspective-5g5) (2025-11-26)
+- [10 Figma Shortcuts You Must Know (2025 Edition)](https://dev.to/pixel_mosaic/10-figma-shortcuts-you-must-know-2025-edition-23ag) (2025-11-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09336086822شماره خاله بوشهر شماره خاله بندرلنگه خاله کرمانشاه](https://medium.com/@smanhthran248/09336086822%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%88%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D9%84%D9%86%DA%AF%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87-a3a5f506c079?source=rss------programming-5) (2025-11-26)
-- [09336086822شماره خاله بوشهر شماره خاله بندرلنگه خاله کرمانشاه](https://medium.com/@smanhthran248/09336086822%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%88%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D9%84%D9%86%DA%AF%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87-a2197cb55a16?source=rss------programming-5) (2025-11-26)
-- [Why My Favorite Python Script Is Only 12 Lines Long](https://python.plainenglish.io/why-my-favorite-python-script-is-only-12-lines-long-4cdb0afbd775?source=rss------programming-5) (2025-11-26)
-- [09336086822شماره خاله بندرانزلی شماره خاله تنکابن خاله کرج](https://medium.com/@nygynasfhany/09336086822%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%A7%D9%86%D8%B2%D9%84%DB%8C-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%86%DA%A9%D8%A7%D8%A8%D9%86-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-036544222bf3?source=rss------programming-5) (2025-11-26)
-- [09336086822شماره خاله بندرانزلی شماره خاله تنکابن خاله کرج](https://medium.com/@nygynasfhany/09336086822%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%A7%D9%86%D8%B2%D9%84%DB%8C-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%86%DA%A9%D8%A7%D8%A8%D9%86-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-9b705dd783b2?source=rss------programming-5) (2025-11-26)
+- [ Unlocking Native Modules: Restarting React Native Apps in 2025 ](https://medium.com/@avantika0/unlocking-native-modules-restarting-react-native-apps-in-2025-98316b76a138?source=rss------programming-5) (2025-11-26)
+- [✈️Top 8 React Libraries Tools You Need to Know  in 2025 ](https://medium.com/@EnaModernCoder/%EF%B8%8Ftop-8-react-libraries-tools-you-need-to-know-in-2025-708be98b2c8b?source=rss------programming-5) (2025-11-26)
+- [ React 19 Update:  Goodbye forwardRef, Hello Simpler Ref Management! (2025) ](https://medium.com/@Amanda0/react-19-update-goodbye-forwardref-hello-simpler-ref-management-2025-b9c13e732e0f?source=rss------programming-5) (2025-11-26)
+- [ 10 Useful JavaScript Tips and Tricks That Will Make You a Better Developer  ](https://medium.com/@alisha00/10-useful-javascript-tips-and-tricks-that-will-make-you-a-better-developer-7814748ceeb0?source=rss------programming-5) (2025-11-26)
+- [Automate Trading Strategies with Python and the IB API](https://medium.com/coding-nexus/automate-trading-strategies-with-python-and-the-ib-api-4f1efa6963fa?source=rss------programming-5) (2025-11-26)
 
 </details>
 
@@ -132,11 +130,11 @@ And if we don’t talk about it, more developers will burn out, stall their care
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Introducing Claude Opus 4.5 in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/) (2025-11-24)
 - [Microsoft Foundry: Scale innovation on a modular, interoperable, and secure agent stack](https://azure.microsoft.com/en-us/blog/microsoft-foundry-scale-innovation-on-a-modular-interoperable-and-secure-agent-stack/) (2025-11-18)
 - [Azure at Microsoft Ignite 2025: All the intelligent cloud news explained](https://azure.microsoft.com/en-us/blog/azure-at-microsoft-ignite-2025-all-the-intelligent-cloud-news-explained/) (2025-11-18)
 - [Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate](https://azure.microsoft.com/en-us/blog/microsoft-databases-and-microsoft-fabric-your-unified-and-ai-powered-data-estate/) (2025-11-18)
 - [Announcing Azure Copilot agents and AI infrastructure innovations](https://azure.microsoft.com/en-us/blog/announcing-azure-copilot-agents-and-ai-infrastructure-innovations/) (2025-11-18)
-- [Introducing Anthropic’s Claude models in Microsoft Foundry: Bringing Frontier intelligence to Azure](https://azure.microsoft.com/en-us/blog/introducing-anthropics-claude-models-in-microsoft-foundry-bringing-frontier-intelligence-to-azure/) (2025-11-18)
 
 </details>
 
@@ -364,6 +362,11 @@ And if we don’t talk about it, more developers will burn out, stall their care
 <summary>📞 Twilio Blog</summary>
 
 - [
+Checking it twice: How to spot a fake in your inbox and stay safe this holiday season
+](
+https://www.twilio.com/en-us/blog/insights/stay-safe-this-holiday-season
+) (2025-11-24)
+- [
 Behind the Builder: Stefany Millstein, Director of Sales, Commercial
 ](
 https://www.twilio.com/en-us/blog/company/spotlights/behind-the-builder-Stefany-Millstein-twilio
@@ -383,11 +386,6 @@ How Do You Know if Your Voice AI Agents are Working?
 ](
 https://www.twilio.com/en-us/blog/developers/evaluating-voice-ai-agents
 ) (2025-11-18)
-- [
-Send Timely SMS in Adobe Journey Optimizer Using Twilio Programmable Messaging
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/adobe-journey-optimizer-programmable-messaging-sms
-) (2025-11-17)
 
 </details>
 
@@ -581,11 +579,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/adobe-journe
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [New ChatGPT Shopping Research is the End of Endless Product Scrolling](https://www.analyticsvidhya.com/blog/2025/11/chatgpt-shopping-research/) (2025-11-26)
 - [Mastering Gemini 3 Pro API: A Complete Developer’s Guide](https://www.analyticsvidhya.com/blog/2025/11/gemini-3-pro-api/) (2025-11-25)
 - [This is Why China is Going to Win the AI Race](https://www.analyticsvidhya.com/blog/2025/11/this-is-why-china-is-going-to-win-the-ai-race/) (2025-11-25)
 - [Introduction to Task Guardrails in CrewAI ](https://www.analyticsvidhya.com/blog/2025/11/introduction-to-task-guardrails-in-crewai/) (2025-11-24)
 - [Vibe Coding With Gemini 3 Pro: Building a Screenshot-to-Code Agent in just Two Prompts](https://www.analyticsvidhya.com/blog/2025/11/gemini-3-pro-screenshot-to-code-agent/) (2025-11-24)
-- [10 Weirdest AI Tools You’ve Never Heard of](https://www.analyticsvidhya.com/blog/2025/11/weirdest-ai-tools/) (2025-11-23)
 
 </details>
 
@@ -603,11 +601,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/adobe-journe
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Pretrain a BERT Model from Scratch](https://machinelearningmastery.com/pretrain-a-bert-model-from-scratch/) (2025-11-26)
 - [K-Means Cluster Evaluation with Silhouette Analysis](https://machinelearningmastery.com/k-means-cluster-evaluation-with-silhouette-analysis/) (2025-11-25)
 - [The Complete Guide to Docker for Machine Learning Engineers](https://machinelearningmastery.com/the-complete-guide-to-docker-for-machine-learning-engineers/) (2025-11-24)
 - [Preparing Data for BERT Training](https://machinelearningmastery.com/preparing-data-for-bert-training/) (2025-11-24)
 - [BERT Models and Its Variants](https://machinelearningmastery.com/bert-models-and-its-variants/) (2025-11-22)
-- [From Shannon to Modern AI: A Complete Information Theory Guide for Machine Learning](https://machinelearningmastery.com/from-shannon-to-modern-ai-a-complete-information-theory-guide-for-machine-learning/) (2025-11-20)
 
 </details>
 
