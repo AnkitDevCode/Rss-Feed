@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Coq: The World's Best Macro Assembler? [pdf] [2013]](https://nickbenton.name/coqasm.pdf) (2025-11-27)
-- [DIY NAS: 2026 Edition](https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html) (2025-11-27)
-- [Penpot: The Open-Source Figma](https://github.com/penpot/penpot) (2025-11-27)
-- [Functional Data Structures and Algorithms: a Proof Assistant Approach](https://fdsa-book.net/) (2025-11-27)
-- [Migrating the main Zig repository from GitHub to Codeberg](https://ziglang.org/news/migrating-from-github-to-codeberg/) (2025-11-27)
+- [How Arthur Conan Doyle Explored Men's Mental Health Through Sherlock Holmes](https://scienceclock.com/arthur-conan-doyle-delved-into-mens-mental-health-through-his-sherlock-holmes-stories/) (2025-11-27)
+- [Ray Marching Soft Shadows in 2D](https://www.rykap.com/2020/09/23/distance-fields/) (2025-11-27)
+- [The Nerd Reich – Silicon Valley Fascism and the War on Democracy](https://www.simonandschuster.com/books/The-Nerd-Reich/Gil-Duran/9781668221402) (2025-11-27)
+- [Linux Kernel Explorer](https://reverser.dev/linux-kernel-explorer) (2025-11-27)
+- [Last Issue of "ECMAScript News"](https://ecmascript.news/archive/es-next-news-2025-11-26.html) (2025-11-27)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [My AI shopping assistants are stuck in the past](https://www.theverge.com/ai-artificial-intelligence/830450/ai-shopping-assistants-are-stuck-in-the-past) (2025-11-27)
+- [Intel says star hire from TSMC didn&#8217;t steal secrets](https://www.theverge.com/news/831353/intel-tsmc-wei-jen-lo-trade-secrets) (2025-11-27)
+- [The VPN panic is only getting started](https://www.theverge.com/tech/827435/uk-vpn-restrictions-ban-online-safety-act) (2025-11-27)
 - [The best Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra) (2025-11-27)
 - [The best Black Friday deals we’ve found on TVs, laptops, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025) (2025-11-27)
-- [Stranger Things 5 begins with a frantic race to the finish line](https://www.theverge.com/entertainment/830518/stranger-things-5-review-part-one) (2025-11-27)
-- [Apple TV pulls The Hunt over plagiarism accusation](https://www.theverge.com/news/831227/apple-tv-the-hunt-plagiarism) (2025-11-27)
-- [OpenAI denies liability in teen suicide lawsuit, cites ‘misuse’ of ChatGPT](https://www.theverge.com/news/831207/openai-chatgpt-lawsuit-parental-controls-tos) (2025-11-27)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [This year’s UN climate talks avoided fossil fuels, again](https://www.technologyreview.com/2025/11/27/1128443/climate-talks-fossil-fuels/) (2025-11-27)
+- [Moving toward LessOps with VMware-to-cloud migrations](https://www.technologyreview.com/2025/11/27/1128465/moving-toward-lessops-with-vmware-to-cloud-migrations/) (2025-11-27)
 - [The Download: AI and the economy, and slop for the masses](https://www.technologyreview.com/2025/11/26/1128459/the-download-ai-and-the-economy-and-slop-for-the-masses/) (2025-11-26)
 - [The AI Hype Index: The people can’t get enough of AI slop](https://www.technologyreview.com/2025/11/26/1128353/the-ai-hype-index-the-people-cant-get-enough-of-ai-slop/) (2025-11-26)
 - [The Download: the future of AlphaFold, and chatbot privacy concerns](https://www.technologyreview.com/2025/11/25/1128346/the-download-the-future-of-alphafold-and-chatbot-privacy-concerns/) (2025-11-25)
-- [Aligning VMware migration with business continuity](https://www.technologyreview.com/2025/11/25/1128173/aligning-vmware-migration-with-business-continuity/) (2025-11-25)
-- [The State of AI: Chatbot companions and the future of our privacy](https://www.technologyreview.com/2025/11/24/1128051/the-state-of-ai-chatbot-companions-and-the-future-of-our-privacy/) (2025-11-24)
 
 </details>
 
@@ -97,22 +97,26 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Shopify products.json Trick: Scrape Any Store 25x Faster with Python](https://dev.to/dentedlogic/the-shopify-productsjson-trick-scrape-any-store-25x-faster-with-python-4p95) (2025-11-27)
-- [Project-Based Learning With 3D Design and Printing: Transforming Classrooms Through Creative Making](https://dev.to/julia970/project-based-learning-with-3d-design-and-printing-transforming-classrooms-through-creative-making-51k5) (2025-11-27)
-- [From PNG to PDF — Exploring the Design Behind PNG to PDF](https://dev.to/yabin/from-png-to-pdf-exploring-the-design-behind-png-to-pdf-4916) (2025-11-27)
-- [Building Better Governance: How Simulations Are Transforming Training for Public Servants](https://dev.to/simulationstrategist223/building-better-governance-how-simulations-are-transforming-training-for-public-servants-4n51) (2025-11-27)
-- [Building My Own HTTP Server in TypeScript](https://dev.to/elsad_humbetli_0971c995ce/building-my-own-http-server-in-typescript-51a) (2025-11-27)
+- [Mix with the Masters: Mixing Night with Ken Lewis - 100TH SHOW - 12/3/25](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-100th-show-12325-4poc) (2025-11-27)
+- [AWS ECS Managed Instances: The Middle Ground We've Been Waiting For](https://dev.to/omarmfathy219/aws-ecs-managed-instances-the-middle-ground-weve-been-waiting-for-98f) (2025-11-27)
+- [🚀 I Just Launched My New Portfolio — Here’s What I Built](https://dev.to/yashpandav/i-just-launched-my-new-portfolio-heres-what-i-built-50a1) (2025-11-27)
+- [Has anyone built a tool to check FAB Bank balances programmatically?](https://dev.to/quinn-bailey/has-anyone-built-a-tool-to-check-fab-bank-balances-programmatically-5e8k) (2025-11-27)
+- [Encrypting Secrets in Production (Without Breaking Everything)](https://dev.to/aniefon_umanah_ac5f21311c/encrypting-secrets-in-production-without-breaking-everything-2m3f) (2025-11-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Speed Up Your Ecommerce Portal with PostgreSQL 18](https://medium.com/coding-nexus/speed-up-your-ecommerce-portal-with-postgresql-18-1c0642b2e805?source=rss------programming-5) (2025-11-27)
-- [Designing a View Count System That Can Take 100K Requests per Second](https://medium.com/@premchandak_11/designing-a-view-count-system-that-can-take-100k-requests-per-second-a39f34ce8730?source=rss------programming-5) (2025-11-27)
-- [What Tech Leaders Say About AI and Your Career, And What You Should Be Planning Now](https://medium.com/@ansam.yousry/what-tech-leaders-say-about-ai-and-your-career-and-what-you-should-be-planning-now-8d07b6ea9fff?source=rss------programming-5) (2025-11-27)
-- [Node.js vs Laravel: Which Backend Should You Choose in 2025?](https://medium.com/@abhijitnanda8249/node-js-vs-laravel-which-backend-should-you-choose-in-2025-a779e8d18c9e?source=rss------programming-5) (2025-11-27)
-- [Steam removes HORSES, a horror game off of their platform.](https://medium.com/@volkcolopatrion4/steam-removes-horses-a-horror-game-off-of-their-platform-3486a3a0dd31?source=rss------programming-5) (2025-11-27)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jfsdjurddjjcxsrj/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-6f3d8c273ec6?source=rss------programming-5) (2025-11-27)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jfsdjurddjjcxsrj/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-6ba65a487bbf?source=rss------programming-5) (2025-11-27)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@hcdfukjgdsdhjhfxgg/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-8787901a8868?source=rss------programming-5) (2025-11-27)
+- [09370750325](https://medium.com/@shmarhkhalhmshhdy440/09370750325-eb529f786f2c?source=rss------programming-5) (2025-11-27)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@hcdfukjgdsdhjhfxgg/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-cc51a9b65fcd?source=rss------programming-5) (2025-11-27)
 
 </details>
 
@@ -130,11 +134,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Introducing Claude Opus 4.5 in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/) (2025-11-24)
 - [Microsoft Foundry: Scale innovation on a modular, interoperable, and secure agent stack](https://azure.microsoft.com/en-us/blog/microsoft-foundry-scale-innovation-on-a-modular-interoperable-and-secure-agent-stack/) (2025-11-18)
 - [Azure at Microsoft Ignite 2025: All the intelligent cloud news explained](https://azure.microsoft.com/en-us/blog/azure-at-microsoft-ignite-2025-all-the-intelligent-cloud-news-explained/) (2025-11-18)
 - [Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate](https://azure.microsoft.com/en-us/blog/microsoft-databases-and-microsoft-fabric-your-unified-and-ai-powered-data-estate/) (2025-11-18)
 - [Announcing Azure Copilot agents and AI infrastructure innovations](https://azure.microsoft.com/en-us/blog/announcing-azure-copilot-agents-and-ai-infrastructure-innovations/) (2025-11-18)
-- [Introducing Anthropic’s Claude models in Microsoft Foundry: Bringing Frontier intelligence to Azure](https://azure.microsoft.com/en-us/blog/introducing-anthropics-claude-models-in-microsoft-foundry-bringing-frontier-intelligence-to-azure/) (2025-11-18)
 
 </details>
 
@@ -362,6 +366,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Build a Smart QA ChatOps Assistant with Playwright, Twilio WhatsApp, LLMs, and MCP
+](
+https://www.twilio.com/en-us/blog/developers/community/build-smart-qa-chatops-assistant-playwright-twilio-whatsapp-llms-mcp
+) (2025-11-25)
+- [
 Checking it twice: How to spot a fake in your inbox and stay safe this holiday season
 ](
 https://www.twilio.com/en-us/blog/insights/stay-safe-this-holiday-season
@@ -380,11 +389,6 @@ https://www.twilio.com/en-us/blog/products/launches/launch-whatsapp-faster-with-
 How to Create a Magic Link in Laravel with Twilio SMS
 ](
 https://www.twilio.com/en-us/blog/developers/community/create-magic-link-laravel-twilio-sms
-) (2025-11-18)
-- [
-How Do You Know if Your Voice AI Agents are Working?
-](
-https://www.twilio.com/en-us/blog/developers/evaluating-voice-ai-agents
 ) (2025-11-18)
 
 </details>
@@ -502,11 +506,11 @@ https://www.twilio.com/en-us/blog/developers/evaluating-voice-ai-agents
 <details>
 <summary>💬 Slack API</summary>
 
+- [How to Improve Organizational Communication at Work](https://slack.com/blog/collaboration/how-to-improve-organizational-communication-at-work) (2025-11-24)
+- [Applying Virtual Meeting Etiquette Rules: 12 Do’s and Don’ts](https://slack.com/blog/collaboration/applying-virtual-meeting-etiquette-rules-12-dos-and-donts) (2025-11-24)
+- [How Caraway Built a Nine-Figure Business In Slack](https://slack.com/blog/productivity/caraway-grows-with-slack) (2025-11-24)
 - [Slack for iOS 26: A Simpler, More Productive Way to Work from Anywhere](https://slack.com/blog/news/redesigning-slack-ios26) (2025-11-18)
 - [Eight Internal Communications Best Practices You Should Know](https://slack.com/blog/collaboration/internal-communications-best-practices) (2025-11-17)
-- [How to Build an Internal Communication Strategy to Maximize Collaboration](https://slack.com/blog/collaboration/internal-communications-strategy) (2025-11-17)
-- [Employee Productivity Explanation and Tips for Improvement](https://slack.com/blog/productivity/employee-productivity) (2025-11-17)
-- [How to Choose the Best File-Sharing Solution for Your Business](https://slack.com/blog/collaboration/best-business-file-sharing-solutions) (2025-11-14)
 
 </details>
 
@@ -557,33 +561,33 @@ https://www.twilio.com/en-us/blog/developers/evaluating-voice-ai-agents
 <details>
 <summary>🤖 AI News</summary>
 
+- [Edge AI inside the human body: Cochlear’s machine learning implant breakthrough](https://www.artificialintelligence-news.com/news/edge-ai-medical-devices-cochlear-implants/) (2025-11-27)
 - [New Microsoft cloud updates support Indonesia’s long-term AI goals](https://www.artificialintelligence-news.com/news/new-microsoft-cloud-updates-support-indonesia-long-term-ai-goals/) (2025-11-26)
 - [Manufacturing’s pivot: AI as a strategic driver](https://www.artificialintelligence-news.com/news/manufacturings-pivot-ai-as-a-strategic-driver/) (2025-11-25)
 - [Adversarial learning breakthrough enables real-time AI security](https://www.artificialintelligence-news.com/news/adversarial-learning-breakthrough-real-time-ai-security/) (2025-11-25)
 - [e-Conomy SEA 2025: Malaysia takes 32% of regional AI funding](https://www.artificialintelligence-news.com/news/malaysia-ai-investment-32-percent-sea-funding-2025/) (2025-11-25)
-- [ZAYA1: AI model using AMD GPUs for training hits milestone](https://www.artificialintelligence-news.com/news/zaya1-ai-model-using-amd-gpus-for-training-hits-milestone/) (2025-11-24)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Implementing the Rock Paper Scissors Game in Python](https://towardsdatascience.com/implementing-the-rock-paper-scissors-game-in-python/) (2025-11-27)
 - [I Cleaned a Messy CSV File Using Pandas .  Here’s the Exact Process I Follow Every Time.](https://towardsdatascience.com/i-cleaned-a-messy-csv-file-using-pandas-heres-the-exact-process-i-follow-every-time/) (2025-11-26)
 - [RISAT’s Silent Promise: Decoding Disasters with Synthetic Aperture Radar](https://towardsdatascience.com/risats-silent-promise-decoding-disasters-with-synthetic-aperture-radar/) (2025-11-26)
 - [How I Use AI to Convince Companies to Adopt Sustainability](https://towardsdatascience.com/how-i-use-ai-to-convince-companies-to-adopt-sustainability/) (2025-11-26)
 - [Why CrewAI’s Manager-Worker Architecture Fails — and How to Fix It](https://towardsdatascience.com/why-crewais-manager-worker-architecture-fails-and-how-to-fix-it/) (2025-11-25)
-- [How to Implement Three Use Cases for the New Calendar-Based Time Intelligence](https://towardsdatascience.com/use-cases-for-the-new-calendar-based-time-intelligence/) (2025-11-25)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Getting Started with Langfuse [2026 Guide]](https://www.analyticsvidhya.com/blog/2025/11/langfuse-guide/) (2025-11-27)
+- [How to Use KV Caching in LLMs?](https://www.analyticsvidhya.com/blog/2025/11/kv-caching-guide/) (2025-11-27)
 - [SAM3: Revolutionizing Image and Video Processing](https://www.analyticsvidhya.com/blog/2025/11/sam3-revolutionizing-image-video-processing/) (2025-11-27)
 - [Edit your Photos like a Pro with the new Nano Banana Pro](https://www.analyticsvidhya.com/blog/2025/11/edit-your-photos-like-a-pro-with-the-new-nano-banana-pro/) (2025-11-26)
 - [Claude Opus 4.5: The Best AI Coding Model!](https://www.analyticsvidhya.com/blog/2025/11/claude-opus-4-5/) (2025-11-26)
-- [New ChatGPT Shopping Research is the End of Endless Product Scrolling](https://www.analyticsvidhya.com/blog/2025/11/chatgpt-shopping-research/) (2025-11-26)
-- [Mastering Gemini 3 Pro API: A Complete Developer’s Guide](https://www.analyticsvidhya.com/blog/2025/11/gemini-3-pro-api/) (2025-11-25)
 
 </details>
 
