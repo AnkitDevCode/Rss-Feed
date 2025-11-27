@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Breaking down the boom in the Nordic’s startup ecosystem](https://techcrunch.com/2025/11/26/breaking-down-the-boom-in-the-nordics-startup-ecosystem/) (2025-11-26)
-- [Musk’s xAI to build small solar farm adjacent to Colossus data center](https://techcrunch.com/2025/11/26/musks-xai-to-build-small-solar-farm-adjacent-to-colossus-data-center/) (2025-11-26)
-- [Are you balding? There’s an AI for that](https://techcrunch.com/2025/11/26/are-you-balding-theres-an-ai-for-that/) (2025-11-26)
-- [Bug in jury systems used by several US states exposed sensitive personal data](https://techcrunch.com/2025/11/26/bug-in-jury-systems-used-by-several-us-states-exposed-sensitive-personal-data/) (2025-11-26)
-- [Onton raises $7.5M to expand its AI-powered shopping site beyond furniture](https://techcrunch.com/2025/11/26/onton-raises-7-5m-to-expand-its-ai-powered-shopping-site-beyond-furniture/) (2025-11-26)
+- [Nordic founders are taking bigger swings, and it’s paying off](https://techcrunch.com/video/nordic-founders-are-taking-bigger-swings-and-its-paying-off/) (2025-11-26)
+- [Here are the 49 US AI startups that have raised $100M or more in 2025](https://techcrunch.com/2025/11/26/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/) (2025-11-26)
+- [JustiGuide wants to use AI to help people navigate the US immigration system ](https://techcrunch.com/2025/11/26/justiguide-wants-to-use-ai-to-help-people-navigate-the-u-s-immigration-system/) (2025-11-26)
+- [OpenAI claims teen circumvented safety features before suicide that ChatGPT helped plan](https://techcrunch.com/2025/11/26/openai-claims-teen-circumvented-safety-features-before-suicide-that-chatgpt-helped-plan/) (2025-11-26)
+- [Redwood Materials reportedly cuts 5% of staff after $350M raise](https://techcrunch.com/2025/11/26/redwood-materials-reportedly-cuts-5-of-staff-after-350m-raise/) (2025-11-26)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Scaleway turns Mac minis into high‑density, Raspberry Pi–managed servers](https://www.scaleway.com/en/blog/how-we-turn-apples-mac-mini-into-high-performance-dedicated-servers/) (2025-11-26)
-- [GrapheneOS is leaving France after receiving threats from law enforcement](https://grapheneos.social/@GrapheneOS/115606319562587450) (2025-11-26)
-- [DRAM prices are spiking, but I don't trust the industry's why](https://www.xda-developers.com/dram-prices-spiking-dont-trust-industry-reasons/) (2025-11-26)
-- [Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng](https://www.optery.com/careers/) (2025-11-26)
-- [Cloudflare outage should not have happened](https://ebellani.github.io/blog/2025/cloudflare-outage-should-not-have-happened-and-they-seem-to-be-missing-the-point-on-how-to-avoid-it-in-the-future/) (2025-11-26)
+- [AdBlock and Signal are for terrorists, according to the French government [video]](https://www.youtube.com/watch?v=1q1hjmwLqe4) (2025-11-27)
+- [Crypto hoarders dump tokens as shares tumble](https://arstechnica.com/information-technology/2025/11/crypto-hoarders-dump-tokens-as-shares-tumble/) (2025-11-27)
+- [Sutskever and LeCun: Scaling LLMs Won't Yield More Useful Results](https://www.abzglobal.net/web-development-blog/ilya-sutskever-yann-lecun-and-the-end-of-just-add-gpus) (2025-11-26)
+- [C100 Developer Terminal](https://caligra.com/) (2025-11-26)
+- [Running Unsupported iOS on Deprecated Devices](https://nyansatan.github.io/run-unsupported-ios/) (2025-11-26)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Microsoft’s latest 13-inch Surface Laptop is down to $549.99, a new record low price](https://www.theverge.com/gadgets/830182/microsoft-surface-laptop-black-friday-2025-deal-sale) (2025-11-26)
-- [Fanttik&#8217;s portable tire inflator has hit an all-time low for Black Friday](https://www.theverge.com/gadgets/829971/fanttik-x8-tire-inflator-black-friday-deal-sale) (2025-11-26)
-- [The Verge’s 2025 holiday gift guide](https://www.theverge.com/tech/809421/holiday-gift-guide-2025) (2025-11-26)
-- [You can play classic Nintendo games on these custom SNES-inspired Nike sneakers](https://www.theverge.com/news/829880/gustavo-bonzanini-nike-air-max-90-sneaker-super-nintendo) (2025-11-26)
-- [What the leaked AI executive order tells us about the Big Tech power grab](https://www.theverge.com/column/829938/leaked-ai-executive-order-analysis) (2025-11-26)
+- [Stranger Things 5 begins with a frantic race to the finish line](https://www.theverge.com/entertainment/830518/stranger-things-5-review-part-one) (2025-11-27)
+- [Apple TV pulls The Hunt over plagiarism accusation](https://www.theverge.com/news/831227/apple-tv-the-hunt-plagiarism) (2025-11-27)
+- [OpenAI denies liability in teen suicide lawsuit, cites ‘misuse’ of ChatGPT](https://www.theverge.com/news/831207/openai-chatgpt-lawsuit-parental-controls-tos) (2025-11-27)
+- [This $1,400 Steam Machine alternative houses a tiny desktop GPU](https://www.theverge.com/games/831106/minisforum-g1-pro-mini-pc-price-release-date) (2025-11-26)
+- [Strong iPhone 17 sales may push Apple ahead of Samsung this year](https://www.theverge.com/news/831048/apple-iphone-17-samsung-galaxy-s25-top-sales-2025) (2025-11-26)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Crypto hoarders dump tokens as shares tumble](https://arstechnica.com/information-technology/2025/11/crypto-hoarders-dump-tokens-as-shares-tumble/) (2025-11-26)
-- [Tech firm’s new CTO gets indicted; company then claims he was never CTO](https://arstechnica.com/tech-policy/2025/11/tech-firms-new-cto-gets-indicted-company-then-claims-he-was-never-cto/) (2025-11-26)
-- [Many genes associated with dog behavior influence human personalities, too](https://arstechnica.com/science/2025/11/many-genes-associated-with-dog-behavior-influence-human-personalities-too/) (2025-11-26)
-- [There may not be a safe off-ramp for some taking GLP-1 drugs, study suggests](https://arstechnica.com/health/2025/11/glp-1-drugs-improve-heart-health-but-only-if-you-keep-taking-them/) (2025-11-25)
-- [Plex’s crackdown on free remote streaming access starts this week](https://arstechnica.com/gadgets/2025/11/plexs-crackdown-on-free-remote-streaming-access-starts-this-week/) (2025-11-25)
+- [ULA aimed to launch up to 10 Vulcan rockets this year—it will fly just once](https://arstechnica.com/space/2025/11/ula-aimed-to-launch-up-to-10-vulcan-rockets-this-year-it-will-fly-just-once/) (2025-11-26)
+- [Solar’s growth in US almost enough to offset rising energy use](https://arstechnica.com/science/2025/11/solars-growth-in-us-almost-enough-to-offset-rising-energy-use/) (2025-11-26)
+- [RFK Jr.’s new CDC deputy director prefers “natural immunity” over vaccines](https://arstechnica.com/health/2025/11/rfk-jr-s-new-cdc-deputy-director-prefers-natural-immunity-over-vaccines/) (2025-11-26)
+- [OpenAI says dead teen violated TOS when he used ChatGPT to plan suicide](https://arstechnica.com/tech-policy/2025/11/openai-says-dead-teen-violated-tos-when-he-used-chatgpt-to-plan-suicide/) (2025-11-26)
+- [HP plans to save millions by laying off thousands, ramping up AI use](https://arstechnica.com/information-technology/2025/11/hp-plans-to-save-millions-by-laying-off-thousands-ramping-up-ai-use/) (2025-11-26)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Type hints in Python (6)](https://dev.to/hyperkai/type-hints-in-python-6-5d84) (2025-11-26)
-- [Mastering Python Code Quality: A No-Nonsense Guide to Tools That Actually Prevent Technical Debt](https://dev.to/djinn-soul/-mastering-python-code-quality-a-no-nonsense-guide-to-tools-that-actually-prevent-technical-debt-21b2) (2025-11-26)
-- [Temporal Workflow Orchestration: Building Reliable Agentic AI Systems](https://dev.to/akki907/temporal-workflow-orchestration-building-reliable-agentic-ai-systems-3bpm) (2025-11-26)
-- [VueFinder — A Modern File Manager for Vue](https://dev.to/n1crack/vuefinder-a-modern-file-manager-for-vue-3ge5) (2025-11-26)
-- [My Journey Into Cloud Engineering: Embracing the Shift](https://dev.to/onuoha/my-journey-into-cloud-engineering-embracing-the-shift-2pi2) (2025-11-26)
+- [Supercharge Your TCJSGame: Introducing Sonic.js Performance Extension](https://dev.to/kehinde_owolabi_e2e54567a/supercharge-your-tcjsgame-introducing-sonicjs-performance-extension-15o9) (2025-11-27)
+- [Configure Azure Container Registry for a secure connection with Azure Container Apps](https://dev.to/lotanna_obianefo/configure-azure-container-registry-for-a-secure-connection-with-azure-container-apps-4peo) (2025-11-27)
+- [Converting Windows Text to Linux Format](https://dev.to/rosgluk/converting-windows-text-to-linux-format-4gep) (2025-11-27)
+- [The AI Revolution Is a Lie: 5 Surprising Truths About Why Your Company's Strategy Is Failing](https://dev.to/nantero/the-ai-revolution-is-a-lie-5-surprising-truths-about-why-your-companys-strategy-is-failing-k0h) (2025-11-27)
+- [Understanding Amazon CloudFront's New Flat-Rate Pricing](https://dev.to/aws-builders/understanding-amazon-cloudfronts-new-flat-rate-pricing-e9k) (2025-11-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Your Database Isn’t Slow — Your Queries Are Confused: How to Fix Hidden Inefficiencies](https://medium.com/@optimzationking2/your-database-isnt-slow-your-queries-are-confused-how-to-fix-hidden-inefficiencies-547faf585d76?source=rss------programming-5) (2025-11-26)
-- [Python’s Free-Threaded Future: How to Write Code for a Post-GIL World](https://medium.com/@muruganantham52524/pythons-free-threaded-future-how-to-write-code-for-a-post-gil-world-cb1064af600b?source=rss------programming-5) (2025-11-26)
-- [The Lambda Trap: When (and Why) to Kill Your Anonymous Functions](https://medium.com/@tihomir.manushev/the-lambda-trap-when-and-why-to-kill-your-anonymous-functions-da90ada1ca5e?source=rss------programming-5) (2025-11-26)
-- [From Go to Rust: What Senior Engineers Learn Immediately](https://medium.com/@gurucoding528/from-go-to-rust-what-senior-engineers-learn-immediately-fb2c5c5bdbab?source=rss------programming-5) (2025-11-26)
-- [I Benchmarked Go, Rust, Python, and Node. Only One Survived — Here’s What Really Happened](https://medium.com/@gurucoding528/i-benchmarked-go-rust-python-and-node-only-one-survived-heres-what-really-happened-8082dc40e313?source=rss------programming-5) (2025-11-26)
+- [09334082420شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@thran8792/09334082420%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-ef26d08db157?source=rss------programming-5) (2025-11-27)
+- [09334082420شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@thran8792/09334082420%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-835f540654f2?source=rss------programming-5) (2025-11-27)
+- [Mastering Version Control: Essential Techniques to Streamline Your Software Development Workflow](https://medium.com/@sunil17bbmp/mastering-version-control-essential-techniques-to-streamline-your-software-development-workflow-54d3a9917374?source=rss------programming-5) (2025-11-27)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmbvvvvcf10njjjk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e15320843e5e?source=rss------programming-5) (2025-11-27)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmbvvvvcf10njjjk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-f65a26f3c4ff?source=rss------programming-5) (2025-11-27)
 
 </details>
 
@@ -163,7 +163,7 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
-- [#WeArePlay: Solving the dinner dilemma - how Delish Kitchen empowers 13 million home cooks](https://android-developers.googleblog.com/2025/11/weareplay-solving-dinner-dilemma-how.html) (2025-11-25)
+- [#WeArePlay: Solving the dinner dilemma - how DELISH KITCHEN empowers 13 million home cooks](https://android-developers.googleblog.com/2025/11/weareplay-solving-dinner-dilemma-how.html) (2025-11-25)
 - [Fully Optimized: Wrapping up Performance Spotlight Week](https://android-developers.googleblog.com/2025/11/fully-optimized-wrapping-up-performance.html) (2025-11-21)
 - [Leveling Guide for your Performance Journey](https://android-developers.googleblog.com/2025/11/leveling-guide-for-your-performance.html) (2025-11-20)
 - [Jetpack Navigation 3 is stable](https://android-developers.googleblog.com/2025/11/jetpack-navigation-3-is-stable.html) (2025-11-19)
@@ -262,11 +262,11 @@
 <details>
 <summary>📦 Dropbox Tech Blog</summary>
 
+- [Building the future: highlights from Dropbox’s 2025 summer intern class](https://dropbox.tech/culture/highlights-from-dropbox-2025-summer-intern-class) (2025-11-26)
 - [How Dash uses context engineering for smarter AI](https://dropbox.tech/machine-learning/how-dash-uses-context-engineering-for-smarter-ai) (2025-11-17)
 - [With Mobius Labs' Aana models, we're bringing deeper multimodal understanding to Dropbox Dash](https://dropbox.tech/machine-learning/mobius-labs-aana-dropbox-multimodal-understanding) (2025-10-23)
 - [Half-Quadratic Quantization of large machine learning models](https://dropbox.tech/machine-learning/halfquadratic-quantization-of-large-machine-learning-models) (2025-10-22)
 - [A practical blueprint for evaluating conversational AI at scale](https://dropbox.tech/machine-learning/practical-blueprint-evaluating-conversational-ai-at-scale-dash) (2025-10-02)
-- [Hack Week 2025: How these engineers liquid-cooled a GPU server](https://dropbox.tech/culture/hack-week-2025-liquid-cooling-gpu-server) (2025-08-27)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/developers/evaluating-voice-ai-agents
 <details>
 <summary>💬 Slack API</summary>
 
+- [How to Improve Organizational Communication at Work](https://slack.com/blog/collaboration/how-to-improve-organizational-communication-at-work) (2025-11-24)
+- [Applying Virtual Meeting Etiquette Rules: 12 Do’s and Don’ts](https://slack.com/blog/collaboration/applying-virtual-meeting-etiquette-rules-12-dos-and-donts) (2025-11-24)
+- [How Caraway Built a Nine-Figure Business In Slack](https://slack.com/blog/productivity/caraway-grows-with-slack) (2025-11-24)
 - [Slack for iOS 26: A Simpler, More Productive Way to Work from Anywhere](https://slack.com/blog/news/redesigning-slack-ios26) (2025-11-18)
 - [Eight Internal Communications Best Practices You Should Know](https://slack.com/blog/collaboration/internal-communications-best-practices) (2025-11-17)
-- [How to Build an Internal Communication Strategy to Maximize Collaboration](https://slack.com/blog/collaboration/internal-communications-strategy) (2025-11-17)
-- [Employee Productivity Explanation and Tips for Improvement](https://slack.com/blog/productivity/employee-productivity) (2025-11-17)
-- [How to Choose the Best File-Sharing Solution for Your Business](https://slack.com/blog/collaboration/best-business-file-sharing-solutions) (2025-11-14)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/developers/evaluating-voice-ai-agents
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [I Cleaned a Messy CSV File Using Pandas .  Here’s the Exact Process I Follow Every Time.](https://towardsdatascience.com/i-cleaned-a-messy-csv-file-using-pandas-heres-the-exact-process-i-follow-every-time/) (2025-11-26)
 - [RISAT’s Silent Promise: Decoding Disasters with Synthetic Aperture Radar](https://towardsdatascience.com/risats-silent-promise-decoding-disasters-with-synthetic-aperture-radar/) (2025-11-26)
 - [How I Use AI to Convince Companies to Adopt Sustainability](https://towardsdatascience.com/how-i-use-ai-to-convince-companies-to-adopt-sustainability/) (2025-11-26)
 - [Why CrewAI’s Manager-Worker Architecture Fails — and How to Fix It](https://towardsdatascience.com/why-crewais-manager-worker-architecture-fails-and-how-to-fix-it/) (2025-11-25)
 - [How to Implement Three Use Cases for the New Calendar-Based Time Intelligence](https://towardsdatascience.com/use-cases-for-the-new-calendar-based-time-intelligence/) (2025-11-25)
-- [Ten Lessons of Building LLM Applications for Engineers](https://towardsdatascience.com/ten-lessons-of-building-llm-applications-for-engineers/) (2025-11-25)
 
 </details>
 
