@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The future will be explained to you in Palo Alto](https://techcrunch.com/2025/11/26/the-future-will-be-explained-to-you-in-palo-alto/) (2025-11-27)
 - [Nordic founders are taking bigger swings, and it’s paying off](https://techcrunch.com/video/nordic-founders-are-taking-bigger-swings-and-its-paying-off/) (2025-11-26)
 - [Here are the 49 US AI startups that have raised $100M or more in 2025](https://techcrunch.com/2025/11/26/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/) (2025-11-26)
 - [JustiGuide wants to use AI to help people navigate the US immigration system ](https://techcrunch.com/2025/11/26/justiguide-wants-to-use-ai-to-help-people-navigate-the-u-s-immigration-system/) (2025-11-26)
 - [OpenAI claims teen circumvented safety features before suicide that ChatGPT helped plan](https://techcrunch.com/2025/11/26/openai-claims-teen-circumvented-safety-features-before-suicide-that-chatgpt-helped-plan/) (2025-11-26)
-- [Redwood Materials reportedly cuts 5% of staff after $350M raise](https://techcrunch.com/2025/11/26/redwood-materials-reportedly-cuts-5-of-staff-after-350m-raise/) (2025-11-26)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [AdBlock and Signal are for terrorists, according to the French government [video]](https://www.youtube.com/watch?v=1q1hjmwLqe4) (2025-11-27)
-- [Crypto hoarders dump tokens as shares tumble](https://arstechnica.com/information-technology/2025/11/crypto-hoarders-dump-tokens-as-shares-tumble/) (2025-11-27)
-- [Sutskever and LeCun: Scaling LLMs Won't Yield More Useful Results](https://www.abzglobal.net/web-development-blog/ilya-sutskever-yann-lecun-and-the-end-of-just-add-gpus) (2025-11-26)
-- [C100 Developer Terminal](https://caligra.com/) (2025-11-26)
-- [Running Unsupported iOS on Deprecated Devices](https://nyansatan.github.io/run-unsupported-ios/) (2025-11-26)
+- [Coq: The World's Best Macro Assembler? [pdf] [2013]](https://nickbenton.name/coqasm.pdf) (2025-11-27)
+- [DIY NAS: 2026 Edition](https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html) (2025-11-27)
+- [Penpot: The Open-Source Figma](https://github.com/penpot/penpot) (2025-11-27)
+- [Functional Data Structures and Algorithms: a Proof Assistant Approach](https://fdsa-book.net/) (2025-11-27)
+- [Migrating the main Zig repository from GitHub to Codeberg](https://ziglang.org/news/migrating-from-github-to-codeberg/) (2025-11-27)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The best Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra) (2025-11-27)
+- [The best Black Friday deals we’ve found on TVs, laptops, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025) (2025-11-27)
 - [Stranger Things 5 begins with a frantic race to the finish line](https://www.theverge.com/entertainment/830518/stranger-things-5-review-part-one) (2025-11-27)
 - [Apple TV pulls The Hunt over plagiarism accusation](https://www.theverge.com/news/831227/apple-tv-the-hunt-plagiarism) (2025-11-27)
 - [OpenAI denies liability in teen suicide lawsuit, cites ‘misuse’ of ChatGPT](https://www.theverge.com/news/831207/openai-chatgpt-lawsuit-parental-controls-tos) (2025-11-27)
-- [This $1,400 Steam Machine alternative houses a tiny desktop GPU](https://www.theverge.com/games/831106/minisforum-g1-pro-mini-pc-price-release-date) (2025-11-26)
-- [Strong iPhone 17 sales may push Apple ahead of Samsung this year](https://www.theverge.com/news/831048/apple-iphone-17-samsung-galaxy-s25-top-sales-2025) (2025-11-26)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Supercharge Your TCJSGame: Introducing Sonic.js Performance Extension](https://dev.to/kehinde_owolabi_e2e54567a/supercharge-your-tcjsgame-introducing-sonicjs-performance-extension-15o9) (2025-11-27)
-- [Configure Azure Container Registry for a secure connection with Azure Container Apps](https://dev.to/lotanna_obianefo/configure-azure-container-registry-for-a-secure-connection-with-azure-container-apps-4peo) (2025-11-27)
-- [Converting Windows Text to Linux Format](https://dev.to/rosgluk/converting-windows-text-to-linux-format-4gep) (2025-11-27)
-- [The AI Revolution Is a Lie: 5 Surprising Truths About Why Your Company's Strategy Is Failing](https://dev.to/nantero/the-ai-revolution-is-a-lie-5-surprising-truths-about-why-your-companys-strategy-is-failing-k0h) (2025-11-27)
-- [Understanding Amazon CloudFront's New Flat-Rate Pricing](https://dev.to/aws-builders/understanding-amazon-cloudfronts-new-flat-rate-pricing-e9k) (2025-11-27)
+- [The Shopify products.json Trick: Scrape Any Store 25x Faster with Python](https://dev.to/dentedlogic/the-shopify-productsjson-trick-scrape-any-store-25x-faster-with-python-4p95) (2025-11-27)
+- [Project-Based Learning With 3D Design and Printing: Transforming Classrooms Through Creative Making](https://dev.to/julia970/project-based-learning-with-3d-design-and-printing-transforming-classrooms-through-creative-making-51k5) (2025-11-27)
+- [From PNG to PDF — Exploring the Design Behind PNG to PDF](https://dev.to/yabin/from-png-to-pdf-exploring-the-design-behind-png-to-pdf-4916) (2025-11-27)
+- [Building Better Governance: How Simulations Are Transforming Training for Public Servants](https://dev.to/simulationstrategist223/building-better-governance-how-simulations-are-transforming-training-for-public-servants-4n51) (2025-11-27)
+- [Building My Own HTTP Server in TypeScript](https://dev.to/elsad_humbetli_0971c995ce/building-my-own-http-server-in-typescript-51a) (2025-11-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09334082420شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@thran8792/09334082420%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-ef26d08db157?source=rss------programming-5) (2025-11-27)
-- [09334082420شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@thran8792/09334082420%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-835f540654f2?source=rss------programming-5) (2025-11-27)
-- [Mastering Version Control: Essential Techniques to Streamline Your Software Development Workflow](https://medium.com/@sunil17bbmp/mastering-version-control-essential-techniques-to-streamline-your-software-development-workflow-54d3a9917374?source=rss------programming-5) (2025-11-27)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmbvvvvcf10njjjk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e15320843e5e?source=rss------programming-5) (2025-11-27)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmbvvvvcf10njjjk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-f65a26f3c4ff?source=rss------programming-5) (2025-11-27)
+- [Speed Up Your Ecommerce Portal with PostgreSQL 18](https://medium.com/coding-nexus/speed-up-your-ecommerce-portal-with-postgresql-18-1c0642b2e805?source=rss------programming-5) (2025-11-27)
+- [Designing a View Count System That Can Take 100K Requests per Second](https://medium.com/@premchandak_11/designing-a-view-count-system-that-can-take-100k-requests-per-second-a39f34ce8730?source=rss------programming-5) (2025-11-27)
+- [What Tech Leaders Say About AI and Your Career, And What You Should Be Planning Now](https://medium.com/@ansam.yousry/what-tech-leaders-say-about-ai-and-your-career-and-what-you-should-be-planning-now-8d07b6ea9fff?source=rss------programming-5) (2025-11-27)
+- [Node.js vs Laravel: Which Backend Should You Choose in 2025?](https://medium.com/@abhijitnanda8249/node-js-vs-laravel-which-backend-should-you-choose-in-2025-a779e8d18c9e?source=rss------programming-5) (2025-11-27)
+- [Steam removes HORSES, a horror game off of their platform.](https://medium.com/@volkcolopatrion4/steam-removes-horses-a-horror-game-off-of-their-platform-3486a3a0dd31?source=rss------programming-5) (2025-11-27)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/developers/evaluating-voice-ai-agents
 <details>
 <summary>💬 Slack API</summary>
 
-- [How to Improve Organizational Communication at Work](https://slack.com/blog/collaboration/how-to-improve-organizational-communication-at-work) (2025-11-24)
-- [Applying Virtual Meeting Etiquette Rules: 12 Do’s and Don’ts](https://slack.com/blog/collaboration/applying-virtual-meeting-etiquette-rules-12-dos-and-donts) (2025-11-24)
-- [How Caraway Built a Nine-Figure Business In Slack](https://slack.com/blog/productivity/caraway-grows-with-slack) (2025-11-24)
 - [Slack for iOS 26: A Simpler, More Productive Way to Work from Anywhere](https://slack.com/blog/news/redesigning-slack-ios26) (2025-11-18)
 - [Eight Internal Communications Best Practices You Should Know](https://slack.com/blog/collaboration/internal-communications-best-practices) (2025-11-17)
+- [How to Build an Internal Communication Strategy to Maximize Collaboration](https://slack.com/blog/collaboration/internal-communications-strategy) (2025-11-17)
+- [Employee Productivity Explanation and Tips for Improvement](https://slack.com/blog/productivity/employee-productivity) (2025-11-17)
+- [How to Choose the Best File-Sharing Solution for Your Business](https://slack.com/blog/collaboration/best-business-file-sharing-solutions) (2025-11-14)
 
 </details>
 
@@ -579,11 +579,11 @@ https://www.twilio.com/en-us/blog/developers/evaluating-voice-ai-agents
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [SAM3: Revolutionizing Image and Video Processing](https://www.analyticsvidhya.com/blog/2025/11/sam3-revolutionizing-image-video-processing/) (2025-11-27)
 - [Edit your Photos like a Pro with the new Nano Banana Pro](https://www.analyticsvidhya.com/blog/2025/11/edit-your-photos-like-a-pro-with-the-new-nano-banana-pro/) (2025-11-26)
 - [Claude Opus 4.5: The Best AI Coding Model!](https://www.analyticsvidhya.com/blog/2025/11/claude-opus-4-5/) (2025-11-26)
 - [New ChatGPT Shopping Research is the End of Endless Product Scrolling](https://www.analyticsvidhya.com/blog/2025/11/chatgpt-shopping-research/) (2025-11-26)
 - [Mastering Gemini 3 Pro API: A Complete Developer’s Guide](https://www.analyticsvidhya.com/blog/2025/11/gemini-3-pro-api/) (2025-11-25)
-- [This is Why China is Going to Win the AI Race](https://www.analyticsvidhya.com/blog/2025/11/this-is-why-china-is-going-to-win-the-ai-race/) (2025-11-25)
 
 </details>
 
