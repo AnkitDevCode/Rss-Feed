@@ -31,44 +31,44 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [TigerStyle: Coding philosophy focused on safety, performance, dev experience](https://tigerstyle.dev/) (2025-11-28)
-- [Migrating to Positron, a next-generation data science IDE for Python and R](https://posit.co/blog/positron-migration-guides) (2025-11-28)
-- [Pocketbase – open-source realtime back end in 1 file](https://pocketbase.io/) (2025-11-28)
-- [China's BEV Trucks and the End of Diesel's Dominance](https://cleantechnica.com/2025/11/26/chinas-bev-trucks-and-the-end-of-diesels-dominance/) (2025-11-28)
-- [Overlord: AI accountability that watches over you](https://overlord.app/) (2025-11-28)
+- [A Tale of Four Fuzzers](https://tigerbeetle.com/blog/2025-11-28-tale-of-four-fuzzers/) (2025-11-28)
+- [Cats became our companions way later than you think](https://www.bbc.co.uk/news/articles/cq8dvdp9gn7o) (2025-11-28)
+- [Africa's forests have switched from absorbing to emitting carbon](https://phys.org/news/2025-11-africa-forests-absorbing-emitting-carbon.html) (2025-11-28)
+- [Google denies 'misleading' reports of Gmail using your emails to train AI](https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out) (2025-11-28)
+- [EU Council Approves New "Chat Control" Mandate Pushing Mass Surveillance](https://reclaimthenet.org/eu-council-approves-new-chat-control-mandate-pushing-mass-surveillance) (2025-11-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The DualSense Edge has fallen to one of the lowest we’ve seen for Black Friday](https://www.theverge.com/gadgets/822252/sony-dualsense-edge-controller-black-friday-deal-sale-2025) (2025-11-27)
-- [The Ray-Ban Meta smart glasses are at their best-ever price for Black Friday](https://www.theverge.com/gadgets/829574/ray-ban-meta-smart-glasses-gen-1-black-friday-deal-sale-2025) (2025-11-27)
-- [Dreame’s X40 Ultra is arguably the best robovac deal you can grab for Black Friday](https://www.theverge.com/gadgets/829006/dreame-x40-ultra-black-friday-2025-deal-sale) (2025-11-27)
-- [Philips Hue’s Festavia string lights are up to $158 off just in time for Christmas](https://www.theverge.com/gadgets/826881/philips-hue-festavia-govee-christmas-lights-black-friday-deal-2025) (2025-11-27)
-- [How Microsoft’s developers are using AI](https://www.theverge.com/tech/831379/microsoft-developer-ai-usage-stats-notepad) (2025-11-27)
+- [You can save 50 percent on robovacs from Roborock and Eufy for Black Friday](https://www.theverge.com/gadgets/828157/best-black-friday-robot-vacuum-mop-deals-sale-2025) (2025-11-28)
+- [I’ve covered Black Friday deals for ten years, ask me anything](https://www.theverge.com/gadgets/829295/black-friday-ama) (2025-11-28)
+- [My favorite Black Friday TV deals from Samsung, Sony, and others are up to 50% off](https://www.theverge.com/tech/829579/best-4k-tv-streaming-soundbar-blu-ray-player-deal-sale-black-friday) (2025-11-28)
+- [The best Black Friday deals on AirPods, AirTags, and other Apple gear](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025) (2025-11-28)
+- [The 148 best Black Friday deals we’ve found so far — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas) (2025-11-28)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [We put the new pocket-size vinyl format to the test—with mixed results](https://arstechnica.com/gadgets/2025/11/we-put-the-new-pocket-sized-vinyl-format-to-the-test-with-mixed-results/) (2025-11-28)
 - [Blast from the past: 15 movie gems of 1985](https://arstechnica.com/culture/2025/11/blast-from-the-past-15-movie-gems-of-1985/) (2025-11-27)
 - [Four-inch worm hatches in woman’s forehead, wriggles to her eyelid](https://arstechnica.com/health/2025/11/doctors-pull-4-inch-worm-out-of-womans-eyelid-after-monthlong-incubation/) (2025-11-27)
 - [ULA aimed to launch up to 10 Vulcan rockets this year—it will fly just once](https://arstechnica.com/space/2025/11/ula-aimed-to-launch-up-to-10-vulcan-rockets-this-year-it-will-fly-just-once/) (2025-11-26)
 - [Solar’s growth in US almost enough to offset rising energy use](https://arstechnica.com/science/2025/11/solars-growth-in-us-almost-enough-to-offset-rising-energy-use/) (2025-11-26)
-- [RFK Jr.’s new CDC deputy director prefers “natural immunity” over vaccines](https://arstechnica.com/health/2025/11/rfk-jr-s-new-cdc-deputy-director-prefers-natural-immunity-over-vaccines/) (2025-11-26)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [What we still don’t know about weight-loss drugs](https://www.technologyreview.com/2025/11/28/1128511/what-we-still-dont-know-about-weight-loss-drugs/) (2025-11-28)
 - [The Download: the fossil fuel elephant in the room, and better tests for endometriosis](https://www.technologyreview.com/2025/11/27/1128505/the-download-the-fossil-fuel-elephant-in-the-room-and-better-tests-for-endometriosis/) (2025-11-27)
 - [This year’s UN climate talks avoided fossil fuels, again](https://www.technologyreview.com/2025/11/27/1128443/climate-talks-fossil-fuels/) (2025-11-27)
 - [Moving toward LessOps with VMware-to-cloud migrations](https://www.technologyreview.com/2025/11/27/1128465/moving-toward-lessops-with-vmware-to-cloud-migrations/) (2025-11-27)
 - [The Download: AI and the economy, and slop for the masses](https://www.technologyreview.com/2025/11/26/1128459/the-download-ai-and-the-economy-and-slop-for-the-masses/) (2025-11-26)
-- [The AI Hype Index: The people can’t get enough of AI slop](https://www.technologyreview.com/2025/11/26/1128353/the-ai-hype-index-the-people-cant-get-enough-of-ai-slop/) (2025-11-26)
 
 </details>
 
@@ -97,22 +97,25 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why I’m Learning Web3: A 60-Day Journey from Beginner to DevRel/Community](https://dev.to/ribhavmodi/why-im-learning-web3-a-60-day-journey-from-beginner-to-devrelcommunity-1jb4) (2025-11-28)
-- [Azure Synapse vs Databricks: 10 Must-Know Differences (2025)](https://dev.to/chaos-genius/azure-synapse-vs-databricks-10-must-know-differences-2025-73p) (2025-11-28)
-- [NAS vs. Object Storage vs. JuiceFS: Storage Selection of Billion-Dollar Quantitative Firms](https://dev.to/daswu/nas-vs-object-storage-vs-juicefs-storage-selection-of-billion-dollar-quantitative-firms-1k37) (2025-11-28)
-- [Free Interactive SQL Practice Platform for Developers](https://dev.to/satish_kandala_bf356c7994/free-interactive-sql-practice-platform-for-developers-gk) (2025-11-28)
-- [🚀 Task #4 — GitHub Actions with CI + Docker + GitOps ArgoCD + GKE Cluster (CICD)](https://dev.to/latchudevops/task-4-github-actions-with-ci-docker-gitops-argocd-gke-cluster-cicd-2e9c) (2025-11-28)
+- [🚀 From Scattered Scripts to Product Hunt Launch: My Journey Building the Professional Automation Toolkit](https://dev.to/dopaminefiend/from-scattered-scripts-to-product-hunt-launch-my-journey-building-the-professional-automation-6b8) (2025-11-28)
+- [Vue tricks: smart layouts for VueJS](https://dev.to/nickpe/vue-tricks-smart-layouts-for-vuejs-8d5) (2025-11-28)
+- [get my first 1$, to prove me it's possible. I'am junior front end developer from Mali in west africa.](https://dev.to/m2aml/get-my-first-1-to-prove-me-its-possible-iam-junior-front-end-developer-from-mali-in-west-1041) (2025-11-28)
+- [useState in React Hook](https://dev.to/bharath_11/usestate-in-react-hook-43bd) (2025-11-28)
+- [Explore Private Plane Charter Benefits With First Book Never Miss](https://dev.to/anmaraviation/explore-private-plane-charter-benefits-with-first-book-never-miss-5930) (2025-11-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Final Python Cheat Sheet for Market Data Analysis in 2025](https://medium.com/coding-nexus/final-python-cheat-sheet-for-market-data-analysis-in-2025-3b32a18b5936?source=rss------programming-5) (2025-11-28)
-- [Solving Double Booking at Scale: System Design Patterns from Top Tech Companies](https://medium.com/@lucky292908/solving-double-booking-at-scale-system-design-patterns-from-top-tech-companies-3c57d444d086?source=rss------programming-5) (2025-11-28)
-- [CLI Productivity — mastering command-line shortcuts and aliases](https://medium.com/@vallabhsangale7/cli-productivity-mastering-command-line-shortcuts-and-aliases-28ceeb519559?source=rss------programming-5) (2025-11-28)
-- [7 Habits That Took Me from Junior to Mid Level Developer](https://medium.com/the-software-journal/7-habits-that-took-me-from-junior-to-mid-level-developer-6d9be1dfdefe?source=rss------programming-5) (2025-11-28)
-- [Java Records Are Quietly Killing DTOs — And Nobody Wants to Admit It](https://medium.com/@premchandak_11/java-records-are-quietly-killing-dtos-and-nobody-wants-to-admit-it-1d3df1357b2f?source=rss------programming-5) (2025-11-28)
+- [Your Senior Engineers Are Not Actually Senior](https://medium.com/lets-code-future/your-senior-engineers-are-not-actually-senior-3f4c6d9dbd41?source=rss------programming-5) (2025-11-28)
+- [What Is Java and Why Enterprises Still Rely on It](https://medium.com/@vallabhsangale7/what-is-java-and-why-enterprises-still-rely-on-it-5545dd946b22?source=rss------programming-5) (2025-11-28)
+- [0905.501.9190شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@p70821955/0905-501-9190%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e67f6dcd0f1d?source=rss------programming-5) (2025-11-28)
+- [0905.501.9190شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@p70821955/0905-501-9190%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-7d55807a1b71?source=rss------programming-5) (2025-11-28)
+- [0905.501.9190شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@yas865765/0905-501-9190%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-68e38d9a2b95?source=rss------programming-5) (2025-11-28)
 
 </details>
 
@@ -557,33 +560,33 @@ https://www.twilio.com/en-us/blog/developers/community/create-magic-link-laravel
 <details>
 <summary>🤖 AI News</summary>
 
+- [How background AI builds operational resilience & visible ROI](https://www.artificialintelligence-news.com/news/how-background-ai-builds-operational-resilience-visible-roi/) (2025-11-28)
 - [SAP outlines new approach to European AI and cloud sovereignty](https://www.artificialintelligence-news.com/news/sap-outlines-new-approach-to-european-ai-and-cloud-sovereignty/) (2025-11-27)
 - [How the MCP spec update boosts security as infrastructure scales](https://www.artificialintelligence-news.com/news/how-the-mcp-spec-update-boosts-security-as-infrastructure-scales/) (2025-11-27)
 - [Edge AI inside the human body: Cochlear’s machine learning implant breakthrough](https://www.artificialintelligence-news.com/news/edge-ai-medical-devices-cochlear-implants/) (2025-11-27)
 - [New Microsoft cloud updates support Indonesia’s long-term AI goals](https://www.artificialintelligence-news.com/news/new-microsoft-cloud-updates-support-indonesia-long-term-ai-goals/) (2025-11-26)
-- [Manufacturing’s pivot: AI as a strategic driver](https://www.artificialintelligence-news.com/news/manufacturings-pivot-ai-as-a-strategic-driver/) (2025-11-25)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Product Health Score: How I Reduced Critical Incidents by 35% with Unified Monitoring and n8n Automation](https://towardsdatascience.com/the-product-health-score-how-i-reduced-critical-incidents-by-35-with-unified-monitoring-and-n8n-automation/) (2025-11-28)
 - [TDS Newsletter: November Must-Reads on GraphRAG, ML Projects, LLM-Powered Time-Series Analysis, and More](https://towardsdatascience.com/tds-newsletter-november-must-reads-on-graphrag-ml-projects-llm-powered-time-series-analysis-and-more/) (2025-11-27)
 - [Neural Networks Are Blurry, Symbolic Systems Are Fragmented. Sparse Autoencoders Help Us Combine Them.](https://towardsdatascience.com/neuro-symbolic-systems-the-art-of-compromise-2/) (2025-11-27)
 - [Water Cooler Small Talk, Ep. 10: So, What About the AI Bubble?](https://towardsdatascience.com/water-cooler-small-talk-ep-10-so-what-about-the-ai-bubble/) (2025-11-27)
 - [Everyday Decisions are Noisier Than You Think — Here’s How AI Can Help Fix That](https://towardsdatascience.com/everyday-decisions-are-noisier-than-you-think-heres-how-ai-can-help-fix-that/) (2025-11-27)
-- [Implementing the Rock Paper Scissors Game in Python](https://towardsdatascience.com/implementing-the-rock-paper-scissors-game-in-python/) (2025-11-27)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [7 Latest AI Drops by Google Will Make You a Powerhouse at Work](https://www.analyticsvidhya.com/blog/2025/11/google-ai-drops/) (2025-11-28)
+- [GPU vs TPU: What’s the Difference?](https://www.analyticsvidhya.com/blog/2025/11/gpu-vs-tpu/) (2025-11-28)
 - [Getting Started with Langfuse [2026 Guide]](https://www.analyticsvidhya.com/blog/2025/11/langfuse-guide/) (2025-11-27)
 - [How to Use KV Caching in LLMs?](https://www.analyticsvidhya.com/blog/2025/11/kv-caching-guide/) (2025-11-27)
 - [SAM3: Revolutionizing Image and Video Processing](https://www.analyticsvidhya.com/blog/2025/11/sam3-revolutionizing-image-video-processing/) (2025-11-27)
-- [Edit your Photos like a Pro with the new Nano Banana Pro](https://www.analyticsvidhya.com/blog/2025/11/edit-your-photos-like-a-pro-with-the-new-nano-banana-pro/) (2025-11-26)
-- [Claude Opus 4.5: The Best AI Coding Model!](https://www.analyticsvidhya.com/blog/2025/11/claude-opus-4-5/) (2025-11-26)
 
 </details>
 
