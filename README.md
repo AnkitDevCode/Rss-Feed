@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Anduril’s autonomous weapons stumble in tests and combat, WSJ reports](https://techcrunch.com/2025/11/27/andurils-autonomous-weapons-stumble-in-tests-and-combat-wsj-reports/) (2025-11-28)
 - [This Thanksgiving’s real drama may be Michael Burry versus Nvidia](https://techcrunch.com/2025/11/27/this-thanksgivings-real-drama-may-be-michael-burry-versus-nvidia/) (2025-11-27)
 - [Best iPad apps for unleashing and exploring your creativity](https://techcrunch.com/2025/11/27/best-ipad-apps-for-unleashing-and-exploring-your-creativity/) (2025-11-27)
 - [Glīd won Startup Battlefield 2025 by building solutions to make logistics simpler, safer, and smarter](https://techcrunch.com/2025/11/27/glid-won-startup-battlefield-2025-by-building-solutions-to-make-logistics-simpler-safer-and-smarter/) (2025-11-27)
 - [The future will be explained to you in Palo Alto](https://techcrunch.com/2025/11/26/the-future-will-be-explained-to-you-in-palo-alto/) (2025-11-27)
-- [Nordic founders are taking bigger swings, and it’s paying off](https://techcrunch.com/video/nordic-founders-are-taking-bigger-swings-and-its-paying-off/) (2025-11-26)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [How Charles M Schulz created Charlie Brown and Snoopy (2024)](https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy) (2025-11-28)
-- [Bird flu viruses are resistant to fever, making them a major threat to humans](https://medicalxpress.com/news/2025-11-bird-flu-viruses-resistant-fever.html) (2025-11-27)
-- [Vsora Jotunn-8 5nm European inference chip](https://vsora.com/products/jotunn-8/) (2025-11-27)
-- [250MWh 'Sand Battery' to start construction in Finland](https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/) (2025-11-27)
-- [A Programmer-Friendly I/O Abstraction Over io_uring and kqueue](https://tigerbeetle.com/blog/2022-11-23-a-friendly-abstraction-over-iouring-and-kqueue/) (2025-11-27)
+- [TigerStyle: Coding philosophy focused on safety, performance, dev experience](https://tigerstyle.dev/) (2025-11-28)
+- [Migrating to Positron, a next-generation data science IDE for Python and R](https://posit.co/blog/positron-migration-guides) (2025-11-28)
+- [Pocketbase – open-source realtime back end in 1 file](https://pocketbase.io/) (2025-11-28)
+- [China's BEV Trucks and the End of Diesel's Dominance](https://cleantechnica.com/2025/11/26/chinas-bev-trucks-and-the-end-of-diesels-dominance/) (2025-11-28)
+- [Overlord: AI accountability that watches over you](https://overlord.app/) (2025-11-28)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Lightning-as-a-service for agriculture](https://stackoverflow.blog/2025/11/28/lightning-as-a-service-for-agriculture/) (2025-11-28)
 - [Essential ingredients for enterprise AI success](https://stackoverflow.blog/2025/11/25/essential-ingredients-for-enterprise-ai-success/) (2025-11-25)
 - [You’re probably underutilizing your GPUs](https://stackoverflow.blog/2025/11/25/you-re-probably-underutilizing-your-gpus/) (2025-11-25)
 - [Only you can stop AI database drops](https://stackoverflow.blog/2025/11/21/only-you-can-stop-ai-database-drops/) (2025-11-21)
 - [Community Products roadmap update, November 2025](https://stackoverflow.blog/2025/11/20/community-products-roadmap-update-november-2025/) (2025-11-20)
-- [Introducing Stack Internal: Powering the human intelligence layer of enterprise AI](https://stackoverflow.blog/2025/11/18/introducing-stack-internal-powering-the-human-intelligence-layer-of-enterprise-ai/) (2025-11-18)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Transform SDK Integration with Monetzly's Smart Ad Solutions](https://dev.to/monetzly/transform-sdk-integration-with-monetzlys-smart-ad-solutions-2d20) (2025-11-28)
-- [How Subtle UI Details Make Your Design Stand Out. Practical Techniques for Modern Interfaces](https://dev.to/jalen_lt/how-subtle-ui-details-make-your-design-stand-out-practical-techniques-for-modern-interfaces-1pfp) (2025-11-28)
-- [Java native hack](https://dev.to/crazyrunsnail/java-native-hack-2n6d) (2025-11-28)
-- [Uma Abordagem Funcional para Domain-Driven Design](https://dev.to/oliverigor27/uma-abordagem-funcional-para-domain-driven-design-51ii) (2025-11-28)
-- [SwiftUI Animation Masterclass — Springs, Curves & Smooth Motion](https://dev.to/sebastienlato/swiftui-animation-masterclass-springs-curves-smooth-motion-3e4o) (2025-11-28)
+- [Why I’m Learning Web3: A 60-Day Journey from Beginner to DevRel/Community](https://dev.to/ribhavmodi/why-im-learning-web3-a-60-day-journey-from-beginner-to-devrelcommunity-1jb4) (2025-11-28)
+- [Azure Synapse vs Databricks: 10 Must-Know Differences (2025)](https://dev.to/chaos-genius/azure-synapse-vs-databricks-10-must-know-differences-2025-73p) (2025-11-28)
+- [NAS vs. Object Storage vs. JuiceFS: Storage Selection of Billion-Dollar Quantitative Firms](https://dev.to/daswu/nas-vs-object-storage-vs-juicefs-storage-selection-of-billion-dollar-quantitative-firms-1k37) (2025-11-28)
+- [Free Interactive SQL Practice Platform for Developers](https://dev.to/satish_kandala_bf356c7994/free-interactive-sql-practice-platform-for-developers-gk) (2025-11-28)
+- [🚀 Task #4 — GitHub Actions with CI + Docker + GitOps ArgoCD + GKE Cluster (CICD)](https://dev.to/latchudevops/task-4-github-actions-with-ci-docker-gitops-argocd-gke-cluster-cicd-2e9c) (2025-11-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09055770486شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@bkjbguhibkbkjcuujvgjviobobovou/09055770486%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-c5fd9ff2cfb0?source=rss------programming-5) (2025-11-28)
-- [My Unilog Project: From an Idea to a Website](https://medium.com/@zoyayounas06/my-unilog-project-from-an-idea-to-a-website-f4477954d76a?source=rss------programming-5) (2025-11-28)
-- [09013027390شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@hngar620/09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-0f575d29575a?source=rss------programming-5) (2025-11-28)
-- [09013027390شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@hngar620/09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-34f5f76cb9d7?source=rss------programming-5) (2025-11-28)
-- [09013027390شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@ngarh2184/09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-7abbf6db7b2d?source=rss------programming-5) (2025-11-28)
+- [Final Python Cheat Sheet for Market Data Analysis in 2025](https://medium.com/coding-nexus/final-python-cheat-sheet-for-market-data-analysis-in-2025-3b32a18b5936?source=rss------programming-5) (2025-11-28)
+- [Solving Double Booking at Scale: System Design Patterns from Top Tech Companies](https://medium.com/@lucky292908/solving-double-booking-at-scale-system-design-patterns-from-top-tech-companies-3c57d444d086?source=rss------programming-5) (2025-11-28)
+- [CLI Productivity — mastering command-line shortcuts and aliases](https://medium.com/@vallabhsangale7/cli-productivity-mastering-command-line-shortcuts-and-aliases-28ceeb519559?source=rss------programming-5) (2025-11-28)
+- [7 Habits That Took Me from Junior to Mid Level Developer](https://medium.com/the-software-journal/7-habits-that-took-me-from-junior-to-mid-level-developer-6d9be1dfdefe?source=rss------programming-5) (2025-11-28)
+- [Java Records Are Quietly Killing DTOs — And Nobody Wants to Admit It](https://medium.com/@premchandak_11/java-records-are-quietly-killing-dtos-and-nobody-wants-to-admit-it-1d3df1357b2f?source=rss------programming-5) (2025-11-28)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/developers/community/create-magic-link-laravel
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [TDS Newsletter: November Must-Reads on GraphRAG, ML Projects, LLM-Powered Time-Series Analysis, and More](https://towardsdatascience.com/tds-newsletter-november-must-reads-on-graphrag-ml-projects-llm-powered-time-series-analysis-and-more/) (2025-11-27)
 - [Neural Networks Are Blurry, Symbolic Systems Are Fragmented. Sparse Autoencoders Help Us Combine Them.](https://towardsdatascience.com/neuro-symbolic-systems-the-art-of-compromise-2/) (2025-11-27)
 - [Water Cooler Small Talk, Ep. 10: So, What About the AI Bubble?](https://towardsdatascience.com/water-cooler-small-talk-ep-10-so-what-about-the-ai-bubble/) (2025-11-27)
 - [Everyday Decisions are Noisier Than You Think — Here’s How AI Can Help Fix That](https://towardsdatascience.com/everyday-decisions-are-noisier-than-you-think-heres-how-ai-can-help-fix-that/) (2025-11-27)
 - [Implementing the Rock Paper Scissors Game in Python](https://towardsdatascience.com/implementing-the-rock-paper-scissors-game-in-python/) (2025-11-27)
-- [I Cleaned a Messy CSV File Using Pandas .  Here’s the Exact Process I Follow Every Time.](https://towardsdatascience.com/i-cleaned-a-messy-csv-file-using-pandas-heres-the-exact-process-i-follow-every-time/) (2025-11-26)
 
 </details>
 
