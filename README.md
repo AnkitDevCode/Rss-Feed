@@ -20,9 +20,9 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [How Glīd won Startup Battlefield 2025: Mentorship, mission-focus, and meditation ](https://techcrunch.com/video/how-glid-won-startup-battlefield-2025-mentorship-mission-focus-and-meditation/) (2025-11-27)
+- [This Thanksgiving’s real drama may be Michael Burry versus Nvidia](https://techcrunch.com/2025/11/27/this-thanksgivings-real-drama-may-be-michael-burry-versus-nvidia/) (2025-11-27)
 - [Best iPad apps for unleashing and exploring your creativity](https://techcrunch.com/2025/11/27/best-ipad-apps-for-unleashing-and-exploring-your-creativity/) (2025-11-27)
-- [Glīd won Startup Battlefield 2025 by building solutions to make logistis simpler, safer, and smarter](https://techcrunch.com/2025/11/27/glid-won-startup-battlefield-2025-by-building-solutions-to-make-logistics-simpler-safer-and-smarter/) (2025-11-27)
+- [Glīd won Startup Battlefield 2025 by building solutions to make logistics simpler, safer, and smarter](https://techcrunch.com/2025/11/27/glid-won-startup-battlefield-2025-by-building-solutions-to-make-logistics-simpler-safer-and-smarter/) (2025-11-27)
 - [The future will be explained to you in Palo Alto](https://techcrunch.com/2025/11/26/the-future-will-be-explained-to-you-in-palo-alto/) (2025-11-27)
 - [Nordic founders are taking bigger swings, and it’s paying off](https://techcrunch.com/video/nordic-founders-are-taking-bigger-swings-and-its-paying-off/) (2025-11-26)
 
@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Input Stack on Linux: An End-to-End Architecture Overview](https://venam.net/blog/unix/2025/11/27/input_devices_linux.html) (2025-11-27)
-- [Seagate achieves 6.9TB storage capacity per platter](https://www.tomshardware.com/pc-components/hdds/seagate-achieves-a-whopping-6-9tb-storage-capacity-per-platter-in-its-laboratory-55tb-to-69tb-hard-drives-now-physically-possible) (2025-11-27)
-- [Pakistan says rooftop solar output to exceed grid demand in some hubs next year](https://www.reuters.com/sustainability/boards-policy-regulation/pakistan-says-rooftop-solar-output-exceed-grid-demand-some-hubs-next-year-2025-11-22/) (2025-11-27)
-- [The VanDersarl Blériot: a 1911 airplane homebuilt by teenage brothers](https://www.historynet.com/vandersarl-bleriot/) (2025-11-27)
-- [Same-day upstream Linux support for Snapdragon 8 Elite Gen 5](https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support) (2025-11-27)
+- [How Charles M Schulz created Charlie Brown and Snoopy (2024)](https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy) (2025-11-28)
+- [Bird flu viruses are resistant to fever, making them a major threat to humans](https://medicalxpress.com/news/2025-11-bird-flu-viruses-resistant-fever.html) (2025-11-27)
+- [Vsora Jotunn-8 5nm European inference chip](https://vsora.com/products/jotunn-8/) (2025-11-27)
+- [250MWh 'Sand Battery' to start construction in Finland](https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/) (2025-11-27)
+- [A Programmer-Friendly I/O Abstraction Over io_uring and kqueue](https://tigerbeetle.com/blog/2022-11-23-a-friendly-abstraction-over-iouring-and-kqueue/) (2025-11-27)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The DualSense Edge has fallen to one of the lowest we’ve seen for Black Friday](https://www.theverge.com/gadgets/822252/sony-dualsense-edge-controller-black-friday-deal-sale-2025) (2025-11-27)
+- [The Ray-Ban Meta smart glasses are at their best-ever price for Black Friday](https://www.theverge.com/gadgets/829574/ray-ban-meta-smart-glasses-gen-1-black-friday-deal-sale-2025) (2025-11-27)
+- [Dreame’s X40 Ultra is arguably the best robovac deal you can grab for Black Friday](https://www.theverge.com/gadgets/829006/dreame-x40-ultra-black-friday-2025-deal-sale) (2025-11-27)
 - [Philips Hue’s Festavia string lights are up to $158 off just in time for Christmas](https://www.theverge.com/gadgets/826881/philips-hue-festavia-govee-christmas-lights-black-friday-deal-2025) (2025-11-27)
 - [How Microsoft’s developers are using AI](https://www.theverge.com/tech/831379/microsoft-developer-ai-usage-stats-notepad) (2025-11-27)
-- [Watch how Apple made its new puppet-packed holiday ad](https://www.theverge.com/news/831431/apple-a-critter-carol-holiday-ad-puppets-practical-effects) (2025-11-27)
-- [A humanoid robot-shaped bubble is forming, China warns](https://www.theverge.com/news/831451/china-humanoid-robotics-bubble) (2025-11-27)
-- [Kuxiu’s solid-state power bank now has more capacity and faster wireless charging](https://www.theverge.com/news/831365/kuxiu-magsafe-semi-solid-state-wireless-power-bank-s3) (2025-11-27)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [🧪 05AB1E — Tiny Language, Big Chaos](https://dev.to/viz-x/05ab1e-tiny-language-big-chaos-3mma) (2025-11-27)
-- [Nano-Banana Pro: Prompting Guide & Strategies](https://dev.to/googleai/nano-banana-pro-prompting-guide-strategies-1h9n) (2025-11-27)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-4oho) (2025-11-27)
-- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-36aj) (2025-11-27)
-- [Mr Sunday Movies: John Carter - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-john-carter-caravan-of-garbage-4k1e) (2025-11-27)
+- [Transform SDK Integration with Monetzly's Smart Ad Solutions](https://dev.to/monetzly/transform-sdk-integration-with-monetzlys-smart-ad-solutions-2d20) (2025-11-28)
+- [How Subtle UI Details Make Your Design Stand Out. Practical Techniques for Modern Interfaces](https://dev.to/jalen_lt/how-subtle-ui-details-make-your-design-stand-out-practical-techniques-for-modern-interfaces-1pfp) (2025-11-28)
+- [Java native hack](https://dev.to/crazyrunsnail/java-native-hack-2n6d) (2025-11-28)
+- [Uma Abordagem Funcional para Domain-Driven Design](https://dev.to/oliverigor27/uma-abordagem-funcional-para-domain-driven-design-51ii) (2025-11-28)
+- [SwiftUI Animation Masterclass — Springs, Curves & Smooth Motion](https://dev.to/sebastienlato/swiftui-animation-masterclass-springs-curves-smooth-motion-3e4o) (2025-11-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Where To Put Validation in Clean Architecture (So It’s Obvious, Fast, and Never Leaks)](https://medium.com/@michaelmaurice410/where-to-put-validation-in-clean-architecture-so-its-obvious-fast-and-never-leaks-161bfd62f1dc?source=rss------programming-5) (2025-11-27)
-- [19minute 34 second viral video bangla mms videos BF](https://medium.com/@fadimeboudewijns/19minute-34-second-viral-video-bangla-mms-videos-bf-03bbde6c68ff?source=rss------programming-5) (2025-11-27)
-- [19minute 34 second viral video hindi mms videos BF](https://medium.com/@fadimeboudewijns/19minute-34-second-viral-video-hindi-mms-videos-bf-160e28116cda?source=rss------programming-5) (2025-11-27)
-- [Will This New EF Core Feature Be the End of Dapper?](https://medium.com/@maged_/will-this-new-ef-core-feature-be-the-end-of-dapper-92ce02e71d6b?source=rss------programming-5) (2025-11-27)
-- [How to Optimize EF Core Query Performance with Compiled Queries in .NET 9](https://medium.com/@mariammaurice/how-to-optimize-ef-core-query-performance-with-compiled-queries-in-net-9-e251ec57af70?source=rss------programming-5) (2025-11-27)
+- [09055770486شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@bkjbguhibkbkjcuujvgjviobobovou/09055770486%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-c5fd9ff2cfb0?source=rss------programming-5) (2025-11-28)
+- [My Unilog Project: From an Idea to a Website](https://medium.com/@zoyayounas06/my-unilog-project-from-an-idea-to-a-website-f4477954d76a?source=rss------programming-5) (2025-11-28)
+- [09013027390شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@hngar620/09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-0f575d29575a?source=rss------programming-5) (2025-11-28)
+- [09013027390شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@hngar620/09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-34f5f76cb9d7?source=rss------programming-5) (2025-11-28)
+- [09013027390شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@ngarh2184/09013027390%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-7abbf6db7b2d?source=rss------programming-5) (2025-11-28)
 
 </details>
 
