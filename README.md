@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [New York state law takes aim at personalized pricing](https://techcrunch.com/2025/11/29/new-york-state-law-takes-aim-at-personalized-pricing/) (2025-11-29)
+- [No, you can’t get your AI to ‘admit’ to being sexist, but it probably is](https://techcrunch.com/2025/11/29/no-you-cant-get-your-ai-to-admit-to-being-sexist-but-it-probably-is/) (2025-11-29)
 - [VC Kara Nortman bet early on women’s sports, and now she’s creating the market](https://techcrunch.com/2025/11/28/vc-kara-nortman-bet-early-on-womens-sports-and-now-shes-creating-the-market/) (2025-11-29)
 - [Supabase hit $5B by turning down million-dollar contracts. Here’s why.](https://techcrunch.com/video/supabase-hit-5b-by-turning-down-million-dollar-contracts-heres-why/) (2025-11-28)
 - [SoftBank stays in as Meesho $606M IPO becomes India’s first major e-commerce listing](https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing/) (2025-11-28)
-- [How OpenAI and Google see AI changing go-to-market strategies](https://techcrunch.com/2025/11/28/how-openai-and-google-see-ai-changing-go-to-market-strategies/) (2025-11-28)
-- [The race to regulate AI has sparked a federal vs state showdown](https://techcrunch.com/2025/11/28/the-race-to-regulate-ai-has-sparked-a-federal-vs-state-showdown/) (2025-11-28)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Belgian Police exposed using botnets to manipulate EU data law impact assessment](https://old.reddit.com/r/europe/comments/1p9kxhm/belgian_federal_police_forgot_to_turn_their_vpn/) (2025-11-29)
-- [High Air Pollution Could Diminish Exercise Benefits by 50%, Study Finds](https://scienceclock.com/exercise-may-protect-less-when-air-pollution-is-high-study-finds/) (2025-11-29)
-- [I Know We're in an AI Bubble Because Nobody Wants Me](https://petewarden.com/2025/11/29/i-know-were-in-an-ai-bubble-because-nobody-wants-me-%f0%9f%98%ad/) (2025-11-29)
-- [Garfield's Proof of the Pythagorean Theorem](https://en.wikipedia.org/wiki/Garfield%27s_proof_of_the_Pythagorean_theorem) (2025-11-29)
-- [System 7 natively boots on the Mac mini G4](https://macos9lives.com/smforum/index.php?topic=7711.0) (2025-11-29)
+- [Zero Knowlege Proof of Compositeness](https://www.johndcook.com/blog/2025/11/29/zkp-composite/) (2025-11-29)
+- [AccessOwl (YC S22) Is Hiring a Technical Account Manager (IAM)](https://www.ycombinator.com/companies/accessowl/jobs/dGC3pcO-technical-account-manager-identity-access-management) (2025-11-29)
+- [We're learning more about what Vitamin D does to our bodies](https://www.technologyreview.com/2025/11/21/1128206/vitamin-d-bodies-bone-health-immune/) (2025-11-29)
+- [Testing Shows Automotive Glassbreakers Can't Break Modern Automotive Glass](https://www.core77.com/posts/138925/Testing-Shows-Automotive-Glassbreakers-Cant-Break-Modern-Automotive-Glass) (2025-11-29)
+- [Major AI conference flooded with peer reviews written by AI](https://www.nature.com/articles/d41586-025-03506-6) (2025-11-29)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [All the places I used my Trump Mobile wireless service this week](https://www.theverge.com/tech/829414/trump-mobile-mvno-wireless-service-test) (2025-11-29)
-- [The 194 best Black Friday deals you can still shop — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas) (2025-11-29)
-- [The best Black Friday deals you can still get on AirTags, iPad, and other Apple gear](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025) (2025-11-29)
-- [Philips Hue’s Festavia string lights are nearly $60 off (and still available) for Black Friday](https://www.theverge.com/gadgets/826881/philips-hue-festavia-govee-christmas-lights-black-friday-deal-2025) (2025-11-29)
-- [The Verge’s guide to Black Friday 2025](https://www.theverge.com/tech/808624/black-friday-cyber-monday-guide-2025) (2025-11-29)
+- [The Super Mario Galaxy bundle for the Switch is still 20 percent off](https://www.theverge.com/gadgets/832513/black-friday-super-mario-galaxy-bundle-switch-deal-sale-2025) (2025-11-29)
+- [These are my picks for the best Black Friday deals on Garmin watches](https://www.theverge.com/gadgets/833297/best-garmin-watch-black-friday-deal-sale) (2025-11-29)
+- [Black Friday deals are still going strong on Apple AirTags, iPads, and more](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025) (2025-11-29)
+- [The 195 Black Friday deals you can still get](https://www.theverge.com/gadgets/832641/black-friday-2025-best-deals-tech-gadgets-still-available) (2025-11-29)
+- [97 percent of people struggle to identify AI music, but it’s not as bad as it seems](https://www.theverge.com/entertainment/830393/ai-music-deezer-survey-spotify) (2025-11-29)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Achieving lasting remission for HIV](https://arstechnica.com/science/2025/11/achieving-lasting-remission-for-hiv/) (2025-11-29)
 - [Before a Soyuz launch Thursday someone forgot to secure a 20-ton service platform](https://arstechnica.com/space/2025/11/russian-launch-pad-incident-raises-concerns-about-future-of-space-station/) (2025-11-28)
 - [Here are the best Black Friday deals we can find](https://arstechnica.com/shopping/2025/11/here-are-the-best-black-friday-deals-we-can-find/) (2025-11-28)
 - [Reintroduced carnivores’ impacts on ecosystems are still coming into focus](https://arstechnica.com/science/2025/11/reintroduced-carnivores-impacts-on-ecosystems-are-still-coming-into-focus/) (2025-11-28)
 - [We put the new pocket-size vinyl format to the test—with mixed results](https://arstechnica.com/gadgets/2025/11/we-put-the-new-pocket-sized-vinyl-format-to-the-test-with-mixed-results/) (2025-11-28)
-- [Blast from the past: 15 movie gems of 1985](https://arstechnica.com/culture/2025/11/blast-from-the-past-15-movie-gems-of-1985/) (2025-11-27)
 
 </details>
 
@@ -97,22 +97,25 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [WE'RE LIVE ON PRODUCT HUNT](https://dev.to/meysam81/were-live-on-product-hunt-2n4) (2025-11-29)
-- [The Tiny Engineering Challenge: Why Smartwatch Firmware Failures Are a Data Recovery Nightmare](https://dev.to/sampurnakart/the-tiny-engineering-challenge-why-smartwatch-firmware-failures-are-a-data-recovery-nightmare-3pof) (2025-11-29)
-- [404ping v2 — The API Testing CLI That Went From Side-Project to Beast Mode 💥](https://dev.to/toklas495/404ping-v2-the-api-testing-cli-that-went-from-side-project-to-beast-mode-3a6b) (2025-11-29)
-- [The Great Retraining](https://dev.to/rawveg/the-great-retraining-jp) (2025-11-29)
-- [Qeltrix: One Vision, Multiple Proofs-of-Concept](https://dev.to/hejhdiss/qeltrix-one-vision-multiple-proofs-of-concept-2bgk) (2025-11-29)
+- [Google's Antigravity Hacked in 24 Hours: Why AI Agents Need a New Security Architecture](https://dev.to/hofong428/googles-antigravity-hacked-in-24-hours-why-ai-agents-need-a-new-security-architecture-5bo5) (2025-11-29)
+- [Rick Beato: I Never Realized This Beatles Song Was Played Like This](https://dev.to/music_youtube/rick-beato-i-never-realized-this-beatles-song-was-played-like-this-59p9) (2025-11-29)
+- [Algorithmic Audio Workflows: From Source Separation to Generative Synthesis](https://dev.to/kokis_jorge_f43c7beb9b951/algorithmic-audio-workflows-from-source-separation-to-generative-synthesis-4mml) (2025-11-29)
+- [Untitled](https://dev.to/danawitbelay332debug/untitled-4269) (2025-11-29)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3jbd) (2025-11-29)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09370750325](https://medium.com/@juiiyddgfddtr/09370750325-43fecbe8e7a5?source=rss------programming-5) (2025-11-29)
-- [09370750325](https://medium.com/@juiiyddgfddtr/09370750325-293537eddb2b?source=rss------programming-5) (2025-11-29)
-- [What You Need to Know About Manus AI By Martin Onyisi](https://martonyvianney.medium.com/what-you-need-to-know-about-manus-ai-by-martin-onyisi-071bb18b078b?source=rss------programming-5) (2025-11-29)
-- [Cooking the Perfect ReactJS Setup with Vite, Tailwind & ShadCN.](https://medium.com/@TheAkshayKhale/cooking-the-perfect-reactjs-setup-with-vite-tailwind-shadcn-e9dd0bf817b6?source=rss------programming-5) (2025-11-29)
-- [full clip nguyễn xuân đạt nguyễn xuân đạt tài liệu 88](https://medium.com/@annageisler/full-clip-nguy%E1%BB%85n-xu%C3%A2n-%C4%91%E1%BA%A1t-nguy%E1%BB%85n-xu%C3%A2n-%C4%91%E1%BA%A1t-t%C3%A0i-li%E1%BB%87u-88-6ed587c27f3d?source=rss------programming-5) (2025-11-29)
+- [This One Line of Code Stopped Our AI System From Bankrupting Itself — The Wild Truth Behind It](https://medium.com/@suryawanshiaditya159/this-one-line-of-code-stopped-our-ai-system-from-bankrupting-itself-the-wild-truth-behind-it-00af0f4ffb95?source=rss------programming-5) (2025-11-29)
+- [Smart AI Assistants for Busy Professionals](https://medium.com/@vedax2005/smart-ai-assistants-for-busy-professionals-51da95e94030?source=rss------programming-5) (2025-11-29)
+- [09010712940شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@khalhshyrazkhalhshyraz/09010712940%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-b0366fd26a39?source=rss------programming-5) (2025-11-29)
+- [09010712940شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@khalhshyrazkhalhshyraz/09010712940%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-14f0b9fd9953?source=rss------programming-5) (2025-11-29)
+- [0936 062 7233شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران…](https://medium.com/@whhwbsbiebsii/0936-062-7233-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-3615a68448ec?source=rss------programming-5) (2025-11-29)
 
 </details>
 
@@ -130,11 +133,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Introducing Claude Opus 4.5 in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/) (2025-11-24)
 - [Microsoft Foundry: Scale innovation on a modular, interoperable, and secure agent stack](https://azure.microsoft.com/en-us/blog/microsoft-foundry-scale-innovation-on-a-modular-interoperable-and-secure-agent-stack/) (2025-11-18)
 - [Azure at Microsoft Ignite 2025: All the intelligent cloud news explained](https://azure.microsoft.com/en-us/blog/azure-at-microsoft-ignite-2025-all-the-intelligent-cloud-news-explained/) (2025-11-18)
 - [Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate](https://azure.microsoft.com/en-us/blog/microsoft-databases-and-microsoft-fabric-your-unified-and-ai-powered-data-estate/) (2025-11-18)
 - [Announcing Azure Copilot agents and AI infrastructure innovations](https://azure.microsoft.com/en-us/blog/announcing-azure-copilot-agents-and-ai-infrastructure-innovations/) (2025-11-18)
-- [Introducing Anthropic’s Claude models in Microsoft Foundry: Bringing Frontier intelligence to Azure](https://azure.microsoft.com/en-us/blog/introducing-anthropics-claude-models-in-microsoft-foundry-bringing-frontier-intelligence-to-azure/) (2025-11-18)
 
 </details>
 
@@ -362,11 +365,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-What you should know about Australia's new SMS Sender ID Register 
-](
-https://www.twilio.com/en-us/blog/insights/australia-sender-id-register
-) (2025-11-27)
-- [
 Build a Smart QA ChatOps Assistant with Playwright, Twilio WhatsApp, LLMs, and MCP
 ](
 https://www.twilio.com/en-us/blog/developers/community/build-smart-qa-chatops-assistant-playwright-twilio-whatsapp-llms-mcp
@@ -386,6 +384,11 @@ Launch WhatsApp faster with Twilio: Senders API GA, plus Typing Indicators, Flow
 ](
 https://www.twilio.com/en-us/blog/products/launches/launch-whatsapp-faster-with-twilio--senders-api-ga--plus-typing-
 ) (2025-11-19)
+- [
+How to Create a Magic Link in Laravel with Twilio SMS
+](
+https://www.twilio.com/en-us/blog/developers/community/create-magic-link-laravel-twilio-sms
+) (2025-11-18)
 
 </details>
 
@@ -568,11 +571,11 @@ https://www.twilio.com/en-us/blog/products/launches/launch-whatsapp-faster-with-
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Metric Deception: When Your Best KPIs Hide Your Worst Failures](https://towardsdatascience.com/metric-deception-when-your-best-kpis-hide-your-worst-failures/) (2025-11-29)
+- [How to Scale Your LLM Usage](https://towardsdatascience.com/how-to-scale-your-llm-usage/) (2025-11-29)
 - [Data Science in 2026: Is It Still Worth It?](https://towardsdatascience.com/data-science-in-2026-is-it-still-worth-it/) (2025-11-28)
 - [Why We’ve Been Optimizing the Wrong Thing in LLMs for Years](https://towardsdatascience.com/why-weve-been-optimizing-the-wrong-thing-in-llms-for-years/) (2025-11-28)
 - [The Product Health Score: How I Reduced Critical Incidents by 35% with Unified Monitoring and n8n Automation](https://towardsdatascience.com/the-product-health-score-how-i-reduced-critical-incidents-by-35-with-unified-monitoring-and-n8n-automation/) (2025-11-28)
-- [TDS Newsletter: November Must-Reads on GraphRAG, ML Projects, LLM-Powered Time-Series Analysis, and More](https://towardsdatascience.com/tds-newsletter-november-must-reads-on-graphrag-ml-projects-llm-powered-time-series-analysis-and-more/) (2025-11-27)
-- [Neural Networks Are Blurry, Symbolic Systems Are Fragmented. Sparse Autoencoders Help Us Combine Them.](https://towardsdatascience.com/neuro-symbolic-systems-the-art-of-compromise-2/) (2025-11-27)
 
 </details>
 
