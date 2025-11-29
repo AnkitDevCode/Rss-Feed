@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The 'S&P 493' reveals a different U.S. economy](https://www.msn.com/en-us/money/markets/the-s-p-493-reveals-a-very-different-us-economy/ar-AA1R1VUJ) (2025-11-29)
+- [Belgian Police exposed using botnets to manipulate EU data law impact assessment](https://old.reddit.com/r/europe/comments/1p9kxhm/belgian_federal_police_forgot_to_turn_their_vpn/) (2025-11-29)
+- [High Air Pollution Could Diminish Exercise Benefits by 50%, Study Finds](https://scienceclock.com/exercise-may-protect-less-when-air-pollution-is-high-study-finds/) (2025-11-29)
+- [I Know We're in an AI Bubble Because Nobody Wants Me](https://petewarden.com/2025/11/29/i-know-were-in-an-ai-bubble-because-nobody-wants-me-%f0%9f%98%ad/) (2025-11-29)
+- [Garfield's Proof of the Pythagorean Theorem](https://en.wikipedia.org/wiki/Garfield%27s_proof_of_the_Pythagorean_theorem) (2025-11-29)
 - [System 7 natively boots on the Mac mini G4](https://macos9lives.com/smforum/index.php?topic=7711.0) (2025-11-29)
-- [Every mathematician has only a few tricks (2020)](https://mathoverflow.net/questions/363119/every-mathematician-has-only-a-few-tricks) (2025-11-29)
-- [A triangle whose interior angles sum to zero](https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/) (2025-11-29)
-- [Fabric Project](https://github.com/Fabric-Project/Fabric) (2025-11-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The 192 best Black Friday deals you can still shop — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas) (2025-11-29)
+- [All the places I used my Trump Mobile wireless service this week](https://www.theverge.com/tech/829414/trump-mobile-mvno-wireless-service-test) (2025-11-29)
+- [The 194 best Black Friday deals you can still shop — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas) (2025-11-29)
+- [The best Black Friday deals you can still get on AirTags, iPad, and other Apple gear](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025) (2025-11-29)
+- [Philips Hue’s Festavia string lights are nearly $60 off (and still available) for Black Friday](https://www.theverge.com/gadgets/826881/philips-hue-festavia-govee-christmas-lights-black-friday-deal-2025) (2025-11-29)
 - [The Verge’s guide to Black Friday 2025](https://www.theverge.com/tech/808624/black-friday-cyber-monday-guide-2025) (2025-11-29)
-- [The M4 MacBook Air is one of the best Apple deals you can get for Black Friday](https://www.theverge.com/gadgets/832969/black-friday-macbook-air-m4-13-15-inch-deal-sale-2025) (2025-11-29)
-- [These 50 handpicked Black Friday deals are still available for $50 or less](https://www.theverge.com/gadgets/829553/black-friday-best-cheap-tech-deals-under-50-2025) (2025-11-29)
-- [Aura’s latest, gift-worthy digital photo frame is $30 off for Black Friday](https://www.theverge.com/gadgets/832496/black-friday-aura-aspen-digital-photo-frame-deal-sale-2025) (2025-11-29)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [A Secret-Scoped Semantic Value That Can Be “Pulled” Into a Public Block Without Revealing Its Origin](https://dev.to/suign/a-secret-scoped-semantic-value-that-can-be-pulled-into-a-public-block-without-revealing-its-origin-5hi0) (2025-11-29)
-- [A Day With Perplexity’s Comet AI Browser: Time-Saver or Hype?](https://dev.to/aiwithapex/a-day-with-perplexitys-comet-ai-browser-time-saver-or-hype-5h4p) (2025-11-29)
-- [The €15,000 Contract Mistake That Almost Sank My Client's Deal](https://dev.to/tracksimple/the-eu15000-contract-mistake-that-almost-sank-my-clients-deal-5dpe) (2025-11-29)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1oef) (2025-11-29)
-- [Mr Sunday Movies: The Sorcerer's Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-31p4) (2025-11-29)
+- [WE'RE LIVE ON PRODUCT HUNT](https://dev.to/meysam81/were-live-on-product-hunt-2n4) (2025-11-29)
+- [The Tiny Engineering Challenge: Why Smartwatch Firmware Failures Are a Data Recovery Nightmare](https://dev.to/sampurnakart/the-tiny-engineering-challenge-why-smartwatch-firmware-failures-are-a-data-recovery-nightmare-3pof) (2025-11-29)
+- [404ping v2 — The API Testing CLI That Went From Side-Project to Beast Mode 💥](https://dev.to/toklas495/404ping-v2-the-api-testing-cli-that-went-from-side-project-to-beast-mode-3a6b) (2025-11-29)
+- [The Great Retraining](https://dev.to/rawveg/the-great-retraining-jp) (2025-11-29)
+- [Qeltrix: One Vision, Multiple Proofs-of-Concept](https://dev.to/hejhdiss/qeltrix-one-vision-multiple-proofs-of-concept-2bgk) (2025-11-29)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Building JavaScript Systems That Don’t Collapse Under Real-World Pressure](https://medium.com/codetodeploy/building-javascript-systems-that-dont-collapse-under-real-world-pressure-718f96da9387?source=rss------programming-5) (2025-11-29)
-- [The Angular Bundle-Size Fix That Developers Don’t Believe Until They Try](https://medium.com/@saneekadam1326/the-angular-bundle-size-fix-that-developers-dont-believe-until-they-try-8a412ee0db1b?source=rss------programming-5) (2025-11-29)
-- [The Best New AI-Powered Code Editor Developers Should Try in 2025](https://medium.com/@deepakmardi/the-best-new-ai-powered-code-editor-developers-should-try-in-2025-1f9e0abc0986?source=rss------programming-5) (2025-11-29)
-- [Why Your UI Freezes After Changing One Line of State](https://medium.com/codetodeploy/why-your-ui-freezes-after-changing-one-line-of-state-7060c93f716b?source=rss------programming-5) (2025-11-29)
-- [Frontend Engineer Interview Experience at Housing.com](https://medium.com/@errichagautam1111/frontend-engineer-interview-experience-at-housing-com-19a1f11197ba?source=rss------programming-5) (2025-11-29)
+- [09370750325](https://medium.com/@juiiyddgfddtr/09370750325-43fecbe8e7a5?source=rss------programming-5) (2025-11-29)
+- [09370750325](https://medium.com/@juiiyddgfddtr/09370750325-293537eddb2b?source=rss------programming-5) (2025-11-29)
+- [What You Need to Know About Manus AI By Martin Onyisi](https://martonyvianney.medium.com/what-you-need-to-know-about-manus-ai-by-martin-onyisi-071bb18b078b?source=rss------programming-5) (2025-11-29)
+- [Cooking the Perfect ReactJS Setup with Vite, Tailwind & ShadCN.](https://medium.com/@TheAkshayKhale/cooking-the-perfect-reactjs-setup-with-vite-tailwind-shadcn-e9dd0bf817b6?source=rss------programming-5) (2025-11-29)
+- [full clip nguyễn xuân đạt nguyễn xuân đạt tài liệu 88](https://medium.com/@annageisler/full-clip-nguy%E1%BB%85n-xu%C3%A2n-%C4%91%E1%BA%A1t-nguy%E1%BB%85n-xu%C3%A2n-%C4%91%E1%BA%A1t-t%C3%A0i-li%E1%BB%87u-88-6ed587c27f3d?source=rss------programming-5) (2025-11-29)
 
 </details>
 
@@ -362,6 +362,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+What you should know about Australia's new SMS Sender ID Register 
+](
+https://www.twilio.com/en-us/blog/insights/australia-sender-id-register
+) (2025-11-27)
+- [
 Build a Smart QA ChatOps Assistant with Playwright, Twilio WhatsApp, LLMs, and MCP
 ](
 https://www.twilio.com/en-us/blog/developers/community/build-smart-qa-chatops-assistant-playwright-twilio-whatsapp-llms-mcp
@@ -381,11 +386,6 @@ Launch WhatsApp faster with Twilio: Senders API GA, plus Typing Indicators, Flow
 ](
 https://www.twilio.com/en-us/blog/products/launches/launch-whatsapp-faster-with-twilio--senders-api-ga--plus-typing-
 ) (2025-11-19)
-- [
-How to Create a Magic Link in Laravel with Twilio SMS
-](
-https://www.twilio.com/en-us/blog/developers/community/create-magic-link-laravel-twilio-sms
-) (2025-11-18)
 
 </details>
 
