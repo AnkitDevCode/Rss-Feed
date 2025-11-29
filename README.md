@@ -20,40 +20,40 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Supabase hit $5B by turning down million-dollar contracts. Here’s why.](https://techcrunch.com/video/supabase-hit-5b-by-turning-down-million-dollar-contracts-heres-why/) (2025-11-28)
 - [SoftBank stays in as Meesho $606M IPO becomes India’s first major e-commerce listing](https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing/) (2025-11-28)
 - [How OpenAI and Google see AI changing go-to-market strategies](https://techcrunch.com/2025/11/28/how-openai-and-google-see-ai-changing-go-to-market-strategies/) (2025-11-28)
 - [The race to regulate AI has sparked a federal vs state showdown](https://techcrunch.com/2025/11/28/the-race-to-regulate-ai-has-sparked-a-federal-vs-state-showdown/) (2025-11-28)
 - [Best iPad apps to boost productivity and make your life easier](https://techcrunch.com/2025/11/28/best-ipad-apps-to-boost-productivity-and-make-your-life-easier/) (2025-11-28)
-- [Anduril’s autonomous weapons stumble in tests and combat, WSJ reports](https://techcrunch.com/2025/11/27/andurils-autonomous-weapons-stumble-in-tests-and-combat-wsj-reports/) (2025-11-28)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Poll HN: What operating system do you primarily develop on?](https://news.ycombinator.com/item?id=46081063) (2025-11-28)
-- [28M Hacker News comments as vector embedding search dataset](https://clickhouse.com/docs/getting-started/example-datasets/hackernews-vector-search-dataset) (2025-11-28)
-- [Rock Paper Scissors Solitaire](https://klezlab.it/rock-paper-scissors-solitaire.html) (2025-11-28)
-- [JSON Schema Demystified: Dialects, Vocabularies and Metaschemas](https://www.iankduncan.com/engineering/2025-11-24-json-schema-demystified/) (2025-11-28)
-- [Show HN: An LLM-Powered Tool to Catch PCB Schematic Mistakes](https://netlist.io/) (2025-11-28)
+- [A triangle whose interior angles sum to zero](https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/) (2025-11-29)
+- [The Fatal Trap UBI Boosters Keep Falling Into](https://thereader.mitpress.mit.edu/the-fatal-trap-ubi-boosters-keep-falling-into/) (2025-11-28)
+- [Fabric Project](https://github.com/Fabric-Project/Fabric) (2025-11-28)
+- [Confessions of a Software Developer: No More Self-Censorship](https://kerrick.blog/articles/2025/confessions-of-a-software-developer-no-more-self-censorship/) (2025-11-28)
+- [How to Short the Bubbliest Firms](https://www.economist.com/finance-and-economics/2025/11/26/how-to-short-the-bubbliest-firms) (2025-11-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Hallmark’s Mario and Toad Christmas ornaments are less than $10 for Black Friday](https://www.theverge.com/gadgets/832239/black-friday-mario-toad-nintendo-christmas-ornaments-deal-sale-2025) (2025-11-28)
-- [Apple&#8217;s most affordable iPad is over 20 percent off for Black Friday](https://www.theverge.com/gadgets/832251/apple-ipad-air-mini-pro-black-friday-deal-sale-2025) (2025-11-28)
-- [The best earbuds we’ve tested for 2025](https://www.theverge.com/21309820/best-wireless-earbuds) (2025-11-28)
-- [Okay, which of you are still using Facebook?](https://www.theverge.com/news/832132/pew-social-media-landscape-2025) (2025-11-28)
-- [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner) (2025-11-28)
+- [The Super Mario Galaxy bundle for the Switch is 20 percent off today only](https://www.theverge.com/gadgets/832513/black-friday-super-mario-galaxy-bundle-switch-deal-sale-2025) (2025-11-29)
+- [The best Black Friday deals you can still get on iPads, AirPods, and other Apple gear](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025) (2025-11-29)
+- [The Ray-Ban Meta smart glasses are still at their all-time low for Black Friday](https://www.theverge.com/gadgets/829574/ray-ban-meta-smart-glasses-gen-1-black-friday-deal-sale-2025) (2025-11-29)
+- [We found 40 surprisingly good Black Friday deals you can still grab for $30 or less](https://www.theverge.com/gadgets/827295/black-friday-best-cheap-tech-deals-under-30-2025) (2025-11-29)
+- [The 180 best Black Friday deals you can still shop — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas) (2025-11-29)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Before a Soyuz launch Thursday someone forget to secure a 20-ton service platform](https://arstechnica.com/space/2025/11/russian-launch-pad-incident-raises-concerns-about-future-of-space-station/) (2025-11-28)
+- [Before a Soyuz launch Thursday someone forgot to secure a 20-ton service platform](https://arstechnica.com/space/2025/11/russian-launch-pad-incident-raises-concerns-about-future-of-space-station/) (2025-11-28)
 - [Here are the best Black Friday deals we can find](https://arstechnica.com/shopping/2025/11/here-are-the-best-black-friday-deals-we-can-find/) (2025-11-28)
 - [Reintroduced carnivores’ impacts on ecosystems are still coming into focus](https://arstechnica.com/science/2025/11/reintroduced-carnivores-impacts-on-ecosystems-are-still-coming-into-focus/) (2025-11-28)
 - [We put the new pocket-size vinyl format to the test—with mixed results](https://arstechnica.com/gadgets/2025/11/we-put-the-new-pocket-sized-vinyl-format-to-the-test-with-mixed-results/) (2025-11-28)
@@ -97,22 +97,27 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How Do I Return the Response from an Asynchronous Call?](https://dev.to/sharmaprash/how-do-i-return-the-response-from-an-asynchronous-call-nl2) (2025-11-28)
-- [Clean and maintainable Git Histories – Part 2](https://dev.to/claudioaltamura/clean-and-maintainable-git-histories-part-2-iip) (2025-11-28)
-- [Ringer Movies: The Robert Redford Hall of Fame](https://dev.to/popcorn_movies/ringer-movies-the-robert-redford-hall-of-fame-4k88) (2025-11-28)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-3c05) (2025-11-28)
-- [Downloads Stalling? Not Anymore. Developing Retry Maniac for Chrome](https://dev.to/neeyatlotlikar/downloads-stalling-not-anymore-developing-retry-maniac-for-chrome-3lj3) (2025-11-28)
+- [Local LLM Hosting: Complete 2025 Guide - Ollama, vLLM, LocalAI, Jan, LM Studio & More](https://dev.to/rosgluk/local-llm-hosting-complete-2025-guide-ollama-vllm-localai-jan-lm-studio-more-1dcl) (2025-11-29)
+- [Node.js vs PHP: Which One Is Better for Modern Web Development in 2025](https://dev.to/afonso_faro_23584ec6be099/nodejs-vs-php-which-one-is-better-for-modern-web-development-in-2025-51h9) (2025-11-29)
+- [Connection-Management-Wisdom](https://dev.to/member_8455d9df/connection-management-wisdom-34h0) (2025-11-29)
+- [I Built My Entire Website in 4 Hours Using AI (Cursor + Antigravity) 🚀](https://dev.to/fbrzlarosa/i-built-my-entire-website-in-4-hours-using-ai-cursor-antigravity-1klj) (2025-11-29)
+- [**Title:** Amundi Pioneers Blockchain-Based Fund Distribution with Launch of Tokenized Money Market Fund on Ethereum](https://dev.to/yagyaraj_sharma_6cd410179/title-amundi-pioneers-blockchain-based-fund-distribution-with-launch-of-tokenized-money-market-21ei) (2025-11-29)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [TypeScript 5.9.3 Finally Fixes the Biggest Mistake in JavaScript Typing](https://medium.com/@premchandak_11/typescript-5-9-3-finally-fixes-the-biggest-mistake-in-javascript-typing-f8c53dc24e0b?source=rss------programming-5) (2025-11-28)
-- [09334082420شماره خاله بندرعباس.شماره](https://medium.com/@kkhalhzhra/09334082420%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-86f17f6d14cb?source=rss------programming-5) (2025-11-28)
-- [09334082420شماره خاله بندرعباس.شماره](https://medium.com/@kkhalhzhra/09334082420%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-38c482b4f36f?source=rss------programming-5) (2025-11-28)
-- [No More Clicking: My First Real Infrastructure Code](https://blog.thecloudopscommunity.org/no-more-clicking-my-first-real-infrastructure-code-f5b8efcd1080?source=rss------programming-5) (2025-11-28)
-- [4 AI Websites That Will Blow Your Mind](https://medium.com/@alphadesignglobal/4-ai-websites-that-will-blow-your-mind-2ec5f7c759a2?source=rss------programming-5) (2025-11-28)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mnvghjj10mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-518ed7eaba87?source=rss------programming-5) (2025-11-29)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mnvghjj10mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e9bf6dd1466d?source=rss------programming-5) (2025-11-29)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mbvddsvbn1/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-2ef9c65f71b7?source=rss------programming-5) (2025-11-29)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mbvddsvbn1/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-3832dfd44ad7?source=rss------programming-5) (2025-11-29)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbhgv8jjjj/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ace207847272?source=rss------programming-5) (2025-11-29)
 
 </details>
 
@@ -130,11 +135,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Introducing Claude Opus 4.5 in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/) (2025-11-24)
 - [Microsoft Foundry: Scale innovation on a modular, interoperable, and secure agent stack](https://azure.microsoft.com/en-us/blog/microsoft-foundry-scale-innovation-on-a-modular-interoperable-and-secure-agent-stack/) (2025-11-18)
 - [Azure at Microsoft Ignite 2025: All the intelligent cloud news explained](https://azure.microsoft.com/en-us/blog/azure-at-microsoft-ignite-2025-all-the-intelligent-cloud-news-explained/) (2025-11-18)
 - [Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate](https://azure.microsoft.com/en-us/blog/microsoft-databases-and-microsoft-fabric-your-unified-and-ai-powered-data-estate/) (2025-11-18)
 - [Announcing Azure Copilot agents and AI infrastructure innovations](https://azure.microsoft.com/en-us/blog/announcing-azure-copilot-agents-and-ai-infrastructure-innovations/) (2025-11-18)
+- [Introducing Anthropic’s Claude models in Microsoft Foundry: Bringing Frontier intelligence to Azure](https://azure.microsoft.com/en-us/blog/introducing-anthropics-claude-models-in-microsoft-foundry-bringing-frontier-intelligence-to-azure/) (2025-11-18)
 
 </details>
 
@@ -362,6 +367,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+What you should know about Australia's new SMS Sender ID Register 
+](
+https://www.twilio.com/en-us/blog/insights/australia-sender-id-register
+) (2025-11-27)
+- [
 Build a Smart QA ChatOps Assistant with Playwright, Twilio WhatsApp, LLMs, and MCP
 ](
 https://www.twilio.com/en-us/blog/developers/community/build-smart-qa-chatops-assistant-playwright-twilio-whatsapp-llms-mcp
@@ -381,11 +391,6 @@ Launch WhatsApp faster with Twilio: Senders API GA, plus Typing Indicators, Flow
 ](
 https://www.twilio.com/en-us/blog/products/launches/launch-whatsapp-faster-with-twilio--senders-api-ga--plus-typing-
 ) (2025-11-19)
-- [
-How to Create a Magic Link in Laravel with Twilio SMS
-](
-https://www.twilio.com/en-us/blog/developers/community/create-magic-link-laravel-twilio-sms
-) (2025-11-18)
 
 </details>
 
@@ -601,11 +606,11 @@ https://www.twilio.com/en-us/blog/developers/community/create-magic-link-laravel
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Fine-Tuning a BERT Model](https://machinelearningmastery.com/fine-tuning-a-bert-model/) (2025-11-28)
 - [The Journey of a Token: What Really Happens Inside a Transformer](https://machinelearningmastery.com/the-journey-of-a-token-what-really-happens-inside-a-transformer/) (2025-11-26)
 - [Pretrain a BERT Model from Scratch](https://machinelearningmastery.com/pretrain-a-bert-model-from-scratch/) (2025-11-26)
 - [K-Means Cluster Evaluation with Silhouette Analysis](https://machinelearningmastery.com/k-means-cluster-evaluation-with-silhouette-analysis/) (2025-11-25)
 - [The Complete Guide to Docker for Machine Learning Engineers](https://machinelearningmastery.com/the-complete-guide-to-docker-for-machine-learning-engineers/) (2025-11-24)
-- [Preparing Data for BERT Training](https://machinelearningmastery.com/preparing-data-for-bert-training/) (2025-11-24)
 
 </details>
 
