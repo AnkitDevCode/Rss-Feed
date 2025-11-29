@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [VC Kara Nortman bet early on women’s sports, and now she’s creating the market](https://techcrunch.com/2025/11/28/vc-kara-nortman-bet-early-on-womens-sports-and-now-shes-creating-the-market/) (2025-11-29)
 - [Supabase hit $5B by turning down million-dollar contracts. Here’s why.](https://techcrunch.com/video/supabase-hit-5b-by-turning-down-million-dollar-contracts-heres-why/) (2025-11-28)
 - [SoftBank stays in as Meesho $606M IPO becomes India’s first major e-commerce listing](https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing/) (2025-11-28)
 - [How OpenAI and Google see AI changing go-to-market strategies](https://techcrunch.com/2025/11/28/how-openai-and-google-see-ai-changing-go-to-market-strategies/) (2025-11-28)
 - [The race to regulate AI has sparked a federal vs state showdown](https://techcrunch.com/2025/11/28/the-race-to-regulate-ai-has-sparked-a-federal-vs-state-showdown/) (2025-11-28)
-- [Best iPad apps to boost productivity and make your life easier](https://techcrunch.com/2025/11/28/best-ipad-apps-to-boost-productivity-and-make-your-life-easier/) (2025-11-28)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [The 'S&P 493' reveals a different U.S. economy](https://www.msn.com/en-us/money/markets/the-s-p-493-reveals-a-very-different-us-economy/ar-AA1R1VUJ) (2025-11-29)
+- [System 7 natively boots on the Mac mini G4](https://macos9lives.com/smforum/index.php?topic=7711.0) (2025-11-29)
+- [Every mathematician has only a few tricks (2020)](https://mathoverflow.net/questions/363119/every-mathematician-has-only-a-few-tricks) (2025-11-29)
 - [A triangle whose interior angles sum to zero](https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/) (2025-11-29)
-- [The Fatal Trap UBI Boosters Keep Falling Into](https://thereader.mitpress.mit.edu/the-fatal-trap-ubi-boosters-keep-falling-into/) (2025-11-28)
 - [Fabric Project](https://github.com/Fabric-Project/Fabric) (2025-11-28)
-- [Confessions of a Software Developer: No More Self-Censorship](https://kerrick.blog/articles/2025/confessions-of-a-software-developer-no-more-self-censorship/) (2025-11-28)
-- [How to Short the Bubbliest Firms](https://www.economist.com/finance-and-economics/2025/11/26/how-to-short-the-bubbliest-firms) (2025-11-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The Super Mario Galaxy bundle for the Switch is 20 percent off today only](https://www.theverge.com/gadgets/832513/black-friday-super-mario-galaxy-bundle-switch-deal-sale-2025) (2025-11-29)
-- [The best Black Friday deals you can still get on iPads, AirPods, and other Apple gear](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025) (2025-11-29)
-- [The Ray-Ban Meta smart glasses are still at their all-time low for Black Friday](https://www.theverge.com/gadgets/829574/ray-ban-meta-smart-glasses-gen-1-black-friday-deal-sale-2025) (2025-11-29)
-- [We found 40 surprisingly good Black Friday deals you can still grab for $30 or less](https://www.theverge.com/gadgets/827295/black-friday-best-cheap-tech-deals-under-30-2025) (2025-11-29)
-- [The 180 best Black Friday deals you can still shop — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas) (2025-11-29)
+- [The 192 best Black Friday deals you can still shop — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas) (2025-11-29)
+- [The Verge’s guide to Black Friday 2025](https://www.theverge.com/tech/808624/black-friday-cyber-monday-guide-2025) (2025-11-29)
+- [The M4 MacBook Air is one of the best Apple deals you can get for Black Friday](https://www.theverge.com/gadgets/832969/black-friday-macbook-air-m4-13-15-inch-deal-sale-2025) (2025-11-29)
+- [These 50 handpicked Black Friday deals are still available for $50 or less](https://www.theverge.com/gadgets/829553/black-friday-best-cheap-tech-deals-under-50-2025) (2025-11-29)
+- [Aura’s latest, gift-worthy digital photo frame is $30 off for Black Friday](https://www.theverge.com/gadgets/832496/black-friday-aura-aspen-digital-photo-frame-deal-sale-2025) (2025-11-29)
 
 </details>
 
@@ -97,27 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Local LLM Hosting: Complete 2025 Guide - Ollama, vLLM, LocalAI, Jan, LM Studio & More](https://dev.to/rosgluk/local-llm-hosting-complete-2025-guide-ollama-vllm-localai-jan-lm-studio-more-1dcl) (2025-11-29)
-- [Node.js vs PHP: Which One Is Better for Modern Web Development in 2025](https://dev.to/afonso_faro_23584ec6be099/nodejs-vs-php-which-one-is-better-for-modern-web-development-in-2025-51h9) (2025-11-29)
-- [Connection-Management-Wisdom](https://dev.to/member_8455d9df/connection-management-wisdom-34h0) (2025-11-29)
-- [I Built My Entire Website in 4 Hours Using AI (Cursor + Antigravity) 🚀](https://dev.to/fbrzlarosa/i-built-my-entire-website-in-4-hours-using-ai-cursor-antigravity-1klj) (2025-11-29)
-- [**Title:** Amundi Pioneers Blockchain-Based Fund Distribution with Launch of Tokenized Money Market Fund on Ethereum](https://dev.to/yagyaraj_sharma_6cd410179/title-amundi-pioneers-blockchain-based-fund-distribution-with-launch-of-tokenized-money-market-21ei) (2025-11-29)
+- [A Secret-Scoped Semantic Value That Can Be “Pulled” Into a Public Block Without Revealing Its Origin](https://dev.to/suign/a-secret-scoped-semantic-value-that-can-be-pulled-into-a-public-block-without-revealing-its-origin-5hi0) (2025-11-29)
+- [A Day With Perplexity’s Comet AI Browser: Time-Saver or Hype?](https://dev.to/aiwithapex/a-day-with-perplexitys-comet-ai-browser-time-saver-or-hype-5h4p) (2025-11-29)
+- [The €15,000 Contract Mistake That Almost Sank My Client's Deal](https://dev.to/tracksimple/the-eu15000-contract-mistake-that-almost-sank-my-clients-deal-5dpe) (2025-11-29)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1oef) (2025-11-29)
+- [Mr Sunday Movies: The Sorcerer's Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-31p4) (2025-11-29)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mnvghjj10mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-518ed7eaba87?source=rss------programming-5) (2025-11-29)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mnvghjj10mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e9bf6dd1466d?source=rss------programming-5) (2025-11-29)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mbvddsvbn1/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-2ef9c65f71b7?source=rss------programming-5) (2025-11-29)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mbvddsvbn1/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-3832dfd44ad7?source=rss------programming-5) (2025-11-29)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbhgv8jjjj/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ace207847272?source=rss------programming-5) (2025-11-29)
+- [Building JavaScript Systems That Don’t Collapse Under Real-World Pressure](https://medium.com/codetodeploy/building-javascript-systems-that-dont-collapse-under-real-world-pressure-718f96da9387?source=rss------programming-5) (2025-11-29)
+- [The Angular Bundle-Size Fix That Developers Don’t Believe Until They Try](https://medium.com/@saneekadam1326/the-angular-bundle-size-fix-that-developers-dont-believe-until-they-try-8a412ee0db1b?source=rss------programming-5) (2025-11-29)
+- [The Best New AI-Powered Code Editor Developers Should Try in 2025](https://medium.com/@deepakmardi/the-best-new-ai-powered-code-editor-developers-should-try-in-2025-1f9e0abc0986?source=rss------programming-5) (2025-11-29)
+- [Why Your UI Freezes After Changing One Line of State](https://medium.com/codetodeploy/why-your-ui-freezes-after-changing-one-line-of-state-7060c93f716b?source=rss------programming-5) (2025-11-29)
+- [Frontend Engineer Interview Experience at Housing.com](https://medium.com/@errichagautam1111/frontend-engineer-interview-experience-at-housing-com-19a1f11197ba?source=rss------programming-5) (2025-11-29)
 
 </details>
 
@@ -367,11 +362,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-What you should know about Australia's new SMS Sender ID Register 
-](
-https://www.twilio.com/en-us/blog/insights/australia-sender-id-register
-) (2025-11-27)
-- [
 Build a Smart QA ChatOps Assistant with Playwright, Twilio WhatsApp, LLMs, and MCP
 ](
 https://www.twilio.com/en-us/blog/developers/community/build-smart-qa-chatops-assistant-playwright-twilio-whatsapp-llms-mcp
@@ -391,6 +381,11 @@ Launch WhatsApp faster with Twilio: Senders API GA, plus Typing Indicators, Flow
 ](
 https://www.twilio.com/en-us/blog/products/launches/launch-whatsapp-faster-with-twilio--senders-api-ga--plus-typing-
 ) (2025-11-19)
+- [
+How to Create a Magic Link in Laravel with Twilio SMS
+](
+https://www.twilio.com/en-us/blog/developers/community/create-magic-link-laravel-twilio-sms
+) (2025-11-18)
 
 </details>
 
