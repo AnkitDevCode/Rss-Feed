@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [CachyOS: Fast and Customizable Linux Distribution](https://cachyos.org/) (2025-11-30)
+- [Silicon Valley's Man in the White House Is Benefiting Himself and His Friends](https://www.nytimes.com/2025/11/30/technology/david-sacks-white-house-profits.html) (2025-11-30)
+- [The Space of Minds](https://karpathy.bearblog.dev/the-space-of-minds/) (2025-11-30)
+- [Jiga (YC W21) Is Hiring Product Designer](https://www.ycombinator.com/companies/jiga/jobs/Cco7vyK-product-designer-remote-europe) (2025-11-30)
 - [Zigbook Is Plagiarizing the Zigtools Playground](https://zigtools.org/blog/zigbook-plagiarizing-playground/) (2025-11-30)
-- [Show HN: Boing](https://boing.greg.technology/) (2025-11-30)
-- [Stopping bad guys from using my open source project (feedback wanted)](https://evanhahn.com/stopping-bad-guys-from-using-my-open-source-project/) (2025-11-30)
-- [Meshtastic](https://meshtastic.org/) (2025-11-30)
-- [A new Little Prince museum has opened its doors in Switzerland](https://www.lepetitprince.com/en/events-around-the-world/a-new-little-prince-museum-has-opened-its-doors-in-switzerland/) (2025-11-30)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The absolute best Cyber Monday deals you can already shop](https://www.theverge.com/gadgets/833101/cyber-monday-best-early-deals-2025) (2025-11-30)
 - [The 201 Black Friday deals you can still get](https://www.theverge.com/gadgets/832641/black-friday-2025-best-deals-tech-gadgets-still-available) (2025-11-30)
 - [Anker’s handy little 3-port charger is just 35 bucks](https://www.theverge.com/gadgets/833697/anker-prime-charger-67w-3-port) (2025-11-29)
 - [The best gaming headset I tried this year is $60 off for Black Friday](https://www.theverge.com/gadgets/829932/wireless-pc-gaming-headset-fractal-scape-deal-sale-black-friday) (2025-11-29)
 - [I tested 15 cases for the Switch 2 and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases) (2025-11-29)
-- [The Fujifilm X Half is on sale for what it should have originally cost](https://www.theverge.com/gadgets/833668/fujifilm-x-half-camera-price-black-friday-cyber-monday) (2025-11-29)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Brex Database Disaster Recovery](https://dev.to/elianalamhost/brex-database-disaster-recovery-4375) (2025-11-30)
-- [UserScanner a CLI tool to help you select a unique username across all popular sites.](https://dev.to/kaifcodec/userscanner-a-cli-tool-to-help-you-select-a-unique-username-across-all-popular-sites-3bn1) (2025-11-30)
-- [Conquering the Shadow DOM: A Guide for Automation Testers](https://dev.to/godhirajcode/conquering-the-shadow-dom-a-guide-for-automation-testers-36i8) (2025-11-30)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1hb1) (2025-11-30)
-- [That One Weird Line of Go Code That Saved My Weekend (And My Sanity)](https://dev.to/dev-tngsh/hat-one-weird-line-of-go-code-that-saved-my-weekend-and-my-sanity-4k0h) (2025-11-30)
+- [QR-Genie: Building a Single-Purpose QR Code Tool with Kiro AI](https://dev.to/abhishek_maurya9118/qr-genie-building-a-single-purpose-qr-code-tool-with-kiro-ai-15j2) (2025-11-30)
+- [How to Handle HttpClientErrorException in Spring RestTemplate: A Complete Guide](https://dev.to/aquib_javed_e55c5b2494560/how-to-handle-httpclienterrorexception-in-spring-resttemplate-a-complete-guide-1f3p) (2025-11-30)
+- [Web Developer Travis McCracken on API Gateway Design with Rust and Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-api-gateway-design-with-rust-and-go-3348) (2025-11-30)
+- [The "Happy Path" is dead. This is the era of Defensive AI Architecture.](https://dev.to/jaliil9/the-happy-path-is-dead-this-is-the-era-of-defensive-ai-architecture-1dlc) (2025-11-30)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-127m) (2025-11-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [My Job Agent — AI Job Matching Berbasis CV Dengan Golang, Vue.js, dan Cloud Run](https://medium.com/@aryap_20571/my-job-agent-ai-job-matching-berbasis-cv-dengan-golang-vue-js-dan-cloud-run-57056723ae9b?source=rss------programming-5) (2025-11-30)
-- [Java 25: Sadece Bir Güncelleme Değil, Bir Zihniyet Devrimi](https://medium.com/@qa.omerkacar/java-25-sadece-bir-g%C3%BCncelleme-de%C4%9Fil-bir-zihniyet-devrimi-8cc13f93cf26?source=rss------programming-5) (2025-11-30)
-- [Cursor vs Google AntiGravity : Best AI IDE for Vibe Coders?](https://medium.com/data-science-in-your-pocket/cursor-vs-google-antigravity-best-ai-ide-for-vibe-coders-f3ecbd02f161?source=rss------programming-5) (2025-11-30)
-- [How I Automated My X Account With Python (and Boosted My Reach Like Crazy)](https://azeemteli.medium.com/twitter-automation-with-python-boost-reach-cd15d9efb96c?source=rss------programming-5) (2025-11-30)
-- [Historic Financial Ratios for Your Hedge Fund in ArcticDB](https://medium.com/coding-nexus/historic-financial-ratios-for-your-hedge-fund-in-arcticdb-e8c6d2afa042?source=rss------programming-5) (2025-11-30)
+- [season 2 viral video link india](https://medium.com/@ristohull/season-2-viral-video-link-india-20d64a146a5f?source=rss------programming-5) (2025-11-30)
+- [season 3 viral video link india](https://medium.com/@ristohull/season-3-viral-video-link-india-10b8919eda94?source=rss------programming-5) (2025-11-30)
+- [SQL for Data Science: The Complete Beginner’s Guide](https://medium.com/@mandalidevaharshini/sql-for-data-science-the-complete-beginners-guide-20140c8d6533?source=rss------programming-5) (2025-11-30)
+- [Spring Boot’s @Transactional Almost Destroyed Our Startup](https://medium.com/@write_code/spring-boots-transactional-almost-destroyed-our-startup-81059f4d7b88?source=rss------programming-5) (2025-11-30)
+- [Data Cleaning in Python: A Complete Beginner’s Guide (With Easy Pandas Examples)](https://ai.gopubby.com/data-cleaning-in-python-a-complete-beginners-guide-with-easy-pandas-examples-1585933bacab?source=rss------programming-5) (2025-11-30)
 
 </details>
 
@@ -579,22 +579,22 @@ https://www.twilio.com/en-us/blog/products/launches/launch-whatsapp-faster-with-
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Deep Agents Tutorial: Create Advanced AI Agents with LangGraph and Web Search Tools ](https://www.analyticsvidhya.com/blog/2025/11/langchains-deep-agent-guide/) (2025-11-30)
 - [Top 4 Papers of NeurIPS 2025 That You Must Read](https://www.analyticsvidhya.com/blog/2025/11/top-papers-of-neurips-2025/) (2025-11-29)
 - [7 Latest AI Drops by Google Will Make You a Powerhouse at Work](https://www.analyticsvidhya.com/blog/2025/11/google-ai-drops/) (2025-11-28)
 - [GPU vs TPU: What’s the Difference?](https://www.analyticsvidhya.com/blog/2025/11/gpu-vs-tpu/) (2025-11-28)
 - [Getting Started with Langfuse [2026 Guide]](https://www.analyticsvidhya.com/blog/2025/11/langfuse-guide/) (2025-11-27)
-- [How to Use KV Caching in LLMs?](https://www.analyticsvidhya.com/blog/2025/11/kv-caching-guide/) (2025-11-27)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [The Best Proxy Providers for Large-Scale Scraping for 2026](https://www.kdnuggets.com/2025/11/brightdata/the-best-proxy-providers-for-large-scale-scraping-for-2026) (2025-11-30)
 - [Getting Started with the Claude Agent SDK](https://www.kdnuggets.com/getting-started-with-the-claude-agent-sdk) (2025-11-28)
 - [5 Practical Docker Configurations](https://www.kdnuggets.com/5-practical-docker-configurations) (2025-11-28)
 - [Staying Ahead of AI in Your Career](https://www.kdnuggets.com/staying-ahead-of-ai-in-your-career) (2025-11-27)
 - [7 AI Tools I Can’t Live Without as a Professional Data Scientist](https://www.kdnuggets.com/7-ai-tools-i-cant-live-without-as-a-professional-data-scientist) (2025-11-27)
-- [Are AI Browsers Any Good? A Day with Perplexity’s Comet and OpenAI’s Atlas](https://www.kdnuggets.com/are-ai-browsers-any-good-day-with-perplexity-comet-openai-atlas) (2025-11-26)
 
 </details>
 
