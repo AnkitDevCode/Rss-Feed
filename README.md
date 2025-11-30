@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Airbus orders software fix to thousands of planes due to solar radiation risk](https://techcrunch.com/2025/11/29/airbus-orders-software-fix-to-thousands-of-planes-due-to-solar-radiation-risk/) (2025-11-29)
+- [Black Friday sets online spending record of $11.8B, Adobe says](https://techcrunch.com/2025/11/29/black-friday-sets-online-spending-record-of-11-8b-adobe-says/) (2025-11-29)
 - [New York state law takes aim at personalized pricing](https://techcrunch.com/2025/11/29/new-york-state-law-takes-aim-at-personalized-pricing/) (2025-11-29)
-- [No, you can’t get your AI to ‘admit’ to being sexist, but it probably is](https://techcrunch.com/2025/11/29/no-you-cant-get-your-ai-to-admit-to-being-sexist-but-it-probably-is/) (2025-11-29)
+- [No, you can’t get your AI to ‘admit’ to being sexist, but it probably is anyway](https://techcrunch.com/2025/11/29/no-you-cant-get-your-ai-to-admit-to-being-sexist-but-it-probably-is/) (2025-11-29)
 - [VC Kara Nortman bet early on women’s sports, and now she’s creating the market](https://techcrunch.com/2025/11/28/vc-kara-nortman-bet-early-on-womens-sports-and-now-shes-creating-the-market/) (2025-11-29)
-- [Supabase hit $5B by turning down million-dollar contracts. Here’s why.](https://techcrunch.com/video/supabase-hit-5b-by-turning-down-million-dollar-contracts-heres-why/) (2025-11-28)
-- [SoftBank stays in as Meesho $606M IPO becomes India’s first major e-commerce listing](https://techcrunch.com/2025/11/28/softbank-stays-in-as-meesho-606m-ipo-becomes-indias-first-major-e-commerce-listing/) (2025-11-28)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Zero Knowlege Proof of Compositeness](https://www.johndcook.com/blog/2025/11/29/zkp-composite/) (2025-11-29)
-- [AccessOwl (YC S22) Is Hiring a Technical Account Manager (IAM)](https://www.ycombinator.com/companies/accessowl/jobs/dGC3pcO-technical-account-manager-identity-access-management) (2025-11-29)
-- [We're learning more about what Vitamin D does to our bodies](https://www.technologyreview.com/2025/11/21/1128206/vitamin-d-bodies-bone-health-immune/) (2025-11-29)
-- [Testing Shows Automotive Glassbreakers Can't Break Modern Automotive Glass](https://www.core77.com/posts/138925/Testing-Shows-Automotive-Glassbreakers-Cant-Break-Modern-Automotive-Glass) (2025-11-29)
-- [Major AI conference flooded with peer reviews written by AI](https://www.nature.com/articles/d41586-025-03506-6) (2025-11-29)
+- [Dilution vs. Risk taking: Capital gains taxes and entrepreneurs](https://www.nber.org/papers/w34512) (2025-11-29)
+- [Scala](https://www.huygens-fokker.org/scala/) (2025-11-29)
+- [Bazzite: The next generation of Linux gaming](https://bazzite.gg/) (2025-11-29)
+- [Landlock-Ing Linux](https://blog.prizrak.me/post/landlock/) (2025-11-29)
+- [Europe's New War on Privacy](https://unherd.com/2025/11/europes-new-war-on-privacy/) (2025-11-29)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The Super Mario Galaxy bundle for the Switch is still 20 percent off](https://www.theverge.com/gadgets/832513/black-friday-super-mario-galaxy-bundle-switch-deal-sale-2025) (2025-11-29)
-- [These are my picks for the best Black Friday deals on Garmin watches](https://www.theverge.com/gadgets/833297/best-garmin-watch-black-friday-deal-sale) (2025-11-29)
-- [Black Friday deals are still going strong on Apple AirTags, iPads, and more](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025) (2025-11-29)
-- [The 195 Black Friday deals you can still get](https://www.theverge.com/gadgets/832641/black-friday-2025-best-deals-tech-gadgets-still-available) (2025-11-29)
-- [97 percent of people struggle to identify AI music, but it’s not as bad as it seems](https://www.theverge.com/entertainment/830393/ai-music-deezer-survey-spotify) (2025-11-29)
+- [Anker’s handy little 3-port charger is just 35 bucks](https://www.theverge.com/gadgets/833697/anker-prime-charger-67w-3-port) (2025-11-29)
+- [The best gaming headset I tried this year is $60 off for Black Friday](https://www.theverge.com/gadgets/829932/wireless-pc-gaming-headset-fractal-scape-deal-sale-black-friday) (2025-11-29)
+- [The 200 Black Friday deals you can still get](https://www.theverge.com/gadgets/832641/black-friday-2025-best-deals-tech-gadgets-still-available) (2025-11-29)
+- [I tested 15 cases for the Switch 2 and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases) (2025-11-29)
+- [The Fujifilm X Half is on sale for what it should have originally cost](https://www.theverge.com/gadgets/833668/fujifilm-x-half-camera-price-black-friday-cyber-monday) (2025-11-29)
 
 </details>
 
@@ -97,25 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Google's Antigravity Hacked in 24 Hours: Why AI Agents Need a New Security Architecture](https://dev.to/hofong428/googles-antigravity-hacked-in-24-hours-why-ai-agents-need-a-new-security-architecture-5bo5) (2025-11-29)
-- [Rick Beato: I Never Realized This Beatles Song Was Played Like This](https://dev.to/music_youtube/rick-beato-i-never-realized-this-beatles-song-was-played-like-this-59p9) (2025-11-29)
-- [Algorithmic Audio Workflows: From Source Separation to Generative Synthesis](https://dev.to/kokis_jorge_f43c7beb9b951/algorithmic-audio-workflows-from-source-separation-to-generative-synthesis-4mml) (2025-11-29)
-- [Untitled](https://dev.to/danawitbelay332debug/untitled-4269) (2025-11-29)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3jbd) (2025-11-29)
+- [Boost Revenue: Integrate Monetzly for Seamless AI Conversation Monetization](https://dev.to/monetzly/boost-revenue-integrate-monetzly-for-seamless-ai-conversation-monetization-1i6a) (2025-11-30)
+- [Maglev-Pentabot: From Factory Floor to Surgical Precision? The Future of Non-Contact Manipulation](https://dev.to/arvind_sundararajan/maglev-pentabot-from-factory-floor-to-surgical-precision-the-future-of-non-contact-manipulation-lb1) (2025-11-30)
+- [Desafio Final e o Segredo do O(N) (Dois Ponteiros)](https://dev.to/gissandrogama/desafio-final-e-o-segredo-do-on-dois-ponteiros-3g4) (2025-11-30)
+- [O Padrão Ouro da Ordenação: O(N log N)](https://dev.to/gissandrogama/post-4-o-padrao-ouro-da-ordenacao-on-log-n-46jp) (2025-11-30)
+- [Otimizando landing page e-commerce: Guia definitivo 2025](https://dev.to/littlegoat/otimizando-landing-page-e-commerce-guia-definitivo-2025-56lj) (2025-11-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [This One Line of Code Stopped Our AI System From Bankrupting Itself — The Wild Truth Behind It](https://medium.com/@suryawanshiaditya159/this-one-line-of-code-stopped-our-ai-system-from-bankrupting-itself-the-wild-truth-behind-it-00af0f4ffb95?source=rss------programming-5) (2025-11-29)
-- [Smart AI Assistants for Busy Professionals](https://medium.com/@vedax2005/smart-ai-assistants-for-busy-professionals-51da95e94030?source=rss------programming-5) (2025-11-29)
-- [09010712940شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@khalhshyrazkhalhshyraz/09010712940%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-b0366fd26a39?source=rss------programming-5) (2025-11-29)
-- [09010712940شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@khalhshyrazkhalhshyraz/09010712940%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-14f0b9fd9953?source=rss------programming-5) (2025-11-29)
-- [0936 062 7233شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران…](https://medium.com/@whhwbsbiebsii/0936-062-7233-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-3615a68448ec?source=rss------programming-5) (2025-11-29)
+- [Python Isn’t Dying — It’s Transforming. Most Developers Haven’t Noticed Yet](https://medium.com/@adityasriv16/python-isnt-dying-it-s-transforming-most-developers-haven-t-noticed-yet-8495f7d96837?source=rss------programming-5) (2025-11-30)
+- [09378431470شماره خاله تهران شماره خاله تهران پارس شماره خاله اسلامشهر شماره خاله صیغه شماره خاله…](https://medium.com/@jwjwjwjwjwjwjwjwwjwjwjuwuwuwuw/09378431470%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-801be535de05?source=rss------programming-5) (2025-11-30)
+- [09378431470شماره خاله تهران شماره خاله تهران پارس شماره خاله اسلامشهر شماره خاله صیغه شماره خاله…](https://medium.com/@jwjwjwjwjwjwjwjwwjwjwjuwuwuwuw/09378431470%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-67de7cb84b7a?source=rss------programming-5) (2025-11-30)
+- [Leetcode 75 Question — Counting Bits (LeetCode 338): Explanation of the Problem](https://medium.com/@sajansshergill/leetcode-75-question-counting-bits-leetcode-338-explanation-of-the-problem-467f612825b4?source=rss------programming-5) (2025-11-30)
+- [How TikTok saved 300k by moving Go Apis to Rust](https://medium.com/@ashwin.appsignups/how-tiktok-saved-300k-by-moving-go-apis-to-rust-8eba6a1a8a4b?source=rss------programming-5) (2025-11-30)
 
 </details>
 
@@ -365,6 +362,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+What you should know about Australia's new SMS Sender ID Register 
+](
+https://www.twilio.com/en-us/blog/insights/australia-sender-id-register
+) (2025-11-27)
+- [
 Build a Smart QA ChatOps Assistant with Playwright, Twilio WhatsApp, LLMs, and MCP
 ](
 https://www.twilio.com/en-us/blog/developers/community/build-smart-qa-chatops-assistant-playwright-twilio-whatsapp-llms-mcp
@@ -384,11 +386,6 @@ Launch WhatsApp faster with Twilio: Senders API GA, plus Typing Indicators, Flow
 ](
 https://www.twilio.com/en-us/blog/products/launches/launch-whatsapp-faster-with-twilio--senders-api-ga--plus-typing-
 ) (2025-11-19)
-- [
-How to Create a Magic Link in Laravel with Twilio SMS
-](
-https://www.twilio.com/en-us/blog/developers/community/create-magic-link-laravel-twilio-sms
-) (2025-11-18)
 
 </details>
 
@@ -582,11 +579,11 @@ https://www.twilio.com/en-us/blog/developers/community/create-magic-link-laravel
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Top 4 Papers of NeurIPS 2025 That You Must Read](https://www.analyticsvidhya.com/blog/2025/11/top-papers-of-neurips-2025/) (2025-11-29)
 - [7 Latest AI Drops by Google Will Make You a Powerhouse at Work](https://www.analyticsvidhya.com/blog/2025/11/google-ai-drops/) (2025-11-28)
 - [GPU vs TPU: What’s the Difference?](https://www.analyticsvidhya.com/blog/2025/11/gpu-vs-tpu/) (2025-11-28)
 - [Getting Started with Langfuse [2026 Guide]](https://www.analyticsvidhya.com/blog/2025/11/langfuse-guide/) (2025-11-27)
 - [How to Use KV Caching in LLMs?](https://www.analyticsvidhya.com/blog/2025/11/kv-caching-guide/) (2025-11-27)
-- [SAM3: Revolutionizing Image and Video Processing](https://www.analyticsvidhya.com/blog/2025/11/sam3-revolutionizing-image-video-processing/) (2025-11-27)
 
 </details>
 
