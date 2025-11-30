@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Behind the scenes of drone food delivery in Finland](https://techcrunch.com/2025/11/30/behind-the-scenes-of-drone-food-delivery-in-finland/) (2025-11-30)
 - [Airbus orders software fix to thousands of planes due to solar radiation risk](https://techcrunch.com/2025/11/29/airbus-orders-software-fix-to-thousands-of-planes-due-to-solar-radiation-risk/) (2025-11-29)
 - [Black Friday sets online spending record of $11.8B, Adobe says](https://techcrunch.com/2025/11/29/black-friday-sets-online-spending-record-of-11-8b-adobe-says/) (2025-11-29)
 - [New York state law takes aim at personalized pricing](https://techcrunch.com/2025/11/29/new-york-state-law-takes-aim-at-personalized-pricing/) (2025-11-29)
 - [No, you can’t get your AI to ‘admit’ to being sexist, but it probably is anyway](https://techcrunch.com/2025/11/29/no-you-cant-get-your-ai-to-admit-to-being-sexist-but-it-probably-is/) (2025-11-29)
-- [VC Kara Nortman bet early on women’s sports, and now she’s creating the market](https://techcrunch.com/2025/11/28/vc-kara-nortman-bet-early-on-womens-sports-and-now-shes-creating-the-market/) (2025-11-29)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [CachyOS: Fast and Customizable Linux Distribution](https://cachyos.org/) (2025-11-30)
-- [Silicon Valley's Man in the White House Is Benefiting Himself and His Friends](https://www.nytimes.com/2025/11/30/technology/david-sacks-white-house-profits.html) (2025-11-30)
-- [The Space of Minds](https://karpathy.bearblog.dev/the-space-of-minds/) (2025-11-30)
-- [Jiga (YC W21) Is Hiring Product Designer](https://www.ycombinator.com/companies/jiga/jobs/Cco7vyK-product-designer-remote-europe) (2025-11-30)
-- [Zigbook Is Plagiarizing the Zigtools Playground](https://zigtools.org/blog/zigbook-plagiarizing-playground/) (2025-11-30)
+- [LLVM-MOS – Clang LLVM fork targeting the 6502](https://llvm-mos.org/wiki/Welcome) (2025-11-30)
+- [RetailReady (YC W24) Is Hiring Associate Product Manager](https://www.ycombinator.com/companies/retailready/jobs/KPKDu3D-associate-product-manager) (2025-11-30)
+- [The Thinking Game Film – Google DeepMind Documentary](https://thinkinggamefilm.com) (2025-11-30)
+- [Langjam Gamejam: Build a programming language then make a game with it](https://langjamgamejam.com/) (2025-11-30)
+- [Migrating Dillo from GitHub](https://dillo-browser.org/news/migration-from-github/) (2025-11-30)
 
 </details>
 
@@ -43,21 +43,21 @@
 <summary>📱 The Verge</summary>
 
 - [The absolute best Cyber Monday deals you can already shop](https://www.theverge.com/gadgets/833101/cyber-monday-best-early-deals-2025) (2025-11-30)
-- [The 201 Black Friday deals you can still get](https://www.theverge.com/gadgets/832641/black-friday-2025-best-deals-tech-gadgets-still-available) (2025-11-30)
-- [Anker’s handy little 3-port charger is just 35 bucks](https://www.theverge.com/gadgets/833697/anker-prime-charger-67w-3-port) (2025-11-29)
-- [The best gaming headset I tried this year is $60 off for Black Friday](https://www.theverge.com/gadgets/829932/wireless-pc-gaming-headset-fractal-scape-deal-sale-black-friday) (2025-11-29)
-- [I tested 15 cases for the Switch 2 and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases) (2025-11-29)
+- [The best Cyber Monday deals on some of my favorite smart home gear](https://www.theverge.com/gadgets/831719/best-black-friday-cyber-monday-smart-home-deals) (2025-11-30)
+- [Screaming Cyber Monday deals on Bose, Sony, and Apple headphones and earbuds](https://www.theverge.com/gadgets/831125/best-black-friday-headphone-earbud-deals-2025) (2025-11-30)
+- [The best Cyber Monday deals on Apple MacBooks, AirTags, iPads, and more](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025) (2025-11-30)
+- [I just want AI to rename my photos](https://www.theverge.com/podcast/833993/raycast-ai-models-vergecast) (2025-11-30)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Revisiting Jill of the Jungle, the last game Tim Sweeney designed](https://arstechnica.com/gaming/2025/11/revisiting-jill-of-the-jungle-the-last-game-tim-sweeney-designed/) (2025-11-30)
 - [Achieving lasting remission for HIV](https://arstechnica.com/science/2025/11/achieving-lasting-remission-for-hiv/) (2025-11-29)
 - [Before a Soyuz launch Thursday someone forgot to secure a 20-ton service platform](https://arstechnica.com/space/2025/11/russian-launch-pad-incident-raises-concerns-about-future-of-space-station/) (2025-11-28)
 - [Here are the best Black Friday deals we can find](https://arstechnica.com/shopping/2025/11/here-are-the-best-black-friday-deals-we-can-find/) (2025-11-28)
 - [Reintroduced carnivores’ impacts on ecosystems are still coming into focus](https://arstechnica.com/science/2025/11/reintroduced-carnivores-impacts-on-ecosystems-are-still-coming-into-focus/) (2025-11-28)
-- [We put the new pocket-size vinyl format to the test—with mixed results](https://arstechnica.com/gadgets/2025/11/we-put-the-new-pocket-sized-vinyl-format-to-the-test-with-mixed-results/) (2025-11-28)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [QR-Genie: Building a Single-Purpose QR Code Tool with Kiro AI](https://dev.to/abhishek_maurya9118/qr-genie-building-a-single-purpose-qr-code-tool-with-kiro-ai-15j2) (2025-11-30)
-- [How to Handle HttpClientErrorException in Spring RestTemplate: A Complete Guide](https://dev.to/aquib_javed_e55c5b2494560/how-to-handle-httpclienterrorexception-in-spring-resttemplate-a-complete-guide-1f3p) (2025-11-30)
-- [Web Developer Travis McCracken on API Gateway Design with Rust and Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-api-gateway-design-with-rust-and-go-3348) (2025-11-30)
-- [The "Happy Path" is dead. This is the era of Defensive AI Architecture.](https://dev.to/jaliil9/the-happy-path-is-dead-this-is-the-era-of-defensive-ai-architecture-1dlc) (2025-11-30)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-127m) (2025-11-30)
+- [Primeros Pasos con AWS CDK en Linux: Guía Completa de Instalación](https://dev.to/tenondev/primeros-pasos-con-aws-cdk-en-linux-guia-completa-de-instalacion-d23) (2025-11-30)
+- [[Boost]](https://dev.to/oncloud7/-16c1) (2025-11-30)
+- [How to Create An Amazon EKS - Step by Step for Beginners](https://dev.to/oncloud7/how-to-create-an-amazon-eks-step-by-step-for-beginners-2do6) (2025-11-30)
+- [SQL Case Files: A Free, Story Driven way to practice SQL](https://dev.to/sqlcasefiles/sql-case-files-a-free-story-driven-way-to-practice-sql-5hed) (2025-11-30)
+- [CAVLite: Lightweight, Memory-Efficient Security Audit for Low-RAM Servers.](https://dev.to/ganesh-kumar/cavlite-lightweight-memory-efficient-security-audit-for-low-ram-servers-ph7) (2025-11-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [season 2 viral video link india](https://medium.com/@ristohull/season-2-viral-video-link-india-20d64a146a5f?source=rss------programming-5) (2025-11-30)
-- [season 3 viral video link india](https://medium.com/@ristohull/season-3-viral-video-link-india-10b8919eda94?source=rss------programming-5) (2025-11-30)
-- [SQL for Data Science: The Complete Beginner’s Guide](https://medium.com/@mandalidevaharshini/sql-for-data-science-the-complete-beginners-guide-20140c8d6533?source=rss------programming-5) (2025-11-30)
-- [Spring Boot’s @Transactional Almost Destroyed Our Startup](https://medium.com/@write_code/spring-boots-transactional-almost-destroyed-our-startup-81059f4d7b88?source=rss------programming-5) (2025-11-30)
-- [Data Cleaning in Python: A Complete Beginner’s Guide (With Easy Pandas Examples)](https://ai.gopubby.com/data-cleaning-in-python-a-complete-beginners-guide-with-easy-pandas-examples-1585933bacab?source=rss------programming-5) (2025-11-30)
+- [The 12 Terminal Tools That Turned Me From “Developer Who Tries” Into “Developer People Call at 3…](https://medium.com/@suryawanshiaditya159/the-12-terminal-tools-that-turned-me-from-developer-who-tries-into-developer-people-call-at-3-f04b69b3aab9?source=rss------programming-5) (2025-11-30)
+- [Conflict Resolution Strategies for Distributed Systems: When Two Truths Collide](https://medium.com/@sohail_saifii/conflict-resolution-strategies-for-distributed-systems-when-two-truths-collide-5d4abc4f1945?source=rss------programming-5) (2025-11-30)
+- [We leave data in so many places, notes, screenshots, links, chats, but nobody talks about the…](https://medium.com/@vidaofweb3/we-leave-data-in-so-many-places-notes-screenshots-links-chats-but-nobody-talks-about-the-1a369816103c?source=rss------programming-5) (2025-11-30)
+- [How to Write Architecture Tests for the Clean Architecture in .Net 9](https://medium.com/@michaelmaurice410/how-to-write-architecture-tests-for-the-clean-architecture-in-net-9-3e26138b8e32?source=rss------programming-5) (2025-11-30)
+- [Domain-Driven Design Without an ORM Using the Snapshot Pattern](https://medium.com/@mariammaurice/domain-driven-design-without-an-orm-using-the-snapshot-pattern-9ee29f01d6d7?source=rss------programming-5) (2025-11-30)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Introducing Claude Opus 4.5 in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/) (2025-11-24)
 - [Microsoft Foundry: Scale innovation on a modular, interoperable, and secure agent stack](https://azure.microsoft.com/en-us/blog/microsoft-foundry-scale-innovation-on-a-modular-interoperable-and-secure-agent-stack/) (2025-11-18)
 - [Azure at Microsoft Ignite 2025: All the intelligent cloud news explained](https://azure.microsoft.com/en-us/blog/azure-at-microsoft-ignite-2025-all-the-intelligent-cloud-news-explained/) (2025-11-18)
 - [Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate](https://azure.microsoft.com/en-us/blog/microsoft-databases-and-microsoft-fabric-your-unified-and-ai-powered-data-estate/) (2025-11-18)
 - [Announcing Azure Copilot agents and AI infrastructure innovations](https://azure.microsoft.com/en-us/blog/announcing-azure-copilot-agents-and-ai-infrastructure-innovations/) (2025-11-18)
-- [Introducing Anthropic’s Claude models in Microsoft Foundry: Bringing Frontier intelligence to Azure](https://azure.microsoft.com/en-us/blog/introducing-anthropics-claude-models-in-microsoft-foundry-bringing-frontier-intelligence-to-azure/) (2025-11-18)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/products/launches/launch-whatsapp-faster-with-
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Machine Learning and Deep Learning “Advent Calendar” Series: The Blueprint](https://towardsdatascience.com/machine-learning-and-deep-learning-in-excel-advent-calendar-announcement/) (2025-11-30)
+- [The Greedy Boruta Algorithm: Faster Feature Selection Without Sacrificing Recall](https://towardsdatascience.com/the-greedy-boruta-algorithm-faster-feature-selection-without-sacrificing-recall/) (2025-11-30)
 - [Metric Deception: When Your Best KPIs Hide Your Worst Failures](https://towardsdatascience.com/metric-deception-when-your-best-kpis-hide-your-worst-failures/) (2025-11-29)
 - [How to Scale Your LLM Usage](https://towardsdatascience.com/how-to-scale-your-llm-usage/) (2025-11-29)
 - [Data Science in 2026: Is It Still Worth It?](https://towardsdatascience.com/data-science-in-2026-is-it-still-worth-it/) (2025-11-28)
-- [Why We’ve Been Optimizing the Wrong Thing in LLMs for Years](https://towardsdatascience.com/why-weve-been-optimizing-the-wrong-thing-in-llms-for-years/) (2025-11-28)
-- [The Product Health Score: How I Reduced Critical Incidents by 35% with Unified Monitoring and n8n Automation](https://towardsdatascience.com/the-product-health-score-how-i-reduced-critical-incidents-by-35-with-unified-monitoring-and-n8n-automation/) (2025-11-28)
 
 </details>
 
@@ -601,11 +601,11 @@ https://www.twilio.com/en-us/blog/products/launches/launch-whatsapp-faster-with-
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [How to Speed-Up Training of Language Models](https://machinelearningmastery.com/how-to-speed-up-training-of-language-models/) (2025-11-30)
 - [Fine-Tuning a BERT Model](https://machinelearningmastery.com/fine-tuning-a-bert-model/) (2025-11-28)
 - [The Journey of a Token: What Really Happens Inside a Transformer](https://machinelearningmastery.com/the-journey-of-a-token-what-really-happens-inside-a-transformer/) (2025-11-26)
 - [Pretrain a BERT Model from Scratch](https://machinelearningmastery.com/pretrain-a-bert-model-from-scratch/) (2025-11-26)
 - [K-Means Cluster Evaluation with Silhouette Analysis](https://machinelearningmastery.com/k-means-cluster-evaluation-with-silhouette-analysis/) (2025-11-25)
-- [The Complete Guide to Docker for Machine Learning Engineers](https://machinelearningmastery.com/the-complete-guide-to-docker-for-machine-learning-engineers/) (2025-11-24)
 
 </details>
 
