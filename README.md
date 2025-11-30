@@ -31,20 +31,20 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Dilution vs. Risk taking: Capital gains taxes and entrepreneurs](https://www.nber.org/papers/w34512) (2025-11-29)
-- [Scala](https://www.huygens-fokker.org/scala/) (2025-11-29)
-- [Bazzite: The next generation of Linux gaming](https://bazzite.gg/) (2025-11-29)
-- [Landlock-Ing Linux](https://blog.prizrak.me/post/landlock/) (2025-11-29)
-- [Europe's New War on Privacy](https://unherd.com/2025/11/europes-new-war-on-privacy/) (2025-11-29)
+- [Zigbook Is Plagiarizing the Zigtools Playground](https://zigtools.org/blog/zigbook-plagiarizing-playground/) (2025-11-30)
+- [Show HN: Boing](https://boing.greg.technology/) (2025-11-30)
+- [Stopping bad guys from using my open source project (feedback wanted)](https://evanhahn.com/stopping-bad-guys-from-using-my-open-source-project/) (2025-11-30)
+- [Meshtastic](https://meshtastic.org/) (2025-11-30)
+- [A new Little Prince museum has opened its doors in Switzerland](https://www.lepetitprince.com/en/events-around-the-world/a-new-little-prince-museum-has-opened-its-doors-in-switzerland/) (2025-11-30)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The 201 Black Friday deals you can still get](https://www.theverge.com/gadgets/832641/black-friday-2025-best-deals-tech-gadgets-still-available) (2025-11-30)
 - [Anker’s handy little 3-port charger is just 35 bucks](https://www.theverge.com/gadgets/833697/anker-prime-charger-67w-3-port) (2025-11-29)
 - [The best gaming headset I tried this year is $60 off for Black Friday](https://www.theverge.com/gadgets/829932/wireless-pc-gaming-headset-fractal-scape-deal-sale-black-friday) (2025-11-29)
-- [The 200 Black Friday deals you can still get](https://www.theverge.com/gadgets/832641/black-friday-2025-best-deals-tech-gadgets-still-available) (2025-11-29)
 - [I tested 15 cases for the Switch 2 and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases) (2025-11-29)
 - [The Fujifilm X Half is on sale for what it should have originally cost](https://www.theverge.com/gadgets/833668/fujifilm-x-half-camera-price-black-friday-cyber-monday) (2025-11-29)
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Boost Revenue: Integrate Monetzly for Seamless AI Conversation Monetization](https://dev.to/monetzly/boost-revenue-integrate-monetzly-for-seamless-ai-conversation-monetization-1i6a) (2025-11-30)
-- [Maglev-Pentabot: From Factory Floor to Surgical Precision? The Future of Non-Contact Manipulation](https://dev.to/arvind_sundararajan/maglev-pentabot-from-factory-floor-to-surgical-precision-the-future-of-non-contact-manipulation-lb1) (2025-11-30)
-- [Desafio Final e o Segredo do O(N) (Dois Ponteiros)](https://dev.to/gissandrogama/desafio-final-e-o-segredo-do-on-dois-ponteiros-3g4) (2025-11-30)
-- [O Padrão Ouro da Ordenação: O(N log N)](https://dev.to/gissandrogama/post-4-o-padrao-ouro-da-ordenacao-on-log-n-46jp) (2025-11-30)
-- [Otimizando landing page e-commerce: Guia definitivo 2025](https://dev.to/littlegoat/otimizando-landing-page-e-commerce-guia-definitivo-2025-56lj) (2025-11-30)
+- [Brex Database Disaster Recovery](https://dev.to/elianalamhost/brex-database-disaster-recovery-4375) (2025-11-30)
+- [UserScanner a CLI tool to help you select a unique username across all popular sites.](https://dev.to/kaifcodec/userscanner-a-cli-tool-to-help-you-select-a-unique-username-across-all-popular-sites-3bn1) (2025-11-30)
+- [Conquering the Shadow DOM: A Guide for Automation Testers](https://dev.to/godhirajcode/conquering-the-shadow-dom-a-guide-for-automation-testers-36i8) (2025-11-30)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1hb1) (2025-11-30)
+- [That One Weird Line of Go Code That Saved My Weekend (And My Sanity)](https://dev.to/dev-tngsh/hat-one-weird-line-of-go-code-that-saved-my-weekend-and-my-sanity-4k0h) (2025-11-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Python Isn’t Dying — It’s Transforming. Most Developers Haven’t Noticed Yet](https://medium.com/@adityasriv16/python-isnt-dying-it-s-transforming-most-developers-haven-t-noticed-yet-8495f7d96837?source=rss------programming-5) (2025-11-30)
-- [09378431470شماره خاله تهران شماره خاله تهران پارس شماره خاله اسلامشهر شماره خاله صیغه شماره خاله…](https://medium.com/@jwjwjwjwjwjwjwjwwjwjwjuwuwuwuw/09378431470%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-801be535de05?source=rss------programming-5) (2025-11-30)
-- [09378431470شماره خاله تهران شماره خاله تهران پارس شماره خاله اسلامشهر شماره خاله صیغه شماره خاله…](https://medium.com/@jwjwjwjwjwjwjwjwwjwjwjuwuwuwuw/09378431470%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-67de7cb84b7a?source=rss------programming-5) (2025-11-30)
-- [Leetcode 75 Question — Counting Bits (LeetCode 338): Explanation of the Problem](https://medium.com/@sajansshergill/leetcode-75-question-counting-bits-leetcode-338-explanation-of-the-problem-467f612825b4?source=rss------programming-5) (2025-11-30)
-- [How TikTok saved 300k by moving Go Apis to Rust](https://medium.com/@ashwin.appsignups/how-tiktok-saved-300k-by-moving-go-apis-to-rust-8eba6a1a8a4b?source=rss------programming-5) (2025-11-30)
+- [My Job Agent — AI Job Matching Berbasis CV Dengan Golang, Vue.js, dan Cloud Run](https://medium.com/@aryap_20571/my-job-agent-ai-job-matching-berbasis-cv-dengan-golang-vue-js-dan-cloud-run-57056723ae9b?source=rss------programming-5) (2025-11-30)
+- [Java 25: Sadece Bir Güncelleme Değil, Bir Zihniyet Devrimi](https://medium.com/@qa.omerkacar/java-25-sadece-bir-g%C3%BCncelleme-de%C4%9Fil-bir-zihniyet-devrimi-8cc13f93cf26?source=rss------programming-5) (2025-11-30)
+- [Cursor vs Google AntiGravity : Best AI IDE for Vibe Coders?](https://medium.com/data-science-in-your-pocket/cursor-vs-google-antigravity-best-ai-ide-for-vibe-coders-f3ecbd02f161?source=rss------programming-5) (2025-11-30)
+- [How I Automated My X Account With Python (and Boosted My Reach Like Crazy)](https://azeemteli.medium.com/twitter-automation-with-python-boost-reach-cd15d9efb96c?source=rss------programming-5) (2025-11-30)
+- [Historic Financial Ratios for Your Hedge Fund in ArcticDB](https://medium.com/coding-nexus/historic-financial-ratios-for-your-hedge-fund-in-arcticdb-e8c6d2afa042?source=rss------programming-5) (2025-11-30)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Introducing Claude Opus 4.5 in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/) (2025-11-24)
 - [Microsoft Foundry: Scale innovation on a modular, interoperable, and secure agent stack](https://azure.microsoft.com/en-us/blog/microsoft-foundry-scale-innovation-on-a-modular-interoperable-and-secure-agent-stack/) (2025-11-18)
 - [Azure at Microsoft Ignite 2025: All the intelligent cloud news explained](https://azure.microsoft.com/en-us/blog/azure-at-microsoft-ignite-2025-all-the-intelligent-cloud-news-explained/) (2025-11-18)
 - [Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate](https://azure.microsoft.com/en-us/blog/microsoft-databases-and-microsoft-fabric-your-unified-and-ai-powered-data-estate/) (2025-11-18)
 - [Announcing Azure Copilot agents and AI infrastructure innovations](https://azure.microsoft.com/en-us/blog/announcing-azure-copilot-agents-and-ai-infrastructure-innovations/) (2025-11-18)
+- [Introducing Anthropic’s Claude models in Microsoft Foundry: Bringing Frontier intelligence to Azure](https://azure.microsoft.com/en-us/blog/introducing-anthropics-claude-models-in-microsoft-foundry-bringing-frontier-intelligence-to-azure/) (2025-11-18)
 
 </details>
 
