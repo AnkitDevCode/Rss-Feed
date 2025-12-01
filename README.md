@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [‘Avatar’ director James Cameron says generative AI is ‘horrifying’](https://techcrunch.com/2025/11/30/avatar-director-james-cameron-says-generative-ai-is-horrifying/) (2025-11-30)
+- [New report examines how David Sacks might profit from Trump administration role](https://techcrunch.com/2025/11/30/new-report-examines-how-david-sacks-might-profit-from-trump-administration-role/) (2025-11-30)
+- [ChatGPT launched three years ago today](https://techcrunch.com/2025/11/30/chatgpt-launched-three-years-ago-today/) (2025-11-30)
 - [Behind the scenes of drone food delivery in Finland](https://techcrunch.com/2025/11/30/behind-the-scenes-of-drone-food-delivery-in-finland/) (2025-11-30)
 - [Airbus orders software fix to thousands of planes due to solar radiation risk](https://techcrunch.com/2025/11/29/airbus-orders-software-fix-to-thousands-of-planes-due-to-solar-radiation-risk/) (2025-11-29)
-- [Black Friday sets online spending record of $11.8B, Adobe says](https://techcrunch.com/2025/11/29/black-friday-sets-online-spending-record-of-11-8b-adobe-says/) (2025-11-29)
-- [New York state law takes aim at personalized pricing](https://techcrunch.com/2025/11/29/new-york-state-law-takes-aim-at-personalized-pricing/) (2025-11-29)
-- [No, you can’t get your AI to ‘admit’ to being sexist, but it probably is anyway](https://techcrunch.com/2025/11/29/no-you-cant-get-your-ai-to-admit-to-being-sexist-but-it-probably-is/) (2025-11-29)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [LLVM-MOS – Clang LLVM fork targeting the 6502](https://llvm-mos.org/wiki/Welcome) (2025-11-30)
-- [RetailReady (YC W24) Is Hiring Associate Product Manager](https://www.ycombinator.com/companies/retailready/jobs/KPKDu3D-associate-product-manager) (2025-11-30)
-- [The Thinking Game Film – Google DeepMind Documentary](https://thinkinggamefilm.com) (2025-11-30)
-- [Langjam Gamejam: Build a programming language then make a game with it](https://langjamgamejam.com/) (2025-11-30)
-- [Migrating Dillo from GitHub](https://dillo-browser.org/news/migration-from-github/) (2025-11-30)
+- [Advent of Sysadmin 2025](https://sadservers.com/advent) (2025-12-01)
+- [Is America's jobs market nearing a cliff?](https://www.economist.com/finance-and-economics/2025/11/30/is-americas-jobs-market-nearing-a-cliff) (2025-12-01)
+- [Algorithms for Optimization [pdf]](https://algorithmsbook.com/optimization/files/optimization.pdf) (2025-11-30)
+- [Bricklink suspends Marketplace operations in 35 countries](https://jaysbrickblog.com/news/bricklink-suspends-marketplace-operations-in-35-countries/) (2025-11-30)
+- [A Love Letter to FreeBSD](https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/) (2025-11-30)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The absolute best Cyber Monday deals you can already shop](https://www.theverge.com/gadgets/833101/cyber-monday-best-early-deals-2025) (2025-11-30)
-- [The best Cyber Monday deals on some of my favorite smart home gear](https://www.theverge.com/gadgets/831719/best-black-friday-cyber-monday-smart-home-deals) (2025-11-30)
-- [Screaming Cyber Monday deals on Bose, Sony, and Apple headphones and earbuds](https://www.theverge.com/gadgets/831125/best-black-friday-headphone-earbud-deals-2025) (2025-11-30)
-- [The best Cyber Monday deals on Apple MacBooks, AirTags, iPads, and more](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025) (2025-11-30)
-- [I just want AI to rename my photos](https://www.theverge.com/podcast/833993/raycast-ai-models-vergecast) (2025-11-30)
+- [Anker’s Laptop Power Bank is  $32 off for Cyber Monday, its biggest discount yet](https://www.theverge.com/gadgets/834269/anker-laptop-power-bank-cyber-monday-deal-sale-2025) (2025-12-01)
+- [The absolute best Cyber Monday deals you can already shop](https://www.theverge.com/gadgets/833101/cyber-monday-best-early-deals-2025) (2025-12-01)
+- [Our favorite laptops from Apple, Razer, HP, and others are over $500 for Cyber Monday](https://www.theverge.com/gadgets/828617/best-black-friday-laptop-deals-macbook-surface-gaming-notebooks-2025) (2025-11-30)
+- [Data centers in Oregon might be helping to drive an increase in cancer and miscarriages](https://www.theverge.com/news/834151/amazon-data-centers-oregon-cancer-miscarriage) (2025-11-30)
+- [My favorite Cyber Monday TV deals from Samsung, Sony, and others are up to 50% off](https://www.theverge.com/tech/829579/best-4k-tv-streaming-soundbar-blu-ray-player-deal-sale-black-friday) (2025-11-30)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Primeros Pasos con AWS CDK en Linux: Guía Completa de Instalación](https://dev.to/tenondev/primeros-pasos-con-aws-cdk-en-linux-guia-completa-de-instalacion-d23) (2025-11-30)
-- [[Boost]](https://dev.to/oncloud7/-16c1) (2025-11-30)
-- [How to Create An Amazon EKS - Step by Step for Beginners](https://dev.to/oncloud7/how-to-create-an-amazon-eks-step-by-step-for-beginners-2do6) (2025-11-30)
-- [SQL Case Files: A Free, Story Driven way to practice SQL](https://dev.to/sqlcasefiles/sql-case-files-a-free-story-driven-way-to-practice-sql-5hed) (2025-11-30)
-- [CAVLite: Lightweight, Memory-Efficient Security Audit for Low-RAM Servers.](https://dev.to/ganesh-kumar/cavlite-lightweight-memory-efficient-security-audit-for-low-ram-servers-ph7) (2025-11-30)
+- [Avoid the Temptation of Header-Only Libraries](https://dev.to/pauljlucas/avoid-the-temptation-of-header-only-libraries-33an) (2025-12-01)
+- [Adaptive Gripping: Bridging the Dexterity Gap in Robotics](https://dev.to/arvind_sundararajan/adaptive-gripping-bridging-the-dexterity-gap-in-robotics-2im1) (2025-12-01)
+- [DataViz Kit Weekly Update: Testing New SEO Strategies](https://dev.to/roshaan_tahir/dataviz-kit-weekly-update-testing-new-seo-strategies-45ih) (2025-12-01)
+- [Pequenos atalhos Git que deixaram meu fluxo de trabalho muito mais rápido](https://dev.to/leorodriguesdev/pequenos-atalhos-git-que-deixaram-meu-fluxo-de-trabalho-muito-mais-rapido-2556) (2025-12-01)
+- [Small shortcuts that made my Git workflow easier](https://dev.to/leorodriguesdev/small-shortcuts-that-made-my-git-workflow-easier-3bhe) (2025-12-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The 12 Terminal Tools That Turned Me From “Developer Who Tries” Into “Developer People Call at 3…](https://medium.com/@suryawanshiaditya159/the-12-terminal-tools-that-turned-me-from-developer-who-tries-into-developer-people-call-at-3-f04b69b3aab9?source=rss------programming-5) (2025-11-30)
-- [Conflict Resolution Strategies for Distributed Systems: When Two Truths Collide](https://medium.com/@sohail_saifii/conflict-resolution-strategies-for-distributed-systems-when-two-truths-collide-5d4abc4f1945?source=rss------programming-5) (2025-11-30)
-- [We leave data in so many places, notes, screenshots, links, chats, but nobody talks about the…](https://medium.com/@vidaofweb3/we-leave-data-in-so-many-places-notes-screenshots-links-chats-but-nobody-talks-about-the-1a369816103c?source=rss------programming-5) (2025-11-30)
-- [How to Write Architecture Tests for the Clean Architecture in .Net 9](https://medium.com/@michaelmaurice410/how-to-write-architecture-tests-for-the-clean-architecture-in-net-9-3e26138b8e32?source=rss------programming-5) (2025-11-30)
-- [Domain-Driven Design Without an ORM Using the Snapshot Pattern](https://medium.com/@mariammaurice/domain-driven-design-without-an-orm-using-the-snapshot-pattern-9ee29f01d6d7?source=rss------programming-5) (2025-11-30)
+- [Forget HPA — 3 KEDA Tricks That Make Kubernetes Scaling Instant](https://medium.com/@Krishnajlathi/forget-hpa-3-keda-tricks-that-make-kubernetes-scaling-instant-ae130b9a25d1?source=rss------programming-5) (2025-12-01)
+- [⭐ FastAPI + Docker for AI Engineers](https://medium.com/pen-with-paper/fastapi-docker-for-ai-engineers-33c05822ebbe?source=rss------programming-5) (2025-12-01)
+- [0004) Study Log: Analysis of USA Baby Name Rankings Using BigQuery Open Data [3/4]](https://aknikn-tech.medium.com/0004-study-log-analysis-of-usa-baby-name-rankings-using-bigquery-open-data-3-4-0553f2d9ed5f?source=rss------programming-5) (2025-12-01)
+- [Day 33 — Engineering Mindset — Thinking in Systems, Not Just Code ️](https://medium.com/@javaScriptwithvinay/day-33-engineering-mindset-thinking-in-systems-not-just-code-%EF%B8%8F-ac777b4e2747?source=rss------programming-5) (2025-12-01)
+- [Buy Stromectol Online Over The Counter](https://medium.com/@broc.keren.z.oni.49/buy-stromectol-online-over-the-counter-9a7f69d10070?source=rss------programming-5) (2025-12-01)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Introducing Claude Opus 4.5 in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/) (2025-11-24)
 - [Microsoft Foundry: Scale innovation on a modular, interoperable, and secure agent stack](https://azure.microsoft.com/en-us/blog/microsoft-foundry-scale-innovation-on-a-modular-interoperable-and-secure-agent-stack/) (2025-11-18)
 - [Azure at Microsoft Ignite 2025: All the intelligent cloud news explained](https://azure.microsoft.com/en-us/blog/azure-at-microsoft-ignite-2025-all-the-intelligent-cloud-news-explained/) (2025-11-18)
 - [Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate](https://azure.microsoft.com/en-us/blog/microsoft-databases-and-microsoft-fabric-your-unified-and-ai-powered-data-estate/) (2025-11-18)
 - [Announcing Azure Copilot agents and AI infrastructure innovations](https://azure.microsoft.com/en-us/blog/announcing-azure-copilot-agents-and-ai-infrastructure-innovations/) (2025-11-18)
+- [Introducing Anthropic’s Claude models in Microsoft Foundry: Bringing Frontier intelligence to Azure](https://azure.microsoft.com/en-us/blog/introducing-anthropics-claude-models-in-microsoft-foundry-bringing-frontier-intelligence-to-azure/) (2025-11-18)
 
 </details>
 
