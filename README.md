@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Korea’s Coupang says data breach exposed nearly 34M customers’ personal information](https://techcrunch.com/2025/12/01/koreas-coupang-says-data-breach-exposed-nearly-34m-customers-personal-information/) (2025-12-01)
 - [Varda says it has proven space manufacturing works — now it wants to make it boring](https://techcrunch.com/2025/11/30/varda-says-it-has-proven-space-manufacturing-works-now-it-wants-to-make-it-boring/) (2025-12-01)
 - [‘Avatar’ director James Cameron says generative AI is ‘horrifying’](https://techcrunch.com/2025/11/30/avatar-director-james-cameron-says-generative-ai-is-horrifying/) (2025-11-30)
 - [New report examines how David Sacks might profit from Trump administration role](https://techcrunch.com/2025/11/30/new-report-examines-how-david-sacks-might-profit-from-trump-administration-role/) (2025-11-30)
 - [ChatGPT launched three years ago today](https://techcrunch.com/2025/11/30/chatgpt-launched-three-years-ago-today/) (2025-11-30)
-- [Behind the scenes of drone food delivery in Finland](https://techcrunch.com/2025/11/30/behind-the-scenes-of-drone-food-delivery-in-finland/) (2025-11-30)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [It's Been a Hard Year](https://bell.bz/its-been-a-very-hard-year/) (2025-12-01)
-- [Google Antigravity Deletes D Drive](https://mastodon.gamedev.place/@bastardsheep@aus.social/115641546248437052) (2025-12-01)
-- [SmartTube Compromised](https://www.aftvnews.com/smarttubes-official-apk-was-compromised-with-malware-what-you-should-do-if-you-use-it/) (2025-12-01)
-- [Search tool that only returns content created before ChatGPT's public release](https://tegabrain.com/Slop-Evader) (2025-12-01)
-- [X210Ai is a new motherboard to upgrade ThinkPad X201/200](https://www.tpart.net/about-x210ai/) (2025-12-01)
+- [1GB Raspberry Pi 5, and memory-driven price rises](https://www.raspberrypi.com/news/1gb-raspberry-pi-5-now-available-at-45-and-memory-driven-price-rises/) (2025-12-01)
+- [UK Government plans new powers to label dissenting movements as 'subversion'](https://netpol.org/2025/11/28/government-plans-new-powers-to-label-dissenting-movements-as-subversion/) (2025-12-01)
+- [Self-hosting a Matrix server for 5 years](https://yaky.dev/2025-11-30-self-hosting-matrix/) (2025-12-01)
+- [Why Is ChatGPT for Mac So Good?](https://allenpike.com/2025/why-is-chatgpt-so-good-claude) (2025-12-01)
+- [DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning](https://huggingface.co/deepseek-ai/DeepSeek-Math-V2) (2025-12-01)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Here are 50 standout deals under $100 we’re eyeing for Cyber Monday](https://www.theverge.com/gadgets/833655/cyber-monday-best-cheap-tech-deals-under-100-2025) (2025-12-01)
-- [The best Cyber Monday deals on Apple MacBooks, AirTags, iPads, and more](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025) (2025-12-01)
-- [The absolute best Cyber Monday deals you can already shop](https://www.theverge.com/gadgets/833101/cyber-monday-best-early-deals-2025) (2025-12-01)
-- [Anker’s Laptop Power Bank is  $32 off for Cyber Monday, its biggest discount yet](https://www.theverge.com/gadgets/834269/anker-laptop-power-bank-cyber-monday-deal-sale-2025) (2025-12-01)
-- [Our favorite laptops from Apple, Razer, HP, and others are over $500 for Cyber Monday](https://www.theverge.com/gadgets/828617/best-black-friday-laptop-deals-macbook-surface-gaming-notebooks-2025) (2025-11-30)
+- [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas) (2025-12-01)
+- [Apple’s M2 MacBook Air is just $599 during Cyber Monday](https://www.theverge.com/gadgets/834693/apple-m2-macbook-air-cyber-monday-deal-sale) (2025-12-01)
+- [Welcome to fandom’s AI clout economy](https://www.theverge.com/ai-artificial-intelligence/830876/influencers-anti-ai-deepfakes-fandom-economy) (2025-12-01)
+- [Zillow property listings no longer show risk of fires, floods, and storms](https://www.theverge.com/news/834715/zillow-removes-flood-fire-risk-scores-home-listings) (2025-12-01)
+- [The Verge’s guide to Cyber Monday 2025](https://www.theverge.com/tech/808624/black-friday-cyber-monday-guide-2025) (2025-12-01)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [After 40 years of adventure games, Ron Gilbert pivots to outrunning Death](https://arstechnica.com/gaming/2025/12/after-40-years-of-adventure-games-ron-gilbert-pivots-to-outrunning-death/) (2025-12-01)
 - [Revisiting Jill of the Jungle, the last game Tim Sweeney designed](https://arstechnica.com/gaming/2025/11/revisiting-jill-of-the-jungle-the-last-game-tim-sweeney-designed/) (2025-11-30)
 - [Achieving lasting remission for HIV](https://arstechnica.com/science/2025/11/achieving-lasting-remission-for-hiv/) (2025-11-29)
 - [Before a Soyuz launch Thursday someone forgot to secure a 20-ton service platform](https://arstechnica.com/space/2025/11/russian-launch-pad-incident-raises-concerns-about-future-of-space-station/) (2025-11-28)
 - [Here are the best Black Friday deals we can find](https://arstechnica.com/shopping/2025/11/here-are-the-best-black-friday-deals-we-can-find/) (2025-11-28)
-- [Reintroduced carnivores’ impacts on ecosystems are still coming into focus](https://arstechnica.com/science/2025/11/reintroduced-carnivores-impacts-on-ecosystems-are-still-coming-into-focus/) (2025-11-28)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Nominations are now open for our global 2026 Innovators Under 35 competition](https://www.technologyreview.com/2025/12/01/1128610/nominations-open-global-2026-innovators-under-35-competition/) (2025-12-01)
+- [An AI model trained on prison phone calls now looks for planned crimes in those calls](https://www.technologyreview.com/2025/12/01/1128591/an-ai-model-trained-on-prison-phone-calls-is-now-being-used-to-surveil-inmates/) (2025-12-01)
 - [The Download: the mysteries surrounding weight-loss drugs, and the economic effects of AI](https://www.technologyreview.com/2025/11/28/1128516/the-download-the-mysteries-surrounding-weight-loss-drugs-and-the-economic-effects-of-ai/) (2025-11-28)
 - [What we still don’t know about weight-loss drugs](https://www.technologyreview.com/2025/11/28/1128511/what-we-still-dont-know-about-weight-loss-drugs/) (2025-11-28)
 - [The Download: the fossil fuel elephant in the room, and better tests for endometriosis](https://www.technologyreview.com/2025/11/27/1128505/the-download-the-fossil-fuel-elephant-in-the-room-and-better-tests-for-endometriosis/) (2025-11-27)
-- [This year’s UN climate talks avoided fossil fuels, again](https://www.technologyreview.com/2025/11/27/1128443/climate-talks-fossil-fuels/) (2025-11-27)
-- [Moving toward LessOps with VMware-to-cloud migrations](https://www.technologyreview.com/2025/11/27/1128465/moving-toward-lessops-with-vmware-to-cloud-migrations/) (2025-11-27)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Perl 🐪 Weekly #749 - Design Patterns in Modern Perl](https://dev.to/szabgab/perl-weekly-749-design-patterns-in-modern-perl-3899) (2025-12-01)
-- [Stay ahead in web development: latest news, tools, and insights #113](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-113-4238) (2025-12-01)
-- [Ditch Cloud WAFs: How to Migrate to Self-Hosted SafeLine WAF with Zero Downtime](https://dev.to/arina_cholee/ditch-cloud-wafs-how-to-migrate-to-self-hosted-safeline-waf-with-zero-downtime-4afh) (2025-12-01)
-- [How to Really Measure AI Agent Performance (and ROI)](https://dev.to/aiwithapex/how-to-really-measure-ai-agent-performance-and-roi-3hnc) (2025-12-01)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-56lo) (2025-12-01)
+- [Smart_Store: Triple-Lock Validation for Secure Data Imports](https://dev.to/emma_vic_5c08c5a528c1513e7/smartstore-triple-lock-validation-for-secure-data-imports-3761) (2025-12-01)
+- [Day 12: Python Programming](https://dev.to/aruna_arun_0cda4eb425bb0f/day-12-python-programming-156n) (2025-12-01)
+- [Smart TV App Development: OTT Beyond Mobile and Web](https://dev.to/regal22/smart-tv-app-development-ott-beyond-mobile-and-web-6fc) (2025-12-01)
+- ["That's Just How It Is" Kills Innovation: Building Teams That Question Everything](https://dev.to/tlorent/thats-just-how-it-is-kills-innovation-building-teams-that-question-everything-28o2) (2025-12-01)
+- [Testing Angular 21 Components with Vitest: A Complete Guide](https://dev.to/olayeancarh/testing-angular-21-components-with-vitest-a-complete-guide-4db7) (2025-12-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [You’ve Got To Be Smart To Solve This PySpark Interview Question!](https://medium.com/towards-data-engineering/youve-got-to-be-smart-to-solve-this-pyspark-interview-question-57b7e56d79ae?source=rss------programming-5) (2025-12-01)
-- [How Earnings Work on StudentEarning .com — And How You Can Grow Your Income](https://medium.com/@mordikingslo/how-earnings-work-on-studentearning-com-and-how-you-can-grow-your-income-1f996e9bbdad?source=rss------programming-5) (2025-12-01)
-- [Viral video of girl 19 minute new viral video full 19 minutes](https://medium.com/@terohelenius/viral-video-of-girl-19-minute-new-viral-video-full-19-minutes-4e42ae228a95?source=rss------programming-5) (2025-12-01)
-- [Game Art & Asset Creation](https://medium.com/@devaraz/game-art-asset-creation-2f28c2c0897b?source=rss------programming-5) (2025-12-01)
-- [Rust and the Linux Rewrite Problem](https://medium.com/coding-nexus/rust-and-the-linux-rewrite-problem-84f8b8fa8300?source=rss------programming-5) (2025-12-01)
+- [WHAT MAKES USDJPY TO FALL 1 DEC. 2025](https://medium.com/@sadiqsufyan001/what-makes-usdjpy-to-fall-1-dec-2025-ad3ec27c531d?source=rss------programming-5) (2025-12-01)
+- [10 Python Libraries Every Developer Should Know (Beginner-Friendly Guide)](https://blog.stackademic.com/10-python-libraries-every-developer-should-know-beginner-friendly-guide-0c804a5cd9de?source=rss------programming-5) (2025-12-01)
+- [Developers Are No Longer Building Software. They Are Configuring Software About Software.](https://medium.com/@shivamyaduvanshi435/developers-are-no-longer-building-software-they-are-configuring-software-about-software-eb56594e4fcc?source=rss------programming-5) (2025-12-01)
+- [Automating Your Morning Routine with Python: News, Weather, and Calendar Updates](https://blog.devgenius.io/automating-your-morning-routine-with-python-news-weather-and-calendar-updates-2fdaf6a00677?source=rss------programming-5) (2025-12-01)
+- [How to Tell if Options Are Cheap with Volatility Cones](https://medium.com/coding-nexus/how-to-tell-if-options-are-cheap-with-volatility-cones-37aa13043382?source=rss------programming-5) (2025-12-01)
 
 </details>
 
