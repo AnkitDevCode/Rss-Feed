@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Varda says it has proven space manufacturing works — now it wants to make it boring](https://techcrunch.com/2025/11/30/varda-says-it-has-proven-space-manufacturing-works-now-it-wants-to-make-it-boring/) (2025-12-01)
 - [‘Avatar’ director James Cameron says generative AI is ‘horrifying’](https://techcrunch.com/2025/11/30/avatar-director-james-cameron-says-generative-ai-is-horrifying/) (2025-11-30)
 - [New report examines how David Sacks might profit from Trump administration role](https://techcrunch.com/2025/11/30/new-report-examines-how-david-sacks-might-profit-from-trump-administration-role/) (2025-11-30)
 - [ChatGPT launched three years ago today](https://techcrunch.com/2025/11/30/chatgpt-launched-three-years-ago-today/) (2025-11-30)
 - [Behind the scenes of drone food delivery in Finland](https://techcrunch.com/2025/11/30/behind-the-scenes-of-drone-food-delivery-in-finland/) (2025-11-30)
-- [Airbus orders software fix to thousands of planes due to solar radiation risk](https://techcrunch.com/2025/11/29/airbus-orders-software-fix-to-thousands-of-planes-due-to-solar-radiation-risk/) (2025-11-29)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Advent of Sysadmin 2025](https://sadservers.com/advent) (2025-12-01)
-- [Is America's jobs market nearing a cliff?](https://www.economist.com/finance-and-economics/2025/11/30/is-americas-jobs-market-nearing-a-cliff) (2025-12-01)
-- [Algorithms for Optimization [pdf]](https://algorithmsbook.com/optimization/files/optimization.pdf) (2025-11-30)
-- [Bricklink suspends Marketplace operations in 35 countries](https://jaysbrickblog.com/news/bricklink-suspends-marketplace-operations-in-35-countries/) (2025-11-30)
-- [A Love Letter to FreeBSD](https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/) (2025-11-30)
+- [It's Been a Hard Year](https://bell.bz/its-been-a-very-hard-year/) (2025-12-01)
+- [Google Antigravity Deletes D Drive](https://mastodon.gamedev.place/@bastardsheep@aus.social/115641546248437052) (2025-12-01)
+- [SmartTube Compromised](https://www.aftvnews.com/smarttubes-official-apk-was-compromised-with-malware-what-you-should-do-if-you-use-it/) (2025-12-01)
+- [Search tool that only returns content created before ChatGPT's public release](https://tegabrain.com/Slop-Evader) (2025-12-01)
+- [X210Ai is a new motherboard to upgrade ThinkPad X201/200](https://www.tpart.net/about-x210ai/) (2025-12-01)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Anker’s Laptop Power Bank is  $32 off for Cyber Monday, its biggest discount yet](https://www.theverge.com/gadgets/834269/anker-laptop-power-bank-cyber-monday-deal-sale-2025) (2025-12-01)
+- [Here are 50 standout deals under $100 we’re eyeing for Cyber Monday](https://www.theverge.com/gadgets/833655/cyber-monday-best-cheap-tech-deals-under-100-2025) (2025-12-01)
+- [The best Cyber Monday deals on Apple MacBooks, AirTags, iPads, and more](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025) (2025-12-01)
 - [The absolute best Cyber Monday deals you can already shop](https://www.theverge.com/gadgets/833101/cyber-monday-best-early-deals-2025) (2025-12-01)
+- [Anker’s Laptop Power Bank is  $32 off for Cyber Monday, its biggest discount yet](https://www.theverge.com/gadgets/834269/anker-laptop-power-bank-cyber-monday-deal-sale-2025) (2025-12-01)
 - [Our favorite laptops from Apple, Razer, HP, and others are over $500 for Cyber Monday](https://www.theverge.com/gadgets/828617/best-black-friday-laptop-deals-macbook-surface-gaming-notebooks-2025) (2025-11-30)
-- [Data centers in Oregon might be helping to drive an increase in cancer and miscarriages](https://www.theverge.com/news/834151/amazon-data-centers-oregon-cancer-miscarriage) (2025-11-30)
-- [My favorite Cyber Monday TV deals from Samsung, Sony, and others are up to 50% off](https://www.theverge.com/tech/829579/best-4k-tv-streaming-soundbar-blu-ray-player-deal-sale-black-friday) (2025-11-30)
 
 </details>
 
@@ -97,44 +97,44 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Avoid the Temptation of Header-Only Libraries](https://dev.to/pauljlucas/avoid-the-temptation-of-header-only-libraries-33an) (2025-12-01)
-- [Adaptive Gripping: Bridging the Dexterity Gap in Robotics](https://dev.to/arvind_sundararajan/adaptive-gripping-bridging-the-dexterity-gap-in-robotics-2im1) (2025-12-01)
-- [DataViz Kit Weekly Update: Testing New SEO Strategies](https://dev.to/roshaan_tahir/dataviz-kit-weekly-update-testing-new-seo-strategies-45ih) (2025-12-01)
-- [Pequenos atalhos Git que deixaram meu fluxo de trabalho muito mais rápido](https://dev.to/leorodriguesdev/pequenos-atalhos-git-que-deixaram-meu-fluxo-de-trabalho-muito-mais-rapido-2556) (2025-12-01)
-- [Small shortcuts that made my Git workflow easier](https://dev.to/leorodriguesdev/small-shortcuts-that-made-my-git-workflow-easier-3bhe) (2025-12-01)
+- [Perl 🐪 Weekly #749 - Design Patterns in Modern Perl](https://dev.to/szabgab/perl-weekly-749-design-patterns-in-modern-perl-3899) (2025-12-01)
+- [Stay ahead in web development: latest news, tools, and insights #113](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-113-4238) (2025-12-01)
+- [Ditch Cloud WAFs: How to Migrate to Self-Hosted SafeLine WAF with Zero Downtime](https://dev.to/arina_cholee/ditch-cloud-wafs-how-to-migrate-to-self-hosted-safeline-waf-with-zero-downtime-4afh) (2025-12-01)
+- [How to Really Measure AI Agent Performance (and ROI)](https://dev.to/aiwithapex/how-to-really-measure-ai-agent-performance-and-roi-3hnc) (2025-12-01)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-56lo) (2025-12-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Forget HPA — 3 KEDA Tricks That Make Kubernetes Scaling Instant](https://medium.com/@Krishnajlathi/forget-hpa-3-keda-tricks-that-make-kubernetes-scaling-instant-ae130b9a25d1?source=rss------programming-5) (2025-12-01)
-- [⭐ FastAPI + Docker for AI Engineers](https://medium.com/pen-with-paper/fastapi-docker-for-ai-engineers-33c05822ebbe?source=rss------programming-5) (2025-12-01)
-- [0004) Study Log: Analysis of USA Baby Name Rankings Using BigQuery Open Data [3/4]](https://aknikn-tech.medium.com/0004-study-log-analysis-of-usa-baby-name-rankings-using-bigquery-open-data-3-4-0553f2d9ed5f?source=rss------programming-5) (2025-12-01)
-- [Day 33 — Engineering Mindset — Thinking in Systems, Not Just Code ️](https://medium.com/@javaScriptwithvinay/day-33-engineering-mindset-thinking-in-systems-not-just-code-%EF%B8%8F-ac777b4e2747?source=rss------programming-5) (2025-12-01)
-- [Buy Stromectol Online Over The Counter](https://medium.com/@broc.keren.z.oni.49/buy-stromectol-online-over-the-counter-9a7f69d10070?source=rss------programming-5) (2025-12-01)
+- [You’ve Got To Be Smart To Solve This PySpark Interview Question!](https://medium.com/towards-data-engineering/youve-got-to-be-smart-to-solve-this-pyspark-interview-question-57b7e56d79ae?source=rss------programming-5) (2025-12-01)
+- [How Earnings Work on StudentEarning .com — And How You Can Grow Your Income](https://medium.com/@mordikingslo/how-earnings-work-on-studentearning-com-and-how-you-can-grow-your-income-1f996e9bbdad?source=rss------programming-5) (2025-12-01)
+- [Viral video of girl 19 minute new viral video full 19 minutes](https://medium.com/@terohelenius/viral-video-of-girl-19-minute-new-viral-video-full-19-minutes-4e42ae228a95?source=rss------programming-5) (2025-12-01)
+- [Game Art & Asset Creation](https://medium.com/@devaraz/game-art-asset-creation-2f28c2c0897b?source=rss------programming-5) (2025-12-01)
+- [Rust and the Linux Rewrite Problem](https://medium.com/coding-nexus/rust-and-the-linux-rewrite-problem-84f8b8fa8300?source=rss------programming-5) (2025-12-01)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
-- [Amazon Route 53 launches Accelerated recovery for managing public DNS records](https://aws.amazon.com/blogs/aws/amazon-route-53-launches-accelerated-recovery-for-managing-public-dns-records/) (2025-11-26)
-- [AWS Weekly Roundup: How to join AWS re:Invent 2025, plus Kiro GA, and lots of launches (Nov 24, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-how-to-join-aws-reinvent-2025-plus-kiro-ga-and-lots-of-launches-nov-24-2025/) (2025-11-24)
-- [New one-click onboarding and notebooks with a built-in AI agent in Amazon SageMaker Unified Studio](https://aws.amazon.com/blogs/aws/new-one-click-onboarding-and-notebooks-with-ai-agent-in-amazon-sagemaker-unified-studio/) (2025-11-22)
-- [Build production-ready applications without infrastructure complexity using Amazon ECS Express Mode](https://aws.amazon.com/blogs/aws/build-production-ready-applications-without-infrastructure-complexity-using-amazon-ecs-express-mode/) (2025-11-21)
-- [Introducing VPC encryption controls: Enforce encryption in transit within and across VPCs in a Region](https://aws.amazon.com/blogs/aws/introducing-vpc-encryption-controls-enforce-encryption-in-transit-within-and-across-vpcs-in-a-region/) (2025-11-21)
+- [Top announcements of AWS re:Invent 2025](https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2025/) (2025-12-01)
+- [Introducing Amazon Route 53 Global Resolver for secure anycast DNS resolution (preview)](https://aws.amazon.com/blogs/aws/introducing-amazon-route-53-global-resolver-for-secure-anycast-dns-resolution-preview/) (2025-12-01)
+- [AWS Clean Rooms launches privacy-enhancing synthetic dataset generation for ML model training](https://aws.amazon.com/blogs/aws/aws-clean-rooms-launches-privacy-enhancing-synthetic-dataset-generation-for-ml-model-training/) (2025-12-01)
+- [AWS Partner Central now available in AWS Management Console](https://aws.amazon.com/blogs/aws/aws-partner-central-now-available-in-aws-management-console/) (2025-12-01)
+- [Introducing AWS Lambda Managed Instances: Serverless simplicity with EC2 flexibility](https://aws.amazon.com/blogs/aws/introducing-aws-lambda-managed-instances-serverless-simplicity-with-ec2-flexibility/) (2025-12-01)
 
 </details>
 
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Introducing Claude Opus 4.5 in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/) (2025-11-24)
 - [Microsoft Foundry: Scale innovation on a modular, interoperable, and secure agent stack](https://azure.microsoft.com/en-us/blog/microsoft-foundry-scale-innovation-on-a-modular-interoperable-and-secure-agent-stack/) (2025-11-18)
 - [Azure at Microsoft Ignite 2025: All the intelligent cloud news explained](https://azure.microsoft.com/en-us/blog/azure-at-microsoft-ignite-2025-all-the-intelligent-cloud-news-explained/) (2025-11-18)
 - [Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate](https://azure.microsoft.com/en-us/blog/microsoft-databases-and-microsoft-fabric-your-unified-and-ai-powered-data-estate/) (2025-11-18)
 - [Announcing Azure Copilot agents and AI infrastructure innovations](https://azure.microsoft.com/en-us/blog/announcing-azure-copilot-agents-and-ai-infrastructure-innovations/) (2025-11-18)
-- [Introducing Anthropic’s Claude models in Microsoft Foundry: Bringing Frontier intelligence to Azure](https://azure.microsoft.com/en-us/blog/introducing-anthropics-claude-models-in-microsoft-foundry-bringing-frontier-intelligence-to-azure/) (2025-11-18)
 
 </details>
 
