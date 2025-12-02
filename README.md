@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Paris-based AI voice startup Gradium nabs $70M seed](https://techcrunch.com/2025/12/02/paris-based-ai-voice-startup-gradium-nabs-70m-seed/) (2025-12-02)
 - [What does it mean when Uncle Sam is one of your biggest shareholders? Chip startup xLight is about to find out](https://techcrunch.com/2025/12/01/what-does-it-mean-when-uncle-sam-is-one-of-your-biggest-shareholders-chip-startup-xlight-is-about-to-find-out/) (2025-12-02)
 - [Apple just named a new AI chief with Google and Microsoft expertise, as John Giannandrea steps down](https://techcrunch.com/2025/12/01/apple-just-named-a-new-ai-chief-with-google-and-microsoft-expertise-as-john-giannandrea-steps-down/) (2025-12-02)
 - [One of Google’s biggest AI advantages is what it already knows about you](https://techcrunch.com/2025/12/01/one-of-googles-biggest-ai-advantages-is-what-it-already-knows-about-you/) (2025-12-02)
 - [Zillow drops climate risk scores after agents complained of lost sales](https://techcrunch.com/2025/12/01/zillow-drops-climate-risk-scores-after-agents-complained-of-lost-sales/) (2025-12-01)
-- [Shopify resolves outage disrupting merchants on Cyber Monday](https://techcrunch.com/2025/12/01/shopify-resolves-outage-disrupting-merchants-on-cyber-monday/) (2025-12-01)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Frequently Asked Unicycling Questions](https://vale.rocks/posts/unicycle-faq) (2025-12-02)
-- [Beej's Guide to Learning Computer Science](https://beej.us/guide/bglcs/html/split/) (2025-12-02)
-- [Decreasing Certificate Lifetimes to 45 Days](https://letsencrypt.org/2025/12/02/from-90-to-45.html) (2025-12-02)
-- [What will enter the public domain in 2026?](https://publicdomainreview.org/features/entering-the-public-domain/2026/) (2025-12-02)
-- [Reverse math shows why hard problems are hard](https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/) (2025-12-02)
+- [Addressing the adding situation](https://xania.org/202512/02-adding-integers) (2025-12-02)
+- [Man unexpectedly cured of HIV after stem cell transplant](https://www.newscientist.com/article/2506595-man-unexpectedly-cured-of-hiv-after-stem-cell-transplant/) (2025-12-02)
+- [Advent of Compiler Optimisations 2025](https://xania.org/202511/advent-of-compiler-optimisation) (2025-12-02)
+- [Comparing AWS Lambda ARM64 vs. x86_64 Performance Across Runtimes in Late 2025](https://chrisebert.net/comparing-aws-lambda-arm64-vs-x86_64-performance-across-multiple-runtimes-in-late-2025/) (2025-12-02)
+- [How Brian Eno Created Ambient 1: Music for Airports (2019)](https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/) (2025-12-02)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas) (2025-12-02)
+- [DRAM it! Raspberry Pi raises prices](https://www.theverge.com/news/836221/raspberry-pi-price-increases-ram-costs) (2025-12-02)
+- [OpenAI declares ‘code red’ as Google catches up in AI race](https://www.theverge.com/news/836212/openai-code-red-chatgpt) (2025-12-02)
+- [Microsoft&#8217;s latest Windows 11 update improves and breaks dark mode](https://www.theverge.com/news/836199/microsoft-windows-11-file-explorer-white-screen-flash-bug) (2025-12-02)
+- [These last-minute Cyber Monday deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas) (2025-12-02)
 - [The best Apple deals you can still shop in Cyber Monday’s final hours](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025) (2025-12-02)
-- [These Verge-approved gifts are still available for up to 60 percent off for Cyber Monday](https://www.theverge.com/gadgets/833050/cyber-monday-2025-gift-ideas-deal-sale) (2025-12-02)
-- [Here are 50+ Cyber Monday deals you can still get for $100 or less](https://www.theverge.com/gadgets/833655/cyber-monday-best-cheap-tech-deals-under-100-2025) (2025-12-02)
-- [We found 45 of the best last-minute Cyber Monday deals under $30](https://www.theverge.com/gadgets/835702/cyber-monday-best-cheap-tech-deals-under-30-2025) (2025-12-02)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [5 Physics Systems You Can Build in Scratch (With Working Code)](https://dev.to/itsmybot/5-physics-systems-you-can-build-in-scratch-with-working-code-260k) (2025-12-02)
-- [Building a Kiroween Avatar Maker with Kiro 👻 + 4S Playbook](https://dev.to/moolmin/building-a-kiroween-avatar-maker-with-kiro-4s-playbook-12jk) (2025-12-02)
-- [Web development roadmap](https://dev.to/ssekabirarobertsims/web-development-roadmap-7o2) (2025-12-02)
-- [19,400+ GitHub Stars: This Free WAF Is on Fire](https://dev.to/arina_cholee/19400-github-stars-this-free-waf-is-on-fire-1lf1) (2025-12-02)
-- [🧠Maybe I Just Do Not Get It!](https://dev.to/marcosomma/maybe-i-just-do-not-get-it-5e3f) (2025-12-02)
+- [Security Holes in MCP Servers and How To Plug Them](https://dev.to/thenjdevopsguy/security-holes-in-mcp-servers-and-how-to-plug-them-d61) (2025-12-02)
+- [I Built an AI That Finds Every Article Similar to Your Text — Here’s How It Works](https://dev.to/stokry/i-built-an-ai-that-finds-every-article-similar-to-your-text-heres-how-it-works-bhb) (2025-12-02)
+- [Recognition of the Winners of the Agentic Postgres Challenge with Tiger Data](https://dev.to/jramone3/recognition-of-the-winners-of-the-agentic-postgres-challenge-with-tiger-data-4np4) (2025-12-02)
+- [Getting Started with Nop: How to Creatively Extend GraphQL](https://dev.to/canonical/getting-started-with-nop-how-to-creatively-extend-graphql-5e7c) (2025-12-02)
+- [How Crypto Businesses Can Prepare for MiCA Authorization in the European Union](https://dev.to/aleksandr_rozental_1b7caa/how-crypto-businesses-can-prepare-for-mica-authorization-in-the-european-union-3i2h) (2025-12-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Understanding Dead Letter Queues (DLQs)](https://blog.stackademic.com/understanding-dead-letter-queues-dlqs-b49cf74d4de3?source=rss------programming-5) (2025-12-02)
-- [Stop Struggling With Code: 10 Mini-Tutorials That Explain What Others Overcomplicate](https://blog.stackademic.com/stop-struggling-with-code-10-mini-tutorials-that-explain-what-others-overcomplicate-00fbd25f398a?source=rss------programming-5) (2025-12-02)
-- [Top Skills to Learn to Become an AI Engineer](https://medium.com/@info_89273/top-skills-to-learn-to-become-an-ai-engineer-81b108b2cde5?source=rss------programming-5) (2025-12-02)
-- [‍ A Beginner’s : Guide to Push Notifications in React Native Using @notifee/react-native…](https://medium.com/@sunil_59016/a-beginners-guide-to-push-notifications-in-react-native-using-notifee-react-native-54dca3238abd?source=rss------programming-5) (2025-12-02)
-- [The Future of Programming: 2026 Will Change Everything](https://medium.com/@atulprogrammer/the-future-of-programming-2026-will-change-everything-b53a50afee36?source=rss------programming-5) (2025-12-02)
+- [How I Optimized a Spring Boot Application to Handle 1M Requests/Second](https://medium.com/@masoomdeveloper1615/how-i-optimized-a-spring-boot-application-to-handle-1m-requests-second-8d263cedd94c?source=rss------programming-5) (2025-12-02)
+- [Forget SQL Joins — These 4 Patterns Made My Queries 10× Faster](https://medium.com/@anurag.ydv36/forget-sql-joins-these-4-patterns-made-my-queries-10-faster-f1364d83ad30?source=rss------programming-5) (2025-12-02)
+- [الواقع السياسي بالمغرب](https://medium.com/@amazighayur66/%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A-%D8%A8%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-4f8a30c8a1ac?source=rss------programming-5) (2025-12-02)
+- [The GitHub Trick That Saved Me Hours of Debugging — And Nobody Talks About It](https://medium.com/@amrpratapsingh02/the-github-trick-that-saved-me-hours-of-debugging-and-nobody-talks-about-it-8f0765b95119?source=rss------programming-5) (2025-12-02)
+- [V6 diesel engine for Audi Q5 and Audi A6](https://medium.com/@Xosamakhan/v6-diesel-engine-for-audi-q5-and-audi-a6-ff7d074e4a64?source=rss------programming-5) (2025-12-02)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [How to Achieve Significant Build Performance Gains With TeamCity](https://blog.jetbrains.com/teamcity/2025/12/build-performance-gains/) (2025-12-02)
 - [New Livestream: Engineers Talk About Spring Boot 4, Life, and Other Stuff](https://blog.jetbrains.com/idea/2025/12/new-livestream-engineers-talk-about-spring-boot-4-life-and-other-stuff/) (2025-12-01)
 - [Cutting Through the Noise: Smarter Context Management for LLM-Powered Agents](https://blog.jetbrains.com/research/2025/12/efficient-context-management/) (2025-12-01)
 - [Advent of Code 2025: A Kotlin Playground](https://blog.jetbrains.com/kotlin/2025/11/advent-of-code-in-kotlin-2025/) (2025-11-28)
 - [Solving Advent of Code in Rust, With Just Enough AI](https://blog.jetbrains.com/rust/2025/11/28/solving-advent-of-code-in-rust-with-just-enough-ai/) (2025-11-28)
-- [IntelliJ IDEA 2025.3 Release Candidate Is Here](https://blog.jetbrains.com/idea/2025/11/intellij-idea-2025-3-release-candidate/) (2025-11-28)
 
 </details>
 
@@ -558,22 +558,22 @@ https://www.twilio.com/en-us/blog/products/launches/launch-whatsapp-faster-with-
 <details>
 <summary>🤖 AI News</summary>
 
+- [China’s DeepSeek V3.2 AI model achieves frontier performance on a fraction of the computing budget](https://www.artificialintelligence-news.com/news/deepseek-v3-2-matches-gpt-5-lower-training-costs/) (2025-12-02)
+- [How OpenAI and Thrive are testing a new enterprise AI model](https://www.artificialintelligence-news.com/news/how-openai-and-thrive-are-testing-a-new-enterprise-ai-model/) (2025-12-02)
 - [Agentic AI autonomy grows in North American enterprises](https://www.artificialintelligence-news.com/news/agentic-ai-autonomy-grows-in-north-american-enterprises/) (2025-12-01)
 - [AI business reality – what enterprise leaders need to know](https://www.artificialintelligence-news.com/news/ai-business-reality-what-enterprise-leaders-need-know/) (2025-12-01)
 - [How background AI builds operational resilience & visible ROI](https://www.artificialintelligence-news.com/news/how-background-ai-builds-operational-resilience-visible-roi/) (2025-11-28)
-- [SAP outlines new approach to European AI and cloud sovereignty](https://www.artificialintelligence-news.com/news/sap-outlines-new-approach-to-european-ai-and-cloud-sovereignty/) (2025-11-27)
-- [How the MCP spec update boosts security as infrastructure scales](https://www.artificialintelligence-news.com/news/how-the-mcp-spec-update-boosts-security-as-infrastructure-scales/) (2025-11-27)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Generate QR Codes in Python](https://towardsdatascience.com/how-to-generate-qr-code-in-python/) (2025-12-02)
 - [The Machine Learning Lessons I’ve Learned This Month](https://towardsdatascience.com/the-machine-learning-lessons-ive-learned-this-month-3/) (2025-12-01)
 - [The Machine Learning “Advent Calendar” Day 1: k-NN Regressor in Excel](https://towardsdatascience.com/day-1-k-nn-regressor-in-excel-how-distance-drives-prediction/) (2025-12-01)
 - [The Problem with AI Browsers: Security Flaws and the End of Privacy](https://towardsdatascience.com/the-problem-with-ai-browsers-security-flaws-and-the-end-of-privacy/) (2025-12-01)
 - [Learning, Hacking, and Shipping ML](https://towardsdatascience.com/learning-hacking-and-shipping-ml/) (2025-12-01)
-- [Why AI Alignment Starts With Better Evaluation](https://towardsdatascience.com/why-ai-alignment-starts-with-better-evaluation/) (2025-12-01)
 
 </details>
 
