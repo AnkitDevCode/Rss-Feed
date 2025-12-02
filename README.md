@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [What does it mean when Uncle Sam is one of your biggest shareholders? Chip startup xLight is about to find out](https://techcrunch.com/2025/12/01/what-does-it-mean-when-uncle-sam-is-one-of-your-biggest-shareholders-chip-startup-xlight-is-about-to-find-out/) (2025-12-02)
+- [Apple just named a new AI chief with Google and Microsoft expertise, as John Giannandrea steps down](https://techcrunch.com/2025/12/01/apple-just-named-a-new-ai-chief-with-google-and-microsoft-expertise-as-john-giannandrea-steps-down/) (2025-12-02)
 - [One of Google’s biggest AI advantages is what it already knows about you](https://techcrunch.com/2025/12/01/one-of-googles-biggest-ai-advantages-is-what-it-already-knows-about-you/) (2025-12-02)
 - [Zillow drops climate risk scores after agents complained of lost sales](https://techcrunch.com/2025/12/01/zillow-drops-climate-risk-scores-after-agents-complained-of-lost-sales/) (2025-12-01)
 - [Shopify resolves outage disrupting merchants on Cyber Monday](https://techcrunch.com/2025/12/01/shopify-resolves-outage-disrupting-merchants-on-cyber-monday/) (2025-12-01)
-- [Nvidia announces new open AI models and tools for autonomous driving research](https://techcrunch.com/2025/12/01/nvidia-announces-new-open-ai-models-and-tools-for-autonomous-driving-research/) (2025-12-01)
-- [AWS re:Invent 2025: How to watch and follow along live](https://techcrunch.com/2025/12/01/aws-reinvent-2025-how-to-watch-and-follow-along-live/) (2025-12-01)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Around The World, Part 27: Planting trees](https://frozenfractal.com/blog/2025/11/28/around-the-world-27-planting-trees/) (2025-12-02)
-- [Arcee Trinity Mini: US-Trained Moe Model](https://www.arcee.ai/blog/the-trinity-manifesto?src=hn) (2025-12-02)
-- [Anthropic: AI agents find $4.6M in blockchain smart contract exploits](https://red.anthropic.com/2025/smart-contracts/) (2025-12-01)
-- [Losing Confidence](https://eclecticlight.co/2025/11/30/last-week-on-my-mac-losing-confidence/) (2025-12-01)
-- [Apple AI Chief Retiring After Siri Failure](https://www.macrumors.com/2025/12/01/apple-ai-chief-retiring-after-siri-failure/) (2025-12-01)
+- [Frequently Asked Unicycling Questions](https://vale.rocks/posts/unicycle-faq) (2025-12-02)
+- [Beej's Guide to Learning Computer Science](https://beej.us/guide/bglcs/html/split/) (2025-12-02)
+- [Decreasing Certificate Lifetimes to 45 Days](https://letsencrypt.org/2025/12/02/from-90-to-45.html) (2025-12-02)
+- [What will enter the public domain in 2026?](https://publicdomainreview.org/features/entering-the-public-domain/2026/) (2025-12-02)
+- [Reverse math shows why hard problems are hard](https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/) (2025-12-02)
 
 </details>
 
@@ -43,10 +43,10 @@
 <summary>📱 The Verge</summary>
 
 - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas) (2025-12-02)
-- [Samsung’s Z TriFold is official and it looks like a tablet with a phone attached](https://www.theverge.com/news/835525/samsung-z-trifold-announcement-us-availability) (2025-12-02)
-- [The Beats Powerbeats Pro 2 are $50 off, but only until the end of Cyber Monday](https://www.theverge.com/gadgets/835276/beats-powerbeats-pro-2-cyber-monday-deal-sale-2025) (2025-12-02)
-- [My favorite TVs, streaming devices, and soundbars are still up to 50% off for Cyber Monday](https://www.theverge.com/tech/829579/best-4k-tv-streaming-soundbar-blu-ray-player-deal-sale-black-friday) (2025-12-01)
-- [The Apple Watch Series 11 is $70 off, beating its Black Friday price](https://www.theverge.com/gadgets/835083/cyber-monday-apple-watch-series-11-deal-sale-2025) (2025-12-01)
+- [The best Apple deals you can still shop in Cyber Monday’s final hours](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025) (2025-12-02)
+- [These Verge-approved gifts are still available for up to 60 percent off for Cyber Monday](https://www.theverge.com/gadgets/833050/cyber-monday-2025-gift-ideas-deal-sale) (2025-12-02)
+- [Here are 50+ Cyber Monday deals you can still get for $100 or less](https://www.theverge.com/gadgets/833655/cyber-monday-best-cheap-tech-deals-under-100-2025) (2025-12-02)
+- [We found 45 of the best last-minute Cyber Monday deals under $30](https://www.theverge.com/gadgets/835702/cyber-monday-best-cheap-tech-deals-under-30-2025) (2025-12-02)
 
 </details>
 
@@ -86,37 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Abstraction, but for robots](https://stackoverflow.blog/2025/12/02/abstraction-but-for-robots/) (2025-12-02)
 - [What’s new at Stack Overflow: December 2025](https://stackoverflow.blog/2025/12/01/what-s-new-at-stack-overflow-december-2025/) (2025-12-01)
 - [Lightning-as-a-service for agriculture](https://stackoverflow.blog/2025/11/28/lightning-as-a-service-for-agriculture/) (2025-11-28)
 - [Essential ingredients for enterprise AI success](https://stackoverflow.blog/2025/11/25/essential-ingredients-for-enterprise-ai-success/) (2025-11-25)
 - [You’re probably underutilizing your GPUs](https://stackoverflow.blog/2025/11/25/you-re-probably-underutilizing-your-gpus/) (2025-11-25)
-- [Only you can stop AI database drops](https://stackoverflow.blog/2025/11/21/only-you-can-stop-ai-database-drops/) (2025-11-21)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [From a Single File to a Full Chrome Extension Using Kiro](https://dev.to/ansellmaximilian/from-a-single-file-to-a-full-chrome-extension-using-kiro-4hld) (2025-12-02)
-- [Chip Design Breakthrough: Predicting Performance Before Layout](https://dev.to/arvind_sundararajan/chip-design-breakthrough-predicting-performance-before-layout-4o8p) (2025-12-02)
-- [WHAT IS A SECRET?](https://dev.to/jumptotech/what-is-a-secret-ikp) (2025-12-02)
-- [Web App or Mobile App? Choosing Your MVP Platform](https://dev.to/sociilabs/web-app-or-mobile-app-choosing-your-mvp-platform-4n2o) (2025-12-02)
-- [Achieve Prisma-like Developer Experience in EF Core! Introduction to Linqraft](https://dev.to/arika0093/achieve-prisma-like-developer-experience-in-ef-core-introduction-to-linqraft-110p) (2025-12-02)
+- [5 Physics Systems You Can Build in Scratch (With Working Code)](https://dev.to/itsmybot/5-physics-systems-you-can-build-in-scratch-with-working-code-260k) (2025-12-02)
+- [Building a Kiroween Avatar Maker with Kiro 👻 + 4S Playbook](https://dev.to/moolmin/building-a-kiroween-avatar-maker-with-kiro-4s-playbook-12jk) (2025-12-02)
+- [Web development roadmap](https://dev.to/ssekabirarobertsims/web-development-roadmap-7o2) (2025-12-02)
+- [19,400+ GitHub Stars: This Free WAF Is on Fire](https://dev.to/arina_cholee/19400-github-stars-this-free-waf-is-on-fire-1lf1) (2025-12-02)
+- [🧠Maybe I Just Do Not Get It!](https://dev.to/marcosomma/maybe-i-just-do-not-get-it-5e3f) (2025-12-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Camping for the Environment?](https://medium.com/@rhigladney3/camping-for-the-environment-d662dec4b021?source=rss------programming-5) (2025-12-02)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mnvghjj10mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-8199e6f21da8?source=rss------programming-5) (2025-12-02)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mnvghjj10mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-1c19b363bc36?source=rss------programming-5) (2025-12-02)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mbvddsvbn1/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-1da235351f66?source=rss------programming-5) (2025-12-02)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mbvddsvbn1/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-32a543376163?source=rss------programming-5) (2025-12-02)
+- [Understanding Dead Letter Queues (DLQs)](https://blog.stackademic.com/understanding-dead-letter-queues-dlqs-b49cf74d4de3?source=rss------programming-5) (2025-12-02)
+- [Stop Struggling With Code: 10 Mini-Tutorials That Explain What Others Overcomplicate](https://blog.stackademic.com/stop-struggling-with-code-10-mini-tutorials-that-explain-what-others-overcomplicate-00fbd25f398a?source=rss------programming-5) (2025-12-02)
+- [Top Skills to Learn to Become an AI Engineer](https://medium.com/@info_89273/top-skills-to-learn-to-become-an-ai-engineer-81b108b2cde5?source=rss------programming-5) (2025-12-02)
+- [‍ A Beginner’s : Guide to Push Notifications in React Native Using @notifee/react-native…](https://medium.com/@sunil_59016/a-beginners-guide-to-push-notifications-in-react-native-using-notifee-react-native-54dca3238abd?source=rss------programming-5) (2025-12-02)
+- [The Future of Programming: 2026 Will Change Everything](https://medium.com/@atulprogrammer/the-future-of-programming-2026-will-change-everything-b53a50afee36?source=rss------programming-5) (2025-12-02)
 
 </details>
 
@@ -507,11 +503,11 @@ https://www.twilio.com/en-us/blog/products/launches/launch-whatsapp-faster-with-
 <details>
 <summary>💬 Slack API</summary>
 
-- [Five proven employee engagement strategies to motivate your team](https://slack.com/blog/collaboration/five-proven-employee-engagement-strategies-to-motivate-your-team) (2025-12-01)
-- [Six Easy Tips for Workflow Mapping With Examples](https://slack.com/blog/productivity/workflow-mapping) (2025-12-01)
-- [How To Manage Multiple Projects and Operate Like a Pro](https://slack.com/blog/productivity/how-to-manage-multiple-projects) (2025-12-01)
 - [How to Improve Organizational Communication at Work](https://slack.com/blog/collaboration/how-to-improve-organizational-communication-at-work) (2025-11-24)
 - [Applying Virtual Meeting Etiquette Rules: 12 Do’s and Don’ts](https://slack.com/blog/collaboration/applying-virtual-meeting-etiquette-rules-12-dos-and-donts) (2025-11-24)
+- [How Caraway Built a Nine-Figure Business In Slack](https://slack.com/blog/productivity/caraway-grows-with-slack) (2025-11-24)
+- [Slack for iOS 26: A Simpler, More Productive Way to Work from Anywhere](https://slack.com/blog/news/redesigning-slack-ios26) (2025-11-18)
+- [Eight Internal Communications Best Practices You Should Know](https://slack.com/blog/collaboration/internal-communications-best-practices) (2025-11-17)
 
 </details>
 
