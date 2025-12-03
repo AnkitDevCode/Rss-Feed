@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [After intense backlash, India pulls mandate to pre-install government app on smartphones](https://techcrunch.com/2025/12/03/after-intense-backlash-india-pulls-mandate-to-pre-install-government-app-on-smartphones/) (2025-12-03)
+- [Uber and Avride launch robotaxi service in Dallas](https://techcrunch.com/2025/12/03/uber-and-avride-launch-robotaxi-service-in-dallas/) (2025-12-03)
+- [Healthify upgrades its AI assistant Ria with real-time conversation capabilities](https://techcrunch.com/2025/12/02/healthify-upgrades-its-ai-assistant-ria-with-real-time-conversation-capabilities/) (2025-12-03)
 - [All the biggest news from AWS’ big tech show re:Invent 2025](https://techcrunch.com/2025/12/02/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/) (2025-12-03)
 - [Amazon challenges competitors with on-premises Nvidia ‘AI Factories’](https://techcrunch.com/2025/12/02/amazon-challenges-competitors-with-on-premises-nvidia-ai-factories/) (2025-12-03)
-- [Bending Spoons agrees to buy Eventbrite for $500M to revive stalled brand](https://techcrunch.com/2025/12/02/bending-spoons-agrees-to-buy-eventbrite-for-500m-to-revive-stalled-brand/) (2025-12-02)
-- [Kalshi raises $1B at $11B valuation, doubling value in under two months](https://techcrunch.com/2025/12/02/kalshi-raises-1b-at-11b-valuation-doubling-value-in-under-two-months/) (2025-12-02)
-- [Google tests merging AI Overviews with AI Mode](https://techcrunch.com/2025/12/02/google-tests-merging-ai-overviews-with-ai-mode/) (2025-12-02)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Sending DMARC reports is somewhat hazardous](https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCSendingReportsProblems) (2025-12-03)
-- [Interview with RollerCoaster Tycoon's Creator, Chris Sawyer (2024)](https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13) (2025-12-03)
-- [Understanding ECDSA](https://avidthinker.github.io/2025/11/28/understanding-ecdsa/) (2025-12-03)
-- [Japanese game devs face font dilemma as license increases from $380 to $20k](https://www.gamesindustry.biz/japanese-devs-face-font-licensing-dilemma-as-leading-provider-increases-annual-plan-price-from-380-to-20000) (2025-12-03)
-- [Kohler Can Access Pictures from "End-to-End Encrypted" Toilet Camera](https://varlogsimon.leaflet.pub/3m6zrw6k2bs2p?interactionDrawer=quotes) (2025-12-03)
+- [You Can't Fool the Optimizer](https://xania.org/202512/03-more-adding-integers) (2025-12-03)
+- [Zig quits GitHub, says Microsoft's AI obsession has ruined the service](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/) (2025-12-03)
+- [Accepting US car standards would risk European lives](https://etsc.eu/accepting-us-car-standards-would-risk-european-lives-warn-cities-and-civil-society/) (2025-12-03)
+- [Researchers Find Microbe Capable of Producing Oxygen from Martian Soil](https://scienceclock.com/microbe-that-could-turn-martian-dust-into-oxygen/) (2025-12-03)
+- [Quad9 DOH HTTP/1.1 Retirement, December 15, 2025](https://quad9.net/news/blog/doh-http-1-1-retirement/) (2025-12-03)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Mirumi the furry companion robot is now available on Kickstarter](https://www.theverge.com/news/836762/yukai-engineering-mirumi-furry-companion-robot-preorder-available-kickstarter) (2025-12-03)
 - [The Polaroid Flip, my favorite retro instant camera, is cheaper than ever](https://www.theverge.com/gadgets/836984/polaroid-flip-cyber-week-2025-deal-sale) (2025-12-02)
 - [Indiegogo is launching ‘Express Crowdfunding’ so creators can ship things sooner](https://www.theverge.com/news/836886/indiegogo-express-crowdfunding-ayaneo-shipping) (2025-12-02)
 - [Google is experimentally replacing news headlines with AI clickbait nonsense](https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense) (2025-12-02)
 - [Amazon’s bet that AI benchmarks don’t matter](https://www.theverge.com/column/836902/amazons-ai-benchmarks-dont-matter) (2025-12-02)
-- [Silicon Valley is rallying behind a guy who sucks](https://www.theverge.com/column/836932/david-sacks-new-york-times-white-house) (2025-12-02)
 
 </details>
 
@@ -97,22 +97,26 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [We Open-Sourced Our Marketing Playbook—Feel Free to Steal It, Sell It, or Feed It to Your AI](https://dev.to/alexandru_danieldimitres/we-open-sourced-our-marketing-playbook-feel-free-to-steal-it-sell-it-or-feed-it-to-your-ai-3ff1) (2025-12-03)
-- [LLM Reasoning: Why Models Hallucinate and how to reduce it?](https://dev.to/zeroshotanu/llm-reasoning-why-models-hallucinate-and-how-to-reduce-it-2joo) (2025-12-03)
-- [Why We Still Need Human-Curated Corners of the Internet (and How LinkCircle Is Building One)](https://dev.to/alexandru_danieldimitres/why-we-still-need-human-curated-corners-of-the-internet-and-how-linkcircle-is-building-one-2jcd) (2025-12-03)
-- [Transforming Visitors into Loyal Leads: Mastering Elementor's Form Widget for WordPress](https://dev.to/artarasaneh2025/transforming-visitors-into-loyal-leads-mastering-elementors-form-widget-for-wordpress-e9i) (2025-12-03)
-- [Integrate Voice AI with Salesforce for Lead Qualification](https://dev.to/callstacktech/integrate-voice-ai-with-salesforce-for-lead-qualification-66a) (2025-12-03)
+- [Beyond Simple Forwarding – Practical Content Safety in AI Gateways](https://dev.to/spacewander/beyond-simple-forwarding-practical-content-safety-in-ai-gateways-545a) (2025-12-03)
+- [OTP email verification and password reset](https://dev.to/prudkohliad/otp-email-verification-and-password-reset-20pi) (2025-12-03)
+- [Make your AI prompts collaborative with VS Code and Promptitude](https://dev.to/onepoint/make-your-ai-prompts-collaborative-with-vs-code-and-promptitude-1f7) (2025-12-03)
+- [Build a Chrome Extension with React, TypeScript and Vite](https://dev.to/nefayran/build-a-chrome-extension-with-react-typescript-and-vite-31ho) (2025-12-03)
+- [The AI Boom Has a $5 Trillion Problem](https://dev.to/icybergenome_34/the-ai-boom-has-a-5-trillion-problem-2fcj) (2025-12-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Meta engineers claim ‘AI is moving too fast’ — what does it mean for the rest of us?](https://medium.com/codetodeploy/meta-engineers-claim-ai-is-moving-too-fast-what-does-it-mean-for-the-rest-of-us-b52b53f91608?source=rss------programming-5) (2025-12-03)
-- [Why We Un-Migrated Part of Our Stack from Kubernetes Back to VMs](https://medium.com/@kedarbpatil07/why-we-un-migrated-part-of-our-stack-from-kubernetes-back-to-vms-63e67ef4565b?source=rss------programming-5) (2025-12-03)
-- [A Practical Guide to Git Management & Branching Conventions for Real-World Teams](https://medium.com/@maloy.baroi.1998/a-practical-guide-to-git-management-branching-conventions-for-real-world-teams-61ff5f785311?source=rss------programming-5) (2025-12-03)
-- [The Hidden Complexities of Supporting Jalali Calendars in Web Development](https://medium.com/@sarah_44634/the-hidden-complexities-of-supporting-jalali-calendars-in-web-development-a66071d73315?source=rss------programming-5) (2025-12-03)
-- [The Real Reason Why Some Dev Companies Are Forcing AI](https://medium.com/@iamcesaraguirre/the-real-reason-why-some-dev-companies-are-forcing-ai-bf61a649efea?source=rss------programming-5) (2025-12-03)
+- [0905.501.9190شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@bsbsshehsh46/0905-501-9190%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-b43378f819dd?source=rss------programming-5) (2025-12-03)
+- [0905.501.9190شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@bsbsshehsh46/0905-501-9190%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-a8047acbc1b3?source=rss------programming-5) (2025-12-03)
+- [0905.501.9190شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@ajshehsuh/0905-501-9190%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-a9abb7211f88?source=rss------programming-5) (2025-12-03)
+- [Using AI To Generate Unit Tests for Angular](https://medium.com/@harshalghadge01/using-ai-to-generate-unit-tests-for-angular-46510bc88ddf?source=rss------programming-5) (2025-12-03)
+- [0905.501.9190شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@ajshehsuh/0905-501-9190%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-d277a9c436f3?source=rss------programming-5) (2025-12-03)
 
 </details>
 
@@ -306,11 +310,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [5 Stories Of Developers Using JetBrains Rider to Create, Collaborate, and Have Fun](https://blog.jetbrains.com/dotnet/2025/12/03/5-stories-of-developers-using-jetbrains-rider/) (2025-12-03)
 - [Grok Models Come to the AI Chat in JetBrains IDEs](https://blog.jetbrains.com/ai/2025/12/grok-models-come-to-the-ai-chat-in-jetbrains-ides/) (2025-12-02)
 - [DataGrip 2025.3: Migration From Consoles to Query Files, Connection to Cloud Providers, Introspection Levels for Amazon Redshift, and More!](https://blog.jetbrains.com/datagrip/2025/12/02/datagrip-2025-3-migration-from-consoles-to-query-files-connection-to-cloud-providers-introspection-levels-for-amazon-redshift-and-more/) (2025-12-02)
 - [dotInsights | December 2025](https://blog.jetbrains.com/dotnet/2025/12/02/dotinsights-december-2025/) (2025-12-02)
 - [How to Achieve Significant Build Performance Gains With TeamCity](https://blog.jetbrains.com/teamcity/2025/12/build-performance-gains/) (2025-12-02)
-- [New Livestream: Engineers Talk About Spring Boot 4, Life, and Other Stuff](https://blog.jetbrains.com/idea/2025/12/new-livestream-engineers-talk-about-spring-boot-4-life-and-other-stuff/) (2025-12-01)
 
 </details>
 
@@ -362,6 +366,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Build a Twilio + Zoho CRM SMS Integration
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/build-twilio-zoho-crm-sms-integration
+) (2025-12-03)
+- [
+How to Authenticate with Magic Links in Go
+](
+https://www.twilio.com/en-us/blog/developers/community/authenticate-magic-links-go
+) (2025-12-02)
+- [
 Deploying AI at Scale Without Sacrificing Security
 ](
 https://www.twilio.com/en-us/blog/insights/scaling-ai-securely
@@ -376,16 +390,6 @@ The Ins and Outs of DMARC Monitoring in 2026
 ](
 https://www.twilio.com/en-us/blog/insights/dmarc-monitoring
 ) (2025-11-28)
-- [
-What you should know about Australia's new SMS Sender ID Register 
-](
-https://www.twilio.com/en-us/blog/insights/australia-sender-id-register
-) (2025-11-27)
-- [
-Build a Smart QA ChatOps Assistant with Playwright, Twilio WhatsApp, LLMs, and MCP
-](
-https://www.twilio.com/en-us/blog/developers/community/build-smart-qa-chatops-assistant-playwright-twilio-whatsapp-llms-mcp
-) (2025-11-25)
 
 </details>
 
@@ -503,11 +507,11 @@ https://www.twilio.com/en-us/blog/developers/community/build-smart-qa-chatops-as
 <details>
 <summary>💬 Slack API</summary>
 
+- [Five proven employee engagement strategies to motivate your team](https://slack.com/blog/collaboration/five-proven-employee-engagement-strategies-to-motivate-your-team) (2025-12-01)
+- [Six Easy Tips for Workflow Mapping With Examples](https://slack.com/blog/productivity/workflow-mapping) (2025-12-01)
+- [How To Manage Multiple Projects and Operate Like a Pro](https://slack.com/blog/productivity/how-to-manage-multiple-projects) (2025-12-01)
 - [How to Improve Organizational Communication at Work](https://slack.com/blog/collaboration/how-to-improve-organizational-communication-at-work) (2025-11-24)
 - [Applying Virtual Meeting Etiquette Rules: 12 Do’s and Don’ts](https://slack.com/blog/collaboration/applying-virtual-meeting-etiquette-rules-12-dos-and-donts) (2025-11-24)
-- [How Caraway Built a Nine-Figure Business In Slack](https://slack.com/blog/productivity/caraway-grows-with-slack) (2025-11-24)
-- [Slack for iOS 26: A Simpler, More Productive Way to Work from Anywhere](https://slack.com/blog/news/redesigning-slack-ios26) (2025-11-18)
-- [Eight Internal Communications Best Practices You Should Know](https://slack.com/blog/collaboration/internal-communications-best-practices) (2025-11-17)
 
 </details>
 
@@ -547,44 +551,44 @@ https://www.twilio.com/en-us/blog/developers/community/build-smart-qa-chatops-as
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Custom Policy Enforcement with Reasoning: Faster, Safer AI Applications](https://huggingface.co/blog/nvidia/custom-policy-reasoning-nemotron-content-safety) (2025-12-02)
+- [SARLO-80: Worldwide Slant SAR Language Optic Dataset at 80 cm Resolution](https://huggingface.co/blog/hugging-science/sarlo-80-sar-optic-language-dataset) (2025-12-01)
 - [Transformers v5: Simple model definitions powering the AI ecosystem](https://huggingface.co/blog/transformers-v5) (2025-12-01)
 - [Diffusers welcomes FLUX-2](https://huggingface.co/blog/flux-2) (2025-11-25)
 - [Continuous batching from first principles](https://huggingface.co/blog/continuous_batching) (2025-11-25)
-- [20x Faster TRL Fine-tuning with RapidFire AI](https://huggingface.co/blog/rapidfireai) (2025-11-21)
-- [Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks](https://huggingface.co/blog/open-asr-leaderboard) (2025-11-21)
 
 </details>
 
 <details>
 <summary>🤖 AI News</summary>
 
+- [EY and NVIDIA to help companies test and deploy physical AI](https://www.artificialintelligence-news.com/news/ey-and-nvidia-to-help-companies-test-and-deploy-physical-ai/) (2025-12-03)
+- [Anthropic just revealed how AI-orchestrated cyberattacks actually work—Here’s what enterprises need to know](https://www.artificialintelligence-news.com/news/ai-orchestrated-cyberattacks-anthropic-discovery/) (2025-12-03)
+- [Can China’s chip stacking strategy really challenge Nvidia’s AI dominance?](https://www.artificialintelligence-news.com/news/china-chip-stacking-strategy-nvidia/) (2025-12-03)
 - [Frontier AI research lab tackles enterprise deployment challenges](https://www.artificialintelligence-news.com/news/frontier-ai-research-lab-tackles-enterprise-deployment-challenges/) (2025-12-02)
 - [IBM cites agentic AI, data policies, and quantum as 2026 trends](https://www.artificialintelligence-news.com/news/ibm-quantum-cited-plus-agentic-ai-data-policies-as-2026-trends/) (2025-12-02)
-- [China’s DeepSeek V3.2 AI model achieves frontier performance on a fraction of the computing budget](https://www.artificialintelligence-news.com/news/deepseek-v3-2-matches-gpt-5-lower-training-costs/) (2025-12-02)
-- [How OpenAI and Thrive are testing a new enterprise AI model](https://www.artificialintelligence-news.com/news/how-openai-and-thrive-are-testing-a-new-enterprise-ai-model/) (2025-12-02)
-- [Agentic AI autonomy grows in North American enterprises](https://www.artificialintelligence-news.com/news/agentic-ai-autonomy-grows-in-north-american-enterprises/) (2025-12-01)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Code Your Own Website with AI](https://towardsdatascience.com/how-to-code-your-own-website-with-ai/) (2025-12-03)
 - [The Machine Learning “Advent Calendar” Day 2: k-NN Classifier in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-2-k-nn-classifier-in-excel/) (2025-12-02)
 - [JSON Parsing for Large Payloads: Balancing Speed, Memory, and Scalability](https://towardsdatascience.com/json-parsing-for-large-payloads-balancing-speed-memory-and-scalability/) (2025-12-02)
 - [How to Use Simple Data Contracts in Python for Data Scientists](https://towardsdatascience.com/how-to-use-simple-data-contracts-in-python-for-data-scientists/) (2025-12-02)
 - [How to Generate QR Codes in Python](https://towardsdatascience.com/how-to-generate-qr-code-in-python/) (2025-12-02)
-- [The Machine Learning Lessons I’ve Learned This Month](https://towardsdatascience.com/the-machine-learning-lessons-ive-learned-this-month-3/) (2025-12-01)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Create Infographics and PPTs in Seconds with NotebookLM](https://www.analyticsvidhya.com/blog/2025/12/infographics-and-ppts-with-notebooklm/) (2025-12-03)
 - [Nano Banana Pro vs Grok Imagine for Image Generation and Editing](https://www.analyticsvidhya.com/blog/2025/12/nano-banana-pro-vs-grok-imagine-image-generation-and-editing/) (2025-12-02)
 - [Is DeepSeek’s V3.2 the Most Powerful Open-source LLM?](https://www.analyticsvidhya.com/blog/2025/12/is-deepseeks-v3-2-the-most-powerful-open-source-llm/) (2025-12-02)
 - [The Generative AI Scientist Roadmap 2026](https://www.analyticsvidhya.com/blog/2025/12/generative-ai-scientist-roadmap/) (2025-12-01)
 - [DeepSeek Math V2 Guide: Smarter AI for Real Math](https://www.analyticsvidhya.com/blog/2025/12/deepseek-math-v2/) (2025-12-01)
-- [SAM3D: Transforming 3D Scene Modelling](https://www.analyticsvidhya.com/blog/2025/12/sam3d-by-meta/) (2025-12-01)
 
 </details>
 
