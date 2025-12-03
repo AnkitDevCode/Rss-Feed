@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [DOOM could have had PC Speaker Music](https://lenowo.org/viewtopic.php?t=45) (2025-12-02)
-- [Exploring Large HTML Documents on the Web](https://calendar.perfplanet.com/2025/exploring-large-html-documents-on-the-web/) (2025-12-02)
-- [AI generated font using Nano Banana](https://constanttime.notion.site/Worlds-first-Ai-generated-font-using-nano-banana-2ba6f8e15af18012864bdb760fa9c9ba?pvs=74) (2025-12-02)
-- [Ecosia: The greenest AI is here](https://blog.ecosia.org/ecosia-ai/) (2025-12-02)
-- [Delty (YC X25) Is Hiring](https://www.ycombinator.com/companies/delty/jobs/aPWMaiq-full-stack-software-engineer) (2025-12-02)
+- [Sending DMARC reports is somewhat hazardous](https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCSendingReportsProblems) (2025-12-03)
+- [Interview with RollerCoaster Tycoon's Creator, Chris Sawyer (2024)](https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13) (2025-12-03)
+- [Understanding ECDSA](https://avidthinker.github.io/2025/11/28/understanding-ecdsa/) (2025-12-03)
+- [Japanese game devs face font dilemma as license increases from $380 to $20k](https://www.gamesindustry.biz/japanese-devs-face-font-licensing-dilemma-as-leading-provider-increases-annual-plan-price-from-380-to-20000) (2025-12-03)
+- [Kohler Can Access Pictures from "End-to-End Encrypted" Toilet Camera](https://varlogsimon.leaflet.pub/3m6zrw6k2bs2p?interactionDrawer=quotes) (2025-12-03)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Unlocking Time's Secrets: Temporal Pattern Recognition for System Anomaly Detection by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlocking-times-secrets-temporal-pattern-recognition-for-system-anomaly-detection-by-arvind-4a5h) (2025-12-03)
-- [I Built a Tool That Detects AI Training — And I Need Your Help.](https://dev.to/dwikbtn/i-built-a-tool-that-detects-ai-training-and-i-need-your-help-1g6g) (2025-12-03)
-- [🚀 The Essential Patterns Behind Modern AI Agents](https://dev.to/joedev090/the-essential-patterns-behind-modern-ai-agents-43j2) (2025-12-03)
-- [RecipeHub](https://dev.to/kyl67899/recipehub-2hp4) (2025-12-03)
-- [Entendendo APIs e sua estrutura.](https://dev.to/isaacmaciel/entendendo-apis-e-sua-estrutura-1hp4) (2025-12-03)
+- [We Open-Sourced Our Marketing Playbook—Feel Free to Steal It, Sell It, or Feed It to Your AI](https://dev.to/alexandru_danieldimitres/we-open-sourced-our-marketing-playbook-feel-free-to-steal-it-sell-it-or-feed-it-to-your-ai-3ff1) (2025-12-03)
+- [LLM Reasoning: Why Models Hallucinate and how to reduce it?](https://dev.to/zeroshotanu/llm-reasoning-why-models-hallucinate-and-how-to-reduce-it-2joo) (2025-12-03)
+- [Why We Still Need Human-Curated Corners of the Internet (and How LinkCircle Is Building One)](https://dev.to/alexandru_danieldimitres/why-we-still-need-human-curated-corners-of-the-internet-and-how-linkcircle-is-building-one-2jcd) (2025-12-03)
+- [Transforming Visitors into Loyal Leads: Mastering Elementor's Form Widget for WordPress](https://dev.to/artarasaneh2025/transforming-visitors-into-loyal-leads-mastering-elementors-form-widget-for-wordpress-e9i) (2025-12-03)
+- [Integrate Voice AI with Salesforce for Lead Qualification](https://dev.to/callstacktech/integrate-voice-ai-with-salesforce-for-lead-qualification-66a) (2025-12-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Python 101: A Beginner’s Guide to the World’s Most Popular Language](https://medium.com/@syaokifaradisa09/python-101-a-beginners-guide-to-the-world-s-most-popular-language-56ebc5a74636?source=rss------programming-5) (2025-12-03)
-- [09010712940شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@xjjdsdjjdhxhxdjdiisjdhdhd/09010712940%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-b292ba56a67b?source=rss------programming-5) (2025-12-03)
-- [09010712940شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@xjjdsdjjdhxhxdjdiisjdhdhd/09010712940%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-c77fa0bd0bbc?source=rss------programming-5) (2025-12-03)
-- [5 Refactoring Sessions That Changed How I Write Python](https://python.plainenglish.io/5-refactoring-sessions-that-changed-how-i-write-python-384aa0debc74?source=rss------programming-5) (2025-12-03)
-- [Part 2: 5 More Database Architecture Questions Every Software Architect Should Ask (But Still Most…](https://medium.com/@ashishjsharda/part-2-5-more-database-architecture-questions-every-software-architect-should-ask-but-still-most-08d413af748a?source=rss------programming-5) (2025-12-03)
+- [Meta engineers claim ‘AI is moving too fast’ — what does it mean for the rest of us?](https://medium.com/codetodeploy/meta-engineers-claim-ai-is-moving-too-fast-what-does-it-mean-for-the-rest-of-us-b52b53f91608?source=rss------programming-5) (2025-12-03)
+- [Why We Un-Migrated Part of Our Stack from Kubernetes Back to VMs](https://medium.com/@kedarbpatil07/why-we-un-migrated-part-of-our-stack-from-kubernetes-back-to-vms-63e67ef4565b?source=rss------programming-5) (2025-12-03)
+- [A Practical Guide to Git Management & Branching Conventions for Real-World Teams](https://medium.com/@maloy.baroi.1998/a-practical-guide-to-git-management-branching-conventions-for-real-world-teams-61ff5f785311?source=rss------programming-5) (2025-12-03)
+- [The Hidden Complexities of Supporting Jalali Calendars in Web Development](https://medium.com/@sarah_44634/the-hidden-complexities-of-supporting-jalali-calendars-in-web-development-a66071d73315?source=rss------programming-5) (2025-12-03)
+- [The Real Reason Why Some Dev Companies Are Forcing AI](https://medium.com/@iamcesaraguirre/the-real-reason-why-some-dev-companies-are-forcing-ai-bf61a649efea?source=rss------programming-5) (2025-12-03)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Introducing Claude Opus 4.5 in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/) (2025-11-24)
 - [Microsoft Foundry: Scale innovation on a modular, interoperable, and secure agent stack](https://azure.microsoft.com/en-us/blog/microsoft-foundry-scale-innovation-on-a-modular-interoperable-and-secure-agent-stack/) (2025-11-18)
 - [Azure at Microsoft Ignite 2025: All the intelligent cloud news explained](https://azure.microsoft.com/en-us/blog/azure-at-microsoft-ignite-2025-all-the-intelligent-cloud-news-explained/) (2025-11-18)
 - [Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate](https://azure.microsoft.com/en-us/blog/microsoft-databases-and-microsoft-fabric-your-unified-and-ai-powered-data-estate/) (2025-11-18)
 - [Announcing Azure Copilot agents and AI infrastructure innovations](https://azure.microsoft.com/en-us/blog/announcing-azure-copilot-agents-and-ai-infrastructure-innovations/) (2025-11-18)
-- [Introducing Anthropic’s Claude models in Microsoft Foundry: Bringing Frontier intelligence to Azure](https://azure.microsoft.com/en-us/blog/introducing-anthropics-claude-models-in-microsoft-foundry-bringing-frontier-intelligence-to-azure/) (2025-11-18)
 
 </details>
 
