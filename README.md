@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Netflix launches a mobile-friendly version of Red Dead Redemption ](https://techcrunch.com/2025/12/02/netflix-launches-a-mobile-friendly-version-of-red-dead-redemption/) (2025-12-02)
-- [ChatGPT referrals to retailers’ apps increased 28% year-over-year, says report](https://techcrunch.com/2025/12/02/chatgpt-referrals-to-retailers-apps-increased-28-year-over-year-says-report/) (2025-12-02)
-- [AWS launches new Nova AI models and a service that gives customers more control](https://techcrunch.com/2025/12/02/aws-launches-new-nova-ai-models-and-a-service-that-gives-customers-more-control/) (2025-12-02)
-- [OpenAI slammed for app suggestions that looked like ads](https://techcrunch.com/2025/12/02/openai-slammed-for-app-suggestions-that-looked-like-ads/) (2025-12-02)
-- [Discord users can now buy in-game items without leaving the platform](https://techcrunch.com/2025/12/02/discord-users-can-now-buy-in-game-items-without-leaving-the-platform/) (2025-12-02)
+- [All the biggest news from AWS’ big tech show re:Invent 2025](https://techcrunch.com/2025/12/02/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/) (2025-12-03)
+- [Amazon challenges competitors with on-premises Nvidia ‘AI Factories’](https://techcrunch.com/2025/12/02/amazon-challenges-competitors-with-on-premises-nvidia-ai-factories/) (2025-12-03)
+- [Bending Spoons agrees to buy Eventbrite for $500M to revive stalled brand](https://techcrunch.com/2025/12/02/bending-spoons-agrees-to-buy-eventbrite-for-500m-to-revive-stalled-brand/) (2025-12-02)
+- [Kalshi raises $1B at $11B valuation, doubling value in under two months](https://techcrunch.com/2025/12/02/kalshi-raises-1b-at-11b-valuation-doubling-value-in-under-two-months/) (2025-12-02)
+- [Google tests merging AI Overviews with AI Mode](https://techcrunch.com/2025/12/02/google-tests-merging-ai-overviews-with-ai-mode/) (2025-12-02)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Bun has been acquired by Anthropic](https://bun.com/blog/bun-joins-anthropic) (2025-12-02)
-- [100000 TPS over a billion rows: the unreasonable effectiveness of SQLite](https://andersmurphy.com/2025/12/02/100000-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html) (2025-12-02)
-- [The Junior Hiring Crisis](https://people-work.io/blog/junior-hiring-crisis/) (2025-12-02)
-- [Progress on TypeScript 7 – December 2025](https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/) (2025-12-02)
-- [Apple to beat Samsung in smartphone shipments for first time in 14 years](https://sherwood.news/tech/apple-to-beat-samsung-in-smartphone-shipments-for-first-time-in-14-years/) (2025-12-02)
+- [DOOM could have had PC Speaker Music](https://lenowo.org/viewtopic.php?t=45) (2025-12-02)
+- [Exploring Large HTML Documents on the Web](https://calendar.perfplanet.com/2025/exploring-large-html-documents-on-the-web/) (2025-12-02)
+- [AI generated font using Nano Banana](https://constanttime.notion.site/Worlds-first-Ai-generated-font-using-nano-banana-2ba6f8e15af18012864bdb760fa9c9ba?pvs=74) (2025-12-02)
+- [Ecosia: The greenest AI is here](https://blog.ecosia.org/ecosia-ai/) (2025-12-02)
+- [Delty (YC X25) Is Hiring](https://www.ycombinator.com/companies/delty/jobs/aPWMaiq-full-stack-software-engineer) (2025-12-02)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Apple Music Replay 2025 is back with new listening stats](https://www.theverge.com/news/836613/apple-music-replay-2025-listening-stats-launch) (2025-12-02)
-- [Anker’s new desktop docking station has a removable USB-C hub you can take with you](https://www.theverge.com/news/836550/anker-nano-docking-station-removable-hub-usb-c-hdmi-displayport) (2025-12-02)
-- [The Switch 2 is still on sale at Walmart if you missed out during Cyber Monday](https://www.theverge.com/gadgets/836519/nintendo-switch-2-mario-kart-world-bundle-walmart-deal) (2025-12-02)
-- [The best thing I bought this year: a Zippo-sized rechargeable flashlight](https://www.theverge.com/gadgets/835300/wuben-g5-rechargeable-edc-flashlight-favorite) (2025-12-02)
-- [Some of our favorite Cyber Monday deals are still kicking](https://www.theverge.com/gadgets/835113/best-cyber-monday-deals-still-available-2025) (2025-12-02)
+- [The Polaroid Flip, my favorite retro instant camera, is cheaper than ever](https://www.theverge.com/gadgets/836984/polaroid-flip-cyber-week-2025-deal-sale) (2025-12-02)
+- [Indiegogo is launching ‘Express Crowdfunding’ so creators can ship things sooner](https://www.theverge.com/news/836886/indiegogo-express-crowdfunding-ayaneo-shipping) (2025-12-02)
+- [Google is experimentally replacing news headlines with AI clickbait nonsense](https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense) (2025-12-02)
+- [Amazon’s bet that AI benchmarks don’t matter](https://www.theverge.com/column/836902/amazons-ai-benchmarks-dont-matter) (2025-12-02)
+- [Silicon Valley is rallying behind a guy who sucks](https://www.theverge.com/column/836932/david-sacks-new-york-times-white-house) (2025-12-02)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Samsung reveals Galaxy Z TriFold with 10-inch foldable screen, astronomical price](https://arstechnica.com/gadgets/2025/12/samsungs-galaxy-z-trifold-is-a-10-inch-tablet-that-fits-in-your-pocket/) (2025-12-02)
-- [3D model shows small clans created Easter Island statues](https://arstechnica.com/science/2025/12/explore-the-statues-of-easter-island-with-this-fly-through-3d-model/) (2025-12-02)
-- [“Renewable” no more: Trump admin renames the National Renewable Energy Laboratory](https://arstechnica.com/science/2025/12/renewable-no-more-trump-admin-renames-the-national-renewable-energy-laboratory/) (2025-12-02)
-- [NASA seeks a “warm backup” option as key decision on lunar rover nears](https://arstechnica.com/space/2025/12/wary-of-picking-just-one-nasa-nears-important-decision-on-a-lunar-rover-selection/) (2025-12-02)
-- [“Players are selfish”: Fallout 2’s Chris Avellone describes his game design philosophy](https://arstechnica.com/gaming/2025/12/fallout-2-designer-chris-avellone-recalls-his-first-forays-into-game-development/) (2025-12-02)
+- [More FDA drama: Top drug regulator calls it quits after 3 weeks](https://arstechnica.com/health/2025/12/more-fda-drama-top-drug-regulator-calls-it-quits-after-3-weeks/) (2025-12-02)
+- [This Chinese company could become the country’s first to land a reusable rocket](https://arstechnica.com/space/2025/12/this-chinese-company-could-become-the-countrys-first-to-land-a-reusable-rocket/) (2025-12-02)
+- [OpenAI CEO declares “code red” as Gemini gains 200 million users in 3 months](https://arstechnica.com/ai/2025/12/openai-ceo-declares-code-red-as-gemini-gains-200-million-users-in-3-months/) (2025-12-02)
+- [Mad Men’s 4K debut botched by HBO Max streaming episode with visible crewmembers](https://arstechnica.com/gadgets/2025/12/mad-mens-4k-debut-botched-by-hbo-max-streaming-episode-with-visible-crewmembers/) (2025-12-02)
+- [India orders device makers to put government-run security app on all phones](https://arstechnica.com/tech-policy/2025/12/apple-will-refuse-to-preload-state-run-snooping-app-on-iphones-report-says/) (2025-12-02)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [->> Day-08 AWS Terraform Meta Arguments | count, depends_on, for_each](https://dev.to/amit_kumar_7db8e36a64dd45/-day-08-aws-terraform-meta-arguments-count-dependson-foreach-2im0) (2025-12-02)
-- [CinemaSins: Everything Wrong With Superman (2025) In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-superman-2025-in-17-minutes-or-less-3bnj) (2025-12-02)
-- [Most Outages Are Preventable: Why Your System Needs Self-Healing Yesterday](https://dev.to/vimgudy/most-outages-are-preventable-why-your-system-needs-self-healing-yesterday-27jb) (2025-12-02)
-- [If It’s Hard to Read, It’s Hard to Build](https://dev.to/lovestaco/if-its-hard-to-read-its-hard-to-build-19eg) (2025-12-02)
-- [New to Dev to community](https://dev.to/jagtar_singh_11d201bd24a6/new-to-dev-to-community-206g) (2025-12-02)
+- [Unlocking Time's Secrets: Temporal Pattern Recognition for System Anomaly Detection by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlocking-times-secrets-temporal-pattern-recognition-for-system-anomaly-detection-by-arvind-4a5h) (2025-12-03)
+- [I Built a Tool That Detects AI Training — And I Need Your Help.](https://dev.to/dwikbtn/i-built-a-tool-that-detects-ai-training-and-i-need-your-help-1g6g) (2025-12-03)
+- [🚀 The Essential Patterns Behind Modern AI Agents](https://dev.to/joedev090/the-essential-patterns-behind-modern-ai-agents-43j2) (2025-12-03)
+- [RecipeHub](https://dev.to/kyl67899/recipehub-2hp4) (2025-12-03)
+- [Entendendo APIs e sua estrutura.](https://dev.to/isaacmaciel/entendendo-apis-e-sua-estrutura-1hp4) (2025-12-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The HTML Attributes You’ve Been Using Wrong For Years (And The Shocking Things They Actually Do)](https://javascript.plainenglish.io/the-html-attributes-youve-been-using-wrong-for-years-and-the-shocking-things-they-actually-do-e19d05056d20?source=rss------programming-5) (2025-12-02)
-- [SWE Job Stability Was Always an Illusion](https://medium.com/career-programming/swe-job-stability-was-always-an-illusion-8aa81660e48a?source=rss------programming-5) (2025-12-02)
-- [If Your GUI Still Uses Tkinter, Read This List Immediately](https://medium.com/@areejkam01/if-your-gui-still-uses-tkinter-read-this-list-immediately-ca8cdcccc215?source=rss------programming-5) (2025-12-02)
-- [Most of the Developer Forgets to look the foundation of the Programming Language](https://medium.com/@mhmdsarju/what-is-this-thing-most-of-the-developer-forgets-to-look-the-foundation-of-the-programming-lan-867e965e2657?source=rss------programming-5) (2025-12-02)
-- [Clean Code Is a Myth — And It’s Slowing Your Career Down](https://javascript.plainenglish.io/clean-code-is-a-myth-and-its-slowing-your-career-down-666f5942c9bf?source=rss------programming-5) (2025-12-02)
+- [Python 101: A Beginner’s Guide to the World’s Most Popular Language](https://medium.com/@syaokifaradisa09/python-101-a-beginners-guide-to-the-world-s-most-popular-language-56ebc5a74636?source=rss------programming-5) (2025-12-03)
+- [09010712940شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@xjjdsdjjdhxhxdjdiisjdhdhd/09010712940%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-b292ba56a67b?source=rss------programming-5) (2025-12-03)
+- [09010712940شماره خاله #شماره خاله تهران #شماره خاله تهرانپارس #شماره خاله اصفهان شماره خاله کرج…](https://medium.com/@xjjdsdjjdhxhxdjdiisjdhdhd/09010712940%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-c77fa0bd0bbc?source=rss------programming-5) (2025-12-03)
+- [5 Refactoring Sessions That Changed How I Write Python](https://python.plainenglish.io/5-refactoring-sessions-that-changed-how-i-write-python-384aa0debc74?source=rss------programming-5) (2025-12-03)
+- [Part 2: 5 More Database Architecture Questions Every Software Architect Should Ask (But Still Most…](https://medium.com/@ashishjsharda/part-2-5-more-database-architecture-questions-every-software-architect-should-ask-but-still-most-08d413af748a?source=rss------programming-5) (2025-12-03)
 
 </details>
 
@@ -163,11 +163,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Android 16 QPR2 is Released](https://android-developers.googleblog.com/2025/12/android-16-qpr2-is-released.html) (2025-12-02)
 - [Explore AI on Android with Our Sample Catalog App](https://android-developers.googleblog.com/2025/12/explore-ai-on-android-with-our-sample.html) (2025-12-02)
 - [Learn about our newest Jetpack Navigation library with the Nav3 Spotlight Week](https://android-developers.googleblog.com/2025/12/learn-about-our-newest-jetpack.html) (2025-12-01)
 - [#WeArePlay: Solving the dinner dilemma - how DELISH KITCHEN empowers 13 million home cooks](https://android-developers.googleblog.com/2025/11/weareplay-solving-dinner-dilemma-how.html) (2025-11-25)
 - [Fully Optimized: Wrapping up Performance Spotlight Week](https://android-developers.googleblog.com/2025/11/fully-optimized-wrapping-up-performance.html) (2025-11-21)
-- [Leveling Guide for your Performance Journey](https://android-developers.googleblog.com/2025/11/leveling-guide-for-your-performance.html) (2025-11-20)
 
 </details>
 
@@ -362,6 +362,21 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Deploying AI at Scale Without Sacrificing Security
+](
+https://www.twilio.com/en-us/blog/insights/scaling-ai-securely
+) (2025-12-01)
+- [
+25 reasons why email marketing is important in 2026
+](
+https://www.twilio.com/en-us/blog/insights/why-email-marketing-is-important
+) (2025-12-01)
+- [
+The Ins and Outs of DMARC Monitoring in 2026
+](
+https://www.twilio.com/en-us/blog/insights/dmarc-monitoring
+) (2025-11-28)
+- [
 What you should know about Australia's new SMS Sender ID Register 
 ](
 https://www.twilio.com/en-us/blog/insights/australia-sender-id-register
@@ -371,21 +386,6 @@ Build a Smart QA ChatOps Assistant with Playwright, Twilio WhatsApp, LLMs, and M
 ](
 https://www.twilio.com/en-us/blog/developers/community/build-smart-qa-chatops-assistant-playwright-twilio-whatsapp-llms-mcp
 ) (2025-11-25)
-- [
-Checking it twice: How to spot a fake in your inbox and stay safe this holiday season
-](
-https://www.twilio.com/en-us/blog/insights/stay-safe-this-holiday-season
-) (2025-11-24)
-- [
-Behind the Builder: Stefany Millstein, Director of Sales, Commercial
-](
-https://www.twilio.com/en-us/blog/company/spotlights/behind-the-builder-Stefany-Millstein-twilio
-) (2025-11-20)
-- [
-Launch WhatsApp faster with Twilio: Senders API GA, plus Typing Indicators, Flows, and a smoother ISV experience
-](
-https://www.twilio.com/en-us/blog/products/launches/launch-whatsapp-faster-with-twilio--senders-api-ga--plus-typing-
-) (2025-11-19)
 
 </details>
 
@@ -558,22 +558,22 @@ https://www.twilio.com/en-us/blog/products/launches/launch-whatsapp-faster-with-
 <details>
 <summary>🤖 AI News</summary>
 
+- [Frontier AI research lab tackles enterprise deployment challenges](https://www.artificialintelligence-news.com/news/frontier-ai-research-lab-tackles-enterprise-deployment-challenges/) (2025-12-02)
 - [IBM cites agentic AI, data policies, and quantum as 2026 trends](https://www.artificialintelligence-news.com/news/ibm-quantum-cited-plus-agentic-ai-data-policies-as-2026-trends/) (2025-12-02)
 - [China’s DeepSeek V3.2 AI model achieves frontier performance on a fraction of the computing budget](https://www.artificialintelligence-news.com/news/deepseek-v3-2-matches-gpt-5-lower-training-costs/) (2025-12-02)
 - [How OpenAI and Thrive are testing a new enterprise AI model](https://www.artificialintelligence-news.com/news/how-openai-and-thrive-are-testing-a-new-enterprise-ai-model/) (2025-12-02)
 - [Agentic AI autonomy grows in North American enterprises](https://www.artificialintelligence-news.com/news/agentic-ai-autonomy-grows-in-north-american-enterprises/) (2025-12-01)
-- [AI business reality – what enterprise leaders need to know](https://www.artificialintelligence-news.com/news/ai-business-reality-what-enterprise-leaders-need-know/) (2025-12-01)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Machine Learning “Advent Calendar” Day 2: k-NN Classifier in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-2-k-nn-classifier-in-excel/) (2025-12-02)
 - [JSON Parsing for Large Payloads: Balancing Speed, Memory, and Scalability](https://towardsdatascience.com/json-parsing-for-large-payloads-balancing-speed-memory-and-scalability/) (2025-12-02)
 - [How to Use Simple Data Contracts in Python for Data Scientists](https://towardsdatascience.com/how-to-use-simple-data-contracts-in-python-for-data-scientists/) (2025-12-02)
 - [How to Generate QR Codes in Python](https://towardsdatascience.com/how-to-generate-qr-code-in-python/) (2025-12-02)
 - [The Machine Learning Lessons I’ve Learned This Month](https://towardsdatascience.com/the-machine-learning-lessons-ive-learned-this-month-3/) (2025-12-01)
-- [The Machine Learning “Advent Calendar” Day 1: k-NN Regressor in Excel](https://towardsdatascience.com/day-1-k-nn-regressor-in-excel-how-distance-drives-prediction/) (2025-12-01)
 
 </details>
 
@@ -618,6 +618,17 @@ https://www.twilio.com/en-us/blog/products/launches/launch-whatsapp-faster-with-
 - [Distill Hiatus](https://distill.pub/2021/distill-hiatus) (2021-07-02)
 - [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial) (2021-05-06)
 - [Weight Banding](https://distill.pub/2020/circuits/weight-banding) (2021-04-08)
+
+</details>
+
+<details>
+<summary>🧠 DeepMind Blog</summary>
+
+- [AlphaFold: Five years of impact](https://deepmind.google/blog/alphafold-five-years-of-impact/) (2025-11-25)
+- [Revealing a key protein behind heart disease](https://deepmind.google/blog/revealing-a-key-protein-behind-heart-disease/) (2025-11-25)
+- [How we’re bringing AI image verification to the Gemini app](https://deepmind.google/blog/how-were-bringing-ai-image-verification-to-the-gemini-app/) (2025-11-20)
+- [Build with Nano Banana Pro, our Gemini 3 Pro Image model](https://deepmind.google/blog/build-with-nano-banana-pro-our-gemini-3-pro-image-model/) (2025-11-20)
+- [Introducing Nano Banana Pro](https://deepmind.google/blog/introducing-nano-banana-pro/) (2025-11-20)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
