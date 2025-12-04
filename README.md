@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [New unicorn Brevo raises $583M to challenge CRM giants](https://techcrunch.com/2025/12/03/new-unicorn-brevo-raises-583m-to-challenge-crm-giants/) (2025-12-04)
 - [Day One Ventures’ Masha Bucher on why every founder needs to be an influencer](https://techcrunch.com/video/day-one-ventures-masha-bucher-on-why-every-founder-needs-to-be-an-influencer/) (2025-12-04)
-- [Amazon hopes to jump start its AI coding tool Kiro by giving it away to startups](https://techcrunch.com/2025/12/03/amazon-hopes-to-jump-start-its-ai-coding-tool-kiro-by-giving-it-away-to-startups/) (2025-12-03)
+- [Amazon hopes to jump-start its AI coding tool Kiro by giving it away to startups](https://techcrunch.com/2025/12/03/amazon-hopes-to-jump-start-its-ai-coding-tool-kiro-by-giving-it-away-to-startups/) (2025-12-03)
 - [All the biggest news from AWS’ big tech show re:Invent 2025](https://techcrunch.com/2025/12/03/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/) (2025-12-03)
-- [Meta poaches Apple design exec Alan Dye](https://techcrunch.com/2025/12/03/meta-poaches-apple-design-exec-alan-dye/) (2025-12-03)
-- [Could MrBeast IPO? His CEO wants fans to have ‘a chance to be owners of the company’](https://techcrunch.com/2025/12/03/could-mrbeast-ipo-his-ceo-wants-fans-to-have-a-chance-to-be-owners-of-the-company/) (2025-12-03)
+- [Meta poaches Apple design exec Alan Dye to lead new creative studio in Reality Labs](https://techcrunch.com/2025/12/03/meta-poaches-apple-design-exec-alan-dye-to-lead-new-creative-studio-in-reality-labs/) (2025-12-03)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Kea DHCP: Modern, open source DHCPv4 and DHCPv6 server](https://www.isc.org/kea/) (2025-12-03)
-- [Acme, a brief history of one of the protocols which has changed the Internet](https://blog.brocas.org/2025/12/01/ACME-a-brief-history-of-one-of-the-protocols-which-has-changed-the-Internet-Security/) (2025-12-03)
-- [Greeting Vocalizations in Domestic Cats Are More Frequent with Male Caregivers](https://onlinelibrary.wiley.com/doi/10.1111/eth.70033) (2025-12-03)
-- [8086 Microcode Browser](https://nand2mario.github.io/posts/2025/8086_microcode_browser/) (2025-12-03)
-- [Chips for the Rest of Us](https://engineering.nyu.edu/about/unconventional-engineer/chips-for-us) (2025-12-03)
+- [Russia Bans Roblox](https://www.bbc.com/news/articles/cn41q11gy58o) (2025-12-04)
+- [New homes in London were delayed by 'energy-hungry' data centres](https://www.bbc.com/news/articles/c0mpr1mvwj3o) (2025-12-04)
+- [Euler Conjecture and CDC 6600](https://fortran-lang.discourse.group/t/euler-conjecture-and-cdc-6600/10501) (2025-12-04)
+- [Why WinQuake exists and how it works](https://fabiensanglard.net/winquake/index.html) (2025-12-04)
+- [Average DRAM price in USD over last 18 months](https://pcpartpicker.com/trends/price/memory/) (2025-12-04)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Maximum-severity vulnerability threatens 6% of all websites](https://arstechnica.com/security/2025/12/admins-and-defenders-gird-themselves-against-maximum-severity-server-vulnerability/) (2025-12-03)
+- [12 former FDA chiefs unite to say agency memo on vaccines is deeply stupid](https://arstechnica.com/health/2025/12/12-former-fda-chiefs-unite-to-say-agency-memo-on-vaccines-is-deeply-stupid/) (2025-12-04)
+- [Admins and defenders gird themselves against maximum-severity server vuln](https://arstechnica.com/security/2025/12/admins-and-defenders-gird-themselves-against-maximum-severity-server-vulnerability/) (2025-12-03)
 - [Great handling, advanced EV tech: We drive the 2027 BMW iX3](https://arstechnica.com/cars/2025/12/great-handling-advanced-ev-tech-we-drive-the-2026-bmw-ix3/) (2025-12-03)
 - [Republicans drop Trump-ordered block on state AI laws from defense bill](https://arstechnica.com/tech-policy/2025/12/republicans-once-again-thwart-trumps-push-to-block-state-ai-laws/) (2025-12-03)
 - [Humans in southern Africa were an isolated population until recently](https://arstechnica.com/science/2025/12/ancient-genomes-from-southern-africa-reveal-distinct-human-lineage/) (2025-12-03)
-- [After nearly 30 years, Crucial will stop selling RAM to consumers](https://arstechnica.com/gadgets/2025/12/after-nearly-30-years-crucial-will-stop-selling-ram-to-consumers/) (2025-12-03)
 
 </details>
 
@@ -86,38 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Postman’s journey and unlocking the power of APIs](https://stackoverflow.blog/2025/12/04/postman-s-journey-and-unlocking-the-power-of-apis/) (2025-12-04)
 - [Introducing Stack Overflow AI Assist—a tool for the modern developer](https://stackoverflow.blog/2025/12/02/introducing-stack-overflow-ai-assist-a-tool-for-the-modern-developer/) (2025-12-02)
 - [Disrupting yourself in the age of AI](https://stackoverflow.blog/2025/12/02/disrupting-yourself-in-the-age-of-ai/) (2025-12-02)
 - [Abstraction, but for robots](https://stackoverflow.blog/2025/12/02/abstraction-but-for-robots/) (2025-12-02)
 - [What’s new at Stack Overflow: December 2025](https://stackoverflow.blog/2025/12/01/what-s-new-at-stack-overflow-december-2025/) (2025-12-01)
-- [Lightning-as-a-service for agriculture](https://stackoverflow.blog/2025/11/28/lightning-as-a-service-for-agriculture/) (2025-11-28)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building an MCP Server: Connecting Claude and VSCode to External Tools](https://dev.to/renzo_fernandoloyolavil/building-an-mcp-server-connecting-claude-and-vscode-to-external-tools-1g4c) (2025-12-04)
-- [Day 3: Multi-Agent Systems - The Supervisor Pattern](https://dev.to/ravidasari/day-3-multi-agent-systems-the-supervisor-pattern-20ba) (2025-12-04)
-- [Day 2: Introduction to LangGraph - From Chains to Agents](https://dev.to/ravidasari/day-2-introduction-to-langgraph-from-chains-to-agents-1ec5) (2025-12-04)
-- [Day 1: Foundations of Agentic AI - RAG and Vector Stores](https://dev.to/ravidasari/day-1-foundations-of-agentic-ai-rag-and-vector-stores-4hc7) (2025-12-04)
-- [Day 4: Production Patterns - Persistence and Human-in-the-Loop](https://dev.to/ravidasari/day-4-production-patterns-persistence-and-human-in-the-loop-22de) (2025-12-04)
+- [Quarkus 3 application on AWS Lambda- Part 9 Measuring Lambda cold and warm starts with GraalVM Native Image and REST API](https://dev.to/vkazulkin/quarkus-3-application-on-aws-lambda-part-9-measuring-lambda-cold-and-warm-starts-with-graalvm-8d3) (2025-12-04)
+- [I Built NimPacket, a Raw Packet Crafting Library in Nim, and It Turned Into One of My Best Cyber Projects](https://dev.to/0x57origin/i-built-nimpacket-a-raw-packet-crafting-library-in-nim-and-it-turned-into-one-of-my-best-cyber-1n0g) (2025-12-04)
+- [From Wrappers to Reasoners: Building an Iterative Research Agent](https://dev.to/kaustav_chowdhury_f3cdc47/from-wrappers-to-reasoners-building-an-iterative-research-agent-3j7l) (2025-12-04)
+- [Building a ML Library from Scratch in Rust Part 1: Resuming my journey on learning the basics of AI](https://dev.to/palash90/resuming-my-journey-on-learning-the-basics-of-ai-50lj) (2025-12-04)
+- [[AWS] DevTools Evangelism Kiro's Edition](https://dev.to/aws-builders/aws-devtools-evangelism-kiros-edition-1jcp) (2025-12-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@fgdy65i/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-9b9c9a23cf60?source=rss------programming-5) (2025-12-04)
-- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@fgdy65i/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-5e08f344faa3?source=rss------programming-5) (2025-12-04)
-- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@asdgvjbur/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-dcb4acabf208?source=rss------programming-5) (2025-12-04)
-- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@asdgvjbur/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-3cca7b7010f3?source=rss------programming-5) (2025-12-04)
-- [09309022560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@kvhnjbt11/09309022560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-f36926ecf996?source=rss------programming-5) (2025-12-04)
+- [Teaching an LLM to Write Assembly: GBNF-Constrained Generation for a Custom 8-Bit CPU](https://medium.com/@james_15508/teaching-an-llm-to-write-assembly-gbnf-constrained-generation-for-a-custom-8-bit-cpu-f02e0e5e38d1?source=rss------programming-5) (2025-12-04)
+- [Top 5 Open Source Projects in Rust You Should Know About ](https://medium.com/solo-devs/top-5-open-source-projects-in-rust-you-should-know-about-0ce8503f0d38?source=rss------programming-5) (2025-12-04)
+- [The Hidden JVM Slowdown: Why Optional + Streams Break Your Cache Lines](https://medium.com/@kedarbpatil07/the-hidden-jvm-slowdown-why-optional-streams-break-your-cache-lines-e154a6e0a644?source=rss------programming-5) (2025-12-04)
+- [Why Rust Isn’t Mainstream Yet (And How You Can Help Change That) ](https://medium.com/solo-devs/why-rust-isnt-mainstream-yet-and-how-you-can-help-change-that-5d88e0e27744?source=rss------programming-5) (2025-12-04)
+- [The Ultimate Python Developer 2025 Roadmap](https://blog.stackademic.com/the-ultimate-python-developer-2025-roadmap-6d274438de28?source=rss------programming-5) (2025-12-04)
 
 </details>
 
@@ -135,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Azure networking updates on security, reliability, and high availability](https://azure.microsoft.com/en-us/blog/unlocking-the-future-azure-networking-updates-on-security-reliability-and-high-availability-2/) (2025-12-01)
 - [Introducing Claude Opus 4.5 in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/) (2025-11-24)
 - [Microsoft Foundry: Scale innovation on a modular, interoperable, and secure agent stack](https://azure.microsoft.com/en-us/blog/microsoft-foundry-scale-innovation-on-a-modular-interoperable-and-secure-agent-stack/) (2025-11-18)
 - [Azure at Microsoft Ignite 2025: All the intelligent cloud news explained](https://azure.microsoft.com/en-us/blog/azure-at-microsoft-ignite-2025-all-the-intelligent-cloud-news-explained/) (2025-11-18)
 - [Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate](https://azure.microsoft.com/en-us/blog/microsoft-databases-and-microsoft-fabric-your-unified-and-ai-powered-data-estate/) (2025-11-18)
+- [Announcing Azure Copilot agents and AI infrastructure innovations](https://azure.microsoft.com/en-us/blog/announcing-azure-copilot-agents-and-ai-infrastructure-innovations/) (2025-11-18)
 
 </details>
 
@@ -508,11 +503,11 @@ https://www.twilio.com/en-us/blog/insights/dmarc-monitoring
 <details>
 <summary>💬 Slack API</summary>
 
-- [Five proven employee engagement strategies to motivate your team](https://slack.com/blog/collaboration/five-proven-employee-engagement-strategies-to-motivate-your-team) (2025-12-01)
-- [Six Easy Tips for Workflow Mapping With Examples](https://slack.com/blog/productivity/workflow-mapping) (2025-12-01)
-- [How To Manage Multiple Projects and Operate Like a Pro](https://slack.com/blog/productivity/how-to-manage-multiple-projects) (2025-12-01)
 - [How to Improve Organizational Communication at Work](https://slack.com/blog/collaboration/how-to-improve-organizational-communication-at-work) (2025-11-24)
 - [Applying Virtual Meeting Etiquette Rules: 12 Do’s and Don’ts](https://slack.com/blog/collaboration/applying-virtual-meeting-etiquette-rules-12-dos-and-donts) (2025-11-24)
+- [How Caraway Built a Nine-Figure Business In Slack](https://slack.com/blog/productivity/caraway-grows-with-slack) (2025-11-24)
+- [Slack for iOS 26: A Simpler, More Productive Way to Work from Anywhere](https://slack.com/blog/news/redesigning-slack-ios26) (2025-11-18)
+- [Eight Internal Communications Best Practices You Should Know](https://slack.com/blog/collaboration/internal-communications-best-practices) (2025-11-17)
 
 </details>
 
@@ -574,11 +569,11 @@ https://www.twilio.com/en-us/blog/insights/dmarc-monitoring
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Architecture Behind Web Search in AI Chatbots](https://towardsdatascience.com/the-architecture-behind-web-search-in-ai-chatbots-2/) (2025-12-04)
 - [Overcoming the Hidden Performance Traps of Variable-Shaped Tensors: Efficient Data Sampling in PyTorch](https://towardsdatascience.com/overcoming-the-hidden-performance-traps-of-variable-shaped-tensors-efficient-data-sampling-in-pytorch/) (2025-12-03)
 - [The Machine Learning “Advent Calendar” Day 3: GNB, LDA and QDA in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-3-gnb-lda-and-qda-in-excel/) (2025-12-03)
 - [How to Turn Your LLM Prototype into a Production-Ready System](https://towardsdatascience.com/how-to-turn-your-llm-prototype-into-a-production-ready-system/) (2025-12-03)
 - [Multi-Agent Arena: Insights from London Great Agent Hack 2025](https://towardsdatascience.com/multi-agent-arena-london-great-agent-hack-2025/) (2025-12-03)
-- [How to Code Your Own Website with AI](https://towardsdatascience.com/how-to-code-your-own-website-with-ai/) (2025-12-03)
 
 </details>
 
