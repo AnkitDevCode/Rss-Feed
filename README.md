@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Nexus isn’t going all-in on AI, keeping half of its new $700M fund for India startups](https://techcrunch.com/2025/12/04/nexus-isnt-going-all-in-on-ai-keeping-its-new-700m-fund-balanced-with-india-bets/) (2025-12-04)
+- [Gemini was Google’s top trending search term in 2025](https://techcrunch.com/2025/12/04/gemini-was-googles-top-trending-search-term-in-2025/) (2025-12-04)
 - [New unicorn Brevo raises $583M to challenge CRM giants](https://techcrunch.com/2025/12/03/new-unicorn-brevo-raises-583m-to-challenge-crm-giants/) (2025-12-04)
 - [Day One Ventures’ Masha Bucher on why every founder needs to be an influencer](https://techcrunch.com/video/day-one-ventures-masha-bucher-on-why-every-founder-needs-to-be-an-influencer/) (2025-12-04)
 - [Amazon hopes to jump-start its AI coding tool Kiro by giving it away to startups](https://techcrunch.com/2025/12/03/amazon-hopes-to-jump-start-its-ai-coding-tool-kiro-by-giving-it-away-to-startups/) (2025-12-03)
-- [All the biggest news from AWS’ big tech show re:Invent 2025](https://techcrunch.com/2025/12/03/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/) (2025-12-03)
-- [Meta poaches Apple design exec Alan Dye to lead new creative studio in Reality Labs](https://techcrunch.com/2025/12/03/meta-poaches-apple-design-exec-alan-dye-to-lead-new-creative-studio-in-reality-labs/) (2025-12-03)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Russia Bans Roblox](https://www.bbc.com/news/articles/cn41q11gy58o) (2025-12-04)
-- [New homes in London were delayed by 'energy-hungry' data centres](https://www.bbc.com/news/articles/c0mpr1mvwj3o) (2025-12-04)
-- [Euler Conjecture and CDC 6600](https://fortran-lang.discourse.group/t/euler-conjecture-and-cdc-6600/10501) (2025-12-04)
-- [Why WinQuake exists and how it works](https://fabiensanglard.net/winquake/index.html) (2025-12-04)
-- [Average DRAM price in USD over last 18 months](https://pcpartpicker.com/trends/price/memory/) (2025-12-04)
+- [30 years ago today "Netscape and Sun announce JavaScript"](https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html) (2025-12-04)
+- [NextJS Security Vulnerability](https://nextjs.org/blog/CVE-2025-66478) (2025-12-04)
+- [Building optimistic UI in Rails (and learn custom elements)](https://railsdesigner.com/custom-elements/) (2025-12-04)
+- [PGlite – Embeddable Postgres](https://pglite.dev/) (2025-12-04)
+- [Unreal Tournament 2004 is back](https://old.reddit.com/r/unrealtournament/comments/1pdbe69/breaking_unreal_tournament_2004_is_back/) (2025-12-04)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Get ready for an AI country music explosion](https://www.theverge.com/ai-artificial-intelligence/829964/country-music-ai) (2025-12-04)
+- [Apple removed a Night mode photo feature from the iPhone 17 Pro](https://www.theverge.com/news/838002/apple-iphone-17-pro-night-portrait-mode-removed) (2025-12-04)
 - [Antigravity’s 360-degree drone is here to help you forget DJI](https://www.theverge.com/news/837922/antigravity-360-us-release-price-best-buy) (2025-12-04)
 - [BMW iX3 first drive: a ‘New Class’ is in session](https://www.theverge.com/transportation/837394/bmw-ix3-first-drive-neue-klasse-specs-price) (2025-12-03)
 - [Satellites keep photobombing the Hubble telescope, and it’s getting worse](https://www.theverge.com/news/837652/hubble-telescope-satellite-light-pollution) (2025-12-03)
-- [Anthropic&#8217;s AI bubble &#8216;YOLO&#8217; warning](https://www.theverge.com/column/837779/anthropic-ai-bubble-warning) (2025-12-03)
-- [I tested 30 smart locks, and these are the best](https://www.theverge.com/23393163/best-smart-door-lock) (2025-12-03)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [A fentanyl vaccine is about to get its first major test](https://arstechnica.com/science/2025/12/a-fentanyl-vaccine-is-about-to-get-its-first-major-test/) (2025-12-04)
 - [12 former FDA chiefs unite to say agency memo on vaccines is deeply stupid](https://arstechnica.com/health/2025/12/12-former-fda-chiefs-unite-to-say-agency-memo-on-vaccines-is-deeply-stupid/) (2025-12-04)
 - [Admins and defenders gird themselves against maximum-severity server vuln](https://arstechnica.com/security/2025/12/admins-and-defenders-gird-themselves-against-maximum-severity-server-vulnerability/) (2025-12-03)
 - [Great handling, advanced EV tech: We drive the 2027 BMW iX3](https://arstechnica.com/cars/2025/12/great-handling-advanced-ev-tech-we-drive-the-2026-bmw-ix3/) (2025-12-03)
 - [Republicans drop Trump-ordered block on state AI laws from defense bill](https://arstechnica.com/tech-policy/2025/12/republicans-once-again-thwart-trumps-push-to-block-state-ai-laws/) (2025-12-03)
-- [Humans in southern Africa were an isolated population until recently](https://arstechnica.com/science/2025/12/ancient-genomes-from-southern-africa-reveal-distinct-human-lineage/) (2025-12-03)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Why the grid relies on nuclear reactors in the winter](https://www.technologyreview.com/2025/12/04/1128754/nuclear-power-reliability/) (2025-12-04)
 - [OpenAI has trained its LLM to confess to bad behavior](https://www.technologyreview.com/2025/12/03/1128740/openai-has-trained-its-llm-to-confess-to-bad-behavior/) (2025-12-03)
 - [The Download: AI and coding, and Waymo’s aggressive driverless cars](https://www.technologyreview.com/2025/12/03/1128724/the-download-ai-and-coding-and-waymos-aggressive-driverless-cars/) (2025-12-03)
 - [Accelerating VMware migrations with a factory model approach](https://www.technologyreview.com/2025/12/03/1128488/accelerating-vmware-migrations-with-a-factory-model-approach/) (2025-12-03)
 - [The Download: AI’s impact on the economy, and DeepSeek strikes again](https://www.technologyreview.com/2025/12/02/1128647/the-download-ais-impact-on-the-economy-and-deepseek-strikes-again/) (2025-12-02)
-- [The State of AI: Welcome to the economic singularity](https://www.technologyreview.com/2025/12/01/1127872/the-state-of-ai-welcome-to-the-economic-singularity/) (2025-12-01)
 
 </details>
 
@@ -97,22 +97,24 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Quarkus 3 application on AWS Lambda- Part 9 Measuring Lambda cold and warm starts with GraalVM Native Image and REST API](https://dev.to/vkazulkin/quarkus-3-application-on-aws-lambda-part-9-measuring-lambda-cold-and-warm-starts-with-graalvm-8d3) (2025-12-04)
-- [I Built NimPacket, a Raw Packet Crafting Library in Nim, and It Turned Into One of My Best Cyber Projects](https://dev.to/0x57origin/i-built-nimpacket-a-raw-packet-crafting-library-in-nim-and-it-turned-into-one-of-my-best-cyber-1n0g) (2025-12-04)
-- [From Wrappers to Reasoners: Building an Iterative Research Agent](https://dev.to/kaustav_chowdhury_f3cdc47/from-wrappers-to-reasoners-building-an-iterative-research-agent-3j7l) (2025-12-04)
-- [Building a ML Library from Scratch in Rust Part 1: Resuming my journey on learning the basics of AI](https://dev.to/palash90/resuming-my-journey-on-learning-the-basics-of-ai-50lj) (2025-12-04)
-- [[AWS] DevTools Evangelism Kiro's Edition](https://dev.to/aws-builders/aws-devtools-evangelism-kiros-edition-1jcp) (2025-12-04)
+- [Closures vs Objects: Understanding 'A Poor Man's' Through the Lens of IVP](https://dev.to/yannick555/closures-vs-objects-understanding-a-poor-mans-through-the-lens-of-ivp-105j) (2025-12-04)
+- [Oxide Lab: Private Local AI Chat on Your PC - No Internet, No Subscriptions Required](https://dev.to/ferrismind/oxide-lab-private-local-ai-chat-on-your-pc-no-internet-no-subscriptions-required-20pf) (2025-12-04)
+- [How to Pull AWS ECR Images Across Accounts Using EC2?](https://dev.to/aws-builders/how-to-pull-aws-ecr-images-across-accounts-using-ec2-2cgd) (2025-12-04)
+- [Terra Nova: A Cinematic Travel App from Scratch with Uno Platform](https://dev.to/architrixs/terra-nova-a-cinematic-travel-app-from-scratch-with-uno-platform-4503) (2025-12-04)
+- [How I Connected Dify Chatflow to My Multi-Platform Bot in Minutes](https://dev.to/rockchinq/how-i-connected-dify-chatflow-to-my-multi-platform-bot-in-minutes-264m) (2025-12-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Teaching an LLM to Write Assembly: GBNF-Constrained Generation for a Custom 8-Bit CPU](https://medium.com/@james_15508/teaching-an-llm-to-write-assembly-gbnf-constrained-generation-for-a-custom-8-bit-cpu-f02e0e5e38d1?source=rss------programming-5) (2025-12-04)
-- [Top 5 Open Source Projects in Rust You Should Know About ](https://medium.com/solo-devs/top-5-open-source-projects-in-rust-you-should-know-about-0ce8503f0d38?source=rss------programming-5) (2025-12-04)
-- [The Hidden JVM Slowdown: Why Optional + Streams Break Your Cache Lines](https://medium.com/@kedarbpatil07/the-hidden-jvm-slowdown-why-optional-streams-break-your-cache-lines-e154a6e0a644?source=rss------programming-5) (2025-12-04)
-- [Why Rust Isn’t Mainstream Yet (And How You Can Help Change That) ](https://medium.com/solo-devs/why-rust-isnt-mainstream-yet-and-how-you-can-help-change-that-5d88e0e27744?source=rss------programming-5) (2025-12-04)
-- [The Ultimate Python Developer 2025 Roadmap](https://blog.stackademic.com/the-ultimate-python-developer-2025-roadmap-6d274438de28?source=rss------programming-5) (2025-12-04)
+- [# OpenAI Just Made GitHub Copilot Obsolete With One Feature (And Developers Are Losing Their Minds)](https://medium.com/@bandenawaz.bagwan/openai-just-made-github-copilot-obsolete-with-one-feature-and-developers-are-losing-their-minds-9a1edac9f3cf?source=rss------programming-5) (2025-12-04)
+- [LLMs Predict Words, Not Solutions — So Stay the Architect, Not the Labor](https://medium.com/@mudassarm30/llms-predict-words-not-solutions-so-stay-the-architect-not-the-labor-1e20a5a4934d?source=rss------programming-5) (2025-12-04)
+- [Python for Daily Health Monitoring: Sleep, Steps & Heart-Rate Analysis](https://blog.devgenius.io/python-for-daily-health-monitoring-sleep-steps-heart-rate-analysis-6aa99e9a1eaa?source=rss------programming-5) (2025-12-04)
+- [09051012897شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jjdkdkdfjjdcnbf/09051012897%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-0f7abbbcf249?source=rss------programming-5) (2025-12-04)
+- [09051012897شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@jjdkdkdfjjdcnbf/09051012897%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-7ed1903995fc?source=rss------programming-5) (2025-12-04)
 
 </details>
 
@@ -130,11 +132,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Introducing Claude Opus 4.5 in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/) (2025-11-24)
 - [Microsoft Foundry: Scale innovation on a modular, interoperable, and secure agent stack](https://azure.microsoft.com/en-us/blog/microsoft-foundry-scale-innovation-on-a-modular-interoperable-and-secure-agent-stack/) (2025-11-18)
 - [Azure at Microsoft Ignite 2025: All the intelligent cloud news explained](https://azure.microsoft.com/en-us/blog/azure-at-microsoft-ignite-2025-all-the-intelligent-cloud-news-explained/) (2025-11-18)
 - [Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate](https://azure.microsoft.com/en-us/blog/microsoft-databases-and-microsoft-fabric-your-unified-and-ai-powered-data-estate/) (2025-11-18)
 - [Announcing Azure Copilot agents and AI infrastructure innovations](https://azure.microsoft.com/en-us/blog/announcing-azure-copilot-agents-and-ai-infrastructure-innovations/) (2025-11-18)
+- [Introducing Anthropic’s Claude models in Microsoft Foundry: Bringing Frontier intelligence to Azure](https://azure.microsoft.com/en-us/blog/introducing-anthropics-claude-models-in-microsoft-foundry-bringing-frontier-intelligence-to-azure/) (2025-11-18)
 
 </details>
 
@@ -306,11 +308,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [The Deprecation of K1 Mode](https://blog.jetbrains.com/idea/2025/12/the-deprecation-of-k1-mode/) (2025-12-04)
 - [Ask Us Anything During JetBrains AMA Week](https://blog.jetbrains.com/blog/2025/12/03/ask-us-anything-during-jetbrains-ama-week/) (2025-12-03)
 - [5 Stories Of Developers Using JetBrains Rider to Create, Collaborate, and Have Fun](https://blog.jetbrains.com/dotnet/2025/12/03/5-stories-of-developers-using-jetbrains-rider/) (2025-12-03)
 - [Grok Models Come to the AI Chat in JetBrains IDEs](https://blog.jetbrains.com/ai/2025/12/grok-models-come-to-the-ai-chat-in-jetbrains-ides/) (2025-12-02)
 - [DataGrip 2025.3: Migration From Consoles to Query Files, Connection to Cloud Providers, Introspection Levels for Amazon Redshift, and More!](https://blog.jetbrains.com/datagrip/2025/12/02/datagrip-2025-3-migration-from-consoles-to-query-files-connection-to-cloud-providers-introspection-levels-for-amazon-redshift-and-more/) (2025-12-02)
-- [dotInsights | December 2025](https://blog.jetbrains.com/dotnet/2025/12/02/dotinsights-december-2025/) (2025-12-02)
 
 </details>
 
@@ -362,16 +364,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Build a Twilio + Zoho CRM SMS Integration
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/build-twilio-zoho-crm-sms-integration
-) (2025-12-03)
-- [
-How to Authenticate with Magic Links in Go
-](
-https://www.twilio.com/en-us/blog/developers/community/authenticate-magic-links-go
-) (2025-12-02)
-- [
 Deploying AI at Scale Without Sacrificing Security
 ](
 https://www.twilio.com/en-us/blog/insights/scaling-ai-securely
@@ -386,6 +378,16 @@ The Ins and Outs of DMARC Monitoring in 2026
 ](
 https://www.twilio.com/en-us/blog/insights/dmarc-monitoring
 ) (2025-11-28)
+- [
+What you should know about Australia's new SMS Sender ID Register 
+](
+https://www.twilio.com/en-us/blog/insights/australia-sender-id-register
+) (2025-11-27)
+- [
+Build a Smart QA ChatOps Assistant with Playwright, Twilio WhatsApp, LLMs, and MCP
+](
+https://www.twilio.com/en-us/blog/developers/community/build-smart-qa-chatops-assistant-playwright-twilio-whatsapp-llms-mcp
+) (2025-11-25)
 
 </details>
 
@@ -547,33 +549,33 @@ https://www.twilio.com/en-us/blog/insights/dmarc-monitoring
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [We Got Claude to Fine-Tune an Open Source LLM](https://huggingface.co/blog/hf-skills-training) (2025-12-04)
 - [Custom Policy Enforcement with Reasoning: Faster, Safer AI Applications](https://huggingface.co/blog/nvidia/custom-policy-reasoning-nemotron-content-safety) (2025-12-02)
 - [SARLO-80: Worldwide Slant SAR Language Optic Dataset at 80 cm Resolution](https://huggingface.co/blog/hugging-science/sarlo-80-sar-optic-language-dataset) (2025-12-01)
 - [Transformers v5: Simple model definitions powering the AI ecosystem](https://huggingface.co/blog/transformers-v5) (2025-12-01)
 - [Diffusers welcomes FLUX-2](https://huggingface.co/blog/flux-2) (2025-11-25)
-- [Continuous batching from first principles](https://huggingface.co/blog/continuous_batching) (2025-11-25)
 
 </details>
 
 <details>
 <summary>🤖 AI News</summary>
 
+- [AI memory hunger forces Micron’s consumer exodus: A turning point in semiconductor economics](https://www.artificialintelligence-news.com/news/ai-memory-hunger-micron-consumer-exit/) (2025-12-04)
 - [AI in manufacturing set to unleash new era of profit](https://www.artificialintelligence-news.com/news/ai-in-manufacturing-set-to-unleash-new-era-of-profit/) (2025-12-03)
 - [HTB AI Range offers experiments in cyber-resilience training](https://www.artificialintelligence-news.com/news/htb-ai-range-testing-ai-security-in-sandbox-agentic-ai-experiments/) (2025-12-03)
 - [EY and NVIDIA to help companies test and deploy physical AI](https://www.artificialintelligence-news.com/news/ey-and-nvidia-to-help-companies-test-and-deploy-physical-ai/) (2025-12-03)
 - [Anthropic just revealed how AI-orchestrated cyberattacks actually work—Here’s what enterprises need to know](https://www.artificialintelligence-news.com/news/ai-orchestrated-cyberattacks-anthropic-discovery/) (2025-12-03)
-- [Amidst the Ongoing AI Infrastructure Crunch, Singularity Compute Launches Swedish GPU Cluster](https://www.artificialintelligence-news.com/news/amidst-the-ongoing-ai-infrastructure-crunch-singularity-compute-launches-swedish-gpu-cluster/) (2025-12-03)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Best Data Scientists are Always Learning](https://towardsdatascience.com/part-1-the-best-data-scientists-are-always-learning/) (2025-12-04)
 - [The Architecture Behind Web Search in AI Chatbots](https://towardsdatascience.com/the-architecture-behind-web-search-in-ai-chatbots-2/) (2025-12-04)
 - [Overcoming the Hidden Performance Traps of Variable-Shaped Tensors: Efficient Data Sampling in PyTorch](https://towardsdatascience.com/overcoming-the-hidden-performance-traps-of-variable-shaped-tensors-efficient-data-sampling-in-pytorch/) (2025-12-03)
 - [The Machine Learning “Advent Calendar” Day 3: GNB, LDA and QDA in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-3-gnb-lda-and-qda-in-excel/) (2025-12-03)
 - [How to Turn Your LLM Prototype into a Production-Ready System](https://towardsdatascience.com/how-to-turn-your-llm-prototype-into-a-production-ready-system/) (2025-12-03)
-- [Multi-Agent Arena: Insights from London Great Agent Hack 2025](https://towardsdatascience.com/multi-agent-arena-london-great-agent-hack-2025/) (2025-12-03)
 
 </details>
 
