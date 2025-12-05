@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Walmart-backed PhonePe winds down its Pincode app in yet another e-commerce step back](https://techcrunch.com/2025/12/05/walmart-backed-phonepe-winds-down-its-pincode-app-in-yet-another-e-commerce-step-back/) (2025-12-05)
 - [Chicago Tribune sues Perplexity](https://techcrunch.com/2025/12/04/chicago-tribune-sues-perplexity/) (2025-12-05)
 - [All the biggest news from AWS’ big tech show re:Invent 2025](https://techcrunch.com/2025/12/04/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/) (2025-12-05)
 - [Feds ask Waymo about robotaxis repeatedly passing school buses in Austin](https://techcrunch.com/2025/12/04/feds-ask-waymo-about-robotaxis-repeatedly-passing-school-buses-in-austin/) (2025-12-04)
 - [Micro1, a Scale AI competitor, touts crossing $100M ARR](https://techcrunch.com/2025/12/04/micro1-a-scale-ai-competitor-touts-crossing-100m-arr/) (2025-12-04)
-- [Apple’s executive shake-up continues with departures of general counsel and policy head](https://techcrunch.com/2025/12/04/apples-executive-shakeup-continues-with-departures-of-general-counsel-and-policy-head/) (2025-12-04)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [State Department to deny visas to fact checkers and others, citing 'censorship'](https://www.npr.org/2025/12/04/nx-s1-5633444/trump-content-moderation-visas-censorship) (2025-12-05)
-- [Netflix in exclusive talks to buy HBO](https://www.cnn.com/2025/12/04/media/netflix-paramount-wbd-bidding-war-warner-bros-discovery) (2025-12-05)
-- [Rats Snatching Bats Out of the Air and Eating Them–Researchers Got It on Video](https://www.smithsonianmag.com/smart-news/rats-are-snatching-bats-out-of-the-air-and-eating-them-and-researchers-got-it-on-video-180987610/) (2025-12-05)
-- [Fast trigram based code search](https://github.com/sourcegraph/zoekt) (2025-12-05)
-- [Blogging in 2025: Screaming into the Void](https://askmike.org/articles/blogging-in-2025-screaming-into-the-void/) (2025-12-05)
+- [Why We Can't Quit Excel](https://www.bloomberg.com/features/2025-microsoft-excel-ai-software/) (2025-12-05)
+- [The US polluters that are rewriting the EU's human rights and climate law](https://www.somo.nl/the-secretive-cabal-of-us-polluters-that-is-rewriting-the-eus-human-rights-and-climate-law/) (2025-12-05)
+- [Kenyan court declares law banning seed sharing unconstitutional](https://apnews.com/article/kenya-seed-sharing-law-ruling-ad4df5a364299b3a9f8515c0f52d5f80) (2025-12-05)
+- [Cloudflare Down Again – and DownDetector Is Also Down](https://news.ycombinator.com/item?id=46158200) (2025-12-05)
+- [Cloudflare is down](https://www.cloudflare.com/) (2025-12-05)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [EU fines X $140 million over ‘deceptive’ blue checkmarks](https://www.theverge.com/news/645154/eu-fines-x-dsa-violations-xai-elon-musk) (2025-12-05)
+- [Facebook and Instagram have a new hub to help get hijacked accounts back](https://www.theverge.com/news/838814/facebook-instagram-hijacked-accounts-hub) (2025-12-05)
+- [Microsoft finally has a better looking Run dialog for Windows 11](https://www.theverge.com/news/838798/microsoft-windows-11-run-dialog-new-ui-dark-mode) (2025-12-05)
+- [Netflix is buying Warner Bros. for $83 billion](https://www.theverge.com/news/838781/netflix-warner-bros-discover-bids-buyout) (2025-12-05)
 - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones) (2025-12-05)
-- [Apple announces even more major executive turnover](https://www.theverge.com/news/838712/apple-policy-lead-lisa-jackson-retiring) (2025-12-04)
-- [Nintendo’s Switch 2 Mario Kart bundle is on sale at Amazon again for $50 off](https://www.theverge.com/gadgets/836519/nintendo-switch-2-mario-kart-world-bundle-walmart-deal) (2025-12-04)
-- [Pentagon’s Signalgate report finds Pete Hegseth violated military policies](https://www.theverge.com/news/838582/signalgate-pentagon-oig-report-pete-hegseth) (2025-12-04)
-- [Trump invites ‘cute’ Japanese kei trucks to come to America](https://www.theverge.com/news/838563/trump-kei-truck-authorize-cute-usdot) (2025-12-04)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The ads that sell the sizzle of genetic trait discrimination](https://www.technologyreview.com/2025/12/05/1128755/selling-the-sizzle-of-trait-discrimination/) (2025-12-05)
+- [The era of AI persuasion in elections is about to begin](https://www.technologyreview.com/2025/12/05/1128837/the-era-of-ai-persuasion-in-elections-is-about-to-begin/) (2025-12-05)
 - [AI chatbots can sway voters better than political advertisements](https://www.technologyreview.com/2025/12/04/1128824/ai-chatbots-can-sway-voters-better-than-political-advertisements/) (2025-12-04)
 - [Delivering securely on data and AI strategy ](https://www.technologyreview.com/2025/12/04/1128311/delivering-securely-on-data-and-ai-strategy/) (2025-12-04)
 - [The Download: LLM confessions, and tapping into geothermal hot spots](https://www.technologyreview.com/2025/12/04/1128772/the-download-llm-confessions-and-tapping-into-geothermal-hot-spots/) (2025-12-04)
-- [How AI is uncovering hidden geothermal energy resources](https://www.technologyreview.com/2025/12/04/1128763/ai-geothermal-zanskar/) (2025-12-04)
-- [Why the grid relies on nuclear reactors in the winter](https://www.technologyreview.com/2025/12/04/1128754/nuclear-power-reliability/) (2025-12-04)
 
 </details>
 
@@ -97,22 +97,26 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Five Days, Endless Possibilities: here is the five day summary and a capstone project](https://dev.to/wanga_peterotienopa106/five-days-endless-possibilities-here-is-the-five-day-summary-and-a-capstone-project-52ia) (2025-12-05)
-- [Increasing Technical Onboarding Velocity for Your Engineering Team](https://dev.to/joojodontoh/increasing-technical-onboarding-velocity-for-your-engineering-team-1lmo) (2025-12-05)
-- [The Secret Life of Go: Goroutines and Channels](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-goroutines-and-channels-2hib) (2025-12-05)
-- [Revolutionizing Business: Enterprise Software Solutions in 2025](https://dev.to/itcs11/revolutionizing-business-enterprise-software-solutions-in-2025-4nf4) (2025-12-05)
-- [AWS re:Invent 2025 - Drive operational excellence for modern applications (COP327)](https://dev.to/kazuya_dev/aws-reinvent-2025-drive-operational-excellence-for-modern-applications-cop327-4j78) (2025-12-05)
+- [AWS re:Invent 2025 - Optimize for AWS with intelligent automation (AIM235)](https://dev.to/kazuya_dev/aws-reinvent-2025-optimize-for-aws-with-intelligent-automation-aim235-1edj) (2025-12-05)
+- [Implement Noise Suppression in JavaScript](https://dev.to/khushi_nakra_eb3cba0ef3b5/real-time-noise-suppression-in-javascript-2o18) (2025-12-05)
+- [✨ FSCSS Quick Tip — Using Arrays the Smart Way](https://dev.to/fscss/fscss-quick-tip-using-arrays-the-smart-way-dmi) (2025-12-05)
+- [Js in loop](https://dev.to/bharath_11/js-in-loop-14e0) (2025-12-05)
+- [AWS re:Invent 2025 - From vibe to live in minutes with Heroku AI PaaS (AIM250)](https://dev.to/kazuya_dev/aws-reinvent-2025-from-vibe-to-live-in-minutes-with-heroku-ai-paas-aim250-40n) (2025-12-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [These Python Libraries Turned My Side Projects Into Real Products](https://python.plainenglish.io/these-python-libraries-turned-my-side-projects-into-real-products-7aa63763d418?source=rss------programming-5) (2025-12-05)
-- [Why More Teams Are Dropping REST for a Faster Alternative](https://medium.com/@premchandak_11/why-more-teams-are-dropping-rest-for-a-faster-alternative-2af94523d7a4?source=rss------programming-5) (2025-12-05)
-- [Stop Learning to Code — Learn to Automate Instead](https://medium.com/write-a-catalyst/stop-learning-to-code-learn-to-automate-instead-7c7066a174c1?source=rss------programming-5) (2025-12-05)
-- [best sites to b_uy github accounts 2025](https://medium.com/@qa26j/best-sites-to-b-uy-github-accounts-2025-bdd18f590878?source=rss------programming-5) (2025-12-05)
-- [best sites to b_uy github accounts 2025](https://medium.com/@qn3oq/best-sites-to-b-uy-github-accounts-2025-8f0e3145b855?source=rss------programming-5) (2025-12-05)
+- [0905.501.9190شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@hnydh77/0905-501-9190%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-6585b314c8b2?source=rss------programming-5) (2025-12-05)
+- [0905.501.9190شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@hnydh77/0905-501-9190%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-b2e0dcc2f3aa?source=rss------programming-5) (2025-12-05)
+- [0905.501.9190شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@a71780087/0905-501-9190%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-f62bb4599479?source=rss------programming-5) (2025-12-05)
+- [From Ad-Hoc to Systematic: What I Learned Applying Engineering Discipline to AI Collaboration](https://medium.com/@simonwangu/from-ad-hoc-to-systematic-what-i-learned-applying-engineering-discipline-to-ai-collaboration-92b9e36f5327?source=rss------programming-5) (2025-12-05)
+- [0905.501.9190شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@a71780087/0905-501-9190%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-faa369e3b269?source=rss------programming-5) (2025-12-05)
 
 </details>
 
@@ -306,11 +310,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Java Annotated Monthly – December 2025](https://blog.jetbrains.com/idea/2025/12/java-annotated-monthly-december-2025/) (2025-12-05)
 - [The Deprecation of K1 Mode](https://blog.jetbrains.com/idea/2025/12/the-deprecation-of-k1-mode/) (2025-12-04)
 - [Ask Us Anything During JetBrains AMA Week](https://blog.jetbrains.com/blog/2025/12/03/ask-us-anything-during-jetbrains-ama-week/) (2025-12-03)
 - [5 Stories Of Developers Using JetBrains Rider to Create, Collaborate, and Have Fun](https://blog.jetbrains.com/dotnet/2025/12/03/5-stories-of-developers-using-jetbrains-rider/) (2025-12-03)
 - [Grok Models Come to the AI Chat in JetBrains IDEs](https://blog.jetbrains.com/ai/2025/12/grok-models-come-to-the-ai-chat-in-jetbrains-ides/) (2025-12-02)
-- [DataGrip 2025.3: Migration From Consoles to Query Files, Connection to Cloud Providers, Introspection Levels for Amazon Redshift, and More!](https://blog.jetbrains.com/datagrip/2025/12/02/datagrip-2025-3-migration-from-consoles-to-query-files-connection-to-cloud-providers-introspection-levels-for-amazon-redshift-and-more/) (2025-12-02)
 
 </details>
 
@@ -367,6 +371,11 @@ Build a Twilio + Zoho CRM SMS Integration
 https://www.twilio.com/en-us/blog/developers/tutorials/build-twilio-zoho-crm-sms-integration
 ) (2025-12-03)
 - [
+Build a SendGrid MCP Server for AI Email Workflows
+](
+https://www.twilio.com/en-us/blog/developers/community/build-a-sendgrid-mcp-server-for-ai-email-workflows
+) (2025-12-03)
+- [
 How to Authenticate with Magic Links in Go
 ](
 https://www.twilio.com/en-us/blog/developers/community/authenticate-magic-links-go
@@ -381,11 +390,6 @@ https://www.twilio.com/en-us/blog/insights/scaling-ai-securely
 ](
 https://www.twilio.com/en-us/blog/insights/why-email-marketing-is-important
 ) (2025-12-01)
-- [
-The Ins and Outs of DMARC Monitoring in 2026
-](
-https://www.twilio.com/en-us/blog/insights/dmarc-monitoring
-) (2025-11-28)
 
 </details>
 
@@ -453,17 +457,6 @@ https://www.twilio.com/en-us/blog/insights/dmarc-monitoring
 - [Announcing the GraphQL AI Working Group](https://graphql.org/blog/2025-10-14-announcing-ai-wg) (2025-10-14)
 - [Introducing the New GraphQL.org: A Decade of Evolution, Redesigned](https://graphql.org/blog/2025-09-08-announcing-graphqldotorg) (2025-09-08)
 - [Announcing the September 2025 Edition of the GraphQL Specification](https://graphql.org/blog/2025-09-08-september-edition) (2025-09-08)
-
-</details>
-
-<details>
-<summary>🚀 Apollo GraphQL</summary>
-
-- [Apollo Strengthens Its San Francisco Presence for the Agentic Era](https://www.apollographql.com/blog/apollo-strengthens-its-san-francisco-presence-for-the-agentic-era) (2025-12-02)
-- [How Delivery Hero Accelerates UX Experiments with Server-Driven UI and Apollo](https://www.apollographql.com/blog/how-delivery-hero-accelerates-ux-experiments-with-server-driven-ui-and-apollo) (2025-12-01)
-- [How Block Scaled Graph Adoption with Apollo and AI](https://www.apollographql.com/blog/how-block-scaled-graph-adoption-with-apollo-and-ai) (2025-11-24)
-- [How Wiz Is Redefining Partner Velocity with Apollo MCP](https://www.apollographql.com/blog/how-wiz-is-redefining-partner-velocity-with-apollo-mcp) (2025-11-20)
-- [When Every Second Matters: How Athenahealth Protects Patients with Apollo GraphQL](https://www.apollographql.com/blog/when-every-second-matters-how-athenahealth-protects-patients-with-apollo-graphql) (2025-11-17)
 
 </details>
 
@@ -558,33 +551,33 @@ https://www.twilio.com/en-us/blog/insights/dmarc-monitoring
 <details>
 <summary>🤖 AI News</summary>
 
+- [Aluminium OS is the AI-powered successor to ChromeOS](https://www.artificialintelligence-news.com/news/aluminium-os-is-the-next-iteration-for-the-chromebook-range-chromeos-chrome-os/) (2025-12-05)
 - [AWS re:Invent 2025: Frontier AI agents replace chatbots](https://www.artificialintelligence-news.com/news/aws-reinvent-2025-frontier-ai-agents-replace-chatbots/) (2025-12-04)
+- [Decart uses AWS Trainium3 for real-time video generation](https://www.artificialintelligence-news.com/news/decart-uses-aws-trainium3-for-real-time-video-generation/) (2025-12-04)
 - [AI memory hunger forces Micron’s consumer exodus: A turning point in semiconductor economics](https://www.artificialintelligence-news.com/news/ai-memory-hunger-micron-consumer-exit/) (2025-12-04)
 - [AI in manufacturing set to unleash new era of profit](https://www.artificialintelligence-news.com/news/ai-in-manufacturing-set-to-unleash-new-era-of-profit/) (2025-12-03)
-- [HTB AI Range offers experiments in cyber-resilience training](https://www.artificialintelligence-news.com/news/htb-ai-range-testing-ai-security-in-sandbox-agentic-ai-experiments/) (2025-12-03)
-- [EY and NVIDIA to help companies test and deploy physical AI](https://www.artificialintelligence-news.com/news/ey-and-nvidia-to-help-companies-test-and-deploy-physical-ai/) (2025-12-03)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [On the Challenge of Converting TensorFlow Models to PyTorch](https://towardsdatascience.com/on-the-challenge-of-converting-tensorflow-models-to-pytorch/) (2025-12-05)
 - [Do Labels Make AI Blind? Self-Supervision Solves the Age-Old Binding Problem](https://towardsdatascience.com/emergent-object-binding-from-self-supervised-not-supervised-learning/) (2025-12-04)
 - [The Machine Learning “Advent Calendar” Day 4: k-Means in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-4-k-means-in-excel/) (2025-12-04)
 - [Build and Deploy Your First Supply Chain App in 20 Minutes](https://towardsdatascience.com/build-and-deploy-your-first-supply-chain-app-in-20-minutes/) (2025-12-04)
 - [Bootstrap a Data Lakehouse in an Afternoon](https://towardsdatascience.com/bootstrap-a-data-lakehouse-in-an-afternoon/) (2025-12-04)
-- [The Best Data Scientists are Always Learning](https://towardsdatascience.com/part-1-the-best-data-scientists-are-always-learning/) (2025-12-04)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Vibe Coding at its Best: 5 Super-Cool Gemini 3 Projects That Will Blow Your Mind](https://www.analyticsvidhya.com/blog/2025/12/gemini-3-vibe-coding-projects/) (2025-12-05)
+- [25+ AI and Data Science Solved Projects [2025 Wrap-up]](https://www.analyticsvidhya.com/blog/2025/12/ai-and-data-science-solved-projects/) (2025-12-05)
 - [Mistral Large 3: First Look and Testing](https://www.analyticsvidhya.com/blog/2025/12/mistral-large-3/) (2025-12-04)
 - [LLM Council: Andrej Karpathy’s AI for Reliable Answers](https://www.analyticsvidhya.com/blog/2025/12/llm-council-by-andrej-karpathy/) (2025-12-04)
 - [Using CrewAI Planning to Build a Structured Multi-Agent Workflow](https://www.analyticsvidhya.com/blog/2025/12/crewai-planning/) (2025-12-03)
-- [Create Infographics and PPTs in Seconds with NotebookLM](https://www.analyticsvidhya.com/blog/2025/12/infographics-and-ppts-with-notebooklm/) (2025-12-03)
-- [Nano Banana Pro vs Grok Imagine for Image Generation and Editing](https://www.analyticsvidhya.com/blog/2025/12/nano-banana-pro-vs-grok-imagine-image-generation-and-editing/) (2025-12-02)
 
 </details>
 
