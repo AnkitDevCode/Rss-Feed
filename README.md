@@ -20,66 +20,66 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Sanctioned spyware maker Intellexa had direct access to government espionage victims, researchers say](https://techcrunch.com/2025/12/04/sanctioned-spyware-maker-intellexa-had-direct-access-to-government-espionage-victims-researchers-say/) (2025-12-04)
-- [Amazon’s new Kindle Scribe and Kindle Scribe Colorsoft launch on December 10](https://techcrunch.com/2025/12/04/amazon-unveils-new-kindle-scribe-and-kindle-scribe-colorsoft/) (2025-12-04)
-- [California’s ban on self-driving trucks could soon be over](https://techcrunch.com/2025/12/04/californias-ban-on-self-driving-trucks-could-soon-be-over/) (2025-12-04)
-- [Why Day One Ventures’ Masha Bucher thinks VCs and storytelling go hand-in-hand](https://techcrunch.com/2025/12/04/why-day-one-ventures-masha-bucher-thinks-vcs-and-storytelling-go-hand-in-hand/) (2025-12-04)
-- [Meta centralizes Facebook and Instagram support, tests AI support assistant](https://techcrunch.com/2025/12/04/meta-centralizes-facebook-and-instagram-support-tests-ai-support-assistant/) (2025-12-04)
+- [All the biggest news from AWS’ big tech show re:Invent 2025](https://techcrunch.com/2025/12/04/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/) (2025-12-05)
+- [Feds ask Waymo about robotaxis repeatedly passing school buses in Austin](https://techcrunch.com/2025/12/04/feds-ask-waymo-about-robotaxis-repeatedly-passing-school-buses-in-austin/) (2025-12-04)
+- [Micro1, a Scale AI competitor, touts crossing $100M ARR](https://techcrunch.com/2025/12/04/micro1-a-scale-ai-competitor-touts-crossing-100m-arr/) (2025-12-04)
+- [Apple’s executive shake-up continues with departures of general counsel and policy head](https://techcrunch.com/2025/12/04/apples-executive-shakeup-continues-with-departures-of-general-counsel-and-policy-head/) (2025-12-04)
+- [Anthropic CEO weighs in on AI bubble talk and risk-taking among competitors](https://techcrunch.com/2025/12/04/anthropic-ceo-weighs-in-on-ai-bubble-talk-and-risk-taking-among-competitors/) (2025-12-04)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Converge (YC S23) is hiring a martech expert in NYC](https://www.runconverge.com/careers/technical-customer-success-manager) (2025-12-04)
-- [Multivox: Volumetric Display](https://github.com/AncientJames/multivox) (2025-12-04)
-- [The End of the Train-Test Split](https://folio.benguzovsky.com/train-test) (2025-12-04)
-- [Launch HN: Browser Buddy (YC W24) – A recommendation system for Internet writing](https://www.browserbuddy.com/) (2025-12-04)
-- [Autism should not be treated as a single condition](https://www.economist.com/science-and-technology/2025/12/03/why-autism-should-not-be-treated-as-a-single-condition) (2025-12-04)
+- [The Ofcom Files, Part 4: Ofcom Rides Again](https://prestonbyrne.com/2025/12/04/the-ofcom-files-part-4-ofcom-rides-again/) (2025-12-05)
+- [AV1 – Now Powering 30% of Netflix Streaming](https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80) (2025-12-05)
+- [Trick users and bypass warnings – Modern SVG Clickjacking attacks](https://lyra.horse/blog/2025/12/svg-clickjacking/) (2025-12-05)
+- [We gave 5 LLMs $100K to trade stocks for 8 months](https://www.aitradearena.com/research/we-ran-llms-for-8-months) (2025-12-04)
+- [SMS phishers pivot to points, taxes, fake retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/) (2025-12-04)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Ray-Ban’s Meta smart glasses are even cheaper than they were on Black Friday](https://www.theverge.com/tech/838261/ray-ban-meta-smart-glasses-cyber-week-2025-deal-sale) (2025-12-04)
-- [Amazon is reportedly ready to drop its USPS deal if negotiations fall through](https://www.theverge.com/news/838255/amazon-usps-delivery-contract-2026) (2025-12-04)
-- [Amazon’s new color Kindle Scribe launches on December 10th](https://www.theverge.com/news/838282/amazon-kindle-scribe-colorsoft-release-date) (2025-12-04)
-- [Spotify wants to be the next big video service](https://www.theverge.com/column/837829/spotify-video-service) (2025-12-04)
-- [AI chatbots can be wooed into crimes with poetry](https://www.theverge.com/report/838167/ai-chatbots-can-be-wooed-into-crimes-with-poetry) (2025-12-04)
+- [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones) (2025-12-05)
+- [Apple announces even more major executive turnover](https://www.theverge.com/news/838712/apple-policy-lead-lisa-jackson-retiring) (2025-12-04)
+- [Nintendo’s Switch 2 Mario Kart bundle is on sale at Amazon again for $50 off](https://www.theverge.com/gadgets/836519/nintendo-switch-2-mario-kart-world-bundle-walmart-deal) (2025-12-04)
+- [Pentagon’s Signalgate report finds Pete Hegseth violated military policies](https://www.theverge.com/news/838582/signalgate-pentagon-oig-report-pete-hegseth) (2025-12-04)
+- [Trump invites ‘cute’ Japanese kei trucks to come to America](https://www.theverge.com/news/838563/trump-kei-truck-authorize-cute-usdot) (2025-12-04)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [In 1995, a Netscape employee wrote a hack in 10 days that now runs the Internet](https://arstechnica.com/gadgets/2025/12/in-1995-a-netscape-employee-wrote-a-hack-in-10-days-that-now-runs-the-internet/) (2025-12-04)
-- [Welcome to “necroprinting”—3D printer nozzle made from mosquito’s proboscis](https://arstechnica.com/science/2025/12/welcome-to-necroprinting-3d-printer-nozzle-made-from-mosquitos-proboscis/) (2025-12-04)
-- [Trump wants tiny Japanese-style cars for US even as he cuts mpg goals](https://arstechnica.com/cars/2025/12/trump-wants-tiny-japanese-style-cars-for-us-even-as-he-cuts-mpg-goals/) (2025-12-04)
-- [Lego announces NASA Artemis SLS rocket set to lift off (literally) in 2026](https://arstechnica.com/space/2025/12/lego-announces-nasa-artemis-sls-rocket-set-to-lift-off-literally-in-2026/) (2025-12-04)
-- [The NPU in your phone keeps improving—why isn’t that making AI better?](https://arstechnica.com/gadgets/2025/12/the-npu-in-your-phone-keeps-improving-why-isnt-that-making-ai-better/) (2025-12-04)
+- [Congress warned that NASA’s current plan for Artemis “cannot work”](https://arstechnica.com/space/2025/12/congress-told-there-needs-to-be-consequences-for-nasa-delays-amid-chinas-rise/) (2025-12-04)
+- [In comedy of errors, men accused of wiping gov databases turned to an AI tool](https://arstechnica.com/information-technology/2025/12/previously-convicted-contractors-wiped-gov-databases-after-being-fired-feds-say/) (2025-12-04)
+- [Engineer proves that Kohler’s smart toilet cameras aren’t very private](https://arstechnica.com/gadgets/2025/12/despite-accessing-user-data-kohler-still-says-its-smart-toilet-cameras-use-e2ee/) (2025-12-04)
+- [CDC vaccine panel realizes again it has no idea what it’s doing, delays big vote](https://arstechnica.com/health/2025/12/cdc-vaccine-panel-realizes-again-it-has-no-idea-what-its-doing-delays-big-vote/) (2025-12-04)
+- [Researchers find what makes AI chatbots politically persuasive](https://arstechnica.com/science/2025/12/researchers-find-what-makes-ai-chatbots-politically-persuasive/) (2025-12-04)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [AI chatbots can sway voters better than political advertisements](https://www.technologyreview.com/2025/12/04/1128824/ai-chatbots-can-sway-voters-better-than-political-advertisements/) (2025-12-04)
 - [Delivering securely on data and AI strategy ](https://www.technologyreview.com/2025/12/04/1128311/delivering-securely-on-data-and-ai-strategy/) (2025-12-04)
 - [The Download: LLM confessions, and tapping into geothermal hot spots](https://www.technologyreview.com/2025/12/04/1128772/the-download-llm-confessions-and-tapping-into-geothermal-hot-spots/) (2025-12-04)
 - [How AI is uncovering hidden geothermal energy resources](https://www.technologyreview.com/2025/12/04/1128763/ai-geothermal-zanskar/) (2025-12-04)
 - [Why the grid relies on nuclear reactors in the winter](https://www.technologyreview.com/2025/12/04/1128754/nuclear-power-reliability/) (2025-12-04)
-- [OpenAI has trained its LLM to confess to bad behavior](https://www.technologyreview.com/2025/12/03/1128740/openai-has-trained-its-llm-to-confess-to-bad-behavior/) (2025-12-03)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [How to use GitHub Copilot Spaces to debug issues faster](https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-spaces-to-debug-issues-faster/) (2025-12-04)
 - [Your stack, your rules: Introducing custom agents in GitHub Copilot for observability, IaC, and security](https://github.blog/news-insights/product-news/your-stack-your-rules-introducing-custom-agents-in-github-copilot-for-observability-iac-and-security/) (2025-12-03)
 - [“The local-first rebellion”: How Home Assistant became the most important project in your house](https://github.blog/open-source/maintainers/the-local-first-rebellion-how-home-assistant-became-the-most-important-project-in-your-house/) (2025-12-02)
 - [How to orchestrate agents using mission control](https://github.blog/ai-and-ml/github-copilot/how-to-orchestrate-agents-using-mission-control/) (2025-12-01)
 - [The ultimate gift guide for the developer in your life](https://github.blog/news-insights/company-news/the-ultimate-gift-guide-for-the-developer-in-your-life/) (2025-11-28)
-- [Why developers still flock to Python: Guido van Rossum on readability, AI, and the future of programming](https://github.blog/developer-skills/programming-languages-and-frameworks/why-developers-still-flock-to-python-guido-van-rossum-on-readability-ai-and-the-future-of-programming/) (2025-11-25)
 
 </details>
 
@@ -97,22 +97,27 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building an AI Fitness App in 10 Days: How Kiro Changed My Development Workflow](https://dev.to/tharun_kumar_ad80f494347f/building-an-ai-fitness-app-in-10-days-how-kiro-changed-my-development-workflow-31oi) (2025-12-04)
-- [**Cumplimiento Normativo con Responsabilidad: Evalúe con Cui](https://dev.to/drcarlosruizviquez/cumplimiento-normativo-con-responsabilidad-evalue-con-cui-eno) (2025-12-04)
-- [Day 10 : Conditionals, Dynamic Blocks & Splat Expressions](https://dev.to/alafiz/day-10-conditionals-dynamic-blocks-splat-expressions-41ib) (2025-12-04)
-- [I Built My First AI Agent in 30 Minutes (No Code Required) - Here's How](https://dev.to/blogai/i-built-my-first-ai-agent-in-30-minutes-no-code-required-heres-how-3lea) (2025-12-04)
-- [Separating Class Responsibilities with Clprolf](https://dev.to/charles_koffler_bcabc582b/separating-class-responsibilities-with-clprolf-7f) (2025-12-04)
+- [Extend shadcn-svelte with more-shadcn-svelte Components](https://dev.to/jqueryscript/extend-shadcn-svelte-with-more-shadcn-svelte-components-3998) (2025-12-05)
+- [Agentic Development Principles - Part 1](https://dev.to/ttoss/agentic-development-principles-part-1-2olg) (2025-12-05)
+- [Building a Super Bowl Tech Startup in 48 Hours: How a Non-Technical Latina Founder Hired 2 AI Co-Founders (Kiro & Gemini)](https://dev.to/marilynalvarado/building-a-super-bowl-tech-startup-in-48-hours-how-a-non-technical-latina-founder-hired-2-ai-5e8m) (2025-12-05)
+- [LocalTunnel Server Setup Documentation](https://dev.to/durrello/localtunnel-server-setup-documentation-370k) (2025-12-05)
+- [Apple App Store Keyword Rules: The Hidden Rule of Precise User Touch](https://dev.to/asorankn/apple-app-store-keyword-rules-the-hidden-rule-of-precise-user-touch-14d8) (2025-12-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Silent Killer of Backend Performance: N+1 Queries You Didn’t Notice](https://medium.com/@optimzationking2/the-silent-killer-of-backend-performance-n-1-queries-you-didnt-notice-822020982eab?source=rss------programming-5) (2025-12-04)
-- [Apple Releases CLaRa: A New Approach to RAG Compression](https://pub.towardsai.net/apple-releases-clara-a-new-approach-to-rag-compression-c9d074b5c999?source=rss------programming-5) (2025-12-04)
-- [ Blazing Fast Caching Service in ASP.NET](https://medium.com/codetodeploy/blazing-fast-caching-service-in-asp-net-781def21f47e?source=rss------programming-5) (2025-12-04)
-- [I Cut My API’s Pagination Time from 200 ms to 12 ms — Here’s the Trick](https://medium.com/@maged_/i-cut-my-apis-pagination-time-from-200-ms-to-12-ms-here-s-the-trick-d9dc4781b68b?source=rss------programming-5) (2025-12-04)
-- [Jasira Intelligence™ Announces Strategic Partnership *in NeuroTech. Researchers](https://medium.com/jasira-intelligence-press-room/jasira-intelligence-announces-strategic-partnership-in-neurotech-researchers-ec1469323795?source=rss------programming-5) (2025-12-04)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mnvghjj10mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-bca4c1b5831a?source=rss------programming-5) (2025-12-05)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mnvghjj10mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-4d98dc6abba0?source=rss------programming-5) (2025-12-05)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mbvddsvbn1/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-3ca0568db063?source=rss------programming-5) (2025-12-05)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mbvddsvbn1/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-fcc097934e0a?source=rss------programming-5) (2025-12-05)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@mmnbhgv8jjjj/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-7fbae60b09c4?source=rss------programming-5) (2025-12-05)
 
 </details>
 
@@ -163,11 +168,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Android Studio Otter 2 Feature Drop is stable!](https://android-developers.googleblog.com/2025/12/android-studio-otter-2-feature-drop-is.html) (2025-12-04)
 - [What's new in the Jetpack Compose December '25 release](https://android-developers.googleblog.com/2025/12/whats-new-in-jetpack-compose-december.html) (2025-12-03)
 - [Android 16 QPR2 is Released](https://android-developers.googleblog.com/2025/12/android-16-qpr2-is-released.html) (2025-12-02)
 - [Explore AI on Android with Our Sample Catalog App](https://android-developers.googleblog.com/2025/12/explore-ai-on-android-with-our-sample.html) (2025-12-02)
 - [Learn about our newest Jetpack Navigation library with the Nav3 Spotlight Week](https://android-developers.googleblog.com/2025/12/learn-about-our-newest-jetpack.html) (2025-12-01)
-- [#WeArePlay: Solving the dinner dilemma - how DELISH KITCHEN empowers 13 million home cooks](https://android-developers.googleblog.com/2025/11/weareplay-solving-dinner-dilemma-how.html) (2025-11-25)
 
 </details>
 
@@ -339,11 +344,11 @@
 <details>
 <summary>💜 Heroku Blog</summary>
 
+- [PaaS + IaaS: Heroku and AWS for Cloud-Native Enterprise Agility](https://www.heroku.com/blog/paas-iaas-heroku-aws-cloud-native/) (2025-12-04)
 - [Faster Agents with Automatic Prompt Caching](https://www.heroku.com/blog/faster-agents-automatic-prompt-caching/) (2025-12-04)
 - [Unleash the Power of IaC on Heroku’s Next Generation: Terraform for Fir is Here!](https://www.heroku.com/blog/heroku-terraform-for-fir/) (2025-11-24)
 - [Incident Review: Intermittent Disruption and Degradation of Heroku Services on October 20, 2025](https://www.heroku.com/blog/incident-review-intermittent-disruption-of-services-on-october-2025/) (2025-11-14)
 - [Heroku Support for .NET 10 LTS: What Developers Need to Know](https://www.heroku.com/blog/support-for-dotnet-10-lts-what-developers-need-know/) (2025-11-11)
-- [Upgrade to Puma 7 and Unlock the Power of Fair Scheduled Keep-alive](https://www.heroku.com/blog/upgrade-to-puma-7-and-unlock-the-power-of-fair-scheduled-keep-alive/) (2025-11-05)
 
 </details>
 
@@ -367,6 +372,11 @@ Build a Twilio + Zoho CRM SMS Integration
 https://www.twilio.com/en-us/blog/developers/tutorials/build-twilio-zoho-crm-sms-integration
 ) (2025-12-03)
 - [
+Build a SendGrid MCP Server for AI Email Workflows
+](
+https://www.twilio.com/en-us/blog/developers/community/build-a-sendgrid-mcp-server-for-ai-email-workflows
+) (2025-12-03)
+- [
 How to Authenticate with Magic Links in Go
 ](
 https://www.twilio.com/en-us/blog/developers/community/authenticate-magic-links-go
@@ -381,11 +391,6 @@ https://www.twilio.com/en-us/blog/insights/scaling-ai-securely
 ](
 https://www.twilio.com/en-us/blog/insights/why-email-marketing-is-important
 ) (2025-12-01)
-- [
-The Ins and Outs of DMARC Monitoring in 2026
-](
-https://www.twilio.com/en-us/blog/insights/dmarc-monitoring
-) (2025-11-28)
 
 </details>
 
@@ -503,11 +508,11 @@ https://www.twilio.com/en-us/blog/insights/dmarc-monitoring
 <details>
 <summary>💬 Slack API</summary>
 
+- [Five proven employee engagement strategies to motivate your team](https://slack.com/blog/collaboration/five-proven-employee-engagement-strategies-to-motivate-your-team) (2025-12-01)
+- [Six Easy Tips for Workflow Mapping With Examples](https://slack.com/blog/productivity/workflow-mapping) (2025-12-01)
+- [How To Manage Multiple Projects and Operate Like a Pro](https://slack.com/blog/productivity/how-to-manage-multiple-projects) (2025-12-01)
 - [How to Improve Organizational Communication at Work](https://slack.com/blog/collaboration/how-to-improve-organizational-communication-at-work) (2025-11-24)
 - [Applying Virtual Meeting Etiquette Rules: 12 Do’s and Don’ts](https://slack.com/blog/collaboration/applying-virtual-meeting-etiquette-rules-12-dos-and-donts) (2025-11-24)
-- [How Caraway Built a Nine-Figure Business In Slack](https://slack.com/blog/productivity/caraway-grows-with-slack) (2025-11-24)
-- [Slack for iOS 26: A Simpler, More Productive Way to Work from Anywhere](https://slack.com/blog/news/redesigning-slack-ios26) (2025-11-18)
-- [Eight Internal Communications Best Practices You Should Know](https://slack.com/blog/collaboration/internal-communications-best-practices) (2025-11-17)
 
 </details>
 
@@ -580,11 +585,11 @@ https://www.twilio.com/en-us/blog/insights/dmarc-monitoring
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Mistral Large 3: First Look and Testing](https://www.analyticsvidhya.com/blog/2025/12/mistral-large-3/) (2025-12-04)
 - [LLM Council: Andrej Karpathy’s AI for Reliable Answers](https://www.analyticsvidhya.com/blog/2025/12/llm-council-by-andrej-karpathy/) (2025-12-04)
 - [Using CrewAI Planning to Build a Structured Multi-Agent Workflow](https://www.analyticsvidhya.com/blog/2025/12/crewai-planning/) (2025-12-03)
 - [Create Infographics and PPTs in Seconds with NotebookLM](https://www.analyticsvidhya.com/blog/2025/12/infographics-and-ppts-with-notebooklm/) (2025-12-03)
 - [Nano Banana Pro vs Grok Imagine for Image Generation and Editing](https://www.analyticsvidhya.com/blog/2025/12/nano-banana-pro-vs-grok-imagine-image-generation-and-editing/) (2025-12-02)
-- [Is DeepSeek’s V3.2 the Most Powerful Open-source LLM?](https://www.analyticsvidhya.com/blog/2025/12/is-deepseeks-v3-2-the-most-powerful-open-source-llm/) (2025-12-02)
 
 </details>
 
@@ -602,11 +607,11 @@ https://www.twilio.com/en-us/blog/insights/dmarc-monitoring
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Prompt Engineering for Time Series Analysis](https://machinelearningmastery.com/prompt-engineering-for-time-series-analysis/) (2025-12-04)
 - [The Complete Guide to Using Pydantic for Validating LLM Outputs](https://machinelearningmastery.com/the-complete-guide-to-using-pydantic-for-validating-llm-outputs/) (2025-12-03)
 - [The Roadmap for Mastering Agentic AI in 2026](https://machinelearningmastery.com/the-roadmap-for-mastering-agentic-ai-in-2026/) (2025-12-02)
 - [Prompt Compression for LLM Generation Optimization and Cost Reduction](https://machinelearningmastery.com/prompt-compression-for-llm-generation-optimization-and-cost-reduction/) (2025-12-01)
 - [How to Speed-Up Training of Language Models](https://machinelearningmastery.com/how-to-speed-up-training-of-language-models/) (2025-11-30)
-- [Fine-Tuning a BERT Model](https://machinelearningmastery.com/fine-tuning-a-bert-model/) (2025-11-28)
 
 </details>
 
