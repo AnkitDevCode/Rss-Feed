@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [AWS re:Invent was an all-in pitch for AI. Customers might not be ready.](https://techcrunch.com/2025/12/05/aws-reinvent-was-an-all-in-pitch-for-ai-customers-might-not-be-ready/) (2025-12-05)
-- [eSIM adoption is on the rise thanks to travel and device compatibility](https://techcrunch.com/2025/12/05/esim-adoption-is-on-the-rise-thanks-to-travel-and-device-compatibility/) (2025-12-05)
-- [New ‘KnoWay’ robotaxis cause chaos in upcoming Grand Theft Auto Online DLC](https://techcrunch.com/2025/12/05/new-knoway-robotaxis-cause-chaos-in-upcoming-grand-theft-auto-online-dlc/) (2025-12-05)
-- [New streaming channel launches to give viewers a peek into city council meetings](https://techcrunch.com/2025/12/05/new-streaming-channel-launches-to-give-viewers-a-peek-into-city-council-meetings/) (2025-12-05)
-- [The New York Times is suing Perplexity for copyright infringement](https://techcrunch.com/2025/12/05/the-new-york-times-is-suing-perplexity-for-copyright-infringement/) (2025-12-05)
+- [Digital artist Beeple put his face on a $100K robot dog next to Elon Musk and Picasso – it sold first](https://techcrunch.com/2025/12/05/digital-artist-beeple-put-his-face-on-a-100k-robot-dog-next-to-elon-musk-and-picasso-it-sold-first/) (2025-12-06)
+- [Ex-Googler’s Yoodli triples valuation to $300M+ with AI built to assist, not replace, people](https://techcrunch.com/2025/12/05/ex-googlers-yoodli-triples-valuation-to-300m-with-ai-built-to-assist-not-replace-people/) (2025-12-05)
+- [Sources: AI synthetic research startup Aaru raised a Series A at a $1B ‘headline’ valuation](https://techcrunch.com/2025/12/05/ai-synthetic-research-startup-aaru-raised-a-series-a-at-a-1b-headline-valuation/) (2025-12-05)
+- [Waymo to issue software recall over how robotaxis behave around school buses](https://techcrunch.com/2025/12/05/waymo-to-issue-software-recall-over-how-robotaxis-behave-around-school-buses/) (2025-12-05)
+- [AWS needs you to believe in AI agents](https://techcrunch.com/video/aws-needs-you-to-believe-in-ai-agents/) (2025-12-05)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Shingles vaccination prevented or delayed dementia](https://www.cell.com/cell/fulltext/S0092-8674(25)01256-5) (2025-12-05)
-- [The AI Backlash Is Here: Why Public Patience with Tech Giants Is Running Out](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425) (2025-12-05)
-- [Onlook (YC W25) the Cursor for Designers Is Hiring a Founding Fullstack Engineer](https://news.ycombinator.com/item?id=46163977) (2025-12-05)
-- [Jony Ive's OpenAI Device Barred from Using 'Io' Name](https://www.macrumors.com/2025/12/05/openai-device-barred-from-io-name/) (2025-12-05)
-- [Synadia and TigerBeetle Pledge $512,000 to the Zig Software Foundation](https://tigerbeetle.com/blog/2025-10-25-synadia-and-tigerbeetle-pledge-512k-to-the-zig-software-foundation/) (2025-12-05)
+- [Sam Altman's Dirty DRAM Deal](https://www.mooreslawisdead.com/post/sam-altman-s-dirty-dram-deal) (2025-12-06)
+- [Google 'Looking into' Gmail Hack Locking Users Out with No Recovery](https://www.forbes.com/sites/daveywinder/2025/12/05/google-looking-into-gmail-hack-locking-users-out-with-no-recovery/) (2025-12-05)
+- [Adenosine on the common path of rapid antidepressant action: The coffee paradox](https://genomicpress.kglmeridian.com/view/journals/brainmed/aop/article-10.61373-bm025c.0134/article-10.61373-bm025c.0134.xml) (2025-12-05)
+- [Frank Gehry has died](https://www.bbc.co.uk/news/articles/c5y2p22z9gno) (2025-12-05)
+- [A $20 drug in Europe requires a prescription and $800 in the U.S.](https://www.statnews.com/2025/10/31/why-miebo-costs-40-times-more-than-its-european-version/) (2025-12-05)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Netflix is buying Warner Bros: All of the latest updates](https://www.theverge.com/news/839007/netflix-warner-acquisition) (2025-12-05)
-- [OpenAI’s GPT-5.2 ‘code red’ response to Google is coming next week](https://www.theverge.com/report/838857/openai-gpt-5-2-release-date-code-red-google-response) (2025-12-05)
-- [Wikipedia is getting in on the yearly wrapped game](https://www.theverge.com/news/838989/wikipedia-year-in-review-2025-wrapped) (2025-12-05)
-- [The best Christmas gifts we love under $50](https://www.theverge.com/gadgets/802969/best-gifts-under-50-2025) (2025-12-05)
-- [The Apple AirPods 4 with ANC are at their lowest price](https://www.theverge.com/gadgets/838493/apple-airpods-anc-lego-deal-sale) (2025-12-05)
+- [The Verge’s 2025 holiday gift guide](https://www.theverge.com/tech/809421/holiday-gift-guide-2025) (2025-12-06)
+- [Welcome to the big leagues, Netflix](https://www.theverge.com/entertainment/839480/netflix-warner-bros-acquisition-hbo-theatrical-releases-layoffs) (2025-12-05)
+- [Chamberlain blocks smart home integrations with its garage door openers — again](https://www.theverge.com/tech/839294/chamberlain-myq-garage-door-opener-update-blocks-aftermarket-controllers) (2025-12-05)
+- [Star Wars’ original theatrical cut returns to theaters in 2027](https://www.theverge.com/news/839434/disney-star-wars-original-theatrical-cut-theaters-release-date) (2025-12-05)
+- [Pantone’s ‘Cloud Dancer’ color party is a recession indicator](https://www.theverge.com/design/839364/pantones-cloud-dancer-color-of-the-year-party) (2025-12-05)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Streaming service makes rare decision to lower its monthly fees](https://arstechnica.com/gadgets/2025/12/fubo-lowers-its-prices-by-up-to-15-after-losing-nbcuniversal-channels/) (2025-12-05)
+- [Netflix’s $72B WB acquisition confounds the future of movie theaters, streaming](https://arstechnica.com/gadgets/2025/12/netflixs-72b-wb-acquisition-confounds-the-future-of-movie-theaters-streaming/) (2025-12-05)
 - [Rare set of varied factors triggered Black Death](https://arstechnica.com/science/2025/12/how-volcanoes-helped-spark-the-black-death/) (2025-12-05)
 - [SteamOS vs. Windows on dedicated GPUs: It’s complicated, but Windows has an edge](https://arstechnica.com/gadgets/2025/12/steamos-vs-windows-on-dedicated-gpus-its-complicated-but-windows-has-an-edge/) (2025-12-05)
 - [Without evidence, RFK Jr.’s vaccine panel tosses hep B vaccine recommendation](https://arstechnica.com/health/2025/12/without-evidence-rfk-jr-s-vaccine-panel-tosses-heb-b-vaccine-recommendation/) (2025-12-05)
-- [Elon Musk’s X first to be fined under EU’s Digital Services Act](https://arstechnica.com/tech-policy/2025/12/elon-musks-x-first-to-be-fined-under-eus-digital-service-act/) (2025-12-05)
-- [Toyota’s new GR GT picks up where the 2000GT and Lexus LFA left off](https://arstechnica.com/cars/2025/12/toyota-busts-out-a-new-flagship-gazoo-racing-coupe-plus-gt3-version/) (2025-12-05)
 
 </details>
 
@@ -86,39 +86,35 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Treating your agents like microservices](https://stackoverflow.blog/2025/12/05/treating-your-agents-like-microservices/) (2025-12-05)
 - [Postman’s journey and unlocking the power of APIs](https://stackoverflow.blog/2025/12/04/postman-s-journey-and-unlocking-the-power-of-apis/) (2025-12-04)
 - [Introducing Stack Overflow AI Assist—a tool for the modern developer](https://stackoverflow.blog/2025/12/02/introducing-stack-overflow-ai-assist-a-tool-for-the-modern-developer/) (2025-12-02)
 - [Disrupting yourself in the age of AI](https://stackoverflow.blog/2025/12/02/disrupting-yourself-in-the-age-of-ai/) (2025-12-02)
 - [Abstraction, but for robots](https://stackoverflow.blog/2025/12/02/abstraction-but-for-robots/) (2025-12-02)
-- [What’s new at Stack Overflow: December 2025](https://stackoverflow.blog/2025/12/01/what-s-new-at-stack-overflow-december-2025/) (2025-12-01)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Lowkeygenius is the result of Kiro's genius](https://dev.to/abdurshd/lowkeygenius-is-the-result-of-kiros-genius-5dff) (2025-12-05)
-- [My Journey Through the Google & Kaggle 5-Day AI Agents Intensive Course](https://dev.to/dhanashree_pande/my-journey-through-the-google-kaggle-5-day-ai-agents-intensive-course-5fp5) (2025-12-05)
-- [LLMs don't need memory? Wrong. Without long-term context, th](https://dev.to/nullure_ef11832f4ce3b466a/llms-dont-need-memory-wrong-without-long-term-context-th-4ehn) (2025-12-05)
-- [Cloud para frontend  – o guia que você queria antes de apertar o botão de deploy](https://dev.to/alissongoulartt/cloud-para-frontend-o-guia-que-voce-queria-antes-de-apertar-o-botao-de-deploy-o86) (2025-12-05)
-- [Ransomware 2025: What’s New and How to Stay Protected](https://dev.to/heintingla/ransomware-2025-whats-new-and-how-to-stay-protected-101a) (2025-12-05)
+- [AWS re:Invent 2025 - AWS Trn3 UltraServers: Power next-generation enterprise AI performance(AIM3335)](https://dev.to/kazuya_dev/aws-reinvent-2025-aws-trn3-ultraservers-power-next-generation-enterprise-ai-performanceaim3335-1jp3) (2025-12-06)
+- [Blender Addon Development Needs More DevOps](https://dev.to/unclepomedev/blender-addon-development-needs-more-devops-5c1e) (2025-12-06)
+- [How Excel Enhances Financial Analysis for Business Growth](https://dev.to/benita_oge/how-excel-enhances-financial-analysis-for-business-growth-1i43) (2025-12-06)
+- [AWS re:Invent 2025 - Improve agent quality in production with Bedrock AgentCore Evaluations(AIM3348)](https://dev.to/kazuya_dev/aws-reinvent-2025-improve-agent-quality-in-production-with-bedrock-agentcore-evaluationsaim3348-lll) (2025-12-06)
+- [Securing Infrastructure as Code with Checkov: A Practical SAST Approach](https://dev.to/renzo_fernandoloyolavil/securing-infrastructure-as-code-with-checkov-a-practical-sast-approach-58co) (2025-12-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09391321841
-شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@shr571739/09391321841-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-a629cce542a0?source=rss------programming-5) (2025-12-05)
-- [09025042560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@hrhthfthrhurutjt/09025042560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-36aeb789e311?source=rss------programming-5) (2025-12-05)
-- [09025042560شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@hrhthfthrhurutjt/09025042560%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-fa764fedf7e2?source=rss------programming-5) (2025-12-05)
-- [09391321841
-شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@shr571739/09391321841-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-dd70a9f63adf?source=rss------programming-5) (2025-12-05)
-- [This Go Optimization Is So Fast It Feels Illegal](https://medium.com/@gurucoding528/this-go-optimization-is-so-fast-it-feels-illegal-1994abe41dd3?source=rss------programming-5) (2025-12-05)
+- [‎It’s Time to Shift Left: Why Security Can’t Be an Afterthought Anymore](https://medium.com/@ademiloyealhanifibraheem/its-time-to-shift-left-why-security-can-t-be-an-afterthought-anymore-aa7b47f51b0e?source=rss------programming-5) (2025-12-06)
+- [Java Stream API — map() vs flatMap(): Let’s Revise This for Your Interview](https://medium.com/@sunil17bbmp/java-stream-api-map-vs-flatmap-lets-revise-this-for-your-interview-cd3905465a36?source=rss------programming-5) (2025-12-06)
+- [Zuckerberg’s RoboDog Face Will Haunt You](https://medium.com/@tsecretdeveloper/https-www-thesecretdeveloper-com-blog-zuckerbergs-robodog-facenbsptheft-c66d8f7ffd89?source=rss------programming-5) (2025-12-05)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@r3420053/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-2f43e62646f8?source=rss------programming-5) (2025-12-05)
+- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@r3420053/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-2cdc076f8175?source=rss------programming-5) (2025-12-05)
 
 </details>
 
@@ -136,11 +132,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Microsoft Foundry: Scale innovation on a modular, interoperable, and secure agent stack](https://azure.microsoft.com/en-us/blog/microsoft-foundry-scale-innovation-on-a-modular-interoperable-and-secure-agent-stack/) (2025-11-18)
-- [Azure at Microsoft Ignite 2025: All the intelligent cloud news explained](https://azure.microsoft.com/en-us/blog/azure-at-microsoft-ignite-2025-all-the-intelligent-cloud-news-explained/) (2025-11-18)
-- [Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate](https://azure.microsoft.com/en-us/blog/microsoft-databases-and-microsoft-fabric-your-unified-and-ai-powered-data-estate/) (2025-11-18)
-- [Announcing Azure Copilot agents and AI infrastructure innovations](https://azure.microsoft.com/en-us/blog/announcing-azure-copilot-agents-and-ai-infrastructure-innovations/) (2025-11-18)
-- [Introducing Anthropic’s Claude models in Microsoft Foundry: Bringing Frontier intelligence to Azure](https://azure.microsoft.com/en-us/blog/introducing-anthropics-claude-models-in-microsoft-foundry-bringing-frontier-intelligence-to-azure/) (2025-11-18)
+- [New options for AI-powered innovation, resiliency, and control with Microsoft Azure](https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/) (2025-12-03)
+- [Introducing Mistral Large 3 in Microsoft Foundry: Open, capable, and ready for production workloads](https://azure.microsoft.com/en-us/blog/introducing-mistral-large-3-in-microsoft-foundry-open-capable-and-ready-for-production-workloads/) (2025-12-02)
+- [A decade of open innovation: Celebrating 10 years of Microsoft and Red Hat partnership](https://azure.microsoft.com/en-us/blog/a-decade-of-open-innovation-celebrating-10-years-of-microsoft-and-red-hat-partnership/) (2025-12-02)
+- [Azure networking updates on security, reliability, and high availability](https://azure.microsoft.com/en-us/blog/azure-networking-updates-on-security-reliability-and-high-availability/) (2025-12-01)
+- [Introducing Claude Opus 4.5 in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/) (2025-11-24)
 
 </details>
 
@@ -301,11 +297,11 @@
 <details>
 <summary>📌 Pinterest Engineering</summary>
 
+- [Improving Quality of Recommended Content through Pinner Surveys](https://medium.com/pinterest-engineering/improving-quality-of-recommended-content-through-pinner-surveys-eebca8a52652?source=rss-ef81ef829bcb------2) (2025-12-05)
 - [On the (re)-prioritization of open-source AI](https://medium.com/pinterest-engineering/on-the-re-prioritization-of-open-source-ai-86f7279481e3?source=rss-ef81ef829bcb------2) (2025-12-04)
 - [Autonomous Observability at Pinterest (Part 1 of 2)](https://medium.com/pinterest-engineering/autonomous-observability-at-pinterest-part-1-of-2-eb0adae830ba?source=rss-ef81ef829bcb------2) (2025-12-03)
 - [Slashing CI Wait Times: How Pinterest Cut Android Testing Build Times by 36%+](https://medium.com/pinterest-engineering/slashing-ci-wait-times-how-pinterest-cut-android-testing-build-times-by-36-feb6ff121d91?source=rss-ef81ef829bcb------2) (2025-11-10)
 - [A Decade of AI Platform at Pinterest](https://medium.com/pinterest-engineering/a-decade-of-ai-platform-at-pinterest-4e3b37c0f758?source=rss-ef81ef829bcb------2) (2025-11-04)
-- [Identify User Journeys at Pinterest](https://medium.com/pinterest-engineering/identify-user-journeys-at-pinterest-b517f6275b42?source=rss-ef81ef829bcb------2) (2025-10-21)
 
 </details>
 
