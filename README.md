@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Nook Browser](https://browsewithnook.com) (2025-12-06)
-- [Albert Michelson's Harmonic Analyzer (2014) [pdf]](https://engineerguy.com/fourier/pdfs/albert-michelsons-harmonic-analyzer.pdf) (2025-12-06)
-- [PalmOS on FisherPrice Pixter Toy](https://dmitry.gr/?r=05.Projects&proj=27.%20rePalm#pixter) (2025-12-06)
-- [Have I been Flocked? – Check if your license plate is being watched](https://haveibeenflocked.com/) (2025-12-06)
-- [YouTube caught making AI-edits to videos and adding misleading AI summaries](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg) (2025-12-06)
+- [Autism's Confusing Cousins](https://www.psychiatrymargins.com/p/autisms-confusing-cousins) (2025-12-06)
+- [How America's "truck-driver shortage" made the industry a hellscape](https://www.freightwaves.com/news/how-americas-trucking-industry-became-a-hellscape) (2025-12-06)
+- [Ask HN: How many people got VPNs in response to laws like UK Online Safety Act?](https://news.ycombinator.com/item?id=46171921) (2025-12-06)
+- [Schizophrenia sufferer mistakes smart fridge ad for psychotic episode](https://old.reddit.com/r/LegalAdviceUK/comments/1pc7999/my_schizophrenic_sister_hospitalised_herself/) (2025-12-06)
+- [Wolfram Compute Services](https://writings.stephenwolfram.com/2025/12/instant-supercompute-launching-wolfram-compute-services/) (2025-12-06)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Arreglar pinchazos cerca de mi en Pozuelo de Alarcón](https://dev.to/isabella_brown_4cf0339814/arreglar-pinchazos-cerca-de-mi-en-pozuelo-de-alarcon-ff) (2025-12-06)
-- [AWS re:Invent 2025 - From ideas to impact: Architecting with cloud best practices (ARC204)](https://dev.to/kazuya_dev/aws-reinvent-2025-from-ideas-to-impact-architecting-with-cloud-best-practices-arc204-54fk) (2025-12-06)
-- [AWS re:Invent 2025 - A leader's guide to emerging technologies: From insights to rapid action-SNR203](https://dev.to/kazuya_dev/aws-reinvent-2025-a-leaders-guide-to-emerging-technologies-from-insights-to-rapid-action-snr203-12b1) (2025-12-06)
-- [AWS re:Invent 2025 - A leader's guide to achieving compliance through software excellence (SNR304)](https://dev.to/kazuya_dev/aws-reinvent-2025-a-leaders-guide-to-achieving-compliance-through-software-excellence-snr304-4k5k) (2025-12-06)
-- [How to send WhatsApp alerts using python without paid or third-party tools?](https://dev.to/akira_83c76d918b30237d53f/how-to-send-whatsapp-alerts-using-python-without-paid-or-third-party-tools-kpd) (2025-12-06)
+- [First Example Article](https://dev.to/achiranadeeshan/first-example-article-4i8f) (2025-12-06)
+- [Building a Cost-Effective Autonomous Threat Containment System on AWS](https://dev.to/lshw54/building-a-cost-effective-autonomous-threat-containment-system-on-aws-2mkk) (2025-12-06)
+- [AWS re:Invent 2025 - Streamlining Telecom Cybersecurity Operations with AWS Generative AI (IND206)](https://dev.to/kazuya_dev/aws-reinvent-2025-streamlining-telecom-cybersecurity-operations-with-aws-generative-ai-ind206-3m4p) (2025-12-06)
+- [AWS re:Invent 2025 -From Print to AI: The Economist's Digital Evolution w/ AWS Architecture (IND399)](https://dev.to/kazuya_dev/aws-reinvent-2025-from-print-to-ai-the-economists-digital-evolution-w-aws-architecture-ind399-13oh) (2025-12-06)
+- [Inventive WordPress Theme Review: How It Stacks Up in 2025](https://dev.to/sofi_morilla_c57a1e216ce6/inventive-wordpress-theme-review-how-it-stacks-up-in-2025-281i) (2025-12-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Build Your Own Operator Agent — a Sidekick that Runs Inside the Browser with LangGraph](https://medium.com/@suryawanshiaditya159/build-your-own-operator-agent-a-sidekick-that-runs-inside-the-browser-with-langgraph-5679269becf2?source=rss------programming-5) (2025-12-06)
-- [ PART 4 — Playwright Test Runner & Test Structure (Beginner Friendly)](https://medium.com/@avinash.batule1994/part-4-playwright-test-runner-test-structure-beginner-friendly-1296a4b17ec7?source=rss------programming-5) (2025-12-06)
-- [Software Will Really Suck in a Few Years…](https://javascript.plainenglish.io/software-will-really-suck-in-a-few-years-62cc7886da55?source=rss------programming-5) (2025-12-06)
-- [Kaoruko Waguri-MD](https://medium.com/@drexelxx/kaoruko-waguri-md-449e8c3c9950?source=rss------programming-5) (2025-12-06)
-- [JSON vs TOON: Complete Guide to Data Formats [2026] ](https://medium.com/@rajputgajanan50/json-vs-toon-complete-guide-to-data-formats-2026-74ec740e357a?source=rss------programming-5) (2025-12-06)
+- [How to Boost Spring Boot Startup Time by 40% (3 Practical Ways)?](https://medium.com/@csvaibhavpasrija/how-to-boost-spring-boot-startup-time-by-40-3-practical-ways-2b939794f708?source=rss------programming-5) (2025-12-06)
+- [Python Functions 101: Writing Reusable Code (2026 Guide)](https://python.plainenglish.io/python-functions-101-writing-reusable-code-2026-guide-41fb54f4d74e?source=rss------programming-5) (2025-12-06)
+- [Title: Who Is Mr Blade Stalker? The Rise of a Powerful Elite Cyber Intelligence Brand](https://medium.com/@alexmortan0932/title-who-is-mr-blade-stalker-the-rise-of-a-powerful-elite-cyber-intelligence-brand-ffcab0604391?source=rss------programming-5) (2025-12-06)
+- [Python Collections 101: Organizing Your Data (2026 Guide)](https://python.plainenglish.io/python-collections-101-organizing-your-data-2026-guide-76739393abe2?source=rss------programming-5) (2025-12-06)
+- [Airbyte vs Fivetran vs Meltano: Which ELT Tool Wins in 2025?](https://medium.com/@dilichi20044/airbyte-vs-fivetran-vs-meltano-which-elt-tool-wins-in-2025-77a67c52cbbc?source=rss------programming-5) (2025-12-06)
 
 </details>
 
@@ -362,16 +362,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Cyber Week 2025: Setting New Standards for Intelligent Engagement 
-](
-https://www.twilio.com/en-us/blog/insights/trends/cyber-week-2025-new-standards-engagement
-) (2025-12-04)
-- [
-Building Holiday Magic: Twilio Powers Real-Time Calls for ‘NORAD Tracks Santa’
-](
-https://www.twilio.com/en-us/blog/company/twilio-norad-santa-tracker-2025
-) (2025-12-04)
-- [
 Build a Twilio + Zoho CRM SMS Integration
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/build-twilio-zoho-crm-sms-integration
@@ -382,10 +372,20 @@ Build a SendGrid MCP Server for AI Email Workflows
 https://www.twilio.com/en-us/blog/developers/community/build-a-sendgrid-mcp-server-for-ai-email-workflows
 ) (2025-12-03)
 - [
-How to Use RabbitMQ in Go
+How to Authenticate with Magic Links in Go
 ](
-https://www.twilio.com/en-us/blog/developers/community/how-to-use-rabbitmq-in-go
-) (2025-12-03)
+https://www.twilio.com/en-us/blog/developers/community/authenticate-magic-links-go
+) (2025-12-02)
+- [
+Deploying AI at Scale Without Sacrificing Security
+](
+https://www.twilio.com/en-us/blog/insights/scaling-ai-securely
+) (2025-12-01)
+- [
+25 reasons why email marketing is important in 2026
+](
+https://www.twilio.com/en-us/blog/insights/why-email-marketing-is-important
+) (2025-12-01)
 
 </details>
 
