@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Sam Altman's Dirty DRAM Deal](https://www.mooreslawisdead.com/post/sam-altman-s-dirty-dram-deal) (2025-12-06)
-- [Google 'Looking into' Gmail Hack Locking Users Out with No Recovery](https://www.forbes.com/sites/daveywinder/2025/12/05/google-looking-into-gmail-hack-locking-users-out-with-no-recovery/) (2025-12-05)
-- [Adenosine on the common path of rapid antidepressant action: The coffee paradox](https://genomicpress.kglmeridian.com/view/journals/brainmed/aop/article-10.61373-bm025c.0134/article-10.61373-bm025c.0134.xml) (2025-12-05)
-- [Frank Gehry has died](https://www.bbc.co.uk/news/articles/c5y2p22z9gno) (2025-12-05)
-- [A $20 drug in Europe requires a prescription and $800 in the U.S.](https://www.statnews.com/2025/10/31/why-miebo-costs-40-times-more-than-its-european-version/) (2025-12-05)
+- [Nook Browser](https://browsewithnook.com) (2025-12-06)
+- [Albert Michelson's Harmonic Analyzer (2014) [pdf]](https://engineerguy.com/fourier/pdfs/albert-michelsons-harmonic-analyzer.pdf) (2025-12-06)
+- [PalmOS on FisherPrice Pixter Toy](https://dmitry.gr/?r=05.Projects&proj=27.%20rePalm#pixter) (2025-12-06)
+- [Have I been Flocked? – Check if your license plate is being watched](https://haveibeenflocked.com/) (2025-12-06)
+- [YouTube caught making AI-edits to videos and adding misleading AI summaries](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg) (2025-12-06)
 
 </details>
 
@@ -97,24 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [AWS re:Invent 2025 - AWS Trn3 UltraServers: Power next-generation enterprise AI performance(AIM3335)](https://dev.to/kazuya_dev/aws-reinvent-2025-aws-trn3-ultraservers-power-next-generation-enterprise-ai-performanceaim3335-1jp3) (2025-12-06)
-- [Blender Addon Development Needs More DevOps](https://dev.to/unclepomedev/blender-addon-development-needs-more-devops-5c1e) (2025-12-06)
-- [How Excel Enhances Financial Analysis for Business Growth](https://dev.to/benita_oge/how-excel-enhances-financial-analysis-for-business-growth-1i43) (2025-12-06)
-- [AWS re:Invent 2025 - Improve agent quality in production with Bedrock AgentCore Evaluations(AIM3348)](https://dev.to/kazuya_dev/aws-reinvent-2025-improve-agent-quality-in-production-with-bedrock-agentcore-evaluationsaim3348-lll) (2025-12-06)
-- [Securing Infrastructure as Code with Checkov: A Practical SAST Approach](https://dev.to/renzo_fernandoloyolavil/securing-infrastructure-as-code-with-checkov-a-practical-sast-approach-58co) (2025-12-06)
+- [Arreglar pinchazos cerca de mi en Pozuelo de Alarcón](https://dev.to/isabella_brown_4cf0339814/arreglar-pinchazos-cerca-de-mi-en-pozuelo-de-alarcon-ff) (2025-12-06)
+- [AWS re:Invent 2025 - From ideas to impact: Architecting with cloud best practices (ARC204)](https://dev.to/kazuya_dev/aws-reinvent-2025-from-ideas-to-impact-architecting-with-cloud-best-practices-arc204-54fk) (2025-12-06)
+- [AWS re:Invent 2025 - A leader's guide to emerging technologies: From insights to rapid action-SNR203](https://dev.to/kazuya_dev/aws-reinvent-2025-a-leaders-guide-to-emerging-technologies-from-insights-to-rapid-action-snr203-12b1) (2025-12-06)
+- [AWS re:Invent 2025 - A leader's guide to achieving compliance through software excellence (SNR304)](https://dev.to/kazuya_dev/aws-reinvent-2025-a-leaders-guide-to-achieving-compliance-through-software-excellence-snr304-4k5k) (2025-12-06)
+- [How to send WhatsApp alerts using python without paid or third-party tools?](https://dev.to/akira_83c76d918b30237d53f/how-to-send-whatsapp-alerts-using-python-without-paid-or-third-party-tools-kpd) (2025-12-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [‎It’s Time to Shift Left: Why Security Can’t Be an Afterthought Anymore](https://medium.com/@ademiloyealhanifibraheem/its-time-to-shift-left-why-security-can-t-be-an-afterthought-anymore-aa7b47f51b0e?source=rss------programming-5) (2025-12-06)
-- [Java Stream API — map() vs flatMap(): Let’s Revise This for Your Interview](https://medium.com/@sunil17bbmp/java-stream-api-map-vs-flatmap-lets-revise-this-for-your-interview-cd3905465a36?source=rss------programming-5) (2025-12-06)
-- [Zuckerberg’s RoboDog Face Will Haunt You](https://medium.com/@tsecretdeveloper/https-www-thesecretdeveloper-com-blog-zuckerbergs-robodog-facenbsptheft-c66d8f7ffd89?source=rss------programming-5) (2025-12-05)
-- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@r3420053/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-2f43e62646f8?source=rss------programming-5) (2025-12-05)
-- [09363843642شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@r3420053/09363843642%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-2cdc076f8175?source=rss------programming-5) (2025-12-05)
+- [Build Your Own Operator Agent — a Sidekick that Runs Inside the Browser with LangGraph](https://medium.com/@suryawanshiaditya159/build-your-own-operator-agent-a-sidekick-that-runs-inside-the-browser-with-langgraph-5679269becf2?source=rss------programming-5) (2025-12-06)
+- [ PART 4 — Playwright Test Runner & Test Structure (Beginner Friendly)](https://medium.com/@avinash.batule1994/part-4-playwright-test-runner-test-structure-beginner-friendly-1296a4b17ec7?source=rss------programming-5) (2025-12-06)
+- [Software Will Really Suck in a Few Years…](https://javascript.plainenglish.io/software-will-really-suck-in-a-few-years-62cc7886da55?source=rss------programming-5) (2025-12-06)
+- [Kaoruko Waguri-MD](https://medium.com/@drexelxx/kaoruko-waguri-md-449e8c3c9950?source=rss------programming-5) (2025-12-06)
+- [JSON vs TOON: Complete Guide to Data Formats [2026] ](https://medium.com/@rajputgajanan50/json-vs-toon-complete-guide-to-data-formats-2026-74ec740e357a?source=rss------programming-5) (2025-12-06)
 
 </details>
 
@@ -132,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [New options for AI-powered innovation, resiliency, and control with Microsoft Azure](https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/) (2025-12-03)
-- [Introducing Mistral Large 3 in Microsoft Foundry: Open, capable, and ready for production workloads](https://azure.microsoft.com/en-us/blog/introducing-mistral-large-3-in-microsoft-foundry-open-capable-and-ready-for-production-workloads/) (2025-12-02)
-- [A decade of open innovation: Celebrating 10 years of Microsoft and Red Hat partnership](https://azure.microsoft.com/en-us/blog/a-decade-of-open-innovation-celebrating-10-years-of-microsoft-and-red-hat-partnership/) (2025-12-02)
-- [Azure networking updates on security, reliability, and high availability](https://azure.microsoft.com/en-us/blog/azure-networking-updates-on-security-reliability-and-high-availability/) (2025-12-01)
-- [Introducing Claude Opus 4.5 in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/) (2025-11-24)
+- [Microsoft Foundry: Scale innovation on a modular, interoperable, and secure agent stack](https://azure.microsoft.com/en-us/blog/microsoft-foundry-scale-innovation-on-a-modular-interoperable-and-secure-agent-stack/) (2025-11-18)
+- [Azure at Microsoft Ignite 2025: All the intelligent cloud news explained](https://azure.microsoft.com/en-us/blog/azure-at-microsoft-ignite-2025-all-the-intelligent-cloud-news-explained/) (2025-11-18)
+- [Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate](https://azure.microsoft.com/en-us/blog/microsoft-databases-and-microsoft-fabric-your-unified-and-ai-powered-data-estate/) (2025-11-18)
+- [Announcing Azure Copilot agents and AI infrastructure innovations](https://azure.microsoft.com/en-us/blog/announcing-azure-copilot-agents-and-ai-infrastructure-innovations/) (2025-11-18)
+- [Introducing Anthropic’s Claude models in Microsoft Foundry: Bringing Frontier intelligence to Azure](https://azure.microsoft.com/en-us/blog/introducing-anthropics-claude-models-in-microsoft-foundry-bringing-frontier-intelligence-to-azure/) (2025-11-18)
 
 </details>
 
@@ -384,10 +382,10 @@ Build a SendGrid MCP Server for AI Email Workflows
 https://www.twilio.com/en-us/blog/developers/community/build-a-sendgrid-mcp-server-for-ai-email-workflows
 ) (2025-12-03)
 - [
-How to Authenticate with Magic Links in Go
+How to Use RabbitMQ in Go
 ](
-https://www.twilio.com/en-us/blog/developers/community/authenticate-magic-links-go
-) (2025-12-02)
+https://www.twilio.com/en-us/blog/developers/community/how-to-use-rabbitmq-in-go
+) (2025-12-03)
 
 </details>
 
