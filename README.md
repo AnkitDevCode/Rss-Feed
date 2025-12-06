@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Creator IShowSpeed sued for allegedly punching, choking viral humanoid Rizzbot](https://techcrunch.com/2025/12/06/creator-ishowspeed-sued-for-allegedly-punching-choking-viral-humanoid-rizzbot/) (2025-12-06)
+- [After you check out your Spotify Wrapped 2025, explore these copycats ](https://techcrunch.com/2025/12/06/spotify-wrapped-2024-is-almost-here-its-time-to-explore-all-the-copycats/) (2025-12-06)
 - [Digital artist Beeple put his face on a $100K robot dog next to Elon Musk and Picasso – it sold first](https://techcrunch.com/2025/12/05/digital-artist-beeple-put-his-face-on-a-100k-robot-dog-next-to-elon-musk-and-picasso-it-sold-first/) (2025-12-06)
 - [Ex-Googler’s Yoodli triples valuation to $300M+ with AI built to assist, not replace, people](https://techcrunch.com/2025/12/05/ex-googlers-yoodli-triples-valuation-to-300m-with-ai-built-to-assist-not-replace-people/) (2025-12-05)
 - [Sources: AI synthetic research startup Aaru raised a Series A at a $1B ‘headline’ valuation](https://techcrunch.com/2025/12/05/ai-synthetic-research-startup-aaru-raised-a-series-a-at-a-1b-headline-valuation/) (2025-12-05)
-- [Waymo to issue software recall over how robotaxis behave around school buses](https://techcrunch.com/2025/12/05/waymo-to-issue-software-recall-over-how-robotaxis-behave-around-school-buses/) (2025-12-05)
-- [AWS needs you to believe in AI agents](https://techcrunch.com/video/aws-needs-you-to-believe-in-ai-agents/) (2025-12-05)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Autism's Confusing Cousins](https://www.psychiatrymargins.com/p/autisms-confusing-cousins) (2025-12-06)
-- [How America's "truck-driver shortage" made the industry a hellscape](https://www.freightwaves.com/news/how-americas-trucking-industry-became-a-hellscape) (2025-12-06)
-- [Ask HN: How many people got VPNs in response to laws like UK Online Safety Act?](https://news.ycombinator.com/item?id=46171921) (2025-12-06)
-- [Schizophrenia sufferer mistakes smart fridge ad for psychotic episode](https://old.reddit.com/r/LegalAdviceUK/comments/1pc7999/my_schizophrenic_sister_hospitalised_herself/) (2025-12-06)
-- [Wolfram Compute Services](https://writings.stephenwolfram.com/2025/12/instant-supercompute-launching-wolfram-compute-services/) (2025-12-06)
+- [Perl's Decline Was Cultural](https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical) (2025-12-06)
+- [Show HN: SFX – A language where 0.1 and 0.2 = 0.3 and Context is first-class](https://github.com/roriau0422/sfex-lang) (2025-12-06)
+- [Infisical (YC W23) Is Hiring Engineers to Build the Modern OSS Security Stack](https://www.ycombinator.com/companies/infisical/jobs/2pwGcK9-senior-full-stack-engineer-us-canada) (2025-12-06)
+- [HTML as an Accessible Format for Papers](https://info.arxiv.org/about/accessible_HTML.html) (2025-12-06)
+- [Tiny Core Linux: a 23 MB Linux distro with graphical desktop](http://www.tinycorelinux.net/) (2025-12-06)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The Verge’s 2025 holiday gift guide](https://www.theverge.com/tech/809421/holiday-gift-guide-2025) (2025-12-06)
-- [Welcome to the big leagues, Netflix](https://www.theverge.com/entertainment/839480/netflix-warner-bros-acquisition-hbo-theatrical-releases-layoffs) (2025-12-05)
-- [Chamberlain blocks smart home integrations with its garage door openers — again](https://www.theverge.com/tech/839294/chamberlain-myq-garage-door-opener-update-blocks-aftermarket-controllers) (2025-12-05)
-- [Star Wars’ original theatrical cut returns to theaters in 2027](https://www.theverge.com/news/839434/disney-star-wars-original-theatrical-cut-theaters-release-date) (2025-12-05)
-- [Pantone’s ‘Cloud Dancer’ color party is a recession indicator](https://www.theverge.com/design/839364/pantones-cloud-dancer-color-of-the-year-party) (2025-12-05)
+- [The Nintendo Switch 2 and Ninja’s Creami are the best deals of the week](https://www.theverge.com/gadgets/839309/nintendo-switch-2-ninja-creami-mac-mini-best-deals-sale) (2025-12-06)
+- [The tech world is sleeping on the most exciting Bluetooth feature in years](https://www.theverge.com/report/839245/auracast-marketing-jbl-lg-samsung-google) (2025-12-06)
+- [Mad Men&#8217;s special effects foreman hasn&#8217;t seen the infamous 4K remaster](https://www.theverge.com/entertainment/839591/man-men-shannon-thompson-interview) (2025-12-06)
+- [AI ‘creators’ might just crash the influencer economy](https://www.theverge.com/entertainment/839494/ai-literacy-tiktok) (2025-12-06)
+- [Horses deserves to be played, even if it&#8217;s not very good](https://www.theverge.com/games/839464/horses-review-santa-ragione-steam-epic-bans) (2025-12-06)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [A massive, Chinese-backed port could push the Amazon Rainforest over the edge](https://arstechnica.com/science/2025/12/a-massive-chinese-backed-port-could-push-the-amazon-rainforest-over-the-edge/) (2025-12-06)
 - [Streaming service makes rare decision to lower its monthly fees](https://arstechnica.com/gadgets/2025/12/fubo-lowers-its-prices-by-up-to-15-after-losing-nbcuniversal-channels/) (2025-12-05)
 - [Netflix’s $72B WB acquisition confounds the future of movie theaters, streaming](https://arstechnica.com/gadgets/2025/12/netflixs-72b-wb-acquisition-confounds-the-future-of-movie-theaters-streaming/) (2025-12-05)
 - [Rare set of varied factors triggered Black Death](https://arstechnica.com/science/2025/12/how-volcanoes-helped-spark-the-black-death/) (2025-12-05)
-- [SteamOS vs. Windows on dedicated GPUs: It’s complicated, but Windows has an edge](https://arstechnica.com/gadgets/2025/12/steamos-vs-windows-on-dedicated-gpus-its-complicated-but-windows-has-an-edge/) (2025-12-05)
-- [Without evidence, RFK Jr.’s vaccine panel tosses hep B vaccine recommendation](https://arstechnica.com/health/2025/12/without-evidence-rfk-jr-s-vaccine-panel-tosses-heb-b-vaccine-recommendation/) (2025-12-05)
+- [SteamOS tested on dedicated GPUs: No, it’s not always faster than Windows](https://arstechnica.com/gadgets/2025/12/steamos-vs-windows-on-dedicated-gpus-its-complicated-but-windows-has-an-edge/) (2025-12-05)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [First Example Article](https://dev.to/achiranadeeshan/first-example-article-4i8f) (2025-12-06)
-- [Building a Cost-Effective Autonomous Threat Containment System on AWS](https://dev.to/lshw54/building-a-cost-effective-autonomous-threat-containment-system-on-aws-2mkk) (2025-12-06)
-- [AWS re:Invent 2025 - Streamlining Telecom Cybersecurity Operations with AWS Generative AI (IND206)](https://dev.to/kazuya_dev/aws-reinvent-2025-streamlining-telecom-cybersecurity-operations-with-aws-generative-ai-ind206-3m4p) (2025-12-06)
-- [AWS re:Invent 2025 -From Print to AI: The Economist's Digital Evolution w/ AWS Architecture (IND399)](https://dev.to/kazuya_dev/aws-reinvent-2025-from-print-to-ai-the-economists-digital-evolution-w-aws-architecture-ind399-13oh) (2025-12-06)
-- [Inventive WordPress Theme Review: How It Stacks Up in 2025](https://dev.to/sofi_morilla_c57a1e216ce6/inventive-wordpress-theme-review-how-it-stacks-up-in-2025-281i) (2025-12-06)
+- [Headless WordPress + Astro: El combo definitivo para sitios ultra-rápidos](https://dev.to/joaquin_sez_6de09e190ca1/headless-wordpress-astro-el-combo-definitivo-para-sitios-ultra-rapidos-3g19) (2025-12-06)
+- [Why Kuwaiti Startups Are Scaling Faster with Mobile Apps ?](https://dev.to/support_chrisanssolution/why-kuwaiti-startups-are-scaling-faster-with-mobile-apps--11n9) (2025-12-06)
+- [The Secret Behind SAST: The Security Blind Spot Developers Can’t Ignore (Part 1)](https://dev.to/vardan_matevosian_tech/the-secret-behind-sast-the-security-blind-spot-developers-cant-ignore-part-1-3n7m) (2025-12-06)
+- [WARNING TO DEVELOPERS: A new wave of “technical test scams” is targeting devs](https://dev.to/andersoncontreira/warning-to-developers-a-new-wave-of-technical-test-scams-is-targeting-devs-4ifh) (2025-12-06)
+- [ALERTA IMPORTANTE PARA DEVS: golpe em testes técnicos está crescendo - fiquem espertos](https://dev.to/andersoncontreira/alerta-importante-para-devs-golpe-em-testes-tecnicos-esta-crescendo-fiquem-espertos-hj8) (2025-12-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How to Boost Spring Boot Startup Time by 40% (3 Practical Ways)?](https://medium.com/@csvaibhavpasrija/how-to-boost-spring-boot-startup-time-by-40-3-practical-ways-2b939794f708?source=rss------programming-5) (2025-12-06)
-- [Python Functions 101: Writing Reusable Code (2026 Guide)](https://python.plainenglish.io/python-functions-101-writing-reusable-code-2026-guide-41fb54f4d74e?source=rss------programming-5) (2025-12-06)
-- [Title: Who Is Mr Blade Stalker? The Rise of a Powerful Elite Cyber Intelligence Brand](https://medium.com/@alexmortan0932/title-who-is-mr-blade-stalker-the-rise-of-a-powerful-elite-cyber-intelligence-brand-ffcab0604391?source=rss------programming-5) (2025-12-06)
-- [Python Collections 101: Organizing Your Data (2026 Guide)](https://python.plainenglish.io/python-collections-101-organizing-your-data-2026-guide-76739393abe2?source=rss------programming-5) (2025-12-06)
-- [Airbyte vs Fivetran vs Meltano: Which ELT Tool Wins in 2025?](https://medium.com/@dilichi20044/airbyte-vs-fivetran-vs-meltano-which-elt-tool-wins-in-2025-77a67c52cbbc?source=rss------programming-5) (2025-12-06)
+- [ Guess the Secret Number — Game in Python](https://medium.com/@anusreeBA/guess-the-secret-number-game-in-python-4246147cd9bd?source=rss------programming-5) (2025-12-06)
+- [Applying the Robustness Principle to Modern Python Type Hints](https://medium.com/@tihomir.manushev/applying-the-robustness-principle-to-modern-python-type-hints-7f890092f8b8?source=rss------programming-5) (2025-12-06)
+- [22 Free AI Templates That Make Launching Much Easier](https://medium.com/@alphadesignglobal/22-free-ai-templates-that-make-launching-much-easier-017a4c30ae81?source=rss------programming-5) (2025-12-06)
+- [ Spring AI Agents + Spring Boot](https://blog.stackademic.com/spring-ai-agents-spring-boot-88ed9dd33407?source=rss------programming-5) (2025-12-06)
+- [From EF Core to Dapper — Is Raw SQL Worth the Hype?](https://medium.com/@maged_/from-ef-core-to-dapper-is-raw-sql-worth-the-hype-e8810cb40615?source=rss------programming-5) (2025-12-06)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Microsoft Foundry: Scale innovation on a modular, interoperable, and secure agent stack](https://azure.microsoft.com/en-us/blog/microsoft-foundry-scale-innovation-on-a-modular-interoperable-and-secure-agent-stack/) (2025-11-18)
-- [Azure at Microsoft Ignite 2025: All the intelligent cloud news explained](https://azure.microsoft.com/en-us/blog/azure-at-microsoft-ignite-2025-all-the-intelligent-cloud-news-explained/) (2025-11-18)
-- [Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate](https://azure.microsoft.com/en-us/blog/microsoft-databases-and-microsoft-fabric-your-unified-and-ai-powered-data-estate/) (2025-11-18)
-- [Announcing Azure Copilot agents and AI infrastructure innovations](https://azure.microsoft.com/en-us/blog/announcing-azure-copilot-agents-and-ai-infrastructure-innovations/) (2025-11-18)
-- [Introducing Anthropic’s Claude models in Microsoft Foundry: Bringing Frontier intelligence to Azure](https://azure.microsoft.com/en-us/blog/introducing-anthropics-claude-models-in-microsoft-foundry-bringing-frontier-intelligence-to-azure/) (2025-11-18)
+- [New options for AI-powered innovation, resiliency, and control with Microsoft Azure](https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/) (2025-12-03)
+- [Introducing Mistral Large 3 in Microsoft Foundry: Open, capable, and ready for production workloads](https://azure.microsoft.com/en-us/blog/introducing-mistral-large-3-in-microsoft-foundry-open-capable-and-ready-for-production-workloads/) (2025-12-02)
+- [A decade of open innovation: Celebrating 10 years of Microsoft and Red Hat partnership](https://azure.microsoft.com/en-us/blog/a-decade-of-open-innovation-celebrating-10-years-of-microsoft-and-red-hat-partnership/) (2025-12-02)
+- [Azure networking updates on security, reliability, and high availability](https://azure.microsoft.com/en-us/blog/azure-networking-updates-on-security-reliability-and-high-availability/) (2025-12-01)
+- [Introducing Claude Opus 4.5 in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/) (2025-11-24)
 
 </details>
 
@@ -362,6 +362,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Cyber Week 2025: Setting New Standards for Intelligent Engagement 
+](
+https://www.twilio.com/en-us/blog/insights/trends/cyber-week-2025-new-standards-engagement
+) (2025-12-04)
+- [
+Building Holiday Magic: Twilio Powers Real-Time Calls for ‘NORAD Tracks Santa’
+](
+https://www.twilio.com/en-us/blog/company/twilio-norad-santa-tracker-2025
+) (2025-12-04)
+- [
 Build a Twilio + Zoho CRM SMS Integration
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/build-twilio-zoho-crm-sms-integration
@@ -372,20 +382,10 @@ Build a SendGrid MCP Server for AI Email Workflows
 https://www.twilio.com/en-us/blog/developers/community/build-a-sendgrid-mcp-server-for-ai-email-workflows
 ) (2025-12-03)
 - [
-How to Authenticate with Magic Links in Go
+How to Use RabbitMQ in Go
 ](
-https://www.twilio.com/en-us/blog/developers/community/authenticate-magic-links-go
-) (2025-12-02)
-- [
-Deploying AI at Scale Without Sacrificing Security
-](
-https://www.twilio.com/en-us/blog/insights/scaling-ai-securely
-) (2025-12-01)
-- [
-25 reasons why email marketing is important in 2026
-](
-https://www.twilio.com/en-us/blog/insights/why-email-marketing-is-important
-) (2025-12-01)
+https://www.twilio.com/en-us/blog/developers/community/how-to-use-rabbitmq-in-go
+) (2025-12-03)
 
 </details>
 
@@ -570,22 +570,22 @@ https://www.twilio.com/en-us/blog/insights/why-email-marketing-is-important
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Reading Research Papers in the Age of LLMs](https://towardsdatascience.com/reading-research-papers-in-the-age-of-llms/) (2025-12-06)
+- [The Machine Learning “Advent Calendar” Day 6: Decision Tree Regressor](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-6-decision-tree-regressor/) (2025-12-06)
+- [How We Are Testing Our Agents in Dev](https://towardsdatascience.com/how-we-are-testing-our-agents-in-dev/) (2025-12-06)
 - [The Step-by-Step Process of Adding a New Feature to My IOS App with Cursor](https://towardsdatascience.com/step-by-step-process-of-adding-a-new-feature-to-my-ios-app-with-cursor/) (2025-12-05)
 - [The Machine Learning “Advent Calendar” Day 5: GMM in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-5-gmm-in-excel/) (2025-12-05)
-- [A Product Data Scientist’s Take on LinkedIn Games After 500 Days of Play](https://towardsdatascience.com/a-product-data-scientists-take-on-linkedin-games-after-500-days-of-play/) (2025-12-05)
-- [YOLOv1 Paper Walkthrough: The Day YOLO First Saw the World](https://towardsdatascience.com/yolov1-paper-walkthrough-the-day-yolo-first-saw-the-world/) (2025-12-05)
-- [On the Challenge of Converting TensorFlow Models to PyTorch](https://towardsdatascience.com/on-the-challenge-of-converting-tensorflow-models-to-pytorch/) (2025-12-05)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [How to Detect AI-Generated Content?](https://www.analyticsvidhya.com/blog/2025/12/how-to-detect-ai-generated-content/) (2025-12-06)
+- [Create an Agent that can Learn from Interactions using AutoGen ](https://www.analyticsvidhya.com/blog/2025/12/autogen-teachable-agent/) (2025-12-06)
 - [Vibe Coding at its Best: 5 Super-Cool Gemini 3 Projects That Will Blow Your Mind](https://www.analyticsvidhya.com/blog/2025/12/gemini-3-vibe-coding-projects/) (2025-12-05)
 - [25+ AI and Data Science Solved Projects [2025 Wrap-up]](https://www.analyticsvidhya.com/blog/2025/12/ai-and-data-science-solved-projects/) (2025-12-05)
 - [Mistral Large 3: First Look and Testing](https://www.analyticsvidhya.com/blog/2025/12/mistral-large-3/) (2025-12-04)
-- [LLM Council: Andrej Karpathy’s AI for Reliable Answers](https://www.analyticsvidhya.com/blog/2025/12/llm-council-by-andrej-karpathy/) (2025-12-04)
-- [Using CrewAI Planning to Build a Structured Multi-Agent Workflow](https://www.analyticsvidhya.com/blog/2025/12/crewai-planning/) (2025-12-03)
 
 </details>
 
