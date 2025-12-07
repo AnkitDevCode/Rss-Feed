@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The accelerator is on the floor for autonomous vehicles](https://techcrunch.com/2025/12/07/the-accelerator-is-on-the-floor-for-autonomous-vehicles/) (2025-12-07)
+- [Coinbase starts onboarding users again in India, plans for fiat on-ramp next year](https://techcrunch.com/2025/12/07/coinbase-starts-onboarding-users-again-in-india-plans-for-fiat-on-ramp-for-next-year/) (2025-12-07)
+- [OpenAI says it’s turned off app suggestions that look like ads](https://techcrunch.com/2025/12/07/openai-says-its-turned-off-app-suggestions-that-look-like-ads/) (2025-12-07)
 - [Pat Gelsinger wants to save Moore’s Law, with a little help from the Feds](https://techcrunch.com/2025/12/06/pat-gelsinger-wants-to-save-moores-law-with-a-little-help-from-the-feds/) (2025-12-07)
 - [Meta reportedly delays mixed reality glasses until 2027](https://techcrunch.com/2025/12/06/meta-reportedly-delays-mixed-reality-glasses-until-2027/) (2025-12-06)
-- [Is it time to ‘refound’ your startup?](https://techcrunch.com/2025/12/06/is-it-time-to-refound-your-startup/) (2025-12-06)
-- [How would the Netflix-Warner Bros. deal reshape Hollywood?](https://techcrunch.com/2025/12/06/how-would-the-netflix-warner-bros-deal-reshape-hollywood/) (2025-12-06)
-- [Creator IShowSpeed sued for allegedly punching, choking viral humanoid Rizzbot](https://techcrunch.com/2025/12/06/creator-ishowspeed-sued-for-allegedly-punching-choking-viral-humanoid-rizzbot/) (2025-12-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Discovering the indieweb with calm tech](https://alexsci.com/blog/calm-tech-discover/) (2025-12-07)
-- [Z2 – Lithographically fabricated IC in a garage fab](https://sam.zeloof.xyz/second-ic/) (2025-12-07)
-- [Oblast: A better Blasto game for the Commodore 64](http://oldvcr.blogspot.com/2025/12/oblast-better-blasto-game-for-commodore.html) (2025-12-07)
-- [Eurydice: a Rust to C compiler (yes)](https://jonathan.protzenko.fr/2025/10/28/eurydice.html) (2025-12-07)
-- [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576) (2025-12-07)
+- [Why Fighter Jets Ban 90% of C++ Features [video]](https://www.youtube.com/watch?v=Gv4sDL9Ljww) (2025-12-07)
+- [I Tried and Failed to Rebuild the 1996 Space Jam Website with Claude](https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/) (2025-12-07)
+- [Semantic Compression (2014)](https://caseymuratori.com/blog_0015) (2025-12-07)
+- [The AI Wildfire Is Coming. It's Going to Be Painful and Healthy](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going) (2025-12-07)
+- [OpenAI disables ChatGPT app suggestions that looked like ads](https://techoreon.com/openai-disables-chatgpt-app-suggestions-ads-backlash/) (2025-12-07)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Apple’s chip chief might be the next exec to leave](https://www.theverge.com/news/839700/apples-chip-chief-might-be-the-next-exec-to-leave) (2025-12-06)
-- [The Nintendo Switch 2 and Ninja’s Creami are the best deals of the week](https://www.theverge.com/gadgets/839309/nintendo-switch-2-ninja-creami-mac-mini-best-deals-sale) (2025-12-06)
-- [The tech world is sleeping on the most exciting Bluetooth feature in years](https://www.theverge.com/report/839245/auracast-marketing-jbl-lg-samsung-google) (2025-12-06)
-- [Mad Men&#8217;s special effects foreman hasn&#8217;t seen the infamous 4K remaster](https://www.theverge.com/entertainment/839591/man-men-shannon-thompson-interview) (2025-12-06)
-- [AI ‘creators’ might just crash the influencer economy](https://www.theverge.com/entertainment/839494/ai-literacy-tiktok) (2025-12-06)
+- [A very human vision for going all-in on AI](https://www.theverge.com/podcast/839718/sublime-ai-taste-curation-vergecast) (2025-12-07)
+- [What Google Glass got right — and really, really wrong](https://www.theverge.com/podcast/839712/google-glass-smart-glasses-version-history) (2025-12-07)
+- [A love letter to glory days of iPhone gaming](https://www.theverge.com/games/839050/simogo-legacy-collection-review-switch-steam) (2025-12-07)
+- [Starlink made ‘work from home’ possible from anywhere — now, I&#8217;m ready for a change](https://www.theverge.com/column/837202/starlink-work-from-home) (2025-12-07)
+- [An all-time great game makes a comeback](https://www.theverge.com/tech/839273/red-dead-redemption-fizzy-installer) (2025-12-07)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Why is my dog like this? Current DNA tests won’t explain it to you.](https://arstechnica.com/science/2025/12/why-is-my-dog-like-this-current-dna-tests-wont-explain-it-to-you/) (2025-12-07)
 - [A massive, Chinese-backed port could push the Amazon Rainforest over the edge](https://arstechnica.com/science/2025/12/a-massive-chinese-backed-port-could-push-the-amazon-rainforest-over-the-edge/) (2025-12-06)
 - [Streaming service makes rare decision to lower its monthly fees](https://arstechnica.com/gadgets/2025/12/fubo-lowers-its-prices-by-up-to-15-after-losing-nbcuniversal-channels/) (2025-12-05)
 - [Netflix’s $72B WB acquisition confounds the future of movie theaters, streaming](https://arstechnica.com/gadgets/2025/12/netflixs-72b-wb-acquisition-confounds-the-future-of-movie-theaters-streaming/) (2025-12-05)
 - [Rare set of varied factors triggered Black Death](https://arstechnica.com/science/2025/12/how-volcanoes-helped-spark-the-black-death/) (2025-12-05)
-- [SteamOS tested on dedicated GPUs: No, it’s not always faster than Windows](https://arstechnica.com/gadgets/2025/12/steamos-vs-windows-on-dedicated-gpus-its-complicated-but-windows-has-an-edge/) (2025-12-05)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Web Developer Travis McCracken on The Most Overused Patterns in Backend Dev](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-most-overused-patterns-in-backend-dev-41ka) (2025-12-07)
-- [New Bloggg](https://dev.to/ali_khan_22dcd9cd98a25946/new-bloggg-57f5) (2025-12-07)
-- [Content ROI for Engineers: Deconstructing the B2B Marketing Black Box](https://dev.to/michaelaiglobal/content-roi-for-engineers-deconstructing-the-b2b-marketing-black-box-434g) (2025-12-07)
-- [When Robots Care](https://dev.to/rawveg/when-robots-care-1o5g) (2025-12-07)
-- [How Open Rating Systems Shape Fintech Platforms: A Technical Perspective](https://dev.to/dan_keller/how-open-rating-systems-shape-fintech-platforms-a-technical-perspective-3kbp) (2025-12-07)
+- [Monkey Market](https://dev.to/rmion/monkey-market-1bda) (2025-12-07)
+- [The Lovable.dev Migration Guide: Moving from personal GitHub to an organization (without breaking sync)](https://dev.to/danielbetterdevelopers/the-lovabledev-migration-guide-moving-from-personal-github-to-an-organization-without-breaking-100n) (2025-12-07)
+- [RAG Workflow Pack: Diagrams and Checklists](https://dev.to/dowhatmatters/rag-workflow-pack-diagrams-and-checklists-439m) (2025-12-07)
+- [Debugging Native Code in React Native: A Step-by-Step Guide (Android & iOS)](https://dev.to/ajmal_hasan/debugging-native-code-in-react-native-a-step-by-step-guide-android-ios-14o3) (2025-12-07)
+- [Typical reinforcement learning process](https://dev.to/dipti_moryani_08e62702314/typical-reinforcement-learning-process-4mgp) (2025-12-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ How Login Really Works When Tokens Are Stored in LocalStorage](https://javascript.plainenglish.io/how-login-really-works-when-tokens-are-stored-in-localstorage-7a098248277b?source=rss------programming-5) (2025-12-07)
-- [ 6 Best Practices for Secure Login Implementation in 2025](https://javascript.plainenglish.io/6-best-practices-for-secure-login-implementation-in-2025-738d6b5cb1e6?source=rss------programming-5) (2025-12-07)
-- [5 Surprising Truths About Programming That No One Tells You](https://ameyakshirsagar02.medium.com/5-surprising-truths-about-programming-that-no-one-tells-you-9943e4bac08b?source=rss------programming-5) (2025-12-07)
-- [10 Backend Concepts That Expose Weak Senior Developers (Don’t Skip These)](https://medium.com/@gopi_ck/10-backend-concepts-that-expose-weak-senior-developers-dont-skip-these-f189100a8be9?source=rss------programming-5) (2025-12-07)
-- [The Brutal Truth About Landing Your First Tech Job (And How I Finally Did It)](https://medium.com/@suresh.20232859/the-brutal-truth-about-landing-your-first-tech-job-and-how-i-finally-did-it-946d602c9df1?source=rss------programming-5) (2025-12-07)
+- [Self-Reflection](https://medium.com/@mehrinfiza57/self-reflection-2e363fc6671e?source=rss------programming-5) (2025-12-07)
+- [** How Structured Logging With Serilog Can Make Your Life Easier](https://medium.com/@mariammaurice/how-structured-logging-with-serilog-can-make-your-life-easier-99ff3a5ec884?source=rss------programming-5) (2025-12-07)
+- [Transactional Outbox Pattern | Clean Architecture, .NET 10](https://medium.com/@michaelmaurice410/transactional-outbox-pattern-clean-architecture-net-10-e2abdb2cc583?source=rss------programming-5) (2025-12-07)
+- [Building a Database Schema for Workflow Automation with .NET 8 and Entity Framework](https://medium.com/@maged_/building-a-database-schema-for-workflow-automation-with-net-8-and-entity-framework-4fcb8ad0f5f8?source=rss------programming-5) (2025-12-07)
+- [⚙️ Spring Boot Scenario-Based Q&A-Save This for Your Next Interview ](https://medium.com/@techie_arbaaz/%EF%B8%8F-spring-boot-scenario-based-q-a-save-this-for-your-next-interview-8ea58e5a43b5?source=rss------programming-5) (2025-12-07)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [New options for AI-powered innovation, resiliency, and control with Microsoft Azure](https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/) (2025-12-03)
+- [Introducing Mistral Large 3 in Microsoft Foundry: Open, capable, and ready for production workloads](https://azure.microsoft.com/en-us/blog/introducing-mistral-large-3-in-microsoft-foundry-open-capable-and-ready-for-production-workloads/) (2025-12-02)
+- [A decade of open innovation: Celebrating 10 years of Microsoft and Red Hat partnership](https://azure.microsoft.com/en-us/blog/a-decade-of-open-innovation-celebrating-10-years-of-microsoft-and-red-hat-partnership/) (2025-12-02)
+- [Azure networking updates on security, reliability, and high availability](https://azure.microsoft.com/en-us/blog/azure-networking-updates-on-security-reliability-and-high-availability/) (2025-12-01)
 - [Introducing Claude Opus 4.5 in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/) (2025-11-24)
-- [Microsoft Foundry: Scale innovation on a modular, interoperable, and secure agent stack](https://azure.microsoft.com/en-us/blog/microsoft-foundry-scale-innovation-on-a-modular-interoperable-and-secure-agent-stack/) (2025-11-18)
-- [Azure at Microsoft Ignite 2025: All the intelligent cloud news explained](https://azure.microsoft.com/en-us/blog/azure-at-microsoft-ignite-2025-all-the-intelligent-cloud-news-explained/) (2025-11-18)
-- [Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate](https://azure.microsoft.com/en-us/blog/microsoft-databases-and-microsoft-fabric-your-unified-and-ai-powered-data-estate/) (2025-11-18)
-- [Announcing Azure Copilot agents and AI infrastructure innovations](https://azure.microsoft.com/en-us/blog/announcing-azure-copilot-agents-and-ai-infrastructure-innovations/) (2025-11-18)
 
 </details>
 
@@ -570,22 +570,22 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-use-rabbitmq-in-go
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Climb the Hidden Career Ladder of Data Science](https://towardsdatascience.com/the-hidden-career-ladder-of-data-science/) (2025-12-07)
+- [The Machine Learning “Advent Calendar” Day 7: Decision Tree Classifier](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-7-decision-tree-classifier/) (2025-12-07)
+- [Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI — Clearly Explained](https://towardsdatascience.com/artificial-intelligence-machine-learning-deep-learning-and-generative-ai-clearly-explained/) (2025-12-07)
 - [Reading Research Papers in the Age of LLMs](https://towardsdatascience.com/reading-research-papers-in-the-age-of-llms/) (2025-12-06)
 - [The Machine Learning “Advent Calendar” Day 6: Decision Tree Regressor](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-6-decision-tree-regressor/) (2025-12-06)
-- [How We Are Testing Our Agents in Dev](https://towardsdatascience.com/how-we-are-testing-our-agents-in-dev/) (2025-12-06)
-- [The Step-by-Step Process of Adding a New Feature to My IOS App with Cursor](https://towardsdatascience.com/step-by-step-process-of-adding-a-new-feature-to-my-ios-app-with-cursor/) (2025-12-05)
-- [The Machine Learning “Advent Calendar” Day 5: GMM in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-5-gmm-in-excel/) (2025-12-05)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [How Confessions Can Keep Language Models Honest?](https://www.analyticsvidhya.com/blog/2025/12/confessions-in-language-models/) (2025-12-07)
 - [Data Science Learning Path for 2026](https://www.analyticsvidhya.com/blog/2025/12/data-scientist-roadmap/) (2025-12-07)
 - [Qwen3-TTS-Flash Review: The Most Realistic Open TTS Model Yet?](https://www.analyticsvidhya.com/blog/2025/12/qwen3-tts-flash-review/) (2025-12-06)
 - [How to Detect AI-Generated Content?](https://www.analyticsvidhya.com/blog/2025/12/how-to-detect-ai-generated-content/) (2025-12-06)
 - [Create an Agent that can Learn from Interactions using AutoGen ](https://www.analyticsvidhya.com/blog/2025/12/autogen-teachable-agent/) (2025-12-06)
-- [Vibe Coding at its Best: 5 Super-Cool Gemini 3 Projects That Will Blow Your Mind](https://www.analyticsvidhya.com/blog/2025/12/gemini-3-vibe-coding-projects/) (2025-12-05)
 
 </details>
 
