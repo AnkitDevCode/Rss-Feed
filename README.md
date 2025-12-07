@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Trains cancelled over fake bridge collapse image](https://www.bbc.com/news/articles/cwygqqll9k2o) (2025-12-07)
-- [Magnitude-7.0 earthquake hits in remote wilderness along Alaska-Canada border](https://apnews.com/article/earthquake-alaska-canada-yukon-7c0f68370e387b1b23fa7fe7fc9c2c71) (2025-12-07)
-- [Show HN: FuseCells – a handcrafted logic puzzle game with 2,500 levels](https://apps.apple.com/us/app/fusecells-logic-grid-puzzle/id6754704139) (2025-12-06)
-- [OpenTelemetry Distribution Builder](https://github.com/observIQ/otel-distro-builder) (2025-12-06)
-- [Kilauea erupts, destroying webcam [video]](https://www.youtube.com/watch?v=TK2N99BDw7A) (2025-12-06)
+- [Discovering the indieweb with calm tech](https://alexsci.com/blog/calm-tech-discover/) (2025-12-07)
+- [Z2 – Lithographically fabricated IC in a garage fab](https://sam.zeloof.xyz/second-ic/) (2025-12-07)
+- [Oblast: A better Blasto game for the Commodore 64](http://oldvcr.blogspot.com/2025/12/oblast-better-blasto-game-for-commodore.html) (2025-12-07)
+- [Eurydice: a Rust to C compiler (yes)](https://jonathan.protzenko.fr/2025/10/28/eurydice.html) (2025-12-07)
+- [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576) (2025-12-07)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Philosophy Behind Constitutional Reflective AI](https://dev.to/ghostking314/the-philosophy-behind-constitutional-reflective-ai-30j4) (2025-12-07)
-- [Devpill #4 - Database migrations with Migrate](https://dev.to/raulsilva/devpill-4-database-migrations-with-migrate-1og5) (2025-12-07)
-- [Trinity AGA vs Traditional LLM Architectures](https://dev.to/ghostking314/trinity-aga-vs-traditional-llm-architectures-2pbk) (2025-12-07)
-- [Deploying a Vite + React app on Azure with Docker? I put together a complete step-by-step guide covering Dockerfiles, ACR, App Service, OIDC setup, and a GitHub Actions CI/CD pipeline. If you want to learn modern deployments, this will help a lot!](https://dev.to/dimuthu7/deploying-a-vite-react-app-on-azure-with-docker-i-put-together-a-complete-step-by-step-guide-2ofd) (2025-12-07)
-- [Trinity AGA Architecture: Technical Deep Dive into a Governance First AI System](https://dev.to/ghostking314/trinity-aga-architecture-technical-deep-dive-into-a-governance-first-ai-system-3h9a) (2025-12-07)
+- [Building SaaS for Nigerian Traders: Technical Decisions Beyond the Stack](https://dev.to/tochukwu_dev/building-saas-for-nigerian-traders-technical-decisions-beyond-the-stack-m22) (2025-12-07)
+- [The €82,000 Blind Spot That Almost Sank a SaaS Company](https://dev.to/tracksimple/the-eu82000-blind-spot-that-almost-sank-a-saas-company-4na6) (2025-12-07)
+- [Is Tailwind actually slow?](https://dev.to/yoskutik/is-tailwind-actually-slow-533d) (2025-12-07)
+- [GPUI Component: Because Desktop Apps Shouldn't Make You Cry](https://dev.to/dev-tngsh/gpui-component-because-desktop-apps-shouldnt-make-you-cry-pkp) (2025-12-07)
+- [Why Context Engineering Is Replacing Prompt Engineering](https://dev.to/aiwithapex/why-context-engineering-is-replacing-prompt-engineering-10nh) (2025-12-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Attack Surface Management with AI: continuously discovering shadow assets, APIs, and misconfigs](https://medium.com/@paritoshblogs/attack-surface-management-with-ai-continuously-discovering-shadow-assets-apis-and-misconfigs-689bf5650ce0?source=rss------programming-5) (2025-12-07)
-- [The History of Twitter: From 140 Characters to X](https://medium.com/@zacharywestonintech/the-history-of-twitter-from-140-characters-to-x-d094385880c1?source=rss------programming-5) (2025-12-07)
-- [Simple Swing Trader AI Routine that worked for me](https://medium.com/@codingguy/simple-swing-trader-ai-routine-that-worked-for-me-899940af1376?source=rss------programming-5) (2025-12-07)
-- [NU-Information Exchange System: Connecting Multiple Campuses](https://medium.com/@asadullahafzal840/nu-information-exchange-system-connecting-multiple-campuses-b8484596ef1d?source=rss------programming-5) (2025-12-07)
-- [Cracking the Hiring Gate: Essential React Native Interview Questions You Must Answer](https://medium.com/@raffizimraan27/cracking-the-hiring-gate-essential-react-native-interview-questions-you-must-answer-b4790df8d197?source=rss------programming-5) (2025-12-07)
+- [How One Python Library Saved Me Hours of Boring Work](https://medium.com/@lubnaaly12/how-one-python-library-saved-me-hours-of-boring-work-51b92cc32a2e?source=rss------programming-5) (2025-12-07)
+- [Day 5: Loading & Error States — Complete Beginner’s Guide](https://medium.com/@shahzaibnawaz/day-5-loading-error-states-complete-beginners-guide-dae90a607255?source=rss------programming-5) (2025-12-07)
+- [Building a Multi-Campus Communication System: My 5th Semester CN Lab Project](https://medium.com/@rimshabashir152/building-a-multi-campus-communication-system-my-5th-semester-cn-lab-project-7a386cbc937d?source=rss------programming-5) (2025-12-07)
+- [React Is Becoming a Compiler, Not a Library](https://medium.com/@CodersWorld99/react-is-becoming-a-compiler-not-a-library-d736f7908f42?source=rss------programming-5) (2025-12-07)
+- [Your “Vibe Coding” AI Agent Is Probably Leaking Secrets](https://ninza7.medium.com/your-vibe-coding-ai-agent-is-probably-leaking-secrets-5799b7067510?source=rss------programming-5) (2025-12-07)
 
 </details>
 
@@ -130,22 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [New options for AI-powered innovation, resiliency, and control with Microsoft Azure](https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/) (2025-12-03)
-- [Introducing Mistral Large 3 in Microsoft Foundry: Open, capable, and ready for production workloads](https://azure.microsoft.com/en-us/blog/introducing-mistral-large-3-in-microsoft-foundry-open-capable-and-ready-for-production-workloads/) (2025-12-02)
-- [A decade of open innovation: Celebrating 10 years of Microsoft and Red Hat partnership](https://azure.microsoft.com/en-us/blog/a-decade-of-open-innovation-celebrating-10-years-of-microsoft-and-red-hat-partnership/) (2025-12-02)
-- [Azure networking updates on security, reliability, and high availability](https://azure.microsoft.com/en-us/blog/azure-networking-updates-on-security-reliability-and-high-availability/) (2025-12-01)
 - [Introducing Claude Opus 4.5 in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/) (2025-11-24)
-
-</details>
-
-<details>
-<summary>🎮 NVIDIA Blog</summary>
-
-- [NVIDIA Awards up to $60,000 Research Fellowships to PhD Students](https://blogs.nvidia.com/blog/graduate-fellowship-recipients-2026-2027/) (2025-12-04)
-- [Robots’ Holiday Wishes Come True: NVIDIA Jetson Platform Offers High-Performance Edge AI at Festive Prices](https://blogs.nvidia.com/blog/jetson-edge-ai-holiday-2025/) (2025-12-04)
-- [Game the Halls: GeForce NOW Brings Holiday Cheer With 30 New Games in the Cloud](https://blogs.nvidia.com/blog/geforce-now-thursday-dec-2025/) (2025-12-04)
-- [Mixture of Experts Powers the Most Intelligent Frontier AI Models, Runs 10x Faster on NVIDIA Blackwell NVL72](https://blogs.nvidia.com/blog/mixture-of-experts-frontier-models/) (2025-12-03)
-- [NVIDIA Partners With Mistral AI to Accelerate New Family of Open Models](https://blogs.nvidia.com/blog/mistral-frontier-open-models/) (2025-12-02)
+- [Microsoft Foundry: Scale innovation on a modular, interoperable, and secure agent stack](https://azure.microsoft.com/en-us/blog/microsoft-foundry-scale-innovation-on-a-modular-interoperable-and-secure-agent-stack/) (2025-11-18)
+- [Azure at Microsoft Ignite 2025: All the intelligent cloud news explained](https://azure.microsoft.com/en-us/blog/azure-at-microsoft-ignite-2025-all-the-intelligent-cloud-news-explained/) (2025-11-18)
+- [Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate](https://azure.microsoft.com/en-us/blog/microsoft-databases-and-microsoft-fabric-your-unified-and-ai-powered-data-estate/) (2025-11-18)
+- [Announcing Azure Copilot agents and AI infrastructure innovations](https://azure.microsoft.com/en-us/blog/announcing-azure-copilot-agents-and-ai-infrastructure-innovations/) (2025-11-18)
 
 </details>
 
