@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Pat Gelsinger wants to save Moore’s Law, with a little help from the Feds](https://techcrunch.com/2025/12/06/pat-gelsinger-wants-to-save-moores-law-with-a-little-help-from-the-feds/) (2025-12-07)
+- [Meta reportedly delays mixed reality glasses until 2027](https://techcrunch.com/2025/12/06/meta-reportedly-delays-mixed-reality-glasses-until-2027/) (2025-12-06)
+- [Is it time to ‘refound’ your startup?](https://techcrunch.com/2025/12/06/is-it-time-to-refound-your-startup/) (2025-12-06)
+- [How would the Netflix-Warner Bros. deal reshape Hollywood?](https://techcrunch.com/2025/12/06/how-would-the-netflix-warner-bros-deal-reshape-hollywood/) (2025-12-06)
 - [Creator IShowSpeed sued for allegedly punching, choking viral humanoid Rizzbot](https://techcrunch.com/2025/12/06/creator-ishowspeed-sued-for-allegedly-punching-choking-viral-humanoid-rizzbot/) (2025-12-06)
-- [After you check out your Spotify Wrapped 2025, explore these copycats ](https://techcrunch.com/2025/12/06/spotify-wrapped-2024-is-almost-here-its-time-to-explore-all-the-copycats/) (2025-12-06)
-- [Digital artist Beeple put his face on a $100K robot dog next to Elon Musk and Picasso – it sold first](https://techcrunch.com/2025/12/05/digital-artist-beeple-put-his-face-on-a-100k-robot-dog-next-to-elon-musk-and-picasso-it-sold-first/) (2025-12-06)
-- [Ex-Googler’s Yoodli triples valuation to $300M+ with AI built to assist, not replace, people](https://techcrunch.com/2025/12/05/ex-googlers-yoodli-triples-valuation-to-300m-with-ai-built-to-assist-not-replace-people/) (2025-12-05)
-- [Sources: AI synthetic research startup Aaru raised a Series A at a $1B ‘headline’ valuation](https://techcrunch.com/2025/12/05/ai-synthetic-research-startup-aaru-raised-a-series-a-at-a-1b-headline-valuation/) (2025-12-05)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Perl's Decline Was Cultural](https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical) (2025-12-06)
-- [Show HN: SFX – A language where 0.1 and 0.2 = 0.3 and Context is first-class](https://github.com/roriau0422/sfex-lang) (2025-12-06)
-- [Infisical (YC W23) Is Hiring Engineers to Build the Modern OSS Security Stack](https://www.ycombinator.com/companies/infisical/jobs/2pwGcK9-senior-full-stack-engineer-us-canada) (2025-12-06)
-- [HTML as an Accessible Format for Papers](https://info.arxiv.org/about/accessible_HTML.html) (2025-12-06)
-- [Tiny Core Linux: a 23 MB Linux distro with graphical desktop](http://www.tinycorelinux.net/) (2025-12-06)
+- [Trains cancelled over fake bridge collapse image](https://www.bbc.com/news/articles/cwygqqll9k2o) (2025-12-07)
+- [Magnitude-7.0 earthquake hits in remote wilderness along Alaska-Canada border](https://apnews.com/article/earthquake-alaska-canada-yukon-7c0f68370e387b1b23fa7fe7fc9c2c71) (2025-12-07)
+- [Show HN: FuseCells – a handcrafted logic puzzle game with 2,500 levels](https://apps.apple.com/us/app/fusecells-logic-grid-puzzle/id6754704139) (2025-12-06)
+- [OpenTelemetry Distribution Builder](https://github.com/observIQ/otel-distro-builder) (2025-12-06)
+- [Kilauea erupts, destroying webcam [video]](https://www.youtube.com/watch?v=TK2N99BDw7A) (2025-12-06)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Apple’s chip chief might be the next exec to leave](https://www.theverge.com/news/839700/apples-chip-chief-might-be-the-next-exec-to-leave) (2025-12-06)
 - [The Nintendo Switch 2 and Ninja’s Creami are the best deals of the week](https://www.theverge.com/gadgets/839309/nintendo-switch-2-ninja-creami-mac-mini-best-deals-sale) (2025-12-06)
 - [The tech world is sleeping on the most exciting Bluetooth feature in years](https://www.theverge.com/report/839245/auracast-marketing-jbl-lg-samsung-google) (2025-12-06)
 - [Mad Men&#8217;s special effects foreman hasn&#8217;t seen the infamous 4K remaster](https://www.theverge.com/entertainment/839591/man-men-shannon-thompson-interview) (2025-12-06)
 - [AI ‘creators’ might just crash the influencer economy](https://www.theverge.com/entertainment/839494/ai-literacy-tiktok) (2025-12-06)
-- [Horses deserves to be played, even if it&#8217;s not very good](https://www.theverge.com/games/839464/horses-review-santa-ragione-steam-epic-bans) (2025-12-06)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Headless WordPress + Astro: El combo definitivo para sitios ultra-rápidos](https://dev.to/joaquin_sez_6de09e190ca1/headless-wordpress-astro-el-combo-definitivo-para-sitios-ultra-rapidos-3g19) (2025-12-06)
-- [Why Kuwaiti Startups Are Scaling Faster with Mobile Apps ?](https://dev.to/support_chrisanssolution/why-kuwaiti-startups-are-scaling-faster-with-mobile-apps--11n9) (2025-12-06)
-- [The Secret Behind SAST: The Security Blind Spot Developers Can’t Ignore (Part 1)](https://dev.to/vardan_matevosian_tech/the-secret-behind-sast-the-security-blind-spot-developers-cant-ignore-part-1-3n7m) (2025-12-06)
-- [WARNING TO DEVELOPERS: A new wave of “technical test scams” is targeting devs](https://dev.to/andersoncontreira/warning-to-developers-a-new-wave-of-technical-test-scams-is-targeting-devs-4ifh) (2025-12-06)
-- [ALERTA IMPORTANTE PARA DEVS: golpe em testes técnicos está crescendo - fiquem espertos](https://dev.to/andersoncontreira/alerta-importante-para-devs-golpe-em-testes-tecnicos-esta-crescendo-fiquem-espertos-hj8) (2025-12-06)
+- [The Philosophy Behind Constitutional Reflective AI](https://dev.to/ghostking314/the-philosophy-behind-constitutional-reflective-ai-30j4) (2025-12-07)
+- [Devpill #4 - Database migrations with Migrate](https://dev.to/raulsilva/devpill-4-database-migrations-with-migrate-1og5) (2025-12-07)
+- [Trinity AGA vs Traditional LLM Architectures](https://dev.to/ghostking314/trinity-aga-vs-traditional-llm-architectures-2pbk) (2025-12-07)
+- [Deploying a Vite + React app on Azure with Docker? I put together a complete step-by-step guide covering Dockerfiles, ACR, App Service, OIDC setup, and a GitHub Actions CI/CD pipeline. If you want to learn modern deployments, this will help a lot!](https://dev.to/dimuthu7/deploying-a-vite-react-app-on-azure-with-docker-i-put-together-a-complete-step-by-step-guide-2ofd) (2025-12-07)
+- [Trinity AGA Architecture: Technical Deep Dive into a Governance First AI System](https://dev.to/ghostking314/trinity-aga-architecture-technical-deep-dive-into-a-governance-first-ai-system-3h9a) (2025-12-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ Guess the Secret Number — Game in Python](https://medium.com/@anusreeBA/guess-the-secret-number-game-in-python-4246147cd9bd?source=rss------programming-5) (2025-12-06)
-- [Applying the Robustness Principle to Modern Python Type Hints](https://medium.com/@tihomir.manushev/applying-the-robustness-principle-to-modern-python-type-hints-7f890092f8b8?source=rss------programming-5) (2025-12-06)
-- [22 Free AI Templates That Make Launching Much Easier](https://medium.com/@alphadesignglobal/22-free-ai-templates-that-make-launching-much-easier-017a4c30ae81?source=rss------programming-5) (2025-12-06)
-- [ Spring AI Agents + Spring Boot](https://blog.stackademic.com/spring-ai-agents-spring-boot-88ed9dd33407?source=rss------programming-5) (2025-12-06)
-- [From EF Core to Dapper — Is Raw SQL Worth the Hype?](https://medium.com/@maged_/from-ef-core-to-dapper-is-raw-sql-worth-the-hype-e8810cb40615?source=rss------programming-5) (2025-12-06)
+- [Attack Surface Management with AI: continuously discovering shadow assets, APIs, and misconfigs](https://medium.com/@paritoshblogs/attack-surface-management-with-ai-continuously-discovering-shadow-assets-apis-and-misconfigs-689bf5650ce0?source=rss------programming-5) (2025-12-07)
+- [The History of Twitter: From 140 Characters to X](https://medium.com/@zacharywestonintech/the-history-of-twitter-from-140-characters-to-x-d094385880c1?source=rss------programming-5) (2025-12-07)
+- [Simple Swing Trader AI Routine that worked for me](https://medium.com/@codingguy/simple-swing-trader-ai-routine-that-worked-for-me-899940af1376?source=rss------programming-5) (2025-12-07)
+- [NU-Information Exchange System: Connecting Multiple Campuses](https://medium.com/@asadullahafzal840/nu-information-exchange-system-connecting-multiple-campuses-b8484596ef1d?source=rss------programming-5) (2025-12-07)
+- [Cracking the Hiring Gate: Essential React Native Interview Questions You Must Answer](https://medium.com/@raffizimraan27/cracking-the-hiring-gate-essential-react-native-interview-questions-you-must-answer-b4790df8d197?source=rss------programming-5) (2025-12-07)
 
 </details>
 
@@ -581,11 +581,11 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-use-rabbitmq-in-go
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Qwen3-TTS-Flash Review: The Most Realistic Open TTS Model Yet?](https://www.analyticsvidhya.com/blog/2025/12/qwen3-tts-flash-review/) (2025-12-06)
 - [How to Detect AI-Generated Content?](https://www.analyticsvidhya.com/blog/2025/12/how-to-detect-ai-generated-content/) (2025-12-06)
 - [Create an Agent that can Learn from Interactions using AutoGen ](https://www.analyticsvidhya.com/blog/2025/12/autogen-teachable-agent/) (2025-12-06)
 - [Vibe Coding at its Best: 5 Super-Cool Gemini 3 Projects That Will Blow Your Mind](https://www.analyticsvidhya.com/blog/2025/12/gemini-3-vibe-coding-projects/) (2025-12-05)
 - [25+ AI and Data Science Solved Projects [2025 Wrap-up]](https://www.analyticsvidhya.com/blog/2025/12/ai-and-data-science-solved-projects/) (2025-12-05)
-- [Mistral Large 3: First Look and Testing](https://www.analyticsvidhya.com/blog/2025/12/mistral-large-3/) (2025-12-04)
 
 </details>
 
