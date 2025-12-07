@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building SaaS for Nigerian Traders: Technical Decisions Beyond the Stack](https://dev.to/tochukwu_dev/building-saas-for-nigerian-traders-technical-decisions-beyond-the-stack-m22) (2025-12-07)
-- [The €82,000 Blind Spot That Almost Sank a SaaS Company](https://dev.to/tracksimple/the-eu82000-blind-spot-that-almost-sank-a-saas-company-4na6) (2025-12-07)
-- [Is Tailwind actually slow?](https://dev.to/yoskutik/is-tailwind-actually-slow-533d) (2025-12-07)
-- [GPUI Component: Because Desktop Apps Shouldn't Make You Cry](https://dev.to/dev-tngsh/gpui-component-because-desktop-apps-shouldnt-make-you-cry-pkp) (2025-12-07)
-- [Why Context Engineering Is Replacing Prompt Engineering](https://dev.to/aiwithapex/why-context-engineering-is-replacing-prompt-engineering-10nh) (2025-12-07)
+- [Web Developer Travis McCracken on The Most Overused Patterns in Backend Dev](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-most-overused-patterns-in-backend-dev-41ka) (2025-12-07)
+- [New Bloggg](https://dev.to/ali_khan_22dcd9cd98a25946/new-bloggg-57f5) (2025-12-07)
+- [Content ROI for Engineers: Deconstructing the B2B Marketing Black Box](https://dev.to/michaelaiglobal/content-roi-for-engineers-deconstructing-the-b2b-marketing-black-box-434g) (2025-12-07)
+- [When Robots Care](https://dev.to/rawveg/when-robots-care-1o5g) (2025-12-07)
+- [How Open Rating Systems Shape Fintech Platforms: A Technical Perspective](https://dev.to/dan_keller/how-open-rating-systems-shape-fintech-platforms-a-technical-perspective-3kbp) (2025-12-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How One Python Library Saved Me Hours of Boring Work](https://medium.com/@lubnaaly12/how-one-python-library-saved-me-hours-of-boring-work-51b92cc32a2e?source=rss------programming-5) (2025-12-07)
-- [Day 5: Loading & Error States — Complete Beginner’s Guide](https://medium.com/@shahzaibnawaz/day-5-loading-error-states-complete-beginners-guide-dae90a607255?source=rss------programming-5) (2025-12-07)
-- [Building a Multi-Campus Communication System: My 5th Semester CN Lab Project](https://medium.com/@rimshabashir152/building-a-multi-campus-communication-system-my-5th-semester-cn-lab-project-7a386cbc937d?source=rss------programming-5) (2025-12-07)
-- [React Is Becoming a Compiler, Not a Library](https://medium.com/@CodersWorld99/react-is-becoming-a-compiler-not-a-library-d736f7908f42?source=rss------programming-5) (2025-12-07)
-- [Your “Vibe Coding” AI Agent Is Probably Leaking Secrets](https://ninza7.medium.com/your-vibe-coding-ai-agent-is-probably-leaking-secrets-5799b7067510?source=rss------programming-5) (2025-12-07)
+- [ How Login Really Works When Tokens Are Stored in LocalStorage](https://javascript.plainenglish.io/how-login-really-works-when-tokens-are-stored-in-localstorage-7a098248277b?source=rss------programming-5) (2025-12-07)
+- [ 6 Best Practices for Secure Login Implementation in 2025](https://javascript.plainenglish.io/6-best-practices-for-secure-login-implementation-in-2025-738d6b5cb1e6?source=rss------programming-5) (2025-12-07)
+- [5 Surprising Truths About Programming That No One Tells You](https://ameyakshirsagar02.medium.com/5-surprising-truths-about-programming-that-no-one-tells-you-9943e4bac08b?source=rss------programming-5) (2025-12-07)
+- [10 Backend Concepts That Expose Weak Senior Developers (Don’t Skip These)](https://medium.com/@gopi_ck/10-backend-concepts-that-expose-weak-senior-developers-dont-skip-these-f189100a8be9?source=rss------programming-5) (2025-12-07)
+- [The Brutal Truth About Landing Your First Tech Job (And How I Finally Did It)](https://medium.com/@suresh.20232859/the-brutal-truth-about-landing-your-first-tech-job-and-how-i-finally-did-it-946d602c9df1?source=rss------programming-5) (2025-12-07)
 
 </details>
 
@@ -135,6 +135,17 @@
 - [Azure at Microsoft Ignite 2025: All the intelligent cloud news explained](https://azure.microsoft.com/en-us/blog/azure-at-microsoft-ignite-2025-all-the-intelligent-cloud-news-explained/) (2025-11-18)
 - [Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate](https://azure.microsoft.com/en-us/blog/microsoft-databases-and-microsoft-fabric-your-unified-and-ai-powered-data-estate/) (2025-11-18)
 - [Announcing Azure Copilot agents and AI infrastructure innovations](https://azure.microsoft.com/en-us/blog/announcing-azure-copilot-agents-and-ai-infrastructure-innovations/) (2025-11-18)
+
+</details>
+
+<details>
+<summary>🎮 NVIDIA Blog</summary>
+
+- [NVIDIA Awards up to $60,000 Research Fellowships to PhD Students](https://blogs.nvidia.com/blog/graduate-fellowship-recipients-2026-2027/) (2025-12-04)
+- [Robots’ Holiday Wishes Come True: NVIDIA Jetson Platform Offers High-Performance Edge AI at Festive Prices](https://blogs.nvidia.com/blog/jetson-edge-ai-holiday-2025/) (2025-12-04)
+- [Game the Halls: GeForce NOW Brings Holiday Cheer With 30 New Games in the Cloud](https://blogs.nvidia.com/blog/geforce-now-thursday-dec-2025/) (2025-12-04)
+- [Mixture of Experts Powers the Most Intelligent Frontier AI Models, Runs 10x Faster on NVIDIA Blackwell NVL72](https://blogs.nvidia.com/blog/mixture-of-experts-frontier-models/) (2025-12-03)
+- [NVIDIA Partners With Mistral AI to Accelerate New Family of Open Models](https://blogs.nvidia.com/blog/mistral-frontier-open-models/) (2025-12-02)
 
 </details>
 
@@ -570,22 +581,22 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-use-rabbitmq-in-go
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Data Science Learning Path for 2026](https://www.analyticsvidhya.com/blog/2025/12/data-scientist-roadmap/) (2025-12-07)
 - [Qwen3-TTS-Flash Review: The Most Realistic Open TTS Model Yet?](https://www.analyticsvidhya.com/blog/2025/12/qwen3-tts-flash-review/) (2025-12-06)
 - [How to Detect AI-Generated Content?](https://www.analyticsvidhya.com/blog/2025/12/how-to-detect-ai-generated-content/) (2025-12-06)
 - [Create an Agent that can Learn from Interactions using AutoGen ](https://www.analyticsvidhya.com/blog/2025/12/autogen-teachable-agent/) (2025-12-06)
 - [Vibe Coding at its Best: 5 Super-Cool Gemini 3 Projects That Will Blow Your Mind](https://www.analyticsvidhya.com/blog/2025/12/gemini-3-vibe-coding-projects/) (2025-12-05)
-- [25+ AI and Data Science Solved Projects [2025 Wrap-up]](https://www.analyticsvidhya.com/blog/2025/12/ai-and-data-science-solved-projects/) (2025-12-05)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [The Best Web Scraping APIs for AI Models in 2026](https://www.kdnuggets.com/2025/12/brightdata/the-best-web-scraping-apis-for-ai-models-in-2026) (2025-12-07)
 - [Pixi: A Smarter Way to Manage Python Environments](https://www.kdnuggets.com/pixi-a-smarter-way-to-manage-python-environments) (2025-12-05)
 - [Top 5 Small AI Coding Models That You Can Run Locally](https://www.kdnuggets.com/top-5-small-ai-coding-models-that-you-can-run-locally) (2025-12-05)
 - [The Best Proxy Providers for Large-Scale Scraping for 2026](https://www.kdnuggets.com/2025/11/brightdata/the-best-proxy-providers-for-large-scale-scraping-for-2026) (2025-12-04)
 - [Emergent Introspective Awareness in Large Language Models](https://www.kdnuggets.com/emergent-introspective-awareness-in-large-language-models) (2025-12-04)
-- [5 Critical Feature Engineering Mistakes That Kill Machine Learning Projects](https://www.kdnuggets.com/5-critical-feature-engineering-mistakes-that-kill-machine-learning-projects) (2025-12-04)
 
 </details>
 
