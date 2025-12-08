@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [OpenAI boasts enterprise win days after internal ‘code red’ on Google threat](https://techcrunch.com/2025/12/08/openai-boasts-enterprise-win-days-after-internal-code-red-on-google-threat/) (2025-12-08)
 - [Netflix co-CEO discussed Warner Bros. deal with Trump](https://techcrunch.com/2025/12/07/netflix-co-ceo-reportedly-discussed-warner-bros-deal-with-trump/) (2025-12-08)
 - [X deactivates European Commission’s ad account after the company was fined €120M](https://techcrunch.com/2025/12/07/x-deactivates-european-commissions-ad-account-after-the-company-was-fined-e120m/) (2025-12-07)
 - [The accelerator is on the floor for autonomous vehicles](https://techcrunch.com/2025/12/07/the-accelerator-is-on-the-floor-for-autonomous-vehicles/) (2025-12-07)
 - [Coinbase starts onboarding users again in India, plans for fiat on-ramp next year](https://techcrunch.com/2025/12/07/coinbase-starts-onboarding-users-again-in-india-plans-for-fiat-on-ramp-for-next-year/) (2025-12-07)
-- [OpenAI says it’s turned off app suggestions that look like ads](https://techcrunch.com/2025/12/07/openai-says-its-turned-off-app-suggestions-that-look-like-ads/) (2025-12-07)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Socialist ends by market means: A history](https://lucasvance.github.io/2100/history/) (2025-12-08)
-- [Damn Small Linux](https://www.damnsmalllinux.org/) (2025-12-08)
-- [Spinlocks vs. Mutexes: When to Spin and When to Sleep](https://howtech.substack.com/p/spinlocks-vs-mutexes-when-to-spin) (2025-12-08)
-- [Toyota unintended acceleration and the big bowl of "spaghetti" code (2013)](https://www.safetyresearch.net/toyota-unintended-acceleration-and-the-big-bowl-of-spaghetti-code/) (2025-12-08)
-- [Bag of words, have mercy on us](https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us) (2025-12-07)
+- [Nango (YC W23) is hiring back-end engineers and dev-rels (remote)](https://jobs.ashbyhq.com/Nango) (2025-12-08)
+- [Bad Dye Job](https://daringfireball.net/2025/12/bad_dye_job) (2025-12-08)
+- [Show HN: Web app that lets you send email time capsules](https://resurf.me) (2025-12-08)
+- [Survivors Clung to Wreckage for Some 45 Minutes Before U.S. Military Killed Them](https://theintercept.com/2025/12/05/boat-strike-survivors-double-tap/) (2025-12-08)
+- [12 Days of Shell](https://12days.cmdchallenge.com) (2025-12-08)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Stop, Shop, and Scroll](https://www.theverge.com/cs/features/836456/influencers-tiktok-debt-shopaganda) (2025-12-08)
 - [You need to watch the modern horror masterpiece, His House](https://www.theverge.com/entertainment/839753/watch-modern-horror-masterpiece-his-house) (2025-12-08)
 - [Netflix CEO made a visit to the White House before buying Warner Bros.](https://www.theverge.com/news/839749/netflix-ceo-visit-white-house-warner-bros) (2025-12-07)
 - [X cuts off the European Commission’s ad account after being fined €120 million](https://www.theverge.com/news/839742/x-cuts-off-the-european-commissions-ad-account) (2025-12-07)
-- [A very human vision for going all-in on AI](https://www.theverge.com/podcast/839718/sublime-ai-taste-curation-vergecast) (2025-12-07)
-- [What Google Glass got right — and really, really wrong](https://www.theverge.com/podcast/839712/google-glass-smart-glasses-version-history) (2025-12-07)
+- [A very human vision for going all in on AI](https://www.theverge.com/podcast/839718/sublime-ai-taste-curation-vergecast) (2025-12-07)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [4 technologies that didn’t make our 2026 breakthroughs list](https://www.technologyreview.com/2025/12/08/1128969/2026-breakthroughs-list-leftovers/) (2025-12-08)
 - [Harnessing human-AI collaboration for an AI roadmap that moves beyond pilots](https://www.technologyreview.com/2025/12/05/1128730/harnessing-human-ai-collaboration-for-an-ai-roadmap-that-moves-beyond-pilots/) (2025-12-05)
 - [The Download: political chatbot persuasion, and gene editing adverts](https://www.technologyreview.com/2025/12/05/1128927/the-download-political-chatbot-persuasion-gene-editing-adverts/) (2025-12-05)
 - [The ads that sell the sizzle of genetic trait discrimination](https://www.technologyreview.com/2025/12/05/1128755/selling-the-sizzle-of-trait-discrimination/) (2025-12-05)
 - [The era of AI persuasion in elections is about to begin](https://www.technologyreview.com/2025/12/05/1128837/the-era-of-ai-persuasion-in-elections-is-about-to-begin/) (2025-12-05)
-- [AI chatbots can sway voters better than political advertisements](https://www.technologyreview.com/2025/12/04/1128824/ai-chatbots-can-sway-voters-better-than-political-advertisements/) (2025-12-04)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Perl 🐪 Weekly #750 - Perl Advent Calendar 2025](https://dev.to/szabgab/perl-weekly-750-perl-advent-calendar-2025-1aga) (2025-12-08)
-- [Bounds vs. Frame and can frame be less than bounds?](https://dev.to/alekseibarinov/bounds-vs-frame-and-can-frame-be-less-than-bounds-5ga0) (2025-12-08)
-- [Chatbot vs Agent : Understanding the Architecture, Tools and Memory Layer](https://dev.to/yeahiasarker/chatbot-vs-agent-understanding-the-architecture-tools-and-memory-layer-3gop) (2025-12-08)
-- [Where Art Meets Identity A Local’s Guide to Getting a Tattoo in Croydon](https://dev.to/nsdtattoo/where-art-meets-identity-a-locals-guide-to-getting-a-tattoo-in-croydon-oon) (2025-12-08)
-- [How to Build a Real-Time Video Calling App in Flutter Using ZEGOCLOUD (No WebRTC Needed)](https://dev.to/hazem_hamdy_9fb/how-to-build-a-real-time-video-calling-app-in-flutter-using-zegocloud-no-webrtc-needed-ml8) (2025-12-08)
+- [Understanding Market Movements: A Deep Look at Today’s Top Losers in NSE and BSE](https://dev.to/toplosers/understanding-market-movements-a-deep-look-at-todays-top-losers-in-nse-and-bse-2hcm) (2025-12-08)
+- [Data-Driven Commerce with AI & Personalization](https://dev.to/wecodefutures/data-driven-commerce-with-ai-personalization-1pm3) (2025-12-08)
+- [Why Software Is Not a Technical Choice — It’s a Business Strategy](https://dev.to/drilonhametaj25/why-software-is-not-a-technical-choice-its-a-business-strategy-cn6) (2025-12-08)
+- [I built a Sankey chart to map document reading paths](https://dev.to/howard_shaw_3c36a3a6cb900/i-built-a-sankey-chart-to-map-document-reading-paths-95o) (2025-12-08)
+- [Blue Team vs Red Team vs Purple Team](https://dev.to/russell/blue-team-vs-red-team-vs-purple-team-4o8c) (2025-12-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Python Libraries I Wish I Knew When I Started Coding](https://medium.com/@lubnaaly12/the-python-libraries-i-wish-i-knew-when-i-started-coding-b1075bdf708c?source=rss------programming-5) (2025-12-08)
-- [Membongkar Project Computer Vision: Bikin Sistem Penghitung Koin Otomatis (Auto Coin Counter)](https://medium.com/@fikzan12/membongkar-project-computer-vision-bikin-sistem-penghitung-koin-otomatis-auto-coin-counter-7947fc8689ba?source=rss------programming-5) (2025-12-08)
-- [Day 6: Turbopack — Complete Beginner’s Guide](https://medium.com/@shahzaibnawaz/day-6-turbopack-complete-beginners-guide-9a1e3330f178?source=rss------programming-5) (2025-12-08)
-- [NLP for Beginners: Learn It Once, Remember It Forever](https://medium.com/pen-with-paper/nlp-for-beginners-learn-it-once-remember-it-forever-7fc4640b23fe?source=rss------programming-5) (2025-12-08)
-- [Spark vs Hadoop — Comparativa de herramientas](https://medium.com/@urias.ramos/spark-vs-hadoop-comparativa-de-herramientas-6057287b207e?source=rss------programming-5) (2025-12-08)
+- [Death of the Programmer](https://medium.com/@writercjb/death-of-the-programmer-9bb3f6567349?source=rss------programming-5) (2025-12-08)
+- [✨15 TypeScript Tips & Tricks Every Developer Should Know (With Simple Examples)](https://javascript.plainenglish.io/15-typescript-tips-tricks-every-developer-should-know-with-simple-examples-d7a085746737?source=rss------programming-5) (2025-12-08)
+- [Building Type-Safe Vue Composables: A Practical Guide to Reusable Logic](https://javascript.plainenglish.io/vue-composables-typescript-complete-guide-02b6b6dbfca0?source=rss------programming-5) (2025-12-08)
+- [Stop Building Microservices: Your Spring Boot App Needs This Instead](https://blog.stackademic.com/stop-building-microservices-your-spring-boot-app-needs-this-instead-fe48ccd2bb8f?source=rss------programming-5) (2025-12-08)
+- [The Ultimate Git & GitHub Cheat Sheet Every Developer Should Save](https://javascript.plainenglish.io/the-ultimate-git-github-cheat-sheet-every-developer-should-save-95064070ae79?source=rss------programming-5) (2025-12-08)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [The Unified IntelliJ IDEA: More Free Features, a Better Experience, Smoother Flow](https://blog.jetbrains.com/idea/2025/12/intellij-idea-unified-release/) (2025-12-08)
+- [Meet the Islands Theme – The New Default Look for JetBrains IDEs](https://blog.jetbrains.com/platform/2025/12/meet-the-islands-theme-the-new-default-look-for-jetbrains-ides/) (2025-12-08)
+- [What’s Fixed in IntelliJ IDEA 2025.3](https://blog.jetbrains.com/idea/2025/12/what-s-fixed-in-intellij-idea-2025-3/) (2025-12-08)
+- [WebStorm 2025.3: Enhanced Monorepo Support, Framework Improvements, Vitest 4 Support, Multiple Agents in AI Assistant, Remote Debugging, and More](https://blog.jetbrains.com/webstorm/2025/12/webstorm-2025-3/) (2025-12-08)
 - [Bring your own AI agent to JetBrains IDEs](https://blog.jetbrains.com/ai/2025/12/bring-your-own-ai-agent-to-jetbrains-ides/) (2025-12-05)
-- [MPS 2025.3 Release Candidate Is Ready!](https://blog.jetbrains.com/mps/2025/12/the-mps-2025-3-rc1/) (2025-12-05)
-- [How to Manage Configuration Drift in Your Jenkins Environment](https://blog.jetbrains.com/teamcity/2025/12/jenkins-configuration-drift/) (2025-12-05)
-- [Java Annotated Monthly – December 2025](https://blog.jetbrains.com/idea/2025/12/java-annotated-monthly-december-2025/) (2025-12-05)
-- [The Deprecation of K1 Mode](https://blog.jetbrains.com/idea/2025/12/the-deprecation-of-k1-mode/) (2025-12-04)
 
 </details>
 
@@ -549,32 +549,32 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-use-rabbitmq-in-go
 <summary>🤗 Hugging Face</summary>
 
 - [Introducing swift-huggingface: The Complete Swift Client for Hugging Face](https://huggingface.co/blog/swift-huggingface) (2025-12-05)
+- [DeepMath: A lightweight math reasoning Agent with SmolAgents](https://huggingface.co/blog/intel-deepmath) (2025-12-04)
 - [We Got Claude to Fine-Tune an Open Source LLM](https://huggingface.co/blog/hf-skills-training) (2025-12-04)
 - [Custom Policy Enforcement with Reasoning: Faster, Safer AI Applications](https://huggingface.co/blog/nvidia/custom-policy-reasoning-nemotron-content-safety) (2025-12-02)
 - [Transformers v5: Simple model definitions powering the AI ecosystem](https://huggingface.co/blog/transformers-v5) (2025-12-01)
-- [Diffusers welcomes FLUX-2](https://huggingface.co/blog/flux-2) (2025-11-25)
 
 </details>
 
 <details>
 <summary>🤖 AI News</summary>
 
+- [Agentic AI smartphones: ByteDance signals opportunity beyond consumer hype](https://www.artificialintelligence-news.com/news/agentic-ai-smartphones-enterprise-adoption/) (2025-12-08)
 - [UK and Germany plan to commercialise quantum supercomputing](https://www.artificialintelligence-news.com/news/uk-and-germany-plan-to-commercialise-quantum-supercomputing/) (2025-12-05)
 - [Aluminium OS is the AI-powered successor to ChromeOS](https://www.artificialintelligence-news.com/news/aluminium-os-is-the-next-iteration-for-the-chromebook-range-chromeos-chrome-os/) (2025-12-05)
 - [AWS re:Invent 2025: Frontier AI agents replace chatbots](https://www.artificialintelligence-news.com/news/aws-reinvent-2025-frontier-ai-agents-replace-chatbots/) (2025-12-04)
 - [Decart uses AWS Trainium3 for real-time video generation](https://www.artificialintelligence-news.com/news/decart-uses-aws-trainium3-for-real-time-video-generation/) (2025-12-04)
-- [AI memory hunger forces Micron’s consumer exodus: A turning point in semiconductor economics](https://www.artificialintelligence-news.com/news/ai-memory-hunger-micron-consumer-exit/) (2025-12-04)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Optimizing PyTorch Model Inference on CPU](https://towardsdatascience.com/optimizing-pytorch-model-inference-on-cpu/) (2025-12-08)
 - [How to Climb the Hidden Career Ladder of Data Science](https://towardsdatascience.com/the-hidden-career-ladder-of-data-science/) (2025-12-07)
 - [The Machine Learning “Advent Calendar” Day 7: Decision Tree Classifier](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-7-decision-tree-classifier/) (2025-12-07)
 - [Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI — Clearly Explained](https://towardsdatascience.com/artificial-intelligence-machine-learning-deep-learning-and-generative-ai-clearly-explained/) (2025-12-07)
 - [Reading Research Papers in the Age of LLMs](https://towardsdatascience.com/reading-research-papers-in-the-age-of-llms/) (2025-12-06)
-- [The Machine Learning “Advent Calendar” Day 6: Decision Tree Regressor](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-6-decision-tree-regressor/) (2025-12-06)
 
 </details>
 
