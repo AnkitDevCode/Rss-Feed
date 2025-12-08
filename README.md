@@ -20,7 +20,7 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Netflix co-CEO reportedly discussed Warner Bros. deal with Trump](https://techcrunch.com/2025/12/07/netflix-co-ceo-reportedly-discussed-warner-bros-deal-with-trump/) (2025-12-07)
+- [Netflix co-CEO discussed Warner Bros. deal with Trump](https://techcrunch.com/2025/12/07/netflix-co-ceo-reportedly-discussed-warner-bros-deal-with-trump/) (2025-12-08)
 - [X deactivates European Commission’s ad account after the company was fined €120M](https://techcrunch.com/2025/12/07/x-deactivates-european-commissions-ad-account-after-the-company-was-fined-e120m/) (2025-12-07)
 - [The accelerator is on the floor for autonomous vehicles](https://techcrunch.com/2025/12/07/the-accelerator-is-on-the-floor-for-autonomous-vehicles/) (2025-12-07)
 - [Coinbase starts onboarding users again in India, plans for fiat on-ramp next year](https://techcrunch.com/2025/12/07/coinbase-starts-onboarding-users-again-in-india-plans-for-fiat-on-ramp-for-next-year/) (2025-12-07)
@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Socialist ends by market means: A history](https://lucasvance.github.io/2100/history/) (2025-12-08)
+- [Damn Small Linux](https://www.damnsmalllinux.org/) (2025-12-08)
 - [Spinlocks vs. Mutexes: When to Spin and When to Sleep](https://howtech.substack.com/p/spinlocks-vs-mutexes-when-to-spin) (2025-12-08)
+- [Toyota unintended acceleration and the big bowl of "spaghetti" code (2013)](https://www.safetyresearch.net/toyota-unintended-acceleration-and-the-big-bowl-of-spaghetti-code/) (2025-12-08)
 - [Bag of words, have mercy on us](https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us) (2025-12-07)
-- [How I block all online ads](https://troubled.engineer/posts/no-ads/) (2025-12-07)
-- [Mechanical power generation using Earth's ambient radiation](https://www.science.org/doi/10.1126/sciadv.adw6833) (2025-12-07)
-- [Iced 0.14 has been released (Rust GUI library)](https://github.com/iced-rs/iced/releases/tag/0.14.0) (2025-12-07)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [You need to watch the modern horror masterpiece, His House](https://www.theverge.com/entertainment/839753/watch-modern-horror-masterpiece-his-house) (2025-12-08)
 - [Netflix CEO made a visit to the White House before buying Warner Bros.](https://www.theverge.com/news/839749/netflix-ceo-visit-white-house-warner-bros) (2025-12-07)
 - [X cuts off the European Commission’s ad account after being fined €120 million](https://www.theverge.com/news/839742/x-cuts-off-the-european-commissions-ad-account) (2025-12-07)
 - [A very human vision for going all-in on AI](https://www.theverge.com/podcast/839718/sublime-ai-taste-curation-vergecast) (2025-12-07)
 - [What Google Glass got right — and really, really wrong](https://www.theverge.com/podcast/839712/google-glass-smart-glasses-version-history) (2025-12-07)
-- [A love letter to glory days of iPhone gaming](https://www.theverge.com/games/839050/simogo-legacy-collection-review-switch-steam) (2025-12-07)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [You Don't Hate Abstractions](https://dev.to/jerrettdavis/you-dont-hate-abstractions-3gl8) (2025-12-08)
-- [When Systems Start Failing Quietly: How Narratives Normalize Structural Collapse](https://dev.to/deeppressanalysis/when-systems-start-failing-quietly-how-narratives-normalize-structural-collapse-31gl) (2025-12-08)
-- [Why the F*ck Is Anyone Still Using FTP⁉️](https://dev.to/sephyi/why-the-fck-is-anyone-still-using-ftp-4578) (2025-12-08)
-- [Monetzly: The Future of AI Monetization for LLM Apps](https://dev.to/monetzly/monetzly-the-future-of-ai-monetization-for-llm-apps-16h5) (2025-12-08)
-- [SpecMem: How Kiroween in San Francisco Sparked the First Unified Agent Experience and Pragmatic Memory for Coding Agents](https://dev.to/shashikant86/specmem-how-kiroween-in-san-francisco-sparked-the-first-unified-agent-experience-and-pragmatic-2b99) (2025-12-08)
+- [Perl 🐪 Weekly #750 - Perl Advent Calendar 2025](https://dev.to/szabgab/perl-weekly-750-perl-advent-calendar-2025-1aga) (2025-12-08)
+- [Bounds vs. Frame and can frame be less than bounds?](https://dev.to/alekseibarinov/bounds-vs-frame-and-can-frame-be-less-than-bounds-5ga0) (2025-12-08)
+- [Chatbot vs Agent : Understanding the Architecture, Tools and Memory Layer](https://dev.to/yeahiasarker/chatbot-vs-agent-understanding-the-architecture-tools-and-memory-layer-3gop) (2025-12-08)
+- [Where Art Meets Identity A Local’s Guide to Getting a Tattoo in Croydon](https://dev.to/nsdtattoo/where-art-meets-identity-a-locals-guide-to-getting-a-tattoo-in-croydon-oon) (2025-12-08)
+- [How to Build a Real-Time Video Calling App in Flutter Using ZEGOCLOUD (No WebRTC Needed)](https://dev.to/hazem_hamdy_9fb/how-to-build-a-real-time-video-calling-app-in-flutter-using-zegocloud-no-webrtc-needed-ml8) (2025-12-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [2025 McKinsey AI Report: Shocking points…](https://medium.com/@kirantechblog/2025-mckinsey-ai-report-shocking-points-d6f87d797638?source=rss------programming-5) (2025-12-08)
-- [09336086822شماره خاله تهران شماره خاله مریوان شماره خاله کرج](https://medium.com/@shrthranasfhany/09336086822%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D8%B1%DB%8C%D9%88%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-72bf4ad62ff2?source=rss------programming-5) (2025-12-08)
-- [09336086822شماره خاله تهران شماره خاله مریوان شماره خاله کرج](https://medium.com/@shrthranasfhany/09336086822%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D8%B1%DB%8C%D9%88%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-78acb3011ea0?source=rss------programming-5) (2025-12-08)
-- [Java’s Most Dangerous Threading Bug -And Why You Probably Missed It](https://medium.com/@pmLearners/javas-most-dangerous-threading-bug-and-why-you-probably-missed-it-c3980be1b83e?source=rss------programming-5) (2025-12-08)
-- [Debugging Your Karma: The Kernel of Your Life](https://medium.com/illumination/debugging-your-karma-the-kernel-of-your-life-18e6a229fef6?source=rss------programming-5) (2025-12-08)
+- [The Python Libraries I Wish I Knew When I Started Coding](https://medium.com/@lubnaaly12/the-python-libraries-i-wish-i-knew-when-i-started-coding-b1075bdf708c?source=rss------programming-5) (2025-12-08)
+- [Membongkar Project Computer Vision: Bikin Sistem Penghitung Koin Otomatis (Auto Coin Counter)](https://medium.com/@fikzan12/membongkar-project-computer-vision-bikin-sistem-penghitung-koin-otomatis-auto-coin-counter-7947fc8689ba?source=rss------programming-5) (2025-12-08)
+- [Day 6: Turbopack — Complete Beginner’s Guide](https://medium.com/@shahzaibnawaz/day-6-turbopack-complete-beginners-guide-9a1e3330f178?source=rss------programming-5) (2025-12-08)
+- [NLP for Beginners: Learn It Once, Remember It Forever](https://medium.com/pen-with-paper/nlp-for-beginners-learn-it-once-remember-it-forever-7fc4640b23fe?source=rss------programming-5) (2025-12-08)
+- [Spark vs Hadoop — Comparativa de herramientas](https://medium.com/@urias.ramos/spark-vs-hadoop-comparativa-de-herramientas-6057287b207e?source=rss------programming-5) (2025-12-08)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [New options for AI-powered innovation, resiliency, and control with Microsoft Azure](https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/) (2025-12-03)
-- [Introducing Mistral Large 3 in Microsoft Foundry: Open, capable, and ready for production workloads](https://azure.microsoft.com/en-us/blog/introducing-mistral-large-3-in-microsoft-foundry-open-capable-and-ready-for-production-workloads/) (2025-12-02)
-- [A decade of open innovation: Celebrating 10 years of Microsoft and Red Hat partnership](https://azure.microsoft.com/en-us/blog/a-decade-of-open-innovation-celebrating-10-years-of-microsoft-and-red-hat-partnership/) (2025-12-02)
-- [Azure networking updates on security, reliability, and high availability](https://azure.microsoft.com/en-us/blog/azure-networking-updates-on-security-reliability-and-high-availability/) (2025-12-01)
-- [Introducing Claude Opus 4.5 in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/) (2025-11-24)
+- [Microsoft Foundry: Scale innovation on a modular, interoperable, and secure agent stack](https://azure.microsoft.com/en-us/blog/microsoft-foundry-scale-innovation-on-a-modular-interoperable-and-secure-agent-stack/) (2025-11-18)
+- [Azure at Microsoft Ignite 2025: All the intelligent cloud news explained](https://azure.microsoft.com/en-us/blog/azure-at-microsoft-ignite-2025-all-the-intelligent-cloud-news-explained/) (2025-11-18)
+- [Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate](https://azure.microsoft.com/en-us/blog/microsoft-databases-and-microsoft-fabric-your-unified-and-ai-powered-data-estate/) (2025-11-18)
+- [Announcing Azure Copilot agents and AI infrastructure innovations](https://azure.microsoft.com/en-us/blog/announcing-azure-copilot-agents-and-ai-infrastructure-innovations/) (2025-11-18)
+- [Introducing Anthropic’s Claude models in Microsoft Foundry: Bringing Frontier intelligence to Azure](https://azure.microsoft.com/en-us/blog/introducing-anthropics-claude-models-in-microsoft-foundry-bringing-frontier-intelligence-to-azure/) (2025-11-18)
 
 </details>
 
@@ -553,6 +553,17 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-use-rabbitmq-in-go
 - [Custom Policy Enforcement with Reasoning: Faster, Safer AI Applications](https://huggingface.co/blog/nvidia/custom-policy-reasoning-nemotron-content-safety) (2025-12-02)
 - [Transformers v5: Simple model definitions powering the AI ecosystem](https://huggingface.co/blog/transformers-v5) (2025-12-01)
 - [Diffusers welcomes FLUX-2](https://huggingface.co/blog/flux-2) (2025-11-25)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [UK and Germany plan to commercialise quantum supercomputing](https://www.artificialintelligence-news.com/news/uk-and-germany-plan-to-commercialise-quantum-supercomputing/) (2025-12-05)
+- [Aluminium OS is the AI-powered successor to ChromeOS](https://www.artificialintelligence-news.com/news/aluminium-os-is-the-next-iteration-for-the-chromebook-range-chromeos-chrome-os/) (2025-12-05)
+- [AWS re:Invent 2025: Frontier AI agents replace chatbots](https://www.artificialintelligence-news.com/news/aws-reinvent-2025-frontier-ai-agents-replace-chatbots/) (2025-12-04)
+- [Decart uses AWS Trainium3 for real-time video generation](https://www.artificialintelligence-news.com/news/decart-uses-aws-trainium3-for-real-time-video-generation/) (2025-12-04)
+- [AI memory hunger forces Micron’s consumer exodus: A turning point in semiconductor economics](https://www.artificialintelligence-news.com/news/ai-memory-hunger-micron-consumer-exit/) (2025-12-04)
 
 </details>
 
