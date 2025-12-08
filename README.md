@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Netflix co-CEO reportedly discussed Warner Bros. deal with Trump](https://techcrunch.com/2025/12/07/netflix-co-ceo-reportedly-discussed-warner-bros-deal-with-trump/) (2025-12-07)
+- [X deactivates European Commission’s ad account after the company was fined €120M](https://techcrunch.com/2025/12/07/x-deactivates-european-commissions-ad-account-after-the-company-was-fined-e120m/) (2025-12-07)
 - [The accelerator is on the floor for autonomous vehicles](https://techcrunch.com/2025/12/07/the-accelerator-is-on-the-floor-for-autonomous-vehicles/) (2025-12-07)
 - [Coinbase starts onboarding users again in India, plans for fiat on-ramp next year](https://techcrunch.com/2025/12/07/coinbase-starts-onboarding-users-again-in-india-plans-for-fiat-on-ramp-for-next-year/) (2025-12-07)
 - [OpenAI says it’s turned off app suggestions that look like ads](https://techcrunch.com/2025/12/07/openai-says-its-turned-off-app-suggestions-that-look-like-ads/) (2025-12-07)
-- [Pat Gelsinger wants to save Moore’s Law, with a little help from the Feds](https://techcrunch.com/2025/12/06/pat-gelsinger-wants-to-save-moores-law-with-a-little-help-from-the-feds/) (2025-12-07)
-- [Meta reportedly delays mixed reality glasses until 2027](https://techcrunch.com/2025/12/06/meta-reportedly-delays-mixed-reality-glasses-until-2027/) (2025-12-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Why Fighter Jets Ban 90% of C++ Features [video]](https://www.youtube.com/watch?v=Gv4sDL9Ljww) (2025-12-07)
-- [I Tried and Failed to Rebuild the 1996 Space Jam Website with Claude](https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/) (2025-12-07)
-- [Semantic Compression (2014)](https://caseymuratori.com/blog_0015) (2025-12-07)
-- [The AI Wildfire Is Coming. It's Going to Be Painful and Healthy](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going) (2025-12-07)
-- [OpenAI disables ChatGPT app suggestions that looked like ads](https://techoreon.com/openai-disables-chatgpt-app-suggestions-ads-backlash/) (2025-12-07)
+- [Spinlocks vs. Mutexes: When to Spin and When to Sleep](https://howtech.substack.com/p/spinlocks-vs-mutexes-when-to-spin) (2025-12-08)
+- [Bag of words, have mercy on us](https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us) (2025-12-07)
+- [How I block all online ads](https://troubled.engineer/posts/no-ads/) (2025-12-07)
+- [Mechanical power generation using Earth's ambient radiation](https://www.science.org/doi/10.1126/sciadv.adw6833) (2025-12-07)
+- [Iced 0.14 has been released (Rust GUI library)](https://github.com/iced-rs/iced/releases/tag/0.14.0) (2025-12-07)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Netflix CEO made a visit to the White House before buying Warner Bros.](https://www.theverge.com/news/839749/netflix-ceo-visit-white-house-warner-bros) (2025-12-07)
+- [X cuts off the European Commission’s ad account after being fined €120 million](https://www.theverge.com/news/839742/x-cuts-off-the-european-commissions-ad-account) (2025-12-07)
 - [A very human vision for going all-in on AI](https://www.theverge.com/podcast/839718/sublime-ai-taste-curation-vergecast) (2025-12-07)
 - [What Google Glass got right — and really, really wrong](https://www.theverge.com/podcast/839712/google-glass-smart-glasses-version-history) (2025-12-07)
 - [A love letter to glory days of iPhone gaming](https://www.theverge.com/games/839050/simogo-legacy-collection-review-switch-steam) (2025-12-07)
-- [Starlink made ‘work from home’ possible from anywhere — now, I&#8217;m ready for a change](https://www.theverge.com/column/837202/starlink-work-from-home) (2025-12-07)
-- [An all-time great game makes a comeback](https://www.theverge.com/tech/839273/red-dead-redemption-fizzy-installer) (2025-12-07)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Monkey Market](https://dev.to/rmion/monkey-market-1bda) (2025-12-07)
-- [The Lovable.dev Migration Guide: Moving from personal GitHub to an organization (without breaking sync)](https://dev.to/danielbetterdevelopers/the-lovabledev-migration-guide-moving-from-personal-github-to-an-organization-without-breaking-100n) (2025-12-07)
-- [RAG Workflow Pack: Diagrams and Checklists](https://dev.to/dowhatmatters/rag-workflow-pack-diagrams-and-checklists-439m) (2025-12-07)
-- [Debugging Native Code in React Native: A Step-by-Step Guide (Android & iOS)](https://dev.to/ajmal_hasan/debugging-native-code-in-react-native-a-step-by-step-guide-android-ios-14o3) (2025-12-07)
-- [Typical reinforcement learning process](https://dev.to/dipti_moryani_08e62702314/typical-reinforcement-learning-process-4mgp) (2025-12-07)
+- [You Don't Hate Abstractions](https://dev.to/jerrettdavis/you-dont-hate-abstractions-3gl8) (2025-12-08)
+- [When Systems Start Failing Quietly: How Narratives Normalize Structural Collapse](https://dev.to/deeppressanalysis/when-systems-start-failing-quietly-how-narratives-normalize-structural-collapse-31gl) (2025-12-08)
+- [Why the F*ck Is Anyone Still Using FTP⁉️](https://dev.to/sephyi/why-the-fck-is-anyone-still-using-ftp-4578) (2025-12-08)
+- [Monetzly: The Future of AI Monetization for LLM Apps](https://dev.to/monetzly/monetzly-the-future-of-ai-monetization-for-llm-apps-16h5) (2025-12-08)
+- [SpecMem: How Kiroween in San Francisco Sparked the First Unified Agent Experience and Pragmatic Memory for Coding Agents](https://dev.to/shashikant86/specmem-how-kiroween-in-san-francisco-sparked-the-first-unified-agent-experience-and-pragmatic-2b99) (2025-12-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Self-Reflection](https://medium.com/@mehrinfiza57/self-reflection-2e363fc6671e?source=rss------programming-5) (2025-12-07)
-- [** How Structured Logging With Serilog Can Make Your Life Easier](https://medium.com/@mariammaurice/how-structured-logging-with-serilog-can-make-your-life-easier-99ff3a5ec884?source=rss------programming-5) (2025-12-07)
-- [Transactional Outbox Pattern | Clean Architecture, .NET 10](https://medium.com/@michaelmaurice410/transactional-outbox-pattern-clean-architecture-net-10-e2abdb2cc583?source=rss------programming-5) (2025-12-07)
-- [Building a Database Schema for Workflow Automation with .NET 8 and Entity Framework](https://medium.com/@maged_/building-a-database-schema-for-workflow-automation-with-net-8-and-entity-framework-4fcb8ad0f5f8?source=rss------programming-5) (2025-12-07)
-- [⚙️ Spring Boot Scenario-Based Q&A-Save This for Your Next Interview ](https://medium.com/@techie_arbaaz/%EF%B8%8F-spring-boot-scenario-based-q-a-save-this-for-your-next-interview-8ea58e5a43b5?source=rss------programming-5) (2025-12-07)
+- [2025 McKinsey AI Report: Shocking points…](https://medium.com/@kirantechblog/2025-mckinsey-ai-report-shocking-points-d6f87d797638?source=rss------programming-5) (2025-12-08)
+- [09336086822شماره خاله تهران شماره خاله مریوان شماره خاله کرج](https://medium.com/@shrthranasfhany/09336086822%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D8%B1%DB%8C%D9%88%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-72bf4ad62ff2?source=rss------programming-5) (2025-12-08)
+- [09336086822شماره خاله تهران شماره خاله مریوان شماره خاله کرج](https://medium.com/@shrthranasfhany/09336086822%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D8%B1%DB%8C%D9%88%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AC-78acb3011ea0?source=rss------programming-5) (2025-12-08)
+- [Java’s Most Dangerous Threading Bug -And Why You Probably Missed It](https://medium.com/@pmLearners/javas-most-dangerous-threading-bug-and-why-you-probably-missed-it-c3980be1b83e?source=rss------programming-5) (2025-12-08)
+- [Debugging Your Karma: The Kernel of Your Life](https://medium.com/illumination/debugging-your-karma-the-kernel-of-your-life-18e6a229fef6?source=rss------programming-5) (2025-12-08)
 
 </details>
 
@@ -553,17 +553,6 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-use-rabbitmq-in-go
 - [Custom Policy Enforcement with Reasoning: Faster, Safer AI Applications](https://huggingface.co/blog/nvidia/custom-policy-reasoning-nemotron-content-safety) (2025-12-02)
 - [Transformers v5: Simple model definitions powering the AI ecosystem](https://huggingface.co/blog/transformers-v5) (2025-12-01)
 - [Diffusers welcomes FLUX-2](https://huggingface.co/blog/flux-2) (2025-11-25)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [UK and Germany plan to commercialise quantum supercomputing](https://www.artificialintelligence-news.com/news/uk-and-germany-plan-to-commercialise-quantum-supercomputing/) (2025-12-05)
-- [Aluminium OS is the AI-powered successor to ChromeOS](https://www.artificialintelligence-news.com/news/aluminium-os-is-the-next-iteration-for-the-chromebook-range-chromeos-chrome-os/) (2025-12-05)
-- [AWS re:Invent 2025: Frontier AI agents replace chatbots](https://www.artificialintelligence-news.com/news/aws-reinvent-2025-frontier-ai-agents-replace-chatbots/) (2025-12-04)
-- [Decart uses AWS Trainium3 for real-time video generation](https://www.artificialintelligence-news.com/news/decart-uses-aws-trainium3-for-real-time-video-generation/) (2025-12-04)
-- [AI memory hunger forces Micron’s consumer exodus: A turning point in semiconductor economics](https://www.artificialintelligence-news.com/news/ai-memory-hunger-micron-consumer-exit/) (2025-12-04)
 
 </details>
 
