@@ -20,110 +20,110 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [OpenAI boasts enterprise win days after internal ‘code red’ on Google threat](https://techcrunch.com/2025/12/08/openai-boasts-enterprise-win-days-after-internal-code-red-on-google-threat/) (2025-12-08)
-- [Netflix co-CEO discussed Warner Bros. deal with Trump](https://techcrunch.com/2025/12/07/netflix-co-ceo-reportedly-discussed-warner-bros-deal-with-trump/) (2025-12-08)
-- [X deactivates European Commission’s ad account after the company was fined €120M](https://techcrunch.com/2025/12/07/x-deactivates-european-commissions-ad-account-after-the-company-was-fined-e120m/) (2025-12-07)
-- [The accelerator is on the floor for autonomous vehicles](https://techcrunch.com/2025/12/07/the-accelerator-is-on-the-floor-for-autonomous-vehicles/) (2025-12-07)
-- [Coinbase starts onboarding users again in India, plans for fiat on-ramp next year](https://techcrunch.com/2025/12/07/coinbase-starts-onboarding-users-again-in-india-plans-for-fiat-on-ramp-for-next-year/) (2025-12-07)
+- [Google details security measures for Chrome’s agentic features](https://techcrunch.com/2025/12/08/google-details-security-measures-for-chromes-agentic-features/) (2025-12-08)
+- [You can buy your Instacart groceries without leaving ChatGPT](https://techcrunch.com/2025/12/08/you-can-buy-your-instacart-groceries-without-leaving-chatgpt/) (2025-12-08)
+- [TikTok adds a space for organizing content with others, teases ‘Shared Feeds’](https://techcrunch.com/2025/12/08/tiktok-adds-a-space-for-organizing-content-with-others-teases-shared-feeds/) (2025-12-08)
+- [Petco’s security lapse affected customers’ SSNs, drivers’ licenses and more ](https://techcrunch.com/2025/12/08/petcos-security-lapse-affected-customers-ssns-drivers-licenses-and-more/) (2025-12-08)
+- [Heat pump startup Quilt raises $20M Series B to expand sales](https://techcrunch.com/2025/12/08/heat-pump-startup-quilt-raises-20m-series-b-to-expand-sales/) (2025-12-08)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Nango (YC W23) is hiring back-end engineers and dev-rels (remote)](https://jobs.ashbyhq.com/Nango) (2025-12-08)
-- [Bad Dye Job](https://daringfireball.net/2025/12/bad_dye_job) (2025-12-08)
-- [Show HN: Web app that lets you send email time capsules](https://resurf.me) (2025-12-08)
-- [Survivors Clung to Wreckage for Some 45 Minutes Before U.S. Military Killed Them](https://theintercept.com/2025/12/05/boat-strike-survivors-double-tap/) (2025-12-08)
-- [12 Days of Shell](https://12days.cmdchallenge.com) (2025-12-08)
+- [Quanta to Publish Popular Math and Physics Titles by Terence Tao and David Tong](https://www.simonsfoundation.org/2025/12/08/quanta-books-to-publish-popular-math-and-physics-titles-by-terence-tao-and-david-tong/) (2025-12-08)
+- [AI should only run as fast as we can catch up](https://higashi.blog/2025/12/07/ai-verification/) (2025-12-08)
+- [Show HN: DuckDB for Kafka Stream Processing](https://sql-flow.com/docs/tutorials/intro/) (2025-12-08)
+- [Launch HN: Nia (YC S25) – Give better context to coding agents](https://www.trynia.ai/) (2025-12-08)
+- [RIP Tetsu Yamauchi (Former Free and Faces Bassist)](https://www.loudersound.com/bands-artists/former-free-and-faces-bassist-tetsu-yamauchi-dead-at-79) (2025-12-08)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Stop, Shop, and Scroll](https://www.theverge.com/cs/features/836456/influencers-tiktok-debt-shopaganda) (2025-12-08)
-- [You need to watch the modern horror masterpiece, His House](https://www.theverge.com/entertainment/839753/watch-modern-horror-masterpiece-his-house) (2025-12-08)
-- [Netflix CEO made a visit to the White House before buying Warner Bros.](https://www.theverge.com/news/839749/netflix-ceo-visit-white-house-warner-bros) (2025-12-07)
-- [X cuts off the European Commission’s ad account after being fined €120 million](https://www.theverge.com/news/839742/x-cuts-off-the-european-commissions-ad-account) (2025-12-07)
-- [A very human vision for going all in on AI](https://www.theverge.com/podcast/839718/sublime-ai-taste-curation-vergecast) (2025-12-07)
+- [A first look at Google’s Project Aura glasses built with Xreal](https://www.theverge.com/tech/839392/project-aura-android-xr-software-headsets-ai-glasses) (2025-12-08)
+- [HP OmniBook 5 14 review: an OLED is almost enough](https://www.theverge.com/tech/839858/hp-omnibook-5-14-snapdragon-arm-oled-laptop-review) (2025-12-08)
+- [Analogue is restocking its 4K N64 and making it more colorful](https://www.theverge.com/news/840068/analogue-3d-transparent-funtastic-limited-edition) (2025-12-08)
+- [Skateboarding is better in hell](https://www.theverge.com/games/840004/skate-story-review-switch-steam-ps5) (2025-12-08)
+- [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap) (2025-12-08)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Why is my dog like this? Current DNA tests won’t explain it to you.](https://arstechnica.com/science/2025/12/why-is-my-dog-like-this-current-dna-tests-wont-explain-it-to-you/) (2025-12-07)
-- [A massive, Chinese-backed port could push the Amazon Rainforest over the edge](https://arstechnica.com/science/2025/12/a-massive-chinese-backed-port-could-push-the-amazon-rainforest-over-the-edge/) (2025-12-06)
-- [Streaming service makes rare decision to lower its monthly fees](https://arstechnica.com/gadgets/2025/12/fubo-lowers-its-prices-by-up-to-15-after-losing-nbcuniversal-channels/) (2025-12-05)
-- [Netflix’s $72B WB acquisition confounds the future of movie theaters, streaming](https://arstechnica.com/gadgets/2025/12/netflixs-72b-wb-acquisition-confounds-the-future-of-movie-theaters-streaming/) (2025-12-05)
-- [Rare set of varied factors triggered Black Death](https://arstechnica.com/science/2025/12/how-volcanoes-helped-spark-the-black-death/) (2025-12-05)
+- [F1 in Abu Dhabi: And that’s the championship](https://arstechnica.com/cars/2025/12/f1-in-abu-dhabi-and-thats-the-championship/) (2025-12-08)
+- [A big bike on a budget: Lectric’s XPress 750 ](https://arstechnica.com/cars/2025/12/lectric-xpress-750-a-full-sized-bike-for-the-budget-minded/) (2025-12-08)
+- [Meta offers EU users ad-light option in push to end investigation](https://arstechnica.com/information-technology/2025/12/meta-offers-eu-users-ad-light-option-in-push-to-end-investigation/) (2025-12-08)
+- [The Boys gears up for a Supe-ocalypse in S5 teaser](https://arstechnica.com/culture/2025/12/the-boys-gears-up-for-a-supe-ocalypse-in-s5-teaser/) (2025-12-08)
+- [Please send help. I can’t stop playing these roguelikes.](https://arstechnica.com/gaming/2025/12/please-send-help-i-cant-stop-playing-these-roguelikes/) (2025-12-08)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The State of AI: A vision of the world in 2030](https://www.technologyreview.com/2025/12/08/1128922/the-state-of-ai-a-vision-of-the-world-in-2030/) (2025-12-08)
+- [The Download: four (still) big breakthroughs, and how our bodies fare in extreme heat](https://www.technologyreview.com/2025/12/08/1128982/the-download-four-still-big-breakthroughs-and-how-our-bodies-fare-in-extreme-heat/) (2025-12-08)
 - [4 technologies that didn’t make our 2026 breakthroughs list](https://www.technologyreview.com/2025/12/08/1128969/2026-breakthroughs-list-leftovers/) (2025-12-08)
 - [Harnessing human-AI collaboration for an AI roadmap that moves beyond pilots](https://www.technologyreview.com/2025/12/05/1128730/harnessing-human-ai-collaboration-for-an-ai-roadmap-that-moves-beyond-pilots/) (2025-12-05)
 - [The Download: political chatbot persuasion, and gene editing adverts](https://www.technologyreview.com/2025/12/05/1128927/the-download-political-chatbot-persuasion-gene-editing-adverts/) (2025-12-05)
-- [The ads that sell the sizzle of genetic trait discrimination](https://www.technologyreview.com/2025/12/05/1128755/selling-the-sizzle-of-trait-discrimination/) (2025-12-05)
-- [The era of AI persuasion in elections is about to begin](https://www.technologyreview.com/2025/12/05/1128837/the-era-of-ai-persuasion-in-elections-is-about-to-begin/) (2025-12-05)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [The new identity of a developer: What changes and what doesn’t in the AI era](https://github.blog/news-insights/octoverse/the-new-identity-of-a-developer-what-changes-and-what-doesnt-in-the-ai-era/) (2025-12-08)
 - [How to use GitHub Copilot Spaces to debug issues faster](https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-spaces-to-debug-issues-faster/) (2025-12-04)
 - [Your stack, your rules: Introducing custom agents in GitHub Copilot for observability, IaC, and security](https://github.blog/news-insights/product-news/your-stack-your-rules-introducing-custom-agents-in-github-copilot-for-observability-iac-and-security/) (2025-12-03)
 - [“The local-first rebellion”: How Home Assistant became the most important project in your house](https://github.blog/open-source/maintainers/the-local-first-rebellion-how-home-assistant-became-the-most-important-project-in-your-house/) (2025-12-02)
 - [How to orchestrate agents using mission control](https://github.blog/ai-and-ml/github-copilot/how-to-orchestrate-agents-using-mission-control/) (2025-12-01)
-- [The ultimate gift guide for the developer in your life](https://github.blog/news-insights/company-news/the-ultimate-gift-guide-for-the-developer-in-your-life/) (2025-11-28)
 
 </details>
 
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [The shift in enterprise AI—what we learned on the floor at Microsoft Ignite](https://stackoverflow.blog/2025/12/08/the-shift-in-enterprise-ai-what-we-learned-on-the-floor-at-microsoft-ignite/) (2025-12-08)
 - [Treating your agents like microservices](https://stackoverflow.blog/2025/12/05/treating-your-agents-like-microservices/) (2025-12-05)
 - [Postman’s journey and unlocking the power of APIs](https://stackoverflow.blog/2025/12/04/postman-s-journey-and-unlocking-the-power-of-apis/) (2025-12-04)
 - [Introducing Stack Overflow AI Assist—a tool for the modern developer](https://stackoverflow.blog/2025/12/02/introducing-stack-overflow-ai-assist-a-tool-for-the-modern-developer/) (2025-12-02)
 - [Disrupting yourself in the age of AI](https://stackoverflow.blog/2025/12/02/disrupting-yourself-in-the-age-of-ai/) (2025-12-02)
-- [Abstraction, but for robots](https://stackoverflow.blog/2025/12/02/abstraction-but-for-robots/) (2025-12-02)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Understanding Market Movements: A Deep Look at Today’s Top Losers in NSE and BSE](https://dev.to/toplosers/understanding-market-movements-a-deep-look-at-todays-top-losers-in-nse-and-bse-2hcm) (2025-12-08)
-- [Data-Driven Commerce with AI & Personalization](https://dev.to/wecodefutures/data-driven-commerce-with-ai-personalization-1pm3) (2025-12-08)
-- [Why Software Is Not a Technical Choice — It’s a Business Strategy](https://dev.to/drilonhametaj25/why-software-is-not-a-technical-choice-its-a-business-strategy-cn6) (2025-12-08)
-- [I built a Sankey chart to map document reading paths](https://dev.to/howard_shaw_3c36a3a6cb900/i-built-a-sankey-chart-to-map-document-reading-paths-95o) (2025-12-08)
-- [Blue Team vs Red Team vs Purple Team](https://dev.to/russell/blue-team-vs-red-team-vs-purple-team-4o8c) (2025-12-08)
+- [Z Image](https://dev.to/leo_king_25a8aa998a261145/z-image-3jdd) (2025-12-08)
+- [AWS re:Invent 2025 - Architecture lessons: Three failures and how to prevent them (DEV341)](https://dev.to/kazuya_dev/aws-reinvent-2025-architecture-lessons-three-failures-and-how-to-prevent-them-dev341-389b) (2025-12-08)
+- [AWS re:Invent 2025 - Monetizing agentic AI solutions: A Partner's guide for AI agents & tools-PEX112](https://dev.to/kazuya_dev/aws-reinvent-2025-monetizing-agentic-ai-solutions-a-partners-guide-for-ai-agents-tools-pex112-5g7d) (2025-12-08)
+- [AWS re:Invent 2025 - Driving Intelligent Project Portfolio Visibility with AWS + Smartsheet (BIZ210)](https://dev.to/kazuya_dev/aws-reinvent-2025-driving-intelligent-project-portfolio-visibility-with-aws-smartsheet-biz210-59gc) (2025-12-08)
+- [AWS re:Invent 2025 - Supercharge your Karpenter: Tactics for smarter K8s optimization (COP208)](https://dev.to/kazuya_dev/aws-reinvent-2025-supercharge-your-karpenter-tactics-for-smarter-k8s-optimization-cop208-1gi2) (2025-12-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Death of the Programmer](https://medium.com/@writercjb/death-of-the-programmer-9bb3f6567349?source=rss------programming-5) (2025-12-08)
-- [✨15 TypeScript Tips & Tricks Every Developer Should Know (With Simple Examples)](https://javascript.plainenglish.io/15-typescript-tips-tricks-every-developer-should-know-with-simple-examples-d7a085746737?source=rss------programming-5) (2025-12-08)
-- [Building Type-Safe Vue Composables: A Practical Guide to Reusable Logic](https://javascript.plainenglish.io/vue-composables-typescript-complete-guide-02b6b6dbfca0?source=rss------programming-5) (2025-12-08)
-- [Stop Building Microservices: Your Spring Boot App Needs This Instead](https://blog.stackademic.com/stop-building-microservices-your-spring-boot-app-needs-this-instead-fe48ccd2bb8f?source=rss------programming-5) (2025-12-08)
-- [The Ultimate Git & GitHub Cheat Sheet Every Developer Should Save](https://javascript.plainenglish.io/the-ultimate-git-github-cheat-sheet-every-developer-should-save-95064070ae79?source=rss------programming-5) (2025-12-08)
+- [React Is Not a UI Library — It’s a Dynamical System Stabilizing Chaos](https://medium.com/@ko-dropout/react-is-not-a-ui-library-its-a-dynamical-system-stabilizing-chaos-b8e4304989a6?source=rss------programming-5) (2025-12-08)
+- [Kubernetes Cheatsheet with Simple Examples (For Everyday Use)](https://medium.com/@tushar.jadhav29/kubernetes-cheatsheet-with-simple-examples-for-everyday-use-e659060fc599?source=rss------programming-5) (2025-12-08)
+- [A Realistic Plan for Transforming Business Requirements Into Architecture](https://observabilityguy.medium.com/a-realistic-plan-for-transforming-business-requirements-into-architecture-8e192ac5dbb5?source=rss------programming-5) (2025-12-08)
+- [A Practical Plan to Migrate From Monolith to Microservices Without Pain](https://medium.com/@letsCodeDevelopers/a-practical-plan-to-migrate-from-monolith-to-microservices-without-pain-d657fb99cc96?source=rss------programming-5) (2025-12-08)
+- [Don’t Let These 5 JavaScript Promises Output Break Your Interview](https://medium.com/@premiumfrontend/dont-let-these-5-javascript-promises-break-your-interview-12d217bc0275?source=rss------programming-5) (2025-12-08)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [AWS Weekly Roundup: AWS re:Invent keynote recap, on-demand videos, and more (December 8, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-reinvent-keynote-recap-on-demand-videos-and-more-december-8-2025/) (2025-12-08)
 - [Amazon Bedrock adds reinforcement ﬁne-tuning simplifying how developers build smarter, more accurate AI models](https://aws.amazon.com/blogs/aws/improve-model-accuracy-with-reinforcement-fine-tuning-in-amazon-bedrock/) (2025-12-03)
 - [New serverless customization in Amazon SageMaker AI accelerates model fine-tuning](https://aws.amazon.com/blogs/aws/new-serverless-customization-in-amazon-sagemaker-ai-accelerates-model-fine-tuning/) (2025-12-03)
 - [Introducing checkpointless and elastic training on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/aws/introducing-checkpointless-and-elastic-training-on-amazon-sagemaker-hyperpod/) (2025-12-03)
 - [Announcing replication support and Intelligent-Tiering for Amazon S3 Tables](https://aws.amazon.com/blogs/aws/announcing-replication-support-and-intelligent-tiering-for-amazon-s3-tables/) (2025-12-02)
-- [Amazon S3 Storage Lens adds performance metrics, support for billions of prefixes, and export to S3 Tables](https://aws.amazon.com/blogs/aws/amazon-s3-storage-lens-adds-performance-metrics-support-for-billions-of-prefixes-and-export-to-s3-tables/) (2025-12-02)
 
 </details>
 
@@ -152,22 +152,22 @@
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [New Requirements for Social Media Apps in Australia](https://developer.apple.com/news/?id=y1bckxf8) (2025-12-08)
 - [Hello Developer: December 2025](https://developer.apple.com/news/?id=mu3kfca2) (2025-12-04)
 - [App Store Award winners announced](https://developer.apple.com/news/?id=id45s69d) (2025-12-04)
 - [App Store Award finalists announced](https://developer.apple.com/news/?id=2d301eoy) (2025-11-19)
 - [Introducing the App Store Mini Apps Partner Program](https://developer.apple.com/news/?id=xcz1s7cz) (2025-11-13)
-- [Updated App Review Guidelines now available](https://developer.apple.com/news/?id=ey6d8onl) (2025-11-13)
 
 </details>
 
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Build for AI Glasses with the Android XR SDK Developer Preview 3 and unlock new features for immersive experiences](https://android-developers.googleblog.com/2025/12/build-for-ai-glasses-with-android-xr.html) (2025-12-08)
+- [Start building for glasses, new devices for Android XR and more in The Android Show | XR Edition](https://android-developers.googleblog.com/2025/12/start-building-for-glasses-new-devices.html) (2025-12-08)
 - [Android Studio Otter 2 Feature Drop is stable!](https://android-developers.googleblog.com/2025/12/android-studio-otter-2-feature-drop-is.html) (2025-12-04)
 - [What's new in the Jetpack Compose December '25 release](https://android-developers.googleblog.com/2025/12/whats-new-in-jetpack-compose-december.html) (2025-12-03)
 - [Android 16 QPR2 is Released](https://android-developers.googleblog.com/2025/12/android-16-qpr2-is-released.html) (2025-12-02)
-- [Explore AI on Android with Our Sample Catalog App](https://android-developers.googleblog.com/2025/12/explore-ai-on-android-with-our-sample.html) (2025-12-02)
-- [Learn about our newest Jetpack Navigation library with the Nav3 Spotlight Week](https://android-developers.googleblog.com/2025/12/learn-about-our-newest-jetpack.html) (2025-12-01)
 
 </details>
 
@@ -196,22 +196,22 @@
 <details>
 <summary>🟩 Node.js Blog</summary>
 
+- [Monday, December 15, 2025 Security Releases](https://nodejs.org/en/blog/vulnerability/december-2025-security-releases) (2025-12-08)
 - [Node.js v20.19.6 (LTS)](https://nodejs.org/en/blog/release/v20.19.6) (2025-11-25)
 - [Node.js v25.2.1 (Current)](https://nodejs.org/en/blog/release/v25.2.1) (2025-11-17)
 - [Node.js v24.11.1 (LTS)](https://nodejs.org/en/blog/release/v24.11.1) (2025-11-11)
 - [Node.js v25.2.0 (Current)](https://nodejs.org/en/blog/release/v25.2.0) (2025-11-11)
-- [Node.js v25.1.0 (Current)](https://nodejs.org/en/blog/release/v25.1.0) (2025-10-28)
 
 </details>
 
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [From Compose to Kubernetes to Cloud: Designing and Operating Infrastructure with Kanvas](https://www.docker.com/blog/compose-to-kubernetes-to-cloud-kanvas/) (2025-12-08)
 - [Docker, JetBrains, and Zed: Building a Common Language for Agents and IDEs](https://www.docker.com/blog/docker-jetbrains-and-zed-building-a-common-language-for-agents-and-ides/) (2025-12-05)
 - [Announcing vLLM v0.12.0, Ministral 3 and DeepSeek-V3.2 for Docker Model Runner](https://www.docker.com/blog/docker-model-runner-vllm-ministral-deepseek/) (2025-12-05)
 - [Securing the Docker MCP Catalog: Commit Pinning, Agentic Auditing, and Publisher Trust Levels](https://www.docker.com/blog/enhancing-mcp-trust-with-the-docker-mcp-catalog/) (2025-12-03)
 - [Building AI agents shouldn’t be hard. According to theCUBE Research, Docker makes it easy](https://www.docker.com/blog/building-ai-agents-shouldnt-be-hard-according-to-thecube-research-docker-makes-it-easy/) (2025-12-02)
-- [Run Embedding Models and Unlock Semantic Search with Docker Model Runner](https://www.docker.com/blog/run-embedding-models-for-semantic-search/) (2025-12-01)
 
 </details>
 
@@ -295,22 +295,22 @@
 <details>
 <summary>📌 Pinterest Engineering</summary>
 
+- [How Pinterest Built a Real‑Time Radar for Violative Content using AI](https://medium.com/pinterest-engineering/how-pinterest-built-a-real-time-radar-for-violative-content-using-ai-d5a108e02ac2?source=rss-ef81ef829bcb------2) (2025-12-08)
 - [Improving Quality of Recommended Content through Pinner Surveys](https://medium.com/pinterest-engineering/improving-quality-of-recommended-content-through-pinner-surveys-eebca8a52652?source=rss-ef81ef829bcb------2) (2025-12-05)
 - [On the (re)-prioritization of open-source AI](https://medium.com/pinterest-engineering/on-the-re-prioritization-of-open-source-ai-86f7279481e3?source=rss-ef81ef829bcb------2) (2025-12-04)
 - [Autonomous Observability at Pinterest (Part 1 of 2)](https://medium.com/pinterest-engineering/autonomous-observability-at-pinterest-part-1-of-2-eb0adae830ba?source=rss-ef81ef829bcb------2) (2025-12-03)
 - [Slashing CI Wait Times: How Pinterest Cut Android Testing Build Times by 36%+](https://medium.com/pinterest-engineering/slashing-ci-wait-times-how-pinterest-cut-android-testing-build-times-by-36-feb6ff121d91?source=rss-ef81ef829bcb------2) (2025-11-10)
-- [A Decade of AI Platform at Pinterest](https://medium.com/pinterest-engineering/a-decade-of-ai-platform-at-pinterest-4e3b37c0f758?source=rss-ef81ef829bcb------2) (2025-11-04)
 
 </details>
 
 <details>
 <summary>💎 JetBrains Blog</summary>
 
-- [The Unified IntelliJ IDEA: More Free Features, a Better Experience, Smoother Flow](https://blog.jetbrains.com/idea/2025/12/intellij-idea-unified-release/) (2025-12-08)
-- [Meet the Islands Theme – The New Default Look for JetBrains IDEs](https://blog.jetbrains.com/platform/2025/12/meet-the-islands-theme-the-new-default-look-for-jetbrains-ides/) (2025-12-08)
-- [What’s Fixed in IntelliJ IDEA 2025.3](https://blog.jetbrains.com/idea/2025/12/what-s-fixed-in-intellij-idea-2025-3/) (2025-12-08)
-- [WebStorm 2025.3: Enhanced Monorepo Support, Framework Improvements, Vitest 4 Support, Multiple Agents in AI Assistant, Remote Debugging, and More](https://blog.jetbrains.com/webstorm/2025/12/webstorm-2025-3/) (2025-12-08)
-- [Bring your own AI agent to JetBrains IDEs](https://blog.jetbrains.com/ai/2025/12/bring-your-own-ai-agent-to-jetbrains-ides/) (2025-12-05)
+- [The Future of Fleet](https://blog.jetbrains.com/fleet/2025/12/the-future-of-fleet/) (2025-12-08)
+- [PhpStorm 2025.3 Is Now Out](https://blog.jetbrains.com/phpstorm/2025/12/phpstorm-2025-3-is-now-out/) (2025-12-08)
+- [Kubernetes Made Simple: A Guide for JVM Developers](https://blog.jetbrains.com/kotlin/2025/12/kubernetes-made-simple-a-guide-for-jvm-developers/) (2025-12-08)
+- [Junie Now Integrated Into the AI Chat](https://blog.jetbrains.com/ai/2025/12/junie-now-integrated-into-the-ai-chat/) (2025-12-08)
+- [GoLand 2025.3 Is Out!](https://blog.jetbrains.com/go/2025/12/08/goland-2025-3-is-out/) (2025-12-08)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Python Workers redux: fast cold starts, packages, and a uv-first workflow](https://blog.cloudflare.com/python-workers-advancements/) (2025-12-08)
 - [Cloudflare outage on December 5, 2025](https://blog.cloudflare.com/5-december-2025-outage/) (2025-12-05)
 - [Cloudflare WAF proactively protects against React vulnerability](https://blog.cloudflare.com/waf-rules-react-vulnerability/) (2025-12-03)
 - [Cloudflare's 2025 Q3 DDoS threat report -- including Aisuru, the apex of botnets](https://blog.cloudflare.com/ddos-threat-report-2025-q3/) (2025-12-03)
 - [Why Replicate is joining Cloudflare](https://blog.cloudflare.com/why-replicate-joining-cloudflare/) (2025-12-01)
-- [Partnering with Black Forest Labs to bring FLUX.2 [dev] to Workers AI](https://blog.cloudflare.com/flux-2-workers-ai/) (2025-11-25)
 
 </details>
 
@@ -392,13 +392,13 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-use-rabbitmq-in-go
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Honeypots: A Simple Trap for Spam Registration Bots](https://auth0.com/blog/honeypots-simple-bot-trap/) (2025-12-08)
 - [A New Auth0 ASP.NET SDK to Secure Your API
 ](https://auth0.com/blog/auth0-aspnetcore-authentication-api-sdk-beta/) (2025-12-05)
 - [How to Add Sign in with Vercel to Auth0](https://auth0.com/blog/add-sign-in-vercel-auth0/) (2025-12-04)
 - [How Startups can Leverage Auth0’s B2B Capabilities](https://auth0.com/blog/how-startups-leverage-auth0-b2b-capabilities/) (2025-12-03)
 - [Next.js 16: What’s New for Authentication and Authorization
 ](https://auth0.com/blog/whats-new-nextjs-16/) (2025-12-01)
-- [Auth0 MAU Explained: How to Calculate and Optimize Your Costs](https://auth0.com/blog/auth0-monthly-active-user-mau-explained/) (2025-11-28)
 
 </details>
 
@@ -482,11 +482,11 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-use-rabbitmq-in-go
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
+- [Master Hybrid Reasoning with the New Agent Script Recipes Sample App](https://developer.salesforce.com/blogs/2025/12/master-hybrid-reasoning-with-the-new-agent-script-recipes-sample-app.html) (2025-12-08)
 - [Automate Your Move to the Omnistudio Standard Runtime with the New Migration Assistant](https://developer.salesforce.com/blogs/2025/12/automate-your-move-to-the-omnistudio-standard-runtime-with-the-new-migration-assistant.html) (2025-12-02)
 - [Auto-Generate Agent Test Cases from Agentforce Data Libraries](https://developer.salesforce.com/blogs/2025/11/auto-generate-agent-test-cases-from-agentforce-data-libraries.html) (2025-11-20)
 - [Automate Multi-Turn Agent Testing with Conversation History in Agentforce](https://developer.salesforce.com/blogs/2025/11/automate-multi-turn-agent-testing-with-conversation-history-in-agentforce.html) (2025-11-13)
 - [Build Mobile, Offline-Ready LWCs with Agentforce Vibes](https://developer.salesforce.com/blogs/2025/11/build-mobile-offline-ready-lwcs-with-agentforce-vibes.html) (2025-11-11)
-- [名前付きクエリAPIで、AIエージェントやアプリケーションによるデータアクセスを簡略化](https://developer.salesforce.com/blogs/2025/11/named-query-api-simplifies-data-access-for-agents-and-apps-jp.html) (2025-11-08)
 
 </details>
 
@@ -559,55 +559,55 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-use-rabbitmq-in-go
 <details>
 <summary>🤖 AI News</summary>
 
-- [Agentic AI smartphones: ByteDance signals opportunity beyond consumer hype](https://www.artificialintelligence-news.com/news/agentic-ai-smartphones-enterprise-adoption/) (2025-12-08)
-- [UK and Germany plan to commercialise quantum supercomputing](https://www.artificialintelligence-news.com/news/uk-and-germany-plan-to-commercialise-quantum-supercomputing/) (2025-12-05)
-- [Aluminium OS is the AI-powered successor to ChromeOS](https://www.artificialintelligence-news.com/news/aluminium-os-is-the-next-iteration-for-the-chromebook-range-chromeos-chrome-os/) (2025-12-05)
-- [AWS re:Invent 2025: Frontier AI agents replace chatbots](https://www.artificialintelligence-news.com/news/aws-reinvent-2025-frontier-ai-agents-replace-chatbots/) (2025-12-04)
-- [Decart uses AWS Trainium3 for real-time video generation](https://www.artificialintelligence-news.com/news/decart-uses-aws-trainium3-for-real-time-video-generation/) (2025-12-04)
+- [Instacart pilots agentic commerce by embedding in ChatGPT](https://www.artificialintelligence-news.com/news/instacart-pilots-agentic-commerce-by-embedding-in-chatgpt/) (2025-12-08)
+- [OpenAI: Enterprise users swap AI pilots for deep integrations](https://www.artificialintelligence-news.com/news/openai-enterprise-users-swap-ai-pilots-for-deep-integrations/) (2025-12-08)
+- [Battling algorithmic bias in digital payments leads to competition win](https://www.artificialintelligence-news.com/news/ai-algorithmic-bias-in-digital-payments-leads-to-competition-win/) (2025-12-08)
+- [Google, Sony Innovation Fund, and Okta back Resemble AI’s push into deepfake detection](https://www.artificialintelligence-news.com/news/google-sony-and-okta-back-resemble-ai-push-into-deepfake-detection/) (2025-12-08)
+- [UK doctors’ surgeries deploying AI in patient care](https://www.artificialintelligence-news.com/news/medical-ai-in-the-uk-doctors-clinicians-surgeries-and-general-administrative-workloads/) (2025-12-08)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Machine Learning “Advent Calendar” Day 8: Isolation Forest in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-8-isolation-forest-in-excel/) (2025-12-08)
+- [The AI Bubble Will Pop — And Why That Doesn’t Matter](https://towardsdatascience.com/the-ai-bubble-will-pop-and-why-that-doesnt-matter/) (2025-12-08)
+- [How to Create an ML-Focused Newsletter](https://towardsdatascience.com/how-to-create-an-ml-focused-newsletter/) (2025-12-08)
 - [Optimizing PyTorch Model Inference on CPU](https://towardsdatascience.com/optimizing-pytorch-model-inference-on-cpu/) (2025-12-08)
 - [How to Climb the Hidden Career Ladder of Data Science](https://towardsdatascience.com/the-hidden-career-ladder-of-data-science/) (2025-12-07)
-- [The Machine Learning “Advent Calendar” Day 7: Decision Tree Classifier](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-7-decision-tree-classifier/) (2025-12-07)
-- [Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI — Clearly Explained](https://towardsdatascience.com/artificial-intelligence-machine-learning-deep-learning-and-generative-ai-clearly-explained/) (2025-12-07)
-- [Reading Research Papers in the Age of LLMs](https://towardsdatascience.com/reading-research-papers-in-the-age-of-llms/) (2025-12-06)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Subliminal Learning: How AI Models Inherit Hidden Dangers](https://www.analyticsvidhya.com/blog/2025/12/subliminal-learning-in-ai/) (2025-12-08)
+- [Agent Frameworks vs Runtime vs Harnesses: What They Are and When to Use Which ](https://www.analyticsvidhya.com/blog/2025/12/agent-frameworks-vs-runtimes-vs-harnesses/) (2025-12-08)
 - [How Confessions Can Keep Language Models Honest?](https://www.analyticsvidhya.com/blog/2025/12/confessions-in-language-models/) (2025-12-07)
 - [Data Science Learning Path for 2026](https://www.analyticsvidhya.com/blog/2025/12/data-scientist-roadmap/) (2025-12-07)
 - [Qwen3-TTS-Flash Review: The Most Realistic Open TTS Model Yet?](https://www.analyticsvidhya.com/blog/2025/12/qwen3-tts-flash-review/) (2025-12-06)
-- [How to Detect AI-Generated Content?](https://www.analyticsvidhya.com/blog/2025/12/how-to-detect-ai-generated-content/) (2025-12-06)
-- [Create an Agent that can Learn from Interactions using AutoGen ](https://www.analyticsvidhya.com/blog/2025/12/autogen-teachable-agent/) (2025-12-06)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Statistics at the Command Line for Beginner Data Scientists](https://www.kdnuggets.com/statistics-at-the-command-line-for-beginner-data-scientists) (2025-12-08)
+- [Top 5 Open-Source LLM Evaluation Platforms](https://www.kdnuggets.com/top-5-open-source-llm-evaluation-platforms) (2025-12-08)
 - [The Best Web Scraping APIs for AI Models in 2026](https://www.kdnuggets.com/2025/12/brightdata/the-best-web-scraping-apis-for-ai-models-in-2026) (2025-12-07)
 - [Pixi: A Smarter Way to Manage Python Environments](https://www.kdnuggets.com/pixi-a-smarter-way-to-manage-python-environments) (2025-12-05)
 - [Top 5 Small AI Coding Models That You Can Run Locally](https://www.kdnuggets.com/top-5-small-ai-coding-models-that-you-can-run-locally) (2025-12-05)
-- [The Best Proxy Providers for Large-Scale Scraping for 2026](https://www.kdnuggets.com/2025/11/brightdata/the-best-proxy-providers-for-large-scale-scraping-for-2026) (2025-12-04)
-- [Emergent Introspective Awareness in Large Language Models](https://www.kdnuggets.com/emergent-introspective-awareness-in-large-language-models) (2025-12-04)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Creating a Llama or GPT Model for Next-Token Prediction](https://machinelearningmastery.com/creating-a-llama-or-gpt-model-for-next-token-prediction/) (2025-12-08)
+- [Top 5 Agentic AI LLM Models](https://machinelearningmastery.com/top-5-agentic-ai-llm-models/) (2025-12-08)
+- [Training a Tokenizer for Llama Model](https://machinelearningmastery.com/training-a-tokenizer-for-llama-model/) (2025-12-05)
 - [Prompt Engineering for Time Series Analysis](https://machinelearningmastery.com/prompt-engineering-for-time-series-analysis/) (2025-12-04)
 - [The Complete Guide to Using Pydantic for Validating LLM Outputs](https://machinelearningmastery.com/the-complete-guide-to-using-pydantic-for-validating-llm-outputs/) (2025-12-03)
-- [The Roadmap for Mastering Agentic AI in 2026](https://machinelearningmastery.com/the-roadmap-for-mastering-agentic-ai-in-2026/) (2025-12-02)
-- [Prompt Compression for LLM Generation Optimization and Cost Reduction](https://machinelearningmastery.com/prompt-compression-for-llm-generation-optimization-and-cost-reduction/) (2025-12-01)
-- [How to Speed-Up Training of Language Models](https://machinelearningmastery.com/how-to-speed-up-training-of-language-models/) (2025-11-30)
 
 </details>
 
