@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Modern Walkmans](https://walkman.land/modern) (2025-12-09)
-- [The Lost Machine Automats and Self-Service Cafeterias of NYC (2023)](https://www.untappedcities.com/automats-cafeterias-nyc/) (2025-12-09)
-- [Scientific and Technical Amateur Radio](https://destevez.net/) (2025-12-09)
-- [Horses: AI progress is steady. Human equivalence is sudden](https://andyljones.com/posts/horses.html) (2025-12-09)
-- [The universal weight subspace hypothesis](https://arxiv.org/abs/2512.05117) (2025-12-09)
+- [Brent's Encapsulated C Programming Rules (2020)](https://retroscience.net/brents-c-programming-rules.html) (2025-12-09)
+- [Show HN: AlgoDrill – Interactive drills to stop forgetting LeetCode patterns](https://algodrill.io) (2025-12-09)
+- [ZX Spectrum Next on the Internet: Xberry Pi ESP01 and Pi Zero Upgrades](https://retrogamecoders.com/zx-spectrum-next-on-the-internet-xberry-pi-esp01-and-pi-zero-upgrades/) (2025-12-09)
+- [Morphisms All the Way Down: API Design as Arrow-First Thinking](https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-2/) (2025-12-09)
+- [The Joy of Playing Grandia, on Sega Saturn](https://www.segasaturnshiro.com/2025/11/27/the-joy-of-playing-grandia-on-sega-saturn/) (2025-12-09)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals) (2025-12-08)
-- [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops) (2025-12-08)
-- [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple) (2025-12-08)
-- [The 34 best gifts that your teen will actually use](https://www.theverge.com/tech/785418/best-teen-gift-ideas-2025) (2025-12-08)
-- [The Apple Watch Series 11 just got a big $100 discount ahead of the holidays](https://www.theverge.com/gadgets/840161/apple-watch-series-11-holiday-deal-sale-2025) (2025-12-08)
+- [The war on disinformation is a losing battle](https://www.theverge.com/features/839853/disinformation-wars-censorship-right-wing) (2025-12-09)
+- [Trump says Nvidia can sell more powerful AI chips to China](https://www.theverge.com/news/840557/nvidia-h200-ai-chips-china-exports-us) (2025-12-09)
+- [RAM is ruining everything](https://www.theverge.com/report/839506/ram-shortage-price-increases-pc-gaming-smartphones) (2025-12-09)
+- [Google Zero is under investigation by the EU](https://www.theverge.com/news/840547/google-zero-eu-antitrust-investigation-ai-content) (2025-12-09)
+- [You can put the best part of Fairphone&#8217;s new headphones into the older model](https://www.theverge.com/news/839481/fairphone-xl-wireless-headphones-repairable-modular) (2025-12-09)
 
 </details>
 
@@ -68,7 +68,7 @@
 - [The Download: four (still) big breakthroughs, and how our bodies fare in extreme heat](https://www.technologyreview.com/2025/12/08/1128982/the-download-four-still-big-breakthroughs-and-how-our-bodies-fare-in-extreme-heat/) (2025-12-08)
 - [4 technologies that didn’t make our 2026 breakthroughs list](https://www.technologyreview.com/2025/12/08/1128969/2026-breakthroughs-list-leftovers/) (2025-12-08)
 - [Harnessing human-AI collaboration for an AI roadmap that moves beyond pilots](https://www.technologyreview.com/2025/12/05/1128730/harnessing-human-ai-collaboration-for-an-ai-roadmap-that-moves-beyond-pilots/) (2025-12-05)
-- [The Download: political chatbot persuasion, and gene editing adverts](https://www.technologyreview.com/2025/12/05/1128927/the-download-political-chatbot-persuasion-gene-editing-adverts/) (2025-12-05)
+- [The Download: political chatbot persuasion, and genetic optimization adverts](https://www.technologyreview.com/2025/12/05/1128927/the-download-political-chatbot-persuasion-gene-editing-adverts/) (2025-12-05)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Jupyter Notebook Cheatsheet](https://dev.to/rosgluk/jupyter-notebook-cheatsheet-h8k) (2025-12-09)
-- [What emerging tech are you most excited or concerned about in 2026?](https://dev.to/lucassanderson/what-emerging-tech-are-you-most-excited-or-concerned-about-in-2026-2891) (2025-12-09)
-- [How to Fix CORS Errors in MERN (The Secure Way)](https://dev.to/mayankrsagar/how-to-fix-cors-errors-in-mern-the-secure-way-4c1k) (2025-12-09)
-- [[AWS] DevTools Evangelism CodeBuild Edition [CodeBuild]](https://dev.to/aws-builders/aws-devtools-evangelism-codebuild-edition-codebuild-hki) (2025-12-09)
-- [Your Guide to Mastering Email Forwarding](https://dev.to/itcs11/your-guide-to-mastering-email-forwarding-3cop) (2025-12-09)
+- [Protect Your AI Agent Fleets with MachineID.io — Drop-In Templates for Python, LangChain, Swarm & CrewAI](https://dev.to/machineid/protect-your-ai-agent-fleets-with-machineidio-drop-in-templates-for-python-langchain-swarm--17c9) (2025-12-09)
+- [Zero-Friction AI Dev: Build and Deploy Chatbots with a Single Docker Compose File](https://dev.to/m_josh/zero-friction-ai-dev-build-and-deploy-chatbots-with-a-single-docker-compose-file-alj) (2025-12-09)
+- [30 Days of Data Engineering Challenge — Day 2: Data Engineering vs Data Science vs Data Analytics](https://dev.to/pawandeore/30-days-of-data-engineering-challenge-day-2-data-engineering-vs-data-science-vs-data-analytics-4nbf) (2025-12-09)
+- [whatis htop](https://dev.to/scorcism/whatis-htop-4j8h) (2025-12-09)
+- [Streaming Agents on AWS](https://dev.to/aws/streaming-agents-on-aws-3610) (2025-12-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Top 5 Best XML to JSON Converters: A Comprehensive Guide](https://rheowilliams.medium.com/top-5-best-xml-to-json-converters-a-comprehensive-guide-84227a46ac53?source=rss------programming-5) (2025-12-09)
-- [5 Tech Jobs That Won’t Exist by 2030 — Based on What Amazon Just Announced](https://medium.com/codetodeploy/5-tech-jobs-that-wont-exist-by-2030-based-on-what-amazon-just-announced-1afe72e818a5?source=rss------programming-5) (2025-12-09)
-- [Python OOP: Class Methods — Factory Methods for Your Classes](https://python.plainenglish.io/python-oop-class-methods-factory-methods-for-your-classes-b3f9d7072cfa?source=rss------programming-5) (2025-12-09)
-- [Your Content Isn’t Dying — It’s Just Not Hitting Hard Enough](https://medium.com/@mj06092000/your-content-isnt-dying-it-s-just-not-hitting-hard-enough-905aa7264cf9?source=rss------programming-5) (2025-12-09)
-- [The Rise of Agentic Microservices: Building AI-First, Event-Driven Architectures in 2025](https://medium.com/@prathameshshinde0555/the-rise-of-agentic-microservices-building-ai-first-event-driven-architectures-in-2025-e2d4f788867a?source=rss------programming-5) (2025-12-09)
+- [How I Built My First VS Code Extension](https://medium.com/@dnyamai.dn/how-i-built-my-first-vs-code-extension-45ca158b9aae?source=rss------programming-5) (2025-12-09)
+- [19 minutes 34 second viral video](https://medium.com/blog-newsbreak/19-minutes-34-second-viral-video-cd59eb8e2fe7?source=rss------programming-5) (2025-12-09)
+- [CVE-2025-55182 (React2Shell) : The Vulnerability Nobody Asked For](https://medium.com/@x3rx3s.s3c/cve-2025-55182-react2shell-the-vulnerability-nobody-asked-for-efd97431efef?source=rss------programming-5) (2025-12-09)
+- [Is it necessary to close files?](https://medium.com/@pratyushprajapati1/is-it-necessary-to-close-files-941668bd3c0c?source=rss------programming-5) (2025-12-09)
+- [7 Essential Scholarships for International Students in the USA.](https://medium.com/@gterahub/7-essential-scholarships-for-international-students-in-the-usa-6d1b8ff79fd8?source=rss------programming-5) (2025-12-09)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Join the RubyMine Team on Reddit AMA Session](https://blog.jetbrains.com/ruby/2025/12/join-the-rubymine-team-on-reddit-ama-session/) (2025-12-09)
 - [PyCharm 2025.3 – Unified IDE, Jupyter notebooks in remote development, uv as default, and more](https://blog.jetbrains.com/pycharm/2025/12/pycharm-2025-3-unified-ide-jupyter-notebooks-in-remote-development-uv-as-default-and-more/) (2025-12-08)
 - [The Future of Fleet](https://blog.jetbrains.com/fleet/2025/12/the-future-of-fleet/) (2025-12-08)
 - [PhpStorm 2025.3 Is Now Out](https://blog.jetbrains.com/phpstorm/2025/12/phpstorm-2025-3-is-now-out/) (2025-12-08)
 - [Kubernetes Made Simple: A Guide for JVM Developers](https://blog.jetbrains.com/kotlin/2025/12/kubernetes-made-simple-a-guide-for-jvm-developers/) (2025-12-08)
-- [Junie Now Integrated Into the AI Chat](https://blog.jetbrains.com/ai/2025/12/junie-now-integrated-into-the-ai-chat/) (2025-12-08)
 
 </details>
 
@@ -549,7 +549,7 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-use-rabbitmq-in-go
 <summary>🤗 Hugging Face</summary>
 
 - [Introducing swift-huggingface: The Complete Swift Client for Hugging Face](https://huggingface.co/blog/swift-huggingface) (2025-12-05)
-- [DeepMath: A lightweight math reasoning Agent with SmolAgents](https://huggingface.co/blog/intel-deepmath) (2025-12-04)
+- [DeepMath: A lightweight math reasoning Agent with smolagents](https://huggingface.co/blog/intel-deepmath) (2025-12-04)
 - [We Got Claude to Fine-Tune an Open Source LLM](https://huggingface.co/blog/hf-skills-training) (2025-12-04)
 - [Custom Policy Enforcement with Reasoning: Faster, Safer AI Applications](https://huggingface.co/blog/nvidia/custom-policy-reasoning-nemotron-content-safety) (2025-12-02)
 - [Transformers v5: Simple model definitions powering the AI ecosystem](https://huggingface.co/blog/transformers-v5) (2025-12-01)
@@ -559,33 +559,33 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-use-rabbitmq-in-go
 <details>
 <summary>🤖 AI News</summary>
 
+- [How people really use AI: The surprising truth from analysing billions of interactions](https://www.artificialintelligence-news.com/news/how-people-really-use-ai-the-surprising-truth-from-analysing-billions-of-interactions/) (2025-12-09)
+- [Newsweek: Building AI-resilience for the next era of information](https://www.artificialintelligence-news.com/news/newsweek-building-ai-resilience-for-the-next-era-of-information/) (2025-12-09)
 - [Instacart pilots agentic commerce by embedding in ChatGPT](https://www.artificialintelligence-news.com/news/instacart-pilots-agentic-commerce-by-embedding-in-chatgpt/) (2025-12-08)
 - [OpenAI: Enterprise users swap AI pilots for deep integrations](https://www.artificialintelligence-news.com/news/openai-enterprise-users-swap-ai-pilots-for-deep-integrations/) (2025-12-08)
 - [Battling algorithmic bias in digital payments leads to competition win](https://www.artificialintelligence-news.com/news/ai-algorithmic-bias-in-digital-payments-leads-to-competition-win/) (2025-12-08)
-- [Google, Sony Innovation Fund, and Okta back Resemble AI’s push into deepfake detection](https://www.artificialintelligence-news.com/news/google-sony-and-okta-back-resemble-ai-push-into-deepfake-detection/) (2025-12-08)
-- [UK doctors’ surgeries deploying AI in patient care](https://www.artificialintelligence-news.com/news/medical-ai-in-the-uk-doctors-clinicians-surgeries-and-general-administrative-workloads/) (2025-12-08)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [A Realistic Roadmap to Start an AI Career in 2026](https://towardsdatascience.com/a-realistic-roadmap-to-start-an-ai-career-in-2026/) (2025-12-09)
 - [Bridging the Silence: How LEO Satellites and Edge AI Will Democratize Connectivity](https://towardsdatascience.com/bridging-the-silence-how-leo-satellites-and-edge-ai-will-democratize-connectivity/) (2025-12-08)
 - [The Machine Learning “Advent Calendar” Day 8: Isolation Forest in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-8-isolation-forest-in-excel/) (2025-12-08)
 - [The AI Bubble Will Pop — And Why That Doesn’t Matter](https://towardsdatascience.com/the-ai-bubble-will-pop-and-why-that-doesnt-matter/) (2025-12-08)
 - [How to Create an ML-Focused Newsletter](https://towardsdatascience.com/how-to-create-an-ml-focused-newsletter/) (2025-12-08)
-- [Optimizing PyTorch Model Inference on CPU](https://towardsdatascience.com/optimizing-pytorch-model-inference-on-cpu/) (2025-12-08)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [10 Ways to Slash Inference Costs with OpenAI LLMs](https://www.analyticsvidhya.com/blog/2025/12/llm-cost-optimization/) (2025-12-09)
+- [Top 10 Agentic AI Chrome Extensions](https://www.analyticsvidhya.com/blog/2025/12/agentic-ai-chrome-extensions/) (2025-12-09)
 - [Subliminal Learning: How AI Models Inherit Hidden Dangers](https://www.analyticsvidhya.com/blog/2025/12/subliminal-learning-in-ai/) (2025-12-08)
 - [Agent Frameworks vs Runtime vs Harnesses: What They Are and When to Use Which ](https://www.analyticsvidhya.com/blog/2025/12/agent-frameworks-vs-runtimes-vs-harnesses/) (2025-12-08)
 - [How Confessions Can Keep Language Models Honest?](https://www.analyticsvidhya.com/blog/2025/12/confessions-in-language-models/) (2025-12-07)
-- [Data Science Learning Path for 2026](https://www.analyticsvidhya.com/blog/2025/12/data-scientist-roadmap/) (2025-12-07)
-- [Qwen3-TTS-Flash Review: The Most Realistic Open TTS Model Yet?](https://www.analyticsvidhya.com/blog/2025/12/qwen3-tts-flash-review/) (2025-12-06)
 
 </details>
 
