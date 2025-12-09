@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Modern Walkmans](https://walkman.land/modern) (2025-12-09)
 - [The Lost Machine Automats and Self-Service Cafeterias of NYC (2023)](https://www.untappedcities.com/automats-cafeterias-nyc/) (2025-12-09)
 - [Scientific and Technical Amateur Radio](https://destevez.net/) (2025-12-09)
 - [Horses: AI progress is steady. Human equivalence is sudden](https://andyljones.com/posts/horses.html) (2025-12-09)
-- [The Universal Weight Subspace Hypothesis](https://arxiv.org/abs/2512.05117) (2025-12-09)
-- [Kroger acknowledges that its bet on robotics went too far](https://www.grocerydive.com/news/kroger-ocado-close-automated-fulfillment-centers-robotics-grocery-ecommerce/805931/) (2025-12-08)
+- [The universal weight subspace hypothesis](https://arxiv.org/abs/2512.05117) (2025-12-09)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Kubernetes Auto-Scaling with Karpenter: The Smart Way to Scale on AWS EKS 🚀](https://dev.to/omarmfathy219/kubernetes-auto-scaling-with-karpenter-the-smart-way-to-scale-on-aws-eks-5bao) (2025-12-09)
-- [DIY Bluetooth Speaker – Build a Compact Portable Audio System](https://dev.to/messin_tom/diy-bluetooth-speaker-build-a-compact-portable-audio-system-1i89) (2025-12-09)
-- [🚦 Adaptive IoT Traffic Lights: Building a Smarter Traffic System with ESP32](https://dev.to/messin_tom/adaptive-iot-traffic-lights-building-a-smarter-traffic-system-with-esp32-16dg) (2025-12-09)
-- [**NFL Catch Rule Controversy: Ravens Coach John Harbaugh Calls for Clarity**](https://dev.to/yagyaraj_sharma_6cd410179/nfl-catch-rule-controversy-ravens-coach-john-harbaugh-calls-for-clarity-12mj) (2025-12-09)
-- [EC2 Lab: Launching an Instance in a Private Subnet (Private Access)](https://dev.to/figueroaeandres/ec2-lab-launching-an-instance-in-a-private-subnet-private-access-5d1e) (2025-12-09)
+- [Jupyter Notebook Cheatsheet](https://dev.to/rosgluk/jupyter-notebook-cheatsheet-h8k) (2025-12-09)
+- [What emerging tech are you most excited or concerned about in 2026?](https://dev.to/lucassanderson/what-emerging-tech-are-you-most-excited-or-concerned-about-in-2026-2891) (2025-12-09)
+- [How to Fix CORS Errors in MERN (The Secure Way)](https://dev.to/mayankrsagar/how-to-fix-cors-errors-in-mern-the-secure-way-4c1k) (2025-12-09)
+- [[AWS] DevTools Evangelism CodeBuild Edition [CodeBuild]](https://dev.to/aws-builders/aws-devtools-evangelism-codebuild-edition-codebuild-hki) (2025-12-09)
+- [Your Guide to Mastering Email Forwarding](https://dev.to/itcs11/your-guide-to-mastering-email-forwarding-3cop) (2025-12-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [My 0 Dollar Roo Code Setup And Why I Am Not Paying For Tokens Anymore](https://medium.com/@neonmaxima/my-0-dollar-roo-code-setup-and-why-i-am-not-paying-for-tokens-anymore-66930819f102?source=rss------programming-5) (2025-12-09)
-- [The Great Developer Hiring Freeze: 49% Job Drop, But Here’s How You Survive](https://medium.com/@alaxhenry0121/the-great-developer-hiring-freeze-49-job-drop-but-heres-how-you-survive-1119a974ea4d?source=rss------programming-5) (2025-12-09)
-- [Python Tips — The “with” Context Manager](https://tonylixu.medium.com/python-tips-the-with-context-manager-da69bcc13ab5?source=rss------programming-5) (2025-12-09)
-- [Spring Boot 4 Is Coming — And It Changes Everything You Know](https://medium.com/@pmLearners/spring-boot-4-is-coming-and-it-changes-everything-you-know-e77a7c3c244f?source=rss------programming-5) (2025-12-09)
-- [73% of Apps Fail Because of THIS Architecture Mistake (MVVM Could Save Yours)](https://medium.com/@alaxhenry0121/73-of-apps-fail-because-of-this-architecture-mistake-mvvm-could-save-yours-0e601d588eed?source=rss------programming-5) (2025-12-09)
+- [Top 5 Best XML to JSON Converters: A Comprehensive Guide](https://rheowilliams.medium.com/top-5-best-xml-to-json-converters-a-comprehensive-guide-84227a46ac53?source=rss------programming-5) (2025-12-09)
+- [5 Tech Jobs That Won’t Exist by 2030 — Based on What Amazon Just Announced](https://medium.com/codetodeploy/5-tech-jobs-that-wont-exist-by-2030-based-on-what-amazon-just-announced-1afe72e818a5?source=rss------programming-5) (2025-12-09)
+- [Python OOP: Class Methods — Factory Methods for Your Classes](https://python.plainenglish.io/python-oop-class-methods-factory-methods-for-your-classes-b3f9d7072cfa?source=rss------programming-5) (2025-12-09)
+- [Your Content Isn’t Dying — It’s Just Not Hitting Hard Enough](https://medium.com/@mj06092000/your-content-isnt-dying-it-s-just-not-hitting-hard-enough-905aa7264cf9?source=rss------programming-5) (2025-12-09)
+- [The Rise of Agentic Microservices: Building AI-First, Event-Driven Architectures in 2025](https://medium.com/@prathameshshinde0555/the-rise-of-agentic-microservices-building-ai-first-event-driven-architectures-in-2025-e2d4f788867a?source=rss------programming-5) (2025-12-09)
 
 </details>
 
@@ -553,6 +553,17 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-use-rabbitmq-in-go
 - [We Got Claude to Fine-Tune an Open Source LLM](https://huggingface.co/blog/hf-skills-training) (2025-12-04)
 - [Custom Policy Enforcement with Reasoning: Faster, Safer AI Applications](https://huggingface.co/blog/nvidia/custom-policy-reasoning-nemotron-content-safety) (2025-12-02)
 - [Transformers v5: Simple model definitions powering the AI ecosystem](https://huggingface.co/blog/transformers-v5) (2025-12-01)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Instacart pilots agentic commerce by embedding in ChatGPT](https://www.artificialintelligence-news.com/news/instacart-pilots-agentic-commerce-by-embedding-in-chatgpt/) (2025-12-08)
+- [OpenAI: Enterprise users swap AI pilots for deep integrations](https://www.artificialintelligence-news.com/news/openai-enterprise-users-swap-ai-pilots-for-deep-integrations/) (2025-12-08)
+- [Battling algorithmic bias in digital payments leads to competition win](https://www.artificialintelligence-news.com/news/ai-algorithmic-bias-in-digital-payments-leads-to-competition-win/) (2025-12-08)
+- [Google, Sony Innovation Fund, and Okta back Resemble AI’s push into deepfake detection](https://www.artificialintelligence-news.com/news/google-sony-and-okta-back-resemble-ai-push-into-deepfake-detection/) (2025-12-08)
+- [UK doctors’ surgeries deploying AI in patient care](https://www.artificialintelligence-news.com/news/medical-ai-in-the-uk-doctors-clinicians-surgeries-and-general-administrative-workloads/) (2025-12-08)
 
 </details>
 
