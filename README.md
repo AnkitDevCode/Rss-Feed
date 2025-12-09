@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Google details security measures for Chrome’s agentic features](https://techcrunch.com/2025/12/08/google-details-security-measures-for-chromes-agentic-features/) (2025-12-08)
-- [You can buy your Instacart groceries without leaving ChatGPT](https://techcrunch.com/2025/12/08/you-can-buy-your-instacart-groceries-without-leaving-chatgpt/) (2025-12-08)
-- [TikTok adds a space for organizing content with others, teases ‘Shared Feeds’](https://techcrunch.com/2025/12/08/tiktok-adds-a-space-for-organizing-content-with-others-teases-shared-feeds/) (2025-12-08)
-- [Petco’s security lapse affected customers’ SSNs, drivers’ licenses and more ](https://techcrunch.com/2025/12/08/petcos-security-lapse-affected-customers-ssns-drivers-licenses-and-more/) (2025-12-08)
-- [Heat pump startup Quilt raises $20M Series B to expand sales](https://techcrunch.com/2025/12/08/heat-pump-startup-quilt-raises-20m-series-b-to-expand-sales/) (2025-12-08)
+- [FTC upholds ban on stalkerware founder Scott Zuckerman](https://techcrunch.com/2025/12/08/ftc-upholds-ban-on-stalkerware-founder-scott-zuckerman/) (2025-12-08)
+- [SoftBank and Nvidia reportedly in talks to fund Skild AI at $14B, nearly tripling its value](https://techcrunch.com/2025/12/08/softbank-and-nvidia-reportedly-in-talks-to-fund-skildai-at-14b-nearly-tripling-its-value/) (2025-12-08)
+- [Investor letter reveals skyrocketing growth of Waymo’s robotaxi rides](https://techcrunch.com/2025/12/08/investor-letter-reveals-skyrocketing-growth-of-waymos-robotaxi-rides/) (2025-12-08)
+- [Department of Commerce approves Nvidia H200 chip exports to China](https://techcrunch.com/2025/12/08/department-of-commerce-may-approve-nvidia-h200-chip-exports-to-china/) (2025-12-08)
+- [Google’s AI try-on app Doppl adds a shoppable discovery feed](https://techcrunch.com/2025/12/08/googles-ai-try-on-app-doppl-adds-a-shoppable-discovery-feed/) (2025-12-08)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Quanta to Publish Popular Math and Physics Titles by Terence Tao and David Tong](https://www.simonsfoundation.org/2025/12/08/quanta-books-to-publish-popular-math-and-physics-titles-by-terence-tao-and-david-tong/) (2025-12-08)
-- [AI should only run as fast as we can catch up](https://higashi.blog/2025/12/07/ai-verification/) (2025-12-08)
-- [Show HN: DuckDB for Kafka Stream Processing](https://sql-flow.com/docs/tutorials/intro/) (2025-12-08)
-- [Launch HN: Nia (YC S25) – Give better context to coding agents](https://www.trynia.ai/) (2025-12-08)
-- [RIP Tetsu Yamauchi (Former Free and Faces Bassist)](https://www.loudersound.com/bands-artists/former-free-and-faces-bassist-tetsu-yamauchi-dead-at-79) (2025-12-08)
+- [The Lost Machine Automats and Self-Service Cafeterias of NYC (2023)](https://www.untappedcities.com/automats-cafeterias-nyc/) (2025-12-09)
+- [Scientific and Technical Amateur Radio](https://destevez.net/) (2025-12-09)
+- [Horses: AI progress is steady. Human equivalence is sudden](https://andyljones.com/posts/horses.html) (2025-12-09)
+- [The Universal Weight Subspace Hypothesis](https://arxiv.org/abs/2512.05117) (2025-12-09)
+- [Kroger acknowledges that its bet on robotics went too far](https://www.grocerydive.com/news/kroger-ocado-close-automated-fulfillment-centers-robotics-grocery-ecommerce/805931/) (2025-12-08)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [A first look at Google’s Project Aura glasses built with Xreal](https://www.theverge.com/tech/839392/project-aura-android-xr-software-headsets-ai-glasses) (2025-12-08)
-- [HP OmniBook 5 14 review: an OLED is almost enough](https://www.theverge.com/tech/839858/hp-omnibook-5-14-snapdragon-arm-oled-laptop-review) (2025-12-08)
-- [Analogue is restocking its 4K N64 and making it more colorful](https://www.theverge.com/news/840068/analogue-3d-transparent-funtastic-limited-edition) (2025-12-08)
-- [Skateboarding is better in hell](https://www.theverge.com/games/840004/skate-story-review-switch-steam-ps5) (2025-12-08)
-- [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap) (2025-12-08)
+- [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals) (2025-12-08)
+- [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops) (2025-12-08)
+- [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple) (2025-12-08)
+- [The 34 best gifts that your teen will actually use](https://www.theverge.com/tech/785418/best-teen-gift-ideas-2025) (2025-12-08)
+- [The Apple Watch Series 11 just got a big $100 discount ahead of the holidays](https://www.theverge.com/gadgets/840161/apple-watch-series-11-holiday-deal-sale-2025) (2025-12-08)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [ICEBlock lawsuit: Trump admin bragged about demanding App Store removal](https://arstechnica.com/tech-policy/2025/12/iceblock-lawsuit-trump-admin-bragged-about-demanding-app-store-removal/) (2025-12-08)
+- [Paramount tries to swipe Warner Bros. from Netflix with a hostile takeover](https://arstechnica.com/gadgets/2025/12/paramount-says-it-could-get-antitrust-approval-for-wbd-before-netflix/) (2025-12-08)
 - [F1 in Abu Dhabi: And that’s the championship](https://arstechnica.com/cars/2025/12/f1-in-abu-dhabi-and-thats-the-championship/) (2025-12-08)
-- [A big bike on a budget: Lectric’s XPress 750 ](https://arstechnica.com/cars/2025/12/lectric-xpress-750-a-full-sized-bike-for-the-budget-minded/) (2025-12-08)
+- [A big bike on a budget: Lectric’s XPress 750](https://arstechnica.com/cars/2025/12/lectric-xpress-750-a-full-sized-bike-for-the-budget-minded/) (2025-12-08)
 - [Meta offers EU users ad-light option in push to end investigation](https://arstechnica.com/information-technology/2025/12/meta-offers-eu-users-ad-light-option-in-push-to-end-investigation/) (2025-12-08)
-- [The Boys gears up for a Supe-ocalypse in S5 teaser](https://arstechnica.com/culture/2025/12/the-boys-gears-up-for-a-supe-ocalypse-in-s5-teaser/) (2025-12-08)
-- [Please send help. I can’t stop playing these roguelikes.](https://arstechnica.com/gaming/2025/12/please-send-help-i-cant-stop-playing-these-roguelikes/) (2025-12-08)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Z Image](https://dev.to/leo_king_25a8aa998a261145/z-image-3jdd) (2025-12-08)
-- [AWS re:Invent 2025 - Architecture lessons: Three failures and how to prevent them (DEV341)](https://dev.to/kazuya_dev/aws-reinvent-2025-architecture-lessons-three-failures-and-how-to-prevent-them-dev341-389b) (2025-12-08)
-- [AWS re:Invent 2025 - Monetizing agentic AI solutions: A Partner's guide for AI agents & tools-PEX112](https://dev.to/kazuya_dev/aws-reinvent-2025-monetizing-agentic-ai-solutions-a-partners-guide-for-ai-agents-tools-pex112-5g7d) (2025-12-08)
-- [AWS re:Invent 2025 - Driving Intelligent Project Portfolio Visibility with AWS + Smartsheet (BIZ210)](https://dev.to/kazuya_dev/aws-reinvent-2025-driving-intelligent-project-portfolio-visibility-with-aws-smartsheet-biz210-59gc) (2025-12-08)
-- [AWS re:Invent 2025 - Supercharge your Karpenter: Tactics for smarter K8s optimization (COP208)](https://dev.to/kazuya_dev/aws-reinvent-2025-supercharge-your-karpenter-tactics-for-smarter-k8s-optimization-cop208-1gi2) (2025-12-08)
+- [Kubernetes Auto-Scaling with Karpenter: The Smart Way to Scale on AWS EKS 🚀](https://dev.to/omarmfathy219/kubernetes-auto-scaling-with-karpenter-the-smart-way-to-scale-on-aws-eks-5bao) (2025-12-09)
+- [DIY Bluetooth Speaker – Build a Compact Portable Audio System](https://dev.to/messin_tom/diy-bluetooth-speaker-build-a-compact-portable-audio-system-1i89) (2025-12-09)
+- [🚦 Adaptive IoT Traffic Lights: Building a Smarter Traffic System with ESP32](https://dev.to/messin_tom/adaptive-iot-traffic-lights-building-a-smarter-traffic-system-with-esp32-16dg) (2025-12-09)
+- [**NFL Catch Rule Controversy: Ravens Coach John Harbaugh Calls for Clarity**](https://dev.to/yagyaraj_sharma_6cd410179/nfl-catch-rule-controversy-ravens-coach-john-harbaugh-calls-for-clarity-12mj) (2025-12-09)
+- [EC2 Lab: Launching an Instance in a Private Subnet (Private Access)](https://dev.to/figueroaeandres/ec2-lab-launching-an-instance-in-a-private-subnet-private-access-5d1e) (2025-12-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [React Is Not a UI Library — It’s a Dynamical System Stabilizing Chaos](https://medium.com/@ko-dropout/react-is-not-a-ui-library-its-a-dynamical-system-stabilizing-chaos-b8e4304989a6?source=rss------programming-5) (2025-12-08)
-- [Kubernetes Cheatsheet with Simple Examples (For Everyday Use)](https://medium.com/@tushar.jadhav29/kubernetes-cheatsheet-with-simple-examples-for-everyday-use-e659060fc599?source=rss------programming-5) (2025-12-08)
-- [A Realistic Plan for Transforming Business Requirements Into Architecture](https://observabilityguy.medium.com/a-realistic-plan-for-transforming-business-requirements-into-architecture-8e192ac5dbb5?source=rss------programming-5) (2025-12-08)
-- [A Practical Plan to Migrate From Monolith to Microservices Without Pain](https://medium.com/@letsCodeDevelopers/a-practical-plan-to-migrate-from-monolith-to-microservices-without-pain-d657fb99cc96?source=rss------programming-5) (2025-12-08)
-- [Don’t Let These 5 JavaScript Promises Output Break Your Interview](https://medium.com/@premiumfrontend/dont-let-these-5-javascript-promises-break-your-interview-12d217bc0275?source=rss------programming-5) (2025-12-08)
+- [My 0 Dollar Roo Code Setup And Why I Am Not Paying For Tokens Anymore](https://medium.com/@neonmaxima/my-0-dollar-roo-code-setup-and-why-i-am-not-paying-for-tokens-anymore-66930819f102?source=rss------programming-5) (2025-12-09)
+- [The Great Developer Hiring Freeze: 49% Job Drop, But Here’s How You Survive](https://medium.com/@alaxhenry0121/the-great-developer-hiring-freeze-49-job-drop-but-heres-how-you-survive-1119a974ea4d?source=rss------programming-5) (2025-12-09)
+- [Python Tips — The “with” Context Manager](https://tonylixu.medium.com/python-tips-the-with-context-manager-da69bcc13ab5?source=rss------programming-5) (2025-12-09)
+- [Spring Boot 4 Is Coming — And It Changes Everything You Know](https://medium.com/@pmLearners/spring-boot-4-is-coming-and-it-changes-everything-you-know-e77a7c3c244f?source=rss------programming-5) (2025-12-09)
+- [73% of Apps Fail Because of THIS Architecture Mistake (MVVM Could Save Yours)](https://medium.com/@alaxhenry0121/73-of-apps-fail-because-of-this-architecture-mistake-mvvm-could-save-yours-0e601d588eed?source=rss------programming-5) (2025-12-09)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Microsoft Foundry: Scale innovation on a modular, interoperable, and secure agent stack](https://azure.microsoft.com/en-us/blog/microsoft-foundry-scale-innovation-on-a-modular-interoperable-and-secure-agent-stack/) (2025-11-18)
-- [Azure at Microsoft Ignite 2025: All the intelligent cloud news explained](https://azure.microsoft.com/en-us/blog/azure-at-microsoft-ignite-2025-all-the-intelligent-cloud-news-explained/) (2025-11-18)
-- [Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate](https://azure.microsoft.com/en-us/blog/microsoft-databases-and-microsoft-fabric-your-unified-and-ai-powered-data-estate/) (2025-11-18)
-- [Announcing Azure Copilot agents and AI infrastructure innovations](https://azure.microsoft.com/en-us/blog/announcing-azure-copilot-agents-and-ai-infrastructure-innovations/) (2025-11-18)
-- [Introducing Anthropic’s Claude models in Microsoft Foundry: Bringing Frontier intelligence to Azure](https://azure.microsoft.com/en-us/blog/introducing-anthropics-claude-models-in-microsoft-foundry-bringing-frontier-intelligence-to-azure/) (2025-11-18)
+- [New options for AI-powered innovation, resiliency, and control with Microsoft Azure](https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/) (2025-12-03)
+- [Introducing Mistral Large 3 in Microsoft Foundry: Open, capable, and ready for production workloads](https://azure.microsoft.com/en-us/blog/introducing-mistral-large-3-in-microsoft-foundry-open-capable-and-ready-for-production-workloads/) (2025-12-02)
+- [A decade of open innovation: Celebrating 10 years of Microsoft and Red Hat partnership](https://azure.microsoft.com/en-us/blog/a-decade-of-open-innovation-celebrating-10-years-of-microsoft-and-red-hat-partnership/) (2025-12-02)
+- [Azure networking updates on security, reliability, and high availability](https://azure.microsoft.com/en-us/blog/azure-networking-updates-on-security-reliability-and-high-availability/) (2025-12-01)
+- [Introducing Claude Opus 4.5 in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/) (2025-11-24)
 
 </details>
 
@@ -163,11 +163,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [#WeArePlay: How Miksapix Interactive is bringing ancient Sámi Mythology to gamers worldwide](https://android-developers.googleblog.com/2025/12/weareplay-how-miksapix-interactive-is.html) (2025-12-08)
 - [Build for AI Glasses with the Android XR SDK Developer Preview 3 and unlock new features for immersive experiences](https://android-developers.googleblog.com/2025/12/build-for-ai-glasses-with-android-xr.html) (2025-12-08)
 - [Start building for glasses, new devices for Android XR and more in The Android Show | XR Edition](https://android-developers.googleblog.com/2025/12/start-building-for-glasses-new-devices.html) (2025-12-08)
 - [Android Studio Otter 2 Feature Drop is stable!](https://android-developers.googleblog.com/2025/12/android-studio-otter-2-feature-drop-is.html) (2025-12-04)
 - [What's new in the Jetpack Compose December '25 release](https://android-developers.googleblog.com/2025/12/whats-new-in-jetpack-compose-december.html) (2025-12-03)
-- [Android 16 QPR2 is Released](https://android-developers.googleblog.com/2025/12/android-16-qpr2-is-released.html) (2025-12-02)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [PyCharm 2025.3 – Unified IDE, Jupyter notebooks in remote development, uv as default, and more](https://blog.jetbrains.com/pycharm/2025/12/pycharm-2025-3-unified-ide-jupyter-notebooks-in-remote-development-uv-as-default-and-more/) (2025-12-08)
 - [The Future of Fleet](https://blog.jetbrains.com/fleet/2025/12/the-future-of-fleet/) (2025-12-08)
 - [PhpStorm 2025.3 Is Now Out](https://blog.jetbrains.com/phpstorm/2025/12/phpstorm-2025-3-is-now-out/) (2025-12-08)
 - [Kubernetes Made Simple: A Guide for JVM Developers](https://blog.jetbrains.com/kotlin/2025/12/kubernetes-made-simple-a-guide-for-jvm-developers/) (2025-12-08)
 - [Junie Now Integrated Into the AI Chat](https://blog.jetbrains.com/ai/2025/12/junie-now-integrated-into-the-ai-chat/) (2025-12-08)
-- [GoLand 2025.3 Is Out!](https://blog.jetbrains.com/go/2025/12/08/goland-2025-3-is-out/) (2025-12-08)
 
 </details>
 
@@ -557,24 +557,13 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-use-rabbitmq-in-go
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [Instacart pilots agentic commerce by embedding in ChatGPT](https://www.artificialintelligence-news.com/news/instacart-pilots-agentic-commerce-by-embedding-in-chatgpt/) (2025-12-08)
-- [OpenAI: Enterprise users swap AI pilots for deep integrations](https://www.artificialintelligence-news.com/news/openai-enterprise-users-swap-ai-pilots-for-deep-integrations/) (2025-12-08)
-- [Battling algorithmic bias in digital payments leads to competition win](https://www.artificialintelligence-news.com/news/ai-algorithmic-bias-in-digital-payments-leads-to-competition-win/) (2025-12-08)
-- [Google, Sony Innovation Fund, and Okta back Resemble AI’s push into deepfake detection](https://www.artificialintelligence-news.com/news/google-sony-and-okta-back-resemble-ai-push-into-deepfake-detection/) (2025-12-08)
-- [UK doctors’ surgeries deploying AI in patient care](https://www.artificialintelligence-news.com/news/medical-ai-in-the-uk-doctors-clinicians-surgeries-and-general-administrative-workloads/) (2025-12-08)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
+- [Bridging the Silence: How LEO Satellites and Edge AI Will Democratize Connectivity](https://towardsdatascience.com/bridging-the-silence-how-leo-satellites-and-edge-ai-will-democratize-connectivity/) (2025-12-08)
 - [The Machine Learning “Advent Calendar” Day 8: Isolation Forest in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-8-isolation-forest-in-excel/) (2025-12-08)
 - [The AI Bubble Will Pop — And Why That Doesn’t Matter](https://towardsdatascience.com/the-ai-bubble-will-pop-and-why-that-doesnt-matter/) (2025-12-08)
 - [How to Create an ML-Focused Newsletter](https://towardsdatascience.com/how-to-create-an-ml-focused-newsletter/) (2025-12-08)
 - [Optimizing PyTorch Model Inference on CPU](https://towardsdatascience.com/optimizing-pytorch-model-inference-on-cpu/) (2025-12-08)
-- [How to Climb the Hidden Career Ladder of Data Science](https://towardsdatascience.com/the-hidden-career-ladder-of-data-science/) (2025-12-07)
 
 </details>
 
