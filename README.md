@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Ford and Renault team up on cheaper EVs in a ‘fight for our lives’](https://techcrunch.com/2025/12/09/ford-and-renault-team-up-on-cheaper-evs-in-a-fight-for-our-lives/) (2025-12-09)
-- [Google Photos launches new video editing tools](https://techcrunch.com/2025/12/09/google-photos-launches-new-video-editing-tools/) (2025-12-09)
-- [NASA and USPS stop using Canoo EVs despite CEO’s pledged support](https://techcrunch.com/2025/12/09/nasa-and-usps-stop-using-canoo-evs-despite-ceos-pledged-support/) (2025-12-09)
-- [OpenAI, Anthropic and Block join new Linux Foundation effort to standardize the AI agent era](https://techcrunch.com/2025/12/09/openai-anthropic-and-block-join-new-linux-foundation-effort-to-standardize-the-ai-agent-era/) (2025-12-09)
-- [Fairphone refreshes its good-looking, repairable headphones](https://techcrunch.com/2025/12/09/fairphone-refreshes-its-good-looking-repairable-headphones/) (2025-12-09)
+- [Coreweave CEO defends AI circular deals as ‘working together’](https://techcrunch.com/2025/12/09/coreweave-ceo-defends-ai-circular-deals-as-working-together/) (2025-12-10)
+- [Unconventional AI confirms its massive  $475M seed round](https://techcrunch.com/2025/12/09/unconventional-ai-confirms-its-massive-475m-seed-round/) (2025-12-10)
+- [Hinge CEO steps down to launch Overtone, an AI dating app](https://techcrunch.com/2025/12/09/hinge-ceo-steps-down-to-launch-overtone-an-ai-dating-app/) (2025-12-10)
+- [Fal nabs $140M in fresh funding led by Sequoia, tripling valuation to $4.5B](https://techcrunch.com/2025/12/09/fal-nabs-140m-in-fresh-funding-led-by-sequoia-tripling-valuation-to-4-5b/) (2025-12-09)
+- [Cashew Research is going after the $90B market research industry with AI](https://techcrunch.com/2025/12/09/cashew-research-is-going-after-the-90b-market-research-industry-with-ai/) (2025-12-09)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: Detail, a Bug Finder](https://detail.dev/) (2025-12-09)
-- [How Private Equity Is Changing Housing](https://www.theatlantic.com/ideas/2025/12/private-equity-housing-changes/685138/) (2025-12-09)
-- [If you're going to vibe code, why not do it in C?](https://stephenramsay.net/posts/vibe-coding.html) (2025-12-09)
-- [PeerTube is recognized as a digital public good by Digital Public Goods Alliance](https://www.digitalpublicgoods.net/r/peertube) (2025-12-09)
-- [Donating the Model Context Protocol and Establishing the Agentic AI Foundation](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation) (2025-12-09)
+- [Rubio stages font coup: Times New Roman ousts Calibri](https://www.reuters.com/world/us/rubio-stages-font-coup-times-new-roman-ousts-calibri-2025-12-09/) (2025-12-10)
+- [OpenEvolve: Teaching LLMs to Discover Algorithms Through Evolution](https://algorithmicsuperintelligence.ai/blog/openevolve-overview/index.html) (2025-12-09)
+- [Linux CVEs, more than you ever wanted to know](http://www.kroah.com/log/blog/2025/12/08/linux-cves-more-than-you-ever-wanted-to-know/) (2025-12-09)
+- [Qt, Linux and everything: Debugging Qt WebAssembly](http://qtandeverything.blogspot.com/2025/12/debugging-qt-webassembly-dwarf.html) (2025-12-09)
+- [Django: what’s new in 6.0](https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/) (2025-12-09)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Google Photos&#8217; new video editor makes it more like Capcut](https://www.theverge.com/news/840690/google-photos-video-editing-highlight-reel-updates) (2025-12-09)
-- [Data center construction moratorium is gaining steam](https://www.theverge.com/news/840883/data-center-moratorium-letter-congress) (2025-12-09)
-- [The Verge’s 2025 holiday gift guide for tinkerers](https://www.theverge.com/tech/800444/best-tool-gift-ideas-2025) (2025-12-09)
-- [YouTube creators can now test multiple video titles](https://www.theverge.com/news/840789/youtube-video-title-a-b-testing-feature) (2025-12-09)
-- [Some of Ikea’s Matter-compatible smart devices are now available in the US](https://www.theverge.com/news/840727/ikea-smart-home-matter-thread-sensors-now-available) (2025-12-09)
+- [Call of Duty won’t release Modern Warfare or Black Ops back to back anymore](https://www.theverge.com/news/841290/activision-call-of-duty-modern-warefare-black-ops-back-to-back) (2025-12-10)
+- [Both sides of the aisle hate the AI moratorium](https://www.theverge.com/column/841161/ai-moratorium-midterm-elections-republicans) (2025-12-09)
+- [Somehow, this AI-generated McDonald&#8217;s ad about hating Christmas was a flop](https://www.theverge.com/news/841220/mcdonalds-ai-generated-christmas-ad) (2025-12-09)
+- [Google is powering a new US military AI platform](https://www.theverge.com/news/841219/google-gemini-us-military-ai-platform-genai-mil) (2025-12-09)
+- [Some of our favorite gifts will cost you less than $25](https://www.theverge.com/gadgets/780844/best-gifts-under-25-2025) (2025-12-09)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Over 250 people quarantined in South Carolina as measles outbreak rages](https://arstechnica.com/health/2025/12/over-250-people-quarantined-in-south-carolina-as-measles-outbreak-rages/) (2025-12-09)
+- [Big Tech joins forces with Linux Foundation to standardize AI agents](https://arstechnica.com/ai/2025/12/big-tech-joins-forces-with-linux-foundation-to-standardize-ai-agents/) (2025-12-09)
+- [Supreme Court appears likely to approve Trump’s firing of FTC Democrat](https://arstechnica.com/tech-policy/2025/12/supreme-court-appears-likely-to-approve-trumps-firing-of-ftc-democrat/) (2025-12-09)
+- [NASA astronauts will have their own droid when they go back to the Moon](https://arstechnica.com/space/2025/12/lunar-outpost-rover-to-study-lunar-dust-alongside-artemis-astronauts-on-moon/) (2025-12-09)
 - [Court: “Because Trump said to” may not be a legally valid defense](https://arstechnica.com/tech-policy/2025/12/trumps-order-blocking-wind-development-thrown-out-by-court/) (2025-12-09)
-- [Google is reviving wearable gesture controls, but only for the Pixel Watch 4](https://arstechnica.com/gadgets/2025/12/google-is-reviving-wearable-gesture-controls-but-only-for-the-pixel-watch-4/) (2025-12-09)
-- [Brazil weakens Amazon protections days after COP30](https://arstechnica.com/science/2025/12/days-after-cop30-brazil-weakened-amazon-safeguards/) (2025-12-09)
-- [Pompeii construction site confirms recipe for Roman concrete](https://arstechnica.com/science/2025/12/study-confirms-romans-used-hot-mixing-to-make-concrete/) (2025-12-09)
-- [In a major new report, scientists build rationale for sending astronauts to Mars](https://arstechnica.com/space/2025/12/in-a-major-new-report-scientists-build-rationale-for-sending-astronauts-to-mars/) (2025-12-09)
 
 </details>
 
@@ -75,11 +75,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [MCP joins the Linux Foundation: What this means for developers building the next era of AI tools and agents](https://github.blog/open-source/maintainers/mcp-joins-the-linux-foundation-what-this-means-for-developers-building-the-next-era-of-ai-tools-and-agents/) (2025-12-09)
 - [Speed is nothing without control: How to keep quality high in the AI era](https://github.blog/ai-and-ml/generative-ai/speed-is-nothing-without-control-how-to-keep-quality-high-in-the-ai-era/) (2025-12-09)
 - [The new identity of a developer: What changes and what doesn’t in the AI era](https://github.blog/news-insights/octoverse/the-new-identity-of-a-developer-what-changes-and-what-doesnt-in-the-ai-era/) (2025-12-08)
 - [How to use GitHub Copilot Spaces to debug issues faster](https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-spaces-to-debug-issues-faster/) (2025-12-04)
 - [Your stack, your rules: Introducing custom agents in GitHub Copilot for observability, IaC, and security](https://github.blog/news-insights/product-news/your-stack-your-rules-introducing-custom-agents-in-github-copilot-for-observability-iac-and-security/) (2025-12-03)
-- [“The local-first rebellion”: How Home Assistant became the most important project in your house](https://github.blog/open-source/maintainers/the-local-first-rebellion-how-home-assistant-became-the-most-important-project-in-your-house/) (2025-12-02)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [True Parallelism in R Using the parallel Package](https://dev.to/dipti_moryani_08e62702314/true-parallelism-in-r-using-the-parallel-package-1m0i) (2025-12-09)
-- [Day 9: Spark SQL Deep Dive - Temp Views, Query Execution & Optimization Tips for Data Engineers](https://dev.to/sandeepk27/day-9-spark-sql-deep-dive-temp-views-query-execution-optimization-tips-for-data-engineers-35gh) (2025-12-09)
-- [I built an AI-powered Portfolio Tracker](https://dev.to/julienesn/i-built-an-ai-powered-portfolio-tracker-2oen) (2025-12-09)
-- [Fixing "Network Error" in React Native When Connecting to QA Servers with HTTPS](https://dev.to/iraycd/fixing-network-error-in-react-native-when-connecting-to-qa-servers-with-https-56d6) (2025-12-09)
-- [💥 When Your Game Plays YOU: The Algorithm Behind Marvel Rivals](https://dev.to/blaze_faisal/when-your-game-plays-you-the-algorithm-behind-marvel-rivals-1efj) (2025-12-09)
+- [Titles for Upwork account. How to choose?](https://dev.to/chocomastery/titles-for-upwork-account-how-to-choose-549j) (2025-12-10)
+- [Automatic payouts on Upwork. How does it work?](https://dev.to/chocomastery/automatic-payouts-on-upwork-how-does-it-work-25no) (2025-12-10)
+- [Working Assesment. Extra 2 skills to your General profile. New Beta feature on Upwork.](https://dev.to/chocomastery/working-assesment-extra-2-skills-to-your-general-profile-new-beta-feature-on-upwork-30bh) (2025-12-10)
+- [x402 Sounds Perfect. So Why Isn't Anyone Using It?](https://dev.to/justqueue/x402-sounds-perfect-so-why-isnt-anyone-using-it-mkb) (2025-12-10)
+- [Running FastAPI in Production on a VPS (Step-by-Step)](https://dev.to/lasisi_ibrahimpelumi_dc0/running-fastapi-in-production-on-a-vps-step-by-step-5e4d) (2025-12-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How Modern Engineering Teams Build Scalable Systems Using DDD + Event-Driven Microservices](https://medium.com/@ip.ravi333/how-modern-engineering-teams-build-scalable-systems-using-ddd-event-driven-microservices-67492931cef0?source=rss------programming-5) (2025-12-09)
-- [ React Native Interview Questions for Intermediate Developers (2026 Edition) ❓](https://developer-in.medium.com/react-native-interview-questions-for-intermediate-developers-2026-edition-a06406ddd304?source=rss------programming-5) (2025-12-09)
-- [My AI Stack Hack for 2026..](https://medium.com/everyday-ai/my-ai-stack-hack-for-2026-ea76bf59a144?source=rss------programming-5) (2025-12-09)
-- [Clean Architecture With .NET 10 And CQRS — Project Setup (With Full Code)](https://medium.com/@mariammaurice/clean-architecture-with-net-10-and-cqrs-project-setup-with-full-code-cd4c0020e9c2?source=rss------programming-5) (2025-12-09)
-- [CQRS Doesn’t Have To Be Complicated | Clean Architecture, .NET 10](https://medium.com/@michaelmaurice410/cqrs-doesnt-have-to-be-complicated-clean-architecture-net-10-f9538034a0b8?source=rss------programming-5) (2025-12-09)
+- [MVVM vs MVU in Blazor for Enterprise Apps](https://medium.com/net-code-chronicles/mvvm-vs-mvu-blazor-c27429207dfa?source=rss------programming-5) (2025-12-10)
+- [Python OOP 201: Instance vs. Class Members (2026 Guide)](https://medium.com/@syaokifaradisa09/python-oop-201-instance-vs-class-members-2026-guide-3fab3b1a5bed?source=rss------programming-5) (2025-12-10)
+- [Python OOP 201: Mastering Classes and Objects (2026 Guide)](https://medium.com/@syaokifaradisa09/python-oop-201-mastering-classes-and-objects-2026-guide-d26c9d432775?source=rss------programming-5) (2025-12-10)
+- [Building a Prolog-Like Logic Engine in Common Lisp](https://medium.com/@batuhanayrba/building-a-prolog-like-logic-engine-in-common-lisp-1995d6168565?source=rss------programming-5) (2025-12-10)
+- [React2Shell(CVE 2025–55182): Command Injection](https://infosecwriteups.com/react2shell-cve-2025-55182-command-injection-925999689256?source=rss------programming-5) (2025-12-10)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Microsoft Foundry: Scale innovation on a modular, interoperable, and secure agent stack](https://azure.microsoft.com/en-us/blog/microsoft-foundry-scale-innovation-on-a-modular-interoperable-and-secure-agent-stack/) (2025-11-18)
-- [Azure at Microsoft Ignite 2025: All the intelligent cloud news explained](https://azure.microsoft.com/en-us/blog/azure-at-microsoft-ignite-2025-all-the-intelligent-cloud-news-explained/) (2025-11-18)
-- [Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate](https://azure.microsoft.com/en-us/blog/microsoft-databases-and-microsoft-fabric-your-unified-and-ai-powered-data-estate/) (2025-11-18)
-- [Announcing Azure Copilot agents and AI infrastructure innovations](https://azure.microsoft.com/en-us/blog/announcing-azure-copilot-agents-and-ai-infrastructure-innovations/) (2025-11-18)
-- [Introducing Anthropic’s Claude models in Microsoft Foundry: Bringing Frontier intelligence to Azure](https://azure.microsoft.com/en-us/blog/introducing-anthropics-claude-models-in-microsoft-foundry-bringing-frontier-intelligence-to-azure/) (2025-11-18)
+- [New options for AI-powered innovation, resiliency, and control with Microsoft Azure](https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/) (2025-12-03)
+- [Introducing Mistral Large 3 in Microsoft Foundry: Open, capable, and ready for production workloads](https://azure.microsoft.com/en-us/blog/introducing-mistral-large-3-in-microsoft-foundry-open-capable-and-ready-for-production-workloads/) (2025-12-02)
+- [A decade of open innovation: Celebrating 10 years of Microsoft and Red Hat partnership](https://azure.microsoft.com/en-us/blog/a-decade-of-open-innovation-celebrating-10-years-of-microsoft-and-red-hat-partnership/) (2025-12-02)
+- [Azure networking updates on security, reliability, and high availability](https://azure.microsoft.com/en-us/blog/azure-networking-updates-on-security-reliability-and-high-availability/) (2025-12-01)
+- [Introducing Claude Opus 4.5 in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/) (2025-11-24)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Docker Joins the Agentic AI Foundation](https://www.docker.com/blog/docker-joins-the-agentic-ai-foundation/) (2025-12-09)
 - [From Compose to Kubernetes to Cloud: Designing and Operating Infrastructure with Kanvas](https://www.docker.com/blog/compose-to-kubernetes-to-cloud-kanvas/) (2025-12-08)
 - [Docker, JetBrains, and Zed: Building a Common Language for Agents and IDEs](https://www.docker.com/blog/docker-jetbrains-and-zed-building-a-common-language-for-agents-and-ides/) (2025-12-05)
 - [Announcing vLLM v0.12.0, Ministral 3 and DeepSeek-V3.2 for Docker Model Runner](https://www.docker.com/blog/docker-model-runner-vllm-ministral-deepseek/) (2025-12-05)
 - [Securing the Docker MCP Catalog: Commit Pinning, Agentic Auditing, and Publisher Trust Levels](https://www.docker.com/blog/enhancing-mcp-trust-with-the-docker-mcp-catalog/) (2025-12-03)
-- [Building AI agents shouldn’t be hard. According to theCUBE Research, Docker makes it easy](https://www.docker.com/blog/building-ai-agents-shouldnt-be-hard-according-to-thecube-research-docker-makes-it-easy/) (2025-12-02)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [How Backend Development Teams Use Kotlin in 2025: Insights from a Certified Trainer](https://blog.jetbrains.com/kotlin/2025/12/how-backend-development-teams-use-kotlin-in-2025/) (2025-12-09)
+- [Sky’s the Limit: The Cloud9 × JetBrains Global Hackathon Is Live](https://blog.jetbrains.com/blog/2025/12/09/sky-s-the-limit-the-cloud9-jetbrains-global-hackathon-is-live/) (2025-12-09)
+- [JetBrains Joins the Agentic Artificial Intelligence Foundation](https://blog.jetbrains.com/blog/2025/12/09/jetbrains-joins-the-agentic-artificial-intelligence-foundation/) (2025-12-09)
+- [Preventing Resource Leaks in Go: How GoLand Helps You Write Safer Code](https://blog.jetbrains.com/go/2025/12/09/preventing-resource-leaks-in-go-how-goland-helps-you-write-safer-code/) (2025-12-09)
 - [Is Your CI/CD Tool Helping or Hindering Performance?](https://blog.jetbrains.com/teamcity/2025/12/is-your-ci-cd-tool-helping-or-hindering-performance/) (2025-12-09)
-- [Hyperskill Gets Its Own Plugin Inside JetBrains IDEs](https://blog.jetbrains.com/education/2025/12/09/hyperskill-gets-its-own-plugin-inside-jetbrains-ides/) (2025-12-09)
-- [DataSpell 2025.3: Visualization Cells, Multi-Agent Support, Jupyter Improvements.](https://blog.jetbrains.com/dataspell/2025/12/dataspell-2025-3-visualization-cells-multi-agent-support-jupyter-improvements/) (2025-12-09)
-- [Join the RubyMine Team on Reddit AMA Session](https://blog.jetbrains.com/ruby/2025/12/join-the-rubymine-team-on-reddit-ama-session/) (2025-12-09)
-- [PyCharm 2025.3 – Unified IDE, Jupyter notebooks in remote development, uv as default, and more](https://blog.jetbrains.com/pycharm/2025/12/pycharm-2025-3-unified-ide-jupyter-notebooks-in-remote-development-uv-as-default-and-more/) (2025-12-08)
 
 </details>
 
@@ -547,11 +547,11 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-use-rabbitmq-in-go
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Apriel-1.6-15b-Thinker: Cost-efficient Frontier Multimodal Performance](https://huggingface.co/blog/ServiceNow-AI/apriel-1p6-15b-thinker) (2025-12-09)
 - [Introducing swift-huggingface: The Complete Swift Client for Hugging Face](https://huggingface.co/blog/swift-huggingface) (2025-12-05)
 - [DeepMath: A lightweight math reasoning Agent with smolagents](https://huggingface.co/blog/intel-deepmath) (2025-12-04)
 - [We Got Claude to Fine-Tune an Open Source LLM](https://huggingface.co/blog/hf-skills-training) (2025-12-04)
 - [Custom Policy Enforcement with Reasoning: Faster, Safer AI Applications](https://huggingface.co/blog/nvidia/custom-policy-reasoning-nemotron-content-safety) (2025-12-02)
-- [Transformers v5: Simple model definitions powering the AI ecosystem](https://huggingface.co/blog/transformers-v5) (2025-12-01)
 
 </details>
 
