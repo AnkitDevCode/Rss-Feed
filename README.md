@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Amazon to invest additional $35B in India by 2030, taking total planned spending to $75B](https://techcrunch.com/2025/12/10/amazon-to-invest-additional-35b-in-india-by-2030-taking-total-planned-spending-to-75b/) (2025-12-10)
+- [Google invests in Fervo’s $462M round to unlock even more geothermal energy](https://techcrunch.com/2025/12/10/google-invests-in-fervos-462m-round-to-unlock-even-more-geothermal-energy/) (2025-12-10)
+- [Meesho’s $606M IPO pops as enthusiasm for India’s e-commerce startups rises](https://techcrunch.com/2025/12/10/meeshos-606m-ipo-pops-as-enthusiasm-for-indias-e-commerce-startups-rises/) (2025-12-10)
+- [Fertility startup Inito wants to use AI-designed antibodies to expand at-home health tests](https://techcrunch.com/2025/12/10/fertility-startup-inito-wants-to-use-ai-designed-antibodies-to-expand-at-home-health-tests/) (2025-12-10)
 - [CoreWeave CEO defends AI circular deals as ‘working together’](https://techcrunch.com/2025/12/09/coreweave-ceo-defends-ai-circular-deals-as-working-together/) (2025-12-10)
-- [Unconventional AI confirms its massive  $475M seed round](https://techcrunch.com/2025/12/09/unconventional-ai-confirms-its-massive-475m-seed-round/) (2025-12-10)
-- [Hinge CEO steps down to launch Overtone, an AI dating app](https://techcrunch.com/2025/12/09/hinge-ceo-steps-down-to-launch-overtone-an-ai-dating-app/) (2025-12-10)
-- [Fal nabs $140M in fresh funding led by Sequoia, tripling valuation to $4.5B](https://techcrunch.com/2025/12/09/fal-nabs-140m-in-fresh-funding-led-by-sequoia-tripling-valuation-to-4-5b/) (2025-12-09)
-- [Cashew Research is going after the $90B market research industry with AI](https://techcrunch.com/2025/12/09/cashew-research-is-going-after-the-90b-market-research-industry-with-ai/) (2025-12-09)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Dependable C](https://dependablec.org/) (2025-12-10)
-- ['Source available' is not open source (and that's okay)](https://dri.es/source-available-is-not-open-source-and-that-is-okay) (2025-12-10)
-- [The end of the kernel Rust experiment](https://lwn.net/Articles/1049831/) (2025-12-10)
-- [Show all your application error using Cloudflare Error Page](https://github.com/donlon/cloudflare-error-page) (2025-12-10)
-- [Post-transformer inference: 224× compression of Llama-70B with improved accuracy](https://zenodo.org/records/17873275) (2025-12-10)
+- [Stop Breaking TLS](https://www.markround.com/blog/2025/12/09/stop-breaking-tls/) (2025-12-10)
+- [Revisiting "Let's Build a Compiler"](https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/) (2025-12-10)
+- [Are the Three Musketeers allergic to muskets? (2014)](https://www.ox.ac.uk/news/arts-blog/are-three-musketeers-allergic-muskets) (2025-12-10)
+- [Rust in the kernel is no longer experimental](https://lwn.net/Articles/1049831/) (2025-12-10)
+- [Cloudflare error page generator](https://github.com/donlon/cloudflare-error-page) (2025-12-10)
 
 </details>
 
@@ -43,7 +43,7 @@
 <summary>📱 The Verge</summary>
 
 - [The AI industry’s biggest week: Google’s rise, RL mania, and a party boat](https://www.theverge.com/column/841207/ai-neurips-2025) (2025-12-10)
-- [Call of Duty won’t release Modern Warfare or Black Ops back to back anymore](https://www.theverge.com/news/841290/activision-call-of-duty-modern-warefare-black-ops-back-to-back) (2025-12-10)
+- [Call of Duty won’t release Modern Warfare or Black Ops back-to-back anymore](https://www.theverge.com/news/841290/activision-call-of-duty-modern-warefare-black-ops-back-to-back) (2025-12-10)
 - [Both sides of the aisle hate the AI moratorium](https://www.theverge.com/column/841161/ai-moratorium-midterm-elections-republicans) (2025-12-09)
 - [Somehow, this AI-generated McDonald&#8217;s ad about hating Christmas was a flop](https://www.theverge.com/news/841220/mcdonalds-ai-generated-christmas-ad) (2025-12-09)
 - [Google is powering a new US military AI platform](https://www.theverge.com/news/841219/google-gemini-us-military-ai-platform-genai-mil) (2025-12-09)
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Securing VMware workloads in regulated industries](https://www.technologyreview.com/2025/12/10/1128475/securing-vmware-workloads-in-regulated-industries/) (2025-12-10)
+- [How one controversial startup hopes to cool the planet](https://www.technologyreview.com/2025/12/10/1129079/how-one-controversial-startup-hopes-to-cool-the-planet/) (2025-12-10)
 - [The Download: a peek at AI’s future](https://www.technologyreview.com/2025/12/09/1129029/the-download-a-peek-at-ais-future/) (2025-12-09)
 - [The State of AI: A vision of the world in 2030](https://www.technologyreview.com/2025/12/08/1128922/the-state-of-ai-a-vision-of-the-world-in-2030/) (2025-12-08)
 - [The Download: four (still) big breakthroughs, and how our bodies fare in extreme heat](https://www.technologyreview.com/2025/12/08/1128982/the-download-four-still-big-breakthroughs-and-how-our-bodies-fare-in-extreme-heat/) (2025-12-08)
-- [4 technologies that didn’t make our 2026 breakthroughs list](https://www.technologyreview.com/2025/12/08/1128969/2026-breakthroughs-list-leftovers/) (2025-12-08)
-- [Harnessing human-AI collaboration for an AI roadmap that moves beyond pilots](https://www.technologyreview.com/2025/12/05/1128730/harnessing-human-ai-collaboration-for-an-ai-roadmap-that-moves-beyond-pilots/) (2025-12-05)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Comment Monter son PC Gamer de A à Z ?](https://dev.to/metalya/comment-monter-son-pc-gamer-de-a-a-z--1nij) (2025-12-10)
-- [Software Vendor Boosts Delivery Efficiency by 70% with NocoBase](https://dev.to/nocobase/software-vendor-boosts-delivery-efficiency-by-70-with-nocobase-2117) (2025-12-10)
-- [Kaizen OCR & PDF – Your Privacy-First OCR Companion](https://dev.to/sujit_singh_4a6ea64d77af0/kaizen-ocr-pdf-your-privacy-first-ocr-companion-nn5) (2025-12-10)
-- [From "Why?" to Wow: Building a Multi-Agent Storyteller After 5-Day AI Agents Intensive Course with Google](https://dev.to/silvestre-po/from-why-to-wow-building-a-multi-agent-storyteller-after-5-day-ai-agents-intensive-course-with-1lm7) (2025-12-10)
-- [Prompt Engineering for Software Developer](https://dev.to/speaklouder/prompt-engineering-for-software-developer-1pd0) (2025-12-10)
+- [📊 The 2025 Tech Stack Shake-Up: Why Next.js, Python & Postgres Are Taking Over the World 😉](https://dev.to/usman_awan/the-2025-tech-stack-shake-up-why-nextjs-python-postgres-are-taking-over-the-world-4d6p) (2025-12-10)
+- [React2Shell: Understanding the Critical RCE Vulnerability in React Server Components (CVE-2025-55182)](https://dev.to/scofieldidehen/react2shell-understanding-the-critical-rce-vulnerability-in-react-server-components-381p) (2025-12-10)
+- [Stop Building God Agents](https://dev.to/ejb503/stop-building-god-agents-511e) (2025-12-10)
+- [在本機安裝 Mattermost：打造自主控制的團隊通訊平台](https://dev.to/letswrite/zai-ben-ji-an-zhuang-mattermostda-zao-zi-zhu-kong-zhi-de-tuan-dui-tong-xun-ping-tai-4hk2) (2025-12-10)
+- [A Clean & Scalable Spring Boot Project Structure (Shared-Domain Architecture)](https://dev.to/karthikeyan_/a-clean-scalable-spring-boot-project-structure-shared-domain-architecture-32d) (2025-12-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Day 8: Async Params — Complete Beginner’s Guide](https://medium.com/@shahzaibnawaz/day-8-async-params-complete-beginners-guide-a1cf4cee87ae?source=rss------programming-5) (2025-12-10)
-- [Measuring Price Stretch from Volume Consensus](https://python.plainenglish.io/measuring-price-stretch-from-volume-consensus-cf79280dafb0?source=rss------programming-5) (2025-12-10)
-- [How Python Powers the Apps You Use Daily](https://python.plainenglish.io/how-python-powers-the-apps-you-use-daily-ee81b834282a?source=rss------programming-5) (2025-12-10)
-- [Stop Learning Frameworks. Learn This One Skill and You’ll Outgrow 90% of Developers in 2025.](https://medium.com/@prathameshshinde0555/stop-learning-frameworks-learn-this-one-skill-and-youll-outgrow-90-of-developers-in-2025-addd5cb4af00?source=rss------programming-5) (2025-12-10)
-- [The Unexpected Pytho Tool That Boosted My Productivity Overnight](https://python.plainenglish.io/the-unexpected-pytho-tool-that-boosted-my-productivity-overnight-a8610047d834?source=rss------programming-5) (2025-12-10)
+- [How Concrete Enables One Click DeFi (part 2)](https://medium.com/@Alijenab/how-concrete-enables-one-click-defi-part-2-78eb9492c5b9?source=rss------programming-5) (2025-12-10)
+- [How One Line of JavaScript Nearly Killed My Production Dashboard](https://javascript.plainenglish.io/how-one-line-of-javascript-nearly-killed-my-production-dashboard-3291e6d28100?source=rss------programming-5) (2025-12-10)
+- [Your Trusted Taxi Partner in Badarpur for Local & Outstation Routes](https://medium.com/@bestpropertysale/your-trusted-taxi-partner-in-badarpur-for-local-outstation-routes-485cf7dc27ce?source=rss------programming-5) (2025-12-10)
+- [The Lazy Dev Era: When AI Codes and We Just Watch](https://medium.com/404-found/the-lazy-dev-era-when-ai-codes-and-we-just-watch-5e02ad0fc82d?source=rss------programming-5) (2025-12-10)
+- [The Skills Companies Are Hiring for in 2025 — And Why Learning the Right Stack Can Change Your…](https://blog.stackademic.com/the-skills-companies-are-hiring-for-in-2025-and-why-learning-the-right-stack-can-change-your-b8111371802d?source=rss------programming-5) (2025-12-10)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Introducing Claude Opus 4.5 in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/) (2025-11-24)
 - [Microsoft Foundry: Scale innovation on a modular, interoperable, and secure agent stack](https://azure.microsoft.com/en-us/blog/microsoft-foundry-scale-innovation-on-a-modular-interoperable-and-secure-agent-stack/) (2025-11-18)
 - [Azure at Microsoft Ignite 2025: All the intelligent cloud news explained](https://azure.microsoft.com/en-us/blog/azure-at-microsoft-ignite-2025-all-the-intelligent-cloud-news-explained/) (2025-11-18)
 - [Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate](https://azure.microsoft.com/en-us/blog/microsoft-databases-and-microsoft-fabric-your-unified-and-ai-powered-data-estate/) (2025-11-18)
 - [Announcing Azure Copilot agents and AI infrastructure innovations](https://azure.microsoft.com/en-us/blog/announcing-azure-copilot-agents-and-ai-infrastructure-innovations/) (2025-11-18)
-- [Introducing Anthropic’s Claude models in Microsoft Foundry: Bringing Frontier intelligence to Azure](https://azure.microsoft.com/en-us/blog/introducing-anthropics-claude-models-in-microsoft-foundry-bringing-frontier-intelligence-to-azure/) (2025-11-18)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Introducing the TeamCity Operator for Kubernetes](https://blog.jetbrains.com/teamcity/2025/12/teamcity-kubernetes-operator/) (2025-12-10)
 - [How Backend Development Teams Use Kotlin in 2025: Insights from a Certified Trainer](https://blog.jetbrains.com/kotlin/2025/12/how-backend-development-teams-use-kotlin-in-2025/) (2025-12-09)
 - [Sky’s the Limit: The Cloud9 × JetBrains Global Hackathon Is Live](https://blog.jetbrains.com/blog/2025/12/09/sky-s-the-limit-the-cloud9-jetbrains-global-hackathon-is-live/) (2025-12-09)
 - [JetBrains Joins the Agentic Artificial Intelligence Foundation](https://blog.jetbrains.com/blog/2025/12/09/jetbrains-joins-the-agentic-artificial-intelligence-foundation/) (2025-12-09)
 - [Preventing Resource Leaks in Go: How GoLand Helps You Write Safer Code](https://blog.jetbrains.com/go/2025/12/09/preventing-resource-leaks-in-go-how-goland-helps-you-write-safer-code/) (2025-12-09)
-- [Is Your CI/CD Tool Helping or Hindering Performance?](https://blog.jetbrains.com/teamcity/2025/12/is-your-ci-cd-tool-helping-or-hindering-performance/) (2025-12-09)
 
 </details>
 
@@ -503,11 +503,11 @@ https://www.twilio.com/en-us/blog/developers/community/receiving-and-processing-
 <details>
 <summary>💬 Slack API</summary>
 
-- [GovSlack Achieves Department of Defense IL4 Authorization](https://slack.com/blog/news/govslack-achieves-department-of-defense-il4-authorization) (2025-12-09)
 - [Five proven employee engagement strategies to motivate your team](https://slack.com/blog/collaboration/five-proven-employee-engagement-strategies-to-motivate-your-team) (2025-12-01)
 - [Six Easy Tips for Workflow Mapping With Examples](https://slack.com/blog/productivity/workflow-mapping) (2025-12-01)
 - [How To Manage Multiple Projects and Operate Like a Pro](https://slack.com/blog/productivity/how-to-manage-multiple-projects) (2025-12-01)
 - [How to Improve Organizational Communication at Work](https://slack.com/blog/collaboration/how-to-improve-organizational-communication-at-work) (2025-11-24)
+- [Applying Virtual Meeting Etiquette Rules: 12 Do’s and Don’ts](https://slack.com/blog/collaboration/applying-virtual-meeting-etiquette-rules-12-dos-and-donts) (2025-11-24)
 
 </details>
 
@@ -558,22 +558,22 @@ https://www.twilio.com/en-us/blog/developers/community/receiving-and-processing-
 <details>
 <summary>🤖 AI News</summary>
 
+- [Perplexity: AI agents are taking over complex enterprise tasks](https://www.artificialintelligence-news.com/news/perplexity-ai-agents-taking-over-complex-enterprise-tasks/) (2025-12-10)
+- [Inside the playbook of companies winning with AI](https://www.artificialintelligence-news.com/news/inside-the-playbook-of-companies-winning-with-ai/) (2025-12-10)
 - [Accenture and Anthropic partner to boost enterprise AI integration](https://www.artificialintelligence-news.com/news/accenture-anthropic-partner-boost-enterprise-ai-integration/) (2025-12-09)
 - [OpenAI targets AI skills gap with new certification standards](https://www.artificialintelligence-news.com/news/openai-targets-ai-skills-gap-with-new-certification-standards/) (2025-12-09)
 - [How people really use AI: The surprising truth from analysing billions of interactions](https://www.artificialintelligence-news.com/news/how-people-really-use-ai-the-surprising-truth-from-analysing-billions-of-interactions/) (2025-12-09)
-- [Newsweek: Building AI-resilience for the next era of information](https://www.artificialintelligence-news.com/news/newsweek-building-ai-resilience-for-the-next-era-of-information/) (2025-12-09)
-- [Instacart pilots agentic commerce by embedding in ChatGPT](https://www.artificialintelligence-news.com/news/instacart-pilots-agentic-commerce-by-embedding-in-chatgpt/) (2025-12-08)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Optimizing PyTorch Model Inference on AWS Graviton](https://towardsdatascience.com/optimizing-pytorch-model-inference-on-aws-graviton/) (2025-12-10)
 - [The Machine Learning “Advent Calendar” Day 9: LOF in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-9-lof-in-excel/) (2025-12-09)
 - [Personal, Agentic Assistants: A Practical Blueprint for a Secure, Multi-User, Self-Hosted Chatbot](https://towardsdatascience.com/personal-agentic-assistants-a-practical-blueprint-for-a-secure-multi-user-self-hosted-chatbot/) (2025-12-09)
 - [How to Develop AI-Powered Solutions, Accelerated by AI](https://towardsdatascience.com/how-to-develop-ai-powered-solutions-accelerated-by-ai/) (2025-12-09)
 - [GraphRAG in Practice: How to Build Cost-Efficient, High-Recall Retrieval Systems](https://towardsdatascience.com/graphrag-in-practice-how-to-build-cost-efficient-high-recall-retrieval-systems/) (2025-12-09)
-- [A Realistic Roadmap to Start an AI Career in 2026](https://towardsdatascience.com/a-realistic-roadmap-to-start-an-ai-career-in-2026/) (2025-12-09)
 
 </details>
 
