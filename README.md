@@ -20,7 +20,7 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Coreweave CEO defends AI circular deals as ‘working together’](https://techcrunch.com/2025/12/09/coreweave-ceo-defends-ai-circular-deals-as-working-together/) (2025-12-10)
+- [CoreWeave CEO defends AI circular deals as ‘working together’](https://techcrunch.com/2025/12/09/coreweave-ceo-defends-ai-circular-deals-as-working-together/) (2025-12-10)
 - [Unconventional AI confirms its massive  $475M seed round](https://techcrunch.com/2025/12/09/unconventional-ai-confirms-its-massive-475m-seed-round/) (2025-12-10)
 - [Hinge CEO steps down to launch Overtone, an AI dating app](https://techcrunch.com/2025/12/09/hinge-ceo-steps-down-to-launch-overtone-an-ai-dating-app/) (2025-12-10)
 - [Fal nabs $140M in fresh funding led by Sequoia, tripling valuation to $4.5B](https://techcrunch.com/2025/12/09/fal-nabs-140m-in-fresh-funding-led-by-sequoia-tripling-valuation-to-4-5b/) (2025-12-09)
@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Rubio stages font coup: Times New Roman ousts Calibri](https://www.reuters.com/world/us/rubio-stages-font-coup-times-new-roman-ousts-calibri-2025-12-09/) (2025-12-10)
-- [OpenEvolve: Teaching LLMs to Discover Algorithms Through Evolution](https://algorithmicsuperintelligence.ai/blog/openevolve-overview/index.html) (2025-12-09)
-- [Linux CVEs, more than you ever wanted to know](http://www.kroah.com/log/blog/2025/12/08/linux-cves-more-than-you-ever-wanted-to-know/) (2025-12-09)
-- [Qt, Linux and everything: Debugging Qt WebAssembly](http://qtandeverything.blogspot.com/2025/12/debugging-qt-webassembly-dwarf.html) (2025-12-09)
-- [Django: what’s new in 6.0](https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/) (2025-12-09)
+- [Dependable C](https://dependablec.org/) (2025-12-10)
+- ['Source available' is not open source (and that's okay)](https://dri.es/source-available-is-not-open-source-and-that-is-okay) (2025-12-10)
+- [The end of the kernel Rust experiment](https://lwn.net/Articles/1049831/) (2025-12-10)
+- [Show all your application error using Cloudflare Error Page](https://github.com/donlon/cloudflare-error-page) (2025-12-10)
+- [Post-transformer inference: 224× compression of Llama-70B with improved accuracy](https://zenodo.org/records/17873275) (2025-12-10)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The AI industry’s biggest week: Google’s rise, RL mania, and a party boat](https://www.theverge.com/column/841207/ai-neurips-2025) (2025-12-10)
 - [Call of Duty won’t release Modern Warfare or Black Ops back to back anymore](https://www.theverge.com/news/841290/activision-call-of-duty-modern-warefare-black-ops-back-to-back) (2025-12-10)
 - [Both sides of the aisle hate the AI moratorium](https://www.theverge.com/column/841161/ai-moratorium-midterm-elections-republicans) (2025-12-09)
 - [Somehow, this AI-generated McDonald&#8217;s ad about hating Christmas was a flop](https://www.theverge.com/news/841220/mcdonalds-ai-generated-christmas-ad) (2025-12-09)
 - [Google is powering a new US military AI platform](https://www.theverge.com/news/841219/google-gemini-us-military-ai-platform-genai-mil) (2025-12-09)
-- [Some of our favorite gifts will cost you less than $25](https://www.theverge.com/gadgets/780844/best-gifts-under-25-2025) (2025-12-09)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Titles for Upwork account. How to choose?](https://dev.to/chocomastery/titles-for-upwork-account-how-to-choose-549j) (2025-12-10)
-- [Automatic payouts on Upwork. How does it work?](https://dev.to/chocomastery/automatic-payouts-on-upwork-how-does-it-work-25no) (2025-12-10)
-- [Working Assesment. Extra 2 skills to your General profile. New Beta feature on Upwork.](https://dev.to/chocomastery/working-assesment-extra-2-skills-to-your-general-profile-new-beta-feature-on-upwork-30bh) (2025-12-10)
-- [x402 Sounds Perfect. So Why Isn't Anyone Using It?](https://dev.to/justqueue/x402-sounds-perfect-so-why-isnt-anyone-using-it-mkb) (2025-12-10)
-- [Running FastAPI in Production on a VPS (Step-by-Step)](https://dev.to/lasisi_ibrahimpelumi_dc0/running-fastapi-in-production-on-a-vps-step-by-step-5e4d) (2025-12-10)
+- [Comment Monter son PC Gamer de A à Z ?](https://dev.to/metalya/comment-monter-son-pc-gamer-de-a-a-z--1nij) (2025-12-10)
+- [Software Vendor Boosts Delivery Efficiency by 70% with NocoBase](https://dev.to/nocobase/software-vendor-boosts-delivery-efficiency-by-70-with-nocobase-2117) (2025-12-10)
+- [Kaizen OCR & PDF – Your Privacy-First OCR Companion](https://dev.to/sujit_singh_4a6ea64d77af0/kaizen-ocr-pdf-your-privacy-first-ocr-companion-nn5) (2025-12-10)
+- [From "Why?" to Wow: Building a Multi-Agent Storyteller After 5-Day AI Agents Intensive Course with Google](https://dev.to/silvestre-po/from-why-to-wow-building-a-multi-agent-storyteller-after-5-day-ai-agents-intensive-course-with-1lm7) (2025-12-10)
+- [Prompt Engineering for Software Developer](https://dev.to/speaklouder/prompt-engineering-for-software-developer-1pd0) (2025-12-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [MVVM vs MVU in Blazor for Enterprise Apps](https://medium.com/net-code-chronicles/mvvm-vs-mvu-blazor-c27429207dfa?source=rss------programming-5) (2025-12-10)
-- [Python OOP 201: Instance vs. Class Members (2026 Guide)](https://medium.com/@syaokifaradisa09/python-oop-201-instance-vs-class-members-2026-guide-3fab3b1a5bed?source=rss------programming-5) (2025-12-10)
-- [Python OOP 201: Mastering Classes and Objects (2026 Guide)](https://medium.com/@syaokifaradisa09/python-oop-201-mastering-classes-and-objects-2026-guide-d26c9d432775?source=rss------programming-5) (2025-12-10)
-- [Building a Prolog-Like Logic Engine in Common Lisp](https://medium.com/@batuhanayrba/building-a-prolog-like-logic-engine-in-common-lisp-1995d6168565?source=rss------programming-5) (2025-12-10)
-- [React2Shell(CVE 2025–55182): Command Injection](https://infosecwriteups.com/react2shell-cve-2025-55182-command-injection-925999689256?source=rss------programming-5) (2025-12-10)
+- [Day 8: Async Params — Complete Beginner’s Guide](https://medium.com/@shahzaibnawaz/day-8-async-params-complete-beginners-guide-a1cf4cee87ae?source=rss------programming-5) (2025-12-10)
+- [Measuring Price Stretch from Volume Consensus](https://python.plainenglish.io/measuring-price-stretch-from-volume-consensus-cf79280dafb0?source=rss------programming-5) (2025-12-10)
+- [How Python Powers the Apps You Use Daily](https://python.plainenglish.io/how-python-powers-the-apps-you-use-daily-ee81b834282a?source=rss------programming-5) (2025-12-10)
+- [Stop Learning Frameworks. Learn This One Skill and You’ll Outgrow 90% of Developers in 2025.](https://medium.com/@prathameshshinde0555/stop-learning-frameworks-learn-this-one-skill-and-youll-outgrow-90-of-developers-in-2025-addd5cb4af00?source=rss------programming-5) (2025-12-10)
+- [The Unexpected Pytho Tool That Boosted My Productivity Overnight](https://python.plainenglish.io/the-unexpected-pytho-tool-that-boosted-my-productivity-overnight-a8610047d834?source=rss------programming-5) (2025-12-10)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [New options for AI-powered innovation, resiliency, and control with Microsoft Azure](https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/) (2025-12-03)
-- [Introducing Mistral Large 3 in Microsoft Foundry: Open, capable, and ready for production workloads](https://azure.microsoft.com/en-us/blog/introducing-mistral-large-3-in-microsoft-foundry-open-capable-and-ready-for-production-workloads/) (2025-12-02)
-- [A decade of open innovation: Celebrating 10 years of Microsoft and Red Hat partnership](https://azure.microsoft.com/en-us/blog/a-decade-of-open-innovation-celebrating-10-years-of-microsoft-and-red-hat-partnership/) (2025-12-02)
-- [Azure networking updates on security, reliability, and high availability](https://azure.microsoft.com/en-us/blog/azure-networking-updates-on-security-reliability-and-high-availability/) (2025-12-01)
-- [Introducing Claude Opus 4.5 in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/introducing-claude-opus-4-5-in-microsoft-foundry/) (2025-11-24)
+- [Microsoft Foundry: Scale innovation on a modular, interoperable, and secure agent stack](https://azure.microsoft.com/en-us/blog/microsoft-foundry-scale-innovation-on-a-modular-interoperable-and-secure-agent-stack/) (2025-11-18)
+- [Azure at Microsoft Ignite 2025: All the intelligent cloud news explained](https://azure.microsoft.com/en-us/blog/azure-at-microsoft-ignite-2025-all-the-intelligent-cloud-news-explained/) (2025-11-18)
+- [Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate](https://azure.microsoft.com/en-us/blog/microsoft-databases-and-microsoft-fabric-your-unified-and-ai-powered-data-estate/) (2025-11-18)
+- [Announcing Azure Copilot agents and AI infrastructure innovations](https://azure.microsoft.com/en-us/blog/announcing-azure-copilot-agents-and-ai-infrastructure-innovations/) (2025-11-18)
+- [Introducing Anthropic’s Claude models in Microsoft Foundry: Bringing Frontier intelligence to Azure](https://azure.microsoft.com/en-us/blog/introducing-anthropics-claude-models-in-microsoft-foundry-bringing-frontier-intelligence-to-azure/) (2025-11-18)
 
 </details>
 
@@ -362,30 +362,30 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Cyber Week 2025: Setting New Standards for Intelligent Engagement 
+Can You See Me Now? Verizon Joins T-Mobile to Put Your Brand Front and Center
 ](
-https://www.twilio.com/en-us/blog/insights/trends/cyber-week-2025-new-standards-engagement
-) (2025-12-04)
+https://www.twilio.com/en-us/blog/products/launches/enhanced-branded-calling-public-beta
+) (2025-12-08)
 - [
-Building Holiday Magic: Twilio Powers Real-Time Calls for ‘NORAD Tracks Santa’
+Implementing an SMS Auto-Responder with Twilio and Go
 ](
-https://www.twilio.com/en-us/blog/company/twilio-norad-santa-tracker-2025
-) (2025-12-04)
+https://www.twilio.com/en-us/blog/developers/community/implementing-an-sms-auto-responder-with-twilio-and-go
+) (2025-12-08)
 - [
-Build a Twilio + Zoho CRM SMS Integration
+Build a Twilio + Monday.com Integration for SMS/Messaging 
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/build-twilio-zoho-crm-sms-integration
-) (2025-12-03)
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/twilio-monday-com-integration-sms-messaging
+) (2025-12-08)
 - [
-Build a SendGrid MCP Server for AI Email Workflows
+Build a Twilio + Odoo Integration for WhatsApp
 ](
-https://www.twilio.com/en-us/blog/developers/community/build-a-sendgrid-mcp-server-for-ai-email-workflows
-) (2025-12-03)
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/twilio-odoo-integration-whatsapp
+) (2025-12-08)
 - [
-How to Use RabbitMQ in Go
+Receiving and Processing Incoming SMS with Twilio Webhooks in Go
 ](
-https://www.twilio.com/en-us/blog/developers/community/how-to-use-rabbitmq-in-go
-) (2025-12-03)
+https://www.twilio.com/en-us/blog/developers/community/receiving-and-processing-incoming-sms-with-twilio-webhooks-in-go
+) (2025-12-08)
 
 </details>
 
@@ -503,11 +503,11 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-use-rabbitmq-in-go
 <details>
 <summary>💬 Slack API</summary>
 
+- [GovSlack Achieves Department of Defense IL4 Authorization](https://slack.com/blog/news/govslack-achieves-department-of-defense-il4-authorization) (2025-12-09)
 - [Five proven employee engagement strategies to motivate your team](https://slack.com/blog/collaboration/five-proven-employee-engagement-strategies-to-motivate-your-team) (2025-12-01)
 - [Six Easy Tips for Workflow Mapping With Examples](https://slack.com/blog/productivity/workflow-mapping) (2025-12-01)
 - [How To Manage Multiple Projects and Operate Like a Pro](https://slack.com/blog/productivity/how-to-manage-multiple-projects) (2025-12-01)
 - [How to Improve Organizational Communication at Work](https://slack.com/blog/collaboration/how-to-improve-organizational-communication-at-work) (2025-11-24)
-- [Applying Virtual Meeting Etiquette Rules: 12 Do’s and Don’ts](https://slack.com/blog/collaboration/applying-virtual-meeting-etiquette-rules-12-dos-and-donts) (2025-11-24)
 
 </details>
 
