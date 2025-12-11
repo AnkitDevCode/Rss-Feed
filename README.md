@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Baby delivered in Waymo continues proud tradition of not making it to the hospital](https://techcrunch.com/2025/12/10/baby-delivered-in-waymo-continues-proud-tradition-of-not-making-it-to-the-hospital/) (2025-12-11)
 - [Google’s answer to the AI arms race — promote the guy behind its data center tech](https://techcrunch.com/2025/12/10/googles-answer-to-the-ai-arms-race-promote-the-guy-behind-its-data-center-tech/) (2025-12-11)
 - [State attorneys general warn Microsoft, OpenAI, Google, and other AI giants to fix ‘delusional’ outputs](https://techcrunch.com/2025/12/10/state-attorneys-general-warn-microsoft-openai-google-and-other-ai-giants-to-fix-delusional-outputs/) (2025-12-11)
 - [Nvidia is reportedly testing tracking software as chip-smuggling rumors swirl](https://techcrunch.com/2025/12/10/nvidia-is-reportedly-testing-tracking-software-as-chip-smuggling-rumors-swirl/) (2025-12-10)
 - [You can now share live video with emergency services on Android](https://techcrunch.com/2025/12/10/you-can-now-share-live-video-with-emergency-services-on-android/) (2025-12-10)
-- [CEO of South Korean retail giant Coupang resigns after massive data breach](https://techcrunch.com/2025/12/10/ceo-of-south-korean-retail-giant-coupang-resigns-after-massive-data-breach/) (2025-12-10)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Incomplete list of mistakes in the design of CSS](https://wiki.csswg.org/ideas/mistakes) (2025-12-11)
+- [Patterns.dev](https://www.patterns.dev/) (2025-12-11)
 - [When would you ever want bubblesort? (2023)](https://buttondown.com/hillelwayne/archive/when-would-you-ever-want-bubblesort/) (2025-12-10)
 - [Getting a Gemini API key is an exercise in frustration](https://ankursethi.com/blog/gemini-api-key-frustration/) (2025-12-10)
-- [I got an Nvidia GH200 server for €7.5k on Reddit and converted it to a desktop](https://dnhkng.github.io/posts/hopper/) (2025-12-10)
 - [The future of Terraform CDK](https://github.com/hashicorp/terraform-cdk) (2025-12-10)
-- [Super Mario 64 for the PS1](https://github.com/malucard/sm64-psx) (2025-12-10)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [NASA just lost contact with a Mars orbiter, and will soon lose another one](https://arstechnica.com/space/2025/12/nasa-just-lost-contact-with-a-mars-orbiter-and-will-soon-lose-another-one/) (2025-12-11)
 - [After years of resisting it, SpaceX now plans to go public. Why?](https://arstechnica.com/space/2025/12/after-years-of-resisting-it-spacex-now-plans-to-go-public-why/) (2025-12-10)
 - [After NPR and PBS defunding, FCC receives call to take away station licenses](https://arstechnica.com/tech-policy/2025/12/conservative-attacks-on-npr-and-pbs-continue-with-call-to-take-fcc-licenses/) (2025-12-10)
 - [A new open-weights AI coding model is closing in on proprietary options](https://arstechnica.com/ai/2025/12/mistral-bets-big-on-vibe-coding-with-new-autonomous-software-engineering-agent/) (2025-12-10)
 - [Cable channel subscribers grew for the first time in 8 years last quarter](https://arstechnica.com/gadgets/2025/12/cable-channel-subscribers-grew-for-the-first-time-in-years-last-quarter/) (2025-12-10)
-- [Kindle Scribe Colorsoft brings color e-ink to Amazon’s 11-inch e-reader](https://arstechnica.com/gadgets/2025/12/kindle-scribe-colorsoft-brings-color-e-ink-to-amazons-11-inch-e-reader/) (2025-12-10)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I Turned My Meeting Notes Into a Self-Updating Neo4j Knowledge Graph](https://dev.to/badmonster0/i-turned-my-meeting-notes-into-a-self-updating-neo4j-knowledge-graph-1637) (2025-12-11)
-- [How to Handle Media Queries in React Logic with a Custom Hook](https://dev.to/rogasper/how-to-handle-media-queries-in-react-logic-with-a-custom-hook-5go2) (2025-12-11)
-- [Boost Developer Revenue with Monetzly's API Monetization Tools](https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-api-monetization-tools-35of) (2025-12-11)
-- [From 16-bit to 4-bit: The Architecture for Scalable Personalized LLM Deployment](https://dev.to/shira199/from-16-bit-to-4-bit-the-architecture-for-scalable-personalized-llm-deployment-57gj) (2025-12-11)
-- [Developer & Collaboration Partner (Interview Support + Coding Tasks)](https://dev.to/jonathan_rodriguez_bdc209/developer-collaboration-partner-interview-support-coding-tasks-46ai) (2025-12-11)
+- [How git clone Really Works: A Deep Dive into Git’s Object Database](https://dev.to/zopdev/how-git-clone-really-works-a-deep-dive-into-gits-object-database-24j7) (2025-12-11)
+- [Global Server Load Balancing (GSLB): Modern Application Delivery-এর Global Backbone](https://dev.to/abusayem/global-server-load-balancing-gslb-modern-application-delivery-er-global-backbone-10l9) (2025-12-11)
+- [How XML-XSL Transformation Powers Modern Data Rendering and Automation](https://dev.to/khushi_jitani_ca127abdedd/how-xml-xsl-transformation-powers-modern-data-rendering-and-automation-5ep9) (2025-12-11)
+- [Custom Email Notifications Using AWS SES and the BoldSign API](https://dev.to/boldsign/custom-email-notifications-using-aws-ses-and-the-boldsign-api-39jf) (2025-12-11)
+- [Navigating the Data Compliance Landscape: A Strategic Guide for Modern Organizations](https://dev.to/zopdev/navigating-the-data-compliance-landscape-a-strategic-guide-for-modern-organizations-4k2l) (2025-12-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Simplify Your React Components: A Practical Guide to Derived State](https://medium.com/@imranfarooq_81537/simplify-your-react-components-a-practical-guide-to-derived-state-ea2744a7d337?source=rss------programming-5) (2025-12-11)
-- [Stop Building God-Bots (Start Stacking Skills)](https://eminentsystems.medium.com/stop-building-god-bots-start-stacking-skills-e341fe2061a2?source=rss------programming-5) (2025-12-11)
-- [How I used GPS coordinates and an exact date to prompt AI into recreating moments from history](https://generativeai.pub/ai-generates-historical-images-from-gps-coordinates-f47874fa76a4?source=rss------programming-5) (2025-12-11)
-- [How to Optimize Spring Boot to Handle 1 Million Requests per Second](https://medium.com/@sunil17bbmp/how-to-optimize-spring-boot-to-handle-1-million-requests-per-second-0cfd40135e79?source=rss------programming-5) (2025-12-11)
-- [Pisces, FMX e Outras Skias](https://samuel-ro.medium.com/pisces-fmx-e-outras-skias-c8e35ea980cc?source=rss------programming-5) (2025-12-11)
+- [OpenAI vs Google vs Meta — Who really owns the future of programming?](https://medium.com/mern-mastery/openai-vs-google-vs-meta-who-really-owns-the-future-of-programming-c35bba322289?source=rss------programming-5) (2025-12-11)
+- [Have You Mastered RabbitMQ’s 6 Working Modes? (With Complete Runnable Code)](https://medium.com/@haiou-a/have-you-mastered-rabbitmqs-6-working-modes-with-complete-runnable-code-4e048aacb156?source=rss------programming-5) (2025-12-11)
+- [We Fired Our Sprint Master and Productivity Went Up 40%](https://medium.com/@suryawanshiaditya159/we-fired-our-sprint-master-and-productivity-went-up-40-e92652a0c4e1?source=rss------programming-5) (2025-12-11)
+- [I Deleted One ‘Useless’ Line in My PL/SQL Script… and Accidentally Unlocked a Performance…](https://medium.com/@premchandak_11/i-deleted-one-useless-line-in-my-pl-sql-script-and-accidentally-unlocked-a-performance-adbeb749b08d?source=rss------programming-5) (2025-12-11)
+- [AI-Focused Technical Program Manager Interview Preparation](https://medium.com/@garisri07/ai-focused-technical-program-manager-interview-preparation-008a9fe8d6b8?source=rss------programming-5) (2025-12-11)
 
 </details>
 
@@ -362,30 +362,30 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Cyber Week 2025: Setting New Standards for Intelligent Engagement 
+Twilio Health Score for Messaging and Personalized Recommendations are now GA
 ](
-https://www.twilio.com/en-us/blog/insights/trends/cyber-week-2025-new-standards-engagement
-) (2025-12-04)
+https://www.twilio.com/en-us/blog/products/launches/health-score-recommendations-generally-available
+) (2025-12-09)
 - [
-Building Holiday Magic: Twilio Powers Real-Time Calls for ‘NORAD Tracks Santa’
+Build a Patient Reminder System with Go and Twilio
 ](
-https://www.twilio.com/en-us/blog/company/twilio-norad-santa-tracker-2025
-) (2025-12-04)
+https://www.twilio.com/en-us/blog/developers/community/build-a-patient-reminder-system-with-go-and-twilio
+) (2025-12-09)
 - [
-Build a Twilio + Zoho CRM SMS Integration
+How to Create a GraphQL Server in Go with GqlGen
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/build-twilio-zoho-crm-sms-integration
-) (2025-12-03)
+https://www.twilio.com/en-us/blog/developers/community/how-to-create-a-graphql-server-in-go-with-gqlgen
+) (2025-12-09)
 - [
-Build a SendGrid MCP Server for AI Email Workflows
+Build Permission-Aware SMS Notifications with Go, Twilio, and Permit.io
 ](
-https://www.twilio.com/en-us/blog/developers/community/build-a-sendgrid-mcp-server-for-ai-email-workflows
-) (2025-12-03)
+https://www.twilio.com/en-us/blog/developers/community/build-permission-aware-sms-notifications-with-go--twilio--and-pe
+) (2025-12-09)
 - [
-How to Use RabbitMQ in Go
+Add Two-factor Authentication in Laravel With Google Authenticator Fallback
 ](
-https://www.twilio.com/en-us/blog/developers/community/how-to-use-rabbitmq-in-go
-) (2025-12-03)
+https://www.twilio.com/en-us/blog/developers/community/add-two-factor-authentication-in-laravel-with-google-authenticat
+) (2025-12-09)
 
 </details>
 
@@ -504,11 +504,11 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-use-rabbitmq-in-go
 <details>
 <summary>💬 Slack API</summary>
 
+- [11 Best AI Workflow Automation Tools for 2026](https://slack.com/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows) (2025-12-10)
+- [How to Maximize a Workflow Management System for Efficiency](https://slack.com/blog/productivity/what-is-workflow-management-2) (2025-12-10)
+- [GovSlack Achieves Department of Defense IL4 Authorization](https://slack.com/blog/news/govslack-achieves-department-of-defense-il4-authorization) (2025-12-09)
 - [Five proven employee engagement strategies to motivate your team](https://slack.com/blog/collaboration/five-proven-employee-engagement-strategies-to-motivate-your-team) (2025-12-01)
 - [Six Easy Tips for Workflow Mapping With Examples](https://slack.com/blog/productivity/workflow-mapping) (2025-12-01)
-- [How To Manage Multiple Projects and Operate Like a Pro](https://slack.com/blog/productivity/how-to-manage-multiple-projects) (2025-12-01)
-- [How to Improve Organizational Communication at Work](https://slack.com/blog/collaboration/how-to-improve-organizational-communication-at-work) (2025-11-24)
-- [Applying Virtual Meeting Etiquette Rules: 12 Do’s and Don’ts](https://slack.com/blog/collaboration/applying-virtual-meeting-etiquette-rules-12-dos-and-donts) (2025-11-24)
 
 </details>
 
