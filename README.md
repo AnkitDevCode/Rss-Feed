@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Port raises $100M at $800M valuation to take on Spotify’s Backstage](https://techcrunch.com/2025/12/11/port-raises-100m-at-800m-valuation-to-take-on-spotifys-backstage/) (2025-12-11)
+- [Runware raises $50M Series A to help make image, video generation easier for developers](https://techcrunch.com/2025/12/11/runware-raises-50m-series-a-from-dawn-capital-comcast-ventures-to-become-the-api-for-all-ai/) (2025-12-11)
+- [Harness hits $5.5B valuation with $240M raise to automate AI’s ‘after-code’ gap](https://techcrunch.com/2025/12/11/harness-hits-5-5b-valuation-with-240m-to-automate-ais-after-code-gap/) (2025-12-11)
 - [Baby delivered in Waymo continues proud tradition of not making it to the hospital](https://techcrunch.com/2025/12/10/baby-delivered-in-waymo-continues-proud-tradition-of-not-making-it-to-the-hospital/) (2025-12-11)
 - [Google’s answer to the AI arms race — promote the guy behind its data center tech](https://techcrunch.com/2025/12/10/googles-answer-to-the-ai-arms-race-promote-the-guy-behind-its-data-center-tech/) (2025-12-11)
-- [State attorneys general warn Microsoft, OpenAI, Google, and other AI giants to fix ‘delusional’ outputs](https://techcrunch.com/2025/12/10/state-attorneys-general-warn-microsoft-openai-google-and-other-ai-giants-to-fix-delusional-outputs/) (2025-12-11)
-- [Nvidia is reportedly testing tracking software as chip-smuggling rumors swirl](https://techcrunch.com/2025/12/10/nvidia-is-reportedly-testing-tracking-software-as-chip-smuggling-rumors-swirl/) (2025-12-10)
-- [You can now share live video with emergency services on Android](https://techcrunch.com/2025/12/10/you-can-now-share-live-video-with-emergency-services-on-android/) (2025-12-10)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Meta shuts down global accounts linked to abortion advice and queer content](https://www.theguardian.com/global-development/2025/dec/11/meta-shuts-down-global-accounts-linked-to-abortion-advice-and-queer-content) (2025-12-11)
+- [If You Quit Social Media, Will You Read More Books?](https://www.newyorker.com/news/fault-lines/if-you-quit-social-media-will-you-read-more-books) (2025-12-11)
+- [A "Frozen" Dictionary for Python](https://lwn.net/SubscriberLink/1047238/25c270b077849dc0/) (2025-12-11)
+- [The Cost of a Closure in C](https://thephd.dev/the-cost-of-a-closure-in-c-c2y) (2025-12-11)
 - [Incomplete list of mistakes in the design of CSS](https://wiki.csswg.org/ideas/mistakes) (2025-12-11)
-- [Patterns.dev](https://www.patterns.dev/) (2025-12-11)
-- [When would you ever want bubblesort? (2023)](https://buttondown.com/hillelwayne/archive/when-would-you-ever-want-bubblesort/) (2025-12-10)
-- [Getting a Gemini API key is an exercise in frustration](https://ankursethi.com/blog/gemini-api-key-frustration/) (2025-12-10)
-- [The future of Terraform CDK](https://github.com/hashicorp/terraform-cdk) (2025-12-10)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Adobe sees a bright future as AI bet pays off](https://www.theverge.com/news/842256/adobe-2025-earnings-ai-growth) (2025-12-11)
+- [Ayaneo’s first Android phone looks like a return of the Xperia Play](https://www.theverge.com/news/842243/ayaneo-pocket-play-gaming-phone-android-sony-xperia-play) (2025-12-11)
 - [Donald Trump reminds the entire world he has no idea what 6G means](https://www.theverge.com/policy/842087/trump-does-not-understand-6g-5g) (2025-12-10)
 - [Trump could introduce ‘mandatory’ social media reviews for travelers](https://www.theverge.com/news/842129/trump-admin-us-cbp-social-media-history-travelers) (2025-12-10)
 - [Spotify&#8217;s Prompted Playlists use AI to control your algorithm](https://www.theverge.com/news/842053/spotify-ai-prompted-playlists) (2025-12-10)
-- [Operation Bluebird wants to reclaim Twitter’s ‘abandoned’ trademarks for a new social network](https://www.theverge.com/report/841994/operation-bluebird-twitter-trademarks-petition) (2025-12-10)
-- [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop) (2025-12-10)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Solar geoengineering startups are getting serious](https://www.technologyreview.com/2025/12/11/1129239/solar-geoengineering-startups-are-getting-serious/) (2025-12-11)
 - [Exclusive eBook: Aging Clocks & Understanding Why We Age](https://www.technologyreview.com/2025/12/10/1128999/exclusive-ebook-aging-clocks-understanding-why-we-age/) (2025-12-10)
 - [The Download: a controversial proposal to solve climate change, and our future grids](https://www.technologyreview.com/2025/12/10/1129186/the-download-a-controversial-proposal-to-solve-climate-change-and-our-future-grids/) (2025-12-10)
 - [Securing VMware workloads in regulated industries](https://www.technologyreview.com/2025/12/10/1128475/securing-vmware-workloads-in-regulated-industries/) (2025-12-10)
 - [How one controversial startup hopes to cool the planet](https://www.technologyreview.com/2025/12/10/1129079/how-one-controversial-startup-hopes-to-cool-the-planet/) (2025-12-10)
-- [The Download: a peek at AI’s future](https://www.technologyreview.com/2025/12/09/1129029/the-download-a-peek-at-ais-future/) (2025-12-09)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How git clone Really Works: A Deep Dive into Git’s Object Database](https://dev.to/zopdev/how-git-clone-really-works-a-deep-dive-into-gits-object-database-24j7) (2025-12-11)
-- [Global Server Load Balancing (GSLB): Modern Application Delivery-এর Global Backbone](https://dev.to/abusayem/global-server-load-balancing-gslb-modern-application-delivery-er-global-backbone-10l9) (2025-12-11)
-- [How XML-XSL Transformation Powers Modern Data Rendering and Automation](https://dev.to/khushi_jitani_ca127abdedd/how-xml-xsl-transformation-powers-modern-data-rendering-and-automation-5ep9) (2025-12-11)
-- [Custom Email Notifications Using AWS SES and the BoldSign API](https://dev.to/boldsign/custom-email-notifications-using-aws-ses-and-the-boldsign-api-39jf) (2025-12-11)
-- [Navigating the Data Compliance Landscape: A Strategic Guide for Modern Organizations](https://dev.to/zopdev/navigating-the-data-compliance-landscape-a-strategic-guide-for-modern-organizations-4k2l) (2025-12-11)
+- [Build a LinkedIn Lead Enricher for your CRM with Node.js](https://dev.to/olams/build-a-linkedin-lead-enricher-for-your-crm-with-nodejs-33b4) (2025-12-11)
+- [🚀 How I Created an AI-Powered Secret Santa Using Cognee as the Memory Layer](https://dev.to/pravesh_sudha_3c2b0c2b5e0/how-i-created-an-ai-powered-secret-santa-using-cognee-as-the-memory-layer-2enl) (2025-12-11)
+- [I Built a Distributed AI Search Engine That Lets Websites 'Talk' Directly to LLMs (No Indexing Required)](https://dev.to/oleg_yaruchyk/i-built-a-distributed-ai-search-engine-to-kill-seo-turn-your-website-into-an-agent-1me0) (2025-12-11)
+- [Building GuessAnswer.com: A Fast, Simple, and Addictive Web Trivia Game](https://dev.to/lynn123456/building-guessanswercom-a-fast-simple-and-addictive-web-trivia-game-5c41) (2025-12-11)
+- [Yearn yETH: How a Solver Flaw Caused a $9M Loss?](https://dev.to/quillaudits/yearn-yeth-how-a-solver-flaw-caused-a-9m-loss-4m9n) (2025-12-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [OpenAI vs Google vs Meta — Who really owns the future of programming?](https://medium.com/mern-mastery/openai-vs-google-vs-meta-who-really-owns-the-future-of-programming-c35bba322289?source=rss------programming-5) (2025-12-11)
-- [Have You Mastered RabbitMQ’s 6 Working Modes? (With Complete Runnable Code)](https://medium.com/@haiou-a/have-you-mastered-rabbitmqs-6-working-modes-with-complete-runnable-code-4e048aacb156?source=rss------programming-5) (2025-12-11)
-- [We Fired Our Sprint Master and Productivity Went Up 40%](https://medium.com/@suryawanshiaditya159/we-fired-our-sprint-master-and-productivity-went-up-40-e92652a0c4e1?source=rss------programming-5) (2025-12-11)
-- [I Deleted One ‘Useless’ Line in My PL/SQL Script… and Accidentally Unlocked a Performance…](https://medium.com/@premchandak_11/i-deleted-one-useless-line-in-my-pl-sql-script-and-accidentally-unlocked-a-performance-adbeb749b08d?source=rss------programming-5) (2025-12-11)
-- [AI-Focused Technical Program Manager Interview Preparation](https://medium.com/@garisri07/ai-focused-technical-program-manager-interview-preparation-008a9fe8d6b8?source=rss------programming-5) (2025-12-11)
+- [Lock Any PDF with Python in 20 Lines](https://medium.com/@doriansotpyrc/lock-any-pdf-with-python-in-20-lines-0098d49c826d?source=rss------programming-5) (2025-12-11)
+- [I Tried 20+ Libraries for AI Automation — These 7 Actually Delivered](https://python.plainenglish.io/i-tried-20-libraries-for-ai-automation-these-7-actually-delivered-d663c9929128?source=rss------programming-5) (2025-12-11)
+- [#trading #sidehustle #wifimoney #luxurylifestyle #lifestyle #internetmoney](https://btctools.medium.com/trading-sidehustle-wifimoney-luxurylifestyle-lifestyle-internetmoney-34c766bb4c2e?source=rss------programming-5) (2025-12-11)
+- [Urgent Nursing & Healthcare Scholarships Closing in January 2026.](https://medium.com/@gterahub/urgent-nursing-healthcare-scholarships-closing-in-january-2026-91fab71e2720?source=rss------programming-5) (2025-12-11)
+- [Debugging PyTorch at 2 AM: Real Lessons, Real Pain](https://levelup.gitconnected.com/debugging-pytorch-at-2-am-real-lessons-real-pain-ef7c90ea1ec4?source=rss------programming-5) (2025-12-11)
 
 </details>
 
@@ -362,6 +362,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Generating Synthetic Call Data to Test Twilio Voice and Conversational Intelligence and Segment Integration
+](
+https://www.twilio.com/en-us/blog/developers/best-practices/synthetic-call-data-conversational-intelligence-segment-voice
+) (2025-12-10)
+- [
+How Email Rendering Impacts Sender Reputation
+](
+https://www.twilio.com/en-us/blog/insights/rendering-impacts-reputation
+) (2025-12-10)
+- [
 Twilio Health Score for Messaging and Personalized Recommendations are now GA
 ](
 https://www.twilio.com/en-us/blog/products/launches/health-score-recommendations-generally-available
@@ -375,16 +385,6 @@ https://www.twilio.com/en-us/blog/developers/community/build-a-patient-reminder-
 How to Create a GraphQL Server in Go with GqlGen
 ](
 https://www.twilio.com/en-us/blog/developers/community/how-to-create-a-graphql-server-in-go-with-gqlgen
-) (2025-12-09)
-- [
-Build Permission-Aware SMS Notifications with Go, Twilio, and Permit.io
-](
-https://www.twilio.com/en-us/blog/developers/community/build-permission-aware-sms-notifications-with-go--twilio--and-pe
-) (2025-12-09)
-- [
-Add Two-factor Authentication in Laravel With Google Authenticator Fallback
-](
-https://www.twilio.com/en-us/blog/developers/community/add-two-factor-authentication-in-laravel-with-google-authenticat
 ) (2025-12-09)
 
 </details>
@@ -504,11 +504,11 @@ https://www.twilio.com/en-us/blog/developers/community/add-two-factor-authentica
 <details>
 <summary>💬 Slack API</summary>
 
-- [11 Best AI Workflow Automation Tools for 2026](https://slack.com/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows) (2025-12-10)
-- [How to Maximize a Workflow Management System for Efficiency](https://slack.com/blog/productivity/what-is-workflow-management-2) (2025-12-10)
 - [GovSlack Achieves Department of Defense IL4 Authorization](https://slack.com/blog/news/govslack-achieves-department-of-defense-il4-authorization) (2025-12-09)
 - [Five proven employee engagement strategies to motivate your team](https://slack.com/blog/collaboration/five-proven-employee-engagement-strategies-to-motivate-your-team) (2025-12-01)
 - [Six Easy Tips for Workflow Mapping With Examples](https://slack.com/blog/productivity/workflow-mapping) (2025-12-01)
+- [How To Manage Multiple Projects and Operate Like a Pro](https://slack.com/blog/productivity/how-to-manage-multiple-projects) (2025-12-01)
+- [How to Improve Organizational Communication at Work](https://slack.com/blog/collaboration/how-to-improve-organizational-communication-at-work) (2025-11-24)
 
 </details>
 
@@ -570,22 +570,22 @@ https://www.twilio.com/en-us/blog/developers/community/add-two-factor-authentica
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How Agent Handoffs Work in Multi-Agent Systems](https://towardsdatascience.com/how-agent-handoffs-work-in-multi-agent-systems/) (2025-12-11)
 - [The Machine Learning “Advent Calendar” Day 10: DBSCAN in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-10-dbscan-in-excel/) (2025-12-10)
 - [How to Maximize Agentic Memory for Continual Learning](https://towardsdatascience.com/how-to-maximize-agentic-memory-for-continual-learning/) (2025-12-10)
 - [Don’t Build an ML Portfolio Without These Projects](https://towardsdatascience.com/dont-build-an-ml-portfolio-without-these-projects/) (2025-12-10)
 - [Optimizing PyTorch Model Inference on AWS Graviton](https://towardsdatascience.com/optimizing-pytorch-model-inference-on-aws-graviton/) (2025-12-10)
-- [The Machine Learning “Advent Calendar” Day 9: LOF in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-9-lof-in-excel/) (2025-12-09)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Guide to OpenAI API Models and How to Use Them](https://www.analyticsvidhya.com/blog/2025/12/openai-api-models/) (2025-12-11)
 - [All About Mistral’s DevStral 2, DevStral Small & Vibe CLI](https://www.analyticsvidhya.com/blog/2025/12/mistral-devstral-2-and-vibe-cli/) (2025-12-10)
 - [Building and Deploying a Machine Learning Model Using FastAPI](https://www.analyticsvidhya.com/blog/2025/12/fastapi-machine-learning-deployment/) (2025-12-10)
 - [LlamaExtract: Streamline Data Extraction from Any Document](https://www.analyticsvidhya.com/blog/2025/12/llamaextract/) (2025-12-10)
 - [Z.ai Reveals New GLM-4.6V: Should You Use it?](https://www.analyticsvidhya.com/blog/2025/12/z-ai-glm-4-6v/) (2025-12-09)
-- [10 Ways to Slash Inference Costs with OpenAI LLMs](https://www.analyticsvidhya.com/blog/2025/12/llm-cost-optimization/) (2025-12-09)
 
 </details>
 
