@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Google is testing AI-powered article overviews on select publications’ Google News pages](https://techcrunch.com/2025/12/10/google-is-testing-ai-powered-article-overviews-on-select-publications-google-news-pages/) (2025-12-10)
-- [Amazon changes how copyright protection is applied to Kindle Direct’s self-published ebooks](https://techcrunch.com/2025/12/10/amazon-changes-how-copyright-protection-is-applied-to-kindle-directs-self-published-ebooks/) (2025-12-10)
-- [ChatGPT is Apple’s most downloaded app of 2025 in the US](https://techcrunch.com/2025/12/10/chatgpt-is-apples-most-downloaded-app-of-2025-in-the-us/) (2025-12-10)
-- [Amazon now offers same-day delivery of perishable groceries in 2,300 US cities](https://techcrunch.com/2025/12/10/amazon-now-offers-same-day-delivery-of-perishable-groceries-in-2300-us-cities/) (2025-12-10)
-- [Oboe raises $16 million from a16z for its AI-powered course-generation platform](https://techcrunch.com/2025/12/10/oboe-raises-16-million-from-a16z-for-its-ai-powered-course-generation-platform/) (2025-12-10)
+- [Google’s answer to the AI arms race — promote the guy behind its data center tech](https://techcrunch.com/2025/12/10/googles-answer-to-the-ai-arms-race-promote-the-guy-behind-its-data-center-tech/) (2025-12-11)
+- [State attorneys general warn Microsoft, OpenAI, Google, and other AI giants to fix ‘delusional’ outputs](https://techcrunch.com/2025/12/10/state-attorneys-general-warn-microsoft-openai-google-and-other-ai-giants-to-fix-delusional-outputs/) (2025-12-11)
+- [Nvidia is reportedly testing tracking software as chip-smuggling rumors swirl](https://techcrunch.com/2025/12/10/nvidia-is-reportedly-testing-tracking-software-as-chip-smuggling-rumors-swirl/) (2025-12-10)
+- [You can now share live video with emergency services on Android](https://techcrunch.com/2025/12/10/you-can-now-share-live-video-with-emergency-services-on-android/) (2025-12-10)
+- [CEO of South Korean retail giant Coupang resigns after massive data breach](https://techcrunch.com/2025/12/10/ceo-of-south-korean-retail-giant-coupang-resigns-after-massive-data-breach/) (2025-12-10)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Is it a bubble?](https://www.oaktreecapital.com/insights/memo/is-it-a-bubble) (2025-12-10)
-- [Auto-grading decade-old Hacker News discussions with hindsight](https://karpathy.bearblog.dev/auto-grade-hn/) (2025-12-10)
-- [Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux](https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html) (2025-12-10)
-- [9 Mothers (YC X26) Is Hiring](https://app.dover.com/jobs/9mothers) (2025-12-10)
-- [DeepSeek uses banned Nvidia chips for AI model, report says](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html) (2025-12-10)
+- [When would you ever want bubblesort? (2023)](https://buttondown.com/hillelwayne/archive/when-would-you-ever-want-bubblesort/) (2025-12-10)
+- [Getting a Gemini API key is an exercise in frustration](https://ankursethi.com/blog/gemini-api-key-frustration/) (2025-12-10)
+- [I got an Nvidia GH200 server for €7.5k on Reddit and converted it to a desktop](https://dnhkng.github.io/posts/hopper/) (2025-12-10)
+- [The future of Terraform CDK](https://github.com/hashicorp/terraform-cdk) (2025-12-10)
+- [Super Mario 64 for the PS1](https://github.com/malucard/sm64-psx) (2025-12-10)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The 27 best gifts for travelers who are always on the move](https://www.theverge.com/gadgets/799419/best-gifts-for-travelers-2025) (2025-12-10)
-- [Android users can now share a live video on 911 calls](https://www.theverge.com/news/841503/android-emergency-live-video) (2025-12-10)
-- [Google says it will link to more sources in AI Mode](https://www.theverge.com/news/841603/google-ai-mode-source-links-web-guide) (2025-12-10)
-- [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera) (2025-12-10)
-- [Calibri is too woke for the State Department](https://www.theverge.com/news/841664/calibri-is-too-woke-for-the-state-department) (2025-12-10)
+- [Donald Trump reminds the entire world he has no idea what 6G means](https://www.theverge.com/policy/842087/trump-does-not-understand-6g-5g) (2025-12-10)
+- [Trump could introduce ‘mandatory’ social media reviews for travelers](https://www.theverge.com/news/842129/trump-admin-us-cbp-social-media-history-travelers) (2025-12-10)
+- [Spotify&#8217;s Prompted Playlists use AI to control your algorithm](https://www.theverge.com/news/842053/spotify-ai-prompted-playlists) (2025-12-10)
+- [Operation Bluebird wants to reclaim Twitter’s ‘abandoned’ trademarks for a new social network](https://www.theverge.com/report/841994/operation-bluebird-twitter-trademarks-petition) (2025-12-10)
+- [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop) (2025-12-10)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Ugly infotainment mars the 2025 Subaru Forester Hybrid experience](https://arstechnica.com/cars/2025/12/ugly-infotainment-mars-the-2025-subaru-forester-hybrid-experience/) (2025-12-10)
-- [This is the oldest evidence of people starting fires](https://arstechnica.com/science/2025/12/this-is-the-oldest-evidence-of-people-starting-fires/) (2025-12-10)
-- [Sperm donor with rare cancer mutation fathered nearly 200 children in Europe](https://arstechnica.com/health/2025/12/sperm-donor-with-rare-cancer-mutation-fathered-nearly-200-children-in-europe/) (2025-12-10)
-- [Impeachment articles filed against RFK Jr., claiming abuse of power](https://arstechnica.com/health/2025/12/impeachment-articles-filed-against-rfk-jr-claiming-abuse-of-power/) (2025-12-10)
-- [Dr. Oz tells his federal employees to eat less during the holidays](https://arstechnica.com/health/2025/12/dr-oz-tells-his-federal-employees-to-eat-less-during-the-holidays/) (2025-12-10)
+- [After years of resisting it, SpaceX now plans to go public. Why?](https://arstechnica.com/space/2025/12/after-years-of-resisting-it-spacex-now-plans-to-go-public-why/) (2025-12-10)
+- [After NPR and PBS defunding, FCC receives call to take away station licenses](https://arstechnica.com/tech-policy/2025/12/conservative-attacks-on-npr-and-pbs-continue-with-call-to-take-fcc-licenses/) (2025-12-10)
+- [A new open-weights AI coding model is closing in on proprietary options](https://arstechnica.com/ai/2025/12/mistral-bets-big-on-vibe-coding-with-new-autonomous-software-engineering-agent/) (2025-12-10)
+- [Cable channel subscribers grew for the first time in 8 years last quarter](https://arstechnica.com/gadgets/2025/12/cable-channel-subscribers-grew-for-the-first-time-in-years-last-quarter/) (2025-12-10)
+- [Kindle Scribe Colorsoft brings color e-ink to Amazon’s 11-inch e-reader](https://arstechnica.com/gadgets/2025/12/kindle-scribe-colorsoft-brings-color-e-ink-to-amazons-11-inch-e-reader/) (2025-12-10)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why Engraved Wooden Gifts Are the Perfect Choice for Thoughtful Giving](https://dev.to/smithwilliam/why-engraved-wooden-gifts-are-the-perfect-choice-for-thoughtful-giving-1doa) (2025-12-10)
-- [Java vs Swift in 2025: The One Choice That Can Make or Break Your App](https://dev.to/chillicode/java-vs-swift-in-2025-the-one-choice-that-can-make-or-break-your-app-1d90) (2025-12-10)
-- [Why I Started Letting AI Handle My 3D Modeling Workflow — As a Developer, I Strongly Recommend Trying This AI 3D Model Tool](https://dev.to/dolla_innovations_0748b0c/why-i-started-letting-ai-handle-my-3d-modeling-workflow-as-a-developer-i-strongly-recommend-1h4a) (2025-12-10)
-- [December 2025 AI Tools: The Updates Quietly Reshaping How We Work, Create & Automate](https://dev.to/jdkhan/december-2025-ai-tools-the-updates-quietly-reshaping-how-we-work-create-automate-12ah) (2025-12-10)
-- [MCP Isn’t Hard, Here’s the Easiest Beginner-Friendly MCP MASTERCLASS EVER🤗 (PART 1)](https://dev.to/fonyuygita/mcp-isnt-hard-heres-the-easiest-beginner-friendly-mcp-masterclass-ever-part-1-4pel) (2025-12-10)
+- [I Turned My Meeting Notes Into a Self-Updating Neo4j Knowledge Graph](https://dev.to/badmonster0/i-turned-my-meeting-notes-into-a-self-updating-neo4j-knowledge-graph-1637) (2025-12-11)
+- [How to Handle Media Queries in React Logic with a Custom Hook](https://dev.to/rogasper/how-to-handle-media-queries-in-react-logic-with-a-custom-hook-5go2) (2025-12-11)
+- [Boost Developer Revenue with Monetzly's API Monetization Tools](https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-api-monetization-tools-35of) (2025-12-11)
+- [From 16-bit to 4-bit: The Architecture for Scalable Personalized LLM Deployment](https://dev.to/shira199/from-16-bit-to-4-bit-the-architecture-for-scalable-personalized-llm-deployment-57gj) (2025-12-11)
+- [Developer & Collaboration Partner (Interview Support + Coding Tasks)](https://dev.to/jonathan_rodriguez_bdc209/developer-collaboration-partner-interview-support-coding-tasks-46ai) (2025-12-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [OOP Series — Part 5: Abstraction](https://medium.com/@jm.dilusha.lakshan/oop-series-part-5-abstraction-474ad98e1b55?source=rss------programming-5) (2025-12-10)
-- [The Next Programming Revolution Won’t Be a Language](https://medium.com/@CodeWithPurpose/the-next-programming-revolution-wont-be-a-language-57b3cb0115dc?source=rss------programming-5) (2025-12-10)
-- [The Secret CSS SUPERPOWERS Chrome Shipped In 2025 (And How They Change Everything)](https://javascript.plainenglish.io/the-secret-css-superpowers-chrome-shipped-in-2025-and-how-they-change-everything-4bd637e78d30?source=rss------programming-5) (2025-12-10)
-- [How to Handle Imbalanced Datasets in Machine Learning: Techniques and Tools](https://theanalyticsedge.medium.com/how-to-handle-imbalanced-datasets-in-machine-learning-techniques-and-tools-6af8edbdb90e?source=rss------programming-5) (2025-12-10)
-- [Part 8: Python Lists Dynamic Arrays for Storing and Manipulating Data Your Dynamic Toolkit for…](https://medium.com/@ai-futures/part-8-python-lists-dynamic-arrays-for-storing-and-manipulating-data-your-dynamic-toolkit-for-c4401a6b92b6?source=rss------programming-5) (2025-12-10)
+- [Simplify Your React Components: A Practical Guide to Derived State](https://medium.com/@imranfarooq_81537/simplify-your-react-components-a-practical-guide-to-derived-state-ea2744a7d337?source=rss------programming-5) (2025-12-11)
+- [Stop Building God-Bots (Start Stacking Skills)](https://eminentsystems.medium.com/stop-building-god-bots-start-stacking-skills-e341fe2061a2?source=rss------programming-5) (2025-12-11)
+- [How I used GPS coordinates and an exact date to prompt AI into recreating moments from history](https://generativeai.pub/ai-generates-historical-images-from-gps-coordinates-f47874fa76a4?source=rss------programming-5) (2025-12-11)
+- [How to Optimize Spring Boot to Handle 1 Million Requests per Second](https://medium.com/@sunil17bbmp/how-to-optimize-spring-boot-to-handle-1-million-requests-per-second-0cfd40135e79?source=rss------programming-5) (2025-12-11)
+- [Pisces, FMX e Outras Skias](https://samuel-ro.medium.com/pisces-fmx-e-outras-skias-c8e35ea980cc?source=rss------programming-5) (2025-12-11)
 
 </details>
 
@@ -130,22 +130,22 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Microsoft Foundry: Scale innovation on a modular, interoperable, and secure agent stack](https://azure.microsoft.com/en-us/blog/microsoft-foundry-scale-innovation-on-a-modular-interoperable-and-secure-agent-stack/) (2025-11-18)
-- [Azure at Microsoft Ignite 2025: All the intelligent cloud news explained](https://azure.microsoft.com/en-us/blog/azure-at-microsoft-ignite-2025-all-the-intelligent-cloud-news-explained/) (2025-11-18)
-- [Microsoft Databases and Microsoft Fabric: Your unified and AI-powered data estate](https://azure.microsoft.com/en-us/blog/microsoft-databases-and-microsoft-fabric-your-unified-and-ai-powered-data-estate/) (2025-11-18)
-- [Announcing Azure Copilot agents and AI infrastructure innovations](https://azure.microsoft.com/en-us/blog/announcing-azure-copilot-agents-and-ai-infrastructure-innovations/) (2025-11-18)
-- [Introducing Anthropic’s Claude models in Microsoft Foundry: Bringing Frontier intelligence to Azure](https://azure.microsoft.com/en-us/blog/introducing-anthropics-claude-models-in-microsoft-foundry-bringing-frontier-intelligence-to-azure/) (2025-11-18)
+- [Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025](https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/) (2025-12-10)
+- [Microsoft’s commitment to supporting cloud infrastructure demand in the United States](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/) (2025-12-09)
+- [New options for AI-powered innovation, resiliency, and control with Microsoft Azure](https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/) (2025-12-03)
+- [Introducing Mistral Large 3 in Microsoft Foundry: Open, capable, and ready for production workloads](https://azure.microsoft.com/en-us/blog/introducing-mistral-large-3-in-microsoft-foundry-open-capable-and-ready-for-production-workloads/) (2025-12-02)
+- [A decade of open innovation: Celebrating 10 years of Microsoft and Red Hat partnership](https://azure.microsoft.com/en-us/blog/a-decade-of-open-innovation-celebrating-10-years-of-microsoft-and-red-hat-partnership/) (2025-12-02)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Opt-In NVIDIA Software Enables Data Center Fleet Management](https://blogs.nvidia.com/blog/optional-data-center-fleet-management-software/) (2025-12-10)
+- [How NVIDIA H100 GPUs on CoreWeave’s AI Cloud Platform Delivered a Record-Breaking Graph500 Run](https://blogs.nvidia.com/blog/h100-coreweave-graph500/) (2025-12-10)
+- [3 Ways NVIDIA Is Powering the Industrial Revolution](https://blogs.nvidia.com/blog/gpu-cuda-scaling-laws-industrial-revolution/) (2025-12-10)
 - [NVIDIA Awards up to $60,000 Research Fellowships to PhD Students](https://blogs.nvidia.com/blog/graduate-fellowship-recipients-2026-2027/) (2025-12-04)
 - [Robots’ Holiday Wishes Come True: NVIDIA Jetson Platform Offers High-Performance Edge AI at Festive Prices](https://blogs.nvidia.com/blog/jetson-edge-ai-holiday-2025/) (2025-12-04)
-- [Game the Halls: GeForce NOW Brings Holiday Cheer With 30 New Games in the Cloud](https://blogs.nvidia.com/blog/geforce-now-thursday-dec-2025/) (2025-12-04)
-- [Mixture of Experts Powers the Most Intelligent Frontier AI Models, Runs 10x Faster on NVIDIA Blackwell NVL72](https://blogs.nvidia.com/blog/mixture-of-experts-frontier-models/) (2025-12-03)
-- [NVIDIA Partners With Mistral AI to Accelerate New Family of Open Models](https://blogs.nvidia.com/blog/mistral-frontier-open-models/) (2025-12-02)
 
 </details>
 
@@ -295,22 +295,22 @@
 <details>
 <summary>📌 Pinterest Engineering</summary>
 
+- [LLM-Powered Relevance Assessment for Pinterest Search](https://medium.com/pinterest-engineering/llm-powered-relevance-assessment-for-pinterest-search-b846489e358d?source=rss-ef81ef829bcb------2) (2025-12-10)
 - [How Pinterest Built a Real‑Time Radar for Violative Content using AI](https://medium.com/pinterest-engineering/how-pinterest-built-a-real-time-radar-for-violative-content-using-ai-d5a108e02ac2?source=rss-ef81ef829bcb------2) (2025-12-08)
 - [Improving Quality of Recommended Content through Pinner Surveys](https://medium.com/pinterest-engineering/improving-quality-of-recommended-content-through-pinner-surveys-eebca8a52652?source=rss-ef81ef829bcb------2) (2025-12-05)
 - [On the (re)-prioritization of open-source AI](https://medium.com/pinterest-engineering/on-the-re-prioritization-of-open-source-ai-86f7279481e3?source=rss-ef81ef829bcb------2) (2025-12-04)
 - [Autonomous Observability at Pinterest (Part 1 of 2)](https://medium.com/pinterest-engineering/autonomous-observability-at-pinterest-part-1-of-2-eb0adae830ba?source=rss-ef81ef829bcb------2) (2025-12-03)
-- [Slashing CI Wait Times: How Pinterest Cut Android Testing Build Times by 36%+](https://medium.com/pinterest-engineering/slashing-ci-wait-times-how-pinterest-cut-android-testing-build-times-by-36-feb6ff121d91?source=rss-ef81ef829bcb------2) (2025-11-10)
 
 </details>
 
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Built-in Laravel Support: A New Era for PhpStorm Developers](https://blog.jetbrains.com/phpstorm/2025/12/built-in-laravel-support-a-new-era-for-phpstorm-developers/) (2025-12-10)
 - [Issue Center, All Reports Tab, Improved Report Sharing, the Ability to Change User Roles, and More in Datalore 2025.6](https://blog.jetbrains.com/datalore/2025/12/10/datalore-2025-6/) (2025-12-10)
 - [Workspace Backups in Git Repositories, the Ability to Share Reports With Preselected Values, Mobile Layout for Reports, and More in Datalore 2025.5](https://blog.jetbrains.com/datalore/2025/12/10/datalore-2025-5/) (2025-12-10)
 - [Major Architectural Update: Introducing the New Search Everywhere API (Built for Remote Development)](https://blog.jetbrains.com/platform/2025/12/major-architectural-update-introducing-the-new-search-everywhere-api-built-for-remote-development/) (2025-12-10)
 - [Introducing the TeamCity Operator for Kubernetes](https://blog.jetbrains.com/teamcity/2025/12/teamcity-kubernetes-operator/) (2025-12-10)
-- [How Backend Development Teams Use Kotlin in 2025: Insights from a Certified Trainer](https://blog.jetbrains.com/kotlin/2025/12/how-backend-development-teams-use-kotlin-in-2025/) (2025-12-09)
 
 </details>
 
@@ -362,30 +362,30 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Can You See Me Now? Verizon Joins T-Mobile to Put Your Brand Front and Center
+Cyber Week 2025: Setting New Standards for Intelligent Engagement 
 ](
-https://www.twilio.com/en-us/blog/products/launches/enhanced-branded-calling-public-beta
-) (2025-12-08)
+https://www.twilio.com/en-us/blog/insights/trends/cyber-week-2025-new-standards-engagement
+) (2025-12-04)
 - [
-Implementing an SMS Auto-Responder with Twilio and Go
+Building Holiday Magic: Twilio Powers Real-Time Calls for ‘NORAD Tracks Santa’
 ](
-https://www.twilio.com/en-us/blog/developers/community/implementing-an-sms-auto-responder-with-twilio-and-go
-) (2025-12-08)
+https://www.twilio.com/en-us/blog/company/twilio-norad-santa-tracker-2025
+) (2025-12-04)
 - [
-Build a Twilio + Monday.com Integration for SMS/Messaging 
+Build a Twilio + Zoho CRM SMS Integration
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/twilio-monday-com-integration-sms-messaging
-) (2025-12-08)
+https://www.twilio.com/en-us/blog/developers/tutorials/build-twilio-zoho-crm-sms-integration
+) (2025-12-03)
 - [
-Build a Twilio + Odoo Integration for WhatsApp
+Build a SendGrid MCP Server for AI Email Workflows
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/twilio-odoo-integration-whatsapp
-) (2025-12-08)
+https://www.twilio.com/en-us/blog/developers/community/build-a-sendgrid-mcp-server-for-ai-email-workflows
+) (2025-12-03)
 - [
-Receiving and Processing Incoming SMS with Twilio Webhooks in Go
+How to Use RabbitMQ in Go
 ](
-https://www.twilio.com/en-us/blog/developers/community/receiving-and-processing-incoming-sms-with-twilio-webhooks-in-go
-) (2025-12-08)
+https://www.twilio.com/en-us/blog/developers/community/how-to-use-rabbitmq-in-go
+) (2025-12-03)
 
 </details>
 
@@ -504,11 +504,11 @@ https://www.twilio.com/en-us/blog/developers/community/receiving-and-processing-
 <details>
 <summary>💬 Slack API</summary>
 
-- [GovSlack Achieves Department of Defense IL4 Authorization](https://slack.com/blog/news/govslack-achieves-department-of-defense-il4-authorization) (2025-12-09)
 - [Five proven employee engagement strategies to motivate your team](https://slack.com/blog/collaboration/five-proven-employee-engagement-strategies-to-motivate-your-team) (2025-12-01)
 - [Six Easy Tips for Workflow Mapping With Examples](https://slack.com/blog/productivity/workflow-mapping) (2025-12-01)
 - [How To Manage Multiple Projects and Operate Like a Pro](https://slack.com/blog/productivity/how-to-manage-multiple-projects) (2025-12-01)
 - [How to Improve Organizational Communication at Work](https://slack.com/blog/collaboration/how-to-improve-organizational-communication-at-work) (2025-11-24)
+- [Applying Virtual Meeting Etiquette Rules: 12 Do’s and Don’ts](https://slack.com/blog/collaboration/applying-virtual-meeting-etiquette-rules-12-dos-and-donts) (2025-11-24)
 
 </details>
 
@@ -581,11 +581,11 @@ https://www.twilio.com/en-us/blog/developers/community/receiving-and-processing-
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [All About Mistral’s DevStral 2, DevStral Small & Vibe CLI](https://www.analyticsvidhya.com/blog/2025/12/mistral-devstral-2-and-vibe-cli/) (2025-12-10)
 - [Building and Deploying a Machine Learning Model Using FastAPI](https://www.analyticsvidhya.com/blog/2025/12/fastapi-machine-learning-deployment/) (2025-12-10)
 - [LlamaExtract: Streamline Data Extraction from Any Document](https://www.analyticsvidhya.com/blog/2025/12/llamaextract/) (2025-12-10)
 - [Z.ai Reveals New GLM-4.6V: Should You Use it?](https://www.analyticsvidhya.com/blog/2025/12/z-ai-glm-4-6v/) (2025-12-09)
 - [10 Ways to Slash Inference Costs with OpenAI LLMs](https://www.analyticsvidhya.com/blog/2025/12/llm-cost-optimization/) (2025-12-09)
-- [Top 10 Agentic AI Chrome Extensions](https://www.analyticsvidhya.com/blog/2025/12/agentic-ai-chrome-extensions/) (2025-12-09)
 
 </details>
 
@@ -625,11 +625,11 @@ https://www.twilio.com/en-us/blog/developers/community/receiving-and-processing-
 <details>
 <summary>🧠 DeepMind Blog</summary>
 
+- [Deepening our partnership with the UK AI Security Institute](https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/) (2025-12-11)
+- [Strengthening our partnership with the UK government to support prosperity and security in the AI era](https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/) (2025-12-10)
+- [FACTS Benchmark Suite: Systematically evaluating the factuality of large language models](https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/) (2025-12-09)
 - [Engineering more resilient crops for a warming climate](https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/) (2025-12-04)
 - [AlphaFold: Five years of impact](https://deepmind.google/blog/alphafold-five-years-of-impact/) (2025-11-25)
-- [Revealing a key protein behind heart disease](https://deepmind.google/blog/revealing-a-key-protein-behind-heart-disease/) (2025-11-25)
-- [How we’re bringing AI image verification to the Gemini app](https://deepmind.google/blog/how-were-bringing-ai-image-verification-to-the-gemini-app/) (2025-11-20)
-- [Build with Nano Banana Pro, our Gemini 3 Pro Image model](https://deepmind.google/blog/build-with-nano-banana-pro-our-gemini-3-pro-image-model/) (2025-11-20)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
