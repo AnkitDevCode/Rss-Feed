@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Cadmium Zinc Telluride: The wonder material powering a medical 'revolution'](https://www.bbc.com/news/articles/c24l223d9n7o) (2025-12-12)
-- [Google De-Indexed My Bear Blog and I Don't Know Why](https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/) (2025-12-12)
-- [Notes on Gamma](https://poniesandlight.co.uk/reflect/gamma/) (2025-12-12)
-- [CRISPR fungus: Protein-packed, sustainable, and tastes like meat](https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607) (2025-12-12)
-- [The HTML-First Approach: Why Htmx and Lightweight Frameworks Are Revolutionizin](https://www.danieleteti.it/post/html-first-frameworks-htmx-revolution-en/#building-with-html-instead-of-fighting-with-javascript-layers-) (2025-12-12)
+- [Native ads coming soon to Stack Overflow and Stack Exchange](https://meta.stackexchange.com/questions/415259/native-ads-coming-soon-to-stack-overflow-and-stack-exchange) (2025-12-12)
+- [After 27 years within budget Austria open 6thlongest railway tunnel in the world](https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway) (2025-12-12)
+- [Guarding My Git Forge Against AI Scrapers](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/) (2025-12-12)
+- [Smartphone without a battery (2022)](https://yaky.dev/2022-09-06-smartphone-without-battery/) (2025-12-12)
+- [The tiniest yet real telescope I've built](https://lucassifoni.info/blog/miniscope-tiny-telescope/) (2025-12-12)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [My defense of a $40 cable paperweight – I’m sorry](https://www.theverge.com/tech/843386/review-cable-paperweight-native-union-weighter) (2025-12-12)
 - [Tomb Raider announces two new games](https://www.theverge.com/games/843260/tomb-raider-catalyst-trailer-tomb-raider-atlantis) (2025-12-12)
 - [The best Christmas gifts we love under $50](https://www.theverge.com/gadgets/802969/best-gifts-under-50-2025) (2025-12-12)
 - [Tim Sweeney on the future of Fortnite after another win over Apple](https://www.theverge.com/news/843265/apple-epic-games-tim-sweeney-interview) (2025-12-12)
 - [Control’s action-RPG sequel launches in 2026](https://www.theverge.com/entertainment/841950/control-resonant-sequel-announce-ps5-xbox-steam) (2025-12-12)
-- [The next Star Wars game is the spiritual successor to Knights of the Old Republic](https://www.theverge.com/games/843188/star-wars-fate-of-the-old-republic-casey-hudson) (2025-12-12)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Southeast Asia seeks its place in space](https://www.technologyreview.com/2025/12/12/1129235/dispatch-thai-space-expo-southeast-asia-exploration/) (2025-12-12)
+- [Expanded carrier screening: Is it worth it?](https://www.technologyreview.com/2025/12/12/1129344/expanded-carrier-screening-is-it-worth-it/) (2025-12-12)
 - [The Download: solar geoengineering’s future, and OpenAI is being sued](https://www.technologyreview.com/2025/12/11/1129288/the-download-solar-geoengineerings-future-and-openai-is-being-sued/) (2025-12-11)
 - [Solar geoengineering startups are getting serious](https://www.technologyreview.com/2025/12/11/1129239/solar-geoengineering-startups-are-getting-serious/) (2025-12-11)
 - [Exclusive eBook: Aging Clocks & Understanding Why We Age](https://www.technologyreview.com/2025/12/10/1128999/exclusive-ebook-aging-clocks-understanding-why-we-age/) (2025-12-10)
-- [The Download: a controversial proposal to solve climate change, and our future grids](https://www.technologyreview.com/2025/12/10/1129186/the-download-a-controversial-proposal-to-solve-climate-change-and-our-future-grids/) (2025-12-10)
-- [Securing VMware workloads in regulated industries](https://www.technologyreview.com/2025/12/10/1128475/securing-vmware-workloads-in-regulated-industries/) (2025-12-10)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The "Distributed State Tax" and Why We Don't Always Need Redis: Introducing C3](https://dev.to/n-is/the-distributed-state-tax-and-why-we-dont-always-need-redis-introducing-c3-12a8) (2025-12-12)
-- [[AWS] 3. EC2 - Solutions Architect Associate Level](https://dev.to/sangwoo_rhie/aws-3-ec2-solutions-architect-associate-level-3m7b) (2025-12-12)
-- [The Ultimate 2025 CSS Guide: Build Faster, Write Less JavaScript](https://dev.to/manikandan/the-ultimate-2025-css-guide-build-faster-write-less-javascript-5412) (2025-12-12)
-- [Mushroom Revenue](https://dev.to/bibimbop123/mushroom-revenue-kbk) (2025-12-12)
-- [Mushroom Revenue](https://dev.to/bibimbop123/mushroom-revenue-489j) (2025-12-12)
+- [How to Redesign Dashboards That Actually Retain Customers](https://dev.to/daisy_jones_21bdcc6b40f9d/how-to-redesign-dashboards-that-actually-retain-customers-237d) (2025-12-12)
+- [Finally, a free PDF Tool that Resizes pages (A0-A4), Merge, Split and deletes files immediately](https://dev.to/muhammad_haris_7828c7aeda/finally-a-free-pdf-tool-that-resizes-pages-a0-a4-and-deletes-files-immediately-34ld) (2025-12-12)
+- [K9s Installation Script for Amazon Linux / RHEL-Based Systems-](https://dev.to/cloudgrains/k9s-installation-script-for-amazon-linux-rhel-based-systems--160f) (2025-12-12)
+- [Day 17: AWS Blue/Green with Terraform and Elastic Beanstalk](https://dev.to/anil_kumar_noolu/day-17-aws-bluegreen-with-terraform-and-elastic-beanstalk-313m) (2025-12-12)
+- [JavaScript vs. TypeScript⚡️](https://dev.to/safae_beyt/javascript-vs-typescript-19lf) (2025-12-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Line of Code I Erased… and the Database That Finally Learned to Breathe](https://medium.com/@suryawanshiaditya159/the-line-of-code-i-erased-and-the-database-that-finally-learned-to-breathe-71eb7b0a6c4f?source=rss------programming-5) (2025-12-12)
-- [ Stop Hardcoding Business Rules: Master Symfony ExpressionLanguage Component](https://medium.com/@laurentmn/stop-hardcoding-business-rules-master-symfony-expressionlanguage-component-e387543d537d?source=rss------programming-5) (2025-12-12)
-- [Rust’s Concurrency Is Impressive — But Erlang Solved It Decades Ago](https://medium.com/@premchandak_11/rusts-concurrency-is-impressive-but-erlang-solved-it-decades-ago-f145542e1670?source=rss------programming-5) (2025-12-12)
-- [Two Ways to Think of AI Without Outsourcing Your Mind](https://medium.com/@iamcesaraguirre/two-ways-to-think-of-ai-without-outsourcing-your-mind-9d195456cbda?source=rss------programming-5) (2025-12-12)
-- [RIP Applet — The End of an Era Developers Pretended Ended Already](https://medium.com/javarevisited/rip-applet-the-end-of-an-era-developers-pretended-ended-already-f3a4bb9aed1c?source=rss------programming-5) (2025-12-12)
+- [How I Made $900 in a Week Using an Agentic AI That Runs My Micro-Business While I Watch Netflix](https://medium.com/@gauravpatil2515/how-i-made-900-in-a-week-using-an-agentic-ai-that-runs-my-micro-business-while-i-watch-netflix-9f9e8c721c1d?source=rss------programming-5) (2025-12-12)
+- [The 9 Python Libraries That Finally Made Me Love Writing APIs](https://medium.com/@arfaali/the-9-python-libraries-that-finally-made-me-love-writing-apis-1c88f1675d74?source=rss------programming-5) (2025-12-12)
+- [✈️10 JavaScript Tricks Every Developer Should Know in 2025 ](https://medium.com/@avantika0/%EF%B8%8F10-javascript-tricks-every-developer-should-know-in-2025-ace9e59e4a0d?source=rss------programming-5) (2025-12-12)
+- [How pandas Saved My Weekend (and My Messy CSVs)](https://levelup.gitconnected.com/how-pandas-saved-my-weekend-and-my-messy-csvs-e4e46691b8cf?source=rss------programming-5) (2025-12-12)
+- [25 Python Hacks You Should Be Using Daily (But Probably Aren’t)](https://medium.com/@EnaModernCoder/25-python-hacks-you-should-be-using-daily-but-probably-arent-3640bb7b1c3f?source=rss------programming-5) (2025-12-12)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
-- [Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025](https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/) (2025-12-10)
 - [Microsoft’s commitment to supporting cloud infrastructure demand in the United States](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/) (2025-12-09)
 - [New options for AI-powered innovation, resiliency, and control with Microsoft Azure](https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/) (2025-12-03)
 - [Introducing Mistral Large 3 in Microsoft Foundry: Open, capable, and ready for production workloads](https://azure.microsoft.com/en-us/blog/introducing-mistral-large-3-in-microsoft-foundry-open-capable-and-ready-for-production-workloads/) (2025-12-02)
+- [A decade of open innovation: Celebrating 10 years of Microsoft and Red Hat partnership](https://azure.microsoft.com/en-us/blog/a-decade-of-open-innovation-celebrating-10-years-of-microsoft-and-red-hat-partnership/) (2025-12-02)
+- [Azure networking updates on security, reliability, and high availability](https://azure.microsoft.com/en-us/blog/azure-networking-updates-on-security-reliability-and-high-availability/) (2025-12-01)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Open Source in Focus: 4 Tools That Keep Systems Running](https://blog.jetbrains.com/blog/2025/12/12/open-source-in-focus-4-tools-that-keep-systems-running/) (2025-12-12)
 - [A Better Way to Explore kotlinx-benchmark Results with Kotlin Notebooks](https://blog.jetbrains.com/kotlin/2025/12/a-better-way-to-explore-kotlinx-benchmark-results-with-kotlin-notebooks/) (2025-12-11)
 - [JetBrains Academy Plugin 2025.11 is Now Available](https://blog.jetbrains.com/education/2025/12/11/jetbrains-academy-plugin-2025-11-is-now-available/) (2025-12-11)
 - [Rider and ReSharper 2025.3.0.4: Important Updates Released](https://blog.jetbrains.com/dotnet/2025/12/11/rider-and-resharper-2025-3-0-4/) (2025-12-11)
 - [Built-in Laravel Support: A New Era for PhpStorm Developers](https://blog.jetbrains.com/phpstorm/2025/12/built-in-laravel-support-a-new-era-for-phpstorm-developers/) (2025-12-10)
-- [Issue Center, All Reports Tab, Improved Report Sharing, the Ability to Change User Roles, and More in Datalore 2025.6](https://blog.jetbrains.com/datalore/2025/12/10/datalore-2025-6/) (2025-12-10)
 
 </details>
 
@@ -504,11 +504,11 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-create-a-graphql-s
 <details>
 <summary>💬 Slack API</summary>
 
-- [11 Best AI Workflow Automation Tools for 2026](https://slack.com/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows) (2025-12-10)
-- [How to Maximize a Workflow Management System for Efficiency](https://slack.com/blog/productivity/what-is-workflow-management-2) (2025-12-10)
 - [GovSlack Achieves Department of Defense IL4 Authorization](https://slack.com/blog/news/govslack-achieves-department-of-defense-il4-authorization) (2025-12-09)
 - [Five proven employee engagement strategies to motivate your team](https://slack.com/blog/collaboration/five-proven-employee-engagement-strategies-to-motivate-your-team) (2025-12-01)
 - [Six Easy Tips for Workflow Mapping With Examples](https://slack.com/blog/productivity/workflow-mapping) (2025-12-01)
+- [How To Manage Multiple Projects and Operate Like a Pro](https://slack.com/blog/productivity/how-to-manage-multiple-projects) (2025-12-01)
+- [How to Improve Organizational Communication at Work](https://slack.com/blog/collaboration/how-to-improve-organizational-communication-at-work) (2025-11-24)
 
 </details>
 
@@ -548,33 +548,33 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-create-a-graphql-s
 <details>
 <summary>🤗 Hugging Face</summary>
 
-- [Why You Should Care About Partial Differential Equations (PDEs)](https://huggingface.co/blog/hugging-science/pde) (2025-12-12)
 - [New in llama.cpp: Model Management](https://huggingface.co/blog/ggml-org/model-management-in-llamacpp) (2025-12-11)
 - [Codex is Open Sourcing AI models](https://huggingface.co/blog/hf-skills-training-codex) (2025-12-11)
 - [Apriel-1.6-15b-Thinker: Cost-efficient Frontier Multimodal Performance](https://huggingface.co/blog/ServiceNow-AI/apriel-1p6-15b-thinker) (2025-12-09)
 - [Introducing swift-huggingface: The Complete Swift Client for Hugging Face](https://huggingface.co/blog/swift-huggingface) (2025-12-05)
+- [DeepMath: A lightweight math reasoning Agent with smolagents](https://huggingface.co/blog/intel-deepmath) (2025-12-04)
 
 </details>
 
 <details>
 <summary>🤖 AI News</summary>
 
+- [BBVA embeds AI into banking workflows using ChatGPT Enterprise](https://www.artificialintelligence-news.com/news/bbva-embeds-ai-into-banking-workflows-using-chatgpt-enterprise/) (2025-12-12)
+- [Microsoft’s Copilot usage analysis exposes the 2am philosophy question trend](https://www.artificialintelligence-news.com/news/copilot-usage-analysis-2am-philosophy-questions/) (2025-12-12)
 - [Microsoft ‘Promptions’ fix AI prompts failing to deliver](https://www.artificialintelligence-news.com/news/microsoft-promptions-fix-ai-prompts-failing-to-deliver/) (2025-12-11)
 - [Perplexity: AI agents are taking over complex enterprise tasks](https://www.artificialintelligence-news.com/news/perplexity-ai-agents-taking-over-complex-enterprise-tasks/) (2025-12-10)
 - [Inside the playbook of companies winning with AI](https://www.artificialintelligence-news.com/news/inside-the-playbook-of-companies-winning-with-ai/) (2025-12-10)
-- [Accenture and Anthropic partner to boost enterprise AI integration](https://www.artificialintelligence-news.com/news/accenture-anthropic-partner-boost-enterprise-ai-integration/) (2025-12-09)
-- [OpenAI targets AI skills gap with new certification standards](https://www.artificialintelligence-news.com/news/openai-targets-ai-skills-gap-with-new-certification-standards/) (2025-12-09)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Spectral Community Detection in Clinical Knowledge Graphs](https://towardsdatascience.com/spectral-community-detection-in-clinical-knowledge-graphs/) (2025-12-12)
 - [The Machine Learning “Advent Calendar” Day 11: Linear Regression in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-11-linear-regression-in-excel/) (2025-12-11)
 - [Drawing Shapes with the Python Turtle Module](https://towardsdatascience.com/drawing-shapes-with-the-python-turtle-module/) (2025-12-11)
 - [7 Pandas Performance Tricks Every Data Scientist Should Know](https://towardsdatascience.com/7-pandas-performance-tricks-every-data-scientist-should-know/) (2025-12-11)
 - [How Agent Handoffs Work in Multi-Agent Systems](https://towardsdatascience.com/how-agent-handoffs-work-in-multi-agent-systems/) (2025-12-11)
-- [The Machine Learning “Advent Calendar” Day 10: DBSCAN in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-10-dbscan-in-excel/) (2025-12-10)
 
 </details>
 
