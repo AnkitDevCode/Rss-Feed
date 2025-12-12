@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [World launches its ‘super app,’ including crypto pay and encrypted chat features](https://techcrunch.com/2025/12/11/world-launches-its-super-app-including-crypto-pay-and-encrypted-chat-features/) (2025-12-12)
 - [Stanford’s star reporter takes on Silicon Valley’s ‘money-soaked’ startup culture](https://techcrunch.com/2025/12/11/stanfords-star-reporter-takes-on-silicon-valleys-money-soaked-startup-culture/) (2025-12-12)
 - [Google launched its deepest AI research agent yet — on the same day OpenAI dropped GPT-5.2](https://techcrunch.com/2025/12/11/google-launched-its-deepest-ai-research-agent-yet-on-the-same-day-openai-dropped-gpt-5-2/) (2025-12-12)
 - [1X struck a deal to send its ‘home’ humanoids to factories and warehouses](https://techcrunch.com/2025/12/11/1x-struck-a-deal-to-send-its-home-humanoids-to-factories-and-warehouses/) (2025-12-11)
 - [The market has ‘switched’ and founders have the power now, VCs say](https://techcrunch.com/2025/12/11/the-market-has-switched-and-founders-have-the-power-now-vcs-say/) (2025-12-11)
-- [Epic Games’ Fortnite is back in US Google Play Store, as court partially reverses restrictions it won on iOS](https://techcrunch.com/2025/12/11/epic-gamess-fortnite-is-back-in-us-google-play-store-as-court-partially-reverses-restrictions-it-won-on-ios/) (2025-12-11)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Nokia N900 Necromancy – giving a new life to a classic Linux smartphone](https://yaky.dev/2025-12-11-nokia-n900-necromancy/) (2025-12-12)
-- [Powder and stone, or, why medieval rulers loved castles](https://1517.substack.com/p/powder-and-stone-or-why-medieval) (2025-12-11)
-- [RFC 6677 DNS Transport over TCP – Implementation Requirements (2016)](https://www.ietf.org/rfc/rfc7766.txt) (2025-12-11)
-- [Show HN: Gotui – a modern Go terminal dashboard library](https://github.com/metaspartan/gotui) (2025-12-11)
-- [Almond (YC X25) Is Hiring SWEs and MechEs](https://www.ycombinator.com/companies/almond-2/jobs) (2025-12-11)
+- [Cadmium Zinc Telluride: The wonder material powering a medical 'revolution'](https://www.bbc.com/news/articles/c24l223d9n7o) (2025-12-12)
+- [Google De-Indexed My Bear Blog and I Don't Know Why](https://journal.james-zhan.com/google-de-indexed-my-entire-bear-blog-and-i-dont-know-why/) (2025-12-12)
+- [Notes on Gamma](https://poniesandlight.co.uk/reflect/gamma/) (2025-12-12)
+- [CRISPR fungus: Protein-packed, sustainable, and tastes like meat](https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21607) (2025-12-12)
+- [The HTML-First Approach: Why Htmx and Lightweight Frameworks Are Revolutionizin](https://www.danieleteti.it/post/html-first-frameworks-htmx-revolution-en/#building-with-html-instead-of-fighting-with-javascript-layers-) (2025-12-12)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers) (2025-12-12)
-- [The Game Awards 2025: all the news and announcements](https://www.theverge.com/games/841973/the-game-awards-2025-annoucements-news-trailers) (2025-12-12)
-- [Disney wants to drag you into the slop](https://www.theverge.com/ai-artificial-intelligence/842992/disney-openai-sora-ai-slop-partnership) (2025-12-11)
-- [The best earbuds we’ve tested for 2025](https://www.theverge.com/21309820/best-wireless-earbuds) (2025-12-11)
-- [Google brings Gemini’s Chrome integration to iPhone and iPad](https://www.theverge.com/news/842987/google-gemini-chrome-ios) (2025-12-11)
+- [Tomb Raider announces two new games](https://www.theverge.com/games/843260/tomb-raider-catalyst-trailer-tomb-raider-atlantis) (2025-12-12)
+- [The best Christmas gifts we love under $50](https://www.theverge.com/gadgets/802969/best-gifts-under-50-2025) (2025-12-12)
+- [Tim Sweeney on the future of Fortnite after another win over Apple](https://www.theverge.com/news/843265/apple-epic-games-tim-sweeney-interview) (2025-12-12)
+- [Control’s action-RPG sequel launches in 2026](https://www.theverge.com/entertainment/841950/control-resonant-sequel-announce-ps5-xbox-steam) (2025-12-12)
+- [The next Star Wars game is the spiritual successor to Knights of the Old Republic](https://www.theverge.com/games/843188/star-wars-fate-of-the-old-republic-casey-hudson) (2025-12-12)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Star Wars: Fate of the Old Republic announced as a KOTOR spiritual successor](https://arstechnica.com/gaming/2025/12/star-wars-fate-of-the-old-republic-announced-as-a-kotor-spiritual-successor/) (2025-12-12)
+- [Jonathan Blow has spent the past decade designing 1,400 puzzles for you](https://arstechnica.com/gaming/2025/12/jonathan-blow-has-spent-the-past-decade-designing-1400-puzzles-for-you/) (2025-12-12)
 - [Runway claims its GWM-1 “world models” can stay coherent for minutes at a time](https://arstechnica.com/ai/2025/12/with-gwm-1-family-of-world-models-runway-shows-ambitions-beyond-hollywood/) (2025-12-11)
 - [Instead of fixing WoW’s new floating house exploit, Blizzard makes it official](https://arstechnica.com/gaming/2025/12/instead-of-fixing-wows-new-floating-house-exploit-blizzard-makes-it-official/) (2025-12-11)
 - [OpenAI releases GPT-5.2 after “code red” Google threat alert](https://arstechnica.com/information-technology/2025/12/openai-releases-gpt-5-2-after-code-red-google-threat-alert/) (2025-12-11)
-- [Supergirl teaser gives us a likably imperfect Kara Zor-El](https://arstechnica.com/culture/2025/12/milly-alcock-is-out-for-revenge-in-supergirl-teaser/) (2025-12-11)
-- [Disney says Google AI infringes copyright “on a massive scale”](https://arstechnica.com/google/2025/12/disney-says-google-ai-infringes-copyright-on-a-massive-scale/) (2025-12-11)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Interface is everything, and everything is an interface](https://stackoverflow.blog/2025/12/12/interface-is-everything-and-everything-is-an-interface/) (2025-12-12)
 - [Simulating lousy conversations: Q&A with Silvio Savarese, Chief Scientist & Head of AI Research at Salesforce](https://stackoverflow.blog/2025/12/11/simulating-lousy-conversations-q-and-a-with-silvio-savarese-chief-scientist-and-head-of-ai-research-at-salesforce/) (2025-12-11)
 - [Tell us what you really, really… do not want to spend time working on](https://stackoverflow.blog/2025/12/10/tell-us-what-you-really-really-do-not-want-to-spend-time-working-on/) (2025-12-10)
 - [AI is a crystal ball into your codebase](https://stackoverflow.blog/2025/12/09/ai-is-a-crystal-ball-into-your-codebase/) (2025-12-09)
 - [The shift in enterprise AI—what we learned on the floor at Microsoft Ignite](https://stackoverflow.blog/2025/12/08/the-shift-in-enterprise-ai-what-we-learned-on-the-floor-at-microsoft-ignite/) (2025-12-08)
-- [Treating your agents like microservices](https://stackoverflow.blog/2025/12/05/treating-your-agents-like-microservices/) (2025-12-05)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [La Magia del CSS en WordPress: Dominando el Bloque Cover para Legibilidad](https://dev.to/ernesto_malave_285068a60e/la-magia-del-css-en-wordpress-dominando-el-bloque-cover-para-legibilidad-28df) (2025-12-12)
-- [Transform Your SDK Integration with Monetzly's AI Monetization](https://dev.to/monetzly/transform-your-sdk-integration-with-monetzlys-ai-monetization-1l8b) (2025-12-12)
-- [Building a Shader Compiler in Pure Go: naga Reaches v0.4.0](https://dev.to/kolkov/building-a-shader-compiler-in-pure-go-naga-reaches-v040-39ol) (2025-12-12)
-- [Python minimal web file manager](https://dev.to/ekomateas/python-minimal-web-file-manager-7bp) (2025-12-12)
-- [Minimal web file manager](https://dev.to/ekomateas/minimal-web-file-manager-1f23) (2025-12-12)
+- [The "Distributed State Tax" and Why We Don't Always Need Redis: Introducing C3](https://dev.to/n-is/the-distributed-state-tax-and-why-we-dont-always-need-redis-introducing-c3-12a8) (2025-12-12)
+- [[AWS] 3. EC2 - Solutions Architect Associate Level](https://dev.to/sangwoo_rhie/aws-3-ec2-solutions-architect-associate-level-3m7b) (2025-12-12)
+- [The Ultimate 2025 CSS Guide: Build Faster, Write Less JavaScript](https://dev.to/manikandan/the-ultimate-2025-css-guide-build-faster-write-less-javascript-5412) (2025-12-12)
+- [Mushroom Revenue](https://dev.to/bibimbop123/mushroom-revenue-kbk) (2025-12-12)
+- [Mushroom Revenue](https://dev.to/bibimbop123/mushroom-revenue-489j) (2025-12-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmcxzszcv36/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-1e40b9a9ba95?source=rss------programming-5) (2025-12-12)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmcxzszcv36/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-cd2b763b825c?source=rss------programming-5) (2025-12-12)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbvcdccc37mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e617d204bc7c?source=rss------programming-5) (2025-12-12)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbvcdccc37mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-c1c49fc8625c?source=rss------programming-5) (2025-12-12)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmbcxzsa35/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-b5cc0a01ac37?source=rss------programming-5) (2025-12-12)
+- [The Line of Code I Erased… and the Database That Finally Learned to Breathe](https://medium.com/@suryawanshiaditya159/the-line-of-code-i-erased-and-the-database-that-finally-learned-to-breathe-71eb7b0a6c4f?source=rss------programming-5) (2025-12-12)
+- [ Stop Hardcoding Business Rules: Master Symfony ExpressionLanguage Component](https://medium.com/@laurentmn/stop-hardcoding-business-rules-master-symfony-expressionlanguage-component-e387543d537d?source=rss------programming-5) (2025-12-12)
+- [Rust’s Concurrency Is Impressive — But Erlang Solved It Decades Ago](https://medium.com/@premchandak_11/rusts-concurrency-is-impressive-but-erlang-solved-it-decades-ago-f145542e1670?source=rss------programming-5) (2025-12-12)
+- [Two Ways to Think of AI Without Outsourcing Your Mind](https://medium.com/@iamcesaraguirre/two-ways-to-think-of-ai-without-outsourcing-your-mind-9d195456cbda?source=rss------programming-5) (2025-12-12)
+- [RIP Applet — The End of an Era Developers Pretended Ended Already](https://medium.com/javarevisited/rip-applet-the-end-of-an-era-developers-pretended-ended-already-f3a4bb9aed1c?source=rss------programming-5) (2025-12-12)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
+- [Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025](https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/) (2025-12-10)
 - [Microsoft’s commitment to supporting cloud infrastructure demand in the United States](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/) (2025-12-09)
 - [New options for AI-powered innovation, resiliency, and control with Microsoft Azure](https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/) (2025-12-03)
 - [Introducing Mistral Large 3 in Microsoft Foundry: Open, capable, and ready for production workloads](https://azure.microsoft.com/en-us/blog/introducing-mistral-large-3-in-microsoft-foundry-open-capable-and-ready-for-production-workloads/) (2025-12-02)
-- [A decade of open innovation: Celebrating 10 years of Microsoft and Red Hat partnership](https://azure.microsoft.com/en-us/blog/a-decade-of-open-innovation-celebrating-10-years-of-microsoft-and-red-hat-partnership/) (2025-12-02)
-- [Azure networking updates on security, reliability, and high availability](https://azure.microsoft.com/en-us/blog/azure-networking-updates-on-security-reliability-and-high-availability/) (2025-12-01)
 
 </details>
 
@@ -548,11 +548,11 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-create-a-graphql-s
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Why You Should Care About Partial Differential Equations (PDEs)](https://huggingface.co/blog/hugging-science/pde) (2025-12-12)
 - [New in llama.cpp: Model Management](https://huggingface.co/blog/ggml-org/model-management-in-llamacpp) (2025-12-11)
 - [Codex is Open Sourcing AI models](https://huggingface.co/blog/hf-skills-training-codex) (2025-12-11)
 - [Apriel-1.6-15b-Thinker: Cost-efficient Frontier Multimodal Performance](https://huggingface.co/blog/ServiceNow-AI/apriel-1p6-15b-thinker) (2025-12-09)
 - [Introducing swift-huggingface: The Complete Swift Client for Hugging Face](https://huggingface.co/blog/swift-huggingface) (2025-12-05)
-- [DeepMath: A lightweight math reasoning Agent with smolagents](https://huggingface.co/blog/intel-deepmath) (2025-12-04)
 
 </details>
 
