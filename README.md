@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Doxers Posing as Cops Are Tricking Big Tech Firms into Sharing People's Data](https://www.wired.com/story/doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-peoples-private-data/) (2025-12-13)
+- [YouTube's CEO limits his kids' social media use – other tech bosses do the same](https://www.cnbc.com/2025/12/13/youtubes-ceo-is-latest-tech-boss-limiting-his-kids-social-media-use.html) (2025-12-13)
+- [Bookmark for CAD/2d/3D Useful links](https://github.com/yogananda-muthaiah/SAP-CPQ/tree/main/Integrations/CAD-2d-3d) (2025-12-13)
+- [Computer Animator and Amiga fanatic Dick Van Dyke turns 100](https://news.ycombinator.com/item?id=46252993) (2025-12-13)
+- [Doxers posing as cops are tricking big tech firms into sharing people's data](https://www.wired.com/story/doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-peoples-private-data/) (2025-12-13)
 - [Apple has locked my Apple ID, and I have no recourse. A plea for help](https://hey.paris/posts/appleid/) (2025-12-13)
-- [Poor Johnny still won't encrypt](https://bfswa.substack.com/p/poor-johnny-still-wont-encrypt) (2025-12-13)
-- [Google Removes Sci-Hub Domains from U.S. Search Results Due to Dated Court Order](https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/) (2025-12-13)
-- [The Coming Need for Formal Specification](https://benjamincongdon.me/blog/2025/12/12/The-Coming-Need-for-Formal-Specification/) (2025-12-13)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Stuck for Hours? The 'Productive Struggle' Rule for LeetCode](https://dev.to/alex_hunter_44f4c9ed6671e/stuck-for-hours-the-productive-struggle-rule-for-leetcode-2ab6) (2025-12-13)
-- [Mind Goes Blank on LeetCode? Here's Your Escape Plan](https://dev.to/alex_hunter_44f4c9ed6671e/mind-goes-blank-on-leetcode-heres-your-escape-plan-472m) (2025-12-13)
-- [Cloud Architecture Mistakes I Made So You Don't Have To](https://dev.to/aman_kulshrestha_815f0a2f/cloud-architecture-mistakes-i-made-so-you-dont-have-to-23hl) (2025-12-13)
-- [TFT LCD Technology Explained: Principles, Panel Types, and Real-World Applications](https://dev.to/danie_brooks_dc7a891322b3/tft-lcd-technology-explained-principles-panel-types-and-real-world-applications-56gl) (2025-12-13)
-- [What Actually Determines a File's Type](https://dev.to/amoabakelvin/what-actually-determines-a-files-type-48d0) (2025-12-13)
+- [Understanding Tokenomics – Why Token Design Matters](https://dev.to/ribhavmodi/understanding-tokenomics-why-token-design-matters-3m5k) (2025-12-13)
+- [IA agentique appliquée aux ressources humaines : où est mon RH ?](https://dev.to/thibaut_blaizot_ed17b77fd/ia-agentique-appliquee-aux-ressources-humaines-ou-est-mon-rh--4oel) (2025-12-13)
+- [Basic CRUD using Java Spring Boot](https://dev.to/akash_vadakkeveetil/basic-crud-using-java-spring-boot-2l07) (2025-12-13)
+- [Decompiling B2B Marketing: 5 Data-Driven Trends Devs Should Watch](https://dev.to/michaelaiglobal/decompiling-b2b-marketing-5-data-driven-trends-devs-should-watch-5bgb) (2025-12-13)
+- [Quick Start: Build a Ready-to-Use AWS VPC in Minutes](https://dev.to/irfansatrio/quick-start-launch-a-ready-to-use-vpc-setup-in-minutes-1449) (2025-12-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [React Hooks — The Superpower You Didn’t Know You Had ⚡](https://medium.com/@beenakumawat003/react-hooks-the-superpower-you-didnt-know-you-had-04b1d0a5454a?source=rss------programming-5) (2025-12-13)
-- [ Mastering React Architecture in Large-Scale Applications — Beyond Components and Hooks ⚛️](https://medium.com/@elizacodewell72/mastering-react-architecture-in-large-scale-applications-beyond-components-and-hooks-%EF%B8%8F-63df777193f8?source=rss------programming-5) (2025-12-13)
-- [ Learning React? Here’s What You Don’t Need to Know Yet ⚛️](https://medium.com/@lucina12/learning-react-heres-what-you-don-t-need-to-know-yet-%EF%B8%8F-ad0ea4920cc8?source=rss------programming-5) (2025-12-13)
-- [ Mastering TypeScript in Large-Scale Projects](https://medium.com/@Samira8872/mastering-typescript-in-large-scale-projects-eef66710077f?source=rss------programming-5) (2025-12-13)
-- [Linux doesn’t lie. Your code does.](https://medium.com/@premchandak_11/linux-doesnt-lie-your-code-does-5e1b5a079efa?source=rss------programming-5) (2025-12-13)
+- [9 Security Enhancements Every Spring Boot API Needs in 2026](https://medium.com/@csvaibhavpasrija/9-security-enhancements-every-spring-boot-api-needs-in-2026-376e676ce09d?source=rss------programming-5) (2025-12-13)
+- [The Silent Symphony: How Industrial Symbiosis is Orchestrating the Unthinkable—Profitable, Net-Zero…](https://medium.com/@aditrizky052/the-silent-symphony-how-industrial-symbiosis-is-orchestrating-the-unthinkable-profitable-net-zero-246289c703e1?source=rss------programming-5) (2025-12-13)
+- [Stop Paying for Tokens: Run Semantic Kernel + Ollama Locally in C#](https://medium.com/net-code-chronicles/semantic-kernel-ollama-local-csharp-bd50d99e4d17?source=rss------programming-5) (2025-12-13)
+- [Why Your Python Automation Fails — And the Architecture That Makes It Bulletproof](https://medium.com/pythoneers/why-your-python-automation-fails-and-the-architecture-that-makes-it-bulletproof-48e444f1cb4f?source=rss------programming-5) (2025-12-13)
+- [Why Do Virtual Threads Feel Like Magic? A Peek Inside Their Internals](https://medium.com/@letslearnnow/why-do-virtual-threads-feel-like-magic-a-peek-inside-their-internals-f14199d8f0ba?source=rss------programming-5) (2025-12-13)
 
 </details>
 
@@ -570,11 +570,11 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-create-a-graphql-s
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [NeurIPS 2025 Best Paper Review: Qwen’s Systematic Exploration of Attention Gating](https://towardsdatascience.com/neurips-2025-best-paper-review-qwens-systematic-exploration-of-attention-gating/) (2025-12-13)
 - [The Machine Learning “Advent Calendar” Day 12: Logistic Regression in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-12-logistic-regression-in-excel/) (2025-12-12)
 - [Decentralized Computation: The Hidden Principle Behind Deep Learning](https://towardsdatascience.com/the-power-of-decentralization/) (2025-12-12)
 - [EDA in Public (Part 1): Cleaning and Exploring Sales Data with Pandas](https://towardsdatascience.com/eda-in-public-part-1-cleaning-exploring-sales-data-with-pandas/) (2025-12-12)
 - [Spectral Community Detection in Clinical Knowledge Graphs](https://towardsdatascience.com/spectral-community-detection-in-clinical-knowledge-graphs/) (2025-12-12)
-- [The Machine Learning “Advent Calendar” Day 11: Linear Regression in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-11-linear-regression-in-excel/) (2025-12-11)
 
 </details>
 
