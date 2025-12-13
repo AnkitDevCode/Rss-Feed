@@ -21,7 +21,7 @@
 <summary>🚀 TechCrunch</summary>
 
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/12/12/tech-layoffs-2025-list/) (2025-12-13)
-- [Riding onboard with Rivian’s race to autonomy](https://techcrunch.com/2025/12/12/riding-onboard-with-rivians-race-to-autonomy/) (2025-12-12)
+- [Inside Rivian’s big bet on AI-powered self-driving](https://techcrunch.com/2025/12/12/inside-rivians-big-et-on-ai-powered-self-driving/) (2025-12-12)
 - [With iOS 26.2, Apple lets you roll back Liquid Glass again — this time on the Lock Screen](https://techcrunch.com/2025/12/12/with-ios-26-2-apple-lets-you-roll-back-liquid-glass-again-this-time-on-the-lock-screen/) (2025-12-12)
 - [Google and Apple roll out emergency security updates after zero-day attacks](https://techcrunch.com/2025/12/12/google-and-apple-roll-out-emergency-security-updates-after-zero-day-attacks/) (2025-12-12)
 - [OK, what’s going on with LinkedIn’s algo?](https://techcrunch.com/2025/12/12/ok-whats-going-on-with-linkedins-algo/) (2025-12-12)
@@ -31,33 +31,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [YouTube's CEO limits his kids' social media use – other tech bosses do the same](https://www.cnbc.com/2025/12/13/youtubes-ceo-is-latest-tech-boss-limiting-his-kids-social-media-use.html) (2025-12-13)
-- [Bookmark for CAD/2d/3D Useful links](https://github.com/yogananda-muthaiah/SAP-CPQ/tree/main/Integrations/CAD-2d-3d) (2025-12-13)
-- [Computer Animator and Amiga fanatic Dick Van Dyke turns 100](https://news.ycombinator.com/item?id=46252993) (2025-12-13)
-- [Doxers posing as cops are tricking big tech firms into sharing people's data](https://www.wired.com/story/doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-peoples-private-data/) (2025-12-13)
-- [Apple has locked my Apple ID, and I have no recourse. A plea for help](https://hey.paris/posts/appleid/) (2025-12-13)
+- [Fast, Memory-Efficient Hash Table in Java: Borrowing the Best Ideas](https://bluuewhale.github.io/posts/building-a-fast-and-memory-efficient-hash-table-in-java-by-borrowing-the-best-ideas/) (2025-12-13)
+- [Analysis finds anytime electricity from solar available as battery costs plummet](https://pv-magazine-usa.com/2025/12/12/analysis-finds-anytime-electricity-from-solar-available-as-battery-costs-plummet/) (2025-12-13)
+- [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers) (2025-12-13)
+- [I tried Gleam for Advent of Code](https://blog.tymscar.com/posts/gleamaoc2025/) (2025-12-13)
+- [Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285) (2025-12-13)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The Verge’s 2025 holiday gift guide](https://www.theverge.com/tech/809421/holiday-gift-guide-2025) (2025-12-13)
-- [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak) (2025-12-12)
-- [Parents call for New York governor to sign landmark AI safety bill](https://www.theverge.com/ai-artificial-intelligence/844062/parents-call-for-new-york-governor-to-sign-landmark-ai-safety-bill) (2025-12-12)
-- [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/tech/800440/best-gifts-under-100-2025) (2025-12-12)
-- [The long shot](https://www.theverge.com/entertainment/842881/resurrection-bi-gan-interview-tracking-shot) (2025-12-12)
+- [A Kinect for kids is outselling Xbox to become the hot console this holiday](https://www.theverge.com/news/844380/nex-playground-outselling-the-xbox) (2025-12-13)
+- [Slab is the first MIDI controller built exclusively for Serato Studio](https://www.theverge.com/tech/839732/serato-slab-midi-controller-studio) (2025-12-13)
+- [This $1,500 robot cooks dinner while I work](https://www.theverge.com/tech/840599/posha-robot-chef-review) (2025-12-13)
+- [The Nex Playground and Pixel Buds 2A top our list of the best deals this week](https://www.theverge.com/gadgets/844093/nex-playground-google-pixel-buds-2a-deal-sale) (2025-12-13)
+- [The best thing I bought this year: a portable mechanical keyboard](https://www.theverge.com/gadgets/843455/mechanical-keyboard-nyphy-favorite) (2025-12-13)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Sharks and rays gain landmark protections as nations move to curb international trade](https://arstechnica.com/science/2025/12/sharks-and-rays-gain-landmark-protections-as-nations-move-to-curb-international-trade/) (2025-12-13)
 - [OpenAI built an AI coding agent and uses it to improve the agent itself](https://arstechnica.com/ai/2025/12/how-openai-is-using-gpt-5-codex-to-improve-the-ai-tool-itself/) (2025-12-12)
 - [Reminder: Donate to win swag in our annual Charity Drive sweepstakes](https://arstechnica.com/gaming/2025/12/reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-17/) (2025-12-12)
 - [Google Translate expands live translation to all earbuds on Android](https://arstechnica.com/google/2025/12/google-translate-learns-slang-and-idioms-expands-live-translation-beyond-pixel-buds/) (2025-12-12)
 - [Ukrainians sue US chip firms for powering Russian drones, missiles](https://arstechnica.com/tech-policy/2025/12/ukrainians-sue-us-chip-firms-for-powering-russian-drones-missiles/) (2025-12-12)
-- [Scientists built an AI co-pilot for prosthetic bionic hands](https://arstechnica.com/ai/2025/12/scientists-built-an-ai-co-pilot-for-prosthetic-bionic-hands/) (2025-12-12)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Understanding Tokenomics – Why Token Design Matters](https://dev.to/ribhavmodi/understanding-tokenomics-why-token-design-matters-3m5k) (2025-12-13)
-- [IA agentique appliquée aux ressources humaines : où est mon RH ?](https://dev.to/thibaut_blaizot_ed17b77fd/ia-agentique-appliquee-aux-ressources-humaines-ou-est-mon-rh--4oel) (2025-12-13)
-- [Basic CRUD using Java Spring Boot](https://dev.to/akash_vadakkeveetil/basic-crud-using-java-spring-boot-2l07) (2025-12-13)
-- [Decompiling B2B Marketing: 5 Data-Driven Trends Devs Should Watch](https://dev.to/michaelaiglobal/decompiling-b2b-marketing-5-data-driven-trends-devs-should-watch-5bgb) (2025-12-13)
-- [Quick Start: Build a Ready-to-Use AWS VPC in Minutes](https://dev.to/irfansatrio/quick-start-launch-a-ready-to-use-vpc-setup-in-minutes-1449) (2025-12-13)
+- [Ai study buddy](https://dev.to/jalaj_gurjar_123014985861/ai-study-buddy-45m) (2025-12-13)
+- [Emergence vs. Engineering: The Industry Just Bet Against the God Model](https://dev.to/aronchick/emergence-vs-engineering-the-industry-just-bet-against-the-god-model-1oo9) (2025-12-13)
+- [The Hidden Engineering Behind Holiday Invites: Make Your RSVP Page Fast, Safe, and Not Creepy](https://dev.to/sonia_bobrik_1939cdddd79d/the-hidden-engineering-behind-holiday-invites-make-your-rsvp-page-fast-safe-and-not-creepy-3a2o) (2025-12-13)
+- [What Happens When Curiosity Meets AI: My Learning Reflections From the Intensive](https://dev.to/tasneem_raza_a1b843fab310/what-happens-when-curiosity-meets-ai-my-learning-reflections-from-the-intensive-1aea) (2025-12-13)
+- [I Tried to Give Memory to an AI… and Learned the Hard Way](https://dev.to/vivek_gaindhar_e79f747c46/i-tried-to-give-memory-to-an-ai-and-learned-the-hard-way-17cb) (2025-12-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [9 Security Enhancements Every Spring Boot API Needs in 2026](https://medium.com/@csvaibhavpasrija/9-security-enhancements-every-spring-boot-api-needs-in-2026-376e676ce09d?source=rss------programming-5) (2025-12-13)
-- [The Silent Symphony: How Industrial Symbiosis is Orchestrating the Unthinkable—Profitable, Net-Zero…](https://medium.com/@aditrizky052/the-silent-symphony-how-industrial-symbiosis-is-orchestrating-the-unthinkable-profitable-net-zero-246289c703e1?source=rss------programming-5) (2025-12-13)
-- [Stop Paying for Tokens: Run Semantic Kernel + Ollama Locally in C#](https://medium.com/net-code-chronicles/semantic-kernel-ollama-local-csharp-bd50d99e4d17?source=rss------programming-5) (2025-12-13)
-- [Why Your Python Automation Fails — And the Architecture That Makes It Bulletproof](https://medium.com/pythoneers/why-your-python-automation-fails-and-the-architecture-that-makes-it-bulletproof-48e444f1cb4f?source=rss------programming-5) (2025-12-13)
-- [Why Do Virtual Threads Feel Like Magic? A Peek Inside Their Internals](https://medium.com/@letslearnnow/why-do-virtual-threads-feel-like-magic-a-peek-inside-their-internals-f14199d8f0ba?source=rss------programming-5) (2025-12-13)
+- [ How the DevOps Pipeline Works: From Code to Production (A Complete Guide)](https://rajputlakhveer.medium.com/how-the-devops-pipeline-works-from-code-to-production-a-complete-guide-d9283d92f583?source=rss------programming-5) (2025-12-13)
+- [How To Create Smart Enums in C# With Rich Behavior](https://medium.com/@maged_/how-to-create-smart-enums-in-c-with-rich-behavior-375c635af0fd?source=rss------programming-5) (2025-12-13)
+- [Your Consumer Will Process This Message Twice.](https://medium.com/@michaelmaurice410/your-consumer-will-process-this-message-twice-8ecb33064790?source=rss------programming-5) (2025-12-13)
+- [Token Authentication In ASP.NET Core 9 With JWT | Clean Architecture (.NET 9 & .NET 10)](https://medium.com/@mariammaurice/token-authentication-in-asp-net-core-9-with-jwt-clean-architecture-net-9-net-10-034b916a5ed4?source=rss------programming-5) (2025-12-13)
+- [Day 11:Beginner the Black Jack Capstone Project](https://medium.com/@irorahmah/day-11-beginner-the-black-jack-capstone-project-aab6913298b0?source=rss------programming-5) (2025-12-13)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 - [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
 - [Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025](https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/) (2025-12-10)
 - [Microsoft’s commitment to supporting cloud infrastructure demand in the United States](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/) (2025-12-09)
 - [New options for AI-powered innovation, resiliency, and control with Microsoft Azure](https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/) (2025-12-03)
-- [Introducing Mistral Large 3 in Microsoft Foundry: Open, capable, and ready for production workloads](https://azure.microsoft.com/en-us/blog/introducing-mistral-large-3-in-microsoft-foundry-open-capable-and-ready-for-production-workloads/) (2025-12-02)
 
 </details>
 
@@ -504,11 +504,11 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-create-a-graphql-s
 <details>
 <summary>💬 Slack API</summary>
 
-- [The Rise of Software Engineering Agents in Slack](https://slack.com/blog/developers/coding-agents-in-slack) (2025-12-11)
 - [11 Best AI Workflow Automation Tools for 2026](https://slack.com/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows) (2025-12-10)
 - [How to Maximize a Workflow Management System for Efficiency](https://slack.com/blog/productivity/what-is-workflow-management-2) (2025-12-10)
 - [GovSlack Achieves Department of Defense IL4 Authorization](https://slack.com/blog/news/govslack-achieves-department-of-defense-il4-authorization) (2025-12-09)
 - [Five proven employee engagement strategies to motivate your team](https://slack.com/blog/collaboration/five-proven-employee-engagement-strategies-to-motivate-your-team) (2025-12-01)
+- [Six Easy Tips for Workflow Mapping With Examples](https://slack.com/blog/productivity/workflow-mapping) (2025-12-01)
 
 </details>
 
@@ -570,22 +570,22 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-create-a-graphql-s
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Machine Learning “Advent Calendar” Day 13: LASSO and Ridge Regression in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-13-lasso-and-ridge-regression-in-excel/) (2025-12-13)
+- [How to Increase Coding Iteration Speed](https://towardsdatascience.com/how-to-increase-coding-iteration-speed/) (2025-12-13)
 - [NeurIPS 2025 Best Paper Review: Qwen’s Systematic Exploration of Attention Gating](https://towardsdatascience.com/neurips-2025-best-paper-review-qwens-systematic-exploration-of-attention-gating/) (2025-12-13)
 - [The Machine Learning “Advent Calendar” Day 12: Logistic Regression in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-12-logistic-regression-in-excel/) (2025-12-12)
 - [Decentralized Computation: The Hidden Principle Behind Deep Learning](https://towardsdatascience.com/the-power-of-decentralization/) (2025-12-12)
-- [EDA in Public (Part 1): Cleaning and Exploring Sales Data with Pandas](https://towardsdatascience.com/eda-in-public-part-1-cleaning-exploring-sales-data-with-pandas/) (2025-12-12)
-- [Spectral Community Detection in Clinical Knowledge Graphs](https://towardsdatascience.com/spectral-community-detection-in-clinical-knowledge-graphs/) (2025-12-12)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Building AI Agents: Insights from the First Three Days of Kaggle’s Intensive Program](https://www.analyticsvidhya.com/blog/2025/12/production-ai-agents-kaggle/) (2025-12-13)
 - [What is SoftPlus Activation Function? ](https://www.analyticsvidhya.com/blog/2025/12/softplus-activation-function/) (2025-12-12)
 - [Guide to OpenAI API Models and How to Use Them](https://www.analyticsvidhya.com/blog/2025/12/openai-api-models/) (2025-12-11)
 - [All About Mistral’s DevStral 2, DevStral Small & Vibe CLI](https://www.analyticsvidhya.com/blog/2025/12/mistral-devstral-2-and-vibe-cli/) (2025-12-10)
 - [Building and Deploying a Machine Learning Model Using FastAPI](https://www.analyticsvidhya.com/blog/2025/12/fastapi-machine-learning-deployment/) (2025-12-10)
-- [LlamaExtract: Streamline Data Extraction from Any Document](https://www.analyticsvidhya.com/blog/2025/12/llamaextract/) (2025-12-10)
 
 </details>
 
