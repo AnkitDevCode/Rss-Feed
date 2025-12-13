@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI](https://simonwillison.net/2025/Dec/12/openai-skills/) (2025-12-12)
-- [50 years of proof assistants](https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html) (2025-12-12)
-- [Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig](https://github.com/ringtailsoftware/uvm32) (2025-12-12)
-- [Capsudo: Rethinking Sudo with Object Capabilities](https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html) (2025-12-12)
-- [Motion (YC W20) Is Hiring Senior Staff Front End Engineers](https://jobs.ashbyhq.com/motion/715d9646-27d4-44f6-9229-61eb0380ae39) (2025-12-12)
+- [Doxers Posing as Cops Are Tricking Big Tech Firms into Sharing People's Data](https://www.wired.com/story/doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-peoples-private-data/) (2025-12-13)
+- [Apple has locked my Apple ID, and I have no recourse. A plea for help](https://hey.paris/posts/appleid/) (2025-12-13)
+- [Poor Johnny still won't encrypt](https://bfswa.substack.com/p/poor-johnny-still-wont-encrypt) (2025-12-13)
+- [Google Removes Sci-Hub Domains from U.S. Search Results Due to Dated Court Order](https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/) (2025-12-13)
+- [The Coming Need for Formal Specification](https://benjamincongdon.me/blog/2025/12/12/The-Coming-Need-for-Formal-Specification/) (2025-12-13)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Debounce vs Throttle in JavaScript (Explained Simply with Code)](https://dev.to/smrpdl1991/debounce-vs-throttle-in-javascript-explained-simply-with-code-egm) (2025-12-13)
-- [How I Detected and Stopped a Real-World RCE Attack on My Next.js App (CVE-2025-55182 / React2Shell)](https://dev.to/jeromedh/how-i-detected-and-stopped-a-real-world-rce-attack-on-my-nextjs-app-cve-2025-55182-react2shell-2pmd) (2025-12-13)
-- [Why Your UEBA Isn’t Working (and how to fix it)](https://dev.to/alvinslee/why-your-ueba-isnt-working-and-how-to-fix-it-5b59) (2025-12-13)
-- [How to Connect VAPI to Google Calendar for Appointment Scheduling](https://dev.to/callstacktech/how-to-connect-vapi-to-google-calendar-for-appointment-scheduling-kpj) (2025-12-13)
-- [The Anti-Framework Idea that turned into FUBARos - Clippy’s Revenge](https://dev.to/j4s0nc/the-anti-framework-idea-that-turned-into-fubaros-clippys-revenge-5g59) (2025-12-13)
+- [Stuck for Hours? The 'Productive Struggle' Rule for LeetCode](https://dev.to/alex_hunter_44f4c9ed6671e/stuck-for-hours-the-productive-struggle-rule-for-leetcode-2ab6) (2025-12-13)
+- [Mind Goes Blank on LeetCode? Here's Your Escape Plan](https://dev.to/alex_hunter_44f4c9ed6671e/mind-goes-blank-on-leetcode-heres-your-escape-plan-472m) (2025-12-13)
+- [Cloud Architecture Mistakes I Made So You Don't Have To](https://dev.to/aman_kulshrestha_815f0a2f/cloud-architecture-mistakes-i-made-so-you-dont-have-to-23hl) (2025-12-13)
+- [TFT LCD Technology Explained: Principles, Panel Types, and Real-World Applications](https://dev.to/danie_brooks_dc7a891322b3/tft-lcd-technology-explained-principles-panel-types-and-real-world-applications-56gl) (2025-12-13)
+- [What Actually Determines a File's Type](https://dev.to/amoabakelvin/what-actually-determines-a-files-type-48d0) (2025-12-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How to Automate Incident Response with AI on AWS](https://medium.com/@ip.ravi333/how-to-automate-incident-response-with-ai-on-aws-ad6c6e666096?source=rss------programming-5) (2025-12-13)
-- [Golang — Variables y Constantes](https://medium.com/@hayunbugenmisopa/golang-variables-y-constantes-6e98cc2b1fea?source=rss------programming-5) (2025-12-13)
-- [How to Use Spring Batch to Optimize High-Volume API Calls](https://medium.com/@sunil17bbmp/how-to-use-spring-batch-to-optimize-high-volume-api-calls-04484ed95c27?source=rss------programming-5) (2025-12-13)
-- [Chapter 11 — My Name Betrays Me](https://medium.com/im-mortal/chapter-11-my-name-betrays-me-5c3a0326ff67?source=rss------programming-5) (2025-12-13)
-- [AIGARTH — l’essentiel en quelques minutes](https://medium.com/@0irisnova.ai/aigarth-lessentiel-en-quelques-minutes-ac89bcbfd8a4?source=rss------programming-5) (2025-12-13)
+- [React Hooks — The Superpower You Didn’t Know You Had ⚡](https://medium.com/@beenakumawat003/react-hooks-the-superpower-you-didnt-know-you-had-04b1d0a5454a?source=rss------programming-5) (2025-12-13)
+- [ Mastering React Architecture in Large-Scale Applications — Beyond Components and Hooks ⚛️](https://medium.com/@elizacodewell72/mastering-react-architecture-in-large-scale-applications-beyond-components-and-hooks-%EF%B8%8F-63df777193f8?source=rss------programming-5) (2025-12-13)
+- [ Learning React? Here’s What You Don’t Need to Know Yet ⚛️](https://medium.com/@lucina12/learning-react-heres-what-you-don-t-need-to-know-yet-%EF%B8%8F-ad0ea4920cc8?source=rss------programming-5) (2025-12-13)
+- [ Mastering TypeScript in Large-Scale Projects](https://medium.com/@Samira8872/mastering-typescript-in-large-scale-projects-eef66710077f?source=rss------programming-5) (2025-12-13)
+- [Linux doesn’t lie. Your code does.](https://medium.com/@premchandak_11/linux-doesnt-lie-your-code-does-5e1b5a079efa?source=rss------programming-5) (2025-12-13)
 
 </details>
 
