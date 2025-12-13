@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Data breach at credit check giant 700Credit affects at least 5.6 million](https://techcrunch.com/2025/12/12/data-breach-at-credit-check-giant-700credit-affects-at-least-5-6-million/) (2025-12-12)
-- [Trump’s AI executive order promises ‘one rulebook’ — startups may get legal limbo instead](https://techcrunch.com/2025/12/12/trumps-ai-executive-order-promises-one-rulebook-startups-may-get-legal-limbo-instead/) (2025-12-12)
-- [Google Translate now lets you hear real-time translations in your headphones](https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/) (2025-12-12)
-- [Retro, a photo-sharing app for friends, lets you ‘time-travel’ through your camera roll](https://techcrunch.com/2025/12/12/retro-a-photo-sharing-app-for-friends-lets-you-time-travel-through-your-camera-roll/) (2025-12-12)
-- [Home Depot exposed access to internal systems for a year, says researcher](https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/) (2025-12-12)
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/12/12/tech-layoffs-2025-list/) (2025-12-13)
+- [Riding onboard with Rivian’s race to autonomy](https://techcrunch.com/2025/12/12/riding-onboard-with-rivians-race-to-autonomy/) (2025-12-12)
+- [With iOS 26.2, Apple lets you roll back Liquid Glass again — this time on the Lock Screen](https://techcrunch.com/2025/12/12/with-ios-26-2-apple-lets-you-roll-back-liquid-glass-again-this-time-on-the-lock-screen/) (2025-12-12)
+- [Google and Apple roll out emergency security updates after zero-day attacks](https://techcrunch.com/2025/12/12/google-and-apple-roll-out-emergency-security-updates-after-zero-day-attacks/) (2025-12-12)
+- [OK, what’s going on with LinkedIn’s algo?](https://techcrunch.com/2025/12/12/ok-whats-going-on-with-linkedins-algo/) (2025-12-12)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Id Software devs form "wall-to-wall" union](https://www.rockpapershotgun.com/id-software-devs-form-wall-to-wall-union-with-165-workers-at-doom-studio-the-latest-to-vote-in-favour) (2025-12-12)
-- [Google Releases Its New Google Sans Flex Font as Open Source](https://www.omgubuntu.co.uk/2025/11/google-sans-flex-font-ubuntu) (2025-12-12)
-- [Show HN: tomcp.org – Turn any URL into an MCP server](https://github.com/Ami3466/tomcp) (2025-12-12)
-- [Oracle made a $300B bet on OpenAI. It's paying the price](https://finance.yahoo.com/news/oracle-made-a-300-billion-bet-on-openai-its-paying-the-price-205441863.html) (2025-12-12)
-- [Japan law opening phone app stores to go into effect dec.18th](https://www3.nhk.or.jp/nhkworld/en/news/20251210_B1/) (2025-12-12)
+- [OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI](https://simonwillison.net/2025/Dec/12/openai-skills/) (2025-12-12)
+- [50 years of proof assistants](https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html) (2025-12-12)
+- [Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig](https://github.com/ringtailsoftware/uvm32) (2025-12-12)
+- [Capsudo: Rethinking Sudo with Object Capabilities](https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html) (2025-12-12)
+- [Motion (YC W20) Is Hiring Senior Staff Front End Engineers](https://jobs.ashbyhq.com/motion/715d9646-27d4-44f6-9229-61eb0380ae39) (2025-12-12)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The 34 best gifts that your teen will actually use](https://www.theverge.com/tech/785418/best-teen-gift-ideas-2025) (2025-12-12)
-- [Google Translate brings real-time speech translations to any headphones](https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones) (2025-12-12)
-- [The 40 best gift ideas for mom this holiday season](https://www.theverge.com/gadgets/802964/best-mom-gift-ideas) (2025-12-12)
-- [Hisense’s CanvasTV is a great Samsung Frame TV alternative at nearly half off](https://www.theverge.com/gadgets/843667/hisense-s7n-canvas-tv-tomtoc-fancycase-g05-slim-case-deal-sale) (2025-12-12)
-- [Hannibal creator Bryan Fuller wanted his first film to be horror for everyone](https://www.theverge.com/entertainment/843561/bryan-fuller-interview-dust-bunny) (2025-12-12)
+- [The Verge’s 2025 holiday gift guide](https://www.theverge.com/tech/809421/holiday-gift-guide-2025) (2025-12-13)
+- [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak) (2025-12-12)
+- [Parents call for New York governor to sign landmark AI safety bill](https://www.theverge.com/ai-artificial-intelligence/844062/parents-call-for-new-york-governor-to-sign-landmark-ai-safety-bill) (2025-12-12)
+- [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/tech/800440/best-gifts-under-100-2025) (2025-12-12)
+- [The long shot](https://www.theverge.com/entertainment/842881/resurrection-bi-gan-interview-tracking-shot) (2025-12-12)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Apple loses its appeal of a scathing contempt ruling in iOS payments case](https://arstechnica.com/tech-policy/2025/12/epic-celebrates-the-end-of-the-apple-tax-after-appeals-court-win-in-ios-payments-case/) (2025-12-12)
-- [Senator endorses discredited doctor’s book that claims chemical treats autism, cancer](https://arstechnica.com/health/2025/12/senator-endorses-discredited-doctors-book-that-claims-chemical-treats-autism-cancer/) (2025-12-12)
-- [Investors commit quarter-billion dollars to startup designing “Giga” satellites](https://arstechnica.com/science/2025/12/investors-commit-quarter-billion-dollars-to-startup-designing-giga-satellites/) (2025-12-12)
-- [How to break free from smart TV ads and tracking](https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/) (2025-12-12)
-- [Chatbot-powered toys rebuked for discussing sexual, dangerous topics with kids](https://arstechnica.com/gadgets/2025/12/chatbot-powered-toys-rebuked-for-discussing-sexual-dangerous-topics-with-kids/) (2025-12-12)
+- [OpenAI built an AI coding agent and uses it to improve the agent itself](https://arstechnica.com/ai/2025/12/how-openai-is-using-gpt-5-codex-to-improve-the-ai-tool-itself/) (2025-12-12)
+- [Reminder: Donate to win swag in our annual Charity Drive sweepstakes](https://arstechnica.com/gaming/2025/12/reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-17/) (2025-12-12)
+- [Google Translate expands live translation to all earbuds on Android](https://arstechnica.com/google/2025/12/google-translate-learns-slang-and-idioms-expands-live-translation-beyond-pixel-buds/) (2025-12-12)
+- [Ukrainians sue US chip firms for powering Russian drones, missiles](https://arstechnica.com/tech-policy/2025/12/ukrainians-sue-us-chip-firms-for-powering-russian-drones-missiles/) (2025-12-12)
+- [Scientists built an AI co-pilot for prosthetic bionic hands](https://arstechnica.com/ai/2025/12/scientists-built-an-ai-co-pilot-for-prosthetic-bionic-hands/) (2025-12-12)
 
 </details>
 
@@ -75,46 +75,44 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [The future of AI-powered software optimization (and how it can help your team)](https://github.blog/news-insights/policy-news-and-insights/the-future-of-ai-powered-software-optimization-and-how-it-can-help-your-team/) (2025-12-12)
 - [Let’s talk about GitHub Actions](https://github.blog/news-insights/product-news/lets-talk-about-github-actions/) (2025-12-11)
 - [GitHub Availability Report: November 2025](https://github.blog/news-insights/company-news/github-availability-report-november-2025/) (2025-12-11)
 - [MCP joins the Linux Foundation: What this means for developers building the next era of AI tools and agents](https://github.blog/open-source/maintainers/mcp-joins-the-linux-foundation-what-this-means-for-developers-building-the-next-era-of-ai-tools-and-agents/) (2025-12-09)
 - [Speed is nothing without control: How to keep quality high in the AI era](https://github.blog/ai-and-ml/generative-ai/speed-is-nothing-without-control-how-to-keep-quality-high-in-the-ai-era/) (2025-12-09)
-- [The new identity of a developer: What changes and what doesn’t in the AI era](https://github.blog/news-insights/octoverse/the-new-identity-of-a-developer-what-changes-and-what-doesnt-in-the-ai-era/) (2025-12-08)
 
 </details>
 
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [How Stack Overflow’s MCP Server is helping HP modernize the software development lifecycle](https://stackoverflow.blog/2025/12/12/how-stack-overflow-s-mcp-server-is-helping-hp-modernize-the-software-development-lifecycle/) (2025-12-12)
 - [Interface is everything, and everything is an interface](https://stackoverflow.blog/2025/12/12/interface-is-everything-and-everything-is-an-interface/) (2025-12-12)
 - [Simulating lousy conversations: Q&A with Silvio Savarese, Chief Scientist & Head of AI Research at Salesforce](https://stackoverflow.blog/2025/12/11/simulating-lousy-conversations-q-and-a-with-silvio-savarese-chief-scientist-and-head-of-ai-research-at-salesforce/) (2025-12-11)
 - [Tell us what you really, really… do not want to spend time working on](https://stackoverflow.blog/2025/12/10/tell-us-what-you-really-really-do-not-want-to-spend-time-working-on/) (2025-12-10)
 - [AI is a crystal ball into your codebase](https://stackoverflow.blog/2025/12/09/ai-is-a-crystal-ball-into-your-codebase/) (2025-12-09)
-- [The shift in enterprise AI—what we learned on the floor at Microsoft Ignite](https://stackoverflow.blog/2025/12/08/the-shift-in-enterprise-ai-what-we-learned-on-the-floor-at-microsoft-ignite/) (2025-12-08)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [LiteLLM Broke at 300 RPS in Production. Here's How We Fixed It](https://dev.to/debmckinney/litellm-broke-at-300-rps-in-production-heres-how-we-fixed-it-5ej) (2025-12-12)
-- [Build a YouTube Live Clone with Next.js, Clerk, and TailwindCSS - Part Two](https://dev.to/tropicolx/build-a-youtube-live-clone-with-nextjs-clerk-and-tailwindcss-part-two-5cfo) (2025-12-12)
-- [Ringer Movies: ‘Hamnet’ and the 10 Best Performances of 2025](https://dev.to/popcorn_movies/ringer-movies-hamnet-and-the-10-best-performances-of-2025-32g7) (2025-12-12)
-- [Why I Built My Personal Developer Portfolio (and What You Can Learn From It)](https://dev.to/badhonai/why-i-built-my-personal-developer-portfolio-and-what-you-can-learn-from-it-2oib) (2025-12-12)
-- [An Analysis of Arbitrage Markets Across Ethereum, Solana, Optimism, and Starknet (2024-2025)](https://dev.to/extropy/an-analysis-of-arbitrage-markets-across-ethereum-solana-optimism-and-starknet-2024-2025-269i) (2025-12-12)
+- [Debounce vs Throttle in JavaScript (Explained Simply with Code)](https://dev.to/smrpdl1991/debounce-vs-throttle-in-javascript-explained-simply-with-code-egm) (2025-12-13)
+- [How I Detected and Stopped a Real-World RCE Attack on My Next.js App (CVE-2025-55182 / React2Shell)](https://dev.to/jeromedh/how-i-detected-and-stopped-a-real-world-rce-attack-on-my-nextjs-app-cve-2025-55182-react2shell-2pmd) (2025-12-13)
+- [Why Your UEBA Isn’t Working (and how to fix it)](https://dev.to/alvinslee/why-your-ueba-isnt-working-and-how-to-fix-it-5b59) (2025-12-13)
+- [How to Connect VAPI to Google Calendar for Appointment Scheduling](https://dev.to/callstacktech/how-to-connect-vapi-to-google-calendar-for-appointment-scheduling-kpj) (2025-12-13)
+- [The Anti-Framework Idea that turned into FUBARos - Clippy’s Revenge](https://dev.to/j4s0nc/the-anti-framework-idea-that-turned-into-fubaros-clippys-revenge-5g59) (2025-12-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09051012897شماره خاله #شماره خاله# تهران #شماره خاله# اصفهانf
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@fdhhddjjxxbbzx/09051012897%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86f-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-bef1ac5e8094?source=rss------programming-5) (2025-12-12)
-- [09051012897شماره خاله #شماره خاله# تهران #شماره خاله# اصفهانf
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@fdhhddjjxxbbzx/09051012897%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86f-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-de1a376900da?source=rss------programming-5) (2025-12-12)
-- [5 Golang Concurrency Mistakes That Are Silently Killing Your Performance  (Updated for Go 1.25)](https://medium.com/@samratashok5551/5-golang-concurrency-mistakes-that-are-silently-killing-your-performance-updated-for-go-1-25-48ed7c592816?source=rss------programming-5) (2025-12-12)
-- [From Chaos to Clean Code: How I Built a Configurable Python Task Runner](https://blog.stackademic.com/from-chaos-to-clean-code-how-i-built-a-configurable-python-task-runner-ee61b8f00feb?source=rss------programming-5) (2025-12-12)
-- [CORS Errors Driving You Crazy? Here’s How to Fix Them Properly](https://navanathjadhav.medium.com/cors-errors-driving-you-crazy-heres-how-to-fix-them-properly-03cb99a5180c?source=rss------programming-5) (2025-12-12)
+- [How to Automate Incident Response with AI on AWS](https://medium.com/@ip.ravi333/how-to-automate-incident-response-with-ai-on-aws-ad6c6e666096?source=rss------programming-5) (2025-12-13)
+- [Golang — Variables y Constantes](https://medium.com/@hayunbugenmisopa/golang-variables-y-constantes-6e98cc2b1fea?source=rss------programming-5) (2025-12-13)
+- [How to Use Spring Batch to Optimize High-Volume API Calls](https://medium.com/@sunil17bbmp/how-to-use-spring-batch-to-optimize-high-volume-api-calls-04484ed95c27?source=rss------programming-5) (2025-12-13)
+- [Chapter 11 — My Name Betrays Me](https://medium.com/im-mortal/chapter-11-my-name-betrays-me-5c3a0326ff67?source=rss------programming-5) (2025-12-13)
+- [AIGARTH — l’essentiel en quelques minutes](https://medium.com/@0irisnova.ai/aigarth-lessentiel-en-quelques-minutes-ac89bcbfd8a4?source=rss------programming-5) (2025-12-13)
 
 </details>
 
@@ -132,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 - [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
 - [Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025](https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/) (2025-12-10)
 - [Microsoft’s commitment to supporting cloud infrastructure demand in the United States](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/) (2025-12-09)
 - [New options for AI-powered innovation, resiliency, and control with Microsoft Azure](https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/) (2025-12-03)
+- [Introducing Mistral Large 3 in Microsoft Foundry: Open, capable, and ready for production workloads](https://azure.microsoft.com/en-us/blog/introducing-mistral-large-3-in-microsoft-foundry-open-capable-and-ready-for-production-workloads/) (2025-12-02)
 
 </details>
 
@@ -209,11 +207,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Highlights from AWS re:Invent: Supercharging Kiro with Docker Sandboxes and MCP Catalog](https://www.docker.com/blog/aws-reinvent-kiro-docker-sandboxes-mcp-catalog/) (2025-12-12)
 - [Is AI the New Insider Threat?](https://www.docker.com/blog/ai-insider-threat-shadow-ai-risk-controls/) (2025-12-12)
 - [How to Add MCP Servers to ChatGPT with Docker MCP Toolkit](https://www.docker.com/blog/add-mcp-server-to-chatgpt/) (2025-12-12)
 - [Docker Model Runner now supports vLLM on Windows](https://www.docker.com/blog/docker-model-runner-vllm-windows/) (2025-12-11)
 - [Breaking Free From AI Vendor Lock-in: Integrating GitHub Models with Docker cagent](https://www.docker.com/blog/configure-cagent-github-models/) (2025-12-11)
-- [Docker Joins the Agentic AI Foundation](https://www.docker.com/blog/docker-joins-the-agentic-ai-foundation/) (2025-12-09)
 
 </details>
 
@@ -506,11 +504,11 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-create-a-graphql-s
 <details>
 <summary>💬 Slack API</summary>
 
+- [The Rise of Software Engineering Agents in Slack](https://slack.com/blog/developers/coding-agents-in-slack) (2025-12-11)
+- [11 Best AI Workflow Automation Tools for 2026](https://slack.com/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows) (2025-12-10)
+- [How to Maximize a Workflow Management System for Efficiency](https://slack.com/blog/productivity/what-is-workflow-management-2) (2025-12-10)
 - [GovSlack Achieves Department of Defense IL4 Authorization](https://slack.com/blog/news/govslack-achieves-department-of-defense-il4-authorization) (2025-12-09)
 - [Five proven employee engagement strategies to motivate your team](https://slack.com/blog/collaboration/five-proven-employee-engagement-strategies-to-motivate-your-team) (2025-12-01)
-- [Six Easy Tips for Workflow Mapping With Examples](https://slack.com/blog/productivity/workflow-mapping) (2025-12-01)
-- [How To Manage Multiple Projects and Operate Like a Pro](https://slack.com/blog/productivity/how-to-manage-multiple-projects) (2025-12-01)
-- [How to Improve Organizational Communication at Work](https://slack.com/blog/collaboration/how-to-improve-organizational-communication-at-work) (2025-11-24)
 
 </details>
 
@@ -555,6 +553,17 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-create-a-graphql-s
 - [Apriel-1.6-15b-Thinker: Cost-efficient Frontier Multimodal Performance](https://huggingface.co/blog/ServiceNow-AI/apriel-1p6-15b-thinker) (2025-12-09)
 - [Introducing swift-huggingface: The Complete Swift Client for Hugging Face](https://huggingface.co/blog/swift-huggingface) (2025-12-05)
 - [DeepMath: A lightweight math reasoning Agent with smolagents](https://huggingface.co/blog/intel-deepmath) (2025-12-04)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [AI in 2026: Experimental AI concludes as autonomous systems rise](https://www.artificialintelligence-news.com/news/ai-in-2026-experimental-ai-concludes-autonomous-systems-rise/) (2025-12-12)
+- [BBVA embeds AI into banking workflows using ChatGPT Enterprise](https://www.artificialintelligence-news.com/news/bbva-embeds-ai-into-banking-workflows-using-chatgpt-enterprise/) (2025-12-12)
+- [Microsoft’s Copilot usage analysis exposes the 2am philosophy question trend](https://www.artificialintelligence-news.com/news/copilot-usage-analysis-2am-philosophy-questions/) (2025-12-12)
+- [Microsoft ‘Promptions’ fix AI prompts failing to deliver](https://www.artificialintelligence-news.com/news/microsoft-promptions-fix-ai-prompts-failing-to-deliver/) (2025-12-11)
+- [Perplexity: AI agents are taking over complex enterprise tasks](https://www.artificialintelligence-news.com/news/perplexity-ai-agents-taking-over-complex-enterprise-tasks/) (2025-12-10)
 
 </details>
 
