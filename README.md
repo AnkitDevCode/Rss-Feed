@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [India’s Spinny lines up $160M funding to acquire GoMechanic, sources say](https://techcrunch.com/2025/12/13/indias-spinny-lines-up-160m-funding-to-acquire-gomechanic-sources-say/) (2025-12-14)
 - [DoorDash driver faces felony charges after allegedly spraying customers’ food](https://techcrunch.com/2025/12/13/doordash-driver-faces-felony-charges-after-allegedly-spraying-customers-food/) (2025-12-13)
 - [AI data center boom could be bad news for other infrastructure projects](https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/) (2025-12-13)
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/12/12/tech-layoffs-2025-list/) (2025-12-13)
 - [Inside Rivian’s big bet on AI-powered self-driving](https://techcrunch.com/2025/12/12/inside-rivians-big-et-on-ai-powered-self-driving/) (2025-12-12)
-- [With iOS 26.2, Apple lets you roll back Liquid Glass again — this time on the Lock Screen](https://techcrunch.com/2025/12/12/with-ios-26-2-apple-lets-you-roll-back-liquid-glass-again-this-time-on-the-lock-screen/) (2025-12-12)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Closures as Win32 Window Procedures](https://nullprogram.com/blog/2025/12/12/) (2025-12-13)
-- [RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) (2025-12-13)
-- [Linux Sandboxes and Fil-C](https://fil-c.org/seccomp) (2025-12-13)
-- [Flat-pack washing machine spins a fairer future](https://www.positive.news/society/flat-pack-washing-machine-spins-a-fairer-future/) (2025-12-13)
-- [Some surprising things about DuckDuckGo](https://gabrielweinberg.com/p/some-surprising-things-about-duckduckgo) (2025-12-13)
+- [Heavy metal is healing teens on the Blackfeet Nation](https://www.hcn.org/issues/57-11/heavy-metal-is-healing-teens-on-the-blackfeet-nation/) (2025-12-14)
+- [Lean Theorem Prover Mathlib](https://github.com/leanprover-community/mathlib4) (2025-12-14)
+- [If a Meta AI model can read a brain-wide signal, why wouldn't the brain?](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain) (2025-12-14)
+- [Therapeutic Use of Cannabis and Cannabinoids: A Review](https://jamanetwork.com/journals/jama/fullarticle/2842072?guestAccessKey=a368e622-e374-4a0c-8d3b-22a976500305) (2025-12-14)
+- [Free Software Awards Winners Announced: Andy Wingo, Alx Sa, Govdirectory](https://www.fsf.org/news/2024-free-software-awards-winners) (2025-12-14)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [AI Agents and Tool Calling Explained: Architecture, Context Engineering, and Implementation Strategies](https://dev.to/kapusto/ai-agents-and-tool-calling-explained-architecture-context-engineering-and-implementation-332p) (2025-12-14)
-- [Monetzly: Transforming AI Conversations into Developer Revenue Streams](https://dev.to/monetzly/monetzly-transforming-ai-conversations-into-developer-revenue-streams-1l5) (2025-12-14)
-- [Static Analysis of Program Quality: Implementasi Standar Kualitas Kode pada Modul Reply](https://dev.to/maulana_seto_2280dfc88c71/static-analysis-of-program-quality-implementasi-standar-kualitas-kode-pada-modul-reply-4nc6) (2025-12-14)
-- [🖥️ SSH Manager - VS Code Extension](https://dev.to/exalandapp/ssh-manager-vs-code-extension-48p6) (2025-12-14)
-- [Eleva tu app Android: patrones de arquitectura con Jetpack Compose](https://dev.to/marlonlom/eleva-tu-app-android-patrones-de-arquitectura-con-jetpack-compose-5gh) (2025-12-14)
+- [My Solution to Deno Watch Mode Signal Handling](https://dev.to/whyang9701/my-solution-of-deno-watch-mode-signal-handling-4ejp) (2025-12-14)
+- [Scaling Kubernetes Load with KEDA](https://dev.to/victorpinzon1988eng/scaling-kubernetes-load-with-keda-j7f) (2025-12-14)
+- [I Tried Reading React's Source Code and Flow Beat Me Up. So Let's Learn 🚀](https://dev.to/nyaomaru/i-tried-reading-reacts-source-code-and-flow-beat-me-up-so-lets-learn-4jf0) (2025-12-14)
+- [The Hidden Cost of Ignoring Competitive Alerts](https://dev.to/tracksimple/the-hidden-cost-of-ignoring-competitive-alerts-d87) (2025-12-14)
+- [Advent of AI - Day 10: Understanding Arguments in Goose Recipes](https://dev.to/nickytonline/advent-of-ai-day-10-understanding-arguments-in-goose-recipes-2obg) (2025-12-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [What I Learned by Coding an (iOS Fitness) App for 6 Months Straight!](https://blog.stackademic.com/what-i-learned-by-coding-an-ios-fitness-app-for-6-months-straight-eacb49b83f87?source=rss------programming-5) (2025-12-14)
-- [Optimistic vs Pessimistic Locking in JPA & Hibernate: When to Use Which (With Examples)](https://medium.com/@sunil17bbmp/optimistic-vs-pessimistic-locking-in-jpa-hibernate-when-to-use-which-with-examples-66a8c552028f?source=rss------programming-5) (2025-12-14)
-- [#02 — Project Setup (Backend)| Django + React: From Scratch to App](https://medium.com/@pataspatek/02-project-setup-backend-django-react-from-scratch-to-app-c9f7464e23a4?source=rss------programming-5) (2025-12-14)
-- [A Principal Engineer Taught Me These 10 Lessons — They Made Me a Far Better Developer](https://medium.com/@deepakmardi/a-principal-engineer-taught-me-these-10-lessons-they-made-me-a-far-better-developer-d55b50aacce4?source=rss------programming-5) (2025-12-14)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnvghjj10mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-96cca0948306?source=rss------programming-5) (2025-12-14)
+- [Why the Backend Doesn’t Need `.env` in Docker/CI but the Frontend Does](https://medium.com/@gosucode/why-the-backend-doesnt-need-env-in-docker-ci-but-the-frontend-does-e39174f6d955?source=rss------programming-5) (2025-12-14)
+- [Why developers burn out at big tech - and how smaller teams are winning](https://medium.com/mern-mastery/why-developers-burn-out-at-big-tech-and-how-smaller-teams-are-winning-c486d63dce80?source=rss------programming-5) (2025-12-14)
+- [30TB/Minute on a Single Codebase. Here’s How That’s Even Possible.](https://medium.com/@premchandak_11/30tb-minute-on-a-single-codebase-heres-how-that-s-even-possible-df7858db24af?source=rss------programming-5) (2025-12-14)
+- [Linux Is Hard — Until You Understand These 7 Things](https://medium.com/codex/linux-is-hard-until-you-understand-these-7-things-555e53bc516a?source=rss------programming-5) (2025-12-14)
+- [Const Is Not an Immutable Variable](https://josestg.medium.com/const-is-not-an-immutable-variable-43deb6070c80?source=rss------programming-5) (2025-12-14)
 
 </details>
 
@@ -135,17 +135,6 @@
 - [Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025](https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/) (2025-12-10)
 - [Microsoft’s commitment to supporting cloud infrastructure demand in the United States](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/) (2025-12-09)
 - [New options for AI-powered innovation, resiliency, and control with Microsoft Azure](https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/) (2025-12-03)
-
-</details>
-
-<details>
-<summary>🎮 NVIDIA Blog</summary>
-
-- [Cheers to AI: ADAM Robot Bartender Makes Drinks at Vegas Golden Knights Game](https://blogs.nvidia.com/blog/adam-robot-vegas-golden-knights-thor/) (2025-12-12)
-- [As AI Grows More Complex, Model Builders Rely on NVIDIA](https://blogs.nvidia.com/blog/leading-models-nvidia/) (2025-12-11)
-- [Ride Into Adventure With Capcom’s ‘Monster Hunter Stories’ Series in the Cloud](https://blogs.nvidia.com/blog/geforce-now-thursday-monster-hunter-stories/) (2025-12-11)
-- [Opt-In NVIDIA Software Enables Data Center Fleet Management](https://blogs.nvidia.com/blog/optional-data-center-fleet-management-software/) (2025-12-10)
-- [How NVIDIA H100 GPUs on CoreWeave’s AI Cloud Platform Delivered a Record-Breaking Graph500 Run](https://blogs.nvidia.com/blog/h100-coreweave-graph500/) (2025-12-10)
 
 </details>
 
@@ -504,11 +493,11 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-create-a-graphql-s
 <details>
 <summary>💬 Slack API</summary>
 
+- [11 Best AI Workflow Automation Tools for 2026](https://slack.com/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows) (2025-12-10)
+- [How to Maximize a Workflow Management System for Efficiency](https://slack.com/blog/productivity/what-is-workflow-management-2) (2025-12-10)
+- [GovSlack Achieves Department of Defense IL4 Authorization](https://slack.com/blog/news/govslack-achieves-department-of-defense-il4-authorization) (2025-12-09)
 - [Five proven employee engagement strategies to motivate your team](https://slack.com/blog/collaboration/five-proven-employee-engagement-strategies-to-motivate-your-team) (2025-12-01)
 - [Six Easy Tips for Workflow Mapping With Examples](https://slack.com/blog/productivity/workflow-mapping) (2025-12-01)
-- [How To Manage Multiple Projects and Operate Like a Pro](https://slack.com/blog/productivity/how-to-manage-multiple-projects) (2025-12-01)
-- [How to Improve Organizational Communication at Work](https://slack.com/blog/collaboration/how-to-improve-organizational-communication-at-work) (2025-11-24)
-- [Applying Virtual Meeting Etiquette Rules: 12 Do’s and Don’ts](https://slack.com/blog/collaboration/applying-virtual-meeting-etiquette-rules-12-dos-and-donts) (2025-11-24)
 
 </details>
 
