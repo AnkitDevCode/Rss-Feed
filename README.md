@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Bye, Mom](https://aella.substack.com/p/bye-mom) (2025-12-14)
+- [Compiler Engineering in Practice](https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html) (2025-12-14)
 - [Heavy metal is healing teens on the Blackfeet Nation](https://www.hcn.org/issues/57-11/heavy-metal-is-healing-teens-on-the-blackfeet-nation/) (2025-12-14)
-- [Lean Theorem Prover Mathlib](https://github.com/leanprover-community/mathlib4) (2025-12-14)
+- [Lean theorem prover mathlib](https://github.com/leanprover-community/mathlib4) (2025-12-14)
 - [If a Meta AI model can read a brain-wide signal, why wouldn't the brain?](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain) (2025-12-14)
-- [Therapeutic Use of Cannabis and Cannabinoids: A Review](https://jamanetwork.com/journals/jama/fullarticle/2842072?guestAccessKey=a368e622-e374-4a0c-8d3b-22a976500305) (2025-12-14)
-- [Free Software Awards Winners Announced: Andy Wingo, Alx Sa, Govdirectory](https://www.fsf.org/news/2024-free-software-awards-winners) (2025-12-14)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [My Solution to Deno Watch Mode Signal Handling](https://dev.to/whyang9701/my-solution-of-deno-watch-mode-signal-handling-4ejp) (2025-12-14)
-- [Scaling Kubernetes Load with KEDA](https://dev.to/victorpinzon1988eng/scaling-kubernetes-load-with-keda-j7f) (2025-12-14)
-- [I Tried Reading React's Source Code and Flow Beat Me Up. So Let's Learn 🚀](https://dev.to/nyaomaru/i-tried-reading-reacts-source-code-and-flow-beat-me-up-so-lets-learn-4jf0) (2025-12-14)
-- [The Hidden Cost of Ignoring Competitive Alerts](https://dev.to/tracksimple/the-hidden-cost-of-ignoring-competitive-alerts-d87) (2025-12-14)
-- [Advent of AI - Day 10: Understanding Arguments in Goose Recipes](https://dev.to/nickytonline/advent-of-ai-day-10-understanding-arguments-in-goose-recipes-2obg) (2025-12-14)
+- [Cashflow Insights — AI-Enhanced Backend with Xano](https://dev.to/shourya_soneji_0e42702575/cashflow-insights-ai-enhanced-backend-with-xano-2d40) (2025-12-14)
+- [Are senior developers misused in your company?](https://dev.to/andreas_mller_2fd27cf578/are-senior-developers-misused-in-your-company-494b) (2025-12-14)
+- [What is IPvlan network driver?](https://dev.to/meghasharmaaaa/what-is-ipvlan-network-driver-336o) (2025-12-14)
+- [Web Developer Travis McCracken on The 80/20 Rule of Backend Dev](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-8020-rule-of-backend-dev-o4g) (2025-12-14)
+- [From Bolt.new to Production: How I built a React Native app using Copilot and MCP.](https://dev.to/petrashka/from-boltnew-to-production-how-i-built-a-react-native-app-using-copilot-and-mcp-ebg) (2025-12-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why the Backend Doesn’t Need `.env` in Docker/CI but the Frontend Does](https://medium.com/@gosucode/why-the-backend-doesnt-need-env-in-docker-ci-but-the-frontend-does-e39174f6d955?source=rss------programming-5) (2025-12-14)
-- [Why developers burn out at big tech - and how smaller teams are winning](https://medium.com/mern-mastery/why-developers-burn-out-at-big-tech-and-how-smaller-teams-are-winning-c486d63dce80?source=rss------programming-5) (2025-12-14)
-- [30TB/Minute on a Single Codebase. Here’s How That’s Even Possible.](https://medium.com/@premchandak_11/30tb-minute-on-a-single-codebase-heres-how-that-s-even-possible-df7858db24af?source=rss------programming-5) (2025-12-14)
-- [Linux Is Hard — Until You Understand These 7 Things](https://medium.com/codex/linux-is-hard-until-you-understand-these-7-things-555e53bc516a?source=rss------programming-5) (2025-12-14)
-- [Const Is Not an Immutable Variable](https://josestg.medium.com/const-is-not-an-immutable-variable-43deb6070c80?source=rss------programming-5) (2025-12-14)
+- [How many more bad starts to interviews?](https://blog.stackademic.com/how-many-more-bad-starts-to-interviews-a0eab5859b80?source=rss------programming-5) (2025-12-14)
+- [AI Didn’t Make Me More Productive. It Made Me Busier.](https://medium.com/@guvencanguven965/ai-didnt-make-me-more-productive-it-made-me-busier-c3dbde048a7b?source=rss------programming-5) (2025-12-14)
+- [6 Python Libraries That Took Care of the Boring Stuff So I Could Build Faster](https://python.plainenglish.io/6-python-libraries-that-took-care-of-the-boring-stuff-so-i-could-build-faster-e9bddbe3c061?source=rss------programming-5) (2025-12-14)
+- [The Python Metaclass Trick That Finally Makes Sense (And When You Actually Need It)](https://python.plainenglish.io/the-python-metaclass-trick-that-finally-makes-sense-and-when-you-actually-need-it-a0fb04964e05?source=rss------programming-5) (2025-12-14)
+- [Android App Security in 2026: Real-World Cybersecurity Practices Beyond HTTPS](https://medium.com/@ssshubham660/android-app-security-in-2026-real-world-cybersecurity-practices-beyond-https-095c7761660c?source=rss------programming-5) (2025-12-14)
 
 </details>
 
@@ -135,6 +135,17 @@
 - [Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025](https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/) (2025-12-10)
 - [Microsoft’s commitment to supporting cloud infrastructure demand in the United States](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/) (2025-12-09)
 - [New options for AI-powered innovation, resiliency, and control with Microsoft Azure](https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/) (2025-12-03)
+
+</details>
+
+<details>
+<summary>🎮 NVIDIA Blog</summary>
+
+- [Cheers to AI: ADAM Robot Bartender Makes Drinks at Vegas Golden Knights Game](https://blogs.nvidia.com/blog/adam-robot-vegas-golden-knights-thor/) (2025-12-12)
+- [As AI Grows More Complex, Model Builders Rely on NVIDIA](https://blogs.nvidia.com/blog/leading-models-nvidia/) (2025-12-11)
+- [Ride Into Adventure With Capcom’s ‘Monster Hunter Stories’ Series in the Cloud](https://blogs.nvidia.com/blog/geforce-now-thursday-monster-hunter-stories/) (2025-12-11)
+- [Opt-In NVIDIA Software Enables Data Center Fleet Management](https://blogs.nvidia.com/blog/optional-data-center-fleet-management-software/) (2025-12-10)
+- [How NVIDIA H100 GPUs on CoreWeave’s AI Cloud Platform Delivered a Record-Breaking Graph500 Run](https://blogs.nvidia.com/blog/h100-coreweave-graph500/) (2025-12-10)
 
 </details>
 
@@ -559,11 +570,11 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-create-a-graphql-s
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Stop Writing Spaghetti if-else Chains: Parsing JSON with Python’s match-case](https://towardsdatascience.com/stop-writing-spaghetti-if-else-chains-parsing-json-with-pythons-match-case/) (2025-12-14)
 - [The Machine Learning “Advent Calendar” Day 13: LASSO and Ridge Regression in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-13-lasso-and-ridge-regression-in-excel/) (2025-12-13)
 - [How to Increase Coding Iteration Speed](https://towardsdatascience.com/how-to-increase-coding-iteration-speed/) (2025-12-13)
 - [NeurIPS 2025 Best Paper Review: Qwen’s Systematic Exploration of Attention Gating](https://towardsdatascience.com/neurips-2025-best-paper-review-qwens-systematic-exploration-of-attention-gating/) (2025-12-13)
 - [The Machine Learning “Advent Calendar” Day 12: Logistic Regression in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-12-logistic-regression-in-excel/) (2025-12-12)
-- [Decentralized Computation: The Hidden Principle Behind Deep Learning](https://towardsdatascience.com/the-power-of-decentralization/) (2025-12-12)
 
 </details>
 
