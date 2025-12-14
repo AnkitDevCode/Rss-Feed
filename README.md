@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [DoorDash driver faces felony charges after allegedly spraying customers’ food](https://techcrunch.com/2025/12/13/doordash-driver-faces-felony-charges-after-allegedly-spraying-customers-food/) (2025-12-13)
+- [AI data center boom could be bad news for other infrastructure projects](https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/) (2025-12-13)
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/12/12/tech-layoffs-2025-list/) (2025-12-13)
 - [Inside Rivian’s big bet on AI-powered self-driving](https://techcrunch.com/2025/12/12/inside-rivians-big-et-on-ai-powered-self-driving/) (2025-12-12)
 - [With iOS 26.2, Apple lets you roll back Liquid Glass again — this time on the Lock Screen](https://techcrunch.com/2025/12/12/with-ios-26-2-apple-lets-you-roll-back-liquid-glass-again-this-time-on-the-lock-screen/) (2025-12-12)
-- [Google and Apple roll out emergency security updates after zero-day attacks](https://techcrunch.com/2025/12/12/google-and-apple-roll-out-emergency-security-updates-after-zero-day-attacks/) (2025-12-12)
-- [OK, what’s going on with LinkedIn’s algo?](https://techcrunch.com/2025/12/12/ok-whats-going-on-with-linkedins-algo/) (2025-12-12)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Fast, Memory-Efficient Hash Table in Java: Borrowing the Best Ideas](https://bluuewhale.github.io/posts/building-a-fast-and-memory-efficient-hash-table-in-java-by-borrowing-the-best-ideas/) (2025-12-13)
-- [Analysis finds anytime electricity from solar available as battery costs plummet](https://pv-magazine-usa.com/2025/12/12/analysis-finds-anytime-electricity-from-solar-available-as-battery-costs-plummet/) (2025-12-13)
-- [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers) (2025-12-13)
-- [I tried Gleam for Advent of Code](https://blog.tymscar.com/posts/gleamaoc2025/) (2025-12-13)
-- [Ask HN: How can I get better at using AI for programming?](https://news.ycombinator.com/item?id=46255285) (2025-12-13)
+- [Closures as Win32 Window Procedures](https://nullprogram.com/blog/2025/12/12/) (2025-12-13)
+- [RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) (2025-12-13)
+- [Linux Sandboxes and Fil-C](https://fil-c.org/seccomp) (2025-12-13)
+- [Flat-pack washing machine spins a fairer future](https://www.positive.news/society/flat-pack-washing-machine-spins-a-fairer-future/) (2025-12-13)
+- [Some surprising things about DuckDuckGo](https://gabrielweinberg.com/p/some-surprising-things-about-duckduckgo) (2025-12-13)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Ai study buddy](https://dev.to/jalaj_gurjar_123014985861/ai-study-buddy-45m) (2025-12-13)
-- [Emergence vs. Engineering: The Industry Just Bet Against the God Model](https://dev.to/aronchick/emergence-vs-engineering-the-industry-just-bet-against-the-god-model-1oo9) (2025-12-13)
-- [The Hidden Engineering Behind Holiday Invites: Make Your RSVP Page Fast, Safe, and Not Creepy](https://dev.to/sonia_bobrik_1939cdddd79d/the-hidden-engineering-behind-holiday-invites-make-your-rsvp-page-fast-safe-and-not-creepy-3a2o) (2025-12-13)
-- [What Happens When Curiosity Meets AI: My Learning Reflections From the Intensive](https://dev.to/tasneem_raza_a1b843fab310/what-happens-when-curiosity-meets-ai-my-learning-reflections-from-the-intensive-1aea) (2025-12-13)
-- [I Tried to Give Memory to an AI… and Learned the Hard Way](https://dev.to/vivek_gaindhar_e79f747c46/i-tried-to-give-memory-to-an-ai-and-learned-the-hard-way-17cb) (2025-12-13)
+- [AI Agents and Tool Calling Explained: Architecture, Context Engineering, and Implementation Strategies](https://dev.to/kapusto/ai-agents-and-tool-calling-explained-architecture-context-engineering-and-implementation-332p) (2025-12-14)
+- [Monetzly: Transforming AI Conversations into Developer Revenue Streams](https://dev.to/monetzly/monetzly-transforming-ai-conversations-into-developer-revenue-streams-1l5) (2025-12-14)
+- [Static Analysis of Program Quality: Implementasi Standar Kualitas Kode pada Modul Reply](https://dev.to/maulana_seto_2280dfc88c71/static-analysis-of-program-quality-implementasi-standar-kualitas-kode-pada-modul-reply-4nc6) (2025-12-14)
+- [🖥️ SSH Manager - VS Code Extension](https://dev.to/exalandapp/ssh-manager-vs-code-extension-48p6) (2025-12-14)
+- [Eleva tu app Android: patrones de arquitectura con Jetpack Compose](https://dev.to/marlonlom/eleva-tu-app-android-patrones-de-arquitectura-con-jetpack-compose-5gh) (2025-12-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ How the DevOps Pipeline Works: From Code to Production (A Complete Guide)](https://rajputlakhveer.medium.com/how-the-devops-pipeline-works-from-code-to-production-a-complete-guide-d9283d92f583?source=rss------programming-5) (2025-12-13)
-- [How To Create Smart Enums in C# With Rich Behavior](https://medium.com/@maged_/how-to-create-smart-enums-in-c-with-rich-behavior-375c635af0fd?source=rss------programming-5) (2025-12-13)
-- [Your Consumer Will Process This Message Twice.](https://medium.com/@michaelmaurice410/your-consumer-will-process-this-message-twice-8ecb33064790?source=rss------programming-5) (2025-12-13)
-- [Token Authentication In ASP.NET Core 9 With JWT | Clean Architecture (.NET 9 & .NET 10)](https://medium.com/@mariammaurice/token-authentication-in-asp-net-core-9-with-jwt-clean-architecture-net-9-net-10-034b916a5ed4?source=rss------programming-5) (2025-12-13)
-- [Day 11:Beginner the Black Jack Capstone Project](https://medium.com/@irorahmah/day-11-beginner-the-black-jack-capstone-project-aab6913298b0?source=rss------programming-5) (2025-12-13)
+- [What I Learned by Coding an (iOS Fitness) App for 6 Months Straight!](https://blog.stackademic.com/what-i-learned-by-coding-an-ios-fitness-app-for-6-months-straight-eacb49b83f87?source=rss------programming-5) (2025-12-14)
+- [Optimistic vs Pessimistic Locking in JPA & Hibernate: When to Use Which (With Examples)](https://medium.com/@sunil17bbmp/optimistic-vs-pessimistic-locking-in-jpa-hibernate-when-to-use-which-with-examples-66a8c552028f?source=rss------programming-5) (2025-12-14)
+- [#02 — Project Setup (Backend)| Django + React: From Scratch to App](https://medium.com/@pataspatek/02-project-setup-backend-django-react-from-scratch-to-app-c9f7464e23a4?source=rss------programming-5) (2025-12-14)
+- [A Principal Engineer Taught Me These 10 Lessons — They Made Me a Far Better Developer](https://medium.com/@deepakmardi/a-principal-engineer-taught-me-these-10-lessons-they-made-me-a-far-better-developer-d55b50aacce4?source=rss------programming-5) (2025-12-14)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnvghjj10mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-96cca0948306?source=rss------programming-5) (2025-12-14)
 
 </details>
 
@@ -504,11 +504,11 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-create-a-graphql-s
 <details>
 <summary>💬 Slack API</summary>
 
-- [11 Best AI Workflow Automation Tools for 2026](https://slack.com/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows) (2025-12-10)
-- [How to Maximize a Workflow Management System for Efficiency](https://slack.com/blog/productivity/what-is-workflow-management-2) (2025-12-10)
-- [GovSlack Achieves Department of Defense IL4 Authorization](https://slack.com/blog/news/govslack-achieves-department-of-defense-il4-authorization) (2025-12-09)
 - [Five proven employee engagement strategies to motivate your team](https://slack.com/blog/collaboration/five-proven-employee-engagement-strategies-to-motivate-your-team) (2025-12-01)
 - [Six Easy Tips for Workflow Mapping With Examples](https://slack.com/blog/productivity/workflow-mapping) (2025-12-01)
+- [How To Manage Multiple Projects and Operate Like a Pro](https://slack.com/blog/productivity/how-to-manage-multiple-projects) (2025-12-01)
+- [How to Improve Organizational Communication at Work](https://slack.com/blog/collaboration/how-to-improve-organizational-communication-at-work) (2025-11-24)
+- [Applying Virtual Meeting Etiquette Rules: 12 Do’s and Don’ts](https://slack.com/blog/collaboration/applying-virtual-meeting-etiquette-rules-12-dos-and-donts) (2025-11-24)
 
 </details>
 
@@ -603,11 +603,11 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-create-a-graphql-s
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [How LLMs Choose Their Words: A Practical Walk-Through of Logits, Softmax and Sampling](https://machinelearningmastery.com/how-llms-choose-their-words-a-practical-walk-through-of-logits-softmax-and-sampling/) (2025-12-13)
 - [3 Feature Engineering Techniques for Unstructured Text Data](https://machinelearningmastery.com/3-feature-engineering-techniques-for-unstructured-text-data/) (2025-12-12)
 - [3 Subtle Ways Data Leakage Can Ruin Your Models (and How to Prevent It)](https://machinelearningmastery.com/3-subtle-ways-data-leakage-can-ruin-your-models-and-how-to-prevent-it/) (2025-12-10)
 - [How AI Cuts Costs and Adds Value for Data Science Workflows (Sponsored)](https://usa.ingrammicro.com/cep/app/cms/en-us/General/guiding-tech) (2025-12-09)
 - [Creating a Llama or GPT Model for Next-Token Prediction](https://machinelearningmastery.com/creating-a-llama-or-gpt-model-for-next-token-prediction/) (2025-12-08)
-- [Top 5 Agentic AI LLM Models](https://machinelearningmastery.com/top-5-agentic-ai-llm-models/) (2025-12-08)
 
 </details>
 
