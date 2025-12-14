@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Making sense of the risky Netflix-Warner Bros. deal](https://techcrunch.com/2025/12/14/making-sense-of-the-risky-netflix-warner-bros-deal/) (2025-12-14)
+- [TechCrunch Mobility: Rivian’s survival plan involves more than cars](https://techcrunch.com/2025/12/14/rivians-survival-plan-involves-more-than-cars/) (2025-12-14)
 - [India’s Spinny lines up $160M funding to acquire GoMechanic, sources say](https://techcrunch.com/2025/12/13/indias-spinny-lines-up-160m-funding-to-acquire-gomechanic-sources-say/) (2025-12-14)
 - [DoorDash driver faces felony charges after allegedly spraying customers’ food](https://techcrunch.com/2025/12/13/doordash-driver-faces-felony-charges-after-allegedly-spraying-customers-food/) (2025-12-13)
 - [AI data center boom could be bad news for other infrastructure projects](https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/) (2025-12-13)
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/12/12/tech-layoffs-2025-list/) (2025-12-13)
-- [Inside Rivian’s big bet on AI-powered self-driving](https://techcrunch.com/2025/12/12/inside-rivians-big-et-on-ai-powered-self-driving/) (2025-12-12)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Bye, Mom](https://aella.substack.com/p/bye-mom) (2025-12-14)
-- [Compiler Engineering in Practice](https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html) (2025-12-14)
-- [Heavy metal is healing teens on the Blackfeet Nation](https://www.hcn.org/issues/57-11/heavy-metal-is-healing-teens-on-the-blackfeet-nation/) (2025-12-14)
-- [Lean theorem prover mathlib](https://github.com/leanprover-community/mathlib4) (2025-12-14)
-- [If a Meta AI model can read a brain-wide signal, why wouldn't the brain?](https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain) (2025-12-14)
+- [The Typeframe PX-88 Portable Computing System](https://www.typeframe.net/) (2025-12-14)
+- [Sacrificing accessibility for not getting web scraped](https://tilschuenemann.de/projects/sacrificing-accessibility-for-not-getting-web-scraped) (2025-12-14)
+- [Show HN: a Pager](https://www.udp7777.com/) (2025-12-14)
+- [Hashcards: A Plain-Text Spaced Repetition System](https://borretti.me/article/hashcards-plain-text-spaced-repetition) (2025-12-14)
+- [Rust Coreutils 0.5.0 Release: 87.75% compatibility with GNU Coreutils](https://github.com/uutils/coreutils/releases/tag/0.5.0) (2025-12-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [A Kinect for kids is outselling Xbox to become the hot console this holiday](https://www.theverge.com/news/844380/nex-playground-outselling-the-xbox) (2025-12-13)
-- [Slab is the first MIDI controller built exclusively for Serato Studio](https://www.theverge.com/tech/839732/serato-slab-midi-controller-studio) (2025-12-13)
-- [This $1,500 robot cooks dinner while I work](https://www.theverge.com/tech/840599/posha-robot-chef-review) (2025-12-13)
-- [The Nex Playground and Pixel Buds 2A top our list of the best deals this week](https://www.theverge.com/gadgets/844093/nex-playground-google-pixel-buds-2a-deal-sale) (2025-12-13)
-- [The best thing I bought this year: a portable mechanical keyboard](https://www.theverge.com/gadgets/843455/mechanical-keyboard-nyphy-favorite) (2025-12-13)
+- [Inside the high drama of the iPhone 4](https://www.theverge.com/podcast/844408/inside-the-high-drama-of-the-iphone-4) (2025-12-14)
+- [The end of OpenAI, and other 2026 predictions](https://www.theverge.com/podcast/844401/tech-industry-2026-predictions-openai-apple) (2025-12-14)
+- [I&#8217;m finally beginning to trust Microsoft&#8217;s handheld Xbox](https://www.theverge.com/games/843010/xbox-ally-x-sleep-battery-drain-two-months-later) (2025-12-14)
+- [AI image generators are getting better by getting worse](https://www.theverge.com/column/843883/ai-image-generators-better-worse) (2025-12-14)
+- [A new old idea about video stores](https://www.theverge.com/tech/844117/letterboxd-store-skate-story-ifixit-installer) (2025-12-14)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Cashflow Insights — AI-Enhanced Backend with Xano](https://dev.to/shourya_soneji_0e42702575/cashflow-insights-ai-enhanced-backend-with-xano-2d40) (2025-12-14)
-- [Are senior developers misused in your company?](https://dev.to/andreas_mller_2fd27cf578/are-senior-developers-misused-in-your-company-494b) (2025-12-14)
-- [What is IPvlan network driver?](https://dev.to/meghasharmaaaa/what-is-ipvlan-network-driver-336o) (2025-12-14)
-- [Web Developer Travis McCracken on The 80/20 Rule of Backend Dev](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-8020-rule-of-backend-dev-o4g) (2025-12-14)
-- [From Bolt.new to Production: How I built a React Native app using Copilot and MCP.](https://dev.to/petrashka/from-boltnew-to-production-how-i-built-a-react-native-app-using-copilot-and-mcp-ebg) (2025-12-14)
+- [Best Cursor Editor Themes 2024: Boost Focus & Reduce Eye Strain | Review](https://dev.to/dondon32/best-cursor-editor-themes-2024-boost-focus-reduce-eye-strain-review-1c11) (2025-12-14)
+- [A story on Frontend Architectures - Everyone deserves a BFF!](https://dev.to/purnez/a-story-on-frontend-architectures-everyone-deserves-a-bff-k27) (2025-12-14)
+- [How to Build Long-Living Software Systems](https://dev.to/leonpennings/how-to-build-long-living-software-systems-535n) (2025-12-14)
+- [Các điểm cần lưu ý về Business Rule](https://dev.to/longtth/cac-diem-can-luu-y-ve-business-rule-4342) (2025-12-14)
+- [7 Days on Mantle: From 'Hello World' to a Full-Stack RWA dApp](https://dev.to/azharpratama/7-days-on-mantle-from-hello-world-to-a-full-stack-rwa-dapp-3553) (2025-12-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How many more bad starts to interviews?](https://blog.stackademic.com/how-many-more-bad-starts-to-interviews-a0eab5859b80?source=rss------programming-5) (2025-12-14)
-- [AI Didn’t Make Me More Productive. It Made Me Busier.](https://medium.com/@guvencanguven965/ai-didnt-make-me-more-productive-it-made-me-busier-c3dbde048a7b?source=rss------programming-5) (2025-12-14)
-- [6 Python Libraries That Took Care of the Boring Stuff So I Could Build Faster](https://python.plainenglish.io/6-python-libraries-that-took-care-of-the-boring-stuff-so-i-could-build-faster-e9bddbe3c061?source=rss------programming-5) (2025-12-14)
-- [The Python Metaclass Trick That Finally Makes Sense (And When You Actually Need It)](https://python.plainenglish.io/the-python-metaclass-trick-that-finally-makes-sense-and-when-you-actually-need-it-a0fb04964e05?source=rss------programming-5) (2025-12-14)
-- [Android App Security in 2026: Real-World Cybersecurity Practices Beyond HTTPS](https://medium.com/@ssshubham660/android-app-security-in-2026-real-world-cybersecurity-practices-beyond-https-095c7761660c?source=rss------programming-5) (2025-12-14)
+- [Beyond the Password: Modern Authentication Explained](https://medium.com/@guroosh/beyond-the-password-modern-authentication-explained-24363219f25b?source=rss------programming-5) (2025-12-14)
+- [All You Have to Know about DevOps Foundations with Must-Read Books and Popular Tools](https://azeynalli1990.medium.com/all-you-have-to-know-about-devops-foundations-with-must-read-books-and-popular-tools-abcfd3083785?source=rss------programming-5) (2025-12-14)
+- [Console Based Quiz Game](https://medium.com/@iamhafizrayan/console-based-quiz-game-9254add0c148?source=rss------programming-5) (2025-12-14)
+- [Elegant Global Error Handling Using Middleware In .NET 9](https://medium.com/@maged_/elegant-global-error-handling-using-middleware-in-net-9-994aa2a1abc2?source=rss------programming-5) (2025-12-14)
+- [I Read OpenAI’s GPT‑5.2 Prompting Guide So You Don’t Have To](https://pub.towardsai.net/i-read-openais-gpt-5-2-prompting-guide-so-you-don-t-have-to-c5efcfd92d48?source=rss------programming-5) (2025-12-14)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Private MCP Catalogs and the Path to Composable Enterprise AI](https://www.docker.com/blog/private-mcp-catalogs-oci-composable-enterprise-ai/) (2025-12-14)
 - [Highlights from AWS re:Invent: Supercharging Kiro with Docker Sandboxes and MCP Catalog](https://www.docker.com/blog/aws-reinvent-kiro-docker-sandboxes-mcp-catalog/) (2025-12-12)
 - [Is AI the New Insider Threat?](https://www.docker.com/blog/ai-insider-threat-shadow-ai-risk-controls/) (2025-12-12)
 - [How to Add MCP Servers to ChatGPT with Docker MCP Toolkit](https://www.docker.com/blog/add-mcp-server-to-chatgpt/) (2025-12-12)
 - [Docker Model Runner now supports vLLM on Windows](https://www.docker.com/blog/docker-model-runner-vllm-windows/) (2025-12-11)
-- [Breaking Free From AI Vendor Lock-in: Integrating GitHub Models with Docker cagent](https://www.docker.com/blog/configure-cagent-github-models/) (2025-12-11)
 
 </details>
 
@@ -504,11 +504,11 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-create-a-graphql-s
 <details>
 <summary>💬 Slack API</summary>
 
+- [The Rise of Software Engineering Agents in Slack](https://slack.com/blog/developers/coding-agents-in-slack) (2025-12-11)
 - [11 Best AI Workflow Automation Tools for 2026](https://slack.com/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows) (2025-12-10)
 - [How to Maximize a Workflow Management System for Efficiency](https://slack.com/blog/productivity/what-is-workflow-management-2) (2025-12-10)
 - [GovSlack Achieves Department of Defense IL4 Authorization](https://slack.com/blog/news/govslack-achieves-department-of-defense-il4-authorization) (2025-12-09)
 - [Five proven employee engagement strategies to motivate your team](https://slack.com/blog/collaboration/five-proven-employee-engagement-strategies-to-motivate-your-team) (2025-12-01)
-- [Six Easy Tips for Workflow Mapping With Examples](https://slack.com/blog/productivity/workflow-mapping) (2025-12-01)
 
 </details>
 
@@ -570,11 +570,11 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-create-a-graphql-s
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Machine Learning “Advent Calendar” Day 14: Softmax Regression in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-14-softmax-regression-in-excel/) (2025-12-14)
+- [The Skills That Bridge Technical Work and Business Impact](https://towardsdatascience.com/the-skills-that-bridge-technical-work-and-business-impact/) (2025-12-14)
 - [Stop Writing Spaghetti if-else Chains: Parsing JSON with Python’s match-case](https://towardsdatascience.com/stop-writing-spaghetti-if-else-chains-parsing-json-with-pythons-match-case/) (2025-12-14)
 - [The Machine Learning “Advent Calendar” Day 13: LASSO and Ridge Regression in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-13-lasso-and-ridge-regression-in-excel/) (2025-12-13)
 - [How to Increase Coding Iteration Speed](https://towardsdatascience.com/how-to-increase-coding-iteration-speed/) (2025-12-13)
-- [NeurIPS 2025 Best Paper Review: Qwen’s Systematic Exploration of Attention Gating](https://towardsdatascience.com/neurips-2025-best-paper-review-qwens-systematic-exploration-of-attention-gating/) (2025-12-13)
-- [The Machine Learning “Advent Calendar” Day 12: Logistic Regression in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-12-logistic-regression-in-excel/) (2025-12-12)
 
 </details>
 
