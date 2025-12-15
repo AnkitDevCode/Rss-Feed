@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Grok got crucial facts wrong about Bondi Beach shooting](https://techcrunch.com/2025/12/14/grok-gets-the-facts-wrong-about-bondi-beach-shooting/) (2025-12-14)
+- [Mesa shuts down credit card that rewarded cardholders for paying their mortgages](https://techcrunch.com/2025/12/14/mesa-shuts-down-credit-card-that-rewarded-cardholders-for-paying-their-mortgages/) (2025-12-14)
 - [Making sense of the risky Netflix-Warner Bros. deal](https://techcrunch.com/2025/12/14/making-sense-of-the-risky-netflix-warner-bros-deal/) (2025-12-14)
 - [TechCrunch Mobility: Rivian’s survival plan involves more than cars](https://techcrunch.com/2025/12/14/rivians-survival-plan-involves-more-than-cars/) (2025-12-14)
 - [India’s Spinny lines up $160M funding to acquire GoMechanic, sources say](https://techcrunch.com/2025/12/13/indias-spinny-lines-up-160m-funding-to-acquire-gomechanic-sources-say/) (2025-12-14)
-- [DoorDash driver faces felony charges after allegedly spraying customers’ food](https://techcrunch.com/2025/12/13/doordash-driver-faces-felony-charges-after-allegedly-spraying-customers-food/) (2025-12-13)
-- [AI data center boom could be bad news for other infrastructure projects](https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/) (2025-12-13)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Typeframe PX-88 Portable Computing System](https://www.typeframe.net/) (2025-12-14)
-- [Sacrificing accessibility for not getting web scraped](https://tilschuenemann.de/projects/sacrificing-accessibility-for-not-getting-web-scraped) (2025-12-14)
-- [Show HN: a Pager](https://www.udp7777.com/) (2025-12-14)
-- [Hashcards: A Plain-Text Spaced Repetition System](https://borretti.me/article/hashcards-plain-text-spaced-repetition) (2025-12-14)
-- [Rust Coreutils 0.5.0 Release: 87.75% compatibility with GNU Coreutils](https://github.com/uutils/coreutils/releases/tag/0.5.0) (2025-12-14)
+- [Robot Vacuum Roomba Maker Files for Bankruptcy After 35 Years](https://news.bloomberglaw.com/bankruptcy-law/robot-vacuum-roomba-maker-files-for-bankruptcy-after-35-years) (2025-12-15)
+- [If AI replaces workers, should it also pay taxes?](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) (2025-12-15)
+- [Our emotional pain became a product](https://www.theguardian.com/us-news/ng-interactive/2025/dec/14/trauma-mental-health) (2025-12-14)
+- [AI agents are starting to eat SaaS](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/) (2025-12-14)
+- [Claude CLI deleted my home directory Wiped my whole Mac](https://old.reddit.com/r/ClaudeAI/comments/1pgxckk/claude_cli_deleted_my_entire_home_directory_wiped/) (2025-12-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [You need to listen to Sudan Archives&#8217; violin opus for the club](https://www.theverge.com/entertainment/844447/sudan-archives-the-bpm) (2025-12-14)
+- [Grok is spreading misinformation about the Bondi Beach shooting](https://www.theverge.com/news/844443/grok-misinformation-bondi-beach-shooting) (2025-12-14)
+- [Absynth is back and weirder than ever after 16 years](https://www.theverge.com/entertainment/844432/native-instruments-absynth-6-mpe-brian-eno) (2025-12-14)
 - [Inside the high drama of the iPhone 4](https://www.theverge.com/podcast/844408/inside-the-high-drama-of-the-iphone-4) (2025-12-14)
 - [The end of OpenAI, and other 2026 predictions](https://www.theverge.com/podcast/844401/tech-industry-2026-predictions-openai-apple) (2025-12-14)
-- [I&#8217;m finally beginning to trust Microsoft&#8217;s handheld Xbox](https://www.theverge.com/games/843010/xbox-ally-x-sleep-battery-drain-two-months-later) (2025-12-14)
-- [AI image generators are getting better by getting worse](https://www.theverge.com/column/843883/ai-image-generators-better-worse) (2025-12-14)
-- [A new old idea about video stores](https://www.theverge.com/tech/844117/letterboxd-store-skate-story-ifixit-installer) (2025-12-14)
 
 </details>
 
@@ -97,22 +97,24 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Best Cursor Editor Themes 2024: Boost Focus & Reduce Eye Strain | Review](https://dev.to/dondon32/best-cursor-editor-themes-2024-boost-focus-reduce-eye-strain-review-1c11) (2025-12-14)
-- [A story on Frontend Architectures - Everyone deserves a BFF!](https://dev.to/purnez/a-story-on-frontend-architectures-everyone-deserves-a-bff-k27) (2025-12-14)
-- [How to Build Long-Living Software Systems](https://dev.to/leonpennings/how-to-build-long-living-software-systems-535n) (2025-12-14)
-- [Các điểm cần lưu ý về Business Rule](https://dev.to/longtth/cac-diem-can-luu-y-ve-business-rule-4342) (2025-12-14)
-- [7 Days on Mantle: From 'Hello World' to a Full-Stack RWA dApp](https://dev.to/azharpratama/7-days-on-mantle-from-hello-world-to-a-full-stack-rwa-dapp-3553) (2025-12-14)
+- [A better way to handle OpenAPI in Go. 🛠️](https://dev.to/indybonez/a-better-way-to-handle-openapi-in-go-2lo6) (2025-12-15)
+- [Modern Frontend Tools for NZ Developers](https://dev.to/techcontributors/modern-frontend-tools-for-nz-developers-45d8) (2025-12-15)
+- [CI/CD in Modern Australian Websites](https://dev.to/techcontributors/cicd-in-modern-australian-websites-596o) (2025-12-15)
+- [Cloud Adoption in Australian Web Development](https://dev.to/techcontributors/cloud-adoption-in-australian-web-development-1o6e) (2025-12-15)
+- [Using JAMStack for Australian SMEs](https://dev.to/techcontributors/using-jamstack-for-australian-smes-211) (2025-12-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Beyond the Password: Modern Authentication Explained](https://medium.com/@guroosh/beyond-the-password-modern-authentication-explained-24363219f25b?source=rss------programming-5) (2025-12-14)
-- [All You Have to Know about DevOps Foundations with Must-Read Books and Popular Tools](https://azeynalli1990.medium.com/all-you-have-to-know-about-devops-foundations-with-must-read-books-and-popular-tools-abcfd3083785?source=rss------programming-5) (2025-12-14)
-- [Console Based Quiz Game](https://medium.com/@iamhafizrayan/console-based-quiz-game-9254add0c148?source=rss------programming-5) (2025-12-14)
-- [Elegant Global Error Handling Using Middleware In .NET 9](https://medium.com/@maged_/elegant-global-error-handling-using-middleware-in-net-9-994aa2a1abc2?source=rss------programming-5) (2025-12-14)
-- [I Read OpenAI’s GPT‑5.2 Prompting Guide So You Don’t Have To](https://pub.towardsai.net/i-read-openais-gpt-5-2-prompting-guide-so-you-don-t-have-to-c5efcfd92d48?source=rss------programming-5) (2025-12-14)
+- [TFD: Requirements = Tests](https://medium.com/@stillblueist/tfd-requirements-tests-ce2c48b1026d?source=rss------programming-5) (2025-12-15)
+- [09051012897شماره خاله #شماره خاله# تهران #شماره خاله# اصفهانf
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@khalhthran50/09051012897%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86f-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-409065784ee7?source=rss------programming-5) (2025-12-15)
+- [09051012897شماره خاله #شماره خاله# تهران #شماره خاله# اصفهانf
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@khalhthran50/09051012897%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86f-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-de8a193360ac?source=rss------programming-5) (2025-12-15)
+- [UUIDv7 vs UUIDv8 (RFC 9562): production notes — uniqueness, DB ordering, and .NET pitfalls](https://medium.com/@anderson.buenogod/uuidv7-vs-uuidv8-rfc-9562-production-notes-uniqueness-db-ordering-and-net-pitfalls-e38917844c25?source=rss------programming-5) (2025-12-15)
+- [KarmaXchange: A Community-Driven Crypto Media and Experimental Ecosystem](https://medium.com/@dpforrestservice/karmaxchange-a-community-driven-crypto-media-and-experimental-ecosystem-60426ced9253?source=rss------programming-5) (2025-12-15)
 
 </details>
 
@@ -581,11 +583,11 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-create-a-graphql-s
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [8 Things To Do With Microsoft’s MarkItDown Library](https://www.analyticsvidhya.com/blog/2025/12/microsofts-markitdown-uses/) (2025-12-14)
 - [Building AI Agents: Insights from the First Three Days of Kaggle’s Intensive Program](https://www.analyticsvidhya.com/blog/2025/12/production-ai-agents-kaggle/) (2025-12-13)
 - [What is SoftPlus Activation Function? ](https://www.analyticsvidhya.com/blog/2025/12/softplus-activation-function/) (2025-12-12)
 - [Guide to OpenAI API Models and How to Use Them](https://www.analyticsvidhya.com/blog/2025/12/openai-api-models/) (2025-12-11)
 - [All About Mistral’s DevStral 2, DevStral Small & Vibe CLI](https://www.analyticsvidhya.com/blog/2025/12/mistral-devstral-2-and-vibe-cli/) (2025-12-10)
-- [Building and Deploying a Machine Learning Model Using FastAPI](https://www.analyticsvidhya.com/blog/2025/12/fastapi-machine-learning-deployment/) (2025-12-10)
 
 </details>
 
