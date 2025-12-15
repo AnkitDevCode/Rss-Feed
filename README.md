@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Mirelo raises $41M from Index and a16z to solve AI video’s silent problem](https://techcrunch.com/2025/12/15/mirelo-raises-41m-from-index-and-a16z-to-solve-ai-videos-silent-problem/) (2025-12-15)
+- [Thea Energy previews Helios, its pixel-inspired fusion power plant](https://techcrunch.com/2025/12/15/thea-energy-previews-helios-its-pixel-inspired-fusion-power-plant/) (2025-12-15)
 - [How iRobot lost its way home](https://techcrunch.com/2025/12/14/how-irobot-lost-its-way-home/) (2025-12-15)
 - [WhatsApp’s biggest market is becoming its toughest test](https://techcrunch.com/2025/12/14/whatsapps-biggest-market-is-becoming-its-toughest-test/) (2025-12-15)
 - [Grok got crucial facts wrong about Bondi Beach shooting](https://techcrunch.com/2025/12/14/grok-gets-the-facts-wrong-about-bondi-beach-shooting/) (2025-12-14)
-- [Mesa shuts down credit card that rewarded cardholders for paying their mortgages](https://techcrunch.com/2025/12/14/mesa-shuts-down-credit-card-that-rewarded-cardholders-for-paying-their-mortgages/) (2025-12-14)
-- [Making sense of the risky Netflix-Warner Bros. deal](https://techcrunch.com/2025/12/14/making-sense-of-the-risky-netflix-warner-bros-deal/) (2025-12-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Rob Reiner,Legendary Director and Actor,and Wife Found Dead in Apparent Homicide](https://www.rollingstone.com/tv-movies/tv-movie-news/rob-reiner-ldead-obituary-1235483876/) (2025-12-15)
+- [Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng](https://www.optery.com/careers/) (2025-12-15)
+- [Avoid UUIDv4 Primary Keys](https://andyatkinson.com/avoid-uuid-version-4-primary-keys) (2025-12-15)
+- [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md) (2025-12-15)
 - [Read Something Wonderful](https://readsomethingwonderful.com/) (2025-12-15)
 - [The Whole App is a Blob](https://drobinin.com/posts/the-whole-app-is-a-blob/) (2025-12-15)
-- [Arborium: Tree-sitter code highlighting with Native and WASM targets](https://arborium.bearcove.eu/) (2025-12-15)
-- [Unscii](http://viznut.fi/unscii/) (2025-12-15)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Kindle app now answers questions about the book you’re reading](https://www.theverge.com/news/844538/kindle-app-ask-this-book-ai-ios) (2025-12-15)
+- [Feeding the machine](https://www.theverge.com/cs/features/831818/ai-mercor-handshake-scale-surge-staffing-companies) (2025-12-15)
+- [Starlink and Chinese satellites nearly collided last week](https://www.theverge.com/news/844502/starlink-and-chinese-satellites-nearly-collided-last-week) (2025-12-15)
+- [Who is Picea Robotics, Roomba’s new owner?](https://www.theverge.com/news/844474/who-is-picea-robotics-company-owns-irobot) (2025-12-15)
 - [iRobot files for bankruptcy](https://www.theverge.com/news/844460/irobot-files-for-bankruptcy) (2025-12-15)
-- [You need to listen to Sudan Archives&#8217; violin opus for the club](https://www.theverge.com/entertainment/844447/sudan-archives-the-bpm) (2025-12-14)
-- [Grok is spreading misinformation about the Bondi Beach shooting](https://www.theverge.com/news/844443/grok-misinformation-bondi-beach-shooting) (2025-12-14)
-- [Absynth is back and weirder than ever after 16 years](https://www.theverge.com/entertainment/844432/native-instruments-absynth-6-mpe-brian-eno) (2025-12-14)
-- [Inside the high drama of the iPhone 4](https://www.theverge.com/podcast/844408/inside-the-high-drama-of-the-iphone-4) (2025-12-14)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
-- [The Download: expanded carrier screening, and how Southeast Asia plans to get to space](https://www.technologyreview.com/2025/12/12/1129478/the-download-expanded-carrier-screening-and-how-southeast-asia-plans-to-get-to-space/) (2025-12-12)
-- [Southeast Asia seeks its place in space](https://www.technologyreview.com/2025/12/12/1129235/dispatch-thai-space-expo-southeast-asia-exploration/) (2025-12-12)
-- [Expanded carrier screening: Is it worth it?](https://www.technologyreview.com/2025/12/12/1129344/expanded-carrier-screening-is-it-worth-it/) (2025-12-12)
-- [The Download: solar geoengineering’s future, and OpenAI is being sued](https://www.technologyreview.com/2025/12/11/1129288/the-download-solar-geoengineerings-future-and-openai-is-being-sued/) (2025-12-11)
-- [Solar geoengineering startups are getting serious](https://www.technologyreview.com/2025/12/11/1129239/solar-geoengineering-startups-are-getting-serious/) (2025-12-11)
+- [AI coding is now everywhere. But not everyone is convinced.](https://www.technologyreview.com/2025/12/15/1128352/rise-of-ai-coding-developers-2026/) (2025-12-15)
+- [A brief history of Sam Altman’s hype](https://www.technologyreview.com/2025/12/15/1129169/a-brief-history-of-sam-altmans-hype/) (2025-12-15)
+- [The AI doomers feel undeterred](https://www.technologyreview.com/2025/12/15/1129171/the-ai-doomers-feel-undeterred/) (2025-12-15)
+- [The great AI hype correction of 2025](https://www.technologyreview.com/2025/12/15/1129174/the-great-ai-hype-correction-of-2025/) (2025-12-15)
+- [Generative AI hype distracts us from AI’s more important breakthroughs](https://www.technologyreview.com/2025/12/15/1129179/generative-ai-hype-distracts-us-from-ais-more-important-breakthroughs/) (2025-12-15)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Understanding Doppar Queue: A Deep Dive into Job Lifecycle and Why It Matters](https://dev.to/mahedi1501/understanding-doppar-queue-a-deep-dive-into-job-lifecycle-and-why-it-matters-5hjk) (2025-12-15)
-- [Aakash Rahsi | AI Systems Architect • Cloud Strategist • Founder, RAHSI Framework](https://dev.to/aakash_rahsi_8d28156d5f2c/aakash-rahsi-ai-systems-architect-cloud-strategist-founder-rahsi-framework-487i) (2025-12-15)
-- [Part 01: Building a Sovereign Software Factory: Docker Networking & Persistence](https://dev.to/warren_jitsing_dd1c1d6fc6/part-01-building-a-sovereign-software-factory-docker-networking-persistence-31pm) (2025-12-15)
-- [When a PCB Trace Becomes a Transmission Line (And Why It Broke My Design)](https://dev.to/entela_lleka_c0a20f6760/when-a-pcb-trace-becomes-a-transmission-line-and-why-it-broke-my-design-5c4o) (2025-12-15)
-- [Stay ahead in web development: latest news, tools, and insights #115](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-115-4h31) (2025-12-15)
+- [Designing Difficulty Curves That Work in Browser Platformer Games](https://dev.to/gamh5games/designing-difficulty-curves-that-work-in-browser-platformer-games-id8) (2025-12-15)
+- [CNN vs Transformer – A Visual Comparison](https://dev.to/richard_abishai/cnn-vs-transformer-a-visual-comparison-4o2h) (2025-12-15)
+- [How to create AI assistant for your business](https://dev.to/mavibot/how-to-create-ai-assistant-for-your-business-dji) (2025-12-15)
+- [Transform AI Conversations into Profit with Monetzly’s SDK Integration](https://dev.to/monetzly/transform-ai-conversations-into-profit-with-monetzlys-sdk-integration-e1m) (2025-12-15)
+- [Releasing LightningChart Python Trader 1.1](https://dev.to/omar_lightningchart/releasing-lightningchart-python-trader-11-317g) (2025-12-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Rubber Duck Fallacy: Why GPT-5.2, Gemini 3, and Claude 4.5 Can’t Swim](https://medium.com/@enkiluv/the-rubber-duck-fallacy-why-gpt-5-2-gemini-3-and-claude-4-5-cant-swim-169aaf77ac3a?source=rss------programming-5) (2025-12-15)
-- [Kimi K2 Free API Unlimited !!](https://medium.com/data-science-in-your-pocket/kimi-k2-free-api-unlimited-ad6cbca16d6a?source=rss------programming-5) (2025-12-15)
-- [Lessons from Migrating a Production System in 2025](https://medium.com/@reyanshicodes/lessons-from-migrating-a-production-system-in-2025-5e920c469ed1?source=rss------programming-5) (2025-12-15)
-- [The Dart Number Secrets Every Flutter Developer Should Know (But Most Never Use)](https://medium.com/codex/the-dart-number-secrets-every-flutter-developer-should-know-but-most-never-use-e9b6d75d6697?source=rss------programming-5) (2025-12-15)
-- [VS Code Suddenly not Opening — This will work](https://medium.com/@bireshkumar1964/vs-code-suddenly-not-opening-this-will-work-12c5a69d5351?source=rss------programming-5) (2025-12-15)
+- [Level Up Your Spring Boot Code: 5 Patterns Senior Developers Wish You Knew ](https://medium.com/@indrajit7448/level-up-your-spring-boot-code-5-patterns-senior-developers-wish-you-knew-a41b742a35d1?source=rss------programming-5) (2025-12-15)
+- [Tidy First? 정리노트](https://medium.com/@chcs1370/tidy-first-dbc0f11c6a20?source=rss------programming-5) (2025-12-15)
+- [Day 1: Angular Unit Testing Fundamentals — Think Like a Developer, Test Like a Pro](https://medium.com/@avinash.batule1994/day-1-angular-unit-testing-fundamentals-think-like-a-developer-test-like-a-pro-d6278cf03323?source=rss------programming-5) (2025-12-15)
+- [Jatuh Cinta Memang Manis, Ya?](https://medium.com/@ameliasherly843/jatuh-cinta-memang-manis-ya-465c1dec2130?source=rss------programming-5) (2025-12-15)
+- [Stop Letting Threads Break Your Code: Concurrency Patterns You Need (Part 5/ 5)](https://medium.com/@aflousfatima/stop-letting-threads-break-your-code-concurrency-patterns-you-need-part-5-5-f0da049fae4f?source=rss------programming-5) (2025-12-15)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [How to Tame Your Flaky Tests in TeamCity](https://blog.jetbrains.com/teamcity/2025/12/how-to-tame-flaky-tests/) (2025-12-15)
 - [Building AI Agents in Kotlin – Part 3: Under Observation](https://blog.jetbrains.com/ai/2025/12/building-ai-agents-in-kotlin-part-3-under-observation/) (2025-12-12)
 - [Deploying Qodana on Kubernetes: More Scalability, More Control](https://blog.jetbrains.com/qodana/2025/12/deploying-qodana-on-kubernetes-more-scalability-more-control/) (2025-12-12)
 - [Open Source in Focus: 4 Tools That Keep Systems Running](https://blog.jetbrains.com/blog/2025/12/12/open-source-in-focus-4-tools-that-keep-systems-running/) (2025-12-12)
 - [A Better Way to Explore kotlinx-benchmark Results with Kotlin Notebooks](https://blog.jetbrains.com/kotlin/2025/12/a-better-way-to-explore-kotlinx-benchmark-results-with-kotlin-notebooks/) (2025-12-11)
-- [JetBrains Academy Plugin 2025.11 is Now Available](https://blog.jetbrains.com/education/2025/12/11/jetbrains-academy-plugin-2025-11-is-now-available/) (2025-12-11)
 
 </details>
 
@@ -482,11 +482,11 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-create-a-graphql-s
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
+- [【Agentforce Hackathon Tokyo】第 3 位 キットアライブ: Agentforce と Slack で実現する「自律型移住支援プラットフォーム」](https://developer.salesforce.com/blogs/2025/12/%e3%80%90agentforce-hackathon-tokyo%e3%80%91%e7%ac%ac-3-%e4%bd%8d-%e3%82%ad%e3%83%83%e3%83%88%e3%82%a2%e3%83%a9%e3%82%a4%e3%83%96-agentforce-%e3%81%a8-slack-%e3%81%a7%e5%ae%9f%e7%8f%be%e3%81%99.html) (2025-12-15)
 - [Five Pro Tips for Using Agentforce Vibes](https://developer.salesforce.com/blogs/2025/12/five-pro-tips-for-using-agentforce-vibes.html) (2025-12-11)
 - [The TDX 2026 Call for Participation Is Now Live](https://developer.salesforce.com/blogs/2025/12/the-tdx-2026-call-for-participation-is-now-live.html) (2025-12-10)
 - [The Seamless Handoff: Integrating Einstein Enhanced Bots with Agentforce Agents](https://developer.salesforce.com/blogs/2025/12/the-seamless-handoff-integrating-einstein-enhanced-bots-with-agentforce-agents.html) (2025-12-09)
 - [Master Hybrid Reasoning with the New Agent Script Recipes Sample App](https://developer.salesforce.com/blogs/2025/12/master-hybrid-reasoning-with-the-new-agent-script-recipes-sample-app.html) (2025-12-08)
-- [Automate Your Move to the Omnistudio Standard Runtime with the New Migration Assistant](https://developer.salesforce.com/blogs/2025/12/automate-your-move-to-the-omnistudio-standard-runtime-with-the-new-migration-assistant.html) (2025-12-02)
 
 </details>
 
@@ -559,22 +559,22 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-create-a-graphql-s
 <details>
 <summary>🤖 AI News</summary>
 
+- [Walmart’s AI strategy: Beyond the hype, what’s actually working](https://www.artificialintelligence-news.com/news/walmart-ai-strategy-agentic-future/) (2025-12-15)
+- [CEOs still betting big on AI: Strategy vs. return on investment in 2026](https://www.artificialintelligence-news.com/news/ceos-still-betting-on-ai-strategy-vs-return-on-investment-in-2026/) (2025-12-15)
 - [AI in 2026: Experimental AI concludes as autonomous systems rise](https://www.artificialintelligence-news.com/news/ai-in-2026-experimental-ai-concludes-autonomous-systems-rise/) (2025-12-12)
 - [BBVA embeds AI into banking workflows using ChatGPT Enterprise](https://www.artificialintelligence-news.com/news/bbva-embeds-ai-into-banking-workflows-using-chatgpt-enterprise/) (2025-12-12)
 - [Microsoft’s Copilot usage analysis exposes the 2am philosophy question trend](https://www.artificialintelligence-news.com/news/copilot-usage-analysis-2am-philosophy-questions/) (2025-12-12)
-- [Microsoft ‘Promptions’ fix AI prompts failing to deliver](https://www.artificialintelligence-news.com/news/microsoft-promptions-fix-ai-prompts-failing-to-deliver/) (2025-12-11)
-- [Perplexity: AI agents are taking over complex enterprise tasks](https://www.artificialintelligence-news.com/news/perplexity-ai-agents-taking-over-complex-enterprise-tasks/) (2025-12-10)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Lessons Learned from Upgrading to LangChain 1.0 in Production](https://towardsdatascience.com/lessons-learnt-from-upgrading-to-langchain-1-0-in-production/) (2025-12-15)
 - [The Machine Learning “Advent Calendar” Day 14: Softmax Regression in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-14-softmax-regression-in-excel/) (2025-12-14)
 - [The Skills That Bridge Technical Work and Business Impact](https://towardsdatascience.com/the-skills-that-bridge-technical-work-and-business-impact/) (2025-12-14)
 - [Stop Writing Spaghetti if-else Chains: Parsing JSON with Python’s match-case](https://towardsdatascience.com/stop-writing-spaghetti-if-else-chains-parsing-json-with-pythons-match-case/) (2025-12-14)
 - [The Machine Learning “Advent Calendar” Day 13: LASSO and Ridge Regression in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-13-lasso-and-ridge-regression-in-excel/) (2025-12-13)
-- [How to Increase Coding Iteration Speed](https://towardsdatascience.com/how-to-increase-coding-iteration-speed/) (2025-12-13)
 
 </details>
 
