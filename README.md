@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [How iRobot lost its way home](https://techcrunch.com/2025/12/14/how-irobot-lost-its-way-home/) (2025-12-15)
+- [WhatsApp’s biggest market is becoming its toughest test](https://techcrunch.com/2025/12/14/whatsapps-biggest-market-is-becoming-its-toughest-test/) (2025-12-15)
 - [Grok got crucial facts wrong about Bondi Beach shooting](https://techcrunch.com/2025/12/14/grok-gets-the-facts-wrong-about-bondi-beach-shooting/) (2025-12-14)
 - [Mesa shuts down credit card that rewarded cardholders for paying their mortgages](https://techcrunch.com/2025/12/14/mesa-shuts-down-credit-card-that-rewarded-cardholders-for-paying-their-mortgages/) (2025-12-14)
 - [Making sense of the risky Netflix-Warner Bros. deal](https://techcrunch.com/2025/12/14/making-sense-of-the-risky-netflix-warner-bros-deal/) (2025-12-14)
-- [TechCrunch Mobility: Rivian’s survival plan involves more than cars](https://techcrunch.com/2025/12/14/rivians-survival-plan-involves-more-than-cars/) (2025-12-14)
-- [India’s Spinny lines up $160M funding to acquire GoMechanic, sources say](https://techcrunch.com/2025/12/13/indias-spinny-lines-up-160m-funding-to-acquire-gomechanic-sources-say/) (2025-12-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Robot Vacuum Roomba Maker Files for Bankruptcy After 35 Years](https://news.bloomberglaw.com/bankruptcy-law/robot-vacuum-roomba-maker-files-for-bankruptcy-after-35-years) (2025-12-15)
-- [If AI replaces workers, should it also pay taxes?](https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html) (2025-12-15)
-- [Our emotional pain became a product](https://www.theguardian.com/us-news/ng-interactive/2025/dec/14/trauma-mental-health) (2025-12-14)
-- [AI agents are starting to eat SaaS](https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/) (2025-12-14)
-- [Claude CLI deleted my home directory Wiped my whole Mac](https://old.reddit.com/r/ClaudeAI/comments/1pgxckk/claude_cli_deleted_my_entire_home_directory_wiped/) (2025-12-14)
+- [Rob Reiner,Legendary Director and Actor,and Wife Found Dead in Apparent Homicide](https://www.rollingstone.com/tv-movies/tv-movie-news/rob-reiner-ldead-obituary-1235483876/) (2025-12-15)
+- [Read Something Wonderful](https://readsomethingwonderful.com/) (2025-12-15)
+- [The Whole App is a Blob](https://drobinin.com/posts/the-whole-app-is-a-blob/) (2025-12-15)
+- [Arborium: Tree-sitter code highlighting with Native and WASM targets](https://arborium.bearcove.eu/) (2025-12-15)
+- [Unscii](http://viznut.fi/unscii/) (2025-12-15)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [iRobot files for bankruptcy](https://www.theverge.com/news/844460/irobot-files-for-bankruptcy) (2025-12-15)
 - [You need to listen to Sudan Archives&#8217; violin opus for the club](https://www.theverge.com/entertainment/844447/sudan-archives-the-bpm) (2025-12-14)
 - [Grok is spreading misinformation about the Bondi Beach shooting](https://www.theverge.com/news/844443/grok-misinformation-bondi-beach-shooting) (2025-12-14)
 - [Absynth is back and weirder than ever after 16 years](https://www.theverge.com/entertainment/844432/native-instruments-absynth-6-mpe-brian-eno) (2025-12-14)
 - [Inside the high drama of the iPhone 4](https://www.theverge.com/podcast/844408/inside-the-high-drama-of-the-iphone-4) (2025-12-14)
-- [The end of OpenAI, and other 2026 predictions](https://www.theverge.com/podcast/844401/tech-industry-2026-predictions-openai-apple) (2025-12-14)
 
 </details>
 
@@ -97,24 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [A better way to handle OpenAPI in Go. 🛠️](https://dev.to/indybonez/a-better-way-to-handle-openapi-in-go-2lo6) (2025-12-15)
-- [Modern Frontend Tools for NZ Developers](https://dev.to/techcontributors/modern-frontend-tools-for-nz-developers-45d8) (2025-12-15)
-- [CI/CD in Modern Australian Websites](https://dev.to/techcontributors/cicd-in-modern-australian-websites-596o) (2025-12-15)
-- [Cloud Adoption in Australian Web Development](https://dev.to/techcontributors/cloud-adoption-in-australian-web-development-1o6e) (2025-12-15)
-- [Using JAMStack for Australian SMEs](https://dev.to/techcontributors/using-jamstack-for-australian-smes-211) (2025-12-15)
+- [Understanding Doppar Queue: A Deep Dive into Job Lifecycle and Why It Matters](https://dev.to/mahedi1501/understanding-doppar-queue-a-deep-dive-into-job-lifecycle-and-why-it-matters-5hjk) (2025-12-15)
+- [Aakash Rahsi | AI Systems Architect • Cloud Strategist • Founder, RAHSI Framework](https://dev.to/aakash_rahsi_8d28156d5f2c/aakash-rahsi-ai-systems-architect-cloud-strategist-founder-rahsi-framework-487i) (2025-12-15)
+- [Part 01: Building a Sovereign Software Factory: Docker Networking & Persistence](https://dev.to/warren_jitsing_dd1c1d6fc6/part-01-building-a-sovereign-software-factory-docker-networking-persistence-31pm) (2025-12-15)
+- [When a PCB Trace Becomes a Transmission Line (And Why It Broke My Design)](https://dev.to/entela_lleka_c0a20f6760/when-a-pcb-trace-becomes-a-transmission-line-and-why-it-broke-my-design-5c4o) (2025-12-15)
+- [Stay ahead in web development: latest news, tools, and insights #115](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-115-4h31) (2025-12-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [TFD: Requirements = Tests](https://medium.com/@stillblueist/tfd-requirements-tests-ce2c48b1026d?source=rss------programming-5) (2025-12-15)
-- [09051012897شماره خاله #شماره خاله# تهران #شماره خاله# اصفهانf
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@khalhthran50/09051012897%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86f-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-409065784ee7?source=rss------programming-5) (2025-12-15)
-- [09051012897شماره خاله #شماره خاله# تهران #شماره خاله# اصفهانf
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@khalhthran50/09051012897%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86f-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-de8a193360ac?source=rss------programming-5) (2025-12-15)
-- [UUIDv7 vs UUIDv8 (RFC 9562): production notes — uniqueness, DB ordering, and .NET pitfalls](https://medium.com/@anderson.buenogod/uuidv7-vs-uuidv8-rfc-9562-production-notes-uniqueness-db-ordering-and-net-pitfalls-e38917844c25?source=rss------programming-5) (2025-12-15)
-- [KarmaXchange: A Community-Driven Crypto Media and Experimental Ecosystem](https://medium.com/@dpforrestservice/karmaxchange-a-community-driven-crypto-media-and-experimental-ecosystem-60426ced9253?source=rss------programming-5) (2025-12-15)
+- [The Rubber Duck Fallacy: Why GPT-5.2, Gemini 3, and Claude 4.5 Can’t Swim](https://medium.com/@enkiluv/the-rubber-duck-fallacy-why-gpt-5-2-gemini-3-and-claude-4-5-cant-swim-169aaf77ac3a?source=rss------programming-5) (2025-12-15)
+- [Kimi K2 Free API Unlimited !!](https://medium.com/data-science-in-your-pocket/kimi-k2-free-api-unlimited-ad6cbca16d6a?source=rss------programming-5) (2025-12-15)
+- [Lessons from Migrating a Production System in 2025](https://medium.com/@reyanshicodes/lessons-from-migrating-a-production-system-in-2025-5e920c469ed1?source=rss------programming-5) (2025-12-15)
+- [The Dart Number Secrets Every Flutter Developer Should Know (But Most Never Use)](https://medium.com/codex/the-dart-number-secrets-every-flutter-developer-should-know-but-most-never-use-e9b6d75d6697?source=rss------programming-5) (2025-12-15)
+- [VS Code Suddenly not Opening — This will work](https://medium.com/@bireshkumar1964/vs-code-suddenly-not-opening-this-will-work-12c5a69d5351?source=rss------programming-5) (2025-12-15)
 
 </details>
 
