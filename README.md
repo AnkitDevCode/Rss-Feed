@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Everbloom built an AI to turn chicken feathers into cashmere](https://techcrunch.com/2025/12/16/everbloom-built-an-ai-to-turn-chicken-feathers-into-cashmere/) (2025-12-16)
+- [Solo VC and Lovable investor Neil Murray raises third Nordic-focused fund](https://techcrunch.com/2025/12/16/solo-gp-neil-murray-closes-6m-fund-iii-to-back-nordic-founders/) (2025-12-16)
 - [VCs discuss why most consumer AI startups still lack staying power](https://techcrunch.com/2025/12/15/vcs-discuss-why-most-consumer-ai-startups-still-lack-staying-power/) (2025-12-16)
 - [OpenAI-backed biotech firm Chai Discovery raises $130M Series B at $1.3B valuation](https://techcrunch.com/2025/12/15/openai-backed-biotech-firm-chai-discovery-raises-130m-series-b-at-1-3b-valuation/) (2025-12-15)
 - [I hate that I love Riverside’s AI-driven ‘Rewind’ for podcasters](https://techcrunch.com/2025/12/15/i-hate-that-i-love-riversides-ai-driven-rewind-for-podcasters/) (2025-12-15)
-- [Disney’s OpenAI deal is exclusive for just one year — then it’s open season](https://techcrunch.com/2025/12/15/disneys-openai-deal-is-exclusive-for-just-one-year-then-its-open-season/) (2025-12-15)
-- [Nvidia bulks up open source offerings with an acquisition and new open AI models ](https://techcrunch.com/2025/12/15/nvidia-bulks-up-open-source-offerings-with-an-acquisition-and-new-open-ai-models/) (2025-12-15)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Erdős Problem #1026](https://terrytao.wordpress.com/2025/12/08/the-story-of-erdos-problem-126/) (2025-12-16)
-- [Sharp](https://apple.github.io/ml-sharp/) (2025-12-16)
-- [8M users' AI conversations sold for profit by "privacy" extensions](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection) (2025-12-16)
-- [Rollstack (YC W23) is hiring multiple software engineers (TypeScript) US/Canada](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada) (2025-12-16)
-- [SoundCloud confirms breach after member data stolen, VPN access disrupted](https://www.bleepingcomputer.com/news/security/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted/) (2025-12-16)
+- [Cekura (YC F24) Is Hiring](https://www.ycombinator.com/companies/cekura-ai/jobs/YFeQADI-product-engineer-us) (2025-12-16)
+- [ArkhamMirror: Airgapped investigation platform with CIA-style hypothesis testing](https://github.com/mantisfury/ArkhamMirror) (2025-12-16)
+- [I'm a Tech Lead, and nobody listens to me. What should I do?](https://world.hey.com/joaoqalves/i-m-a-tech-lead-and-nobody-listens-to-me-what-should-i-do-e16e454d) (2025-12-16)
+- [A2UI: A Protocol for Agent-Driven Interfaces](https://a2ui.org/) (2025-12-16)
+- [VS Code deactivates IntelliCode in favor of the paid Copilot](https://www.heise.de/en/news/VS-Code-deactivates-IntelliCode-in-favor-of-the-paid-Copilot-11115783.html) (2025-12-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The ‘mad rush’ to install solar panels before tax credits run out](https://www.theverge.com/science/844852/solar-energy-panel-installation-tax-credit-trump) (2025-12-16)
 - [Silksong is getting a free expansion next year](https://www.theverge.com/news/845189/hollow-knight-silksong-sea-of-sorrow-dlc-expansion-switch-2) (2025-12-16)
 - [LG enters the RGB LED fray in 2026 with the Micro RGB evo TV](https://www.theverge.com/news/844885/lg-micro-rgb-evo-led-tv-ces-2026) (2025-12-16)
 - [The best Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra) (2025-12-16)
 - [The best AirPods to buy](https://www.theverge.com/tech/645217/best-apple-airpods-pro) (2025-12-15)
-- [21 states and DC join the FTC’s lawsuit against Uber](https://www.theverge.com/news/845071/ftc-uber-lawsuit-21-states-amended-complaint) (2025-12-15)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Quantum navigation could solve the military’s GPS jamming problem](https://www.technologyreview.com/2025/12/16/1129887/quantum-navigation-militarys-gps-jamming-problem/) (2025-12-16)
 - [The fast and the future-focused are revolutionizing motorsport](https://www.technologyreview.com/2025/12/15/1127432/the-fast-and-the-future-focused-are-revolutionizing-motorsport/) (2025-12-15)
 - [The Download: introducing the AI Hype Correction package](https://www.technologyreview.com/2025/12/15/1129719/the-download-introducing-the-ai-hype-correction-package/) (2025-12-15)
 - [AI coding is now everywhere. But not everyone is convinced.](https://www.technologyreview.com/2025/12/15/1128352/rise-of-ai-coding-developers-2026/) (2025-12-15)
 - [A brief history of Sam Altman’s hype](https://www.technologyreview.com/2025/12/15/1129169/a-brief-history-of-sam-altmans-hype/) (2025-12-15)
-- [The AI doomers feel undeterred](https://www.technologyreview.com/2025/12/15/1129171/the-ai-doomers-feel-undeterred/) (2025-12-15)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How I Built 14 Interactive Visualizations Using Google AI Studio](https://dev.to/ritampal26/how-i-built-14-interactive-visualizations-using-google-ai-studio-3il4) (2025-12-16)
-- [Tuncxys DatePicker: Vanilla JS Date & Time Picker](https://dev.to/jqueryscript/tuncxys-datepicker-vanilla-js-date-time-picker-3eic) (2025-12-16)
-- [Using AI to Fight Ransomware Attacks](https://dev.to/techbyte360/using-ai-to-fight-ransomware-attacks-4hl2) (2025-12-16)
-- [Azure CLI internals and how it works](https://dev.to/ssan79/azure-cli-internals-and-how-it-works-330o) (2025-12-16)
-- [New Release 🚀 Insights Template for Angular 20 & Tailwind 4](https://dev.to/ngmaterialdev/new-release-insights-template-for-angular-20-tailwind-4-c6a) (2025-12-16)
+- [From Warehouse to Code: My Self-Taught Journey into AI & Multi-Agent Systems](https://dev.to/fracabu/from-warehouse-to-code-my-self-taught-journey-into-ai-multi-agent-systems-35li) (2025-12-16)
+- [Traata: A Modern, Developer-First Password Manager Built for Security, Speed, and Sanity](https://dev.to/abhishekdvs/traata-a-modern-developer-first-password-manager-built-for-security-speed-and-sanity-42fd) (2025-12-16)
+- [Version-Controlled omg.lol: Auto-Syncing Your IndieWeb with GitHub Actions](https://dev.to/brennan/version-controlled-omglol-auto-syncing-your-indieweb-with-github-actions-22eh) (2025-12-16)
+- [Creating Environment Files from Templates with Bash](https://dev.to/zhitkov/creating-environment-files-from-templates-with-bash-2mh5) (2025-12-16)
+- [Day 10: California Done and Social Realizations](https://dev.to/casperday11/day-10-california-done-and-social-realizations-3g81) (2025-12-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The "Speed vs Stability" Paradox: Why Starlink Gen 3 Still Struggles with Competitive Gaming…](https://medium.com/@demammekanik/the-speed-vs-stability-paradox-why-starlink-gen-3-still-struggles-with-competitive-gaming-601579ddfa4a?source=rss------programming-5) (2025-12-16)
-- [9 Ways a Single Misconfigured Helm Chart Took Down Half Our Services — And What It Taught Me About…](https://medium.com/@vallabhsangale7/9-ways-a-single-misconfigured-helm-chart-took-down-half-our-services-and-what-it-taught-me-about-d4e9278e77b3?source=rss------programming-5) (2025-12-16)
-- [How I Broke Through the 1000-Line Wall Without Being a Programmer](https://medium.com/@masanosuke78/how-i-broke-through-the-1000-line-wall-without-being-a-programmer-0d93a6b7051a?source=rss------programming-5) (2025-12-16)
-- [Mastering NumPy Basics: Shapes, Reshaping, and Array Statistics](https://medium.com/@tick-to-trade/mastering-numpy-basics-shapes-reshaping-and-array-statistics-6fbdfe4d50d8?source=rss------programming-5) (2025-12-16)
-- [Still Typing git add, commit, and push Separately? Here’s Why You Shouldn’t](https://medium.com/@Angular_With_Awais/still-typing-git-add-commit-and-push-separately-heres-why-you-shouldn-t-7e4ed010a6b2?source=rss------programming-5) (2025-12-16)
+- [Atom.](https://medium.com/@tom_lin/atom-39dacfa50cc2?source=rss------programming-5) (2025-12-16)
+- [Believe in yourselves and in your projects until the very last moment](https://ana-coroletchi.medium.com/believe-in-yourselves-and-in-your-projects-until-the-very-last-moment-0f3d940ee9be?source=rss------programming-5) (2025-12-16)
+- [I Deleted My Second Brain](https://medium.com/@raleighcollins64/i-deleted-my-second-brain-4b6c2c1136cd?source=rss------programming-5) (2025-12-16)
+- [The World Is Betting on AI — Without Asking What It Can Really Do](https://medium.com/@inamullahrajpoot880/the-world-is-betting-on-ai-without-asking-what-it-can-really-do-f8b6dff0b565?source=rss------programming-5) (2025-12-16)
+- [Why Python Rules the Tech World in 2025](https://medium.com/@inamullahrajpoot880/why-python-rules-the-tech-world-in-2025-61624f0cb8c5?source=rss------programming-5) (2025-12-16)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Docker Model Runner now included with the Universal Blue family](https://www.docker.com/blog/docker-model-runner-universal-blue/) (2025-12-16)
 - [Private MCP Catalogs and the Path to Composable Enterprise AI](https://www.docker.com/blog/private-mcp-catalogs-oci-composable-enterprise-ai/) (2025-12-14)
 - [Highlights from AWS re:Invent: Supercharging Kiro with Docker Sandboxes and MCP Catalog](https://www.docker.com/blog/aws-reinvent-kiro-docker-sandboxes-mcp-catalog/) (2025-12-12)
 - [Is AI the New Insider Threat?](https://www.docker.com/blog/ai-insider-threat-shadow-ai-risk-controls/) (2025-12-12)
 - [How to Add MCP Servers to ChatGPT with Docker MCP Toolkit](https://www.docker.com/blog/add-mcp-server-to-chatgpt/) (2025-12-12)
-- [Docker Model Runner now supports vLLM on Windows](https://www.docker.com/blog/docker-model-runner-vllm-windows/) (2025-12-11)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Agents, Protocols, and Why We’re Not Playing Favorites](https://blog.jetbrains.com/ai/2025/12/agents-protocols-and-why-we-re-not-playing-favorites/) (2025-12-16)
 - [TeamCity 2025.11.1 Is Now Available](https://blog.jetbrains.com/teamcity/2025/12/teamcity-2025-11-1-bug-fix/) (2025-12-15)
 - [How to Tame Your Flaky Tests in TeamCity](https://blog.jetbrains.com/teamcity/2025/12/how-to-tame-flaky-tests/) (2025-12-15)
 - [Building AI Agents in Kotlin – Part 3: Under Observation](https://blog.jetbrains.com/ai/2025/12/building-ai-agents-in-kotlin-part-3-under-observation/) (2025-12-12)
 - [Deploying Qodana on Kubernetes: More Scalability, More Control](https://blog.jetbrains.com/qodana/2025/12/deploying-qodana-on-kubernetes-more-scalability-more-control/) (2025-12-12)
-- [Open Source in Focus: 4 Tools That Keep Systems Running](https://blog.jetbrains.com/blog/2025/12/12/open-source-in-focus-4-tools-that-keep-systems-running/) (2025-12-12)
 
 </details>
 
@@ -558,33 +558,33 @@ https://www.twilio.com/en-us/blog/developers/community/build-a-patient-reminder-
 <details>
 <summary>🤖 AI News</summary>
 
-- [AWS’s legacy will be in AI success](https://www.artificialintelligence-news.com/news/awss-legacy-will-be-in-ai-success/) (2025-12-15)
-- [Walmart’s AI strategy: Beyond the hype, what’s actually working](https://www.artificialintelligence-news.com/news/walmart-ai-strategy-agentic-future/) (2025-12-15)
-- [CEOs still betting big on AI: Strategy vs. return on investment in 2026](https://www.artificialintelligence-news.com/news/ceos-still-betting-on-ai-strategy-vs-return-on-investment-in-2026/) (2025-12-15)
-- [AI in 2026: Experimental AI concludes as autonomous systems rise](https://www.artificialintelligence-news.com/news/ai-in-2026-experimental-ai-concludes-autonomous-systems-rise/) (2025-12-12)
-- [BBVA embeds AI into banking workflows using ChatGPT Enterprise](https://www.artificialintelligence-news.com/news/bbva-embeds-ai-into-banking-workflows-using-chatgpt-enterprise/) (2025-12-12)
+- [Mining business learnings for AI deployment](https://www.artificialintelligence-news.com/news/mining-ai-gives-businesses-food-for-thought-in-real-life-deployments-of-oi/) (2025-12-16)
+- [BNP Paribas introduces AI tool for investment banking](https://www.artificialintelligence-news.com/news/bnp-paribas-introduces-ai-tool-for-investment-banking/) (2025-12-16)
+- [JPMorgan Chase AI strategy: US$18B bet paying off ](https://www.artificialintelligence-news.com/news/jpmorgan-chase-ai-strategy-2025/) (2025-12-16)
+- [AI literacy and continuous education are cornerstones](https://www.artificialintelligence-news.com/news/ai-literacy-in-the-workplace-important-for-growth/) (2025-12-16)
+- [Strong contractor belief in AI for industry-wide transformation](https://www.artificialintelligence-news.com/news/construction-industry-ai-success-potential/) (2025-12-16)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Lessons Learned After 8 Years of Machine Learning](https://towardsdatascience.com/lessons-learned-after-8-years-of-machine-learning/) (2025-12-16)
 - [The Machine Learning “Advent Calendar” Day 15: SVM in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-15-svm-in-excel/) (2025-12-15)
 - [6 Technical Skills That Make You a Senior Data Scientist](https://towardsdatascience.com/6-technical-skills-that-make-you-a-senior-data-scientist/) (2025-12-15)
 - [Geospatial exploratory data analysis with GeoPandas and DuckDB](https://towardsdatascience.com/geospatial-exploratory-data-analysis-with-geopandas-and-duckdb/) (2025-12-15)
 - [Lessons Learned from Upgrading to LangChain 1.0 in Production](https://towardsdatascience.com/lessons-learnt-from-upgrading-to-langchain-1-0-in-production/) (2025-12-15)
-- [The Machine Learning “Advent Calendar” Day 14: Softmax Regression in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-14-softmax-regression-in-excel/) (2025-12-14)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Meet LangSmith Assistant – Polly [An Agent for Agents]](https://www.analyticsvidhya.com/blog/2025/12/polly-langsmith-agent/) (2025-12-16)
+- [Top 10 YouTube Channels to Learn AI](https://www.analyticsvidhya.com/blog/2025/12/best-ai-youtube-channels/) (2025-12-16)
 - [I Tried GPT 5.2 and This is How It Went..](https://www.analyticsvidhya.com/blog/2025/12/i-tried-gpt-5-2/) (2025-12-15)
 - [How to Build a RAG Application with AutoRAG?](https://www.analyticsvidhya.com/blog/2025/12/autorag-pipeline/) (2025-12-15)
 - [8 Things To Do With Microsoft’s MarkItDown Library](https://www.analyticsvidhya.com/blog/2025/12/microsofts-markitdown-uses/) (2025-12-14)
-- [Building AI Agents: Insights from the First Three Days of Kaggle’s Intensive Program](https://www.analyticsvidhya.com/blog/2025/12/production-ai-agents-kaggle/) (2025-12-13)
-- [What is SoftPlus Activation Function? ](https://www.analyticsvidhya.com/blog/2025/12/softplus-activation-function/) (2025-12-12)
 
 </details>
 
