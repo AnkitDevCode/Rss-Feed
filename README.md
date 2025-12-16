@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Ideas Aren't Getting Harder to Find](https://asteriskmag.com/issues/12-books/ideas-arent-getting-harder-to-find) (2025-12-16)
-- [Quill OS – an open-source, fully-functional standalone OS for Kobo eReaders](https://quill-os.org/) (2025-12-16)
-- [The Bob Dylan Concert for Just One Person](https://www.flaggingdown.com/p/the-bob-dylan-concert-for-just-one) (2025-12-16)
-- [JetBlue flight averts mid-air collision with US Air Force jet](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/) (2025-12-15)
-- [Ford kills the All-Electric F-150](https://www.wired.com/story/ford-kills-electric-f-150-lightning-for-hybrid/) (2025-12-15)
+- [Erdős Problem #1026](https://terrytao.wordpress.com/2025/12/08/the-story-of-erdos-problem-126/) (2025-12-16)
+- [Sharp](https://apple.github.io/ml-sharp/) (2025-12-16)
+- [8M users' AI conversations sold for profit by "privacy" extensions](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection) (2025-12-16)
+- [Rollstack (YC W23) is hiring multiple software engineers (TypeScript) US/Canada](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada) (2025-12-16)
+- [SoundCloud confirms breach after member data stolen, VPN access disrupted](https://www.bleepingcomputer.com/news/security/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted/) (2025-12-16)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Live from re:Invent…it’s Stack Overflow!](https://stackoverflow.blog/2025/12/16/live-from-re-invent-it-s-stack-overflow/) (2025-12-16)
 - [At AWS re:Invent, the news was agents, but the focus was developers](https://stackoverflow.blog/2025/12/15/at-aws-re-invent-the-news-was-agents-but-the-focus-was-developers/) (2025-12-15)
 - [How Stack Overflow’s MCP Server is helping HP modernize the software development lifecycle](https://stackoverflow.blog/2025/12/12/how-stack-overflow-s-mcp-server-is-helping-hp-modernize-the-software-development-lifecycle/) (2025-12-12)
 - [Interface is everything, and everything is an interface](https://stackoverflow.blog/2025/12/12/interface-is-everything-and-everything-is-an-interface/) (2025-12-12)
 - [Simulating lousy conversations: Q&A with Silvio Savarese, Chief Scientist & Head of AI Research at Salesforce](https://stackoverflow.blog/2025/12/11/simulating-lousy-conversations-q-and-a-with-silvio-savarese-chief-scientist-and-head-of-ai-research-at-salesforce/) (2025-12-11)
-- [Tell us what you really, really… do not want to spend time working on](https://stackoverflow.blog/2025/12/10/tell-us-what-you-really-really-do-not-want-to-spend-time-working-on/) (2025-12-10)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [TypeScript in 15 Minutes (What JavaScript Devs Actually Need)](https://dev.to/ramkashyap2050/typescript-in-15-minutes-what-javascript-devs-actually-need-1282) (2025-12-16)
-- [I Built 24 Free Developer Tools - No Signup, No Ads, No BS](https://dev.to/ghdj/i-built-24-free-developer-tools-no-signup-no-ads-no-bs-556m) (2025-12-16)
-- [AWS S3 Vectors: Finally, Cloud Scalable Vector Storage 🚀](https://dev.to/omarmfathy219/aws-s3-vectors-finally-cloud-scalable-vector-storage-1kmb) (2025-12-16)
-- [Beyond the Wire: Encrypting Messages Where the Message Never Exists](https://dev.to/suign/beyond-the-wire-encrypting-messages-where-the-message-never-exists-4fcb) (2025-12-16)
-- [Edge ML Has a Size Obsession](https://dev.to/aronchick/edge-ml-has-a-size-obsession-34fb) (2025-12-16)
+- [How I Built 14 Interactive Visualizations Using Google AI Studio](https://dev.to/ritampal26/how-i-built-14-interactive-visualizations-using-google-ai-studio-3il4) (2025-12-16)
+- [Tuncxys DatePicker: Vanilla JS Date & Time Picker](https://dev.to/jqueryscript/tuncxys-datepicker-vanilla-js-date-time-picker-3eic) (2025-12-16)
+- [Using AI to Fight Ransomware Attacks](https://dev.to/techbyte360/using-ai-to-fight-ransomware-attacks-4hl2) (2025-12-16)
+- [Azure CLI internals and how it works](https://dev.to/ssan79/azure-cli-internals-and-how-it-works-330o) (2025-12-16)
+- [New Release 🚀 Insights Template for Angular 20 & Tailwind 4](https://dev.to/ngmaterialdev/new-release-insights-template-for-angular-20-tailwind-4-c6a) (2025-12-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [FAANG Interview Mastery](https://medium.com/@alaxhenry0121/faang-interview-mastery-5dfefc42cfd9?source=rss------programming-5) (2025-12-16)
-- [Comparable vs Comparator in Java: What’s the Difference?](https://medium.com/@sunil17bbmp/comparable-vs-comparator-in-java-whats-the-difference-37f117e409a1?source=rss------programming-5) (2025-12-16)
-- [Understanding the App Lifecycle: Must-Know Concepts for iOS Interviews](https://medium.com/@alaxhenry0121/understanding-the-app-lifecycle-must-know-concepts-for-ios-interviews-081195833c75?source=rss------programming-5) (2025-12-16)
-- [How I Train My Linux Brain Daily](https://pawannatekar220.medium.com/how-i-train-my-linux-brain-daily-7f67f3bafb17?source=rss------programming-5) (2025-12-16)
-- [Optimizing for Latency: Why I Ditched Linked Lists for a Hybrid C++ Architecture](https://katia-osorio.medium.com/optimizing-for-latency-why-i-ditched-linked-lists-for-a-hybrid-c-architecture-77e14aeb64de?source=rss------programming-5) (2025-12-15)
+- [The "Speed vs Stability" Paradox: Why Starlink Gen 3 Still Struggles with Competitive Gaming…](https://medium.com/@demammekanik/the-speed-vs-stability-paradox-why-starlink-gen-3-still-struggles-with-competitive-gaming-601579ddfa4a?source=rss------programming-5) (2025-12-16)
+- [9 Ways a Single Misconfigured Helm Chart Took Down Half Our Services — And What It Taught Me About…](https://medium.com/@vallabhsangale7/9-ways-a-single-misconfigured-helm-chart-took-down-half-our-services-and-what-it-taught-me-about-d4e9278e77b3?source=rss------programming-5) (2025-12-16)
+- [How I Broke Through the 1000-Line Wall Without Being a Programmer](https://medium.com/@masanosuke78/how-i-broke-through-the-1000-line-wall-without-being-a-programmer-0d93a6b7051a?source=rss------programming-5) (2025-12-16)
+- [Mastering NumPy Basics: Shapes, Reshaping, and Array Statistics](https://medium.com/@tick-to-trade/mastering-numpy-basics-shapes-reshaping-and-array-statistics-6fbdfe4d50d8?source=rss------programming-5) (2025-12-16)
+- [Still Typing git add, commit, and push Separately? Here’s Why You Shouldn’t](https://medium.com/@Angular_With_Awais/still-typing-git-add-commit-and-push-separately-heres-why-you-shouldn-t-7e4ed010a6b2?source=rss------programming-5) (2025-12-16)
 
 </details>
 
@@ -362,6 +362,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+How to run Automated AMD Tests and Fine-Tune Twilio AMD for Accurate Voice Automation
+](
+https://www.twilio.com/en-us/blog/developers/best-practices/automated-amd-tests-voice
+) (2025-12-15)
+- [
 Generating Synthetic Call Data to Test Twilio Voice and Conversational Intelligence and Segment Integration
 ](
 https://www.twilio.com/en-us/blog/developers/best-practices/synthetic-call-data-conversational-intelligence-segment-voice
@@ -380,11 +385,6 @@ https://www.twilio.com/en-us/blog/products/launches/health-score-recommendations
 Build a Patient Reminder System with Go and Twilio
 ](
 https://www.twilio.com/en-us/blog/developers/community/build-a-patient-reminder-system-with-go-and-twilio
-) (2025-12-09)
-- [
-How to Create a GraphQL Server in Go with GqlGen
-](
-https://www.twilio.com/en-us/blog/developers/community/how-to-create-a-graphql-server-in-go-with-gqlgen
 ) (2025-12-09)
 
 </details>
@@ -481,11 +481,11 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-create-a-graphql-s
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
+- [Salesforce DX MCPを使った、Lightning Webコンポーネントのバイブコーディング](https://developer.salesforce.com/blogs/2025/12/jp-vibe-code-lightning-web-components-with-salesforce-dx-mcp.html) (2025-12-16)
 - [【Agentforce Hackathon Tokyo】第 3 位 キットアライブ: Agentforce と Slack で実現する「自律型移住支援プラットフォーム」](https://developer.salesforce.com/blogs/2025/12/%e3%80%90agentforce-hackathon-tokyo%e3%80%91%e7%ac%ac-3-%e4%bd%8d-%e3%82%ad%e3%83%83%e3%83%88%e3%82%a2%e3%83%a9%e3%82%a4%e3%83%96-agentforce-%e3%81%a8-slack-%e3%81%a7%e5%ae%9f%e7%8f%be%e3%81%99.html) (2025-12-15)
 - [Five Pro Tips for Using Agentforce Vibes](https://developer.salesforce.com/blogs/2025/12/five-pro-tips-for-using-agentforce-vibes.html) (2025-12-11)
 - [The TDX 2026 Call for Participation Is Now Live](https://developer.salesforce.com/blogs/2025/12/the-tdx-2026-call-for-participation-is-now-live.html) (2025-12-10)
 - [The Seamless Handoff: Integrating Einstein Enhanced Bots with Agentforce Agents](https://developer.salesforce.com/blogs/2025/12/the-seamless-handoff-integrating-einstein-enhanced-bots-with-agentforce-agents.html) (2025-12-09)
-- [Master Hybrid Reasoning with the New Agent Script Recipes Sample App](https://developer.salesforce.com/blogs/2025/12/master-hybrid-reasoning-with-the-new-agent-script-recipes-sample-app.html) (2025-12-08)
 
 </details>
 
