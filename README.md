@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Everbloom built an AI to turn chicken feathers into cashmere](https://techcrunch.com/2025/12/16/everbloom-built-an-ai-to-turn-chicken-feathers-into-cashmere/) (2025-12-16)
-- [Solo VC and Lovable investor Neil Murray raises third Nordic-focused fund](https://techcrunch.com/2025/12/16/solo-gp-neil-murray-closes-6m-fund-iii-to-back-nordic-founders/) (2025-12-16)
-- [VCs discuss why most consumer AI startups still lack staying power](https://techcrunch.com/2025/12/15/vcs-discuss-why-most-consumer-ai-startups-still-lack-staying-power/) (2025-12-16)
-- [OpenAI-backed biotech firm Chai Discovery raises $130M Series B at $1.3B valuation](https://techcrunch.com/2025/12/15/openai-backed-biotech-firm-chai-discovery-raises-130m-series-b-at-1-3b-valuation/) (2025-12-15)
-- [I hate that I love Riverside’s AI-driven ‘Rewind’ for podcasters](https://techcrunch.com/2025/12/15/i-hate-that-i-love-riversides-ai-driven-rewind-for-podcasters/) (2025-12-15)
+- [OpenAI continues on its ‘code red’ warpath with new image generation model](https://techcrunch.com/2025/12/16/openai-continues-on-its-code-red-warpath-with-new-image-generation-model/) (2025-12-16)
+- [How Luminar’s doomed Volvo deal helped drag the company into bankruptcy](https://techcrunch.com/2025/12/16/how-luminars-doomed-volvo-deal-helped-drag-the-company-into-bankruptcy/) (2025-12-16)
+- [Uber Eats alum lands $14M seed from a16z to fix WhatsApp chaos for LatAm’s doctors](https://techcrunch.com/2025/12/16/uber-eats-alum-lands-14m-seed-from-a16z-to-fix-whatsapp-chaos-for-latams-doctors/) (2025-12-16)
+- [Google tests an email-based productivity assistant](https://techcrunch.com/2025/12/16/google-tests-an-email-based-productivity-assistant/) (2025-12-16)
+- [Whole Foods to install smart food waste bins from Mill starting in 2027](https://techcrunch.com/2025/12/16/whole-foods-to-install-smart-food-waste-bins-from-mill-starting-in-2027/) (2025-12-16)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Cekura (YC F24) Is Hiring](https://www.ycombinator.com/companies/cekura-ai/jobs/YFeQADI-product-engineer-us) (2025-12-16)
-- [ArkhamMirror: Airgapped investigation platform with CIA-style hypothesis testing](https://github.com/mantisfury/ArkhamMirror) (2025-12-16)
-- [I'm a Tech Lead, and nobody listens to me. What should I do?](https://world.hey.com/joaoqalves/i-m-a-tech-lead-and-nobody-listens-to-me-what-should-i-do-e16e454d) (2025-12-16)
-- [A2UI: A Protocol for Agent-Driven Interfaces](https://a2ui.org/) (2025-12-16)
-- [VS Code deactivates IntelliCode in favor of the paid Copilot](https://www.heise.de/en/news/VS-Code-deactivates-IntelliCode-in-favor-of-the-paid-Copilot-11115783.html) (2025-12-16)
+- [The GitHub Actions control plane is no longer free](https://www.blacksmith.sh/blog/actions-pricing) (2025-12-16)
+- [GitHub will begin charging for self-hosted action runners on March 2026](https://github.blog/changelog/2025-12-16-coming-soon-simpler-pricing-and-a-better-experience-for-github-actions/) (2025-12-16)
+- [FVWM-95](https://fvwm95.sourceforge.net/) (2025-12-16)
+- [Pricing Changes for GitHub Actions](https://resources.github.com/actions/2026-pricing-changes-for-github-actions/) (2025-12-16)
+- [Artie (YC S23) Is Hiring Senior Enterprise AES](https://www.ycombinator.com/companies/artie/jobs/HyaHWUs-senior-enterprise-ae) (2025-12-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The ‘mad rush’ to install solar panels before tax credits run out](https://www.theverge.com/science/844852/solar-energy-panel-installation-tax-credit-trump) (2025-12-16)
-- [Silksong is getting a free expansion next year](https://www.theverge.com/news/845189/hollow-knight-silksong-sea-of-sorrow-dlc-expansion-switch-2) (2025-12-16)
-- [LG enters the RGB LED fray in 2026 with the Micro RGB evo TV](https://www.theverge.com/news/844885/lg-micro-rgb-evo-led-tv-ces-2026) (2025-12-16)
-- [The best Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra) (2025-12-16)
-- [The best AirPods to buy](https://www.theverge.com/tech/645217/best-apple-airpods-pro) (2025-12-15)
+- [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl) (2025-12-16)
+- [OpenAI’s new flagship image generator AI is here](https://www.theverge.com/ai-artificial-intelligence/845558/openais-new-flagship-image-generation-model-gpt-image-1-5) (2025-12-16)
+- [Google wants its AI assistant CC to replace your morning scroll](https://www.theverge.com/news/845280/google-cc-morning-briefing-gemini-ai-agent) (2025-12-16)
+- [What 1,000 pages of documents tell us about DOGE](https://www.theverge.com/policy/845063/fcc-doge-foia-brendan-carr-senate-hearing) (2025-12-16)
+- [Ghost of Yōtei studio Sucker Punch is getting new leadership](https://www.theverge.com/news/845573/sony-playstation-sucker-punch-leadership) (2025-12-16)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Reporter suggests Half-Life 3 will be a Steam Machine launch title](https://arstechnica.com/gaming/2025/12/journalist-insists-half-life-3-will-launch-with-steam-machine-in-spring-2026/) (2025-12-16)
+- [Utah leaders hinder efforts to develop solar energy supply](https://arstechnica.com/science/2025/12/utah-leaders-hinder-efforts-to-develop-solar-energy-supply/) (2025-12-16)
+- [2026 Mercedes CLA first drive: Entry level doesn’t mean basic](https://arstechnica.com/cars/2025/12/2026-mercedes-cla-first-drive-entry-level-doesnt-mean-basic/) (2025-12-16)
+- [Ars Live Today: 3 former CDC leaders detail impacts of RFK Jr.’s anti-science agenda](https://arstechnica.com/health/2025/12/ars-live-3-former-cdc-leaders-detail-impacts-of-rfk-jr-s-anti-science-agenda/) (2025-12-16)
 - [Merriam-Webster’s word of the year delivers a dismissive verdict on junk AI content](https://arstechnica.com/ai/2025/12/merriam-webster-crowns-slop-word-of-the-year-as-ai-content-floods-internet/) (2025-12-15)
-- [Stranger Things S5 trailer teases Vol. 2](https://arstechnica.com/culture/2025/12/stranger-things-s5-trailer-teases-vol-2/) (2025-12-15)
-- [Microsoft will finally kill obsolete cipher that has wreaked decades of havoc](https://arstechnica.com/security/2025/12/microsoft-will-finally-kill-obsolete-cipher-that-has-wreaked-decades-of-havoc/) (2025-12-15)
-- [Ford ends F-150 Lightning production, starts battery storage business](https://arstechnica.com/cars/2025/12/ford-ends-f-150-lightning-production-starts-battery-storage-business/) (2025-12-15)
-- [Microsoft takes down mod that re-created Halo 3 in Counter-Strike 2](https://arstechnica.com/gaming/2025/12/microsoft-takes-down-mod-that-recreated-halo-3-in-counter-strike-2/) (2025-12-15)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Creating psychological safety in the AI era](https://www.technologyreview.com/2025/12/16/1125899/creating-psychological-safety-in-the-ai-era/) (2025-12-16)
+- [The Download: why 2025 has been the year of AI hype correction, and fighting GPS jamming](https://www.technologyreview.com/2025/12/16/1129944/the-download-why-2025-has-been-the-year-of-ai-hype-correction-and-fighting-gps-jamming/) (2025-12-16)
+- [Why it’s time to reset our expectations for AI](https://www.technologyreview.com/2025/12/16/1129946/why-its-time-to-reset-our-expectations-for-ai/) (2025-12-16)
 - [Quantum navigation could solve the military’s GPS jamming problem](https://www.technologyreview.com/2025/12/16/1129887/quantum-navigation-militarys-gps-jamming-problem/) (2025-12-16)
 - [The fast and the future-focused are revolutionizing motorsport](https://www.technologyreview.com/2025/12/15/1127432/the-fast-and-the-future-focused-are-revolutionizing-motorsport/) (2025-12-15)
-- [The Download: introducing the AI Hype Correction package](https://www.technologyreview.com/2025/12/15/1129719/the-download-introducing-the-ai-hype-correction-package/) (2025-12-15)
-- [AI coding is now everywhere. But not everyone is convinced.](https://www.technologyreview.com/2025/12/15/1128352/rise-of-ai-coding-developers-2026/) (2025-12-15)
-- [A brief history of Sam Altman’s hype](https://www.technologyreview.com/2025/12/15/1129169/a-brief-history-of-sam-altmans-hype/) (2025-12-15)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Your 2025 Stacked: A year of knowledge, community, and impact](https://stackoverflow.blog/2025/12/16/your-2025-stacked-a-year-of-knowledge-community-and-impact/) (2025-12-16)
 - [Live from re:Invent…it’s Stack Overflow!](https://stackoverflow.blog/2025/12/16/live-from-re-invent-it-s-stack-overflow/) (2025-12-16)
 - [At AWS re:Invent, the news was agents, but the focus was developers](https://stackoverflow.blog/2025/12/15/at-aws-re-invent-the-news-was-agents-but-the-focus-was-developers/) (2025-12-15)
 - [How Stack Overflow’s MCP Server is helping HP modernize the software development lifecycle](https://stackoverflow.blog/2025/12/12/how-stack-overflow-s-mcp-server-is-helping-hp-modernize-the-software-development-lifecycle/) (2025-12-12)
 - [Interface is everything, and everything is an interface](https://stackoverflow.blog/2025/12/12/interface-is-everything-and-everything-is-an-interface/) (2025-12-12)
-- [Simulating lousy conversations: Q&A with Silvio Savarese, Chief Scientist & Head of AI Research at Salesforce](https://stackoverflow.blog/2025/12/11/simulating-lousy-conversations-q-and-a-with-silvio-savarese-chief-scientist-and-head-of-ai-research-at-salesforce/) (2025-12-11)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [From Warehouse to Code: My Self-Taught Journey into AI & Multi-Agent Systems](https://dev.to/fracabu/from-warehouse-to-code-my-self-taught-journey-into-ai-multi-agent-systems-35li) (2025-12-16)
-- [Traata: A Modern, Developer-First Password Manager Built for Security, Speed, and Sanity](https://dev.to/abhishekdvs/traata-a-modern-developer-first-password-manager-built-for-security-speed-and-sanity-42fd) (2025-12-16)
-- [Version-Controlled omg.lol: Auto-Syncing Your IndieWeb with GitHub Actions](https://dev.to/brennan/version-controlled-omglol-auto-syncing-your-indieweb-with-github-actions-22eh) (2025-12-16)
-- [Creating Environment Files from Templates with Bash](https://dev.to/zhitkov/creating-environment-files-from-templates-with-bash-2mh5) (2025-12-16)
-- [Day 10: California Done and Social Realizations](https://dev.to/casperday11/day-10-california-done-and-social-realizations-3g81) (2025-12-16)
+- [Why Tools Break Agents (And How to Fix Them)](https://dev.to/dowhatmatters/why-tools-break-agents-and-how-to-fix-them-e28) (2025-12-16)
+- [[Boost]](https://dev.to/david_bussell14/-543b) (2025-12-16)
+- [I Wasted 6 Months Building Products Nobody Wanted. Then I Discovered the Real Problem.](https://dev.to/lukehanner/i-wasted-6-months-building-products-nobody-wanted-then-i-discovered-the-real-problem-4704) (2025-12-16)
+- [How to integrate Lemon Squeezy Payments into a chrome extension with webhooks](https://dev.to/notearthian/how-to-integrate-lemon-squeezy-payments-into-a-chrome-extension-with-webhooks-3ib9) (2025-12-16)
+- [Escaping Dependency Hell: How I Migrated a Legacy CRA App to React 19 & Vite](https://dev.to/imamifti056/escaping-dependency-hell-how-i-migrated-a-legacy-cra-app-to-react-19-vite-2pnf) (2025-12-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Atom.](https://medium.com/@tom_lin/atom-39dacfa50cc2?source=rss------programming-5) (2025-12-16)
-- [Believe in yourselves and in your projects until the very last moment](https://ana-coroletchi.medium.com/believe-in-yourselves-and-in-your-projects-until-the-very-last-moment-0f3d940ee9be?source=rss------programming-5) (2025-12-16)
-- [I Deleted My Second Brain](https://medium.com/@raleighcollins64/i-deleted-my-second-brain-4b6c2c1136cd?source=rss------programming-5) (2025-12-16)
-- [The World Is Betting on AI — Without Asking What It Can Really Do](https://medium.com/@inamullahrajpoot880/the-world-is-betting-on-ai-without-asking-what-it-can-really-do-f8b6dff0b565?source=rss------programming-5) (2025-12-16)
-- [Why Python Rules the Tech World in 2025](https://medium.com/@inamullahrajpoot880/why-python-rules-the-tech-world-in-2025-61624f0cb8c5?source=rss------programming-5) (2025-12-16)
+- [A Practical Guide to Python Enum for Developers](https://python.plainenglish.io/a-practical-guide-to-python-enum-for-developers-5b6440e90da7?source=rss------programming-5) (2025-12-16)
+- [The Missing Link in AI Automation: Why Model Context Protocol (MCP) Is the USB-C of AI](https://blog.stackademic.com/the-missing-link-in-ai-automation-why-model-context-protocol-mcp-is-the-usb-c-of-ai-c48b520b2364?source=rss------programming-5) (2025-12-16)
+- [Can ChatGPT Really Help Beginners Learn Python?](https://python.plainenglish.io/can-chatgpt-really-help-beginners-learn-python-b4086b850178?source=rss------programming-5) (2025-12-16)
+- [The Difference Between Task.Run and Task.StartNew That Actually Matters](https://blog.stackademic.com/the-difference-between-task-run-and-task-startnew-that-actually-matters-9a30dc8d3aae?source=rss------programming-5) (2025-12-16)
+- [10 Python Projects That Helped Me Build Better Habits](https://blog.stackademic.com/10-python-projects-that-helped-me-build-better-habits-1817aac5b31d?source=rss------programming-5) (2025-12-16)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Develop and deploy voice AI apps using Docker](https://www.docker.com/blog/develop-deploy-voice-ai-apps/) (2025-12-16)
 - [Docker Model Runner now included with the Universal Blue family](https://www.docker.com/blog/docker-model-runner-universal-blue/) (2025-12-16)
 - [Private MCP Catalogs and the Path to Composable Enterprise AI](https://www.docker.com/blog/private-mcp-catalogs-oci-composable-enterprise-ai/) (2025-12-14)
 - [Highlights from AWS re:Invent: Supercharging Kiro with Docker Sandboxes and MCP Catalog](https://www.docker.com/blog/aws-reinvent-kiro-docker-sandboxes-mcp-catalog/) (2025-12-12)
 - [Is AI the New Insider Threat?](https://www.docker.com/blog/ai-insider-threat-shadow-ai-risk-controls/) (2025-12-12)
-- [How to Add MCP Servers to ChatGPT with Docker MCP Toolkit](https://www.docker.com/blog/add-mcp-server-to-chatgpt/) (2025-12-12)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Kotlin 2.3.0 Released](https://blog.jetbrains.com/kotlin/2025/12/kotlin-2-3-0-released/) (2025-12-16)
+- [Rust vs C++: competition or evolution in systems programming for 2026](https://blog.jetbrains.com/rust/2025/12/16/rust-vs-cpp-comparison-for-2026/) (2025-12-16)
 - [Agents, Protocols, and Why We’re Not Playing Favorites](https://blog.jetbrains.com/ai/2025/12/agents-protocols-and-why-we-re-not-playing-favorites/) (2025-12-16)
 - [TeamCity 2025.11.1 Is Now Available](https://blog.jetbrains.com/teamcity/2025/12/teamcity-2025-11-1-bug-fix/) (2025-12-15)
 - [How to Tame Your Flaky Tests in TeamCity](https://blog.jetbrains.com/teamcity/2025/12/how-to-tame-flaky-tests/) (2025-12-15)
-- [Building AI Agents in Kotlin – Part 3: Under Observation](https://blog.jetbrains.com/ai/2025/12/building-ai-agents-in-kotlin-part-3-under-observation/) (2025-12-12)
-- [Deploying Qodana on Kubernetes: More Scalability, More Control](https://blog.jetbrains.com/qodana/2025/12/deploying-qodana-on-kubernetes-more-scalability-more-control/) (2025-12-12)
 
 </details>
 
@@ -392,12 +392,13 @@ https://www.twilio.com/en-us/blog/developers/community/build-a-patient-reminder-
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [FAPI for Developers: Here Is Your Guide
+](https://auth0.com/blog/fapi-for-developers-guide/) (2025-12-16)
 - [An Accessible Guide to WCAG 3.3.9: Going for Gold](https://auth0.com/blog/an-accessible-guide-to-wcag-3-3-9/) (2025-12-15)
 - [Express Configuration is now GA for Auth0 SaaS apps in the Okta Integration Network](https://auth0.com/blog/express-configuration-auth0-saas-apps-okta-oin/) (2025-12-11)
 - [Simplify Your Stack (and Save!): A Guide to Linking Your Auth0 Tenants
 ](https://auth0.com/blog/auth0-linking-tenants/) (2025-12-10)
 - [Using an API Gateway with Fine-Grained Authorization](https://auth0.com/blog/using-api-gateway-fine-grained-authorization/) (2025-12-09)
-- [Honeypots: A Simple Trap for Spam Registration Bots](https://auth0.com/blog/honeypots-simple-bot-trap/) (2025-12-08)
 
 </details>
 
@@ -415,11 +416,11 @@ https://www.twilio.com/en-us/blog/developers/community/build-a-patient-reminder-
 <details>
 <summary>🪐 PlanetScale Blog</summary>
 
+- [Using MotherDuck with PlanetScale](https://planetscale.com/blog/using-motherduck-with-planetscale) (2025-12-16)
 - [$50 PlanetScale Metal is GA for Postgres](https://planetscale.com/blog/50-dollar-planetscale-metal-is-ga-for-postgres) (2025-12-15)
 - [AI-Powered Postgres index suggestions](https://planetscale.com/blog/postgres-new-index-suggestions) (2025-11-21)
 - [$5 PlanetScale is live](https://planetscale.com/blog/5-dollar-planetscale-is-here) (2025-11-14)
 - [Announcing Vitess 23](https://planetscale.com/blog/announcing-vitess-23) (2025-11-04)
-- [$50 PlanetScale Metal](https://planetscale.com/blog/50-dollar-planetscale-metal) (2025-11-03)
 
 </details>
 
@@ -492,11 +493,11 @@ https://www.twilio.com/en-us/blog/developers/community/build-a-patient-reminder-
 <details>
 <summary>🧡 HubSpot Developer</summary>
 
+- [Introducing Automated Testing for UI Extensions](https://developers.hubspot.com/blog/introducing-automated-testing-for-ui-extensions) (2025-12-16)
 - [How to CODE: Simplifying the Developer Experience with HubSpot](https://developers.hubspot.com/blog/how-to-code-simplifying-the-developer-experience-with-hubspot) (2025-11-13)
 - [Unlocking the Power of Webhooks & Custom Workflow Actions in HubSpot’s New Developer Platform](https://developers.hubspot.com/blog/unlocking-the-power-of-webhooks-workflow-actions-in-hubspots-new-developer-platform) (2025-10-22)
 - [Optimizing Developer Docs in the Age of AI: Our Mintlify Migration Story](https://developers.hubspot.com/blog/optimizing-developer-docs-in-the-age-of-ai-our-mintlify-migration-story) (2025-10-09)
 - [Navigating Serverless Functions on HubSpot’s New Developer Platform](https://developers.hubspot.com/blog/navigating-serverless-functions-on-hubspots-new-developer-platform) (2025-10-02)
-- [Building Omnichannel Customer Connections at HubSpot: A Look Under the Hood](https://developers.hubspot.com/blog/building-omnichannel-customer-connections-at-hubspot) (2025-09-25)
 
 </details>
 
@@ -558,55 +559,55 @@ https://www.twilio.com/en-us/blog/developers/community/build-a-patient-reminder-
 <details>
 <summary>🤖 AI News</summary>
 
+- [What AI search tools mean for the future of SEO specialists](https://www.artificialintelligence-news.com/news/what-ai-search-tools-mean-for-the-future-of-seo-specialists/) (2025-12-16)
 - [Mining business learnings for AI deployment](https://www.artificialintelligence-news.com/news/mining-ai-gives-businesses-food-for-thought-in-real-life-deployments-of-oi/) (2025-12-16)
 - [BNP Paribas introduces AI tool for investment banking](https://www.artificialintelligence-news.com/news/bnp-paribas-introduces-ai-tool-for-investment-banking/) (2025-12-16)
 - [JPMorgan Chase AI strategy: US$18B bet paying off ](https://www.artificialintelligence-news.com/news/jpmorgan-chase-ai-strategy-2025/) (2025-12-16)
 - [AI literacy and continuous education are cornerstones](https://www.artificialintelligence-news.com/news/ai-literacy-in-the-workplace-important-for-growth/) (2025-12-16)
-- [Strong contractor belief in AI for industry-wide transformation](https://www.artificialintelligence-news.com/news/construction-industry-ai-success-potential/) (2025-12-16)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [When (Not) to Use Vector DB](https://towardsdatascience.com/when-not-to-use-vector-db/) (2025-12-16)
+- [Separate Numbers and Text in One Column Using Power Query](https://towardsdatascience.com/separate-numbers-and-text-in-one-column-using-power-query/) (2025-12-16)
+- [The Machine Learning “Advent Calendar” Day 16: Kernel Trick in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-16-kernel-trick-in-excel/) (2025-12-16)
 - [Lessons Learned After 8 Years of Machine Learning](https://towardsdatascience.com/lessons-learned-after-8-years-of-machine-learning/) (2025-12-16)
 - [The Machine Learning “Advent Calendar” Day 15: SVM in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-15-svm-in-excel/) (2025-12-15)
-- [6 Technical Skills That Make You a Senior Data Scientist](https://towardsdatascience.com/6-technical-skills-that-make-you-a-senior-data-scientist/) (2025-12-15)
-- [Geospatial exploratory data analysis with GeoPandas and DuckDB](https://towardsdatascience.com/geospatial-exploratory-data-analysis-with-geopandas-and-duckdb/) (2025-12-15)
-- [Lessons Learned from Upgrading to LangChain 1.0 in Production](https://towardsdatascience.com/lessons-learnt-from-upgrading-to-langchain-1-0-in-production/) (2025-12-15)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Top 10 AI Models For Web Development in 2025](https://www.analyticsvidhya.com/blog/2025/12/top-ai-models-for-web-development/) (2025-12-16)
 - [Meet LangSmith Assistant – Polly [An Agent for Agents]](https://www.analyticsvidhya.com/blog/2025/12/polly-langsmith-agent/) (2025-12-16)
 - [Top 10 YouTube Channels to Learn AI](https://www.analyticsvidhya.com/blog/2025/12/best-ai-youtube-channels/) (2025-12-16)
 - [I Tried GPT 5.2 and This is How It Went..](https://www.analyticsvidhya.com/blog/2025/12/i-tried-gpt-5-2/) (2025-12-15)
 - [How to Build a RAG Application with AutoRAG?](https://www.analyticsvidhya.com/blog/2025/12/autorag-pipeline/) (2025-12-15)
-- [8 Things To Do With Microsoft’s MarkItDown Library](https://www.analyticsvidhya.com/blog/2025/12/microsofts-markitdown-uses/) (2025-12-14)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Workflow Automation Tools for All Professionals](https://www.kdnuggets.com/5-workflow-automation-tools-for-all-professionals) (2025-12-16)
 - [The Data Detox: Training Yourself for the Messy, Noisy, Real World](https://www.kdnuggets.com/the-data-detox-training-yourself-for-the-messy-noisy-real-world) (2025-12-15)
 - [How Transformers Think: The Information Flow That Makes Language Models Work](https://www.kdnuggets.com/how-transformers-think-the-information-flow-that-makes-language-models-work) (2025-12-15)
 - [Emerging Trends in AI Ethics and Governance for 2026](https://www.kdnuggets.com/emerging-trends-in-ai-ethics-and-governance-for-2026) (2025-12-15)
 - [How to Write Efficient Python Data Classes](https://www.kdnuggets.com/how-to-write-efficient-python-data-classes) (2025-12-12)
-- [The One Data Analyst Role That’s AI-Proof](https://www.kdnuggets.com/the-one-data-analyst-role-thats-ai-proof) (2025-12-12)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [The Machine Learning Engineer’s Checklist: Best Practices for Reliable Models](https://machinelearningmastery.com/the-machine-learning-engineers-checklist-best-practices-for-reliable-models/) (2025-12-16)
 - [Transformer vs LSTM for Time Series: Which Works Better?](https://machinelearningmastery.com/transformer-vs-lstm-for-time-series-which-works-better/) (2025-12-15)
 - [How LLMs Choose Their Words: A Practical Walk-Through of Logits, Softmax and Sampling](https://machinelearningmastery.com/how-llms-choose-their-words-a-practical-walk-through-of-logits-softmax-and-sampling/) (2025-12-13)
 - [3 Feature Engineering Techniques for Unstructured Text Data](https://machinelearningmastery.com/3-feature-engineering-techniques-for-unstructured-text-data/) (2025-12-12)
 - [3 Subtle Ways Data Leakage Can Ruin Your Models (and How to Prevent It)](https://machinelearningmastery.com/3-subtle-ways-data-leakage-can-ruin-your-models-and-how-to-prevent-it/) (2025-12-10)
-- [How AI Cuts Costs and Adds Value for Data Science Workflows (Sponsored)](https://usa.ingrammicro.com/cep/app/cms/en-us/General/guiding-tech) (2025-12-09)
 
 </details>
 
