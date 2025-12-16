@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Threads adds new communities, tests badges for highly engaged members](https://techcrunch.com/2025/12/15/threads-adds-new-communities-tests-badges-for-highly-engaged-members/) (2025-12-15)
-- [Lidar-maker Luminar files for bankruptcy](https://techcrunch.com/2025/12/15/lidar-maker-luminar-files-for-bankruptcy/) (2025-12-15)
-- [Zoom brings its AI assistant to the web with access to free users](https://techcrunch.com/2025/12/15/zoom-brings-its-ai-assistant-to-the-web-with-access-to-free-users/) (2025-12-15)
-- [Netflix responds to concerns about WBD deal](https://techcrunch.com/2025/12/15/netflix-responds-to-concerns-about-wbd-deal/) (2025-12-15)
-- [Facebook Messenger’s desktop app is no more](https://techcrunch.com/2025/12/15/facebook-messengers-desktop-app-is-no-more/) (2025-12-15)
+- [VCs discuss why most consumer AI startups still lack staying power](https://techcrunch.com/2025/12/15/vcs-discuss-why-most-consumer-ai-startups-still-lack-staying-power/) (2025-12-16)
+- [OpenAI-backed biotech firm Chai Discovery raises $130M Series B at $1.3B valuation](https://techcrunch.com/2025/12/15/openai-backed-biotech-firm-chai-discovery-raises-130m-series-b-at-1-3b-valuation/) (2025-12-15)
+- [I hate that I love Riverside’s AI-driven ‘Rewind’ for podcasters](https://techcrunch.com/2025/12/15/i-hate-that-i-love-riversides-ai-driven-rewind-for-podcasters/) (2025-12-15)
+- [Disney’s OpenAI deal is exclusive for just one year — then it’s open season](https://techcrunch.com/2025/12/15/disneys-openai-deal-is-exclusive-for-just-one-year-then-its-open-season/) (2025-12-15)
+- [Nvidia bulks up open source offerings with an acquisition and new open AI models ](https://techcrunch.com/2025/12/15/nvidia-bulks-up-open-source-offerings-with-an-acquisition-and-new-open-ai-models/) (2025-12-15)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: 100 Million splats, a whole town, rendered in M2 MacBook Air](https://twitter.com/AKurian001/status/1986979144014701026) (2025-12-15)
-- [Break up bad companies; replace bad union bosses](https://pluralistic.net/2025/12/15/class-war-labor-peace/) (2025-12-15)
-- [Cosmic-ray bath in a past supernova gives birth to Earth-like planets](https://www.science.org/doi/10.1126/sciadv.adx7892) (2025-12-15)
-- [Pro-democracy HK tycoon Jimmy Lai convicted in national security trial](https://www.bbc.com/news/articles/cp844kjj37vo) (2025-12-15)
-- [$50 PlanetScale Metal Is GA for Postgres](https://planetscale.com/blog/50-dollar-planetscale-metal-is-ga-for-postgres) (2025-12-15)
+- [Ideas Aren't Getting Harder to Find](https://asteriskmag.com/issues/12-books/ideas-arent-getting-harder-to-find) (2025-12-16)
+- [Quill OS – an open-source, fully-functional standalone OS for Kobo eReaders](https://quill-os.org/) (2025-12-16)
+- [The Bob Dylan Concert for Just One Person](https://www.flaggingdown.com/p/the-bob-dylan-concert-for-just-one) (2025-12-16)
+- [JetBlue flight averts mid-air collision with US Air Force jet](https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/) (2025-12-15)
+- [Ford kills the All-Electric F-150](https://www.wired.com/story/ford-kills-electric-f-150-lightning-for-hybrid/) (2025-12-15)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Cadillac and Chevy are getting native Apple Music](https://www.theverge.com/transportation/844697/gm-cadillac-chevy-apple-music-native) (2025-12-15)
-- [Google&#8217;s turning off its dark web monitoring service that scoured data breaches for your info](https://www.theverge.com/news/844700/google-dark-web-reports-shut-down) (2025-12-15)
-- [Tesla robotaxis spotted on public roads without safety monitors](https://www.theverge.com/news/844616/tesla-robotaxis-spotted-on-public-roads-without-safety-monitors) (2025-12-15)
-- [Fallout season 2 is streaming one day early](https://www.theverge.com/news/844684/fallout-season-2-premiere-streaming-amazon-prime-video) (2025-12-15)
-- [GNOME bans AI-generated extensions](https://www.theverge.com/news/844655/gnome-linux-ai-shell-extensions-ban) (2025-12-15)
+- [Silksong is getting a free expansion next year](https://www.theverge.com/news/845189/hollow-knight-silksong-sea-of-sorrow-dlc-expansion-switch-2) (2025-12-16)
+- [LG enters the RGB LED fray in 2026 with the Micro RGB evo TV](https://www.theverge.com/news/844885/lg-micro-rgb-evo-led-tv-ces-2026) (2025-12-16)
+- [The best Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra) (2025-12-16)
+- [The best AirPods to buy](https://www.theverge.com/tech/645217/best-apple-airpods-pro) (2025-12-15)
+- [21 states and DC join the FTC’s lawsuit against Uber](https://www.theverge.com/news/845071/ftc-uber-lawsuit-21-states-amended-complaint) (2025-12-15)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Oh look, yet another Starship clone has popped up in China](https://arstechnica.com/space/2025/12/oh-look-yet-another-starship-clone-has-popped-up-in-china/) (2025-12-15)
-- [Roomba maker iRobot swept into bankruptcy](https://arstechnica.com/information-technology/2025/12/roomba-maker-irobot-swept-into-bankruptcy/) (2025-12-15)
-- [Verizon refused to unlock man’s iPhone, so he sued the carrier and won](https://arstechnica.com/tech-policy/2025/12/verizon-refused-to-unlock-mans-iphone-so-he-sued-the-carrier-and-won/) (2025-12-15)
-- [Sharks and rays gain landmark protections as nations move to curb international trade](https://arstechnica.com/science/2025/12/sharks-and-rays-gain-landmark-protections-as-nations-move-to-curb-international-trade/) (2025-12-13)
-- [OpenAI built an AI coding agent and uses it to improve the agent itself](https://arstechnica.com/ai/2025/12/how-openai-is-using-gpt-5-codex-to-improve-the-ai-tool-itself/) (2025-12-12)
+- [Merriam-Webster’s word of the year delivers a dismissive verdict on junk AI content](https://arstechnica.com/ai/2025/12/merriam-webster-crowns-slop-word-of-the-year-as-ai-content-floods-internet/) (2025-12-15)
+- [Stranger Things S5 trailer teases Vol. 2](https://arstechnica.com/culture/2025/12/stranger-things-s5-trailer-teases-vol-2/) (2025-12-15)
+- [Microsoft will finally kill obsolete cipher that has wreaked decades of havoc](https://arstechnica.com/security/2025/12/microsoft-will-finally-kill-obsolete-cipher-that-has-wreaked-decades-of-havoc/) (2025-12-15)
+- [Ford ends F-150 Lightning production, starts battery storage business](https://arstechnica.com/cars/2025/12/ford-ends-f-150-lightning-production-starts-battery-storage-business/) (2025-12-15)
+- [Microsoft takes down mod that re-created Halo 3 in Counter-Strike 2](https://arstechnica.com/gaming/2025/12/microsoft-takes-down-mod-that-recreated-halo-3-in-counter-strike-2/) (2025-12-15)
 
 </details>
 
@@ -86,34 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [At AWS re:Invent, the news was agents, but the focus was developers](https://stackoverflow.blog/2025/12/15/at-aws-re-invent-the-news-was-agents-but-the-focus-was-developers/) (2025-12-15)
 - [How Stack Overflow’s MCP Server is helping HP modernize the software development lifecycle](https://stackoverflow.blog/2025/12/12/how-stack-overflow-s-mcp-server-is-helping-hp-modernize-the-software-development-lifecycle/) (2025-12-12)
 - [Interface is everything, and everything is an interface](https://stackoverflow.blog/2025/12/12/interface-is-everything-and-everything-is-an-interface/) (2025-12-12)
 - [Simulating lousy conversations: Q&A with Silvio Savarese, Chief Scientist & Head of AI Research at Salesforce](https://stackoverflow.blog/2025/12/11/simulating-lousy-conversations-q-and-a-with-silvio-savarese-chief-scientist-and-head-of-ai-research-at-salesforce/) (2025-12-11)
 - [Tell us what you really, really… do not want to spend time working on](https://stackoverflow.blog/2025/12/10/tell-us-what-you-really-really-do-not-want-to-spend-time-working-on/) (2025-12-10)
-- [AI is a crystal ball into your codebase](https://stackoverflow.blog/2025/12/09/ai-is-a-crystal-ball-into-your-codebase/) (2025-12-09)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [From Detection to Defense: How Push-to-Vault Supercharges Secrets Management for DevSecOps](https://dev.to/gitguardian/from-detection-to-defense-how-push-to-vault-supercharges-secrets-management-for-devsecops-174d) (2025-12-15)
-- [Untitled](https://dev.to/dane_jelic_beeacb6d8b8515/untitled-3b4e) (2025-12-15)
-- [I’m building a Laravel-like framework in Go – feedback welcome
-https://github.com/bwanakweli4ever/enzovu](https://dev.to/alex_bwanakweli_35ff2e94c/im-building-a-laravel-like-framework-in-go-feedback-welcome-44ah) (2025-12-15)
-- [Guardrail your LLMs](https://dev.to/manikant92/guardrail-your-llms-1d9a) (2025-12-15)
-- [Functional MCP AI System Diagram](https://dev.to/franckweb/functional-mcp-ai-system-diagram-4j2p) (2025-12-15)
+- [TypeScript in 15 Minutes (What JavaScript Devs Actually Need)](https://dev.to/ramkashyap2050/typescript-in-15-minutes-what-javascript-devs-actually-need-1282) (2025-12-16)
+- [I Built 24 Free Developer Tools - No Signup, No Ads, No BS](https://dev.to/ghdj/i-built-24-free-developer-tools-no-signup-no-ads-no-bs-556m) (2025-12-16)
+- [AWS S3 Vectors: Finally, Cloud Scalable Vector Storage 🚀](https://dev.to/omarmfathy219/aws-s3-vectors-finally-cloud-scalable-vector-storage-1kmb) (2025-12-16)
+- [Beyond the Wire: Encrypting Messages Where the Message Never Exists](https://dev.to/suign/beyond-the-wire-encrypting-messages-where-the-message-never-exists-4fcb) (2025-12-16)
+- [Edge ML Has a Size Obsession](https://dev.to/aronchick/edge-ml-has-a-size-obsession-34fb) (2025-12-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [You Need Not REST](https://javascript.plainenglish.io/you-need-not-rest-7740c084aa6b?source=rss------programming-5) (2025-12-15)
-- [How to Rewire Your Brain for Focus in a Distracted World](https://medium.com/@zainabkhokhar507/how-to-rewire-your-brain-for-focus-in-a-distracted-world-c9c055832c2b?source=rss------programming-5) (2025-12-15)
-- [A Technical Review of NVIDIA’s Nemotron 3 Nano 30B A3B](https://medium.com/@leucopsis/a-technical-review-of-nvidias-nemotron-3-nano-30b-a3b-e91673f22df4?source=rss------programming-5) (2025-12-15)
-- [Quantum Entanglement Isn’t Telepathy. It’s Just Shared Memory.](https://itnext.io/quantum-entanglement-isnt-telepathy-it-s-just-shared-memory-13cb473df28b?source=rss------programming-5) (2025-12-15)
-- [ How To Ask For A Raise/Promotion As A Software Developer in 2026 ⚡️ ](https://developer-in.medium.com/how-to-ask-for-a-raise-promotion-as-a-software-developer-in-2026-%EF%B8%8F-3565fea06af3?source=rss------programming-5) (2025-12-15)
+- [FAANG Interview Mastery](https://medium.com/@alaxhenry0121/faang-interview-mastery-5dfefc42cfd9?source=rss------programming-5) (2025-12-16)
+- [Comparable vs Comparator in Java: What’s the Difference?](https://medium.com/@sunil17bbmp/comparable-vs-comparator-in-java-whats-the-difference-37f117e409a1?source=rss------programming-5) (2025-12-16)
+- [Understanding the App Lifecycle: Must-Know Concepts for iOS Interviews](https://medium.com/@alaxhenry0121/understanding-the-app-lifecycle-must-know-concepts-for-ios-interviews-081195833c75?source=rss------programming-5) (2025-12-16)
+- [How I Train My Linux Brain Daily](https://pawannatekar220.medium.com/how-i-train-my-linux-brain-daily-7f67f3bafb17?source=rss------programming-5) (2025-12-16)
+- [Optimizing for Latency: Why I Ditched Linked Lists for a Hybrid C++ Architecture](https://katia-osorio.medium.com/optimizing-for-latency-why-i-ditched-linked-lists-for-a-hybrid-c-architecture-77e14aeb64de?source=rss------programming-5) (2025-12-15)
 
 </details>
 
@@ -198,7 +197,7 @@ https://github.com/bwanakweli4ever/enzovu](https://dev.to/alex_bwanakweli_35ff2e
 <summary>🟩 Node.js Blog</summary>
 
 - [Node.js v24.12.0 (LTS)](https://nodejs.org/en/blog/release/v24.12.0) (2025-12-10)
-- [Monday, December 15, 2025 Security Releases](https://nodejs.org/en/blog/vulnerability/december-2025-security-releases) (2025-12-08)
+- [Thursday, December 18, 2025 Security Releases](https://nodejs.org/en/blog/vulnerability/december-2025-security-releases) (2025-12-08)
 - [Node.js v20.19.6 (LTS)](https://nodejs.org/en/blog/release/v20.19.6) (2025-11-25)
 - [Node.js v25.2.1 (Current)](https://nodejs.org/en/blog/release/v25.2.1) (2025-11-17)
 - [Node.js v24.11.1 (LTS)](https://nodejs.org/en/blog/release/v24.11.1) (2025-11-11)
@@ -570,11 +569,11 @@ https://www.twilio.com/en-us/blog/developers/community/how-to-create-a-graphql-s
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Machine Learning “Advent Calendar” Day 15: SVM in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-15-svm-in-excel/) (2025-12-15)
 - [6 Technical Skills That Make You a Senior Data Scientist](https://towardsdatascience.com/6-technical-skills-that-make-you-a-senior-data-scientist/) (2025-12-15)
 - [Geospatial exploratory data analysis with GeoPandas and DuckDB](https://towardsdatascience.com/geospatial-exploratory-data-analysis-with-geopandas-and-duckdb/) (2025-12-15)
 - [Lessons Learned from Upgrading to LangChain 1.0 in Production](https://towardsdatascience.com/lessons-learnt-from-upgrading-to-langchain-1-0-in-production/) (2025-12-15)
 - [The Machine Learning “Advent Calendar” Day 14: Softmax Regression in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-14-softmax-regression-in-excel/) (2025-12-14)
-- [The Skills That Bridge Technical Work and Business Impact](https://towardsdatascience.com/the-skills-that-bridge-technical-work-and-business-impact/) (2025-12-14)
 
 </details>
 
