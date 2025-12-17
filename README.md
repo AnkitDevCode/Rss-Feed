@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Amazon reportedly in talks to invest $10B in OpenAI as circular deals stay popular](https://techcrunch.com/2025/12/17/amazon-reportedly-in-talks-to-invest-10b-in-openai-as-circular-deals-stay-popular/) (2025-12-17)
+- [Google deepens consumer credit push in India with UPI-linked card](https://techcrunch.com/2025/12/17/google-deepens-consumer-credit-push-in-india-with-upi-linked-card/) (2025-12-17)
 - [Weeks after raising $100M, investors pump another $180M into hot Indian startup MoEngage](https://techcrunch.com/2025/12/16/weeks-after-raising-100m-investors-pump-another-180m-into-hot-indian-startup-moengage/) (2025-12-17)
 - [Monzo board reportedly pushed out CEO Anil over IPO timing](https://techcrunch.com/2025/12/16/monzo-board-reportedly-pushed-out-ceo-anil-over-ipo-timing/) (2025-12-17)
 - [Tesla engaged in deceptive marketing for Autopilot and Full Self-Driving, judge rules](https://techcrunch.com/2025/12/16/tesla-engaged-in-deceptive-marketing-for-autopilot-and-full-self-driving-judge-rules/) (2025-12-17)
-- [How Luminar’s doomed Volvo deal helped drag the company into bankruptcy](https://techcrunch.com/2025/12/16/how-luminars-doomed-volvo-deal-helped-drag-the-company-into-bankruptcy/) (2025-12-16)
-- [WikiFlix shows us what Netflix would have been like 100 years ago](https://techcrunch.com/2025/12/16/wikiflix-shows-us-what-netflix-would-have-been-like-100-years-ago/) (2025-12-16)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [FTX insider Caroline Ellison has been moved out of prison](https://www.businessinsider.com/caroline-ellison-prison-release-ftx-sam-bankman-fried-2025-12) (2025-12-17)
-- [A Guide to Magnetizing N48 Magnets in Ansys Maxwell](https://blog.ozeninc.com/resources/from-datasheet-to-demagnetization-a-guide-to-magnetizing-n48-magnets-in-ansys-maxwell) (2025-12-17)
-- [Introduction to Software Development Tooling (2024)](https://bernsteinbear.com/isdt/) (2025-12-17)
-- [Sei AI (YC W22) Is Hiring](https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-llm-engineer-mid-senior) (2025-12-17)
-- [Show HN: Learn Japanese contextually while browsing](https://lingoku.ai/learn-japanese) (2025-12-17)
+- [Show HN: Mephisto – A RAM-only, ad-free disposable email PWA built with React](https://mephistomail.site) (2025-12-17)
+- [Is Mozilla trying hard to kill itself?](https://infosec.press/brunomiguel/is-mozilla-trying-hard-to-kill-itself) (2025-12-17)
+- [AI's real superpower: consuming, not creating](https://msanroman.io/blog/ai-consumption-paradigm) (2025-12-17)
+- [TLA+ Modeling Tips](http://muratbuffalo.blogspot.com/2025/12/tla-modeling-tips.html) (2025-12-17)
+- [US threatens EU digital services market access](https://twitter.com/ustraderep/status/2000990028835508258) (2025-12-17)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Tesla misled customers about self-driving features, judge rules](https://www.theverge.com/news/846152/tesla-autopilot-marketing-deceptive-california-dmv) (2025-12-17)
 - [Even Trump’s chief of staff was ‘aghast’ at Elon Musk’s deadly USAID cuts](https://www.theverge.com/policy/846054/elon-musk-susie-wiles-doge-usaid) (2025-12-17)
 - [Arcade1Up isn&#8217;t dead, maybe](https://www.theverge.com/news/846034/arcade1up-basic-fun-dead-home-arcade) (2025-12-17)
 - [How Silicon Valley turned Trump into a fellow broligarch](https://www.theverge.com/column/845955/donald-trump-big-tech-2025) (2025-12-17)
 - [Alexa Plus’ website is live for some users](https://www.theverge.com/news/845678/alexa-dot-com-alexa-plus-website-live) (2025-12-16)
-- [Samsung’s 2026 Micro RGB LED TVs can actually fit in your living room](https://www.theverge.com/news/845760/samsung-micro-rgb-led-ces-2026) (2025-12-16)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [This Nobel Prize–winning chemist dreams of making water from thin air](https://www.technologyreview.com/2025/12/17/1129259/omar-yaghi-chemist-nobel-prize-crystals-water-air/) (2025-12-17)
 - [Creating psychological safety in the AI era](https://www.technologyreview.com/2025/12/16/1125899/creating-psychological-safety-in-the-ai-era/) (2025-12-16)
 - [The Download: why 2025 has been the year of AI hype correction, and fighting GPS jamming](https://www.technologyreview.com/2025/12/16/1129944/the-download-why-2025-has-been-the-year-of-ai-hype-correction-and-fighting-gps-jamming/) (2025-12-16)
 - [Why it’s time to reset our expectations for AI](https://www.technologyreview.com/2025/12/16/1129946/why-its-time-to-reset-our-expectations-for-ai/) (2025-12-16)
 - [Quantum navigation could solve the military’s GPS jamming problem](https://www.technologyreview.com/2025/12/16/1129887/quantum-navigation-militarys-gps-jamming-problem/) (2025-12-16)
-- [The fast and the future-focused are revolutionizing motorsport](https://www.technologyreview.com/2025/12/15/1127432/the-fast-and-the-future-focused-are-revolutionizing-motorsport/) (2025-12-15)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [15 AWS EMR Cost Optimization Tips to Slash Your EMR Spending (2025)](https://dev.to/chaos-genius/15-aws-emr-cost-optimization-tips-to-slash-your-emr-spending-2025-47g4) (2025-12-17)
-- [Advent of AI - Day 12: MCP Sampling](https://dev.to/nickytonline/advent-of-ai-day-12-mcp-sampling-29b4) (2025-12-17)
-- [I Completed 45 Lambda Function Exercises (And I'm Still a Beginner!)](https://dev.to/hejhdiss/i-completed-45-lambda-function-exercises-and-im-still-a-beginner-2m40) (2025-12-17)
-- [🚀Node.js Microservices: Zero to Cloud (Complete Hands-on Series)](https://dev.to/shafqat_awan_79b9dbd88cda/nodejs-microservices-zero-to-cloud-complete-hands-on-series-15oh) (2025-12-17)
-- [**Llamado a la Acción: Fortaleciendo el Cumplimiento Normati](https://dev.to/drcarlosruizviquez/llamado-a-la-accion-fortaleciendo-el-cumplimiento-normati-35j9) (2025-12-17)
+- [Claude Code vs. Cursor vs. Copilot: Why the Future of Coding lives in the Terminal](https://dev.to/tech_croc_f32fbb6ea8ed4/claude-code-vs-cursor-vs-copilot-why-the-future-of-coding-lives-in-the-terminal-3n8m) (2025-12-17)
+- [Designing Crypto Invoice Systems That Actually Work in Production](https://dev.to/jason_mitchell_ee24ceae69/designing-crypto-invoice-systems-that-actually-work-in-production-2ie2) (2025-12-17)
+- [Stop Screenshotting Emails Into Figma](https://dev.to/christopher_rogers_c98b17/stop-screenshotting-emails-into-figma-41ko) (2025-12-17)
+- [UX/UI in 2026: Why Beautiful Design No Longer Guarantees Success](https://dev.to/dev_family/uxui-in-2026-why-beautiful-design-no-longer-guarantees-success-1ca2) (2025-12-17)
+- [Week 1: My Android Learning Journey](https://dev.to/vibhas_natekar/week-1-my-android-learning-journey-2lha) (2025-12-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Performance Best Practices for Flutter Apps](https://medium.com/@yash22202/performance-best-practices-for-flutter-apps-f39f48db1ccf?source=rss------programming-5) (2025-12-17)
-- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-e80317a63e2b?source=rss------programming-5) (2025-12-17)
-- [12 Python Scripts I Wish I Had Known When I Was Still Copy-Pasting Everything](https://blog.stackademic.com/12-python-scripts-i-wish-i-had-known-when-i-was-still-copy-pasting-everything-b1be1bd882be?source=rss------programming-5) (2025-12-17)
-- [3 Moments When My Python Code Went Viral — and What I Learned From Each](https://python.plainenglish.io/3-moments-when-my-python-code-went-viral-and-what-i-learned-from-each-8f747e56ccb3?source=rss------programming-5) (2025-12-17)
-- [Most In-Demand Programming Courses at PNY Trainings in 2025](https://medium.com/@sobiapny/most-in-demand-programming-courses-at-pny-trainings-in-2025-b9051d44bf05?source=rss------programming-5) (2025-12-17)
+- [Se você é um iniciante completo, pode começar aprendendo uma linguagem de programação backend como…](https://medium.com/@olivalpaulino/se-voc%C3%AA-%C3%A9-um-iniciante-completo-pode-come%C3%A7ar-aprendendo-uma-linguagem-de-programa%C3%A7%C3%A3o-backend-como-05bf44d81a1e?source=rss------programming-5) (2025-12-17)
+- [The Secret Problem Behind Most AI Generated Code And How I Patch It](https://medium.com/@neonmaxima/the-secret-problem-behind-most-ai-generated-code-and-how-i-patch-it-94b050dbd75d?source=rss------programming-5) (2025-12-17)
+- [The Go Feature That Kills GC Pauses and Rivals Rust’s Speed ](https://medium.com/@monikasinghal713/the-go-feature-that-kills-gc-pauses-and-rivals-rusts-speed-ef2f3281f446?source=rss------programming-5) (2025-12-17)
+- [Why I Trust Shell Scripts More Than Security Products](https://medium.com/@neonmaxima/why-i-trust-shell-scripts-more-than-security-products-262c7d509d23?source=rss------programming-5) (2025-12-17)
+- [CSS Layout Mistakes I Faced as a Web Developer](https://medium.com/@TusharKanjariya/css-layout-mistakes-i-faced-as-a-web-developer-7174dec4a8cc?source=rss------programming-5) (2025-12-17)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [MPS 2025.3 Has Been Released!](https://blog.jetbrains.com/mps/2025/12/mps-2025-3-is-out/) (2025-12-17)
+- [Industry Leaders on the KotlinConf’25 Stage: What Global Brands Built With Kotlin](https://blog.jetbrains.com/kotlin/2025/12/industry-leaders-on-the-kotlinconf25-stage/) (2025-12-17)
 - [DataGrip turns 10. Hidden gems of DataGrip.](https://blog.jetbrains.com/datagrip/2025/12/16/datagrip-turns-10-hidden-gems-of-datagrip/) (2025-12-16)
 - [Kotlin 2.3.0 Released](https://blog.jetbrains.com/kotlin/2025/12/kotlin-2-3-0-released/) (2025-12-16)
 - [Rust vs C++: competition or evolution in systems programming for 2026](https://blog.jetbrains.com/rust/2025/12/16/rust-vs-cpp-comparison-for-2026/) (2025-12-16)
-- [Agents, Protocols, and Why We’re Not Playing Favorites](https://blog.jetbrains.com/ai/2025/12/agents-protocols-and-why-we-re-not-playing-favorites/) (2025-12-16)
-- [TeamCity 2025.11.1 Is Now Available](https://blog.jetbrains.com/teamcity/2025/12/teamcity-2025-11-1-bug-fix/) (2025-12-15)
 
 </details>
 
@@ -559,22 +559,22 @@ https://www.twilio.com/en-us/blog/products/launches/health-score-recommendations
 <details>
 <summary>🤖 AI News</summary>
 
+- [Roblox brings AI into the Studio to speed up game creation](https://www.artificialintelligence-news.com/news/roblox-brings-ai-into-the-studio-to-speed-up-game-creation/) (2025-12-17)
 - [What AI search tools mean for the future of SEO specialists](https://www.artificialintelligence-news.com/news/what-ai-search-tools-mean-for-the-future-of-seo-specialists/) (2025-12-16)
 - [Mining business learnings for AI deployment](https://www.artificialintelligence-news.com/news/mining-ai-gives-businesses-food-for-thought-in-real-life-deployments-of-oi/) (2025-12-16)
 - [BNP Paribas introduces AI tool for investment banking](https://www.artificialintelligence-news.com/news/bnp-paribas-introduces-ai-tool-for-investment-banking/) (2025-12-16)
 - [JPMorgan Chase AI strategy: US$18B bet paying off ](https://www.artificialintelligence-news.com/news/jpmorgan-chase-ai-strategy-2025/) (2025-12-16)
-- [AI literacy and continuous education are cornerstones](https://www.artificialintelligence-news.com/news/ai-literacy-in-the-workplace-important-for-growth/) (2025-12-16)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [3 Techniques to Effectively Utilize AI Agents for Coding](https://towardsdatascience.com/3-techniques-to-effectively-utilize-ai-agents-for-coding/) (2025-12-17)
 - [When (Not) to Use Vector DB](https://towardsdatascience.com/when-not-to-use-vector-db/) (2025-12-16)
 - [Separate Numbers and Text in One Column Using Power Query](https://towardsdatascience.com/separate-numbers-and-text-in-one-column-using-power-query/) (2025-12-16)
 - [The Machine Learning “Advent Calendar” Day 16: Kernel Trick in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-16-kernel-trick-in-excel/) (2025-12-16)
 - [Lessons Learned After 8 Years of Machine Learning](https://towardsdatascience.com/lessons-learned-after-8-years-of-machine-learning/) (2025-12-16)
-- [The Machine Learning “Advent Calendar” Day 15: SVM in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-15-svm-in-excel/) (2025-12-15)
 
 </details>
 
