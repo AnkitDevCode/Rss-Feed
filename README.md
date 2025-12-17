@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [OpenAI continues on its ‘code red’ warpath with new image generation model](https://techcrunch.com/2025/12/16/openai-continues-on-its-code-red-warpath-with-new-image-generation-model/) (2025-12-16)
+- [Tesla engaged in deceptive marketing for Autopilot and Full Self-Driving, judge rules](https://techcrunch.com/2025/12/16/tesla-engaged-in-deceptive-marketing-for-autopilot-and-full-self-driving-judge-rules/) (2025-12-17)
 - [How Luminar’s doomed Volvo deal helped drag the company into bankruptcy](https://techcrunch.com/2025/12/16/how-luminars-doomed-volvo-deal-helped-drag-the-company-into-bankruptcy/) (2025-12-16)
-- [Uber Eats alum lands $14M seed from a16z to fix WhatsApp chaos for LatAm’s doctors](https://techcrunch.com/2025/12/16/uber-eats-alum-lands-14m-seed-from-a16z-to-fix-whatsapp-chaos-for-latams-doctors/) (2025-12-16)
-- [Google tests an email-based productivity assistant](https://techcrunch.com/2025/12/16/google-tests-an-email-based-productivity-assistant/) (2025-12-16)
-- [Whole Foods to install smart food waste bins from Mill starting in 2027](https://techcrunch.com/2025/12/16/whole-foods-to-install-smart-food-waste-bins-from-mill-starting-in-2027/) (2025-12-16)
+- [WikiFlix shows us what Netflix would have been like 100 years ago](https://techcrunch.com/2025/12/16/wikiflix-shows-us-what-netflix-would-have-been-like-100-years-ago/) (2025-12-16)
+- [X updates its terms, files countersuit to lay claim to the ‘Twitter’ trademark after newcomer’s challenge](https://techcrunch.com/2025/12/16/x-updates-its-terms-files-countersuit-to-lay-claim-to-the-twitter-trademark-after-newcomers-challenge/) (2025-12-16)
+- [Study shows Instacart may be charging some shoppers 20% more for the same product](https://techcrunch.com/2025/12/16/study-shows-instacart-may-be-charging-some-shoppers-20-more-for-the-same-product/) (2025-12-16)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The GitHub Actions control plane is no longer free](https://www.blacksmith.sh/blog/actions-pricing) (2025-12-16)
-- [GitHub will begin charging for self-hosted action runners on March 2026](https://github.blog/changelog/2025-12-16-coming-soon-simpler-pricing-and-a-better-experience-for-github-actions/) (2025-12-16)
-- [FVWM-95](https://fvwm95.sourceforge.net/) (2025-12-16)
-- [Pricing Changes for GitHub Actions](https://resources.github.com/actions/2026-pricing-changes-for-github-actions/) (2025-12-16)
-- [Artie (YC S23) Is Hiring Senior Enterprise AES](https://www.ycombinator.com/companies/artie/jobs/HyaHWUs-senior-enterprise-ae) (2025-12-16)
+- [Sei AI (YC W22) Is Hiring](https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-llm-engineer-mid-senior) (2025-12-17)
+- [Americans overestimate how many social media users post harmful content](https://academic.oup.com/pnasnexus/article/4/12/pgaf310/8377954?login=false) (2025-12-16)
+- [Dafny: Verification-Aware Programming Language](https://dafny.org/) (2025-12-16)
+- [I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours](https://simonwillison.net/2025/Dec/15/porting-justhtml/) (2025-12-16)
+- [No AI* Here – A Response to Mozilla's Next Chapter](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/) (2025-12-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl) (2025-12-16)
-- [OpenAI’s new flagship image generator AI is here](https://www.theverge.com/ai-artificial-intelligence/845558/openais-new-flagship-image-generation-model-gpt-image-1-5) (2025-12-16)
-- [Google wants its AI assistant CC to replace your morning scroll](https://www.theverge.com/news/845280/google-cc-morning-briefing-gemini-ai-agent) (2025-12-16)
-- [What 1,000 pages of documents tell us about DOGE](https://www.theverge.com/policy/845063/fcc-doge-foia-brendan-carr-senate-hearing) (2025-12-16)
-- [Ghost of Yōtei studio Sucker Punch is getting new leadership](https://www.theverge.com/news/845573/sony-playstation-sucker-punch-leadership) (2025-12-16)
+- [Arcade1Up isn&#8217;t dead, maybe](https://www.theverge.com/news/846034/arcade1up-basic-fun-dead-home-arcade) (2025-12-17)
+- [How Silicon Valley turned Trump into a fellow broligarch](https://www.theverge.com/column/845955/donald-trump-big-tech-2025) (2025-12-17)
+- [Alexa Plus’ website is live for some users](https://www.theverge.com/news/845678/alexa-dot-com-alexa-plus-website-live) (2025-12-16)
+- [Samsung’s 2026 Micro RGB LED TVs can actually fit in your living room](https://www.theverge.com/news/845760/samsung-micro-rgb-led-ces-2026) (2025-12-16)
+- [‘Twitter never left:’ X sues Operation Bluebird for trademark infringement](https://www.theverge.com/news/845882/x-corp-operation-bluebird-twitter-lawsuit-trademark-infringement) (2025-12-16)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Texas sues biggest TV makers, alleging smart TVs spy on users without consent](https://arstechnica.com/tech-policy/2025/12/texas-sues-biggest-tv-makers-alleging-smart-tvs-spy-on-users-without-consent/) (2025-12-16)
+- [The $4.3 billion space telescope Trump tried to cancel is now complete](https://arstechnica.com/space/2025/12/the-4-3-billion-space-telescope-trump-tried-to-cancel-is-now-complete/) (2025-12-16)
+- [Senators count the shady ways data centers pass energy costs on to Americans](https://arstechnica.com/tech-policy/2025/12/shady-data-center-deals-doom-americans-to-higher-energy-bills-senators-say/) (2025-12-16)
+- [Software leaks point to the first Apple Silicon “iMac Pro,” among other devices](https://arstechnica.com/gadgets/2025/12/leaked-debug-kit-suggests-apple-is-testing-a-new-imac-pro-among-many-other-macs/) (2025-12-16)
 - [Reporter suggests Half-Life 3 will be a Steam Machine launch title](https://arstechnica.com/gaming/2025/12/journalist-insists-half-life-3-will-launch-with-steam-machine-in-spring-2026/) (2025-12-16)
-- [Utah leaders hinder efforts to develop solar energy supply](https://arstechnica.com/science/2025/12/utah-leaders-hinder-efforts-to-develop-solar-energy-supply/) (2025-12-16)
-- [2026 Mercedes CLA first drive: Entry level doesn’t mean basic](https://arstechnica.com/cars/2025/12/2026-mercedes-cla-first-drive-entry-level-doesnt-mean-basic/) (2025-12-16)
-- [Ars Live Today: 3 former CDC leaders detail impacts of RFK Jr.’s anti-science agenda](https://arstechnica.com/health/2025/12/ars-live-3-former-cdc-leaders-detail-impacts-of-rfk-jr-s-anti-science-agenda/) (2025-12-16)
-- [Merriam-Webster’s word of the year delivers a dismissive verdict on junk AI content](https://arstechnica.com/ai/2025/12/merriam-webster-crowns-slop-word-of-the-year-as-ai-content-floods-internet/) (2025-12-15)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why Tools Break Agents (And How to Fix Them)](https://dev.to/dowhatmatters/why-tools-break-agents-and-how-to-fix-them-e28) (2025-12-16)
-- [[Boost]](https://dev.to/david_bussell14/-543b) (2025-12-16)
-- [I Wasted 6 Months Building Products Nobody Wanted. Then I Discovered the Real Problem.](https://dev.to/lukehanner/i-wasted-6-months-building-products-nobody-wanted-then-i-discovered-the-real-problem-4704) (2025-12-16)
-- [How to integrate Lemon Squeezy Payments into a chrome extension with webhooks](https://dev.to/notearthian/how-to-integrate-lemon-squeezy-payments-into-a-chrome-extension-with-webhooks-3ib9) (2025-12-16)
-- [Escaping Dependency Hell: How I Migrated a Legacy CRA App to React 19 & Vite](https://dev.to/imamifti056/escaping-dependency-hell-how-i-migrated-a-legacy-cra-app-to-react-19-vite-2pnf) (2025-12-16)
+- [From a Pyodide Wrapper to an Edge AI Engine](https://dev.to/s_b_yrrah/from-a-pyodide-wrapper-to-an-edge-ai-engine-1ejl) (2025-12-17)
+- [GoGPU: From Idea to 100K Lines in Two Weeks — Building Go's GPU Ecosystem](https://dev.to/kolkov/gogpu-from-idea-to-100k-lines-in-two-weeks-building-gos-gpu-ecosystem-3b2) (2025-12-17)
+- [Building a Style-Aware AI Image Generator with Nano Bana, React, and Hono.](https://dev.to/magicnull/building-a-style-aware-ai-image-generator-with-nano-bana-react-and-hono-1a8d) (2025-12-17)
+- [Kavia v1.0.9: Interactive agents, SCM onboarding, and persistent code context](https://dev.to/kavita_kavia/kavia-v109-interactive-agents-scm-onboarding-and-persistent-code-context-3g92) (2025-12-17)
+- [How to Create a React App Using Vite (Step-by-Step Guide for Beginners)](https://dev.to/ahmad_mahboob/how-to-create-a-react-app-using-vite-step-by-step-guide-for-beginners-5eif) (2025-12-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [A Practical Guide to Python Enum for Developers](https://python.plainenglish.io/a-practical-guide-to-python-enum-for-developers-5b6440e90da7?source=rss------programming-5) (2025-12-16)
-- [The Missing Link in AI Automation: Why Model Context Protocol (MCP) Is the USB-C of AI](https://blog.stackademic.com/the-missing-link-in-ai-automation-why-model-context-protocol-mcp-is-the-usb-c-of-ai-c48b520b2364?source=rss------programming-5) (2025-12-16)
-- [Can ChatGPT Really Help Beginners Learn Python?](https://python.plainenglish.io/can-chatgpt-really-help-beginners-learn-python-b4086b850178?source=rss------programming-5) (2025-12-16)
-- [The Difference Between Task.Run and Task.StartNew That Actually Matters](https://blog.stackademic.com/the-difference-between-task-run-and-task-startnew-that-actually-matters-9a30dc8d3aae?source=rss------programming-5) (2025-12-16)
-- [10 Python Projects That Helped Me Build Better Habits](https://blog.stackademic.com/10-python-projects-that-helped-me-build-better-habits-1817aac5b31d?source=rss------programming-5) (2025-12-16)
+- [How Working in Technical Support Prepared Me for Software Development](https://medium.com/@kescoriolan/how-working-in-technical-support-prepared-me-for-software-development-201a34c814b1?source=rss------programming-5) (2025-12-17)
+- [6 Essential AI Tools Developers Should Use in 2026](https://medium.com/@sunil17bbmp/6-essential-ai-tools-developers-should-use-in-2026-7b2ce385117c?source=rss------programming-5) (2025-12-17)
+- [Monotonic Stack Tricks in Java](https://medium.com/@AlexanderObregon/monotonic-stack-tricks-in-java-43279b4cc11f?source=rss------programming-5) (2025-12-17)
+- [Seu app React Native não é lento. Ele só está mal organizado.](https://medium.com/@viniciusvibrich/seu-app-react-native-n%C3%A3o-%C3%A9-lento-ele-s%C3%B3-est%C3%A1-mal-organizado-d4b5af4abf1c?source=rss------programming-5) (2025-12-17)
+- [Being Alive Is the Greatest Blessing — If You Learn to Read the Pattern](https://medium.com/@fsxwdr/being-alive-is-the-greatest-blessing-if-you-learn-to-read-the-pattern-db29faf6bd10?source=rss------programming-5) (2025-12-16)
 
 </details>
 
@@ -273,11 +273,11 @@
 <details>
 <summary>💳 Stripe Blog</summary>
 
+- [PayTo available in Australia](https://stripe.com/payment-method/payto) (2025-12-15)
 - [Introducing the Agentic Commerce Suite: A complete solution for selling on AI agents](https://stripe.com/blog/agentic-commerce-suite) (2025-12-11)
 - [Analyzing how SaaS platforms are shipping payments and finance products in days](https://stripe.com/blog/analyzing-how-saas-platforms-are-shipping-payments-and-finance-products-in-days) (2025-12-04)
 - [New features to help SaaS platforms manage risk and stay compliant ](https://stripe.com/blog/new-features-to-help-saas-platforms-manage-risk-and-stay-compliant) (2025-12-02)
 - [Create new monetization opportunities with Stripe Billing’s recent upgrades](https://stripe.com/blog/create-new-monetization-opportunities-with-recent-stripe-billing-upgrades) (2025-11-11)
-- [Building for the next wave of app monetization](https://stripe.com/blog/building-for-the-next-wave-of-app-monetization) (2025-11-04)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [DataGrip turns 10. Hidden gems of DataGrip.](https://blog.jetbrains.com/datagrip/2025/12/16/datagrip-turns-10-hidden-gems-of-datagrip/) (2025-12-16)
 - [Kotlin 2.3.0 Released](https://blog.jetbrains.com/kotlin/2025/12/kotlin-2-3-0-released/) (2025-12-16)
 - [Rust vs C++: competition or evolution in systems programming for 2026](https://blog.jetbrains.com/rust/2025/12/16/rust-vs-cpp-comparison-for-2026/) (2025-12-16)
 - [Agents, Protocols, and Why We’re Not Playing Favorites](https://blog.jetbrains.com/ai/2025/12/agents-protocols-and-why-we-re-not-playing-favorites/) (2025-12-16)
 - [TeamCity 2025.11.1 Is Now Available](https://blog.jetbrains.com/teamcity/2025/12/teamcity-2025-11-1-bug-fix/) (2025-12-15)
-- [How to Tame Your Flaky Tests in TeamCity](https://blog.jetbrains.com/teamcity/2025/12/how-to-tame-flaky-tests/) (2025-12-15)
 
 </details>
 
@@ -482,11 +482,11 @@ https://www.twilio.com/en-us/blog/developers/community/build-a-patient-reminder-
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
+- [B2C Commerce Observability for Composable Storefronts](https://developer.salesforce.com/blogs/2025/12/b2c-commerce-observability-for-composable-storefronts.html) (2025-12-16)
 - [Salesforce DX MCPを使った、Lightning Webコンポーネントのバイブコーディング](https://developer.salesforce.com/blogs/2025/12/jp-vibe-code-lightning-web-components-with-salesforce-dx-mcp.html) (2025-12-16)
 - [【Agentforce Hackathon Tokyo】第 3 位 キットアライブ: Agentforce と Slack で実現する「自律型移住支援プラットフォーム」](https://developer.salesforce.com/blogs/2025/12/%e3%80%90agentforce-hackathon-tokyo%e3%80%91%e7%ac%ac-3-%e4%bd%8d-%e3%82%ad%e3%83%83%e3%83%88%e3%82%a2%e3%83%a9%e3%82%a4%e3%83%96-agentforce-%e3%81%a8-slack-%e3%81%a7%e5%ae%9f%e7%8f%be%e3%81%99.html) (2025-12-15)
 - [Five Pro Tips for Using Agentforce Vibes](https://developer.salesforce.com/blogs/2025/12/five-pro-tips-for-using-agentforce-vibes.html) (2025-12-11)
 - [The TDX 2026 Call for Participation Is Now Live](https://developer.salesforce.com/blogs/2025/12/the-tdx-2026-call-for-participation-is-now-live.html) (2025-12-10)
-- [The Seamless Handoff: Integrating Einstein Enhanced Bots with Agentforce Agents](https://developer.salesforce.com/blogs/2025/12/the-seamless-handoff-integrating-einstein-enhanced-bots-with-agentforce-agents.html) (2025-12-09)
 
 </details>
 
