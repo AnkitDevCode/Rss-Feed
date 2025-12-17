@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Weeks after raising $100M, investors pump another $180M into hot Indian startup MoEngage](https://techcrunch.com/2025/12/16/weeks-after-raising-100m-investors-pump-another-180m-into-hot-indian-startup-moengage/) (2025-12-17)
+- [Monzo board reportedly pushed out CEO Anil over IPO timing](https://techcrunch.com/2025/12/16/monzo-board-reportedly-pushed-out-ceo-anil-over-ipo-timing/) (2025-12-17)
 - [Tesla engaged in deceptive marketing for Autopilot and Full Self-Driving, judge rules](https://techcrunch.com/2025/12/16/tesla-engaged-in-deceptive-marketing-for-autopilot-and-full-self-driving-judge-rules/) (2025-12-17)
 - [How Luminar’s doomed Volvo deal helped drag the company into bankruptcy](https://techcrunch.com/2025/12/16/how-luminars-doomed-volvo-deal-helped-drag-the-company-into-bankruptcy/) (2025-12-16)
 - [WikiFlix shows us what Netflix would have been like 100 years ago](https://techcrunch.com/2025/12/16/wikiflix-shows-us-what-netflix-would-have-been-like-100-years-ago/) (2025-12-16)
-- [X updates its terms, files countersuit to lay claim to the ‘Twitter’ trademark after newcomer’s challenge](https://techcrunch.com/2025/12/16/x-updates-its-terms-files-countersuit-to-lay-claim-to-the-twitter-trademark-after-newcomers-challenge/) (2025-12-16)
-- [Study shows Instacart may be charging some shoppers 20% more for the same product](https://techcrunch.com/2025/12/16/study-shows-instacart-may-be-charging-some-shoppers-20-more-for-the-same-product/) (2025-12-16)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [FTX insider Caroline Ellison has been moved out of prison](https://www.businessinsider.com/caroline-ellison-prison-release-ftx-sam-bankman-fried-2025-12) (2025-12-17)
+- [A Guide to Magnetizing N48 Magnets in Ansys Maxwell](https://blog.ozeninc.com/resources/from-datasheet-to-demagnetization-a-guide-to-magnetizing-n48-magnets-in-ansys-maxwell) (2025-12-17)
+- [Introduction to Software Development Tooling (2024)](https://bernsteinbear.com/isdt/) (2025-12-17)
 - [Sei AI (YC W22) Is Hiring](https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-llm-engineer-mid-senior) (2025-12-17)
-- [Americans overestimate how many social media users post harmful content](https://academic.oup.com/pnasnexus/article/4/12/pgaf310/8377954?login=false) (2025-12-16)
-- [Dafny: Verification-Aware Programming Language](https://dafny.org/) (2025-12-16)
-- [I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours](https://simonwillison.net/2025/Dec/15/porting-justhtml/) (2025-12-16)
-- [No AI* Here – A Response to Mozilla's Next Chapter](https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/) (2025-12-16)
+- [Show HN: Learn Japanese contextually while browsing](https://lingoku.ai/learn-japanese) (2025-12-17)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Even Trump’s chief of staff was ‘aghast’ at Elon Musk’s deadly USAID cuts](https://www.theverge.com/policy/846054/elon-musk-susie-wiles-doge-usaid) (2025-12-17)
 - [Arcade1Up isn&#8217;t dead, maybe](https://www.theverge.com/news/846034/arcade1up-basic-fun-dead-home-arcade) (2025-12-17)
 - [How Silicon Valley turned Trump into a fellow broligarch](https://www.theverge.com/column/845955/donald-trump-big-tech-2025) (2025-12-17)
 - [Alexa Plus’ website is live for some users](https://www.theverge.com/news/845678/alexa-dot-com-alexa-plus-website-live) (2025-12-16)
 - [Samsung’s 2026 Micro RGB LED TVs can actually fit in your living room](https://www.theverge.com/news/845760/samsung-micro-rgb-led-ces-2026) (2025-12-16)
-- [‘Twitter never left:’ X sues Operation Bluebird for trademark infringement](https://www.theverge.com/news/845882/x-corp-operation-bluebird-twitter-lawsuit-trademark-infringement) (2025-12-16)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [From a Pyodide Wrapper to an Edge AI Engine](https://dev.to/s_b_yrrah/from-a-pyodide-wrapper-to-an-edge-ai-engine-1ejl) (2025-12-17)
-- [GoGPU: From Idea to 100K Lines in Two Weeks — Building Go's GPU Ecosystem](https://dev.to/kolkov/gogpu-from-idea-to-100k-lines-in-two-weeks-building-gos-gpu-ecosystem-3b2) (2025-12-17)
-- [Building a Style-Aware AI Image Generator with Nano Bana, React, and Hono.](https://dev.to/magicnull/building-a-style-aware-ai-image-generator-with-nano-bana-react-and-hono-1a8d) (2025-12-17)
-- [Kavia v1.0.9: Interactive agents, SCM onboarding, and persistent code context](https://dev.to/kavita_kavia/kavia-v109-interactive-agents-scm-onboarding-and-persistent-code-context-3g92) (2025-12-17)
-- [How to Create a React App Using Vite (Step-by-Step Guide for Beginners)](https://dev.to/ahmad_mahboob/how-to-create-a-react-app-using-vite-step-by-step-guide-for-beginners-5eif) (2025-12-17)
+- [15 AWS EMR Cost Optimization Tips to Slash Your EMR Spending (2025)](https://dev.to/chaos-genius/15-aws-emr-cost-optimization-tips-to-slash-your-emr-spending-2025-47g4) (2025-12-17)
+- [Advent of AI - Day 12: MCP Sampling](https://dev.to/nickytonline/advent-of-ai-day-12-mcp-sampling-29b4) (2025-12-17)
+- [I Completed 45 Lambda Function Exercises (And I'm Still a Beginner!)](https://dev.to/hejhdiss/i-completed-45-lambda-function-exercises-and-im-still-a-beginner-2m40) (2025-12-17)
+- [🚀Node.js Microservices: Zero to Cloud (Complete Hands-on Series)](https://dev.to/shafqat_awan_79b9dbd88cda/nodejs-microservices-zero-to-cloud-complete-hands-on-series-15oh) (2025-12-17)
+- [**Llamado a la Acción: Fortaleciendo el Cumplimiento Normati](https://dev.to/drcarlosruizviquez/llamado-a-la-accion-fortaleciendo-el-cumplimiento-normati-35j9) (2025-12-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How Working in Technical Support Prepared Me for Software Development](https://medium.com/@kescoriolan/how-working-in-technical-support-prepared-me-for-software-development-201a34c814b1?source=rss------programming-5) (2025-12-17)
-- [6 Essential AI Tools Developers Should Use in 2026](https://medium.com/@sunil17bbmp/6-essential-ai-tools-developers-should-use-in-2026-7b2ce385117c?source=rss------programming-5) (2025-12-17)
-- [Monotonic Stack Tricks in Java](https://medium.com/@AlexanderObregon/monotonic-stack-tricks-in-java-43279b4cc11f?source=rss------programming-5) (2025-12-17)
-- [Seu app React Native não é lento. Ele só está mal organizado.](https://medium.com/@viniciusvibrich/seu-app-react-native-n%C3%A3o-%C3%A9-lento-ele-s%C3%B3-est%C3%A1-mal-organizado-d4b5af4abf1c?source=rss------programming-5) (2025-12-17)
-- [Being Alive Is the Greatest Blessing — If You Learn to Read the Pattern](https://medium.com/@fsxwdr/being-alive-is-the-greatest-blessing-if-you-learn-to-read-the-pattern-db29faf6bd10?source=rss------programming-5) (2025-12-16)
+- [Performance Best Practices for Flutter Apps](https://medium.com/@yash22202/performance-best-practices-for-flutter-apps-f39f48db1ccf?source=rss------programming-5) (2025-12-17)
+- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-e80317a63e2b?source=rss------programming-5) (2025-12-17)
+- [12 Python Scripts I Wish I Had Known When I Was Still Copy-Pasting Everything](https://blog.stackademic.com/12-python-scripts-i-wish-i-had-known-when-i-was-still-copy-pasting-everything-b1be1bd882be?source=rss------programming-5) (2025-12-17)
+- [3 Moments When My Python Code Went Viral — and What I Learned From Each](https://python.plainenglish.io/3-moments-when-my-python-code-went-viral-and-what-i-learned-from-each-8f747e56ccb3?source=rss------programming-5) (2025-12-17)
+- [Most In-Demand Programming Courses at PNY Trainings in 2025](https://medium.com/@sobiapny/most-in-demand-programming-courses-at-pny-trainings-in-2025-b9051d44bf05?source=rss------programming-5) (2025-12-17)
 
 </details>
 
@@ -367,6 +367,11 @@ How to run Automated AMD Tests and Fine-Tune Twilio AMD for Accurate Voice Autom
 https://www.twilio.com/en-us/blog/developers/best-practices/automated-amd-tests-voice
 ) (2025-12-15)
 - [
+Build a Twilio SMS + Microsoft Teams Integration
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/build-twilio-sms-microsoft-teams-integration
+) (2025-12-15)
+- [
 Generating Synthetic Call Data to Test Twilio Voice and Conversational Intelligence and Segment Integration
 ](
 https://www.twilio.com/en-us/blog/developers/best-practices/synthetic-call-data-conversational-intelligence-segment-voice
@@ -380,11 +385,6 @@ https://www.twilio.com/en-us/blog/insights/rendering-impacts-reputation
 Twilio Health Score for Messaging and Personalized Recommendations are now GA
 ](
 https://www.twilio.com/en-us/blog/products/launches/health-score-recommendations-generally-available
-) (2025-12-09)
-- [
-Build a Patient Reminder System with Go and Twilio
-](
-https://www.twilio.com/en-us/blog/developers/community/build-a-patient-reminder-system-with-go-and-twilio
 ) (2025-12-09)
 
 </details>
@@ -483,10 +483,10 @@ https://www.twilio.com/en-us/blog/developers/community/build-a-patient-reminder-
 <summary>☁️ Salesforce Developer</summary>
 
 - [B2C Commerce Observability for Composable Storefronts](https://developer.salesforce.com/blogs/2025/12/b2c-commerce-observability-for-composable-storefronts.html) (2025-12-16)
+- [Agentforce 360の新機能で、AIエージェントを構築し、最適化](https://developer.salesforce.com/blogs/2025/12/jp-build-and-optimize-agents-with-new-agentforce-360-features.html) (2025-12-16)
 - [Salesforce DX MCPを使った、Lightning Webコンポーネントのバイブコーディング](https://developer.salesforce.com/blogs/2025/12/jp-vibe-code-lightning-web-components-with-salesforce-dx-mcp.html) (2025-12-16)
 - [【Agentforce Hackathon Tokyo】第 3 位 キットアライブ: Agentforce と Slack で実現する「自律型移住支援プラットフォーム」](https://developer.salesforce.com/blogs/2025/12/%e3%80%90agentforce-hackathon-tokyo%e3%80%91%e7%ac%ac-3-%e4%bd%8d-%e3%82%ad%e3%83%83%e3%83%88%e3%82%a2%e3%83%a9%e3%82%a4%e3%83%96-agentforce-%e3%81%a8-slack-%e3%81%a7%e5%ae%9f%e7%8f%be%e3%81%99.html) (2025-12-15)
 - [Five Pro Tips for Using Agentforce Vibes](https://developer.salesforce.com/blogs/2025/12/five-pro-tips-for-using-agentforce-vibes.html) (2025-12-11)
-- [The TDX 2026 Call for Participation Is Now Live](https://developer.salesforce.com/blogs/2025/12/the-tdx-2026-call-for-participation-is-now-live.html) (2025-12-10)
 
 </details>
 
