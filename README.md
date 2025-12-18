@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [More than half of researchers now use AI for peer review, often against guidance](https://www.nature.com/articles/d41586-025-04066-5) (2025-12-18)
-- [Judge hints Vizio TV buyers may have rights to source code licensed under GPL](https://www.theregister.com/2025/12/05/vizio_gpl_source_code_ruling/) (2025-12-18)
-- [Ask HN: Those making $500/month on side projects in 2025 – Show and tell](https://news.ycombinator.com/item?id=46307973) (2025-12-18)
-- [TikTok unlawfully tracks shopping habits and use of dating apps?](https://noyb.eu/en/tiktok-unlawfully-tracks-your-shopping-habits-and-your-use-dating-apps) (2025-12-18)
-- [Ask HN: Does anyone understand how Hacker News works?](https://news.ycombinator.com/item?id=46307306) (2025-12-17)
+- [Hightouch (YC S19) Is Hiring](https://hightouch.com/careers) (2025-12-18)
+- [A school locked down after AI flagged a gun. It was a clarinet](https://www.washingtonpost.com/nation/2025/12/17/ai-gun-school-detection/) (2025-12-18)
+- [Creating apps like Signal could be 'hostile activity' claims UK watchdog](https://www.techradar.com/vpn/vpn-privacy-security/creating-apps-like-signal-or-whatsapp-could-be-hostile-activity-claims-uk-watchdog) (2025-12-18)
+- [America's Dirtiest Carbon Polluters, Mapped to Ridiculous Precision](https://gizmodo.com/americas-dirtiest-carbon-polluters-mapped-to-ridiculous-precision-2000700924) (2025-12-18)
+- [We Let AI Run Our Office Vending Machine. It Lost Hundreds of Dollars](https://www.wsj.com/tech/ai/anthropic-claude-ai-vending-machine-agent-b7e84e34) (2025-12-18)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Apple opens iOS to third-party app stores in Japan](https://www.theverge.com/news/847149/apple-third-party-app-stores-payment-processing-ios-japan) (2025-12-18)
+- [Kuxiu’s S3 MagSafe power bank is bigger and better and probably won’t explode](https://www.theverge.com/reviews/846094/kuxiu-s3-solid-state-power-bank-review) (2025-12-18)
+- [Cowboy saddles up with a new owner](https://www.theverge.com/news/847097/cowboy-acquired-by-rebirth-recycles-bankruptcy) (2025-12-18)
 - [The ChatGPT app store is here](https://www.theverge.com/news/847067/openai-app-store-directory-sdk-chatgpt) (2025-12-18)
 - [Sony&#8217;s legal battle against Tencent&#8217;s Horizon ‘clone’ is already over](https://www.theverge.com/news/847080/sony-tencent-lawsuit-horizon-clone-light-of-motiram-settlement) (2025-12-18)
-- [LG and Dolby partner to release the first FlexConnect soundbar](https://www.theverge.com/news/846608/lg-dolby-flexconnect-speakers-ces-2026) (2025-12-18)
-- [Snapchat’s new Quick Cut stitches a video together for you](https://www.theverge.com/news/846905/snap-snapchat-quick-cut-video-editor) (2025-12-17)
-- [The 44 best gift ideas for mom this holiday season](https://www.theverge.com/gadgets/802964/best-mom-gift-ideas) (2025-12-17)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The 8 worst technology flops of 2025](https://www.technologyreview.com/2025/12/18/1130106/the-8-worst-technology-flops-of-2025/) (2025-12-18)
+- [Can AI really help us discover new materials?](https://www.technologyreview.com/2025/12/18/1130102/ai-materials-discovery/) (2025-12-18)
 - [This Nobel Prize–winning chemist dreams of making water from thin air](https://www.technologyreview.com/2025/12/17/1129259/omar-yaghi-chemist-nobel-prize-crystals-water-air/) (2025-12-17)
 - [Creating psychological safety in the AI era](https://www.technologyreview.com/2025/12/16/1125899/creating-psychological-safety-in-the-ai-era/) (2025-12-16)
 - [The Download: why 2025 has been the year of AI hype correction, and fighting GPS jamming](https://www.technologyreview.com/2025/12/16/1129944/the-download-why-2025-has-been-the-year-of-ai-hype-correction-and-fighting-gps-jamming/) (2025-12-16)
-- [Why it’s time to reset our expectations for AI](https://www.technologyreview.com/2025/12/16/1129946/why-its-time-to-reset-our-expectations-for-ai/) (2025-12-16)
-- [Quantum navigation could solve the military’s GPS jamming problem](https://www.technologyreview.com/2025/12/16/1129887/quantum-navigation-militarys-gps-jamming-problem/) (2025-12-16)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Day 68: Python Unique Paths in Grid - O(m*n) DP Solution for Robot Paths (LeetCode #62 Vibes)](https://dev.to/shahrouzlogs/day-68-python-unique-paths-in-grid-omn-dp-solution-for-robot-paths-leetcode-62-vibes-2bmh) (2025-12-18)
-- [ChatGPT Hacks: How Developers Actually Use It in Real Projects](https://dev.to/farhadrahimiklie/chatgpt-hacks-how-developers-actually-use-it-in-real-projects-20fg) (2025-12-18)
-- [Conditional Generative Adversarial Nets](https://dev.to/paperium/conditional-generative-adversarial-nets-479g) (2025-12-18)
-- [Aliaser – elegant aliases for models, Livewire and DTO in Laravel](https://dev.to/sindyko/aliaser-elegant-aliases-for-models-livewire-and-dto-in-laravel-4987) (2025-12-18)
-- [Understanding AI Talking Photos: How AI Turns Images into Speaking Videos](https://dev.to/herman99630/understanding-ai-talking-photos-how-ai-turns-images-into-speaking-videos-ghh) (2025-12-18)
+- [Why "Are you busy?" Is The Wrong Question](https://dev.to/linkbenjamin/why-are-you-busy-is-the-wrong-question-3109) (2025-12-18)
+- [Design systems that scale: the case for composability](https://dev.to/measuredco/design-systems-that-scale-the-case-for-composability-2npn) (2025-12-18)
+- [Didn't know my new portfolio site updates weren't pushing updates until earlier. Wew. I should take email notifications on deployment seriously https://x.com/highcenburg/status/2001630048315662466](https://dev.to/highcenburg/didnt-know-my-new-portfolio-site-updates-werent-pushing-updates-until-earlier-wew-i-should-take-imd) (2025-12-18)
+- [[Boost]](https://dev.to/malekwael/-48c8) (2025-12-18)
+- [Visitfolio vs Vercel: Which One Should You Actually Use?](https://dev.to/imtaslim/visitfolio-vs-vercel-which-one-should-you-actually-use-n4e) (2025-12-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [13 Free AI Templates to Build Clean, Fast, Modern Websites](https://medium.com/@alphadesignglobal/13-free-ai-templates-to-build-clean-fast-modern-websites-8fa92a387739?source=rss------programming-5) (2025-12-18)
-- [Flutter for Android Developers: A Comprehensive Migration Guide](https://medium.com/@yash22202/flutter-for-android-developers-a-comprehensive-migration-guide-9df174dddb6b?source=rss------programming-5) (2025-12-18)
-- [Stop Building Chatbots. Start Building Real AI Agents with MCP](https://medium.com/@premchandak_11/stop-building-chatbots-start-building-real-ai-agents-with-mcp-d7549b6a0a59?source=rss------programming-5) (2025-12-18)
-- [The 100x Engineer is a Myth. The 100x Process is Real.](https://medium.com/@ofriperetzdev/the-100x-engineer-is-a-myth-the-100x-process-is-real-3e1ce9636bcf?source=rss------programming-5) (2025-12-18)
-- [The New Kid on the Block: Java’s Virtual Threads (Project Loom)](https://mammadyahya.medium.com/the-new-kid-on-the-block-javas-virtual-threads-project-loom-41ea0214d00f?source=rss------programming-5) (2025-12-18)
+- [TA-Lib in Python: The Gold Standard for Technical Analysis](https://medium.com/coding-nexus/ta-lib-in-python-the-gold-standard-for-technical-analysis-f7f16f577ca0?source=rss------programming-5) (2025-12-18)
+- [I Built 5 Tiny Python Scripts Out of Laziness — They Ended Up Changing How I Code](https://python.plainenglish.io/i-built-5-tiny-python-scripts-out-of-laziness-they-ended-up-changing-how-i-code-053a75751763?source=rss------programming-5) (2025-12-18)
+- [5 Python Libraries I Ignored for Years (Until One Project Changed My Mind)](https://medium.com/@mariaali056/5-python-libraries-i-ignored-for-years-until-one-project-changed-my-mind-864a71da80e9?source=rss------programming-5) (2025-12-18)
+- [I Tried Learning Python Faster Using 5 Libraries — One Made Everything Click](https://levelup.gitconnected.com/i-tried-learning-python-faster-using-5-libraries-one-made-everything-click-567b6669da79?source=rss------programming-5) (2025-12-18)
+- [Rust is King, But is Rewriting `sort` Really the Answer? An Opinion Piece on Linux’s New Code Rush.](https://medium.com/@anshusinghal703/rust-is-king-but-is-rewriting-sort-really-the-answer-an-opinion-piece-on-linuxs-new-code-rush-7cab214eecbe?source=rss------programming-5) (2025-12-18)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 - [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
 - [Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025](https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/) (2025-12-10)
 - [Microsoft’s commitment to supporting cloud infrastructure demand in the United States](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/) (2025-12-09)
-- [New options for AI-powered innovation, resiliency, and control with Microsoft Azure](https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/) (2025-12-03)
 
 </details>
 
@@ -504,11 +504,11 @@ https://www.twilio.com/en-us/blog/what-does-otp-mean
 <details>
 <summary>💬 Slack API</summary>
 
-- [Why Your AI Is Advancing — and Your Enterprise Isn’t](https://slack.com/blog/transformation/five-friction-points-enterprise-ai) (2025-12-16)
-- [Enterprise Search: How to Find Anything at Work with One Query](https://slack.com/blog/productivity/enterprise-search) (2025-12-15)
-- [AI Knowledge Base: The Complete Guide for 2026](https://slack.com/blog/productivity/what-is-an-ai-knowledge-base-tools-features-and-best-practices) (2025-12-15)
 - [The Rise of Software Engineering Agents in Slack](https://slack.com/blog/developers/coding-agents-in-slack) (2025-12-11)
 - [11 Best AI Workflow Automation Tools for 2026](https://slack.com/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows) (2025-12-10)
+- [How to Maximize a Workflow Management System for Efficiency](https://slack.com/blog/productivity/what-is-workflow-management-2) (2025-12-10)
+- [GovSlack Achieves Department of Defense IL4 Authorization](https://slack.com/blog/news/govslack-achieves-department-of-defense-il4-authorization) (2025-12-09)
+- [Five proven employee engagement strategies to motivate your team](https://slack.com/blog/collaboration/five-proven-employee-engagement-strategies-to-motivate-your-team) (2025-12-01)
 
 </details>
 
@@ -559,22 +559,22 @@ https://www.twilio.com/en-us/blog/what-does-otp-mean
 <details>
 <summary>🤖 AI News</summary>
 
+- [AI in Human Resources: the real operational impact](https://www.artificialintelligence-news.com/news/hr-ai-in-human-resources-the-real-operational-impact/) (2025-12-18)
+- [Wall Street’s AI gains are here — banks plan for fewer people](https://www.artificialintelligence-news.com/news/wall-street-ai-gains-are-here-banks-plan-for-fewer-people/) (2025-12-18)
+- [Ensuring effective AI in insurance operations](https://www.artificialintelligence-news.com/news/insurance-ai-use-operational-differences-experienced-by-the-big-players/) (2025-12-18)
+- [AstraZeneca leads big pharma’s AI clinical trials revolution with real-world patient impact](https://www.artificialintelligence-news.com/news/astrazeneca-ai-clinical-trials-2025/) (2025-12-18)
 - [Roblox brings AI into the Studio to speed up game creation](https://www.artificialintelligence-news.com/news/roblox-brings-ai-into-the-studio-to-speed-up-game-creation/) (2025-12-17)
-- [What AI search tools mean for the future of SEO specialists](https://www.artificialintelligence-news.com/news/what-ai-search-tools-mean-for-the-future-of-seo-specialists/) (2025-12-16)
-- [Mining business learnings for AI deployment](https://www.artificialintelligence-news.com/news/mining-ai-gives-businesses-food-for-thought-in-real-life-deployments-of-oi/) (2025-12-16)
-- [BNP Paribas introduces AI tool for investment banking](https://www.artificialintelligence-news.com/news/bnp-paribas-introduces-ai-tool-for-investment-banking/) (2025-12-16)
-- [JPMorgan Chase AI strategy: US$18B bet paying off ](https://www.artificialintelligence-news.com/news/jpmorgan-chase-ai-strategy-2025/) (2025-12-16)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Generating Artwork in Python Inspired by Hirst’s Million-Dollar Spots Painting](https://towardsdatascience.com/recreating-hirsts-million-dollars-spots-painting/) (2025-12-18)
 - [A Practical Toolkit for Time Series Anomaly Detection, Using Python](https://towardsdatascience.com/a-practical-toolkit-for-time-series-anomaly-detection-using-python/) (2025-12-17)
 - [The Machine Learning “Advent Calendar” Day 17: Neural Network Regressor in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-17-neural-network-regressor-in-excel/) (2025-12-17)
 - [Production-Grade Observability for AI Agents: A Minimal-Code, Configuration-First Approach](https://towardsdatascience.com/production-grade-observability-for-ai-agents-a-minimal-code-configuration-first-approach/) (2025-12-17)
 - [3 Techniques to Effectively Utilize AI Agents for Coding](https://towardsdatascience.com/3-techniques-to-effectively-utilize-ai-agents-for-coding/) (2025-12-17)
-- [When (Not) to Use Vector DB](https://towardsdatascience.com/when-not-to-use-vector-db/) (2025-12-16)
 
 </details>
 
