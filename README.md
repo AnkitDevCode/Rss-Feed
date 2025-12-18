@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Instacart’s AI-driven pricing tool attracted attention — now the FTC has questions](https://techcrunch.com/2025/12/17/instacarts-ai-driven-pricing-tool-attracted-attention-now-the-ftc-has-questions/) (2025-12-18)
 - [Adobe hit with proposed class-action, accused of misusing authors’ work in AI training](https://techcrunch.com/2025/12/17/adobe-hit-with-proposed-class-action-accused-of-misusing-authors-work-in-ai-training/) (2025-12-18)
 - [Jared Isaacman confirmed as next head of NASA](https://techcrunch.com/2025/12/17/jared-isaacman-confirmed-as-next-head-of-nasa/) (2025-12-17)
 - [YouTube to pull music data from Billboard’s charts because it doesn’t like its ranking formula](https://techcrunch.com/2025/12/17/youtube-to-pull-music-data-from-billboards-charts-because-it-doesnt-like-its-ranking-formula/) (2025-12-17)
 - [YouTube will stream the Oscars — exclusively — beginning in 2029](https://techcrunch.com/2025/12/17/youtube-will-stream-the-oscars-exclusively-beginning-in-2029/) (2025-12-17)
-- [Meta is pausing its dream of sharing Quest’s Horizon OS with third-party headset makers](https://techcrunch.com/2025/12/17/meta-is-pausing-its-dream-of-sharing-quests-horizon-os-with-third-party-headset-makers/) (2025-12-17)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [TikTok unlawfully tracks your shopping habits – and your use of dating apps](https://noyb.eu/en/tiktok-unlawfully-tracks-your-shopping-habits-and-your-use-dating-apps) (2025-12-18)
-- [Explaining the Widening Divides in US Midlife Mortality: Is There a Smoking Gun?](https://www.nber.org/papers/w34553) (2025-12-17)
-- [Gut Bacteria from Amphibians and Reptiles Achieve Complete Tumor Elimination](https://www.jaist.ac.jp/english/whatsnew/press/2025/12/17-1.html) (2025-12-17)
-- [Developers can now submit apps to ChatGPT](https://openai.com/index/developers-can-now-submit-apps-to-chatgpt/) (2025-12-17)
-- [Cloudflare Radar 2025 Year in Review](https://radar.cloudflare.com/year-in-review/2025) (2025-12-17)
+- [More than half of researchers now use AI for peer review, often against guidance](https://www.nature.com/articles/d41586-025-04066-5) (2025-12-18)
+- [Judge hints Vizio TV buyers may have rights to source code licensed under GPL](https://www.theregister.com/2025/12/05/vizio_gpl_source_code_ruling/) (2025-12-18)
+- [Ask HN: Those making $500/month on side projects in 2025 – Show and tell](https://news.ycombinator.com/item?id=46307973) (2025-12-18)
+- [TikTok unlawfully tracks shopping habits and use of dating apps?](https://noyb.eu/en/tiktok-unlawfully-tracks-your-shopping-habits-and-your-use-dating-apps) (2025-12-18)
+- [Ask HN: Does anyone understand how Hacker News works?](https://news.ycombinator.com/item?id=46307306) (2025-12-17)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The ChatGPT app store is here](https://www.theverge.com/news/847067/openai-app-store-directory-sdk-chatgpt) (2025-12-18)
+- [Sony&#8217;s legal battle against Tencent&#8217;s Horizon ‘clone’ is already over](https://www.theverge.com/news/847080/sony-tencent-lawsuit-horizon-clone-light-of-motiram-settlement) (2025-12-18)
+- [LG and Dolby partner to release the first FlexConnect soundbar](https://www.theverge.com/news/846608/lg-dolby-flexconnect-speakers-ces-2026) (2025-12-18)
 - [Snapchat’s new Quick Cut stitches a video together for you](https://www.theverge.com/news/846905/snap-snapchat-quick-cut-video-editor) (2025-12-17)
-- [Billionaire Jared Isaacman confirmed as new head of NASA](https://www.theverge.com/news/846903/billionaire-jared-isaacman-confirmed-as-new-head-of-nasa) (2025-12-17)
-- [Brendan Carr doesn’t regret his threats to broadcasters](https://www.theverge.com/policy/846845/fcc-senate-commerce-oversight-hearing-brendan-carr) (2025-12-17)
-- [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide) (2025-12-17)
-- [Meta pauses third-party Horizon VR headsets program](https://www.theverge.com/news/846762/meta-vr-headsets-third-party-program-horizon-os) (2025-12-17)
+- [The 44 best gift ideas for mom this holiday season](https://www.theverge.com/gadgets/802964/best-mom-gift-ideas) (2025-12-17)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [NASA finally—and we really do mean it this time—has a full-time leader](https://arstechnica.com/space/2025/12/nasa-finally-and-we-really-do-mean-it-this-time-has-a-full-time-leader/) (2025-12-18)
 - [Physicists 3D-printed a Christmas tree of ice](https://arstechnica.com/science/2025/12/physicists-3d-printed-a-christmas-tree-of-ice/) (2025-12-17)
 - [OpenAI’s new ChatGPT image generator makes faking photos easy](https://arstechnica.com/ai/2025/12/openais-new-chatgpt-image-generator-makes-faking-photos-easy/) (2025-12-17)
 - [Man sues cops who jailed him for 37 days for trolling a Charlie Kirk vigil](https://arstechnica.com/tech-policy/2025/12/man-sues-cops-who-jailed-him-for-37-days-for-trolling-a-charlie-kirk-vigil/) (2025-12-17)
 - [FCC chair scrubs website after learning it called FCC an “independent agency”](https://arstechnica.com/tech-policy/2025/12/fcc-deletes-independent-agency-from-website-as-carr-defends-allegiance-to-trump/) (2025-12-17)
-- [Donut Lab’s hub motor meets WATT’s battery to create new EV skateboard](https://arstechnica.com/cars/2025/12/donut-labs-hub-motor-meets-watts-battery-to-create-new-ev-skateboard/) (2025-12-17)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [MindsEye & MindScript: A Ledger-First Cognitive Architecture Technical Whitepaper v5.0](https://dev.to/peacebinflow/mindseye-mindscript-a-ledger-first-cognitive-architecture-technical-whitepaper-v50-4hdl) (2025-12-18)
-- [Build Once, Reuse Forever: Why Developers Need Customizable Tools & Templates for Faster, Smarter Projects](https://dev.to/abxe/build-once-reuse-forever-why-developers-need-customizable-tools-templates-for-faster-smarter-15h7) (2025-12-18)
-- [Musashi vs Kojiro: What Software Architecture Can Learn from Fundamentals](https://dev.to/ramkashyap2050/musashi-vs-kojiro-what-software-architecture-can-learn-from-fundamentals-4d29) (2025-12-18)
-- [Seven Core Activities of Great Digital Teams (RAADDDR)](https://dev.to/olliejc/seven-core-activities-of-great-digital-teams-raadddr-4bl0) (2025-12-18)
-- [Building a Thinking Photo Editor: Migrate to Gemini 3 Pro Image with Angular and Firebase](https://dev.to/railsstudent/building-a-thinking-photo-editor-migrate-to-gemini-3-pro-image-with-angular-and-firebase-1pdk) (2025-12-18)
+- [Day 68: Python Unique Paths in Grid - O(m*n) DP Solution for Robot Paths (LeetCode #62 Vibes)](https://dev.to/shahrouzlogs/day-68-python-unique-paths-in-grid-omn-dp-solution-for-robot-paths-leetcode-62-vibes-2bmh) (2025-12-18)
+- [ChatGPT Hacks: How Developers Actually Use It in Real Projects](https://dev.to/farhadrahimiklie/chatgpt-hacks-how-developers-actually-use-it-in-real-projects-20fg) (2025-12-18)
+- [Conditional Generative Adversarial Nets](https://dev.to/paperium/conditional-generative-adversarial-nets-479g) (2025-12-18)
+- [Aliaser – elegant aliases for models, Livewire and DTO in Laravel](https://dev.to/sindyko/aliaser-elegant-aliases-for-models-livewire-and-dto-in-laravel-4987) (2025-12-18)
+- [Understanding AI Talking Photos: How AI Turns Images into Speaking Videos](https://dev.to/herman99630/understanding-ai-talking-photos-how-ai-turns-images-into-speaking-videos-ghh) (2025-12-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Lei Jun: From Hard-Core Programmer to Systems Architect](https://medium.com/@cathylai_40144/lei-jun-from-hard-core-programmer-to-systems-architect-f9973b6a44c8?source=rss------programming-5) (2025-12-18)
-- [When Machines Pay Machines](https://medium.com/@davidngene/when-machines-pay-machines-a458df1b5109?source=rss------programming-5) (2025-12-18)
-- [10 Essential Spring Boot Utility Classes You Should Know (Part 1)](https://medium.com/@sunil17bbmp/10-essential-spring-boot-utility-classes-you-should-know-part-1-93c03791ddfb?source=rss------programming-5) (2025-12-18)
-- [How I Use Rotator Traffic to Validate MMO/Affiliate Offers Before Scaling (mini case study &…](https://medium.com/@stivmurugami/how-i-use-rotator-traffic-to-validate-mmo-affiliate-offers-before-scaling-mini-case-study-499d13487e06?source=rss------programming-5) (2025-12-18)
-- ["Arcangel Legrand - Brotherswagg: Business Agreements and Pricing for Collaborations and Concerts"](https://medium.com/@BrotherswaggStudioRecords/arcangel-legrand-brotherswagg-business-agreements-and-pricing-for-collaborations-and-concerts-d9cbddb3ed9f?source=rss------programming-5) (2025-12-18)
+- [13 Free AI Templates to Build Clean, Fast, Modern Websites](https://medium.com/@alphadesignglobal/13-free-ai-templates-to-build-clean-fast-modern-websites-8fa92a387739?source=rss------programming-5) (2025-12-18)
+- [Flutter for Android Developers: A Comprehensive Migration Guide](https://medium.com/@yash22202/flutter-for-android-developers-a-comprehensive-migration-guide-9df174dddb6b?source=rss------programming-5) (2025-12-18)
+- [Stop Building Chatbots. Start Building Real AI Agents with MCP](https://medium.com/@premchandak_11/stop-building-chatbots-start-building-real-ai-agents-with-mcp-d7549b6a0a59?source=rss------programming-5) (2025-12-18)
+- [The 100x Engineer is a Myth. The 100x Process is Real.](https://medium.com/@ofriperetzdev/the-100x-engineer-is-a-myth-the-100x-process-is-real-3e1ce9636bcf?source=rss------programming-5) (2025-12-18)
+- [The New Kid on the Block: Java’s Virtual Threads (Project Loom)](https://mammadyahya.medium.com/the-new-kid-on-the-block-javas-virtual-threads-project-loom-41ea0214d00f?source=rss------programming-5) (2025-12-18)
 
 </details>
 
@@ -152,11 +152,11 @@
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [Changes to iOS in Japan](https://developer.apple.com/news/?id=074b3wzz) (2025-12-17)
 - [New Requirements for Social Media Apps in Australia](https://developer.apple.com/news/?id=y1bckxf8) (2025-12-08)
 - [Hello Developer: December 2025](https://developer.apple.com/news/?id=mu3kfca2) (2025-12-04)
 - [App Store Award winners announced](https://developer.apple.com/news/?id=id45s69d) (2025-12-04)
 - [App Store Award finalists announced](https://developer.apple.com/news/?id=2d301eoy) (2025-11-19)
-- [Introducing the App Store Mini Apps Partner Program](https://developer.apple.com/news/?id=xcz1s7cz) (2025-11-13)
 
 </details>
 
@@ -482,11 +482,11 @@ https://www.twilio.com/en-us/blog/what-does-otp-mean
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
+- [【Agentforce Hackathon Tokyo】第 2 位 電通デジタル: Agentforce で実現する「次世代型シナリオプランニング」](https://developer.salesforce.com/blogs/2025/12/%e3%80%90agentforce-hackathon-tokyo%e3%80%91%e7%ac%ac-2-%e4%bd%8d-%e9%9b%bb%e9%80%9a%e3%83%87%e3%82%b8%e3%82%bf%e3%83%ab-agentforce-%e3%81%a7%e5%ae%9f%e7%8f%be%e3%81%99%e3%82%8b%e3%80%8c%e6%ac%a1.html) (2025-12-18)
 - [B2C Commerce Observability for Composable Storefronts](https://developer.salesforce.com/blogs/2025/12/b2c-commerce-observability-for-composable-storefronts.html) (2025-12-16)
 - [Agentforce 360の新機能で、AIエージェントを構築し、最適化](https://developer.salesforce.com/blogs/2025/12/jp-build-and-optimize-agents-with-new-agentforce-360-features.html) (2025-12-16)
 - [Salesforce DX MCPを使った、Lightning Webコンポーネントのバイブコーディング](https://developer.salesforce.com/blogs/2025/12/jp-vibe-code-lightning-web-components-with-salesforce-dx-mcp.html) (2025-12-16)
 - [【Agentforce Hackathon Tokyo】第 3 位 キットアライブ: Agentforce と Slack で実現する「自律型移住支援プラットフォーム」](https://developer.salesforce.com/blogs/2025/12/%e3%80%90agentforce-hackathon-tokyo%e3%80%91%e7%ac%ac-3-%e4%bd%8d-%e3%82%ad%e3%83%83%e3%83%88%e3%82%a2%e3%83%a9%e3%82%a4%e3%83%96-agentforce-%e3%81%a8-slack-%e3%81%a7%e5%ae%9f%e7%8f%be%e3%81%99.html) (2025-12-15)
-- [Five Pro Tips for Using Agentforce Vibes](https://developer.salesforce.com/blogs/2025/12/five-pro-tips-for-using-agentforce-vibes.html) (2025-12-11)
 
 </details>
 
@@ -504,11 +504,11 @@ https://www.twilio.com/en-us/blog/what-does-otp-mean
 <details>
 <summary>💬 Slack API</summary>
 
+- [Why Your AI Is Advancing — and Your Enterprise Isn’t](https://slack.com/blog/transformation/five-friction-points-enterprise-ai) (2025-12-16)
+- [Enterprise Search: How to Find Anything at Work with One Query](https://slack.com/blog/productivity/enterprise-search) (2025-12-15)
+- [AI Knowledge Base: The Complete Guide for 2026](https://slack.com/blog/productivity/what-is-an-ai-knowledge-base-tools-features-and-best-practices) (2025-12-15)
 - [The Rise of Software Engineering Agents in Slack](https://slack.com/blog/developers/coding-agents-in-slack) (2025-12-11)
 - [11 Best AI Workflow Automation Tools for 2026](https://slack.com/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows) (2025-12-10)
-- [How to Maximize a Workflow Management System for Efficiency](https://slack.com/blog/productivity/what-is-workflow-management-2) (2025-12-10)
-- [GovSlack Achieves Department of Defense IL4 Authorization](https://slack.com/blog/news/govslack-achieves-department-of-defense-il4-authorization) (2025-12-09)
-- [Five proven employee engagement strategies to motivate your team](https://slack.com/blog/collaboration/five-proven-employee-engagement-strategies-to-motivate-your-team) (2025-12-01)
 
 </details>
 
