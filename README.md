@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Facebook is testing a link posting limit for professional accounts and pages](https://techcrunch.com/2025/12/17/facebook-is-testing-a-link-posting-limit-for-professional-accounts-and-pages/) (2025-12-17)
-- [Amazon appoints longtime AWS exec Peter DeSantis to lead new AI org](https://techcrunch.com/2025/12/17/amazon-appoints-longtime-aws-exec-peter-desantis-to-lead-new-ai-org/) (2025-12-17)
-- [Rad Power Bikes files for bankruptcy and is looking to sell the business](https://techcrunch.com/2025/12/17/rad-power-bikes-files-for-bankruptcy-and-is-looking-to-sell-the-business/) (2025-12-17)
-- [Radiant Nuclear raises $300M for its semi-sized 1 MW reactor](https://techcrunch.com/2025/12/17/radiant-nuclear-raises-300m-for-its-semi-sized-1-mw-reactor/) (2025-12-17)
-- [Google launches Gemini 3 Flash, makes it the default model in the Gemini app](https://techcrunch.com/2025/12/17/google-launches-gemini-3-flash-makes-it-the-default-model-in-the-gemini-app/) (2025-12-17)
+- [Adobe hit with proposed class-action, accused of misusing authors’ work in AI training](https://techcrunch.com/2025/12/17/adobe-hit-with-proposed-class-action-accused-of-misusing-authors-work-in-ai-training/) (2025-12-18)
+- [Jared Isaacman confirmed as next head of NASA](https://techcrunch.com/2025/12/17/jared-isaacman-confirmed-as-next-head-of-nasa/) (2025-12-17)
+- [YouTube to pull music data from Billboard’s charts because it doesn’t like its ranking formula](https://techcrunch.com/2025/12/17/youtube-to-pull-music-data-from-billboards-charts-because-it-doesnt-like-its-ranking-formula/) (2025-12-17)
+- [YouTube will stream the Oscars — exclusively — beginning in 2029](https://techcrunch.com/2025/12/17/youtube-will-stream-the-oscars-exclusively-beginning-in-2029/) (2025-12-17)
+- [Meta is pausing its dream of sharing Quest’s Horizon OS with third-party headset makers](https://techcrunch.com/2025/12/17/meta-is-pausing-its-dream-of-sharing-quests-horizon-os-with-third-party-headset-makers/) (2025-12-17)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [FCC chair suggests agency isn't independent, word cut from mission statement](https://www.axios.com/2025/12/17/brendan-carr-fcc-independent-senate-testimony-website) (2025-12-17)
-- [Linux Kernel Rust Code Sees Its First CVE Vulnerability](https://www.phoronix.com/news/First-Linux-Rust-CVE) (2025-12-17)
-- [A Safer Container Ecosystem with Docker: Free Docker Hardened Images](https://www.docker.com/blog/docker-hardened-images-for-every-developer/) (2025-12-17)
-- [AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'](https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers) (2025-12-17)
-- [Flick (YC F25) Is Hiring Founding Engineer to Build Figma for AI Filmmaking](https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-founding-frontend-engineer) (2025-12-17)
+- [TikTok unlawfully tracks your shopping habits – and your use of dating apps](https://noyb.eu/en/tiktok-unlawfully-tracks-your-shopping-habits-and-your-use-dating-apps) (2025-12-18)
+- [Explaining the Widening Divides in US Midlife Mortality: Is There a Smoking Gun?](https://www.nber.org/papers/w34553) (2025-12-17)
+- [Gut Bacteria from Amphibians and Reptiles Achieve Complete Tumor Elimination](https://www.jaist.ac.jp/english/whatsnew/press/2025/12/17-1.html) (2025-12-17)
+- [Developers can now submit apps to ChatGPT](https://openai.com/index/developers-can-now-submit-apps-to-chatgpt/) (2025-12-17)
+- [Cloudflare Radar 2025 Year in Review](https://radar.cloudflare.com/year-in-review/2025) (2025-12-17)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Maximus is more important than ever in Fallout season 2](https://www.theverge.com/entertainment/846429/fallout-season-2-maximus-aaron-moten-interview) (2025-12-17)
-- [Tesla would have to rein in FSD under new Democratic bill](https://www.theverge.com/news/846387/level-2-operational-design-domain-markey-bill) (2025-12-17)
-- [Billionaires want data centers everywhere, including space](https://www.theverge.com/ai-artificial-intelligence/845453/space-data-centers-astronomers) (2025-12-17)
-- [ESPN is debuting a new data-filled Monday Night Football stream next week](https://www.theverge.com/news/846478/espn-monday-night-football-playbook-analytics) (2025-12-17)
-- [Mercedes-Benz discontinues feature that syncs music to driving](https://www.theverge.com/news/846367/mercedes-benz-discontinues-feature-that-syncs-music-to-driving) (2025-12-17)
+- [Snapchat’s new Quick Cut stitches a video together for you](https://www.theverge.com/news/846905/snap-snapchat-quick-cut-video-editor) (2025-12-17)
+- [Billionaire Jared Isaacman confirmed as new head of NASA](https://www.theverge.com/news/846903/billionaire-jared-isaacman-confirmed-as-new-head-of-nasa) (2025-12-17)
+- [Brendan Carr doesn’t regret his threats to broadcasters](https://www.theverge.com/policy/846845/fcc-senate-commerce-oversight-hearing-brendan-carr) (2025-12-17)
+- [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide) (2025-12-17)
+- [Meta pauses third-party Horizon VR headsets program](https://www.theverge.com/news/846762/meta-vr-headsets-third-party-program-horizon-os) (2025-12-17)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Trump admin threatens to break up major climate research center](https://arstechnica.com/science/2025/12/trump-admin-threatens-to-break-up-major-climate-research-center/) (2025-12-17)
-- [Google releases Gemini 3 Flash, promising improved intelligence and efficiency](https://arstechnica.com/google/2025/12/google-releases-gemini-3-flash-promising-improved-intelligence-and-efficiency/) (2025-12-17)
-- [Browser extensions with 8 million users collect extended AI conversations](https://arstechnica.com/security/2025/12/browser-extensions-with-8-million-users-collect-extended-ai-conversations/) (2025-12-17)
-- [Electric vehicles cause tension in the automotive aftermarket](https://arstechnica.com/cars/2025/12/how-is-ev-technology-being-accepted-by-the-aftermarket/) (2025-12-17)
-- [Twitter comeback bid draws lawsuit from Elon Musk’s X Corp](https://arstechnica.com/tech-policy/2025/12/twitter-comeback-bid-draws-lawsuit-from-elon-musks-x-corp/) (2025-12-17)
+- [Physicists 3D-printed a Christmas tree of ice](https://arstechnica.com/science/2025/12/physicists-3d-printed-a-christmas-tree-of-ice/) (2025-12-17)
+- [OpenAI’s new ChatGPT image generator makes faking photos easy](https://arstechnica.com/ai/2025/12/openais-new-chatgpt-image-generator-makes-faking-photos-easy/) (2025-12-17)
+- [Man sues cops who jailed him for 37 days for trolling a Charlie Kirk vigil](https://arstechnica.com/tech-policy/2025/12/man-sues-cops-who-jailed-him-for-37-days-for-trolling-a-charlie-kirk-vigil/) (2025-12-17)
+- [FCC chair scrubs website after learning it called FCC an “independent agency”](https://arstechnica.com/tech-policy/2025/12/fcc-deletes-independent-agency-from-website-as-carr-defends-allegiance-to-trump/) (2025-12-17)
+- [Donut Lab’s hub motor meets WATT’s battery to create new EV skateboard](https://arstechnica.com/cars/2025/12/donut-labs-hub-motor-meets-watts-battery-to-create-new-ev-skateboard/) (2025-12-17)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [🛡️ Building a Mini Cloud Security Posture Management (CSPM) Lab Using AWS Security Hub + AWS Config](https://dev.to/ldwit/building-a-mini-cloud-security-posture-management-cspm-lab-using-aws-security-hub-aws-config-3c8o) (2025-12-17)
-- [[Boost]](https://dev.to/david_bussell14/-3o35) (2025-12-17)
-- [How to Manage Side Projects When You Have ADHD](https://dev.to/fedtti/how-to-manage-side-projects-when-you-have-adhd-imb) (2025-12-17)
-- [[Boost]](https://dev.to/anthonymax/-1m5e) (2025-12-17)
-- [SVG Optimizer: Clean & Compress SVG Files Without Breaking Them](https://dev.to/frontendtoolstech/svg-optimizer-clean-compress-svg-files-without-breaking-them-1bc4) (2025-12-17)
+- [MindsEye & MindScript: A Ledger-First Cognitive Architecture Technical Whitepaper v5.0](https://dev.to/peacebinflow/mindseye-mindscript-a-ledger-first-cognitive-architecture-technical-whitepaper-v50-4hdl) (2025-12-18)
+- [Build Once, Reuse Forever: Why Developers Need Customizable Tools & Templates for Faster, Smarter Projects](https://dev.to/abxe/build-once-reuse-forever-why-developers-need-customizable-tools-templates-for-faster-smarter-15h7) (2025-12-18)
+- [Musashi vs Kojiro: What Software Architecture Can Learn from Fundamentals](https://dev.to/ramkashyap2050/musashi-vs-kojiro-what-software-architecture-can-learn-from-fundamentals-4d29) (2025-12-18)
+- [Seven Core Activities of Great Digital Teams (RAADDDR)](https://dev.to/olliejc/seven-core-activities-of-great-digital-teams-raadddr-4bl0) (2025-12-18)
+- [Building a Thinking Photo Editor: Migrate to Gemini 3 Pro Image with Angular and Firebase](https://dev.to/railsstudent/building-a-thinking-photo-editor-migrate-to-gemini-3-pro-image-with-angular-and-firebase-1pdk) (2025-12-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Building Scalable Microservices with Event-Driven Architecture: A Spring Boot & Kafka Guide](https://dayakumar06588.medium.com/building-scalable-microservices-with-event-driven-architecture-a-spring-boot-kafka-guide-fb28788774fb?source=rss------programming-5) (2025-12-17)
-- [ Stop Trusting AutoMapper Blindly: The Silent Mistakes Killing Your Data Integrity](https://medium.com/readers-club/stop-trusting-automapper-blindly-the-silent-mistakes-killing-your-data-integrity-553d6dac8776?source=rss------programming-5) (2025-12-17)
-- [How Companies Are Actually Using ChatGPT](https://medium.com/@adesh.barve20/how-companies-are-actually-using-chatgpt-0da27099168e?source=rss------programming-5) (2025-12-17)
-- [Is the “Full Stack” Dream Dead? Here’s Where I Think We’re Actually Heading.](https://medium.com/@adesh.barve20/is-the-full-stack-dream-dead-heres-where-i-think-we-re-actually-heading-92f442ebc9e5?source=rss------programming-5) (2025-12-17)
-- [Mastering CancellationToken in .NET 8: A Must-Have Skill for Modern Developers](https://medium.com/@maged_/mastering-cancellationtoken-in-net-8-a-must-have-skill-for-modern-developers-b1e5b2677ca0?source=rss------programming-5) (2025-12-17)
+- [Lei Jun: From Hard-Core Programmer to Systems Architect](https://medium.com/@cathylai_40144/lei-jun-from-hard-core-programmer-to-systems-architect-f9973b6a44c8?source=rss------programming-5) (2025-12-18)
+- [When Machines Pay Machines](https://medium.com/@davidngene/when-machines-pay-machines-a458df1b5109?source=rss------programming-5) (2025-12-18)
+- [10 Essential Spring Boot Utility Classes You Should Know (Part 1)](https://medium.com/@sunil17bbmp/10-essential-spring-boot-utility-classes-you-should-know-part-1-93c03791ddfb?source=rss------programming-5) (2025-12-18)
+- [How I Use Rotator Traffic to Validate MMO/Affiliate Offers Before Scaling (mini case study &…](https://medium.com/@stivmurugami/how-i-use-rotator-traffic-to-validate-mmo-affiliate-offers-before-scaling-mini-case-study-499d13487e06?source=rss------programming-5) (2025-12-18)
+- ["Arcangel Legrand - Brotherswagg: Business Agreements and Pricing for Collaborations and Concerts"](https://medium.com/@BrotherswaggStudioRecords/arcangel-legrand-brotherswagg-business-agreements-and-pricing-for-collaborations-and-concerts-d9cbddb3ed9f?source=rss------programming-5) (2025-12-18)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.35: Timbernetes (The World Tree Release)](https://kubernetes.io/blog/2025/12/17/kubernetes-v1-35-release/) (2025-12-17)
 - [Kubernetes v1.35 Sneak Peek](https://kubernetes.io/blog/2025/11/26/kubernetes-v1-35-sneak-peek/) (2025-11-26)
 - [Kubernetes Configuration Good Practices](https://kubernetes.io/blog/2025/11/25/configuration-good-practices/) (2025-11-25)
 - [Ingress NGINX Retirement: What You Need to Know](https://kubernetes.io/blog/2025/11/11/ingress-nginx-retirement/) (2025-11-11)
 - [Announcing the 2025 Steering Committee Election Results](https://kubernetes.io/blog/2025/11/09/steering-committee-results-2025/) (2025-11-09)
-- [Gateway API 1.4: New Features](https://kubernetes.io/blog/2025/11/06/gateway-api-v1-4/) (2025-11-06)
 
 </details>
 
@@ -273,11 +273,11 @@
 <details>
 <summary>💳 Stripe Blog</summary>
 
+- [Businesses grow revenue on Stripe 27 percentage points faster after accepting financing through Stripe Capital](https://stripe.com/blog/businesses-grow-revenue-on-stripe-faster-after-accepting-financing-through-stripe-capital) (2025-12-17)
 - [Introducing next-day settlement, a faster way to access your earnings](https://docs.stripe.com/payouts/next-day-settlement) (2025-12-17)
 - [PayTo available in Australia](https://stripe.com/payment-method/payto) (2025-12-15)
 - [Introducing the Agentic Commerce Suite: A complete solution for selling on AI agents](https://stripe.com/blog/agentic-commerce-suite) (2025-12-11)
 - [Analyzing how SaaS platforms are shipping payments and finance products in days](https://stripe.com/blog/analyzing-how-saas-platforms-are-shipping-payments-and-finance-products-in-days) (2025-12-04)
-- [New features to help SaaS platforms manage risk and stay compliant ](https://stripe.com/blog/new-features-to-help-saas-platforms-manage-risk-and-stay-compliant) (2025-12-02)
 
 </details>
 
@@ -537,11 +537,11 @@ https://www.twilio.com/en-us/blog/what-does-otp-mean
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [Enabling Cluster Launch Control with TLX](https://pytorch.org/blog/enabling-cluster-launch-control-with-tlx/) (2025-12-17)
 - [Hybrid Models Meet SGLang: More than Full Attention](https://pytorch.org/blog/hybrid-models-meet-sglang-more-than-full-attention/) (2025-12-03)
 - [Efficient MoE Pre-training at Scale on 1K AMD GPUs with TorchTitan](https://pytorch.org/blog/efficient-moe-pre-training-at-scale-with-torchtitan/) (2025-12-01)
 - [The Future of Inference: PyTorch ATX Event](https://pytorch.org/blog/the-future-of-inference-pytorch-atx-event/) (2025-11-26)
 - [OpenReg: A Self-Contained PyTorch Accelerator Simulator](https://pytorch.org/blog/openreg-a-self-contained-pytorch-accelerator-simulator/) (2025-11-21)
-- [Beyond Quantization: Bringing Sparse Inference to PyTorch](https://pytorch.org/blog/beyond-quantization-bringing-sparse-inference-to-pytorch/) (2025-11-13)
 
 </details>
 
@@ -603,11 +603,11 @@ https://www.twilio.com/en-us/blog/what-does-otp-mean
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [The Real Cost of Inaction: How Silos Hurt Productivity for Data Scientists (Sponsored)](https://bit.ly/3Y07mHi) (2025-12-17)
 - [Top 5 Vector Databases for High-Performance LLM Applications](https://machinelearningmastery.com/top-5-vector-databases-for-high-performance-llm-applications/) (2025-12-17)
 - [The Machine Learning Engineer’s Checklist: Best Practices for Reliable Models](https://machinelearningmastery.com/the-machine-learning-engineers-checklist-best-practices-for-reliable-models/) (2025-12-16)
 - [Transformer vs LSTM for Time Series: Which Works Better?](https://machinelearningmastery.com/transformer-vs-lstm-for-time-series-which-works-better/) (2025-12-15)
 - [How LLMs Choose Their Words: A Practical Walk-Through of Logits, Softmax and Sampling](https://machinelearningmastery.com/how-llms-choose-their-words-a-practical-walk-through-of-logits-softmax-and-sampling/) (2025-12-13)
-- [3 Feature Engineering Techniques for Unstructured Text Data](https://machinelearningmastery.com/3-feature-engineering-techniques-for-unstructured-text-data/) (2025-12-12)
 
 </details>
 
