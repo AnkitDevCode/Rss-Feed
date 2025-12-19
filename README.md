@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [2026 Apple introducing more ads to increase opportunity in search results](https://ads.apple.com/app-store/help/ad-placements/0082-search-results) (2025-12-19)
-- [Getting bitten by Intel's poor naming scenes](https://lorendb.dev/posts/getting-bitten-by-poor-naming-schemes/) (2025-12-19)
-- [Reconstructed Commander Keen 1-3 Source Code](https://pckf.com/viewtopic.php?t=18248) (2025-12-19)
-- [Noclip.website – A digital museum of video game levels](https://noclip.website/) (2025-12-19)
-- [SMB Direct – SMB3 over RDMA – The Linux Kernel Documentation](https://docs.kernel.org/filesystems/smb/smbdirect.html) (2025-12-19)
+- [Show HN: I open-sourced my Go and Next B2B SaaS Starter (deploy anywhere, MIT)](https://github.com/moasq/production-saas-starter) (2025-12-19)
+- [Show HN: Hacker News, but every headline is hysterical clickbait](https://dosaygo-studio.github.io/hn-front-page-2035/news-max.html) (2025-12-19)
+- [GotaTun -- Mullvad's WireGuard Implementation in Rust](https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn) (2025-12-19)
+- [Amazon will allow ePub and PDF downloads for DRM-free eBooks](https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US) (2025-12-19)
+- [Making Google Sans Flex](https://design.google/library/google-sans-flex-font) (2025-12-19)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [A Starlink satellite seems to have exploded](https://www.theverge.com/news/847891/a-starlink-satellite-seems-to-have-exploded) (2025-12-19)
 - [TikTok ban: all the news on the app’s shutdown and return in the US](https://www.theverge.com/23651507/tiktok-ban-us-news) (2025-12-19)
 - [The TikTok US sale is finally happening](https://www.theverge.com/news/847858/tiktok-sale-deal-memo-january-close) (2025-12-18)
 - [Threads wants to be the app you can’t wait to open in the morning](https://www.theverge.com/column/847806/head-of-threads-interview) (2025-12-18)
 - [Oh snap, I have a new favorite phone grip](https://www.theverge.com/gadgets/847777/oh-snap-i-have-a-new-favorite-phone-grip) (2025-12-18)
-- [Steam’s annual winter sale is here — these are the best games to get](https://www.theverge.com/gadgets/846242/best-steam-winter-sale-game-deals) (2025-12-18)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building a "Legal Killer": An AI Agent Architecture Without the Margin for Error](https://dev.to/lag_lagendary/building-a-legal-killer-an-ai-agent-architecture-without-the-margin-for-error-1fao) (2025-12-19)
-- [Avengers Assemble: How I Built a Superhero AI Team for Software Development](https://dev.to/cammanhhoang/avengers-assemble-how-i-built-a-superhero-ai-team-for-software-development-3ojg) (2025-12-19)
-- [The Blind Spot That Cost You 47% of Your Market Share](https://dev.to/tracksimple/the-blind-spot-that-cost-you-47-of-your-market-share-3onf) (2025-12-19)
-- [7 Lessons I Learned from Using Zoom for System Design Interviews](https://dev.to/dev_loops/7-lessons-i-learned-from-using-zoom-for-system-design-interviews-14i7) (2025-12-19)
-- [Debugging IA slop is the future?](https://dev.to/yomero243/debugging-ia-slop-is-the-future-51d6) (2025-12-19)
+- [Go Project Structure: Practices & Patterns](https://dev.to/rosgluk/go-project-structure-practices-patterns-22l5) (2025-12-19)
+- [Session Management and Inactivity Detection in React Native: A Complete Guide](https://dev.to/joseph_ajayi_3f1033f5840a/session-management-and-inactivity-detection-in-react-native-a-complete-guide-3d6i) (2025-12-19)
+- [Snap vs Flatpak: Ultimate Guide for 2025](https://dev.to/rosgluk/snap-vs-flatpak-ultimate-guide-for-2025-545m) (2025-12-19)
+- [The Great Terminal Prompt Revolution: Why I Replaced Years of Config With a Single Character](https://dev.to/eto303/the-great-terminal-prompt-revolution-why-i-replaced-years-of-config-with-a-single-character-2kbp) (2025-12-19)
+- [The Struggle Paradox](https://dev.to/rawveg/the-struggle-paradox-5968) (2025-12-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How to build your first interactive dashboard in 10 Minutes (no Frontend experience needed!)](https://medium.com/@zintaen/how-to-build-your-first-interactive-dashboard-in-10-minutes-no-frontend-experience-needed-28c809d90e4d?source=rss------programming-5) (2025-12-19)
-- [Python Made Data Science Easy — And That’s Now a Problem](https://medium.com/the-pythonworld/python-made-data-science-easy-and-thats-now-a-problem-893bdcff181e?source=rss------programming-5) (2025-12-19)
-- [Why Flutter Apps Still Feel Slow — Even at 60 FPS](https://medium.com/@simra.cse/why-flutter-apps-still-feel-slow-even-at-60-fps-070f8ff353d6?source=rss------programming-5) (2025-12-19)
-- [SVerse Beta Test Program: Introducing Aerial Combat Boosters](https://medium.com/@sverse_global/sverse-beta-test-program-introducing-aerial-combat-boosters-f10358179fdc?source=rss------programming-5) (2025-12-19)
-- [Python Made Data Science Easy — And That’s Now a Problem](https://medium.com/the-python-dispatch/python-made-data-science-easy-and-thats-now-a-problem-dd9b776c2a11?source=rss------programming-5) (2025-12-19)
+- [How Functions Really Work in JavaScript?](https://javascript.plainenglish.io/how-functions-really-work-in-javascript-aaa81f3ae4f5?source=rss------programming-5) (2025-12-19)
+- [SQL Made Simple: The Beginner’s Guide for Data Science](https://medium.com/@shreyasnaphad/sql-made-simple-the-beginners-guide-for-data-science-39b557ca4513?source=rss------programming-5) (2025-12-19)
+- [Medallion Architecture: The Data LakeHouse Pattern That Actually Works](https://medium.com/@kjitin/medallion-architecture-the-data-lakehouse-pattern-that-actually-works-6b3897999f8d?source=rss------programming-5) (2025-12-19)
+- [A 40-Year Fascination](https://medium.com/@michaelstebel/a-40-year-fascination-91ed83383ff3?source=rss------programming-5) (2025-12-19)
+- [Build Your First Machine Learning Model With Python](https://python.plainenglish.io/build-your-first-machine-learning-model-with-python-6d3af95d9311?source=rss------programming-5) (2025-12-19)
 
 </details>
 
@@ -362,6 +362,21 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+How to Use Twilio Verify Over Interconnect
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/use-verify-over-interconnect
+) (2025-12-17)
+- [
+Build a Twilio Whatsapp + Pipedrive Integration
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/build-twilio-whatsapp-pipedrive-integration
+) (2025-12-17)
+- [
+Open Sourcing the Twilio Docs AI Buddy Prompts: Empowering Technical Writers with Smarter AI Tools
+](
+https://www.twilio.com/en-us/blog/developers/open-source-docs-ai-buddy-prompts
+) (2025-12-17)
+- [
 Building the Future Together: Introducing the Twilio Partner Advisory Board
 ](
 https://www.twilio.com/en-us/blog/partners/2026-twilio-partner-advisory-board
@@ -371,21 +386,6 @@ New Twilio Interconnect Location - São Paulo
 ](
 https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-paulo
 ) (2025-12-16)
-- [
-How to run Automated AMD Tests and Fine-Tune Twilio AMD for Accurate Voice Automation
-](
-https://www.twilio.com/en-us/blog/developers/best-practices/automated-amd-tests-voice
-) (2025-12-15)
-- [
-Build a Twilio SMS + Microsoft Teams Integration
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/build-twilio-sms-microsoft-teams-integration
-) (2025-12-15)
-- [
-What Is an OTP Code? How One-Time Passwords Work (2026)
-](
-https://www.twilio.com/en-us/blog/what-does-otp-mean
-) (2025-12-15)
 
 </details>
 
@@ -503,11 +503,11 @@ https://www.twilio.com/en-us/blog/what-does-otp-mean
 <details>
 <summary>💬 Slack API</summary>
 
+- [Why Your AI Is Advancing — and Your Enterprise Isn’t](https://slack.com/blog/transformation/five-friction-points-enterprise-ai) (2025-12-16)
+- [Enterprise Search: How to Find Anything at Work with One Query](https://slack.com/blog/productivity/enterprise-search) (2025-12-15)
+- [AI Knowledge Base: The Complete Guide for 2026](https://slack.com/blog/productivity/what-is-an-ai-knowledge-base-tools-features-and-best-practices) (2025-12-15)
 - [The Rise of Software Engineering Agents in Slack](https://slack.com/blog/developers/coding-agents-in-slack) (2025-12-11)
 - [11 Best AI Workflow Automation Tools for 2026](https://slack.com/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows) (2025-12-10)
-- [How to Maximize a Workflow Management System for Efficiency](https://slack.com/blog/productivity/what-is-workflow-management-2) (2025-12-10)
-- [GovSlack Achieves Department of Defense IL4 Authorization](https://slack.com/blog/news/govslack-achieves-department-of-defense-il4-authorization) (2025-12-09)
-- [Five proven employee engagement strategies to motivate your team](https://slack.com/blog/collaboration/five-proven-employee-engagement-strategies-to-motivate-your-team) (2025-12-01)
 
 </details>
 
@@ -556,24 +556,35 @@ https://www.twilio.com/en-us/blog/what-does-otp-mean
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [Zara’s use of AI shows how retail workflows are quietly changing](https://www.artificialintelligence-news.com/news/zara-use-of-ai-shows-how-retail-workflows-are-quietly-changing/) (2025-12-19)
+- [AI in Human Resources: the real operational impact](https://www.artificialintelligence-news.com/news/hr-ai-in-human-resources-the-real-operational-impact/) (2025-12-18)
+- [Wall Street’s AI gains are here — banks plan for fewer people](https://www.artificialintelligence-news.com/news/wall-street-ai-gains-are-here-banks-plan-for-fewer-people/) (2025-12-18)
+- [Ensuring effective AI in insurance operations](https://www.artificialintelligence-news.com/news/insurance-ai-use-operational-differences-experienced-by-the-big-players/) (2025-12-18)
+- [AstraZeneca leads big pharma’s AI clinical trials revolution with real-world patient impact](https://www.artificialintelligence-news.com/news/astrazeneca-ai-clinical-trials-2025/) (2025-12-18)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
+- [Six Lessons Learned Building RAG Systems in Production](https://towardsdatascience.com/six-lessons-learned-building-rag-systems-in-production/) (2025-12-19)
 - [The Machine Learning “Advent Calendar” Day 18: Neural Network Classifier in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-18-neural-network-classifier-in-excel/) (2025-12-18)
 - [4 Ways to Supercharge Your Data Science Workflow with Google AI Studio](https://towardsdatascience.com/4-ways-to-supercharge-your-data-science-workflow-with-google-ai-studio/) (2025-12-18)
 - [The Subset Sum Problem Solved in Linear Time for Dense Enough Inputs](https://towardsdatascience.com/subset-sum-problem-solved-in-linear-time-for-dense-enough-inputs/) (2025-12-18)
 - [Generating Artwork in Python Inspired by Hirst’s Million-Dollar Spots Painting](https://towardsdatascience.com/recreating-hirsts-million-dollars-spots-painting/) (2025-12-18)
-- [A Practical Toolkit for Time Series Anomaly Detection, Using Python](https://towardsdatascience.com/a-practical-toolkit-for-time-series-anomaly-detection-using-python/) (2025-12-17)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [AgentOps Learning Path 2026](https://www.analyticsvidhya.com/blog/2025/12/agentops-learning-path/) (2025-12-19)
 - [Gemini 3 Flash is Here for Superfast AI Performace](https://www.analyticsvidhya.com/blog/2025/12/gemini-3-flash-is-here/) (2025-12-18)
 - [Nano Banana Pro vs ChatGPT Image 1.5](https://www.analyticsvidhya.com/blog/2025/12/chatgpt-image-vs-nano-banana-pro/) (2025-12-18)
 - [11 ChatGPT Image-1.5 Prompts that You Must Try!](https://www.analyticsvidhya.com/blog/2025/12/chatgpt-image-1-5-prompts/) (2025-12-17)
 - [10 Most Downloaded Hugging Face Datasets and Their Use-cases](https://www.analyticsvidhya.com/blog/2025/12/most-downloaded-hugging-face-datasets/) (2025-12-17)
-- [Top 10 AI Models For Web Development in 2025](https://www.analyticsvidhya.com/blog/2025/12/top-ai-models-for-web-development/) (2025-12-16)
 
 </details>
 
@@ -591,11 +602,11 @@ https://www.twilio.com/en-us/blog/what-does-otp-mean
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [How to Fine-Tune a Local Mistral or Llama 3 Model on Your Own Dataset](https://machinelearningmastery.com/how-to-fine-tune-a-local-mistral-or-llama-3-model-on-your-own-dataset/) (2025-12-19)
 - [5 Agentic Coding Tips & Tricks](https://machinelearningmastery.com/5-agentic-coding-tips-tricks/) (2025-12-18)
 - [The Real Cost of Inaction: How Silos Hurt Productivity for Data Scientists (Sponsored)](https://bit.ly/3Y07mHi) (2025-12-17)
 - [Top 5 Vector Databases for High-Performance LLM Applications](https://machinelearningmastery.com/top-5-vector-databases-for-high-performance-llm-applications/) (2025-12-17)
 - [The Machine Learning Engineer’s Checklist: Best Practices for Reliable Models](https://machinelearningmastery.com/the-machine-learning-engineers-checklist-best-practices-for-reliable-models/) (2025-12-16)
-- [Transformer vs LSTM for Time Series: Which Works Better?](https://machinelearningmastery.com/transformer-vs-lstm-for-time-series-which-works-better/) (2025-12-15)
 
 </details>
 
@@ -614,10 +625,10 @@ https://www.twilio.com/en-us/blog/what-does-otp-mean
 <summary>🧠 DeepMind Blog</summary>
 
 - [Gemini 3 Flash: frontier intelligence built for speed](https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/) (2025-12-17)
+- [Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior](https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/) (2025-12-16)
 - [Improved Gemini audio models for powerful voice experiences](https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/) (2025-12-12)
 - [Deepening our partnership with the UK AI Security Institute](https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/) (2025-12-11)
 - [Strengthening our partnership with the UK government to support prosperity and security in the AI era](https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/) (2025-12-10)
-- [FACTS Benchmark Suite: Systematically evaluating the factuality of large language models](https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/) (2025-12-09)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
