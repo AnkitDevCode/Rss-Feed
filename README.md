@@ -31,33 +31,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Great ideas in theoretical computer science](https://www.cs251.com/) (2025-12-18)
-- [Trained LLMs exclusively on pre-1913 texts](https://github.com/DGoettlich/history-llms) (2025-12-18)
-- [1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5](https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5) (2025-12-18)
-- [AI vending machine was tricked into giving away everything](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything) (2025-12-18)
-- [Delty (YC X25) Is Hiring an ML Engineer](https://www.ycombinator.com/companies/delty/jobs/MDeC49o-machine-learning-engineer) (2025-12-18)
+- [2026 Apple introducing more ads to increase opportunity in search results](https://ads.apple.com/app-store/help/ad-placements/0082-search-results) (2025-12-19)
+- [Getting bitten by Intel's poor naming scenes](https://lorendb.dev/posts/getting-bitten-by-poor-naming-schemes/) (2025-12-19)
+- [Reconstructed Commander Keen 1-3 Source Code](https://pckf.com/viewtopic.php?t=18248) (2025-12-19)
+- [Noclip.website – A digital museum of video game levels](https://noclip.website/) (2025-12-19)
+- [SMB Direct – SMB3 over RDMA – The Linux Kernel Documentation](https://docs.kernel.org/filesystems/smb/smbdirect.html) (2025-12-19)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [TikTok ban: all the news on the app’s shutdown and return in the US](https://www.theverge.com/23651507/tiktok-ban-us-news) (2025-12-19)
 - [The TikTok US sale is finally happening](https://www.theverge.com/news/847858/tiktok-sale-deal-memo-january-close) (2025-12-18)
 - [Threads wants to be the app you can’t wait to open in the morning](https://www.theverge.com/column/847806/head-of-threads-interview) (2025-12-18)
 - [Oh snap, I have a new favorite phone grip](https://www.theverge.com/gadgets/847777/oh-snap-i-have-a-new-favorite-phone-grip) (2025-12-18)
 - [Steam’s annual winter sale is here — these are the best games to get](https://www.theverge.com/gadgets/846242/best-steam-winter-sale-game-deals) (2025-12-18)
-- [OpenAI and Anthropic will start predicting when users are underage](https://www.theverge.com/news/847780/openai-anthropic-teen-safety-chatgpt-claude) (2025-12-18)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [These are the flying discs the government wants you to know about](https://arstechnica.com/science/2025/12/heres-why-nasa-and-the-space-force-are-interested-in-pizza-shaped-satellites/) (2025-12-19)
 - [Parasites plagued Roman soldiers at Hadrian’s Wall](https://arstechnica.com/science/2025/12/study-roman-soldiers-battled-parasites-at-hadrians-wall/) (2025-12-19)
 - [Trump commits to Moon landing by 2028, followed by a lunar outpost two years later](https://arstechnica.com/space/2025/12/trump-commits-to-moon-landing-by-2028-followed-by-a-lunar-outpost-two-years-later/) (2025-12-18)
 - [YouTube bans two popular channels that created fake AI movie trailers](https://arstechnica.com/google/2025/12/youtube-bans-two-popular-channels-that-created-fake-ai-movie-trailers/) (2025-12-18)
 - [Peacock showing ads upon launch opens the door for more disruptive streaming ads](https://arstechnica.com/gadgets/2025/12/peacock-showing-ads-upon-launch-opens-the-door-for-more-disruptive-streaming-ads/) (2025-12-18)
-- [Reminder: Donate to win swag in our annual Charity Drive sweepstakes](https://arstechnica.com/gaming/2025/12/reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-18/) (2025-12-18)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Last week in AWS re:Invent with Corey Quinn](https://stackoverflow.blog/2025/12/19/last-week-in-aws-re-invent-with-corey-quinn/) (2025-12-19)
 - [The 2025 Stack Overflow and Stack Exchange wrap—our top ten questions of the year!](https://stackoverflow.blog/2025/12/17/the-2025-stack-overflow-and-stack-exchange-wrap/) (2025-12-17)
 - [Your 2025 Stacked: A year of knowledge, community, and impact](https://stackoverflow.blog/2025/12/16/your-2025-stacked-a-year-of-knowledge-community-and-impact/) (2025-12-16)
 - [Live from re:Invent…it’s Stack Overflow!](https://stackoverflow.blog/2025/12/16/live-from-re-invent-it-s-stack-overflow/) (2025-12-16)
 - [At AWS re:Invent, the news was agents, but the focus was developers](https://stackoverflow.blog/2025/12/15/at-aws-re-invent-the-news-was-agents-but-the-focus-was-developers/) (2025-12-15)
-- [How Stack Overflow’s MCP Server is helping HP modernize the software development lifecycle](https://stackoverflow.blog/2025/12/12/how-stack-overflow-s-mcp-server-is-helping-hp-modernize-the-software-development-lifecycle/) (2025-12-12)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I put a Game Boy inside ChatGPT (ChatGPT Apps)](https://dev.to/bd_perez/i-put-a-game-boy-inside-chatgpt-chatgpt-apps-3a75) (2025-12-19)
-- [Stop Asking for Data! Master the "Tell, Don't Ask" Principle](https://dev.to/jonghwayoo03_dev/stop-asking-for-data-master-the-tell-dont-ask-principle-373g) (2025-12-19)
-- [Advent of AI - Day 13: Goose Terminal Integration](https://dev.to/nickytonline/advent-of-ai-day-13-goose-terminal-integration-145p) (2025-12-19)
-- [A Day in the Life of a Marketing Manager Using Microsoft Planner](https://dev.to/alexrodovit/a-day-in-the-life-of-a-marketing-manager-using-microsoft-planner-1cka) (2025-12-19)
-- [The Arbitrage Bot Arms Race: What We Learned Running FlashArb in Production](https://dev.to/chronocoders/the-arbitrage-bot-arms-race-what-we-learned-running-flasharb-in-production-10ij) (2025-12-19)
+- [Building a "Legal Killer": An AI Agent Architecture Without the Margin for Error](https://dev.to/lag_lagendary/building-a-legal-killer-an-ai-agent-architecture-without-the-margin-for-error-1fao) (2025-12-19)
+- [Avengers Assemble: How I Built a Superhero AI Team for Software Development](https://dev.to/cammanhhoang/avengers-assemble-how-i-built-a-superhero-ai-team-for-software-development-3ojg) (2025-12-19)
+- [The Blind Spot That Cost You 47% of Your Market Share](https://dev.to/tracksimple/the-blind-spot-that-cost-you-47-of-your-market-share-3onf) (2025-12-19)
+- [7 Lessons I Learned from Using Zoom for System Design Interviews](https://dev.to/dev_loops/7-lessons-i-learned-from-using-zoom-for-system-design-interviews-14i7) (2025-12-19)
+- [Debugging IA slop is the future?](https://dev.to/yomero243/debugging-ia-slop-is-the-future-51d6) (2025-12-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Forward Proxy vs Reverse Proxy: A Complete Technical Deep Dive](https://medium.com/@sunil17bbmp/forward-proxy-vs-reverse-proxy-a-complete-technical-deep-dive-fd04d03313e0?source=rss------programming-5) (2025-12-19)
-- [Confusion Matrix in Machine Learning!](https://medium.com/illumination/confusion-matrix-in-machine-learning-124ca17bb684?source=rss------programming-5) (2025-12-19)
-- [5 Psychological Tricks That Make Slow Sites Feel Instant](https://javascript.plainenglish.io/5-psychological-tricks-that-make-slow-sites-feel-instant-3f2ce18877dc?source=rss------programming-5) (2025-12-19)
-- [Python OOP and FP Drama: Why Developers Say OOP Sucks](https://medium.com/pyzilla/why-oop-is-bad-python-oop-vs-functional-programming-1497d70310ba?source=rss------programming-5) (2025-12-19)
-- [I Optimized a Go API and Accidentally Made It 4× Slower — Here’s What Happened](https://elsyarifx.medium.com/i-optimized-a-go-api-and-accidentally-made-it-4-slower-heres-what-happened-e432ad1aa459?source=rss------programming-5) (2025-12-18)
+- [How to build your first interactive dashboard in 10 Minutes (no Frontend experience needed!)](https://medium.com/@zintaen/how-to-build-your-first-interactive-dashboard-in-10-minutes-no-frontend-experience-needed-28c809d90e4d?source=rss------programming-5) (2025-12-19)
+- [Python Made Data Science Easy — And That’s Now a Problem](https://medium.com/the-pythonworld/python-made-data-science-easy-and-thats-now-a-problem-893bdcff181e?source=rss------programming-5) (2025-12-19)
+- [Why Flutter Apps Still Feel Slow — Even at 60 FPS](https://medium.com/@simra.cse/why-flutter-apps-still-feel-slow-even-at-60-fps-070f8ff353d6?source=rss------programming-5) (2025-12-19)
+- [SVerse Beta Test Program: Introducing Aerial Combat Boosters](https://medium.com/@sverse_global/sverse-beta-test-program-introducing-aerial-combat-boosters-f10358179fdc?source=rss------programming-5) (2025-12-19)
+- [Python Made Data Science Easy — And That’s Now a Problem](https://medium.com/the-python-dispatch/python-made-data-science-easy-and-thats-now-a-problem-dd9b776c2a11?source=rss------programming-5) (2025-12-19)
 
 </details>
 
@@ -503,11 +503,11 @@ https://www.twilio.com/en-us/blog/what-does-otp-mean
 <details>
 <summary>💬 Slack API</summary>
 
-- [Why Your AI Is Advancing — and Your Enterprise Isn’t](https://slack.com/blog/transformation/five-friction-points-enterprise-ai) (2025-12-16)
-- [Enterprise Search: How to Find Anything at Work with One Query](https://slack.com/blog/productivity/enterprise-search) (2025-12-15)
-- [AI Knowledge Base: The Complete Guide for 2026](https://slack.com/blog/productivity/what-is-an-ai-knowledge-base-tools-features-and-best-practices) (2025-12-15)
 - [The Rise of Software Engineering Agents in Slack](https://slack.com/blog/developers/coding-agents-in-slack) (2025-12-11)
 - [11 Best AI Workflow Automation Tools for 2026](https://slack.com/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows) (2025-12-10)
+- [How to Maximize a Workflow Management System for Efficiency](https://slack.com/blog/productivity/what-is-workflow-management-2) (2025-12-10)
+- [GovSlack Achieves Department of Defense IL4 Authorization](https://slack.com/blog/news/govslack-achieves-department-of-defense-il4-authorization) (2025-12-09)
+- [Five proven employee engagement strategies to motivate your team](https://slack.com/blog/collaboration/five-proven-employee-engagement-strategies-to-motivate-your-team) (2025-12-01)
 
 </details>
 
@@ -552,17 +552,6 @@ https://www.twilio.com/en-us/blog/what-does-otp-mean
 - [CUGA on Hugging Face: Democratizing Configurable AI Agents](https://huggingface.co/blog/ibm-research/cuga-on-hugging-face) (2025-12-15)
 - [New in llama.cpp: Model Management](https://huggingface.co/blog/ggml-org/model-management-in-llamacpp) (2025-12-11)
 - [Codex is Open Sourcing AI models](https://huggingface.co/blog/hf-skills-training-codex) (2025-12-11)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [AI in Human Resources: the real operational impact](https://www.artificialintelligence-news.com/news/hr-ai-in-human-resources-the-real-operational-impact/) (2025-12-18)
-- [Wall Street’s AI gains are here — banks plan for fewer people](https://www.artificialintelligence-news.com/news/wall-street-ai-gains-are-here-banks-plan-for-fewer-people/) (2025-12-18)
-- [Ensuring effective AI in insurance operations](https://www.artificialintelligence-news.com/news/insurance-ai-use-operational-differences-experienced-by-the-big-players/) (2025-12-18)
-- [AstraZeneca leads big pharma’s AI clinical trials revolution with real-world patient impact](https://www.artificialintelligence-news.com/news/astrazeneca-ai-clinical-trials-2025/) (2025-12-18)
-- [Roblox brings AI into the Studio to speed up game creation](https://www.artificialintelligence-news.com/news/roblox-brings-ai-into-the-studio-to-speed-up-game-creation/) (2025-12-17)
 
 </details>
 
