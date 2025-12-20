@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Android introduces $2-4 install fee and 10–20% cut for US external content links](https://support.google.com/googleplay/android-developer/answer/16470497?hl=en) (2025-12-20)
-- [Build Your Own React](https://pomb.us/build-your-own-react/) (2025-12-20)
-- [CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/) (2025-12-19)
-- [Buteyko Method](https://en.wikipedia.org/wiki/Buteyko_method) (2025-12-19)
-- [A better zip bomb (2019)](https://www.bamsoftware.com/hacks/zipbomb/) (2025-12-19)
+- [Raycaster (YC F24) Is Hiring a Research Engineer (NYC, In-Person)](https://news.ycombinator.com/item?id=46335552) (2025-12-20)
+- [What Does a Database for SSDs Look Like?](https://brooker.co.za/blog/2025/12/15/database-for-ssd.html) (2025-12-20)
+- [Airbus to migrate critical apps to a sovereign Euro cloud](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/) (2025-12-20)
+- [Skills Officially Comes to Codex](https://developers.openai.com/codex/skills/) (2025-12-20)
+- [NTP at NIST Boulder Has Lost Power](https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/) (2025-12-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Rivian’s AI pivot is about more than chasing Tesla](https://www.theverge.com/transportation/846783/rivian-ai-autonomy-day-self-driving-lidar-chip-tesla) (2025-12-20)
+- [The sold-out Nex Playground made my kids laugh and cry](https://www.theverge.com/games/848449/nex-playground-review-nintendo-wii-microsoft-kinect-motion-tracking-camera) (2025-12-20)
 - [Want to link from Google’s app store to your app? That’ll be $2–4 per install](https://www.theverge.com/news/848540/google-app-fees-external-link-downloads-alternative-payments) (2025-12-20)
 - [Google is part of Movies Anywhere again](https://www.theverge.com/news/848548/google-youtube-movies-anywhere-back-return) (2025-12-20)
 - [Did a publisher’s slip-up reveal smaller Switch 2 cartridges?](https://www.theverge.com/news/848462/nintendo-switch-2-smaller-cartridges-inin-games) (2025-12-19)
-- [Gemini isn’t replacing Google Assistant on Android just yet](https://www.theverge.com/news/848455/google-assistant-gemini-upgrade-2026) (2025-12-19)
-- [Next-generation nuclear reactors could get a boost from the National Defense Authorization Act  ](https://www.theverge.com/science/848445/nuclear-energy-ndaa-defense-bill) (2025-12-19)
 
 </details>
 
@@ -97,22 +97,24 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I built a SaaS to solve my own problem — now I’m unsure whether to scale it or move on](https://dev.to/rushikesh_bodakhe_db28644/i-built-a-saas-to-solve-my-own-problem-now-im-unsure-whether-to-scale-it-or-move-on-391j) (2025-12-20)
-- [How I Built an MCP App to Roast My GitHub Year in Review](https://dev.to/blackgirlbytes/how-i-built-an-mcp-app-to-roast-my-github-year-in-review-28gh) (2025-12-20)
-- [Tiramisu 3.0: From Response Generation to Decision Governance](https://dev.to/tiramisuframework/tiramisu-30-from-response-generation-to-decision-governance-2goo) (2025-12-20)
-- [Google Cloud Platform (GCP) Explained | The Engineer’s Cloud ☁️](https://dev.to/kaustubhyerkade/google-cloud-platform-gcp-explained-the-engineers-cloud-1j6) (2025-12-20)
-- [Unleash Your Code: The Magic of AgenticAI](https://dev.to/hkj13/unleash-your-code-the-magic-of-agenticai-4300) (2025-12-20)
+- [Feature Comparison : Nop Platform vs. SpringCloud](https://dev.to/canonical/feature-comparison-nop-platform-vs-springcloud-3a8f) (2025-12-20)
+- [Windows Registry Internals — A Beginner-Friendly Deep Dive](https://dev.to/itsmegsg/windows-registry-internals-a-beginner-friendly-deep-dive-36pk) (2025-12-20)
+- [Automating DevRel: How I Use Gemini CLI and Gemini 3 to Catch Bugs in My Blog Posts](https://dev.to/railsstudent/automating-devrel-how-i-use-gemini-cli-and-gemini-3-to-catch-bugs-in-my-blog-posts-3koo) (2025-12-20)
+- [The Robot Revolution](https://dev.to/rawveg/the-robot-revolution-39lf) (2025-12-20)
+- [Bayan Flow 0.2.0: finishing the foundations (i18n, RTL, tests, and small UX wins)](https://dev.to/ayoub3bidi/bayan-flow-020-finishing-the-foundations-i18n-rtl-tests-and-small-ux-wins-4lb7) (2025-12-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [What Happens When You Run Python Code: A Deep Dive](https://medium.com/@krystasis/what-happens-when-you-run-python-code-a-deep-dive-e8ba8adccced?source=rss------programming-5) (2025-12-20)
-- [✨Harnessing the Power of the Sun: The Rise of Solar Technology](https://medium.com/@makhija61/harnessing-the-power-of-the-sun-the-rise-of-solar-technology-5abb3ff84d50?source=rss------programming-5) (2025-12-20)
-- [Closures, Asynchronicity, and Promises: How JavaScript Really Works](https://medium.com/@arjunyadav.hash/closures-asynchronicity-and-promises-how-javascript-really-works-13278b4ec8bf?source=rss------programming-5) (2025-12-20)
-- [Stack vs Heap: The Memory Management Question That Fails 70% of Android Engineers at FAANG](https://medium.com/@alaxhenry0121/stack-vs-heap-the-memory-management-question-that-fails-70-of-android-engineers-at-faang-e16bf816c74b?source=rss------programming-5) (2025-12-20)
-- [Memory Management Basics: Stack vs Heap Explained — What FAANG Interviewers Really Want to Hear](https://medium.com/@alaxhenry0121/memory-management-basics-stack-vs-heap-explained-what-faang-interviewers-really-want-to-hear-e676a66aa447?source=rss------programming-5) (2025-12-20)
+- [BlackICE AC: Building a Fast, Multipurpose Project Site as a Developer](https://medium.com/@subhankar.sujatakne/blackice-ac-building-a-fast-multipurpose-project-site-as-a-developer-3e4caa2b9d35?source=rss------programming-5) (2025-12-20)
+- [10 UI/UX Mistakes developers make without realizing it](https://medium.com/design-bootcamp/10-ui-ux-mistakes-developers-make-without-realizing-it-c7e521beab3a?source=rss------programming-5) (2025-12-20)
+- [#شركات_تشتري_مكيفات_مستعملة_بالدمام
+#شراء_المستعملة_بالدمام
+#شراء_مكيفات 0549258415…](https://medium.com/@used_furniture_buying/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%AA%D8%B4%D8%AA%D8%B1%D9%8A-%D9%85%D9%83%D9%8A%D9%81%D8%A7%D8%AA-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84%D8%A9-%D8%A8%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84%D8%A9-%D8%A8%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85-%D8%B4%D8%B1%D8%A7%D8%A1-%D9%85%D9%83%D9%8A%D9%81%D8%A7%D8%AA-0549258415-d9d330664231?source=rss------programming-5) (2025-12-20)
+- [13 Python Features That Made My Code Look Senior-Level Without Extra Effort](https://python.plainenglish.io/13-python-features-that-made-my-code-look-senior-level-without-extra-effort-f6dd88ec6d1f?source=rss------programming-5) (2025-12-20)
+- [A Day in the Life of a Solution Architect: My Friend’s Story from the Trenches](https://medium.com/@letslearnnow/a-day-in-the-life-of-a-solution-architect-my-friends-story-from-the-trenches-92019a1f1f0b?source=rss------programming-5) (2025-12-20)
 
 </details>
 
@@ -130,11 +132,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
+- [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 - [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
 - [Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025](https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/) (2025-12-10)
-- [Microsoft’s commitment to supporting cloud infrastructure demand in the United States](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/) (2025-12-09)
-- [New options for AI-powered innovation, resiliency, and control with Microsoft Azure](https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/) (2025-12-03)
 
 </details>
 
@@ -350,7 +352,7 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
-- [Code Orange: Fail Small — Our resilience plan following recent incidents](https://blog.cloudflare.com/fail-small-resilience-plan/) (2025-12-19)
+- [Code Orange: Fail Small — our resilience plan following recent incidents](https://blog.cloudflare.com/fail-small-resilience-plan/) (2025-12-19)
 - [Innovating to address streaming abuse — and our latest transparency report](https://blog.cloudflare.com/h1-2025-transparency-report/) (2025-12-19)
 - [Announcing support for GROUP BY, SUM, and other aggregation queries in R2 SQL](https://blog.cloudflare.com/r2-sql-aggregations/) (2025-12-18)
 - [The 2025 Cloudflare Radar Year in Review: The rise of AI, post-quantum, and record-breaking DDoS attacks](https://blog.cloudflare.com/radar-2025-year-in-review/) (2025-12-15)
@@ -583,11 +585,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [IQ of AI: 15+ AI Models That are Smarter Than You](https://www.analyticsvidhya.com/blog/2025/12/ai-models-that-are-smarter-than-you/) (2025-12-20)
 - [Gemini 3 Pro vs GPT 5.2: The Ultimate 2025 AI Showdown](https://www.analyticsvidhya.com/blog/2025/12/gemini-3-pro-vs-gpt-5-2/) (2025-12-19)
 - [Top 10 YouTube Channels to Learn Python](https://www.analyticsvidhya.com/blog/2025/12/youtube-channels-to-learn-python/) (2025-12-19)
 - [AgentOps Learning Path 2026](https://www.analyticsvidhya.com/blog/2025/12/agentops-learning-path/) (2025-12-19)
 - [Gemini 3 Flash is Here for Superfast AI Performace](https://www.analyticsvidhya.com/blog/2025/12/gemini-3-flash-is-here/) (2025-12-18)
-- [Nano Banana Pro vs ChatGPT Image 1.5](https://www.analyticsvidhya.com/blog/2025/12/chatgpt-image-vs-nano-banana-pro/) (2025-12-18)
 
 </details>
 
