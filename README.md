@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Netflix is betting on podcasts to become the new daytime talk show](https://techcrunch.com/2025/12/19/netflix-is-betting-on-podcasts-to-become-the-new-daytime-talk-show/) (2025-12-19)
-- [OpenAI adds new teen safety rules to ChatGPT as lawmakers weigh AI standards for minors](https://techcrunch.com/2025/12/19/openai-adds-new-teen-safety-rules-to-models-as-lawmakers-weigh-ai-standards-for-minors/) (2025-12-19)
-- [Known uses voice AI to help you go on more in-person dates](https://techcrunch.com/2025/12/19/known-uses-voice-ai-to-help-you-go-on-more-in-person-dates/) (2025-12-19)
-- [Netflix acquires gaming avatar maker Ready Player Me](https://techcrunch.com/2025/12/19/netflix-acquires-gaming-avatar-maker-ready-player-me/) (2025-12-19)
-- [Meta is developing a new image and video model for a 2026 release, report says](https://techcrunch.com/2025/12/19/meta-is-developing-a-new-image-and-video-model-for-a-2026-release-report-says/) (2025-12-19)
+- [Ex-Splunk execs’ startup Resolve AI hits $1 billion valuation with Series A](https://techcrunch.com/2025/12/19/ex-splunk-execs-startup-resolve-ai-hits-1-billion-valuation-with-series-a/) (2025-12-20)
+- [Rocket Lab wins another defense-related space contract](https://techcrunch.com/2025/12/19/rocket-lab-wins-another-defense-related-space-contract/) (2025-12-19)
+- [Building venture-backable companies in heavily regulated spaces](https://techcrunch.com/2025/12/19/building-venture-backable-companies-in-heavily-regulated-spaces/) (2025-12-19)
+- [Former Patagonia CEO Rose Marcario resigns from Rivian’s board](https://techcrunch.com/2025/12/19/former-patagonia-ceo-rose-marcario-resigns-from-rivians-board/) (2025-12-19)
+- [Where are investors placing their bets next year? AI, AI, AI.](https://techcrunch.com/2025/12/19/where-are-investors-placing-their-bets-next-year-ai-ai-ai/) (2025-12-19)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [AMD Ryzen 7 5800X3D sells for more than 9800X3D, enthusiasts flock to AM4 DDR4](https://www.tomshardware.com/pc-components/cpus/amds-legacy-ryzen-7-5800x3d-chips-now-sell-for-up-to-usd800-more-than-a-new-9800x3d-am4-chip-costs-twice-as-much-as-msrp-as-enthusiasts-flock-to-old-ddr4-memory) (2025-12-19)
-- [Show HN: I Made Loom for Mobile](https://demoscope.app) (2025-12-19)
-- [Prepare for That Stupid World](https://ploum.net/2025-12-19-prepare-for-that-world.html) (2025-12-19)
-- [TikTok Deal Is the Shittiest Possible Outcome, Making Everything Worse](https://www.techdirt.com/2025/12/19/tiktok-deal-done-and-its-somehow-the-shittiest-possible-outcome-making-everything-worse/) (2025-12-19)
-- [Cursor Acquires Graphite](https://graphite.com/blog/graphite-joins-cursor) (2025-12-19)
+- [CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/) (2025-12-19)
+- [Buteyko Method](https://en.wikipedia.org/wiki/Buteyko_method) (2025-12-19)
+- [A Better Zip Bomb](https://www.bamsoftware.com/hacks/zipbomb/) (2025-12-19)
+- [LLM Year in Review](https://karpathy.bearblog.dev/year-in-review-2025/) (2025-12-19)
+- [The scariest boot loader code](http://miod.online.fr/software/openbsd/stories/boot_hppa.html) (2025-12-19)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Netflix is acquiring an avatar company as it moves into party games](https://www.theverge.com/news/848252/netflix-avatar-company-ready-player-me-acquisition) (2025-12-19)
-- [Don’t expect Trump Media’s nuclear fusion power plant to generate electricity soon](https://www.theverge.com/report/848205/nuclear-fusion-energy-trump-media-tae) (2025-12-19)
-- [The best Christmas gifts for gamers and movie lovers](https://www.theverge.com/gadgets/780850/gaming-entertainment-gifts-ideas-2025) (2025-12-19)
-- [The best Sonos speakers to buy in 2025](https://www.theverge.com/tech/652171/best-sonos-speakers) (2025-12-19)
-- [The RAM shortage is here to stay, raising prices on PCs and phones](https://www.theverge.com/news/848199/ram-shortage-pc-phone-price-increases) (2025-12-19)
+- [Google is part of Movies Anywhere again](https://www.theverge.com/news/848548/google-youtube-movies-anywhere-back-return) (2025-12-20)
+- [Did a publisher’s slip-up reveal smaller Switch 2 cartridges?](https://www.theverge.com/news/848462/nintendo-switch-2-smaller-cartridges-inin-games) (2025-12-19)
+- [Gemini isn’t replacing Google Assistant on Android just yet](https://www.theverge.com/news/848455/google-assistant-gemini-upgrade-2026) (2025-12-19)
+- [Next-generation nuclear reactors could get a boost from the National Defense Authorization Act  ](https://www.theverge.com/science/848445/nuclear-energy-ndaa-defense-bill) (2025-12-19)
+- [We found 80 stocking stuffers under $100 that are actually useful](https://www.theverge.com/gadgets/843079/best-stocking-stuffers-christmas-ideas-2025) (2025-12-19)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Russia is about to do the most Russia thing ever with its next space station](https://arstechnica.com/space/2025/12/russia-is-about-to-do-the-most-russia-thing-ever-with-its-next-space-station/) (2025-12-19)
-- [Rocket Report: Russia pledges quick fix for Soyuz launch pad; Ariane 6 aims high](https://arstechnica.com/space/2025/12/rocket-report-russia-pledges-quick-fix-for-soyuz-launch-pad-ariane-6-aims-high/) (2025-12-19)
-- [ByteDance confirms TikTok will be controlled by US owners](https://arstechnica.com/tech-policy/2025/12/bytedance-confirms-tiktok-will-be-sold-to-us-owners/) (2025-12-19)
-- [Two space startups prove you don’t need to break the bank to rendezvous in space](https://arstechnica.com/space/2025/12/two-space-startups-prove-you-dont-need-to-break-the-bank-to-rendezvous-in-space/) (2025-12-19)
-- [These are the flying discs the government wants you to know about](https://arstechnica.com/science/2025/12/heres-why-nasa-and-the-space-force-are-interested-in-pizza-shaped-satellites/) (2025-12-19)
+- [Google lobs lawsuit at search result scraping firm SerpApi](https://arstechnica.com/google/2025/12/google-lobs-lawsuit-at-search-result-scraping-firm-serpapi/) (2025-12-19)
+- [The evolution of expendability: Why some ants traded armor for numbers](https://arstechnica.com/science/2025/12/the-evolution-of-expendability-why-some-ants-traded-armor-for-numbers/) (2025-12-19)
+- [Switch 2 pub backs off Game Key Cards after leaking lower-cost cartridge options](https://arstechnica.com/gaming/2025/12/cheaper-lower-capacity-switch-2-cartridges-could-mean-fewer-game-key-cards/) (2025-12-19)
+- [LG TVs’ unremovable Copilot shortcut is the least of smart TVs’ AI problems](https://arstechnica.com/gadgets/2025/12/lg-tvs-unremovable-copilot-shortcut-is-the-least-of-smart-tvs-ai-problems/) (2025-12-19)
+- [Riot Games is making an anti-cheat change that could be rough on older PCs](https://arstechnica.com/gadgets/2025/12/some-valorant-players-need-to-update-their-pc-bios-to-keep-anti-cheat-software-happy/) (2025-12-19)
 
 </details>
 
@@ -65,7 +65,7 @@
 <summary>🎓 MIT Technology Review</summary>
 
 - [The Download: China’s dying EV batteries, and why AI doomers are doubling down](https://www.technologyreview.com/2025/12/19/1130167/the-download-chinas-dying-ev-batteries-and-why-ai-doomers-are-doubling-down/) (2025-12-19)
-- [China figured out how to sell EVs. Now it has to bury their batteries.](https://www.technologyreview.com/2025/12/18/1130148/china-ev-battery-recycle/) (2025-12-18)
+- [China figured out how to sell EVs. Now it has to deal with their aging batteries.](https://www.technologyreview.com/2025/12/18/1130148/china-ev-battery-recycle/) (2025-12-18)
 - [Take our quiz on the year in health and biotechnology](https://www.technologyreview.com/2025/12/18/1130140/take-our-quiz-on-the-year-in-health-and-biotechnology/) (2025-12-18)
 - [The Download: the worst technology of 2025, and Sam Altman’s AI hype](https://www.technologyreview.com/2025/12/18/1130128/the-download-the-worst-technology-of-2025-and-sam-altmans-ai-hype/) (2025-12-18)
 - [The 8 worst technology flops of 2025](https://www.technologyreview.com/2025/12/18/1130106/the-8-worst-technology-flops-of-2025/) (2025-12-18)
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [What is OCR Pre-fill?](https://dev.to/viktorle1294/what-is-ocr-pre-fill-4h0f) (2025-12-19)
-- [Managing Mini-Page Memory: The Buffer Pool Behind Bf-Tree](https://dev.to/lovestaco/managing-mini-page-memory-the-buffer-pool-behind-bf-tree-12g6) (2025-12-19)
-- [Ringer Movies: ‘Avatar: Fire and Ash’ Burns Bright Before Flaming Out. Plus: Best Picture Power Rankings](https://dev.to/popcorn_movies/ringer-movies-avatar-fire-and-ash-burns-bright-before-flaming-out-plus-best-picture-power-18ch) (2025-12-19)
-- [AI-Driven SPFx 1.22 Upgrade: A Reproducible Process Flow](https://dev.to/stfbauer/ai-driven-spfx-122-upgrade-a-reproducible-process-flow-4m7) (2025-12-19)
-- [C# Minimal API: Output Caching](https://dev.to/gramli/c-minimal-api-output-caching-2iij) (2025-12-19)
+- [Automating Go App Deployment to Google Cloud Run with GitHub Actions(Free Tier)](https://dev.to/kskiii/automating-go-app-deployment-to-google-cloud-run-with-github-actionsfree-tier-4995) (2025-12-20)
+- [A small UX change that immediately reduced user confusion](https://dev.to/forgeindex/a-small-ux-change-that-immediately-reduced-user-confusion-3mc9) (2025-12-20)
+- [**Title:** Chinese Hacking Campaign Targets Vulnerable Cisco Customers: Understanding the Risks and Implications](https://dev.to/yagyaraj_sharma_6cd410179/title-chinese-hacking-campaign-targets-vulnerable-cisco-customers-understanding-the-risks-and-2113) (2025-12-20)
+- [What Is Gemini 3 Flash vs Alternatives: Which Is Best?](https://dev.to/ai_toolslist_ce7f6cc554a/what-is-gemini-3-flash-vs-alternatives-which-is-best-5ge) (2025-12-20)
+- [Synthetic Data Is Not About Replacing Reality. It Is About Questioning It.](https://dev.to/intelgreatnez/synthetic-data-is-not-about-replacing-reality-it-is-about-questioning-it-4m2p) (2025-12-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [My Python Code Worked Perfectly Until 10,000 Users Hit It At Once](https://medium.com/@duaasif/my-python-code-worked-perfectly-until-10-000-users-hit-it-at-once-fb067f7e5235?source=rss------programming-5) (2025-12-19)
-- [From Builder PMs To AI Reality Checks: What Engineering Leaders Need This Week](https://medium.com/engineering-managers-journal/from-builder-pms-to-ai-reality-checks-what-engineering-leaders-need-this-week-c95b5ed5d3f7?source=rss------programming-5) (2025-12-19)
-- [The Developer Habit That Looks Smart but Hurts Teams and Systems](https://medium.com/@shivamyaduvanshi435/the-developer-habit-that-looks-smart-but-hurts-teams-and-systems-f3a4cae13932?source=rss------programming-5) (2025-12-19)
-- [Is MongoDB the Next MySQL? When Flexibility Becomes a Bottleneck](https://medium.com/@kushalburad07/is-mongodb-the-next-mysql-when-flexibility-becomes-a-bottleneck-df0cf3258c0a?source=rss------programming-5) (2025-12-19)
-- [ Handle Duplicate Messages With Idempotent Consumers | Idempotency in .NET 10](https://medium.com/@mariammaurice/handle-duplicate-messages-with-idempotent-consumers-idempotency-in-net-10-cdcf2b5c82d1?source=rss------programming-5) (2025-12-19)
+- [Python Turned My Time Into Money](https://medium.com/@abromohsin504/python-turned-my-time-into-money-354eaa7015b3?source=rss------programming-5) (2025-12-20)
+- [Sistem Peminjaman Buku Perpustakaan Digital](https://medium.com/@zurichsabil/sistem-peminjaman-buku-perpustakaan-digital-45310c7a83d8?source=rss------programming-5) (2025-12-20)
+- [Why Codex Changes Everything](https://medium.com/neural-lab/why-codex-changes-everything-36e4fb5fc8b7?source=rss------programming-5) (2025-12-20)
+- [Chapter 17 — Fixed Point](https://medium.com/im-mortal/chapter-17-fixed-point-fc1b53d02e81?source=rss------programming-5) (2025-12-20)
+- [NoException: A Better Way to Handle Exceptions in Java](https://medium.com/@sunil17bbmp/noexception-a-better-way-to-handle-exceptions-in-java-c70dc660deac?source=rss------programming-5) (2025-12-20)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
-- [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 - [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
 - [Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025](https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/) (2025-12-10)
+- [Microsoft’s commitment to supporting cloud infrastructure demand in the United States](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/) (2025-12-09)
+- [New options for AI-powered innovation, resiliency, and control with Microsoft Azure](https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/) (2025-12-03)
 
 </details>
 
@@ -163,11 +163,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Media3 1.9.0 - What’s new](https://android-developers.googleblog.com/2025/12/media3-190-whats-new.html) (2025-12-19)
 - [Goodbye Mobile Only, Hello Adaptive: Three essential updates from 2025 for building adaptive apps](https://android-developers.googleblog.com/2025/12/goodbye-mobile-only-hello-adaptive.html) (2025-12-19)
 - [Bringing Androidify to Wear OS with Watch Face Push](https://android-developers.googleblog.com/2025/12/bringing-androidify-to-wear-os-with.html) (2025-12-18)
 - [Brighten Your Real-Time Camera Feeds with Low Light Boost](https://android-developers.googleblog.com/2025/12/brighten-your-real-time-camera-feeds.html) (2025-12-17)
 - [Build smarter apps with Gemini 3 Flash](https://android-developers.googleblog.com/2025/12/build-smarter-apps-with-gemini-3-flash.html) (2025-12-17)
-- [Notes from Google Play: A look back at the tools that powered your growth in 2025](https://android-developers.googleblog.com/2025/12/notes-from-google-play-2025.html) (2025-12-15)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes 1.35: In-Place Pod Resize Graduates to Stable](https://kubernetes.io/blog/2025/12/19/kubernetes-v1-35-in-place-pod-resize-ga/) (2025-12-19)
 - [Kubernetes v1.35: Job Managed By Goes GA](https://kubernetes.io/blog/2025/12/18/kubernetes-v1-35-job-managedby-for-jobs-goes-ga/) (2025-12-18)
 - [Kubernetes v1.35: Timbernetes (The World Tree Release)](https://kubernetes.io/blog/2025/12/17/kubernetes-v1-35-release/) (2025-12-17)
 - [Kubernetes v1.35 Sneak Peek](https://kubernetes.io/blog/2025/11/26/kubernetes-v1-35-sneak-peek/) (2025-11-26)
 - [Kubernetes Configuration Good Practices](https://kubernetes.io/blog/2025/11/25/configuration-good-practices/) (2025-11-25)
-- [Ingress NGINX Retirement: What You Need to Know](https://kubernetes.io/blog/2025/11/11/ingress-nginx-retirement/) (2025-11-11)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Code Orange: Fail Small — Our resilience plan following recent incidents](https://blog.cloudflare.com/fail-small-resilience-plan/) (2025-12-19)
 - [Innovating to address streaming abuse — and our latest transparency report](https://blog.cloudflare.com/h1-2025-transparency-report/) (2025-12-19)
 - [Announcing support for GROUP BY, SUM, and other aggregation queries in R2 SQL](https://blog.cloudflare.com/r2-sql-aggregations/) (2025-12-18)
 - [The 2025 Cloudflare Radar Year in Review: The rise of AI, post-quantum, and record-breaking DDoS attacks](https://blog.cloudflare.com/radar-2025-year-in-review/) (2025-12-15)
 - [ChatGPT's rivals, Kwai's quiet rise: the top Internet services of 2025](https://blog.cloudflare.com/radar-2025-year-in-review-internet-services/) (2025-12-15)
-- [React2Shell and related RSC vulnerabilities threat brief: early exploitation activity and threat actor techniques](https://blog.cloudflare.com/react2shell-rsc-vulnerabilities-exploitation-threat-brief/) (2025-12-11)
 
 </details>
 
@@ -462,11 +462,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>🚀 Apollo GraphQL</summary>
 
+- [End of Support for Router v1.x; Long-Term Support (LTS) Policy Update](https://www.apollographql.com/blog/end-of-support-for-router-v1-x-long-term-support-lts-policy-update) (2025-12-19)
 - [Building Apps for ChatGPT with Apollo MCP Server and Apollo Client](https://www.apollographql.com/blog/building-apps-for-chatgpt-with-apollo-mcp-server-and-apollo-client) (2025-12-18)
 - [Apollo Strengthens Its San Francisco Presence for the Agentic Era](https://www.apollographql.com/blog/apollo-strengthens-its-san-francisco-presence-for-the-agentic-era) (2025-12-02)
 - [How Delivery Hero Accelerates UX Experiments with Server-Driven UI and Apollo](https://www.apollographql.com/blog/how-delivery-hero-accelerates-ux-experiments-with-server-driven-ui-and-apollo) (2025-12-01)
 - [How Block Scaled Graph Adoption with Apollo and AI](https://www.apollographql.com/blog/how-block-scaled-graph-adoption-with-apollo-and-ai) (2025-11-24)
-- [How Wiz Is Redefining Partner Velocity with Apollo MCP](https://www.apollographql.com/blog/how-wiz-is-redefining-partner-velocity-with-apollo-mcp) (2025-11-20)
 
 </details>
 
