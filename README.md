@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Sequoia partner spreads debunked Brown shooting theory, testing new leadership](https://techcrunch.com/2025/12/19/sequoia-partner-spreads-debunked-brown-shooting-theory-testing-new-leadership/) (2025-12-20)
 - [Ex-Splunk execs’ startup Resolve AI hits $1 billion valuation with Series A](https://techcrunch.com/2025/12/19/ex-splunk-execs-startup-resolve-ai-hits-1-billion-valuation-with-series-a/) (2025-12-20)
 - [Rocket Lab wins another defense-related space contract](https://techcrunch.com/2025/12/19/rocket-lab-wins-another-defense-related-space-contract/) (2025-12-19)
 - [Building venture-backable companies in heavily regulated spaces](https://techcrunch.com/2025/12/19/building-venture-backable-companies-in-heavily-regulated-spaces/) (2025-12-19)
 - [Former Patagonia CEO Rose Marcario resigns from Rivian’s board](https://techcrunch.com/2025/12/19/former-patagonia-ceo-rose-marcario-resigns-from-rivians-board/) (2025-12-19)
-- [Where are investors placing their bets next year? AI, AI, AI.](https://techcrunch.com/2025/12/19/where-are-investors-placing-their-bets-next-year-ai-ai-ai/) (2025-12-19)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Android introduces $2-4 install fee and 10–20% cut for US external content links](https://support.google.com/googleplay/android-developer/answer/16470497?hl=en) (2025-12-20)
+- [Build Your Own React](https://pomb.us/build-your-own-react/) (2025-12-20)
 - [CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/) (2025-12-19)
 - [Buteyko Method](https://en.wikipedia.org/wiki/Buteyko_method) (2025-12-19)
-- [A Better Zip Bomb](https://www.bamsoftware.com/hacks/zipbomb/) (2025-12-19)
-- [LLM Year in Review](https://karpathy.bearblog.dev/year-in-review-2025/) (2025-12-19)
-- [The scariest boot loader code](http://miod.online.fr/software/openbsd/stories/boot_hppa.html) (2025-12-19)
+- [A better zip bomb (2019)](https://www.bamsoftware.com/hacks/zipbomb/) (2025-12-19)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Want to link from Google’s app store to your app? That’ll be $2–4 per install](https://www.theverge.com/news/848540/google-app-fees-external-link-downloads-alternative-payments) (2025-12-20)
 - [Google is part of Movies Anywhere again](https://www.theverge.com/news/848548/google-youtube-movies-anywhere-back-return) (2025-12-20)
 - [Did a publisher’s slip-up reveal smaller Switch 2 cartridges?](https://www.theverge.com/news/848462/nintendo-switch-2-smaller-cartridges-inin-games) (2025-12-19)
 - [Gemini isn’t replacing Google Assistant on Android just yet](https://www.theverge.com/news/848455/google-assistant-gemini-upgrade-2026) (2025-12-19)
 - [Next-generation nuclear reactors could get a boost from the National Defense Authorization Act  ](https://www.theverge.com/science/848445/nuclear-energy-ndaa-defense-bill) (2025-12-19)
-- [We found 80 stocking stuffers under $100 that are actually useful](https://www.theverge.com/gadgets/843079/best-stocking-stuffers-christmas-ideas-2025) (2025-12-19)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Automating Go App Deployment to Google Cloud Run with GitHub Actions(Free Tier)](https://dev.to/kskiii/automating-go-app-deployment-to-google-cloud-run-with-github-actionsfree-tier-4995) (2025-12-20)
-- [A small UX change that immediately reduced user confusion](https://dev.to/forgeindex/a-small-ux-change-that-immediately-reduced-user-confusion-3mc9) (2025-12-20)
-- [**Title:** Chinese Hacking Campaign Targets Vulnerable Cisco Customers: Understanding the Risks and Implications](https://dev.to/yagyaraj_sharma_6cd410179/title-chinese-hacking-campaign-targets-vulnerable-cisco-customers-understanding-the-risks-and-2113) (2025-12-20)
-- [What Is Gemini 3 Flash vs Alternatives: Which Is Best?](https://dev.to/ai_toolslist_ce7f6cc554a/what-is-gemini-3-flash-vs-alternatives-which-is-best-5ge) (2025-12-20)
-- [Synthetic Data Is Not About Replacing Reality. It Is About Questioning It.](https://dev.to/intelgreatnez/synthetic-data-is-not-about-replacing-reality-it-is-about-questioning-it-4m2p) (2025-12-20)
+- [I built a SaaS to solve my own problem — now I’m unsure whether to scale it or move on](https://dev.to/rushikesh_bodakhe_db28644/i-built-a-saas-to-solve-my-own-problem-now-im-unsure-whether-to-scale-it-or-move-on-391j) (2025-12-20)
+- [How I Built an MCP App to Roast My GitHub Year in Review](https://dev.to/blackgirlbytes/how-i-built-an-mcp-app-to-roast-my-github-year-in-review-28gh) (2025-12-20)
+- [Tiramisu 3.0: From Response Generation to Decision Governance](https://dev.to/tiramisuframework/tiramisu-30-from-response-generation-to-decision-governance-2goo) (2025-12-20)
+- [Google Cloud Platform (GCP) Explained | The Engineer’s Cloud ☁️](https://dev.to/kaustubhyerkade/google-cloud-platform-gcp-explained-the-engineers-cloud-1j6) (2025-12-20)
+- [Unleash Your Code: The Magic of AgenticAI](https://dev.to/hkj13/unleash-your-code-the-magic-of-agenticai-4300) (2025-12-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Python Turned My Time Into Money](https://medium.com/@abromohsin504/python-turned-my-time-into-money-354eaa7015b3?source=rss------programming-5) (2025-12-20)
-- [Sistem Peminjaman Buku Perpustakaan Digital](https://medium.com/@zurichsabil/sistem-peminjaman-buku-perpustakaan-digital-45310c7a83d8?source=rss------programming-5) (2025-12-20)
-- [Why Codex Changes Everything](https://medium.com/neural-lab/why-codex-changes-everything-36e4fb5fc8b7?source=rss------programming-5) (2025-12-20)
-- [Chapter 17 — Fixed Point](https://medium.com/im-mortal/chapter-17-fixed-point-fc1b53d02e81?source=rss------programming-5) (2025-12-20)
-- [NoException: A Better Way to Handle Exceptions in Java](https://medium.com/@sunil17bbmp/noexception-a-better-way-to-handle-exceptions-in-java-c70dc660deac?source=rss------programming-5) (2025-12-20)
+- [What Happens When You Run Python Code: A Deep Dive](https://medium.com/@krystasis/what-happens-when-you-run-python-code-a-deep-dive-e8ba8adccced?source=rss------programming-5) (2025-12-20)
+- [✨Harnessing the Power of the Sun: The Rise of Solar Technology](https://medium.com/@makhija61/harnessing-the-power-of-the-sun-the-rise-of-solar-technology-5abb3ff84d50?source=rss------programming-5) (2025-12-20)
+- [Closures, Asynchronicity, and Promises: How JavaScript Really Works](https://medium.com/@arjunyadav.hash/closures-asynchronicity-and-promises-how-javascript-really-works-13278b4ec8bf?source=rss------programming-5) (2025-12-20)
+- [Stack vs Heap: The Memory Management Question That Fails 70% of Android Engineers at FAANG](https://medium.com/@alaxhenry0121/stack-vs-heap-the-memory-management-question-that-fails-70-of-android-engineers-at-faang-e16bf816c74b?source=rss------programming-5) (2025-12-20)
+- [Memory Management Basics: Stack vs Heap Explained — What FAANG Interviewers Really Want to Hear](https://medium.com/@alaxhenry0121/memory-management-basics-stack-vs-heap-explained-what-faang-interviewers-really-want-to-hear-e676a66aa447?source=rss------programming-5) (2025-12-20)
 
 </details>
 
@@ -576,7 +576,7 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 - [Agentic AI Swarm Optimization using Artificial Bee Colonization (ABC)](https://towardsdatascience.com/agentic-ai-swarm-optimization-using-artificial-bee-colonization-abc/) (2025-12-19)
 - [How I Optimized My Leaf Raking Strategy Using Linear Programming](https://towardsdatascience.com/how-i-optimized-my-leaf-raking-strategy-using-linear-programming/) (2025-12-19)
 - [Six Lessons Learned Building RAG Systems in Production](https://towardsdatascience.com/six-lessons-learned-building-rag-systems-in-production/) (2025-12-19)
-- [The Machine Learning “Advent Calendar” Day 18: Neural Network Classifier in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-18-neural-network-classifier-in-excel/) (2025-12-18)
+- [2025 Must-Reads: Agents, Python, LLMs, and More](https://towardsdatascience.com/2025-must-reads-agents-python-llms-and-more/) (2025-12-19)
 
 </details>
 
