@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [New York Governor Kathy Hochul signs RAISE Act to regulate AI safety](https://techcrunch.com/2025/12/20/new-york-governor-kathy-hochul-signs-raise-act-to-regulate-ai-safety/) (2025-12-20)
 - [Sequoia partner spreads debunked Brown shooting theory, testing new leadership](https://techcrunch.com/2025/12/19/sequoia-partner-spreads-debunked-brown-shooting-theory-testing-new-leadership/) (2025-12-20)
 - [Ex-Splunk execs’ startup Resolve AI hits $1 billion valuation with Series A](https://techcrunch.com/2025/12/19/ex-splunk-execs-startup-resolve-ai-hits-1-billion-valuation-with-series-a/) (2025-12-20)
 - [Rocket Lab wins another defense-related space contract](https://techcrunch.com/2025/12/19/rocket-lab-wins-another-defense-related-space-contract/) (2025-12-19)
 - [Building venture-backable companies in heavily regulated spaces](https://techcrunch.com/2025/12/19/building-venture-backable-companies-in-heavily-regulated-spaces/) (2025-12-19)
-- [Former Patagonia CEO Rose Marcario resigns from Rivian’s board](https://techcrunch.com/2025/12/19/former-patagonia-ceo-rose-marcario-resigns-from-rivians-board/) (2025-12-19)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Raycaster (YC F24) Is Hiring a Research Engineer (NYC, In-Person)](https://news.ycombinator.com/item?id=46335552) (2025-12-20)
-- [What Does a Database for SSDs Look Like?](https://brooker.co.za/blog/2025/12/15/database-for-ssd.html) (2025-12-20)
-- [Airbus to migrate critical apps to a sovereign Euro cloud](https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/) (2025-12-20)
-- [Skills Officially Comes to Codex](https://developers.openai.com/codex/skills/) (2025-12-20)
-- [NTP at NIST Boulder Has Lost Power](https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/) (2025-12-20)
+- [Depot (YC W23) Is Hiring an Enterprise Support Engineer (Remote/US)](https://www.ycombinator.com/companies/depot/jobs/jhGxVjO-enterprise-support-engineer) (2025-12-20)
+- [Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates](https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html) (2025-12-20)
+- [Over 40% of Deceased Drivers in Vehicle Crashes Test Positive for THC: Study](https://www.facs.org/media-center/press-releases/2025/over-40-of-deceased-drivers-in-motor-vehicle-crashes-test-positive-for-thc-study-shows/) (2025-12-20)
+- [Show HN: Claude Code Plugin to play music when waiting on user input](https://github.com/Sevii/agent-marketplace/blob/main/plugins/elevator-music/README.md) (2025-12-20)
+- [Go ahead, self-host Postgres](https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1) (2025-12-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Rivian’s AI pivot is about more than chasing Tesla](https://www.theverge.com/transportation/846783/rivian-ai-autonomy-day-self-driving-lidar-chip-tesla) (2025-12-20)
-- [The sold-out Nex Playground made my kids laugh and cry](https://www.theverge.com/games/848449/nex-playground-review-nintendo-wii-microsoft-kinect-motion-tracking-camera) (2025-12-20)
-- [Want to link from Google’s app store to your app? That’ll be $2–4 per install](https://www.theverge.com/news/848540/google-app-fees-external-link-downloads-alternative-payments) (2025-12-20)
-- [Google is part of Movies Anywhere again](https://www.theverge.com/news/848548/google-youtube-movies-anywhere-back-return) (2025-12-20)
-- [Did a publisher’s slip-up reveal smaller Switch 2 cartridges?](https://www.theverge.com/news/848462/nintendo-switch-2-smaller-cartridges-inin-games) (2025-12-19)
+- [The best last-minute Christmas gifts you can grab for under $50](https://www.theverge.com/gadgets/848134/best-last-minute-christmas-gifts-under-50-2025) (2025-12-20)
+- [The LCD Steam Deck is done](https://www.theverge.com/news/848595/the-lcd-steam-deck-is-done) (2025-12-20)
+- [Dogpile&#8217;s puzzles mix Balatro, Tetris, and a pile of puppies](https://www.theverge.com/entertainment/848041/dogpile-review-inde-game-steam-balatro-puppies) (2025-12-20)
+- [You can buy your Xbox Ally an official pair of anti-drift joysticks](https://www.theverge.com/games/848568/xbox-ally-gulikit-tmr-joysticks) (2025-12-20)
+- [‘Friend slop’ made co-op gaming goofier than ever in 2025](https://www.theverge.com/entertainment/845347/friend-slop-co-op-games-2025) (2025-12-20)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [How Europe’s new carbon tax on imported goods will change global trade](https://arstechnica.com/tech-policy/2025/12/how-europes-new-carbon-tax-on-imported-goods-will-change-global-trade/) (2025-12-20)
 - [Google lobs lawsuit at search result scraping firm SerpApi](https://arstechnica.com/google/2025/12/google-lobs-lawsuit-at-search-result-scraping-firm-serpapi/) (2025-12-19)
 - [The evolution of expendability: Why some ants traded armor for numbers](https://arstechnica.com/science/2025/12/the-evolution-of-expendability-why-some-ants-traded-armor-for-numbers/) (2025-12-19)
 - [Switch 2 pub backs off Game Key Cards after leaking lower-cost cartridge options](https://arstechnica.com/gaming/2025/12/cheaper-lower-capacity-switch-2-cartridges-could-mean-fewer-game-key-cards/) (2025-12-19)
 - [LG TVs’ unremovable Copilot shortcut is the least of smart TVs’ AI problems](https://arstechnica.com/gadgets/2025/12/lg-tvs-unremovable-copilot-shortcut-is-the-least-of-smart-tvs-ai-problems/) (2025-12-19)
-- [Riot Games is making an anti-cheat change that could be rough on older PCs](https://arstechnica.com/gadgets/2025/12/some-valorant-players-need-to-update-their-pc-bios-to-keep-anti-cheat-software-happy/) (2025-12-19)
 
 </details>
 
@@ -97,24 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Feature Comparison : Nop Platform vs. SpringCloud](https://dev.to/canonical/feature-comparison-nop-platform-vs-springcloud-3a8f) (2025-12-20)
-- [Windows Registry Internals — A Beginner-Friendly Deep Dive](https://dev.to/itsmegsg/windows-registry-internals-a-beginner-friendly-deep-dive-36pk) (2025-12-20)
-- [Automating DevRel: How I Use Gemini CLI and Gemini 3 to Catch Bugs in My Blog Posts](https://dev.to/railsstudent/automating-devrel-how-i-use-gemini-cli-and-gemini-3-to-catch-bugs-in-my-blog-posts-3koo) (2025-12-20)
-- [The Robot Revolution](https://dev.to/rawveg/the-robot-revolution-39lf) (2025-12-20)
-- [Bayan Flow 0.2.0: finishing the foundations (i18n, RTL, tests, and small UX wins)](https://dev.to/ayoub3bidi/bayan-flow-020-finishing-the-foundations-i18n-rtl-tests-and-small-ux-wins-4lb7) (2025-12-20)
+- [Deeply nested AL code can be a nightmare to review, especially in big files.](https://dev.to/jeffreybulanadi/deeply-nested-al-code-can-be-a-nightmare-to-review-especially-in-big-files-79f) (2025-12-20)
+- [Introducing Automatic Security Audits for AI](https://dev.to/ivandotcodes/introducing-automatic-security-audits-for-ai-45eh) (2025-12-20)
+- [Mastering React.js in 2026: A Comprehensive Guide](https://dev.to/panchalmukundak/mastering-reactjs-in-2026-a-comprehensive-guide-3d4n) (2025-12-20)
+- [The Laravel 12 Docker Blueprint I Wish I Had: Nginx + PHP-FPM, Small Images, Clean CI/CD, and DigitalOcean Private Registry](https://dev.to/mufthi_ryanda_84ea0d65262/the-laravel-12-docker-blueprint-i-wish-i-had-nginx-php-fpm-small-images-clean-cicd-and-4ai5) (2025-12-20)
+- [GitHub Copilot Agent Skills: Teaching AI Your Repository Patterns](https://dev.to/qa-leaders/github-copilot-agent-skills-teaching-ai-your-repository-patterns-1oa8) (2025-12-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [BlackICE AC: Building a Fast, Multipurpose Project Site as a Developer](https://medium.com/@subhankar.sujatakne/blackice-ac-building-a-fast-multipurpose-project-site-as-a-developer-3e4caa2b9d35?source=rss------programming-5) (2025-12-20)
-- [10 UI/UX Mistakes developers make without realizing it](https://medium.com/design-bootcamp/10-ui-ux-mistakes-developers-make-without-realizing-it-c7e521beab3a?source=rss------programming-5) (2025-12-20)
-- [#شركات_تشتري_مكيفات_مستعملة_بالدمام
-#شراء_المستعملة_بالدمام
-#شراء_مكيفات 0549258415…](https://medium.com/@used_furniture_buying/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%AA%D8%B4%D8%AA%D8%B1%D9%8A-%D9%85%D9%83%D9%8A%D9%81%D8%A7%D8%AA-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84%D8%A9-%D8%A8%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84%D8%A9-%D8%A8%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85-%D8%B4%D8%B1%D8%A7%D8%A1-%D9%85%D9%83%D9%8A%D9%81%D8%A7%D8%AA-0549258415-d9d330664231?source=rss------programming-5) (2025-12-20)
-- [13 Python Features That Made My Code Look Senior-Level Without Extra Effort](https://python.plainenglish.io/13-python-features-that-made-my-code-look-senior-level-without-extra-effort-f6dd88ec6d1f?source=rss------programming-5) (2025-12-20)
-- [A Day in the Life of a Solution Architect: My Friend’s Story from the Trenches](https://medium.com/@letslearnnow/a-day-in-the-life-of-a-solution-architect-my-friends-story-from-the-trenches-92019a1f1f0b?source=rss------programming-5) (2025-12-20)
+- [Tech Interview Prep: What $2000 Courses Don’t Teach You](https://medium.com/lets-code-future/tech-interview-prep-what-2000-courses-dont-teach-you-563058646282?source=rss------programming-5) (2025-12-20)
+- [☕ Java 8 LTS vs Java 25 LTS (Part 1)](https://medium.com/@darwinjmathews38/java-8-lts-vs-java-25-lts-part-1-ede948a1d6b0?source=rss------programming-5) (2025-12-20)
+- [Stop Using Tkinter for Modern Apps Try This Instead](https://python.plainenglish.io/stop-using-tkinter-for-modern-apps-try-this-instead-e405981b235a?source=rss------programming-5) (2025-12-20)
+- [Developer Productivity in 2025](https://aibloggerworld.medium.com/developer-productivity-in-2025-f8065218a271?source=rss------programming-5) (2025-12-20)
+- [ Building Real-Time Applications With SignalR & .NET 10](https://medium.com/@mariammaurice/building-real-time-applications-with-signalr-net-10-3f544eae7a63?source=rss------programming-5) (2025-12-20)
 
 </details>
 
@@ -209,11 +207,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [2025 Recap: The Year Software Development Changed Shape](https://www.docker.com/blog/2025-recap-the-year-software-development-changed-shape/) (2025-12-20)
 - [From the Captain’s Chair: Igor Aleksandrov](https://www.docker.com/blog/from-the-captains-chair-igor-aleksandrov/) (2025-12-19)
 - [Docker Hardened Images: Security Independently Validated by SRLabs](https://www.docker.com/blog/docker-hardened-images-security-independently-validated-by-srlabs/) (2025-12-19)
 - [A Safer Container Ecosystem with Docker: Free Docker Hardened Images](https://www.docker.com/blog/docker-hardened-images-for-every-developer/) (2025-12-17)
 - [Develop and deploy voice AI apps using Docker](https://www.docker.com/blog/develop-deploy-voice-ai-apps/) (2025-12-16)
-- [Docker Model Runner now included with the Universal Blue family](https://www.docker.com/blog/docker-model-runner-universal-blue/) (2025-12-16)
 
 </details>
 
@@ -574,11 +572,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Understanding the Generative AI User](https://towardsdatascience.com/understanding-the-generative-ai-user/) (2025-12-20)
+- [EDA in Public (Part 2): Product Deep Dive & Time-Series Analysis in Pandas](https://towardsdatascience.com/eda-in-public-part-2-product-deep-dive-time-series-analysis-in-pandas/) (2025-12-20)
 - [The Machine Learning “Advent Calendar” Day 19: Bagging in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-19-bagging-in-excel/) (2025-12-19)
 - [Agentic AI Swarm Optimization using Artificial Bee Colonization (ABC)](https://towardsdatascience.com/agentic-ai-swarm-optimization-using-artificial-bee-colonization-abc/) (2025-12-19)
 - [How I Optimized My Leaf Raking Strategy Using Linear Programming](https://towardsdatascience.com/how-i-optimized-my-leaf-raking-strategy-using-linear-programming/) (2025-12-19)
-- [Six Lessons Learned Building RAG Systems in Production](https://towardsdatascience.com/six-lessons-learned-building-rag-systems-in-production/) (2025-12-19)
-- [2025 Must-Reads: Agents, Python, LLMs, and More](https://towardsdatascience.com/2025-must-reads-agents-python-llms-and-more/) (2025-12-19)
 
 </details>
 
