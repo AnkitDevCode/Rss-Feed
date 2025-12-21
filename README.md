@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Google and Apple reportedly warn employees on visas to avoid international travel](https://techcrunch.com/2025/12/20/google-and-apple-reportedly-warn-employees-on-visas-to-avoid-international-travel/) (2025-12-20)
+- [‘It felt so wrong’: Colin Angle on iRobot, the FTC, and the Amazon deal that never was](https://techcrunch.com/2025/12/20/it-felt-so-wrong-colin-angle-on-irobot-the-ftc-and-the-amazon-deal-that-never-was/) (2025-12-20)
+- [OpenAI allows users to directly adjust ChatGPT’s enthusiasm level](https://techcrunch.com/2025/12/20/openai-allows-users-to-directly-adjust-chatgpts-warmth-and-enthusiasm/) (2025-12-20)
 - [New York Governor Kathy Hochul signs RAISE Act to regulate AI safety](https://techcrunch.com/2025/12/20/new-york-governor-kathy-hochul-signs-raise-act-to-regulate-ai-safety/) (2025-12-20)
 - [Sequoia partner spreads debunked Brown shooting theory, testing new leadership](https://techcrunch.com/2025/12/19/sequoia-partner-spreads-debunked-brown-shooting-theory-testing-new-leadership/) (2025-12-20)
-- [Ex-Splunk execs’ startup Resolve AI hits $1 billion valuation with Series A](https://techcrunch.com/2025/12/19/ex-splunk-execs-startup-resolve-ai-hits-1-billion-valuation-with-series-a/) (2025-12-20)
-- [Rocket Lab wins another defense-related space contract](https://techcrunch.com/2025/12/19/rocket-lab-wins-another-defense-related-space-contract/) (2025-12-19)
-- [Building venture-backable companies in heavily regulated spaces](https://techcrunch.com/2025/12/19/building-venture-backable-companies-in-heavily-regulated-spaces/) (2025-12-19)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Depot (YC W23) Is Hiring an Enterprise Support Engineer (Remote/US)](https://www.ycombinator.com/companies/depot/jobs/jhGxVjO-enterprise-support-engineer) (2025-12-20)
-- [Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates](https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html) (2025-12-20)
-- [Over 40% of Deceased Drivers in Vehicle Crashes Test Positive for THC: Study](https://www.facs.org/media-center/press-releases/2025/over-40-of-deceased-drivers-in-motor-vehicle-crashes-test-positive-for-thc-study-shows/) (2025-12-20)
-- [Show HN: Claude Code Plugin to play music when waiting on user input](https://github.com/Sevii/agent-marketplace/blob/main/plugins/elevator-music/README.md) (2025-12-20)
-- [Go ahead, self-host Postgres](https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1) (2025-12-20)
+- [Humankind's 10 million year love affair with booze might end](https://www.economist.com/christmas-specials/2025/12/18/how-humankinds-10m-year-love-affair-with-booze-might-end) (2025-12-21)
+- [Anatomy of US inequality](https://www.nber.org/papers/w34558) (2025-12-20)
+- [More databases should be single-threaded](https://blog.konsti.xyz/p/8c8a399f-8cfe-47dd-9278-9527105d07dc/) (2025-12-20)
+- [Claude in Chrome](https://claude.com/chrome) (2025-12-20)
+- [Show HN: Jmail – Google Suite for Epstein files](https://www.jmail.world) (2025-12-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The Verge’s 2025 holiday gift guide](https://www.theverge.com/tech/809421/holiday-gift-guide-2025) (2025-12-20)
+- [Sony’s XM5 headphones and the latest Kindle round out this week’s best deals](https://www.theverge.com/gadgets/848353/sony-wh-1000xm5-headphones-amazon-kindle-deal-sale) (2025-12-20)
 - [The best last-minute Christmas gifts you can grab for under $50](https://www.theverge.com/gadgets/848134/best-last-minute-christmas-gifts-under-50-2025) (2025-12-20)
 - [The LCD Steam Deck is done](https://www.theverge.com/news/848595/the-lcd-steam-deck-is-done) (2025-12-20)
 - [Dogpile&#8217;s puzzles mix Balatro, Tetris, and a pile of puppies](https://www.theverge.com/entertainment/848041/dogpile-review-inde-game-steam-balatro-puppies) (2025-12-20)
-- [You can buy your Xbox Ally an official pair of anti-drift joysticks](https://www.theverge.com/games/848568/xbox-ally-gulikit-tmr-joysticks) (2025-12-20)
-- [‘Friend slop’ made co-op gaming goofier than ever in 2025](https://www.theverge.com/entertainment/845347/friend-slop-co-op-games-2025) (2025-12-20)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Deeply nested AL code can be a nightmare to review, especially in big files.](https://dev.to/jeffreybulanadi/deeply-nested-al-code-can-be-a-nightmare-to-review-especially-in-big-files-79f) (2025-12-20)
-- [Introducing Automatic Security Audits for AI](https://dev.to/ivandotcodes/introducing-automatic-security-audits-for-ai-45eh) (2025-12-20)
-- [Mastering React.js in 2026: A Comprehensive Guide](https://dev.to/panchalmukundak/mastering-reactjs-in-2026-a-comprehensive-guide-3d4n) (2025-12-20)
-- [The Laravel 12 Docker Blueprint I Wish I Had: Nginx + PHP-FPM, Small Images, Clean CI/CD, and DigitalOcean Private Registry](https://dev.to/mufthi_ryanda_84ea0d65262/the-laravel-12-docker-blueprint-i-wish-i-had-nginx-php-fpm-small-images-clean-cicd-and-4ai5) (2025-12-20)
-- [GitHub Copilot Agent Skills: Teaching AI Your Repository Patterns](https://dev.to/qa-leaders/github-copilot-agent-skills-teaching-ai-your-repository-patterns-1oa8) (2025-12-20)
+- [🎉 Announcing mkarchi v0.1.6 - Now Ready to Use! 🚀](https://dev.to/soufyanrachdi/announcing-mkarchi-v016-now-ready-to-use-4ifj) (2025-12-21)
+- [Your opinion on OTPShield API on RapidAPI? How can test it quickly?](https://dev.to/abdallh_hamami_e7d4b0f829/your-opinion-on-otpshield-api-on-rapidapi-how-can-test-it-quickly-31fb) (2025-12-21)
+- [🔐 OTP Is Not Authentication — It’s a Costly Side Effect: explore OTPshield](https://dev.to/abdallh_hamami_e7d4b0f829/otp-is-not-authentication-its-a-costly-side-effect-explore-otpshield-1hig) (2025-12-21)
+- [The Effectiveness of Data Augmentation in Image Classification using DeepLearning](https://dev.to/paperium/the-effectiveness-of-data-augmentation-in-image-classification-using-deeplearning-4aec) (2025-12-21)
+- [🛑 Stopping SMS OTP Abuse Before It Starts: An Upstream Security Approach](https://dev.to/abdallh_hamami_e7d4b0f829/stopping-sms-otp-abuse-before-it-starts-an-upstream-security-approach-f4f) (2025-12-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Tech Interview Prep: What $2000 Courses Don’t Teach You](https://medium.com/lets-code-future/tech-interview-prep-what-2000-courses-dont-teach-you-563058646282?source=rss------programming-5) (2025-12-20)
-- [☕ Java 8 LTS vs Java 25 LTS (Part 1)](https://medium.com/@darwinjmathews38/java-8-lts-vs-java-25-lts-part-1-ede948a1d6b0?source=rss------programming-5) (2025-12-20)
-- [Stop Using Tkinter for Modern Apps Try This Instead](https://python.plainenglish.io/stop-using-tkinter-for-modern-apps-try-this-instead-e405981b235a?source=rss------programming-5) (2025-12-20)
-- [Developer Productivity in 2025](https://aibloggerworld.medium.com/developer-productivity-in-2025-f8065218a271?source=rss------programming-5) (2025-12-20)
-- [ Building Real-Time Applications With SignalR & .NET 10](https://medium.com/@mariammaurice/building-real-time-applications-with-signalr-net-10-3f544eae7a63?source=rss------programming-5) (2025-12-20)
+- [17 Free AI Templates Perfect for Automations & Productivity Tools](https://medium.com/@alphadesignglobal/17-free-ai-templates-perfect-for-automations-productivity-tools-5938ae0d5921?source=rss------programming-5) (2025-12-21)
+- [Can You Solve This Production Bug?](https://medium.com/@vndpal/can-you-solve-this-production-bug-1df9258d4a9c?source=rss------programming-5) (2025-12-21)
+- [Dependency Management & Virtual Environments in Python](https://akshitagarwal93.medium.com/dependency-management-virtual-environments-in-python-b343601c3102?source=rss------programming-5) (2025-12-21)
+- [Decoding the Immune System: How White Blood Cells “Code” Our Defense](https://medium.com/@ttderessa/decoding-the-immune-system-how-white-blood-cells-code-our-defense-810fc6b05239?source=rss------programming-5) (2025-12-21)
+- [Europe’s Three Post-Imperial Hangovers](https://medium.com/@globalgeopolitics/europes-three-post-imperial-hangovers-e489298c62bb?source=rss------programming-5) (2025-12-21)
 
 </details>
 
@@ -506,11 +506,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>💬 Slack API</summary>
 
+- [Securing the Agentic Enterprise](https://slack.com/blog/transformation/securing-the-agentic-enterprise) (2025-12-17)
+- [Why Your AI Is Advancing — and Your Enterprise Isn’t](https://slack.com/blog/transformation/five-friction-points-enterprise-ai) (2025-12-16)
+- [Enterprise Search: How to Find Anything at Work with One Query](https://slack.com/blog/productivity/enterprise-search) (2025-12-15)
+- [AI Knowledge Base: The Complete Guide for 2026](https://slack.com/blog/productivity/what-is-an-ai-knowledge-base-tools-features-and-best-practices) (2025-12-15)
 - [The Rise of Software Engineering Agents in Slack](https://slack.com/blog/developers/coding-agents-in-slack) (2025-12-11)
-- [11 Best AI Workflow Automation Tools for 2026](https://slack.com/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows) (2025-12-10)
-- [How to Maximize a Workflow Management System for Efficiency](https://slack.com/blog/productivity/what-is-workflow-management-2) (2025-12-10)
-- [GovSlack Achieves Department of Defense IL4 Authorization](https://slack.com/blog/news/govslack-achieves-department-of-defense-il4-authorization) (2025-12-09)
-- [Five proven employee engagement strategies to motivate your team](https://slack.com/blog/collaboration/five-proven-employee-engagement-strategies-to-motivate-your-team) (2025-12-01)
 
 </details>
 
