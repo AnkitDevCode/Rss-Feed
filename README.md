@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Measuring AI Ability to Complete Long Tasks: Opus 4.5 has 50% horizon of 4h49M](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/) (2025-12-21)
-- [PG&E outages in S.F. leave 130k without electricity](https://www.sfchronicle.com/sf/article/pg-e-outage-40-000-customers-without-power-21254326.php) (2025-12-21)
-- [Flock and Cyble Inc. Weaponize "Cybercrime" Takedowns to Silence Critics](https://haveibeenflocked.com/news/cyble-downtime) (2025-12-21)
-- [Claude in Chrome](https://claude.com/chrome) (2025-12-20)
-- [Show HN: Jmail – Google Suite for Epstein files](https://www.jmail.world) (2025-12-20)
+- [New mathematical framework reshapes debate over simulation hypothesis](https://www.santafe.edu/news-center/news/new-mathematical-framework-reshapes-debate-over-simulation-hypothesis) (2025-12-21)
+- [ISBN Visualization Showing 99_959_000 books](https://annas-archive.li/isbn-visualization/) (2025-12-21)
+- [Inca Stone Masonry](https://www.earthasweknowit.com/pages/inca_construction) (2025-12-21)
+- [Clair Obscur having its Indie Game Game Of The Year award stripped due to AI use](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/) (2025-12-21)
+- [Ruby website redesigned](https://www.ruby-lang.org/en/) (2025-12-21)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [My Project-Based Learning Journey – Building Real Projects to Learn](https://dev.to/lone_wolf_22/my-project-based-learning-journey-building-real-projects-to-learn-55hc) (2025-12-21)
-- [Day 78 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-78-of-100-days-dsa-coding-challenge-2pi6) (2025-12-21)
-- [How Transformers Really Think: Inside the Brain of an AI Language Model](https://dev.to/aiwithapex/how-transformers-really-think-inside-the-brain-of-an-ai-language-model-4e99) (2025-12-21)
-- [Echarts in Angular](https://dev.to/vspatil87/echarts-in-angular-427h) (2025-12-21)
-- [2026](https://dev.to/dillik/2026-5fk) (2025-12-21)
+- [I’m building an open-source visual layer on top of GitHub](https://dev.to/vitor_veigavasconcelosn/im-building-an-open-source-visual-layer-on-top-of-github-2l7j) (2025-12-21)
+- [Web Developer Travis McCracken on State Machines in Rust](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-state-machines-in-rust-2bdl) (2025-12-21)
+- [Beyond the Hype: 5 AI-Powered Plays to Supercharge Your B2B Sales Engine](https://dev.to/michaelaiglobal/beyond-the-hype-5-ai-powered-plays-to-supercharge-your-b2b-sales-engine-51oo) (2025-12-21)
+- [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://dev.to/paperium/bloom-a-176b-parameter-open-access-multilingual-language-model-1hoa) (2025-12-21)
+- [Running EC2 in Production: Storage, Reliability, Scaling, and Operational Best Practices](https://dev.to/jeyy/running-ec2-in-production-storage-reliability-scaling-and-operational-best-practices-2jgj) (2025-12-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [# Why Most Healthcare Apps Fail: Lessons from a Clinician Who Codes](https://medium.com/@fengbo0724/why-most-healthcare-apps-fail-lessons-from-a-clinician-who-codes-4e37298359c6?source=rss------programming-5) (2025-12-21)
-- [React in 2025: What Changed, What Matters, and What’s Next](https://tusharkantatk.medium.com/react-in-2025-what-changed-what-matters-and-whats-next-a947dca7b1f8?source=rss------programming-5) (2025-12-21)
-- [Why We Replaced Daily Standups with Written Daily Logs](https://medium.com/@premchandak_11/why-we-replaced-daily-standups-with-written-daily-logs-0f2a2ee46ab8?source=rss------programming-5) (2025-12-21)
-- [Multithreading (Implementing parallel merge sort using multithreading)](https://medium.com/@janhvibabani/multithreading-implementing-parallel-merge-sort-using-multithreading-6d1dd96f5977?source=rss------programming-5) (2025-12-21)
-- [✨ Flutter Tips You Absolutely Need to Know (But Most Developers Ignore) ️](https://medium.com/@elizacodewell72/flutter-tips-you-absolutely-need-to-know-but-most-developers-ignore-%EF%B8%8F-9859b7e00380?source=rss------programming-5) (2025-12-21)
+- [From Components to Performance: A Rust Programmer’s Guide* to Bevy ECS Architecture](https://medium.com/@monikasinghal713/from-components-to-performance-a-rust-programmers-guide-to-bevy-ecs-architecture-c9a1d16d78c3?source=rss------programming-5) (2025-12-21)
+- [Production Bugs No One Teaches You #2 — “Eventually Consistent” Doesn’t Mean “Eventually Correct”](https://javascript.plainenglish.io/production-bugs-no-one-teaches-you-2-eventually-consistent-doesnt-mean-eventually-correct-78111bc1aa14?source=rss------programming-5) (2025-12-21)
+- [Single Responsibility Principle: The Art of Separation](https://medium.com/@tobysolutions/single-responsibility-principle-the-art-of-separation-9e543d022c76?source=rss------programming-5) (2025-12-21)
+- [Which Programming Language Is Behind ChatGPT?](https://medium.com/@DigitalMadhav/which-programming-language-is-behind-chatgpt-15afea091870?source=rss------programming-5) (2025-12-21)
+- [Design Pattern Serisi #1: Singleton Pattern ve C# Uygulaması](https://medium.com/@ernalmdr/design-pattern-serisi-1-singleton-pattern-ve-c-uygulamas%C4%B1-28c8baec34d1?source=rss------programming-5) (2025-12-21)
 
 </details>
 
@@ -135,6 +135,17 @@
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 - [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
 - [Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025](https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/) (2025-12-10)
+
+</details>
+
+<details>
+<summary>🎮 NVIDIA Blog</summary>
+
+- [NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Landmark Genesis Mission](https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/) (2025-12-18)
+- [Now Generally Available, NVIDIA RTX PRO 5000 72GB Blackwell GPU Expands Memory Options for Desktop Agentic AI](https://blogs.nvidia.com/blog/rtx-pro-5000-72gb-blackwell-gpu/) (2025-12-18)
+- [Deck the Vaults: ‘Fallout: New Vegas’ Joins the Cloud This Holiday Season](https://blogs.nvidia.com/blog/geforce-now-thursday-fallout-new-vegas/) (2025-12-18)
+- [Into the Omniverse: OpenUSD and NVIDIA Halos Accelerate Safety for Robotaxis, Physical AI Systems](https://blogs.nvidia.com/blog/openusd-halos-safety-robotaxi-physical-ai/) (2025-12-17)
+- [UC San Diego Lab Advances Generative AI Research With NVIDIA DGX B200 System](https://blogs.nvidia.com/blog/ucsd-generative-ai-research-dgx-b200/) (2025-12-17)
 
 </details>
 
