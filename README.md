@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [TechCrunch Mobility: Bankruptcy takes out two](https://techcrunch.com/2025/12/21/techcrunch-mobility-bankruptcy-takes-out-two/) (2025-12-21)
+- [Waymo suspends service in San Francisco as robotaxis stall during blackout](https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/) (2025-12-21)
+- [As EU waters down 2035 EV goals, electric startups express concern](https://techcrunch.com/2025/12/21/as-eu-waters-down-2035-ev-goals-electric-startups-express-concern/) (2025-12-21)
+- [Israel’s famed VC Jon Medved, diagnosed with ALS, backed the tech that will improve his life ](https://techcrunch.com/2025/12/21/israels-famed-vc-jon-medved-diagnosed-with-als-backed-the-tech-that-will-improve-his-life/) (2025-12-21)
 - [Google and Apple reportedly warn employees on visas to avoid international travel](https://techcrunch.com/2025/12/20/google-and-apple-reportedly-warn-employees-on-visas-to-avoid-international-travel/) (2025-12-20)
-- [‘It felt so wrong’: Colin Angle on iRobot, the FTC, and the Amazon deal that never was](https://techcrunch.com/2025/12/20/it-felt-so-wrong-colin-angle-on-irobot-the-ftc-and-the-amazon-deal-that-never-was/) (2025-12-20)
-- [OpenAI allows users to directly adjust ChatGPT’s enthusiasm level](https://techcrunch.com/2025/12/20/openai-allows-users-to-directly-adjust-chatgpts-warmth-and-enthusiasm/) (2025-12-20)
-- [New York Governor Kathy Hochul signs RAISE Act to regulate AI safety](https://techcrunch.com/2025/12/20/new-york-governor-kathy-hochul-signs-raise-act-to-regulate-ai-safety/) (2025-12-20)
-- [Sequoia partner spreads debunked Brown shooting theory, testing new leadership](https://techcrunch.com/2025/12/19/sequoia-partner-spreads-debunked-brown-shooting-theory-testing-new-leadership/) (2025-12-20)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [New mathematical framework reshapes debate over simulation hypothesis](https://www.santafe.edu/news-center/news/new-mathematical-framework-reshapes-debate-over-simulation-hypothesis) (2025-12-21)
-- [ISBN Visualization Showing 99_959_000 books](https://annas-archive.li/isbn-visualization/) (2025-12-21)
-- [Inca Stone Masonry](https://www.earthasweknowit.com/pages/inca_construction) (2025-12-21)
-- [Clair Obscur having its Indie Game Game Of The Year award stripped due to AI use](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/) (2025-12-21)
-- [Ruby website redesigned](https://www.ruby-lang.org/en/) (2025-12-21)
+- [Waymo suspends service in San Francisco as robotaxis stall during blackout](https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/) (2025-12-21)
+- [ELF Crimes: Program Interpreter Fun](https://nytpu.com/gemlog/2025-12-21) (2025-12-21)
+- [Show HN: Books mentioned on Hacker News in 2025](https://hackernews-readings-613604506318.us-west1.run.app) (2025-12-21)
+- [Show HN: WalletWallet – create Apple passes from anything](https://walletwallet.alen.ro/) (2025-12-21)
+- [E.W.Dijkstra Archive](https://www.cs.utexas.edu/~EWD/welcome.html) (2025-12-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The Verge’s 2025 holiday gift guide](https://www.theverge.com/tech/809421/holiday-gift-guide-2025) (2025-12-20)
-- [Sony’s XM5 headphones and the latest Kindle round out this week’s best deals](https://www.theverge.com/gadgets/848353/sony-wh-1000xm5-headphones-amazon-kindle-deal-sale) (2025-12-20)
-- [The best last-minute Christmas gifts you can grab for under $50](https://www.theverge.com/gadgets/848134/best-last-minute-christmas-gifts-under-50-2025) (2025-12-20)
-- [The LCD Steam Deck is done](https://www.theverge.com/news/848595/the-lcd-steam-deck-is-done) (2025-12-20)
-- [Dogpile&#8217;s puzzles mix Balatro, Tetris, and a pile of puppies](https://www.theverge.com/entertainment/848041/dogpile-review-inde-game-steam-balatro-puppies) (2025-12-20)
+- [Some of our favorite gifts will cost you less than $25](https://www.theverge.com/gadgets/780844/best-gifts-under-25-2025) (2025-12-21)
+- [You need to listen to these Christmas deep cuts](https://www.theverge.com/column/848710/christmas-song-deep-cuts) (2025-12-21)
+- [The 35 best gifts that your teen will actually use](https://www.theverge.com/tech/785418/best-teen-gift-ideas-2025) (2025-12-21)
+- [Job killer](https://www.theverge.com/entertainment/847424/park-chan-wook-no-other-choice-interview) (2025-12-21)
+- [The best thing I bought this year: The Nintendo Switch 2](https://www.theverge.com/gadgets/845477/nintendo-switch-2-game-system-favorite) (2025-12-21)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I’m building an open-source visual layer on top of GitHub](https://dev.to/vitor_veigavasconcelosn/im-building-an-open-source-visual-layer-on-top-of-github-2l7j) (2025-12-21)
-- [Web Developer Travis McCracken on State Machines in Rust](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-state-machines-in-rust-2bdl) (2025-12-21)
-- [Beyond the Hype: 5 AI-Powered Plays to Supercharge Your B2B Sales Engine](https://dev.to/michaelaiglobal/beyond-the-hype-5-ai-powered-plays-to-supercharge-your-b2b-sales-engine-51oo) (2025-12-21)
-- [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://dev.to/paperium/bloom-a-176b-parameter-open-access-multilingual-language-model-1hoa) (2025-12-21)
-- [Running EC2 in Production: Storage, Reliability, Scaling, and Operational Best Practices](https://dev.to/jeyy/running-ec2-in-production-storage-reliability-scaling-and-operational-best-practices-2jgj) (2025-12-21)
+- [Winner](https://dev.to/preetha_vaishnavi_2b82358/winner-3872) (2025-12-21)
+- [Building an Intentionally Vulnerable AWS Lab to Teach Cloud Security](https://dev.to/karanvaghela/building-an-intentionally-vulnerable-aws-lab-to-teach-cloud-security-77f) (2025-12-21)
+- [Car ride](https://dev.to/preetha_vaishnavi_2b82358/car-ride-5eie) (2025-12-21)
+- [Train ride](https://dev.to/preetha_vaishnavi_2b82358/train-ride-2k41) (2025-12-21)
+- [Stop Shipping Broken Strings: Placeholder-Safe i18n in Node.js + Express](https://dev.to/shipi18n/stop-shipping-broken-strings-placeholder-safe-i18n-in-nodejs-express-5hhm) (2025-12-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [From Components to Performance: A Rust Programmer’s Guide* to Bevy ECS Architecture](https://medium.com/@monikasinghal713/from-components-to-performance-a-rust-programmers-guide-to-bevy-ecs-architecture-c9a1d16d78c3?source=rss------programming-5) (2025-12-21)
-- [Production Bugs No One Teaches You #2 — “Eventually Consistent” Doesn’t Mean “Eventually Correct”](https://javascript.plainenglish.io/production-bugs-no-one-teaches-you-2-eventually-consistent-doesnt-mean-eventually-correct-78111bc1aa14?source=rss------programming-5) (2025-12-21)
-- [Single Responsibility Principle: The Art of Separation](https://medium.com/@tobysolutions/single-responsibility-principle-the-art-of-separation-9e543d022c76?source=rss------programming-5) (2025-12-21)
-- [Which Programming Language Is Behind ChatGPT?](https://medium.com/@DigitalMadhav/which-programming-language-is-behind-chatgpt-15afea091870?source=rss------programming-5) (2025-12-21)
-- [Design Pattern Serisi #1: Singleton Pattern ve C# Uygulaması](https://medium.com/@ernalmdr/design-pattern-serisi-1-singleton-pattern-ve-c-uygulamas%C4%B1-28c8baec34d1?source=rss------programming-5) (2025-12-21)
+- [Outlier Detection and Treatment in Machine Learning: Complete Guide 2025 (8+ Detection Methods and…](https://medium.com/@kunalkumar97503/outlier-detection-and-treatment-in-machine-learning-complete-guide-2025-8-detection-methods-and-82b15b672e9a?source=rss------programming-5) (2025-12-21)
+- [The HTTPS Certificate Chain Error Blocking Mobile App Users](https://medium.com/@sohail_saifi/the-https-certificate-chain-error-blocking-mobile-app-users-15b4063e1507?source=rss------programming-5) (2025-12-21)
+- [Everyone Thinks Coding Is Logical… Until They Try It](https://medium.com/@meryemma2003/everyone-thinks-coding-is-logical-until-they-try-it-c05f84cb5eca?source=rss------programming-5) (2025-12-21)
+- [The Future of Cybersecurity: What You Need to Know in 2025](https://medium.com/@mohamedeljazzar/the-future-of-cybersecurity-what-you-need-to-know-in-2025-a7ffe65faf25?source=rss------programming-5) (2025-12-21)
+- [1 Simple Trick to Make Your C# Enums Smarter (And Why You’ll Never Go Back)](https://medium.com/@michaelmaurice410/1-simple-trick-to-make-your-c-enums-smarter-and-why-youll-never-go-back-0c65c57d30f7?source=rss------programming-5) (2025-12-21)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
-- [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 - [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
 - [Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025](https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/) (2025-12-10)
+- [Microsoft’s commitment to supporting cloud infrastructure demand in the United States](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/) (2025-12-09)
+- [New options for AI-powered innovation, resiliency, and control with Microsoft Azure](https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/) (2025-12-03)
 
 </details>
 
@@ -506,11 +506,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>💬 Slack API</summary>
 
+- [Securing the Agentic Enterprise](https://slack.com/blog/transformation/securing-the-agentic-enterprise) (2025-12-17)
+- [Why Your AI Is Advancing — and Your Enterprise Isn’t](https://slack.com/blog/transformation/five-friction-points-enterprise-ai) (2025-12-16)
+- [Enterprise Search: How to Find Anything at Work with One Query](https://slack.com/blog/productivity/enterprise-search) (2025-12-15)
+- [AI Knowledge Base: The Complete Guide for 2026](https://slack.com/blog/productivity/what-is-an-ai-knowledge-base-tools-features-and-best-practices) (2025-12-15)
 - [The Rise of Software Engineering Agents in Slack](https://slack.com/blog/developers/coding-agents-in-slack) (2025-12-11)
-- [11 Best AI Workflow Automation Tools for 2026](https://slack.com/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows) (2025-12-10)
-- [How to Maximize a Workflow Management System for Efficiency](https://slack.com/blog/productivity/what-is-workflow-management-2) (2025-12-10)
-- [GovSlack Achieves Department of Defense IL4 Authorization](https://slack.com/blog/news/govslack-achieves-department-of-defense-il4-authorization) (2025-12-09)
-- [Five proven employee engagement strategies to motivate your team](https://slack.com/blog/collaboration/five-proven-employee-engagement-strategies-to-motivate-your-team) (2025-12-01)
 
 </details>
 
@@ -572,22 +572,22 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Do Evals on a Bloated RAG Pipeline](https://towardsdatascience.com/doing-evals-on-a-bloated-rag-pipeline/) (2025-12-21)
+- [Tools for Your LLM: a Deep Dive into MCP](https://towardsdatascience.com/tools-for-your-llm-a-deep-dive-into-mcp/) (2025-12-21)
 - [Understanding the Generative AI User](https://towardsdatascience.com/understanding-the-generative-ai-user/) (2025-12-20)
 - [EDA in Public (Part 2): Product Deep Dive & Time-Series Analysis in Pandas](https://towardsdatascience.com/eda-in-public-part-2-product-deep-dive-time-series-analysis-in-pandas/) (2025-12-20)
 - [The Machine Learning “Advent Calendar” Day 19: Bagging in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-19-bagging-in-excel/) (2025-12-19)
-- [Agentic AI Swarm Optimization using Artificial Bee Colonization (ABC)](https://towardsdatascience.com/agentic-ai-swarm-optimization-using-artificial-bee-colonization-abc/) (2025-12-19)
-- [How I Optimized My Leaf Raking Strategy Using Linear Programming](https://towardsdatascience.com/how-i-optimized-my-leaf-raking-strategy-using-linear-programming/) (2025-12-19)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Building an Agentic AI Pipeline for ESG Reporting ](https://www.analyticsvidhya.com/blog/2025/12/building-an-agentic-ai-pipeline-for-esg-reporting/) (2025-12-21)
 - [IQ of AI: 15+ AI Models That are Smarter Than You](https://www.analyticsvidhya.com/blog/2025/12/ai-models-that-are-smarter-than-you/) (2025-12-20)
 - [Gemini 3 Pro vs GPT 5.2: The Ultimate 2025 AI Showdown](https://www.analyticsvidhya.com/blog/2025/12/gemini-3-pro-vs-gpt-5-2/) (2025-12-19)
 - [Top 10 YouTube Channels to Learn Python](https://www.analyticsvidhya.com/blog/2025/12/youtube-channels-to-learn-python/) (2025-12-19)
 - [AgentOps Learning Path 2026](https://www.analyticsvidhya.com/blog/2025/12/agentops-learning-path/) (2025-12-19)
-- [Gemini 3 Flash is Here for Superfast AI Performace](https://www.analyticsvidhya.com/blog/2025/12/gemini-3-flash-is-here/) (2025-12-18)
 
 </details>
 
@@ -605,11 +605,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Rotary Position Embeddings for Long Context Length](https://machinelearningmastery.com/rotary-position-embeddings-for-long-context-length/) (2025-12-21)
 - [How to Fine-Tune a Local Mistral or Llama 3 Model on Your Own Dataset](https://machinelearningmastery.com/how-to-fine-tune-a-local-mistral-or-llama-3-model-on-your-own-dataset/) (2025-12-19)
 - [5 Agentic Coding Tips & Tricks](https://machinelearningmastery.com/5-agentic-coding-tips-tricks/) (2025-12-18)
 - [The Real Cost of Inaction: How Silos Hurt Productivity for Data Scientists (Sponsored)](https://bit.ly/3Y07mHi) (2025-12-17)
 - [Top 5 Vector Databases for High-Performance LLM Applications](https://machinelearningmastery.com/top-5-vector-databases-for-high-performance-llm-applications/) (2025-12-17)
-- [The Machine Learning Engineer’s Checklist: Best Practices for Reliable Models](https://machinelearningmastery.com/the-machine-learning-engineers-checklist-best-practices-for-reliable-models/) (2025-12-16)
 
 </details>
 
