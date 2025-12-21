@@ -31,9 +31,9 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Humankind's 10 million year love affair with booze might end](https://www.economist.com/christmas-specials/2025/12/18/how-humankinds-10m-year-love-affair-with-booze-might-end) (2025-12-21)
-- [Anatomy of US inequality](https://www.nber.org/papers/w34558) (2025-12-20)
-- [More databases should be single-threaded](https://blog.konsti.xyz/p/8c8a399f-8cfe-47dd-9278-9527105d07dc/) (2025-12-20)
+- [Measuring AI Ability to Complete Long Tasks: Opus 4.5 has 50% horizon of 4h49M](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/) (2025-12-21)
+- [PG&E outages in S.F. leave 130k without electricity](https://www.sfchronicle.com/sf/article/pg-e-outage-40-000-customers-without-power-21254326.php) (2025-12-21)
+- [Flock and Cyble Inc. Weaponize "Cybercrime" Takedowns to Silence Critics](https://haveibeenflocked.com/news/cyble-downtime) (2025-12-21)
 - [Claude in Chrome](https://claude.com/chrome) (2025-12-20)
 - [Show HN: Jmail – Google Suite for Epstein files](https://www.jmail.world) (2025-12-20)
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [🎉 Announcing mkarchi v0.1.6 - Now Ready to Use! 🚀](https://dev.to/soufyanrachdi/announcing-mkarchi-v016-now-ready-to-use-4ifj) (2025-12-21)
-- [Your opinion on OTPShield API on RapidAPI? How can test it quickly?](https://dev.to/abdallh_hamami_e7d4b0f829/your-opinion-on-otpshield-api-on-rapidapi-how-can-test-it-quickly-31fb) (2025-12-21)
-- [🔐 OTP Is Not Authentication — It’s a Costly Side Effect: explore OTPshield](https://dev.to/abdallh_hamami_e7d4b0f829/otp-is-not-authentication-its-a-costly-side-effect-explore-otpshield-1hig) (2025-12-21)
-- [The Effectiveness of Data Augmentation in Image Classification using DeepLearning](https://dev.to/paperium/the-effectiveness-of-data-augmentation-in-image-classification-using-deeplearning-4aec) (2025-12-21)
-- [🛑 Stopping SMS OTP Abuse Before It Starts: An Upstream Security Approach](https://dev.to/abdallh_hamami_e7d4b0f829/stopping-sms-otp-abuse-before-it-starts-an-upstream-security-approach-f4f) (2025-12-21)
+- [My Project-Based Learning Journey – Building Real Projects to Learn](https://dev.to/lone_wolf_22/my-project-based-learning-journey-building-real-projects-to-learn-55hc) (2025-12-21)
+- [Day 78 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-78-of-100-days-dsa-coding-challenge-2pi6) (2025-12-21)
+- [How Transformers Really Think: Inside the Brain of an AI Language Model](https://dev.to/aiwithapex/how-transformers-really-think-inside-the-brain-of-an-ai-language-model-4e99) (2025-12-21)
+- [Echarts in Angular](https://dev.to/vspatil87/echarts-in-angular-427h) (2025-12-21)
+- [2026](https://dev.to/dillik/2026-5fk) (2025-12-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [17 Free AI Templates Perfect for Automations & Productivity Tools](https://medium.com/@alphadesignglobal/17-free-ai-templates-perfect-for-automations-productivity-tools-5938ae0d5921?source=rss------programming-5) (2025-12-21)
-- [Can You Solve This Production Bug?](https://medium.com/@vndpal/can-you-solve-this-production-bug-1df9258d4a9c?source=rss------programming-5) (2025-12-21)
-- [Dependency Management & Virtual Environments in Python](https://akshitagarwal93.medium.com/dependency-management-virtual-environments-in-python-b343601c3102?source=rss------programming-5) (2025-12-21)
-- [Decoding the Immune System: How White Blood Cells “Code” Our Defense](https://medium.com/@ttderessa/decoding-the-immune-system-how-white-blood-cells-code-our-defense-810fc6b05239?source=rss------programming-5) (2025-12-21)
-- [Europe’s Three Post-Imperial Hangovers](https://medium.com/@globalgeopolitics/europes-three-post-imperial-hangovers-e489298c62bb?source=rss------programming-5) (2025-12-21)
+- [# Why Most Healthcare Apps Fail: Lessons from a Clinician Who Codes](https://medium.com/@fengbo0724/why-most-healthcare-apps-fail-lessons-from-a-clinician-who-codes-4e37298359c6?source=rss------programming-5) (2025-12-21)
+- [React in 2025: What Changed, What Matters, and What’s Next](https://tusharkantatk.medium.com/react-in-2025-what-changed-what-matters-and-whats-next-a947dca7b1f8?source=rss------programming-5) (2025-12-21)
+- [Why We Replaced Daily Standups with Written Daily Logs](https://medium.com/@premchandak_11/why-we-replaced-daily-standups-with-written-daily-logs-0f2a2ee46ab8?source=rss------programming-5) (2025-12-21)
+- [Multithreading (Implementing parallel merge sort using multithreading)](https://medium.com/@janhvibabani/multithreading-implementing-parallel-merge-sort-using-multithreading-6d1dd96f5977?source=rss------programming-5) (2025-12-21)
+- [✨ Flutter Tips You Absolutely Need to Know (But Most Developers Ignore) ️](https://medium.com/@elizacodewell72/flutter-tips-you-absolutely-need-to-know-but-most-developers-ignore-%EF%B8%8F-9859b7e00380?source=rss------programming-5) (2025-12-21)
 
 </details>
 
@@ -135,17 +135,6 @@
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 - [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
 - [Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025](https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/) (2025-12-10)
-
-</details>
-
-<details>
-<summary>🎮 NVIDIA Blog</summary>
-
-- [NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Landmark Genesis Mission](https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/) (2025-12-18)
-- [Now Generally Available, NVIDIA RTX PRO 5000 72GB Blackwell GPU Expands Memory Options for Desktop Agentic AI](https://blogs.nvidia.com/blog/rtx-pro-5000-72gb-blackwell-gpu/) (2025-12-18)
-- [Deck the Vaults: ‘Fallout: New Vegas’ Joins the Cloud This Holiday Season](https://blogs.nvidia.com/blog/geforce-now-thursday-fallout-new-vegas/) (2025-12-18)
-- [Into the Omniverse: OpenUSD and NVIDIA Halos Accelerate Safety for Robotaxis, Physical AI Systems](https://blogs.nvidia.com/blog/openusd-halos-safety-robotaxi-physical-ai/) (2025-12-17)
-- [UC San Diego Lab Advances Generative AI Research With NVIDIA DGX B200 System](https://blogs.nvidia.com/blog/ucsd-generative-ai-research-dgx-b200/) (2025-12-17)
 
 </details>
 
@@ -506,11 +495,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>💬 Slack API</summary>
 
-- [Securing the Agentic Enterprise](https://slack.com/blog/transformation/securing-the-agentic-enterprise) (2025-12-17)
-- [Why Your AI Is Advancing — and Your Enterprise Isn’t](https://slack.com/blog/transformation/five-friction-points-enterprise-ai) (2025-12-16)
-- [Enterprise Search: How to Find Anything at Work with One Query](https://slack.com/blog/productivity/enterprise-search) (2025-12-15)
-- [AI Knowledge Base: The Complete Guide for 2026](https://slack.com/blog/productivity/what-is-an-ai-knowledge-base-tools-features-and-best-practices) (2025-12-15)
 - [The Rise of Software Engineering Agents in Slack](https://slack.com/blog/developers/coding-agents-in-slack) (2025-12-11)
+- [11 Best AI Workflow Automation Tools for 2026](https://slack.com/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows) (2025-12-10)
+- [How to Maximize a Workflow Management System for Efficiency](https://slack.com/blog/productivity/what-is-workflow-management-2) (2025-12-10)
+- [GovSlack Achieves Department of Defense IL4 Authorization](https://slack.com/blog/news/govslack-achieves-department-of-defense-il4-authorization) (2025-12-09)
+- [Five proven employee engagement strategies to motivate your team](https://slack.com/blog/collaboration/five-proven-employee-engagement-strategies-to-motivate-your-team) (2025-12-01)
 
 </details>
 
