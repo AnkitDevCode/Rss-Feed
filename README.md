@@ -20,9 +20,9 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Waymo resumes service in San Francisco after robotaxis stall during blackout](https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/) (2025-12-22)
 - [A rough week for hardware companies](https://techcrunch.com/2025/12/21/a-rough-week-for-hardware-companies/) (2025-12-21)
 - [TechCrunch Mobility: Bankruptcy takes out two](https://techcrunch.com/2025/12/21/techcrunch-mobility-bankruptcy-takes-out-two/) (2025-12-21)
-- [Waymo suspends service in San Francisco as robotaxis stall during blackout](https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/) (2025-12-21)
 - [As EU waters down 2035 EV goals, electric startups express concern](https://techcrunch.com/2025/12/21/as-eu-waters-down-2035-ev-goals-electric-startups-express-concern/) (2025-12-21)
 - [Israel’s famed VC Jon Medved, diagnosed with ALS, backed the tech that will improve his life ](https://techcrunch.com/2025/12/21/israels-famed-vc-jon-medved-diagnosed-with-als-backed-the-tech-that-will-improve-his-life/) (2025-12-21)
 
@@ -31,10 +31,10 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: Mactop v2.0.0](https://github.com/metaspartan/mactop) (2025-12-22)
-- [Frozen Waymos backed up San Francisco traffic during a widespread power outage](https://www.theverge.com/news/848843/waymo-san-francisco-power-outage) (2025-12-22)
+- [Cursed circuits #3: true mathematics](https://lcamtuf.substack.com/p/cursed-circuits-3-true-mathematics) (2025-12-22)
+- [Build Android apps using Rust and Iced](https://github.com/ibaryshnikov/android-iced-example) (2025-12-22)
+- [86Box v5.3](https://86box.net/2025/12/21/86box-v5-3.html) (2025-12-22)
 - [ONNX Runtime and CoreML May Silently Convert Your Model to FP16](https://ym2132.github.io/ONNX_MLProgram_NN_exploration) (2025-12-22)
-- [I wish people were more public](https://borretti.me/article/i-wish-people-were-more-public) (2025-12-21)
 - [Disney Imagineering Debuts Next-Generation Robotic Character, Olaf](https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/) (2025-12-21)
 
 </details>
@@ -42,11 +42,11 @@
 <details>
 <summary>📱 The Verge</summary>
 
-- [Frozen Waymos backed up San Francisco traffic during a widespread power outage](https://www.theverge.com/news/848843/waymo-san-francisco-power-outage) (2025-12-21)
+- [Honey: all the news about PayPal’s alleged scam coupon app](https://www.theverge.com/24343913/paypal-honey-megalag-coupon-scam-affiliate-fees) (2025-12-22)
+- [Frozen Waymos backed up San Francisco traffic during a widespread power outage](https://www.theverge.com/news/848843/waymo-san-francisco-power-outage) (2025-12-22)
 - [Some of our favorite gifts will cost you less than $25](https://www.theverge.com/gadgets/780844/best-gifts-under-25-2025) (2025-12-21)
 - [You need to listen to these Christmas deep cuts](https://www.theverge.com/column/848710/christmas-song-deep-cuts) (2025-12-21)
 - [The 35 best gifts that your teen will actually use](https://www.theverge.com/tech/785418/best-teen-gift-ideas-2025) (2025-12-21)
-- [Job killer](https://www.theverge.com/entertainment/847424/park-chan-wook-no-other-choice-interview) (2025-12-21)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Astro vs Svelte: ¿Cuál es mejor para tu proyecto?](https://dev.to/joaquin_sez_6de09e190ca1/astro-vs-svelte-cual-es-mejor-para-tu-proyecto-2p61) (2025-12-22)
-- [Conversational AI Case Study: How a Simple Psychological Shift Drove 92% Completion Rates](https://dev.to/faraz_farhan_83ed23a154a2/conversational-ai-case-study-how-a-simple-psychological-shift-drove-92-completion-rates-2dok) (2025-12-22)
-- [What 3 Months of Reddit Marketing Actually Looks Like (For a Solo Dev)](https://dev.to/short_playskits_ab152535/what-3-months-of-reddit-marketing-actually-looks-like-for-a-solo-dev-24cb) (2025-12-22)
-- [How I Optimized Database Queries by 90% in a Laravel Application](https://dev.to/omaranajar/how-i-optimized-database-queries-by-90-in-a-laravel-application-1gec) (2025-12-22)
-- [Dev Log 38 - The Christmas Resurrection (Kind - Of )](https://dev.to/asx/dev-log-38-the-christmas-resurrection-kind-of--2gnm) (2025-12-22)
+- [Docker Environment Composer Local Package Development Tips](https://dev.to/mesak/docker-environment-composer-local-package-development-tips-13a7) (2025-12-22)
+- [Building Multi-Tenant SaaS as a Solo Developer](https://dev.to/pipipi-dev/building-multi-tenant-saas-as-a-solo-developer-1pi9) (2025-12-22)
+- [Building a High-Performance Real-Time Camera Capture System in C++](https://dev.to/techsorter/building-a-high-performance-real-time-camera-capture-system-in-c-3kad) (2025-12-22)
+- [The Hidden Time Drain Killing Your Business Growth](https://dev.to/tracksimple/the-hidden-time-drain-killing-your-business-growth-1pob) (2025-12-22)
+- [Why AI Code Suggestions Fail in Multi-File Projects](https://dev.to/leena_malhotra/why-ai-code-suggestions-fail-in-multi-file-projects-49j9) (2025-12-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Lupakan Instalasi Ribet: Panduan Setup Google Colab & Kaggle Kernels untuk Data Science](https://medium.com/@najibfaqihfathan/lupakan-instalasi-ribet-panduan-setup-google-colab-kaggle-kernels-untuk-data-science-2db68db0208f?source=rss------programming-5) (2025-12-22)
-- [30 Days of Data Engineering Challenge — Day 21: OLTP vs OLAP: What’s the Difference?](https://medium.com/@pawan_41479/30-days-of-data-engineering-challenge-day-21-oltp-vs-olap-whats-the-difference-7940bae68ddd?source=rss------programming-5) (2025-12-22)
-- [8 Python CLI Tools That Changed How I Work](https://python.plainenglish.io/8-python-cli-tools-that-changed-how-i-work-8d8f0a64be5f?source=rss------programming-5) (2025-12-22)
-- [DTOs vs Entities: Why Separating Them Leads to Cleaner and More Secure Code](https://medium.com/@sunil17bbmp/dtos-vs-entities-why-separating-them-leads-to-cleaner-and-more-secure-code-6e3f8458e7b6?source=rss------programming-5) (2025-12-22)
-- [Data Structures Every Mobile Developer Should Master: The 2025 FAANG Interview Blueprint](https://medium.com/@alaxhenry0121/data-structures-every-mobile-developer-should-master-the-2025-faang-interview-blueprint-b8010d1eb0ac?source=rss------programming-5) (2025-12-22)
+- [Beyond the Basics: 5 Advanced Safeguards for Truly Production-Ready Code](https://medium.com/write-a-catalyst/beyond-the-basics-5-advanced-safeguards-for-truly-production-ready-code-53613fface47?source=rss------programming-5) (2025-12-22)
+- [How I Went From Bootcamp Grad to $120K Job (Resource Breakdown)](https://medium.com/write-a-catalyst/how-i-went-from-bootcamp-grad-to-120k-job-resource-breakdown-15551605556c?source=rss------programming-5) (2025-12-22)
+- [From 1000 Records to 1: Solving the Cartesian Product Trap in C# and EF Core](https://medium.com/@sangheraajit/from-1000-records-to-1-solving-the-cartesian-product-trap-in-c-and-ef-core-5452189fd421?source=rss------programming-5) (2025-12-22)
+- [Why Smart Frontend Caching Is the Fastest Way to Speed Up Your App](https://medium.com/@premchandak_11/why-smart-frontend-caching-is-the-fastest-way-to-speed-up-your-app-31a2b7cd5c34?source=rss------programming-5) (2025-12-22)
+- [6 Python Libraries That Helped Me Spend Less Time Debugging](https://python.plainenglish.io/6-python-libraries-that-helped-me-spend-less-time-debugging-d86e7ed70ced?source=rss------programming-5) (2025-12-22)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
 - [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 - [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
 - [Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025](https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/) (2025-12-10)
+- [Microsoft’s commitment to supporting cloud infrastructure demand in the United States](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/) (2025-12-09)
 
 </details>
 
@@ -506,11 +506,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>💬 Slack API</summary>
 
+- [Securing the Agentic Enterprise](https://slack.com/blog/transformation/securing-the-agentic-enterprise) (2025-12-17)
 - [Why Your AI Is Advancing — and Your Enterprise Isn’t](https://slack.com/blog/transformation/five-friction-points-enterprise-ai) (2025-12-16)
 - [Enterprise Search: How to Find Anything at Work with One Query](https://slack.com/blog/productivity/enterprise-search) (2025-12-15)
 - [AI Knowledge Base: The Complete Guide for 2026](https://slack.com/blog/productivity/what-is-an-ai-knowledge-base-tools-features-and-best-practices) (2025-12-15)
 - [The Rise of Software Engineering Agents in Slack](https://slack.com/blog/developers/coding-agents-in-slack) (2025-12-11)
-- [11 Best AI Workflow Automation Tools for 2026](https://slack.com/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows) (2025-12-10)
 
 </details>
 
@@ -559,6 +559,17 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [Marketing agencies using AI in workflows serve more clients](https://www.artificialintelligence-news.com/news/marketing-agencies-ai-use-creates-faster-workflows-but-need-restructuring-internally/) (2025-12-19)
+- [50,000 Copilot licences for Indian service companies](https://www.artificialintelligence-news.com/news/service-provider-ai-implementations-india-enterprise-scale-copilot-rollouts/) (2025-12-19)
+- [Zara’s use of AI shows how retail workflows are quietly changing](https://www.artificialintelligence-news.com/news/zara-use-of-ai-shows-how-retail-workflows-are-quietly-changing/) (2025-12-19)
+- [AI in Human Resources: the real operational impact](https://www.artificialintelligence-news.com/news/hr-ai-in-human-resources-the-real-operational-impact/) (2025-12-18)
+- [Wall Street’s AI gains are here — banks plan for fewer people](https://www.artificialintelligence-news.com/news/wall-street-ai-gains-are-here-banks-plan-for-fewer-people/) (2025-12-18)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
 - [How to Do Evals on a Bloated RAG Pipeline](https://towardsdatascience.com/doing-evals-on-a-bloated-rag-pipeline/) (2025-12-21)
@@ -594,11 +605,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
-- [Rotary Position Embeddings for Long Context Length](https://machinelearningmastery.com/rotary-position-embeddings-for-long-context-length/) (2025-12-21)
+- [Pretraining a Llama Model on Your Local GPU](https://machinelearningmastery.com/pretraining-a-llama-model-on-your-local-gpu/) (2025-12-22)
+- [Rotary Position Embeddings for Long Context Length](https://machinelearningmastery.com/rotary-position-embeddings-for-long-context-length/) (2025-12-20)
 - [How to Fine-Tune a Local Mistral or Llama 3 Model on Your Own Dataset](https://machinelearningmastery.com/how-to-fine-tune-a-local-mistral-or-llama-3-model-on-your-own-dataset/) (2025-12-19)
 - [5 Agentic Coding Tips & Tricks](https://machinelearningmastery.com/5-agentic-coding-tips-tricks/) (2025-12-18)
 - [The Real Cost of Inaction: How Silos Hurt Productivity for Data Scientists (Sponsored)](https://bit.ly/3Y07mHi) (2025-12-17)
-- [Top 5 Vector Databases for High-Performance LLM Applications](https://machinelearningmastery.com/top-5-vector-databases-for-high-performance-llm-applications/) (2025-12-17)
 
 </details>
 
