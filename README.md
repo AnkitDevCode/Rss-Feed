@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [FCC Updates Covered List to Include Foreign UAS and UAS Critical Components [pdf]](https://docs.fcc.gov/public/attachments/DOC-416839A1.pdf) (2025-12-23)
-- [Diesel pollution particles impair lysosomal functions of iPSC-derived microglia](https://www.sciencedirect.com/science/article/pii/S0160412025002181) (2025-12-23)
-- [The Duodecimal Bulletin, Vol. 55, No. 1, Year 1209 [pdf]](https://dozenal.org/drupal/sites_bck/default/files/DuodecimalBulletinIssue551.pdf) (2025-12-23)
-- [Snitch – A friendlier ss/netstat](https://github.com/karol-broda/snitch) (2025-12-23)
-- [Satellites reveal heat leaking from largest US cryptocurrency mining center](https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center) (2025-12-22)
+- [What Is (AI) Glaze?](https://glaze.cs.uchicago.edu/what-is-glaze.html) (2025-12-23)
+- [Ryanair fined €256M over ‘abusive strategy’ to limit ticket sales by OTAs](https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota) (2025-12-23)
+- [Font with Built-In Syntax Highlighting (2024)](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/) (2025-12-23)
+- [What are the best engineering blogs with real-world depth (no fluff)?](https://news.ycombinator.com/item?id=46363921) (2025-12-23)
+- [Carnap – A formal logic framework for Haskell](https://carnap.io/) (2025-12-23)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Dometic makes a better portable water faucet](https://www.theverge.com/tech/848916/dometic-recon-360-water-pump-review) (2025-12-23)
 - [The FCC’s foreign drone ban is here](https://www.theverge.com/news/849460/fcc-foreign-drone-ban-dji-congress-deadline) (2025-12-23)
 - [The 60 Minutes report on CECOT that Bari Weiss censored is now internet contraband](https://www.theverge.com/policy/849432/60-minutes-cecot-censored-canada-leak) (2025-12-23)
 - [ChatGPT’s yearly recap sums up your conversations with the chatbot](https://www.theverge.com/news/849348/openai-chatgpt-2025-year-in-review-wrapped) (2025-12-22)
 - [Call of Duty, Titanfall developer Vince Zampella has died at age 55](https://www.theverge.com/news/849297/vince-zampella-dies-call-of-duty-titanfall-respawn-battlefield) (2025-12-22)
-- [Bitcoin does cultural diplomacy in a dive bar](https://www.theverge.com/policy/849133/pubkey-dc-opening-bitcoin-bar) (2025-12-22)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [How social media encourages the worst of AI boosterism](https://www.technologyreview.com/2025/12/23/1130393/how-social-media-encourages-the-worst-of-ai-boosterism/) (2025-12-23)
+- [How I learned to stop worrying and love AI slop](https://www.technologyreview.com/2025/12/23/1130396/how-i-learned-to-stop-worrying-and-love-ai-slop/) (2025-12-23)
 - [Welcome to Kenya’s Great Carbon Valley: a bold new gamble to fight climate change](https://www.technologyreview.com/2025/12/22/1130153/geothermal-energy-carbon-capture-kenya-climate-solution/) (2025-12-22)
 - [This company is developing gene therapies for muscle growth, erectile dysfunction, and “radical longevity”](https://www.technologyreview.com/2025/12/22/1130288/gene-therapies-muscle-growth-erectile-dysfunction-radical-longevity/) (2025-12-22)
 - [The Download: China’s dying EV batteries, and why AI doomers are doubling down](https://www.technologyreview.com/2025/12/19/1130167/the-download-chinas-dying-ev-batteries-and-why-ai-doomers-are-doubling-down/) (2025-12-19)
-- [China figured out how to sell EVs. Now it has to deal with their aging batteries.](https://www.technologyreview.com/2025/12/18/1130148/china-ev-battery-recycle/) (2025-12-18)
-- [Take our quiz on the year in health and biotechnology](https://www.technologyreview.com/2025/12/18/1130140/take-our-quiz-on-the-year-in-health-and-biotechnology/) (2025-12-18)
 
 </details>
 
@@ -97,22 +97,24 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building the Future: A Native GUI SDK Prototype](https://dev.to/hejhdiss/building-the-future-a-native-gui-sdk-prototype-2b0i) (2025-12-23)
-- [The Definitive Guide to Building a Cross-Browser Testing Matrix for 2026](https://dev.to/matt_calder_e620d84cf0c14/the-definitive-guide-to-building-a-cross-browser-testing-matrix-for-2026-246i) (2025-12-23)
-- [Shadow Signals: How Counterfactual Learning Recovers Missed Alpha](https://dev.to/ronny_nyabuto_bba33987098/shadow-signals-how-counterfactual-learning-recovers-missed-alpha-14gb) (2025-12-23)
-- [Ringer Movies: ‘F1’ With Bill Simmons, Chris Ryan, and Van Lathan | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-f1-with-bill-simmons-chris-ryan-and-van-lathan-the-rewatchables-52o0) (2025-12-23)
-- [AI Category Recommendation System for Drupal 11 Using PHP and OpenAI](https://dev.to/albert_andrew_24878d43267/ai-category-recommendation-system-for-drupal-11-using-php-and-openai-57fm) (2025-12-23)
+- [All about security and traffic in Amazon VPC](https://dev.to/jeyy/all-about-security-and-traffic-in-amazon-vpc-496a) (2025-12-23)
+- [Why Large Tasks Fail: The 2-Hour Rule Secret](https://dev.to/_jeongyuhyeon_03de1/why-large-tasks-fail-the-2-hour-rule-secret-1nf4) (2025-12-23)
+- [When Does a Component Re-render in React?](https://dev.to/edriso/when-does-a-component-re-render-in-react-2h4c) (2025-12-23)
+- [Maximize Developer Revenue with Monetzly's API for AI Conversations](https://dev.to/monetzly/maximize-developer-revenue-with-monetzlys-api-for-ai-conversations-4bmj) (2025-12-23)
+- [DevOps Portfolio Project: Jenkins CI/CD Pipeline with Docker Dynamic Agents](https://dev.to/hamzasakr/devops-portfolio-project-jenkins-cicd-pipeline-with-docker-dynamic-agents-hmn) (2025-12-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [30 Days of Data Engineering Challenge — Day 22: Data Partitioning & Sharding](https://medium.com/@pawan_41479/30-days-of-data-engineering-challenge-day-22-data-partitioning-sharding-b62659498352?source=rss------programming-5) (2025-12-23)
-- [Flutter Animations Unlocked — Part 2: Implicit Animations Made Easy](https://medium.com/@yash22202/flutter-animations-unlocked-part-2-implicit-animations-made-easy-d8a94ca73107?source=rss------programming-5) (2025-12-23)
-- [The Next Wave of AI Protocols After ACP](https://medium.com/@fahey_james/the-next-wave-of-ai-protocols-after-acp-71bcf6e5dcaf?source=rss------programming-5) (2025-12-23)
-- [I Removed Redis from Production — PostgreSQL Was Enough](https://medium.com/@premchandak_11/i-removed-redis-from-production-postgresql-was-enough-d6eacf8e5250?source=rss------programming-5) (2025-12-23)
-- [Ef Core 10 Introduced LeftJoin and RightJoin](https://ravindradevrani.medium.com/ef-core-10-introduced-leftjoin-and-rightjoin-a5ae27fdfb2f?source=rss------programming-5) (2025-12-23)
+- [When Creatives Go Too Soon: James Ransone, Vince Zampella, and the Worlds They Built](https://medium.com/@markanthonypro/when-creatives-go-too-soon-james-ransone-vince-zampella-and-the-worlds-they-built-5edc06c608cb?source=rss------programming-5) (2025-12-23)
+- [7 Things That Work at First :Until Real Traffic Shows Up](https://medium.com/@shivamyaduvanshi435/7-things-that-work-at-first-until-real-traffic-shows-up-985cc4fbb34f?source=rss------programming-5) (2025-12-23)
+- [PHP Features That Deliver Real Value](https://medium.com/@mathewsfrj/php-features-that-deliver-real-value-fd844350d99c?source=rss------programming-5) (2025-12-23)
+- [RHAPSODY OF REALITIES - 23RD DECEMBER 2025
+"Righteousness or the righteousness of God is the…](https://medium.com/@folajeff/rhapsody-of-realities-23rd-december-2025-righteousness-or-the-righteousness-of-god-is-the-20ebc7184e17?source=rss------programming-5) (2025-12-23)
+- [The Art of Allowing: Why Chasing Your Dreams Might Be Keeping Them Away
+We have been conditioned to…](https://medium.com/@hazeyouth2/the-art-of-allowing-why-chasing-your-dreams-might-be-keeping-them-away-we-have-been-conditioned-to-00ae5f3bd165?source=rss------programming-5) (2025-12-23)
 
 </details>
 
@@ -484,11 +486,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
+- [AgentforceデータライブラリーからAIエージェントのテストケースを自動生成](https://developer.salesforce.com/blogs/2025/12/jp-auto-generate-agent-test-cases-from-agentforce-data-libraries.html) (2025-12-23)
 - [【Agentforce Hackathon Tokyo】第 1 位 Lightning Brightning: Agentforce と Tableau で革新するデータ駆動型ソリューション「Beauty Cloud」](https://developer.salesforce.com/blogs/2025/12/%e3%80%90agentforce-hackathon-tokyo%e3%80%91%e7%ac%ac-1-%e4%bd%8d-lightning-brightning-agentforce-%e3%81%a8-tableau-%e3%81%a7%e9%9d%a9%e6%96%b0%e3%81%99%e3%82%8b%e3%83%87%e3%83%bc%e3%82%bf%e9%a7%86.html) (2025-12-22)
 - [Agentforceで会話履歴を活用して、マルチターンのAIエージェントテストを自動化](https://developer.salesforce.com/blogs/2025/12/jp-automate-multi-turn-agent-testing-with-conversation-history-in-agentforce.html) (2025-12-18)
 - [Data 360 Fundamentals: Personalizing a Website](https://developer.salesforce.com/blogs/2025/12/data-360-fundamentals-personalizing-a-website.html) (2025-12-18)
 - [【Agentforce Hackathon Tokyo】第 2 位 電通デジタル: Agentforce で実現する「次世代型シナリオプランニング」](https://developer.salesforce.com/blogs/2025/12/%e3%80%90agentforce-hackathon-tokyo%e3%80%91%e7%ac%ac-2-%e4%bd%8d-%e9%9b%bb%e9%80%9a%e3%83%87%e3%82%b8%e3%82%bf%e3%83%ab-agentforce-%e3%81%a7%e5%ae%9f%e7%8f%be%e3%81%99%e3%82%8b%e3%80%8c%e6%ac%a1.html) (2025-12-18)
-- [B2C Commerce Observability for Composable Storefronts](https://developer.salesforce.com/blogs/2025/12/b2c-commerce-observability-for-composable-storefronts.html) (2025-12-16)
 
 </details>
 
@@ -561,22 +563,22 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>🤖 AI News</summary>
 
+- [Inside China’s push to apply AI across its energy system](https://www.artificialintelligence-news.com/news/inside-chinas-push-to-apply-ai-across-its-energy-system/) (2025-12-23)
 - [Tesco signs three-year AI deal centred on customer experience](https://www.artificialintelligence-news.com/news/tesco-signs-three-year-ai-deal-centred-on-customer-experience/) (2025-12-22)
 - [Marketing agencies using AI in workflows serve more clients](https://www.artificialintelligence-news.com/news/marketing-agencies-ai-use-creates-faster-workflows-but-need-restructuring-internally/) (2025-12-19)
 - [50,000 Copilot licences for Indian service companies](https://www.artificialintelligence-news.com/news/service-provider-ai-implementations-india-enterprise-scale-copilot-rollouts/) (2025-12-19)
 - [Zara’s use of AI shows how retail workflows are quietly changing](https://www.artificialintelligence-news.com/news/zara-use-of-ai-shows-how-retail-workflows-are-quietly-changing/) (2025-12-19)
-- [AI in Human Resources: the real operational impact](https://www.artificialintelligence-news.com/news/hr-ai-in-human-resources-the-real-operational-impact/) (2025-12-18)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Synergy in Clicks: Harsanyi Dividends for E-Commerce](https://towardsdatascience.com/synergy-in-clicks-harsanyi-dividends-for-e-commerce/) (2025-12-23)
 - [The Machine Learning “Advent Calendar” Day 22: Embeddings in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-22-embeddings-in-excel/) (2025-12-22)
 - [The Machine Learning “Advent Calendar” Day 21: Gradient Boosted Decision Tree Regressor in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-21-gradient-boosted-decision-tree-regressor-in-excel/) (2025-12-22)
 - [The Machine Learning “Advent Calendar” Day 20: Gradient Boosted Linear Regression in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-20-gradient-boosted-linear-regression-in-excel/) (2025-12-22)
 - [ChatLLM Presents a Streamlined Solution to Addressing the Real Bottleneck in AI](https://towardsdatascience.com/chatllm-presents-a-streamlined-solution-to-addressing-the-real-bottleneck-in-ai/) (2025-12-22)
-- [The Geometry of Laziness: What Angles Reveal About AI Hallucinations](https://towardsdatascience.com/the-geometry-of-laziness-what-angles-reveal-about-ai-hallucinations/) (2025-12-22)
 
 </details>
 
