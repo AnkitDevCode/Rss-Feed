@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Cecot – 60 Minutes](https://archive.org/details/insidececot) (2025-12-23)
+- [FCC Updates Covered List to Include Foreign UAS and UAS Critical Components [pdf]](https://docs.fcc.gov/public/attachments/DOC-416839A1.pdf) (2025-12-23)
+- [Diesel pollution particles impair lysosomal functions of iPSC-derived microglia](https://www.sciencedirect.com/science/article/pii/S0160412025002181) (2025-12-23)
+- [The Duodecimal Bulletin, Vol. 55, No. 1, Year 1209 [pdf]](https://dozenal.org/drupal/sites_bck/default/files/DuodecimalBulletinIssue551.pdf) (2025-12-23)
+- [Snitch – A friendlier ss/netstat](https://github.com/karol-broda/snitch) (2025-12-23)
 - [Satellites reveal heat leaking from largest US cryptocurrency mining center](https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center) (2025-12-22)
-- [There Is No Future for Online Safety Without Privacy and Security](https://itsfoss.com/news/alexander-linton-interview/) (2025-12-22)
-- [Lotusbail npm package found to be harvesting WhatsApp messages and contacts](https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages) (2025-12-22)
-- [Tc – Theodore Calvin's language-agnostic testing framework](https://github.com/ahoward/tc) (2025-12-22)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [How Europe’s new carbon tax on imported goods will change global trade](https://arstechnica.com/tech-policy/2025/12/how-europes-new-carbon-tax-on-imported-goods-will-change-global-trade/) (2025-12-20)
-- [Google lobs lawsuit at search result scraping firm SerpApi](https://arstechnica.com/google/2025/12/google-lobs-lawsuit-at-search-result-scraping-firm-serpapi/) (2025-12-19)
-- [The evolution of expendability: Why some ants traded armor for numbers](https://arstechnica.com/science/2025/12/the-evolution-of-expendability-why-some-ants-traded-armor-for-numbers/) (2025-12-19)
-- [Switch 2 pub backs off Game Key Cards after leaking lower-cost cartridge options](https://arstechnica.com/gaming/2025/12/cheaper-lower-capacity-switch-2-cartridges-could-mean-fewer-game-key-cards/) (2025-12-19)
-- [LG TVs’ unremovable Copilot shortcut is the least of smart TVs’ AI problems](https://arstechnica.com/gadgets/2025/12/lg-tvs-unremovable-copilot-shortcut-is-the-least-of-smart-tvs-ai-problems/) (2025-12-19)
+- [In a surprise announcement, Tory Bruno is out as CEO of United Launch Alliance](https://arstechnica.com/space/2025/12/in-a-surprise-announcement-tory-bruno-is-out-as-ceo-of-united-launch-alliance/) (2025-12-22)
+- [Call of Duty co-creator and Battlefield lead Vince Zampella dies in car crash](https://arstechnica.com/gaming/2025/12/vince-zampella-developer-of-call-of-duty-and-battlefield-games-dies-at-55/) (2025-12-22)
+- [Safety panel says NASA should have taken Starliner incident more seriously](https://arstechnica.com/space/2025/12/safety-panel-says-nasa-should-have-taken-starliner-incident-more-seriously/) (2025-12-22)
+- [World’s largest shadow library made a 300TB copy of Spotify’s most streamed songs](https://arstechnica.com/tech-policy/2025/12/worlds-largest-shadow-library-brags-it-scraped-300tb-of-spotify-music-metadata/) (2025-12-22)
+- [US blocks all offshore wind construction, says reason is classified](https://arstechnica.com/science/2025/12/us-government-finds-new-excuse-to-stop-construction-of-offshore-wind/) (2025-12-22)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Settle down, nerds. AI is a normal technology](https://stackoverflow.blog/2025/12/23/settle-down-nerds-ai-is-a-normal-technology/) (2025-12-23)
 - [Making your code base better will make your code coverage worse](https://stackoverflow.blog/2025/12/22/making-your-code-base-better-will-make-your-code-coverage-worse/) (2025-12-22)
 - [Last week in AWS re:Invent with Corey Quinn](https://stackoverflow.blog/2025/12/19/last-week-in-aws-re-invent-with-corey-quinn/) (2025-12-19)
 - [The 2025 Stack Overflow and Stack Exchange wrap—our top ten questions of the year!](https://stackoverflow.blog/2025/12/17/the-2025-stack-overflow-and-stack-exchange-wrap/) (2025-12-17)
 - [Your 2025 Stacked: A year of knowledge, community, and impact](https://stackoverflow.blog/2025/12/16/your-2025-stacked-a-year-of-knowledge-community-and-impact/) (2025-12-16)
-- [Live from re:Invent…it’s Stack Overflow!](https://stackoverflow.blog/2025/12/16/live-from-re-invent-it-s-stack-overflow/) (2025-12-16)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building a Redis Clone in Zig—Part 4](https://dev.to/barddoo/building-a-redis-clone-in-zig-part-4-3if0) (2025-12-23)
-- [How I Removed Malware from a Hacked WordPress Site: A Step-by-Step Case Study](https://dev.to/mhaque88cs/how-i-removed-malware-from-a-hacked-wordpress-site-a-step-by-step-case-study-5a98) (2025-12-23)
-- [Stop using Jira for side projects: A minimalist alternative.](https://dev.to/lux_seminare/stop-using-jira-for-side-projects-a-minimalist-alternative-5gn8) (2025-12-23)
-- [Bringing AI into AWS Developer and CI/CD Tooling : A Practical View](https://dev.to/aws-builders/bringing-ai-into-aws-developer-and-cicd-tooling-a-practical-view-1kje) (2025-12-23)
-- [Autocomplete/Typeahead System Design [Frontend Focused]](https://dev.to/arghya_majumder_54190fb59/autocompletetypeahead-system-1cfh) (2025-12-23)
+- [Building the Future: A Native GUI SDK Prototype](https://dev.to/hejhdiss/building-the-future-a-native-gui-sdk-prototype-2b0i) (2025-12-23)
+- [The Definitive Guide to Building a Cross-Browser Testing Matrix for 2026](https://dev.to/matt_calder_e620d84cf0c14/the-definitive-guide-to-building-a-cross-browser-testing-matrix-for-2026-246i) (2025-12-23)
+- [Shadow Signals: How Counterfactual Learning Recovers Missed Alpha](https://dev.to/ronny_nyabuto_bba33987098/shadow-signals-how-counterfactual-learning-recovers-missed-alpha-14gb) (2025-12-23)
+- [Ringer Movies: ‘F1’ With Bill Simmons, Chris Ryan, and Van Lathan | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-f1-with-bill-simmons-chris-ryan-and-van-lathan-the-rewatchables-52o0) (2025-12-23)
+- [AI Category Recommendation System for Drupal 11 Using PHP and OpenAI](https://dev.to/albert_andrew_24878d43267/ai-category-recommendation-system-for-drupal-11-using-php-and-openai-57fm) (2025-12-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Quantum Risk Is Not a Future Problem — Lattice Is Secure Today](https://medium.com/@takalaauli/quantum-risk-is-not-a-future-problem-lattice-is-secure-today-01c79bbf7392?source=rss------programming-5) (2025-12-23)
-- [The Misuse of Math in Creating AI](https://ai.gopubby.com/the-misuse-of-math-in-creating-ai-d3cdace39cc7?source=rss------programming-5) (2025-12-23)
-- [The 7 Data Structures That Make or Break Your Flutter Interview at Top Tech Companies](https://medium.com/@alaxhenry0121/the-7-data-structures-that-make-or-break-your-flutter-interview-at-top-tech-companies-70083dd1ee72?source=rss------programming-5) (2025-12-23)
-- [Spring Dependency Injection in Java: Examples and Best Practices](https://medium.com/@sunil17bbmp/spring-dependency-injection-in-java-examples-and-best-practices-657cbd7e202f?source=rss------programming-5) (2025-12-23)
-- [ Python for Beginners: A Complete Step-by-Step Learning Guide](https://medium.com/@julietarubis/python-for-beginners-a-complete-step-by-step-learning-guide-bdc8da312104?source=rss------programming-5) (2025-12-23)
+- [30 Days of Data Engineering Challenge — Day 22: Data Partitioning & Sharding](https://medium.com/@pawan_41479/30-days-of-data-engineering-challenge-day-22-data-partitioning-sharding-b62659498352?source=rss------programming-5) (2025-12-23)
+- [Flutter Animations Unlocked — Part 2: Implicit Animations Made Easy](https://medium.com/@yash22202/flutter-animations-unlocked-part-2-implicit-animations-made-easy-d8a94ca73107?source=rss------programming-5) (2025-12-23)
+- [The Next Wave of AI Protocols After ACP](https://medium.com/@fahey_james/the-next-wave-of-ai-protocols-after-acp-71bcf6e5dcaf?source=rss------programming-5) (2025-12-23)
+- [I Removed Redis from Production — PostgreSQL Was Enough](https://medium.com/@premchandak_11/i-removed-redis-from-production-postgresql-was-enough-d6eacf8e5250?source=rss------programming-5) (2025-12-23)
+- [Ef Core 10 Introduced LeftJoin and RightJoin](https://ravindradevrani.medium.com/ef-core-10-introduced-leftjoin-and-rightjoin-a5ae27fdfb2f?source=rss------programming-5) (2025-12-23)
 
 </details>
 
@@ -484,11 +484,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
+- [【Agentforce Hackathon Tokyo】第 1 位 Lightning Brightning: Agentforce と Tableau で革新するデータ駆動型ソリューション「Beauty Cloud」](https://developer.salesforce.com/blogs/2025/12/%e3%80%90agentforce-hackathon-tokyo%e3%80%91%e7%ac%ac-1-%e4%bd%8d-lightning-brightning-agentforce-%e3%81%a8-tableau-%e3%81%a7%e9%9d%a9%e6%96%b0%e3%81%99%e3%82%8b%e3%83%87%e3%83%bc%e3%82%bf%e9%a7%86.html) (2025-12-22)
 - [Agentforceで会話履歴を活用して、マルチターンのAIエージェントテストを自動化](https://developer.salesforce.com/blogs/2025/12/jp-automate-multi-turn-agent-testing-with-conversation-history-in-agentforce.html) (2025-12-18)
 - [Data 360 Fundamentals: Personalizing a Website](https://developer.salesforce.com/blogs/2025/12/data-360-fundamentals-personalizing-a-website.html) (2025-12-18)
 - [【Agentforce Hackathon Tokyo】第 2 位 電通デジタル: Agentforce で実現する「次世代型シナリオプランニング」](https://developer.salesforce.com/blogs/2025/12/%e3%80%90agentforce-hackathon-tokyo%e3%80%91%e7%ac%ac-2-%e4%bd%8d-%e9%9b%bb%e9%80%9a%e3%83%87%e3%82%b8%e3%82%bf%e3%83%ab-agentforce-%e3%81%a7%e5%ae%9f%e7%8f%be%e3%81%99%e3%82%8b%e3%80%8c%e6%ac%a1.html) (2025-12-18)
 - [B2C Commerce Observability for Composable Storefronts](https://developer.salesforce.com/blogs/2025/12/b2c-commerce-observability-for-composable-storefronts.html) (2025-12-16)
-- [Agentforce 360の新機能で、AIエージェントを構築し、最適化](https://developer.salesforce.com/blogs/2025/12/jp-build-and-optimize-agents-with-new-agentforce-360-features.html) (2025-12-16)
 
 </details>
 
@@ -548,6 +548,17 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 </details>
 
 <details>
+<summary>🤗 Hugging Face</summary>
+
+- [Tokenization in Transformers v5: Simpler, Clearer, and More Modular](https://huggingface.co/blog/tokenizers) (2025-12-18)
+- [The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator](https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe) (2025-12-17)
+- [CUGA on Hugging Face: Democratizing Configurable AI Agents](https://huggingface.co/blog/ibm-research/cuga-on-hugging-face) (2025-12-15)
+- [New in llama.cpp: Model Management](https://huggingface.co/blog/ggml-org/model-management-in-llamacpp) (2025-12-11)
+- [Codex is Open Sourcing AI models](https://huggingface.co/blog/hf-skills-training-codex) (2025-12-11)
+
+</details>
+
+<details>
 <summary>🤖 AI News</summary>
 
 - [Tesco signs three-year AI deal centred on customer experience](https://www.artificialintelligence-news.com/news/tesco-signs-three-year-ai-deal-centred-on-customer-experience/) (2025-12-22)
@@ -572,7 +583,7 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
-- [Top 10 Free Python Courses with Certificate](https://www.analyticsvidhya.com/blog/2025/12/free-python-courses-with-certificate/) (2025-12-22)
+- [Top 7 Free Python Courses with Certificate](https://www.analyticsvidhya.com/blog/2025/12/free-python-courses-with-certificate/) (2025-12-22)
 - [Create Personalized Christmas & New Year Cards Using AI](https://www.analyticsvidhya.com/blog/2025/12/ai-christmas-and-new-year-cards/) (2025-12-22)
 - [Building an Agentic AI Pipeline for ESG Reporting ](https://www.analyticsvidhya.com/blog/2025/12/building-an-agentic-ai-pipeline-for-esg-reporting/) (2025-12-21)
 - [IQ of AI: 15+ AI Models That are Smarter Than You](https://www.analyticsvidhya.com/blog/2025/12/ai-models-that-are-smarter-than-you/) (2025-12-20)
