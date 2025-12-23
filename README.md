@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [OpenAI says AI browsers may always be vulnerable to prompt injection attacks](https://techcrunch.com/2025/12/22/openai-says-ai-browsers-may-always-be-vulnerable-to-prompt-injection-attacks/) (2025-12-22)
-- [Alphabet to buy Intersect Power to bypass energy grid bottlenecks](https://techcrunch.com/2025/12/22/alphabet-to-buy-intersect-power-to-bypass-energy-grid-bottlenecks/) (2025-12-22)
-- [Trump admin halts 6 GW of offshore wind leases again](https://techcrunch.com/2025/12/22/trump-admin-halts-6-gw-of-offshore-wind-leases-again/) (2025-12-22)
-- [Paramount renews bid for Warner Bros, ensuring $40B Larry Ellison backing](https://techcrunch.com/2025/12/22/paramount-renews-bid-for-warner-bros-ensuring-40-billion-larry-ellison-backing/) (2025-12-22)
-- [ChatGPT launches a year-end review like Spotify Wrapped](https://techcrunch.com/2025/12/22/chatgpt-launches-a-year-end-review-like-spotify-wrapped/) (2025-12-22)
+- [US insurance giant Aflac says hackers stole personal and health data of 22.6 million](https://techcrunch.com/2025/12/23/us-insurance-giant-aflac-says-hackers-stole-personal-data-of-22-6-million/) (2025-12-23)
+- [This founder just landed funding for a second go at the same problem: Affordable custom home design](https://techcrunch.com/2025/12/23/this-founder-just-landed-backing-for-a-second-go-at-the-same-problem-affordable-custom-home-design/) (2025-12-23)
+- [Marissa Mayer’s new startup Dazzle raises $8M led by Forerunner’s Kirsten Green](https://techcrunch.com/2025/12/23/marissa-mayers-new-startup-dazzle-raises-8m-led-by-forerunners-kirsten-green/) (2025-12-23)
+- [Amazon’s AI assistant Alexa+ now works with Angi, Expedia, Square, and Yelp](https://techcrunch.com/2025/12/23/amazons-ai-assistant-alexa-now-works-with-angi-expedia-square-and-yelp/) (2025-12-23)
+- [Lemon Slice nabs $10.5M from YC and Matrix to build out its digital avatar tech](https://techcrunch.com/2025/12/23/lemon-slice-nabs-10-5m-from-yc-and-matrix-to-build-out-its-digital-avatar-tech/) (2025-12-23)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [What Is (AI) Glaze?](https://glaze.cs.uchicago.edu/what-is-glaze.html) (2025-12-23)
-- [Ryanair fined €256M over ‘abusive strategy’ to limit ticket sales by OTAs](https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota) (2025-12-23)
-- [Font with Built-In Syntax Highlighting (2024)](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/) (2025-12-23)
-- [What are the best engineering blogs with real-world depth (no fluff)?](https://news.ycombinator.com/item?id=46363921) (2025-12-23)
-- [Carnap – A formal logic framework for Haskell](https://carnap.io/) (2025-12-23)
+- [Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md) (2025-12-23)
+- [How Did Doge Disrupt So Much While Saving So Little?](https://www.nytimes.com/2025/12/23/us/politics/doge-musk-trump-analysis.html) (2025-12-23)
+- [Meta Is Using the Linux Scheduler Designed for Valve's Steam Deck on Its Servers](https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server) (2025-12-23)
+- [When irate product support customers demand to speak to Bill Gates](https://devblogs.microsoft.com/oldnewthing/20251223-00/?p=111896) (2025-12-23)
+- [Test, don't (just) verify](https://alperenkeles.com/posts/test-dont-verify/) (2025-12-23)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Dometic makes a better portable water faucet](https://www.theverge.com/tech/848916/dometic-recon-360-water-pump-review) (2025-12-23)
-- [The FCC’s foreign drone ban is here](https://www.theverge.com/news/849460/fcc-foreign-drone-ban-dji-congress-deadline) (2025-12-23)
-- [The 60 Minutes report on CECOT that Bari Weiss censored is now internet contraband](https://www.theverge.com/policy/849432/60-minutes-cecot-censored-canada-leak) (2025-12-23)
-- [ChatGPT’s yearly recap sums up your conversations with the chatbot](https://www.theverge.com/news/849348/openai-chatgpt-2025-year-in-review-wrapped) (2025-12-22)
-- [Call of Duty, Titanfall developer Vince Zampella has died at age 55](https://www.theverge.com/news/849297/vince-zampella-dies-call-of-duty-titanfall-respawn-battlefield) (2025-12-22)
+- [Judge blocks Texas app store age verification law](https://www.theverge.com/news/849752/texas-app-store-accountability-act-age-verification-injunction) (2025-12-23)
+- [These great digital gifts will arrive just in time for Christmas](https://www.theverge.com/gadgets/848999/best-digital-gift-ideas-online-cards-subscriptions-2025) (2025-12-23)
+- [DOJ appears to bungle Epstein Files redactions](https://www.theverge.com/news/849639/epstein-files-doj-redactions-links) (2025-12-23)
+- [Watch lists are broken. Federation could fix them.](https://www.theverge.com/column/849255/watch-lists-broken-federation-share-data) (2025-12-23)
+- [New York’s landmark AI safety bill was defanged — and universities were part of the push against it](https://www.theverge.com/ai-artificial-intelligence/849293/ai-alliance-universities-colleges-funding-ad-campaign-against-raise-act) (2025-12-23)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [OpenAI’s child exploitation reports increased sharply this year](https://arstechnica.com/tech-policy/2025/12/openais-child-exploitation-reports-increased-sharply-this-year/) (2025-12-23)
+- [“Yo what?” LimeWire re-emerges in online rush to share pulled “60 Minutes” segment](https://arstechnica.com/tech-policy/2025/12/yo-what-limewire-re-emerges-in-online-rush-to-share-pulled-60-minutes-segment/) (2025-12-23)
+- [F1’s new engines are causing consternation over compression ratios](https://arstechnica.com/cars/2025/12/f1s-new-engines-are-causing-consternation-over-compression-ratios/) (2025-12-23)
+- [The Splay is a subpar monitor but an exciting portable projector ](https://arstechnica.com/gadgets/2025/12/the-splay-is-a-subpar-monitor-but-an-exciting-portable-projector/) (2025-12-23)
 - [In a surprise announcement, Tory Bruno is out as CEO of United Launch Alliance](https://arstechnica.com/space/2025/12/in-a-surprise-announcement-tory-bruno-is-out-as-ceo-of-united-launch-alliance/) (2025-12-22)
-- [Call of Duty co-creator and Battlefield lead Vince Zampella dies in car crash](https://arstechnica.com/gaming/2025/12/vince-zampella-developer-of-call-of-duty-and-battlefield-games-dies-at-55/) (2025-12-22)
-- [Safety panel says NASA should have taken Starliner incident more seriously](https://arstechnica.com/space/2025/12/safety-panel-says-nasa-should-have-taken-starliner-incident-more-seriously/) (2025-12-22)
-- [World’s largest shadow library made a 300TB copy of Spotify’s most streamed songs](https://arstechnica.com/tech-policy/2025/12/worlds-largest-shadow-library-brags-it-scraped-300tb-of-spotify-music-metadata/) (2025-12-22)
-- [US blocks all offshore wind construction, says reason is classified](https://arstechnica.com/science/2025/12/us-government-finds-new-excuse-to-stop-construction-of-offshore-wind/) (2025-12-22)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Researchers are getting organoids pregnant with human embryos](https://www.technologyreview.com/2025/12/23/1130415/organoid-uterus-microfluidic-chip-embryo/) (2025-12-23)
 - [How social media encourages the worst of AI boosterism](https://www.technologyreview.com/2025/12/23/1130393/how-social-media-encourages-the-worst-of-ai-boosterism/) (2025-12-23)
 - [How I learned to stop worrying and love AI slop](https://www.technologyreview.com/2025/12/23/1130396/how-i-learned-to-stop-worrying-and-love-ai-slop/) (2025-12-23)
 - [Welcome to Kenya’s Great Carbon Valley: a bold new gamble to fight climate change](https://www.technologyreview.com/2025/12/22/1130153/geothermal-energy-carbon-capture-kenya-climate-solution/) (2025-12-22)
 - [This company is developing gene therapies for muscle growth, erectile dysfunction, and “radical longevity”](https://www.technologyreview.com/2025/12/22/1130288/gene-therapies-muscle-growth-erectile-dysfunction-radical-longevity/) (2025-12-22)
-- [The Download: China’s dying EV batteries, and why AI doomers are doubling down](https://www.technologyreview.com/2025/12/19/1130167/the-download-chinas-dying-ev-batteries-and-why-ai-doomers-are-doubling-down/) (2025-12-19)
 
 </details>
 
@@ -86,35 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [How Xerox and Stack Overflow partnered to preserve knowledge and power innovation](https://stackoverflow.blog/2025/12/23/how-xerox-and-stack-overflow-partnered-to-preserve-knowledge-and-power-innovation/) (2025-12-23)
+- [The AI ick](https://stackoverflow.blog/2025/12/23/the-ai-ick/) (2025-12-23)
 - [Settle down, nerds. AI is a normal technology](https://stackoverflow.blog/2025/12/23/settle-down-nerds-ai-is-a-normal-technology/) (2025-12-23)
 - [Making your code base better will make your code coverage worse](https://stackoverflow.blog/2025/12/22/making-your-code-base-better-will-make-your-code-coverage-worse/) (2025-12-22)
 - [Last week in AWS re:Invent with Corey Quinn](https://stackoverflow.blog/2025/12/19/last-week-in-aws-re-invent-with-corey-quinn/) (2025-12-19)
-- [The 2025 Stack Overflow and Stack Exchange wrap—our top ten questions of the year!](https://stackoverflow.blog/2025/12/17/the-2025-stack-overflow-and-stack-exchange-wrap/) (2025-12-17)
-- [Your 2025 Stacked: A year of knowledge, community, and impact](https://stackoverflow.blog/2025/12/16/your-2025-stacked-a-year-of-knowledge-community-and-impact/) (2025-12-16)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [All about security and traffic in Amazon VPC](https://dev.to/jeyy/all-about-security-and-traffic-in-amazon-vpc-496a) (2025-12-23)
-- [Why Large Tasks Fail: The 2-Hour Rule Secret](https://dev.to/_jeongyuhyeon_03de1/why-large-tasks-fail-the-2-hour-rule-secret-1nf4) (2025-12-23)
-- [When Does a Component Re-render in React?](https://dev.to/edriso/when-does-a-component-re-render-in-react-2h4c) (2025-12-23)
-- [Maximize Developer Revenue with Monetzly's API for AI Conversations](https://dev.to/monetzly/maximize-developer-revenue-with-monetzlys-api-for-ai-conversations-4bmj) (2025-12-23)
-- [DevOps Portfolio Project: Jenkins CI/CD Pipeline with Docker Dynamic Agents](https://dev.to/hamzasakr/devops-portfolio-project-jenkins-cicd-pipeline-with-docker-dynamic-agents-hmn) (2025-12-23)
+- [[Boost]](https://dev.to/esin87/-44kh) (2025-12-23)
+- [I Built a Privacy-First CSV Explorer That Works Entirely in Your Browser](https://dev.to/dinesh_kumar_ef63ffef1c64/i-built-a-privacy-first-csv-explorer-that-works-entirely-in-your-browser-3lk3) (2025-12-23)
+- [AWS Control Tower 4.0: A New Look at Landing Zones](https://dev.to/aws-builders/aws-control-tower-40-a-new-look-at-landing-zones-1ap6) (2025-12-23)
+- [Thwarting Data Breaches: A Cybersecurity Solution Case Study](https://dev.to/hkj13/thwarting-data-breaches-a-cybersecurity-solution-case-study-1j1a) (2025-12-23)
+- [Caching with Redis: Boosting Application Performance](https://dev.to/techblogs/caching-with-redis-boosting-application-performance-4l54) (2025-12-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [When Creatives Go Too Soon: James Ransone, Vince Zampella, and the Worlds They Built](https://medium.com/@markanthonypro/when-creatives-go-too-soon-james-ransone-vince-zampella-and-the-worlds-they-built-5edc06c608cb?source=rss------programming-5) (2025-12-23)
-- [7 Things That Work at First :Until Real Traffic Shows Up](https://medium.com/@shivamyaduvanshi435/7-things-that-work-at-first-until-real-traffic-shows-up-985cc4fbb34f?source=rss------programming-5) (2025-12-23)
-- [PHP Features That Deliver Real Value](https://medium.com/@mathewsfrj/php-features-that-deliver-real-value-fd844350d99c?source=rss------programming-5) (2025-12-23)
-- [RHAPSODY OF REALITIES - 23RD DECEMBER 2025
-"Righteousness or the righteousness of God is the…](https://medium.com/@folajeff/rhapsody-of-realities-23rd-december-2025-righteousness-or-the-righteousness-of-god-is-the-20ebc7184e17?source=rss------programming-5) (2025-12-23)
-- [The Art of Allowing: Why Chasing Your Dreams Might Be Keeping Them Away
-We have been conditioned to…](https://medium.com/@hazeyouth2/the-art-of-allowing-why-chasing-your-dreams-might-be-keeping-them-away-we-have-been-conditioned-to-00ae5f3bd165?source=rss------programming-5) (2025-12-23)
+- [The Senior .NET Developer’s Guide to Writing Code](https://medium.com/@kerimkkara/the-senior-net-developers-guide-to-writing-code-d3cfe1da0b51?source=rss------programming-5) (2025-12-23)
+- [I Wrote the Machine Learning Beginner’s Guide I Couldn’t Find](https://python.plainenglish.io/i-wrote-the-machine-learning-beginners-guide-i-couldn-t-find-224315486e14?source=rss------programming-5) (2025-12-23)
+- [Wave2Lip vs SadTalker](https://medium.com/@muazashraf456/wave2lip-vs-sadtalker-d88ab98e06d1?source=rss------programming-5) (2025-12-23)
+- [How Navigation Apps Deliberately Send You Through Toll Roads](https://medium.com/@sohail_saifi/how-navigation-apps-deliberately-send-you-through-toll-roads-896b52ad89a3?source=rss------programming-5) (2025-12-23)
+- [How to Build an E-commerce Application Using .NET 9](https://medium.com/@maged_/how-to-build-an-e-commerce-application-using-net-9-f8deaf25dabc?source=rss------programming-5) (2025-12-23)
 
 </details>
 
@@ -308,11 +306,11 @@ We have been conditioned to…](https://medium.com/@hazeyouth2/the-art-of-allowi
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Thread Dumps and Project Loom (Virtual Threads)](https://blog.jetbrains.com/idea/2025/12/thread-dumps-and-project-loom-virtual-threads/) (2025-12-23)
 - [Advent of Code in Rust: Winners and Highlights](https://blog.jetbrains.com/rust/2025/12/22/advent-of-code-in-rust-winners-and-highlights/) (2025-12-22)
 - [How Mobile Development Teams Use Kotlin in 2025: Insights From a Certified Trainer](https://blog.jetbrains.com/kotlin/2025/12/how-mobile-development-teams-use-kotlin-in-2025/) (2025-12-19)
 - [Top 3 Qodana 2025.3 Release Highlights ](https://blog.jetbrains.com/qodana/2025/12/top-3-qodana-2025-3-release-highlights/) (2025-12-19)
 - [First-Class Docker Support: Building and Deploying Containers With TeamCity](https://blog.jetbrains.com/teamcity/2025/12/first-class-docker-support/) (2025-12-19)
-- [ReSharper and Rider 2025.3.1 Released: Next Edit Suggestions and Other Important Updates](https://blog.jetbrains.com/dotnet/2025/12/18/resharper-and-rider-2025-3-1/) (2025-12-18)
 
 </details>
 
@@ -552,66 +550,66 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems](https://huggingface.co/blog/ServiceNow-AI/aprielguard) (2025-12-23)
 - [Tokenization in Transformers v5: Simpler, Clearer, and More Modular](https://huggingface.co/blog/tokenizers) (2025-12-18)
 - [The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator](https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe) (2025-12-17)
 - [CUGA on Hugging Face: Democratizing Configurable AI Agents](https://huggingface.co/blog/ibm-research/cuga-on-hugging-face) (2025-12-15)
 - [New in llama.cpp: Model Management](https://huggingface.co/blog/ggml-org/model-management-in-llamacpp) (2025-12-11)
-- [Codex is Open Sourcing AI models](https://huggingface.co/blog/hf-skills-training-codex) (2025-12-11)
 
 </details>
 
 <details>
 <summary>🤖 AI News</summary>
 
+- [Arm and the future of AI at the edge](https://www.artificialintelligence-news.com/news/arm-chips-and-the-future-of-ai-at-the-edge/) (2025-12-23)
 - [Inside China’s push to apply AI across its energy system](https://www.artificialintelligence-news.com/news/inside-chinas-push-to-apply-ai-across-its-energy-system/) (2025-12-23)
 - [Tesco signs three-year AI deal centred on customer experience](https://www.artificialintelligence-news.com/news/tesco-signs-three-year-ai-deal-centred-on-customer-experience/) (2025-12-22)
 - [Marketing agencies using AI in workflows serve more clients](https://www.artificialintelligence-news.com/news/marketing-agencies-ai-use-creates-faster-workflows-but-need-restructuring-internally/) (2025-12-19)
 - [50,000 Copilot licences for Indian service companies](https://www.artificialintelligence-news.com/news/service-provider-ai-implementations-india-enterprise-scale-copilot-rollouts/) (2025-12-19)
-- [Zara’s use of AI shows how retail workflows are quietly changing](https://www.artificialintelligence-news.com/news/zara-use-of-ai-shows-how-retail-workflows-are-quietly-changing/) (2025-12-19)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How Agents Plan Tasks with To-Do Lists](https://towardsdatascience.com/how-agents-plan-tasks-with-to-do-lists/) (2025-12-23)
+- [Stop Retraining Blindly: Use PSI to Build a Smarter Monitoring Pipeline](https://towardsdatascience.com/stop-retraining-blindly-use-psi-to-build-a-smarter-monitoring-pipeline/) (2025-12-23)
 - [Synergy in Clicks: Harsanyi Dividends for E-Commerce](https://towardsdatascience.com/synergy-in-clicks-harsanyi-dividends-for-e-commerce/) (2025-12-23)
 - [The Machine Learning “Advent Calendar” Day 22: Embeddings in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-22-embeddings-in-excel/) (2025-12-22)
 - [The Machine Learning “Advent Calendar” Day 21: Gradient Boosted Decision Tree Regressor in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-21-gradient-boosted-decision-tree-regressor-in-excel/) (2025-12-22)
-- [The Machine Learning “Advent Calendar” Day 20: Gradient Boosted Linear Regression in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-20-gradient-boosted-linear-regression-in-excel/) (2025-12-22)
-- [ChatLLM Presents a Streamlined Solution to Addressing the Real Bottleneck in AI](https://towardsdatascience.com/chatllm-presents-a-streamlined-solution-to-addressing-the-real-bottleneck-in-ai/) (2025-12-22)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Google Code Wiki: Live Docs, Diagrams & Chat for Any GitHub Repo](https://www.analyticsvidhya.com/blog/2025/12/google-code-wiki/) (2025-12-23)
+- [How to Use Microsoft Power Automate? [In Under 10 Minutes]](https://www.analyticsvidhya.com/blog/2025/12/microsoft-power-automate-guide-for-beginners/) (2025-12-23)
 - [Top 7 Free Python Courses with Certificate](https://www.analyticsvidhya.com/blog/2025/12/free-python-courses-with-certificate/) (2025-12-22)
 - [Create Personalized Christmas & New Year Cards Using AI](https://www.analyticsvidhya.com/blog/2025/12/ai-christmas-and-new-year-cards/) (2025-12-22)
 - [Building an Agentic AI Pipeline for ESG Reporting ](https://www.analyticsvidhya.com/blog/2025/12/building-an-agentic-ai-pipeline-for-esg-reporting/) (2025-12-21)
-- [IQ of AI: 15+ AI Models That are Smarter Than You](https://www.analyticsvidhya.com/blog/2025/12/ai-models-that-are-smarter-than-you/) (2025-12-20)
-- [Gemini 3 Pro vs GPT 5.2: The Ultimate 2025 AI Showdown](https://www.analyticsvidhya.com/blog/2025/12/gemini-3-pro-vs-gpt-5-2/) (2025-12-19)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Probability Concepts You’ll Actually Use in Data Science](https://www.kdnuggets.com/probability-concepts-youll-actually-use-in-data-science) (2025-12-23)
+- [5 Emerging Trends in Data Engineering for 2026](https://www.kdnuggets.com/5-emerging-trends-in-data-engineering-for-2026) (2025-12-23)
 - [Gistr: The Smart AI Notebook for Organizing Knowledge](https://www.kdnuggets.com/gistr-the-smart-ai-notebook-for-organizing-knowledge) (2025-12-22)
 - [7 Tiny AI Models for Raspberry Pi](https://www.kdnuggets.com/7-tiny-ai-models-for-raspberry-pi) (2025-12-22)
 - [5 Useful Python Scripts to Automate Boring Everyday Tasks](https://www.kdnuggets.com/5-useful-python-scripts-to-automate-boring-everyday-tasks) (2025-12-19)
-- [Prompt Engineering for Data Quality and Validation Checks](https://www.kdnuggets.com/prompt-engineering-for-data-quality-and-validation-checks) (2025-12-18)
-- [Hosting Language Models on a Budget](https://www.kdnuggets.com/hosting-language-models-on-a-budget) (2025-12-18)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Evaluating Perplexity on Language Models](https://machinelearningmastery.com/evaluating-perplexity-on-language-models/) (2025-12-23)
 - [3 Smart Ways to Encode Categorical Features for Machine Learning](https://machinelearningmastery.com/3-smart-ways-to-encode-categorical-features-for-machine-learning/) (2025-12-22)
 - [Pretraining a Llama Model on Your Local GPU](https://machinelearningmastery.com/pretraining-a-llama-model-on-your-local-gpu/) (2025-12-22)
 - [Rotary Position Embeddings for Long Context Length](https://machinelearningmastery.com/rotary-position-embeddings-for-long-context-length/) (2025-12-20)
 - [How to Fine-Tune a Local Mistral or Llama 3 Model on Your Own Dataset](https://machinelearningmastery.com/how-to-fine-tune-a-local-mistral-or-llama-3-model-on-your-own-dataset/) (2025-12-19)
-- [5 Agentic Coding Tips & Tricks](https://machinelearningmastery.com/5-agentic-coding-tips-tricks/) (2025-12-18)
 
 </details>
 
@@ -629,11 +627,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>🧠 DeepMind Blog</summary>
 
+- [Google's year in review: 8 areas with research breakthroughs in 2025](https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/) (2025-12-23)
 - [Gemini 3 Flash: frontier intelligence built for speed](https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/) (2025-12-17)
 - [Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior](https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/) (2025-12-16)
 - [Improved Gemini audio models for powerful voice experiences](https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/) (2025-12-12)
 - [Deepening our partnership with the UK AI Security Institute](https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/) (2025-12-11)
-- [Strengthening our partnership with the UK government to support prosperity and security in the AI era](https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/) (2025-12-10)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
