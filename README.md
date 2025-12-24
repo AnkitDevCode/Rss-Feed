@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Stronk.app – open-source gym lifts journal](https://news.ycombinator.com/item?id=46371139) (2025-12-24)
-- [Unifi Travel Router](https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router) (2025-12-24)
-- [Is Northern Virginia still the least reliable AWS region?](https://statusgator.com/blog/aws-least-reliable-region-in-2025/) (2025-12-23)
-- [Microspeak: North Star – The Old New Thing (2015)](https://devblogs.microsoft.com/oldnewthing/20151103-00/?p=91861) (2025-12-23)
-- [Texas app store age verification law blocked by federal judge](https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/) (2025-12-23)
+- [Don't Become the Machine](https://armeet.bearblog.dev/becoming-the-machine/) (2025-12-24)
+- [Correspondence Between Don Knuth and Peter van Emde Boas on Priority Deques 1977 [pdf]](https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf) (2025-12-24)
+- [Show HN: Turn raw HTML into production-ready images for free](https://html2png.dev) (2025-12-24)
+- [Autonomously navigating the real world: lessons from the PG&E outage](https://waymo.com/blog/2025/12/autonomously-navigating-the-real-world) (2025-12-24)
+- [Could lockfiles just be SBOMs?](https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html) (2025-12-24)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Mastering interrupt handling in your kernel](https://dev.to/vhajsman/mastering-interrupt-handling-in-your-kernel-b5) (2025-12-24)
-- [Why do Article 120 defendants feel disadvantaged by unequal resources?](https://dev.to/ali_hamza_79a3d9fdbe20917/why-do-article-120-defendants-feel-disadvantaged-by-unequal-resources-dj4) (2025-12-24)
-- [What 4 Years on the Fast Track Taught Me About My Career: From Dropping Out to Leading a Production Application](https://dev.to/kgthedev/what-4-years-on-the-fast-track-taught-me-about-my-career-from-dropping-out-to-leading-a-production-58fi) (2025-12-24)
-- [Hello World; You Don’t Qualify for the AWS Community Builders Program](https://dev.to/aws-builders/hello-world-you-dont-qualify-for-the-aws-community-builders-program-2i3m) (2025-12-24)
-- [Ugly Sweater CSS: Jawa's Back the Return of the Droids.](https://dev.to/jarvisscript/ugly-sweater-css-jawas-back-the-return-of-the-droids-42cg) (2025-12-24)
+- [Writing JS FFI in MoonBit](https://dev.to/mizchi/writing-js-ffi-in-moonbit-jgn) (2025-12-24)
+- [MoonBit: A Modern Language for WebAssembly/JS/Native](https://dev.to/mizchi/moonbit-a-modern-language-for-webassemblyjsnative-4p71) (2025-12-24)
+- [The Power of Personality on Your Website, Even for Big Businesses and Non-Personal Brands - Why and How](https://dev.to/per-starke-642/the-power-of-personality-on-your-website-even-for-big-businesses-and-non-personal-brands-why-and-1e5m) (2025-12-24)
+- [Building VibeVault](https://dev.to/thiyagu26v/building-vibevault-4p6f) (2025-12-24)
+- [Vectorization in Neural Networks: A Beginner’s Guide](https://dev.to/codeneuron/vectorization-in-neural-networks-a-beginners-guide-e34) (2025-12-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The First Rust Linux Kernel CVE Just Happened: Why It’s Actually Good News](https://medium.com/@ashishjsharda/the-first-rust-linux-kernel-cve-just-happened-why-its-actually-good-news-e2fc2ca8569f?source=rss------programming-5) (2025-12-24)
-- [AI Planning Techniques: From Classical Methods to Modern Applications](https://medium.com/@angadi.saa/ai-planning-techniques-from-classical-methods-to-modern-applications-ababada44fe8?source=rss------programming-5) (2025-12-24)
-- [10 Python Tricks That Make Everyday Tasks Automatic](https://python.plainenglish.io/10-python-tricks-that-make-everyday-tasks-automatic-b434d06e9716?source=rss------programming-5) (2025-12-24)
-- [ValueTask + IValueTaskSource in .NET: performance as a contract (advanced)](https://medium.com/@anderson.buenogod/valuetask-ivaluetasksource-in-net-performance-as-a-contract-advanced-217398cf2465?source=rss------programming-5) (2025-12-24)
-- [Why Most Developer Side Hustles Fail](https://python.plainenglish.io/why-most-developer-side-hustles-fail-bed3a1d30954?source=rss------programming-5) (2025-12-24)
+- [I Replaced a $200/Month Vercel Bill With a $5 VPS — Here’s the Exact Setup](https://medium.com/@premchandak_11/i-replaced-a-200-month-vercel-bill-with-a-5-vps-heres-the-exact-setup-ab83876dc260?source=rss------programming-5) (2025-12-24)
+- [When Artificial Intelligence Touches the Human Soul](https://medium.com/@sobhan.ahmadi.20000/when-artificial-intelligence-touches-the-human-soul-c499f8749f97?source=rss------programming-5) (2025-12-24)
+- [Ethereum’s Fusaka Upgrade Explained: What It Means for Layer-2 Scalability](https://medium.com/codetodeploy/ethereums-fusaka-upgrade-explained-what-it-means-for-layer-2-scalability-13a2c560cf67?source=rss------programming-5) (2025-12-24)
+- [5 Angular Libraries That Died in 2025 (And What to Use Instead)](https://ganeshlawand2002.medium.com/5-angular-libraries-that-died-in-2025-and-what-to-use-instead-1374c67dc47a?source=rss------programming-5) (2025-12-24)
+- [I Couldn’t Describe an Apple at eBay. It Changed My Entire Career (The #1 Skill in Software)](https://levelup.gitconnected.com/i-couldnt-describe-an-apple-at-ebay-it-changed-my-entire-career-the-1-skill-in-software-f208823574a7?source=rss------programming-5) (2025-12-24)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
-- [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 - [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
 - [Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025](https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/) (2025-12-10)
+- [Microsoft’s commitment to supporting cloud infrastructure demand in the United States](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/) (2025-12-09)
+- [New options for AI-powered innovation, resiliency, and control with Microsoft Azure](https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/) (2025-12-03)
 
 </details>
 
@@ -572,22 +572,22 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Machine Learning “Advent Calendar” Day 23: CNN in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-23-cnn-in-excel/) (2025-12-24)
 - [How Agents Plan Tasks with To-Do Lists](https://towardsdatascience.com/how-agents-plan-tasks-with-to-do-lists/) (2025-12-23)
 - [Stop Retraining Blindly: Use PSI to Build a Smarter Monitoring Pipeline](https://towardsdatascience.com/stop-retraining-blindly-use-psi-to-build-a-smarter-monitoring-pipeline/) (2025-12-23)
 - [Synergy in Clicks: Harsanyi Dividends for E-Commerce](https://towardsdatascience.com/synergy-in-clicks-harsanyi-dividends-for-e-commerce/) (2025-12-23)
 - [The Machine Learning “Advent Calendar” Day 22: Embeddings in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-22-embeddings-in-excel/) (2025-12-22)
-- [The Machine Learning “Advent Calendar” Day 21: Gradient Boosted Decision Tree Regressor in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-21-gradient-boosted-decision-tree-regressor-in-excel/) (2025-12-22)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Top 7 Free AI Courses with Certificates](https://www.analyticsvidhya.com/blog/2025/12/free-ai-courses-with-certificates/) (2025-12-24)
 - [Google Code Wiki: Live Docs, Diagrams & Chat for Any GitHub Repo](https://www.analyticsvidhya.com/blog/2025/12/google-code-wiki/) (2025-12-23)
 - [How to Use Microsoft Power Automate? [In Under 10 Minutes]](https://www.analyticsvidhya.com/blog/2025/12/microsoft-power-automate-guide-for-beginners/) (2025-12-23)
 - [Top 7 Free Python Courses with Certificate](https://www.analyticsvidhya.com/blog/2025/12/free-python-courses-with-certificate/) (2025-12-22)
 - [Create Personalized Christmas & New Year Cards Using AI](https://www.analyticsvidhya.com/blog/2025/12/ai-christmas-and-new-year-cards/) (2025-12-22)
-- [Building an Agentic AI Pipeline for ESG Reporting ](https://www.analyticsvidhya.com/blog/2025/12/building-an-agentic-ai-pipeline-for-esg-reporting/) (2025-12-21)
 
 </details>
 
