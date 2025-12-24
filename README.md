@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [The Ultimate Windows Utility (2022)](https://christitus.com/windows-tool/) (2025-12-24)
+- [Permission Systems for Enterprise That Scale](https://eliocapella.com/blog/permission-systems-for-enterprise/) (2025-12-24)
+- [Google 2025 recap: Research breakthroughs of the year](https://blog.google/technology/ai/2025-research-breakthroughs/) (2025-12-24)
+- [Custom Cross Compiler with Nix](https://www.hobson.space/posts/nixcross/) (2025-12-24)
 - [Don't Become the Machine](https://armeet.bearblog.dev/becoming-the-machine/) (2025-12-24)
-- [Correspondence Between Don Knuth and Peter van Emde Boas on Priority Deques 1977 [pdf]](https://staff.fnwi.uva.nl/p.vanemdeboas/knuthnote.pdf) (2025-12-24)
-- [Show HN: Turn raw HTML into production-ready images for free](https://html2png.dev) (2025-12-24)
-- [Autonomously navigating the real world: lessons from the PG&E outage](https://waymo.com/blog/2025/12/autonomously-navigating-the-real-world) (2025-12-24)
-- [Could lockfiles just be SBOMs?](https://nesbitt.io/2025/12/23/could-lockfiles-just-be-sboms.html) (2025-12-24)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The Pluribus finale showed there&#8217;s a lot more to the story](https://www.theverge.com/entertainment/848379/pluribus-review-season-1-finale) (2025-12-24)
 - [Trump administration bars former EU official and anti-disinformation and hate researchers from US](https://www.theverge.com/news/850067/us-sanctions-thierry-breton-content-moderation-censorship) (2025-12-24)
 - [Apple is going to allow third-party app stores in Brazil, too](https://www.theverge.com/news/850061/apple-brazil-third-party-app-stores-external-payment-systems) (2025-12-23)
 - [The Pixel 10, our favorite Android phone, is nearly 50 percent off right now](https://www.theverge.com/gadgets/836995/google-pixel-10-pro-xl-amazon-deal-sale-2025) (2025-12-23)
 - [We found 30 great gifts that are on sale and will arrive in time for Christmas](https://www.theverge.com/gadgets/846378/best-last-minute-gifts-ideas-airpods-pro-deal-sale) (2025-12-23)
-- [Samsung&#8217;s 2026 gaming monitors promise 6K, 3D, and up to 1,040Hz](https://www.theverge.com/news/849850/samsung-odyssey-gaming-monitors-6k-3d-ces-2026) (2025-12-23)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Meet the man hunting the spies in your smartphone](https://www.technologyreview.com/2025/12/24/1129294/ronald-deibert-citizen-lab-digital-threats-spies-cybersecurity/) (2025-12-24)
+- [Four bright spots in climate news in 2025](https://www.technologyreview.com/2025/12/24/1130191/good-climate-news-2025/) (2025-12-24)
 - [Researchers are getting organoids pregnant with human embryos](https://www.technologyreview.com/2025/12/23/1130415/organoid-uterus-microfluidic-chip-embryo/) (2025-12-23)
 - [How social media encourages the worst of AI boosterism](https://www.technologyreview.com/2025/12/23/1130393/how-social-media-encourages-the-worst-of-ai-boosterism/) (2025-12-23)
 - [How I learned to stop worrying and love AI slop](https://www.technologyreview.com/2025/12/23/1130396/how-i-learned-to-stop-worrying-and-love-ai-slop/) (2025-12-23)
-- [Welcome to Kenya’s Great Carbon Valley: a bold new gamble to fight climate change](https://www.technologyreview.com/2025/12/22/1130153/geothermal-energy-carbon-capture-kenya-climate-solution/) (2025-12-22)
-- [This company is developing gene therapies for muscle growth, erectile dysfunction, and “radical longevity”](https://www.technologyreview.com/2025/12/22/1130288/gene-therapies-muscle-growth-erectile-dysfunction-radical-longevity/) (2025-12-22)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Writing JS FFI in MoonBit](https://dev.to/mizchi/writing-js-ffi-in-moonbit-jgn) (2025-12-24)
-- [MoonBit: A Modern Language for WebAssembly/JS/Native](https://dev.to/mizchi/moonbit-a-modern-language-for-webassemblyjsnative-4p71) (2025-12-24)
-- [The Power of Personality on Your Website, Even for Big Businesses and Non-Personal Brands - Why and How](https://dev.to/per-starke-642/the-power-of-personality-on-your-website-even-for-big-businesses-and-non-personal-brands-why-and-1e5m) (2025-12-24)
-- [Building VibeVault](https://dev.to/thiyagu26v/building-vibevault-4p6f) (2025-12-24)
-- [Vectorization in Neural Networks: A Beginner’s Guide](https://dev.to/codeneuron/vectorization-in-neural-networks-a-beginners-guide-e34) (2025-12-24)
+- [Hidden Tasks Everyone Misses: The 70% Iceberg Problem](https://dev.to/_jeongyuhyeon_03de1/hidden-tasks-everyone-misses-the-70-iceberg-problem-2gf0) (2025-12-24)
+- [Getting Started with 2D Games Using Arcade Library (Part 14): Using the Physics Engine](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-arcade-library-part-14-using-the-physics-engine-5fgk) (2025-12-24)
+- [I Didn’t Build an Expense Tracker.](https://dev.to/emilp/i-didnt-build-an-expense-tracker-h30) (2025-12-24)
+- [Getting Started with 2D Games Using Arcade Library (Part 11): Switching Between Screens](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-arcade-library-part-11-switching-between-screens-2i34) (2025-12-24)
+- [Don't Build Just Another Chatbot: Architecting a "Duolingo-Style" AI Companion with Rive](https://dev.to/uianimation/dont-build-just-another-chatbot-architecting-a-duolingo-style-ai-companion-with-rive-49g5) (2025-12-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Replaced a $200/Month Vercel Bill With a $5 VPS — Here’s the Exact Setup](https://medium.com/@premchandak_11/i-replaced-a-200-month-vercel-bill-with-a-5-vps-heres-the-exact-setup-ab83876dc260?source=rss------programming-5) (2025-12-24)
-- [When Artificial Intelligence Touches the Human Soul](https://medium.com/@sobhan.ahmadi.20000/when-artificial-intelligence-touches-the-human-soul-c499f8749f97?source=rss------programming-5) (2025-12-24)
-- [Ethereum’s Fusaka Upgrade Explained: What It Means for Layer-2 Scalability](https://medium.com/codetodeploy/ethereums-fusaka-upgrade-explained-what-it-means-for-layer-2-scalability-13a2c560cf67?source=rss------programming-5) (2025-12-24)
-- [5 Angular Libraries That Died in 2025 (And What to Use Instead)](https://ganeshlawand2002.medium.com/5-angular-libraries-that-died-in-2025-and-what-to-use-instead-1374c67dc47a?source=rss------programming-5) (2025-12-24)
-- [I Couldn’t Describe an Apple at eBay. It Changed My Entire Career (The #1 Skill in Software)](https://levelup.gitconnected.com/i-couldnt-describe-an-apple-at-ebay-it-changed-my-entire-career-the-1-skill-in-software-f208823574a7?source=rss------programming-5) (2025-12-24)
+- [5 AI Tools That Look Useless at First (But Quietly Earn for Me Every Week)](https://ai.gopubby.com/5-ai-tools-that-look-useless-at-first-but-quietly-earn-for-me-every-week-c36f133e2672?source=rss------programming-5) (2025-12-24)
+- [Constant Folding in .NET 10: Turning Dead Weight Into Pure Throughput](https://medium.com/c-sharp-programming/constant-folding-in-net-10-turning-dead-weight-into-pure-throughput-2ae07f98d506?source=rss------programming-5) (2025-12-24)
+- [The 3 Phrases That Will Get You Fired in Big Tech](https://medium.com/@haiou-a/the-3-phrases-that-will-get-you-fired-in-big-tech-226eafce6a15?source=rss------programming-5) (2025-12-24)
+- [Top 10 VS Code Extensions Every Django Backend Developer Swears By ](https://medium.com/@priyanshu011109/top-10-vs-code-extensions-every-django-backend-developer-swears-by-ae183487098a?source=rss------programming-5) (2025-12-24)
+- [Stop Rebuilding Connectors: MCP + Foundry Tools as the New Integration Layer for AI Agents.](https://itnext.io/stop-rebuilding-connectors-mcp-foundry-tools-as-the-new-integration-layer-for-ai-agents-7803ad6ebaaf?source=rss------programming-5) (2025-12-24)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
+- [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 - [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
 - [Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025](https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/) (2025-12-10)
-- [Microsoft’s commitment to supporting cloud infrastructure demand in the United States](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/) (2025-12-09)
-- [New options for AI-powered innovation, resiliency, and control with Microsoft Azure](https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/) (2025-12-03)
 
 </details>
 
@@ -484,11 +484,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
+- [新しいサンプルアプリ「Agent Script Recipes」でハイブリッド推論をマスター](https://developer.salesforce.com/blogs/2025/12/jp-master-hybrid-reasoning-with-the-new-agent-script-recipes-sample-app.html) (2025-12-24)
+- [Build Composable Storefronts Smarter and Faster with the PWA Kit MCP Server](https://developer.salesforce.com/blogs/2025/12/build-composable-storefronts-smarter-and-faster-with-the-pwa-kit-mcp-server.html) (2025-12-23)
 - [AgentforceデータライブラリーからAIエージェントのテストケースを自動生成](https://developer.salesforce.com/blogs/2025/12/jp-auto-generate-agent-test-cases-from-agentforce-data-libraries.html) (2025-12-23)
 - [【Agentforce Hackathon Tokyo】第 1 位 Lightning Brightning: Agentforce と Tableau で革新するデータ駆動型ソリューション「Beauty Cloud」](https://developer.salesforce.com/blogs/2025/12/%e3%80%90agentforce-hackathon-tokyo%e3%80%91%e7%ac%ac-1-%e4%bd%8d-lightning-brightning-agentforce-%e3%81%a8-tableau-%e3%81%a7%e9%9d%a9%e6%96%b0%e3%81%99%e3%82%8b%e3%83%87%e3%83%bc%e3%82%bf%e9%a7%86.html) (2025-12-22)
 - [Agentforceで会話履歴を活用して、マルチターンのAIエージェントテストを自動化](https://developer.salesforce.com/blogs/2025/12/jp-automate-multi-turn-agent-testing-with-conversation-history-in-agentforce.html) (2025-12-18)
-- [Data 360 Fundamentals: Personalizing a Website](https://developer.salesforce.com/blogs/2025/12/data-360-fundamentals-personalizing-a-website.html) (2025-12-18)
-- [【Agentforce Hackathon Tokyo】第 2 位 電通デジタル: Agentforce で実現する「次世代型シナリオプランニング」](https://developer.salesforce.com/blogs/2025/12/%e3%80%90agentforce-hackathon-tokyo%e3%80%91%e7%ac%ac-2-%e4%bd%8d-%e9%9b%bb%e9%80%9a%e3%83%87%e3%82%b8%e3%82%bf%e3%83%ab-agentforce-%e3%81%a7%e5%ae%9f%e7%8f%be%e3%81%99%e3%82%8b%e3%80%8c%e6%ac%a1.html) (2025-12-18)
 
 </details>
 
@@ -506,11 +506,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slack Feature Drop: New Innovations That Make Work Feel Like a Gift](https://slack.com/blog/news/feature-drop-dec25) (2025-12-22)
 - [Securing the Agentic Enterprise](https://slack.com/blog/transformation/securing-the-agentic-enterprise) (2025-12-17)
 - [Why Your AI Is Advancing — and Your Enterprise Isn’t](https://slack.com/blog/transformation/five-friction-points-enterprise-ai) (2025-12-16)
 - [Enterprise Search: How to Find Anything at Work with One Query](https://slack.com/blog/productivity/enterprise-search) (2025-12-15)
 - [AI Knowledge Base: The Complete Guide for 2026](https://slack.com/blog/productivity/what-is-an-ai-knowledge-base-tools-features-and-best-practices) (2025-12-15)
-- [The Rise of Software Engineering Agents in Slack](https://slack.com/blog/developers/coding-agents-in-slack) (2025-12-11)
 
 </details>
 
@@ -561,22 +561,22 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>🤖 AI News</summary>
 
+- [The future of rail: Watching, predicting, and learning](https://www.artificialintelligence-news.com/news/rail-ai-in-the-uk-beyond-predictive-maintenance/) (2025-12-24)
+- [Why Disney is embedding generative AI into its operating model](https://www.artificialintelligence-news.com/news/why-disney-is-embedding-generative-ai-into-its-operating-model/) (2025-12-24)
 - [Arm and the future of AI at the edge](https://www.artificialintelligence-news.com/news/arm-chips-and-the-future-of-ai-at-the-edge/) (2025-12-23)
 - [Inside China’s push to apply AI across its energy system](https://www.artificialintelligence-news.com/news/inside-chinas-push-to-apply-ai-across-its-energy-system/) (2025-12-23)
 - [Tesco signs three-year AI deal centred on customer experience](https://www.artificialintelligence-news.com/news/tesco-signs-three-year-ai-deal-centred-on-customer-experience/) (2025-12-22)
-- [Marketing agencies using AI in workflows serve more clients](https://www.artificialintelligence-news.com/news/marketing-agencies-ai-use-creates-faster-workflows-but-need-restructuring-internally/) (2025-12-19)
-- [50,000 Copilot licences for Indian service companies](https://www.artificialintelligence-news.com/news/service-provider-ai-implementations-india-enterprise-scale-copilot-rollouts/) (2025-12-19)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
-- [The Machine Learning “Advent Calendar” Day 23: CNN in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-23-cnn-in-excel/) (2025-12-24)
+- [Bonferroni vs. Benjamini-Hochberg: Choosing Your P-Value Correction](https://towardsdatascience.com/the-time-10-99-was-too-big-superheavy-elements-and-deceit/) (2025-12-24)
+- [The Machine Learning “Advent Calendar” Day 23: 1D CNN for Text in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-23-cnn-in-excel/) (2025-12-24)
 - [How Agents Plan Tasks with To-Do Lists](https://towardsdatascience.com/how-agents-plan-tasks-with-to-do-lists/) (2025-12-23)
 - [Stop Retraining Blindly: Use PSI to Build a Smarter Monitoring Pipeline](https://towardsdatascience.com/stop-retraining-blindly-use-psi-to-build-a-smarter-monitoring-pipeline/) (2025-12-23)
 - [Synergy in Clicks: Harsanyi Dividends for E-Commerce](https://towardsdatascience.com/synergy-in-clicks-harsanyi-dividends-for-e-commerce/) (2025-12-23)
-- [The Machine Learning “Advent Calendar” Day 22: Embeddings in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-22-embeddings-in-excel/) (2025-12-22)
 
 </details>
 
