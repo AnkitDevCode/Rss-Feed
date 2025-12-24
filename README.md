@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [US insurance giant Aflac says hackers stole personal and health data of 22.6 million](https://techcrunch.com/2025/12/23/us-insurance-giant-aflac-says-hackers-stole-personal-data-of-22-6-million/) (2025-12-23)
-- [This founder just landed funding for a second go at the same problem: Affordable custom home design](https://techcrunch.com/2025/12/23/this-founder-just-landed-backing-for-a-second-go-at-the-same-problem-affordable-custom-home-design/) (2025-12-23)
-- [Marissa Mayer’s new startup Dazzle raises $8M led by Forerunner’s Kirsten Green](https://techcrunch.com/2025/12/23/marissa-mayers-new-startup-dazzle-raises-8m-led-by-forerunners-kirsten-green/) (2025-12-23)
-- [Amazon’s AI assistant Alexa+ now works with Angi, Expedia, Square, and Yelp](https://techcrunch.com/2025/12/23/amazons-ai-assistant-alexa-now-works-with-angi-expedia-square-and-yelp/) (2025-12-23)
-- [Lemon Slice nabs $10.5M from YC and Matrix to build out its digital avatar tech](https://techcrunch.com/2025/12/23/lemon-slice-nabs-10-5m-from-yc-and-matrix-to-build-out-its-digital-avatar-tech/) (2025-12-23)
+- [Trump administration’s ban on foreign-made drones starts this week — you can say goodbye to new DJI models](https://techcrunch.com/2025/12/23/trump-administrations-ban-on-foreign-made-drones-starts-this-week-you-can-say-goodbye-to-new-dji-models/) (2025-12-23)
+- [ServiceNow to acquire cybersecurity startup Armis for $7.75B](https://techcrunch.com/2025/12/23/servicenow-to-acquire-cybersecurity-startup-armis-for-7-75b/) (2025-12-23)
+- [Zoox issues software recall over lane crossings](https://techcrunch.com/2025/12/23/zoox-issues-software-recall-over-lane-crossings/) (2025-12-23)
+- [John Carreyrou and other authors bring new lawsuit against six major AI companies](https://techcrunch.com/2025/12/23/john-carreyrou-and-other-authors-bring-new-lawsuit-against-six-major-ai-companies/) (2025-12-23)
+- [Hackers stole over $2.7B in crypto in 2025, data shows](https://techcrunch.com/2025/12/23/hackers-stole-over-2-7-billion-in-crypto-in-2025-data-shows/) (2025-12-23)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md) (2025-12-23)
-- [How Did Doge Disrupt So Much While Saving So Little?](https://www.nytimes.com/2025/12/23/us/politics/doge-musk-trump-analysis.html) (2025-12-23)
-- [Meta Is Using the Linux Scheduler Designed for Valve's Steam Deck on Its Servers](https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server) (2025-12-23)
-- [When irate product support customers demand to speak to Bill Gates](https://devblogs.microsoft.com/oldnewthing/20251223-00/?p=111896) (2025-12-23)
-- [Test, don't (just) verify](https://alperenkeles.com/posts/test-dont-verify/) (2025-12-23)
+- [Stronk.app – open-source gym lifts journal](https://news.ycombinator.com/item?id=46371139) (2025-12-24)
+- [Unifi Travel Router](https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router) (2025-12-24)
+- [Is Northern Virginia still the least reliable AWS region?](https://statusgator.com/blog/aws-least-reliable-region-in-2025/) (2025-12-23)
+- [Microspeak: North Star – The Old New Thing (2015)](https://devblogs.microsoft.com/oldnewthing/20151103-00/?p=91861) (2025-12-23)
+- [Texas app store age verification law blocked by federal judge](https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/) (2025-12-23)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Judge blocks Texas app store age verification law](https://www.theverge.com/news/849752/texas-app-store-accountability-act-age-verification-injunction) (2025-12-23)
-- [These great digital gifts will arrive just in time for Christmas](https://www.theverge.com/gadgets/848999/best-digital-gift-ideas-online-cards-subscriptions-2025) (2025-12-23)
-- [DOJ appears to bungle Epstein Files redactions](https://www.theverge.com/news/849639/epstein-files-doj-redactions-links) (2025-12-23)
-- [Watch lists are broken. Federation could fix them.](https://www.theverge.com/column/849255/watch-lists-broken-federation-share-data) (2025-12-23)
-- [New York’s landmark AI safety bill was defanged — and universities were part of the push against it](https://www.theverge.com/ai-artificial-intelligence/849293/ai-alliance-universities-colleges-funding-ad-campaign-against-raise-act) (2025-12-23)
+- [Trump administration bars former EU official and anti-disinformation and hate researchers from US](https://www.theverge.com/news/850067/us-sanctions-thierry-breton-content-moderation-censorship) (2025-12-24)
+- [Apple is going to allow third-party app stores in Brazil, too](https://www.theverge.com/news/850061/apple-brazil-third-party-app-stores-external-payment-systems) (2025-12-23)
+- [The Pixel 10, our favorite Android phone, is nearly 50 percent off right now](https://www.theverge.com/gadgets/836995/google-pixel-10-pro-xl-amazon-deal-sale-2025) (2025-12-23)
+- [We found 30 great gifts that are on sale and will arrive in time for Christmas](https://www.theverge.com/gadgets/846378/best-last-minute-gifts-ideas-airpods-pro-deal-sale) (2025-12-23)
+- [Samsung&#8217;s 2026 gaming monitors promise 6K, 3D, and up to 1,040Hz](https://www.theverge.com/news/849850/samsung-odyssey-gaming-monitors-6k-3d-ces-2026) (2025-12-23)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [China just carried out its second reusable launch attempt in three weeks](https://arstechnica.com/space/2025/12/china-just-carried-out-its-second-reusable-launch-attempt-in-three-weeks/) (2025-12-23)
+- [Leaked Avengers: Doomsday teaser is now public](https://arstechnica.com/culture/2025/12/steve-rogers-returns-in-avengers-doomsday-teaser/) (2025-12-23)
+- [FCC’s import ban on the best new drones starts today](https://arstechnica.com/gadgets/2025/12/djis-new-drones-will-not-be-available-in-the-us-as-fcc-ban-takes-effect/) (2025-12-23)
 - [OpenAI’s child exploitation reports increased sharply this year](https://arstechnica.com/tech-policy/2025/12/openais-child-exploitation-reports-increased-sharply-this-year/) (2025-12-23)
 - [“Yo what?” LimeWire re-emerges in online rush to share pulled “60 Minutes” segment](https://arstechnica.com/tech-policy/2025/12/yo-what-limewire-re-emerges-in-online-rush-to-share-pulled-60-minutes-segment/) (2025-12-23)
-- [F1’s new engines are causing consternation over compression ratios](https://arstechnica.com/cars/2025/12/f1s-new-engines-are-causing-consternation-over-compression-ratios/) (2025-12-23)
-- [The Splay is a subpar monitor but an exciting portable projector ](https://arstechnica.com/gadgets/2025/12/the-splay-is-a-subpar-monitor-but-an-exciting-portable-projector/) (2025-12-23)
-- [In a surprise announcement, Tory Bruno is out as CEO of United Launch Alliance](https://arstechnica.com/space/2025/12/in-a-surprise-announcement-tory-bruno-is-out-as-ceo-of-united-launch-alliance/) (2025-12-22)
 
 </details>
 
@@ -75,11 +75,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Strengthening supply chain security: Preparing for the next malware campaign](https://github.blog/security/supply-chain-security/strengthening-supply-chain-security-preparing-for-the-next-malware-campaign/) (2025-12-23)
 - [5 podcast episodes to help you build with confidence in 2026](https://github.blog/open-source/maintainers/5-podcast-episodes-to-help-you-build-with-confidence-in-2026/) (2025-12-23)
 - [This year’s most influential open source projects](https://github.blog/open-source/maintainers/this-years-most-influential-open-source-projects/) (2025-12-22)
 - [The future of AI-powered software optimization (and how it can help your team)](https://github.blog/news-insights/policy-news-and-insights/the-future-of-ai-powered-software-optimization-and-how-it-can-help-your-team/) (2025-12-12)
 - [Let’s talk about GitHub Actions](https://github.blog/news-insights/product-news/lets-talk-about-github-actions/) (2025-12-11)
-- [GitHub Availability Report: November 2025](https://github.blog/news-insights/company-news/github-availability-report-november-2025/) (2025-12-11)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [[Boost]](https://dev.to/esin87/-44kh) (2025-12-23)
-- [I Built a Privacy-First CSV Explorer That Works Entirely in Your Browser](https://dev.to/dinesh_kumar_ef63ffef1c64/i-built-a-privacy-first-csv-explorer-that-works-entirely-in-your-browser-3lk3) (2025-12-23)
-- [AWS Control Tower 4.0: A New Look at Landing Zones](https://dev.to/aws-builders/aws-control-tower-40-a-new-look-at-landing-zones-1ap6) (2025-12-23)
-- [Thwarting Data Breaches: A Cybersecurity Solution Case Study](https://dev.to/hkj13/thwarting-data-breaches-a-cybersecurity-solution-case-study-1j1a) (2025-12-23)
-- [Caching with Redis: Boosting Application Performance](https://dev.to/techblogs/caching-with-redis-boosting-application-performance-4l54) (2025-12-23)
+- [Mastering interrupt handling in your kernel](https://dev.to/vhajsman/mastering-interrupt-handling-in-your-kernel-b5) (2025-12-24)
+- [Why do Article 120 defendants feel disadvantaged by unequal resources?](https://dev.to/ali_hamza_79a3d9fdbe20917/why-do-article-120-defendants-feel-disadvantaged-by-unequal-resources-dj4) (2025-12-24)
+- [What 4 Years on the Fast Track Taught Me About My Career: From Dropping Out to Leading a Production Application](https://dev.to/kgthedev/what-4-years-on-the-fast-track-taught-me-about-my-career-from-dropping-out-to-leading-a-production-58fi) (2025-12-24)
+- [Hello World; You Don’t Qualify for the AWS Community Builders Program](https://dev.to/aws-builders/hello-world-you-dont-qualify-for-the-aws-community-builders-program-2i3m) (2025-12-24)
+- [Ugly Sweater CSS: Jawa's Back the Return of the Droids.](https://dev.to/jarvisscript/ugly-sweater-css-jawas-back-the-return-of-the-droids-42cg) (2025-12-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Senior .NET Developer’s Guide to Writing Code](https://medium.com/@kerimkkara/the-senior-net-developers-guide-to-writing-code-d3cfe1da0b51?source=rss------programming-5) (2025-12-23)
-- [I Wrote the Machine Learning Beginner’s Guide I Couldn’t Find](https://python.plainenglish.io/i-wrote-the-machine-learning-beginners-guide-i-couldn-t-find-224315486e14?source=rss------programming-5) (2025-12-23)
-- [Wave2Lip vs SadTalker](https://medium.com/@muazashraf456/wave2lip-vs-sadtalker-d88ab98e06d1?source=rss------programming-5) (2025-12-23)
-- [How Navigation Apps Deliberately Send You Through Toll Roads](https://medium.com/@sohail_saifi/how-navigation-apps-deliberately-send-you-through-toll-roads-896b52ad89a3?source=rss------programming-5) (2025-12-23)
-- [How to Build an E-commerce Application Using .NET 9](https://medium.com/@maged_/how-to-build-an-e-commerce-application-using-net-9-f8deaf25dabc?source=rss------programming-5) (2025-12-23)
+- [The First Rust Linux Kernel CVE Just Happened: Why It’s Actually Good News](https://medium.com/@ashishjsharda/the-first-rust-linux-kernel-cve-just-happened-why-its-actually-good-news-e2fc2ca8569f?source=rss------programming-5) (2025-12-24)
+- [AI Planning Techniques: From Classical Methods to Modern Applications](https://medium.com/@angadi.saa/ai-planning-techniques-from-classical-methods-to-modern-applications-ababada44fe8?source=rss------programming-5) (2025-12-24)
+- [10 Python Tricks That Make Everyday Tasks Automatic](https://python.plainenglish.io/10-python-tricks-that-make-everyday-tasks-automatic-b434d06e9716?source=rss------programming-5) (2025-12-24)
+- [ValueTask + IValueTaskSource in .NET: performance as a contract (advanced)](https://medium.com/@anderson.buenogod/valuetask-ivaluetasksource-in-net-performance-as-a-contract-advanced-217398cf2465?source=rss------programming-5) (2025-12-24)
+- [Why Most Developer Side Hustles Fail](https://python.plainenglish.io/why-most-developer-side-hustles-fail-bed3a1d30954?source=rss------programming-5) (2025-12-24)
 
 </details>
 
@@ -152,11 +152,11 @@
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [Update on age requirements for apps distributed in Texas](https://developer.apple.com/news/?id=8jzbigf4) (2025-12-24)
 - [Changes to iOS in Japan](https://developer.apple.com/news/?id=074b3wzz) (2025-12-17)
 - [Updated Apple Developer Program License Agreement now available](https://developer.apple.com/news/?id=76371du6) (2025-12-17)
 - [New Requirements for Social Media Apps in Australia](https://developer.apple.com/news/?id=y1bckxf8) (2025-12-08)
 - [Hello Developer: December 2025](https://developer.apple.com/news/?id=mu3kfca2) (2025-12-04)
-- [App Store Award winners announced](https://developer.apple.com/news/?id=id45s69d) (2025-12-04)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.35: Fine-grained Supplemental Groups Control Graduates to GA](https://kubernetes.io/blog/2025/12/23/kubernetes-v1-35-fine-grained-supplementalgroups-control-ga/) (2025-12-23)
 - [Kubernetes v1.35: Kubelet Configuration Drop-in Directory Graduates to GA](https://kubernetes.io/blog/2025/12/22/kubernetes-v1-35-kubelet-config-drop-in-directory-ga/) (2025-12-22)
 - [Avoiding Zombie Cluster Members When Upgrading to etcd v3.6](https://kubernetes.io/blog/2025/12/21/preventing-etcd-zombies/) (2025-12-21)
 - [Kubernetes 1.35: In-Place Pod Resize Graduates to Stable](https://kubernetes.io/blog/2025/12/19/kubernetes-v1-35-in-place-pod-resize-ga/) (2025-12-19)
 - [Kubernetes v1.35: Job Managed By Goes GA](https://kubernetes.io/blog/2025/12/18/kubernetes-v1-35-job-managedby-for-jobs-goes-ga/) (2025-12-18)
-- [Kubernetes v1.35: Timbernetes (The World Tree Release)](https://kubernetes.io/blog/2025/12/17/kubernetes-v1-35-release/) (2025-12-17)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Everything You Wanted to Ask About Rust – Answered by Herbert Wolverson](https://blog.jetbrains.com/rust/2025/12/23/everything-you-wanted-to-ask-about-rust-answered-by-herbert-wolverson/) (2025-12-23)
 - [Thread Dumps and Project Loom (Virtual Threads)](https://blog.jetbrains.com/idea/2025/12/thread-dumps-and-project-loom-virtual-threads/) (2025-12-23)
 - [Advent of Code in Rust: Winners and Highlights](https://blog.jetbrains.com/rust/2025/12/22/advent-of-code-in-rust-winners-and-highlights/) (2025-12-22)
 - [How Mobile Development Teams Use Kotlin in 2025: Insights From a Certified Trainer](https://blog.jetbrains.com/kotlin/2025/12/how-mobile-development-teams-use-kotlin-in-2025/) (2025-12-19)
 - [Top 3 Qodana 2025.3 Release Highlights ](https://blog.jetbrains.com/qodana/2025/12/top-3-qodana-2025-3-release-highlights/) (2025-12-19)
-- [First-Class Docker Support: Building and Deploying Containers With TeamCity](https://blog.jetbrains.com/teamcity/2025/12/first-class-docker-support/) (2025-12-19)
 
 </details>
 
