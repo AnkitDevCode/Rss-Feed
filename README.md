@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Trump administration’s ban on foreign-made drones starts this week — you can say goodbye to new DJI models](https://techcrunch.com/2025/12/23/trump-administrations-ban-on-foreign-made-drones-starts-this-week-you-can-say-goodbye-to-new-dji-models/) (2025-12-23)
-- [ServiceNow to acquire cybersecurity startup Armis for $7.75B](https://techcrunch.com/2025/12/23/servicenow-to-acquire-cybersecurity-startup-armis-for-7-75b/) (2025-12-23)
-- [Zoox issues software recall over lane crossings](https://techcrunch.com/2025/12/23/zoox-issues-software-recall-over-lane-crossings/) (2025-12-23)
-- [John Carreyrou and other authors bring new lawsuit against six major AI companies](https://techcrunch.com/2025/12/23/john-carreyrou-and-other-authors-bring-new-lawsuit-against-six-major-ai-companies/) (2025-12-23)
-- [Hackers stole over $2.7B in crypto in 2025, data shows](https://techcrunch.com/2025/12/23/hackers-stole-over-2-7-billion-in-crypto-in-2025-data-shows/) (2025-12-23)
+- [The European startup market’s data doesn’t match its energy — yet](https://techcrunch.com/2025/12/24/the-european-startup-markets-data-doesnt-match-its-energy-yet/) (2025-12-24)
+- [Waymo explains why its robotaxis got stuck during the SF blackout](https://techcrunch.com/2025/12/24/waymo-explains-why-its-robotaxis-got-stuck-during-the-sf-blackout/) (2025-12-24)
+- [Waymo is testing Gemini as an in-car AI assistant in its robotaxis](https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/) (2025-12-24)
+- [The 9 top biotech startups from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/24/the-9-top-biotech-startups-from-disrupt-startup-battlefield/) (2025-12-24)
+- [How Mill closed the deal with Amazon and Whole Foods](https://techcrunch.com/2025/12/24/how-mill-closed-the-deal-with-amazon-and-whole-foods/) (2025-12-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Ultimate Windows Utility (2022)](https://christitus.com/windows-tool/) (2025-12-24)
-- [Permission Systems for Enterprise That Scale](https://eliocapella.com/blog/permission-systems-for-enterprise/) (2025-12-24)
-- [Google 2025 recap: Research breakthroughs of the year](https://blog.google/technology/ai/2025-research-breakthroughs/) (2025-12-24)
-- [Custom Cross Compiler with Nix](https://www.hobson.space/posts/nixcross/) (2025-12-24)
-- [Don't Become the Machine](https://armeet.bearblog.dev/becoming-the-machine/) (2025-12-24)
+- [Mt. Gox CEO Karpelès Reveals Details of 2014 Collapse and Japanese Detention](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention) (2025-12-24)
+- [My 2026 Open Social Web Predictions](https://www.timothychambers.net/2025/12/23/my-open-social-web-predictions.html) (2025-12-24)
+- [We Abandoned Matrix: The Dark Truth About User Security and Safety (2024)](https://forum.hackliberty.org/t/why-we-abandoned-matrix-the-dark-truth-about-user-security-and-safety/224) (2025-12-24)
+- [New reactor produces clean energy and carbon nanotubes from natural gas](https://phys.org/news/2025-12-reactor-energy-carbon-nanotubes-natural.html) (2025-12-24)
+- [AMD entered the CPU market with reverse-engineered Intel 8080 clone 50 years ago](https://www.tomshardware.com/pc-components/cpus/amd-first-entered-the-cpu-market-with-reverse-engineered-intel-8080-clone-50-years-ago-the-am9080-cost-50-cents-apiece-to-make-but-sold-for-usd700) (2025-12-24)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Anker’s beefy Laptop Power Bank has returned to its Black Friday low](https://www.theverge.com/gadgets/849637/anker-laptop-power-bank-xbox-series-x-deal-sale) (2025-12-24)
+- [Sony’s souped-up PlayStation 5 Pro is $100 off for the rest of today](https://www.theverge.com/gadgets/684281/sony-playstation-5-ps5-pro-christmas-deal-sale-2025) (2025-12-24)
+- [The best shows and movies to stream on Netflix in 2025](https://www.theverge.com/entertainment/845388/netflix-best-shows-movies-2025) (2025-12-24)
+- [In 2025, AI became a lightning rod for gamers and developers](https://www.theverge.com/entertainment/848368/gen-ai-video-games-2025) (2025-12-24)
 - [The Pluribus finale showed there&#8217;s a lot more to the story](https://www.theverge.com/entertainment/848379/pluribus-review-season-1-finale) (2025-12-24)
-- [Trump administration bars former EU official and anti-disinformation and hate researchers from US](https://www.theverge.com/news/850067/us-sanctions-thierry-breton-content-moderation-censorship) (2025-12-24)
-- [Apple is going to allow third-party app stores in Brazil, too](https://www.theverge.com/news/850061/apple-brazil-third-party-app-stores-external-payment-systems) (2025-12-23)
-- [The Pixel 10, our favorite Android phone, is nearly 50 percent off right now](https://www.theverge.com/gadgets/836995/google-pixel-10-pro-xl-amazon-deal-sale-2025) (2025-12-23)
-- [We found 30 great gifts that are on sale and will arrive in time for Christmas](https://www.theverge.com/gadgets/846378/best-last-minute-gifts-ideas-airpods-pro-deal-sale) (2025-12-23)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Being Santa Claus is a year-round calling](https://arstechnica.com/science/2025/12/being-santa-claus-is-a-year-round-calling/) (2025-12-24)
+- [SPEED Act passes in House despite changes that threaten clean power projects](https://arstechnica.com/tech-policy/2025/12/speed-act-passes-in-house-despite-changes-that-threaten-clean-power-projects/) (2025-12-24)
+- [TV Technica: Our favorite shows of 2025](https://arstechnica.com/culture/2025/12/tv-technica-our-favorite-shows-of-2025/) (2025-12-24)
+- [How AI coding agents work—and what to remember if you use them](https://arstechnica.com/information-technology/2025/12/how-do-ai-coding-agents-work-we-look-under-the-hood/) (2025-12-24)
 - [China just carried out its second reusable launch attempt in three weeks](https://arstechnica.com/space/2025/12/china-just-carried-out-its-second-reusable-launch-attempt-in-three-weeks/) (2025-12-23)
-- [Leaked Avengers: Doomsday teaser is now public](https://arstechnica.com/culture/2025/12/steve-rogers-returns-in-avengers-doomsday-teaser/) (2025-12-23)
-- [FCC’s import ban on the best new drones starts today](https://arstechnica.com/gadgets/2025/12/djis-new-drones-will-not-be-available-in-the-us-as-fcc-ban-takes-effect/) (2025-12-23)
-- [OpenAI’s child exploitation reports increased sharply this year](https://arstechnica.com/tech-policy/2025/12/openais-child-exploitation-reports-increased-sharply-this-year/) (2025-12-23)
-- [“Yo what?” LimeWire re-emerges in online rush to share pulled “60 Minutes” segment](https://arstechnica.com/tech-policy/2025/12/yo-what-limewire-re-emerges-in-online-rush-to-share-pulled-60-minutes-segment/) (2025-12-23)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [The Great Unracking: Saying goodbye to the servers at our physical datacenter](https://stackoverflow.blog/2025/12/24/the-great-unracking-saying-goodbye-to-the-servers-at-our-physical-datacenter/) (2025-12-24)
 - [How Xerox and Stack Overflow partnered to preserve knowledge and power innovation](https://stackoverflow.blog/2025/12/23/how-xerox-and-stack-overflow-partnered-to-preserve-knowledge-and-power-innovation/) (2025-12-23)
 - [The AI ick](https://stackoverflow.blog/2025/12/23/the-ai-ick/) (2025-12-23)
 - [Settle down, nerds. AI is a normal technology](https://stackoverflow.blog/2025/12/23/settle-down-nerds-ai-is-a-normal-technology/) (2025-12-23)
 - [Making your code base better will make your code coverage worse](https://stackoverflow.blog/2025/12/22/making-your-code-base-better-will-make-your-code-coverage-worse/) (2025-12-22)
-- [Last week in AWS re:Invent with Corey Quinn](https://stackoverflow.blog/2025/12/19/last-week-in-aws-re-invent-with-corey-quinn/) (2025-12-19)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Hidden Tasks Everyone Misses: The 70% Iceberg Problem](https://dev.to/_jeongyuhyeon_03de1/hidden-tasks-everyone-misses-the-70-iceberg-problem-2gf0) (2025-12-24)
-- [Getting Started with 2D Games Using Arcade Library (Part 14): Using the Physics Engine](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-arcade-library-part-14-using-the-physics-engine-5fgk) (2025-12-24)
-- [I Didn’t Build an Expense Tracker.](https://dev.to/emilp/i-didnt-build-an-expense-tracker-h30) (2025-12-24)
-- [Getting Started with 2D Games Using Arcade Library (Part 11): Switching Between Screens](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-arcade-library-part-11-switching-between-screens-2i34) (2025-12-24)
-- [Don't Build Just Another Chatbot: Architecting a "Duolingo-Style" AI Companion with Rive](https://dev.to/uianimation/dont-build-just-another-chatbot-architecting-a-duolingo-style-ai-companion-with-rive-49g5) (2025-12-24)
+- [Rahsi Defense Security Mesh™ | Copilot & Teams Enable Productivity | CMMC Compliance Demands Architecture, Policy and Governance](https://dev.to/aakash_rahsi_8d28156d5f2c/rahsi-defense-security-mesh-copilot-teams-enable-productivity-cmmc-compliance-demands-5hjg) (2025-12-24)
+- [Headless Raspberry Pi Homelab – Part 1: OS Configuration & Remote Access](https://dev.to/astromodem/headless-raspberry-pi-homelab-part-1-os-configuration-remote-access-4ibb) (2025-12-24)
+- [A Guide to HITL, HOTL, and HOOTL Workflows](https://dev.to/exson_joseph/a-guide-to-hitl-hotl-and-hootl-workflows-4p4n) (2025-12-24)
+- [hjvvvyjhv](https://dev.to/agency07/hjvvvyjhv-23d4) (2025-12-24)
+- [Swift On Server's](https://dev.to/amritesh240304/swift-on-servers-m46) (2025-12-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [5 AI Tools That Look Useless at First (But Quietly Earn for Me Every Week)](https://ai.gopubby.com/5-ai-tools-that-look-useless-at-first-but-quietly-earn-for-me-every-week-c36f133e2672?source=rss------programming-5) (2025-12-24)
-- [Constant Folding in .NET 10: Turning Dead Weight Into Pure Throughput](https://medium.com/c-sharp-programming/constant-folding-in-net-10-turning-dead-weight-into-pure-throughput-2ae07f98d506?source=rss------programming-5) (2025-12-24)
-- [The 3 Phrases That Will Get You Fired in Big Tech](https://medium.com/@haiou-a/the-3-phrases-that-will-get-you-fired-in-big-tech-226eafce6a15?source=rss------programming-5) (2025-12-24)
-- [Top 10 VS Code Extensions Every Django Backend Developer Swears By ](https://medium.com/@priyanshu011109/top-10-vs-code-extensions-every-django-backend-developer-swears-by-ae183487098a?source=rss------programming-5) (2025-12-24)
-- [Stop Rebuilding Connectors: MCP + Foundry Tools as the New Integration Layer for AI Agents.](https://itnext.io/stop-rebuilding-connectors-mcp-foundry-tools-as-the-new-integration-layer-for-ai-agents-7803ad6ebaaf?source=rss------programming-5) (2025-12-24)
+- [10 Python Decisions New Developers Regret Later](https://python.plainenglish.io/10-python-decisions-new-developers-regret-later-7609038080f3?source=rss------programming-5) (2025-12-24)
+- [The Mid-to-Senior Transition Is a Black Hole](https://medium.com/@foretoldfatima/the-mid-to-senior-transition-is-a-black-hole-5f7f79c7f43a?source=rss------programming-5) (2025-12-24)
+- [I Turned a Python Script Into a Game — Here’s What Broke](https://python.plainenglish.io/i-turned-a-python-script-into-a-game-heres-what-broke-22ed8a71224d?source=rss------programming-5) (2025-12-24)
+- [10 Performance Hacks Every Fullstack Developer Needs to Know](https://medium.com/@adesh.barve20/10-performance-hacks-every-fullstack-developer-needs-to-know-5bfa4887b9f0?source=rss------programming-5) (2025-12-24)
+- [How I Made My App Twice as Fast by Fixing the Backend](https://medium.com/@adesh.barve20/how-i-made-my-app-twice-as-fast-by-fixing-the-backend-dd996da0f0ec?source=rss------programming-5) (2025-12-24)
 
 </details>
 
@@ -562,7 +562,7 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <summary>🤖 AI News</summary>
 
 - [The future of rail: Watching, predicting, and learning](https://www.artificialintelligence-news.com/news/rail-ai-in-the-uk-beyond-predictive-maintenance/) (2025-12-24)
-- [Why Disney is embedding generative AI into its operating model](https://www.artificialintelligence-news.com/news/why-disney-is-embedding-generative-ai-into-its-operating-model/) (2025-12-24)
+- [Disney is embedding generative AI into its operating model](https://www.artificialintelligence-news.com/news/why-disney-is-embedding-generative-ai-into-its-operating-model/) (2025-12-24)
 - [Arm and the future of AI at the edge](https://www.artificialintelligence-news.com/news/arm-chips-and-the-future-of-ai-at-the-edge/) (2025-12-23)
 - [Inside China’s push to apply AI across its energy system](https://www.artificialintelligence-news.com/news/inside-chinas-push-to-apply-ai-across-its-energy-system/) (2025-12-23)
 - [Tesco signs three-year AI deal centred on customer experience](https://www.artificialintelligence-news.com/news/tesco-signs-three-year-ai-deal-centred-on-customer-experience/) (2025-12-22)
@@ -572,44 +572,44 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Is Your Model Time-Blind? The Case for Cyclical Feature Encoding](https://towardsdatascience.com/is-your-model-time-blind-the-case-for-cyclical-feature-encoding/) (2025-12-24)
+- [4 Techniques to Optimize AI Coding Efficiency](https://towardsdatascience.com/4-techniques-to-optimize-ai-coding-efficiency/) (2025-12-24)
 - [Bonferroni vs. Benjamini-Hochberg: Choosing Your P-Value Correction](https://towardsdatascience.com/the-time-10-99-was-too-big-superheavy-elements-and-deceit/) (2025-12-24)
 - [The Machine Learning “Advent Calendar” Day 23: 1D CNN for Text in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-23-cnn-in-excel/) (2025-12-24)
 - [How Agents Plan Tasks with To-Do Lists](https://towardsdatascience.com/how-agents-plan-tasks-with-to-do-lists/) (2025-12-23)
-- [Stop Retraining Blindly: Use PSI to Build a Smarter Monitoring Pipeline](https://towardsdatascience.com/stop-retraining-blindly-use-psi-to-build-a-smarter-monitoring-pipeline/) (2025-12-23)
-- [Synergy in Clicks: Harsanyi Dividends for E-Commerce](https://towardsdatascience.com/synergy-in-clicks-harsanyi-dividends-for-e-commerce/) (2025-12-23)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Build Your Own Open-Source Logo Detector: A Practical Guide to ACR, Embeddings & Vector Search](https://www.analyticsvidhya.com/blog/2025/12/build-your-own-open-source-logo-detector/) (2025-12-24)
 - [Top 7 Free AI Courses with Certificates](https://www.analyticsvidhya.com/blog/2025/12/free-ai-courses-with-certificates/) (2025-12-24)
 - [Google Code Wiki: Live Docs, Diagrams & Chat for Any GitHub Repo](https://www.analyticsvidhya.com/blog/2025/12/google-code-wiki/) (2025-12-23)
 - [How to Use Microsoft Power Automate? [In Under 10 Minutes]](https://www.analyticsvidhya.com/blog/2025/12/microsoft-power-automate-guide-for-beginners/) (2025-12-23)
 - [Top 7 Free Python Courses with Certificate](https://www.analyticsvidhya.com/blog/2025/12/free-python-courses-with-certificate/) (2025-12-22)
-- [Create Personalized Christmas & New Year Cards Using AI](https://www.analyticsvidhya.com/blog/2025/12/ai-christmas-and-new-year-cards/) (2025-12-22)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Top 7 Open Source OCR Models](https://www.kdnuggets.com/top-7-open-source-ocr-models) (2025-12-24)
 - [Probability Concepts You’ll Actually Use in Data Science](https://www.kdnuggets.com/probability-concepts-youll-actually-use-in-data-science) (2025-12-23)
 - [5 Emerging Trends in Data Engineering for 2026](https://www.kdnuggets.com/5-emerging-trends-in-data-engineering-for-2026) (2025-12-23)
 - [Gistr: The Smart AI Notebook for Organizing Knowledge](https://www.kdnuggets.com/gistr-the-smart-ai-notebook-for-organizing-knowledge) (2025-12-22)
 - [7 Tiny AI Models for Raspberry Pi](https://www.kdnuggets.com/7-tiny-ai-models-for-raspberry-pi) (2025-12-22)
-- [5 Useful Python Scripts to Automate Boring Everyday Tasks](https://www.kdnuggets.com/5-useful-python-scripts-to-automate-boring-everyday-tasks) (2025-12-19)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Practical Agentic Coding with Google Jules](https://machinelearningmastery.com/practical-agentic-coding-with-google-jules/) (2025-12-24)
 - [Evaluating Perplexity on Language Models](https://machinelearningmastery.com/evaluating-perplexity-on-language-models/) (2025-12-23)
 - [3 Smart Ways to Encode Categorical Features for Machine Learning](https://machinelearningmastery.com/3-smart-ways-to-encode-categorical-features-for-machine-learning/) (2025-12-22)
 - [Pretraining a Llama Model on Your Local GPU](https://machinelearningmastery.com/pretraining-a-llama-model-on-your-local-gpu/) (2025-12-22)
 - [Rotary Position Embeddings for Long Context Length](https://machinelearningmastery.com/rotary-position-embeddings-for-long-context-length/) (2025-12-20)
-- [How to Fine-Tune a Local Mistral or Llama 3 Model on Your Own Dataset](https://machinelearningmastery.com/how-to-fine-tune-a-local-mistral-or-llama-3-model-on-your-own-dataset/) (2025-12-19)
 
 </details>
 
