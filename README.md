@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Nvidia to license AI chip challenger Groq’s tech and hire its CEO](https://techcrunch.com/2025/12/24/nvidia-acquires-ai-chip-challenger-groq-for-20b-report-says/) (2025-12-24)
+- [The year data centers went from backend to center stage](https://techcrunch.com/2025/12/24/the-year-data-centers-went-from-backend-to-center-stage/) (2025-12-24)
 - [The European startup market’s data doesn’t match its energy — yet](https://techcrunch.com/2025/12/24/the-european-startup-markets-data-doesnt-match-its-energy-yet/) (2025-12-24)
 - [Waymo explains why its robotaxis got stuck during the SF blackout](https://techcrunch.com/2025/12/24/waymo-explains-why-its-robotaxis-got-stuck-during-the-sf-blackout/) (2025-12-24)
 - [Waymo is testing Gemini as an in-car AI assistant in its robotaxis](https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/) (2025-12-24)
-- [The 9 top biotech startups from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/24/the-9-top-biotech-startups-from-disrupt-startup-battlefield/) (2025-12-24)
-- [How Mill closed the deal with Amazon and Whole Foods](https://techcrunch.com/2025/12/24/how-mill-closed-the-deal-with-amazon-and-whole-foods/) (2025-12-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Mt. Gox CEO Karpelès Reveals Details of 2014 Collapse and Japanese Detention](https://bitcoinmagazine.com/business/former-mt-gox-ceo-mark-karpeles-reveals-details-of-2014-collapse-and-japanese-detention) (2025-12-24)
-- [My 2026 Open Social Web Predictions](https://www.timothychambers.net/2025/12/23/my-open-social-web-predictions.html) (2025-12-24)
-- [We Abandoned Matrix: The Dark Truth About User Security and Safety (2024)](https://forum.hackliberty.org/t/why-we-abandoned-matrix-the-dark-truth-about-user-security-and-safety/224) (2025-12-24)
-- [New reactor produces clean energy and carbon nanotubes from natural gas](https://phys.org/news/2025-12-reactor-energy-carbon-nanotubes-natural.html) (2025-12-24)
-- [AMD entered the CPU market with reverse-engineered Intel 8080 clone 50 years ago](https://www.tomshardware.com/pc-components/cpus/amd-first-entered-the-cpu-market-with-reverse-engineered-intel-8080-clone-50-years-ago-the-am9080-cost-50-cents-apiece-to-make-but-sold-for-usd700) (2025-12-24)
+- [Who Watches the Waymos? I do [video]](https://www.youtube.com/watch?v=oYU2hAbx_Fc) (2025-12-25)
+- [Microsoft please get your tab to autocomplete shit together](https://ivanca.github.io/programming/2025/11/26/microsoft-pls-get-your-tab-to-autocomplete-shit-together/) (2025-12-24)
+- [Asterisk AI Voice Agent](https://github.com/hkjarral/Asterisk-AI-Voice-Agent) (2025-12-24)
+- [Tell HN: Merry Christmas](https://news.ycombinator.com/item?id=46380168) (2025-12-24)
+- [Phoenix: A modern X server written from scratch in Zig](https://git.dec05eba.com/phoenix/about/) (2025-12-24)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Rahsi Defense Security Mesh™ | Copilot & Teams Enable Productivity | CMMC Compliance Demands Architecture, Policy and Governance](https://dev.to/aakash_rahsi_8d28156d5f2c/rahsi-defense-security-mesh-copilot-teams-enable-productivity-cmmc-compliance-demands-5hjg) (2025-12-24)
-- [Headless Raspberry Pi Homelab – Part 1: OS Configuration & Remote Access](https://dev.to/astromodem/headless-raspberry-pi-homelab-part-1-os-configuration-remote-access-4ibb) (2025-12-24)
-- [A Guide to HITL, HOTL, and HOOTL Workflows](https://dev.to/exson_joseph/a-guide-to-hitl-hotl-and-hootl-workflows-4p4n) (2025-12-24)
-- [hjvvvyjhv](https://dev.to/agency07/hjvvvyjhv-23d4) (2025-12-24)
-- [Swift On Server's](https://dev.to/amritesh240304/swift-on-servers-m46) (2025-12-24)
+- [I finally stopped writing try-catch in every Express controller (and you should too)](https://dev.to/nse569h/i-finally-stopped-writing-try-catch-in-every-express-controller-and-you-should-too-40p2) (2025-12-25)
+- [NOAA::Aurora for Space Weather Forecasts](https://dev.to/dkechag/noaaaurora-for-space-weather-forecasts-793) (2025-12-25)
+- [I Built a Risk-Driven Stock Portfolio Optimizer (And What I Learned)](https://dev.to/dany_trakhtenberg/i-built-a-risk-driven-stock-portfolio-optimizer-and-what-i-learned-49ai) (2025-12-25)
+- [I Stopped Automating ecisions with AI — and Designed a Better Collaboration Instead](https://dev.to/yuer/i-stopped-automating-ecisions-with-ai-and-designed-a-better-collaboration-instead-9b1) (2025-12-25)
+- [I Built a VS Code Extension to Visualize JSON as Tree Diagrams](https://dev.to/hugohbrt/i-built-a-vs-code-extension-to-visualize-json-as-tree-diagrams-5g7b) (2025-12-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [10 Python Decisions New Developers Regret Later](https://python.plainenglish.io/10-python-decisions-new-developers-regret-later-7609038080f3?source=rss------programming-5) (2025-12-24)
-- [The Mid-to-Senior Transition Is a Black Hole](https://medium.com/@foretoldfatima/the-mid-to-senior-transition-is-a-black-hole-5f7f79c7f43a?source=rss------programming-5) (2025-12-24)
-- [I Turned a Python Script Into a Game — Here’s What Broke](https://python.plainenglish.io/i-turned-a-python-script-into-a-game-heres-what-broke-22ed8a71224d?source=rss------programming-5) (2025-12-24)
-- [10 Performance Hacks Every Fullstack Developer Needs to Know](https://medium.com/@adesh.barve20/10-performance-hacks-every-fullstack-developer-needs-to-know-5bfa4887b9f0?source=rss------programming-5) (2025-12-24)
-- [How I Made My App Twice as Fast by Fixing the Backend](https://medium.com/@adesh.barve20/how-i-made-my-app-twice-as-fast-by-fixing-the-backend-dd996da0f0ec?source=rss------programming-5) (2025-12-24)
+- [I Built a Browser Extension to Solve My Biggest Productivity Problem](https://medium.com/@writetoasik/i-built-a-browser-extension-to-solve-my-biggest-productivity-problem-7597fe04cc51?source=rss------programming-5) (2025-12-25)
+- [10 Deep Python Features Most Senior Developers Still Don’t Use](https://python.plainenglish.io/10-deep-python-features-most-senior-developers-still-dont-use-3c9830919080?source=rss------programming-5) (2025-12-25)
+- [The Dangers Behind Exposed Google API Keys: A Test, Experience and Lessons Learned](https://medium.com/@albertstive1010/the-dangers-behind-exposed-google-api-keys-a-test-experience-and-lessons-learned-d425a6b9fcc6?source=rss------programming-5) (2025-12-25)
+- [An Artist’s Philosophy-Aphorisms and Artwork](https://medium.com/@easleyart/an-artists-philosophy-aphorisms-and-artwork-53a1379496bf?source=rss------programming-5) (2025-12-25)
+- [One Website, Dozens of Free Tools: How HarisLab.tech Simplifies Everyday Web Tasks](https://medium.com/@muhammad.haris662007/one-website-dozens-of-free-tools-how-harislab-tech-simplifies-everyday-web-tasks-6b0dc5f13638?source=rss------programming-5) (2025-12-24)
 
 </details>
 
@@ -572,11 +572,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Machine Learning “Advent Calendar” Day 24: Transformers for Text in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-24-transformers-for-text-in-excel/) (2025-12-24)
 - [Is Your Model Time-Blind? The Case for Cyclical Feature Encoding](https://towardsdatascience.com/is-your-model-time-blind-the-case-for-cyclical-feature-encoding/) (2025-12-24)
 - [4 Techniques to Optimize AI Coding Efficiency](https://towardsdatascience.com/4-techniques-to-optimize-ai-coding-efficiency/) (2025-12-24)
 - [Bonferroni vs. Benjamini-Hochberg: Choosing Your P-Value Correction](https://towardsdatascience.com/the-time-10-99-was-too-big-superheavy-elements-and-deceit/) (2025-12-24)
 - [The Machine Learning “Advent Calendar” Day 23: 1D CNN for Text in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-23-cnn-in-excel/) (2025-12-24)
-- [How Agents Plan Tasks with To-Do Lists](https://towardsdatascience.com/how-agents-plan-tasks-with-to-do-lists/) (2025-12-23)
 
 </details>
 
@@ -605,11 +605,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Training a Model with Limited Memory using Mixed Precision and Gradient Checkpointing](https://machinelearningmastery.com/training-a-model-with-limited-memory-using-mixed-precision-and-gradient-checkpointing/) (2025-12-24)
 - [Practical Agentic Coding with Google Jules](https://machinelearningmastery.com/practical-agentic-coding-with-google-jules/) (2025-12-24)
 - [Evaluating Perplexity on Language Models](https://machinelearningmastery.com/evaluating-perplexity-on-language-models/) (2025-12-23)
 - [3 Smart Ways to Encode Categorical Features for Machine Learning](https://machinelearningmastery.com/3-smart-ways-to-encode-categorical-features-for-machine-learning/) (2025-12-22)
 - [Pretraining a Llama Model on Your Local GPU](https://machinelearningmastery.com/pretraining-a-llama-model-on-your-local-gpu/) (2025-12-22)
-- [Rotary Position Embeddings for Long Context Length](https://machinelearningmastery.com/rotary-position-embeddings-for-long-context-length/) (2025-12-20)
 
 </details>
 
