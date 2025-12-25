@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [How a Spanish virus brought Google to Málaga](https://techcrunch.com/2025/12/25/how-a-spanish-virus-brought-google-to-malaga/) (2025-12-25)
+- [The best distraction blockers to jumpstart your focus in the new year](https://techcrunch.com/2025/12/25/the-best-distraction-blockers-to-jumpstart-your-focus-in-the-new-year/) (2025-12-25)
 - [Nvidia to license AI chip challenger Groq’s tech and hire its CEO](https://techcrunch.com/2025/12/24/nvidia-acquires-ai-chip-challenger-groq-for-20b-report-says/) (2025-12-24)
 - [The year data centers went from backend to center stage](https://techcrunch.com/2025/12/24/the-year-data-centers-went-from-backend-to-center-stage/) (2025-12-24)
 - [The European startup market’s data doesn’t match its energy — yet](https://techcrunch.com/2025/12/24/the-european-startup-markets-data-doesnt-match-its-energy-yet/) (2025-12-24)
-- [Waymo explains why its robotaxis got stuck during the SF blackout](https://techcrunch.com/2025/12/24/waymo-explains-why-its-robotaxis-got-stuck-during-the-sf-blackout/) (2025-12-24)
-- [Waymo is testing Gemini as an in-car AI assistant in its robotaxis](https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/) (2025-12-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Mattermost restricted access to old messages after 10000 limit is reached](https://github.com/mattermost/mattermost/issues/34271) (2025-12-25)
-- [We invited a man into our home at Christmas and he stayed with us for 45 years](https://www.bbc.co.uk/news/articles/cdxwllqz1l0o) (2025-12-25)
-- [Quantum Error Correction Goes FOOM](https://algassert.com/post/2503) (2025-12-25)
-- [Self-referencing Page Tables for the x86-Architecture](https://0l.de/blog/2015/01/bachelor-thesis-abstract/) (2025-12-25)
-- [Free Software Foundation receives historic private donations](https://www.fsf.org/news/free-software-foundation-receives-historic-private-donations) (2025-12-25)
+- [Clearspace (YC W23) Is Hiring a Founding Network Engineer (VPN and Proxy)](https://www.ycombinator.com/companies/clearspace/jobs/5LtM86I-founding-network-engineer-at-clearspace) (2025-12-25)
+- [Ask HN: What is the international distribution/statistics of HN visitors?](https://news.ycombinator.com/item?id=46385406) (2025-12-25)
+- [I Sell Onions on the Internet](https://www.deepsouthventures.com/i-sell-onions-on-the-internet/) (2025-12-25)
+- [Alzheimer's can be reversed to achieve full neurological recovery in animals](https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models) (2025-12-25)
+- [Asahi Linux with Sway on the MacBook Air M2](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/) (2025-12-25)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [I re-created Google&#8217;s cute Gemini ad with my own kid&#8217;s stuffie, and I wish I hadn&#8217;t](https://www.theverge.com/tech/849998/gemini-ai-stuffed-animal-commercial) (2025-12-25)
+- [Hollywood cozied up to AI in 2025 and had nothing good to show for it](https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025) (2025-12-25)
 - [Anker’s beefy Laptop Power Bank has returned to its Black Friday low](https://www.theverge.com/gadgets/849637/anker-laptop-power-bank-xbox-series-x-deal-sale) (2025-12-24)
 - [Sony’s souped-up PlayStation 5 Pro is $100 off for the rest of today](https://www.theverge.com/gadgets/684281/sony-playstation-5-ps5-pro-christmas-deal-sale-2025) (2025-12-24)
 - [The best shows and movies to stream on Netflix in 2025](https://www.theverge.com/entertainment/845388/netflix-best-shows-movies-2025) (2025-12-24)
-- [In 2025, AI became a lightning rod for gamers and developers](https://www.theverge.com/entertainment/848368/gen-ai-video-games-2025) (2025-12-24)
-- [The Pluribus finale showed there&#8217;s a lot more to the story](https://www.theverge.com/entertainment/848379/pluribus-review-season-1-finale) (2025-12-24)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Whether AI is a bubble or revolution, how does software survive?](https://stackoverflow.blog/2025/12/25/whether-ai-is-a-bubble-or-revolution-how-does-software-survive/) (2025-12-25)
 - [The Great Unracking: Saying goodbye to the servers at our physical datacenter](https://stackoverflow.blog/2025/12/24/the-great-unracking-saying-goodbye-to-the-servers-at-our-physical-datacenter/) (2025-12-24)
 - [How Xerox and Stack Overflow partnered to preserve knowledge and power innovation](https://stackoverflow.blog/2025/12/23/how-xerox-and-stack-overflow-partnered-to-preserve-knowledge-and-power-innovation/) (2025-12-23)
 - [The AI ick](https://stackoverflow.blog/2025/12/23/the-ai-ick/) (2025-12-23)
 - [Settle down, nerds. AI is a normal technology](https://stackoverflow.blog/2025/12/23/settle-down-nerds-ai-is-a-normal-technology/) (2025-12-23)
-- [Making your code base better will make your code coverage worse](https://stackoverflow.blog/2025/12/22/making-your-code-base-better-will-make-your-code-coverage-worse/) (2025-12-22)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Critical Security Vulnerability in React Server Components](https://dev.to/codedthemes/critical-security-vulnerability-in-react-server-components-1l9m) (2025-12-25)
-- [What I Didn’t Expect When Starting Over](https://dev.to/nahid_salehibavani_7270e/what-i-didnt-expect-when-starting-over-1f8f) (2025-12-25)
-- [TOON vs JSON en RAG (Java): el Grinch de los formatos cuando cada token cuenta 🎁](https://dev.to/nakiviar/toon-vs-json-en-rag-java-como-evaluarlo-correctamente-el-grinch-de-los-formatos-cuando-cada-5571) (2025-12-25)
-- [How do you handle optional query parameters in Spring Boot?](https://dev.to/realnamehidden1_61/how-do-you-handle-optional-query-parameters-in-spring-boot-204i) (2025-12-25)
-- [From One Script to a System: Lessons I Wish I Knew Before Scaling My First Crawler](https://dev.to/anna_6c67c00f5c3f53660978/from-one-script-to-a-system-lessons-i-wish-i-knew-before-scaling-my-first-crawler-559p) (2025-12-25)
+- [Maximize Profit Potential in AI with Monetzly's Ad Model](https://dev.to/monetzly/maximize-profit-potential-in-ai-with-monetzlys-ad-model-c1d) (2025-12-25)
+- [I Built a Maze Runner Simulation Where Teenage Sam Altman Survives the Glade December 25, 2025](https://dev.to/ilyarah/i-built-a-maze-runner-simulation-where-teenage-sam-altman-survives-the-glade-december-25-2025-1ikk) (2025-12-25)
+- [I've been working on a personal finance app called FinVantage, and I recently hit a roadblock](https://dev.to/zeta_byte/ive-been-working-on-a-personal-finance-app-called-finvantage-and-i-recently-hit-a-roadblock-4mjh) (2025-12-25)
+- [How I Became an AWS Community Builder (Security) – My Real Journey + Application Guide](https://dev.to/aws-builders/how-i-became-an-aws-community-builder-security-my-real-journey-application-guide-22kp) (2025-12-25)
+- [Rethinking Absence: A Gentle Introduction to the Option Type in TypeScript](https://dev.to/vlad_rasenko/rethinking-absence-a-gentle-introduction-to-the-option-type-in-typescript-4p1e) (2025-12-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [10 Python Libraries I Use When I Want to Look Smart at Work](https://levelup.gitconnected.com/10-python-libraries-i-use-when-i-want-to-look-smart-at-work-ad3beb9bb628?source=rss------programming-5) (2025-12-25)
-- [3 Tiny Python Scripts That Somehow Broke the Internet](https://python.plainenglish.io/3-tiny-python-scripts-that-somehow-broke-the-internet-4864baf2794f?source=rss------programming-5) (2025-12-25)
-- [关于如何查微信聊天记录，查开房记录 开盒 开户 查档](https://medium.com/@supperpada9966/%E5%85%B3%E4%BA%8E%E5%A6%82%E4%BD%95%E6%9F%A5%E5%BE%AE%E4%BF%A1%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95-%E6%9F%A5%E5%BC%80%E6%88%BF%E8%AE%B0%E5%BD%95-%E5%BC%80%E7%9B%92-%E5%BC%80%E6%88%B7-%E6%9F%A5%E6%A1%A3-448b1e299146?source=rss------programming-5) (2025-12-25)
-- [Today Is the Only Day I Don’t Feel Guilty About Not Coding](https://medium.com/@tsecretdeveloper/today-is-the-only-day-i-dont-feel-guilty-about-not-coding-f72944c0b256?source=rss------programming-5) (2025-12-25)
-- [“查档”“开盒”“查银行流水”到底是怎么被查的？](https://medium.com/@supperpada9966/%E6%9F%A5%E6%A1%A3-%E5%BC%80%E7%9B%92-%E6%9F%A5%E9%93%B6%E8%A1%8C%E6%B5%81%E6%B0%B4-%E5%88%B0%E5%BA%95%E6%98%AF%E6%80%8E%E4%B9%88%E8%A2%AB%E6%9F%A5%E7%9A%84-e3159866d22a?source=rss------programming-5) (2025-12-25)
+- [React Context API: When It’s Good and When It’s Bad](https://medium.com/@adesh.barve20/react-context-api-when-its-good-and-when-it-s-bad-bb1fc6db84c0?source=rss------programming-5) (2025-12-25)
+- [Why “Props Drilling” Happens and How You Can Fix It](https://medium.com/@adesh.barve20/why-props-drilling-happens-and-how-you-can-fix-it-255e8f7bf72e?source=rss------programming-5) (2025-12-25)
+- [The Hidden Link Between Sleep and Weight Gain](https://medium.com/@zainabkhokhar507/the-hidden-link-between-sleep-and-weight-gain-31059e4bef07?source=rss------programming-5) (2025-12-25)
+- [“Bug Bounty Bootcamp #5: DNS — The Hacker’s Goldmine for Finding Hidden Targets”](https://infosecwriteups.com/bug-bounty-bootcamp-5-dns-the-hackers-goldmine-for-finding-hidden-targets-731cd06de727?source=rss------programming-5) (2025-12-25)
+- [Dev Java — Do Estudo ao Trabalh](https://medium.com/@olivalpaulino/dev-java-do-estudo-ao-trabalh-ad117320d65f?source=rss------programming-5) (2025-12-25)
 
 </details>
 
@@ -141,11 +141,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Make Spirits Bright With Holiday Hits on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-holiday-2025/) (2025-12-25)
 - [Marine Biological Laboratory Explores Human Memory With AI and Virtual Reality](https://blogs.nvidia.com/blog/mbl-human-memory-ai-vr-rtx/) (2025-12-22)
 - [NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Landmark Genesis Mission](https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/) (2025-12-18)
 - [Now Generally Available, NVIDIA RTX PRO 5000 72GB Blackwell GPU Expands Memory Options for Desktop Agentic AI](https://blogs.nvidia.com/blog/rtx-pro-5000-72gb-blackwell-gpu/) (2025-12-18)
 - [Deck the Vaults: ‘Fallout: New Vegas’ Joins the Cloud This Holiday Season](https://blogs.nvidia.com/blog/geforce-now-thursday-fallout-new-vegas/) (2025-12-18)
-- [Into the Omniverse: OpenUSD and NVIDIA Halos Accelerate Safety for Robotaxis, Physical AI Systems](https://blogs.nvidia.com/blog/openusd-halos-safety-robotaxi-physical-ai/) (2025-12-17)
 
 </details>
 
@@ -506,11 +506,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>💬 Slack API</summary>
 
-- [AI Enterprise Search: Top Features and Tools in 2026](https://slack.com/blog/productivity/ai-enterprise-search-top-features-and-tools-in-2025) (2025-12-23)
 - [Slack Feature Drop: New Innovations That Make Work Feel Like a Gift](https://slack.com/blog/news/feature-drop-dec25) (2025-12-22)
 - [Securing the Agentic Enterprise](https://slack.com/blog/transformation/securing-the-agentic-enterprise) (2025-12-17)
 - [Why Your AI Is Advancing — and Your Enterprise Isn’t](https://slack.com/blog/transformation/five-friction-points-enterprise-ai) (2025-12-16)
 - [Enterprise Search: How to Find Anything at Work with One Query](https://slack.com/blog/productivity/enterprise-search) (2025-12-15)
+- [AI Knowledge Base: The Complete Guide for 2026](https://slack.com/blog/productivity/what-is-an-ai-knowledge-base-tools-features-and-best-practices) (2025-12-15)
 
 </details>
 
@@ -572,11 +572,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Keeping Probabilities Honest: The Jacobian Adjustment](https://towardsdatascience.com/keeping-probabilities-honest-the-jacobian-adjustment/) (2025-12-25)
+- [Why MAP and MRR Fail for Search Ranking (and What to Use Instead)](https://towardsdatascience.com/why-map-and-mrr-fail-for-search-ranking-and-what-to-use-instead/) (2025-12-25)
 - [The Machine Learning “Advent Calendar” Day 24: Transformers for Text in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-24-transformers-for-text-in-excel/) (2025-12-24)
 - [Is Your Model Time-Blind? The Case for Cyclical Feature Encoding](https://towardsdatascience.com/is-your-model-time-blind-the-case-for-cyclical-feature-encoding/) (2025-12-24)
 - [4 Techniques to Optimize AI Coding Efficiency](https://towardsdatascience.com/4-techniques-to-optimize-ai-coding-efficiency/) (2025-12-24)
-- [Bonferroni vs. Benjamini-Hochberg: Choosing Your P-Value Correction](https://towardsdatascience.com/the-time-10-99-was-too-big-superheavy-elements-and-deceit/) (2025-12-24)
-- [The Machine Learning “Advent Calendar” Day 23: 1D CNN for Text in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-23-cnn-in-excel/) (2025-12-24)
 
 </details>
 
@@ -605,11 +605,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Train a Model Faster with torch.compile and Gradient Accumulation](https://machinelearningmastery.com/train-a-model-faster-with-torch-compile-and-gradient-accumulation/) (2025-12-25)
 - [Training a Model with Limited Memory using Mixed Precision and Gradient Checkpointing](https://machinelearningmastery.com/training-a-model-with-limited-memory-using-mixed-precision-and-gradient-checkpointing/) (2025-12-24)
 - [Practical Agentic Coding with Google Jules](https://machinelearningmastery.com/practical-agentic-coding-with-google-jules/) (2025-12-24)
 - [Evaluating Perplexity on Language Models](https://machinelearningmastery.com/evaluating-perplexity-on-language-models/) (2025-12-23)
 - [3 Smart Ways to Encode Categorical Features for Machine Learning](https://machinelearningmastery.com/3-smart-ways-to-encode-categorical-features-for-machine-learning/) (2025-12-22)
-- [Pretraining a Llama Model on Your Local GPU](https://machinelearningmastery.com/pretraining-a-llama-model-on-your-local-gpu/) (2025-12-22)
 
 </details>
 
