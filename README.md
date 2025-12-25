@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Ruby 4.0.0 Released](https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/) (2025-12-25)
+- [The subtle Red of HN and so minimalist and beautiful](https://news.ycombinator.com/item?id=46381896) (2025-12-25)
+- [Python Applied Mathematics Labs](https://labs.acme.byu.edu/Pages/intro.html) (2025-12-25)
+- [The Next-Gen Mainboard Designed with AmigaOS4 and MorphOS in Mind](https://mirari.vitasys.nl/our-story/) (2025-12-25)
 - [Who Watches the Waymos? I do [video]](https://www.youtube.com/watch?v=oYU2hAbx_Fc) (2025-12-25)
-- [Microsoft please get your tab to autocomplete shit together](https://ivanca.github.io/programming/2025/11/26/microsoft-pls-get-your-tab-to-autocomplete-shit-together/) (2025-12-24)
-- [Asterisk AI Voice Agent](https://github.com/hkjarral/Asterisk-AI-Voice-Agent) (2025-12-24)
-- [Tell HN: Merry Christmas](https://news.ycombinator.com/item?id=46380168) (2025-12-24)
-- [Phoenix: A modern X server written from scratch in Zig](https://git.dec05eba.com/phoenix/about/) (2025-12-24)
 
 </details>
 
@@ -97,22 +97,24 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I finally stopped writing try-catch in every Express controller (and you should too)](https://dev.to/nse569h/i-finally-stopped-writing-try-catch-in-every-express-controller-and-you-should-too-40p2) (2025-12-25)
-- [NOAA::Aurora for Space Weather Forecasts](https://dev.to/dkechag/noaaaurora-for-space-weather-forecasts-793) (2025-12-25)
-- [I Built a Risk-Driven Stock Portfolio Optimizer (And What I Learned)](https://dev.to/dany_trakhtenberg/i-built-a-risk-driven-stock-portfolio-optimizer-and-what-i-learned-49ai) (2025-12-25)
-- [I Stopped Automating ecisions with AI — and Designed a Better Collaboration Instead](https://dev.to/yuer/i-stopped-automating-ecisions-with-ai-and-designed-a-better-collaboration-instead-9b1) (2025-12-25)
-- [I Built a VS Code Extension to Visualize JSON as Tree Diagrams](https://dev.to/hugohbrt/i-built-a-vs-code-extension-to-visualize-json-as-tree-diagrams-5g7b) (2025-12-25)
+- [Some people are becoming exceptional tool users. Others are becoming system builders.
+
+Over time, the second group will quietly replace the first, and that’s not a threat. It’s a natural evolution.](https://dev.to/jaideepparashar/some-people-are-becoming-exceptional-tool-users-others-are-becoming-system-builders-over-time-49cp) (2025-12-25)
+- [System Builders Will Replace Tool Users: And That’s a Good Thing](https://dev.to/jaideepparashar/system-builders-will-replace-tool-users-and-thats-a-good-thing-4dj6) (2025-12-25)
+- [Stop Sending Boring Texts! Try This Secret "Locked Message" Generator](https://dev.to/techno_kraft_in/stop-sending-boring-texts-try-this-secret-locked-message-generator-pjl) (2025-12-25)
+- [Leaflet Address Autocomplete with Geoapify (Companion to MapLibre Example)](https://dev.to/geoapify-maps-api/leaflet-address-autocomplete-with-geoapify-companion-to-maplibre-example-35p2) (2025-12-25)
+- [I’m building a deterministic policy firewall for AI systems — looking for technical feedback](https://dev.to/lola0786/im-building-a-deterministic-policy-firewall-for-ai-systems-looking-for-technical-feedback-2n71) (2025-12-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Built a Browser Extension to Solve My Biggest Productivity Problem](https://medium.com/@writetoasik/i-built-a-browser-extension-to-solve-my-biggest-productivity-problem-7597fe04cc51?source=rss------programming-5) (2025-12-25)
-- [10 Deep Python Features Most Senior Developers Still Don’t Use](https://python.plainenglish.io/10-deep-python-features-most-senior-developers-still-dont-use-3c9830919080?source=rss------programming-5) (2025-12-25)
-- [The Dangers Behind Exposed Google API Keys: A Test, Experience and Lessons Learned](https://medium.com/@albertstive1010/the-dangers-behind-exposed-google-api-keys-a-test-experience-and-lessons-learned-d425a6b9fcc6?source=rss------programming-5) (2025-12-25)
-- [An Artist’s Philosophy-Aphorisms and Artwork](https://medium.com/@easleyart/an-artists-philosophy-aphorisms-and-artwork-53a1379496bf?source=rss------programming-5) (2025-12-25)
-- [One Website, Dozens of Free Tools: How HarisLab.tech Simplifies Everyday Web Tasks](https://medium.com/@muhammad.haris662007/one-website-dozens-of-free-tools-how-harislab-tech-simplifies-everyday-web-tasks-6b0dc5f13638?source=rss------programming-5) (2025-12-24)
+- [Technical Debt: The Hidden Cost of Rushing Software Development](https://pixicstudio.medium.com/technical-debt-the-hidden-cost-of-rushing-software-development-9c9e3d6ac99d?source=rss------programming-5) (2025-12-25)
+- [The Day I Learned Multi-Tenancy Is Mostly An Authorization Problem](https://medium.com/@ArkProtocol1/the-day-i-learned-multi-tenancy-is-mostly-an-authorization-problem-fa98472ad40e?source=rss------programming-5) (2025-12-25)
+- [HTTP/3 made things faster — until our firewalls stopped understanding the internet.](https://medium.com/@premchandak_11/http-3-made-things-faster-until-our-firewalls-stopped-understanding-the-internet-8198f958e5b2?source=rss------programming-5) (2025-12-25)
+- [Multi-Tenant Caching Is Where Good Backends Go To Die](https://medium.com/@kp9810113/multi-tenant-caching-is-where-good-backends-go-to-die-6ecf4f07ec57?source=rss------programming-5) (2025-12-25)
+- [Allah is Self-Sufficient (Independent) and free from every flaw.](https://medium.com/@honeybintariq/allah-is-self-sufficient-independent-and-free-from-every-flaw-908a545abc97?source=rss------programming-5) (2025-12-25)
 
 </details>
 
@@ -130,11 +132,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
 - [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 - [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
 - [Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025](https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/) (2025-12-10)
+- [Microsoft’s commitment to supporting cloud infrastructure demand in the United States](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/) (2025-12-09)
 
 </details>
 
@@ -487,7 +489,7 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 - [新しいサンプルアプリ「Agent Script Recipes」でハイブリッド推論をマスター](https://developer.salesforce.com/blogs/2025/12/jp-master-hybrid-reasoning-with-the-new-agent-script-recipes-sample-app.html) (2025-12-24)
 - [Build Composable Storefronts Smarter and Faster with the PWA Kit MCP Server](https://developer.salesforce.com/blogs/2025/12/build-composable-storefronts-smarter-and-faster-with-the-pwa-kit-mcp-server.html) (2025-12-23)
 - [AgentforceデータライブラリーからAIエージェントのテストケースを自動生成](https://developer.salesforce.com/blogs/2025/12/jp-auto-generate-agent-test-cases-from-agentforce-data-libraries.html) (2025-12-23)
-- [【Agentforce Hackathon Tokyo】第 1 位 Lightning Brightning: Agentforce と Tableau で革新するデータ駆動型ソリューション「Beauty Cloud」](https://developer.salesforce.com/blogs/2025/12/%e3%80%90agentforce-hackathon-tokyo%e3%80%91%e7%ac%ac-1-%e4%bd%8d-lightning-brightning-agentforce-%e3%81%a8-tableau-%e3%81%a7%e9%9d%a9%e6%96%b0%e3%81%99%e3%82%8b%e3%83%87%e3%83%bc%e3%82%bf%e9%a7%86.html) (2025-12-22)
+- [【Agentforce Hackathon Tokyo】第 1 位 Lightning Brightning: Agentforce と Tableau で革新するデータ駆動型ソリューション「Beauty Cloud」](https://developer.salesforce.com/blogs/2025/12/agentforce_hackathon_tokyo_2025_1st.html) (2025-12-22)
 - [Agentforceで会話履歴を活用して、マルチターンのAIエージェントテストを自動化](https://developer.salesforce.com/blogs/2025/12/jp-automate-multi-turn-agent-testing-with-conversation-history-in-agentforce.html) (2025-12-18)
 
 </details>
@@ -506,11 +508,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>💬 Slack API</summary>
 
+- [AI Enterprise Search: Top Features and Tools in 2026](https://slack.com/blog/productivity/ai-enterprise-search-top-features-and-tools-in-2025) (2025-12-23)
 - [Slack Feature Drop: New Innovations That Make Work Feel Like a Gift](https://slack.com/blog/news/feature-drop-dec25) (2025-12-22)
 - [Securing the Agentic Enterprise](https://slack.com/blog/transformation/securing-the-agentic-enterprise) (2025-12-17)
 - [Why Your AI Is Advancing — and Your Enterprise Isn’t](https://slack.com/blog/transformation/five-friction-points-enterprise-ai) (2025-12-16)
 - [Enterprise Search: How to Find Anything at Work with One Query](https://slack.com/blog/productivity/enterprise-search) (2025-12-15)
-- [AI Knowledge Base: The Complete Guide for 2026](https://slack.com/blog/productivity/what-is-an-ai-knowledge-base-tools-features-and-best-practices) (2025-12-15)
 
 </details>
 
