@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Ruby 4.0.0 Released](https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/) (2025-12-25)
-- [The subtle Red of HN and so minimalist and beautiful](https://news.ycombinator.com/item?id=46381896) (2025-12-25)
-- [Python Applied Mathematics Labs](https://labs.acme.byu.edu/Pages/intro.html) (2025-12-25)
-- [The Next-Gen Mainboard Designed with AmigaOS4 and MorphOS in Mind](https://mirari.vitasys.nl/our-story/) (2025-12-25)
-- [Who Watches the Waymos? I do [video]](https://www.youtube.com/watch?v=oYU2hAbx_Fc) (2025-12-25)
+- [Mattermost restricted access to old messages after 10000 limit is reached](https://github.com/mattermost/mattermost/issues/34271) (2025-12-25)
+- [We invited a man into our home at Christmas and he stayed with us for 45 years](https://www.bbc.co.uk/news/articles/cdxwllqz1l0o) (2025-12-25)
+- [Quantum Error Correction Goes FOOM](https://algassert.com/post/2503) (2025-12-25)
+- [Self-referencing Page Tables for the x86-Architecture](https://0l.de/blog/2015/01/bachelor-thesis-abstract/) (2025-12-25)
+- [Free Software Foundation receives historic private donations](https://www.fsf.org/news/free-software-foundation-receives-historic-private-donations) (2025-12-25)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [AI Wrapped: The 14 AI terms you couldn’t avoid in 2025](https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/) (2025-12-25)
 - [Meet the man hunting the spies in your smartphone](https://www.technologyreview.com/2025/12/24/1129294/ronald-deibert-citizen-lab-digital-threats-spies-cybersecurity/) (2025-12-24)
 - [Four bright spots in climate news in 2025](https://www.technologyreview.com/2025/12/24/1130191/good-climate-news-2025/) (2025-12-24)
 - [Researchers are getting organoids pregnant with human embryos](https://www.technologyreview.com/2025/12/23/1130415/organoid-uterus-microfluidic-chip-embryo/) (2025-12-23)
 - [How social media encourages the worst of AI boosterism](https://www.technologyreview.com/2025/12/23/1130393/how-social-media-encourages-the-worst-of-ai-boosterism/) (2025-12-23)
-- [How I learned to stop worrying and love AI slop](https://www.technologyreview.com/2025/12/23/1130396/how-i-learned-to-stop-worrying-and-love-ai-slop/) (2025-12-23)
 
 </details>
 
@@ -97,24 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Some people are becoming exceptional tool users. Others are becoming system builders.
-
-Over time, the second group will quietly replace the first, and that’s not a threat. It’s a natural evolution.](https://dev.to/jaideepparashar/some-people-are-becoming-exceptional-tool-users-others-are-becoming-system-builders-over-time-49cp) (2025-12-25)
-- [System Builders Will Replace Tool Users: And That’s a Good Thing](https://dev.to/jaideepparashar/system-builders-will-replace-tool-users-and-thats-a-good-thing-4dj6) (2025-12-25)
-- [Stop Sending Boring Texts! Try This Secret "Locked Message" Generator](https://dev.to/techno_kraft_in/stop-sending-boring-texts-try-this-secret-locked-message-generator-pjl) (2025-12-25)
-- [Leaflet Address Autocomplete with Geoapify (Companion to MapLibre Example)](https://dev.to/geoapify-maps-api/leaflet-address-autocomplete-with-geoapify-companion-to-maplibre-example-35p2) (2025-12-25)
-- [I’m building a deterministic policy firewall for AI systems — looking for technical feedback](https://dev.to/lola0786/im-building-a-deterministic-policy-firewall-for-ai-systems-looking-for-technical-feedback-2n71) (2025-12-25)
+- [Critical Security Vulnerability in React Server Components](https://dev.to/codedthemes/critical-security-vulnerability-in-react-server-components-1l9m) (2025-12-25)
+- [What I Didn’t Expect When Starting Over](https://dev.to/nahid_salehibavani_7270e/what-i-didnt-expect-when-starting-over-1f8f) (2025-12-25)
+- [TOON vs JSON en RAG (Java): el Grinch de los formatos cuando cada token cuenta 🎁](https://dev.to/nakiviar/toon-vs-json-en-rag-java-como-evaluarlo-correctamente-el-grinch-de-los-formatos-cuando-cada-5571) (2025-12-25)
+- [How do you handle optional query parameters in Spring Boot?](https://dev.to/realnamehidden1_61/how-do-you-handle-optional-query-parameters-in-spring-boot-204i) (2025-12-25)
+- [From One Script to a System: Lessons I Wish I Knew Before Scaling My First Crawler](https://dev.to/anna_6c67c00f5c3f53660978/from-one-script-to-a-system-lessons-i-wish-i-knew-before-scaling-my-first-crawler-559p) (2025-12-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Technical Debt: The Hidden Cost of Rushing Software Development](https://pixicstudio.medium.com/technical-debt-the-hidden-cost-of-rushing-software-development-9c9e3d6ac99d?source=rss------programming-5) (2025-12-25)
-- [The Day I Learned Multi-Tenancy Is Mostly An Authorization Problem](https://medium.com/@ArkProtocol1/the-day-i-learned-multi-tenancy-is-mostly-an-authorization-problem-fa98472ad40e?source=rss------programming-5) (2025-12-25)
-- [HTTP/3 made things faster — until our firewalls stopped understanding the internet.](https://medium.com/@premchandak_11/http-3-made-things-faster-until-our-firewalls-stopped-understanding-the-internet-8198f958e5b2?source=rss------programming-5) (2025-12-25)
-- [Multi-Tenant Caching Is Where Good Backends Go To Die](https://medium.com/@kp9810113/multi-tenant-caching-is-where-good-backends-go-to-die-6ecf4f07ec57?source=rss------programming-5) (2025-12-25)
-- [Allah is Self-Sufficient (Independent) and free from every flaw.](https://medium.com/@honeybintariq/allah-is-self-sufficient-independent-and-free-from-every-flaw-908a545abc97?source=rss------programming-5) (2025-12-25)
+- [10 Python Libraries I Use When I Want to Look Smart at Work](https://levelup.gitconnected.com/10-python-libraries-i-use-when-i-want-to-look-smart-at-work-ad3beb9bb628?source=rss------programming-5) (2025-12-25)
+- [3 Tiny Python Scripts That Somehow Broke the Internet](https://python.plainenglish.io/3-tiny-python-scripts-that-somehow-broke-the-internet-4864baf2794f?source=rss------programming-5) (2025-12-25)
+- [关于如何查微信聊天记录，查开房记录 开盒 开户 查档](https://medium.com/@supperpada9966/%E5%85%B3%E4%BA%8E%E5%A6%82%E4%BD%95%E6%9F%A5%E5%BE%AE%E4%BF%A1%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95-%E6%9F%A5%E5%BC%80%E6%88%BF%E8%AE%B0%E5%BD%95-%E5%BC%80%E7%9B%92-%E5%BC%80%E6%88%B7-%E6%9F%A5%E6%A1%A3-448b1e299146?source=rss------programming-5) (2025-12-25)
+- [Today Is the Only Day I Don’t Feel Guilty About Not Coding](https://medium.com/@tsecretdeveloper/today-is-the-only-day-i-dont-feel-guilty-about-not-coding-f72944c0b256?source=rss------programming-5) (2025-12-25)
+- [“查档”“开盒”“查银行流水”到底是怎么被查的？](https://medium.com/@supperpada9966/%E6%9F%A5%E6%A1%A3-%E5%BC%80%E7%9B%92-%E6%9F%A5%E9%93%B6%E8%A1%8C%E6%B5%81%E6%B0%B4-%E5%88%B0%E5%BA%95%E6%98%AF%E6%80%8E%E4%B9%88%E8%A2%AB%E6%9F%A5%E7%9A%84-e3159866d22a?source=rss------programming-5) (2025-12-25)
 
 </details>
 
@@ -132,11 +130,11 @@ Over time, the second group will quietly replace the first, and that’s not a t
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
 - [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 - [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
 - [Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025](https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/) (2025-12-10)
-- [Microsoft’s commitment to supporting cloud infrastructure demand in the United States](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/) (2025-12-09)
 
 </details>
 
@@ -308,11 +306,11 @@ Over time, the second group will quietly replace the first, and that’s not a t
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Ruby Turns 30: A Celebration of Code, Community, and Creativity](https://blog.jetbrains.com/ruby/2025/12/ruby-turns-30-a-celebration-of-code-community-and-creativity/) (2025-12-25)
 - [Everything You Wanted to Ask About Rust – Answered by Herbert Wolverson](https://blog.jetbrains.com/rust/2025/12/23/everything-you-wanted-to-ask-about-rust-answered-by-herbert-wolverson/) (2025-12-23)
 - [Thread Dumps and Project Loom (Virtual Threads)](https://blog.jetbrains.com/idea/2025/12/thread-dumps-and-project-loom-virtual-threads/) (2025-12-23)
 - [Advent of Code in Rust: Winners and Highlights](https://blog.jetbrains.com/rust/2025/12/22/advent-of-code-in-rust-winners-and-highlights/) (2025-12-22)
 - [How Mobile Development Teams Use Kotlin in 2025: Insights From a Certified Trainer](https://blog.jetbrains.com/kotlin/2025/12/how-mobile-development-teams-use-kotlin-in-2025/) (2025-12-19)
-- [Top 3 Qodana 2025.3 Release Highlights ](https://blog.jetbrains.com/qodana/2025/12/top-3-qodana-2025-3-release-highlights/) (2025-12-19)
 
 </details>
 
@@ -585,11 +583,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Is Mistral OCR 3 the Best OCR Model?](https://www.analyticsvidhya.com/blog/2025/12/mistral-ocr-3/) (2025-12-25)
 - [Build Your Own Open-Source Logo Detector: A Practical Guide to ACR, Embeddings & Vector Search](https://www.analyticsvidhya.com/blog/2025/12/build-your-own-open-source-logo-detector/) (2025-12-24)
 - [Top 7 Free AI Courses with Certificates](https://www.analyticsvidhya.com/blog/2025/12/free-ai-courses-with-certificates/) (2025-12-24)
 - [Google Code Wiki: Live Docs, Diagrams & Chat for Any GitHub Repo](https://www.analyticsvidhya.com/blog/2025/12/google-code-wiki/) (2025-12-23)
 - [How to Use Microsoft Power Automate? [In Under 10 Minutes]](https://www.analyticsvidhya.com/blog/2025/12/microsoft-power-automate-guide-for-beginners/) (2025-12-23)
-- [Top 7 Free Python Courses with Certificate](https://www.analyticsvidhya.com/blog/2025/12/free-python-courses-with-certificate/) (2025-12-22)
 
 </details>
 
