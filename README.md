@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [How a Spanish virus brought Google to Málaga](https://techcrunch.com/2025/12/25/how-a-spanish-virus-brought-google-to-malaga/) (2025-12-25)
-- [The best distraction blockers to jumpstart your focus in the new year](https://techcrunch.com/2025/12/25/the-best-distraction-blockers-to-jumpstart-your-focus-in-the-new-year/) (2025-12-25)
-- [Nvidia to license AI chip challenger Groq’s tech and hire its CEO](https://techcrunch.com/2025/12/24/nvidia-acquires-ai-chip-challenger-groq-for-20b-report-says/) (2025-12-24)
-- [The year data centers went from backend to center stage](https://techcrunch.com/2025/12/24/the-year-data-centers-went-from-backend-to-center-stage/) (2025-12-24)
-- [The European startup market’s data doesn’t match its energy — yet](https://techcrunch.com/2025/12/24/the-european-startup-markets-data-doesnt-match-its-energy-yet/) (2025-12-24)
+- [What’s ahead for startups and VCs in 2026? Investors weigh in](https://techcrunch.com/2025/12/26/whats-ahead-for-startups-and-vcs-in-2026-investors-weigh-in/) (2025-12-26)
+- [Naware’s chemical-free weed killer tech could change how we treat lawns](https://techcrunch.com/2025/12/26/nawares-chemical-free-weed-killer-tech-could-change-how-we-treat-lawns/) (2025-12-26)
+- [Treat yourself: The best smart glasses to buy with your holiday gift money](https://techcrunch.com/2025/12/26/treat-yourself-the-best-smart-glasses-to-buy-with-your-holiday-gift-money/) (2025-12-26)
+- [The 9 top cybersecurity startups from Disrupt Startup Battlefield ](https://techcrunch.com/2025/12/26/the-9-top-cybersecurity-startups-from-disrupt-startup-battlefield/) (2025-12-26)
+- [These are the cybersecurity stories we were jealous of in 2025](https://techcrunch.com/2025/12/26/these-are-the-cybersecurity-stories-we-were-jealous-of-in-2025/) (2025-12-26)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Questions engineers should ask future employers in interviews](https://dollardhingra.substack.com/p/questions-software-engineers-should) (2025-12-26)
-- [Geometric Algorithms for Translucency Sorting in Minecraft [pdf]](https://douira.dev/assets/document/douira-master-thesis.pdf) (2025-12-26)
-- [Building an AI agent inside a 7-year-old Rails monolith](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/) (2025-12-26)
-- [TurboDiffusion: 100–200× Acceleration for Video Diffusion Models](https://github.com/thu-ml/TurboDiffusion) (2025-12-26)
-- [Ultimate-Linux: Userspace for Linux in Pure JavaScript](https://github.com/popovicu/ultimate-linux) (2025-12-26)
+- [ICE's interest in high-tech gear raises new questions: 'What is it for?'](https://www.politico.com/news/2025/12/26/ice-high-tech-surveillance-lower-privacy-guardrails-00705401) (2025-12-26)
+- [C/C++ Embedded Files (2013)](https://www.4rknova.com//blog/2013/01/27/cpp-embedded-files) (2025-12-26)
+- [ZJIT is now available in Ruby 4.0](https://railsatscale.com/2025-12-24-launch-zjit/) (2025-12-26)
+- [Show HN: AutoLISP interpreter in Rust/WASM – a CAD workflow invented 33 yrs ago](https://acadlisp.de/noscript.html) (2025-12-26)
+- [Show HN: Private blogging and journaling with a simulated audience](https://tempblog-psi.vercel.app/) (2025-12-26)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [I re-created Google&#8217;s cute Gemini ad with my own kid&#8217;s stuffie, and I wish I hadn&#8217;t](https://www.theverge.com/tech/849998/gemini-ai-stuffed-animal-commercial) (2025-12-25)
-- [Hollywood cozied up to AI in 2025 and had nothing good to show for it](https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025) (2025-12-25)
-- [Anker’s beefy Laptop Power Bank has returned to its Black Friday low](https://www.theverge.com/gadgets/849637/anker-laptop-power-bank-xbox-series-x-deal-sale) (2025-12-24)
-- [Sony’s souped-up PlayStation 5 Pro is $100 off for the rest of today](https://www.theverge.com/gadgets/684281/sony-playstation-5-ps5-pro-christmas-deal-sale-2025) (2025-12-24)
-- [The best shows and movies to stream on Netflix in 2025](https://www.theverge.com/entertainment/845388/netflix-best-shows-movies-2025) (2025-12-24)
+- [Framework announces another memory price hike — and it likely won’t be its last](https://www.theverge.com/news/850376/framework-ram-memory-ddr5-price-hikes) (2025-12-26)
+- [Cyberpunk 2077: Ultimate Edition and other Switch games are up to 50 percent off](https://www.theverge.com/gadgets/850279/cyberpunk-2077-ultimate-edition-and-other-nintendo-games-are-up-to-50-percent-off) (2025-12-26)
+- [Google is letting some people change their @gmail address](https://www.theverge.com/news/850237/google-change-your-gmail-address) (2025-12-26)
+- [The 10 best shows to stream on Amazon Prime Video from 2025](https://www.theverge.com/entertainment/846767/amazon-prime-video-best-shows-2025) (2025-12-26)
+- [LG teases a new chore-completing home robot](https://www.theverge.com/news/850242/lg-cloid-home-robot-chores-ces-2026) (2025-12-26)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Embark on a visual voyage of art inspired by black holes](https://arstechnica.com/science/2025/12/embark-on-a-visual-voyage-of-art-inspired-by-black-holes/) (2025-12-26)
+- [In the ’90s, Wing Commander: Privateer made me realize what kind of games I love](https://arstechnica.com/gaming/2025/12/in-the-90s-wing-commander-privateer-made-me-realize-what-kind-of-games-i-love/) (2025-12-26)
+- [Ars Technica’s Top 20 video games of 2025](https://arstechnica.com/gaming/2025/12/ars-technicas-top-20-video-games-of-2025/) (2025-12-26)
 - [Being Santa Claus is a year-round calling](https://arstechnica.com/science/2025/12/being-santa-claus-is-a-year-round-calling/) (2025-12-24)
 - [SPEED Act passes in House despite changes that threaten clean power projects](https://arstechnica.com/tech-policy/2025/12/speed-act-passes-in-house-despite-changes-that-threaten-clean-power-projects/) (2025-12-24)
-- [TV Technica: Our favorite shows of 2025](https://arstechnica.com/culture/2025/12/tv-technica-our-favorite-shows-of-2025/) (2025-12-24)
-- [How AI coding agents work—and what to remember if you use them](https://arstechnica.com/information-technology/2025/12/how-do-ai-coding-agents-work-we-look-under-the-hood/) (2025-12-24)
-- [China just carried out its second reusable launch attempt in three weeks](https://arstechnica.com/space/2025/12/china-just-carried-out-its-second-reusable-launch-attempt-in-three-weeks/) (2025-12-23)
 
 </details>
 
@@ -75,44 +75,44 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [WRAP up your backlog with GitHub Copilot coding agent](https://github.blog/ai-and-ml/github-copilot/wrap-up-your-backlog-with-github-copilot-coding-agent/) (2025-12-26)
 - [Strengthening supply chain security: Preparing for the next malware campaign](https://github.blog/security/supply-chain-security/strengthening-supply-chain-security-preparing-for-the-next-malware-campaign/) (2025-12-23)
 - [5 podcast episodes to help you build with confidence in 2026](https://github.blog/open-source/maintainers/5-podcast-episodes-to-help-you-build-with-confidence-in-2026/) (2025-12-23)
 - [This year’s most influential open source projects](https://github.blog/open-source/maintainers/this-years-most-influential-open-source-projects/) (2025-12-22)
 - [The future of AI-powered software optimization (and how it can help your team)](https://github.blog/news-insights/policy-news-and-insights/the-future-of-ai-powered-software-optimization-and-how-it-can-help-your-team/) (2025-12-12)
-- [Let’s talk about GitHub Actions](https://github.blog/news-insights/product-news/lets-talk-about-github-actions/) (2025-12-11)
 
 </details>
 
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [AI vs Gen Z: How AI has changed the career pathway for junior developers](https://stackoverflow.blog/2025/12/26/ai-vs-gen-z/) (2025-12-26)
 - [Containers are easy—moving your legacy system off your VM is not](https://stackoverflow.blog/2025/12/26/containers-are-easy-moving-your-legacy-system-off-your-vm-is-not/) (2025-12-26)
 - [Whether AI is a bubble or revolution, how does software survive?](https://stackoverflow.blog/2025/12/25/whether-ai-is-a-bubble-or-revolution-how-does-software-survive/) (2025-12-25)
 - [The Great Unracking: Saying goodbye to the servers at our physical datacenter](https://stackoverflow.blog/2025/12/24/the-great-unracking-saying-goodbye-to-the-servers-at-our-physical-datacenter/) (2025-12-24)
 - [How Xerox and Stack Overflow partnered to preserve knowledge and power innovation](https://stackoverflow.blog/2025/12/23/how-xerox-and-stack-overflow-partnered-to-preserve-knowledge-and-power-innovation/) (2025-12-23)
-- [The AI ick](https://stackoverflow.blog/2025/12/23/the-ai-ick/) (2025-12-23)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Ethereum-Solidity Quiz Q5: What is the Private Mempool?](https://dev.to/mihaihng/ethereum-solidity-quiz-q5-what-is-the-private-mempool-3g4e) (2025-12-26)
-- [HOW TO CREATE AN ELASTIC BEANSTALK ON AWS](https://dev.to/ajayid10/how-to-create-an-elastic-beanstalk-on-aws-1ad1) (2025-12-26)
-- [Scaling the Data Layer in Distributed Systems](https://dev.to/gauravsingh9356/scaling-the-data-layer-in-distributed-systems-49k3) (2025-12-26)
-- [12 Must-Have WordPress Plugins for Developers in 2026 🚀](https://dev.to/thebitforge/12-must-have-wordpress-plugins-for-developers-in-2026-3kof) (2025-12-26)
-- [Auto-Approve WebFetch and WebSearch in Claude Code with Hooks](https://dev.to/alexisfranorge/auto-approve-webfetch-and-websearch-in-claude-code-with-hooks-4kpg) (2025-12-26)
+- [How to Build a UiPath Bot to Acquire Data from Credential-Based Source Systems](https://dev.to/enna/how-to-build-a-uipath-bot-to-acquire-data-from-credential-based-source-systems-13km) (2025-12-26)
+- [I think most teams are lying to themselves about usernames](https://dev.to/choraria/i-think-most-teams-are-lying-to-themselves-about-usernames-1nd7) (2025-12-26)
+- [final webhook integration test - Mastering Your Final Webhook...](https://dev.to/ash_dubai/final-webhook-integration-test-mastering-your-final-webhook-2epa) (2025-12-26)
+- [Automating Hazard Detection: An AI-Powered Robotics Case Study](https://dev.to/hkj13/automating-hazard-detection-an-ai-powered-robotics-case-study-1hj9) (2025-12-26)
+- [webhook delivery test final - Making sure Reliable Webhook Delivery:...](https://dev.to/ash_dubai/webhook-delivery-test-final-making-sure-reliable-webhook-delivery-19ml) (2025-12-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [5 Surprising Ways PyAutoGUI Made My Daily Tasks Faster (And Easier)](https://python.plainenglish.io/5-surprising-ways-pyautogui-made-my-daily-tasks-faster-and-easier-9d826c98424c?source=rss------programming-5) (2025-12-26)
-- [7 Python Scripts That Proved You Don’t Need a Big Idea to Go Viral](https://python.plainenglish.io/7-python-scripts-that-proved-you-dont-need-a-big-idea-to-go-viral-49bd30ef7754?source=rss------programming-5) (2025-12-26)
-- [I Automate Everything With Python. My Boss Thinks I’m Productive](https://levelup.gitconnected.com/i-automate-everything-with-python-my-boss-thinks-im-productive-3c1a7bf69ac1?source=rss------programming-5) (2025-12-26)
-- [2 Python Scripts That Blew Up Way More Than I Expected](https://levelup.gitconnected.com/2-python-scripts-that-blew-up-way-more-than-i-expected-b44cbabbca4e?source=rss------programming-5) (2025-12-26)
-- [From Prompt Injection to Tool Hijacking: A Defense-in-Depth Blueprint for AI Agents on Azure.](https://itnext.io/from-prompt-injection-to-tool-hijacking-a-defense-in-depth-blueprint-for-ai-agents-on-azure-9d538f2e7296?source=rss------programming-5) (2025-12-26)
+- [A Under the Hood: Building a Game-Dev Asset Versioning System in C++](https://medium.com/@rustgodgaming/a-under-the-hood-building-a-game-dev-asset-versioning-system-in-c-8e79bfb75d30?source=rss------programming-5) (2025-12-26)
+- [Python’da Verileri Organize Etme Sanatı (Lists, Tuples, Sets, Dicts)](https://medium.com/@dervisiris0/pythonda-verileri-organize-etme-sanat%C4%B1-lists-tuples-sets-dicts-1699114d20e0?source=rss------programming-5) (2025-12-26)
+- [JavaScript vs TypeScript API call](https://komaldin.medium.com/javascript-vs-typescript-api-call-eceed27b3b74?source=rss------programming-5) (2025-12-26)
+- [Sweet 15: Growing Up With Code, One Chapter at a Time](https://roymj.medium.com/sweet-15-growing-up-with-code-one-chapter-at-a-time-15873ed5dee3?source=rss------programming-5) (2025-12-26)
+- [8 JavaScript Practices That Improve Frontend Stability](https://javascript.plainenglish.io/8-javascript-practices-that-improve-frontend-stability-4850fac135cf?source=rss------programming-5) (2025-12-26)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
-- [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 - [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
 - [Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025](https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/) (2025-12-10)
+- [Microsoft’s commitment to supporting cloud infrastructure demand in the United States](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/) (2025-12-09)
+- [New options for AI-powered innovation, resiliency, and control with Microsoft Azure](https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/) (2025-12-03)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [TeamCity Pipelines Is Now Part of TeamCity Enterprise](https://blog.jetbrains.com/teamcity/2025/12/pipelines-sunset/) (2025-12-26)
 - [Ruby Turns 30: A Celebration of Code, Community, and Creativity](https://blog.jetbrains.com/ruby/2025/12/ruby-turns-30-a-celebration-of-code-community-and-creativity/) (2025-12-25)
 - [Everything You Wanted to Ask About Rust – Answered by Herbert Wolverson](https://blog.jetbrains.com/rust/2025/12/23/everything-you-wanted-to-ask-about-rust-answered-by-herbert-wolverson/) (2025-12-23)
 - [Thread Dumps and Project Loom (Virtual Threads)](https://blog.jetbrains.com/idea/2025/12/thread-dumps-and-project-loom-virtual-threads/) (2025-12-23)
 - [Advent of Code in Rust: Winners and Highlights](https://blog.jetbrains.com/rust/2025/12/22/advent-of-code-in-rust-winners-and-highlights/) (2025-12-22)
-- [How Mobile Development Teams Use Kotlin in 2025: Insights From a Certified Trainer](https://blog.jetbrains.com/kotlin/2025/12/how-mobile-development-teams-use-kotlin-in-2025/) (2025-12-19)
 
 </details>
 
@@ -572,11 +572,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Think Your Python Code Is Slow? Stop Guessing and Start Measuring](https://towardsdatascience.com/think-your-python-code-is-slow-stop-guessing-and-start-measuring/) (2025-12-26)
+- [How to Build an AI-Powered Weather ETL Pipeline with Databricks and GPT-4o: From API To Dashboard](https://towardsdatascience.com/how-to-build-an-ai-powered-weather-etl-pipeline-with-databricks-and-gpt-4o-from-api-to-dashboard/) (2025-12-26)
 - [Keeping Probabilities Honest: The Jacobian Adjustment](https://towardsdatascience.com/keeping-probabilities-honest-the-jacobian-adjustment/) (2025-12-25)
 - [Why MAP and MRR Fail for Search Ranking (and What to Use Instead)](https://towardsdatascience.com/why-map-and-mrr-fail-for-search-ranking-and-what-to-use-instead/) (2025-12-25)
 - [The Machine Learning “Advent Calendar” Day 24: Transformers for Text in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-24-transformers-for-text-in-excel/) (2025-12-24)
-- [Is Your Model Time-Blind? The Case for Cyclical Feature Encoding](https://towardsdatascience.com/is-your-model-time-blind-the-case-for-cyclical-feature-encoding/) (2025-12-24)
-- [4 Techniques to Optimize AI Coding Efficiency](https://towardsdatascience.com/4-techniques-to-optimize-ai-coding-efficiency/) (2025-12-24)
 
 </details>
 
@@ -594,11 +594,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Fun Docker Projects for Absolute Beginners](https://www.kdnuggets.com/5-fun-docker-projects-for-absolute-beginners) (2025-12-26)
 - [Top 7 Open Source OCR Models](https://www.kdnuggets.com/top-7-open-source-ocr-models) (2025-12-24)
 - [Probability Concepts You’ll Actually Use in Data Science](https://www.kdnuggets.com/probability-concepts-youll-actually-use-in-data-science) (2025-12-23)
 - [5 Emerging Trends in Data Engineering for 2026](https://www.kdnuggets.com/5-emerging-trends-in-data-engineering-for-2026) (2025-12-23)
 - [Gistr: The Smart AI Notebook for Organizing Knowledge](https://www.kdnuggets.com/gistr-the-smart-ai-notebook-for-organizing-knowledge) (2025-12-22)
-- [7 Tiny AI Models for Raspberry Pi](https://www.kdnuggets.com/7-tiny-ai-models-for-raspberry-pi) (2025-12-22)
 
 </details>
 
