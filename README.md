@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Clearspace (YC W23) Is Hiring a Founding Network Engineer (VPN and Proxy)](https://www.ycombinator.com/companies/clearspace/jobs/5LtM86I-founding-network-engineer-at-clearspace) (2025-12-25)
-- [Ask HN: What is the international distribution/statistics of HN visitors?](https://news.ycombinator.com/item?id=46385406) (2025-12-25)
-- [I Sell Onions on the Internet](https://www.deepsouthventures.com/i-sell-onions-on-the-internet/) (2025-12-25)
-- [Alzheimer's can be reversed to achieve full neurological recovery in animals](https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models) (2025-12-25)
-- [Asahi Linux with Sway on the MacBook Air M2](https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/) (2025-12-25)
+- [Ask HN: What tech purchase did you regret even though reviews were great?](https://news.ycombinator.com/item?id=46387893) (2025-12-26)
+- [No shares in company, but 550 employees received a $240M gift from their owner](https://economictimes.indiatimes.com/magazines/panache/no-shares-in-company-but-550-employees-received-a-240-million-gift-from-their-owner-for-staying-with-him-through-tough-times/articleshow/126175955.cms?from=mdr) (2025-12-25)
+- [Maybe the default settings are too high](https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/) (2025-12-25)
+- [Google is 'gradually rolling out' option to change your gmail.com address](https://9to5google.com/2025/12/24/google-change-gmail-addresses/) (2025-12-25)
+- [Memory Safety](https://www.memorysafety.org/) (2025-12-25)
 
 </details>
 
@@ -97,22 +97,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Maximize Profit Potential in AI with Monetzly's Ad Model](https://dev.to/monetzly/maximize-profit-potential-in-ai-with-monetzlys-ad-model-c1d) (2025-12-25)
-- [I Built a Maze Runner Simulation Where Teenage Sam Altman Survives the Glade December 25, 2025](https://dev.to/ilyarah/i-built-a-maze-runner-simulation-where-teenage-sam-altman-survives-the-glade-december-25-2025-1ikk) (2025-12-25)
-- [I've been working on a personal finance app called FinVantage, and I recently hit a roadblock](https://dev.to/zeta_byte/ive-been-working-on-a-personal-finance-app-called-finvantage-and-i-recently-hit-a-roadblock-4mjh) (2025-12-25)
-- [How I Became an AWS Community Builder (Security) – My Real Journey + Application Guide](https://dev.to/aws-builders/how-i-became-an-aws-community-builder-security-my-real-journey-application-guide-22kp) (2025-12-25)
-- [Rethinking Absence: A Gentle Introduction to the Option Type in TypeScript](https://dev.to/vlad_rasenko/rethinking-absence-a-gentle-introduction-to-the-option-type-in-typescript-4p1e) (2025-12-25)
+- [Anime Fighting Simulator: Endless - Ultimate Beginner's Guide 2025](https://dev.to/afse_hub/anime-fighting-simulator-endless-ultimate-beginners-guide-2025-d26) (2025-12-26)
+- [2025 MySQL Production Environment Security Hardening Guide](https://dev.to/nc_pfinal_85794826ba96de6/2025-mysql-production-environment-security-hardening-guide-7bj) (2025-12-26)
+- [Mastering HTTP/2 in Go: A Practical Guide for Building Faster Web Servers](https://dev.to/jones_charles_ad50858dbc0/mastering-http2-in-go-a-practical-guide-for-building-faster-web-servers-4hbo) (2025-12-26)
+- [Pinning GitHub Actions for Reproducibility and Security](https://dev.to/cloudnative_eng/pinning-github-actions-for-reproducibility-and-security-2ihh) (2025-12-26)
+- [Retain API in Jetpack Compose](https://dev.to/saidurtech/retain-api-in-jetpack-compose-1923) (2025-12-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [React Context API: When It’s Good and When It’s Bad](https://medium.com/@adesh.barve20/react-context-api-when-its-good-and-when-it-s-bad-bb1fc6db84c0?source=rss------programming-5) (2025-12-25)
-- [Why “Props Drilling” Happens and How You Can Fix It](https://medium.com/@adesh.barve20/why-props-drilling-happens-and-how-you-can-fix-it-255e8f7bf72e?source=rss------programming-5) (2025-12-25)
-- [The Hidden Link Between Sleep and Weight Gain](https://medium.com/@zainabkhokhar507/the-hidden-link-between-sleep-and-weight-gain-31059e4bef07?source=rss------programming-5) (2025-12-25)
-- [“Bug Bounty Bootcamp #5: DNS — The Hacker’s Goldmine for Finding Hidden Targets”](https://infosecwriteups.com/bug-bounty-bootcamp-5-dns-the-hackers-goldmine-for-finding-hidden-targets-731cd06de727?source=rss------programming-5) (2025-12-25)
-- [Dev Java — Do Estudo ao Trabalh](https://medium.com/@olivalpaulino/dev-java-do-estudo-ao-trabalh-ad117320d65f?source=rss------programming-5) (2025-12-25)
+- [Continuous Integration (CI) Best Practices: A Practical Guide for Modern Software Development](https://medium.com/@dennis_39505/continuous-integration-ci-best-practices-a-practical-guide-for-modern-software-development-90a954030702?source=rss------programming-5) (2025-12-26)
+- [9 Java Trends to Watch in 2026](https://medium.com/@sunil17bbmp/9-java-trends-to-watch-in-2026-f8a2da13d0cd?source=rss------programming-5) (2025-12-26)
+- [Zero Trust Networking: Replacing API Keys with Mutual TLS (mTLS)](https://medium.com/@chopra.kanta.73/zero-trust-networking-replacing-api-keys-with-mutual-tls-mtls-b073d79f3b60?source=rss------programming-5) (2025-12-26)
+- [From Capability to Control: A Safety Case Compact Policymakers Can Launch Now](https://medium.com/@customers_94896/from-capability-to-control-a-safety-case-compact-policymakers-can-launch-now-d8d9494c123c?source=rss------programming-5) (2025-12-26)
+- [09389010538شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@fjldilukeyjsshjshn/09389010538%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-467132aa7ffc?source=rss------programming-5) (2025-12-26)
 
 </details>
 
@@ -506,11 +507,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>💬 Slack API</summary>
 
+- [AI Enterprise Search: Top Features and Tools in 2026](https://slack.com/blog/productivity/ai-enterprise-search-top-features-and-tools-in-2025) (2025-12-23)
 - [Slack Feature Drop: New Innovations That Make Work Feel Like a Gift](https://slack.com/blog/news/feature-drop-dec25) (2025-12-22)
 - [Securing the Agentic Enterprise](https://slack.com/blog/transformation/securing-the-agentic-enterprise) (2025-12-17)
 - [Why Your AI Is Advancing — and Your Enterprise Isn’t](https://slack.com/blog/transformation/five-friction-points-enterprise-ai) (2025-12-16)
 - [Enterprise Search: How to Find Anything at Work with One Query](https://slack.com/blog/productivity/enterprise-search) (2025-12-15)
-- [AI Knowledge Base: The Complete Guide for 2026](https://slack.com/blog/productivity/what-is-an-ai-knowledge-base-tools-features-and-best-practices) (2025-12-15)
 
 </details>
 
