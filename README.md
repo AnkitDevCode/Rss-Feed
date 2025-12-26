@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Rob Pike Goes Nuclear over GenAI](https://imgur.com/nUJCI3o) (2025-12-26)
+- [Questions engineers should ask future employers in interviews](https://dollardhingra.substack.com/p/questions-software-engineers-should) (2025-12-26)
+- [Geometric Algorithms for Translucency Sorting in Minecraft [pdf]](https://douira.dev/assets/document/douira-master-thesis.pdf) (2025-12-26)
+- [Building an AI agent inside a 7-year-old Rails monolith](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/) (2025-12-26)
 - [TurboDiffusion: 100–200× Acceleration for Video Diffusion Models](https://github.com/thu-ml/TurboDiffusion) (2025-12-26)
 - [Ultimate-Linux: Userspace for Linux in Pure JavaScript](https://github.com/popovicu/ultimate-linux) (2025-12-26)
-- [MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming](https://www.minimaxi.com/news/minimax-m21) (2025-12-26)
-- [When a driver challenges the kernel's assumptions](http://miod.online.fr/software/openbsd/stories/udl.html) (2025-12-26)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [MIT Technology Review’s most popular stories of 2025](https://www.technologyreview.com/2025/12/26/1130318/mit-technology-review-most-popular-stories-2025/) (2025-12-26)
+- [The paints, coatings, and chemicals making the world a cooler place](https://www.technologyreview.com/2025/12/26/1129301/paint-coating-chemicals-materials-cooling-air-conditioning/) (2025-12-26)
 - [AI Wrapped: The 14 AI terms you couldn’t avoid in 2025](https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/) (2025-12-25)
 - [Meet the man hunting the spies in your smartphone](https://www.technologyreview.com/2025/12/24/1129294/ronald-deibert-citizen-lab-digital-threats-spies-cybersecurity/) (2025-12-24)
 - [Four bright spots in climate news in 2025](https://www.technologyreview.com/2025/12/24/1130191/good-climate-news-2025/) (2025-12-24)
-- [Researchers are getting organoids pregnant with human embryos](https://www.technologyreview.com/2025/12/23/1130415/organoid-uterus-microfluidic-chip-embryo/) (2025-12-23)
-- [How social media encourages the worst of AI boosterism](https://www.technologyreview.com/2025/12/23/1130393/how-social-media-encourages-the-worst-of-ai-boosterism/) (2025-12-23)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Traceability Software Food Industry for Safer Supply Chains](https://dev.to/foodtraceabilitysystem/traceability-software-food-industry-for-safer-supply-chains-1a14) (2025-12-26)
-- [How Qwen Image Layered Revolutionizes Workflow Efficiency for Designers and Creative Teams](https://dev.to/sophialuma/how-qwen-image-layered-revolutionizes-workflow-efficiency-for-designers-and-creative-teams-1p91) (2025-12-26)
-- [CSS 2D Transforms Guide 2025: Master Rotate, Scale, Translate & Skew](https://dev.to/satyam_gupta_0d1ff2152dcc/css-2d-transforms-guide-2025-master-rotate-scale-translate-skew-3dpn) (2025-12-26)
-- [Why Prompt-Level Controls Are the New Frontier of AI Risk Management](https://dev.to/sangram_6c566d62b3944d2b9/why-prompt-level-controls-are-the-new-frontier-of-ai-risk-management-1gfn) (2025-12-26)
-- [How to Enforce Policies Without Blocking Hotfixes](https://dev.to/piyushgaikwaad/how-to-enforce-policies-without-blocking-hotfixes-7dh) (2025-12-26)
+- [Ethereum-Solidity Quiz Q5: What is the Private Mempool?](https://dev.to/mihaihng/ethereum-solidity-quiz-q5-what-is-the-private-mempool-3g4e) (2025-12-26)
+- [HOW TO CREATE AN ELASTIC BEANSTALK ON AWS](https://dev.to/ajayid10/how-to-create-an-elastic-beanstalk-on-aws-1ad1) (2025-12-26)
+- [Scaling the Data Layer in Distributed Systems](https://dev.to/gauravsingh9356/scaling-the-data-layer-in-distributed-systems-49k3) (2025-12-26)
+- [12 Must-Have WordPress Plugins for Developers in 2026 🚀](https://dev.to/thebitforge/12-must-have-wordpress-plugins-for-developers-in-2026-3kof) (2025-12-26)
+- [Auto-Approve WebFetch and WebSearch in Claude Code with Hooks](https://dev.to/alexisfranorge/auto-approve-webfetch-and-websearch-in-claude-code-with-hooks-4kpg) (2025-12-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Swift on the Server: Apple’s Quiet Bet That’s Killing Go’s Backend Monopoly (By 2027)](https://medium.com/@yashbatra11111/swift-on-the-server-apples-quiet-bet-that-s-killing-go-s-backend-monopoly-by-2027-854791f6bdc6?source=rss------programming-5) (2025-12-26)
-- [.NET Caching : Race Condition Sorunlarını Decorator Pattern ve Key-Based Locking ile Çözmek](https://medium.com/@arslanberkay18/net-caching-race-condition-sorunlar%C4%B1n%C4%B1-decorator-pattern-ve-key-based-locking-ile-%C3%A7%C3%B6zmek-6fb8d5cc4e67?source=rss------programming-5) (2025-12-26)
-- [Vibe Coding: The Quiet Skill That Separates Good Developers From Great Ones](https://medium.com/@dhruvalmakwana6/vibe-coding-the-quiet-skill-that-separates-good-developers-from-great-ones-3fb92c3125fa?source=rss------programming-5) (2025-12-26)
-- [Complete roadmap for developers](https://medium.com/@cadfemmalli/complete-roadmap-for-developers-85a336e02c84?source=rss------programming-5) (2025-12-26)
-- [How to Learn Any Skill in 20 Minutes a Day: The 3-Loop Method](https://medium.com/@nidhi.kekatpure/how-to-learn-any-skill-in-20-minutes-a-day-the-3-loop-method-bb16d0d34a85?source=rss------programming-5) (2025-12-26)
+- [5 Surprising Ways PyAutoGUI Made My Daily Tasks Faster (And Easier)](https://python.plainenglish.io/5-surprising-ways-pyautogui-made-my-daily-tasks-faster-and-easier-9d826c98424c?source=rss------programming-5) (2025-12-26)
+- [7 Python Scripts That Proved You Don’t Need a Big Idea to Go Viral](https://python.plainenglish.io/7-python-scripts-that-proved-you-dont-need-a-big-idea-to-go-viral-49bd30ef7754?source=rss------programming-5) (2025-12-26)
+- [I Automate Everything With Python. My Boss Thinks I’m Productive](https://levelup.gitconnected.com/i-automate-everything-with-python-my-boss-thinks-im-productive-3c1a7bf69ac1?source=rss------programming-5) (2025-12-26)
+- [2 Python Scripts That Blew Up Way More Than I Expected](https://levelup.gitconnected.com/2-python-scripts-that-blew-up-way-more-than-i-expected-b44cbabbca4e?source=rss------programming-5) (2025-12-26)
+- [From Prompt Injection to Tool Hijacking: A Defense-in-Depth Blueprint for AI Agents on Azure.](https://itnext.io/from-prompt-injection-to-tool-hijacking-a-defense-in-depth-blueprint-for-ai-agents-on-azure-9d538f2e7296?source=rss------programming-5) (2025-12-26)
 
 </details>
 
@@ -506,11 +506,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>💬 Slack API</summary>
 
+- [AI Enterprise Search: Top Features and Tools in 2026](https://slack.com/blog/productivity/ai-enterprise-search-top-features-and-tools-in-2025) (2025-12-23)
 - [Slack Feature Drop: New Innovations That Make Work Feel Like a Gift](https://slack.com/blog/news/feature-drop-dec25) (2025-12-22)
 - [Securing the Agentic Enterprise](https://slack.com/blog/transformation/securing-the-agentic-enterprise) (2025-12-17)
 - [Why Your AI Is Advancing — and Your Enterprise Isn’t](https://slack.com/blog/transformation/five-friction-points-enterprise-ai) (2025-12-16)
 - [Enterprise Search: How to Find Anything at Work with One Query](https://slack.com/blog/productivity/enterprise-search) (2025-12-15)
-- [AI Knowledge Base: The Complete Guide for 2026](https://slack.com/blog/productivity/what-is-an-ai-knowledge-base-tools-features-and-best-practices) (2025-12-15)
 
 </details>
 
@@ -583,11 +583,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Build AI Agents with RapidAPI for Real-Time Data](https://www.analyticsvidhya.com/blog/2025/12/build-ai-agents-with-rapidapi-for-real-time-data/) (2025-12-26)
+- [Build Your Own NotebookLlama: A PDF to Podcast Pipeline (Open, Fast, and Fully Yours)](https://www.analyticsvidhya.com/blog/2025/12/build-your-own-notebookllama/) (2025-12-26)
 - [Is Mistral OCR 3 the Best OCR Model?](https://www.analyticsvidhya.com/blog/2025/12/mistral-ocr-3/) (2025-12-25)
 - [Build Your Own Open-Source Logo Detector: A Practical Guide to ACR, Embeddings & Vector Search](https://www.analyticsvidhya.com/blog/2025/12/build-your-own-open-source-logo-detector/) (2025-12-24)
 - [Top 7 Free AI Courses with Certificates](https://www.analyticsvidhya.com/blog/2025/12/free-ai-courses-with-certificates/) (2025-12-24)
-- [Google Code Wiki: Live Docs, Diagrams & Chat for Any GitHub Repo](https://www.analyticsvidhya.com/blog/2025/12/google-code-wiki/) (2025-12-23)
-- [How to Use Microsoft Power Automate? [In Under 10 Minutes]](https://www.analyticsvidhya.com/blog/2025/12/microsoft-power-automate-guide-for-beginners/) (2025-12-23)
 
 </details>
 
@@ -605,11 +605,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Training a Model on Multiple GPUs with Data Parallelism](https://machinelearningmastery.com/training-a-model-on-multiple-gpus-with-data-parallelism/) (2025-12-26)
 - [Train a Model Faster with torch.compile and Gradient Accumulation](https://machinelearningmastery.com/train-a-model-faster-with-torch-compile-and-gradient-accumulation/) (2025-12-25)
 - [Training a Model with Limited Memory using Mixed Precision and Gradient Checkpointing](https://machinelearningmastery.com/training-a-model-with-limited-memory-using-mixed-precision-and-gradient-checkpointing/) (2025-12-24)
 - [Practical Agentic Coding with Google Jules](https://machinelearningmastery.com/practical-agentic-coding-with-google-jules/) (2025-12-24)
 - [Evaluating Perplexity on Language Models](https://machinelearningmastery.com/evaluating-perplexity-on-language-models/) (2025-12-23)
-- [3 Smart Ways to Encode Categorical Features for Machine Learning](https://machinelearningmastery.com/3-smart-ways-to-encode-categorical-features-for-machine-learning/) (2025-12-22)
 
 </details>
 
