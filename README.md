@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Ask HN: What tech purchase did you regret even though reviews were great?](https://news.ycombinator.com/item?id=46387893) (2025-12-26)
-- [No shares in company, but 550 employees received a $240M gift from their owner](https://economictimes.indiatimes.com/magazines/panache/no-shares-in-company-but-550-employees-received-a-240-million-gift-from-their-owner-for-staying-with-him-through-tough-times/articleshow/126175955.cms?from=mdr) (2025-12-25)
-- [Maybe the default settings are too high](https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/) (2025-12-25)
-- [Google is 'gradually rolling out' option to change your gmail.com address](https://9to5google.com/2025/12/24/google-change-gmail-addresses/) (2025-12-25)
-- [Memory Safety](https://www.memorysafety.org/) (2025-12-25)
+- [Rob Pike Goes Nuclear over GenAI](https://imgur.com/nUJCI3o) (2025-12-26)
+- [TurboDiffusion: 100–200× Acceleration for Video Diffusion Models](https://github.com/thu-ml/TurboDiffusion) (2025-12-26)
+- [Ultimate-Linux: Userspace for Linux in Pure JavaScript](https://github.com/popovicu/ultimate-linux) (2025-12-26)
+- [MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming](https://www.minimaxi.com/news/minimax-m21) (2025-12-26)
+- [When a driver challenges the kernel's assumptions](http://miod.online.fr/software/openbsd/stories/udl.html) (2025-12-26)
 
 </details>
 
@@ -86,34 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Containers are easy—moving your legacy system off your VM is not](https://stackoverflow.blog/2025/12/26/containers-are-easy-moving-your-legacy-system-off-your-vm-is-not/) (2025-12-26)
 - [Whether AI is a bubble or revolution, how does software survive?](https://stackoverflow.blog/2025/12/25/whether-ai-is-a-bubble-or-revolution-how-does-software-survive/) (2025-12-25)
 - [The Great Unracking: Saying goodbye to the servers at our physical datacenter](https://stackoverflow.blog/2025/12/24/the-great-unracking-saying-goodbye-to-the-servers-at-our-physical-datacenter/) (2025-12-24)
 - [How Xerox and Stack Overflow partnered to preserve knowledge and power innovation](https://stackoverflow.blog/2025/12/23/how-xerox-and-stack-overflow-partnered-to-preserve-knowledge-and-power-innovation/) (2025-12-23)
 - [The AI ick](https://stackoverflow.blog/2025/12/23/the-ai-ick/) (2025-12-23)
-- [Settle down, nerds. AI is a normal technology](https://stackoverflow.blog/2025/12/23/settle-down-nerds-ai-is-a-normal-technology/) (2025-12-23)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Anime Fighting Simulator: Endless - Ultimate Beginner's Guide 2025](https://dev.to/afse_hub/anime-fighting-simulator-endless-ultimate-beginners-guide-2025-d26) (2025-12-26)
-- [2025 MySQL Production Environment Security Hardening Guide](https://dev.to/nc_pfinal_85794826ba96de6/2025-mysql-production-environment-security-hardening-guide-7bj) (2025-12-26)
-- [Mastering HTTP/2 in Go: A Practical Guide for Building Faster Web Servers](https://dev.to/jones_charles_ad50858dbc0/mastering-http2-in-go-a-practical-guide-for-building-faster-web-servers-4hbo) (2025-12-26)
-- [Pinning GitHub Actions for Reproducibility and Security](https://dev.to/cloudnative_eng/pinning-github-actions-for-reproducibility-and-security-2ihh) (2025-12-26)
-- [Retain API in Jetpack Compose](https://dev.to/saidurtech/retain-api-in-jetpack-compose-1923) (2025-12-26)
+- [Traceability Software Food Industry for Safer Supply Chains](https://dev.to/foodtraceabilitysystem/traceability-software-food-industry-for-safer-supply-chains-1a14) (2025-12-26)
+- [How Qwen Image Layered Revolutionizes Workflow Efficiency for Designers and Creative Teams](https://dev.to/sophialuma/how-qwen-image-layered-revolutionizes-workflow-efficiency-for-designers-and-creative-teams-1p91) (2025-12-26)
+- [CSS 2D Transforms Guide 2025: Master Rotate, Scale, Translate & Skew](https://dev.to/satyam_gupta_0d1ff2152dcc/css-2d-transforms-guide-2025-master-rotate-scale-translate-skew-3dpn) (2025-12-26)
+- [Why Prompt-Level Controls Are the New Frontier of AI Risk Management](https://dev.to/sangram_6c566d62b3944d2b9/why-prompt-level-controls-are-the-new-frontier-of-ai-risk-management-1gfn) (2025-12-26)
+- [How to Enforce Policies Without Blocking Hotfixes](https://dev.to/piyushgaikwaad/how-to-enforce-policies-without-blocking-hotfixes-7dh) (2025-12-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Continuous Integration (CI) Best Practices: A Practical Guide for Modern Software Development](https://medium.com/@dennis_39505/continuous-integration-ci-best-practices-a-practical-guide-for-modern-software-development-90a954030702?source=rss------programming-5) (2025-12-26)
-- [9 Java Trends to Watch in 2026](https://medium.com/@sunil17bbmp/9-java-trends-to-watch-in-2026-f8a2da13d0cd?source=rss------programming-5) (2025-12-26)
-- [Zero Trust Networking: Replacing API Keys with Mutual TLS (mTLS)](https://medium.com/@chopra.kanta.73/zero-trust-networking-replacing-api-keys-with-mutual-tls-mtls-b073d79f3b60?source=rss------programming-5) (2025-12-26)
-- [From Capability to Control: A Safety Case Compact Policymakers Can Launch Now](https://medium.com/@customers_94896/from-capability-to-control-a-safety-case-compact-policymakers-can-launch-now-d8d9494c123c?source=rss------programming-5) (2025-12-26)
-- [09389010538شماره خاله #شماره خاله#تهران #شماره خاله#اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@fjldilukeyjsshjshn/09389010538%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-467132aa7ffc?source=rss------programming-5) (2025-12-26)
+- [Swift on the Server: Apple’s Quiet Bet That’s Killing Go’s Backend Monopoly (By 2027)](https://medium.com/@yashbatra11111/swift-on-the-server-apples-quiet-bet-that-s-killing-go-s-backend-monopoly-by-2027-854791f6bdc6?source=rss------programming-5) (2025-12-26)
+- [.NET Caching : Race Condition Sorunlarını Decorator Pattern ve Key-Based Locking ile Çözmek](https://medium.com/@arslanberkay18/net-caching-race-condition-sorunlar%C4%B1n%C4%B1-decorator-pattern-ve-key-based-locking-ile-%C3%A7%C3%B6zmek-6fb8d5cc4e67?source=rss------programming-5) (2025-12-26)
+- [Vibe Coding: The Quiet Skill That Separates Good Developers From Great Ones](https://medium.com/@dhruvalmakwana6/vibe-coding-the-quiet-skill-that-separates-good-developers-from-great-ones-3fb92c3125fa?source=rss------programming-5) (2025-12-26)
+- [Complete roadmap for developers](https://medium.com/@cadfemmalli/complete-roadmap-for-developers-85a336e02c84?source=rss------programming-5) (2025-12-26)
+- [How to Learn Any Skill in 20 Minutes a Day: The 3-Loop Method](https://medium.com/@nidhi.kekatpure/how-to-learn-any-skill-in-20-minutes-a-day-the-3-loop-method-bb16d0d34a85?source=rss------programming-5) (2025-12-26)
 
 </details>
 
@@ -507,11 +506,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>💬 Slack API</summary>
 
-- [AI Enterprise Search: Top Features and Tools in 2026](https://slack.com/blog/productivity/ai-enterprise-search-top-features-and-tools-in-2025) (2025-12-23)
 - [Slack Feature Drop: New Innovations That Make Work Feel Like a Gift](https://slack.com/blog/news/feature-drop-dec25) (2025-12-22)
 - [Securing the Agentic Enterprise](https://slack.com/blog/transformation/securing-the-agentic-enterprise) (2025-12-17)
 - [Why Your AI Is Advancing — and Your Enterprise Isn’t](https://slack.com/blog/transformation/five-friction-points-enterprise-ai) (2025-12-16)
 - [Enterprise Search: How to Find Anything at Work with One Query](https://slack.com/blog/productivity/enterprise-search) (2025-12-15)
+- [AI Knowledge Base: The Complete Guide for 2026](https://slack.com/blog/productivity/what-is-an-ai-knowledge-base-tools-features-and-best-practices) (2025-12-15)
 
 </details>
 
