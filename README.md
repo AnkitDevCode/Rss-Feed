@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Meet the team that investigates when journalists and activists get hacked with government spyware](https://techcrunch.com/2025/12/27/meet-the-team-that-investigates-when-journalists-and-activists-get-hacked-with-government-spyware/) (2025-12-27)
+- [The 22 top clean tech and energy startups from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/27/the-22-top-clean-tech-and-energy-startups-from-disrupt-startup-battlefield/) (2025-12-27)
+- [NY Governor Hochul signs bill requiring warning labels on ‘addictive’ social media](https://techcrunch.com/2025/12/27/ny-governor-hochul-signs-bill-requiring-warning-labels-on-addictive-social-media/) (2025-12-27)
+- [The 7 top space and defense tech startups from Disrupt Startup Battlefield ](https://techcrunch.com/2025/12/27/the-7-top-space-and-defense-tech-startups-from-disrupt-startup-battlefield/) (2025-12-27)
 - [How reality crushed Ÿnsect, the French startup that had raised over $600M for insect farming](https://techcrunch.com/2025/12/26/how-reality-crushed-ynsect-the-french-startup-that-had-raised-over-600m-for-insect-farming/) (2025-12-26)
-- [As people look for ways to make new friends, here are the apps promising to help](https://techcrunch.com/2025/12/26/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/) (2025-12-26)
-- [What’s ahead for startups and VCs in 2026? Investors weigh in](https://techcrunch.com/2025/12/26/whats-ahead-for-startups-and-vcs-in-2026-investors-weigh-in/) (2025-12-26)
-- [Naware’s chemical-free weed killer tech could change how we treat lawns](https://techcrunch.com/2025/12/26/nawares-chemical-free-weed-killer-tech-could-change-how-we-treat-lawns/) (2025-12-26)
-- [Treat yourself: The best smart glasses to buy with your holiday gift money](https://techcrunch.com/2025/12/26/treat-yourself-the-best-smart-glasses-to-buy-with-your-holiday-gift-money/) (2025-12-26)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Splice a Fibre](https://react-networks-lib.rackout.net/fibre) (2025-12-27)
-- [Cursed Bundler: Using go get to install Ruby Gems](https://nesbitt.io/2025/12/25/cursed-bundler-using-go-get-to-install-ruby-gems.html) (2025-12-27)
-- [Show HN: Ez FFmpeg – Video editing in plain English](http://npmjs.com/package/ezff) (2025-12-27)
-- [More dynamic cronjobs](https://george.mand.is/2025/09/more-dynamic-cronjobs/) (2025-12-27)
-- [Inside the proton, the ‘most complicated thing you could possibly imagine’ (2022)](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/) (2025-12-27)
+- [Janet Jackson had the power to crash laptop computers (2022)](https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994) (2025-12-27)
+- [USD Share as Global Reserve Currency Drops to Lowest Since 1994](https://wolfstreet.com/2025/12/26/status-of-the-us-dollar-as-global-reserve-currency-usd-share-drops-to-lowest-since-1994/) (2025-12-27)
+- [Gpg.fail](https://gpg.fail) (2025-12-27)
+- [This PNG shows a different version when loaded in Chrome than in Safari](https://lr0.org/blog/p/pngchanges/) (2025-12-27)
+- [Nvidia just paid $20B for a company that missed its revenue target by 75%](https://blog.drjoshcsimmons.com/p/nvidia-just-paid-20-billion-for-a) (2025-12-27)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Pixel 10 phones and Switch 2 games round out this week’s best deals ](https://www.theverge.com/gadgets/850390/google-pixel-10-anker-laptop-power-bank-nintendo-switch-game-sale-deal-sale) (2025-12-27)
+- [8 great games for your Steam Deck from 2025](https://www.theverge.com/entertainment/842024/steam-deck-best-games-2025-verified-playable-valve) (2025-12-27)
 - [Trump’s war on offshore wind faces another lawsuit](https://www.theverge.com/news/850461/offshore-wind-trump-lawsuit-dominion-energy-ai-data-center) (2025-12-26)
 - [Rodeo is an app for making plans with friends you already have](https://www.theverge.com/news/850398/rodeo-hinge-social-app-friends) (2025-12-26)
 - [Framework announces another memory price hike — and it likely won’t be its last](https://www.theverge.com/news/850376/framework-ram-memory-ddr5-price-hikes) (2025-12-26)
-- [Cyberpunk 2077: Ultimate Edition and other Switch games are up to 50 percent off](https://www.theverge.com/gadgets/850279/cyberpunk-2077-ultimate-edition-and-other-nintendo-games-are-up-to-50-percent-off) (2025-12-26)
-- [Google is letting some people change their @gmail address](https://www.theverge.com/news/850237/google-change-your-gmail-address) (2025-12-26)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Quark's Outlines: Emulating Sequence and Mapping Types in Python](https://dev.to/mike-vincent/quarks-outlines-emulating-sequence-and-mapping-types-in-python-498m) (2025-12-27)
-- [📊 Visualize Your Coding Journey: Check Your GitHub Stats](https://dev.to/ibrahimsezer/visualize-your-coding-journey-check-your-github-stats-2cdo) (2025-12-27)
-- [Lessons from the Coursera–Udemy Merger Deal](https://dev.to/rubansi/lessons-from-the-coursera-udemy-merger-deal-g7e) (2025-12-27)
-- [I built my Portfolio as a Computer Engineer. Roast my design! 🚀](https://dev.to/ibrahimsezer/i-built-my-portfolio-as-a-computer-engineer-roast-my-design-1d36) (2025-12-27)
-- [The Forty Percent Problem](https://dev.to/rawveg/the-forty-percent-problem-5bk0) (2025-12-27)
+- [Chrome DevTools is missing these features, so I built them myself](https://dev.to/nhrdev/chrome-devtools-is-missing-these-features-so-i-built-them-myself-2ea4) (2025-12-27)
+- [Sam Altman — from Loopt kid to OpenAI’s lightning rod](https://dev.to/tashfia_a8008e6a542/sam-altman-from-loopt-kid-to-openais-lightning-rod-4oll) (2025-12-27)
+- [I Built an Email API — Here's What I Learned About DKIM, SPF, and DMARC](https://dev.to/johan_s_/i-built-an-email-api-heres-what-i-learned-about-dkim-spf-and-dmarc-2ann) (2025-12-27)
+- [Step-by-step Guide: Creating a PASETO (Platform-Agnostic Security Token) in Express.js](https://dev.to/codefalconx/step-by-step-guide-creating-a-paseto-platform-agnostic-security-token-in-expressjs-37pn) (2025-12-27)
+- [Modern Web Development Build Tools: Transform Your Workflow From Slow to Lightning Fast](https://dev.to/nithinbharathwaj/modern-web-development-build-tools-transform-your-workflow-from-slow-to-lightning-fast-j32) (2025-12-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [9 Python Scripts That Taught Me Why “Small” Projects Win](https://python.plainenglish.io/9-python-scripts-that-taught-me-why-small-projects-win-25dd9ba63c5c?source=rss------programming-5) (2025-12-27)
-- [90 Days of Coding: How I Finally Stopped Sucking at Interviews](https://medium.com/@DevBoostLab/90-days-of-coding-how-i-finally-stopped-sucking-at-interviews-50877c98cf91?source=rss------programming-5) (2025-12-27)
-- [4 Python Libraries That Made My Scripts Feel Smarter Than Me](https://levelup.gitconnected.com/4-python-libraries-that-made-my-scripts-feel-smarter-than-me-9e4f6d5ca808?source=rss------programming-5) (2025-12-27)
-- [Git Commands Every Beginner Developer Should Know](https://medium.com/@neoncode/git-commands-every-beginner-developer-should-know-98b5ceacc99c?source=rss------programming-5) (2025-12-27)
-- [Staying Motivated While Job Searching](https://medium.com/@suryanilestari_1002/staying-motivated-while-job-searching-804a446378b3?source=rss------programming-5) (2025-12-27)
+- [AI ETHICS](https://medium.com/@johandhaneja34/ai-ethics-d557a868e75e?source=rss------programming-5) (2025-12-27)
+- [AWS Services Explained (Beginner Mode)](https://medium.com/activated-thinker/aws-services-explained-beginner-mode-52e434a5fe4c?source=rss------programming-5) (2025-12-27)
+- [How To Deploy Your Application To Azure Using GitHub Actions](https://medium.com/@mariammaurice/how-to-deploy-your-application-to-azure-using-github-actions-ddd6a0d63905?source=rss------programming-5) (2025-12-27)
+- [How to Write Architecture Tests for the Clean Architecture](https://medium.com/@maged_/how-to-write-architecture-tests-for-the-clean-architecture-ade5e25b1439?source=rss------programming-5) (2025-12-27)
+- [Managing Permissions With EF Core Migrations | Permission Authorization in .NET 10](https://medium.com/@michaelmaurice410/managing-permissions-with-ef-core-migrations-permission-authorization-in-net-10-15efc5b7008e?source=rss------programming-5) (2025-12-27)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
-- [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 - [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
 - [Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025](https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/) (2025-12-10)
+- [Microsoft’s commitment to supporting cloud infrastructure demand in the United States](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/) (2025-12-09)
+- [New options for AI-powered innovation, resiliency, and control with Microsoft Azure](https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/) (2025-12-03)
 
 </details>
 
@@ -506,11 +506,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>💬 Slack API</summary>
 
+- [AI Enterprise Search: Top Features and Tools in 2026](https://slack.com/blog/productivity/ai-enterprise-search-top-features-and-tools-in-2025) (2025-12-23)
 - [Slack Feature Drop: New Innovations That Make Work Feel Like a Gift](https://slack.com/blog/news/feature-drop-dec25) (2025-12-22)
 - [Securing the Agentic Enterprise](https://slack.com/blog/transformation/securing-the-agentic-enterprise) (2025-12-17)
 - [Why Your AI Is Advancing — and Your Enterprise Isn’t](https://slack.com/blog/transformation/five-friction-points-enterprise-ai) (2025-12-16)
 - [Enterprise Search: How to Find Anything at Work with One Query](https://slack.com/blog/productivity/enterprise-search) (2025-12-15)
-- [AI Knowledge Base: The Complete Guide for 2026](https://slack.com/blog/productivity/what-is-an-ai-knowledge-base-tools-features-and-best-practices) (2025-12-15)
 
 </details>
 
@@ -572,11 +572,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Exploring TabPFN: A Foundation Model Built for Tabular Data](https://towardsdatascience.com/exploring-tabpfn-a-foundation-model-built-for-tabular-data/) (2025-12-27)
+- [How IntelliNode Automates Complex Workflows with Vibe Agents](https://towardsdatascience.com/agents-that-write-agents/) (2025-12-27)
 - [Think Your Python Code Is Slow? Stop Guessing and Start Measuring](https://towardsdatascience.com/think-your-python-code-is-slow-stop-guessing-and-start-measuring/) (2025-12-26)
 - [How to Build an AI-Powered Weather ETL Pipeline with Databricks and GPT-4o: From API To Dashboard](https://towardsdatascience.com/how-to-build-an-ai-powered-weather-etl-pipeline-with-databricks-and-gpt-4o-from-api-to-dashboard/) (2025-12-26)
 - [Keeping Probabilities Honest: The Jacobian Adjustment](https://towardsdatascience.com/keeping-probabilities-honest-the-jacobian-adjustment/) (2025-12-25)
-- [Why MAP and MRR Fail for Search Ranking (and What to Use Instead)](https://towardsdatascience.com/why-map-and-mrr-fail-for-search-ranking-and-what-to-use-instead/) (2025-12-25)
-- [The Machine Learning “Advent Calendar” Day 24: Transformers for Text in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-day-24-transformers-for-text-in-excel/) (2025-12-24)
 
 </details>
 
