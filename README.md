@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [CEO of Health Care Software Company Sentenced for $1B Fraud Conspiracy](https://www.justice.gov/opa/pr/ceo-health-care-software-company-sentenced-1b-fraud-conspiracy) (2025-12-27)
-- [Former ULA President and CEO Tory Bruno Joins Blue Origin](https://spaceflightnow.com/2025/12/26/former-ula-president-and-ceo-tory-bruno-joins-blue-origin/) (2025-12-27)
-- [QNX Self-Hosted Developer Desktop](https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/) (2025-12-27)
-- [Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work) (2025-12-27)
-- [Exe.dev](https://exe.dev/) (2025-12-26)
+- [Splice a Fibre](https://react-networks-lib.rackout.net/fibre) (2025-12-27)
+- [Cursed Bundler: Using go get to install Ruby Gems](https://nesbitt.io/2025/12/25/cursed-bundler-using-go-get-to-install-ruby-gems.html) (2025-12-27)
+- [Show HN: Ez FFmpeg – Video editing in plain English](http://npmjs.com/package/ezff) (2025-12-27)
+- [More dynamic cronjobs](https://george.mand.is/2025/09/more-dynamic-cronjobs/) (2025-12-27)
+- [Inside the proton, the ‘most complicated thing you could possibly imagine’ (2022)](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/) (2025-12-27)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Getting to know Claude better](https://dev.to/goatpug/getting-to-know-claude-better-572p) (2025-12-27)
-- [I Used My AI Nutrition Agent Every Day for a Month. Here's What I Actually Had to Fix](https://dev.to/juandastic/i-used-my-ai-nutrition-coach-every-day-for-a-month-heres-what-i-actually-had-to-fix-1ej8) (2025-12-27)
-- [10 MCP Servers to Improve DevOps Workflows](https://dev.to/chaterm-ai/10-mcp-servers-to-improve-devops-workflows-5f30) (2025-12-27)
-- [When Competitors Strike: Your Emergency Playbook for Sudden Market Disruption](https://dev.to/tracksimple/when-competitors-strike-your-emergency-playbook-for-sudden-market-disruption-1p72) (2025-12-27)
-- [[Boost]](https://dev.to/falconmx1/-5aid) (2025-12-27)
+- [Quark's Outlines: Emulating Sequence and Mapping Types in Python](https://dev.to/mike-vincent/quarks-outlines-emulating-sequence-and-mapping-types-in-python-498m) (2025-12-27)
+- [📊 Visualize Your Coding Journey: Check Your GitHub Stats](https://dev.to/ibrahimsezer/visualize-your-coding-journey-check-your-github-stats-2cdo) (2025-12-27)
+- [Lessons from the Coursera–Udemy Merger Deal](https://dev.to/rubansi/lessons-from-the-coursera-udemy-merger-deal-g7e) (2025-12-27)
+- [I built my Portfolio as a Computer Engineer. Roast my design! 🚀](https://dev.to/ibrahimsezer/i-built-my-portfolio-as-a-computer-engineer-roast-my-design-1d36) (2025-12-27)
+- [The Forty Percent Problem](https://dev.to/rawveg/the-forty-percent-problem-5bk0) (2025-12-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ React Native & AI Integration: The Future of Smart Mobile Apps ✨](https://medium.com/@alisha00/react-native-ai-integration-the-future-of-smart-mobile-apps-ad4d404be922?source=rss------programming-5) (2025-12-27)
-- [Hey](https://medium.com/@almirah2204/hey-54c9fec51c77?source=rss------programming-5) (2025-12-27)
-- [ Firebase + Edge Computing: The Next Generation of Real-Time Apps ](https://medium.com/@blogstacker20/firebase-edge-computing-the-next-generation-of-real-time-apps-0a2fe04bad1a?source=rss------programming-5) (2025-12-27)
-- [️ Your External APIs Will Fail: Here’s How to Handle It Like a Pro](https://medium.com/@laurentmn/%EF%B8%8F-your-external-apis-will-fail-heres-how-to-handle-it-like-a-pro-b62eea79db70?source=rss------programming-5) (2025-12-27)
-- [ Flutter & Micro-Frontends: Building Scalable Mobile Apps for the Future ⚡](https://medium.com/@ektakumari8872/flutter-micro-frontends-building-scalable-mobile-apps-for-the-future-a6bb267f670d?source=rss------programming-5) (2025-12-27)
+- [9 Python Scripts That Taught Me Why “Small” Projects Win](https://python.plainenglish.io/9-python-scripts-that-taught-me-why-small-projects-win-25dd9ba63c5c?source=rss------programming-5) (2025-12-27)
+- [90 Days of Coding: How I Finally Stopped Sucking at Interviews](https://medium.com/@DevBoostLab/90-days-of-coding-how-i-finally-stopped-sucking-at-interviews-50877c98cf91?source=rss------programming-5) (2025-12-27)
+- [4 Python Libraries That Made My Scripts Feel Smarter Than Me](https://levelup.gitconnected.com/4-python-libraries-that-made-my-scripts-feel-smarter-than-me-9e4f6d5ca808?source=rss------programming-5) (2025-12-27)
+- [Git Commands Every Beginner Developer Should Know](https://medium.com/@neoncode/git-commands-every-beginner-developer-should-know-98b5ceacc99c?source=rss------programming-5) (2025-12-27)
+- [Staying Motivated While Job Searching](https://medium.com/@suryanilestari_1002/staying-motivated-while-job-searching-804a446378b3?source=rss------programming-5) (2025-12-27)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
 - [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 - [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
 - [Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025](https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/) (2025-12-10)
-- [Microsoft’s commitment to supporting cloud infrastructure demand in the United States](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/) (2025-12-09)
 
 </details>
 
@@ -460,6 +460,17 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 </details>
 
 <details>
+<summary>🚀 Apollo GraphQL</summary>
+
+- [End of Support for Router v1.x; Long-Term Support (LTS) Policy Update](https://www.apollographql.com/blog/end-of-support-for-router-v1-x-long-term-support-lts-policy-update) (2025-12-19)
+- [Building Apps for ChatGPT with Apollo MCP Server and Apollo Client](https://www.apollographql.com/blog/building-apps-for-chatgpt-with-apollo-mcp-server-and-apollo-client) (2025-12-18)
+- [Apollo Strengthens Its San Francisco Presence for the Agentic Era](https://www.apollographql.com/blog/apollo-strengthens-its-san-francisco-presence-for-the-agentic-era) (2025-12-02)
+- [How Delivery Hero Accelerates UX Experiments with Server-Driven UI and Apollo](https://www.apollographql.com/blog/how-delivery-hero-accelerates-ux-experiments-with-server-driven-ui-and-apollo) (2025-12-01)
+- [How Block Scaled Graph Adoption with Apollo and AI](https://www.apollographql.com/blog/how-block-scaled-graph-adoption-with-apollo-and-ai) (2025-11-24)
+
+</details>
+
+<details>
 <summary>📊 Airtable Blog</summary>
 
 - [Applications closing for the Airtable AI Incubator](https://blog.airtable.com/applications-closing-for-the-airtable-ai-incubator/) (2025-09-29)
@@ -473,11 +484,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
-- [Developer Edition + スクラッチ組織で、複数の開発・検証組織を手にいれる](https://developer.salesforce.com/blogs/2025/12/jp-scratch-org-with-developer-edition.html) (2025-12-26)
-- [プロから学ぶ、Agentforce Vibesを使いこなす5つのヒント](https://developer.salesforce.com/blogs/2025/12/jp-five-pro-tips-for-using-agentforce-vibes.html) (2025-12-25)
 - [新しいサンプルアプリ「Agent Script Recipes」でハイブリッド推論をマスター](https://developer.salesforce.com/blogs/2025/12/jp-master-hybrid-reasoning-with-the-new-agent-script-recipes-sample-app.html) (2025-12-24)
 - [Build Composable Storefronts Smarter and Faster with the PWA Kit MCP Server](https://developer.salesforce.com/blogs/2025/12/build-composable-storefronts-smarter-and-faster-with-the-pwa-kit-mcp-server.html) (2025-12-23)
 - [AgentforceデータライブラリーからAIエージェントのテストケースを自動生成](https://developer.salesforce.com/blogs/2025/12/jp-auto-generate-agent-test-cases-from-agentforce-data-libraries.html) (2025-12-23)
+- [【Agentforce Hackathon Tokyo】第 1 位 Lightning Brightning: Agentforce と Tableau で革新するデータ駆動型ソリューション「Beauty Cloud」](https://developer.salesforce.com/blogs/2025/12/agentforce_hackathon_tokyo_2025_1st.html) (2025-12-22)
+- [Agentforceで会話履歴を活用して、マルチターンのAIエージェントテストを自動化](https://developer.salesforce.com/blogs/2025/12/jp-automate-multi-turn-agent-testing-with-conversation-history-in-agentforce.html) (2025-12-18)
 
 </details>
 
@@ -572,11 +583,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Data Analyst Learning Path 2026](https://www.analyticsvidhya.com/blog/2025/12/data-analyst-learning-path/) (2025-12-27)
+- [Top 6 YouTube Channels to Learn SQL](https://www.analyticsvidhya.com/blog/2025/12/youtube-channels-to-learn-sql/) (2025-12-27)
 - [Build AI Agents with RapidAPI for Real-Time Data](https://www.analyticsvidhya.com/blog/2025/12/build-ai-agents-with-rapidapi-for-real-time-data/) (2025-12-26)
 - [Build Your Own NotebookLlama: A PDF to Podcast Pipeline (Open, Fast, and Fully Yours)](https://www.analyticsvidhya.com/blog/2025/12/build-your-own-notebookllama/) (2025-12-26)
 - [Is Mistral OCR 3 the Best OCR Model?](https://www.analyticsvidhya.com/blog/2025/12/mistral-ocr-3/) (2025-12-25)
-- [Build Your Own Open-Source Logo Detector: A Practical Guide to ACR, Embeddings & Vector Search](https://www.analyticsvidhya.com/blog/2025/12/build-your-own-open-source-logo-detector/) (2025-12-24)
-- [Top 7 Free AI Courses with Certificates](https://www.analyticsvidhya.com/blog/2025/12/free-ai-courses-with-certificates/) (2025-12-24)
 
 </details>
 
