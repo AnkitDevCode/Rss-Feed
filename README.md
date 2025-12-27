@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [How reality crushed Ÿnsect, the French startup that had raised over $600M for insect farming](https://techcrunch.com/2025/12/26/how-reality-crushed-ynsect-the-french-startup-that-had-raised-over-600m-for-insect-farming/) (2025-12-26)
+- [As people look for ways to make new friends, here are the apps promising to help](https://techcrunch.com/2025/12/26/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/) (2025-12-26)
 - [What’s ahead for startups and VCs in 2026? Investors weigh in](https://techcrunch.com/2025/12/26/whats-ahead-for-startups-and-vcs-in-2026-investors-weigh-in/) (2025-12-26)
 - [Naware’s chemical-free weed killer tech could change how we treat lawns](https://techcrunch.com/2025/12/26/nawares-chemical-free-weed-killer-tech-could-change-how-we-treat-lawns/) (2025-12-26)
 - [Treat yourself: The best smart glasses to buy with your holiday gift money](https://techcrunch.com/2025/12/26/treat-yourself-the-best-smart-glasses-to-buy-with-your-holiday-gift-money/) (2025-12-26)
-- [The 9 top cybersecurity startups from Disrupt Startup Battlefield ](https://techcrunch.com/2025/12/26/the-9-top-cybersecurity-startups-from-disrupt-startup-battlefield/) (2025-12-26)
-- [These are the cybersecurity stories we were jealous of in 2025](https://techcrunch.com/2025/12/26/these-are-the-cybersecurity-stories-we-were-jealous-of-in-2025/) (2025-12-26)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [ICE's interest in high-tech gear raises new questions: 'What is it for?'](https://www.politico.com/news/2025/12/26/ice-high-tech-surveillance-lower-privacy-guardrails-00705401) (2025-12-26)
-- [C/C++ Embedded Files (2013)](https://www.4rknova.com//blog/2013/01/27/cpp-embedded-files) (2025-12-26)
-- [ZJIT is now available in Ruby 4.0](https://railsatscale.com/2025-12-24-launch-zjit/) (2025-12-26)
-- [Show HN: AutoLISP interpreter in Rust/WASM – a CAD workflow invented 33 yrs ago](https://acadlisp.de/noscript.html) (2025-12-26)
-- [Show HN: Private blogging and journaling with a simulated audience](https://tempblog-psi.vercel.app/) (2025-12-26)
+- [Exe.dev/](https://exe.dev/) (2025-12-26)
+- [Always Bet on Text](https://graydon2.dreamwidth.org/193447.html) (2025-12-26)
+- [T-Ruby is Ruby with syntax for types](https://type-ruby.github.io/) (2025-12-26)
+- [Grok and the Naked King: The Ultimate Argument Against AI Alignment](https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/) (2025-12-26)
+- [Gaussian Splatting 3 Ways](https://github.com/NullandKale/NullSplats) (2025-12-26)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Trump’s war on offshore wind faces another lawsuit](https://www.theverge.com/news/850461/offshore-wind-trump-lawsuit-dominion-energy-ai-data-center) (2025-12-26)
+- [Rodeo is an app for making plans with friends you already have](https://www.theverge.com/news/850398/rodeo-hinge-social-app-friends) (2025-12-26)
 - [Framework announces another memory price hike — and it likely won’t be its last](https://www.theverge.com/news/850376/framework-ram-memory-ddr5-price-hikes) (2025-12-26)
 - [Cyberpunk 2077: Ultimate Edition and other Switch games are up to 50 percent off](https://www.theverge.com/gadgets/850279/cyberpunk-2077-ultimate-edition-and-other-nintendo-games-are-up-to-50-percent-off) (2025-12-26)
 - [Google is letting some people change their @gmail address](https://www.theverge.com/news/850237/google-change-your-gmail-address) (2025-12-26)
-- [The 10 best shows to stream on Amazon Prime Video from 2025](https://www.theverge.com/entertainment/846767/amazon-prime-video-best-shows-2025) (2025-12-26)
-- [LG teases a new chore-completing home robot](https://www.theverge.com/news/850242/lg-cloid-home-robot-chores-ces-2026) (2025-12-26)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How to Build a UiPath Bot to Acquire Data from Credential-Based Source Systems](https://dev.to/enna/how-to-build-a-uipath-bot-to-acquire-data-from-credential-based-source-systems-13km) (2025-12-26)
-- [I think most teams are lying to themselves about usernames](https://dev.to/choraria/i-think-most-teams-are-lying-to-themselves-about-usernames-1nd7) (2025-12-26)
-- [final webhook integration test - Mastering Your Final Webhook...](https://dev.to/ash_dubai/final-webhook-integration-test-mastering-your-final-webhook-2epa) (2025-12-26)
-- [Automating Hazard Detection: An AI-Powered Robotics Case Study](https://dev.to/hkj13/automating-hazard-detection-an-ai-powered-robotics-case-study-1hj9) (2025-12-26)
-- [webhook delivery test final - Making sure Reliable Webhook Delivery:...](https://dev.to/ash_dubai/webhook-delivery-test-final-making-sure-reliable-webhook-delivery-19ml) (2025-12-26)
+- [Oura Integration: Build High-Performance Health Apps with Next.js and React Query](https://dev.to/wellallytech/oura-integration-build-high-performance-health-apps-with-nextjs-and-react-query-no3) (2025-12-27)
+- [10 Website Features Clients Always Ask For (But Rarely Use)](https://dev.to/dev_resources/10-website-features-clients-always-ask-for-but-rarely-use-3j7n) (2025-12-27)
+- [How I Found My First 50 Customers Hidden in Reddit Threads](https://dev.to/short_playskits_ab152535/how-i-found-my-first-50-customers-hidden-in-reddit-threads-12ai) (2025-12-27)
+- [Boost Developer Revenue with Monetzly's AI Conversation Tools](https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-ai-conversation-tools-278) (2025-12-27)
+- [Practical Identity Protection Without Tools Or Subscriptions](https://dev.to/gw-jeni-systems/practical-identity-protection-without-tools-or-subscriptions-3g74) (2025-12-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [A Under the Hood: Building a Game-Dev Asset Versioning System in C++](https://medium.com/@rustgodgaming/a-under-the-hood-building-a-game-dev-asset-versioning-system-in-c-8e79bfb75d30?source=rss------programming-5) (2025-12-26)
-- [Python’da Verileri Organize Etme Sanatı (Lists, Tuples, Sets, Dicts)](https://medium.com/@dervisiris0/pythonda-verileri-organize-etme-sanat%C4%B1-lists-tuples-sets-dicts-1699114d20e0?source=rss------programming-5) (2025-12-26)
-- [JavaScript vs TypeScript API call](https://komaldin.medium.com/javascript-vs-typescript-api-call-eceed27b3b74?source=rss------programming-5) (2025-12-26)
-- [Sweet 15: Growing Up With Code, One Chapter at a Time](https://roymj.medium.com/sweet-15-growing-up-with-code-one-chapter-at-a-time-15873ed5dee3?source=rss------programming-5) (2025-12-26)
-- [8 JavaScript Practices That Improve Frontend Stability](https://javascript.plainenglish.io/8-javascript-practices-that-improve-frontend-stability-4850fac135cf?source=rss------programming-5) (2025-12-26)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmcxzszcv36/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e1284216a60d?source=rss------programming-5) (2025-12-27)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmcxzszcv36/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-619294c10652?source=rss------programming-5) (2025-12-27)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbvcdccc37mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ba3beb73f4c5?source=rss------programming-5) (2025-12-27)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbvcdccc37mk/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-81b961bca824?source=rss------programming-5) (2025-12-27)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mmbcxzsa35/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-e796ccb76ac4?source=rss------programming-5) (2025-12-27)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
+- [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 - [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
 - [Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025](https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/) (2025-12-10)
-- [Microsoft’s commitment to supporting cloud infrastructure demand in the United States](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/) (2025-12-09)
-- [New options for AI-powered innovation, resiliency, and control with Microsoft Azure](https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/) (2025-12-03)
 
 </details>
 
@@ -506,11 +506,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>💬 Slack API</summary>
 
-- [AI Enterprise Search: Top Features and Tools in 2026](https://slack.com/blog/productivity/ai-enterprise-search-top-features-and-tools-in-2025) (2025-12-23)
 - [Slack Feature Drop: New Innovations That Make Work Feel Like a Gift](https://slack.com/blog/news/feature-drop-dec25) (2025-12-22)
 - [Securing the Agentic Enterprise](https://slack.com/blog/transformation/securing-the-agentic-enterprise) (2025-12-17)
 - [Why Your AI Is Advancing — and Your Enterprise Isn’t](https://slack.com/blog/transformation/five-friction-points-enterprise-ai) (2025-12-16)
 - [Enterprise Search: How to Find Anything at Work with One Query](https://slack.com/blog/productivity/enterprise-search) (2025-12-15)
+- [AI Knowledge Base: The Complete Guide for 2026](https://slack.com/blog/productivity/what-is-an-ai-knowledge-base-tools-features-and-best-practices) (2025-12-15)
 
 </details>
 
