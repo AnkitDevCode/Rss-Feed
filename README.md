@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Best Apple Watch apps for boosting your productivity](https://techcrunch.com/2025/12/27/best-apple-watch-apps-for-boosting-your-productivity/) (2025-12-28)
-- [India startup funding hits $11B in 2025 as investors grow more selective](https://techcrunch.com/2025/12/27/india-startup-funding-hits-11b-in-2025-as-investors-grow-more-selective/) (2025-12-28)
-- [FaZe Clan’s future is uncertain after influencers depart](https://techcrunch.com/2025/12/27/faze-clans-future-is-uncertain-after-influencers-depart/) (2025-12-27)
-- [Trump administration seeks to deport hate speech researcher previously sued by X](https://techcrunch.com/2025/12/27/trump-administration-seeks-to-deport-hate-speech-researcher-previously-sued-by-x/) (2025-12-27)
-- [Investors share what to remember while raising a Series A](https://techcrunch.com/2025/12/27/investors-share-what-to-remember-while-raising-a-series-a/) (2025-12-27)
+- [Why WeTransfer co-founder is building another file transfer service](https://techcrunch.com/2025/12/28/why-wetransfer-co-founder-is-building-another-file-transfer-service/) (2025-12-28)
+- [MayimFlow wants to stop data center leaks before they happen](https://techcrunch.com/2025/12/28/mayimflow-wants-to-stop-data-center-leaks-before-they-happen/) (2025-12-28)
+- [The 33 top health and wellness startups from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/28/the-33-top-health-and-wellness-startups-from-disrupt-startup-battlefield/) (2025-12-28)
+- [The Google Pixel Watch 4 made me like smartwatches again](https://techcrunch.com/2025/12/28/the-google-pixel-watch-4-made-me-like-smartwatches-again/) (2025-12-28)
+- [OpenAI is looking for a new Head of Preparedness](https://techcrunch.com/2025/12/28/openai-is-looking-for-a-new-head-of-preparedness/) (2025-12-28)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Langfuse (YC W23) Is Hiring in Berlin, Germany](https://langfuse.com/careers) (2025-12-28)
-- [Growing up in “404 Not Found”: China's nuclear city in the Gobi Desert](https://substack.com/inbox/post/182743659) (2025-12-28)
-- [C++ says “We have try at home”](https://devblogs.microsoft.com/oldnewthing/20251222-00/?p=111890) (2025-12-28)
-- [Calendar](https://neatnik.net/calendar/?year=2026) (2025-12-28)
-- [Dialtone – AOL 3.0 Server](https://dialtone.live/) (2025-12-28)
+- [Deathbed Advice/Regret](https://hazn.com/deathbed-regret) (2025-12-28)
+- [A "Prime" View of HN](https://dosaygo-studio.github.io/prime-news/index.html) (2025-12-28)
+- [tc-ematch(8) extended matches for use with "basic", "cgroup" or "flow" filters](https://man7.org/linux/man-pages/man8/tc-ematch.8.html) (2025-12-28)
+- [Scientists discover beer bottle in the Mariana Trench (2024)](https://www.unilad.com/news/scientist-beer-bottle-deepest-point-ocean-mariana-trench-667878-20240213) (2025-12-28)
+- [Designing Predictable LLM-Verifier Systems for Formal Method Guarantee](https://arxiv.org/abs/2512.02080) (2025-12-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Ubisoft shuts down ‘Rainbow Six Siege’ servers following hack](https://www.theverge.com/news/850551/ubisoft-shuts-down-rainbow-six-siege-servers-following-hack) (2025-12-28)
+- [The best PS5 games from 2025](https://www.theverge.com/games/846828/ps5-best-games-2025) (2025-12-28)
 - [Two new wireless Samsung speakers for 2026 lean into aesthetics](https://www.theverge.com/news/850481/two-new-wireless-samsung-speakers-for-2026-lean-into-aesthetics) (2025-12-27)
 - [Sam Altman is hiring someone to worry about the dangers of AI](https://www.theverge.com/news/850537/sam-altman-openai-head-of-preparedness) (2025-12-27)
 - [Pixel 10 phones and Switch 2 games round out this week’s best deals ](https://www.theverge.com/gadgets/850390/google-pixel-10-anker-laptop-power-bank-nintendo-switch-game-sale-deal-sale) (2025-12-27)
-- [8 great games for your Steam Deck from 2025](https://www.theverge.com/entertainment/842024/steam-deck-best-games-2025-verified-playable-valve) (2025-12-27)
-- [Trump’s war on offshore wind faces another lawsuit](https://www.theverge.com/news/850461/offshore-wind-trump-lawsuit-dominion-energy-ai-data-center) (2025-12-26)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Ring Around the Rosie: Upgrading Next.js on RISC-V from 13.5.6 to 14.2.35](https://dev.to/gounthar/the-ring-around-the-rosie-upgrading-nextjs-on-risc-v-from-1356-to-14235-maj) (2025-12-28)
-- [AWS VPC PROJECT](https://dev.to/amandaigwe/aws-vpc-project-e4) (2025-12-28)
-- [Racing Against the Algorithm](https://dev.to/rawveg/racing-against-the-algorithm-57p1) (2025-12-28)
-- [Repository Pattern in Laravel: Clean Up Your Messy Code](https://dev.to/laravel_mastery_ffd9d10ec/repository-pattern-in-laravel-clean-up-your-messy-code-10ed) (2025-12-28)
-- [Building Tamper-Evident Audit Trails for Algorithmic Trading: A Deep Dive into Hash Chains and Merkle Trees](https://dev.to/veritaschain/building-tamper-evident-audit-trails-for-algorithmic-trading-a-deep-dive-into-hash-chains-and-3lh6) (2025-12-28)
+- [Building Secure Session-Based Authentication in NestJS - Part 1](https://dev.to/juanpeyrot/building-secure-session-based-authentication-in-nestjs-3o1p) (2025-12-28)
+- [🧰 I Built a Free Online Toolbox with 80+ Tools (TXToolbox) webdev productivity tools sideproject](https://dev.to/txtoolbox/i-built-a-free-online-toolbox-with-80-tools-txtoolboxwebdevproductivitytoolssideproject-42eg) (2025-12-28)
+- [Why "Just Coding" Won't Save You in 2026 (My Take on Akshay Saini's Advice)](https://dev.to/ashwinhegde19/why-just-coding-wont-save-you-in-2026-my-take-on-akshay-sainis-advice-5bp7) (2025-12-28)
+- [Why Universities Should Encourage Students to Build Digital Portfolios](https://dev.to/imtaslim/why-universities-should-encourage-students-to-build-digital-portfolios-4khd) (2025-12-28)
+- [Ethereum-Solidity Quiz Q7: What is the "solc optimizer" in Solidity?](https://dev.to/mihaihng/ethereum-solidity-quiz-q7-what-is-the-solc-optimizer-in-solidity-11ja) (2025-12-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why ChatGPT Feels Instant While Other AI Apps Lag](https://medium.com/@pmLearners/why-chatgpt-feels-instant-while-other-ai-apps-lag-11648a947d24?source=rss------programming-5) (2025-12-28)
-- [Will Artificial Intelligence Take Away Human Purpose?](https://medium.com/@govinddwivedi9335/will-artificial-intelligence-take-away-human-purpose-048d9235f0c3?source=rss------programming-5) (2025-12-28)
-- [Biggest Live Hacking Event of the Year(15000$+)](https://anontriager.medium.com/biggest-live-hacking-event-of-the-year-15000-5e63a1357e27?source=rss------programming-5) (2025-12-28)
-- [What I’ve Learned From Documenting My Journey](https://medium.com/@suryanilestari_1002/what-ive-learned-from-documenting-my-journey-5bf31d6fccb0?source=rss------programming-5) (2025-12-28)
-- [7 C Features I Ignored for Years — Until They Made My Code Blazing Fast](https://aws.plainenglish.io/7-c-features-i-ignored-for-years-until-they-made-my-code-blazing-fast-b62e51aa0cef?source=rss------programming-5) (2025-12-28)
+- [Confusion Matrix 101: Decoding Your Model’s Success and Failures](https://medium.com/@snehakumari051506/confusion-matrix-101-decoding-your-models-success-and-failures-9c5f12ad5fde?source=rss------programming-5) (2025-12-28)
+- [Building a Self-Learning Trading Bot: My Journey from Simple Scripts to AI-Powered Automation](https://medium.com/@jsgastoniriartecabrera/building-a-self-learning-trading-bot-my-journey-from-simple-scripts-to-ai-powered-automation-2573195dd4ac?source=rss------programming-5) (2025-12-28)
+- [From Text to Executable #2](https://levelup.gitconnected.com/from-text-to-executable-2-a254f5b8e4ea?source=rss------programming-5) (2025-12-28)
+- [The RIGHT Way to Use HttpClient in .NET](https://medium.com/@mariammaurice/the-right-way-to-use-httpclient-in-net-299f5554f4bf?source=rss------programming-5) (2025-12-28)
+- [Implementing A Custom Authorization Handler In ASP.NET Core | Permission Authorization — .NET 10](https://medium.com/@michaelmaurice410/implementing-a-custom-authorization-handler-in-asp-net-core-permission-authorization-net-10-23dbf78977a1?source=rss------programming-5) (2025-12-28)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
+- [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 - [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
 - [Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025](https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/) (2025-12-10)
-- [Microsoft’s commitment to supporting cloud infrastructure demand in the United States](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/) (2025-12-09)
-- [New options for AI-powered innovation, resiliency, and control with Microsoft Azure](https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/) (2025-12-03)
 
 </details>
 
@@ -572,11 +572,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Breaking the Hardware Barrier: Software FP8 for Older GPUs](https://towardsdatascience.com/breaking-the-hardware-barrier-software-fp8-for-older-gpus/) (2025-12-28)
+- [Hugging Face Transformers in Action: Learning How To Leverage AI for NLP](https://towardsdatascience.com/hugging-face-transformers-in-action-learning-how-to-leverage-ai-for-nlp/) (2025-12-28)
 - [Exploring TabPFN: A Foundation Model Built for Tabular Data](https://towardsdatascience.com/exploring-tabpfn-a-foundation-model-built-for-tabular-data/) (2025-12-27)
 - [How IntelliNode Automates Complex Workflows with Vibe Agents](https://towardsdatascience.com/agents-that-write-agents/) (2025-12-27)
 - [Think Your Python Code Is Slow? Stop Guessing and Start Measuring](https://towardsdatascience.com/think-your-python-code-is-slow-stop-guessing-and-start-measuring/) (2025-12-26)
-- [How to Build an AI-Powered Weather ETL Pipeline with Databricks and GPT-4o: From API To Dashboard](https://towardsdatascience.com/how-to-build-an-ai-powered-weather-etl-pipeline-with-databricks-and-gpt-4o-from-api-to-dashboard/) (2025-12-26)
-- [Keeping Probabilities Honest: The Jacobian Adjustment](https://towardsdatascience.com/keeping-probabilities-honest-the-jacobian-adjustment/) (2025-12-25)
 
 </details>
 
