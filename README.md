@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Langfuse (YC W23) Is Hiring in Berlin, Germany](https://langfuse.com/careers) (2025-12-28)
+- [Growing up in “404 Not Found”: China's nuclear city in the Gobi Desert](https://substack.com/inbox/post/182743659) (2025-12-28)
+- [C++ says “We have try at home”](https://devblogs.microsoft.com/oldnewthing/20251222-00/?p=111890) (2025-12-28)
 - [Calendar](https://neatnik.net/calendar/?year=2026) (2025-12-28)
 - [Dialtone – AOL 3.0 Server](https://dialtone.live/) (2025-12-28)
-- [Fathers’ choices may be packaged and passed down in sperm RNA](https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/) (2025-12-28)
-- [Replacing JavaScript with Just HTML](https://www.htmhell.dev/adventcalendar/2025/27/) (2025-12-28)
-- [Functional programming and reliability: ADTs, safety, critical infrastructure](https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure) (2025-12-28)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why I Built a Desktop Email Automation Tool Instead of Another SaaS](https://dev.to/arezdev/why-i-built-a-desktop-email-automation-tool-instead-of-another-saas-3hod) (2025-12-28)
-- [What I Learned Testing MCPs Across Claude, Cursor, and Replit](https://dev.to/deepika_n_417a1b69443e2bd/what-i-learned-testing-mcps-across-claude-cursor-and-replit-10mf) (2025-12-28)
-- [A Frontend for Stable Diffusion CPP](https://dev.to/fabricio3g/a-frontend-for-stable-diffusion-cpp-2bnm) (2025-12-28)
-- [Automatically Post Incoming Emails with attachments to Facebook Using n8n](https://dev.to/prajwolshrestha/automatically-post-incoming-emails-with-attachments-to-facebook-using-n8n-5hgd) (2025-12-28)
-- [The Secret Life of Go: Packages and Structure](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-packages-and-structure-d30) (2025-12-28)
+- [The Ring Around the Rosie: Upgrading Next.js on RISC-V from 13.5.6 to 14.2.35](https://dev.to/gounthar/the-ring-around-the-rosie-upgrading-nextjs-on-risc-v-from-1356-to-14235-maj) (2025-12-28)
+- [AWS VPC PROJECT](https://dev.to/amandaigwe/aws-vpc-project-e4) (2025-12-28)
+- [Racing Against the Algorithm](https://dev.to/rawveg/racing-against-the-algorithm-57p1) (2025-12-28)
+- [Repository Pattern in Laravel: Clean Up Your Messy Code](https://dev.to/laravel_mastery_ffd9d10ec/repository-pattern-in-laravel-clean-up-your-messy-code-10ed) (2025-12-28)
+- [Building Tamper-Evident Audit Trails for Algorithmic Trading: A Deep Dive into Hash Chains and Merkle Trees](https://dev.to/veritaschain/building-tamper-evident-audit-trails-for-algorithmic-trading-a-deep-dive-into-hash-chains-and-3lh6) (2025-12-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Debugging my thinking, not my code.](https://medium.com/@NitkarshChourasia/debugging-my-thinking-not-my-code-a51178bcb7de?source=rss------programming-5) (2025-12-28)
-- [Noticed how Zoom degrades video quality instead of freezing you mid-talk?](https://medium.com/@NitkarshChourasia/noticed-how-zoom-degrades-video-quality-instead-of-freezing-you-mid-talk-645eb07c097c?source=rss------programming-5) (2025-12-28)
-- [The Complete Strategic & Technical Guide to Single-Cell Lineage Tracing and Phylogenetic…](https://medium.com/@aditrizky052/the-complete-strategic-technical-guide-to-single-cell-lineage-tracing-and-phylogenetic-6f1b30c6c0dd?source=rss------programming-5) (2025-12-28)
-- [Linux PrivEsc: Stop Looking for Kernel Exploits and Check Your Permissions](https://sinhaamrit.medium.com/linux-privesc-weak-permissions-guide-by-sinhaamrit-dcbdc0df236e?source=rss------programming-5) (2025-12-28)
-- [ Why Date Is JavaScript’s Most Dangerous Built-in Object](https://blog.stackademic.com/why-date-is-javascripts-most-dangerous-built-in-object-4deeae555cb9?source=rss------programming-5) (2025-12-28)
+- [Why ChatGPT Feels Instant While Other AI Apps Lag](https://medium.com/@pmLearners/why-chatgpt-feels-instant-while-other-ai-apps-lag-11648a947d24?source=rss------programming-5) (2025-12-28)
+- [Will Artificial Intelligence Take Away Human Purpose?](https://medium.com/@govinddwivedi9335/will-artificial-intelligence-take-away-human-purpose-048d9235f0c3?source=rss------programming-5) (2025-12-28)
+- [Biggest Live Hacking Event of the Year(15000$+)](https://anontriager.medium.com/biggest-live-hacking-event-of-the-year-15000-5e63a1357e27?source=rss------programming-5) (2025-12-28)
+- [What I’ve Learned From Documenting My Journey](https://medium.com/@suryanilestari_1002/what-ive-learned-from-documenting-my-journey-5bf31d6fccb0?source=rss------programming-5) (2025-12-28)
+- [7 C Features I Ignored for Years — Until They Made My Code Blazing Fast](https://aws.plainenglish.io/7-c-features-i-ignored-for-years-until-they-made-my-code-blazing-fast-b62e51aa0cef?source=rss------programming-5) (2025-12-28)
 
 </details>
 
@@ -130,11 +130,22 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
-- [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 - [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
 - [Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025](https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/) (2025-12-10)
+- [Microsoft’s commitment to supporting cloud infrastructure demand in the United States](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/) (2025-12-09)
+- [New options for AI-powered innovation, resiliency, and control with Microsoft Azure](https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/) (2025-12-03)
+
+</details>
+
+<details>
+<summary>🎮 NVIDIA Blog</summary>
+
+- [Make Spirits Bright With Holiday Hits on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-holiday-2025/) (2025-12-25)
+- [Marine Biological Laboratory Explores Human Memory With AI and Virtual Reality](https://blogs.nvidia.com/blog/mbl-human-memory-ai-vr-rtx/) (2025-12-22)
+- [NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Landmark Genesis Mission](https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/) (2025-12-18)
+- [Now Generally Available, NVIDIA RTX PRO 5000 72GB Blackwell GPU Expands Memory Options for Desktop Agentic AI](https://blogs.nvidia.com/blog/rtx-pro-5000-72gb-blackwell-gpu/) (2025-12-18)
+- [Deck the Vaults: ‘Fallout: New Vegas’ Joins the Cloud This Holiday Season](https://blogs.nvidia.com/blog/geforce-now-thursday-fallout-new-vegas/) (2025-12-18)
 
 </details>
 
@@ -572,11 +583,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Google A2UI Explained: How AI Agents Build Secure, Native User Interfaces](https://www.analyticsvidhya.com/blog/2025/12/google-a2ui-explained/) (2025-12-28)
 - [LangChain: A Comprehensive Beginner’s Guide ](https://www.analyticsvidhya.com/blog/2025/12/langchain-beginners-guide/) (2025-12-28)
 - [Data Analyst Learning Path 2026](https://www.analyticsvidhya.com/blog/2025/12/data-analyst-learning-path/) (2025-12-27)
 - [Top 6 YouTube Channels to Learn SQL](https://www.analyticsvidhya.com/blog/2025/12/youtube-channels-to-learn-sql/) (2025-12-27)
 - [Build AI Agents with RapidAPI for Real-Time Data](https://www.analyticsvidhya.com/blog/2025/12/build-ai-agents-with-rapidapi-for-real-time-data/) (2025-12-26)
-- [Build Your Own NotebookLlama: A PDF to Podcast Pipeline (Open, Fast, and Fully Yours)](https://www.analyticsvidhya.com/blog/2025/12/build-your-own-notebookllama/) (2025-12-26)
 
 </details>
 
