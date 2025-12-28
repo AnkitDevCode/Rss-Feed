@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Best Apple Watch apps for boosting your productivity](https://techcrunch.com/2025/12/27/best-apple-watch-apps-for-boosting-your-productivity/) (2025-12-28)
 - [India startup funding hits $11B in 2025 as investors grow more selective](https://techcrunch.com/2025/12/27/india-startup-funding-hits-11b-in-2025-as-investors-grow-more-selective/) (2025-12-28)
 - [FaZe Clan’s future is uncertain after influencers depart](https://techcrunch.com/2025/12/27/faze-clans-future-is-uncertain-after-influencers-depart/) (2025-12-27)
 - [Trump administration seeks to deport hate speech researcher previously sued by X](https://techcrunch.com/2025/12/27/trump-administration-seeks-to-deport-hate-speech-researcher-previously-sued-by-x/) (2025-12-27)
 - [Investors share what to remember while raising a Series A](https://techcrunch.com/2025/12/27/investors-share-what-to-remember-while-raising-a-series-a/) (2025-12-27)
-- [Meet the team that investigates when journalists and activists get hacked with government spyware](https://techcrunch.com/2025/12/27/meet-the-team-that-investigates-when-journalists-and-activists-get-hacked-with-government-spyware/) (2025-12-27)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Why Reliability Demands Functional Programming](https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure) (2025-12-28)
-- [Show HN: Waycore – an open-source, offline-first modular field computer](https://news.ycombinator.com/item?id=46406486) (2025-12-27)
-- [7- and 14-segment fonts "DSEG"](https://www.keshikan.net/fonts.html) (2025-12-27)
-- [The Dangers of SSL Certificates](https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/) (2025-12-27)
-- [How We Found Out About COINTELPRO (2014)](https://monthlyreview.org/articles/how-we-found-out-about-cointelpro/) (2025-12-27)
+- [Calendar](https://neatnik.net/calendar/?year=2026) (2025-12-28)
+- [Dialtone – AOL 3.0 Server](https://dialtone.live/) (2025-12-28)
+- [Fathers’ choices may be packaged and passed down in sperm RNA](https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/) (2025-12-28)
+- [Replacing JavaScript with Just HTML](https://www.htmhell.dev/adventcalendar/2025/27/) (2025-12-28)
+- [Functional programming and reliability: ADTs, safety, critical infrastructure](https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure) (2025-12-28)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Deploying a Serverless AI Agent with AWS Bedrock, Lambda, and API Gateway](https://dev.to/swat_24/deploying-a-serverless-ai-agent-with-aws-bedrock-lambda-and-api-gateway-2123) (2025-12-28)
-- [How to configure unattended-upgrades on openSUSE Leap](https://dev.to/jdrch/how-to-configure-unattended-upgrades-on-opensuse-leap-5hb7) (2025-12-28)
-- [Hello dev.to! I’m a Python & Django Web Developer Looking for Opportunities](https://dev.to/dkonti/hello-devto-im-a-python-django-web-developer-looking-for-opportunities-1449) (2025-12-28)
-- [I’m a web developer specializing in Python and Django, with experience in both frontend and backend development. I’m currently looking for job opportunities and would appreciate any support or leads. Thanks!](https://dev.to/dkonti/im-a-web-developer-specializing-in-python-and-django-with-experience-in-both-frontend-and-backend-13j3) (2025-12-28)
-- [**The FaZe Clan Conundrum: Navigating Uncertainty in the Esports Industry**](https://dev.to/yagyaraj_sharma_6cd410179/the-faze-clan-conundrum-navigating-uncertainty-in-the-esports-industry-78d) (2025-12-28)
+- [Why I Built a Desktop Email Automation Tool Instead of Another SaaS](https://dev.to/arezdev/why-i-built-a-desktop-email-automation-tool-instead-of-another-saas-3hod) (2025-12-28)
+- [What I Learned Testing MCPs Across Claude, Cursor, and Replit](https://dev.to/deepika_n_417a1b69443e2bd/what-i-learned-testing-mcps-across-claude-cursor-and-replit-10mf) (2025-12-28)
+- [A Frontend for Stable Diffusion CPP](https://dev.to/fabricio3g/a-frontend-for-stable-diffusion-cpp-2bnm) (2025-12-28)
+- [Automatically Post Incoming Emails with attachments to Facebook Using n8n](https://dev.to/prajwolshrestha/automatically-post-incoming-emails-with-attachments-to-facebook-using-n8n-5hgd) (2025-12-28)
+- [The Secret Life of Go: Packages and Structure](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-packages-and-structure-d30) (2025-12-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [9 Python Libraries That Feel Like Secret Weapons](https://python.plainenglish.io/9-python-libraries-that-feel-like-secret-weapons-cbc171ffe3e2?source=rss------programming-5) (2025-12-28)
-- [How to Establish a JDBC Connection in Java — Step by Step](https://medium.com/@sunil17bbmp/how-to-establish-a-jdbc-connection-in-java-step-by-step-a65a7bfa0732?source=rss------programming-5) (2025-12-28)
-- [How to Make a 7B Model Faster Than Most Cloud APIs (On a Laptop)](https://medium.com/write-a-catalyst/how-to-make-a-7b-model-faster-than-most-cloud-apis-on-a-laptop-0a3e46de429e?source=rss------programming-5) (2025-12-28)
-- [The API Design Mistakes That Cost Us Months](https://medium.com/write-a-catalyst/the-api-design-mistakes-that-cost-us-months-b81f77945db9?source=rss------programming-5) (2025-12-28)
-- [Someone Built grep With Semantic Matching (Using LLMs as the Pattern Matcher)](https://medium.com/write-a-catalyst/someone-built-grep-with-semantic-matching-using-llms-as-the-pattern-matcher-a32b3538aff3?source=rss------programming-5) (2025-12-28)
+- [Debugging my thinking, not my code.](https://medium.com/@NitkarshChourasia/debugging-my-thinking-not-my-code-a51178bcb7de?source=rss------programming-5) (2025-12-28)
+- [Noticed how Zoom degrades video quality instead of freezing you mid-talk?](https://medium.com/@NitkarshChourasia/noticed-how-zoom-degrades-video-quality-instead-of-freezing-you-mid-talk-645eb07c097c?source=rss------programming-5) (2025-12-28)
+- [The Complete Strategic & Technical Guide to Single-Cell Lineage Tracing and Phylogenetic…](https://medium.com/@aditrizky052/the-complete-strategic-technical-guide-to-single-cell-lineage-tracing-and-phylogenetic-6f1b30c6c0dd?source=rss------programming-5) (2025-12-28)
+- [Linux PrivEsc: Stop Looking for Kernel Exploits and Check Your Permissions](https://sinhaamrit.medium.com/linux-privesc-weak-permissions-guide-by-sinhaamrit-dcbdc0df236e?source=rss------programming-5) (2025-12-28)
+- [ Why Date Is JavaScript’s Most Dangerous Built-in Object](https://blog.stackademic.com/why-date-is-javascripts-most-dangerous-built-in-object-4deeae555cb9?source=rss------programming-5) (2025-12-28)
 
 </details>
 
@@ -130,22 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
 - [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 - [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
 - [Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025](https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/) (2025-12-10)
-- [Microsoft’s commitment to supporting cloud infrastructure demand in the United States](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/) (2025-12-09)
-
-</details>
-
-<details>
-<summary>🎮 NVIDIA Blog</summary>
-
-- [Make Spirits Bright With Holiday Hits on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-holiday-2025/) (2025-12-25)
-- [Marine Biological Laboratory Explores Human Memory With AI and Virtual Reality](https://blogs.nvidia.com/blog/mbl-human-memory-ai-vr-rtx/) (2025-12-22)
-- [NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Landmark Genesis Mission](https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/) (2025-12-18)
-- [Now Generally Available, NVIDIA RTX PRO 5000 72GB Blackwell GPU Expands Memory Options for Desktop Agentic AI](https://blogs.nvidia.com/blog/rtx-pro-5000-72gb-blackwell-gpu/) (2025-12-18)
-- [Deck the Vaults: ‘Fallout: New Vegas’ Joins the Cloud This Holiday Season](https://blogs.nvidia.com/blog/geforce-now-thursday-fallout-new-vegas/) (2025-12-18)
 
 </details>
 
@@ -484,11 +473,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
-- [Developer Edition + スクラッチ組織で、複数の開発・検証組織を手にいれる](https://developer.salesforce.com/blogs/2025/12/jp-scratch-org-with-developer-edition.html) (2025-12-26)
-- [プロから学ぶ、Agentforce Vibesを使いこなす5つのヒント](https://developer.salesforce.com/blogs/2025/12/jp-five-pro-tips-for-using-agentforce-vibes.html) (2025-12-25)
 - [新しいサンプルアプリ「Agent Script Recipes」でハイブリッド推論をマスター](https://developer.salesforce.com/blogs/2025/12/jp-master-hybrid-reasoning-with-the-new-agent-script-recipes-sample-app.html) (2025-12-24)
 - [Build Composable Storefronts Smarter and Faster with the PWA Kit MCP Server](https://developer.salesforce.com/blogs/2025/12/build-composable-storefronts-smarter-and-faster-with-the-pwa-kit-mcp-server.html) (2025-12-23)
 - [AgentforceデータライブラリーからAIエージェントのテストケースを自動生成](https://developer.salesforce.com/blogs/2025/12/jp-auto-generate-agent-test-cases-from-agentforce-data-libraries.html) (2025-12-23)
+- [【Agentforce Hackathon Tokyo】第 1 位 Lightning Brightning: Agentforce と Tableau で革新するデータ駆動型ソリューション「Beauty Cloud」](https://developer.salesforce.com/blogs/2025/12/agentforce_hackathon_tokyo_2025_1st.html) (2025-12-22)
+- [Agentforceで会話履歴を活用して、マルチターンのAIエージェントテストを自動化](https://developer.salesforce.com/blogs/2025/12/jp-automate-multi-turn-agent-testing-with-conversation-history-in-agentforce.html) (2025-12-18)
 
 </details>
 
@@ -583,11 +572,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [LangChain: A Comprehensive Beginner’s Guide ](https://www.analyticsvidhya.com/blog/2025/12/langchain-beginners-guide/) (2025-12-28)
 - [Data Analyst Learning Path 2026](https://www.analyticsvidhya.com/blog/2025/12/data-analyst-learning-path/) (2025-12-27)
 - [Top 6 YouTube Channels to Learn SQL](https://www.analyticsvidhya.com/blog/2025/12/youtube-channels-to-learn-sql/) (2025-12-27)
 - [Build AI Agents with RapidAPI for Real-Time Data](https://www.analyticsvidhya.com/blog/2025/12/build-ai-agents-with-rapidapi-for-real-time-data/) (2025-12-26)
 - [Build Your Own NotebookLlama: A PDF to Podcast Pipeline (Open, Fast, and Fully Yours)](https://www.analyticsvidhya.com/blog/2025/12/build-your-own-notebookllama/) (2025-12-26)
-- [Is Mistral OCR 3 the Best OCR Model?](https://www.analyticsvidhya.com/blog/2025/12/mistral-ocr-3/) (2025-12-25)
 
 </details>
 
