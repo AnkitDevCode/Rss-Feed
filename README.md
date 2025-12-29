@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [You’ve been targeted by government spyware. Now what?](https://techcrunch.com/2025/12/29/youve-been-targeted-by-government-spyware-now-what/) (2025-12-29)
 - [Sauron, the high-end home security startup for “super premium” customers, plucks a new CEO out of Sonos](https://techcrunch.com/2025/12/28/from-sonos-to-sauron-new-ceo-takes-on-high-end-home-security-startup-still-in-development/) (2025-12-29)
 - [Police charge driver who allegedly killed a pedestrian while livestreaming on TikTok](https://techcrunch.com/2025/12/28/police-charge-driver-who-allegedly-killed-a-pedestrian-while-livestreaming-on-tiktok/) (2025-12-28)
 - [You may soon be able to change your Gmail address](https://techcrunch.com/2025/12/28/you-may-soon-be-able-to-change-your-gmail-address/) (2025-12-28)
 - [A guide to choosing the right Apple Watch](https://techcrunch.com/2025/12/28/is-the-apple-watch-se-3-a-good-deal/) (2025-12-28)
-- [Why WeTransfer’s co-founder is building another file transfer service](https://techcrunch.com/2025/12/28/why-wetransfer-co-founder-is-building-another-file-transfer-service/) (2025-12-28)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Kubernetes egress control with squid proxy](https://interlaye.red/kubernetes_002degress_002dsquid.html) (2025-12-29)
+- [Feynman's Hughes Lectures: 950 pages of notes](https://thehugheslectures.info/the-lectures/) (2025-12-29)
+- [Asking Gemini 3 to generate Brainfuck code results in an infinite loop](https://teodordyakov.github.io/brainfuck-agi/) (2025-12-29)
 - [Staying ahead of censors in 2025](https://forum.torproject.org/t/staying-ahead-of-censors-in-2025-what-weve-learned-from-fighting-censorship-in-iran-and-russia/20898) (2025-12-29)
-- [Binaries](https://fzakaria.com/2025/12/28/huge-binaries) (2025-12-29)
-- [John Simpson: 'I've reported on 40 wars but I've never seen a year like 2025'](https://www.bbc.com/news/articles/cj4qp17e1lqo) (2025-12-29)
-- [My First Meshtastic Network](https://rickcarlino.com/notes/electronics/my-first-meshtastic-network.html) (2025-12-29)
-- [Why I think Valve’s retiring the Steam Deck LCD](https://gardinerbryant.com/why-valves-retiring-the-steam-deck-lcd/) (2025-12-29)
+- [Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB](https://github.com/HarryR/z80ai) (2025-12-29)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Google Photos is coming to Samsung TVs in 2026](https://www.theverge.com/news/850594/samsung-tv-google-photos-integration-2026) (2025-12-29)
 - [LG announces new UltraGear evo gaming monitors with AI upscaling](https://www.theverge.com/tech/850572/lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling) (2025-12-28)
 - [You need to read the subversive cosmic horror novella The Ballad of Black Tom](https://www.theverge.com/column/850564/subversive-cosmic-horror-the-ballad-of-black-tom-victor-lavalle) (2025-12-28)
 - [The terrible Nintendo controller that helped make VR happen](https://www.theverge.com/podcast/850556/nintendo-power-glove-version-history) (2025-12-28)
 - [Ubisoft shuts down ‘Rainbow Six Siege’ servers following hack](https://www.theverge.com/news/850551/ubisoft-shuts-down-rainbow-six-siege-servers-following-hack) (2025-12-28)
-- [The best PS5 games from 2025](https://www.theverge.com/games/846828/ps5-best-games-2025) (2025-12-28)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Bangladesh’s garment-making industry is getting greener](https://www.technologyreview.com/2025/12/29/1129308/bangladesh-garment-sustainability-frugal-factories/) (2025-12-29)
 - [MIT Technology Review’s most popular stories of 2025](https://www.technologyreview.com/2025/12/26/1130318/mit-technology-review-most-popular-stories-2025/) (2025-12-26)
 - [The paints, coatings, and chemicals making the world a cooler place](https://www.technologyreview.com/2025/12/26/1129301/paint-coating-chemicals-materials-cooling-air-conditioning/) (2025-12-26)
 - [AI Wrapped: The 14 AI terms you couldn’t avoid in 2025](https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/) (2025-12-25)
 - [Meet the man hunting the spies in your smartphone](https://www.technologyreview.com/2025/12/24/1129294/ronald-deibert-citizen-lab-digital-threats-spies-cybersecurity/) (2025-12-24)
-- [Four bright spots in climate news in 2025](https://www.technologyreview.com/2025/12/24/1130191/good-climate-news-2025/) (2025-12-24)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building a Mobile Tool After Facing Media Quality Issues as a Content Creator](https://dev.to/abdul_wahab_fe886de9acd8a/building-a-mobile-tool-after-facing-media-quality-issues-as-a-content-creator-3bo3) (2025-12-29)
-- [Why level up mag articles Are a Must-Read for Innovators and Creators](https://dev.to/levelup_magzine_abd2554b8/why-level-up-mag-articles-are-a-must-read-for-innovators-and-creators-3p7) (2025-12-29)
-- [My Substack Automation Journey](https://dev.to/dharmikk_baria_51b371d8c5/my-substack-automation-journey-fd0) (2025-12-29)
-- [How to Use Regex for Data Validation in the BoldSign API](https://dev.to/boldsign/how-to-use-regex-for-data-validation-in-the-boldsign-api-2j35) (2025-12-29)
-- [Accidental Research Before 20s: How It Started](https://dev.to/devamanali/accidental-research-at-15-how-it-started-2iii) (2025-12-29)
+- [WBS vs Agile? There's No Such Opposition](https://dev.to/_jeongyuhyeon_03de1/wbs-vs-agile-theres-no-such-opposition-51b9) (2025-12-29)
+- [🌐 Strengthening the Security Pillar of the AWS Well-Architected Framework: Introducing EC2 Instance Attestation](https://dev.to/morekiranp/strengthening-the-security-pillar-of-the-aws-well-architected-framework-introducing-ec2-instance-4mcb) (2025-12-29)
+- [How To Automatically Submit Sitemap To Google Programmatically](https://dev.to/eunit/how-to-automatically-submit-sitemap-to-google-programmatically-1gbn) (2025-12-29)
+- [Salesforce integration failures with external systems](https://dev.to/selavina_b_de3b87f13c96a6/salesforce-integration-failures-with-external-systems-4n5a) (2025-12-29)
+- [Tech Horror Codex: Substrate Sovereignty](https://dev.to/narnaiezzsshaa/tech-horror-codex-substrate-sovereignty-5fhn) (2025-12-29)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Spring Boot on Kubernetes: What Tutorials Don’t Tell You](https://medium.com/@reyanshicodes/spring-boot-on-kubernetes-what-tutorials-dont-tell-you-f8c93c929b21?source=rss------programming-5) (2025-12-29)
-- [ React Native : Mastering the Power of Fabric & Concurrent Rendering](https://medium.com/@ektakumari8872/react-native-mastering-the-power-of-fabric-concurrent-rendering-a360204dbf9f?source=rss------programming-5) (2025-12-29)
-- [I Built 5 AI Side Projects Before Breakfast](https://ai.plainenglish.io/i-built-5-ai-side-projects-before-breakfast-ca1cdf55dd7d?source=rss------programming-5) (2025-12-29)
-- [I Let AI Rewrite My Entire Python Project — Here’s What Really Happened](https://medium.com/the-pythonworld/i-let-ai-rewrite-my-entire-python-project-heres-what-really-happened-b864afee41c9?source=rss------programming-5) (2025-12-29)
-- [The Internet Is Leaking Secrets in Public Repos ](https://infosecwriteups.com/the-internet-is-leaking-secrets-in-public-repos-0b4f5bc32f87?source=rss------programming-5) (2025-12-29)
+- [Real Cost of Ignoring Test-Driven Development in PHP ](https://medium.com/@StackSoul/real-cost-of-ignoring-test-driven-development-in-php-62303166f590?source=rss------programming-5) (2025-12-29)
+- [Spring AI : RAG](https://chakresh0108.medium.com/spring-ai-rag-33f0a841f7b7?source=rss------programming-5) (2025-12-29)
+- [AI Agents Are Becoming a Problem: Sam Altman’s $555K Warning You Can’t Ignore](https://medium.com/write-a-catalyst/ai-agents-are-becoming-a-problem-sam-altmans-555k-warning-you-can-t-ignore-bb4cf3ef4da6?source=rss------programming-5) (2025-12-29)
+- [Async Python Finally Clicked: The Mental Model Most Tutorials Miss](https://medium.com/pyzilla/asynchronous-programming-python-async-await-asyncio-27cdec81f3e3?source=rss------programming-5) (2025-12-29)
+- [That One Backend Pattern That Makes Real-Time Collaboration Possible](https://medium.com/@Krishnajlathi/that-one-backend-pattern-that-makes-real-time-collaboration-possible-3f7849498ff0?source=rss------programming-5) (2025-12-29)
 
 </details>
 
@@ -572,11 +572,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Implementing Vibe Proving with Reinforcement Learning](https://towardsdatascience.com/implementing-vibe-proving-with-rl/) (2025-12-29)
 - [Breaking the Hardware Barrier: Software FP8 for Older GPUs](https://towardsdatascience.com/breaking-the-hardware-barrier-software-fp8-for-older-gpus/) (2025-12-28)
 - [Hugging Face Transformers in Action: Learning How To Leverage AI for NLP](https://towardsdatascience.com/hugging-face-transformers-in-action-learning-how-to-leverage-ai-for-nlp/) (2025-12-28)
 - [Exploring TabPFN: A Foundation Model Built for Tabular Data](https://towardsdatascience.com/exploring-tabpfn-a-foundation-model-built-for-tabular-data/) (2025-12-27)
 - [How IntelliNode Automates Complex Workflows with Vibe Agents](https://towardsdatascience.com/agents-that-write-agents/) (2025-12-27)
-- [Think Your Python Code Is Slow? Stop Guessing and Start Measuring](https://towardsdatascience.com/think-your-python-code-is-slow-stop-guessing-and-start-measuring/) (2025-12-26)
 
 </details>
 
@@ -605,11 +605,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [5 Python Libraries for Advanced Time Series Forecasting](https://machinelearningmastery.com/5-python-libraries-for-advanced-time-series-forecasting/) (2025-12-29)
 - [Training a Model on Multiple GPUs with Data Parallelism](https://machinelearningmastery.com/training-a-model-on-multiple-gpus-with-data-parallelism/) (2025-12-26)
 - [Train a Model Faster with torch.compile and Gradient Accumulation](https://machinelearningmastery.com/train-a-model-faster-with-torch-compile-and-gradient-accumulation/) (2025-12-25)
 - [Training a Model with Limited Memory using Mixed Precision and Gradient Checkpointing](https://machinelearningmastery.com/training-a-model-with-limited-memory-using-mixed-precision-and-gradient-checkpointing/) (2025-12-24)
 - [Practical Agentic Coding with Google Jules](https://machinelearningmastery.com/practical-agentic-coding-with-google-jules/) (2025-12-24)
-- [Evaluating Perplexity on Language Models](https://machinelearningmastery.com/evaluating-perplexity-on-language-models/) (2025-12-23)
 
 </details>
 
