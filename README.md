@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Why WeTransfer co-founder is building another file transfer service](https://techcrunch.com/2025/12/28/why-wetransfer-co-founder-is-building-another-file-transfer-service/) (2025-12-28)
+- [Police charge driver who allegedly killed a pedestrian while livestreaming on TikTok](https://techcrunch.com/2025/12/28/police-charge-driver-who-allegedly-killed-a-pedestrian-while-livestreaming-on-tiktok/) (2025-12-28)
+- [You may soon be able to change your Gmail address](https://techcrunch.com/2025/12/28/you-may-soon-be-able-to-change-your-gmail-address/) (2025-12-28)
+- [A guide to choosing the right Apple Watch](https://techcrunch.com/2025/12/28/is-the-apple-watch-se-3-a-good-deal/) (2025-12-28)
+- [Why WeTransfer’s co-founder is building another file transfer service](https://techcrunch.com/2025/12/28/why-wetransfer-co-founder-is-building-another-file-transfer-service/) (2025-12-28)
 - [MayimFlow wants to stop data center leaks before they happen](https://techcrunch.com/2025/12/28/mayimflow-wants-to-stop-data-center-leaks-before-they-happen/) (2025-12-28)
-- [The 33 top health and wellness startups from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/28/the-33-top-health-and-wellness-startups-from-disrupt-startup-battlefield/) (2025-12-28)
-- [The Google Pixel Watch 4 made me like smartwatches again](https://techcrunch.com/2025/12/28/the-google-pixel-watch-4-made-me-like-smartwatches-again/) (2025-12-28)
-- [OpenAI is looking for a new Head of Preparedness](https://techcrunch.com/2025/12/28/openai-is-looking-for-a-new-head-of-preparedness/) (2025-12-28)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Deathbed Advice/Regret](https://hazn.com/deathbed-regret) (2025-12-28)
-- [A "Prime" View of HN](https://dosaygo-studio.github.io/prime-news/index.html) (2025-12-28)
-- [tc-ematch(8) extended matches for use with "basic", "cgroup" or "flow" filters](https://man7.org/linux/man-pages/man8/tc-ematch.8.html) (2025-12-28)
-- [Scientists discover beer bottle in the Mariana Trench (2024)](https://www.unilad.com/news/scientist-beer-bottle-deepest-point-ocean-mariana-trench-667878-20240213) (2025-12-28)
-- [Designing Predictable LLM-Verifier Systems for Formal Method Guarantee](https://arxiv.org/abs/2512.02080) (2025-12-28)
+- [Rich Hickey: Thanks AI](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f) (2025-12-29)
+- [Show HN: My app just won best iOS Japanese learning tool of 2025 award](https://skerritt.blog/best-japanese-learning-tools-2025-award-show/) (2025-12-29)
+- [Fast Cvvdp Implementation in C](https://github.com/halidecx/fcvvdp) (2025-12-28)
+- [How to Complain](https://outerproduct.net/trivial/2024-03-25_complain.html) (2025-12-28)
+- [Spherical Cow](https://lib.rs/crates/spherical-cow) (2025-12-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [LG announces new UltraGear evo gaming monitors with AI upscaling](https://www.theverge.com/tech/850572/lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling) (2025-12-28)
+- [You need to read the subversive cosmic horror novella The Ballad of Black Tom](https://www.theverge.com/column/850564/subversive-cosmic-horror-the-ballad-of-black-tom-victor-lavalle) (2025-12-28)
+- [The terrible Nintendo controller that helped make VR happen](https://www.theverge.com/podcast/850556/nintendo-power-glove-version-history) (2025-12-28)
 - [Ubisoft shuts down ‘Rainbow Six Siege’ servers following hack](https://www.theverge.com/news/850551/ubisoft-shuts-down-rainbow-six-siege-servers-following-hack) (2025-12-28)
 - [The best PS5 games from 2025](https://www.theverge.com/games/846828/ps5-best-games-2025) (2025-12-28)
-- [Two new wireless Samsung speakers for 2026 lean into aesthetics](https://www.theverge.com/news/850481/two-new-wireless-samsung-speakers-for-2026-lean-into-aesthetics) (2025-12-27)
-- [Sam Altman is hiring someone to worry about the dangers of AI](https://www.theverge.com/news/850537/sam-altman-openai-head-of-preparedness) (2025-12-27)
-- [Pixel 10 phones and Switch 2 games round out this week’s best deals ](https://www.theverge.com/gadgets/850390/google-pixel-10-anker-laptop-power-bank-nintendo-switch-game-sale-deal-sale) (2025-12-27)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building Secure Session-Based Authentication in NestJS - Part 1](https://dev.to/juanpeyrot/building-secure-session-based-authentication-in-nestjs-3o1p) (2025-12-28)
-- [🧰 I Built a Free Online Toolbox with 80+ Tools (TXToolbox) webdev productivity tools sideproject](https://dev.to/txtoolbox/i-built-a-free-online-toolbox-with-80-tools-txtoolboxwebdevproductivitytoolssideproject-42eg) (2025-12-28)
-- [Why "Just Coding" Won't Save You in 2026 (My Take on Akshay Saini's Advice)](https://dev.to/ashwinhegde19/why-just-coding-wont-save-you-in-2026-my-take-on-akshay-sainis-advice-5bp7) (2025-12-28)
-- [Why Universities Should Encourage Students to Build Digital Portfolios](https://dev.to/imtaslim/why-universities-should-encourage-students-to-build-digital-portfolios-4khd) (2025-12-28)
-- [Ethereum-Solidity Quiz Q7: What is the "solc optimizer" in Solidity?](https://dev.to/mihaihng/ethereum-solidity-quiz-q7-what-is-the-solc-optimizer-in-solidity-11ja) (2025-12-28)
+- [React Native 0.83 for Production Teams: Better DevTools, Better Tracing, Less Risk](https://dev.to/alissongoulartt/react-native-083-for-production-teams-better-devtools-better-tracing-less-risk-5ggk) (2025-12-29)
+- [Org-Level Email Campaigns are Somehow an Unsolved Problem](https://dev.to/skeptrune/org-level-email-campaigns-are-somehow-an-unsolved-problem-58ga) (2025-12-29)
+- [Go WebSocket Programming: Build Real-Time Apps with Ease](https://dev.to/jones_charles_ad50858dbc0/go-websocket-programming-build-real-time-apps-with-ease-1o57) (2025-12-29)
+- [The emphasis on aligning demand goals with available records is a strong takeaway and reflects Ashkan Rajaee’s structured approach to marketing.](https://dev.to/colesilverstone/the-emphasis-on-aligning-demand-goals-with-available-records-is-a-strong-takeaway-and-reflects-1pi) (2025-12-29)
+- [Building a YouTube Automation System with Claude AI: From News to Shorts in Minutes](https://dev.to/trollz1004/building-a-youtube-automation-system-with-claude-ai-from-news-to-shorts-in-minutes-2bfm) (2025-12-29)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Confusion Matrix 101: Decoding Your Model’s Success and Failures](https://medium.com/@snehakumari051506/confusion-matrix-101-decoding-your-models-success-and-failures-9c5f12ad5fde?source=rss------programming-5) (2025-12-28)
-- [Building a Self-Learning Trading Bot: My Journey from Simple Scripts to AI-Powered Automation](https://medium.com/@jsgastoniriartecabrera/building-a-self-learning-trading-bot-my-journey-from-simple-scripts-to-ai-powered-automation-2573195dd4ac?source=rss------programming-5) (2025-12-28)
-- [From Text to Executable #2](https://levelup.gitconnected.com/from-text-to-executable-2-a254f5b8e4ea?source=rss------programming-5) (2025-12-28)
-- [The RIGHT Way to Use HttpClient in .NET](https://medium.com/@mariammaurice/the-right-way-to-use-httpclient-in-net-299f5554f4bf?source=rss------programming-5) (2025-12-28)
-- [Implementing A Custom Authorization Handler In ASP.NET Core | Permission Authorization — .NET 10](https://medium.com/@michaelmaurice410/implementing-a-custom-authorization-handler-in-asp-net-core-permission-authorization-net-10-23dbf78977a1?source=rss------programming-5) (2025-12-28)
+- [Vibe Coding vs “Real Coding”: Why This Debate Misses the Point](https://medium.com/@albert.botkin/vibe-coding-vs-real-coding-why-this-debate-misses-the-point-574f26ecee52?source=rss------programming-5) (2025-12-29)
+- [Understanding OOPUnderstanding OOP: A Friendly Guide to Object-Oriented Programming](https://kanishkame.medium.com/understanding-oopunderstanding-oop-a-friendly-guide-to-object-oriented-programming-dcda9aa6c7d4?source=rss------programming-5) (2025-12-29)
+- [How to Learn Programming: A Self-Improvement Journey, Not Just a Technical Skill](https://medium.com/@kaltoumstoute464/how-to-learn-programming-a-self-improvement-journey-not-just-a-technical-skill-563015e2d87c?source=rss------programming-5) (2025-12-29)
+- [5 Automation Ideas That Earned Me Time, Confidence, and Unexpected Opportunities](https://medium.com/write-a-catalyst/5-automation-ideas-that-earned-me-time-confidence-and-unexpected-opportunities-69bfd4fd1992?source=rss------programming-5) (2025-12-29)
+- [The Viral Tech Secret: Why Every Senior Dev Is Rethinking Database Design Right Now](https://medium.com/write-a-catalyst/the-viral-tech-secret-why-every-senior-dev-is-rethinking-database-design-right-now-3e5f6669182b?source=rss------programming-5) (2025-12-29)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
-- [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 - [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
 - [Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025](https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/) (2025-12-10)
+- [Microsoft’s commitment to supporting cloud infrastructure demand in the United States](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/) (2025-12-09)
+- [New options for AI-powered innovation, resiliency, and control with Microsoft Azure](https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/) (2025-12-03)
 
 </details>
 
