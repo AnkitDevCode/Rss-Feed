@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Sauron, the high-end home security startup for “super premium” customers, plucks a new CEO out of Sonos](https://techcrunch.com/2025/12/28/from-sonos-to-sauron-new-ceo-takes-on-high-end-home-security-startup-still-in-development/) (2025-12-29)
 - [Police charge driver who allegedly killed a pedestrian while livestreaming on TikTok](https://techcrunch.com/2025/12/28/police-charge-driver-who-allegedly-killed-a-pedestrian-while-livestreaming-on-tiktok/) (2025-12-28)
 - [You may soon be able to change your Gmail address](https://techcrunch.com/2025/12/28/you-may-soon-be-able-to-change-your-gmail-address/) (2025-12-28)
 - [A guide to choosing the right Apple Watch](https://techcrunch.com/2025/12/28/is-the-apple-watch-se-3-a-good-deal/) (2025-12-28)
 - [Why WeTransfer’s co-founder is building another file transfer service](https://techcrunch.com/2025/12/28/why-wetransfer-co-founder-is-building-another-file-transfer-service/) (2025-12-28)
-- [MayimFlow wants to stop data center leaks before they happen](https://techcrunch.com/2025/12/28/mayimflow-wants-to-stop-data-center-leaks-before-they-happen/) (2025-12-28)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Rich Hickey: Thanks AI](https://gist.github.com/richhickey/ea94e3741ff0a4e3af55b9fe6287887f) (2025-12-29)
-- [Show HN: My app just won best iOS Japanese learning tool of 2025 award](https://skerritt.blog/best-japanese-learning-tools-2025-award-show/) (2025-12-29)
-- [Fast Cvvdp Implementation in C](https://github.com/halidecx/fcvvdp) (2025-12-28)
-- [How to Complain](https://outerproduct.net/trivial/2024-03-25_complain.html) (2025-12-28)
-- [Spherical Cow](https://lib.rs/crates/spherical-cow) (2025-12-28)
+- [Staying ahead of censors in 2025](https://forum.torproject.org/t/staying-ahead-of-censors-in-2025-what-weve-learned-from-fighting-censorship-in-iran-and-russia/20898) (2025-12-29)
+- [Binaries](https://fzakaria.com/2025/12/28/huge-binaries) (2025-12-29)
+- [John Simpson: 'I've reported on 40 wars but I've never seen a year like 2025'](https://www.bbc.com/news/articles/cj4qp17e1lqo) (2025-12-29)
+- [My First Meshtastic Network](https://rickcarlino.com/notes/electronics/my-first-meshtastic-network.html) (2025-12-29)
+- [Why I think Valve’s retiring the Steam Deck LCD](https://gardinerbryant.com/why-valves-retiring-the-steam-deck-lcd/) (2025-12-29)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [React Native 0.83 for Production Teams: Better DevTools, Better Tracing, Less Risk](https://dev.to/alissongoulartt/react-native-083-for-production-teams-better-devtools-better-tracing-less-risk-5ggk) (2025-12-29)
-- [Org-Level Email Campaigns are Somehow an Unsolved Problem](https://dev.to/skeptrune/org-level-email-campaigns-are-somehow-an-unsolved-problem-58ga) (2025-12-29)
-- [Go WebSocket Programming: Build Real-Time Apps with Ease](https://dev.to/jones_charles_ad50858dbc0/go-websocket-programming-build-real-time-apps-with-ease-1o57) (2025-12-29)
-- [The emphasis on aligning demand goals with available records is a strong takeaway and reflects Ashkan Rajaee’s structured approach to marketing.](https://dev.to/colesilverstone/the-emphasis-on-aligning-demand-goals-with-available-records-is-a-strong-takeaway-and-reflects-1pi) (2025-12-29)
-- [Building a YouTube Automation System with Claude AI: From News to Shorts in Minutes](https://dev.to/trollz1004/building-a-youtube-automation-system-with-claude-ai-from-news-to-shorts-in-minutes-2bfm) (2025-12-29)
+- [Building a Mobile Tool After Facing Media Quality Issues as a Content Creator](https://dev.to/abdul_wahab_fe886de9acd8a/building-a-mobile-tool-after-facing-media-quality-issues-as-a-content-creator-3bo3) (2025-12-29)
+- [Why level up mag articles Are a Must-Read for Innovators and Creators](https://dev.to/levelup_magzine_abd2554b8/why-level-up-mag-articles-are-a-must-read-for-innovators-and-creators-3p7) (2025-12-29)
+- [My Substack Automation Journey](https://dev.to/dharmikk_baria_51b371d8c5/my-substack-automation-journey-fd0) (2025-12-29)
+- [How to Use Regex for Data Validation in the BoldSign API](https://dev.to/boldsign/how-to-use-regex-for-data-validation-in-the-boldsign-api-2j35) (2025-12-29)
+- [Accidental Research Before 20s: How It Started](https://dev.to/devamanali/accidental-research-at-15-how-it-started-2iii) (2025-12-29)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Vibe Coding vs “Real Coding”: Why This Debate Misses the Point](https://medium.com/@albert.botkin/vibe-coding-vs-real-coding-why-this-debate-misses-the-point-574f26ecee52?source=rss------programming-5) (2025-12-29)
-- [Understanding OOPUnderstanding OOP: A Friendly Guide to Object-Oriented Programming](https://kanishkame.medium.com/understanding-oopunderstanding-oop-a-friendly-guide-to-object-oriented-programming-dcda9aa6c7d4?source=rss------programming-5) (2025-12-29)
-- [How to Learn Programming: A Self-Improvement Journey, Not Just a Technical Skill](https://medium.com/@kaltoumstoute464/how-to-learn-programming-a-self-improvement-journey-not-just-a-technical-skill-563015e2d87c?source=rss------programming-5) (2025-12-29)
-- [5 Automation Ideas That Earned Me Time, Confidence, and Unexpected Opportunities](https://medium.com/write-a-catalyst/5-automation-ideas-that-earned-me-time-confidence-and-unexpected-opportunities-69bfd4fd1992?source=rss------programming-5) (2025-12-29)
-- [The Viral Tech Secret: Why Every Senior Dev Is Rethinking Database Design Right Now](https://medium.com/write-a-catalyst/the-viral-tech-secret-why-every-senior-dev-is-rethinking-database-design-right-now-3e5f6669182b?source=rss------programming-5) (2025-12-29)
+- [Spring Boot on Kubernetes: What Tutorials Don’t Tell You](https://medium.com/@reyanshicodes/spring-boot-on-kubernetes-what-tutorials-dont-tell-you-f8c93c929b21?source=rss------programming-5) (2025-12-29)
+- [ React Native : Mastering the Power of Fabric & Concurrent Rendering](https://medium.com/@ektakumari8872/react-native-mastering-the-power-of-fabric-concurrent-rendering-a360204dbf9f?source=rss------programming-5) (2025-12-29)
+- [I Built 5 AI Side Projects Before Breakfast](https://ai.plainenglish.io/i-built-5-ai-side-projects-before-breakfast-ca1cdf55dd7d?source=rss------programming-5) (2025-12-29)
+- [I Let AI Rewrite My Entire Python Project — Here’s What Really Happened](https://medium.com/the-pythonworld/i-let-ai-rewrite-my-entire-python-project-heres-what-really-happened-b864afee41c9?source=rss------programming-5) (2025-12-29)
+- [The Internet Is Leaking Secrets in Public Repos ](https://infosecwriteups.com/the-internet-is-leaking-secrets-in-public-repos-0b4f5bc32f87?source=rss------programming-5) (2025-12-29)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
+- [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 - [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
 - [Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025](https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/) (2025-12-10)
-- [Microsoft’s commitment to supporting cloud infrastructure demand in the United States](https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/) (2025-12-09)
-- [New options for AI-powered innovation, resiliency, and control with Microsoft Azure](https://azure.microsoft.com/en-us/blog/new-options-for-ai-powered-innovation-resiliency-and-control-with-microsoft-azure/) (2025-12-03)
 
 </details>
 
@@ -583,11 +583,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Track and Monitor AI Agents Using MLflow: Complete Guide for Agentic Systems](https://www.analyticsvidhya.com/blog/2025/12/monitor-ai-agents-with-mlflow/) (2025-12-29)
 - [Google A2UI Explained: How AI Agents Build Secure, Native User Interfaces](https://www.analyticsvidhya.com/blog/2025/12/google-a2ui-explained/) (2025-12-28)
 - [LangChain: A Comprehensive Beginner’s Guide ](https://www.analyticsvidhya.com/blog/2025/12/langchain-beginners-guide/) (2025-12-28)
 - [Data Analyst Learning Path 2026](https://www.analyticsvidhya.com/blog/2025/12/data-analyst-learning-path/) (2025-12-27)
 - [Top 6 YouTube Channels to Learn SQL](https://www.analyticsvidhya.com/blog/2025/12/youtube-channels-to-learn-sql/) (2025-12-27)
-- [Build AI Agents with RapidAPI for Real-Time Data](https://www.analyticsvidhya.com/blog/2025/12/build-ai-agents-with-rapidapi-for-real-time-data/) (2025-12-26)
 
 </details>
 
