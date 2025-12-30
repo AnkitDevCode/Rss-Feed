@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Meta just bought Manus, an AI startup everyone has been talking about](https://techcrunch.com/2025/12/29/meta-just-bought-manus-an-ai-startup-everyone-has-been-talking-about/) (2025-12-30)
-- [How to make your startup stand out in a crowded market, according to investors](https://techcrunch.com/2025/12/29/vcs-spill-what-they-really-want-to-hear-in-a-founder-pitch/) (2025-12-29)
-- [Social media follower counts have never mattered less, creator economy execs say](https://techcrunch.com/2025/12/29/social-media-follower-counts-have-never-mattered-less-creator-economy-execs-say/) (2025-12-29)
-- [2025 was the year AI got a vibe check](https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/) (2025-12-29)
-- [Plaud Note Pro is an excellent AI-powered recorder that I carry everywhere](https://techcrunch.com/2025/12/29/plaud-note-pro-is-an-excellent-ai-powered-recorder-that-i-carry-everywhere/) (2025-12-29)
+- [Almost 80 European deep tech university spinouts reached $1B valuations or $100M in revenue in 2025](https://techcrunch.com/2025/12/30/76-european-deep-tech-university-spinouts-reached-unicorn-or-centaur-status/) (2025-12-30)
+- [12 investors dish on what 2026 will bring for climate tech](https://techcrunch.com/2025/12/30/12-investors-dish-on-what-2026-will-bring-for-climate-tech/) (2025-12-30)
+- [The best AI-powered dictation apps of 2025](https://techcrunch.com/2025/12/30/the-best-ai-powered-dictation-apps-of-2025/) (2025-12-30)
+- [VCs predict enterprises will spend more on AI in 2026 — through fewer vendors](https://techcrunch.com/2025/12/30/vcs-predict-enterprises-will-spend-more-on-ai-in-2026-through-fewer-vendors/) (2025-12-30)
+- [The top 26 consumer/edtech companies from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/30/the-top-26-consumer-edtech-companies-from-disrupt-startup-battlefield/) (2025-12-30)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Crimson (YC X25) is hiring founding engineers in London](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack) (2025-12-30)
-- [Non-Zero-Sum Games](https://nonzerosum.games/) (2025-12-30)
-- [Nicolas Guillou, French ICC judge sanctioned by the US and "debanked"](https://www.lemonde.fr/en/international/article/2025/11/19/nicolas-guillou-french-icc-judge-sanctioned-by-the-us-you-are-effectively-blacklisted-by-much-of-the-world-s-banking-system_6747628_4.html) (2025-12-30)
-- [Netflix: Open Content](https://opencontent.netflix.com/) (2025-12-30)
-- [HSBC blocks its app due to F-Droid-installed Bitwarden](https://mastodon.neilzone.co.uk/@neil/115807834298031971) (2025-12-30)
+- [Toro: Deploy Applications as Unikernels](https://github.com/torokernel/torokernel) (2025-12-30)
+- [Ask HN: Any example of successful vibe-coded product?](https://news.ycombinator.com/item?id=46434821) (2025-12-30)
+- [Show HN: Tidy Baby is a SET game but with words](https://tidy.baby) (2025-12-30)
+- [What Happened to Abit Motherboards](https://dfarq.homeip.net/what-happened-to-abit-motherboards/) (2025-12-30)
+- [Hive (YC S14) Is Hiring a Staff Software Engineer (Data Systems)](https://jobs.ashbyhq.com/hive.co/cb0dc490-0e32-4734-8d91-8b56a31ed497) (2025-12-30)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [LG is announcing its own Frame-style TV at CES](https://www.theverge.com/news/850876/lg-gallery-tv-ces-2026) (2025-12-30)
-- [GOG&#8217;s Steam-alternative PC game store is leaving CD Projekt, staying DRM-free](https://www.theverge.com/news/850832/gog-cd-projekt-acquisition-steam) (2025-12-29)
-- [Turn your PC into a Super Nintendo with Epilogue&#8217;s new USB dock](https://www.theverge.com/news/850793/epilogue-sn-operator-super-nintendo-snes-cartridge-slot-backup-emulator) (2025-12-29)
-- [How to tweak your online platform algorithms](https://www.theverge.com/tech/849742/how-to-tune-algorithms-recommendations-online-platforms) (2025-12-29)
-- [Beats’ new Powerbeats Fit earbuds are down to $180](https://www.theverge.com/gadgets/850705/beats-pixel-watch-apple-pencil-sales-deal) (2025-12-29)
+- [The OneXSugar Wallet is the first gaming handheld with a folding screen](https://www.theverge.com/news/851401/one-netbook-onexsugar-gaming-handheld-wallet-folding-oled-screen-android) (2025-12-30)
+- [GameSir put a tiny force feedback steering wheel on its new Swift Drive controller](https://www.theverge.com/news/851259/gamesir-switch-turbo-drive-controller-steering-wheel-wireless-force-feedback) (2025-12-30)
+- [Anker’s portable backup battery is an even better investment now that it’s nearly half off](https://www.theverge.com/gadgets/851016/anker-521-powerhouse-google-tv-streamer-4k-deal-sale) (2025-12-30)
+- [The FCC has probably killed a plan to improve smart home security](https://www.theverge.com/news/851271/cyber-trust-mark-program-lead-administrator-withdraws) (2025-12-30)
+- [This smart garden turned my black thumb green](https://www.theverge.com/tech/850224/gardyn-studio-2-review-smart-indoor-garden) (2025-12-30)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Looking for friends, lobsters may stumble into an ecological trap](https://arstechnica.com/science/2025/12/looking-for-friends-lobsters-may-stumble-into-an-ecological-trap/) (2025-12-30)
+- [The top 5 most horrifying and fascinating medical cases of 2025](https://arstechnica.com/health/2025/12/the-top-5-most-horrifying-and-fascinating-medical-cases-of-2025/) (2025-12-30)
+- [The 10 best vehicles Ars Technica drove in 2025](https://arstechnica.com/cars/2025/12/the-10-best-vehicles-ars-technica-drove-in-2025/) (2025-12-30)
 - [US can’t deport hate speech researcher for protected speech, lawsuit says](https://arstechnica.com/tech-policy/2025/12/us-cant-deport-hate-speech-researcher-for-protected-speech-lawsuit-says/) (2025-12-29)
 - [Leonardo’s wood charring method predates Japanese practice](https://arstechnica.com/science/2025/12/did-one-line-in-a-leonardo-codex-anticipate-yakisugi/) (2025-12-29)
-- [Researchers make “neuromorphic” artificial skin for robots](https://arstechnica.com/science/2025/12/researchers-make-neuromorphic-artificial-skin-for-robots/) (2025-12-29)
-- [China drafts world’s strictest rules to end AI-encouraged suicide, violence](https://arstechnica.com/tech-policy/2025/12/china-drafts-worlds-strictest-rules-to-end-ai-encouraged-suicide-violence/) (2025-12-29)
-- [A quirky guide to myths and lore based in actual science](https://arstechnica.com/science/2025/12/a-quirky-guide-to-myths-and-lore-based-in-actual-science/) (2025-12-29)
 
 </details>
 
@@ -75,44 +75,44 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Agentic AI, MCP, and spec-driven development: Top blog posts of 2025](https://github.blog/developer-skills/agentic-ai-mcp-and-spec-driven-development-top-blog-posts-of-2025/) (2025-12-30)
 - [Bugs that survive the heat of continuous fuzzing](https://github.blog/security/vulnerability-research/bugs-that-survive-the-heat-of-continuous-fuzzing/) (2025-12-29)
 - [WRAP up your backlog with GitHub Copilot coding agent](https://github.blog/ai-and-ml/github-copilot/wrap-up-your-backlog-with-github-copilot-coding-agent/) (2025-12-26)
 - [Strengthening supply chain security: Preparing for the next malware campaign](https://github.blog/security/supply-chain-security/strengthening-supply-chain-security-preparing-for-the-next-malware-campaign/) (2025-12-23)
 - [5 podcast episodes to help you build with confidence in 2026](https://github.blog/open-source/maintainers/5-podcast-episodes-to-help-you-build-with-confidence-in-2026/) (2025-12-23)
-- [This year’s most influential open source projects](https://github.blog/open-source/maintainers/this-years-most-influential-open-source-projects/) (2025-12-22)
 
 </details>
 
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [A new era of Stack Overflow](https://stackoverflow.blog/2025/12/30/a-new-era-of-stack-overflow/) (2025-12-30)
 - [How AI is helping us build better communities](https://stackoverflow.blog/2025/12/30/how-ai-is-helping-us-build-better-communities/) (2025-12-30)
 - [Developers remain willing but reluctant to use AI: The 2025 Developer Survey results are here](https://stackoverflow.blog/2025/12/29/developers-remain-willing-but-reluctant-to-use-ai-the-2025-developer-survey-results-are-here/) (2025-12-29)
 - [AI vs Gen Z: How AI has changed the career pathway for junior developers](https://stackoverflow.blog/2025/12/26/ai-vs-gen-z/) (2025-12-26)
 - [Containers are easy—moving your legacy system off your VM is not](https://stackoverflow.blog/2025/12/26/containers-are-easy-moving-your-legacy-system-off-your-vm-is-not/) (2025-12-26)
-- [Whether AI is a bubble or revolution, how does software survive?](https://stackoverflow.blog/2025/12/25/whether-ai-is-a-bubble-or-revolution-how-does-software-survive/) (2025-12-25)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Frontend System Design: A Complete Guide to Building Scalable Client-Side Architectures](https://dev.to/daisy_jones_21bdcc6b40f9d/frontend-system-design-a-complete-guide-to-building-scalable-client-side-architectures-1f2c) (2025-12-30)
-- [Building a DIY ESP32 AI Voice Assistant with Xiaozhi MCP](https://dev.to/david_thomas/building-a-diy-esp32-s3-ai-voice-assistant-with-xiaozhi-mcp-2jjp) (2025-12-30)
-- [Salesforce Apex Code Failing Due to Lack of Bulkification](https://dev.to/selavina_b_de3b87f13c96a6/salesforce-apex-code-failing-due-to-lack-of-bulkification-p32) (2025-12-30)
-- [Day 28: Creating a Private ECR Repository](https://dev.to/thukhakyawe_cloud/day-28-creating-a-private-ecr-repository-448f) (2025-12-30)
-- [simple-auth-jwt my SDK in python](https://dev.to/omariscode/simple-auth-jwt-my-sdk-in-python-3ml0) (2025-12-30)
+- [Deep Graph Library: A Graph-Centric, Highly-Performant Package for Graph NeuralNetworks](https://dev.to/paperium/deep-graph-library-a-graph-centric-highly-performant-package-for-graph-neuralnetworks-lfa) (2025-12-30)
+- [Simple Blind SQL Injection](https://dev.to/travondatrack/simple-blind-sql-injection-3moe) (2025-12-30)
+- [The Only Time I Used Math at Work - and It wasn t What You Think](https://dev.to/sghaier/the-only-time-i-used-math-at-work-and-it-wasn-t-what-you-think-13am) (2025-12-30)
+- [DEV Track Spotlight: How Amazon Teams Use AI Assistants to Accelerate Development (DEV403)](https://dev.to/aws/dev-track-spotlight-how-amazon-teams-use-ai-assistants-to-accelerate-development-dev403-1bh4) (2025-12-30)
+- [Spring Cloud Gateway: Basic Example](https://dev.to/eduesqui/spring-cloud-gateway-basic-example-5dhm) (2025-12-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why YouTube Avoids SQL Joins for Recommendations](https://medium.com/@Krishnajlathi/why-youtube-avoids-sql-joins-for-recommendations-7cfdaa403ed9?source=rss------programming-5) (2025-12-30)
-- [Here’s how authentic you need to sound to get accepted into the OpenAI Residency Program in 2026](https://medium.com/@abdibrokhim/heres-how-authentic-you-need-to-sound-to-get-accepted-into-the-openai-residency-program-in-2026-f9049c2cfa67?source=rss------programming-5) (2025-12-30)
-- [If Your UI Looks Fine in Figma, This Is the Problem You’re Ignoring](https://tengale20.medium.com/if-your-ui-looks-fine-in-figma-this-is-the-problem-youre-ignoring-8e8a2da60e08?source=rss------programming-5) (2025-12-30)
-- [Building Real-Time Applications: My Journey with Socket.io and Next.js](https://medium.com/@muralidhar2k4/building-real-time-applications-my-journey-with-socket-io-and-next-js-45bfd8515914?source=rss------programming-5) (2025-12-30)
-- [MarteoCLI: Democratizing the C++ Journey for Beginners](https://devjhones.medium.com/marteocli-democratizing-the-c-journey-for-beginners-f6d88a8253a3?source=rss------programming-5) (2025-12-30)
+- [The Strategic Evolution of Java: Enterprise Architecture in the Next Decade](https://medium.com/@eric.jvm/the-strategic-evolution-of-java-enterprise-architecture-in-the-next-decade-11a854bc6fb4?source=rss------programming-5) (2025-12-30)
+- [Why Power BI Shows Duplicate Rows After Merge and How to Fix It Step by Step](https://medium.com/microsoft-power-bi/why-power-bi-shows-duplicate-rows-after-merge-and-how-to-fix-it-step-by-step-611d5de5be29?source=rss------programming-5) (2025-12-30)
+- [I Failed My First Programming Course — Here’s What I Learned](https://medium.com/@sadman.sakib4400/i-failed-my-first-programming-course-heres-what-i-learned-acb582ba1a25?source=rss------programming-5) (2025-12-30)
+- [All PostgreSQL Extensions Cheat Sheet](https://ozwizard.medium.com/all-postgresql-extensions-cheat-sheet-e194ac6ed563?source=rss------programming-5) (2025-12-30)
+- [How to Make Money With JavaScript](https://medium.com/the-money-guide/how-to-make-money-with-javascript-d1469512dac1?source=rss------programming-5) (2025-12-30)
 
 </details>
 
@@ -460,6 +460,17 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 </details>
 
 <details>
+<summary>🚀 Apollo GraphQL</summary>
+
+- [End of Support for Router v1.x; Long-Term Support (LTS) Policy Update](https://www.apollographql.com/blog/end-of-support-for-router-v1-x-long-term-support-lts-policy-update) (2025-12-19)
+- [Building Apps for ChatGPT with Apollo MCP Server and Apollo Client](https://www.apollographql.com/blog/building-apps-for-chatgpt-with-apollo-mcp-server-and-apollo-client) (2025-12-18)
+- [Apollo Strengthens Its San Francisco Presence for the Agentic Era](https://www.apollographql.com/blog/apollo-strengthens-its-san-francisco-presence-for-the-agentic-era) (2025-12-02)
+- [How Delivery Hero Accelerates UX Experiments with Server-Driven UI and Apollo](https://www.apollographql.com/blog/how-delivery-hero-accelerates-ux-experiments-with-server-driven-ui-and-apollo) (2025-12-01)
+- [How Block Scaled Graph Adoption with Apollo and AI](https://www.apollographql.com/blog/how-block-scaled-graph-adoption-with-apollo-and-ai) (2025-11-24)
+
+</details>
+
+<details>
 <summary>☁️ Salesforce Developer</summary>
 
 - [新しいサンプルアプリ「Agent Script Recipes」でハイブリッド推論をマスター](https://developer.salesforce.com/blogs/2025/12/jp-master-hybrid-reasoning-with-the-new-agent-script-recipes-sample-app.html) (2025-12-24)
@@ -550,11 +561,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Overcoming Nonsmoothness and Control Chattering in Nonconvex Optimal Control Problems](https://towardsdatascience.com/optimal-path-planning-for-wheeled-robots/) (2025-12-30)
+- [The Machine Learning “Advent Calendar” Bonus 1: AUC in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-bonus-1-auc-in-excel/) (2025-12-30)
 - [Agents Under the Curve (AUC)](https://towardsdatascience.com/agents-under-the-curve-auc/) (2025-12-30)
 - [How to Facilitate Effective AI Programming](https://towardsdatascience.com/how-to-faciliate-for-effective-ai-programming/) (2025-12-29)
 - [Machine Learning vs AI Engineer: What Are the Differences?](https://towardsdatascience.com/machine-learning-vs-ai-engineer-no-confusing-jargon/) (2025-12-29)
-- [Implementing Vibe Proving with Reinforcement Learning](https://towardsdatascience.com/implementing-vibe-proving-with-rl/) (2025-12-29)
-- [Breaking the Hardware Barrier: Software FP8 for Older GPUs](https://towardsdatascience.com/breaking-the-hardware-barrier-software-fp8-for-older-gpus/) (2025-12-28)
 
 </details>
 
@@ -572,11 +583,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [7 High Paying Side Hustles for Students](https://www.kdnuggets.com/7-high-paying-side-hustles-for-students) (2025-12-30)
 - [The Best Agentic AI Browsers to Look For in 2026](https://www.kdnuggets.com/the-best-agentic-ai-browsers-to-look-for-in-2026) (2025-12-29)
 - [5 Fun Docker Projects for Absolute Beginners](https://www.kdnuggets.com/5-fun-docker-projects-for-absolute-beginners) (2025-12-26)
 - [Top 7 Open Source OCR Models](https://www.kdnuggets.com/top-7-open-source-ocr-models) (2025-12-24)
 - [Probability Concepts You’ll Actually Use in Data Science](https://www.kdnuggets.com/probability-concepts-youll-actually-use-in-data-science) (2025-12-23)
-- [5 Emerging Trends in Data Engineering for 2026](https://www.kdnuggets.com/5-emerging-trends-in-data-engineering-for-2026) (2025-12-23)
 
 </details>
 
