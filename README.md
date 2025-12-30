@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [How to make your startup stand out in a crowded market, according to investors](https://techcrunch.com/2025/12/29/vcs-spill-what-they-really-want-to-hear-in-a-founder-pitch/) (2025-12-29)
+- [Social media follower counts have never mattered less, creator economy execs say](https://techcrunch.com/2025/12/29/social-media-follower-counts-have-never-mattered-less-creator-economy-execs-say/) (2025-12-29)
+- [2025 was the year AI got a vibe check](https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/) (2025-12-29)
 - [Plaud Note Pro is an excellent AI-powered recorder that I carry everywhere](https://techcrunch.com/2025/12/29/plaud-note-pro-is-an-excellent-ai-powered-recorder-that-i-carry-everywhere/) (2025-12-29)
 - [Why the electrical grid needs more software](https://techcrunch.com/2025/12/29/why-the-electrical-grid-needs-more-software/) (2025-12-29)
-- [How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others](https://techcrunch.com/2025/12/29/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/) (2025-12-29)
-- [The 32 top enterprise tech startups from Disrupt Startup Battlefield ](https://techcrunch.com/2025/12/29/the-32-top-enterprise-tech-startups-from-disrupt-startup-battlefield/) (2025-12-29)
-- [Samsung plans to bring Google Photos to its TVs in 2026](https://techcrunch.com/2025/12/29/samsung-plans-to-bring-google-photos-to-its-tvs-in-2026/) (2025-12-29)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Tesla's 4680 battery supply chain collapses as partner writes down deal by 99%](https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/) (2025-12-29)
-- [Nvidia takes $5B stake in Intel under September agreement](https://www.reuters.com/legal/transactional/nvidia-takes-5-billion-stake-intel-under-september-agreement-2025-12-29/) (2025-12-29)
-- [Five Years of Tinygrad](https://geohot.github.io//blog/jekyll/update/2025/12/29/five-years-of-tinygrad.html) (2025-12-29)
-- [GOG is getting acquired by its original co-founder: What it means for you](https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/) (2025-12-29)
-- [Static Allocation with Zig](https://nickmonad.blog/2025/static-allocation-with-zig-kv/) (2025-12-29)
+- [100x (YC S22) Is Hiring a Founding Front End Engineer](https://news.ycombinator.com/item?id=46428206) (2025-12-30)
+- [MongoDB Server Security Update, December 2025](https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025) (2025-12-30)
+- [Stranger Things creator says turn off "garbage" settings](https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/) (2025-12-29)
+- [Bye Bye Big Tech: How I Migrated to an Almost All-EU Stack (and Saved 500€/Year)](https://www.zeitgeistofbytes.com/p/bye-bye-big-tech-how-i-migrated-to) (2025-12-29)
+- [Parsing Advances](https://matklad.github.io/2025/12/28/parsing-advances.html) (2025-12-29)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [LG is announcing its own Frame-style TV at CES](https://www.theverge.com/news/850876/lg-gallery-tv-ces-2026) (2025-12-30)
+- [GOG&#8217;s Steam-alternative PC game store is leaving CD Projekt, staying DRM-free](https://www.theverge.com/news/850832/gog-cd-projekt-acquisition-steam) (2025-12-29)
 - [Turn your PC into a Super Nintendo with Epilogue&#8217;s new USB dock](https://www.theverge.com/news/850793/epilogue-sn-operator-super-nintendo-snes-cartridge-slot-backup-emulator) (2025-12-29)
 - [How to tweak your online platform algorithms](https://www.theverge.com/tech/849742/how-to-tune-algorithms-recommendations-online-platforms) (2025-12-29)
 - [Beats’ new Powerbeats Fit earbuds are down to $180](https://www.theverge.com/gadgets/850705/beats-pixel-watch-apple-pencil-sales-deal) (2025-12-29)
-- [This experimental camera can focus on everything at once](https://www.theverge.com/news/850689/camera-focal-lens-technology-research) (2025-12-29)
-- [The best shows to watch on HBO Max from 2025](https://www.theverge.com/entertainment/846829/hbo-max-best-shows-2025) (2025-12-29)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [US can’t deport hate speech researcher for protected speech, lawsuit says](https://arstechnica.com/tech-policy/2025/12/us-cant-deport-hate-speech-researcher-for-protected-speech-lawsuit-says/) (2025-12-29)
+- [Leonardo’s wood charring method predates Japanese practice](https://arstechnica.com/science/2025/12/did-one-line-in-a-leonardo-codex-anticipate-yakisugi/) (2025-12-29)
+- [Researchers make “neuromorphic” artificial skin for robots](https://arstechnica.com/science/2025/12/researchers-make-neuromorphic-artificial-skin-for-robots/) (2025-12-29)
 - [China drafts world’s strictest rules to end AI-encouraged suicide, violence](https://arstechnica.com/tech-policy/2025/12/china-drafts-worlds-strictest-rules-to-end-ai-encouraged-suicide-violence/) (2025-12-29)
 - [A quirky guide to myths and lore based in actual science](https://arstechnica.com/science/2025/12/a-quirky-guide-to-myths-and-lore-based-in-actual-science/) (2025-12-29)
-- [GPS is vulnerable to jamming—here’s how we might fix it](https://arstechnica.com/information-technology/2025/12/gps-is-vulnerable-to-jamming-heres-how-we-might-fix-it/) (2025-12-29)
-- [Remembering what Windows 10 did right—and how it made modern Windows more annoying](https://arstechnica.com/gadgets/2025/12/remembering-the-best-and-worst-about-windows-10-on-the-year-it-technically-died/) (2025-12-29)
-- [I switched to eSIM in 2025, and I am full of regret](https://arstechnica.com/gadgets/2025/12/i-switched-to-esim-in-2025-and-i-am-full-of-regret/) (2025-12-29)
 
 </details>
 
@@ -75,11 +75,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Bugs that survive the heat of continuous fuzzing](https://github.blog/security/vulnerability-research/bugs-that-survive-the-heat-of-continuous-fuzzing/) (2025-12-29)
 - [WRAP up your backlog with GitHub Copilot coding agent](https://github.blog/ai-and-ml/github-copilot/wrap-up-your-backlog-with-github-copilot-coding-agent/) (2025-12-26)
 - [Strengthening supply chain security: Preparing for the next malware campaign](https://github.blog/security/supply-chain-security/strengthening-supply-chain-security-preparing-for-the-next-malware-campaign/) (2025-12-23)
 - [5 podcast episodes to help you build with confidence in 2026](https://github.blog/open-source/maintainers/5-podcast-episodes-to-help-you-build-with-confidence-in-2026/) (2025-12-23)
 - [This year’s most influential open source projects](https://github.blog/open-source/maintainers/this-years-most-influential-open-source-projects/) (2025-12-22)
-- [The future of AI-powered software optimization (and how it can help your team)](https://github.blog/news-insights/policy-news-and-insights/the-future-of-ai-powered-software-optimization-and-how-it-can-help-your-team/) (2025-12-12)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [DEV Track Spotlight: Supercharge DevOps with AI-driven observability (DEV304)](https://dev.to/aws/dev-track-spotlight-supercharge-devops-with-ai-driven-observability-dev304-4em3) (2025-12-29)
-- [Consistently deploying Lambda functions and layers using Terraform](https://dev.to/aws-builders/consistently-deploying-lambda-functions-and-layers-using-terraform-379b) (2025-12-29)
-- [Creating a Compelling User Interface for Online Web Games: Best Practices and Design Tips](https://dev.to/joseph-davies/creating-a-compelling-user-interface-for-online-web-games-best-practices-and-design-tips-24b0) (2025-12-29)
-- [A Funny Quote Generator](https://dev.to/liton_ali/a-funny-quote-generator-83a) (2025-12-29)
-- [Why Next.js is the Strategic Choice for Enterprise Web Architecture](https://dev.to/panah_infosystem/why-nextjs-is-the-strategic-choice-for-enterprise-web-architecture-b7b) (2025-12-29)
+- [🧠_Deep_Dive_Memory_Management_Performance[20251230010751]](https://dev.to/member_8659c28a/deepdivememorymanagementperformance20251230010751-mn) (2025-12-30)
+- [⚠️ The "Free Tier" Trap: Why Senior Devs Are Wary of the AI Gold Rush](https://dev.to/sivakumar6678/the-free-tier-trap-why-senior-devs-are-wary-of-the-ai-gold-rush-43on) (2025-12-30)
+- [Extract Text from PDFs with PDFMiner in Python](https://dev.to/rosgluk/extract-text-from-pdfs-with-pdfminer-in-python-4ap6) (2025-12-30)
+- [Boost Your Developer Revenue with Monetzly's API Monetization](https://dev.to/monetzly/boost-your-developer-revenue-with-monetzlys-api-monetization-1al4) (2025-12-30)
+- [You don’t need to worry about global auth state anymore.](https://dev.to/kenneth_nnabuife_3d6b7a81/you-dont-need-to-worry-about-global-auth-state-anymore-3bfo) (2025-12-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [please help me](https://medium.com/@babulal8378811660/please-help-me-f1e0187f3627?source=rss------programming-5) (2025-12-29)
-- [Async Pitfalls in ASP.NET Core That Break Production](https://medium.com/@kroshpan/async-pitfalls-in-asp-net-core-that-break-production-26facf5dcb48?source=rss------programming-5) (2025-12-29)
-- [How to Set Up a GitHub Repository and Create a Proper README](https://medium.com/@Chainary.net/how-to-set-up-a-github-repository-and-create-a-proper-readme-3ff4d061b032?source=rss------programming-5) (2025-12-29)
-- [Stop Using NoSQL Unless You Actually Need It](https://medium.com/@kushalburad07/stop-using-nosql-unless-you-actually-need-it-1fcea1538923?source=rss------programming-5) (2025-12-29)
-- [Will This New EF Core Feature Be the End of Dapper?](https://medium.com/@mariammaurice/will-this-new-ef-core-feature-be-the-end-of-dapper-a6a0734d0dc4?source=rss------programming-5) (2025-12-29)
+- [The Two Sum Problem in Dart: A Developer’s Secret Weapon You’re Not Using](https://medium.com/@alaxhenry0121/the-two-sum-problem-in-dart-a-developers-secret-weapon-you-re-not-using-624402a81ebb?source=rss------programming-5) (2025-12-30)
+- [Two Ways SQL Combines Data: JOINs and Set Operations](https://medium.com/@bskky001/two-ways-sql-combines-data-joins-and-set-operations-3a6b0f92c1a4?source=rss------programming-5) (2025-12-30)
+- [Automating vSAN ESA Deployments with Ansible](https://engineering.elluminates.com/automating-vsan-esa-deployments-with-ansible-d29e127dce47?source=rss------programming-5) (2025-12-30)
+- [09370673570](https://medium.com/@bchchdjjxnxb4jcjf/09370673570-62c9eba83810?source=rss------programming-5) (2025-12-30)
+- [09370673570](https://medium.com/@bchchdjjxnxb4jcjf/09370673570-eecbb8e7c283?source=rss------programming-5) (2025-12-30)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.35: Introducing Workload Aware Scheduling](https://kubernetes.io/blog/2025/12/29/kubernetes-v1-35-introducing-workload-aware-scheduling/) (2025-12-29)
 - [Kubernetes v1.35: Fine-grained Supplemental Groups Control Graduates to GA](https://kubernetes.io/blog/2025/12/23/kubernetes-v1-35-fine-grained-supplementalgroups-control-ga/) (2025-12-23)
 - [Kubernetes v1.35: Kubelet Configuration Drop-in Directory Graduates to GA](https://kubernetes.io/blog/2025/12/22/kubernetes-v1-35-kubelet-config-drop-in-directory-ga/) (2025-12-22)
 - [Avoiding Zombie Cluster Members When Upgrading to etcd v3.6](https://kubernetes.io/blog/2025/12/21/preventing-etcd-zombies/) (2025-12-21)
 - [Kubernetes 1.35: In-Place Pod Resize Graduates to Stable](https://kubernetes.io/blog/2025/12/19/kubernetes-v1-35-in-place-pod-resize-ga/) (2025-12-19)
-- [Kubernetes v1.35: Job Managed By Goes GA](https://kubernetes.io/blog/2025/12/18/kubernetes-v1-35-job-managedby-for-jobs-goes-ga/) (2025-12-18)
 
 </details>
 
@@ -594,11 +594,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Train Your Large Model on Multiple GPUs with Pipeline Parallelism](https://machinelearningmastery.com/train-your-large-model-on-multiple-gpus-with-pipeline-parallelism/) (2025-12-29)
 - [5 Python Libraries for Advanced Time Series Forecasting](https://machinelearningmastery.com/5-python-libraries-for-advanced-time-series-forecasting/) (2025-12-29)
 - [Training a Model on Multiple GPUs with Data Parallelism](https://machinelearningmastery.com/training-a-model-on-multiple-gpus-with-data-parallelism/) (2025-12-26)
 - [Train a Model Faster with torch.compile and Gradient Accumulation](https://machinelearningmastery.com/train-a-model-faster-with-torch-compile-and-gradient-accumulation/) (2025-12-25)
 - [Training a Model with Limited Memory using Mixed Precision and Gradient Checkpointing](https://machinelearningmastery.com/training-a-model-with-limited-memory-using-mixed-precision-and-gradient-checkpointing/) (2025-12-24)
-- [Practical Agentic Coding with Google Jules](https://machinelearningmastery.com/practical-agentic-coding-with-google-jules/) (2025-12-24)
 
 </details>
 
