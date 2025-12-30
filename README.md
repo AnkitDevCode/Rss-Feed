@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Hacking Washing Machines [video]](https://media.ccc.de/v/39c3-hacking-washing-machines) (2025-12-30)
-- [100x (YC S22) Is Hiring a Front End Engineer](https://news.ycombinator.com/item?id=46428206) (2025-12-30)
-- [Outside, Dungeon, Town: Integrating the Three Places in Videogames (2024)](https://keithburgun.net/outside-dungeon-town-integrating-the-three-places-in-videogames/) (2025-12-30)
-- [MongoDB Server Security Update, December 2025](https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025) (2025-12-30)
-- [Stranger Things creator says turn off "garbage" settings](https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/) (2025-12-29)
+- [Crimson (YC X25) is hiring founding engineers in London](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack) (2025-12-30)
+- [Non-Zero-Sum Games](https://nonzerosum.games/) (2025-12-30)
+- [Nicolas Guillou, French ICC judge sanctioned by the US and "debanked"](https://www.lemonde.fr/en/international/article/2025/11/19/nicolas-guillou-french-icc-judge-sanctioned-by-the-us-you-are-effectively-blacklisted-by-much-of-the-world-s-banking-system_6747628_4.html) (2025-12-30)
+- [Netflix: Open Content](https://opencontent.netflix.com/) (2025-12-30)
+- [HSBC blocks its app due to F-Droid-installed Bitwarden](https://mastodon.neilzone.co.uk/@neil/115807834298031971) (2025-12-30)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The ascent of the AI therapist](https://www.technologyreview.com/2025/12/30/1129392/book-reviews-ai-therapy-mental-health/) (2025-12-30)
 - [Bangladesh’s garment-making industry is getting greener](https://www.technologyreview.com/2025/12/29/1129308/bangladesh-garment-sustainability-frugal-factories/) (2025-12-29)
 - [MIT Technology Review’s most popular stories of 2025](https://www.technologyreview.com/2025/12/26/1130318/mit-technology-review-most-popular-stories-2025/) (2025-12-26)
 - [The paints, coatings, and chemicals making the world a cooler place](https://www.technologyreview.com/2025/12/26/1129301/paint-coating-chemicals-materials-cooling-air-conditioning/) (2025-12-26)
 - [AI Wrapped: The 14 AI terms you couldn’t avoid in 2025](https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/) (2025-12-25)
-- [Meet the man hunting the spies in your smartphone](https://www.technologyreview.com/2025/12/24/1129294/ronald-deibert-citizen-lab-digital-threats-spies-cybersecurity/) (2025-12-24)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [🛠️_Development_Efficiency_vs_Runtime_Performance[20251230061947]](https://dev.to/member_8659c28a/developmentefficiencyvsruntimeperformance20251230061947-lp3) (2025-12-30)
-- [Remote work only works when the environment is non negotiable. Ashkan Rajaee explains why.](https://dev.to/kathrynlogist/remote-work-only-works-when-the-environment-is-non-negotiable-ashkan-rajaee-explains-why-2lac) (2025-12-30)
-- [Same Fairway, Different Worlds- New Golfer vs. Scratch Golfer Explained with Humor](https://dev.to/parteeof18/same-fairway-different-worlds-new-golfer-vs-scratch-golfer-explained-with-humor-2ja2) (2025-12-30)
-- [Quick Stops That Matter: The Role of Convenience Stores in Rural and Semi-Urban Areas](https://dev.to/nencywilliams/quick-stops-that-matter-the-role-of-convenience-stores-in-rural-and-semi-urban-areas-31ic) (2025-12-30)
-- [Most SaaS Products Don’t Fail on Tech - They Fail on Trust](https://dev.to/mukul_sharma/most-saas-products-dont-fail-on-tech-they-fail-on-trust-30mc) (2025-12-30)
+- [Frontend System Design: A Complete Guide to Building Scalable Client-Side Architectures](https://dev.to/daisy_jones_21bdcc6b40f9d/frontend-system-design-a-complete-guide-to-building-scalable-client-side-architectures-1f2c) (2025-12-30)
+- [Building a DIY ESP32 AI Voice Assistant with Xiaozhi MCP](https://dev.to/david_thomas/building-a-diy-esp32-s3-ai-voice-assistant-with-xiaozhi-mcp-2jjp) (2025-12-30)
+- [Salesforce Apex Code Failing Due to Lack of Bulkification](https://dev.to/selavina_b_de3b87f13c96a6/salesforce-apex-code-failing-due-to-lack-of-bulkification-p32) (2025-12-30)
+- [Day 28: Creating a Private ECR Repository](https://dev.to/thukhakyawe_cloud/day-28-creating-a-private-ecr-repository-448f) (2025-12-30)
+- [simple-auth-jwt my SDK in python](https://dev.to/omariscode/simple-auth-jwt-my-sdk-in-python-3ml0) (2025-12-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [RAG Spring AI: Chat with Your PDFs Using Tika and Qdrant (RAG Explained)](https://chakresh0108.medium.com/rag-spring-ai-chat-with-your-pdfs-using-tika-and-qdrant-rag-explained-9487859fd073?source=rss------programming-5) (2025-12-30)
-- [Web Development Is Meant to Be Built, Not Watched](https://pixicstudio.medium.com/web-development-is-meant-to-be-built-not-watched-f15709ea6139?source=rss------programming-5) (2025-12-30)
-- [ Rust: The Programming Language That Cares About Your Code (and You)](https://medium.com/@jm.dilusha.lakshan/rust-the-programming-language-that-cares-about-your-code-and-you-d55ebb90b298?source=rss------programming-5) (2025-12-30)
-- [How to Become a Backend Developer in 2026](https://dayakumar06588.medium.com/how-to-become-a-backend-developer-in-2026-e1208352f9bd?source=rss------programming-5) (2025-12-30)
-- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-b95b08154d11?source=rss------programming-5) (2025-12-30)
+- [Why YouTube Avoids SQL Joins for Recommendations](https://medium.com/@Krishnajlathi/why-youtube-avoids-sql-joins-for-recommendations-7cfdaa403ed9?source=rss------programming-5) (2025-12-30)
+- [Here’s how authentic you need to sound to get accepted into the OpenAI Residency Program in 2026](https://medium.com/@abdibrokhim/heres-how-authentic-you-need-to-sound-to-get-accepted-into-the-openai-residency-program-in-2026-f9049c2cfa67?source=rss------programming-5) (2025-12-30)
+- [If Your UI Looks Fine in Figma, This Is the Problem You’re Ignoring](https://tengale20.medium.com/if-your-ui-looks-fine-in-figma-this-is-the-problem-youre-ignoring-8e8a2da60e08?source=rss------programming-5) (2025-12-30)
+- [Building Real-Time Applications: My Journey with Socket.io and Next.js](https://medium.com/@muralidhar2k4/building-real-time-applications-my-journey-with-socket-io-and-next-js-45bfd8515914?source=rss------programming-5) (2025-12-30)
+- [MarteoCLI: Democratizing the C++ Journey for Beginners](https://devjhones.medium.com/marteocli-democratizing-the-c-journey-for-beginners-f6d88a8253a3?source=rss------programming-5) (2025-12-30)
 
 </details>
 
@@ -460,17 +460,6 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 </details>
 
 <details>
-<summary>🚀 Apollo GraphQL</summary>
-
-- [End of Support for Router v1.x; Long-Term Support (LTS) Policy Update](https://www.apollographql.com/blog/end-of-support-for-router-v1-x-long-term-support-lts-policy-update) (2025-12-19)
-- [Building Apps for ChatGPT with Apollo MCP Server and Apollo Client](https://www.apollographql.com/blog/building-apps-for-chatgpt-with-apollo-mcp-server-and-apollo-client) (2025-12-18)
-- [Apollo Strengthens Its San Francisco Presence for the Agentic Era](https://www.apollographql.com/blog/apollo-strengthens-its-san-francisco-presence-for-the-agentic-era) (2025-12-02)
-- [How Delivery Hero Accelerates UX Experiments with Server-Driven UI and Apollo](https://www.apollographql.com/blog/how-delivery-hero-accelerates-ux-experiments-with-server-driven-ui-and-apollo) (2025-12-01)
-- [How Block Scaled Graph Adoption with Apollo and AI](https://www.apollographql.com/blog/how-block-scaled-graph-adoption-with-apollo-and-ai) (2025-11-24)
-
-</details>
-
-<details>
 <summary>☁️ Salesforce Developer</summary>
 
 - [新しいサンプルアプリ「Agent Script Recipes」でハイブリッド推論をマスター](https://developer.salesforce.com/blogs/2025/12/jp-master-hybrid-reasoning-with-the-new-agent-script-recipes-sample-app.html) (2025-12-24)
@@ -561,22 +550,22 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Agents Under the Curve (AUC)](https://towardsdatascience.com/agents-under-the-curve-auc/) (2025-12-30)
 - [How to Facilitate Effective AI Programming](https://towardsdatascience.com/how-to-faciliate-for-effective-ai-programming/) (2025-12-29)
 - [Machine Learning vs AI Engineer: What Are the Differences?](https://towardsdatascience.com/machine-learning-vs-ai-engineer-no-confusing-jargon/) (2025-12-29)
 - [Implementing Vibe Proving with Reinforcement Learning](https://towardsdatascience.com/implementing-vibe-proving-with-rl/) (2025-12-29)
 - [Breaking the Hardware Barrier: Software FP8 for Older GPUs](https://towardsdatascience.com/breaking-the-hardware-barrier-software-fp8-for-older-gpus/) (2025-12-28)
-- [Hugging Face Transformers in Action: Learning How To Leverage AI for NLP](https://towardsdatascience.com/hugging-face-transformers-in-action-learning-how-to-leverage-ai-for-nlp/) (2025-12-28)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [10 Awesome Docker Projects for Beginners](https://www.analyticsvidhya.com/blog/2025/12/docker-projects/) (2025-12-30)
+- [What is Chain of Thought (CoT) Prompting?](https://www.analyticsvidhya.com/blog/2025/12/chain-of-thought-cot-prompting/) (2025-12-30)
 - [What is F1 Score in Machine Learning?](https://www.analyticsvidhya.com/blog/2025/12/what-is-f1-score-in-machine-learning/) (2025-12-29)
 - [Track and Monitor AI Agents Using MLflow: Complete Guide for Agentic Systems](https://www.analyticsvidhya.com/blog/2025/12/monitor-ai-agents-with-mlflow/) (2025-12-29)
 - [Google A2UI Explained: How AI Agents Build Secure, Native User Interfaces](https://www.analyticsvidhya.com/blog/2025/12/google-a2ui-explained/) (2025-12-28)
-- [LangChain: A Comprehensive Beginner’s Guide ](https://www.analyticsvidhya.com/blog/2025/12/langchain-beginners-guide/) (2025-12-28)
-- [Data Analyst Learning Path 2026](https://www.analyticsvidhya.com/blog/2025/12/data-analyst-learning-path/) (2025-12-27)
 
 </details>
 
@@ -594,11 +583,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Beyond Short-term Memory: The 3 Types of Long-term Memory AI Agents Need](https://machinelearningmastery.com/beyond-short-term-memory-the-3-types-of-long-term-memory-ai-agents-need/) (2025-12-30)
 - [Train Your Large Model on Multiple GPUs with Pipeline Parallelism](https://machinelearningmastery.com/train-your-large-model-on-multiple-gpus-with-pipeline-parallelism/) (2025-12-29)
 - [5 Python Libraries for Advanced Time Series Forecasting](https://machinelearningmastery.com/5-python-libraries-for-advanced-time-series-forecasting/) (2025-12-29)
 - [Training a Model on Multiple GPUs with Data Parallelism](https://machinelearningmastery.com/training-a-model-on-multiple-gpus-with-data-parallelism/) (2025-12-26)
 - [Train a Model Faster with torch.compile and Gradient Accumulation](https://machinelearningmastery.com/train-a-model-faster-with-torch-compile-and-gradient-accumulation/) (2025-12-25)
-- [Training a Model with Limited Memory using Mixed Precision and Gradient Checkpointing](https://machinelearningmastery.com/training-a-model-with-limited-memory-using-mixed-precision-and-gradient-checkpointing/) (2025-12-24)
 
 </details>
 
