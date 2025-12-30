@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Meta just bought Manus, an AI startup everyone has been talking about](https://techcrunch.com/2025/12/29/meta-just-bought-manus-an-ai-startup-everyone-has-been-talking-about/) (2025-12-30)
 - [How to make your startup stand out in a crowded market, according to investors](https://techcrunch.com/2025/12/29/vcs-spill-what-they-really-want-to-hear-in-a-founder-pitch/) (2025-12-29)
 - [Social media follower counts have never mattered less, creator economy execs say](https://techcrunch.com/2025/12/29/social-media-follower-counts-have-never-mattered-less-creator-economy-execs-say/) (2025-12-29)
 - [2025 was the year AI got a vibe check](https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/) (2025-12-29)
 - [Plaud Note Pro is an excellent AI-powered recorder that I carry everywhere](https://techcrunch.com/2025/12/29/plaud-note-pro-is-an-excellent-ai-powered-recorder-that-i-carry-everywhere/) (2025-12-29)
-- [Why the electrical grid needs more software](https://techcrunch.com/2025/12/29/why-the-electrical-grid-needs-more-software/) (2025-12-29)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [100x (YC S22) Is Hiring a Founding Front End Engineer](https://news.ycombinator.com/item?id=46428206) (2025-12-30)
+- [Hacking Washing Machines [video]](https://media.ccc.de/v/39c3-hacking-washing-machines) (2025-12-30)
+- [100x (YC S22) Is Hiring a Front End Engineer](https://news.ycombinator.com/item?id=46428206) (2025-12-30)
+- [Outside, Dungeon, Town: Integrating the Three Places in Videogames (2024)](https://keithburgun.net/outside-dungeon-town-integrating-the-three-places-in-videogames/) (2025-12-30)
 - [MongoDB Server Security Update, December 2025](https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025) (2025-12-30)
 - [Stranger Things creator says turn off "garbage" settings](https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/) (2025-12-29)
-- [Bye Bye Big Tech: How I Migrated to an Almost All-EU Stack (and Saved 500€/Year)](https://www.zeitgeistofbytes.com/p/bye-bye-big-tech-how-i-migrated-to) (2025-12-29)
-- [Parsing Advances](https://matklad.github.io/2025/12/28/parsing-advances.html) (2025-12-29)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [How AI is helping us build better communities](https://stackoverflow.blog/2025/12/30/how-ai-is-helping-us-build-better-communities/) (2025-12-30)
 - [Developers remain willing but reluctant to use AI: The 2025 Developer Survey results are here](https://stackoverflow.blog/2025/12/29/developers-remain-willing-but-reluctant-to-use-ai-the-2025-developer-survey-results-are-here/) (2025-12-29)
 - [AI vs Gen Z: How AI has changed the career pathway for junior developers](https://stackoverflow.blog/2025/12/26/ai-vs-gen-z/) (2025-12-26)
 - [Containers are easy—moving your legacy system off your VM is not](https://stackoverflow.blog/2025/12/26/containers-are-easy-moving-your-legacy-system-off-your-vm-is-not/) (2025-12-26)
 - [Whether AI is a bubble or revolution, how does software survive?](https://stackoverflow.blog/2025/12/25/whether-ai-is-a-bubble-or-revolution-how-does-software-survive/) (2025-12-25)
-- [The Great Unracking: Saying goodbye to the servers at our physical datacenter](https://stackoverflow.blog/2025/12/24/the-great-unracking-saying-goodbye-to-the-servers-at-our-physical-datacenter/) (2025-12-24)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [🧠_Deep_Dive_Memory_Management_Performance[20251230010751]](https://dev.to/member_8659c28a/deepdivememorymanagementperformance20251230010751-mn) (2025-12-30)
-- [⚠️ The "Free Tier" Trap: Why Senior Devs Are Wary of the AI Gold Rush](https://dev.to/sivakumar6678/the-free-tier-trap-why-senior-devs-are-wary-of-the-ai-gold-rush-43on) (2025-12-30)
-- [Extract Text from PDFs with PDFMiner in Python](https://dev.to/rosgluk/extract-text-from-pdfs-with-pdfminer-in-python-4ap6) (2025-12-30)
-- [Boost Your Developer Revenue with Monetzly's API Monetization](https://dev.to/monetzly/boost-your-developer-revenue-with-monetzlys-api-monetization-1al4) (2025-12-30)
-- [You don’t need to worry about global auth state anymore.](https://dev.to/kenneth_nnabuife_3d6b7a81/you-dont-need-to-worry-about-global-auth-state-anymore-3bfo) (2025-12-30)
+- [🛠️_Development_Efficiency_vs_Runtime_Performance[20251230061947]](https://dev.to/member_8659c28a/developmentefficiencyvsruntimeperformance20251230061947-lp3) (2025-12-30)
+- [Remote work only works when the environment is non negotiable. Ashkan Rajaee explains why.](https://dev.to/kathrynlogist/remote-work-only-works-when-the-environment-is-non-negotiable-ashkan-rajaee-explains-why-2lac) (2025-12-30)
+- [Same Fairway, Different Worlds- New Golfer vs. Scratch Golfer Explained with Humor](https://dev.to/parteeof18/same-fairway-different-worlds-new-golfer-vs-scratch-golfer-explained-with-humor-2ja2) (2025-12-30)
+- [Quick Stops That Matter: The Role of Convenience Stores in Rural and Semi-Urban Areas](https://dev.to/nencywilliams/quick-stops-that-matter-the-role-of-convenience-stores-in-rural-and-semi-urban-areas-31ic) (2025-12-30)
+- [Most SaaS Products Don’t Fail on Tech - They Fail on Trust](https://dev.to/mukul_sharma/most-saas-products-dont-fail-on-tech-they-fail-on-trust-30mc) (2025-12-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Two Sum Problem in Dart: A Developer’s Secret Weapon You’re Not Using](https://medium.com/@alaxhenry0121/the-two-sum-problem-in-dart-a-developers-secret-weapon-you-re-not-using-624402a81ebb?source=rss------programming-5) (2025-12-30)
-- [Two Ways SQL Combines Data: JOINs and Set Operations](https://medium.com/@bskky001/two-ways-sql-combines-data-joins-and-set-operations-3a6b0f92c1a4?source=rss------programming-5) (2025-12-30)
-- [Automating vSAN ESA Deployments with Ansible](https://engineering.elluminates.com/automating-vsan-esa-deployments-with-ansible-d29e127dce47?source=rss------programming-5) (2025-12-30)
-- [09370673570](https://medium.com/@bchchdjjxnxb4jcjf/09370673570-62c9eba83810?source=rss------programming-5) (2025-12-30)
-- [09370673570](https://medium.com/@bchchdjjxnxb4jcjf/09370673570-eecbb8e7c283?source=rss------programming-5) (2025-12-30)
+- [RAG Spring AI: Chat with Your PDFs Using Tika and Qdrant (RAG Explained)](https://chakresh0108.medium.com/rag-spring-ai-chat-with-your-pdfs-using-tika-and-qdrant-rag-explained-9487859fd073?source=rss------programming-5) (2025-12-30)
+- [Web Development Is Meant to Be Built, Not Watched](https://pixicstudio.medium.com/web-development-is-meant-to-be-built-not-watched-f15709ea6139?source=rss------programming-5) (2025-12-30)
+- [ Rust: The Programming Language That Cares About Your Code (and You)](https://medium.com/@jm.dilusha.lakshan/rust-the-programming-language-that-cares-about-your-code-and-you-d55ebb90b298?source=rss------programming-5) (2025-12-30)
+- [How to Become a Backend Developer in 2026](https://dayakumar06588.medium.com/how-to-become-a-backend-developer-in-2026-e1208352f9bd?source=rss------programming-5) (2025-12-30)
+- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-b95b08154d11?source=rss------programming-5) (2025-12-30)
 
 </details>
 
