@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Google Opal](https://opal.google/landing/) (2025-12-31)
-- [LLVM AI tool policy: human in the loop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159) (2025-12-31)
-- [L1TF Reloaded](https://github.com/ThijsRay/l1tf_reloaded) (2025-12-31)
-- [Readings in Database Systems (5th Edition)](http://www.redbook.io/) (2025-12-31)
-- [Honey's Dieselgate: Detecting and tricking testers](https://vptdigital.com/blog/honey-detecting-testers/) (2025-12-30)
+- [Activeloop (YC S18) Is Hiring MTS – Back End Engineer](https://careers.activeloop.ai/?ashby_jid=d8c54147-5fc8-48ba-a097-a6ae046c42bd) (2025-12-31)
+- [Show HN: I built a universal clipboard that syncs realtime on multiple devices](https://www.quickclip.space/) (2025-12-31)
+- [Akin's Laws of Spacecraft Design [pdf]](https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf) (2025-12-31)
+- [The rise of industrial software](https://chrisloy.dev/post/2025/12/30/the-rise-of-industrial-software) (2025-12-31)
+- [Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.](https://exopriors.com/scry) (2025-12-31)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Why inventing new emotions feels so good](https://www.technologyreview.com/2025/12/31/1129403/new-emotions-online-life-feelings/) (2025-12-31)
 - [The ascent of the AI therapist](https://www.technologyreview.com/2025/12/30/1129392/book-reviews-ai-therapy-mental-health/) (2025-12-30)
 - [Bangladesh’s garment-making industry is getting greener](https://www.technologyreview.com/2025/12/29/1129308/bangladesh-garment-sustainability-frugal-factories/) (2025-12-29)
 - [MIT Technology Review’s most popular stories of 2025](https://www.technologyreview.com/2025/12/26/1130318/mit-technology-review-most-popular-stories-2025/) (2025-12-26)
 - [The paints, coatings, and chemicals making the world a cooler place](https://www.technologyreview.com/2025/12/26/1129301/paint-coating-chemicals-materials-cooling-air-conditioning/) (2025-12-26)
-- [AI Wrapped: The 14 AI terms you couldn’t avoid in 2025](https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/) (2025-12-25)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [.NET Full Stack Course in Telugu: A Complete Career-Oriented Guide](https://dev.to/adas_madasu_d145b19b61e81/net-full-stack-course-in-telugu-a-complete-career-oriented-guide-708) (2025-12-31)
-- [🔒_Security_Performance_Balance[20251231061808]](https://dev.to/member_8659c28a/securityperformancebalance20251231061808-7af) (2025-12-31)
-- [Kubernetes and scalability](https://dev.to/vishthakkar/kubernetes-and-scalability-dg4) (2025-12-31)
-- [How to Implement Onboarding Mascots in Flutter with Rive](https://dev.to/uianimation/how-to-implement-onboarding-mascots-in-flutter-with-rive-53mi) (2025-12-31)
-- [StableJSON: A Practical Workspace for Serious JSON Work](https://dev.to/debjit450/stablejson-a-practical-workspace-for-serious-json-work-2cal) (2025-12-31)
+- [Boost Developer Revenue: How Monetzly Makes AI Monetization Simple](https://dev.to/monetzly/boost-developer-revenue-how-monetzly-makes-ai-monetization-simple-45hc) (2025-12-31)
+- [How Undetected Sensitive Data Exposure Leads to Breaches, Fines, and Downtime](https://dev.to/jigar_online/how-undetected-sensitive-data-exposure-leads-to-breaches-fines-and-downtime-ibm) (2025-12-31)
+- [SLMs vs. LLMs : Why Bigger Isn’t Always Better for Logistics & Supply Chain Intelligence](https://dev.to/ari-ghosh/slms-vs-llms-why-bigger-isnt-always-better-for-logistics-supply-chain-intelligence-38ol) (2025-12-31)
+- [Java Thread Pools Explained with End-to-End Examples (Fixed, Cached, Single, Scheduled)](https://dev.to/realnamehidden1_61/java-thread-pools-explained-with-end-to-end-examples-fixed-cached-single-scheduled-27l4) (2025-12-31)
+- [Hardware-backed SSH authentication with YubiKey (FIDO2)](https://dev.to/aragorndev/hardware-backed-ssh-authentication-with-yubikey-fido2-2kho) (2025-12-31)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Ruby 4.0 Released: Here’s What Changed and Why You Should Care](https://medium.com/devmap/ruby-4-0-released-heres-what-changed-and-why-you-should-care-e09e0ddfd767?source=rss------programming-5) (2025-12-31)
-- [The Top 5 FREE Generative AI Tools Revolutionizing Development in 2025](https://medium.com/@puvanakopis/the-top-5-free-generative-ai-tools-revolutionizing-development-in-2025-fc2ccca3869e?source=rss------programming-5) (2025-12-31)
-- [StableJSON: A Practical Workspace for Serious JSON Work](https://medium.com/@debjitdey_59101/stablejson-a-practical-workspace-for-serious-json-work-09792d258d43?source=rss------programming-5) (2025-12-31)
-- [Time and Space Complexity in DSA Explained With Simple Examples | Learn DSA With Me](https://santhoshsofficial.medium.com/time-and-space-complexity-in-dsa-explained-with-simple-examples-learn-dsa-with-me-2896ad6f0722?source=rss------programming-5) (2025-12-31)
-- [Day 03 of Everyday Programming](https://medium.com/@ayush.mishra24/day-03-of-everyday-programming-28d5c5bf1f35?source=rss------programming-5) (2025-12-31)
+- [ Next.js Layouts and Nested Routes — A Simplified Guide](https://javascript.plainenglish.io/next-js-layouts-and-nested-routes-a-simplified-guide-d6577f9f42b2?source=rss------programming-5) (2025-12-31)
+- [Flattening Nested Objects in JavaScript (The Simple Recursive Way)](https://medium.com/@surajbhanarkar08/flattening-nested-objects-in-javascript-the-simple-recursive-way-465c4eee35e9?source=rss------programming-5) (2025-12-31)
+- [The Uncomfortable Truth About Rust’s Memory Safety: Why Production Systems Still Ship Memory Bugs](https://medium.com/@dikhyantkrishnadalai/the-uncomfortable-truth-about-rusts-memory-safety-why-production-systems-still-ship-memory-bugs-f7100a2c268d?source=rss------programming-5) (2025-12-31)
+- [What Is the LTIMindtree QA Analyst Interview Process Like? L1, L2 & HR Rounds Explained](https://medium.com/@pardeepgill82/what-is-the-ltimindtree-qa-analyst-interview-process-like-l1-l2-hr-rounds-explained-c55681817721?source=rss------programming-5) (2025-12-31)
+- [️ Image Optimization in Next.js — How and Why It Works](https://javascript.plainenglish.io/%EF%B8%8F-image-optimization-in-next-js-how-and-why-it-works-258d81ae4b92?source=rss------programming-5) (2025-12-31)
 
 </details>
 
@@ -473,11 +473,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
-- [Developer Edition + スクラッチ組織で、複数の開発・検証組織を手にいれる](https://developer.salesforce.com/blogs/2025/12/jp-scratch-org-with-developer-edition.html) (2025-12-26)
-- [プロから学ぶ、Agentforce Vibesを使いこなす5つのヒント](https://developer.salesforce.com/blogs/2025/12/jp-five-pro-tips-for-using-agentforce-vibes.html) (2025-12-25)
 - [新しいサンプルアプリ「Agent Script Recipes」でハイブリッド推論をマスター](https://developer.salesforce.com/blogs/2025/12/jp-master-hybrid-reasoning-with-the-new-agent-script-recipes-sample-app.html) (2025-12-24)
 - [Build Composable Storefronts Smarter and Faster with the PWA Kit MCP Server](https://developer.salesforce.com/blogs/2025/12/build-composable-storefronts-smarter-and-faster-with-the-pwa-kit-mcp-server.html) (2025-12-23)
 - [AgentforceデータライブラリーからAIエージェントのテストケースを自動生成](https://developer.salesforce.com/blogs/2025/12/jp-auto-generate-agent-test-cases-from-agentforce-data-libraries.html) (2025-12-23)
+- [【Agentforce Hackathon Tokyo】第 1 位 Lightning Brightning: Agentforce と Tableau で革新するデータ駆動型ソリューション「Beauty Cloud」](https://developer.salesforce.com/blogs/2025/12/agentforce_hackathon_tokyo_2025_1st.html) (2025-12-22)
+- [Agentforceで会話履歴を活用して、マルチターンのAIエージェントテストを自動化](https://developer.salesforce.com/blogs/2025/12/jp-automate-multi-turn-agent-testing-with-conversation-history-in-agentforce.html) (2025-12-18)
 
 </details>
 
@@ -561,22 +561,22 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Chunk Size as an Experimental Variable in RAG Systems](https://towardsdatascience.com/chunk-size-as-an-experimental-variable-in-rag-systems/) (2025-12-31)
+- [The Machine Learning “Advent Calendar” Bonus 2: Gradient Descent Variants in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-bonus-2-gradient-descent-variants-in-excel/) (2025-12-31)
 - [Overcoming Nonsmoothness and Control Chattering in Nonconvex Optimal Control Problems](https://towardsdatascience.com/optimal-path-planning-for-wheeled-robots/) (2025-12-30)
 - [The Machine Learning “Advent Calendar” Bonus 1: AUC in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-bonus-1-auc-in-excel/) (2025-12-30)
 - [Agents Under the Curve (AUC)](https://towardsdatascience.com/agents-under-the-curve-auc/) (2025-12-30)
-- [How to Facilitate Effective AI Programming](https://towardsdatascience.com/how-to-faciliate-for-effective-ai-programming/) (2025-12-29)
-- [Machine Learning vs AI Engineer: What Are the Differences?](https://towardsdatascience.com/machine-learning-vs-ai-engineer-no-confusing-jargon/) (2025-12-29)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Student ID Benefits Worth Thousands: Get 15+ Premium Tools For Free or on Discount](https://www.analyticsvidhya.com/blog/2025/12/student-id-discounts-worth-thousands/) (2025-12-31)
+- [15 Best Python Books for Beginners to Advanced Learners [2026 Edition]](https://www.analyticsvidhya.com/blog/2025/12/best-python-books/) (2025-12-31)
 - [10 Awesome Docker Projects for Beginners](https://www.analyticsvidhya.com/blog/2025/12/docker-projects/) (2025-12-30)
 - [What is Chain of Thought (CoT) Prompting?](https://www.analyticsvidhya.com/blog/2025/12/chain-of-thought-cot-prompting/) (2025-12-30)
 - [What is F1 Score in Machine Learning?](https://www.analyticsvidhya.com/blog/2025/12/what-is-f1-score-in-machine-learning/) (2025-12-29)
-- [Track and Monitor AI Agents Using MLflow: Complete Guide for Agentic Systems](https://www.analyticsvidhya.com/blog/2025/12/monitor-ai-agents-with-mlflow/) (2025-12-29)
-- [Google A2UI Explained: How AI Agents Build Secure, Native User Interfaces](https://www.analyticsvidhya.com/blog/2025/12/google-a2ui-explained/) (2025-12-28)
 
 </details>
 
