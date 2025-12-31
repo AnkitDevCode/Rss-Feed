@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The phone is dead. Long live . . . what exactly?](https://techcrunch.com/2025/12/30/the-phone-is-dead-long-live-what-exactly/) (2025-12-31)
 - [Almost 80 European deep tech university spinouts reached $1B valuations or $100M in revenue in 2025](https://techcrunch.com/2025/12/30/76-european-deep-tech-university-spinouts-reached-unicorn-or-centaur-status/) (2025-12-30)
 - [12 investors dish on what 2026 will bring for climate tech](https://techcrunch.com/2025/12/30/12-investors-dish-on-what-2026-will-bring-for-climate-tech/) (2025-12-30)
 - [The best AI-powered dictation apps of 2025](https://techcrunch.com/2025/12/30/the-best-ai-powered-dictation-apps-of-2025/) (2025-12-30)
 - [VCs predict enterprises will spend more on AI in 2026 — through fewer vendors](https://techcrunch.com/2025/12/30/vcs-predict-enterprises-will-spend-more-on-ai-in-2026-through-fewer-vendors/) (2025-12-30)
-- [The top 26 consumer/edtech companies from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/30/the-top-26-consumer-edtech-companies-from-disrupt-startup-battlefield/) (2025-12-30)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Project ideas to appreciate the art of programming](https://codecrafters.io/blog/programming-project-ideas) (2025-12-30)
-- [Coase's Penguin, Or, Linux and the Nature of the Firm [pdf]](https://www.benkler.org/CoasesPenguin.PDF) (2025-12-30)
+- [Google Opal](https://opal.google/landing/) (2025-12-31)
+- [LLVM AI tool policy: human in the loop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159) (2025-12-31)
+- [L1TF Reloaded](https://github.com/ThijsRay/l1tf_reloaded) (2025-12-31)
+- [Readings in Database Systems (5th Edition)](http://www.redbook.io/) (2025-12-31)
 - [Honey's Dieselgate: Detecting and tricking testers](https://vptdigital.com/blog/honey-detecting-testers/) (2025-12-30)
-- [OpenAI's cash burn will be one of the big bubble questions of 2026](https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026) (2025-12-30)
-- [Humans May Be Able to Grow New Teeth Within Just 4 Years](https://www.popularmechanics.com/science/health/a69878870/human-new-tooth-regrowth-trials-japan-timeline/) (2025-12-30)
 
 </details>
 
@@ -97,19 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I spent a week working on regression tests & metadata guarantees on the YINI config/settings parser](https://dev.to/marko_kseppnen_6250a7f/i-spent-a-week-working-on-regression-tests-metadata-guarantees-on-the-yini-configsettings-parser-5f2m) (2025-12-31)
-- [Boost Your SDK Integration with Monetzly's AI Monetization Solutions](https://dev.to/monetzly/boost-your-sdk-integration-with-monetzlys-ai-monetization-solutions-3a7a) (2025-12-31)
-- [Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks](https://dev.to/paperium/cardiologist-level-arrhythmia-detection-with-convolutional-neural-networks-3co5) (2025-12-31)
-- [MakeBanner.ai - Professional Visuals, Zero Design Skills.](https://dev.to/li_wujie_0995d9c1bca1f2e3/makebannerai-professional-visuals-zero-design-skills-4gjg) (2025-12-31)
-- [How to Fetch Real-Time News in Python (3 Practical Examples)](https://dev.to/timhkelly/how-to-fetch-real-time-news-in-python-3-practical-examples-2id) (2025-12-31)
+- [.NET Full Stack Course in Telugu: A Complete Career-Oriented Guide](https://dev.to/adas_madasu_d145b19b61e81/net-full-stack-course-in-telugu-a-complete-career-oriented-guide-708) (2025-12-31)
+- [🔒_Security_Performance_Balance[20251231061808]](https://dev.to/member_8659c28a/securityperformancebalance20251231061808-7af) (2025-12-31)
+- [Kubernetes and scalability](https://dev.to/vishthakkar/kubernetes-and-scalability-dg4) (2025-12-31)
+- [How to Implement Onboarding Mascots in Flutter with Rive](https://dev.to/uianimation/how-to-implement-onboarding-mascots-in-flutter-with-rive-53mi) (2025-12-31)
+- [StableJSON: A Practical Workspace for Serious JSON Work](https://dev.to/debjit450/stablejson-a-practical-workspace-for-serious-json-work-2cal) (2025-12-31)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09370673570](https://medium.com/@mnbvcd2hjj/09370673570-3a2b30603595?source=rss------programming-5) (2025-12-31)
-- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbvcd2hjj/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-de4c0a40f089?source=rss------programming-5) (2025-12-31)
+- [Ruby 4.0 Released: Here’s What Changed and Why You Should Care](https://medium.com/devmap/ruby-4-0-released-heres-what-changed-and-why-you-should-care-e09e0ddfd767?source=rss------programming-5) (2025-12-31)
+- [The Top 5 FREE Generative AI Tools Revolutionizing Development in 2025](https://medium.com/@puvanakopis/the-top-5-free-generative-ai-tools-revolutionizing-development-in-2025-fc2ccca3869e?source=rss------programming-5) (2025-12-31)
+- [StableJSON: A Practical Workspace for Serious JSON Work](https://medium.com/@debjitdey_59101/stablejson-a-practical-workspace-for-serious-json-work-09792d258d43?source=rss------programming-5) (2025-12-31)
+- [Time and Space Complexity in DSA Explained With Simple Examples | Learn DSA With Me](https://santhoshsofficial.medium.com/time-and-space-complexity-in-dsa-explained-with-simple-examples-learn-dsa-with-me-2896ad6f0722?source=rss------programming-5) (2025-12-31)
+- [Day 03 of Everyday Programming](https://medium.com/@ayush.mishra24/day-03-of-everyday-programming-28d5c5bf1f35?source=rss------programming-5) (2025-12-31)
 
 </details>
 
@@ -470,11 +473,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
+- [Developer Edition + スクラッチ組織で、複数の開発・検証組織を手にいれる](https://developer.salesforce.com/blogs/2025/12/jp-scratch-org-with-developer-edition.html) (2025-12-26)
+- [プロから学ぶ、Agentforce Vibesを使いこなす5つのヒント](https://developer.salesforce.com/blogs/2025/12/jp-five-pro-tips-for-using-agentforce-vibes.html) (2025-12-25)
 - [新しいサンプルアプリ「Agent Script Recipes」でハイブリッド推論をマスター](https://developer.salesforce.com/blogs/2025/12/jp-master-hybrid-reasoning-with-the-new-agent-script-recipes-sample-app.html) (2025-12-24)
 - [Build Composable Storefronts Smarter and Faster with the PWA Kit MCP Server](https://developer.salesforce.com/blogs/2025/12/build-composable-storefronts-smarter-and-faster-with-the-pwa-kit-mcp-server.html) (2025-12-23)
 - [AgentforceデータライブラリーからAIエージェントのテストケースを自動生成](https://developer.salesforce.com/blogs/2025/12/jp-auto-generate-agent-test-cases-from-agentforce-data-libraries.html) (2025-12-23)
-- [【Agentforce Hackathon Tokyo】第 1 位 Lightning Brightning: Agentforce と Tableau で革新するデータ駆動型ソリューション「Beauty Cloud」](https://developer.salesforce.com/blogs/2025/12/agentforce_hackathon_tokyo_2025_1st.html) (2025-12-22)
-- [Agentforceで会話履歴を活用して、マルチターンのAIエージェントテストを自動化](https://developer.salesforce.com/blogs/2025/12/jp-automate-multi-turn-agent-testing-with-conversation-history-in-agentforce.html) (2025-12-18)
 
 </details>
 
