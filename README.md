@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [The phone is dead. Long live . . . what exactly?](https://techcrunch.com/2025/12/30/the-phone-is-dead-long-live-what-exactly/) (2025-12-31)
-- [Almost 80 European deep tech university spinouts reached $1B valuations or $100M in revenue in 2025](https://techcrunch.com/2025/12/30/76-european-deep-tech-university-spinouts-reached-unicorn-or-centaur-status/) (2025-12-30)
-- [12 investors dish on what 2026 will bring for climate tech](https://techcrunch.com/2025/12/30/12-investors-dish-on-what-2026-will-bring-for-climate-tech/) (2025-12-30)
-- [The best AI-powered dictation apps of 2025](https://techcrunch.com/2025/12/30/the-best-ai-powered-dictation-apps-of-2025/) (2025-12-30)
-- [VCs predict enterprises will spend more on AI in 2026 — through fewer vendors](https://techcrunch.com/2025/12/30/vcs-predict-enterprises-will-spend-more-on-ai-in-2026-through-fewer-vendors/) (2025-12-30)
+- [Investors predict AI is coming for labor in 2026 ](https://techcrunch.com/2025/12/31/investors-predict-ai-is-coming-for-labor-in-2026/) (2025-12-31)
+- [These are the best gadgets for your pet right now](https://techcrunch.com/2025/12/31/these-are-the-best-gadgets-for-your-pet-right-now/) (2025-12-31)
+- [Tade Oyerinde and Teddy Solomon talk about building engaged audiences at TechCrunch Disrupt](https://techcrunch.com/2025/12/31/tade-oyerinde-and-teddy-solomon-talk-about-building-engaged-audiences-at-techcrunch-disrupt/) (2025-12-31)
+- [Every fusion startup that has raised over $100M](https://techcrunch.com/2025/12/31/every-fusion-startup-that-has-raised-over-100m/) (2025-12-31)
+- [The 10 top government, legal startups from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/31/the-10-top-government-legal-startups-from-disrupt-startup-battlefield/) (2025-12-31)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Activeloop (YC S18) Is Hiring MTS – Back End Engineer](https://careers.activeloop.ai/?ashby_jid=d8c54147-5fc8-48ba-a097-a6ae046c42bd) (2025-12-31)
-- [Show HN: I built a universal clipboard that syncs realtime on multiple devices](https://www.quickclip.space/) (2025-12-31)
-- [Akin's Laws of Spacecraft Design [pdf]](https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf) (2025-12-31)
-- [The rise of industrial software](https://chrisloy.dev/post/2025/12/30/the-rise-of-industrial-software) (2025-12-31)
-- [Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.](https://exopriors.com/scry) (2025-12-31)
+- [Stewart Cheifet, creator of The Computer Chronicles, dead at 87](https://obits.goldsteinsfuneral.com/stewart-cheifet) (2025-12-31)
+- [The Economics of Duke University](https://dontaylor13.substack.com/p/duke-university) (2025-12-31)
+- [SigNoz (YC W21, open source observability platform) Is Hiring across roles](https://signoz.io/careers) (2025-12-31)
+- [2026: The Year of Java in the Terminal?](https://xam.dk/blog/lets-make-2026-the-year-of-java-in-the-terminal/) (2025-12-31)
+- [Scaffolding to Superhuman: How Curriculum Learning Solved 2048 and Tetris](https://kywch.github.io/blog/2025/12/curriculum-learning-2048-tetris/) (2025-12-31)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Two cybersecurity employees plead guilty to carrying out ransomware attacks](https://www.theverge.com/news/851467/cybersecurity-employees-plead-guilty-alphv-blackcat-ransomware) (2025-12-30)
-- [The OneXSugar Wallet is the first gaming handheld with a folding screen](https://www.theverge.com/news/851401/one-netbook-onexsugar-gaming-handheld-wallet-folding-oled-screen-android) (2025-12-30)
-- [GameSir put a tiny force feedback steering wheel on its new Swift Drive controller](https://www.theverge.com/news/851259/gamesir-switch-turbo-drive-controller-steering-wheel-wireless-force-feedback) (2025-12-30)
-- [Anker’s portable backup battery is an even better investment now that it’s nearly half off](https://www.theverge.com/gadgets/851016/anker-521-powerhouse-google-tv-streamer-4k-deal-sale) (2025-12-30)
-- [The FCC has probably killed a plan to improve smart home security](https://www.theverge.com/news/851271/cyber-trust-mark-program-lead-administrator-withdraws) (2025-12-30)
+- [Net neutrality was back, until it wasn’t](https://www.theverge.com/report/851629/net-neutrality-fcc-retrospective-2025) (2025-12-31)
+- [Leaked video shows the Galaxy S26 Ultra’s new camera island](https://www.theverge.com/news/851931/samsung-galaxy-236-ultra-video-photo-leak) (2025-12-31)
+- [The Dreame X40 Ultra robovac is about $700 off, nearly matching its best price](https://www.theverge.com/gadgets/851325/dreame-x40-ultra-baseus-163w-retractable-car-charger-deal-sale) (2025-12-31)
+- [Killing in the name of… nothing](https://www.theverge.com/policy/849609/charlie-kirk-shooting-ideology-literacy-politics) (2025-12-31)
+- [The 11 best Nintendo Switch 2 games we played in 2025](https://www.theverge.com/games/845401/nintendo-switch-2-best-games) (2025-12-31)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Here we go again: Retiring coal plant forced to stay open by Trump Admin](https://arstechnica.com/science/2025/12/trump-admin-orders-another-coal-plant-to-stay-open/) (2025-12-31)
+- [Supply chains, AI, and the cloud: The biggest failures (and one success) of 2025](https://arstechnica.com/security/2025/12/supply-chains-ai-and-the-cloud-the-biggest-failures-and-one-success-of-2025/) (2025-12-31)
+- [From prophet to product: How AI came back down to earth in 2025](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) (2025-12-31)
 - [The science of how (and when) we decide to speak out—or self-censor](https://arstechnica.com/science/2025/12/the-science-of-how-and-when-we-decide-to-speak-out-or-self-censor/) (2025-12-30)
 - [Lawsuit over Trump rejecting medical research grants is settled](https://arstechnica.com/science/2025/12/feds-researchers-settle-suit-over-grants-blocked-by-now-illegal-order/) (2025-12-30)
-- [DOGE did not find $2T in fraud, but that doesn’t matter, Musk allies say](https://arstechnica.com/tech-policy/2025/12/doge-did-not-find-2t-in-fraud-but-that-doesnt-matter-musk-allies-say/) (2025-12-30)
-- [NJ’s answer to flooding: it has bought out and demolished 1,200 properties](https://arstechnica.com/tech-policy/2025/12/as-floods-become-more-severe-a-new-jersey-program-provides-a-model/) (2025-12-30)
-- [Stranger Things series finale trailer is here](https://arstechnica.com/culture/2025/12/stranger-things-series-finale-trailer-is-here/) (2025-12-30)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [A look under the hood: How (and why) we built Question Assistant](https://stackoverflow.blog/2025/12/31/a-look-under-the-hood-how-and-why-we-built-question-assistant/) (2025-12-31)
 - [A new era of Stack Overflow](https://stackoverflow.blog/2025/12/30/a-new-era-of-stack-overflow/) (2025-12-30)
 - [How AI is helping us build better communities](https://stackoverflow.blog/2025/12/30/how-ai-is-helping-us-build-better-communities/) (2025-12-30)
 - [Developers remain willing but reluctant to use AI: The 2025 Developer Survey results are here](https://stackoverflow.blog/2025/12/29/developers-remain-willing-but-reluctant-to-use-ai-the-2025-developer-survey-results-are-here/) (2025-12-29)
 - [AI vs Gen Z: How AI has changed the career pathway for junior developers](https://stackoverflow.blog/2025/12/26/ai-vs-gen-z/) (2025-12-26)
-- [Containers are easy—moving your legacy system off your VM is not](https://stackoverflow.blog/2025/12/26/containers-are-easy-moving-your-legacy-system-off-your-vm-is-not/) (2025-12-26)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Boost Developer Revenue: How Monetzly Makes AI Monetization Simple](https://dev.to/monetzly/boost-developer-revenue-how-monetzly-makes-ai-monetization-simple-45hc) (2025-12-31)
-- [How Undetected Sensitive Data Exposure Leads to Breaches, Fines, and Downtime](https://dev.to/jigar_online/how-undetected-sensitive-data-exposure-leads-to-breaches-fines-and-downtime-ibm) (2025-12-31)
-- [SLMs vs. LLMs : Why Bigger Isn’t Always Better for Logistics & Supply Chain Intelligence](https://dev.to/ari-ghosh/slms-vs-llms-why-bigger-isnt-always-better-for-logistics-supply-chain-intelligence-38ol) (2025-12-31)
-- [Java Thread Pools Explained with End-to-End Examples (Fixed, Cached, Single, Scheduled)](https://dev.to/realnamehidden1_61/java-thread-pools-explained-with-end-to-end-examples-fixed-cached-single-scheduled-27l4) (2025-12-31)
-- [Hardware-backed SSH authentication with YubiKey (FIDO2)](https://dev.to/aragorndev/hardware-backed-ssh-authentication-with-yubikey-fido2-2kho) (2025-12-31)
+- [An Algebraic View of Databases](https://dev.to/lovestaco/an-algebraic-view-of-databases-36p8) (2025-12-31)
+- [The four principles of object-oriented programming](https://dev.to/obrutus/the-four-principles-of-object-oriented-programming-mcc) (2025-12-31)
+- [Timefold Planning Optimization in Modern ERP Systems](https://dev.to/richa_singh_11bd098df12c8/timefold-planning-optimization-in-modern-erp-systems-g8f) (2025-12-31)
+- [Protecting a document is not the same as proving it exists](https://dev.to/jeason/protecting-a-document-is-not-the-same-as-proving-it-exists-549k) (2025-12-31)
+- [ManageMyHealth investigates breach of New Zealand patient portal](https://dev.to/beyondmachines/managemyhealth-investigates-breach-of-new-zealand-patient-portal-5f5d) (2025-12-31)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ Next.js Layouts and Nested Routes — A Simplified Guide](https://javascript.plainenglish.io/next-js-layouts-and-nested-routes-a-simplified-guide-d6577f9f42b2?source=rss------programming-5) (2025-12-31)
-- [Flattening Nested Objects in JavaScript (The Simple Recursive Way)](https://medium.com/@surajbhanarkar08/flattening-nested-objects-in-javascript-the-simple-recursive-way-465c4eee35e9?source=rss------programming-5) (2025-12-31)
-- [The Uncomfortable Truth About Rust’s Memory Safety: Why Production Systems Still Ship Memory Bugs](https://medium.com/@dikhyantkrishnadalai/the-uncomfortable-truth-about-rusts-memory-safety-why-production-systems-still-ship-memory-bugs-f7100a2c268d?source=rss------programming-5) (2025-12-31)
-- [What Is the LTIMindtree QA Analyst Interview Process Like? L1, L2 & HR Rounds Explained](https://medium.com/@pardeepgill82/what-is-the-ltimindtree-qa-analyst-interview-process-like-l1-l2-hr-rounds-explained-c55681817721?source=rss------programming-5) (2025-12-31)
-- [️ Image Optimization in Next.js — How and Why It Works](https://javascript.plainenglish.io/%EF%B8%8F-image-optimization-in-next-js-how-and-why-it-works-258d81ae4b92?source=rss------programming-5) (2025-12-31)
+- [Inside the Infinite __call__ Chain of Python](https://medium.com/@tihomir.manushev/inside-the-infinite-call-chain-of-python-0f1ec1d72a97?source=rss------programming-5) (2025-12-31)
+- [A Real Resolution for 2026 (Not the Fake Ones We Quit in January)](https://medium.com/@yaduvanshineelam09/a-real-resolution-for-2026-not-the-fake-ones-we-quit-in-january-9773aa1e97eb?source=rss------programming-5) (2025-12-31)
+- [How Strongly Typed IDs Can Make Your Code More Expressive](https://medium.com/@mariammaurice/how-strongly-typed-ids-can-make-your-code-more-expressive-cc0c190d9cca?source=rss------programming-5) (2025-12-31)
+- [Write Faster SQL Queries With Dapper In .NET 10 | Clean Architecture](https://medium.com/@michaelmaurice410/write-faster-sql-queries-with-dapper-in-net-10-clean-architecture-5fb63ddd9af3?source=rss------programming-5) (2025-12-31)
+- [Domain Validation With .NET | Clean Architecture, DDD, .NET 10](https://medium.com/@maged_/domain-validation-with-net-clean-architecture-ddd-net-10-2ee72ab73073?source=rss------programming-5) (2025-12-31)
 
 </details>
 
@@ -561,11 +561,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Production-Ready LLMs Made Simple with the NeMo Agent Toolkit](https://towardsdatascience.com/production-ready-llms-made-simple-with-nemo-agent-toolkit/) (2025-12-31)
+- [What Advent of Code Has Taught Me About Data Science](https://towardsdatascience.com/what-advent-of-code-has-taught-me-about-data-science/) (2025-12-31)
 - [Chunk Size as an Experimental Variable in RAG Systems](https://towardsdatascience.com/chunk-size-as-an-experimental-variable-in-rag-systems/) (2025-12-31)
 - [The Machine Learning “Advent Calendar” Bonus 2: Gradient Descent Variants in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-bonus-2-gradient-descent-variants-in-excel/) (2025-12-31)
 - [Overcoming Nonsmoothness and Control Chattering in Nonconvex Optimal Control Problems](https://towardsdatascience.com/optimal-path-planning-for-wheeled-robots/) (2025-12-30)
-- [The Machine Learning “Advent Calendar” Bonus 1: AUC in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-bonus-1-auc-in-excel/) (2025-12-30)
-- [Agents Under the Curve (AUC)](https://towardsdatascience.com/agents-under-the-curve-auc/) (2025-12-30)
 
 </details>
 
@@ -583,11 +583,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [10 Lesser-Known Python Libraries Every Data Scientist Should Be Using in 2026](https://www.kdnuggets.com/10-lesser-known-python-libraries-every-data-scientist-should-be-using-in-2026) (2025-12-31)
 - [7 High Paying Side Hustles for Students](https://www.kdnuggets.com/7-high-paying-side-hustles-for-students) (2025-12-30)
 - [The Best Agentic AI Browsers to Look For in 2026](https://www.kdnuggets.com/the-best-agentic-ai-browsers-to-look-for-in-2026) (2025-12-29)
 - [5 Fun Docker Projects for Absolute Beginners](https://www.kdnuggets.com/5-fun-docker-projects-for-absolute-beginners) (2025-12-26)
 - [Top 7 Open Source OCR Models](https://www.kdnuggets.com/top-7-open-source-ocr-models) (2025-12-24)
-- [Probability Concepts You’ll Actually Use in Data Science](https://www.kdnuggets.com/probability-concepts-youll-actually-use-in-data-science) (2025-12-23)
 
 </details>
 
