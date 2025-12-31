@@ -31,33 +31,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Toro: Deploy Applications as Unikernels](https://github.com/torokernel/torokernel) (2025-12-30)
-- [Ask HN: Any example of successful vibe-coded product?](https://news.ycombinator.com/item?id=46434821) (2025-12-30)
-- [Show HN: Tidy Baby is a SET game but with words](https://tidy.baby) (2025-12-30)
-- [What Happened to Abit Motherboards](https://dfarq.homeip.net/what-happened-to-abit-motherboards/) (2025-12-30)
-- [Hive (YC S14) Is Hiring a Staff Software Engineer (Data Systems)](https://jobs.ashbyhq.com/hive.co/cb0dc490-0e32-4734-8d91-8b56a31ed497) (2025-12-30)
+- [Project ideas to appreciate the art of programming](https://codecrafters.io/blog/programming-project-ideas) (2025-12-30)
+- [Coase's Penguin, Or, Linux and the Nature of the Firm [pdf]](https://www.benkler.org/CoasesPenguin.PDF) (2025-12-30)
+- [Honey's Dieselgate: Detecting and tricking testers](https://vptdigital.com/blog/honey-detecting-testers/) (2025-12-30)
+- [OpenAI's cash burn will be one of the big bubble questions of 2026](https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026) (2025-12-30)
+- [Humans May Be Able to Grow New Teeth Within Just 4 Years](https://www.popularmechanics.com/science/health/a69878870/human-new-tooth-regrowth-trials-japan-timeline/) (2025-12-30)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Two cybersecurity employees plead guilty to carrying out ransomware attacks](https://www.theverge.com/news/851467/cybersecurity-employees-plead-guilty-alphv-blackcat-ransomware) (2025-12-30)
 - [The OneXSugar Wallet is the first gaming handheld with a folding screen](https://www.theverge.com/news/851401/one-netbook-onexsugar-gaming-handheld-wallet-folding-oled-screen-android) (2025-12-30)
 - [GameSir put a tiny force feedback steering wheel on its new Swift Drive controller](https://www.theverge.com/news/851259/gamesir-switch-turbo-drive-controller-steering-wheel-wireless-force-feedback) (2025-12-30)
 - [Anker’s portable backup battery is an even better investment now that it’s nearly half off](https://www.theverge.com/gadgets/851016/anker-521-powerhouse-google-tv-streamer-4k-deal-sale) (2025-12-30)
 - [The FCC has probably killed a plan to improve smart home security](https://www.theverge.com/news/851271/cyber-trust-mark-program-lead-administrator-withdraws) (2025-12-30)
-- [This smart garden turned my black thumb green](https://www.theverge.com/tech/850224/gardyn-studio-2-review-smart-indoor-garden) (2025-12-30)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Looking for friends, lobsters may stumble into an ecological trap](https://arstechnica.com/science/2025/12/looking-for-friends-lobsters-may-stumble-into-an-ecological-trap/) (2025-12-30)
-- [The top 5 most horrifying and fascinating medical cases of 2025](https://arstechnica.com/health/2025/12/the-top-5-most-horrifying-and-fascinating-medical-cases-of-2025/) (2025-12-30)
-- [The 10 best vehicles Ars Technica drove in 2025](https://arstechnica.com/cars/2025/12/the-10-best-vehicles-ars-technica-drove-in-2025/) (2025-12-30)
-- [US can’t deport hate speech researcher for protected speech, lawsuit says](https://arstechnica.com/tech-policy/2025/12/us-cant-deport-hate-speech-researcher-for-protected-speech-lawsuit-says/) (2025-12-29)
-- [Leonardo’s wood charring method predates Japanese practice](https://arstechnica.com/science/2025/12/did-one-line-in-a-leonardo-codex-anticipate-yakisugi/) (2025-12-29)
+- [The science of how (and when) we decide to speak out—or self-censor](https://arstechnica.com/science/2025/12/the-science-of-how-and-when-we-decide-to-speak-out-or-self-censor/) (2025-12-30)
+- [Lawsuit over Trump rejecting medical research grants is settled](https://arstechnica.com/science/2025/12/feds-researchers-settle-suit-over-grants-blocked-by-now-illegal-order/) (2025-12-30)
+- [DOGE did not find $2T in fraud, but that doesn’t matter, Musk allies say](https://arstechnica.com/tech-policy/2025/12/doge-did-not-find-2t-in-fraud-but-that-doesnt-matter-musk-allies-say/) (2025-12-30)
+- [NJ’s answer to flooding: it has bought out and demolished 1,200 properties](https://arstechnica.com/tech-policy/2025/12/as-floods-become-more-severe-a-new-jersey-program-provides-a-model/) (2025-12-30)
+- [Stranger Things series finale trailer is here](https://arstechnica.com/culture/2025/12/stranger-things-series-finale-trailer-is-here/) (2025-12-30)
 
 </details>
 
@@ -97,22 +97,19 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Deep Graph Library: A Graph-Centric, Highly-Performant Package for Graph NeuralNetworks](https://dev.to/paperium/deep-graph-library-a-graph-centric-highly-performant-package-for-graph-neuralnetworks-lfa) (2025-12-30)
-- [Simple Blind SQL Injection](https://dev.to/travondatrack/simple-blind-sql-injection-3moe) (2025-12-30)
-- [The Only Time I Used Math at Work - and It wasn t What You Think](https://dev.to/sghaier/the-only-time-i-used-math-at-work-and-it-wasn-t-what-you-think-13am) (2025-12-30)
-- [DEV Track Spotlight: How Amazon Teams Use AI Assistants to Accelerate Development (DEV403)](https://dev.to/aws/dev-track-spotlight-how-amazon-teams-use-ai-assistants-to-accelerate-development-dev403-1bh4) (2025-12-30)
-- [Spring Cloud Gateway: Basic Example](https://dev.to/eduesqui/spring-cloud-gateway-basic-example-5dhm) (2025-12-30)
+- [I spent a week working on regression tests & metadata guarantees on the YINI config/settings parser](https://dev.to/marko_kseppnen_6250a7f/i-spent-a-week-working-on-regression-tests-metadata-guarantees-on-the-yini-configsettings-parser-5f2m) (2025-12-31)
+- [Boost Your SDK Integration with Monetzly's AI Monetization Solutions](https://dev.to/monetzly/boost-your-sdk-integration-with-monetzlys-ai-monetization-solutions-3a7a) (2025-12-31)
+- [Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks](https://dev.to/paperium/cardiologist-level-arrhythmia-detection-with-convolutional-neural-networks-3co5) (2025-12-31)
+- [MakeBanner.ai - Professional Visuals, Zero Design Skills.](https://dev.to/li_wujie_0995d9c1bca1f2e3/makebannerai-professional-visuals-zero-design-skills-4gjg) (2025-12-31)
+- [How to Fetch Real-Time News in Python (3 Practical Examples)](https://dev.to/timhkelly/how-to-fetch-real-time-news-in-python-3-practical-examples-2id) (2025-12-31)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Strategic Evolution of Java: Enterprise Architecture in the Next Decade](https://medium.com/@eric.jvm/the-strategic-evolution-of-java-enterprise-architecture-in-the-next-decade-11a854bc6fb4?source=rss------programming-5) (2025-12-30)
-- [Why Power BI Shows Duplicate Rows After Merge and How to Fix It Step by Step](https://medium.com/microsoft-power-bi/why-power-bi-shows-duplicate-rows-after-merge-and-how-to-fix-it-step-by-step-611d5de5be29?source=rss------programming-5) (2025-12-30)
-- [I Failed My First Programming Course — Here’s What I Learned](https://medium.com/@sadman.sakib4400/i-failed-my-first-programming-course-heres-what-i-learned-acb582ba1a25?source=rss------programming-5) (2025-12-30)
-- [All PostgreSQL Extensions Cheat Sheet](https://ozwizard.medium.com/all-postgresql-extensions-cheat-sheet-e194ac6ed563?source=rss------programming-5) (2025-12-30)
-- [How to Make Money With JavaScript](https://medium.com/the-money-guide/how-to-make-money-with-javascript-d1469512dac1?source=rss------programming-5) (2025-12-30)
+- [09370673570](https://medium.com/@mnbvcd2hjj/09370673570-3a2b30603595?source=rss------programming-5) (2025-12-31)
+- [09370673570شماره خاله بندرعباس.شماره](https://medium.com/@mnbvcd2hjj/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-de4c0a40f089?source=rss------programming-5) (2025-12-31)
 
 </details>
 
@@ -218,11 +215,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.35: Watch Based Route Reconciliation in the Cloud Controller Manager](https://kubernetes.io/blog/2025/12/30/kubernetes-v1-35-watch-based-route-reconciliation-in-ccm/) (2025-12-30)
 - [Kubernetes v1.35: Introducing Workload Aware Scheduling](https://kubernetes.io/blog/2025/12/29/kubernetes-v1-35-introducing-workload-aware-scheduling/) (2025-12-29)
 - [Kubernetes v1.35: Fine-grained Supplemental Groups Control Graduates to GA](https://kubernetes.io/blog/2025/12/23/kubernetes-v1-35-fine-grained-supplementalgroups-control-ga/) (2025-12-23)
 - [Kubernetes v1.35: Kubelet Configuration Drop-in Directory Graduates to GA](https://kubernetes.io/blog/2025/12/22/kubernetes-v1-35-kubelet-config-drop-in-directory-ga/) (2025-12-22)
 - [Avoiding Zombie Cluster Members When Upgrading to etcd v3.6](https://kubernetes.io/blog/2025/12/21/preventing-etcd-zombies/) (2025-12-21)
-- [Kubernetes 1.35: In-Place Pod Resize Graduates to Stable](https://kubernetes.io/blog/2025/12/19/kubernetes-v1-35-in-place-pod-resize-ga/) (2025-12-19)
 
 </details>
 
@@ -594,11 +591,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Train Your Large Model on Multiple GPUs with Fully Sharded Data Parallelism](https://machinelearningmastery.com/train-your-large-model-on-multiple-gpus-with-fully-sharded-data-parallelism/) (2025-12-30)
 - [Beyond Short-term Memory: The 3 Types of Long-term Memory AI Agents Need](https://machinelearningmastery.com/beyond-short-term-memory-the-3-types-of-long-term-memory-ai-agents-need/) (2025-12-30)
 - [Train Your Large Model on Multiple GPUs with Pipeline Parallelism](https://machinelearningmastery.com/train-your-large-model-on-multiple-gpus-with-pipeline-parallelism/) (2025-12-29)
 - [5 Python Libraries for Advanced Time Series Forecasting](https://machinelearningmastery.com/5-python-libraries-for-advanced-time-series-forecasting/) (2025-12-29)
 - [Training a Model on Multiple GPUs with Data Parallelism](https://machinelearningmastery.com/training-a-model-on-multiple-gpus-with-data-parallelism/) (2025-12-26)
-- [Train a Model Faster with torch.compile and Gradient Accumulation](https://machinelearningmastery.com/train-a-model-faster-with-torch-compile-and-gradient-accumulation/) (2025-12-25)
 
 </details>
 
