@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Flow5 Released to Open Source](https://flow5.tech/docs/releasenotes.html) (2026-01-01)
-- [Pixar's True Story](https://computerhistory.org/blog/pixars-true-story/) (2026-01-01)
-- [GoGoGrandparent (YC S16) Is Hiring Tech Leads](https://www.ycombinator.com/companies/gogograndparent/jobs/w2jGKM7-gogograndparent-yc-s16-is-hiring-tech-leads) (2026-01-01)
-- [Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring](https://bustermq.sh/) (2026-01-01)
-- [The Delete Act](https://privacy.ca.gov/drop/about-drop-and-the-delete-act/) (2026-01-01)
+- [Windows 11 Outperforming Linux on an Intel Arrow Lake H Laptop](https://www.phoronix.com/review/windows-beats-linux-arl-h) (2026-01-01)
+- [Bluetooth Headphone Jacking: A Key to Your Phone [video]](https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone) (2026-01-01)
+- [Rust–: Rust without the borrow checker](https://github.com/buyukakyuz/rustmm) (2026-01-01)
+- [Worlds largest electric ship launched by Tasmanian boatbuilder](https://www.theguardian.com/australia-news/2025/may/02/hull-096-worlds-largest-electric-ship-battery-power-launched) (2026-01-01)
+- [If childhood is half of subjective life, how should that change how we live?](https://moultano.wordpress.com/2025/12/30/children-and-helical-time/) (2026-01-01)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Shopify Scripts Functions: A Practical Migration Playbook](https://dev.to/sumeet_shrofffreelancer_/shopify-scripts-functions-a-practical-migration-playbook-2pih) (2026-01-01)
-- [GO-QUEUE@v1.1.1: 基于優先級的並發排程，自動提升優先權](https://dev.to/pardnchiu/go-queuev111-ji-yu-you-xian-ji-pai-xu-de-bing-fa-dui-lie-3ebe) (2026-01-01)
-- [Why Time Log History Matters in Labor Disputes and Compliance Audits](https://dev.to/commander_erp_cf7c5a13333/why-time-log-history-matters-in-labor-disputes-and-compliance-audits-2d5d) (2026-01-01)
-- [GO-QUEUE@v1.1.1: Priority-based task queue with automatic timeout promotion](https://dev.to/pardnchiu/go-queuev112-priority-based-task-queue-with-automatic-timeout-promotion-3kgj) (2026-01-01)
-- [The 150-Day Challenge: Building 4 Full-Stack Apps from Scratch](https://dev.to/termuze/the-150-day-challenge-building-4-full-stack-apps-from-scratch-53a8) (2026-01-01)
+- [How to create reactive web page with JQuery](https://dev.to/jahongir2007/how-to-create-reactive-web-page-with-jquery-7la) (2026-01-01)
+- [How AI Can Cut Your Design-Development Handoff Time by 50%](https://dev.to/daisy_jones_21bdcc6b40f9d/how-ai-can-cut-your-design-development-handoff-time-by-50-14ob) (2026-01-01)
+- [How Governance and Compliance Saves The World... lolwut?](https://dev.to/linkbenjamin/how-governance-and-compliance-saves-the-world-lolwut-5him) (2026-01-01)
+- [New update for CodeCoffeeTools! I include P2P Transfer Tool + more..](https://dev.to/niroshan_dh/new-update-for-codecoffeetools-i-include-p2p-transfer-tool-more-3anp) (2026-01-01)
+- [Mr Sunday Movies: The Caesar Planet of the Apes Trilogy - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-caesar-planet-of-the-apes-trilogy-caravan-of-garbage-dka) (2026-01-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [What Every Java Developer Must Learn in 2026 to Stay Relevant](https://medium.com/javarevisited/what-every-java-developer-must-learn-in-2026-to-stay-relevant-c6567d3dcb4d?source=rss------programming-5) (2026-01-01)
-- [Google Sign-In in Flutter (2025): The Complete & Modern Guide ](https://medium.com/@yash22202/google-sign-in-in-flutter-2025-the-complete-modern-guide-97ff2bdfd8ae?source=rss------programming-5) (2026-01-01)
-- [I Tested 5+ AI Coding Tools — This One Actually Helps](https://medium.com/@harshilsetty2006/i-tested-5-ai-coding-tools-this-one-actually-helps-1403a0757cfa?source=rss------programming-5) (2026-01-01)
-- [How to Make Money With Coding](https://medium.com/the-money-guide/how-to-make-money-with-coding-55149412b957?source=rss------programming-5) (2026-01-01)
-- [New Year, New Day, A Quiet Place to Write](https://jwaran78.medium.com/new-year-new-day-a-quiet-place-to-write-ac28205e5625?source=rss------programming-5) (2026-01-01)
+- [I Tested 6 Python GUI Libraries — Only One Felt Like It Belonged in 2026](https://python.plainenglish.io/i-tested-6-python-gui-libraries-only-one-felt-like-it-belonged-in-2026-ea64c36810ce?source=rss------programming-5) (2026-01-01)
+- [Lean Rust data types: int session 2](https://medium.com/devmap/lean-rust-data-types-int-session-2-f9ddca5c398f?source=rss------programming-5) (2026-01-01)
+- [Cash Maximus Erfahrungen – Dein Turbo für mehr finanzielle Freiheit?](https://medium.com/@Digitest/cash-maximus-erfahrungen-dein-turbo-f%C3%BCr-mehr-finanzielle-freiheit-7c64a192c7d2?source=rss------programming-5) (2026-01-01)
+- [The Frontend Architecture Guide You Need Before your frontend Interviews](https://medium.com/interview-series/the-frontend-architecture-guide-you-need-before-your-frontend-interviews-22f815a3f981?source=rss------programming-5) (2026-01-01)
+- [Why Data Scientists Should Stop Indexing by Hand and Start Using zip()](https://medium.com/data-science-collective/why-data-scientists-should-stop-indexing-by-hand-and-start-using-zip-9334010b050a?source=rss------programming-5) (2026-01-01)
 
 </details>
 
@@ -473,11 +473,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
+- [Developer Edition + スクラッチ組織で、複数の開発・検証組織を手にいれる](https://developer.salesforce.com/blogs/2025/12/jp-scratch-org-with-developer-edition.html) (2025-12-26)
+- [プロから学ぶ、Agentforce Vibesを使いこなす5つのヒント](https://developer.salesforce.com/blogs/2025/12/jp-five-pro-tips-for-using-agentforce-vibes.html) (2025-12-25)
 - [新しいサンプルアプリ「Agent Script Recipes」でハイブリッド推論をマスター](https://developer.salesforce.com/blogs/2025/12/jp-master-hybrid-reasoning-with-the-new-agent-script-recipes-sample-app.html) (2025-12-24)
 - [Build Composable Storefronts Smarter and Faster with the PWA Kit MCP Server](https://developer.salesforce.com/blogs/2025/12/build-composable-storefronts-smarter-and-faster-with-the-pwa-kit-mcp-server.html) (2025-12-23)
 - [AgentforceデータライブラリーからAIエージェントのテストケースを自動生成](https://developer.salesforce.com/blogs/2025/12/jp-auto-generate-agent-test-cases-from-agentforce-data-libraries.html) (2025-12-23)
-- [【Agentforce Hackathon Tokyo】第 1 位 Lightning Brightning: Agentforce と Tableau で革新するデータ駆動型ソリューション「Beauty Cloud」](https://developer.salesforce.com/blogs/2025/12/agentforce_hackathon_tokyo_2025_1st.html) (2025-12-22)
-- [Agentforceで会話履歴を活用して、マルチターンのAIエージェントテストを自動化](https://developer.salesforce.com/blogs/2025/12/jp-automate-multi-turn-agent-testing-with-conversation-history-in-agentforce.html) (2025-12-18)
 
 </details>
 
@@ -572,11 +572,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Google T5Gemma-2 Explained: Trying Out a Laptop-Friendly Multimodal AI Model](https://www.analyticsvidhya.com/blog/2026/01/google-t5gemma-2/) (2026-01-01)
 - [Student ID Benefits Worth Thousands: Get 15+ Premium Tools For Free or on Discount](https://www.analyticsvidhya.com/blog/2025/12/student-id-discounts-worth-thousands/) (2025-12-31)
 - [15 Best Python Books for Beginners to Advanced Learners [2026 Edition]](https://www.analyticsvidhya.com/blog/2025/12/best-python-books/) (2025-12-31)
 - [10 Awesome Docker Projects for Beginners](https://www.analyticsvidhya.com/blog/2025/12/docker-projects/) (2025-12-30)
 - [What is Chain of Thought (CoT) Prompting?](https://www.analyticsvidhya.com/blog/2025/12/chain-of-thought-cot-prompting/) (2025-12-30)
-- [What is F1 Score in Machine Learning?](https://www.analyticsvidhya.com/blog/2025/12/what-is-f1-score-in-machine-learning/) (2025-12-29)
 
 </details>
 
