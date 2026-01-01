@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Stewart Cheifet, creator of The Computer Chronicles, dead at 87](https://obits.goldsteinsfuneral.com/stewart-cheifet) (2025-12-31)
-- [The Economics of Duke University](https://dontaylor13.substack.com/p/duke-university) (2025-12-31)
-- [SigNoz (YC W21, open source observability platform) Is Hiring across roles](https://signoz.io/careers) (2025-12-31)
-- [2026: The Year of Java in the Terminal?](https://xam.dk/blog/lets-make-2026-the-year-of-java-in-the-terminal/) (2025-12-31)
-- [Scaffolding to Superhuman: How Curriculum Learning Solved 2048 and Tetris](https://kywch.github.io/blog/2025/12/curriculum-learning-2048-tetris/) (2025-12-31)
+- [Nerd: The First Programming Language Not Built for Humans](https://www.nerd-lang.org/about) (2026-01-01)
+- [GoGoGrandparent (YC S16) Is Hiring Tech Leads](https://www.ycombinator.com/companies/gogograndparent/jobs/w2jGKM7-gogograndparent-yc-s16-is-hiring-tech-leads) (2026-01-01)
+- [Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring](https://bustermq.sh/) (2026-01-01)
+- [The Delete Act](https://privacy.ca.gov/drop/about-drop-and-the-delete-act/) (2026-01-01)
+- [2025: The Year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/) (2025-12-31)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [You can’t trust your eyes to tell you what’s real anymore, says the head of Instagram](https://www.theverge.com/news/852124/adam-mosseri-ai-images-video-instagram) (2025-12-31)
 - [Net neutrality was back, until it wasn’t](https://www.theverge.com/report/851629/net-neutrality-fcc-retrospective-2025) (2025-12-31)
 - [Leaked video shows the Galaxy S26 Ultra’s new camera island](https://www.theverge.com/news/851931/samsung-galaxy-236-ultra-video-photo-leak) (2025-12-31)
 - [The Dreame X40 Ultra robovac is about $700 off, nearly matching its best price](https://www.theverge.com/gadgets/851325/dreame-x40-ultra-baseus-163w-retractable-car-charger-deal-sale) (2025-12-31)
 - [Killing in the name of… nothing](https://www.theverge.com/policy/849609/charlie-kirk-shooting-ideology-literacy-politics) (2025-12-31)
-- [The 11 best Nintendo Switch 2 games we played in 2025](https://www.theverge.com/games/845401/nintendo-switch-2-best-games) (2025-12-31)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [An Algebraic View of Databases](https://dev.to/lovestaco/an-algebraic-view-of-databases-36p8) (2025-12-31)
-- [The four principles of object-oriented programming](https://dev.to/obrutus/the-four-principles-of-object-oriented-programming-mcc) (2025-12-31)
-- [Timefold Planning Optimization in Modern ERP Systems](https://dev.to/richa_singh_11bd098df12c8/timefold-planning-optimization-in-modern-erp-systems-g8f) (2025-12-31)
-- [Protecting a document is not the same as proving it exists](https://dev.to/jeason/protecting-a-document-is-not-the-same-as-proving-it-exists-549k) (2025-12-31)
-- [ManageMyHealth investigates breach of New Zealand patient portal](https://dev.to/beyondmachines/managemyhealth-investigates-breach-of-new-zealand-patient-portal-5f5d) (2025-12-31)
+- [Top 5 Digital Waiver Tools for Fitness Pros in 2025](https://dev.to/dustin_heaps_eb67241531ef/top-5-digital-waiver-tools-for-fitness-pros-in-2025-4lco) (2026-01-01)
+- [Building a YouTube Automation System with Claude AI: From News to Shorts in Minutes](https://dev.to/trollz1004/building-a-youtube-automation-system-with-claude-ai-from-news-to-shorts-in-minutes-5dn6) (2026-01-01)
+- [Building an AI-Powered Customer Churn Prediction Pipeline on AWS (Step-by-Step)](https://dev.to/aws-builders/building-an-ai-powered-customer-churn-prediction-pipeline-on-aws-step-by-step-2l1f) (2026-01-01)
+- [The AI Agent Feedback Loop: From Evaluation to Continuous Improvement](https://dev.to/imshashank/the-ai-agent-feedback-loop-from-evaluation-to-continuous-improvement-5hm4) (2026-01-01)
+- [**Revolutionizing Energy: The Rise of Fusion Startups**](https://dev.to/yagyaraj_sharma_6cd410179/revolutionizing-energy-the-rise-of-fusion-startups-3m95) (2026-01-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Inside the Infinite __call__ Chain of Python](https://medium.com/@tihomir.manushev/inside-the-infinite-call-chain-of-python-0f1ec1d72a97?source=rss------programming-5) (2025-12-31)
-- [A Real Resolution for 2026 (Not the Fake Ones We Quit in January)](https://medium.com/@yaduvanshineelam09/a-real-resolution-for-2026-not-the-fake-ones-we-quit-in-january-9773aa1e97eb?source=rss------programming-5) (2025-12-31)
-- [How Strongly Typed IDs Can Make Your Code More Expressive](https://medium.com/@mariammaurice/how-strongly-typed-ids-can-make-your-code-more-expressive-cc0c190d9cca?source=rss------programming-5) (2025-12-31)
-- [Write Faster SQL Queries With Dapper In .NET 10 | Clean Architecture](https://medium.com/@michaelmaurice410/write-faster-sql-queries-with-dapper-in-net-10-clean-architecture-5fb63ddd9af3?source=rss------programming-5) (2025-12-31)
-- [Domain Validation With .NET | Clean Architecture, DDD, .NET 10](https://medium.com/@maged_/domain-validation-with-net-clean-architecture-ddd-net-10-2ee72ab73073?source=rss------programming-5) (2025-12-31)
+- [Decoding Serum Neurofilament Light Chain as the Universal, Dynamic, and Actionable Biomarker in…](https://medium.com/@aditrizky052/decoding-serum-neurofilament-light-chain-as-the-universal-dynamic-and-actionable-biomarker-in-7dffdf30a8ef?source=rss------programming-5) (2026-01-01)
+- [How to Unlock Passive Income from 7 Python Micro-Tools](https://medium.com/top-python-libraries/how-to-unlock-passive-income-from-7-python-micro-tools-8996ce2ad439?source=rss------programming-5) (2026-01-01)
+- [Build A Machine Learning Project Using Linear Regression.](https://medium.com/activated-thinker/build-a-machine-learning-project-using-linear-regression-d09d9bd810d3?source=rss------programming-5) (2026-01-01)
+- [Propósito: A palavra que definiu meu 2025](https://medium.com/@marcusviniciusdefreitascosta/prop%C3%B3sito-a-palavra-que-definiu-meu-2025-eead6a6b944a?source=rss------programming-5) (2026-01-01)
+- [Expert Report: Sovereign Cognition Engine (BotVibe.ai)](https://medium.com/@michael_29395/expert-report-sovereign-cognition-engine-botvibe-ai-6d13a9c36cfe?source=rss------programming-5) (2026-01-01)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes 1.35: Enhanced Debugging with Versioned z-pages APIs](https://kubernetes.io/blog/2025/12/31/kubernetes-v1-35-structured-zpages/) (2025-12-31)
 - [Kubernetes v1.35: Watch Based Route Reconciliation in the Cloud Controller Manager](https://kubernetes.io/blog/2025/12/30/kubernetes-v1-35-watch-based-route-reconciliation-in-ccm/) (2025-12-30)
 - [Kubernetes v1.35: Introducing Workload Aware Scheduling](https://kubernetes.io/blog/2025/12/29/kubernetes-v1-35-introducing-workload-aware-scheduling/) (2025-12-29)
 - [Kubernetes v1.35: Fine-grained Supplemental Groups Control Graduates to GA](https://kubernetes.io/blog/2025/12/23/kubernetes-v1-35-fine-grained-supplementalgroups-control-ga/) (2025-12-23)
 - [Kubernetes v1.35: Kubelet Configuration Drop-in Directory Graduates to GA](https://kubernetes.io/blog/2025/12/22/kubernetes-v1-35-kubelet-config-drop-in-directory-ga/) (2025-12-22)
-- [Avoiding Zombie Cluster Members When Upgrading to etcd v3.6](https://kubernetes.io/blog/2025/12/21/preventing-etcd-zombies/) (2025-12-21)
 
 </details>
 
@@ -594,11 +594,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Train Your Large Model on Multiple GPUs with Tensor Parallelism](https://machinelearningmastery.com/train-your-large-model-on-multiple-gpus-with-tensor-parallelism/) (2025-12-31)
 - [Train Your Large Model on Multiple GPUs with Fully Sharded Data Parallelism](https://machinelearningmastery.com/train-your-large-model-on-multiple-gpus-with-fully-sharded-data-parallelism/) (2025-12-30)
 - [Beyond Short-term Memory: The 3 Types of Long-term Memory AI Agents Need](https://machinelearningmastery.com/beyond-short-term-memory-the-3-types-of-long-term-memory-ai-agents-need/) (2025-12-30)
 - [Train Your Large Model on Multiple GPUs with Pipeline Parallelism](https://machinelearningmastery.com/train-your-large-model-on-multiple-gpus-with-pipeline-parallelism/) (2025-12-29)
 - [5 Python Libraries for Advanced Time Series Forecasting](https://machinelearningmastery.com/5-python-libraries-for-advanced-time-series-forecasting/) (2025-12-29)
-- [Training a Model on Multiple GPUs with Data Parallelism](https://machinelearningmastery.com/training-a-model-on-multiple-gpus-with-data-parallelism/) (2025-12-26)
 
 </details>
 
