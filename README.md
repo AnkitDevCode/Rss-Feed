@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The top 6 media/entertainment startups from Disrupt Startup Battlefield](https://techcrunch.com/2026/01/01/the-top-6-media-entertainment-startups-from-disrupt-startup-battlefield/) (2026-01-01)
+- [Fizz social app’s CEO on why anon works](https://techcrunch.com/video/fizz-social-apps-ceo-on-why-anon-works/) (2026-01-01)
 - [‘College dropout’ has become the most coveted startup founder credential](https://techcrunch.com/2025/12/31/college-dropout-has-become-the-most-coveted-startup-founder-credential/) (2026-01-01)
 - [Investors predict AI is coming for labor in 2026 ](https://techcrunch.com/2025/12/31/investors-predict-ai-is-coming-for-labor-in-2026/) (2025-12-31)
 - [These are the best gadgets for your pet right now](https://techcrunch.com/2025/12/31/these-are-the-best-gadgets-for-your-pet-right-now/) (2025-12-31)
-- [Tade Oyerinde and Teddy Solomon talk about building engaged audiences at TechCrunch Disrupt](https://techcrunch.com/2025/12/31/tade-oyerinde-and-teddy-solomon-talk-about-building-engaged-audiences-at-techcrunch-disrupt/) (2025-12-31)
-- [Every fusion startup that has raised over $100M](https://techcrunch.com/2025/12/31/every-fusion-startup-that-has-raised-over-100m/) (2025-12-31)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Windows 11 Outperforming Linux on an Intel Arrow Lake H Laptop](https://www.phoronix.com/review/windows-beats-linux-arl-h) (2026-01-01)
-- [Bluetooth Headphone Jacking: A Key to Your Phone [video]](https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone) (2026-01-01)
-- [Rust–: Rust without the borrow checker](https://github.com/buyukakyuz/rustmm) (2026-01-01)
-- [Worlds largest electric ship launched by Tasmanian boatbuilder](https://www.theguardian.com/australia-news/2025/may/02/hull-096-worlds-largest-electric-ship-battery-power-launched) (2026-01-01)
-- [If childhood is half of subjective life, how should that change how we live?](https://moultano.wordpress.com/2025/12/30/children-and-helical-time/) (2026-01-01)
+- [Cameras and Lenses (2020)](https://ciechanow.ski/cameras-and-lenses/) (2026-01-01)
+- [European Space Agency hit again as cybercriminals claim 200 GB data up for sale](https://www.theregister.com/2025/12/31/european_space_agency_hacked/) (2026-01-01)
+- [Sony PS5 ROM keys leaked – jailbreaking could be made easier with BootROM codes](https://www.tomshardware.com/video-games/playstation/playstation-5-rom-keys-leaked-jailbreaking-could-be-made-easier-with-bootrom-codes) (2026-01-01)
+- [BYD Sells 4.6M Vehicles in 2025, Meets Revised Sales Goal](https://www.bloomberg.com/news/articles/2026-01-01/byd-sells-4-6-million-vehicles-in-2025-meets-revised-sales-goal) (2026-01-01)
+- [Implementing HNSW (Hierarchical Navigable Small World) Vector Search in PHP](https://centamori.com/index.php?slug=hierarchical-navigable-small-world-hnsw-php&lang=en) (2026-01-01)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [LG’s new karaoke-ready party speaker uses AI to remove song vocals](https://www.theverge.com/news/852362/lg-xboom-stage-501-karaoke-launch-ces-2026) (2026-01-01)
+- [Public domain 2026: Betty Boop, Pluto, and Nancy Drew set free](https://www.theverge.com/policy/852332/public-domain-2026-betty-boop-nancy-drew-pluto) (2026-01-01)
+- [Meet the new tech laws of 2026](https://www.theverge.com/policy/851664/new-tech-internet-laws-us-2026-ai-privacy-repair) (2026-01-01)
 - [You can’t trust your eyes to tell you what’s real anymore, says the head of Instagram](https://www.theverge.com/news/852124/adam-mosseri-ai-images-video-instagram) (2025-12-31)
 - [Net neutrality was back, until it wasn’t](https://www.theverge.com/report/851629/net-neutrality-fcc-retrospective-2025) (2025-12-31)
-- [Leaked video shows the Galaxy S26 Ultra’s new camera island](https://www.theverge.com/news/851931/samsung-galaxy-236-ultra-video-photo-leak) (2025-12-31)
-- [The Dreame X40 Ultra robovac is about $700 off, nearly matching its best price](https://www.theverge.com/gadgets/851325/dreame-x40-ultra-baseus-163w-retractable-car-charger-deal-sale) (2025-12-31)
-- [Killing in the name of… nothing](https://www.theverge.com/policy/849609/charlie-kirk-shooting-ideology-literacy-politics) (2025-12-31)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [“Streaming stops feeling infinite”: What subscribers can expect in 2026](https://arstechnica.com/gadgets/2026/01/streaming-stops-feeling-infinite-what-subscribers-can-expect-in-2026/) (2026-01-01)
+- [Film Technica: Our top picks for the best films of 2025](https://arstechnica.com/culture/2026/01/film-technica-our-top-picks-for-the-best-films-of-2025/) (2026-01-01)
 - [Here we go again: Retiring coal plant forced to stay open by Trump Admin](https://arstechnica.com/science/2025/12/trump-admin-orders-another-coal-plant-to-stay-open/) (2025-12-31)
 - [Supply chains, AI, and the cloud: The biggest failures (and one success) of 2025](https://arstechnica.com/security/2025/12/supply-chains-ai-and-the-cloud-the-biggest-failures-and-one-success-of-2025/) (2025-12-31)
 - [From prophet to product: How AI came back down to earth in 2025](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) (2025-12-31)
-- [The science of how (and when) we decide to speak out—or self-censor](https://arstechnica.com/science/2025/12/the-science-of-how-and-when-we-decide-to-speak-out-or-self-censor/) (2025-12-30)
-- [Lawsuit over Trump rejecting medical research grants is settled](https://arstechnica.com/science/2025/12/feds-researchers-settle-suit-over-grants-blocked-by-now-illegal-order/) (2025-12-30)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Documents: The architect’s programming language](https://stackoverflow.blog/2026/01/01/documents-the-architect-s-programming-language/) (2026-01-01)
 - [A look under the hood: How (and why) we built Question Assistant](https://stackoverflow.blog/2025/12/31/a-look-under-the-hood-how-and-why-we-built-question-assistant/) (2025-12-31)
 - [A new era of Stack Overflow](https://stackoverflow.blog/2025/12/30/a-new-era-of-stack-overflow/) (2025-12-30)
 - [How AI is helping us build better communities](https://stackoverflow.blog/2025/12/30/how-ai-is-helping-us-build-better-communities/) (2025-12-30)
 - [Developers remain willing but reluctant to use AI: The 2025 Developer Survey results are here](https://stackoverflow.blog/2025/12/29/developers-remain-willing-but-reluctant-to-use-ai-the-2025-developer-survey-results-are-here/) (2025-12-29)
-- [AI vs Gen Z: How AI has changed the career pathway for junior developers](https://stackoverflow.blog/2025/12/26/ai-vs-gen-z/) (2025-12-26)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How to create reactive web page with JQuery](https://dev.to/jahongir2007/how-to-create-reactive-web-page-with-jquery-7la) (2026-01-01)
-- [How AI Can Cut Your Design-Development Handoff Time by 50%](https://dev.to/daisy_jones_21bdcc6b40f9d/how-ai-can-cut-your-design-development-handoff-time-by-50-14ob) (2026-01-01)
-- [How Governance and Compliance Saves The World... lolwut?](https://dev.to/linkbenjamin/how-governance-and-compliance-saves-the-world-lolwut-5him) (2026-01-01)
-- [New update for CodeCoffeeTools! I include P2P Transfer Tool + more..](https://dev.to/niroshan_dh/new-update-for-codecoffeetools-i-include-p2p-transfer-tool-more-3anp) (2026-01-01)
-- [Mr Sunday Movies: The Caesar Planet of the Apes Trilogy - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-caesar-planet-of-the-apes-trilogy-caravan-of-garbage-dka) (2026-01-01)
+- [The Complete Guide to Local AI Coding in 2026](https://dev.to/murat_aslan_fa44b545aaa2c/the-complete-guide-to-local-ai-coding-in-2026-205l) (2026-01-01)
+- [Building a Portfolio That Actually Demonstrates Enterprise Skills - Part 2](https://dev.to/moodyjw/building-a-portfolio-that-actually-demonstrates-enterprise-skills-part-2-47e1) (2026-01-01)
+- [🧠 The React Bug That Only Appears When Your Code Is Too Fast](https://dev.to/coderxrohan/the-react-bug-that-only-appears-when-your-code-is-too-fast-371g) (2026-01-01)
+- [My 2025](https://dev.to/divyanshulohani/my-2025-ljj) (2026-01-01)
+- [🚀 How I Built an AI Agent to Automate High-Converting Upwork Proposals (n8n + OpenAI)](https://dev.to/iloven8n/how-i-built-an-ai-agent-to-automate-high-converting-upwork-proposals-n8n-openai-397k) (2026-01-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Tested 6 Python GUI Libraries — Only One Felt Like It Belonged in 2026](https://python.plainenglish.io/i-tested-6-python-gui-libraries-only-one-felt-like-it-belonged-in-2026-ea64c36810ce?source=rss------programming-5) (2026-01-01)
-- [Lean Rust data types: int session 2](https://medium.com/devmap/lean-rust-data-types-int-session-2-f9ddca5c398f?source=rss------programming-5) (2026-01-01)
-- [Cash Maximus Erfahrungen – Dein Turbo für mehr finanzielle Freiheit?](https://medium.com/@Digitest/cash-maximus-erfahrungen-dein-turbo-f%C3%BCr-mehr-finanzielle-freiheit-7c64a192c7d2?source=rss------programming-5) (2026-01-01)
-- [The Frontend Architecture Guide You Need Before your frontend Interviews](https://medium.com/interview-series/the-frontend-architecture-guide-you-need-before-your-frontend-interviews-22f815a3f981?source=rss------programming-5) (2026-01-01)
-- [Why Data Scientists Should Stop Indexing by Hand and Start Using zip()](https://medium.com/data-science-collective/why-data-scientists-should-stop-indexing-by-hand-and-start-using-zip-9334010b050a?source=rss------programming-5) (2026-01-01)
+- [REST Is Not an API — It’s the Architecture of the Web](https://dick-dowdell.medium.com/rest-is-not-an-api-its-the-architecture-of-the-web-dcc529ecf6f3?source=rss------programming-5) (2026-01-01)
+- [How to Use Value Objects to Solve Primitive Obsession: A .NET Developer’s Guide](https://medium.com/@maged_/how-to-use-value-objects-to-solve-primitive-obsession-a-net-developers-guide-ff2be1182de4?source=rss------programming-5) (2026-01-01)
+- [Mapping Domain-Driven Design Concepts To The Database With EF Core](https://medium.com/@mariammaurice/mapping-domain-driven-design-concepts-to-the-database-with-ef-core-c92b3cc3cc85?source=rss------programming-5) (2026-01-01)
+- [How To Implement Rate Limiting In .NET 10](https://medium.com/@michaelmaurice410/how-to-implement-rate-limiting-in-net-10-d79b38af90de?source=rss------programming-5) (2026-01-01)
+- [The AI Infrastructure Stack in 2026: It’s Not Just GPUs Anymore.](https://medium.com/@james09522/the-ai-infrastructure-stack-in-2026-its-not-just-gpus-anymore-5d2ddd26b9f4?source=rss------programming-5) (2026-01-01)
 
 </details>
 
@@ -141,11 +141,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [GeForce NOW Rings In 2026 With 14 New Games in January](https://blogs.nvidia.com/blog/geforce-now-thursday-january-2026/) (2026-01-01)
 - [Make Spirits Bright With Holiday Hits on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-holiday-2025/) (2025-12-25)
 - [Marine Biological Laboratory Explores Human Memory With AI and Virtual Reality](https://blogs.nvidia.com/blog/mbl-human-memory-ai-vr-rtx/) (2025-12-22)
 - [NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Landmark Genesis Mission](https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/) (2025-12-18)
 - [Now Generally Available, NVIDIA RTX PRO 5000 72GB Blackwell GPU Expands Memory Options for Desktop Agentic AI](https://blogs.nvidia.com/blog/rtx-pro-5000-72gb-blackwell-gpu/) (2025-12-18)
-- [Deck the Vaults: ‘Fallout: New Vegas’ Joins the Cloud This Holiday Season](https://blogs.nvidia.com/blog/geforce-now-thursday-fallout-new-vegas/) (2025-12-18)
 
 </details>
 
@@ -473,11 +473,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
-- [Developer Edition + スクラッチ組織で、複数の開発・検証組織を手にいれる](https://developer.salesforce.com/blogs/2025/12/jp-scratch-org-with-developer-edition.html) (2025-12-26)
-- [プロから学ぶ、Agentforce Vibesを使いこなす5つのヒント](https://developer.salesforce.com/blogs/2025/12/jp-five-pro-tips-for-using-agentforce-vibes.html) (2025-12-25)
 - [新しいサンプルアプリ「Agent Script Recipes」でハイブリッド推論をマスター](https://developer.salesforce.com/blogs/2025/12/jp-master-hybrid-reasoning-with-the-new-agent-script-recipes-sample-app.html) (2025-12-24)
 - [Build Composable Storefronts Smarter and Faster with the PWA Kit MCP Server](https://developer.salesforce.com/blogs/2025/12/build-composable-storefronts-smarter-and-faster-with-the-pwa-kit-mcp-server.html) (2025-12-23)
 - [AgentforceデータライブラリーからAIエージェントのテストケースを自動生成](https://developer.salesforce.com/blogs/2025/12/jp-auto-generate-agent-test-cases-from-agentforce-data-libraries.html) (2025-12-23)
+- [【Agentforce Hackathon Tokyo】第 1 位 Lightning Brightning: Agentforce と Tableau で革新するデータ駆動型ソリューション「Beauty Cloud」](https://developer.salesforce.com/blogs/2025/12/agentforce_hackathon_tokyo_2025_1st.html) (2025-12-22)
+- [Agentforceで会話履歴を活用して、マルチターンのAIエージェントテストを自動化](https://developer.salesforce.com/blogs/2025/12/jp-automate-multi-turn-agent-testing-with-conversation-history-in-agentforce.html) (2025-12-18)
 
 </details>
 
@@ -561,11 +561,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [EDA in Public (Part 3): RFM Analysis for Customer Segmentation in Pandas](https://towardsdatascience.com/eda-in-public-part-3-rfm-analysis-for-customer-segmentation-in-pandas/) (2026-01-01)
+- [Deep Reinforcement Learning: The Actor-Critic Method](https://towardsdatascience.com/deep-reinforcement-learning-the-actor-critic-method/) (2026-01-01)
 - [Production-Ready LLMs Made Simple with the NeMo Agent Toolkit](https://towardsdatascience.com/production-ready-llms-made-simple-with-nemo-agent-toolkit/) (2025-12-31)
 - [What Advent of Code Has Taught Me About Data Science](https://towardsdatascience.com/what-advent-of-code-has-taught-me-about-data-science/) (2025-12-31)
 - [Chunk Size as an Experimental Variable in RAG Systems](https://towardsdatascience.com/chunk-size-as-an-experimental-variable-in-rag-systems/) (2025-12-31)
-- [The Machine Learning “Advent Calendar” Bonus 2: Gradient Descent Variants in Excel](https://towardsdatascience.com/the-machine-learning-advent-calendar-bonus-2-gradient-descent-variants-in-excel/) (2025-12-31)
-- [Overcoming Nonsmoothness and Control Chattering in Nonconvex Optimal Control Problems](https://towardsdatascience.com/optimal-path-planning-for-wheeled-robots/) (2025-12-30)
 
 </details>
 
