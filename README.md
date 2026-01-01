@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [‘College dropout’ has become the most coveted startup founder credential](https://techcrunch.com/2025/12/31/college-dropout-has-become-the-most-coveted-startup-founder-credential/) (2026-01-01)
 - [Investors predict AI is coming for labor in 2026 ](https://techcrunch.com/2025/12/31/investors-predict-ai-is-coming-for-labor-in-2026/) (2025-12-31)
 - [These are the best gadgets for your pet right now](https://techcrunch.com/2025/12/31/these-are-the-best-gadgets-for-your-pet-right-now/) (2025-12-31)
 - [Tade Oyerinde and Teddy Solomon talk about building engaged audiences at TechCrunch Disrupt](https://techcrunch.com/2025/12/31/tade-oyerinde-and-teddy-solomon-talk-about-building-engaged-audiences-at-techcrunch-disrupt/) (2025-12-31)
 - [Every fusion startup that has raised over $100M](https://techcrunch.com/2025/12/31/every-fusion-startup-that-has-raised-over-100m/) (2025-12-31)
-- [The 10 top government, legal startups from Disrupt Startup Battlefield](https://techcrunch.com/2025/12/31/the-10-top-government-legal-startups-from-disrupt-startup-battlefield/) (2025-12-31)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Nerd: The First Programming Language Not Built for Humans](https://www.nerd-lang.org/about) (2026-01-01)
+- [Flow5 Released to Open Source](https://flow5.tech/docs/releasenotes.html) (2026-01-01)
+- [Pixar's True Story](https://computerhistory.org/blog/pixars-true-story/) (2026-01-01)
 - [GoGoGrandparent (YC S16) Is Hiring Tech Leads](https://www.ycombinator.com/companies/gogograndparent/jobs/w2jGKM7-gogograndparent-yc-s16-is-hiring-tech-leads) (2026-01-01)
 - [Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring](https://bustermq.sh/) (2026-01-01)
 - [The Delete Act](https://privacy.ca.gov/drop/about-drop-and-the-delete-act/) (2026-01-01)
-- [2025: The Year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/) (2025-12-31)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Top 5 Digital Waiver Tools for Fitness Pros in 2025](https://dev.to/dustin_heaps_eb67241531ef/top-5-digital-waiver-tools-for-fitness-pros-in-2025-4lco) (2026-01-01)
-- [Building a YouTube Automation System with Claude AI: From News to Shorts in Minutes](https://dev.to/trollz1004/building-a-youtube-automation-system-with-claude-ai-from-news-to-shorts-in-minutes-5dn6) (2026-01-01)
-- [Building an AI-Powered Customer Churn Prediction Pipeline on AWS (Step-by-Step)](https://dev.to/aws-builders/building-an-ai-powered-customer-churn-prediction-pipeline-on-aws-step-by-step-2l1f) (2026-01-01)
-- [The AI Agent Feedback Loop: From Evaluation to Continuous Improvement](https://dev.to/imshashank/the-ai-agent-feedback-loop-from-evaluation-to-continuous-improvement-5hm4) (2026-01-01)
-- [**Revolutionizing Energy: The Rise of Fusion Startups**](https://dev.to/yagyaraj_sharma_6cd410179/revolutionizing-energy-the-rise-of-fusion-startups-3m95) (2026-01-01)
+- [Shopify Scripts Functions: A Practical Migration Playbook](https://dev.to/sumeet_shrofffreelancer_/shopify-scripts-functions-a-practical-migration-playbook-2pih) (2026-01-01)
+- [GO-QUEUE@v1.1.1: 基于優先級的並發排程，自動提升優先權](https://dev.to/pardnchiu/go-queuev111-ji-yu-you-xian-ji-pai-xu-de-bing-fa-dui-lie-3ebe) (2026-01-01)
+- [Why Time Log History Matters in Labor Disputes and Compliance Audits](https://dev.to/commander_erp_cf7c5a13333/why-time-log-history-matters-in-labor-disputes-and-compliance-audits-2d5d) (2026-01-01)
+- [GO-QUEUE@v1.1.1: Priority-based task queue with automatic timeout promotion](https://dev.to/pardnchiu/go-queuev112-priority-based-task-queue-with-automatic-timeout-promotion-3kgj) (2026-01-01)
+- [The 150-Day Challenge: Building 4 Full-Stack Apps from Scratch](https://dev.to/termuze/the-150-day-challenge-building-4-full-stack-apps-from-scratch-53a8) (2026-01-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Decoding Serum Neurofilament Light Chain as the Universal, Dynamic, and Actionable Biomarker in…](https://medium.com/@aditrizky052/decoding-serum-neurofilament-light-chain-as-the-universal-dynamic-and-actionable-biomarker-in-7dffdf30a8ef?source=rss------programming-5) (2026-01-01)
-- [How to Unlock Passive Income from 7 Python Micro-Tools](https://medium.com/top-python-libraries/how-to-unlock-passive-income-from-7-python-micro-tools-8996ce2ad439?source=rss------programming-5) (2026-01-01)
-- [Build A Machine Learning Project Using Linear Regression.](https://medium.com/activated-thinker/build-a-machine-learning-project-using-linear-regression-d09d9bd810d3?source=rss------programming-5) (2026-01-01)
-- [Propósito: A palavra que definiu meu 2025](https://medium.com/@marcusviniciusdefreitascosta/prop%C3%B3sito-a-palavra-que-definiu-meu-2025-eead6a6b944a?source=rss------programming-5) (2026-01-01)
-- [Expert Report: Sovereign Cognition Engine (BotVibe.ai)](https://medium.com/@michael_29395/expert-report-sovereign-cognition-engine-botvibe-ai-6d13a9c36cfe?source=rss------programming-5) (2026-01-01)
+- [What Every Java Developer Must Learn in 2026 to Stay Relevant](https://medium.com/javarevisited/what-every-java-developer-must-learn-in-2026-to-stay-relevant-c6567d3dcb4d?source=rss------programming-5) (2026-01-01)
+- [Google Sign-In in Flutter (2025): The Complete & Modern Guide ](https://medium.com/@yash22202/google-sign-in-in-flutter-2025-the-complete-modern-guide-97ff2bdfd8ae?source=rss------programming-5) (2026-01-01)
+- [I Tested 5+ AI Coding Tools — This One Actually Helps](https://medium.com/@harshilsetty2006/i-tested-5-ai-coding-tools-this-one-actually-helps-1403a0757cfa?source=rss------programming-5) (2026-01-01)
+- [How to Make Money With Coding](https://medium.com/the-money-guide/how-to-make-money-with-coding-55149412b957?source=rss------programming-5) (2026-01-01)
+- [New Year, New Day, A Quiet Place to Write](https://jwaran78.medium.com/new-year-new-day-a-quiet-place-to-write-ac28205e5625?source=rss------programming-5) (2026-01-01)
 
 </details>
 
