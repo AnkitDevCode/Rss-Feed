@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Even as global crop prices fall, India’s Arya.ag is attracting investors — and staying profitable](https://techcrunch.com/2026/01/01/even-as-global-crop-prices-fall-indias-arya-ag-is-attracting-investors-and-staying-profitable/) (2026-01-02)
 - [A guide to choosing the right Apple Watch](https://techcrunch.com/2026/01/01/is-the-apple-watch-se-3-a-good-deal/) (2026-01-02)
 - [A beginner’s guide to Mastodon, the open source Twitter alternative](https://techcrunch.com/2026/01/01/what-is-mastodon/) (2026-01-01)
 - [European banks plan to cut 200,000 jobs as AI takes hold](https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/) (2026-01-01)
 - [OpenAI bets big on audio as Silicon Valley declares war on screens](https://techcrunch.com/2026/01/01/openai-bets-big-on-audio-as-silicon-valley-declares-war-on-screens/) (2026-01-01)
-- [The top 6 media/entertainment startups from Disrupt Startup Battlefield](https://techcrunch.com/2026/01/01/the-top-6-media-entertainment-startups-from-disrupt-startup-battlefield/) (2026-01-01)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [A confession from a mainstream food delivery app engineer](https://www.reddit.com/r/confession/s/gbrh2zxeou) (2026-01-02)
-- [I'm a developer for a major food delivery app](https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/) (2026-01-02)
-- [Marmot – A distributed SQLite server with MySQL wire compatible interface](https://github.com/maxpert/marmot) (2026-01-02)
-- [Happy Public Domain Day 2026](https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/) (2026-01-02)
-- [Extensibility: The "100% Lisp" Fallacy](https://kyo.iroiro.party/en/posts/100-percent-lisp/) (2026-01-02)
+- [10 years of personal finances in plain text files](https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/) (2026-01-02)
+- [2025 Letter](https://danwang.co/) (2026-01-02)
+- [One Number I Trust: Plain-Text Accounting for a Multi-Currency Household](https://lalitm.com/post/one-number-i-trust/) (2026-01-02)
+- [HPV vaccination reduces oncogenic HPV16/18 prevalence from 16% to <1% in Denmark](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820) (2026-01-02)
+- [Going immutable on macOS, using Nix-Darwin](https://carette.xyz/posts/going_immutable_macos/) (2026-01-02)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [LG’s new karaoke-ready party speaker uses AI to remove song vocals](https://www.theverge.com/news/852362/lg-xboom-stage-501-karaoke-launch-ces-2026) (2026-01-01)
-- [Public domain 2026: Betty Boop, Pluto, and Nancy Drew set free](https://www.theverge.com/policy/852332/public-domain-2026-betty-boop-nancy-drew-pluto) (2026-01-01)
-- [Meet the new tech laws of 2026](https://www.theverge.com/policy/851664/new-tech-internet-laws-us-2026-ai-privacy-repair) (2026-01-01)
-- [You can’t trust your eyes to tell you what’s real anymore, says the head of Instagram](https://www.theverge.com/news/852124/adam-mosseri-ai-images-video-instagram) (2025-12-31)
-- [Net neutrality was back, until it wasn’t](https://www.theverge.com/report/851629/net-neutrality-fcc-retrospective-2025) (2025-12-31)
+- [Punkt’s German-made MC03 smartphone comes to the US this spring](https://www.theverge.com/tech/849740/punkt-mc03-secure-smartphone-made-in-germany) (2026-01-02)
+- [The Trump phone just missed another release date](https://www.theverge.com/news/851151/trump-phone-missed-another-release-date) (2026-01-02)
+- [SpaceX will lower Starlink satellites to reduce collision risk](https://www.theverge.com/news/852570/spacex-will-lower-starlink-satellites-to-reduce-collision-risk) (2026-01-02)
+- [Samsung adds much needed brightness to its Freestyle projector](https://www.theverge.com/news/852545/samsung-adds-much-needed-brightness-to-its-freestyle-projector) (2026-01-02)
+- [Petkit’s first automatic wet food feeder keeps track of how much your pet eats](https://www.theverge.com/news/850992/petkit-ai-camera-yumshare-daily-feast-automatic-wet-food-feeder-eversweet-ultra-fountain) (2026-01-02)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [3 things Will Douglas Heaven is into right now](https://www.technologyreview.com/2026/01/02/1129409/will-douglas-heaven-el-estepario-siberiano-ed-atkins-laura-jean-mckay/) (2026-01-02)
+- [Job titles of the future: Head-transplant surgeon](https://www.technologyreview.com/2026/01/02/1129416/head-transplant-surgeon-sergio-canavero-future-job/) (2026-01-02)
 - [Why inventing new emotions feels so good](https://www.technologyreview.com/2025/12/31/1129403/new-emotions-online-life-feelings/) (2025-12-31)
 - [The ascent of the AI therapist](https://www.technologyreview.com/2025/12/30/1129392/book-reviews-ai-therapy-mental-health/) (2025-12-30)
 - [Bangladesh’s garment-making industry is getting greener](https://www.technologyreview.com/2025/12/29/1129308/bangladesh-garment-sustainability-frugal-factories/) (2025-12-29)
-- [MIT Technology Review’s most popular stories of 2025](https://www.technologyreview.com/2025/12/26/1130318/mit-technology-review-most-popular-stories-2025/) (2025-12-26)
-- [The paints, coatings, and chemicals making the world a cooler place](https://www.technologyreview.com/2025/12/26/1129301/paint-coating-chemicals-materials-cooling-air-conditioning/) (2025-12-26)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [CSS Media Queries: The Ultimate Guide to Responsive Web Design](https://dev.to/satyam_gupta_0d1ff2152dcc/css-media-queries-the-ultimate-guide-to-responsive-web-design-3npf) (2026-01-02)
-- [CSS Box Sizing Demystified: A 2026 Guide to Perfect Layouts](https://dev.to/satyam_gupta_0d1ff2152dcc/css-box-sizing-demystified-a-2026-guide-to-perfect-layouts-3e07) (2026-01-02)
-- [What Is AIOps? A Beginner’s Guide to AI-Driven IT Operations](https://dev.to/rushikesh_langale_42ac365/what-is-aiops-a-beginners-guide-to-ai-driven-it-operations-14kj) (2026-01-02)
-- [Crypto Regulation 101 — SEC, MiCA & What Builders Should Actually Care About](https://dev.to/ribhavmodi/crypto-regulation-101-sec-mica-what-builders-should-actually-care-about-4bg2) (2026-01-02)
-- [Markup Language](https://dev.to/payilagam_135383b867ea296/markup-language-b7f) (2026-01-02)
+- [SQLite: A Simple Database with Serious Engineering Inside](https://dev.to/lovestaco/sqlite-a-simple-database-with-serious-engineering-inside-31dp) (2026-01-02)
+- [Deploying a Node.js Application on AWS EC2 with Apache](https://dev.to/techlab/deploying-a-nodejs-application-on-aws-ec2-with-apache-3djj) (2026-01-02)
+- [Docker Network Commands](https://dev.to/meghasharmaaaa/docker-network-commands-3878) (2026-01-02)
+- [Ringer Movies: The 25 for ’25 Selection Show Special](https://dev.to/popcorn_movies/ringer-movies-the-25-for-25-selection-show-special-1ofk) (2026-01-02)
+- [Interval Neutrosophic Sets and Logic: Theory and Applications in Computing](https://dev.to/paperium/interval-neutrosophic-sets-and-logic-theory-and-applications-in-computing-4d0f) (2026-01-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [If I Had to Learn Linux Again in 2026, I’d Do This](https://pawannatekar220.medium.com/if-i-had-to-learn-linux-again-in-2026-id-do-this-5c085cc8fcdd?source=rss------programming-5) (2026-01-02)
-- [Beyond pandas: 10 Hidden‑Gem Python Libraries for Data Scientists in 2026  ](https://python.plainenglish.io/beyond-pandas-10-hidden-gem-python-libraries-for-data-scientists-in-2026-e8ae61ece1ba?source=rss------programming-5) (2026-01-02)
-- [Real Plugin Systems in .NET: AssemblyLoadContext, Unloadability, and Reflection‑Free Discovery](https://jordansrowles.medium.com/real-plugin-systems-in-net-assemblyloadcontext-unloadability-and-reflection-free-discovery-81f920c83644?source=rss------programming-5) (2026-01-02)
-- [Bisect: the Tiny Knife That Finds Where Things Belong](https://medium.com/@remisharoon/bisect-the-tiny-knife-that-finds-where-things-belong-077ec19258ee?source=rss------programming-5) (2026-01-02)
-- [10 Years in 1 Hour: An AI-Generated Index of My Technical Blogs (2015–2025)](https://medium.com/@tancolo/10-years-in-1-hour-an-ai-generated-index-of-my-technical-blogs-2015-2025-db661e9d60cb?source=rss------programming-5) (2026-01-02)
+- [5 Backend Projects That Teach You More Than 50 Tutorials](https://medium.com/codetodeploy/5-backend-projects-that-teach-you-more-than-50-tutorials-b87c8d909256?source=rss------programming-5) (2026-01-02)
+- [“Just use aws” is starting to sound like bad advice in 2026](https://medium.com/@dev_tips/just-use-aws-is-starting-to-sound-like-bad-advice-in-2026-f66e82a7f774?source=rss------programming-5) (2026-01-02)
+- [Data Processing in Physics: From Raw Measurements to Physical Understanding](https://medium.com/@akseldeveloper/data-processing-in-physics-from-raw-measurements-to-physical-understanding-704b7c2c9d68?source=rss------programming-5) (2026-01-02)
+- [How we broke our (push) notifications thanks to a concurrency bug](https://stefma.medium.com/how-we-broke-our-push-notifications-thanks-to-a-concurrency-bug-6b51c1c8ec39?source=rss------programming-5) (2026-01-02)
+- [Vibe Coding Works — Until This One Moment. Most Developers Miss It.](https://medium.com/@kinshu.sriv/vibe-coding-works-until-this-one-moment-most-developers-miss-it-7a17c7ba3e8e?source=rss------programming-5) (2026-01-02)
 
 </details>
 
@@ -561,22 +561,22 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Real Challenge in Data Storytelling: Getting Buy-In for Simplicity](https://towardsdatascience.com/the-real-challenge-in-data-storytelling-getting-buy-in-for-simplicity/) (2026-01-02)
 - [EDA in Public (Part 3): RFM Analysis for Customer Segmentation in Pandas](https://towardsdatascience.com/eda-in-public-part-3-rfm-analysis-for-customer-segmentation-in-pandas/) (2026-01-01)
 - [Deep Reinforcement Learning: The Actor-Critic Method](https://towardsdatascience.com/deep-reinforcement-learning-the-actor-critic-method/) (2026-01-01)
 - [Production-Ready LLMs Made Simple with the NeMo Agent Toolkit](https://towardsdatascience.com/production-ready-llms-made-simple-with-nemo-agent-toolkit/) (2025-12-31)
 - [What Advent of Code Has Taught Me About Data Science](https://towardsdatascience.com/what-advent-of-code-has-taught-me-about-data-science/) (2025-12-31)
-- [Chunk Size as an Experimental Variable in RAG Systems](https://towardsdatascience.com/chunk-size-as-an-experimental-variable-in-rag-systems/) (2025-12-31)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Top 18 Power BI Project Ideas For Practice 2026](https://www.analyticsvidhya.com/blog/2026/01/top-power-bi-project/) (2026-01-02)
+- [Preference Fine-Tuning LFM 2 Using DPO](https://www.analyticsvidhya.com/blog/2026/01/lfm-2-preference-fine-tuning-using-dpo/) (2026-01-02)
 - [Google T5Gemma-2 Explained: Trying Out a Laptop-Friendly Multimodal AI Model](https://www.analyticsvidhya.com/blog/2026/01/google-t5gemma-2/) (2026-01-01)
 - [Student ID Benefits Worth Thousands: Get 15+ Premium Tools For Free or on Discount](https://www.analyticsvidhya.com/blog/2025/12/student-id-discounts-worth-thousands/) (2025-12-31)
 - [15 Best Python Books for Beginners to Advanced Learners [2026 Edition]](https://www.analyticsvidhya.com/blog/2025/12/best-python-books/) (2025-12-31)
-- [10 Awesome Docker Projects for Beginners](https://www.analyticsvidhya.com/blog/2025/12/docker-projects/) (2025-12-30)
-- [What is Chain of Thought (CoT) Prompting?](https://www.analyticsvidhya.com/blog/2025/12/chain-of-thought-cot-prompting/) (2025-12-30)
 
 </details>
 
@@ -594,11 +594,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Gradient Descent:The Engine of Machine Learning Optimization](https://machinelearningmastery.com/gradient-descentthe-engine-of-machine-learning-optimization/) (2026-01-02)
 - [Train Your Large Model on Multiple GPUs with Tensor Parallelism](https://machinelearningmastery.com/train-your-large-model-on-multiple-gpus-with-tensor-parallelism/) (2025-12-31)
 - [Train Your Large Model on Multiple GPUs with Fully Sharded Data Parallelism](https://machinelearningmastery.com/train-your-large-model-on-multiple-gpus-with-fully-sharded-data-parallelism/) (2025-12-30)
 - [Beyond Short-term Memory: The 3 Types of Long-term Memory AI Agents Need](https://machinelearningmastery.com/beyond-short-term-memory-the-3-types-of-long-term-memory-ai-agents-need/) (2025-12-30)
 - [Train Your Large Model on Multiple GPUs with Pipeline Parallelism](https://machinelearningmastery.com/train-your-large-model-on-multiple-gpus-with-pipeline-parallelism/) (2025-12-29)
-- [5 Python Libraries for Advanced Time Series Forecasting](https://machinelearningmastery.com/5-python-libraries-for-advanced-time-series-forecasting/) (2025-12-29)
 
 </details>
 
