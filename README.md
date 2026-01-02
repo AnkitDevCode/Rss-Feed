@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Even as global crop prices fall, India’s Arya.ag is attracting investors — and staying profitable](https://techcrunch.com/2026/01/01/even-as-global-crop-prices-fall-indias-arya-ag-is-attracting-investors-and-staying-profitable/) (2026-01-02)
-- [A guide to choosing the right Apple Watch](https://techcrunch.com/2026/01/01/is-the-apple-watch-se-3-a-good-deal/) (2026-01-02)
-- [A beginner’s guide to Mastodon, the open source Twitter alternative](https://techcrunch.com/2026/01/01/what-is-mastodon/) (2026-01-01)
-- [European banks plan to cut 200,000 jobs as AI takes hold](https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/) (2026-01-01)
-- [OpenAI bets big on audio as Silicon Valley declares war on screens](https://techcrunch.com/2026/01/01/openai-bets-big-on-audio-as-silicon-valley-declares-war-on-screens/) (2026-01-01)
+- [10 useful gadgets for your first apartment](https://techcrunch.com/2026/01/02/10-useful-gadgets-for-your-first-apartment/) (2026-01-02)
+- [Tesla annual sales decline 9% as it’s overtaken by BYD as global EV leader](https://techcrunch.com/2026/01/02/tesla-annual-sales-decline-9-as-its-overtaken-by-byd-as-global-ev-leader/) (2026-01-02)
+- [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2026/01/02/nvidias-ai-empire-a-look-at-its-top-startup-investments/) (2026-01-02)
+- [The 16 top logistics, manufacturing, materials startups from Disrupt Startup Battlefield ](https://techcrunch.com/2026/01/02/the-16-top-logistics-manufacturing-materials-startups-from-disrupt-startup-battlefield/) (2026-01-02)
+- [Pebble reboots its thinnest smartwatch with the Pebble Round 2](https://techcrunch.com/2026/01/02/pebble-reboots-its-thinnest-smartwatch-with-the-pebble-round-2/) (2026-01-02)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [10 years of personal finances in plain text files](https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/) (2026-01-02)
-- [2025 Letter](https://danwang.co/) (2026-01-02)
-- [One Number I Trust: Plain-Text Accounting for a Multi-Currency Household](https://lalitm.com/post/one-number-i-trust/) (2026-01-02)
-- [HPV vaccination reduces oncogenic HPV16/18 prevalence from 16% to <1% in Denmark](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820) (2026-01-02)
-- [Going immutable on macOS, using Nix-Darwin](https://carette.xyz/posts/going_immutable_macos/) (2026-01-02)
+- [Clicks Communicator](https://www.clicksphone.com/en/communicator) (2026-01-02)
+- [Ask HN: Who is hiring? (January 2026)](https://news.ycombinator.com/item?id=46466074) (2026-01-02)
+- [US Government demands access to European police databases and biometrics [video]](https://media.ccc.de/v/39c3-trump-government-demands-access-to-european-police-databases-and-biometrics) (2026-01-02)
+- [Parental Controls Aren't for Parents](https://beasthacker.com/til/parental-controls-arent-for-parents.html) (2026-01-02)
+- [39th Chaos Communication Congress Videos](https://media.ccc.de/b/congress/2025) (2026-01-02)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Punkt’s German-made MC03 smartphone comes to the US this spring](https://www.theverge.com/tech/849740/punkt-mc03-secure-smartphone-made-in-germany) (2026-01-02)
-- [The Trump phone just missed another release date](https://www.theverge.com/news/851151/trump-phone-missed-another-release-date) (2026-01-02)
-- [SpaceX will lower Starlink satellites to reduce collision risk](https://www.theverge.com/news/852570/spacex-will-lower-starlink-satellites-to-reduce-collision-risk) (2026-01-02)
-- [Samsung adds much needed brightness to its Freestyle projector](https://www.theverge.com/news/852545/samsung-adds-much-needed-brightness-to-its-freestyle-projector) (2026-01-02)
-- [Petkit’s first automatic wet food feeder keeps track of how much your pet eats](https://www.theverge.com/news/850992/petkit-ai-camera-yumshare-daily-feast-automatic-wet-food-feeder-eversweet-ultra-fountain) (2026-01-02)
+- [Microsoft CEO Satya Nadella is now blogging about AI slop](https://www.theverge.com/news/852630/microsoft-ceo-satya-nadella-scratchpad-blog-ai-slop-comments) (2026-01-02)
+- [This smart fridge wants to solve the hassle of grocery shopping](https://www.theverge.com/news/851934/ge-appliances-smart-fridge-barcode-scanner-tablet) (2026-01-02)
+- [Pebble’s round smartwatch is getting a reboot](https://www.theverge.com/news/852587/pebble-round-2-time-smartwatch-price-availability) (2026-01-02)
+- [Tesla’s fourth quarter sales fell a lot more than expected](https://www.theverge.com/news/852649/tesla-q4-2025-sales-production-delivery-elon-musk) (2026-01-02)
+- [LG announces the &#8216;world’s lightest 17-inch RTX laptop&#8217;](https://www.theverge.com/news/852628/lg-gram-pro-17-16-laptop-2026-ces) (2026-01-02)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Final reminder: Donate to win swag in our annual Charity Drive sweepstakes](https://arstechnica.com/gaming/2026/01/final-reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-4/) (2026-01-02)
+- [xAI silent after Grok sexualized images of kids; dril mocks Grok’s “apology”](https://arstechnica.com/tech-policy/2026/01/xai-silent-after-grok-sexualized-images-of-kids-dril-mocks-groks-apology/) (2026-01-02)
+- [Tesla sales fell by 9 percent in 2025, its second yearly decline](https://arstechnica.com/cars/2026/01/tesla-sales-fell-by-9-percent-in-2025-its-second-yearly-decline/) (2026-01-02)
+- [After half a decade, the Russian space station segment stopped leaking](https://arstechnica.com/space/2026/01/finally-some-good-news-for-russia-the-space-station-is-no-longer-leaking/) (2026-01-02)
 - [Marvel rings in new year with Wonder Man trailer](https://arstechnica.com/culture/2026/01/marvel-rings-in-new-year-with-wonder-man-trailer/) (2026-01-01)
-- [Research roundup: 7 cool science stories we almost missed](https://arstechnica.com/science/2026/01/research-roundup-7-cool-science-stories-we-almost-missed-2/) (2026-01-01)
-- [“Streaming stops feeling infinite”: What subscribers can expect in 2026](https://arstechnica.com/gadgets/2026/01/streaming-stops-feeling-infinite-what-subscribers-can-expect-in-2026/) (2026-01-01)
-- [Film Technica: Our top picks for the best films of 2025](https://arstechnica.com/culture/2026/01/film-technica-our-top-picks-for-the-best-films-of-2025/) (2026-01-01)
-- [Here we go again: Retiring coal plant forced to stay open by Trump Admin](https://arstechnica.com/science/2025/12/trump-admin-orders-another-coal-plant-to-stay-open/) (2025-12-31)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [A new worst coder has entered the chat: vibe coding without code knowledge](https://stackoverflow.blog/2026/01/02/a-new-worst-coder-has-entered-the-chat-vibe-coding-without-code-knowledge/) (2026-01-02)
 - [The most dangerous shortcuts in software](https://stackoverflow.blog/2026/01/02/the-most-dangerous-shortcuts-in-software/) (2026-01-02)
 - [Documents: The architect’s programming language](https://stackoverflow.blog/2026/01/01/documents-the-architect-s-programming-language/) (2026-01-01)
 - [A look under the hood: How (and why) we built Question Assistant](https://stackoverflow.blog/2025/12/31/a-look-under-the-hood-how-and-why-we-built-question-assistant/) (2025-12-31)
 - [A new era of Stack Overflow](https://stackoverflow.blog/2025/12/30/a-new-era-of-stack-overflow/) (2025-12-30)
-- [How AI is helping us build better communities](https://stackoverflow.blog/2025/12/30/how-ai-is-helping-us-build-better-communities/) (2025-12-30)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [SQLite: A Simple Database with Serious Engineering Inside](https://dev.to/lovestaco/sqlite-a-simple-database-with-serious-engineering-inside-31dp) (2026-01-02)
-- [Deploying a Node.js Application on AWS EC2 with Apache](https://dev.to/techlab/deploying-a-nodejs-application-on-aws-ec2-with-apache-3djj) (2026-01-02)
-- [Docker Network Commands](https://dev.to/meghasharmaaaa/docker-network-commands-3878) (2026-01-02)
-- [Ringer Movies: The 25 for ’25 Selection Show Special](https://dev.to/popcorn_movies/ringer-movies-the-25-for-25-selection-show-special-1ofk) (2026-01-02)
-- [Interval Neutrosophic Sets and Logic: Theory and Applications in Computing](https://dev.to/paperium/interval-neutrosophic-sets-and-logic-theory-and-applications-in-computing-4d0f) (2026-01-02)
+- [The Pendulum Swings Back: Intentional Software Design in the Age of AI](https://dev.to/devunionx/the-pendulum-swings-back-intentional-software-design-in-the-age-of-ai-351) (2026-01-02)
+- [DEV Track Spotlight: Build multi-modal AI agents with Strands Agents and Amazon S3 Vectors (DEV332)](https://dev.to/aws/dev-track-spotlight-build-multi-modal-ai-agents-with-strands-agents-and-amazon-s3-vectors-dev332-4jp5) (2026-01-02)
+- [Your Website Is Your Digital First Impression](https://dev.to/nafizmahmud_94/your-website-is-your-digital-first-impression-3p6h) (2026-01-02)
+- [Alles über Stripe and Paddle payment integration für dein Business](https://dev.to/ash_dubai/alles-uber-stripe-and-paddle-payment-integration-fur-dein-business-24b6) (2026-01-02)
+- [seofaster, programmatic seo platform development - seofaster,...](https://dev.to/ash_dubai/seofaster-programmatic-seo-platform-development-seofaster-2lh9) (2026-01-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [5 Backend Projects That Teach You More Than 50 Tutorials](https://medium.com/codetodeploy/5-backend-projects-that-teach-you-more-than-50-tutorials-b87c8d909256?source=rss------programming-5) (2026-01-02)
-- [“Just use aws” is starting to sound like bad advice in 2026](https://medium.com/@dev_tips/just-use-aws-is-starting-to-sound-like-bad-advice-in-2026-f66e82a7f774?source=rss------programming-5) (2026-01-02)
-- [Data Processing in Physics: From Raw Measurements to Physical Understanding](https://medium.com/@akseldeveloper/data-processing-in-physics-from-raw-measurements-to-physical-understanding-704b7c2c9d68?source=rss------programming-5) (2026-01-02)
-- [How we broke our (push) notifications thanks to a concurrency bug](https://stefma.medium.com/how-we-broke-our-push-notifications-thanks-to-a-concurrency-bug-6b51c1c8ec39?source=rss------programming-5) (2026-01-02)
-- [Vibe Coding Works — Until This One Moment. Most Developers Miss It.](https://medium.com/@kinshu.sriv/vibe-coding-works-until-this-one-moment-most-developers-miss-it-7a17c7ba3e8e?source=rss------programming-5) (2026-01-02)
+- [Rust Is Not Hard. You Were Just Taught Programming Wrong.](https://medium.com/@diyasanjaysatpute147/rust-is-not-hard-you-were-just-taught-programming-wrong-6978df180c9e?source=rss------programming-5) (2026-01-02)
+- [Go — CLOSURES](https://medium.com/@hayunbugenmisopa/go-closures-1b70aa991199?source=rss------programming-5) (2026-01-02)
+- [Go — CLOSURES](https://medium.com/@hayunbugenmisopa/go-closures-2958eb15ca6b?source=rss------programming-5) (2026-01-02)
+- [How to Use ChatGPT Without Getting Caught: Fix These 5 Mistakes](https://medium.com/write-a-catalyst/how-to-use-chatgpt-without-getting-caught-fix-these-5-mistakes-32e5a2d6cc76?source=rss------programming-5) (2026-01-02)
+- [Configuring Symfony 8 Security with security.yaml](https://medium.com/@Edgaras0x4E/configuring-symfony-8-security-with-security-yaml-ccfffa771617?source=rss------programming-5) (2026-01-02)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [New Bug-Fix Releases Are Available for MPS – 2025.2.2, 2025.1.2, 2024.3.5, and 2024.1.6](https://blog.jetbrains.com/mps/2026/01/new_bugfix_releases_mps-2025-2-2/) (2026-01-02)
 - [TeamCity Pipelines Is Now Part of TeamCity Enterprise](https://blog.jetbrains.com/teamcity/2025/12/pipelines-sunset/) (2025-12-26)
 - [Ruby Turns 30: A Celebration of Code, Community, and Creativity](https://blog.jetbrains.com/ruby/2025/12/ruby-turns-30-a-celebration-of-code-community-and-creativity/) (2025-12-25)
 - [Everything You Wanted to Ask About Rust – Answered by Herbert Wolverson](https://blog.jetbrains.com/rust/2025/12/23/everything-you-wanted-to-ask-about-rust-answered-by-herbert-wolverson/) (2025-12-23)
 - [Thread Dumps and Project Loom (Virtual Threads)](https://blog.jetbrains.com/idea/2025/12/thread-dumps-and-project-loom-virtual-threads/) (2025-12-23)
-- [Advent of Code in Rust: Winners and Highlights](https://blog.jetbrains.com/rust/2025/12/22/advent-of-code-in-rust-winners-and-highlights/) (2025-12-22)
 
 </details>
 
@@ -473,11 +473,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
+- [Developer Edition + スクラッチ組織で、複数の開発・検証組織を手にいれる](https://developer.salesforce.com/blogs/2025/12/jp-scratch-org-with-developer-edition.html) (2025-12-26)
+- [プロから学ぶ、Agentforce Vibesを使いこなす5つのヒント](https://developer.salesforce.com/blogs/2025/12/jp-five-pro-tips-for-using-agentforce-vibes.html) (2025-12-25)
 - [新しいサンプルアプリ「Agent Script Recipes」でハイブリッド推論をマスター](https://developer.salesforce.com/blogs/2025/12/jp-master-hybrid-reasoning-with-the-new-agent-script-recipes-sample-app.html) (2025-12-24)
 - [Build Composable Storefronts Smarter and Faster with the PWA Kit MCP Server](https://developer.salesforce.com/blogs/2025/12/build-composable-storefronts-smarter-and-faster-with-the-pwa-kit-mcp-server.html) (2025-12-23)
 - [AgentforceデータライブラリーからAIエージェントのテストケースを自動生成](https://developer.salesforce.com/blogs/2025/12/jp-auto-generate-agent-test-cases-from-agentforce-data-libraries.html) (2025-12-23)
-- [【Agentforce Hackathon Tokyo】第 1 位 Lightning Brightning: Agentforce と Tableau で革新するデータ駆動型ソリューション「Beauty Cloud」](https://developer.salesforce.com/blogs/2025/12/agentforce_hackathon_tokyo_2025_1st.html) (2025-12-22)
-- [Agentforceで会話履歴を活用して、マルチターンのAIエージェントテストを自動化](https://developer.salesforce.com/blogs/2025/12/jp-automate-multi-turn-agent-testing-with-conversation-history-in-agentforce.html) (2025-12-18)
 
 </details>
 
@@ -550,22 +550,22 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>🤖 AI News</summary>
 
+- [Understanding how AI and big data transform digital marketing](https://www.artificialintelligence-news.com/news/understanding-how-ai-and-big-data-transform-digital-marketing/) (2026-01-02)
+- [Solana’s high-speed AI gains and malware losses](https://www.artificialintelligence-news.com/news/solanas-high-speed-ai-gains-and-malware-losses/) (2026-01-02)
 - [The future of rail: Watching, predicting, and learning](https://www.artificialintelligence-news.com/news/rail-ai-in-the-uk-beyond-predictive-maintenance/) (2025-12-24)
 - [Disney is embedding generative AI into its operating model](https://www.artificialintelligence-news.com/news/why-disney-is-embedding-generative-ai-into-its-operating-model/) (2025-12-24)
 - [Arm and the future of AI at the edge](https://www.artificialintelligence-news.com/news/arm-chips-and-the-future-of-ai-at-the-edge/) (2025-12-23)
-- [Inside China’s push to apply AI across its energy system](https://www.artificialintelligence-news.com/news/inside-chinas-push-to-apply-ai-across-its-energy-system/) (2025-12-23)
-- [Tesco signs three-year AI deal centred on customer experience](https://www.artificialintelligence-news.com/news/tesco-signs-three-year-ai-deal-centred-on-customer-experience/) (2025-12-22)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Drift Detection in Robust Machine Learning Systems](https://towardsdatascience.com/drift-detection-in-robust-machine-learning-systems/) (2026-01-02)
+- [Off-Beat Careers That Are the Future Of Data](https://towardsdatascience.com/off-beat-careers-that-are-the-future-of-data/) (2026-01-02)
 - [The Real Challenge in Data Storytelling: Getting Buy-In for Simplicity](https://towardsdatascience.com/the-real-challenge-in-data-storytelling-getting-buy-in-for-simplicity/) (2026-01-02)
 - [EDA in Public (Part 3): RFM Analysis for Customer Segmentation in Pandas](https://towardsdatascience.com/eda-in-public-part-3-rfm-analysis-for-customer-segmentation-in-pandas/) (2026-01-01)
 - [Deep Reinforcement Learning: The Actor-Critic Method](https://towardsdatascience.com/deep-reinforcement-learning-the-actor-critic-method/) (2026-01-01)
-- [Production-Ready LLMs Made Simple with the NeMo Agent Toolkit](https://towardsdatascience.com/production-ready-llms-made-simple-with-nemo-agent-toolkit/) (2025-12-31)
-- [What Advent of Code Has Taught Me About Data Science](https://towardsdatascience.com/what-advent-of-code-has-taught-me-about-data-science/) (2025-12-31)
 
 </details>
 
