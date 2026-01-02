@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Why Prefer Textfiles? (2010)](http://textfiles.com/uploads/textfiles.txt) (2026-01-01)
-- [WebAssembly as a Python Extension Platform](https://nullprogram.com/blog/2026/01/01/) (2026-01-01)
-- [Can Bundler be as fast as uv?](https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/) (2026-01-01)
-- [A silly diffuse shading model](https://lisyarus.github.io/blog/posts/a-silly-diffuse-shading-model.html) (2026-01-01)
-- [Straussian Memes](https://www.lesswrong.com/posts/CAwnnKoFdcQucq4hG/straussian-memes-a-lens-on-techniques-for-mass-persuasion) (2026-01-01)
+- [A confession from a mainstream food delivery app engineer](https://www.reddit.com/r/confession/s/gbrh2zxeou) (2026-01-02)
+- [I'm a developer for a major food delivery app](https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/) (2026-01-02)
+- [Marmot – A distributed SQLite server with MySQL wire compatible interface](https://github.com/maxpert/marmot) (2026-01-02)
+- [Happy Public Domain Day 2026](https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/) (2026-01-02)
+- [Extensibility: The "100% Lisp" Fallacy](https://kyo.iroiro.party/en/posts/100-percent-lisp/) (2026-01-02)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [The most dangerous shortcuts in software](https://stackoverflow.blog/2026/01/02/the-most-dangerous-shortcuts-in-software/) (2026-01-02)
 - [Documents: The architect’s programming language](https://stackoverflow.blog/2026/01/01/documents-the-architect-s-programming-language/) (2026-01-01)
 - [A look under the hood: How (and why) we built Question Assistant](https://stackoverflow.blog/2025/12/31/a-look-under-the-hood-how-and-why-we-built-question-assistant/) (2025-12-31)
 - [A new era of Stack Overflow](https://stackoverflow.blog/2025/12/30/a-new-era-of-stack-overflow/) (2025-12-30)
 - [How AI is helping us build better communities](https://stackoverflow.blog/2025/12/30/how-ai-is-helping-us-build-better-communities/) (2025-12-30)
-- [Developers remain willing but reluctant to use AI: The 2025 Developer Survey results are here](https://stackoverflow.blog/2025/12/29/developers-remain-willing-but-reluctant-to-use-ai-the-2025-developer-survey-results-are-here/) (2025-12-29)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Designing Around External API Assumptions: A Lesson from a Free Exchange Rate API](https://dev.to/kskiii/designing-around-external-api-assumptions-a-lesson-from-a-free-exchange-rate-api-38jn) (2026-01-02)
-- [How to set up Stash as a Windows service](https://dev.to/jdrch/how-to-set-up-stash-as-a-windows-service-ifd) (2026-01-02)
-- [SupplyChainAI: Building an Intelligent Vendor Recommendation Engine (PoC)](https://dev.to/exploredataaiml/supplychainai-building-an-intelligent-vendor-recommendation-engine-poc-1888) (2026-01-02)
-- [GC Isn’t Slow — Your frontend Is Just Hoarding Memory](https://dev.to/abhinavshinoy90/gc-isnt-slow-your-frontend-is-just-hoarding-memory-27al) (2026-01-02)
-- [5 Best Practices for Securing Amazon Bedrock Agents from Prompt Injections.](https://dev.to/aws-builders/5-best-practices-for-securing-amazon-bedrock-agents-from-prompt-injections-30eg) (2026-01-02)
+- [CSS Media Queries: The Ultimate Guide to Responsive Web Design](https://dev.to/satyam_gupta_0d1ff2152dcc/css-media-queries-the-ultimate-guide-to-responsive-web-design-3npf) (2026-01-02)
+- [CSS Box Sizing Demystified: A 2026 Guide to Perfect Layouts](https://dev.to/satyam_gupta_0d1ff2152dcc/css-box-sizing-demystified-a-2026-guide-to-perfect-layouts-3e07) (2026-01-02)
+- [What Is AIOps? A Beginner’s Guide to AI-Driven IT Operations](https://dev.to/rushikesh_langale_42ac365/what-is-aiops-a-beginners-guide-to-ai-driven-it-operations-14kj) (2026-01-02)
+- [Crypto Regulation 101 — SEC, MiCA & What Builders Should Actually Care About](https://dev.to/ribhavmodi/crypto-regulation-101-sec-mica-what-builders-should-actually-care-about-4bg2) (2026-01-02)
+- [Markup Language](https://dev.to/payilagam_135383b867ea296/markup-language-b7f) (2026-01-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [9 Python Features I Ignored for Too Long](https://python.plainenglish.io/9-python-features-i-ignored-for-too-long-bfcc91829135?source=rss------programming-5) (2026-01-02)
-- [Teaching Claude to Speak Dart: Building MCP Servers from pub.dev Packages](https://medium.com/@hey.aphra/teaching-claude-to-speak-dart-building-mcp-servers-from-pub-dev-packages-d2aef350bc9f?source=rss------programming-5) (2026-01-02)
-- [How PhonePe Refunds Work for Failed Payments](https://medium.com/@sunil17bbmp/how-phonepe-refunds-work-for-failed-payments-bf1404a423da?source=rss------programming-5) (2026-01-02)
-- [WHN™ Global Institute Officially Launches —](https://medium.com/jasira-intelligence-press-room/whn-global-institute-officially-launches-2967f5681048?source=rss------programming-5) (2026-01-02)
-- [The History of NVIDIA: From Graphics Startup to AI Powerhouse](https://medium.com/@zacharywestonintech/the-history-of-nvidia-from-graphics-startup-to-ai-powerhouse-afecd7ebc863?source=rss------programming-5) (2026-01-02)
+- [If I Had to Learn Linux Again in 2026, I’d Do This](https://pawannatekar220.medium.com/if-i-had-to-learn-linux-again-in-2026-id-do-this-5c085cc8fcdd?source=rss------programming-5) (2026-01-02)
+- [Beyond pandas: 10 Hidden‑Gem Python Libraries for Data Scientists in 2026  ](https://python.plainenglish.io/beyond-pandas-10-hidden-gem-python-libraries-for-data-scientists-in-2026-e8ae61ece1ba?source=rss------programming-5) (2026-01-02)
+- [Real Plugin Systems in .NET: AssemblyLoadContext, Unloadability, and Reflection‑Free Discovery](https://jordansrowles.medium.com/real-plugin-systems-in-net-assemblyloadcontext-unloadability-and-reflection-free-discovery-81f920c83644?source=rss------programming-5) (2026-01-02)
+- [Bisect: the Tiny Knife That Finds Where Things Belong](https://medium.com/@remisharoon/bisect-the-tiny-knife-that-finds-where-things-belong-077ec19258ee?source=rss------programming-5) (2026-01-02)
+- [10 Years in 1 Hour: An AI-Generated Index of My Technical Blogs (2015–2025)](https://medium.com/@tancolo/10-years-in-1-hour-an-ai-generated-index-of-my-technical-blogs-2015-2025-db661e9d60cb?source=rss------programming-5) (2026-01-02)
 
 </details>
 
