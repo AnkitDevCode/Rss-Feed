@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [A guide to choosing the right Apple Watch](https://techcrunch.com/2026/01/01/is-the-apple-watch-se-3-a-good-deal/) (2026-01-02)
+- [A beginner’s guide to Mastodon, the open source Twitter alternative](https://techcrunch.com/2026/01/01/what-is-mastodon/) (2026-01-01)
+- [European banks plan to cut 200,000 jobs as AI takes hold](https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/) (2026-01-01)
+- [OpenAI bets big on audio as Silicon Valley declares war on screens](https://techcrunch.com/2026/01/01/openai-bets-big-on-audio-as-silicon-valley-declares-war-on-screens/) (2026-01-01)
 - [The top 6 media/entertainment startups from Disrupt Startup Battlefield](https://techcrunch.com/2026/01/01/the-top-6-media-entertainment-startups-from-disrupt-startup-battlefield/) (2026-01-01)
-- [Fizz social app’s CEO on why anon works](https://techcrunch.com/video/fizz-social-apps-ceo-on-why-anon-works/) (2026-01-01)
-- [‘College dropout’ has become the most coveted startup founder credential](https://techcrunch.com/2025/12/31/college-dropout-has-become-the-most-coveted-startup-founder-credential/) (2026-01-01)
-- [Investors predict AI is coming for labor in 2026 ](https://techcrunch.com/2025/12/31/investors-predict-ai-is-coming-for-labor-in-2026/) (2025-12-31)
-- [These are the best gadgets for your pet right now](https://techcrunch.com/2025/12/31/these-are-the-best-gadgets-for-your-pet-right-now/) (2025-12-31)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Cameras and Lenses (2020)](https://ciechanow.ski/cameras-and-lenses/) (2026-01-01)
-- [European Space Agency hit again as cybercriminals claim 200 GB data up for sale](https://www.theregister.com/2025/12/31/european_space_agency_hacked/) (2026-01-01)
-- [Sony PS5 ROM keys leaked – jailbreaking could be made easier with BootROM codes](https://www.tomshardware.com/video-games/playstation/playstation-5-rom-keys-leaked-jailbreaking-could-be-made-easier-with-bootrom-codes) (2026-01-01)
-- [BYD Sells 4.6M Vehicles in 2025, Meets Revised Sales Goal](https://www.bloomberg.com/news/articles/2026-01-01/byd-sells-4-6-million-vehicles-in-2025-meets-revised-sales-goal) (2026-01-01)
-- [Implementing HNSW (Hierarchical Navigable Small World) Vector Search in PHP](https://centamori.com/index.php?slug=hierarchical-navigable-small-world-hnsw-php&lang=en) (2026-01-01)
+- [Why Prefer Textfiles? (2010)](http://textfiles.com/uploads/textfiles.txt) (2026-01-01)
+- [WebAssembly as a Python Extension Platform](https://nullprogram.com/blog/2026/01/01/) (2026-01-01)
+- [Can Bundler be as fast as uv?](https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/) (2026-01-01)
+- [A silly diffuse shading model](https://lisyarus.github.io/blog/posts/a-silly-diffuse-shading-model.html) (2026-01-01)
+- [Straussian Memes](https://www.lesswrong.com/posts/CAwnnKoFdcQucq4hG/straussian-memes-a-lens-on-techniques-for-mass-persuasion) (2026-01-01)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Marvel rings in new year with Wonder Man trailer](https://arstechnica.com/culture/2026/01/marvel-rings-in-new-year-with-wonder-man-trailer/) (2026-01-01)
+- [Research roundup: 7 cool science stories we almost missed](https://arstechnica.com/science/2026/01/research-roundup-7-cool-science-stories-we-almost-missed-2/) (2026-01-01)
 - [“Streaming stops feeling infinite”: What subscribers can expect in 2026](https://arstechnica.com/gadgets/2026/01/streaming-stops-feeling-infinite-what-subscribers-can-expect-in-2026/) (2026-01-01)
 - [Film Technica: Our top picks for the best films of 2025](https://arstechnica.com/culture/2026/01/film-technica-our-top-picks-for-the-best-films-of-2025/) (2026-01-01)
 - [Here we go again: Retiring coal plant forced to stay open by Trump Admin](https://arstechnica.com/science/2025/12/trump-admin-orders-another-coal-plant-to-stay-open/) (2025-12-31)
-- [Supply chains, AI, and the cloud: The biggest failures (and one success) of 2025](https://arstechnica.com/security/2025/12/supply-chains-ai-and-the-cloud-the-biggest-failures-and-one-success-of-2025/) (2025-12-31)
-- [From prophet to product: How AI came back down to earth in 2025](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) (2025-12-31)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Complete Guide to Local AI Coding in 2026](https://dev.to/murat_aslan_fa44b545aaa2c/the-complete-guide-to-local-ai-coding-in-2026-205l) (2026-01-01)
-- [Building a Portfolio That Actually Demonstrates Enterprise Skills - Part 2](https://dev.to/moodyjw/building-a-portfolio-that-actually-demonstrates-enterprise-skills-part-2-47e1) (2026-01-01)
-- [🧠 The React Bug That Only Appears When Your Code Is Too Fast](https://dev.to/coderxrohan/the-react-bug-that-only-appears-when-your-code-is-too-fast-371g) (2026-01-01)
-- [My 2025](https://dev.to/divyanshulohani/my-2025-ljj) (2026-01-01)
-- [🚀 How I Built an AI Agent to Automate High-Converting Upwork Proposals (n8n + OpenAI)](https://dev.to/iloven8n/how-i-built-an-ai-agent-to-automate-high-converting-upwork-proposals-n8n-openai-397k) (2026-01-01)
+- [Designing Around External API Assumptions: A Lesson from a Free Exchange Rate API](https://dev.to/kskiii/designing-around-external-api-assumptions-a-lesson-from-a-free-exchange-rate-api-38jn) (2026-01-02)
+- [How to set up Stash as a Windows service](https://dev.to/jdrch/how-to-set-up-stash-as-a-windows-service-ifd) (2026-01-02)
+- [SupplyChainAI: Building an Intelligent Vendor Recommendation Engine (PoC)](https://dev.to/exploredataaiml/supplychainai-building-an-intelligent-vendor-recommendation-engine-poc-1888) (2026-01-02)
+- [GC Isn’t Slow — Your frontend Is Just Hoarding Memory](https://dev.to/abhinavshinoy90/gc-isnt-slow-your-frontend-is-just-hoarding-memory-27al) (2026-01-02)
+- [5 Best Practices for Securing Amazon Bedrock Agents from Prompt Injections.](https://dev.to/aws-builders/5-best-practices-for-securing-amazon-bedrock-agents-from-prompt-injections-30eg) (2026-01-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [REST Is Not an API — It’s the Architecture of the Web](https://dick-dowdell.medium.com/rest-is-not-an-api-its-the-architecture-of-the-web-dcc529ecf6f3?source=rss------programming-5) (2026-01-01)
-- [How to Use Value Objects to Solve Primitive Obsession: A .NET Developer’s Guide](https://medium.com/@maged_/how-to-use-value-objects-to-solve-primitive-obsession-a-net-developers-guide-ff2be1182de4?source=rss------programming-5) (2026-01-01)
-- [Mapping Domain-Driven Design Concepts To The Database With EF Core](https://medium.com/@mariammaurice/mapping-domain-driven-design-concepts-to-the-database-with-ef-core-c92b3cc3cc85?source=rss------programming-5) (2026-01-01)
-- [How To Implement Rate Limiting In .NET 10](https://medium.com/@michaelmaurice410/how-to-implement-rate-limiting-in-net-10-d79b38af90de?source=rss------programming-5) (2026-01-01)
-- [The AI Infrastructure Stack in 2026: It’s Not Just GPUs Anymore.](https://medium.com/@james09522/the-ai-infrastructure-stack-in-2026-its-not-just-gpus-anymore-5d2ddd26b9f4?source=rss------programming-5) (2026-01-01)
+- [9 Python Features I Ignored for Too Long](https://python.plainenglish.io/9-python-features-i-ignored-for-too-long-bfcc91829135?source=rss------programming-5) (2026-01-02)
+- [Teaching Claude to Speak Dart: Building MCP Servers from pub.dev Packages](https://medium.com/@hey.aphra/teaching-claude-to-speak-dart-building-mcp-servers-from-pub-dev-packages-d2aef350bc9f?source=rss------programming-5) (2026-01-02)
+- [How PhonePe Refunds Work for Failed Payments](https://medium.com/@sunil17bbmp/how-phonepe-refunds-work-for-failed-payments-bf1404a423da?source=rss------programming-5) (2026-01-02)
+- [WHN™ Global Institute Officially Launches —](https://medium.com/jasira-intelligence-press-room/whn-global-institute-officially-launches-2967f5681048?source=rss------programming-5) (2026-01-02)
+- [The History of NVIDIA: From Graphics Startup to AI Powerhouse](https://medium.com/@zacharywestonintech/the-history-of-nvidia-from-graphics-startup-to-ai-powerhouse-afecd7ebc863?source=rss------programming-5) (2026-01-02)
 
 </details>
 
