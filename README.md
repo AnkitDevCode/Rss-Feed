@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Not for Human Consumption](https://vectorculture.substack.com/p/not-for-human-consumption) (2026-01-03)
-- [Tally – A tool to help agents classify your bank transactions](https://tallyai.money/) (2026-01-03)
-- [Show HN: uvx ptn, scan a QR, get a terminal in your phone](https://github.com/lyehe/porterminal) (2026-01-03)
-- [IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT 5.1 [pdf]](https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf) (2026-01-03)
-- [Adventure 751 (1980)](https://bluerenga.blog/2026/01/01/adventure-751-1980/) (2026-01-03)
+- [The C3 Programming Language](https://c3-lang.org) (2026-01-03)
+- [The Most Popular Blogs of Hacker News in 2025](https://refactoringenglish.com/blog/2025-hn-top-5/) (2026-01-03)
+- [Show HN: Offline tiles and routing and geocoding in one Docker Compose stack](https://www.corviont.com/) (2026-01-03)
+- [ParadeDB (YC S23) Is Hiring Database Engineers](https://paradedb.notion.site/?p=172ea4ce9deb80898ef5d5097bd65544&pm=s) (2026-01-03)
+- [X-Clacks-Overhead](https://hleb.dev/post/x-clacks-overhead/) (2026-01-03)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Meta’s Quest 3S is still $50 off and comes with a $50 gift card](https://www.theverge.com/gadgets/853151/meta-quest-3s-apple-airtag-steam-winter-sale-deal) (2026-01-03)
+- [I went to the Stranger Things finale in theaters and the strangest thing happened](https://www.theverge.com/streaming/853133/stranger-things-finale-theater-scene-report) (2026-01-03)
+- [This smart home controller is literally a piece of wood](https://www.theverge.com/tech/852598/mui-board-smart-home-controller-matter) (2026-01-03)
+- [CES 2026: all the news, gadgets, and innovations from the biggest tech show](https://www.theverge.com/tech/836627/ces-2026-news-gadgets-announcements) (2026-01-03)
 - [Grok is undressing anyone, including minors](https://www.theverge.com/news/853191/grok-explicit-bikini-pictures-minors) (2026-01-02)
-- [Billion-dollar Bitcoin hacker Ilya Lichtenstein thanks Trump for early prison release](https://www.theverge.com/news/853160/ilya-lichtenstein-released-razzlekhan-bitcoin-hack) (2026-01-02)
-- [Microsoft CEO Satya Nadella is now blogging about AI slop](https://www.theverge.com/news/852630/microsoft-ceo-satya-nadella-scratchpad-blog-ai-slop-comments) (2026-01-02)
-- [This smart fridge wants to solve the hassle of grocery shopping](https://www.theverge.com/news/851934/ge-appliances-smart-fridge-barcode-scanner-tablet) (2026-01-02)
-- [Pebble’s round smartwatch is getting a reboot](https://www.theverge.com/news/852587/pebble-round-2-time-smartwatch-price-availability) (2026-01-02)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Demystifying ReAct: Why Reasoning and Acting is the Standard for LLM Agents](https://dev.to/4484ho/demystifying-react-why-reasoning-and-acting-is-the-standard-for-llm-agents-1ii6) (2026-01-03)
-- [Stop Writing Shell Scripts for Container Health Checks](https://dev.to/v3rtti/stop-writing-shell-scripts-for-container-health-checks-4pif) (2026-01-03)
-- [Stop Building Backends for Simple Data Handoffs: Meet React State Warp](https://dev.to/rezakh80/stop-building-backends-for-simple-data-handoffs-meet-react-state-warp-4724) (2026-01-03)
-- [Quark's Outlines: Python Files](https://dev.to/mike-vincent/quarks-outlines-python-files-2nlm) (2026-01-03)
-- [How to Prevent AI Agents from Draining Crypto Wallets](https://dev.to/l_x_1/how-to-prevent-ai-agents-from-draining-crypto-wallets-3cci) (2026-01-03)
+- [Local AI Tools: Introducing LocalAI (Tool 3)](https://dev.to/alexlead/local-ai-tools-introducing-localai-tool-3-3h67) (2026-01-03)
+- [Shopee Data Collection with API: What Data You Can and Cannot Access](https://dev.to/easydata123/shopee-data-collection-with-api-what-data-you-can-and-cannot-access-4b1b) (2026-01-03)
+- [Building a 3D Interactive Portfolio with React 19, Three.js, and a Gemini AI Agent](https://dev.to/brieu/building-a-3d-interactive-portfolio-with-react-19-threejs-and-a-gemini-ai-agent-5efj) (2026-01-03)
+- [Ethereum-Solidity Quiz Q12: What does this sequence of opcodes do? PUSH1 0x80 / PUSH1 0x40 / MSTORE](https://dev.to/mihaihng/ethereum-solidity-quiz-q12-what-does-this-sequence-of-opcodes-dopush1-0x80push1-0x40mstore-1m26) (2026-01-03)
+- [RAG & Vector Databases - Efficient Retrieval Explained](https://dev.to/hkj13/rag-vector-databases-efficient-retrieval-explained-2ik9) (2026-01-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Java concurrency problem #2: Producer-Consumer Problem](https://medium.com/@ankitsharma61016/java-concurrency-problem-2-producer-consumer-problem-8ba5f0889242?source=rss------programming-5) (2026-01-03)
-- [Free Coding Resources No One Tells You About (But Should)](https://medium.com/404-found/free-coding-resources-no-one-tells-you-about-but-should-0198aa3bf763?source=rss------programming-5) (2026-01-03)
-- [I Just Built a Real-Time Chat App Using Socket.IO — Here’s What I Learned](https://medium.com/@sanchitvarshney/i-just-built-a-real-time-chat-app-using-socket-io-heres-what-i-learned-042fe50474d1?source=rss------programming-5) (2026-01-03)
-- [I Used Global Variables for “Convenience” (And Created Bugs I Couldn’t Reproduce)](https://pub.towardsai.net/i-used-global-variables-for-convenience-and-created-bugs-i-couldnt-reproduce-4fa2ee8f16fa?source=rss------programming-5) (2026-01-03)
-- [Everything You Need to Know About HashSet<T> and Dictionary<TKey, TValue> in C#](https://blog.stackademic.com/everything-you-need-to-know-about-hashset-t-and-dictionary-tkey-tvalue-in-c-e07611250c63?source=rss------programming-5) (2026-01-03)
+- [What a 750-piece puzzle taught me about product management.](https://medium.com/@thejusvani/what-a-750-piece-puzzle-taught-me-about-product-management-25909e1e9eae?source=rss------programming-5) (2026-01-03)
+- [A User Double-Clicks the Pay Button – How Do You Stop Duplicate API Calls?](https://medium.com/@ip.ravi333/a-user-double-clicks-the-pay-button-how-do-you-stop-duplicate-api-calls-b67f03f56d60?source=rss------programming-5) (2026-01-03)
+- [The Boundary Problem of Reality: A Popperian Theory of the Enterprise Under Selection Pressure](https://medium.com/@aludanyi/the-boundary-problem-of-reality-a-popperian-theory-of-the-enterprise-under-selection-pressure-44942ca48a2b?source=rss------programming-5) (2026-01-03)
+- [8 Battle-Tested Steps to Use the Domain Event Pattern in .NET](https://medium.com/@maged_/8-battle-tested-steps-to-use-the-domain-event-pattern-in-net-95b406a87df0?source=rss------programming-5) (2026-01-03)
+- [How to Implement the CQRS Pattern in Clean Architecture (From Scratch)](https://medium.com/@mariammaurice/how-to-implement-the-cqrs-pattern-in-clean-architecture-from-scratch-a87d3015360e?source=rss------programming-5) (2026-01-03)
 
 </details>
 
@@ -473,11 +473,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
+- [Developer Edition + スクラッチ組織で、複数の開発・検証組織を手にいれる](https://developer.salesforce.com/blogs/2025/12/jp-scratch-org-with-developer-edition.html) (2025-12-26)
+- [プロから学ぶ、Agentforce Vibesを使いこなす5つのヒント](https://developer.salesforce.com/blogs/2025/12/jp-five-pro-tips-for-using-agentforce-vibes.html) (2025-12-25)
 - [新しいサンプルアプリ「Agent Script Recipes」でハイブリッド推論をマスター](https://developer.salesforce.com/blogs/2025/12/jp-master-hybrid-reasoning-with-the-new-agent-script-recipes-sample-app.html) (2025-12-24)
 - [Build Composable Storefronts Smarter and Faster with the PWA Kit MCP Server](https://developer.salesforce.com/blogs/2025/12/build-composable-storefronts-smarter-and-faster-with-the-pwa-kit-mcp-server.html) (2025-12-23)
 - [AgentforceデータライブラリーからAIエージェントのテストケースを自動生成](https://developer.salesforce.com/blogs/2025/12/jp-auto-generate-agent-test-cases-from-agentforce-data-libraries.html) (2025-12-23)
-- [【Agentforce Hackathon Tokyo】第 1 位 Lightning Brightning: Agentforce と Tableau で革新するデータ駆動型ソリューション「Beauty Cloud」](https://developer.salesforce.com/blogs/2025/12/agentforce_hackathon_tokyo_2025_1st.html) (2025-12-22)
-- [Agentforceで会話履歴を活用して、マルチターンのAIエージェントテストを自動化](https://developer.salesforce.com/blogs/2025/12/jp-automate-multi-turn-agent-testing-with-conversation-history-in-agentforce.html) (2025-12-18)
 
 </details>
 
@@ -561,11 +561,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Optimizing Data Transfer in AI/ML Workloads](https://towardsdatascience.com/optimizing-data-transfer-in-ai-ml-workloads/) (2026-01-03)
+- [How to Keep MCPs Useful in Agentic Pipelines](https://towardsdatascience.com/master-mcp-as-a-way-to-keep-mcps-useful-in-agentic-pipelines/) (2026-01-03)
 - [Drift Detection in Robust Machine Learning Systems](https://towardsdatascience.com/drift-detection-in-robust-machine-learning-systems/) (2026-01-02)
 - [Off-Beat Careers That Are the Future Of Data](https://towardsdatascience.com/off-beat-careers-that-are-the-future-of-data/) (2026-01-02)
 - [The Real Challenge in Data Storytelling: Getting Buy-In for Simplicity](https://towardsdatascience.com/the-real-challenge-in-data-storytelling-getting-buy-in-for-simplicity/) (2026-01-02)
-- [EDA in Public (Part 3): RFM Analysis for Customer Segmentation in Pandas](https://towardsdatascience.com/eda-in-public-part-3-rfm-analysis-for-customer-segmentation-in-pandas/) (2026-01-01)
-- [Deep Reinforcement Learning: The Actor-Critic Method](https://towardsdatascience.com/deep-reinforcement-learning-the-actor-critic-method/) (2026-01-01)
 
 </details>
 
