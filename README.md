@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [2026 will be my year of the Linux desktop](https://xeiaso.net/notes/2026/year-linux-desktop/) (2026-01-03)
-- [Show HN: Website that plays the lottery every second](https://lotteryeverysecond.lffl.me/) (2026-01-03)
-- [The most friendless place on Earth](https://www.economist.com/christmas-specials/2025/12/18/the-most-friendless-place-on-earth) (2026-01-02)
-- [NY Fed cash transfers to banks increase dramatically in Q4 2025](https://www.dcreport.org/2025/12/29/ny-fed-unlimited-cash-infusions-bank-crisis/) (2026-01-02)
-- [Global software engineering job postings outlook – 2026](https://jobswithgpt.com/blog/global_software-engineering_jobs_january_2026/) (2026-01-02)
+- [Japan joining growing global trend of declining democracy](https://www.asahi.com/ajw/articles/16262732) (2026-01-03)
+- [IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT 5.1 [pdf]](https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf) (2026-01-03)
+- [Adventure 751 (1980)](https://bluerenga.blog/2026/01/01/adventure-751-1980/) (2026-01-03)
+- [Einstein Probe detects an X-ray flare from nearby star](https://phys.org/news/2025-12-einstein-probe-ray-flare-nearby.html) (2026-01-03)
+- [A Basic Just-In-Time Compiler (2015)](https://nullprogram.com/blog/2015/03/19/) (2026-01-03)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Malicious Chrome Extensions Steal AI Chats: How to Protect Your Conversations in 2026](https://dev.to/manupranay_adupa_c1dd6247/malicious-chrome-extensions-steal-ai-chats-how-to-protect-your-conversations-in-2026-2f6p) (2026-01-03)
-- [FHIR Integration: Build Modern Healthcare Apps Using Python and FastAPI](https://dev.to/wellallytech/fhir-integration-build-modern-healthcare-apps-using-python-and-fastapi-5cdf) (2026-01-03)
-- [Transform Your SDK Integration with Monetzly's Monetization Tools](https://dev.to/monetzly/transform-your-sdk-integration-with-monetzlys-monetization-tools-1lgc) (2026-01-03)
-- [Instruction Tuning with GPT-4](https://dev.to/paperium/instruction-tuning-with-gpt-4-104e) (2026-01-03)
-- [How to Make One Million Dollars in 2026: A Realistic and Practical Guide](https://dev.to/damad1988/how-to-make-one-million-dollars-in-2026-a-realistic-and-practical-guide-2h80) (2026-01-03)
+- [Quick business lesson:](https://dev.to/codedarmab101/quick-business-lesson-4bo4) (2026-01-03)
+- [Part 6 — Observability and Evaluation in GenAI Systems](https://dev.to/muzammiltalha/part-6-observability-and-evaluation-in-genai-systems-76g) (2026-01-03)
+- [The Shocking Audit That Changed Everything](https://dev.to/tracksimple/the-shocking-audit-that-changed-everything-3hpo) (2026-01-03)
+- [Why Figma SVGs Break Your React App (and How to Fix It Locally)](https://dev.to/hypertools/why-figma-svgs-break-your-react-app-and-how-to-fix-it-locally-3c63) (2026-01-03)
+- [Growth Strategy & Scaling: Key Trends & Insights](https://dev.to/hkj13/growth-strategy-scaling-key-trends-insights-lfm) (2026-01-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Taught Myself to Code for $0. Here is the Exact Toolkit I Used.](https://medium.com/@MuneebBudgetTech/zero-dollar-coding-bootcamp-professional-toolkit-39987577a9fb?source=rss------programming-5) (2026-01-03)
-- [49% of C# Developers Failed This “Easy” Question — Would You Catch the Bug?](https://blog.stackademic.com/49-of-c-developers-failed-this-easy-question-would-you-catch-the-bug-2c34dcf9118b?source=rss------programming-5) (2026-01-03)
-- [Best Programming Stacks for Freshers in 2026: The Ultimate Guide.](https://medium.com/thought-thinkers/best-programming-stacks-for-freshers-in-2026-the-ultimate-guide-6c80b28e5822?source=rss------programming-5) (2026-01-03)
-- [The Frontend Dev Market in 2026 Is Weird, But Here’s What Actually Matters](https://medium.com/@vioscott/the-frontend-dev-market-in-2026-is-weird-but-heres-what-actually-matters-54e1e9beec74?source=rss------programming-5) (2026-01-03)
-- [The History of Sun Microsystems](https://medium.com/@noahbean3396/the-history-of-sun-microsystems-d6ef7248be23?source=rss------programming-5) (2026-01-03)
+- [Why Everyone Is Vibe Coding “ but No One Wants the Label …](https://medium.com/@deon./why-everyone-is-vibe-coding-but-no-one-wants-the-label-c9712cc60610?source=rss------programming-5) (2026-01-03)
+- [How to Use Claude Code To The Fullest For Developers In Production](https://medium.com/coding-nexus/how-to-use-claude-code-to-the-fullest-for-developers-in-production-611b1e3ea617?source=rss------programming-5) (2026-01-03)
+- [The Rise of “Vibe Coding”: How to Build Apps Without Knowing How to Code](https://medium.com/@moeedkamraan1123/the-rise-of-vibe-coding-how-to-build-apps-without-knowing-how-to-code-da56f92e37c8?source=rss------programming-5) (2026-01-03)
+- [Stop Deploying Jupyter Notebooks. It’s Killing Your Data Pipelines.](https://python.plainenglish.io/stop-deploying-jupyter-notebooks-its-killing-your-data-pipelines-66ce410ed09b?source=rss------programming-5) (2026-01-03)
+- [plan-do-check-verify-retrospect: A framework for AI Assisted Coding](https://medium.com/@nileshkumar/plan-do-check-verify-retrospect-a-framework-for-ai-assisted-coding-0ab07a1835b5?source=rss------programming-5) (2026-01-03)
 
 </details>
 
@@ -473,11 +473,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
+- [Developer Edition + スクラッチ組織で、複数の開発・検証組織を手にいれる](https://developer.salesforce.com/blogs/2025/12/jp-scratch-org-with-developer-edition.html) (2025-12-26)
+- [プロから学ぶ、Agentforce Vibesを使いこなす5つのヒント](https://developer.salesforce.com/blogs/2025/12/jp-five-pro-tips-for-using-agentforce-vibes.html) (2025-12-25)
 - [新しいサンプルアプリ「Agent Script Recipes」でハイブリッド推論をマスター](https://developer.salesforce.com/blogs/2025/12/jp-master-hybrid-reasoning-with-the-new-agent-script-recipes-sample-app.html) (2025-12-24)
 - [Build Composable Storefronts Smarter and Faster with the PWA Kit MCP Server](https://developer.salesforce.com/blogs/2025/12/build-composable-storefronts-smarter-and-faster-with-the-pwa-kit-mcp-server.html) (2025-12-23)
 - [AgentforceデータライブラリーからAIエージェントのテストケースを自動生成](https://developer.salesforce.com/blogs/2025/12/jp-auto-generate-agent-test-cases-from-agentforce-data-libraries.html) (2025-12-23)
-- [【Agentforce Hackathon Tokyo】第 1 位 Lightning Brightning: Agentforce と Tableau で革新するデータ駆動型ソリューション「Beauty Cloud」](https://developer.salesforce.com/blogs/2025/12/agentforce_hackathon_tokyo_2025_1st.html) (2025-12-22)
-- [Agentforceで会話履歴を活用して、マルチターンのAIエージェントテストを自動化](https://developer.salesforce.com/blogs/2025/12/jp-automate-multi-turn-agent-testing-with-conversation-history-in-agentforce.html) (2025-12-18)
 
 </details>
 
@@ -572,11 +572,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [DeepSeek mHC: Stabilizing Large Language Model Training](https://www.analyticsvidhya.com/blog/2026/01/deepseek-mhc/) (2026-01-03)
+- [15 AI Agents Trends to Watch in 2026](https://www.analyticsvidhya.com/blog/2026/01/ai-agents-trends/) (2026-01-03)
 - [Top 18 Power BI Project Ideas For Practice 2026](https://www.analyticsvidhya.com/blog/2026/01/top-power-bi-project/) (2026-01-02)
 - [Preference Fine-Tuning LFM 2 Using DPO](https://www.analyticsvidhya.com/blog/2026/01/lfm-2-preference-fine-tuning-using-dpo/) (2026-01-02)
 - [Google T5Gemma-2 Explained: Trying Out a Laptop-Friendly Multimodal AI Model](https://www.analyticsvidhya.com/blog/2026/01/google-t5gemma-2/) (2026-01-01)
-- [Student ID Benefits Worth Thousands: Get 15+ Premium Tools For Free or on Discount](https://www.analyticsvidhya.com/blog/2025/12/student-id-discounts-worth-thousands/) (2025-12-31)
-- [15 Best Python Books for Beginners to Advanced Learners [2026 Edition]](https://www.analyticsvidhya.com/blog/2025/12/best-python-books/) (2025-12-31)
 
 </details>
 
