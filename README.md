@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Japan joining growing global trend of declining democracy](https://www.asahi.com/ajw/articles/16262732) (2026-01-03)
+- [Not for Human Consumption](https://vectorculture.substack.com/p/not-for-human-consumption) (2026-01-03)
+- [Tally – A tool to help agents classify your bank transactions](https://tallyai.money/) (2026-01-03)
+- [Show HN: uvx ptn, scan a QR, get a terminal in your phone](https://github.com/lyehe/porterminal) (2026-01-03)
 - [IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT 5.1 [pdf]](https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf) (2026-01-03)
 - [Adventure 751 (1980)](https://bluerenga.blog/2026/01/01/adventure-751-1980/) (2026-01-03)
-- [Einstein Probe detects an X-ray flare from nearby star](https://phys.org/news/2025-12-einstein-probe-ray-flare-nearby.html) (2026-01-03)
-- [A Basic Just-In-Time Compiler (2015)](https://nullprogram.com/blog/2015/03/19/) (2026-01-03)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Quick business lesson:](https://dev.to/codedarmab101/quick-business-lesson-4bo4) (2026-01-03)
-- [Part 6 — Observability and Evaluation in GenAI Systems](https://dev.to/muzammiltalha/part-6-observability-and-evaluation-in-genai-systems-76g) (2026-01-03)
-- [The Shocking Audit That Changed Everything](https://dev.to/tracksimple/the-shocking-audit-that-changed-everything-3hpo) (2026-01-03)
-- [Why Figma SVGs Break Your React App (and How to Fix It Locally)](https://dev.to/hypertools/why-figma-svgs-break-your-react-app-and-how-to-fix-it-locally-3c63) (2026-01-03)
-- [Growth Strategy & Scaling: Key Trends & Insights](https://dev.to/hkj13/growth-strategy-scaling-key-trends-insights-lfm) (2026-01-03)
+- [Demystifying ReAct: Why Reasoning and Acting is the Standard for LLM Agents](https://dev.to/4484ho/demystifying-react-why-reasoning-and-acting-is-the-standard-for-llm-agents-1ii6) (2026-01-03)
+- [Stop Writing Shell Scripts for Container Health Checks](https://dev.to/v3rtti/stop-writing-shell-scripts-for-container-health-checks-4pif) (2026-01-03)
+- [Stop Building Backends for Simple Data Handoffs: Meet React State Warp](https://dev.to/rezakh80/stop-building-backends-for-simple-data-handoffs-meet-react-state-warp-4724) (2026-01-03)
+- [Quark's Outlines: Python Files](https://dev.to/mike-vincent/quarks-outlines-python-files-2nlm) (2026-01-03)
+- [How to Prevent AI Agents from Draining Crypto Wallets](https://dev.to/l_x_1/how-to-prevent-ai-agents-from-draining-crypto-wallets-3cci) (2026-01-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why Everyone Is Vibe Coding “ but No One Wants the Label …](https://medium.com/@deon./why-everyone-is-vibe-coding-but-no-one-wants-the-label-c9712cc60610?source=rss------programming-5) (2026-01-03)
-- [How to Use Claude Code To The Fullest For Developers In Production](https://medium.com/coding-nexus/how-to-use-claude-code-to-the-fullest-for-developers-in-production-611b1e3ea617?source=rss------programming-5) (2026-01-03)
-- [The Rise of “Vibe Coding”: How to Build Apps Without Knowing How to Code](https://medium.com/@moeedkamraan1123/the-rise-of-vibe-coding-how-to-build-apps-without-knowing-how-to-code-da56f92e37c8?source=rss------programming-5) (2026-01-03)
-- [Stop Deploying Jupyter Notebooks. It’s Killing Your Data Pipelines.](https://python.plainenglish.io/stop-deploying-jupyter-notebooks-its-killing-your-data-pipelines-66ce410ed09b?source=rss------programming-5) (2026-01-03)
-- [plan-do-check-verify-retrospect: A framework for AI Assisted Coding](https://medium.com/@nileshkumar/plan-do-check-verify-retrospect-a-framework-for-ai-assisted-coding-0ab07a1835b5?source=rss------programming-5) (2026-01-03)
+- [Java concurrency problem #2: Producer-Consumer Problem](https://medium.com/@ankitsharma61016/java-concurrency-problem-2-producer-consumer-problem-8ba5f0889242?source=rss------programming-5) (2026-01-03)
+- [Free Coding Resources No One Tells You About (But Should)](https://medium.com/404-found/free-coding-resources-no-one-tells-you-about-but-should-0198aa3bf763?source=rss------programming-5) (2026-01-03)
+- [I Just Built a Real-Time Chat App Using Socket.IO — Here’s What I Learned](https://medium.com/@sanchitvarshney/i-just-built-a-real-time-chat-app-using-socket-io-heres-what-i-learned-042fe50474d1?source=rss------programming-5) (2026-01-03)
+- [I Used Global Variables for “Convenience” (And Created Bugs I Couldn’t Reproduce)](https://pub.towardsai.net/i-used-global-variables-for-convenience-and-created-bugs-i-couldnt-reproduce-4fa2ee8f16fa?source=rss------programming-5) (2026-01-03)
+- [Everything You Need to Know About HashSet<T> and Dictionary<TKey, TValue> in C#](https://blog.stackademic.com/everything-you-need-to-know-about-hashset-t-and-dictionary-tkey-tvalue-in-c-e07611250c63?source=rss------programming-5) (2026-01-03)
 
 </details>
 
@@ -473,11 +473,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
-- [Developer Edition + スクラッチ組織で、複数の開発・検証組織を手にいれる](https://developer.salesforce.com/blogs/2025/12/jp-scratch-org-with-developer-edition.html) (2025-12-26)
-- [プロから学ぶ、Agentforce Vibesを使いこなす5つのヒント](https://developer.salesforce.com/blogs/2025/12/jp-five-pro-tips-for-using-agentforce-vibes.html) (2025-12-25)
 - [新しいサンプルアプリ「Agent Script Recipes」でハイブリッド推論をマスター](https://developer.salesforce.com/blogs/2025/12/jp-master-hybrid-reasoning-with-the-new-agent-script-recipes-sample-app.html) (2025-12-24)
 - [Build Composable Storefronts Smarter and Faster with the PWA Kit MCP Server](https://developer.salesforce.com/blogs/2025/12/build-composable-storefronts-smarter-and-faster-with-the-pwa-kit-mcp-server.html) (2025-12-23)
 - [AgentforceデータライブラリーからAIエージェントのテストケースを自動生成](https://developer.salesforce.com/blogs/2025/12/jp-auto-generate-agent-test-cases-from-agentforce-data-libraries.html) (2025-12-23)
+- [【Agentforce Hackathon Tokyo】第 1 位 Lightning Brightning: Agentforce と Tableau で革新するデータ駆動型ソリューション「Beauty Cloud」](https://developer.salesforce.com/blogs/2025/12/agentforce_hackathon_tokyo_2025_1st.html) (2025-12-22)
+- [Agentforceで会話履歴を活用して、マルチターンのAIエージェントテストを自動化](https://developer.salesforce.com/blogs/2025/12/jp-automate-multi-turn-agent-testing-with-conversation-history-in-agentforce.html) (2025-12-18)
 
 </details>
 
