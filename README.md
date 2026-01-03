@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [India orders Musk’s X to fix Grok over ‘obscene’ AI content](https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/) (2026-01-02)
 - [10 useful gadgets for your first apartment](https://techcrunch.com/2026/01/02/10-useful-gadgets-for-your-first-apartment/) (2026-01-02)
 - [Tesla annual sales decline 9% as it’s overtaken by BYD as global EV leader](https://techcrunch.com/2026/01/02/tesla-annual-sales-decline-9-as-its-overtaken-by-byd-as-global-ev-leader/) (2026-01-02)
 - [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2026/01/02/nvidias-ai-empire-a-look-at-its-top-startup-investments/) (2026-01-02)
 - [The 16 top logistics, manufacturing, materials startups from Disrupt Startup Battlefield ](https://techcrunch.com/2026/01/02/the-16-top-logistics-manufacturing-materials-startups-from-disrupt-startup-battlefield/) (2026-01-02)
-- [Pebble reboots its thinnest smartwatch with the Pebble Round 2](https://techcrunch.com/2026/01/02/pebble-reboots-its-thinnest-smartwatch-with-the-pebble-round-2/) (2026-01-02)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Clicks Communicator](https://www.clicksphone.com/en/communicator) (2026-01-02)
-- [Ask HN: Who is hiring? (January 2026)](https://news.ycombinator.com/item?id=46466074) (2026-01-02)
-- [US Government demands access to European police databases and biometrics [video]](https://media.ccc.de/v/39c3-trump-government-demands-access-to-european-police-databases-and-biometrics) (2026-01-02)
-- [Parental Controls Aren't for Parents](https://beasthacker.com/til/parental-controls-arent-for-parents.html) (2026-01-02)
-- [39th Chaos Communication Congress Videos](https://media.ccc.de/b/congress/2025) (2026-01-02)
+- [2026 will be my year of the Linux desktop](https://xeiaso.net/notes/2026/year-linux-desktop/) (2026-01-03)
+- [Show HN: Website that plays the lottery every second](https://lotteryeverysecond.lffl.me/) (2026-01-03)
+- [The most friendless place on Earth](https://www.economist.com/christmas-specials/2025/12/18/the-most-friendless-place-on-earth) (2026-01-02)
+- [NY Fed cash transfers to banks increase dramatically in Q4 2025](https://www.dcreport.org/2025/12/29/ny-fed-unlimited-cash-infusions-bank-crisis/) (2026-01-02)
+- [Global software engineering job postings outlook – 2026](https://jobswithgpt.com/blog/global_software-engineering_jobs_january_2026/) (2026-01-02)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Grok is undressing anyone, including minors](https://www.theverge.com/news/853191/grok-explicit-bikini-pictures-minors) (2026-01-02)
+- [Billion-dollar Bitcoin hacker Ilya Lichtenstein thanks Trump for early prison release](https://www.theverge.com/news/853160/ilya-lichtenstein-released-razzlekhan-bitcoin-hack) (2026-01-02)
 - [Microsoft CEO Satya Nadella is now blogging about AI slop](https://www.theverge.com/news/852630/microsoft-ceo-satya-nadella-scratchpad-blog-ai-slop-comments) (2026-01-02)
 - [This smart fridge wants to solve the hassle of grocery shopping](https://www.theverge.com/news/851934/ge-appliances-smart-fridge-barcode-scanner-tablet) (2026-01-02)
 - [Pebble’s round smartwatch is getting a reboot](https://www.theverge.com/news/852587/pebble-round-2-time-smartwatch-price-availability) (2026-01-02)
-- [Tesla’s fourth quarter sales fell a lot more than expected](https://www.theverge.com/news/852649/tesla-q4-2025-sales-production-delivery-elon-musk) (2026-01-02)
-- [LG announces the &#8216;world’s lightest 17-inch RTX laptop&#8217;](https://www.theverge.com/news/852628/lg-gram-pro-17-16-laptop-2026-ces) (2026-01-02)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Final reminder: Donate to win swag in our annual Charity Drive sweepstakes](https://arstechnica.com/gaming/2026/01/final-reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-4/) (2026-01-02)
-- [xAI silent after Grok sexualized images of kids; dril mocks Grok’s “apology”](https://arstechnica.com/tech-policy/2026/01/xai-silent-after-grok-sexualized-images-of-kids-dril-mocks-groks-apology/) (2026-01-02)
-- [Tesla sales fell by 9 percent in 2025, its second yearly decline](https://arstechnica.com/cars/2026/01/tesla-sales-fell-by-9-percent-in-2025-its-second-yearly-decline/) (2026-01-02)
-- [After half a decade, the Russian space station segment stopped leaking](https://arstechnica.com/space/2026/01/finally-some-good-news-for-russia-the-space-station-is-no-longer-leaking/) (2026-01-02)
-- [Marvel rings in new year with Wonder Man trailer](https://arstechnica.com/culture/2026/01/marvel-rings-in-new-year-with-wonder-man-trailer/) (2026-01-01)
+- [No, Grok can’t really “apologize” for posting non-consensual sexual images](https://arstechnica.com/ai/2026/01/no-grok-cant-really-apologize-for-posting-non-consensual-sexual-images/) (2026-01-02)
+- [Healthy 18-year-old welder nearly died of anthrax—the 9th such puzzling case](https://arstechnica.com/health/2026/01/anthrax-nearly-kills-healthy-18-year-old-welder-amid-puzzling-pattern/) (2026-01-02)
+- [OpenAI reorganizes some teams to build audio-based AI hardware products](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) (2026-01-02)
+- [Researchers spot Saturn-sized planet in the “Einstein desert”](https://arstechnica.com/science/2026/01/researchers-spot-saturn-sized-planet-in-the-einstein-desert/) (2026-01-02)
+- [SpaceX begins “significant reconfiguration” of Starlink satellite constellation](https://arstechnica.com/space/2026/01/spacex-begins-significant-reconfiguration-of-starlink-satellite-constellation/) (2026-01-02)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Pendulum Swings Back: Intentional Software Design in the Age of AI](https://dev.to/devunionx/the-pendulum-swings-back-intentional-software-design-in-the-age-of-ai-351) (2026-01-02)
-- [DEV Track Spotlight: Build multi-modal AI agents with Strands Agents and Amazon S3 Vectors (DEV332)](https://dev.to/aws/dev-track-spotlight-build-multi-modal-ai-agents-with-strands-agents-and-amazon-s3-vectors-dev332-4jp5) (2026-01-02)
-- [Your Website Is Your Digital First Impression](https://dev.to/nafizmahmud_94/your-website-is-your-digital-first-impression-3p6h) (2026-01-02)
-- [Alles über Stripe and Paddle payment integration für dein Business](https://dev.to/ash_dubai/alles-uber-stripe-and-paddle-payment-integration-fur-dein-business-24b6) (2026-01-02)
-- [seofaster, programmatic seo platform development - seofaster,...](https://dev.to/ash_dubai/seofaster-programmatic-seo-platform-development-seofaster-2lh9) (2026-01-02)
+- [Malicious Chrome Extensions Steal AI Chats: How to Protect Your Conversations in 2026](https://dev.to/manupranay_adupa_c1dd6247/malicious-chrome-extensions-steal-ai-chats-how-to-protect-your-conversations-in-2026-2f6p) (2026-01-03)
+- [FHIR Integration: Build Modern Healthcare Apps Using Python and FastAPI](https://dev.to/wellallytech/fhir-integration-build-modern-healthcare-apps-using-python-and-fastapi-5cdf) (2026-01-03)
+- [Transform Your SDK Integration with Monetzly's Monetization Tools](https://dev.to/monetzly/transform-your-sdk-integration-with-monetzlys-monetization-tools-1lgc) (2026-01-03)
+- [Instruction Tuning with GPT-4](https://dev.to/paperium/instruction-tuning-with-gpt-4-104e) (2026-01-03)
+- [How to Make One Million Dollars in 2026: A Realistic and Practical Guide](https://dev.to/damad1988/how-to-make-one-million-dollars-in-2026-a-realistic-and-practical-guide-2h80) (2026-01-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Rust Is Not Hard. You Were Just Taught Programming Wrong.](https://medium.com/@diyasanjaysatpute147/rust-is-not-hard-you-were-just-taught-programming-wrong-6978df180c9e?source=rss------programming-5) (2026-01-02)
-- [Go — CLOSURES](https://medium.com/@hayunbugenmisopa/go-closures-1b70aa991199?source=rss------programming-5) (2026-01-02)
-- [Go — CLOSURES](https://medium.com/@hayunbugenmisopa/go-closures-2958eb15ca6b?source=rss------programming-5) (2026-01-02)
-- [How to Use ChatGPT Without Getting Caught: Fix These 5 Mistakes](https://medium.com/write-a-catalyst/how-to-use-chatgpt-without-getting-caught-fix-these-5-mistakes-32e5a2d6cc76?source=rss------programming-5) (2026-01-02)
-- [Configuring Symfony 8 Security with security.yaml](https://medium.com/@Edgaras0x4E/configuring-symfony-8-security-with-security-yaml-ccfffa771617?source=rss------programming-5) (2026-01-02)
+- [I Taught Myself to Code for $0. Here is the Exact Toolkit I Used.](https://medium.com/@MuneebBudgetTech/zero-dollar-coding-bootcamp-professional-toolkit-39987577a9fb?source=rss------programming-5) (2026-01-03)
+- [49% of C# Developers Failed This “Easy” Question — Would You Catch the Bug?](https://blog.stackademic.com/49-of-c-developers-failed-this-easy-question-would-you-catch-the-bug-2c34dcf9118b?source=rss------programming-5) (2026-01-03)
+- [Best Programming Stacks for Freshers in 2026: The Ultimate Guide.](https://medium.com/thought-thinkers/best-programming-stacks-for-freshers-in-2026-the-ultimate-guide-6c80b28e5822?source=rss------programming-5) (2026-01-03)
+- [The Frontend Dev Market in 2026 Is Weird, But Here’s What Actually Matters](https://medium.com/@vioscott/the-frontend-dev-market-in-2026-is-weird-but-heres-what-actually-matters-54e1e9beec74?source=rss------programming-5) (2026-01-03)
+- [The History of Sun Microsystems](https://medium.com/@noahbean3396/the-history-of-sun-microsystems-d6ef7248be23?source=rss------programming-5) (2026-01-03)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.35: New level of efficiency with in-place Pod restart](https://kubernetes.io/blog/2026/01/02/kubernetes-v1-35-restart-all-containers/) (2026-01-02)
 - [Kubernetes 1.35: Enhanced Debugging with Versioned z-pages APIs](https://kubernetes.io/blog/2025/12/31/kubernetes-v1-35-structured-zpages/) (2025-12-31)
 - [Kubernetes v1.35: Watch Based Route Reconciliation in the Cloud Controller Manager](https://kubernetes.io/blog/2025/12/30/kubernetes-v1-35-watch-based-route-reconciliation-in-ccm/) (2025-12-30)
 - [Kubernetes v1.35: Introducing Workload Aware Scheduling](https://kubernetes.io/blog/2025/12/29/kubernetes-v1-35-introducing-workload-aware-scheduling/) (2025-12-29)
 - [Kubernetes v1.35: Fine-grained Supplemental Groups Control Graduates to GA](https://kubernetes.io/blog/2025/12/23/kubernetes-v1-35-fine-grained-supplementalgroups-control-ga/) (2025-12-23)
-- [Kubernetes v1.35: Kubelet Configuration Drop-in Directory Graduates to GA](https://kubernetes.io/blog/2025/12/22/kubernetes-v1-35-kubelet-config-drop-in-directory-ga/) (2025-12-22)
 
 </details>
 
@@ -473,11 +473,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
-- [Developer Edition + スクラッチ組織で、複数の開発・検証組織を手にいれる](https://developer.salesforce.com/blogs/2025/12/jp-scratch-org-with-developer-edition.html) (2025-12-26)
-- [プロから学ぶ、Agentforce Vibesを使いこなす5つのヒント](https://developer.salesforce.com/blogs/2025/12/jp-five-pro-tips-for-using-agentforce-vibes.html) (2025-12-25)
 - [新しいサンプルアプリ「Agent Script Recipes」でハイブリッド推論をマスター](https://developer.salesforce.com/blogs/2025/12/jp-master-hybrid-reasoning-with-the-new-agent-script-recipes-sample-app.html) (2025-12-24)
 - [Build Composable Storefronts Smarter and Faster with the PWA Kit MCP Server](https://developer.salesforce.com/blogs/2025/12/build-composable-storefronts-smarter-and-faster-with-the-pwa-kit-mcp-server.html) (2025-12-23)
 - [AgentforceデータライブラリーからAIエージェントのテストケースを自動生成](https://developer.salesforce.com/blogs/2025/12/jp-auto-generate-agent-test-cases-from-agentforce-data-libraries.html) (2025-12-23)
+- [【Agentforce Hackathon Tokyo】第 1 位 Lightning Brightning: Agentforce と Tableau で革新するデータ駆動型ソリューション「Beauty Cloud」](https://developer.salesforce.com/blogs/2025/12/agentforce_hackathon_tokyo_2025_1st.html) (2025-12-22)
+- [Agentforceで会話履歴を活用して、マルチターンのAIエージェントテストを自動化](https://developer.salesforce.com/blogs/2025/12/jp-automate-multi-turn-agent-testing-with-conversation-history-in-agentforce.html) (2025-12-18)
 
 </details>
 
