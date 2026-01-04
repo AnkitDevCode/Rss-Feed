@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Pickle 1 AR Glasses (YC W25) May Be Fraudulent](https://twitter.com/thedowd/status/2007337800430198913) (2026-01-04)
-- [Finance Industry Eyes Investment Opportunities in Venezuela](https://www.wsj.com/livecoverage/venezuela-strikes/card/finance-industry-eyes-investment-opportunities-in-venezuela-CmtLevzMTXEvRLkADjbG) (2026-01-03)
-- [Swift on Android: Full Native App Development Now Possible](https://docs.swifdroid.com/app/) (2026-01-03)
-- [The suck is why we're here](https://nik.art/the-suck-is-why-were-here/) (2026-01-03)
-- [China DRAM Maker CXMT Targets $4.2B IPO as It Takes on Samsung, SK Hynix, Micron](https://www.ic-pcb.com/chinas-leading-dram-maker-cxmt-targets-42-billion-ipo-as-it-takes-on-samsung-sk-hynix-and-micron.html) (2026-01-03)
+- [Learning to Play Tic-Tac-Toe with Jax](https://joe-antognini.github.io/ml/jax-tic-tac-toe) (2026-01-04)
+- [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) (2026-01-04)
+- [Show HN: Krowdovi – Video-based indoor navigation on a DePIN creator economy](https://github.com/daftpixie/krowdovi) (2026-01-04)
+- [How Thomas Mann Wrote the Magic Mountain](https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain) (2026-01-04)
+- [Developing a BLAS Library for the AMD AI Engine [pdf]](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf) (2026-01-04)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [We Built an Open Source Alternative to Laravel Forge - Here's Why](https://dev.to/nikhilj/we-built-an-open-source-alternative-to-laravel-forge-heres-why-3gn2) (2026-01-04)
-- [From 2010 Dust to Droid Dreams: Relearning the Arduino](https://dev.to/sigje/from-2010-dust-to-droid-dreams-relearning-the-arduino-4f5g) (2026-01-04)
-- [I Built a Small Free Tool to Make SOQL Queries Less Painful](https://dev.to/brendan_lester_b724f7075b/i-built-a-small-free-tool-to-make-soql-queries-less-painful-4hc0) (2026-01-04)
-- [Static portfolios are dead!](https://dev.to/reklamof/static-portfolios-are-dead-hdd) (2026-01-04)
-- [How I Found 47 B2B Customers on Reddit Using Python and Zero Ad Spend](https://dev.to/short_playskits_ab152535/how-i-found-47-b2b-customers-on-reddit-using-python-and-zero-ad-spend-232c) (2026-01-04)
+- [collections Module Added to Standard Library Learning Path](https://dev.to/hejhdiss/collections-module-added-to-standard-library-learning-path-3g8n) (2026-01-04)
+- [Integrate SDKs Easily: Monetize Your AI Conversations with Monetzly](https://dev.to/monetzly/integrate-sdks-easily-monetize-your-ai-conversations-with-monetzly-4hin) (2026-01-04)
+- [ReliefLine](https://dev.to/ctrlvee/reliefline-4fch) (2026-01-04)
+- [Is the World Ready for Another Programming Language in 2026, Now That AI Writes Code?](https://dev.to/james_d_befc420a49e6a2b5e/is-the-world-ready-for-another-programming-language-in-2026-now-that-ai-writes-code-2el8) (2026-01-04)
+- [🔥_High_Concurrency_Framework_Choice_Tech_Decisions[20260104060344]](https://dev.to/member_6331818c/highconcurrencyframeworkchoicetechdecisions20260104060344-3l4d) (2026-01-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [One Plot for Your Family – What Do You Think?](https://medium.com/@yogeshnagar_83290/one-plot-for-your-family-what-do-you-think-529dd50c1a73?source=rss------programming-5) (2026-01-04)
-- [How I Built a Security Log Analyzer in Python as a Cybersecurity student](https://medium.com/@felix.fefo98/how-i-built-a-security-log-analyzer-in-python-as-a-cybersecurity-student-38885a67dbaa?source=rss------programming-5) (2026-01-04)
-- [09378431470شماره خاله تهران شماره خاله تهران پارس شماره خاله اسلامشهر شماره خاله صیغه شماره خاله…](https://medium.com/@hwwggwgwgwgwgwwtgwgwgwgwgwgwgw/09378431470%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-edb1123402f3?source=rss------programming-5) (2026-01-04)
-- [09378431470شماره خاله تهران شماره خاله تهران پارس شماره خاله اسلامشهر شماره خاله صیغه شماره خاله…](https://medium.com/@hwwggwgwgwgwgwwtgwgwgwgwgwgwgw/09378431470%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-02db4e096ae7?source=rss------programming-5) (2026-01-04)
-- [SQL CASE Statements — Thinking in Conditions (From SQL to Python)](https://medium.com/@bskky001/sql-case-statements-thinking-in-conditions-from-sql-to-python-378c2a39a3b2?source=rss------programming-5) (2026-01-04)
+- [Build a Mobile App That Works for You — Even If You’re Not Technical](https://medium.com/@kehindegiwa120/build-a-mobile-app-that-works-for-you-even-if-youre-not-technical-954537b37c8e?source=rss------programming-5) (2026-01-04)
+- [Reactive Programming Pitfalls Every Java Developer Should Know](https://medium.com/@HobokenDays/reactive-programming-pitfalls-every-java-developer-should-know-28eaa01c5088?source=rss------programming-5) (2026-01-04)
+- [How to Earn 1 Million Dollars in 5 Years: A Smart, Realistic Roadmap](https://medium.com/@ravikishan1886/how-to-earn-1-million-dollars-in-5-years-a-smart-realistic-roadmap-f95136f3269b?source=rss------programming-5) (2026-01-04)
+- [RFC 6570: URI Templates for API Discoverability in .NET](https://jordansrowles.medium.com/rfc-6570-uri-templates-for-api-discoverability-in-net-09dc127c255d?source=rss------programming-5) (2026-01-04)
+- [Bhagavad Gita self-confidence ka blueprint](https://medium.com/@Sanatan_life/bhagavad-gita-self-confidence-ka-blueprint-af9aa627d591?source=rss------programming-5) (2026-01-04)
 
 </details>
 
@@ -135,17 +135,6 @@
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 - [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
 - [Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025](https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/) (2025-12-10)
-
-</details>
-
-<details>
-<summary>🎮 NVIDIA Blog</summary>
-
-- [GeForce NOW Rings In 2026 With 14 New Games in January](https://blogs.nvidia.com/blog/geforce-now-thursday-january-2026/) (2026-01-01)
-- [Make Spirits Bright With Holiday Hits on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-holiday-2025/) (2025-12-25)
-- [Marine Biological Laboratory Explores Human Memory With AI and Virtual Reality](https://blogs.nvidia.com/blog/mbl-human-memory-ai-vr-rtx/) (2025-12-22)
-- [NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Landmark Genesis Mission](https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/) (2025-12-18)
-- [Now Generally Available, NVIDIA RTX PRO 5000 72GB Blackwell GPU Expands Memory Options for Desktop Agentic AI](https://blogs.nvidia.com/blog/rtx-pro-5000-72gb-blackwell-gpu/) (2025-12-18)
 
 </details>
 
@@ -473,11 +462,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
+- [Developer Edition + スクラッチ組織で、複数の開発・検証組織を手にいれる](https://developer.salesforce.com/blogs/2025/12/jp-scratch-org-with-developer-edition.html) (2025-12-26)
+- [プロから学ぶ、Agentforce Vibesを使いこなす5つのヒント](https://developer.salesforce.com/blogs/2025/12/jp-five-pro-tips-for-using-agentforce-vibes.html) (2025-12-25)
 - [新しいサンプルアプリ「Agent Script Recipes」でハイブリッド推論をマスター](https://developer.salesforce.com/blogs/2025/12/jp-master-hybrid-reasoning-with-the-new-agent-script-recipes-sample-app.html) (2025-12-24)
 - [Build Composable Storefronts Smarter and Faster with the PWA Kit MCP Server](https://developer.salesforce.com/blogs/2025/12/build-composable-storefronts-smarter-and-faster-with-the-pwa-kit-mcp-server.html) (2025-12-23)
 - [AgentforceデータライブラリーからAIエージェントのテストケースを自動生成](https://developer.salesforce.com/blogs/2025/12/jp-auto-generate-agent-test-cases-from-agentforce-data-libraries.html) (2025-12-23)
-- [【Agentforce Hackathon Tokyo】第 1 位 Lightning Brightning: Agentforce と Tableau で革新するデータ駆動型ソリューション「Beauty Cloud」](https://developer.salesforce.com/blogs/2025/12/agentforce_hackathon_tokyo_2025_1st.html) (2025-12-22)
-- [Agentforceで会話履歴を活用して、マルチターンのAIエージェントテストを自動化](https://developer.salesforce.com/blogs/2025/12/jp-automate-multi-turn-agent-testing-with-conversation-history-in-agentforce.html) (2025-12-18)
 
 </details>
 
@@ -572,11 +561,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [How to Structure Your Data Science Project (With Frameworks & Best Practices)](https://www.analyticsvidhya.com/blog/2026/01/data-science-project-structure/) (2026-01-04)
 - [DeepSeek mHC: Stabilizing Large Language Model Training](https://www.analyticsvidhya.com/blog/2026/01/deepseek-mhc/) (2026-01-03)
 - [15 AI Agents Trends to Watch in 2026](https://www.analyticsvidhya.com/blog/2026/01/ai-agents-trends/) (2026-01-03)
 - [Top 18 Power BI Project Ideas For Practice 2026](https://www.analyticsvidhya.com/blog/2026/01/top-power-bi-project/) (2026-01-02)
 - [Preference Fine-Tuning LFM 2 Using DPO](https://www.analyticsvidhya.com/blog/2026/01/lfm-2-preference-fine-tuning-using-dpo/) (2026-01-02)
-- [Google T5Gemma-2 Explained: Trying Out a Laptop-Friendly Multimodal AI Model](https://www.analyticsvidhya.com/blog/2026/01/google-t5gemma-2/) (2026-01-01)
 
 </details>
 
