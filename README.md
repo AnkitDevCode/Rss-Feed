@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Tech billionaires cashed out $16 billion in 2025 as stocks soared](https://techcrunch.com/2026/01/03/tech-billionaires-cashed-out-16-billion-in-2025-as-stocks-soared/) (2026-01-03)
+- [California residents can use new tool to demand brokers delete their personal data](https://techcrunch.com/2026/01/03/california-residents-can-use-new-tool-to-demand-brokers-delete-their-personal-data/) (2026-01-03)
+- [Bitfinex hacker Ilya Lichtenstein credits Trump for early release from prison](https://techcrunch.com/2026/01/03/bitfinex-hacker-ilya-lichtenstein-credits-trump-for-early-release-from-prison/) (2026-01-03)
 - [India orders Musk’s X to fix Grok over ‘obscene’ AI content](https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/) (2026-01-02)
 - [10 useful gadgets for your first apartment](https://techcrunch.com/2026/01/02/10-useful-gadgets-for-your-first-apartment/) (2026-01-02)
-- [Tesla annual sales decline 9% as it’s overtaken by BYD as global EV leader](https://techcrunch.com/2026/01/02/tesla-annual-sales-decline-9-as-its-overtaken-by-byd-as-global-ev-leader/) (2026-01-02)
-- [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2026/01/02/nvidias-ai-empire-a-look-at-its-top-startup-investments/) (2026-01-02)
-- [The 16 top logistics, manufacturing, materials startups from Disrupt Startup Battlefield ](https://techcrunch.com/2026/01/02/the-16-top-logistics-manufacturing-materials-startups-from-disrupt-startup-battlefield/) (2026-01-02)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The C3 Programming Language](https://c3-lang.org) (2026-01-03)
-- [The Most Popular Blogs of Hacker News in 2025](https://refactoringenglish.com/blog/2025-hn-top-5/) (2026-01-03)
-- [Show HN: Offline tiles and routing and geocoding in one Docker Compose stack](https://www.corviont.com/) (2026-01-03)
-- [ParadeDB (YC S23) Is Hiring Database Engineers](https://paradedb.notion.site/?p=172ea4ce9deb80898ef5d5097bd65544&pm=s) (2026-01-03)
-- [X-Clacks-Overhead](https://hleb.dev/post/x-clacks-overhead/) (2026-01-03)
+- [Pickle 1 AR Glasses (YC W25) May Be Fraudulent](https://twitter.com/thedowd/status/2007337800430198913) (2026-01-04)
+- [Finance Industry Eyes Investment Opportunities in Venezuela](https://www.wsj.com/livecoverage/venezuela-strikes/card/finance-industry-eyes-investment-opportunities-in-venezuela-CmtLevzMTXEvRLkADjbG) (2026-01-03)
+- [Swift on Android: Full Native App Development Now Possible](https://docs.swifdroid.com/app/) (2026-01-03)
+- [The suck is why we're here](https://nik.art/the-suck-is-why-were-here/) (2026-01-03)
+- [China DRAM Maker CXMT Targets $4.2B IPO as It Takes on Samsung, SK Hynix, Micron](https://www.ic-pcb.com/chinas-leading-dram-maker-cxmt-targets-42-billion-ipo-as-it-takes-on-samsung-sk-hynix-and-micron.html) (2026-01-03)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Surprise, surprise: Silksong wins Steam’s Game of the Year](https://www.theverge.com/games/853786/hollow-knight-silksong-steamawards-game-of-the-year) (2026-01-03)
+- [Someone made a ton of money betting on Maduro’s capture](https://www.theverge.com/news/853765/someone-made-a-ton-of-money-betting-on-maduros-capture) (2026-01-03)
 - [Meta’s Quest 3S is still $50 off and comes with a $50 gift card](https://www.theverge.com/gadgets/853151/meta-quest-3s-apple-airtag-steam-winter-sale-deal) (2026-01-03)
 - [I went to the Stranger Things finale in theaters and the strangest thing happened](https://www.theverge.com/streaming/853133/stranger-things-finale-theater-scene-report) (2026-01-03)
 - [This smart home controller is literally a piece of wood](https://www.theverge.com/tech/852598/mui-board-smart-home-controller-matter) (2026-01-03)
-- [CES 2026: all the news, gadgets, and innovations from the biggest tech show](https://www.theverge.com/tech/836627/ces-2026-news-gadgets-announcements) (2026-01-03)
-- [Grok is undressing anyone, including minors](https://www.theverge.com/news/853191/grok-explicit-bikini-pictures-minors) (2026-01-02)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Local AI Tools: Introducing LocalAI (Tool 3)](https://dev.to/alexlead/local-ai-tools-introducing-localai-tool-3-3h67) (2026-01-03)
-- [Shopee Data Collection with API: What Data You Can and Cannot Access](https://dev.to/easydata123/shopee-data-collection-with-api-what-data-you-can-and-cannot-access-4b1b) (2026-01-03)
-- [Building a 3D Interactive Portfolio with React 19, Three.js, and a Gemini AI Agent](https://dev.to/brieu/building-a-3d-interactive-portfolio-with-react-19-threejs-and-a-gemini-ai-agent-5efj) (2026-01-03)
-- [Ethereum-Solidity Quiz Q12: What does this sequence of opcodes do? PUSH1 0x80 / PUSH1 0x40 / MSTORE](https://dev.to/mihaihng/ethereum-solidity-quiz-q12-what-does-this-sequence-of-opcodes-dopush1-0x80push1-0x40mstore-1m26) (2026-01-03)
-- [RAG & Vector Databases - Efficient Retrieval Explained](https://dev.to/hkj13/rag-vector-databases-efficient-retrieval-explained-2ik9) (2026-01-03)
+- [We Built an Open Source Alternative to Laravel Forge - Here's Why](https://dev.to/nikhilj/we-built-an-open-source-alternative-to-laravel-forge-heres-why-3gn2) (2026-01-04)
+- [From 2010 Dust to Droid Dreams: Relearning the Arduino](https://dev.to/sigje/from-2010-dust-to-droid-dreams-relearning-the-arduino-4f5g) (2026-01-04)
+- [I Built a Small Free Tool to Make SOQL Queries Less Painful](https://dev.to/brendan_lester_b724f7075b/i-built-a-small-free-tool-to-make-soql-queries-less-painful-4hc0) (2026-01-04)
+- [Static portfolios are dead!](https://dev.to/reklamof/static-portfolios-are-dead-hdd) (2026-01-04)
+- [How I Found 47 B2B Customers on Reddit Using Python and Zero Ad Spend](https://dev.to/short_playskits_ab152535/how-i-found-47-b2b-customers-on-reddit-using-python-and-zero-ad-spend-232c) (2026-01-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [What a 750-piece puzzle taught me about product management.](https://medium.com/@thejusvani/what-a-750-piece-puzzle-taught-me-about-product-management-25909e1e9eae?source=rss------programming-5) (2026-01-03)
-- [A User Double-Clicks the Pay Button – How Do You Stop Duplicate API Calls?](https://medium.com/@ip.ravi333/a-user-double-clicks-the-pay-button-how-do-you-stop-duplicate-api-calls-b67f03f56d60?source=rss------programming-5) (2026-01-03)
-- [The Boundary Problem of Reality: A Popperian Theory of the Enterprise Under Selection Pressure](https://medium.com/@aludanyi/the-boundary-problem-of-reality-a-popperian-theory-of-the-enterprise-under-selection-pressure-44942ca48a2b?source=rss------programming-5) (2026-01-03)
-- [8 Battle-Tested Steps to Use the Domain Event Pattern in .NET](https://medium.com/@maged_/8-battle-tested-steps-to-use-the-domain-event-pattern-in-net-95b406a87df0?source=rss------programming-5) (2026-01-03)
-- [How to Implement the CQRS Pattern in Clean Architecture (From Scratch)](https://medium.com/@mariammaurice/how-to-implement-the-cqrs-pattern-in-clean-architecture-from-scratch-a87d3015360e?source=rss------programming-5) (2026-01-03)
+- [One Plot for Your Family – What Do You Think?](https://medium.com/@yogeshnagar_83290/one-plot-for-your-family-what-do-you-think-529dd50c1a73?source=rss------programming-5) (2026-01-04)
+- [How I Built a Security Log Analyzer in Python as a Cybersecurity student](https://medium.com/@felix.fefo98/how-i-built-a-security-log-analyzer-in-python-as-a-cybersecurity-student-38885a67dbaa?source=rss------programming-5) (2026-01-04)
+- [09378431470شماره خاله تهران شماره خاله تهران پارس شماره خاله اسلامشهر شماره خاله صیغه شماره خاله…](https://medium.com/@hwwggwgwgwgwgwwtgwgwgwgwgwgwgw/09378431470%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-edb1123402f3?source=rss------programming-5) (2026-01-04)
+- [09378431470شماره خاله تهران شماره خاله تهران پارس شماره خاله اسلامشهر شماره خاله صیغه شماره خاله…](https://medium.com/@hwwggwgwgwgwgwwtgwgwgwgwgwgwgw/09378431470%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-02db4e096ae7?source=rss------programming-5) (2026-01-04)
+- [SQL CASE Statements — Thinking in Conditions (From SQL to Python)](https://medium.com/@bskky001/sql-case-statements-thinking-in-conditions-from-sql-to-python-378c2a39a3b2?source=rss------programming-5) (2026-01-04)
 
 </details>
 
@@ -473,11 +473,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
-- [Developer Edition + スクラッチ組織で、複数の開発・検証組織を手にいれる](https://developer.salesforce.com/blogs/2025/12/jp-scratch-org-with-developer-edition.html) (2025-12-26)
-- [プロから学ぶ、Agentforce Vibesを使いこなす5つのヒント](https://developer.salesforce.com/blogs/2025/12/jp-five-pro-tips-for-using-agentforce-vibes.html) (2025-12-25)
 - [新しいサンプルアプリ「Agent Script Recipes」でハイブリッド推論をマスター](https://developer.salesforce.com/blogs/2025/12/jp-master-hybrid-reasoning-with-the-new-agent-script-recipes-sample-app.html) (2025-12-24)
 - [Build Composable Storefronts Smarter and Faster with the PWA Kit MCP Server](https://developer.salesforce.com/blogs/2025/12/build-composable-storefronts-smarter-and-faster-with-the-pwa-kit-mcp-server.html) (2025-12-23)
 - [AgentforceデータライブラリーからAIエージェントのテストケースを自動生成](https://developer.salesforce.com/blogs/2025/12/jp-auto-generate-agent-test-cases-from-agentforce-data-libraries.html) (2025-12-23)
+- [【Agentforce Hackathon Tokyo】第 1 位 Lightning Brightning: Agentforce と Tableau で革新するデータ駆動型ソリューション「Beauty Cloud」](https://developer.salesforce.com/blogs/2025/12/agentforce_hackathon_tokyo_2025_1st.html) (2025-12-22)
+- [Agentforceで会話履歴を活用して、マルチターンのAIエージェントテストを自動化](https://developer.salesforce.com/blogs/2025/12/jp-automate-multi-turn-agent-testing-with-conversation-history-in-agentforce.html) (2025-12-18)
 
 </details>
 
