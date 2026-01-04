@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Subtle releases ear buds with its noise cancelation models](https://techcrunch.com/2026/01/04/subtle-releases-ear-buds-with-its-noise-cancelation-models/) (2026-01-04)
 - [Tech billionaires cashed out $16 billion in 2025 as stocks soared](https://techcrunch.com/2026/01/03/tech-billionaires-cashed-out-16-billion-in-2025-as-stocks-soared/) (2026-01-03)
 - [California residents can use new tool to demand brokers delete their personal data](https://techcrunch.com/2026/01/03/california-residents-can-use-new-tool-to-demand-brokers-delete-their-personal-data/) (2026-01-03)
 - [Bitfinex hacker Ilya Lichtenstein credits Trump for early release from prison](https://techcrunch.com/2026/01/03/bitfinex-hacker-ilya-lichtenstein-credits-trump-for-early-release-from-prison/) (2026-01-03)
 - [India orders Musk’s X to fix Grok over ‘obscene’ AI content](https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/) (2026-01-02)
-- [10 useful gadgets for your first apartment](https://techcrunch.com/2026/01/02/10-useful-gadgets-for-your-first-apartment/) (2026-01-02)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Learning to Play Tic-Tac-Toe with Jax](https://joe-antognini.github.io/ml/jax-tic-tac-toe) (2026-01-04)
-- [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) (2026-01-04)
-- [Show HN: Krowdovi – Video-based indoor navigation on a DePIN creator economy](https://github.com/daftpixie/krowdovi) (2026-01-04)
-- [How Thomas Mann Wrote the Magic Mountain](https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain) (2026-01-04)
-- [Developing a BLAS Library for the AMD AI Engine [pdf]](https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf) (2026-01-04)
+- [The Venezuelan Oil Narative Is Pure Theatre](https://renegaderesources.pro/p/the-venezuelan-oil-narative-is-pure) (2026-01-04)
+- [JavaScript engines zoo – Compare every JavaScript engine](https://zoo.js.org/) (2026-01-04)
+- [Maybe Comments _Should_ Explain 'What'](https://www.hillelwayne.com/post/what-comments/) (2026-01-04)
+- [Anatomy of BoltzGen](https://huggingface.co/spaces/ludocomito/anatomy-of-boltzgen) (2026-01-04)
+- [The PGP Problem (2019)](https://www.latacora.com/blog/2019/07/16/the-pgp-problem/) (2026-01-04)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [collections Module Added to Standard Library Learning Path](https://dev.to/hejhdiss/collections-module-added-to-standard-library-learning-path-3g8n) (2026-01-04)
-- [Integrate SDKs Easily: Monetize Your AI Conversations with Monetzly](https://dev.to/monetzly/integrate-sdks-easily-monetize-your-ai-conversations-with-monetzly-4hin) (2026-01-04)
-- [ReliefLine](https://dev.to/ctrlvee/reliefline-4fch) (2026-01-04)
-- [Is the World Ready for Another Programming Language in 2026, Now That AI Writes Code?](https://dev.to/james_d_befc420a49e6a2b5e/is-the-world-ready-for-another-programming-language-in-2026-now-that-ai-writes-code-2el8) (2026-01-04)
-- [🔥_High_Concurrency_Framework_Choice_Tech_Decisions[20260104060344]](https://dev.to/member_6331818c/highconcurrencyframeworkchoicetechdecisions20260104060344-3l4d) (2026-01-04)
+- [Yes, true + true === 2. And No, JavaScript Isn’t Broken](https://dev.to/sylwia-lask/yes-true-true-2-and-no-javascript-isnt-broken-37p7) (2026-01-04)
+- [Go: The Quiet Language of the Cloud](https://dev.to/ben-santora/go-the-quiet-language-of-the-cloud-and-why-you-dont-see-it-in-your-feed-3ie9) (2026-01-04)
+- [Web Developer Travis McCracken on Structured Logging with Logrus](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-structured-logging-with-logrus-9gb) (2026-01-04)
+- [Would You Switch New Epoch Converters for Better UI?](https://dev.to/subhashkarupusamy/would-you-switch-new-epoch-converters-for-better-ui-5c78) (2026-01-04)
+- [SeaVerse vs Traditional AI Tools - A Developer's Honest Review (After Building 10+ Projects)](https://dev.to/seagamesai/seaverse-vs-traditional-ai-tools-a-developers-honest-review-after-building-10-projects-3071) (2026-01-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Build a Mobile App That Works for You — Even If You’re Not Technical](https://medium.com/@kehindegiwa120/build-a-mobile-app-that-works-for-you-even-if-youre-not-technical-954537b37c8e?source=rss------programming-5) (2026-01-04)
-- [Reactive Programming Pitfalls Every Java Developer Should Know](https://medium.com/@HobokenDays/reactive-programming-pitfalls-every-java-developer-should-know-28eaa01c5088?source=rss------programming-5) (2026-01-04)
-- [How to Earn 1 Million Dollars in 5 Years: A Smart, Realistic Roadmap](https://medium.com/@ravikishan1886/how-to-earn-1-million-dollars-in-5-years-a-smart-realistic-roadmap-f95136f3269b?source=rss------programming-5) (2026-01-04)
-- [RFC 6570: URI Templates for API Discoverability in .NET](https://jordansrowles.medium.com/rfc-6570-uri-templates-for-api-discoverability-in-net-09dc127c255d?source=rss------programming-5) (2026-01-04)
-- [Bhagavad Gita self-confidence ka blueprint](https://medium.com/@Sanatan_life/bhagavad-gita-self-confidence-ka-blueprint-af9aa627d591?source=rss------programming-5) (2026-01-04)
+- [Engineering with AI Tools in 2026: Why Understanding Matters More Than Ever](https://lalitvavdara2016.medium.com/engineering-with-ai-tools-in-2026-why-understanding-matters-more-than-ever-893a0b33c70f?source=rss------programming-5) (2026-01-04)
+- [The Limitations of AI in Cybersecurity: Why I Built RootTron](https://medium.com/@roottron.ai/the-limitations-of-ai-in-cybersecurity-why-i-built-roottron-a6157f290645?source=rss------programming-5) (2026-01-04)
+- [SmolCSS: Two Tiny Components That Prove Modern CSS Is Enough](https://er-raj-aryan.medium.com/smolcss-two-tiny-components-that-prove-modern-css-is-enough-f04539c12724?source=rss------programming-5) (2026-01-04)
+- [Why Experience Alone Doesn’t Make You Better](https://medium.com/@devlogicwrites/why-experience-alone-doesnt-make-you-better-03f1470e03ef?source=rss------programming-5) (2026-01-04)
+- [6 tips I always give NotebookLM users just starting out](https://medium.com/@prity.r.2004/6-tips-i-always-give-notebooklm-users-just-starting-out-9124e717514c?source=rss------programming-5) (2026-01-04)
 
 </details>
 
@@ -135,6 +135,17 @@
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 - [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
 - [Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025](https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/) (2025-12-10)
+
+</details>
+
+<details>
+<summary>🎮 NVIDIA Blog</summary>
+
+- [GeForce NOW Rings In 2026 With 14 New Games in January](https://blogs.nvidia.com/blog/geforce-now-thursday-january-2026/) (2026-01-01)
+- [Make Spirits Bright With Holiday Hits on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-holiday-2025/) (2025-12-25)
+- [Marine Biological Laboratory Explores Human Memory With AI and Virtual Reality](https://blogs.nvidia.com/blog/mbl-human-memory-ai-vr-rtx/) (2025-12-22)
+- [NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Landmark Genesis Mission](https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/) (2025-12-18)
+- [Now Generally Available, NVIDIA RTX PRO 5000 72GB Blackwell GPU Expands Memory Options for Desktop Agentic AI](https://blogs.nvidia.com/blog/rtx-pro-5000-72gb-blackwell-gpu/) (2025-12-18)
 
 </details>
 
@@ -462,11 +473,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
-- [Developer Edition + スクラッチ組織で、複数の開発・検証組織を手にいれる](https://developer.salesforce.com/blogs/2025/12/jp-scratch-org-with-developer-edition.html) (2025-12-26)
-- [プロから学ぶ、Agentforce Vibesを使いこなす5つのヒント](https://developer.salesforce.com/blogs/2025/12/jp-five-pro-tips-for-using-agentforce-vibes.html) (2025-12-25)
 - [新しいサンプルアプリ「Agent Script Recipes」でハイブリッド推論をマスター](https://developer.salesforce.com/blogs/2025/12/jp-master-hybrid-reasoning-with-the-new-agent-script-recipes-sample-app.html) (2025-12-24)
 - [Build Composable Storefronts Smarter and Faster with the PWA Kit MCP Server](https://developer.salesforce.com/blogs/2025/12/build-composable-storefronts-smarter-and-faster-with-the-pwa-kit-mcp-server.html) (2025-12-23)
 - [AgentforceデータライブラリーからAIエージェントのテストケースを自動生成](https://developer.salesforce.com/blogs/2025/12/jp-auto-generate-agent-test-cases-from-agentforce-data-libraries.html) (2025-12-23)
+- [【Agentforce Hackathon Tokyo】第 1 位 Lightning Brightning: Agentforce と Tableau で革新するデータ駆動型ソリューション「Beauty Cloud」](https://developer.salesforce.com/blogs/2025/12/agentforce_hackathon_tokyo_2025_1st.html) (2025-12-22)
+- [Agentforceで会話履歴を活用して、マルチターンのAIエージェントテストを自動化](https://developer.salesforce.com/blogs/2025/12/jp-automate-multi-turn-agent-testing-with-conversation-history-in-agentforce.html) (2025-12-18)
 
 </details>
 
