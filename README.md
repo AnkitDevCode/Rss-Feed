@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [French and Malaysian authorities are investigating Grok for generating sexualized deepfakes](https://techcrunch.com/2026/01/04/french-and-malaysian-authorities-are-investigating-grok-for-generating-sexualized-deepfakes/) (2026-01-04)
+- [Plaud launches a new AI pin and a desktop meeting notetaker](https://techcrunch.com/2026/01/04/plaud-launches-a-new-ai-pin-and-a-desktop-meeting-notetaker/) (2026-01-04)
 - [Subtle releases ear buds with its noise cancelation models](https://techcrunch.com/2026/01/04/subtle-releases-ear-buds-with-its-noise-cancelation-models/) (2026-01-04)
 - [Tech billionaires cashed out $16 billion in 2025 as stocks soared](https://techcrunch.com/2026/01/03/tech-billionaires-cashed-out-16-billion-in-2025-as-stocks-soared/) (2026-01-03)
 - [California residents can use new tool to demand brokers delete their personal data](https://techcrunch.com/2026/01/03/california-residents-can-use-new-tool-to-demand-brokers-delete-their-personal-data/) (2026-01-03)
-- [Bitfinex hacker Ilya Lichtenstein credits Trump for early release from prison](https://techcrunch.com/2026/01/03/bitfinex-hacker-ilya-lichtenstein-credits-trump-for-early-release-from-prison/) (2026-01-03)
-- [India orders Musk’s X to fix Grok over ‘obscene’ AI content](https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/) (2026-01-02)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Venezuelan Oil Narative Is Pure Theatre](https://renegaderesources.pro/p/the-venezuelan-oil-narative-is-pure) (2026-01-04)
-- [JavaScript engines zoo – Compare every JavaScript engine](https://zoo.js.org/) (2026-01-04)
-- [Maybe Comments _Should_ Explain 'What'](https://www.hillelwayne.com/post/what-comments/) (2026-01-04)
-- [Anatomy of BoltzGen](https://huggingface.co/spaces/ludocomito/anatomy-of-boltzgen) (2026-01-04)
-- [The PGP Problem (2019)](https://www.latacora.com/blog/2019/07/16/the-pgp-problem/) (2026-01-04)
+- [Trellis AI (YC W24) is hiring engineers to build AI agents for healthcare access](https://www.ycombinator.com/companies/trellis-ai/jobs/ngvfeaq-member-of-technical-staff-full-time) (2026-01-04)
+- [Lessons from 14 Years at Google](https://addyosmani.com/blog/21-lessons/) (2026-01-04)
+- [Anti-aging injection regrows knee cartilage and prevents arthritis](https://scitechdaily.com/anti-aging-injection-regrows-knee-cartilage-and-prevents-arthritis/) (2026-01-04)
+- [How I archived 10 years of memories using Spotify](https://notes.xdavidhu.me/notes/how-i-archived-10-years-of-memories-using-spotify) (2026-01-04)
+- [Show HN: An interactive guide to how browsers work](https://howbrowserswork.com/) (2026-01-04)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Surprise, surprise: Silksong wins Steam’s Game of the Year](https://www.theverge.com/games/853786/hollow-knight-silksong-steamawards-game-of-the-year) (2026-01-03)
-- [Someone made a ton of money betting on Maduro’s capture](https://www.theverge.com/news/853765/someone-made-a-ton-of-money-betting-on-maduros-capture) (2026-01-03)
-- [Meta’s Quest 3S is still $50 off and comes with a $50 gift card](https://www.theverge.com/gadgets/853151/meta-quest-3s-apple-airtag-steam-winter-sale-deal) (2026-01-03)
-- [I went to the Stranger Things finale in theaters and the strangest thing happened](https://www.theverge.com/streaming/853133/stranger-things-finale-theater-scene-report) (2026-01-03)
-- [This smart home controller is literally a piece of wood](https://www.theverge.com/tech/852598/mui-board-smart-home-controller-matter) (2026-01-03)
+- [You can charge the battery in Belkin’s new Switch 2 power case without opening it](https://www.theverge.com/tech/849332/belkin-charging-case-pro-nintendo-switch-2-battery) (2026-01-04)
+- [Belkin’s new 3-in-1 charging dock isn’t limited to the Apple Watch](https://www.theverge.com/tech/849759/belkin-ultracharge-modular-charging-dock-pro-power-bank-10-magnetic-ring-smartwatch) (2026-01-04)
+- [Belkin’s new HDMI adapter wirelessly connects to screens over 130 feet away](https://www.theverge.com/tech/849948/belkin-connectair-wireless-hdmi-display-adapter-usb-c-plug-and-play) (2026-01-04)
+- [Plaud updates the NotePin with a button](https://www.theverge.com/tech/851393/plaud-notepin-s-desktop-app-ces) (2026-01-04)
+- [SwitchBot says its humanoid household robot can do your laundry](https://www.theverge.com/news/852741/switchbot-onero-h1-humanoid-household-robot-ces-2026) (2026-01-04)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Yes, true + true === 2. And No, JavaScript Isn’t Broken](https://dev.to/sylwia-lask/yes-true-true-2-and-no-javascript-isnt-broken-37p7) (2026-01-04)
-- [Go: The Quiet Language of the Cloud](https://dev.to/ben-santora/go-the-quiet-language-of-the-cloud-and-why-you-dont-see-it-in-your-feed-3ie9) (2026-01-04)
-- [Web Developer Travis McCracken on Structured Logging with Logrus](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-structured-logging-with-logrus-9gb) (2026-01-04)
-- [Would You Switch New Epoch Converters for Better UI?](https://dev.to/subhashkarupusamy/would-you-switch-new-epoch-converters-for-better-ui-5c78) (2026-01-04)
-- [SeaVerse vs Traditional AI Tools - A Developer's Honest Review (After Building 10+ Projects)](https://dev.to/seagamesai/seaverse-vs-traditional-ai-tools-a-developers-honest-review-after-building-10-projects-3071) (2026-01-04)
+- [Exercice](https://dev.to/aineebiha/exercice-1al) (2026-01-04)
+- [Secure and High-Performance Static Website Architecture with WordPress Content](https://dev.to/c3nk/secure-and-high-performance-static-website-architecture-with-wordpress-content-1fl0) (2026-01-04)
+- [Handling Nested PHP Arrays Using DataBlock](https://dev.to/robertobutti/handling-nested-php-arrays-using-datablock-26d7) (2026-01-04)
+- [Healthcare analytics brief summary.](https://dev.to/wangare_/healthcare-analytics-brief-summary-2ji7) (2026-01-04)
+- [Kiro: Instant Finance & Expense Tracking](https://dev.to/shreya111111/kiro-instant-finance-expense-tracking-1ldf) (2026-01-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Engineering with AI Tools in 2026: Why Understanding Matters More Than Ever](https://lalitvavdara2016.medium.com/engineering-with-ai-tools-in-2026-why-understanding-matters-more-than-ever-893a0b33c70f?source=rss------programming-5) (2026-01-04)
-- [The Limitations of AI in Cybersecurity: Why I Built RootTron](https://medium.com/@roottron.ai/the-limitations-of-ai-in-cybersecurity-why-i-built-roottron-a6157f290645?source=rss------programming-5) (2026-01-04)
-- [SmolCSS: Two Tiny Components That Prove Modern CSS Is Enough](https://er-raj-aryan.medium.com/smolcss-two-tiny-components-that-prove-modern-css-is-enough-f04539c12724?source=rss------programming-5) (2026-01-04)
-- [Why Experience Alone Doesn’t Make You Better](https://medium.com/@devlogicwrites/why-experience-alone-doesnt-make-you-better-03f1470e03ef?source=rss------programming-5) (2026-01-04)
-- [6 tips I always give NotebookLM users just starting out](https://medium.com/@prity.r.2004/6-tips-i-always-give-notebooklm-users-just-starting-out-9124e717514c?source=rss------programming-5) (2026-01-04)
+- [Time, Entropy, and the Popperian Failure of Scheduled Work in High-Velocity Systems](https://medium.com/@aludanyi/time-entropy-and-the-popperian-failure-of-scheduled-work-in-high-velocity-systems-7c98ed12814a?source=rss------programming-5) (2026-01-04)
+- [I Thought Python Would Make Me Rich — 7 Hard Lessons I Learned About Money Instead](https://medium.com/@bushrazaheer424/i-thought-python-would-make-me-rich-7-hard-lessons-i-learned-about-money-instead-b473aaff526a?source=rss------programming-5) (2026-01-04)
+- [What should be the mindset of a Computer Science student in 2026](https://medium.com/@kandikattu.dheeraj/what-should-be-the-mindset-of-a-computer-science-student-in-2026-cd589ec2aef1?source=rss------programming-5) (2026-01-04)
+- [Kubernetes Mythbusting: The Invisible Container Keeping Your Pod IP Alive](https://medium.com/@sanathw/kubernetes-mythbusting-the-invisible-container-keeping-your-pod-ip-alive-ebbf6fd1061b?source=rss------programming-5) (2026-01-04)
+- [What Is an Entity?](https://medium.com/@mariammaurice/what-is-an-entity-bb621079c05c?source=rss------programming-5) (2026-01-04)
 
 </details>
 
@@ -561,11 +561,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Prompt Engineering vs RAG for Editing Resumes](https://towardsdatascience.com/prompting-engineering-vs-rag-for-editing-resumes/) (2026-01-04)
+- [How to Filter for Dates, Including or Excluding Future Dates, in Semantic Models](https://towardsdatascience.com/how-to-filter-for-dates-including-or-excluding-future-dates-in-semantic-models/) (2026-01-04)
 - [Optimizing Data Transfer in AI/ML Workloads](https://towardsdatascience.com/optimizing-data-transfer-in-ai-ml-workloads/) (2026-01-03)
 - [How to Keep MCPs Useful in Agentic Pipelines](https://towardsdatascience.com/master-mcp-as-a-way-to-keep-mcps-useful-in-agentic-pipelines/) (2026-01-03)
 - [Drift Detection in Robust Machine Learning Systems](https://towardsdatascience.com/drift-detection-in-robust-machine-learning-systems/) (2026-01-02)
-- [Off-Beat Careers That Are the Future Of Data](https://towardsdatascience.com/off-beat-careers-that-are-the-future-of-data/) (2026-01-02)
-- [The Real Challenge in Data Storytelling: Getting Buy-In for Simplicity](https://towardsdatascience.com/the-real-challenge-in-data-storytelling-getting-buy-in-for-simplicity/) (2026-01-02)
 
 </details>
 
