@@ -24,29 +24,29 @@
 - [DoorDash says it banned driver who seemingly faked a delivery using AI](https://techcrunch.com/2026/01/04/doordash-says-it-banned-driver-who-seemingly-faked-a-delivery-using-ai/) (2026-01-04)
 - [French and Malaysian authorities are investigating Grok for generating sexualized deepfakes](https://techcrunch.com/2026/01/04/french-and-malaysian-authorities-are-investigating-grok-for-generating-sexualized-deepfakes/) (2026-01-04)
 - [Plaud launches a new AI pin and a desktop meeting notetaker](https://techcrunch.com/2026/01/04/plaud-launches-a-new-ai-pin-and-a-desktop-meeting-notetaker/) (2026-01-04)
-- [Subtle releases ear buds with its noise cancelation models](https://techcrunch.com/2026/01/04/subtle-releases-ear-buds-with-its-noise-cancelation-models/) (2026-01-04)
+- [Subtle releases ear buds with its noise isolation models](https://techcrunch.com/2026/01/04/subtle-releases-ear-buds-with-its-noise-cancelation-models/) (2026-01-04)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [ICE Is Using Facial-Recognition Technology to Quickly Arrest People](https://www.wsj.com/politics/policy/ice-facial-recognition-app-mobile-fortify-dfdd00bf) (2026-01-05)
+- [Building a Rust-Style Static Analyzer for C++ with AI](http://mpaxos.com/blog/rusty-cpp.html) (2026-01-05)
+- [California residents can now request all data brokers delete personal info](https://consumer.drop.privacy.ca.gov/) (2026-01-05)
+- [During Helene, I just wanted a plain text website](https://sparkbox.com/foundry/helene_and_mobile_web_performance) (2026-01-05)
 - [Millennium Challenge: A corrupted military exercise and its legacy (2015)](https://warontherocks.com/2015/11/millennium-challenge-the-real-story-of-a-corrupted-military-exercise-and-its-legacy/) (2026-01-04)
-- [Show HN: Quantum Tunnel](https://chuanqisun.github.io/quantum-tunnel/) (2026-01-04)
-- [C-Sentinel: System prober that captures “system fingerprints” for AI analysis](https://github.com/williamofai/c-sentinel) (2026-01-04)
-- [Show HN: An LLM-Powered PCB Schematic Checker (Major Update)](https://traceformer.io/) (2026-01-04)
-- [Eurostar AI vulnerability: When a chatbot goes off the rails](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/) (2026-01-04)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Withings thinks of its latest smart scale as a ‘longevity station’](https://www.theverge.com/tech/850005/ces-2026-withings-body-scan-2-smart-scale-longevity-tech-health) (2026-01-05)
-- [The Shure MV88 USB-C stereo mic mounts directly to your phone](https://www.theverge.com/tech/852938/shure-mv88-usb-c-stereo-mic-ces-2026) (2026-01-05)
-- [RGB is the next big thing in OLED gaming monitors](https://www.theverge.com/tech/854183/oled-gaming-monitors-rgb-stripe-lg-samsung-display-ces-2026) (2026-01-05)
-- [Mammotion’s flagship robot lawnmower now uses lidar to map your yard](https://www.theverge.com/news/850763/mammotion-luba-3-awd-robot-lawnmower-lidar-ces-2026) (2026-01-05)
-- [Lockin’s new vein-scanning smart lock has a video doorbell and recharges wirelessly](https://www.theverge.com/tech/851239/lockin-v7-max-optical-wireless-palm-vein-smart-lock-video-doorbell) (2026-01-05)
+- [Birdbuddy’s new smart feeders aim to make spotting birds easier, even for beginners](https://www.theverge.com/gadgets/850488/birdbuddy-2-mini-ces-2026) (2026-01-05)
+- [I just want to keep unfolding the Samsung Z Trifold](https://www.theverge.com/tech/854352/samsung-galaxy-z-trifold-hands-on) (2026-01-05)
+- [Shut the fridge door!](https://www.theverge.com/tech/853758/shut-the-fridge-door) (2026-01-05)
+- [LG’s Wallpaper OLED TV returns to CES, and it’s wafer thin](https://www.theverge.com/tech/853886/lgs-wallpaper-oled-tv-returns-to-ces-and-its-wafer-thin) (2026-01-05)
+- [The new Ultraloq smart lock uses both your face and your palm to let you in](https://www.theverge.com/tech/853844/ultraloq-ces-smart-lock-face-palm-reading) (2026-01-05)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Desvendando os Micro-frontends: Escalando o Desenvolvimento Web com Agilidade](https://dev.to/iamthiago/desvendando-os-micro-frontends-escalando-o-desenvolvimento-web-com-agilidade-19b0) (2026-01-05)
-- [Running Form Tech: Improve Your Gait With This DIY AI Analysis](https://dev.to/wellallytech/running-form-tech-improve-your-gait-with-this-diy-ai-analysis-1epa) (2026-01-05)
-- [How Monetzly Revolutionizes SDK Integration for AI Conversations](https://dev.to/monetzly/how-monetzly-revolutionizes-sdk-integration-for-ai-conversations-3h84) (2026-01-05)
-- [Blog Cover Generator - AI-Powered Cover Images in Seconds](https://dev.to/ifihan/blog-cover-generator-ai-powered-cover-images-in-seconds-519p) (2026-01-05)
-- [Why Your Agent Works Locally But Fails in Production](https://dev.to/gantz/why-your-agent-works-locally-but-fails-in-production-6h) (2026-01-05)
+- [🧩 Beginner-Friendly Guide 'Maximum Matrix Sum' – LeetCode 1975 (C++, Python, JavaScript)](https://dev.to/om_shree_0709/beginner-friendly-guide-maximum-matrix-sum-leetcode-1975-c-python-javascript-5e39) (2026-01-05)
+- [🧩My Spring Boot App Became Unmaintainable Until I Understood the Service Layer](https://dev.to/shashwathsh/my-spring-boot-app-became-unmaintainable-until-i-understood-the-service-layer-3lbl) (2026-01-05)
+- [I Built a Road Safety Snakes & Ladders Game in Class 11… and Then Let It Rot for 2 Years 💀🐍🎲](https://dev.to/swagking/i-built-a-road-safety-snakes-ladders-game-in-class-11-and-then-let-it-rot-for-2-years-f8n) (2026-01-05)
+- [Part 7 — What GenAI Engineering Actually Is](https://dev.to/muzammiltalha/part-7-what-genai-engineering-actually-is-4eck) (2026-01-05)
+- [Building a Social Deduction Game with a State Machine (7 Games in 7 Weeks – Week 4)](https://dev.to/asaleg/building-a-social-deduction-game-with-a-state-machine-7-games-in-7-weeks-week-4-2jj8) (2026-01-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [BootcampCode 1.04: Postgres Setup](https://primerpy.medium.com/bootcampcode-1-04-postgres-setup-5e8b49753e61?source=rss------programming-5) (2026-01-05)
-- [Micro vs. Macro Programação](https://medium.com/@thalesfelipe.dev/micro-vs-macro-programa%C3%A7%C3%A3o-ed73343dc307?source=rss------programming-5) (2026-01-05)
-- [Why Senior Developers Think Slower](https://medium.com/activated-thinker/why-senior-developers-think-slower-d665eaf88274?source=rss------programming-5) (2026-01-05)
-- [Want to share some highlights from an amazing space I was part of on December 30th.](https://medium.com/@nelson338b/want-to-share-some-highlights-from-an-amazing-space-i-was-part-of-on-december-30th-657f31ec339f?source=rss------programming-5) (2026-01-05)
-- [Nginx vs Apache: Which One Should You Use Today?](https://medium.com/@foliagetree23/nginx-vs-apache-which-one-should-you-use-today-ce9d9bfe75c4?source=rss------programming-5) (2026-01-05)
+- [Why Most People Fail at Web Development (And the Path That Actually Works)](https://medium.com/@sovannaro/why-most-people-fail-at-web-development-and-the-path-that-actually-works-e996831d9ee4?source=rss------programming-5) (2026-01-05)
+- [JWT Explained Simply: What It Really Is and How You Should Actually Use It](https://medium.com/@sovannaro/jwt-explained-simply-what-it-really-is-and-how-you-should-actually-use-it-b18d91323374?source=rss------programming-5) (2026-01-05)
+- [Weekly Digest #254](https://wklytech.medium.com/weekly-digest-254-66bfe20d63f6?source=rss------programming-5) (2026-01-05)
+- [How to Make People Fall in Love with Coding](https://pixicstudio.medium.com/how-to-make-people-fall-in-love-with-coding-4711fe9bf9f6?source=rss------programming-5) (2026-01-05)
+- [I Built 5 Python Tools on Weekends — They Now Earn for Me](https://blog.stackademic.com/i-built-5-python-tools-on-weekends-they-now-earn-for-me-b9390b7c302c?source=rss------programming-5) (2026-01-05)
 
 </details>
 
