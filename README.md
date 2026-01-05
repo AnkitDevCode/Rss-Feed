@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Can a social app fix the ‘terrible devastation’ of social media?](https://techcrunch.com/2026/01/04/can-a-social-app-fix-the-terrible-devastation-of-social-media/) (2026-01-04)
-- [DoorDash says it banned driver who seemingly faked a delivery using AI](https://techcrunch.com/2026/01/04/doordash-says-it-banned-driver-who-seemingly-faked-a-delivery-using-ai/) (2026-01-04)
-- [French and Malaysian authorities are investigating Grok for generating sexualized deepfakes](https://techcrunch.com/2026/01/04/french-and-malaysian-authorities-are-investigating-grok-for-generating-sexualized-deepfakes/) (2026-01-04)
-- [Plaud launches a new AI pin and a desktop meeting notetaker](https://techcrunch.com/2026/01/04/plaud-launches-a-new-ai-pin-and-a-desktop-meeting-notetaker/) (2026-01-04)
-- [Subtle releases ear buds with its noise isolation models](https://techcrunch.com/2026/01/04/subtle-releases-ear-buds-with-its-noise-cancelation-models/) (2026-01-04)
+- [LG’s new OLED TV is just 9mm thick](https://techcrunch.com/2026/01/05/lgs-new-oled-tv-is-just-9mm-thick/) (2026-01-05)
+- [Luminar claims founder Austin Russell is dodging a subpoena in the bankruptcy case](https://techcrunch.com/2026/01/05/luminar-claims-founder-austin-russell-is-dodging-a-subpoena-in-the-bankruptcy-case/) (2026-01-05)
+- [Teradar reveals its first terahertz-band vision sensor for cars](https://techcrunch.com/2026/01/05/teradar-reveals-its-first-terahertz-band-vision-sensor-for-cars/) (2026-01-05)
+- [Kodiak taps Bosch to scale its self-driving truck tech](https://techcrunch.com/2026/01/05/kodiak-taps-bosch-to-scale-its-self-driving-truck-tech/) (2026-01-05)
+- [Flutterwave buys Nigeria’s Mono in rare African fintech exit](https://techcrunch.com/2026/01/05/flutterwave-buys-nigerias-mono-in-rare-african-fintech-exit/) (2026-01-05)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [ICE Is Using Facial-Recognition Technology to Quickly Arrest People](https://www.wsj.com/politics/policy/ice-facial-recognition-app-mobile-fortify-dfdd00bf) (2026-01-05)
-- [Building a Rust-Style Static Analyzer for C++ with AI](http://mpaxos.com/blog/rusty-cpp.html) (2026-01-05)
-- [California residents can now request all data brokers delete personal info](https://consumer.drop.privacy.ca.gov/) (2026-01-05)
-- [During Helene, I just wanted a plain text website](https://sparkbox.com/foundry/helene_and_mobile_web_performance) (2026-01-05)
-- [Millennium Challenge: A corrupted military exercise and its legacy (2015)](https://warontherocks.com/2015/11/millennium-challenge-the-real-story-of-a-corrupted-military-exercise-and-its-legacy/) (2026-01-04)
+- [It's hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/) (2026-01-05)
+- [Anna's Archive Loses .Org Domain After Surprise Suspension](https://torrentfreak.com/annas-archive-loses-org-domain-after-surprise-suspension/) (2026-01-05)
+- [Decorative Cryptography](https://www.dlp.rip/decorative-cryptography) (2026-01-05)
+- [Databases in 2025: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html) (2026-01-05)
+- [A spider web unlike any seen before](https://www.nytimes.com/2025/11/08/science/biggest-spiderweb-sulfur-cave.html) (2026-01-05)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [This robot companion is a cameraman for your pet](https://www.theverge.com/tech/854457/frontierx-vex-aura-robots-companions-pets) (2026-01-05)
 - [Birdbuddy’s new smart feeders aim to make spotting birds easier, even for beginners](https://www.theverge.com/gadgets/850488/birdbuddy-2-mini-ces-2026) (2026-01-05)
-- [I just want to keep unfolding the Samsung Z Trifold](https://www.theverge.com/tech/854352/samsung-galaxy-z-trifold-hands-on) (2026-01-05)
+- [I just want to keep unfolding the Samsung Z TriFold](https://www.theverge.com/tech/854352/samsung-galaxy-z-trifold-hands-on) (2026-01-05)
 - [Shut the fridge door!](https://www.theverge.com/tech/853758/shut-the-fridge-door) (2026-01-05)
 - [LG’s Wallpaper OLED TV returns to CES, and it’s wafer thin](https://www.theverge.com/tech/853886/lgs-wallpaper-oled-tv-returns-to-ces-and-its-wafer-thin) (2026-01-05)
-- [The new Ultraloq smart lock uses both your face and your palm to let you in](https://www.theverge.com/tech/853844/ultraloq-ces-smart-lock-face-palm-reading) (2026-01-05)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [What’s next for AI in 2026](https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/) (2026-01-05)
 - [3 things Will Douglas Heaven is into right now](https://www.technologyreview.com/2026/01/02/1129409/will-douglas-heaven-el-estepario-siberiano-ed-atkins-laura-jean-mckay/) (2026-01-02)
 - [Job titles of the future: Head-transplant surgeon](https://www.technologyreview.com/2026/01/02/1129416/head-transplant-surgeon-sergio-canavero-future-job/) (2026-01-02)
 - [Why inventing new emotions feels so good](https://www.technologyreview.com/2025/12/31/1129403/new-emotions-online-life-feelings/) (2025-12-31)
 - [The ascent of the AI therapist](https://www.technologyreview.com/2025/12/30/1129392/book-reviews-ai-therapy-mental-health/) (2025-12-30)
-- [Bangladesh’s garment-making industry is getting greener](https://www.technologyreview.com/2025/12/29/1129308/bangladesh-garment-sustainability-frugal-factories/) (2025-12-29)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [🧩 Beginner-Friendly Guide 'Maximum Matrix Sum' – LeetCode 1975 (C++, Python, JavaScript)](https://dev.to/om_shree_0709/beginner-friendly-guide-maximum-matrix-sum-leetcode-1975-c-python-javascript-5e39) (2026-01-05)
-- [🧩My Spring Boot App Became Unmaintainable Until I Understood the Service Layer](https://dev.to/shashwathsh/my-spring-boot-app-became-unmaintainable-until-i-understood-the-service-layer-3lbl) (2026-01-05)
-- [I Built a Road Safety Snakes & Ladders Game in Class 11… and Then Let It Rot for 2 Years 💀🐍🎲](https://dev.to/swagking/i-built-a-road-safety-snakes-ladders-game-in-class-11-and-then-let-it-rot-for-2-years-f8n) (2026-01-05)
-- [Part 7 — What GenAI Engineering Actually Is](https://dev.to/muzammiltalha/part-7-what-genai-engineering-actually-is-4eck) (2026-01-05)
-- [Building a Social Deduction Game with a State Machine (7 Games in 7 Weeks – Week 4)](https://dev.to/asaleg/building-a-social-deduction-game-with-a-state-machine-7-games-in-7-weeks-week-4-2jj8) (2026-01-05)
+- [Build Your Own Local AI Agent (Part 2): The SQLite Analyst](https://dev.to/harishkotra/build-your-own-local-ai-agent-part-2-the-sqlite-analyst-24oc) (2026-01-05)
+- [(🐱-1-2; Failed, Again) By React Native, Develop Media Preview and Converter (Wewayangan Media Viewer)](https://dev.to/farhanms123/-1-failed-again-by-react-native-develop-media-preview-and-converter-wewayangan-media-viewer-3me5) (2026-01-05)
+- [ESPHome Gerät ständig "Offline"? So fixst du API-Errors und Boot-Loops beim ESP32](https://dev.to/tim_alex_ba4bc28e6bdfc168/esphome-gerat-standig-offline-so-fixst-du-api-errors-und-boot-loops-beim-esp32-2dfm) (2026-01-05)
+- [No-Code Has Not Failed — but it has not proven its success](https://dev.to/khaledmsalem/no-code-has-not-failed-but-it-has-not-proven-its-success-3d0b) (2026-01-05)
+- [From Prompt Engineer to AI Partner: A Developer's Guide to AI Fluency](https://dev.to/hinlocaesar/from-prompt-engineer-to-ai-partner-a-developers-guide-to-ai-fluency-2l11) (2026-01-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why Most People Fail at Web Development (And the Path That Actually Works)](https://medium.com/@sovannaro/why-most-people-fail-at-web-development-and-the-path-that-actually-works-e996831d9ee4?source=rss------programming-5) (2026-01-05)
-- [JWT Explained Simply: What It Really Is and How You Should Actually Use It](https://medium.com/@sovannaro/jwt-explained-simply-what-it-really-is-and-how-you-should-actually-use-it-b18d91323374?source=rss------programming-5) (2026-01-05)
-- [Weekly Digest #254](https://wklytech.medium.com/weekly-digest-254-66bfe20d63f6?source=rss------programming-5) (2026-01-05)
-- [How to Make People Fall in Love with Coding](https://pixicstudio.medium.com/how-to-make-people-fall-in-love-with-coding-4711fe9bf9f6?source=rss------programming-5) (2026-01-05)
-- [I Built 5 Python Tools on Weekends — They Now Earn for Me](https://blog.stackademic.com/i-built-5-python-tools-on-weekends-they-now-earn-for-me-b9390b7c302c?source=rss------programming-5) (2026-01-05)
+- [Why Most Engineers Learn Rust & Go Wrong (And What Senior Architects Do Instead)](https://medium.com/@InkOfIntimacy/why-most-engineers-learn-rust-go-wrong-and-what-senior-architects-do-instead-bc8dcb9d2e45?source=rss------programming-5) (2026-01-05)
+- [PHP 9 could be awesome](https://darkghosthunter.medium.com/php-9-could-be-awesome-3f6e92146eae?source=rss------programming-5) (2026-01-05)
+- [I Got Stuck on Arrays for 3 Months — Here’s What DSA Taught Me Beyond Coding](https://medium.com/@ankitbhandari2164/i-got-stuck-on-arrays-for-3-months-heres-what-dsa-taught-me-beyond-coding-c261357847aa?source=rss------programming-5) (2026-01-05)
+- [Part 6: The Architect of Error (Backpropagation)](https://medium.com/@snippet22/part-6-the-architect-of-error-backpropagation-5e3a2a395573?source=rss------programming-5) (2026-01-05)
+- [Azure Managed Redis for AI Agents: Semantic Caching, Vector Knowledge Stores, and Memory at…](https://itnext.io/azure-managed-redis-for-ai-agents-semantic-caching-vector-knowledge-stores-and-memory-at-20d380c68047?source=rss------programming-5) (2026-01-05)
 
 </details>
 
@@ -392,12 +392,12 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
-- [Build an AI Assistant with LangGraph, Next.js, and Auth0 Connected Accounts](https://auth0.com/blog/ai-assistant-langgraph-nextjs-slack-github/) (2025-12-19)
 - [Why MCP’s Move Away from Server-Sent Events Simplifies Security
 
 
 
 ](https://auth0.com/blog/mcp-streamable-http/) (2025-12-19)
+- [Build an AI Assistant with LangGraph, Next.js, and Auth0 Connected Accounts](https://auth0.com/blog/ai-assistant-langgraph-nextjs-slack-github/) (2025-12-19)
 - [Bulletproof Hosting Defense: Mitigating the Proxy Threat with Threat Intelligence](https://auth0.com/blog/mitigating-bulletproof-hosting/) (2025-12-18)
 - [Auth0 My Account API: Let Users Manage Their Own Account](https://auth0.com/blog/auth0-my-account-api/) (2025-12-18)
 - [Continuous Authorization Testing: FGA, GitHub Actions, and CI/CD ](https://auth0.com/blog/continuous-authorization-testing-fga-github-ci-cd/) (2025-12-17)
@@ -539,44 +539,44 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Introducing Falcon H1R 7B](https://huggingface.co/blog/tiiuae/falcon-h1r-7b) (2026-01-05)
 - [AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems](https://huggingface.co/blog/ServiceNow-AI/aprielguard) (2025-12-23)
 - [Tokenization in Transformers v5: Simpler, Clearer, and More Modular](https://huggingface.co/blog/tokenizers) (2025-12-18)
 - [The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator](https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe) (2025-12-17)
 - [CUGA on Hugging Face: Democratizing Configurable AI Agents](https://huggingface.co/blog/ibm-research/cuga-on-hugging-face) (2025-12-15)
-- [New in llama.cpp: Model Management](https://huggingface.co/blog/ggml-org/model-management-in-llamacpp) (2025-12-11)
 
 </details>
 
 <details>
 <summary>🤖 AI News</summary>
 
+- [L’Oréal brings AI into everyday digital advertising production](https://www.artificialintelligence-news.com/news/loreal-brings-ai-into-everyday-digital-advertising-production/) (2026-01-05)
 - [Understanding how AI and big data transform digital marketing](https://www.artificialintelligence-news.com/news/understanding-how-ai-and-big-data-transform-digital-marketing/) (2026-01-02)
 - [Solana’s high-speed AI gains and malware losses](https://www.artificialintelligence-news.com/news/solanas-high-speed-ai-gains-and-malware-losses/) (2026-01-02)
 - [The future of rail: Watching, predicting, and learning](https://www.artificialintelligence-news.com/news/rail-ai-in-the-uk-beyond-predictive-maintenance/) (2025-12-24)
 - [Disney is embedding generative AI into its operating model](https://www.artificialintelligence-news.com/news/why-disney-is-embedding-generative-ai-into-its-operating-model/) (2025-12-24)
-- [Arm and the future of AI at the edge](https://www.artificialintelligence-news.com/news/arm-chips-and-the-future-of-ai-at-the-edge/) (2025-12-23)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [YOLOv1 Loss Function Walkthrough: Regression for All](https://towardsdatascience.com/yolov1-loss-function-walkthrough-regression-for-all/) (2026-01-05)
 - [Prompt Engineering vs RAG for Editing Resumes](https://towardsdatascience.com/prompting-engineering-vs-rag-for-editing-resumes/) (2026-01-04)
 - [How to Filter for Dates, Including or Excluding Future Dates, in Semantic Models](https://towardsdatascience.com/how-to-filter-for-dates-including-or-excluding-future-dates-in-semantic-models/) (2026-01-04)
 - [Optimizing Data Transfer in AI/ML Workloads](https://towardsdatascience.com/optimizing-data-transfer-in-ai-ml-workloads/) (2026-01-03)
 - [How to Keep MCPs Useful in Agentic Pipelines](https://towardsdatascience.com/master-mcp-as-a-way-to-keep-mcps-useful-in-agentic-pipelines/) (2026-01-03)
-- [Drift Detection in Robust Machine Learning Systems](https://towardsdatascience.com/drift-detection-in-robust-machine-learning-systems/) (2026-01-02)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [LangChain vs LangGraph vs LangSmith vs LangFlow: Choosing the Right LLM Toolkit](https://www.analyticsvidhya.com/blog/2026/01/langchain-vs-langgraph-vs-langsmith-vs-langflow/) (2026-01-05)
 - [How to Structure Your Data Science Project (With Frameworks & Best Practices)](https://www.analyticsvidhya.com/blog/2026/01/data-science-project-structure/) (2026-01-04)
 - [DeepSeek mHC: Stabilizing Large Language Model Training](https://www.analyticsvidhya.com/blog/2026/01/deepseek-mhc/) (2026-01-03)
 - [15 AI Agents Trends to Watch in 2026](https://www.analyticsvidhya.com/blog/2026/01/ai-agents-trends/) (2026-01-03)
 - [Top 18 Power BI Project Ideas For Practice 2026](https://www.analyticsvidhya.com/blog/2026/01/top-power-bi-project/) (2026-01-02)
-- [Preference Fine-Tuning LFM 2 Using DPO](https://www.analyticsvidhya.com/blog/2026/01/lfm-2-preference-fine-tuning-using-dpo/) (2026-01-02)
 
 </details>
 
@@ -594,11 +594,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [7 Agentic AI Trends to Watch in 2026](https://machinelearningmastery.com/7-agentic-ai-trends-to-watch-in-2026/) (2026-01-05)
 - [Gradient Descent:The Engine of Machine Learning Optimization](https://machinelearningmastery.com/gradient-descentthe-engine-of-machine-learning-optimization/) (2026-01-02)
 - [Train Your Large Model on Multiple GPUs with Tensor Parallelism](https://machinelearningmastery.com/train-your-large-model-on-multiple-gpus-with-tensor-parallelism/) (2025-12-31)
 - [Train Your Large Model on Multiple GPUs with Fully Sharded Data Parallelism](https://machinelearningmastery.com/train-your-large-model-on-multiple-gpus-with-fully-sharded-data-parallelism/) (2025-12-30)
 - [Beyond Short-term Memory: The 3 Types of Long-term Memory AI Agents Need](https://machinelearningmastery.com/beyond-short-term-memory-the-3-types-of-long-term-memory-ai-agents-need/) (2025-12-30)
-- [Train Your Large Model on Multiple GPUs with Pipeline Parallelism](https://machinelearningmastery.com/train-your-large-model-on-multiple-gpus-with-pipeline-parallelism/) (2025-12-29)
 
 </details>
 
