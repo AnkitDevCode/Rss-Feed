@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Can a social app fix the ‘terrible devastation’ of social media?](https://techcrunch.com/2026/01/04/can-a-social-app-fix-the-terrible-devastation-of-social-media/) (2026-01-04)
+- [DoorDash says it banned driver who seemingly faked a delivery using AI](https://techcrunch.com/2026/01/04/doordash-says-it-banned-driver-who-seemingly-faked-a-delivery-using-ai/) (2026-01-04)
 - [French and Malaysian authorities are investigating Grok for generating sexualized deepfakes](https://techcrunch.com/2026/01/04/french-and-malaysian-authorities-are-investigating-grok-for-generating-sexualized-deepfakes/) (2026-01-04)
 - [Plaud launches a new AI pin and a desktop meeting notetaker](https://techcrunch.com/2026/01/04/plaud-launches-a-new-ai-pin-and-a-desktop-meeting-notetaker/) (2026-01-04)
 - [Subtle releases ear buds with its noise cancelation models](https://techcrunch.com/2026/01/04/subtle-releases-ear-buds-with-its-noise-cancelation-models/) (2026-01-04)
-- [Tech billionaires cashed out $16 billion in 2025 as stocks soared](https://techcrunch.com/2026/01/03/tech-billionaires-cashed-out-16-billion-in-2025-as-stocks-soared/) (2026-01-03)
-- [California residents can use new tool to demand brokers delete their personal data](https://techcrunch.com/2026/01/03/california-residents-can-use-new-tool-to-demand-brokers-delete-their-personal-data/) (2026-01-03)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Trellis AI (YC W24) is hiring engineers to build AI agents for healthcare access](https://www.ycombinator.com/companies/trellis-ai/jobs/ngvfeaq-member-of-technical-staff-full-time) (2026-01-04)
-- [Lessons from 14 Years at Google](https://addyosmani.com/blog/21-lessons/) (2026-01-04)
-- [Anti-aging injection regrows knee cartilage and prevents arthritis](https://scitechdaily.com/anti-aging-injection-regrows-knee-cartilage-and-prevents-arthritis/) (2026-01-04)
-- [How I archived 10 years of memories using Spotify](https://notes.xdavidhu.me/notes/how-i-archived-10-years-of-memories-using-spotify) (2026-01-04)
-- [Show HN: An interactive guide to how browsers work](https://howbrowserswork.com/) (2026-01-04)
+- [Millennium Challenge: A corrupted military exercise and its legacy (2015)](https://warontherocks.com/2015/11/millennium-challenge-the-real-story-of-a-corrupted-military-exercise-and-its-legacy/) (2026-01-04)
+- [Show HN: Quantum Tunnel](https://chuanqisun.github.io/quantum-tunnel/) (2026-01-04)
+- [C-Sentinel: System prober that captures “system fingerprints” for AI analysis](https://github.com/williamofai/c-sentinel) (2026-01-04)
+- [Show HN: An LLM-Powered PCB Schematic Checker (Major Update)](https://traceformer.io/) (2026-01-04)
+- [Eurostar AI vulnerability: When a chatbot goes off the rails](https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/) (2026-01-04)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [You can charge the battery in Belkin’s new Switch 2 power case without opening it](https://www.theverge.com/tech/849332/belkin-charging-case-pro-nintendo-switch-2-battery) (2026-01-04)
-- [Belkin’s new 3-in-1 charging dock isn’t limited to the Apple Watch](https://www.theverge.com/tech/849759/belkin-ultracharge-modular-charging-dock-pro-power-bank-10-magnetic-ring-smartwatch) (2026-01-04)
-- [Belkin’s new HDMI adapter wirelessly connects to screens over 130 feet away](https://www.theverge.com/tech/849948/belkin-connectair-wireless-hdmi-display-adapter-usb-c-plug-and-play) (2026-01-04)
-- [Plaud updates the NotePin with a button](https://www.theverge.com/tech/851393/plaud-notepin-s-desktop-app-ces) (2026-01-04)
-- [SwitchBot says its humanoid household robot can do your laundry](https://www.theverge.com/news/852741/switchbot-onero-h1-humanoid-household-robot-ces-2026) (2026-01-04)
+- [Withings thinks of its latest smart scale as a ‘longevity station’](https://www.theverge.com/tech/850005/ces-2026-withings-body-scan-2-smart-scale-longevity-tech-health) (2026-01-05)
+- [The Shure MV88 USB-C stereo mic mounts directly to your phone](https://www.theverge.com/tech/852938/shure-mv88-usb-c-stereo-mic-ces-2026) (2026-01-05)
+- [RGB is the next big thing in OLED gaming monitors](https://www.theverge.com/tech/854183/oled-gaming-monitors-rgb-stripe-lg-samsung-display-ces-2026) (2026-01-05)
+- [Mammotion’s flagship robot lawnmower now uses lidar to map your yard](https://www.theverge.com/news/850763/mammotion-luba-3-awd-robot-lawnmower-lidar-ces-2026) (2026-01-05)
+- [Lockin’s new vein-scanning smart lock has a video doorbell and recharges wirelessly](https://www.theverge.com/tech/851239/lockin-v7-max-optical-wireless-palm-vein-smart-lock-video-doorbell) (2026-01-05)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Exercice](https://dev.to/aineebiha/exercice-1al) (2026-01-04)
-- [Secure and High-Performance Static Website Architecture with WordPress Content](https://dev.to/c3nk/secure-and-high-performance-static-website-architecture-with-wordpress-content-1fl0) (2026-01-04)
-- [Handling Nested PHP Arrays Using DataBlock](https://dev.to/robertobutti/handling-nested-php-arrays-using-datablock-26d7) (2026-01-04)
-- [Healthcare analytics brief summary.](https://dev.to/wangare_/healthcare-analytics-brief-summary-2ji7) (2026-01-04)
-- [Kiro: Instant Finance & Expense Tracking](https://dev.to/shreya111111/kiro-instant-finance-expense-tracking-1ldf) (2026-01-04)
+- [Desvendando os Micro-frontends: Escalando o Desenvolvimento Web com Agilidade](https://dev.to/iamthiago/desvendando-os-micro-frontends-escalando-o-desenvolvimento-web-com-agilidade-19b0) (2026-01-05)
+- [Running Form Tech: Improve Your Gait With This DIY AI Analysis](https://dev.to/wellallytech/running-form-tech-improve-your-gait-with-this-diy-ai-analysis-1epa) (2026-01-05)
+- [How Monetzly Revolutionizes SDK Integration for AI Conversations](https://dev.to/monetzly/how-monetzly-revolutionizes-sdk-integration-for-ai-conversations-3h84) (2026-01-05)
+- [Blog Cover Generator - AI-Powered Cover Images in Seconds](https://dev.to/ifihan/blog-cover-generator-ai-powered-cover-images-in-seconds-519p) (2026-01-05)
+- [Why Your Agent Works Locally But Fails in Production](https://dev.to/gantz/why-your-agent-works-locally-but-fails-in-production-6h) (2026-01-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Time, Entropy, and the Popperian Failure of Scheduled Work in High-Velocity Systems](https://medium.com/@aludanyi/time-entropy-and-the-popperian-failure-of-scheduled-work-in-high-velocity-systems-7c98ed12814a?source=rss------programming-5) (2026-01-04)
-- [I Thought Python Would Make Me Rich — 7 Hard Lessons I Learned About Money Instead](https://medium.com/@bushrazaheer424/i-thought-python-would-make-me-rich-7-hard-lessons-i-learned-about-money-instead-b473aaff526a?source=rss------programming-5) (2026-01-04)
-- [What should be the mindset of a Computer Science student in 2026](https://medium.com/@kandikattu.dheeraj/what-should-be-the-mindset-of-a-computer-science-student-in-2026-cd589ec2aef1?source=rss------programming-5) (2026-01-04)
-- [Kubernetes Mythbusting: The Invisible Container Keeping Your Pod IP Alive](https://medium.com/@sanathw/kubernetes-mythbusting-the-invisible-container-keeping-your-pod-ip-alive-ebbf6fd1061b?source=rss------programming-5) (2026-01-04)
-- [What Is an Entity?](https://medium.com/@mariammaurice/what-is-an-entity-bb621079c05c?source=rss------programming-5) (2026-01-04)
+- [BootcampCode 1.04: Postgres Setup](https://primerpy.medium.com/bootcampcode-1-04-postgres-setup-5e8b49753e61?source=rss------programming-5) (2026-01-05)
+- [Micro vs. Macro Programação](https://medium.com/@thalesfelipe.dev/micro-vs-macro-programa%C3%A7%C3%A3o-ed73343dc307?source=rss------programming-5) (2026-01-05)
+- [Why Senior Developers Think Slower](https://medium.com/activated-thinker/why-senior-developers-think-slower-d665eaf88274?source=rss------programming-5) (2026-01-05)
+- [Want to share some highlights from an amazing space I was part of on December 30th.](https://medium.com/@nelson338b/want-to-share-some-highlights-from-an-amazing-space-i-was-part-of-on-december-30th-657f31ec339f?source=rss------programming-5) (2026-01-05)
+- [Nginx vs Apache: Which One Should You Use Today?](https://medium.com/@foliagetree23/nginx-vs-apache-which-one-should-you-use-today-ce9d9bfe75c4?source=rss------programming-5) (2026-01-05)
 
 </details>
 
