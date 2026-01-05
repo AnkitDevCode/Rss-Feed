@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [LG’s new OLED TV is just 9mm thick](https://techcrunch.com/2026/01/05/lgs-new-oled-tv-is-just-9mm-thick/) (2026-01-05)
-- [Luminar claims founder Austin Russell is dodging a subpoena in the bankruptcy case](https://techcrunch.com/2026/01/05/luminar-claims-founder-austin-russell-is-dodging-a-subpoena-in-the-bankruptcy-case/) (2026-01-05)
-- [Teradar reveals its first terahertz-band vision sensor for cars](https://techcrunch.com/2026/01/05/teradar-reveals-its-first-terahertz-band-vision-sensor-for-cars/) (2026-01-05)
-- [Kodiak taps Bosch to scale its self-driving truck tech](https://techcrunch.com/2026/01/05/kodiak-taps-bosch-to-scale-its-self-driving-truck-tech/) (2026-01-05)
-- [Flutterwave buys Nigeria’s Mono in rare African fintech exit](https://techcrunch.com/2026/01/05/flutterwave-buys-nigerias-mono-in-rare-african-fintech-exit/) (2026-01-05)
+- [Offshore wind developers sue Trump administration for halting $25B in projects](https://techcrunch.com/2026/01/05/offshore-wind-developers-sue-trump-administration-for-halting-25b-in-projects/) (2026-01-05)
+- [China’s Hesai will double production as lidar sensor industry shakes out](https://techcrunch.com/2026/01/05/chinas-hesai-will-double-production-as-lidar-sensor-industry-shakes-out/) (2026-01-05)
+- [The 2026 BMW iX3 voice assistant will be powered by Alexa+](https://techcrunch.com/2026/01/05/the-2026-bmw-ix3-voice-assistant-will-be-powered-by-alexa/) (2026-01-05)
+- [Lucid Motors doubled EV output in 2025 after early Gravity SUV struggles](https://techcrunch.com/2026/01/05/lucid-motors-doubled-ev-output-in-2025-after-early-gravity-suv-struggles/) (2026-01-05)
+- [Amazon revamps Fire TV, launches its own ‘Artline’ televisions with frames at CES](https://techcrunch.com/2026/01/05/amazon-revamps-fire-tv-launches-its-own-artline-televisions-with-frames/) (2026-01-05)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [It's hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/) (2026-01-05)
-- [Anna's Archive Loses .Org Domain After Surprise Suspension](https://torrentfreak.com/annas-archive-loses-org-domain-after-surprise-suspension/) (2026-01-05)
-- [Decorative Cryptography](https://www.dlp.rip/decorative-cryptography) (2026-01-05)
-- [Databases in 2025: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html) (2026-01-05)
-- [A spider web unlike any seen before](https://www.nytimes.com/2025/11/08/science/biggest-spiderweb-sulfur-cave.html) (2026-01-05)
+- [Show HN: Open-Source 8-Ch BCI Board (ESP32 and ADS1299 and OpenBCI GUI)](https://github.com/Cerelog-ESP-EEG/ESP-EEG) (2026-01-05)
+- [Calibrating My Turtle](https://clabs.org/blog/CalibratingMyTurtle) (2026-01-05)
+- [A Web Developer Posted a Payment Shaming Message on Their Client's Site](https://joseph-smith.co.uk/) (2026-01-05)
+- [How Y Combinator made it smart to trust founders](https://elbowgreasegames.substack.com/p/when-good-actors-can-trust-each-other) (2026-01-05)
+- [The last supported version of HP-UX is no more](https://www.theregister.com/2026/01/05/hpux_end_of_life/) (2026-01-05)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [This robot companion is a cameraman for your pet](https://www.theverge.com/tech/854457/frontierx-vex-aura-robots-companions-pets) (2026-01-05)
-- [Birdbuddy’s new smart feeders aim to make spotting birds easier, even for beginners](https://www.theverge.com/gadgets/850488/birdbuddy-2-mini-ces-2026) (2026-01-05)
-- [I just want to keep unfolding the Samsung Z TriFold](https://www.theverge.com/tech/854352/samsung-galaxy-z-trifold-hands-on) (2026-01-05)
-- [Shut the fridge door!](https://www.theverge.com/tech/853758/shut-the-fridge-door) (2026-01-05)
-- [LG’s Wallpaper OLED TV returns to CES, and it’s wafer thin](https://www.theverge.com/tech/853886/lgs-wallpaper-oled-tv-returns-to-ces-and-its-wafer-thin) (2026-01-05)
+- [LG&#8217;s CLOiD robot can load the washer for you, slowly](https://www.theverge.com/tech/855233/lg-cloid-robot-laundry-ces-2026-keynote) (2026-01-05)
+- [At $50 off, the Shokz OpenRun Pro helps you stick to your new year’s goals](https://www.theverge.com/tech/855202/shokz-openrun-pro-bone-conduction-headphones-deal-sale) (2026-01-05)
+- [Asus’s new OLED gaming monitors will have sharper text and more accurate colors](https://www.theverge.com/tech/855247/asus-oled-gaming-monitors-rgb-stripe-ces-2026) (2026-01-05)
+- [Audeze upgrades its Maxwell gaming headset with magnetic ear pads](https://www.theverge.com/news/851457/audeze-maxwell-2-gaming-headset-sony-ces-2026) (2026-01-05)
+- [Bosch is taking on Dyson with its first cordless stick vacuums in the US](https://www.theverge.com/tech/851573/bosch-unlimited-9-10-cordless-stick-vacuum-ces-2026) (2026-01-05)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [No, Grok can’t really “apologize” for posting non-consensual sexual images](https://arstechnica.com/ai/2026/01/no-grok-cant-really-apologize-for-posting-non-consensual-sexual-images/) (2026-01-02)
-- [Healthy 18-year-old welder nearly died of anthrax—the 9th such puzzling case](https://arstechnica.com/health/2026/01/anthrax-nearly-kills-healthy-18-year-old-welder-amid-puzzling-pattern/) (2026-01-02)
-- [OpenAI reorganizes some teams to build audio-based AI hardware products](https://arstechnica.com/ai/2026/01/openai-plans-new-voice-model-in-early-2026-audio-based-hardware-in-2027/) (2026-01-02)
-- [Researchers spot Saturn-sized planet in the “Einstein desert”](https://arstechnica.com/science/2026/01/researchers-spot-saturn-sized-planet-in-the-einstein-desert/) (2026-01-02)
-- [SpaceX begins “significant reconfiguration” of Starlink satellite constellation](https://arstechnica.com/space/2026/01/spacex-begins-significant-reconfiguration-of-starlink-satellite-constellation/) (2026-01-02)
+- [Earliest African cremation was 9,500 years ago](https://arstechnica.com/science/2026/01/earliest-african-cremation-was-9500-years-ago/) (2026-01-05)
+- [Providers dropping common anesthesia drug that’s also a climate super pollutant](https://arstechnica.com/science/2026/01/providers-dropping-common-anesthesia-drug-thats-also-a-climate-super-pollutant/) (2026-01-05)
+- [Ars readers gave over $42,000 in our 2025 Charity Drive](https://arstechnica.com/gaming/2026/01/ars-readers-gave-over-42000-in-our-2025-charity-drive/) (2026-01-05)
+- [Hands off! An on-the-road demo of Mercedes’ advanced new driver assist](https://arstechnica.com/cars/2026/01/mercedes-teaches-its-driver-assist-how-to-handle-surface-streets/) (2026-01-05)
+- [Our annual power ranking of US rocket companies has changes near the top and bottom](https://arstechnica.com/space/2026/01/theres-a-big-shake-up-near-the-top-of-our-annual-us-launch-company-rankings/) (2026-01-05)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The overlooked driver of digital transformation](https://www.technologyreview.com/2026/01/05/1124662/the-overlooked-driver-of-digital-transformation/) (2026-01-05)
+- [The Download: Kenya’s Great Carbon Valley, and the AI terms that were everywhere in 2025](https://www.technologyreview.com/2026/01/05/1130672/the-download-kenyas-great-carbon-valley-and-the-ai-terms-that-were-everywhere-in-2025/) (2026-01-05)
 - [What’s next for AI in 2026](https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/) (2026-01-05)
 - [3 things Will Douglas Heaven is into right now](https://www.technologyreview.com/2026/01/02/1129409/will-douglas-heaven-el-estepario-siberiano-ed-atkins-laura-jean-mckay/) (2026-01-02)
 - [Job titles of the future: Head-transplant surgeon](https://www.technologyreview.com/2026/01/02/1129416/head-transplant-surgeon-sergio-canavero-future-job/) (2026-01-02)
-- [Why inventing new emotions feels so good](https://www.technologyreview.com/2025/12/31/1129403/new-emotions-online-life-feelings/) (2025-12-31)
-- [The ascent of the AI therapist](https://www.technologyreview.com/2025/12/30/1129392/book-reviews-ai-therapy-mental-health/) (2025-12-30)
 
 </details>
 
@@ -86,44 +86,44 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [What’s new at Stack Overflow: January 2026](https://stackoverflow.blog/2026/01/05/what-s-new-at-stack-overflow-january-2026/) (2026-01-05)
 - [A new worst coder has entered the chat: vibe coding without code knowledge](https://stackoverflow.blog/2026/01/02/a-new-worst-coder-has-entered-the-chat-vibe-coding-without-code-knowledge/) (2026-01-02)
 - [The most dangerous shortcuts in software](https://stackoverflow.blog/2026/01/02/the-most-dangerous-shortcuts-in-software/) (2026-01-02)
 - [Documents: The architect’s programming language](https://stackoverflow.blog/2026/01/01/documents-the-architect-s-programming-language/) (2026-01-01)
 - [A look under the hood: How (and why) we built Question Assistant](https://stackoverflow.blog/2025/12/31/a-look-under-the-hood-how-and-why-we-built-question-assistant/) (2025-12-31)
-- [A new era of Stack Overflow](https://stackoverflow.blog/2025/12/30/a-new-era-of-stack-overflow/) (2025-12-30)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Build Your Own Local AI Agent (Part 2): The SQLite Analyst](https://dev.to/harishkotra/build-your-own-local-ai-agent-part-2-the-sqlite-analyst-24oc) (2026-01-05)
-- [(🐱-1-2; Failed, Again) By React Native, Develop Media Preview and Converter (Wewayangan Media Viewer)](https://dev.to/farhanms123/-1-failed-again-by-react-native-develop-media-preview-and-converter-wewayangan-media-viewer-3me5) (2026-01-05)
-- [ESPHome Gerät ständig "Offline"? So fixst du API-Errors und Boot-Loops beim ESP32](https://dev.to/tim_alex_ba4bc28e6bdfc168/esphome-gerat-standig-offline-so-fixst-du-api-errors-und-boot-loops-beim-esp32-2dfm) (2026-01-05)
-- [No-Code Has Not Failed — but it has not proven its success](https://dev.to/khaledmsalem/no-code-has-not-failed-but-it-has-not-proven-its-success-3d0b) (2026-01-05)
-- [From Prompt Engineer to AI Partner: A Developer's Guide to AI Fluency](https://dev.to/hinlocaesar/from-prompt-engineer-to-ai-partner-a-developers-guide-to-ai-fluency-2l11) (2026-01-05)
+- [The Event Loop, Part III: The Unstoppable Train 🚂](https://dev.to/elina_web_magic/the-event-loop-part-iii-the-unstoppable-train-2bld) (2026-01-05)
+- [How To Become DevOps Engineer](https://dev.to/aws-builders/how-to-become-devops-engineer-3o72) (2026-01-05)
+- [I Built Production AI Systems Through Karpathy's 'Magnitude 9 Earthquake.' Here's What Actually Works.](https://dev.to/dannwaneri/i-built-production-ai-systems-through-karpathys-magnitude-9-earthquake-heres-what-actually-19h3) (2026-01-05)
+- [maintaining stable row identifiers during page maintenance](https://dev.to/tudor96stani/maintaining-stable-row-identifiers-during-page-maintenance-m9o) (2026-01-05)
+- [WebP in 2026: Why Frontend Devs Should Care Again](https://dev.to/allisson_faiad_e49f3d51b9/webp-in-2026-why-frontend-devs-should-care-again-1l44) (2026-01-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why Most Engineers Learn Rust & Go Wrong (And What Senior Architects Do Instead)](https://medium.com/@InkOfIntimacy/why-most-engineers-learn-rust-go-wrong-and-what-senior-architects-do-instead-bc8dcb9d2e45?source=rss------programming-5) (2026-01-05)
-- [PHP 9 could be awesome](https://darkghosthunter.medium.com/php-9-could-be-awesome-3f6e92146eae?source=rss------programming-5) (2026-01-05)
-- [I Got Stuck on Arrays for 3 Months — Here’s What DSA Taught Me Beyond Coding](https://medium.com/@ankitbhandari2164/i-got-stuck-on-arrays-for-3-months-heres-what-dsa-taught-me-beyond-coding-c261357847aa?source=rss------programming-5) (2026-01-05)
-- [Part 6: The Architect of Error (Backpropagation)](https://medium.com/@snippet22/part-6-the-architect-of-error-backpropagation-5e3a2a395573?source=rss------programming-5) (2026-01-05)
-- [Azure Managed Redis for AI Agents: Semantic Caching, Vector Knowledge Stores, and Memory at…](https://itnext.io/azure-managed-redis-for-ai-agents-semantic-caching-vector-knowledge-stores-and-memory-at-20d380c68047?source=rss------programming-5) (2026-01-05)
+- [Minnesota Nice Pull Requests: Writing Better PR Descriptions](https://medium.com/livefront/minnesota-nice-pull-requests-writing-better-pr-descriptions-8782bd20f464?source=rss------programming-5) (2026-01-05)
+- [Request Logging Redaction in Spring Boot Filters](https://medium.com/@AlexanderObregon/request-logging-redaction-in-spring-boot-filters-8e98205d4807?source=rss------programming-5) (2026-01-05)
+- [Imitation, Persistence, and the Limits of Theory in Software and Enterprise Architecture](https://medium.com/@aludanyi/imitation-persistence-and-the-limits-of-theory-in-software-and-enterprise-architecture-e51fcbee25c5?source=rss------programming-5) (2026-01-05)
+- [I will do 3d modeling, 3d rendering, 3d animation of your products](https://graphicdesigners.medium.com/i-will-do-3d-modeling-3d-rendering-3d-animation-of-your-products-2a641820db85?source=rss------programming-5) (2026-01-05)
+- [Beyond Perplexity: Evaluating Next-Vector Prediction When Softmax Isn’t an Option](https://pub.towardsai.net/beyond-perplexity-evaluating-next-vector-prediction-when-softmax-isnt-an-option-5c890de7375b?source=rss------programming-5) (2026-01-05)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Happy New Year! AWS Weekly Roundup: 10,000 AIdeas Competition, Amazon EC2, Amazon ECS Managed Instances and more (January 5, 2026)](https://aws.amazon.com/blogs/aws/happy-new-year-aws-weekly-roundup-10000-aideas-competition-amazon-ec2-amazon-ecs-managed-instances-and-more-january-5-2026/) (2026-01-05)
 - [AWS Weekly Roundup: Amazon ECS, Amazon CloudWatch, Amazon Cognito and more (December 15, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ecs-amazon-cloudwatch-amazon-cognito-and-more-december-15-2025/) (2025-12-15)
 - [AWS Weekly Roundup: AWS re:Invent keynote recap, on-demand videos, and more (December 8, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-reinvent-keynote-recap-on-demand-videos-and-more-december-8-2025/) (2025-12-08)
 - [Amazon Bedrock adds reinforcement ﬁne-tuning simplifying how developers build smarter, more accurate AI models](https://aws.amazon.com/blogs/aws/improve-model-accuracy-with-reinforcement-fine-tuning-in-amazon-bedrock/) (2025-12-03)
 - [New serverless customization in Amazon SageMaker AI accelerates model fine-tuning](https://aws.amazon.com/blogs/aws/new-serverless-customization-in-amazon-sagemaker-ai-accelerates-model-fine-tuning/) (2025-12-03)
-- [Introducing checkpointless and elastic training on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/aws/introducing-checkpointless-and-elastic-training-on-amazon-sagemaker-hyperpod/) (2025-12-03)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [dotInsights | January 2026](https://blog.jetbrains.com/dotnet/2026/01/05/dotinsights-january-2026/) (2026-01-05)
 - [New Bug-Fix Releases Are Available for MPS – 2025.2.2, 2025.1.2, 2024.3.5, and 2024.1.6](https://blog.jetbrains.com/mps/2026/01/new_bugfix_releases_mps-2025-2-2/) (2026-01-02)
 - [TeamCity Pipelines Is Now Part of TeamCity Enterprise](https://blog.jetbrains.com/teamcity/2025/12/pipelines-sunset/) (2025-12-26)
 - [Ruby Turns 30: A Celebration of Code, Community, and Creativity](https://blog.jetbrains.com/ruby/2025/12/ruby-turns-30-a-celebration-of-code-community-and-creativity/) (2025-12-25)
 - [Everything You Wanted to Ask About Rust – Answered by Herbert Wolverson](https://blog.jetbrains.com/rust/2025/12/23/everything-you-wanted-to-ask-about-rust-answered-by-herbert-wolverson/) (2025-12-23)
-- [Thread Dumps and Project Loom (Virtual Threads)](https://blog.jetbrains.com/idea/2025/12/thread-dumps-and-project-loom-virtual-threads/) (2025-12-23)
 
 </details>
 
@@ -328,11 +328,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [Building trust in agentic tools: What we learned from our users](https://about.gitlab.com/blog/building-trust-in-agentic-tools-what-we-learned-from-our-users/) (2026-01-05)
 - [GitLab 18.7: Advancing AI automation, governance, and developer experience](https://about.gitlab.com/blog/gitlab-18-7-advancing-ai-automation/) (2025-12-18)
 - [Taming tool sprawl: How to boost university IT productivity](https://about.gitlab.com/blog/taming-tool-sprawl-how-to-boost-university-it-productivity/) (2025-12-15)
 - [How we built and automated our new Japanese GitLab Docs site](https://about.gitlab.com/blog/how-we-built-and-automated-our-new-japanese-gitlab-docs-site/) (2025-12-11)
 - [Artois University elevates research and curriculum with GitLab Ultimate for Education](https://about.gitlab.com/blog/artois-university-elevates-curriculum-with-gitlab-ultimate-for-education/) (2025-12-10)
-- [New wave of fake job scams impersonating recruiters](https://about.gitlab.com/blog/new-wave-of-fake-job-scams-impersonating-recruiters/) (2025-12-10)
 
 </details>
 
@@ -539,7 +539,7 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>🤗 Hugging Face</summary>
 
-- [Introducing Falcon H1R 7B](https://huggingface.co/blog/tiiuae/falcon-h1r-7b) (2026-01-05)
+- [Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture](https://huggingface.co/blog/tiiuae/falcon-h1-arabic) (2026-01-05)
 - [AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems](https://huggingface.co/blog/ServiceNow-AI/aprielguard) (2025-12-23)
 - [Tokenization in Transformers v5: Simpler, Clearer, and More Modular](https://huggingface.co/blog/tokenizers) (2025-12-18)
 - [The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator](https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe) (2025-12-17)
@@ -561,33 +561,33 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Feature Detection, Part 3: Harris Corner Detection](https://towardsdatascience.com/feature-detection-part-3-harris-corner-detection/) (2026-01-05)
+- [Ray: Distributed Computing for All, Part 1](https://towardsdatascience.com/ray-distributed-computing-for-all-part-1/) (2026-01-05)
+- [Stop Blaming the Data: A Better Way to Handle Covariance Shift](https://towardsdatascience.com/stop-blaming-the-data-a-better-way-to-handle-covariance-shift/) (2026-01-05)
 - [YOLOv1 Loss Function Walkthrough: Regression for All](https://towardsdatascience.com/yolov1-loss-function-walkthrough-regression-for-all/) (2026-01-05)
 - [Prompt Engineering vs RAG for Editing Resumes](https://towardsdatascience.com/prompting-engineering-vs-rag-for-editing-resumes/) (2026-01-04)
-- [How to Filter for Dates, Including or Excluding Future Dates, in Semantic Models](https://towardsdatascience.com/how-to-filter-for-dates-including-or-excluding-future-dates-in-semantic-models/) (2026-01-04)
-- [Optimizing Data Transfer in AI/ML Workloads](https://towardsdatascience.com/optimizing-data-transfer-in-ai-ml-workloads/) (2026-01-03)
-- [How to Keep MCPs Useful in Agentic Pipelines](https://towardsdatascience.com/master-mcp-as-a-way-to-keep-mcps-useful-in-agentic-pipelines/) (2026-01-03)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [How to Use Gemini 3 Pro in CLI?](https://www.analyticsvidhya.com/blog/2026/01/gemini-3-pro-cli/) (2026-01-05)
 - [LangChain vs LangGraph vs LangSmith vs LangFlow: Choosing the Right LLM Toolkit](https://www.analyticsvidhya.com/blog/2026/01/langchain-vs-langgraph-vs-langsmith-vs-langflow/) (2026-01-05)
 - [How to Structure Your Data Science Project (With Frameworks & Best Practices)](https://www.analyticsvidhya.com/blog/2026/01/data-science-project-structure/) (2026-01-04)
 - [DeepSeek mHC: Stabilizing Large Language Model Training](https://www.analyticsvidhya.com/blog/2026/01/deepseek-mhc/) (2026-01-03)
 - [15 AI Agents Trends to Watch in 2026](https://www.analyticsvidhya.com/blog/2026/01/ai-agents-trends/) (2026-01-03)
-- [Top 18 Power BI Project Ideas For Practice 2026](https://www.analyticsvidhya.com/blog/2026/01/top-power-bi-project/) (2026-01-02)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Context Engineering Explained in 3 Levels of Difficulty](https://www.kdnuggets.com/context-engineering-explained-in-3-levels-of-difficulty) (2026-01-05)
+- [6 Docker Tricks to Simplify Your Data Science Reproducibility](https://www.kdnuggets.com/6-docker-tricks-to-simplify-your-data-science-reproducibility) (2026-01-05)
 - [10 Lesser-Known Python Libraries Every Data Scientist Should Be Using in 2026](https://www.kdnuggets.com/10-lesser-known-python-libraries-every-data-scientist-should-be-using-in-2026) (2025-12-31)
 - [7 High Paying Side Hustles for Students](https://www.kdnuggets.com/7-high-paying-side-hustles-for-students) (2025-12-30)
 - [The Best Agentic AI Browsers to Look For in 2026](https://www.kdnuggets.com/the-best-agentic-ai-browsers-to-look-for-in-2026) (2025-12-29)
-- [5 Fun Docker Projects for Absolute Beginners](https://www.kdnuggets.com/5-fun-docker-projects-for-absolute-beginners) (2025-12-26)
-- [Top 7 Open Source OCR Models](https://www.kdnuggets.com/top-7-open-source-ocr-models) (2025-12-24)
 
 </details>
 
