@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Offshore wind developers sue Trump administration for halting $25B in projects](https://techcrunch.com/2026/01/05/offshore-wind-developers-sue-trump-administration-for-halting-25b-in-projects/) (2026-01-05)
-- [China’s Hesai will double production as lidar sensor industry shakes out](https://techcrunch.com/2026/01/05/chinas-hesai-will-double-production-as-lidar-sensor-industry-shakes-out/) (2026-01-05)
-- [The 2026 BMW iX3 voice assistant will be powered by Alexa+](https://techcrunch.com/2026/01/05/the-2026-bmw-ix3-voice-assistant-will-be-powered-by-alexa/) (2026-01-05)
-- [Lucid Motors doubled EV output in 2025 after early Gravity SUV struggles](https://techcrunch.com/2026/01/05/lucid-motors-doubled-ev-output-in-2025-after-early-gravity-suv-struggles/) (2026-01-05)
-- [Amazon revamps Fire TV, launches its own ‘Artline’ televisions with frames at CES](https://techcrunch.com/2026/01/05/amazon-revamps-fire-tv-launches-its-own-artline-televisions-with-frames/) (2026-01-05)
+- [Insight Partners sued by former vice president Kate Lowry](https://techcrunch.com/2026/01/05/insight-partners-sued-by-former-vice-president-kate-lowry/) (2026-01-05)
+- [Microsoft’s Nadella wants us to stop thinking of AI as ‘slop’](https://techcrunch.com/2026/01/05/microsofts-nadella-wants-us-to-stop-thinking-of-ai-as-slop/) (2026-01-05)
+- [This is Uber’s new robotaxi from Lucid and Nuro](https://techcrunch.com/2026/01/05/this-is-ubers-new-robotaxi-from-lucid-and-nuro/) (2026-01-05)
+- [Nvidia wants to be the Android of generalist robotics ](https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/) (2026-01-05)
+- [Nvidia launches powerful new Rubin chip architecture](https://techcrunch.com/2026/01/05/nvidia-launches-powerful-new-rubin-chip-architecture/) (2026-01-05)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: Open-Source 8-Ch BCI Board (ESP32 and ADS1299 and OpenBCI GUI)](https://github.com/Cerelog-ESP-EEG/ESP-EEG) (2026-01-05)
-- [Calibrating My Turtle](https://clabs.org/blog/CalibratingMyTurtle) (2026-01-05)
-- [A Web Developer Posted a Payment Shaming Message on Their Client's Site](https://joseph-smith.co.uk/) (2026-01-05)
-- [How Y Combinator made it smart to trust founders](https://elbowgreasegames.substack.com/p/when-good-actors-can-trust-each-other) (2026-01-05)
-- [The last supported version of HP-UX is no more](https://www.theregister.com/2026/01/05/hpux_end_of_life/) (2026-01-05)
+- [I/O is no longer the bottleneck? (2022)](https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html) (2026-01-06)
+- [LocalFirst: You Keep Using That Word](https://www.deobald.ca/essays/2026-01-01-localfirst-you-keep-using-that-word/) (2026-01-05)
+- [Pink Power Ranger takes down white supremacist dating sites](https://www.thecanary.co/skwawkbox/2026/01/04/power-ranger-deletes-dating-site/) (2026-01-05)
+- [Strange.website](https://strange.website/) (2026-01-05)
+- [Worlds's first all-solid-state battery ready to power up production vehicles now](https://www.donutlab.com/ces-battery-announcement/) (2026-01-05)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [LG&#8217;s CLOiD robot can load the washer for you, slowly](https://www.theverge.com/tech/855233/lg-cloid-robot-laundry-ces-2026-keynote) (2026-01-05)
-- [At $50 off, the Shokz OpenRun Pro helps you stick to your new year’s goals](https://www.theverge.com/tech/855202/shokz-openrun-pro-bone-conduction-headphones-deal-sale) (2026-01-05)
-- [Asus’s new OLED gaming monitors will have sharper text and more accurate colors](https://www.theverge.com/tech/855247/asus-oled-gaming-monitors-rgb-stripe-ces-2026) (2026-01-05)
-- [Audeze upgrades its Maxwell gaming headset with magnetic ear pads](https://www.theverge.com/news/851457/audeze-maxwell-2-gaming-headset-sony-ces-2026) (2026-01-05)
-- [Bosch is taking on Dyson with its first cordless stick vacuums in the US](https://www.theverge.com/tech/851573/bosch-unlimited-9-10-cordless-stick-vacuum-ces-2026) (2026-01-05)
+- [Garmin now offers nutrition tracking](https://www.theverge.com/tech/855884/garmin-connect-nutrition-tracking) (2026-01-06)
+- [Asus ROG’s next ally is Xreal, with 240Hz AR glasses coming in 2026](https://www.theverge.com/tech/848256/asus-rog-xreal-r1-smart-glasses-specs-release-date) (2026-01-06)
+- [Asus finally gives its ROG Zephyrus Duo gaming laptop the true dual screens it deserves](https://www.theverge.com/news/851827/asus-rog-zephyrus-duo-dual-screen-gaming-laptop-ces-2026) (2026-01-06)
+- [This limited-edition tablet is the closest you can get to using Hideo Kojima’s computer](https://www.theverge.com/news/851853/this-limited-edition-tablet-is-the-closest-you-can-get-to-using-hideo-kojimas-computer) (2026-01-06)
+- [Ecovacs adds a mop cover to its flagship robot vacuum](https://www.theverge.com/tech/853777/ecovacs-deebot-x12-omnicyclone-robot-vacuum-mop-cover) (2026-01-06)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Earliest African cremation was 9,500 years ago](https://arstechnica.com/science/2026/01/earliest-african-cremation-was-9500-years-ago/) (2026-01-05)
-- [Providers dropping common anesthesia drug that’s also a climate super pollutant](https://arstechnica.com/science/2026/01/providers-dropping-common-anesthesia-drug-thats-also-a-climate-super-pollutant/) (2026-01-05)
-- [Ars readers gave over $42,000 in our 2025 Charity Drive](https://arstechnica.com/gaming/2026/01/ars-readers-gave-over-42000-in-our-2025-charity-drive/) (2026-01-05)
-- [Hands off! An on-the-road demo of Mercedes’ advanced new driver assist](https://arstechnica.com/cars/2026/01/mercedes-teaches-its-driver-assist-how-to-handle-surface-streets/) (2026-01-05)
-- [Our annual power ranking of US rocket companies has changes near the top and bottom](https://arstechnica.com/space/2026/01/theres-a-big-shake-up-near-the-top-of-our-annual-us-launch-company-rankings/) (2026-01-05)
+- [NASA’s science budget won’t be a train wreck after all](https://arstechnica.com/space/2026/01/nasas-science-budget-wont-be-a-train-wreck-after-all/) (2026-01-05)
+- [Under anti-vaccine RFK Jr., CDC slashes childhood vaccine schedule](https://arstechnica.com/health/2026/01/under-anti-vaccine-rfk-jr-cdc-slashes-childhood-vaccine-schedule/) (2026-01-05)
+- [The nation’s strictest privacy law just took effect, to data brokers’ chagrin](https://arstechnica.com/tech-policy/2026/01/data-broker-hoarding-is-rampant-new-law-lets-consumers-fight-back/) (2026-01-05)
+- [Anna’s Archive loses .org domain, says suspension likely unrelated to Spotify piracy](https://arstechnica.com/tech-policy/2026/01/annas-archive-loses-org-domain-says-suspension-likely-unrelated-to-spotify-piracy/) (2026-01-05)
+- [Stewart Cheifet, PBS host who chronicled the PC revolution, dies at 87](https://arstechnica.com/gadgets/2026/01/stewart-cheifet-pbs-host-who-chronicled-the-pc-revolution-dies-at-87/) (2026-01-05)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Event Loop, Part III: The Unstoppable Train 🚂](https://dev.to/elina_web_magic/the-event-loop-part-iii-the-unstoppable-train-2bld) (2026-01-05)
-- [How To Become DevOps Engineer](https://dev.to/aws-builders/how-to-become-devops-engineer-3o72) (2026-01-05)
-- [I Built Production AI Systems Through Karpathy's 'Magnitude 9 Earthquake.' Here's What Actually Works.](https://dev.to/dannwaneri/i-built-production-ai-systems-through-karpathys-magnitude-9-earthquake-heres-what-actually-19h3) (2026-01-05)
-- [maintaining stable row identifiers during page maintenance](https://dev.to/tudor96stani/maintaining-stable-row-identifiers-during-page-maintenance-m9o) (2026-01-05)
-- [WebP in 2026: Why Frontend Devs Should Care Again](https://dev.to/allisson_faiad_e49f3d51b9/webp-in-2026-why-frontend-devs-should-care-again-1l44) (2026-01-05)
+- [[Boost]](https://dev.to/cherryramatis/-1h6a) (2026-01-06)
+- [Continuous Integration (CI): The Missing Engineering Discipline Behind Most Pipelines](https://dev.to/srinivasamcjf/continuous-integration-ci-the-missing-engineering-discipline-behind-most-pipelines-4eka) (2026-01-06)
+- [Python Comprehensions Are Declarative (And Why That Matters)](https://dev.to/samuel_ochaba_eb9c875fa89/python-comprehensions-are-declarative-and-why-that-matters-17ba) (2026-01-06)
+- [Kubernetes Rolling Update & Downtime](https://dev.to/jumptotech/kubernetes-rolling-update-downtime-319e) (2026-01-06)
+- [The Python Matrix Gotcha That Silently Corrupts Your Data](https://dev.to/samuel_ochaba_eb9c875fa89/the-python-matrix-gotcha-that-silently-corrupts-your-data-1h7b) (2026-01-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Minnesota Nice Pull Requests: Writing Better PR Descriptions](https://medium.com/livefront/minnesota-nice-pull-requests-writing-better-pr-descriptions-8782bd20f464?source=rss------programming-5) (2026-01-05)
-- [Request Logging Redaction in Spring Boot Filters](https://medium.com/@AlexanderObregon/request-logging-redaction-in-spring-boot-filters-8e98205d4807?source=rss------programming-5) (2026-01-05)
-- [Imitation, Persistence, and the Limits of Theory in Software and Enterprise Architecture](https://medium.com/@aludanyi/imitation-persistence-and-the-limits-of-theory-in-software-and-enterprise-architecture-e51fcbee25c5?source=rss------programming-5) (2026-01-05)
-- [I will do 3d modeling, 3d rendering, 3d animation of your products](https://graphicdesigners.medium.com/i-will-do-3d-modeling-3d-rendering-3d-animation-of-your-products-2a641820db85?source=rss------programming-5) (2026-01-05)
-- [Beyond Perplexity: Evaluating Next-Vector Prediction When Softmax Isn’t an Option](https://pub.towardsai.net/beyond-perplexity-evaluating-next-vector-prediction-when-softmax-isnt-an-option-5c890de7375b?source=rss------programming-5) (2026-01-05)
+- [What. You. Can see her it’s Sand](https://medium.com/@hassan0588/what-you-can-see-her-its-sand-aba1e73fdf82?source=rss------programming-5) (2026-01-06)
+- [The Productivity Hack No One Talks About (But Everyone Should Be Using)](https://medium.com/@sethjohn058/the-productivity-hack-no-one-talks-about-but-everyone-should-be-using-0d16d8fd14a4?source=rss------programming-5) (2026-01-06)
+- [$200K in 6 Months?”](https://medium.com/@alaxhenry0121/200k-in-6-months-1954e3ecf53a?source=rss------programming-5) (2026-01-06)
+- [How to Upload Files with Preview Using Angular (Angular 20 Example)](https://medium.com/@sunil17bbmp/how-to-upload-files-with-preview-using-angular-angular-20-example-96cee5265196?source=rss------programming-5) (2026-01-06)
+- [A Cyberpunk Take on CRUD: Building a WiFi Credential Webhook with .NET 9, Kestrel, and SQLite](https://medium.com/@hardrive9000/a-cyberpunk-take-on-crud-building-a-wifi-credential-webhook-with-net-9-kestrel-and-sqlite-76ef03c4d84e?source=rss------programming-5) (2026-01-06)
 
 </details>
 
@@ -141,11 +141,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
-- [GeForce NOW Rings In 2026 With 14 New Games in January](https://blogs.nvidia.com/blog/geforce-now-thursday-january-2026/) (2026-01-01)
-- [Make Spirits Bright With Holiday Hits on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-holiday-2025/) (2025-12-25)
-- [Marine Biological Laboratory Explores Human Memory With AI and Virtual Reality](https://blogs.nvidia.com/blog/mbl-human-memory-ai-vr-rtx/) (2025-12-22)
-- [NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Landmark Genesis Mission](https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/) (2025-12-18)
-- [Now Generally Available, NVIDIA RTX PRO 5000 72GB Blackwell GPU Expands Memory Options for Desktop Agentic AI](https://blogs.nvidia.com/blog/rtx-pro-5000-72gb-blackwell-gpu/) (2025-12-18)
+- [NVIDIA Rubin Platform, Open Models, Autonomous Driving: NVIDIA Presents Blueprint for the Future at CES](https://blogs.nvidia.com/blog/2026-ces-special-presentation/) (2026-01-05)
+- [NVIDIA BlueField-Powered Cybersecurity and Acceleration Arrive on NVIDIA Enterprise AI Factory Validated Design](https://blogs.nvidia.com/blog/bluefield-cybersecurity-acceleration-enterprise-ai-factory-validated-design/) (2026-01-05)
+- [NVIDIA DGX SuperPOD Sets the Stage for Rubin-Based Systems](https://blogs.nvidia.com/blog/dgx-superpod-rubin/) (2026-01-05)
+- [NVIDIA DGX Spark and DGX Station Power the Latest Open-Source and Frontier Models From the Desktop](https://blogs.nvidia.com/blog/dgx-spark-and-station-open-source-frontier-models/) (2026-01-05)
+- [NVIDIA Expands Global DRIVE Hyperion Ecosystem to Accelerate the Road to Full Autonomy](https://blogs.nvidia.com/blog/global-drive-hyperion-ecosystem-full-autonomy/) (2026-01-05)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.35: Extended Toleration Operators to Support Numeric Comparisons (Alpha)](https://kubernetes.io/blog/2026/01/05/kubernetes-v1-35-numeric-toleration-operators/) (2026-01-05)
 - [Kubernetes v1.35: New level of efficiency with in-place Pod restart](https://kubernetes.io/blog/2026/01/02/kubernetes-v1-35-restart-all-containers/) (2026-01-02)
 - [Kubernetes 1.35: Enhanced Debugging with Versioned z-pages APIs](https://kubernetes.io/blog/2025/12/31/kubernetes-v1-35-structured-zpages/) (2025-12-31)
 - [Kubernetes v1.35: Watch Based Route Reconciliation in the Cloud Controller Manager](https://kubernetes.io/blog/2025/12/30/kubernetes-v1-35-watch-based-route-reconciliation-in-ccm/) (2025-12-30)
 - [Kubernetes v1.35: Introducing Workload Aware Scheduling](https://kubernetes.io/blog/2025/12/29/kubernetes-v1-35-introducing-workload-aware-scheduling/) (2025-12-29)
-- [Kubernetes v1.35: Fine-grained Supplemental Groups Control Graduates to GA](https://kubernetes.io/blog/2025/12/23/kubernetes-v1-35-fine-grained-supplementalgroups-control-ga/) (2025-12-23)
 
 </details>
 
@@ -471,6 +471,17 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 </details>
 
 <details>
+<summary>📊 Airtable Blog</summary>
+
+- [Applications closing for the Airtable AI Incubator](https://blog.airtable.com/applications-closing-for-the-airtable-ai-incubator/) (2025-09-29)
+- [Automate 5X more work at the same cost with Airtable AI](https://blog.airtable.com/airtable-ai-price-change/) (2025-05-14)
+- [Airtable is now available in AWS Marketplace](https://blog.airtable.com/airtable-available-in-aws-marketplace/) (2024-11-12)
+- [It’s time to change the way we build digital products. Introducing, ProductCentral.](https://blog.airtable.com/change-way-build-digital-products/) (2024-10-15)
+- [New capabilities to unlock agility at scale](https://blog.airtable.com/launching-new-capabilities-for-the-enterprise/) (2024-09-26)
+
+</details>
+
+<details>
 <summary>☁️ Salesforce Developer</summary>
 
 - [新しいサンプルアプリ「Agent Script Recipes」でハイブリッド推論をマスター](https://developer.salesforce.com/blogs/2025/12/jp-master-hybrid-reasoning-with-the-new-agent-script-recipes-sample-app.html) (2025-12-24)
@@ -539,11 +550,11 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI](https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning) (2026-01-05)
 - [Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture](https://huggingface.co/blog/tiiuae/falcon-h1-arabic) (2026-01-05)
+- [NVIDIA brings agents to life with DGX Spark and Reachy Mini](https://huggingface.co/blog/nvidia-reachy-mini) (2026-01-05)
 - [AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems](https://huggingface.co/blog/ServiceNow-AI/aprielguard) (2025-12-23)
 - [Tokenization in Transformers v5: Simpler, Clearer, and More Modular](https://huggingface.co/blog/tokenizers) (2025-12-18)
-- [The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator](https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe) (2025-12-17)
-- [CUGA on Hugging Face: Democratizing Configurable AI Agents](https://huggingface.co/blog/ibm-research/cuga-on-hugging-face) (2025-12-15)
 
 </details>
 
@@ -572,22 +583,22 @@ https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [30 Best Data Science Books to Read in 2026](https://www.analyticsvidhya.com/blog/2026/01/best-data-science-books-to-read/) (2026-01-05)
 - [How to Use Gemini 3 Pro in CLI?](https://www.analyticsvidhya.com/blog/2026/01/gemini-3-pro-cli/) (2026-01-05)
 - [LangChain vs LangGraph vs LangSmith vs LangFlow: Choosing the Right LLM Toolkit](https://www.analyticsvidhya.com/blog/2026/01/langchain-vs-langgraph-vs-langsmith-vs-langflow/) (2026-01-05)
 - [How to Structure Your Data Science Project (With Frameworks & Best Practices)](https://www.analyticsvidhya.com/blog/2026/01/data-science-project-structure/) (2026-01-04)
 - [DeepSeek mHC: Stabilizing Large Language Model Training](https://www.analyticsvidhya.com/blog/2026/01/deepseek-mhc/) (2026-01-03)
-- [15 AI Agents Trends to Watch in 2026](https://www.analyticsvidhya.com/blog/2026/01/ai-agents-trends/) (2026-01-03)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [I Asked ChatGPT, Claude and DeepSeek to Build Tetris](https://www.kdnuggets.com/i-asked-gpt-claude-and-deepseek-to-build-tetris) (2026-01-05)
 - [Context Engineering Explained in 3 Levels of Difficulty](https://www.kdnuggets.com/context-engineering-explained-in-3-levels-of-difficulty) (2026-01-05)
 - [6 Docker Tricks to Simplify Your Data Science Reproducibility](https://www.kdnuggets.com/6-docker-tricks-to-simplify-your-data-science-reproducibility) (2026-01-05)
 - [10 Lesser-Known Python Libraries Every Data Scientist Should Be Using in 2026](https://www.kdnuggets.com/10-lesser-known-python-libraries-every-data-scientist-should-be-using-in-2026) (2025-12-31)
 - [7 High Paying Side Hustles for Students](https://www.kdnuggets.com/7-high-paying-side-hustles-for-students) (2025-12-30)
-- [The Best Agentic AI Browsers to Look For in 2026](https://www.kdnuggets.com/the-best-agentic-ai-browsers-to-look-for-in-2026) (2025-12-29)
 
 </details>
 
