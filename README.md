@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [AMD unveils new AI PC processors for general use and gaming at CES](https://techcrunch.com/2026/01/05/amd-unveils-new-ai-pc-processors-for-general-use-and-gaming-at-ces/) (2026-01-06)
 - [Insight Partners sued by former vice president Kate Lowry](https://techcrunch.com/2026/01/05/insight-partners-sued-by-former-vice-president-kate-lowry/) (2026-01-05)
 - [Microsoft’s Nadella wants us to stop thinking of AI as ‘slop’](https://techcrunch.com/2026/01/05/microsofts-nadella-wants-us-to-stop-thinking-of-ai-as-slop/) (2026-01-05)
 - [This is Uber’s new robotaxi from Lucid and Nuro](https://techcrunch.com/2026/01/05/this-is-ubers-new-robotaxi-from-lucid-and-nuro/) (2026-01-05)
 - [Nvidia wants to be the Android of generalist robotics ](https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/) (2026-01-05)
-- [Nvidia launches powerful new Rubin chip architecture](https://techcrunch.com/2026/01/05/nvidia-launches-powerful-new-rubin-chip-architecture/) (2026-01-05)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [A prediction market user made $436k betting on Maduro's downfall](https://www.bbc.com/news/articles/cx2gn93292do) (2026-01-06)
+- [GoGoGrandparent (YC S16) is hiring back end engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-gogograndparent-yc-s16-is-hiring-backend-and-full-stack-engineers) (2026-01-06)
+- [GBC Boot Animation 88×31 Web Button](https://zakhary.dev/blog/gbc-web-button) (2026-01-06)
 - [I/O is no longer the bottleneck? (2022)](https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html) (2026-01-06)
-- [LocalFirst: You Keep Using That Word](https://www.deobald.ca/essays/2026-01-01-localfirst-you-keep-using-that-word/) (2026-01-05)
-- [Pink Power Ranger takes down white supremacist dating sites](https://www.thecanary.co/skwawkbox/2026/01/04/power-ranger-deletes-dating-site/) (2026-01-05)
 - [Strange.website](https://strange.website/) (2026-01-05)
-- [Worlds's first all-solid-state battery ready to power up production vehicles now](https://www.donutlab.com/ces-battery-announcement/) (2026-01-05)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Garmin now offers nutrition tracking](https://www.theverge.com/tech/855884/garmin-connect-nutrition-tracking) (2026-01-06)
-- [Asus ROG’s next ally is Xreal, with 240Hz AR glasses coming in 2026](https://www.theverge.com/tech/848256/asus-rog-xreal-r1-smart-glasses-specs-release-date) (2026-01-06)
-- [Asus finally gives its ROG Zephyrus Duo gaming laptop the true dual screens it deserves](https://www.theverge.com/news/851827/asus-rog-zephyrus-duo-dual-screen-gaming-laptop-ces-2026) (2026-01-06)
-- [This limited-edition tablet is the closest you can get to using Hideo Kojima’s computer](https://www.theverge.com/news/851853/this-limited-edition-tablet-is-the-closest-you-can-get-to-using-hideo-kojimas-computer) (2026-01-06)
-- [Ecovacs adds a mop cover to its flagship robot vacuum](https://www.theverge.com/tech/853777/ecovacs-deebot-x12-omnicyclone-robot-vacuum-mop-cover) (2026-01-06)
+- [Nvidia’s GeForce Now is getting native Linux and Fire TV apps](https://www.theverge.com/tech/854688/nvidias-geforce-now-is-getting-native-linux-and-fire-tv-apps) (2026-01-06)
+- [Nvidia’s new G-Sync monitors automatically adjust brightness just like a laptop](https://www.theverge.com/tech/854662/nvidia-g-sync-pulsar-monitors-abmient-adaptive-technology-auto-brightness) (2026-01-06)
+- [Nvidia announces DLSS 4.5 with 6x Frame Generation and improved image quality](https://www.theverge.com/tech/854610/nvidia-dlss-4-5-announcement-multi-frame-generation-6x-specs) (2026-01-06)
+- [Emerson’s SmartVoice devices follow verbal instructions without Wi-Fi or a hub](https://www.theverge.com/tech/850919/smart-appliance-emerson-smartvoice-ces) (2026-01-06)
+- [Alienware is working on new slim and cheaper gaming laptops](https://www.theverge.com/news/851926/alienware-is-working-on-new-slim-and-cheaper-gaming-laptops) (2026-01-06)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Intel launches Core Ultra Series 3 CPUs, made using its long-awaited 18A process](https://arstechnica.com/gadgets/2026/01/intel-launches-core-ultra-series-3-cpus-made-using-its-long-awaited-18a-process/) (2026-01-06)
+- [AMD reheats last year’s Ryzen AI and X3D CPUs for 2026’s laptops and desktops](https://arstechnica.com/gadgets/2026/01/amd-reheats-last-years-ryzen-ai-and-x3d-cpus-for-2026s-laptops-and-desktops/) (2026-01-06)
 - [NASA’s science budget won’t be a train wreck after all](https://arstechnica.com/space/2026/01/nasas-science-budget-wont-be-a-train-wreck-after-all/) (2026-01-05)
 - [Under anti-vaccine RFK Jr., CDC slashes childhood vaccine schedule](https://arstechnica.com/health/2026/01/under-anti-vaccine-rfk-jr-cdc-slashes-childhood-vaccine-schedule/) (2026-01-05)
 - [The nation’s strictest privacy law just took effect, to data brokers’ chagrin](https://arstechnica.com/tech-policy/2026/01/data-broker-hoarding-is-rampant-new-law-lets-consumers-fight-back/) (2026-01-05)
-- [Anna’s Archive loses .org domain, says suspension likely unrelated to Spotify piracy](https://arstechnica.com/tech-policy/2026/01/annas-archive-loses-org-domain-says-suspension-likely-unrelated-to-spotify-piracy/) (2026-01-05)
-- [Stewart Cheifet, PBS host who chronicled the PC revolution, dies at 87](https://arstechnica.com/gadgets/2026/01/stewart-cheifet-pbs-host-who-chronicled-the-pc-revolution-dies-at-87/) (2026-01-05)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Search engine bots crawled so AI bots could run](https://stackoverflow.blog/2026/01/06/search-engine-bots-crawled-so-ai-bots-could-run/) (2026-01-06)
 - [What’s new at Stack Overflow: January 2026](https://stackoverflow.blog/2026/01/05/what-s-new-at-stack-overflow-january-2026/) (2026-01-05)
 - [A new worst coder has entered the chat: vibe coding without code knowledge](https://stackoverflow.blog/2026/01/02/a-new-worst-coder-has-entered-the-chat-vibe-coding-without-code-knowledge/) (2026-01-02)
 - [The most dangerous shortcuts in software](https://stackoverflow.blog/2026/01/02/the-most-dangerous-shortcuts-in-software/) (2026-01-02)
 - [Documents: The architect’s programming language](https://stackoverflow.blog/2026/01/01/documents-the-architect-s-programming-language/) (2026-01-01)
-- [A look under the hood: How (and why) we built Question Assistant](https://stackoverflow.blog/2025/12/31/a-look-under-the-hood-how-and-why-we-built-question-assistant/) (2025-12-31)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [[Boost]](https://dev.to/cherryramatis/-1h6a) (2026-01-06)
-- [Continuous Integration (CI): The Missing Engineering Discipline Behind Most Pipelines](https://dev.to/srinivasamcjf/continuous-integration-ci-the-missing-engineering-discipline-behind-most-pipelines-4eka) (2026-01-06)
-- [Python Comprehensions Are Declarative (And Why That Matters)](https://dev.to/samuel_ochaba_eb9c875fa89/python-comprehensions-are-declarative-and-why-that-matters-17ba) (2026-01-06)
-- [Kubernetes Rolling Update & Downtime](https://dev.to/jumptotech/kubernetes-rolling-update-downtime-319e) (2026-01-06)
-- [The Python Matrix Gotcha That Silently Corrupts Your Data](https://dev.to/samuel_ochaba_eb9c875fa89/the-python-matrix-gotcha-that-silently-corrupts-your-data-1h7b) (2026-01-06)
+- [The Best Alternative Data Providers in 2026: A Deep Dive into Data Provenance](https://dev.to/luisgustvo/the-best-alternative-data-providers-in-2026-a-deep-dive-into-data-provenance-jl7) (2026-01-06)
+- [Unveiling Symfony 7.4: A New Era for Media Validation and DX](https://dev.to/mattleads/unveiling-symfony-74-a-new-era-for-media-validation-and-dx-4459) (2026-01-06)
+- [Why Traditional DevOps Stops Scaling](https://dev.to/sreekanth_kuruba_91721e5d/why-traditional-devops-stops-scaling-1im) (2026-01-06)
+- [ClovaLink — Enterprise File Storage without the price tag](https://dev.to/dotdon/clovalink-enterprise-file-storage-without-the-price-tag-40gk) (2026-01-06)
+- [Problem 8: Count Vowels](https://dev.to/highcenburg/problem-8-count-vowels-p7l) (2026-01-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [What. You. Can see her it’s Sand](https://medium.com/@hassan0588/what-you-can-see-her-its-sand-aba1e73fdf82?source=rss------programming-5) (2026-01-06)
-- [The Productivity Hack No One Talks About (But Everyone Should Be Using)](https://medium.com/@sethjohn058/the-productivity-hack-no-one-talks-about-but-everyone-should-be-using-0d16d8fd14a4?source=rss------programming-5) (2026-01-06)
-- [$200K in 6 Months?”](https://medium.com/@alaxhenry0121/200k-in-6-months-1954e3ecf53a?source=rss------programming-5) (2026-01-06)
-- [How to Upload Files with Preview Using Angular (Angular 20 Example)](https://medium.com/@sunil17bbmp/how-to-upload-files-with-preview-using-angular-angular-20-example-96cee5265196?source=rss------programming-5) (2026-01-06)
-- [A Cyberpunk Take on CRUD: Building a WiFi Credential Webhook with .NET 9, Kestrel, and SQLite](https://medium.com/@hardrive9000/a-cyberpunk-take-on-crud-building-a-wifi-credential-webhook-with-net-9-kestrel-and-sqlite-76ef03c4d84e?source=rss------programming-5) (2026-01-06)
+- [Who is Nikhil Yadav? The Founder Revolutionizing IT Services in MP](https://medium.com/@digitechup.in/who-is-nikhil-yadav-the-founder-revolutionizing-it-services-in-mp-f7bcc1c9c9fa?source=rss------programming-5) (2026-01-06)
+- [How Simple Python Scripts Can Become Passive Income Streams](https://blog.stackademic.com/how-simple-python-scripts-can-become-passive-income-streams-15ef6109ebc0?source=rss------programming-5) (2026-01-06)
+- [Why I Stopped Using Classes Everywhere in Python (OOP vs Functional)](https://medium.com/top-python-libraries/why-i-stopped-using-classes-everywhere-in-python-oop-vs-functional-40a81005ea5d?source=rss------programming-5) (2026-01-06)
+- [eza Guide: Modern ls for Modern Devs](https://medium.com/@bektiaw/eza-guide-modern-ls-for-modern-devs-2b234f64f6d7?source=rss------programming-5) (2026-01-06)
+- [Unveiling Symfony 7.4: A New Era for Media Validation and DX](https://medium.com/@MattLeads/unveiling-symfony-7-4-a-new-era-for-media-validation-and-dx-605aa3a082d5?source=rss------programming-5) (2026-01-06)
 
 </details>
 
@@ -141,11 +141,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [NVIDIA Brings GeForce RTX Gaming to More Devices With New GeForce NOW Apps for Linux PC and Amazon Fire TV](https://blogs.nvidia.com/blog/geforce-now-ces-2026/) (2026-01-06)
+- [NVIDIA RTX Accelerates 4K AI Video Generation on PC With LTX-2 and ComfyUI Upgrades](https://blogs.nvidia.com/blog/rtx-ai-garage-ces-2026-open-models-video-generation/) (2026-01-06)
+- [NVIDIA DLSS 4.5, Path Tracing and G-SYNC Pulsar Supercharge Gameplay With Enhanced Performance and Visuals](https://blogs.nvidia.com/blog/dlss-path-tracing-g-sync-pulsar-ces-2026/) (2026-01-06)
 - [NVIDIA Rubin Platform, Open Models, Autonomous Driving: NVIDIA Presents Blueprint for the Future at CES](https://blogs.nvidia.com/blog/2026-ces-special-presentation/) (2026-01-05)
 - [NVIDIA BlueField-Powered Cybersecurity and Acceleration Arrive on NVIDIA Enterprise AI Factory Validated Design](https://blogs.nvidia.com/blog/bluefield-cybersecurity-acceleration-enterprise-ai-factory-validated-design/) (2026-01-05)
-- [NVIDIA DGX SuperPOD Sets the Stage for Rubin-Based Systems](https://blogs.nvidia.com/blog/dgx-superpod-rubin/) (2026-01-05)
-- [NVIDIA DGX Spark and DGX Station Power the Latest Open-Source and Frontier Models From the Desktop](https://blogs.nvidia.com/blog/dgx-spark-and-station-open-source-frontier-models/) (2026-01-05)
-- [NVIDIA Expands Global DRIVE Hyperion Ecosystem to Accelerate the Road to Full Autonomy](https://blogs.nvidia.com/blog/global-drive-hyperion-ecosystem-full-autonomy/) (2026-01-05)
 
 </details>
 
@@ -362,6 +362,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+How to Implement Call Forwarding in Go
+](
+https://www.twilio.com/en-us/blog/developers/community/how-to-implement-call-forwarding-in-go
+) (2026-01-05)
+- [
 How to Use Twilio Verify Over Interconnect
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/use-verify-over-interconnect
@@ -380,11 +385,6 @@ https://www.twilio.com/en-us/blog/developers/open-source-docs-ai-buddy-prompts
 Building the Future Together: Introducing the Twilio Partner Advisory Board
 ](
 https://www.twilio.com/en-us/blog/partners/2026-twilio-partner-advisory-board
-) (2025-12-16)
-- [
-New Twilio Interconnect Location - São Paulo
-](
-https://www.twilio.com/en-us/blog/products/launches/new-twilio-interconnect-sao-paulo
 ) (2025-12-16)
 
 </details>
