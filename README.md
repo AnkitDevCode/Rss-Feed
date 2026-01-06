@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Narwal adds AI to its vacuum cleaners to monitor pets and find jewelry](https://techcrunch.com/2026/01/05/narwal-adds-ai-to-its-vacuum-cleaners-to-monitor-pets-and-find-jewelry/) (2026-01-06)
 - [AMD unveils new AI PC processors for general use and gaming at CES](https://techcrunch.com/2026/01/05/amd-unveils-new-ai-pc-processors-for-general-use-and-gaming-at-ces/) (2026-01-06)
 - [Insight Partners sued by former vice president Kate Lowry](https://techcrunch.com/2026/01/05/insight-partners-sued-by-former-vice-president-kate-lowry/) (2026-01-05)
 - [Microsoft’s Nadella wants us to stop thinking of AI as ‘slop’](https://techcrunch.com/2026/01/05/microsofts-nadella-wants-us-to-stop-thinking-of-ai-as-slop/) (2026-01-05)
 - [This is Uber’s new robotaxi from Lucid and Nuro](https://techcrunch.com/2026/01/05/this-is-ubers-new-robotaxi-from-lucid-and-nuro/) (2026-01-05)
-- [Nvidia wants to be the Android of generalist robotics ](https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/) (2026-01-05)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [A prediction market user made $436k betting on Maduro's downfall](https://www.bbc.com/news/articles/cx2gn93292do) (2026-01-06)
-- [GoGoGrandparent (YC S16) is hiring back end engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-gogograndparent-yc-s16-is-hiring-backend-and-full-stack-engineers) (2026-01-06)
-- [GBC Boot Animation 88×31 Web Button](https://zakhary.dev/blog/gbc-web-button) (2026-01-06)
-- [I/O is no longer the bottleneck? (2022)](https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html) (2026-01-06)
-- [Strange.website](https://strange.website/) (2026-01-05)
+- [AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention](https://www.theregister.com/2026/01/05/aws_price_increase/) (2026-01-06)
+- [Show HN: Is this the best epoch converter?](https://epochconverter.dev/) (2026-01-06)
+- [SCiZE's Classic Warez Collection](https://scenelist.org/) (2026-01-06)
+- [enclose.horse](https://enclose.horse/) (2026-01-06)
+- [The Post-American Internet](https://pluralistic.net/2026/01/01/39c3/) (2026-01-06)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Nvidia’s GeForce Now is getting native Linux and Fire TV apps](https://www.theverge.com/tech/854688/nvidias-geforce-now-is-getting-native-linux-and-fire-tv-apps) (2026-01-06)
-- [Nvidia’s new G-Sync monitors automatically adjust brightness just like a laptop](https://www.theverge.com/tech/854662/nvidia-g-sync-pulsar-monitors-abmient-adaptive-technology-auto-brightness) (2026-01-06)
-- [Nvidia announces DLSS 4.5 with 6x Frame Generation and improved image quality](https://www.theverge.com/tech/854610/nvidia-dlss-4-5-announcement-multi-frame-generation-6x-specs) (2026-01-06)
-- [Emerson’s SmartVoice devices follow verbal instructions without Wi-Fi or a hub](https://www.theverge.com/tech/850919/smart-appliance-emerson-smartvoice-ces) (2026-01-06)
-- [Alienware is working on new slim and cheaper gaming laptops](https://www.theverge.com/news/851926/alienware-is-working-on-new-slim-and-cheaper-gaming-laptops) (2026-01-06)
+- [No, Microsoft didn’t rebrand Office to Microsoft 365 Copilot](https://www.theverge.com/tech/856149/microsoft-365-office-rebrand-copilot) (2026-01-06)
+- [Is this the folding iPhone&#8217;s creaseless display?](https://www.theverge.com/news/856141/samsung-display-creaseless-panel-foldable-iphone-ces) (2026-01-06)
+- [This free feature helps make stolen Bosch e-bikes unsellable](https://www.theverge.com/tech/856120/this-free-feature-helps-make-stolen-bosch-e-bikes-unsellable) (2026-01-06)
+- [These open-ear buds actually have decent noise reduction](https://www.theverge.com/tech/853290/shokz-open-fit-pro-hands-on-ces-2026-headphones-wearables) (2026-01-06)
+- [This desktop charger turns your iPhone into a robotic AI assistant](https://www.theverge.com/tech/856077/yoona-deskmate-iphone-robot-companion-ai-assistant) (2026-01-06)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Europe’s drone-filled vision for the future of war](https://www.technologyreview.com/2026/01/06/1129737/autonomous-warfare-europe-drones-defense-automated-kill-chains/) (2026-01-06)
+- [Why AI predictions are so hard](https://www.technologyreview.com/2026/01/06/1130707/why-ai-predictions-are-so-hard/) (2026-01-06)
 - [The overlooked driver of digital transformation](https://www.technologyreview.com/2026/01/05/1124662/the-overlooked-driver-of-digital-transformation/) (2026-01-05)
 - [The Download: Kenya’s Great Carbon Valley, and the AI terms that were everywhere in 2025](https://www.technologyreview.com/2026/01/05/1130672/the-download-kenyas-great-carbon-valley-and-the-ai-terms-that-were-everywhere-in-2025/) (2026-01-05)
 - [What’s next for AI in 2026](https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/) (2026-01-05)
-- [3 things Will Douglas Heaven is into right now](https://www.technologyreview.com/2026/01/02/1129409/will-douglas-heaven-el-estepario-siberiano-ed-atkins-laura-jean-mckay/) (2026-01-02)
-- [Job titles of the future: Head-transplant surgeon](https://www.technologyreview.com/2026/01/02/1129416/head-transplant-surgeon-sergio-canavero-future-job/) (2026-01-02)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Best Alternative Data Providers in 2026: A Deep Dive into Data Provenance](https://dev.to/luisgustvo/the-best-alternative-data-providers-in-2026-a-deep-dive-into-data-provenance-jl7) (2026-01-06)
-- [Unveiling Symfony 7.4: A New Era for Media Validation and DX](https://dev.to/mattleads/unveiling-symfony-74-a-new-era-for-media-validation-and-dx-4459) (2026-01-06)
-- [Why Traditional DevOps Stops Scaling](https://dev.to/sreekanth_kuruba_91721e5d/why-traditional-devops-stops-scaling-1im) (2026-01-06)
-- [ClovaLink — Enterprise File Storage without the price tag](https://dev.to/dotdon/clovalink-enterprise-file-storage-without-the-price-tag-40gk) (2026-01-06)
-- [Problem 8: Count Vowels](https://dev.to/highcenburg/problem-8-count-vowels-p7l) (2026-01-06)
+- [Permissions, Process Levels, and Execution Privileges](https://dev.to/cristiansifuentes/permissions-process-levels-and-execution-privileges-21pa) (2026-01-06)
+- [Why React Native is My Go-To Choice for Production Apps 🚀](https://dev.to/habiba_shahidi_5de5eef36e/why-react-native-is-my-go-to-choice-for-production-apps-3893) (2026-01-06)
+- [Veri v2.0: Important Fixes for Rails Authentication Gem](https://dev.to/enjaku4/veri-v20-important-fixes-for-rails-authentication-gem-1ab1) (2026-01-06)
+- [Monetzly: Revolutionizing AI Monetization for LLM Apps](https://dev.to/monetzly/monetzly-revolutionizing-ai-monetization-for-llm-apps-3b79) (2026-01-06)
+- [Automation Testing Is Hard — Here’s Why (and What Actually Helps)](https://dev.to/astraforge_io7/automation-testing-is-hard-heres-why-and-what-actually-helps-26nc) (2026-01-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Who is Nikhil Yadav? The Founder Revolutionizing IT Services in MP](https://medium.com/@digitechup.in/who-is-nikhil-yadav-the-founder-revolutionizing-it-services-in-mp-f7bcc1c9c9fa?source=rss------programming-5) (2026-01-06)
-- [How Simple Python Scripts Can Become Passive Income Streams](https://blog.stackademic.com/how-simple-python-scripts-can-become-passive-income-streams-15ef6109ebc0?source=rss------programming-5) (2026-01-06)
-- [Why I Stopped Using Classes Everywhere in Python (OOP vs Functional)](https://medium.com/top-python-libraries/why-i-stopped-using-classes-everywhere-in-python-oop-vs-functional-40a81005ea5d?source=rss------programming-5) (2026-01-06)
-- [eza Guide: Modern ls for Modern Devs](https://medium.com/@bektiaw/eza-guide-modern-ls-for-modern-devs-2b234f64f6d7?source=rss------programming-5) (2026-01-06)
-- [Unveiling Symfony 7.4: A New Era for Media Validation and DX](https://medium.com/@MattLeads/unveiling-symfony-7-4-a-new-era-for-media-validation-and-dx-605aa3a082d5?source=rss------programming-5) (2026-01-06)
+- [Designing Human-Centered AI: Why It Matters More Than Ever](https://medium.com/design-bootcamp/designing-human-centered-ai-why-it-matters-more-than-ever-4b844eb90b1d?source=rss------programming-5) (2026-01-06)
+- [Interview Question: How Do You Make Java Objects Talk to Each Other Efficiently?](https://medium.com/@letslearnnow/interview-question-how-do-you-make-java-objects-talk-to-each-other-efficiently-01ec8b487cfd?source=rss------programming-5) (2026-01-06)
+- [3 Python Scripts I Almost Didn’t Publish (They Went Viral Anyway)](https://generativeai.pub/3-python-scripts-i-almost-didnt-publish-they-went-viral-anyway-ac14bb9147fe?source=rss------programming-5) (2026-01-06)
+- [6 Python Libraries That Made Automation Way Too Easy](https://levelup.gitconnected.com/6-python-libraries-that-made-automation-way-too-easy-77b6c9c00dfb?source=rss------programming-5) (2026-01-06)
+- [7 Python Libraries I Used in Side Projects That Ended Up Everywhere](https://python.plainenglish.io/7-python-libraries-i-used-in-side-projects-that-ended-up-everywhere-7da22d9ba38c?source=rss------programming-5) (2026-01-06)
 
 </details>
 
@@ -484,11 +484,11 @@ https://www.twilio.com/en-us/blog/partners/2026-twilio-partner-advisory-board
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
+- [Developer Edition + スクラッチ組織で、複数の開発・検証組織を手にいれる](https://developer.salesforce.com/blogs/2025/12/jp-scratch-org-with-developer-edition.html) (2025-12-26)
+- [プロから学ぶ、Agentforce Vibesを使いこなす5つのヒント](https://developer.salesforce.com/blogs/2025/12/jp-five-pro-tips-for-using-agentforce-vibes.html) (2025-12-25)
 - [新しいサンプルアプリ「Agent Script Recipes」でハイブリッド推論をマスター](https://developer.salesforce.com/blogs/2025/12/jp-master-hybrid-reasoning-with-the-new-agent-script-recipes-sample-app.html) (2025-12-24)
 - [Build Composable Storefronts Smarter and Faster with the PWA Kit MCP Server](https://developer.salesforce.com/blogs/2025/12/build-composable-storefronts-smarter-and-faster-with-the-pwa-kit-mcp-server.html) (2025-12-23)
 - [AgentforceデータライブラリーからAIエージェントのテストケースを自動生成](https://developer.salesforce.com/blogs/2025/12/jp-auto-generate-agent-test-cases-from-agentforce-data-libraries.html) (2025-12-23)
-- [【Agentforce Hackathon Tokyo】第 1 位 Lightning Brightning: Agentforce と Tableau で革新するデータ駆動型ソリューション「Beauty Cloud」](https://developer.salesforce.com/blogs/2025/12/agentforce_hackathon_tokyo_2025_1st.html) (2025-12-22)
-- [Agentforceで会話履歴を活用して、マルチターンのAIエージェントテストを自動化](https://developer.salesforce.com/blogs/2025/12/jp-automate-multi-turn-agent-testing-with-conversation-history-in-agentforce.html) (2025-12-18)
 
 </details>
 
@@ -561,22 +561,22 @@ https://www.twilio.com/en-us/blog/partners/2026-twilio-partner-advisory-board
 <details>
 <summary>🤖 AI News</summary>
 
+- [5 AI-powered tools streamlining contract management today](https://www.artificialintelligence-news.com/news/5-ai-powered-tools-streamlining-contract-management-today/) (2026-01-06)
+- [2025’s AI chip wars: What enterprise leaders learned about supply chain reality](https://www.artificialintelligence-news.com/news/ai-chip-shortage-enterprise-ctos-2025/) (2026-01-06)
 - [L’Oréal brings AI into everyday digital advertising production](https://www.artificialintelligence-news.com/news/loreal-brings-ai-into-everyday-digital-advertising-production/) (2026-01-05)
+- [3 best secure container images for modern applications](https://www.artificialintelligence-news.com/news/3-best-secure-container-images-for-modern-applications/) (2026-01-04)
 - [Understanding how AI and big data transform digital marketing](https://www.artificialintelligence-news.com/news/understanding-how-ai-and-big-data-transform-digital-marketing/) (2026-01-02)
-- [Solana’s high-speed AI gains and malware losses](https://www.artificialintelligence-news.com/news/solanas-high-speed-ai-gains-and-malware-losses/) (2026-01-02)
-- [The future of rail: Watching, predicting, and learning](https://www.artificialintelligence-news.com/news/rail-ai-in-the-uk-beyond-predictive-maintenance/) (2025-12-24)
-- [Disney is embedding generative AI into its operating model](https://www.artificialintelligence-news.com/news/why-disney-is-embedding-generative-ai-into-its-operating-model/) (2025-12-24)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [GliNER2: Extracting Structured Information from Text](https://towardsdatascience.com/gliner2-extracting-structured-information-from-text/) (2026-01-06)
 - [Feature Detection, Part 3: Harris Corner Detection](https://towardsdatascience.com/feature-detection-part-3-harris-corner-detection/) (2026-01-05)
 - [Ray: Distributed Computing for All, Part 1](https://towardsdatascience.com/ray-distributed-computing-for-all-part-1/) (2026-01-05)
 - [Stop Blaming the Data: A Better Way to Handle Covariance Shift](https://towardsdatascience.com/stop-blaming-the-data-a-better-way-to-handle-covariance-shift/) (2026-01-05)
 - [YOLOv1 Loss Function Walkthrough: Regression for All](https://towardsdatascience.com/yolov1-loss-function-walkthrough-regression-for-all/) (2026-01-05)
-- [Prompt Engineering vs RAG for Editing Resumes](https://towardsdatascience.com/prompting-engineering-vs-rag-for-editing-resumes/) (2026-01-04)
 
 </details>
 
