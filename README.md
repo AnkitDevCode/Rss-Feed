@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [McKinsey and General Catalyst execs say the era of ‘learn once, work forever’ is over](https://techcrunch.com/2026/01/06/mckinsey-and-general-catalyst-execs-say-the-era-of-learn-once-work-forever-is-over/) (2026-01-07)
+- [Meta’s Manus news is getting different receptions in Washington and Beijing](https://techcrunch.com/2026/01/06/metas-manus-news-is-getting-different-receptions-in-washington-and-beijing/) (2026-01-07)
 - [CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities ](https://techcrunch.com/2026/01/06/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/) (2026-01-06)
 - [Wearable health devices could generate a million tons of e-waste by 2050](https://techcrunch.com/2026/01/06/wearable-health-devices-could-generate-a-million-tons-of-e-waste-by-2050/) (2026-01-06)
 - [A viral Reddit post alleging fraud from a food delivery app turned out to be AI-generated](https://techcrunch.com/2026/01/06/a-viral-reddit-post-alleging-fraud-from-a-food-delivery-app-turned-out-to-be-ai-generated/) (2026-01-06)
-- [Mobileye acquires humanoid robot startup Mentee Robotics for $900M](https://techcrunch.com/2026/01/06/mobileye-acquires-humanoid-robot-startup-mentee-robotics-for-900m/) (2026-01-06)
-- [xAI says it raised $20B in Series E funding](https://techcrunch.com/2026/01/06/xai-says-it-raised-20b-in-series-e-funding/) (2026-01-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Bill to Eliminate H-1B Visa Program Introduced in Congress](https://www.newsweek.com/eliminate-h1b-visa-program-congress-bill-marjorie-taylor-greene-11312655) (2026-01-07)
+- [A glimpse into V8 development for RISC-V](https://riseproject.dev/2025/12/09/a-glimpse-into-v8-development-for-risc-v/) (2026-01-07)
+- [On the slow death of scaling](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662) (2026-01-07)
+- [Microsoft probably killed my Snapdragon Dev Kit](https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/) (2026-01-07)
 - [PassSeeds – hijacking Passkeys to unlock new cryptographic use cases](https://backalleycoder.com/posts/passseeds-an-experiment-in-hijacking-passkeys-to-unlock-cryptographic-use-cases/) (2026-01-07)
-- [Website with a DMCA Takedown](https://priyatham.in/en/post/hosting-dmca/) (2026-01-07)
-- [Electronic Nose for Indoor Mold Detection and Identification](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124) (2026-01-07)
-- [Why the trans flag emoji is the 5-codepoint sequence it is](https://hecate.pink/blog/2026/trans-flag-emoji/) (2026-01-07)
-- [JavaScript Analyzer – Burp Suite Extension](https://github.com/jenish-sojitra/JSAnalyzer) (2026-01-07)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Intel is planning a custom Panther Lake CPU for handheld PCs](https://www.theverge.com/tech/857252/intel-handheld-gaming-pc-panther-lake-custom-cpu) (2026-01-07)
+- [Lenovo is building an AI assistant that ‘can act on your behalf’](https://www.theverge.com/column/857053/lenovo-ai-assistant-qira) (2026-01-07)
 - [Samsung and Intel&#8217;s OLED tech makes HDR easier on laptop battery life](https://www.theverge.com/news/857229/samsung-display-intel-oled-smartpower-hdr) (2026-01-07)
-- [Motorola’s first smartwatch promises 13-day battery life and Polar-powered health tracking](https://www.theverge.com/gadgets/851643/moto-watch-android-smarwatch-ces-2026) (2026-01-07)
+- [Motorola’s latest smartwatch promises 13-day battery life and Polar-powered health tracking](https://www.theverge.com/gadgets/851643/moto-watch-android-smarwatch-ces-2026) (2026-01-07)
 - [Lenovo’s Auto Twist laptop is going from concept to real product](https://www.theverge.com/news/852251/lenovos-auto-twist-laptop-is-going-from-concept-to-real-product) (2026-01-07)
-- [The new Lenovo Yoga Pro 9i laptop has a super-bright tandem OLED and magnetic stylus](https://www.theverge.com/news/852276/the-new-lenovo-yoga-pro-9i-laptop-has-a-super-bright-tandem-oled-and-magnetic-stylus) (2026-01-07)
-- [Lenovo&#8217;s new concept rollable could be the ideal gaming laptop](https://www.theverge.com/tech/852352/lenovo-legion-pro-rollable-gaming-laptop-concept-ces-2026) (2026-01-07)
 
 </details>
 
@@ -86,38 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [You need quality engineers to turn AI into ROI](https://stackoverflow.blog/2026/01/07/you-need-quality-engineers-to-turn-ai-into-roi/) (2026-01-07)
 - [Search engine bots crawled so AI bots could run](https://stackoverflow.blog/2026/01/06/search-engine-bots-crawled-so-ai-bots-could-run/) (2026-01-06)
 - [What’s new at Stack Overflow: January 2026](https://stackoverflow.blog/2026/01/05/what-s-new-at-stack-overflow-january-2026/) (2026-01-05)
 - [A new worst coder has entered the chat: vibe coding without code knowledge](https://stackoverflow.blog/2026/01/02/a-new-worst-coder-has-entered-the-chat-vibe-coding-without-code-knowledge/) (2026-01-02)
 - [The most dangerous shortcuts in software](https://stackoverflow.blog/2026/01/02/the-most-dangerous-shortcuts-in-software/) (2026-01-02)
-- [Documents: The architect’s programming language](https://stackoverflow.blog/2026/01/01/documents-the-architect-s-programming-language/) (2026-01-01)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Get Notified When Long-Running Commands Finish in PowerShell 7](https://dev.to/jackscott7/command-exec-notification-in-powershell-7-4gbn) (2026-01-07)
-- [Dependency Tracking Fundamentals (I)](https://dev.to/luciano0322/dependency-tracking-fundamentals-i-1bm4) (2026-01-07)
-- [AI Trading: Lesson Learned #105: Post-Trade RAG Sync Was Missing](https://dev.to/igorganapolsky/ai-trading-lesson-learned-105-post-trade-rag-sync-was-missing-3acb) (2026-01-07)
-- [SRDD pitches](https://dev.to/bbos/srdd-pitches-44pa) (2026-01-07)
-- [SRDD Is the Best AI Coding Methodology - entry](https://dev.to/bbos/srdd-is-the-best-ai-coding-methodology-entry-4pkk) (2026-01-07)
+- [Claude-Ally-Health: Your Private AI Medical Assistant & Health Data Manager](https://dev.to/beck_moulton/claude-ally-health-your-private-ai-medical-assistant-health-data-manager-17gd) (2026-01-07)
+- [Why a Modern Master Test Plan is Your Team’s Secret Weapon](https://dev.to/nishikr/why-a-modern-master-test-plan-is-your-teams-secret-weapon-1noj) (2026-01-07)
+- [Python Multi-Currency Quantitative Strategy Framework: Design Concepts and Implementation Details](https://dev.to/chronosquant/python-multi-currency-quantitative-strategy-framework-design-concepts-and-implementation-details-53eo) (2026-01-07)
+- [Day 1: The Array Lie (Arrays vs Pointers in C)](https://dev.to/ujjawal0711/day-1-the-array-lie-arrays-vs-pointers-in-c-1c89) (2026-01-07)
+- [How I Decide What NOT to Automate](https://dev.to/nishikr/the-senior-qas-manifesto-how-i-decide-what-not-to-automate-1ofc) (2026-01-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@zxcvvbnj2vnnn/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-baa66a6ff9b1?source=rss------programming-5) (2026-01-07)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@zxcvvbnj2vnnn/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ef93dc331a83?source=rss------programming-5) (2026-01-07)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@xxcvbhhhn1bjnn/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-0cc7e39ab7bb?source=rss------programming-5) (2026-01-07)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@xxcvbhhhn1bjnn/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-b5bf22c7814e?source=rss------programming-5) (2026-01-07)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@shmarhkhalhthran774/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-a8e18720a130?source=rss------programming-5) (2026-01-07)
+- [Adding Multiple Strategies to a Telegram Trading Bot](https://eodhd.medium.com/adding-multiple-strategies-to-a-telegram-trading-bot-878a1632f91d?source=rss------programming-5) (2026-01-07)
+- [I Deleted 400 Lines of API Versioning Code. Spring Boot 4 Replaced It with 3 Lines of Config.](https://blog.stackademic.com/i-deleted-400-lines-of-api-versioning-code-spring-boot-4-replaced-it-with-3-lines-of-config-256cb74af807?source=rss------programming-5) (2026-01-07)
+- [RAGs, AI Agents, and Agentic AI : Explained](https://ai.plainenglish.io/rags-ai-agents-and-agentic-ai-explained-f09d4f7d9006?source=rss------programming-5) (2026-01-07)
+- [Subdomain Takeover in 2025  — New Methods + Tools](https://infosecwriteups.com/subdomain-takeover-in-2025-new-methods-tools-dba94ba02121?source=rss------programming-5) (2026-01-07)
+- [Day 10 of Everyday Programming](https://medium.com/@ayush.mishra24/day-10-of-everyday-programming-e01541a9bfb1?source=rss------programming-5) (2026-01-07)
 
 </details>
 
@@ -135,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
 - [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
 - [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 - [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
+- [Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025](https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/) (2025-12-10)
 
 </details>
 
@@ -588,11 +583,11 @@ https://www.twilio.com/en-us/blog/partners/2026-twilio-partner-advisory-board
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [10 Python Projects for Beginners](https://www.analyticsvidhya.com/blog/2026/01/beginner-python-projects/) (2026-01-07)
 - [81 Jobs that AI Cannot Replace in 2026](https://www.analyticsvidhya.com/blog/2026/01/jobs-ai-cannot-replace/) (2026-01-06)
 - [Dummy Variable Trap in Machine Learning Explained Simply](https://www.analyticsvidhya.com/blog/2026/01/dummy-variable-trap-in-machine-learning/) (2026-01-06)
 - [30 Best Data Science Books to Read in 2026](https://www.analyticsvidhya.com/blog/2026/01/best-data-science-books-to-read/) (2026-01-05)
 - [How to Use Gemini 3 Pro in CLI?](https://www.analyticsvidhya.com/blog/2026/01/gemini-3-pro-cli/) (2026-01-05)
-- [LangChain vs LangGraph vs LangSmith vs LangFlow: Choosing the Right LLM Toolkit](https://www.analyticsvidhya.com/blog/2026/01/langchain-vs-langgraph-vs-langsmith-vs-langflow/) (2026-01-05)
 
 </details>
 
