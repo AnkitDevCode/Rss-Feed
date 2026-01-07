@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Roblox now requires all users globally to complete age checks to access chat](https://techcrunch.com/2026/01/07/roblox-now-requires-all-users-globally-to-complete-age-checks-to-access-chat/) (2026-01-07)
+- [Intel spinout Articul8 raises more than half of $70M round at $500M valuation](https://techcrunch.com/2026/01/07/intel-spin-off-articul8-is-halfway-to-70m-ai-funding-round-at-500m-valuation/) (2026-01-07)
 - [McKinsey and General Catalyst execs say the era of ‘learn once, work forever’ is over](https://techcrunch.com/2026/01/06/mckinsey-and-general-catalyst-execs-say-the-era-of-learn-once-work-forever-is-over/) (2026-01-07)
 - [Meta’s Manus news is getting different receptions in Washington and Beijing](https://techcrunch.com/2026/01/06/metas-manus-news-is-getting-different-receptions-in-washington-and-beijing/) (2026-01-07)
 - [CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities ](https://techcrunch.com/2026/01/06/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/) (2026-01-06)
-- [Wearable health devices could generate a million tons of e-waste by 2050](https://techcrunch.com/2026/01/06/wearable-health-devices-could-generate-a-million-tons-of-e-waste-by-2050/) (2026-01-06)
-- [A viral Reddit post alleging fraud from a food delivery app turned out to be AI-generated](https://techcrunch.com/2026/01/06/a-viral-reddit-post-alleging-fraud-from-a-food-delivery-app-turned-out-to-be-ai-generated/) (2026-01-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Bill to Eliminate H-1B Visa Program Introduced in Congress](https://www.newsweek.com/eliminate-h1b-visa-program-congress-bill-marjorie-taylor-greene-11312655) (2026-01-07)
-- [A glimpse into V8 development for RISC-V](https://riseproject.dev/2025/12/09/a-glimpse-into-v8-development-for-risc-v/) (2026-01-07)
+- [The Eric and Wendy Schmidt Observatory System](https://www.schmidtsciences.org/schmidt-observatory-system/) (2026-01-07)
+- [Optery (YC W22) Hiring a CISO and Web Scraping Engineers (Node) (US and Latam)](https://www.optery.com/careers/) (2026-01-07)
+- [Firefox extension to redirect x.com to xcancel.com](https://addons.mozilla.org/en-US/firefox/addon/toxcancel/) (2026-01-07)
 - [On the slow death of scaling](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662) (2026-01-07)
 - [Microsoft probably killed my Snapdragon Dev Kit](https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/) (2026-01-07)
-- [PassSeeds – hijacking Passkeys to unlock new cryptographic use cases](https://backalleycoder.com/posts/passseeds-an-experiment-in-hijacking-passkeys-to-unlock-cryptographic-use-cases/) (2026-01-07)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Intel is planning a custom Panther Lake CPU for handheld PCs](https://www.theverge.com/tech/857252/intel-handheld-gaming-pc-panther-lake-custom-cpu) (2026-01-07)
-- [Lenovo is building an AI assistant that ‘can act on your behalf’](https://www.theverge.com/column/857053/lenovo-ai-assistant-qira) (2026-01-07)
-- [Samsung and Intel&#8217;s OLED tech makes HDR easier on laptop battery life](https://www.theverge.com/news/857229/samsung-display-intel-oled-smartpower-hdr) (2026-01-07)
-- [Motorola’s latest smartwatch promises 13-day battery life and Polar-powered health tracking](https://www.theverge.com/gadgets/851643/moto-watch-android-smarwatch-ces-2026) (2026-01-07)
-- [Lenovo’s Auto Twist laptop is going from concept to real product](https://www.theverge.com/news/852251/lenovos-auto-twist-laptop-is-going-from-concept-to-real-product) (2026-01-07)
+- [The weirdest tech we&#8217;ve seen at CES 2026](https://www.theverge.com/tech/855460/ces-2026-weirdest-announcements) (2026-01-07)
+- [Logitech caused its mice to freak out by not renewing a certificate](https://www.theverge.com/news/857377/logitech-macos-logi-options-mouse-certification-fix) (2026-01-07)
+- [I played with the Lego Smart Brick](https://www.theverge.com/tech/855520/i-played-with-the-lego-smart-brick) (2026-01-07)
+- [Roblox now requires an age check if you want to chat](https://www.theverge.com/news/856696/roblox-age-check-estimation-chat) (2026-01-07)
+- [It turns out I’ve been using my Hue lights all wrong](https://www.theverge.com/tech/857250/philips-hue-spatial-aware-smart-lighting-feature) (2026-01-07)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [LLMs contain a LOT of parameters. But what’s a parameter?](https://www.technologyreview.com/2026/01/07/1130795/what-even-is-a-parameter/) (2026-01-07)
+- [The man who made India digital isn’t done yet](https://www.technologyreview.com/2026/01/07/1129748/aadhaar-nandan-nilekani-india-digital-biometric-identity-data/) (2026-01-07)
 - [Powering up (and saving) the planet](https://www.technologyreview.com/2026/01/06/1128655/powering-up-and-saving-the-planet/) (2026-01-06)
 - [Starstruck](https://www.technologyreview.com/2026/01/06/1128661/starstruck/) (2026-01-06)
 - [Dennis Whyte’s fusion quest](https://www.technologyreview.com/2026/01/06/1128665/dennis-whytes-fusion-quest/) (2026-01-06)
-- [Hands-on engineering](https://www.technologyreview.com/2026/01/06/1128990/hands-on-engineering/) (2026-01-06)
-- [Investing in the promise of quantum](https://www.technologyreview.com/2026/01/06/1128993/investing-in-the-promise-of-quantum/) (2026-01-06)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Claude-Ally-Health: Your Private AI Medical Assistant & Health Data Manager](https://dev.to/beck_moulton/claude-ally-health-your-private-ai-medical-assistant-health-data-manager-17gd) (2026-01-07)
-- [Why a Modern Master Test Plan is Your Team’s Secret Weapon](https://dev.to/nishikr/why-a-modern-master-test-plan-is-your-teams-secret-weapon-1noj) (2026-01-07)
-- [Python Multi-Currency Quantitative Strategy Framework: Design Concepts and Implementation Details](https://dev.to/chronosquant/python-multi-currency-quantitative-strategy-framework-design-concepts-and-implementation-details-53eo) (2026-01-07)
-- [Day 1: The Array Lie (Arrays vs Pointers in C)](https://dev.to/ujjawal0711/day-1-the-array-lie-arrays-vs-pointers-in-c-1c89) (2026-01-07)
-- [How I Decide What NOT to Automate](https://dev.to/nishikr/the-senior-qas-manifesto-how-i-decide-what-not-to-automate-1ofc) (2026-01-07)
+- [Application security: thinking backwards](https://dev.to/vardan_matevosian_tech/application-security-thinking-backwards-2756) (2026-01-07)
+- [Building FakerFill wasn’t easy (and that’s exactly why I did it)](https://dev.to/jundymek/building-fakerfill-wasnt-easy-and-thats-exactly-why-i-did-it-5d4a) (2026-01-07)
+- [SkyHetu: Designing a Causality-First Programming Language in Rust](https://dev.to/kargatharaaakash/skyhetu-designing-a-causality-first-programming-language-in-rust-2868) (2026-01-07)
+- [Mastering Intermediate JavaScript](https://dev.to/shameel/mastering-intermediate-javascript-4ohb) (2026-01-07)
+- [The Real Cost of Vibe Coding](https://dev.to/rawveg/the-real-cost-of-vibe-coding-5h1m) (2026-01-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Adding Multiple Strategies to a Telegram Trading Bot](https://eodhd.medium.com/adding-multiple-strategies-to-a-telegram-trading-bot-878a1632f91d?source=rss------programming-5) (2026-01-07)
-- [I Deleted 400 Lines of API Versioning Code. Spring Boot 4 Replaced It with 3 Lines of Config.](https://blog.stackademic.com/i-deleted-400-lines-of-api-versioning-code-spring-boot-4-replaced-it-with-3-lines-of-config-256cb74af807?source=rss------programming-5) (2026-01-07)
-- [RAGs, AI Agents, and Agentic AI : Explained](https://ai.plainenglish.io/rags-ai-agents-and-agentic-ai-explained-f09d4f7d9006?source=rss------programming-5) (2026-01-07)
-- [Subdomain Takeover in 2025  — New Methods + Tools](https://infosecwriteups.com/subdomain-takeover-in-2025-new-methods-tools-dba94ba02121?source=rss------programming-5) (2026-01-07)
-- [Day 10 of Everyday Programming](https://medium.com/@ayush.mishra24/day-10-of-everyday-programming-e01541a9bfb1?source=rss------programming-5) (2026-01-07)
+- [Why package main Matters: Understanding the Core Structure of Your First Go Program](https://medium.com/@anshusinghal703/why-package-main-matters-understanding-the-core-structure-of-your-first-go-program-70a9f5cffd28?source=rss------programming-5) (2026-01-07)
+- [Why SQL Queries Break at Billion-Row Scale (And It’s Not the Data Size)](https://medium.com/@satyamsahu_87283/why-sql-queries-break-at-billion-row-scale-and-its-not-the-data-size-8b887aa3c0f3?source=rss------programming-5) (2026-01-07)
+- [25 AI Coding Tools for Dev Workflows in 2026](https://devin-rosario.medium.com/25-ai-coding-tools-for-dev-workflows-in-2026-28ffc7384306?source=rss------programming-5) (2026-01-07)
+- [3500$ Bug: Hacking Akamai ARL](https://anontriager.medium.com/3500-bug-hacking-akamai-arl-621c26e706b8?source=rss------programming-5) (2026-01-07)
+- [Azure Storage in the AI Era: The New Data Plane for Training, Inference, and Agents.](https://itnext.io/azure-storage-in-the-ai-era-the-new-data-plane-for-training-inference-and-agents-0e0add0a3e95?source=rss------programming-5) (2026-01-07)
 
 </details>
 
@@ -506,11 +506,11 @@ https://www.twilio.com/en-us/blog/partners/2026-twilio-partner-advisory-board
 <details>
 <summary>💬 Slack API</summary>
 
-- [AI Enterprise Search: Top Features and Tools in 2026](https://slack.com/blog/productivity/ai-enterprise-search-top-features-and-tools-in-2025) (2025-12-23)
-- [Slack Feature Drop: New Innovations That Make Work Feel Like a Gift](https://slack.com/blog/news/feature-drop-dec25) (2025-12-22)
-- [Securing the Agentic Enterprise](https://slack.com/blog/transformation/securing-the-agentic-enterprise) (2025-12-17)
-- [Why Your AI Is Advancing — and Your Enterprise Isn’t](https://slack.com/blog/transformation/five-friction-points-enterprise-ai) (2025-12-16)
-- [Enterprise Search: How to Find Anything at Work with One Query](https://slack.com/blog/productivity/enterprise-search) (2025-12-15)
+- [What is a Knowledge Graph?](https://slack.com/blog/developers/knowledge-graph) (2026-01-05)
+- [Eight Active Listening Strategies for Better Communication](https://slack.com/blog/collaboration/active-listening) (2026-01-05)
+- [Five employee engagement models for a motivated workplace](https://slack.com/blog/transformation/employee-engagement-model) (2026-01-05)
+- [Five Key Drivers of Employee Engagement](https://slack.com/blog/transformation/five-key-drivers-of-employee-engagement) (2026-01-05)
+- [How to Sustain Employee Engagement and Retention in Your Team](https://slack.com/blog/collaboration/employee-engagement-and-retention) (2026-01-05)
 
 </details>
 
@@ -561,22 +561,22 @@ https://www.twilio.com/en-us/blog/partners/2026-twilio-partner-advisory-board
 <details>
 <summary>🤖 AI News</summary>
 
+- [Grab brings robotics in-house to manage delivery costs](https://www.artificialintelligence-news.com/news/grab-brings-robotics-in-house-to-manage-delivery-costs/) (2026-01-07)
 - [The Law Society: Current laws are fit for the AI era](https://www.artificialintelligence-news.com/news/the-law-society-current-laws-are-fit-for-the-ai-era/) (2026-01-06)
 - [What PubMatic’s AgenticOS signals for enterprise marketing](https://www.artificialintelligence-news.com/news/agentic-ai-in-marketing-and-advertising-at-enterprise-level/) (2026-01-06)
 - [5 AI-powered tools streamlining contract management today](https://www.artificialintelligence-news.com/news/5-ai-powered-tools-streamlining-contract-management-today/) (2026-01-06)
 - [2025’s AI chip wars: What enterprise leaders learned about supply chain reality](https://www.artificialintelligence-news.com/news/ai-chip-shortage-enterprise-ctos-2025/) (2026-01-06)
-- [L’Oréal brings AI into everyday digital advertising production](https://www.artificialintelligence-news.com/news/loreal-brings-ai-into-everyday-digital-advertising-production/) (2026-01-05)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Why Supply Chain is the Best Domain for Data Scientists in 2026 (And How to Learn It)](https://towardsdatascience.com/why-supply-chain-is-the-best-domain-for-data-scientists-in-2026-and-how-to-learn-it/) (2026-01-07)
 - [Measuring What Matters with NeMo Agent Toolkit](https://towardsdatascience.com/measuring-what-matters-with-nemo-agent-toolkit/) (2026-01-06)
 - [The Best Data Scientists Are Always Learning](https://towardsdatascience.com/the-best-data-scientists-are-always-learning/) (2026-01-06)
 - [How to Optimize Your AI Coding Agent Context](https://towardsdatascience.com/how-to-optimize-your-ai-coding-agent-context/) (2026-01-06)
 - [GliNER2: Extracting Structured Information from Text](https://towardsdatascience.com/gliner2-extracting-structured-information-from-text/) (2026-01-06)
-- [Feature Detection, Part 3: Harris Corner Detection](https://towardsdatascience.com/feature-detection-part-3-harris-corner-detection/) (2026-01-05)
 
 </details>
 
@@ -605,11 +605,11 @@ https://www.twilio.com/en-us/blog/partners/2026-twilio-partner-advisory-board
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Supervised Learning: The Foundation of Predictive Modeling](https://machinelearningmastery.com/supervised-learning-the-foundation-of-predictive-modeling/) (2026-01-07)
 - [A Gentle Introduction to Language Model Fine-tuning](https://machinelearningmastery.com/a-gentle-introduction-to-language-model-fine-tuning/) (2026-01-06)
 - [Mastering LLM Tool Calling: The Complete Framework for Connecting Models to the Real World](https://machinelearningmastery.com/mastering-llm-tool-calling-the-complete-framework-for-connecting-models-to-the-real-world/) (2026-01-06)
 - [7 Agentic AI Trends to Watch in 2026](https://machinelearningmastery.com/7-agentic-ai-trends-to-watch-in-2026/) (2026-01-05)
 - [Gradient Descent:The Engine of Machine Learning Optimization](https://machinelearningmastery.com/gradient-descentthe-engine-of-machine-learning-optimization/) (2026-01-02)
-- [Train Your Large Model on Multiple GPUs with Tensor Parallelism](https://machinelearningmastery.com/train-your-large-model-on-multiple-gpus-with-tensor-parallelism/) (2025-12-31)
 
 </details>
 
