@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Skylight debuts Calendar 2 to keep your family organized](https://techcrunch.com/2026/01/07/skylight-debuts-calendar-2-to-keep-your-family-organized/) (2026-01-07)
-- [Google Classroom’s new tool uses Gemini to transform lessons into podcast episodes](https://techcrunch.com/2026/01/07/google-classrooms-new-tool-uses-gemini-to-transform-lessons-into-podcast-episodes/) (2026-01-07)
-- [Caterpillar taps Nvidia to bring AI to its construction equipment](https://techcrunch.com/2026/01/07/caterpillar-taps-nvidia-to-bring-ai-to-its-construction-equipment/) (2026-01-07)
-- [How Quilt solved the heat pump’s biggest challenge](https://techcrunch.com/2026/01/07/how-quilt-solved-the-heat-pumps-biggest-challenge/) (2026-01-07)
-- [WhatsApp rolls out new group chat features, including member tags](https://techcrunch.com/2026/01/07/whatsapp-rolls-out-new-group-chat-features-member-tags/) (2026-01-07)
+- [Ford has an AI assistant and new hands-free BlueCruise tech on the way](https://techcrunch.com/2026/01/07/ford-has-an-ai-assistant-and-new-hands-free-bluecruise-tech-on-the-way/) (2026-01-08)
+- [Discord and Mercor investor Niko Bonatsos departs General Catalyst, plans new VC firm](https://techcrunch.com/2026/01/07/discord-and-mercor-investor-niko-bonatsos-departs-general-catalyst-plans-new-vc-firm/) (2026-01-07)
+- [Larry Page loosens business ties to CA amid state’s proposed wealth tax, report](https://techcrunch.com/2026/01/07/larry-page-loosens-business-ties-to-ca-amid-states-proposed-wealth-tax-report/) (2026-01-07)
+- [Yes, LinkedIn banned AI agent startup Artisan, but now it’s back](https://techcrunch.com/2026/01/07/yes-linkedin-banned-ai-agent-startup-artisan-but-now-its-back/) (2026-01-07)
+- [Roku’s $3 streaming service Howdy will be coming to other platforms, CEO says](https://techcrunch.com/2026/01/07/rokus-3-streaming-service-howdy-will-be-coming-to-other-platforms-ceo-says/) (2026-01-07)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [A tab hoarder's journey to sanity](https://twitter.com/borisandcrispin/status/2008709479068794989) (2026-01-07)
-- [Health care data breach affects over 600k patients, Illinois agency says](https://www.nprillinois.org/illinois/2026-01-06/health-care-data-breach-affects-600-000-patients-illinois-agency-says) (2026-01-07)
-- [BillG the Manager](https://hardcoresoftware.learningbyshipping.com/p/019-billg-the-manager) (2026-01-07)
-- [The Case for Nushell (2023)](https://www.sophiajt.com/case-for-nushell/) (2026-01-07)
-- [Building voice agents with Nvidia open models](https://www.daily.co/blog/building-voice-agents-with-nvidia-open-models/) (2026-01-07)
+- [Play Aardwolf MUD](https://www.aardwolf.com/) (2026-01-07)
+- [ICE Is Going on a Surveillance Shopping Spree](https://www.eff.org/deeplinks/2026/01/ice-going-surveillance-shopping-spree) (2026-01-07)
+- [2026 Predictions Scorecard](https://rodneybrooks.com/predictions-scorecard-2026-january-01/) (2026-01-07)
+- [My first paper: A practical implementation of Rubiks cube based passkeys](https://ieeexplore.ieee.org/document/11280260) (2026-01-07)
+- [So you wanna de-bog yourself (2024)](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself) (2026-01-07)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Some of our favorite 4K UHD Blu-rays are three for $33 at Amazon right now](https://www.theverge.com/gadgets/857061/amazon-4k-uhd-blu-ray-promo-genki-moonbase-charger-deal-sale) (2026-01-07)
-- [Dell admits consumers don’t care about AI PCs](https://www.theverge.com/news/857723/dell-consumers-ai-pcs-comments) (2026-01-07)
-- [CES 2026 tech you can already buy](https://www.theverge.com/gadgets/856494/ces-2026-tech-you-can-already-buy) (2026-01-07)
-- [L’Oréal’s new LED face masks address all my issues with this category](https://www.theverge.com/tech/857164/ces-2026-hands-on-loreal) (2026-01-07)
-- [Sony&#8217;s new &#8216;Hyperpop&#8217; PS5 covers are bursting with RGB color](https://www.theverge.com/tech/857603/sony-ps5-covers-controller-hyperpop-color-accessories) (2026-01-07)
+- [Disney Plus is getting vertical video](https://www.theverge.com/tech/858277/disney-plus-vertical-video) (2026-01-08)
+- [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple) (2026-01-08)
+- [Ford’s AI voice assistant is coming later this year, L3 driving in 2028](https://www.theverge.com/transportation/857400/ford-ai-assistant-level-3-automation-ces-2026) (2026-01-08)
+- [Chase is taking over Apple&#8217;s credit card](https://www.theverge.com/news/858170/apple-card-jpmorgan-chase-sachs) (2026-01-07)
+- [Blood for stonks](https://www.theverge.com/policy/858075/trump-venezuela-maduro-kidnapping-spectacle) (2026-01-07)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [SteamOS continues its slow spread across the PC gaming landscape](https://arstechnica.com/gaming/2026/01/steamos-continues-its-slow-spread-across-the-pc-gaming-landscape/) (2026-01-07)
-- [Japanese nuclear plant operator fabricated seismic risk data](https://arstechnica.com/science/2026/01/japanese-nuclear-plant-operator-fabricated-seismic-risk-data/) (2026-01-07)
-- [EVs remain a niche choice in the US, according to survey](https://arstechnica.com/cars/2026/01/evs-remain-a-niche-choice-in-the-us-according-to-survey/) (2026-01-07)
-- [New battery idea gets lots of power out of unusual sulfur chemistry](https://arstechnica.com/science/2026/01/new-battery-idea-gets-lots-of-power-out-of-unusual-sulfur-chemistry/) (2026-01-07)
-- [We have a fossil closer to our split with Neanderthals and Denisovans](https://arstechnica.com/science/2026/01/weve-got-a-fossil-closer-to-our-split-with-neanderthals-and-denisovans/) (2026-01-07)
+- [Samsung’s Ballie home robot, once promised for summer 2025, gets grim update](https://arstechnica.com/gadgets/2026/01/samsung-squashes-hopes-that-it-will-release-its-ballie-home-robot/) (2026-01-07)
+- [AI starts autonomously writing prescription refills in Utah](https://arstechnica.com/health/2026/01/utah-allows-ai-to-autonomously-prescribe-medication-refills/) (2026-01-07)
+- [Warner Bros. sticks with Netflix merger, calls Paramount’s $108B bid “illusory”](https://arstechnica.com/tech-policy/2026/01/warner-bros-sticks-with-netflix-merger-calls-paramounts-108b-bid-illusory/) (2026-01-07)
+- [Bose open-sources its SoundTouch home theater smart speakers ahead of end-of-life](https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/) (2026-01-07)
+- [Expired certificate completely breaks macOS Logitech apps, user customizations](https://arstechnica.com/gadgets/2026/01/expired-certificate-completely-breaks-macos-logitech-apps-user-customizations/) (2026-01-07)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
-- [Now everyone can chat on Stack Overflow](https://stackoverflow.blog/2026/01/07/now-everyone-can-chat-on-stack-overflow/) (2026-01-07)
 - [You need quality engineers to turn AI into ROI](https://stackoverflow.blog/2026/01/07/you-need-quality-engineers-to-turn-ai-into-roi/) (2026-01-07)
 - [Search engine bots crawled so AI bots could run](https://stackoverflow.blog/2026/01/06/search-engine-bots-crawled-so-ai-bots-could-run/) (2026-01-06)
 - [What’s new at Stack Overflow: January 2026](https://stackoverflow.blog/2026/01/05/what-s-new-at-stack-overflow-january-2026/) (2026-01-05)
 - [A new worst coder has entered the chat: vibe coding without code knowledge](https://stackoverflow.blog/2026/01/02/a-new-worst-coder-has-entered-the-chat-vibe-coding-without-code-knowledge/) (2026-01-02)
+- [The most dangerous shortcuts in software](https://stackoverflow.blog/2026/01/02/the-most-dangerous-shortcuts-in-software/) (2026-01-02)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Concurrency Control and Database Recovery in SQLite](https://dev.to/lovestaco/concurrency-control-and-database-recovery-in-sqlite-2pmo) (2026-01-07)
-- [Join the Algolia Agent Studio Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-algolia-agent-studio-challenge-3000-in-prizes-4eli) (2026-01-07)
-- [Kodkod: Production Backends in Seconds](https://dev.to/sibilsoren/kodkod-production-backends-in-seconds-5eda) (2026-01-07)
-- [How to Set Up a UPS on macOS 26 Tahoe](https://dev.to/dev_neil_a/how-to-set-up-a-ups-on-macos-26-tahoe-a9f) (2026-01-07)
-- [SASSA Status Check Guide 2025: How to Track Your SRD Grant Step by Step](https://dev.to/maddy_alex_fd59e8de30cde5/sassa-status-check-guide-2025-how-to-track-your-srd-grant-step-by-step-1d89) (2026-01-07)
+- [A simple and cool CSS animation, new year and good to be back!](https://dev.to/renancferro/a-simple-and-cool-css-animation-new-year-and-good-to-be-back-4mbl) (2026-01-08)
+- [Go in the Cloud: Deploying Microservices with Docker & Kubernetes](https://dev.to/djamware_tutorial_eba1a61/go-in-the-cloud-deploying-microservices-with-docker-kubernetes-4a5c) (2026-01-08)
+- [Won't LLMs eventually train on themselves? It'll slowly decline in output..](https://dev.to/intercepted16/wont-llms-eventually-train-on-themselves-itll-slowly-decline-in-output-6d7) (2026-01-08)
+- [Real-Time Leaderboards: How to Boost Fitness Engagement Through Smart Data Architectures](https://dev.to/wellallytech/real-time-leaderboards-how-to-boost-fitness-engagement-through-smart-data-architectures-2jb6) (2026-01-08)
+- [When I Discovered Recursive Intelligence](https://dev.to/fwdslsh/rhizas-kernel-chronicles-when-i-discovered-recursive-intelligence-io8) (2026-01-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Didn’t Learn Python in 30 Days. I Learned How to Keep Learning It.](https://python.plainenglish.io/i-didnt-learn-python-in-30-days-i-learned-how-to-keep-learning-it-6e31e42fd9fb?source=rss------programming-5) (2026-01-07)
-- [Why I Recommend Cross-Platform Development (iOS, Android, Web)](https://medium.com/react-in-the-real-world/why-i-recommend-cross-platform-development-ios-android-web-42f9cc61d1de?source=rss------programming-5) (2026-01-07)
-- [7 Brutally Practical Truths About CQRS (No MediatR Required) in .NET](https://medium.com/@michaelmaurice410/7-brutally-practical-truths-about-cqrs-no-mediatr-required-in-net-fc7fad89b8b0?source=rss------programming-5) (2026-01-07)
-- [9 Rock-Solid Ways I Add Fault Handling in ASP.NET](https://medium.com/@maged_/9-rock-solid-ways-i-add-fault-handling-in-asp-net-ac5d1b4f49ec?source=rss------programming-5) (2026-01-07)
-- [Domain Validation With .NET](https://medium.com/@mariammaurice/domain-validation-with-net-dbb112667800?source=rss------programming-5) (2026-01-07)
+- [Tool Boundaries for Agents: When to Call Tools + How to Design Tool I/O (So Your System Stops…](https://medium.com/@anindyasinghobi/tool-boundaries-for-agents-when-to-call-tools-how-to-design-tool-i-o-so-your-system-stops-1a5400414013?source=rss------programming-5) (2026-01-08)
+- [7 Kotlin Syntax Patterns That Crush 90% of Coding Interview Candidates (Google Engineers Reveal…](https://medium.com/@alaxhenry0121/7-kotlin-syntax-patterns-that-crush-90-of-coding-interview-candidates-google-engineers-reveal-f330da63eff3?source=rss------programming-5) (2026-01-08)
+- [The 7 Data Structures That Separate Android Developers Who Get Hired at FAANG from Those Who Don’t](https://medium.com/@alaxhenry0121/the-7-data-structures-that-separate-android-developers-who-get-hired-at-faang-from-those-who-dont-4df13af5a3f7?source=rss------programming-5) (2026-01-08)
+- [Building a Market Predictor Indicator Using Nobel Prize-Winning Physics: A Deep Dive into Neural…](https://medium.com/@jsgastoniriartecabrera/building-a-market-predictor-indicator-using-nobel-prize-winning-physics-a-deep-dive-into-neural-59214822a6a6?source=rss------programming-5) (2026-01-08)
+- [Serverless Event Sourcing: A Refactoring Blueprint for 2026](https://beckmoulton.medium.com/serverless-event-sourcing-a-refactoring-blueprint-for-2026-2d8bd3dbb7c5?source=rss------programming-5) (2026-01-08)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.35: A Better Way to Pass Service Account Tokens to CSI Drivers](https://kubernetes.io/blog/2026/01/07/kubernetes-v1-35-csi-sa-tokens-secrets-field-beta/) (2026-01-07)
 - [Kubernetes v1.35: Extended Toleration Operators to Support Numeric Comparisons (Alpha)](https://kubernetes.io/blog/2026/01/05/kubernetes-v1-35-numeric-toleration-operators/) (2026-01-05)
 - [Kubernetes v1.35: New level of efficiency with in-place Pod restart](https://kubernetes.io/blog/2026/01/02/kubernetes-v1-35-restart-all-containers/) (2026-01-02)
 - [Kubernetes 1.35: Enhanced Debugging with Versioned z-pages APIs](https://kubernetes.io/blog/2025/12/31/kubernetes-v1-35-structured-zpages/) (2025-12-31)
 - [Kubernetes v1.35: Watch Based Route Reconciliation in the Cloud Controller Manager](https://kubernetes.io/blog/2025/12/30/kubernetes-v1-35-watch-based-route-reconciliation-in-ccm/) (2025-12-30)
-- [Kubernetes v1.35: Introducing Workload Aware Scheduling](https://kubernetes.io/blog/2025/12/29/kubernetes-v1-35-introducing-workload-aware-scheduling/) (2025-12-29)
 
 </details>
 
@@ -484,11 +484,11 @@ https://www.twilio.com/en-us/blog/partners/2026-twilio-partner-advisory-board
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
+- [Accelerate Flexcard Development with Omnistudio MCP](https://developer.salesforce.com/blogs/2026/01/accelerate-flexcard-development-with-omnistudio-mcp.html) (2026-01-07)
+- [Developer Edition + スクラッチ組織で、複数の開発・検証組織を手にいれる](https://developer.salesforce.com/blogs/2025/12/jp-scratch-org-with-developer-edition.html) (2025-12-26)
+- [プロから学ぶ、Agentforce Vibesを使いこなす5つのヒント](https://developer.salesforce.com/blogs/2025/12/jp-five-pro-tips-for-using-agentforce-vibes.html) (2025-12-25)
 - [新しいサンプルアプリ「Agent Script Recipes」でハイブリッド推論をマスター](https://developer.salesforce.com/blogs/2025/12/jp-master-hybrid-reasoning-with-the-new-agent-script-recipes-sample-app.html) (2025-12-24)
 - [Build Composable Storefronts Smarter and Faster with the PWA Kit MCP Server](https://developer.salesforce.com/blogs/2025/12/build-composable-storefronts-smarter-and-faster-with-the-pwa-kit-mcp-server.html) (2025-12-23)
-- [AgentforceデータライブラリーからAIエージェントのテストケースを自動生成](https://developer.salesforce.com/blogs/2025/12/jp-auto-generate-agent-test-cases-from-agentforce-data-libraries.html) (2025-12-23)
-- [【Agentforce Hackathon Tokyo】第 1 位 Lightning Brightning: Agentforce と Tableau で革新するデータ駆動型ソリューション「Beauty Cloud」](https://developer.salesforce.com/blogs/2025/12/agentforce_hackathon_tokyo_2025_1st.html) (2025-12-22)
-- [Agentforceで会話履歴を活用して、マルチターンのAIエージェントテストを自動化](https://developer.salesforce.com/blogs/2025/12/jp-automate-multi-turn-agent-testing-with-conversation-history-in-agentforce.html) (2025-12-18)
 
 </details>
 
@@ -506,11 +506,11 @@ https://www.twilio.com/en-us/blog/partners/2026-twilio-partner-advisory-board
 <details>
 <summary>💬 Slack API</summary>
 
-- [AI Enterprise Search: Top Features and Tools in 2026](https://slack.com/blog/productivity/ai-enterprise-search-top-features-and-tools-in-2025) (2025-12-23)
-- [Slack Feature Drop: New Innovations That Make Work Feel Like a Gift](https://slack.com/blog/news/feature-drop-dec25) (2025-12-22)
-- [Securing the Agentic Enterprise](https://slack.com/blog/transformation/securing-the-agentic-enterprise) (2025-12-17)
-- [Why Your AI Is Advancing — and Your Enterprise Isn’t](https://slack.com/blog/transformation/five-friction-points-enterprise-ai) (2025-12-16)
-- [Enterprise Search: How to Find Anything at Work with One Query](https://slack.com/blog/productivity/enterprise-search) (2025-12-15)
+- [12 Project Management Techniques for Better Collaboration and Efficiency](https://slack.com/blog/productivity/project-management-techniques) (2026-01-07)
+- [Best Team Collaboration Tools for Productivity in 2026](https://slack.com/blog/collaboration/best-collaboration-tools) (2026-01-07)
+- [What is a Knowledge Graph?](https://slack.com/blog/developers/knowledge-graph) (2026-01-05)
+- [Eight Active Listening Strategies for Better Communication](https://slack.com/blog/collaboration/active-listening) (2026-01-05)
+- [Five employee engagement models for a motivated workplace](https://slack.com/blog/transformation/employee-engagement-model) (2026-01-05)
 
 </details>
 
