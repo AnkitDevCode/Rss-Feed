@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [JPMorgan Chase becomes the new issuer of the Apple Card](https://techcrunch.com/2026/01/07/jpmorgan-chase-becomes-the-new-issuer-of-the-apple-card/) (2026-01-08)
 - [Waymo is rebranding its Zeekr robotaxi](https://techcrunch.com/2026/01/07/waymo-is-rebranding-its-zeekr-robotaxi/) (2026-01-08)
 - [Google and Character.AI negotiate first major settlements in teen chatbot death cases](https://techcrunch.com/2026/01/07/google-and-character-ai-negotiate-first-major-settlements-in-teen-chatbot-death-cases/) (2026-01-08)
 - [Ford has an AI assistant and new hands-free BlueCruise tech on the way](https://techcrunch.com/2026/01/07/ford-has-an-ai-assistant-and-new-hands-free-bluecruise-tech-on-the-way/) (2026-01-08)
 - [Discord and Mercor investor Niko Bonatsos departs General Catalyst, plans new VC firm](https://techcrunch.com/2026/01/07/discord-and-mercor-investor-niko-bonatsos-departs-general-catalyst-plans-new-vc-firm/) (2026-01-07)
-- [Larry Page loosens business ties to CA amid state’s proposed wealth tax, report](https://techcrunch.com/2026/01/07/larry-page-loosens-business-ties-to-ca-amid-states-proposed-wealth-tax-report/) (2026-01-07)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Covid-19 leaves a lasting mark on the human brain](https://news.griffith.edu.au/2025/12/16/covid-19-leaves-a-lasting-mark-on-the-human-brain/) (2026-01-08)
+- [Mothers (YC X26) Is Hiring](https://jobs.ashbyhq.com/9-mothers) (2026-01-08)
+- [A closer look at a BGP anomaly in Venezuela](https://blog.cloudflare.com/bgp-route-leak-venezuela/) (2026-01-08)
 - [Project Patchouli: Open-source electromagnetic drawing tablet hardware](https://patchouli.readthedocs.io/en/latest/) (2026-01-08)
-- [Show HN: Lean4 proof that SSOT requires definition-time hooks and introspection](https://zenodo.org/records/18177320) (2026-01-08)
 - [Go.sum is not a lockfile](https://words.filippo.io/gosum/) (2026-01-08)
-- [Intricuit: A touchscreen add-on for Mac laptops](https://intricuit.com) (2026-01-08)
+- [Open Infrastructure Map](https://openinframap.org) (2026-01-08)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The gap between premium and budget TV brands is quickly closing](https://www.theverge.com/tech/857325/the-gap-between-premium-and-budget-tv-brands-is-quickly-closing) (2026-01-08)
+- [America’s new era of energy imperialism is about more than oil ](https://www.theverge.com/report/857978/trump-venezuela-greenland-oil-mineral-energy-imperialism) (2026-01-08)
+- [Volvo touts EX60’s range and charging speed ahead of official debut](https://www.theverge.com/transportation/857933/volvo-ex60-range-charging-speed-megacasting-battery) (2026-01-08)
 - [Disney Plus is getting vertical video](https://www.theverge.com/tech/858277/disney-plus-vertical-video) (2026-01-08)
 - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple) (2026-01-08)
-- [Ford’s AI voice assistant is coming later this year, L3 driving in 2028](https://www.theverge.com/transportation/857400/ford-ai-assistant-level-3-automation-ces-2026) (2026-01-08)
-- [Chase is taking over Apple&#8217;s credit card](https://www.theverge.com/news/858170/apple-card-jpmorgan-chase-sachs) (2026-01-07)
-- [Blood for stonks](https://www.theverge.com/policy/858075/trump-venezuela-maduro-kidnapping-spectacle) (2026-01-07)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [A crew member’s “medical concern” foils a planned spacewalk outside the ISS](https://arstechnica.com/space/2026/01/nasa-postpones-space-station-spacewalk-due-to-crew-members-medical-concern/) (2026-01-08)
+- [Volvo says new EX60 has 400-mile range, charges up to 400 kW](https://arstechnica.com/cars/2026/01/volvo-says-new-ex60-has-400-mile-range-charges-up-to-400-kw/) (2026-01-08)
+- [NASA considers evacuating ailing crew member from International Space Station](https://arstechnica.com/space/2026/01/nasa-postpones-space-station-spacewalk-due-to-crew-members-medical-concern/) (2026-01-08)
 - [Ford is getting ready to put AI assistants in its cars](https://arstechnica.com/cars/2026/01/in-car-ai-assistant-coming-to-fords-and-lincolns-in-2027/) (2026-01-08)
 - [Samsung’s Ballie home robot, once promised for summer 2025, gets grim update](https://arstechnica.com/gadgets/2026/01/samsung-squashes-hopes-that-it-will-release-its-ballie-home-robot/) (2026-01-07)
 - [AI starts autonomously writing prescription refills in Utah](https://arstechnica.com/health/2026/01/utah-allows-ai-to-autonomously-prescribe-medication-refills/) (2026-01-07)
-- [Warner Bros. sticks with Netflix merger, calls Paramount’s $108B bid “illusory”](https://arstechnica.com/tech-policy/2026/01/warner-bros-sticks-with-netflix-merger-calls-paramounts-108b-bid-illusory/) (2026-01-07)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [What new legal challenges mean for the future of US offshore wind](https://www.technologyreview.com/2026/01/08/1130868/legal-challenges-offshore-wind/) (2026-01-08)
 - [Deploying a hybrid approach to Web3 in the AI era](https://www.technologyreview.com/2026/01/07/1129490/deploying-a-hybrid-approach-to-web3-in-the-ai-era/) (2026-01-07)
 - [The Download: war in Europe, and the company that wants to cool the planet](https://www.technologyreview.com/2026/01/07/1130806/the-download-war-in-europe-and-the-company-that-wants-to-cool-the-planet/) (2026-01-07)
 - [LLMs contain a LOT of parameters. But what’s a parameter?](https://www.technologyreview.com/2026/01/07/1130795/what-even-is-a-parameter/) (2026-01-07)
 - [The man who made India digital isn’t done yet](https://www.technologyreview.com/2026/01/07/1129748/aadhaar-nandan-nilekani-india-digital-biometric-identity-data/) (2026-01-07)
-- [Powering up (and saving) the planet](https://www.technologyreview.com/2026/01/06/1128655/powering-up-and-saving-the-planet/) (2026-01-06)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Top APM Tools in 2026: What Every Developer and Engineering Team Should Know](https://dev.to/olivia_madison_b0ad7090ad/top-apm-tools-in-2026-what-every-developer-and-engineering-team-should-know-1dg0) (2026-01-08)
-- [Solved: Hot take: The outage isn’t the problem everyone going down at once is](https://dev.to/techresolve/solved-hot-take-the-outage-isnt-the-problem-everyone-going-down-at-once-is-2hkp) (2026-01-08)
-- [Flutter Dio Interceptor for Caching API Responses](https://dev.to/rshnkunwar/flutter-dio-interceptor-for-caching-api-responses-1db3) (2026-01-08)
-- [Apache Airflow for Production: Essential Concepts Every Developer Should Know](https://dev.to/datatechbridge/apache-airflow-for-production-essential-concepts-every-developer-should-know-2n1j) (2026-01-08)
-- [Vibecoding On‑Chain — Using AI to Prototype Solidity Contracts (Safely)](https://dev.to/ribhavmodi/vibecoding-on-chain-using-ai-to-prototype-solidity-contracts-safely-3n5i) (2026-01-08)
+- [Organizational Autoimmune Disorders](https://dev.to/linkbenjamin/organizational-autoimmune-disorders-3ec2) (2026-01-08)
+- [What CEO retreats actually change for engineering execution](https://dev.to/imperium_by_edstellar/what-ceo-retreats-actually-change-for-engineering-execution-5a3f) (2026-01-08)
+- [Digital Twin Documentation Doesn't Scale - Here's Why](https://dev.to/ronny_elsner_7g/digital-twin-documentation-doesnt-scale-heres-why-35lb) (2026-01-08)
+- [I Tried to Beat WebAssembly With Node.js](https://dev.to/sfundomhlungu/i-tried-to-beat-webassembly-with-nodejs-499o) (2026-01-08)
+- [The Disappearing Blockchain](https://dev.to/rawveg/the-disappearing-blockchain-3k38) (2026-01-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Dera Mağarası](https://mediumturkiye.com/dera-ma%C4%9Faras%C4%B1-58a400850859?source=rss------programming-5) (2026-01-08)
-- [Immutability & Design in Java](https://medium.com/codetodeploy/immutability-design-in-java-54e9cb1a06bd?source=rss------programming-5) (2026-01-08)
-- [ React Native’s New Architecture (Fabric + TurboModules + JSI): A Complete Deep Dive](https://medium.com/@avantika0/react-natives-new-architecture-fabric-turbomodules-jsi-a-complete-deep-dive-5a864bfac6b8?source=rss------programming-5) (2026-01-08)
-- [ Why Use TypeScript? Benefits for Scalable JavaScript Development⚡️](https://developer-in.medium.com/why-use-typescript-benefits-for-scalable-javascript-development-%EF%B8%8F-f3b41f4c8c7f?source=rss------programming-5) (2026-01-08)
-- [Understanding Distributed Systems: Reliability and the CAP Theorem](https://towardsdev.com/understanding-distributed-systems-reliability-and-the-cap-theorem-19e5f37a0f78?source=rss------programming-5) (2026-01-08)
+- [6 Python Scripts I Never Expected Anyone to Care About](https://python.plainenglish.io/6-python-scripts-i-never-expected-anyone-to-care-about-0b25426294b5?source=rss------programming-5) (2026-01-08)
+- [Next.js App Router: Everything I Wish I Knew Before Moving from /pages](https://javascript.plainenglish.io/next-js-app-router-everything-i-wish-i-knew-before-moving-from-pages-1bf860354753?source=rss------programming-5) (2026-01-08)
+- [Frontend in 2026 Is Not What You Think — Here’s What Developers Must Learn](https://javascript.plainenglish.io/frontend-in-2026-is-not-what-you-think-heres-what-developers-must-learn-fda9705c4be8?source=rss------programming-5) (2026-01-08)
+- [300 Followers, 99 Downloads, and 0 Hacks](https://python.plainenglish.io/300-followers-99-downloads-and-0-hacks-da8e756fd973?source=rss------programming-5) (2026-01-08)
+- [Residential Property In Noida Designed For Everyday Comfort](https://medium.com/@bestpropertysale/residential-property-in-noida-designed-for-everyday-comfort-bc1941230add?source=rss------programming-5) (2026-01-08)
 
 </details>
 
@@ -362,30 +362,30 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Behind the Builder: Justinus Kho, Staff Product Data Analyst
+](
+https://www.twilio.com/en-us/blog/company/spotlights/behind-the-builder-Justinus-Twilio
+) (2026-01-07)
+- [
 How to Implement Call Forwarding in Go
 ](
 https://www.twilio.com/en-us/blog/developers/community/how-to-implement-call-forwarding-in-go
 ) (2026-01-05)
 - [
-How to Use Twilio Verify Over Interconnect
+How to Code Video Games: A Beginner's Guide
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/use-verify-over-interconnect
-) (2025-12-17)
+https://www.twilio.com/en-us/blog/how-to-code-video-games
+) (2026-01-05)
 - [
-Build a Twilio Whatsapp + Pipedrive Integration
+5+ reasons to use VoIP call centers in 2026 (and beyond)
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/build-twilio-whatsapp-pipedrive-integration
-) (2025-12-17)
+https://www.twilio.com/en-us/blog/insights/cloud-comms/reasons-to-have-voip-call-center
+) (2025-12-30)
 - [
-Open Sourcing the Twilio Docs AI Buddy Prompts: Empowering Technical Writers with Smarter AI Tools
+Broadcast Text Messaging: What Is It & How to Use It
 ](
-https://www.twilio.com/en-us/blog/developers/open-source-docs-ai-buddy-prompts
-) (2025-12-17)
-- [
-Building the Future Together: Introducing the Twilio Partner Advisory Board
-](
-https://www.twilio.com/en-us/blog/partners/2026-twilio-partner-advisory-board
-) (2025-12-16)
+https://www.twilio.com/en-us/blog/what-is-broadcast-messaging
+) (2025-12-27)
 
 </details>
 
@@ -561,22 +561,22 @@ https://www.twilio.com/en-us/blog/partners/2026-twilio-partner-advisory-board
 <details>
 <summary>🤖 AI News</summary>
 
+- [2026 to be the year of the agentic AI intern](https://www.artificialintelligence-news.com/news/agent-ai-as-the-intern-in-2026-prediction-by-nexos-ai/) (2026-01-08)
+- [Bosch’s €2.9 billion AI investment and shifting manufacturing priorities](https://www.artificialintelligence-news.com/news/bosch-e2-9-billion-ai-investment-and-shifting-manufacturing-priorities/) (2026-01-08)
 - [Agentic AI scaling requires new memory architecture](https://www.artificialintelligence-news.com/news/agentic-ai-scaling-requires-new-memory-architecture/) (2026-01-07)
 - [Optimism for AI-powered productivity: Deloitte](https://www.artificialintelligence-news.com/news/deloitte-survey-takes-cfo-and-it-temperature-around-technology-and-ai/) (2026-01-07)
 - [Grab brings robotics in-house to manage delivery costs](https://www.artificialintelligence-news.com/news/grab-brings-robotics-in-house-to-manage-delivery-costs/) (2026-01-07)
-- [The Law Society: Current laws are fit for the AI era](https://www.artificialintelligence-news.com/news/the-law-society-current-laws-are-fit-for-the-ai-era/) (2026-01-06)
-- [What PubMatic’s AgenticOS signals for enterprise marketing](https://www.artificialintelligence-news.com/news/agentic-ai-in-marketing-and-advertising-at-enterprise-level/) (2026-01-06)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Faster Is Not Always Better: Choosing the Right PostgreSQL Insert Strategy in Python (+Benchmarks)](https://towardsdatascience.com/faster-is-not-always-better-choosing-the-right-postgresql-insert-strategy-in-python-benchmarks/) (2026-01-08)
 - [HNSW at Scale: Why Your RAG System Gets Worse as the Vector Database Grows](https://towardsdatascience.com/hnsw-at-scale-why-your-rag-system-gets-worse-as-the-vector-database-grows/) (2026-01-07)
 - [I Evaluated Half a Million Credit Records with Federated Learning. Here’s What I Found](https://towardsdatascience.com/i-evaluated-half-a-million-credit-records-with-federated-learning-heres-what-i-found/) (2026-01-07)
 - [Probabilistic Multi-Variant Reasoning: Turning Fluent LLM Answers Into Weighted Options](https://towardsdatascience.com/probabilistic-multi-variant-reasoning-turning-fluent-llm-answers-into-weighted-options/) (2026-01-07)
 - [Why Supply Chain is the Best Domain for Data Scientists in 2026 (And How to Learn It)](https://towardsdatascience.com/why-supply-chain-is-the-best-domain-for-data-scientists-in-2026-and-how-to-learn-it/) (2026-01-07)
-- [Measuring What Matters with NeMo Agent Toolkit](https://towardsdatascience.com/measuring-what-matters-with-nemo-agent-toolkit/) (2026-01-06)
 
 </details>
 
@@ -605,11 +605,11 @@ https://www.twilio.com/en-us/blog/partners/2026-twilio-partner-advisory-board
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Quantizing LLMs Step-by-Step: Converting FP16 Models to GGUF](https://machinelearningmastery.com/quantizing-llms-step-by-step-converting-fp16-models-to-gguf/) (2026-01-08)
 - [Supervised Learning: The Foundation of Predictive Modeling](https://machinelearningmastery.com/supervised-learning-the-foundation-of-predictive-modeling/) (2026-01-07)
 - [A Gentle Introduction to Language Model Fine-tuning](https://machinelearningmastery.com/a-gentle-introduction-to-language-model-fine-tuning/) (2026-01-06)
 - [Mastering LLM Tool Calling: The Complete Framework for Connecting Models to the Real World](https://machinelearningmastery.com/mastering-llm-tool-calling-the-complete-framework-for-connecting-models-to-the-real-world/) (2026-01-06)
 - [7 Agentic AI Trends to Watch in 2026](https://machinelearningmastery.com/7-agentic-ai-trends-to-watch-in-2026/) (2026-01-05)
-- [Gradient Descent:The Engine of Machine Learning Optimization](https://machinelearningmastery.com/gradient-descentthe-engine-of-machine-learning-optimization/) (2026-01-02)
 
 </details>
 
