@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [JPMorgan Chase becomes the new issuer of the Apple Card](https://techcrunch.com/2026/01/07/jpmorgan-chase-becomes-the-new-issuer-of-the-apple-card/) (2026-01-08)
-- [Waymo is rebranding its Zeekr robotaxi](https://techcrunch.com/2026/01/07/waymo-is-rebranding-its-zeekr-robotaxi/) (2026-01-08)
-- [Google and Character.AI negotiate first major settlements in teen chatbot death cases](https://techcrunch.com/2026/01/07/google-and-character-ai-negotiate-first-major-settlements-in-teen-chatbot-death-cases/) (2026-01-08)
-- [Ford has an AI assistant and new hands-free BlueCruise tech on the way](https://techcrunch.com/2026/01/07/ford-has-an-ai-assistant-and-new-hands-free-bluecruise-tech-on-the-way/) (2026-01-08)
-- [Discord and Mercor investor Niko Bonatsos departs General Catalyst, plans new VC firm](https://techcrunch.com/2026/01/07/discord-and-mercor-investor-niko-bonatsos-departs-general-catalyst-plans-new-vc-firm/) (2026-01-07)
+- [OpenAI to acquire the team behind executive coaching AI tool Convogo](https://techcrunch.com/2026/01/08/openai-to-acquire-the-team-behind-executive-coaching-ai-tool-convogo/) (2026-01-08)
+- [Anduril’s Palmer Luckey thinks the future of tech is in the past](https://techcrunch.com/2026/01/08/andurils-palmer-luckey-thinks-the-future-of-tech-is-in-the-past/) (2026-01-08)
+- [Disney+ is launching short-form videos this year](https://techcrunch.com/2026/01/08/disney-is-launching-short-form-videos-this-year/) (2026-01-08)
+- [The most bizarre tech announced so far at CES 2026](https://techcrunch.com/2026/01/08/the-most-bizarre-tech-announced-so-far-at-ces-2026/) (2026-01-08)
+- [Illinois health department exposed over 700,000 residents’ personal data for years](https://techcrunch.com/2026/01/08/illinois-health-department-exposed-over-700000-residents-personal-data-for-years/) (2026-01-08)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Mothers (YC X26) Is Hiring](https://jobs.ashbyhq.com/9-mothers) (2026-01-08)
-- [A closer look at a BGP anomaly in Venezuela](https://blog.cloudflare.com/bgp-route-leak-venezuela/) (2026-01-08)
-- [Project Patchouli: Open-source electromagnetic drawing tablet hardware](https://patchouli.readthedocs.io/en/latest/) (2026-01-08)
-- [Go.sum is not a lockfile](https://words.filippo.io/gosum/) (2026-01-08)
-- [Open Infrastructure Map](https://openinframap.org) (2026-01-08)
+- [Chinese AI models have lagged the US frontier by 7 months on average since 2023](https://epoch.ai/data-insights/us-vs-china-eci) (2026-01-08)
+- [ICE's Tool to Monitor Phones in Neighborhoods](https://www.404media.co/inside-ices-tool-to-monitor-phones-in-entire-neighborhoods/) (2026-01-08)
+- [Tamarind Bio (YC W24) Is Hiring Infrastructure Engineers](https://www.ycombinator.com/companies/tamarind-bio/jobs/HPRZAz3-infrastructure-engineer) (2026-01-08)
+- [Dynamic Large Concept Models: Latent Reasoning in an Adaptive Semantic Space](https://arxiv.org/abs/2512.24617) (2026-01-08)
+- [Digital Red Queen: Adversarial Program Evolution in Core War with LLMs](https://sakana.ai/drq/) (2026-01-08)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The gap between premium and budget TV brands is quickly closing](https://www.theverge.com/tech/857325/the-gap-between-premium-and-budget-tv-brands-is-quickly-closing) (2026-01-08)
-- [America’s new era of energy imperialism is about more than oil ](https://www.theverge.com/report/857978/trump-venezuela-greenland-oil-mineral-energy-imperialism) (2026-01-08)
-- [Volvo touts EX60’s range and charging speed ahead of official debut](https://www.theverge.com/transportation/857933/volvo-ex60-range-charging-speed-megacasting-battery) (2026-01-08)
-- [Disney Plus is getting vertical video](https://www.theverge.com/tech/858277/disney-plus-vertical-video) (2026-01-08)
-- [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple) (2026-01-08)
+- [Most dubious uses of AI at CES 2026](https://www.theverge.com/tech/858315/most-dubious-ai-tech-ces-2026) (2026-01-08)
+- [The MAGA-approved video of an ICE killing](https://www.theverge.com/tech/858710/minneapolis-ice-shooting-trump-video-footage-social-media) (2026-01-08)
+- [The first privately funded space-based telescope is in the works](https://www.theverge.com/news/858671/schmidt-sciences-lazuli-space-telescope) (2026-01-08)
+- [Microsoft will put buy buttons directly in Copilot](https://www.theverge.com/news/858664/microsoft-copilot-ai-checkout-buy-products) (2026-01-08)
+- [Satechi’s new Slim EX keyboards have a replaceable battery](https://www.theverge.com/tech/856666/satechi-slim-ex-keyboards-removable-battery-ces-2026) (2026-01-08)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Trump withdraws US from world’s most important climate treaty](https://arstechnica.com/science/2026/01/trump-withdraws-us-from-worlds-most-important-climate-treaty/) (2026-01-08)
+- [Former Google CEO plans to singlehandedly fund a Hubble telescope replacement](https://arstechnica.com/space/2026/01/eric-schmidt-will-massively-invest-in-private-telescopes-including-hubble-replacement/) (2026-01-08)
+- [ChatGPT falls to new data-pilfering attack as a vicious cycle in AI continues](https://arstechnica.com/security/2026/01/chatgpt-falls-to-new-data-pilfering-attack-as-a-vicious-cycle-in-ai-continues/) (2026-01-08)
+- [Google announces AI Overviews in Gmail search, experimental AI-organized inbox](https://arstechnica.com/google/2026/01/google-announces-ai-overviews-in-gmail-search-experimental-ai-organized-inbox/) (2026-01-08)
 - [Volvo says new EX60 has 400-mile range, charges up to 400 kW](https://arstechnica.com/cars/2026/01/volvo-says-new-ex60-has-400-mile-range-charges-up-to-400-kw/) (2026-01-08)
-- [NASA considers evacuating ailing crew member from International Space Station](https://arstechnica.com/space/2026/01/nasa-postpones-space-station-spacewalk-due-to-crew-members-medical-concern/) (2026-01-08)
-- [Ford is getting ready to put AI assistants in its cars](https://arstechnica.com/cars/2026/01/in-car-ai-assistant-coming-to-fords-and-lincolns-in-2027/) (2026-01-08)
-- [Samsung’s Ballie home robot, once promised for summer 2025, gets grim update](https://arstechnica.com/gadgets/2026/01/samsung-squashes-hopes-that-it-will-release-its-ballie-home-robot/) (2026-01-07)
-- [AI starts autonomously writing prescription refills in Utah](https://arstechnica.com/health/2026/01/utah-allows-ai-to-autonomously-prescribe-medication-refills/) (2026-01-07)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [America’s new dietary guidelines ignore decades of scientific research](https://www.technologyreview.com/2026/01/08/1130905/americas-diet-guidelines-ignore-scientific-research-red-meat-beef-tallow/) (2026-01-08)
+- [The Download: mimicking pregnancy’s first moments in a lab, and AI parameters explained](https://www.technologyreview.com/2026/01/08/1130880/the-download-mimicking-pregnancys-first-moments-in-a-lab-and-ai-parameters-explained/) (2026-01-08)
+- [Using unstructured data to fuel enterprise AI success](https://www.technologyreview.com/2026/01/08/1129506/using-unstructured-data-to-fuel-enterprise-ai-success/) (2026-01-08)
 - [What new legal challenges mean for the future of US offshore wind](https://www.technologyreview.com/2026/01/08/1130868/legal-challenges-offshore-wind/) (2026-01-08)
 - [Deploying a hybrid approach to Web3 in the AI era](https://www.technologyreview.com/2026/01/07/1129490/deploying-a-hybrid-approach-to-web3-in-the-ai-era/) (2026-01-07)
-- [The Download: war in Europe, and the company that wants to cool the planet](https://www.technologyreview.com/2026/01/07/1130806/the-download-war-in-europe-and-the-company-that-wants-to-cool-the-planet/) (2026-01-07)
-- [LLMs contain a LOT of parameters. But what’s a parameter?](https://www.technologyreview.com/2026/01/07/1130795/what-even-is-a-parameter/) (2026-01-07)
-- [The man who made India digital isn’t done yet](https://www.technologyreview.com/2026/01/07/1129748/aadhaar-nandan-nilekani-india-digital-biometric-identity-data/) (2026-01-07)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Organizational Autoimmune Disorders](https://dev.to/linkbenjamin/organizational-autoimmune-disorders-3ec2) (2026-01-08)
-- [What CEO retreats actually change for engineering execution](https://dev.to/imperium_by_edstellar/what-ceo-retreats-actually-change-for-engineering-execution-5a3f) (2026-01-08)
-- [Digital Twin Documentation Doesn't Scale - Here's Why](https://dev.to/ronny_elsner_7g/digital-twin-documentation-doesnt-scale-heres-why-35lb) (2026-01-08)
-- [I Tried to Beat WebAssembly With Node.js](https://dev.to/sfundomhlungu/i-tried-to-beat-webassembly-with-nodejs-499o) (2026-01-08)
-- [The Disappearing Blockchain](https://dev.to/rawveg/the-disappearing-blockchain-3k38) (2026-01-08)
+- [Type-Safe By Design: Architecting Applications That Make Bugs Impossible](https://dev.to/tarunmj6/type-safe-by-design-architecting-applications-that-make-bugs-impossible-2fi7) (2026-01-08)
+- [The Ultimate Guide to Effective Meeting Summaries: From Chaos to Clarity](https://dev.to/anas_kayssi/the-ultimate-guide-to-effective-meeting-summaries-from-chaos-to-clarity-13dc) (2026-01-08)
+- [When is a side project worth committing to?](https://dev.to/ben/when-is-a-side-project-worth-committing-to-5ec7) (2026-01-08)
+- [Hacked WordPress Site? Here’s What to Do Before Google Penalizes You](https://dev.to/mustafa_iqbal_decae31512c/hacked-wordpress-site-heres-what-to-do-before-google-penalizes-you-59d1) (2026-01-08)
+- [Memoization in React: Or How I Thought I Optimized My App (But Mostly Just Felt Productive)](https://dev.to/mrfrontenddev/memoization-in-react-or-how-i-thought-i-optimized-my-app-but-mostly-just-felt-productive-g72) (2026-01-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [6 Python Scripts I Never Expected Anyone to Care About](https://python.plainenglish.io/6-python-scripts-i-never-expected-anyone-to-care-about-0b25426294b5?source=rss------programming-5) (2026-01-08)
-- [Next.js App Router: Everything I Wish I Knew Before Moving from /pages](https://javascript.plainenglish.io/next-js-app-router-everything-i-wish-i-knew-before-moving-from-pages-1bf860354753?source=rss------programming-5) (2026-01-08)
-- [Frontend in 2026 Is Not What You Think — Here’s What Developers Must Learn](https://javascript.plainenglish.io/frontend-in-2026-is-not-what-you-think-heres-what-developers-must-learn-fda9705c4be8?source=rss------programming-5) (2026-01-08)
-- [300 Followers, 99 Downloads, and 0 Hacks](https://python.plainenglish.io/300-followers-99-downloads-and-0-hacks-da8e756fd973?source=rss------programming-5) (2026-01-08)
-- [Residential Property In Noida Designed For Everyday Comfort](https://medium.com/@bestpropertysale/residential-property-in-noida-designed-for-everyday-comfort-bc1941230add?source=rss------programming-5) (2026-01-08)
+- [La Arquitectura de la Eficiencia: Más allá del Scripting con RPA y Python](https://medium.com/@bairespython45/la-arquitectura-de-la-eficiencia-m%C3%A1s-all%C3%A1-del-scripting-con-rpa-y-python-a3f0e4294ee7?source=rss------programming-5) (2026-01-08)
+- [Why Brazilian Developers Are Leading WebAssembly Innovation](https://medium.com/@osmion/why-brazilian-developers-are-leading-webassembly-innovation-37cf663ad061?source=rss------programming-5) (2026-01-08)
+- [Beyond Strings: Customizing the Format Mini-Language (__format__)](https://medium.com/@tihomir.manushev/beyond-strings-customizing-the-format-mini-language-format-06ed69129b0a?source=rss------programming-5) (2026-01-08)
+- [Webb3D Technology & Media](https://medium.com/@shettyme21.com/webb3d-technology-media-a0a83761bb4e?source=rss------programming-5) (2026-01-08)
+- [Measuring API Performance with Execution Timing in Template OnionAPI](https://medium.com/scrum-and-coke/measuring-api-performance-with-execution-timing-in-template-onionapi-7b5d6d1ed2e1?source=rss------programming-5) (2026-01-08)
 
 </details>
 
@@ -130,22 +130,22 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
 - [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
 - [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 - [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
-- [Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025](https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/) (2025-12-10)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [AI Copilot Keeps Berkeley’s X-Ray Particle Accelerator on Track](https://blogs.nvidia.com/blog/ai-copilot-berkeley-x-ray-particle-accelerator/) (2026-01-08)
+- [Japan Science and Technology Agency Develops NVIDIA-Powered Moonshot Robot for Elderly Care](https://blogs.nvidia.com/blog/japan-science-technology-agency-develops-moonshot-robot/) (2026-01-08)
+- [More Ways to Play, More Games to Love — GeForce NOW Wraps CES With Linux Support, Fire TV App, Flight Stick Controls](https://blogs.nvidia.com/blog/geforce-now-thursday-ces-2026-recap/) (2026-01-08)
 - [Steel, Sensors and Silicon: How Caterpillar Is Bringing Edge AI to the Jobsite](https://blogs.nvidia.com/blog/caterpillar-ces-2026/) (2026-01-07)
 - [From Warehouse to Wallet: New State of AI in Retail and CPG Survey Uncovers How AI Is Rewiring Supply Chains and Customer Experiences](https://blogs.nvidia.com/blog/ai-in-retail-cpg-survey-2026/) (2026-01-07)
-- [NVIDIA Brings GeForce RTX Gaming to More Devices With New GeForce NOW Apps for Linux PC and Amazon Fire TV](https://blogs.nvidia.com/blog/geforce-now-ces-2026/) (2026-01-06)
-- [NVIDIA RTX Accelerates 4K AI Video Generation on PC With LTX-2 and ComfyUI Upgrades](https://blogs.nvidia.com/blog/rtx-ai-garage-ces-2026-open-models-video-generation/) (2026-01-06)
-- [NVIDIA DLSS 4.5, Path Tracing and G-SYNC Pulsar Supercharge Gameplay With Enhanced Performance and Visuals](https://blogs.nvidia.com/blog/dlss-path-tracing-g-sync-pulsar-ces-2026/) (2026-01-06)
 
 </details>
 
@@ -328,11 +328,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [AI is reshaping DevSecOps: Attend GitLab Transcend to see what’s next](https://about.gitlab.com/blog/ai-is-reshaping-devsecops-attend-gitlab-transcend-to-see-whats-next/) (2026-01-08)
+- [How IIT Bombay students are coding the future with GitLab](https://about.gitlab.com/blog/how-iit-bombay-students-code-future-with-gitlab/) (2026-01-08)
 - [OWASP Top 10 2025: What's changed and why it matters](https://about.gitlab.com/blog/2025-owasp-top-10-whats-changed-and-why-it-matters/) (2026-01-07)
 - [AI-powered vulnerability triaging with GitLab Duo Security Agent](https://about.gitlab.com/blog/vulnerability-triage-made-simple-with-gitlab-security-analyst-agent/) (2026-01-06)
 - [Building trust in agentic tools: What we learned from our users](https://about.gitlab.com/blog/building-trust-in-agentic-tools-what-we-learned-from-our-users/) (2026-01-05)
-- [GitLab 18.7: Advancing AI automation, governance, and developer experience](https://about.gitlab.com/blog/gitlab-18-7-advancing-ai-automation/) (2025-12-18)
-- [Taming tool sprawl: How to boost university IT productivity](https://about.gitlab.com/blog/taming-tool-sprawl-how-to-boost-university-it-productivity/) (2025-12-15)
 
 </details>
 
@@ -362,36 +362,37 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Behind the Builder: Justinus Kho, Staff Product Data Analyst
-](
-https://www.twilio.com/en-us/blog/company/spotlights/behind-the-builder-Justinus-Twilio
-) (2026-01-07)
-- [
 How to Implement Call Forwarding in Go
 ](
 https://www.twilio.com/en-us/blog/developers/community/how-to-implement-call-forwarding-in-go
 ) (2026-01-05)
 - [
-How to Code Video Games: A Beginner's Guide
+How to Use Twilio Verify Over Interconnect
 ](
-https://www.twilio.com/en-us/blog/how-to-code-video-games
-) (2026-01-05)
+https://www.twilio.com/en-us/blog/developers/tutorials/product/use-verify-over-interconnect
+) (2025-12-17)
 - [
-5+ reasons to use VoIP call centers in 2026 (and beyond)
+Build a Twilio Whatsapp + Pipedrive Integration
 ](
-https://www.twilio.com/en-us/blog/insights/cloud-comms/reasons-to-have-voip-call-center
-) (2025-12-30)
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/build-twilio-whatsapp-pipedrive-integration
+) (2025-12-17)
 - [
-Broadcast Text Messaging: What Is It & How to Use It
+Open Sourcing the Twilio Docs AI Buddy Prompts: Empowering Technical Writers with Smarter AI Tools
 ](
-https://www.twilio.com/en-us/blog/what-is-broadcast-messaging
-) (2025-12-27)
+https://www.twilio.com/en-us/blog/developers/open-source-docs-ai-buddy-prompts
+) (2025-12-17)
+- [
+Building the Future Together: Introducing the Twilio Partner Advisory Board
+](
+https://www.twilio.com/en-us/blog/partners/2026-twilio-partner-advisory-board
+) (2025-12-16)
 
 </details>
 
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Fact or Fiction: Eight Myths About Auth0 For B2B](https://auth0.com/blog/eight-myths-about-Auth0-B2B/) (2026-01-08)
 - [Model Context Protocol Nov 2025 Specification Update: CIMD, XAA, and Security](https://auth0.com/blog/mcp-november-2025-specification-update/) (2026-01-07)
 - [Build an AI Assistant with LangGraph, Next.js, and Auth0 Connected Accounts](https://auth0.com/blog/ai-assistant-langgraph-nextjs-slack-github/) (2025-12-19)
 - [Why MCP’s Move Away from Server-Sent Events Simplifies Security
@@ -400,7 +401,6 @@ https://www.twilio.com/en-us/blog/what-is-broadcast-messaging
 
 ](https://auth0.com/blog/mcp-streamable-http/) (2025-12-19)
 - [Bulletproof Hosting Defense: Mitigating the Proxy Threat with Threat Intelligence](https://auth0.com/blog/mitigating-bulletproof-hosting/) (2025-12-18)
-- [Auth0 My Account API: Let Users Manage Their Own Account](https://auth0.com/blog/auth0-my-account-api/) (2025-12-18)
 
 </details>
 
@@ -462,11 +462,11 @@ https://www.twilio.com/en-us/blog/what-is-broadcast-messaging
 <details>
 <summary>🚀 Apollo GraphQL</summary>
 
+- [How N-able Certified 1300% Growth with Apollo](https://www.apollographql.com/blog/how-n-able-certified-1300-growth-with-apollo) (2026-01-08)
 - [End of Support for Router v1.x; Long-Term Support (LTS) Policy Update](https://www.apollographql.com/blog/end-of-support-for-router-v1-x-long-term-support-lts-policy-update) (2025-12-19)
 - [Building Apps for ChatGPT with Apollo MCP Server and Apollo Client](https://www.apollographql.com/blog/building-apps-for-chatgpt-with-apollo-mcp-server-and-apollo-client) (2025-12-18)
 - [Apollo Strengthens Its San Francisco Presence for the Agentic Era](https://www.apollographql.com/blog/apollo-strengthens-its-san-francisco-presence-for-the-agentic-era) (2025-12-02)
 - [How Delivery Hero Accelerates UX Experiments with Server-Driven UI and Apollo](https://www.apollographql.com/blog/how-delivery-hero-accelerates-ux-experiments-with-server-driven-ui-and-apollo) (2025-12-01)
-- [How Block Scaled Graph Adoption with Apollo and AI](https://www.apollographql.com/blog/how-block-scaled-graph-adoption-with-apollo-and-ai) (2025-11-24)
 
 </details>
 
@@ -506,11 +506,11 @@ https://www.twilio.com/en-us/blog/what-is-broadcast-messaging
 <details>
 <summary>💬 Slack API</summary>
 
-- [AI Enterprise Search: Top Features and Tools in 2026](https://slack.com/blog/productivity/ai-enterprise-search-top-features-and-tools-in-2025) (2025-12-23)
-- [Slack Feature Drop: New Innovations That Make Work Feel Like a Gift](https://slack.com/blog/news/feature-drop-dec25) (2025-12-22)
-- [Securing the Agentic Enterprise](https://slack.com/blog/transformation/securing-the-agentic-enterprise) (2025-12-17)
-- [Why Your AI Is Advancing — and Your Enterprise Isn’t](https://slack.com/blog/transformation/five-friction-points-enterprise-ai) (2025-12-16)
-- [Enterprise Search: How to Find Anything at Work with One Query](https://slack.com/blog/productivity/enterprise-search) (2025-12-15)
+- [12 Project Management Techniques for Better Collaboration and Efficiency](https://slack.com/blog/productivity/project-management-techniques) (2026-01-07)
+- [Best Team Collaboration Tools for Productivity in 2026](https://slack.com/blog/collaboration/best-collaboration-tools) (2026-01-07)
+- [What is a Knowledge Graph?](https://slack.com/blog/developers/knowledge-graph) (2026-01-05)
+- [Eight Active Listening Strategies for Better Communication](https://slack.com/blog/collaboration/active-listening) (2026-01-05)
+- [Five employee engagement models for a motivated workplace](https://slack.com/blog/transformation/employee-engagement-model) (2026-01-05)
 
 </details>
 
@@ -561,44 +561,44 @@ https://www.twilio.com/en-us/blog/what-is-broadcast-messaging
 <details>
 <summary>🤖 AI News</summary>
 
+- [“Dr AI, am I healthy?” 59% of Brits rely on AI for self-diagnosis](https://www.artificialintelligence-news.com/news/dr-ai-am-i-healthy-59-of-brits-rely-on-ai-for-self-diagnosis/) (2026-01-08)
 - [2026 to be the year of the agentic AI intern](https://www.artificialintelligence-news.com/news/agent-ai-as-the-intern-in-2026-prediction-by-nexos-ai/) (2026-01-08)
 - [Bosch’s €2.9 billion AI investment and shifting manufacturing priorities](https://www.artificialintelligence-news.com/news/bosch-e2-9-billion-ai-investment-and-shifting-manufacturing-priorities/) (2026-01-08)
 - [Agentic AI scaling requires new memory architecture](https://www.artificialintelligence-news.com/news/agentic-ai-scaling-requires-new-memory-architecture/) (2026-01-07)
 - [Optimism for AI-powered productivity: Deloitte](https://www.artificialintelligence-news.com/news/deloitte-survey-takes-cfo-and-it-temperature-around-technology-and-ai/) (2026-01-07)
-- [Grab brings robotics in-house to manage delivery costs](https://www.artificialintelligence-news.com/news/grab-brings-robotics-in-house-to-manage-delivery-costs/) (2026-01-07)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Beyond Prompting: The Power of Context Engineering](https://towardsdatascience.com/beyond-prompting-the-power-of-context-engineering/) (2026-01-08)
+- [Retrieval for Time-Series: How Looking Back Improves Forecasts](https://towardsdatascience.com/retrieval-for-time-series-how-looking-back-improves-forecasts/) (2026-01-08)
+- [How to Improve the Performance of Visual Anomaly Detection Models](https://towardsdatascience.com/how-to-improve-the-performance-of-visual-anomaly-detection-models/) (2026-01-08)
 - [Faster Is Not Always Better: Choosing the Right PostgreSQL Insert Strategy in Python (+Benchmarks)](https://towardsdatascience.com/faster-is-not-always-better-choosing-the-right-postgresql-insert-strategy-in-python-benchmarks/) (2026-01-08)
 - [HNSW at Scale: Why Your RAG System Gets Worse as the Vector Database Grows](https://towardsdatascience.com/hnsw-at-scale-why-your-rag-system-gets-worse-as-the-vector-database-grows/) (2026-01-07)
-- [I Evaluated Half a Million Credit Records with Federated Learning. Here’s What I Found](https://towardsdatascience.com/i-evaluated-half-a-million-credit-records-with-federated-learning-heres-what-i-found/) (2026-01-07)
-- [Probabilistic Multi-Variant Reasoning: Turning Fluent LLM Answers Into Weighted Options](https://towardsdatascience.com/probabilistic-multi-variant-reasoning-turning-fluent-llm-answers-into-weighted-options/) (2026-01-07)
-- [Why Supply Chain is the Best Domain for Data Scientists in 2026 (And How to Learn It)](https://towardsdatascience.com/why-supply-chain-is-the-best-domain-for-data-scientists-in-2026-and-how-to-learn-it/) (2026-01-07)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [8 FREE Google AI Tools to Enhance your Workflow](https://www.analyticsvidhya.com/blog/2026/01/free-google-ai-tools/) (2026-01-08)
+- [10 RAG Projects That Actually Teach You Retrieval](https://www.analyticsvidhya.com/blog/2026/01/rag-projects/) (2026-01-08)
 - [Win 2026! 9 AI Prompts to Enter Beast Mode This New Year](https://www.analyticsvidhya.com/blog/2026/01/win-2026-9-ai-prompts-to-enter-beast-mode-this-new-year/) (2026-01-07)
 - [10 Python Projects for Beginners](https://www.analyticsvidhya.com/blog/2026/01/beginner-python-projects/) (2026-01-07)
 - [81 Jobs that AI Cannot Replace in 2026](https://www.analyticsvidhya.com/blog/2026/01/jobs-ai-cannot-replace/) (2026-01-06)
-- [Dummy Variable Trap in Machine Learning Explained Simply](https://www.analyticsvidhya.com/blog/2026/01/dummy-variable-trap-in-machine-learning/) (2026-01-06)
-- [30 Best Data Science Books to Read in 2026](https://www.analyticsvidhya.com/blog/2026/01/best-data-science-books-to-read/) (2026-01-05)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Powerful Local AI Automations with n8n, MCP and Ollama](https://www.kdnuggets.com/powerful-local-ai-automations-with-n8n-mcp-and-ollama) (2026-01-08)
+- [10 Most Popular GitHub Repositories for Learning AI](https://www.kdnuggets.com/10-most-popular-github-repositories-for-learning-ai) (2026-01-08)
 - [Vibe Code Reality Check: What You Can Actually Build with Only AI](https://www.kdnuggets.com/vibe-code-reality-check-what-you-can-actually-build-with-only-ai) (2026-01-07)
 - [Data Scientist vs AI Engineer: Which Career Should You Choose in 2026?](https://www.kdnuggets.com/data-scientist-vs-ai-engineer-which-career-should-you-choose-in-2026) (2026-01-07)
 - [Top 7 n8n Workflow Templates for Data Science](https://www.kdnuggets.com/top-7-n8n-workflow-templates-for-data-science) (2026-01-07)
-- [What To Look For In A Cloud Services Provider (Sponsored)](https://bit.ly/4q97Tmv) (2026-01-06)
-- [The 10 AI Developments That Defined 2025](https://www.kdnuggets.com/the-10-ai-developments-that-defined-2025) (2026-01-06)
 
 </details>
 
