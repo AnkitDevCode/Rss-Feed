@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Waymo is rebranding its Zeekr robotaxi](https://techcrunch.com/2026/01/07/waymo-is-rebranding-its-zeekr-robotaxi/) (2026-01-08)
+- [Google and Character.AI negotiate first major settlements in teen chatbot death cases](https://techcrunch.com/2026/01/07/google-and-character-ai-negotiate-first-major-settlements-in-teen-chatbot-death-cases/) (2026-01-08)
 - [Ford has an AI assistant and new hands-free BlueCruise tech on the way](https://techcrunch.com/2026/01/07/ford-has-an-ai-assistant-and-new-hands-free-bluecruise-tech-on-the-way/) (2026-01-08)
 - [Discord and Mercor investor Niko Bonatsos departs General Catalyst, plans new VC firm](https://techcrunch.com/2026/01/07/discord-and-mercor-investor-niko-bonatsos-departs-general-catalyst-plans-new-vc-firm/) (2026-01-07)
 - [Larry Page loosens business ties to CA amid state’s proposed wealth tax, report](https://techcrunch.com/2026/01/07/larry-page-loosens-business-ties-to-ca-amid-states-proposed-wealth-tax-report/) (2026-01-07)
-- [Yes, LinkedIn banned AI agent startup Artisan, but now it’s back](https://techcrunch.com/2026/01/07/yes-linkedin-banned-ai-agent-startup-artisan-but-now-its-back/) (2026-01-07)
-- [Roku’s $3 streaming service Howdy will be coming to other platforms, CEO says](https://techcrunch.com/2026/01/07/rokus-3-streaming-service-howdy-will-be-coming-to-other-platforms-ceo-says/) (2026-01-07)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Play Aardwolf MUD](https://www.aardwolf.com/) (2026-01-07)
-- [ICE Is Going on a Surveillance Shopping Spree](https://www.eff.org/deeplinks/2026/01/ice-going-surveillance-shopping-spree) (2026-01-07)
-- [2026 Predictions Scorecard](https://rodneybrooks.com/predictions-scorecard-2026-january-01/) (2026-01-07)
-- [My first paper: A practical implementation of Rubiks cube based passkeys](https://ieeexplore.ieee.org/document/11280260) (2026-01-07)
-- [So you wanna de-bog yourself (2024)](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself) (2026-01-07)
+- [Covid-19 leaves a lasting mark on the human brain](https://news.griffith.edu.au/2025/12/16/covid-19-leaves-a-lasting-mark-on-the-human-brain/) (2026-01-08)
+- [Project Patchouli: Open-source electromagnetic drawing tablet hardware](https://patchouli.readthedocs.io/en/latest/) (2026-01-08)
+- [Show HN: Lean4 proof that SSOT requires definition-time hooks and introspection](https://zenodo.org/records/18177320) (2026-01-08)
+- [Go.sum is not a lockfile](https://words.filippo.io/gosum/) (2026-01-08)
+- [Intricuit: A touchscreen add-on for Mac laptops](https://intricuit.com) (2026-01-08)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [A crew member’s “medical concern” foils a planned spacewalk outside the ISS](https://arstechnica.com/space/2026/01/nasa-postpones-space-station-spacewalk-due-to-crew-members-medical-concern/) (2026-01-08)
+- [Ford is getting ready to put AI assistants in its cars](https://arstechnica.com/cars/2026/01/in-car-ai-assistant-coming-to-fords-and-lincolns-in-2027/) (2026-01-08)
 - [Samsung’s Ballie home robot, once promised for summer 2025, gets grim update](https://arstechnica.com/gadgets/2026/01/samsung-squashes-hopes-that-it-will-release-its-ballie-home-robot/) (2026-01-07)
 - [AI starts autonomously writing prescription refills in Utah](https://arstechnica.com/health/2026/01/utah-allows-ai-to-autonomously-prescribe-medication-refills/) (2026-01-07)
 - [Warner Bros. sticks with Netflix merger, calls Paramount’s $108B bid “illusory”](https://arstechnica.com/tech-policy/2026/01/warner-bros-sticks-with-netflix-merger-calls-paramounts-108b-bid-illusory/) (2026-01-07)
-- [Bose open-sources its SoundTouch home theater smart speakers ahead of end-of-life](https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/) (2026-01-07)
-- [Expired certificate completely breaks macOS Logitech apps, user customizations](https://arstechnica.com/gadgets/2026/01/expired-certificate-completely-breaks-macos-logitech-apps-user-customizations/) (2026-01-07)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [A simple and cool CSS animation, new year and good to be back!](https://dev.to/renancferro/a-simple-and-cool-css-animation-new-year-and-good-to-be-back-4mbl) (2026-01-08)
-- [Go in the Cloud: Deploying Microservices with Docker & Kubernetes](https://dev.to/djamware_tutorial_eba1a61/go-in-the-cloud-deploying-microservices-with-docker-kubernetes-4a5c) (2026-01-08)
-- [Won't LLMs eventually train on themselves? It'll slowly decline in output..](https://dev.to/intercepted16/wont-llms-eventually-train-on-themselves-itll-slowly-decline-in-output-6d7) (2026-01-08)
-- [Real-Time Leaderboards: How to Boost Fitness Engagement Through Smart Data Architectures](https://dev.to/wellallytech/real-time-leaderboards-how-to-boost-fitness-engagement-through-smart-data-architectures-2jb6) (2026-01-08)
-- [When I Discovered Recursive Intelligence](https://dev.to/fwdslsh/rhizas-kernel-chronicles-when-i-discovered-recursive-intelligence-io8) (2026-01-08)
+- [Top APM Tools in 2026: What Every Developer and Engineering Team Should Know](https://dev.to/olivia_madison_b0ad7090ad/top-apm-tools-in-2026-what-every-developer-and-engineering-team-should-know-1dg0) (2026-01-08)
+- [Solved: Hot take: The outage isn’t the problem everyone going down at once is](https://dev.to/techresolve/solved-hot-take-the-outage-isnt-the-problem-everyone-going-down-at-once-is-2hkp) (2026-01-08)
+- [Flutter Dio Interceptor for Caching API Responses](https://dev.to/rshnkunwar/flutter-dio-interceptor-for-caching-api-responses-1db3) (2026-01-08)
+- [Apache Airflow for Production: Essential Concepts Every Developer Should Know](https://dev.to/datatechbridge/apache-airflow-for-production-essential-concepts-every-developer-should-know-2n1j) (2026-01-08)
+- [Vibecoding On‑Chain — Using AI to Prototype Solidity Contracts (Safely)](https://dev.to/ribhavmodi/vibecoding-on-chain-using-ai-to-prototype-solidity-contracts-safely-3n5i) (2026-01-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Tool Boundaries for Agents: When to Call Tools + How to Design Tool I/O (So Your System Stops…](https://medium.com/@anindyasinghobi/tool-boundaries-for-agents-when-to-call-tools-how-to-design-tool-i-o-so-your-system-stops-1a5400414013?source=rss------programming-5) (2026-01-08)
-- [7 Kotlin Syntax Patterns That Crush 90% of Coding Interview Candidates (Google Engineers Reveal…](https://medium.com/@alaxhenry0121/7-kotlin-syntax-patterns-that-crush-90-of-coding-interview-candidates-google-engineers-reveal-f330da63eff3?source=rss------programming-5) (2026-01-08)
-- [The 7 Data Structures That Separate Android Developers Who Get Hired at FAANG from Those Who Don’t](https://medium.com/@alaxhenry0121/the-7-data-structures-that-separate-android-developers-who-get-hired-at-faang-from-those-who-dont-4df13af5a3f7?source=rss------programming-5) (2026-01-08)
-- [Building a Market Predictor Indicator Using Nobel Prize-Winning Physics: A Deep Dive into Neural…](https://medium.com/@jsgastoniriartecabrera/building-a-market-predictor-indicator-using-nobel-prize-winning-physics-a-deep-dive-into-neural-59214822a6a6?source=rss------programming-5) (2026-01-08)
-- [Serverless Event Sourcing: A Refactoring Blueprint for 2026](https://beckmoulton.medium.com/serverless-event-sourcing-a-refactoring-blueprint-for-2026-2d8bd3dbb7c5?source=rss------programming-5) (2026-01-08)
+- [Dera Mağarası](https://mediumturkiye.com/dera-ma%C4%9Faras%C4%B1-58a400850859?source=rss------programming-5) (2026-01-08)
+- [Immutability & Design in Java](https://medium.com/codetodeploy/immutability-design-in-java-54e9cb1a06bd?source=rss------programming-5) (2026-01-08)
+- [ React Native’s New Architecture (Fabric + TurboModules + JSI): A Complete Deep Dive](https://medium.com/@avantika0/react-natives-new-architecture-fabric-turbomodules-jsi-a-complete-deep-dive-5a864bfac6b8?source=rss------programming-5) (2026-01-08)
+- [ Why Use TypeScript? Benefits for Scalable JavaScript Development⚡️](https://developer-in.medium.com/why-use-typescript-benefits-for-scalable-javascript-development-%EF%B8%8F-f3b41f4c8c7f?source=rss------programming-5) (2026-01-08)
+- [Understanding Distributed Systems: Reliability and the CAP Theorem](https://towardsdev.com/understanding-distributed-systems-reliability-and-the-cap-theorem-19e5f37a0f78?source=rss------programming-5) (2026-01-08)
 
 </details>
 
@@ -197,7 +197,7 @@
 <summary>🟩 Node.js Blog</summary>
 
 - [Node.js v24.12.0 (LTS)](https://nodejs.org/en/blog/release/v24.12.0) (2025-12-10)
-- [Wednesday, January 7, 2026 Security Releases](https://nodejs.org/en/blog/vulnerability/december-2025-security-releases) (2025-12-08)
+- [Thursday, January 8, 2026 Security Releases](https://nodejs.org/en/blog/vulnerability/december-2025-security-releases) (2025-12-08)
 - [Node.js v20.19.6 (LTS)](https://nodejs.org/en/blog/release/v20.19.6) (2025-11-25)
 - [Node.js v25.2.1 (Current)](https://nodejs.org/en/blog/release/v25.2.1) (2025-11-17)
 - [Node.js v24.11.1 (LTS)](https://nodejs.org/en/blog/release/v24.11.1) (2025-11-11)
@@ -506,11 +506,11 @@ https://www.twilio.com/en-us/blog/partners/2026-twilio-partner-advisory-board
 <details>
 <summary>💬 Slack API</summary>
 
-- [12 Project Management Techniques for Better Collaboration and Efficiency](https://slack.com/blog/productivity/project-management-techniques) (2026-01-07)
-- [Best Team Collaboration Tools for Productivity in 2026](https://slack.com/blog/collaboration/best-collaboration-tools) (2026-01-07)
-- [What is a Knowledge Graph?](https://slack.com/blog/developers/knowledge-graph) (2026-01-05)
-- [Eight Active Listening Strategies for Better Communication](https://slack.com/blog/collaboration/active-listening) (2026-01-05)
-- [Five employee engagement models for a motivated workplace](https://slack.com/blog/transformation/employee-engagement-model) (2026-01-05)
+- [AI Enterprise Search: Top Features and Tools in 2026](https://slack.com/blog/productivity/ai-enterprise-search-top-features-and-tools-in-2025) (2025-12-23)
+- [Slack Feature Drop: New Innovations That Make Work Feel Like a Gift](https://slack.com/blog/news/feature-drop-dec25) (2025-12-22)
+- [Securing the Agentic Enterprise](https://slack.com/blog/transformation/securing-the-agentic-enterprise) (2025-12-17)
+- [Why Your AI Is Advancing — and Your Enterprise Isn’t](https://slack.com/blog/transformation/five-friction-points-enterprise-ai) (2025-12-16)
+- [Enterprise Search: How to Find Anything at Work with One Query](https://slack.com/blog/productivity/enterprise-search) (2025-12-15)
 
 </details>
 
@@ -550,7 +550,7 @@ https://www.twilio.com/en-us/blog/partners/2026-twilio-partner-advisory-board
 <details>
 <summary>🤗 Hugging Face</summary>
 
-- [Small Yet Mighty: Improve Accuracy In Multimodal Search and Visual Document Retrieval with Llama Nemotron RAG Models ](https://huggingface.co/blog/nvidia/llama-nemotron-vl-1b) (2026-01-06)
+- [NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI](https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning) (2026-01-05)
 - [Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture](https://huggingface.co/blog/tiiuae/falcon-h1-arabic) (2026-01-05)
 - [NVIDIA brings agents to life with DGX Spark and Reachy Mini](https://huggingface.co/blog/nvidia-reachy-mini) (2026-01-05)
 - [AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems](https://huggingface.co/blog/ServiceNow-AI/aprielguard) (2025-12-23)
