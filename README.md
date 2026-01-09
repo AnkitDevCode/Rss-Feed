@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Tumblr removed from Apple App Store over abuse images (2018)](https://www.bbc.com/news/technology-46275138) (2026-01-09)
-- [Expired certificate breaks macOS Logitech apps](https://arstechnica.com/gadgets/2026/01/expired-certificate-completely-breaks-macos-logitech-apps-user-customizations/) (2026-01-08)
-- [Embassy: Modern embedded framework, using Rust and async](https://github.com/embassy-rs/embassy) (2026-01-08)
-- [Richard D. James aka Aphex Twin speaks to Tatsuya Takahashi](https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/) (2026-01-08)
-- [Mux (YC W16) is hiring a platform engineer that cares about (internal) DX](https://www.mux.com/jobs) (2026-01-08)
+- [The No Fakes Act Has a "Fingerprinting" Trap That Kills Open Source](https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/) (2026-01-09)
+- [Anthropic blocks third-party use of Claude Code subscriptions](https://github.com/anomalyco/opencode/issues/7410) (2026-01-09)
+- [Show HN: Executable Markdown files with Unix pipes](https://news.ycombinator.com/item?id=46549444) (2026-01-09)
+- [Logistics Is Dying; Or – Dude, Where's My Mail?](https://lagomor.ph/2026/01/logistics-is-dying-or-dude-wheres-my-mail/) (2026-01-09)
+- [Why I left iNaturalist](https://kueda.net/blog/2026/01/06/why-i-left-inat/) (2026-01-09)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [NASA orders “controlled medical evacuation” from the International Space Station](https://arstechnica.com/space/2026/01/in-a-first-nasa-orders-astronauts-home-after-unspecified-medical-issue/) (2026-01-09)
 - [Michigan man learns the hard way that “catch a cheater” spyware apps aren’t legal](https://arstechnica.com/security/2026/01/michigan-man-learns-the-hard-way-that-catch-a-cheater-spyware-apps-arent-legal/) (2026-01-08)
 - [Wi-Fi advocates get win from FCC with vote to allow higher-power devices](https://arstechnica.com/tech-policy/2026/01/fcc-to-authorize-more-powerful-wireless-devices-in-6-ghz-wi-fi-band/) (2026-01-08)
 - [High RAM prices mean record-setting profits for Samsung and other memory makers](https://arstechnica.com/gadgets/2026/01/high-ram-prices-mean-record-setting-profits-for-samsung-and-other-memory-makers/) (2026-01-08)
 - [RFK Jr.’s dietary guidance: Food funnel features slab of red meat, butter](https://arstechnica.com/health/2026/01/rfk-jr-s-dietary-guidelines-beef-tallow-is-in-but-no-booze-for-breakfast/) (2026-01-08)
-- [These dogs eavesdrop on their owners to learn new words](https://arstechnica.com/science/2026/01/these-dogs-eavesdrop-on-their-owners-to-learn-new-words/) (2026-01-08)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Every ecommerce hero needs a Sidekick](https://stackoverflow.blog/2026/01/09/every-ecommerce-hero-needs-a-sidekick/) (2026-01-09)
 - [You need quality engineers to turn AI into ROI](https://stackoverflow.blog/2026/01/07/you-need-quality-engineers-to-turn-ai-into-roi/) (2026-01-07)
 - [Search engine bots crawled so AI bots could run](https://stackoverflow.blog/2026/01/06/search-engine-bots-crawled-so-ai-bots-could-run/) (2026-01-06)
 - [What’s new at Stack Overflow: January 2026](https://stackoverflow.blog/2026/01/05/what-s-new-at-stack-overflow-january-2026/) (2026-01-05)
 - [A new worst coder has entered the chat: vibe coding without code knowledge](https://stackoverflow.blog/2026/01/02/a-new-worst-coder-has-entered-the-chat-vibe-coding-without-code-knowledge/) (2026-01-02)
-- [The most dangerous shortcuts in software](https://stackoverflow.blog/2026/01/02/the-most-dangerous-shortcuts-in-software/) (2026-01-02)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Autonomous Clinical Trial compliance: Solving Protocol Bottlenecks with AI Agents](https://dev.to/exploredataaiml/autonomous-clinical-trial-compliance-solving-protocol-bottlenecks-with-ai-agents-594i) (2026-01-09)
-- [Wearable Tech Data + Better Health Insights + Building a Scalable IoT Pipeline on AWS](https://dev.to/wellallytech/wearable-tech-data-better-health-insights-building-a-scalable-iot-pipeline-on-aws-2852) (2026-01-09)
-- [Dynamic Local Persistent Volumes on Kubernetes via Open Service Broker](https://dev.to/laoshanxi/dynamic-local-persistent-volumes-on-kubernetes-via-open-service-broker-3h11) (2026-01-09)
-- [Running Native (Non-Container) Workloads on Kubernetes: A Practical Experiment](https://dev.to/laoshanxi/running-native-non-container-workloads-on-kubernetes-a-practical-experiment-12) (2026-01-09)
-- [I indexed 13M places to calculate real metro populations. Turns out 34.6M people live within 30 miles of Tokyo.](https://dev.to/investors_heaven_6798cea9/i-indexed-13m-places-to-calculate-real-metro-populations-turns-out-346m-people-live-within-30-5b7) (2026-01-09)
+- [From 7 sec to 3 sec: Reducing Load Time in a Rails-Powered Restaurant App](https://dev.to/railsfactory_sedin/from-7-sec-to-3-sec-reducing-load-time-in-a-rails-powered-restaurant-app-3e6f) (2026-01-09)
+- [Criei uma extensão para VS Code que transforma TODOs em um quadro Kanban e issues reais no Jira](https://dev.to/dantewebmaster/criei-uma-extensao-para-vs-code-que-transforma-todos-em-um-quadro-kanban-e-issues-reais-no-jira-bd8) (2026-01-09)
+- [So You're a Ruby/Python Dev Learning Rust's Option Type](https://dev.to/dev-tngsh/so-youre-a-rubypython-dev-learning-rusts-option-type-2m88) (2026-01-09)
+- [AI, Fake Reviews, and the Trust Crisis in SaaS](https://dev.to/mukul_sharma/ai-fake-reviews-and-the-trust-crisis-in-saas-2399) (2026-01-09)
+- [How I Built an Offline-First RAG System That’s 10x Faster (at 19)](https://dev.to/mounesh_k/how-i-built-an-offline-first-rag-system-thats-10x-faster-at-19-3l6i) (2026-01-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Data Structures Every Android Developer Should Master: Kotlin Interview Questions with Expert…](https://medium.com/@alaxhenry0121/data-structures-every-android-developer-should-master-kotlin-interview-questions-with-expert-517d274d290f?source=rss------programming-5) (2026-01-09)
-- [Data Structures Every Mobile Developer Should Master: Flutter Interview Questions with Expert…](https://medium.com/@alaxhenry0121/data-structures-every-mobile-developer-should-master-flutter-interview-questions-with-expert-349c02d3afa8?source=rss------programming-5) (2026-01-09)
-- [Why I Built an Enterprise-Grade NestJS Backend for B2B Payouts](https://medium.com/@tarigopulachandramouli1818/why-i-built-an-enterprise-grade-nestjs-backend-for-b2b-payouts-54c6d99c2b2d?source=rss------programming-5) (2026-01-09)
-- [Paton Assist Why numerical simulations fail — and what “viability” actually means Andrew John Paton…](https://medium.com/@andrewjp2008/paton-assist-why-numerical-simulations-fail-and-what-viability-actually-means-andrew-john-paton-17bde70d050e?source=rss------programming-5) (2026-01-09)
-- [*"Meet the Fathers of Haitian Rap & Hip-Hop: The Legendary Master Dji and FANTOM"*](https://medium.com/@BrotherswaggStudioRecords/meet-the-fathers-of-haitian-rap-hip-hop-the-legendary-master-dji-and-fantom-5617969a8333?source=rss------programming-5) (2026-01-09)
+- [How Long Does It Take to Become a SAP ABAP Developer in Kerala?](https://medium.com/@mridhulacokonet/how-long-does-it-take-to-become-a-sap-abap-developer-in-kerala-e2994c146cfc?source=rss------programming-5) (2026-01-09)
+- [LinkedHashMap in Java — More Than Just a Map](https://medium.com/@sonytanget/linkedhashmap-in-java-more-than-just-a-map-ec0062fee833?source=rss------programming-5) (2026-01-09)
+- [Backend Architecture 101: Cara Menyusun “Kota” di Balik Aplikasi Biar Nggak Gampang Macet](https://dendyr.medium.com/backend-architecture-101-cara-menyusun-kota-di-balik-aplikasi-biar-nggak-gampang-macet-5bc12d48b4c2?source=rss------programming-5) (2026-01-09)
+- [The Android 16KB Page Size Problem Explained: What Changed, Why It Broke Builds, and the Right Fix](https://gauravtakjaipur.medium.com/the-android-16kb-page-size-problem-explained-what-changed-why-it-broke-builds-and-the-right-fix-7caeeb63e0bd?source=rss------programming-5) (2026-01-09)
+- [⚡ Mastering Next.js Middleware : The Hidden Power Behind Edge-First Apps](https://medium.com/@elizacodewell72/mastering-next-js-middleware-the-hidden-power-behind-edge-first-apps-bfe21ee6c4b4?source=rss------programming-5) (2026-01-09)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
 - [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
 - [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 - [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
+- [Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025](https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/) (2025-12-10)
 
 </details>
 
@@ -539,11 +539,11 @@ https://www.twilio.com/en-us/blog/what-is-broadcast-messaging
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [Warp Specialization in Triton: Design and Roadmap](https://pytorch.org/blog/warp-specialization-in-triton-design-and-roadmap/) (2026-01-09)
 - [PyTorch 2.9: FlexAttention Optimization Practice on Intel GPUs](https://pytorch.org/blog/pytorch-2-9-flexattention-optimization-practice-on-intel-gpus/) (2026-01-08)
 - [Deploying Smarter: Hardware-Software Co-design in PyTorch](https://pytorch.org/blog/deploying-smarter-hardware-software-co-design/) (2025-12-18)
 - [Enabling Cluster Launch Control with TLX](https://pytorch.org/blog/enabling-cluster-launch-control-with-tlx/) (2025-12-17)
 - [Hybrid Models Meet SGLang: More than Full Attention](https://pytorch.org/blog/hybrid-models-meet-sglang-more-than-full-attention/) (2025-12-03)
-- [Efficient MoE Pre-training at Scale on 1K AMD GPUs with TorchTitan](https://pytorch.org/blog/efficient-moe-pre-training-at-scale-with-torchtitan/) (2025-12-01)
 
 </details>
 
@@ -572,11 +572,11 @@ https://www.twilio.com/en-us/blog/what-is-broadcast-messaging
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [TDS Newsletter: December Must-Reads on GraphRAG, Data Contracts, and More](https://towardsdatascience.com/tds-newsletter-december-must-reads-on-graphrag-data-contracts-and-more/) (2026-01-08)
 - [Beyond Prompting: The Power of Context Engineering](https://towardsdatascience.com/beyond-prompting-the-power-of-context-engineering/) (2026-01-08)
 - [Retrieval for Time-Series: How Looking Back Improves Forecasts](https://towardsdatascience.com/retrieval-for-time-series-how-looking-back-improves-forecasts/) (2026-01-08)
 - [How to Improve the Performance of Visual Anomaly Detection Models](https://towardsdatascience.com/how-to-improve-the-performance-of-visual-anomaly-detection-models/) (2026-01-08)
 - [Faster Is Not Always Better: Choosing the Right PostgreSQL Insert Strategy in Python (+Benchmarks)](https://towardsdatascience.com/faster-is-not-always-better-choosing-the-right-postgresql-insert-strategy-in-python-benchmarks/) (2026-01-08)
-- [HNSW at Scale: Why Your RAG System Gets Worse as the Vector Database Grows](https://towardsdatascience.com/hnsw-at-scale-why-your-rag-system-gets-worse-as-the-vector-database-grows/) (2026-01-07)
 
 </details>
 
