@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [OpenAI to acquire the team behind executive coaching AI tool Convogo](https://techcrunch.com/2026/01/08/openai-to-acquire-the-team-behind-executive-coaching-ai-tool-convogo/) (2026-01-08)
-- [Anduril’s Palmer Luckey thinks the future of tech is in the past](https://techcrunch.com/2026/01/08/andurils-palmer-luckey-thinks-the-future-of-tech-is-in-the-past/) (2026-01-08)
-- [Disney+ is launching short-form videos this year](https://techcrunch.com/2026/01/08/disney-is-launching-short-form-videos-this-year/) (2026-01-08)
-- [The most bizarre tech announced so far at CES 2026](https://techcrunch.com/2026/01/08/the-most-bizarre-tech-announced-so-far-at-ces-2026/) (2026-01-08)
-- [Illinois health department exposed over 700,000 residents’ personal data for years](https://techcrunch.com/2026/01/08/illinois-health-department-exposed-over-700000-residents-personal-data-for-years/) (2026-01-08)
+- [CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities ](https://techcrunch.com/2026/01/08/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/) (2026-01-09)
+- [Data security startup Cyera hits $9B valuation six months after being valued at $6B](https://techcrunch.com/2026/01/08/data-security-startup-cyera-hits-9b-valuation-six-months-after-being-valued-at-6b/) (2026-01-08)
+- [Governments grapple with the flood of non-consensual nudity on X](https://techcrunch.com/2026/01/08/governments-grapple-with-the-flood-of-non-consensual-nudity-on-x/) (2026-01-08)
+- [GTMfund has rewritten the distribution playbook for the AI era](https://techcrunch.com/2026/01/08/gtmfund-has-rewritten-the-distribution-playbook-for-the-ai-era/) (2026-01-08)
+- [Critics pan spyware maker NSO’s transparency claims amid its push to enter US market](https://techcrunch.com/2026/01/08/critics-pan-spyware-maker-nsos-transparency-claims-amid-its-push-to-enter-us-market/) (2026-01-08)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Chinese AI models have lagged the US frontier by 7 months on average since 2023](https://epoch.ai/data-insights/us-vs-china-eci) (2026-01-08)
-- [ICE's Tool to Monitor Phones in Neighborhoods](https://www.404media.co/inside-ices-tool-to-monitor-phones-in-entire-neighborhoods/) (2026-01-08)
-- [Tamarind Bio (YC W24) Is Hiring Infrastructure Engineers](https://www.ycombinator.com/companies/tamarind-bio/jobs/HPRZAz3-infrastructure-engineer) (2026-01-08)
-- [Dynamic Large Concept Models: Latent Reasoning in an Adaptive Semantic Space](https://arxiv.org/abs/2512.24617) (2026-01-08)
-- [Digital Red Queen: Adversarial Program Evolution in Core War with LLMs](https://sakana.ai/drq/) (2026-01-08)
+- [Tumblr removed from Apple App Store over abuse images (2018)](https://www.bbc.com/news/technology-46275138) (2026-01-09)
+- [Expired certificate breaks macOS Logitech apps](https://arstechnica.com/gadgets/2026/01/expired-certificate-completely-breaks-macos-logitech-apps-user-customizations/) (2026-01-08)
+- [Embassy: Modern embedded framework, using Rust and async](https://github.com/embassy-rs/embassy) (2026-01-08)
+- [Richard D. James aka Aphex Twin speaks to Tatsuya Takahashi](https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/) (2026-01-08)
+- [Mux (YC W16) is hiring a platform engineer that cares about (internal) DX](https://www.mux.com/jobs) (2026-01-08)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Most dubious uses of AI at CES 2026](https://www.theverge.com/tech/858315/most-dubious-ai-tech-ces-2026) (2026-01-08)
-- [The MAGA-approved video of an ICE killing](https://www.theverge.com/tech/858710/minneapolis-ice-shooting-trump-video-footage-social-media) (2026-01-08)
-- [The first privately funded space-based telescope is in the works](https://www.theverge.com/news/858671/schmidt-sciences-lazuli-space-telescope) (2026-01-08)
-- [Microsoft will put buy buttons directly in Copilot](https://www.theverge.com/news/858664/microsoft-copilot-ai-checkout-buy-products) (2026-01-08)
-- [Satechi’s new Slim EX keyboards have a replaceable battery](https://www.theverge.com/tech/856666/satechi-slim-ex-keyboards-removable-battery-ces-2026) (2026-01-08)
+- [Xbox’s Towerborne is switching from a free-to-play game to a paid one](https://www.theverge.com/news/859176/towerborne-launch-release-date-paid-offline) (2026-01-09)
+- [The best Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra) (2026-01-09)
+- [Pioneer Sphera is bringing Dolby Atmos in cars to the people](https://www.theverge.com/tech/858858/pioneer-sphera-ces-2026) (2026-01-08)
+- [UK Prime Minister says &#8216;we will take action&#8217; on Grok&#8217;s disgusting deepfakes](https://www.theverge.com/news/859107/uk-prime-minister-x-ai-grok-deepfakes) (2026-01-08)
+- [The best earbuds we’ve tested for 2026](https://www.theverge.com/21309820/best-wireless-earbuds) (2026-01-08)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Trump withdraws US from world’s most important climate treaty](https://arstechnica.com/science/2026/01/trump-withdraws-us-from-worlds-most-important-climate-treaty/) (2026-01-08)
-- [Former Google CEO plans to singlehandedly fund a Hubble telescope replacement](https://arstechnica.com/space/2026/01/eric-schmidt-will-massively-invest-in-private-telescopes-including-hubble-replacement/) (2026-01-08)
-- [ChatGPT falls to new data-pilfering attack as a vicious cycle in AI continues](https://arstechnica.com/security/2026/01/chatgpt-falls-to-new-data-pilfering-attack-as-a-vicious-cycle-in-ai-continues/) (2026-01-08)
-- [Google announces AI Overviews in Gmail search, experimental AI-organized inbox](https://arstechnica.com/google/2026/01/google-announces-ai-overviews-in-gmail-search-experimental-ai-organized-inbox/) (2026-01-08)
-- [Volvo says new EX60 has 400-mile range, charges up to 400 kW](https://arstechnica.com/cars/2026/01/volvo-says-new-ex60-has-400-mile-range-charges-up-to-400-kw/) (2026-01-08)
+- [Michigan man learns the hard way that “catch a cheater” spyware apps aren’t legal](https://arstechnica.com/security/2026/01/michigan-man-learns-the-hard-way-that-catch-a-cheater-spyware-apps-arent-legal/) (2026-01-08)
+- [Wi-Fi advocates get win from FCC with vote to allow higher-power devices](https://arstechnica.com/tech-policy/2026/01/fcc-to-authorize-more-powerful-wireless-devices-in-6-ghz-wi-fi-band/) (2026-01-08)
+- [High RAM prices mean record-setting profits for Samsung and other memory makers](https://arstechnica.com/gadgets/2026/01/high-ram-prices-mean-record-setting-profits-for-samsung-and-other-memory-makers/) (2026-01-08)
+- [RFK Jr.’s dietary guidance: Food funnel features slab of red meat, butter](https://arstechnica.com/health/2026/01/rfk-jr-s-dietary-guidelines-beef-tallow-is-in-but-no-booze-for-breakfast/) (2026-01-08)
+- [These dogs eavesdrop on their owners to learn new words](https://arstechnica.com/science/2026/01/these-dogs-eavesdrop-on-their-owners-to-learn-new-words/) (2026-01-08)
 
 </details>
 
@@ -75,11 +75,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Why AI is pushing developers toward typed languages](https://github.blog/ai-and-ml/llms/why-ai-is-pushing-developers-toward-typed-languages/) (2026-01-08)
 - [Agentic AI, MCP, and spec-driven development: Top blog posts of 2025](https://github.blog/developer-skills/agentic-ai-mcp-and-spec-driven-development-top-blog-posts-of-2025/) (2025-12-30)
 - [Bugs that survive the heat of continuous fuzzing](https://github.blog/security/vulnerability-research/bugs-that-survive-the-heat-of-continuous-fuzzing/) (2025-12-29)
 - [WRAP up your backlog with GitHub Copilot coding agent](https://github.blog/ai-and-ml/github-copilot/wrap-up-your-backlog-with-github-copilot-coding-agent/) (2025-12-26)
 - [Strengthening supply chain security: Preparing for the next malware campaign](https://github.blog/security/supply-chain-security/strengthening-supply-chain-security-preparing-for-the-next-malware-campaign/) (2025-12-23)
-- [5 podcast episodes to help you build with confidence in 2026](https://github.blog/open-source/maintainers/5-podcast-episodes-to-help-you-build-with-confidence-in-2026/) (2025-12-23)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Type-Safe By Design: Architecting Applications That Make Bugs Impossible](https://dev.to/tarunmj6/type-safe-by-design-architecting-applications-that-make-bugs-impossible-2fi7) (2026-01-08)
-- [The Ultimate Guide to Effective Meeting Summaries: From Chaos to Clarity](https://dev.to/anas_kayssi/the-ultimate-guide-to-effective-meeting-summaries-from-chaos-to-clarity-13dc) (2026-01-08)
-- [When is a side project worth committing to?](https://dev.to/ben/when-is-a-side-project-worth-committing-to-5ec7) (2026-01-08)
-- [Hacked WordPress Site? Here’s What to Do Before Google Penalizes You](https://dev.to/mustafa_iqbal_decae31512c/hacked-wordpress-site-heres-what-to-do-before-google-penalizes-you-59d1) (2026-01-08)
-- [Memoization in React: Or How I Thought I Optimized My App (But Mostly Just Felt Productive)](https://dev.to/mrfrontenddev/memoization-in-react-or-how-i-thought-i-optimized-my-app-but-mostly-just-felt-productive-g72) (2026-01-08)
+- [Autonomous Clinical Trial compliance: Solving Protocol Bottlenecks with AI Agents](https://dev.to/exploredataaiml/autonomous-clinical-trial-compliance-solving-protocol-bottlenecks-with-ai-agents-594i) (2026-01-09)
+- [Wearable Tech Data + Better Health Insights + Building a Scalable IoT Pipeline on AWS](https://dev.to/wellallytech/wearable-tech-data-better-health-insights-building-a-scalable-iot-pipeline-on-aws-2852) (2026-01-09)
+- [Dynamic Local Persistent Volumes on Kubernetes via Open Service Broker](https://dev.to/laoshanxi/dynamic-local-persistent-volumes-on-kubernetes-via-open-service-broker-3h11) (2026-01-09)
+- [Running Native (Non-Container) Workloads on Kubernetes: A Practical Experiment](https://dev.to/laoshanxi/running-native-non-container-workloads-on-kubernetes-a-practical-experiment-12) (2026-01-09)
+- [I indexed 13M places to calculate real metro populations. Turns out 34.6M people live within 30 miles of Tokyo.](https://dev.to/investors_heaven_6798cea9/i-indexed-13m-places-to-calculate-real-metro-populations-turns-out-346m-people-live-within-30-5b7) (2026-01-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [La Arquitectura de la Eficiencia: Más allá del Scripting con RPA y Python](https://medium.com/@bairespython45/la-arquitectura-de-la-eficiencia-m%C3%A1s-all%C3%A1-del-scripting-con-rpa-y-python-a3f0e4294ee7?source=rss------programming-5) (2026-01-08)
-- [Why Brazilian Developers Are Leading WebAssembly Innovation](https://medium.com/@osmion/why-brazilian-developers-are-leading-webassembly-innovation-37cf663ad061?source=rss------programming-5) (2026-01-08)
-- [Beyond Strings: Customizing the Format Mini-Language (__format__)](https://medium.com/@tihomir.manushev/beyond-strings-customizing-the-format-mini-language-format-06ed69129b0a?source=rss------programming-5) (2026-01-08)
-- [Webb3D Technology & Media](https://medium.com/@shettyme21.com/webb3d-technology-media-a0a83761bb4e?source=rss------programming-5) (2026-01-08)
-- [Measuring API Performance with Execution Timing in Template OnionAPI](https://medium.com/scrum-and-coke/measuring-api-performance-with-execution-timing-in-template-onionapi-7b5d6d1ed2e1?source=rss------programming-5) (2026-01-08)
+- [Data Structures Every Android Developer Should Master: Kotlin Interview Questions with Expert…](https://medium.com/@alaxhenry0121/data-structures-every-android-developer-should-master-kotlin-interview-questions-with-expert-517d274d290f?source=rss------programming-5) (2026-01-09)
+- [Data Structures Every Mobile Developer Should Master: Flutter Interview Questions with Expert…](https://medium.com/@alaxhenry0121/data-structures-every-mobile-developer-should-master-flutter-interview-questions-with-expert-349c02d3afa8?source=rss------programming-5) (2026-01-09)
+- [Why I Built an Enterprise-Grade NestJS Backend for B2B Payouts](https://medium.com/@tarigopulachandramouli1818/why-i-built-an-enterprise-grade-nestjs-backend-for-b2b-payouts-54c6d99c2b2d?source=rss------programming-5) (2026-01-09)
+- [Paton Assist Why numerical simulations fail — and what “viability” actually means Andrew John Paton…](https://medium.com/@andrewjp2008/paton-assist-why-numerical-simulations-fail-and-what-viability-actually-means-andrew-john-paton-17bde70d050e?source=rss------programming-5) (2026-01-09)
+- [*"Meet the Fathers of Haitian Rap & Hip-Hop: The Legendary Master Dji and FANTOM"*](https://medium.com/@BrotherswaggStudioRecords/meet-the-fathers-of-haitian-rap-hip-hop-the-legendary-master-dji-and-fantom-5617969a8333?source=rss------programming-5) (2026-01-09)
 
 </details>
 
@@ -163,11 +163,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Ultrahuman launches features 15% faster with Gemini in Android Studio](https://android-developers.googleblog.com/2026/01/ultrahuman-launches-features-15-faster.html) (2026-01-08)
 - [Media3 1.9.0 - What’s new](https://android-developers.googleblog.com/2025/12/media3-190-whats-new.html) (2025-12-19)
 - [Goodbye Mobile Only, Hello Adaptive: Three essential updates from 2025 for building adaptive apps](https://android-developers.googleblog.com/2025/12/goodbye-mobile-only-hello-adaptive.html) (2025-12-19)
 - [Bringing Androidify to Wear OS with Watch Face Push](https://android-developers.googleblog.com/2025/12/bringing-androidify-to-wear-os-with.html) (2025-12-18)
 - [Brighten Your Real-Time Camera Feeds with Low Light Boost](https://android-developers.googleblog.com/2025/12/brighten-your-real-time-camera-feeds.html) (2025-12-17)
-- [Build smarter apps with Gemini 3 Flash](https://android-developers.googleblog.com/2025/12/build-smarter-apps-with-gemini-3-flash.html) (2025-12-17)
 
 </details>
 
@@ -197,7 +197,7 @@
 <summary>🟩 Node.js Blog</summary>
 
 - [Node.js v24.12.0 (LTS)](https://nodejs.org/en/blog/release/v24.12.0) (2025-12-10)
-- [Thursday, January 8, 2026 Security Releases](https://nodejs.org/en/blog/vulnerability/december-2025-security-releases) (2025-12-08)
+- [Tuesday, January 13, 2026 Security Releases](https://nodejs.org/en/blog/vulnerability/december-2025-security-releases) (2025-12-08)
 - [Node.js v20.19.6 (LTS)](https://nodejs.org/en/blog/release/v20.19.6) (2025-11-25)
 - [Node.js v25.2.1 (Current)](https://nodejs.org/en/blog/release/v25.2.1) (2025-11-17)
 - [Node.js v24.11.1 (LTS)](https://nodejs.org/en/blog/release/v24.11.1) (2025-11-11)
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.35: Mutable PersistentVolume Node Affinity (alpha)](https://kubernetes.io/blog/2026/01/08/kubernetes-v1-35-mutable-pv-nodeaffinity/) (2026-01-08)
 - [Kubernetes v1.35: A Better Way to Pass Service Account Tokens to CSI Drivers](https://kubernetes.io/blog/2026/01/07/kubernetes-v1-35-csi-sa-tokens-secrets-field-beta/) (2026-01-07)
 - [Kubernetes v1.35: Extended Toleration Operators to Support Numeric Comparisons (Alpha)](https://kubernetes.io/blog/2026/01/05/kubernetes-v1-35-numeric-toleration-operators/) (2026-01-05)
 - [Kubernetes v1.35: New level of efficiency with in-place Pod restart](https://kubernetes.io/blog/2026/01/02/kubernetes-v1-35-restart-all-containers/) (2026-01-02)
 - [Kubernetes 1.35: Enhanced Debugging with Versioned z-pages APIs](https://kubernetes.io/blog/2025/12/31/kubernetes-v1-35-structured-zpages/) (2025-12-31)
-- [Kubernetes v1.35: Watch Based Route Reconciliation in the Cloud Controller Manager](https://kubernetes.io/blog/2025/12/30/kubernetes-v1-35-watch-based-route-reconciliation-in-ccm/) (2025-12-30)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>📝 Visual Studio Code</summary>
 
+- [December 2025 (version 1.108)](https://code.visualstudio.com/updates/v1_108) (2026-01-08)
 - [November 2025 (version 1.107)](https://code.visualstudio.com/updates/v1_107) (2025-12-10)
 - [Introducing the VS Code Insiders Podcast](https://code.visualstudio.com/blogs/2025/12/03/introducing-vs-code-insiders-podcast) (2025-12-03)
 - [Introducing the Visual Studio Code Private Marketplace: Your Team's Secure, Curated Extension Hub 🎉](https://code.visualstudio.com/blogs/2025/11/18/PrivateMarketplace) (2025-11-18)
 - [October 2025 (version 1.106)](https://code.visualstudio.com/updates/v1_106) (2025-11-12)
-- [Open Source AI Editor: Second Milestone](https://code.visualstudio.com/blogs/2025/11/04/openSourceAIEditorSecondMilestone) (2025-11-06)
 
 </details>
 
@@ -362,30 +362,30 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Behind the Builder: Justinus Kho, Staff Product Data Analyst
+](
+https://www.twilio.com/en-us/blog/company/spotlights/behind-the-builder-Justinus-Twilio
+) (2026-01-07)
+- [
 How to Implement Call Forwarding in Go
 ](
 https://www.twilio.com/en-us/blog/developers/community/how-to-implement-call-forwarding-in-go
 ) (2026-01-05)
 - [
-How to Use Twilio Verify Over Interconnect
+How to Code Video Games: A Beginner's Guide
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/use-verify-over-interconnect
-) (2025-12-17)
+https://www.twilio.com/en-us/blog/how-to-code-video-games
+) (2026-01-05)
 - [
-Build a Twilio Whatsapp + Pipedrive Integration
+5+ reasons to use VoIP call centers in 2026 (and beyond)
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/build-twilio-whatsapp-pipedrive-integration
-) (2025-12-17)
+https://www.twilio.com/en-us/blog/insights/cloud-comms/reasons-to-have-voip-call-center
+) (2025-12-30)
 - [
-Open Sourcing the Twilio Docs AI Buddy Prompts: Empowering Technical Writers with Smarter AI Tools
+Broadcast Text Messaging: What Is It & How to Use It
 ](
-https://www.twilio.com/en-us/blog/developers/open-source-docs-ai-buddy-prompts
-) (2025-12-17)
-- [
-Building the Future Together: Introducing the Twilio Partner Advisory Board
-](
-https://www.twilio.com/en-us/blog/partners/2026-twilio-partner-advisory-board
-) (2025-12-16)
+https://www.twilio.com/en-us/blog/what-is-broadcast-messaging
+) (2025-12-27)
 
 </details>
 
@@ -506,11 +506,11 @@ https://www.twilio.com/en-us/blog/partners/2026-twilio-partner-advisory-board
 <details>
 <summary>💬 Slack API</summary>
 
-- [12 Project Management Techniques for Better Collaboration and Efficiency](https://slack.com/blog/productivity/project-management-techniques) (2026-01-07)
-- [Best Team Collaboration Tools for Productivity in 2026](https://slack.com/blog/collaboration/best-collaboration-tools) (2026-01-07)
-- [What is a Knowledge Graph?](https://slack.com/blog/developers/knowledge-graph) (2026-01-05)
-- [Eight Active Listening Strategies for Better Communication](https://slack.com/blog/collaboration/active-listening) (2026-01-05)
-- [Five employee engagement models for a motivated workplace](https://slack.com/blog/transformation/employee-engagement-model) (2026-01-05)
+- [AI Enterprise Search: Top Features and Tools in 2026](https://slack.com/blog/productivity/ai-enterprise-search-top-features-and-tools-in-2025) (2025-12-23)
+- [Slack Feature Drop: New Innovations That Make Work Feel Like a Gift](https://slack.com/blog/news/feature-drop-dec25) (2025-12-22)
+- [Securing the Agentic Enterprise](https://slack.com/blog/transformation/securing-the-agentic-enterprise) (2025-12-17)
+- [Why Your AI Is Advancing — and Your Enterprise Isn’t](https://slack.com/blog/transformation/five-friction-points-enterprise-ai) (2025-12-16)
+- [Enterprise Search: How to Find Anything at Work with One Query](https://slack.com/blog/productivity/enterprise-search) (2025-12-15)
 
 </details>
 
@@ -539,11 +539,11 @@ https://www.twilio.com/en-us/blog/partners/2026-twilio-partner-advisory-board
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [PyTorch 2.9: FlexAttention Optimization Practice on Intel GPUs](https://pytorch.org/blog/pytorch-2-9-flexattention-optimization-practice-on-intel-gpus/) (2026-01-08)
 - [Deploying Smarter: Hardware-Software Co-design in PyTorch](https://pytorch.org/blog/deploying-smarter-hardware-software-co-design/) (2025-12-18)
 - [Enabling Cluster Launch Control with TLX](https://pytorch.org/blog/enabling-cluster-launch-control-with-tlx/) (2025-12-17)
 - [Hybrid Models Meet SGLang: More than Full Attention](https://pytorch.org/blog/hybrid-models-meet-sglang-more-than-full-attention/) (2025-12-03)
 - [Efficient MoE Pre-training at Scale on 1K AMD GPUs with TorchTitan](https://pytorch.org/blog/efficient-moe-pre-training-at-scale-with-torchtitan/) (2025-12-01)
-- [The Future of Inference: PyTorch ATX Event](https://pytorch.org/blog/the-future-of-inference-pytorch-atx-event/) (2025-11-26)
 
 </details>
 
