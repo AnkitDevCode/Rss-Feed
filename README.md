@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Anthropic adds Allianz to growing list of enterprise wins](https://techcrunch.com/2026/01/09/anthropic-adds-allianz-to-growing-list-of-enterprise-wins/) (2026-01-09)
 - [CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities ](https://techcrunch.com/2026/01/08/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/) (2026-01-09)
 - [Data security startup Cyera hits $9B valuation six months after being valued at $6B](https://techcrunch.com/2026/01/08/data-security-startup-cyera-hits-9b-valuation-six-months-after-being-valued-at-6b/) (2026-01-08)
 - [Governments grapple with the flood of non-consensual nudity on X](https://techcrunch.com/2026/01/08/governments-grapple-with-the-flood-of-non-consensual-nudity-on-x/) (2026-01-08)
 - [GTMfund has rewritten the distribution playbook for the AI era](https://techcrunch.com/2026/01/08/gtmfund-has-rewritten-the-distribution-playbook-for-the-ai-era/) (2026-01-08)
-- [Critics pan spyware maker NSO’s transparency claims amid its push to enter US market](https://techcrunch.com/2026/01/08/critics-pan-spyware-maker-nsos-transparency-claims-amid-its-push-to-enter-us-market/) (2026-01-08)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The No Fakes Act Has a "Fingerprinting" Trap That Kills Open Source](https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/) (2026-01-09)
-- [Anthropic blocks third-party use of Claude Code subscriptions](https://github.com/anomalyco/opencode/issues/7410) (2026-01-09)
-- [Show HN: Executable Markdown files with Unix pipes](https://news.ycombinator.com/item?id=46549444) (2026-01-09)
-- [Logistics Is Dying; Or – Dude, Where's My Mail?](https://lagomor.ph/2026/01/logistics-is-dying-or-dude-wheres-my-mail/) (2026-01-09)
-- [Why I left iNaturalist](https://kueda.net/blog/2026/01/06/why-i-left-inat/) (2026-01-09)
+- [MCP is a fad](https://tombedor.dev/mcp-is-a-fad/) (2026-01-09)
+- [What happened to WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/) (2026-01-09)
+- [European Commission issues call for evidence on open source](https://lwn.net/Articles/1053107/) (2026-01-09)
+- [Mathematics for Computer Science (2018) [pdf]](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) (2026-01-09)
+- [The No Fakes Act has a “fingerprinting” trap that kills open source?](https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/) (2026-01-09)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The Verge Awards at CES 2026](https://www.theverge.com/tech/858494/ces-2026-best-new-tech-tv-car-wearable) (2026-01-09)
+- [Microsoft is making it much easier to add hyperlinks in Word docs](https://www.theverge.com/news/859288/microsoft-word-hyperlinks-new-shortcut) (2026-01-09)
 - [Xbox’s Towerborne is switching from a free-to-play game to a paid one](https://www.theverge.com/news/859176/towerborne-launch-release-date-paid-offline) (2026-01-09)
 - [The best Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra) (2026-01-09)
 - [Pioneer Sphera is bringing Dolby Atmos in cars to the people](https://www.theverge.com/tech/858858/pioneer-sphera-ces-2026) (2026-01-08)
-- [UK Prime Minister says &#8216;we will take action&#8217; on Grok&#8217;s disgusting deepfakes](https://www.theverge.com/news/859107/uk-prime-minister-x-ai-grok-deepfakes) (2026-01-08)
-- [The best earbuds we’ve tested for 2026](https://www.theverge.com/21309820/best-wireless-earbuds) (2026-01-08)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [A new CRISPR startup is betting regulators will ease up on gene-editing](https://www.technologyreview.com/2026/01/09/1130945/crispr-startup-aurora-betting-regulation-pku/) (2026-01-09)
 - [America’s new dietary guidelines ignore decades of scientific research](https://www.technologyreview.com/2026/01/08/1130905/americas-diet-guidelines-ignore-scientific-research-red-meat-beef-tallow/) (2026-01-08)
 - [The Download: mimicking pregnancy’s first moments in a lab, and AI parameters explained](https://www.technologyreview.com/2026/01/08/1130880/the-download-mimicking-pregnancys-first-moments-in-a-lab-and-ai-parameters-explained/) (2026-01-08)
 - [Using unstructured data to fuel enterprise AI success](https://www.technologyreview.com/2026/01/08/1129506/using-unstructured-data-to-fuel-enterprise-ai-success/) (2026-01-08)
 - [What new legal challenges mean for the future of US offshore wind](https://www.technologyreview.com/2026/01/08/1130868/legal-challenges-offshore-wind/) (2026-01-08)
-- [Deploying a hybrid approach to Web3 in the AI era](https://www.technologyreview.com/2026/01/07/1129490/deploying-a-hybrid-approach-to-web3-in-the-ai-era/) (2026-01-07)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [From 7 sec to 3 sec: Reducing Load Time in a Rails-Powered Restaurant App](https://dev.to/railsfactory_sedin/from-7-sec-to-3-sec-reducing-load-time-in-a-rails-powered-restaurant-app-3e6f) (2026-01-09)
-- [Criei uma extensão para VS Code que transforma TODOs em um quadro Kanban e issues reais no Jira](https://dev.to/dantewebmaster/criei-uma-extensao-para-vs-code-que-transforma-todos-em-um-quadro-kanban-e-issues-reais-no-jira-bd8) (2026-01-09)
-- [So You're a Ruby/Python Dev Learning Rust's Option Type](https://dev.to/dev-tngsh/so-youre-a-rubypython-dev-learning-rusts-option-type-2m88) (2026-01-09)
-- [AI, Fake Reviews, and the Trust Crisis in SaaS](https://dev.to/mukul_sharma/ai-fake-reviews-and-the-trust-crisis-in-saas-2399) (2026-01-09)
-- [How I Built an Offline-First RAG System That’s 10x Faster (at 19)](https://dev.to/mounesh_k/how-i-built-an-offline-first-rag-system-thats-10x-faster-at-19-3l6i) (2026-01-09)
+- [DGX Spark AU Pricing: $6,249-$7,999 at Major Retailers](https://dev.to/rosgluk/dgx-spark-au-pricing-6249-7999-at-major-retailers-54j7) (2026-01-09)
+- [From Zero to SDF Editor Beta: How I Used AI to Force My Dream Project Out of the Prototype Stage. What I learned?](https://dev.to/embernoglow/from-zero-to-sdf-editor-beta-how-i-used-ai-to-force-my-dream-project-out-of-the-prototype-stage-46fi) (2026-01-09)
+- [The only python GUI library you will need in 2026...](https://dev.to/scriptor/the-only-python-gui-library-you-will-need-in-2026-14d1) (2026-01-09)
+- [Tech Stack Lessons from scaling 20x in a year](https://dev.to/code42cate/tech-stack-lessons-from-scaling-20x-in-a-year-1ekh) (2026-01-09)
+- [Build an Influencer Fake Follower Detector with Node.js](https://dev.to/olams/build-an-influencer-fake-follower-detector-with-nodejs-344p) (2026-01-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How Long Does It Take to Become a SAP ABAP Developer in Kerala?](https://medium.com/@mridhulacokonet/how-long-does-it-take-to-become-a-sap-abap-developer-in-kerala-e2994c146cfc?source=rss------programming-5) (2026-01-09)
-- [LinkedHashMap in Java — More Than Just a Map](https://medium.com/@sonytanget/linkedhashmap-in-java-more-than-just-a-map-ec0062fee833?source=rss------programming-5) (2026-01-09)
-- [Backend Architecture 101: Cara Menyusun “Kota” di Balik Aplikasi Biar Nggak Gampang Macet](https://dendyr.medium.com/backend-architecture-101-cara-menyusun-kota-di-balik-aplikasi-biar-nggak-gampang-macet-5bc12d48b4c2?source=rss------programming-5) (2026-01-09)
-- [The Android 16KB Page Size Problem Explained: What Changed, Why It Broke Builds, and the Right Fix](https://gauravtakjaipur.medium.com/the-android-16kb-page-size-problem-explained-what-changed-why-it-broke-builds-and-the-right-fix-7caeeb63e0bd?source=rss------programming-5) (2026-01-09)
-- [⚡ Mastering Next.js Middleware : The Hidden Power Behind Edge-First Apps](https://medium.com/@elizacodewell72/mastering-next-js-middleware-the-hidden-power-behind-edge-first-apps-bfe21ee6c4b4?source=rss------programming-5) (2026-01-09)
+- [Claude Code 2.1.0 Just Dropped, Here’s What Matters.](https://medium.datadriveninvestor.com/claude-code-2-1-0-just-dropped-heres-what-matters-3f3c1bc78a19?source=rss------programming-5) (2026-01-09)
+- [Demystifying date and time in Python](https://medium.com/@anandpillai/demystifying-date-and-time-in-python-6dd1907663e8?source=rss------programming-5) (2026-01-09)
+- [Git Is About to Break Its Own Social Contract](https://elsyarifx.medium.com/git-is-about-to-break-its-own-social-contract-6003323dbcb2?source=rss------programming-5) (2026-01-09)
+- [Think You’re Great at SQL? Here’s What Principal Engineers See That Seniors Don’t](https://medium.com/@letslearnnow/think-youre-great-at-sql-here-s-what-principal-engineers-see-that-seniors-don-t-34788e612c5d?source=rss------programming-5) (2026-01-09)
+- [Most Asked Git Commands in Interviews- Master the 8 Most Popular Commands](https://medium.com/@letslearnnow/most-asked-git-commands-in-interviews-master-the-8-most-popular-commands-0f8c98b6857c?source=rss------programming-5) (2026-01-09)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
 - [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
 - [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 - [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
-- [Actioning agentic AI: 5 ways to build with news from Microsoft Ignite 2025](https://azure.microsoft.com/en-us/blog/actioning-agentic-ai-5-ways-to-build-with-news-from-microsoft-ignite-2025/) (2025-12-10)
 
 </details>
 
@@ -572,11 +572,11 @@ https://www.twilio.com/en-us/blog/what-is-broadcast-messaging
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Teaching a Neural Network the Mandelbrot Set](https://towardsdatascience.com/teaching-a-neural-network-the-mandelbrot-set/) (2026-01-09)
 - [TDS Newsletter: December Must-Reads on GraphRAG, Data Contracts, and More](https://towardsdatascience.com/tds-newsletter-december-must-reads-on-graphrag-data-contracts-and-more/) (2026-01-08)
 - [Beyond Prompting: The Power of Context Engineering](https://towardsdatascience.com/beyond-prompting-the-power-of-context-engineering/) (2026-01-08)
 - [Retrieval for Time-Series: How Looking Back Improves Forecasts](https://towardsdatascience.com/retrieval-for-time-series-how-looking-back-improves-forecasts/) (2026-01-08)
 - [How to Improve the Performance of Visual Anomaly Detection Models](https://towardsdatascience.com/how-to-improve-the-performance-of-visual-anomaly-detection-models/) (2026-01-08)
-- [Faster Is Not Always Better: Choosing the Right PostgreSQL Insert Strategy in Python (+Benchmarks)](https://towardsdatascience.com/faster-is-not-always-better-choosing-the-right-postgresql-insert-strategy-in-python-benchmarks/) (2026-01-08)
 
 </details>
 
