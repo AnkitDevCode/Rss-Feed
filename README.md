@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Meta signs deals with three nuclear companies for 6-plus GW of power](https://techcrunch.com/2026/01/09/meta-signs-deals-with-three-nuclear-companies-for-6-plus-gw-of-power/) (2026-01-09)
+- [X restricts Grok’s image generation to paying subscribers only after drawing the world’s ire](https://techcrunch.com/2026/01/09/x-restricts-groks-image-generation-to-paying-subscribers-only-after-drawing-the-worlds-ire/) (2026-01-09)
+- [The venture firm that ate Silicon Valley just raised another $15 billion](https://techcrunch.com/2026/01/09/the-venture-firm-that-ate-silicon-valley/) (2026-01-09)
 - [Anthropic adds Allianz to growing list of enterprise wins](https://techcrunch.com/2026/01/09/anthropic-adds-allianz-to-growing-list-of-enterprise-wins/) (2026-01-09)
 - [CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities ](https://techcrunch.com/2026/01/08/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/) (2026-01-09)
-- [Data security startup Cyera hits $9B valuation six months after being valued at $6B](https://techcrunch.com/2026/01/08/data-security-startup-cyera-hits-9b-valuation-six-months-after-being-valued-at-6b/) (2026-01-08)
-- [Governments grapple with the flood of non-consensual nudity on X](https://techcrunch.com/2026/01/08/governments-grapple-with-the-flood-of-non-consensual-nudity-on-x/) (2026-01-08)
-- [GTMfund has rewritten the distribution playbook for the AI era](https://techcrunch.com/2026/01/08/gtmfund-has-rewritten-the-distribution-playbook-for-the-ai-era/) (2026-01-08)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [MCP is a fad](https://tombedor.dev/mcp-is-a-fad/) (2026-01-09)
-- [What happened to WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/) (2026-01-09)
-- [European Commission issues call for evidence on open source](https://lwn.net/Articles/1053107/) (2026-01-09)
-- [Mathematics for Computer Science (2018) [pdf]](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) (2026-01-09)
-- [The No Fakes Act has a “fingerprinting” trap that kills open source?](https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/) (2026-01-09)
+- [73% People Detained by ICE Have No Convictions](https://www.cato.org/blog/5-ice-detainees-have-violent-convictions-73-no-convictions) (2026-01-09)
+- [Replit (YC W18) Is Hiring](https://jobs.ashbyhq.com/replit) (2026-01-09)
+- [Show HN: I made a memory game to teach you to play piano by ear](https://lend-me-your-ears.specr.net) (2026-01-09)
+- [IcePanel (YC W23) is hiring full-stack engineers in Vancouver](https://forms.icepanel.io/careers/senior-product-engineer) (2026-01-09)
+- [The Vietnam government has banned rooted phones from using any banking app](https://xdaforums.com/t/discussion-the-root-and-mod-hiding-fingerprint-spoofing-keybox-stealing-cat-and-mouse-game.4425939/page-118) (2026-01-09)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The Verge Awards at CES 2026](https://www.theverge.com/tech/858494/ces-2026-best-new-tech-tv-car-wearable) (2026-01-09)
-- [Microsoft is making it much easier to add hyperlinks in Word docs](https://www.theverge.com/news/859288/microsoft-word-hyperlinks-new-shortcut) (2026-01-09)
-- [Xbox’s Towerborne is switching from a free-to-play game to a paid one](https://www.theverge.com/news/859176/towerborne-launch-release-date-paid-offline) (2026-01-09)
-- [The best Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra) (2026-01-09)
-- [Pioneer Sphera is bringing Dolby Atmos in cars to the people](https://www.theverge.com/tech/858858/pioneer-sphera-ces-2026) (2026-01-08)
+- [Black Mirror has been renewed for another season](https://www.theverge.com/streaming/859699/netflix-black-mirror-season-8) (2026-01-09)
+- [I can’t find the Trump phone at America’s largest tech show](https://www.theverge.com/tech/859023/i-cant-find-the-trump-phone-at-americans-largest-tech-show) (2026-01-09)
+- [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers) (2026-01-09)
+- [The first sets with Lego’s new Smart Brick are now available for preorder](https://www.theverge.com/tech/859525/lego-smart-brick-play-system-now-available-preorder-star-wars-sets) (2026-01-09)
+- [Baldur&#8217;s Gate 3 studio says it won&#8217;t use AI for concept art or writing](https://www.theverge.com/games/859551/baldurs-gate-3-larian-studios-gen-ai-concept-art-reddit-ama) (2026-01-09)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [NASA orders “controlled medical evacuation” from the International Space Station](https://arstechnica.com/space/2026/01/in-a-first-nasa-orders-astronauts-home-after-unspecified-medical-issue/) (2026-01-09)
-- [Michigan man learns the hard way that “catch a cheater” spyware apps aren’t legal](https://arstechnica.com/security/2026/01/michigan-man-learns-the-hard-way-that-catch-a-cheater-spyware-apps-arent-legal/) (2026-01-08)
-- [Wi-Fi advocates get win from FCC with vote to allow higher-power devices](https://arstechnica.com/tech-policy/2026/01/fcc-to-authorize-more-powerful-wireless-devices-in-6-ghz-wi-fi-band/) (2026-01-08)
-- [High RAM prices mean record-setting profits for Samsung and other memory makers](https://arstechnica.com/gadgets/2026/01/high-ram-prices-mean-record-setting-profits-for-samsung-and-other-memory-makers/) (2026-01-08)
-- [RFK Jr.’s dietary guidance: Food funnel features slab of red meat, butter](https://arstechnica.com/health/2026/01/rfk-jr-s-dietary-guidelines-beef-tallow-is-in-but-no-booze-for-breakfast/) (2026-01-08)
+- [NASA chief reviews Orion heat shield, expresses “full confidence” in it for Artemis II](https://arstechnica.com/space/2026/01/nasa-chief-reviews-orion-heat-shield-expresses-full-confidence-in-it-for-artemis-ii/) (2026-01-09)
+- [These 60,000-year-old poison arrows are oldest yet found](https://arstechnica.com/science/2026/01/these-60000-year-old-poison-arrows-are-oldest-yet-found/) (2026-01-09)
+- [X’s half-assed attempt to paywall Grok doesn’t block free image editing](https://arstechnica.com/tech-policy/2026/01/xs-half-assed-attempt-to-paywall-grok-doesnt-block-free-image-editing/) (2026-01-09)
+- [Rocket Report: A new super-heavy launch site in California; 2025 year in review](https://arstechnica.com/space/2026/01/rocket-report-spacex-and-china-led-the-way-in-2025-vandenberg-has-room-to-grow/) (2026-01-09)
+- [“Ungentrified” Craigslist may be the last real place on the Internet](https://arstechnica.com/culture/2026/01/ungentrified-craigslist-may-be-the-last-real-place-on-the-internet/) (2026-01-09)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: the case for AI slop, and helping CRISPR fulfill its promise](https://www.technologyreview.com/2026/01/09/1130953/the-download-the-case-for-ai-slop-and-helping-crispr-fulfill-its-promise/) (2026-01-09)
 - [A new CRISPR startup is betting regulators will ease up on gene-editing](https://www.technologyreview.com/2026/01/09/1130945/crispr-startup-aurora-betting-regulation-pku/) (2026-01-09)
 - [America’s new dietary guidelines ignore decades of scientific research](https://www.technologyreview.com/2026/01/08/1130905/americas-diet-guidelines-ignore-scientific-research-red-meat-beef-tallow/) (2026-01-08)
 - [The Download: mimicking pregnancy’s first moments in a lab, and AI parameters explained](https://www.technologyreview.com/2026/01/08/1130880/the-download-mimicking-pregnancys-first-moments-in-a-lab-and-ai-parameters-explained/) (2026-01-08)
 - [Using unstructured data to fuel enterprise AI success](https://www.technologyreview.com/2026/01/08/1129506/using-unstructured-data-to-fuel-enterprise-ai-success/) (2026-01-08)
-- [What new legal challenges mean for the future of US offshore wind](https://www.technologyreview.com/2026/01/08/1130868/legal-challenges-offshore-wind/) (2026-01-08)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [DGX Spark AU Pricing: $6,249-$7,999 at Major Retailers](https://dev.to/rosgluk/dgx-spark-au-pricing-6249-7999-at-major-retailers-54j7) (2026-01-09)
-- [From Zero to SDF Editor Beta: How I Used AI to Force My Dream Project Out of the Prototype Stage. What I learned?](https://dev.to/embernoglow/from-zero-to-sdf-editor-beta-how-i-used-ai-to-force-my-dream-project-out-of-the-prototype-stage-46fi) (2026-01-09)
-- [The only python GUI library you will need in 2026...](https://dev.to/scriptor/the-only-python-gui-library-you-will-need-in-2026-14d1) (2026-01-09)
-- [Tech Stack Lessons from scaling 20x in a year](https://dev.to/code42cate/tech-stack-lessons-from-scaling-20x-in-a-year-1ekh) (2026-01-09)
-- [Build an Influencer Fake Follower Detector with Node.js](https://dev.to/olams/build-an-influencer-fake-follower-detector-with-nodejs-344p) (2026-01-09)
+- [Model Context Protocol (MCP) — Integrating AI LLMs with Modern DevOps Systems](https://dev.to/codefalconx/model-context-protocol-mcp-integrating-ai-llms-with-modern-devops-systems-48n0) (2026-01-09)
+- [Why Agile Estimation Is Theater (And What To Do Instead)](https://dev.to/ghostinit0x/why-agile-estimation-is-theater-and-what-to-do-instead-39m7) (2026-01-09)
+- [Zoneless Angular Explained — How Change Detection Works Without Zone.js](https://dev.to/mridudixit15/zoneless-angular-explained-how-change-detection-works-without-zonejs-1ahp) (2026-01-09)
+- [I'm in 3rd Year - Here's My Complete OS Guide for Campus Placements 📚](https://dev.to/rajat128/im-in-3rd-year-heres-my-complete-os-guide-for-campus-placements-2kp2) (2026-01-09)
+- [Vectra — The Unified Vector Database Client for Ruby](https://dev.to/stokry/vectra-the-unified-vector-database-client-for-ruby-3mj6) (2026-01-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Claude Code 2.1.0 Just Dropped, Here’s What Matters.](https://medium.datadriveninvestor.com/claude-code-2-1-0-just-dropped-heres-what-matters-3f3c1bc78a19?source=rss------programming-5) (2026-01-09)
-- [Demystifying date and time in Python](https://medium.com/@anandpillai/demystifying-date-and-time-in-python-6dd1907663e8?source=rss------programming-5) (2026-01-09)
-- [Git Is About to Break Its Own Social Contract](https://elsyarifx.medium.com/git-is-about-to-break-its-own-social-contract-6003323dbcb2?source=rss------programming-5) (2026-01-09)
-- [Think You’re Great at SQL? Here’s What Principal Engineers See That Seniors Don’t](https://medium.com/@letslearnnow/think-youre-great-at-sql-here-s-what-principal-engineers-see-that-seniors-don-t-34788e612c5d?source=rss------programming-5) (2026-01-09)
-- [Most Asked Git Commands in Interviews- Master the 8 Most Popular Commands](https://medium.com/@letslearnnow/most-asked-git-commands-in-interviews-master-the-8-most-popular-commands-0f8c98b6857c?source=rss------programming-5) (2026-01-09)
+- [Master These 5 Advanced Frontend Concepts and Transform Your Coding Skills!](https://codetodeploy.medium.com/master-these-5-advanced-frontend-concepts-and-transform-your-coding-skills-9f986139974b?source=rss------programming-5) (2026-01-09)
+- [The Kubernetes Autoscaler Lie: Why Your Cluster is Wasting $12,000/Year (and the 5-Minute 2026 Fix)](https://medium.com/@sneharani2509/the-kubernetes-autoscaler-lie-why-your-cluster-is-wasting-12-000-year-and-the-5-minute-2026-fix-bda2353b1d80?source=rss------programming-5) (2026-01-09)
+- [Most Python Bugs Aren’t Code Problems](https://python.plainenglish.io/most-python-bugs-arent-code-problems-0c39e18cee36?source=rss------programming-5) (2026-01-09)
+- [*"BrotherswaggStudioRecords Presents 'Pou Mouvman An Vol.](https://medium.com/@BrotherswaggStudioRecords/brotherswaggstudiorecords-presents-pou-mouvman-an-vol-c8af953e50dd?source=rss------programming-5) (2026-01-09)
+- [Why string.Empty and “” Aren’t Always the Same Reference in .NET](https://jordansrowles.medium.com/why-string-empty-and-arent-always-the-same-reference-in-net-2f5556143f0a?source=rss------programming-5) (2026-01-09)
 
 </details>
 
@@ -141,11 +141,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [NVIDIA Unveils Multi-Agent Intelligent Warehouse and Catalog Enrichment AI Blueprints to Power the Retail Pipeline](https://blogs.nvidia.com/blog/multi-agent-intelligent-warehouse-and-catalog-enrichment-blueprints/) (2026-01-09)
 - [AI Copilot Keeps Berkeley’s X-Ray Particle Accelerator on Track](https://blogs.nvidia.com/blog/ai-copilot-berkeley-x-ray-particle-accelerator/) (2026-01-08)
 - [Japan Science and Technology Agency Develops NVIDIA-Powered Moonshot Robot for Elderly Care](https://blogs.nvidia.com/blog/japan-science-technology-agency-develops-moonshot-robot/) (2026-01-08)
 - [More Ways to Play, More Games to Love — GeForce NOW Wraps CES With Linux Support, Fire TV App, Flight Stick Controls](https://blogs.nvidia.com/blog/geforce-now-thursday-ces-2026-recap/) (2026-01-08)
 - [Steel, Sensors and Silicon: How Caterpillar Is Bringing Edge AI to the Jobsite](https://blogs.nvidia.com/blog/caterpillar-ces-2026/) (2026-01-07)
-- [From Warehouse to Wallet: New State of AI in Retail and CPG Survey Uncovers How AI Is Rewiring Supply Chains and Customer Experiences](https://blogs.nvidia.com/blog/ai-in-retail-cpg-survey-2026/) (2026-01-07)
 
 </details>
 
@@ -196,22 +196,22 @@
 <details>
 <summary>🟩 Node.js Blog</summary>
 
-- [Node.js v24.12.0 (LTS)](https://nodejs.org/en/blog/release/v24.12.0) (2025-12-10)
+- [Node.js 24.12.0 (LTS)](https://nodejs.org/en/blog/release/v24.12.0) (2025-12-10)
 - [Tuesday, January 13, 2026 Security Releases](https://nodejs.org/en/blog/vulnerability/december-2025-security-releases) (2025-12-08)
-- [Node.js v20.19.6 (LTS)](https://nodejs.org/en/blog/release/v20.19.6) (2025-11-25)
-- [Node.js v25.2.1 (Current)](https://nodejs.org/en/blog/release/v25.2.1) (2025-11-17)
-- [Node.js v24.11.1 (LTS)](https://nodejs.org/en/blog/release/v24.11.1) (2025-11-11)
+- [Node.js 20.19.6 (LTS)](https://nodejs.org/en/blog/release/v20.19.6) (2025-11-25)
+- [Node.js 25.2.1 (Current)](https://nodejs.org/en/blog/release/v25.2.1) (2025-11-17)
+- [Node.js 24.11.1 (LTS)](https://nodejs.org/en/blog/release/v24.11.1) (2025-11-11)
 
 </details>
 
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Security Is a Developer Experience Problem, Rooted in Our Foundations](https://www.docker.com/blog/security-is-a-developer-experience-problem-rooted-in-our-foundations/) (2026-01-09)
 - [Deterministic AI Testing with Session Recording in cagent](https://www.docker.com/blog/deterministic-ai-testing-with-session-recording-in-cagent/) (2026-01-06)
 - [2025 Recap: The Year Software Development Changed Shape](https://www.docker.com/blog/2025-recap-the-year-software-development-changed-shape/) (2025-12-20)
 - [From the Captain’s Chair: Igor Aleksandrov](https://www.docker.com/blog/from-the-captains-chair-igor-aleksandrov/) (2025-12-19)
 - [Docker Hardened Images: Security Independently Validated by SRLabs](https://www.docker.com/blog/docker-hardened-images-security-independently-validated-by-srlabs/) (2025-12-19)
-- [A Safer Container Ecosystem with Docker: Free Docker Hardened Images](https://www.docker.com/blog/docker-hardened-images-for-every-developer/) (2025-12-17)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Bringing Real Users Into a Product Team Gathering – A JetBrains Research Story](https://blog.jetbrains.com/research/2026/01/bringing-real-users-into-a-product-team-gathering-a-jetbrains-research-story/) (2026-01-09)
 - [Java Annotated Monthly – January 2026](https://blog.jetbrains.com/idea/2026/01/java-annotated-monthly-january-2026/) (2026-01-06)
 - [dotInsights | January 2026](https://blog.jetbrains.com/dotnet/2026/01/05/dotinsights-january-2026/) (2026-01-05)
 - [New Bug-Fix Releases Are Available for MPS – 2025.2.2, 2025.1.2, 2024.3.5, and 2024.1.6](https://blog.jetbrains.com/mps/2026/01/new_bugfix_releases_mps-2025-2-2/) (2026-01-02)
 - [TeamCity Pipelines Is Now Part of TeamCity Enterprise](https://blog.jetbrains.com/teamcity/2025/12/pipelines-sunset/) (2025-12-26)
-- [Ruby Turns 30: A Celebration of Code, Community, and Creativity](https://blog.jetbrains.com/ruby/2025/12/ruby-turns-30-a-celebration-of-code-community-and-creativity/) (2025-12-25)
 
 </details>
 
@@ -328,11 +328,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [Strengthening GitLab.com security: Mandatory multi-factor authentication](https://about.gitlab.com/blog/strengthening-gitlab-com-security-mandatory-multi-factor-authentication/) (2026-01-09)
 - [AI is reshaping DevSecOps: Attend GitLab Transcend to see what’s next](https://about.gitlab.com/blog/ai-is-reshaping-devsecops-attend-gitlab-transcend-to-see-whats-next/) (2026-01-08)
 - [How IIT Bombay students are coding the future with GitLab](https://about.gitlab.com/blog/how-iit-bombay-students-code-future-with-gitlab/) (2026-01-08)
 - [OWASP Top 10 2025: What's changed and why it matters](https://about.gitlab.com/blog/2025-owasp-top-10-whats-changed-and-why-it-matters/) (2026-01-07)
 - [AI-powered vulnerability triaging with GitLab Duo Security Agent](https://about.gitlab.com/blog/vulnerability-triage-made-simple-with-gitlab-security-analyst-agent/) (2026-01-06)
-- [Building trust in agentic tools: What we learned from our users](https://about.gitlab.com/blog/building-trust-in-agentic-tools-what-we-learned-from-our-users/) (2026-01-05)
 
 </details>
 
@@ -392,15 +392,15 @@ https://www.twilio.com/en-us/blog/what-is-broadcast-messaging
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Taming P99s in OpenFGA: How We Built a Self-Tuning Strategy Planner](https://auth0.com/blog/self-tuning-strategy-planner-openfga/) (2026-01-09)
 - [Fact or Fiction: Eight Myths About Auth0 For B2B](https://auth0.com/blog/eight-myths-about-Auth0-B2B/) (2026-01-08)
 - [Model Context Protocol Nov 2025 Specification Update: CIMD, XAA, and Security](https://auth0.com/blog/mcp-november-2025-specification-update/) (2026-01-07)
-- [Build an AI Assistant with LangGraph, Next.js, and Auth0 Connected Accounts](https://auth0.com/blog/ai-assistant-langgraph-nextjs-slack-github/) (2025-12-19)
 - [Why MCP’s Move Away from Server-Sent Events Simplifies Security
 
 
 
 ](https://auth0.com/blog/mcp-streamable-http/) (2025-12-19)
-- [Bulletproof Hosting Defense: Mitigating the Proxy Threat with Threat Intelligence](https://auth0.com/blog/mitigating-bulletproof-hosting/) (2025-12-18)
+- [Build an AI Assistant with LangGraph, Next.js, and Auth0 Connected Accounts](https://auth0.com/blog/ai-assistant-langgraph-nextjs-slack-github/) (2025-12-19)
 
 </details>
 
@@ -561,44 +561,44 @@ https://www.twilio.com/en-us/blog/what-is-broadcast-messaging
 <details>
 <summary>🤖 AI News</summary>
 
+- [Datadog: How AI code reviews slash incident risk](https://www.artificialintelligence-news.com/news/datadog-how-ai-code-reviews-slash-incident-risk/) (2026-01-09)
+- [The future of personal injury law: AI and legal tech in Philadelphia](https://www.artificialintelligence-news.com/news/the-future-of-personal-injury-law-ai-and-legal-tech-in-philadelphia/) (2026-01-09)
+- [Autonomy without accountability: The real AI risk](https://www.artificialintelligence-news.com/news/autonomy-without-accountability-the-real-ai-risk/) (2026-01-09)
+- [From cloud to factory – humanoid robots coming to workplaces](https://www.artificialintelligence-news.com/news/from-cloud-to-factory-humanoid-robots-coming-to-workplaces/) (2026-01-09)
 - [“Dr AI, am I healthy?” 59% of Brits rely on AI for self-diagnosis](https://www.artificialintelligence-news.com/news/dr-ai-am-i-healthy-59-of-brits-rely-on-ai-for-self-diagnosis/) (2026-01-08)
-- [2026 to be the year of the agentic AI intern](https://www.artificialintelligence-news.com/news/agent-ai-as-the-intern-in-2026-prediction-by-nexos-ai/) (2026-01-08)
-- [Bosch’s €2.9 billion AI investment and shifting manufacturing priorities](https://www.artificialintelligence-news.com/news/bosch-e2-9-billion-ai-investment-and-shifting-manufacturing-priorities/) (2026-01-08)
-- [Agentic AI scaling requires new memory architecture](https://www.artificialintelligence-news.com/news/agentic-ai-scaling-requires-new-memory-architecture/) (2026-01-07)
-- [Optimism for AI-powered productivity: Deloitte](https://www.artificialintelligence-news.com/news/deloitte-survey-takes-cfo-and-it-temperature-around-technology-and-ai/) (2026-01-07)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How LLMs Handle Infinite Context With Finite Memory](https://towardsdatascience.com/llms-can-now-process-infinite-context-windows/) (2026-01-09)
+- [Data Science Spotlight: Selected Problems from Advent of Code 2025](https://towardsdatascience.com/data-science-spotlight-selected-problems-from-advent-of-code-2025/) (2026-01-09)
+- [Mastering Non-Linear Data: A Guide to Scikit-Learn’s SplineTransformer](https://towardsdatascience.com/mastering-non-linear-data-a-guide-to-scikit-learns-splinetransformer/) (2026-01-09)
 - [Teaching a Neural Network the Mandelbrot Set](https://towardsdatascience.com/teaching-a-neural-network-the-mandelbrot-set/) (2026-01-09)
 - [TDS Newsletter: December Must-Reads on GraphRAG, Data Contracts, and More](https://towardsdatascience.com/tds-newsletter-december-must-reads-on-graphrag-data-contracts-and-more/) (2026-01-08)
-- [Beyond Prompting: The Power of Context Engineering](https://towardsdatascience.com/beyond-prompting-the-power-of-context-engineering/) (2026-01-08)
-- [Retrieval for Time-Series: How Looking Back Improves Forecasts](https://towardsdatascience.com/retrieval-for-time-series-how-looking-back-improves-forecasts/) (2026-01-08)
-- [How to Improve the Performance of Visual Anomaly Detection Models](https://towardsdatascience.com/how-to-improve-the-performance-of-visual-anomaly-detection-models/) (2026-01-08)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [NyRAG: Building Production-Ready RAG Applications with Zero Code](https://www.analyticsvidhya.com/blog/2026/01/nyrag-building-rag-applications-with-zero-code/) (2026-01-09)
 - [8 FREE Google AI Tools to Enhance your Workflow](https://www.analyticsvidhya.com/blog/2026/01/free-google-ai-tools/) (2026-01-08)
 - [10 RAG Projects That Actually Teach You Retrieval](https://www.analyticsvidhya.com/blog/2026/01/rag-projects/) (2026-01-08)
 - [Win 2026! 9 AI Prompts to Enter Beast Mode This New Year](https://www.analyticsvidhya.com/blog/2026/01/win-2026-9-ai-prompts-to-enter-beast-mode-this-new-year/) (2026-01-07)
 - [10 Python Projects for Beginners](https://www.analyticsvidhya.com/blog/2026/01/beginner-python-projects/) (2026-01-07)
-- [81 Jobs that AI Cannot Replace in 2026](https://www.analyticsvidhya.com/blog/2026/01/jobs-ai-cannot-replace/) (2026-01-06)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Useful Python Scripts to Automate Data Cleaning](https://www.kdnuggets.com/5-useful-python-scripts-to-automate-data-cleaning) (2026-01-09)
 - [Powerful Local AI Automations with n8n, MCP and Ollama](https://www.kdnuggets.com/powerful-local-ai-automations-with-n8n-mcp-and-ollama) (2026-01-08)
 - [10 Most Popular GitHub Repositories for Learning AI](https://www.kdnuggets.com/10-most-popular-github-repositories-for-learning-ai) (2026-01-08)
 - [Vibe Code Reality Check: What You Can Actually Build with Only AI](https://www.kdnuggets.com/vibe-code-reality-check-what-you-can-actually-build-with-only-ai) (2026-01-07)
 - [Data Scientist vs AI Engineer: Which Career Should You Choose in 2026?](https://www.kdnuggets.com/data-scientist-vs-ai-engineer-which-career-should-you-choose-in-2026) (2026-01-07)
-- [Top 7 n8n Workflow Templates for Data Science](https://www.kdnuggets.com/top-7-n8n-workflow-templates-for-data-science) (2026-01-07)
 
 </details>
 
