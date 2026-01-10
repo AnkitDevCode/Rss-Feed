@@ -31,33 +31,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [I got paid minimum wage to solve an impossible problem](https://tiespetersen.substack.com/p/i-got-paid-minimum-wage-to-solve) (2026-01-10)
-- [Oh My Zsh adds bloat](https://rushter.com/blog/zsh-shell/) (2026-01-10)
-- [OLED, Not for Me](https://nuxx.net/blog/2026/01/09/oled-not-for-me/) (2026-01-10)
-- [“Erdos problem #728 was solved more or less autonomously by AI”](https://mathstodon.xyz/@tao/115855840223258103) (2026-01-09)
-- [Start your meetings at 5 minutes past](https://philipotoole.com/start-your-meetings-at-5-minutes-past/) (2026-01-09)
+- [Circumcision classed as possible child abuse in draft CPS document](https://www.theguardian.com/society/2026/jan/10/circumcision-classed-as-possible-child-abuse-in-draft-cps-document) (2026-01-10)
+- [UpCodes (YC S17) is hiring PMs, SWEs to automate construction compliance](https://up.codes/careers?utm_source=HN) (2026-01-10)
+- [AI is a business model stress test](https://dri.es/ai-is-a-business-model-stress-test) (2026-01-10)
+- [Microsoft May Have Created the Slowest Windows in 25 Years with Windows 11](https://www.eteknix.com/microsoft-may-have-created-the-slowest-windows-in-25-years-with-windows-11/) (2026-01-10)
+- [Open Chaos: A self-evolving open-source project](https://www.openchaos.dev/) (2026-01-10)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Betterment&#8217;s financial app sends customers a $10,000 crypto scam message](https://www.theverge.com/news/860106/betterment-crypto-scam-notification) (2026-01-10)
-- [Amazon is planning a Super Amazon-mart store near Chicago](https://www.theverge.com/news/860058/amazon-chicago-supercenter-store-plans) (2026-01-09)
-- [X accuses music publishers of &#8216;weaponizing&#8217; DMCA takedowns](https://www.theverge.com/news/860013/x-nmpa-music-publishers-dmca-antitrust-lawsuit) (2026-01-09)
-- [This company could help bring Auracast to an iPhone near you](https://www.theverge.com/tech/860010/atitan-bluetooth-auracast-transceiver-ces-2026) (2026-01-09)
-- [AI is coming for collectibles next](https://www.theverge.com/tech/859994/ai-collectibles-funko-pops-amiibo-buddyo-heymates-ces-2026) (2026-01-09)
+- [Amazfit’s Active 2 tracker and Blu-rays are this week’s best deals](https://www.theverge.com/gadgets/859777/amazfit-active-2-tracker-4k-uhd-blu-ray-deal-sale) (2026-01-10)
+- [I’ve never used a trackball, but Keychron’s Nape Pro looks like the perfect one](https://www.theverge.com/tech/860178/ive-never-used-a-trackball-but-keychrons-nape-pro-looks-like-the-perfect-one) (2026-01-10)
+- [I replaced Windows with Linux and everything’s going great](https://www.theverge.com/tech/858910/linux-diary-gaming-desktop) (2026-01-10)
+- [We tried to get humanoid robots to do the laundry](https://www.theverge.com/featured-video/860104/we-tried-to-get-humanoid-robots-to-do-the-laundry) (2026-01-10)
+- [What&#8217;s on your desk, Stevie Bonifield?](https://www.theverge.com/gadgets/850479/desk-pc-keyboard-razer-kobo) (2026-01-10)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Conservative lawmakers want porn taxes. Critics say they’re unconstitutional.](https://arstechnica.com/tech-policy/2026/01/conservative-lawmakers-want-porn-taxes-critics-say-theyre-unconstitutional/) (2026-01-10)
 - [SpaceX gets FCC permission to launch another 7,500 Starlink satellites](https://arstechnica.com/tech-policy/2026/01/spacex-gets-fcc-permission-to-launch-another-7500-starlink-satellites/) (2026-01-10)
 - [ESA considers righting the wrongs of Ariane 6 by turning it into a Franken-rocket](https://arstechnica.com/space/2026/01/esa-considers-righting-the-wrongs-of-ariane-6-by-turning-it-into-a-franken-rocket/) (2026-01-10)
 - [Measles continues raging in South Carolina; 99 new cases since Tuesday](https://arstechnica.com/health/2026/01/measles-continues-raging-in-south-carolina-99-new-cases-since-tuesday/) (2026-01-09)
 - [Google: Don’t make “bite-sized” content for LLMs if you care about search rank](https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/) (2026-01-09)
-- [Cloudflare defies Italy’s Piracy Shield, won’t block websites on 1.1.1.1 DNS](https://arstechnica.com/tech-policy/2026/01/cloudflare-may-pull-servers-out-of-italy-over-order-that-it-block-pirate-sites/) (2026-01-09)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How to Build an AI Customer Support System with AWS Bedrock Guardrails (Complete Tutorial + Free Code)](https://dev.to/awslearnerdaily/how-to-build-an-ai-customer-support-system-with-aws-bedrock-guardrails-complete-tutorial-free-2p5m) (2026-01-10)
-- [Quark's Outlines: Python Arithmetic Conversions](https://dev.to/mike-vincent/quarks-outlines-python-arithmetic-conversions-1ce) (2026-01-10)
-- [ReactJS Design Pattern ~Compound Component Pattern~](https://dev.to/kkr0423/reactjs-design-pattern-compound-component-pattern-5220) (2026-01-10)
-- [What I Wish I Knew Before Deploying My First Backend Application.](https://dev.to/juweria_/what-i-wish-i-knew-before-deploying-my-first-backend-application-e07) (2026-01-10)
-- [The Cosmic Junkyard](https://dev.to/rawveg/the-cosmic-junkyard-6mo) (2026-01-10)
+- [Containers aren’t a sandbox for AI agents](https://dev.to/siddhantkcode/containers-arent-a-sandbox-for-ai-agents-215o) (2026-01-10)
+- [AWS IAM Security: A Practical Guide That Actually Works in Production](https://dev.to/muhammad_yawar_malik/aws-iam-security-a-practical-guide-that-actually-works-in-production-5gmn) (2026-01-10)
+- [10 Proven Ways to Cut Your AWS Bill](https://dev.to/rogo032/10-proven-ways-to-cut-your-aws-bill-5157) (2026-01-10)
+- [What Are Recursive Language Models?](https://dev.to/alexmercedcoder/what-are-recursive-language-models-3kno) (2026-01-10)
+- [SQL Server Indexes Explained: Column Order, INCLUDE, and the Mistakes That Taught Me](https://dev.to/mashrulhaque/sql-server-indexes-explained-column-order-include-and-the-mistakes-that-taught-me-3h9b) (2026-01-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Lesser-known Java features](https://medium.com/@hishivam/lesser-known-java-features-0d227b192c82?source=rss------programming-5) (2026-01-10)
-- [SQL Injection in OopsSec Store: From Dropdown to Database Dump](https://medium.com/@oopssec-store/sql-injection-in-oopssec-store-from-dropdown-to-database-dump-d801ee99684a?source=rss------programming-5) (2026-01-10)
-- [How to Debug Code Faster Using AI Patterns (The Rubber Duck Replacement)](https://medium.com/@xcxwcqctcb/how-to-debug-code-faster-using-ai-patterns-the-rubber-duck-replacement-89ad125c1b90?source=rss------programming-5) (2026-01-10)
-- [How to Automate Excel Tasks Using Python: A Beginner’s Guide](https://medium.com/@ayushkumarpandey7012904/how-to-automate-excel-tasks-using-python-a-beginners-guide-87f363b88ab9?source=rss------programming-5) (2026-01-10)
-- [Semiconductor Innovations That Are Shaping the Future of Factory Automation in Kochi](https://medium.com/@seocertifyiedexperts/semiconductor-innovations-that-are-shaping-the-future-of-factory-automation-in-kochi-0dd2b72002c7?source=rss------programming-5) (2026-01-10)
+- [Writing Smarter Python with Sets: Advanced Techniques That Scale](https://medium.com/@sardarsubhodip857/writing-smarter-python-with-sets-advanced-techniques-that-scale-b3acda975a3a?source=rss------programming-5) (2026-01-10)
+- [Hangman](https://medium.com/play-with-python/hangman-fb368d1bbbb0?source=rss------programming-5) (2026-01-10)
+- [How to Write Architecture Tests for the Clean Architecture](https://medium.com/@michaelmaurice410/how-to-write-architecture-tests-for-the-clean-architecture-710ef72c1a22?source=rss------programming-5) (2026-01-10)
+- [ 5 Practical Steps to Track Entity Changes in EF Core (Without Losing Your Mind)](https://medium.com/@maged_/5-practical-steps-to-track-entity-changes-in-ef-core-without-losing-your-mind-920a6d55ba6d?source=rss------programming-5) (2026-01-10)
+- [How to Use the Domain Event Pattern](https://medium.com/@mariammaurice/how-to-use-the-domain-event-pattern-dc541cfcc2b7?source=rss------programming-5) (2026-01-10)
 
 </details>
 
@@ -135,17 +135,6 @@
 - [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 - [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
-
-</details>
-
-<details>
-<summary>🎮 NVIDIA Blog</summary>
-
-- [NVIDIA Unveils Multi-Agent Intelligent Warehouse and Catalog Enrichment AI Blueprints to Power the Retail Pipeline](https://blogs.nvidia.com/blog/multi-agent-intelligent-warehouse-and-catalog-enrichment-blueprints/) (2026-01-09)
-- [AI Copilot Keeps Berkeley’s X-Ray Particle Accelerator on Track](https://blogs.nvidia.com/blog/ai-copilot-berkeley-x-ray-particle-accelerator/) (2026-01-08)
-- [Japan Science and Technology Agency Develops NVIDIA-Powered Moonshot Robot for Elderly Care](https://blogs.nvidia.com/blog/japan-science-technology-agency-develops-moonshot-robot/) (2026-01-08)
-- [More Ways to Play, More Games to Love — GeForce NOW Wraps CES With Linux Support, Fire TV App, Flight Stick Controls](https://blogs.nvidia.com/blog/geforce-now-thursday-ces-2026-recap/) (2026-01-08)
-- [Steel, Sensors and Silicon: How Caterpillar Is Bringing Edge AI to the Jobsite](https://blogs.nvidia.com/blog/caterpillar-ces-2026/) (2026-01-07)
 
 </details>
 
@@ -559,24 +548,13 @@ https://www.twilio.com/en-us/blog/what-is-broadcast-messaging
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [Datadog: How AI code reviews slash incident risk](https://www.artificialintelligence-news.com/news/datadog-how-ai-code-reviews-slash-incident-risk/) (2026-01-09)
-- [The future of personal injury law: AI and legal tech in Philadelphia](https://www.artificialintelligence-news.com/news/the-future-of-personal-injury-law-ai-and-legal-tech-in-philadelphia/) (2026-01-09)
-- [Autonomy without accountability: The real AI risk](https://www.artificialintelligence-news.com/news/autonomy-without-accountability-the-real-ai-risk/) (2026-01-09)
-- [From cloud to factory – humanoid robots coming to workplaces](https://www.artificialintelligence-news.com/news/from-cloud-to-factory-humanoid-robots-coming-to-workplaces/) (2026-01-09)
-- [“Dr AI, am I healthy?” 59% of Brits rely on AI for self-diagnosis](https://www.artificialintelligence-news.com/news/dr-ai-am-i-healthy-59-of-brits-rely-on-ai-for-self-diagnosis/) (2026-01-08)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
+- [Federated Learning, Part 1: The Basics of Training Models Where the Data Lives](https://towardsdatascience.com/federated-learning-part-1-the-basics-of-training-models-where-the-data-lives/) (2026-01-10)
+- [Beyond the Flat Table: Building an Enterprise-Grade Financial Model in Power BI](https://towardsdatascience.com/beyond-the-flat-table-building-an-enterprise-grade-financial-model-in-power-bi/) (2026-01-10)
 - [How LLMs Handle Infinite Context With Finite Memory](https://towardsdatascience.com/llms-can-now-process-infinite-context-windows/) (2026-01-09)
 - [Data Science Spotlight: Selected Problems from Advent of Code 2025](https://towardsdatascience.com/data-science-spotlight-selected-problems-from-advent-of-code-2025/) (2026-01-09)
 - [Mastering Non-Linear Data: A Guide to Scikit-Learn’s SplineTransformer](https://towardsdatascience.com/mastering-non-linear-data-a-guide-to-scikit-learns-splinetransformer/) (2026-01-09)
-- [Teaching a Neural Network the Mandelbrot Set](https://towardsdatascience.com/teaching-a-neural-network-the-mandelbrot-set/) (2026-01-09)
-- [TDS Newsletter: December Must-Reads on GraphRAG, Data Contracts, and More](https://towardsdatascience.com/tds-newsletter-december-must-reads-on-graphrag-data-contracts-and-more/) (2026-01-08)
 
 </details>
 
