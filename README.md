@@ -31,9 +31,9 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [You probably don't need Oh My Zsh](https://rushter.com/blog/zsh-shell/) (2026-01-10)
+- [I got paid minimum wage to solve an impossible problem](https://tiespetersen.substack.com/p/i-got-paid-minimum-wage-to-solve) (2026-01-10)
+- [Oh My Zsh adds bloat](https://rushter.com/blog/zsh-shell/) (2026-01-10)
 - [OLED, Not for Me](https://nuxx.net/blog/2026/01/09/oled-not-for-me/) (2026-01-10)
-- [Maine's black market for baby eels](https://www.pressherald.com/2025/09/09/maines-black-market-for-baby-eels-is-spawning-a-crime-thriller-subgenre/) (2026-01-10)
 - [“Erdos problem #728 was solved more or less autonomously by AI”](https://mathstodon.xyz/@tao/115855840223258103) (2026-01-09)
 - [Start your meetings at 5 minutes past](https://philipotoole.com/start-your-meetings-at-5-minutes-past/) (2026-01-09)
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How I Went From 'I'm Not a Hardware Person' to Reverse Engineering Devices](https://dev.to/numbpill3d/how-i-went-from-im-not-a-hardware-person-to-reverse-engineering-devices-894) (2026-01-10)
-- [Linux Kernel Architecture: From Ring 0 to Network Stack & eBPF](https://dev.to/kanywst/linux-kernel-architecture-from-ring-0-to-network-stack-ebpf-6o0) (2026-01-10)
-- [How Does @Async Work Internally in Spring Boot?](https://dev.to/realnamehidden1_61/how-does-async-work-internally-in-spring-boot-35h5) (2026-01-10)
-- [KRACK Attack - When WPA2 Was Not as Safe as We Thought](https://dev.to/vinay_sharma_e6ec1235f476/krack-attack-when-wpa2-was-not-as-safe-as-we-thought-3p0g) (2026-01-10)
-- [Rust Series01 - Ownership is what you need to know](https://dev.to/kevinsheeranxyj/rust-series01-ownership-is-what-you-need-to-know-2ikm) (2026-01-10)
+- [How to Build an AI Customer Support System with AWS Bedrock Guardrails (Complete Tutorial + Free Code)](https://dev.to/awslearnerdaily/how-to-build-an-ai-customer-support-system-with-aws-bedrock-guardrails-complete-tutorial-free-2p5m) (2026-01-10)
+- [Quark's Outlines: Python Arithmetic Conversions](https://dev.to/mike-vincent/quarks-outlines-python-arithmetic-conversions-1ce) (2026-01-10)
+- [ReactJS Design Pattern ~Compound Component Pattern~](https://dev.to/kkr0423/reactjs-design-pattern-compound-component-pattern-5220) (2026-01-10)
+- [What I Wish I Knew Before Deploying My First Backend Application.](https://dev.to/juweria_/what-i-wish-i-knew-before-deploying-my-first-backend-application-e07) (2026-01-10)
+- [The Cosmic Junkyard](https://dev.to/rawveg/the-cosmic-junkyard-6mo) (2026-01-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [⚛️ 20 React.js Tips & Tricks to Level Up Your Components and Crush Bugs ](https://medium.com/@beenakumawat004/%EF%B8%8F-20-react-js-tips-tricks-to-level-up-your-components-and-crush-bugs-58fa115edf10?source=rss------programming-5) (2026-01-10)
-- [⚛️ 15 Golden Tips to Master React Native — Clean Code, Fast UI, and Happy Users ](https://medium.com/@beenakumawat002/%EF%B8%8F-15-golden-tips-to-master-react-native-clean-code-fast-ui-and-happy-users-e2dd047592b7?source=rss------programming-5) (2026-01-10)
-- [️ 10 Practical React Native Tips Every Developer Should Know (But Most Don’t) ⚛️✨](https://medium.com/@avantika0/%EF%B8%8F-10-practical-react-native-tips-every-developer-should-know-but-most-dont-%EF%B8%8F-bebf91a9399b?source=rss------programming-5) (2026-01-10)
-- [ Python + APIs = Your Gateway to Automating, Building, and Earning Faster ](https://medium.com/@EnaModernCoder/python-apis-your-gateway-to-automating-building-and-earning-faster-3a76bc49de6a?source=rss------programming-5) (2026-01-10)
-- [⚙️ Modern Python: Write Smarter, Cleaner, and More Scalable Code and Beyond ✨](https://medium.com/@alisha00/%EF%B8%8F-modern-python-write-smarter-cleaner-and-more-scalable-code-and-beyond-5bbe2827a5f7?source=rss------programming-5) (2026-01-10)
+- [Lesser-known Java features](https://medium.com/@hishivam/lesser-known-java-features-0d227b192c82?source=rss------programming-5) (2026-01-10)
+- [SQL Injection in OopsSec Store: From Dropdown to Database Dump](https://medium.com/@oopssec-store/sql-injection-in-oopssec-store-from-dropdown-to-database-dump-d801ee99684a?source=rss------programming-5) (2026-01-10)
+- [How to Debug Code Faster Using AI Patterns (The Rubber Duck Replacement)](https://medium.com/@xcxwcqctcb/how-to-debug-code-faster-using-ai-patterns-the-rubber-duck-replacement-89ad125c1b90?source=rss------programming-5) (2026-01-10)
+- [How to Automate Excel Tasks Using Python: A Beginner’s Guide](https://medium.com/@ayushkumarpandey7012904/how-to-automate-excel-tasks-using-python-a-beginners-guide-87f363b88ab9?source=rss------programming-5) (2026-01-10)
+- [Semiconductor Innovations That Are Shaping the Future of Factory Automation in Kochi](https://medium.com/@seocertifyiedexperts/semiconductor-innovations-that-are-shaping-the-future-of-factory-automation-in-kochi-0dd2b72002c7?source=rss------programming-5) (2026-01-10)
 
 </details>
 
@@ -135,6 +135,17 @@
 - [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 - [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
+
+</details>
+
+<details>
+<summary>🎮 NVIDIA Blog</summary>
+
+- [NVIDIA Unveils Multi-Agent Intelligent Warehouse and Catalog Enrichment AI Blueprints to Power the Retail Pipeline](https://blogs.nvidia.com/blog/multi-agent-intelligent-warehouse-and-catalog-enrichment-blueprints/) (2026-01-09)
+- [AI Copilot Keeps Berkeley’s X-Ray Particle Accelerator on Track](https://blogs.nvidia.com/blog/ai-copilot-berkeley-x-ray-particle-accelerator/) (2026-01-08)
+- [Japan Science and Technology Agency Develops NVIDIA-Powered Moonshot Robot for Elderly Care](https://blogs.nvidia.com/blog/japan-science-technology-agency-develops-moonshot-robot/) (2026-01-08)
+- [More Ways to Play, More Games to Love — GeForce NOW Wraps CES With Linux Support, Fire TV App, Flight Stick Controls](https://blogs.nvidia.com/blog/geforce-now-thursday-ces-2026-recap/) (2026-01-08)
+- [Steel, Sensors and Silicon: How Caterpillar Is Bringing Edge AI to the Jobsite](https://blogs.nvidia.com/blog/caterpillar-ces-2026/) (2026-01-07)
 
 </details>
 
@@ -572,11 +583,11 @@ https://www.twilio.com/en-us/blog/what-is-broadcast-messaging
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [CES 2026: 17 AI Reveals That Will Blow Your Mind](https://www.analyticsvidhya.com/blog/2026/01/ces-2026-top-ai-reveals/) (2026-01-10)
+- [Agentic AI Learning Path 2026](https://www.analyticsvidhya.com/blog/2026/01/agentic-ai-expert-learning-path/) (2026-01-10)
 - [NyRAG: Building Production-Ready RAG Applications with Zero Code](https://www.analyticsvidhya.com/blog/2026/01/nyrag-building-rag-applications-with-zero-code/) (2026-01-09)
 - [8 FREE Google AI Tools to Enhance your Workflow](https://www.analyticsvidhya.com/blog/2026/01/free-google-ai-tools/) (2026-01-08)
 - [10 RAG Projects That Actually Teach You Retrieval](https://www.analyticsvidhya.com/blog/2026/01/rag-projects/) (2026-01-08)
-- [Win 2026! 9 AI Prompts to Enter Beast Mode This New Year](https://www.analyticsvidhya.com/blog/2026/01/win-2026-9-ai-prompts-to-enter-beast-mode-this-new-year/) (2026-01-07)
-- [10 Python Projects for Beginners](https://www.analyticsvidhya.com/blog/2026/01/beginner-python-projects/) (2026-01-07)
 
 </details>
 
