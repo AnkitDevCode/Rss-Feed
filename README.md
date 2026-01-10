@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Caltrain shows why every region should be moving toward regional rail](https://www.hsrail.org/blog/caltrain-shows-why-every-region-should-be-moving-toward-regional-rail/) (2026-01-10)
-- [See it with your lying ears](https://lcamtuf.substack.com/p/see-it-with-your-lying-ears) (2026-01-10)
-- [Washington National Opera Is Leaving the Kennedy Center](https://www.nytimes.com/2026/01/09/arts/music/washington-national-opera-kennedy-center.html) (2026-01-09)
-- ["Erdos problem #728 was solved more or less autonomously by AI"](https://mathstodon.xyz/@tao/115855840223258103) (2026-01-09)
-- [Deno has made its PyPI distribution official](https://github.com/denoland/deno/issues/31254) (2026-01-09)
+- [You probably don't need Oh My Zsh](https://rushter.com/blog/zsh-shell/) (2026-01-10)
+- [OLED, Not for Me](https://nuxx.net/blog/2026/01/09/oled-not-for-me/) (2026-01-10)
+- [Maine's black market for baby eels](https://www.pressherald.com/2025/09/09/maines-black-market-for-baby-eels-is-spawning-a-crime-thriller-subgenre/) (2026-01-10)
+- [“Erdos problem #728 was solved more or less autonomously by AI”](https://mathstodon.xyz/@tao/115855840223258103) (2026-01-09)
+- [Start your meetings at 5 minutes past](https://philipotoole.com/start-your-meetings-at-5-minutes-past/) (2026-01-09)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Choosing an i18n Strategy for Angular Admin/Dashboard Apps](https://dev.to/_88ff91434a047ab09a604/choosing-an-i18n-strategy-for-angular-admindashboard-apps-3e3) (2026-01-10)
-- [Building an IPL Cricket Stats Assistant with Algolia Agent Studio](https://dev.to/sreenu_sasubilli_f9289c4e/building-an-ipl-cricket-stats-assistant-with-algolia-agent-studio-44mg) (2026-01-10)
-- [Day 10 of 100](https://dev.to/palakhirave/day-10-of-100-14oc) (2026-01-10)
-- [Building an AI-Powered GTM Audit Tool: A Technical Breakdown](https://dev.to/revenueleaks/building-an-ai-powered-gtm-audit-tool-a-technical-breakdown-em9) (2026-01-10)
-- [Essential DevOps Tools for macOS](https://dev.to/joachim8675309/essential-devops-tools-for-macos-53m2) (2026-01-10)
+- [How I Went From 'I'm Not a Hardware Person' to Reverse Engineering Devices](https://dev.to/numbpill3d/how-i-went-from-im-not-a-hardware-person-to-reverse-engineering-devices-894) (2026-01-10)
+- [Linux Kernel Architecture: From Ring 0 to Network Stack & eBPF](https://dev.to/kanywst/linux-kernel-architecture-from-ring-0-to-network-stack-ebpf-6o0) (2026-01-10)
+- [How Does @Async Work Internally in Spring Boot?](https://dev.to/realnamehidden1_61/how-does-async-work-internally-in-spring-boot-35h5) (2026-01-10)
+- [KRACK Attack - When WPA2 Was Not as Safe as We Thought](https://dev.to/vinay_sharma_e6ec1235f476/krack-attack-when-wpa2-was-not-as-safe-as-we-thought-3p0g) (2026-01-10)
+- [Rust Series01 - Ownership is what you need to know](https://dev.to/kevinsheeranxyj/rust-series01-ownership-is-what-you-need-to-know-2ikm) (2026-01-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Lunar Lander](https://medium.com/play-with-python/lunar-lander-b06839e1fc8e?source=rss------programming-5) (2026-01-10)
-- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-143dd31a5e23?source=rss------programming-5) (2026-01-10)
-- [$0 Hosting: The Most Boring Stack (So It’s the Most Reliable)](https://medium.com/@breyne/0-hosting-the-most-boring-stack-so-its-the-most-reliable-8a885dc3b367?source=rss------programming-5) (2026-01-10)
-- [Untangling the Data Monolith: Strategies for Decoupling Databases in 2026](https://beckmoulton.medium.com/untangling-the-data-monolith-strategies-for-decoupling-databases-in-2026-4a7d20c8ad08?source=rss------programming-5) (2026-01-10)
-- [Designing a Distributed Email Service](https://towardsdev.com/designing-a-distributed-email-service-f35cf011a7c4?source=rss------programming-5) (2026-01-10)
+- [⚛️ 20 React.js Tips & Tricks to Level Up Your Components and Crush Bugs ](https://medium.com/@beenakumawat004/%EF%B8%8F-20-react-js-tips-tricks-to-level-up-your-components-and-crush-bugs-58fa115edf10?source=rss------programming-5) (2026-01-10)
+- [⚛️ 15 Golden Tips to Master React Native — Clean Code, Fast UI, and Happy Users ](https://medium.com/@beenakumawat002/%EF%B8%8F-15-golden-tips-to-master-react-native-clean-code-fast-ui-and-happy-users-e2dd047592b7?source=rss------programming-5) (2026-01-10)
+- [️ 10 Practical React Native Tips Every Developer Should Know (But Most Don’t) ⚛️✨](https://medium.com/@avantika0/%EF%B8%8F-10-practical-react-native-tips-every-developer-should-know-but-most-dont-%EF%B8%8F-bebf91a9399b?source=rss------programming-5) (2026-01-10)
+- [ Python + APIs = Your Gateway to Automating, Building, and Earning Faster ](https://medium.com/@EnaModernCoder/python-apis-your-gateway-to-automating-building-and-earning-faster-3a76bc49de6a?source=rss------programming-5) (2026-01-10)
+- [⚙️ Modern Python: Write Smarter, Cleaner, and More Scalable Code and Beyond ✨](https://medium.com/@alisha00/%EF%B8%8F-modern-python-write-smarter-cleaner-and-more-scalable-code-and-beyond-5bbe2827a5f7?source=rss------programming-5) (2026-01-10)
 
 </details>
 
@@ -135,17 +135,6 @@
 - [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 - [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
-
-</details>
-
-<details>
-<summary>🎮 NVIDIA Blog</summary>
-
-- [NVIDIA Unveils Multi-Agent Intelligent Warehouse and Catalog Enrichment AI Blueprints to Power the Retail Pipeline](https://blogs.nvidia.com/blog/multi-agent-intelligent-warehouse-and-catalog-enrichment-blueprints/) (2026-01-09)
-- [AI Copilot Keeps Berkeley’s X-Ray Particle Accelerator on Track](https://blogs.nvidia.com/blog/ai-copilot-berkeley-x-ray-particle-accelerator/) (2026-01-08)
-- [Japan Science and Technology Agency Develops NVIDIA-Powered Moonshot Robot for Elderly Care](https://blogs.nvidia.com/blog/japan-science-technology-agency-develops-moonshot-robot/) (2026-01-08)
-- [More Ways to Play, More Games to Love — GeForce NOW Wraps CES With Linux Support, Fire TV App, Flight Stick Controls](https://blogs.nvidia.com/blog/geforce-now-thursday-ces-2026-recap/) (2026-01-08)
-- [Steel, Sensors and Silicon: How Caterpillar Is Bringing Edge AI to the Jobsite](https://blogs.nvidia.com/blog/caterpillar-ces-2026/) (2026-01-07)
 
 </details>
 
