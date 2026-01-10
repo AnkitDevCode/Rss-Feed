@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [I met a lot of weird robots at CES — here are the most memorable](https://techcrunch.com/2026/01/09/i-met-a-lot-of-weird-robots-at-ces-here-are-the-most-memorable/) (2026-01-10)
+- [Google moonshot spinout SandboxAQ claims an ex-exec is attempting ‘extortion’](https://techcrunch.com/2026/01/09/google-moonshot-spinout-sandboxaq-claims-an-ex-exec-is-attempting-extortion/) (2026-01-10)
+- [CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities ](https://techcrunch.com/2026/01/09/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/) (2026-01-09)
+- [How the Sleepbuds maker, Ozlo, is building a platform for sleep data](https://techcrunch.com/2026/01/09/how-the-sleepbuds-maker-ozlo-is-building-a-platform-for-sleep-data/) (2026-01-09)
 - [Meta signs deals with three nuclear companies for 6-plus GW of power](https://techcrunch.com/2026/01/09/meta-signs-deals-with-three-nuclear-companies-for-6-plus-gw-of-power/) (2026-01-09)
-- [X restricts Grok’s image generation to paying subscribers only after drawing the world’s ire](https://techcrunch.com/2026/01/09/x-restricts-groks-image-generation-to-paying-subscribers-only-after-drawing-the-worlds-ire/) (2026-01-09)
-- [The venture firm that ate Silicon Valley just raised another $15 billion](https://techcrunch.com/2026/01/09/the-venture-firm-that-ate-silicon-valley/) (2026-01-09)
-- [Anthropic adds Allianz to growing list of enterprise wins](https://techcrunch.com/2026/01/09/anthropic-adds-allianz-to-growing-list-of-enterprise-wins/) (2026-01-09)
-- [CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities ](https://techcrunch.com/2026/01/08/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/) (2026-01-09)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [73% People Detained by ICE Have No Convictions](https://www.cato.org/blog/5-ice-detainees-have-violent-convictions-73-no-convictions) (2026-01-09)
-- [Replit (YC W18) Is Hiring](https://jobs.ashbyhq.com/replit) (2026-01-09)
-- [Show HN: I made a memory game to teach you to play piano by ear](https://lend-me-your-ears.specr.net) (2026-01-09)
-- [IcePanel (YC W23) is hiring full-stack engineers in Vancouver](https://forms.icepanel.io/careers/senior-product-engineer) (2026-01-09)
-- [The Vietnam government has banned rooted phones from using any banking app](https://xdaforums.com/t/discussion-the-root-and-mod-hiding-fingerprint-spoofing-keybox-stealing-cat-and-mouse-game.4425939/page-118) (2026-01-09)
+- [Caltrain shows why every region should be moving toward regional rail](https://www.hsrail.org/blog/caltrain-shows-why-every-region-should-be-moving-toward-regional-rail/) (2026-01-10)
+- [See it with your lying ears](https://lcamtuf.substack.com/p/see-it-with-your-lying-ears) (2026-01-10)
+- [Washington National Opera Is Leaving the Kennedy Center](https://www.nytimes.com/2026/01/09/arts/music/washington-national-opera-kennedy-center.html) (2026-01-09)
+- ["Erdos problem #728 was solved more or less autonomously by AI"](https://mathstodon.xyz/@tao/115855840223258103) (2026-01-09)
+- [Deno has made its PyPI distribution official](https://github.com/denoland/deno/issues/31254) (2026-01-09)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Black Mirror has been renewed for another season](https://www.theverge.com/streaming/859699/netflix-black-mirror-season-8) (2026-01-09)
-- [I can’t find the Trump phone at America’s largest tech show](https://www.theverge.com/tech/859023/i-cant-find-the-trump-phone-at-americans-largest-tech-show) (2026-01-09)
-- [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers) (2026-01-09)
-- [The first sets with Lego’s new Smart Brick are now available for preorder](https://www.theverge.com/tech/859525/lego-smart-brick-play-system-now-available-preorder-star-wars-sets) (2026-01-09)
-- [Baldur&#8217;s Gate 3 studio says it won&#8217;t use AI for concept art or writing](https://www.theverge.com/games/859551/baldurs-gate-3-larian-studios-gen-ai-concept-art-reddit-ama) (2026-01-09)
+- [Betterment&#8217;s financial app sends customers a $10,000 crypto scam message](https://www.theverge.com/news/860106/betterment-crypto-scam-notification) (2026-01-10)
+- [Amazon is planning a Super Amazon-mart store near Chicago](https://www.theverge.com/news/860058/amazon-chicago-supercenter-store-plans) (2026-01-09)
+- [X accuses music publishers of &#8216;weaponizing&#8217; DMCA takedowns](https://www.theverge.com/news/860013/x-nmpa-music-publishers-dmca-antitrust-lawsuit) (2026-01-09)
+- [This company could help bring Auracast to an iPhone near you](https://www.theverge.com/tech/860010/atitan-bluetooth-auracast-transceiver-ces-2026) (2026-01-09)
+- [AI is coming for collectibles next](https://www.theverge.com/tech/859994/ai-collectibles-funko-pops-amiibo-buddyo-heymates-ces-2026) (2026-01-09)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [NASA chief reviews Orion heat shield, expresses “full confidence” in it for Artemis II](https://arstechnica.com/space/2026/01/nasa-chief-reviews-orion-heat-shield-expresses-full-confidence-in-it-for-artemis-ii/) (2026-01-09)
-- [These 60,000-year-old poison arrows are oldest yet found](https://arstechnica.com/science/2026/01/these-60000-year-old-poison-arrows-are-oldest-yet-found/) (2026-01-09)
-- [X’s half-assed attempt to paywall Grok doesn’t block free image editing](https://arstechnica.com/tech-policy/2026/01/xs-half-assed-attempt-to-paywall-grok-doesnt-block-free-image-editing/) (2026-01-09)
-- [Rocket Report: A new super-heavy launch site in California; 2025 year in review](https://arstechnica.com/space/2026/01/rocket-report-spacex-and-china-led-the-way-in-2025-vandenberg-has-room-to-grow/) (2026-01-09)
-- [“Ungentrified” Craigslist may be the last real place on the Internet](https://arstechnica.com/culture/2026/01/ungentrified-craigslist-may-be-the-last-real-place-on-the-internet/) (2026-01-09)
+- [SpaceX gets FCC permission to launch another 7,500 Starlink satellites](https://arstechnica.com/tech-policy/2026/01/spacex-gets-fcc-permission-to-launch-another-7500-starlink-satellites/) (2026-01-10)
+- [ESA considers righting the wrongs of Ariane 6 by turning it into a Franken-rocket](https://arstechnica.com/space/2026/01/esa-considers-righting-the-wrongs-of-ariane-6-by-turning-it-into-a-franken-rocket/) (2026-01-10)
+- [Measles continues raging in South Carolina; 99 new cases since Tuesday](https://arstechnica.com/health/2026/01/measles-continues-raging-in-south-carolina-99-new-cases-since-tuesday/) (2026-01-09)
+- [Google: Don’t make “bite-sized” content for LLMs if you care about search rank](https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/) (2026-01-09)
+- [Cloudflare defies Italy’s Piracy Shield, won’t block websites on 1.1.1.1 DNS](https://arstechnica.com/tech-policy/2026/01/cloudflare-may-pull-servers-out-of-italy-over-order-that-it-block-pirate-sites/) (2026-01-09)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Model Context Protocol (MCP) — Integrating AI LLMs with Modern DevOps Systems](https://dev.to/codefalconx/model-context-protocol-mcp-integrating-ai-llms-with-modern-devops-systems-48n0) (2026-01-09)
-- [Why Agile Estimation Is Theater (And What To Do Instead)](https://dev.to/ghostinit0x/why-agile-estimation-is-theater-and-what-to-do-instead-39m7) (2026-01-09)
-- [Zoneless Angular Explained — How Change Detection Works Without Zone.js](https://dev.to/mridudixit15/zoneless-angular-explained-how-change-detection-works-without-zonejs-1ahp) (2026-01-09)
-- [I'm in 3rd Year - Here's My Complete OS Guide for Campus Placements 📚](https://dev.to/rajat128/im-in-3rd-year-heres-my-complete-os-guide-for-campus-placements-2kp2) (2026-01-09)
-- [Vectra — The Unified Vector Database Client for Ruby](https://dev.to/stokry/vectra-the-unified-vector-database-client-for-ruby-3mj6) (2026-01-09)
+- [Choosing an i18n Strategy for Angular Admin/Dashboard Apps](https://dev.to/_88ff91434a047ab09a604/choosing-an-i18n-strategy-for-angular-admindashboard-apps-3e3) (2026-01-10)
+- [Building an IPL Cricket Stats Assistant with Algolia Agent Studio](https://dev.to/sreenu_sasubilli_f9289c4e/building-an-ipl-cricket-stats-assistant-with-algolia-agent-studio-44mg) (2026-01-10)
+- [Day 10 of 100](https://dev.to/palakhirave/day-10-of-100-14oc) (2026-01-10)
+- [Building an AI-Powered GTM Audit Tool: A Technical Breakdown](https://dev.to/revenueleaks/building-an-ai-powered-gtm-audit-tool-a-technical-breakdown-em9) (2026-01-10)
+- [Essential DevOps Tools for macOS](https://dev.to/joachim8675309/essential-devops-tools-for-macos-53m2) (2026-01-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Master These 5 Advanced Frontend Concepts and Transform Your Coding Skills!](https://codetodeploy.medium.com/master-these-5-advanced-frontend-concepts-and-transform-your-coding-skills-9f986139974b?source=rss------programming-5) (2026-01-09)
-- [The Kubernetes Autoscaler Lie: Why Your Cluster is Wasting $12,000/Year (and the 5-Minute 2026 Fix)](https://medium.com/@sneharani2509/the-kubernetes-autoscaler-lie-why-your-cluster-is-wasting-12-000-year-and-the-5-minute-2026-fix-bda2353b1d80?source=rss------programming-5) (2026-01-09)
-- [Most Python Bugs Aren’t Code Problems](https://python.plainenglish.io/most-python-bugs-arent-code-problems-0c39e18cee36?source=rss------programming-5) (2026-01-09)
-- [*"BrotherswaggStudioRecords Presents 'Pou Mouvman An Vol.](https://medium.com/@BrotherswaggStudioRecords/brotherswaggstudiorecords-presents-pou-mouvman-an-vol-c8af953e50dd?source=rss------programming-5) (2026-01-09)
-- [Why string.Empty and “” Aren’t Always the Same Reference in .NET](https://jordansrowles.medium.com/why-string-empty-and-arent-always-the-same-reference-in-net-2f5556143f0a?source=rss------programming-5) (2026-01-09)
+- [Lunar Lander](https://medium.com/play-with-python/lunar-lander-b06839e1fc8e?source=rss------programming-5) (2026-01-10)
+- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-143dd31a5e23?source=rss------programming-5) (2026-01-10)
+- [$0 Hosting: The Most Boring Stack (So It’s the Most Reliable)](https://medium.com/@breyne/0-hosting-the-most-boring-stack-so-its-the-most-reliable-8a885dc3b367?source=rss------programming-5) (2026-01-10)
+- [Untangling the Data Monolith: Strategies for Decoupling Databases in 2026](https://beckmoulton.medium.com/untangling-the-data-monolith-strategies-for-decoupling-databases-in-2026-4a7d20c8ad08?source=rss------programming-5) (2026-01-10)
+- [Designing a Distributed Email Service](https://towardsdev.com/designing-a-distributed-email-service-f35cf011a7c4?source=rss------programming-5) (2026-01-10)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.35: Restricting executables invoked by kubeconfigs via exec plugin allowList added to kuberc](https://kubernetes.io/blog/2026/01/09/kubernetes-v1-35-kuberc-credential-plugin-allowlist/) (2026-01-09)
 - [Kubernetes v1.35: Mutable PersistentVolume Node Affinity (alpha)](https://kubernetes.io/blog/2026/01/08/kubernetes-v1-35-mutable-pv-nodeaffinity/) (2026-01-08)
 - [Kubernetes v1.35: A Better Way to Pass Service Account Tokens to CSI Drivers](https://kubernetes.io/blog/2026/01/07/kubernetes-v1-35-csi-sa-tokens-secrets-field-beta/) (2026-01-07)
 - [Kubernetes v1.35: Extended Toleration Operators to Support Numeric Comparisons (Alpha)](https://kubernetes.io/blog/2026/01/05/kubernetes-v1-35-numeric-toleration-operators/) (2026-01-05)
 - [Kubernetes v1.35: New level of efficiency with in-place Pod restart](https://kubernetes.io/blog/2026/01/02/kubernetes-v1-35-restart-all-containers/) (2026-01-02)
-- [Kubernetes 1.35: Enhanced Debugging with Versioned z-pages APIs](https://kubernetes.io/blog/2025/12/31/kubernetes-v1-35-structured-zpages/) (2025-12-31)
 
 </details>
 
@@ -285,10 +285,10 @@
 <summary>💬 Slack Engineering</summary>
 
 - [Streamlining Security Investigations with Agents](https://slack.engineering/streamlining-security-investigations-with-agents/) (2025-12-01)
+- [Android VPAT journey](https://slack.engineering/android-vpat-journey/) (2025-11-19)
 - [Build better software to build software better](https://slack.engineering/build-better-software-to-build-software-better/) (2025-11-06)
 - [Advancing Our Chef Infrastructure: Safety Without Disruption](https://slack.engineering/advancing-our-chef-infrastructure-safety-without-disruption/) (2025-10-23)
 - [Deploy Safety: Reducing customer impact from change](https://slack.engineering/deploy-safety/) (2025-10-07)
-- [Building Slack’s Anomaly Event Response](https://slack.engineering/building-slacks-anomaly-event-response/) (2025-09-04)
 
 </details>
 
@@ -506,11 +506,11 @@ https://www.twilio.com/en-us/blog/what-is-broadcast-messaging
 <details>
 <summary>💬 Slack API</summary>
 
-- [AI Enterprise Search: Top Features and Tools in 2026](https://slack.com/blog/productivity/ai-enterprise-search-top-features-and-tools-in-2025) (2025-12-23)
-- [Slack Feature Drop: New Innovations That Make Work Feel Like a Gift](https://slack.com/blog/news/feature-drop-dec25) (2025-12-22)
-- [Securing the Agentic Enterprise](https://slack.com/blog/transformation/securing-the-agentic-enterprise) (2025-12-17)
-- [Why Your AI Is Advancing — and Your Enterprise Isn’t](https://slack.com/blog/transformation/five-friction-points-enterprise-ai) (2025-12-16)
-- [Enterprise Search: How to Find Anything at Work with One Query](https://slack.com/blog/productivity/enterprise-search) (2025-12-15)
+- [12 Project Management Techniques for Better Collaboration and Efficiency](https://slack.com/blog/productivity/project-management-techniques) (2026-01-07)
+- [Best Team Collaboration Tools for Productivity in 2026](https://slack.com/blog/collaboration/best-collaboration-tools) (2026-01-07)
+- [What is a Knowledge Graph?](https://slack.com/blog/developers/knowledge-graph) (2026-01-05)
+- [Eight Active Listening Strategies for Better Communication](https://slack.com/blog/collaboration/active-listening) (2026-01-05)
+- [Five employee engagement models for a motivated workplace](https://slack.com/blog/transformation/employee-engagement-model) (2026-01-05)
 
 </details>
 
@@ -539,11 +539,11 @@ https://www.twilio.com/en-us/blog/what-is-broadcast-messaging
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [Supercharging LLMs: Scalable RL with torchforge and Weaver](https://pytorch.org/blog/supercharging-llms-scalable-rl-with-torchforge-and-weaver/) (2026-01-09)
 - [Warp Specialization in Triton: Design and Roadmap](https://pytorch.org/blog/warp-specialization-in-triton-design-and-roadmap/) (2026-01-09)
 - [PyTorch 2.9: FlexAttention Optimization Practice on Intel GPUs](https://pytorch.org/blog/pytorch-2-9-flexattention-optimization-practice-on-intel-gpus/) (2026-01-08)
 - [Deploying Smarter: Hardware-Software Co-design in PyTorch](https://pytorch.org/blog/deploying-smarter-hardware-software-co-design/) (2025-12-18)
 - [Enabling Cluster Launch Control with TLX](https://pytorch.org/blog/enabling-cluster-launch-control-with-tlx/) (2025-12-17)
-- [Hybrid Models Meet SGLang: More than Full Attention](https://pytorch.org/blog/hybrid-models-meet-sglang-more-than-full-attention/) (2025-12-03)
 
 </details>
 
