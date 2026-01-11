@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Why Selling WhatsApp to Facebook Would Be the Biggest Mistake (2012)](https://www.forbes.com/sites/ericjackson/2012/12/03/why-selling-whatsapp-to-facebook-would-be-the-biggest-mistake-of-jan-koums-and-brian-actons-lives/) (2026-01-11)
+- [I dumped Windows 11 for Linux, and you should too](https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html) (2026-01-11)
+- [Think of Pavlov](https://boz.com/articles/think-pavlov) (2026-01-11)
+- [More than one hundred years of Film Sizes](https://wichm.home.xs4all.nl/filmsize.html) (2026-01-11)
 - [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) (2026-01-11)
-- ['The answer cannot be nothing': The battle over Canada's mystery brain disease](https://www.bbc.com/news/articles/c623r47d67lo) (2026-01-11)
-- [Ripple: The Elegant TypeScript UI Framework](https://jsdev.space/meet-ripple/) (2026-01-11)
-- [My Home Fibre Network Disintegrated](https://alienchow.dev/post/fibre_disintegration/) (2026-01-11)
-- [Show HN: PrintReadyBook](https://printreadybook.com/) (2026-01-11)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [SQL INJECTION](https://dev.to/rodrino_adolfokupessala_/sql-injection-hga) (2026-01-11)
-- [I can finally use MCPs without fear](https://dev.to/andylbrummer/i-can-finally-use-mcps-without-fear-3pfl) (2026-01-11)
-- [16+ Free HTML Admin Dashboard Templates for SaaS](https://dev.to/suniljoshi19/free-html-admin-dashboard-templates-for-saas-54i8) (2026-01-11)
-- [Supercharge Telegram with Python: Meet CipherElite, The AI-Powered Userbot](https://dev.to/rishabhops/supercharge-telegram-with-python-meet-cipherelite-the-ai-powered-userbot-4lfe) (2026-01-11)
-- [🧱 Beginner-Friendly Guide 'Maximal Rectangle' – LeetCode 85 (C++, Python, JavaScript)](https://dev.to/om_shree_0709/beginner-friendly-guide-maximal-rectangle-leetcode-85-c-python-javascript-2joe) (2026-01-11)
+- [The Dark Side of Startup Life in Hyderabad (My Honest Experience)](https://dev.to/vasughanta09/the-dark-side-of-startup-life-in-hyderabad-my-honest-experience-593d) (2026-01-11)
+- [Building Cryptographic Audit Trails for AI Trading Systems: A Deep Dive into RFC 6962-Based Verification](https://dev.to/veritaschain/building-cryptographic-audit-trails-for-ai-trading-systems-a-deep-dive-into-rfc-6962-based-6aa) (2026-01-11)
+- [2025 Voice AI Guide How to Make Your Own Real-Time Voice Agent (Part-3)](https://dev.to/programmerraja/2025-voice-ai-guide-how-to-make-your-own-real-time-voice-agent-part-3-3ocb) (2026-01-11)
+- [Week 0: Starting a 16-Week Journey to Platform Engineering](https://dev.to/jimmy-maina/week-0-starting-a-16-week-journey-to-platform-engineering-cei) (2026-01-11)
+- [Introduction to DevOps #1. What is DevOps](https://dev.to/himanshu_bhatt/introduction-to-devops-1-what-is-devops-5h6l) (2026-01-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Medical Coding Course Free DEMO](https://medium.com/@molletibalu/medical-coding-course-free-demo-7b2d370a95a7?source=rss------programming-5) (2026-01-11)
-- [Distributed Transaction Coordination in Microservices: Beyond Two-Phase Commit and the Rise of Saga…](https://medium.com/@codingguy/distributed-transaction-coordination-in-microservices-beyond-two-phase-commit-and-the-rise-of-saga-0e32f5a24ac0?source=rss------programming-5) (2026-01-11)
-- [Mastering Data Fetching in Next.js:](https://medium.com/@chandansingh73718/mastering-data-fetching-in-next-js-6ca4b7d754dc?source=rss------programming-5) (2026-01-11)
-- [Hash Maps & Frequency Counting: The Backbone of Efficient Algorithms](https://medium.com/@chandansingh73718/hash-maps-frequency-counting-the-backbone-of-efficient-algorithms-6596b6482720?source=rss------programming-5) (2026-01-11)
-- [Build on Their Dime, Run on Mine: How I Optimized My Solo Dev Stack.](https://medium.com/@richardbanguiz/build-on-their-dime-run-on-mine-how-i-optimized-my-solo-dev-stack-3839362e4f33?source=rss------programming-5) (2026-01-11)
+- [Mastering Error Handling in JavaScript: From try/catch to Async Resilience](https://medium.com/@vigneshwiki07/mastering-error-handling-in-javascript-from-try-catch-to-async-resilience-4c272f2c03d5?source=rss------programming-5) (2026-01-11)
+- [Beyond the Event Loop: Node.js Embraces the Future with Native Web APIs & Enhanced Performance! ](https://medium.com/@beenakumawat004/beyond-the-event-loop-node-js-embraces-the-future-with-native-web-apis-enhanced-performance-09e28596be2b?source=rss------programming-5) (2026-01-11)
+- [Is Apple’s app store monopoly ending? iPhone opens alternative app store in Japan](https://medium.com/codetodeploy/is-apples-app-store-monopoly-ending-iphone-opens-alternative-app-store-in-japan-94c5ca3efbdf?source=rss------programming-5) (2026-01-11)
+- [ React Native + AI Integration in 2026: The Future of Intelligent Mobile Apps ](https://medium.com/@Amanda0/react-native-ai-integration-in-2026-the-future-of-intelligent-mobile-apps-43736044c21a?source=rss------programming-5) (2026-01-11)
+- [The Silent Transition in Python from “It Runs” to “It’s Reliable”](https://python.plainenglish.io/the-silent-transition-in-python-from-it-runs-to-its-reliable-b01f7d4b99c9?source=rss------programming-5) (2026-01-11)
 
 </details>
 
@@ -572,11 +572,11 @@ https://www.twilio.com/en-us/blog/what-is-broadcast-messaging
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [10 Hackathons You Can Join in 2026](https://www.analyticsvidhya.com/blog/2026/01/top-hackathon-platforms/) (2026-01-11)
 - [CES 2026: 17 AI Reveals That Will Blow Your Mind](https://www.analyticsvidhya.com/blog/2026/01/ces-2026-top-ai-reveals/) (2026-01-10)
 - [Agentic AI Learning Path 2026](https://www.analyticsvidhya.com/blog/2026/01/agentic-ai-expert-learning-path/) (2026-01-10)
 - [NyRAG: Building Production-Ready RAG Applications with Zero Code](https://www.analyticsvidhya.com/blog/2026/01/nyrag-building-rag-applications-with-zero-code/) (2026-01-09)
 - [8 FREE Google AI Tools to Enhance your Workflow](https://www.analyticsvidhya.com/blog/2026/01/free-google-ai-tools/) (2026-01-08)
-- [10 RAG Projects That Actually Teach You Retrieval](https://www.analyticsvidhya.com/blog/2026/01/rag-projects/) (2026-01-08)
 
 </details>
 
