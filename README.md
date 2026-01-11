@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [SpaceX gets FCC approval to launch 7,500 more Starlink satellites](https://techcrunch.com/2026/01/10/spacex-gets-fcc-approval-to-launch-7500-more-starlink-satellites/) (2026-01-10)
+- [OpenAI is reportedly asking contractors to upload real work from past jobs](https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/) (2026-01-10)
+- [Indonesia blocks Grok over non-consensual, sexualized deepfakes](https://techcrunch.com/2026/01/10/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/) (2026-01-10)
 - [I met a lot of weird robots at CES — here are the most memorable](https://techcrunch.com/2026/01/09/i-met-a-lot-of-weird-robots-at-ces-here-are-the-most-memorable/) (2026-01-10)
 - [Google moonshot spinout SandboxAQ claims an ex-exec is attempting ‘extortion’](https://techcrunch.com/2026/01/09/google-moonshot-spinout-sandboxaq-claims-an-ex-exec-is-attempting-extortion/) (2026-01-10)
-- [CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities ](https://techcrunch.com/2026/01/09/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/) (2026-01-09)
-- [How the Sleepbuds maker, Ozlo, is building a platform for sleep data](https://techcrunch.com/2026/01/09/how-the-sleepbuds-maker-ozlo-is-building-a-platform-for-sleep-data/) (2026-01-09)
-- [Meta signs deals with three nuclear companies for 6-plus GW of power](https://techcrunch.com/2026/01/09/meta-signs-deals-with-three-nuclear-companies-for-6-plus-gw-of-power/) (2026-01-09)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Circumcision classed as possible child abuse in draft CPS document](https://www.theguardian.com/society/2026/jan/10/circumcision-classed-as-possible-child-abuse-in-draft-cps-document) (2026-01-10)
-- [UpCodes (YC S17) is hiring PMs, SWEs to automate construction compliance](https://up.codes/careers?utm_source=HN) (2026-01-10)
-- [AI is a business model stress test](https://dri.es/ai-is-a-business-model-stress-test) (2026-01-10)
-- [Microsoft May Have Created the Slowest Windows in 25 Years with Windows 11](https://www.eteknix.com/microsoft-may-have-created-the-slowest-windows-in-25-years-with-windows-11/) (2026-01-10)
-- [Open Chaos: A self-evolving open-source project](https://www.openchaos.dev/) (2026-01-10)
+- [Show HN: GlyphLang – An AI-first programming language](https://news.ycombinator.com/item?id=46571166) (2026-01-10)
+- [Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more](https://news.ycombinator.com/item?id=46571149) (2026-01-10)
+- [Private equity firms acquired more than 500 autism centers in past decade: study](https://www.brown.edu/news/2026-01-07/private-equity-autism-centers) (2026-01-10)
+- [UK Orders Ofcom to Explore Encryption Backdoors](https://reclaimthenet.org/uk-orders-ofcom-to-explore-encryption-backdoors) (2026-01-10)
+- [Extracting books from production language models (2026)](https://arxiv.org/abs/2601.02671) (2026-01-10)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Musk says he&#8217;s going to open-source the new X algorithm next week](https://www.theverge.com/news/860294/elon-musk-open-source-x-algorithm) (2026-01-10)
+- [These are the smart home gadgets that impressed me at CES 2026](https://www.theverge.com/tech/860241/best-smart-home-devices-ces-2026-matter-ikea-aqara-amazon) (2026-01-10)
+- [The FCC is letting SpaceX launch 7,500 more Starlink satellites](https://www.theverge.com/news/860210/fcc-spacex-7500-more-starlink-satellites) (2026-01-10)
 - [Amazfit’s Active 2 tracker and Blu-rays are this week’s best deals](https://www.theverge.com/gadgets/859777/amazfit-active-2-tracker-4k-uhd-blu-ray-deal-sale) (2026-01-10)
 - [I’ve never used a trackball, but Keychron’s Nape Pro looks like the perfect one](https://www.theverge.com/tech/860178/ive-never-used-a-trackball-but-keychrons-nape-pro-looks-like-the-perfect-one) (2026-01-10)
-- [I replaced Windows with Linux and everything’s going great](https://www.theverge.com/tech/858910/linux-diary-gaming-desktop) (2026-01-10)
-- [We tried to get humanoid robots to do the laundry](https://www.theverge.com/featured-video/860104/we-tried-to-get-humanoid-robots-to-do-the-laundry) (2026-01-10)
-- [What&#8217;s on your desk, Stevie Bonifield?](https://www.theverge.com/gadgets/850479/desk-pc-keyboard-razer-kobo) (2026-01-10)
 
 </details>
 
@@ -75,11 +75,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Light waves, rising tides, and drifting ships: Game Off 2025 winners](https://github.blog/open-source/gaming/light-waves-rising-tides-and-drifting-ships-game-off-2025-winners/) (2026-01-10)
 - [Why AI is pushing developers toward typed languages](https://github.blog/ai-and-ml/llms/why-ai-is-pushing-developers-toward-typed-languages/) (2026-01-08)
 - [Agentic AI, MCP, and spec-driven development: Top blog posts of 2025](https://github.blog/developer-skills/agentic-ai-mcp-and-spec-driven-development-top-blog-posts-of-2025/) (2025-12-30)
 - [Bugs that survive the heat of continuous fuzzing](https://github.blog/security/vulnerability-research/bugs-that-survive-the-heat-of-continuous-fuzzing/) (2025-12-29)
 - [WRAP up your backlog with GitHub Copilot coding agent](https://github.blog/ai-and-ml/github-copilot/wrap-up-your-backlog-with-github-copilot-coding-agent/) (2025-12-26)
-- [Strengthening supply chain security: Preparing for the next malware campaign](https://github.blog/security/supply-chain-security/strengthening-supply-chain-security-preparing-for-the-next-malware-campaign/) (2025-12-23)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Containers aren’t a sandbox for AI agents](https://dev.to/siddhantkcode/containers-arent-a-sandbox-for-ai-agents-215o) (2026-01-10)
-- [AWS IAM Security: A Practical Guide That Actually Works in Production](https://dev.to/muhammad_yawar_malik/aws-iam-security-a-practical-guide-that-actually-works-in-production-5gmn) (2026-01-10)
-- [10 Proven Ways to Cut Your AWS Bill](https://dev.to/rogo032/10-proven-ways-to-cut-your-aws-bill-5157) (2026-01-10)
-- [What Are Recursive Language Models?](https://dev.to/alexmercedcoder/what-are-recursive-language-models-3kno) (2026-01-10)
-- [SQL Server Indexes Explained: Column Order, INCLUDE, and the Mistakes That Taught Me](https://dev.to/mashrulhaque/sql-server-indexes-explained-column-order-include-and-the-mistakes-that-taught-me-3h9b) (2026-01-10)
+- [The Brain of the Future Agent: Why VL-JEPA Matters for Real-World AI](https://dev.to/himanjan/the-brain-of-the-future-agent-why-vl-jepa-matters-for-real-world-ai-21no) (2026-01-11)
+- [I Exposed My $70 Kubernetes Cluster to the Internet (Without Opening a Single Port)](https://dev.to/bhargavmantha/i-exposed-my-70-kubernetes-cluster-to-the-internet-without-opening-a-single-port-nkk) (2026-01-11)
+- [Vibe coding: Time Zone Clock](https://dev.to/eseguru/vibe-coding-time-zone-clock-5bjc) (2026-01-11)
+- [Bug Bounty Hunting Guide 2026: From Zero to Paid Security Researcher](https://dev.to/krlz/bug-bounty-hunting-guide-2026-from-zero-to-paid-security-researcher-5c82) (2026-01-11)
+- [The Care and Feeding of Interrupt Handlers](https://dev.to/florent_herisson_691b0bac/the-care-and-feeding-of-interrupt-handlers-4gai) (2026-01-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Writing Smarter Python with Sets: Advanced Techniques That Scale](https://medium.com/@sardarsubhodip857/writing-smarter-python-with-sets-advanced-techniques-that-scale-b3acda975a3a?source=rss------programming-5) (2026-01-10)
-- [Hangman](https://medium.com/play-with-python/hangman-fb368d1bbbb0?source=rss------programming-5) (2026-01-10)
-- [How to Write Architecture Tests for the Clean Architecture](https://medium.com/@michaelmaurice410/how-to-write-architecture-tests-for-the-clean-architecture-710ef72c1a22?source=rss------programming-5) (2026-01-10)
-- [ 5 Practical Steps to Track Entity Changes in EF Core (Without Losing Your Mind)](https://medium.com/@maged_/5-practical-steps-to-track-entity-changes-in-ef-core-without-losing-your-mind-920a6d55ba6d?source=rss------programming-5) (2026-01-10)
-- [How to Use the Domain Event Pattern](https://medium.com/@mariammaurice/how-to-use-the-domain-event-pattern-dc541cfcc2b7?source=rss------programming-5) (2026-01-10)
+- [Building a Modern dApp Using .NET in 2025 — A Practical Guide for C# Developers](https://palmartin.medium.com/building-a-modern-dapp-using-net-in-2025-a-practical-guide-for-c-developers-7bd4d41f0139?source=rss------programming-5) (2026-01-11)
+- [I Audited 30+ GitHub Repos: These 7 Open Source Projects Are Changing Web Dev](https://medium.com/@oaampaben/i-audited-30-github-repos-these-7-open-source-projects-are-changing-web-dev-70536450fe90?source=rss------programming-5) (2026-01-11)
+- [Go’s Eternal Dilemma: When Will We Get Proper Enums and Union Types?](https://medium.programmerscareer.com/gos-eternal-dilemma-when-will-we-get-proper-enums-and-union-types-140c4925a9dd?source=rss------programming-5) (2026-01-11)
+- [BootcampCode 1.10: Workflow, Project Structure and Sprint 1 Review](https://primerpy.medium.com/bootcampcode-1-10-workflow-project-structure-and-sprint-1-review-2ce64d2b2c13?source=rss------programming-5) (2026-01-11)
+- [MutedBoard: Building a Forum Framework to Understand Software From the Inside](https://medium.com/activated-thinker/mutedboard-building-a-forum-framework-to-understand-software-from-the-inside-759db3917acd?source=rss------programming-5) (2026-01-11)
 
 </details>
 
@@ -544,6 +544,17 @@ https://www.twilio.com/en-us/blog/what-is-broadcast-messaging
 - [NVIDIA brings agents to life with DGX Spark and Reachy Mini](https://huggingface.co/blog/nvidia-reachy-mini) (2026-01-05)
 - [AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems](https://huggingface.co/blog/ServiceNow-AI/aprielguard) (2025-12-23)
 - [Tokenization in Transformers v5: Simpler, Clearer, and More Modular](https://huggingface.co/blog/tokenizers) (2025-12-18)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Datadog: How AI code reviews slash incident risk](https://www.artificialintelligence-news.com/news/datadog-how-ai-code-reviews-slash-incident-risk/) (2026-01-09)
+- [The future of personal injury law: AI and legal tech in Philadelphia](https://www.artificialintelligence-news.com/news/the-future-of-personal-injury-law-ai-and-legal-tech-in-philadelphia/) (2026-01-09)
+- [Autonomy without accountability: The real AI risk](https://www.artificialintelligence-news.com/news/autonomy-without-accountability-the-real-ai-risk/) (2026-01-09)
+- [From cloud to factory – humanoid robots coming to workplaces](https://www.artificialintelligence-news.com/news/from-cloud-to-factory-humanoid-robots-coming-to-workplaces/) (2026-01-09)
+- [“Dr AI, am I healthy?” 59% of Brits rely on AI for self-diagnosis](https://www.artificialintelligence-news.com/news/dr-ai-am-i-healthy-59-of-brits-rely-on-ai-for-self-diagnosis/) (2026-01-08)
 
 </details>
 
