@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: GlyphLang – An AI-first programming language](https://news.ycombinator.com/item?id=46571166) (2026-01-10)
-- [Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more](https://news.ycombinator.com/item?id=46571149) (2026-01-10)
-- [Private equity firms acquired more than 500 autism centers in past decade: study](https://www.brown.edu/news/2026-01-07/private-equity-autism-centers) (2026-01-10)
-- [UK Orders Ofcom to Explore Encryption Backdoors](https://reclaimthenet.org/uk-orders-ofcom-to-explore-encryption-backdoors) (2026-01-10)
-- [Extracting books from production language models (2026)](https://arxiv.org/abs/2601.02671) (2026-01-10)
+- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) (2026-01-11)
+- ['The answer cannot be nothing': The battle over Canada's mystery brain disease](https://www.bbc.com/news/articles/c623r47d67lo) (2026-01-11)
+- [Ripple: The Elegant TypeScript UI Framework](https://jsdev.space/meet-ripple/) (2026-01-11)
+- [My Home Fibre Network Disintegrated](https://alienchow.dev/post/fibre_disintegration/) (2026-01-11)
+- [Show HN: PrintReadyBook](https://printreadybook.com/) (2026-01-11)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Brain of the Future Agent: Why VL-JEPA Matters for Real-World AI](https://dev.to/himanjan/the-brain-of-the-future-agent-why-vl-jepa-matters-for-real-world-ai-21no) (2026-01-11)
-- [I Exposed My $70 Kubernetes Cluster to the Internet (Without Opening a Single Port)](https://dev.to/bhargavmantha/i-exposed-my-70-kubernetes-cluster-to-the-internet-without-opening-a-single-port-nkk) (2026-01-11)
-- [Vibe coding: Time Zone Clock](https://dev.to/eseguru/vibe-coding-time-zone-clock-5bjc) (2026-01-11)
-- [Bug Bounty Hunting Guide 2026: From Zero to Paid Security Researcher](https://dev.to/krlz/bug-bounty-hunting-guide-2026-from-zero-to-paid-security-researcher-5c82) (2026-01-11)
-- [The Care and Feeding of Interrupt Handlers](https://dev.to/florent_herisson_691b0bac/the-care-and-feeding-of-interrupt-handlers-4gai) (2026-01-11)
+- [SQL INJECTION](https://dev.to/rodrino_adolfokupessala_/sql-injection-hga) (2026-01-11)
+- [I can finally use MCPs without fear](https://dev.to/andylbrummer/i-can-finally-use-mcps-without-fear-3pfl) (2026-01-11)
+- [16+ Free HTML Admin Dashboard Templates for SaaS](https://dev.to/suniljoshi19/free-html-admin-dashboard-templates-for-saas-54i8) (2026-01-11)
+- [Supercharge Telegram with Python: Meet CipherElite, The AI-Powered Userbot](https://dev.to/rishabhops/supercharge-telegram-with-python-meet-cipherelite-the-ai-powered-userbot-4lfe) (2026-01-11)
+- [🧱 Beginner-Friendly Guide 'Maximal Rectangle' – LeetCode 85 (C++, Python, JavaScript)](https://dev.to/om_shree_0709/beginner-friendly-guide-maximal-rectangle-leetcode-85-c-python-javascript-2joe) (2026-01-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Building a Modern dApp Using .NET in 2025 — A Practical Guide for C# Developers](https://palmartin.medium.com/building-a-modern-dapp-using-net-in-2025-a-practical-guide-for-c-developers-7bd4d41f0139?source=rss------programming-5) (2026-01-11)
-- [I Audited 30+ GitHub Repos: These 7 Open Source Projects Are Changing Web Dev](https://medium.com/@oaampaben/i-audited-30-github-repos-these-7-open-source-projects-are-changing-web-dev-70536450fe90?source=rss------programming-5) (2026-01-11)
-- [Go’s Eternal Dilemma: When Will We Get Proper Enums and Union Types?](https://medium.programmerscareer.com/gos-eternal-dilemma-when-will-we-get-proper-enums-and-union-types-140c4925a9dd?source=rss------programming-5) (2026-01-11)
-- [BootcampCode 1.10: Workflow, Project Structure and Sprint 1 Review](https://primerpy.medium.com/bootcampcode-1-10-workflow-project-structure-and-sprint-1-review-2ce64d2b2c13?source=rss------programming-5) (2026-01-11)
-- [MutedBoard: Building a Forum Framework to Understand Software From the Inside](https://medium.com/activated-thinker/mutedboard-building-a-forum-framework-to-understand-software-from-the-inside-759db3917acd?source=rss------programming-5) (2026-01-11)
+- [Medical Coding Course Free DEMO](https://medium.com/@molletibalu/medical-coding-course-free-demo-7b2d370a95a7?source=rss------programming-5) (2026-01-11)
+- [Distributed Transaction Coordination in Microservices: Beyond Two-Phase Commit and the Rise of Saga…](https://medium.com/@codingguy/distributed-transaction-coordination-in-microservices-beyond-two-phase-commit-and-the-rise-of-saga-0e32f5a24ac0?source=rss------programming-5) (2026-01-11)
+- [Mastering Data Fetching in Next.js:](https://medium.com/@chandansingh73718/mastering-data-fetching-in-next-js-6ca4b7d754dc?source=rss------programming-5) (2026-01-11)
+- [Hash Maps & Frequency Counting: The Backbone of Efficient Algorithms](https://medium.com/@chandansingh73718/hash-maps-frequency-counting-the-backbone-of-efficient-algorithms-6596b6482720?source=rss------programming-5) (2026-01-11)
+- [Build on Their Dime, Run on Mine: How I Optimized My Solo Dev Stack.](https://medium.com/@richardbanguiz/build-on-their-dime-run-on-mine-how-i-optimized-my-solo-dev-stack-3839362e4f33?source=rss------programming-5) (2026-01-11)
 
 </details>
 
