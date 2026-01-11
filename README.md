@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [SpaceX gets FCC approval to launch 7,500 more Starlink satellites](https://techcrunch.com/2026/01/10/spacex-gets-fcc-approval-to-launch-7500-more-starlink-satellites/) (2026-01-10)
-- [OpenAI is reportedly asking contractors to upload real work from past jobs](https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/) (2026-01-10)
-- [Indonesia blocks Grok over non-consensual, sexualized deepfakes](https://techcrunch.com/2026/01/10/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/) (2026-01-10)
-- [I met a lot of weird robots at CES — here are the most memorable](https://techcrunch.com/2026/01/09/i-met-a-lot-of-weird-robots-at-ces-here-are-the-most-memorable/) (2026-01-10)
-- [Google moonshot spinout SandboxAQ claims an ex-exec is attempting ‘extortion’](https://techcrunch.com/2026/01/09/google-moonshot-spinout-sandboxaq-claims-an-ex-exec-is-attempting-extortion/) (2026-01-10)
+- [Google removes AI Overviews for certain medical queries](https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/) (2026-01-11)
+- [Nuclear startups are back in vogue with small reactors, and big challenges](https://techcrunch.com/2026/01/11/nuclear-startups-are-back-in-vogue-with-small-reactors-and-big-challenges/) (2026-01-11)
+- [Indonesia and Malaysia block Grok over non-consensual, sexualized deepfakes](https://techcrunch.com/2026/01/11/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/) (2026-01-11)
+- [Wing to expand drone delivery to another 150 Walmart stores](https://techcrunch.com/2026/01/11/wing-to-expand-drone-delivery-to-another-150-walmart-stores/) (2026-01-11)
+- [Google announces a new protocol to facilitate commerce using AI agents](https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/) (2026-01-11)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Why Selling WhatsApp to Facebook Would Be the Biggest Mistake (2012)](https://www.forbes.com/sites/ericjackson/2012/12/03/why-selling-whatsapp-to-facebook-would-be-the-biggest-mistake-of-jan-koums-and-brian-actons-lives/) (2026-01-11)
-- [I dumped Windows 11 for Linux, and you should too](https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html) (2026-01-11)
-- [Think of Pavlov](https://boz.com/articles/think-pavlov) (2026-01-11)
-- [More than one hundred years of Film Sizes](https://wichm.home.xs4all.nl/filmsize.html) (2026-01-11)
-- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) (2026-01-11)
+- [AI industry insiders launch site to poison the data that feeds them](https://www.theregister.com/2026/01/11/industry_insiders_seek_to_poison/) (2026-01-11)
+- [Ask HN: What Are You Working On? (January 2026)](https://news.ycombinator.com/item?id=46577242) (2026-01-11)
+- [Replace the Retiring Windows XP with Linux](https://www.linux.com/training-tutorials/replace-retiring-windows-xp-linux/) (2026-01-11)
+- [Instagram data breach reportedly exposed the personal info of 17.5M users](https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html) (2026-01-11)
+- [Happy 50th Birthday KIM-1](https://github.com/netzherpes/KIM1-Demo) (2026-01-11)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Musk says he&#8217;s going to open-source the new X algorithm next week](https://www.theverge.com/news/860294/elon-musk-open-source-x-algorithm) (2026-01-10)
-- [These are the smart home gadgets that impressed me at CES 2026](https://www.theverge.com/tech/860241/best-smart-home-devices-ces-2026-matter-ikea-aqara-amazon) (2026-01-10)
-- [The FCC is letting SpaceX launch 7,500 more Starlink satellites](https://www.theverge.com/news/860210/fcc-spacex-7500-more-starlink-satellites) (2026-01-10)
-- [Amazfit’s Active 2 tracker and Blu-rays are this week’s best deals](https://www.theverge.com/gadgets/859777/amazfit-active-2-tracker-4k-uhd-blu-ray-deal-sale) (2026-01-10)
-- [I’ve never used a trackball, but Keychron’s Nape Pro looks like the perfect one](https://www.theverge.com/tech/860178/ive-never-used-a-trackball-but-keychrons-nape-pro-looks-like-the-perfect-one) (2026-01-10)
+- [Instagram says it fixed the issue that let someone send all those password reset emails](https://www.theverge.com/news/860337/instagram-fixed-password-reset-emails) (2026-01-11)
+- [GameStop is kicking off 2026 by shutting down over 400 stores in 42 states](https://www.theverge.com/news/860329/gamestop-is-kicking-off-2026-by-shutting-down-over-400-stores-in-42-states) (2026-01-11)
+- [Google’s AI Inbox could be a glimpse of Gmail’s future](https://www.theverge.com/tech/859864/google-gmail-ai-inbox-hands-on) (2026-01-11)
+- [Wing’s drone delivery is coming to 150 more Walmarts](https://www.theverge.com/tech/859724/wing-walmart-drone-delivery-expansion-2027) (2026-01-11)
+- [How TiVo killed live TV](https://www.theverge.com/podcast/860321/tivo-tv-streaming-version-history) (2026-01-11)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [The oceans just keep getting hotter](https://arstechnica.com/science/2026/01/the-oceans-just-keep-getting-hotter/) (2026-01-11)
 - [Conservative lawmakers want porn taxes. Critics say they’re unconstitutional.](https://arstechnica.com/tech-policy/2026/01/conservative-lawmakers-want-porn-taxes-critics-say-theyre-unconstitutional/) (2026-01-10)
 - [SpaceX gets FCC permission to launch another 7,500 Starlink satellites](https://arstechnica.com/tech-policy/2026/01/spacex-gets-fcc-permission-to-launch-another-7500-starlink-satellites/) (2026-01-10)
 - [ESA considers righting the wrongs of Ariane 6 by turning it into a Franken-rocket](https://arstechnica.com/space/2026/01/esa-considers-righting-the-wrongs-of-ariane-6-by-turning-it-into-a-franken-rocket/) (2026-01-10)
 - [Measles continues raging in South Carolina; 99 new cases since Tuesday](https://arstechnica.com/health/2026/01/measles-continues-raging-in-south-carolina-99-new-cases-since-tuesday/) (2026-01-09)
-- [Google: Don’t make “bite-sized” content for LLMs if you care about search rank](https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/) (2026-01-09)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Dark Side of Startup Life in Hyderabad (My Honest Experience)](https://dev.to/vasughanta09/the-dark-side-of-startup-life-in-hyderabad-my-honest-experience-593d) (2026-01-11)
-- [Building Cryptographic Audit Trails for AI Trading Systems: A Deep Dive into RFC 6962-Based Verification](https://dev.to/veritaschain/building-cryptographic-audit-trails-for-ai-trading-systems-a-deep-dive-into-rfc-6962-based-6aa) (2026-01-11)
-- [2025 Voice AI Guide How to Make Your Own Real-Time Voice Agent (Part-3)](https://dev.to/programmerraja/2025-voice-ai-guide-how-to-make-your-own-real-time-voice-agent-part-3-3ocb) (2026-01-11)
-- [Week 0: Starting a 16-Week Journey to Platform Engineering](https://dev.to/jimmy-maina/week-0-starting-a-16-week-journey-to-platform-engineering-cei) (2026-01-11)
-- [Introduction to DevOps #1. What is DevOps](https://dev.to/himanshu_bhatt/introduction-to-devops-1-what-is-devops-5h6l) (2026-01-11)
+- [Video Streaming Platform (YouTube / Hotstar / Netflix / Prime) High-level System Design](https://dev.to/arghya_majumder/video-streaming-platform-youtube-hotstar-netflix-prime-high-level-system-design-c8l) (2026-01-11)
+- [From Stack Overflow to AI Agents: Why I Stopped Fighting and Started Orchestrating in 2025](https://dev.to/elfrontend/from-stack-overflow-to-ai-agents-why-i-stopped-fighting-and-started-orchestrating-in-2025-2ii5) (2026-01-11)
+- [AI Agents: Automate 80% of Support (Case Study)](https://dev.to/robort-gabriel/ai-agents-automate-80-of-support-case-study-5793) (2026-01-11)
+- [Don't pull the entire dump if you only need a small piece](https://dev.to/belochka1-04/dont-pull-the-entire-dump-if-you-only-need-a-small-piece-2aka) (2026-01-11)
+- [Building With AI Made Me Realize How Often We Don’t Understand Our Own Code](https://dev.to/azrael654/building-with-ai-made-me-realize-how-often-we-dont-understand-our-own-code-45i0) (2026-01-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Mastering Error Handling in JavaScript: From try/catch to Async Resilience](https://medium.com/@vigneshwiki07/mastering-error-handling-in-javascript-from-try-catch-to-async-resilience-4c272f2c03d5?source=rss------programming-5) (2026-01-11)
-- [Beyond the Event Loop: Node.js Embraces the Future with Native Web APIs & Enhanced Performance! ](https://medium.com/@beenakumawat004/beyond-the-event-loop-node-js-embraces-the-future-with-native-web-apis-enhanced-performance-09e28596be2b?source=rss------programming-5) (2026-01-11)
-- [Is Apple’s app store monopoly ending? iPhone opens alternative app store in Japan](https://medium.com/codetodeploy/is-apples-app-store-monopoly-ending-iphone-opens-alternative-app-store-in-japan-94c5ca3efbdf?source=rss------programming-5) (2026-01-11)
-- [ React Native + AI Integration in 2026: The Future of Intelligent Mobile Apps ](https://medium.com/@Amanda0/react-native-ai-integration-in-2026-the-future-of-intelligent-mobile-apps-43736044c21a?source=rss------programming-5) (2026-01-11)
-- [The Silent Transition in Python from “It Runs” to “It’s Reliable”](https://python.plainenglish.io/the-silent-transition-in-python-from-it-runs-to-its-reliable-b01f7d4b99c9?source=rss------programming-5) (2026-01-11)
+- [Boris Cherny recently wrote about how he uses Claude code and shows how he uses a few tools well…](https://medium.com/@krlehnardt/boris-cherny-recently-wrote-about-how-he-uses-claude-code-and-shows-how-he-uses-a-few-tools-well-57254cb286b9?source=rss------programming-5) (2026-01-11)
+- [ Master Advanced State Management in React: Must-Know Strategies for 2026! ](https://medium.com/@avantika0/master-advanced-state-management-in-react-must-know-strategies-for-2026-3ddc7ea99ab8?source=rss------programming-5) (2026-01-11)
+- [HLS vs DASH: Which Video Streaming Protocol Should You Actually Use?](https://medium.com/@coders.stop/hls-vs-dash-which-video-streaming-protocol-should-you-actually-use-4e74d50cd156?source=rss------programming-5) (2026-01-11)
+- [The Unicode Bug That’s Breaking Legal Documents Worldwide](https://medium.com/@sohail_saifi/the-unicode-bug-thats-breaking-legal-documents-worldwide-11e0b962bd8b?source=rss------programming-5) (2026-01-11)
+- [The AI Industry Is Starting to Crack](https://medium.com/@anurag.ydv36/the-ai-industry-is-starting-to-crack-6cd0d26449b9?source=rss------programming-5) (2026-01-11)
 
 </details>
 
@@ -561,11 +561,11 @@ https://www.twilio.com/en-us/blog/what-is-broadcast-messaging
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Automatic Prompt Optimization for Multimodal Vision Agents: A Self-Driving Car Example](https://towardsdatascience.com/automatic-prompt-optimization-for-multimodal-vision-agents-a-self-driving-car-example/) (2026-01-11)
+- [How to Leverage Slash Commands to Code Effectively](https://towardsdatascience.com/how-to-leverage-slash-commands-to-code-effectively/) (2026-01-11)
 - [Federated Learning, Part 1: The Basics of Training Models Where the Data Lives](https://towardsdatascience.com/federated-learning-part-1-the-basics-of-training-models-where-the-data-lives/) (2026-01-10)
 - [Beyond the Flat Table: Building an Enterprise-Grade Financial Model in Power BI](https://towardsdatascience.com/beyond-the-flat-table-building-an-enterprise-grade-financial-model-in-power-bi/) (2026-01-10)
 - [How LLMs Handle Infinite Context With Finite Memory](https://towardsdatascience.com/llms-can-now-process-infinite-context-windows/) (2026-01-09)
-- [Data Science Spotlight: Selected Problems from Advent of Code 2025](https://towardsdatascience.com/data-science-spotlight-selected-problems-from-advent-of-code-2025/) (2026-01-09)
-- [Mastering Non-Linear Data: A Guide to Scikit-Learn’s SplineTransformer](https://towardsdatascience.com/mastering-non-linear-data-a-guide-to-scikit-learns-splinetransformer/) (2026-01-09)
 
 </details>
 
