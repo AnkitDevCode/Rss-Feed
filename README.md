@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Motional puts AI at center of robotaxi reboot as it targets 2026 for driverless service](https://techcrunch.com/2026/01/11/motional-puts-ai-at-center-of-robotaxi-reboot-as-it-targets-2026-for-driverless-service/) (2026-01-12)
+- [Google co-founders may be leaving California](https://techcrunch.com/2026/01/11/google-co-founders-may-be-pulling-out-of-california/) (2026-01-11)
+- [Instagram says there’s been ‘no breach’ despite password reset requests](https://techcrunch.com/2026/01/11/instagram-says-theres-been-no-breach-despite-password-reset-requests/) (2026-01-11)
 - [Google removes AI Overviews for certain medical queries](https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/) (2026-01-11)
 - [Nuclear startups are back in vogue with small reactors, and big challenges](https://techcrunch.com/2026/01/11/nuclear-startups-are-back-in-vogue-with-small-reactors-and-big-challenges/) (2026-01-11)
-- [Indonesia and Malaysia block Grok over non-consensual, sexualized deepfakes](https://techcrunch.com/2026/01/11/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/) (2026-01-11)
-- [Wing to expand drone delivery to another 150 Walmart stores](https://techcrunch.com/2026/01/11/wing-to-expand-drone-delivery-to-another-150-walmart-stores/) (2026-01-11)
-- [Google announces a new protocol to facilitate commerce using AI agents](https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/) (2026-01-11)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [AI industry insiders launch site to poison the data that feeds them](https://www.theregister.com/2026/01/11/industry_insiders_seek_to_poison/) (2026-01-11)
-- [Ask HN: What Are You Working On? (January 2026)](https://news.ycombinator.com/item?id=46577242) (2026-01-11)
-- [Replace the Retiring Windows XP with Linux](https://www.linux.com/training-tutorials/replace-retiring-windows-xp-linux/) (2026-01-11)
-- [Instagram data breach reportedly exposed the personal info of 17.5M users](https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html) (2026-01-11)
-- [Happy 50th Birthday KIM-1](https://github.com/netzherpes/KIM1-Demo) (2026-01-11)
+- [Statement by Federal Reserve Chair Jerome F. Powell [video]](https://www.youtube.com/watch?v=KckGHaBLSn4) (2026-01-12)
+- [Jerome Powell Responds](https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm) (2026-01-12)
+- [Show HN: What if AI agents had Zodiac personalities?](https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities) (2026-01-11)
+- [I'd tell you a UDP joke…](https://www.codepuns.com/post/805294580859879424/i-would-tell-you-a-udp-joke-but-you-might-not-get) (2026-01-11)
+- [This game is a single 13 KiB file that runs on Windows, Linux and in the Browser](https://iczelia.net/posts/snake-polyglot/) (2026-01-11)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [You need to listen to Billy Woods’ horrorcore masterpiece for the A24 crowd](https://www.theverge.com/column/860372/billy-woods-horrorcore-masterpiece-golliwog-a24) (2026-01-11)
+- [Google pulls AI overviews for some medical searches](https://www.theverge.com/news/860356/google-pulls-alarming-dangerous-medical-ai-overviews) (2026-01-11)
+- [Here are over 20 gadgets that’ll help you achieve your New Year’s resolutions](https://www.theverge.com/gadgets/855851/new-years-resolution-gifts-ideas-2026-tech-gadgets-fitness) (2026-01-11)
 - [Instagram says it fixed the issue that let someone send all those password reset emails](https://www.theverge.com/news/860337/instagram-fixed-password-reset-emails) (2026-01-11)
 - [GameStop is kicking off 2026 by shutting down over 400 stores in 42 states](https://www.theverge.com/news/860329/gamestop-is-kicking-off-2026-by-shutting-down-over-400-stores-in-42-states) (2026-01-11)
-- [Google’s AI Inbox could be a glimpse of Gmail’s future](https://www.theverge.com/tech/859864/google-gmail-ai-inbox-hands-on) (2026-01-11)
-- [Wing’s drone delivery is coming to 150 more Walmarts](https://www.theverge.com/tech/859724/wing-walmart-drone-delivery-expansion-2027) (2026-01-11)
-- [How TiVo killed live TV](https://www.theverge.com/podcast/860321/tivo-tv-streaming-version-history) (2026-01-11)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [That time Will Smith helped discover new species of anaconda](https://arstechnica.com/science/2026/01/that-time-will-smith-helped-discover-new-species-of-anaconda/) (2026-01-11)
 - [The oceans just keep getting hotter](https://arstechnica.com/science/2026/01/the-oceans-just-keep-getting-hotter/) (2026-01-11)
 - [Conservative lawmakers want porn taxes. Critics say they’re unconstitutional.](https://arstechnica.com/tech-policy/2026/01/conservative-lawmakers-want-porn-taxes-critics-say-theyre-unconstitutional/) (2026-01-10)
 - [SpaceX gets FCC permission to launch another 7,500 Starlink satellites](https://arstechnica.com/tech-policy/2026/01/spacex-gets-fcc-permission-to-launch-another-7500-starlink-satellites/) (2026-01-10)
 - [ESA considers righting the wrongs of Ariane 6 by turning it into a Franken-rocket](https://arstechnica.com/space/2026/01/esa-considers-righting-the-wrongs-of-ariane-6-by-turning-it-into-a-franken-rocket/) (2026-01-10)
-- [Measles continues raging in South Carolina; 99 new cases since Tuesday](https://arstechnica.com/health/2026/01/measles-continues-raging-in-south-carolina-99-new-cases-since-tuesday/) (2026-01-09)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Video Streaming Platform (YouTube / Hotstar / Netflix / Prime) High-level System Design](https://dev.to/arghya_majumder/video-streaming-platform-youtube-hotstar-netflix-prime-high-level-system-design-c8l) (2026-01-11)
-- [From Stack Overflow to AI Agents: Why I Stopped Fighting and Started Orchestrating in 2025](https://dev.to/elfrontend/from-stack-overflow-to-ai-agents-why-i-stopped-fighting-and-started-orchestrating-in-2025-2ii5) (2026-01-11)
-- [AI Agents: Automate 80% of Support (Case Study)](https://dev.to/robort-gabriel/ai-agents-automate-80-of-support-case-study-5793) (2026-01-11)
-- [Don't pull the entire dump if you only need a small piece](https://dev.to/belochka1-04/dont-pull-the-entire-dump-if-you-only-need-a-small-piece-2aka) (2026-01-11)
-- [Building With AI Made Me Realize How Often We Don’t Understand Our Own Code](https://dev.to/azrael654/building-with-ai-made-me-realize-how-often-we-dont-understand-our-own-code-45i0) (2026-01-11)
+- [FastAPI from Zero: Writing Your First API Route](https://dev.to/tekeu_franck_6dfe86e6f54c/fastapi-from-zero-writing-your-first-api-route-3gde) (2026-01-12)
+- [Amazon Bedrock AgentCore : MCP Server on AgentCore Runtime and AgentCore Gateway](https://dev.to/budionosan/amazon-bedrock-agentcore-mcp-server-on-agentcore-runtime-and-agentcore-gateway-el9) (2026-01-12)
+- [A Tier List for Company AI Strategies.](https://dev.to/milandry/a-tier-list-for-company-ai-strategies-3fmo) (2026-01-12)
+- [Making data conversational: Building MCP Servers as API bridges](https://dev.to/writerviber/making-data-conversational-building-mcp-servers-as-api-bridges-2onb) (2026-01-12)
+- [🌈 Looking for help if possible: I’m Stuck on My TrackMyHRT App (Medication + Symptom Tracker)](https://dev.to/codebunny20/looking-for-help-if-possible-im-stuck-on-my-trackmyhrt-app-medication-symptom-tracker-38fa) (2026-01-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Boris Cherny recently wrote about how he uses Claude code and shows how he uses a few tools well…](https://medium.com/@krlehnardt/boris-cherny-recently-wrote-about-how-he-uses-claude-code-and-shows-how-he-uses-a-few-tools-well-57254cb286b9?source=rss------programming-5) (2026-01-11)
-- [ Master Advanced State Management in React: Must-Know Strategies for 2026! ](https://medium.com/@avantika0/master-advanced-state-management-in-react-must-know-strategies-for-2026-3ddc7ea99ab8?source=rss------programming-5) (2026-01-11)
-- [HLS vs DASH: Which Video Streaming Protocol Should You Actually Use?](https://medium.com/@coders.stop/hls-vs-dash-which-video-streaming-protocol-should-you-actually-use-4e74d50cd156?source=rss------programming-5) (2026-01-11)
-- [The Unicode Bug That’s Breaking Legal Documents Worldwide](https://medium.com/@sohail_saifi/the-unicode-bug-thats-breaking-legal-documents-worldwide-11e0b962bd8b?source=rss------programming-5) (2026-01-11)
-- [The AI Industry Is Starting to Crack](https://medium.com/@anurag.ydv36/the-ai-industry-is-starting-to-crack-6cd0d26449b9?source=rss------programming-5) (2026-01-11)
+- [Explaining Programming Paradigms Like Never Before — A Journey from Classical Code to Quantum…](https://medium.com/@hercilion/explaining-programming-paradigms-like-never-before-a-journey-from-classical-code-to-quantum-bb76654a83d0?source=rss------programming-5) (2026-01-12)
+- [Java Controller Refactoring: 6 Best Practices Every Developer Should Know](https://medium.com/@sunil17bbmp/java-controller-refactoring-6-best-practices-every-developer-should-know-bf0cb2793c71?source=rss------programming-5) (2026-01-12)
+- [DDR4 vs. DDR5: Incremental Evolution or Architectural Revolution?](https://medium.com/@markel.subtracker/ddr4-vs-ddr5-incremental-evolution-or-architectural-revolution-6500ed0ff78a?source=rss------programming-5) (2026-01-12)
+- [How I’m Keeping My Team Practices Consistent with Cursor Rules](https://medium.com/@danielhamam/how-im-keeping-my-team-practices-consistent-with-cursor-rules-e79c5b1db5d2?source=rss------programming-5) (2026-01-12)
+- [Why many Java interviews fail even for good developers](https://medium.com/@poojadeepa14/why-many-java-interviews-fail-even-for-good-developers-9897d4b1f457?source=rss------programming-5) (2026-01-12)
 
 </details>
 
@@ -135,6 +135,17 @@
 - [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 - [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
+
+</details>
+
+<details>
+<summary>🎮 NVIDIA Blog</summary>
+
+- [NVIDIA Unveils Multi-Agent Intelligent Warehouse and Catalog Enrichment AI Blueprints to Power the Retail Pipeline](https://blogs.nvidia.com/blog/multi-agent-intelligent-warehouse-and-catalog-enrichment-blueprints/) (2026-01-09)
+- [AI Copilot Keeps Berkeley’s X-Ray Particle Accelerator on Track](https://blogs.nvidia.com/blog/ai-copilot-berkeley-x-ray-particle-accelerator/) (2026-01-08)
+- [Japan Science and Technology Agency Develops NVIDIA-Powered Moonshot Robot for Elderly Care](https://blogs.nvidia.com/blog/japan-science-technology-agency-develops-moonshot-robot/) (2026-01-08)
+- [More Ways to Play, More Games to Love — GeForce NOW Wraps CES With Linux Support, Fire TV App, Flight Stick Controls](https://blogs.nvidia.com/blog/geforce-now-thursday-ces-2026-recap/) (2026-01-08)
+- [Steel, Sensors and Silicon: How Caterpillar Is Bringing Edge AI to the Jobsite](https://blogs.nvidia.com/blog/caterpillar-ces-2026/) (2026-01-07)
 
 </details>
 
@@ -544,17 +555,6 @@ https://www.twilio.com/en-us/blog/what-is-broadcast-messaging
 - [NVIDIA brings agents to life with DGX Spark and Reachy Mini](https://huggingface.co/blog/nvidia-reachy-mini) (2026-01-05)
 - [AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems](https://huggingface.co/blog/ServiceNow-AI/aprielguard) (2025-12-23)
 - [Tokenization in Transformers v5: Simpler, Clearer, and More Modular](https://huggingface.co/blog/tokenizers) (2025-12-18)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Datadog: How AI code reviews slash incident risk](https://www.artificialintelligence-news.com/news/datadog-how-ai-code-reviews-slash-incident-risk/) (2026-01-09)
-- [The future of personal injury law: AI and legal tech in Philadelphia](https://www.artificialintelligence-news.com/news/the-future-of-personal-injury-law-ai-and-legal-tech-in-philadelphia/) (2026-01-09)
-- [Autonomy without accountability: The real AI risk](https://www.artificialintelligence-news.com/news/autonomy-without-accountability-the-real-ai-risk/) (2026-01-09)
-- [From cloud to factory – humanoid robots coming to workplaces](https://www.artificialintelligence-news.com/news/from-cloud-to-factory-humanoid-robots-coming-to-workplaces/) (2026-01-09)
-- [“Dr AI, am I healthy?” 59% of Brits rely on AI for self-diagnosis](https://www.artificialintelligence-news.com/news/dr-ai-am-i-healthy-59-of-brits-rely-on-ai-for-self-diagnosis/) (2026-01-08)
 
 </details>
 
