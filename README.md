@@ -20,66 +20,66 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [These Gen Zers just raised $11.75M to put Africa’s defense back in the hands of Africans](https://techcrunch.com/2026/01/12/these-gen-zers-just-raised-11-75m-to-put-africas-defense-back-in-the-hands-of-africans/) (2026-01-12)
-- [inDrive turns to ads and groceries to diversify revenue](https://techcrunch.com/2026/01/11/indrive-turns-to-ads-and-groceries-to-diversify-revenue/) (2026-01-12)
-- [Motional puts AI at center of robotaxi reboot as it targets 2026 for driverless service](https://techcrunch.com/2026/01/11/motional-puts-ai-at-center-of-robotaxi-reboot-as-it-targets-2026-for-driverless-service/) (2026-01-12)
-- [Google co-founders may be leaving California](https://techcrunch.com/2026/01/11/google-co-founders-may-be-pulling-out-of-california/) (2026-01-11)
-- [Instagram says there’s been ‘no breach’ despite password reset requests](https://techcrunch.com/2026/01/11/instagram-says-theres-been-no-breach-despite-password-reset-requests/) (2026-01-11)
+- [Fintech firm Betterment confirms data breach after hackers send fake crypto scam notification to users](https://techcrunch.com/2026/01/12/fintech-firm-betterment-confirms-data-breach-after-hackers-send-fake-crypto-scam-notification-to-users/) (2026-01-12)
+- [Developers have made $550 billion on Apple’s App Store since 2008](https://techcrunch.com/2026/01/12/developers-have-made-550-billion-on-apples-app-store-since-2008/) (2026-01-12)
+- [Google’s Gemini to power Apple’s AI features like Siri](https://techcrunch.com/2026/01/12/googles-gemini-to-power-apples-ai-features-like-siri/) (2026-01-12)
+- [Paramount files lawsuit against Warner Bros. amidst controversial Netflix merger](https://techcrunch.com/2026/01/12/paramount-files-lawsuit-against-warner-bros-amidst-controversial-netflix-merger/) (2026-01-12)
+- [A New Jersey lawsuit shows how hard it is to fight deepfake porn](https://techcrunch.com/2026/01/12/a-new-jersey-lawsuit-shows-how-hard-it-is-to-fight-deepfake-porn/) (2026-01-12)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Fossil versus Git](https://fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki) (2026-01-12)
-- [Lightpanda migrate DOM implementation to Zig](https://lightpanda.io/blog/posts/migrating-our-dom-to-zig) (2026-01-12)
-- [Ai, Japanese chimpanzee who counted and painted dies at 49](https://www.bbc.com/news/articles/cj9r3zl2ywyo) (2026-01-12)
-- [Xfce is great](https://rubenerd.com/xfce-is-great/) (2026-01-12)
-- [Himalayas bare and rocky after reduced winter snowfall, scientists warn](https://www.bbc.com/news/articles/clyndv7zd20o) (2026-01-12)
+- [Iran has now been offline for 96 hours](https://twitter.com/netblocks/status/2010750871274160361) (2026-01-12)
+- [Postal Arbitrage](https://walzr.com/postal-arbitrage) (2026-01-12)
+- [Message Queues: A Simple Guide with Analogies](https://www.cloudamqp.com/blog/message-queues-exaplined-with-analogies.html) (2026-01-12)
+- [Carma (YC W24 clients, A in 6mo) Eng hiring: Replace $500B human fleet ops with AI](https://news.ycombinator.com/item?id=46591170) (2026-01-12)
+- [Show HN: AI in SolidWorks](https://www.trylad.com) (2026-01-12)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Trump’s fundraisers asked Microsoft for its White House ballroom donation](https://www.theverge.com/news/859578/trump-white-house-ballroom-microsoft-amazon-donations) (2026-01-12)
-- [You need to listen to Billy Woods’ horrorcore masterpiece for the A24 crowd](https://www.theverge.com/column/860372/billy-woods-horrorcore-masterpiece-golliwog-a24) (2026-01-11)
-- [Google pulls AI overviews for some medical searches](https://www.theverge.com/news/860356/google-pulls-alarming-dangerous-medical-ai-overviews) (2026-01-11)
-- [Here are over 20 gadgets that’ll help you achieve your New Year’s resolutions](https://www.theverge.com/gadgets/855851/new-years-resolution-gifts-ideas-2026-tech-gadgets-fitness) (2026-01-11)
-- [Instagram says it fixed the issue that let someone send all those password reset emails](https://www.theverge.com/news/860337/instagram-fixed-password-reset-emails) (2026-01-11)
+- [Anker goes big with new whole home backup system](https://www.theverge.com/news/860392/anker-goes-big-with-new-whole-home-backup-system) (2026-01-12)
+- [Hytale finally launches this week with a bright future ahead](https://www.theverge.com/news/860687/hytale-early-access-launch-release-date-riot-games-hypixel-studios) (2026-01-12)
+- [Paramount sues after Warner Bros. Discovery rejects its latest deal](https://www.theverge.com/news/860664/paramount-warner-bros-discovery-lawsuit-netflix-merger) (2026-01-12)
+- [DJI’s mobile selfie stick / tripod / stabilizer will track you automatically for its lowest price of $103](https://www.theverge.com/gadgets/860590/dji-mobile-7p-gimbal-stabilizer-anker-341-usb-power-strip-deal-sale) (2026-01-12)
+- [Amazon has started automatically upgrading Prime members to Alexa Plus](https://www.theverge.com/news/860581/amazon-prime-alexa-plus-automatic-upgrade) (2026-01-12)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [That time Will Smith helped discover new species of anaconda](https://arstechnica.com/science/2026/01/that-time-will-smith-helped-discover-new-species-of-anaconda/) (2026-01-11)
-- [The oceans just keep getting hotter](https://arstechnica.com/science/2026/01/the-oceans-just-keep-getting-hotter/) (2026-01-11)
-- [Conservative lawmakers want porn taxes. Critics say they’re unconstitutional.](https://arstechnica.com/tech-policy/2026/01/conservative-lawmakers-want-porn-taxes-critics-say-theyre-unconstitutional/) (2026-01-10)
-- [SpaceX gets FCC permission to launch another 7,500 Starlink satellites](https://arstechnica.com/tech-policy/2026/01/spacex-gets-fcc-permission-to-launch-another-7500-starlink-satellites/) (2026-01-10)
-- [ESA considers righting the wrongs of Ariane 6 by turning it into a Franken-rocket](https://arstechnica.com/space/2026/01/esa-considers-righting-the-wrongs-of-ariane-6-by-turning-it-into-a-franken-rocket/) (2026-01-10)
+- [Is this the beginning of the end for GameStop?](https://arstechnica.com/gaming/2026/01/is-this-the-beginning-of-the-end-for-gamestop/) (2026-01-12)
+- [UK probes X over Grok CSAM scandal; Elon Musk cries censorship](https://arstechnica.com/tech-policy/2026/01/uk-investigating-x-after-grok-undressed-thousands-of-women-and-children/) (2026-01-12)
+- [The Chevrolet Bolt is back... but for how long?](https://arstechnica.com/cars/2026/01/the-chevrolet-bolt-is-back-but-for-how-long/) (2026-01-12)
+- [New research shows how shunning ultraprocessed foods helps with aging](https://arstechnica.com/health/2026/01/avoiding-ultraprocessed-foods-supports-healthier-aging/) (2026-01-12)
+- [NASA topples towers used to test Saturn rockets, space shuttle](https://arstechnica.com/space/2026/01/nasa-topples-towers-used-to-test-saturn-rockets-space-shuttle/) (2026-01-12)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [CES showed me why Chinese tech companies feel so optimistic](https://www.technologyreview.com/2026/01/12/1131193/ces-showed-me-why-chinese-tech-companies-feel-so-optimistic/) (2026-01-12)
+- [Mitigating emissions from air freight: Unlocking the potential of SAF with book and claim](https://www.technologyreview.com/2026/01/12/1128939/mitigating-emissions-from-air-freight-unlocking-the-potential-of-saf-with-book-and-claim/) (2026-01-12)
+- [The Download: introducing this year’s 10 Breakthrough Technologies](https://www.technologyreview.com/2026/01/12/1131176/the-download-introducing-this-years-10-breakthrough-technologies/) (2026-01-12)
+- [Securing digital assets as crypto crime surges](https://www.technologyreview.com/2026/01/12/1129479/securing-digital-assets-as-crypto-crime-surges/) (2026-01-12)
 - [10 Breakthrough Technologies 2026](https://www.technologyreview.com/2026/01/12/1130697/10-breakthrough-technologies-2026/) (2026-01-12)
-- [Why some “breakthrough” technologies don’t work out](https://www.technologyreview.com/2026/01/12/1130726/opinion-breakthrough-technology-failures-flops/) (2026-01-12)
-- [The astronaut training tourists to fly in the world’s first commercial space station](https://www.technologyreview.com/2026/01/12/1130817/vast-astronaut-drew-feustel-nasa-space-station/) (2026-01-12)
-- [Good technology should change the world](https://www.technologyreview.com/2026/01/12/1129770/editors-letter-january-2026/) (2026-01-12)
-- [Meet the new biologists treating LLMs like aliens](https://www.technologyreview.com/2026/01/12/1129782/ai-large-language-models-biology-alien-autopsy/) (2026-01-12)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Want better AI outputs? Try context engineering.](https://github.blog/ai-and-ml/generative-ai/want-better-ai-outputs-try-context-engineering/) (2026-01-12)
 - [Light waves, rising tides, and drifting ships: Game Off 2025 winners](https://github.blog/open-source/gaming/light-waves-rising-tides-and-drifting-ships-game-off-2025-winners/) (2026-01-10)
 - [Why AI is pushing developers toward typed languages](https://github.blog/ai-and-ml/llms/why-ai-is-pushing-developers-toward-typed-languages/) (2026-01-08)
 - [Agentic AI, MCP, and spec-driven development: Top blog posts of 2025](https://github.blog/developer-skills/agentic-ai-mcp-and-spec-driven-development-top-blog-posts-of-2025/) (2025-12-30)
 - [Bugs that survive the heat of continuous fuzzing](https://github.blog/security/vulnerability-research/bugs-that-survive-the-heat-of-continuous-fuzzing/) (2025-12-29)
-- [WRAP up your backlog with GitHub Copilot coding agent](https://github.blog/ai-and-ml/github-copilot/wrap-up-your-backlog-with-github-copilot-coding-agent/) (2025-12-26)
 
 </details>
 
@@ -97,33 +97,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [[BOJ/C++] 단계별로 풀어보기 - 정렬(2)](https://dev.to/dbsans11/bojc-dangyebyeolro-puleobogi-jeongryeol2-3592) (2026-01-12)
-- [Mathematical Audit of Excalidraw: Finding "Logic Echoes" via Linear Algebra](https://dev.to/petar_liovic_9fb912bdc228/mathematical-audit-of-excalidraw-finding-logic-echoes-via-linear-algebra-26pj) (2026-01-12)
-- [The Power of the Duo: Why Strategic Partnerships are the Secret to Resilient Teams](https://dev.to/adegiamb/the-power-of-the-duo-why-strategic-partnerships-are-the-secret-to-resilient-teams-4b7n) (2026-01-12)
-- [Laravel Pulse card for Clean Architecture UseCase](https://dev.to/giacomomasseron/laravel-pulse-card-for-clean-architecture-usecase-4kl1) (2026-01-12)
-- [OIDC UserInfo Endpoint Explained for Backend Engineers](https://dev.to/mumbocoder/what-is-openid-connect-protocol--2d84) (2026-01-12)
+- [`XmlFluentValidator`: Code-First XML Validation That Stays Close to Your Rules](https://dev.to/iamrzr/xmlfluentvalidator-code-first-xml-validation-that-stays-close-to-your-rules-3mj6) (2026-01-12)
+- [I Almost Fell for a “Last Wish” Scam : Here’s What You Need to Know](https://dev.to/om_shree_0709/i-almost-fell-for-a-last-wish-scam-heres-what-you-need-to-know-4g4i) (2026-01-12)
+- [[Boost]](https://dev.to/elizabethfuentes12/-4gd8) (2026-01-12)
+- [A Procedural Terrain Adventure in Unity pt.1](https://dev.to/dbarrass/a-procedural-terrain-adventure-in-unity-pt1-3gmm) (2026-01-12)
+- [No Kotlin? No Problem. How I shipped Android Apps using React & Capacitor](https://dev.to/hsr88/no-kotlin-no-problem-how-i-shipped-android-apps-using-react-capacitor-9ja) (2026-01-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [5 AI Workflows That Instantly Made Me a Faster Developer (I Wish I Knew These Sooner)](https://medium.com/@mahadrajpoot911/5-ai-workflows-that-instantly-made-me-a-faster-developer-i-wish-i-knew-these-sooner-0de222e6d188?source=rss------programming-5) (2026-01-12)
-- [Why var, let, and const Confuse Most Beginners](https://medium.com/@ansari1.nasir2/why-var-let-and-const-confuse-most-beginners-8ccf28b7484a?source=rss------programming-5) (2026-01-12)
-- [Weekly Digest #255](https://wklytech.medium.com/weekly-digest-255-28871625f04a?source=rss------programming-5) (2026-01-12)
-- [Top 12 AI Trends Dominating 2026](https://medium.com/@adityaojha075/top-12-ai-trends-dominating-2026-253b5f6cda21?source=rss------programming-5) (2026-01-12)
-- [Technical debt isn’t just code, it’s lost context](https://medium.com/@thomas.byern/technical-debt-isnt-just-code-it-s-lost-context-d2ea135cb44e?source=rss------programming-5) (2026-01-12)
+- [An Honest Recruiter Told Me Why ‘Average Developers’ in India are Disappearing](https://medium.com/write-a-catalyst/an-honest-recruiter-told-me-why-average-developers-in-india-are-disappearing-01fb9a1031cf?source=rss------programming-5) (2026-01-12)
+- [The Great Outdoors Paradox: Why "Feeling Better" Is a Destination, Not a Requirement](https://medium.com/@hazeyouth2/the-great-outdoors-paradox-why-feeling-better-is-a-destination-not-a-requirement-e16d3a4175c2?source=rss------programming-5) (2026-01-12)
+- [Go: a garbage collector where you least expect it](https://medium.com/@ninucium/go-a-garbage-collector-where-you-least-expect-it-7a85e5c689d0?source=rss------programming-5) (2026-01-12)
+- [10 Free University Courses That Are Better Than Paid Ones](https://medium.com/write-a-catalyst/10-free-university-courses-that-are-better-than-paid-ones-af63f42e798b?source=rss------programming-5) (2026-01-12)
+- [CORE JAVA STORY](https://amn24.medium.com/core-java-story-fe85dd0cb94e?source=rss------programming-5) (2026-01-12)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [AWS Weekly Roundup: AWS Lambda for .NET 10, AWS Client VPN quickstart, Best of AWS re:Invent, and more (January 12, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-for-net-10-aws-client-vpn-quickstart-best-of-aws-reinvent-and-more-january-12-2026/) (2026-01-12)
 - [Happy New Year! AWS Weekly Roundup: 10,000 AIdeas Competition, Amazon EC2, Amazon ECS Managed Instances and more (January 5, 2026)](https://aws.amazon.com/blogs/aws/happy-new-year-aws-weekly-roundup-10000-aideas-competition-amazon-ec2-amazon-ecs-managed-instances-and-more-january-5-2026/) (2026-01-05)
 - [AWS Weekly Roundup: Amazon ECS, Amazon CloudWatch, Amazon Cognito and more (December 15, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ecs-amazon-cloudwatch-amazon-cognito-and-more-december-15-2025/) (2025-12-15)
 - [AWS Weekly Roundup: AWS re:Invent keynote recap, on-demand videos, and more (December 8, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-reinvent-keynote-recap-on-demand-videos-and-more-december-8-2025/) (2025-12-08)
 - [Amazon Bedrock adds reinforcement ﬁne-tuning simplifying how developers build smarter, more accurate AI models](https://aws.amazon.com/blogs/aws/improve-model-accuracy-with-reinforcement-fine-tuning-in-amazon-bedrock/) (2025-12-03)
-- [New serverless customization in Amazon SageMaker AI accelerates model fine-tuning](https://aws.amazon.com/blogs/aws/new-serverless-customization-in-amazon-sagemaker-ai-accelerates-model-fine-tuning/) (2025-12-03)
 
 </details>
 
@@ -141,11 +141,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [AI’s Next Revolution: Multiply Labs Is Scaling Robotics-Driven Cell Therapy Biomanufacturing Labs](https://blogs.nvidia.com/blog/multiply-labs-isaac-omniverse/) (2026-01-12)
 - [NVIDIA Unveils Multi-Agent Intelligent Warehouse and Catalog Enrichment AI Blueprints to Power the Retail Pipeline](https://blogs.nvidia.com/blog/multi-agent-intelligent-warehouse-and-catalog-enrichment-blueprints/) (2026-01-09)
 - [AI Copilot Keeps Berkeley’s X-Ray Particle Accelerator on Track](https://blogs.nvidia.com/blog/ai-copilot-berkeley-x-ray-particle-accelerator/) (2026-01-08)
 - [Japan Science and Technology Agency Develops NVIDIA-Powered Moonshot Robot for Elderly Care](https://blogs.nvidia.com/blog/japan-science-technology-agency-develops-moonshot-robot/) (2026-01-08)
 - [More Ways to Play, More Games to Love — GeForce NOW Wraps CES With Linux Support, Fire TV App, Flight Stick Controls](https://blogs.nvidia.com/blog/geforce-now-thursday-ces-2026-recap/) (2026-01-08)
-- [Steel, Sensors and Silicon: How Caterpillar Is Bringing Edge AI to the Jobsite](https://blogs.nvidia.com/blog/caterpillar-ces-2026/) (2026-01-07)
 
 </details>
 
@@ -229,11 +229,11 @@
 <details>
 <summary>🏠 Airbnb Engineering</summary>
 
+- [Pay As a Local](https://medium.com/airbnb-engineering/pay-as-a-local-bef469b72f32?source=rss----53c7c27702d5---4) (2026-01-12)
 - [GraphQL Data Mocking at Scale with LLMs and @generateMock](https://medium.com/airbnb-engineering/graphql-data-mocking-at-scale-with-llms-and-generatemock-30b380f12bd6?source=rss----53c7c27702d5---4) (2025-10-30)
 - [From Static Rate Limiting to Adaptive Traffic Management in Airbnb’s Key-Value Store](https://medium.com/airbnb-engineering/from-static-rate-limiting-to-adaptive-traffic-management-in-airbnbs-key-value-store-29362764e5c2?source=rss----53c7c27702d5---4) (2025-10-09)
 - [Building a Next-Generation Key-Value Store at Airbnb](https://medium.com/airbnb-engineering/building-a-next-generation-key-value-store-at-airbnb-0de8465ba354?source=rss----53c7c27702d5---4) (2025-09-24)
 - [Viaduct, Five Years On: Modernizing the Data-Oriented Service Mesh](https://medium.com/airbnb-engineering/viaduct-five-years-on-modernizing-the-data-oriented-service-mesh-e66397c9e9a9?source=rss----53c7c27702d5---4) (2025-09-17)
-- [Taming Service-Oriented Architecture Using A Data-Oriented Service Mesh](https://medium.com/airbnb-engineering/taming-service-oriented-architecture-using-a-data-oriented-service-mesh-da771a841344?source=rss----53c7c27702d5---4) (2025-09-16)
 
 </details>
 
@@ -306,22 +306,22 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Dancing Backwards With Go](https://blog.jetbrains.com/go/2026/01/12/dancing-backwards-with-go/) (2026-01-12)
 - [Bringing Real Users Into a Product Team Gathering – A JetBrains Research Story](https://blog.jetbrains.com/research/2026/01/bringing-real-users-into-a-product-team-gathering-a-jetbrains-research-story/) (2026-01-09)
 - [Java Annotated Monthly – January 2026](https://blog.jetbrains.com/idea/2026/01/java-annotated-monthly-january-2026/) (2026-01-06)
 - [dotInsights | January 2026](https://blog.jetbrains.com/dotnet/2026/01/05/dotinsights-january-2026/) (2026-01-05)
 - [New Bug-Fix Releases Are Available for MPS – 2025.2.2, 2025.1.2, 2024.3.5, and 2024.1.6](https://blog.jetbrains.com/mps/2026/01/new_bugfix_releases_mps-2025-2-2/) (2026-01-02)
-- [TeamCity Pipelines Is Now Part of TeamCity Enterprise](https://blog.jetbrains.com/teamcity/2025/12/pipelines-sunset/) (2025-12-26)
 
 </details>
 
 <details>
 <summary>📝 Visual Studio Code</summary>
 
+- [January 2026 Insiders (version 1.109)](https://code.visualstudio.com/updates/v1_109) (2026-02-04)
 - [December 2025 (version 1.108)](https://code.visualstudio.com/updates/v1_108) (2026-01-08)
 - [November 2025 (version 1.107)](https://code.visualstudio.com/updates/v1_107) (2025-12-10)
 - [Introducing the VS Code Insiders Podcast](https://code.visualstudio.com/blogs/2025/12/03/introducing-vs-code-insiders-podcast) (2025-12-03)
 - [Introducing the Visual Studio Code Private Marketplace: Your Team's Secure, Curated Extension Hub 🎉](https://code.visualstudio.com/blogs/2025/11/18/PrivateMarketplace) (2025-11-18)
-- [October 2025 (version 1.106)](https://code.visualstudio.com/updates/v1_106) (2025-11-12)
 
 </details>
 
@@ -572,33 +572,33 @@ https://www.twilio.com/en-us/blog/what-is-broadcast-messaging
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How AI Can Become Your Personal Language Tutor](https://towardsdatascience.com/how-ai-can-become-your-personal-language-tutor/) (2026-01-12)
+- [Why 90% Accuracy in Text-to-SQL is 100% Useless](https://towardsdatascience.com/why-90-accuracy-in-text-to-sql-is-100-useless/) (2026-01-12)
+- [When Does Adding Fancy RAG Features Work?](https://towardsdatascience.com/when-does-adding-fancy-rag-features-work/) (2026-01-12)
 - [Optimizing Data Transfer in Batched AI/ML Inference Workloads](https://towardsdatascience.com/optimizing-data-transfer-in-batched-ai-ml-inference-workloads/) (2026-01-12)
 - [Automatic Prompt Optimization for Multimodal Vision Agents: A Self-Driving Car Example](https://towardsdatascience.com/automatic-prompt-optimization-for-multimodal-vision-agents-a-self-driving-car-example/) (2026-01-11)
-- [How to Leverage Slash Commands to Code Effectively](https://towardsdatascience.com/how-to-leverage-slash-commands-to-code-effectively/) (2026-01-11)
-- [Federated Learning, Part 1: The Basics of Training Models Where the Data Lives](https://towardsdatascience.com/federated-learning-part-1-the-basics-of-training-models-where-the-data-lives/) (2026-01-10)
-- [Beyond the Flat Table: Building an Enterprise-Grade Financial Model in Power BI](https://towardsdatascience.com/beyond-the-flat-table-building-an-enterprise-grade-financial-model-in-power-bi/) (2026-01-10)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [How to Integrate Universal Commerce Protocol (UCP) with AI Agents?](https://www.analyticsvidhya.com/blog/2026/01/universal-commerce-protocol-by-google/) (2026-01-12)
 - [What is Model Collapse? Examples, Causes and Fixes](https://www.analyticsvidhya.com/blog/2026/01/model-collapse/) (2026-01-12)
 - [10 Hackathons You Can Join in 2026](https://www.analyticsvidhya.com/blog/2026/01/top-hackathon-platforms/) (2026-01-11)
 - [CES 2026: 17 AI Reveals That Will Blow Your Mind](https://www.analyticsvidhya.com/blog/2026/01/ces-2026-top-ai-reveals/) (2026-01-10)
 - [Agentic AI Learning Path 2026](https://www.analyticsvidhya.com/blog/2026/01/agentic-ai-expert-learning-path/) (2026-01-10)
-- [NyRAG: Building Production-Ready RAG Applications with Zero Code](https://www.analyticsvidhya.com/blog/2026/01/nyrag-building-rag-applications-with-zero-code/) (2026-01-09)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [We Tried 5 Missing Data Imputation Methods: The Simplest Method Won (Sort Of)](https://www.kdnuggets.com/we-tried-5-missing-data-imputation-methods-the-simplest-method-won-sort-of) (2026-01-12)
+- [How to Self-Host n8n on Docker in 5 Simple Steps](https://www.kdnuggets.com/how-to-self-host-n8n-on-docker-in-5-simple-steps) (2026-01-12)
+- [7 Must-Have Tools for Your Coding Workflow](https://www.kdnuggets.com/7-must-have-tools-for-your-coding-workflow) (2026-01-12)
 - [5 Useful Python Scripts to Automate Data Cleaning](https://www.kdnuggets.com/5-useful-python-scripts-to-automate-data-cleaning) (2026-01-09)
 - [Powerful Local AI Automations with n8n, MCP and Ollama](https://www.kdnuggets.com/powerful-local-ai-automations-with-n8n-mcp-and-ollama) (2026-01-08)
-- [10 Most Popular GitHub Repositories for Learning AI](https://www.kdnuggets.com/10-most-popular-github-repositories-for-learning-ai) (2026-01-08)
-- [Vibe Code Reality Check: What You Can Actually Build with Only AI](https://www.kdnuggets.com/vibe-code-reality-check-what-you-can-actually-build-with-only-ai) (2026-01-07)
-- [Data Scientist vs AI Engineer: Which Career Should You Choose in 2026?](https://www.kdnuggets.com/data-scientist-vs-ai-engineer-which-career-should-you-choose-in-2026) (2026-01-07)
 
 </details>
 
