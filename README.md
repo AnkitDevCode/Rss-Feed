@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [These Gen Zers just raised $11.75M to put Africa’s defense back in the hands of Africans](https://techcrunch.com/2026/01/12/these-gen-zers-just-raised-11-75m-to-put-africas-defense-back-in-the-hands-of-africans/) (2026-01-12)
 - [inDrive turns to ads and groceries to diversify revenue](https://techcrunch.com/2026/01/11/indrive-turns-to-ads-and-groceries-to-diversify-revenue/) (2026-01-12)
 - [Motional puts AI at center of robotaxi reboot as it targets 2026 for driverless service](https://techcrunch.com/2026/01/11/motional-puts-ai-at-center-of-robotaxi-reboot-as-it-targets-2026-for-driverless-service/) (2026-01-12)
 - [Google co-founders may be leaving California](https://techcrunch.com/2026/01/11/google-co-founders-may-be-pulling-out-of-california/) (2026-01-11)
 - [Instagram says there’s been ‘no breach’ despite password reset requests](https://techcrunch.com/2026/01/11/instagram-says-theres-been-no-breach-despite-password-reset-requests/) (2026-01-11)
-- [Google removes AI Overviews for certain medical queries](https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/) (2026-01-11)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [XFCE Is Great](https://rubenerd.com/xfce-is-great/) (2026-01-12)
-- [Show HN: An LLM-optimized programming language](https://github.com/ImJasonH/ImJasonH/blob/main/articles/llm-programming-language.md) (2026-01-12)
+- [Fossil versus Git](https://fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki) (2026-01-12)
+- [Lightpanda migrate DOM implementation to Zig](https://lightpanda.io/blog/posts/migrating-our-dom-to-zig) (2026-01-12)
+- [Ai, Japanese chimpanzee who counted and painted dies at 49](https://www.bbc.com/news/articles/cj9r3zl2ywyo) (2026-01-12)
+- [Xfce is great](https://rubenerd.com/xfce-is-great/) (2026-01-12)
 - [Himalayas bare and rocky after reduced winter snowfall, scientists warn](https://www.bbc.com/news/articles/clyndv7zd20o) (2026-01-12)
-- [Uncrossy](https://uncrossy.com/) (2026-01-12)
-- [Which programming languages are most token-efficient?](https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/) (2026-01-12)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Trump’s fundraisers asked Microsoft for its White House ballroom donation](https://www.theverge.com/news/859578/trump-white-house-ballroom-microsoft-amazon-donations) (2026-01-12)
 - [You need to listen to Billy Woods’ horrorcore masterpiece for the A24 crowd](https://www.theverge.com/column/860372/billy-woods-horrorcore-masterpiece-golliwog-a24) (2026-01-11)
 - [Google pulls AI overviews for some medical searches](https://www.theverge.com/news/860356/google-pulls-alarming-dangerous-medical-ai-overviews) (2026-01-11)
 - [Here are over 20 gadgets that’ll help you achieve your New Year’s resolutions](https://www.theverge.com/gadgets/855851/new-years-resolution-gifts-ideas-2026-tech-gadgets-fitness) (2026-01-11)
 - [Instagram says it fixed the issue that let someone send all those password reset emails](https://www.theverge.com/news/860337/instagram-fixed-password-reset-emails) (2026-01-11)
-- [GameStop is kicking off 2026 by shutting down over 400 stores in 42 states](https://www.theverge.com/news/860329/gamestop-is-kicking-off-2026-by-shutting-down-over-400-stores-in-42-states) (2026-01-11)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
-- [The Download: the case for AI slop, and helping CRISPR fulfill its promise](https://www.technologyreview.com/2026/01/09/1130953/the-download-the-case-for-ai-slop-and-helping-crispr-fulfill-its-promise/) (2026-01-09)
-- [A new CRISPR startup is betting regulators will ease up on gene-editing](https://www.technologyreview.com/2026/01/09/1130945/crispr-startup-aurora-betting-regulation-pku/) (2026-01-09)
-- [America’s new dietary guidelines ignore decades of scientific research](https://www.technologyreview.com/2026/01/08/1130905/americas-diet-guidelines-ignore-scientific-research-red-meat-beef-tallow/) (2026-01-08)
-- [The Download: mimicking pregnancy’s first moments in a lab, and AI parameters explained](https://www.technologyreview.com/2026/01/08/1130880/the-download-mimicking-pregnancys-first-moments-in-a-lab-and-ai-parameters-explained/) (2026-01-08)
-- [Using unstructured data to fuel enterprise AI success](https://www.technologyreview.com/2026/01/08/1129506/using-unstructured-data-to-fuel-enterprise-ai-success/) (2026-01-08)
+- [10 Breakthrough Technologies 2026](https://www.technologyreview.com/2026/01/12/1130697/10-breakthrough-technologies-2026/) (2026-01-12)
+- [Why some “breakthrough” technologies don’t work out](https://www.technologyreview.com/2026/01/12/1130726/opinion-breakthrough-technology-failures-flops/) (2026-01-12)
+- [The astronaut training tourists to fly in the world’s first commercial space station](https://www.technologyreview.com/2026/01/12/1130817/vast-astronaut-drew-feustel-nasa-space-station/) (2026-01-12)
+- [Good technology should change the world](https://www.technologyreview.com/2026/01/12/1129770/editors-letter-january-2026/) (2026-01-12)
+- [Meet the new biologists treating LLMs like aliens](https://www.technologyreview.com/2026/01/12/1129782/ai-large-language-models-biology-alien-autopsy/) (2026-01-12)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Hashicorp Vault: Transit Secrets Engine](https://dev.to/admantium/hashicorp-vault-transit-secrets-engine-2kam) (2026-01-12)
-- [Why Version Control Exists: The Pen Drive Problem](https://dev.to/anoop-rajoriya/why-version-control-exists-the-pen-drive-problem-327c) (2026-01-12)
-- [Discovering n8n — Wish I Found It Sooner (Part 1 )](https://dev.to/timleunghk/discovering-n8n-wish-i-found-it-sooner-part-1--171j) (2026-01-12)
-- [Multi-dimensional Arrays & Row-major Order: A Deep Dive](https://dev.to/ali_algmass/multi-dimensional-arrays-row-major-order-a-deep-dive-3b2e) (2026-01-12)
-- [Stop telling me Python is "too slow" for the 2026 backend.](https://dev.to/naved_shaikh/stop-telling-me-python-is-too-slow-for-the-2026-backend-5am4) (2026-01-12)
+- [[BOJ/C++] 단계별로 풀어보기 - 정렬(2)](https://dev.to/dbsans11/bojc-dangyebyeolro-puleobogi-jeongryeol2-3592) (2026-01-12)
+- [Mathematical Audit of Excalidraw: Finding "Logic Echoes" via Linear Algebra](https://dev.to/petar_liovic_9fb912bdc228/mathematical-audit-of-excalidraw-finding-logic-echoes-via-linear-algebra-26pj) (2026-01-12)
+- [The Power of the Duo: Why Strategic Partnerships are the Secret to Resilient Teams](https://dev.to/adegiamb/the-power-of-the-duo-why-strategic-partnerships-are-the-secret-to-resilient-teams-4b7n) (2026-01-12)
+- [Laravel Pulse card for Clean Architecture UseCase](https://dev.to/giacomomasseron/laravel-pulse-card-for-clean-architecture-usecase-4kl1) (2026-01-12)
+- [OIDC UserInfo Endpoint Explained for Backend Engineers](https://dev.to/mumbocoder/what-is-openid-connect-protocol--2d84) (2026-01-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Software testing](https://medium.com/@humbertofilho_30158/software-testing-3067f8555f5c?source=rss------programming-5) (2026-01-12)
-- [The Algorithm That Finally Beat Dijkstra? Understanding the New Speed Limit for Shortest Paths](https://medium.com/@mindinbinary/the-algorithm-that-finally-beat-dijkstra-understanding-the-new-speed-limit-for-shortest-paths-7b2997d55fc8?source=rss------programming-5) (2026-01-12)
-- [Our JetBrains Devs Switched to VSCode. They Hate VSCode.](https://medium.com/vibe-coding/our-jetbrains-devs-switched-to-vscode-they-hate-vscode-771a2a4a63d1?source=rss------programming-5) (2026-01-12)
-- [Metadata, SEO & Open Graph — Building Search-Friendly Web Apps](https://blog.stackademic.com/metadata-seo-open-graph-building-search-friendly-web-apps-69b800e24fa5?source=rss------programming-5) (2026-01-12)
-- [Recursion in JavaScript — From Basics to Interview Thinking](https://blog.stackademic.com/recursion-in-javascript-from-basics-to-interview-thinking-f95327875d3a?source=rss------programming-5) (2026-01-12)
+- [5 AI Workflows That Instantly Made Me a Faster Developer (I Wish I Knew These Sooner)](https://medium.com/@mahadrajpoot911/5-ai-workflows-that-instantly-made-me-a-faster-developer-i-wish-i-knew-these-sooner-0de222e6d188?source=rss------programming-5) (2026-01-12)
+- [Why var, let, and const Confuse Most Beginners](https://medium.com/@ansari1.nasir2/why-var-let-and-const-confuse-most-beginners-8ccf28b7484a?source=rss------programming-5) (2026-01-12)
+- [Weekly Digest #255](https://wklytech.medium.com/weekly-digest-255-28871625f04a?source=rss------programming-5) (2026-01-12)
+- [Top 12 AI Trends Dominating 2026](https://medium.com/@adityaojha075/top-12-ai-trends-dominating-2026-253b5f6cda21?source=rss------programming-5) (2026-01-12)
+- [Technical debt isn’t just code, it’s lost context](https://medium.com/@thomas.byern/technical-debt-isnt-just-code-it-s-lost-context-d2ea135cb44e?source=rss------programming-5) (2026-01-12)
 
 </details>
 
@@ -135,6 +135,17 @@
 - [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 - [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
+
+</details>
+
+<details>
+<summary>🎮 NVIDIA Blog</summary>
+
+- [NVIDIA Unveils Multi-Agent Intelligent Warehouse and Catalog Enrichment AI Blueprints to Power the Retail Pipeline](https://blogs.nvidia.com/blog/multi-agent-intelligent-warehouse-and-catalog-enrichment-blueprints/) (2026-01-09)
+- [AI Copilot Keeps Berkeley’s X-Ray Particle Accelerator on Track](https://blogs.nvidia.com/blog/ai-copilot-berkeley-x-ray-particle-accelerator/) (2026-01-08)
+- [Japan Science and Technology Agency Develops NVIDIA-Powered Moonshot Robot for Elderly Care](https://blogs.nvidia.com/blog/japan-science-technology-agency-develops-moonshot-robot/) (2026-01-08)
+- [More Ways to Play, More Games to Love — GeForce NOW Wraps CES With Linux Support, Fire TV App, Flight Stick Controls](https://blogs.nvidia.com/blog/geforce-now-thursday-ces-2026-recap/) (2026-01-08)
+- [Steel, Sensors and Silicon: How Caterpillar Is Bringing Edge AI to the Jobsite](https://blogs.nvidia.com/blog/caterpillar-ces-2026/) (2026-01-07)
 
 </details>
 
@@ -550,33 +561,33 @@ https://www.twilio.com/en-us/blog/what-is-broadcast-messaging
 <details>
 <summary>🤖 AI News</summary>
 
+- [How Shopify is bringing agentic AI to enterprise commerce](https://www.artificialintelligence-news.com/news/how-shopify-bringing-agentic-ai-enterprise-commerce/) (2026-01-12)
+- [Retailers like Kroger and Lowe’s test AI agents without handing control to Google](https://www.artificialintelligence-news.com/news/kroger-and-lowe-test-ai-agents-without-handing-control-to-google/) (2026-01-12)
+- [The Meta-Manus review: What enterprise AI buyers need to know about cross-border compliance risk](https://www.artificialintelligence-news.com/news/meta-manus-ai-vendor-compliance-risk/) (2026-01-12)
 - [Datadog: How AI code reviews slash incident risk](https://www.artificialintelligence-news.com/news/datadog-how-ai-code-reviews-slash-incident-risk/) (2026-01-09)
 - [The future of personal injury law: AI and legal tech in Philadelphia](https://www.artificialintelligence-news.com/news/the-future-of-personal-injury-law-ai-and-legal-tech-in-philadelphia/) (2026-01-09)
-- [Autonomy without accountability: The real AI risk](https://www.artificialintelligence-news.com/news/autonomy-without-accountability-the-real-ai-risk/) (2026-01-09)
-- [From cloud to factory – humanoid robots coming to workplaces](https://www.artificialintelligence-news.com/news/from-cloud-to-factory-humanoid-robots-coming-to-workplaces/) (2026-01-09)
-- [“Dr AI, am I healthy?” 59% of Brits rely on AI for self-diagnosis](https://www.artificialintelligence-news.com/news/dr-ai-am-i-healthy-59-of-brits-rely-on-ai-for-self-diagnosis/) (2026-01-08)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Optimizing Data Transfer in Batched AI/ML Inference Workloads](https://towardsdatascience.com/optimizing-data-transfer-in-batched-ai-ml-inference-workloads/) (2026-01-12)
 - [Automatic Prompt Optimization for Multimodal Vision Agents: A Self-Driving Car Example](https://towardsdatascience.com/automatic-prompt-optimization-for-multimodal-vision-agents-a-self-driving-car-example/) (2026-01-11)
 - [How to Leverage Slash Commands to Code Effectively](https://towardsdatascience.com/how-to-leverage-slash-commands-to-code-effectively/) (2026-01-11)
 - [Federated Learning, Part 1: The Basics of Training Models Where the Data Lives](https://towardsdatascience.com/federated-learning-part-1-the-basics-of-training-models-where-the-data-lives/) (2026-01-10)
 - [Beyond the Flat Table: Building an Enterprise-Grade Financial Model in Power BI](https://towardsdatascience.com/beyond-the-flat-table-building-an-enterprise-grade-financial-model-in-power-bi/) (2026-01-10)
-- [How LLMs Handle Infinite Context With Finite Memory](https://towardsdatascience.com/llms-can-now-process-infinite-context-windows/) (2026-01-09)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [What is Model Collapse? Examples, Causes and Fixes](https://www.analyticsvidhya.com/blog/2026/01/model-collapse/) (2026-01-12)
 - [10 Hackathons You Can Join in 2026](https://www.analyticsvidhya.com/blog/2026/01/top-hackathon-platforms/) (2026-01-11)
 - [CES 2026: 17 AI Reveals That Will Blow Your Mind](https://www.analyticsvidhya.com/blog/2026/01/ces-2026-top-ai-reveals/) (2026-01-10)
 - [Agentic AI Learning Path 2026](https://www.analyticsvidhya.com/blog/2026/01/agentic-ai-expert-learning-path/) (2026-01-10)
 - [NyRAG: Building Production-Ready RAG Applications with Zero Code](https://www.analyticsvidhya.com/blog/2026/01/nyrag-building-rag-applications-with-zero-code/) (2026-01-09)
-- [8 FREE Google AI Tools to Enhance your Workflow](https://www.analyticsvidhya.com/blog/2026/01/free-google-ai-tools/) (2026-01-08)
 
 </details>
 
@@ -594,11 +605,11 @@ https://www.twilio.com/en-us/blog/what-is-broadcast-messaging
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [10 Ways to Use Embeddings for Tabular ML Tasks](https://machinelearningmastery.com/10-ways-to-use-embeddings-for-tabular-ml-tasks/) (2026-01-12)
 - [Quantizing LLMs Step-by-Step: Converting FP16 Models to GGUF](https://machinelearningmastery.com/quantizing-llms-step-by-step-converting-fp16-models-to-gguf/) (2026-01-08)
 - [Supervised Learning: The Foundation of Predictive Modeling](https://machinelearningmastery.com/supervised-learning-the-foundation-of-predictive-modeling/) (2026-01-07)
 - [A Gentle Introduction to Language Model Fine-tuning](https://machinelearningmastery.com/a-gentle-introduction-to-language-model-fine-tuning/) (2026-01-06)
 - [Mastering LLM Tool Calling: The Complete Framework for Connecting Models to the Real World](https://machinelearningmastery.com/mastering-llm-tool-calling-the-complete-framework-for-connecting-models-to-the-real-world/) (2026-01-06)
-- [7 Agentic AI Trends to Watch in 2026](https://machinelearningmastery.com/7-agentic-ai-trends-to-watch-in-2026/) (2026-01-05)
 
 </details>
 
