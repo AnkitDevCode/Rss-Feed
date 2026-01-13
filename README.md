@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Meta-backed Hupo finds growth after pivot to AI sales coaching from mental wellness](https://techcrunch.com/2026/01/12/meta-backed-hupo-finds-growth-after-pivot-to-ai-sales-coaching-from-mental-wellness/) (2026-01-13)
 - [More than 100 new tech unicorns were minted in 2025 — here they are](https://techcrunch.com/2026/01/12/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/) (2026-01-13)
 - [OpenAI buys tiny health records startup Torch for, reportedly, $100M](https://techcrunch.com/2026/01/12/openai-buys-tiny-health-records-startup-torch-for-reportedly-100m/) (2026-01-13)
 - [Hands-on with Bee, Amazon’s latest AI wearable](https://techcrunch.com/2026/01/12/hands-on-with-bee-amazons-latest-ai-wearable/) (2026-01-13)
 - [Why Amazon bought Bee, an AI wearable](https://techcrunch.com/2026/01/12/why-amazon-bought-bee-an-ai-wearable/) (2026-01-12)
-- [Mark Zuckerberg says Meta is launching its own AI infrastructure initiative](https://techcrunch.com/2026/01/12/mark-zuckerberg-says-meta-is-launching-its-own-ai-infrastructure-initiative/) (2026-01-12)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Tell HN: DigitalOcean's managed services broke each other after update](https://news.ycombinator.com/item?id=46596075) (2026-01-13)
+- [Text-Based Web Browsers](https://cssence.com/2026/text-based-web-browsers/) (2026-01-13)
+- [Provenance Is the New Version Control](https://aicoding.leaflet.pub/3mcbiyal7jc2y) (2026-01-13)
 - [Google removes AI health summaries after investigation finds dangerous flaws](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/) (2026-01-12)
+- [A deep dive on agent sandboxes](https://pierce.dev/notes/a-deep-dive-on-agent-sandboxes) (2026-01-12)
 - [F2 (YC S25) Is Hiring](https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer) (2026-01-12)
-- [Fabrice Bellard's TS Zip (2024)](https://www.bellard.org/ts_zip/) (2026-01-12)
-- [The chess bot on Delta Air Lines will destroy you (2024) [video]](https://www.youtube.com/watch?v=c0mLhHDcY3I) (2026-01-12)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Vibe code anything in a Hanselminute](https://stackoverflow.blog/2026/01/13/vibe-code-anything-in-a-hanselminute/) (2026-01-13)
 - [Now everyone can chat on Stack Overflow](https://stackoverflow.blog/2026/01/12/now-everyone-can-chat-on-stack-overflow/) (2026-01-12)
 - [Every ecommerce hero needs a Sidekick](https://stackoverflow.blog/2026/01/09/every-ecommerce-hero-needs-a-sidekick/) (2026-01-09)
 - [You need quality engineers to turn AI into ROI](https://stackoverflow.blog/2026/01/07/you-need-quality-engineers-to-turn-ai-into-roi/) (2026-01-07)
 - [Search engine bots crawled so AI bots could run](https://stackoverflow.blog/2026/01/06/search-engine-bots-crawled-so-ai-bots-could-run/) (2026-01-06)
-- [What’s new at Stack Overflow: January 2026](https://stackoverflow.blog/2026/01/05/what-s-new-at-stack-overflow-january-2026/) (2026-01-05)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [NodeJS & MongoDB API revisited — Following the MVC Pattern](https://dev.to/benjamin_janis_4a28dbe27f/nodejs-mongodb-api-revisited-following-the-mvc-pattern-4735) (2026-01-13)
-- [Never WordPress Again: Why the Legacy Giant Feels Like a Prison for Modern Devs (2026)](https://dev.to/hdk/never-wordpress-again-why-the-legacy-giant-feels-like-a-prison-for-modern-devs-2026-5dpi) (2026-01-13)
-- [How to Build Wealth from Nothing](https://dev.to/theifremind110/how-to-build-wealth-from-nothing-ia) (2026-01-13)
-- [Why Most People Stay Broke and How to Escape the Cycle](https://dev.to/theifremind110/why-most-people-stay-broke-and-how-to-escape-the-cycle-4oeo) (2026-01-13)
-- [Garbage In, Powerhouse Out? (Nope.) Why Your Data Foundation Matters More Than AI](https://dev.to/analyticspitfalls/garbage-in-powerhouse-out-nope-why-your-data-foundation-matters-more-than-ai-5a8c) (2026-01-13)
+- [How I Built a Zero-Dependency Technical Research Blog with Just HTML, CSS, and Markdown](https://dev.to/quochuydev/how-i-built-a-zero-dependency-technical-research-blog-with-just-html-css-and-markdown-kc2) (2026-01-13)
+- [Quantum Doomsday Delayed (Again): Why the Latest Panic Over Post-Quantum Cryptography Feels Familiar](https://dev.to/zerotrustzeroenergy/quantum-doomsday-delayed-again-why-the-latest-panic-over-post-quantum-cryptography-feels-familiar-3pin) (2026-01-13)
+- [Git for Beginners: Basics and Essential Commands](https://dev.to/anoop-rajoriya/git-for-beginners-basics-and-essential-commands-4ah2) (2026-01-13)
+- [Building a Production-Ready Portfolio: Phase-2 — Frontend Bootstrapping & Architecture Setup](https://dev.to/imsushant12/building-a-production-ready-portfolio-phase-2-frontend-bootstrapping-architecture-setup-2hc0) (2026-01-13)
+- [AZ-104 Azure Administrator Cheat Sheet – 2026 Exam Notes](https://dev.to/bren67/az-104-azure-administrator-cheat-sheet-2026-exam-notes-4gkh) (2026-01-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Java vs Node.js vs Python — Which Language Rules 2026?](https://medium.com/data-and-beyond/java-vs-node-js-vs-python-which-language-rules-2026-23236241cfe9?source=rss------programming-5) (2026-01-13)
-- [Stop Using Self Joins to Calculate “Previous Value”](https://blog.dataengineerthings.org/stop-using-self-joins-to-calculate-previous-value-ee82e972a332?source=rss------programming-5) (2026-01-13)
-- [Top 10 Udemy Courses Programmers Should Buy in 2026](https://medium.com/javarevisited/top-10-udemy-courses-programmers-should-buy-in-2026-61f437e1262f?source=rss------programming-5) (2026-01-13)
-- [This One Annotation Can Speed Up Spring Boot Startup — @Lazy Explained](https://medium.com/@sunil17bbmp/this-one-annotation-can-speed-up-spring-boot-startup-lazy-explained-874d41a02ef9?source=rss------programming-5) (2026-01-13)
-- [DynamoDB On-Demand Pricing: The $9K Surprise](https://blog.stackademic.com/dynamodb-on-demand-pricing-the-9k-surprise-58b10b70ea61?source=rss------programming-5) (2026-01-13)
+- [Best Python AI Libraries 2026 (Updated)](https://medium.com/@inprogrammer/best-python-ai-libraries-2026-updated-1632092778c4?source=rss------programming-5) (2026-01-13)
+- [5 Critical Metrics That Prove Golang is the #1 Language for Cloud Infrastructure in 2026 ](https://medium.com/@samratashok5551/5-critical-metrics-that-prove-golang-is-the-1-language-for-cloud-infrastructure-in-2026-2ba6728d0e22?source=rss------programming-5) (2026-01-13)
+- [I Found a Programming Language That Looks Like Abstract Art](https://medium.com/@kirantechblog/i-found-a-programming-language-that-looks-like-abstract-art-322b55c66ee3?source=rss------programming-5) (2026-01-13)
+- [Top 5 AI APIs Every iOS Developer Should Use and Implement in 2026](https://gauravtakjaipur.medium.com/top-5-ai-apis-every-ios-developer-should-use-and-implement-in-2026-8d1af62e7e05?source=rss------programming-5) (2026-01-13)
+- [Data Fetching in Next.js — Server Components, Caching & Revalidation (Deep Dive)](https://javascript.plainenglish.io/data-fetching-in-next-js-server-components-caching-revalidation-deep-dive-78d1dcad84e5?source=rss------programming-5) (2026-01-13)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
 - [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
 - [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
 - [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
+- [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
 
 </details>
 
