@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Fintech firm Betterment confirms data breach after hackers send fake crypto scam notification to users](https://techcrunch.com/2026/01/12/fintech-firm-betterment-confirms-data-breach-after-hackers-send-fake-crypto-scam-notification-to-users/) (2026-01-12)
-- [Developers have made $550 billion on Apple’s App Store since 2008](https://techcrunch.com/2026/01/12/developers-have-made-550-billion-on-apples-app-store-since-2008/) (2026-01-12)
-- [Google’s Gemini to power Apple’s AI features like Siri](https://techcrunch.com/2026/01/12/googles-gemini-to-power-apples-ai-features-like-siri/) (2026-01-12)
-- [Paramount files lawsuit against Warner Bros. amidst controversial Netflix merger](https://techcrunch.com/2026/01/12/paramount-files-lawsuit-against-warner-bros-amidst-controversial-netflix-merger/) (2026-01-12)
-- [A New Jersey lawsuit shows how hard it is to fight deepfake porn](https://techcrunch.com/2026/01/12/a-new-jersey-lawsuit-shows-how-hard-it-is-to-fight-deepfake-porn/) (2026-01-12)
+- [More than 100 new tech unicorns were minted in 2025 — here they are](https://techcrunch.com/2026/01/12/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/) (2026-01-13)
+- [OpenAI buys tiny health records startup Torch for, reportedly, $100M](https://techcrunch.com/2026/01/12/openai-buys-tiny-health-records-startup-torch-for-reportedly-100m/) (2026-01-13)
+- [Hands-on with Bee, Amazon’s latest AI wearable](https://techcrunch.com/2026/01/12/hands-on-with-bee-amazons-latest-ai-wearable/) (2026-01-13)
+- [Why Amazon bought Bee, an AI wearable](https://techcrunch.com/2026/01/12/why-amazon-bought-bee-an-ai-wearable/) (2026-01-12)
+- [Mark Zuckerberg says Meta is launching its own AI infrastructure initiative](https://techcrunch.com/2026/01/12/mark-zuckerberg-says-meta-is-launching-its-own-ai-infrastructure-initiative/) (2026-01-12)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Iran has now been offline for 96 hours](https://twitter.com/netblocks/status/2010750871274160361) (2026-01-12)
-- [Postal Arbitrage](https://walzr.com/postal-arbitrage) (2026-01-12)
-- [Message Queues: A Simple Guide with Analogies](https://www.cloudamqp.com/blog/message-queues-exaplined-with-analogies.html) (2026-01-12)
-- [Carma (YC W24 clients, A in 6mo) Eng hiring: Replace $500B human fleet ops with AI](https://news.ycombinator.com/item?id=46591170) (2026-01-12)
-- [Show HN: AI in SolidWorks](https://www.trylad.com) (2026-01-12)
+- [Tell HN: DigitalOcean's managed services broke each other after update](https://news.ycombinator.com/item?id=46596075) (2026-01-13)
+- [Google removes AI health summaries after investigation finds dangerous flaws](https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/) (2026-01-12)
+- [F2 (YC S25) Is Hiring](https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer) (2026-01-12)
+- [Fabrice Bellard's TS Zip (2024)](https://www.bellard.org/ts_zip/) (2026-01-12)
+- [The chess bot on Delta Air Lines will destroy you (2024) [video]](https://www.youtube.com/watch?v=c0mLhHDcY3I) (2026-01-12)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Anker goes big with new whole home backup system](https://www.theverge.com/news/860392/anker-goes-big-with-new-whole-home-backup-system) (2026-01-12)
-- [Hytale finally launches this week with a bright future ahead](https://www.theverge.com/news/860687/hytale-early-access-launch-release-date-riot-games-hypixel-studios) (2026-01-12)
-- [Paramount sues after Warner Bros. Discovery rejects its latest deal](https://www.theverge.com/news/860664/paramount-warner-bros-discovery-lawsuit-netflix-merger) (2026-01-12)
-- [DJI’s mobile selfie stick / tripod / stabilizer will track you automatically for its lowest price of $103](https://www.theverge.com/gadgets/860590/dji-mobile-7p-gimbal-stabilizer-anker-341-usb-power-strip-deal-sale) (2026-01-12)
-- [Amazon has started automatically upgrading Prime members to Alexa Plus](https://www.theverge.com/news/860581/amazon-prime-alexa-plus-automatic-upgrade) (2026-01-12)
+- [The best robot vacuums we’ve tested for 2026](https://www.theverge.com/22997597/best-robot-vacuum-cleaner) (2026-01-13)
+- [Fired Rockstar employees’ plea for interim pay denied](https://www.theverge.com/news/861004/rockstar-fired-union-workers-pay) (2026-01-12)
+- [Framework hikes desktop PC prices as RAM shortage drags on](https://www.theverge.com/news/860988/framework-desktop-pc-price-increase-ram-memory-shortage) (2026-01-12)
+- [Meta plans to lay off hundreds of metaverse employees this week](https://www.theverge.com/news/860984/meta-reality-labs-layoffs-metaverse) (2026-01-12)
+- [Baseus’ retractable travel adapter is on sale for more than 50 percent off today](https://www.theverge.com/gadgets/860791/baseus-enercore-cg11-6-in-1-universal-travel-adapter-deal-sale) (2026-01-12)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Is this the beginning of the end for GameStop?](https://arstechnica.com/gaming/2026/01/is-this-the-beginning-of-the-end-for-gamestop/) (2026-01-12)
-- [UK probes X over Grok CSAM scandal; Elon Musk cries censorship](https://arstechnica.com/tech-policy/2026/01/uk-investigating-x-after-grok-undressed-thousands-of-women-and-children/) (2026-01-12)
-- [The Chevrolet Bolt is back... but for how long?](https://arstechnica.com/cars/2026/01/the-chevrolet-bolt-is-back-but-for-how-long/) (2026-01-12)
-- [New research shows how shunning ultraprocessed foods helps with aging](https://arstechnica.com/health/2026/01/avoiding-ultraprocessed-foods-supports-healthier-aging/) (2026-01-12)
-- [NASA topples towers used to test Saturn rockets, space shuttle](https://arstechnica.com/space/2026/01/nasa-topples-towers-used-to-test-saturn-rockets-space-shuttle/) (2026-01-12)
+- [Anthropic launches Cowork, a Claude Code-like for general computing](https://arstechnica.com/ai/2026/01/anthropic-launches-cowork-a-claude-code-like-for-general-computing/) (2026-01-12)
+- [You can now reserve a hotel room on the Moon for $250,000](https://arstechnica.com/space/2026/01/you-can-now-reserve-a-hotel-room-on-the-moon-for-250000/) (2026-01-12)
+- [Paramount sues WBD over Netflix deal. WBD says Paramount’s price is still inadequate.](https://arstechnica.com/gadgets/2026/01/paramount-sues-wbd-over-netflix-deal-wbd-says-paramounts-price-is-still-inadequate/) (2026-01-12)
+- [Even Linus Torvalds is trying his hand at vibe coding (but just a little)](https://arstechnica.com/ai/2026/01/hobby-github-repo-shows-linus-torvalds-vibe-codes-sometimes/) (2026-01-12)
+- [Verizon to stop automatic unlocking of phones as FCC ends 60-day unlock rule](https://arstechnica.com/tech-policy/2026/01/fcc-lets-verizon-lock-phones-for-longer-making-it-harder-to-switch-carriers/) (2026-01-12)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Now everyone can chat on Stack Overflow](https://stackoverflow.blog/2026/01/12/now-everyone-can-chat-on-stack-overflow/) (2026-01-12)
 - [Every ecommerce hero needs a Sidekick](https://stackoverflow.blog/2026/01/09/every-ecommerce-hero-needs-a-sidekick/) (2026-01-09)
 - [You need quality engineers to turn AI into ROI](https://stackoverflow.blog/2026/01/07/you-need-quality-engineers-to-turn-ai-into-roi/) (2026-01-07)
 - [Search engine bots crawled so AI bots could run](https://stackoverflow.blog/2026/01/06/search-engine-bots-crawled-so-ai-bots-could-run/) (2026-01-06)
 - [What’s new at Stack Overflow: January 2026](https://stackoverflow.blog/2026/01/05/what-s-new-at-stack-overflow-january-2026/) (2026-01-05)
-- [A new worst coder has entered the chat: vibe coding without code knowledge](https://stackoverflow.blog/2026/01/02/a-new-worst-coder-has-entered-the-chat-vibe-coding-without-code-knowledge/) (2026-01-02)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [`XmlFluentValidator`: Code-First XML Validation That Stays Close to Your Rules](https://dev.to/iamrzr/xmlfluentvalidator-code-first-xml-validation-that-stays-close-to-your-rules-3mj6) (2026-01-12)
-- [I Almost Fell for a “Last Wish” Scam : Here’s What You Need to Know](https://dev.to/om_shree_0709/i-almost-fell-for-a-last-wish-scam-heres-what-you-need-to-know-4g4i) (2026-01-12)
-- [[Boost]](https://dev.to/elizabethfuentes12/-4gd8) (2026-01-12)
-- [A Procedural Terrain Adventure in Unity pt.1](https://dev.to/dbarrass/a-procedural-terrain-adventure-in-unity-pt1-3gmm) (2026-01-12)
-- [No Kotlin? No Problem. How I shipped Android Apps using React & Capacitor](https://dev.to/hsr88/no-kotlin-no-problem-how-i-shipped-android-apps-using-react-capacitor-9ja) (2026-01-12)
+- [NodeJS & MongoDB API revisited — Following the MVC Pattern](https://dev.to/benjamin_janis_4a28dbe27f/nodejs-mongodb-api-revisited-following-the-mvc-pattern-4735) (2026-01-13)
+- [Never WordPress Again: Why the Legacy Giant Feels Like a Prison for Modern Devs (2026)](https://dev.to/hdk/never-wordpress-again-why-the-legacy-giant-feels-like-a-prison-for-modern-devs-2026-5dpi) (2026-01-13)
+- [How to Build Wealth from Nothing](https://dev.to/theifremind110/how-to-build-wealth-from-nothing-ia) (2026-01-13)
+- [Why Most People Stay Broke and How to Escape the Cycle](https://dev.to/theifremind110/why-most-people-stay-broke-and-how-to-escape-the-cycle-4oeo) (2026-01-13)
+- [Garbage In, Powerhouse Out? (Nope.) Why Your Data Foundation Matters More Than AI](https://dev.to/analyticspitfalls/garbage-in-powerhouse-out-nope-why-your-data-foundation-matters-more-than-ai-5a8c) (2026-01-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [An Honest Recruiter Told Me Why ‘Average Developers’ in India are Disappearing](https://medium.com/write-a-catalyst/an-honest-recruiter-told-me-why-average-developers-in-india-are-disappearing-01fb9a1031cf?source=rss------programming-5) (2026-01-12)
-- [The Great Outdoors Paradox: Why "Feeling Better" Is a Destination, Not a Requirement](https://medium.com/@hazeyouth2/the-great-outdoors-paradox-why-feeling-better-is-a-destination-not-a-requirement-e16d3a4175c2?source=rss------programming-5) (2026-01-12)
-- [Go: a garbage collector where you least expect it](https://medium.com/@ninucium/go-a-garbage-collector-where-you-least-expect-it-7a85e5c689d0?source=rss------programming-5) (2026-01-12)
-- [10 Free University Courses That Are Better Than Paid Ones](https://medium.com/write-a-catalyst/10-free-university-courses-that-are-better-than-paid-ones-af63f42e798b?source=rss------programming-5) (2026-01-12)
-- [CORE JAVA STORY](https://amn24.medium.com/core-java-story-fe85dd0cb94e?source=rss------programming-5) (2026-01-12)
+- [Java vs Node.js vs Python — Which Language Rules 2026?](https://medium.com/data-and-beyond/java-vs-node-js-vs-python-which-language-rules-2026-23236241cfe9?source=rss------programming-5) (2026-01-13)
+- [Stop Using Self Joins to Calculate “Previous Value”](https://blog.dataengineerthings.org/stop-using-self-joins-to-calculate-previous-value-ee82e972a332?source=rss------programming-5) (2026-01-13)
+- [Top 10 Udemy Courses Programmers Should Buy in 2026](https://medium.com/javarevisited/top-10-udemy-courses-programmers-should-buy-in-2026-61f437e1262f?source=rss------programming-5) (2026-01-13)
+- [This One Annotation Can Speed Up Spring Boot Startup — @Lazy Explained](https://medium.com/@sunil17bbmp/this-one-annotation-can-speed-up-spring-boot-startup-lazy-explained-874d41a02ef9?source=rss------programming-5) (2026-01-13)
+- [DynamoDB On-Demand Pricing: The $9K Surprise](https://blog.stackademic.com/dynamodb-on-demand-pricing-the-9k-surprise-58b10b70ea61?source=rss------programming-5) (2026-01-13)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
 - [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
 - [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
 - [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
-- [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
 
 </details>
 
@@ -251,11 +251,11 @@
 <details>
 <summary>👥 Facebook Engineering</summary>
 
+- [CSS at Scale With StyleX](https://engineering.fb.com/2026/01/12/web/css-at-scale-with-stylex/) (2026-01-12)
 - [Python Typing Survey 2025: Code Quality and Flexibility As Top Reasons for Typing Adoption](https://engineering.fb.com/2025/12/22/developer-tools/python-typing-survey-2025-code-quality-flexibility-typing-adoption/) (2025-12-22)
 - [DrP: Meta’s Root Cause Analysis Platform at Scale](https://engineering.fb.com/2025/12/19/data-infrastructure/drp-metas-root-cause-analysis-platform-at-scale/) (2025-12-19)
 - [How We Built Meta Ray-Ban Display: From Zero to Polish](https://engineering.fb.com/2025/12/17/virtual-reality/meta-ray-ban-display-from-zero-to-polish/) (2025-12-17)
 - [How AI Is Transforming the Adoption of Secure-by-Default Mobile Frameworks](https://engineering.fb.com/2025/12/15/android/how-ai-transforming-secure-by-default-mobile-frameworks-adoption/) (2025-12-15)
-- [Zoomer: Powering AI Performance at Meta’s Scale Through Intelligent Debugging and Optimization](https://engineering.fb.com/2025/11/21/data-infrastructure/zoomer-powering-ai-performance-meta-intelligent-debugging-optimization/) (2025-11-21)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Advent of Code 2025 in Kotlin: Puzzles, Prizes, and Community](https://blog.jetbrains.com/kotlin/2026/01/advent-of-code-2025-in-kotlin/) (2026-01-12)
+- [How to Troubleshoot Builds With TeamCity Dashboards](https://blog.jetbrains.com/teamcity/2026/01/how-to-troubleshoot-teamcity-builds-using-dashboards/) (2026-01-12)
 - [Dancing Backwards With Go](https://blog.jetbrains.com/go/2026/01/12/dancing-backwards-with-go/) (2026-01-12)
 - [Bringing Real Users Into a Product Team Gathering – A JetBrains Research Story](https://blog.jetbrains.com/research/2026/01/bringing-real-users-into-a-product-team-gathering-a-jetbrains-research-story/) (2026-01-09)
 - [Java Annotated Monthly – January 2026](https://blog.jetbrains.com/idea/2026/01/java-annotated-monthly-january-2026/) (2026-01-06)
-- [dotInsights | January 2026](https://blog.jetbrains.com/dotnet/2026/01/05/dotinsights-january-2026/) (2026-01-05)
-- [New Bug-Fix Releases Are Available for MPS – 2025.2.2, 2025.1.2, 2024.3.5, and 2024.1.6](https://blog.jetbrains.com/mps/2026/01/new_bugfix_releases_mps-2025-2-2/) (2026-01-02)
 
 </details>
 
