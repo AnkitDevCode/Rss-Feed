@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [SkyFi raises $12.7M to turn satellite images into insights](https://techcrunch.com/2026/01/14/skyfi-raises-12-7m-to-turn-satellite-images-into-insights/) (2026-01-14)
-- [New York governor clears path for robotaxis everywhere, with one notable exception](https://techcrunch.com/2026/01/13/new-york-governor-clears-path-for-robotaxis-everywhere-with-one-notable-exception/) (2026-01-13)
-- [Microsoft announces glut of new data centers but says it won’t let your electricity bill go up](https://techcrunch.com/2026/01/13/microsoft-announces-glut-of-new-data-centers-but-says-it-wont-let-your-electricity-bill-go-up/) (2026-01-13)
-- [A consumer watchdog issued a warning about Google’s AI agent shopping protocol — Google says she’s wrong](https://techcrunch.com/2026/01/13/a-consumer-watchdog-issued-a-warning-about-googles-ai-agent-shopping-protocol-google-says-shes-wrong/) (2026-01-13)
-- [Ammobia says it has reinvented a century-old technology](https://techcrunch.com/2026/01/13/ammobia-says-it-has-reinvented-a-century-old-technology/) (2026-01-13)
+- [Bandcamp takes a stand against AI music, banning it from the platform](https://techcrunch.com/2026/01/14/bandcamp-takes-a-stand-against-ai-music-banning-it-from-the-platform/) (2026-01-14)
+- [Bill Gates-backed Type One Energy raises $87M ahead of $250M Series B](https://techcrunch.com/2026/01/14/bill-gates-backed-type-one-energy-raises-87m-ahead-of-250m-series-b/) (2026-01-14)
+- [Robotics software maker Skild AI hits $14B valuation](https://techcrunch.com/2026/01/14/robotic-software-maker-skild-ai-hits-14b-valuation/) (2026-01-14)
+- [Gemini’s new beta feature provides proactive responses based on your photos, emails, and more](https://techcrunch.com/2026/01/14/geminis-new-beta-feature-provides-proactive-responses-based-on-your-photos-emails-and-more/) (2026-01-14)
+- [AI security firm, depthfirst, announces $40 million Series A](https://techcrunch.com/2026/01/14/ai-security-firm-depthfirst-announces-40-million-series-a/) (2026-01-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Lago (Open-Source Billing) is hiring across teams and geos](https://news.ycombinator.com/item?id=46615235) (2026-01-14)
-- [Servo 2025 Stats](https://blogs.igalia.com/mrego/servo-2025-stats/) (2026-01-14)
-- [Coverage Cat (YC S22) Is Hiring a Fractional Operations Specialist](https://www.coveragecat.com/careers/operations/fractional-operations-specialist) (2026-01-14)
-- [UK secures record supply of offshore wind projects](https://www.bbc.co.uk/news/articles/cn9zyx150xdo) (2026-01-14)
-- [Show HN: Tiny FOSS Compass and Navigation App (<2MB)](https://github.com/CompassMB/MBCompass) (2026-01-14)
+- [Dutch police have their own car stolen during car theft chase](https://dutchreview.com/news/dutch-police-car-stolen-during-chase/) (2026-01-14)
+- [So, You've Hit an Age Gate. What Now?](https://www.eff.org/deeplinks/2026/01/so-youve-hit-age-gate-what-now) (2026-01-14)
+- [Ford F-150 Lightning outsold the Cybertruck and was then canceled for poor sales](https://electrek.co/2026/01/13/ford-f150-lightning-outsold-tesla-cybertruck-canceled-not-selling-enough/) (2026-01-14)
+- [Ask HN: Could you share your personal website here?](https://news.ycombinator.com/item?id=46618714) (2026-01-14)
+- [4k tons of potatoes to be given away for free in Berlin](https://www.the-berliner.com/english-news-berlin/4000-tons-of-potatoes-to-be-given-away-for-free/) (2026-01-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Inside the White House shitposting machine](https://www.theverge.com/column/861476/trump-memes-venezuela-ice-shooting) (2026-01-13)
-- [WeatherTech founder might be the newest US consumer protection official](https://www.theverge.com/news/861560/weathertech-founder-david-macneil-federal-trade-commission) (2026-01-13)
-- [I tested several cases for the Switch 2 and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases) (2026-01-13)
-- [The Bone Temple turns 28 Years Later into a terrifying crisis of faith](https://www.theverge.com/entertainment/859756/28-years-later-the-bone-temple-review) (2026-01-13)
-- [Senate passes a bill that would let nonconsensual deepfake victims sue](https://www.theverge.com/news/861531/defiance-act-senate-passage-deepfakes-grok) (2026-01-13)
+- [Gemini is winning](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) (2026-01-14)
+- [The Atlantic, Penske, and Vox Media have all sued Google for antitrust violations](https://www.theverge.com/news/861897/atlantic-penske-vox-google-ad-tech-antitrust-lawsuits) (2026-01-14)
+- [X hasn&#8217;t really stopped Grok AI from undressing women in the UK](https://www.theverge.com/news/861894/grok-still-undressing-in-uk) (2026-01-14)
+- [UK digital ID plans will no longer be mandatory](https://www.theverge.com/news/861890/uk-backpeddles-mandatory-digital-id-requirements) (2026-01-14)
+- [Civilization VII is coming to Apple Arcade](https://www.theverge.com/news/861816/civilization-vii-apple-arcade-launch) (2026-01-14)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [BMW’s first electric M car is coming in 2027—with one motor per wheel](https://arstechnica.com/cars/2026/01/bmws-first-electric-m-car-is-coming-in-2027-with-one-motor-per-wheel/) (2026-01-13)
-- [The RAM shortage’s silver lining: Less talk about “AI PCs”](https://arstechnica.com/gadgets/2026/01/the-ram-shortages-silver-lining-less-talk-about-ai-pcs/) (2026-01-13)
-- [Never-before-seen Linux malware is “far more advanced than typical”](https://arstechnica.com/security/2026/01/never-before-seen-linux-malware-is-far-more-advanced-than-typical/) (2026-01-13)
-- [Lawsuit: DHS wants “unlimited subpoena authority” to unmask ICE critics](https://arstechnica.com/tech-policy/2026/01/instagram-user-fights-dhs-for-the-right-to-post-ice-sightings-anonymously/) (2026-01-13)
-- [FDA deletes warning on bogus autism therapies touted by RFK Jr.‘s allies](https://arstechnica.com/health/2026/01/warning-about-bogus-autism-treatments-vanishes-from-fdas-website/) (2026-01-13)
+- [Man got $2,500 whole-body MRI that found no problems—then had massive stroke](https://arstechnica.com/health/2026/01/man-got-2500-whole-body-mri-that-found-no-problems-then-had-massive-stroke/) (2026-01-14)
+- [Scientists sequence a woolly rhino genome from a 14,400-year-old wolf’s stomach](https://arstechnica.com/science/2026/01/scientists-sequence-a-woolly-rhino-genome-from-a-14400-year-old-wolfs-stomach/) (2026-01-14)
+- [Gemini can now scan your photos, email, and more to provide better answers](https://arstechnica.com/google/2026/01/gemini-can-now-scan-your-photos-email-and-more-to-provide-better-answers/) (2026-01-14)
+- [Deny, deny, admit: UK police used Copilot AI “hallucination” when banning football fans](https://arstechnica.com/ai/2026/01/deny-deny-admit-uk-police-used-copilot-ai-hallucination-when-banning-football-fans/) (2026-01-14)
+- [EPA makes it harder for states, tribes to block pipelines](https://arstechnica.com/science/2026/01/epa-makes-it-harder-for-states-tribes-to-block-pipelines/) (2026-01-14)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: next-gen nuclear, and the data center backlash](https://www.technologyreview.com/2026/01/14/1131317/the-download-next-gen-nuclear-and-the-data-center-backlash/) (2026-01-14)
 - [Data centers are amazing. Everyone hates them.](https://www.technologyreview.com/2026/01/14/1131253/data-centers-are-amazing-everyone-hates-them/) (2026-01-14)
 - [The Download: sodium-ion batteries and China’s bright tech future](https://www.technologyreview.com/2026/01/13/1131245/the-download-sodium-ion-batteries-and-chinas-bright-tech-future/) (2026-01-13)
 - [CES showed me why Chinese tech companies feel so optimistic](https://www.technologyreview.com/2026/01/12/1131193/ces-showed-me-why-chinese-tech-companies-feel-so-optimistic/) (2026-01-12)
 - [Mitigating emissions from air freight: Unlocking the potential of SAF with book and claim](https://www.technologyreview.com/2026/01/12/1128939/mitigating-emissions-from-air-freight-unlocking-the-potential-of-saf-with-book-and-claim/) (2026-01-12)
-- [The Download: introducing this year’s 10 Breakthrough Technologies](https://www.technologyreview.com/2026/01/12/1131176/the-download-introducing-this-years-10-breakthrough-technologies/) (2026-01-12)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [If you're a Zoomer, this one's for you: Everything Gen Z needs to know about the 2025 tech landscape](https://stackoverflow.blog/2026/01/14/gen-z-wrapped-2025/) (2026-01-14)
+- [8 lessons from tech leadership on scaling teams and AI](https://stackoverflow.blog/2026/01/14/8-lessons-from-tech-leadership-on-scaling-teams-and-ai/) (2026-01-14)
 - [Vibe code anything in a Hanselminute](https://stackoverflow.blog/2026/01/13/vibe-code-anything-in-a-hanselminute/) (2026-01-13)
 - [Now everyone can chat on Stack Overflow](https://stackoverflow.blog/2026/01/12/now-everyone-can-chat-on-stack-overflow/) (2026-01-12)
 - [Every ecommerce hero needs a Sidekick](https://stackoverflow.blog/2026/01/09/every-ecommerce-hero-needs-a-sidekick/) (2026-01-09)
-- [You need quality engineers to turn AI into ROI](https://stackoverflow.blog/2026/01/07/you-need-quality-engineers-to-turn-ai-into-roi/) (2026-01-07)
-- [Search engine bots crawled so AI bots could run](https://stackoverflow.blog/2026/01/06/search-engine-bots-crawled-so-ai-bots-could-run/) (2026-01-06)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Tracking File Upload Progress on AWS S3 – Lessons from Large File Uploads](https://dev.to/f-47/tracking-file-upload-progress-on-aws-s3-lessons-from-large-file-uploads-4imn) (2026-01-14)
-- [Is it worthwhile to learn Javascript in 2026?](https://dev.to/burakweb/will-javascript-still-make-sense-in-2026-3hab) (2026-01-14)
-- [Why My Node.js E-commerce App Got Slower Over Time (And It Wasn’t a Memory Leak)](https://dev.to/arbythecoder/why-my-nodejs-e-commerce-app-got-slower-over-time-and-it-wasnt-a-memory-leak-49lb) (2026-01-14)
-- [Demystifying API integration types](https://dev.to/aws-builders/demystifying-api-integration-types-2eia) (2026-01-14)
-- [Difference Between Data Type and Data Structure in JavaScript](https://dev.to/catherineisonline/difference-between-data-type-and-data-structure-in-javascript-54f2) (2026-01-14)
+- [Building a Write-Once Publishing Pipeline](https://dev.to/12ww1160/building-a-write-once-publishing-pipeline-4ila) (2026-01-14)
+- [AI is now a requirement for my team. Here’s why it’s making me uneasy.](https://dev.to/zulqurnan_aslam_e92835625/ai-is-now-a-requirement-for-my-team-heres-why-its-making-me-uneasy-3065) (2026-01-14)
+- [Why Execution Boundaries Matter More Than AI Guardrails](https://dev.to/ziling-failcore/why-execution-boundaries-matter-more-than-ai-guardrails-2421) (2026-01-14)
+- [Trait Views: exposing behavior in JavaScript without inheritance](https://dev.to/lsarrazi/trait-views-exposing-behavior-in-javascript-without-inheritance-d6l) (2026-01-14)
+- [Why I Switched from LiteLLM to Bifrost for Production LLM Systems](https://dev.to/therealmrmumba/why-i-switched-from-litellm-to-bifrost-for-production-llm-systems-45kf) (2026-01-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Crypto Portfolio Strategy For 2026](https://medium.com/@sumanjitmukherjee/crypto-portfolio-strategy-for-2026-0dd2d1cff39e?source=rss------programming-5) (2026-01-14)
-- [TokPrimeAi](https://medium.com/@kehindegiwa120/tokprimeai-66a5d58b11ef?source=rss------programming-5) (2026-01-14)
-- [Go fmt, Go vet, Go test: The Go Toolchain Explained](https://blog.stackademic.com/go-fmt-go-vet-go-test-the-go-toolchain-explained-54ee8085ca6c?source=rss------programming-5) (2026-01-14)
-- [Master Your Terminal in 2026](https://medium.com/quick-programming/master-your-terminal-in-2026-aa625205bf84?source=rss------programming-5) (2026-01-14)
-- [The Rust-Python Bridge: A Master Class in High-Performance Bindings Subtitle: Part 4: Advanced…](https://medium.com/@abayomiajiboye46111/the-rust-python-bridge-a-master-class-in-high-performance-bindings-subtitle-part-4-advanced-7d38f6e54b03?source=rss------programming-5) (2026-01-14)
+- [DSA Weekly Progress Log — Week 1](https://medium.com/@sanjanachoudhury1508/dsa-weekly-progress-log-week-1-e7abd470a578?source=rss------programming-5) (2026-01-14)
+- [9 Python Concepts Beginners Skip (And Regret Later)](https://python.plainenglish.io/9-python-concepts-beginners-skip-and-regret-later-2f65c782b331?source=rss------programming-5) (2026-01-14)
+- [The Mechanics of @classmethod vs. @staticmethod in Python](https://medium.com/@tihomir.manushev/the-mechanics-of-classmethod-vs-staticmethod-in-python-4984f7cd4dab?source=rss------programming-5) (2026-01-14)
+- [Why a $260k “Wizard” Developer Is Cheaper Than a $150k “Senior”](https://medium.com/career-programming/why-a-260k-wizard-developer-is-cheaper-than-a-150k-senior-b209fdb5c5ad?source=rss------programming-5) (2026-01-14)
+- [Domain Validation With .NET](https://medium.com/@michaelmaurice410/domain-validation-with-net-18a468a1f325?source=rss------programming-5) (2026-01-14)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
 - [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
 - [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
 - [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
+- [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [What came first: the CNAME or the A record?](https://blog.cloudflare.com/cname-a-record-order-dns-standards/) (2026-01-14)
 - [What we know about Iran’s Internet shutdown](https://blog.cloudflare.com/iran-protests-internet-shutdown/) (2026-01-13)
 - [A closer look at a BGP anomaly in Venezuela](https://blog.cloudflare.com/bgp-route-leak-venezuela/) (2026-01-06)
 - [How Workers powers our internal maintenance scheduling pipeline](https://blog.cloudflare.com/building-our-maintenance-scheduler-on-workers/) (2025-12-22)
 - [Code Orange: Fail Small — our resilience plan following recent incidents](https://blog.cloudflare.com/fail-small-resilience-plan/) (2025-12-19)
-- [Innovating to address streaming abuse — and our latest transparency report](https://blog.cloudflare.com/h1-2025-transparency-report/) (2025-12-19)
 
 </details>
 
@@ -392,15 +392,11 @@ https://www.twilio.com/en-us/blog/how-to-code-video-games
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Multi-Brand Identity Simplified with Auth0 Multiple Custom Domains](https://auth0.com/blog/multi-brand-identity-simplified-auth0-multiple-custom-domains/) (2026-01-14)
 - [How to Implement Google One Tap in React with Auth0 and FedCM](https://auth0.com/blog/integrate-google-one-tap-auth0-react/) (2026-01-13)
 - [Taming P99s in OpenFGA: How We Built a Self-Tuning Strategy Planner](https://auth0.com/blog/self-tuning-strategy-planner-openfga/) (2026-01-09)
 - [Fact or Fiction: Eight Myths About Auth0 For B2B](https://auth0.com/blog/eight-myths-about-Auth0-B2B/) (2026-01-08)
 - [Model Context Protocol Nov 2025 Specification Update: CIMD, XAA, and Security](https://auth0.com/blog/mcp-november-2025-specification-update/) (2026-01-07)
-- [Why MCP’s Move Away from Server-Sent Events Simplifies Security
-
-
-
-](https://auth0.com/blog/mcp-streamable-http/) (2025-12-19)
 
 </details>
 
@@ -418,11 +414,11 @@ https://www.twilio.com/en-us/blog/how-to-code-video-games
 <details>
 <summary>🪐 PlanetScale Blog</summary>
 
+- [Database Transactions](https://planetscale.com/blog/database-transactions) (2026-01-14)
 - [Automating our changelog with Cursor commands](https://planetscale.com/blog/automating-with-cursor-commands) (2026-01-07)
 - [Postgres 18 is now available](https://planetscale.com/blog/postgres-18-is-now-available) (2025-12-17)
 - [Using MotherDuck with PlanetScale](https://planetscale.com/blog/using-motherduck-with-planetscale) (2025-12-16)
 - [$50 PlanetScale Metal is GA for Postgres](https://planetscale.com/blog/50-dollar-planetscale-metal-is-ga-for-postgres) (2025-12-15)
-- [AI-Powered Postgres index suggestions](https://planetscale.com/blog/postgres-new-index-suggestions) (2025-11-21)
 
 </details>
 
@@ -484,11 +480,11 @@ https://www.twilio.com/en-us/blog/how-to-code-video-games
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
+- [Migrate from Aura to LWC with Agentforce Vibes](https://developer.salesforce.com/blogs/2026/01/migrate-from-aura-to-lwc-with-agentforce-vibes.html) (2026-01-14)
 - [Accelerate Flexcard Development with Omnistudio MCP](https://developer.salesforce.com/blogs/2026/01/accelerate-flexcard-development-with-omnistudio-mcp.html) (2026-01-07)
 - [Developer Edition + スクラッチ組織で、複数の開発・検証組織を手にいれる](https://developer.salesforce.com/blogs/2025/12/jp-scratch-org-with-developer-edition.html) (2025-12-26)
 - [プロから学ぶ、Agentforce Vibesを使いこなす5つのヒント](https://developer.salesforce.com/blogs/2025/12/jp-five-pro-tips-for-using-agentforce-vibes.html) (2025-12-25)
 - [新しいサンプルアプリ「Agent Script Recipes」でハイブリッド推論をマスター](https://developer.salesforce.com/blogs/2025/12/jp-master-hybrid-reasoning-with-the-new-agent-script-recipes-sample-app.html) (2025-12-24)
-- [Build Composable Storefronts Smarter and Faster with the PWA Kit MCP Server](https://developer.salesforce.com/blogs/2025/12/build-composable-storefronts-smarter-and-faster-with-the-pwa-kit-mcp-server.html) (2025-12-23)
 
 </details>
 
@@ -506,11 +502,11 @@ https://www.twilio.com/en-us/blog/how-to-code-video-games
 <details>
 <summary>💬 Slack API</summary>
 
+- [Meet the All-New Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-01-13)
 - [12 Project Management Techniques for Better Collaboration and Efficiency](https://slack.com/blog/productivity/project-management-techniques) (2026-01-07)
 - [Best Team Collaboration Tools for Productivity in 2026](https://slack.com/blog/collaboration/best-collaboration-tools) (2026-01-07)
 - [What is a Knowledge Graph?](https://slack.com/blog/developers/knowledge-graph) (2026-01-05)
 - [Eight Active Listening Strategies for Better Communication](https://slack.com/blog/collaboration/active-listening) (2026-01-05)
-- [Five employee engagement models for a motivated workplace](https://slack.com/blog/transformation/employee-engagement-model) (2026-01-05)
 
 </details>
 
@@ -572,33 +568,33 @@ https://www.twilio.com/en-us/blog/how-to-code-video-games
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Why Human-Centered Data Analytics Matters More Than Ever](https://towardsdatascience.com/why-human-centered-data-analytics-matters-more-than-ever/) (2026-01-14)
+- [What Is a Knowledge Graph — and Why It Matters](https://towardsdatascience.com/what-is-a-knowledge-graph-and-why-it-matters/) (2026-01-14)
+- [Glitches in the Attention Matrix](https://towardsdatascience.com/glitches-in-the-attention-matrix-a-history-of-transformer-artifacts-and-the-latest-research-on-how-to-fix-them/) (2026-01-14)
 - [Topic Modeling Techniques for 2026: Seeded Modeling, LLM Integration, and Data Summaries](https://towardsdatascience.com/topic-modeling-techniques-for-2026-seeded-modeling-llm-integration-and-data-summaries/) (2026-01-14)
 - [An introduction to AWS Bedrock](https://towardsdatascience.com/an-introduction-to-aws-bedrock/) (2026-01-13)
-- [From ‘Dataslows’ to Dataflows: The Gen2 Performance Revolution in Microsoft Fabric](https://towardsdatascience.com/from-dataslows-to-dataflows-the-gen2-performance-revolution-in-microsoft-fabric/) (2026-01-13)
-- [Under the Uzès Sun: When Historical Data Reveals the Climate Change](https://towardsdatascience.com/under-the-uzes-sun-when-historical-data-reveals-the-climate-change/) (2026-01-13)
-- [Why Your ML Model Works in Training But Fails in Production](https://towardsdatascience.com/why-your-ml-model-works-in-training-but-fails-in-production/) (2026-01-13)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [5 n8n Projects to Master Low-Code AI Automation](https://www.analyticsvidhya.com/blog/2026/01/n8n-projects/) (2026-01-14)
 - [How Does LLM Memory Work?](https://www.analyticsvidhya.com/blog/2026/01/how-does-llm-memory-work/) (2026-01-14)
 - [15 Free LLM APIs You Can Use in 2026](https://www.analyticsvidhya.com/blog/2026/01/top-free-llm-apis/) (2026-01-13)
 - [40 Prompt Engineering Questions (With Interview-Ready Answers)](https://www.analyticsvidhya.com/blog/2026/01/prompt-engineering-questions/) (2026-01-13)
 - [Getting Started with XGBoost: A Beginner-Friendly Tutorial](https://www.analyticsvidhya.com/blog/2026/01/getting-started-with-xgboost/) (2026-01-13)
-- [How to Integrate Universal Commerce Protocol (UCP) with AI Agents?](https://www.analyticsvidhya.com/blog/2026/01/universal-commerce-protocol-by-google/) (2026-01-12)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Avoiding Overfitting, Class Imbalance, & Feature Scaling Issues: The Machine Learning Practitioner’s Notebook](https://www.kdnuggets.com/avoiding-overfitting-class-imbalance-feature-scaling-issues-the-machine-learning-practitioners-notebook) (2026-01-14)
+- [5 Code Sandbox for your AI Agents](https://www.kdnuggets.com/5-code-sandbox-for-your-ai-agents) (2026-01-14)
 - [Delegating Without Chaos: Your Business Can’t Grow Until You Let Go (Sponsored)](https://bit.ly/45cyTt4#new_tab) (2026-01-14)
 - [The Complete Guide to Logging for Python Developers](https://www.kdnuggets.com/the-complete-guide-to-logging-for-python-developers) (2026-01-13)
 - [CSV vs. Parquet vs. Arrow: Storage Formats Explained](https://www.kdnuggets.com/csv-vs-parquet-vs-arrow-storage-formats-explained) (2026-01-13)
-- [5 Useful Python Scripts for Effective Feature Engineering](https://www.kdnuggets.com/5-useful-python-scripts-for-effective-feature-engineering) (2026-01-13)
-- [We Tried 5 Missing Data Imputation Methods: The Simplest Method Won (Sort Of)](https://www.kdnuggets.com/we-tried-5-missing-data-imputation-methods-the-simplest-method-won-sort-of) (2026-01-12)
 
 </details>
 
