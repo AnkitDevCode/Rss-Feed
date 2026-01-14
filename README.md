@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [SkyFi raises $12.7M to turn satellite images into insights](https://techcrunch.com/2026/01/14/skyfi-raises-12-7m-to-turn-satellite-images-into-insights/) (2026-01-14)
 - [New York governor clears path for robotaxis everywhere, with one notable exception](https://techcrunch.com/2026/01/13/new-york-governor-clears-path-for-robotaxis-everywhere-with-one-notable-exception/) (2026-01-13)
 - [Microsoft announces glut of new data centers but says it won’t let your electricity bill go up](https://techcrunch.com/2026/01/13/microsoft-announces-glut-of-new-data-centers-but-says-it-wont-let-your-electricity-bill-go-up/) (2026-01-13)
 - [A consumer watchdog issued a warning about Google’s AI agent shopping protocol — Google says she’s wrong](https://techcrunch.com/2026/01/13/a-consumer-watchdog-issued-a-warning-about-googles-ai-agent-shopping-protocol-google-says-shes-wrong/) (2026-01-13)
 - [Ammobia says it has reinvented a century-old technology](https://techcrunch.com/2026/01/13/ammobia-says-it-has-reinvented-a-century-old-technology/) (2026-01-13)
-- [Ring founder details the camera company’s ‘intelligent assistant’ era](https://techcrunch.com/2026/01/13/ring-founder-details-the-camera-companys-intelligent-assistant-era/) (2026-01-13)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [1000 Blank White Cards](https://en.wikipedia.org/wiki/1000_Blank_White_Cards) (2026-01-14)
-- [The Gleam Programming Language](https://gleam.run/) (2026-01-14)
-- [Stop using natural language interfaces](https://tidepool.leaflet.pub/3mcbegnuf2k2i) (2026-01-14)
-- [Show HN: Cachekit – High performance caching policies library in Rust](https://github.com/OxidizeLabs/cachekit) (2026-01-14)
-- [ASCII Clouds](https://caidan.dev/portfolio/ascii_clouds/) (2026-01-14)
+- [Lago (Open-Source Billing) is hiring across teams and geos](https://news.ycombinator.com/item?id=46615235) (2026-01-14)
+- [Servo 2025 Stats](https://blogs.igalia.com/mrego/servo-2025-stats/) (2026-01-14)
+- [Coverage Cat (YC S22) Is Hiring a Fractional Operations Specialist](https://www.coveragecat.com/careers/operations/fractional-operations-specialist) (2026-01-14)
+- [UK secures record supply of offshore wind projects](https://www.bbc.co.uk/news/articles/cn9zyx150xdo) (2026-01-14)
+- [Show HN: Tiny FOSS Compass and Navigation App (<2MB)](https://github.com/CompassMB/MBCompass) (2026-01-14)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Data centers are amazing. Everyone hates them.](https://www.technologyreview.com/2026/01/14/1131253/data-centers-are-amazing-everyone-hates-them/) (2026-01-14)
 - [The Download: sodium-ion batteries and China’s bright tech future](https://www.technologyreview.com/2026/01/13/1131245/the-download-sodium-ion-batteries-and-chinas-bright-tech-future/) (2026-01-13)
 - [CES showed me why Chinese tech companies feel so optimistic](https://www.technologyreview.com/2026/01/12/1131193/ces-showed-me-why-chinese-tech-companies-feel-so-optimistic/) (2026-01-12)
 - [Mitigating emissions from air freight: Unlocking the potential of SAF with book and claim](https://www.technologyreview.com/2026/01/12/1128939/mitigating-emissions-from-air-freight-unlocking-the-potential-of-saf-with-book-and-claim/) (2026-01-12)
 - [The Download: introducing this year’s 10 Breakthrough Technologies](https://www.technologyreview.com/2026/01/12/1131176/the-download-introducing-this-years-10-breakthrough-technologies/) (2026-01-12)
-- [Securing digital assets as crypto crime surges](https://www.technologyreview.com/2026/01/12/1129479/securing-digital-assets-as-crypto-crime-surges/) (2026-01-12)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [CES 2026: My top 5 picks!](https://dev.to/jigyasagrover/ces-2026-my-top-5-picks-lf4) (2026-01-14)
-- [The Ultimate Guide to Shopify Cart Debugging: How to Save Hours with Shopify Theme Devtools Cart Panel](https://dev.to/yakohere/the-ultimate-guide-to-shopify-cart-debugging-how-to-save-hours-with-shopify-theme-devtools-cart-1f70) (2026-01-14)
-- [Inside Git: How It Works and the Role of the .git Folder](https://dev.to/anoop-rajoriya/inside-git-how-it-works-and-the-role-of-the-git-folder-3d2b) (2026-01-14)
-- [Headless vs. Real Browser Testing: The Strategic Guide for Modern QA Teams](https://dev.to/matt_calder_e620d84cf0c14/headless-vs-real-browser-testing-the-strategic-guide-for-modern-qa-teams-ea4) (2026-01-14)
-- [The iOS Safari Full-Height Video Fix That Actually Works (After 4 Hours of Everything That Doesn't)](https://dev.to/petermcclung/the-ios-safari-full-height-video-fix-that-actually-works-after-4-hours-of-everything-that-doesnt-1iim) (2026-01-14)
+- [Tracking File Upload Progress on AWS S3 – Lessons from Large File Uploads](https://dev.to/f-47/tracking-file-upload-progress-on-aws-s3-lessons-from-large-file-uploads-4imn) (2026-01-14)
+- [Is it worthwhile to learn Javascript in 2026?](https://dev.to/burakweb/will-javascript-still-make-sense-in-2026-3hab) (2026-01-14)
+- [Why My Node.js E-commerce App Got Slower Over Time (And It Wasn’t a Memory Leak)](https://dev.to/arbythecoder/why-my-nodejs-e-commerce-app-got-slower-over-time-and-it-wasnt-a-memory-leak-49lb) (2026-01-14)
+- [Demystifying API integration types](https://dev.to/aws-builders/demystifying-api-integration-types-2eia) (2026-01-14)
+- [Difference Between Data Type and Data Structure in JavaScript](https://dev.to/catherineisonline/difference-between-data-type-and-data-structure-in-javascript-54f2) (2026-01-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Stack Data Structure — Concepts, Implementation & Real Interview Problems (JavaScript)](https://javascript.plainenglish.io/stack-data-structure-concepts-implementation-real-interview-problems-javascript-e4f2eab34030?source=rss------programming-5) (2026-01-14)
-- [Streaming, Suspense & Loading UI — How Modern Apps Feel Instant](https://javascript.plainenglish.io/streaming-suspense-loading-ui-how-modern-apps-feel-instant-afbc945b156d?source=rss------programming-5) (2026-01-14)
-- [Python Foundations 2026 (Part 3): Built-In Functions Every Beginner Must Know](https://abkarikari23.medium.com/python-foundations-2026-part-3-built-in-functions-every-beginner-must-know-ed0fd0cac5da?source=rss------programming-5) (2026-01-14)
-- [Why English Is The Hottest New Programming Language In 2026](https://medium.com/write-a-catalyst/why-english-is-the-hottest-new-programming-language-in-2026-9eaeb90b5214?source=rss------programming-5) (2026-01-14)
-- [10 Browser Tricks That Instantly Made Me a Faster Frontend Developer](https://medium.com/the-software-journal/10-browser-tricks-that-instantly-made-me-a-faster-frontend-developer-9e7cd44a1b55?source=rss------programming-5) (2026-01-14)
+- [Crypto Portfolio Strategy For 2026](https://medium.com/@sumanjitmukherjee/crypto-portfolio-strategy-for-2026-0dd2d1cff39e?source=rss------programming-5) (2026-01-14)
+- [TokPrimeAi](https://medium.com/@kehindegiwa120/tokprimeai-66a5d58b11ef?source=rss------programming-5) (2026-01-14)
+- [Go fmt, Go vet, Go test: The Go Toolchain Explained](https://blog.stackademic.com/go-fmt-go-vet-go-test-the-go-toolchain-explained-54ee8085ca6c?source=rss------programming-5) (2026-01-14)
+- [Master Your Terminal in 2026](https://medium.com/quick-programming/master-your-terminal-in-2026-aa625205bf84?source=rss------programming-5) (2026-01-14)
+- [The Rust-Python Bridge: A Master Class in High-Performance Bindings Subtitle: Part 4: Advanced…](https://medium.com/@abayomiajiboye46111/the-rust-python-bridge-a-master-class-in-high-performance-bindings-subtitle-part-4-advanced-7d38f6e54b03?source=rss------programming-5) (2026-01-14)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
 - [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
 - [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
 - [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
-- [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Introducing Global Project Configuration: One Place to Manage All Your Qodana Rules](https://blog.jetbrains.com/qodana/2026/01/introducing-global-project-configuration-one-place-to-manage-all-your-qodana-rules/) (2026-01-14)
 - [Insights Into China’s Developer Landscape: Key Trends From the JetBrains Developer Ecosystem Survey 2025](https://blog.jetbrains.com/research/2026/01/insights-into-china-s-developer-landscape-key-trends/) (2026-01-13)
 - [Compose Multiplatform 1.10.0: Unified @Preview, Navigation 3, and Stable Compose Hot Reload](https://blog.jetbrains.com/kotlin/2026/01/compose-multiplatform-1-10-0/) (2026-01-13)
 - [The Journey to Compose Hot Reload 1.0.0](https://blog.jetbrains.com/kotlin/2026/01/the-journey-to-compose-hot-reload-1-0-0/) (2026-01-13)
 - [What’s Next for CLion: The 2026.1 Roadmap](https://blog.jetbrains.com/clion/2026/01/2026-1-roadmap/) (2026-01-13)
-- [Building AI Agents in Kotlin – Part 4: Delegation and Sub-Agents](https://blog.jetbrains.com/ai/2026/01/building-ai-agents-in-kotlin-part-4-delegation-and-sub-agents/) (2026-01-13)
 
 </details>
 
@@ -561,33 +561,33 @@ https://www.twilio.com/en-us/blog/how-to-code-video-games
 <details>
 <summary>🤖 AI News</summary>
 
+- [AstraZeneca bets on in-house AI to speed up oncology research](https://www.artificialintelligence-news.com/news/astrazeneca-bets-on-in-house-ai-to-speed-up-oncology-research/) (2026-01-14)
+- [Research shows UK young adults would use AI for financial guidance](https://www.artificialintelligence-news.com/news/financial-advice-ai-powered-uk-fintech-market-possibilities/) (2026-01-14)
 - [Allister Frost: Tackling workforce anxiety for AI integration success](https://www.artificialintelligence-news.com/news/allister-frost-tackling-workforce-anxiety-for-ai-integration-success/) (2026-01-13)
 - [The latency trap: Smart warehouses abandon cloud for edge](https://www.artificialintelligence-news.com/news/the-latency-trap-smart-warehouses-abandon-cloud-for-edge/) (2026-01-13)
 - [Why Apple chose Google over OpenAI: What enterprise AI buyers can learn from the Gemini deal](https://www.artificialintelligence-news.com/news/apple-gemini-siri-enterprise-foundation-models/) (2026-01-13)
-- [How Shopify is bringing agentic AI to enterprise commerce](https://www.artificialintelligence-news.com/news/how-shopify-bringing-agentic-ai-enterprise-commerce/) (2026-01-12)
-- [Retailers like Kroger and Lowe’s test AI agents without handing control to Google](https://www.artificialintelligence-news.com/news/kroger-and-lowe-test-ai-agents-without-handing-control-to-google/) (2026-01-12)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Topic Modeling Techniques for 2026: Seeded Modeling, LLM Integration, and Data Summaries](https://towardsdatascience.com/topic-modeling-techniques-for-2026-seeded-modeling-llm-integration-and-data-summaries/) (2026-01-14)
 - [An introduction to AWS Bedrock](https://towardsdatascience.com/an-introduction-to-aws-bedrock/) (2026-01-13)
 - [From ‘Dataslows’ to Dataflows: The Gen2 Performance Revolution in Microsoft Fabric](https://towardsdatascience.com/from-dataslows-to-dataflows-the-gen2-performance-revolution-in-microsoft-fabric/) (2026-01-13)
 - [Under the Uzès Sun: When Historical Data Reveals the Climate Change](https://towardsdatascience.com/under-the-uzes-sun-when-historical-data-reveals-the-climate-change/) (2026-01-13)
 - [Why Your ML Model Works in Training But Fails in Production](https://towardsdatascience.com/why-your-ml-model-works-in-training-but-fails-in-production/) (2026-01-13)
-- [How to Maximize Claude Code Effectiveness](https://towardsdatascience.com/how-to-maximize-claude-code-effectiveness/) (2026-01-13)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [How Does LLM Memory Work?](https://www.analyticsvidhya.com/blog/2026/01/how-does-llm-memory-work/) (2026-01-14)
 - [15 Free LLM APIs You Can Use in 2026](https://www.analyticsvidhya.com/blog/2026/01/top-free-llm-apis/) (2026-01-13)
 - [40 Prompt Engineering Questions (With Interview-Ready Answers)](https://www.analyticsvidhya.com/blog/2026/01/prompt-engineering-questions/) (2026-01-13)
 - [Getting Started with XGBoost: A Beginner-Friendly Tutorial](https://www.analyticsvidhya.com/blog/2026/01/getting-started-with-xgboost/) (2026-01-13)
 - [How to Integrate Universal Commerce Protocol (UCP) with AI Agents?](https://www.analyticsvidhya.com/blog/2026/01/universal-commerce-protocol-by-google/) (2026-01-12)
-- [What is Model Collapse? Examples, Causes and Fixes](https://www.analyticsvidhya.com/blog/2026/01/model-collapse/) (2026-01-12)
 
 </details>
 
@@ -605,11 +605,11 @@ https://www.twilio.com/en-us/blog/how-to-code-video-games
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Uncertainty in Machine Learning: Probability & Noise](https://machinelearningmastery.com/uncertainty-in-machine-learning-probability-noise/) (2026-01-14)
 - [How to Read a Machine Learning Research Paper in 2026](https://machinelearningmastery.com/how-to-read-a-machine-learning-research-paper-in-2026/) (2026-01-13)
 - [10 Ways to Use Embeddings for Tabular ML Tasks](https://machinelearningmastery.com/10-ways-to-use-embeddings-for-tabular-ml-tasks/) (2026-01-12)
 - [Quantizing LLMs Step-by-Step: Converting FP16 Models to GGUF](https://machinelearningmastery.com/quantizing-llms-step-by-step-converting-fp16-models-to-gguf/) (2026-01-08)
 - [Supervised Learning: The Foundation of Predictive Modeling](https://machinelearningmastery.com/supervised-learning-the-foundation-of-predictive-modeling/) (2026-01-07)
-- [A Gentle Introduction to Language Model Fine-tuning](https://machinelearningmastery.com/a-gentle-introduction-to-language-model-fine-tuning/) (2026-01-06)
 
 </details>
 
