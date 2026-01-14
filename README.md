@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Sei (YC W22) Is Hiring a DevOps Engineer (India/In-Office/Chennai/Gurgaon)](https://www.ycombinator.com/companies/sei/jobs/Rn0KPXR-devops-platform-ai-infrastructure-engineer) (2026-01-14)
-- [The $LANG Programming Language](https://news.ycombinator.com/item?id=46610557) (2026-01-14)
-- [A 40-line fix eliminated a 400x performance gap](https://questdb.com/blog/jvm-current-thread-user-time/) (2026-01-13)
-- [The insecure evangelism of LLM maximalists](https://lewiscampbell.tech/blog/260114.html) (2026-01-13)
-- [EOL hardware should mean open-source software](https://www.marcia.no/words/eol) (2026-01-13)
+- [1000 Blank White Cards](https://en.wikipedia.org/wiki/1000_Blank_White_Cards) (2026-01-14)
+- [The Gleam Programming Language](https://gleam.run/) (2026-01-14)
+- [Stop using natural language interfaces](https://tidepool.leaflet.pub/3mcbegnuf2k2i) (2026-01-14)
+- [Show HN: Cachekit – High performance caching policies library in Rust](https://github.com/OxidizeLabs/cachekit) (2026-01-14)
+- [ASCII Clouds](https://caidan.dev/portfolio/ascii_clouds/) (2026-01-14)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [We Built Avery Using Avery: What Dogfooding Taught Us About AI Coding's Broken Incentives](https://dev.to/rbnphkn_avry/we-built-avery-using-avery-what-dogfooding-taught-us-about-ai-codings-broken-incentives-41h8) (2026-01-14)
-- [We Deleted 5,600 Lines of Code with Claude (and Found 1 Bug)](https://dev.to/traviticus/we-deleted-5600-lines-of-code-with-claude-and-found-1-bug-on9) (2026-01-14)
-- [Building LandlordOS: A Modern Property Management System with Next.js 16](https://dev.to/ben_stone_5608b8e2d9f8973/building-landlordos-a-modern-property-management-system-with-nextjs-16-1o9) (2026-01-14)
-- [Claude Code Experiment: More Tokens Doesn't Mean Better Code](https://dev.to/middlebrooks314/claude-code-experiment-more-tokens-doesnt-mean-better-code-4l4l) (2026-01-14)
-- [Troubleshooting EFS Mount Failures in EKS: The IAM Mount Option Mystery](https://dev.to/oyiz-michael/troubleshooting-efs-mount-failures-in-eks-the-iam-mount-option-mystery-4e6h) (2026-01-14)
+- [CES 2026: My top 5 picks!](https://dev.to/jigyasagrover/ces-2026-my-top-5-picks-lf4) (2026-01-14)
+- [The Ultimate Guide to Shopify Cart Debugging: How to Save Hours with Shopify Theme Devtools Cart Panel](https://dev.to/yakohere/the-ultimate-guide-to-shopify-cart-debugging-how-to-save-hours-with-shopify-theme-devtools-cart-1f70) (2026-01-14)
+- [Inside Git: How It Works and the Role of the .git Folder](https://dev.to/anoop-rajoriya/inside-git-how-it-works-and-the-role-of-the-git-folder-3d2b) (2026-01-14)
+- [Headless vs. Real Browser Testing: The Strategic Guide for Modern QA Teams](https://dev.to/matt_calder_e620d84cf0c14/headless-vs-real-browser-testing-the-strategic-guide-for-modern-qa-teams-ea4) (2026-01-14)
+- [The iOS Safari Full-Height Video Fix That Actually Works (After 4 Hours of Everything That Doesn't)](https://dev.to/petermcclung/the-ios-safari-full-height-video-fix-that-actually-works-after-4-hours-of-everything-that-doesnt-1iim) (2026-01-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Nothing to Lose!](https://medium.com/@viceroytroybiz/nothing-to-lose-72b7881c6bbc?source=rss------programming-5) (2026-01-14)
-- [Malware Development with NIM — Malicious Self-Replication](https://medium.com/@edgarhuemac/malware-development-with-nim-malicious-self-replication-5781af6ccb09?source=rss------programming-5) (2026-01-14)
-- [JdbcTemplate vs NamedParameterJdbcTemplate in Spring Boot: Key Differences, When, and Why to Use…](https://medium.com/@sunil17bbmp/jdbctemplate-vs-namedparameterjdbctemplate-in-spring-boot-key-differences-when-and-why-to-use-2005b8f60d7e?source=rss------programming-5) (2026-01-14)
-- [Nexus-Stellar: When Physics Meets Computation](https://medium.com/@anzizdaouda0/nexus-stellar-when-physics-meets-computation-904ff5efaa8f?source=rss------programming-5) (2026-01-14)
-- [The smarter way: index the DATE, not the TIMESTAMP](https://medium.com/@angeloarcillas64/the-smarter-way-index-the-date-not-the-timestamp-c13d591b3275?source=rss------programming-5) (2026-01-14)
+- [Stack Data Structure — Concepts, Implementation & Real Interview Problems (JavaScript)](https://javascript.plainenglish.io/stack-data-structure-concepts-implementation-real-interview-problems-javascript-e4f2eab34030?source=rss------programming-5) (2026-01-14)
+- [Streaming, Suspense & Loading UI — How Modern Apps Feel Instant](https://javascript.plainenglish.io/streaming-suspense-loading-ui-how-modern-apps-feel-instant-afbc945b156d?source=rss------programming-5) (2026-01-14)
+- [Python Foundations 2026 (Part 3): Built-In Functions Every Beginner Must Know](https://abkarikari23.medium.com/python-foundations-2026-part-3-built-in-functions-every-beginner-must-know-ed0fd0cac5da?source=rss------programming-5) (2026-01-14)
+- [Why English Is The Hottest New Programming Language In 2026](https://medium.com/write-a-catalyst/why-english-is-the-hottest-new-programming-language-in-2026-9eaeb90b5214?source=rss------programming-5) (2026-01-14)
+- [10 Browser Tricks That Instantly Made Me a Faster Frontend Developer](https://medium.com/the-software-journal/10-browser-tricks-that-instantly-made-me-a-faster-frontend-developer-9e7cd44a1b55?source=rss------programming-5) (2026-01-14)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
 - [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
 - [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
 - [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
+- [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
 
 </details>
 
@@ -362,6 +362,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Meet the Honorees of Twilio’s AI Startup Searchlight 2025 Award Program
+](
+https://www.twilio.com/en-us/blog/company/news/startup-searchlight-2025-winners
+) (2026-01-13)
+- [
+SIGNAL London 2025 had something for everyone
+](
+https://www.twilio.com/en-us/blog/events/signal-london-2025-recap
+) (2026-01-13)
+- [
 Behind the Builder: Justinus Kho, Staff Product Data Analyst
 ](
 https://www.twilio.com/en-us/blog/company/spotlights/behind-the-builder-Justinus-Twilio
@@ -376,16 +386,6 @@ How to Code Video Games: A Beginner's Guide
 ](
 https://www.twilio.com/en-us/blog/how-to-code-video-games
 ) (2026-01-05)
-- [
-5+ reasons to use VoIP call centers in 2026 (and beyond)
-](
-https://www.twilio.com/en-us/blog/insights/cloud-comms/reasons-to-have-voip-call-center
-) (2025-12-30)
-- [
-Broadcast Text Messaging: What Is It & How to Use It
-](
-https://www.twilio.com/en-us/blog/what-is-broadcast-messaging
-) (2025-12-27)
 
 </details>
 
