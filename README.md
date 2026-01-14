@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Neo humanoid maker 1X releases world model to help bots learn what they see](https://techcrunch.com/2026/01/13/neo-humanoid-maker-1x-releases-world-model-to-help-bots-learn-what-they-see/) (2026-01-13)
-- [Google’s update for Veo 3.1 lets users create vertical videos through reference images](https://techcrunch.com/2026/01/13/googles-update-for-veo-3-1-lets-users-create-vertical-videos-through-reference-images/) (2026-01-13)
-- [India reportedly tells quick-commerce firms to drop 10-minute delivery promise](https://techcrunch.com/2026/01/13/india-reportedly-tells-quick-commerce-firms-to-drop-10-minute-delivery-promise/) (2026-01-13)
-- [ElevenLabs CEO says the voice AI startup crossed $330M ARR last year](https://techcrunch.com/2026/01/13/elevenlabs-ceo-says-the-voice-ai-startup-crossed-330-million-arr-last-year/) (2026-01-13)
-- [Apple launches ‘Creator Studio’ bundle of apps for $12.99 per month](https://techcrunch.com/2026/01/13/apple-launches-creator-studio-bundle-of-apps-for-12-99-per-month/) (2026-01-13)
+- [New York governor clears path for robotaxis everywhere, with one notable exception](https://techcrunch.com/2026/01/13/new-york-governor-clears-path-for-robotaxis-everywhere-with-one-notable-exception/) (2026-01-13)
+- [Microsoft announces glut of new data centers but says it won’t let your electricity bill go up](https://techcrunch.com/2026/01/13/microsoft-announces-glut-of-new-data-centers-but-says-it-wont-let-your-electricity-bill-go-up/) (2026-01-13)
+- [A consumer watchdog issued a warning about Google’s AI agent shopping protocol — Google says she’s wrong](https://techcrunch.com/2026/01/13/a-consumer-watchdog-issued-a-warning-about-googles-ai-agent-shopping-protocol-google-says-shes-wrong/) (2026-01-13)
+- [Ammobia says it has reinvented a century-old technology](https://techcrunch.com/2026/01/13/ammobia-says-it-has-reinvented-a-century-old-technology/) (2026-01-13)
+- [Ring founder details the camera company’s ‘intelligent assistant’ era](https://techcrunch.com/2026/01/13/ring-founder-details-the-camera-companys-intelligent-assistant-era/) (2026-01-13)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Tulip Creative Computer](https://github.com/shorepine/tulipcc) (2026-01-13)
-- [90M people. 118 hours of silence. One nation erased from the internet](https://state-of-iranblackout.whisper.security/) (2026-01-13)
-- [Legion Health (YC S21) Hiring Cracked Founding Eng for AI-Native Ops](https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424) (2026-01-13)
-- [Influencers and OnlyFans models are dominating U.S. O-1 visa requests](https://www.theguardian.com/us-news/2026/jan/11/onlyfans-influencers-us-o-1-visa) (2026-01-13)
-- [Scott Adams has died](https://www.usatoday.com/story/entertainment/celebrities/2026/01/13/scott-adams-dead-dilbert-creator-prostate-cancer/88158828007/) (2026-01-13)
+- [Sei (YC W22) Is Hiring a DevOps Engineer (India/In-Office/Chennai/Gurgaon)](https://www.ycombinator.com/companies/sei/jobs/Rn0KPXR-devops-platform-ai-infrastructure-engineer) (2026-01-14)
+- [The $LANG Programming Language](https://news.ycombinator.com/item?id=46610557) (2026-01-14)
+- [A 40-line fix eliminated a 400x performance gap](https://questdb.com/blog/jvm-current-thread-user-time/) (2026-01-13)
+- [The insecure evangelism of LLM maximalists](https://lewiscampbell.tech/blog/260114.html) (2026-01-13)
+- [EOL hardware should mean open-source software](https://www.marcia.no/words/eol) (2026-01-13)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Verizon gets FCC permission to end 60-day phone unlocking rule](https://www.theverge.com/news/861349/verizon-fcc-phone-unlocking-60-day-requirement-waived) (2026-01-13)
-- [Nissan is one of the first carmakers to offer magnetic phone chargers in the US](https://www.theverge.com/tech/861260/nissan-wireless-charger-2026-murano-pathfinder-qi2-magnetic) (2026-01-13)
-- [Mercedes temporarily scraps its Level 3 ‘eyes-off’ driving feature](https://www.theverge.com/transportation/860935/mercedes-drive-pilot-level-3-scrapped) (2026-01-13)
-- [Google’s Veo now turns portrait images into vertical AI videos](https://www.theverge.com/news/861257/google-veo-3-1-ai-video-ingredients-vertical-update) (2026-01-13)
-- [Meta confirms Reality Labs layoffs and shifts to invest more in wearables](https://www.theverge.com/news/861295/meta-reality-labs-layoffs-shift-to-wearables) (2026-01-13)
+- [Inside the White House shitposting machine](https://www.theverge.com/column/861476/trump-memes-venezuela-ice-shooting) (2026-01-13)
+- [WeatherTech founder might be the newest US consumer protection official](https://www.theverge.com/news/861560/weathertech-founder-david-macneil-federal-trade-commission) (2026-01-13)
+- [I tested several cases for the Switch 2 and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases) (2026-01-13)
+- [The Bone Temple turns 28 Years Later into a terrifying crisis of faith](https://www.theverge.com/entertainment/859756/28-years-later-the-bone-temple-review) (2026-01-13)
+- [Senate passes a bill that would let nonconsensual deepfake victims sue](https://www.theverge.com/news/861531/defiance-act-senate-passage-deepfakes-grok) (2026-01-13)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [This one could use less power: The Jeep Wagoneer S EV](https://arstechnica.com/cars/2026/01/this-one-could-use-less-power-the-jeep-wagoneer-s-ev/) (2026-01-13)
-- [A new Titan emerges in Monarch: Legacy of Monsters S2 teaser](https://arstechnica.com/culture/2026/01/a-new-titan-emerges-in-monarch-legacy-of-monsters-s2-teaser/) (2026-01-13)
-- [Wild mushrooms keep killing people in California; 3 dead, 35 poisoned](https://arstechnica.com/health/2026/01/wild-mushrooms-keep-killing-people-in-california-3-dead-35-poisoned/) (2026-01-13)
-- [Signal creator Moxie Marlinspike wants to do for AI what he did for messaging](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/) (2026-01-13)
-- [Anthropic launches Cowork, a Claude Code-like for general computing](https://arstechnica.com/ai/2026/01/anthropic-launches-cowork-a-claude-code-like-for-general-computing/) (2026-01-12)
+- [BMW’s first electric M car is coming in 2027—with one motor per wheel](https://arstechnica.com/cars/2026/01/bmws-first-electric-m-car-is-coming-in-2027-with-one-motor-per-wheel/) (2026-01-13)
+- [The RAM shortage’s silver lining: Less talk about “AI PCs”](https://arstechnica.com/gadgets/2026/01/the-ram-shortages-silver-lining-less-talk-about-ai-pcs/) (2026-01-13)
+- [Never-before-seen Linux malware is “far more advanced than typical”](https://arstechnica.com/security/2026/01/never-before-seen-linux-malware-is-far-more-advanced-than-typical/) (2026-01-13)
+- [Lawsuit: DHS wants “unlimited subpoena authority” to unmask ICE critics](https://arstechnica.com/tech-policy/2026/01/instagram-user-fights-dhs-for-the-right-to-post-ice-sightings-anonymously/) (2026-01-13)
+- [FDA deletes warning on bogus autism therapies touted by RFK Jr.‘s allies](https://arstechnica.com/health/2026/01/warning-about-bogus-autism-treatments-vanishes-from-fdas-website/) (2026-01-13)
 
 </details>
 
@@ -75,11 +75,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [What AI is actually good for, according to developers](https://github.blog/ai-and-ml/generative-ai/what-ai-is-actually-good-for-according-to-developers/) (2026-01-13)
 - [Want better AI outputs? Try context engineering.](https://github.blog/ai-and-ml/generative-ai/want-better-ai-outputs-try-context-engineering/) (2026-01-12)
 - [Light waves, rising tides, and drifting ships: Game Off 2025 winners](https://github.blog/open-source/gaming/light-waves-rising-tides-and-drifting-ships-game-off-2025-winners/) (2026-01-10)
 - [Why AI is pushing developers toward typed languages](https://github.blog/ai-and-ml/llms/why-ai-is-pushing-developers-toward-typed-languages/) (2026-01-08)
 - [Agentic AI, MCP, and spec-driven development: Top blog posts of 2025](https://github.blog/developer-skills/agentic-ai-mcp-and-spec-driven-development-top-blog-posts-of-2025/) (2025-12-30)
-- [Bugs that survive the heat of continuous fuzzing](https://github.blog/security/vulnerability-research/bugs-that-survive-the-heat-of-continuous-fuzzing/) (2025-12-29)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Kotlin Multiplatform in Production - 1 Year Later](https://dev.to/rafalgawlik/kotlin-multiplatform-in-production-1-year-later-55po) (2026-01-13)
-- [The NanoBanana Image Generation Prompt Templates That Actually Work](https://dev.to/sivarampg/the-nanobanana-image-generation-prompt-templates-that-actually-work-1261) (2026-01-13)
-- [C#.NET - day 08](https://dev.to/sabin_sim/cnet-day-08-14jp) (2026-01-13)
-- [You don't have to read every line](https://dev.to/benjaminsavoy/you-dont-have-to-read-every-line-4e5b) (2026-01-13)
-- [How to create password back-up system on Node.js](https://dev.to/jahongir2007/how-to-create-password-back-up-system-on-nodejs-2095) (2026-01-13)
+- [We Built Avery Using Avery: What Dogfooding Taught Us About AI Coding's Broken Incentives](https://dev.to/rbnphkn_avry/we-built-avery-using-avery-what-dogfooding-taught-us-about-ai-codings-broken-incentives-41h8) (2026-01-14)
+- [We Deleted 5,600 Lines of Code with Claude (and Found 1 Bug)](https://dev.to/traviticus/we-deleted-5600-lines-of-code-with-claude-and-found-1-bug-on9) (2026-01-14)
+- [Building LandlordOS: A Modern Property Management System with Next.js 16](https://dev.to/ben_stone_5608b8e2d9f8973/building-landlordos-a-modern-property-management-system-with-nextjs-16-1o9) (2026-01-14)
+- [Claude Code Experiment: More Tokens Doesn't Mean Better Code](https://dev.to/middlebrooks314/claude-code-experiment-more-tokens-doesnt-mean-better-code-4l4l) (2026-01-14)
+- [Troubleshooting EFS Mount Failures in EKS: The IAM Mount Option Mystery](https://dev.to/oyiz-michael/troubleshooting-efs-mount-failures-in-eks-the-iam-mount-option-mystery-4e6h) (2026-01-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Dart Advanced DATA | Null Safety + Async/Await Complete Production Guide](https://yourcheatsheet.medium.com/dart-advanced-data-null-safety-async-await-complete-production-guide-b858855853f9?source=rss------programming-5) (2026-01-13)
-- [Kenapa Solusi Masalah Rumit Sering Muncul Saat Kita Sedang Nyuci Baju?](https://medium.com/@sangkalaaji/kenapa-solusi-masalah-rumit-sering-muncul-saat-kita-sedang-nyuci-baju-25c76049373a?source=rss------programming-5) (2026-01-13)
-- [React Behind the Scenes, useEffect()](https://javascript.plainenglish.io/react-behind-the-scenes-useeffect-c7de7b61d6a8?source=rss------programming-5) (2026-01-13)
-- [This Python GUI Toolkit Made Me Stop Hating Frontend](https://python.plainenglish.io/this-python-gui-toolkit-made-me-stop-hating-frontend-8737b13e1d2d?source=rss------programming-5) (2026-01-13)
-- [JavaScript Just Got a New Superpower](https://javascript.plainenglish.io/javascript-just-got-a-new-superpower-4e2b5bbf7e2e?source=rss------programming-5) (2026-01-13)
+- [Nothing to Lose!](https://medium.com/@viceroytroybiz/nothing-to-lose-72b7881c6bbc?source=rss------programming-5) (2026-01-14)
+- [Malware Development with NIM — Malicious Self-Replication](https://medium.com/@edgarhuemac/malware-development-with-nim-malicious-self-replication-5781af6ccb09?source=rss------programming-5) (2026-01-14)
+- [JdbcTemplate vs NamedParameterJdbcTemplate in Spring Boot: Key Differences, When, and Why to Use…](https://medium.com/@sunil17bbmp/jdbctemplate-vs-namedparameterjdbctemplate-in-spring-boot-key-differences-when-and-why-to-use-2005b8f60d7e?source=rss------programming-5) (2026-01-14)
+- [Nexus-Stellar: When Physics Meets Computation](https://medium.com/@anzizdaouda0/nexus-stellar-when-physics-meets-computation-904ff5efaa8f?source=rss------programming-5) (2026-01-14)
+- [The smarter way: index the DATE, not the TIMESTAMP](https://medium.com/@angeloarcillas64/the-smarter-way-index-the-date-not-the-timestamp-c13d591b3275?source=rss------programming-5) (2026-01-14)
 
 </details>
 
@@ -141,11 +141,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [CEOs of NVIDIA and Lilly Share ‘Blueprint for What Is Possible’ in AI and Drug Discovery](https://blogs.nvidia.com/blog/jpmorgan-healthcare-nvidia-lilly/) (2026-01-13)
 - [AI’s Next Revolution: Multiply Labs Is Scaling Robotics-Driven Cell Therapy Biomanufacturing Labs](https://blogs.nvidia.com/blog/multiply-labs-isaac-omniverse/) (2026-01-12)
 - [NVIDIA Unveils Multi-Agent Intelligent Warehouse and Catalog Enrichment AI Blueprints to Power the Retail Pipeline](https://blogs.nvidia.com/blog/multi-agent-intelligent-warehouse-and-catalog-enrichment-blueprints/) (2026-01-09)
 - [AI Copilot Keeps Berkeley’s X-Ray Particle Accelerator on Track](https://blogs.nvidia.com/blog/ai-copilot-berkeley-x-ray-particle-accelerator/) (2026-01-08)
 - [Japan Science and Technology Agency Develops NVIDIA-Powered Moonshot Robot for Elderly Care](https://blogs.nvidia.com/blog/japan-science-technology-agency-develops-moonshot-robot/) (2026-01-08)
-- [More Ways to Play, More Games to Love — GeForce NOW Wraps CES With Linux Support, Fire TV App, Flight Stick Controls](https://blogs.nvidia.com/blog/geforce-now-thursday-ces-2026-recap/) (2026-01-08)
 
 </details>
 
@@ -295,11 +295,11 @@
 <details>
 <summary>📌 Pinterest Engineering</summary>
 
+- [PinLanding: Turn Billions of Products into Instant Shopping Collections with Multimodal AI](https://medium.com/pinterest-engineering/pinlanding-turn-billions-of-products-into-instant-shopping-collections-with-multimodal-ai-3489320294e9?source=rss-ef81ef829bcb------2) (2026-01-13)
 - [LLM-Powered Relevance Assessment for Pinterest Search](https://medium.com/pinterest-engineering/llm-powered-relevance-assessment-for-pinterest-search-b846489e358d?source=rss-ef81ef829bcb------2) (2025-12-10)
 - [How Pinterest Built a Real‑Time Radar for Violative Content using AI](https://medium.com/pinterest-engineering/how-pinterest-built-a-real-time-radar-for-violative-content-using-ai-d5a108e02ac2?source=rss-ef81ef829bcb------2) (2025-12-08)
 - [Improving Quality of Recommended Content through Pinner Surveys](https://medium.com/pinterest-engineering/improving-quality-of-recommended-content-through-pinner-surveys-eebca8a52652?source=rss-ef81ef829bcb------2) (2025-12-05)
 - [On the (re)-prioritization of open-source AI](https://medium.com/pinterest-engineering/on-the-re-prioritization-of-open-source-ai-86f7279481e3?source=rss-ef81ef829bcb------2) (2025-12-04)
-- [Autonomous Observability at Pinterest (Part 1 of 2)](https://medium.com/pinterest-engineering/autonomous-observability-at-pinterest-part-1-of-2-eb0adae830ba?source=rss-ef81ef829bcb------2) (2025-12-03)
 
 </details>
 
@@ -396,7 +396,11 @@ https://www.twilio.com/en-us/blog/what-is-broadcast-messaging
 - [Taming P99s in OpenFGA: How We Built a Self-Tuning Strategy Planner](https://auth0.com/blog/self-tuning-strategy-planner-openfga/) (2026-01-09)
 - [Fact or Fiction: Eight Myths About Auth0 For B2B](https://auth0.com/blog/eight-myths-about-Auth0-B2B/) (2026-01-08)
 - [Model Context Protocol Nov 2025 Specification Update: CIMD, XAA, and Security](https://auth0.com/blog/mcp-november-2025-specification-update/) (2026-01-07)
-- [Build an AI Assistant with LangGraph, Next.js, and Auth0 Connected Accounts](https://auth0.com/blog/ai-assistant-langgraph-nextjs-slack-github/) (2025-12-19)
+- [Why MCP’s Move Away from Server-Sent Events Simplifies Security
+
+
+
+](https://auth0.com/blog/mcp-streamable-http/) (2025-12-19)
 
 </details>
 
@@ -458,11 +462,11 @@ https://www.twilio.com/en-us/blog/what-is-broadcast-messaging
 <details>
 <summary>🚀 Apollo GraphQL</summary>
 
+- [Transforming Capital One’s Data Marketplace with Embedded Governance and a Product Mindset](https://www.apollographql.com/blog/transforming-capital-ones-data-marketplace-with-embedded-governance-and-a-product-mindset) (2026-01-13)
 - [How N-able Certified 1300% Growth with Apollo](https://www.apollographql.com/blog/how-n-able-certified-1300-growth-with-apollo) (2026-01-08)
 - [End of Support for Router v1.x; Long-Term Support (LTS) Policy Update](https://www.apollographql.com/blog/end-of-support-for-router-v1-x-long-term-support-lts-policy-update) (2025-12-19)
 - [Building Apps for ChatGPT with Apollo MCP Server and Apollo Client](https://www.apollographql.com/blog/building-apps-for-chatgpt-with-apollo-mcp-server-and-apollo-client) (2025-12-18)
 - [Apollo Strengthens Its San Francisco Presence for the Agentic Era](https://www.apollographql.com/blog/apollo-strengthens-its-san-francisco-presence-for-the-agentic-era) (2025-12-02)
-- [How Delivery Hero Accelerates UX Experiments with Server-Driven UI and Apollo](https://www.apollographql.com/blog/how-delivery-hero-accelerates-ux-experiments-with-server-driven-ui-and-apollo) (2025-12-01)
 
 </details>
 
@@ -579,22 +583,22 @@ https://www.twilio.com/en-us/blog/what-is-broadcast-messaging
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [15 Free LLM APIs You Can Use in 2026](https://www.analyticsvidhya.com/blog/2026/01/top-free-llm-apis/) (2026-01-13)
 - [40 Prompt Engineering Questions (With Interview-Ready Answers)](https://www.analyticsvidhya.com/blog/2026/01/prompt-engineering-questions/) (2026-01-13)
 - [Getting Started with XGBoost: A Beginner-Friendly Tutorial](https://www.analyticsvidhya.com/blog/2026/01/getting-started-with-xgboost/) (2026-01-13)
 - [How to Integrate Universal Commerce Protocol (UCP) with AI Agents?](https://www.analyticsvidhya.com/blog/2026/01/universal-commerce-protocol-by-google/) (2026-01-12)
 - [What is Model Collapse? Examples, Causes and Fixes](https://www.analyticsvidhya.com/blog/2026/01/model-collapse/) (2026-01-12)
-- [10 Hackathons You Can Join in 2026](https://www.analyticsvidhya.com/blog/2026/01/top-hackathon-platforms/) (2026-01-11)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Delegating Without Chaos: Your Business Can’t Grow Until You Let Go (Sponsored)](https://bit.ly/45cyTt4#new_tab) (2026-01-14)
 - [The Complete Guide to Logging for Python Developers](https://www.kdnuggets.com/the-complete-guide-to-logging-for-python-developers) (2026-01-13)
 - [CSV vs. Parquet vs. Arrow: Storage Formats Explained](https://www.kdnuggets.com/csv-vs-parquet-vs-arrow-storage-formats-explained) (2026-01-13)
 - [5 Useful Python Scripts for Effective Feature Engineering](https://www.kdnuggets.com/5-useful-python-scripts-for-effective-feature-engineering) (2026-01-13)
 - [We Tried 5 Missing Data Imputation Methods: The Simplest Method Won (Sort Of)](https://www.kdnuggets.com/we-tried-5-missing-data-imputation-methods-the-simplest-method-won-sort-of) (2026-01-12)
-- [How to Self-Host n8n on Docker in 5 Simple Steps](https://www.kdnuggets.com/how-to-self-host-n8n-on-docker-in-5-simple-steps) (2026-01-12)
 
 </details>
 
