@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Mira Murati’s startup, Thinking Machines Lab, is losing two of its co-founders to OpenAI](https://techcrunch.com/2026/01/14/mira-muratis-startup-thinking-machines-lab-is-losing-two-of-its-co-founders-to-openai/) (2026-01-15)
 - [The FTC’s data-sharing order against GM is finally settled](https://techcrunch.com/2026/01/14/the-ftcs-data-sharing-order-against-gm-is-finally-settled/) (2026-01-15)
 - [India’s Emversity doubles valuation as it scales workers AI can’t replace](https://techcrunch.com/2026/01/14/indias-emversity-doubles-valuation-as-it-scales-workers-ai-cant-replace/) (2026-01-15)
 - [Musk denies awareness of Grok sexual underage images as California AG launches probe](https://techcrunch.com/2026/01/14/musk-denies-awareness-of-grok-sexual-underage-images-as-california-ag-launches-probe/) (2026-01-14)
 - [OpenAI signs deal, worth $10B, for compute from Cerebras](https://techcrunch.com/2026/01/14/openai-signs-deal-reportedly-worth-10-billion-for-compute-from-cerebras/) (2026-01-14)
-- [Netflix’s first original video podcasts feature Pete Davidson and Michael Irvin](https://techcrunch.com/2026/01/14/netflixs-first-original-video-podcasts-feature-pete-davidson-and-michael-irvin/) (2026-01-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [The URL shortener that makes your links look as suspicious as possible](https://creepylink.com/) (2026-01-15)
+- [Bubblewrap: A nimble way to prevent agents from accessing your .env files](https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/) (2026-01-15)
+- [Ask HN: What is the best way to provide continuous context to models?](https://news.ycombinator.com/item?id=46626639) (2026-01-15)
 - [Furiosa: 3.5x efficiency over H100s](https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale) (2026-01-15)
-- [Anthropic Explicitly Blocking OpenCode](https://gist.github.com/R44VC0RP/bd391f6a23185c0fed6c6b5fb2bac50e) (2026-01-15)
-- [Billion-Dollar Idea Generator](https://www.pivotgpt.ceo/) (2026-01-14)
-- [ChromaDB Explorer](https://www.chroma-explorer.com/) (2026-01-14)
-- [Scaling long-running autonomous coding](https://cursor.com/blog/scaling-agents) (2026-01-14)
+- [New Safari developer tools provide insight into CSS Grid Lanes](https://webkit.org/blog/17746/new-safari-developer-tools-provide-insight-into-css-grid-lanes/) (2026-01-15)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How I Built a Intelligent AgTech Risk Monitoring System: Architecture, Technical Decisions, and Key Learnings](https://dev.to/guilherme_daros/how-i-built-a-intelligent-agtech-risk-monitoring-system-architecture-technical-decisions-and-key-1n5a) (2026-01-15)
-- [Go Channel and Pipeline: A Conference Review](https://dev.to/evanlin/go-channel-and-pipeline-a-conference-review-bff) (2026-01-15)
-- [[Golang] Do You Like Golang? Become a Go GDE (Google Developer Expert)](https://dev.to/evanlin/golang-do-you-like-golang-become-a-go-gde-google-developer-expert-48al) (2026-01-15)
-- [[TIL][Go] How to Install a Beta Version of Go](https://dev.to/evanlin/tilgo-how-to-install-a-beta-version-of-go-1p30) (2026-01-15)
-- [GopherCon 2019: Uber's Approach (1)](https://dev.to/evanlin/gophercon-2019-ubers-approach-1-ekc) (2026-01-15)
+- [👗 StyleMatch - Your AI Personal Fashion Stylist](https://dev.to/simranshaikh20_50/stylematch-your-ai-personal-fashion-stylist-247m) (2026-01-15)
+- [The Cloud Exit Strategy: How to Run a Production SaaS for $5/Month](https://dev.to/the_nortern_dev/the-cloud-exit-strategy-how-to-run-a-production-saas-for-5month-51fi) (2026-01-15)
+- [Your Cloud Database is a Security Theater](https://dev.to/ryo_suwito/your-cloud-database-is-a-security-theater-28a5) (2026-01-15)
+- [🚀 BlazorWJb: Integrating Worker Jobs with Blazor Server App](https://dev.to/ukrguru/blazorwjb-integrating-worker-jobs-with-blazor-server-app-4ebj) (2026-01-15)
+- [A Gradual Approach to React Folder Structure: From Package by Feature to Clean Architecture](https://dev.to/usapopopooon/a-gradual-approach-to-react-folder-structure-from-package-by-feature-to-clean-architecture-e44) (2026-01-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Vector Databases vs Graph Databases for Retrieval-Augmented Generation](https://rajuhemanth456.medium.com/vector-databases-vs-graph-databases-for-retrieval-augmented-generation-d0fed314da92?source=rss------programming-5) (2026-01-15)
-- [ 7 Must-Have Tools for Your Workflow](https://javascript.plainenglish.io/7-must-have-tools-for-your-workflow-c5c3b7b146be?source=rss------programming-5) (2026-01-15)
-- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-b5d620607917?source=rss------programming-5) (2026-01-15)
-- [10 Python Tools to Replace Paid Software & Save Money](https://medium.com/top-python-libraries/10-python-tools-to-replace-paid-software-save-money-963adc28a0ea?source=rss------programming-5) (2026-01-15)
-- [13 Modern Python Libraries to Boost Productivity in 2026](https://medium.com/top-python-libraries/13-modern-python-libraries-to-boost-productivity-in-2026-00cb8598a98c?source=rss------programming-5) (2026-01-15)
+- [FastAPI vs Flask vs Django: Which to Choose in 2026](https://medium.com/@inprogrammer/fastapi-vs-flask-vs-django-which-to-choose-in-2026-c51b243174b5?source=rss------programming-5) (2026-01-15)
+- [Master Error Handling in Next.js: error.js, not-found.js & Real Production Patterns](https://blog.stackademic.com/master-error-handling-in-next-js-error-js-not-found-js-real-production-patterns-0a34cf8ee281?source=rss------programming-5) (2026-01-15)
+- [Queue Data Structure — FIFO, Implementation & Real Interview Problems (JavaScript)](https://blog.stackademic.com/queue-data-structure-fifo-implementation-real-interview-problems-javascript-bcb7c0d66a2f?source=rss------programming-5) (2026-01-15)
+- [The Evolving Landscape of Global Survey Programming and Market Research in 2026](https://medium.com/@globalopine2/the-evolving-landscape-of-global-survey-programming-and-market-research-in-2026-11af5cad31f1?source=rss------programming-5) (2026-01-15)
+- [Multi-agent handoffs eats 40% of effort (here’s the boundary standard that gives it back)](https://medium.com/@anindyasinghobi/multi-agent-handoffs-eats-40-of-effort-heres-the-boundary-standard-that-gives-it-back-b91d369a832e?source=rss------programming-5) (2026-01-15)
 
 </details>
 
@@ -130,22 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
 - [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
 - [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
 - [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
-
-</details>
-
-<details>
-<summary>🎮 NVIDIA Blog</summary>
-
-- [CEOs of NVIDIA and Lilly Share ‘Blueprint for What Is Possible’ in AI and Drug Discovery](https://blogs.nvidia.com/blog/jpmorgan-healthcare-nvidia-lilly/) (2026-01-13)
-- [AI’s Next Revolution: Multiply Labs Is Scaling Robotics-Driven Cell Therapy Biomanufacturing Labs](https://blogs.nvidia.com/blog/multiply-labs-isaac-omniverse/) (2026-01-12)
-- [NVIDIA Unveils Multi-Agent Intelligent Warehouse and Catalog Enrichment AI Blueprints to Power the Retail Pipeline](https://blogs.nvidia.com/blog/multi-agent-intelligent-warehouse-and-catalog-enrichment-blueprints/) (2026-01-09)
-- [AI Copilot Keeps Berkeley’s X-Ray Particle Accelerator on Track](https://blogs.nvidia.com/blog/ai-copilot-berkeley-x-ray-particle-accelerator/) (2026-01-08)
-- [Japan Science and Technology Agency Develops NVIDIA-Powered Moonshot Robot for Elderly Care](https://blogs.nvidia.com/blog/japan-science-technology-agency-develops-moonshot-robot/) (2026-01-08)
+- [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
 
 </details>
 
@@ -362,6 +351,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Meet the Honorees of Twilio’s AI Startup Searchlight 2025 Award Program
+](
+https://www.twilio.com/en-us/blog/company/news/startup-searchlight-2025-winners
+) (2026-01-13)
+- [
+SIGNAL London 2025 had something for everyone
+](
+https://www.twilio.com/en-us/blog/events/signal-london-2025-recap
+) (2026-01-13)
+- [
 Behind the Builder: Justinus Kho, Staff Product Data Analyst
 ](
 https://www.twilio.com/en-us/blog/company/spotlights/behind-the-builder-Justinus-Twilio
@@ -376,16 +375,6 @@ How to Code Video Games: A Beginner's Guide
 ](
 https://www.twilio.com/en-us/blog/how-to-code-video-games
 ) (2026-01-05)
-- [
-5+ reasons to use VoIP call centers in 2026 (and beyond)
-](
-https://www.twilio.com/en-us/blog/insights/cloud-comms/reasons-to-have-voip-call-center
-) (2025-12-30)
-- [
-Broadcast Text Messaging: What Is It & How to Use It
-](
-https://www.twilio.com/en-us/blog/what-is-broadcast-messaging
-) (2025-12-27)
 
 </details>
 
@@ -502,11 +491,11 @@ https://www.twilio.com/en-us/blog/what-is-broadcast-messaging
 <details>
 <summary>💬 Slack API</summary>
 
+- [Meet the All-New Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-01-13)
 - [12 Project Management Techniques for Better Collaboration and Efficiency](https://slack.com/blog/productivity/project-management-techniques) (2026-01-07)
 - [Best Team Collaboration Tools for Productivity in 2026](https://slack.com/blog/collaboration/best-collaboration-tools) (2026-01-07)
 - [What is a Knowledge Graph?](https://slack.com/blog/developers/knowledge-graph) (2026-01-05)
 - [Eight Active Listening Strategies for Better Communication](https://slack.com/blog/collaboration/active-listening) (2026-01-05)
-- [Five employee engagement models for a motivated workplace](https://slack.com/blog/transformation/employee-engagement-model) (2026-01-05)
 
 </details>
 
@@ -591,7 +580,7 @@ https://www.twilio.com/en-us/blog/what-is-broadcast-messaging
 <summary>💎 KDnuggets</summary>
 
 - [Avoiding Overfitting, Class Imbalance, & Feature Scaling Issues: The Machine Learning Practitioner’s Notebook](https://www.kdnuggets.com/avoiding-overfitting-class-imbalance-feature-scaling-issues-the-machine-learning-practitioners-notebook) (2026-01-14)
-- [5 Code Sandbox for your AI Agents](https://www.kdnuggets.com/5-code-sandbox-for-your-ai-agents) (2026-01-14)
+- [5 Code Sandboxes for Your AI Agents](https://www.kdnuggets.com/5-code-sandbox-for-your-ai-agents) (2026-01-14)
 - [Delegating Without Chaos: Your Business Can’t Grow Until You Let Go (Sponsored)](https://bit.ly/45cyTt4#new_tab) (2026-01-14)
 - [The Complete Guide to Logging for Python Developers](https://www.kdnuggets.com/the-complete-guide-to-logging-for-python-developers) (2026-01-13)
 - [CSV vs. Parquet vs. Arrow: Storage Formats Explained](https://www.kdnuggets.com/csv-vs-parquet-vs-arrow-storage-formats-explained) (2026-01-13)
