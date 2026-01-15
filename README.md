@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Bandcamp takes a stand against AI music, banning it from the platform](https://techcrunch.com/2026/01/14/bandcamp-takes-a-stand-against-ai-music-banning-it-from-the-platform/) (2026-01-14)
-- [Bill Gates-backed Type One Energy raises $87M ahead of $250M Series B](https://techcrunch.com/2026/01/14/bill-gates-backed-type-one-energy-raises-87m-ahead-of-250m-series-b/) (2026-01-14)
-- [Robotics software maker Skild AI hits $14B valuation](https://techcrunch.com/2026/01/14/robotic-software-maker-skild-ai-hits-14b-valuation/) (2026-01-14)
-- [Gemini’s new beta feature provides proactive responses based on your photos, emails, and more](https://techcrunch.com/2026/01/14/geminis-new-beta-feature-provides-proactive-responses-based-on-your-photos-emails-and-more/) (2026-01-14)
-- [AI security firm, depthfirst, announces $40 million Series A](https://techcrunch.com/2026/01/14/ai-security-firm-depthfirst-announces-40-million-series-a/) (2026-01-14)
+- [The FTC’s data-sharing order against GM is finally settled](https://techcrunch.com/2026/01/14/the-ftcs-data-sharing-order-against-gm-is-finally-settled/) (2026-01-15)
+- [India’s Emversity doubles valuation as it scales workers AI can’t replace](https://techcrunch.com/2026/01/14/indias-emversity-doubles-valuation-as-it-scales-workers-ai-cant-replace/) (2026-01-15)
+- [Musk denies awareness of Grok sexual underage images as California AG launches probe](https://techcrunch.com/2026/01/14/musk-denies-awareness-of-grok-sexual-underage-images-as-california-ag-launches-probe/) (2026-01-14)
+- [OpenAI signs deal, worth $10B, for compute from Cerebras](https://techcrunch.com/2026/01/14/openai-signs-deal-reportedly-worth-10-billion-for-compute-from-cerebras/) (2026-01-14)
+- [Netflix’s first original video podcasts feature Pete Davidson and Michael Irvin](https://techcrunch.com/2026/01/14/netflixs-first-original-video-podcasts-feature-pete-davidson-and-michael-irvin/) (2026-01-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Dutch police have their own car stolen during car theft chase](https://dutchreview.com/news/dutch-police-car-stolen-during-chase/) (2026-01-14)
-- [So, You've Hit an Age Gate. What Now?](https://www.eff.org/deeplinks/2026/01/so-youve-hit-age-gate-what-now) (2026-01-14)
-- [Ford F-150 Lightning outsold the Cybertruck and was then canceled for poor sales](https://electrek.co/2026/01/13/ford-f150-lightning-outsold-tesla-cybertruck-canceled-not-selling-enough/) (2026-01-14)
-- [Ask HN: Could you share your personal website here?](https://news.ycombinator.com/item?id=46618714) (2026-01-14)
-- [4k tons of potatoes to be given away for free in Berlin](https://www.the-berliner.com/english-news-berlin/4000-tons-of-potatoes-to-be-given-away-for-free/) (2026-01-14)
+- [Furiosa: 3.5x efficiency over H100s](https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale) (2026-01-15)
+- [Anthropic Explicitly Blocking OpenCode](https://gist.github.com/R44VC0RP/bd391f6a23185c0fed6c6b5fb2bac50e) (2026-01-15)
+- [Billion-Dollar Idea Generator](https://www.pivotgpt.ceo/) (2026-01-14)
+- [ChromaDB Explorer](https://www.chroma-explorer.com/) (2026-01-14)
+- [Scaling long-running autonomous coding](https://cursor.com/blog/scaling-agents) (2026-01-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Gemini is winning](https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner) (2026-01-14)
-- [The Atlantic, Penske, and Vox Media have all sued Google for antitrust violations](https://www.theverge.com/news/861897/atlantic-penske-vox-google-ad-tech-antitrust-lawsuits) (2026-01-14)
-- [X hasn&#8217;t really stopped Grok AI from undressing women in the UK](https://www.theverge.com/news/861894/grok-still-undressing-in-uk) (2026-01-14)
-- [UK digital ID plans will no longer be mandatory](https://www.theverge.com/news/861890/uk-backpeddles-mandatory-digital-id-requirements) (2026-01-14)
-- [Civilization VII is coming to Apple Arcade](https://www.theverge.com/news/861816/civilization-vii-apple-arcade-launch) (2026-01-14)
+- [The best e-reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers) (2026-01-15)
+- [X claims it has stopped Grok from undressing people, but of course it hasn’t](https://www.theverge.com/news/862372/x-grok-ai-policy-update-deepfake-bikini-poses) (2026-01-15)
+- [The Stream Deck Plus is back to its lowest price](https://www.theverge.com/gadgets/862274/elgato-stream-deck-plus-controller-deal-sale) (2026-01-14)
+- [Verizon’s wireless network is down for many people nationwide](https://www.theverge.com/news/861956/verizon-is-down-outage-cell-wireless-service-sos-mode) (2026-01-14)
+- [Naya Connect is a modular mechanical keyboard system for the indecisive](https://www.theverge.com/news/862123/naya-connect-modular-mechanical-keyboard-kickstarter) (2026-01-14)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Man got $2,500 whole-body MRI that found no problems—then had massive stroke](https://arstechnica.com/health/2026/01/man-got-2500-whole-body-mri-that-found-no-problems-then-had-massive-stroke/) (2026-01-14)
-- [Scientists sequence a woolly rhino genome from a 14,400-year-old wolf’s stomach](https://arstechnica.com/science/2026/01/scientists-sequence-a-woolly-rhino-genome-from-a-14400-year-old-wolfs-stomach/) (2026-01-14)
-- [Gemini can now scan your photos, email, and more to provide better answers](https://arstechnica.com/google/2026/01/gemini-can-now-scan-your-photos-email-and-more-to-provide-better-answers/) (2026-01-14)
-- [Deny, deny, admit: UK police used Copilot AI “hallucination” when banning football fans](https://arstechnica.com/ai/2026/01/deny-deny-admit-uk-police-used-copilot-ai-hallucination-when-banning-football-fans/) (2026-01-14)
-- [EPA makes it harder for states, tribes to block pipelines](https://arstechnica.com/science/2026/01/epa-makes-it-harder-for-states-tribes-to-block-pipelines/) (2026-01-14)
+- [A British redcoat’s lost memoir resurfaces](https://arstechnica.com/science/2026/01/a-british-redcoats-lost-memoir-resurfaces/) (2026-01-15)
+- [Musk and Hegseth vow to “make Star Trek real” but miss the show’s lessons](https://arstechnica.com/culture/2026/01/pentagons-arsenal-of-freedom-tour-borrows-name-from-star-trek-episode-about-killer-ai/) (2026-01-14)
+- [SC measles outbreak has gone berserk: 124 cases since Friday, 409 quarantined](https://arstechnica.com/health/2026/01/sc-measles-outbreak-has-gone-berserk-124-cases-since-friday-409-quarantined/) (2026-01-14)
+- [A single click mounted a covert, multistage attack against Copilot](https://arstechnica.com/security/2026/01/a-single-click-mounted-a-covert-multistage-attack-against-copilot/) (2026-01-14)
+- [I can’t stop shooting Oddcore’s endless waves of weird little guys](https://arstechnica.com/gaming/2026/01/i-cant-stop-shooting-oddcores-endless-waves-of-weird-little-guys/) (2026-01-14)
 
 </details>
 
@@ -75,11 +75,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [GitHub Availability Report: December 2025](https://github.blog/news-insights/company-news/github-availability-report-december-2025/) (2026-01-14)
+- [Community-powered security with AI: an open source framework for security research](https://github.blog/security/community-powered-security-with-ai-an-open-source-framework-for-security-research/) (2026-01-14)
 - [What AI is actually good for, according to developers](https://github.blog/ai-and-ml/generative-ai/what-ai-is-actually-good-for-according-to-developers/) (2026-01-13)
 - [Want better AI outputs? Try context engineering.](https://github.blog/ai-and-ml/generative-ai/want-better-ai-outputs-try-context-engineering/) (2026-01-12)
 - [Light waves, rising tides, and drifting ships: Game Off 2025 winners](https://github.blog/open-source/gaming/light-waves-rising-tides-and-drifting-ships-game-off-2025-winners/) (2026-01-10)
-- [Why AI is pushing developers toward typed languages](https://github.blog/ai-and-ml/llms/why-ai-is-pushing-developers-toward-typed-languages/) (2026-01-08)
-- [Agentic AI, MCP, and spec-driven development: Top blog posts of 2025](https://github.blog/developer-skills/agentic-ai-mcp-and-spec-driven-development-top-blog-posts-of-2025/) (2025-12-30)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building a Write-Once Publishing Pipeline](https://dev.to/12ww1160/building-a-write-once-publishing-pipeline-4ila) (2026-01-14)
-- [AI is now a requirement for my team. Here’s why it’s making me uneasy.](https://dev.to/zulqurnan_aslam_e92835625/ai-is-now-a-requirement-for-my-team-heres-why-its-making-me-uneasy-3065) (2026-01-14)
-- [Why Execution Boundaries Matter More Than AI Guardrails](https://dev.to/ziling-failcore/why-execution-boundaries-matter-more-than-ai-guardrails-2421) (2026-01-14)
-- [Trait Views: exposing behavior in JavaScript without inheritance](https://dev.to/lsarrazi/trait-views-exposing-behavior-in-javascript-without-inheritance-d6l) (2026-01-14)
-- [Why I Switched from LiteLLM to Bifrost for Production LLM Systems](https://dev.to/therealmrmumba/why-i-switched-from-litellm-to-bifrost-for-production-llm-systems-45kf) (2026-01-14)
+- [How I Built a Intelligent AgTech Risk Monitoring System: Architecture, Technical Decisions, and Key Learnings](https://dev.to/guilherme_daros/how-i-built-a-intelligent-agtech-risk-monitoring-system-architecture-technical-decisions-and-key-1n5a) (2026-01-15)
+- [Go Channel and Pipeline: A Conference Review](https://dev.to/evanlin/go-channel-and-pipeline-a-conference-review-bff) (2026-01-15)
+- [[Golang] Do You Like Golang? Become a Go GDE (Google Developer Expert)](https://dev.to/evanlin/golang-do-you-like-golang-become-a-go-gde-google-developer-expert-48al) (2026-01-15)
+- [[TIL][Go] How to Install a Beta Version of Go](https://dev.to/evanlin/tilgo-how-to-install-a-beta-version-of-go-1p30) (2026-01-15)
+- [GopherCon 2019: Uber's Approach (1)](https://dev.to/evanlin/gophercon-2019-ubers-approach-1-ekc) (2026-01-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [DSA Weekly Progress Log — Week 1](https://medium.com/@sanjanachoudhury1508/dsa-weekly-progress-log-week-1-e7abd470a578?source=rss------programming-5) (2026-01-14)
-- [9 Python Concepts Beginners Skip (And Regret Later)](https://python.plainenglish.io/9-python-concepts-beginners-skip-and-regret-later-2f65c782b331?source=rss------programming-5) (2026-01-14)
-- [The Mechanics of @classmethod vs. @staticmethod in Python](https://medium.com/@tihomir.manushev/the-mechanics-of-classmethod-vs-staticmethod-in-python-4984f7cd4dab?source=rss------programming-5) (2026-01-14)
-- [Why a $260k “Wizard” Developer Is Cheaper Than a $150k “Senior”](https://medium.com/career-programming/why-a-260k-wizard-developer-is-cheaper-than-a-150k-senior-b209fdb5c5ad?source=rss------programming-5) (2026-01-14)
-- [Domain Validation With .NET](https://medium.com/@michaelmaurice410/domain-validation-with-net-18a468a1f325?source=rss------programming-5) (2026-01-14)
+- [Vector Databases vs Graph Databases for Retrieval-Augmented Generation](https://rajuhemanth456.medium.com/vector-databases-vs-graph-databases-for-retrieval-augmented-generation-d0fed314da92?source=rss------programming-5) (2026-01-15)
+- [ 7 Must-Have Tools for Your Workflow](https://javascript.plainenglish.io/7-must-have-tools-for-your-workflow-c5c3b7b146be?source=rss------programming-5) (2026-01-15)
+- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-b5d620607917?source=rss------programming-5) (2026-01-15)
+- [10 Python Tools to Replace Paid Software & Save Money](https://medium.com/top-python-libraries/10-python-tools-to-replace-paid-software-save-money-963adc28a0ea?source=rss------programming-5) (2026-01-15)
+- [13 Modern Python Libraries to Boost Productivity in 2026](https://medium.com/top-python-libraries/13-modern-python-libraries-to-boost-productivity-in-2026-00cb8598a98c?source=rss------programming-5) (2026-01-15)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
 - [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
 - [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
 - [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
-- [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Safer Docker Hub Pulls via a Sonatype-Protected Proxy](https://www.docker.com/blog/safer-docker-hub-pulls-via-a-sonatype-protected-proxy/) (2026-01-14)
 - [Security Is a Developer Experience Problem, Rooted in Our Foundations](https://www.docker.com/blog/security-is-a-developer-experience-problem-rooted-in-our-foundations/) (2026-01-09)
 - [Deterministic AI Testing with Session Recording in cagent](https://www.docker.com/blog/deterministic-ai-testing-with-session-recording-in-cagent/) (2026-01-06)
 - [2025 Recap: The Year Software Development Changed Shape](https://www.docker.com/blog/2025-recap-the-year-software-development-changed-shape/) (2025-12-20)
 - [From the Captain’s Chair: Igor Aleksandrov](https://www.docker.com/blog/from-the-captains-chair-igor-aleksandrov/) (2025-12-19)
-- [Docker Hardened Images: Security Independently Validated by SRLabs](https://www.docker.com/blog/docker-hardened-images-security-independently-validated-by-srlabs/) (2025-12-19)
 
 </details>
 
@@ -251,11 +251,11 @@
 <details>
 <summary>👥 Facebook Engineering</summary>
 
+- [Adapting the Facebook Reels RecSys AI Model Based on User Feedback](https://engineering.fb.com/2026/01/14/ml-applications/adapting-the-facebook-reels-recsys-ai-model-based-on-user-feedback/) (2026-01-14)
 - [CSS at Scale With StyleX](https://engineering.fb.com/2026/01/12/web/css-at-scale-with-stylex/) (2026-01-12)
 - [Python Typing Survey 2025: Code Quality and Flexibility As Top Reasons for Typing Adoption](https://engineering.fb.com/2025/12/22/developer-tools/python-typing-survey-2025-code-quality-flexibility-typing-adoption/) (2025-12-22)
 - [DrP: Meta’s Root Cause Analysis Platform at Scale](https://engineering.fb.com/2025/12/19/data-infrastructure/drp-metas-root-cause-analysis-platform-at-scale/) (2025-12-19)
 - [How We Built Meta Ray-Ban Display: From Zero to Polish](https://engineering.fb.com/2025/12/17/virtual-reality/meta-ray-ban-display-from-zero-to-polish/) (2025-12-17)
-- [How AI Is Transforming the Adoption of Secure-by-Default Mobile Frameworks](https://engineering.fb.com/2025/12/15/android/how-ai-transforming-secure-by-default-mobile-frameworks-adoption/) (2025-12-15)
 
 </details>
 
@@ -328,11 +328,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
-- [Strengthening GitLab.com security: Mandatory multi-factor authentication](https://about.gitlab.com/blog/strengthening-gitlab-com-security-mandatory-multi-factor-authentication/) (2026-01-09)
-- [AI is reshaping DevSecOps: Attend GitLab Transcend to see what’s next](https://about.gitlab.com/blog/ai-is-reshaping-devsecops-attend-gitlab-transcend-to-see-whats-next/) (2026-01-08)
-- [How IIT Bombay students are coding the future with GitLab](https://about.gitlab.com/blog/how-iit-bombay-students-code-future-with-gitlab/) (2026-01-08)
-- [OWASP Top 10 2025: What's changed and why it matters](https://about.gitlab.com/blog/2025-owasp-top-10-whats-changed-and-why-it-matters/) (2026-01-07)
-- [AI-powered vulnerability triaging with GitLab Duo Security Agent](https://about.gitlab.com/blog/vulnerability-triage-made-simple-with-gitlab-security-analyst-agent/) (2026-01-06)
+- [AI Catalog: Discover, create, and share agents and flows](https://about.gitlab.com/blog/ai-catalog-discover-and-share-agents/) (2026-01-14)
+- [Customizing GitLab Duo Agent Platform: Chat rules, prompts, and workflows](https://about.gitlab.com/blog/customizing-gitlab-duo-chat-rules-prompts-workflows/) (2026-01-14)
+- [Getting started with GitLab Duo Agentic Chat](https://about.gitlab.com/blog/getting-started-with-gitlab-duo-agentic-chat/) (2026-01-14)
+- [Get started with GitLab Duo Agent Platform: The complete guide](https://about.gitlab.com/blog/gitlab-duo-agent-platform-complete-getting-started-guide/) (2026-01-14)
+- [Introduction to GitLab Duo Agent Platform](https://about.gitlab.com/blog/introduction-to-gitlab-duo-agent-platform/) (2026-01-14)
 
 </details>
 
@@ -362,16 +362,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Meet the Honorees of Twilio’s AI Startup Searchlight 2025 Award Program
-](
-https://www.twilio.com/en-us/blog/company/news/startup-searchlight-2025-winners
-) (2026-01-13)
-- [
-SIGNAL London 2025 had something for everyone
-](
-https://www.twilio.com/en-us/blog/events/signal-london-2025-recap
-) (2026-01-13)
-- [
 Behind the Builder: Justinus Kho, Staff Product Data Analyst
 ](
 https://www.twilio.com/en-us/blog/company/spotlights/behind-the-builder-Justinus-Twilio
@@ -386,6 +376,16 @@ How to Code Video Games: A Beginner's Guide
 ](
 https://www.twilio.com/en-us/blog/how-to-code-video-games
 ) (2026-01-05)
+- [
+5+ reasons to use VoIP call centers in 2026 (and beyond)
+](
+https://www.twilio.com/en-us/blog/insights/cloud-comms/reasons-to-have-voip-call-center
+) (2025-12-30)
+- [
+Broadcast Text Messaging: What Is It & How to Use It
+](
+https://www.twilio.com/en-us/blog/what-is-broadcast-messaging
+) (2025-12-27)
 
 </details>
 
@@ -458,11 +458,11 @@ https://www.twilio.com/en-us/blog/how-to-code-video-games
 <details>
 <summary>🚀 Apollo GraphQL</summary>
 
+- [Securing Apollo Federation Subgraphs: Context and Best Practices](https://www.apollographql.com/blog/securing-apollo-federation-subgraphs-context-and-best-practices) (2026-01-14)
 - [Transforming Capital One’s Data Marketplace with Embedded Governance and a Product Mindset](https://www.apollographql.com/blog/transforming-capital-ones-data-marketplace-with-embedded-governance-and-a-product-mindset) (2026-01-13)
 - [How N-able Certified 1300% Growth with Apollo](https://www.apollographql.com/blog/how-n-able-certified-1300-growth-with-apollo) (2026-01-08)
 - [End of Support for Router v1.x; Long-Term Support (LTS) Policy Update](https://www.apollographql.com/blog/end-of-support-for-router-v1-x-long-term-support-lts-policy-update) (2025-12-19)
 - [Building Apps for ChatGPT with Apollo MCP Server and Apollo Client](https://www.apollographql.com/blog/building-apps-for-chatgpt-with-apollo-mcp-server-and-apollo-client) (2025-12-18)
-- [Apollo Strengthens Its San Francisco Presence for the Agentic Era](https://www.apollographql.com/blog/apollo-strengthens-its-san-francisco-presence-for-the-agentic-era) (2025-12-02)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/how-to-code-video-games
 <details>
 <summary>💬 Slack API</summary>
 
-- [Meet the All-New Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-01-13)
 - [12 Project Management Techniques for Better Collaboration and Efficiency](https://slack.com/blog/productivity/project-management-techniques) (2026-01-07)
 - [Best Team Collaboration Tools for Productivity in 2026](https://slack.com/blog/collaboration/best-collaboration-tools) (2026-01-07)
 - [What is a Knowledge Graph?](https://slack.com/blog/developers/knowledge-graph) (2026-01-05)
 - [Eight Active Listening Strategies for Better Communication](https://slack.com/blog/collaboration/active-listening) (2026-01-05)
+- [Five employee engagement models for a motivated workplace](https://slack.com/blog/transformation/employee-engagement-model) (2026-01-05)
 
 </details>
 
@@ -579,11 +579,11 @@ https://www.twilio.com/en-us/blog/how-to-code-video-games
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Single-Agent vs Multi-Agent Systems](https://www.analyticsvidhya.com/blog/2026/01/single-agent-vs-multi-agent-systems/) (2026-01-14)
 - [5 n8n Projects to Master Low-Code AI Automation](https://www.analyticsvidhya.com/blog/2026/01/n8n-projects/) (2026-01-14)
 - [How Does LLM Memory Work?](https://www.analyticsvidhya.com/blog/2026/01/how-does-llm-memory-work/) (2026-01-14)
 - [15 Free LLM APIs You Can Use in 2026](https://www.analyticsvidhya.com/blog/2026/01/top-free-llm-apis/) (2026-01-13)
 - [40 Prompt Engineering Questions (With Interview-Ready Answers)](https://www.analyticsvidhya.com/blog/2026/01/prompt-engineering-questions/) (2026-01-13)
-- [Getting Started with XGBoost: A Beginner-Friendly Tutorial](https://www.analyticsvidhya.com/blog/2026/01/getting-started-with-xgboost/) (2026-01-13)
 
 </details>
 
