@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [The US imposes 25% tariff on Nvidia’s H200 AI chips headed to China](https://techcrunch.com/2026/01/15/the-us-imposes-25-tariff-on-nvidias-h200-ai-chips-headed-to-china/) (2026-01-15)
-- [OpenAI invests in Sam Altman’s brain computer interface startup Merge Labs](https://techcrunch.com/2026/01/15/openai-invests-in-sam-altmans-brain-computer-interface-startup-merge-labs/) (2026-01-15)
-- [Wikimedia Foundation announces new AI partnerships with Amazon, Meta, Microsoft, Perplexity, and others](https://techcrunch.com/2026/01/15/wikimedia-foundation-announces-new-ai-partnerships-with-amazon-meta-microsoft-perplexity-and-others/) (2026-01-15)
-- [How one startup is using prebiotics to try and ease the copper shortage](https://techcrunch.com/2026/01/15/how-one-startup-is-using-prebiotics-to-try-and-ease-the-copper-shortage/) (2026-01-15)
-- [US senators demand answers from X, Meta, Alphabet, and others on sexualized deepfakes](https://techcrunch.com/2026/01/15/us-senators-demand-answers-from-x-meta-alphabet-on-sexualized-deepfakes/) (2026-01-15)
+- [AI journalism startup Symbolic.ai signs deal with Rupert Murdoch’s News Corp](https://techcrunch.com/2026/01/15/ai-journalism-startup-symbolic-ai-signs-deal-with-rupert-murdochs-news-corp/) (2026-01-16)
+- [The AI lab revolving door spins ever faster](https://techcrunch.com/2026/01/15/the-ai-lab-revolving-door-spins-ever-faster/) (2026-01-15)
+- [Taiwan to invest $250B in US semiconductor manufacturing](https://techcrunch.com/2026/01/15/taiwan-to-invest-250b-in-us-semiconductor-manufacturing/) (2026-01-15)
+- [AI video startup, Higgsfield, founded by ex-Snap exec, lands $1.3B valuation](https://techcrunch.com/2026/01/15/ai-video-startup-higgsfield-founded-by-ex-snap-exec-lands-1-3b-valuation/) (2026-01-15)
+- [Iran’s internet shutdown is now one of its longest ever, as protests continue](https://techcrunch.com/2026/01/15/irans-internet-shutdown-is-now-one-of-its-longest-ever-as-protests-continue/) (2026-01-15)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Zuck#: A programming language for connecting the world. And harvesting it](https://jayzalowitz.github.io/zucksharp/) (2026-01-15)
-- [Ask HN: Anyone have a good solution for modern Mac to legacy SCSI converters?](https://news.ycombinator.com/item?id=46636571) (2026-01-15)
-- [Denmark's struggle to break up with Silicon Valley](https://www.politico.eu/article/denmark-declared-war-against-big-tech-digital-sovereignty/) (2026-01-15)
-- [CVEs Affecting the Svelte Ecosystem](https://svelte.dev/blog/cves-affecting-the-svelte-ecosystem) (2026-01-15)
-- [Italy's privacy watchdog, scourge of US big tech, hit by corruption probe](https://www.reuters.com/sustainability/boards-policy-regulation/italys-privacy-watchdog-scourge-us-big-tech-hit-by-corruption-probe-2026-01-15/) (2026-01-15)
+- [Show HN: Gambit, an open-source agent harness for building reliable AI agents](https://github.com/bolt-foundry/gambit) (2026-01-16)
+- [My Gripes with Prolog](https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/) (2026-01-16)
+- [Tldraw pauses external contributions due to AI slop](https://github.com/tldraw/tldraw/issues/7695) (2026-01-15)
+- [Why senior engineers let bad projects fail](https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/) (2026-01-15)
+- [Aviator (YC S21) is hiring to build multiplayer AI coding platform](https://www.ycombinator.com/companies/aviator/jobs) (2026-01-15)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Democrats push FTC to investigate Trump Mobile](https://www.theverge.com/news/862821/democrats-elizabeth-warren-aoc-ftc-trump-mobile-investigation-letter) (2026-01-15)
-- [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals) (2026-01-15)
-- [Amazon is buying copper harvested by bacteria for its data centers](https://www.theverge.com/news/862820/amazon-arizona-copper-mine-data-centers) (2026-01-15)
-- [Pijama wants to bring more indie films to a global audience](https://www.theverge.com/entertainment/862676/pijama-streaming-movies) (2026-01-15)
-- [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers) (2026-01-15)
+- [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals) (2026-01-16)
+- [Grok undressed the mother of one of Elon Musk’s kids — and now she’s suing](https://www.theverge.com/news/863097/ashley-st-clair-elon-musk-grok-undressing-lawsuit) (2026-01-15)
+- [Dave Filoni takes charge of Star Wars as new president of Lucasfilm](https://www.theverge.com/entertainment/863065/dave-filoni-lucasfilm-president-star-wars) (2026-01-15)
+- [Natural Cycles launches wristband to replace thermometers for its FDA-cleared birth control app](https://www.theverge.com/news/863046/natural-cycles-wristband-digital-birth-control) (2026-01-15)
+- [You can save over $1,500 on LG’s 65-inch C5 OLED TV](https://www.theverge.com/gadgets/862989/lg-c5-oled-tv-ebay-deal-sale) (2026-01-15)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Bully Online mod taken down abruptly one month after launch](https://arstechnica.com/gaming/2026/01/online-mod-for-rockstars-classic-bully-is-abruptly-taken-down-after-one-month/) (2026-01-15)
-- [Wikipedia signs AI training deals with Microsoft, Meta, and Amazon](https://arstechnica.com/ai/2026/01/wikipedia-will-share-content-with-ai-firms-in-new-licensing-deals/) (2026-01-15)
-- [Key Senate staffer is “begging” NASA to get on with commercial space stations](https://arstechnica.com/space/2026/01/key-senate-staffer-is-begging-nasa-to-get-on-with-commercial-space-stations/) (2026-01-15)
-- [US government to take 25% cut of AMD, NVIDIA AI sales to China](https://arstechnica.com/tech-policy/2026/01/us-government-to-take-25-cut-of-amd-nvidia-ai-sales-to-china/) (2026-01-15)
-- [The difficulty of driving an EV in the “most beautiful race in the world”](https://arstechnica.com/features/2026/01/the-difficulty-of-driving-an-ev-in-the-most-beautiful-race-in-the-world/) (2026-01-15)
+- [“I am very annoyed”: Pharma execs blast RFK Jr.’s attack on vaccines](https://arstechnica.com/health/2026/01/big-pharma-is-openly-railing-against-rfk-jr-s-anti-vaccine-agenda/) (2026-01-15)
+- [Why I’m withholding certainty that “precise” US cyber-op disrupted Venezuelan electricity](https://arstechnica.com/security/2026/01/unnamed-officials-tell-nyt-precise-cyber-op-took-out-venezuelas-power-grid/) (2026-01-15)
+- [Star Trek: Starfleet Academy tries something different, and I don’t hate it](https://arstechnica.com/culture/2026/01/star-trek-starfleet-academy-tries-something-different-and-i-dont-hate-it/) (2026-01-15)
+- [NASA’s first medical evacuation from space ends with on-target splashdown](https://arstechnica.com/space/2026/01/nasas-first-ever-medical-evacuation-from-space-ends-with-on-target-splashdown/) (2026-01-15)
+- [Spotify’s 3rd price hike in 2.5 years hints at potential new normal](https://arstechnica.com/gadgets/2026/01/spotify-to-raise-subscription-prices-by-up-to-2-in-february/) (2026-01-15)
 
 </details>
 
@@ -75,11 +75,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Building an agentic memory system for GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/building-an-agentic-memory-system-for-github-copilot/) (2026-01-15)
+- [When protections outlive their purpose: A lesson on managing defense systems at scale](https://github.blog/engineering/infrastructure/when-protections-outlive-their-purpose-a-lesson-on-managing-defense-systems-at-scale/) (2026-01-15)
 - [GitHub Availability Report: December 2025](https://github.blog/news-insights/company-news/github-availability-report-december-2025/) (2026-01-14)
 - [Community-powered security with AI: an open source framework for security research](https://github.blog/security/community-powered-security-with-ai-an-open-source-framework-for-security-research/) (2026-01-14)
 - [What AI is actually good for, according to developers](https://github.blog/ai-and-ml/generative-ai/what-ai-is-actually-good-for-according-to-developers/) (2026-01-13)
-- [Want better AI outputs? Try context engineering.](https://github.blog/ai-and-ml/generative-ai/want-better-ai-outputs-try-context-engineering/) (2026-01-12)
-- [Light waves, rising tides, and drifting ships: Game Off 2025 winners](https://github.blog/open-source/gaming/light-waves-rising-tides-and-drifting-ships-game-off-2025-winners/) (2026-01-10)
 
 </details>
 
@@ -97,33 +97,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Designing Blockchain #4: Merkle Trees and State Verification](https://dev.to/dmytro_svynarenko/designing-blockchain-4-merkle-trees-and-state-verification-15i8) (2026-01-15)
-- [🎵 On the 12 Days of Christmas, Amazon Developer gave to me... 🎄](https://dev.to/amazonappdev/on-the-12-days-of-christmas-amazon-developer-gave-to-me-i3o) (2026-01-15)
-- [Portfolio Site](https://dev.to/subucodes/portfolio-site-6k9) (2026-01-15)
-- [🎵 On the 12 Days of Christmas, Amazon Developer gave to me... 🎄](https://dev.to/amazonappdev/on-the-12-days-of-christmas-amazon-developer-gave-to-me-dhc) (2026-01-15)
-- [Breaking Free from Waterfall: The Rise of Agile Workflow 🚀](https://dev.to/devopsdynamicshub/breaking-free-from-waterfall-the-rise-of-agile-workflow-2hh7) (2026-01-15)
+- [Computer Science PvP: A Meta-Strat for countering lategame Functional Bro Dual-Wielder builds](https://dev.to/rkeeves/computer-science-pvp-a-meta-strat-for-countering-lategame-functional-bro-dual-wielder-builds-5d8) (2026-01-16)
+- [How To Make Roblox UI](https://dev.to/totallyprogrammingpro1/how-to-make-roblox-ui-3e5) (2026-01-16)
+- [Multi-agent coding pipeline: Claude Code + Codex collaborate for higher accuracy and reliable deliverables [Open Source]](https://dev.to/zh-code/multi-agent-coding-pipeline-claude-code-codex-collaborate-for-higher-accuracy-and-reliable-n7n) (2026-01-16)
+- [Stop Guessing if Your AI Works: A Complete Guide to Evaluating and Monitoring on Bedrock](https://dev.to/datatechbridge/stop-guessing-if-your-ai-works-a-complete-guide-to-evaluating-and-monitoring-on-bedrock-20b0) (2026-01-16)
+- [My Portfolio Using Next.js, Google Cloud Run and Gemini AI](https://dev.to/dennis_chomba/my-2026-portfolio-powered-by-nextjs-google-cloud-run-and-gemini-ai-4e71) (2026-01-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Let Cursor Write My Entire SaaS. Then Spent 3 Weeks Fixing What It Broke.](https://blog.stackademic.com/i-let-cursor-write-my-entire-saas-then-spent-3-weeks-fixing-what-it-broke-ed1fb4903799?source=rss------programming-5) (2026-01-15)
-- [The JSON Parsing Vulnerability in Every Node.js Application](https://javascript.plainenglish.io/the-json-parsing-vulnerability-in-every-node-js-application-5e33421888c5?source=rss------programming-5) (2026-01-15)
-- [How to Start a Tech Career With Zero Experience in 2026](https://medium.com/@praisejohn407/how-to-start-a-tech-career-with-zero-experience-in-2026-88c8d973f45e?source=rss------programming-5) (2026-01-15)
-- [Learn It All About Web API Calls by Building A Weather Dashboard with AI-based Interpretation](https://javascript.plainenglish.io/learn-it-all-about-web-api-calls-by-building-a-weather-dashboard-with-ai-based-interpretation-0e8fc8e4ca8f?source=rss------programming-5) (2026-01-15)
-- [10 JavaScript Lessons I Learned the Hard Way From Debugging Async Bugs](https://javascript.plainenglish.io/10-javascript-lessons-i-learned-the-hard-way-from-debugging-async-bugs-c4496cdf823d?source=rss------programming-5) (2026-01-15)
+- [Java Streams Equivalent for Common SQL Clauses: Complete Mapping Guide](https://medium.com/@sunil17bbmp/java-streams-equivalent-for-common-sql-clauses-complete-mapping-guide-bb33ceec213d?source=rss------programming-5) (2026-01-16)
+- [VillageZ Coding Guide: From Novice to Grandmaster](https://melnykkk.medium.com/villagez-coding-guide-from-novice-to-grandmaster-74e74e4cf8ae?source=rss------programming-5) (2026-01-16)
+- [10 Amazing AI Tools for Software Development](https://medium.com/coding-beauty/amazing-tech-stack-4286e661c932?source=rss------programming-5) (2026-01-16)
+- [The “Learn to Code” Era is Dead. Long Live the Architect.](https://medium.com/activated-thinker/the-learn-to-code-era-is-dead-long-live-the-architect-91ef24ef0d4e?source=rss------programming-5) (2026-01-15)
+- [AI can write good code – but who will tell it the right system?](https://medium.com/@dbusraktas/ai-can-write-good-code-but-who-will-tell-it-the-right-system-9c4b38915a74?source=rss------programming-5) (2026-01-15)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Amazon EC2 X8i instances powered by custom Intel Xeon 6 processors are generally available for memory-intensive workloads](https://aws.amazon.com/blogs/aws/amazon-ec2-x8i-instances-powered-by-custom-intel-xeon-6-processors-are-generally-available-for-memory-intensive-workloads/) (2026-01-15)
 - [Opening the AWS European Sovereign Cloud](https://aws.amazon.com/blogs/aws/opening-the-aws-european-sovereign-cloud/) (2026-01-15)
 - [AWS Weekly Roundup: AWS Lambda for .NET 10, AWS Client VPN quickstart, Best of AWS re:Invent, and more (January 12, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-for-net-10-aws-client-vpn-quickstart-best-of-aws-reinvent-and-more-january-12-2026/) (2026-01-12)
 - [Happy New Year! AWS Weekly Roundup: 10,000 AIdeas Competition, Amazon EC2, Amazon ECS Managed Instances and more (January 5, 2026)](https://aws.amazon.com/blogs/aws/happy-new-year-aws-weekly-roundup-10000-aideas-competition-amazon-ec2-amazon-ecs-managed-instances-and-more-january-5-2026/) (2026-01-05)
 - [AWS Weekly Roundup: Amazon ECS, Amazon CloudWatch, Amazon Cognito and more (December 15, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ecs-amazon-cloudwatch-amazon-cognito-and-more-december-15-2025/) (2025-12-15)
-- [AWS Weekly Roundup: AWS re:Invent keynote recap, on-demand videos, and more (December 8, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-reinvent-keynote-recap-on-demand-videos-and-more-december-8-2025/) (2025-12-08)
 
 </details>
 
@@ -328,11 +328,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [Announcing general availability for GitLab Duo Agent Platform ](https://about.gitlab.com/blog/gitlab-duo-agent-platform-is-generally-available/) (2026-01-15)
+- [Introducing GitLab Credits, usage-based pricing for GitLab Duo Agent Platform](https://about.gitlab.com/blog/introducing-gitlab-credits/) (2026-01-15)
 - [AI Catalog: Discover, create, and share agents and flows](https://about.gitlab.com/blog/ai-catalog-discover-and-share-agents/) (2026-01-14)
 - [Customizing GitLab Duo Agent Platform: Chat rules, prompts, and workflows](https://about.gitlab.com/blog/customizing-gitlab-duo-chat-rules-prompts-workflows/) (2026-01-14)
 - [Getting started with GitLab Duo Agentic Chat](https://about.gitlab.com/blog/getting-started-with-gitlab-duo-agentic-chat/) (2026-01-14)
-- [Get started with GitLab Duo Agent Platform: The complete guide](https://about.gitlab.com/blog/gitlab-duo-agent-platform-complete-getting-started-guide/) (2026-01-14)
-- [Introduction to GitLab Duo Agent Platform](https://about.gitlab.com/blog/introduction-to-gitlab-duo-agent-platform/) (2026-01-14)
 
 </details>
 
@@ -458,7 +458,7 @@ https://www.twilio.com/en-us/blog/how-to-code-video-games
 <details>
 <summary>🚀 Apollo GraphQL</summary>
 
-- [Introducing Response Caching: GraphQL‑aware performance for your supergraph ](https://www.apollographql.com/blog/introducing-response-caching) (2026-01-15)
+- [Introducing Response Caching: GraphQL‑aware performance for your graph ](https://www.apollographql.com/blog/introducing-response-caching) (2026-01-15)
 - [Securing Apollo Federation Subgraphs: Context and Best Practices](https://www.apollographql.com/blog/securing-apollo-federation-subgraphs-context-and-best-practices) (2026-01-14)
 - [Transforming Capital One’s Data Marketplace with Embedded Governance and a Product Mindset](https://www.apollographql.com/blog/transforming-capital-ones-data-marketplace-with-embedded-governance-and-a-product-mindset) (2026-01-13)
 - [How N-able Certified 1300% Growth with Apollo](https://www.apollographql.com/blog/how-n-able-certified-1300-growth-with-apollo) (2026-01-08)
@@ -546,22 +546,22 @@ https://www.twilio.com/en-us/blog/how-to-code-video-games
 <details>
 <summary>🤗 Hugging Face</summary>
 
-- [Open Responses: What we need to know](https://huggingface.co/blog/open-responses) (2026-01-15)
+- [Introducing OptiMind, a research model designed for optimization](https://huggingface.co/blog/microsoft/optimind) (2026-01-15)
+- [Open Responses: What you need to know](https://huggingface.co/blog/open-responses) (2026-01-15)
 - [NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI](https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning) (2026-01-05)
 - [Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture](https://huggingface.co/blog/tiiuae/falcon-h1-arabic) (2026-01-05)
 - [NVIDIA brings agents to life with DGX Spark and Reachy Mini](https://huggingface.co/blog/nvidia-reachy-mini) (2026-01-05)
-- [AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems](https://huggingface.co/blog/ServiceNow-AI/aprielguard) (2025-12-23)
 
 </details>
 
 <details>
 <summary>🤖 AI News</summary>
 
+- [AI dominated the conversation in 2025, CIOs shift gears in 2026](https://www.artificialintelligence-news.com/news/ai-predictions-dominated-the-conversation-in-2025-cios-shift-gears-in-2026/) (2026-01-15)
 - [Meeting the new ETSI standard for AI security](https://www.artificialintelligence-news.com/news/meeting-the-new-etsi-standard-for-ai-security/) (2026-01-15)
 - [McKinsey tests AI chatbot in early stages of graduate recruitment](https://www.artificialintelligence-news.com/news/mckinsey-tests-ai-chatbot-in-early-stages-of-graduate-recruitment/) (2026-01-15)
 - [AI medical diagnostics race intensifies as OpenAI, Google, and Anthropic launch competing healthcare tools](https://www.artificialintelligence-news.com/news/medical-ai-diagnostics-openai-google-anthropic/) (2026-01-15)
 - [AstraZeneca bets on in-house AI to speed up oncology research](https://www.artificialintelligence-news.com/news/astrazeneca-bets-on-in-house-ai-to-speed-up-oncology-research/) (2026-01-14)
-- [Research shows UK young adults would use AI for financial guidance](https://www.artificialintelligence-news.com/news/financial-advice-ai-powered-uk-fintech-market-possibilities/) (2026-01-14)
 
 </details>
 
