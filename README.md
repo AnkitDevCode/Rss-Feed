@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: Gambit, an open-source agent harness for building reliable AI agents](https://github.com/bolt-foundry/gambit) (2026-01-16)
-- [My Gripes with Prolog](https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/) (2026-01-16)
-- [Tldraw pauses external contributions due to AI slop](https://github.com/tldraw/tldraw/issues/7695) (2026-01-15)
-- [Why senior engineers let bad projects fail](https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/) (2026-01-15)
-- [Aviator (YC S21) is hiring to build multiplayer AI coding platform](https://www.ycombinator.com/companies/aviator/jobs) (2026-01-15)
+- [San Francisco to offer free childcare to people making up to $230000](https://www.theguardian.com/us-news/2026/jan/15/san-francisco-childcare-families) (2026-01-16)
+- [Boeing knew of flaw in part linked to UPS plane crash, NTSB report says](https://www.bbc.com/news/articles/cly56w0p9e1o) (2026-01-16)
+- [OpenBSD-current now runs as guest under Apple Hypervisor](https://www.undeadly.org/cgi?action=article;sid=20260115203619) (2026-01-16)
+- [SETI Home Flags 100 Signals After Sorting 12B Others](https://news.berkeley.edu/2026/01/12/for-21-years-enthusiasts-used-their-home-computers-to-search-for-et-uc-berkeley-scientists-are-homing-in-on-100-signals-they-found/) (2026-01-16)
+- [Show HN: Reversing YouTube’s “Most Replayed” Graph](https://priyavr.at/blog/reversing-most-replayed/) (2026-01-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Casting is dead. Long live casting!](https://www.theverge.com/column/861948/casting-netflix-dead) (2026-01-16)
+- [Meta has discontinued its metaverse for work, too](https://www.theverge.com/tech/863209/meta-has-discontinued-its-metaverse-for-work-too) (2026-01-16)
+- [The best Sonos speakers to buy in 2026](https://www.theverge.com/tech/652171/best-sonos-speakers) (2026-01-16)
 - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals) (2026-01-16)
 - [Grok undressed the mother of one of Elon Musk’s kids — and now she’s suing](https://www.theverge.com/news/863097/ashley-st-clair-elon-musk-grok-undressing-lawsuit) (2026-01-15)
-- [Dave Filoni takes charge of Star Wars as new president of Lucasfilm](https://www.theverge.com/entertainment/863065/dave-filoni-lucasfilm-president-star-wars) (2026-01-15)
-- [Natural Cycles launches wristband to replace thermometers for its FDA-cleared birth control app](https://www.theverge.com/news/863046/natural-cycles-wristband-digital-birth-control) (2026-01-15)
-- [You can save over $1,500 on LG’s 65-inch C5 OLED TV](https://www.theverge.com/gadgets/862989/lg-c5-oled-tv-ebay-deal-sale) (2026-01-15)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [How AWS re:Invented the cloud](https://stackoverflow.blog/2026/01/16/how-aws-re-invented-the-cloud/) (2026-01-16)
 - [How Stack Overflow is taking on spam and bad actors](https://stackoverflow.blog/2026/01/15/how-stack-overflow-is-taking-on-spam-and-bad-actors/) (2026-01-15)
 - [Transforming enterprise workflows: How IBM is unlocking AI's potential](https://stackoverflow.blog/2026/01/15/transforming-enterprise-workflows-how-ibm-is-unlocking-ai-s-potential/) (2026-01-15)
 - [If you're a Zoomer, this one's for you: Everything Gen Z needs to know about the 2025 tech landscape](https://stackoverflow.blog/2026/01/14/gen-z-wrapped-2025/) (2026-01-14)
 - [8 lessons from tech leadership on scaling teams and AI](https://stackoverflow.blog/2026/01/14/8-lessons-from-tech-leadership-on-scaling-teams-and-ai/) (2026-01-14)
-- [Vibe code anything in a Hanselminute](https://stackoverflow.blog/2026/01/13/vibe-code-anything-in-a-hanselminute/) (2026-01-13)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Computer Science PvP: A Meta-Strat for countering lategame Functional Bro Dual-Wielder builds](https://dev.to/rkeeves/computer-science-pvp-a-meta-strat-for-countering-lategame-functional-bro-dual-wielder-builds-5d8) (2026-01-16)
-- [How To Make Roblox UI](https://dev.to/totallyprogrammingpro1/how-to-make-roblox-ui-3e5) (2026-01-16)
-- [Multi-agent coding pipeline: Claude Code + Codex collaborate for higher accuracy and reliable deliverables [Open Source]](https://dev.to/zh-code/multi-agent-coding-pipeline-claude-code-codex-collaborate-for-higher-accuracy-and-reliable-n7n) (2026-01-16)
-- [Stop Guessing if Your AI Works: A Complete Guide to Evaluating and Monitoring on Bedrock](https://dev.to/datatechbridge/stop-guessing-if-your-ai-works-a-complete-guide-to-evaluating-and-monitoring-on-bedrock-20b0) (2026-01-16)
-- [My Portfolio Using Next.js, Google Cloud Run and Gemini AI](https://dev.to/dennis_chomba/my-2026-portfolio-powered-by-nextjs-google-cloud-run-and-gemini-ai-4e71) (2026-01-16)
+- [V-Order optimization](https://dev.to/sankalp_fabric_data_architect/v-order-optimization-388g) (2026-01-16)
+- [From Chaos to Clarity: Building a Robust Log Aggregation Pipeline with Kafka (KRaft) and ELK](https://dev.to/srikantvs26/from-chaos-to-clarity-building-a-robust-log-aggregation-pipeline-with-kafka-kraft-and-elk-37bb) (2026-01-16)
+- [Level 0 of my DevOps journey](https://dev.to/alok38/level-0-of-my-devops-journey-1em3) (2026-01-16)
+- [❌ Stop Using Singleton. You Don’t Need It (And It’s Quietly Hurting Your Code)](https://dev.to/tech_rider/stop-using-singleton-you-dont-need-it-and-its-quietly-hurting-your-code-1dck) (2026-01-16)
+- [The Ultimate Python Roadmap: Learn Step by Step](https://dev.to/devshefali/the-ultimate-python-roadmap-learn-step-by-step-3jg3) (2026-01-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Java Streams Equivalent for Common SQL Clauses: Complete Mapping Guide](https://medium.com/@sunil17bbmp/java-streams-equivalent-for-common-sql-clauses-complete-mapping-guide-bb33ceec213d?source=rss------programming-5) (2026-01-16)
-- [VillageZ Coding Guide: From Novice to Grandmaster](https://melnykkk.medium.com/villagez-coding-guide-from-novice-to-grandmaster-74e74e4cf8ae?source=rss------programming-5) (2026-01-16)
-- [10 Amazing AI Tools for Software Development](https://medium.com/coding-beauty/amazing-tech-stack-4286e661c932?source=rss------programming-5) (2026-01-16)
-- [The “Learn to Code” Era is Dead. Long Live the Architect.](https://medium.com/activated-thinker/the-learn-to-code-era-is-dead-long-live-the-architect-91ef24ef0d4e?source=rss------programming-5) (2026-01-15)
-- [AI can write good code – but who will tell it the right system?](https://medium.com/@dbusraktas/ai-can-write-good-code-but-who-will-tell-it-the-right-system-9c4b38915a74?source=rss------programming-5) (2026-01-15)
+- [This Tool Gained 30K GitHub Stars in One Month — I Finally Tried It](https://medium.com/@alexjamesdunlop/this-tool-gained-30k-github-stars-in-one-month-i-finally-tried-it-1294a47f41b7?source=rss------programming-5) (2026-01-16)
+- [6 Angular Errors That Took Me Hours to Debug (Because I Didn’t Know This)](https://medium.com/@arslanshoukatali/6-angular-errors-that-took-me-hours-to-debug-because-i-didnt-know-this-ee3c9cf5f169?source=rss------programming-5) (2026-01-16)
+- [Linked List — Deep Concepts, Implementation & Interview Patterns (JavaScript)](https://blog.stackademic.com/linked-list-deep-concepts-implementation-interview-patterns-javascript-bc9afe20b13a?source=rss------programming-5) (2026-01-16)
+- [Authentication in Next.js — Sessions, JWT, Middleware & Real-World Flow](https://blog.stackademic.com/authentication-in-next-js-sessions-jwt-middleware-real-world-flow-a26a63b6b02e?source=rss------programming-5) (2026-01-16)
+- [The Most Dangerous Thing in Cybersecurity Is Feeling “Done”](https://systemweakness.com/the-most-dangerous-thing-in-cybersecurity-is-feeling-done-e51e86bc890c?source=rss------programming-5) (2026-01-16)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
 - [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
 - [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
 - [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 - [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
+- [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
 
 </details>
 
