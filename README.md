@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Anthropic taps former Microsoft India MD to lead Bengaluru expansion](https://techcrunch.com/2026/01/15/anthropic-taps-former-microsoft-india-md-to-lead-bengaluru-expansion/) (2026-01-16)
+- [Silicon Valley’s messiest breakup is definitely headed to court](https://techcrunch.com/2026/01/15/silicon-valleys-messiest-breakout-is-definitely-headed-to-court/) (2026-01-16)
 - [AI journalism startup Symbolic.ai signs deal with Rupert Murdoch’s News Corp](https://techcrunch.com/2026/01/15/ai-journalism-startup-symbolic-ai-signs-deal-with-rupert-murdochs-news-corp/) (2026-01-16)
 - [The AI lab revolving door spins ever faster](https://techcrunch.com/2026/01/15/the-ai-lab-revolving-door-spins-ever-faster/) (2026-01-15)
 - [Taiwan to invest $250B in US semiconductor manufacturing](https://techcrunch.com/2026/01/15/taiwan-to-invest-250b-in-us-semiconductor-manufacturing/) (2026-01-15)
-- [AI video startup, Higgsfield, founded by ex-Snap exec, lands $1.3B valuation](https://techcrunch.com/2026/01/15/ai-video-startup-higgsfield-founded-by-ex-snap-exec-lands-1-3b-valuation/) (2026-01-15)
-- [Iran’s internet shutdown is now one of its longest ever, as protests continue](https://techcrunch.com/2026/01/15/irans-internet-shutdown-is-now-one-of-its-longest-ever-as-protests-continue/) (2026-01-15)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [San Francisco to offer free childcare to people making up to $230000](https://www.theguardian.com/us-news/2026/jan/15/san-francisco-childcare-families) (2026-01-16)
-- [Boeing knew of flaw in part linked to UPS plane crash, NTSB report says](https://www.bbc.com/news/articles/cly56w0p9e1o) (2026-01-16)
-- [OpenBSD-current now runs as guest under Apple Hypervisor](https://www.undeadly.org/cgi?action=article;sid=20260115203619) (2026-01-16)
-- [SETI Home Flags 100 Signals After Sorting 12B Others](https://news.berkeley.edu/2026/01/12/for-21-years-enthusiasts-used-their-home-computers-to-search-for-et-uc-berkeley-scientists-are-homing-in-on-100-signals-they-found/) (2026-01-16)
-- [Show HN: Reversing YouTube’s “Most Replayed” Graph](https://priyavr.at/blog/reversing-most-replayed/) (2026-01-16)
+- [Signal creator Moxie Marlinspike wants to do for AI what he did for messaging](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/) (2026-01-16)
+- [On Being a Human Being in the Time of Collapse (2022) [pdf]](https://web.cs.ucdavis.edu/~rogaway/papers/crisis/crisis.pdf) (2026-01-16)
+- [The spectrum of isolation: From bare metal to WebAssembly](https://buildsoftwaresystems.com/post/guide-to-execution-environments/) (2026-01-16)
+- [pf: Make af-to less magical](https://undeadly.org/cgi?action=article;sid=20260116085115) (2026-01-16)
+- [Interactive eBPF](https://ebpf.party/) (2026-01-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Asus now claims it&#8217;s not dropping the RTX 5070 Ti amid memory shortages](https://www.theverge.com/news/863297/asus-pr-mess-rtx-5070-ti-end-of-life-statements-memory-shortages) (2026-01-16)
+- [How to fireproof a city](https://www.theverge.com/features/861950/fire-resilient-home-neighborhood) (2026-01-16)
 - [Casting is dead. Long live casting!](https://www.theverge.com/column/861948/casting-netflix-dead) (2026-01-16)
 - [Meta has discontinued its metaverse for work, too](https://www.theverge.com/tech/863209/meta-has-discontinued-its-metaverse-for-work-too) (2026-01-16)
 - [The best Sonos speakers to buy in 2026](https://www.theverge.com/tech/652171/best-sonos-speakers) (2026-01-16)
-- [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals) (2026-01-16)
-- [Grok undressed the mother of one of Elon Musk’s kids — and now she’s suing](https://www.theverge.com/news/863097/ashley-st-clair-elon-musk-grok-undressing-lawsuit) (2026-01-15)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Three technologies that will shape biotech in 2026](https://www.technologyreview.com/2026/01/16/1131363/three-technologies-shape-biotech-in-2026-gene-editing-embryo-scoring/) (2026-01-16)
 - [Exclusive eBook: How AGI Became a Consequential Conspiracy Theory](https://www.technologyreview.com/2026/01/15/1131079/exclusive-ebook-how-agi-became-a-consequential-conspiracy-theory/) (2026-01-15)
 - [The Download: spying on the spies, and promising climate tech](https://www.technologyreview.com/2026/01/15/1131361/the-download-spying-on-the-spies-and-promising-climate-tech/) (2026-01-15)
 - [Three climate technologies breaking through in 2026](https://www.technologyreview.com/2026/01/15/1131348/climate-technologies-2026/) (2026-01-15)
 - [The Download: next-gen nuclear, and the data center backlash](https://www.technologyreview.com/2026/01/14/1131317/the-download-next-gen-nuclear-and-the-data-center-backlash/) (2026-01-14)
-- [Data centers are amazing. Everyone hates them.](https://www.technologyreview.com/2026/01/14/1131253/data-centers-are-amazing-everyone-hates-them/) (2026-01-14)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [V-Order optimization](https://dev.to/sankalp_fabric_data_architect/v-order-optimization-388g) (2026-01-16)
-- [From Chaos to Clarity: Building a Robust Log Aggregation Pipeline with Kafka (KRaft) and ELK](https://dev.to/srikantvs26/from-chaos-to-clarity-building-a-robust-log-aggregation-pipeline-with-kafka-kraft-and-elk-37bb) (2026-01-16)
-- [Level 0 of my DevOps journey](https://dev.to/alok38/level-0-of-my-devops-journey-1em3) (2026-01-16)
-- [❌ Stop Using Singleton. You Don’t Need It (And It’s Quietly Hurting Your Code)](https://dev.to/tech_rider/stop-using-singleton-you-dont-need-it-and-its-quietly-hurting-your-code-1dck) (2026-01-16)
-- [The Ultimate Python Roadmap: Learn Step by Step](https://dev.to/devshefali/the-ultimate-python-roadmap-learn-step-by-step-3jg3) (2026-01-16)
+- [Automating Unity Builds to iOS, macOS, and visionOS](https://dev.to/virtualmaker/automating-unity-builds-to-ios-macos-and-visionos-14km) (2026-01-16)
+- [Go Internals for Interviews: Concurrency](https://dev.to/david_horvat_18feaa13a9a8/go-internals-for-interviews-concurrency-2pa5) (2026-01-16)
+- [AWS Serverless: Still the Boring Correct Choice](https://dev.to/nexo-tech/aws-serverless-still-the-boring-correct-choice-m11) (2026-01-16)
+- [The S3 API Tax: Why Your "Cheap" Data Lakehouse is Costing You a Fortune](https://dev.to/iseecodepeople/the-s3-api-tax-why-your-cheap-data-lakehouse-is-costing-you-a-fortune-4kio) (2026-01-16)
+- [Git for Beginners](https://dev.to/swadesh_chatterjee_b35563/git-for-beginners-2l57) (2026-01-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [This Tool Gained 30K GitHub Stars in One Month — I Finally Tried It](https://medium.com/@alexjamesdunlop/this-tool-gained-30k-github-stars-in-one-month-i-finally-tried-it-1294a47f41b7?source=rss------programming-5) (2026-01-16)
-- [6 Angular Errors That Took Me Hours to Debug (Because I Didn’t Know This)](https://medium.com/@arslanshoukatali/6-angular-errors-that-took-me-hours-to-debug-because-i-didnt-know-this-ee3c9cf5f169?source=rss------programming-5) (2026-01-16)
-- [Linked List — Deep Concepts, Implementation & Interview Patterns (JavaScript)](https://blog.stackademic.com/linked-list-deep-concepts-implementation-interview-patterns-javascript-bc9afe20b13a?source=rss------programming-5) (2026-01-16)
-- [Authentication in Next.js — Sessions, JWT, Middleware & Real-World Flow](https://blog.stackademic.com/authentication-in-next-js-sessions-jwt-middleware-real-world-flow-a26a63b6b02e?source=rss------programming-5) (2026-01-16)
-- [The Most Dangerous Thing in Cybersecurity Is Feeling “Done”](https://systemweakness.com/the-most-dangerous-thing-in-cybersecurity-is-feeling-done-e51e86bc890c?source=rss------programming-5) (2026-01-16)
+- [Mastering Debouncing in JavaScript: A Must-Know Performance Pattern](https://medium.com/@mdadnanaddro/mastering-debouncing-in-javascript-a-must-know-performance-pattern-96404542d0ed?source=rss------programming-5) (2026-01-16)
+- [Mastering the HubSpot CLI: How to Configure and Switch Between](https://medium.com/@borjarodrilore/mastering-the-hubspot-cli-how-to-configure-and-switch-between-2c6225543532?source=rss------programming-5) (2026-01-16)
+- [NLWeb Deep Dive: The Open Protocol That Makes Your Website Agent-Ready.](https://itnext.io/nlweb-deep-dive-the-open-protocol-that-makes-your-website-agent-ready-1e3eb6f717a7?source=rss------programming-5) (2026-01-16)
+- [Pay what you want software: A Powerful & Flexible Pricing Revolution (7 Proven Insights)](https://medium.com/@johnboybets/pay-what-you-want-software-a-powerful-flexible-pricing-revolution-7-proven-insights-5f73736df5a6?source=rss------programming-5) (2026-01-16)
+- [The Comprehensive Guide to Digital Identity and Account Authority in 2026](https://medium.com/@gsghhgf8/the-comprehensive-guide-to-digital-identity-and-account-authority-in-2026-e984c01fc960?source=rss------programming-5) (2026-01-16)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
+- [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
+- [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
 - [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
 - [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
-- [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
-- [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
-- [Azure Storage innovations: Unlocking the future of data](https://azure.microsoft.com/en-us/blog/azure-storage-innovations-unlocking-the-future-of-data/) (2025-12-11)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Update your Kotlin projects for Android Gradle Plugin 9.0](https://blog.jetbrains.com/kotlin/2026/01/update-your-projects-for-agp9/) (2026-01-16)
 - [TransformConf: a New Conference on AI in Software Development](https://blog.jetbrains.com/blog/2026/01/15/transformconf-a-new-conference-on-ai-in-software-development/) (2026-01-15)
 - [Scala 3.8 Support in the Scala Plugin](https://blog.jetbrains.com/scala/2026/01/15/scala-38-support-in-the-scala-plugin/) (2026-01-15)
 - [Introducing Global Project Configuration: One Place to Manage All Your Qodana Rules](https://blog.jetbrains.com/qodana/2026/01/introducing-global-project-configuration-one-place-to-manage-all-your-qodana-rules/) (2026-01-14)
 - [Insights Into China’s Developer Landscape: Key Trends From the JetBrains Developer Ecosystem Survey 2025](https://blog.jetbrains.com/research/2026/01/insights-into-china-s-developer-landscape-key-trends/) (2026-01-13)
-- [Compose Multiplatform 1.10.0: Unified @Preview, Navigation 3, and Stable Compose Hot Reload](https://blog.jetbrains.com/kotlin/2026/01/compose-multiplatform-1-10-0/) (2026-01-13)
 
 </details>
 
@@ -568,22 +568,22 @@ https://www.twilio.com/en-us/blog/how-to-code-video-games
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Great Data Closure: Why Databricks and Snowflake Are Hitting Their Ceiling](https://towardsdatascience.com/the-great-data-closure-why-databricks-and-snowflake-are-hitting-their-ceiling/) (2026-01-16)
 - [When Shapley Values Break: A Guide to Robust Model Explainability](https://towardsdatascience.com/when-shapley-values-break-a-guide-to-robust-model-explainability/) (2026-01-15)
 - [How to Run Coding Agents in Parallel](https://towardsdatascience.com/how-to-run-coding-agents-in-parallell/) (2026-01-15)
 - [The 2026 Goal Tracker: How I Built a Data-Driven Vision Board Using Python, Streamlit, and Neon](https://towardsdatascience.com/the-2026-goal-tracker-how-i-built-a-data-driven-vision-board-using-python-streamlit-and-neon/) (2026-01-15)
 - [Do You Smell That? Hidden Technical Debt in AI Development](https://towardsdatascience.com/do-you-smell-that-hidden-technical-debt-in-ai-development/) (2026-01-15)
-- [Why Human-Centered Data Analytics Matters More Than Ever](https://towardsdatascience.com/why-human-centered-data-analytics-matters-more-than-ever/) (2026-01-14)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [GATE DA: Study Material and Questions](https://www.analyticsvidhya.com/blog/2026/01/gate-da-study-material-and-questions/) (2026-01-16)
+- [10 Highest Paying Companies in India for Data Science Roles](https://www.analyticsvidhya.com/blog/2026/01/highest-paying-companies-in-india-for-data-science-roles/) (2026-01-16)
 - [DeepSeek Engram: The Future of Memory-Augmented Language Models ](https://www.analyticsvidhya.com/blog/2026/01/deepseek-engram/) (2026-01-15)
 - [10 Data Science Jobs For All Experience Levels](https://www.analyticsvidhya.com/blog/2026/01/data-science-jobs-for-all-experience-levels/) (2026-01-15)
 - [Single-Agent vs Multi-Agent Systems](https://www.analyticsvidhya.com/blog/2026/01/single-agent-vs-multi-agent-systems/) (2026-01-14)
-- [5 n8n Projects to Master Low-Code AI Automation](https://www.analyticsvidhya.com/blog/2026/01/n8n-projects/) (2026-01-14)
-- [How Does LLM Memory Work?](https://www.analyticsvidhya.com/blog/2026/01/how-does-llm-memory-work/) (2026-01-14)
 
 </details>
 
@@ -601,11 +601,11 @@ https://www.twilio.com/en-us/blog/how-to-code-video-games
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [The Complete Guide to Data Augmentation for Machine Learning](https://machinelearningmastery.com/the-complete-guide-to-data-augmentation-for-machine-learning/) (2026-01-16)
 - [The Beginner’s Guide to Computer Vision with Python](https://machinelearningmastery.com/the-beginners-guide-to-computer-vision-with-python/) (2026-01-15)
 - [Uncertainty in Machine Learning: Probability & Noise](https://machinelearningmastery.com/uncertainty-in-machine-learning-probability-noise/) (2026-01-14)
 - [How to Read a Machine Learning Research Paper in 2026](https://machinelearningmastery.com/how-to-read-a-machine-learning-research-paper-in-2026/) (2026-01-13)
 - [10 Ways to Use Embeddings for Tabular ML Tasks](https://machinelearningmastery.com/10-ways-to-use-embeddings-for-tabular-ml-tasks/) (2026-01-12)
-- [Quantizing LLMs Step-by-Step: Converting FP16 Models to GGUF](https://machinelearningmastery.com/quantizing-llms-step-by-step-converting-fp16-models-to-gguf/) (2026-01-08)
 
 </details>
 
