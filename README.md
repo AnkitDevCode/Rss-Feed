@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Trump administration’s legal setbacks are good news for offshore wind — and the grid](https://techcrunch.com/2026/01/17/trump-administrations-legal-setbacks-are-good-news-for-offshore-wind-and-the-grid/) (2026-01-17)
+- [Oshen built the first ocean robot to collect data in a Category 5 hurricane ](https://techcrunch.com/2026/01/17/oshen-built-the-first-ocean-robot-to-collect-data-in-a-category-5-hurricane/) (2026-01-17)
 - [Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) (2026-01-17)
 - [AI cloud startup Runpod hits $120M in ARR — and it started with a Reddit post  ](https://techcrunch.com/2026/01/16/ai-cloud-startup-runpod-hits-120m-in-arr-and-it-started-with-a-reddit-post/) (2026-01-16)
 - [California AG sends Musk’s xAI a cease-and-desist order over sexual deepfakes](https://techcrunch.com/2026/01/16/california-ag-sends-musks-xai-a-cease-and-desist-order-over-sexual-deepfakes/) (2026-01-16)
-- [Snowflake, Databricks challenger ClickHouse hits $15B valuation](https://techcrunch.com/2026/01/16/snowflake-databricks-challenger-clickhouse-hits-15b-valuation/) (2026-01-16)
-- [TikTok quietly launches a microdrama app called ‘PineDrama’](https://techcrunch.com/2026/01/16/tiktok-quietly-launches-a-micro-drama-app-called-pinedrama/) (2026-01-16)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The 600-year-old origins of the word 'hello'](https://www.bbc.com/culture/article/20260113-hello-hiya-aloha-what-our-greetings-reveal) (2026-01-17)
-- [Architecture for Disposable Systems](https://tuananh.net/2026/01/15/architecture-for-disposable-systems/) (2026-01-17)
-- [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering) (2026-01-17)
-- [Gut micro-organisms associated with health, nutrition and dietary intervention](https://www.nature.com/articles/s41586-025-09854-7?lid=t94o71j7gslg) (2026-01-17)
-- [AV1 Image File Format Specification Gets an Upgrade with AVIF v1.2.0](https://aomedia.org/blog%20posts/AV1-Image-File-Format-Specification-Gets-an-Upgrade-with-AVIF/) (2026-01-17)
+- [Show HN: What if your menu bar was a keyboard-controlled command center?](https://extrabar.app/) (2026-01-17)
+- [2025 was the third hottest year on record](https://www.economist.com/science-and-technology/2026/01/14/2025-was-the-third-hottest-year-on-record) (2026-01-17)
+- [An Elizabethan mansion's secrets for staying warm](https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm) (2026-01-17)
+- [The Resonant Computing Manifesto](https://resonantcomputing.org/) (2026-01-17)
+- [Why There's No Single Best Way to Store Information](https://www.quantamagazine.org/why-theres-no-single-best-way-to-store-information-20260116/) (2026-01-17)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [TCL’s PlayCube projector is more fun than a Rubik’s Cube](https://www.theverge.com/reviews/863910/tcl-playcube-portable-projector-review-battery) (2026-01-17)
-- [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals) (2026-01-16)
-- [Google is appealing a judge’s search monopoly ruling](https://www.theverge.com/news/863710/google-search-antitrust-monopoly-appeal) (2026-01-16)
-- [Trump and Mid-Atlantic governors want tech companies to pay for new power plants](https://www.theverge.com/news/863620/data-centers-ai-power-auction-trump) (2026-01-16)
-- [Fortnite blocks creators from selling prize wheel spins](https://www.theverge.com/news/863597/fortnite-creators-steal-the-brainrot-prize-wheel-spins-block) (2026-01-16)
+- [The Setapp Mobile iOS store is shutting down on February 16th](https://www.theverge.com/news/863978/setapp-mobile-ios-store-shutdown) (2026-01-17)
+- [The LG C5 and Apple’s M4 Mac Mini are both steeply discounted this weekend](https://www.theverge.com/gadgets/863503/apple-mac-mini-m4-lg-c5-oled-tv-deal-sale) (2026-01-17)
+- [All You Need Is Kill is a dazzling movie with the soul of a video game](https://www.theverge.com/entertainment/862881/all-you-need-is-kill-review) (2026-01-17)
+- [A cute frog game that remixes Nintendo&#8217;s best](https://www.theverge.com/games/860917/big-hops-review-pc-nintendo-switch-ps5) (2026-01-17)
+- [Minnesota wants to win a war of attrition](https://www.theverge.com/policy/863632/minnesota-walz-trump-sousveillance-ice) (2026-01-17)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Meta’s layoffs leave Supernatural fitness users in mourning](https://arstechnica.com/gadgets/2026/01/metas-layoffs-leave-supernatural-fitness-users-in-mourning/) (2026-01-17)
 - [Managers on alert for “launch fever” as pressure builds for NASA’s Moon mission](https://arstechnica.com/space/2026/01/managers-on-alert-for-launch-fever-as-pressure-builds-for-nasas-moon-mission/) (2026-01-17)
 - [Rackspace customers grapple with “devastating” email hosting price hike](https://arstechnica.com/information-technology/2026/01/rackspace-raises-email-hosting-prices-by-as-much-as-706-percent/) (2026-01-16)
 - [Archaeologists find a supersized medieval shipwreck in Denmark](https://arstechnica.com/science/2026/01/archaeologists-find-a-supersized-medieval-shipwreck-in-denmark/) (2026-01-16)
 - [Judge orders Anna’s Archive to delete scraped data; no one thinks it will comply](https://arstechnica.com/tech-policy/2026/01/judge-orders-annas-archive-to-delete-scraped-data-no-one-thinks-it-will-comply/) (2026-01-16)
-- [This may be the grossest eye pic ever—but the cause is what’s truly horrifying](https://arstechnica.com/features/2026/01/this-may-be-the-grossest-eye-pic-ever-but-the-cause-is-whats-truly-horrifying/) (2026-01-16)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [[GDE] Simplifying Multimodal Inputs: Using Public URLs with the Gemini API](https://dev.to/gde/gde-simplifying-multimodal-inputs-using-public-urls-with-the-gemini-api-4lcj) (2026-01-17)
-- [Getting Started with AEM: On-Prem vs AEM Cloud (In Simple Terms)](https://dev.to/vishnu_rachapudi_75e73248/getting-started-with-aem-on-prem-vs-aem-cloud-in-simple-terms-351c) (2026-01-17)
-- [Quark's Outlines: Python Basic Customization](https://dev.to/mike-vincent/quarks-outlines-python-basic-customization-428k) (2026-01-17)
-- [Simplifying Multimodal Inputs: Using Public URLs with the Gemini API](https://dev.to/railsstudent/simplifying-multimodal-inputs-using-public-urls-with-the-gemini-api-3458) (2026-01-17)
-- [AI Travel Convenience](https://dev.to/rawveg/ai-travel-convenience-2nke) (2026-01-17)
+- [How to Run MLPerf Llama 2 70B Training on AMD MI325X Without SLURM](https://dev.to/vincentdu2021/how-to-run-mlperf-llama-2-70b-training-on-amd-mi325x-without-slurm-1ho4) (2026-01-17)
+- [I Checked My Phone 47 Times Yesterday. Here's What I'm Building Instead.](https://dev.to/tirthdoshi009/i-checked-my-phone-47-times-yesterday-heres-what-im-building-instead-41fd) (2026-01-17)
+- [Git for Beginners.](https://dev.to/moraa_omwoyo/git-for-beginners-2c7d) (2026-01-17)
+- [OCI Generative AI Security: Dedicated GPUs, RDMA Networks, and Enterprise-Grade Data Protection](https://dev.to/derrickryangiggs/oci-generative-ai-security-dedicated-gpus-rdma-networks-and-enterprise-grade-data-protection-265j) (2026-01-17)
+- [How to push and pull code, track changes and understand version control using Git](https://dev.to/wesley_clark_9ed86994e7a7/how-to-push-and-pull-code-track-changes-and-understand-version-control-using-git-37p2) (2026-01-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Mocking Made Our Tests Pass. Production Still Failed.](https://blog.stackademic.com/mocking-made-our-tests-pass-production-still-failed-fd78e6cadfa1?source=rss------programming-5) (2026-01-17)
-- [How to Use RevoltGPT Plugin for Unreal Engine 5 to Stop Feeling Stuck and Start Building Faster](https://gumroadfinds.medium.com/how-to-use-revoltgpt-plugin-for-unreal-engine-5-to-stop-feeling-stuck-and-start-building-faster-767d45897552?source=rss------programming-5) (2026-01-17)
-- [Spring Listener (ApplicationEvent): A Lighter Asynchronous Tool Than MQ!](https://medium.com/@junfeng0828/spring-listener-applicationevent-a-lighter-asynchronous-tool-than-mq-d3dfffc7c21e?source=rss------programming-5) (2026-01-17)
-- [A Simple Practical Guide on how Authentication works.](https://medium.com/code-sense/a-simple-practical-guide-on-how-authentication-works-7a4d4ce1d3f1?source=rss------programming-5) (2026-01-17)
-- [The Angular Bug That Only Appeared on Slow Phones](https://medium.com/@pmLearners/the-angular-bug-that-only-appeared-on-slow-phones-ae4606fdadd2?source=rss------programming-5) (2026-01-17)
+- [Go Quickstart for Java Developers](https://medium.com/@kalyanasundaramthivaharan/go-quickstart-for-java-developers-b90c3d6d882e?source=rss------programming-5) (2026-01-17)
+- [Solving Timetables and Scheduling with a custom CSP Solver](https://medium.com/@nishh7009/solving-timetables-and-scheduling-with-a-custom-csp-solver-0ad18aafcddd?source=rss------programming-5) (2026-01-17)
+- [The Transactional Outbox Pattern: How to Never Lose a Domain Event Again](https://medium.com/@michaelmaurice410/the-transactional-outbox-pattern-how-to-never-lose-a-domain-event-again-ef97d188a9c5?source=rss------programming-5) (2026-01-17)
+- [How To Add Fault Handling In ASP.NET Core With Polly](https://medium.com/@mariammaurice/how-to-add-fault-handling-in-asp-net-core-with-polly-d3f9158c5b9f?source=rss------programming-5) (2026-01-17)
+- [Stop Using Primitive Enums in C# (Smart Enums Will Change Your Life)](https://medium.com/@maged_/stop-using-primitive-enums-in-c-smart-enums-will-change-your-life-f711ed8fbfd3?source=rss------programming-5) (2026-01-17)
 
 </details>
 
@@ -568,22 +568,22 @@ https://www.twilio.com/en-us/blog/company/spotlights/behind-the-builder-Justinus
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Data Poisoning in Machine Learning: Why and How People Manipulate Training Data](https://towardsdatascience.com/data-poisoning-in-machine-learning-why-and-how-people-manipulate-training-data/) (2026-01-17)
+- [A Geometric Method to Spot Hallucinations Without an LLM Judge](https://towardsdatascience.com/the-red-bird/) (2026-01-17)
 - [Maximum-Effiency Coding Setup](https://towardsdatascience.com/maximum-effiency-coding-setup/) (2026-01-16)
 - [Cutting LLM Memory by 84%: A Deep Dive into Fused Kernels](https://towardsdatascience.com/cutting-llm-memory-by-84-a-deep-dive-into-fused-kernels/) (2026-01-16)
 - [From RGB to Lab: Addressing Color Artifacts in AI Image Compositing](https://towardsdatascience.com/from-rgb-to-lab-addressing-color-artifacts-in-ai-image-compositing/) (2026-01-16)
-- [The Great Data Closure: Why Databricks and Snowflake Are Hitting Their Ceiling](https://towardsdatascience.com/the-great-data-closure-why-databricks-and-snowflake-are-hitting-their-ceiling/) (2026-01-16)
-- [TDS Newsletter: Is It Time to Revisit RAG?](https://towardsdatascience.com/tds-newsletter-is-it-time-to-revisit-rag/) (2026-01-16)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Prompt Engineering Guide 2026](https://www.analyticsvidhya.com/blog/2026/01/master-prompt-engineering/) (2026-01-17)
+- [Getting Started with Strands Agents](https://www.analyticsvidhya.com/blog/2026/01/getting-started-with-strands-agents/) (2026-01-17)
 - [GATE DA 2026: Study Material and Practice Questions](https://www.analyticsvidhya.com/blog/2026/01/gate-da-study-material-and-questions/) (2026-01-16)
 - [10 Highest Paying Companies in India for Data Science Roles](https://www.analyticsvidhya.com/blog/2026/01/highest-paying-companies-in-india-for-data-science-roles/) (2026-01-16)
 - [DeepSeek Engram: The Future of Memory-Augmented Language Models ](https://www.analyticsvidhya.com/blog/2026/01/deepseek-engram/) (2026-01-15)
-- [10 Data Science Jobs For All Experience Levels](https://www.analyticsvidhya.com/blog/2026/01/data-science-jobs-for-all-experience-levels/) (2026-01-15)
-- [Single-Agent vs Multi-Agent Systems](https://www.analyticsvidhya.com/blog/2026/01/single-agent-vs-multi-agent-systems/) (2026-01-14)
 
 </details>
 
