@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [How a hacking campaign targeted high-profile Gmail and WhatsApp users across the Middle East](https://techcrunch.com/2026/01/16/how-a-hacking-campaign-targeted-high-profile-gmail-and-whatsapp-users-across-the-middle-east/) (2026-01-16)
-- [X is down for the second time this week](https://techcrunch.com/2026/01/16/x-is-down-for-the-second-time-this-week/) (2026-01-16)
-- [Chinese EVs inch closer to the US as Canada slashes tariffs](https://techcrunch.com/2026/01/16/chinese-evs-inch-closer-to-the-us-as-canada-slashes-tariffs/) (2026-01-16)
-- [YouTube relaxes monetization guidelines for some controversial topics](https://techcrunch.com/2026/01/16/youtube-relaxes-monetization-guidelines-for-some-controversial-topics/) (2026-01-16)
-- [Bluesky rolls out cashtags and LIVE badges amid a boost in app installs](https://techcrunch.com/2026/01/16/bluesky-rolls-out-cashtags-and-live-badges-amid-a-boost-in-app-installs/) (2026-01-16)
+- [AI cloud startup Runpod hits $120M in ARR — and it started with a Reddit post  ](https://techcrunch.com/2026/01/16/ai-cloud-startup-runpod-hits-120m-in-arr-and-it-started-with-a-reddit-post/) (2026-01-16)
+- [California AG sends Musk’s xAI a cease-and-desist order over sexual deepfakes](https://techcrunch.com/2026/01/16/california-ag-sends-musks-xai-a-cease-and-desist-order-over-sexual-deepfakes/) (2026-01-16)
+- [Snowflake, Databricks challenger ClickHouse hits $15B valuation](https://techcrunch.com/2026/01/16/snowflake-databricks-challenger-clickhouse-hits-15b-valuation/) (2026-01-16)
+- [TikTok quietly launches a microdrama app called ‘PineDrama’](https://techcrunch.com/2026/01/16/tiktok-quietly-launches-a-micro-drama-app-called-pinedrama/) (2026-01-16)
+- [EPA rules that xAI’s natural gas generators were illegally used](https://techcrunch.com/2026/01/16/epa-rules-that-xais-natural-gas-generators-were-illegally-used/) (2026-01-16)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [OpenAI to begin testing ads on ChatGPT in the U.S.](https://www.cnbc.com/2026/01/16/open-ai-chatgpt-ads-us.html) (2026-01-16)
-- [New Evidence Reveals Renee Good Was Still Alive When ICE Blocked Medic](https://newrepublic.com/post/205373/evidence-renee-good-still-alive-ice-blocked-medic) (2026-01-16)
-- [STFU](https://github.com/Pankajtanwarbanna/stfu) (2026-01-16)
-- [Dell UltraSharp 52 Thunderbolt Hub Monitor](https://www.dell.com/en-us/shop/dell-ultrasharp-52-thunderbolt-hub-monitor-u5226kw/apd/210-bthw/monitors-monitor-accessories) (2026-01-16)
-- [Canada slashes 100% tariffs on Chinese EVs to 6%](https://electrek.co/2026/01/16/canada-breaks-with-us-slashes-100-tariffs-chinese-evs/) (2026-01-16)
+- [FLUX.2 [Klein]: Towards Interactive Visual Intelligence](https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence) (2026-01-16)
+- [Re: Mix: open-source repairable blender](https://github.com/openfunkHQ/reMix) (2026-01-16)
+- [Install.md: A standard for LLM-executable installation](https://www.mintlify.com/blog/install-md-standard-for-llm-executable-installation) (2026-01-16)
+- [Drawbot: Let's hack something cute (2025)](https://www.atredis.com/blog/2025/9/30/drawbot-lets-hack-something-cute) (2026-01-16)
+- [Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation](https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables) (2026-01-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Ted Sarandos says Netflix will commit to 45-day theatrical releases](https://www.theverge.com/streaming/863511/ted-sarandos-netflix-theatrical-movie-release-windows) (2026-01-16)
-- [Ads are coming soon to ChatGPT, starting with shopping links](https://www.theverge.com/news/863428/openai-chatgpt-shopping-ads-test) (2026-01-16)
-- [OpenAI releases a cheaper ChatGPT subscription](https://www.theverge.com/news/863466/openai-chatgpt-go-global-release) (2026-01-16)
-- [X is still having issues following an hour-long outage on Friday](https://www.theverge.com/news/863425/x-twitter-outage-january-16th-2026) (2026-01-16)
-- [Canada is going to start importing Chinese EVs — will the US follow?](https://www.theverge.com/transportation/863393/canada-china-ev-import-trade-deal-us-trump-tariffs) (2026-01-16)
+- [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals) (2026-01-16)
+- [Google is appealing a judge’s search monopoly ruling](https://www.theverge.com/news/863710/google-search-antitrust-monopoly-appeal) (2026-01-16)
+- [Trump and Mid-Atlantic governors want tech companies to pay for new power plants](https://www.theverge.com/news/863620/data-centers-ai-power-auction-trump) (2026-01-16)
+- [Fortnite blocks creators from selling prize wheel spins](https://www.theverge.com/news/863597/fortnite-creators-steal-the-brainrot-prize-wheel-spins-block) (2026-01-16)
+- [Google brings its AI videomaker to Workspace users](https://www.theverge.com/news/863570/google-flow-ai-video-generator-workspace) (2026-01-16)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [TSMC says AI demand is “endless” after record Q4 earnings](https://arstechnica.com/ai/2026/01/tsmc-says-ai-demand-is-endless-after-record-q4-earnings/) (2026-01-16)
-- [Feds give Tesla another five weeks to respond to FSD probe](https://arstechnica.com/cars/2026/01/feds-give-tesla-another-five-weeks-to-respond-to-fsd-probe/) (2026-01-16)
-- [Ferrari doing what it does best: The 12Cilindri review](https://arstechnica.com/cars/2026/01/driven-the-ferrari-12cilindri-spider-is-open-top-grand-touring-bliss/) (2026-01-16)
-- [Mother of one of Elon Musk’s offspring sues xAI over sexualized deepfakes](https://arstechnica.com/tech-policy/2026/01/mother-of-one-of-elon-musks-offspring-sues-xai-over-sexualized-deepfakes/) (2026-01-16)
-- [Rocket Report: Ariane 64 to debut soon; India has a Falcon 9 clone too?](https://arstechnica.com/space/2026/01/rocket-report-ariane-64-to-debut-soon-india-has-a-falcon-9-clone-too/) (2026-01-16)
+- [Rackspace customers grapple with “devastating” email hosting price hike](https://arstechnica.com/information-technology/2026/01/rackspace-raises-email-hosting-prices-by-as-much-as-706-percent/) (2026-01-16)
+- [Archaeologists find a supersized medieval shipwreck in Denmark](https://arstechnica.com/science/2026/01/archaeologists-find-a-supersized-medieval-shipwreck-in-denmark/) (2026-01-16)
+- [Judge orders Anna’s Archive to delete scraped data; no one thinks it will comply](https://arstechnica.com/tech-policy/2026/01/judge-orders-annas-archive-to-delete-scraped-data-no-one-thinks-it-will-comply/) (2026-01-16)
+- [This may be the grossest eye pic ever—but the cause is what’s truly horrifying](https://arstechnica.com/features/2026/01/this-may-be-the-grossest-eye-pic-ever-but-the-cause-is-whats-truly-horrifying/) (2026-01-16)
+- [OpenAI to test ads in ChatGPT as it burns through billions](https://arstechnica.com/information-technology/2026/01/openai-to-test-ads-in-chatgpt-as-it-burns-through-billions/) (2026-01-16)
 
 </details>
 
@@ -97,22 +97,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Apple broke our cloud build in production. Here's what actually failed:](https://dev.to/dev_tips/apple-broke-our-cloud-build-in-production-heres-what-actually-failed-5en9) (2026-01-16)
-- [Getting Started With Minecraft and MongoDB](https://dev.to/mongodb/getting-started-with-minecraft-and-mongodb-f1n) (2026-01-16)
-- [Is this code deterministic?](https://dev.to/aws/is-this-code-deterministic-29l9) (2026-01-16)
-- [How many addresses fit into a Cell?](https://dev.to/a08778/how-many-addresses-fit-into-a-cell-2fga) (2026-01-16)
-- [Claude Code: সম্পূর্ণ বাংলা গাইড](https://dev.to/ashadulmridha/claude-code-smpuurnn-baanlaa-gaaidd-2b8m) (2026-01-16)
+- [How to make LLMs work on large amounts of data](https://dev.to/abhijithneilabraham/how-to-make-llms-work-on-large-amounts-of-data-1ol0) (2026-01-17)
+- [Frameworks for Humans in the Age of Machines](https://dev.to/poetryofcode/frameworks-for-humans-in-the-age-of-machines-2aln) (2026-01-17)
+- [Building AuditAlly: An AI-Powered Compliance Monitor with Next.js 15](https://dev.to/ben_stone_5608b8e2d9f8973/building-auditally-an-ai-powered-compliance-monitor-with-nextjs-15-7m7) (2026-01-17)
+- [🚀 New Year, New You — My AI-Powered Portfolio](https://dev.to/senthiltechspot/new-year-new-you-my-ai-powered-portfolio-2kjg) (2026-01-17)
+- [GHSA-38CW-85XC-XR9X: Identity Crisis: Dumping Veramo's Digital Wallets via SQL Injection](https://dev.to/cverports/ghsa-38cw-85xc-xr9x-identity-crisis-dumping-veramos-digital-wallets-via-sql-injection-djd) (2026-01-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Our ‘Temporary’ Solution Has Been Running in Production for 5 Years”](https://medium.com/@the_unwritten_algorithm/our-temporary-solution-has-been-running-in-production-for-5-years-010f04380b14?source=rss------programming-5) (2026-01-16)
-- [7 Python Mistakes Beginners Should Stop Making](https://python.plainenglish.io/7-python-mistakes-beginners-should-stop-making-93ed5a194693?source=rss------programming-5) (2026-01-16)
-- [The Quiet Rules Python Follows That Beginners Miss](https://python.plainenglish.io/the-quiet-rules-python-follows-that-beginners-miss-fd7184ee2d87?source=rss------programming-5) (2026-01-16)
-- [Apache Airflow Is Dead: Why The Future Is “Asset-Based”](https://python.plainenglish.io/apache-airflow-is-dead-why-the-future-is-asset-based-908a547052d9?source=rss------programming-5) (2026-01-16)
-- [Building Your First Machine Learning Model Using Python](https://python.plainenglish.io/building-your-first-machine-learning-model-using-python-52c86b6dd93d?source=rss------programming-5) (2026-01-16)
+- [Snowflake Performance: Query Optimization](https://medium.com/data-engineering-tools-and-practices/snowflake-performance-query-optimization-62b46dfbfa3b?source=rss------programming-5) (2026-01-17)
+- [10 Python Projects You’ll Actually Finish (And Love Doing)
+AI projects edition](https://python.plainenglish.io/10-python-projects-youll-actually-finish-and-love-doing-ai-projects-edition-d6ba914eefd5?source=rss------programming-5) (2026-01-17)
+- [File Storage in Spring Boot: Database, Local, and Cloud Explained](https://medium.com/@sunil17bbmp/file-storage-in-spring-boot-database-local-and-cloud-explained-96cbec7fa9d8?source=rss------programming-5) (2026-01-17)
+- [ Why The 5th AI Revolution Didn’t Fail Like The Previous Ones?](https://tomaszs2.medium.com/why-the-5th-ai-revolution-didnt-fail-like-the-previous-ones-21070d2cbe9b?source=rss------programming-5) (2026-01-16)
+- [The Python Project That Broke Me (And What I Do Differently Now)](https://python.plainenglish.io/the-python-project-that-broke-me-and-what-i-do-differently-now-85f00bd2d457?source=rss------programming-5) (2026-01-16)
 
 </details>
 
@@ -273,11 +274,11 @@
 <details>
 <summary>💳 Stripe Blog</summary>
 
+- [The three biggest agentic commerce trends from NRF 2026](https://stripe.com/blog/three-agentic-commerce-trends-nrf-2026) (2026-01-16)
 - [Stripe Atlas startups in 2025: Year in review](https://stripe.com/blog/stripe-atlas-startups-in-2025-year-in-review) (2025-12-18)
 - [Businesses grow revenue on Stripe 27 percentage points faster after accepting financing through Stripe Capital](https://stripe.com/blog/businesses-grow-revenue-on-stripe-faster-after-accepting-financing-through-stripe-capital) (2025-12-17)
 - [Introducing next-day settlement, a faster way to access your earnings](https://docs.stripe.com/payouts/next-day-settlement) (2025-12-17)
 - [PayTo available in Australia](https://stripe.com/payment-method/payto) (2025-12-15)
-- [Introducing the Agentic Commerce Suite: A complete solution for selling on AI agents](https://stripe.com/blog/agentic-commerce-suite) (2025-12-11)
 
 </details>
 
@@ -502,7 +503,7 @@ https://www.twilio.com/en-us/blog/how-to-code-video-games
 <details>
 <summary>💬 Slack API</summary>
 
-- [Meet the All-New Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-01-13)
+- [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-01-13)
 - [12 Project Management Techniques for Better Collaboration and Efficiency](https://slack.com/blog/productivity/project-management-techniques) (2026-01-07)
 - [Best Team Collaboration Tools for Productivity in 2026](https://slack.com/blog/collaboration/best-collaboration-tools) (2026-01-07)
 - [What is a Knowledge Graph?](https://slack.com/blog/developers/knowledge-graph) (2026-01-05)
