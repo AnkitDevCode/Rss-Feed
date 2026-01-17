@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) (2026-01-17)
 - [AI cloud startup Runpod hits $120M in ARR — and it started with a Reddit post  ](https://techcrunch.com/2026/01/16/ai-cloud-startup-runpod-hits-120m-in-arr-and-it-started-with-a-reddit-post/) (2026-01-16)
 - [California AG sends Musk’s xAI a cease-and-desist order over sexual deepfakes](https://techcrunch.com/2026/01/16/california-ag-sends-musks-xai-a-cease-and-desist-order-over-sexual-deepfakes/) (2026-01-16)
 - [Snowflake, Databricks challenger ClickHouse hits $15B valuation](https://techcrunch.com/2026/01/16/snowflake-databricks-challenger-clickhouse-hits-15b-valuation/) (2026-01-16)
 - [TikTok quietly launches a microdrama app called ‘PineDrama’](https://techcrunch.com/2026/01/16/tiktok-quietly-launches-a-micro-drama-app-called-pinedrama/) (2026-01-16)
-- [EPA rules that xAI’s natural gas generators were illegally used](https://techcrunch.com/2026/01/16/epa-rules-that-xais-natural-gas-generators-were-illegally-used/) (2026-01-16)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [A Calif. teen trusted ChatGPT's drug advice. He died from an overdose](https://www.sfgate.com/tech/article/calif-teen-chatgpt-drug-advice-fatal-overdose-21266718.php) (2026-01-17)
-- [Artisanal Code](https://sunnyamrat.com/posts/2026-01-17-artisanal-code/) (2026-01-17)
-- [Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC](https://neodyme.io/en/blog/drone_hacking_part_1/) (2026-01-17)
-- [Keifu – A TUI for navigating commit graphs with color and clarity](https://github.com/trasta298/keifu) (2026-01-17)
-- [FLUX.2 [Klein]: Towards Interactive Visual Intelligence](https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence) (2026-01-16)
+- [The 600-year-old origins of the word 'hello'](https://www.bbc.com/culture/article/20260113-hello-hiya-aloha-what-our-greetings-reveal) (2026-01-17)
+- [Architecture for Disposable Systems](https://tuananh.net/2026/01/15/architecture-for-disposable-systems/) (2026-01-17)
+- [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering) (2026-01-17)
+- [Gut micro-organisms associated with health, nutrition and dietary intervention](https://www.nature.com/articles/s41586-025-09854-7?lid=t94o71j7gslg) (2026-01-17)
+- [AV1 Image File Format Specification Gets an Upgrade with AVIF v1.2.0](https://aomedia.org/blog%20posts/AV1-Image-File-Format-Specification-Gets-an-Upgrade-with-AVIF/) (2026-01-17)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [TCL’s PlayCube projector is more fun than a Rubik’s Cube](https://www.theverge.com/reviews/863910/tcl-playcube-portable-projector-review-battery) (2026-01-17)
 - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals) (2026-01-16)
 - [Google is appealing a judge’s search monopoly ruling](https://www.theverge.com/news/863710/google-search-antitrust-monopoly-appeal) (2026-01-16)
 - [Trump and Mid-Atlantic governors want tech companies to pay for new power plants](https://www.theverge.com/news/863620/data-centers-ai-power-auction-trump) (2026-01-16)
 - [Fortnite blocks creators from selling prize wheel spins](https://www.theverge.com/news/863597/fortnite-creators-steal-the-brainrot-prize-wheel-spins-block) (2026-01-16)
-- [Google brings its AI videomaker to Workspace users](https://www.theverge.com/news/863570/google-flow-ai-video-generator-workspace) (2026-01-16)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Managers on alert for “launch fever” as pressure builds for NASA’s Moon mission](https://arstechnica.com/space/2026/01/managers-on-alert-for-launch-fever-as-pressure-builds-for-nasas-moon-mission/) (2026-01-17)
 - [Rackspace customers grapple with “devastating” email hosting price hike](https://arstechnica.com/information-technology/2026/01/rackspace-raises-email-hosting-prices-by-as-much-as-706-percent/) (2026-01-16)
 - [Archaeologists find a supersized medieval shipwreck in Denmark](https://arstechnica.com/science/2026/01/archaeologists-find-a-supersized-medieval-shipwreck-in-denmark/) (2026-01-16)
 - [Judge orders Anna’s Archive to delete scraped data; no one thinks it will comply](https://arstechnica.com/tech-policy/2026/01/judge-orders-annas-archive-to-delete-scraped-data-no-one-thinks-it-will-comply/) (2026-01-16)
 - [This may be the grossest eye pic ever—but the cause is what’s truly horrifying](https://arstechnica.com/features/2026/01/this-may-be-the-grossest-eye-pic-ever-but-the-cause-is-whats-truly-horrifying/) (2026-01-16)
-- [OpenAI to test ads in ChatGPT as it burns through billions](https://arstechnica.com/information-technology/2026/01/openai-to-test-ads-in-chatgpt-as-it-burns-through-billions/) (2026-01-16)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building an AI SaaS system is possible; however, when you build the SaaS system, you should have ethical considerations at the centre. If you don't have ethics at the centre, then your model will work but won't have any trust.](https://dev.to/jaideepparashar/building-an-ai-saas-system-is-possible-however-when-you-build-the-saas-system-you-should-have-2kib) (2026-01-17)
-- [What No One Tells You About Building an AI SaaS Business](https://dev.to/jaideepparashar/what-no-one-tells-you-about-building-an-ai-saas-business-2nhe) (2026-01-17)
-- [Backend Transitioning to AI Dev](https://dev.to/sugam50/backend-transitioning-to-ai-dev-5d07) (2026-01-17)
-- [Did you know?](https://dev.to/cloudraptor/did-you-know-1dpo) (2026-01-17)
-- [Building a Smart Inbox: AI-Powered Message Routing on AWS EKS](https://dev.to/prithiviraj_rengarajan/building-a-smart-inbox-ai-powered-message-routing-on-aws-eks-4g27) (2026-01-17)
+- [[GDE] Simplifying Multimodal Inputs: Using Public URLs with the Gemini API](https://dev.to/gde/gde-simplifying-multimodal-inputs-using-public-urls-with-the-gemini-api-4lcj) (2026-01-17)
+- [Getting Started with AEM: On-Prem vs AEM Cloud (In Simple Terms)](https://dev.to/vishnu_rachapudi_75e73248/getting-started-with-aem-on-prem-vs-aem-cloud-in-simple-terms-351c) (2026-01-17)
+- [Quark's Outlines: Python Basic Customization](https://dev.to/mike-vincent/quarks-outlines-python-basic-customization-428k) (2026-01-17)
+- [Simplifying Multimodal Inputs: Using Public URLs with the Gemini API](https://dev.to/railsstudent/simplifying-multimodal-inputs-using-public-urls-with-the-gemini-api-3458) (2026-01-17)
+- [AI Travel Convenience](https://dev.to/rawveg/ai-travel-convenience-2nke) (2026-01-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Data Fetching, Caching & Revalidation in Next.js (The Engine Behind Performance)](https://blog.stackademic.com/data-fetching-caching-revalidation-in-next-js-the-engine-behind-performance-6e1f8d7d4467?source=rss------programming-5) (2026-01-17)
-- [Hashing in JavaScript: Hash Maps, Frequency Counting & Real Interview Patterns](https://blog.stackademic.com/hashing-in-javascript-hash-maps-frequency-counting-real-interview-patterns-98d6e4c8beef?source=rss------programming-5) (2026-01-17)
-- [Why Array Index Starts from 0: The Real Reason Behind the Scenes](https://medium.com/@jackpritomsoren/why-array-index-starts-from-0-the-real-reason-behind-the-scenes-5742efa0845c?source=rss------programming-5) (2026-01-17)
-- [3 Python Projects That Made Python Finally Feel Practical](https://python.plainenglish.io/3-python-projects-that-made-python-finally-feel-practical-1ba80278e186?source=rss------programming-5) (2026-01-17)
-- [Python Libraries I Actually Use to Automate My Daily Work](https://python.plainenglish.io/python-libraries-i-actually-use-to-automate-my-daily-work-cddeb125e845?source=rss------programming-5) (2026-01-17)
+- [Mocking Made Our Tests Pass. Production Still Failed.](https://blog.stackademic.com/mocking-made-our-tests-pass-production-still-failed-fd78e6cadfa1?source=rss------programming-5) (2026-01-17)
+- [How to Use RevoltGPT Plugin for Unreal Engine 5 to Stop Feeling Stuck and Start Building Faster](https://gumroadfinds.medium.com/how-to-use-revoltgpt-plugin-for-unreal-engine-5-to-stop-feeling-stuck-and-start-building-faster-767d45897552?source=rss------programming-5) (2026-01-17)
+- [Spring Listener (ApplicationEvent): A Lighter Asynchronous Tool Than MQ!](https://medium.com/@junfeng0828/spring-listener-applicationevent-a-lighter-asynchronous-tool-than-mq-d3dfffc7c21e?source=rss------programming-5) (2026-01-17)
+- [A Simple Practical Guide on how Authentication works.](https://medium.com/code-sense/a-simple-practical-guide-on-how-authentication-works-7a4d4ce1d3f1?source=rss------programming-5) (2026-01-17)
+- [The Angular Bug That Only Appeared on Slow Phones](https://medium.com/@pmLearners/the-angular-bug-that-only-appeared-on-slow-phones-ae4606fdadd2?source=rss------programming-5) (2026-01-17)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
+- [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
 - [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
 - [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
 - [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
-- [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
-- [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 
 </details>
 
@@ -362,14 +362,14 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-How to Bring Your Own Keys for Okta Telephony with Twilio Verify
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/okta-byok-verify
-) (2026-01-15)
-- [
 Build an AI Video Analysis App with FastAPI, OpenAI, and SendGrid
 ](
 https://www.twilio.com/en-us/blog/developers/community/build-an-ai-video-analysis-app-with-fastapi--openai--and-sendgri
+) (2026-01-15)
+- [
+How to Bring Your Own Keys for Okta Telephony with Twilio Verify
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/okta-byok-verify
 ) (2026-01-15)
 - [
 Meet the Honorees of Twilio’s AI Startup Searchlight 2025 Award Program
@@ -551,6 +551,17 @@ https://www.twilio.com/en-us/blog/company/spotlights/behind-the-builder-Justinus
 - [NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI](https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning) (2026-01-05)
 - [Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture](https://huggingface.co/blog/tiiuae/falcon-h1-arabic) (2026-01-05)
 - [NVIDIA brings agents to life with DGX Spark and Reachy Mini](https://huggingface.co/blog/nvidia-reachy-mini) (2026-01-05)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Retailers bring conversational AI and analytics closer to the user](https://www.artificialintelligence-news.com/news/retailers-bring-conversational-ai-and-analytics-closer-to-the-user/) (2026-01-16)
+- [Banks operationalise as Plumery AI launches standardised integration](https://www.artificialintelligence-news.com/news/banks-operationalise-ai-as-plumery-ai-launches-standardised-integration/) (2026-01-16)
+- [AI dominated the conversation in 2025, CIOs shift gears in 2026](https://www.artificialintelligence-news.com/news/ai-predictions-dominated-the-conversation-in-2025-cios-shift-gears-in-2026/) (2026-01-15)
+- [Meeting the new ETSI standard for AI security](https://www.artificialintelligence-news.com/news/meeting-the-new-etsi-standard-for-ai-security/) (2026-01-15)
+- [McKinsey tests AI chatbot in early stages of graduate recruitment](https://www.artificialintelligence-news.com/news/mckinsey-tests-ai-chatbot-in-early-stages-of-graduate-recruitment/) (2026-01-15)
 
 </details>
 
