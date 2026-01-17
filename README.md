@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [A Calif. teen trusted ChatGPT's drug advice. He died from an overdose](https://www.sfgate.com/tech/article/calif-teen-chatgpt-drug-advice-fatal-overdose-21266718.php) (2026-01-17)
+- [Artisanal Code](https://sunnyamrat.com/posts/2026-01-17-artisanal-code/) (2026-01-17)
+- [Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC](https://neodyme.io/en/blog/drone_hacking_part_1/) (2026-01-17)
+- [Keifu – A TUI for navigating commit graphs with color and clarity](https://github.com/trasta298/keifu) (2026-01-17)
 - [FLUX.2 [Klein]: Towards Interactive Visual Intelligence](https://bfl.ai/blog/flux2-klein-towards-interactive-visual-intelligence) (2026-01-16)
-- [Re: Mix: open-source repairable blender](https://github.com/openfunkHQ/reMix) (2026-01-16)
-- [Install.md: A standard for LLM-executable installation](https://www.mintlify.com/blog/install-md-standard-for-llm-executable-installation) (2026-01-16)
-- [Drawbot: Let's hack something cute (2025)](https://www.atredis.com/blog/2025/9/30/drawbot-lets-hack-something-cute) (2026-01-16)
-- [Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation](https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables) (2026-01-16)
 
 </details>
 
@@ -97,23 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How to make LLMs work on large amounts of data](https://dev.to/abhijithneilabraham/how-to-make-llms-work-on-large-amounts-of-data-1ol0) (2026-01-17)
-- [Frameworks for Humans in the Age of Machines](https://dev.to/poetryofcode/frameworks-for-humans-in-the-age-of-machines-2aln) (2026-01-17)
-- [Building AuditAlly: An AI-Powered Compliance Monitor with Next.js 15](https://dev.to/ben_stone_5608b8e2d9f8973/building-auditally-an-ai-powered-compliance-monitor-with-nextjs-15-7m7) (2026-01-17)
-- [🚀 New Year, New You — My AI-Powered Portfolio](https://dev.to/senthiltechspot/new-year-new-you-my-ai-powered-portfolio-2kjg) (2026-01-17)
-- [GHSA-38CW-85XC-XR9X: Identity Crisis: Dumping Veramo's Digital Wallets via SQL Injection](https://dev.to/cverports/ghsa-38cw-85xc-xr9x-identity-crisis-dumping-veramos-digital-wallets-via-sql-injection-djd) (2026-01-17)
+- [Building an AI SaaS system is possible; however, when you build the SaaS system, you should have ethical considerations at the centre. If you don't have ethics at the centre, then your model will work but won't have any trust.](https://dev.to/jaideepparashar/building-an-ai-saas-system-is-possible-however-when-you-build-the-saas-system-you-should-have-2kib) (2026-01-17)
+- [What No One Tells You About Building an AI SaaS Business](https://dev.to/jaideepparashar/what-no-one-tells-you-about-building-an-ai-saas-business-2nhe) (2026-01-17)
+- [Backend Transitioning to AI Dev](https://dev.to/sugam50/backend-transitioning-to-ai-dev-5d07) (2026-01-17)
+- [Did you know?](https://dev.to/cloudraptor/did-you-know-1dpo) (2026-01-17)
+- [Building a Smart Inbox: AI-Powered Message Routing on AWS EKS](https://dev.to/prithiviraj_rengarajan/building-a-smart-inbox-ai-powered-message-routing-on-aws-eks-4g27) (2026-01-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Snowflake Performance: Query Optimization](https://medium.com/data-engineering-tools-and-practices/snowflake-performance-query-optimization-62b46dfbfa3b?source=rss------programming-5) (2026-01-17)
-- [10 Python Projects You’ll Actually Finish (And Love Doing)
-AI projects edition](https://python.plainenglish.io/10-python-projects-youll-actually-finish-and-love-doing-ai-projects-edition-d6ba914eefd5?source=rss------programming-5) (2026-01-17)
-- [File Storage in Spring Boot: Database, Local, and Cloud Explained](https://medium.com/@sunil17bbmp/file-storage-in-spring-boot-database-local-and-cloud-explained-96cbec7fa9d8?source=rss------programming-5) (2026-01-17)
-- [ Why The 5th AI Revolution Didn’t Fail Like The Previous Ones?](https://tomaszs2.medium.com/why-the-5th-ai-revolution-didnt-fail-like-the-previous-ones-21070d2cbe9b?source=rss------programming-5) (2026-01-16)
-- [The Python Project That Broke Me (And What I Do Differently Now)](https://python.plainenglish.io/the-python-project-that-broke-me-and-what-i-do-differently-now-85f00bd2d457?source=rss------programming-5) (2026-01-16)
+- [Data Fetching, Caching & Revalidation in Next.js (The Engine Behind Performance)](https://blog.stackademic.com/data-fetching-caching-revalidation-in-next-js-the-engine-behind-performance-6e1f8d7d4467?source=rss------programming-5) (2026-01-17)
+- [Hashing in JavaScript: Hash Maps, Frequency Counting & Real Interview Patterns](https://blog.stackademic.com/hashing-in-javascript-hash-maps-frequency-counting-real-interview-patterns-98d6e4c8beef?source=rss------programming-5) (2026-01-17)
+- [Why Array Index Starts from 0: The Real Reason Behind the Scenes](https://medium.com/@jackpritomsoren/why-array-index-starts-from-0-the-real-reason-behind-the-scenes-5742efa0845c?source=rss------programming-5) (2026-01-17)
+- [3 Python Projects That Made Python Finally Feel Practical](https://python.plainenglish.io/3-python-projects-that-made-python-finally-feel-practical-1ba80278e186?source=rss------programming-5) (2026-01-17)
+- [Python Libraries I Actually Use to Automate My Daily Work](https://python.plainenglish.io/python-libraries-i-actually-use-to-automate-my-daily-work-cddeb125e845?source=rss------programming-5) (2026-01-17)
 
 </details>
 
@@ -363,6 +362,16 @@ AI projects edition](https://python.plainenglish.io/10-python-projects-youll-act
 <summary>📞 Twilio Blog</summary>
 
 - [
+How to Bring Your Own Keys for Okta Telephony with Twilio Verify
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/okta-byok-verify
+) (2026-01-15)
+- [
+Build an AI Video Analysis App with FastAPI, OpenAI, and SendGrid
+](
+https://www.twilio.com/en-us/blog/developers/community/build-an-ai-video-analysis-app-with-fastapi--openai--and-sendgri
+) (2026-01-15)
+- [
 Meet the Honorees of Twilio’s AI Startup Searchlight 2025 Award Program
 ](
 https://www.twilio.com/en-us/blog/company/news/startup-searchlight-2025-winners
@@ -377,16 +386,6 @@ Behind the Builder: Justinus Kho, Staff Product Data Analyst
 ](
 https://www.twilio.com/en-us/blog/company/spotlights/behind-the-builder-Justinus-Twilio
 ) (2026-01-07)
-- [
-How to Implement Call Forwarding in Go
-](
-https://www.twilio.com/en-us/blog/developers/community/how-to-implement-call-forwarding-in-go
-) (2026-01-05)
-- [
-How to Code Video Games: A Beginner's Guide
-](
-https://www.twilio.com/en-us/blog/how-to-code-video-games
-) (2026-01-05)
 
 </details>
 
@@ -556,24 +555,13 @@ https://www.twilio.com/en-us/blog/how-to-code-video-games
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [Retailers bring conversational AI and analytics closer to the user](https://www.artificialintelligence-news.com/news/retailers-bring-conversational-ai-and-analytics-closer-to-the-user/) (2026-01-16)
-- [Banks operationalise as Plumery AI launches standardised integration](https://www.artificialintelligence-news.com/news/banks-operationalise-ai-as-plumery-ai-launches-standardised-integration/) (2026-01-16)
-- [AI dominated the conversation in 2025, CIOs shift gears in 2026](https://www.artificialintelligence-news.com/news/ai-predictions-dominated-the-conversation-in-2025-cios-shift-gears-in-2026/) (2026-01-15)
-- [Meeting the new ETSI standard for AI security](https://www.artificialintelligence-news.com/news/meeting-the-new-etsi-standard-for-ai-security/) (2026-01-15)
-- [McKinsey tests AI chatbot in early stages of graduate recruitment](https://www.artificialintelligence-news.com/news/mckinsey-tests-ai-chatbot-in-early-stages-of-graduate-recruitment/) (2026-01-15)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
 - [Maximum-Effiency Coding Setup](https://towardsdatascience.com/maximum-effiency-coding-setup/) (2026-01-16)
 - [Cutting LLM Memory by 84%: A Deep Dive into Fused Kernels](https://towardsdatascience.com/cutting-llm-memory-by-84-a-deep-dive-into-fused-kernels/) (2026-01-16)
 - [From RGB to Lab: Addressing Color Artifacts in AI Image Compositing](https://towardsdatascience.com/from-rgb-to-lab-addressing-color-artifacts-in-ai-image-compositing/) (2026-01-16)
 - [The Great Data Closure: Why Databricks and Snowflake Are Hitting Their Ceiling](https://towardsdatascience.com/the-great-data-closure-why-databricks-and-snowflake-are-hitting-their-ceiling/) (2026-01-16)
-- [When Shapley Values Break: A Guide to Robust Model Explainability](https://towardsdatascience.com/when-shapley-values-break-a-guide-to-robust-model-explainability/) (2026-01-15)
+- [TDS Newsletter: Is It Time to Revisit RAG?](https://towardsdatascience.com/tds-newsletter-is-it-time-to-revisit-rag/) (2026-01-16)
 
 </details>
 
