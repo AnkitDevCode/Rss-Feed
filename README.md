@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Why Silicon Valley is really talking about fleeing California (it’s not the 5%)](https://techcrunch.com/2026/01/17/why-silicon-valley-is-really-talking-about-fleeing-california-its-not-the-5/) (2026-01-18)
+- [Who gets to inherit the stars? A space ethicist on what we’re not talking about](https://techcrunch.com/2026/01/17/who-gets-to-inherit-the-stars-a-space-ethicist-on-what-were-not-talking-about/) (2026-01-17)
 - [Trump administration’s legal setbacks are good news for offshore wind — and the grid](https://techcrunch.com/2026/01/17/trump-administrations-legal-setbacks-are-good-news-for-offshore-wind-and-the-grid/) (2026-01-17)
 - [Oshen built the first ocean robot to collect data in a Category 5 hurricane ](https://techcrunch.com/2026/01/17/oshen-built-the-first-ocean-robot-to-collect-data-in-a-category-5-hurricane/) (2026-01-17)
 - [Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) (2026-01-17)
-- [AI cloud startup Runpod hits $120M in ARR — and it started with a Reddit post  ](https://techcrunch.com/2026/01/16/ai-cloud-startup-runpod-hits-120m-in-arr-and-it-started-with-a-reddit-post/) (2026-01-16)
-- [California AG sends Musk’s xAI a cease-and-desist order over sexual deepfakes](https://techcrunch.com/2026/01/16/california-ag-sends-musks-xai-a-cease-and-desist-order-over-sexual-deepfakes/) (2026-01-16)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: What if your menu bar was a keyboard-controlled command center?](https://extrabar.app/) (2026-01-17)
-- [2025 was the third hottest year on record](https://www.economist.com/science-and-technology/2026/01/14/2025-was-the-third-hottest-year-on-record) (2026-01-17)
-- [An Elizabethan mansion's secrets for staying warm](https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm) (2026-01-17)
-- [The Resonant Computing Manifesto](https://resonantcomputing.org/) (2026-01-17)
-- [Why There's No Single Best Way to Store Information](https://www.quantamagazine.org/why-theres-no-single-best-way-to-store-information-20260116/) (2026-01-17)
+- [How do I stop participating?](https://geohot.github.io//blog/jekyll/update/2026/01/18/how-do-i-stop.html) (2026-01-18)
+- [IRISC: An ARMv7 assembly interpreter and computer architecture simulator](https://polysoftit.co.uk/irisc-web/) (2026-01-18)
+- [OpenAI could reportedly run out of cash by mid-2027](https://www.tomshardware.com/tech-industry/big-tech/openai-could-reportedly-run-out-of-cash-by-mid-2027-nyt-analyst-paints-grim-picture-after-examining-companys-finances) (2026-01-17)
+- [If you put Apple icons in reverse it looks like someone getting good at design](https://www.threads.com/@heliographe.studio/post/DTeOwAykwQ1) (2026-01-17)
+- [Light Mode InFFFFFFlation](https://willhbr.net/2025/10/20/light-mode-infffffflation/) (2026-01-17)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Disney deleted a Thread because people kept putting anti-fascist quotes from its movies in the replies](https://www.theverge.com/news/863980/disney-deleted-anti-fascist-thread) (2026-01-17)
 - [The Setapp Mobile iOS store is shutting down on February 16th](https://www.theverge.com/news/863978/setapp-mobile-ios-store-shutdown) (2026-01-17)
 - [The LG C5 and Apple’s M4 Mac Mini are both steeply discounted this weekend](https://www.theverge.com/gadgets/863503/apple-mac-mini-m4-lg-c5-oled-tv-deal-sale) (2026-01-17)
 - [All You Need Is Kill is a dazzling movie with the soul of a video game](https://www.theverge.com/entertainment/862881/all-you-need-is-kill-review) (2026-01-17)
 - [A cute frog game that remixes Nintendo&#8217;s best](https://www.theverge.com/games/860917/big-hops-review-pc-nintendo-switch-ps5) (2026-01-17)
-- [Minnesota wants to win a war of attrition](https://www.theverge.com/policy/863632/minnesota-walz-trump-sousveillance-ice) (2026-01-17)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How to Run MLPerf Llama 2 70B Training on AMD MI325X Without SLURM](https://dev.to/vincentdu2021/how-to-run-mlperf-llama-2-70b-training-on-amd-mi325x-without-slurm-1ho4) (2026-01-17)
-- [I Checked My Phone 47 Times Yesterday. Here's What I'm Building Instead.](https://dev.to/tirthdoshi009/i-checked-my-phone-47-times-yesterday-heres-what-im-building-instead-41fd) (2026-01-17)
-- [Git for Beginners.](https://dev.to/moraa_omwoyo/git-for-beginners-2c7d) (2026-01-17)
-- [OCI Generative AI Security: Dedicated GPUs, RDMA Networks, and Enterprise-Grade Data Protection](https://dev.to/derrickryangiggs/oci-generative-ai-security-dedicated-gpus-rdma-networks-and-enterprise-grade-data-protection-265j) (2026-01-17)
-- [How to push and pull code, track changes and understand version control using Git](https://dev.to/wesley_clark_9ed86994e7a7/how-to-push-and-pull-code-track-changes-and-understand-version-control-using-git-37p2) (2026-01-17)
+- [📱 The End of Xcode? Replit Just Dropped "Text-to-App Store" for iOS & Android](https://dev.to/siddhesh_surve/the-end-of-xcode-replit-just-dropped-text-to-app-store-for-ios-android-2m4j) (2026-01-18)
+- [How I Built a Donation Website in 8 Hours (And Why)](https://dev.to/masem/how-i-built-a-donation-website-in-8-hours-and-why-1ka9) (2026-01-18)
+- [**Title:** LA Clippers Owner Steve Ballmer Faces Fraud Allegations Over Kawhi Leonard's Compensation](https://dev.to/yagyaraj_sharma_6cd410179/title-la-clippers-owner-steve-ballmer-faces-fraud-allegations-over-kawhi-leonards-compensation-2opp) (2026-01-18)
+- [当 AI 变成我的"超强员工](https://dev.to/gudong/dang-ai-bian-cheng-wo-de-chao-qiang-yuan-gong-9of) (2026-01-18)
+- [Redacting Sensitive Data in Go's slog: A Practical Guide with masq](https://dev.to/mizutani/redacting-sensitive-data-in-gos-slog-a-practical-guide-with-masq-158o) (2026-01-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Go Quickstart for Java Developers](https://medium.com/@kalyanasundaramthivaharan/go-quickstart-for-java-developers-b90c3d6d882e?source=rss------programming-5) (2026-01-17)
-- [Solving Timetables and Scheduling with a custom CSP Solver](https://medium.com/@nishh7009/solving-timetables-and-scheduling-with-a-custom-csp-solver-0ad18aafcddd?source=rss------programming-5) (2026-01-17)
-- [The Transactional Outbox Pattern: How to Never Lose a Domain Event Again](https://medium.com/@michaelmaurice410/the-transactional-outbox-pattern-how-to-never-lose-a-domain-event-again-ef97d188a9c5?source=rss------programming-5) (2026-01-17)
-- [How To Add Fault Handling In ASP.NET Core With Polly](https://medium.com/@mariammaurice/how-to-add-fault-handling-in-asp-net-core-with-polly-d3f9158c5b9f?source=rss------programming-5) (2026-01-17)
-- [Stop Using Primitive Enums in C# (Smart Enums Will Change Your Life)](https://medium.com/@maged_/stop-using-primitive-enums-in-c-smart-enums-will-change-your-life-f711ed8fbfd3?source=rss------programming-5) (2026-01-17)
+- [️ The Secret Life of AI: How Machines Are Inventing New Words](https://tomaszs2.medium.com/%EF%B8%8F-the-secret-life-of-ai-how-machines-are-inventing-new-words-e357709767d4?source=rss------programming-5) (2026-01-18)
+- [ SYSTEM DESIGN ≠ BIG DIAGRAMS](https://medium.com/@balyanviv/system-design-big-diagrams-607da5c65b42?source=rss------programming-5) (2026-01-18)
+- [Vibe Coding Will Not Build a $1 Million App](https://degennfts.medium.com/vibe-coding-will-not-build-a-1-million-app-9265545741e3?source=rss------programming-5) (2026-01-18)
+- [13 Ways I Use AI to Build AI Every Day](https://pub.towardsai.net/13-ways-i-use-ai-to-build-ai-every-day-76d08c9abe6b?source=rss------programming-5) (2026-01-18)
+- [I Interviewed 100 People from Different Salary Brackets | Here’s What I Found](https://medium.com/@chopra.kanta.73/i-interviewed-100-people-from-different-salary-brackets-heres-what-i-found-5853465bbaf4?source=rss------programming-5) (2026-01-18)
 
 </details>
 
@@ -362,14 +362,14 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Build an AI Video Analysis App with FastAPI, OpenAI, and SendGrid
-](
-https://www.twilio.com/en-us/blog/developers/community/build-an-ai-video-analysis-app-with-fastapi--openai--and-sendgri
-) (2026-01-15)
-- [
 How to Bring Your Own Keys for Okta Telephony with Twilio Verify
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/okta-byok-verify
+) (2026-01-15)
+- [
+Build an AI Video Analysis App with FastAPI, OpenAI, and SendGrid
+](
+https://www.twilio.com/en-us/blog/developers/community/build-an-ai-video-analysis-app-with-fastapi--openai--and-sendgri
 ) (2026-01-15)
 - [
 Meet the Honorees of Twilio’s AI Startup Searchlight 2025 Award Program
