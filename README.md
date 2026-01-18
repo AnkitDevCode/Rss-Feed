@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [TechCrunch Mobility: ‘Physical AI’ enters the hype machine](https://techcrunch.com/2026/01/18/techcrunch-mobility-physical-ai-enters-the-hype-machine/) (2026-01-18)
+- [Threads edges out X in daily mobile users, new data shows](https://techcrunch.com/2026/01/18/threads-edges-out-x-in-daily-mobile-users-new-data-shows/) (2026-01-18)
+- [How YC-backed Bucket Robotics survived its first CES](https://techcrunch.com/2026/01/18/how-yc-backed-bucket-robotics-survived-its-first-ces/) (2026-01-18)
+- [Moxie Marlinspike has a privacy-conscious alternative to ChatGPT](https://techcrunch.com/2026/01/18/moxie-marlinspike-has-a-privacy-conscious-alternative-to-chatgpt/) (2026-01-18)
 - [Why Silicon Valley is really talking about fleeing California (it’s not the 5%)](https://techcrunch.com/2026/01/17/why-silicon-valley-is-really-talking-about-fleeing-california-its-not-the-5/) (2026-01-18)
-- [Who gets to inherit the stars? A space ethicist on what we’re not talking about](https://techcrunch.com/2026/01/17/who-gets-to-inherit-the-stars-a-space-ethicist-on-what-were-not-talking-about/) (2026-01-17)
-- [Trump administration’s legal setbacks are good news for offshore wind — and the grid](https://techcrunch.com/2026/01/17/trump-administrations-legal-setbacks-are-good-news-for-offshore-wind-and-the-grid/) (2026-01-17)
-- [Oshen built the first ocean robot to collect data in a Category 5 hurricane ](https://techcrunch.com/2026/01/17/oshen-built-the-first-ocean-robot-to-collect-data-in-a-category-5-hurricane/) (2026-01-17)
-- [Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune](https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/) (2026-01-17)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Keystone (YC S25) Is Hiring](https://news.ycombinator.com/item?id=46667101) (2026-01-18)
-- [When_Sysadmins_Ruled_the_Earth](https://craphound.com/overclocked/Cory_Doctorow_-_Overclocked_-_When_Sysadmins_Ruled_the_Earth.html) (2026-01-18)
-- [Starting from scratch: Training a 30M Topological Transformer](https://www.tuned.org.uk/posts/013_the_topological_transformer_training_tauformer) (2026-01-18)
-- [Throwing it all away over the Mercator projection](https://danieldrezner.substack.com/p/what-is-trump-even-doing-at-this) (2026-01-18)
-- [Stop calling it vibe coding](https://davekiss.com/blog/agentic-coding/) (2026-01-18)
+- [Gaussian Splatting – A$AP Rocky Helicopter Music Video](https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting) (2026-01-18)
+- [How the Lobsters front page works](https://atharvaraykar.com/lobsters/) (2026-01-18)
+- [The Nobel Prize and the Laureate Are Inseparable](https://www.nobelpeaceprize.org/press/press-releases/the-nobel-prize-and-the-laureate-are-inseparable) (2026-01-18)
+- [Stop using MySQL in 2026, it is not true open source](https://optimizedbyotto.com/post/reasons-to-stop-using-mysql/) (2026-01-18)
+- [Purdue blocks admission of many Chinese grad students in unwritten policy](https://www.science.org/content/article/purdue-blocks-admission-many-chinese-grad-students-unwritten-policy) (2026-01-18)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Disney deleted a Thread because people kept putting anti-fascist quotes from its movies in the replies](https://www.theverge.com/news/863980/disney-deleted-anti-fascist-thread) (2026-01-17)
-- [The Setapp Mobile iOS store is shutting down on February 16th](https://www.theverge.com/news/863978/setapp-mobile-ios-store-shutdown) (2026-01-17)
-- [The LG C5 and Apple’s M4 Mac Mini are both steeply discounted this weekend](https://www.theverge.com/gadgets/863503/apple-mac-mini-m4-lg-c5-oled-tv-deal-sale) (2026-01-17)
-- [All You Need Is Kill is a dazzling movie with the soul of a video game](https://www.theverge.com/entertainment/862881/all-you-need-is-kill-review) (2026-01-17)
-- [A cute frog game that remixes Nintendo&#8217;s best](https://www.theverge.com/games/860917/big-hops-review-pc-nintendo-switch-ps5) (2026-01-17)
+- [Microsoft’s first Windows 11 update of 2026 stopped some computers from shutting down](https://www.theverge.com/news/864032/microsofts-out-of-band-windows-11-update-bug) (2026-01-18)
+- [Here are the 10 deals worth grabbing from Best Buy’s winter sales event](https://www.theverge.com/gadgets/863660/best-buy-winter-sale-2026-oled-tvs-headphones-fitness-trackers-deal-sale) (2026-01-18)
+- [Kaoss Pad V is the first major upgrade to Korg’s touch-based effects in 13 years](https://www.theverge.com/news/864003/korg-kaoss-pad-v-namm) (2026-01-18)
+- [Why Coinbase derailed the crypto industry’s political future](https://www.theverge.com/policy/864008/senate-clarity-act-coinbase-crypto-market) (2026-01-18)
+- [Under Musk, the Grok disaster was inevitable](https://www.theverge.com/column/863502/grok-deepfake-musk) (2026-01-18)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Ocean damage nearly doubles the cost of climate change](https://arstechnica.com/science/2026/01/ocean-damage-nearly-doubles-the-cost-of-climate-change/) (2026-01-18)
 - [Meta’s layoffs leave Supernatural fitness users in mourning](https://arstechnica.com/gadgets/2026/01/metas-layoffs-leave-supernatural-fitness-users-in-mourning/) (2026-01-17)
 - [Managers on alert for “launch fever” as pressure builds for NASA’s Moon mission](https://arstechnica.com/space/2026/01/managers-on-alert-for-launch-fever-as-pressure-builds-for-nasas-moon-mission/) (2026-01-17)
 - [Rackspace customers grapple with “devastating” email hosting price hike](https://arstechnica.com/information-technology/2026/01/rackspace-raises-email-hosting-prices-by-as-much-as-706-percent/) (2026-01-16)
 - [Archaeologists find a supersized medieval shipwreck in Denmark](https://arstechnica.com/science/2026/01/archaeologists-find-a-supersized-medieval-shipwreck-in-denmark/) (2026-01-16)
-- [Judge orders Anna’s Archive to delete scraped data; no one thinks it will comply](https://arstechnica.com/tech-policy/2026/01/judge-orders-annas-archive-to-delete-scraped-data-no-one-thinks-it-will-comply/) (2026-01-16)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Setting Up Custom Domains in Lovable: Subdomain Design & A+TXT Records](https://dev.to/tielec-takashi/setting-up-custom-domains-in-lovable-subdomain-design-atxt-records-3ee5) (2026-01-18)
-- [LET'S GIT IT—A Beginner's Guide to Version Control.](https://dev.to/brian_muchoki_79c404aa499/lets-git-it-a-beginners-guide-to-version-control-1l51) (2026-01-18)
-- [📱 Your Child Is Still Awake: Raising Kids in a World of Screens and AI](https://dev.to/jeanphilippe_ulpiano_46b/your-child-is-still-awake-raising-kids-in-a-world-of-screens-and-ai-1kk7) (2026-01-18)
-- [Protecting Your Website with Cloudflare: Security, Performance, and Reliability [Part 2]](https://dev.to/bemals_dvanitha_5b14b68f9/protecting-your-website-with-cloudflare-security-performance-and-reliability-part-2-4b) (2026-01-18)
-- [Session-Based Authentication VS Token-Based Authentication](https://dev.to/tamjid_ahmed_e9bea176abee/session-based-authentication-vs-token-based-authentication-10e7) (2026-01-18)
+- [Supply Chain Orchestration for dummies](https://dev.to/intersystems/supply-chain-orchestration-for-dummies-2j66) (2026-01-18)
+- [Part 1 - Vercel to VPS](https://dev.to/bkanhu/part-1-vercel-to-vps-1odj) (2026-01-18)
+- [Git Source Control Best Practices with IRIS in VSCode](https://dev.to/intersystems/git-source-control-best-practices-with-iris-in-vscode-3ilg) (2026-01-18)
+- [I Built Qreasure: QR Code Treasure Hunts in Minutes, Now 50% Off](https://dev.to/vulcanwm/i-built-qreasure-qr-code-treasure-hunts-in-minutes-now-50-off-17l3) (2026-01-18)
+- [Build a Self-Evolving Memory Agent in 150 Lines](https://dev.to/narnaiezzsshaa/build-a-self-evolving-memory-agent-in-150-lines-lad) (2026-01-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Boring Python Script That Quietly Replaced an Entire Workflow](https://python.plainenglish.io/the-boring-python-script-that-quietly-replaced-an-entire-workflow-11c712ee6b4a?source=rss------programming-5) (2026-01-18)
-- [My Journey as an Aspiring Data Analyst](https://medium.com/@mdsahil0624/my-journey-as-an-aspiring-data-analyst-67d2edf4d503?source=rss------programming-5) (2026-01-18)
-- [Prompting as a System: A Methodology for Professionals Seeking Reliable Business Outcomes](https://medium.com/@pandya.dhananjay25/prompting-as-a-system-a-methodology-for-professionals-seeking-reliable-business-outcomes-66a1bd8008bc?source=rss------programming-5) (2026-01-18)
-- [The 2× Traffic Trap: How Spring Boot Apps Fail Before They Truly Scale](https://medium.com/data-science-collective/the-2-traffic-trap-how-spring-boot-apps-fail-before-they-truly-scale-59ad8eefeee2?source=rss------programming-5) (2026-01-18)
-- [SoliVagas: a criação de um aplicativo brasileiro voltado à divulgação de oportunidades de trabalho…](https://medium.com/@davihebert017/solivagas-a-cria%C3%A7%C3%A3o-de-um-aplicativo-brasileiro-voltado-%C3%A0-divulga%C3%A7%C3%A3o-de-oportunidades-de-trabalho-c23dc95ee33e?source=rss------programming-5) (2026-01-18)
+- [ Master the Entire Authentication Framework in One Article in Spring boot](https://medium.com/@umeshcapg/master-the-entire-authentication-framework-in-one-article-in-spring-boot-aa517fd53e8d?source=rss------programming-5) (2026-01-18)
+- [Stop Using DbContext Directly in Your Services (The Repository Pattern Explained)](https://medium.com/@michaelmaurice410/stop-using-dbcontext-directly-in-your-services-the-repository-pattern-explained-1b66f5b3d8da?source=rss------programming-5) (2026-01-18)
+- [10 Must-Know Software Design Patterns for Object-Oriented Development in C++](https://medium.com/swe-insights/10-must-know-software-design-patterns-for-object-oriented-development-in-c-7ec5587c165c?source=rss------programming-5) (2026-01-18)
+- [One Trick to Improve EF Core Performance Using Query Splitting in .NET 10 (A Deep, Practical Guide)](https://medium.com/@mariammaurice/one-trick-to-improve-ef-core-performance-using-query-splitting-in-net-10-a-deep-practical-guide-92439e15643a?source=rss------programming-5) (2026-01-18)
+- [How to Customize an In-Game Calendar in Python Tkinter with CQCalendar](https://medium.com/@codequest4/how-to-customize-an-in-game-calendar-in-python-tkinter-with-cqcalendar-bb4e61f250d1?source=rss------programming-5) (2026-01-18)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
+- [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
 - [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
 - [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
 - [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
-- [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
-- [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 
 </details>
 
@@ -568,22 +568,22 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Hidden Opportunity in AI Workflow Automation with n8n for Low-Tech Companies](https://towardsdatascience.com/the-hidden-opportunity-in-ai-workflow-automation-with-n8n-for-low-tech-companies/) (2026-01-18)
+- [Why Healthcare Leads in Knowledge Graphs](https://towardsdatascience.com/why-healthcare-leads-in-knowledge-graphs/) (2026-01-18)
 - [Data Poisoning in Machine Learning: Why and How People Manipulate Training Data](https://towardsdatascience.com/data-poisoning-in-machine-learning-why-and-how-people-manipulate-training-data/) (2026-01-17)
 - [A Geometric Method to Spot Hallucinations Without an LLM Judge](https://towardsdatascience.com/the-red-bird/) (2026-01-17)
 - [Maximum-Effiency Coding Setup](https://towardsdatascience.com/maximum-effiency-coding-setup/) (2026-01-16)
-- [Cutting LLM Memory by 84%: A Deep Dive into Fused Kernels](https://towardsdatascience.com/cutting-llm-memory-by-84-a-deep-dive-into-fused-kernels/) (2026-01-16)
-- [From RGB to Lab: Addressing Color Artifacts in AI Image Compositing](https://towardsdatascience.com/from-rgb-to-lab-addressing-color-artifacts-in-ai-image-compositing/) (2026-01-16)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [8 Types of Environments in AI](https://www.analyticsvidhya.com/blog/2026/01/types-of-environments-in-ai/) (2026-01-18)
+- [Top 100 Data Science Interview Questions and Answers (2026 Edition)](https://www.analyticsvidhya.com/blog/2026/01/data-science-interview-questions/) (2026-01-18)
 - [Prompt Engineering Guide 2026](https://www.analyticsvidhya.com/blog/2026/01/master-prompt-engineering/) (2026-01-17)
 - [Getting Started with Strands Agents](https://www.analyticsvidhya.com/blog/2026/01/getting-started-with-strands-agents/) (2026-01-17)
 - [GATE DA 2026: Study Material and Practice Questions](https://www.analyticsvidhya.com/blog/2026/01/gate-da-study-material-and-questions/) (2026-01-16)
-- [10 Highest Paying Companies in India for Data Science Roles](https://www.analyticsvidhya.com/blog/2026/01/highest-paying-companies-in-india-for-data-science-roles/) (2026-01-16)
-- [DeepSeek Engram: The Future of Memory-Augmented Language Models ](https://www.analyticsvidhya.com/blog/2026/01/deepseek-engram/) (2026-01-15)
 
 </details>
 
