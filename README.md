@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [How do I stop participating?](https://geohot.github.io//blog/jekyll/update/2026/01/18/how-do-i-stop.html) (2026-01-18)
-- [IRISC: An ARMv7 assembly interpreter and computer architecture simulator](https://polysoftit.co.uk/irisc-web/) (2026-01-18)
-- [OpenAI could reportedly run out of cash by mid-2027](https://www.tomshardware.com/tech-industry/big-tech/openai-could-reportedly-run-out-of-cash-by-mid-2027-nyt-analyst-paints-grim-picture-after-examining-companys-finances) (2026-01-17)
-- [If you put Apple icons in reverse it looks like someone getting good at design](https://www.threads.com/@heliographe.studio/post/DTeOwAykwQ1) (2026-01-17)
-- [Light Mode InFFFFFFlation](https://willhbr.net/2025/10/20/light-mode-infffffflation/) (2026-01-17)
+- [The relentless rule of my fitness tracker](https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/) (2026-01-18)
+- [jQuery 4.0.0 Released](https://blog.jquery.com/2026/01/17/jquery-4-0-0/) (2026-01-18)
+- [U.S. Court Order Against Anna's Archive Spells More Trouble for the Site](https://torrentfreak.com/u-s-court-order-against-annas-archive-spells-more-trouble-for-the-site/) (2026-01-18)
+- [Lopado­temacho­selacho­galeo­kranio­leipsano­drim­hypo­trimmato­silphio­karab](https://en.wikipedia.org/wiki/Lopado%C2%ADtemacho%C2%ADselacho%C2%ADgaleo%C2%ADkranio%C2%ADleipsano%C2%ADdrim%C2%ADhypo%C2%ADtrimmato%C2%ADsilphio%C2%ADkarabo%C2%ADmelito%C2%ADkatakechy%C2%ADmeno%C2%ADkichl%C2%ADepi%C2%ADkossypho%C2%ADphatto%C2%ADperister%C2%ADalektryon%C2%ADopte%C2%ADkephallio%C2%ADkigklo%C2%ADpeleio%C2%ADlagoio%C2%ADsiraio%C2%ADbaphe%C2%ADtragano%C2%ADpterygon) (2026-01-18)
+- [Erdos 281 solved with ChatGPT 5.2 Pro](https://twitter.com/neelsomani/status/2012695714187325745) (2026-01-18)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [📱 The End of Xcode? Replit Just Dropped "Text-to-App Store" for iOS & Android](https://dev.to/siddhesh_surve/the-end-of-xcode-replit-just-dropped-text-to-app-store-for-ios-android-2m4j) (2026-01-18)
-- [How I Built a Donation Website in 8 Hours (And Why)](https://dev.to/masem/how-i-built-a-donation-website-in-8-hours-and-why-1ka9) (2026-01-18)
-- [**Title:** LA Clippers Owner Steve Ballmer Faces Fraud Allegations Over Kawhi Leonard's Compensation](https://dev.to/yagyaraj_sharma_6cd410179/title-la-clippers-owner-steve-ballmer-faces-fraud-allegations-over-kawhi-leonards-compensation-2opp) (2026-01-18)
-- [当 AI 变成我的"超强员工](https://dev.to/gudong/dang-ai-bian-cheng-wo-de-chao-qiang-yuan-gong-9of) (2026-01-18)
-- [Redacting Sensitive Data in Go's slog: A Practical Guide with masq](https://dev.to/mizutani/redacting-sensitive-data-in-gos-slog-a-practical-guide-with-masq-158o) (2026-01-18)
+- [Introduction to Git and Github](https://dev.to/kuria_dd8316139db3dea9c85/introduction-to-git-and-github-230e) (2026-01-18)
+- [Understanding Git and GitHub: A Biginners Guide](https://dev.to/josepho_okwemba_a02e2378a/understanding-git-and-github-a-biginners-guide-4gho) (2026-01-18)
+- [Java Multithreading/Concurrency](https://dev.to/achavan/java-multithreadingconcurrency-f4a) (2026-01-18)
+- [SEO + RAO + Access = Lead](https://dev.to/antonmb/seo-rao-access-lead-49p9) (2026-01-18)
+- [🚀 Getting Started with Git and GitHub: A Beginner’s Guide](https://dev.to/njokijoan003commits/getting-started-with-git-and-github-a-beginners-guide-2k93) (2026-01-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [️ The Secret Life of AI: How Machines Are Inventing New Words](https://tomaszs2.medium.com/%EF%B8%8F-the-secret-life-of-ai-how-machines-are-inventing-new-words-e357709767d4?source=rss------programming-5) (2026-01-18)
-- [ SYSTEM DESIGN ≠ BIG DIAGRAMS](https://medium.com/@balyanviv/system-design-big-diagrams-607da5c65b42?source=rss------programming-5) (2026-01-18)
-- [Vibe Coding Will Not Build a $1 Million App](https://degennfts.medium.com/vibe-coding-will-not-build-a-1-million-app-9265545741e3?source=rss------programming-5) (2026-01-18)
-- [13 Ways I Use AI to Build AI Every Day](https://pub.towardsai.net/13-ways-i-use-ai-to-build-ai-every-day-76d08c9abe6b?source=rss------programming-5) (2026-01-18)
-- [I Interviewed 100 People from Different Salary Brackets | Here’s What I Found](https://medium.com/@chopra.kanta.73/i-interviewed-100-people-from-different-salary-brackets-heres-what-i-found-5853465bbaf4?source=rss------programming-5) (2026-01-18)
+- [Apigee Just Got Smarter: How MCP Support Is Making AI Agents Actually Useful (And Secure)](https://medium.com/mern-mastery/apigee-just-got-smarter-how-mcp-support-is-making-ai-agents-actually-useful-and-secure-171a5dd8655b?source=rss------programming-5) (2026-01-18)
+- [Two-step GKE upgrade: Google’s new safe Kubernetes rollback feature](https://medium.com/mern-mastery/two-step-gke-upgrade-googles-new-safe-kubernetes-rollback-feature-6f16e7306711?source=rss------programming-5) (2026-01-18)
+- [10 “Secrets” Senior Developers Rarely Tell Junior Devs](https://medium.com/@gitesky14/10-secrets-senior-developers-rarely-tell-junior-devs-f762eb62d984?source=rss------programming-5) (2026-01-18)
+- [I Stopped Treating AI Like a Brain and Started Treating It Like Infrastructure.](https://ai.plainenglish.io/i-stopped-treating-ai-like-a-brain-and-started-treating-it-like-infrastructure-d56ef4313ca6?source=rss------programming-5) (2026-01-18)
+- [The Hidden Linux Networking Commands I Use Every Day](https://medium.com/codex/the-hidden-linux-networking-commands-i-use-every-day-b6b613b6be73?source=rss------programming-5) (2026-01-18)
 
 </details>
 
@@ -135,17 +135,6 @@
 - [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
 - [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
 - [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
-
-</details>
-
-<details>
-<summary>🎮 NVIDIA Blog</summary>
-
-- [Survive the Quarantine Zone and More With Devolver Digital Games on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-quarantine-zone/) (2026-01-15)
-- [CEOs of NVIDIA and Lilly Share ‘Blueprint for What Is Possible’ in AI and Drug Discovery](https://blogs.nvidia.com/blog/jpmorgan-healthcare-nvidia-lilly/) (2026-01-13)
-- [AI’s Next Revolution: Multiply Labs Is Scaling Robotics-Driven Cell Therapy Biomanufacturing Labs](https://blogs.nvidia.com/blog/multiply-labs-isaac-omniverse/) (2026-01-12)
-- [NVIDIA Unveils Multi-Agent Intelligent Warehouse and Catalog Enrichment AI Blueprints to Power the Retail Pipeline](https://blogs.nvidia.com/blog/multi-agent-intelligent-warehouse-and-catalog-enrichment-blueprints/) (2026-01-09)
-- [AI Copilot Keeps Berkeley’s X-Ray Particle Accelerator on Track](https://blogs.nvidia.com/blog/ai-copilot-berkeley-x-ray-particle-accelerator/) (2026-01-08)
 
 </details>
 
