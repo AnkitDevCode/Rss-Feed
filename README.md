@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The relentless rule of my fitness tracker](https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/) (2026-01-18)
-- [jQuery 4.0.0 Released](https://blog.jquery.com/2026/01/17/jquery-4-0-0/) (2026-01-18)
-- [U.S. Court Order Against Anna's Archive Spells More Trouble for the Site](https://torrentfreak.com/u-s-court-order-against-annas-archive-spells-more-trouble-for-the-site/) (2026-01-18)
-- [Lopado­temacho­selacho­galeo­kranio­leipsano­drim­hypo­trimmato­silphio­karab](https://en.wikipedia.org/wiki/Lopado%C2%ADtemacho%C2%ADselacho%C2%ADgaleo%C2%ADkranio%C2%ADleipsano%C2%ADdrim%C2%ADhypo%C2%ADtrimmato%C2%ADsilphio%C2%ADkarabo%C2%ADmelito%C2%ADkatakechy%C2%ADmeno%C2%ADkichl%C2%ADepi%C2%ADkossypho%C2%ADphatto%C2%ADperister%C2%ADalektryon%C2%ADopte%C2%ADkephallio%C2%ADkigklo%C2%ADpeleio%C2%ADlagoio%C2%ADsiraio%C2%ADbaphe%C2%ADtragano%C2%ADpterygon) (2026-01-18)
-- [Erdos 281 solved with ChatGPT 5.2 Pro](https://twitter.com/neelsomani/status/2012695714187325745) (2026-01-18)
+- [Keystone (YC S25) Is Hiring](https://news.ycombinator.com/item?id=46667101) (2026-01-18)
+- [When_Sysadmins_Ruled_the_Earth](https://craphound.com/overclocked/Cory_Doctorow_-_Overclocked_-_When_Sysadmins_Ruled_the_Earth.html) (2026-01-18)
+- [Starting from scratch: Training a 30M Topological Transformer](https://www.tuned.org.uk/posts/013_the_topological_transformer_training_tauformer) (2026-01-18)
+- [Throwing it all away over the Mercator projection](https://danieldrezner.substack.com/p/what-is-trump-even-doing-at-this) (2026-01-18)
+- [Stop calling it vibe coding](https://davekiss.com/blog/agentic-coding/) (2026-01-18)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Introduction to Git and Github](https://dev.to/kuria_dd8316139db3dea9c85/introduction-to-git-and-github-230e) (2026-01-18)
-- [Understanding Git and GitHub: A Biginners Guide](https://dev.to/josepho_okwemba_a02e2378a/understanding-git-and-github-a-biginners-guide-4gho) (2026-01-18)
-- [Java Multithreading/Concurrency](https://dev.to/achavan/java-multithreadingconcurrency-f4a) (2026-01-18)
-- [SEO + RAO + Access = Lead](https://dev.to/antonmb/seo-rao-access-lead-49p9) (2026-01-18)
-- [🚀 Getting Started with Git and GitHub: A Beginner’s Guide](https://dev.to/njokijoan003commits/getting-started-with-git-and-github-a-beginners-guide-2k93) (2026-01-18)
+- [Setting Up Custom Domains in Lovable: Subdomain Design & A+TXT Records](https://dev.to/tielec-takashi/setting-up-custom-domains-in-lovable-subdomain-design-atxt-records-3ee5) (2026-01-18)
+- [LET'S GIT IT—A Beginner's Guide to Version Control.](https://dev.to/brian_muchoki_79c404aa499/lets-git-it-a-beginners-guide-to-version-control-1l51) (2026-01-18)
+- [📱 Your Child Is Still Awake: Raising Kids in a World of Screens and AI](https://dev.to/jeanphilippe_ulpiano_46b/your-child-is-still-awake-raising-kids-in-a-world-of-screens-and-ai-1kk7) (2026-01-18)
+- [Protecting Your Website with Cloudflare: Security, Performance, and Reliability [Part 2]](https://dev.to/bemals_dvanitha_5b14b68f9/protecting-your-website-with-cloudflare-security-performance-and-reliability-part-2-4b) (2026-01-18)
+- [Session-Based Authentication VS Token-Based Authentication](https://dev.to/tamjid_ahmed_e9bea176abee/session-based-authentication-vs-token-based-authentication-10e7) (2026-01-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Apigee Just Got Smarter: How MCP Support Is Making AI Agents Actually Useful (And Secure)](https://medium.com/mern-mastery/apigee-just-got-smarter-how-mcp-support-is-making-ai-agents-actually-useful-and-secure-171a5dd8655b?source=rss------programming-5) (2026-01-18)
-- [Two-step GKE upgrade: Google’s new safe Kubernetes rollback feature](https://medium.com/mern-mastery/two-step-gke-upgrade-googles-new-safe-kubernetes-rollback-feature-6f16e7306711?source=rss------programming-5) (2026-01-18)
-- [10 “Secrets” Senior Developers Rarely Tell Junior Devs](https://medium.com/@gitesky14/10-secrets-senior-developers-rarely-tell-junior-devs-f762eb62d984?source=rss------programming-5) (2026-01-18)
-- [I Stopped Treating AI Like a Brain and Started Treating It Like Infrastructure.](https://ai.plainenglish.io/i-stopped-treating-ai-like-a-brain-and-started-treating-it-like-infrastructure-d56ef4313ca6?source=rss------programming-5) (2026-01-18)
-- [The Hidden Linux Networking Commands I Use Every Day](https://medium.com/codex/the-hidden-linux-networking-commands-i-use-every-day-b6b613b6be73?source=rss------programming-5) (2026-01-18)
+- [The Boring Python Script That Quietly Replaced an Entire Workflow](https://python.plainenglish.io/the-boring-python-script-that-quietly-replaced-an-entire-workflow-11c712ee6b4a?source=rss------programming-5) (2026-01-18)
+- [My Journey as an Aspiring Data Analyst](https://medium.com/@mdsahil0624/my-journey-as-an-aspiring-data-analyst-67d2edf4d503?source=rss------programming-5) (2026-01-18)
+- [Prompting as a System: A Methodology for Professionals Seeking Reliable Business Outcomes](https://medium.com/@pandya.dhananjay25/prompting-as-a-system-a-methodology-for-professionals-seeking-reliable-business-outcomes-66a1bd8008bc?source=rss------programming-5) (2026-01-18)
+- [The 2× Traffic Trap: How Spring Boot Apps Fail Before They Truly Scale](https://medium.com/data-science-collective/the-2-traffic-trap-how-spring-boot-apps-fail-before-they-truly-scale-59ad8eefeee2?source=rss------programming-5) (2026-01-18)
+- [SoliVagas: a criação de um aplicativo brasileiro voltado à divulgação de oportunidades de trabalho…](https://medium.com/@davihebert017/solivagas-a-cria%C3%A7%C3%A3o-de-um-aplicativo-brasileiro-voltado-%C3%A0-divulga%C3%A7%C3%A3o-de-oportunidades-de-trabalho-c23dc95ee33e?source=rss------programming-5) (2026-01-18)
 
 </details>
 
@@ -130,11 +130,22 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
-- [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
 - [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
 - [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
 - [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
+- [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
+- [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
+
+</details>
+
+<details>
+<summary>🎮 NVIDIA Blog</summary>
+
+- [Survive the Quarantine Zone and More With Devolver Digital Games on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-quarantine-zone/) (2026-01-15)
+- [CEOs of NVIDIA and Lilly Share ‘Blueprint for What Is Possible’ in AI and Drug Discovery](https://blogs.nvidia.com/blog/jpmorgan-healthcare-nvidia-lilly/) (2026-01-13)
+- [AI’s Next Revolution: Multiply Labs Is Scaling Robotics-Driven Cell Therapy Biomanufacturing Labs](https://blogs.nvidia.com/blog/multiply-labs-isaac-omniverse/) (2026-01-12)
+- [NVIDIA Unveils Multi-Agent Intelligent Warehouse and Catalog Enrichment AI Blueprints to Power the Retail Pipeline](https://blogs.nvidia.com/blog/multi-agent-intelligent-warehouse-and-catalog-enrichment-blueprints/) (2026-01-09)
+- [AI Copilot Keeps Berkeley’s X-Ray Particle Accelerator on Track](https://blogs.nvidia.com/blog/ai-copilot-berkeley-x-ray-particle-accelerator/) (2026-01-08)
 
 </details>
 
@@ -371,10 +382,10 @@ SIGNAL London 2025 had something for everyone
 https://www.twilio.com/en-us/blog/events/signal-london-2025-recap
 ) (2026-01-13)
 - [
-Behind the Builder: Justinus Kho, Staff Product Data Analyst
+SMS vs. Push Notifications: What's the Difference in 2026?
 ](
-https://www.twilio.com/en-us/blog/company/spotlights/behind-the-builder-Justinus-Twilio
-) (2026-01-07)
+https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notifications
+) (2026-01-11)
 
 </details>
 
