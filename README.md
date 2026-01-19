@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Sequoia to invest in Anthropic, breaking VC taboo on backing rivals: FT](https://techcrunch.com/2026/01/18/sequoia-to-invest-in-anthropic-breaking-vc-taboo-on-backing-rivals-ft/) (2026-01-18)
 - [TechCrunch Mobility: ‘Physical AI’ enters the hype machine](https://techcrunch.com/2026/01/18/techcrunch-mobility-physical-ai-enters-the-hype-machine/) (2026-01-18)
 - [Threads edges out X in daily mobile users, new data shows](https://techcrunch.com/2026/01/18/threads-edges-out-x-in-daily-mobile-users-new-data-shows/) (2026-01-18)
 - [How YC-backed Bucket Robotics survived its first CES](https://techcrunch.com/2026/01/18/how-yc-backed-bucket-robotics-survived-its-first-ces/) (2026-01-18)
 - [Moxie Marlinspike has a privacy-conscious alternative to ChatGPT](https://techcrunch.com/2026/01/18/moxie-marlinspike-has-a-privacy-conscious-alternative-to-chatgpt/) (2026-01-18)
-- [Why Silicon Valley is really talking about fleeing California (it’s not the 5%)](https://techcrunch.com/2026/01/17/why-silicon-valley-is-really-talking-about-fleeing-california-its-not-the-5/) (2026-01-18)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Gaussian Splatting – A$AP Rocky Helicopter Music Video](https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting) (2026-01-18)
-- [How the Lobsters front page works](https://atharvaraykar.com/lobsters/) (2026-01-18)
-- [The Nobel Prize and the Laureate Are Inseparable](https://www.nobelpeaceprize.org/press/press-releases/the-nobel-prize-and-the-laureate-are-inseparable) (2026-01-18)
-- [Stop using MySQL in 2026, it is not true open source](https://optimizedbyotto.com/post/reasons-to-stop-using-mysql/) (2026-01-18)
-- [Purdue blocks admission of many Chinese grad students in unwritten policy](https://www.science.org/content/article/purdue-blocks-admission-many-chinese-grad-students-unwritten-policy) (2026-01-18)
+- [Show HN: I quit coding years ago. AI brought me back](https://calquio.com) (2026-01-19)
+- [Prediction: Microsoft Is Going to Do the Funniest Thing Imaginable](https://gamesbymason.com/blog/2026/microsoft/) (2026-01-18)
+- [Simple GIS on Potato](https://github.com/blue-monads/potato-apps/tree/master/cimple-gis) (2026-01-18)
+- [Show HN: Beats, a web-based drum machine](https://beats.lasagna.pizza) (2026-01-18)
+- [Police Invested Millions in Shadowy Phone-Tracking Software Won't Say How Used](https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/) (2026-01-18)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [You need to listen to the cosmic horror-comedy podcast Welcome to Night Vale](https://www.theverge.com/column/864078/cosmic-horror-comedy-podcast-welcome-to-night-vale) (2026-01-18)
 - [Microsoft’s first Windows 11 update of 2026 stopped some computers from shutting down](https://www.theverge.com/news/864032/microsofts-out-of-band-windows-11-update-bug) (2026-01-18)
 - [Here are the 10 deals worth grabbing from Best Buy’s winter sales event](https://www.theverge.com/gadgets/863660/best-buy-winter-sale-2026-oled-tvs-headphones-fitness-trackers-deal-sale) (2026-01-18)
 - [Kaoss Pad V is the first major upgrade to Korg’s touch-based effects in 13 years](https://www.theverge.com/news/864003/korg-kaoss-pad-v-namm) (2026-01-18)
 - [Why Coinbase derailed the crypto industry’s political future](https://www.theverge.com/policy/864008/senate-clarity-act-coinbase-crypto-market) (2026-01-18)
-- [Under Musk, the Grok disaster was inevitable](https://www.theverge.com/column/863502/grok-deepfake-musk) (2026-01-18)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Supply Chain Orchestration for dummies](https://dev.to/intersystems/supply-chain-orchestration-for-dummies-2j66) (2026-01-18)
-- [Part 1 - Vercel to VPS](https://dev.to/bkanhu/part-1-vercel-to-vps-1odj) (2026-01-18)
-- [Git Source Control Best Practices with IRIS in VSCode](https://dev.to/intersystems/git-source-control-best-practices-with-iris-in-vscode-3ilg) (2026-01-18)
-- [I Built Qreasure: QR Code Treasure Hunts in Minutes, Now 50% Off](https://dev.to/vulcanwm/i-built-qreasure-qr-code-treasure-hunts-in-minutes-now-50-off-17l3) (2026-01-18)
-- [Build a Self-Evolving Memory Agent in 150 Lines](https://dev.to/narnaiezzsshaa/build-a-self-evolving-memory-agent-in-150-lines-lad) (2026-01-18)
+- [Building a High-Concurrency Web Crawler in Go: A Practical Guide](https://dev.to/jones_charles_ad50858dbc0/building-a-high-concurrency-web-crawler-in-go-a-practical-guide-i3a) (2026-01-19)
+- [Earned Complexity: A Disciplined, Evidence-Based Framework](https://dev.to/grantwatsondev/earned-complexity-a-disciplined-evidence-based-framework-54pn) (2026-01-19)
+- [Portfolio Dungeon Crawler](https://dev.to/austin_amento_860aebb9f55/portfolio-dungeon-crawler-4286) (2026-01-19)
+- [OCI Architecture Foundations: How Regions, Domains, and IAM Actually Fit Together](https://dev.to/hiltonj/oci-architecture-foundations-how-regions-domains-and-iam-actually-fit-together-jgj) (2026-01-19)
+- [Build an Autonomous AI Nutritionist: From Blood Sugar Prediction to Instacart Checkout](https://dev.to/beck_moulton/build-an-autonomous-ai-nutritionist-from-blood-sugar-prediction-to-instacart-checkout-544n) (2026-01-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ Master the Entire Authentication Framework in One Article in Spring boot](https://medium.com/@umeshcapg/master-the-entire-authentication-framework-in-one-article-in-spring-boot-aa517fd53e8d?source=rss------programming-5) (2026-01-18)
-- [Stop Using DbContext Directly in Your Services (The Repository Pattern Explained)](https://medium.com/@michaelmaurice410/stop-using-dbcontext-directly-in-your-services-the-repository-pattern-explained-1b66f5b3d8da?source=rss------programming-5) (2026-01-18)
-- [10 Must-Know Software Design Patterns for Object-Oriented Development in C++](https://medium.com/swe-insights/10-must-know-software-design-patterns-for-object-oriented-development-in-c-7ec5587c165c?source=rss------programming-5) (2026-01-18)
-- [One Trick to Improve EF Core Performance Using Query Splitting in .NET 10 (A Deep, Practical Guide)](https://medium.com/@mariammaurice/one-trick-to-improve-ef-core-performance-using-query-splitting-in-net-10-a-deep-practical-guide-92439e15643a?source=rss------programming-5) (2026-01-18)
-- [How to Customize an In-Game Calendar in Python Tkinter with CQCalendar](https://medium.com/@codequest4/how-to-customize-an-in-game-calendar-in-python-tkinter-with-cqcalendar-bb4e61f250d1?source=rss------programming-5) (2026-01-18)
+- [Llama 4 Just Unlocked a 10M Context Window — Why Your RAG Strategy is Officially Legacy](https://medium.com/@swayam.prem2458/llama-4-just-unlocked-a-10m-context-window-why-your-rag-strategy-is-officially-legacy-eac8e27a7d48?source=rss------programming-5) (2026-01-19)
+- [BootcampCode 3.03: Testing React](https://primerpy.medium.com/bootcampcode-3-03-testing-react-fdc46d8ba8e1?source=rss------programming-5) (2026-01-19)
+- [Originally published on my personal blog — check it out for more articles about my journey from…](https://medium.com/@rasyidialwee_38101/originally-published-on-my-personal-blog-check-it-out-for-more-articles-about-my-journey-from-1636ce983b61?source=rss------programming-5) (2026-01-19)
+- [15 Best Free APIs Every Developer Should Know in 2026](https://medium.com/@sunil17bbmp/15-best-free-apis-every-developer-should-know-in-2026-ca250759e377?source=rss------programming-5) (2026-01-19)
+- [Cute Puppy Coloring Page for Kids: Fun & Creative Art](https://medium.com/@kumarasingalahiru/cute-puppy-coloring-page-for-kids-fun-creative-art-2bb31bcb4934?source=rss------programming-5) (2026-01-19)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
-- [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
 - [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
 - [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
 - [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
+- [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
+- [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 
 </details>
 
