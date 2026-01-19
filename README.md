@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: I quit coding years ago. AI brought me back](https://calquio.com) (2026-01-19)
-- [Prediction: Microsoft Is Going to Do the Funniest Thing Imaginable](https://gamesbymason.com/blog/2026/microsoft/) (2026-01-18)
-- [Simple GIS on Potato](https://github.com/blue-monads/potato-apps/tree/master/cimple-gis) (2026-01-18)
-- [Show HN: Beats, a web-based drum machine](https://beats.lasagna.pizza) (2026-01-18)
-- [Police Invested Millions in Shadowy Phone-Tracking Software Won't Say How Used](https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/) (2026-01-18)
+- [Show HN: AWS-doctor – A terminal-based AWS health check and cost optimizer in Go](https://github.com/elC0mpa/aws-doctor) (2026-01-19)
+- [All your OpenCodes belong to us](https://johncodes.com/archive/2026/01-18-all-your-opencodes/) (2026-01-19)
+- [The Code-Only Agent](https://rijnard.com/blog/the-code-only-agent) (2026-01-19)
+- [High-speed train collision in Spain kills at least 21](https://www.bbc.com/news/articles/cedw6ylpynyo) (2026-01-18)
+- [Ultrathink is deprecated & How to enable 2x thinking tokens in Claude Code](https://decodeclaude.com/ultrathink-deprecated/) (2026-01-18)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building a High-Concurrency Web Crawler in Go: A Practical Guide](https://dev.to/jones_charles_ad50858dbc0/building-a-high-concurrency-web-crawler-in-go-a-practical-guide-i3a) (2026-01-19)
-- [Earned Complexity: A Disciplined, Evidence-Based Framework](https://dev.to/grantwatsondev/earned-complexity-a-disciplined-evidence-based-framework-54pn) (2026-01-19)
-- [Portfolio Dungeon Crawler](https://dev.to/austin_amento_860aebb9f55/portfolio-dungeon-crawler-4286) (2026-01-19)
-- [OCI Architecture Foundations: How Regions, Domains, and IAM Actually Fit Together](https://dev.to/hiltonj/oci-architecture-foundations-how-regions-domains-and-iam-actually-fit-together-jgj) (2026-01-19)
-- [Build an Autonomous AI Nutritionist: From Blood Sugar Prediction to Instacart Checkout](https://dev.to/beck_moulton/build-an-autonomous-ai-nutritionist-from-blood-sugar-prediction-to-instacart-checkout-544n) (2026-01-19)
+- [🌸 Bloom Update — New Features, Fixes, and a More Polished Experience](https://dev.to/codebunny20/bloom-update-new-features-fixes-and-a-more-polished-experience-1jii) (2026-01-19)
+- [Playwright Reporting Breaks Down as Your Suite Grows (and How a Test Dashboard Fixes It)](https://dev.to/testdino01/playwright-reporting-breaks-down-as-your-suite-grows-and-how-a-test-dashboard-fixes-it-k20) (2026-01-19)
+- [Why do I come back to the same songs during hard moments?](https://dev.to/luca_dark_rnb/why-do-i-come-back-to-the-same-songs-during-hard-moments-1kji) (2026-01-19)
+- [How I Built an AI-Powered PR Reviewer in 15 Minutes Using Agentform](https://dev.to/nirberko/how-i-built-an-ai-powered-pr-reviewer-in-15-minutes-using-agentform-4l1p) (2026-01-19)
+- [I'm making a solo, dungeon crawling card game!](https://dev.to/thejaydevofficial/im-making-a-solo-dungeon-crawling-card-game-p4l) (2026-01-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Llama 4 Just Unlocked a 10M Context Window — Why Your RAG Strategy is Officially Legacy](https://medium.com/@swayam.prem2458/llama-4-just-unlocked-a-10m-context-window-why-your-rag-strategy-is-officially-legacy-eac8e27a7d48?source=rss------programming-5) (2026-01-19)
-- [BootcampCode 3.03: Testing React](https://primerpy.medium.com/bootcampcode-3-03-testing-react-fdc46d8ba8e1?source=rss------programming-5) (2026-01-19)
-- [Originally published on my personal blog — check it out for more articles about my journey from…](https://medium.com/@rasyidialwee_38101/originally-published-on-my-personal-blog-check-it-out-for-more-articles-about-my-journey-from-1636ce983b61?source=rss------programming-5) (2026-01-19)
-- [15 Best Free APIs Every Developer Should Know in 2026](https://medium.com/@sunil17bbmp/15-best-free-apis-every-developer-should-know-in-2026-ca250759e377?source=rss------programming-5) (2026-01-19)
-- [Cute Puppy Coloring Page for Kids: Fun & Creative Art](https://medium.com/@kumarasingalahiru/cute-puppy-coloring-page-for-kids-fun-creative-art-2bb31bcb4934?source=rss------programming-5) (2026-01-19)
+- [Reverse Nodes in k-Group: A Step-by-Step Guide](https://medium.com/@kajaltiwary9144/reverse-nodes-in-k-group-a-step-by-step-guide-b699705f15c9?source=rss------programming-5) (2026-01-19)
+- [Building a Local-First Mobile App with .NET MAUI: Why I Chose a Language I Don’t Love](https://medium.com/@tl2do/building-a-local-first-mobile-app-with-net-maui-why-i-chose-a-language-i-dont-love-3a13273a2824?source=rss------programming-5) (2026-01-19)
+- [How Senior Engineers Keep Their Git History Clean (And Why You Should Too)](https://medium.com/the-software-journal/how-senior-engineers-keep-their-git-history-clean-and-why-you-should-too-d5e968d6f938?source=rss------programming-5) (2026-01-19)
+- [HormigasAIS: El Despertar de la Inteligencia Soberana (Parte I)](https://hormigasaiscristhiamquinonez.medium.com/hormigasais-el-despertar-de-la-inteligencia-soberana-parte-i-d4ccac83edce?source=rss------programming-5) (2026-01-19)
+- [C++23 Series: 1. Enter… “std::println”](https://erickof.medium.com/c-23-series-1-enter-std-println-6947917c1ba3?source=rss------programming-5) (2026-01-19)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
+- [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
 - [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
 - [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
 - [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
-- [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
-- [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>💬 Slack API</summary>
 
+- [Agentic Automation: What It Is and How It Works](https://slack.com/blog/productivity/agentic-automation-guide) (2026-01-16)
+- [Understanding Knowledge Retrieval and Why It’s Valuable to Businesses](https://slack.com/blog/collaboration/knowledge-retrieval) (2026-01-16)
+- [AI Task Automation: Benefits, Tools, and Use Cases](https://slack.com/blog/productivity/ai-task-automation-guide) (2026-01-16)
 - [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-01-13)
 - [12 Project Management Techniques for Better Collaboration and Efficiency](https://slack.com/blog/productivity/project-management-techniques) (2026-01-07)
-- [Best Team Collaboration Tools for Productivity in 2026](https://slack.com/blog/collaboration/best-collaboration-tools) (2026-01-07)
-- [What is a Knowledge Graph?](https://slack.com/blog/developers/knowledge-graph) (2026-01-05)
-- [Eight Active Listening Strategies for Better Communication](https://slack.com/blog/collaboration/active-listening) (2026-01-05)
 
 </details>
 
@@ -579,11 +579,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [What is Context Window in LLM? Explained in 2 Minutes](https://www.analyticsvidhya.com/blog/2026/01/context-window-in-llm/) (2026-01-19)
 - [8 Types of Environments in AI](https://www.analyticsvidhya.com/blog/2026/01/types-of-environments-in-ai/) (2026-01-18)
 - [Top 100 Data Science Interview Questions and Answers (2026 Edition)](https://www.analyticsvidhya.com/blog/2026/01/data-science-interview-questions/) (2026-01-18)
 - [Prompt Engineering Guide 2026](https://www.analyticsvidhya.com/blog/2026/01/master-prompt-engineering/) (2026-01-17)
 - [Getting Started with Strands Agents](https://www.analyticsvidhya.com/blog/2026/01/getting-started-with-strands-agents/) (2026-01-17)
-- [GATE DA 2026: Study Material and Practice Questions](https://www.analyticsvidhya.com/blog/2026/01/gate-da-study-material-and-questions/) (2026-01-16)
 
 </details>
 
