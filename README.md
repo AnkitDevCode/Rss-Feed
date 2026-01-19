@@ -31,44 +31,44 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: AWS-doctor – A terminal-based AWS health check and cost optimizer in Go](https://github.com/elC0mpa/aws-doctor) (2026-01-19)
-- [All your OpenCodes belong to us](https://johncodes.com/archive/2026/01-18-all-your-opencodes/) (2026-01-19)
-- [The Code-Only Agent](https://rijnard.com/blog/the-code-only-agent) (2026-01-19)
-- [High-speed train collision in Spain kills at least 21](https://www.bbc.com/news/articles/cedw6ylpynyo) (2026-01-18)
-- [Ultrathink is deprecated & How to enable 2x thinking tokens in Claude Code](https://decodeclaude.com/ultrathink-deprecated/) (2026-01-18)
+- [Show HN: Kacet – a freelancer marketplace with crypto-native payments](https://kacet.com/) (2026-01-19)
+- [RISC-V is coming along quite speedily: Milk-V Titan Mini-ITX 8-core board](https://www.tomshardware.com/pc-components/cpus/milk-v-titan-mini-ix-board-with-ur-dp1000-processor-shows-risc-v-ecosystem-taking-shape-m-2-ddr4-and-pcie-card-support-form-a-kit-that-you-can-use-out-of-the-box) (2026-01-19)
+- [Wikipedia: WikiProject AI Cleanup](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup) (2026-01-19)
+- [Greenpeace pilot brings heat pumps and solar to Ukrainian community](https://www.pveurope.eu/power2heat/greenpeace-pilot-brings-heat-pumps-and-solar-ukrainian-community) (2026-01-19)
+- [Radboud University selects Fairphone as standard smartphone for employees](https://www.ru.nl/en/staff/news/radboud-university-selects-fairphone-as-standard-smartphone-for-employees) (2026-01-19)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Threads overtakes X on mobile, but still lags far behind](https://www.theverge.com/news/864099/threads-overtakes-x-daily-mobile-ios-android-users) (2026-01-19)
 - [You need to listen to the cosmic horror-comedy podcast Welcome to Night Vale](https://www.theverge.com/column/864078/cosmic-horror-comedy-podcast-welcome-to-night-vale) (2026-01-18)
 - [Microsoft’s first Windows 11 update of 2026 stopped some computers from shutting down](https://www.theverge.com/news/864032/microsofts-out-of-band-windows-11-update-bug) (2026-01-18)
 - [Here are the 10 deals worth grabbing from Best Buy’s winter sales event](https://www.theverge.com/gadgets/863660/best-buy-winter-sale-2026-oled-tvs-headphones-fitness-trackers-deal-sale) (2026-01-18)
 - [Kaoss Pad V is the first major upgrade to Korg’s touch-based effects in 13 years](https://www.theverge.com/news/864003/korg-kaoss-pad-v-namm) (2026-01-18)
-- [Why Coinbase derailed the crypto industry’s political future](https://www.theverge.com/policy/864008/senate-clarity-act-coinbase-crypto-market) (2026-01-18)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [10 things I learned from burning myself out with AI coding agents](https://arstechnica.com/information-technology/2026/01/10-things-i-learned-from-burning-myself-out-with-ai-coding-agents/) (2026-01-19)
 - [Ocean damage nearly doubles the cost of climate change](https://arstechnica.com/science/2026/01/ocean-damage-nearly-doubles-the-cost-of-climate-change/) (2026-01-18)
 - [Meta’s layoffs leave Supernatural fitness users in mourning](https://arstechnica.com/gadgets/2026/01/metas-layoffs-leave-supernatural-fitness-users-in-mourning/) (2026-01-17)
 - [Managers on alert for “launch fever” as pressure builds for NASA’s Moon mission](https://arstechnica.com/space/2026/01/managers-on-alert-for-launch-fever-as-pressure-builds-for-nasas-moon-mission/) (2026-01-17)
 - [Rackspace customers grapple with “devastating” email hosting price hike](https://arstechnica.com/information-technology/2026/01/rackspace-raises-email-hosting-prices-by-as-much-as-706-percent/) (2026-01-16)
-- [Archaeologists find a supersized medieval shipwreck in Denmark](https://arstechnica.com/science/2026/01/archaeologists-find-a-supersized-medieval-shipwreck-in-denmark/) (2026-01-16)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Going beyond pilots with composable and sovereign AI](https://www.technologyreview.com/2026/01/19/1131422/going-beyond-pilots-with-composable-and-sovereign-ai/) (2026-01-19)
+- [What it’s like to be banned from the US for fighting online hate](https://www.technologyreview.com/2026/01/19/1131384/what-its-like-to-be-banned-from-the-us-for-fighting-online-hate/) (2026-01-19)
 - [The Download: cut through AI coding hype, and biotech trends to watch](https://www.technologyreview.com/2026/01/16/1131375/the-download-ai-coding-hype-and-biotech-trends-to-watch/) (2026-01-16)
 - [Three technologies that will shape biotech in 2026](https://www.technologyreview.com/2026/01/16/1131363/three-technologies-shape-biotech-in-2026-gene-editing-embryo-scoring/) (2026-01-16)
 - [Exclusive eBook: How AGI Became a Consequential Conspiracy Theory](https://www.technologyreview.com/2026/01/15/1131079/exclusive-ebook-how-agi-became-a-consequential-conspiracy-theory/) (2026-01-15)
-- [The Download: spying on the spies, and promising climate tech](https://www.technologyreview.com/2026/01/15/1131361/the-download-spying-on-the-spies-and-promising-climate-tech/) (2026-01-15)
-- [Three climate technologies breaking through in 2026](https://www.technologyreview.com/2026/01/15/1131348/climate-technologies-2026/) (2026-01-15)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [🌸 Bloom Update — New Features, Fixes, and a More Polished Experience](https://dev.to/codebunny20/bloom-update-new-features-fixes-and-a-more-polished-experience-1jii) (2026-01-19)
-- [Playwright Reporting Breaks Down as Your Suite Grows (and How a Test Dashboard Fixes It)](https://dev.to/testdino01/playwright-reporting-breaks-down-as-your-suite-grows-and-how-a-test-dashboard-fixes-it-k20) (2026-01-19)
-- [Why do I come back to the same songs during hard moments?](https://dev.to/luca_dark_rnb/why-do-i-come-back-to-the-same-songs-during-hard-moments-1kji) (2026-01-19)
-- [How I Built an AI-Powered PR Reviewer in 15 Minutes Using Agentform](https://dev.to/nirberko/how-i-built-an-ai-powered-pr-reviewer-in-15-minutes-using-agentform-4l1p) (2026-01-19)
-- [I'm making a solo, dungeon crawling card game!](https://dev.to/thejaydevofficial/im-making-a-solo-dungeon-crawling-card-game-p4l) (2026-01-19)
+- [AI Isn’t Replacing Developers—It’s Exposing Execution Gaps in Teams](https://dev.to/workelate123/ai-isnt-replacing-developers-its-exposing-execution-gaps-in-teams-34jf) (2026-01-19)
+- [Accidentally Pushed Your .env Again? 😱 Let’s Fix That Forever with .gitignore](https://dev.to/vasughanta09/accidentally-pushed-your-env-again-lets-fix-that-forever-with-gitignore-1ibn) (2026-01-19)
+- [Helm Chart Best Practices - What Every DevOps Engineer Should Know](https://dev.to/atmosly/helm-chart-best-practices-what-every-devops-engineer-should-know-4eeb) (2026-01-19)
+- [Idealização e escolha de tecnologias](https://dev.to/ruanaragao/idealizacao-e-escolha-de-tecnologias-10nk) (2026-01-19)
+- [❤️‍🔥 VIKRAM (32-bit) & DHRUV64 (64-bit): India’s Indigenous Processors for Space 🛰 and Defence 🔰](https://dev.to/hemant_007/vikram-32-bit-dhruv64-64-bit-indias-indigenous-processors-for-space-and-defence-1ap6) (2026-01-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Reverse Nodes in k-Group: A Step-by-Step Guide](https://medium.com/@kajaltiwary9144/reverse-nodes-in-k-group-a-step-by-step-guide-b699705f15c9?source=rss------programming-5) (2026-01-19)
-- [Building a Local-First Mobile App with .NET MAUI: Why I Chose a Language I Don’t Love](https://medium.com/@tl2do/building-a-local-first-mobile-app-with-net-maui-why-i-chose-a-language-i-dont-love-3a13273a2824?source=rss------programming-5) (2026-01-19)
-- [How Senior Engineers Keep Their Git History Clean (And Why You Should Too)](https://medium.com/the-software-journal/how-senior-engineers-keep-their-git-history-clean-and-why-you-should-too-d5e968d6f938?source=rss------programming-5) (2026-01-19)
-- [HormigasAIS: El Despertar de la Inteligencia Soberana (Parte I)](https://hormigasaiscristhiamquinonez.medium.com/hormigasais-el-despertar-de-la-inteligencia-soberana-parte-i-d4ccac83edce?source=rss------programming-5) (2026-01-19)
-- [C++23 Series: 1. Enter… “std::println”](https://erickof.medium.com/c-23-series-1-enter-std-println-6947917c1ba3?source=rss------programming-5) (2026-01-19)
+- [9 Python Libraries That Replace Entire Data Pipelines](https://medium.com/codetodeploy/9-python-libraries-that-replace-entire-data-pipelines-e141a1809df8?source=rss------programming-5) (2026-01-19)
+- [Git ve GitHub Nedir?](https://medium.com/@hsdtrabzon/git-ve-github-nedir-42ce8f5decad?source=rss------programming-5) (2026-01-19)
+- [I Knew Kotlin… But I Didn’t Understand What Was Really Happening](https://theadityatiwari.medium.com/i-knew-kotlin-but-i-didnt-understand-what-was-really-happening-e2c4da7a3abc?source=rss------programming-5) (2026-01-19)
+- [Top 9 PHP Errors That Still Haunt Me (Even After Years of Coding)](https://medium.com/illumination/top-9-php-errors-that-still-haunt-me-even-after-years-of-coding-310527fd5665?source=rss------programming-5) (2026-01-19)
+- [PART 1: Why I Built Two Gas-Optimized Vaults on L2s (And What I Learned)](https://medium.com/@zkMarc/part-1-why-i-built-two-gas-optimized-vaults-on-l2s-and-what-i-learned-82863d95c24c?source=rss------programming-5) (2026-01-19)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
-- [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
 - [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
 - [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
 - [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
+- [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
+- [Introducing GPT-5.2 in Microsoft Foundry: The new standard for enterprise AI](https://azure.microsoft.com/en-us/blog/introducing-gpt-5-2-in-microsoft-foundry-the-new-standard-for-enterprise-ai/) (2025-12-11)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Platform Debugger Architecture Redesign for Remote Development in 2026.1](https://blog.jetbrains.com/platform/2026/01/platform-debugger-architecture-redesign-for-remote-development-in-2026-1/) (2026-01-19)
 - [Update your Kotlin projects for Android Gradle Plugin 9.0](https://blog.jetbrains.com/kotlin/2026/01/update-your-projects-for-agp9/) (2026-01-16)
 - [TransformConf: a New Conference on AI in Software Development](https://blog.jetbrains.com/blog/2026/01/15/transformconf-a-new-conference-on-ai-in-software-development/) (2026-01-15)
 - [Scala 3.8 Support in the Scala Plugin](https://blog.jetbrains.com/scala/2026/01/15/scala-38-support-in-the-scala-plugin/) (2026-01-15)
 - [Introducing Global Project Configuration: One Place to Manage All Your Qodana Rules](https://blog.jetbrains.com/qodana/2026/01/introducing-global-project-configuration-one-place-to-manage-all-your-qodana-rules/) (2026-01-14)
-- [Insights Into China’s Developer Landscape: Key Trends From the JetBrains Developer Ecosystem Survey 2025](https://blog.jetbrains.com/research/2026/01/insights-into-china-s-developer-landscape-key-trends/) (2026-01-13)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>💬 Slack API</summary>
 
-- [Agentic Automation: What It Is and How It Works](https://slack.com/blog/productivity/agentic-automation-guide) (2026-01-16)
-- [Understanding Knowledge Retrieval and Why It’s Valuable to Businesses](https://slack.com/blog/collaboration/knowledge-retrieval) (2026-01-16)
-- [AI Task Automation: Benefits, Tools, and Use Cases](https://slack.com/blog/productivity/ai-task-automation-guide) (2026-01-16)
 - [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-01-13)
 - [12 Project Management Techniques for Better Collaboration and Efficiency](https://slack.com/blog/productivity/project-management-techniques) (2026-01-07)
+- [Best Team Collaboration Tools for Productivity in 2026](https://slack.com/blog/collaboration/best-collaboration-tools) (2026-01-07)
+- [What is a Knowledge Graph?](https://slack.com/blog/developers/knowledge-graph) (2026-01-05)
+- [Eight Active Listening Strategies for Better Communication](https://slack.com/blog/collaboration/active-listening) (2026-01-05)
 
 </details>
 
@@ -557,33 +557,33 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>🤖 AI News</summary>
 
+- [JPMorgan Chase treats AI spending as core infrastructure](https://www.artificialintelligence-news.com/news/jpmorgan-chase-treats-ai-spending-as-core-infrastructure/) (2026-01-19)
 - [Retailers bring conversational AI and analytics closer to the user](https://www.artificialintelligence-news.com/news/retailers-bring-conversational-ai-and-analytics-closer-to-the-user/) (2026-01-16)
 - [Banks operationalise as Plumery AI launches standardised integration](https://www.artificialintelligence-news.com/news/banks-operationalise-ai-as-plumery-ai-launches-standardised-integration/) (2026-01-16)
 - [AI dominated the conversation in 2025, CIOs shift gears in 2026](https://www.artificialintelligence-news.com/news/ai-predictions-dominated-the-conversation-in-2025-cios-shift-gears-in-2026/) (2026-01-15)
 - [Meeting the new ETSI standard for AI security](https://www.artificialintelligence-news.com/news/meeting-the-new-etsi-standard-for-ai-security/) (2026-01-15)
-- [McKinsey tests AI chatbot in early stages of graduate recruitment](https://www.artificialintelligence-news.com/news/mckinsey-tests-ai-chatbot-in-early-stages-of-graduate-recruitment/) (2026-01-15)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Time Series Isn’t Enough: How Graph Neural Networks Change Demand Forecasting](https://towardsdatascience.com/time-series-isnt-enough-how-graph-neural-networks-change-demand-forecasting/) (2026-01-19)
 - [The Hidden Opportunity in AI Workflow Automation with n8n for Low-Tech Companies](https://towardsdatascience.com/the-hidden-opportunity-in-ai-workflow-automation-with-n8n-for-low-tech-companies/) (2026-01-18)
 - [Why Healthcare Leads in Knowledge Graphs](https://towardsdatascience.com/why-healthcare-leads-in-knowledge-graphs/) (2026-01-18)
 - [Data Poisoning in Machine Learning: Why and How People Manipulate Training Data](https://towardsdatascience.com/data-poisoning-in-machine-learning-why-and-how-people-manipulate-training-data/) (2026-01-17)
 - [A Geometric Method to Spot Hallucinations Without an LLM Judge](https://towardsdatascience.com/the-red-bird/) (2026-01-17)
-- [Maximum-Effiency Coding Setup](https://towardsdatascience.com/maximum-effiency-coding-setup/) (2026-01-16)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [How I Created an AI Comic Using Gemini 3 and NotebookLM](https://www.analyticsvidhya.com/blog/2026/01/ai-comic-generation/) (2026-01-19)
 - [What is Context Window in LLM? Explained in 2 Minutes](https://www.analyticsvidhya.com/blog/2026/01/context-window-in-llm/) (2026-01-19)
 - [8 Types of Environments in AI](https://www.analyticsvidhya.com/blog/2026/01/types-of-environments-in-ai/) (2026-01-18)
 - [Top 100 Data Science Interview Questions and Answers (2026 Edition)](https://www.analyticsvidhya.com/blog/2026/01/data-science-interview-questions/) (2026-01-18)
 - [Prompt Engineering Guide 2026](https://www.analyticsvidhya.com/blog/2026/01/master-prompt-engineering/) (2026-01-17)
-- [Getting Started with Strands Agents](https://www.analyticsvidhya.com/blog/2026/01/getting-started-with-strands-agents/) (2026-01-17)
 
 </details>
 
@@ -601,11 +601,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Top 5 Agentic AI Website Builders (That Actually Ship)](https://machinelearningmastery.com/top-5-agentic-ai-website-builders-that-actually-ship/) (2026-01-19)
 - [The Complete Guide to Data Augmentation for Machine Learning](https://machinelearningmastery.com/the-complete-guide-to-data-augmentation-for-machine-learning/) (2026-01-16)
 - [The Beginner’s Guide to Computer Vision with Python](https://machinelearningmastery.com/the-beginners-guide-to-computer-vision-with-python/) (2026-01-15)
 - [Uncertainty in Machine Learning: Probability & Noise](https://machinelearningmastery.com/uncertainty-in-machine-learning-probability-noise/) (2026-01-14)
 - [How to Read a Machine Learning Research Paper in 2026](https://machinelearningmastery.com/how-to-read-a-machine-learning-research-paper-in-2026/) (2026-01-13)
-- [10 Ways to Use Embeddings for Tabular ML Tasks](https://machinelearningmastery.com/10-ways-to-use-embeddings-for-tabular-ml-tasks/) (2026-01-12)
 
 </details>
 
