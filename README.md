@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Meta’s Oversight Board takes up permanent bans in landmark case](https://techcrunch.com/2026/01/20/metas-oversight-board-is-taking-on-its-first-case-focused-the-companys-ability-to-disable-accounts/) (2026-01-20)
+- [Everstone combines Wingify, AB Tasty for $100M+ digital experience optimization platform](https://techcrunch.com/2026/01/20/everstone-combines-wingify-ab-tasty-for-100m-digital-experience-optimization-platform/) (2026-01-20)
 - [Here are the 55 US AI startups that raised $100M or more in 2025](https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/) (2026-01-19)
 - [Well, there goes the metaverse!](https://techcrunch.com/2026/01/19/well-there-goes-the-metaverse/) (2026-01-19)
 - [Rogue agents and shadow AI: Why VCs are betting big on AI security](https://techcrunch.com/2026/01/19/rogue-agents-and-shadow-ai-why-vcs-are-betting-big-on-ai-security/) (2026-01-19)
-- [Looking ahead to 2026: What’s next for Startup Battlefield 200](https://techcrunch.com/2026/01/19/looking-ahead-to-2026-whats-next-for-startup-battlefield-200/) (2026-01-19)
-- [BioticsAI, which won Disrupt’s Battlefield competition in 2023, gains FDA approval for its AI-powered fetal ultrasound product ](https://techcrunch.com/2026/01/19/biotics-ai-battlefield-2023-gains-fda-approval-for-its-ai-powered-fetal-ultrasound-product/) (2026-01-19)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Chatbot Psychosis](https://en.wikipedia.org/wiki/Chatbot_psychosis) (2026-01-20)
-- [x86 prefixes and escape opcodes flowchart](https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html) (2026-01-20)
-- [F-16 Falcon Strike](https://webchrono.pl/F16FalconStrike/index.html) (2026-01-20)
-- [Show HN: Artificial Ivy in the Browser](https://da.nmcardle.com/grow) (2026-01-20)
-- [Legal Structures for Latin American Startups (2021)](https://latamlist.com/legal-structures-for-latin-american-startups/) (2026-01-20)
+- [Channel3 (YC S25) Is Hiring](https://www.ycombinator.com/companies/channel3/jobs/3DIAYYY-backend-engineer) (2026-01-20)
+- [Running Claude Code dangerously (safely)](https://blog.emilburzo.com/2026/01/running-claude-code-dangerously-safely/) (2026-01-20)
+- [Show HN: IP over Avian Carriers with Quality of Service](https://www.rfc-editor.org/rfc/rfc2549.html) (2026-01-20)
+- [I'm addicted to being useful](https://www.seangoedecke.com/addicted-to-being-useful/) (2026-01-20)
+- [String theory can now describe a universe that has dark energy?](https://www.quantamagazine.org/string-theory-can-now-describe-a-universe-that-has-dark-energy-20260114/) (2026-01-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [OpenAI’s 2026 ‘focus’ is ‘practical adoption’](https://www.theverge.com/news/864229/openai-focus-practical-adoption-sarah-friar) (2026-01-19)
-- [How much can a city take?](https://www.theverge.com/policy/864195/minneapolis-ice-invasion-organizing-immigration) (2026-01-19)
-- [A second US Sphere could come to Maryland](https://www.theverge.com/tech/864192/sphere-entertainment-mini-venue-maryland-national-harbor) (2026-01-19)
-- [Bungie’s Marathon shooter launches on March 5th](https://www.theverge.com/news/864146/bungie-marathon-release-date-march-5th-price) (2026-01-19)
-- [Gamers love AI in game dev — they just don&#8217;t know it yet, says Razer&#8217;s CEO](https://www.theverge.com/podcast/863361/razer-ceo-min-liang-tan-ces-2026-ai-gaming-project-ava-interview) (2026-01-19)
+- [Netflix revises Warner Bros. bid to an all-cash offer](https://www.theverge.com/news/863318/netflix-warner-bros-discovery-merger-revision-cash-deal) (2026-01-20)
+- [Spotify is testing a feature that syncs audiobooks with paper editions](https://www.theverge.com/news/864296/spotify-page-match-audiobook-testing-feature) (2026-01-20)
+- [Microsoft’s free Xbox Cloud Gaming is coming soon with ads](https://www.theverge.com/news/864261/xbox-cloud-gaming-free-ads-testing) (2026-01-20)
+- [Sony&#8217;s TV business is being taken over by TCL](https://www.theverge.com/news/864263/sony-tcl-tv-business-partnership-takeover-announcement) (2026-01-20)
+- [Realme promises days of battery from its 10,001mAh phone](https://www.theverge.com/news/864254/realme-promises-days-of-battery-from-its-10001mah-phone) (2026-01-20)
 
 </details>
 
@@ -97,24 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [What Happens When a User Deletes Their Account? A Guide to Rails ActiveRecord dependent: Strategies](https://dev.to/nemwelboniface/what-happens-when-a-user-deletes-their-account-a-guide-to-rails-activerecord-dependent-strategies-1279) (2026-01-20)
-- [The 15 Git Commands Every Software Engineer Uses (And Why They Matter More Than You Think)](https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51) (2026-01-20)
-- [Ringer Movies: ‘Just One of the Guys’ With Bill Simmons, Kyle Brandt, and Joanna Robinson | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-just-one-of-the-guys-with-bill-simmons-kyle-brandt-and-joanna-robinson-the-2gid) (2026-01-20)
-- [Building a minimal Go framework in public (v0.1.3)](https://dev.to/jackprescott/building-a-minimal-go-framework-in-public-v013-3c5o) (2026-01-20)
-- [Developers should understand that software is not disappearing, but low-code AI is quietly absorbing large parts of what traditional software used to do. 
-
-It's time for developers to understand, otherwise they will lose the opportunity.](https://dev.to/jaideepparashar/developers-should-understand-that-software-is-not-disappearing-but-low-code-ai-is-quietly-2dgn) (2026-01-20)
+- [Setup Oracle VirtualBox in Windows 11](https://dev.to/adityapidurkar/setup-oracle-virtualbox-in-windows-11-phm) (2026-01-20)
+- [Why typing tests never helped me improve](https://dev.to/amitgaj/why-typing-tests-never-helped-me-improve-4mlf) (2026-01-20)
+- [Build a Viral Content Predictor Using Early Engagement Signals](https://dev.to/olams/build-a-viral-content-predictor-using-early-engagement-signals-1f2c) (2026-01-20)
+- [Rapg: TUI-based Secret Manager](https://dev.to/kanywst/rapg-tui-based-secret-manager-4d7p) (2026-01-20)
+- [You Don't Need a CLAUDE.md](https://dev.to/byme8/you-dont-need-a-claudemd-jgf) (2026-01-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Stop Using Google Translate Online — Run Google TranslateGemma Locally](https://medium.com/@bytefer/stop-using-google-translate-online-run-google-translategemma-locally-9e99ba7e1cfd?source=rss------programming-5) (2026-01-20)
-- [8 Python Libraries That Make Coding Feel Effortless](https://medium.com/codetodeploy/8-python-libraries-that-make-coding-feel-effortless-3a54dc40a5dc?source=rss------programming-5) (2026-01-20)
-- [The 16-Hour Developer Workout](https://medium.com/the-software-journal/the-16-hour-developer-workout-a307c712cdd8?source=rss------programming-5) (2026-01-20)
-- [This Tiny Angular 21.1 Router Change Fixes a Huge SEO Problem](https://medium.com/@Angular_With_Awais/this-tiny-angular-21-1-router-change-fixes-a-huge-seo-problem-ff14aaa11a30?source=rss------programming-5) (2026-01-20)
-- [Why Copy Paste Code Fails Most University Assignments (And What Students Should Do Instead)?](https://codingzap.medium.com/why-copy-paste-code-fails-most-university-assignments-and-what-students-should-do-instead-933dcfb5f5c7?source=rss------programming-5) (2026-01-20)
+- [O que há de novo no .NET 10 e como isso muda seu código](https://medium.com/@guilherme.or2016/o-que-h%C3%A1-de-novo-no-net-10-e-como-isso-muda-seu-c%C3%B3digo-c14af6236c82?source=rss------programming-5) (2026-01-20)
+- [The Hidden Skill Every Good Developer Has (That No One Taught Me)](https://mr-elvis.medium.com/the-hidden-skill-every-good-developer-has-that-no-one-taught-me-0c09bfc2a89c?source=rss------programming-5) (2026-01-20)
+- [Time Travel Debugging With Claude Code’s Conversation History](https://pub.towardsai.net/time-travel-debugging-with-claude-codes-conversation-history-91e05ec7380c?source=rss------programming-5) (2026-01-20)
+- [What is Next.js?](https://medium.com/@elizabethh0/what-is-next-js-e4ca79f51f86?source=rss------programming-5) (2026-01-20)
+- [Getting my hands dirty with gradient descent](https://medium.com/@theredpill_53001/getting-my-hands-dirty-with-gradient-descent-bbe0bcb2c8eb?source=rss------programming-5) (2026-01-20)
 
 </details>
 
@@ -504,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>💬 Slack API</summary>
 
-- [Agentic Automation: What It Is and How It Works](https://slack.com/blog/productivity/agentic-automation-guide) (2026-01-16)
-- [Understanding Knowledge Retrieval and Why It’s Valuable to Businesses](https://slack.com/blog/collaboration/knowledge-retrieval) (2026-01-16)
-- [AI Task Automation: Benefits, Tools, and Use Cases](https://slack.com/blog/productivity/ai-task-automation-guide) (2026-01-16)
 - [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-01-13)
 - [12 Project Management Techniques for Better Collaboration and Efficiency](https://slack.com/blog/productivity/project-management-techniques) (2026-01-07)
+- [Best Team Collaboration Tools for Productivity in 2026](https://slack.com/blog/collaboration/best-collaboration-tools) (2026-01-07)
+- [What is a Knowledge Graph?](https://slack.com/blog/developers/knowledge-graph) (2026-01-05)
+- [Eight Active Listening Strategies for Better Communication](https://slack.com/blog/collaboration/active-listening) (2026-01-05)
 
 </details>
 
@@ -570,22 +568,22 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Why Package Installs Are Slow (And How to Fix It)](https://towardsdatascience.com/why-package-installs-are-slow-and-how-to-fix-it/) (2026-01-20)
 - [Bridging the Gap Between Research and Readability with Marco Hening Tallarico](https://towardsdatascience.com/bridging-the-gap-between-research-and-readability-with-marco-hening-tallarico/) (2026-01-19)
 - [Using Local LLMs to Discover High-Performance Algorithms](https://towardsdatascience.com/using-local-llms-to-discover-high-performance-algorithms/) (2026-01-19)
 - [Time Series Isn’t Enough: How Graph Neural Networks Change Demand Forecasting](https://towardsdatascience.com/time-series-isnt-enough-how-graph-neural-networks-change-demand-forecasting/) (2026-01-19)
 - [The Hidden Opportunity in AI Workflow Automation with n8n for Low-Tech Companies](https://towardsdatascience.com/the-hidden-opportunity-in-ai-workflow-automation-with-n8n-for-low-tech-companies/) (2026-01-18)
-- [Why Healthcare Leads in Knowledge Graphs](https://towardsdatascience.com/why-healthcare-leads-in-knowledge-graphs/) (2026-01-18)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [What are Recursive Language Models (RLM)?](https://www.analyticsvidhya.com/blog/2026/01/what-are-recursive-language-models-rlm/) (2026-01-20)
 - [How I Created an AI Comic Using Gemini 3 and NotebookLM](https://www.analyticsvidhya.com/blog/2026/01/ai-comic-generation/) (2026-01-19)
 - [What is Context Window in LLM? Explained in 2 Minutes](https://www.analyticsvidhya.com/blog/2026/01/context-window-in-llm/) (2026-01-19)
 - [8 Types of Environments in AI](https://www.analyticsvidhya.com/blog/2026/01/types-of-environments-in-ai/) (2026-01-18)
 - [Top 100 Data Science Interview Questions and Answers (2026 Edition)](https://www.analyticsvidhya.com/blog/2026/01/data-science-interview-questions/) (2026-01-18)
-- [Prompt Engineering Guide 2026](https://www.analyticsvidhya.com/blog/2026/01/master-prompt-engineering/) (2026-01-17)
 
 </details>
 
@@ -603,11 +601,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [The Machine Learning Practitioner’s Guide to Model Deployment with FastAPI](https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-model-deployment-with-fastapi/) (2026-01-20)
 - [Top 5 Agentic AI Website Builders (That Actually Ship)](https://machinelearningmastery.com/top-5-agentic-ai-website-builders-that-actually-ship/) (2026-01-19)
 - [The Complete Guide to Data Augmentation for Machine Learning](https://machinelearningmastery.com/the-complete-guide-to-data-augmentation-for-machine-learning/) (2026-01-16)
 - [The Beginner’s Guide to Computer Vision with Python](https://machinelearningmastery.com/the-beginners-guide-to-computer-vision-with-python/) (2026-01-15)
 - [Uncertainty in Machine Learning: Probability & Noise](https://machinelearningmastery.com/uncertainty-in-machine-learning-probability-noise/) (2026-01-14)
-- [How to Read a Machine Learning Research Paper in 2026](https://machinelearningmastery.com/how-to-read-a-machine-learning-research-paper-in-2026/) (2026-01-13)
 
 </details>
 
