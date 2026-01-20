@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Porsche Sold More Electrified Cars in Europe in 2025 Than Pure Gas-Powered Cars](https://newsroom.porsche.com/en/2026/company/porsche-deliveries-2025-41516.html) (2026-01-20)
-- [Harvard legal scholars debate the state of the U.S. constitution](https://www.harvardmagazine.com/social-sciences/is-the-constitution-broken) (2026-01-20)
-- [Reticulum, a secure and anonymous mesh networking stack](https://github.com/markqvist/Reticulum) (2026-01-19)
-- [Nanolang: A tiny experimental language designed to be targeted by coding LLMs](https://github.com/jordanhubbard/nanolang) (2026-01-19)
-- [Use Social Media Mindfully](https://danielleheberling.xyz/blog/mindful-social-media/) (2026-01-19)
+- [Chatbot Psychosis](https://en.wikipedia.org/wiki/Chatbot_psychosis) (2026-01-20)
+- [x86 prefixes and escape opcodes flowchart](https://soc.me/interfaces/x86-prefixes-and-escape-opcodes-flowchart.html) (2026-01-20)
+- [F-16 Falcon Strike](https://webchrono.pl/F16FalconStrike/index.html) (2026-01-20)
+- [Show HN: Artificial Ivy in the Browser](https://da.nmcardle.com/grow) (2026-01-20)
+- [Legal Structures for Latin American Startups (2021)](https://latamlist.com/legal-structures-for-latin-american-startups/) (2026-01-20)
 
 </details>
 
@@ -86,33 +86,35 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Don’t let your backend write checks your frontend can’t cache](https://stackoverflow.blog/2026/01/20/don-t-let-your-backend-write-checks-your-frontend-can-t-cache/) (2026-01-20)
 - [How AWS re:Invented the cloud](https://stackoverflow.blog/2026/01/16/how-aws-re-invented-the-cloud/) (2026-01-16)
 - [How Stack Overflow is taking on spam and bad actors](https://stackoverflow.blog/2026/01/15/how-stack-overflow-is-taking-on-spam-and-bad-actors/) (2026-01-15)
 - [Transforming enterprise workflows: How IBM is unlocking AI's potential](https://stackoverflow.blog/2026/01/15/transforming-enterprise-workflows-how-ibm-is-unlocking-ai-s-potential/) (2026-01-15)
 - [If you're a Zoomer, this one's for you: Everything Gen Z needs to know about the 2025 tech landscape](https://stackoverflow.blog/2026/01/14/gen-z-wrapped-2025/) (2026-01-14)
-- [8 lessons from tech leadership on scaling teams and AI](https://stackoverflow.blog/2026/01/14/8-lessons-from-tech-leadership-on-scaling-teams-and-ai/) (2026-01-14)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Stop Drowning in Wearable Data: Build a Unified Health Data Lake with DuckDB and Apache Arrow](https://dev.to/wellallytech/stop-drowning-in-wearable-data-build-a-unified-health-data-lake-with-duckdb-and-apache-arrow-1gaj) (2026-01-20)
-- [My First Finance Project: When Diversification Doesn't Diversify](https://dev.to/syntaxerrorgoblin/my-first-finance-project-when-diversification-doesnt-diversify-2dgp) (2026-01-20)
-- [The RAM Pandemic](https://dev.to/isaac29/the-ram-pandemic-1n26) (2026-01-20)
-- [Deploying a Real React App on an Ubuntu VM with AWS and Serving It with Nginx](https://dev.to/theodora_e6f61d02577a5f06/deploying-a-real-react-app-on-an-ubuntu-vm-with-aws-and-serving-it-with-nginx-13o) (2026-01-20)
-- [Implementing Copy-to-Clipboard in Rails 8: The Modern Way](https://dev.to/zilton7/implementing-copy-to-clipboard-in-rails-8-the-modern-way-115c) (2026-01-20)
+- [What Happens When a User Deletes Their Account? A Guide to Rails ActiveRecord dependent: Strategies](https://dev.to/nemwelboniface/what-happens-when-a-user-deletes-their-account-a-guide-to-rails-activerecord-dependent-strategies-1279) (2026-01-20)
+- [The 15 Git Commands Every Software Engineer Uses (And Why They Matter More Than You Think)](https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51) (2026-01-20)
+- [Ringer Movies: ‘Just One of the Guys’ With Bill Simmons, Kyle Brandt, and Joanna Robinson | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-just-one-of-the-guys-with-bill-simmons-kyle-brandt-and-joanna-robinson-the-2gid) (2026-01-20)
+- [Building a minimal Go framework in public (v0.1.3)](https://dev.to/jackprescott/building-a-minimal-go-framework-in-public-v013-3c5o) (2026-01-20)
+- [Developers should understand that software is not disappearing, but low-code AI is quietly absorbing large parts of what traditional software used to do. 
+
+It's time for developers to understand, otherwise they will lose the opportunity.](https://dev.to/jaideepparashar/developers-should-understand-that-software-is-not-disappearing-but-low-code-ai-is-quietly-2dgn) (2026-01-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [AI Coding Is Like Hiring a Junior Who Skipped University](https://medium.com/@mrhotfix/ai-coding-is-like-hiring-a-junior-who-skipped-university-f13e4e08951a?source=rss------programming-5) (2026-01-20)
-- [Psychological Upbringing of the Child](https://medium.com/@asmaakhkhalifa/psychological-upbringing-of-the-child-3e0e3f85f8d4?source=rss------programming-5) (2026-01-20)
-- [Prompts Are the New High-Level Programming Language](https://medium.com/first-line-founders/prompts-high-level-programming-language-5e3be95cd702?source=rss------programming-5) (2026-01-20)
-- [What are Version Control Systems? How do they benefit in programming?](https://medium.com/@javijandro14/what-are-version-control-systems-how-do-they-benefit-in-programming-cae513d2ff54?source=rss------programming-5) (2026-01-20)
-- [How to Convert Excel Data into a List of Java Objects Using Poiji](https://medium.com/@sunil17bbmp/how-to-convert-excel-data-into-a-list-of-java-objects-using-poiji-b84f678ae728?source=rss------programming-5) (2026-01-20)
+- [Stop Using Google Translate Online — Run Google TranslateGemma Locally](https://medium.com/@bytefer/stop-using-google-translate-online-run-google-translategemma-locally-9e99ba7e1cfd?source=rss------programming-5) (2026-01-20)
+- [8 Python Libraries That Make Coding Feel Effortless](https://medium.com/codetodeploy/8-python-libraries-that-make-coding-feel-effortless-3a54dc40a5dc?source=rss------programming-5) (2026-01-20)
+- [The 16-Hour Developer Workout](https://medium.com/the-software-journal/the-16-hour-developer-workout-a307c712cdd8?source=rss------programming-5) (2026-01-20)
+- [This Tiny Angular 21.1 Router Change Fixes a Huge SEO Problem](https://medium.com/@Angular_With_Awais/this-tiny-angular-21-1-router-change-fixes-a-huge-seo-problem-ff14aaa11a30?source=rss------programming-5) (2026-01-20)
+- [Why Copy Paste Code Fails Most University Assignments (And What Students Should Do Instead)?](https://codingzap.medium.com/why-copy-paste-code-fails-most-university-assignments-and-what-students-should-do-instead-933dcfb5f5c7?source=rss------programming-5) (2026-01-20)
 
 </details>
 
@@ -502,11 +504,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>💬 Slack API</summary>
 
+- [Agentic Automation: What It Is and How It Works](https://slack.com/blog/productivity/agentic-automation-guide) (2026-01-16)
+- [Understanding Knowledge Retrieval and Why It’s Valuable to Businesses](https://slack.com/blog/collaboration/knowledge-retrieval) (2026-01-16)
+- [AI Task Automation: Benefits, Tools, and Use Cases](https://slack.com/blog/productivity/ai-task-automation-guide) (2026-01-16)
 - [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-01-13)
 - [12 Project Management Techniques for Better Collaboration and Efficiency](https://slack.com/blog/productivity/project-management-techniques) (2026-01-07)
-- [Best Team Collaboration Tools for Productivity in 2026](https://slack.com/blog/collaboration/best-collaboration-tools) (2026-01-07)
-- [What is a Knowledge Graph?](https://slack.com/blog/developers/knowledge-graph) (2026-01-05)
-- [Eight Active Listening Strategies for Better Communication](https://slack.com/blog/collaboration/active-listening) (2026-01-05)
 
 </details>
 
@@ -546,7 +548,7 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>🤗 Hugging Face</summary>
 
-- [Introducing OptiMind, a research model designed for optimization](https://huggingface.co/blog/microsoft/optimind) (2026-01-15)
+- [Differential Transformer V2](https://huggingface.co/blog/microsoft/diff-attn-v2) (2026-01-20)
 - [Open Responses: What you need to know](https://huggingface.co/blog/open-responses) (2026-01-15)
 - [NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI](https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning) (2026-01-05)
 - [Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture](https://huggingface.co/blog/tiiuae/falcon-h1-arabic) (2026-01-05)
@@ -590,11 +592,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [When Should SMB Data Teams Bring in Professional Security Expertise? (Sponsored)](https://bit.ly/4jOFnEB) (2026-01-20)
 - [3 Hyperparameter Tuning Techniques That Go Beyond Grid Search](https://www.kdnuggets.com/3-hyperparameter-tuning-techniques-that-go-beyond-grid-search) (2026-01-19)
 - [5 Useful DIY Python Functions for JSON Parsing and Processing](https://www.kdnuggets.com/5-useful-diy-python-functions-for-json-parsing-and-processing) (2026-01-19)
 - [10 Essential Docker Concepts Explained in Under 10 Minutes](https://www.kdnuggets.com/10-essential-docker-concepts-explained-in-under-10-minutes) (2026-01-16)
 - [Top 5 Open-Source AI Model API Providers](https://www.kdnuggets.com/top-5-open-source-ai-model-api-providers) (2026-01-16)
-- [Google Antigravity: AI-First Development with This New IDE](https://www.kdnuggets.com/google-antigravity-ai-first-development-with-this-new-ide) (2026-01-15)
 
 </details>
 
