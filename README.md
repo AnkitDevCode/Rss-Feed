@@ -20,7 +20,7 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Here are the 55 US AI startups that have raised $100M or more in 2025](https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/) (2026-01-19)
+- [Here are the 55 US AI startups that raised $100M or more in 2025](https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/) (2026-01-19)
 - [Well, there goes the metaverse!](https://techcrunch.com/2026/01/19/well-there-goes-the-metaverse/) (2026-01-19)
 - [Rogue agents and shadow AI: Why VCs are betting big on AI security](https://techcrunch.com/2026/01/19/rogue-agents-and-shadow-ai-why-vcs-are-betting-big-on-ai-security/) (2026-01-19)
 - [Looking ahead to 2026: What’s next for Startup Battlefield 200](https://techcrunch.com/2026/01/19/looking-ahead-to-2026-whats-next-for-startup-battlefield-200/) (2026-01-19)
@@ -31,33 +31,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [A Brief History of Ralph](https://www.humanlayer.dev/blog/brief-history-of-ralph) (2026-01-19)
-- [What came first: the CNAME or the A record?](https://blog.cloudflare.com/cname-a-record-order-dns-standards/) (2026-01-19)
-- [Raccoons break into liquor stores, scale skyscrapers and pick locks](https://theconversation.com/raccoons-break-into-liquor-stores-scale-skyscrapers-and-pick-locks-studying-their-clever-brains-can-clarify-human-intelligence-too-272487) (2026-01-19)
-- [Bootstrapping Bun](https://walters.app/blog/bootstrapping-bun) (2026-01-19)
-- [Cows Can Use Sophisticated Tools](https://nautil.us/the-far-side-had-it-all-wrong-cows-really-can-use-sophisticated-tools-1262026/) (2026-01-19)
+- [Porsche Sold More Electrified Cars in Europe in 2025 Than Pure Gas-Powered Cars](https://newsroom.porsche.com/en/2026/company/porsche-deliveries-2025-41516.html) (2026-01-20)
+- [Harvard legal scholars debate the state of the U.S. constitution](https://www.harvardmagazine.com/social-sciences/is-the-constitution-broken) (2026-01-20)
+- [Reticulum, a secure and anonymous mesh networking stack](https://github.com/markqvist/Reticulum) (2026-01-19)
+- [Nanolang: A tiny experimental language designed to be targeted by coding LLMs](https://github.com/jordanhubbard/nanolang) (2026-01-19)
+- [Use Social Media Mindfully](https://danielleheberling.xyz/blog/mindful-social-media/) (2026-01-19)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [OpenAI’s 2026 ‘focus’ is ‘practical adoption’](https://www.theverge.com/news/864229/openai-focus-practical-adoption-sarah-friar) (2026-01-19)
+- [How much can a city take?](https://www.theverge.com/policy/864195/minneapolis-ice-invasion-organizing-immigration) (2026-01-19)
+- [A second US Sphere could come to Maryland](https://www.theverge.com/tech/864192/sphere-entertainment-mini-venue-maryland-national-harbor) (2026-01-19)
 - [Bungie’s Marathon shooter launches on March 5th](https://www.theverge.com/news/864146/bungie-marathon-release-date-march-5th-price) (2026-01-19)
 - [Gamers love AI in game dev — they just don&#8217;t know it yet, says Razer&#8217;s CEO](https://www.theverge.com/podcast/863361/razer-ceo-min-liang-tan-ces-2026-ai-gaming-project-ava-interview) (2026-01-19)
-- [This 5-foot lamp is a supersized tribute to the world’s most iconic pen](https://www.theverge.com/tech/864127/seletti-bic-ballpoint-pen-pendant-lamp-maison-objet) (2026-01-19)
-- [Asus may have made its last phone](https://www.theverge.com/news/864116/asus-may-have-made-its-last-phone) (2026-01-19)
-- [Animal Crossing: New Horizons added just enough to suck me back in](https://www.theverge.com/games/863747/animal-crossing-new-horizons-update-3-0-switch-2-quality-of-life) (2026-01-19)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Reports of ad-supported Xbox game streams show Microsoft's lack of imagination](https://arstechnica.com/gaming/2026/01/reports-of-ad-supported-xbox-game-streams-show-microsofts-lack-of-imagination/) (2026-01-19)
-- [The race to build a super-large ground telescope is likely down to two competitors](https://arstechnica.com/space/2026/01/as-europes-large-ground-telescope-project-advances-how-is-its-us-competitor-faring/) (2026-01-19)
-- [Meet Veronika, the tool-using cow](https://arstechnica.com/science/2026/01/meet-veronika-the-tool-using-cow/) (2026-01-19)
-- [10 things I learned from burning myself out with AI coding agents](https://arstechnica.com/information-technology/2026/01/10-things-i-learned-from-burning-myself-out-with-ai-coding-agents/) (2026-01-19)
-- [Ocean damage nearly doubles the cost of climate change](https://arstechnica.com/science/2026/01/ocean-damage-nearly-doubles-the-cost-of-climate-change/) (2026-01-18)
+- [The fastest human spaceflight mission in history crawls closer to liftoff](https://arstechnica.com/space/2026/01/nasas-artemis-ii-rocket-rolls-to-launch-pad-but-key-test-looms-ahead/) (2026-01-19)
+- [The first new Marathon game in decades will launch on March 5](https://arstechnica.com/gaming/2026/01/bungies-delayed-marathon-revival-will-finally-launch-march-5/) (2026-01-19)
+- [Signs point to a sooner-rather-than-later M5 MacBook Pro refresh](https://arstechnica.com/gadgets/2026/01/signs-point-to-a-sooner-rather-than-later-m5-macbook-pro-refresh/) (2026-01-19)
+- [Elon Musk accused of making up math to squeeze $134B from OpenAI, Microsoft](https://arstechnica.com/tech-policy/2026/01/elon-musk-accused-of-making-up-math-to-squeeze-134b-from-openai-microsoft/) (2026-01-19)
+- [Asus confirms its smartphone business is on indefinite hiatus](https://arstechnica.com/gadgets/2026/01/asus-confirms-its-smartphone-business-is-on-indefinite-hiatus/) (2026-01-19)
 
 </details>
 
@@ -97,33 +97,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Publishing Markdown shouldn’t be a side project](https://dev.to/flowershow/publishing-markdown-shouldnt-be-a-side-project-33ei) (2026-01-19)
-- [Getting Started with Rumble Charts: Creating Charts in React](https://dev.to/smartchainxdev/getting-started-with-rumble-charts-creating-charts-in-react-42dp) (2026-01-19)
-- [🚀 Create Your Website Under 15 MINS using AntiGravity!](https://dev.to/pravesh_sudha_3c2b0c2b5e0/create-your-website-under-15-mins-using-antigravity-2m44) (2026-01-19)
-- [Uvicorn in Modern Python APIs](https://dev.to/hash01/uvicorn-in-modern-python-apis-4m79) (2026-01-19)
-- [Getting Started with React Highcharts: Creating Interactive Charts in React](https://dev.to/stackforgedev/getting-started-with-react-highcharts-creating-interactive-charts-in-react-5b9b) (2026-01-19)
+- [Stop Drowning in Wearable Data: Build a Unified Health Data Lake with DuckDB and Apache Arrow](https://dev.to/wellallytech/stop-drowning-in-wearable-data-build-a-unified-health-data-lake-with-duckdb-and-apache-arrow-1gaj) (2026-01-20)
+- [My First Finance Project: When Diversification Doesn't Diversify](https://dev.to/syntaxerrorgoblin/my-first-finance-project-when-diversification-doesnt-diversify-2dgp) (2026-01-20)
+- [The RAM Pandemic](https://dev.to/isaac29/the-ram-pandemic-1n26) (2026-01-20)
+- [Deploying a Real React App on an Ubuntu VM with AWS and Serving It with Nginx](https://dev.to/theodora_e6f61d02577a5f06/deploying-a-real-react-app-on-an-ubuntu-vm-with-aws-and-serving-it-with-nginx-13o) (2026-01-20)
+- [Implementing Copy-to-Clipboard in Rails 8: The Modern Way](https://dev.to/zilton7/implementing-copy-to-clipboard-in-rails-8-the-modern-way-115c) (2026-01-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Linux Privilege Escalation: 30 Days of Red Team (Day 17)](https://medium.com/30-days-of-red-team/linux-privilege-escalation-30-days-of-red-team-day-17-08f832131043?source=rss------programming-5) (2026-01-19)
-- [Feature Toggles in Spring Boot (Practical Guide)](https://medium.com/@ujjawalr/feature-toggles-in-spring-boot-practical-guide-dc878d0c5d40?source=rss------programming-5) (2026-01-19)
-- [Why mTLS Is Critical for Financial APIs](https://medium.com/@hasanmcse/why-mtls-is-critical-for-financial-apis-0175ebbb3103?source=rss------programming-5) (2026-01-19)
-- [How to sort data in pandas?](https://medium.com/@kshitijpkankatte5/how-to-sort-data-in-pandas-8ffca998fef9?source=rss------programming-5) (2026-01-19)
-- [Find if Path Exists in Graph — Why Connectivity Is the Real Question](https://medium.com/@error.not.known.404/find-if-path-exists-in-graph-why-connectivity-is-the-real-question-8313f41b9efd?source=rss------programming-5) (2026-01-19)
+- [AI Coding Is Like Hiring a Junior Who Skipped University](https://medium.com/@mrhotfix/ai-coding-is-like-hiring-a-junior-who-skipped-university-f13e4e08951a?source=rss------programming-5) (2026-01-20)
+- [Psychological Upbringing of the Child](https://medium.com/@asmaakhkhalifa/psychological-upbringing-of-the-child-3e0e3f85f8d4?source=rss------programming-5) (2026-01-20)
+- [Prompts Are the New High-Level Programming Language](https://medium.com/first-line-founders/prompts-high-level-programming-language-5e3be95cd702?source=rss------programming-5) (2026-01-20)
+- [What are Version Control Systems? How do they benefit in programming?](https://medium.com/@javijandro14/what-are-version-control-systems-how-do-they-benefit-in-programming-cae513d2ff54?source=rss------programming-5) (2026-01-20)
+- [How to Convert Excel Data into a List of Java Objects Using Poiji](https://medium.com/@sunil17bbmp/how-to-convert-excel-data-into-a-list-of-java-objects-using-poiji-b84f678ae728?source=rss------programming-5) (2026-01-20)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [AWS Weekly Roundup: Kiro CLI latest features, AWS European Sovereign Cloud, EC2 X8i instances, and more (January 19, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-kiro-cli-latest-features-aws-european-sovereign-cloud-ec2-x8i-instances-and-more-january-19-2026/) (2026-01-20)
 - [Amazon EC2 X8i instances powered by custom Intel Xeon 6 processors are generally available for memory-intensive workloads](https://aws.amazon.com/blogs/aws/amazon-ec2-x8i-instances-powered-by-custom-intel-xeon-6-processors-are-generally-available-for-memory-intensive-workloads/) (2026-01-15)
 - [Opening the AWS European Sovereign Cloud](https://aws.amazon.com/blogs/aws/opening-the-aws-european-sovereign-cloud/) (2026-01-15)
 - [AWS Weekly Roundup: AWS Lambda for .NET 10, AWS Client VPN quickstart, Best of AWS re:Invent, and more (January 12, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-for-net-10-aws-client-vpn-quickstart-best-of-aws-reinvent-and-more-january-12-2026/) (2026-01-12)
 - [Happy New Year! AWS Weekly Roundup: 10,000 AIdeas Competition, Amazon EC2, Amazon ECS Managed Instances and more (January 5, 2026)](https://aws.amazon.com/blogs/aws/happy-new-year-aws-weekly-roundup-10000-aideas-competition-amazon-ec2-amazon-ecs-managed-instances-and-more-january-5-2026/) (2026-01-05)
-- [AWS Weekly Roundup: Amazon ECS, Amazon CloudWatch, Amazon Cognito and more (December 15, 2025)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ecs-amazon-cloudwatch-amazon-cognito-and-more-december-15-2025/) (2025-12-15)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Uniform API server access using clientcmd](https://kubernetes.io/blog/2026/01/19/clientcmd-apiserver-access/) (2026-01-19)
 - [Kubernetes v1.35: Restricting executables invoked by kubeconfigs via exec plugin allowList added to kuberc](https://kubernetes.io/blog/2026/01/09/kubernetes-v1-35-kuberc-credential-plugin-allowlist/) (2026-01-09)
 - [Kubernetes v1.35: Mutable PersistentVolume Node Affinity (alpha)](https://kubernetes.io/blog/2026/01/08/kubernetes-v1-35-mutable-pv-nodeaffinity/) (2026-01-08)
 - [Kubernetes v1.35: A Better Way to Pass Service Account Tokens to CSI Drivers](https://kubernetes.io/blog/2026/01/07/kubernetes-v1-35-csi-sa-tokens-secrets-field-beta/) (2026-01-07)
 - [Kubernetes v1.35: Extended Toleration Operators to Support Numeric Comparisons (Alpha)](https://kubernetes.io/blog/2026/01/05/kubernetes-v1-35-numeric-toleration-operators/) (2026-01-05)
-- [Kubernetes v1.35: New level of efficiency with in-place Pod restart](https://kubernetes.io/blog/2026/01/02/kubernetes-v1-35-restart-all-containers/) (2026-01-02)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [TeamCity 2025.11.2 Is Now Available](https://blog.jetbrains.com/teamcity/2026/01/teamcity-2025-11-2-bug-fix/) (2026-01-19)
 - [Platform Debugger Architecture Redesign for Remote Development in 2026.1](https://blog.jetbrains.com/platform/2026/01/platform-debugger-architecture-redesign-for-remote-development-in-2026-1/) (2026-01-19)
 - [Update your Kotlin projects for Android Gradle Plugin 9.0](https://blog.jetbrains.com/kotlin/2026/01/update-your-projects-for-agp9/) (2026-01-16)
 - [TransformConf: a New Conference on AI in Software Development](https://blog.jetbrains.com/blog/2026/01/15/transformconf-a-new-conference-on-ai-in-software-development/) (2026-01-15)
 - [Scala 3.8 Support in the Scala Plugin](https://blog.jetbrains.com/scala/2026/01/15/scala-38-support-in-the-scala-plugin/) (2026-01-15)
-- [Introducing Global Project Configuration: One Place to Manage All Your Qodana Rules](https://blog.jetbrains.com/qodana/2026/01/introducing-global-project-configuration-one-place-to-manage-all-your-qodana-rules/) (2026-01-14)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>💬 Slack API</summary>
 
-- [Agentic Automation: What It Is and How It Works](https://slack.com/blog/productivity/agentic-automation-guide) (2026-01-16)
-- [Understanding Knowledge Retrieval and Why It’s Valuable to Businesses](https://slack.com/blog/collaboration/knowledge-retrieval) (2026-01-16)
-- [AI Task Automation: Benefits, Tools, and Use Cases](https://slack.com/blog/productivity/ai-task-automation-guide) (2026-01-16)
 - [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-01-13)
 - [12 Project Management Techniques for Better Collaboration and Efficiency](https://slack.com/blog/productivity/project-management-techniques) (2026-01-07)
+- [Best Team Collaboration Tools for Productivity in 2026](https://slack.com/blog/collaboration/best-collaboration-tools) (2026-01-07)
+- [What is a Knowledge Graph?](https://slack.com/blog/developers/knowledge-graph) (2026-01-05)
+- [Eight Active Listening Strategies for Better Communication](https://slack.com/blog/collaboration/active-listening) (2026-01-05)
 
 </details>
 
@@ -590,11 +590,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [3 Hyperparameter Tuning Techniques That Go Beyond Grid Search](https://www.kdnuggets.com/3-hyperparameter-tuning-techniques-that-go-beyond-grid-search) (2026-01-19)
 - [5 Useful DIY Python Functions for JSON Parsing and Processing](https://www.kdnuggets.com/5-useful-diy-python-functions-for-json-parsing-and-processing) (2026-01-19)
 - [10 Essential Docker Concepts Explained in Under 10 Minutes](https://www.kdnuggets.com/10-essential-docker-concepts-explained-in-under-10-minutes) (2026-01-16)
 - [Top 5 Open-Source AI Model API Providers](https://www.kdnuggets.com/top-5-open-source-ai-model-api-providers) (2026-01-16)
 - [Google Antigravity: AI-First Development with This New IDE](https://www.kdnuggets.com/google-antigravity-ai-first-development-with-this-new-ide) (2026-01-15)
-- [7 AI Automation Tools for Streamlined Workflows](https://www.kdnuggets.com/7-ai-automation-tools-for-streamlined-workflows) (2026-01-15)
 
 </details>
 
