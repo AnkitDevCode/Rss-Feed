@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [ICE becomes one of the most-blocked accounts on Bluesky after its verification](https://techcrunch.com/2026/01/20/ice-becomes-one-of-the-most-blocked-accounts-on-bluesky-after-its-verification/) (2026-01-20)
-- [Retail startup Another raises a $2.5M seed to help sell excess inventory](https://techcrunch.com/2026/01/20/retail-startup-another-raises-a-2-5m-seed-to-help-sell-excess-inventory/) (2026-01-20)
-- [One of the first alternative app stores in the EU is shutting down](https://techcrunch.com/2026/01/20/one-of-the-first-alternative-app-stores-in-the-eu-is-shutting-down/) (2026-01-20)
-- [Grubhub parent acquires restaurant rewards startup Claim](https://techcrunch.com/2026/01/20/grubhub-parent-acquires-restaurant-rewards-startup-claim/) (2026-01-20)
-- [Humans&, a ‘human-centric’ AI startup founded by Anthropic, xAI, Google alums, raised $480M seed round](https://techcrunch.com/2026/01/20/humans-a-human-centric-ai-startup-founded-by-anthropic-xai-google-alums-raised-480m-seed-round/) (2026-01-20)
+- [Netflix to redesign its app as it competes with social platforms for daily engagement](https://techcrunch.com/2026/01/20/netflix-to-redesign-its-app-as-it-competes-with-social-platforms-for-daily-engagement/) (2026-01-21)
+- [One-time hot insurance tech Ethos poised to be first tech IPO of the year](https://techcrunch.com/2026/01/20/one-time-hot-insurance-tech-ethos-poised-to-be-first-tech-ipo-of-the-year/) (2026-01-20)
+- [In an effort to protect young users, ChatGPT will now predict how old you are](https://techcrunch.com/2026/01/20/in-an-effort-to-protect-young-users-chatgpt-will-now-predict-how-old-you-are/) (2026-01-20)
+- [Elon Musk says Tesla’s restarted Dojo3 will be for ‘space-based AI compute’](https://techcrunch.com/2026/01/20/elon-musk-says-teslas-restarted-dojo3-will-be-for-space-based-ai-compute/) (2026-01-20)
+- [X open sources its algorithm while facing a transparency fine and Grok controversies](https://techcrunch.com/2026/01/20/x-open-sources-its-algorithm-while-facing-a-transparency-fine-and-grok-controversies/) (2026-01-20)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Meta's Legal Team Abandoned Its Ethical Duties](https://www.afterbabel.com/p/how-metas-lawyers-perfected-the-playbook) (2026-01-20)
-- [The Unix Pipe Card Game](https://punkx.org/unix-pipe-game/) (2026-01-20)
-- [The Startup Graveyard](https://www.loot-drop.io/) (2026-01-20)
-- [De-dollarization: Is the US dollar losing its dominance?](https://www.jpmorgan.com/insights/global-research/currencies/de-dollarization) (2026-01-20)
-- [Nvidia Stock Crash Prediction](https://entropicthoughts.com/nvidia-stock-crash-prediction) (2026-01-20)
+- [Show HN: macOS native DAW with Git branching model](https://www.scratchtrackaudio.com) (2026-01-21)
+- [Claude Chill: Fix Claude Code's Flickering in Terminal](https://github.com/davidbeesley/claude-chill) (2026-01-20)
+- [California is free of drought for the first time in 25 years](https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years) (2026-01-20)
+- [Lunar Radio Telescope to Unlock Cosmic Mysteries](https://spectrum.ieee.org/lunar-radio-telescope) (2026-01-20)
+- [Provably unmasking malicious behavior through execution traces](https://arxiv.org/abs/2512.13821) (2026-01-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Life is Strange will bring the Max and Chloe story to an end in new game](https://www.theverge.com/games/864438/life-is-strange-reunion-release-date-max-chloe) (2026-01-20)
-- [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple) (2026-01-20)
-- [Netflix’s Star Search will let you vote to decide who wins](https://www.theverge.com/entertainment/864424/netflix-star-search-live-voting) (2026-01-20)
-- [Former Nintendo of America boss Doug Bowser is joining Hasbro](https://www.theverge.com/news/864412/nintendo-doug-bowser-joins-hasbro-build) (2026-01-20)
-- [Corsair’s wired Hall effect gaming keyboard is cheaper than ever](https://www.theverge.com/gadgets/864339/corsair-hall-effect-gaming-keyboard-resident-evil-requiem-surface-laptop-deal-sale) (2026-01-20)
+- [The best AirPods to buy](https://www.theverge.com/tech/645217/best-apple-airpods-pro) (2026-01-21)
+- [Netflix earned $1.5 billion from ads in 2025](https://www.theverge.com/news/864451/netflix-advertising-revenue-doubled-q4-2025-earnings) (2026-01-20)
+- [Trump admin admits DOGE employees had access to off-limits Social Security data](https://www.theverge.com/news/864643/doge-social-security-data-misuse) (2026-01-20)
+- [Netflix will revamp its mobile UI this year](https://www.theverge.com/news/864646/netflix-mobile-ui-revamp-design-vertical-video) (2026-01-20)
+- [FTC says it will appeal Meta antitrust loss](https://www.theverge.com/news/864622/ftc-meta-antitrust-ruling-appeal) (2026-01-20)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [The first commercial space station, Haven-1, is now undergoing assembly for launch](https://arstechnica.com/space/2026/01/the-first-commercial-space-station-haven-1-is-now-undergoing-assembly-for-launch/) (2026-01-20)
-- [The fastest human spaceflight mission in history crawls closer to liftoff](https://arstechnica.com/space/2026/01/nasas-artemis-ii-rocket-rolls-to-launch-pad-but-key-test-looms-ahead/) (2026-01-19)
-- [The first new Marathon game in decades will launch on March 5](https://arstechnica.com/gaming/2026/01/bungies-delayed-marathon-revival-will-finally-launch-march-5/) (2026-01-19)
-- [Signs point to a sooner-rather-than-later M5 MacBook Pro refresh](https://arstechnica.com/gadgets/2026/01/signs-point-to-a-sooner-rather-than-later-m5-macbook-pro-refresh/) (2026-01-19)
-- [Elon Musk accused of making up math to squeeze $134B from OpenAI, Microsoft](https://arstechnica.com/tech-policy/2026/01/elon-musk-accused-of-making-up-math-to-squeeze-134b-from-openai-microsoft/) (2026-01-19)
+- [Webb reveals a planetary nebula with phenomenal clarity, and it is spectacular](https://arstechnica.com/space/2026/01/webb-has-given-us-with-a-stunning-new-view-of-a-well-known-planetary-nebula/) (2026-01-20)
+- [Zuck stuck on Trump’s bad side: FTC appeals loss in Meta monopoly case](https://arstechnica.com/tech-policy/2026/01/zuck-stuck-on-trumps-bad-side-ftc-appeals-loss-in-meta-monopoly-case/) (2026-01-20)
+- [Verizon starts requiring 365 days of paid service before it will unlock phones](https://arstechnica.com/tech-policy/2026/01/verizon-starts-requiring-365-days-of-paid-service-before-it-will-unlock-phones/) (2026-01-20)
+- [Google temporarily disabled YouTube's advanced captions without warning](https://arstechnica.com/gadgets/2026/01/google-temporarily-disabled-youtubes-advanced-captions-without-warning/) (2026-01-20)
+- [Flesh-eating flies are eating their way through Mexico, CDC warns](https://arstechnica.com/health/2026/01/be-on-the-lookout-for-flesh-eating-flies-cdc-tells-clinicians-in-alert/) (2026-01-20)
 
 </details>
 
@@ -75,11 +75,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [AI-supported vulnerability triage with the GitHub Security Lab Taskflow Agent](https://github.blog/security/ai-supported-vulnerability-triage-with-the-github-security-lab-taskflow-agent/) (2026-01-20)
 - [Context windows, Plan agent, and TDD: What I learned building a countdown app with GitHub Copilot](https://github.blog/developer-skills/application-development/context-windows-plan-agent-and-tdd-what-i-learned-building-a-countdown-app-with-github-copilot/) (2026-01-20)
 - [Building an agentic memory system for GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/building-an-agentic-memory-system-for-github-copilot/) (2026-01-15)
 - [When protections outlive their purpose: A lesson on managing defense systems at scale](https://github.blog/engineering/infrastructure/when-protections-outlive-their-purpose-a-lesson-on-managing-defense-systems-at-scale/) (2026-01-15)
 - [GitHub Availability Report: December 2025](https://github.blog/news-insights/company-news/github-availability-report-december-2025/) (2026-01-14)
-- [Community-powered security with AI: an open source framework for security research](https://github.blog/security/community-powered-security-with-ai-an-open-source-framework-for-security-research/) (2026-01-14)
 
 </details>
 
@@ -97,33 +97,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Multi-Agent Architectures: Patterns Every AI Engineer Should Know](https://dev.to/sateesh2020/multi-agent-architectures-patterns-every-ai-engineer-should-know-jij) (2026-01-20)
-- [Using Proxies with Scrapy: The Beginner's Guide](https://dev.to/ikram_khan/using-proxies-with-scrapy-the-beginners-guide-dbj) (2026-01-20)
-- [Svetlina’s Quest: A Gamified Portfolio](https://dev.to/svet_62385e9/svetlinas-quest-a-gamified-portfolio-14bh) (2026-01-20)
-- [Why Let Users Choose Between Being Nice and Being Paranoid? 🔄](https://dev.to/rolan_r_n_r/why-let-users-choose-between-being-nice-and-being-paranoid-5c8n) (2026-01-20)
-- [How to make GPUs on Kubernetes Observable](https://dev.to/coroot/making-gpus-on-kubernetes-observable-d2d) (2026-01-20)
+- [Cómo los MCPs de AWS y los agentes de IA están cambiando mi forma de diseñar infraestructura](https://dev.to/marcosferr/como-los-mcps-de-aws-y-los-agentes-de-ia-estan-cambiando-mi-forma-de-disenar-infraestructura-2e44) (2026-01-21)
+- [Touching GRASS: My Experience at the Stripe Developer Meetup](https://dev.to/maame-codes/touching-grass-my-experience-at-the-stripe-developer-meetup-375f) (2026-01-21)
+- [Docker Compose - SFTP gerenciando arquivos com segurança](https://dev.to/xandecodes/docker-compose-sftp-gerenciando-arquivos-com-seguranca-3m6j) (2026-01-21)
+- [The Helpful Adversary](https://dev.to/conroywhitney/the-helpful-adversary-37le) (2026-01-21)
+- [REST Não Basta Mais: Por que suas APIs precisam de "Contexto" na era da IA](https://dev.to/espigah/rest-nao-basta-mais-por-que-suas-apis-precisam-de-contexto-na-era-da-ia-2md2) (2026-01-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [What is difference between loc() vs iloc() in pandas?](https://medium.com/@kshitijpkankatte5/what-is-difference-between-loc-vs-iloc-in-pandas-2640388a2348?source=rss------programming-5) (2026-01-20)
-- [Why Membership Reconfiguration Is Harder Than Consensus](https://observabilityguy.medium.com/why-membership-reconfiguration-is-harder-than-consensus-bdc71bf7df26?source=rss------programming-5) (2026-01-20)
-- [Our “Smart” Retry Logic Turned a 5-Minute Outage Into a 4-Hour Nightmare](https://medium.com/@lakshayaggarwal9/our-smart-retry-logic-turned-a-5-minute-outage-into-a-4-hour-nightmare-9a387fc364f7?source=rss------programming-5) (2026-01-20)
-- [This Is Getting Ridiculous: I Built a Mobile App in 10 Minutes with Replit](https://medium.com/realworld-ai-use-cases/this-is-getting-ridiculous-i-built-a-mobile-app-in-10-minutes-with-replit-9f5b635f808f?source=rss------programming-5) (2026-01-20)
-- [CQRS Doesn’t Have to Be Complicated | Clean Architecture](https://medium.com/@michaelmaurice410/cqrs-doesnt-have-to-be-complicated-clean-architecture-6d322e63dbea?source=rss------programming-5) (2026-01-20)
+- [The Future of Coding Is Vibe Coding — But Fundamentals Still Matter ](https://python.plainenglish.io/the-future-of-coding-is-vibe-coding-but-fundamentals-still-matter-ff9fbdb1827a?source=rss------programming-5) (2026-01-21)
+- [Threading Essentials: Main Thread vs Background Tasks in Android](https://medium.com/@alaxhenry0121/threading-essentials-main-thread-vs-background-tasks-in-android-c704b8703547?source=rss------programming-5) (2026-01-21)
+- [Learning React: useReducer Is Not as Difficult as It Looks](https://code.likeagirl.io/learning-react-usereducer-is-not-as-difficult-as-it-looks-65c97a396890?source=rss------programming-5) (2026-01-21)
+- [5 Useful DIY Python Functions for JSON Parsing and Processing ](https://python.plainenglish.io/5-useful-diy-python-functions-for-json-parsing-and-processing-d95a096c541f?source=rss------programming-5) (2026-01-21)
+- [Vector Databases Explained for SQL Developers (No Math Required)](https://medium.com/@kaklotarrahul79/vector-databases-explained-for-sql-developers-no-math-required-a5b1286a33c2?source=rss------programming-5) (2026-01-21)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Announcing Amazon EC2 G7e instances accelerated by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs](https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7e-instances-accelerated-by-nvidia-rtx-pro-6000-blackwell-server-edition-gpus/) (2026-01-20)
 - [AWS Weekly Roundup: Kiro CLI latest features, AWS European Sovereign Cloud, EC2 X8i instances, and more (January 19, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-kiro-cli-latest-features-aws-european-sovereign-cloud-ec2-x8i-instances-and-more-january-19-2026/) (2026-01-20)
 - [Amazon EC2 X8i instances powered by custom Intel Xeon 6 processors are generally available for memory-intensive workloads](https://aws.amazon.com/blogs/aws/amazon-ec2-x8i-instances-powered-by-custom-intel-xeon-6-processors-are-generally-available-for-memory-intensive-workloads/) (2026-01-15)
 - [Opening the AWS European Sovereign Cloud](https://aws.amazon.com/blogs/aws/opening-the-aws-european-sovereign-cloud/) (2026-01-15)
 - [AWS Weekly Roundup: AWS Lambda for .NET 10, AWS Client VPN quickstart, Best of AWS re:Invent, and more (January 12, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-for-net-10-aws-client-vpn-quickstart-best-of-aws-reinvent-and-more-january-12-2026/) (2026-01-12)
-- [Happy New Year! AWS Weekly Roundup: 10,000 AIdeas Competition, Amazon EC2, Amazon ECS Managed Instances and more (January 5, 2026)](https://aws.amazon.com/blogs/aws/happy-new-year-aws-weekly-roundup-10000-aideas-competition-amazon-ec2-amazon-ecs-managed-instances-and-more-january-5-2026/) (2026-01-05)
 
 </details>
 
@@ -328,11 +328,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [GitLab Bug Bounty Program policy updates](https://about.gitlab.com/blog/gitlab-bug-bounty-program-policy-updates/) (2026-01-20)
 - [Announcing general availability for GitLab Duo Agent Platform ](https://about.gitlab.com/blog/gitlab-duo-agent-platform-is-generally-available/) (2026-01-15)
 - [Introducing GitLab Credits, usage-based pricing for GitLab Duo Agent Platform](https://about.gitlab.com/blog/introducing-gitlab-credits/) (2026-01-15)
 - [AI Catalog: Discover, create, and share agents and flows](https://about.gitlab.com/blog/ai-catalog-discover-and-share-agents/) (2026-01-14)
 - [Customizing GitLab Duo Agent Platform: Chat rules, prompts, and workflows](https://about.gitlab.com/blog/customizing-gitlab-duo-chat-rules-prompts-workflows/) (2026-01-14)
-- [Getting started with GitLab Duo Agentic Chat](https://about.gitlab.com/blog/getting-started-with-gitlab-duo-agentic-chat/) (2026-01-14)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>💬 Slack API</summary>
 
+- [Agentic Automation: What It Is and How It Works](https://slack.com/blog/productivity/agentic-automation-guide) (2026-01-16)
+- [Understanding Knowledge Retrieval and Why It’s Valuable to Businesses](https://slack.com/blog/collaboration/knowledge-retrieval) (2026-01-16)
+- [AI Task Automation: Benefits, Tools, and Use Cases](https://slack.com/blog/productivity/ai-task-automation-guide) (2026-01-16)
 - [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-01-13)
 - [12 Project Management Techniques for Better Collaboration and Efficiency](https://slack.com/blog/productivity/project-management-techniques) (2026-01-07)
-- [Best Team Collaboration Tools for Productivity in 2026](https://slack.com/blog/collaboration/best-collaboration-tools) (2026-01-07)
-- [What is a Knowledge Graph?](https://slack.com/blog/developers/knowledge-graph) (2026-01-05)
-- [Eight Active Listening Strategies for Better Communication](https://slack.com/blog/collaboration/active-listening) (2026-01-05)
 
 </details>
 
@@ -547,10 +547,10 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <summary>🤗 Hugging Face</summary>
 
 - [Differential Transformer V2](https://huggingface.co/blog/microsoft/diff-attn-v2) (2026-01-20)
+- [Introducing Waypoint-1: Real-time interactive video diffusion from Overworld](https://huggingface.co/blog/waypoint-1) (2026-01-20)
 - [Open Responses: What you need to know](https://huggingface.co/blog/open-responses) (2026-01-15)
 - [NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI](https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning) (2026-01-05)
 - [Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture](https://huggingface.co/blog/tiiuae/falcon-h1-arabic) (2026-01-05)
-- [NVIDIA brings agents to life with DGX Spark and Reachy Mini](https://huggingface.co/blog/nvidia-reachy-mini) (2026-01-05)
 
 </details>
 
