@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Language learning marketplace Preply’s unicorn status embodies Ukrainian resilience](https://techcrunch.com/2026/01/21/language-learning-marketplace-preplys-unicorn-status-embodies-ukrainian-resilience/) (2026-01-21)
+- [India’s app downloads rebounded to 25.5 billion in 2025, fueled by AI assistants and microdrama boom](https://techcrunch.com/2026/01/21/indias-app-downloads-rebounded-to-25-5-billion-in-2025-fueled-by-ai-assistants-and-microdrama-boom/) (2026-01-21)
+- [Consumers spent more on mobile apps than games in 2025, driven by AI app adoption](https://techcrunch.com/2026/01/21/consumers-spent-more-on-mobile-apps-than-games-in-2025-driven-by-ai-app-adoption/) (2026-01-21)
+- [Snap reaches settlement in social media addiction lawsuit](https://techcrunch.com/2026/01/20/snap-reaches-settlement-in-social-media-addiction-lawsuit/) (2026-01-21)
 - [Amagi slides in India debut, as cloud TV software firm tests investor appetite](https://techcrunch.com/2026/01/20/amagi-slides-in-india-debut-as-cloud-tv-software-firm-tests-investor-appetite/) (2026-01-21)
-- [Bolna nabs $6.3M from General Catalyst for its India-focused voice orchestration platform](https://techcrunch.com/2026/01/20/bolna-nabs-6-3-million-from-general-catalyst-for-its-india-focused-voice-orchestration-platform/) (2026-01-21)
-- [Anthropic’s CEO stuns Davos with Nvidia criticism](https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/) (2026-01-21)
-- [Netflix to redesign its app as it competes with social platforms for daily engagement](https://techcrunch.com/2026/01/20/netflix-to-redesign-its-app-as-it-competes-with-social-platforms-for-daily-engagement/) (2026-01-21)
-- [One-time hot insurance tech Ethos poised to be first tech IPO of the year](https://techcrunch.com/2026/01/20/one-time-hot-insurance-tech-ethos-poised-to-be-first-tech-ipo-of-the-year/) (2026-01-20)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Libbbf: Bound Book Format, A high-performance container for comics and manga](https://github.com/ef1500/libbbf) (2026-01-21)
-- [Disaster planning for regular folks (2015)](https://lcamtuf.coredump.cx/prep/index-old.shtml) (2026-01-21)
-- [Anthropic's original take home assignment open sourced](https://github.com/anthropics/original_performance_takehome) (2026-01-21)
-- [Who owns Rudolph's nose?](https://creativelawcenter.com/copyright-rudolph-reindeer/) (2026-01-21)
-- [Show HN: Parallel Agentic Search on the Twitter Algorithm](https://www.morphllm.com/playground/na/warpgrep?repo=xai-org%2Fx-algorithm) (2026-01-20)
+- [Stories removed from the Hacker News Front Page, updated in real time](https://github.com/vitoplantamura/HackerNewsRemovals) (2026-01-21)
+- [Hightouch (YC S19) Is Hiring](https://hightouch.com/careers) (2026-01-21)
+- [Nukeproof: Manifesto for European Data Sovereignty](https://nukeproof.org/) (2026-01-21)
+- [The super-slow conversion of the U.S. to metric (2025)](https://www.thefabricator.com/thefabricator/blog/testingmeasuring/the-super-slow-conversion-of-the-us-to-metric) (2026-01-21)
+- [Parliament tells Dutch government to keep DigiD data out of American hands](https://nltimes.nl/2026/01/21/parliament-tells-dutch-govt-keep-digid-data-american-hands) (2026-01-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Burritos from Heaven: Are drones the future of delivery?](https://www.theverge.com/tech/864601/zipline-drone-delivery-food-takeout-texas) (2026-01-21)
+- [What a Sony and TCL partnership means for the future of TVs](https://www.theverge.com/tech/864745/sony-tcl-tvs-partnership-explained) (2026-01-21)
+- [OpenAI says its data centers will pay for their own energy and limit water usage](https://www.theverge.com/news/864798/openai-data-center-opposition-energy-bills) (2026-01-21)
+- [ChatGPT is using age prediction to restrict what minors see](https://www.theverge.com/news/864784/openai-chatgpt-age-prediction-restrictions-rollout) (2026-01-21)
 - [One year in, Big Tech has out-maneuvered MAGA populists](https://www.theverge.com/column/864759/big-tech-trump-one-year-in) (2026-01-21)
-- [The best AirPods to buy](https://www.theverge.com/tech/645217/best-apple-airpods-pro) (2026-01-21)
-- [Netflix earned $1.5 billion from ads in 2025](https://www.theverge.com/news/864451/netflix-advertising-revenue-doubled-q4-2025-earnings) (2026-01-20)
-- [Trump admin admits DOGE employees had access to off-limits Social Security data](https://www.theverge.com/news/864643/doge-social-security-data-misuse) (2026-01-20)
-- [Netflix will revamp its mobile UI this year](https://www.theverge.com/news/864646/netflix-mobile-ui-revamp-design-vertical-video) (2026-01-20)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [All anyone wants to talk about at Davos is AI and Donald Trump](https://www.technologyreview.com/2026/01/21/1131538/all-anyone-wants-to-talk-about-at-davos-is-ai-and-donald-trump/) (2026-01-21)
 - [Reimagining ERP for the agentic AI era](https://www.technologyreview.com/2026/01/20/1129965/reimagining-erp-for-the-agentic-ai-era/) (2026-01-20)
 - [The era of agentic chaos and how data will save us](https://www.technologyreview.com/2026/01/20/1130911/the-era-of-agentic-chaos-and-how-data-will-save-us/) (2026-01-20)
 - [The UK government is backing AI that can run its own lab experiments](https://www.technologyreview.com/2026/01/20/1131462/the-uk-government-is-backing-ai-scientists-that-can-run-their-own-experiments/) (2026-01-20)
 - [The Download: digitizing India, and scoring embryos](https://www.technologyreview.com/2026/01/20/1131459/the-download-digitizing-india-and-scoring-embryos/) (2026-01-20)
-- [The Download: the US digital rights crackdown, and AI companionship](https://www.technologyreview.com/2026/01/19/1131450/the-download-the-us-digital-rights-crackdown-and-ai-companionship/) (2026-01-19)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How We Used eBPF + Rust to Observe AI Systems Without Instrumenting a Single Line of Code](https://dev.to/art_light/how-we-used-ebpf-rust-to-observe-ai-systems-without-instrumenting-a-single-line-of-code-51nc) (2026-01-21)
-- [Test](https://dev.to/kaustubhyerkade/test-29na) (2026-01-21)
-- [Como estudar programação do jeito certo e não virar um copia e cola de código de tutoriais do YouTube](https://dev.to/kaikcestari/como-estudar-programacao-do-jeito-certo-e-nao-virar-um-copia-e-cola-de-codigo-de-tutoriais-do-752) (2026-01-21)
-- [Week 15 React Learning Recap: Understanding Old React and Finally Respecting useReducer](https://dev.to/usama_dev/week-15-react-learning-recap-understanding-old-react-and-finally-respecting-usereducer-5bnb) (2026-01-21)
-- [RAG Pipeline Deep Dive: Ingestion, Chunking, Embedding, and Vector Search](https://dev.to/derrickryangiggs/rag-pipeline-deep-dive-ingestion-chunking-embedding-and-vector-search-2877) (2026-01-21)
+- [How I Stopped Worrying and Started Testing My Telegram Bots](https://dev.to/stepan_romankov/how-i-stopped-worrying-and-started-testing-my-telegram-bots-2418) (2026-01-21)
+- [Log Loss Explained: The Game Show Where Confidence Costs You — Being Wrong Is Bad, Being CONFIDENTLY Wrong Is Catastrophic](https://dev.to/sachin_krrajput/log-loss-explained-the-game-show-where-confidence-costs-you-being-wrong-is-bad-being-3kom) (2026-01-21)
+- [Bun vs Deno vs Node.js in 2026: Benchmarks, Code, and Real Numbers](https://dev.to/jsgurujobs/bun-vs-deno-vs-nodejs-in-2026-benchmarks-code-and-real-numbers-2l9d) (2026-01-21)
+- [Synthia: the 10th art, where intent meets reality](https://dev.to/adel_dayem/synthia-the-10th-art-where-intent-meets-reality-41h2) (2026-01-21)
+- [AUC-ROC Explained: The Smoke Detector With a Sensitivity Dial and the One Number That Tells You If It's Any Good](https://dev.to/sachin_krrajput/auc-roc-explained-the-smoke-detector-with-a-sensitivity-dial-and-the-one-number-that-tells-you-if-2j5p) (2026-01-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How a Weekend Python Script Became a Long Term Retainer](https://python.plainenglish.io/how-a-weekend-python-script-became-a-long-term-retainer-e37e2879029f?source=rss------programming-5) (2026-01-21)
-- [How to Implement the Best If-Else Pattern in Programming](https://ademawan.medium.com/how-to-implement-the-best-if-else-pattern-in-programming-4983f25135c8?source=rss------programming-5) (2026-01-21)
-- [Someone Finally Built the Ralph Loop I Wanted.](https://medium.com/vibe-coding/someone-finally-built-the-ralph-loop-i-wanted-8f3050b7b181?source=rss------programming-5) (2026-01-21)
-- [Patterns in Binary Search](https://medium.com/@contactomyna/patterns-in-binary-search-4df1ce6df76c?source=rss------programming-5) (2026-01-21)
-- [This is not the Vibe Coding Book you are Looking for](https://donraab.medium.com/this-is-not-the-vibe-coding-book-you-are-looking-for-1e5577ec8f8e?source=rss------programming-5) (2026-01-21)
+- [How I Reduced My React Native App Size by Almost 90% on Android and iOS](https://medium.com/@kashanhaider3241/how-i-reduced-my-react-native-app-size-by-almost-90-on-android-and-ios-652b4dc3d81c?source=rss------programming-5) (2026-01-21)
+- [When Practice Becomes Production: How My Weekend Coding Project Went Global](https://medium.com/@ianseeksbeta/when-practice-becomes-production-how-my-weekend-coding-project-went-global-c93f11961c21?source=rss------programming-5) (2026-01-21)
+- [The Evolution of Programming: From Binary to AI-Powered Code](https://medium.com/@mubashir_ejaz/the-evolution-of-programming-from-binary-to-ai-powered-code-b5d182f67c89?source=rss------programming-5) (2026-01-21)
+- [Stop Learning New Frameworks. Learn This Instead.](https://medium.com/@logicoverlatte/stop-learning-new-frameworks-learn-this-instead-76b498b63570?source=rss------programming-5) (2026-01-21)
+- [AI Changed How We Code. It Also Quietly Picked a Winner.](https://medium.com/@Maryamghafarinia/ai-changed-how-we-code-it-also-quietly-picked-a-winner-cf10d43148f7?source=rss------programming-5) (2026-01-21)
 
 </details>
 
@@ -557,11 +557,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>🤖 AI News</summary>
 
+- [Balancing AI cost efficiency with data sovereignty](https://www.artificialintelligence-news.com/news/balancing-ai-cost-efficiency-with-data-sovereignty/) (2026-01-21)
+- [The quiet work behind Citi’s 4,000-person internal AI rollout](https://www.artificialintelligence-news.com/news/the-quiet-work-behind-citi-4000-person-internal-ai-rollout/) (2026-01-21)
 - [SAP and Fresenius to build sovereign AI backbone for healthcare](https://www.artificialintelligence-news.com/news/sap-and-fresenius-build-sovereign-ai-backbone-for-healthcare/) (2026-01-19)
 - [Scaling AI value beyond pilot phase purgatory](https://www.artificialintelligence-news.com/news/scaling-ai-value-beyond-pilot-phase-purgatory/) (2026-01-19)
 - [Credit unions, fintech and the AI inflection of financial services](https://www.artificialintelligence-news.com/news/credit-union-ai-in-operational-settings-learnings-from-the-fintech-sector/) (2026-01-19)
-- [JPMorgan Chase treats AI spending as core infrastructure](https://www.artificialintelligence-news.com/news/jpmorgan-chase-treats-ai-spending-as-core-infrastructure/) (2026-01-19)
-- [OpenCog Hyperon and AGI: Beyond large language models](https://www.artificialintelligence-news.com/news/opencog-hyperon-and-agi-beyond-large-language-models/) (2026-01-19)
 
 </details>
 
@@ -579,33 +579,33 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [10 NotebookLM Super Prompts For Pro-Level Productivity](https://www.analyticsvidhya.com/blog/2026/01/notebooklm-super-prompts-for-pro-level-productivity/) (2026-01-21)
+- [MCPToolbox for Databases: A Practical Guide to Bridging LLMs and Your Data ](https://www.analyticsvidhya.com/blog/2026/01/mcptoolbox-for-databases/) (2026-01-21)
 - [Flux.2 Klein Debuts: Trying The Compact and Fast AI Image Model](https://www.analyticsvidhya.com/blog/2026/01/flux-2-klein-ai-image-model/) (2026-01-21)
 - [DuckDB vs. SQLite: A Comprehensive Comparison ](https://www.analyticsvidhya.com/blog/2026/01/duckdb-vs-sqlite/) (2026-01-20)
 - [What are Recursive Language Models (RLM)?](https://www.analyticsvidhya.com/blog/2026/01/what-are-recursive-language-models-rlm/) (2026-01-20)
-- [How I Created an AI Comic Using Gemini 3 and NotebookLM](https://www.analyticsvidhya.com/blog/2026/01/ai-comic-generation/) (2026-01-19)
-- [What is Context Window in LLM? Explained in 2 Minutes](https://www.analyticsvidhya.com/blog/2026/01/context-window-in-llm/) (2026-01-19)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Alternatives to Google Colab for Long-Running Tasks](https://www.kdnuggets.com/5-alternatives-to-google-colab-for-long-running-tasks) (2026-01-21)
 - [AI Writes Python Code, But Maintaining It Is Still Your Job](https://www.kdnuggets.com/ai-writes-python-code-but-maintaining-it-is-still-your-job) (2026-01-20)
 - [We Tuned 4 Classifiers on the Same Dataset: None Actually Improved](https://www.kdnuggets.com/we-tuned-4-classifiers-on-the-same-dataset-none-actually-improved) (2026-01-20)
 - [10 GitHub Repositories to Ace Any Tech Interview](https://www.kdnuggets.com/10-github-repositories-to-ace-any-tech-interview) (2026-01-20)
 - [When Should SMB Data Teams Bring in Professional Security Expertise? (Sponsored)](https://bit.ly/4jOFnEB) (2026-01-20)
-- [3 Hyperparameter Tuning Techniques That Go Beyond Grid Search](https://www.kdnuggets.com/3-hyperparameter-tuning-techniques-that-go-beyond-grid-search) (2026-01-19)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Everything You Need to Know About How Python Manages Memory](https://machinelearningmastery.com/everything-you-need-to-know-about-how-python-manages-memory/) (2026-01-21)
 - [The Machine Learning Practitioner’s Guide to Model Deployment with FastAPI](https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-model-deployment-with-fastapi/) (2026-01-20)
 - [Top 5 Agentic AI Website Builders (That Actually Ship)](https://machinelearningmastery.com/top-5-agentic-ai-website-builders-that-actually-ship/) (2026-01-19)
 - [The Complete Guide to Data Augmentation for Machine Learning](https://machinelearningmastery.com/the-complete-guide-to-data-augmentation-for-machine-learning/) (2026-01-16)
 - [The Beginner’s Guide to Computer Vision with Python](https://machinelearningmastery.com/the-beginners-guide-to-computer-vision-with-python/) (2026-01-15)
-- [Uncertainty in Machine Learning: Probability & Noise](https://machinelearningmastery.com/uncertainty-in-machine-learning-probability-noise/) (2026-01-14)
 
 </details>
 
