@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Amagi slides in India debut, as cloud TV software firm tests investor appetite](https://techcrunch.com/2026/01/20/amagi-slides-in-india-debut-as-cloud-tv-software-firm-tests-investor-appetite/) (2026-01-21)
+- [Bolna nabs $6.3M from General Catalyst for its India-focused voice orchestration platform](https://techcrunch.com/2026/01/20/bolna-nabs-6-3-million-from-general-catalyst-for-its-india-focused-voice-orchestration-platform/) (2026-01-21)
+- [Anthropic’s CEO stuns Davos with Nvidia criticism](https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/) (2026-01-21)
 - [Netflix to redesign its app as it competes with social platforms for daily engagement](https://techcrunch.com/2026/01/20/netflix-to-redesign-its-app-as-it-competes-with-social-platforms-for-daily-engagement/) (2026-01-21)
 - [One-time hot insurance tech Ethos poised to be first tech IPO of the year](https://techcrunch.com/2026/01/20/one-time-hot-insurance-tech-ethos-poised-to-be-first-tech-ipo-of-the-year/) (2026-01-20)
-- [In an effort to protect young users, ChatGPT will now predict how old you are](https://techcrunch.com/2026/01/20/in-an-effort-to-protect-young-users-chatgpt-will-now-predict-how-old-you-are/) (2026-01-20)
-- [Elon Musk says Tesla’s restarted Dojo3 will be for ‘space-based AI compute’](https://techcrunch.com/2026/01/20/elon-musk-says-teslas-restarted-dojo3-will-be-for-space-based-ai-compute/) (2026-01-20)
-- [X open sources its algorithm while facing a transparency fine and Grok controversies](https://techcrunch.com/2026/01/20/x-open-sources-its-algorithm-while-facing-a-transparency-fine-and-grok-controversies/) (2026-01-20)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: macOS native DAW with Git branching model](https://www.scratchtrackaudio.com) (2026-01-21)
-- [Claude Chill: Fix Claude Code's Flickering in Terminal](https://github.com/davidbeesley/claude-chill) (2026-01-20)
-- [California is free of drought for the first time in 25 years](https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years) (2026-01-20)
-- [Lunar Radio Telescope to Unlock Cosmic Mysteries](https://spectrum.ieee.org/lunar-radio-telescope) (2026-01-20)
-- [Provably unmasking malicious behavior through execution traces](https://arxiv.org/abs/2512.13821) (2026-01-20)
+- [Libbbf: Bound Book Format, A high-performance container for comics and manga](https://github.com/ef1500/libbbf) (2026-01-21)
+- [Disaster planning for regular folks (2015)](https://lcamtuf.coredump.cx/prep/index-old.shtml) (2026-01-21)
+- [Anthropic's original take home assignment open sourced](https://github.com/anthropics/original_performance_takehome) (2026-01-21)
+- [Who owns Rudolph's nose?](https://creativelawcenter.com/copyright-rudolph-reindeer/) (2026-01-21)
+- [Show HN: Parallel Agentic Search on the Twitter Algorithm](https://www.morphllm.com/playground/na/warpgrep?repo=xai-org%2Fx-algorithm) (2026-01-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [One year in, Big Tech has out-maneuvered MAGA populists](https://www.theverge.com/column/864759/big-tech-trump-one-year-in) (2026-01-21)
 - [The best AirPods to buy](https://www.theverge.com/tech/645217/best-apple-airpods-pro) (2026-01-21)
 - [Netflix earned $1.5 billion from ads in 2025](https://www.theverge.com/news/864451/netflix-advertising-revenue-doubled-q4-2025-earnings) (2026-01-20)
 - [Trump admin admits DOGE employees had access to off-limits Social Security data](https://www.theverge.com/news/864643/doge-social-security-data-misuse) (2026-01-20)
 - [Netflix will revamp its mobile UI this year](https://www.theverge.com/news/864646/netflix-mobile-ui-revamp-design-vertical-video) (2026-01-20)
-- [FTC says it will appeal Meta antitrust loss](https://www.theverge.com/news/864622/ftc-meta-antitrust-ruling-appeal) (2026-01-20)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Cómo los MCPs de AWS y los agentes de IA están cambiando mi forma de diseñar infraestructura](https://dev.to/marcosferr/como-los-mcps-de-aws-y-los-agentes-de-ia-estan-cambiando-mi-forma-de-disenar-infraestructura-2e44) (2026-01-21)
-- [Touching GRASS: My Experience at the Stripe Developer Meetup](https://dev.to/maame-codes/touching-grass-my-experience-at-the-stripe-developer-meetup-375f) (2026-01-21)
-- [Docker Compose - SFTP gerenciando arquivos com segurança](https://dev.to/xandecodes/docker-compose-sftp-gerenciando-arquivos-com-seguranca-3m6j) (2026-01-21)
-- [The Helpful Adversary](https://dev.to/conroywhitney/the-helpful-adversary-37le) (2026-01-21)
-- [REST Não Basta Mais: Por que suas APIs precisam de "Contexto" na era da IA](https://dev.to/espigah/rest-nao-basta-mais-por-que-suas-apis-precisam-de-contexto-na-era-da-ia-2md2) (2026-01-21)
+- [How We Used eBPF + Rust to Observe AI Systems Without Instrumenting a Single Line of Code](https://dev.to/art_light/how-we-used-ebpf-rust-to-observe-ai-systems-without-instrumenting-a-single-line-of-code-51nc) (2026-01-21)
+- [Test](https://dev.to/kaustubhyerkade/test-29na) (2026-01-21)
+- [Como estudar programação do jeito certo e não virar um copia e cola de código de tutoriais do YouTube](https://dev.to/kaikcestari/como-estudar-programacao-do-jeito-certo-e-nao-virar-um-copia-e-cola-de-codigo-de-tutoriais-do-752) (2026-01-21)
+- [Week 15 React Learning Recap: Understanding Old React and Finally Respecting useReducer](https://dev.to/usama_dev/week-15-react-learning-recap-understanding-old-react-and-finally-respecting-usereducer-5bnb) (2026-01-21)
+- [RAG Pipeline Deep Dive: Ingestion, Chunking, Embedding, and Vector Search](https://dev.to/derrickryangiggs/rag-pipeline-deep-dive-ingestion-chunking-embedding-and-vector-search-2877) (2026-01-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Future of Coding Is Vibe Coding — But Fundamentals Still Matter ](https://python.plainenglish.io/the-future-of-coding-is-vibe-coding-but-fundamentals-still-matter-ff9fbdb1827a?source=rss------programming-5) (2026-01-21)
-- [Threading Essentials: Main Thread vs Background Tasks in Android](https://medium.com/@alaxhenry0121/threading-essentials-main-thread-vs-background-tasks-in-android-c704b8703547?source=rss------programming-5) (2026-01-21)
-- [Learning React: useReducer Is Not as Difficult as It Looks](https://code.likeagirl.io/learning-react-usereducer-is-not-as-difficult-as-it-looks-65c97a396890?source=rss------programming-5) (2026-01-21)
-- [5 Useful DIY Python Functions for JSON Parsing and Processing ](https://python.plainenglish.io/5-useful-diy-python-functions-for-json-parsing-and-processing-d95a096c541f?source=rss------programming-5) (2026-01-21)
-- [Vector Databases Explained for SQL Developers (No Math Required)](https://medium.com/@kaklotarrahul79/vector-databases-explained-for-sql-developers-no-math-required-a5b1286a33c2?source=rss------programming-5) (2026-01-21)
+- [How a Weekend Python Script Became a Long Term Retainer](https://python.plainenglish.io/how-a-weekend-python-script-became-a-long-term-retainer-e37e2879029f?source=rss------programming-5) (2026-01-21)
+- [How to Implement the Best If-Else Pattern in Programming](https://ademawan.medium.com/how-to-implement-the-best-if-else-pattern-in-programming-4983f25135c8?source=rss------programming-5) (2026-01-21)
+- [Someone Finally Built the Ralph Loop I Wanted.](https://medium.com/vibe-coding/someone-finally-built-the-ralph-loop-i-wanted-8f3050b7b181?source=rss------programming-5) (2026-01-21)
+- [Patterns in Binary Search](https://medium.com/@contactomyna/patterns-in-binary-search-4df1ce6df76c?source=rss------programming-5) (2026-01-21)
+- [This is not the Vibe Coding Book you are Looking for](https://donraab.medium.com/this-is-not-the-vibe-coding-book-you-are-looking-for-1e5577ec8f8e?source=rss------programming-5) (2026-01-21)
 
 </details>
 
@@ -480,11 +480,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
+- [Agentforce ログの見方：LLM プロンプトをレポートで可視化する方法](https://developer.salesforce.com/blogs/2026/01/jp-create-agentforce-llm-log-with-report.html) (2026-01-21)
 - [Migrate from Aura to LWC with Agentforce Vibes](https://developer.salesforce.com/blogs/2026/01/migrate-from-aura-to-lwc-with-agentforce-vibes.html) (2026-01-14)
 - [Accelerate Flexcard Development with Omnistudio MCP](https://developer.salesforce.com/blogs/2026/01/accelerate-flexcard-development-with-omnistudio-mcp.html) (2026-01-07)
 - [Developer Edition + スクラッチ組織で、複数の開発・検証組織を手にいれる](https://developer.salesforce.com/blogs/2025/12/jp-scratch-org-with-developer-edition.html) (2025-12-26)
 - [プロから学ぶ、Agentforce Vibesを使いこなす5つのヒント](https://developer.salesforce.com/blogs/2025/12/jp-five-pro-tips-for-using-agentforce-vibes.html) (2025-12-25)
-- [新しいサンプルアプリ「Agent Script Recipes」でハイブリッド推論をマスター](https://developer.salesforce.com/blogs/2025/12/jp-master-hybrid-reasoning-with-the-new-agent-script-recipes-sample-app.html) (2025-12-24)
 
 </details>
 
@@ -546,11 +546,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality](https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face) (2026-01-21)
 - [Differential Transformer V2](https://huggingface.co/blog/microsoft/diff-attn-v2) (2026-01-20)
 - [Introducing Waypoint-1: Real-time interactive video diffusion from Overworld](https://huggingface.co/blog/waypoint-1) (2026-01-20)
 - [Open Responses: What you need to know](https://huggingface.co/blog/open-responses) (2026-01-15)
 - [NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI](https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning) (2026-01-05)
-- [Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture](https://huggingface.co/blog/tiiuae/falcon-h1-arabic) (2026-01-05)
 
 </details>
 
@@ -579,11 +579,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Flux.2 Klein Debuts: Trying The Compact and Fast AI Image Model](https://www.analyticsvidhya.com/blog/2026/01/flux-2-klein-ai-image-model/) (2026-01-21)
 - [DuckDB vs. SQLite: A Comprehensive Comparison ](https://www.analyticsvidhya.com/blog/2026/01/duckdb-vs-sqlite/) (2026-01-20)
 - [What are Recursive Language Models (RLM)?](https://www.analyticsvidhya.com/blog/2026/01/what-are-recursive-language-models-rlm/) (2026-01-20)
 - [How I Created an AI Comic Using Gemini 3 and NotebookLM](https://www.analyticsvidhya.com/blog/2026/01/ai-comic-generation/) (2026-01-19)
 - [What is Context Window in LLM? Explained in 2 Minutes](https://www.analyticsvidhya.com/blog/2026/01/context-window-in-llm/) (2026-01-19)
-- [8 Types of Environments in AI](https://www.analyticsvidhya.com/blog/2026/01/types-of-environments-in-ai/) (2026-01-18)
 
 </details>
 
