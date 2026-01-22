@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Blue Origin’s satellite internet network TeraWave will move data at 6Tbps](https://techcrunch.com/2026/01/21/blue-origins-satellite-internet-network-terawave-will-move-data-at-6tbps/) (2026-01-21)
-- [Zipline charts drone delivery expansion with $600M in new funding](https://techcrunch.com/2026/01/21/zipline-charts-drone-delivery-expansion-with-600m-in-new-funding/) (2026-01-21)
-- [OpenEvidence hits $12B valuation, with new round led by Thrive, DST  ](https://techcrunch.com/2026/01/21/openevidence-hits-12b-valuation-with-new-round-led-by-thrive-dst/) (2026-01-21)
-- [Threads rolls out ads to all users worldwide](https://techcrunch.com/2026/01/21/threads-rolls-out-ads-to-all-users-worldwide/) (2026-01-21)
-- [YouTube TV’s multiview is getting a huge upgrade, letting viewers mix and match channels](https://techcrunch.com/2026/01/21/youtube-tvs-multiview-is-getting-a-huge-upgrade-letting-viewers-mix-and-match-channels/) (2026-01-21)
+- [Not to be outdone by OpenAI, Apple is reportedly developing an AI wearable](https://techcrunch.com/2026/01/21/not-to-be-outdone-by-openai-apple-is-reportedly-developing-an-ai-wearable/) (2026-01-22)
+- [Sources: Project SGLang spins out as RadixArk with $400M valuation as inference market explodes](https://techcrunch.com/2026/01/21/sources-project-sglang-spins-out-as-radixark-with-400m-valuation-as-inference-market-explodes/) (2026-01-21)
+- [A timeline of the US semiconductor market in 2025](https://techcrunch.com/2026/01/21/a-timeline-of-the-u-s-semiconductor-market-in-2025/) (2026-01-21)
+- [X copies Bluesky with a ‘Starterpacks’ feature that helps you find who to follow](https://techcrunch.com/2026/01/21/x-copies-bluesky-with-a-starterpacks-feature-that-helps-you-find-who-to-follow/) (2026-01-21)
+- [Todoist’s app now lets you add tasks to your to-do list by speaking to its AI](https://techcrunch.com/2026/01/21/todoists-app-now-lets-you-add-tasks-to-your-to-do-list-by-speaking-to-its-ai/) (2026-01-21)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [GenAI, the Snake Eating Its Own Tail](https://www.ybrikman.com/blog/2026/01/21/gen-ai-snake-eating-its-own-tail/) (2026-01-21)
-- [Stanford scientists found a way to regrow cartilage and stop arthritis](https://www.sciencedaily.com/releases/2026/01/260120000333.htm) (2026-01-21)
-- [Show HN: Company hiring trends and insights from job postings](https://jobswithgpt.com/company-profiles/) (2026-01-21)
-- [illumos](https://illumos.org/) (2026-01-21)
-- [Waiting for dawn in search: Search index, Google rulings and impact on Kagi](https://blog.kagi.com/waiting-dawn-search) (2026-01-21)
+- [Take potentially dangerous PDFs, and convert them to safe PDFs](https://github.com/freedomofpress/dangerzone) (2026-01-21)
+- [Jerry (YC S17) Is Hiring](https://www.ycombinator.com/companies/jerry-inc/jobs/QaoK3rw-software-engineer-core-automation-marketplace) (2026-01-21)
+- [Show HN: TerabyteDeals – Compare storage prices by $/TB](https://terabytedeals.com) (2026-01-21)
+- [Setting Up a Cluster of Tiny PCs for Parallel Computing](https://www.kenkoonwong.com/blog/parallel-computing/) (2026-01-21)
+- [Show HN: Rails UI](https://railsui.com/) (2026-01-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Samsung Galaxy S26 battery pack leak points to Qi2 charging support](https://www.theverge.com/news/865083/samsung-galaxy-s26-battery-pack-qi2-support) (2026-01-21)
-- [Volvo aims for an EV reset with the new EX60 crossover](https://www.theverge.com/news/864561/volvo-ex60-range-price-specs) (2026-01-21)
-- [Ubisoft cancels Prince of Persia remake as part of major reorganization](https://www.theverge.com/news/865060/ubisoft-prince-of-persia-sands-of-time-remake-canceled-reorganization) (2026-01-21)
-- [ElevenLabs made an AI album to plug its music generator](https://www.theverge.com/news/864843/elevenlabs-ai-music-eleven-album-release) (2026-01-21)
-- [Trump is steamrolling global calls for a moratorium on deep-sea mining](https://www.theverge.com/news/864916/deep-sea-mining-trump-fast-track-permits-battery-minerals) (2026-01-21)
+- [Blue Origin’s Starlink rival TeraWave promises 6-terabit satellite internet](https://www.theverge.com/news/865282/blue-origin-terawave-satellite-6tb) (2026-01-21)
+- [Everyone can hear your TV in their headphones using this transmitter](https://www.theverge.com/tech/864569/sennheiser-bluetooth-auracast-bta1-transmitter-hdr-275-wireless-headphones) (2026-01-21)
+- [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals) (2026-01-21)
+- [Apple is reportedly working on an AirTag-sized AI wearable](https://www.theverge.com/news/865212/apple-ai-pin-wearable-airtag-rumor) (2026-01-21)
+- [Anthropic’s new Claude ‘constitution’: be helpful and honest, and don’t destroy humanity](https://www.theverge.com/ai-artificial-intelligence/865185/anthropic-claude-constitution-soul-doc) (2026-01-21)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Here's Volvo's new EX60 $60,000 electric midsize SUV](https://arstechnica.com/cars/2026/01/heres-volvos-new-ex60-60000-electric-midsize-suv/) (2026-01-21)
-- [Has Gemini surpassed ChatGPT? We put the AI models to the test.](https://arstechnica.com/features/2026/01/has-gemini-surpassed-chatgpt-we-put-the-ai-models-to-the-test/) (2026-01-21)
-- [Zillow removed climate risk scores. This climate expert is restoring them.](https://arstechnica.com/science/2026/01/zillow-removed-climate-risk-scores-this-climate-expert-is-restoring-them/) (2026-01-21)
-- [Wikipedia volunteers spent years cataloging AI tells. Now there's a plugin to avoid them.](https://arstechnica.com/ai/2026/01/new-ai-plugin-uses-wikipedias-ai-writing-detection-rules-to-help-it-sound-human/) (2026-01-21)
-- [Webb reveals a planetary nebula with phenomenal clarity, and it is spectacular](https://arstechnica.com/space/2026/01/webb-has-given-us-with-a-stunning-new-view-of-a-well-known-planetary-nebula/) (2026-01-20)
+- [Judge orders stop to FBI search of devices seized from Washington Post reporter](https://arstechnica.com/tech-policy/2026/01/judge-orders-stop-to-fbi-search-of-devices-seized-from-washington-post-reporter/) (2026-01-21)
+- [Millions of people imperiled through sign-in links sent by SMS](https://arstechnica.com/security/2026/01/millions-of-people-imperiled-through-sign-in-links-sent-by-sms/) (2026-01-21)
+- [mRNA cancer vaccine shows protection at 5-year follow-up, Moderna and Merck say](https://arstechnica.com/health/2026/01/mrna-cancer-vaccine-shows-protection-at-5-year-follow-up-moderna-and-merck-say/) (2026-01-21)
+- [Trump FCC threatens to enforce equal-time rule on late-night talk shows](https://arstechnica.com/tech-policy/2026/01/trump-fcc-tries-to-get-more-republicans-on-late-night-and-daytime-talk-shows/) (2026-01-21)
+- [Why adding modern controls to 1996's Tomb Raider simply doesn't work](https://arstechnica.com/gaming/2026/01/the-problem-with-revisiting-tomb-raider-reacclimating-to-tank-controls/) (2026-01-21)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [New Year, New You Portfolio Challenge Presented by Google AI](https://dev.to/ylem/new-year-new-you-portfolio-challenge-presented-by-google-ai-5h7f) (2026-01-21)
-- [Automating 3270 Mainframe Workflows with Go](https://dev.to/jnnngs/automating-3270-mainframe-workflows-with-go-15d6) (2026-01-21)
-- [@ Mentions: The 2-Character Shortcut That 10x Your AI Coding Speed](https://dev.to/rajeshroyal/-mentions-the-2-character-shortcut-that-10x-your-ai-coding-speed-3jej) (2026-01-21)
-- [The Context Window Paradox: Why Bigger Isn't Always Better in AI](https://dev.to/suryadeepsinh_gohil/the-context-window-paradox-why-bigger-isnt-always-better-in-ai-1clj) (2026-01-21)
-- [React এবং Vite: মডার্ন ওয়েব](https://dev.to/rasheddevx/react-ebn-vite-mddaarn-oyyeb-46e1) (2026-01-21)
+- [Arquitectura Inmortal en AWS: Escala, Autocura y Domina el SAA-C03](https://dev.to/franciscojeg78/arquitectura-inmortal-en-aws-escala-autocura-y-domina-el-saa-c03-4hi8) (2026-01-22)
+- [Private-by-Design: Building Zero-Knowledge AI Health Logs with Homomorphic Encryption 🔒🩺](https://dev.to/wellallytech/private-by-design-building-zero-knowledge-ai-health-logs-with-homomorphic-encryption-157k) (2026-01-22)
+- [flashQ + Elysia & Hono.js: Background Jobs for Modern Bun Apps](https://dev.to/egeominotti/flashq-elysia-honojs-background-jobs-for-modern-bun-apps-42na) (2026-01-22)
+- [The SSL Handshake Failed. Now What?](https://dev.to/webmethodman/the-ssl-handshake-failed-now-what-2do9) (2026-01-22)
+- [Java 25 LTS: The Game-Changer You've Been Waiting For](https://dev.to/ashish_sharda_a540db2e50e/java-25-lts-the-game-changer-youve-been-waiting-for-jkf) (2026-01-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How to remove null or invalid values from pandas?](https://medium.com/@kshitijpkankatte5/how-to-remove-null-or-invalid-values-from-pandas-4c9299d03482?source=rss------programming-5) (2026-01-21)
-- [Programming Is Over. Engineering Is Not.](https://medium.com/@mkarriqi/programming-is-over-engineering-is-not-42d301659919?source=rss------programming-5) (2026-01-21)
-- [    ( /…](https://medium.com/@poojadeepa14/-6f5871558f90?source=rss------programming-5) (2026-01-21)
-- [Recently Solved a Production Issue A Real DevOps Moment](https://medium.com/@poojadeepa14/recently-solved-a-production-issue-a-real-devops-moment-1c90fac07af9?source=rss------programming-5) (2026-01-21)
-- [My Weird Trick for Nailing Any Interview as a Coder](https://medium.com/career-programming/my-weird-trick-for-nailing-any-interview-as-a-coder-55cb126b8448?source=rss------programming-5) (2026-01-21)
+- [12 JavaScript Tricks That Feel Like Cheating](https://javascript.plainenglish.io/12-javascript-tricks-that-feel-like-cheating-098df4beabd5?source=rss------programming-5) (2026-01-22)
+- [The fire distinguisher](https://medium.com/@miles.greenwark/the-fire-distinguisher-44c0d1424465?source=rss------programming-5) (2026-01-22)
+- [Is Tailwind CSS Making Us Bad Developers? The Case for Mastering Modern CSS in 2026](https://medium.com/@mahnoorsajid883/is-tailwind-css-making-us-bad-developers-the-case-for-mastering-modern-css-in-2026-4cc8bc34da68?source=rss------programming-5) (2026-01-22)
+- [System Design: A Beginner’s Guide to Building Scalable Applications](https://medium.com/@rahul-gujjar/system-design-a-beginners-guide-to-building-scalable-applications-056ed8ad67fb?source=rss------programming-5) (2026-01-22)
+- [The 7 Most Common @Transactional Mistakes in Spring Boot (and How to Fix Them)](https://medium.com/@sunil17bbmp/the-7-most-common-transactional-mistakes-in-spring-boot-and-how-to-fix-them-61481536e8b8?source=rss------programming-5) (2026-01-22)
 
 </details>
 
@@ -141,7 +141,7 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
-- [“Largest Infrastructure Buildout in Human History”: Jensen Huang on AI’s “Five-Layer Cake” at Davos](https://blogs.nvidia.com/blog/davos-wef-blackrock-ceo-larry-fink-jensen-huang/) (2026-01-21)
+- [‘Largest Infrastructure Buildout in Human History’: Jensen Huang on AI’s ‘Five-Layer Cake’ at Davos](https://blogs.nvidia.com/blog/davos-wef-blackrock-ceo-larry-fink-jensen-huang/) (2026-01-21)
 - [Survive the Quarantine Zone and More With Devolver Digital Games on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-quarantine-zone/) (2026-01-15)
 - [CEOs of NVIDIA and Lilly Share ‘Blueprint for What Is Possible’ in AI and Drug Discovery](https://blogs.nvidia.com/blog/jpmorgan-healthcare-nvidia-lilly/) (2026-01-13)
 - [AI’s Next Revolution: Multiply Labs Is Scaling Robotics-Driven Cell Therapy Biomanufacturing Labs](https://blogs.nvidia.com/blog/multiply-labs-isaac-omniverse/) (2026-01-12)
@@ -196,11 +196,11 @@
 <details>
 <summary>🟩 Node.js Blog</summary>
 
+- [New HackerOne Signal Requirement for Vulnerability Reports](https://nodejs.org/en/blog/announcements/hackerone-signal-requirement) (2026-01-21)
 - [Node.js 25.4.0 (Current)](https://nodejs.org/en/blog/release/v25.4.0) (2026-01-19)
 - [Mitigating Denial-of-Service Vulnerability from Unrecoverable Stack Space Exhaustion for React, Next.js, and APM Users](https://nodejs.org/en/blog/vulnerability/january-2026-dos-mitigation-async-hooks) (2026-01-13)
 - [Node.js 22.22.0 (LTS)](https://nodejs.org/en/blog/release/v22.22.0) (2026-01-13)
 - [Node.js 25.3.0 (Current)](https://nodejs.org/en/blog/release/v25.3.0) (2026-01-13)
-- [Node.js 24.13.0 (LTS)](https://nodejs.org/en/blog/release/v24.13.0) (2026-01-13)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Announcing the Checkpoint/Restore Working Group](https://kubernetes.io/blog/2026/01/21/introducing-checkpoint-restore-wg/) (2026-01-21)
 - [Uniform API server access using clientcmd](https://kubernetes.io/blog/2026/01/19/clientcmd-apiserver-access/) (2026-01-19)
 - [Kubernetes v1.35: Restricting executables invoked by kubeconfigs via exec plugin allowList added to kuberc](https://kubernetes.io/blog/2026/01/09/kubernetes-v1-35-kuberc-credential-plugin-allowlist/) (2026-01-09)
 - [Kubernetes v1.35: Mutable PersistentVolume Node Affinity (alpha)](https://kubernetes.io/blog/2026/01/08/kubernetes-v1-35-mutable-pv-nodeaffinity/) (2026-01-08)
 - [Kubernetes v1.35: A Better Way to Pass Service Account Tokens to CSI Drivers](https://kubernetes.io/blog/2026/01/07/kubernetes-v1-35-csi-sa-tokens-secrets-field-beta/) (2026-01-07)
-- [Kubernetes v1.35: Extended Toleration Operators to Support Numeric Comparisons (Alpha)](https://kubernetes.io/blog/2026/01/05/kubernetes-v1-35-numeric-toleration-operators/) (2026-01-05)
 
 </details>
 
@@ -478,6 +478,17 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 </details>
 
 <details>
+<summary>☁️ Salesforce Developer</summary>
+
+- [Agentforce ログの見方：LLM プロンプトをレポートで可視化する方法](https://developer.salesforce.com/blogs/2026/01/jp-create-agentforce-llm-log-with-report.html) (2026-01-21)
+- [Migrate from Aura to LWC with Agentforce Vibes](https://developer.salesforce.com/blogs/2026/01/migrate-from-aura-to-lwc-with-agentforce-vibes.html) (2026-01-14)
+- [Accelerate Flexcard Development with Omnistudio MCP](https://developer.salesforce.com/blogs/2026/01/accelerate-flexcard-development-with-omnistudio-mcp.html) (2026-01-07)
+- [Developer Edition + スクラッチ組織で、複数の開発・検証組織を手にいれる](https://developer.salesforce.com/blogs/2025/12/jp-scratch-org-with-developer-edition.html) (2025-12-26)
+- [プロから学ぶ、Agentforce Vibesを使いこなす5つのヒント](https://developer.salesforce.com/blogs/2025/12/jp-five-pro-tips-for-using-agentforce-vibes.html) (2025-12-25)
+
+</details>
+
+<details>
 <summary>🧡 HubSpot Developer</summary>
 
 - [Production-Ready OAuth Token Management for HubSpot Integrations](https://developers.hubspot.com/blog/oauth-token-management-hubspot-integrations) (2026-01-13)
@@ -524,11 +535,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [PyTorch 2.10 Release Blog](https://pytorch.org/blog/pytorch-2-10-release-blog/) (2026-01-21)
 - [Supercharging LLMs: Scalable RL with torchforge and Weaver](https://pytorch.org/blog/supercharging-llms-scalable-rl-with-torchforge-and-weaver/) (2026-01-09)
 - [Warp Specialization in Triton: Design and Roadmap](https://pytorch.org/blog/warp-specialization-in-triton-design-and-roadmap/) (2026-01-09)
 - [PyTorch 2.9: FlexAttention Optimization Practice on Intel GPUs](https://pytorch.org/blog/pytorch-2-9-flexattention-optimization-practice-on-intel-gpus/) (2026-01-08)
 - [Deploying Smarter: Hardware-Software Co-design in PyTorch](https://pytorch.org/blog/deploying-smarter-hardware-software-co-design/) (2025-12-18)
-- [Enabling Cluster Launch Control with TLX](https://pytorch.org/blog/enabling-cluster-launch-control-with-tlx/) (2025-12-17)
 
 </details>
 
@@ -555,13 +566,24 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 </details>
 
 <details>
+<summary>📊 Towards Data Science</summary>
+
+- [Google Trends is Misleading You: How to Do Machine Learning with Google Trends Data](https://towardsdatascience.com/google-trends-is-misleading-you-how-to-do-machine-learning-with-google-trends-data/) (2026-01-21)
+- [If You Want to Become a Data Scientist in 2026, Do This](https://towardsdatascience.com/why-most-people-struggle-to-get-data-science-jobs-in-2026/) (2026-01-21)
+- [Building a Self-Healing Data Pipeline That Fixes Its Own Python Errors](https://towardsdatascience.com/building-a-self-healing-data-pipeline-that-fixes-its-own-python-errors/) (2026-01-21)
+- [A Case for the T-statistic](https://towardsdatascience.com/a-case-for-the-t-statistic/) (2026-01-21)
+- [Does Calendar-Based Time-Intelligence Change Custom Logic?](https://towardsdatascience.com/does-calendar-based-time-intelligence-change-custom-logic/) (2026-01-20)
+
+</details>
+
+<details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [50+ Machine Learning Resources for Self Study in 2026](https://www.analyticsvidhya.com/blog/2026/01/machine-learning-resources-for-self-study/) (2026-01-21)
 - [10 NotebookLM Super Prompts For Pro-Level Productivity](https://www.analyticsvidhya.com/blog/2026/01/notebooklm-super-prompts-for-pro-level-productivity/) (2026-01-21)
 - [MCPToolbox for Databases: A Practical Guide to Bridging LLMs and Your Data ](https://www.analyticsvidhya.com/blog/2026/01/mcptoolbox-for-databases/) (2026-01-21)
 - [Flux.2 Klein Debuts: Trying The Compact and Fast AI Image Model](https://www.analyticsvidhya.com/blog/2026/01/flux-2-klein-ai-image-model/) (2026-01-21)
 - [DuckDB vs. SQLite: A Comprehensive Comparison ](https://www.analyticsvidhya.com/blog/2026/01/duckdb-vs-sqlite/) (2026-01-20)
-- [What are Recursive Language Models (RLM)?](https://www.analyticsvidhya.com/blog/2026/01/what-are-recursive-language-models-rlm/) (2026-01-20)
 
 </details>
 
