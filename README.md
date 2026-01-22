@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Snapchat gives parents new insights into teens’ screen time and friends](https://techcrunch.com/2026/01/22/snapchat-gives-parents-new-insights-into-teens-screen-time-and-friends/) (2026-01-22)
+- [Quadric rides the shift from cloud AI to on-device inference — and it’s paying off](https://techcrunch.com/2026/01/22/quadric-rides-the-shift-from-cloud-ai-to-on-device-inference-and-its-paying-off/) (2026-01-22)
+- [Tiger Global, Microsoft to fully exit Walmart-backed PhonePe via its IPO](https://techcrunch.com/2026/01/22/tiger-global-microsoft-to-fully-exit-walmart-backed-phonepe-via-its-ipo/) (2026-01-22)
+- [Former Google trio is building an interactive AI-powered learning app for kids](https://techcrunch.com/2026/01/22/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/) (2026-01-22)
 - [Not to be outdone by OpenAI, Apple is reportedly developing an AI wearable](https://techcrunch.com/2026/01/21/not-to-be-outdone-by-openai-apple-is-reportedly-developing-an-ai-wearable/) (2026-01-22)
-- [Sources: Project SGLang spins out as RadixArk with $400M valuation as inference market explodes](https://techcrunch.com/2026/01/21/sources-project-sglang-spins-out-as-radixark-with-400m-valuation-as-inference-market-explodes/) (2026-01-21)
-- [A timeline of the US semiconductor market in 2025](https://techcrunch.com/2026/01/21/a-timeline-of-the-u-s-semiconductor-market-in-2025/) (2026-01-21)
-- [X copies Bluesky with a ‘Starterpacks’ feature that helps you find who to follow](https://techcrunch.com/2026/01/21/x-copies-bluesky-with-a-starterpacks-feature-that-helps-you-find-who-to-follow/) (2026-01-21)
-- [Todoist’s app now lets you add tasks to your to-do list by speaking to its AI](https://techcrunch.com/2026/01/21/todoists-app-now-lets-you-add-tasks-to-your-to-do-list-by-speaking-to-its-ai/) (2026-01-21)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Doctors in Brazil using tilapia fish skin to treat burn victims](https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims) (2026-01-22)
-- [Show HN: High speed graphics rendering research with tinygrad/tinyJIT](https://github.com/quantbagel/gtinygrad) (2026-01-22)
-- [Threat actors expand abuse of Microsoft Visual Studio Code](https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/) (2026-01-22)
-- [Show HN: Dotenv Mask Editor: No more embarrassing screen leaks of your .env](https://marketplace.visualstudio.com/items?itemName=xinbenlv.dotenv-mask-editor) (2026-01-22)
-- [From stealth blackout to whitelisting: Inside the Iranian shutdown](https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/) (2026-01-22)
+- [40M Americans Live Alone, 29% of households](https://www.apolloacademy.com/40-million-americans-live-alone/) (2026-01-22)
+- [Flowtel (YC W25) Is Hiring](https://www.ycombinator.com/companies/flowtel/jobs/LaddaEz-founding-engineer-staff-senior) (2026-01-22)
+- [I'm 34. Here's 34 things I wish I knew at 21](https://elliot.my/im-34-heres-34-things-i-wish-i-knew-at-21/) (2026-01-22)
+- [Design Thinking Books You Must Read](https://www.designorate.com/design-thinking-books/) (2026-01-22)
+- [We will ban you and ridicule you in public if you waste our time on crap reports](https://curl.se/.well-known/security.txt) (2026-01-22)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Why 2026 is a hot year for lithium](https://www.technologyreview.com/2026/01/22/1131563/lithium-2026/) (2026-01-22)
+- [Yann LeCun’s new venture is a contrarian bet against large language models  ](https://www.technologyreview.com/2026/01/22/1131661/yann-lecuns-new-venture-ami-labs/) (2026-01-22)
 - [Rethinking AI’s future in an augmented workplace](https://www.technologyreview.com/2026/01/21/1131366/rethinking-ais-future-in-an-augmented-workplace/) (2026-01-21)
 - [Everyone wants AI sovereignty. No one can truly have it.](https://www.technologyreview.com/2026/01/21/1131513/everyone-wants-ai-sovereignty-no-one-can-truly-have-it/) (2026-01-21)
 - [The Download: Trump at Davos, and AI scientists](https://www.technologyreview.com/2026/01/21/1131548/the-download-trump-at-davos-and-ai-scientists/) (2026-01-21)
-- [All anyone wants to talk about at Davos is AI and Donald Trump](https://www.technologyreview.com/2026/01/21/1131538/all-anyone-wants-to-talk-about-at-davos-is-ai-and-donald-trump/) (2026-01-21)
-- [Reimagining ERP for the agentic AI era](https://www.technologyreview.com/2026/01/20/1129965/reimagining-erp-for-the-agentic-ai-era/) (2026-01-20)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [ReactJS Hook Pattern ~Debounce~](https://dev.to/kkr0423/reactjs-hook-pattern-debounce-345j) (2026-01-22)
-- [Monitoring Linux servers without Grafana, Docker, or agents](https://dev.to/nurulislamrimon/monitoring-linux-servers-without-grafana-docker-or-agents-37l5) (2026-01-22)
-- [Rotating Residential Proxy Evaluation Mini-Lab You Can Run in 90 Minutes](https://dev.to/gabrielewayner/rotating-residential-proxy-evaluation-mini-lab-you-can-run-in-90-minutes-207d) (2026-01-22)
-- [DOM IN JAVASCRIPT](https://dev.to/keerthigap/dom-in-javascript-3nll) (2026-01-22)
-- [Ringer Movies: ‘Another 48 Hrs’ With Bill Simmons Chris Ryan, and Van Lathan | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-another-48-hrs-with-bill-simmons-chris-ryan-and-van-lathan-the-rewatchables-2ekb) (2026-01-22)
+- [[Boost]](https://dev.to/link2twenty/-23b8) (2026-01-22)
+- [AWS Elastic Kubernetes Service (EKS)](https://dev.to/narottamb/aws-elastic-kubernetes-service-eks-1d9e) (2026-01-22)
+- [[SUI] @StateObject vs @ObservedObject](https://dev.to/david_goyes_a488f58a17a53/sui-stateobject-vs-observedobject-4cgj) (2026-01-22)
+- [5 VS Code Extensions I Can't Live Without in 2026 🚀](https://dev.to/techsorter/5-vs-code-extensions-i-cant-live-without-in-2026-3cnf) (2026-01-22)
+- [The First Time a Trace Answered a Question I Didn’t Know How to Ask](https://dev.to/alexandr_bandurchin/the-first-time-a-trace-answered-a-question-i-didnt-know-how-to-ask-17m4) (2026-01-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why Most Candidates Fail Infosys Salesforce Interviews (Admin-Focused Reality)](https://medium.com/@pardeepgill82/why-most-candidates-fail-infosys-salesforce-interviews-admin-focused-reality-5b28704313a8?source=rss------programming-5) (2026-01-22)
-- [ASI Research Ramayan Par Kya Kehti Hai? Sach Ya Myth — Ek Seedha, Evidence-Based Answer](https://medium.com/@Sanatan_life/asi-research-ramayan-par-kya-kehti-hai-sach-ya-myth-ek-seedha-evidence-based-answer-de32572ff5f3?source=rss------programming-5) (2026-01-22)
-- [The Case for Smaller, Smarter AI Models](https://medium.com/@alexzanfir/the-case-for-smaller-smarter-ai-models-4a8c2522d146?source=rss------programming-5) (2026-01-22)
-- [Why These 30 Advanced Java Interview Questions Decide Rejection vs Offer](https://medium.com/@pardeepgill82/why-these-30-advanced-java-interview-questions-decide-rejection-vs-offer-ea8e8d48bbec?source=rss------programming-5) (2026-01-22)
-- [AI Isn’t Killing Your Expertise. It’s Just Moving the Paywall.](https://medium.com/@flamehaven/ai-isnt-killing-your-expertise-it-s-just-moving-the-paywall-fa05b6b85ce2?source=rss------programming-5) (2026-01-22)
+- [Why Your PHP Deploys Are Slow? Artifact Size Is the Hidden Problem](https://medium.com/tech-vibes/why-your-php-deploys-are-slow-artifact-size-is-the-hidden-problem-f792d00c066a?source=rss------programming-5) (2026-01-22)
+- [What I Learned From Beginner CSS Mistakes](https://medium.com/@TusharKanjariya/what-i-learned-from-beginner-css-mistakes-2f3dcdb4e3a1?source=rss------programming-5) (2026-01-22)
+- [ Real-World Flutter Performance Case Studies: Fixing Jank in Production Apps](https://medium.com/fludev/real-world-flutter-performance-case-studies-fixing-jank-in-production-apps-5f6357be87e0?source=rss------programming-5) (2026-01-22)
+- [Building systems with Langchain deep agents and Box](https://medium.com/box-developer-blog/building-systems-with-langchain-deep-agents-and-box-42e6afc62dbb?source=rss------programming-5) (2026-01-22)
+- [Vercel Just Solved Browser Automation for AI Agents](https://pub.towardsai.net/vercel-just-solved-browser-automation-for-ai-agents-b3414ebdb4d7?source=rss------programming-5) (2026-01-22)
 
 </details>
 
@@ -557,33 +557,33 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>🤖 AI News</summary>
 
+- [Gates Foundation and OpenAI test AI in African healthcare](https://www.artificialintelligence-news.com/news/gates-foundation-and-openai-test-ai-in-african-healthcare/) (2026-01-22)
 - [Balancing AI cost efficiency with data sovereignty](https://www.artificialintelligence-news.com/news/balancing-ai-cost-efficiency-with-data-sovereignty/) (2026-01-21)
 - [The quiet work behind Citi’s 4,000-person internal AI rollout](https://www.artificialintelligence-news.com/news/the-quiet-work-behind-citi-4000-person-internal-ai-rollout/) (2026-01-21)
 - [SAP and Fresenius to build sovereign AI backbone for healthcare](https://www.artificialintelligence-news.com/news/sap-and-fresenius-build-sovereign-ai-backbone-for-healthcare/) (2026-01-19)
 - [Scaling AI value beyond pilot phase purgatory](https://www.artificialintelligence-news.com/news/scaling-ai-value-beyond-pilot-phase-purgatory/) (2026-01-19)
-- [Credit unions, fintech and the AI inflection of financial services](https://www.artificialintelligence-news.com/news/credit-union-ai-in-operational-settings-learnings-from-the-fintech-sector/) (2026-01-19)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [What Other Industries Can Learn from Healthcare’s Knowledge Graphs](https://towardsdatascience.com/what-other-industries-can-learn-from-healthcares-knowledge-graphs/) (2026-01-22)
 - [Google Trends is Misleading You: How to Do Machine Learning with Google Trends Data](https://towardsdatascience.com/google-trends-is-misleading-you-how-to-do-machine-learning-with-google-trends-data/) (2026-01-21)
 - [If You Want to Become a Data Scientist in 2026, Do This](https://towardsdatascience.com/why-most-people-struggle-to-get-data-science-jobs-in-2026/) (2026-01-21)
 - [Building a Self-Healing Data Pipeline That Fixes Its Own Python Errors](https://towardsdatascience.com/building-a-self-healing-data-pipeline-that-fixes-its-own-python-errors/) (2026-01-21)
 - [A Case for the T-statistic](https://towardsdatascience.com/a-case-for-the-t-statistic/) (2026-01-21)
-- [Does Calendar-Based Time-Intelligence Change Custom Logic?](https://towardsdatascience.com/does-calendar-based-time-intelligence-change-custom-logic/) (2026-01-20)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Vibe Coding a Bridge-Ball Game with Emergent in Minutes](https://www.analyticsvidhya.com/blog/2026/01/vibe-coding-game-with-emergent-in-minutes/) (2026-01-22)
 - [50+ Machine Learning Resources for Self Study in 2026](https://www.analyticsvidhya.com/blog/2026/01/machine-learning-resources-for-self-study/) (2026-01-21)
 - [10 NotebookLM Super Prompts For Pro-Level Productivity](https://www.analyticsvidhya.com/blog/2026/01/notebooklm-super-prompts-for-pro-level-productivity/) (2026-01-21)
 - [MCPToolbox for Databases: A Practical Guide to Bridging LLMs and Your Data ](https://www.analyticsvidhya.com/blog/2026/01/mcptoolbox-for-databases/) (2026-01-21)
 - [Flux.2 Klein Debuts: Trying The Compact and Fast AI Image Model](https://www.analyticsvidhya.com/blog/2026/01/flux-2-klein-ai-image-model/) (2026-01-21)
-- [DuckDB vs. SQLite: A Comprehensive Comparison ](https://www.analyticsvidhya.com/blog/2026/01/duckdb-vs-sqlite/) (2026-01-20)
 
 </details>
 
@@ -601,11 +601,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [The 2026 Time Series Toolkit: 5 Foundation Models for Autonomous Forecasting](https://machinelearningmastery.com/the-2026-time-series-toolkit-5-foundation-models-for-autonomous-forecasting/) (2026-01-22)
 - [Everything You Need to Know About How Python Manages Memory](https://machinelearningmastery.com/everything-you-need-to-know-about-how-python-manages-memory/) (2026-01-21)
 - [The Machine Learning Practitioner’s Guide to Model Deployment with FastAPI](https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-model-deployment-with-fastapi/) (2026-01-20)
 - [Top 5 Agentic AI Website Builders (That Actually Ship)](https://machinelearningmastery.com/top-5-agentic-ai-website-builders-that-actually-ship/) (2026-01-19)
 - [The Complete Guide to Data Augmentation for Machine Learning](https://machinelearningmastery.com/the-complete-guide-to-data-augmentation-for-machine-learning/) (2026-01-16)
-- [The Beginner’s Guide to Computer Vision with Python](https://machinelearningmastery.com/the-beginners-guide-to-computer-vision-with-python/) (2026-01-15)
 
 </details>
 
