@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Take potentially dangerous PDFs, and convert them to safe PDFs](https://github.com/freedomofpress/dangerzone) (2026-01-21)
-- [Jerry (YC S17) Is Hiring](https://www.ycombinator.com/companies/jerry-inc/jobs/QaoK3rw-software-engineer-core-automation-marketplace) (2026-01-21)
-- [Show HN: TerabyteDeals – Compare storage prices by $/TB](https://terabytedeals.com) (2026-01-21)
-- [Setting Up a Cluster of Tiny PCs for Parallel Computing](https://www.kenkoonwong.com/blog/parallel-computing/) (2026-01-21)
-- [Show HN: Rails UI](https://railsui.com/) (2026-01-21)
+- [Doctors in Brazil using tilapia fish skin to treat burn victims](https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims) (2026-01-22)
+- [Show HN: High speed graphics rendering research with tinygrad/tinyJIT](https://github.com/quantbagel/gtinygrad) (2026-01-22)
+- [Threat actors expand abuse of Microsoft Visual Studio Code](https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/) (2026-01-22)
+- [Show HN: Dotenv Mask Editor: No more embarrassing screen leaks of your .env](https://marketplace.visualstudio.com/items?itemName=xinbenlv.dotenv-mask-editor) (2026-01-22)
+- [From stealth blackout to whitelisting: Inside the Iranian shutdown](https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/) (2026-01-22)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Hundreds of creatives warn against an AI slop future](https://www.theverge.com/ai-artificial-intelligence/864951/human-artistry-campaign-ai-licensing-artists) (2026-01-22)
 - [Blue Origin’s Starlink rival TeraWave promises 6-terabit satellite internet](https://www.theverge.com/news/865282/blue-origin-terawave-satellite-6tb) (2026-01-21)
 - [Everyone can hear your TV in their headphones using this transmitter](https://www.theverge.com/tech/864569/sennheiser-bluetooth-auracast-bta1-transmitter-hdr-275-wireless-headphones) (2026-01-21)
 - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals) (2026-01-21)
 - [Apple is reportedly working on an AirTag-sized AI wearable](https://www.theverge.com/news/865212/apple-ai-pin-wearable-airtag-rumor) (2026-01-21)
-- [Anthropic’s new Claude ‘constitution’: be helpful and honest, and don’t destroy humanity](https://www.theverge.com/ai-artificial-intelligence/865185/anthropic-claude-constitution-soul-doc) (2026-01-21)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Arquitectura Inmortal en AWS: Escala, Autocura y Domina el SAA-C03](https://dev.to/franciscojeg78/arquitectura-inmortal-en-aws-escala-autocura-y-domina-el-saa-c03-4hi8) (2026-01-22)
-- [Private-by-Design: Building Zero-Knowledge AI Health Logs with Homomorphic Encryption 🔒🩺](https://dev.to/wellallytech/private-by-design-building-zero-knowledge-ai-health-logs-with-homomorphic-encryption-157k) (2026-01-22)
-- [flashQ + Elysia & Hono.js: Background Jobs for Modern Bun Apps](https://dev.to/egeominotti/flashq-elysia-honojs-background-jobs-for-modern-bun-apps-42na) (2026-01-22)
-- [The SSL Handshake Failed. Now What?](https://dev.to/webmethodman/the-ssl-handshake-failed-now-what-2do9) (2026-01-22)
-- [Java 25 LTS: The Game-Changer You've Been Waiting For](https://dev.to/ashish_sharda_a540db2e50e/java-25-lts-the-game-changer-youve-been-waiting-for-jkf) (2026-01-22)
+- [ReactJS Hook Pattern ~Debounce~](https://dev.to/kkr0423/reactjs-hook-pattern-debounce-345j) (2026-01-22)
+- [Monitoring Linux servers without Grafana, Docker, or agents](https://dev.to/nurulislamrimon/monitoring-linux-servers-without-grafana-docker-or-agents-37l5) (2026-01-22)
+- [Rotating Residential Proxy Evaluation Mini-Lab You Can Run in 90 Minutes](https://dev.to/gabrielewayner/rotating-residential-proxy-evaluation-mini-lab-you-can-run-in-90-minutes-207d) (2026-01-22)
+- [DOM IN JAVASCRIPT](https://dev.to/keerthigap/dom-in-javascript-3nll) (2026-01-22)
+- [Ringer Movies: ‘Another 48 Hrs’ With Bill Simmons Chris Ryan, and Van Lathan | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-another-48-hrs-with-bill-simmons-chris-ryan-and-van-lathan-the-rewatchables-2ekb) (2026-01-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [12 JavaScript Tricks That Feel Like Cheating](https://javascript.plainenglish.io/12-javascript-tricks-that-feel-like-cheating-098df4beabd5?source=rss------programming-5) (2026-01-22)
-- [The fire distinguisher](https://medium.com/@miles.greenwark/the-fire-distinguisher-44c0d1424465?source=rss------programming-5) (2026-01-22)
-- [Is Tailwind CSS Making Us Bad Developers? The Case for Mastering Modern CSS in 2026](https://medium.com/@mahnoorsajid883/is-tailwind-css-making-us-bad-developers-the-case-for-mastering-modern-css-in-2026-4cc8bc34da68?source=rss------programming-5) (2026-01-22)
-- [System Design: A Beginner’s Guide to Building Scalable Applications](https://medium.com/@rahul-gujjar/system-design-a-beginners-guide-to-building-scalable-applications-056ed8ad67fb?source=rss------programming-5) (2026-01-22)
-- [The 7 Most Common @Transactional Mistakes in Spring Boot (and How to Fix Them)](https://medium.com/@sunil17bbmp/the-7-most-common-transactional-mistakes-in-spring-boot-and-how-to-fix-them-61481536e8b8?source=rss------programming-5) (2026-01-22)
+- [Why Most Candidates Fail Infosys Salesforce Interviews (Admin-Focused Reality)](https://medium.com/@pardeepgill82/why-most-candidates-fail-infosys-salesforce-interviews-admin-focused-reality-5b28704313a8?source=rss------programming-5) (2026-01-22)
+- [ASI Research Ramayan Par Kya Kehti Hai? Sach Ya Myth — Ek Seedha, Evidence-Based Answer](https://medium.com/@Sanatan_life/asi-research-ramayan-par-kya-kehti-hai-sach-ya-myth-ek-seedha-evidence-based-answer-de32572ff5f3?source=rss------programming-5) (2026-01-22)
+- [The Case for Smaller, Smarter AI Models](https://medium.com/@alexzanfir/the-case-for-smaller-smarter-ai-models-4a8c2522d146?source=rss------programming-5) (2026-01-22)
+- [Why These 30 Advanced Java Interview Questions Decide Rejection vs Offer](https://medium.com/@pardeepgill82/why-these-30-advanced-java-interview-questions-decide-rejection-vs-offer-ea8e8d48bbec?source=rss------programming-5) (2026-01-22)
+- [AI Isn’t Killing Your Expertise. It’s Just Moving the Paywall.](https://medium.com/@flamehaven/ai-isnt-killing-your-expertise-it-s-just-moving-the-paywall-fa05b6b85ce2?source=rss------programming-5) (2026-01-22)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Headlamp in 2025: Project Highlights](https://kubernetes.io/blog/2026/01/22/headlamp-in-2025-project-highlights/) (2026-01-22)
 - [Announcing the Checkpoint/Restore Working Group](https://kubernetes.io/blog/2026/01/21/introducing-checkpoint-restore-wg/) (2026-01-21)
 - [Uniform API server access using clientcmd](https://kubernetes.io/blog/2026/01/19/clientcmd-apiserver-access/) (2026-01-19)
 - [Kubernetes v1.35: Restricting executables invoked by kubeconfigs via exec plugin allowList added to kuberc](https://kubernetes.io/blog/2026/01/09/kubernetes-v1-35-kuberc-credential-plugin-allowlist/) (2026-01-09)
 - [Kubernetes v1.35: Mutable PersistentVolume Node Affinity (alpha)](https://kubernetes.io/blog/2026/01/08/kubernetes-v1-35-mutable-pv-nodeaffinity/) (2026-01-08)
-- [Kubernetes v1.35: A Better Way to Pass Service Account Tokens to CSI Drivers](https://kubernetes.io/blog/2026/01/07/kubernetes-v1-35-csi-sa-tokens-secrets-field-beta/) (2026-01-07)
 
 </details>
 
