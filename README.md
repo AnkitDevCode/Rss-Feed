@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Former CEO of celeb fav gym Dogpound launches $5M fund to back wellness companies](https://techcrunch.com/2026/01/22/former-ceo-of-celeb-fav-gym-dogpound-launches-5m-fund-to-back-wellness-companies/) (2026-01-22)
-- [Struggling fusion power company General Fusion to go public via $1B reverse merger](https://techcrunch.com/2026/01/22/struggling-fusion-power-company-general-fusion-to-go-public-via-1b-reverse-merger/) (2026-01-22)
-- [Waymo continues robotaxi ramp up with Miami service now open to public](https://techcrunch.com/2026/01/22/waymo-continues-robotaxi-ramp-up-with-miami-service-now-open-to-public/) (2026-01-22)
-- [Ireland proposes new law allowing police to use spyware](https://techcrunch.com/2026/01/22/ireland-proposes-new-law-allowing-police-to-use-spyware/) (2026-01-22)
-- [Google’s AI Mode can now tap into your Gmail and Photos to provide tailored responses](https://techcrunch.com/2026/01/22/googles-ai-mode-can-now-tap-into-your-gmail-and-photos-to-provide-tailored-responses/) (2026-01-22)
+- [OpenAI is coming for those sweet enterprise dollars in 2026](https://techcrunch.com/2026/01/22/openai-is-coming-for-those-sweet-enterprise-dollars-in-2026/) (2026-01-23)
+- [Vimeo starts layoffs after acquisition by Bending Spoons](https://techcrunch.com/2026/01/22/vimeo-starts-layoffs-after-acquisition-by-bending-spoons/) (2026-01-23)
+- [GM to end Chevy Bolt EV production next year, move China-made Buick to US factory](https://techcrunch.com/2026/01/22/gm-to-end-chevy-bolt-ev-production-next-year-move-china-made-buick-to-u-s-factory/) (2026-01-22)
+- [Capital One acquires Brex for steep discount to its peak valuation, but early believers are laughing all the way to the bank](https://techcrunch.com/2026/01/22/capital-one-acquires-brex-for-steep-discount-to-its-peak-valuation-but-early-believers-are-laughing-all-the-way-to-the-bank/) (2026-01-22)
+- [Voice AI engine and OpenAI partner LiveKit hits $1B valuation](https://techcrunch.com/2026/01/22/voice-ai-engine-and-openai-partner-livekit-hits-1b-valuation/) (2026-01-22)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Macron says €300B in EU savings sent to the US every year will be invested in EU](https://old.reddit.com/r/europe/comments/1qjtvtl/macron_says_300_billion_in_european_savings_flown/) (2026-01-22)
-- [CSS Optical Illusions](https://alvaromontoro.com/blog/68091/css-optical-illusions) (2026-01-22)
-- [Launch HN: Constellation Space (YC W26) – AI for satellite mission assurance](https://constellation-io.com/) (2026-01-22)
-- [AnswerThis (YC F25) Is Hiring](https://www.ycombinator.com/companies/answerthis/jobs/r5VHmSC-ai-agent-orchestration) (2026-01-22)
-- [Show HN: isometric.nyc – giant isometric pixel art map of NYC](https://cannoneyed.com/isometric-nyc/) (2026-01-22)
+- [100x (YC S22) Is Hiring a Technical Content Creator](https://100x.bot/creator-program) (2026-01-23)
+- [Vibe a Guitar Pedal](https://polyend.com/endless/) (2026-01-23)
+- [Why medieval city-builder video games are historically inaccurate (2020)](https://www.leidenmedievalistsblog.nl/articles/why-medieval-city-builder-video-games-are-historically-inaccurate) (2026-01-23)
+- [Metastable Failures and Interactions Between Systems](https://charap.co/on-metastable-failures-and-interactions-between-systems/) (2026-01-23)
+- [Improving the usability of C libraries in Swift](https://www.swift.org/blog/improving-usability-of-c-libraries-in-swift/) (2026-01-22)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Forza Horizon 6 launches in May](https://www.theverge.com/news/865355/forza-horizon-6-xbox-developer-direct-2026) (2026-01-22)
-- [Xbox Developer Direct 2026: the biggest games and announcements](https://www.theverge.com/games/865573/xbox-developer-direct-2026-the-biggest-games-and-announcements) (2026-01-22)
-- [Sony announces its first turntables in years](https://www.theverge.com/news/865333/sony-new-turntables-2026) (2026-01-22)
-- [Free TV startup Telly only had 35,000 units in people’s homes last fall](https://www.theverge.com/column/865645/telly-units) (2026-01-22)
-- [Claude Code is suddenly everywhere inside Microsoft](https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad) (2026-01-22)
+- [The TikTok deal is done, finally](https://www.theverge.com/tech/866437/tiktok-usds-bytedance-sale-oracle-mgx) (2026-01-23)
+- [Ring can verify videos now, but that might not help you with most AI fakes](https://www.theverge.com/news/866441/ring-verify-security-camera-ai-fakes-video-verification) (2026-01-23)
+- [Beyond Good and Evil 2 somehow survived the purge at Ubisoft](https://www.theverge.com/games/866439/beyond-good-and-evil-2-somehow-survived-the-purge-at-ubisoft) (2026-01-23)
+- [Samsung’s smallest Frame TVs have fallen to their lowest prices to date](https://www.theverge.com/gadgets/866298/samsung-frame-tv-2025-43-50-inch-qled-woot-deal-sale) (2026-01-22)
+- [Nintendo is following up Alarmo with a weird Talking Flower in March](https://www.theverge.com/tech/865618/nintendo-talking-flower-preorder-super-mario-wonder) (2026-01-22)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Google adds your Gmail and Photos to AI Mode to enable "Personal Intelligence"](https://arstechnica.com/google/2026/01/google-ai-mode-can-now-customize-responses-with-your-email-and-photos/) (2026-01-22)
-- [Finally, a new controller that solves the Switch 2's "flat Joy-Con" problem](https://arstechnica.com/gaming/2026/01/finally-a-new-controller-that-solves-the-switch-2s-flat-joy-con-problem/) (2026-01-22)
-- [eBay bans illicit automated shopping amid rapid rise of AI agents](https://arstechnica.com/information-technology/2026/01/ebay-bans-illicit-automated-shopping-amid-rapid-rise-of-ai-agents/) (2026-01-22)
-- [All sorts of interesting flags and artifacts will fly to the Moon on Artemis II](https://arstechnica.com/space/2026/01/nasa-to-fly-apollo-aviation-artifacts-on-artemis-ii/) (2026-01-22)
-- [Meta wants to block data about social media use, mental health in child safety trial](https://arstechnica.com/tech-policy/2026/01/meta-wants-to-block-data-about-social-media-use-mental-health-in-child-safety-trial/) (2026-01-22)
+- [US officially out of WHO, leaving hundreds of millions of dollars unpaid](https://arstechnica.com/health/2026/01/us-stiffs-who-hundreds-of-millions-as-it-officially-withdrawals/) (2026-01-22)
+- [Overrun with AI slop, cURL scraps bug bounties to ensure "intact mental health"](https://arstechnica.com/security/2026/01/overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health/) (2026-01-22)
+- [Hacker who stole 120,000 bitcoins wants a second chance—and a security job](https://arstechnica.com/security/2026/01/hacker-who-stole-120000-bitcoins-wants-a-second-chance-and-a-security-job/) (2026-01-22)
+- [Report: Apple plans to launch AI-powered wearable pin device as soon as 2027](https://arstechnica.com/apple/2026/01/report-apple-plans-to-launch-ai-powered-wearable-pin-device-as-soon-as-2027/) (2026-01-22)
+- [Asking Grok to delete fake nudes may force victims to sue in Musk's chosen court](https://arstechnica.com/tech-policy/2026/01/asking-grok-to-delete-fake-nudes-may-force-victims-to-sue-in-musks-chosen-court/) (2026-01-22)
 
 </details>
 
@@ -97,22 +97,26 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How a RAG Agent Helped My Father's Shoulder Treatment (And Saved ₹30,000).](https://dev.to/jaskirat_singh/how-a-rag-agent-helped-my-fathers-shoulder-treatment-and-saved-30000-349h) (2026-01-22)
-- [Binja: Finally, a Fast Jinja2/Django Template Engine for Bun](https://dev.to/egeominotti/binja-finally-a-fast-jinja2django-template-engine-for-bun-1li4) (2026-01-22)
-- [how we prevent ai agent's drift & code slop generation](https://dev.to/singhdevhub/how-we-prevent-ai-agents-drift-code-slop-generation-2eb7) (2026-01-22)
-- [How a Livewire Vulnerability Led to Crypto Mining on Our Servers](https://dev.to/brunoabpinto/how-a-livewire-vulnerability-led-to-crypto-mining-on-our-servers-5gh8) (2026-01-22)
-- [From Static to Smart: Designing an AI-First Developer Portfolio with Renderer, Gemini & MCP 🚀🚀](https://dev.to/nishikantaray/from-static-to-smart-designing-an-ai-first-developer-portfolio-with-renderer-gemini-mcp-1kd1) (2026-01-22)
+- [How Streamers Accidentally Built the World's Largest Gaming AI Dataset](https://dev.to/claudiuspapirus/how-streamers-accidentally-built-the-worlds-largest-gaming-ai-dataset-4pin) (2026-01-23)
+- [Is voice the natural progression of artificial intelligence?](https://dev.to/mishmanners/is-voice-the-natural-progression-of-artificial-intelligence-52le) (2026-01-23)
+- [Predicting the Spike: Building a CGM Warning System with Transformers and PyTorch Forecasting](https://dev.to/beck_moulton/predicting-the-spike-building-a-cgm-warning-system-with-transformers-and-pytorch-forecasting-4mbe) (2026-01-23)
+- [Day 1303 : Down Payment](https://dev.to/dwane/day-1303-down-payment-4olo) (2026-01-23)
+- [My Profile Adapts to the User](https://dev.to/daniel_illenberger_e1087b/my-profile-adapts-to-the-user-4nc6) (2026-01-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Two Dogs, One Tattoo, Endless Loyalty. Marcin F.](https://medium.com/@firmuga.marcin.s/two-dogs-one-tattoo-endless-loyalty-marcin-f-036234bb1ef2?source=rss------programming-5) (2026-01-22)
-- [Using the Final Keyword in Java](https://medium.com/@husna.poyraz/using-the-final-keyword-in-java-e563c42e296c?source=rss------programming-5) (2026-01-22)
-- [10 JavaScript One-Liners That Replace Entire Libraries](https://javascript.plainenglish.io/10-javascript-one-liners-that-replace-entire-libraries-ef55ea3abbd4?source=rss------programming-5) (2026-01-22)
-- [ Ruby on Rails Gems That Will Make Your Code Clean, Structured & Scalable](https://rajputlakhveer.medium.com/ruby-on-rails-gems-that-will-make-your-code-clean-structured-scalable-6511fce045f8?source=rss------programming-5) (2026-01-22)
-- [I Made iPhone Agentic — Building A Headless Safari App For Shortcuts With Apple Intelligence](https://medium.com/@jankammerath/i-made-iphone-agentic-building-a-headless-safari-app-for-shortcuts-with-apple-intelligence-05fbd445666e?source=rss------programming-5) (2026-01-22)
+- [Stop Treating Scraping as a Script. It’s Infrastructure.](https://medium.com/@goatishfw/stop-treating-scraping-as-a-script-its-infrastructure-b33aecbc5512?source=rss------programming-5) (2026-01-23)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@zxcvbnnnj3bnmn/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-7a185a5ad636?source=rss------programming-5) (2026-01-23)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@zxcvvbnj2vnnn/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-0fc0eadaca1f?source=rss------programming-5) (2026-01-23)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@xxcvbhhhn1bjnn/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-7241b77138b1?source=rss------programming-5) (2026-01-23)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@xxcvbhhhn1bjnn/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-b076fe158afa?source=rss------programming-5) (2026-01-23)
 
 </details>
 
@@ -207,11 +211,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Using MCP Servers: From Quick Tools to Multi-Agent Systems](https://www.docker.com/blog/mcp-servers-docker-toolkit-cagent-gateway/) (2026-01-22)
 - [Your Dependencies Don’t Care About Your FIPS Configuration](https://www.docker.com/blog/fips-dependencies-and-prebuilt-binaries/) (2026-01-22)
 - [Making (Very) Small LLMs Smarter](https://www.docker.com/blog/making-small-llms-smarter/) (2026-01-16)
 - [Permission-Aware RAG: End-to-End Testing with the SpiceDB Testcontainer](https://www.docker.com/blog/rag-permission-testing-testcontainers-spicedb/) (2026-01-15)
 - [OpenCode with Docker Model Runner for Private AI Coding](https://www.docker.com/blog/opencode-docker-model-runner-private-ai-coding/) (2026-01-15)
-- [Safer Docker Hub Pulls via a Sonatype-Protected Proxy](https://www.docker.com/blog/safer-docker-hub-pulls-via-a-sonatype-protected-proxy/) (2026-01-14)
 
 </details>
 
@@ -306,11 +310,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Codex Is Now Integrated Into JetBrains IDEs](https://blog.jetbrains.com/ai/2026/01/codex-in-jetbrains-ides/) (2026-01-22)
 - [IntelliJ IDEA 2025.3.2 Is Out!](https://blog.jetbrains.com/idea/2026/01/intellij-idea-2025-3-2/) (2026-01-22)
 - [ReSharper 2026.1 Early Access Program Has Begun](https://blog.jetbrains.com/dotnet/2026/01/22/resharper-2026-1-early-access-program/) (2026-01-22)
 - [Rider 2026.1 Early Access Program Is Now Open!](https://blog.jetbrains.com/dotnet/2026/01/22/rider-2026-1-early-access-program-start/) (2026-01-22)
 - [The ROI of Developer Experience: How a Better CI/CD Tool Pays for Itself](https://blog.jetbrains.com/teamcity/2026/01/the-roi-of-dev-experience/) (2026-01-22)
-- [IntelliJ IDEA Conf 2026: Learn From the People Building the JVM Ecosystem](https://blog.jetbrains.com/idea/2026/01/intellij-idea-conf-2026-learn-from-the-people-building-the-jvm-ecosystem/) (2026-01-21)
 
 </details>
 
@@ -551,17 +555,6 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 - [Introducing Waypoint-1: Real-time interactive video diffusion from Overworld](https://huggingface.co/blog/waypoint-1) (2026-01-20)
 - [Open Responses: What you need to know](https://huggingface.co/blog/open-responses) (2026-01-15)
 - [NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI](https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning) (2026-01-05)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Controlling AI agent sprawl: The CIO’s guide to governance](https://www.artificialintelligence-news.com/news/controlling-ai-agent-sprawl-cio-guide-to-governance/) (2026-01-22)
-- [Gates Foundation and OpenAI test AI in African healthcare](https://www.artificialintelligence-news.com/news/gates-foundation-and-openai-test-ai-in-african-healthcare/) (2026-01-22)
-- [Balancing AI cost efficiency with data sovereignty](https://www.artificialintelligence-news.com/news/balancing-ai-cost-efficiency-with-data-sovereignty/) (2026-01-21)
-- [The quiet work behind Citi’s 4,000-person internal AI rollout](https://www.artificialintelligence-news.com/news/the-quiet-work-behind-citi-4000-person-internal-ai-rollout/) (2026-01-21)
-- [SAP and Fresenius to build sovereign AI backbone for healthcare](https://www.artificialintelligence-news.com/news/sap-and-fresenius-build-sovereign-ai-backbone-for-healthcare/) (2026-01-19)
 
 </details>
 
