@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Former Sequoia partner’s new startup uses AI to negotiate your calendar for you](https://techcrunch.com/2026/01/22/former-sequoia-partners-new-startup-uses-ai-to-negotiate-your-calendar-for-you/) (2026-01-23)
+- [Palmer Luckey says the coolest thing about Anduril expanding to Long Beach is the fighter jets](https://techcrunch.com/2026/01/22/palmer-luckey-says-the-coolest-thing-about-anduril-expanding-to-long-beach-is-the-fighter-jets/) (2026-01-23)
 - [OpenAI is coming for those sweet enterprise dollars in 2026](https://techcrunch.com/2026/01/22/openai-is-coming-for-those-sweet-enterprise-dollars-in-2026/) (2026-01-23)
 - [Vimeo starts layoffs after acquisition by Bending Spoons](https://techcrunch.com/2026/01/22/vimeo-starts-layoffs-after-acquisition-by-bending-spoons/) (2026-01-23)
 - [GM to end Chevy Bolt EV production next year, move China-made Buick to US factory](https://techcrunch.com/2026/01/22/gm-to-end-chevy-bolt-ev-production-next-year-move-china-made-buick-to-u-s-factory/) (2026-01-22)
-- [Capital One acquires Brex for steep discount to its peak valuation, but early believers are laughing all the way to the bank](https://techcrunch.com/2026/01/22/capital-one-acquires-brex-for-steep-discount-to-its-peak-valuation-but-early-believers-are-laughing-all-the-way-to-the-bank/) (2026-01-22)
-- [Voice AI engine and OpenAI partner LiveKit hits $1B valuation](https://techcrunch.com/2026/01/22/voice-ai-engine-and-openai-partner-livekit-hits-1b-valuation/) (2026-01-22)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [100x (YC S22) Is Hiring a Technical Content Creator](https://100x.bot/creator-program) (2026-01-23)
-- [Vibe a Guitar Pedal](https://polyend.com/endless/) (2026-01-23)
-- [Why medieval city-builder video games are historically inaccurate (2020)](https://www.leidenmedievalistsblog.nl/articles/why-medieval-city-builder-video-games-are-historically-inaccurate) (2026-01-23)
-- [Metastable Failures and Interactions Between Systems](https://charap.co/on-metastable-failures-and-interactions-between-systems/) (2026-01-23)
-- [Improving the usability of C libraries in Swift](https://www.swift.org/blog/improving-usability-of-c-libraries-in-swift/) (2026-01-22)
+- [I built a light that reacts to radio waves [video]](https://www.youtube.com/watch?v=moBCOEiqiPs) (2026-01-23)
+- [United States Completes WHO Withdrawal](https://www.hhs.gov/press-room/united-states-completes-who-withdrawal.html) (2026-01-23)
+- [Talking to LLMs has improved my thinking](https://philipotoole.com/why-talking-to-llms-has-improved-my-thinking/) (2026-01-23)
+- [Bugs Apple Loves](https://www.bugsappleloves.com) (2026-01-23)
+- [Stunnel](https://www.stunnel.org/) (2026-01-23)
 
 </details>
 
@@ -86,37 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [AI can 10x developers...in creating tech debt](https://stackoverflow.blog/2026/01/23/ai-can-10x-developers-in-creating-tech-debt/) (2026-01-23)
 - [Automate your security whack-a-mole: Q&A with Exaforce](https://stackoverflow.blog/2026/01/22/automate-your-security-whack-a-mole-q-and-a-with-exaforce/) (2026-01-22)
 - [Is that allowed? Authentication and authorization in Model Context Protocol](https://stackoverflow.blog/2026/01/21/is-that-allowed-authentication-and-authorization-in-model-context-protocol/) (2026-01-21)
 - [Don’t let your backend write checks your frontend can’t cache](https://stackoverflow.blog/2026/01/20/don-t-let-your-backend-write-checks-your-frontend-can-t-cache/) (2026-01-20)
 - [How AWS re:Invented the cloud](https://stackoverflow.blog/2026/01/16/how-aws-re-invented-the-cloud/) (2026-01-16)
-- [How Stack Overflow is taking on spam and bad actors](https://stackoverflow.blog/2026/01/15/how-stack-overflow-is-taking-on-spam-and-bad-actors/) (2026-01-15)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How Streamers Accidentally Built the World's Largest Gaming AI Dataset](https://dev.to/claudiuspapirus/how-streamers-accidentally-built-the-worlds-largest-gaming-ai-dataset-4pin) (2026-01-23)
-- [Is voice the natural progression of artificial intelligence?](https://dev.to/mishmanners/is-voice-the-natural-progression-of-artificial-intelligence-52le) (2026-01-23)
-- [Predicting the Spike: Building a CGM Warning System with Transformers and PyTorch Forecasting](https://dev.to/beck_moulton/predicting-the-spike-building-a-cgm-warning-system-with-transformers-and-pytorch-forecasting-4mbe) (2026-01-23)
-- [Day 1303 : Down Payment](https://dev.to/dwane/day-1303-down-payment-4olo) (2026-01-23)
-- [My Profile Adapts to the User](https://dev.to/daniel_illenberger_e1087b/my-profile-adapts-to-the-user-4nc6) (2026-01-23)
+- [OutSystems vs Custom Development: The Real Cost Comparison](https://dev.to/kartiki_kapile_0ff2243eb6/outsystems-vs-custom-development-the-real-cost-comparison-63e) (2026-01-23)
+- [BASH Beats Complexity, AGI Hits 2026, Code's Cheap Now](https://dev.to/urbanisierung/bash-beats-complexity-agi-hits-2026-codes-cheap-now-20og) (2026-01-23)
+- [Winning Online as a Developer-Marketer](https://dev.to/billahdotdev/winning-online-as-a-developer-marketer-4k57) (2026-01-23)
+- [Developer Myths That Need to Die](https://dev.to/wingsdesignstudio/developer-myths-that-need-to-die-2k1b) (2026-01-23)
+- [Jan 23, 2026 | The Tongyi Weekly: Your weekly dose of cutting-edge AI from Tongyi Lab](https://dev.to/alibaba_tongyi_lab_25ad9f/jan-23-2026-the-tongyi-weekly-your-weekly-dose-of-cutting-edge-ai-from-tongyi-lab-ogf) (2026-01-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Stop Treating Scraping as a Script. It’s Infrastructure.](https://medium.com/@goatishfw/stop-treating-scraping-as-a-script-its-infrastructure-b33aecbc5512?source=rss------programming-5) (2026-01-23)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@zxcvbnnnj3bnmn/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-7a185a5ad636?source=rss------programming-5) (2026-01-23)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@zxcvvbnj2vnnn/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-0fc0eadaca1f?source=rss------programming-5) (2026-01-23)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@xxcvbhhhn1bjnn/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-7241b77138b1?source=rss------programming-5) (2026-01-23)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@xxcvbhhhn1bjnn/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-b076fe158afa?source=rss------programming-5) (2026-01-23)
+- [The First Thing I Check in Every Codebase](https://saeedhbi.medium.com/the-first-thing-i-check-in-every-codebase-1c7c61d3bcd1?source=rss------programming-5) (2026-01-23)
+- [Python Code Snippets, Every Dev Should Copy-Paste](https://justaithings.org/python-code-snippets-every-dev-should-copy-paste-67cb11a98854?source=rss------programming-5) (2026-01-23)
+- [I Built My Own Zod-Like Validation Library in JavaScript — Here’s What I Learned](https://medium.com/@abhishek.mahato98258/i-built-my-own-zod-like-validation-library-in-javascript-heres-what-i-learned-5978a23dafc1?source=rss------programming-5) (2026-01-23)
+- [Why I Write Code 3x Faster Without Burning Out](https://medium.com/the-software-journal/why-i-write-code-3x-faster-without-burning-out-1dc77482beeb?source=rss------programming-5) (2026-01-23)
+- [Secure Storage in Flutter: The Right Way to Store Secrets](https://medium.com/@yash22202/secure-storage-in-flutter-the-right-way-to-store-secrets-3b1b7ee766b8?source=rss------programming-5) (2026-01-23)
 
 </details>
 
@@ -555,6 +551,17 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 - [Introducing Waypoint-1: Real-time interactive video diffusion from Overworld](https://huggingface.co/blog/waypoint-1) (2026-01-20)
 - [Open Responses: What you need to know](https://huggingface.co/blog/open-responses) (2026-01-15)
 - [NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI](https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning) (2026-01-05)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Controlling AI agent sprawl: The CIO’s guide to governance](https://www.artificialintelligence-news.com/news/controlling-ai-agent-sprawl-cio-guide-to-governance/) (2026-01-22)
+- [Gates Foundation and OpenAI test AI in African healthcare](https://www.artificialintelligence-news.com/news/gates-foundation-and-openai-test-ai-in-african-healthcare/) (2026-01-22)
+- [Balancing AI cost efficiency with data sovereignty](https://www.artificialintelligence-news.com/news/balancing-ai-cost-efficiency-with-data-sovereignty/) (2026-01-21)
+- [The quiet work behind Citi’s 4,000-person internal AI rollout](https://www.artificialintelligence-news.com/news/the-quiet-work-behind-citi-4000-person-internal-ai-rollout/) (2026-01-21)
+- [SAP and Fresenius to build sovereign AI backbone for healthcare](https://www.artificialintelligence-news.com/news/sap-and-fresenius-build-sovereign-ai-backbone-for-healthcare/) (2026-01-19)
 
 </details>
 
