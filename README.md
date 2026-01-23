@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [I built a light that reacts to radio waves [video]](https://www.youtube.com/watch?v=moBCOEiqiPs) (2026-01-23)
-- [United States Completes WHO Withdrawal](https://www.hhs.gov/press-room/united-states-completes-who-withdrawal.html) (2026-01-23)
-- [Talking to LLMs has improved my thinking](https://philipotoole.com/why-talking-to-llms-has-improved-my-thinking/) (2026-01-23)
-- [Bugs Apple Loves](https://www.bugsappleloves.com) (2026-01-23)
-- [Stunnel](https://www.stunnel.org/) (2026-01-23)
+- [Booting a PC from a Vinyl Record](https://boginjr.com/it/sw/dev/vinyl-boot/) (2026-01-23)
+- [Ghostty's AI Policy](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md) (2026-01-23)
+- [Google is ending full-web search for niche search engines](https://programmablesearchengine.googleblog.com/) (2026-01-23)
+- [The State of Modern AI Text to Speech Systems for Screen Reader Users](https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html) (2026-01-23)
+- [Replacing Protobuf with Rust to go 5 times faster](https://pgdog.dev/blog/replace-protobuf-with-rust) (2026-01-23)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Google won’t stop replacing our news headlines with terrible AI](https://www.theverge.com/tech/865168/google-says-ai-news-headlines-are-feature-not-experiment) (2026-01-23)
+- [Microsoft Paint can now make AI coloring books](https://www.theverge.com/news/866524/microsoft-paint-notepad-ai-coloring-book) (2026-01-23)
 - [The TikTok deal is done, finally](https://www.theverge.com/tech/866437/tiktok-usds-bytedance-sale-oracle-mgx) (2026-01-23)
 - [Ring can verify videos now, but that might not help you with most AI fakes](https://www.theverge.com/news/866441/ring-verify-security-camera-ai-fakes-video-verification) (2026-01-23)
 - [Beyond Good and Evil 2 somehow survived the purge at Ubisoft](https://www.theverge.com/games/866439/beyond-good-and-evil-2-somehow-survived-the-purge-at-ubisoft) (2026-01-23)
-- [Samsung’s smallest Frame TVs have fallen to their lowest prices to date](https://www.theverge.com/gadgets/866298/samsung-frame-tv-2025-43-50-inch-qled-woot-deal-sale) (2026-01-22)
-- [Nintendo is following up Alarmo with a weird Talking Flower in March](https://www.theverge.com/tech/865618/nintendo-talking-flower-preorder-super-mario-wonder) (2026-01-22)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [America’s coming war over AI regulation](https://www.technologyreview.com/2026/01/23/1131559/americas-coming-war-over-ai-regulation/) (2026-01-23)
+- [Measles is surging in the US. Wastewater tracking could help.](https://www.technologyreview.com/2026/01/23/1131698/measles-surging-us-wastewater-tracking/) (2026-01-23)
 - [“Dr. Google” had its issues. Can ChatGPT Health do better?](https://www.technologyreview.com/2026/01/22/1131692/dr-google-had-its-issues-can-chatgpt-health-do-better/) (2026-01-22)
 - [Dispatch from Davos: hot air, big egos and cold flexes](https://www.technologyreview.com/2026/01/22/1131687/hot-air-cold-flexes-at-davos/) (2026-01-22)
 - [The Download: Yann LeCun’s new venture, and lithium’s on the rise](https://www.technologyreview.com/2026/01/22/1131680/the-download-yann-lecun-lithium-rise/) (2026-01-22)
-- [Why 2026 is a hot year for lithium](https://www.technologyreview.com/2026/01/22/1131563/lithium-2026/) (2026-01-22)
-- [Yann LeCun’s new venture is a contrarian bet against large language models  ](https://www.technologyreview.com/2026/01/22/1131661/yann-lecuns-new-venture-ami-labs/) (2026-01-22)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [OutSystems vs Custom Development: The Real Cost Comparison](https://dev.to/kartiki_kapile_0ff2243eb6/outsystems-vs-custom-development-the-real-cost-comparison-63e) (2026-01-23)
-- [BASH Beats Complexity, AGI Hits 2026, Code's Cheap Now](https://dev.to/urbanisierung/bash-beats-complexity-agi-hits-2026-codes-cheap-now-20og) (2026-01-23)
-- [Winning Online as a Developer-Marketer](https://dev.to/billahdotdev/winning-online-as-a-developer-marketer-4k57) (2026-01-23)
-- [Developer Myths That Need to Die](https://dev.to/wingsdesignstudio/developer-myths-that-need-to-die-2k1b) (2026-01-23)
-- [Jan 23, 2026 | The Tongyi Weekly: Your weekly dose of cutting-edge AI from Tongyi Lab](https://dev.to/alibaba_tongyi_lab_25ad9f/jan-23-2026-the-tongyi-weekly-your-weekly-dose-of-cutting-edge-ai-from-tongyi-lab-ogf) (2026-01-23)
+- [How Uber Eats & Zomato Find “Restaurants Near You"](https://dev.to/umesh_kushwaha_6655ba4c0d/how-uber-eats-zomato-find-restaurants-near-you-5f51) (2026-01-23)
+- [Why Prompt Engineering Breaks in Production Systems](https://dev.to/zywrap/why-prompt-engineering-breaks-in-production-systems-1f2d) (2026-01-23)
+- [I am building a fiction novel writer that already helps me personally to make +€1000 MRR on Amazon's KDP](https://dev.to/kai_libicher_2b8a3de7e6e8/i-am-building-a-fiction-novel-writer-that-already-helps-me-personally-to-make-eu1000-mrr-on-56c3) (2026-01-23)
+- [Week 6 Scripting Challenge: Building a Security Log Correlator](https://dev.to/fosres/building-a-security-log-correlator-fast-incident-detection-2ed8) (2026-01-23)
+- [The Product Hunt effect - Mastra just hit 20k stars on GitHub](https://dev.to/fmerian/the-product-hunt-effect-mastra-just-hit-20k-stars-on-github-2km3) (2026-01-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The First Thing I Check in Every Codebase](https://saeedhbi.medium.com/the-first-thing-i-check-in-every-codebase-1c7c61d3bcd1?source=rss------programming-5) (2026-01-23)
-- [Python Code Snippets, Every Dev Should Copy-Paste](https://justaithings.org/python-code-snippets-every-dev-should-copy-paste-67cb11a98854?source=rss------programming-5) (2026-01-23)
-- [I Built My Own Zod-Like Validation Library in JavaScript — Here’s What I Learned](https://medium.com/@abhishek.mahato98258/i-built-my-own-zod-like-validation-library-in-javascript-heres-what-i-learned-5978a23dafc1?source=rss------programming-5) (2026-01-23)
-- [Why I Write Code 3x Faster Without Burning Out](https://medium.com/the-software-journal/why-i-write-code-3x-faster-without-burning-out-1dc77482beeb?source=rss------programming-5) (2026-01-23)
-- [Secure Storage in Flutter: The Right Way to Store Secrets](https://medium.com/@yash22202/secure-storage-in-flutter-the-right-way-to-store-secrets-3b1b7ee766b8?source=rss------programming-5) (2026-01-23)
+- [The Code That Holds the Cash: A Look at Solidity, Rust, and Vyper](https://medium.com/@seaflux/the-code-that-holds-the-cash-a-look-at-solidity-rust-and-vyper-a4b216e29b00?source=rss------programming-5) (2026-01-23)
+- [Demystifying CI/CD: A Beginner’s Journey in DevOps](https://medium.com/@chetanpatil_88738/demystifying-ci-cd-a-beginners-journey-in-devops-0bd80e54b9c7?source=rss------programming-5) (2026-01-23)
+- [Open-Source Messaging and Mapping in Template OnionAPI v10.1.2](https://medium.com/scrum-and-coke/open-source-messaging-and-mapping-in-template-onionapi-v10-1-2-7931aeb80a9d?source=rss------programming-5) (2026-01-23)
+- [Building Trustworthy Data Pipelines with Effective Validation Rules](https://thedatatrait.medium.com/building-trustworthy-data-pipelines-with-effective-validation-rules-cbf1572c54dd?source=rss------programming-5) (2026-01-23)
+- [How Do PySpark Window Functions Really Work? Partition, Order, Frame — Demystified](https://medium.com/@sudeepwrites/how-do-pyspark-window-functions-really-work-partition-order-frame-demystified-6c4e3735aa18?source=rss------programming-5) (2026-01-23)
 
 </details>
 
@@ -557,33 +557,33 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>🤖 AI News</summary>
 
+- [Defensive AI and how machine learning strengthens cyber defense](https://www.artificialintelligence-news.com/news/defensive-ai-and-how-machine-learning-strengthens-cyber-defense/) (2026-01-23)
 - [Controlling AI agent sprawl: The CIO’s guide to governance](https://www.artificialintelligence-news.com/news/controlling-ai-agent-sprawl-cio-guide-to-governance/) (2026-01-22)
 - [Gates Foundation and OpenAI test AI in African healthcare](https://www.artificialintelligence-news.com/news/gates-foundation-and-openai-test-ai-in-african-healthcare/) (2026-01-22)
 - [Balancing AI cost efficiency with data sovereignty](https://www.artificialintelligence-news.com/news/balancing-ai-cost-efficiency-with-data-sovereignty/) (2026-01-21)
 - [The quiet work behind Citi’s 4,000-person internal AI rollout](https://www.artificialintelligence-news.com/news/the-quiet-work-behind-citi-4000-person-internal-ai-rollout/) (2026-01-21)
-- [SAP and Fresenius to build sovereign AI backbone for healthcare](https://www.artificialintelligence-news.com/news/sap-and-fresenius-build-sovereign-ai-backbone-for-healthcare/) (2026-01-19)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [From Transactions to Trends: Predict When a Customer Is About to Stop Buying](https://towardsdatascience.com/from-transactions-to-trends-predict-when-a-customer-is-about-to-stop-buying/) (2026-01-23)
 - [Evaluating Multi-Step LLM-Generated Content: Why Customer Journeys Require Structural Metrics](https://towardsdatascience.com/evaluating-multi-step-llm-generated-content-why-customer-journeys-require-structural-metrics/) (2026-01-22)
 - [Why SaaS Product Management Is the Best Domain for Data-Driven Professionals in 2026](https://towardsdatascience.com/why-saas-product-management-is-the-best-domain-for-data-driven-professionals-in-2026/) (2026-01-22)
 - [Stop Writing Messy Boolean Masks: 10 Elegant Ways to Filter Pandas DataFrames](https://towardsdatascience.com/stop-writing-messy-boolean-masks-10-elegant-ways-to-filter-pandas-dataframes/) (2026-01-22)
 - [What Other Industries Can Learn from Healthcare’s Knowledge Graphs](https://towardsdatascience.com/what-other-industries-can-learn-from-healthcares-knowledge-graphs/) (2026-01-22)
-- [Google Trends is Misleading You: How to Do Machine Learning with Google Trends Data](https://towardsdatascience.com/google-trends-is-misleading-you-how-to-do-machine-learning-with-google-trends-data/) (2026-01-21)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
-- [Top 7 Free Generative AI Courses with Certificates](https://www.analyticsvidhya.com/blog/2026/01/free-generative-ai-courses-with-certificates/) (2026-01-22)
+- [GLM-4.7 Flash: The AI Powerhouse Built for Developers ](https://www.analyticsvidhya.com/blog/2026/01/glm-4-7-flash/) (2026-01-23)
+- [Top 6 Free Generative AI Courses with Certificates](https://www.analyticsvidhya.com/blog/2026/01/free-generative-ai-courses-with-certificates/) (2026-01-22)
 - [Vibe Coding a Bridge-Ball Game with Emergent in Minutes](https://www.analyticsvidhya.com/blog/2026/01/vibe-coding-game-with-emergent-in-minutes/) (2026-01-22)
 - [50+ Machine Learning Resources for Self Study in 2026](https://www.analyticsvidhya.com/blog/2026/01/machine-learning-resources-for-self-study/) (2026-01-21)
 - [10 NotebookLM Super Prompts For Pro-Level Productivity](https://www.analyticsvidhya.com/blog/2026/01/notebooklm-super-prompts-for-pro-level-productivity/) (2026-01-21)
-- [MCPToolbox for Databases: A Practical Guide to Bridging LLMs and Your Data ](https://www.analyticsvidhya.com/blog/2026/01/mcptoolbox-for-databases/) (2026-01-21)
 
 </details>
 
