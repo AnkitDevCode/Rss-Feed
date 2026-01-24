@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Google Photos’ latest feature lets you meme yourself](https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/) (2026-01-23)
-- [Meta pauses teen access to AI characters ahead of new version](https://techcrunch.com/2026/01/23/meta-pauses-teen-access-to-ai-characters-ahead-of-new-version/) (2026-01-23)
-- [Here’s what you should know about the US TikTok deal](https://techcrunch.com/2026/01/23/heres-whats-you-should-know-about-the-us-tiktok-deal/) (2026-01-23)
-- [This startup will send 1,000 people’s ashes to space — affordably — in 2027](https://techcrunch.com/2026/01/23/this-startup-will-send-1000-peoples-ashes-to-space-affordably-in-2027/) (2026-01-23)
-- [Microsoft gave FBI a set of BitLocker encryption keys to unlock suspects’ laptops: Reports](https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/) (2026-01-23)
+- [Who’s behind AMI Labs, Yann LeCun’s ‘world model’ startup](https://techcrunch.com/2026/01/23/whos-behind-ami-labs-yann-lecuns-world-model-startup/) (2026-01-24)
+- [Waymo probed by National Transportation Safety Board over illegal school bus behavior](https://techcrunch.com/2026/01/23/waymo-probed-by-national-transportation-safety-board-over-illegal-school-bus-behavior/) (2026-01-23)
+- [The Rippling/Deel corporate spying scandal may have taken another wild turn](https://techcrunch.com/2026/01/23/the-rippling-deel-corporate-spying-scandal-may-have-taken-another-wild-turn/) (2026-01-23)
+- [What to know about Netflix’s landmark acquisition of Warner Bros. ](https://techcrunch.com/2026/01/23/what-to-know-about-netflixs-landmark-acquisition-of-warner-bros/) (2026-01-23)
+- [Researchers say Russian government hackers were behind attempted Poland power outage](https://techcrunch.com/2026/01/23/researchers-say-russian-government-hackers-were-behind-attempted-poland-power-outage/) (2026-01-23)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops](https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/) (2026-01-23)
-- [Proof of Corn](https://proofofcorn.com/) (2026-01-23)
-- [Show HN: New 3D Mapping website - Create heli orbits and "playable" map tours.](https://www.easy3dmaps.com/gallery) (2026-01-23)
-- [Killing the ISP Appliance: An eBPF/XDP Approach to Distributed BNG](https://markgascoyne.co.uk/posts/ebpf-bng/) (2026-01-23)
-- [Gas Town's Agent Patterns, Design Bottlenecks, and Vibecoding at Scale](https://maggieappleton.com/gastown) (2026-01-23)
+- [Noora Health (YC W14) Is Hiring AI/ML Engineer](https://www.ycombinator.com/companies/noora-health/jobs/2B4RxLG-ai-ml-engineer) (2026-01-24)
+- [TikTok Is Now Collecting More Data About Its Users](https://www.wired.com/story/tiktok-new-privacy-policy/) (2026-01-23)
+- [Mental Models (2018)](https://fs.blog/mental-models/) (2026-01-23)
+- [TrueVault (YC W14) is hiring a Growth Lead to test different growth channels](https://www.ycombinator.com/companies/truevault/jobs/njvSGDj-growth-lead) (2026-01-23)
+- [Neko: History of a Software Pet (2022)](https://eliotakira.com/neko/) (2026-01-23)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Leak: Nvidia is about to challenge ‘Intel Inside’ with as many as eight Arm laptops](https://www.theverge.com/games/867056/leak-nvidia-n1-n1x-laptops-lenovo-dell) (2026-01-24)
+- [Congress doesn’t seem to know if the TikTok deal complies with its law](https://www.theverge.com/news/866977/tiktok-deal-congress-china) (2026-01-23)
+- [Meta is stopping teens from chatting with its AI characters](https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version) (2026-01-23)
+- [What TikTok’s new owners mean for your feed](https://www.theverge.com/tech/866868/tiktok-usds-new-owners-algorithm-explained) (2026-01-23)
 - [Casio teased a retro gaming-inspired sampler](https://www.theverge.com/news/866709/casio-sx-c1-retro-gaming-inspired-sampler-at-namm) (2026-01-23)
-- [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak) (2026-01-23)
-- [Hang on, there’s a Trump Phone Ultra coming too?](https://www.theverge.com/news/866601/trump-mobile-t1-ultra-phone-don-hendrickson-interview) (2026-01-23)
-- [Marshall’s new hub connects to multiple Bluetooth speakers without pairing](https://www.theverge.com/tech/866640/marshall-music-streaming-hub-heddon-bluetooth-auracast-speakers) (2026-01-23)
-- [Today only, you can buy the AirPods Pro 3 for less than $200 ](https://www.theverge.com/gadgets/866710/apple-airpods-pro-3-super-mario-bros-deal-sale) (2026-01-23)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [TikTok deal is done; Trump wants praise while users fear MAGA tweaks](https://arstechnica.com/tech-policy/2026/01/tiktok-finalizes-trump-deal-that-allows-bytedance-to-maintain-some-control/) (2026-01-23)
-- [Tesla kills Autopilot, locks lane-keeping behind $99/month fee](https://arstechnica.com/cars/2026/01/tesla-wants-recurring-revenue-discontinues-autopilot-in-favor-of-fsd/) (2026-01-23)
-- [Rocket Report: Chinese rockets fail twice in 12 hours; Rocket Lab reports setback](https://arstechnica.com/space/2026/01/rocket-report-rocket-lab-reports-neutron-setback-australia-backs-launch-startup/) (2026-01-23)
-- [Tiny falcons are helping keep the food supply safe on cherry farms](https://arstechnica.com/science/2026/01/tiny-falcons-are-helping-keep-the-food-supply-safe-on-cherry-farms/) (2026-01-23)
-- [2026 Lucid Air Touring review: This feels like a complete car now](https://arstechnica.com/features/2026/01/2026-lucid-air-touring-review-this-feels-like-a-complete-car-now/) (2026-01-23)
+- [TR-49 is interactive fiction for fans of deep research rabbit holes](https://arstechnica.com/gaming/2026/01/tr-49-is-interactive-fiction-for-fans-of-deep-research-rabbit-holes/) (2026-01-23)
+- [Demand for Intel's processors is apparently there, but the supply is not](https://arstechnica.com/gadgets/2026/01/core-ultra-series-3-launch-may-be-hampered-by-chip-shortages-says-intel/) (2026-01-23)
+- [DHS keeps trying and failing to unmask anonymous ICE critics online](https://arstechnica.com/tech-policy/2026/01/instagram-ice-critic-wins-fight-to-stay-anonymous-as-dhs-backs-down/) (2026-01-23)
+- [White House alters arrest photo of ICE protester, says "the memes will continue"](https://arstechnica.com/tech-policy/2026/01/white-house-posts-altered-arrest-photo-to-make-it-appear-ice-critic-was-sobbing/) (2026-01-23)
+- [Telly’s "free" ad-based TVs make notable revenue—when they’re actually delivered](https://arstechnica.com/gadgets/2026/01/tellys-free-ad-based-tvs-make-notable-revenue-when-theyre-actually-delivered/) (2026-01-23)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Dead-Simple CLI Uptime Monitor – No SaaS, POST Support, CI/CD Ready (Open Source)](https://dev.to/chintanshah35/dead-simple-cli-uptime-monitor-no-saas-post-support-cicd-ready-open-source-1f8h) (2026-01-23)
-- [[Boost]](https://dev.to/anthonymax/-42dp) (2026-01-23)
-- [My Resume in My Pocket 24/7. Powered by AWS](https://dev.to/michael-burbank/my-resume-in-my-pocket-247-powered-by-aws-2pa8) (2026-01-23)
-- [Contrasting Color](https://dev.to/yellowbear/contrasting-color-5c7l) (2026-01-23)
-- [Building Affly: Why We’re Rethinking Affiliate Discovery](https://dev.to/altafpasha/building-affly-why-were-rethinking-affiliate-discovery-1087) (2026-01-23)
+- [How to Use an AI Agent for Technical Research (Free, No Signup)](https://dev.to/agent-tools-dev/how-to-use-an-ai-agent-for-technical-research-free-no-signup-1epk) (2026-01-24)
+- [Building a Transparent Skin Health Classifier: Fine-tuned EfficientNet + Grad-CAM 🩺](https://dev.to/wellallytech/building-a-transparent-skin-health-classifier-fine-tuned-efficientnet-grad-cam-2nac) (2026-01-24)
+- [Write a blog showing step-by-step details with the screenshots on how you deployed the VM.](https://dev.to/awokay/write-a-blog-showing-step-by-step-details-with-the-screenshots-on-how-you-deployed-the-vm-4i01) (2026-01-24)
+- [How I Built an Email-to-Google Sheets Automation](https://dev.to/08562d8/how-i-built-an-email-to-google-sheets-automation-ch3) (2026-01-24)
+- [ChameleonBio: Adaptive Professional Portfolio](https://dev.to/kheai/chameleonbio-adaptive-professional-portfolio-3l23) (2026-01-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ASI ne Mahabharat ke Yudh Sthal ke baare me kya kaha? Sach jo textbooks ignore kar dete hain](https://medium.com/@Sanatan_life/asi-ne-mahabharat-ke-yudh-sthal-ke-baare-me-kya-kaha-sach-jo-textbooks-ignore-kar-dete-hain-97d49892f9be?source=rss------programming-5) (2026-01-23)
-- [I’m Learning the MERN Stack in 2026— Here’s My Complete Beginner Roadmap](https://medium.com/@rohitmohite.in/im-learning-the-mern-stack-in-2026-here-s-my-complete-beginner-roadmap-5e7423dc8b44?source=rss------programming-5) (2026-01-23)
-- [Modern AI System Design and Architecture](https://medium.com/@amitvsolutions/modern-ai-system-design-and-architecture-f0d48af4b9c0?source=rss------programming-5) (2026-01-23)
-- [5 High-Income Tech Skills You Need to Validate in 2026 (And How to Get Certified)](https://medium.com/@musamalaysia379/5-high-income-tech-skills-you-need-to-validate-in-2026-and-how-to-get-certified-3d0bb828643b?source=rss------programming-5) (2026-01-23)
-- [How OpenCode went from zero to titan in eight months](https://jpcaparas.medium.com/how-opencode-went-from-zero-to-titan-in-eight-months-dcdcd8ff5572?source=rss------programming-5) (2026-01-23)
+- [Clean Code Is Not a Checklist — It’s a Place You Can Live](https://medium.com/@NuVisum/clean-code-is-not-a-checklist-its-a-place-you-can-live-fd0124deab54?source=rss------programming-5) (2026-01-24)
+- [File Handling in Java Explained with Examples](https://medium.com/@sunil17bbmp/file-handling-in-java-explained-with-examples-373d693ba034?source=rss------programming-5) (2026-01-24)
+- [Programming Is Becoming Human Again. The Abstraction Layer Just Collapsed](https://medium.com/@zoltan.sipkai/programming-is-becoming-human-again-the-abstraction-layer-just-collapsed-d0ccbcbf0151?source=rss------programming-5) (2026-01-24)
+- [Jasira Intelligence™ Introduces the AI GOVERNANCE GENOME™](https://medium.com/jasira-intelligence-press-room/jasira-intelligence-introduces-the-ai-governance-genome-c9b0c8f2faf0?source=rss------programming-5) (2026-01-24)
+- [How AI Is Changing What It Means to Be a Developer (Real Talk)](https://medium.com/@vikrant-dev/how-ai-is-changing-what-it-means-to-be-a-developer-real-talk-6b68c28b40c2?source=rss------programming-5) (2026-01-24)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
 - [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
 - [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
 - [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
 - [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
-- [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 
 </details>
 
@@ -273,11 +273,11 @@
 <details>
 <summary>💳 Stripe Blog</summary>
 
+- [Metronome + Stripe: Building the future of billing](https://stripe.com/blog/metronome-stripe-building-the-future-of-billing) (2026-01-23)
 - [The three biggest agentic commerce trends from NRF 2026](https://stripe.com/blog/three-agentic-commerce-trends-nrf-2026) (2026-01-16)
 - [Stripe Atlas startups in 2025: Year in review](https://stripe.com/blog/stripe-atlas-startups-in-2025-year-in-review) (2025-12-18)
 - [Businesses grow revenue on Stripe 27 percentage points faster after accepting financing through Stripe Capital](https://stripe.com/blog/businesses-grow-revenue-on-stripe-faster-after-accepting-financing-through-stripe-capital) (2025-12-17)
 - [Introducing next-day settlement, a faster way to access your earnings](https://docs.stripe.com/payouts/next-day-settlement) (2025-12-17)
-- [PayTo available in Australia](https://stripe.com/payment-method/payto) (2025-12-15)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Route leak incident on January 22, 2026](https://blog.cloudflare.com/route-leak-incident-january-22-2026/) (2026-01-23)
 - [How we mitigated a vulnerability in Cloudflare’s ACME validation logic](https://blog.cloudflare.com/acme-path-vulnerability/) (2026-01-19)
 - [Astro is joining Cloudflare](https://blog.cloudflare.com/astro-joins-cloudflare/) (2026-01-16)
 - [Human Native is joining Cloudflare](https://blog.cloudflare.com/human-native-joins-cloudflare/) (2026-01-15)
 - [What came first: the CNAME or the A record?](https://blog.cloudflare.com/cname-a-record-order-dns-standards/) (2026-01-14)
-- [What we know about Iran’s Internet shutdown](https://blog.cloudflare.com/iran-protests-internet-shutdown/) (2026-01-13)
 
 </details>
 
