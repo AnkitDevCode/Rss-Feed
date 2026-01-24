@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [SEC obtains final consent judgments against former FTX and Alameda executives](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450) (2026-01-24)
-- [Comma openpilot – Open source driver-assistance](https://comma.ai) (2026-01-24)
-- [Noora Health (YC W14) Is Hiring AI/ML Engineer](https://www.ycombinator.com/companies/noora-health/jobs/2B4RxLG-ai-ml-engineer) (2026-01-24)
-- [Wilson Lin on FastRender: a browser built by parallel agents](https://simonwillison.net/2026/Jan/23/fastrender/) (2026-01-23)
-- [Mental Models (2018)](https://fs.blog/mental-models/) (2026-01-23)
+- [Doing gigabit Ethernet over my British phone wires](https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/) (2026-01-24)
+- [Show HN: I built a space travel calculator using Vanilla JavaScript](https://cosmic-odometer.vercel.app/) (2026-01-24)
+- [Modetc: Move your dotfiles from kernel space](https://maxwell.eurofusion.eu/git/rnhmjoj/modetc) (2026-01-24)
+- [Telli (YC F24) is hiring eng, design, growth [on-site, Berlin]](https://careers.telli.com/) (2026-01-24)
+- [80386 Multiplication and Division](https://nand2mario.github.io/posts/2026/80386_multiplication_and_division/) (2026-01-24)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The Loch Capsule dishwasher is small, fast, and efficient — it even sanitizes gadgets](https://www.theverge.com/reviews/866476/loch-capsule-review-counter-dishwasher-vanlife-tiny-house) (2026-01-24)
 - [Chromebooks train schoolkids to be loyal customers, internal Google document suggests](https://www.theverge.com/news/867138/google-chromebook-education-expansion-court-filings) (2026-01-24)
 - [Leak: Nvidia is about to challenge ‘Intel Inside’ with as many as eight Arm laptops](https://www.theverge.com/games/867056/leak-nvidia-n1-n1x-laptops-lenovo-dell) (2026-01-24)
 - [Congress doesn’t seem to know if the TikTok deal complies with its law](https://www.theverge.com/news/866977/tiktok-deal-congress-china) (2026-01-23)
 - [Meta is stopping teens from chatting with its AI characters](https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version) (2026-01-23)
-- [What TikTok’s new owners mean for your feed](https://www.theverge.com/tech/866868/tiktok-usds-new-owners-algorithm-explained) (2026-01-23)
 
 </details>
 
@@ -97,22 +97,25 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Where Blockchain Data Actually Lives (IPFS, Arweave & The 2026 Storage War)](https://dev.to/ribhavmodi/where-blockchain-data-actually-lives-ipfs-arweave-the-2026-storage-war-2bka) (2026-01-24)
-- [The Tao of Architecture: Clearing the Fog of "Names" to Return to the Essence of "Non-Being"](https://dev.to/xmaicode/the-tao-of-architecture-clearing-the-fog-of-names-to-return-to-the-essence-of-non-being-4e3l) (2026-01-24)
-- [paf cxn](https://dev.to/nader_chmait_cfcd8e22303f/test-3con) (2026-01-24)
-- [Jeff Su: The 10% of AI Tools that Drive 90% of Results](https://dev.to/future_ai/jeff-su-the-10-of-ai-tools-that-drive-90-of-results-2c2b) (2026-01-24)
-- [High-Accuracy Data Labeling: Elevating AI with Precision and Quality](https://dev.to/ai_personic2025_012c32722/high-accuracy-data-labeling-elevating-ai-with-precision-and-quality-91d) (2026-01-24)
+- [Unity DOTS : Entity [Part-2]](https://dev.to/whoami--remon/unity-dots-entity-part-2-4oh) (2026-01-24)
+- [CQRS Pattern in Flutter: Commands vs Queries](https://dev.to/deveminsahin/cqrs-pattern-in-flutter-commands-vs-queries-24kc) (2026-01-24)
+- [Quark's Outlines: Python Built-in Functions](https://dev.to/mike-vincent/quarks-outlines-python-built-in-functions-35e7) (2026-01-24)
+- [Scalable Image upload and storage system - HLD](https://dev.to/zeeshanali0704/scalable-image-upload-and-storage-system-hld-52i2) (2026-01-24)
+- [AI Agents Are Getting Smarter, But Individual Builders Are Taking the Risk](https://dev.to/sela_network/ai-agents-are-getting-smarter-but-individual-builders-are-taking-the-risk-278m) (2026-01-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Wasted 6 Months Learning AI the Wrong Way. Here’s the 30-Day Shortcut I Wish I Knew.](https://medium.com/@codingwithnaman/i-wasted-6-months-learning-ai-the-wrong-way-heres-the-30-day-shortcut-i-wish-i-knew-4297ecfcf6c4?source=rss------programming-5) (2026-01-24)
-- [NVIDIA PersonaPlex: Realtime Voice AI that can listen and speak simultaneously](https://medium.com/data-science-in-your-pocket/nvidia-personaplex-realtime-voice-ai-that-can-listen-and-speak-simultaneously-0f5668a63901?source=rss------programming-5) (2026-01-24)
-- [It is Time To End The Daily Scrum](https://rigidity.medium.com/it-is-time-to-end-the-daily-scrum-c5c5cc789a35?source=rss------programming-5) (2026-01-24)
-- [Understanding defer in Swift: The Clean, Safe, and Predictable Code Pattern Every iOS Developer…](https://gauravtakjaipur.medium.com/understanding-defer-in-swift-the-clean-safe-and-predictable-code-pattern-every-ios-developer-2024baa00362?source=rss------programming-5) (2026-01-24)
-- [15 AI Tools That Make People 10× More Productive in 2026 — And You Can Start Today](https://medium.com/codetodeploy/15-ai-tools-that-make-people-10-more-productive-in-2026-and-you-can-start-today-abdf88fdc24e?source=rss------programming-5) (2026-01-24)
+- [#buyingscrap0
+محل بيع مكيفات سبليت مستعملة بالدمام
+0549258415
+شركة #بيع مكيفات #سبليت #مستعملة…](https://medium.com/@used_furniture_buying/buyingscrap0-%D9%85%D8%AD%D9%84-%D8%A8%D9%8A%D8%B9-%D9%85%D9%83%D9%8A%D9%81%D8%A7%D8%AA-%D8%B3%D8%A8%D9%84%D9%8A%D8%AA-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84%D8%A9-%D8%A8%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85-0549258415-%D8%B4%D8%B1%D9%83%D8%A9-%D8%A8%D9%8A%D8%B9-%D9%85%D9%83%D9%8A%D9%81%D8%A7%D8%AA-%D8%B3%D8%A8%D9%84%D9%8A%D8%AA-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84%D8%A9-d0edcd998324?source=rss------programming-5) (2026-01-24)
+- [Chapter 1: Welcome to 2026 — The New Era of Backwards Programming & Ai.](https://siddharthalama.medium.com/chapter-1-welcome-to-2026-the-new-era-of-backwards-programming-ai-9e42fd4595ab?source=rss------programming-5) (2026-01-24)
+- [No One Is Coming to Save You Start Saving Yourself](https://medium.com/@jisanandfire/no-one-is-coming-to-save-you-start-saving-yourself-4b334bf59c12?source=rss------programming-5) (2026-01-24)
+- [Startups, Established Firms, and the Location of Refutation](https://medium.com/@aludanyi/startups-established-firms-and-the-location-of-refutation-397202abfa90?source=rss------programming-5) (2026-01-24)
+- [10 Python Tools Powering Modern Data Engineering Pipelines](https://python.plainenglish.io/10-python-tools-powering-modern-data-engineering-pipelines-370e274c0f8e?source=rss------programming-5) (2026-01-24)
 
 </details>
 
@@ -579,11 +582,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Deep Learning vs. Machine Learning: Key Differences Explained for Business Leaders ](https://www.analyticsvidhya.com/blog/2026/01/machine-learning-vs-deep-learning/) (2026-01-24)
+- [9 Books to Start Your Business Analytics Journey](https://www.analyticsvidhya.com/blog/2026/01/top-business-analytics-books-to-read/) (2026-01-24)
 - [How to Become a Data Engineer in 2026?](https://www.analyticsvidhya.com/blog/2026/01/data-engineer-roadmap/) (2026-01-23)
 - [GLM-4.7 Flash: The AI Powerhouse Built for Developers ](https://www.analyticsvidhya.com/blog/2026/01/glm-4-7-flash/) (2026-01-23)
 - [Top 6 Free Generative AI Courses with Certificates](https://www.analyticsvidhya.com/blog/2026/01/free-generative-ai-courses-with-certificates/) (2026-01-22)
-- [Vibe Coding a Bridge-Ball Game with Emergent in Minutes](https://www.analyticsvidhya.com/blog/2026/01/vibe-coding-game-with-emergent-in-minutes/) (2026-01-22)
-- [50+ Machine Learning Resources for Self Study in 2026](https://www.analyticsvidhya.com/blog/2026/01/machine-learning-resources-for-self-study/) (2026-01-21)
 
 </details>
 
