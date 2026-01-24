@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Legal AI giant Harvey acquires Hexus as competition heats up in legal tech](https://techcrunch.com/2026/01/23/legal-ai-giant-harvey-acquires-hexus-as-competition-heats-up-in-legal-tech/) (2026-01-24)
+- [Apple iPhone just had its best year in India as the smartphone market stays broadly flat](https://techcrunch.com/2026/01/23/apple-iphone-just-had-its-best-year-in-india-as-the-smartphone-market-stays-broadly-flat/) (2026-01-24)
+- [TikTok users freak out over app’s ‘immigration status’ collection — here’s what it means](https://techcrunch.com/2026/01/23/tiktok-users-freak-out-over-apps-immigration-status-collection-heres-what-it-means/) (2026-01-24)
 - [Who’s behind AMI Labs, Yann LeCun’s ‘world model’ startup](https://techcrunch.com/2026/01/23/whos-behind-ami-labs-yann-lecuns-world-model-startup/) (2026-01-24)
 - [Waymo probed by National Transportation Safety Board over illegal school bus behavior](https://techcrunch.com/2026/01/23/waymo-probed-by-national-transportation-safety-board-over-illegal-school-bus-behavior/) (2026-01-23)
-- [The Rippling/Deel corporate spying scandal may have taken another wild turn](https://techcrunch.com/2026/01/23/the-rippling-deel-corporate-spying-scandal-may-have-taken-another-wild-turn/) (2026-01-23)
-- [What to know about Netflix’s landmark acquisition of Warner Bros. ](https://techcrunch.com/2026/01/23/what-to-know-about-netflixs-landmark-acquisition-of-warner-bros/) (2026-01-23)
-- [Researchers say Russian government hackers were behind attempted Poland power outage](https://techcrunch.com/2026/01/23/researchers-say-russian-government-hackers-were-behind-attempted-poland-power-outage/) (2026-01-23)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [SEC obtains final consent judgments against former FTX and Alameda executives](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450) (2026-01-24)
+- [Comma openpilot – Open source driver-assistance](https://comma.ai) (2026-01-24)
 - [Noora Health (YC W14) Is Hiring AI/ML Engineer](https://www.ycombinator.com/companies/noora-health/jobs/2B4RxLG-ai-ml-engineer) (2026-01-24)
-- [TikTok Is Now Collecting More Data About Its Users](https://www.wired.com/story/tiktok-new-privacy-policy/) (2026-01-23)
+- [Wilson Lin on FastRender: a browser built by parallel agents](https://simonwillison.net/2026/Jan/23/fastrender/) (2026-01-23)
 - [Mental Models (2018)](https://fs.blog/mental-models/) (2026-01-23)
-- [TrueVault (YC W14) is hiring a Growth Lead to test different growth channels](https://www.ycombinator.com/companies/truevault/jobs/njvSGDj-growth-lead) (2026-01-23)
-- [Neko: History of a Software Pet (2022)](https://eliotakira.com/neko/) (2026-01-23)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Chromebooks train schoolkids to be loyal customers, internal Google document suggests](https://www.theverge.com/news/867138/google-chromebook-education-expansion-court-filings) (2026-01-24)
 - [Leak: Nvidia is about to challenge ‘Intel Inside’ with as many as eight Arm laptops](https://www.theverge.com/games/867056/leak-nvidia-n1-n1x-laptops-lenovo-dell) (2026-01-24)
 - [Congress doesn’t seem to know if the TikTok deal complies with its law](https://www.theverge.com/news/866977/tiktok-deal-congress-china) (2026-01-23)
 - [Meta is stopping teens from chatting with its AI characters](https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version) (2026-01-23)
 - [What TikTok’s new owners mean for your feed](https://www.theverge.com/tech/866868/tiktok-usds-new-owners-algorithm-explained) (2026-01-23)
-- [Casio teased a retro gaming-inspired sampler](https://www.theverge.com/news/866709/casio-sx-c1-retro-gaming-inspired-sampler-at-namm) (2026-01-23)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How to Use an AI Agent for Technical Research (Free, No Signup)](https://dev.to/agent-tools-dev/how-to-use-an-ai-agent-for-technical-research-free-no-signup-1epk) (2026-01-24)
-- [Building a Transparent Skin Health Classifier: Fine-tuned EfficientNet + Grad-CAM 🩺](https://dev.to/wellallytech/building-a-transparent-skin-health-classifier-fine-tuned-efficientnet-grad-cam-2nac) (2026-01-24)
-- [Write a blog showing step-by-step details with the screenshots on how you deployed the VM.](https://dev.to/awokay/write-a-blog-showing-step-by-step-details-with-the-screenshots-on-how-you-deployed-the-vm-4i01) (2026-01-24)
-- [How I Built an Email-to-Google Sheets Automation](https://dev.to/08562d8/how-i-built-an-email-to-google-sheets-automation-ch3) (2026-01-24)
-- [ChameleonBio: Adaptive Professional Portfolio](https://dev.to/kheai/chameleonbio-adaptive-professional-portfolio-3l23) (2026-01-24)
+- [Where Blockchain Data Actually Lives (IPFS, Arweave & The 2026 Storage War)](https://dev.to/ribhavmodi/where-blockchain-data-actually-lives-ipfs-arweave-the-2026-storage-war-2bka) (2026-01-24)
+- [The Tao of Architecture: Clearing the Fog of "Names" to Return to the Essence of "Non-Being"](https://dev.to/xmaicode/the-tao-of-architecture-clearing-the-fog-of-names-to-return-to-the-essence-of-non-being-4e3l) (2026-01-24)
+- [paf cxn](https://dev.to/nader_chmait_cfcd8e22303f/test-3con) (2026-01-24)
+- [Jeff Su: The 10% of AI Tools that Drive 90% of Results](https://dev.to/future_ai/jeff-su-the-10-of-ai-tools-that-drive-90-of-results-2c2b) (2026-01-24)
+- [High-Accuracy Data Labeling: Elevating AI with Precision and Quality](https://dev.to/ai_personic2025_012c32722/high-accuracy-data-labeling-elevating-ai-with-precision-and-quality-91d) (2026-01-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Clean Code Is Not a Checklist — It’s a Place You Can Live](https://medium.com/@NuVisum/clean-code-is-not-a-checklist-its-a-place-you-can-live-fd0124deab54?source=rss------programming-5) (2026-01-24)
-- [File Handling in Java Explained with Examples](https://medium.com/@sunil17bbmp/file-handling-in-java-explained-with-examples-373d693ba034?source=rss------programming-5) (2026-01-24)
-- [Programming Is Becoming Human Again. The Abstraction Layer Just Collapsed](https://medium.com/@zoltan.sipkai/programming-is-becoming-human-again-the-abstraction-layer-just-collapsed-d0ccbcbf0151?source=rss------programming-5) (2026-01-24)
-- [Jasira Intelligence™ Introduces the AI GOVERNANCE GENOME™](https://medium.com/jasira-intelligence-press-room/jasira-intelligence-introduces-the-ai-governance-genome-c9b0c8f2faf0?source=rss------programming-5) (2026-01-24)
-- [How AI Is Changing What It Means to Be a Developer (Real Talk)](https://medium.com/@vikrant-dev/how-ai-is-changing-what-it-means-to-be-a-developer-real-talk-6b68c28b40c2?source=rss------programming-5) (2026-01-24)
+- [I Wasted 6 Months Learning AI the Wrong Way. Here’s the 30-Day Shortcut I Wish I Knew.](https://medium.com/@codingwithnaman/i-wasted-6-months-learning-ai-the-wrong-way-heres-the-30-day-shortcut-i-wish-i-knew-4297ecfcf6c4?source=rss------programming-5) (2026-01-24)
+- [NVIDIA PersonaPlex: Realtime Voice AI that can listen and speak simultaneously](https://medium.com/data-science-in-your-pocket/nvidia-personaplex-realtime-voice-ai-that-can-listen-and-speak-simultaneously-0f5668a63901?source=rss------programming-5) (2026-01-24)
+- [It is Time To End The Daily Scrum](https://rigidity.medium.com/it-is-time-to-end-the-daily-scrum-c5c5cc789a35?source=rss------programming-5) (2026-01-24)
+- [Understanding defer in Swift: The Clean, Safe, and Predictable Code Pattern Every iOS Developer…](https://gauravtakjaipur.medium.com/understanding-defer-in-swift-the-clean-safe-and-predictable-code-pattern-every-ios-developer-2024baa00362?source=rss------programming-5) (2026-01-24)
+- [15 AI Tools That Make People 10× More Productive in 2026 — And You Can Start Today](https://medium.com/codetodeploy/15-ai-tools-that-make-people-10-more-productive-in-2026-and-you-can-start-today-abdf88fdc24e?source=rss------programming-5) (2026-01-24)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
 - [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
 - [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
 - [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
 - [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
-- [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
 
 </details>
 
@@ -572,7 +572,7 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 - [Achieving 5x Agentic Coding Performance with Few-Shot Prompting](https://towardsdatascience.com/5x-agentic-coding-performance-with-few-shot-prompting/) (2026-01-23)
 - [Why the Sophistication of Your Prompt Correlates Almost Perfectly with the Sophistication of the Response, as Research by Anthropic Found](https://towardsdatascience.com/the-sophistication-of-your-prompt-correlates-almost-perfectly-with-the-sophistication-of-the-response-anthropic-study-found/) (2026-01-23)
 - [From Transactions to Trends: Predict When a Customer Is About to Stop Buying](https://towardsdatascience.com/from-transactions-to-trends-predict-when-a-customer-is-about-to-stop-buying/) (2026-01-23)
-- [Evaluating Multi-Step LLM-Generated Content: Why Customer Journeys Require Structural Metrics](https://towardsdatascience.com/evaluating-multi-step-llm-generated-content-why-customer-journeys-require-structural-metrics/) (2026-01-22)
+- [TDS Newsletter: Beyond Prompt Engineering: The New Frontiers of LLM Optimization](https://towardsdatascience.com/tds-newsletter-beyond-prompt-engineering-the-new-frontiers-of-llm-optimization/) (2026-01-22)
 
 </details>
 
