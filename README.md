@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Former Googlers seek to captivate kids with an AI-powered learning app](https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/) (2026-01-24)
+- [SEC drops lawsuit against Winklevoss twins’ Gemini crypto exchange](https://techcrunch.com/2026/01/24/sec-drops-lawsuit-against-winklevoss-twins-gemini-crypto-exchange/) (2026-01-24)
+- [A new test for AI labs: Are you even trying to make money?](https://techcrunch.com/2026/01/24/a-new-test-for-ai-labs-are-you-even-trying-to-make-money/) (2026-01-24)
+- [How PopWheels helped a food cart ditch generators for e-bike batteries](https://techcrunch.com/2026/01/24/how-popwheels-helped-a-food-cart-ditch-generators-for-e-bike-batteries/) (2026-01-24)
 - [Legal AI giant Harvey acquires Hexus as competition heats up in legal tech](https://techcrunch.com/2026/01/23/legal-ai-giant-harvey-acquires-hexus-as-competition-heats-up-in-legal-tech/) (2026-01-24)
-- [Apple iPhone just had its best year in India as the smartphone market stays broadly flat](https://techcrunch.com/2026/01/23/apple-iphone-just-had-its-best-year-in-india-as-the-smartphone-market-stays-broadly-flat/) (2026-01-24)
-- [TikTok users freak out over app’s ‘immigration status’ collection — here’s what it means](https://techcrunch.com/2026/01/23/tiktok-users-freak-out-over-apps-immigration-status-collection-heres-what-it-means/) (2026-01-24)
-- [Who’s behind AMI Labs, Yann LeCun’s ‘world model’ startup](https://techcrunch.com/2026/01/23/whos-behind-ami-labs-yann-lecuns-world-model-startup/) (2026-01-24)
-- [Waymo probed by National Transportation Safety Board over illegal school bus behavior](https://techcrunch.com/2026/01/23/waymo-probed-by-national-transportation-safety-board-over-illegal-school-bus-behavior/) (2026-01-23)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Doing gigabit Ethernet over my British phone wires](https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/) (2026-01-24)
-- [Show HN: I built a space travel calculator using Vanilla JavaScript](https://cosmic-odometer.vercel.app/) (2026-01-24)
-- [Modetc: Move your dotfiles from kernel space](https://maxwell.eurofusion.eu/git/rnhmjoj/modetc) (2026-01-24)
-- [Telli (YC F24) is hiring eng, design, growth [on-site, Berlin]](https://careers.telli.com/) (2026-01-24)
-- [80386 Multiplication and Division](https://nand2mario.github.io/posts/2026/80386_multiplication_and_division/) (2026-01-24)
+- [Gmail Spam Detection Down](https://www.google.com/appsstatus/dashboard/incidents/NNnDkY9CJ36annsfytjQ?hl=en) (2026-01-24)
+- [December in Servo: multiple windows, proxy support, better caching, and more](https://servo.org/blog/2026/01/23/december-in-servo/) (2026-01-24)
+- [Tao Te Ching – Translated by Ursula K. Le Guin](https://github.com/nrrb/tao-te-ching/blob/master/Ursula%20K%20Le%20Guin.md) (2026-01-24)
+- [Metriport (YC S22) is hiring a security eng to harden healthcare data infra](https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer) (2026-01-24)
+- [Are we all plagiarists now?](https://www.economist.com/culture/2026/01/22/are-we-all-plagiarists-now) (2026-01-24)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The Loch Capsule dishwasher is small, fast, and efficient — it even sanitizes gadgets](https://www.theverge.com/reviews/866476/loch-capsule-review-counter-dishwasher-vanlife-tiny-house) (2026-01-24)
-- [Chromebooks train schoolkids to be loyal customers, internal Google document suggests](https://www.theverge.com/news/867138/google-chromebook-education-expansion-court-filings) (2026-01-24)
-- [Leak: Nvidia is about to challenge ‘Intel Inside’ with as many as eight Arm laptops](https://www.theverge.com/games/867056/leak-nvidia-n1-n1x-laptops-lenovo-dell) (2026-01-24)
-- [Congress doesn’t seem to know if the TikTok deal complies with its law](https://www.theverge.com/news/866977/tiktok-deal-congress-china) (2026-01-23)
-- [Meta is stopping teens from chatting with its AI characters](https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version) (2026-01-23)
+- [Gmail’s spam filter and automatic sorting are broken](https://www.theverge.com/tech/867247/gmails-spam-filter-broken) (2026-01-24)
+- [ICE has killed another person in Minneapolis](https://www.theverge.com/news/867245/ice-has-killed-another-person-in-minneapolis) (2026-01-24)
+- [Gaming&#8217;s most fun sales data is full of old and obscure games](https://www.theverge.com/games/867004/circana-gaming-sales-data-mat-piscatella-one-copy-obscure-games) (2026-01-24)
+- [Get ready for the AI ad-pocalypse](https://www.theverge.com/report/866775/ai-generated-ads-slop-human-creativity) (2026-01-24)
+- [This coming-of-age adventure game made me feel a little too seen](https://www.theverge.com/entertainment/865082/perfect-tides-station-to-station-review-steam) (2026-01-24)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [A weird, itchy rash is linked to the keto diet—but no one knows why](https://arstechnica.com/health/2026/01/a-weird-itchy-rash-is-linked-to-the-keto-diet-but-no-one-knows-why/) (2026-01-24)
 - [TR-49 is interactive fiction for fans of deep research rabbit holes](https://arstechnica.com/gaming/2026/01/tr-49-is-interactive-fiction-for-fans-of-deep-research-rabbit-holes/) (2026-01-23)
 - [Demand for Intel's processors is apparently there, but the supply is not](https://arstechnica.com/gadgets/2026/01/core-ultra-series-3-launch-may-be-hampered-by-chip-shortages-says-intel/) (2026-01-23)
 - [DHS keeps trying and failing to unmask anonymous ICE critics online](https://arstechnica.com/tech-policy/2026/01/instagram-ice-critic-wins-fight-to-stay-anonymous-as-dhs-backs-down/) (2026-01-23)
 - [White House alters arrest photo of ICE protester, says "the memes will continue"](https://arstechnica.com/tech-policy/2026/01/white-house-posts-altered-arrest-photo-to-make-it-appear-ice-critic-was-sobbing/) (2026-01-23)
-- [Telly’s "free" ad-based TVs make notable revenue—when they’re actually delivered](https://arstechnica.com/gadgets/2026/01/tellys-free-ad-based-tvs-make-notable-revenue-when-theyre-actually-delivered/) (2026-01-23)
 
 </details>
 
@@ -97,25 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Unity DOTS : Entity [Part-2]](https://dev.to/whoami--remon/unity-dots-entity-part-2-4oh) (2026-01-24)
-- [CQRS Pattern in Flutter: Commands vs Queries](https://dev.to/deveminsahin/cqrs-pattern-in-flutter-commands-vs-queries-24kc) (2026-01-24)
-- [Quark's Outlines: Python Built-in Functions](https://dev.to/mike-vincent/quarks-outlines-python-built-in-functions-35e7) (2026-01-24)
-- [Scalable Image upload and storage system - HLD](https://dev.to/zeeshanali0704/scalable-image-upload-and-storage-system-hld-52i2) (2026-01-24)
-- [AI Agents Are Getting Smarter, But Individual Builders Are Taking the Risk](https://dev.to/sela_network/ai-agents-are-getting-smarter-but-individual-builders-are-taking-the-risk-278m) (2026-01-24)
+- [How Stripe Billing Failures Quietly Drain SaaS Revenue](https://dev.to/abhishek_sanoria_8aa6f6a4/how-stripe-billing-failures-quietly-drain-saas-revenue-2196) (2026-01-24)
+- [From WAL to WASM - High-Performance Local-First Sync with Postgres & SQLite](https://dev.to/rafacalderon/from-wal-to-wasm-high-performance-local-first-sync-with-postgres-sqlite-50h0) (2026-01-24)
+- [FPGA_Part_08](https://dev.to/cevval/fpgapart08-1gak) (2026-01-24)
+- [Separación de Responsabilidades de los Dispositivos](https://dev.to/javascriptchile/separacion-de-responsabilidades-de-los-dispositivos-3meb) (2026-01-24)
+- [Stop Your RAG Agent from Making Things Up: A Functional Programming Approach](https://dev.to/sreeni5018/stop-your-rag-agent-from-making-things-up-a-functional-programming-approach-1bk3) (2026-01-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [#buyingscrap0
-محل بيع مكيفات سبليت مستعملة بالدمام
-0549258415
-شركة #بيع مكيفات #سبليت #مستعملة…](https://medium.com/@used_furniture_buying/buyingscrap0-%D9%85%D8%AD%D9%84-%D8%A8%D9%8A%D8%B9-%D9%85%D9%83%D9%8A%D9%81%D8%A7%D8%AA-%D8%B3%D8%A8%D9%84%D9%8A%D8%AA-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84%D8%A9-%D8%A8%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85-0549258415-%D8%B4%D8%B1%D9%83%D8%A9-%D8%A8%D9%8A%D8%B9-%D9%85%D9%83%D9%8A%D9%81%D8%A7%D8%AA-%D8%B3%D8%A8%D9%84%D9%8A%D8%AA-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84%D8%A9-d0edcd998324?source=rss------programming-5) (2026-01-24)
-- [Chapter 1: Welcome to 2026 — The New Era of Backwards Programming & Ai.](https://siddharthalama.medium.com/chapter-1-welcome-to-2026-the-new-era-of-backwards-programming-ai-9e42fd4595ab?source=rss------programming-5) (2026-01-24)
-- [No One Is Coming to Save You Start Saving Yourself](https://medium.com/@jisanandfire/no-one-is-coming-to-save-you-start-saving-yourself-4b334bf59c12?source=rss------programming-5) (2026-01-24)
-- [Startups, Established Firms, and the Location of Refutation](https://medium.com/@aludanyi/startups-established-firms-and-the-location-of-refutation-397202abfa90?source=rss------programming-5) (2026-01-24)
-- [10 Python Tools Powering Modern Data Engineering Pipelines](https://python.plainenglish.io/10-python-tools-powering-modern-data-engineering-pipelines-370e274c0f8e?source=rss------programming-5) (2026-01-24)
+- [Euler Tour Technique in Java](https://medium.com/@AlexanderObregon/euler-tour-technique-in-java-9da7b7dbc842?source=rss------programming-5) (2026-01-24)
+- [The Day Open Source Realized Code Doesn’t Matter Anymore](https://blog.stackademic.com/the-day-open-source-realized-code-doesnt-matter-anymore-a07f5aedfb43?source=rss------programming-5) (2026-01-24)
+- [Stack Overflow’s Quiet Collapse: When AI Eats the Internet That Trained It](https://fferoz.medium.com/stack-overflows-quiet-collapse-when-ai-eats-the-internet-that-trained-it-af715c2389d5?source=rss------programming-5) (2026-01-24)
+- [Introduction to Permission Authorization in .NET 10 (The Clean, Scalable Way)](https://medium.com/@michaelmaurice410/introduction-to-permission-authorization-in-net-10-the-clean-scalable-way-be55fdb1229c?source=rss------programming-5) (2026-01-24)
+- [How To Use The Specification Design Pattern With EF Core 10](https://medium.com/@mariammaurice/how-to-use-the-specification-design-pattern-with-ef-core-10-31117dd9bf40?source=rss------programming-5) (2026-01-24)
 
 </details>
 
@@ -133,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
-- [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
 - [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
 - [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
 - [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
+- [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
+- [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 
 </details>
 
@@ -505,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>💬 Slack API</summary>
 
+- [Assertive Communication: Definition, Tips, and Examples](https://slack.com/blog/collaboration/assertive-communication) (2026-01-23)
 - [Agentic Automation: What It Is and How It Works](https://slack.com/blog/productivity/agentic-automation-guide) (2026-01-16)
 - [Understanding Knowledge Retrieval and Why It’s Valuable to Businesses](https://slack.com/blog/collaboration/knowledge-retrieval) (2026-01-16)
 - [AI Task Automation: Benefits, Tools, and Use Cases](https://slack.com/blog/productivity/ai-task-automation-guide) (2026-01-16)
 - [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-01-13)
-- [12 Project Management Techniques for Better Collaboration and Efficiency](https://slack.com/blog/productivity/project-management-techniques) (2026-01-07)
 
 </details>
 
@@ -571,11 +568,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Build a Neural Machine Translation System for a Low-Resource Language](https://towardsdatascience.com/how-to-build-a-neural-machine-translation-system-for-a-low-resource-language/) (2026-01-24)
+- [Air for Tomorrow: Mapping the Digital Air-Quality Landscape, from Repositories and Data Types to Starter Code](https://towardsdatascience.com/air-for-tomorrow-mapping-the-digital-air-quality-landscape-repositories-data-types-starter-code/) (2026-01-24)
 - [Optimizing Data Transfer in Distributed AI/ML Training Workloads](https://towardsdatascience.com/optimizing-data-transfer-in-distributed-ai-ml-training-workloads/) (2026-01-23)
 - [Achieving 5x Agentic Coding Performance with Few-Shot Prompting](https://towardsdatascience.com/5x-agentic-coding-performance-with-few-shot-prompting/) (2026-01-23)
 - [Why the Sophistication of Your Prompt Correlates Almost Perfectly with the Sophistication of the Response, as Research by Anthropic Found](https://towardsdatascience.com/the-sophistication-of-your-prompt-correlates-almost-perfectly-with-the-sophistication-of-the-response-anthropic-study-found/) (2026-01-23)
-- [From Transactions to Trends: Predict When a Customer Is About to Stop Buying](https://towardsdatascience.com/from-transactions-to-trends-predict-when-a-customer-is-about-to-stop-buying/) (2026-01-23)
-- [TDS Newsletter: Beyond Prompt Engineering: The New Frontiers of LLM Optimization](https://towardsdatascience.com/tds-newsletter-beyond-prompt-engineering-the-new-frontiers-of-llm-optimization/) (2026-01-22)
 
 </details>
 
