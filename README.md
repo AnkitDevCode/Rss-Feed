@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Adoption of EVs tied to real-world reductions in air pollution: study](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/) (2026-01-25)
-- [We X-Rayed a Suspicious FTDI USB Cable](https://eclypsium.com/blog/xray-counterfeit-usb-cable/) (2026-01-24)
-- [Europe wants to end its dangerous reliance on US internet technology](https://theconversation.com/europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology-274042) (2026-01-24)
-- [I don't write code anymore – I sculpt it](https://www.jerpint.io/blog/2026-01-24-i-dont-write-code-anymore-i-sculpt-it/) (2026-01-24)
-- [Poland's energy grid was targeted by never-before-seen wiper malware](https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/) (2026-01-24)
+- [Palantir has no place in UK public services](https://www.opendemocracy.net/en/zarah-sutlana-palantir-no-place-uk-public-services-ministry-of-defence/) (2026-01-25)
+- [TikTok is officially US-owned for American users, here's what's changing](https://9to5mac.com/2026/01/23/tiktok-is-officially-us-owned-for-american-users-heres-whats-changing/) (2026-01-25)
+- [The Responsibility of Intellectuals (1967)](https://www.nybooks.com/articles/1967/02/23/a-special-supplement-the-responsibility-of-intelle/) (2026-01-25)
+- [Show HN: VM-curator – a TUI alternative to libvirt and virt-manager](https://github.com/mroboff/vm-curator) (2026-01-25)
+- [nvidia-smi hangs indefinitely after ~66 days](https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971) (2026-01-25)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The day of the second killing](https://www.theverge.com/policy/867410/minneapolis-ice-protest-alex-pretti-killing) (2026-01-25)
 - [Microsoft handed the government encryption keys for customer data](https://www.theverge.com/news/867244/microsoft-bitlocker-privacy-fbi) (2026-01-24)
 - [MicroSD Express cards and Anker’s travel adapter rule the deal roost this week](https://www.theverge.com/gadgets/866788/anker-nano-travel-adapter-samsung-p9-microsd-express-card-deal-sale) (2026-01-24)
 - [Gmail’s spam filter and automatic sorting are broken](https://www.theverge.com/tech/867247/gmails-spam-filter-broken) (2026-01-24)
 - [ICE has killed another person in Minneapolis](https://www.theverge.com/news/867245/ice-has-killed-another-person-in-minneapolis) (2026-01-24)
-- [Gaming&#8217;s most fun sales data is full of old and obscure games](https://www.theverge.com/games/867004/circana-gaming-sales-data-mat-piscatella-one-copy-obscure-games) (2026-01-24)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Datadog vs OneUptime vs OptyxStack – Understanding the Differences in Observability and Operations](https://dev.to/optyxstack/datadog-vs-oneuptime-vs-optyxstack-understanding-the-differences-in-observability-and-operations-1blh) (2026-01-25)
-- [Decision AI is the Engine. GenAI is the Interface. Agents are the Operators.](https://dev.to/eagleeyethinker/decision-ai-is-the-engine-genai-is-the-interface-agents-are-the-operators-4275) (2026-01-25)
-- [Stop Guessing Your Diet: Building a Bio-Hacker Agent with LangGraph and CGM Data 🩸🤖](https://dev.to/wellallytech/stop-guessing-your-diet-building-a-bio-hacker-agent-with-langgraph-and-cgm-data-1a2b) (2026-01-25)
-- [The Future of Verifiable Compute in Trading: How ROFL Eliminates Trust in Order Execution](https://dev.to/savvysid/the-future-of-verifiable-compute-in-trading-how-rofl-eliminates-trust-in-order-execution-21jd) (2026-01-25)
-- [Autonomous Agents Need Trustless Infrastructure: How ROFL Enables True Agent Sovereignty](https://dev.to/savvysid/autonomous-agents-need-trustless-infrastructure-how-rofl-enables-true-agent-sovereignty-359l) (2026-01-25)
+- [How I Explained LLMs, SLMs & VLMs at Microsoft](https://dev.to/jaskirat_singh/how-i-explained-llms-slms-vlms-at-microsoft-3d5h) (2026-01-25)
+- [Poll UI / User Vote](https://dev.to/preetha_vaishnavi_2b82358/poll-ui-user-vote-2gb3) (2026-01-25)
+- ["Cast your vote" component](https://dev.to/preetha_vaishnavi_2b82358/cast-your-vote-component-5g17) (2026-01-25)
+- [Pingora Guide - How To Make A Programmable API Gateway](https://dev.to/warren_jitsing_dd1c1d6fc6/pingora-guide-how-to-make-a-programmable-api-gateway-1oim) (2026-01-25)
+- [Why leadership clarity matters more than vision in execution](https://dev.to/imperium_by_edstellar/why-leadership-clarity-matters-more-than-vision-in-execution-54ck) (2026-01-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Lunar New Year Data Analysis: A Tribute to the Year of the Fire Horse](https://medium.com/@ciroduro01/lunar-new-year-data-analysis-a-tribute-to-the-year-of-the-fire-horse-953086008035?source=rss------programming-5) (2026-01-25)
-- [I Built 30+ Engineering Products After Work — Here’s What 761 Sales Taught Me About Tech, Money…](https://javascript.plainenglish.io/i-built-30-engineering-products-after-work-heres-what-761-sales-taught-me-about-tech-money-c5b472f60337?source=rss------programming-5) (2026-01-25)
-- [How React.lazy works in 2026 — a deep dive!](https://levelup.gitconnected.com/how-react-lazy-works-in-2026-a-deep-dive-3d346411a8ae?source=rss------programming-5) (2026-01-25)
-- [Build a Real AI for Chess](https://medium.com/play-with-python/build-a-real-ai-for-chess-a23ec0af8f1a?source=rss------programming-5) (2026-01-25)
-- [Top 5 Message Brokers Every Developer Must Know in 2026](https://medium.com/@sunil17bbmp/top-5-message-brokers-every-developer-must-know-in-2026-113d191fd783?source=rss------programming-5) (2026-01-25)
+- [System Design Practice Link 6:](https://manikgoyal400.medium.com/system-design-practice-link-6-8f34be204295?source=rss------programming-5) (2026-01-25)
+- [System Design Practice Link 5 :](https://manikgoyal400.medium.com/system-design-practice-link-5-8252ecedbc49?source=rss------programming-5) (2026-01-25)
+- [How Goroutines Leak (And How to Catch Them)](https://medium.com/golang-in-plain-english/how-goroutines-leak-and-how-to-catch-them-de20b0aaea71?source=rss------programming-5) (2026-01-25)
+- [How to Build Ultra-Smooth Sliders in Angular Using Swiper](https://medium.com/@Angular_With_Awais/how-to-build-ultra-smooth-sliders-in-angular-using-swiper-f328e0c75962?source=rss------programming-5) (2026-01-25)
+- [AI: Understanding Prompt Engineering](https://medium.com/@angadi.saa/ai-understanding-prompt-engineering-5c37f91524d0?source=rss------programming-5) (2026-01-25)
 
 </details>
 
