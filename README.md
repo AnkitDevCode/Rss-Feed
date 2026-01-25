@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Palantir has no place in UK public services](https://www.opendemocracy.net/en/zarah-sutlana-palantir-no-place-uk-public-services-ministry-of-defence/) (2026-01-25)
-- [TikTok is officially US-owned for American users, here's what's changing](https://9to5mac.com/2026/01/23/tiktok-is-officially-us-owned-for-american-users-heres-whats-changing/) (2026-01-25)
-- [The Responsibility of Intellectuals (1967)](https://www.nybooks.com/articles/1967/02/23/a-special-supplement-the-responsibility-of-intelle/) (2026-01-25)
-- [Show HN: VM-curator – a TUI alternative to libvirt and virt-manager](https://github.com/mroboff/vm-curator) (2026-01-25)
-- [nvidia-smi hangs indefinitely after ~66 days](https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971) (2026-01-25)
+- [Nango (YC W23, Dev Infrastructure) Is Hiring Remotely](https://jobs.ashbyhq.com/Nango) (2026-01-25)
+- [Show HN: TUI for managing XDG default applications](https://github.com/mitjafelicijan/xdgctl) (2026-01-25)
+- [Accept_language 2.2 – RFC 7231/4647 compliant Accept-Language parsing for Ruby](https://github.com/cyril/accept_language.rb) (2026-01-25)
+- [Jurassic Park - Tablet device on Nedry's desk? (2012)](https://www.therpf.com/forums/threads/jurassic-park-tablet-device-on-nedrys-desk.169883/) (2026-01-25)
+- [This paper has been cited more than 6k times. It's fatally flawed.](https://statmodeling.stat.columbia.edu/2026/01/22/aking/) (2026-01-25)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [A decade of Star Trek-themed fart jokes: The Greatest Generation podcast turns 10](https://arstechnica.com/culture/2026/01/a-decade-of-star-trek-themed-fart-jokes-the-greatest-generation-podcast-turns-10/) (2026-01-25)
 - [Poland's energy grid was targeted by never-before-seen wiper malware](https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/) (2026-01-24)
 - [Did Edison accidentally make graphene in 1879?](https://arstechnica.com/science/2026/01/did-edison-accidentally-make-graphene-in-1879/) (2026-01-24)
 - [A weird, itchy rash is linked to the keto diet—but no one knows why](https://arstechnica.com/health/2026/01/a-weird-itchy-rash-is-linked-to-the-keto-diet-but-no-one-knows-why/) (2026-01-24)
 - [TR-49 is interactive fiction for fans of deep research rabbit holes](https://arstechnica.com/gaming/2026/01/tr-49-is-interactive-fiction-for-fans-of-deep-research-rabbit-holes/) (2026-01-23)
-- [Demand for Intel's processors is apparently there, but the supply is not](https://arstechnica.com/gadgets/2026/01/core-ultra-series-3-launch-may-be-hampered-by-chip-shortages-says-intel/) (2026-01-23)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How I Explained LLMs, SLMs & VLMs at Microsoft](https://dev.to/jaskirat_singh/how-i-explained-llms-slms-vlms-at-microsoft-3d5h) (2026-01-25)
-- [Poll UI / User Vote](https://dev.to/preetha_vaishnavi_2b82358/poll-ui-user-vote-2gb3) (2026-01-25)
-- ["Cast your vote" component](https://dev.to/preetha_vaishnavi_2b82358/cast-your-vote-component-5g17) (2026-01-25)
-- [Pingora Guide - How To Make A Programmable API Gateway](https://dev.to/warren_jitsing_dd1c1d6fc6/pingora-guide-how-to-make-a-programmable-api-gateway-1oim) (2026-01-25)
-- [Why leadership clarity matters more than vision in execution](https://dev.to/imperium_by_edstellar/why-leadership-clarity-matters-more-than-vision-in-execution-54ck) (2026-01-25)
+- [Minimum Rounds to Complete All Tasks](https://dev.to/we_are_broken_compilers/minimum-rounds-to-complete-all-tasks-bo2) (2026-01-25)
+- [Android ADB 무선 디버깅 완전 정리 - 보안 모델과 현실적인 대응 전략](https://dev.to/dss99911/android-adb-museon-dibeoging-wanjeon-jeongri-boan-modelgwa-hyeonsiljeogin-daeeung-jeonryag-454d) (2026-01-25)
+- [Why the Junior Ghost Town is our biggest threat](https://dev.to/jeanphilippe_ulpiano_46b/why-the-junior-ghost-town-is-our-biggest-threat-1apb) (2026-01-25)
+- [How I Started Doing Data Analysis with MS Excel](https://dev.to/sirphilip/how-i-started-doing-data-analysis-with-ms-excel-i4g) (2026-01-25)
+- [💰 Build a Salary Prediction System in Python with a GUI](https://dev.to/matetechnologie/build-a-salary-prediction-system-in-python-with-a-gui-bdo) (2026-01-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [System Design Practice Link 6:](https://manikgoyal400.medium.com/system-design-practice-link-6-8f34be204295?source=rss------programming-5) (2026-01-25)
-- [System Design Practice Link 5 :](https://manikgoyal400.medium.com/system-design-practice-link-5-8252ecedbc49?source=rss------programming-5) (2026-01-25)
-- [How Goroutines Leak (And How to Catch Them)](https://medium.com/golang-in-plain-english/how-goroutines-leak-and-how-to-catch-them-de20b0aaea71?source=rss------programming-5) (2026-01-25)
-- [How to Build Ultra-Smooth Sliders in Angular Using Swiper](https://medium.com/@Angular_With_Awais/how-to-build-ultra-smooth-sliders-in-angular-using-swiper-f328e0c75962?source=rss------programming-5) (2026-01-25)
-- [AI: Understanding Prompt Engineering](https://medium.com/@angadi.saa/ai-understanding-prompt-engineering-5c37f91524d0?source=rss------programming-5) (2026-01-25)
+- [Pointers](https://medium.com/@krishnaatri08/pointers-e4c46f556545?source=rss------programming-5) (2026-01-25)
+- [The Quiet End of Tech’s Golden Age](https://medium.com/@krunalkanojiya/the-quiet-end-of-techs-golden-age-351a75753136?source=rss------programming-5) (2026-01-25)
+- [OpenAI Is Sinking — And It’s Pulling the Entire AI Industry Down With It ☕](https://lifeindraft.medium.com/openai-is-sinking-and-its-pulling-the-entire-ai-industry-down-with-it-510b907f19a6?source=rss------programming-5) (2026-01-25)
+- [Top 10 AI Tools That Make You Unstoppable in 2026](https://osintteam.blog/top-10-ai-tools-that-make-you-unstoppable-in-2026-27eade6f3679?source=rss------programming-5) (2026-01-25)
+- [Everyone Says Python Can’t Do GUIs — They’re Wrong](https://python.plainenglish.io/everyone-says-python-cant-do-guis-they-re-wrong-29d6ab3b05cc?source=rss------programming-5) (2026-01-25)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>💬 Slack API</summary>
 
+- [Assertive Communication: Definition, Tips, and Examples](https://slack.com/blog/collaboration/assertive-communication) (2026-01-23)
 - [Agentic Automation: What It Is and How It Works](https://slack.com/blog/productivity/agentic-automation-guide) (2026-01-16)
 - [Understanding Knowledge Retrieval and Why It’s Valuable to Businesses](https://slack.com/blog/collaboration/knowledge-retrieval) (2026-01-16)
 - [AI Task Automation: Benefits, Tools, and Use Cases](https://slack.com/blog/productivity/ai-task-automation-guide) (2026-01-16)
 - [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-01-13)
-- [12 Project Management Techniques for Better Collaboration and Efficiency](https://slack.com/blog/productivity/project-management-techniques) (2026-01-07)
 
 </details>
 
@@ -579,11 +579,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [How UX Research Methods Reveal Hidden AI Orchestration Failures in Enterprise Collaboration Agents](https://www.analyticsvidhya.com/blog/2026/01/how-ux-research-reveals-hidden-ai-orchestration-failures/) (2026-01-25)
 - [Deep Learning vs. Machine Learning: Key Differences Explained for Business Leaders ](https://www.analyticsvidhya.com/blog/2026/01/machine-learning-vs-deep-learning/) (2026-01-24)
 - [9 Books to Start Your Business Analytics Journey](https://www.analyticsvidhya.com/blog/2026/01/top-business-analytics-books-to-read/) (2026-01-24)
 - [How to Become a Data Engineer in 2026?](https://www.analyticsvidhya.com/blog/2026/01/data-engineer-roadmap/) (2026-01-23)
 - [GLM-4.7 Flash: The AI Powerhouse Built for Developers ](https://www.analyticsvidhya.com/blog/2026/01/glm-4-7-flash/) (2026-01-23)
-- [Top 6 Free Generative AI Courses with Certificates](https://www.analyticsvidhya.com/blog/2026/01/free-generative-ai-courses-with-certificates/) (2026-01-22)
 
 </details>
 
