@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Gmail is having issues with spam and misclassification](https://techcrunch.com/2026/01/24/gmail-is-having-issues-with-spam-and-misclassification/) (2026-01-24)
+- [Tech CEOs boast and bicker about AI at Davos](https://techcrunch.com/2026/01/24/tech-ceos-boast-and-bicker-about-ai-at-davos/) (2026-01-24)
 - [Former Googlers seek to captivate kids with an AI-powered learning app](https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/) (2026-01-24)
 - [SEC drops lawsuit against Winklevoss twins’ Gemini crypto exchange](https://techcrunch.com/2026/01/24/sec-drops-lawsuit-against-winklevoss-twins-gemini-crypto-exchange/) (2026-01-24)
 - [A new test for AI labs: Are you even trying to make money?](https://techcrunch.com/2026/01/24/a-new-test-for-ai-labs-are-you-even-trying-to-make-money/) (2026-01-24)
-- [How PopWheels helped a food cart ditch generators for e-bike batteries](https://techcrunch.com/2026/01/24/how-popwheels-helped-a-food-cart-ditch-generators-for-e-bike-batteries/) (2026-01-24)
-- [Legal AI giant Harvey acquires Hexus as competition heats up in legal tech](https://techcrunch.com/2026/01/23/legal-ai-giant-harvey-acquires-hexus-as-competition-heats-up-in-legal-tech/) (2026-01-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Gmail Spam Detection Down](https://www.google.com/appsstatus/dashboard/incidents/NNnDkY9CJ36annsfytjQ?hl=en) (2026-01-24)
-- [December in Servo: multiple windows, proxy support, better caching, and more](https://servo.org/blog/2026/01/23/december-in-servo/) (2026-01-24)
-- [Tao Te Ching – Translated by Ursula K. Le Guin](https://github.com/nrrb/tao-te-ching/blob/master/Ursula%20K%20Le%20Guin.md) (2026-01-24)
-- [Metriport (YC S22) is hiring a security eng to harden healthcare data infra](https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer) (2026-01-24)
-- [Are we all plagiarists now?](https://www.economist.com/culture/2026/01/22/are-we-all-plagiarists-now) (2026-01-24)
+- [Adoption of EVs tied to real-world reductions in air pollution: study](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/) (2026-01-25)
+- [We X-Rayed a Suspicious FTDI USB Cable](https://eclypsium.com/blog/xray-counterfeit-usb-cable/) (2026-01-24)
+- [Europe wants to end its dangerous reliance on US internet technology](https://theconversation.com/europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology-274042) (2026-01-24)
+- [I don't write code anymore – I sculpt it](https://www.jerpint.io/blog/2026-01-24-i-dont-write-code-anymore-i-sculpt-it/) (2026-01-24)
+- [Poland's energy grid was targeted by never-before-seen wiper malware](https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/) (2026-01-24)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Microsoft handed the government encryption keys for customer data](https://www.theverge.com/news/867244/microsoft-bitlocker-privacy-fbi) (2026-01-24)
+- [MicroSD Express cards and Anker’s travel adapter rule the deal roost this week](https://www.theverge.com/gadgets/866788/anker-nano-travel-adapter-samsung-p9-microsd-express-card-deal-sale) (2026-01-24)
 - [Gmail’s spam filter and automatic sorting are broken](https://www.theverge.com/tech/867247/gmails-spam-filter-broken) (2026-01-24)
 - [ICE has killed another person in Minneapolis](https://www.theverge.com/news/867245/ice-has-killed-another-person-in-minneapolis) (2026-01-24)
 - [Gaming&#8217;s most fun sales data is full of old and obscure games](https://www.theverge.com/games/867004/circana-gaming-sales-data-mat-piscatella-one-copy-obscure-games) (2026-01-24)
-- [Get ready for the AI ad-pocalypse](https://www.theverge.com/report/866775/ai-generated-ads-slop-human-creativity) (2026-01-24)
-- [This coming-of-age adventure game made me feel a little too seen](https://www.theverge.com/entertainment/865082/perfect-tides-station-to-station-review-steam) (2026-01-24)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Poland's energy grid was targeted by never-before-seen wiper malware](https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/) (2026-01-24)
+- [Did Edison accidentally make graphene in 1879?](https://arstechnica.com/science/2026/01/did-edison-accidentally-make-graphene-in-1879/) (2026-01-24)
 - [A weird, itchy rash is linked to the keto diet—but no one knows why](https://arstechnica.com/health/2026/01/a-weird-itchy-rash-is-linked-to-the-keto-diet-but-no-one-knows-why/) (2026-01-24)
 - [TR-49 is interactive fiction for fans of deep research rabbit holes](https://arstechnica.com/gaming/2026/01/tr-49-is-interactive-fiction-for-fans-of-deep-research-rabbit-holes/) (2026-01-23)
 - [Demand for Intel's processors is apparently there, but the supply is not](https://arstechnica.com/gadgets/2026/01/core-ultra-series-3-launch-may-be-hampered-by-chip-shortages-says-intel/) (2026-01-23)
-- [DHS keeps trying and failing to unmask anonymous ICE critics online](https://arstechnica.com/tech-policy/2026/01/instagram-ice-critic-wins-fight-to-stay-anonymous-as-dhs-backs-down/) (2026-01-23)
-- [White House alters arrest photo of ICE protester, says "the memes will continue"](https://arstechnica.com/tech-policy/2026/01/white-house-posts-altered-arrest-photo-to-make-it-appear-ice-critic-was-sobbing/) (2026-01-23)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How Stripe Billing Failures Quietly Drain SaaS Revenue](https://dev.to/abhishek_sanoria_8aa6f6a4/how-stripe-billing-failures-quietly-drain-saas-revenue-2196) (2026-01-24)
-- [From WAL to WASM - High-Performance Local-First Sync with Postgres & SQLite](https://dev.to/rafacalderon/from-wal-to-wasm-high-performance-local-first-sync-with-postgres-sqlite-50h0) (2026-01-24)
-- [FPGA_Part_08](https://dev.to/cevval/fpgapart08-1gak) (2026-01-24)
-- [Separación de Responsabilidades de los Dispositivos](https://dev.to/javascriptchile/separacion-de-responsabilidades-de-los-dispositivos-3meb) (2026-01-24)
-- [Stop Your RAG Agent from Making Things Up: A Functional Programming Approach](https://dev.to/sreeni5018/stop-your-rag-agent-from-making-things-up-a-functional-programming-approach-1bk3) (2026-01-24)
+- [Datadog vs OneUptime vs OptyxStack – Understanding the Differences in Observability and Operations](https://dev.to/optyxstack/datadog-vs-oneuptime-vs-optyxstack-understanding-the-differences-in-observability-and-operations-1blh) (2026-01-25)
+- [Decision AI is the Engine. GenAI is the Interface. Agents are the Operators.](https://dev.to/eagleeyethinker/decision-ai-is-the-engine-genai-is-the-interface-agents-are-the-operators-4275) (2026-01-25)
+- [Stop Guessing Your Diet: Building a Bio-Hacker Agent with LangGraph and CGM Data 🩸🤖](https://dev.to/wellallytech/stop-guessing-your-diet-building-a-bio-hacker-agent-with-langgraph-and-cgm-data-1a2b) (2026-01-25)
+- [The Future of Verifiable Compute in Trading: How ROFL Eliminates Trust in Order Execution](https://dev.to/savvysid/the-future-of-verifiable-compute-in-trading-how-rofl-eliminates-trust-in-order-execution-21jd) (2026-01-25)
+- [Autonomous Agents Need Trustless Infrastructure: How ROFL Enables True Agent Sovereignty](https://dev.to/savvysid/autonomous-agents-need-trustless-infrastructure-how-rofl-enables-true-agent-sovereignty-359l) (2026-01-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Euler Tour Technique in Java](https://medium.com/@AlexanderObregon/euler-tour-technique-in-java-9da7b7dbc842?source=rss------programming-5) (2026-01-24)
-- [The Day Open Source Realized Code Doesn’t Matter Anymore](https://blog.stackademic.com/the-day-open-source-realized-code-doesnt-matter-anymore-a07f5aedfb43?source=rss------programming-5) (2026-01-24)
-- [Stack Overflow’s Quiet Collapse: When AI Eats the Internet That Trained It](https://fferoz.medium.com/stack-overflows-quiet-collapse-when-ai-eats-the-internet-that-trained-it-af715c2389d5?source=rss------programming-5) (2026-01-24)
-- [Introduction to Permission Authorization in .NET 10 (The Clean, Scalable Way)](https://medium.com/@michaelmaurice410/introduction-to-permission-authorization-in-net-10-the-clean-scalable-way-be55fdb1229c?source=rss------programming-5) (2026-01-24)
-- [How To Use The Specification Design Pattern With EF Core 10](https://medium.com/@mariammaurice/how-to-use-the-specification-design-pattern-with-ef-core-10-31117dd9bf40?source=rss------programming-5) (2026-01-24)
+- [Lunar New Year Data Analysis: A Tribute to the Year of the Fire Horse](https://medium.com/@ciroduro01/lunar-new-year-data-analysis-a-tribute-to-the-year-of-the-fire-horse-953086008035?source=rss------programming-5) (2026-01-25)
+- [I Built 30+ Engineering Products After Work — Here’s What 761 Sales Taught Me About Tech, Money…](https://javascript.plainenglish.io/i-built-30-engineering-products-after-work-heres-what-761-sales-taught-me-about-tech-money-c5b472f60337?source=rss------programming-5) (2026-01-25)
+- [How React.lazy works in 2026 — a deep dive!](https://levelup.gitconnected.com/how-react-lazy-works-in-2026-a-deep-dive-3d346411a8ae?source=rss------programming-5) (2026-01-25)
+- [Build a Real AI for Chess](https://medium.com/play-with-python/build-a-real-ai-for-chess-a23ec0af8f1a?source=rss------programming-5) (2026-01-25)
+- [Top 5 Message Brokers Every Developer Must Know in 2026](https://medium.com/@sunil17bbmp/top-5-message-brokers-every-developer-must-know-in-2026-113d191fd783?source=rss------programming-5) (2026-01-25)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Making the Most of Your Docker Hardened Images Enterprise Trial – Part 2](https://www.docker.com/blog/making-the-most-of-your-docker-hardened-images-enterprise-trial-part-2/) (2026-01-24)
 - [How to Automate Arm Migration with Docker MCP Toolkit, VS Code, and GitHub Copilot](https://www.docker.com/blog/automate-arm-migration-docker-mcp-copilot/) (2026-01-23)
 - [Using MCP Servers: From Quick Tools to Multi-Agent Systems](https://www.docker.com/blog/mcp-servers-docker-toolkit-cagent-gateway/) (2026-01-22)
 - [Your Dependencies Don’t Care About Your FIPS Configuration](https://www.docker.com/blog/fips-dependencies-and-prebuilt-binaries/) (2026-01-22)
 - [Making (Very) Small LLMs Smarter](https://www.docker.com/blog/making-small-llms-smarter/) (2026-01-16)
-- [Permission-Aware RAG: End-to-End Testing with the SpiceDB Testcontainer](https://www.docker.com/blog/rag-permission-testing-testcontainers-spicedb/) (2026-01-15)
 
 </details>
 
@@ -362,10 +362,10 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-How to Bring Your Own Keys for Okta Telephony with Twilio Verify
+Bringing SendGrid and Segment to Twilio.com: A More Unified Web Experience
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/okta-byok-verify
-) (2026-01-15)
+https://www.twilio.com/en-us/blog/company/bringing-sendgrid-and-segment-to-twilio
+) (2026-01-23)
 - [
 Build an AI Video Analysis App with FastAPI, OpenAI, and SendGrid
 ](
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>💬 Slack API</summary>
 
-- [Assertive Communication: Definition, Tips, and Examples](https://slack.com/blog/collaboration/assertive-communication) (2026-01-23)
 - [Agentic Automation: What It Is and How It Works](https://slack.com/blog/productivity/agentic-automation-guide) (2026-01-16)
 - [Understanding Knowledge Retrieval and Why It’s Valuable to Businesses](https://slack.com/blog/collaboration/knowledge-retrieval) (2026-01-16)
 - [AI Task Automation: Benefits, Tools, and Use Cases](https://slack.com/blog/productivity/ai-task-automation-guide) (2026-01-16)
 - [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-01-13)
+- [12 Project Management Techniques for Better Collaboration and Efficiency](https://slack.com/blog/productivity/project-management-techniques) (2026-01-07)
 
 </details>
 
