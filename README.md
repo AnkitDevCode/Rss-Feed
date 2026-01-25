@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Gmail is having issues with spam and misclassification](https://techcrunch.com/2026/01/24/gmail-is-having-issues-with-spam-and-misclassification/) (2026-01-24)
+- [TechCrunch Mobility: RIP, Tesla Autopilot, and the NTSB investigates Waymo](https://techcrunch.com/2026/01/25/techcrunch-mobility-rip-tesla-autopilot-and-the-ntsb-investigates-waymo/) (2026-01-25)
+- [Apple will reportedly unveil its Gemini-powered Siri assistant in February](https://techcrunch.com/2026/01/25/apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february/) (2026-01-25)
+- [What is Bending Spoons? The little-known firm behind Vimeo’s sweeping layoffs](https://techcrunch.com/2026/01/25/what-is-bending-spoons-everything-to-know-about-aols-acquirer/) (2026-01-25)
+- [Google says it’s fixed Gmail issues with spam and misclassification](https://techcrunch.com/2026/01/25/gmail-is-having-issues-with-spam-and-misclassification/) (2026-01-25)
 - [Tech CEOs boast and bicker about AI at Davos](https://techcrunch.com/2026/01/24/tech-ceos-boast-and-bicker-about-ai-at-davos/) (2026-01-24)
-- [Former Googlers seek to captivate kids with an AI-powered learning app](https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/) (2026-01-24)
-- [SEC drops lawsuit against Winklevoss twins’ Gemini crypto exchange](https://techcrunch.com/2026/01/24/sec-drops-lawsuit-against-winklevoss-twins-gemini-crypto-exchange/) (2026-01-24)
-- [A new test for AI labs: Are you even trying to make money?](https://techcrunch.com/2026/01/24/a-new-test-for-ai-labs-are-you-even-trying-to-make-money/) (2026-01-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Nango (YC W23, Dev Infrastructure) Is Hiring Remotely](https://jobs.ashbyhq.com/Nango) (2026-01-25)
-- [Show HN: TUI for managing XDG default applications](https://github.com/mitjafelicijan/xdgctl) (2026-01-25)
-- [Accept_language 2.2 – RFC 7231/4647 compliant Accept-Language parsing for Ruby](https://github.com/cyril/accept_language.rb) (2026-01-25)
-- [Jurassic Park - Tablet device on Nedry's desk? (2012)](https://www.therpf.com/forums/threads/jurassic-park-tablet-device-on-nedrys-desk.169883/) (2026-01-25)
-- [This paper has been cited more than 6k times. It's fatally flawed.](https://statmodeling.stat.columbia.edu/2026/01/22/aking/) (2026-01-25)
+- [ICE Using Palantir Tool That Feeds on Medicaid Data](https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data) (2026-01-25)
+- [Will Your AI Teammate Bring Bagels to Standup?](https://redmonk.com/kholterhoff/2026/01/16/will-your-ai-teammate-bring-bagels-to-standup/) (2026-01-25)
+- [Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems](https://www.diljitpr.net/blog-post-postgresql-dlq) (2026-01-25)
+- [A macOS app that blurs your screen when you slouch](https://github.com/tldev/posturr) (2026-01-25)
+- [Show HN: Netfence – Like Envoy for eBPF Filters](https://github.com/danthegoodman1/netfence) (2026-01-25)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The day of the second killing](https://www.theverge.com/policy/867410/minneapolis-ice-protest-alex-pretti-killing) (2026-01-25)
-- [Microsoft handed the government encryption keys for customer data](https://www.theverge.com/news/867244/microsoft-bitlocker-privacy-fbi) (2026-01-24)
-- [MicroSD Express cards and Anker’s travel adapter rule the deal roost this week](https://www.theverge.com/gadgets/866788/anker-nano-travel-adapter-samsung-p9-microsd-express-card-deal-sale) (2026-01-24)
-- [Gmail’s spam filter and automatic sorting are broken](https://www.theverge.com/tech/867247/gmails-spam-filter-broken) (2026-01-24)
-- [ICE has killed another person in Minneapolis](https://www.theverge.com/news/867245/ice-has-killed-another-person-in-minneapolis) (2026-01-24)
+- [Creators and communities everywhere take a stand against ICE](https://www.theverge.com/policy/867451/creators-and-communities-take-a-stand-against-ice) (2026-01-25)
+- [It doesn’t matter if Alex Pretti had a gun](https://www.theverge.com/policy/867455/dhs-ice-border-patrol-minneapolis-alex-pretti) (2026-01-25)
+- [Trusting your phone to Abxylute’s mobile controller requires a big leap of faith](https://www.theverge.com/tech/864821/abxylute-m4-snap-on-mobile-controller-magsafe-magnetic-bluetooth) (2026-01-25)
+- [Why won’t anyone stop ICE from masking?](https://www.theverge.com/policy/867202/ice-mask-ban-no-secret-police-california) (2026-01-25)
+- [Sony’s first clip earbuds don’t quite hit the mark](https://www.theverge.com/tech/866975/sony-linkbuds-clip-open-earbuds-review) (2026-01-25)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Minimum Rounds to Complete All Tasks](https://dev.to/we_are_broken_compilers/minimum-rounds-to-complete-all-tasks-bo2) (2026-01-25)
-- [Android ADB 무선 디버깅 완전 정리 - 보안 모델과 현실적인 대응 전략](https://dev.to/dss99911/android-adb-museon-dibeoging-wanjeon-jeongri-boan-modelgwa-hyeonsiljeogin-daeeung-jeonryag-454d) (2026-01-25)
-- [Why the Junior Ghost Town is our biggest threat](https://dev.to/jeanphilippe_ulpiano_46b/why-the-junior-ghost-town-is-our-biggest-threat-1apb) (2026-01-25)
-- [How I Started Doing Data Analysis with MS Excel](https://dev.to/sirphilip/how-i-started-doing-data-analysis-with-ms-excel-i4g) (2026-01-25)
-- [💰 Build a Salary Prediction System in Python with a GUI](https://dev.to/matetechnologie/build-a-salary-prediction-system-in-python-with-a-gui-bdo) (2026-01-25)
+- [SOLID com Node.js e TypeScript: Escrevendo Código de Gente Grande](https://dev.to/danielcamucatto/solid-com-nodejs-e-typescript-escrevendo-codigo-de-gente-grande-32nj) (2026-01-25)
+- [β or w? for weight...](https://dev.to/yash_30may05ur/b-or-w-for-weight-51id) (2026-01-25)
+- [Your Local Environment Tests a Different System Than Production](https://dev.to/nuewframe/your-local-environment-tests-a-different-system-than-production-4ib1) (2026-01-25)
+- [AI-generated code lacks common sense](https://dev.to/maxpatiiuk/ai-generated-code-lacks-common-sense-29bo) (2026-01-25)
+- [code is a "translation" | after 1.5 years of "vibe-coding" adventures thoughts](https://dev.to/arenukvern/code-is-a-translation-after-15-years-of-vibe-coding-adventures-thoughts-2hbn) (2026-01-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Pointers](https://medium.com/@krishnaatri08/pointers-e4c46f556545?source=rss------programming-5) (2026-01-25)
-- [The Quiet End of Tech’s Golden Age](https://medium.com/@krunalkanojiya/the-quiet-end-of-techs-golden-age-351a75753136?source=rss------programming-5) (2026-01-25)
-- [OpenAI Is Sinking — And It’s Pulling the Entire AI Industry Down With It ☕](https://lifeindraft.medium.com/openai-is-sinking-and-its-pulling-the-entire-ai-industry-down-with-it-510b907f19a6?source=rss------programming-5) (2026-01-25)
-- [Top 10 AI Tools That Make You Unstoppable in 2026](https://osintteam.blog/top-10-ai-tools-that-make-you-unstoppable-in-2026-27eade6f3679?source=rss------programming-5) (2026-01-25)
-- [Everyone Says Python Can’t Do GUIs — They’re Wrong](https://python.plainenglish.io/everyone-says-python-cant-do-guis-they-re-wrong-29d6ab3b05cc?source=rss------programming-5) (2026-01-25)
+- [code is a “translation” | after 1.5 years of “vibe-coding” adventures thoughts](https://medium.com/@antmalofeev/code-is-a-translation-after-1-5-years-of-vibe-coding-adventures-thoughts-f2191ae1337d?source=rss------programming-5) (2026-01-25)
+- [Why I Use The Unit of Work Pattern With EF Core](https://medium.com/@mariammaurice/why-i-use-the-unit-of-work-pattern-with-ef-core-6767bdbe949f?source=rss------programming-5) (2026-01-25)
+- [DeepSeek’s Engram: The Missing Primitive That Makes LLMs Stop Wasting Compute on Memory](https://pub.towardsai.net/deepseeks-engram-the-missing-primitive-that-makes-llms-stop-wasting-compute-on-memory-93c3a8cb9dce?source=rss------programming-5) (2026-01-25)
+- [Introduction To Permission Authorization in .NET | Permission Authorization — Part 1](https://medium.com/@michaelmaurice410/introduction-to-permission-authorization-in-net-permission-authorization-part-1-9ae2f68b912d?source=rss------programming-5) (2026-01-25)
+- [Solve Logging as a Cross-Cutting Concern with MediatR](https://medium.com/@maged_/solve-logging-as-a-cross-cutting-concern-with-mediatr-e86b7ce44d8d?source=rss------programming-5) (2026-01-25)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
 - [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
 - [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
 - [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
 - [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
-- [Azure updates for partners: December 2025](https://partner.microsoft.com/en-us/blog/article/azure-updates-december-2025) (2025-12-16)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Making the Most of Your Docker Hardened Images Enterprise Trial – Part 3](https://www.docker.com/blog/making-the-most-of-your-docker-hardened-images-enterprise-trial-part-3/) (2026-01-25)
 - [Making the Most of Your Docker Hardened Images Enterprise Trial – Part 2](https://www.docker.com/blog/making-the-most-of-your-docker-hardened-images-enterprise-trial-part-2/) (2026-01-24)
 - [How to Automate Arm Migration with Docker MCP Toolkit, VS Code, and GitHub Copilot](https://www.docker.com/blog/automate-arm-migration-docker-mcp-copilot/) (2026-01-23)
 - [Using MCP Servers: From Quick Tools to Multi-Agent Systems](https://www.docker.com/blog/mcp-servers-docker-toolkit-cagent-gateway/) (2026-01-22)
 - [Your Dependencies Don’t Care About Your FIPS Configuration](https://www.docker.com/blog/fips-dependencies-and-prebuilt-binaries/) (2026-01-22)
-- [Making (Very) Small LLMs Smarter](https://www.docker.com/blog/making-small-llms-smarter/) (2026-01-16)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [SAM 3 vs. Specialist Models — A Performance Benchmark](https://towardsdatascience.com/sam-3-vs-specialist-models-a-performance-benchmark/) (2026-01-25)
+- [Azure ML vs. AWS SageMaker: A Deep Dive into Model Training — Part 1](https://towardsdatascience.com/azure-ml-vs-aws-sagemaker-a-deep-dive-into-scalable-model-training-part-1/) (2026-01-25)
 - [How to Build a Neural Machine Translation System for a Low-Resource Language](https://towardsdatascience.com/how-to-build-a-neural-machine-translation-system-for-a-low-resource-language/) (2026-01-24)
 - [Air for Tomorrow: Mapping the Digital Air-Quality Landscape, from Repositories and Data Types to Starter Code](https://towardsdatascience.com/air-for-tomorrow-mapping-the-digital-air-quality-landscape-repositories-data-types-starter-code/) (2026-01-24)
 - [Optimizing Data Transfer in Distributed AI/ML Training Workloads](https://towardsdatascience.com/optimizing-data-transfer-in-distributed-ai-ml-training-workloads/) (2026-01-23)
-- [Achieving 5x Agentic Coding Performance with Few-Shot Prompting](https://towardsdatascience.com/5x-agentic-coding-performance-with-few-shot-prompting/) (2026-01-23)
-- [Why the Sophistication of Your Prompt Correlates Almost Perfectly with the Sophistication of the Response, as Research by Anthropic Found](https://towardsdatascience.com/the-sophistication-of-your-prompt-correlates-almost-perfectly-with-the-sophistication-of-the-response-anthropic-study-found/) (2026-01-23)
 
 </details>
 
