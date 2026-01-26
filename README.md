@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Synthesia hits $4B valuation, lets employees cash out](https://techcrunch.com/2026/01/26/synthesia-hits-4b-valuation-lets-employees-cash-in/) (2026-01-26)
 - [This founder cracked firefighting — now he’s creating an AI gold mine](https://techcrunch.com/2026/01/25/this-founder-cracked-firefighting-now-hes-creating-an-ai-gold-mine/) (2026-01-25)
 - [ChatGPT is pulling answers from Elon Musk’s Grokipedia](https://techcrunch.com/2026/01/25/chatgpt-is-pulling-answers-from-elon-musks-grokipedia/) (2026-01-25)
 - [Humans& thinks coordination is the next frontier for AI, and they’re building a model to prove it](https://techcrunch.com/2026/01/25/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/) (2026-01-25)
 - [Science fiction writers, Comic-Con say goodbye to AI](https://techcrunch.com/2026/01/25/science-fiction-writers-comic-con-say-goodbye-to-ai/) (2026-01-25)
-- [TechCrunch Mobility: RIP, Tesla Autopilot, and the NTSB investigates Waymo](https://techcrunch.com/2026/01/25/techcrunch-mobility-rip-tesla-autopilot-and-the-ntsb-investigates-waymo/) (2026-01-25)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Browser Is the Sandbox](https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/) (2026-01-26)
-- [Nvidia is about to challenge 'Intel Inside' with as many as eight Arm laptops](https://www.theverge.com/games/867056/leak-nvidia-n1-n1x-laptops-lenovo-dell) (2026-01-26)
+- [MapLibre Tile: a modern and efficient vector tile format](https://maplibre.org/news/2026-01-23-mlt-release/) (2026-01-26)
+- [San Francisco Graffiti](https://walzr.com/sf-graffiti) (2026-01-26)
+- [The Holy Grail of Linux Binary Compatibility: Musl and Dlopen](https://github.com/quaadgras/graphics.gd/discussions/242) (2026-01-26)
+- [The browser is the sandbox](https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/) (2026-01-26)
 - [Iran's internet blackout may become permanent, with access for elites only](https://restofworld.org/2026/iran-blackout-tiered-internet/) (2026-01-26)
-- [Environmentalists worry Google behind bid to control Oregon town's water](https://www.sfgate.com/national-parks/article/mount-hood-water-google-21307223.php) (2026-01-26)
-- [Show HN: WhyThere – Compare cities side-by-side to decide where to move](https://whythere.life) (2026-01-26)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Microsoft’s first Windows 11 update of 2026 has been a mess](https://www.theverge.com/news/867647/microsoft-windows-11-january-2026-update-bugs-issues) (2026-01-26)
+- [TikTok broke in its first weekend with US ownership](https://www.theverge.com/news/867625/tiktok-down-weekend-broke-fyp-video-uploads-review) (2026-01-26)
 - [Creators and communities everywhere take a stand against ICE](https://www.theverge.com/policy/867451/creators-and-communities-take-a-stand-against-ice) (2026-01-25)
 - [It doesn’t matter if Alex Pretti had a gun](https://www.theverge.com/policy/867455/dhs-ice-border-patrol-minneapolis-alex-pretti) (2026-01-25)
 - [Trusting your phone to Abxylute’s mobile controller requires a big leap of faith](https://www.theverge.com/tech/864821/abxylute-m4-snap-on-mobile-controller-magsafe-magnetic-bluetooth) (2026-01-25)
-- [Why won’t anyone stop ICE from masking?](https://www.theverge.com/policy/867202/ice-mask-ban-no-secret-police-california) (2026-01-25)
-- [Sony’s first clip earbuds don’t quite hit the mark](https://www.theverge.com/tech/866975/sony-linkbuds-clip-open-earbuds-review) (2026-01-25)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [🚀 The Algorithm Mastery Series: From Fundamentals to 2026's Cutting Edge](https://dev.to/charles_kumar_30654e10958/the-algorithm-mastery-series-from-fundamentals-to-2026s-cutting-edge-5gbg) (2026-01-26)
-- [Why Learning Basic SEO Helps Developers Build Better Websites](https://dev.to/kevin_joseph_/why-learning-basic-seo-helps-developers-build-better-websites-4kjp) (2026-01-26)
-- [Building a Modern POS Platform: Offline-First Operations with AI-Driven Marketing](https://dev.to/raj_bagchi/building-a-modern-pos-platform-offline-first-operations-with-ai-driven-marketing-122h) (2026-01-26)
-- [Practical LDAP Operations Guide Management UI Release](https://dev.to/venkatehkallu_704b2a0cdef/practical-ldap-operations-guide-management-ui-release-5ka) (2026-01-26)
-- [Beyond the Hoodie: What “Thinking Like an Attacker” Actually Means](https://dev.to/tauseef_imam_a06c68bb304a/beyond-the-hoodie-what-thinking-like-an-attacker-actually-means-506p) (2026-01-26)
+- [🔥 Contract Testing: the bug that passes CI and breaks production](https://dev.to/patrickbastosdeveloper/contract-testing-the-bug-that-passes-ci-and-breaks-production-532l) (2026-01-26)
+- [Linux - How to Interpret the Output of the df -h Command](https://dev.to/ben-santora/linux-how-to-interpret-the-output-of-the-df-h-command-4gg9) (2026-01-26)
+- [Build Production-ready AI Agents with AWS Bedrock & Agentcore](https://dev.to/aws-builders/build-production-ready-ai-agents-with-aws-bedrock-agentcore-13kk) (2026-01-26)
+- [Planning Is the Real Superpower of Agentic Coding](https://dev.to/shinpr/planning-is-the-real-superpower-of-agentic-coding-1imm) (2026-01-26)
+- [[SUI] List](https://dev.to/david_goyes_a488f58a17a53/sui-list-3n1p) (2026-01-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Hardcoding vs Frameworks: How Frameworks Save Time in Software Development](https://medium.com/@smartynani2005/hardcoding-vs-frameworks-how-frameworks-save-time-in-software-development-ae1eaf9a0cab?source=rss------programming-5) (2026-01-26)
-- [Java Interview Questions & Answers Senior Level](https://medium.com/@poojadeepa14/java-interview-questions-answers-senior-level-d868aab9d852?source=rss------programming-5) (2026-01-26)
-- [Open Source Contribution: Learning, Sharing, and Growing Together](https://medium.com/@tanishabanga1107/open-source-contribution-learning-sharing-and-growing-together-4d279e000596?source=rss------programming-5) (2026-01-26)
-- [Weekly Digest #256](https://wklytech.medium.com/weekly-digest-256-298b797d427c?source=rss------programming-5) (2026-01-26)
-- [8 Python Libraries That Solved Problems I Didn’t Know Python Could Handle](https://blog.stackademic.com/8-python-libraries-that-solved-problems-i-didnt-know-python-could-handle-b8573be1ddd8?source=rss------programming-5) (2026-01-26)
+- [File Handling in Java in Advance Techniques with Examples and Their Output.](https://medium.com/@newgencoder/file-handling-in-java-in-advance-techniques-with-examples-and-their-output-625f10cb1e6d?source=rss------programming-5) (2026-01-26)
+- [#خاله اصفهان #خاله شیراز #خاله اهواز #خاله کردستان #خاله اسفراین #خاله اقلیم #خاله آباده #خاله مشهد…](https://medium.com/@elmiraaxm880/%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%87%D9%88%D8%A7%D8%B2-%D8%AE%D8%A7%D9%84%D9%87-%DA%A9%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%81%D8%B1%D8%A7%DB%8C%D9%86-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D9%82%D9%84%DB%8C%D9%85-%D8%AE%D8%A7%D9%84%D9%87-%D8%A2%D8%A8%D8%A7%D8%AF%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D9%85%D8%B4%D9%87%D8%AF-4989efff890d?source=rss------programming-5) (2026-01-26)
+- [Why Replayable Pipelines Matter: Time Travel and Backfills in Modern Data Systems](https://thedatatrait.medium.com/why-replayable-pipelines-matter-time-travel-and-backfills-in-modern-data-systems-b116d637bd04?source=rss------programming-5) (2026-01-26)
+- [What PVS-Studio unicorn looked like in 2016](https://unicorn-dev.medium.com/what-pvs-studio-unicorn-looked-like-in-2016-aa85d8fc9e25?source=rss------programming-5) (2026-01-26)
+- [I Stopped Drowning in Notes After I Built This NotebookLM Workflow](https://medium.com/@neurominimal/i-stopped-drowning-in-notes-after-i-built-this-notebooklm-workflow-dc187ee27049?source=rss------programming-5) (2026-01-26)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Meet the First Speakers Heading to KotlinConf 2026](https://blog.jetbrains.com/kotlin/2026/01/meet-the-first-speakers-heading-to-kotlinconf-2026/) (2026-01-26)
+- [New Livestream – From Detection to Remediation: Wiz in Your JetBrains IDE](https://blog.jetbrains.com/idea/2026/01/new-livestream-engineers-talk-about-spring-boot-4-life-and-other-stuff/) (2026-01-26)
 - [Spring Boot Debugging – Now Remote](https://blog.jetbrains.com/idea/2026/01/spring-boot-debugging-now-remote/) (2026-01-23)
 - [Ktor 3.4.0 Is Now Available!](https://blog.jetbrains.com/kotlin/2026/01/ktor-3-4-0-is-now-available/) (2026-01-23)
 - [Exposed 1.0 Is Now Available](https://blog.jetbrains.com/kotlin/2026/01/exposed-1-0-is-now-available/) (2026-01-23)
-- [Codex Is Now Integrated Into JetBrains IDEs](https://blog.jetbrains.com/ai/2026/01/codex-in-jetbrains-ides/) (2026-01-22)
-- [IntelliJ IDEA 2025.3.2 Is Out!](https://blog.jetbrains.com/idea/2026/01/intellij-idea-2025-3-2/) (2026-01-22)
 
 </details>
 
@@ -557,33 +557,33 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>🤖 AI News</summary>
 
+- [Modernising apps triples the odds of AI returns, Cloudflare says](https://www.artificialintelligence-news.com/news/modernising-apps-triples-the-odds-of-ai-returns-cloudflare-says/) (2026-01-26)
 - [Anthropic’s usage stats paint a detailed picture of AI success](https://www.artificialintelligence-news.com/news/anthropic-report-economic-index-summary-key-points-2026/) (2026-01-23)
 - [Defensive AI and how machine learning strengthens cyber defense](https://www.artificialintelligence-news.com/news/defensive-ai-and-how-machine-learning-strengthens-cyber-defense/) (2026-01-23)
 - [Controlling AI agent sprawl: The CIO’s guide to governance](https://www.artificialintelligence-news.com/news/controlling-ai-agent-sprawl-cio-guide-to-governance/) (2026-01-22)
 - [Gates Foundation and OpenAI test AI in African healthcare](https://www.artificialintelligence-news.com/news/gates-foundation-and-openai-test-ai-in-african-healthcare/) (2026-01-22)
-- [Balancing AI cost efficiency with data sovereignty](https://www.artificialintelligence-news.com/news/balancing-ai-cost-efficiency-with-data-sovereignty/) (2026-01-21)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Causal ML for the Aspiring Data Scientist](https://towardsdatascience.com/causal-ml-for-the-aspiring-data-scientist/) (2026-01-26)
 - [SAM 3 vs. Specialist Models — A Performance Benchmark](https://towardsdatascience.com/sam-3-vs-specialist-models-a-performance-benchmark/) (2026-01-25)
 - [Azure ML vs. AWS SageMaker: A Deep Dive into Model Training — Part 1](https://towardsdatascience.com/azure-ml-vs-aws-sagemaker-a-deep-dive-into-scalable-model-training-part-1/) (2026-01-25)
 - [How to Build a Neural Machine Translation System for a Low-Resource Language](https://towardsdatascience.com/how-to-build-a-neural-machine-translation-system-for-a-low-resource-language/) (2026-01-24)
 - [Air for Tomorrow: Mapping the Digital Air-Quality Landscape, from Repositories and Data Types to Starter Code](https://towardsdatascience.com/air-for-tomorrow-mapping-the-digital-air-quality-landscape-repositories-data-types-starter-code/) (2026-01-24)
-- [Optimizing Data Transfer in Distributed AI/ML Training Workloads](https://towardsdatascience.com/optimizing-data-transfer-in-distributed-ai-ml-training-workloads/) (2026-01-23)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [AgentScope AI: A Complete Guide to Building Scalable Multi-Agent Systems with LLMs ](https://www.analyticsvidhya.com/blog/2026/01/agentscope-ai/) (2026-01-26)
+- [Building Intelligent iOS Apps with Apple’s Foundation Models Framework ](https://www.analyticsvidhya.com/blog/2026/01/apple-foundation-models-framework/) (2026-01-26)
+- [Model Quantization Guide: Reduce Model Size 4x with PyTorch](https://www.analyticsvidhya.com/blog/2026/01/model-quantization/) (2026-01-26)
 - [How UX Research Methods Reveal Hidden AI Orchestration Failures in Enterprise Collaboration Agents](https://www.analyticsvidhya.com/blog/2026/01/how-ux-research-reveals-hidden-ai-orchestration-failures/) (2026-01-25)
 - [Deep Learning vs. Machine Learning: Key Differences Explained for Business Leaders ](https://www.analyticsvidhya.com/blog/2026/01/machine-learning-vs-deep-learning/) (2026-01-24)
-- [9 Books to Start Your Business Analytics Journey](https://www.analyticsvidhya.com/blog/2026/01/top-business-analytics-books-to-read/) (2026-01-24)
-- [How to Become a Data Engineer in 2026?](https://www.analyticsvidhya.com/blog/2026/01/data-engineer-roadmap/) (2026-01-23)
-- [GLM-4.7 Flash: The AI Powerhouse Built for Developers ](https://www.analyticsvidhya.com/blog/2026/01/glm-4-7-flash/) (2026-01-23)
 
 </details>
 
