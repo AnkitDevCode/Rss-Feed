@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: Elo ranking for landing pages](https://landingleaderboard.com/) (2026-01-26)
-- [Over 36,500 killed in Iran's deadliest massacre, documents reveal](https://www.iranintl.com/en/202601255198) (2026-01-26)
-- [Clawdbot - open source personal AI assistant](https://github.com/clawdbot/clawdbot) (2026-01-26)
-- [Scientists identify brain waves that define the limits of 'you'](https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you) (2026-01-26)
-- [Show HN: FaceTime-style calls with an AI Companion (Live2D and long-term memory)](https://thebeni.ai/) (2026-01-25)
+- [The Browser Is the Sandbox](https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/) (2026-01-26)
+- [Nvidia is about to challenge 'Intel Inside' with as many as eight Arm laptops](https://www.theverge.com/games/867056/leak-nvidia-n1-n1x-laptops-lenovo-dell) (2026-01-26)
+- [Iran's internet blackout may become permanent, with access for elites only](https://restofworld.org/2026/iran-blackout-tiered-internet/) (2026-01-26)
+- [Environmentalists worry Google behind bid to control Oregon town's water](https://www.sfgate.com/national-parks/article/mount-hood-water-google-21307223.php) (2026-01-26)
+- [Show HN: WhyThere – Compare cities side-by-side to decide where to move](https://whythere.life) (2026-01-26)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Hey dev.to 👋](https://dev.to/sanjiv_prabhunandan/hey-devto-4l5o) (2026-01-26)
-- [Build Your Own AI Story Generator with RAG - Part 2: Building the RAG Pipeline](https://dev.to/diskcleankit/build-your-own-ai-story-generator-with-rag-part-2-building-the-rag-pipeline-3jf) (2026-01-26)
-- [Setup Nginx and MySQL with Vagrant](https://dev.to/actocodes/setup-nginx-and-mysql-with-vagrant-5gmi) (2026-01-26)
-- [Build Your Own AI Story Generator with RAG - Part 1: Understanding RAG](https://dev.to/diskcleankit/build-your-own-ai-story-generator-with-rag-part-1-understanding-rag-223p) (2026-01-26)
-- [Useful Linux Commands For Data Engineers](https://dev.to/valgrace/useful-linux-commands-for-data-engineers-3082) (2026-01-26)
+- [🚀 The Algorithm Mastery Series: From Fundamentals to 2026's Cutting Edge](https://dev.to/charles_kumar_30654e10958/the-algorithm-mastery-series-from-fundamentals-to-2026s-cutting-edge-5gbg) (2026-01-26)
+- [Why Learning Basic SEO Helps Developers Build Better Websites](https://dev.to/kevin_joseph_/why-learning-basic-seo-helps-developers-build-better-websites-4kjp) (2026-01-26)
+- [Building a Modern POS Platform: Offline-First Operations with AI-Driven Marketing](https://dev.to/raj_bagchi/building-a-modern-pos-platform-offline-first-operations-with-ai-driven-marketing-122h) (2026-01-26)
+- [Practical LDAP Operations Guide Management UI Release](https://dev.to/venkatehkallu_704b2a0cdef/practical-ldap-operations-guide-management-ui-release-5ka) (2026-01-26)
+- [Beyond the Hoodie: What “Thinking Like an Attacker” Actually Means](https://dev.to/tauseef_imam_a06c68bb304a/beyond-the-hoodie-what-thinking-like-an-attacker-actually-means-506p) (2026-01-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [9 Python Libraries That Simplify Machine Learning](https://python.plainenglish.io/9-python-libraries-that-simplify-machine-learning-704bc304278c?source=rss------programming-5) (2026-01-26)
-- [Building AI Agents in 2026](https://ai.plainenglish.io/building-ai-agents-in-2026-0b752dd7f973?source=rss------programming-5) (2026-01-26)
-- [Building a Self-Healing Data Pipeline That Fixes Its Own Python Errors ](https://python.plainenglish.io/building-a-self-healing-data-pipeline-that-fixes-its-own-python-errors-b9024c525aa5?source=rss------programming-5) (2026-01-26)
-- [The ‘End of Coding’ vs. The Reality of Engineering](https://kingjosias.medium.com/the-end-of-coding-vs-the-reality-of-engineering-e7e27745cba8?source=rss------programming-5) (2026-01-26)
-- [What Apple and Google Couldn’t Build — One Developer Made with ClawdBot](https://medium.com/write-a-catalyst/what-apple-and-google-couldnt-build-one-developer-made-with-clawdbot-b94125633790?source=rss------programming-5) (2026-01-26)
+- [Hardcoding vs Frameworks: How Frameworks Save Time in Software Development](https://medium.com/@smartynani2005/hardcoding-vs-frameworks-how-frameworks-save-time-in-software-development-ae1eaf9a0cab?source=rss------programming-5) (2026-01-26)
+- [Java Interview Questions & Answers Senior Level](https://medium.com/@poojadeepa14/java-interview-questions-answers-senior-level-d868aab9d852?source=rss------programming-5) (2026-01-26)
+- [Open Source Contribution: Learning, Sharing, and Growing Together](https://medium.com/@tanishabanga1107/open-source-contribution-learning-sharing-and-growing-together-4d279e000596?source=rss------programming-5) (2026-01-26)
+- [Weekly Digest #256](https://wklytech.medium.com/weekly-digest-256-298b797d427c?source=rss------programming-5) (2026-01-26)
+- [8 Python Libraries That Solved Problems I Didn’t Know Python Could Handle](https://blog.stackademic.com/8-python-libraries-that-solved-problems-i-didnt-know-python-could-handle-b8573be1ddd8?source=rss------programming-5) (2026-01-26)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
 - [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
 - [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
 - [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
 - [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
-- [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
 
 </details>
 
