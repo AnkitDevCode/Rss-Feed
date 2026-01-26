@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [This founder cracked firefighting — now he’s creating an AI gold mine](https://techcrunch.com/2026/01/25/this-founder-cracked-firefighting-now-hes-creating-an-ai-gold-mine/) (2026-01-25)
+- [ChatGPT is pulling answers from Elon Musk’s Grokipedia](https://techcrunch.com/2026/01/25/chatgpt-is-pulling-answers-from-elon-musks-grokipedia/) (2026-01-25)
+- [Humans& thinks coordination is the next frontier for AI, and they’re building a model to prove it](https://techcrunch.com/2026/01/25/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/) (2026-01-25)
+- [Science fiction writers, Comic-Con say goodbye to AI](https://techcrunch.com/2026/01/25/science-fiction-writers-comic-con-say-goodbye-to-ai/) (2026-01-25)
 - [TechCrunch Mobility: RIP, Tesla Autopilot, and the NTSB investigates Waymo](https://techcrunch.com/2026/01/25/techcrunch-mobility-rip-tesla-autopilot-and-the-ntsb-investigates-waymo/) (2026-01-25)
-- [Apple will reportedly unveil its Gemini-powered Siri assistant in February](https://techcrunch.com/2026/01/25/apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february/) (2026-01-25)
-- [What is Bending Spoons? The little-known firm behind Vimeo’s sweeping layoffs](https://techcrunch.com/2026/01/25/what-is-bending-spoons-everything-to-know-about-aols-acquirer/) (2026-01-25)
-- [Google says it’s fixed Gmail issues with spam and misclassification](https://techcrunch.com/2026/01/25/gmail-is-having-issues-with-spam-and-misclassification/) (2026-01-25)
-- [Tech CEOs boast and bicker about AI at Davos](https://techcrunch.com/2026/01/24/tech-ceos-boast-and-bicker-about-ai-at-davos/) (2026-01-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [ICE Using Palantir Tool That Feeds on Medicaid Data](https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data) (2026-01-25)
-- [Will Your AI Teammate Bring Bagels to Standup?](https://redmonk.com/kholterhoff/2026/01/16/will-your-ai-teammate-bring-bagels-to-standup/) (2026-01-25)
-- [Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems](https://www.diljitpr.net/blog-post-postgresql-dlq) (2026-01-25)
-- [A macOS app that blurs your screen when you slouch](https://github.com/tldev/posturr) (2026-01-25)
-- [Show HN: Netfence – Like Envoy for eBPF Filters](https://github.com/danthegoodman1/netfence) (2026-01-25)
+- [Show HN: Elo ranking for landing pages](https://landingleaderboard.com/) (2026-01-26)
+- [Over 36,500 killed in Iran's deadliest massacre, documents reveal](https://www.iranintl.com/en/202601255198) (2026-01-26)
+- [Clawdbot - open source personal AI assistant](https://github.com/clawdbot/clawdbot) (2026-01-26)
+- [Scientists identify brain waves that define the limits of 'you'](https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you) (2026-01-26)
+- [Show HN: FaceTime-style calls with an AI Companion (Live2D and long-term memory)](https://thebeni.ai/) (2026-01-25)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [SOLID com Node.js e TypeScript: Escrevendo Código de Gente Grande](https://dev.to/danielcamucatto/solid-com-nodejs-e-typescript-escrevendo-codigo-de-gente-grande-32nj) (2026-01-25)
-- [β or w? for weight...](https://dev.to/yash_30may05ur/b-or-w-for-weight-51id) (2026-01-25)
-- [Your Local Environment Tests a Different System Than Production](https://dev.to/nuewframe/your-local-environment-tests-a-different-system-than-production-4ib1) (2026-01-25)
-- [AI-generated code lacks common sense](https://dev.to/maxpatiiuk/ai-generated-code-lacks-common-sense-29bo) (2026-01-25)
-- [code is a "translation" | after 1.5 years of "vibe-coding" adventures thoughts](https://dev.to/arenukvern/code-is-a-translation-after-15-years-of-vibe-coding-adventures-thoughts-2hbn) (2026-01-25)
+- [Hey dev.to 👋](https://dev.to/sanjiv_prabhunandan/hey-devto-4l5o) (2026-01-26)
+- [Build Your Own AI Story Generator with RAG - Part 2: Building the RAG Pipeline](https://dev.to/diskcleankit/build-your-own-ai-story-generator-with-rag-part-2-building-the-rag-pipeline-3jf) (2026-01-26)
+- [Setup Nginx and MySQL with Vagrant](https://dev.to/actocodes/setup-nginx-and-mysql-with-vagrant-5gmi) (2026-01-26)
+- [Build Your Own AI Story Generator with RAG - Part 1: Understanding RAG](https://dev.to/diskcleankit/build-your-own-ai-story-generator-with-rag-part-1-understanding-rag-223p) (2026-01-26)
+- [Useful Linux Commands For Data Engineers](https://dev.to/valgrace/useful-linux-commands-for-data-engineers-3082) (2026-01-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [code is a “translation” | after 1.5 years of “vibe-coding” adventures thoughts](https://medium.com/@antmalofeev/code-is-a-translation-after-1-5-years-of-vibe-coding-adventures-thoughts-f2191ae1337d?source=rss------programming-5) (2026-01-25)
-- [Why I Use The Unit of Work Pattern With EF Core](https://medium.com/@mariammaurice/why-i-use-the-unit-of-work-pattern-with-ef-core-6767bdbe949f?source=rss------programming-5) (2026-01-25)
-- [DeepSeek’s Engram: The Missing Primitive That Makes LLMs Stop Wasting Compute on Memory](https://pub.towardsai.net/deepseeks-engram-the-missing-primitive-that-makes-llms-stop-wasting-compute-on-memory-93c3a8cb9dce?source=rss------programming-5) (2026-01-25)
-- [Introduction To Permission Authorization in .NET | Permission Authorization — Part 1](https://medium.com/@michaelmaurice410/introduction-to-permission-authorization-in-net-permission-authorization-part-1-9ae2f68b912d?source=rss------programming-5) (2026-01-25)
-- [Solve Logging as a Cross-Cutting Concern with MediatR](https://medium.com/@maged_/solve-logging-as-a-cross-cutting-concern-with-mediatr-e86b7ce44d8d?source=rss------programming-5) (2026-01-25)
+- [9 Python Libraries That Simplify Machine Learning](https://python.plainenglish.io/9-python-libraries-that-simplify-machine-learning-704bc304278c?source=rss------programming-5) (2026-01-26)
+- [Building AI Agents in 2026](https://ai.plainenglish.io/building-ai-agents-in-2026-0b752dd7f973?source=rss------programming-5) (2026-01-26)
+- [Building a Self-Healing Data Pipeline That Fixes Its Own Python Errors ](https://python.plainenglish.io/building-a-self-healing-data-pipeline-that-fixes-its-own-python-errors-b9024c525aa5?source=rss------programming-5) (2026-01-26)
+- [The ‘End of Coding’ vs. The Reality of Engineering](https://kingjosias.medium.com/the-end-of-coding-vs-the-reality-of-engineering-e7e27745cba8?source=rss------programming-5) (2026-01-26)
+- [What Apple and Google Couldn’t Build — One Developer Made with ClawdBot](https://medium.com/write-a-catalyst/what-apple-and-google-couldnt-build-one-developer-made-with-clawdbot-b94125633790?source=rss------programming-5) (2026-01-26)
 
 </details>
 
