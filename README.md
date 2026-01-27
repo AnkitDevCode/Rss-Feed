@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Northwood Space secures a $100M Series B and a $50M Space Force contract](https://techcrunch.com/2026/01/27/northwood-space-secures-a-100m-series-b-and-a-50m-space-force-contract/) (2026-01-27)
+- [‘Among the worst we’ve seen’: report slams xAI’s Grok over child safety failures](https://techcrunch.com/2026/01/27/among-the-worst-weve-seen-report-slams-xais-grok-over-child-safety-failures/) (2026-01-27)
 - [South Korea’s Edenlux set for U.S. debut of eye-strain wellness device](https://techcrunch.com/2026/01/26/south-koreas-edenlux-set-for-u-s-debut-of-eye-strain-wellness-device/) (2026-01-27)
 - [Qualcomm backs SpotDraft to scale on-device contract AI with valuation doubling toward $400M](https://techcrunch.com/2026/01/26/qualcomm-backs-spotdraft-to-scale-on-device-contract-ai-with-valuation-doubling-toward-400m/) (2026-01-27)
 - [Google pays $68M to settle claims its voice assistant spied on users](https://techcrunch.com/2026/01/26/google-pays-68-million-to-settle-claims-its-voice-assistant-spied-on-users/) (2026-01-27)
-- [AI chip startup Ricursive hits $4B valuation two months after launch](https://techcrunch.com/2026/01/26/ai-chip-startup-ricursive-hits-4b-valuation-two-months-after-launch/) (2026-01-27)
-- [Meta to test premium subscriptions on Instagram, Facebook, and WhatsApp](https://techcrunch.com/2026/01/26/meta-to-test-premium-subscriptions-on-instagram-facebook-and-whatsapp/) (2026-01-26)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [A list of fun destinations for telnet](https://telnet.org/htm/places.htm) (2026-01-27)
-- [iPhone 5s Gets New Software Update 13 Years After Launch](https://www.macrumors.com/2026/01/26/iphone-5s-software-update/) (2026-01-27)
-- [I let ChatGPT analyze a decade of my Apple Watch data, then I called my doctor](https://www.msn.com/en-us/news/technology/i-let-chatgpt-analyze-a-decade-of-my-apple-watch-data-then-i-called-my-doctor/ar-AA1UZxip) (2026-01-26)
-- [People who know the formula for WD-40](https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54) (2026-01-26)
-- [Dithering – Part 2: The Ordered Dithering](https://visualrambling.space/dithering-part-2/) (2026-01-26)
+- [Trayd (YC S23) is hiring senior engineers in NYC](https://news.ycombinator.com/item?id=46778846) (2026-01-27)
+- [Ask HN: Books to learn 6502 ASM and the Apple II](https://news.ycombinator.com/item?id=46778461) (2026-01-27)
+- [I made my own Git](https://tonystr.net/blog/git_immitation) (2026-01-27)
+- [We Do Not Support Opt-Out Forms (2025)](https://consciousdigital.org/why-we-do-not-support-opt-out-forms/) (2026-01-27)
+- [Russia using Interpol's wanted list to target critics abroad, leak reveals](https://www.bbc.com/news/articles/c20gg729y1yo) (2026-01-27)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [TikTok is still down, here are all the latest updates](https://www.theverge.com/news/868379/tiktok-us-trump-oracle-broken-rumors-power-outage) (2026-01-27)
-- [X faces EU investigation over Grok’s sexualized deepfakes](https://www.theverge.com/news/868239/x-grok-sexualized-deepfakes-eu-investigation) (2026-01-26)
-- [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers) (2026-01-26)
-- [OpenAI’s president is a Trump mega-donor](https://www.theverge.com/ai-artificial-intelligence/867947/openai-president-greg-brockman-trump-super-pac) (2026-01-26)
-- [Google will settle its Assistant spying lawsuit for $68 million](https://www.theverge.com/news/868078/google-assistant-lawsuit-settlement) (2026-01-26)
+- [Roland’s TR-1000 is the ultimate drum machine](https://www.theverge.com/tech/867819/roland-tr-1000-drum-machine-review) (2026-01-27)
+- [All rise for JudgeGPT](https://www.theverge.com/policy/868151/ai-judges-arbitration) (2026-01-27)
+- [Xbox Cloud Gaming’s new design teases the future of Xbox console UI](https://www.theverge.com/tech/868434/xbox-cloud-gaming-new-ui-future-xbox-console-design) (2026-01-27)
+- [Instagram, Facebook, and WhatsApp will test premium subscriptions](https://www.theverge.com/news/868439/meta-premium-subscription-ai-facebook-instagram-whatsapp) (2026-01-27)
+- [Strava and Komoot finally bring offline maps to Apple Watch](https://www.theverge.com/news/868418/strava-and-komoot-finally-bring-offline-maps-to-apple-watch) (2026-01-27)
 
 </details>
 
@@ -97,22 +97,24 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Top Free AI Tools for Data Analysis](https://dev.to/michael_kosorukov_f5743b9/top-free-ai-tools-for-data-analysis-4con) (2026-01-27)
-- [How to read data when an HTTP request returns a JSON file and dataL2 access is successful?](https://dev.to/harmonyos/how-to-read-data-when-an-http-request-returns-a-json-file-and-datal2-access-is-successful-2ohl) (2026-01-27)
-- [The Task Tool: Claude Code's Agent Orchestration System](https://dev.to/bhaidar/the-task-tool-claude-codes-agent-orchestration-system-4bf2) (2026-01-27)
-- [Fix 'Objects are not valid as a React child' Error (2026)](https://dev.to/samantha-dev/objects-are-not-valid-as-a-react-child-40pj) (2026-01-27)
-- [Karpathy's Claude Code Field Notes: Real Experience and Deep Reflections on the AI Programming Era](https://dev.to/jasonguo/karpathys-claude-code-field-notes-real-experience-and-deep-reflections-on-the-ai-programming-era-4e2f) (2026-01-27)
+- [Your App Isn’t Slow. Your UX Just Feels Slow.](https://dev.to/pixel_mosaic/your-app-isnt-slow-your-ux-just-feels-slow-5532) (2026-01-27)
+- [I am thrilled to be mentoring the Open House program. This is an incredible opportunity to turn your idea into a real startup with mentorship, support and access to funding.
+
+Registration is open now: https://openhouse.arbitrum.io/](https://dev.to/bengreenberg/i-am-thrilled-to-be-mentoring-the-open-house-program-this-is-an-incredible-opportunity-to-turn-bcp) (2026-01-27)
+- [Performance: Structs e Cópias (Defensivas)](https://dev.to/wsantosdev/performance-structs-e-copias-defensivas-458) (2026-01-27)
+- [DEV.to Quick Actions (DEV+_+) — Browse Faster, React Smarter, Stay in Flow](https://dev.to/mebularts/devto-quick-actions-dev-browse-faster-react-smarter-stay-in-flow-4p3l) (2026-01-27)
+- [Question of the Day #4 [Talk::Overflow]](https://dev.to/valpetaltechlabs/question-of-the-day-4-talkoverflow-5c1p) (2026-01-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ASI Report: Mahabharat ka Yudh Real Tha Ya Sirf Kalpana? | Evidence-Based Answer](https://medium.com/@Sanatan_life/asi-report-mahabharat-ka-yudh-real-tha-ya-sirf-kalpana-evidence-based-answer-f6d1b64c8d09?source=rss------programming-5) (2026-01-27)
-- [How AI Changed What ‘Entry-Level Developer’ Really Means](https://medium.com/@shridhardhruv123/how-ai-changed-what-entry-level-developer-really-means-2cfaee2eae9b?source=rss------programming-5) (2026-01-27)
-- [Shadowing and Matching: The Logic of a Rust Guessing Game](https://kehnmarv.medium.com/shadowing-and-matching-the-logic-of-a-rust-guessing-game-7248ff44b775?source=rss------programming-5) (2026-01-27)
-- [Modern AI for Software Engineers: Agents & Autonomous Systems - Part 2](https://medium.com/@pravinkanna/modern-ai-for-software-engineers-agents-autonomous-systems-part-2-b86d84687583?source=rss------programming-5) (2026-01-27)
-- [Hey meduim besties!](https://medium.com/@AlexiaChukwuma/hey-meduim-besties-0cde5bc9c873?source=rss------programming-5) (2026-01-27)
+- [From Commit to Release — Part 1: Where Should You Run git init in an iOS Project?](https://anubhavgiri01.medium.com/from-commit-to-release-part-1-where-should-you-run-git-init-in-an-ios-project-16bde690f1b4?source=rss------programming-5) (2026-01-27)
+- [I Let AI Tools Run My Workflow for 7 Days — The Results Shocked Me](https://medium.com/@maryashoukataly/i-let-ai-tools-run-my-workflow-for-7-days-the-results-shocked-me-b21c6ade7db4?source=rss------programming-5) (2026-01-27)
+- [Karpathy’s Right About Something He Doesn’t Quite Say](https://medium.com/@yusefulum/karpathys-right-about-something-he-doesn-t-quite-say-bd9ea2b89d7d?source=rss------programming-5) (2026-01-27)
+- [Your JavaScript Is Slower Than You Think (Fix These Habits)](https://medium.com/@TusharKanjariya/your-javascript-is-slower-than-you-think-fix-these-habits-311723ca0f70?source=rss------programming-5) (2026-01-27)
+- [Fixing a Virtual Adventure Game: From White Screen to Stable Challenge Tracking](https://medium.com/@add_early/fixing-a-virtual-adventure-game-from-white-screen-to-stable-challenge-tracking-52a4b9abb9fb?source=rss------programming-5) (2026-01-27)
 
 </details>
 
@@ -306,11 +308,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Rust vs JavaScript & TypeScript: performance, WebAssembly, and developer experience](https://blog.jetbrains.com/rust/2026/01/27/rust-vs-javascript-typescript/) (2026-01-27)
+- [A Year of Creator Wins: Highlights from the JetBrains Content Creators Program 2025](https://blog.jetbrains.com/blog/2026/01/27/content-creators-wins/) (2026-01-27)
 - [The Jenkins Migration Planning Kit](https://blog.jetbrains.com/teamcity/2026/01/jenkins-migration-planning-kit/) (2026-01-26)
 - [Building AI Agents in Kotlin – Part 5: Teaching Agents to Forget](https://blog.jetbrains.com/ai/2026/01/building-ai-agents-in-kotlin-part-5-teaching-agents-to-forget/) (2026-01-26)
 - [How We Made Variable Inspections 87 Times Faster for Unreal Engine in Rider](https://blog.jetbrains.com/dotnet/2026/01/26/how-we-made-variable-inspections-87-times-faster-for-unreal-engine-in-rider/) (2026-01-26)
-- [Meet the First Speakers Heading to KotlinConf 2026](https://blog.jetbrains.com/kotlin/2026/01/meet-the-first-speakers-heading-to-kotlinconf-2026/) (2026-01-26)
-- [New Livestream – From Detection to Remediation: Wiz in Your JetBrains IDE](https://blog.jetbrains.com/idea/2026/01/new-livestream-engineers-talk-about-spring-boot-4-life-and-other-stuff/) (2026-01-26)
 
 </details>
 
@@ -546,44 +548,44 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs](https://huggingface.co/blog/tiiuae/emirati-benchmarks) (2026-01-27)
 - [Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective](https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl) (2026-01-27)
 - [**NVIDIA Earth-2 Open Models Span the Whole Weather Stack**](https://huggingface.co/blog/nvidia/earth-2-open-models) (2026-01-26)
 - [AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality](https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face) (2026-01-21)
 - [Differential Transformer V2](https://huggingface.co/blog/microsoft/diff-attn-v2) (2026-01-20)
-- [Introducing Waypoint-1: Real-time interactive video diffusion from Overworld](https://huggingface.co/blog/waypoint-1) (2026-01-20)
 
 </details>
 
 <details>
 <summary>🤖 AI News</summary>
 
+- [Lowering the barriers databases place in the way of strategy, with RavenDB](https://www.artificialintelligence-news.com/news/lowering-the-barriers-databases-place-in-the-way-of-strategy-with-ravendb/) (2026-01-27)
+- [Cold snap highlight’s airlines’ proactive use of AI](https://www.artificialintelligence-news.com/news/cold-snap-highlights-airlines-proactive-use-of-ai-airline-industrys-use-of-ai/) (2026-01-27)
 - [Retailers examine options for on-AI retail](https://www.artificialintelligence-news.com/news/retailers-examine-options-for-on-ai-retail/) (2026-01-26)
 - [Expereo: Enterprise connectivity amid AI surge with ‘visibility at the speed of life’](https://www.artificialintelligence-news.com/news/expereo-enterprise-connectivity-amid-ai-surge-with-visibility-at-the-speed-of-life/) (2026-01-26)
 - [How Formula E uses Google Cloud AI to meet net zero targets](https://www.artificialintelligence-news.com/news/how-formula-e-uses-google-cloud-ai-to-meet-net-zero-targets/) (2026-01-26)
-- [Modernising apps triples the odds of AI returns, Cloudflare says](https://www.artificialintelligence-news.com/news/modernising-apps-triples-the-odds-of-ai-returns-cloudflare-says/) (2026-01-26)
-- [Anthropic’s usage stats paint a detailed picture of AI success](https://www.artificialintelligence-news.com/news/anthropic-report-economic-index-summary-key-points-2026/) (2026-01-23)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Layered Architecture for Building Readable, Robust, and Extensible Apps](https://towardsdatascience.com/layered-architecture-for-building-readable-robust-and-extensible-apps/) (2026-01-27)
 - [How Cursor Actually Indexes Your Codebase](https://towardsdatascience.com/how-cursor-actually-indexes-your-codebase/) (2026-01-26)
 - [Ray: Distributed Computing For All, Part 2](https://towardsdatascience.com/ray-distributed-computing-for-all-part-2/) (2026-01-26)
 - [How Convolutional Neural Networks Learn Musical Similarity](https://towardsdatascience.com/how-convolutional-neural-networks-learn-musical-similarity/) (2026-01-26)
 - [Causal ML for the Aspiring Data Scientist](https://towardsdatascience.com/causal-ml-for-the-aspiring-data-scientist/) (2026-01-26)
-- [SAM 3 vs. Specialist Models — A Performance Benchmark](https://towardsdatascience.com/sam-3-vs-specialist-models-a-performance-benchmark/) (2026-01-25)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Guide to AI Benchmarks: MMLU, HumanEval, and More Explained](https://www.analyticsvidhya.com/blog/2026/01/ai-benchmarks/) (2026-01-27)
 - [AgentScope AI: A Complete Guide to Building Scalable Multi-Agent Systems with LLMs ](https://www.analyticsvidhya.com/blog/2026/01/agentscope-ai/) (2026-01-26)
 - [Building Intelligent iOS Apps with Apple’s Foundation Models Framework ](https://www.analyticsvidhya.com/blog/2026/01/apple-foundation-models-framework/) (2026-01-26)
 - [Model Quantization Guide: Reduce Model Size 4x with PyTorch](https://www.analyticsvidhya.com/blog/2026/01/model-quantization/) (2026-01-26)
 - [How UX Research Methods Reveal Hidden AI Orchestration Failures in Enterprise Collaboration Agents](https://www.analyticsvidhya.com/blog/2026/01/how-ux-research-reveals-hidden-ai-orchestration-failures/) (2026-01-25)
-- [Deep Learning vs. Machine Learning: Key Differences Explained for Business Leaders ](https://www.analyticsvidhya.com/blog/2026/01/machine-learning-vs-deep-learning/) (2026-01-24)
 
 </details>
 
