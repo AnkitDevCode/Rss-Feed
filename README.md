@@ -20,66 +20,66 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [TikTok alternative Skylight soars to 380K+ users after TikTok U.S. deal finalized](https://techcrunch.com/2026/01/26/tiktok-alternative-skylight-soars-to-380k-users-after-tiktok-u-s-deal-finalized/) (2026-01-26)
-- [Anthropic launches interactive Claude apps, including Slack and other workplace tools](https://techcrunch.com/2026/01/26/anthropic-launches-interactive-claude-apps-including-slack-and-other-workplace-tools/) (2026-01-26)
-- [Obvious Ventures lands fund five with a 360-degree view of planetary, human, economic health](https://techcrunch.com/2026/01/26/obvious-ventures-lands-fund-five-with-a-360-degree-view-of-planetary-human-economic-health/) (2026-01-26)
-- [TikTok attributes recent glitches to a power outage at a U.S. data center](https://techcrunch.com/2026/01/26/tiktok-attributes-recent-glitches-to-a-power-outage-at-a-u-s-data-center/) (2026-01-26)
-- [VC firm 2150 raises €210M fund to solve cities’ climate challenges](https://techcrunch.com/2026/01/26/vc-firm-2150-raises-e210m-fund-to-solve-cities-climate-challenges/) (2026-01-26)
+- [Google pays $68M to settle claims its voice assistant spied on users](https://techcrunch.com/2026/01/26/google-pays-68-million-to-settle-claims-its-voice-assistant-spied-on-users/) (2026-01-27)
+- [AI chip startup Ricursive hits $4B valuation two months after launch](https://techcrunch.com/2026/01/26/ai-chip-startup-ricursive-hits-4b-valuation-two-months-after-launch/) (2026-01-27)
+- [Meta to test premium subscriptions on Instagram, Facebook, and WhatsApp](https://techcrunch.com/2026/01/26/meta-to-test-premium-subscriptions-on-instagram-facebook-and-whatsapp/) (2026-01-26)
+- [Some international attendees are skipping 2026 GDC due to safety fears and growing ICE presence](https://techcrunch.com/2026/01/26/some-international-attendees-are-skipping-2026-gdc-due-to-safety-fears-and-growing-ice-presence/) (2026-01-26)
+- [Vinod Khosla publicly disavows Keith Rabois’ comments on ICE shooting](https://techcrunch.com/2026/01/26/vinod-khosla-publicly-disavows-keith-rabois-comments-on-ice-shooting/) (2026-01-26)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Google Books has been effectively killed by the last algorithm update](https://old.reddit.com/r/google/comments/1qn1hk1/google_has_seemingly_entirely_removed_search/) (2026-01-26)
-- [House of Lords Votes to Ban UK Children from Using Internet VPNs](https://www.ispreview.co.uk/index.php/2026/01/house-of-lords-votes-to-ban-uk-children-from-using-internet-vpns.html) (2026-01-26)
-- [Apple OSes Are Insecure by Design to Aid Surveillance (2024)](https://sneak.berlin/20231005/apple-operating-system-surveillance/) (2026-01-26)
-- [Fedora Asahi Remix is now working on Apple M3](https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o) (2026-01-26)
-- [JuiceSSH – Give me my pro features back](https://nproject.io/blog/juicessh-give-me-back-my-pro-features/) (2026-01-26)
+- [Y Combinator website no longer lists Canada as a country it invests in](https://betakit.com/y-combinator-website-no-longer-lists-canada-as-a-country-it-invests-in/) (2026-01-26)
+- [You have to know how tech companies work](https://www.seangoedecke.com/knowing-how-to-drive-the-car/) (2026-01-26)
+- [I let ChatGPT analyze a decade of my Apple Watch data, then I called my doctor](https://www.msn.com/en-us/news/technology/i-let-chatgpt-analyze-a-decade-of-my-apple-watch-data-then-i-called-my-doctor/ar-AA1UZxip) (2026-01-26)
+- [People who know the formula for WD-40](https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54) (2026-01-26)
+- [Dithering – Part 2: The Ordered Dithering](https://visualrambling.space/dithering-part-2/) (2026-01-26)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Tattle TV has turned a Hitchcock classic into a vertical video ‘microdrama’](https://www.theverge.com/entertainment/867844/tattle-tv-the-lodger-hitchcock) (2026-01-26)
-- [MCP unites Claude chat with apps like Slack, Figma, and Canva](https://www.theverge.com/news/867673/claude-mcp-app-interactive-slack-figma-canva) (2026-01-26)
-- [TikTokers are heading to UpScrolled following US takeover](https://www.theverge.com/news/867958/tiktok-upscrolled-app-us-takeover) (2026-01-26)
-- [Internal chats show how social media companies discussed teen engagement](https://www.theverge.com/policy/867845/meta-youtube-snap-tiktok-social-media-trials-documents) (2026-01-26)
-- [OpenAI is working out how much to charge for ChatGPT ads](https://www.theverge.com/news/867898/openai-chatgpt-ad-pricing) (2026-01-26)
+- [X faces EU investigation over Grok’s sexualized deepfakes](https://www.theverge.com/news/868239/x-grok-sexualized-deepfakes-eu-investigation) (2026-01-26)
+- [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers) (2026-01-26)
+- [OpenAI’s president is a Trump mega-donor](https://www.theverge.com/ai-artificial-intelligence/867947/openai-president-greg-brockman-trump-super-pac) (2026-01-26)
+- [Google will settle its Assistant spying lawsuit for $68 million](https://www.theverge.com/news/868078/google-assistant-lawsuit-settlement) (2026-01-26)
+- [Apple’s luxe AirPods Max have dropped to one of their lowest prices ever](https://www.theverge.com/gadgets/868017/apple-airpods-max-usb-c-best-buy-flash-deal-sale) (2026-01-26)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Data center power outage took out TikTok first weekend under US ownership](https://arstechnica.com/tech-policy/2026/01/tiktok-glitches-caused-by-data-center-power-outage-us-joint-venture-says/) (2026-01-26)
-- [How to get Doom running on a pair of earbuds](https://arstechnica.com/gaming/2026/01/how-to-get-doom-running-on-a-pair-of-earbuds/) (2026-01-26)
-- [EU launches formal investigation of xAI over Grok's sexualized deepfakes](https://arstechnica.com/tech-policy/2026/01/eu-launches-formal-investigation-of-xai-over-groks-sexualized-deepfakes/) (2026-01-26)
-- [Former astronaut on lunar spacesuits: "I don't think they're great right now"](https://arstechnica.com/space/2026/01/former-astronaut-on-lunar-spacesuits-i-dont-think-theyre-great-right-now/) (2026-01-26)
-- [A decade of Star Trek-themed fart jokes: The Greatest Generation podcast turns 10](https://arstechnica.com/culture/2026/01/a-decade-of-star-trek-themed-fart-jokes-the-greatest-generation-podcast-turns-10/) (2026-01-25)
+- [OpenAI spills technical details about how its AI coding agent works](https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/) (2026-01-26)
+- [Doctors face-palm as RFK Jr.’s top vaccine advisor questions need for polio shot](https://arstechnica.com/science/2026/01/do-we-really-need-polio-shots-deep-thoughts-by-rfk-jr-advisor-get-dragged/) (2026-01-26)
+- [Why has Microsoft been routing example.com traffic to a company in Japan?](https://arstechnica.com/information-technology/2026/01/odd-anomaly-caused-microsofts-network-to-mishandle-example-com-traffic/) (2026-01-26)
+- [Apple's AirTag 2 is easier to find thanks to new chip](https://arstechnica.com/gadgets/2026/01/apple-introduces-new-airtag-with-better-range-and-a-louder-speaker/) (2026-01-26)
+- [“Wildly irresponsible”: DOT's use of AI to draft safety rules sparks concerns](https://arstechnica.com/tech-policy/2026/01/wildly-irresponsible-dots-use-of-ai-to-draft-safety-rules-sparks-concerns/) (2026-01-26)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Inside OpenAI’s big play for science ](https://www.technologyreview.com/2026/01/26/1131728/inside-openais-big-play-for-science/) (2026-01-26)
 - [Why chatbots are starting to check your age](https://www.technologyreview.com/2026/01/26/1131726/why-chatbots-are-starting-to-check-your-age/) (2026-01-26)
 - [The power of sound in a virtual world](https://www.technologyreview.com/2026/01/26/1124655/the-power-of-sound-in-a-virtual-world/) (2026-01-26)
 - [The Download: why LLMs are like aliens, and the future of head transplants](https://www.technologyreview.com/2026/01/26/1131717/the-download-why-llms-are-like-aliens-and-the-future-of-head-transplants/) (2026-01-26)
 - [The Download: chatbots for health, and US fights over AI regulation](https://www.technologyreview.com/2026/01/23/1131708/the-download-chatbots-for-health-and-us-fights-over-ai-regulation/) (2026-01-23)
-- [America’s coming war over AI regulation](https://www.technologyreview.com/2026/01/23/1131559/americas-coming-war-over-ai-regulation/) (2026-01-23)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Power agentic workflows in your terminal with GitHub Copilot CLI](https://github.blog/ai-and-ml/github-copilot/power-agentic-workflows-in-your-terminal-with-github-copilot-cli/) (2026-01-26)
 - [Build an agent into any app with the GitHub Copilot SDK](https://github.blog/news-insights/company-news/build-an-agent-into-any-app-with-the-github-copilot-sdk/) (2026-01-22)
 - [A cheat sheet to slash commands in GitHub Copilot CLI](https://github.blog/ai-and-ml/github-copilot/a-cheat-sheet-to-slash-commands-in-github-copilot-cli/) (2026-01-21)
 - [AI-supported vulnerability triage with the GitHub Security Lab Taskflow Agent](https://github.blog/security/ai-supported-vulnerability-triage-with-the-github-security-lab-taskflow-agent/) (2026-01-20)
 - [Context windows, Plan agent, and TDD: What I learned building a countdown app with GitHub Copilot](https://github.blog/developer-skills/application-development/context-windows-plan-agent-and-tdd-what-i-learned-building-a-countdown-app-with-github-copilot/) (2026-01-20)
-- [Building an agentic memory system for GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/building-an-agentic-memory-system-for-github-copilot/) (2026-01-15)
 
 </details>
 
@@ -97,22 +97,26 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [DRY January: Demotivational Posters with the TANStack or Next.js](https://dev.to/cloudinary/dry-january-demotivational-posters-with-the-tanstack-or-nextjs-5164) (2026-01-26)
-- [I built the CMS I always wanted for my personal sites](https://dev.to/adamgreenough/i-built-the-cms-i-always-wanted-for-my-personal-sites-2ek8) (2026-01-26)
-- [Refatoração de Legados sem parar o negócio](https://dev.to/danielcamucatto/refatoracao-de-legados-sem-parar-o-negocio-3d3a) (2026-01-26)
-- [Ask Ellie : Getting Engineering Visibility Without Adding More Dashboards](https://dev.to/entelligenceai/ask-ellie-getting-engineering-visibility-without-adding-more-dashboards-14m6) (2026-01-26)
-- [Engineering Log: Ralph Proactive Scan Findings (+2 more)](https://dev.to/igorganapolsky/engineering-log-ralph-proactive-scan-findings-2-more-1h7) (2026-01-26)
+- [Data Engineering ZoomCamp Module 1 Notes Part 2](https://dev.to/abdelrahman_adnan/data-engineering-zoomcamp-module-1-notes-part-2-5871) (2026-01-27)
+- [Mangools SEO Suite Review: The Budget Beast That Punches Above Its Weight (But Has One Annoying Flaw)](https://dev.to/ii-x/mangools-seo-suite-review-the-budget-beast-that-punches-above-its-weight-but-has-one-annoying-5cfa) (2026-01-27)
+- [CURLEE: a new verification-first programming language for AI agents](https://dev.to/w4ffl35/curlee-a-new-verification-first-programming-language-for-ai-agents-2h61) (2026-01-27)
+- [Fitness Equates to Greatness!](https://dev.to/bibimbop123/fitness-equates-to-greatness-ipp) (2026-01-27)
+- [Você não é especial: Uma IA te superou](https://dev.to/misterioso013/voce-nao-e-especial-uma-ia-te-superou-f1g) (2026-01-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Java 21'den 25'e Geçiş Rehberi](https://medium.com/@tugce.dev.journal/java-21den-25-e-ge%C3%A7i%C5%9F-rehberi-807aae9a417f?source=rss------programming-5) (2026-01-26)
-- [How I Learned to Design Better APIs](https://medium.com/@bollineniharika2727/how-i-learned-to-design-better-apis-90683d84659d?source=rss------programming-5) (2026-01-26)
-- [Python Automation That Replaced Half My Daily Work](https://medium.com/codetodeploy/python-automation-that-replaced-half-my-daily-work-68872b485489?source=rss------programming-5) (2026-01-26)
-- [ Richard Stallman Exposes the AI Lie; He Calls It “Pretend Intelligence”](https://tomaszs2.medium.com/richard-stallman-exposes-the-ai-lie-he-calls-it-pretend-intelligence-0cec84e8b6c1?source=rss------programming-5) (2026-01-26)
-- [The Era of Code Inflation: Why AI-Generated Code Costs 12x More to Review](https://medium.com/@jamesmiller22871/the-era-of-code-inflation-why-ai-generated-code-costs-12x-more-to-review-fe9827b22ab0?source=rss------programming-5) (2026-01-26)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@shmarhkhalhthran774/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-8dbb5f7413c3?source=rss------programming-5) (2026-01-27)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@shmarhkhalhthran774/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ca1c59c80216?source=rss------programming-5) (2026-01-27)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@xxcvbhhhn1bjnn/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-cfe84c6246f0?source=rss------programming-5) (2026-01-27)
+- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
+شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@xxcvbhhhn1bjnn/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-9788fabf108f?source=rss------programming-5) (2026-01-27)
+- [CLAUDE.md for .NET 10: Turn Claude From Autocomplete Into a Teammate](https://jber595.medium.com/claude-md-for-net-10-turn-claude-from-autocomplete-into-a-teammate-5ae9d5ad0b92?source=rss------programming-5) (2026-01-27)
 
 </details>
 
@@ -196,22 +200,22 @@
 <details>
 <summary>🟩 Node.js Blog</summary>
 
+- [Node.js 25.5.0 (Current)](https://nodejs.org/en/blog/release/v25.5.0) (2026-01-26)
 - [New HackerOne Signal Requirement for Vulnerability Reports](https://nodejs.org/en/blog/announcements/hackerone-signal-requirement) (2026-01-21)
 - [Node.js 25.4.0 (Current)](https://nodejs.org/en/blog/release/v25.4.0) (2026-01-19)
 - [Mitigating Denial-of-Service Vulnerability from Unrecoverable Stack Space Exhaustion for React, Next.js, and APM Users](https://nodejs.org/en/blog/vulnerability/january-2026-dos-mitigation-async-hooks) (2026-01-13)
 - [Node.js 22.22.0 (LTS)](https://nodejs.org/en/blog/release/v22.22.0) (2026-01-13)
-- [Node.js 25.3.0 (Current)](https://nodejs.org/en/blog/release/v25.3.0) (2026-01-13)
 
 </details>
 
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Clawdbot with Docker Model Runner, a Private Personal AI Assistant](https://www.docker.com/blog/clawdbot-docker-model-runner-private-personal-ai/) (2026-01-26)
 - [Run Claude Code Locally with Docker Model Runner](https://www.docker.com/blog/run-claude-code-locally-docker-model-runner/) (2026-01-26)
 - [Making the Most of Your Docker Hardened Images Enterprise Trial – Part 3](https://www.docker.com/blog/making-the-most-of-your-docker-hardened-images-enterprise-trial-part-3/) (2026-01-25)
 - [Making the Most of Your Docker Hardened Images Enterprise Trial – Part 2](https://www.docker.com/blog/making-the-most-of-your-docker-hardened-images-enterprise-trial-part-2/) (2026-01-24)
 - [How to Automate Arm Migration with Docker MCP Toolkit, VS Code, and GitHub Copilot](https://www.docker.com/blog/automate-arm-migration-docker-mcp-copilot/) (2026-01-23)
-- [Using MCP Servers: From Quick Tools to Multi-Agent Systems](https://www.docker.com/blog/mcp-servers-docker-toolkit-cagent-gateway/) (2026-01-22)
 
 </details>
 
@@ -306,11 +310,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [The Jenkins Migration Planning Kit](https://blog.jetbrains.com/teamcity/2026/01/jenkins-migration-planning-kit/) (2026-01-26)
 - [Building AI Agents in Kotlin – Part 5: Teaching Agents to Forget](https://blog.jetbrains.com/ai/2026/01/building-ai-agents-in-kotlin-part-5-teaching-agents-to-forget/) (2026-01-26)
 - [How We Made Variable Inspections 87 Times Faster for Unreal Engine in Rider](https://blog.jetbrains.com/dotnet/2026/01/26/how-we-made-variable-inspections-87-times-faster-for-unreal-engine-in-rider/) (2026-01-26)
 - [Meet the First Speakers Heading to KotlinConf 2026](https://blog.jetbrains.com/kotlin/2026/01/meet-the-first-speakers-heading-to-kotlinconf-2026/) (2026-01-26)
 - [New Livestream – From Detection to Remediation: Wiz in Your JetBrains IDE](https://blog.jetbrains.com/idea/2026/01/new-livestream-engineers-talk-about-spring-boot-4-life-and-other-stuff/) (2026-01-26)
-- [Spring Boot Debugging – Now Remote](https://blog.jetbrains.com/idea/2026/01/spring-boot-debugging-now-remote/) (2026-01-23)
 
 </details>
 
