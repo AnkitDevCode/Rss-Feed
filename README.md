@@ -20,19 +20,19 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [South Korea’s Edenlux set for U.S. debut of eye-strain wellness device](https://techcrunch.com/2026/01/26/south-koreas-edenlux-set-for-u-s-debut-of-eye-strain-wellness-device/) (2026-01-27)
+- [Qualcomm backs SpotDraft to scale on-device contract AI with valuation doubling toward $400M](https://techcrunch.com/2026/01/26/qualcomm-backs-spotdraft-to-scale-on-device-contract-ai-with-valuation-doubling-toward-400m/) (2026-01-27)
 - [Google pays $68M to settle claims its voice assistant spied on users](https://techcrunch.com/2026/01/26/google-pays-68-million-to-settle-claims-its-voice-assistant-spied-on-users/) (2026-01-27)
 - [AI chip startup Ricursive hits $4B valuation two months after launch](https://techcrunch.com/2026/01/26/ai-chip-startup-ricursive-hits-4b-valuation-two-months-after-launch/) (2026-01-27)
 - [Meta to test premium subscriptions on Instagram, Facebook, and WhatsApp](https://techcrunch.com/2026/01/26/meta-to-test-premium-subscriptions-on-instagram-facebook-and-whatsapp/) (2026-01-26)
-- [Some international attendees are skipping 2026 GDC due to safety fears and growing ICE presence](https://techcrunch.com/2026/01/26/some-international-attendees-are-skipping-2026-gdc-due-to-safety-fears-and-growing-ice-presence/) (2026-01-26)
-- [Vinod Khosla publicly disavows Keith Rabois’ comments on ICE shooting](https://techcrunch.com/2026/01/26/vinod-khosla-publicly-disavows-keith-rabois-comments-on-ice-shooting/) (2026-01-26)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Y Combinator website no longer lists Canada as a country it invests in](https://betakit.com/y-combinator-website-no-longer-lists-canada-as-a-country-it-invests-in/) (2026-01-26)
-- [You have to know how tech companies work](https://www.seangoedecke.com/knowing-how-to-drive-the-car/) (2026-01-26)
+- [A list of fun destinations for telnet](https://telnet.org/htm/places.htm) (2026-01-27)
+- [iPhone 5s Gets New Software Update 13 Years After Launch](https://www.macrumors.com/2026/01/26/iphone-5s-software-update/) (2026-01-27)
 - [I let ChatGPT analyze a decade of my Apple Watch data, then I called my doctor](https://www.msn.com/en-us/news/technology/i-let-chatgpt-analyze-a-decade-of-my-apple-watch-data-then-i-called-my-doctor/ar-AA1UZxip) (2026-01-26)
 - [People who know the formula for WD-40](https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54) (2026-01-26)
 - [Dithering – Part 2: The Ordered Dithering](https://visualrambling.space/dithering-part-2/) (2026-01-26)
@@ -42,11 +42,11 @@
 <details>
 <summary>📱 The Verge</summary>
 
+- [TikTok is still down, here are all the latest updates](https://www.theverge.com/news/868379/tiktok-us-trump-oracle-broken-rumors-power-outage) (2026-01-27)
 - [X faces EU investigation over Grok’s sexualized deepfakes](https://www.theverge.com/news/868239/x-grok-sexualized-deepfakes-eu-investigation) (2026-01-26)
 - [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers) (2026-01-26)
 - [OpenAI’s president is a Trump mega-donor](https://www.theverge.com/ai-artificial-intelligence/867947/openai-president-greg-brockman-trump-super-pac) (2026-01-26)
 - [Google will settle its Assistant spying lawsuit for $68 million](https://www.theverge.com/news/868078/google-assistant-lawsuit-settlement) (2026-01-26)
-- [Apple’s luxe AirPods Max have dropped to one of their lowest prices ever](https://www.theverge.com/gadgets/868017/apple-airpods-max-usb-c-best-buy-flash-deal-sale) (2026-01-26)
 
 </details>
 
@@ -86,37 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Spy vs spy at scale](https://stackoverflow.blog/2026/01/27/spy-vs-spy-at-scale/) (2026-01-27)
 - [Stack Gives Back 2025!](https://stackoverflow.blog/2026/01/26/stack-gives-back-2025/) (2026-01-26)
 - [AI can 10x developers...in creating tech debt](https://stackoverflow.blog/2026/01/23/ai-can-10x-developers-in-creating-tech-debt/) (2026-01-23)
 - [Automate your security whack-a-mole: Q&A with Exaforce](https://stackoverflow.blog/2026/01/22/automate-your-security-whack-a-mole-q-and-a-with-exaforce/) (2026-01-22)
 - [Is that allowed? Authentication and authorization in Model Context Protocol](https://stackoverflow.blog/2026/01/21/is-that-allowed-authentication-and-authorization-in-model-context-protocol/) (2026-01-21)
-- [Don’t let your backend write checks your frontend can’t cache](https://stackoverflow.blog/2026/01/20/don-t-let-your-backend-write-checks-your-frontend-can-t-cache/) (2026-01-20)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Data Engineering ZoomCamp Module 1 Notes Part 2](https://dev.to/abdelrahman_adnan/data-engineering-zoomcamp-module-1-notes-part-2-5871) (2026-01-27)
-- [Mangools SEO Suite Review: The Budget Beast That Punches Above Its Weight (But Has One Annoying Flaw)](https://dev.to/ii-x/mangools-seo-suite-review-the-budget-beast-that-punches-above-its-weight-but-has-one-annoying-5cfa) (2026-01-27)
-- [CURLEE: a new verification-first programming language for AI agents](https://dev.to/w4ffl35/curlee-a-new-verification-first-programming-language-for-ai-agents-2h61) (2026-01-27)
-- [Fitness Equates to Greatness!](https://dev.to/bibimbop123/fitness-equates-to-greatness-ipp) (2026-01-27)
-- [Você não é especial: Uma IA te superou](https://dev.to/misterioso013/voce-nao-e-especial-uma-ia-te-superou-f1g) (2026-01-27)
+- [Top Free AI Tools for Data Analysis](https://dev.to/michael_kosorukov_f5743b9/top-free-ai-tools-for-data-analysis-4con) (2026-01-27)
+- [How to read data when an HTTP request returns a JSON file and dataL2 access is successful?](https://dev.to/harmonyos/how-to-read-data-when-an-http-request-returns-a-json-file-and-datal2-access-is-successful-2ohl) (2026-01-27)
+- [The Task Tool: Claude Code's Agent Orchestration System](https://dev.to/bhaidar/the-task-tool-claude-codes-agent-orchestration-system-4bf2) (2026-01-27)
+- [Fix 'Objects are not valid as a React child' Error (2026)](https://dev.to/samantha-dev/objects-are-not-valid-as-a-react-child-40pj) (2026-01-27)
+- [Karpathy's Claude Code Field Notes: Real Experience and Deep Reflections on the AI Programming Era](https://dev.to/jasonguo/karpathys-claude-code-field-notes-real-experience-and-deep-reflections-on-the-ai-programming-era-4e2f) (2026-01-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@shmarhkhalhthran774/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-8dbb5f7413c3?source=rss------programming-5) (2026-01-27)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@shmarhkhalhthran774/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ca1c59c80216?source=rss------programming-5) (2026-01-27)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@xxcvbhhhn1bjnn/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-cfe84c6246f0?source=rss------programming-5) (2026-01-27)
-- [09370673570شماره خاله #شماره خاله# تهران #شماره خاله# اصفهان
-شماره خاله #شماره خاله# تهران #شماره…](https://medium.com/@xxcvbhhhn1bjnn/09370673570%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-9788fabf108f?source=rss------programming-5) (2026-01-27)
-- [CLAUDE.md for .NET 10: Turn Claude From Autocomplete Into a Teammate](https://jber595.medium.com/claude-md-for-net-10-turn-claude-from-autocomplete-into-a-teammate-5ae9d5ad0b92?source=rss------programming-5) (2026-01-27)
+- [ASI Report: Mahabharat ka Yudh Real Tha Ya Sirf Kalpana? | Evidence-Based Answer](https://medium.com/@Sanatan_life/asi-report-mahabharat-ka-yudh-real-tha-ya-sirf-kalpana-evidence-based-answer-f6d1b64c8d09?source=rss------programming-5) (2026-01-27)
+- [How AI Changed What ‘Entry-Level Developer’ Really Means](https://medium.com/@shridhardhruv123/how-ai-changed-what-entry-level-developer-really-means-2cfaee2eae9b?source=rss------programming-5) (2026-01-27)
+- [Shadowing and Matching: The Logic of a Rust Guessing Game](https://kehnmarv.medium.com/shadowing-and-matching-the-logic-of-a-rust-guessing-game-7248ff44b775?source=rss------programming-5) (2026-01-27)
+- [Modern AI for Software Engineers: Agents & Autonomous Systems - Part 2](https://medium.com/@pravinkanna/modern-ai-for-software-engineers-agents-autonomous-systems-part-2-b86d84687583?source=rss------programming-5) (2026-01-27)
+- [Hey meduim besties!](https://medium.com/@AlexiaChukwuma/hey-meduim-besties-0cde5bc9c873?source=rss------programming-5) (2026-01-27)
 
 </details>
 
@@ -134,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
 - [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
 - [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
 - [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
 - [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
+- [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
 
 </details>
 
@@ -167,11 +163,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Beyond the smartphone: How JioHotstar optimized its UX for foldables and tablets](https://android-developers.googleblog.com/2026/01/beyond-smartphone-how-jiohotstar.html) (2026-01-27)
 - [Trade-in mode on Android 16+ ](https://android-developers.googleblog.com/2026/01/httpsdeveloper.android.comtrade-in-mode-faster-diagnostics-access.html) (2026-01-26)
 - [Ready to review some changes but not others? Try using Play Console’s new Save for later feature](https://android-developers.googleblog.com/2026/01/ready-to-review-some-changes-but-not.html) (2026-01-21)
 - [LLM flexibility, Agent Mode improvements, and new agentic experiences in Android Studio Otter 3 Feature Drop](https://android-developers.googleblog.com/2026/01/llm-flexibility-agent-mode-improvements.html) (2026-01-15)
 - [Ultrahuman launches features 15% faster with Gemini in Android Studio](https://android-developers.googleblog.com/2026/01/ultrahuman-launches-features-15-faster.html) (2026-01-08)
-- [Media3 1.9.0 - What’s new](https://android-developers.googleblog.com/2025/12/media3-190-whats-new.html) (2025-12-19)
 
 </details>
 
@@ -550,11 +546,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective](https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl) (2026-01-27)
 - [**NVIDIA Earth-2 Open Models Span the Whole Weather Stack**](https://huggingface.co/blog/nvidia/earth-2-open-models) (2026-01-26)
 - [AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality](https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face) (2026-01-21)
 - [Differential Transformer V2](https://huggingface.co/blog/microsoft/diff-attn-v2) (2026-01-20)
 - [Introducing Waypoint-1: Real-time interactive video diffusion from Overworld](https://huggingface.co/blog/waypoint-1) (2026-01-20)
-- [Open Responses: What you need to know](https://huggingface.co/blog/open-responses) (2026-01-15)
 
 </details>
 
