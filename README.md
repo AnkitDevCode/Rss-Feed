@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Google Photos brings its prompt-based editing feature to India, Australia and Japan](https://techcrunch.com/2026/01/27/google-photos-brings-its-prompt-based-editing-feature-to-india-australia-and-japan/) (2026-01-28)
+- [India’s Shadowfax slips on listing, as client concentration spooks investors](https://techcrunch.com/2026/01/27/indias-shadowfax-slips-on-listing-as-client-concentration-spooks-investors/) (2026-01-28)
+- [What you should know about the owners of US TikTok](https://techcrunch.com/2026/01/27/what-you-should-know-about-the-owners-of-us-tiktok/) (2026-01-28)
 - [Everything you need to know about viral personal AI assistant Clawdbot (now Moltbot)](https://techcrunch.com/2026/01/27/everything-you-need-to-know-about-viral-personal-ai-assistant-clawdbot-now-moltbot/) (2026-01-28)
 - [Fashion rental app By Rotation and Uber partner to help deliver ski clothing](https://techcrunch.com/2026/01/27/fashion-rental-app-by-rotation-and-uber-partner-to-help-deliver-ski-rentals/) (2026-01-28)
-- [Anduril has invented a wild new drone-flying contest where jobs are the prize ](https://techcrunch.com/2026/01/27/anduril-has-invented-a-wild-new-drone-flying-contest-where-jobs-are-the-prize/) (2026-01-27)
-- [Bluesky teases 2026 roadmap: A better Discover feed, real-time features, and more](https://techcrunch.com/2026/01/27/bluesky-teases-2026-roadmap-a-better-discover-feed-real-time-features-and-more/) (2026-01-27)
-- [Anthropic reportedly upped its latest raise to $20B](https://techcrunch.com/2026/01/27/anthropic-reportedly-upped-its-latest-raise-to-20b/) (2026-01-27)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Notes on Starting to Use Django](https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/) (2026-01-27)
+- [Super Monkey Ball ported to a website](https://monkeyball-online.pages.dev/) (2026-01-28)
+- [AISLE Discovered 12 out of 12 OpenSSL Vulnerabilities](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities) (2026-01-28)
+- [Notes on starting to use Django](https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/) (2026-01-27)
 - [Thief of $90M in seized U.S.-controlled crypto is gov't contractor's son](https://www.web3isgoinggreat.com/single/lick-theft) (2026-01-27)
 - [Show HN: I wrapped the Zorks with an LLM](https://infocom.tambo.co/) (2026-01-27)
-- [TikTok settles just before social media addiction trial to begin](https://www.bbc.com/news/articles/c24g8v6qr1mo) (2026-01-27)
-- [Time Station Emulator](https://github.com/kangtastic/timestation) (2026-01-27)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [MCP Weekly: Signals of Enterprise-Grade Agentic AI (Jan 2026)](https://dev.to/om_shree_0709/mcp-weekly-signals-of-enterprise-grade-agentic-ai-jan-2026-kp0) (2026-01-28)
-- [Deployed a static website on AWS EC2 using Git, GitHub, and Nginx](https://dev.to/ibe_chima_b1b3e9c7b2e2156/deployed-a-static-website-on-aws-ec2-using-git-github-and-nginx-4dcp) (2026-01-28)
-- [🌀 Beginner-Friendly Guide 'Minimum Cost Path with Teleportations' - LeetCode 3651 (C++, Python, JavaScript)](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-cost-path-with-teleportations-leetcode-3651-c-python-pk8) (2026-01-28)
-- [What I Have Learned Being on the IndieWeb for a Month](https://dev.to/brennan/what-i-have-learned-being-on-the-indieweb-for-a-month-4oo0) (2026-01-28)
-- [Building a Minimal Signal API](https://dev.to/luciano0322/building-a-minimal-signal-api-aoj) (2026-01-28)
+- [I genuinely meant it when I said I was done. I even had that rare, fragile sense of closure. Then I noticed one small thing, which led to another, and somehow became a full pass of “minor” edits. I failed at stopping, but this time I really did. 🚧🚦](https://dev.to/anchildress1/i-genuinely-meant-it-when-i-said-i-was-done-i-even-had-that-rare-fragile-sense-of-closure-then-i-1cna) (2026-01-28)
+- [AlphaArena AI Model Battle: A Hands-On Guide to Replicating DeepSeek's Leading AI Quantitative Trading System](https://dev.to/quant001/alphaarena-ai-model-battle-a-hands-on-guide-to-replicating-deepseeks-leading-ai-quantitative-2dpe) (2026-01-28)
+- [Building a Self-Hosted AI Agent with Real System Access](https://dev.to/aivideotool/building-a-self-hosted-ai-agent-with-real-system-access-586f) (2026-01-28)
+- [Peter Finch Golf: I Was Wrong About Giant Golf Grips...](https://dev.to/youtube_golf/peter-finch-golf-i-was-wrong-about-giant-golf-grips-4k97) (2026-01-28)
+- [20+ Best Shadcn UI Blocks for Building Real Products Faster](https://dev.to/vaibhavg/best-shadcn-ui-blocks-for-building-real-products-faster-4ll8) (2026-01-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How to Debug Non-Deterministic AI Responses](https://medium.com/@kaklotarrahul79/how-to-debug-non-deterministic-ai-responses-6bf6bf1056ee?source=rss------programming-5) (2026-01-28)
-- [Clawdbot: Turn Your AI Into a Doer](https://medium.com/predict/clawdbot-turn-your-ai-into-a-doer-cf7b1a67656a?source=rss------programming-5) (2026-01-28)
-- [*"Arcangel Legrand - Brotherswagg Launches Loan Service: Financial Support for the Haitian…](https://medium.com/@BrotherswaggStudioRecords/arcangel-legrand-brotherswagg-launches-loan-service-financial-support-for-the-haitian-6eaed5b9f98e?source=rss------programming-5) (2026-01-28)
-- [.NET 10 DI: The Scoped-in-Singleton Bug That Slowly Kills Production](https://blog.stackademic.com/net-10-di-the-scoped-in-singleton-bug-that-slowly-kills-production-182fb922a3d3?source=rss------programming-5) (2026-01-28)
-- [Blockchain Notary: The Simple Trust Primitive That Actually Works](https://medium.com/@mekanismzlabs/blockchain-notary-the-simple-trust-primitive-that-actually-works-ec0fb9c762e6?source=rss------programming-5) (2026-01-28)
+- [You Think You Have Mastered Basic Logic? Python Has 13 Hidden “Castes” Ready to Destroy Your Code](https://python.plainenglish.io/you-think-you-have-mastered-basic-logic-python-has-13-hidden-castes-ready-to-destroy-your-code-a8dcbf17c463?source=rss------programming-5) (2026-01-28)
+- [99% of Java Developers Don’t Understand Garbage Collection — Here’s What Actually Happens](https://blog.stackademic.com/99-of-java-developers-dont-understand-garbage-collection-here-s-what-actually-happens-a4b60cf00123?source=rss------programming-5) (2026-01-28)
+- [C Taught Me to Slow Down — and That Changed How I Learn Everything](https://medium.com/codetodeploy/c-taught-me-to-slow-down-and-that-changed-how-i-learn-everything-6efd21055355?source=rss------programming-5) (2026-01-28)
+- [Why your go service is fast locally but slow in production](https://medium.com/@yaninyzwitty/why-your-go-service-is-fast-locally-but-slow-in-production-346def2c44fa?source=rss------programming-5) (2026-01-28)
+- [How can I migrate Planet IX Token Swap and Rebranding](https://medium.com/@barman18/how-can-i-migrate-planet-ix-token-swap-and-rebranding-ac2f14979772?source=rss------programming-5) (2026-01-28)
 
 </details>
 
@@ -362,11 +362,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Build a Proxy to Connect a Call Between Two Twilio Accounts via SIP
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/build-proxy-sip-to-twilio-sip
-) (2026-01-26)
-- [
 Bringing SendGrid and Segment to Twilio.com: A More Unified Web Experience
 ](
 https://www.twilio.com/en-us/blog/company/bringing-sendgrid-and-segment-to-twilio
@@ -386,6 +381,11 @@ SIGNAL London 2025 had something for everyone
 ](
 https://www.twilio.com/en-us/blog/events/signal-london-2025-recap
 ) (2026-01-13)
+- [
+SMS vs. Push Notifications: What's the Difference in 2026?
+](
+https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notifications
+) (2026-01-11)
 
 </details>
 
@@ -474,6 +474,17 @@ https://www.twilio.com/en-us/blog/events/signal-london-2025-recap
 - [Airtable is now available in AWS Marketplace](https://blog.airtable.com/airtable-available-in-aws-marketplace/) (2024-11-12)
 - [It’s time to change the way we build digital products. Introducing, ProductCentral.](https://blog.airtable.com/change-way-build-digital-products/) (2024-10-15)
 - [New capabilities to unlock agility at scale](https://blog.airtable.com/launching-new-capabilities-for-the-enterprise/) (2024-09-26)
+
+</details>
+
+<details>
+<summary>☁️ Salesforce Developer</summary>
+
+- [Create Faster, Lighter Experience Cloud Sites with Omnistudio Components and LWR](https://developer.salesforce.com/blogs/2026/01/create-faster-lighter-experience-cloud-sites-with-omnistudio-components-and-lwr.html) (2026-01-27)
+- [The Salesforce Developer’s Guide to the Spring ’26 Release](https://developer.salesforce.com/blogs/2026/01/developers-guide-to-the-spring-26-release.html) (2026-01-22)
+- [Agentforce ログの見方：LLM プロンプトをレポートで可視化する方法](https://developer.salesforce.com/blogs/2026/01/jp-create-agentforce-llm-log-with-report.html) (2026-01-21)
+- [Migrate from Aura to LWC with Agentforce Vibes](https://developer.salesforce.com/blogs/2026/01/migrate-from-aura-to-lwc-with-agentforce-vibes.html) (2026-01-14)
+- [Accelerate Flexcard Development with Omnistudio MCP](https://developer.salesforce.com/blogs/2026/01/accelerate-flexcard-development-with-omnistudio-mcp.html) (2026-01-07)
 
 </details>
 
