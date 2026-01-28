@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Waabi raises $1B and expands into robotaxis with Uber](https://techcrunch.com/2026/01/28/waabi-raises-1b-and-expands-into-robotaxis-with-uber/) (2026-01-28)
+- [Google pitches Gemini to students studying for India’s most competitive college entrance exam](https://techcrunch.com/2026/01/28/google-turns-gemini-toward-indias-most-competitive-entrance-exam/) (2026-01-28)
 - [Google Photos brings its prompt-based editing feature to India, Australia and Japan](https://techcrunch.com/2026/01/27/google-photos-brings-its-prompt-based-editing-feature-to-india-australia-and-japan/) (2026-01-28)
 - [India’s Shadowfax slips on listing, as client concentration spooks investors](https://techcrunch.com/2026/01/27/indias-shadowfax-slips-on-listing-as-client-concentration-spooks-investors/) (2026-01-28)
 - [What you should know about the owners of US TikTok](https://techcrunch.com/2026/01/27/what-you-should-know-about-the-owners-of-us-tiktok/) (2026-01-28)
-- [Everything you need to know about viral personal AI assistant Clawdbot (now Moltbot)](https://techcrunch.com/2026/01/27/everything-you-need-to-know-about-viral-personal-ai-assistant-clawdbot-now-moltbot/) (2026-01-28)
-- [Fashion rental app By Rotation and Uber partner to help deliver ski clothing](https://techcrunch.com/2026/01/27/fashion-rental-app-by-rotation-and-uber-partner-to-help-deliver-ski-rentals/) (2026-01-28)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Super Monkey Ball ported to a website](https://monkeyball-online.pages.dev/) (2026-01-28)
-- [AISLE Discovered 12 out of 12 OpenSSL Vulnerabilities](https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities) (2026-01-28)
-- [Notes on starting to use Django](https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/) (2026-01-27)
-- [Thief of $90M in seized U.S.-controlled crypto is gov't contractor's son](https://www.web3isgoinggreat.com/single/lick-theft) (2026-01-27)
-- [Show HN: I wrapped the Zorks with an LLM](https://infocom.tambo.co/) (2026-01-27)
+- [Kyber (YC W23) Is Hiring a Staff Engineer](https://www.ycombinator.com/companies/kyber/jobs/GPJkv5v-staff-engineer-tech-lead) (2026-01-28)
+- [Google just gave us an accidental first look at Android's PC future](https://www.androidauthority.com/google-aluminium-os-first-look-bug-report-3635801/) (2026-01-28)
+- [Show HN: The HN Arcade](https://andrewgy8.github.io/hnarcade/) (2026-01-28)
+- [Devuan – Debian Without Systemd](https://www.devuan.org/) (2026-01-28)
+- [Virtual Boy on TV with Intelligent Systems Video Boy](https://hcs64.com/video-boy-vue/) (2026-01-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The crypto bill is falling apart in Congress](https://www.theverge.com/column/868941/clarity-act-congress-shutdown) (2026-01-28)
-- [The best Android phones](https://www.theverge.com/23674658/best-android-phone) (2026-01-28)
-- [Meta is spending millions to convince people that data centers are cool and you like them](https://www.theverge.com/news/869008/meta-data-centers-ad-campaign) (2026-01-27)
-- [Moltbot, the AI agent that &#8216;actually does things,&#8217; is tech’s new obsession](https://www.theverge.com/report/869004/moltbot-clawdbot-local-ai-agent) (2026-01-27)
-- [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop) (2026-01-27)
+- [Grok is the most antisemitic chatbot according to the ADL](https://www.theverge.com/news/868925/adl-ai-antisemitism-report-grok-chatgpt-gemini-claude-deepseek-llama-elon-musk) (2026-01-28)
+- [Windows 11&#8217;s ability to resume Android apps on your PC is getting closer](https://www.theverge.com/news/869161/microsoft-windows-11-android-app-resume-feature-release-preview) (2026-01-28)
+- [Astronomers used AI to find 1,400 ‘anomalous objects’ from Hubble archives](https://www.theverge.com/news/869182/astronomers-ai-discover-cosmic-anomalies-hubble-archives) (2026-01-28)
+- [Self-driving truck startup Waabi is teaming up with Uber on robotaxis](https://www.theverge.com/news/868535/waabi-robotaxi-uber-fundraising-self-driving-truck) (2026-01-28)
+- [Tim Cook had ‘a good conversation’ with Trump about deescalation](https://www.theverge.com/news/869155/apple-tim-cook-president-trump-deescalate-minneapolis) (2026-01-28)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I genuinely meant it when I said I was done. I even had that rare, fragile sense of closure. Then I noticed one small thing, which led to another, and somehow became a full pass of “minor” edits. I failed at stopping, but this time I really did. 🚧🚦](https://dev.to/anchildress1/i-genuinely-meant-it-when-i-said-i-was-done-i-even-had-that-rare-fragile-sense-of-closure-then-i-1cna) (2026-01-28)
-- [AlphaArena AI Model Battle: A Hands-On Guide to Replicating DeepSeek's Leading AI Quantitative Trading System](https://dev.to/quant001/alphaarena-ai-model-battle-a-hands-on-guide-to-replicating-deepseeks-leading-ai-quantitative-2dpe) (2026-01-28)
-- [Building a Self-Hosted AI Agent with Real System Access](https://dev.to/aivideotool/building-a-self-hosted-ai-agent-with-real-system-access-586f) (2026-01-28)
-- [Peter Finch Golf: I Was Wrong About Giant Golf Grips...](https://dev.to/youtube_golf/peter-finch-golf-i-was-wrong-about-giant-golf-grips-4k97) (2026-01-28)
-- [20+ Best Shadcn UI Blocks for Building Real Products Faster](https://dev.to/vaibhavg/best-shadcn-ui-blocks-for-building-real-products-faster-4ll8) (2026-01-28)
+- [Solving the N+1 Query Problem: A Developer's Guide to Database Performance](https://dev.to/vasughanta09/solving-the-n1-query-problem-a-developers-guide-to-database-performance-321c) (2026-01-28)
+- [Flashy ⚡ - Simple path-based reverse proxy to route multiple services through one domain](https://dev.to/vic_n_db5451625108cee9eb/flashy-simple-path-based-reverse-proxy-to-route-multiple-services-through-one-domain-3cjj) (2026-01-28)
+- [Configure Wake on LAN](https://dev.to/janith19/configure-wake-on-lan-24ff) (2026-01-28)
+- [Standup-CLI: The Daily Standup Auto-Generator](https://dev.to/prayagtushar/standup-cli-the-daily-standup-auto-generator-194f) (2026-01-28)
+- [ReactJS Hook Pattern ~ImperativeHandle with useImperativeHandle~](https://dev.to/kkr0423/reactjs-hook-pattern-imperativehandle-with-useimperativehandle-42ac) (2026-01-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [You Think You Have Mastered Basic Logic? Python Has 13 Hidden “Castes” Ready to Destroy Your Code](https://python.plainenglish.io/you-think-you-have-mastered-basic-logic-python-has-13-hidden-castes-ready-to-destroy-your-code-a8dcbf17c463?source=rss------programming-5) (2026-01-28)
-- [99% of Java Developers Don’t Understand Garbage Collection — Here’s What Actually Happens](https://blog.stackademic.com/99-of-java-developers-dont-understand-garbage-collection-here-s-what-actually-happens-a4b60cf00123?source=rss------programming-5) (2026-01-28)
-- [C Taught Me to Slow Down — and That Changed How I Learn Everything](https://medium.com/codetodeploy/c-taught-me-to-slow-down-and-that-changed-how-i-learn-everything-6efd21055355?source=rss------programming-5) (2026-01-28)
-- [Why your go service is fast locally but slow in production](https://medium.com/@yaninyzwitty/why-your-go-service-is-fast-locally-but-slow-in-production-346def2c44fa?source=rss------programming-5) (2026-01-28)
-- [How can I migrate Planet IX Token Swap and Rebranding](https://medium.com/@barman18/how-can-i-migrate-planet-ix-token-swap-and-rebranding-ac2f14979772?source=rss------programming-5) (2026-01-28)
+- [Go Concurrency Panic? Use This 4-Step Framework to Debug Any Deadlock ](https://medium.com/@puneetpm/go-concurrency-panic-use-this-4-step-framework-to-debug-any-deadlock-947621ccc3ac?source=rss------programming-5) (2026-01-28)
+- [Solidity Logic: How to Use Operators (Math & Logic)](https://medium.com/@syaokifaradisa09/solidity-logic-how-to-use-operators-math-logic-2bfb6874d62d?source=rss------programming-5) (2026-01-28)
+- [피하고 있었던 거다](https://medium.com/@wonwookimnida/%ED%94%BC%ED%95%98%EA%B3%A0-%EC%9E%88%EC%97%88%EB%8D%98-%EA%B1%B0%EB%8B%A4-853725cdeea1?source=rss------programming-5) (2026-01-28)
+- [The Tragedy of Shared Code: Why Your Most Critical Infrastructure Is Already Dying](https://medium.com/beer-and-servers-dont-mix/the-tragedy-of-shared-code-why-your-most-critical-infrastructure-is-already-dying-44ed9ca20e4b?source=rss------programming-5) (2026-01-28)
+- [cURL: The Programmer’s “Remote Control” for the Internet](https://medium.com/@harshme08/curl-the-programmers-remote-control-for-the-internet-e488a4fcc3d2?source=rss------programming-5) (2026-01-28)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Spring Data JDBC Made Easy with IntelliJ IDEA](https://blog.jetbrains.com/idea/2026/01/spring-data-jdbc-made-easy-with-intellij-idea/) (2026-01-28)
+- [Google Colab Support Is Now Available in PyCharm 2025.3.2](https://blog.jetbrains.com/pycharm/2026/01/google-colab-support-is-now-available-in-pycharm-2025-3-2/) (2026-01-28)
 - [IntelliJ Scala Plugin in 2025](https://blog.jetbrains.com/scala/2026/01/27/intellij-scala-plugin-in-2025/) (2026-01-27)
 - [Rust vs JavaScript & TypeScript: performance, WebAssembly, and developer experience](https://blog.jetbrains.com/rust/2026/01/27/rust-vs-javascript-typescript/) (2026-01-27)
 - [A Year of Creator Wins: Highlights from the JetBrains Content Creators Program 2025](https://blog.jetbrains.com/blog/2026/01/27/content-creators-wins/) (2026-01-27)
-- [The Jenkins Migration Planning Kit](https://blog.jetbrains.com/teamcity/2026/01/jenkins-migration-planning-kit/) (2026-01-26)
-- [Building AI Agents in Kotlin – Part 5: Teaching Agents to Forget](https://blog.jetbrains.com/ai/2026/01/building-ai-agents-in-kotlin-part-5-teaching-agents-to-forget/) (2026-01-26)
 
 </details>
 
@@ -362,6 +362,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Build a Proxy to Connect a Call Between Two Twilio Accounts via SIP
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/build-proxy-sip-to-twilio-sip
+) (2026-01-26)
+- [
 Bringing SendGrid and Segment to Twilio.com: A More Unified Web Experience
 ](
 https://www.twilio.com/en-us/blog/company/bringing-sendgrid-and-segment-to-twilio
@@ -381,11 +386,6 @@ SIGNAL London 2025 had something for everyone
 ](
 https://www.twilio.com/en-us/blog/events/signal-london-2025-recap
 ) (2026-01-13)
-- [
-SMS vs. Push Notifications: What's the Difference in 2026?
-](
-https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notifications
-) (2026-01-11)
 
 </details>
 
@@ -557,33 +557,33 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>🤖 AI News</summary>
 
+- [Masumi Network: How AI-blockchain fusion adds trust to burgeoning agent economy](https://www.artificialintelligence-news.com/news/masumi-network-how-ai-blockchain-fusion-adds-trust-to-burgeoning-agent-economy/) (2026-01-28)
+- [White House compares industrial revolution with AI era](https://www.artificialintelligence-news.com/news/white-house-predicts-ai-growth-with-comparison-industrial-and-artificial-intelligence-revolutions/) (2026-01-28)
+- [Gallup Workforce shows details of AI adoption in US workplaces](https://www.artificialintelligence-news.com/news/gallup-workforce-ai-shows-details-of-ml-adoption-in-us-workplaces/) (2026-01-28)
+- [Inside Standard Chartered’s approach to running AI under privacy rules](https://www.artificialintelligence-news.com/news/how-standard-chartered-runs-ai-under-privacy-rules/) (2026-01-28)
 - [Databricks: Enterprise AI adoption shifts to agentic systems](https://www.artificialintelligence-news.com/news/databricks-enterprise-ai-adoption-shifts-agentic-systems/) (2026-01-27)
-- [Anthropic selected to build government AI assistant pilot](https://www.artificialintelligence-news.com/news/anthropic-selected-build-government-ai-assistant-pilot/) (2026-01-27)
-- [Lowering the barriers databases place in the way of strategy, with RavenDB](https://www.artificialintelligence-news.com/news/lowering-the-barriers-databases-place-in-the-way-of-strategy-with-ravendb/) (2026-01-27)
-- [Cold snap highlight’s airlines’ proactive use of AI](https://www.artificialintelligence-news.com/news/cold-snap-highlights-airlines-proactive-use-of-ai-airline-industrys-use-of-ai/) (2026-01-27)
-- [Retailers examine options for on-AI retail](https://www.artificialintelligence-news.com/news/retailers-examine-options-for-on-ai-retail/) (2026-01-26)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Modeling Urban Walking Risk Using Spatial-Temporal Machine Learning](https://towardsdatascience.com/modeling-urban-walking-risk-using-spatial-temporal-machine-learning/) (2026-01-28)
 - [Going Beyond the Context Window: Recursive Language Models in Action](https://towardsdatascience.com/going-beyond-the-context-window-recursive-language-models-in-action/) (2026-01-27)
 - [Data Science as Engineering: Foundations, Education, and Professional Identity](https://towardsdatascience.com/data-science-as-engineering/) (2026-01-27)
 - [From Connections to Meaning: Why Heterogeneous Graph Transformers (HGT) Change Demand Forecasting](https://towardsdatascience.com/from-connections-to-meaning-why-heterogeneous-graph-transformers-hgt-change-demand-forecasting/) (2026-01-27)
 - [Layered Architecture for Building Readable, Robust, and Extensible Apps](https://towardsdatascience.com/layered-architecture-for-building-readable-robust-and-extensible-apps/) (2026-01-27)
-- [How Cursor Actually Indexes Your Codebase](https://towardsdatascience.com/how-cursor-actually-indexes-your-codebase/) (2026-01-26)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Top 10 Python Libraries for AI and Machine Learning](https://www.analyticsvidhya.com/blog/2026/01/python-libraries-for-ai-and-machine-learning/) (2026-01-28)
 - [I Tested Clawdbot and Built My Own Local AI Agent](https://www.analyticsvidhya.com/blog/2026/01/clawdbot-guide/) (2026-01-27)
 - [Is Kimi K2.5 the BEST Open-source Model of 2026?](https://www.analyticsvidhya.com/blog/2026/01/kimi-k2-5/) (2026-01-27)
 - [Guide to AI Benchmarks: MMLU, HumanEval, and More Explained](https://www.analyticsvidhya.com/blog/2026/01/ai-benchmarks/) (2026-01-27)
 - [AgentScope AI: A Complete Guide to Building Scalable Multi-Agent Systems with LLMs ](https://www.analyticsvidhya.com/blog/2026/01/agentscope-ai/) (2026-01-26)
-- [Building Intelligent iOS Apps with Apple’s Foundation Models Framework ](https://www.analyticsvidhya.com/blog/2026/01/apple-foundation-models-framework/) (2026-01-26)
 
 </details>
 
@@ -601,11 +601,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/sms-vs-push-notificati
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [5 Ways to Use Cross-Validation to Improve Time Series Models](https://machinelearningmastery.com/5-ways-to-use-cross-validation-to-improve-time-series-models/) (2026-01-28)
 - [The 3 Invisible Risks Every LLM App Faces (And How to Guard Against Them)](https://machinelearningmastery.com/the-3-invisible-risks-every-llm-app-faces-and-how-to-guard-against-them/) (2026-01-27)
 - [Leveling Up Your Machine Learning: What To Do After Andrew Ng’s Course](https://machinelearningmastery.com/leveling-up-your-machine-learning-what-to-do-after-andrew-ngs-course/) (2026-01-26)
 - [The 2026 Time Series Toolkit: 5 Foundation Models for Autonomous Forecasting](https://machinelearningmastery.com/the-2026-time-series-toolkit-5-foundation-models-for-autonomous-forecasting/) (2026-01-22)
 - [Everything You Need to Know About How Python Manages Memory](https://machinelearningmastery.com/everything-you-need-to-know-about-how-python-manages-memory/) (2026-01-21)
-- [The Machine Learning Practitioner’s Guide to Model Deployment with FastAPI](https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-model-deployment-with-fastapi/) (2026-01-20)
 
 </details>
 
