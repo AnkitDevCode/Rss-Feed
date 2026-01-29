@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Chrome takes on AI browsers with tighter Gemini integration, agentic features for autonomous tasks](https://techcrunch.com/2026/01/28/chrome-takes-on-ai-browsers-with-tighter-gemini-integration-agentic-features-for-autonomous-tasks/) (2026-01-28)
-- [Apple tells Patreon to move creators to in-app purchase for subscriptions by November](https://techcrunch.com/2026/01/28/apple-tells-patreon-to-move-creators-to-in-app-purchase-for-subscriptions-by-november/) (2026-01-28)
-- [Tiny startup Arcee AI built a 400B open source LLM from scratch to best Meta’s Llama](https://techcrunch.com/2026/01/28/tiny-startup-arcee-ai-built-a-400b-open-source-llm-from-scratch-to-best-metas-llama/) (2026-01-28)
-- [Elon Musk reportedly wants a June SpaceX IPO to align with his birthday, the planets](https://techcrunch.com/2026/01/28/elon-musk-reportedly-wants-a-june-spacex-ipo-to-align-with-his-birthday-the-planets/) (2026-01-28)
-- [With Apple’s new Creator Studio Pro, AI is a tool to aid creation, not replace it](https://techcrunch.com/2026/01/28/with-apples-new-creator-studio-pro-ai-is-a-tool-to-aid-creation-not-replace-it/) (2026-01-28)
+- [Meta burned $19 billion on VR last year, and 2026 won’t be any better](https://techcrunch.com/2026/01/28/meta-burned-19-billion-on-vr-last-year-and-2026-wont-be-any-better/) (2026-01-29)
+- [Zuckerberg teases agentic commerce tools and major AI rollout in 2026](https://techcrunch.com/2026/01/28/zuckerberg-teases-agentic-commerce-tools-and-major-ai-rollout-in-2026/) (2026-01-28)
+- [Trump energy department loosens rules on nuclear safety](https://techcrunch.com/2026/01/28/trump-energy-department-loosens-rules-on-nuclear-safety/) (2026-01-28)
+- [Microsoft gained $7.6B from OpenAI last quarter](https://techcrunch.com/2026/01/28/microsoft-earnings-7-6-billion-openai/) (2026-01-28)
+- [Tesla is killing off the Model S and Model X](https://techcrunch.com/2026/01/28/tesla-is-killing-off-the-model-s-and-model-x/) (2026-01-28)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Mousefood – Build embedded terminal UIs for microcontrollers](https://github.com/ratatui/mousefood) (2026-01-28)
-- [Show HN: I Built a Sandbox for Agents](https://github.com/vrn21/bouvet.com) (2026-01-28)
-- [Oban, the job processing framework from Elixir, has come to Python](https://www.dimamik.com/posts/oban_py/) (2026-01-28)
-- [Amazon axes 16,000 jobs as it pushes AI and efficiency](https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/) (2026-01-28)
-- [Airfoil (2024)](https://ciechanow.ski/airfoil/) (2026-01-28)
+- [Ross Stevens Donates $100M to Pay Every US Olympian and Paralympian $200k](https://www.townandcountrymag.com/leisure/sporting/a70171886/ross-stevens-american-olympians-donation/) (2026-01-28)
+- [Please Don't Say Mean Things about the AI I Just Invested a Billion Dollars In](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in) (2026-01-28)
+- [The UK paid £4.1M for a bookmarks site](https://mahadk.com/posts/ai-skills-hub) (2026-01-28)
+- [Bf-Tree: modern read-write-optimized concurrent larger-than-memory range index](https://github.com/microsoft/bf-tree) (2026-01-28)
+- [Somebody used spoofed ADSB signals to raster the meme of JD Vance](https://alecmuffett.com/article/143548) (2026-01-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Spotify says it paid out $11 billion in royalties in 2025](https://www.theverge.com/news/869523/spotify-11-billion-in-royalties) (2026-01-28)
-- [Process Zero II will let you do a little processing, if you want](https://www.theverge.com/tech/869354/halide-mark-iii-process-zero-update) (2026-01-28)
-- [The noise-canceling AirPods 4 are down to $120, one of their best prices yet](https://www.theverge.com/gadgets/869428/apple-airpods-4-active-noise-cancellation-deal-sale) (2026-01-28)
-- [Beyond Meat’s protein soda might be its last chance and best hope](https://www.theverge.com/science/869209/beyond-meat-immerse-protein-soda) (2026-01-28)
-- [This soft humanoid robot is designed to be ‘physically safe and socially approachable’](https://www.theverge.com/tech/869293/fauna-robotics-sprout-humanoid-robot-research) (2026-01-28)
+- [Halide co-founder Sebastiaan de With is joining Apple&#8217;s design team](https://www.theverge.com/tech/869926/apple-hires-sebastiaan-de-with-design-team-halide-lux) (2026-01-28)
+- [Mark Zuckerberg is all in on AI as the new social media](https://www.theverge.com/news/869882/mark-zuckerberg-meta-earnings-q4-2025) (2026-01-28)
+- [Windows 11 has reached 1 billion users faster than Windows 10](https://www.theverge.com/news/869889/microsoft-windows-11-1-billion-users) (2026-01-28)
+- [Tesla discontinuing Model S and Model X to make room for robots](https://www.theverge.com/transportation/869872/tesla-model-s-model-x-discontinue-optimus-robot-factory) (2026-01-28)
+- [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide) (2026-01-28)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [I bought "Remove Before Flight" tags on eBay in 2010—it turns out they're from Challenger](https://arstechnica.com/space/2026/01/attached-to-tragedy-tracing-challenger-remove-before-flight-tags/) (2026-01-28)
-- [Google begins rolling out Chrome's "Auto Browse" AI agent today](https://arstechnica.com/google/2026/01/google-begins-rolling-out-chromes-auto-browse-ai-agent-today/) (2026-01-28)
-- [Meta blocks links to ICE List across Facebook, Instagram, and Threads](https://arstechnica.com/tech-policy/2026/01/meta-blocks-links-to-ice-list-across-facebook-instagram-and-threads/) (2026-01-28)
-- [Report: China approves import of high-end Nvidia AI chips after weeks of uncertainty](https://arstechnica.com/ai/2026/01/report-china-approves-import-of-high-end-nvidia-ai-chips-after-weeks-of-uncertainty/) (2026-01-28)
-- [South Carolina tops Texas measles outbreak record—with no end in sight](https://arstechnica.com/health/2026/01/sc-measles-23-schools-hit-over-550-quarantined-as-outbreak-hits-record/) (2026-01-28)
+- [Tesla: 2024 was bad, 2025 was worse as profit falls 46 percent](https://arstechnica.com/cars/2026/01/2025-sees-teslas-annual-revenue-fall-for-the-first-time/) (2026-01-28)
+- [Site catering to online criminals has been seized by the FBI](https://arstechnica.com/security/2026/01/site-catering-to-online-criminals-has-been-seized-by-the-fbi/) (2026-01-28)
+- [Seven things to know about how Apple's Creator Studio subscriptions work](https://arstechnica.com/gadgets/2026/01/seven-things-to-know-about-how-apples-creator-studio-subscriptions-work/) (2026-01-28)
+- [Stranded boys struggle to survive in Lord of the Flies trailer](https://arstechnica.com/culture/2026/01/bbcs-lord-of-the-flies-miniseries-gets-a-trailer/) (2026-01-28)
+- [SpaceX sends list of demands to US states giving broadband grants to Starlink](https://arstechnica.com/tech-policy/2026/01/starlink-demands-grant-money-from-states-even-when-residents-dont-buy-service/) (2026-01-28)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Roundtables: Why AI Companies Are Betting on Next-Gen Nuclear](https://www.technologyreview.com/2026/01/28/1131340/roundtables-why-ai-companies-are-betting-on-next-gen-nuclear/) (2026-01-28)
 - [What AI “remembers” about you is privacy’s next frontier](https://www.technologyreview.com/2026/01/28/1131835/what-ai-remembers-about-you-is-privacys-next-frontier/) (2026-01-28)
 - [Rules fail at the prompt, succeed at the boundary](https://www.technologyreview.com/2026/01/28/1131003/rules-fail-at-the-prompt-succeed-at-the-boundary/) (2026-01-28)
 - [The Download: A bid to treat blindness, and bridging the internet divide](https://www.technologyreview.com/2026/01/28/1131830/the-download-a-bid-to-treat-blindness-and-bridging-the-internet-divide/) (2026-01-28)
 - [The first human test of a rejuvenation method will begin “shortly” ](https://www.technologyreview.com/2026/01/27/1131796/the-first-human-test-of-a-rejuvenation-method-will-begin-shortly/) (2026-01-27)
-- [OpenAI’s latest product lets you vibe code science](https://www.technologyreview.com/2026/01/27/1131793/openais-latest-product-lets-you-vibe-code-science/) (2026-01-27)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [/export: Get Receipts for Every AI Conversation](https://dev.to/rajeshroyal/export-get-receipts-for-every-ai-conversation-57ni) (2026-01-28)
-- [How Changing My Thinking Transformed My Interview Problem‑Solving](https://dev.to/dharshini_0101/how-thinking-changed-my-interview-problem-solving-1ign) (2026-01-28)
-- [Node Exporter Deep Dive: Connecting the Linux Kernel and Prometheus](https://dev.to/kanywst/node-exporter-deep-dive-connecting-the-linux-kernel-and-prometheus-5c6i) (2026-01-28)
-- [Why I Spent 4 Months Building a "Map" for the Model Context Protocol (MCP)](https://dev.to/zayanmohamed/why-i-spent-4-months-building-a-map-for-the-model-context-protocol-mcp-349) (2026-01-28)
-- [What is "effect" in Angular(v21)?](https://dev.to/pckalyan/what-is-effect-in-angularv21-1obb) (2026-01-28)
+- [JSONPath Is In! The AI Assistant Will See You Now](https://dev.to/david_kershaw_b6916404da6/jsonpath-is-in-the-ai-assistant-will-see-you-now-5cge) (2026-01-29)
+- [Parallel Region-Based Routing on OpenROAD: Scaling Beyond Multithreading](https://dev.to/wiowiztech/parallel-region-based-routing-on-openroad-scaling-beyond-multithreading-3jf6) (2026-01-29)
+- [Building AI's Flight Recorder: A Developer's Response to the Doomsday Clock](https://dev.to/veritaschain/building-ais-flight-recorder-a-developers-response-to-the-doomsday-clock-43pi) (2026-01-29)
+- [[CS series] Understanding Logic Gates: The Language of Computers](https://dev.to/jonghwayoo03_dev/cs-series-understanding-logic-gates-the-language-of-computers-73d) (2026-01-29)
+- [The Geopolitics of Silicon: Chips as the Foundation of Power and the Economy](https://dev.to/fundacjadobrepanstwo/the-geopolitics-of-silicon-chips-as-the-foundation-of-power-and-the-economy-17e6) (2026-01-29)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Counting Paths with DFS Memoization in Java](https://medium.com/@AlexanderObregon/counting-paths-with-dfs-memoization-in-java-da7f6fb6768a?source=rss------programming-5) (2026-01-28)
-- [**How to Make Money Online**](https://medium.com/@yasinosebaloo/how-to-make-money-online-8c0104908090?source=rss------programming-5) (2026-01-28)
-- [Fraud Detection in Programmatic Advertising: A Simple Guide for Developers & Marketers](https://medium.com/@tusharispatil27/fraud-detection-in-programmatic-advertising-a-simple-guide-for-developers-marketers-5a65143ef7e4?source=rss------programming-5) (2026-01-28)
-- [Stack Overflow Low-Level](https://medium.com/javarevisited/stack-overflow-low-level-d44e52d40cba?source=rss------programming-5) (2026-01-28)
-- [The Longer the Context, the Dumber the Agent](https://medium.com/data-science-collective/the-longer-the-context-the-dumber-the-agent-16f7d9833519?source=rss------programming-5) (2026-01-28)
+- [Integrating Voice Agents into Web Apps: A Practical Guide](https://medium.com/@kaklotarrahul79/integrating-voice-agents-into-web-apps-a-practical-guide-309893690b58?source=rss------programming-5) (2026-01-29)
+- [We Rewrote Our App in React. Two Years Later, We’re Back on jQuery.](https://medium.com/engineering-playbook/we-rewrote-our-app-in-react-two-years-later-were-back-on-jquery-b4d0958bba32?source=rss------programming-5) (2026-01-29)
+- [47 Pages in One Night. I Quit Being On-Call and Never Looked Back.](https://medium.com/codex/47-pages-in-one-night-i-quit-being-on-call-and-never-looked-back-70940a363459?source=rss------programming-5) (2026-01-29)
+- [Conda Is Fast Now: The Guide to Universal Environments](https://medium.com/data-science-collective/conda-is-fast-now-because-of-libmamba-the-guide-to-universal-environments-eb9b6c2883bb?source=rss------programming-5) (2026-01-29)
+- [Nyxian: Xcode straight from your pocket](https://blog.stackademic.com/nyxian-xcode-straight-from-your-pocket-7acbbdd68eb4?source=rss------programming-5) (2026-01-29)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
-- [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
 - [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
 - [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
 - [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
+- [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
+- [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
 
 </details>
 
@@ -262,11 +262,11 @@
 <details>
 <summary>📦 Dropbox Tech Blog</summary>
 
+- [Engineering VP Josh Clemm on how we use knowledge graphs, MCP, and DSPy in Dash](https://dropbox.tech/machine-learning/vp-josh-clemm-knowledge-graphs-mcp-and-dspy-dash) (2026-01-28)
 - [Inside the feature store powering real-time AI in Dropbox Dash](https://dropbox.tech/machine-learning/feature-store-powering-realtime-ai-in-dropbox-dash) (2025-12-18)
 - [Building the future: highlights from Dropbox’s 2025 summer intern class](https://dropbox.tech/culture/highlights-from-dropbox-2025-summer-intern-class) (2025-11-26)
 - [How Dash uses context engineering for smarter AI](https://dropbox.tech/machine-learning/how-dash-uses-context-engineering-for-smarter-ai) (2025-11-17)
 - [With Mobius Labs' Aana models, we're bringing deeper multimodal understanding to Dropbox Dash](https://dropbox.tech/machine-learning/mobius-labs-aana-dropbox-multimodal-understanding) (2025-10-23)
-- [Half-Quadratic Quantization of large machine learning models](https://dropbox.tech/machine-learning/halfquadratic-quantization-of-large-machine-learning-models) (2025-10-22)
 
 </details>
 
@@ -295,11 +295,11 @@
 <details>
 <summary>📌 Pinterest Engineering</summary>
 
+- [Ads Candidate Generation using Behavioral Sequence Modeling](https://medium.com/pinterest-engineering/ads-candidate-generation-using-behavioral-sequence-modeling-f9077ee1325d?source=rss-ef81ef829bcb------2) (2026-01-28)
 - [PinLanding: Turn Billions of Products into Instant Shopping Collections with Multimodal AI](https://medium.com/pinterest-engineering/pinlanding-turn-billions-of-products-into-instant-shopping-collections-with-multimodal-ai-3489320294e9?source=rss-ef81ef829bcb------2) (2026-01-13)
 - [LLM-Powered Relevance Assessment for Pinterest Search](https://medium.com/pinterest-engineering/llm-powered-relevance-assessment-for-pinterest-search-b846489e358d?source=rss-ef81ef829bcb------2) (2025-12-10)
 - [How Pinterest Built a Real‑Time Radar for Violative Content using AI](https://medium.com/pinterest-engineering/how-pinterest-built-a-real-time-radar-for-violative-content-using-ai-d5a108e02ac2?source=rss-ef81ef829bcb------2) (2025-12-08)
 - [Improving Quality of Recommended Content through Pinner Surveys](https://medium.com/pinterest-engineering/improving-quality-of-recommended-content-through-pinner-surveys-eebca8a52652?source=rss-ef81ef829bcb------2) (2025-12-05)
-- [On the (re)-prioritization of open-source AI](https://medium.com/pinterest-engineering/on-the-re-prioritization-of-open-source-ai-86f7279481e3?source=rss-ef81ef829bcb------2) (2025-12-04)
 
 </details>
 
@@ -392,11 +392,11 @@ https://www.twilio.com/en-us/blog/developers/community/build-an-ai-video-analysi
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Securing Moltbot: A Developer's Checklist for AI Agent Security](https://auth0.com/blog/five-step-guide-securing-moltbot-ai-agent/) (2026-01-28)
 - [FastAPI Best Practices](https://auth0.com/blog/fastapi-best-practices/) (2026-01-23)
 - [Why Broken Access Control Still Dominates the OWASP Top 10 in 2026?](https://auth0.com/blog/why-broken-access-control-still-dominates-owasp-top-10/) (2026-01-22)
 - [Secure Third-Party Tool Calling in LlamaIndex Using Auth0](https://auth0.com/blog/third-party-tool-calling-llamaindex-auth0-python/) (2026-01-21)
 - [How Auth0 Tenant Access Control List Empowers Customers Under Fire](https://auth0.com/blog/tenant-access-control-list-prevent-signup-fraud/) (2026-01-20)
-- [Why Did My Auth0 Bill Change? A Guide to Proration, Discounts, and Upgrades](https://auth0.com/blog/why-did-my-auth0-bill-change/) (2026-01-16)
 
 </details>
 
@@ -579,11 +579,11 @@ https://www.twilio.com/en-us/blog/developers/community/build-an-ai-video-analysi
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [DeepSeek OCR 2: AI That Reads Documents Like Humans](https://www.analyticsvidhya.com/blog/2026/01/deepseek-ocr-2/) (2026-01-28)
 - [Top 10 Python Libraries for AI and Machine Learning](https://www.analyticsvidhya.com/blog/2026/01/python-libraries-for-ai-and-machine-learning/) (2026-01-28)
 - [I Tested Clawdbot and Built My Own Local AI Agent](https://www.analyticsvidhya.com/blog/2026/01/clawdbot-guide/) (2026-01-27)
 - [Is Kimi K2.5 the BEST Open-source Model of 2026?](https://www.analyticsvidhya.com/blog/2026/01/kimi-k2-5/) (2026-01-27)
 - [Guide to AI Benchmarks: MMLU, HumanEval, and More Explained](https://www.analyticsvidhya.com/blog/2026/01/ai-benchmarks/) (2026-01-27)
-- [AgentScope AI: A Complete Guide to Building Scalable Multi-Agent Systems with LLMs ](https://www.analyticsvidhya.com/blog/2026/01/agentscope-ai/) (2026-01-26)
 
 </details>
 
