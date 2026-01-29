@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Ross Stevens Donates $100M to Pay Every US Olympian and Paralympian $200k](https://www.townandcountrymag.com/leisure/sporting/a70171886/ross-stevens-american-olympians-donation/) (2026-01-28)
-- [Please Don't Say Mean Things about the AI I Just Invested a Billion Dollars In](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in) (2026-01-28)
-- [The UK paid £4.1M for a bookmarks site](https://mahadk.com/posts/ai-skills-hub) (2026-01-28)
-- [Bf-Tree: modern read-write-optimized concurrent larger-than-memory range index](https://github.com/microsoft/bf-tree) (2026-01-28)
-- [Somebody used spoofed ADSB signals to raster the meme of JD Vance](https://alecmuffett.com/article/143548) (2026-01-28)
+- [Generative Music with the Muse](https://computerhistory.org/blog/generative-music-with-the-muse/) (2026-01-29)
+- [Microsoft's Azure Linux](https://github.com/microsoft/azurelinux) (2026-01-29)
+- [We can't send mail farther than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles) (2026-01-29)
+- [Putting Gemini to Work in Chrome](https://blog.google/products-and-platforms/products/chrome/gemini-3-auto-browse/) (2026-01-29)
+- [Questom (YC F25) is hiring an engineer](https://www.ycombinator.com/companies/questom/jobs/UBebsyO-founding-engineer) (2026-01-29)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [JSONPath Is In! The AI Assistant Will See You Now](https://dev.to/david_kershaw_b6916404da6/jsonpath-is-in-the-ai-assistant-will-see-you-now-5cge) (2026-01-29)
-- [Parallel Region-Based Routing on OpenROAD: Scaling Beyond Multithreading](https://dev.to/wiowiztech/parallel-region-based-routing-on-openroad-scaling-beyond-multithreading-3jf6) (2026-01-29)
-- [Building AI's Flight Recorder: A Developer's Response to the Doomsday Clock](https://dev.to/veritaschain/building-ais-flight-recorder-a-developers-response-to-the-doomsday-clock-43pi) (2026-01-29)
-- [[CS series] Understanding Logic Gates: The Language of Computers](https://dev.to/jonghwayoo03_dev/cs-series-understanding-logic-gates-the-language-of-computers-73d) (2026-01-29)
-- [The Geopolitics of Silicon: Chips as the Foundation of Power and the Economy](https://dev.to/fundacjadobrepanstwo/the-geopolitics-of-silicon-chips-as-the-foundation-of-power-and-the-economy-17e6) (2026-01-29)
+- [Weird JS](https://dev.to/rahul1994jh/weird-js-3lo9) (2026-01-29)
+- [Hoisting in JavaScript](https://dev.to/rahul1994jh/hoisting-in-javascript-a-complete-guide-1276) (2026-01-29)
+- [Prompt engineering: sun’iy intellekt natijani optimallashtirish usullari](https://dev.to/s_hoxrux_921856f2645/prompt-engineering-suniy-intellekt-modellarida-natijani-optimallashtirish-usullari-4k2j) (2026-01-29)
+- [llm-tldr: Answering "Where is the authentication?" with 100ms - Accuracy and Limitations of Semantic Search](https://dev.to/tumf/llm-tldr-answering-where-is-the-authentication-with-100ms-accuracy-and-limitations-of-3n9i) (2026-01-29)
+- [Robin: Investigating the Dark Web with AI - A New Companion for Security Researchers](https://dev.to/tumf/robin-investigating-the-dark-web-with-ai-a-new-companion-for-security-researchers-53kj) (2026-01-29)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Integrating Voice Agents into Web Apps: A Practical Guide](https://medium.com/@kaklotarrahul79/integrating-voice-agents-into-web-apps-a-practical-guide-309893690b58?source=rss------programming-5) (2026-01-29)
-- [We Rewrote Our App in React. Two Years Later, We’re Back on jQuery.](https://medium.com/engineering-playbook/we-rewrote-our-app-in-react-two-years-later-were-back-on-jquery-b4d0958bba32?source=rss------programming-5) (2026-01-29)
-- [47 Pages in One Night. I Quit Being On-Call and Never Looked Back.](https://medium.com/codex/47-pages-in-one-night-i-quit-being-on-call-and-never-looked-back-70940a363459?source=rss------programming-5) (2026-01-29)
-- [Conda Is Fast Now: The Guide to Universal Environments](https://medium.com/data-science-collective/conda-is-fast-now-because-of-libmamba-the-guide-to-universal-environments-eb9b6c2883bb?source=rss------programming-5) (2026-01-29)
-- [Nyxian: Xcode straight from your pocket](https://blog.stackademic.com/nyxian-xcode-straight-from-your-pocket-7acbbdd68eb4?source=rss------programming-5) (2026-01-29)
+- [Car4Less - Full Market Analysis by the experts](https://medium.com/@walkermotoring/car4less-full-market-analysis-by-the-experts-8e9ee96d1f99?source=rss------programming-5) (2026-01-29)
+- [Why a Single sortedBy {} Line Can Crash Your Android App](https://medium.com/@kumarsubh1258/why-a-single-sortedby-line-can-crash-your-android-app-064bd9a7f151?source=rss------programming-5) (2026-01-29)
+- [ASI ne Dwarka nagri ke underwater avshesh khoje?](https://medium.com/@Sanatan_life/asi-ne-dwarka-nagri-ke-underwater-avshesh-khoje-c7d2097bc905?source=rss------programming-5) (2026-01-29)
+- [THE POWER OF COMPOUND INTEREST ; AND HOW CONCRETE VAULTS UNLOCK IT](https://grizzlyverreira.medium.com/the-power-of-compound-interest-and-how-concrete-vaults-unlock-it-ca8d087aed79?source=rss------programming-5) (2026-01-29)
+- [After Interviewing 200+ Engineers, I Realized Coding Interviews Test the Wrong Skills](https://medium.com/@aijob/after-interviewing-200-engineers-i-realized-coding-interviews-test-the-wrong-skills-a8e8710f271a?source=rss------programming-5) (2026-01-29)
 
 </details>
 
