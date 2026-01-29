@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Upwind raises $250M at $1.5B valuation to continue building ‘runtime’ cloud security](https://techcrunch.com/2026/01/29/upwind-raises-250m-at-1-5b-valuation-to-continue-building-runtime-cloud-security/) (2026-01-29)
+- [Apple hires iPhone camera app Halide’s co-founder for its design team](https://techcrunch.com/2026/01/29/apple-hires-iphone-camera-app-halides-co-founder-for-its-design-team/) (2026-01-29)
+- [Deezer makes it easier for rival platforms to take a stance against AI-generated music](https://techcrunch.com/2026/01/29/deezer-makes-it-easier-for-rival-platforms-to-take-a-stance-against-ai-generated-music/) (2026-01-29)
 - [Meta burned $19 billion on VR last year, and 2026 won’t be any better](https://techcrunch.com/2026/01/28/meta-burned-19-billion-on-vr-last-year-and-2026-wont-be-any-better/) (2026-01-29)
 - [Zuckerberg teases agentic commerce tools and major AI rollout in 2026](https://techcrunch.com/2026/01/28/zuckerberg-teases-agentic-commerce-tools-and-major-ai-rollout-in-2026/) (2026-01-28)
-- [Trump energy department loosens rules on nuclear safety](https://techcrunch.com/2026/01/28/trump-energy-department-loosens-rules-on-nuclear-safety/) (2026-01-28)
-- [Microsoft gained $7.6B from OpenAI last quarter](https://techcrunch.com/2026/01/28/microsoft-earnings-7-6-billion-openai/) (2026-01-28)
-- [Tesla is killing off the Model S and Model X](https://techcrunch.com/2026/01/28/tesla-is-killing-off-the-model-s-and-model-x/) (2026-01-28)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [The tech market is fundamentally fucked up and AI is just a scapegoat](https://bayramovanar.substack.com/p/tech-market-is-fucked-up) (2026-01-29)
+- [Vitamin D and Omega-3 have a larger effect on depression than antidepressants](https://blog.ncase.me/on-depression/) (2026-01-29)
+- [AI on Australian travel company website sent tourists to nonexistent hot springs](https://www.cnn.com/2026/01/28/travel/ai-tourism-nonexistent-hotsprings-intl-scli) (2026-01-29)
+- [Europe’s next-generation weather satellite sends back first images](https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images) (2026-01-29)
 - [Generative Music with the Muse](https://computerhistory.org/blog/generative-music-with-the-muse/) (2026-01-29)
-- [Microsoft's Azure Linux](https://github.com/microsoft/azurelinux) (2026-01-29)
-- [We can't send mail farther than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles) (2026-01-29)
-- [Putting Gemini to Work in Chrome](https://blog.google/products-and-platforms/products/chrome/gemini-3-auto-browse/) (2026-01-29)
-- [Questom (YC F25) is hiring an engineer](https://www.ycombinator.com/companies/questom/jobs/UBebsyO-founding-engineer) (2026-01-29)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [There won’t be a Nothing Phone 4 this year](https://www.theverge.com/tech/869975/nothing-phone-4-not-releasing-2026-flagship) (2026-01-29)
+- [Google disables Take a Message on older Pixel phones amid audio leak bug](https://www.theverge.com/news/869965/google-pixel-4-5-take-a-message-disabled-audio-leak) (2026-01-29)
 - [Halide co-founder Sebastiaan de With is joining Apple&#8217;s design team](https://www.theverge.com/tech/869926/apple-hires-sebastiaan-de-with-design-team-halide-lux) (2026-01-28)
 - [Mark Zuckerberg is all in on AI as the new social media](https://www.theverge.com/news/869882/mark-zuckerberg-meta-earnings-q4-2025) (2026-01-28)
 - [Windows 11 has reached 1 billion users faster than Windows 10](https://www.theverge.com/news/869889/microsoft-windows-11-1-billion-users) (2026-01-28)
-- [Tesla discontinuing Model S and Model X to make room for robots](https://www.theverge.com/transportation/869872/tesla-model-s-model-x-discontinue-optimus-robot-factory) (2026-01-28)
-- [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide) (2026-01-28)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Early Universe's supermassive black holes grew in cocoons like butterflies](https://arstechnica.com/science/2026/01/early-universes-supermassive-black-holes-grew-in-cocoons-like-butterflies/) (2026-01-29)
 - [Tesla: 2024 was bad, 2025 was worse as profit falls 46 percent](https://arstechnica.com/cars/2026/01/2025-sees-teslas-annual-revenue-fall-for-the-first-time/) (2026-01-28)
 - [Site catering to online criminals has been seized by the FBI](https://arstechnica.com/security/2026/01/site-catering-to-online-criminals-has-been-seized-by-the-fbi/) (2026-01-28)
 - [Seven things to know about how Apple's Creator Studio subscriptions work](https://arstechnica.com/gadgets/2026/01/seven-things-to-know-about-how-apples-creator-studio-subscriptions-work/) (2026-01-28)
 - [Stranded boys struggle to survive in Lord of the Flies trailer](https://arstechnica.com/culture/2026/01/bbcs-lord-of-the-flies-miniseries-gets-a-trailer/) (2026-01-28)
-- [SpaceX sends list of demands to US states giving broadband grants to Starlink](https://arstechnica.com/tech-policy/2026/01/starlink-demands-grant-money-from-states-even-when-residents-dont-buy-service/) (2026-01-28)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [How the grid can ride out winter storms](https://www.technologyreview.com/2026/01/29/1131863/grid-winter-storms/) (2026-01-29)
+- [Meet the Vitalists: the hardcore longevity enthusiasts who believe death is “wrong”](https://www.technologyreview.com/2026/01/29/1131815/vitalism-longevity-enthusiasts-influence/) (2026-01-29)
 - [Roundtables: Why AI Companies Are Betting on Next-Gen Nuclear](https://www.technologyreview.com/2026/01/28/1131340/roundtables-why-ai-companies-are-betting-on-next-gen-nuclear/) (2026-01-28)
 - [What AI “remembers” about you is privacy’s next frontier](https://www.technologyreview.com/2026/01/28/1131835/what-ai-remembers-about-you-is-privacys-next-frontier/) (2026-01-28)
 - [Rules fail at the prompt, succeed at the boundary](https://www.technologyreview.com/2026/01/28/1131003/rules-fail-at-the-prompt-succeed-at-the-boundary/) (2026-01-28)
-- [The Download: A bid to treat blindness, and bridging the internet divide](https://www.technologyreview.com/2026/01/28/1131830/the-download-a-bid-to-treat-blindness-and-bridging-the-internet-divide/) (2026-01-28)
-- [The first human test of a rejuvenation method will begin “shortly” ](https://www.technologyreview.com/2026/01/27/1131796/the-first-human-test-of-a-rejuvenation-method-will-begin-shortly/) (2026-01-27)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Weird JS](https://dev.to/rahul1994jh/weird-js-3lo9) (2026-01-29)
-- [Hoisting in JavaScript](https://dev.to/rahul1994jh/hoisting-in-javascript-a-complete-guide-1276) (2026-01-29)
-- [Prompt engineering: sun’iy intellekt natijani optimallashtirish usullari](https://dev.to/s_hoxrux_921856f2645/prompt-engineering-suniy-intellekt-modellarida-natijani-optimallashtirish-usullari-4k2j) (2026-01-29)
-- [llm-tldr: Answering "Where is the authentication?" with 100ms - Accuracy and Limitations of Semantic Search](https://dev.to/tumf/llm-tldr-answering-where-is-the-authentication-with-100ms-accuracy-and-limitations-of-3n9i) (2026-01-29)
-- [Robin: Investigating the Dark Web with AI - A New Companion for Security Researchers](https://dev.to/tumf/robin-investigating-the-dark-web-with-ai-a-new-companion-for-security-researchers-53kj) (2026-01-29)
+- [Understanding HTML Tags and Elements](https://dev.to/anoop-rajoriya/understanding-html-tags-and-elements-1p) (2026-01-29)
+- [Announcing SuperQode and SuperQE: Redefining Quality Engineering for Agentic Software](https://dev.to/shashikant86/announcing-superqode-and-superqe-redefining-quality-engineering-for-agentic-software-4ek9) (2026-01-29)
+- [Building in Public: How I Pivoted from Features to Validation 🚀](https://dev.to/lujandev/building-in-public-how-i-pivoted-from-features-to-validation-2150) (2026-01-29)
+- [.NET File‑Based Apps for API Prototyping: What Bit Me on First Run](https://dev.to/eelcolos/net-file-based-apps-for-api-prototyping-what-bit-me-on-first-run-na2) (2026-01-29)
+- [Our AI Critic Was Going Easy on Us (Research Told Us Why)](https://dev.to/theskillsteam/our-ai-critic-was-going-easy-on-us-research-told-us-why-55j0) (2026-01-29)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Car4Less - Full Market Analysis by the experts](https://medium.com/@walkermotoring/car4less-full-market-analysis-by-the-experts-8e9ee96d1f99?source=rss------programming-5) (2026-01-29)
-- [Why a Single sortedBy {} Line Can Crash Your Android App](https://medium.com/@kumarsubh1258/why-a-single-sortedby-line-can-crash-your-android-app-064bd9a7f151?source=rss------programming-5) (2026-01-29)
-- [ASI ne Dwarka nagri ke underwater avshesh khoje?](https://medium.com/@Sanatan_life/asi-ne-dwarka-nagri-ke-underwater-avshesh-khoje-c7d2097bc905?source=rss------programming-5) (2026-01-29)
-- [THE POWER OF COMPOUND INTEREST ; AND HOW CONCRETE VAULTS UNLOCK IT](https://grizzlyverreira.medium.com/the-power-of-compound-interest-and-how-concrete-vaults-unlock-it-ca8d087aed79?source=rss------programming-5) (2026-01-29)
-- [After Interviewing 200+ Engineers, I Realized Coding Interviews Test the Wrong Skills](https://medium.com/@aijob/after-interviewing-200-engineers-i-realized-coding-interviews-test-the-wrong-skills-a8e8710f271a?source=rss------programming-5) (2026-01-29)
+- [The Only Redis Architecture I Trust in .NET 10 (After Real Incidents)](https://jber595.medium.com/the-only-redis-architecture-i-trust-in-net-10-after-real-incidents-c06b2885f111?source=rss------programming-5) (2026-01-29)
+- [10 Industry-aligned AI Project Ideas](https://medium.com/@id.shivanjali/10-industry-aligned-ai-project-ideas-2b3373fd66a6?source=rss------programming-5) (2026-01-29)
+- [Day 2: Python Refresher and Development Environment Setup for FastAPI](https://medium.com/@rajkumarsingh07/day-2-python-refresher-and-development-environment-setup-for-fastapi-3a25ca896c56?source=rss------programming-5) (2026-01-29)
+- [Modern Java Features (Java 17–21) Most Developers Still Ignore](https://medium.com/illumination/modern-java-features-java-17-21-most-developers-still-ignore-017fd7a22f9e?source=rss------programming-5) (2026-01-29)
+- [Stop Memorizing Design Patterns: Use This Decision Tree Instead](https://medium.com/womenintechnology/stop-memorizing-design-patterns-use-this-decision-tree-instead-e84f22fca9fa?source=rss------programming-5) (2026-01-29)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
+- [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
 - [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
 - [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
 - [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
-- [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
-- [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
 
 </details>
 
@@ -196,11 +196,11 @@
 <details>
 <summary>🟩 Node.js Blog</summary>
 
+- [OpenSSL Security Advisory Assessment, January 2026](https://nodejs.org/en/blog/vulnerability/openssl-fixes-in-regular-releases-jan2026) (2026-01-28)
 - [Node.js 25.5.0 (Current)](https://nodejs.org/en/blog/release/v25.5.0) (2026-01-26)
 - [New HackerOne Signal Requirement for Vulnerability Reports](https://nodejs.org/en/blog/announcements/hackerone-signal-requirement) (2026-01-21)
 - [Node.js 25.4.0 (Current)](https://nodejs.org/en/blog/release/v25.4.0) (2026-01-19)
 - [Mitigating Denial-of-Service Vulnerability from Unrecoverable Stack Space Exhaustion for React, Next.js, and APM Users](https://nodejs.org/en/blog/vulnerability/january-2026-dos-mitigation-async-hooks) (2026-01-13)
-- [Node.js 22.22.0 (LTS)](https://nodejs.org/en/blog/release/v22.22.0) (2026-01-13)
 
 </details>
 
@@ -447,11 +447,11 @@ https://www.twilio.com/en-us/blog/developers/community/build-an-ai-video-analysi
 <details>
 <summary>🔗 GraphQL Blog</summary>
 
+- [GraphQLConf 2026: May 6-7 in Menlo Park](https://graphql.org/blog/2026-01-29-graphqlconf-2026-announcement) (2026-01-29)
 - [GraphQL AI Working Group Recap: January 2026](https://graphql.org/blog/2026-01-22-recap-jan-2026-ai-wg) (2026-01-22)
 - [GraphQL AI Working Group Recap: November 2025](https://graphql.org/blog/2026-01-20-recap-nov-2025-ai-wg) (2026-01-20)
 - [Recap First GraphQL AI Working Group Meeting](https://graphql.org/blog/2025-11-13-recap-oct-ai-wg) (2025-11-13)
 - [GraphQL Locals 2025: Increasing Support](https://graphql.org/blog/2025-10-16-graphql-local-initiative-update) (2025-10-16)
-- [Announcing the GraphQL AI Working Group](https://graphql.org/blog/2025-10-14-announcing-ai-wg) (2025-10-14)
 
 </details>
 
@@ -568,22 +568,22 @@ https://www.twilio.com/en-us/blog/developers/community/build-an-ai-video-analysi
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Randomization Works in Experiments, Even Without Balance](https://towardsdatascience.com/randomization-works-in-experiments-even-without-balance/) (2026-01-29)
 - [Federated Learning, Part 2: Implementation with the Flower Framework 🌼](https://towardsdatascience.com/federated-learning-part-2-implementation-with-the-flower-framework-%f0%9f%8c%bc/) (2026-01-28)
 - [Machine Learning in Production? What This Really Means](https://towardsdatascience.com/machine-learning-in-production-what-this-really-means/) (2026-01-28)
 - [I Ditched My Mouse: How I Control My Computer With Hand Gestures (In 60 Lines of Python)](https://towardsdatascience.com/i-ditched-my-mouse-how-i-control-my-computer-with-hand-gestures-in-60-lines-of-python/) (2026-01-28)
 - [Modeling Urban Walking Risk Using Spatial-Temporal Machine Learning](https://towardsdatascience.com/modeling-urban-walking-risk-using-spatial-temporal-machine-learning/) (2026-01-28)
-- [Going Beyond the Context Window: Recursive Language Models in Action](https://towardsdatascience.com/going-beyond-the-context-window-recursive-language-models-in-action/) (2026-01-27)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [16 NotebookLM Prompts Every Teacher Should Be Using in 2026](https://www.analyticsvidhya.com/blog/2026/01/notebooklm-for-teachers/) (2026-01-29)
 - [DeepSeek OCR 2: AI That Reads Documents Like Humans](https://www.analyticsvidhya.com/blog/2026/01/deepseek-ocr-2/) (2026-01-28)
 - [Top 10 Python Libraries for AI and Machine Learning](https://www.analyticsvidhya.com/blog/2026/01/python-libraries-for-ai-and-machine-learning/) (2026-01-28)
 - [I Tested Clawdbot and Built My Own Local AI Agent](https://www.analyticsvidhya.com/blog/2026/01/clawdbot-guide/) (2026-01-27)
 - [Is Kimi K2.5 the BEST Open-source Model of 2026?](https://www.analyticsvidhya.com/blog/2026/01/kimi-k2-5/) (2026-01-27)
-- [Guide to AI Benchmarks: MMLU, HumanEval, and More Explained](https://www.analyticsvidhya.com/blog/2026/01/ai-benchmarks/) (2026-01-27)
 
 </details>
 
