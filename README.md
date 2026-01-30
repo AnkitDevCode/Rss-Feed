@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [How Sequoia-backed Ethos reached the public market while rivals fell short](https://techcrunch.com/2026/01/29/how-sequoia-backed-ethos-reached-the-public-market-while-rivals-fell-short/) (2026-01-30)
-- [The iPhone just had its best quarter ever](https://techcrunch.com/2026/01/29/the-iphone-just-had-its-best-quarter-ever/) (2026-01-29)
-- [Guys, I don’t think Tim Cook knows how to monetize AI](https://techcrunch.com/2026/01/29/guys-i-dont-think-tim-cook-knows-how-to-monetize-ai/) (2026-01-29)
-- [Elon Musk’s SpaceX, Tesla, and xAI in talks to merge, according to reports](https://techcrunch.com/2026/01/29/elon-musk-spacex-tesla-xai-merger-talks-ipo-reuters/) (2026-01-29)
-- [Amazon is reportedly in talks to invest $50B in OpenAI](https://techcrunch.com/2026/01/29/amazon-is-reportedly-in-talks-to-invest-50-billion-in-openai/) (2026-01-29)
+- [Anthropic brings agentic plug-ins to Cowork](https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/) (2026-01-30)
+- [Bluesky issues its first transparency report, noting rise in user reports and legal demands](https://techcrunch.com/2026/01/30/bluesky-issues-its-first-transparency-report-noting-rise-in-user-reports-and-legal-demands/) (2026-01-30)
+- [Reid Hoffman urges Silicon Valley leaders to stop bending the knee to President Trump](https://techcrunch.com/2026/01/30/reid-hoffman-urges-silicon-valley-leaders-to-stop-bending-the-knee-to-president-trump/) (2026-01-30)
+- [Russian hackers breached Polish power grid thanks to bad security, report says](https://techcrunch.com/2026/01/30/russian-hackers-breached-polish-power-grid-thanks-to-bad-security-report-says/) (2026-01-30)
+- [Last 24 hours to grab your plus-one pass at 50% off to TechCrunch Disrupt 2026](https://techcrunch.com/2026/01/30/last-24-hours-to-grab-your-1-pass-at-50-off-to-techcrunch-disrupt-2026/) (2026-01-30)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Pangolin (YC S25) is hiring software engineers (open-source, Go, networking)](https://docs.pangolin.net/careers/join-us) (2026-01-30)
-- [Show HN: Cicada – a scripting language that integrates with C](https://github.com/heltilda/cicada) (2026-01-30)
-- [BoldVoice (YC S21) Is Hiring Fullstack and Machine Learning Engineers](https://boldvoice.notion.site/careers-page?p=2e871a9bf729806c81f6e47f32e32622&pm=s) (2026-01-30)
-- [Track Your Routine – Open-source app for task management](https://github.com/MSF01/TYR) (2026-01-30)
-- [Tesla's Robotaxi data confirms crash rate 3x worse than humans even with monitor](https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/) (2026-01-30)
+- [Amazon's Spending on 'Melania' Is a Barely Concealed Bribe](https://daringfireball.net/linked/2026/01/29/amazon-melania-spending) (2026-01-30)
+- [Microsoft Just Killed the "Cover for Me" Excuse: 365 Now Tracks You in Real-Time](https://ztechtalk.com/microsoft-teams) (2026-01-30)
+- [Vcad: Free BRep CAD in the Browser](https://vcad.io) (2026-01-30)
+- [Detecting Dementia Using Lexical Analysis: Terry Pratchett's Discworld](https://www.mdpi.com/2076-3425/16/1/94) (2026-01-30)
+- [Buttered Crumpet, a custom typeface for Wallace and Gromit](https://jamieclarketype.com/case-study/wallace-and-gromit-font/) (2026-01-30)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The small film that answers the big questions](https://www.theverge.com/entertainment/870138/hlynur-palmason-the-love-that-remains-interview) (2026-01-30)
-- [Microsoft is experimenting with a top menu bar for Windows 11](https://www.theverge.com/news/870663/microsoft-windows-11-top-menu-bar-powertoy-experiment) (2026-01-30)
-- [One of the biggest manga piracy networks has been shut down](https://www.theverge.com/tech/870643/bato-manga-piracy-site-shut-down) (2026-01-30)
-- [It’s a new heyday for gas thanks to data centers](https://www.theverge.com/news/870422/data-center-ai-gas-power-surge) (2026-01-29)
-- [Apple just had a record-breaking iPhone quarter](https://www.theverge.com/news/870319/apple-iphone-best-revenue-ai-q1-2026) (2026-01-29)
+- [Tim Cook is destroying his own legacy](https://www.theverge.com/podcast/870717/tim-cook-melania-minneapolis-tiktok-vergecast) (2026-01-30)
+- [ICE invades Minnesota and Minnesotans fight back](https://www.theverge.com/policy/870315/ice-invades-minnesota-and-minnesotans-fight-back) (2026-01-30)
+- [You can now use Nintendo’s wireless N64 controller with the Analogue 3D](https://www.theverge.com/news/870968/analogue-3d-n64-nintendo-switch-online-wireless-controller-software-update) (2026-01-30)
+- [This DIY kit turned my favorite mechanical keyboard into my favorite electrocapacitive keyboard](https://www.theverge.com/tech/868153/dynacap-diy-electrocapacitive-keyboard-hands-on) (2026-01-30)
+- [The best smart rings for tracking sleep and health](https://www.theverge.com/tech/647901/best-smart-rings) (2026-01-30)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [How far does $5,000 go when you want an electric car?](https://arstechnica.com/cars/2026/01/how-far-does-5000-go-when-you-want-an-electric-car/) (2026-01-30)
+- [NASA faces a crucial choice on a Mars spacecraft—and it must decide soon](https://arstechnica.com/space/2026/01/nasa-faces-a-crucial-choice-on-a-mars-spacecraft-and-it-must-decide-soon/) (2026-01-30)
+- [Rocket Report: How a 5-ton satellite fell off a booster; will SpaceX and xAI merge?](https://arstechnica.com/space/2026/01/rocket-report-how-a-5-ton-satellite-fell-off-a-booster-will-spacex-and-xai-merge/) (2026-01-30)
+- [Inside Nvidia's 10-year effort to make the Shield TV the most updated Android device ever](https://arstechnica.com/gadgets/2026/01/inside-nvidias-10-year-effort-to-make-the-shield-tv-the-most-updated-android-device-ever/) (2026-01-30)
 - [Having that high-deductible health plan might kill you, literally](https://arstechnica.com/health/2026/01/having-that-high-deductible-health-plan-might-kill-you-literally/) (2026-01-29)
-- [US spy satellite agency declassifies high-flying Cold War listening post](https://arstechnica.com/space/2026/01/us-spy-satellite-agency-declassifies-high-flying-cold-war-listening-post/) (2026-01-29)
-- [People complaining about Windows 11 hasn't stopped it from hitting 1 billion users](https://arstechnica.com/gadgets/2026/01/windows-11-has-hit-1-billion-users-just-a-hair-faster-than-windows-10-did/) (2026-01-29)
-- [How often do AI chatbots lead users down a harmful path?](https://arstechnica.com/ai/2026/01/how-often-do-ai-chatbots-lead-users-down-a-harmful-path/) (2026-01-29)
-- [Google Project Genie lets you create interactive worlds from a photo or prompt](https://arstechnica.com/google/2026/01/google-project-genie-lets-you-create-interactive-worlds-from-a-photo-or-prompt/) (2026-01-29)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Inside the marketplace powering bespoke AI deepfakes of real women](https://www.technologyreview.com/2026/01/30/1131945/inside-the-marketplace-powering-bespoke-ai-deepfakes-of-real-women/) (2026-01-30)
+- [The Download: US immigration agencies’ AI videos, and inside the Vitalism movement](https://www.technologyreview.com/2026/01/30/1132022/the-download-us-immigration-agencies-ai-videos-and-inside-the-vitalism-movement/) (2026-01-30)
 - [How the sometimes-weird world of lifespan extension is gaining influence](https://www.technologyreview.com/2026/01/30/1131933/weird-world-lifespan-extension-gaining-influence-oneill-arpa-h/) (2026-01-30)
 - [The AI Hype Index: Grok makes porn, and Claude Code nails your job](https://www.technologyreview.com/2026/01/29/1131787/the-ai-hype-index-grok-makes-porn-claude-code-nails-your-job/) (2026-01-29)
 - [DHS is using Google and Adobe AI to make videos](https://www.technologyreview.com/2026/01/29/1131938/dhs-is-using-google-and-adobe-ai-to-make-videos/) (2026-01-29)
-- [The Download: inside the Vitalism movement, and why AI’s “memory” is a privacy problem](https://www.technologyreview.com/2026/01/29/1131925/the-download-inside-the-vitalism-movement-and-why-ais-memory-is-a-privacy-problem/) (2026-01-29)
-- [How the grid can ride out winter storms](https://www.technologyreview.com/2026/01/29/1131863/grid-winter-storms/) (2026-01-29)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- ["Semantic Chaining" Bypasses Multimodal AI Safety Filters](https://dev.to/alessandro_pignati/semantic-chaining-bypasses-multimodal-ai-safety-filters-3kib) (2026-01-30)
-- [A CAPTCHA Bypass Technique: Audio Files](https://dev.to/calganaygun/a-captcha-bypass-technique-audio-files-315k) (2026-01-30)
-- [My Hands-On Journey with Git, GitHub & Real-World Team Workflows](https://dev.to/bagshraddha/my-hands-on-journey-with-git-github-real-world-team-workflows-3fli) (2026-01-30)
-- [How a Browser Works: A Beginner-Friendly Guide to Browser Internals](https://dev.to/kunal_dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals-akl) (2026-01-30)
-- [My Portfolio – New Year New You Challenge (Google Cloud Run)](https://dev.to/divya_selvaraj_357bb49ff3/my-portfolio-new-year-new-you-challenge-google-cloud-run-knp) (2026-01-30)
+- [Animated iOS Splash Screens: The Illusion Apple Actually Allows](https://dev.to/voinkoder/animated-ios-splash-screens-the-illusion-apple-actually-allows-52ej) (2026-01-30)
+- [# Expo vs Bare React Native](https://dev.to/iamsaadmehmood/-expo-vs-bare-react-native-4ek0) (2026-01-30)
+- [Figma - Asosiy tushunchalar va tez boshlash qo‘llanmasi](https://dev.to/samandarhodiev/figma-asosiy-tushunchalar-va-tez-boshlash-qollanmasi-2668) (2026-01-30)
+- [Pager Lifecycle Functions: Pinning Pages, Running Transactions, and Making Them Stick in SQLite](https://dev.to/lovestaco/pager-lifecycle-functions-pinning-pages-running-transactions-and-making-them-stick-in-sqlite-3fh2) (2026-01-30)
+- [Saat Laptop Lama Menemukan Peran Barunya](https://dev.to/bangkah/saat-laptop-lama-menemukan-peran-barunya-3pha) (2026-01-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Redis Explained Simply: Why It’s So Fast and Where It Actually Fits](https://blog.stackademic.com/redis-explained-simply-why-its-so-fast-and-where-it-actually-fits-3b2f6db0235b?source=rss------programming-5) (2026-01-30)
-- [Most Websites Are Failing Millions of Users — Here’s Why Web Accessibility Matters Now](https://javascript.plainenglish.io/most-websites-are-failing-millions-of-users-heres-why-web-accessibility-matters-now-cb9f0c4d95f2?source=rss------programming-5) (2026-01-30)
-- [ Learning Programming & AI/ML the Simple Way — My Blog for Beginners](https://codewithayush14.medium.com/learning-programming-ai-ml-the-simple-way-my-blog-for-beginners-3e2a82c8d7af?source=rss------programming-5) (2026-01-30)
-- [Design Patterns 101: Intro to Design Patterns](https://medium.com/@juannegrin/design-patterns-101-intro-to-design-patterns-b2404d852436?source=rss------programming-5) (2026-01-30)
-- [Code Solves Problems, but Clarity Builds Businesses](https://medium.com/design-bootcamp/code-solves-problems-but-clarity-builds-businesses-8e4fe720e3ec?source=rss------programming-5) (2026-01-30)
+- [C++ vs. Python: The Ultimate Cage Match for Ruling the Robotics World](https://medium.com/@kshaluka2005/c-vs-python-the-ultimate-cage-match-for-ruling-the-robotics-world-560ecb3b6b7a?source=rss------programming-5) (2026-01-30)
+- [Qrypta: Pioneering the Post-Quantum Future in Crypto as Ethereum Accelerates Its Defenses Tech and…](https://medium.com/@Qryptaprotocol/qrypta-pioneering-the-post-quantum-future-in-crypto-as-ethereum-accelerates-its-defenses-tech-and-ab4a6c0b805c?source=rss------programming-5) (2026-01-30)
+- [I Didn’t Want an Aesthetic Portfolio](https://medium.com/@tahsinzidane/i-didnt-want-an-aesthetic-portfolio-7b48884bfa7e?source=rss------programming-5) (2026-01-30)
+- [Angular Didn’t Slow Us Down — Our Architecture Did](https://medium.com/@pmLearners/angular-didnt-slow-us-down-our-architecture-did-c539b17097f0?source=rss------programming-5) (2026-01-30)
+- [Job Scheduling at Scale: Temporal vs Airflow](https://medium.com/@coders.stop/job-scheduling-at-scale-temporal-vs-airflow-99a6c7b2b2cb?source=rss------programming-5) (2026-01-30)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Busy Plugin Developers Newsletter – Q4 2025](https://blog.jetbrains.com/platform/2026/01/busy-plugin-developers-newsletter-q4-2025/) (2026-01-30)
 - [ReSharper and Rider 2025.3.2 Updates Out Now!](https://blog.jetbrains.com/dotnet/2026/01/29/resharper-and-rider-2025-3-2/) (2026-01-29)
 - [Game Dev in 2025: Excerpts From the State of Game Development Report](https://blog.jetbrains.com/dotnet/2026/01/29/game-dev-in-2025-excerpts-from-the-state-of-game-development-report/) (2026-01-29)
 - [ACP Agent Registry Is Live: Find and Connect AI Coding Agents in Your JetBrains IDE](https://blog.jetbrains.com/ai/2026/01/acp-agent-registry/) (2026-01-28)
 - [Vendor Lock-In vs. Strategic Partnership for Your CI/CD](https://blog.jetbrains.com/teamcity/2026/01/vendor-lock-in-vs-strategic-partnership/) (2026-01-28)
-- [Spring Data JDBC Made Easy with IntelliJ IDEA](https://blog.jetbrains.com/idea/2026/01/spring-data-jdbc-made-easy-with-intellij-idea/) (2026-01-28)
 
 </details>
 
@@ -350,17 +350,22 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Google’s AI advantage: why crawler separation is the only path to a fair Internet](https://blog.cloudflare.com/uk-google-ai-crawler-policy/) (2026-01-30)
+- [Building vertical microfrontends on Cloudflare’s platform](https://blog.cloudflare.com/vertical-microfrontends/) (2026-01-30)
 - [Introducing Moltworker: a self-hosted personal AI agent, minus the minis](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/) (2026-01-29)
 - [Building a serverless, post-quantum Matrix homeserver](https://blog.cloudflare.com/serverless-matrix-homeserver-workers/) (2026-01-27)
 - [Cable cuts, storms, and DNS: a look at Internet disruptions in Q4 2025](https://blog.cloudflare.com/q4-2025-internet-disruption-summary/) (2026-01-26)
-- [Route leak incident on January 22, 2026](https://blog.cloudflare.com/route-leak-incident-january-22-2026/) (2026-01-23)
-- [How we mitigated a vulnerability in Cloudflare’s ACME validation logic](https://blog.cloudflare.com/acme-path-vulnerability/) (2026-01-19)
 
 </details>
 
 <details>
 <summary>📞 Twilio Blog</summary>
 
+- [
+Identity resolution: what it is and how it works
+](
+https://www.twilio.com/en-us/blog/insights/identity-resolution
+) (2026-01-28)
 - [
 Build a Proxy to Connect a Call Between Two Twilio Accounts via SIP
 ](
@@ -381,22 +386,17 @@ Bringing SendGrid and Segment to Twilio.com: A More Unified Web Experience
 ](
 https://www.twilio.com/en-us/blog/company/bringing-sendgrid-and-segment-to-twilio
 ) (2026-01-23)
-- [
-Build an AI Video Analysis App with FastAPI, OpenAI, and SendGrid
-](
-https://www.twilio.com/en-us/blog/developers/community/build-an-ai-video-analysis-app-with-fastapi--openai--and-sendgri
-) (2026-01-15)
 
 </details>
 
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Scaling Identity: Automating Auth0 Configuration with the Auth0 Terraform Provider](https://auth0.com/blog/scaling-identity-foundation-terraform-auth0/) (2026-01-30)
+- [Auth0 B2B Billing: Should You Pick a Monthly or Annual Plan?](https://auth0.com/blog/auth0-b2b-billing-choosing-monthly-annual-plan/) (2026-01-30)
 - [Scaling Identity: Why You Need Auth0 Configuration Automation](https://auth0.com/blog/why-you-need-auth0-configuration-automation/) (2026-01-29)
 - [Securing Moltbot: A Developer's Checklist for AI Agent Security](https://auth0.com/blog/five-step-guide-securing-moltbot-ai-agent/) (2026-01-28)
 - [FastAPI Best Practices](https://auth0.com/blog/fastapi-best-practices/) (2026-01-23)
-- [Why Broken Access Control Still Dominates the OWASP Top 10 in 2026?](https://auth0.com/blog/why-broken-access-control-still-dominates-owasp-top-10/) (2026-01-22)
-- [Secure Third-Party Tool Calling in LlamaIndex Using Auth0](https://auth0.com/blog/third-party-tool-calling-llamaindex-auth0-python/) (2026-01-21)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/developers/community/build-an-ai-video-analysi
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slackbot for Sales: Introducing Your AI-Powered Wingman](https://slack.com/blog/productivity/slackbot-for-sales) (2026-01-29)
-- [Five Best AI Transcription Software Tools for Teams](https://slack.com/blog/productivity/ai-transcription-software) (2026-01-26)
 - [Assertive Communication: Definition, Tips, and Examples](https://slack.com/blog/collaboration/assertive-communication) (2026-01-23)
 - [Agentic Automation: What It Is and How It Works](https://slack.com/blog/productivity/agentic-automation-guide) (2026-01-16)
 - [Understanding Knowledge Retrieval and Why It’s Valuable to Businesses](https://slack.com/blog/collaboration/knowledge-retrieval) (2026-01-16)
+- [AI Task Automation: Benefits, Tools, and Use Cases](https://slack.com/blog/productivity/ai-task-automation-guide) (2026-01-16)
+- [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-01-13)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/developers/community/build-an-ai-video-analysi
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Creating an Etch A Sketch App Using Python and Turtle](https://towardsdatascience.com/creating-an-etch-a-sketch-app-using-python-turtle/) (2026-01-30)
+- [Why Your Multi-Agent System is Failing: Escaping the 17x Error Trap of the “Bag of Agents”](https://towardsdatascience.com/why-your-multi-agent-system-is-failing-escaping-the-17x-error-trap-of-the-bag-of-agents/) (2026-01-30)
+- [On the Possibility of Small Networks for Physics-Informed Learning](https://towardsdatascience.com/on-the-possibility-of-small-networks-for-physics-informed-learning/) (2026-01-30)
 - [Multi-Attribute Decision Matrices, Done Right](https://towardsdatascience.com/multi-attribute-decision-matrices-done-right/) (2026-01-30)
 - [Optimizing Vector Search: Why You Should Flatten Structured Data ](https://towardsdatascience.com/optimizing-vector-search-why-you-should-flatten-structured-data/) (2026-01-29)
-- [RoPE, Clearly Explained](https://towardsdatascience.com/rope-clearly-explained/) (2026-01-29)
-- [The Unbearable Lightness of Coding](https://towardsdatascience.com/the-unbearable-lightness-of-coding/) (2026-01-29)
-- [Randomization Works in Experiments, Even Without Balance](https://towardsdatascience.com/randomization-works-in-experiments-even-without-balance/) (2026-01-29)
 
 </details>
 
@@ -590,11 +590,11 @@ https://www.twilio.com/en-us/blog/developers/community/build-an-ai-video-analysi
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Fun APIs for Absolute Beginners](https://www.kdnuggets.com/5-fun-apis-for-absolute-beginners) (2026-01-30)
 - [Managing Secrets and API Keys in Python Projects (.env Guide)](https://www.kdnuggets.com/managing-secrets-and-api-keys-in-python-projects-env-guide) (2026-01-29)
 - [How to Use Hugging Face Spaces to Host Your Portfolio for Free](https://www.kdnuggets.com/how-to-use-hugging-face-spaces-to-host-your-portfolio-for-free) (2026-01-29)
 - [7 Scikit-learn Tricks for Hyperparameter Tuning](https://www.kdnuggets.com/7-scikit-learn-tricks-for-hyperparameter-tuning) (2026-01-29)
 - [This Is How Successful Data Teams Are Using AI (Sponsored)](https://bit.ly/4t6g1pK) (2026-01-28)
-- [Top 7 Coding Plans for Vibe Coding](https://www.kdnuggets.com/top-7-coding-plans-for-vibe-coding) (2026-01-28)
 
 </details>
 
