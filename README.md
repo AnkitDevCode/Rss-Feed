@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [What the Success of Coding Agents Teaches Us about AI Systems in General](https://softwarefordays.com/post/software-is-mostly-all-you-need/) (2026-01-29)
-- [Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer](https://grid.space/stem/) (2026-01-29)
-- [Cutting Up Curved Things (With Math)](https://campedersen.com/tessellation) (2026-01-29)
-- [The WiFi only works when it's raining (2024)](https://predr.ag/blog/wifi-only-works-when-its-raining/) (2026-01-29)
-- [The Hallucination Defense](https://niyikiza.com/posts/hallucination-defense/) (2026-01-29)
+- [The Dank Case for Scrolling Window Managers](https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/) (2026-01-30)
+- [Moltbook](https://www.moltbook.com/) (2026-01-30)
+- [Stargaze: SpaceX's Space Situational Awareness System](https://starlink.com/updates/stargaze) (2026-01-30)
+- [The Importance of Diversity](https://geohot.github.io//blog/jekyll/update/2026/01/27/the-importance-of-diversity.html) (2026-01-30)
+- [Software is mostly all you need](https://softwarefordays.com/post/software-is-mostly-all-you-need/) (2026-01-29)
 
 </details>
 
@@ -86,34 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Wanna see a CSS magic trick?](https://stackoverflow.blog/2026/01/30/wanna-see-a-css-magic-trick/) (2026-01-30)
 - [Scaling enterprise AI: lessons in governance and operating models from IBM](https://stackoverflow.blog/2026/01/29/scaling-enterprise-ai-lessons-in-governance-and-operating-models-from-ibm/) (2026-01-29)
 - [Are you learning with AI? We want to know about it!](https://stackoverflow.blog/2026/01/29/are-you-learning-with-ai-we-want-to-know-about-it/) (2026-01-29)
 - [Are bugs and incidents inevitable with AI coding agents?](https://stackoverflow.blog/2026/01/28/are-bugs-and-incidents-inevitable-with-ai-coding-agents/) (2026-01-28)
 - [Spy vs spy at scale](https://stackoverflow.blog/2026/01/27/spy-vs-spy-at-scale/) (2026-01-27)
-- [Stack Gives Back 2025!](https://stackoverflow.blog/2026/01/26/stack-gives-back-2025/) (2026-01-26)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How to deploy scalable web apps with Azure App service](https://dev.to/ojosamuel129/how-to-deploy-scalable-web-apps-with-azure-app-service-3e1o) (2026-01-30)
-- [Analytics vs Raw Data](https://dev.to/khaled_01/analytics-vs-raw-data-2b6e) (2026-01-30)
-- [Your MacBook is Now a Pharmacist: Building a Private, Offline AI Assistant with Llama 3 and DuckDB](https://dev.to/wellallytech/your-macbook-is-now-a-pharmacist-building-a-private-offline-ai-assistant-with-llama-3-and-duckdb-3mdi) (2026-01-30)
-- [Why Are Western Brands Everywhere?](https://dev.to/devunionx/why-are-western-brands-everywhere-48hf) (2026-01-30)
-- [resticprofile: Consolidating Exclusion Patterns, Generation Management, and Scheduling in a Single YAML File](https://dev.to/tumf/resticprofile-consolidating-exclusion-patterns-generation-management-and-scheduling-in-a-single-1d2k) (2026-01-30)
+- [Singleton vs Non-Singleton in JavaScript: When and Why to Use Each](https://dev.to/dash_suvankarr_/singleton-vs-non-singleton-in-javascript-when-and-why-to-use-each-3f6b) (2026-01-30)
+- [Next.js 15 + Supabase: I Accidentally Blew Past My Quota by 1000% (and How “Local‑First” Saved It)](https://dev.to/yitao/nextjs-15-supabase-i-accidentally-blew-past-my-quota-by-1000-and-how-local-first-saved-it-1leh) (2026-01-30)
+- [What Data You Actually Need to Train Container Damage Detection Models](https://dev.to/intechcreativesservices/what-data-you-actually-need-to-train-container-damage-detection-models-1m13) (2026-01-30)
+- [Gemini versus Gemma: Still Confused?](https://dev.to/googleai/gemini-versus-gemma-still-confused-1dnd) (2026-01-30)
+- [My Futuristic Portfolio!!](https://dev.to/tmott13/my-futuristic-portfolio-d71) (2026-01-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Data Structure and Algorithms IN C: Linear List](https://primerpy.medium.com/data-structure-and-algorithms-in-c-linear-list-dbe9582b68c8?source=rss------programming-5) (2026-01-30)
-- [Independence Is Mostly About Tolerating Silence](https://medium.com/@neonmaxima/independence-is-mostly-about-tolerating-silence-36512048ac85?source=rss------programming-5) (2026-01-30)
-- [Top 5 Programming Languages for 2026 (Based on Real Work, Not Trends)](https://medium.com/@sauravsinghsisodiya/top-5-programming-languages-for-2026-based-on-real-work-not-hype-e7fcecc12149?source=rss------programming-5) (2026-01-30)
-- [How to Start Learning Data Science in 2026 (Part 3):](https://medium.com/@uzmasheikh9020/how-to-start-learning-data-science-in-2026-part-3-3efef2b3e570?source=rss------programming-5) (2026-01-30)
-- [AI Agents
-Not a trend… a real shift in how we build AI systems](https://medium.com/@AISolutionsHub/ai-agents-not-a-trend-a-real-shift-in-how-we-build-ai-systems-633385aa2f24?source=rss------programming-5) (2026-01-30)
+- [5 Python Techniques I Wish I Knew Before My First Real Project](https://python.plainenglish.io/5-python-techniques-i-wish-i-knew-before-my-first-real-project-e02fdd8781a5?source=rss------programming-5) (2026-01-30)
+- [How Automation Is Changing Jobs Faster Than We Realize](https://python.plainenglish.io/how-automation-is-changing-jobs-faster-than-we-realize-4da6765651e2?source=rss------programming-5) (2026-01-30)
+- [How Programmers Actually Survive the AI Era](https://aiforgrowth.medium.com/how-programmers-actually-survive-the-ai-era-a4cb9e26bf9d?source=rss------programming-5) (2026-01-30)
+- [Next.js Functions: generateStaticParams with Examples Explanation](https://medium.com/@fatima02/next-js-functions-generatestaticparams-with-examples-explanation-811dfb30b7aa?source=rss------programming-5) (2026-01-30)
+- [Chapter: The Year She Changed the Tools](https://medium.com/@safwanasherinkm/chapter-the-year-she-changed-the-tools-243f0630c509?source=rss------programming-5) (2026-01-30)
 
 </details>
 
@@ -131,11 +130,11 @@ Not a trend… a real shift in how we build AI systems](https://medium.com/@AISo
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
+- [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
 - [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
 - [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
 - [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
-- [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
-- [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
 
 </details>
 
