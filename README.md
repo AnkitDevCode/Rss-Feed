@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Waymo robotaxis are now giving rides to and from San Francisco International Airport](https://techcrunch.com/2026/01/29/waymo-sfo-airport-robotaxis/) (2026-01-29)
-- [I built marshmallow castles in Google’s new AI world generator](https://techcrunch.com/2026/01/29/i-built-marshmallow-castles-in-googles-new-ai-world-generator-project-genie/) (2026-01-29)
-- [OpenAI’s Sora app is struggling after its stellar launch](https://techcrunch.com/2026/01/29/openais-sora-app-is-struggling-after-its-stellar-launch/) (2026-01-29)
-- [Music publishers sue Anthropic for $3B over ‘flagrant piracy’ of 20,000 works](https://techcrunch.com/2026/01/29/music-publishers-sue-anthropic-for-3b-over-flagrant-piracy-of-20000-works/) (2026-01-29)
-- [India is teaching Google how AI in education can scale](https://techcrunch.com/2026/01/29/india-is-teaching-google-how-ai-in-education-can-scale/) (2026-01-29)
+- [How Sequoia-backed Ethos reached the public market while rivals fell short](https://techcrunch.com/2026/01/29/how-sequoia-backed-ethos-reached-the-public-market-while-rivals-fell-short/) (2026-01-30)
+- [The iPhone just had its best quarter ever](https://techcrunch.com/2026/01/29/the-iphone-just-had-its-best-quarter-ever/) (2026-01-29)
+- [Guys, I don’t think Tim Cook knows how to monetize AI](https://techcrunch.com/2026/01/29/guys-i-dont-think-tim-cook-knows-how-to-monetize-ai/) (2026-01-29)
+- [Elon Musk’s SpaceX, Tesla, and xAI in talks to merge, according to reports](https://techcrunch.com/2026/01/29/elon-musk-spacex-tesla-xai-merger-talks-ipo-reuters/) (2026-01-29)
+- [Amazon is reportedly in talks to invest $50B in OpenAI](https://techcrunch.com/2026/01/29/amazon-is-reportedly-in-talks-to-invest-50-billion-in-openai/) (2026-01-29)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [AI's Impact on Engineering Jobs May Be Different Than Expected](https://semiengineering.com/ais-impact-on-engineering-jobs-may-be-different-than-initial-projections/) (2026-01-29)
-- [Project Genie: Interactive worlds generated in real-time](https://labs.google/projectgenie) (2026-01-29)
-- [Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/) (2026-01-29)
-- [Reflex (YC W23) Senior Software Engineer Infra](https://www.ycombinator.com/companies/reflex/jobs/Jcwrz7A-lead-software-engineer-infra) (2026-01-29)
-- [Mozilla is building an AI 'rebel alliance' to take on OpenAI, Anthropic](https://www.cnbc.com/2026/01/27/mozilla-building-an-ai-rebel-alliance-to-take-on-openai-anthropic-.html) (2026-01-29)
+- [What the Success of Coding Agents Teaches Us about AI Systems in General](https://softwarefordays.com/post/software-is-mostly-all-you-need/) (2026-01-29)
+- [Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer](https://grid.space/stem/) (2026-01-29)
+- [Cutting Up Curved Things (With Math)](https://campedersen.com/tessellation) (2026-01-29)
+- [The WiFi only works when it's raining (2024)](https://predr.ag/blog/wifi-only-works-when-its-raining/) (2026-01-29)
+- [The Hallucination Defense](https://niyikiza.com/posts/hallucination-defense/) (2026-01-29)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Spotify&#8217;s new group chats share music with everyone in your circle](https://www.theverge.com/news/870288/spotify-group-chats-direct-messaging-expansion) (2026-01-29)
-- [Half of developers think gen AI is bad for the gaming industry](https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey) (2026-01-29)
-- [Google’s AI helped me make bad Nintendo knockoffs](https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on) (2026-01-29)
-- [Microsoft is working to rebuild trust in Windows](https://www.theverge.com/tech/870045/microsoft-windows-11-issues-rebuilding-trust-notepad) (2026-01-29)
-- [Waymo is finally starting passenger trips at SFO — but not to the terminals](https://www.theverge.com/news/870102/waymo-sfo-passenger-trip-approval-airport) (2026-01-29)
+- [It’s a new heyday for gas thanks to data centers](https://www.theverge.com/news/870422/data-center-ai-gas-power-surge) (2026-01-29)
+- [Apple just had a record-breaking iPhone quarter](https://www.theverge.com/news/870319/apple-iphone-best-revenue-ai-q1-2026) (2026-01-29)
+- [The weirdest headphones at CES will launch on Kickstarter next month](https://www.theverge.com/news/870416/tdm-neo-wireless-headphones-bluetooth-speaker-kickstarter-february) (2026-01-29)
+- [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone) (2026-01-29)
+- [Elon Musk might merge SpaceX with Tesla or xAI](https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger) (2026-01-29)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Does Anthropic believe its AI is conscious, or is that just what it wants Claude to think?](https://arstechnica.com/information-technology/2026/01/does-anthropic-believe-its-ai-is-conscious-or-is-that-just-what-it-wants-claude-to-think/) (2026-01-29)
-- [Do you have ideas about how to improve America's space program?](https://arstechnica.com/space/2026/01/do-you-have-ideas-about-how-to-improve-americas-space-program/) (2026-01-29)
-- [Tesla kills Models S and X to build humanoid robots instead](https://arstechnica.com/cars/2026/01/tesla-kills-models-s-and-x-to-build-humanoid-robots-instead/) (2026-01-29)
-- [States want to tax fossil fuel companies to create climate change superfunds](https://arstechnica.com/tech-policy/2026/01/states-want-to-charge-fossil-fuel-companies-for-climate-change-superfunds/) (2026-01-29)
-- [Early Universe's supermassive black holes grew in cocoons like butterflies](https://arstechnica.com/science/2026/01/early-universes-supermassive-black-holes-grew-in-cocoons-like-butterflies/) (2026-01-29)
+- [Having that high-deductible health plan might kill you, literally](https://arstechnica.com/health/2026/01/having-that-high-deductible-health-plan-might-kill-you-literally/) (2026-01-29)
+- [US spy satellite agency declassifies high-flying Cold War listening post](https://arstechnica.com/space/2026/01/us-spy-satellite-agency-declassifies-high-flying-cold-war-listening-post/) (2026-01-29)
+- [People complaining about Windows 11 hasn't stopped it from hitting 1 billion users](https://arstechnica.com/gadgets/2026/01/windows-11-has-hit-1-billion-users-just-a-hair-faster-than-windows-10-did/) (2026-01-29)
+- [How often do AI chatbots lead users down a harmful path?](https://arstechnica.com/ai/2026/01/how-often-do-ai-chatbots-lead-users-down-a-harmful-path/) (2026-01-29)
+- [Google Project Genie lets you create interactive worlds from a photo or prompt](https://arstechnica.com/google/2026/01/google-project-genie-lets-you-create-interactive-worlds-from-a-photo-or-prompt/) (2026-01-29)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The AI Hype Index: Grok makes porn, and Claude Code nails your job](https://www.technologyreview.com/2026/01/29/1131787/the-ai-hype-index-grok-makes-porn-claude-code-nails-your-job/) (2026-01-29)
+- [DHS is using Google and Adobe AI to make videos](https://www.technologyreview.com/2026/01/29/1131938/dhs-is-using-google-and-adobe-ai-to-make-videos/) (2026-01-29)
 - [The Download: inside the Vitalism movement, and why AI’s “memory” is a privacy problem](https://www.technologyreview.com/2026/01/29/1131925/the-download-inside-the-vitalism-movement-and-why-ais-memory-is-a-privacy-problem/) (2026-01-29)
 - [How the grid can ride out winter storms](https://www.technologyreview.com/2026/01/29/1131863/grid-winter-storms/) (2026-01-29)
 - [Meet the Vitalists: the hardcore longevity enthusiasts who believe death is “wrong”](https://www.technologyreview.com/2026/01/29/1131815/vitalism-longevity-enthusiasts-influence/) (2026-01-29)
-- [Roundtables: Why AI Companies Are Betting on Next-Gen Nuclear](https://www.technologyreview.com/2026/01/28/1131340/roundtables-why-ai-companies-are-betting-on-next-gen-nuclear/) (2026-01-28)
-- [What AI “remembers” about you is privacy’s next frontier](https://www.technologyreview.com/2026/01/28/1131835/what-ai-remembers-about-you-is-privacys-next-frontier/) (2026-01-28)
 
 </details>
 
@@ -86,33 +86,34 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Scaling enterprise AI: lessons in governance and operating models from IBM](https://stackoverflow.blog/2026/01/29/scaling-enterprise-ai-lessons-in-governance-and-operating-models-from-ibm/) (2026-01-29)
 - [Are you learning with AI? We want to know about it!](https://stackoverflow.blog/2026/01/29/are-you-learning-with-ai-we-want-to-know-about-it/) (2026-01-29)
 - [Are bugs and incidents inevitable with AI coding agents?](https://stackoverflow.blog/2026/01/28/are-bugs-and-incidents-inevitable-with-ai-coding-agents/) (2026-01-28)
 - [Spy vs spy at scale](https://stackoverflow.blog/2026/01/27/spy-vs-spy-at-scale/) (2026-01-27)
 - [Stack Gives Back 2025!](https://stackoverflow.blog/2026/01/26/stack-gives-back-2025/) (2026-01-26)
-- [AI can 10x developers...in creating tech debt](https://stackoverflow.blog/2026/01/23/ai-can-10x-developers-in-creating-tech-debt/) (2026-01-23)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Subagents: How Claude Delegates Like Santa](https://dev.to/rajeshroyal/subagents-how-claude-delegates-like-santa-gg3) (2026-01-29)
-- [If Your Code Works on the First Try, There’s a Massive Mistake Somewhere](https://dev.to/jaskirat_singh/if-your-code-works-on-the-first-try-theres-a-massive-mistake-somewhere-1h8o) (2026-01-29)
-- [A YouTuber Misunderstood My Product in Seconds and It Exposed a Serious UX Failure](https://dev.to/mohammad_salman_mallick/a-youtuber-misunderstood-my-product-in-seconds-and-it-exposed-a-serious-ux-failure-45b7) (2026-01-29)
-- [React Hook Form with Zod: Complete Guide for 2026](https://dev.to/marufrahmanlive/react-hook-form-with-zod-complete-guide-for-2026-1em1) (2026-01-29)
-- [Part 4: Advanced Strategies for High Traffic](https://dev.to/jonghwayoo03_dev/extra-advanced-strategies-for-high-traffic-585m) (2026-01-29)
+- [How to deploy scalable web apps with Azure App service](https://dev.to/ojosamuel129/how-to-deploy-scalable-web-apps-with-azure-app-service-3e1o) (2026-01-30)
+- [Analytics vs Raw Data](https://dev.to/khaled_01/analytics-vs-raw-data-2b6e) (2026-01-30)
+- [Your MacBook is Now a Pharmacist: Building a Private, Offline AI Assistant with Llama 3 and DuckDB](https://dev.to/wellallytech/your-macbook-is-now-a-pharmacist-building-a-private-offline-ai-assistant-with-llama-3-and-duckdb-3mdi) (2026-01-30)
+- [Why Are Western Brands Everywhere?](https://dev.to/devunionx/why-are-western-brands-everywhere-48hf) (2026-01-30)
+- [resticprofile: Consolidating Exclusion Patterns, Generation Management, and Scheduling in a Single YAML File](https://dev.to/tumf/resticprofile-consolidating-exclusion-patterns-generation-management-and-scheduling-in-a-single-1d2k) (2026-01-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Stop Fighting with 100vh on iOS — Meet Viewportify](https://medium.com/@chakinalasreenath/stop-fighting-with-100vh-on-ios-meet-viewportify-8690c47d6192?source=rss------programming-5) (2026-01-29)
-- [Trading Signal Series: 4# How to Run a Daily Signal Report (Automation) — Python Solution](https://medium.com/activated-thinker/trading-signal-series-4-how-to-run-a-daily-signal-report-automation-python-solution-28c086aa51a2?source=rss------programming-5) (2026-01-29)
-- [Dynamic Performance Views](https://medium.com/@pranavsb699/dynamic-performance-views-0ea16b61b7e3?source=rss------programming-5) (2026-01-29)
-- [Django for Beginners: The Only Guide You Need](https://medium.com/activated-thinker/django-for-beginners-the-only-guide-you-need-5a50c45a4fc5?source=rss------programming-5) (2026-01-29)
-- [How To Teach AI Habits — And Stop Repeating Yourself](https://medium.com/@matbanik/how-to-teach-ai-habits-and-stop-repeating-yourself-655cbd98f5c0?source=rss------programming-5) (2026-01-29)
+- [Data Structure and Algorithms IN C: Linear List](https://primerpy.medium.com/data-structure-and-algorithms-in-c-linear-list-dbe9582b68c8?source=rss------programming-5) (2026-01-30)
+- [Independence Is Mostly About Tolerating Silence](https://medium.com/@neonmaxima/independence-is-mostly-about-tolerating-silence-36512048ac85?source=rss------programming-5) (2026-01-30)
+- [Top 5 Programming Languages for 2026 (Based on Real Work, Not Trends)](https://medium.com/@sauravsinghsisodiya/top-5-programming-languages-for-2026-based-on-real-work-not-hype-e7fcecc12149?source=rss------programming-5) (2026-01-30)
+- [How to Start Learning Data Science in 2026 (Part 3):](https://medium.com/@uzmasheikh9020/how-to-start-learning-data-science-in-2026-part-3-3efef2b3e570?source=rss------programming-5) (2026-01-30)
+- [AI Agents
+Not a trend… a real shift in how we build AI systems](https://medium.com/@AISolutionsHub/ai-agents-not-a-trend-a-real-shift-in-how-we-build-ai-systems-633385aa2f24?source=rss------programming-5) (2026-01-30)
 
 </details>
 
@@ -130,33 +131,33 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
-- [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
 - [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
 - [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
 - [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
+- [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
+- [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Mercedes-Benz Unveils New S-Class Built on NVIDIA DRIVE AV, Which Enables an L4-Ready Architecture](https://blogs.nvidia.com/blog/mercedes-benz-l4-s-class-drive-av-platform/) (2026-01-29)
 - [Into the Omniverse: Physical AI Open Models and Frameworks Advance Robots and Autonomous Systems](https://blogs.nvidia.com/blog/physical-ai-open-models-robot-autonomous-systems-omniverse/) (2026-01-29)
 - [GeForce NOW Brings GeForce RTX Gaming to Linux PCs](https://blogs.nvidia.com/blog/geforce-now-thursday-linux/) (2026-01-29)
 - [Accelerating Science: A Blueprint for a Renewed National Quantum Initiative](https://blogs.nvidia.com/blog/national-quantum-initiative/) (2026-01-28)
 - [NVIDIA Launches Earth-2 Family of Open Models — the World’s First Fully Open, Accelerated Set of Models and Tools for AI Weather](https://blogs.nvidia.com/blog/nvidia-earth-2-open-models/) (2026-01-26)
-- [NVIDIA DRIVE AV Raises the Bar for Vehicle Safety as Mercedes-Benz CLA Earns Top Euro NCAP Award](https://blogs.nvidia.com/blog/drive-av-mercedes-benz-cla-euro-ncap-safety-award/) (2026-01-22)
 
 </details>
 
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [Price updates for apps, In-App Purchases, and subscriptions](https://developer.apple.com/news/?id=gvnljl3f) (2026-01-29)
 - [Hello Developer: January 2026](https://developer.apple.com/news/?id=zni5qkkl) (2026-01-06)
 - [Update on age requirements for apps distributed in Texas](https://developer.apple.com/news/?id=8jzbigf4) (2025-12-24)
 - [Changes to iOS in Japan](https://developer.apple.com/news/?id=074b3wzz) (2025-12-17)
 - [Updated Apple Developer Program License Agreement now available](https://developer.apple.com/news/?id=76371du6) (2025-12-17)
-- [New Requirements for Social Media Apps in Australia](https://developer.apple.com/news/?id=y1bckxf8) (2025-12-08)
 
 </details>
 
@@ -414,11 +415,11 @@ https://www.twilio.com/en-us/blog/developers/community/build-an-ai-video-analysi
 <details>
 <summary>🪐 PlanetScale Blog</summary>
 
+- [Introducing the PlanetScale MCP server](https://planetscale.com/blog/introducing-planetscale-mcp-server) (2026-01-29)
 - [Database Transactions](https://planetscale.com/blog/database-transactions) (2026-01-14)
 - [Automating our changelog with Cursor commands](https://planetscale.com/blog/automating-with-cursor-commands) (2026-01-07)
 - [Postgres 18 is now available](https://planetscale.com/blog/postgres-18-is-now-available) (2025-12-17)
 - [Using MotherDuck with PlanetScale](https://planetscale.com/blog/using-motherduck-with-planetscale) (2025-12-16)
-- [$50 PlanetScale Metal is GA for Postgres](https://planetscale.com/blog/50-dollar-planetscale-metal-is-ga-for-postgres) (2025-12-15)
 
 </details>
 
@@ -480,11 +481,11 @@ https://www.twilio.com/en-us/blog/developers/community/build-an-ai-video-analysi
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
+- [Streamline Data 360 Onboarding with API-Driven Automation](https://developer.salesforce.com/blogs/2026/01/streamline-data-360-onboarding-with-api-driven-automation.html) (2026-01-29)
 - [Create Faster, Lighter Experience Cloud Sites with Omnistudio Components and LWR](https://developer.salesforce.com/blogs/2026/01/create-faster-lighter-experience-cloud-sites-with-omnistudio-components-and-lwr.html) (2026-01-27)
 - [The Salesforce Developer’s Guide to the Spring ’26 Release](https://developer.salesforce.com/blogs/2026/01/developers-guide-to-the-spring-26-release.html) (2026-01-22)
 - [Agentforce ログの見方：LLM プロンプトをレポートで可視化する方法](https://developer.salesforce.com/blogs/2026/01/jp-create-agentforce-llm-log-with-report.html) (2026-01-21)
 - [Migrate from Aura to LWC with Agentforce Vibes](https://developer.salesforce.com/blogs/2026/01/migrate-from-aura-to-lwc-with-agentforce-vibes.html) (2026-01-14)
-- [Accelerate Flexcard Development with Omnistudio MCP](https://developer.salesforce.com/blogs/2026/01/accelerate-flexcard-development-with-omnistudio-mcp.html) (2026-01-07)
 
 </details>
 
@@ -547,10 +548,10 @@ https://www.twilio.com/en-us/blog/developers/community/build-an-ai-video-analysi
 <summary>🤗 Hugging Face</summary>
 
 - [Introducing NVIDIA Cosmos Policy for Advanced Robot Control](https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control) (2026-01-29)
+- [Introducing Daggr: Chain apps programmatically, inspect visually](https://huggingface.co/blog/daggr) (2026-01-29)
 - [We Got Claude to Build CUDA Kernels and teach open models!](https://huggingface.co/blog/upskill) (2026-01-28)
 - [Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek ](https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2) (2026-01-27)
 - [Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs](https://huggingface.co/blog/tiiuae/emirati-benchmarks) (2026-01-27)
-- [Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective](https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl) (2026-01-27)
 
 </details>
 
