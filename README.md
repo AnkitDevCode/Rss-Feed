@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Dank Case for Scrolling Window Managers](https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/) (2026-01-30)
-- [Moltbook](https://www.moltbook.com/) (2026-01-30)
-- [Stargaze: SpaceX's Space Situational Awareness System](https://starlink.com/updates/stargaze) (2026-01-30)
-- [The Importance of Diversity](https://geohot.github.io//blog/jekyll/update/2026/01/27/the-importance-of-diversity.html) (2026-01-30)
-- [Software is mostly all you need](https://softwarefordays.com/post/software-is-mostly-all-you-need/) (2026-01-29)
+- [Pangolin (YC S25) is hiring software engineers (open-source, Go, networking)](https://docs.pangolin.net/careers/join-us) (2026-01-30)
+- [Show HN: Cicada – a scripting language that integrates with C](https://github.com/heltilda/cicada) (2026-01-30)
+- [BoldVoice (YC S21) Is Hiring Fullstack and Machine Learning Engineers](https://boldvoice.notion.site/careers-page?p=2e871a9bf729806c81f6e47f32e32622&pm=s) (2026-01-30)
+- [Track Your Routine – Open-source app for task management](https://github.com/MSF01/TYR) (2026-01-30)
+- [Tesla's Robotaxi data confirms crash rate 3x worse than humans even with monitor](https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/) (2026-01-30)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The small film that answers the big questions](https://www.theverge.com/entertainment/870138/hlynur-palmason-the-love-that-remains-interview) (2026-01-30)
+- [Microsoft is experimenting with a top menu bar for Windows 11](https://www.theverge.com/news/870663/microsoft-windows-11-top-menu-bar-powertoy-experiment) (2026-01-30)
+- [One of the biggest manga piracy networks has been shut down](https://www.theverge.com/tech/870643/bato-manga-piracy-site-shut-down) (2026-01-30)
 - [It’s a new heyday for gas thanks to data centers](https://www.theverge.com/news/870422/data-center-ai-gas-power-surge) (2026-01-29)
 - [Apple just had a record-breaking iPhone quarter](https://www.theverge.com/news/870319/apple-iphone-best-revenue-ai-q1-2026) (2026-01-29)
-- [The weirdest headphones at CES will launch on Kickstarter next month](https://www.theverge.com/news/870416/tdm-neo-wireless-headphones-bluetooth-speaker-kickstarter-february) (2026-01-29)
-- [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone) (2026-01-29)
-- [Elon Musk might merge SpaceX with Tesla or xAI](https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger) (2026-01-29)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [How the sometimes-weird world of lifespan extension is gaining influence](https://www.technologyreview.com/2026/01/30/1131933/weird-world-lifespan-extension-gaining-influence-oneill-arpa-h/) (2026-01-30)
 - [The AI Hype Index: Grok makes porn, and Claude Code nails your job](https://www.technologyreview.com/2026/01/29/1131787/the-ai-hype-index-grok-makes-porn-claude-code-nails-your-job/) (2026-01-29)
 - [DHS is using Google and Adobe AI to make videos](https://www.technologyreview.com/2026/01/29/1131938/dhs-is-using-google-and-adobe-ai-to-make-videos/) (2026-01-29)
 - [The Download: inside the Vitalism movement, and why AI’s “memory” is a privacy problem](https://www.technologyreview.com/2026/01/29/1131925/the-download-inside-the-vitalism-movement-and-why-ais-memory-is-a-privacy-problem/) (2026-01-29)
 - [How the grid can ride out winter storms](https://www.technologyreview.com/2026/01/29/1131863/grid-winter-storms/) (2026-01-29)
-- [Meet the Vitalists: the hardcore longevity enthusiasts who believe death is “wrong”](https://www.technologyreview.com/2026/01/29/1131815/vitalism-longevity-enthusiasts-influence/) (2026-01-29)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Singleton vs Non-Singleton in JavaScript: When and Why to Use Each](https://dev.to/dash_suvankarr_/singleton-vs-non-singleton-in-javascript-when-and-why-to-use-each-3f6b) (2026-01-30)
-- [Next.js 15 + Supabase: I Accidentally Blew Past My Quota by 1000% (and How “Local‑First” Saved It)](https://dev.to/yitao/nextjs-15-supabase-i-accidentally-blew-past-my-quota-by-1000-and-how-local-first-saved-it-1leh) (2026-01-30)
-- [What Data You Actually Need to Train Container Damage Detection Models](https://dev.to/intechcreativesservices/what-data-you-actually-need-to-train-container-damage-detection-models-1m13) (2026-01-30)
-- [Gemini versus Gemma: Still Confused?](https://dev.to/googleai/gemini-versus-gemma-still-confused-1dnd) (2026-01-30)
-- [My Futuristic Portfolio!!](https://dev.to/tmott13/my-futuristic-portfolio-d71) (2026-01-30)
+- ["Semantic Chaining" Bypasses Multimodal AI Safety Filters](https://dev.to/alessandro_pignati/semantic-chaining-bypasses-multimodal-ai-safety-filters-3kib) (2026-01-30)
+- [A CAPTCHA Bypass Technique: Audio Files](https://dev.to/calganaygun/a-captcha-bypass-technique-audio-files-315k) (2026-01-30)
+- [My Hands-On Journey with Git, GitHub & Real-World Team Workflows](https://dev.to/bagshraddha/my-hands-on-journey-with-git-github-real-world-team-workflows-3fli) (2026-01-30)
+- [How a Browser Works: A Beginner-Friendly Guide to Browser Internals](https://dev.to/kunal_dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals-akl) (2026-01-30)
+- [My Portfolio – New Year New You Challenge (Google Cloud Run)](https://dev.to/divya_selvaraj_357bb49ff3/my-portfolio-new-year-new-you-challenge-google-cloud-run-knp) (2026-01-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [5 Python Techniques I Wish I Knew Before My First Real Project](https://python.plainenglish.io/5-python-techniques-i-wish-i-knew-before-my-first-real-project-e02fdd8781a5?source=rss------programming-5) (2026-01-30)
-- [How Automation Is Changing Jobs Faster Than We Realize](https://python.plainenglish.io/how-automation-is-changing-jobs-faster-than-we-realize-4da6765651e2?source=rss------programming-5) (2026-01-30)
-- [How Programmers Actually Survive the AI Era](https://aiforgrowth.medium.com/how-programmers-actually-survive-the-ai-era-a4cb9e26bf9d?source=rss------programming-5) (2026-01-30)
-- [Next.js Functions: generateStaticParams with Examples Explanation](https://medium.com/@fatima02/next-js-functions-generatestaticparams-with-examples-explanation-811dfb30b7aa?source=rss------programming-5) (2026-01-30)
-- [Chapter: The Year She Changed the Tools](https://medium.com/@safwanasherinkm/chapter-the-year-she-changed-the-tools-243f0630c509?source=rss------programming-5) (2026-01-30)
+- [Redis Explained Simply: Why It’s So Fast and Where It Actually Fits](https://blog.stackademic.com/redis-explained-simply-why-its-so-fast-and-where-it-actually-fits-3b2f6db0235b?source=rss------programming-5) (2026-01-30)
+- [Most Websites Are Failing Millions of Users — Here’s Why Web Accessibility Matters Now](https://javascript.plainenglish.io/most-websites-are-failing-millions-of-users-heres-why-web-accessibility-matters-now-cb9f0c4d95f2?source=rss------programming-5) (2026-01-30)
+- [ Learning Programming & AI/ML the Simple Way — My Blog for Beginners](https://codewithayush14.medium.com/learning-programming-ai-ml-the-simple-way-my-blog-for-beginners-3e2a82c8d7af?source=rss------programming-5) (2026-01-30)
+- [Design Patterns 101: Intro to Design Patterns](https://medium.com/@juannegrin/design-patterns-101-intro-to-design-patterns-b2404d852436?source=rss------programming-5) (2026-01-30)
+- [Code Solves Problems, but Clarity Builds Businesses](https://medium.com/design-bootcamp/code-solves-problems-but-clarity-builds-businesses-8e4fe720e3ec?source=rss------programming-5) (2026-01-30)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
 - [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
 - [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
 - [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
 - [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
+- [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
 
 </details>
 
@@ -557,33 +557,33 @@ https://www.twilio.com/en-us/blog/developers/community/build-an-ai-video-analysi
 <details>
 <summary>🤖 AI News</summary>
 
+- [AI use surges at Travelers as call centre roles reduce](https://www.artificialintelligence-news.com/news/travelers-ai-in-contact-centres-two-stage-innovation-strategy/) (2026-01-30)
+- [PepsiCo is using AI to rethink how factories are designed and updated](https://www.artificialintelligence-news.com/news/pepsico-is-using-ai-to-rethink-how-factories-are-designed-and-updated/) (2026-01-30)
+- [China’s hyperscalers bet billions on agentic AI as commerce becomes the new battleground](https://www.artificialintelligence-news.com/news/china-hyperscalers-agentic-ai-commerce-battleground/) (2026-01-30)
 - [Insurers betting big on AI: Accenture](https://www.artificialintelligence-news.com/news/accenture-report-on-ai-in-insurance-sector/) (2026-01-29)
 - [Deloitte sounds alarm as AI agent deployment outruns safety frameworks](https://www.artificialintelligence-news.com/news/deloitte-agentic-ai-guidelines-published/) (2026-01-28)
-- [Franny Hsiao, Salesforce: Scaling enterprise AI](https://www.artificialintelligence-news.com/news/franny-hsiao-salesforce-scaling-enterprise-ai/) (2026-01-28)
-- [Masumi Network: How AI-blockchain fusion adds trust to burgeoning agent economy](https://www.artificialintelligence-news.com/news/masumi-network-how-ai-blockchain-fusion-adds-trust-to-burgeoning-agent-economy/) (2026-01-28)
-- [White House compares industrial revolution with AI era](https://www.artificialintelligence-news.com/news/white-house-predicts-ai-growth-with-comparison-industrial-and-artificial-intelligence-revolutions/) (2026-01-28)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Multi-Attribute Decision Matrices, Done Right](https://towardsdatascience.com/multi-attribute-decision-matrices-done-right/) (2026-01-30)
 - [Optimizing Vector Search: Why You Should Flatten Structured Data ](https://towardsdatascience.com/optimizing-vector-search-why-you-should-flatten-structured-data/) (2026-01-29)
 - [RoPE, Clearly Explained](https://towardsdatascience.com/rope-clearly-explained/) (2026-01-29)
 - [The Unbearable Lightness of Coding](https://towardsdatascience.com/the-unbearable-lightness-of-coding/) (2026-01-29)
 - [Randomization Works in Experiments, Even Without Balance](https://towardsdatascience.com/randomization-works-in-experiments-even-without-balance/) (2026-01-29)
-- [Federated Learning, Part 2: Implementation with the Flower Framework 🌼](https://towardsdatascience.com/federated-learning-part-2-implementation-with-the-flower-framework-%f0%9f%8c%bc/) (2026-01-28)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [5 Gemini Prompts for JEE Preparation](https://www.analyticsvidhya.com/blog/2026/01/jee-preparation-with-gemini-top-prompts/) (2026-01-30)
+- [20 LLM Questions You’ll See Everywhere in 2026](https://www.analyticsvidhya.com/blog/2026/01/llm-interview-questions-and-answers/) (2026-01-30)
+- [5 Biggest Hackathons of 2026 That You Can’t Miss](https://www.analyticsvidhya.com/blog/2026/01/top-hackathons-to-participate-in/) (2026-01-30)
 - [Make PPTs, PDFs, and Excel Sheets in Seconds With Kimi K2.5](https://www.analyticsvidhya.com/blog/2026/01/make-ppts-pdfs-and-excel-sheets-in-seconds-with-kimi-k2-5/) (2026-01-29)
 - [16 NotebookLM Prompts Every Teacher Should Be Using in 2026](https://www.analyticsvidhya.com/blog/2026/01/notebooklm-for-teachers/) (2026-01-29)
-- [DeepSeek OCR 2: AI That Reads Documents Like Humans](https://www.analyticsvidhya.com/blog/2026/01/deepseek-ocr-2/) (2026-01-28)
-- [Top 10 Python Libraries for AI and Machine Learning](https://www.analyticsvidhya.com/blog/2026/01/python-libraries-for-ai-and-machine-learning/) (2026-01-28)
-- [I Tested Clawdbot and Built My Own Local AI Agent](https://www.analyticsvidhya.com/blog/2026/01/clawdbot-guide/) (2026-01-27)
 
 </details>
 
