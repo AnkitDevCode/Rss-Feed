@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Anthropic brings agentic plug-ins to Cowork](https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/) (2026-01-30)
-- [Bluesky issues its first transparency report, noting rise in user reports and legal demands](https://techcrunch.com/2026/01/30/bluesky-issues-its-first-transparency-report-noting-rise-in-user-reports-and-legal-demands/) (2026-01-30)
-- [Reid Hoffman urges Silicon Valley leaders to stop bending the knee to President Trump](https://techcrunch.com/2026/01/30/reid-hoffman-urges-silicon-valley-leaders-to-stop-bending-the-knee-to-president-trump/) (2026-01-30)
-- [Russian hackers breached Polish power grid thanks to bad security, report says](https://techcrunch.com/2026/01/30/russian-hackers-breached-polish-power-grid-thanks-to-bad-security-report-says/) (2026-01-30)
-- [Last 24 hours to grab your plus-one pass at 50% off to TechCrunch Disrupt 2026](https://techcrunch.com/2026/01/30/last-24-hours-to-grab-your-1-pass-at-50-off-to-techcrunch-disrupt-2026/) (2026-01-30)
+- [a16z partner Kofi Ampadu to leave firm after TxO program pause](https://techcrunch.com/2026/01/30/a16z-partner-kofi-ampadu-to-leave-firm-after-txo-program-pause/) (2026-01-31)
+- [Physical Intelligence, Stripe veteran Lachy Groom’s latest bet, is building Silicon Valley’s buzziest robot brains](https://techcrunch.com/2026/01/30/physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains/) (2026-01-31)
+- [OnlyFans considering selling majority stake to Architect Capital](https://techcrunch.com/2026/01/30/onlyfans-considering-selling-majority-stake-to-architect-capital/) (2026-01-30)
+- [OpenClaw’s AI assistants are now building their own social network](https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/) (2026-01-30)
+- [Informant told FBI that Jeffrey Epstein had a ‘personal hacker’](https://techcrunch.com/2026/01/30/informant-told-fbi-that-jeffrey-epstein-had-a-personal-hacker/) (2026-01-30)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Amazon's Spending on 'Melania' Is a Barely Concealed Bribe](https://daringfireball.net/linked/2026/01/29/amazon-melania-spending) (2026-01-30)
-- [Microsoft Just Killed the "Cover for Me" Excuse: 365 Now Tracks You in Real-Time](https://ztechtalk.com/microsoft-teams) (2026-01-30)
-- [Vcad: Free BRep CAD in the Browser](https://vcad.io) (2026-01-30)
-- [Detecting Dementia Using Lexical Analysis: Terry Pratchett's Discworld](https://www.mdpi.com/2076-3425/16/1/94) (2026-01-30)
-- [Buttered Crumpet, a custom typeface for Wallace and Gromit](https://jamieclarketype.com/case-study/wallace-and-gromit-font/) (2026-01-30)
+- [Show HN: I trained a 9M speech model to fix my Mandarin tones](https://simedw.com/2026/01/31/ear-pronunication-via-ctc/) (2026-01-31)
+- [175K+ publicly-exposed Ollama AI instances discovered](https://www.techradar.com/pro/security/over-175-000-publicly-exposed-ollama-ai-servers-discovered-worldwide-so-fix-now) (2026-01-31)
+- [The $100B Megadeal Between OpenAI and Nvidia Is on Ice](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) (2026-01-31)
+- [Stonebraker on CAP theorem and Databases](https://perspectives.mvdirona.com/2010/04/stonebraker-on-cap-theorem-and-databases/) (2026-01-30)
+- [Show HN: I built an AI conversation partner to practice speaking languages](https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177) (2026-01-30)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Tim Cook is destroying his own legacy](https://www.theverge.com/podcast/870717/tim-cook-melania-minneapolis-tiktok-vergecast) (2026-01-30)
-- [ICE invades Minnesota and Minnesotans fight back](https://www.theverge.com/policy/870315/ice-invades-minnesota-and-minnesotans-fight-back) (2026-01-30)
-- [You can now use Nintendo’s wireless N64 controller with the Analogue 3D](https://www.theverge.com/news/870968/analogue-3d-n64-nintendo-switch-online-wireless-controller-software-update) (2026-01-30)
-- [This DIY kit turned my favorite mechanical keyboard into my favorite electrocapacitive keyboard](https://www.theverge.com/tech/868153/dynacap-diy-electrocapacitive-keyboard-hands-on) (2026-01-30)
-- [The best smart rings for tracking sleep and health](https://www.theverge.com/tech/647901/best-smart-rings) (2026-01-30)
+- [Jeffrey Epstein was permanently banned from Xbox Live](https://www.theverge.com/tech/871425/jeffrey-epstein-xbox-live-ban-microsoft-sex-offender) (2026-01-31)
+- [Peloton lays off 11 percent of its staff just a few months after launching its AI hardware](https://www.theverge.com/gadgets/871422/peloton-layoffs-cost-cutting-2026) (2026-01-30)
+- [Video game company stock prices dip after Google introduces an AI world-generation tool](https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity) (2026-01-30)
+- [Sonos’ Super Bowl sale knocks hundreds off its audio gear](https://www.theverge.com/gadgets/871054/sonos-super-bowl-deal-sale-era-beam-arc-ultra-sub) (2026-01-30)
+- [Fitbit users now have until May to migrate to a Google account](https://www.theverge.com/gadgets/871218/fitbit-account-migration-google-deadline-may-2026) (2026-01-30)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Animated iOS Splash Screens: The Illusion Apple Actually Allows](https://dev.to/voinkoder/animated-ios-splash-screens-the-illusion-apple-actually-allows-52ej) (2026-01-30)
-- [# Expo vs Bare React Native](https://dev.to/iamsaadmehmood/-expo-vs-bare-react-native-4ek0) (2026-01-30)
-- [Figma - Asosiy tushunchalar va tez boshlash qo‘llanmasi](https://dev.to/samandarhodiev/figma-asosiy-tushunchalar-va-tez-boshlash-qollanmasi-2668) (2026-01-30)
-- [Pager Lifecycle Functions: Pinning Pages, Running Transactions, and Making Them Stick in SQLite](https://dev.to/lovestaco/pager-lifecycle-functions-pinning-pages-running-transactions-and-making-them-stick-in-sqlite-3fh2) (2026-01-30)
-- [Saat Laptop Lama Menemukan Peran Barunya](https://dev.to/bangkah/saat-laptop-lama-menemukan-peran-barunya-3pha) (2026-01-30)
+- [Dev Portfolio](https://dev.to/lukepongadev/dev-portfolio-539a) (2026-01-31)
+- [Google's Gemini Gradient Design Draws Parallels with 1984 Macintosh](https://dev.to/alan_maulanaibrahim_e18c_8/googles-gemini-gradient-design-draws-parallels-with-1984-macintosh-cn4) (2026-01-31)
+- [Pose as Data: Building a Real-Time AI Physical Therapist with MediaPipe and GPT-4o](https://dev.to/beck_moulton/pose-as-data-building-a-real-time-ai-physical-therapist-with-mediapipe-and-gpt-4o-5ag5) (2026-01-31)
+- [Detecting Phishing Patterns with Docker on a Zero-Budget Setup](https://dev.to/mohammad_waseem_c31f3a26f/detecting-phishing-patterns-with-docker-on-a-zero-budget-setup-e62) (2026-01-31)
+- [Streamlining Authentication Flows in Microservices with JavaScript Automation](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-authentication-flows-in-microservices-with-javascript-automation-1meo) (2026-01-31)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [C++ vs. Python: The Ultimate Cage Match for Ruling the Robotics World](https://medium.com/@kshaluka2005/c-vs-python-the-ultimate-cage-match-for-ruling-the-robotics-world-560ecb3b6b7a?source=rss------programming-5) (2026-01-30)
-- [Qrypta: Pioneering the Post-Quantum Future in Crypto as Ethereum Accelerates Its Defenses Tech and…](https://medium.com/@Qryptaprotocol/qrypta-pioneering-the-post-quantum-future-in-crypto-as-ethereum-accelerates-its-defenses-tech-and-ab4a6c0b805c?source=rss------programming-5) (2026-01-30)
-- [I Didn’t Want an Aesthetic Portfolio](https://medium.com/@tahsinzidane/i-didnt-want-an-aesthetic-portfolio-7b48884bfa7e?source=rss------programming-5) (2026-01-30)
-- [Angular Didn’t Slow Us Down — Our Architecture Did](https://medium.com/@pmLearners/angular-didnt-slow-us-down-our-architecture-did-c539b17097f0?source=rss------programming-5) (2026-01-30)
-- [Job Scheduling at Scale: Temporal vs Airflow](https://medium.com/@coders.stop/job-scheduling-at-scale-temporal-vs-airflow-99a6c7b2b2cb?source=rss------programming-5) (2026-01-30)
+- [Stop Asking AI to Code. Start Asking It to Think.](https://medium.com/@aneja0512/stop-asking-ai-to-code-start-asking-it-to-think-33373d9ad31f?source=rss------programming-5) (2026-01-31)
+- [HTML for Absolute Beginners: Building the Foundation of Your Web Page](https://caksaji.medium.com/html-for-absolute-beginners-building-the-foundation-of-your-web-page-d67770f6b824?source=rss------programming-5) (2026-01-31)
+- [How to Use Suno AI to Create Professional-Quality Music](https://medium.com/@aimusiclab/how-to-use-suno-ai-to-create-professional-quality-music-bdaec3b406aa?source=rss------programming-5) (2026-01-31)
+- [The Python Refactor I Avoided for Months (And Why I’m Glad I Finally Did It)](https://python.plainenglish.io/the-python-refactor-i-avoided-for-months-and-why-im-glad-i-finally-did-it-8186527e1bd8?source=rss------programming-5) (2026-01-31)
+- [After 50 Production Incidents, I Found the Same 12 Patterns Breaking Everything](https://javascript.plainenglish.io/after-50-production-incidents-i-found-the-same-12-patterns-breaking-everything-1e19b06dada3?source=rss------programming-5) (2026-01-30)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
 - [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
 - [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
 - [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
 - [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
-- [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
 
 </details>
 
@@ -207,22 +207,22 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Docker Sandboxes: Run Claude Code and Other Coding Agents Unsupervised (but Safely)](https://www.docker.com/blog/docker-sandboxes-run-claude-code-and-other-coding-agents-unsupervised-but-safely/) (2026-01-30)
 - [Clawdbot with Docker Model Runner, a Private Personal AI Assistant](https://www.docker.com/blog/clawdbot-docker-model-runner-private-personal-ai/) (2026-01-26)
 - [Run Claude Code Locally with Docker Model Runner](https://www.docker.com/blog/run-claude-code-locally-docker-model-runner/) (2026-01-26)
 - [Making the Most of Your Docker Hardened Images Enterprise Trial – Part 3](https://www.docker.com/blog/making-the-most-of-your-docker-hardened-images-enterprise-trial-part-3/) (2026-01-25)
 - [Making the Most of Your Docker Hardened Images Enterprise Trial – Part 2](https://www.docker.com/blog/making-the-most-of-your-docker-hardened-images-enterprise-trial-part-2/) (2026-01-24)
-- [How to Automate Arm Migration with Docker MCP Toolkit, VS Code, and GitHub Copilot](https://www.docker.com/blog/automate-arm-migration-docker-mcp-copilot/) (2026-01-23)
 
 </details>
 
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [New Conversion from cgroup v1 CPU Shares to v2 CPU Weight](https://kubernetes.io/blog/2026/01/30/new-cgroup-v1-to-v2-cpu-conversion-formula/) (2026-01-30)
 - [Ingress NGINX: Statement from the Kubernetes Steering and Security Response Committees](https://kubernetes.io/blog/2026/01/29/ingress-nginx-statement/) (2026-01-29)
 - [Experimenting with Gateway API using kind](https://kubernetes.io/blog/2026/01/28/experimenting-gateway-api-with-kind/) (2026-01-28)
 - [Cluster API v1.12: Introducing In-place Updates and Chained Upgrades](https://kubernetes.io/blog/2026/01/27/cluster-api-v1-12-release/) (2026-01-27)
 - [Headlamp in 2025: Project Highlights](https://kubernetes.io/blog/2026/01/22/headlamp-in-2025-project-highlights/) (2026-01-22)
-- [Announcing the Checkpoint/Restore Working Group](https://kubernetes.io/blog/2026/01/21/introducing-checkpoint-restore-wg/) (2026-01-21)
 
 </details>
 
@@ -392,10 +392,10 @@ https://www.twilio.com/en-us/blog/company/bringing-sendgrid-and-segment-to-twili
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
-- [Scaling Identity: Automating Auth0 Configuration with the Auth0 Terraform Provider](https://auth0.com/blog/scaling-identity-foundation-terraform-auth0/) (2026-01-30)
 - [Auth0 B2B Billing: Should You Pick a Monthly or Annual Plan?](https://auth0.com/blog/auth0-b2b-billing-choosing-monthly-annual-plan/) (2026-01-30)
+- [Scaling Identity: Automating Auth0 Configuration with the Auth0 Terraform Provider](https://auth0.com/blog/scaling-identity-foundation-terraform-auth0/) (2026-01-30)
 - [Scaling Identity: Why You Need Auth0 Configuration Automation](https://auth0.com/blog/why-you-need-auth0-configuration-automation/) (2026-01-29)
-- [Securing Moltbot: A Developer's Checklist for AI Agent Security](https://auth0.com/blog/five-step-guide-securing-moltbot-ai-agent/) (2026-01-28)
+- [Securing OpenClaw: A Developer's Checklist for AI Agent Security](https://auth0.com/blog/five-step-guide-securing-moltbot-ai-agent/) (2026-01-28)
 - [FastAPI Best Practices](https://auth0.com/blog/fastapi-best-practices/) (2026-01-23)
 
 </details>
@@ -480,11 +480,11 @@ https://www.twilio.com/en-us/blog/company/bringing-sendgrid-and-segment-to-twili
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
-- [Streamline Data 360 Onboarding with API-Driven Automation](https://developer.salesforce.com/blogs/2026/01/streamline-data-360-onboarding-with-api-driven-automation.html) (2026-01-29)
 - [Create Faster, Lighter Experience Cloud Sites with Omnistudio Components and LWR](https://developer.salesforce.com/blogs/2026/01/create-faster-lighter-experience-cloud-sites-with-omnistudio-components-and-lwr.html) (2026-01-27)
 - [The Salesforce Developer’s Guide to the Spring ’26 Release](https://developer.salesforce.com/blogs/2026/01/developers-guide-to-the-spring-26-release.html) (2026-01-22)
 - [Agentforce ログの見方：LLM プロンプトをレポートで可視化する方法](https://developer.salesforce.com/blogs/2026/01/jp-create-agentforce-llm-log-with-report.html) (2026-01-21)
 - [Migrate from Aura to LWC with Agentforce Vibes](https://developer.salesforce.com/blogs/2026/01/migrate-from-aura-to-lwc-with-agentforce-vibes.html) (2026-01-14)
+- [Accelerate Flexcard Development with Omnistudio MCP](https://developer.salesforce.com/blogs/2026/01/accelerate-flexcard-development-with-omnistudio-mcp.html) (2026-01-07)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/company/bringing-sendgrid-and-segment-to-twili
 <details>
 <summary>💬 Slack API</summary>
 
-- [Assertive Communication: Definition, Tips, and Examples](https://slack.com/blog/collaboration/assertive-communication) (2026-01-23)
-- [Agentic Automation: What It Is and How It Works](https://slack.com/blog/productivity/agentic-automation-guide) (2026-01-16)
-- [Understanding Knowledge Retrieval and Why It’s Valuable to Businesses](https://slack.com/blog/collaboration/knowledge-retrieval) (2026-01-16)
-- [AI Task Automation: Benefits, Tools, and Use Cases](https://slack.com/blog/productivity/ai-task-automation-guide) (2026-01-16)
-- [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-01-13)
+- [How to Define Key Performance Indicators (KPIs): Types and Examples](https://slack.com/blog/productivity/how-to-define-key-performance-indicators-kpis-types-and-examples) (2026-01-30)
+- [From Guesswork to Growth: Five Steps to Effective Performance Monitoring](https://slack.com/blog/productivity/from-guesswork-to-growth-five-steps-to-effective-performance-monitoring) (2026-01-30)
+- [Slack Feature Drop: New Slack Features to Cut Through the Chill](https://slack.com/blog/news/feature-drop-jan26) (2026-01-30)
+- [Proactive AI Agents: Definition, Core Components, and Business Value](https://slack.com/blog/productivity/proactive-ai-agents-definition-core-components-and-business-value) (2026-01-30)
+- [Slackbot for Sales: Introducing Your AI-Powered Wingman](https://slack.com/blog/productivity/slackbot-for-sales) (2026-01-29)
 
 </details>
 
