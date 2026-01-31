@@ -31,33 +31,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Starlink updates privacy policy to allow consumer data to train](https://finance.yahoo.com/news/musks-starlink-updates-privacy-policy-230853500.html) (2026-01-31)
-- [Show HN: Phage Explorer](https://phage-explorer.org/) (2026-01-31)
-- [Genesis](https://zenodo.org/records/18438130) (2026-01-31)
-- [Naples' 1790s civil war was intensified by moral panic over Real Analysis (2023)](https://lareviewofbooks.org/article/foundational-anxieties-modern-mathematics-and-the-political-imagination/) (2026-01-31)
-- [Show HN: I trained a 9M speech model to fix my Mandarin tones](https://simedw.com/2026/01/31/ear-pronunication-via-ctc/) (2026-01-31)
+- [Insane Growth Goldbridge (YC F25) Is Hiring a Forward Deployed Engineer](https://www.ycombinator.com/companies/goldbridge/jobs/78gGEHh-forward-deployed-engineer) (2026-01-31)
+- [Euro firms must ditch Uncle Sam's clouds and go EU-native](https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/) (2026-01-31)
+- [htmx: Server Sent Event (SSE) Extension](https://htmx.org/extensions/sse/) (2026-01-31)
+- [Automatic Programming](https://antirez.com/news/159) (2026-01-31)
+- [CERN accepts $1B in private cash towards Future Circular Collider](https://physicsworld.com/a/cern-accepts-1bn-in-private-cash-towards-future-circular-collider/) (2026-01-31)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The latest Instax printer is a pricey but worthy upgrade](https://www.theverge.com/tech/870603/fujifilm-instax-mini-link-plus-reivew-improved-photos) (2026-01-31)
 - [Senate passes budget with two more weeks of Homeland Security funding](https://www.theverge.com/policy/870419/senate-passes-budget-with-two-more-weeks-of-homeland-security-funding) (2026-01-31)
 - [Jeffrey Epstein was permanently banned from Xbox Live](https://www.theverge.com/tech/871425/jeffrey-epstein-xbox-live-ban-microsoft-sex-offender) (2026-01-31)
 - [Peloton lays off 11 percent of its staff just a few months after launching its AI hardware](https://www.theverge.com/gadgets/871422/peloton-layoffs-cost-cutting-2026) (2026-01-30)
 - [Video game company stock prices dip after Google introduces an AI world-generation tool](https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity) (2026-01-30)
-- [Sonos’ Super Bowl sale knocks hundreds off its audio gear](https://www.theverge.com/gadgets/871054/sonos-super-bowl-deal-sale-era-beam-arc-ultra-sub) (2026-01-30)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [How far does $5,000 go when you want an electric car?](https://arstechnica.com/cars/2026/01/how-far-does-5000-go-when-you-want-an-electric-car/) (2026-01-30)
-- [NASA faces a crucial choice on a Mars spacecraft—and it must decide soon](https://arstechnica.com/space/2026/01/nasa-faces-a-crucial-choice-on-a-mars-spacecraft-and-it-must-decide-soon/) (2026-01-30)
-- [Rocket Report: How a 5-ton satellite fell off a booster; will SpaceX and xAI merge?](https://arstechnica.com/space/2026/01/rocket-report-how-a-5-ton-satellite-fell-off-a-booster-will-spacex-and-xai-merge/) (2026-01-30)
-- [Inside Nvidia's 10-year effort to make the Shield TV the most updated Android device ever](https://arstechnica.com/gadgets/2026/01/inside-nvidias-10-year-effort-to-make-the-shield-tv-the-most-updated-android-device-ever/) (2026-01-30)
-- [Having that high-deductible health plan might kill you, literally](https://arstechnica.com/health/2026/01/having-that-high-deductible-health-plan-might-kill-you-literally/) (2026-01-29)
+- [The TV industry finally concedes that the future may not be in 8K](https://arstechnica.com/gadgets/2026/01/lg-joins-the-rest-of-the-world-accepts-that-people-dont-want-8k-tvs/) (2026-01-30)
+- [ICE protester says her Global Entry was revoked after agent scanned her face](https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/) (2026-01-30)
+- [TrumpRx delayed as senators question if it's a giant scam with Big Pharma](https://arstechnica.com/health/2026/01/trumprx-delayed-as-senators-question-if-its-a-giant-scam-with-big-pharma/) (2026-01-30)
+- [AI agents now have their own Reddit-style social network, and it's getting weird fast](https://arstechnica.com/information-technology/2026/01/ai-agents-now-have-their-own-reddit-style-social-network-and-its-getting-weird-fast/) (2026-01-30)
+- [Here's why Blue Origin just ended its suborbital space tourism program](https://arstechnica.com/space/2026/01/heres-why-blue-origin-just-ended-its-suborbital-space-tourism-program/) (2026-01-30)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Finding the Second Largest Element — From Data Structures to Optimal Thinking](https://dev.to/nithya_dharshiniofficial/finding-the-second-largest-element-from-data-structures-to-optimal-thinking-3e39) (2026-01-31)
-- [🦞 Unleashing OpenClaw: The Ultimate Guide to Local AI Agents for Developers in 2026](https://dev.to/mechcloud_academy/unleashing-openclaw-the-ultimate-guide-to-local-ai-agents-for-developers-in-2026-3k0h) (2026-01-31)
-- [Optimizing Test Account Management During High Traffic Events with SQL Security Techniques](https://dev.to/mohammad_waseem_c31f3a26f/optimizing-test-account-management-during-high-traffic-events-with-sql-security-techniques-4jmn) (2026-01-31)
-- [Mitigating Spam Traps in Legacy Codebases: A QA Engineering Approach](https://dev.to/mohammad_waseem_c31f3a26f/mitigating-spam-traps-in-legacy-codebases-a-qa-engineering-approach-3a19) (2026-01-31)
-- [I built a browser-based Gamepad Tester using the HTML5 Gamepad API](https://dev.to/testmygamepad/i-built-a-browser-based-gamepad-tester-using-the-html5-gamepad-api-3hec) (2026-01-31)
+- [Solana Vulnerabilities Every Developer Should Know](https://dev.to/4k_mira/solana-vulnerabilities-every-developer-should-know-389l) (2026-01-31)
+- [Quark's Outlines: Python Built-in Methods](https://dev.to/mike-vincent/quarks-outlines-python-built-in-methods-6k7) (2026-01-31)
+- [re:Cap 2025 by AWS User Group Jakarta](https://dev.to/aws-builders/recap-2025-by-aws-user-group-jakarta-f8c) (2026-01-31)
+- [The Browser Wars Are Back](https://dev.to/rawveg/the-browser-wars-are-back-4016) (2026-01-31)
+- [Mahdi Shamlou | Solving LeetCode #7: Reverse Integer — My Math-Based Reversal with Overflow Safety](https://dev.to/mahdi0shamlou/mahdi-shamlou-solving-leetcode-7-reverse-integer-my-math-based-reversal-with-overflow-safety-p95) (2026-01-31)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [DAY-9 (RUST PROGRAMMING)](https://medium.com/@VulnHunt3r/day-9-rust-programming-b25a59072c00?source=rss------programming-5) (2026-01-31)
-- [Think C++ Is Dead? These 7 Use Cases Prove Otherwise](https://medium.com/@devlogicwrites/think-c-is-dead-these-7-use-cases-prove-otherwise-e3a8d3a783e2?source=rss------programming-5) (2026-01-31)
-- [What Is FFI in Flutter and Why Is It Used?](https://medium.com/@madaravind/what-is-ffi-in-flutter-and-why-is-it-used-d583cb579da3?source=rss------programming-5) (2026-01-31)
-- [Why I Rarely Use __slots__ in Production Python Code](https://medium.com/the-pythonworld/why-i-rarely-use-slots-in-production-python-code-e3709369cbe9?source=rss------programming-5) (2026-01-31)
-- [Why I Don’t Use assert for Runtime Checks in Python](https://medium.com/the-pythonworld/why-i-dont-use-assert-for-runtime-checks-in-python-cf402861e67b?source=rss------programming-5) (2026-01-31)
+- [How Data Engineers Optimize Warehouses: Caching, Clusters, and Compute Tiers](https://thedatatrait.medium.com/how-data-engineers-optimize-warehouses-caching-clusters-and-compute-tiers-c83acdb19a1b?source=rss------programming-5) (2026-01-31)
+- [How a Graphic Designer Built a $10K/Month AI SaaS in 7 Days Without Writing Code (The MerchMockup…](https://medium.com/@moneymindsetmentor/how-a-graphic-designer-built-a-10k-month-ai-saas-in-7-days-without-writing-code-the-merchmockup-a9312e142873?source=rss------programming-5) (2026-01-31)
+- [I Analyzed 100+ Database Failures. They All Made the Same 5 Mistakes](https://medium.com/lets-code-future/i-analyzed-100-database-failures-they-all-made-the-same-5-mistakes-3d55131788c6?source=rss------programming-5) (2026-01-31)
+- [The 20 Backend Bottlenecks Killing Your App (And How I Found Them at 3 AM)](https://medium.com/lets-code-future/the-20-backend-bottlenecks-killing-your-app-and-how-i-found-them-at-3-am-5309cfa77f98?source=rss------programming-5) (2026-01-31)
+- [We Kept Kubernetes. We Deleted Complexity Everywhere Else.](https://medium.com/@kp9810113/we-kept-kubernetes-we-deleted-complexity-everywhere-else-34df631d4968?source=rss------programming-5) (2026-01-31)
 
 </details>
 
@@ -572,7 +572,7 @@ https://www.twilio.com/en-us/blog/company/bringing-sendgrid-and-segment-to-twili
 - [Why Your Multi-Agent System is Failing: Escaping the 17x Error Trap of the “Bag of Agents”](https://towardsdatascience.com/why-your-multi-agent-system-is-failing-escaping-the-17x-error-trap-of-the-bag-of-agents/) (2026-01-30)
 - [On the Possibility of Small Networks for Physics-Informed Learning](https://towardsdatascience.com/on-the-possibility-of-small-networks-for-physics-informed-learning/) (2026-01-30)
 - [Multi-Attribute Decision Matrices, Done Right](https://towardsdatascience.com/multi-attribute-decision-matrices-done-right/) (2026-01-30)
-- [Optimizing Vector Search: Why You Should Flatten Structured Data ](https://towardsdatascience.com/optimizing-vector-search-why-you-should-flatten-structured-data/) (2026-01-29)
+- [TDS Newsletter: January Must-Reads on Data Platforms, Infinite Context, and More](https://towardsdatascience.com/tds-newsletter-january-must-reads-on-data-platforms-infinite-context-and-more/) (2026-01-29)
 
 </details>
 
