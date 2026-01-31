@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Nvidia CEO pushes back against report that his company’s $100B OpenAI investment has stalled](https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/) (2026-01-31)
+- [HomeBoost’s app will show you where to save on your utility bills](https://techcrunch.com/2026/01/31/homeboosts-app-will-show-you-where-to-save-on-your-utility-bills/) (2026-01-31)
 - [a16z partner Kofi Ampadu to leave firm after TxO program pause](https://techcrunch.com/2026/01/30/a16z-partner-kofi-ampadu-to-leave-firm-after-txo-program-pause/) (2026-01-31)
 - [A peek inside Physical Intelligence, the startup building Silicon Valley’s buzziest robot brains](https://techcrunch.com/2026/01/30/physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains/) (2026-01-31)
 - [OnlyFans considering selling majority stake to Architect Capital](https://techcrunch.com/2026/01/30/onlyfans-considering-selling-majority-stake-to-architect-capital/) (2026-01-30)
-- [OpenClaw’s AI assistants are now building their own social network](https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/) (2026-01-30)
-- [Informant told FBI that Jeffrey Epstein had a ‘personal hacker’](https://techcrunch.com/2026/01/30/informant-told-fbi-that-jeffrey-epstein-had-a-personal-hacker/) (2026-01-30)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Insane Growth Goldbridge (YC F25) Is Hiring a Forward Deployed Engineer](https://www.ycombinator.com/companies/goldbridge/jobs/78gGEHh-forward-deployed-engineer) (2026-01-31)
-- [Euro firms must ditch Uncle Sam's clouds and go EU-native](https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/) (2026-01-31)
-- [htmx: Server Sent Event (SSE) Extension](https://htmx.org/extensions/sse/) (2026-01-31)
-- [Automatic Programming](https://antirez.com/news/159) (2026-01-31)
-- [CERN accepts $1B in private cash towards Future Circular Collider](https://physicsworld.com/a/cern-accepts-1bn-in-private-cash-towards-future-circular-collider/) (2026-01-31)
+- [Genode OS is a tool kit for building highly secure special-purpose OS](https://genode.org/about/index) (2026-01-31)
+- [Ask HN: Any real OpenClaw (Clawd Bot/Molt Bot) users? What's your experience?](https://news.ycombinator.com/item?id=46838946) (2026-01-31)
+- [Bitcoin Looks Set for Longest Monthly Losing Streak Since 2018](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018) (2026-01-31)
+- [Mobile carriers can get your GPS location](https://an.dywa.ng/carrier-gnss.html) (2026-01-31)
+- [Finland to end "uncontrolled human experiment" with ban on youth social media](https://yle.fi/a/74-20207494) (2026-01-31)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The AirPods 4 and Google’s 4K streamer are just two of this week’s best deals](https://www.theverge.com/gadgets/871092/airpods-4-anc-google-tv-streamer-4k-deal-sale) (2026-01-31)
+- [Cassette Boy forces you to see its world in a whole new way](https://www.theverge.com/games/867020/cassette-boy-review-pc-playstation-xbox-nintendo-switch) (2026-01-31)
+- [ChatGPT isn’t the only chatbot pulling answers from Elon Musk’s Grokipedia](https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia) (2026-01-31)
+- [A nice upgrade for Apple’s simplest gadget](https://www.theverge.com/tech/871493/apple-airtags-yahoo-scout-wonder-man-installer) (2026-01-31)
 - [The latest Instax printer is a pricey but worthy upgrade](https://www.theverge.com/tech/870603/fujifilm-instax-mini-link-plus-reivew-improved-photos) (2026-01-31)
-- [Senate passes budget with two more weeks of Homeland Security funding](https://www.theverge.com/policy/870419/senate-passes-budget-with-two-more-weeks-of-homeland-security-funding) (2026-01-31)
-- [Jeffrey Epstein was permanently banned from Xbox Live](https://www.theverge.com/tech/871425/jeffrey-epstein-xbox-live-ban-microsoft-sex-offender) (2026-01-31)
-- [Peloton lays off 11 percent of its staff just a few months after launching its AI hardware](https://www.theverge.com/gadgets/871422/peloton-layoffs-cost-cutting-2026) (2026-01-30)
-- [Video game company stock prices dip after Google introduces an AI world-generation tool](https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity) (2026-01-30)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Solana Vulnerabilities Every Developer Should Know](https://dev.to/4k_mira/solana-vulnerabilities-every-developer-should-know-389l) (2026-01-31)
-- [Quark's Outlines: Python Built-in Methods](https://dev.to/mike-vincent/quarks-outlines-python-built-in-methods-6k7) (2026-01-31)
-- [re:Cap 2025 by AWS User Group Jakarta](https://dev.to/aws-builders/recap-2025-by-aws-user-group-jakarta-f8c) (2026-01-31)
-- [The Browser Wars Are Back](https://dev.to/rawveg/the-browser-wars-are-back-4016) (2026-01-31)
-- [Mahdi Shamlou | Solving LeetCode #7: Reverse Integer — My Math-Based Reversal with Overflow Safety](https://dev.to/mahdi0shamlou/mahdi-shamlou-solving-leetcode-7-reverse-integer-my-math-based-reversal-with-overflow-safety-p95) (2026-01-31)
+- [Page Cache and Pager State: Where Concurrency Becomes Concrete](https://dev.to/lovestaco/page-cache-and-pager-state-where-concurrency-becomes-concrete-35gb) (2026-01-31)
+- [Meet IK UI: The Minimalist, Lightweight UI Kit for Vue 3 Developers](https://dev.to/ikui_47ea3538ca74920eee2b/meet-ik-ui-the-minimalist-lightweight-ui-kit-for-vue-3-developers-1jkc) (2026-01-31)
+- [How I Built a SwiftUI Starter Kit That Saves 40+ Hours Per Project](https://dev.to/__be2942592/how-i-built-a-swiftui-starter-kit-that-saves-40-hours-per-project-4km0) (2026-01-31)
+- [The Ronin's Path: Building a Pure Portfolio for the Google AI Challenge](https://dev.to/laqro/the-ronins-path-building-a-pure-portfolio-for-the-google-ai-challenge-10e0) (2026-01-31)
+- [Snowflake Drawing Tool](https://dev.to/preetha_vaishnavi_2b82358/snowflake-drawing-tool-16i0) (2026-01-31)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How Data Engineers Optimize Warehouses: Caching, Clusters, and Compute Tiers](https://thedatatrait.medium.com/how-data-engineers-optimize-warehouses-caching-clusters-and-compute-tiers-c83acdb19a1b?source=rss------programming-5) (2026-01-31)
-- [How a Graphic Designer Built a $10K/Month AI SaaS in 7 Days Without Writing Code (The MerchMockup…](https://medium.com/@moneymindsetmentor/how-a-graphic-designer-built-a-10k-month-ai-saas-in-7-days-without-writing-code-the-merchmockup-a9312e142873?source=rss------programming-5) (2026-01-31)
-- [I Analyzed 100+ Database Failures. They All Made the Same 5 Mistakes](https://medium.com/lets-code-future/i-analyzed-100-database-failures-they-all-made-the-same-5-mistakes-3d55131788c6?source=rss------programming-5) (2026-01-31)
-- [The 20 Backend Bottlenecks Killing Your App (And How I Found Them at 3 AM)](https://medium.com/lets-code-future/the-20-backend-bottlenecks-killing-your-app-and-how-i-found-them-at-3-am-5309cfa77f98?source=rss------programming-5) (2026-01-31)
-- [We Kept Kubernetes. We Deleted Complexity Everywhere Else.](https://medium.com/@kp9810113/we-kept-kubernetes-we-deleted-complexity-everywhere-else-34df631d4968?source=rss------programming-5) (2026-01-31)
+- [✨ Dynamic Programming Explained: The Superpower Behind Smart Algorithms, Rails Optimization &…](https://rajputlakhveer.medium.com/dynamic-programming-explained-the-superpower-behind-smart-algorithms-rails-optimization-bad75b5f9306?source=rss------programming-5) (2026-01-31)
+- [“How AI is Transforming Everyday Life in 2026: From Smart Assistants to Creative Tools”](https://medium.com/@yeabsiralamessa/how-ai-is-transforming-everyday-life-in-2026-from-smart-assistants-to-creative-tools-ac8521b5c77b?source=rss------programming-5) (2026-01-31)
+- [MCP Inspector Unlocks a New Way to Develop](https://pub.towardsai.net/mcp-inspector-unlocks-a-new-way-to-develop-eb5ad641d49c?source=rss------programming-5) (2026-01-31)
+- [I Let AI Debug My Python App](https://python.plainenglish.io/i-let-ai-debug-my-python-app-d7fa5754711a?source=rss------programming-5) (2026-01-31)
+- [You Delete One Element and Suddenly There Are Consequences](https://medium.com/@supremestrawhat/you-delete-one-element-and-suddenly-there-are-consequences-77bfa1d346c9?source=rss------programming-5) (2026-01-31)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
+- [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
 - [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
 - [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
 - [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
-- [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
-- [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
 
 </details>
 
@@ -568,22 +568,22 @@ https://www.twilio.com/en-us/blog/company/bringing-sendgrid-and-segment-to-twili
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Apply Agentic Coding to Solve Problems](https://towardsdatascience.com/how-to-apply-agentic-coding-to-solve-problem/) (2026-01-31)
+- [How to Run Claude Code for Free with Local and Cloud Models from Ollama](https://towardsdatascience.com/run-claude-code-for-free-with-local-and-cloud-models-from-ollama/) (2026-01-31)
 - [Creating an Etch A Sketch App Using Python and Turtle](https://towardsdatascience.com/creating-an-etch-a-sketch-app-using-python-turtle/) (2026-01-30)
 - [Why Your Multi-Agent System is Failing: Escaping the 17x Error Trap of the “Bag of Agents”](https://towardsdatascience.com/why-your-multi-agent-system-is-failing-escaping-the-17x-error-trap-of-the-bag-of-agents/) (2026-01-30)
 - [On the Possibility of Small Networks for Physics-Informed Learning](https://towardsdatascience.com/on-the-possibility-of-small-networks-for-physics-informed-learning/) (2026-01-30)
-- [Multi-Attribute Decision Matrices, Done Right](https://towardsdatascience.com/multi-attribute-decision-matrices-done-right/) (2026-01-30)
-- [TDS Newsletter: January Must-Reads on Data Platforms, Infinite Context, and More](https://towardsdatascience.com/tds-newsletter-january-must-reads-on-data-platforms-infinite-context-and-more/) (2026-01-29)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [End-to-End Machine Learning Project on Amazon Sales Data Using Python ](https://www.analyticsvidhya.com/blog/2026/01/machine-learning-project-on-amazon-sales-data-using-python/) (2026-01-31)
 - [5 Gemini Prompts for JEE Preparation](https://www.analyticsvidhya.com/blog/2026/01/jee-preparation-with-gemini-top-prompts/) (2026-01-30)
 - [20 LLM Questions You’ll See Everywhere in 2026](https://www.analyticsvidhya.com/blog/2026/01/llm-interview-questions-and-answers/) (2026-01-30)
 - [5 Biggest Hackathons of 2026 That You Can’t Miss](https://www.analyticsvidhya.com/blog/2026/01/top-hackathons-to-participate-in/) (2026-01-30)
 - [Make PPTs, PDFs, and Excel Sheets in Seconds With Kimi K2.5](https://www.analyticsvidhya.com/blog/2026/01/make-ppts-pdfs-and-excel-sheets-in-seconds-with-kimi-k2-5/) (2026-01-29)
-- [16 NotebookLM Prompts Every Teacher Should Be Using in 2026](https://www.analyticsvidhya.com/blog/2026/01/notebooklm-for-teachers/) (2026-01-29)
 
 </details>
 
