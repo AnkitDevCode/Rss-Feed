@@ -21,7 +21,7 @@
 <summary>🚀 TechCrunch</summary>
 
 - [a16z partner Kofi Ampadu to leave firm after TxO program pause](https://techcrunch.com/2026/01/30/a16z-partner-kofi-ampadu-to-leave-firm-after-txo-program-pause/) (2026-01-31)
-- [Physical Intelligence, Stripe veteran Lachy Groom’s latest bet, is building Silicon Valley’s buzziest robot brains](https://techcrunch.com/2026/01/30/physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains/) (2026-01-31)
+- [A peek inside Physical Intelligence, the startup building Silicon Valley’s buzziest robot brains](https://techcrunch.com/2026/01/30/physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains/) (2026-01-31)
 - [OnlyFans considering selling majority stake to Architect Capital](https://techcrunch.com/2026/01/30/onlyfans-considering-selling-majority-stake-to-architect-capital/) (2026-01-30)
 - [OpenClaw’s AI assistants are now building their own social network](https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/) (2026-01-30)
 - [Informant told FBI that Jeffrey Epstein had a ‘personal hacker’](https://techcrunch.com/2026/01/30/informant-told-fbi-that-jeffrey-epstein-had-a-personal-hacker/) (2026-01-30)
@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Starlink updates privacy policy to allow consumer data to train](https://finance.yahoo.com/news/musks-starlink-updates-privacy-policy-230853500.html) (2026-01-31)
+- [Show HN: Phage Explorer](https://phage-explorer.org/) (2026-01-31)
+- [Genesis](https://zenodo.org/records/18438130) (2026-01-31)
+- [Naples' 1790s civil war was intensified by moral panic over Real Analysis (2023)](https://lareviewofbooks.org/article/foundational-anxieties-modern-mathematics-and-the-political-imagination/) (2026-01-31)
 - [Show HN: I trained a 9M speech model to fix my Mandarin tones](https://simedw.com/2026/01/31/ear-pronunication-via-ctc/) (2026-01-31)
-- [175K+ publicly-exposed Ollama AI instances discovered](https://www.techradar.com/pro/security/over-175-000-publicly-exposed-ollama-ai-servers-discovered-worldwide-so-fix-now) (2026-01-31)
-- [The $100B Megadeal Between OpenAI and Nvidia Is on Ice](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3) (2026-01-31)
-- [Stonebraker on CAP theorem and Databases](https://perspectives.mvdirona.com/2010/04/stonebraker-on-cap-theorem-and-databases/) (2026-01-30)
-- [Show HN: I built an AI conversation partner to practice speaking languages](https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177) (2026-01-30)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Senate passes budget with two more weeks of Homeland Security funding](https://www.theverge.com/policy/870419/senate-passes-budget-with-two-more-weeks-of-homeland-security-funding) (2026-01-31)
 - [Jeffrey Epstein was permanently banned from Xbox Live](https://www.theverge.com/tech/871425/jeffrey-epstein-xbox-live-ban-microsoft-sex-offender) (2026-01-31)
 - [Peloton lays off 11 percent of its staff just a few months after launching its AI hardware](https://www.theverge.com/gadgets/871422/peloton-layoffs-cost-cutting-2026) (2026-01-30)
 - [Video game company stock prices dip after Google introduces an AI world-generation tool](https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity) (2026-01-30)
 - [Sonos’ Super Bowl sale knocks hundreds off its audio gear](https://www.theverge.com/gadgets/871054/sonos-super-bowl-deal-sale-era-beam-arc-ultra-sub) (2026-01-30)
-- [Fitbit users now have until May to migrate to a Google account](https://www.theverge.com/gadgets/871218/fitbit-account-migration-google-deadline-may-2026) (2026-01-30)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Dev Portfolio](https://dev.to/lukepongadev/dev-portfolio-539a) (2026-01-31)
-- [Google's Gemini Gradient Design Draws Parallels with 1984 Macintosh](https://dev.to/alan_maulanaibrahim_e18c_8/googles-gemini-gradient-design-draws-parallels-with-1984-macintosh-cn4) (2026-01-31)
-- [Pose as Data: Building a Real-Time AI Physical Therapist with MediaPipe and GPT-4o](https://dev.to/beck_moulton/pose-as-data-building-a-real-time-ai-physical-therapist-with-mediapipe-and-gpt-4o-5ag5) (2026-01-31)
-- [Detecting Phishing Patterns with Docker on a Zero-Budget Setup](https://dev.to/mohammad_waseem_c31f3a26f/detecting-phishing-patterns-with-docker-on-a-zero-budget-setup-e62) (2026-01-31)
-- [Streamlining Authentication Flows in Microservices with JavaScript Automation](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-authentication-flows-in-microservices-with-javascript-automation-1meo) (2026-01-31)
+- [Finding the Second Largest Element — From Data Structures to Optimal Thinking](https://dev.to/nithya_dharshiniofficial/finding-the-second-largest-element-from-data-structures-to-optimal-thinking-3e39) (2026-01-31)
+- [🦞 Unleashing OpenClaw: The Ultimate Guide to Local AI Agents for Developers in 2026](https://dev.to/mechcloud_academy/unleashing-openclaw-the-ultimate-guide-to-local-ai-agents-for-developers-in-2026-3k0h) (2026-01-31)
+- [Optimizing Test Account Management During High Traffic Events with SQL Security Techniques](https://dev.to/mohammad_waseem_c31f3a26f/optimizing-test-account-management-during-high-traffic-events-with-sql-security-techniques-4jmn) (2026-01-31)
+- [Mitigating Spam Traps in Legacy Codebases: A QA Engineering Approach](https://dev.to/mohammad_waseem_c31f3a26f/mitigating-spam-traps-in-legacy-codebases-a-qa-engineering-approach-3a19) (2026-01-31)
+- [I built a browser-based Gamepad Tester using the HTML5 Gamepad API](https://dev.to/testmygamepad/i-built-a-browser-based-gamepad-tester-using-the-html5-gamepad-api-3hec) (2026-01-31)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Stop Asking AI to Code. Start Asking It to Think.](https://medium.com/@aneja0512/stop-asking-ai-to-code-start-asking-it-to-think-33373d9ad31f?source=rss------programming-5) (2026-01-31)
-- [HTML for Absolute Beginners: Building the Foundation of Your Web Page](https://caksaji.medium.com/html-for-absolute-beginners-building-the-foundation-of-your-web-page-d67770f6b824?source=rss------programming-5) (2026-01-31)
-- [How to Use Suno AI to Create Professional-Quality Music](https://medium.com/@aimusiclab/how-to-use-suno-ai-to-create-professional-quality-music-bdaec3b406aa?source=rss------programming-5) (2026-01-31)
-- [The Python Refactor I Avoided for Months (And Why I’m Glad I Finally Did It)](https://python.plainenglish.io/the-python-refactor-i-avoided-for-months-and-why-im-glad-i-finally-did-it-8186527e1bd8?source=rss------programming-5) (2026-01-31)
-- [After 50 Production Incidents, I Found the Same 12 Patterns Breaking Everything](https://javascript.plainenglish.io/after-50-production-incidents-i-found-the-same-12-patterns-breaking-everything-1e19b06dada3?source=rss------programming-5) (2026-01-30)
+- [DAY-9 (RUST PROGRAMMING)](https://medium.com/@VulnHunt3r/day-9-rust-programming-b25a59072c00?source=rss------programming-5) (2026-01-31)
+- [Think C++ Is Dead? These 7 Use Cases Prove Otherwise](https://medium.com/@devlogicwrites/think-c-is-dead-these-7-use-cases-prove-otherwise-e3a8d3a783e2?source=rss------programming-5) (2026-01-31)
+- [What Is FFI in Flutter and Why Is It Used?](https://medium.com/@madaravind/what-is-ffi-in-flutter-and-why-is-it-used-d583cb579da3?source=rss------programming-5) (2026-01-31)
+- [Why I Rarely Use __slots__ in Production Python Code](https://medium.com/the-pythonworld/why-i-rarely-use-slots-in-production-python-code-e3709369cbe9?source=rss------programming-5) (2026-01-31)
+- [Why I Don’t Use assert for Runtime Checks in Python](https://medium.com/the-pythonworld/why-i-dont-use-assert-for-runtime-checks-in-python-cf402861e67b?source=rss------programming-5) (2026-01-31)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
-- [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
 - [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
 - [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
 - [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
+- [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
+- [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
 
 </details>
 
