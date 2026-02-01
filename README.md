@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Meet the new European unicorns of 2026](https://techcrunch.com/2026/01/31/meet-the-new-european-unicorns-of-2026/) (2026-02-01)
 - [Waymo reportedly raising a $16B funding round](https://techcrunch.com/2026/01/31/waymo-reportedly-raising-a-16-billion-funding-round/) (2026-01-31)
 - [SpaceX seeks federal approval to launch 1 million solar-powered satellite data centers](https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/) (2026-01-31)
 - [Nvidia CEO pushes back against report that his company’s $100B OpenAI investment has stalled](https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/) (2026-01-31)
 - [HomeBoost’s app will show you where to save on your utility bills](https://techcrunch.com/2026/01/31/homeboosts-app-will-show-you-where-to-save-on-your-utility-bills/) (2026-01-31)
-- [a16z partner Kofi Ampadu to leave firm after TxO program pause](https://techcrunch.com/2026/01/30/a16z-partner-kofi-ampadu-to-leave-firm-after-txo-program-pause/) (2026-01-31)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: OpenJuris – AI legal research with citations from primary sources](https://openjuris.org/) (2026-02-01)
-- [Apple-1 Computer Prototype Board #0 sold for $2.75M](https://www.rrauction.com/auctions/lot-detail/350902407346003-apple-1-computer-prototype-board-0-the-celebration-board-representing-the-earliest-known-fiberglass-apple-1-prototype/) (2026-02-01)
-- [List animals until failure](https://rose.systems/animalist/) (2026-02-01)
-- [Sparse File LRU Cache](http://ternarysearch.blogspot.com/2026/01/sparse-file-lru-cache.html) (2026-02-01)
-- [Cells use 'bioelectricity' to coordinate and make group decisions](https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/) (2026-02-01)
+- [How to Scale a System from 0 to 10M+ Users](https://blog.algomaster.io/p/scaling-a-system-from-0-to-10-million-users) (2026-02-01)
+- [Amiga Unix (Amix)](https://www.amigaunix.com/doku.php/home) (2026-02-01)
+- [FOSDEM 2026 – Open-Source Conference in Brussels – Day#1 Recap](https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/) (2026-02-01)
+- [Netbird a German Tailscale alternative (P2P WireGuard-based overlay network)](https://netbird.io/) (2026-02-01)
+- [What I learned building an opinionated and minimal coding agent](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/) (2026-02-01)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Loss Functions for Beginners](https://dev.to/olabamipetaiwo/loss-functions-for-beginners-5gfl) (2026-02-01)
-- [[Opinion]Today's frontend is easy to be messed up and we need to organize it](https://dev.to/uponthesky/opiniontodays-frontend-is-easy-to-be-messed-up-and-we-need-to-organize-it-17hl) (2026-02-01)
-- [Building a Privacy-First URL Shortener on Blockchain](https://dev.to/wes_parsons_57932a30dc1f3/building-a-privacy-first-url-shortener-on-blockchain-17n4) (2026-02-01)
-- [I built a civic engagement platform because contacting your representatives shouldn't be this hard](https://dev.to/ashmortar/i-built-a-civic-engagement-platform-because-contacting-your-representatives-shouldnt-be-this-hard-1jjb) (2026-02-01)
-- [Design Secure Access To AWS Resources](https://dev.to/aws-builders/design-secure-access-to-aws-resources-4l8g) (2026-02-01)
+- [I Finally Built a Resizable Sidebar UI – A Personal Milestone in My Developer Journey](https://dev.to/usama_dev/i-finally-built-a-resizable-sidebar-ui-a-personal-milestone-in-my-developer-journey-2lf) (2026-02-01)
+- [From Chaos to Claws: How OpenClaw Won Open Source in a Single Week](https://dev.to/safdarali25/from-chaos-to-claws-how-openclaw-won-open-source-in-a-single-week-1a85) (2026-02-01)
+- [Java Virtual Threads — Quick Guide](https://dev.to/ankitdevcode/java-virtual-threads-quick-guide-1jca) (2026-02-01)
+- [The Pitfalls of Test Coverage: Introducing Mutation Testing with Stryker and Cosmic Ray](https://dev.to/wintrover/the-pitfalls-of-test-coverage-introducing-mutation-testing-with-stryker-and-cosmic-ray-1kcg) (2026-02-01)
+- [Deep dive into how Bifrost’s MCP Gateway and Code Mode enable scalable, production-grade LLM systems 🔥, reducing token costs, improving determinism, and making MCP-based AI workflows predictable, debuggable, and ready for real-world infrastructure.](https://dev.to/hadil/deep-dive-into-how-bifrosts-mcp-gateway-and-code-mode-enable-scalable-production-grade-llm-4jp2) (2026-02-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How Monitoring Teaches Attackers How to Hide](https://blog.devgenius.io/how-monitoring-teaches-attackers-how-to-hide-34fc3c1ddd38?source=rss------programming-5) (2026-02-01)
-- [15 JavaScript Concepts Interviewers Expect You to Know (2026)](https://mohammadtabishanwar9.medium.com/15-javascript-concepts-interviewers-expect-you-to-know-2026-7308662ff823?source=rss------programming-5) (2026-02-01)
-- [Logical Border Radius in CSS (And Why It Quietly Messes With Your Brain)](https://er-raj-aryan.medium.com/logical-border-radius-in-css-and-why-it-quietly-messes-with-your-brain-b0bf9a316b90?source=rss------programming-5) (2026-02-01)
-- [Stop Writing For Loops. These 2 Python Operators Will Clean Your Code in Seconds](https://python.plainenglish.io/stop-writing-for-loops-these-2-python-operators-will-clean-your-code-in-seconds-6ecebe834b12?source=rss------programming-5) (2026-02-01)
-- [Stop Writing Messy Python: These 9 Tips Make Your Code Read Like Poetry](https://medium.com/the-pythonworld/stop-writing-messy-python-these-9-tips-make-your-code-read-like-poetry-834e7013f914?source=rss------programming-5) (2026-02-01)
+- [Why Being Self-Taught Made Me a Better Learner](https://medium.com/@anuragdeshmukh668/why-being-self-taught-made-me-a-better-learner-a6b449204b45?source=rss------programming-5) (2026-02-01)
+- [Linux Kernel Secrets Most Developers Learn Too Late (Lecture 1)](https://learnocracy.medium.com/linux-kernel-secrets-most-developers-learn-too-late-lecture-1-252d51191ecd?source=rss------programming-5) (2026-02-01)
+- [Vibe Coding Is a Trap?](https://aliffrhn.medium.com/vibe-coding-is-a-trap-a0c6686b134d?source=rss------programming-5) (2026-02-01)
+- [Lovave AI Review: Realistic Expectations](https://medium.com/@mralexhill/lovave-ai-review-realistic-expectations-d42504755d4d?source=rss------programming-5) (2026-02-01)
+- [Frontend Tools That Actually Reduce Bugs ](https://osintteam.blog/frontend-tools-that-actually-reduce-bugs-177950ef9de3?source=rss------programming-5) (2026-02-01)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
+- [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
 - [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
 - [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
 - [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
-- [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
-- [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
 
 </details>
 
