@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Waymo reportedly raising a $16B funding round](https://techcrunch.com/2026/01/31/waymo-reportedly-raising-a-16-billion-funding-round/) (2026-01-31)
+- [SpaceX seeks federal approval to launch 1 million solar-powered satellite data centers](https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/) (2026-01-31)
 - [Nvidia CEO pushes back against report that his company’s $100B OpenAI investment has stalled](https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/) (2026-01-31)
 - [HomeBoost’s app will show you where to save on your utility bills](https://techcrunch.com/2026/01/31/homeboosts-app-will-show-you-where-to-save-on-your-utility-bills/) (2026-01-31)
 - [a16z partner Kofi Ampadu to leave firm after TxO program pause](https://techcrunch.com/2026/01/30/a16z-partner-kofi-ampadu-to-leave-firm-after-txo-program-pause/) (2026-01-31)
-- [A peek inside Physical Intelligence, the startup building Silicon Valley’s buzziest robot brains](https://techcrunch.com/2026/01/30/physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains/) (2026-01-31)
-- [OnlyFans considering selling majority stake to Architect Capital](https://techcrunch.com/2026/01/30/onlyfans-considering-selling-majority-stake-to-architect-capital/) (2026-01-30)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Genode OS is a tool kit for building highly secure special-purpose OS](https://genode.org/about/index) (2026-01-31)
-- [Ask HN: Any real OpenClaw (Clawd Bot/Molt Bot) users? What's your experience?](https://news.ycombinator.com/item?id=46838946) (2026-01-31)
-- [Bitcoin Looks Set for Longest Monthly Losing Streak Since 2018](https://www.bloomberg.com/news/articles/2026-01-30/bitcoin-btc-slides-toward-longest-monthly-losing-streak-since-2018) (2026-01-31)
-- [Mobile carriers can get your GPS location](https://an.dywa.ng/carrier-gnss.html) (2026-01-31)
-- [Finland to end "uncontrolled human experiment" with ban on youth social media](https://yle.fi/a/74-20207494) (2026-01-31)
+- [Swift is a more convenient Rust](https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust) (2026-01-31)
+- [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/) (2026-01-31)
+- [Generative AI and Wikipedia editing: What we learned in 2025](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/) (2026-01-31)
+- [Outsourcing thinking](https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html) (2026-01-31)
+- [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer) (2026-01-31)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Nvidia CEO denies he’s ‘unhappy’ with OpenAI](https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai) (2026-01-31)
+- [“No more Minnesota nice, Minneapolis will strike”](https://www.theverge.com/policy/871606/minneapolis-general-strike-anti-ice-protest) (2026-01-31)
+- [SpaceX wants to put 1 million solar-powered data centers into orbit](https://www.theverge.com/tech/871641/spacex-fcc-1-million-solar-powered-data-centers-satellites-orbit) (2026-01-31)
 - [The AirPods 4 and Google’s 4K streamer are just two of this week’s best deals](https://www.theverge.com/gadgets/871092/airpods-4-anc-google-tv-streamer-4k-deal-sale) (2026-01-31)
 - [Cassette Boy forces you to see its world in a whole new way](https://www.theverge.com/games/867020/cassette-boy-review-pc-playstation-xbox-nintendo-switch) (2026-01-31)
-- [ChatGPT isn’t the only chatbot pulling answers from Elon Musk’s Grokipedia](https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia) (2026-01-31)
-- [A nice upgrade for Apple’s simplest gadget](https://www.theverge.com/tech/871493/apple-airtags-yahoo-scout-wonder-man-installer) (2026-01-31)
-- [The latest Instax printer is a pricey but worthy upgrade](https://www.theverge.com/tech/870603/fujifilm-instax-mini-link-plus-reivew-improved-photos) (2026-01-31)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Research roundup: 6 cool stories we almost missed](https://arstechnica.com/science/2026/01/research-roundup-6-cool-stories-we-almost-missed-2/) (2026-01-31)
+- [A cup of coffee for depression treatment has better results than microdosing](https://arstechnica.com/health/2026/01/placebo-outperforms-lsd-microdosing-for-depression/) (2026-01-31)
 - [The TV industry finally concedes that the future may not be in 8K](https://arstechnica.com/gadgets/2026/01/lg-joins-the-rest-of-the-world-accepts-that-people-dont-want-8k-tvs/) (2026-01-30)
 - [ICE protester says her Global Entry was revoked after agent scanned her face](https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/) (2026-01-30)
 - [TrumpRx delayed as senators question if it's a giant scam with Big Pharma](https://arstechnica.com/health/2026/01/trumprx-delayed-as-senators-question-if-its-a-giant-scam-with-big-pharma/) (2026-01-30)
-- [AI agents now have their own Reddit-style social network, and it's getting weird fast](https://arstechnica.com/information-technology/2026/01/ai-agents-now-have-their-own-reddit-style-social-network-and-its-getting-weird-fast/) (2026-01-30)
-- [Here's why Blue Origin just ended its suborbital space tourism program](https://arstechnica.com/space/2026/01/heres-why-blue-origin-just-ended-its-suborbital-space-tourism-program/) (2026-01-30)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Page Cache and Pager State: Where Concurrency Becomes Concrete](https://dev.to/lovestaco/page-cache-and-pager-state-where-concurrency-becomes-concrete-35gb) (2026-01-31)
-- [Meet IK UI: The Minimalist, Lightweight UI Kit for Vue 3 Developers](https://dev.to/ikui_47ea3538ca74920eee2b/meet-ik-ui-the-minimalist-lightweight-ui-kit-for-vue-3-developers-1jkc) (2026-01-31)
-- [How I Built a SwiftUI Starter Kit That Saves 40+ Hours Per Project](https://dev.to/__be2942592/how-i-built-a-swiftui-starter-kit-that-saves-40-hours-per-project-4km0) (2026-01-31)
-- [The Ronin's Path: Building a Pure Portfolio for the Google AI Challenge](https://dev.to/laqro/the-ronins-path-building-a-pure-portfolio-for-the-google-ai-challenge-10e0) (2026-01-31)
-- [Snowflake Drawing Tool](https://dev.to/preetha_vaishnavi_2b82358/snowflake-drawing-tool-16i0) (2026-01-31)
+- [How I Cut My AI Coding Tool Costs by 70% (And You Can Too)](https://dev.to/vishal_veerareddy_9cdd17d/how-i-cut-my-ai-coding-tool-costs-by-70-and-you-can-too-ol0) (2026-02-01)
+- [Supercharge Your Hytale Modding Workflow with mdevtools](https://dev.to/mbround18/hytale-mod-development-hot-reloading-46je) (2026-02-01)
+- [C++ Signatures: It’s Not Just About Performance, It’s About Ownership](https://dev.to/granza/c-signatures-its-not-just-about-performance-its-about-ownership-2hi7) (2026-02-01)
+- [[AWS] Testing whether Kiro's web tools can be used in conjunction with other features [Kiro]](https://dev.to/aws-builders/aws-testing-whether-kiros-web-tools-can-be-used-in-conjunction-with-other-features-kiro-1h47) (2026-02-01)
+- [The Human-Machine Interface: An Intelligent Engineering Portfolio](https://dev.to/phoenixa/the-human-machine-interface-an-intelligent-engineering-portfolio-o0p) (2026-02-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [✨ Dynamic Programming Explained: The Superpower Behind Smart Algorithms, Rails Optimization &…](https://rajputlakhveer.medium.com/dynamic-programming-explained-the-superpower-behind-smart-algorithms-rails-optimization-bad75b5f9306?source=rss------programming-5) (2026-01-31)
-- [“How AI is Transforming Everyday Life in 2026: From Smart Assistants to Creative Tools”](https://medium.com/@yeabsiralamessa/how-ai-is-transforming-everyday-life-in-2026-from-smart-assistants-to-creative-tools-ac8521b5c77b?source=rss------programming-5) (2026-01-31)
-- [MCP Inspector Unlocks a New Way to Develop](https://pub.towardsai.net/mcp-inspector-unlocks-a-new-way-to-develop-eb5ad641d49c?source=rss------programming-5) (2026-01-31)
-- [I Let AI Debug My Python App](https://python.plainenglish.io/i-let-ai-debug-my-python-app-d7fa5754711a?source=rss------programming-5) (2026-01-31)
-- [You Delete One Element and Suddenly There Are Consequences](https://medium.com/@supremestrawhat/you-delete-one-element-and-suddenly-there-are-consequences-77bfa1d346c9?source=rss------programming-5) (2026-01-31)
+- [Infosys Interview Questions | Java Developer (4 Years Experience)](https://medium.com/@ajit-gupta/infosys-interview-questions-java-developer-4-years-experience-e9a15587406b?source=rss------programming-5) (2026-02-01)
+- [DAY-10(Rust Programming)](https://medium.com/@VulnHunt3r/day-10-rust-programming-765ab6f97fd7?source=rss------programming-5) (2026-02-01)
+- [How to Use Falco in Kubernetes (Free Falco Notebook for CKS Exam Prep)](https://medium.com/@DynamoDevOps/how-to-use-falco-in-kubernetes-free-falco-notebook-for-cks-exam-prep-717898293015?source=rss------programming-5) (2026-02-01)
+- [Ideal Individuals: A Philosophical and Personal Analysis of Rare Thinking Patterns](https://medium.com/@uuyy7099/ideal-individuals-a-philosophical-and-personal-analysis-of-rare-thinking-patterns-51c5d446ebd5?source=rss------programming-5) (2026-02-01)
+- [Symfony Security Architecture Explained](https://tuhinbepari.medium.com/symfony-security-architecture-explained-how-firewalls-authenticators-and-user-providers-work-together-e2101a49f1c2?source=rss------programming-5) (2026-02-01)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
-- [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
 - [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
 - [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
 - [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
+- [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
+- [Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/) (2025-12-17)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Qodana for Android: Increasing Code Quality for Kotlin-First Teams](https://blog.jetbrains.com/qodana/2026/01/qodana-for-android-kotlin/) (2026-01-31)
 - [Busy Plugin Developers Newsletter – Q4 2025](https://blog.jetbrains.com/platform/2026/01/busy-plugin-developers-newsletter-q4-2025/) (2026-01-30)
 - [ReSharper and Rider 2025.3.2 Updates Out Now!](https://blog.jetbrains.com/dotnet/2026/01/29/resharper-and-rider-2025-3-2/) (2026-01-29)
 - [Game Dev in 2025: Excerpts From the State of Game Development Report](https://blog.jetbrains.com/dotnet/2026/01/29/game-dev-in-2025-excerpts-from-the-state-of-game-development-report/) (2026-01-29)
 - [ACP Agent Registry Is Live: Find and Connect AI Coding Agents in Your JetBrains IDE](https://blog.jetbrains.com/ai/2026/01/acp-agent-registry/) (2026-01-28)
-- [Vendor Lock-In vs. Strategic Partnership for Your CI/CD](https://blog.jetbrains.com/teamcity/2026/01/vendor-lock-in-vs-strategic-partnership/) (2026-01-28)
 
 </details>
 
@@ -579,11 +579,11 @@ https://www.twilio.com/en-us/blog/company/bringing-sendgrid-and-segment-to-twili
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Gradient Boosting vs AdaBoost vs XGBoost vs CatBoost vs LightGBM: Finding the Best Gradient Boosting Method](https://www.analyticsvidhya.com/blog/2026/02/gradient-boosting-vs-adaboost-vs-xgboost-vs-catboost-vs-lightgbm/) (2026-02-01)
+- [Moltbook: Where Your AI Agent Goes to Socialize](https://www.analyticsvidhya.com/blog/2026/02/moltbook-for-openclaw-agents/) (2026-01-31)
 - [End-to-End Machine Learning Project on Amazon Sales Data Using Python ](https://www.analyticsvidhya.com/blog/2026/01/machine-learning-project-on-amazon-sales-data-using-python/) (2026-01-31)
 - [5 Gemini Prompts for JEE Preparation](https://www.analyticsvidhya.com/blog/2026/01/jee-preparation-with-gemini-top-prompts/) (2026-01-30)
 - [20 LLM Questions You’ll See Everywhere in 2026](https://www.analyticsvidhya.com/blog/2026/01/llm-interview-questions-and-answers/) (2026-01-30)
-- [5 Biggest Hackathons of 2026 That You Can’t Miss](https://www.analyticsvidhya.com/blog/2026/01/top-hackathons-to-participate-in/) (2026-01-30)
-- [Make PPTs, PDFs, and Excel Sheets in Seconds With Kimi K2.5](https://www.analyticsvidhya.com/blog/2026/01/make-ppts-pdfs-and-excel-sheets-in-seconds-with-kimi-k2-5/) (2026-01-29)
 
 </details>
 
