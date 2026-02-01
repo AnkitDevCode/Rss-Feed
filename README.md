@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Indonesia ‘conditionally’ lifts ban on Grok](https://techcrunch.com/2026/02/01/indonesia-conditionally-lifts-ban-on-grok/) (2026-02-01)
+- [TechCrunch Mobility: The great Tesla rebranding](https://techcrunch.com/2026/02/01/techcrunch-mobility-the-great-tesla-rebranding/) (2026-02-01)
+- [India offers zero taxes through 2047 to lure global AI workloads](https://techcrunch.com/2026/02/01/india-offers-zero-taxes-through-2047-to-lure-global-ai-workloads/) (2026-02-01)
+- [Bye-bye corporate conglomerates. Hello personal conglomerates.](https://techcrunch.com/2026/02/01/bye-bye-corporate-conglomerates-hello-personal-conglomerates/) (2026-02-01)
 - [Meet the new European unicorns of 2026](https://techcrunch.com/2026/01/31/meet-the-new-european-unicorns-of-2026/) (2026-02-01)
-- [Waymo reportedly raising a $16B funding round](https://techcrunch.com/2026/01/31/waymo-reportedly-raising-a-16-billion-funding-round/) (2026-01-31)
-- [SpaceX seeks federal approval to launch 1 million solar-powered satellite data centers](https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/) (2026-01-31)
-- [Nvidia CEO pushes back against report that his company’s $100B OpenAI investment has stalled](https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/) (2026-01-31)
-- [HomeBoost’s app will show you where to save on your utility bills](https://techcrunch.com/2026/01/31/homeboosts-app-will-show-you-where-to-save-on-your-utility-bills/) (2026-01-31)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [How to Scale a System from 0 to 10M+ Users](https://blog.algomaster.io/p/scaling-a-system-from-0-to-10-million-users) (2026-02-01)
-- [Amiga Unix (Amix)](https://www.amigaunix.com/doku.php/home) (2026-02-01)
-- [FOSDEM 2026 – Open-Source Conference in Brussels – Day#1 Recap](https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/) (2026-02-01)
-- [Netbird a German Tailscale alternative (P2P WireGuard-based overlay network)](https://netbird.io/) (2026-02-01)
-- [What I learned building an opinionated and minimal coding agent](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/) (2026-02-01)
+- [NCR Tower 1632 – Computer Ads from the Past](https://computeradsfromthepast.substack.com/p/ncr-tower-1632) (2026-02-01)
+- [Apple: Our philosophy is to provide software for our machines free (1976)](http://apple1.chez.com/Apple1project/Gallery/Gallery.htm) (2026-02-01)
+- [Aging muscle stem cells shift from rapid repair to long-term survival](https://phys.org/news/2026-01-sprint-marathon-aging-muscle-stem.html) (2026-02-01)
+- [Real engineering failures instead of success stories](https://failhub.substack.com/p/failhub-issue-1) (2026-02-01)
+- [Show HN: Voiden – an offline, Git-native API tool built around Markdown](https://github.com/VoidenHQ/voiden) (2026-02-01)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Nvidia CEO denies he’s ‘unhappy’ with OpenAI](https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai) (2026-01-31)
-- [“No more Minnesota nice, Minneapolis will strike”](https://www.theverge.com/policy/871606/minneapolis-general-strike-anti-ice-protest) (2026-01-31)
-- [SpaceX wants to put 1 million solar-powered data centers into orbit](https://www.theverge.com/tech/871641/spacex-fcc-1-million-solar-powered-data-centers-satellites-orbit) (2026-01-31)
-- [The AirPods 4 and Google’s 4K streamer are just two of this week’s best deals](https://www.theverge.com/gadgets/871092/airpods-4-anc-google-tv-streamer-4k-deal-sale) (2026-01-31)
-- [Cassette Boy forces you to see its world in a whole new way](https://www.theverge.com/games/867020/cassette-boy-review-pc-playstation-xbox-nintendo-switch) (2026-01-31)
+- [You need to listen to M83’s icy post-rock record Dead Cities, Red Seas &#038; Lost Ghosts](https://www.theverge.com/column/871847/m83-dead-cities-red-seas-lost-ghosts) (2026-02-01)
+- [This tiny pocket-friendly e-reader is packed with frustration and potential](https://www.theverge.com/tech/870583/xteink-x4-e-ink-reader-books-hands-on) (2026-02-01)
+- [I don’t hate the robot barista like I thought I would](https://www.theverge.com/tech/871350/artly-robot-coffee-jarvis-seattle) (2026-02-01)
+- [Antigravity’s 360-degree A1 drone is nearly $250 off](https://www.theverge.com/gadgets/870772/antigravity-insta360-a1-drone-deal-sale) (2026-02-01)
+- [The telephoto is the only phone camera that really matters](https://www.theverge.com/column/870883/telephoto-phone-camera) (2026-02-01)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [At NIH, a power struggle over institute directorships deepens](https://arstechnica.com/science/2026/02/at-nih-a-power-struggle-over-institute-directorships-deepens/) (2026-02-01)
+- [Fungus could be the insecticide of the future](https://arstechnica.com/science/2026/02/fungus-could-be-the-insecticide-of-the-future/) (2026-02-01)
 - [Research roundup: 6 cool stories we almost missed](https://arstechnica.com/science/2026/01/research-roundup-6-cool-stories-we-almost-missed-2/) (2026-01-31)
 - [A cup of coffee for depression treatment has better results than microdosing](https://arstechnica.com/health/2026/01/placebo-outperforms-lsd-microdosing-for-depression/) (2026-01-31)
 - [The TV industry finally concedes that the future may not be in 8K](https://arstechnica.com/gadgets/2026/01/lg-joins-the-rest-of-the-world-accepts-that-people-dont-want-8k-tvs/) (2026-01-30)
-- [ICE protester says her Global Entry was revoked after agent scanned her face](https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/) (2026-01-30)
-- [TrumpRx delayed as senators question if it's a giant scam with Big Pharma](https://arstechnica.com/health/2026/01/trumprx-delayed-as-senators-question-if-its-a-giant-scam-with-big-pharma/) (2026-01-30)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I Finally Built a Resizable Sidebar UI – A Personal Milestone in My Developer Journey](https://dev.to/usama_dev/i-finally-built-a-resizable-sidebar-ui-a-personal-milestone-in-my-developer-journey-2lf) (2026-02-01)
-- [From Chaos to Claws: How OpenClaw Won Open Source in a Single Week](https://dev.to/safdarali25/from-chaos-to-claws-how-openclaw-won-open-source-in-a-single-week-1a85) (2026-02-01)
-- [Java Virtual Threads — Quick Guide](https://dev.to/ankitdevcode/java-virtual-threads-quick-guide-1jca) (2026-02-01)
-- [The Pitfalls of Test Coverage: Introducing Mutation Testing with Stryker and Cosmic Ray](https://dev.to/wintrover/the-pitfalls-of-test-coverage-introducing-mutation-testing-with-stryker-and-cosmic-ray-1kcg) (2026-02-01)
-- [Deep dive into how Bifrost’s MCP Gateway and Code Mode enable scalable, production-grade LLM systems 🔥, reducing token costs, improving determinism, and making MCP-based AI workflows predictable, debuggable, and ready for real-world infrastructure.](https://dev.to/hadil/deep-dive-into-how-bifrosts-mcp-gateway-and-code-mode-enable-scalable-production-grade-llm-4jp2) (2026-02-01)
+- [PHP fun: back to basics](https://dev.to/xwero/php-fun-back-to-basics-23ho) (2026-02-01)
+- [The Doctor's On-Call Shift solved with SQL Assertions](https://dev.to/franckpachot/the-doctors-on-call-shift-solved-with-sql-assertions-30fh) (2026-02-01)
+- [Why Everyone Is Talking About Claude Code (And Why Open Source is Sleeping on the Sidelines)](https://dev.to/zayanmohamed/why-everyone-is-talking-about-claude-code-and-why-open-source-is-sleeping-on-the-sidelines-12ek) (2026-02-01)
+- [How to Reduce Email Bounce Rates with API Validation](https://dev.to/fatih_dast_02805571fb1/how-to-reduce-email-bounce-rates-with-api-validation-df8) (2026-02-01)
+- [How to Add a Subdomain with Hetzner DNS API](https://dev.to/giveitatry/how-to-add-a-subdomain-with-hetzner-dns-api-5g1d) (2026-02-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why Being Self-Taught Made Me a Better Learner](https://medium.com/@anuragdeshmukh668/why-being-self-taught-made-me-a-better-learner-a6b449204b45?source=rss------programming-5) (2026-02-01)
-- [Linux Kernel Secrets Most Developers Learn Too Late (Lecture 1)](https://learnocracy.medium.com/linux-kernel-secrets-most-developers-learn-too-late-lecture-1-252d51191ecd?source=rss------programming-5) (2026-02-01)
-- [Vibe Coding Is a Trap?](https://aliffrhn.medium.com/vibe-coding-is-a-trap-a0c6686b134d?source=rss------programming-5) (2026-02-01)
-- [Lovave AI Review: Realistic Expectations](https://medium.com/@mralexhill/lovave-ai-review-realistic-expectations-d42504755d4d?source=rss------programming-5) (2026-02-01)
-- [Frontend Tools That Actually Reduce Bugs ](https://osintteam.blog/frontend-tools-that-actually-reduce-bugs-177950ef9de3?source=rss------programming-5) (2026-02-01)
+- [We Ditched Helm for a Spreadsheet. Now Our Kubernetes Deploys Are Foolproof and 10x Faster.](https://aws.plainenglish.io/we-ditched-helm-for-a-spreadsheet-now-our-kubernetes-deploys-are-foolproof-and-10x-faster-548a125ce006?source=rss------programming-5) (2026-02-01)
+- [Solve Logging as a Cross-Cutting Concern with MediatR in .NET 9](https://medium.com/@maged_/solve-logging-as-a-cross-cutting-concern-with-mediatr-in-net-9-47ff46c0bb06?source=rss------programming-5) (2026-02-01)
+- [Clean Architecture in .NET: A Complete Production-Ready Guide](https://medium.com/@michaelmaurice410/clean-architecture-in-net-a-complete-production-ready-guide-49dcbdb22166?source=rss------programming-5) (2026-02-01)
+- [Managing Permissions With EF Core Migrations](https://medium.com/@mariammaurice/managing-permissions-with-ef-core-migrations-7c2630a3f12f?source=rss------programming-5) (2026-02-01)
+- [90% of Java Microservices Fail — These 7 Design Patterns Are the Difference](https://medium.com/@devlogicwrites/90-of-java-microservices-fail-these-7-design-patterns-are-the-difference-309ca4578240?source=rss------programming-5) (2026-02-01)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
 - [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
 - [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
 - [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
 - [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
+- [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/company/bringing-sendgrid-and-segment-to-twili
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Distributed Reinforcement Learning for Scalable High-Performance Policy Optimization](https://towardsdatascience.com/distributed-reinforcement-learning-for-scalable-high-performance-policy-optimization/) (2026-02-01)
 - [How to Apply Agentic Coding to Solve Problems](https://towardsdatascience.com/how-to-apply-agentic-coding-to-solve-problem/) (2026-01-31)
 - [How to Run Claude Code for Free with Local and Cloud Models from Ollama](https://towardsdatascience.com/run-claude-code-for-free-with-local-and-cloud-models-from-ollama/) (2026-01-31)
 - [Creating an Etch A Sketch App Using Python and Turtle](https://towardsdatascience.com/creating-an-etch-a-sketch-app-using-python-turtle/) (2026-01-30)
 - [Why Your Multi-Agent System is Failing: Escaping the 17x Error Trap of the “Bag of Agents”](https://towardsdatascience.com/why-your-multi-agent-system-is-failing-escaping-the-17x-error-trap-of-the-bag-of-agents/) (2026-01-30)
-- [On the Possibility of Small Networks for Physics-Informed Learning](https://towardsdatascience.com/on-the-possibility-of-small-networks-for-physics-informed-learning/) (2026-01-30)
 
 </details>
 
