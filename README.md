@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Swift is a more convenient Rust](https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust) (2026-01-31)
-- [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/) (2026-01-31)
-- [Generative AI and Wikipedia editing: What we learned in 2025](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/) (2026-01-31)
-- [Outsourcing thinking](https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html) (2026-01-31)
-- [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer) (2026-01-31)
+- [Show HN: OpenJuris – AI legal research with citations from primary sources](https://openjuris.org/) (2026-02-01)
+- [Apple-1 Computer Prototype Board #0 sold for $2.75M](https://www.rrauction.com/auctions/lot-detail/350902407346003-apple-1-computer-prototype-board-0-the-celebration-board-representing-the-earliest-known-fiberglass-apple-1-prototype/) (2026-02-01)
+- [List animals until failure](https://rose.systems/animalist/) (2026-02-01)
+- [Sparse File LRU Cache](http://ternarysearch.blogspot.com/2026/01/sparse-file-lru-cache.html) (2026-02-01)
+- [Cells use 'bioelectricity' to coordinate and make group decisions](https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/) (2026-02-01)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How I Cut My AI Coding Tool Costs by 70% (And You Can Too)](https://dev.to/vishal_veerareddy_9cdd17d/how-i-cut-my-ai-coding-tool-costs-by-70-and-you-can-too-ol0) (2026-02-01)
-- [Supercharge Your Hytale Modding Workflow with mdevtools](https://dev.to/mbround18/hytale-mod-development-hot-reloading-46je) (2026-02-01)
-- [C++ Signatures: It’s Not Just About Performance, It’s About Ownership](https://dev.to/granza/c-signatures-its-not-just-about-performance-its-about-ownership-2hi7) (2026-02-01)
-- [[AWS] Testing whether Kiro's web tools can be used in conjunction with other features [Kiro]](https://dev.to/aws-builders/aws-testing-whether-kiros-web-tools-can-be-used-in-conjunction-with-other-features-kiro-1h47) (2026-02-01)
-- [The Human-Machine Interface: An Intelligent Engineering Portfolio](https://dev.to/phoenixa/the-human-machine-interface-an-intelligent-engineering-portfolio-o0p) (2026-02-01)
+- [Loss Functions for Beginners](https://dev.to/olabamipetaiwo/loss-functions-for-beginners-5gfl) (2026-02-01)
+- [[Opinion]Today's frontend is easy to be messed up and we need to organize it](https://dev.to/uponthesky/opiniontodays-frontend-is-easy-to-be-messed-up-and-we-need-to-organize-it-17hl) (2026-02-01)
+- [Building a Privacy-First URL Shortener on Blockchain](https://dev.to/wes_parsons_57932a30dc1f3/building-a-privacy-first-url-shortener-on-blockchain-17n4) (2026-02-01)
+- [I built a civic engagement platform because contacting your representatives shouldn't be this hard](https://dev.to/ashmortar/i-built-a-civic-engagement-platform-because-contacting-your-representatives-shouldnt-be-this-hard-1jjb) (2026-02-01)
+- [Design Secure Access To AWS Resources](https://dev.to/aws-builders/design-secure-access-to-aws-resources-4l8g) (2026-02-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Infosys Interview Questions | Java Developer (4 Years Experience)](https://medium.com/@ajit-gupta/infosys-interview-questions-java-developer-4-years-experience-e9a15587406b?source=rss------programming-5) (2026-02-01)
-- [DAY-10(Rust Programming)](https://medium.com/@VulnHunt3r/day-10-rust-programming-765ab6f97fd7?source=rss------programming-5) (2026-02-01)
-- [How to Use Falco in Kubernetes (Free Falco Notebook for CKS Exam Prep)](https://medium.com/@DynamoDevOps/how-to-use-falco-in-kubernetes-free-falco-notebook-for-cks-exam-prep-717898293015?source=rss------programming-5) (2026-02-01)
-- [Ideal Individuals: A Philosophical and Personal Analysis of Rare Thinking Patterns](https://medium.com/@uuyy7099/ideal-individuals-a-philosophical-and-personal-analysis-of-rare-thinking-patterns-51c5d446ebd5?source=rss------programming-5) (2026-02-01)
-- [Symfony Security Architecture Explained](https://tuhinbepari.medium.com/symfony-security-architecture-explained-how-firewalls-authenticators-and-user-providers-work-together-e2101a49f1c2?source=rss------programming-5) (2026-02-01)
+- [How Monitoring Teaches Attackers How to Hide](https://blog.devgenius.io/how-monitoring-teaches-attackers-how-to-hide-34fc3c1ddd38?source=rss------programming-5) (2026-02-01)
+- [15 JavaScript Concepts Interviewers Expect You to Know (2026)](https://mohammadtabishanwar9.medium.com/15-javascript-concepts-interviewers-expect-you-to-know-2026-7308662ff823?source=rss------programming-5) (2026-02-01)
+- [Logical Border Radius in CSS (And Why It Quietly Messes With Your Brain)](https://er-raj-aryan.medium.com/logical-border-radius-in-css-and-why-it-quietly-messes-with-your-brain-b0bf9a316b90?source=rss------programming-5) (2026-02-01)
+- [Stop Writing For Loops. These 2 Python Operators Will Clean Your Code in Seconds](https://python.plainenglish.io/stop-writing-for-loops-these-2-python-operators-will-clean-your-code-in-seconds-6ecebe834b12?source=rss------programming-5) (2026-02-01)
+- [Stop Writing Messy Python: These 9 Tips Make Your Code Read Like Poetry](https://medium.com/the-pythonworld/stop-writing-messy-python-these-9-tips-make-your-code-read-like-poetry-834e7013f914?source=rss------programming-5) (2026-02-01)
 
 </details>
 
