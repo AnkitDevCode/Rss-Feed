@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [TikTok says its services are restored after the outage](https://techcrunch.com/2026/02/01/tiktok-says-its-services-are-restored-after-the-outage/) (2026-02-02)
 - [AI layoffs or ‘AI-washing’?](https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/) (2026-02-01)
 - [Why Tether’s CEO is everywhere right now](https://techcrunch.com/2026/02/01/why-tethers-ceo-is-everywhere-right-now/) (2026-02-01)
 - [Amazon’s ‘Melania’ documentary makes $7M on opening weekend](https://techcrunch.com/2026/02/01/amazons-melania-documentary-makes-7m-on-opening-weekend/) (2026-02-01)
 - [Indonesia ‘conditionally’ lifts ban on Grok](https://techcrunch.com/2026/02/01/indonesia-conditionally-lifts-ban-on-grok/) (2026-02-01)
-- [TechCrunch Mobility: The great Tesla rebranding](https://techcrunch.com/2026/02/01/techcrunch-mobility-the-great-tesla-rebranding/) (2026-02-01)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: Wikipedia as a doomscrollable social media feed](https://xikipedia.org) (2026-02-02)
-- [Time Machine-style Backups with rsync (2018)](https://samuelhewitt.com/blog/2018-06-05-time-machine-style-backups-with-rsync) (2026-02-02)
-- [History and Timeline of the Proco Rat Pedal (2021)](https://web.archive.org/web/20211030011207/https://thejhsshow.com/articles/history-and-timeline-of-the-proco-rat-pedal) (2026-02-01)
-- [Two kinds of AI users are emerging. The gap between them is astonishing](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/) (2026-02-01)
-- [Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation](https://github.com/gavrielc/nanoclaw) (2026-02-01)
+- [Leaked Chats Expose the Daily Life of a Scam Compound's Enslaved Workforce](https://www.wired.com/story/the-red-bull-leaks/) (2026-02-02)
+- [Apple's MacBook Pro DFU port documentation is wrong](https://lapcatsoftware.com/articles/2026/2/1.html) (2026-02-02)
+- [Building a Telegram Bot with Cloudflare Workers, Durable Objects and Grammy](https://flashblaze.xyz/posts/cloudflare-workers-durable-objects-telegram-bot/) (2026-02-02)
+- [Notepad++ hijacked by state-sponsored actors](https://notepad-plus-plus.org/news/hijacked-incident-info-update/) (2026-02-02)
+- [Actors: A Model of Concurrent Computation [pdf] (1985)](https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf) (2026-02-02)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [VAIDAS: Real-Time ADAS Inference on VAI Architecture](https://dev.to/wiowiztech/vaidas-real-time-adas-inference-on-vai-architecture-4d1o) (2026-02-02)
-- [🛂 Beginner-Friendly Guide 'Divide an Array Into Subarrays With Minimum Cost II' - Problem 3013 (C++, Python, JavaScript)](https://dev.to/om_shree_0709/beginner-friendly-guide-divide-an-array-into-subarrays-with-minimum-cost-ii-problem-3013-2en5) (2026-02-02)
-- [No Redis Required: Zero-Config Job Queue for Bun](https://dev.to/egeominotti/no-redis-required-zero-config-job-queue-for-bun-1fn8) (2026-02-02)
-- [My stumbles to my presentation page](https://dev.to/stma/my-stumbles-to-my-presentation-page-31ii) (2026-02-02)
-- [Biohack Your Health: Building a Science-Backed Supplement Advisor with Qdrant & PubMed 🧪](https://dev.to/wellallytech/biohack-your-health-building-a-science-backed-supplement-advisor-with-qdrant-pubmed-4d9e) (2026-02-02)
+- [Officially Google Cloud Certified: Associate Cloud Engineer Path](https://dev.to/urielalonso/officially-google-cloud-certified-associate-cloud-engineer-path-5dh6) (2026-02-02)
+- [I created small mcp server for Jupyter Notebook.](https://dev.to/cshara/i-created-small-mcp-server-for-jupyter-notebook-14l6) (2026-02-02)
+- [Scaling Vue 3 Forms: A Pattern for Handling Heavy Data Reactivity](https://dev.to/avsecdongol/scaling-vue-3-forms-a-pattern-for-handling-heavy-data-reactivity-nnk) (2026-02-02)
+- [A Portfolio That Grows From Nothing — AI Generates Everything in Real-Time](https://dev.to/pecoglhf/a-portfolio-that-grows-from-nothing-ai-generates-everything-in-real-time-2kc1) (2026-02-02)
+- [[AutoBe] Hardcore function calling benchmark in backend coding agent.](https://dev.to/samchon/autobe-hardcore-function-calling-benchmark-in-backend-coding-agent-42ko) (2026-02-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Panduan Lengkap Bermain di JAWARA88 untuk Pemula](https://medium.com/@jacklinandrian2/panduan-lengkap-bermain-di-jawara88-untuk-pemula-2f55b5a55524?source=rss------programming-5) (2026-02-02)
-- [I Rewrote a Node.js CLI in Rust — It Went From 43s to 1s](https://medium.com/@diehreo/i-rewrote-a-node-js-cli-in-rust-it-went-from-43s-to-1s-c13e38e7fe88?source=rss------programming-5) (2026-02-02)
-- [Most Developers Don’t Understand async/await](https://medium.com/h7w/most-developers-dont-understand-async-await-0358915d02c0?source=rss------programming-5) (2026-02-02)
-- [Solidity Events: Communicating with the Outside World](https://blog.stackademic.com/solidity-events-communicating-with-the-outside-world-fe20f93ae783?source=rss------programming-5) (2026-02-02)
-- [I Benchmarked 8 Programming Languages — The Fastest in 2026 Surprised Me](https://levelup.gitconnected.com/i-benchmarked-8-programming-languages-the-fastest-in-2026-surprised-me-39132feea721?source=rss------programming-5) (2026-02-02)
+- [Things I Googled as a Beginner That Make Me Laugh Now](https://blog.devgenius.io/things-i-googled-as-a-beginner-that-make-me-laugh-now-fdfa25dbb9dd?source=rss------programming-5) (2026-02-02)
+- [Best Flutter Developer for Modern Mobile Apps: Everything You Need to Know](https://medium.com/@appverse.technology/best-flutter-developer-for-modern-mobile-apps-everything-you-need-to-know-22d0cf2adea6?source=rss------programming-5) (2026-02-02)
+- [doas vs sudo - Pilih Mana untuk OpenBSD?](https://medium.com/@kurniatamvan13/doas-vs-sudo-pilih-mana-untuk-openbsd-708e6f21ee00?source=rss------programming-5) (2026-02-02)
+- [Performance optimizations that failed in production (and what actually worked)](https://medium.com/codex/performance-optimizations-that-failed-in-production-and-what-actually-worked-fee84b4e8425?source=rss------programming-5) (2026-02-02)
+- [Statically Typed vs Dynamically Typed Languages: A Comprehensive Deep Dive](https://medium.com/@harshaddhongade2023/statically-typed-vs-dynamically-typed-languages-a-comprehensive-deep-dive-e30c09ec4439?source=rss------programming-5) (2026-02-02)
 
 </details>
 
