@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [These AI notetaking devices can help you record and transcribe your meetings](https://techcrunch.com/2026/02/02/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/) (2026-02-02)
 - [TikTok says its services are restored after the outage](https://techcrunch.com/2026/02/01/tiktok-says-its-services-are-restored-after-the-outage/) (2026-02-02)
 - [AI layoffs or ‘AI-washing’?](https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/) (2026-02-01)
 - [Why Tether’s CEO is everywhere right now](https://techcrunch.com/2026/02/01/why-tethers-ceo-is-everywhere-right-now/) (2026-02-01)
 - [Amazon’s ‘Melania’ documentary makes $7M on opening weekend](https://techcrunch.com/2026/02/01/amazons-melania-documentary-makes-7m-on-opening-weekend/) (2026-02-01)
-- [Indonesia ‘conditionally’ lifts ban on Grok](https://techcrunch.com/2026/02/01/indonesia-conditionally-lifts-ban-on-grok/) (2026-02-01)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Leaked Chats Expose the Daily Life of a Scam Compound's Enslaved Workforce](https://www.wired.com/story/the-red-bull-leaks/) (2026-02-02)
-- [Apple's MacBook Pro DFU port documentation is wrong](https://lapcatsoftware.com/articles/2026/2/1.html) (2026-02-02)
-- [Building a Telegram Bot with Cloudflare Workers, Durable Objects and Grammy](https://flashblaze.xyz/posts/cloudflare-workers-durable-objects-telegram-bot/) (2026-02-02)
-- [Notepad++ hijacked by state-sponsored actors](https://notepad-plus-plus.org/news/hijacked-incident-info-update/) (2026-02-02)
-- [Actors: A Model of Concurrent Computation [pdf] (1985)](https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf) (2026-02-02)
+- [EU must become a 'genuine federation' to avoid deindustrialisation and decline](https://www.euronews.com/my-europe/2026/02/02/eu-must-become-a-genuine-federation-to-avoid-deindustrialisation-and-decline-draghi-says) (2026-02-02)
+- [Applications where agents are first-class citizens](https://every.to/guides/agent-native) (2026-02-02)
+- [Claude Code is suddenly everywhere inside Microsoft](https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad) (2026-02-02)
+- [Microsoft is walking back Windows 11's AI overload](https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall) (2026-02-02)
+- [Termux](https://github.com/termux/termux-app) (2026-02-02)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The tragedy of Supernatural](https://www.theverge.com/tech/871250/supernatural-meta-vr-fitness-community) (2026-02-02)
 - [Bill Gates says accusations contained in Epstein files are ‘absolutely absurd’](https://www.theverge.com/tech/871879/bill-gates-epstein-files-absolutely-absurd) (2026-02-01)
 - [Shedding light on Iran’s longest internet blackout](https://www.theverge.com/policy/871848/iran-blackout-internet-mahsa-alimardani) (2026-02-01)
 - [You need to listen to M83’s icy post-rock record Dead Cities, Red Seas &#038; Lost Ghosts](https://www.theverge.com/column/871847/m83-dead-cities-red-seas-lost-ghosts) (2026-02-01)
 - [This tiny pocket-friendly e-reader is packed with frustration and potential](https://www.theverge.com/tech/870583/xteink-x4-e-ink-reader-books-hands-on) (2026-02-01)
-- [I don’t hate the robot barista like I thought I would](https://www.theverge.com/tech/871350/artly-robot-coffee-jarvis-seattle) (2026-02-01)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [What’s next for EV batteries in 2026](https://www.technologyreview.com/2026/02/02/1132042/whats-next-for-ev-batteries-in-2026/) (2026-02-02)
 - [Inside the marketplace powering bespoke AI deepfakes of real women](https://www.technologyreview.com/2026/01/30/1131945/inside-the-marketplace-powering-bespoke-ai-deepfakes-of-real-women/) (2026-01-30)
 - [The Download: US immigration agencies’ AI videos, and inside the Vitalism movement](https://www.technologyreview.com/2026/01/30/1132022/the-download-us-immigration-agencies-ai-videos-and-inside-the-vitalism-movement/) (2026-01-30)
 - [How the sometimes-weird world of lifespan extension is gaining influence](https://www.technologyreview.com/2026/01/30/1131933/weird-world-lifespan-extension-gaining-influence-oneill-arpa-h/) (2026-01-30)
 - [The AI Hype Index: Grok makes porn, and Claude Code nails your job](https://www.technologyreview.com/2026/01/29/1131787/the-ai-hype-index-grok-makes-porn-claude-code-nails-your-job/) (2026-01-29)
-- [DHS is using Google and Adobe AI to make videos](https://www.technologyreview.com/2026/01/29/1131938/dhs-is-using-google-and-adobe-ai-to-make-videos/) (2026-01-29)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Officially Google Cloud Certified: Associate Cloud Engineer Path](https://dev.to/urielalonso/officially-google-cloud-certified-associate-cloud-engineer-path-5dh6) (2026-02-02)
-- [I created small mcp server for Jupyter Notebook.](https://dev.to/cshara/i-created-small-mcp-server-for-jupyter-notebook-14l6) (2026-02-02)
-- [Scaling Vue 3 Forms: A Pattern for Handling Heavy Data Reactivity](https://dev.to/avsecdongol/scaling-vue-3-forms-a-pattern-for-handling-heavy-data-reactivity-nnk) (2026-02-02)
-- [A Portfolio That Grows From Nothing — AI Generates Everything in Real-Time](https://dev.to/pecoglhf/a-portfolio-that-grows-from-nothing-ai-generates-everything-in-real-time-2kc1) (2026-02-02)
-- [[AutoBe] Hardcore function calling benchmark in backend coding agent.](https://dev.to/samchon/autobe-hardcore-function-calling-benchmark-in-backend-coding-agent-42ko) (2026-02-02)
+- [PART 2 :CONTROLLER ALL CONCEPT IN SPRINGBOOT PROJECT](https://dev.to/bhu_kalki/part-2-controller-all-concept-in-springboot-project-1fln) (2026-02-02)
+- [Building a 2D Lighting System in PyGame: What Broke, What Worked, and What I Learned](https://dev.to/osmankahraman/building-a-2d-lighting-system-in-pygame-what-broke-what-worked-and-what-i-learned-2o5g) (2026-02-02)
+- [Online Community Demise and why DEV is Different (at least a little bit, I hope)](https://dev.to/ingosteinke/online-community-demise-and-why-dev-is-different-16km) (2026-02-02)
+- [RAG Is Easy. Your Data Isn't. Why AI Projects Fail](https://dev.to/razoorka/rag-is-easy-your-data-isnt-why-ai-projects-fail-5gan) (2026-02-02)
+- [Series Week 14/52 - Multi-Version, Multi-Environment: Where Services Matter Most](https://dev.to/nabhaas/series-week-1452-multi-version-multi-environment-where-services-matter-most-4nl7) (2026-02-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Things I Googled as a Beginner That Make Me Laugh Now](https://blog.devgenius.io/things-i-googled-as-a-beginner-that-make-me-laugh-now-fdfa25dbb9dd?source=rss------programming-5) (2026-02-02)
-- [Best Flutter Developer for Modern Mobile Apps: Everything You Need to Know](https://medium.com/@appverse.technology/best-flutter-developer-for-modern-mobile-apps-everything-you-need-to-know-22d0cf2adea6?source=rss------programming-5) (2026-02-02)
-- [doas vs sudo - Pilih Mana untuk OpenBSD?](https://medium.com/@kurniatamvan13/doas-vs-sudo-pilih-mana-untuk-openbsd-708e6f21ee00?source=rss------programming-5) (2026-02-02)
-- [Performance optimizations that failed in production (and what actually worked)](https://medium.com/codex/performance-optimizations-that-failed-in-production-and-what-actually-worked-fee84b4e8425?source=rss------programming-5) (2026-02-02)
-- [Statically Typed vs Dynamically Typed Languages: A Comprehensive Deep Dive](https://medium.com/@harshaddhongade2023/statically-typed-vs-dynamically-typed-languages-a-comprehensive-deep-dive-e30c09ec4439?source=rss------programming-5) (2026-02-02)
+- [# My Journey From Student to Aspiring AI & Full-Stack Developer — Shivam Rajput](https://medium.com/@pubglitebaninindia/my-journey-from-student-to-aspiring-ai-full-stack-developer-shivam-rajput-1fcd2d0b6070?source=rss------programming-5) (2026-02-02)
+- [Rust vs. JS/TS: The Performance Gap Is Closing — But Not How You Think](https://medium.com/@ashishjsharda/rust-vs-js-ts-the-performance-gap-is-closing-but-not-how-you-think-766db3c94ffd?source=rss------programming-5) (2026-02-02)
+- [Vibecoding, AI, and the Gradual Degradation of Codebases](https://medium.com/@pedrocarvi1111/vibecoding-ai-and-the-gradual-degradation-of-codebases-de39e9e438cf?source=rss------programming-5) (2026-02-02)
+- [Vibecoding, IA y la degradación gradual de las bases de código](https://medium.com/@pedrocarvi1111/vibecoding-y-el-desgaste-progresivo-del-c%C3%B3digo-dc45de43daa4?source=rss------programming-5) (2026-02-02)
+- [The Salary Negotiation Mistake That Cost Me $15,000 in My First DevOps Job](https://medium.com/@osomudeyazudonu/the-salary-negotiation-mistake-that-cost-me-15-000-in-my-first-devops-job-852d20f09916?source=rss------programming-5) (2026-02-02)
 
 </details>
 
@@ -198,9 +198,9 @@
 
 - [OpenSSL Security Advisory Assessment, January 2026](https://nodejs.org/en/blog/vulnerability/openssl-fixes-in-regular-releases-jan2026) (2026-01-28)
 - [Node.js 25.5.0 (Current)](https://nodejs.org/en/blog/release/v25.5.0) (2026-01-26)
+- [Chalk to Node.js util styleText](https://nodejs.org/en/blog/migrations/chalk-to-styletext) (2026-01-23)
 - [New HackerOne Signal Requirement for Vulnerability Reports](https://nodejs.org/en/blog/announcements/hackerone-signal-requirement) (2026-01-21)
 - [Node.js 25.4.0 (Current)](https://nodejs.org/en/blog/release/v25.4.0) (2026-01-19)
-- [Mitigating Denial-of-Service Vulnerability from Unrecoverable Stack Space Exhaustion for React, Next.js, and APM Users](https://nodejs.org/en/blog/vulnerability/january-2026-dos-mitigation-async-hooks) (2026-01-13)
 
 </details>
 
@@ -557,11 +557,11 @@ https://www.twilio.com/en-us/blog/company/bringing-sendgrid-and-segment-to-twili
 <details>
 <summary>🤖 AI News</summary>
 
+- [How SAP is modernising HMRC’s tax infrastructure with AI](https://www.artificialintelligence-news.com/news/how-sap-modernising-hmrc-tax-infrastructure-with-ai/) (2026-02-02)
+- [ThoughtSpot: On the new fleet of agents delivering modern analytics](https://www.artificialintelligence-news.com/news/thoughtspot-on-the-new-fleet-of-agents-delivering-modern-analytics/) (2026-02-02)
 - [AI use surges at Travelers as call centre roles reduce](https://www.artificialintelligence-news.com/news/travelers-ai-in-contact-centres-two-stage-innovation-strategy/) (2026-01-30)
 - [PepsiCo is using AI to rethink how factories are designed and updated](https://www.artificialintelligence-news.com/news/pepsico-is-using-ai-to-rethink-how-factories-are-designed-and-updated/) (2026-01-30)
 - [China’s hyperscalers bet billions on agentic AI as commerce becomes the new battleground](https://www.artificialintelligence-news.com/news/china-hyperscalers-agentic-ai-commerce-battleground/) (2026-01-30)
-- [Insurers betting big on AI: Accenture](https://www.artificialintelligence-news.com/news/accenture-report-on-ai-in-insurance-sector/) (2026-01-29)
-- [Deloitte sounds alarm as AI agent deployment outruns safety frameworks](https://www.artificialintelligence-news.com/news/deloitte-agentic-ai-guidelines-published/) (2026-01-28)
 
 </details>
 
@@ -579,11 +579,11 @@ https://www.twilio.com/en-us/blog/company/bringing-sendgrid-and-segment-to-twili
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Big Offer for Airtel Users: Free Access to Adobe Express Premium Worth Rs 4,000](https://www.analyticsvidhya.com/blog/2026/02/airtel-free-adobe-express-premium-offer/) (2026-02-02)
 - [Gradient Boosting vs AdaBoost vs XGBoost vs CatBoost vs LightGBM: Finding the Best Gradient Boosting Method](https://www.analyticsvidhya.com/blog/2026/02/gradient-boosting-vs-adaboost-vs-xgboost-vs-catboost-vs-lightgbm/) (2026-02-01)
 - [Moltbook: Where Your AI Agent Goes to Socialize](https://www.analyticsvidhya.com/blog/2026/02/moltbook-for-openclaw-agents/) (2026-01-31)
 - [End-to-End Machine Learning Project on Amazon Sales Data Using Python ](https://www.analyticsvidhya.com/blog/2026/01/machine-learning-project-on-amazon-sales-data-using-python/) (2026-01-31)
 - [5 Gemini Prompts for JEE Preparation](https://www.analyticsvidhya.com/blog/2026/01/jee-preparation-with-gemini-top-prompts/) (2026-01-30)
-- [20 LLM Questions You’ll See Everywhere in 2026](https://www.analyticsvidhya.com/blog/2026/01/llm-interview-questions-and-answers/) (2026-01-30)
 
 </details>
 
@@ -601,11 +601,11 @@ https://www.twilio.com/en-us/blog/company/bringing-sendgrid-and-segment-to-twili
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [A Beginner’s Reading List for Large Language Models for 2026](https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/) (2026-02-02)
 - [7 Important Considerations Before Deploying Agentic AI in Production](https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/) (2026-01-29)
 - [5 Ways to Use Cross-Validation to Improve Time Series Models](https://machinelearningmastery.com/5-ways-to-use-cross-validation-to-improve-time-series-models/) (2026-01-28)
 - [The 3 Invisible Risks Every LLM App Faces (And How to Guard Against Them)](https://machinelearningmastery.com/the-3-invisible-risks-every-llm-app-faces-and-how-to-guard-against-them/) (2026-01-27)
 - [Leveling Up Your Machine Learning: What To Do After Andrew Ng’s Course](https://machinelearningmastery.com/leveling-up-your-machine-learning-what-to-do-after-andrew-ngs-course/) (2026-01-26)
-- [The 2026 Time Series Toolkit: 5 Foundation Models for Autonomous Forecasting](https://machinelearningmastery.com/the-2026-time-series-toolkit-5-foundation-models-for-autonomous-forecasting/) (2026-01-22)
 
 </details>
 
