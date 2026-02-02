@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [AI layoffs or ‘AI-washing’?](https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/) (2026-02-01)
+- [Why Tether’s CEO is everywhere right now](https://techcrunch.com/2026/02/01/why-tethers-ceo-is-everywhere-right-now/) (2026-02-01)
+- [Amazon’s ‘Melania’ documentary makes $7M on opening weekend](https://techcrunch.com/2026/02/01/amazons-melania-documentary-makes-7m-on-opening-weekend/) (2026-02-01)
 - [Indonesia ‘conditionally’ lifts ban on Grok](https://techcrunch.com/2026/02/01/indonesia-conditionally-lifts-ban-on-grok/) (2026-02-01)
 - [TechCrunch Mobility: The great Tesla rebranding](https://techcrunch.com/2026/02/01/techcrunch-mobility-the-great-tesla-rebranding/) (2026-02-01)
-- [India offers zero taxes through 2047 to lure global AI workloads](https://techcrunch.com/2026/02/01/india-offers-zero-taxes-through-2047-to-lure-global-ai-workloads/) (2026-02-01)
-- [Bye-bye corporate conglomerates. Hello personal conglomerates.](https://techcrunch.com/2026/02/01/bye-bye-corporate-conglomerates-hello-personal-conglomerates/) (2026-02-01)
-- [Meet the new European unicorns of 2026](https://techcrunch.com/2026/01/31/meet-the-new-european-unicorns-of-2026/) (2026-02-01)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [NCR Tower 1632 – Computer Ads from the Past](https://computeradsfromthepast.substack.com/p/ncr-tower-1632) (2026-02-01)
-- [Apple: Our philosophy is to provide software for our machines free (1976)](http://apple1.chez.com/Apple1project/Gallery/Gallery.htm) (2026-02-01)
-- [Aging muscle stem cells shift from rapid repair to long-term survival](https://phys.org/news/2026-01-sprint-marathon-aging-muscle-stem.html) (2026-02-01)
-- [Real engineering failures instead of success stories](https://failhub.substack.com/p/failhub-issue-1) (2026-02-01)
-- [Show HN: Voiden – an offline, Git-native API tool built around Markdown](https://github.com/VoidenHQ/voiden) (2026-02-01)
+- [Show HN: Wikipedia as a doomscrollable social media feed](https://xikipedia.org) (2026-02-02)
+- [Time Machine-style Backups with rsync (2018)](https://samuelhewitt.com/blog/2018-06-05-time-machine-style-backups-with-rsync) (2026-02-02)
+- [History and Timeline of the Proco Rat Pedal (2021)](https://web.archive.org/web/20211030011207/https://thejhsshow.com/articles/history-and-timeline-of-the-proco-rat-pedal) (2026-02-01)
+- [Two kinds of AI users are emerging. The gap between them is astonishing](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/) (2026-02-01)
+- [Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation](https://github.com/gavrielc/nanoclaw) (2026-02-01)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Bill Gates says accusations contained in Epstein files are ‘absolutely absurd’](https://www.theverge.com/tech/871879/bill-gates-epstein-files-absolutely-absurd) (2026-02-01)
+- [Shedding light on Iran’s longest internet blackout](https://www.theverge.com/policy/871848/iran-blackout-internet-mahsa-alimardani) (2026-02-01)
 - [You need to listen to M83’s icy post-rock record Dead Cities, Red Seas &#038; Lost Ghosts](https://www.theverge.com/column/871847/m83-dead-cities-red-seas-lost-ghosts) (2026-02-01)
 - [This tiny pocket-friendly e-reader is packed with frustration and potential](https://www.theverge.com/tech/870583/xteink-x4-e-ink-reader-books-hands-on) (2026-02-01)
 - [I don’t hate the robot barista like I thought I would](https://www.theverge.com/tech/871350/artly-robot-coffee-jarvis-seattle) (2026-02-01)
-- [Antigravity’s 360-degree A1 drone is nearly $250 off](https://www.theverge.com/gadgets/870772/antigravity-insta360-a1-drone-deal-sale) (2026-02-01)
-- [The telephoto is the only phone camera that really matters](https://www.theverge.com/column/870883/telephoto-phone-camera) (2026-02-01)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [PHP fun: back to basics](https://dev.to/xwero/php-fun-back-to-basics-23ho) (2026-02-01)
-- [The Doctor's On-Call Shift solved with SQL Assertions](https://dev.to/franckpachot/the-doctors-on-call-shift-solved-with-sql-assertions-30fh) (2026-02-01)
-- [Why Everyone Is Talking About Claude Code (And Why Open Source is Sleeping on the Sidelines)](https://dev.to/zayanmohamed/why-everyone-is-talking-about-claude-code-and-why-open-source-is-sleeping-on-the-sidelines-12ek) (2026-02-01)
-- [How to Reduce Email Bounce Rates with API Validation](https://dev.to/fatih_dast_02805571fb1/how-to-reduce-email-bounce-rates-with-api-validation-df8) (2026-02-01)
-- [How to Add a Subdomain with Hetzner DNS API](https://dev.to/giveitatry/how-to-add-a-subdomain-with-hetzner-dns-api-5g1d) (2026-02-01)
+- [VAIDAS: Real-Time ADAS Inference on VAI Architecture](https://dev.to/wiowiztech/vaidas-real-time-adas-inference-on-vai-architecture-4d1o) (2026-02-02)
+- [🛂 Beginner-Friendly Guide 'Divide an Array Into Subarrays With Minimum Cost II' - Problem 3013 (C++, Python, JavaScript)](https://dev.to/om_shree_0709/beginner-friendly-guide-divide-an-array-into-subarrays-with-minimum-cost-ii-problem-3013-2en5) (2026-02-02)
+- [No Redis Required: Zero-Config Job Queue for Bun](https://dev.to/egeominotti/no-redis-required-zero-config-job-queue-for-bun-1fn8) (2026-02-02)
+- [My stumbles to my presentation page](https://dev.to/stma/my-stumbles-to-my-presentation-page-31ii) (2026-02-02)
+- [Biohack Your Health: Building a Science-Backed Supplement Advisor with Qdrant & PubMed 🧪](https://dev.to/wellallytech/biohack-your-health-building-a-science-backed-supplement-advisor-with-qdrant-pubmed-4d9e) (2026-02-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [We Ditched Helm for a Spreadsheet. Now Our Kubernetes Deploys Are Foolproof and 10x Faster.](https://aws.plainenglish.io/we-ditched-helm-for-a-spreadsheet-now-our-kubernetes-deploys-are-foolproof-and-10x-faster-548a125ce006?source=rss------programming-5) (2026-02-01)
-- [Solve Logging as a Cross-Cutting Concern with MediatR in .NET 9](https://medium.com/@maged_/solve-logging-as-a-cross-cutting-concern-with-mediatr-in-net-9-47ff46c0bb06?source=rss------programming-5) (2026-02-01)
-- [Clean Architecture in .NET: A Complete Production-Ready Guide](https://medium.com/@michaelmaurice410/clean-architecture-in-net-a-complete-production-ready-guide-49dcbdb22166?source=rss------programming-5) (2026-02-01)
-- [Managing Permissions With EF Core Migrations](https://medium.com/@mariammaurice/managing-permissions-with-ef-core-migrations-7c2630a3f12f?source=rss------programming-5) (2026-02-01)
-- [90% of Java Microservices Fail — These 7 Design Patterns Are the Difference](https://medium.com/@devlogicwrites/90-of-java-microservices-fail-these-7-design-patterns-are-the-difference-309ca4578240?source=rss------programming-5) (2026-02-01)
+- [Panduan Lengkap Bermain di JAWARA88 untuk Pemula](https://medium.com/@jacklinandrian2/panduan-lengkap-bermain-di-jawara88-untuk-pemula-2f55b5a55524?source=rss------programming-5) (2026-02-02)
+- [I Rewrote a Node.js CLI in Rust — It Went From 43s to 1s](https://medium.com/@diehreo/i-rewrote-a-node-js-cli-in-rust-it-went-from-43s-to-1s-c13e38e7fe88?source=rss------programming-5) (2026-02-02)
+- [Most Developers Don’t Understand async/await](https://medium.com/h7w/most-developers-dont-understand-async-await-0358915d02c0?source=rss------programming-5) (2026-02-02)
+- [Solidity Events: Communicating with the Outside World](https://blog.stackademic.com/solidity-events-communicating-with-the-outside-world-fe20f93ae783?source=rss------programming-5) (2026-02-02)
+- [I Benchmarked 8 Programming Languages — The Fastest in 2026 Surprised Me](https://levelup.gitconnected.com/i-benchmarked-8-programming-languages-the-fastest-in-2026-surprised-me-39132feea721?source=rss------programming-5) (2026-02-02)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
 - [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
 - [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
 - [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
 - [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
-- [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
 
 </details>
 
