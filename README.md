@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Firefox will soon let you block all of its generative AI features](https://techcrunch.com/2026/02/02/firefox-will-soon-let-you-block-all-of-its-generative-ai-features/) (2026-02-02)
-- [Grubhub waives delivery and service fees on restaurant orders over $50](https://techcrunch.com/2026/02/02/grubhub-waives-delivery-service-fees-orders-over-50/) (2026-02-02)
-- [OpenAI launches new MacOS app for agentic coding](https://techcrunch.com/2026/02/02/openai-launches-new-macos-app-for-agentic-coding/) (2026-02-02)
-- [Notepad++ says Chinese government hackers hijacked its software updates for months](https://techcrunch.com/2026/02/02/notepad-says-chinese-government-hackers-hijacked-its-software-updates-for-months/) (2026-02-02)
-- [Ring brings its ‘Search Party’ feature for finding lost dogs to non-Ring camera owners](https://techcrunch.com/2026/02/02/ring-brings-its-search-party-feature-for-finding-lost-dogs-to-non-ring-camera-owners/) (2026-02-02)
+- [Fintech CEO and Forbes 30 Under 30 alum has been charged for alleged fraud](https://techcrunch.com/2026/02/02/fintech-ceo-and-forbes-30-under-30-alum-has-been-charged-for-alleged-fraud/) (2026-02-03)
+- [Waymo raises $16B to scale robotaxi fleet internationally](https://techcrunch.com/2026/02/02/waymo-raises-16-billion-round-to-scale-robotaxi-fleet-london-tokyo/) (2026-02-02)
+- [Elon Musk’s SpaceX officially acquires Elon Musk’s xAI, with plan to build data centers in space](https://techcrunch.com/2026/02/02/elon-musk-spacex-acquires-xai-data-centers-space-merger/) (2026-02-02)
+- [China is leading the fight against hidden car door handles](https://techcrunch.com/2026/02/02/china-is-leading-the-fight-against-hidden-car-door-handles/) (2026-02-02)
+- [Adobe Animate is shutting down as company focuses on AI](https://techcrunch.com/2026/02/02/adobe-animate-is-shutting-down-as-company-focuses-on-ai/) (2026-02-02)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [EPA Advances Farmers' Right to Repair](https://www.epa.gov/newsreleases/epa-advances-farmers-right-repair-their-own-equipment-saving-repair-costs-and) (2026-02-02)
-- [The Codex App](https://openai.com/index/introducing-the-codex-app/) (2026-02-02)
-- [Advancing AI Benchmarking with Game Arena](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/) (2026-02-02)
-- [Linux From Scratch Ends SysVinit Support](https://lists.linuxfromscratch.org/sympa/arc/lfs-announce/2026-02/msg00000.html) (2026-02-02)
-- [Being sane in insane places (1973) [pdf]](https://www.weber.edu/wsuimages/psychology/FacultySites/Horvat/OnBeingSaneInInsanePlaces.PDF) (2026-02-02)
+- [GitHub discusses giving maintainers control to disable PRs](https://github.com/orgs/community/discussions/185387) (2026-02-03)
+- [How does misalignment scale with model intelligence and task complexity?](https://alignment.anthropic.com/2026/hot-mess-of-ai/) (2026-02-03)
+- [Firefox Getting New Controls to Turn Off AI Features](https://www.macrumors.com/2026/02/02/firefox-ai-toggle/) (2026-02-02)
+- [Julia](https://borretti.me/fiction/julia) (2026-02-02)
+- [Court orders restart of all US offshore wind power construction](https://arstechnica.com/science/2026/02/court-orders-restart-of-all-us-offshore-wind-construction/) (2026-02-02)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Former Windows 8 boss recruited Epstein to help negotiate his messy Microsoft exit](https://www.theverge.com/report/872073/steven-sinofsky-jeffrey-epstein-files-emails-microsoft-exit-settlement) (2026-02-02)
-- [Abxylute’s new Switch 2 controller is for all the die-hard GameCube fans](https://www.theverge.com/tech/872223/abxylute-nintendo-switch-2-controller-n6-n9c-gamecube-retro) (2026-02-02)
-- [The Verge’s 2026 Valentine’s Day gift guide (for her)](https://www.theverge.com/gadgets/865281/valentines-day-2026-gift-ideas-for-her-girlfriend-wife-partner) (2026-02-02)
-- [Sony’s last-gen, but still great 1000XM5 are cheaper than ever](https://www.theverge.com/gadgets/872182/sony-xm5-noise-canceling-headphones-super-bowl-tv-deal-sale) (2026-02-02)
-- [OpenClaw: all the news about the trending AI agent](https://www.theverge.com/news/872091/openclaw-moltbot-clawdbot-ai-agent-news) (2026-02-02)
+- [Adobe Animate is shutting down next month](https://www.theverge.com/news/872731/adobe-animate-app-shutdown-date) (2026-02-02)
+- [Waymo raises $16 billion to take its robotaxi business ‘global’](https://www.theverge.com/transportation/872651/waymo-raises-16-billion-investment-value-robotaxi) (2026-02-02)
+- [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals) (2026-02-02)
+- [Elon Musk merges SpaceX with xAI (and X)](https://www.theverge.com/tech/872619/elon-musk-merges-spacex-with-xai-and-x) (2026-02-02)
+- [Will Elon Musk’s emails with Jeffrey Epstein derail his very important year?](https://www.theverge.com/tech/872450/elon-musk-jeffrey-epstein-emails-spacex-ipo-tesla) (2026-02-02)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Interview: Civilization VII’s devs on the big update meant to win critics back](https://arstechnica.com/gaming/2026/02/interview-civilization-viis-devs-on-the-big-update-meant-to-win-critics-back/) (2026-02-02)
-- [Here's what Cities: Skylines 2’s new developer is updating first](https://arstechnica.com/gaming/2026/02/heres-what-cities-skylines-2s-new-developer-is-updating-first/) (2026-02-02)
-- [Narwhals become quieter as the Arctic Ocean grows louder](https://arstechnica.com/science/2026/02/narwhals-become-quieter-as-the-arctic-ocean-grows-louder/) (2026-02-02)
-- [NASA gears up for one more key test before launching Artemis II to the Moon](https://arstechnica.com/space/2026/02/nasa-gears-up-for-one-more-key-test-before-launching-artemis-ii-to-the-moon/) (2026-02-02)
-- [At NIH, a power struggle over institute directorships deepens](https://arstechnica.com/science/2026/02/at-nih-a-power-struggle-over-institute-directorships-deepens/) (2026-02-01)
+- [Looking back at Catacomb 3D, the game that led to Wolfenstein 3D](https://arstechnica.com/gaming/2026/02/looking-back-at-catacomb-3d-the-game-that-led-to-wolfenstein-3d/) (2026-02-02)
+- [Streaming service Crunchyroll raises prices weeks after killing its free tier](https://arstechnica.com/gadgets/2026/02/streaming-service-crunchyroll-raises-prices-weeks-after-killing-its-free-tier/) (2026-02-02)
+- [SpaceX acquires xAI, plans to launch a massive satellite constellation to power it](https://arstechnica.com/ai/2026/02/spacex-acquires-xai-plans-1-million-satellite-constellation-to-power-it/) (2026-02-02)
+- [Russian drones use Starlink, but Ukraine has plan to block their Internet access](https://arstechnica.com/tech-policy/2026/02/russian-drones-use-starlink-but-ukraine-has-plan-to-block-their-internet-access/) (2026-02-02)
+- [Court orders restart of all US offshore wind construction](https://arstechnica.com/science/2026/02/court-orders-restart-of-all-us-offshore-wind-construction/) (2026-02-02)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Methods and Parameter Usage in C#](https://dev.to/allcoderthings/methods-and-parameter-usage-in-c-5ja) (2026-02-02)
-- [Plan Mode: Think Twice, Execute Once](https://dev.to/rajeshroyal/plan-mode-think-twice-execute-once-1bmp) (2026-02-02)
-- [Eliminating the GC Tax: Rust's Deterministic Memory for AI Inference at Scale](https://dev.to/syrius_contact_24f6f1d273/eliminating-the-gc-tax-rusts-deterministic-memory-for-ai-inference-at-scale-1d5) (2026-02-02)
-- [My FOSDEM 2026 watchlist](https://dev.to/floord/my-fosdem-2026-watchlist-4pkg) (2026-02-02)
-- [Building Indx.sh - Automating Content Discovery: How We Crawl GitHub for AI Resources](https://dev.to/micronink/building-indxsh-automating-content-discovery-how-we-crawl-github-for-ai-resources-fj3) (2026-02-02)
+- [I Built an API-First URL Shortener You Can White-Label](https://dev.to/anand_rathnas_d5b608cc3de/i-built-an-api-first-url-shortener-you-can-white-label-1o7h) (2026-02-03)
+- [Unrealdev.nvim Update: Migration to Rust Server and MessagePack-RPC for High-Performance UE Development 2026/02/02](https://dev.to/taku25/unrealdevnvim-update-migration-to-rust-server-and-messagepack-rpc-for-high-performance-ue-2eo6) (2026-02-03)
+- [I Built a Free Auth0 Alternative That Gives You 20+ Routes in One Line of Code](https://dev.to/dhruv_agnihotri_064dad7e4/i-built-a-free-auth0-alternative-that-gives-you-20-routes-in-one-line-of-code-28nl) (2026-02-03)
+- [🏔️ Beginner-Friendly Guide 'Trionic Array I' - Problem 3637 (C++, Python, JavaScript)](https://dev.to/om_shree_0709/beginner-friendly-guide-trionic-array-i-problem-3637-c-python-javascript-3mad) (2026-02-03)
+- [Module 2 Summary - Workflow Orchestration with Kestra Part 3](https://dev.to/abdelrahman_adnan/module-2-summary-workflow-orchestration-with-kestra-part-3-4nn8) (2026-02-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Nobody Told Me This About OpenClaw | Clawdbot(124k Stars)](https://gdsks.medium.com/nobody-told-me-this-about-openclaw-clawdbot-124k-stars-e822746c09b1?source=rss------programming-5) (2026-02-02)
-- [If You’re a Software Engineer in 2026, This Career Strategy Matters More Than Coding Skills](https://medium.com/@Bhushankakad45/if-youre-a-software-engineer-in-2026-this-career-strategy-matters-more-than-coding-skills-63fa9b5dd6cc?source=rss------programming-5) (2026-02-02)
-- [How We Debug Slow Microservices in 18 Minutes (Not 4 Hours): A Prometheus + OpenTelemetry Guide ](https://arg-software.medium.com/how-we-debug-slow-microservices-in-18-minutes-not-4-hours-a-prometheus-opentelemetry-guide-0d7b551d1722?source=rss------programming-5) (2026-02-02)
-- [Beyond the Basics: 7 ‘Secret’ Golang Features Senior Developers Rely On](https://medium.com/@geragaming0212/beyond-the-basics-7-secret-golang-features-senior-developers-rely-on-69ace477cf8a?source=rss------programming-5) (2026-02-02)
-- [Data Analyst Interviews Don’t Fail on Python. They Fail on Thinking.](https://python.plainenglish.io/data-analyst-interviews-dont-fail-on-python-they-fail-on-thinking-e7feabcebfa6?source=rss------programming-5) (2026-02-02)
+- [Menjelajahi Stack Server Bersama Coding Ceria X Penjelajah CyberSecurity](https://medium.com/@kurniatamvan13/menjelajahi-stack-server-bersama-coding-ceria-x-penjelajah-cybersecurity-e650665b2ea4?source=rss------programming-5) (2026-02-03)
+- [15 Programming Habits That Didn’t Make Me a Better Engineer — Until I Was About to Burn Out](https://medium.com/@vallabhsangale7/15-programming-habits-that-didnt-make-me-a-better-engineer-until-i-was-about-to-burn-out-16f21aaf79ae?source=rss------programming-5) (2026-02-03)
+- [Temporal API Watchlist: The Date/Time Upgrade We Wanted](https://medium.com/@Praxen/temporal-api-watchlist-the-date-time-upgrade-we-wanted-dd86689c58ca?source=rss------programming-5) (2026-02-03)
+- [JavaScript 2026: Less Magic, More Discipline](https://medium.com/@duckweave/javascript-2026-less-magic-more-discipline-fad602f9c186?source=rss------programming-5) (2026-02-03)
+- [JavaScript for Beginners: Bringing Interactivity to the Web](https://caksaji.medium.com/javascript-for-beginners-bringing-interactivity-to-the-web-30d63527341c?source=rss------programming-5) (2026-02-03)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
 - [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
 - [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
 - [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
 - [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
-- [Microsoft’s strategic AI datacenter planning enables seamless, large-scale NVIDIA Rubin deployments](https://azure.microsoft.com/en-us/blog/microsofts-strategic-ai-datacenter-planning-enables-seamless-large-scale-nvidia-rubin-deployments/) (2026-01-05)
 
 </details>
 
