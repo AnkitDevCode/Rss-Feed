@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [GitHub discusses giving maintainers control to disable PRs](https://github.com/orgs/community/discussions/185387) (2026-02-03)
+- [Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition](https://krzysztofjankowski.com/floppinux/floppinux-2025.html) (2026-02-03)
+- [Coding assistants are solving the wrong problem](https://www.bicameral-ai.com/blog/introducing-bicameral) (2026-02-03)
+- [Frog 'saunas' could help endangered species beat a deadly fungus (2024)](https://www.science.org/content/article/frog-saunas-could-help-endangered-species-beat-deadly-fungus) (2026-02-03)
+- [Ask HN: Anyone else struggle with how to learn coding in the AI era?](https://news.ycombinator.com/item?id=46866165) (2026-02-03)
 - [How does misalignment scale with model intelligence and task complexity?](https://alignment.anthropic.com/2026/hot-mess-of-ai/) (2026-02-03)
-- [Firefox Getting New Controls to Turn Off AI Features](https://www.macrumors.com/2026/02/02/firefox-ai-toggle/) (2026-02-02)
-- [Julia](https://borretti.me/fiction/julia) (2026-02-02)
-- [Court orders restart of all US offshore wind power construction](https://arstechnica.com/science/2026/02/court-orders-restart-of-all-us-offshore-wind-construction/) (2026-02-02)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Generating text with diffusion (and ROI with LLMs)](https://stackoverflow.blog/2026/02/03/generating-text-with-diffusion-and-roi-with-llms/) (2026-02-03)
 - [What’s new at Stack Overflow: February 2026](https://stackoverflow.blog/2026/02/02/what-s-new-at-stack-overflow-february-2026/) (2026-02-02)
 - [Wanna see a CSS magic trick?](https://stackoverflow.blog/2026/01/30/wanna-see-a-css-magic-trick/) (2026-01-30)
 - [Scaling enterprise AI: lessons in governance and operating models from IBM](https://stackoverflow.blog/2026/01/29/scaling-enterprise-ai-lessons-in-governance-and-operating-models-from-ibm/) (2026-01-29)
 - [Are you learning with AI? We want to know about it!](https://stackoverflow.blog/2026/01/29/are-you-learning-with-ai-we-want-to-know-about-it/) (2026-01-29)
-- [Are bugs and incidents inevitable with AI coding agents?](https://stackoverflow.blog/2026/01/28/are-bugs-and-incidents-inevitable-with-ai-coding-agents/) (2026-01-28)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I Built an API-First URL Shortener You Can White-Label](https://dev.to/anand_rathnas_d5b608cc3de/i-built-an-api-first-url-shortener-you-can-white-label-1o7h) (2026-02-03)
-- [Unrealdev.nvim Update: Migration to Rust Server and MessagePack-RPC for High-Performance UE Development 2026/02/02](https://dev.to/taku25/unrealdevnvim-update-migration-to-rust-server-and-messagepack-rpc-for-high-performance-ue-2eo6) (2026-02-03)
-- [I Built a Free Auth0 Alternative That Gives You 20+ Routes in One Line of Code](https://dev.to/dhruv_agnihotri_064dad7e4/i-built-a-free-auth0-alternative-that-gives-you-20-routes-in-one-line-of-code-28nl) (2026-02-03)
-- [🏔️ Beginner-Friendly Guide 'Trionic Array I' - Problem 3637 (C++, Python, JavaScript)](https://dev.to/om_shree_0709/beginner-friendly-guide-trionic-array-i-problem-3637-c-python-javascript-3mad) (2026-02-03)
-- [Module 2 Summary - Workflow Orchestration with Kestra Part 3](https://dev.to/abdelrahman_adnan/module-2-summary-workflow-orchestration-with-kestra-part-3-4nn8) (2026-02-03)
+- [Streamlining Data Hygiene During High Traffic Events with Python in DevOps](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-data-hygiene-during-high-traffic-events-with-python-in-devops-1h1b) (2026-02-03)
+- [I have 8 users and Google Gemini is my Marketing Manager. Week 1 Reality.](https://dev.to/donald_wono_2494bee04aa88/i-have-8-users-and-google-gemini-is-my-marketing-manager-week-1-reality-kp5) (2026-02-03)
+- [The Startup Studio Engine: Why Agile is the Secret Sauce at Frugal Scientific](https://dev.to/shinto_peter_38a3dc9fcdab/the-startup-studio-engine-why-agile-is-the-secret-sauce-at-frugal-scientific-37o5) (2026-02-03)
+- [Securing Legacy Test Environments: Eliminating PII Leaks on Linux](https://dev.to/mohammad_waseem_c31f3a26f/securing-legacy-test-environments-eliminating-pii-leaks-on-linux-38aa) (2026-02-03)
+- [De PHP a la IA: Tres Estrategias para Modernizar Sistemas Legacy Sin Morir en el Intento](https://dev.to/draexx/de-php-a-la-ia-tres-estrategias-para-modernizar-sistemas-legacy-sin-morir-en-el-intento-3l3g) (2026-02-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Menjelajahi Stack Server Bersama Coding Ceria X Penjelajah CyberSecurity](https://medium.com/@kurniatamvan13/menjelajahi-stack-server-bersama-coding-ceria-x-penjelajah-cybersecurity-e650665b2ea4?source=rss------programming-5) (2026-02-03)
-- [15 Programming Habits That Didn’t Make Me a Better Engineer — Until I Was About to Burn Out](https://medium.com/@vallabhsangale7/15-programming-habits-that-didnt-make-me-a-better-engineer-until-i-was-about-to-burn-out-16f21aaf79ae?source=rss------programming-5) (2026-02-03)
-- [Temporal API Watchlist: The Date/Time Upgrade We Wanted](https://medium.com/@Praxen/temporal-api-watchlist-the-date-time-upgrade-we-wanted-dd86689c58ca?source=rss------programming-5) (2026-02-03)
-- [JavaScript 2026: Less Magic, More Discipline](https://medium.com/@duckweave/javascript-2026-less-magic-more-discipline-fad602f9c186?source=rss------programming-5) (2026-02-03)
-- [JavaScript for Beginners: Bringing Interactivity to the Web](https://caksaji.medium.com/javascript-for-beginners-bringing-interactivity-to-the-web-30d63527341c?source=rss------programming-5) (2026-02-03)
+- [ Build Better Symfony Apps With These 9 Underrated Bundle](https://medium.com/@laurentmn/build-better-symfony-apps-with-these-9-underrated-bundle-9bc40eb0de65?source=rss------programming-5) (2026-02-03)
+- [Methods in Java | Components and Types of Methods in Java](https://medium.com/@LoganFoster_9/methods-in-java-components-and-types-of-methods-in-java-56a9c28e4b6f?source=rss------programming-5) (2026-02-03)
+- [7 Python Patterns That Eliminated 40% of My Code](https://medium.com/the-pythonworld/7-python-patterns-that-eliminated-40-of-my-code-2b1036ba490c?source=rss------programming-5) (2026-02-03)
+- [10 Lessons I Learned from a Principal Engineer That Made Me a Better Developer](https://medium.com/the-software-journal/10-lessons-i-learned-from-a-principal-engineer-that-made-me-a-better-developer-17d05912246f?source=rss------programming-5) (2026-02-03)
+- [Solve a Sudoku puzzle (fill a 9x9 grid) using a backtracking algorithm](https://medium.com/mern-mastery/solve-a-sudoku-puzzle-fill-a-9x9-grid-using-a-backtracking-algorithm-e17da246bbeb?source=rss------programming-5) (2026-02-03)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [PostgreSQL on Azure supercharged for AI](https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/) (2026-02-02)
 - [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
 - [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
 - [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
 - [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
-- [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
 
 </details>
 
