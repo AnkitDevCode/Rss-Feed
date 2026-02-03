@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [India’s Supreme Court to WhatsApp: ‘You cannot play with the right to privacy’](https://techcrunch.com/2026/02/03/indias-supreme-court-to-whatsapp-you-cannot-play-with-the-right-to-privacy/) (2026-02-03)
+- [Vema predicts cheap hydrogen could change where data centers are built](https://techcrunch.com/2026/02/03/vema-predicts-cheap-hydrogen-could-change-where-data-centers-are-built/) (2026-02-03)
+- [Avalanche thinks the fusion power industry should think smaller](https://techcrunch.com/2026/02/03/avalanche-thinks-the-fusion-power-industry-should-think-smaller/) (2026-02-03)
 - [Fintech CEO and Forbes 30 Under 30 alum has been charged for alleged fraud](https://techcrunch.com/2026/02/02/fintech-ceo-and-forbes-30-under-30-alum-has-been-charged-for-alleged-fraud/) (2026-02-03)
 - [Waymo raises $16B to scale robotaxi fleet internationally](https://techcrunch.com/2026/02/02/waymo-raises-16-billion-round-to-scale-robotaxi-fleet-london-tokyo/) (2026-02-02)
-- [Elon Musk’s SpaceX officially acquires Elon Musk’s xAI, with plan to build data centers in space](https://techcrunch.com/2026/02/02/elon-musk-spacex-acquires-xai-data-centers-space-merger/) (2026-02-02)
-- [China is leading the fight against hidden car door handles](https://techcrunch.com/2026/02/02/china-is-leading-the-fight-against-hidden-car-door-handles/) (2026-02-02)
-- [Adobe Animate is shutting down as company focuses on AI](https://techcrunch.com/2026/02/02/adobe-animate-is-shutting-down-as-company-focuses-on-ai/) (2026-02-02)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition](https://krzysztofjankowski.com/floppinux/floppinux-2025.html) (2026-02-03)
-- [Coding assistants are solving the wrong problem](https://www.bicameral-ai.com/blog/introducing-bicameral) (2026-02-03)
-- [Frog 'saunas' could help endangered species beat a deadly fungus (2024)](https://www.science.org/content/article/frog-saunas-could-help-endangered-species-beat-deadly-fungus) (2026-02-03)
-- [Ask HN: Anyone else struggle with how to learn coding in the AI era?](https://news.ycombinator.com/item?id=46866165) (2026-02-03)
-- [How does misalignment scale with model intelligence and task complexity?](https://alignment.anthropic.com/2026/hot-mess-of-ai/) (2026-02-03)
+- [Emerge Career (YC S22) Is Hiring a Founding Product Designer](https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer) (2026-02-03)
+- [Paris prosecutors raid France offices of Elon Musk's X](https://www.bbc.com/news/articles/ce3ex92557jo) (2026-02-03)
+- [What's up with all those equals signs anyway?](https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/) (2026-02-03)
+- [Rentahuman – The Meatspace Layer for AI](https://rentahuman.ai) (2026-02-03)
+- [Show HN: Safe-now.live – Ultra-light emergency info site (<10KB)](https://safe-now.live) (2026-02-03)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The Model S changed everything](https://www.theverge.com/transportation/872631/tesla-model-s-obituary-discontinued-design-software-elon) (2026-02-03)
+- [A community organizer&#8217;s guide to Signal group chats](https://www.theverge.com/tech/872493/signal-community-organizing-guide-group-chat) (2026-02-03)
+- [How to tear gas children](https://www.theverge.com/policy/872783/tear-gas-children-portland-ice-labor) (2026-02-03)
+- [The Switch is now Nintendo’s best-selling console of all time](https://www.theverge.com/games/872768/nintendo-earnings-switch-best-selling-console-ds) (2026-02-03)
 - [Adobe Animate is shutting down next month](https://www.theverge.com/news/872731/adobe-animate-app-shutdown-date) (2026-02-02)
-- [Waymo raises $16 billion to take its robotaxi business ‘global’](https://www.theverge.com/transportation/872651/waymo-raises-16-billion-investment-value-robotaxi) (2026-02-02)
-- [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals) (2026-02-02)
-- [Elon Musk merges SpaceX with xAI (and X)](https://www.theverge.com/tech/872619/elon-musk-merges-spacex-with-xai-and-x) (2026-02-02)
-- [Will Elon Musk’s emails with Jeffrey Epstein derail his very important year?](https://www.theverge.com/tech/872450/elon-musk-jeffrey-epstein-emails-spacex-ipo-tesla) (2026-02-02)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Unable to tame hydrogen leaks, NASA delays launch of Artemis II until March](https://arstechnica.com/space/2026/02/unable-to-tame-hydrogen-leaks-nasa-delays-launch-of-artemis-ii-until-march/) (2026-02-03)
 - [Looking back at Catacomb 3D, the game that led to Wolfenstein 3D](https://arstechnica.com/gaming/2026/02/looking-back-at-catacomb-3d-the-game-that-led-to-wolfenstein-3d/) (2026-02-02)
 - [Streaming service Crunchyroll raises prices weeks after killing its free tier](https://arstechnica.com/gadgets/2026/02/streaming-service-crunchyroll-raises-prices-weeks-after-killing-its-free-tier/) (2026-02-02)
 - [SpaceX acquires xAI, plans to launch a massive satellite constellation to power it](https://arstechnica.com/ai/2026/02/spacex-acquires-xai-plans-1-million-satellite-constellation-to-power-it/) (2026-02-02)
 - [Russian drones use Starlink, but Ukraine has plan to block their Internet access](https://arstechnica.com/tech-policy/2026/02/russian-drones-use-starlink-but-ukraine-has-plan-to-block-their-internet-access/) (2026-02-02)
-- [Court orders restart of all US offshore wind construction](https://arstechnica.com/science/2026/02/court-orders-restart-of-all-us-offshore-wind-construction/) (2026-02-02)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Microbes could extract the metal needed for cleantech](https://www.technologyreview.com/2026/02/03/1132047/microbes-extract-metal-cleantech/) (2026-02-03)
 - [What we’ve been getting wrong about AI’s truth crisis](https://www.technologyreview.com/2026/02/02/1132068/what-weve-been-getting-wrong-about-ais-truth-crisis/) (2026-02-02)
 - [The crucial first step for designing a successful enterprise AI system](https://www.technologyreview.com/2026/02/02/1131822/the-crucial-first-step-for-designing-a-successful-enterprise-ai-system/) (2026-02-02)
 - [The Download: inside a deepfake marketplace, and EV batteries’ future](https://www.technologyreview.com/2026/02/02/1132049/the-download-inside-a-deepfake-marketplace-and-ev-batteries-future/) (2026-02-02)
 - [What’s next for EV batteries in 2026](https://www.technologyreview.com/2026/02/02/1132042/whats-next-for-ev-batteries-in-2026/) (2026-02-02)
-- [Inside the marketplace powering bespoke AI deepfakes of real women](https://www.technologyreview.com/2026/01/30/1131945/inside-the-marketplace-powering-bespoke-ai-deepfakes-of-real-women/) (2026-01-30)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Streamlining Data Hygiene During High Traffic Events with Python in DevOps](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-data-hygiene-during-high-traffic-events-with-python-in-devops-1h1b) (2026-02-03)
-- [I have 8 users and Google Gemini is my Marketing Manager. Week 1 Reality.](https://dev.to/donald_wono_2494bee04aa88/i-have-8-users-and-google-gemini-is-my-marketing-manager-week-1-reality-kp5) (2026-02-03)
-- [The Startup Studio Engine: Why Agile is the Secret Sauce at Frugal Scientific](https://dev.to/shinto_peter_38a3dc9fcdab/the-startup-studio-engine-why-agile-is-the-secret-sauce-at-frugal-scientific-37o5) (2026-02-03)
-- [Securing Legacy Test Environments: Eliminating PII Leaks on Linux](https://dev.to/mohammad_waseem_c31f3a26f/securing-legacy-test-environments-eliminating-pii-leaks-on-linux-38aa) (2026-02-03)
-- [De PHP a la IA: Tres Estrategias para Modernizar Sistemas Legacy Sin Morir en el Intento](https://dev.to/draexx/de-php-a-la-ia-tres-estrategias-para-modernizar-sistemas-legacy-sin-morir-en-el-intento-3l3g) (2026-02-03)
+- [TimescaleDB Compression: From 150GB to 15GB (90% Reduction, Real Production Data)](https://dev.to/polliog/timescaledb-compression-from-150gb-to-15gb-90-reduction-real-production-data-bnj) (2026-02-03)
+- [Why orchestrators become a bottleneck in multi-agent AI published](https://dev.to/ablyblog/why-orchestrators-become-a-bottleneck-in-multi-agent-ai-published-4mgf) (2026-02-03)
+- [The Fluency Trap: Why We Mistake LLMs Good Grammar for Actual Thought](https://dev.to/hassan_waqar_da5b1dfca8ac/the-fluency-trap-why-we-mistake-llms-good-grammar-for-actual-thought-27ip) (2026-02-03)
+- [Speed Crafting with Machines](https://dev.to/forgonetokens/speed-crafting-with-machines-3i6b) (2026-02-03)
+- [Visual map of LeetCode problems by patterns & sub-patterns](https://dev.to/dr-o-ne/visual-map-of-leetcode-problems-by-patterns-sub-patterns-1mob) (2026-02-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ Build Better Symfony Apps With These 9 Underrated Bundle](https://medium.com/@laurentmn/build-better-symfony-apps-with-these-9-underrated-bundle-9bc40eb0de65?source=rss------programming-5) (2026-02-03)
-- [Methods in Java | Components and Types of Methods in Java](https://medium.com/@LoganFoster_9/methods-in-java-components-and-types-of-methods-in-java-56a9c28e4b6f?source=rss------programming-5) (2026-02-03)
-- [7 Python Patterns That Eliminated 40% of My Code](https://medium.com/the-pythonworld/7-python-patterns-that-eliminated-40-of-my-code-2b1036ba490c?source=rss------programming-5) (2026-02-03)
-- [10 Lessons I Learned from a Principal Engineer That Made Me a Better Developer](https://medium.com/the-software-journal/10-lessons-i-learned-from-a-principal-engineer-that-made-me-a-better-developer-17d05912246f?source=rss------programming-5) (2026-02-03)
-- [Solve a Sudoku puzzle (fill a 9x9 grid) using a backtracking algorithm](https://medium.com/mern-mastery/solve-a-sudoku-puzzle-fill-a-9x9-grid-using-a-backtracking-algorithm-e17da246bbeb?source=rss------programming-5) (2026-02-03)
+- [Should You Start Kotlin Multiplatform in 2026 With Kotlin 2.3?](https://medium.com/@sixtinbydizora/should-you-start-kotlin-multiplatform-in-2026-with-kotlin-2-3-f4dee1d43f5c?source=rss------programming-5) (2026-02-03)
+- [Kotlin 2.3 Type Inference Improvements Explained With Examples](https://medium.com/@androidlab/kotlin-2-3-type-inference-improvements-explained-with-examples-bccd16a8c6db?source=rss------programming-5) (2026-02-03)
+- [What Maintaining an Android App for 5 Years Really Looks Like](https://medium.com/@androidlab/what-maintaining-an-android-app-for-5-years-really-looks-like-b2c91ee69fbc?source=rss------programming-5) (2026-02-03)
+- [Understanding Spark & Snowflake Query Plans for Reliable Data Pipelines](https://thedatatrait.medium.com/understanding-spark-snowflake-query-plans-for-reliable-data-pipelines-8f00814806ff?source=rss------programming-5) (2026-02-03)
+- [the death of the app: why the future of finance is a quiet system ?!](https://medium.com/@Alijenab/the-death-of-the-app-why-the-future-of-finance-is-a-quiet-system-5ed145e78d90?source=rss------programming-5) (2026-02-03)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [PostgreSQL on Azure supercharged for AI](https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/) (2026-02-02)
 - [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
 - [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
 - [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
 - [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
+- [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Pick Your KotlinConf Workshop by What You Want to Learn](https://blog.jetbrains.com/kotlin/2026/02/pick-your-kotlinconf-workshop/) (2026-02-03)
 - [Join the Kotlin Ecosystem Mentorship Program](https://blog.jetbrains.com/kotlin/2026/02/kotlin-ecosystem-mentorship/) (2026-02-02)
 - [Koog x ACP: Connect an Agent to Your IDE and More](https://blog.jetbrains.com/ai/2026/02/koog-x-acp-connect-an-agent-to-your-ide-and-more/) (2026-02-02)
 - [Qodana for Android: Increasing Code Quality for Kotlin-First Teams](https://blog.jetbrains.com/qodana/2026/01/qodana-for-android-kotlin/) (2026-01-31)
 - [Busy Plugin Developers Newsletter – Q4 2025](https://blog.jetbrains.com/platform/2026/01/busy-plugin-developers-newsletter-q4-2025/) (2026-01-30)
-- [ReSharper and Rider 2025.3.2 Updates Out Now!](https://blog.jetbrains.com/dotnet/2026/01/29/resharper-and-rider-2025-3-2/) (2026-01-29)
 
 </details>
 
@@ -546,44 +546,44 @@ https://www.twilio.com/en-us/blog/company/bringing-sendgrid-and-segment-to-twili
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Training Design for Text-to-Image Models: Lessons from Ablations](https://huggingface.co/blog/Photoroom/prx-part2) (2026-02-03)
 - [Introducing NVIDIA Cosmos Policy for Advanced Robot Control](https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control) (2026-01-29)
 - [Introducing Daggr: Chain apps programmatically, inspect visually](https://huggingface.co/blog/daggr) (2026-01-29)
 - [We Got Claude to Build CUDA Kernels and teach open models!](https://huggingface.co/blog/upskill) (2026-01-28)
 - [Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek ](https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2) (2026-01-27)
-- [Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs](https://huggingface.co/blog/tiiuae/emirati-benchmarks) (2026-01-27)
 
 </details>
 
 <details>
 <summary>🤖 AI News</summary>
 
+- [Ronnie Sheth, CEO, SENEN Group: Why now is the time for enterprise AI to ‘get practical’](https://www.artificialintelligence-news.com/news/ronnie-sheth-ceo-senen-group-why-now-is-the-time-for-enterprise-ai-to-get-practical/) (2026-02-03)
+- [Apptio: Why scaling intelligent automation requires financial rigour](https://www.artificialintelligence-news.com/news/apptio-why-scaling-intelligent-automation-requires-financial-rigour/) (2026-02-03)
+- [FedEx tests how far AI can go in tracking and returns management](https://www.artificialintelligence-news.com/news/fedex-tests-how-far-ai-can-go-in-tracking-and-returns-management/) (2026-02-03)
 - [Klarna backs Google UCP to power AI agent payments](https://www.artificialintelligence-news.com/news/klarna-backs-google-ucp-power-ai-agent-payments/) (2026-02-02)
 - [How SAP is modernising HMRC’s tax infrastructure with AI](https://www.artificialintelligence-news.com/news/how-sap-modernising-hmrc-tax-infrastructure-with-ai/) (2026-02-02)
-- [ThoughtSpot: On the new fleet of agents delivering modern analytics](https://www.artificialintelligence-news.com/news/thoughtspot-on-the-new-fleet-of-agents-delivering-modern-analytics/) (2026-02-02)
-- [AI use surges at Travelers as call centre roles reduce](https://www.artificialintelligence-news.com/news/travelers-ai-in-contact-centres-two-stage-innovation-strategy/) (2026-01-30)
-- [PepsiCo is using AI to rethink how factories are designed and updated](https://www.artificialintelligence-news.com/news/pepsico-is-using-ai-to-rethink-how-factories-are-designed-and-updated/) (2026-01-30)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Proximity of the Inception Score as an Evaluation Criterion](https://towardsdatascience.com/the-proximity-of-the-inception-score-as-an-evaluation-criterion/) (2026-02-03)
 - [Building Systems That Survive Real Life](https://towardsdatascience.com/building-systems-that-survive-real-life/) (2026-02-02)
 - [Silicon Darwinism: Why Scarcity Is the Source of True Intelligence](https://towardsdatascience.com/silicon-darwinism-why-scarcity-is-the-source-of-true-intelligence/) (2026-02-02)
 - [Distributed Reinforcement Learning for Scalable High-Performance Policy Optimization](https://towardsdatascience.com/distributed-reinforcement-learning-for-scalable-high-performance-policy-optimization/) (2026-02-01)
 - [How to Apply Agentic Coding to Solve Problems](https://towardsdatascience.com/how-to-apply-agentic-coding-to-solve-problem/) (2026-01-31)
-- [How to Run Claude Code for Free with Local and Cloud Models from Ollama](https://towardsdatascience.com/run-claude-code-for-free-with-local-and-cloud-models-from-ollama/) (2026-01-31)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [6 New Features of Grok Imagine 1.0 [MUST TRY]](https://www.analyticsvidhya.com/blog/2026/02/grok-imagine-1-0-is-here/) (2026-02-03)
+- [Build an AI Study Assistant with Claude Code + Android Studio](https://www.analyticsvidhya.com/blog/2026/02/build-an-ai-study-assistant-with-claude-code-android-studio/) (2026-02-03)
+- [How to Build an OpenClaw Agent in Less Than 10 Minutes](https://www.analyticsvidhya.com/blog/2026/02/how-to-build-an-openclaw-agent/) (2026-02-03)
 - [Prompt Injection Attack: What They Are and How to Prevent Them](https://www.analyticsvidhya.com/blog/2026/02/prompt-injection-attacks-in-llm/) (2026-02-02)
 - [Big Offer for Airtel Users: Free Access to Adobe Express Premium Worth Rs 4,000](https://www.analyticsvidhya.com/blog/2026/02/airtel-free-adobe-express-premium-offer/) (2026-02-02)
-- [Gradient Boosting vs AdaBoost vs XGBoost vs CatBoost vs LightGBM: Finding the Best Gradient Boosting Method](https://www.analyticsvidhya.com/blog/2026/02/gradient-boosting-vs-adaboost-vs-xgboost-vs-catboost-vs-lightgbm/) (2026-02-01)
-- [Moltbook: Where Your AI Agent Goes to Socialize](https://www.analyticsvidhya.com/blog/2026/02/moltbook-for-openclaw-agents/) (2026-01-31)
-- [End-to-End Machine Learning Project on Amazon Sales Data Using Python ](https://www.analyticsvidhya.com/blog/2026/01/machine-learning-project-on-amazon-sales-data-using-python/) (2026-01-31)
 
 </details>
 
