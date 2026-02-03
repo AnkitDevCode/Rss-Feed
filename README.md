@@ -20,66 +20,66 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [India’s Supreme Court to WhatsApp: ‘You cannot play with the right to privacy’](https://techcrunch.com/2026/02/03/indias-supreme-court-to-whatsapp-you-cannot-play-with-the-right-to-privacy/) (2026-02-03)
-- [Vema predicts cheap hydrogen could change where data centers are built](https://techcrunch.com/2026/02/03/vema-predicts-cheap-hydrogen-could-change-where-data-centers-are-built/) (2026-02-03)
-- [Avalanche thinks the fusion power industry should think smaller](https://techcrunch.com/2026/02/03/avalanche-thinks-the-fusion-power-industry-should-think-smaller/) (2026-02-03)
-- [Fintech CEO and Forbes 30 Under 30 alum has been charged for alleged fraud](https://techcrunch.com/2026/02/02/fintech-ceo-and-forbes-30-under-30-alum-has-been-charged-for-alleged-fraud/) (2026-02-03)
-- [Waymo raises $16B to scale robotaxi fleet internationally](https://techcrunch.com/2026/02/02/waymo-raises-16-billion-round-to-scale-robotaxi-fleet-london-tokyo/) (2026-02-02)
+- [Homeland Security is trying to force tech companies to hand over data about Trump critics](https://techcrunch.com/2026/02/03/homeland-security-is-trying-to-force-tech-companies-to-hand-over-data-about-trump-critics/) (2026-02-03)
+- [Skyryse lands another $300M to make flying, even helicopters, simple and safe](https://techcrunch.com/2026/02/03/skyryse-lands-another-300m-to-make-flying-even-helicopters-simple-and-safe/) (2026-02-03)
+- [Agentic coding comes to Apple’s Xcode with agents from Anthropic and OpenAI](https://techcrunch.com/2026/02/03/agentic-coding-comes-to-apples-xcode-26-3-with-agents-from-anthropic-and-openai/) (2026-02-03)
+- [Gradient’s heat pumps get new smarts to enable old-building retrofits](https://techcrunch.com/2026/02/03/gradients-heat-pumps-get-new-smarts-to-enable-old-building-retrofits/) (2026-02-03)
+- [Watch Club is producing short video dramas and building a social network around them](https://techcrunch.com/2026/02/03/watch-club-microdrama-video-social-network/) (2026-02-03)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Emerge Career (YC S22) Is Hiring a Founding Product Designer](https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer) (2026-02-03)
-- [Paris prosecutors raid France offices of Elon Musk's X](https://www.bbc.com/news/articles/ce3ex92557jo) (2026-02-03)
-- [What's up with all those equals signs anyway?](https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/) (2026-02-03)
-- [Rentahuman – The Meatspace Layer for AI](https://rentahuman.ai) (2026-02-03)
-- [Show HN: Safe-now.live – Ultra-light emergency info site (<10KB)](https://safe-now.live) (2026-02-03)
+- [Xcode 26.3 unlocks the power of agentic coding](https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/) (2026-02-03)
+- [I made 20 GDPR deletion requests. 12 were ignored](https://nikolak.com/gdpr-failure/) (2026-02-03)
+- [Deno Sandbox](https://deno.com/blog/introducing-deno-sandbox) (2026-02-03)
+- [Migrate Wizard – IMAP Based Email Migration Tool](https://migratewizard.com/#features) (2026-02-03)
+- [Defining Safe Hardware Design [pdf]](https://people.csail.mit.edu/rachit/files/pubs/safe-hdls.pdf) (2026-02-03)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The Model S changed everything](https://www.theverge.com/transportation/872631/tesla-model-s-obituary-discontinued-design-software-elon) (2026-02-03)
-- [A community organizer&#8217;s guide to Signal group chats](https://www.theverge.com/tech/872493/signal-community-organizing-guide-group-chat) (2026-02-03)
-- [How to tear gas children](https://www.theverge.com/policy/872783/tear-gas-children-portland-ice-labor) (2026-02-03)
-- [The Switch is now Nintendo’s best-selling console of all time](https://www.theverge.com/games/872768/nintendo-earnings-switch-best-selling-console-ds) (2026-02-03)
-- [Adobe Animate is shutting down next month](https://www.theverge.com/news/872731/adobe-animate-app-shutdown-date) (2026-02-02)
+- [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals) (2026-02-03)
+- [French police raid X&#8217;s Paris office as UK investigation continues](https://www.theverge.com/tech/873142/french-police-raid-x-investigation) (2026-02-03)
+- [The Switch is Nintendo&#8217;s best-selling console — and its most transformative](https://www.theverge.com/games/873098/nintendo-switch-era-best-selling-console) (2026-02-03)
+- [Claude Code was down, forcing developers to take a long coffee break](https://www.theverge.com/news/873093/claude-code-down-outage-anthropic) (2026-02-03)
+- [I didn’t expect to love Dyson’s PencilVac Fluffycones – but I did](https://www.theverge.com/tech/872981/dyson-pencilvac-fluffycones-vacuum-hands-on-review) (2026-02-03)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [China bans all retractable car door handles, starting next year](https://arstechnica.com/cars/2026/02/china-bans-all-retractable-car-door-handles-starting-next-year/) (2026-02-03)
+- [Senior staff departing OpenAI as firm prioritizes ChatGPT development](https://arstechnica.com/ai/2026/02/senior-staff-departing-openai-as-firm-prioritizes-chatgpt-development/) (2026-02-03)
+- [The rise of Moltbook suggests viral AI prompts may be the next big security threat](https://arstechnica.com/ai/2026/02/the-rise-of-moltbook-suggests-viral-ai-prompts-may-be-the-next-big-security-threat/) (2026-02-03)
 - [Unable to tame hydrogen leaks, NASA delays launch of Artemis II until March](https://arstechnica.com/space/2026/02/unable-to-tame-hydrogen-leaks-nasa-delays-launch-of-artemis-ii-until-march/) (2026-02-03)
 - [Looking back at Catacomb 3D, the game that led to Wolfenstein 3D](https://arstechnica.com/gaming/2026/02/looking-back-at-catacomb-3d-the-game-that-led-to-wolfenstein-3d/) (2026-02-02)
-- [Streaming service Crunchyroll raises prices weeks after killing its free tier](https://arstechnica.com/gadgets/2026/02/streaming-service-crunchyroll-raises-prices-weeks-after-killing-its-free-tier/) (2026-02-02)
-- [SpaceX acquires xAI, plans to launch a massive satellite constellation to power it](https://arstechnica.com/ai/2026/02/spacex-acquires-xai-plans-1-million-satellite-constellation-to-power-it/) (2026-02-02)
-- [Russian drones use Starlink, but Ukraine has plan to block their Internet access](https://arstechnica.com/tech-policy/2026/02/russian-drones-use-starlink-but-ukraine-has-plan-to-block-their-internet-access/) (2026-02-02)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: squeezing more metal out of aging mines, and AI’s truth crisis](https://www.technologyreview.com/2026/02/03/1132105/the-download-squeezing-more-metal-out-of-aging-mines-and-ais-truth-crisis/) (2026-02-03)
 - [Microbes could extract the metal needed for cleantech](https://www.technologyreview.com/2026/02/03/1132047/microbes-extract-metal-cleantech/) (2026-02-03)
 - [What we’ve been getting wrong about AI’s truth crisis](https://www.technologyreview.com/2026/02/02/1132068/what-weve-been-getting-wrong-about-ais-truth-crisis/) (2026-02-02)
 - [The crucial first step for designing a successful enterprise AI system](https://www.technologyreview.com/2026/02/02/1131822/the-crucial-first-step-for-designing-a-successful-enterprise-ai-system/) (2026-02-02)
 - [The Download: inside a deepfake marketplace, and EV batteries’ future](https://www.technologyreview.com/2026/02/02/1132049/the-download-inside-a-deepfake-marketplace-and-ev-batteries-future/) (2026-02-02)
-- [What’s next for EV batteries in 2026](https://www.technologyreview.com/2026/02/02/1132042/whats-next-for-ev-batteries-in-2026/) (2026-02-02)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [What the fastest-growing tools reveal about how software is being built](https://github.blog/news-insights/octoverse/what-the-fastest-growing-tools-reveal-about-how-software-is-being-built/) (2026-02-03)
 - [How to maximize GitHub Copilot’s agentic capabilities](https://github.blog/ai-and-ml/github-copilot/how-to-maximize-github-copilots-agentic-capabilities/) (2026-02-02)
 - [From pixels to characters: The engineering behind GitHub Copilot CLI’s animated ASCII banner](https://github.blog/engineering/from-pixels-to-characters-the-engineering-behind-github-copilot-clis-animated-ascii-banner/) (2026-01-28)
 - [Year recap and future goals for the GitHub Innovation Graph](https://github.blog/news-insights/policy-news-and-insights/year-recap-and-future-goals-for-the-github-innovation-graph/) (2026-01-28)
 - [7 learnings from Anders Hejlsberg: The architect behind C# and TypeScript](https://github.blog/developer-skills/programming-languages-and-frameworks/7-learnings-from-anders-hejlsberg-the-architect-behind-c-and-typescript/) (2026-01-27)
-- [Help shape the future of open source in Europe](https://github.blog/news-insights/policy-news-and-insights/help-shape-the-future-of-open-source-in-europe/) (2026-01-27)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [TimescaleDB Compression: From 150GB to 15GB (90% Reduction, Real Production Data)](https://dev.to/polliog/timescaledb-compression-from-150gb-to-15gb-90-reduction-real-production-data-bnj) (2026-02-03)
-- [Why orchestrators become a bottleneck in multi-agent AI published](https://dev.to/ablyblog/why-orchestrators-become-a-bottleneck-in-multi-agent-ai-published-4mgf) (2026-02-03)
-- [The Fluency Trap: Why We Mistake LLMs Good Grammar for Actual Thought](https://dev.to/hassan_waqar_da5b1dfca8ac/the-fluency-trap-why-we-mistake-llms-good-grammar-for-actual-thought-27ip) (2026-02-03)
-- [Speed Crafting with Machines](https://dev.to/forgonetokens/speed-crafting-with-machines-3i6b) (2026-02-03)
-- [Visual map of LeetCode problems by patterns & sub-patterns](https://dev.to/dr-o-ne/visual-map-of-leetcode-problems-by-patterns-sub-patterns-1mob) (2026-02-03)
+- [Next.js vs Vite: Choosing the Right Tool in 2026](https://dev.to/shadcndeck_dev/nextjs-vs-vite-choosing-the-right-tool-in-2026-38hp) (2026-02-03)
+- [I accidentally DDoS'd myself (and why you should too)](https://dev.to/nefintec/i-accidentally-ddosd-myself-and-why-you-should-too-38pf) (2026-02-03)
+- [MindOps and the Dawn of Cognitive Operations: From Observability to Understanding](https://dev.to/huzefaaa2/mindops-and-the-dawn-of-cognitive-operations-from-observability-to-understanding-3l52) (2026-02-03)
+- [PostgreSQL automated backups — How to set up automated PostgreSQL backup schedules](https://dev.to/piteradyson/postgresql-automated-backups-how-to-set-up-automated-postgresql-backup-schedules-4d0k) (2026-02-03)
+- [Build a "Military-Grade" Network Scanner in Python (Scapy Tutorial)](https://dev.to/it_solutions_pro/build-a-military-grade-network-scanner-in-python-scapy-tutorial-1a4a) (2026-02-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Should You Start Kotlin Multiplatform in 2026 With Kotlin 2.3?](https://medium.com/@sixtinbydizora/should-you-start-kotlin-multiplatform-in-2026-with-kotlin-2-3-f4dee1d43f5c?source=rss------programming-5) (2026-02-03)
-- [Kotlin 2.3 Type Inference Improvements Explained With Examples](https://medium.com/@androidlab/kotlin-2-3-type-inference-improvements-explained-with-examples-bccd16a8c6db?source=rss------programming-5) (2026-02-03)
-- [What Maintaining an Android App for 5 Years Really Looks Like](https://medium.com/@androidlab/what-maintaining-an-android-app-for-5-years-really-looks-like-b2c91ee69fbc?source=rss------programming-5) (2026-02-03)
-- [Understanding Spark & Snowflake Query Plans for Reliable Data Pipelines](https://thedatatrait.medium.com/understanding-spark-snowflake-query-plans-for-reliable-data-pipelines-8f00814806ff?source=rss------programming-5) (2026-02-03)
-- [the death of the app: why the future of finance is a quiet system ?!](https://medium.com/@Alijenab/the-death-of-the-app-why-the-future-of-finance-is-a-quiet-system-5ed145e78d90?source=rss------programming-5) (2026-02-03)
+- [Finding Duplicates in SQL: With GROUP BY and COUNT](https://medium.com/@vihangathalangedara/finding-duplicates-in-sql-with-group-by-and-count-beac62ce01e1?source=rss------programming-5) (2026-02-03)
+- [Concrete : The Rise of Onchain Finance and the Future of Money](https://medium.com/@yudibudi729/the-rise-of-onchain-finance-and-the-future-of-money-0e71e98af9fe?source=rss------programming-5) (2026-02-03)
+- [As Origens do Código e o Futuro da Programação](https://medium.com/@lopesfilipeaugusto/as-origens-do-c%C3%B3digo-e-o-futuro-da-programa%C3%A7%C3%A3o-d09f0a68a210?source=rss------programming-5) (2026-02-03)
+- [Extremely FAST Paging With Cursor Pagination And Database Index Seek in .NET](https://medium.com/@maged_/extremely-fast-paging-with-cursor-pagination-and-database-index-seek-in-net-3f17a12927a2?source=rss------programming-5) (2026-02-03)
+- [Rust vs C: The “Faster” Myth That’s Wasting Your Engineering Time](https://medium.com/@build_break_learn/rust-vs-c-faster-myth-wasting-your-engineering-time-d91e9236ed54?source=rss------programming-5) (2026-02-03)
 
 </details>
 
@@ -196,11 +196,11 @@
 <details>
 <summary>🟩 Node.js Blog</summary>
 
+- [Node.js 25.6.0 (Current)](https://nodejs.org/en/blog/release/v25.6.0) (2026-02-03)
 - [OpenSSL Security Advisory Assessment, January 2026](https://nodejs.org/en/blog/vulnerability/openssl-fixes-in-regular-releases-jan2026) (2026-01-28)
 - [Node.js 25.5.0 (Current)](https://nodejs.org/en/blog/release/v25.5.0) (2026-01-26)
 - [Chalk to Node.js util styleText](https://nodejs.org/en/blog/migrations/chalk-to-styletext) (2026-01-23)
 - [New HackerOne Signal Requirement for Vulnerability Reports](https://nodejs.org/en/blog/announcements/hackerone-signal-requirement) (2026-01-21)
-- [Node.js 25.4.0 (Current)](https://nodejs.org/en/blog/release/v25.4.0) (2026-01-19)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Introducing Node Readiness Controller](https://kubernetes.io/blog/2026/02/03/introducing-node-readiness-controller/) (2026-02-03)
 - [New Conversion from cgroup v1 CPU Shares to v2 CPU Weight](https://kubernetes.io/blog/2026/01/30/new-cgroup-v1-to-v2-cpu-conversion-formula/) (2026-01-30)
 - [Ingress NGINX: Statement from the Kubernetes Steering and Security Response Committees](https://kubernetes.io/blog/2026/01/29/ingress-nginx-statement/) (2026-01-29)
 - [Experimenting with Gateway API using kind](https://kubernetes.io/blog/2026/01/28/experimenting-gateway-api-with-kind/) (2026-01-28)
 - [Cluster API v1.12: Introducing In-place Updates and Chained Upgrades](https://kubernetes.io/blog/2026/01/27/cluster-api-v1-12-release/) (2026-01-27)
-- [Headlamp in 2025: Project Highlights](https://kubernetes.io/blog/2026/01/22/headlamp-in-2025-project-highlights/) (2026-01-22)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Improve global upload performance with R2 Local Uploads](https://blog.cloudflare.com/r2-local-uploads/) (2026-02-03)
 - [Google’s AI advantage: why crawler separation is the only path to a fair Internet](https://blog.cloudflare.com/uk-google-ai-crawler-policy/) (2026-01-30)
 - [Building vertical microfrontends on Cloudflare’s platform](https://blog.cloudflare.com/vertical-microfrontends/) (2026-01-30)
 - [Introducing Moltworker: a self-hosted personal AI agent, minus the minis](https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/) (2026-01-29)
 - [Building a serverless, post-quantum Matrix homeserver](https://blog.cloudflare.com/serverless-matrix-homeserver-workers/) (2026-01-27)
-- [Cable cuts, storms, and DNS: a look at Internet disruptions in Q4 2025](https://blog.cloudflare.com/q4-2025-internet-disruption-summary/) (2026-01-26)
 
 </details>
 
@@ -458,11 +458,11 @@ https://www.twilio.com/en-us/blog/company/bringing-sendgrid-and-segment-to-twili
 <details>
 <summary>🚀 Apollo GraphQL</summary>
 
+- [Apollo Skills: Teaching AI Agents How to Use Apollo and GraphQL](https://www.apollographql.com/blog/apollo-skills-teaching-ai-agents-how-to-use-apollo-and-graphql) (2026-02-03)
 - [@stream all the things with Apollo Client 4.1](https://www.apollographql.com/blog/stream-all-the-things-with-apollo-client-4-1) (2026-01-21)
 - [Introducing Response Caching: GraphQL‑aware performance for your graph ](https://www.apollographql.com/blog/introducing-response-caching) (2026-01-15)
 - [Securing Apollo Federation Subgraphs: Context and Best Practices](https://www.apollographql.com/blog/securing-apollo-federation-subgraphs-context-and-best-practices) (2026-01-14)
 - [Transforming Capital One’s Data Marketplace with Embedded Governance and a Product Mindset](https://www.apollographql.com/blog/transforming-capital-ones-data-marketplace-with-embedded-governance-and-a-product-mindset) (2026-01-13)
-- [How N-able Certified 1300% Growth with Apollo](https://www.apollographql.com/blog/how-n-able-certified-1300-growth-with-apollo) (2026-01-08)
 
 </details>
 
@@ -480,11 +480,11 @@ https://www.twilio.com/en-us/blog/company/bringing-sendgrid-and-segment-to-twili
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
+- [Streamline Data 360 Onboarding with API-Driven Automation](https://developer.salesforce.com/blogs/2026/02/streamline-data-360-onboarding-with-api-driven-automation.html) (2026-02-03)
 - [Create Faster, Lighter Experience Cloud Sites with Omnistudio Components and LWR](https://developer.salesforce.com/blogs/2026/01/create-faster-lighter-experience-cloud-sites-with-omnistudio-components-and-lwr.html) (2026-01-27)
 - [The Salesforce Developer’s Guide to the Spring ’26 Release](https://developer.salesforce.com/blogs/2026/01/developers-guide-to-the-spring-26-release.html) (2026-01-22)
 - [Agentforce ログの見方：LLM プロンプトをレポートで可視化する方法](https://developer.salesforce.com/blogs/2026/01/jp-create-agentforce-llm-log-with-report.html) (2026-01-21)
 - [Migrate from Aura to LWC with Agentforce Vibes](https://developer.salesforce.com/blogs/2026/01/migrate-from-aura-to-lwc-with-agentforce-vibes.html) (2026-01-14)
-- [Accelerate Flexcard Development with Omnistudio MCP](https://developer.salesforce.com/blogs/2026/01/accelerate-flexcard-development-with-omnistudio-mcp.html) (2026-01-07)
 
 </details>
 
@@ -535,22 +535,22 @@ https://www.twilio.com/en-us/blog/company/bringing-sendgrid-and-segment-to-twili
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [Portable Paged Attention in Helion](https://pytorch.org/blog/portable-paged-attention-in-helion/) (2026-02-03)
 - [Unlock Reasoning in Llama 3.1-8B via Full Fine-Tuning on NVIDIA DGX Spark](https://pytorch.org/blog/unlock-reasoning-in-llama-3-1-8b-via-full-fine-tuning-on-nvidia-dgx-spark/) (2026-02-02)
 - [Accelerating On-Device ML Inference with ExecuTorch and Arm SME2](https://pytorch.org/blog/accelerating-on-device-ml-inference-with-executorch-and-arm-sme2/) (2026-01-29)
 - [PyTorch 2.10 Release Blog](https://pytorch.org/blog/pytorch-2-10-release-blog/) (2026-01-21)
 - [Supercharging LLMs: Scalable RL with torchforge and Weaver](https://pytorch.org/blog/supercharging-llms-scalable-rl-with-torchforge-and-weaver/) (2026-01-09)
-- [Warp Specialization in Triton: Design and Roadmap](https://pytorch.org/blog/warp-specialization-in-triton-design-and-roadmap/) (2026-01-09)
 
 </details>
 
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [H Company's new Holo2 model takes the lead in UI Localization](https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b) (2026-02-03)
+- [The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+](https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3) (2026-02-03)
 - [Training Design for Text-to-Image Models: Lessons from Ablations](https://huggingface.co/blog/Photoroom/prx-part2) (2026-02-03)
 - [Introducing NVIDIA Cosmos Policy for Advanced Robot Control](https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control) (2026-01-29)
 - [Introducing Daggr: Chain apps programmatically, inspect visually](https://huggingface.co/blog/daggr) (2026-01-29)
-- [We Got Claude to Build CUDA Kernels and teach open models!](https://huggingface.co/blog/upskill) (2026-01-28)
-- [Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek ](https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2) (2026-01-27)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/company/bringing-sendgrid-and-segment-to-twili
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Routing in a Sparse Graph: a Distributed Q-Learning Approach](https://towardsdatascience.com/routing-in-a-sparse-graph-a-distributed-q-learning-approach/) (2026-02-03)
+- [YOLOv2 & YOLO9000 Paper Walkthrough: Better, Faster, Stronger](https://towardsdatascience.com/yolov2-yolo9000-paper-walkthrough-better-faster-stronger/) (2026-02-03)
+- [Creating a Data Pipeline to Monitor Local Crime Trends](https://towardsdatascience.com/creating-a-data-pipeline-to-monitor-local-crime-trends/) (2026-02-03)
 - [The Proximity of the Inception Score as an Evaluation Criterion](https://towardsdatascience.com/the-proximity-of-the-inception-score-as-an-evaluation-criterion/) (2026-02-03)
 - [Building Systems That Survive Real Life](https://towardsdatascience.com/building-systems-that-survive-real-life/) (2026-02-02)
-- [Silicon Darwinism: Why Scarcity Is the Source of True Intelligence](https://towardsdatascience.com/silicon-darwinism-why-scarcity-is-the-source-of-true-intelligence/) (2026-02-02)
-- [Distributed Reinforcement Learning for Scalable High-Performance Policy Optimization](https://towardsdatascience.com/distributed-reinforcement-learning-for-scalable-high-performance-policy-optimization/) (2026-02-01)
-- [How to Apply Agentic Coding to Solve Problems](https://towardsdatascience.com/how-to-apply-agentic-coding-to-solve-problem/) (2026-01-31)
 
 </details>
 
@@ -590,22 +590,22 @@ https://www.twilio.com/en-us/blog/company/bringing-sendgrid-and-segment-to-twili
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Beyond Giant Models: Why AI Orchestration Is the New Architecture](https://www.kdnuggets.com/beyond-giant-models-why-ai-orchestration-is-the-new-architecture) (2026-02-03)
+- [5 Time Series Foundation Models You Are Missing Out On](https://www.kdnuggets.com/5-time-series-foundation-models-you-are-missing-out-on) (2026-02-03)
 - [Working with Billion-Row Datasets in Python (Using Vaex)](https://www.kdnuggets.com/working-with-billion-row-datasets-in-python-using-vaex) (2026-02-02)
 - [WTF is a Parameter?!?](https://www.kdnuggets.com/wtf-is-a-parameter) (2026-02-02)
 - [5 Android Apps for Code Editing](https://www.kdnuggets.com/5-android-apps-for-code-editing) (2026-02-02)
-- [5 Fun APIs for Absolute Beginners](https://www.kdnuggets.com/5-fun-apis-for-absolute-beginners) (2026-01-30)
-- [Managing Secrets and API Keys in Python Projects (.env Guide)](https://www.kdnuggets.com/managing-secrets-and-api-keys-in-python-projects-env-guide) (2026-01-29)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [7 Advanced Feature Engineering Tricks Using LLM Embeddings](https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/) (2026-02-03)
 - [A Beginner’s Reading List for Large Language Models for 2026](https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/) (2026-02-02)
 - [7 Important Considerations Before Deploying Agentic AI in Production](https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/) (2026-01-29)
 - [5 Ways to Use Cross-Validation to Improve Time Series Models](https://machinelearningmastery.com/5-ways-to-use-cross-validation-to-improve-time-series-models/) (2026-01-28)
 - [The 3 Invisible Risks Every LLM App Faces (And How to Guard Against Them)](https://machinelearningmastery.com/the-3-invisible-risks-every-llm-app-faces-and-how-to-guard-against-them/) (2026-01-27)
-- [Leveling Up Your Machine Learning: What To Do After Andrew Ng’s Course](https://machinelearningmastery.com/leveling-up-your-machine-learning-what-to-do-after-andrew-ngs-course/) (2026-01-26)
 
 </details>
 
