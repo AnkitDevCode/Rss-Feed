@@ -31,8 +31,8 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Illinois joins WHO global outbreak network after U.S. withdraws](https://capitolnewsillinois.com/news/illinois-joins-who-global-outbreak-network-after-u-s-withdraws/) (2026-02-04)
-- [Valve wants to hold [patent troll] Leigh Rothschild personally liable](https://www.reporterbyte.com/news/10087/piercing-the-veil-why-valve-wants-to-hold-leigh-rothschild-personally-liable/) (2026-02-03)
+- [Petition for Recognition of Work on Open-Source as Volunteering in Germany](https://www.openpetition.de/petition/online/recognition-of-work-on-open-source-as-volunteering-in-germany) (2026-02-04)
+- [I miss thinking hard](https://www.jernesto.com/articles/thinking_hard) (2026-02-04)
 - [Notepad++ supply chain attack breakdown](https://securelist.com/notepad-supply-chain-attack/118708/) (2026-02-03)
 - [FlashAttention-T: Towards Tensorized Attention](https://dl.acm.org/doi/10.1145/3774934.3786425) (2026-02-03)
 - [Data centers in space makes no sense](https://civai.org/blog/space-data-centers) (2026-02-03)
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Como o Strategy Pattern simplificou a lógica de pagamentos do meu sistema Spring](https://dev.to/wagnernegrao/como-o-strategy-pattern-simplificou-a-logica-de-pagamentos-do-meu-sistema-spring-3b3l) (2026-02-04)
-- [Demystifying Time and Space Complexity for Beginners](https://dev.to/saptarshisarkar/demystifying-time-and-space-complexity-for-beginners-m60) (2026-02-04)
-- [Mastering Microservices Communication with Go: A Practical Guide](https://dev.to/jones_charles_ad50858dbc0/mastering-microservices-communication-with-go-a-practical-guide-4dhn) (2026-02-04)
-- [FluentValidation in ASP.NET Core: Why One Validator per Request Is the Real Best Practice](https://dev.to/kphere/fluentvalidation-in-aspnet-core-why-one-validator-per-request-is-the-real-best-practice-18m4) (2026-02-04)
-- [The Visible Effort](https://dev.to/bender_mkii/the-visible-effort-4k9o) (2026-02-04)
+- [CVE-2025-11953: React Native's Open Door Policy: The Anatomy of CVE-2025-11953](https://dev.to/cverports/cve-2025-11953-react-natives-open-door-policy-the-anatomy-of-cve-2025-11953-1404) (2026-02-04)
+- [Hi... Introducing myself](https://dev.to/z_m_570bc25c2745/hi-introducing-myself-4mcb) (2026-02-04)
+- [The Economics of Extraction: Solving the "Proxy Paradox" in Web Scraping](https://dev.to/anderecit/the-economics-of-extraction-solving-the-proxy-paradox-in-web-scraping-efl) (2026-02-04)
+- [How to Create Modern Websites Faster with Shadcn Space](https://dev.to/shadcnspace/how-to-create-modern-websites-faster-with-shadcn-space-2oo8) (2026-02-04)
+- [712 Problems Later: What 500+ Days of DSA Really Taught Me](https://dev.to/armanphaugat/712-problems-later-what-500-days-of-dsa-really-taught-me-8ib) (2026-02-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [17 Things Code Reviews Taught Me That Writing Code Never Did](https://medium.com/@vallabhsangale7/17-things-code-reviews-taught-me-that-writing-code-never-did-5999c7291e7e?source=rss------programming-5) (2026-02-04)
-- [AGENTS.md: The Missing Documentation Standard Your AI Coding Agents Need](https://medium.com/@ajujohn2009/agents-md-the-missing-documentation-standard-your-ai-coding-agents-need-698017bfdb1d?source=rss------programming-5) (2026-02-04)
-- [Everyone’s building AI coding assistants.](https://medium.com/@cosmasmandikonza/everyones-building-ai-coding-assistants-575c7cb708d7?source=rss------programming-5) (2026-02-04)
-- [.NET 10 Auth: Fix the JWT Claim Pattern That Slows Every Request](https://medium.com/codetodeploy/net-10-auth-fix-the-jwt-claim-pattern-that-slows-every-request-a62fda762069?source=rss------programming-5) (2026-02-04)
-- [The Modern Go Developer’s Guide to Error Handling: Beyond if err != nil ](https://medium.com/@puneetpm/the-modern-go-developers-guide-to-error-handling-beyond-if-err-nil-859fd9ffcee5?source=rss------programming-5) (2026-02-04)
+- [The Most Overlooked Feature in Python’s dataclasses](https://medium.com/the-pythonworld/the-most-overlooked-feature-in-pythons-dataclasses-09bddd36e552?source=rss------programming-5) (2026-02-04)
+- [Check if a binary tree is height-balanced. (difference in subtree heights <= 1)](https://medium.com/mern-mastery/check-if-a-binary-tree-is-height-balanced-difference-in-subtree-heights-1-569f38bf4018?source=rss------programming-5) (2026-02-04)
+- [BSNL SuperStar Premium WiFi Plan: 200 Mbps Speed, 5000GB Data at Just ₹799:](https://medium.com/@narendra007singhshekhawat/bsnl-superstar-premium-wifi-plan-200-mbps-speed-5000gb-data-at-just-799-1e9f87468f3b?source=rss------programming-5) (2026-02-04)
+- [Upgrade to BSNL Spark: High-Speed Internet at Lowest Price:](https://medium.com/@narendra007singhshekhawat/upgrade-to-bsnl-spark-high-speed-internet-at-lowest-price-c9abdc48c030?source=rss------programming-5) (2026-02-04)
+- [Implementing Soft Deletes in Spring Data JPA: The Right Way](https://medium.com/@niteshthakur498/implementing-soft-deletes-in-spring-data-jpa-the-right-way-916443c8824a?source=rss------programming-5) (2026-02-04)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [The 3Cs: A Framework for AI Agent Security](https://www.docker.com/blog/the-3cs-a-framework-for-ai-agent-security/) (2026-02-04)
 - [Docker Sandboxes: Run Claude Code and Other Coding Agents Unsupervised (but Safely)](https://www.docker.com/blog/docker-sandboxes-run-claude-code-and-other-coding-agents-unsupervised-but-safely/) (2026-01-30)
 - [Clawdbot with Docker Model Runner, a Private Personal AI Assistant](https://www.docker.com/blog/clawdbot-docker-model-runner-private-personal-ai/) (2026-01-26)
 - [Run Claude Code Locally with Docker Model Runner](https://www.docker.com/blog/run-claude-code-locally-docker-model-runner/) (2026-01-26)
 - [Making the Most of Your Docker Hardened Images Enterprise Trial – Part 3](https://www.docker.com/blog/making-the-most-of-your-docker-hardened-images-enterprise-trial-part-3/) (2026-01-25)
-- [Making the Most of Your Docker Hardened Images Enterprise Trial – Part 2](https://www.docker.com/blog/making-the-most-of-your-docker-hardened-images-enterprise-trial-part-2/) (2026-01-24)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/company/bringing-sendgrid-and-segment-to-twili
 <details>
 <summary>💬 Slack API</summary>
 
-- [What Are Conversational Agents? A Simple Guide](https://slack.com/blog/productivity/conversational-agents) (2026-02-03)
 - [How to Define Key Performance Indicators (KPIs): Types and Examples](https://slack.com/blog/productivity/how-to-define-key-performance-indicators-kpis-types-and-examples) (2026-01-30)
 - [From Guesswork to Growth: Five Steps to Effective Performance Monitoring](https://slack.com/blog/productivity/from-guesswork-to-growth-five-steps-to-effective-performance-monitoring) (2026-01-30)
 - [Slack Feature Drop: New Slack Features to Cut Through the Chill](https://slack.com/blog/news/feature-drop-jan26) (2026-01-30)
 - [Proactive AI Agents: Definition, Core Components, and Business Value](https://slack.com/blog/productivity/proactive-ai-agents-definition-core-components-and-business-value) (2026-01-30)
+- [Slackbot for Sales: Introducing Your AI-Powered Wingman](https://slack.com/blog/productivity/slackbot-for-sales) (2026-01-29)
 
 </details>
 
@@ -590,11 +590,11 @@ https://www.twilio.com/en-us/blog/company/bringing-sendgrid-and-segment-to-twili
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [The Business Impact of AI Deployment (Sponsored)](https://bit.ly/45Qgzq2) (2026-02-04)
 - [Beyond Giant Models: Why AI Orchestration Is the New Architecture](https://www.kdnuggets.com/beyond-giant-models-why-ai-orchestration-is-the-new-architecture) (2026-02-03)
 - [5 Time Series Foundation Models You Are Missing Out On](https://www.kdnuggets.com/5-time-series-foundation-models-you-are-missing-out-on) (2026-02-03)
 - [Working with Billion-Row Datasets in Python (Using Vaex)](https://www.kdnuggets.com/working-with-billion-row-datasets-in-python-using-vaex) (2026-02-02)
 - [WTF is a Parameter?!?](https://www.kdnuggets.com/wtf-is-a-parameter) (2026-02-02)
-- [5 Android Apps for Code Editing](https://www.kdnuggets.com/5-android-apps-for-code-editing) (2026-02-02)
 
 </details>
 
