@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Homeland Security is trying to force tech companies to hand over data about Trump critics](https://techcrunch.com/2026/02/03/homeland-security-is-trying-to-force-tech-companies-to-hand-over-data-about-trump-critics/) (2026-02-03)
-- [Skyryse lands another $300M to make flying, even helicopters, simple and safe](https://techcrunch.com/2026/02/03/skyryse-lands-another-300m-to-make-flying-even-helicopters-simple-and-safe/) (2026-02-03)
-- [Agentic coding comes to Apple’s Xcode with agents from Anthropic and OpenAI](https://techcrunch.com/2026/02/03/agentic-coding-comes-to-apples-xcode-26-3-with-agents-from-anthropic-and-openai/) (2026-02-03)
-- [Gradient’s heat pumps get new smarts to enable old-building retrofits](https://techcrunch.com/2026/02/03/gradients-heat-pumps-get-new-smarts-to-enable-old-building-retrofits/) (2026-02-03)
-- [Watch Club is producing short video dramas and building a social network around them](https://techcrunch.com/2026/02/03/watch-club-microdrama-video-social-network/) (2026-02-03)
+- [Epstein-linked longevity guru Peter Attia leaves David Protein, and his own startup ‘won’t comment’](https://techcrunch.com/2026/02/03/epstein-linked-longevity-guru-peter-attia-leaves-david-protein-and-his-own-startup-wont-comment/) (2026-02-04)
+- [India’s Varaha bags $20M to scale carbon removal from the Global South](https://techcrunch.com/2026/02/03/indias-varaha-bags-20m-to-scale-carbon-removal-from-the-global-south/) (2026-02-03)
+- [The Minneapolis tech community holds strong during ‘tense and difficult time’](https://techcrunch.com/2026/02/03/minnesota-tech-community-founders-investors-ice-response/) (2026-02-03)
+- [Intel will start making GPUs, a market dominated by Nvidia ](https://techcrunch.com/2026/02/03/intel-will-start-making-gpus-a-market-dominated-by-nvidia/) (2026-02-03)
+- [YC startups can now receive investment in stablecoin](https://techcrunch.com/2026/02/03/yc-startups-can-now-recieve-investment-in-stablecoin/) (2026-02-03)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Xcode 26.3 unlocks the power of agentic coding](https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/) (2026-02-03)
-- [I made 20 GDPR deletion requests. 12 were ignored](https://nikolak.com/gdpr-failure/) (2026-02-03)
-- [Deno Sandbox](https://deno.com/blog/introducing-deno-sandbox) (2026-02-03)
-- [Migrate Wizard – IMAP Based Email Migration Tool](https://migratewizard.com/#features) (2026-02-03)
-- [Defining Safe Hardware Design [pdf]](https://people.csail.mit.edu/rachit/files/pubs/safe-hdls.pdf) (2026-02-03)
+- [Illinois joins WHO global outbreak network after U.S. withdraws](https://capitolnewsillinois.com/news/illinois-joins-who-global-outbreak-network-after-u-s-withdraws/) (2026-02-04)
+- [Valve wants to hold [patent troll] Leigh Rothschild personally liable](https://www.reporterbyte.com/news/10087/piercing-the-veil-why-valve-wants-to-hold-leigh-rothschild-personally-liable/) (2026-02-03)
+- [Notepad++ supply chain attack breakdown](https://securelist.com/notepad-supply-chain-attack/118708/) (2026-02-03)
+- [FlashAttention-T: Towards Tensorized Attention](https://dl.acm.org/doi/10.1145/3774934.3786425) (2026-02-03)
+- [Data centers in space makes no sense](https://civai.org/blog/space-data-centers) (2026-02-03)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals) (2026-02-03)
-- [French police raid X&#8217;s Paris office as UK investigation continues](https://www.theverge.com/tech/873142/french-police-raid-x-investigation) (2026-02-03)
-- [The Switch is Nintendo&#8217;s best-selling console — and its most transformative](https://www.theverge.com/games/873098/nintendo-switch-era-best-selling-console) (2026-02-03)
-- [Claude Code was down, forcing developers to take a long coffee break](https://www.theverge.com/news/873093/claude-code-down-outage-anthropic) (2026-02-03)
-- [I didn’t expect to love Dyson’s PencilVac Fluffycones – but I did](https://www.theverge.com/tech/872981/dyson-pencilvac-fluffycones-vacuum-hands-on-review) (2026-02-03)
+- [Adobe actually won’t discontinue Animate](https://www.theverge.com/tech/873621/adobe-animate-maintenance-mode-reverse-course) (2026-02-04)
+- [Republicans haul Netflix before Congress for being too ‘woke’](https://www.theverge.com/policy/873533/netflix-warner-bros-discovery-senate-antitrust-hearing) (2026-02-04)
+- [AMD hints Microsoft could launch its next-gen Xbox in 2027](https://www.theverge.com/news/873490/microsoft-next-gen-xbox-console-2027-date-amd) (2026-02-03)
+- [Department of Justice appeals Google search monopoly ruling](https://www.theverge.com/tech/873438/google-antitrust-case-doj-states-appeal) (2026-02-03)
+- [Slopaganda goes West](https://www.theverge.com/news/873400/nick-shirley-somali-daycares-san-diego-california-youtube) (2026-02-03)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [China bans all retractable car door handles, starting next year](https://arstechnica.com/cars/2026/02/china-bans-all-retractable-car-door-handles-starting-next-year/) (2026-02-03)
-- [Senior staff departing OpenAI as firm prioritizes ChatGPT development](https://arstechnica.com/ai/2026/02/senior-staff-departing-openai-as-firm-prioritizes-chatgpt-development/) (2026-02-03)
-- [The rise of Moltbook suggests viral AI prompts may be the next big security threat](https://arstechnica.com/ai/2026/02/the-rise-of-moltbook-suggests-viral-ai-prompts-may-be-the-next-big-security-threat/) (2026-02-03)
-- [Unable to tame hydrogen leaks, NASA delays launch of Artemis II until March](https://arstechnica.com/space/2026/02/unable-to-tame-hydrogen-leaks-nasa-delays-launch-of-artemis-ii-until-march/) (2026-02-03)
-- [Looking back at Catacomb 3D, the game that led to Wolfenstein 3D](https://arstechnica.com/gaming/2026/02/looking-back-at-catacomb-3d-the-game-that-led-to-wolfenstein-3d/) (2026-02-02)
+- [Netflix says users can cancel service if HBO Max merger makes it too expensive ](https://arstechnica.com/gadgets/2026/02/netflix-claims-subscribers-will-get-more-content-for-less-if-it-buys-hbo-max/) (2026-02-03)
+- [Godlike Titan threatens humanity in Monarch: Legacy of Monsters S2 trailer](https://arstechnica.com/culture/2026/02/meet-the-new-tentacled-titan-x-in-monarch-legacy-of-monsters-s2-trailer/) (2026-02-03)
+- [Nvidia's $100 billion OpenAI deal has seemingly vanished](https://arstechnica.com/information-technology/2026/02/five-months-later-nvidias-100-billion-openai-investment-plan-has-fizzled-out/) (2026-02-03)
+- [Newborn dies after mother drinks raw milk during pregnancy](https://arstechnica.com/health/2026/02/newborns-death-spurs-raw-milk-warning-in-new-mexico/) (2026-02-03)
+- [X office raided in France's Grok probe; Elon Musk summoned for questioning](https://arstechnica.com/tech-policy/2026/02/x-office-raided-in-frances-grok-probe-elon-musk-summoned-for-questioning/) (2026-02-03)
 
 </details>
 
@@ -97,33 +97,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Next.js vs Vite: Choosing the Right Tool in 2026](https://dev.to/shadcndeck_dev/nextjs-vs-vite-choosing-the-right-tool-in-2026-38hp) (2026-02-03)
-- [I accidentally DDoS'd myself (and why you should too)](https://dev.to/nefintec/i-accidentally-ddosd-myself-and-why-you-should-too-38pf) (2026-02-03)
-- [MindOps and the Dawn of Cognitive Operations: From Observability to Understanding](https://dev.to/huzefaaa2/mindops-and-the-dawn-of-cognitive-operations-from-observability-to-understanding-3l52) (2026-02-03)
-- [PostgreSQL automated backups — How to set up automated PostgreSQL backup schedules](https://dev.to/piteradyson/postgresql-automated-backups-how-to-set-up-automated-postgresql-backup-schedules-4d0k) (2026-02-03)
-- [Build a "Military-Grade" Network Scanner in Python (Scapy Tutorial)](https://dev.to/it_solutions_pro/build-a-military-grade-network-scanner-in-python-scapy-tutorial-1a4a) (2026-02-03)
+- [Como o Strategy Pattern simplificou a lógica de pagamentos do meu sistema Spring](https://dev.to/wagnernegrao/como-o-strategy-pattern-simplificou-a-logica-de-pagamentos-do-meu-sistema-spring-3b3l) (2026-02-04)
+- [Demystifying Time and Space Complexity for Beginners](https://dev.to/saptarshisarkar/demystifying-time-and-space-complexity-for-beginners-m60) (2026-02-04)
+- [Mastering Microservices Communication with Go: A Practical Guide](https://dev.to/jones_charles_ad50858dbc0/mastering-microservices-communication-with-go-a-practical-guide-4dhn) (2026-02-04)
+- [FluentValidation in ASP.NET Core: Why One Validator per Request Is the Real Best Practice](https://dev.to/kphere/fluentvalidation-in-aspnet-core-why-one-validator-per-request-is-the-real-best-practice-18m4) (2026-02-04)
+- [The Visible Effort](https://dev.to/bender_mkii/the-visible-effort-4k9o) (2026-02-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Finding Duplicates in SQL: With GROUP BY and COUNT](https://medium.com/@vihangathalangedara/finding-duplicates-in-sql-with-group-by-and-count-beac62ce01e1?source=rss------programming-5) (2026-02-03)
-- [Concrete : The Rise of Onchain Finance and the Future of Money](https://medium.com/@yudibudi729/the-rise-of-onchain-finance-and-the-future-of-money-0e71e98af9fe?source=rss------programming-5) (2026-02-03)
-- [As Origens do Código e o Futuro da Programação](https://medium.com/@lopesfilipeaugusto/as-origens-do-c%C3%B3digo-e-o-futuro-da-programa%C3%A7%C3%A3o-d09f0a68a210?source=rss------programming-5) (2026-02-03)
-- [Extremely FAST Paging With Cursor Pagination And Database Index Seek in .NET](https://medium.com/@maged_/extremely-fast-paging-with-cursor-pagination-and-database-index-seek-in-net-3f17a12927a2?source=rss------programming-5) (2026-02-03)
-- [Rust vs C: The “Faster” Myth That’s Wasting Your Engineering Time](https://medium.com/@build_break_learn/rust-vs-c-faster-myth-wasting-your-engineering-time-d91e9236ed54?source=rss------programming-5) (2026-02-03)
+- [17 Things Code Reviews Taught Me That Writing Code Never Did](https://medium.com/@vallabhsangale7/17-things-code-reviews-taught-me-that-writing-code-never-did-5999c7291e7e?source=rss------programming-5) (2026-02-04)
+- [AGENTS.md: The Missing Documentation Standard Your AI Coding Agents Need](https://medium.com/@ajujohn2009/agents-md-the-missing-documentation-standard-your-ai-coding-agents-need-698017bfdb1d?source=rss------programming-5) (2026-02-04)
+- [Everyone’s building AI coding assistants.](https://medium.com/@cosmasmandikonza/everyones-building-ai-coding-assistants-575c7cb708d7?source=rss------programming-5) (2026-02-04)
+- [.NET 10 Auth: Fix the JWT Claim Pattern That Slows Every Request](https://medium.com/codetodeploy/net-10-auth-fix-the-jwt-claim-pattern-that-slows-every-request-a62fda762069?source=rss------programming-5) (2026-02-04)
+- [The Modern Go Developer’s Guide to Error Handling: Beyond if err != nil ](https://medium.com/@puneetpm/the-modern-go-developers-guide-to-error-handling-beyond-if-err-nil-859fd9ffcee5?source=rss------programming-5) (2026-02-04)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [AWS IAM Identity Center now supports multi-Region replication for AWS account access and application use](https://aws.amazon.com/blogs/aws/aws-iam-identity-center-now-supports-multi-region-replication-for-aws-account-access-and-application-use/) (2026-02-03)
 - [AWS Weekly Roundup: Amazon Bedrock agent workflows, Amazon SageMaker private connectivity, and more (February 2, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-agent-workflows-amazon-sagemaker-private-connectivity-and-more-february-2-2026/) (2026-02-02)
 - [AWS Weekly Roundup: Amazon EC2 G7e instances, Amazon Corretto updates, and more (January 26, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-g7e-instances-with-nvidia-blackwell-gpus-january-26-2026/) (2026-01-26)
 - [Announcing Amazon EC2 G7e instances accelerated by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs](https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7e-instances-accelerated-by-nvidia-rtx-pro-6000-blackwell-server-edition-gpus/) (2026-01-20)
 - [AWS Weekly Roundup: Kiro CLI latest features, AWS European Sovereign Cloud, EC2 X8i instances, and more (January 19, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-kiro-cli-latest-features-aws-european-sovereign-cloud-ec2-x8i-instances-and-more-january-19-2026/) (2026-01-20)
-- [Amazon EC2 X8i instances powered by custom Intel Xeon 6 processors are generally available for memory-intensive workloads](https://aws.amazon.com/blogs/aws/amazon-ec2-x8i-instances-powered-by-custom-intel-xeon-6-processors-are-generally-available-for-memory-intensive-workloads/) (2026-01-15)
 
 </details>
 
@@ -141,22 +141,22 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Everything Will Be Represented in a Virtual Twin, NVIDIA CEO Jensen Huang Says at 3DEXPERIENCE World](https://blogs.nvidia.com/blog/huang-3dexperience-2026/) (2026-02-03)
 - [Mercedes-Benz Unveils New S-Class Built on NVIDIA DRIVE AV, Which Enables an L4-Ready Architecture](https://blogs.nvidia.com/blog/mercedes-benz-l4-s-class-drive-av-platform/) (2026-01-29)
 - [Into the Omniverse: Physical AI Open Models and Frameworks Advance Robots and Autonomous Systems](https://blogs.nvidia.com/blog/physical-ai-open-models-robot-autonomous-systems-omniverse/) (2026-01-29)
 - [GeForce NOW Brings GeForce RTX Gaming to Linux PCs](https://blogs.nvidia.com/blog/geforce-now-thursday-linux/) (2026-01-29)
 - [Accelerating Science: A Blueprint for a Renewed National Quantum Initiative](https://blogs.nvidia.com/blog/national-quantum-initiative/) (2026-01-28)
-- [NVIDIA Launches Earth-2 Family of Open Models — the World’s First Fully Open, Accelerated Set of Models and Tools for AI Weather](https://blogs.nvidia.com/blog/nvidia-earth-2-open-models/) (2026-01-26)
 
 </details>
 
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [Upcoming SDK minimum requirements](https://developer.apple.com/news/?id=ueeok6yw) (2026-02-03)
 - [Price updates for apps, In-App Purchases, and subscriptions](https://developer.apple.com/news/?id=gvnljl3f) (2026-01-29)
 - [Hello Developer: January 2026](https://developer.apple.com/news/?id=zni5qkkl) (2026-01-06)
 - [Update on age requirements for apps distributed in Texas](https://developer.apple.com/news/?id=8jzbigf4) (2025-12-24)
 - [Changes to iOS in Japan](https://developer.apple.com/news/?id=074b3wzz) (2025-12-17)
-- [Updated Apple Developer Program License Agreement now available](https://developer.apple.com/news/?id=76371du6) (2025-12-17)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/company/bringing-sendgrid-and-segment-to-twili
 <details>
 <summary>💬 Slack API</summary>
 
+- [What Are Conversational Agents? A Simple Guide](https://slack.com/blog/productivity/conversational-agents) (2026-02-03)
 - [How to Define Key Performance Indicators (KPIs): Types and Examples](https://slack.com/blog/productivity/how-to-define-key-performance-indicators-kpis-types-and-examples) (2026-01-30)
 - [From Guesswork to Growth: Five Steps to Effective Performance Monitoring](https://slack.com/blog/productivity/from-guesswork-to-growth-five-steps-to-effective-performance-monitoring) (2026-01-30)
 - [Slack Feature Drop: New Slack Features to Cut Through the Chill](https://slack.com/blog/news/feature-drop-jan26) (2026-01-30)
 - [Proactive AI Agents: Definition, Core Components, and Business Value](https://slack.com/blog/productivity/proactive-ai-agents-definition-core-components-and-business-value) (2026-01-30)
-- [Slackbot for Sales: Introducing Your AI-Powered Wingman](https://slack.com/blog/productivity/slackbot-for-sales) (2026-01-29)
 
 </details>
 
@@ -579,11 +579,11 @@ https://www.twilio.com/en-us/blog/company/bringing-sendgrid-and-segment-to-twili
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [5 Kimi K2.5 Features for Developers: Is it the Best AI Model for Programming?](https://www.analyticsvidhya.com/blog/2026/02/kimi-k2-5-features-for-developers-programming/) (2026-02-03)
 - [6 New Features of Grok Imagine 1.0 [MUST TRY]](https://www.analyticsvidhya.com/blog/2026/02/grok-imagine-1-0-is-here/) (2026-02-03)
 - [Build an AI Study Assistant with Claude Code + Android Studio](https://www.analyticsvidhya.com/blog/2026/02/build-an-ai-study-assistant-with-claude-code-android-studio/) (2026-02-03)
 - [How to Build an OpenClaw Agent in Less Than 10 Minutes](https://www.analyticsvidhya.com/blog/2026/02/how-to-build-an-openclaw-agent/) (2026-02-03)
 - [Prompt Injection Attack: What They Are and How to Prevent Them](https://www.analyticsvidhya.com/blog/2026/02/prompt-injection-attacks-in-llm/) (2026-02-02)
-- [Big Offer for Airtel Users: Free Access to Adobe Express Premium Worth Rs 4,000](https://www.analyticsvidhya.com/blog/2026/02/airtel-free-adobe-express-premium-offer/) (2026-02-02)
 
 </details>
 
