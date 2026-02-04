@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Exclusive: Positron raises $230M Series B to take on Nvidia’s AI chips](https://techcrunch.com/2026/02/04/exclusive-positron-raises-230m-series-b-to-take-on-nvidias-ai-chips/) (2026-02-04)
 - [Epstein-linked longevity guru Peter Attia leaves David Protein, and his own startup ‘won’t comment’](https://techcrunch.com/2026/02/03/epstein-linked-longevity-guru-peter-attia-leaves-david-protein-and-his-own-startup-wont-comment/) (2026-02-04)
 - [India’s Varaha bags $20M to scale carbon removal from the Global South](https://techcrunch.com/2026/02/03/indias-varaha-bags-20m-to-scale-carbon-removal-from-the-global-south/) (2026-02-03)
 - [The Minneapolis tech community holds strong during ‘tense and difficult time’](https://techcrunch.com/2026/02/03/minnesota-tech-community-founders-investors-ice-response/) (2026-02-03)
 - [Intel will start making GPUs, a market dominated by Nvidia ](https://techcrunch.com/2026/02/03/intel-will-start-making-gpus-a-market-dominated-by-nvidia/) (2026-02-03)
-- [YC startups can now receive investment in stablecoin](https://techcrunch.com/2026/02/03/yc-startups-can-now-recieve-investment-in-stablecoin/) (2026-02-03)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Petition for Recognition of Work on Open-Source as Volunteering in Germany](https://www.openpetition.de/petition/online/recognition-of-work-on-open-source-as-volunteering-in-germany) (2026-02-04)
+- [Broken Proofs and Broken Provers](https://lawrencecpaulson.github.io/2026/01/15/Broken_proofs.html) (2026-02-04)
+- [Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering](https://github.com/bethington/ghidra-mcp) (2026-02-04)
 - [I miss thinking hard](https://www.jernesto.com/articles/thinking_hard) (2026-02-04)
 - [Notepad++ supply chain attack breakdown](https://securelist.com/notepad-supply-chain-attack/118708/) (2026-02-03)
 - [FlashAttention-T: Towards Tensorized Attention](https://dl.acm.org/doi/10.1145/3774934.3786425) (2026-02-03)
-- [Data centers in space makes no sense](https://civai.org/blog/space-data-centers) (2026-02-03)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Sen. Warren wants to know what Google Gemini’s built-in checkout means for user privacy](https://www.theverge.com/news/873476/senator-elizabeth-warren-google-gemini-ai-shopping-privacy) (2026-02-04)
 - [Adobe actually won’t discontinue Animate](https://www.theverge.com/tech/873621/adobe-animate-maintenance-mode-reverse-course) (2026-02-04)
 - [Republicans haul Netflix before Congress for being too ‘woke’](https://www.theverge.com/policy/873533/netflix-warner-bros-discovery-senate-antitrust-hearing) (2026-02-04)
 - [AMD hints Microsoft could launch its next-gen Xbox in 2027](https://www.theverge.com/news/873490/microsoft-next-gen-xbox-console-2027-date-amd) (2026-02-03)
 - [Department of Justice appeals Google search monopoly ruling](https://www.theverge.com/tech/873438/google-antitrust-case-doj-states-appeal) (2026-02-03)
-- [Slopaganda goes West](https://www.theverge.com/news/873400/nick-shirley-somali-daycares-san-diego-california-youtube) (2026-02-03)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [CVE-2025-11953: React Native's Open Door Policy: The Anatomy of CVE-2025-11953](https://dev.to/cverports/cve-2025-11953-react-natives-open-door-policy-the-anatomy-of-cve-2025-11953-1404) (2026-02-04)
-- [Hi... Introducing myself](https://dev.to/z_m_570bc25c2745/hi-introducing-myself-4mcb) (2026-02-04)
-- [The Economics of Extraction: Solving the "Proxy Paradox" in Web Scraping](https://dev.to/anderecit/the-economics-of-extraction-solving-the-proxy-paradox-in-web-scraping-efl) (2026-02-04)
-- [How to Create Modern Websites Faster with Shadcn Space](https://dev.to/shadcnspace/how-to-create-modern-websites-faster-with-shadcn-space-2oo8) (2026-02-04)
-- [712 Problems Later: What 500+ Days of DSA Really Taught Me](https://dev.to/armanphaugat/712-problems-later-what-500-days-of-dsa-really-taught-me-8ib) (2026-02-04)
+- [Why I stopped calling LLM APIs directly and built an Infrastructure Protocol](https://dev.to/sunny_anand_dev/why-i-stopped-calling-llm-apis-directly-and-built-an-infrastructure-protocol-1jh1) (2026-02-04)
+- [Build Production-Ready GCP Infrastructure from Scratch Part 02](https://dev.to/shaikhalamin/build-production-ready-gcp-infrastructure-from-scratch-part-02-542o) (2026-02-04)
+- [My First Platform at 15](https://dev.to/neocodeio/my-first-platform-at-15-1fbe) (2026-02-04)
+- [Build Production-Ready GCP Infrastructure from Scratch Part 01](https://dev.to/shaikhalamin/build-production-ready-gcp-infrastructure-from-scratch-part-01-3c2n) (2026-02-04)
+- [How Hoisting works internally?](https://dev.to/jyotich15/how-hoisting-works-internally-pml) (2026-02-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Most Overlooked Feature in Python’s dataclasses](https://medium.com/the-pythonworld/the-most-overlooked-feature-in-pythons-dataclasses-09bddd36e552?source=rss------programming-5) (2026-02-04)
-- [Check if a binary tree is height-balanced. (difference in subtree heights <= 1)](https://medium.com/mern-mastery/check-if-a-binary-tree-is-height-balanced-difference-in-subtree-heights-1-569f38bf4018?source=rss------programming-5) (2026-02-04)
-- [BSNL SuperStar Premium WiFi Plan: 200 Mbps Speed, 5000GB Data at Just ₹799:](https://medium.com/@narendra007singhshekhawat/bsnl-superstar-premium-wifi-plan-200-mbps-speed-5000gb-data-at-just-799-1e9f87468f3b?source=rss------programming-5) (2026-02-04)
-- [Upgrade to BSNL Spark: High-Speed Internet at Lowest Price:](https://medium.com/@narendra007singhshekhawat/upgrade-to-bsnl-spark-high-speed-internet-at-lowest-price-c9abdc48c030?source=rss------programming-5) (2026-02-04)
-- [Implementing Soft Deletes in Spring Data JPA: The Right Way](https://medium.com/@niteshthakur498/implementing-soft-deletes-in-spring-data-jpa-the-right-way-916443c8824a?source=rss------programming-5) (2026-02-04)
+- [Proxy ve Reverse Proxy](https://blog.alfatek.dev/proxy-ve-reverse-proxy-a2d723628d1a?source=rss------programming-5) (2026-02-04)
+- [Python — Part 1](https://medium.com/@adii.utsav/python-part-1-ab2826a55e8a?source=rss------programming-5) (2026-02-04)
+- [React Native’s New Architecture — An Engineer’s Perspective](https://medium.com/@shailendraparihar3630/react-natives-new-architecture-an-engineer-s-perspective-a299b216e144?source=rss------programming-5) (2026-02-04)
+- [8 C++ Automation Ideas That Turned Me from Student Coder to Problem Solver](https://medium.com/@arslanshoukatali/8-c-automation-ideas-that-turned-me-from-student-coder-to-problem-solver-2feaf98bf5d4?source=rss------programming-5) (2026-02-04)
+- [7 Times C++ Automation Beat Every Other Language I Tried](https://medium.com/@arslanshoukatali/7-times-c-automation-beat-every-other-language-i-tried-5962bf8cdad9?source=rss------programming-5) (2026-02-04)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [PostgreSQL on Azure supercharged for AI](https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/) (2026-02-02)
 - [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
 - [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
 - [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
 - [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
-- [Bridging the gap between AI and medicine: Claude in Microsoft Foundry advances capabilities for healthcare and life sciences customers](https://www.microsoft.com/en-us/industry/blog/healthcare/2026/01/11/bridging-the-gap-between-ai-and-medicine-claude-in-microsoft-foundry-advances-capabilities-for-healthcare-and-life-sciences-customers/) (2026-01-11)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Enhanced AI Management and Analytics for Organizations](https://blog.jetbrains.com/ai/2026/02/enhanced-ai-management-and-analytics-for-organizations/) (2026-02-04)
+- [Wayland By Default in 2026.1 EAP](https://blog.jetbrains.com/platform/2026/02/wayland-by-default-in-2026-1-eap/) (2026-02-04)
 - [Pick Your KotlinConf Workshop by What You Want to Learn](https://blog.jetbrains.com/kotlin/2026/02/pick-your-kotlinconf-workshop/) (2026-02-03)
 - [Join the Kotlin Ecosystem Mentorship Program](https://blog.jetbrains.com/kotlin/2026/02/kotlin-ecosystem-mentorship/) (2026-02-02)
 - [Koog x ACP: Connect an Agent to Your IDE and More](https://blog.jetbrains.com/ai/2026/02/koog-x-acp-connect-an-agent-to-your-ide-and-more/) (2026-02-02)
-- [Qodana for Android: Increasing Code Quality for Kotlin-First Teams](https://blog.jetbrains.com/qodana/2026/01/qodana-for-android-kotlin/) (2026-01-31)
-- [Busy Plugin Developers Newsletter – Q4 2025](https://blog.jetbrains.com/platform/2026/01/busy-plugin-developers-newsletter-q4-2025/) (2026-01-30)
 
 </details>
 
@@ -557,33 +557,33 @@ https://www.twilio.com/en-us/blog/company/bringing-sendgrid-and-segment-to-twili
 <details>
 <summary>🤖 AI News</summary>
 
+- [Combing the Rackspace blogfiles for operational AI pointers](https://www.artificialintelligence-news.com/news/combing-the-rackspace-blogfiles-for-operational-ai-pointers/) (2026-02-04)
+- [How Cisco builds smart systems for the AI era](https://www.artificialintelligence-news.com/news/how-cisco-builds-smart-systems-for-the-ai-era/) (2026-02-04)
 - [Ronnie Sheth, CEO, SENEN Group: Why now is the time for enterprise AI to ‘get practical’](https://www.artificialintelligence-news.com/news/ronnie-sheth-ceo-senen-group-why-now-is-the-time-for-enterprise-ai-to-get-practical/) (2026-02-03)
 - [Apptio: Why scaling intelligent automation requires financial rigour](https://www.artificialintelligence-news.com/news/apptio-why-scaling-intelligent-automation-requires-financial-rigour/) (2026-02-03)
 - [FedEx tests how far AI can go in tracking and returns management](https://www.artificialintelligence-news.com/news/fedex-tests-how-far-ai-can-go-in-tracking-and-returns-management/) (2026-02-03)
-- [Klarna backs Google UCP to power AI agent payments](https://www.artificialintelligence-news.com/news/klarna-backs-google-ucp-power-ai-agent-payments/) (2026-02-02)
-- [How SAP is modernising HMRC’s tax infrastructure with AI](https://www.artificialintelligence-news.com/news/how-sap-modernising-hmrc-tax-infrastructure-with-ai/) (2026-02-02)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Plan–Code–Execute: Designing Agents That Create Their Own Tools](https://towardsdatascience.com/plan-code-execute-designing-agents-that-create-their-own-tools/) (2026-02-04)
 - [Routing in a Sparse Graph: a Distributed Q-Learning Approach](https://towardsdatascience.com/routing-in-a-sparse-graph-a-distributed-q-learning-approach/) (2026-02-03)
 - [YOLOv2 & YOLO9000 Paper Walkthrough: Better, Faster, Stronger](https://towardsdatascience.com/yolov2-yolo9000-paper-walkthrough-better-faster-stronger/) (2026-02-03)
 - [Creating a Data Pipeline to Monitor Local Crime Trends](https://towardsdatascience.com/creating-a-data-pipeline-to-monitor-local-crime-trends/) (2026-02-03)
 - [The Proximity of the Inception Score as an Evaluation Criterion](https://towardsdatascience.com/the-proximity-of-the-inception-score-as-an-evaluation-criterion/) (2026-02-03)
-- [Building Systems That Survive Real Life](https://towardsdatascience.com/building-systems-that-survive-real-life/) (2026-02-02)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Top 10 MCP Servers for AI Builders in 2026](https://www.analyticsvidhya.com/blog/2026/02/top-mcp-servers/) (2026-02-04)
 - [5 Kimi K2.5 Features for Developers: Is it the Best AI Model for Programming?](https://www.analyticsvidhya.com/blog/2026/02/kimi-k2-5-features-for-developers-programming/) (2026-02-03)
 - [6 New Features of Grok Imagine 1.0 [MUST TRY]](https://www.analyticsvidhya.com/blog/2026/02/grok-imagine-1-0-is-here/) (2026-02-03)
 - [Build an AI Study Assistant with Claude Code + Android Studio](https://www.analyticsvidhya.com/blog/2026/02/build-an-ai-study-assistant-with-claude-code-android-studio/) (2026-02-03)
 - [How to Build an OpenClaw Agent in Less Than 10 Minutes](https://www.analyticsvidhya.com/blog/2026/02/how-to-build-an-openclaw-agent/) (2026-02-03)
-- [Prompt Injection Attack: What They Are and How to Prevent Them](https://www.analyticsvidhya.com/blog/2026/02/prompt-injection-attacks-in-llm/) (2026-02-02)
 
 </details>
 
