@@ -20,99 +20,99 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Exclusive: Positron raises $230M Series B to take on Nvidia’s AI chips](https://techcrunch.com/2026/02/04/exclusive-positron-raises-230m-series-b-to-take-on-nvidias-ai-chips/) (2026-02-04)
-- [Epstein-linked longevity guru Peter Attia leaves David Protein, and his own startup ‘won’t comment’](https://techcrunch.com/2026/02/03/epstein-linked-longevity-guru-peter-attia-leaves-david-protein-and-his-own-startup-wont-comment/) (2026-02-04)
-- [India’s Varaha bags $20M to scale carbon removal from the Global South](https://techcrunch.com/2026/02/03/indias-varaha-bags-20m-to-scale-carbon-removal-from-the-global-south/) (2026-02-03)
-- [The Minneapolis tech community holds strong during ‘tense and difficult time’](https://techcrunch.com/2026/02/03/minnesota-tech-community-founders-investors-ice-response/) (2026-02-03)
-- [Intel will start making GPUs, a market dominated by Nvidia ](https://techcrunch.com/2026/02/03/intel-will-start-making-gpus-a-market-dominated-by-nvidia/) (2026-02-03)
+- [Tinder looks to AI to help fight ‘swipe fatigue’ and dating app burnout](https://techcrunch.com/2026/02/04/tinder-looks-to-ai-to-help-fight-swipe-fatigue-and-dating-app-burnout/) (2026-02-04)
+- [Lunar Energy raises $232M to deploy home batteries that prop up the grid](https://techcrunch.com/2026/02/04/lunar-energy-raises-232m-to-deploy-home-batteries-that-prop-up-the-grid/) (2026-02-04)
+- [Hackers publish personal information stolen during Harvard, UPenn data breaches](https://techcrunch.com/2026/02/04/hackers-publish-personal-information-stolen-during-harvard-upenn-data-breaches/) (2026-02-04)
+- [Roblox’s 4D creation feature is now available in open beta](https://techcrunch.com/2026/02/04/robloxs-4d-creation-feature-is-now-available-in-open-beta/) (2026-02-04)
+- [ElevenLabs raises $500M from Sequoia at an $11 billion valuation](https://techcrunch.com/2026/02/04/elevenlabs-raises-500m-from-sequioia-at-a-11-billion-valuation/) (2026-02-04)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Broken Proofs and Broken Provers](https://lawrencecpaulson.github.io/2026/01/15/Broken_proofs.html) (2026-02-04)
-- [Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering](https://github.com/bethington/ghidra-mcp) (2026-02-04)
-- [I miss thinking hard](https://www.jernesto.com/articles/thinking_hard) (2026-02-04)
-- [Notepad++ supply chain attack breakdown](https://securelist.com/notepad-supply-chain-attack/118708/) (2026-02-03)
-- [FlashAttention-T: Towards Tensorized Attention](https://dl.acm.org/doi/10.1145/3774934.3786425) (2026-02-03)
+- [Claude Code's /Insights](https://www.natemeyvis.com/claude-codes-insights/) (2026-02-04)
+- [The Great Unwind](https://occupywallst.com/yen) (2026-02-04)
+- [Cracking the Clit (2017)](https://logicmag.io/sex/cracking-the-clit/) (2026-02-04)
+- [Intel will start making GPUs](https://techcrunch.com/2026/02/03/intel-will-start-making-gpus-a-market-dominated-by-nvidia/) (2026-02-04)
+- [Building a 24-bit arcade CRT display adapter from scratch](https://www.scd31.com/posts/building-an-arcade-display-adapter) (2026-02-04)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Sen. Warren wants to know what Google Gemini’s built-in checkout means for user privacy](https://www.theverge.com/news/873476/senator-elizabeth-warren-google-gemini-ai-shopping-privacy) (2026-02-04)
-- [Adobe actually won’t discontinue Animate](https://www.theverge.com/tech/873621/adobe-animate-maintenance-mode-reverse-course) (2026-02-04)
-- [Republicans haul Netflix before Congress for being too ‘woke’](https://www.theverge.com/policy/873533/netflix-warner-bros-discovery-senate-antitrust-hearing) (2026-02-04)
-- [AMD hints Microsoft could launch its next-gen Xbox in 2027](https://www.theverge.com/news/873490/microsoft-next-gen-xbox-console-2027-date-amd) (2026-02-03)
-- [Department of Justice appeals Google search monopoly ruling](https://www.theverge.com/tech/873438/google-antitrust-case-doj-states-appeal) (2026-02-03)
+- [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple) (2026-02-04)
+- [I was detained by federal agents in Minneapolis](https://www.theverge.com/policy/873656/alex-pretti-protester-detained-dhs-ice-whipple) (2026-02-04)
+- [Apple TV details its 2026 streaming lineup with big list of announcements](https://www.theverge.com/streaming/873862/apple-tv-2026-streaming-lineup) (2026-02-04)
+- [Google Cloud’s customer chief returns to Microsoft as head of security](https://www.theverge.com/news/873930/google-cloud-hayete-gallot-microsoft-security) (2026-02-04)
+- [Google&#8217;s Pixel 10A will be revealed on February 18th](https://www.theverge.com/news/873923/google-pixel-10a-launch-date-reveal-teaser) (2026-02-04)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Russian spy satellites have intercepted EU communications satellites](https://arstechnica.com/space/2026/02/russian-spy-satellites-have-intercepted-eu-communications-satellites/) (2026-02-04)
+- [NASA finally acknowledges the elephant in the room with the SLS rocket](https://arstechnica.com/space/2026/02/nasa-finally-acknowledges-the-elephant-in-the-room-with-the-sls-rocket/) (2026-02-04)
+- [So yeah, I vibe-coded a log colorizer—and I feel good about it](https://arstechnica.com/features/2026/02/so-yeah-i-vibe-coded-a-log-colorizer-and-i-feel-good-about-it/) (2026-02-04)
 - [Netflix says users can cancel service if HBO Max merger makes it too expensive ](https://arstechnica.com/gadgets/2026/02/netflix-claims-subscribers-will-get-more-content-for-less-if-it-buys-hbo-max/) (2026-02-03)
 - [Godlike Titan threatens humanity in Monarch: Legacy of Monsters S2 trailer](https://arstechnica.com/culture/2026/02/meet-the-new-tentacled-titan-x-in-monarch-legacy-of-monsters-s2-trailer/) (2026-02-03)
-- [Nvidia's $100 billion OpenAI deal has seemingly vanished](https://arstechnica.com/information-technology/2026/02/five-months-later-nvidias-100-billion-openai-investment-plan-has-fizzled-out/) (2026-02-03)
-- [Newborn dies after mother drinks raw milk during pregnancy](https://arstechnica.com/health/2026/02/newborns-death-spurs-raw-milk-warning-in-new-mexico/) (2026-02-03)
-- [X office raided in France's Grok probe; Elon Musk summoned for questioning](https://arstechnica.com/tech-policy/2026/02/x-office-raided-in-frances-grok-probe-elon-musk-summoned-for-questioning/) (2026-02-03)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [From guardrails to governance: A CEO’s guide for securing agentic systems](https://www.technologyreview.com/2026/02/04/1131014/from-guardrails-to-governance-a-ceos-guide-for-securing-agentic-systems/) (2026-02-04)
+- [The Download: the future of nuclear power plants, and social media-fueled AI hype](https://www.technologyreview.com/2026/02/04/1132115/the-download-the-future-of-nuclear-power-plants-and-social-media-fueled-ai-hype/) (2026-02-04)
 - [The Download: squeezing more metal out of aging mines, and AI’s truth crisis](https://www.technologyreview.com/2026/02/03/1132105/the-download-squeezing-more-metal-out-of-aging-mines-and-ais-truth-crisis/) (2026-02-03)
 - [Microbes could extract the metal needed for cleantech](https://www.technologyreview.com/2026/02/03/1132047/microbes-extract-metal-cleantech/) (2026-02-03)
 - [What we’ve been getting wrong about AI’s truth crisis](https://www.technologyreview.com/2026/02/02/1132068/what-weve-been-getting-wrong-about-ais-truth-crisis/) (2026-02-02)
-- [The crucial first step for designing a successful enterprise AI system](https://www.technologyreview.com/2026/02/02/1131822/the-crucial-first-step-for-designing-a-successful-enterprise-ai-system/) (2026-02-02)
-- [The Download: inside a deepfake marketplace, and EV batteries’ future](https://www.technologyreview.com/2026/02/02/1132049/the-download-inside-a-deepfake-marketplace-and-ev-batteries-future/) (2026-02-02)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Pick your agent: Use Claude and Codex on Agent HQ ](https://github.blog/news-insights/company-news/pick-your-agent-use-claude-and-codex-on-agent-hq/) (2026-02-04)
 - [What the fastest-growing tools reveal about how software is being built](https://github.blog/news-insights/octoverse/what-the-fastest-growing-tools-reveal-about-how-software-is-being-built/) (2026-02-03)
 - [How to maximize GitHub Copilot’s agentic capabilities](https://github.blog/ai-and-ml/github-copilot/how-to-maximize-github-copilots-agentic-capabilities/) (2026-02-02)
 - [From pixels to characters: The engineering behind GitHub Copilot CLI’s animated ASCII banner](https://github.blog/engineering/from-pixels-to-characters-the-engineering-behind-github-copilot-clis-animated-ascii-banner/) (2026-01-28)
 - [Year recap and future goals for the GitHub Innovation Graph](https://github.blog/news-insights/policy-news-and-insights/year-recap-and-future-goals-for-the-github-innovation-graph/) (2026-01-28)
-- [7 learnings from Anders Hejlsberg: The architect behind C# and TypeScript](https://github.blog/developer-skills/programming-languages-and-frameworks/7-learnings-from-anders-hejlsberg-the-architect-behind-c-and-typescript/) (2026-01-27)
 
 </details>
 
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Code smells for AI agents: Q&A with Eno Reyes of Factory](https://stackoverflow.blog/2026/02/04/code-smells-for-ai-agents-q-and-a-with-eno-reyes-of-factory/) (2026-02-04)
 - [Generating text with diffusion (and ROI with LLMs)](https://stackoverflow.blog/2026/02/03/generating-text-with-diffusion-and-roi-with-llms/) (2026-02-03)
 - [What’s new at Stack Overflow: February 2026](https://stackoverflow.blog/2026/02/02/what-s-new-at-stack-overflow-february-2026/) (2026-02-02)
 - [Wanna see a CSS magic trick?](https://stackoverflow.blog/2026/01/30/wanna-see-a-css-magic-trick/) (2026-01-30)
 - [Scaling enterprise AI: lessons in governance and operating models from IBM](https://stackoverflow.blog/2026/01/29/scaling-enterprise-ai-lessons-in-governance-and-operating-models-from-ibm/) (2026-01-29)
-- [Are you learning with AI? We want to know about it!](https://stackoverflow.blog/2026/01/29/are-you-learning-with-ai-we-want-to-know-about-it/) (2026-01-29)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why I stopped calling LLM APIs directly and built an Infrastructure Protocol](https://dev.to/sunny_anand_dev/why-i-stopped-calling-llm-apis-directly-and-built-an-infrastructure-protocol-1jh1) (2026-02-04)
-- [Build Production-Ready GCP Infrastructure from Scratch Part 02](https://dev.to/shaikhalamin/build-production-ready-gcp-infrastructure-from-scratch-part-02-542o) (2026-02-04)
-- [My First Platform at 15](https://dev.to/neocodeio/my-first-platform-at-15-1fbe) (2026-02-04)
-- [Build Production-Ready GCP Infrastructure from Scratch Part 01](https://dev.to/shaikhalamin/build-production-ready-gcp-infrastructure-from-scratch-part-01-3c2n) (2026-02-04)
-- [How Hoisting works internally?](https://dev.to/jyotich15/how-hoisting-works-internally-pml) (2026-02-04)
+- [TxtAI got skills](https://dev.to/neuml/txtai-got-skills-2b61) (2026-02-04)
+- [Agentic College Search](https://dev.to/neuml/agentic-college-search-25bc) (2026-02-04)
+- [Commit Operation: Turning In-Memory Changes into Permanent Reality in SQLite](https://dev.to/lovestaco/commit-operation-turning-in-memory-changes-into-permanent-reality-in-sqlite-5e0o) (2026-02-04)
+- [Claude Agent SDK: Build Agents That Work Like Claude Code](https://dev.to/rajeshroyal/claude-agent-sdk-build-agents-that-work-like-claude-code-50ln) (2026-02-04)
+- [Best AI Code Review Tools in 2026 - A Developer’s Point of View](https://dev.to/nnennandukwe/best-ai-code-review-tools-in-2026-a-developers-point-of-view-4d5h) (2026-02-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Proxy ve Reverse Proxy](https://blog.alfatek.dev/proxy-ve-reverse-proxy-a2d723628d1a?source=rss------programming-5) (2026-02-04)
-- [Python — Part 1](https://medium.com/@adii.utsav/python-part-1-ab2826a55e8a?source=rss------programming-5) (2026-02-04)
-- [React Native’s New Architecture — An Engineer’s Perspective](https://medium.com/@shailendraparihar3630/react-natives-new-architecture-an-engineer-s-perspective-a299b216e144?source=rss------programming-5) (2026-02-04)
-- [8 C++ Automation Ideas That Turned Me from Student Coder to Problem Solver](https://medium.com/@arslanshoukatali/8-c-automation-ideas-that-turned-me-from-student-coder-to-problem-solver-2feaf98bf5d4?source=rss------programming-5) (2026-02-04)
-- [7 Times C++ Automation Beat Every Other Language I Tried](https://medium.com/@arslanshoukatali/7-times-c-automation-beat-every-other-language-i-tried-5962bf8cdad9?source=rss------programming-5) (2026-02-04)
+- [Exploring the Cutting Edge Software Technologies Defining 2026](https://medium.com/@dilipsvarma/exploring-the-cutting-edge-software-technologies-defining-2026-75440ed1a050?source=rss------programming-5) (2026-02-04)
+- [Using the IntersectionObserver API for Lazy Loading in JavaScript](https://javascript.plainenglish.io/using-the-intersectionobserver-api-for-lazy-loading-in-javascript-729da67bcb3b?source=rss------programming-5) (2026-02-04)
+- [Stop Making These 5 Fatal JWT Mistakes (And How to Fix Them)](https://medium.com/@aiagentofchange/stop-making-these-5-fatal-jwt-mistakes-and-how-to-fix-them-ad9d07046998?source=rss------programming-5) (2026-02-04)
+- [I Mass-Rewrote Our Java Backend in Go. 6 Months Later, We Mass-Regretted It.](https://medium.com/@lakshayaggarwal9/i-mass-rewrote-our-java-backend-in-go-6-months-later-we-mass-regretted-it-e82c31bbe685?source=rss------programming-5) (2026-02-04)
+- [Claude Code Best Practices: 50 Rules of Engagement to Turn an “Artificial Idiot” into a God-Tier…](https://medium.programmerscareer.com/claude-code-best-practices-50-rules-of-engagement-to-turn-an-artificial-idiot-into-a-god-tier-4fa602f02011?source=rss------programming-5) (2026-02-04)
 
 </details>
 
@@ -141,22 +141,22 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Nemotron Labs: How AI Agents Are Turning Documents Into Real-Time Business Intelligence](https://blogs.nvidia.com/blog/ai-agents-intelligent-document-processing/) (2026-02-04)
 - [Everything Will Be Represented in a Virtual Twin, NVIDIA CEO Jensen Huang Says at 3DEXPERIENCE World](https://blogs.nvidia.com/blog/huang-3dexperience-2026/) (2026-02-03)
 - [Mercedes-Benz Unveils New S-Class Built on NVIDIA DRIVE AV, Which Enables an L4-Ready Architecture](https://blogs.nvidia.com/blog/mercedes-benz-l4-s-class-drive-av-platform/) (2026-01-29)
 - [Into the Omniverse: Physical AI Open Models and Frameworks Advance Robots and Autonomous Systems](https://blogs.nvidia.com/blog/physical-ai-open-models-robot-autonomous-systems-omniverse/) (2026-01-29)
 - [GeForce NOW Brings GeForce RTX Gaming to Linux PCs](https://blogs.nvidia.com/blog/geforce-now-thursday-linux/) (2026-01-29)
-- [Accelerating Science: A Blueprint for a Renewed National Quantum Initiative](https://blogs.nvidia.com/blog/national-quantum-initiative/) (2026-01-28)
 
 </details>
 
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [Hello Developer: February 2026](https://developer.apple.com/news/?id=6iajkgmp) (2026-02-03)
 - [Upcoming SDK minimum requirements](https://developer.apple.com/news/?id=ueeok6yw) (2026-02-03)
 - [Price updates for apps, In-App Purchases, and subscriptions](https://developer.apple.com/news/?id=gvnljl3f) (2026-01-29)
 - [Hello Developer: January 2026](https://developer.apple.com/news/?id=zni5qkkl) (2026-01-06)
 - [Update on age requirements for apps distributed in Texas](https://developer.apple.com/news/?id=8jzbigf4) (2025-12-24)
-- [Changes to iOS in Japan](https://developer.apple.com/news/?id=074b3wzz) (2025-12-17)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Get Started with the Atlassian Rovo MCP Server Using Docker](https://www.docker.com/blog/atlassian-remote-mcp-server-getting-started-with-docker/) (2026-02-04)
 - [The 3Cs: A Framework for AI Agent Security](https://www.docker.com/blog/the-3cs-a-framework-for-ai-agent-security/) (2026-02-04)
 - [Docker Sandboxes: Run Claude Code and Other Coding Agents Unsupervised (but Safely)](https://www.docker.com/blog/docker-sandboxes-run-claude-code-and-other-coding-agents-unsupervised-but-safely/) (2026-01-30)
 - [Clawdbot with Docker Model Runner, a Private Personal AI Assistant](https://www.docker.com/blog/clawdbot-docker-model-runner-private-personal-ai/) (2026-01-26)
 - [Run Claude Code Locally with Docker Model Runner](https://www.docker.com/blog/run-claude-code-locally-docker-model-runner/) (2026-01-26)
-- [Making the Most of Your Docker Hardened Images Enterprise Trial – Part 3](https://www.docker.com/blog/making-the-most-of-your-docker-hardened-images-enterprise-trial-part-3/) (2026-01-25)
 
 </details>
 
@@ -317,7 +317,7 @@
 <details>
 <summary>📝 Visual Studio Code</summary>
 
-- [January 2026 Insiders (version 1.109)](https://code.visualstudio.com/updates/v1_109) (2026-02-04)
+- [January 2026 (version 1.109)](https://code.visualstudio.com/updates/v1_109) (2026-02-04)
 - [Giving Agents a Visual Voice: MCP Apps Support in VS Code](https://code.visualstudio.com/blogs/2026/01/26/mcp-apps-support) (2026-01-26)
 - [Building docfind: Fast Client-Side Search with Rust and WebAssembly](https://code.visualstudio.com/blogs/2026/01/15/docfind) (2026-01-15)
 - [December 2025 (version 1.108)](https://code.visualstudio.com/updates/v1_108) (2026-01-08)
@@ -362,6 +362,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+What is branded calling?
+](
+https://www.twilio.com/en-us/blog/insights/what-is-branded-calling
+) (2026-02-03)
+- [
 Identity resolution: what it is and how it works
 ](
 https://www.twilio.com/en-us/blog/insights/identity-resolution
@@ -381,22 +386,17 @@ What is Reverse ETL (and how does it work)?
 ](
 https://www.twilio.com/en-us/blog/insights/data/reverse-etl
 ) (2026-01-25)
-- [
-Bringing SendGrid and Segment to Twilio.com: A More Unified Web Experience
-](
-https://www.twilio.com/en-us/blog/company/bringing-sendgrid-and-segment-to-twilio
-) (2026-01-23)
 
 </details>
 
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Setting Up Auth0 Custom Domains: A Complete Guide to DNS and SDK Configuration](https://auth0.com/blog/custom-domains-complete-guide/) (2026-02-03)
 - [Scaling Identity: Implementing CI/CD with the Terraform and GitHub Actions](https://auth0.com/blog/ci-cd-auth0-github-actions/) (2026-02-02)
-- [Scaling Identity: Automating Auth0 Configuration with the Auth0 Terraform Provider](https://auth0.com/blog/scaling-identity-foundation-terraform-auth0/) (2026-01-30)
 - [Auth0 B2B Billing: Should You Pick a Monthly or Annual Plan?](https://auth0.com/blog/auth0-b2b-billing-choosing-monthly-annual-plan/) (2026-01-30)
+- [Scaling Identity: Automating Auth0 Configuration with the Auth0 Terraform Provider](https://auth0.com/blog/scaling-identity-foundation-terraform-auth0/) (2026-01-30)
 - [Scaling Identity: Why You Need Auth0 Configuration Automation](https://auth0.com/blog/why-you-need-auth0-configuration-automation/) (2026-01-29)
-- [Securing OpenClaw: A Developer's Checklist for AI Agent Security](https://auth0.com/blog/five-step-guide-securing-moltbot-ai-agent/) (2026-01-28)
 
 </details>
 
@@ -546,10 +546,10 @@ https://www.twilio.com/en-us/blog/company/bringing-sendgrid-and-segment-to-twili
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3’s Top Model](https://huggingface.co/blog/nvidia/nemotron-colembed-v2) (2026-02-04)
 - [H Company's new Holo2 model takes the lead in UI Localization](https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b) (2026-02-03)
 - [The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+](https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3) (2026-02-03)
 - [Training Design for Text-to-Image Models: Lessons from Ablations](https://huggingface.co/blog/Photoroom/prx-part2) (2026-02-03)
-- [Introducing NVIDIA Cosmos Policy for Advanced Robot Control](https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control) (2026-01-29)
 - [Introducing Daggr: Chain apps programmatically, inspect visually](https://huggingface.co/blog/daggr) (2026-01-29)
 
 </details>
@@ -557,55 +557,55 @@ https://www.twilio.com/en-us/blog/company/bringing-sendgrid-and-segment-to-twili
 <details>
 <summary>🤖 AI News</summary>
 
+- [AI Expo 2026 Day 1: Governance and data readiness enable the agentic enterprise](https://www.artificialintelligence-news.com/news/ai-expo-2026-day-1-governance-data-readiness-enable-agentic-enterprise/) (2026-02-04)
 - [Combing the Rackspace blogfiles for operational AI pointers](https://www.artificialintelligence-news.com/news/combing-the-rackspace-blogfiles-for-operational-ai-pointers/) (2026-02-04)
 - [How Cisco builds smart systems for the AI era](https://www.artificialintelligence-news.com/news/how-cisco-builds-smart-systems-for-the-ai-era/) (2026-02-04)
 - [Ronnie Sheth, CEO, SENEN Group: Why now is the time for enterprise AI to ‘get practical’](https://www.artificialintelligence-news.com/news/ronnie-sheth-ceo-senen-group-why-now-is-the-time-for-enterprise-ai-to-get-practical/) (2026-02-03)
 - [Apptio: Why scaling intelligent automation requires financial rigour](https://www.artificialintelligence-news.com/news/apptio-why-scaling-intelligent-automation-requires-financial-rigour/) (2026-02-03)
-- [FedEx tests how far AI can go in tracking and returns management](https://www.artificialintelligence-news.com/news/fedex-tests-how-far-ai-can-go-in-tracking-and-returns-management/) (2026-02-03)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [AWS vs. Azure: A Deep Dive into Model Training – Part 2](https://towardsdatascience.com/aws-vs-azure-a-deep-dive-into-model-training-part-2/) (2026-02-04)
+- [How to Work Effectively with Frontend and Backend Code](https://towardsdatascience.com/how-to-effectively-work-with-frontend-and-backend-code/) (2026-02-04)
+- [How to Build Your Own Custom LLM Memory Layer from Scratch](https://towardsdatascience.com/how-to-build-your-own-custom-llm-memory-layer-from-scratch/) (2026-02-04)
 - [Plan–Code–Execute: Designing Agents That Create Their Own Tools](https://towardsdatascience.com/plan-code-execute-designing-agents-that-create-their-own-tools/) (2026-02-04)
 - [Routing in a Sparse Graph: a Distributed Q-Learning Approach](https://towardsdatascience.com/routing-in-a-sparse-graph-a-distributed-q-learning-approach/) (2026-02-03)
-- [YOLOv2 & YOLO9000 Paper Walkthrough: Better, Faster, Stronger](https://towardsdatascience.com/yolov2-yolo9000-paper-walkthrough-better-faster-stronger/) (2026-02-03)
-- [Creating a Data Pipeline to Monitor Local Crime Trends](https://towardsdatascience.com/creating-a-data-pipeline-to-monitor-local-crime-trends/) (2026-02-03)
-- [The Proximity of the Inception Score as an Evaluation Criterion](https://towardsdatascience.com/the-proximity-of-the-inception-score-as-an-evaluation-criterion/) (2026-02-03)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [AI Agents Can Now Hire Real Humans](https://www.analyticsvidhya.com/blog/2026/02/ai-hiring-humans/) (2026-02-04)
 - [Top 10 MCP Servers for AI Builders in 2026](https://www.analyticsvidhya.com/blog/2026/02/top-mcp-servers/) (2026-02-04)
 - [5 Kimi K2.5 Features for Developers: Is it the Best AI Model for Programming?](https://www.analyticsvidhya.com/blog/2026/02/kimi-k2-5-features-for-developers-programming/) (2026-02-03)
 - [6 New Features of Grok Imagine 1.0 [MUST TRY]](https://www.analyticsvidhya.com/blog/2026/02/grok-imagine-1-0-is-here/) (2026-02-03)
 - [Build an AI Study Assistant with Claude Code + Android Studio](https://www.analyticsvidhya.com/blog/2026/02/build-an-ai-study-assistant-with-claude-code-android-studio/) (2026-02-03)
-- [How to Build an OpenClaw Agent in Less Than 10 Minutes](https://www.analyticsvidhya.com/blog/2026/02/how-to-build-an-openclaw-agent/) (2026-02-03)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Bindu Reddy: Navigating the Path to AGI](https://www.kdnuggets.com/2026/02/abacus/bindu-reddy-navigating-the-path-to-agi) (2026-02-04)
+- [How to Become an AI Engineer in 2026: A Self-Study Roadmap](https://www.kdnuggets.com/how-to-become-an-ai-engineer-in-2026-a-self-study-roadmap) (2026-02-04)
+- [5 Open Source Image Editing AI Models](https://www.kdnuggets.com/5-open-source-image-editing-ai-models) (2026-02-04)
 - [The Business Impact of AI Deployment (Sponsored)](https://bit.ly/45Qgzq2) (2026-02-04)
 - [Beyond Giant Models: Why AI Orchestration Is the New Architecture](https://www.kdnuggets.com/beyond-giant-models-why-ai-orchestration-is-the-new-architecture) (2026-02-03)
-- [5 Time Series Foundation Models You Are Missing Out On](https://www.kdnuggets.com/5-time-series-foundation-models-you-are-missing-out-on) (2026-02-03)
-- [Working with Billion-Row Datasets in Python (Using Vaex)](https://www.kdnuggets.com/working-with-billion-row-datasets-in-python-using-vaex) (2026-02-02)
-- [WTF is a Parameter?!?](https://www.kdnuggets.com/wtf-is-a-parameter) (2026-02-02)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Export Your ML Model in ONNX Format](https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/) (2026-02-04)
 - [7 Advanced Feature Engineering Tricks Using LLM Embeddings](https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/) (2026-02-03)
 - [A Beginner’s Reading List for Large Language Models for 2026](https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/) (2026-02-02)
 - [7 Important Considerations Before Deploying Agentic AI in Production](https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/) (2026-01-29)
 - [5 Ways to Use Cross-Validation to Improve Time Series Models](https://machinelearningmastery.com/5-ways-to-use-cross-validation-to-improve-time-series-models/) (2026-01-28)
-- [The 3 Invisible Risks Every LLM App Faces (And How to Guard Against Them)](https://machinelearningmastery.com/the-3-invisible-risks-every-llm-app-faces-and-how-to-guard-against-them/) (2026-01-27)
 
 </details>
 
