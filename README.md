@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Sam Altman responds to Anthropic's "Ads are coming to AI. But not to Claude" ads](https://xcancel.com/sama/status/2019139174339928189) (2026-02-05)
-- [OpenClaw Is What Apple Intelligence Should Have Been](https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been) (2026-02-05)
-- [As Rocks May Think](https://evjang.com/2026/02/04/rocks.html) (2026-02-04)
-- [Debian's Challenge When Its Developers Drift Away](https://www.phoronix.com/news/Debian-Developers-Quiet-Away) (2026-02-04)
-- [A real-world benchmark for AI code review](https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/) (2026-02-04)
+- [Don't rent the cloud, own instead](https://blog.comma.ai/datacenter/) (2026-02-05)
+- [When internal hostnames are leaked to the clown](https://rachelbythebay.com/w/2026/02/03/badnas/) (2026-02-05)
+- [ICE seeks industry input on ad tech location data for investigative use](https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use) (2026-02-05)
+- [A few CPU hardware bugs](https://www.taricorp.net/2026/a-few-cpu-bugs/) (2026-02-05)
+- [Wirth's Revenge](https://jmoiron.net/blog/wirths-revenge/) (2026-02-05)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Museums incorporate "scent of the afterlife" into Egyptian exhibits](https://arstechnica.com/science/2026/02/museums-incorporate-scent-of-the-afterlife-into-egyptian-exhibits/) (2026-02-05)
 - [Microsoft releases urgent Office patch. Russian-state hackers pounce.](https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/) (2026-02-04)
 - [FBI stymied by Apple's Lockdown Mode after seizing journalist's iPhone](https://arstechnica.com/tech-policy/2026/02/fbi-stymied-by-apples-lockdown-mode-after-seizing-journalists-iphone/) (2026-02-04)
 - [Should AI chatbots have ads? Anthropic says no.](https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/) (2026-02-04)
 - [US House takes first step toward creating "commercial" deep space program](https://arstechnica.com/space/2026/02/us-house-takes-first-step-toward-creating-commercial-deep-space-program/) (2026-02-04)
-- [Judge gives Musk bad news, says Trump hasn't intervened to block SEC lawsuit](https://arstechnica.com/tech-policy/2026/02/trump-ghosts-musk-wont-back-claims-sec-lawsuit-was-political-harassment/) (2026-02-04)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How I Tamed Claude Code with Pre-Tool Hooks (And You Should Too)](https://dev.to/anand_rathnas_d5b608cc3de/how-i-tamed-claude-code-with-pre-tool-hooks-and-you-should-too-3nh1) (2026-02-05)
-- [Day 2: Advanced SQL Preparation Guide](https://dev.to/neeraj1997dev/day-2-advanced-sql-preparation-guide-4p85) (2026-02-05)
-- [When the Industry Starts Describing the Symptoms of a Collapse You Already Mapped](https://dev.to/narnaiezzsshaa/when-the-industry-starts-describing-the-symptoms-of-a-collapse-you-already-mapped-pf4) (2026-02-05)
-- [When AI Traffic Breaks Your Billing System](https://dev.to/telecomhub/when-ai-traffic-breaks-your-billing-system-cj8) (2026-02-05)
-- [Quantified Self at Scale: Processing Millions of Wearable Metrics with ClickHouse 🚀](https://dev.to/wellallytech/quantified-self-at-scale-processing-millions-of-wearable-metrics-with-clickhouse-37kn) (2026-02-05)
+- [Hierarchical Multi-Scale Attention for Semantic Segmentation](https://dev.to/paperium/hierarchical-multi-scale-attention-for-semantic-segmentation-56mo) (2026-02-05)
+- [Postman Ends Free Team Plans in March 2026. Here Is The Free Alternative I Switched To](https://dev.to/auden/postman-ends-free-team-plans-in-march-2026-here-is-the-free-alternative-i-switched-to-118p) (2026-02-05)
+- [Visualizing eBay Competitor Pricing: From Raw JSONL to Price Trend Dashboard](https://dev.to/sommic/visualizing-ebay-competitor-pricing-from-raw-jsonl-to-price-trend-dashboard-42d9) (2026-02-05)
+- [I Implemented Every Sorting Algorithm in Python — And Python's Built-in Sort Crushed Them All](https://dev.to/emmimal_alexander_3be8cc7/i-implemented-every-sorting-algorithm-in-python-and-pythons-built-in-sort-crushed-them-all-2o25) (2026-02-05)
+- [Firestore vs Realtime Database: Which Is Best and Why?](https://dev.to/iamsaadmehmood/firestore-vs-realtime-database-which-is-best-and-why-1h2c) (2026-02-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Calls That Won’t Let Go](https://dick-dowdell.medium.com/the-calls-that-wont-let-go-6f3236211fc7?source=rss------programming-5) (2026-02-05)
-- [Why Great Engineers Love Debugging (Eventually)](https://medium.com/@vallabhsangale7/why-great-engineers-love-debugging-eventually-eedc3288eca5?source=rss------programming-5) (2026-02-05)
-- [Why Clients Don’t Care About Your Tech Stack](https://medium.com/h7w/why-clients-dont-care-about-your-tech-stack-861011dd4d50?source=rss------programming-5) (2026-02-05)
-- [Deloitte — Interview Experience (4+ Years Experience)](https://medium.com/@ajit-gupta/deloitte-interview-experience-4-years-experience-34c7f4a410f0?source=rss------programming-5) (2026-02-05)
-- [Everything You Need to Become a Production-Ready DevOps Engineer](https://medium.com/@osomudeyazudonu/everything-you-need-to-become-a-production-ready-devops-engineer-304c5c119768?source=rss------programming-5) (2026-02-05)
+- [How to Hire Dedicated AI Agent Developers for Your Enterprise in India](https://medium.com/@bde_31397/how-to-hire-dedicated-ai-agent-developers-for-your-enterprise-in-india-4bdcdb3d1c7f?source=rss------programming-5) (2026-02-05)
+- [Building a CLI Proxy Tester in Python](https://medium.com/@hunkcool1991/building-a-cli-proxy-tester-in-python-f60bb8cdce68?source=rss------programming-5) (2026-02-05)
+- [Interview Experience: Java Developer Experience: 4+years #Coforge](https://medium.com/@ajit-gupta/interview-experience-java-developer-experience-4-years-coforge-32367797fe9a?source=rss------programming-5) (2026-02-05)
+- [Azure logic apps with Real-World Use cases](https://medium.com/@mlkpatel0/azure-logic-apps-with-real-world-use-cases-1b0841a1ae49?source=rss------programming-5) (2026-02-05)
+- [mAIdAI: Building a Personal Assistant with Google Cloud and Vertex AI](https://fmind.medium.com/maidai-building-a-personal-assistant-with-google-cloud-and-vertex-ai-a136aa73656b?source=rss------programming-5) (2026-02-05)
 
 </details>
 
@@ -362,11 +362,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-What is branded calling?
-](
-https://www.twilio.com/en-us/blog/insights/what-is-branded-calling
-) (2026-02-03)
-- [
 Identity resolution: what it is and how it works
 ](
 https://www.twilio.com/en-us/blog/insights/identity-resolution
@@ -386,6 +381,11 @@ What is Reverse ETL (and how does it work)?
 ](
 https://www.twilio.com/en-us/blog/insights/data/reverse-etl
 ) (2026-01-25)
+- [
+Bringing SendGrid and Segment to Twilio.com: A More Unified Web Experience
+](
+https://www.twilio.com/en-us/blog/company/bringing-sendgrid-and-segment-to-twilio
+) (2026-01-23)
 
 </details>
 
@@ -480,11 +480,11 @@ https://www.twilio.com/en-us/blog/insights/data/reverse-etl
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
+- [外部アプリから Salesforce API にアクセスする方法](https://developer.salesforce.com/blogs/2026/02/jp-access-the-salesforce-api-from-externalclientapp.html) (2026-02-03)
 - [Streamline Data 360 Onboarding with API-Driven Automation](https://developer.salesforce.com/blogs/2026/02/streamline-data-360-onboarding-with-api-driven-automation.html) (2026-02-03)
 - [Create Faster, Lighter Experience Cloud Sites with Omnistudio Components and LWR](https://developer.salesforce.com/blogs/2026/01/create-faster-lighter-experience-cloud-sites-with-omnistudio-components-and-lwr.html) (2026-01-27)
 - [The Salesforce Developer’s Guide to the Spring ’26 Release](https://developer.salesforce.com/blogs/2026/01/developers-guide-to-the-spring-26-release.html) (2026-01-22)
 - [Agentforce ログの見方：LLM プロンプトをレポートで可視化する方法](https://developer.salesforce.com/blogs/2026/01/jp-create-agentforce-llm-log-with-report.html) (2026-01-21)
-- [Migrate from Aura to LWC with Agentforce Vibes](https://developer.salesforce.com/blogs/2026/01/migrate-from-aura-to-lwc-with-agentforce-vibes.html) (2026-01-14)
 
 </details>
 
@@ -579,11 +579,11 @@ https://www.twilio.com/en-us/blog/insights/data/reverse-etl
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [40 RAG Interview Questions and Answers](https://www.analyticsvidhya.com/blog/2026/02/rag-interview-questions-and-answers/) (2026-02-05)
 - [AI Agents Can Now Hire Real Humans](https://www.analyticsvidhya.com/blog/2026/02/ai-hiring-humans/) (2026-02-04)
 - [Top 10 MCP Servers for AI Builders in 2026](https://www.analyticsvidhya.com/blog/2026/02/top-mcp-servers/) (2026-02-04)
 - [5 Kimi K2.5 Features for Developers: Is it the Best AI Model for Programming?](https://www.analyticsvidhya.com/blog/2026/02/kimi-k2-5-features-for-developers-programming/) (2026-02-03)
 - [6 New Features of Grok Imagine 1.0 [MUST TRY]](https://www.analyticsvidhya.com/blog/2026/02/grok-imagine-1-0-is-here/) (2026-02-03)
-- [Build an AI Study Assistant with Claude Code + Android Studio](https://www.analyticsvidhya.com/blog/2026/02/build-an-ai-study-assistant-with-claude-code-android-studio/) (2026-02-03)
 
 </details>
 
