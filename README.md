@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Tinder looks to AI to help fight ‘swipe fatigue’ and dating app burnout](https://techcrunch.com/2026/02/04/tinder-looks-to-ai-to-help-fight-swipe-fatigue-and-dating-app-burnout/) (2026-02-04)
-- [Lunar Energy raises $232M to deploy home batteries that prop up the grid](https://techcrunch.com/2026/02/04/lunar-energy-raises-232m-to-deploy-home-batteries-that-prop-up-the-grid/) (2026-02-04)
-- [Hackers publish personal information stolen during Harvard, UPenn data breaches](https://techcrunch.com/2026/02/04/hackers-publish-personal-information-stolen-during-harvard-upenn-data-breaches/) (2026-02-04)
-- [Roblox’s 4D creation feature is now available in open beta](https://techcrunch.com/2026/02/04/robloxs-4d-creation-feature-is-now-available-in-open-beta/) (2026-02-04)
-- [ElevenLabs raises $500M from Sequoia at an $11 billion valuation](https://techcrunch.com/2026/02/04/elevenlabs-raises-500m-from-sequioia-at-a-11-billion-valuation/) (2026-02-04)
+- [Sam Altman got exceptionally testy over Claude Super Bowl ads](https://techcrunch.com/2026/02/04/sam-altman-got-exceptionally-testy-over-claude-super-bowl-ads/) (2026-02-05)
+- [As it preps Specs for the masses, Snap’s Q4 shows revenue growth but fewer daily users](https://techcrunch.com/2026/02/04/as-it-preps-specs-for-the-masses-snaps-q4-shows-revenue-growth-but-fewer-daily-users/) (2026-02-05)
+- [Mundi Ventures closes on €750M for Kembara, its largest deep tech and climate fund](https://techcrunch.com/2026/02/04/mundi-ventures-closes-on-e750m-for-kembara-its-largest-deep-tech-and-climate-fund/) (2026-02-05)
+- [Stripe alumni raise €30M Series A for Duna, backed by Stripe and Adyen execs](https://techcrunch.com/2026/02/04/stripe-alumni-raise-e30m-series-a-for-duna-backed-by-stripe-and-adyen-execs/) (2026-02-04)
+- [Alphabet won’t talk about the Google-Apple AI deal, even to investors](https://techcrunch.com/2026/02/04/alphabet-wont-talk-about-the-google-apple-ai-deal-even-to-investors/) (2026-02-04)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Claude Code's /Insights](https://www.natemeyvis.com/claude-codes-insights/) (2026-02-04)
-- [The Great Unwind](https://occupywallst.com/yen) (2026-02-04)
-- [Cracking the Clit (2017)](https://logicmag.io/sex/cracking-the-clit/) (2026-02-04)
-- [Intel will start making GPUs](https://techcrunch.com/2026/02/03/intel-will-start-making-gpus-a-market-dominated-by-nvidia/) (2026-02-04)
-- [Building a 24-bit arcade CRT display adapter from scratch](https://www.scd31.com/posts/building-an-arcade-display-adapter) (2026-02-04)
+- [Sam Altman responds to Anthropic's "Ads are coming to AI. But not to Claude" ads](https://xcancel.com/sama/status/2019139174339928189) (2026-02-05)
+- [OpenClaw Is What Apple Intelligence Should Have Been](https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been) (2026-02-05)
+- [As Rocks May Think](https://evjang.com/2026/02/04/rocks.html) (2026-02-04)
+- [Debian's Challenge When Its Developers Drift Away](https://www.phoronix.com/news/Debian-Developers-Quiet-Away) (2026-02-04)
+- [A real-world benchmark for AI code review](https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/) (2026-02-04)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple) (2026-02-04)
-- [I was detained by federal agents in Minneapolis](https://www.theverge.com/policy/873656/alex-pretti-protester-detained-dhs-ice-whipple) (2026-02-04)
-- [Apple TV details its 2026 streaming lineup with big list of announcements](https://www.theverge.com/streaming/873862/apple-tv-2026-streaming-lineup) (2026-02-04)
-- [Google Cloud’s customer chief returns to Microsoft as head of security](https://www.theverge.com/news/873930/google-cloud-hayete-gallot-microsoft-security) (2026-02-04)
-- [Google&#8217;s Pixel 10A will be revealed on February 18th](https://www.theverge.com/news/873923/google-pixel-10a-launch-date-reveal-teaser) (2026-02-04)
+- [Valve’s Steam Machine has been delayed, and the RAM crisis will impact pricing](https://www.theverge.com/games/874196/valve-steam-machine-frame-controller-delay-pricing-memory-crisis) (2026-02-05)
+- [Google&#8217;s annual revenue tops $400 billion for the first time](https://www.theverge.com/news/874161/google-400-billion-revenue-q4-2025-earnings) (2026-02-04)
+- [Senators grill Waymo and Tesla over robotaxi safety, liability, and China](https://www.theverge.com/transportation/873891/senate-hearing-autonomous-vehicles-robotaxi-waymo-tesla-legislation) (2026-02-04)
+- [Nintendo’s new Virtual Boy is more fun to look at than to play](https://www.theverge.com/games/873755/nintendo-switch-virtual-boy-impressions) (2026-02-04)
+- [Sam Altman responds to Anthropic’s ‘funny’ Super Bowl ads](https://www.theverge.com/news/874084/ai-chatgpt-claude-super-bowl-ads-openai-anthropic) (2026-02-04)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Russian spy satellites have intercepted EU communications satellites](https://arstechnica.com/space/2026/02/russian-spy-satellites-have-intercepted-eu-communications-satellites/) (2026-02-04)
-- [NASA finally acknowledges the elephant in the room with the SLS rocket](https://arstechnica.com/space/2026/02/nasa-finally-acknowledges-the-elephant-in-the-room-with-the-sls-rocket/) (2026-02-04)
-- [So yeah, I vibe-coded a log colorizer—and I feel good about it](https://arstechnica.com/features/2026/02/so-yeah-i-vibe-coded-a-log-colorizer-and-i-feel-good-about-it/) (2026-02-04)
-- [Netflix says users can cancel service if HBO Max merger makes it too expensive ](https://arstechnica.com/gadgets/2026/02/netflix-claims-subscribers-will-get-more-content-for-less-if-it-buys-hbo-max/) (2026-02-03)
-- [Godlike Titan threatens humanity in Monarch: Legacy of Monsters S2 trailer](https://arstechnica.com/culture/2026/02/meet-the-new-tentacled-titan-x-in-monarch-legacy-of-monsters-s2-trailer/) (2026-02-03)
+- [Microsoft releases urgent Office patch. Russian-state hackers pounce.](https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/) (2026-02-04)
+- [FBI stymied by Apple's Lockdown Mode after seizing journalist's iPhone](https://arstechnica.com/tech-policy/2026/02/fbi-stymied-by-apples-lockdown-mode-after-seizing-journalists-iphone/) (2026-02-04)
+- [Should AI chatbots have ads? Anthropic says no.](https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/) (2026-02-04)
+- [US House takes first step toward creating "commercial" deep space program](https://arstechnica.com/space/2026/02/us-house-takes-first-step-toward-creating-commercial-deep-space-program/) (2026-02-04)
+- [Judge gives Musk bad news, says Trump hasn't intervened to block SEC lawsuit](https://arstechnica.com/tech-policy/2026/02/trump-ghosts-musk-wont-back-claims-sec-lawsuit-was-political-harassment/) (2026-02-04)
 
 </details>
 
@@ -97,33 +97,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [TxtAI got skills](https://dev.to/neuml/txtai-got-skills-2b61) (2026-02-04)
-- [Agentic College Search](https://dev.to/neuml/agentic-college-search-25bc) (2026-02-04)
-- [Commit Operation: Turning In-Memory Changes into Permanent Reality in SQLite](https://dev.to/lovestaco/commit-operation-turning-in-memory-changes-into-permanent-reality-in-sqlite-5e0o) (2026-02-04)
-- [Claude Agent SDK: Build Agents That Work Like Claude Code](https://dev.to/rajeshroyal/claude-agent-sdk-build-agents-that-work-like-claude-code-50ln) (2026-02-04)
-- [Best AI Code Review Tools in 2026 - A Developer’s Point of View](https://dev.to/nnennandukwe/best-ai-code-review-tools-in-2026-a-developers-point-of-view-4d5h) (2026-02-04)
+- [How I Tamed Claude Code with Pre-Tool Hooks (And You Should Too)](https://dev.to/anand_rathnas_d5b608cc3de/how-i-tamed-claude-code-with-pre-tool-hooks-and-you-should-too-3nh1) (2026-02-05)
+- [Day 2: Advanced SQL Preparation Guide](https://dev.to/neeraj1997dev/day-2-advanced-sql-preparation-guide-4p85) (2026-02-05)
+- [When the Industry Starts Describing the Symptoms of a Collapse You Already Mapped](https://dev.to/narnaiezzsshaa/when-the-industry-starts-describing-the-symptoms-of-a-collapse-you-already-mapped-pf4) (2026-02-05)
+- [When AI Traffic Breaks Your Billing System](https://dev.to/telecomhub/when-ai-traffic-breaks-your-billing-system-cj8) (2026-02-05)
+- [Quantified Self at Scale: Processing Millions of Wearable Metrics with ClickHouse 🚀](https://dev.to/wellallytech/quantified-self-at-scale-processing-millions-of-wearable-metrics-with-clickhouse-37kn) (2026-02-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Exploring the Cutting Edge Software Technologies Defining 2026](https://medium.com/@dilipsvarma/exploring-the-cutting-edge-software-technologies-defining-2026-75440ed1a050?source=rss------programming-5) (2026-02-04)
-- [Using the IntersectionObserver API for Lazy Loading in JavaScript](https://javascript.plainenglish.io/using-the-intersectionobserver-api-for-lazy-loading-in-javascript-729da67bcb3b?source=rss------programming-5) (2026-02-04)
-- [Stop Making These 5 Fatal JWT Mistakes (And How to Fix Them)](https://medium.com/@aiagentofchange/stop-making-these-5-fatal-jwt-mistakes-and-how-to-fix-them-ad9d07046998?source=rss------programming-5) (2026-02-04)
-- [I Mass-Rewrote Our Java Backend in Go. 6 Months Later, We Mass-Regretted It.](https://medium.com/@lakshayaggarwal9/i-mass-rewrote-our-java-backend-in-go-6-months-later-we-mass-regretted-it-e82c31bbe685?source=rss------programming-5) (2026-02-04)
-- [Claude Code Best Practices: 50 Rules of Engagement to Turn an “Artificial Idiot” into a God-Tier…](https://medium.programmerscareer.com/claude-code-best-practices-50-rules-of-engagement-to-turn-an-artificial-idiot-into-a-god-tier-4fa602f02011?source=rss------programming-5) (2026-02-04)
+- [The Calls That Won’t Let Go](https://dick-dowdell.medium.com/the-calls-that-wont-let-go-6f3236211fc7?source=rss------programming-5) (2026-02-05)
+- [Why Great Engineers Love Debugging (Eventually)](https://medium.com/@vallabhsangale7/why-great-engineers-love-debugging-eventually-eedc3288eca5?source=rss------programming-5) (2026-02-05)
+- [Why Clients Don’t Care About Your Tech Stack](https://medium.com/h7w/why-clients-dont-care-about-your-tech-stack-861011dd4d50?source=rss------programming-5) (2026-02-05)
+- [Deloitte — Interview Experience (4+ Years Experience)](https://medium.com/@ajit-gupta/deloitte-interview-experience-4-years-experience-34c7f4a410f0?source=rss------programming-5) (2026-02-05)
+- [Everything You Need to Become a Production-Ready DevOps Engineer](https://medium.com/@osomudeyazudonu/everything-you-need-to-become-a-production-ready-devops-engineer-304c5c119768?source=rss------programming-5) (2026-02-05)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Amazon EC2 C8id, M8id, and R8id instances with up to 22.8 TB local NVMe storage are generally available](https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/) (2026-02-04)
 - [AWS IAM Identity Center now supports multi-Region replication for AWS account access and application use](https://aws.amazon.com/blogs/aws/aws-iam-identity-center-now-supports-multi-region-replication-for-aws-account-access-and-application-use/) (2026-02-03)
 - [AWS Weekly Roundup: Amazon Bedrock agent workflows, Amazon SageMaker private connectivity, and more (February 2, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-agent-workflows-amazon-sagemaker-private-connectivity-and-more-february-2-2026/) (2026-02-02)
 - [AWS Weekly Roundup: Amazon EC2 G7e instances, Amazon Corretto updates, and more (January 26, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-g7e-instances-with-nvidia-blackwell-gpus-january-26-2026/) (2026-01-26)
 - [Announcing Amazon EC2 G7e instances accelerated by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs](https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7e-instances-accelerated-by-nvidia-rtx-pro-6000-blackwell-server-edition-gpus/) (2026-01-20)
-- [AWS Weekly Roundup: Kiro CLI latest features, AWS European Sovereign Cloud, EC2 X8i instances, and more (January 19, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-kiro-cli-latest-features-aws-european-sovereign-cloud-ec2-x8i-instances-and-more-january-19-2026/) (2026-01-20)
 
 </details>
 
@@ -251,11 +251,11 @@
 <details>
 <summary>👥 Facebook Engineering</summary>
 
+- [No Display? No Problem: Cross-Device Passkey Authentication for XR Devices](https://engineering.fb.com/2026/02/04/security/cross-device-passkey-authentication-for-xr-devices-meta-quest/) (2026-02-04)
 - [Rust at Scale: An Added Layer of Security for WhatsApp](https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/) (2026-01-27)
 - [Adapting the Facebook Reels RecSys AI Model Based on User Feedback](https://engineering.fb.com/2026/01/14/ml-applications/adapting-the-facebook-reels-recsys-ai-model-based-on-user-feedback/) (2026-01-14)
 - [CSS at Scale With StyleX](https://engineering.fb.com/2026/01/12/web/css-at-scale-with-stylex/) (2026-01-12)
 - [Python Typing Survey 2025: Code Quality and Flexibility As Top Reasons for Typing Adoption](https://engineering.fb.com/2025/12/22/developer-tools/python-typing-survey-2025-code-quality-flexibility-typing-adoption/) (2025-12-22)
-- [DrP: Meta’s Root Cause Analysis Platform at Scale](https://engineering.fb.com/2025/12/19/data-infrastructure/drp-metas-root-cause-analysis-platform-at-scale/) (2025-12-19)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/data/reverse-etl
 <details>
 <summary>💬 Slack API</summary>
 
+- [What Are Conversational Agents? A Simple Guide](https://slack.com/blog/productivity/conversational-agents) (2026-02-03)
 - [How to Define Key Performance Indicators (KPIs): Types and Examples](https://slack.com/blog/productivity/how-to-define-key-performance-indicators-kpis-types-and-examples) (2026-01-30)
 - [From Guesswork to Growth: Five Steps to Effective Performance Monitoring](https://slack.com/blog/productivity/from-guesswork-to-growth-five-steps-to-effective-performance-monitoring) (2026-01-30)
 - [Slack Feature Drop: New Slack Features to Cut Through the Chill](https://slack.com/blog/news/feature-drop-jan26) (2026-01-30)
 - [Proactive AI Agents: Definition, Core Components, and Business Value](https://slack.com/blog/productivity/proactive-ai-agents-definition-core-components-and-business-value) (2026-01-30)
-- [Slackbot for Sales: Introducing Your AI-Powered Wingman](https://slack.com/blog/productivity/slackbot-for-sales) (2026-01-29)
 
 </details>
 
