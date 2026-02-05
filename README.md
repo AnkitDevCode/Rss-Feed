@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Google’s subscriptions rise in Q4 as YouTube pulls $60B in yearly revenue](https://techcrunch.com/2026/02/05/googles-subscriptions-rise-in-q4-as-youtube-pulls-60b-in-yearly-revenue/) (2026-02-05)
+- [Spotify ventures into physical book sales, adds new audiobook features](https://techcrunch.com/2026/02/05/spotify-ventures-into-physical-book-sales-adds-new-audiobook-features/) (2026-02-05)
 - [Sam Altman got exceptionally testy over Claude Super Bowl ads](https://techcrunch.com/2026/02/04/sam-altman-got-exceptionally-testy-over-claude-super-bowl-ads/) (2026-02-05)
 - [As it preps Specs for the masses, Snap’s Q4 shows revenue growth but fewer daily users](https://techcrunch.com/2026/02/04/as-it-preps-specs-for-the-masses-snaps-q4-shows-revenue-growth-but-fewer-daily-users/) (2026-02-05)
 - [Mundi Ventures closes on €750M for Kembara, its largest deep tech and climate fund](https://techcrunch.com/2026/02/04/mundi-ventures-closes-on-e750m-for-kembara-its-largest-deep-tech-and-climate-fund/) (2026-02-05)
-- [Stripe alumni raise €30M Series A for Duna, backed by Stripe and Adyen execs](https://techcrunch.com/2026/02/04/stripe-alumni-raise-e30m-series-a-for-duna-backed-by-stripe-and-adyen-execs/) (2026-02-04)
-- [Alphabet won’t talk about the Google-Apple AI deal, even to investors](https://techcrunch.com/2026/02/04/alphabet-wont-talk-about-the-google-apple-ai-deal-even-to-investors/) (2026-02-04)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Don't rent the cloud, own instead](https://blog.comma.ai/datacenter/) (2026-02-05)
-- [When internal hostnames are leaked to the clown](https://rachelbythebay.com/w/2026/02/03/badnas/) (2026-02-05)
-- [ICE seeks industry input on ad tech location data for investigative use](https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use) (2026-02-05)
-- [A few CPU hardware bugs](https://www.taricorp.net/2026/a-few-cpu-bugs/) (2026-02-05)
-- [Wirth's Revenge](https://jmoiron.net/blog/wirths-revenge/) (2026-02-05)
+- [Freshpaint (YC S19) Is Hiring a Senior SWE, Data](https://www.freshpaint.io/about?ashby_jid=3a7926ba-cf51-4084-9196-4361a7e97761) (2026-02-05)
+- [The Missing Layer](https://yagmin.com/blog/the-missing-layer/) (2026-02-05)
+- [Battle-Testing Lynx at Allegro](https://blog.allegro.tech/2026/02/battle-testing-lynx-js-at-allegro.html) (2026-02-05)
+- [Nanobot: Ultra-Lightweight Alternative to OpenClaw](https://github.com/HKUDS/nanobot) (2026-02-05)
+- [Show HN: Micropolis/SimCity Clone in Emacs Lisp](https://github.com/vkazanov/elcity) (2026-02-05)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Spotify’s Page Match syncs your audiobooks and your physical ones](https://www.theverge.com/entertainment/874134/spotify-page-match-audiobook-sync) (2026-02-05)
+- [Spotify is partnering with Bookshop.org to sell physical books](https://www.theverge.com/entertainment/874150/spotify-bookshop-org-physical-books) (2026-02-05)
+- [Substack data breach exposed users’ emails and phone numbers](https://www.theverge.com/tech/874255/substack-data-breach-user-emails-phone-numbers) (2026-02-05)
 - [Valve’s Steam Machine has been delayed, and the RAM crisis will impact pricing](https://www.theverge.com/games/874196/valve-steam-machine-frame-controller-delay-pricing-memory-crisis) (2026-02-05)
 - [Google&#8217;s annual revenue tops $400 billion for the first time](https://www.theverge.com/news/874161/google-400-billion-revenue-q4-2025-earnings) (2026-02-04)
-- [Senators grill Waymo and Tesla over robotaxi safety, liability, and China](https://www.theverge.com/transportation/873891/senate-hearing-autonomous-vehicles-robotaxi-waymo-tesla-legislation) (2026-02-04)
-- [Nintendo’s new Virtual Boy is more fun to look at than to play](https://www.theverge.com/games/873755/nintendo-switch-virtual-boy-impressions) (2026-02-04)
-- [Sam Altman responds to Anthropic’s ‘funny’ Super Bowl ads](https://www.theverge.com/news/874084/ai-chatgpt-claude-super-bowl-ads-openai-anthropic) (2026-02-04)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Three questions about next-generation nuclear power, answered](https://www.technologyreview.com/2026/02/05/1132197/nuclear-questions/) (2026-02-05)
+- [This is the most misunderstood graph in AI](https://www.technologyreview.com/2026/02/05/1132254/this-is-the-most-misunderstood-graph-in-ai/) (2026-02-05)
 - [From guardrails to governance: A CEO’s guide for securing agentic systems](https://www.technologyreview.com/2026/02/04/1131014/from-guardrails-to-governance-a-ceos-guide-for-securing-agentic-systems/) (2026-02-04)
 - [The Download: the future of nuclear power plants, and social media-fueled AI hype](https://www.technologyreview.com/2026/02/04/1132115/the-download-the-future-of-nuclear-power-plants-and-social-media-fueled-ai-hype/) (2026-02-04)
 - [The Download: squeezing more metal out of aging mines, and AI’s truth crisis](https://www.technologyreview.com/2026/02/03/1132105/the-download-squeezing-more-metal-out-of-aging-mines-and-ais-truth-crisis/) (2026-02-03)
-- [Microbes could extract the metal needed for cleantech](https://www.technologyreview.com/2026/02/03/1132047/microbes-extract-metal-cleantech/) (2026-02-03)
-- [What we’ve been getting wrong about AI’s truth crisis](https://www.technologyreview.com/2026/02/02/1132068/what-weve-been-getting-wrong-about-ais-truth-crisis/) (2026-02-02)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Hierarchical Multi-Scale Attention for Semantic Segmentation](https://dev.to/paperium/hierarchical-multi-scale-attention-for-semantic-segmentation-56mo) (2026-02-05)
-- [Postman Ends Free Team Plans in March 2026. Here Is The Free Alternative I Switched To](https://dev.to/auden/postman-ends-free-team-plans-in-march-2026-here-is-the-free-alternative-i-switched-to-118p) (2026-02-05)
-- [Visualizing eBay Competitor Pricing: From Raw JSONL to Price Trend Dashboard](https://dev.to/sommic/visualizing-ebay-competitor-pricing-from-raw-jsonl-to-price-trend-dashboard-42d9) (2026-02-05)
-- [I Implemented Every Sorting Algorithm in Python — And Python's Built-in Sort Crushed Them All](https://dev.to/emmimal_alexander_3be8cc7/i-implemented-every-sorting-algorithm-in-python-and-pythons-built-in-sort-crushed-them-all-2o25) (2026-02-05)
-- [Firestore vs Realtime Database: Which Is Best and Why?](https://dev.to/iamsaadmehmood/firestore-vs-realtime-database-which-is-best-and-why-1h2c) (2026-02-05)
+- [Building a 3D Elevation Photo Diary with deck.gl](https://dev.to/geeksta/building-a-3d-elevation-photo-diary-with-deckgl-1gh5) (2026-02-05)
+- [Designing An Intent-Aware Documentation Agent Using Weaviate](https://dev.to/sristi_sonal_fc950ffb2dcc/designing-an-intent-aware-documentation-agent-using-weaviate-1j1c) (2026-02-05)
+- [How to Disable Github Copilot Autocomplete in vs code](https://dev.to/sukkergris/how-to-disable-github-copilot-autocomplete-in-vs-code-1a5o) (2026-02-05)
+- [Learning Open-Source PDKs by Playing With Them](https://dev.to/take_hoojoo_1bb42d3ec507d/learning-open-source-pdks-by-playing-with-them-5cf6) (2026-02-05)
+- [FARM-TECH: transforming multi-source data into operational decisions](https://dev.to/shaped/farm-tech-transforming-multi-source-data-into-operational-decisions-29l0) (2026-02-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How to Hire Dedicated AI Agent Developers for Your Enterprise in India](https://medium.com/@bde_31397/how-to-hire-dedicated-ai-agent-developers-for-your-enterprise-in-india-4bdcdb3d1c7f?source=rss------programming-5) (2026-02-05)
-- [Building a CLI Proxy Tester in Python](https://medium.com/@hunkcool1991/building-a-cli-proxy-tester-in-python-f60bb8cdce68?source=rss------programming-5) (2026-02-05)
-- [Interview Experience: Java Developer Experience: 4+years #Coforge](https://medium.com/@ajit-gupta/interview-experience-java-developer-experience-4-years-coforge-32367797fe9a?source=rss------programming-5) (2026-02-05)
-- [Azure logic apps with Real-World Use cases](https://medium.com/@mlkpatel0/azure-logic-apps-with-real-world-use-cases-1b0841a1ae49?source=rss------programming-5) (2026-02-05)
-- [mAIdAI: Building a Personal Assistant with Google Cloud and Vertex AI](https://fmind.medium.com/maidai-building-a-personal-assistant-with-google-cloud-and-vertex-ai-a136aa73656b?source=rss------programming-5) (2026-02-05)
+- [I Watched OpenClaw Implode: Then I Looked at My Own AI Setups](https://medium.com/@rvanpolen/i-watched-openclaw-implode-then-i-looked-at-my-own-ai-setups-f6ba14308b06?source=rss------programming-5) (2026-02-05)
+- [I used ChatGPT to learn Prompt Engineering - Here’s what happened](https://medium.com/@ekevictor216/i-used-chatgpt-to-learn-prompt-engineering-heres-what-happened-65398572e92b?source=rss------programming-5) (2026-02-05)
+- [Python — Part 2](https://medium.com/@adii.utsav/python-part-2-236458f284ce?source=rss------programming-5) (2026-02-05)
+- [How to avoid a lot of fuss over nothing: Null references, “none of this”, and “none of these”](https://medium.com/justeattakeaway-tech/how-to-avoid-a-lot-of-fuss-over-nothing-null-references-none-of-this-and-none-of-these-62d05f11e110?source=rss------programming-5) (2026-02-05)
+- [“Bug Bounty Bootcamp #23: CORS Exploitation — How Misconfigured Headers Let You Steal User Data…](https://osintteam.blog/bug-bounty-bootcamp-23-cors-exploitation-how-misconfigured-headers-let-you-steal-user-data-9c4527b5ae79?source=rss------programming-5) (2026-02-05)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ](https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/) (2026-02-04)
 - [PostgreSQL on Azure supercharged for AI](https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/) (2026-02-02)
 - [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
 - [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
 - [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
-- [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
 
 </details>
 
@@ -306,22 +306,22 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Java Annotated Monthly – February 2026](https://blog.jetbrains.com/idea/2026/02/java-annotated-monthly-february-2026/) (2026-02-05)
 - [Enhanced AI Management and Analytics for Organizations](https://blog.jetbrains.com/ai/2026/02/enhanced-ai-management-and-analytics-for-organizations/) (2026-02-04)
 - [Wayland By Default in 2026.1 EAP](https://blog.jetbrains.com/platform/2026/02/wayland-by-default-in-2026-1-eap/) (2026-02-04)
 - [Pick Your KotlinConf Workshop by What You Want to Learn](https://blog.jetbrains.com/kotlin/2026/02/pick-your-kotlinconf-workshop/) (2026-02-03)
 - [Join the Kotlin Ecosystem Mentorship Program](https://blog.jetbrains.com/kotlin/2026/02/kotlin-ecosystem-mentorship/) (2026-02-02)
-- [Koog x ACP: Connect an Agent to Your IDE and More](https://blog.jetbrains.com/ai/2026/02/koog-x-acp-connect-an-agent-to-your-ide-and-more/) (2026-02-02)
 
 </details>
 
 <details>
 <summary>📝 Visual Studio Code</summary>
 
+- [February 2026 Insiders (version 1.110)](https://code.visualstudio.com/updates/v1_110) (2026-03-04)
 - [January 2026 (version 1.109)](https://code.visualstudio.com/updates/v1_109) (2026-02-04)
 - [Giving Agents a Visual Voice: MCP Apps Support in VS Code](https://code.visualstudio.com/blogs/2026/01/26/mcp-apps-support) (2026-01-26)
 - [Building docfind: Fast Client-Side Search with Rust and WebAssembly](https://code.visualstudio.com/blogs/2026/01/15/docfind) (2026-01-15)
 - [December 2025 (version 1.108)](https://code.visualstudio.com/updates/v1_108) (2026-01-08)
-- [November 2025 (version 1.107)](https://code.visualstudio.com/updates/v1_107) (2025-12-10)
 
 </details>
 
@@ -362,6 +362,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+What is branded calling?
+](
+https://www.twilio.com/en-us/blog/insights/what-is-branded-calling
+) (2026-02-03)
+- [
 Identity resolution: what it is and how it works
 ](
 https://www.twilio.com/en-us/blog/insights/identity-resolution
@@ -381,11 +386,6 @@ What is Reverse ETL (and how does it work)?
 ](
 https://www.twilio.com/en-us/blog/insights/data/reverse-etl
 ) (2026-01-25)
-- [
-Bringing SendGrid and Segment to Twilio.com: A More Unified Web Experience
-](
-https://www.twilio.com/en-us/blog/company/bringing-sendgrid-and-segment-to-twilio
-) (2026-01-23)
 
 </details>
 
@@ -557,22 +557,22 @@ https://www.twilio.com/en-us/blog/company/bringing-sendgrid-and-segment-to-twili
 <details>
 <summary>🤖 AI News</summary>
 
+- [Microsoft unveils method to detect sleeper agent backdoors](https://www.artificialintelligence-news.com/news/microsoft-unveils-method-detect-sleeper-agent-backdoors/) (2026-02-05)
+- [OpenAI’s enterprise push: The hidden story behind AI’s sales race](https://www.artificialintelligence-news.com/news/openai-ai-consultants-enterprise-adoption-challenges/) (2026-02-05)
 - [AI Expo 2026 Day 1: Governance and data readiness enable the agentic enterprise](https://www.artificialintelligence-news.com/news/ai-expo-2026-day-1-governance-data-readiness-enable-agentic-enterprise/) (2026-02-04)
-- [Combing the Rackspace blogfiles for operational AI pointers](https://www.artificialintelligence-news.com/news/combing-the-rackspace-blogfiles-for-operational-ai-pointers/) (2026-02-04)
+- [From blogosphere to the AI & Big Data Expo: Rackspace and operational AI](https://www.artificialintelligence-news.com/news/combing-the-rackspace-blogfiles-for-operational-ai-pointers/) (2026-02-04)
 - [How Cisco builds smart systems for the AI era](https://www.artificialintelligence-news.com/news/how-cisco-builds-smart-systems-for-the-ai-era/) (2026-02-04)
-- [Ronnie Sheth, CEO, SENEN Group: Why now is the time for enterprise AI to ‘get practical’](https://www.artificialintelligence-news.com/news/ronnie-sheth-ceo-senen-group-why-now-is-the-time-for-enterprise-ai-to-get-practical/) (2026-02-03)
-- [Apptio: Why scaling intelligent automation requires financial rigour](https://www.artificialintelligence-news.com/news/apptio-why-scaling-intelligent-automation-requires-financial-rigour/) (2026-02-03)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Rule Everyone Misses: How to Stop Confusing loc and iloc in Pandas](https://towardsdatascience.com/stop-confusing-loc-and-iloc-in-pandas-the-rule-everyone-misses/) (2026-02-05)
 - [AWS vs. Azure: A Deep Dive into Model Training – Part 2](https://towardsdatascience.com/aws-vs-azure-a-deep-dive-into-model-training-part-2/) (2026-02-04)
 - [How to Work Effectively with Frontend and Backend Code](https://towardsdatascience.com/how-to-effectively-work-with-frontend-and-backend-code/) (2026-02-04)
 - [How to Build Your Own Custom LLM Memory Layer from Scratch](https://towardsdatascience.com/how-to-build-your-own-custom-llm-memory-layer-from-scratch/) (2026-02-04)
 - [Plan–Code–Execute: Designing Agents That Create Their Own Tools](https://towardsdatascience.com/plan-code-execute-designing-agents-that-create-their-own-tools/) (2026-02-04)
-- [Routing in a Sparse Graph: a Distributed Q-Learning Approach](https://towardsdatascience.com/routing-in-a-sparse-graph-a-distributed-q-learning-approach/) (2026-02-03)
 
 </details>
 
@@ -590,11 +590,11 @@ https://www.twilio.com/en-us/blog/company/bringing-sendgrid-and-segment-to-twili
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [The Absolute Insanity of Moltbook](https://www.kdnuggets.com/the-absolute-insanity-of-moltbook) (2026-02-05)
 - [Bindu Reddy: Navigating the Path to AGI](https://www.kdnuggets.com/2026/02/abacus/bindu-reddy-navigating-the-path-to-agi) (2026-02-04)
 - [How to Become an AI Engineer in 2026: A Self-Study Roadmap](https://www.kdnuggets.com/how-to-become-an-ai-engineer-in-2026-a-self-study-roadmap) (2026-02-04)
 - [5 Open Source Image Editing AI Models](https://www.kdnuggets.com/5-open-source-image-editing-ai-models) (2026-02-04)
 - [The Business Impact of AI Deployment (Sponsored)](https://bit.ly/45Qgzq2) (2026-02-04)
-- [Beyond Giant Models: Why AI Orchestration Is the New Architecture](https://www.kdnuggets.com/beyond-giant-models-why-ai-orchestration-is-the-new-architecture) (2026-02-03)
 
 </details>
 
