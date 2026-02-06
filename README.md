@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Sapiom raises $15M to help AI agents buy their own tech tools](https://techcrunch.com/2026/02/05/sapiom-raises-15m-to-help-ai-agents-buy-their-own-tech-tools/) (2026-02-05)
-- [Reddit looks to AI search as its next big opportunity](https://techcrunch.com/2026/02/05/reddit-looks-to-ai-search-as-its-next-big-opportunity/) (2026-02-05)
-- [AWS revenue continues to soar as cloud demand remains high](https://techcrunch.com/2026/02/05/aws-revenue-continues-to-soar-as-cloud-demand-remains-high/) (2026-02-05)
-- [Amazon and Google are winning the AI capex race — but what’s the prize?](https://techcrunch.com/2026/02/05/amazon-and-google-are-winning-the-ai-capex-race-but-whats-the-prize/) (2026-02-05)
-- [The Washington Post is retreating from Silicon Valley when it matters most](https://techcrunch.com/2026/02/05/the-washington-post-is-retreating-from-silicon-valley-when-it-matters-most/) (2026-02-05)
+- [Reddit says it’s looking for more acquisitions in adtech and elsewhere](https://techcrunch.com/2026/02/06/reddit-says-its-looking-for-more-acquisitions-in-adtech-and-elsewhere/) (2026-02-06)
+- [Here’s how Roblox’s age checks work](https://techcrunch.com/2026/02/06/heres-how-robloxs-age-checks-work/) (2026-02-06)
+- [Senator, who has repeatedly warned about secret U.S. government surveillance, sounds new alarm over ‘CIA activities’](https://techcrunch.com/2026/02/06/senator-who-has-repeatedly-warned-about-secret-u-s-government-surveillance-sounds-new-alarm-over-cia-activities/) (2026-02-06)
+- [The Kindle Scribe Colorsoft is a pricey but pretty e-ink color tablet with AI features](https://techcrunch.com/2026/02/06/kindle-scribe-colorsoft-review-e-ink-color-tablet/) (2026-02-06)
+- [EU says TikTok must disable ‘addictive’ features like infinite scroll, fix its recommendation engine](https://techcrunch.com/2026/02/06/eu-tiktok-disable-addictive-features-infinite-scroll-recommendation-engine/) (2026-02-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [I Now Assume That All Ads on Apple News Are Scams](https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/) (2026-02-06)
-- [Show HN: Agent Arena – Test How Manipulation-Proof Your AI Agent Is](https://wiz.jock.pl/experiments/agent-arena/) (2026-02-06)
-- [TikTok's 'Addictive Design' Found to Be Illegal in Europe](https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html) (2026-02-06)
-- [US Immigration on the Easiest Setting](https://pluralistic.net/2026/02/06/doge-ball/#n-600) (2026-02-06)
-- [Invention of DNA "Page Numbers" Opens Up Possibilities for the Bioeconomy](https://www.caltech.edu/about/news/invention-dna-page-numbers-synthesis-kaihang-wang) (2026-02-06)
+- [Uber Found Liable in Rape by Driver, Setting Stage for Cases](https://www.nytimes.com/2026/02/05/business/uber-safety-rape-verdict.html) (2026-02-06)
+- [Bits About Money: Fraud Investigation Is Believing Your Lying Eyes](https://www.bitsaboutmoney.com/archive/fraud-investigation/) (2026-02-06)
+- [Show HN: Daily-updated database of malicious browser extensions](https://github.com/toborrm9/malicious_extension_sentry) (2026-02-06)
+- [The Waymo World Model: A New Frontier for Autonomous Driving Simulation](https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation) (2026-02-06)
+- [Sheldon Brown's Bicycle Technical Info](https://www.sheldonbrown.com/) (2026-02-06)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [TikTok&#8217;s infinite scroll is too addictive, say EU regulators](https://www.theverge.com/policy/874746/tiktok-addictive-eu-regulators-infinite-scroll-notifications-autoplay) (2026-02-06)
-- [Google is expanding AirDrop support to more Android devices ‘very soon’](https://www.theverge.com/tech/874736/android-quick-share-apple-airdrop-support-expansion) (2026-02-06)
-- [HBO is turning Baldur’s Gate into a TV show](https://www.theverge.com/entertainment/874682/hbo-baldurs-gate-3-tv-show-craig-mazin) (2026-02-06)
-- [Roblox is working to pull in adult players](https://www.theverge.com/games/874675/roblox-earnings-q4-2025-increasing-adult-players) (2026-02-05)
-- [Republicans attack &#8216;woke&#8217; Netflix — and ignore YouTube](https://www.theverge.com/streaming/874655/netflix-warner-bros-republican-culture-war-ted-sarandos-hearing) (2026-02-05)
+- [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals) (2026-02-06)
+- [Spotify’s About the Song offers context and trivia about your favorite tracks](https://www.theverge.com/entertainment/874945/spotify-about-the-song-ai-liner-notes) (2026-02-06)
+- [Aura’s Aspen digital frame is a great gift, especially now that it’s $30 off](https://www.theverge.com/gadgets/874904/aura-aspen-kobo-libra-colour-deal-sale) (2026-02-06)
+- [The Alexa app is so bad I&#8217;m using Siri again](https://www.theverge.com/tech/874792/the-alexa-app-is-so-bad-im-using-siri-again) (2026-02-06)
+- [Analogue’s 4K N64 is getting five new transparent color options](https://www.theverge.com/tech/874494/analogue-3d-4k-n64-console-prototype-limited-editions) (2026-02-06)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Rocket Report: SpaceX probes upper stage malfunction; Starship testing resumes](https://arstechnica.com/space/2026/02/rocket-report-spacex-probes-upper-stage-malfunction-starship-testing-resumes/) (2026-02-06)
-- [Why Darren Aronofsky thought an AI-generated historical docudrama was a good idea](https://arstechnica.com/features/2026/02/why-darren-aronofsky-thought-an-ai-generated-historical-docudrama-was-a-good-idea/) (2026-02-06)
-- [AI companies want you to stop chatting with bots and start managing them](https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/) (2026-02-05)
-- [The Switch 2 is getting a new Virtual Console (kind of)](https://arstechnica.com/gaming/2026/02/the-virtual-console-is-sort-of-back-on-the-switch-2/) (2026-02-05)
-- [With GPT-5.3-Codex, OpenAI pitches Codex for more than just writing code](https://arstechnica.com/ai/2026/02/with-gpt-5-3-codex-openai-pitches-codex-for-more-than-just-writing-code/) (2026-02-05)
+- [Driven: The 2026 Lamborghini Temerario raises the bar for supercars](https://arstechnica.com/cars/2026/02/driven-the-2026-lamborghini-temerario-raises-the-bar-for-supercars/) (2026-02-06)
+- [New critique debunks claim that trees can sense a solar eclipse](https://arstechnica.com/science/2026/02/new-critique-debunks-claim-that-trees-can-sense-a-solar-eclipse/) (2026-02-06)
+- [Stellantis swallows $26 billion costs as it rethinks its EV strategy](https://arstechnica.com/cars/2026/02/stellantis-swallows-26-billion-costs-as-it-rethinks-its-ev-strategy/) (2026-02-06)
+- [Lawmakers ask what it would take to "store" the International Space Station](https://arstechnica.com/space/2026/02/congress-advances-bill-requiring-nasa-to-reconsider-deorbiting-space-station/) (2026-02-06)
+- [NASA stage show explores "outer" outer space with Henson's Fraggles](https://arstechnica.com/space/2026/02/nasa-stage-show-explores-outer-outer-space-with-hensons-fraggles/) (2026-02-06)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Moltbook was peak AI theater](https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/) (2026-02-06)
+- [The Download: helping cancer survivors to give birth, and cleaning up Bangladesh’s garment industry](https://www.technologyreview.com/2026/02/06/1132375/the-download-helping-cancer-survivors-to-give-birth-and-cleaning-up-bangladeshs-garment-industry/) (2026-02-06)
 - [An experimental surgery is helping cancer survivors give birth](https://www.technologyreview.com/2026/02/06/1132319/experimental-surgery-colorectal-cancer-survivors-pregnant-birth/) (2026-02-06)
 - [Consolidating systems for AI with iPaaS](https://www.technologyreview.com/2026/02/05/1132200/consolidating-systems-for-ai-with-ipaas/) (2026-02-05)
 - [The Download: attempting to track AI, and the next generation of nuclear power](https://www.technologyreview.com/2026/02/05/1132270/the-download-attempting-to-track-ai-and-the-next-generation-of-nuclear-power/) (2026-02-05)
-- [Three questions about next-generation nuclear power, answered](https://www.technologyreview.com/2026/02/05/1132197/nuclear-questions/) (2026-02-05)
-- [This is the most misunderstood graph in AI](https://www.technologyreview.com/2026/02/05/1132254/this-is-the-most-misunderstood-graph-in-ai/) (2026-02-05)
 
 </details>
 
@@ -97,22 +97,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [My first post ( i guess)](https://dev.to/harshpota/my-first-post-i-guess-1dak) (2026-02-06)
-- [How to Estimate Startup Software Development Costs in 2026](https://dev.to/lara_james_592fb50ae0bae8/how-to-estimate-startup-software-development-costs-in-2026-4bj7) (2026-02-06)
-- [Running a Mini Sprint in Jira + Deploying a Website Update to AWS EC2 with Nginx (DevOps Workflow)](https://dev.to/vivian_okose/running-a-mini-sprint-in-jira-deploying-a-website-update-to-aws-ec2-with-nginx-devops-workflow-3n3p) (2026-02-06)
-- [HTTP Explained: How the Web Communicates Behind the Scenes](https://dev.to/devbigeazi1/http-explained-how-the-web-communicates-behind-the-scenes-n7d) (2026-02-06)
-- [How I Built an AI Barista using Square, Supabase, and ElevenLabs](https://dev.to/brewhubphl/how-i-built-an-ai-barista-using-square-supabase-and-elevenlabs-3hbb) (2026-02-06)
+- [CharleX Operating System](https://dev.to/amzy31/charlex-operating-system-3hj7) (2026-02-06)
+- [Quest: Epic CLI tool (Learn Code by Actually Building)](https://dev.to/cloutboi/quest-epic-cli-tool-learn-code-by-actually-building-5fi0) (2026-02-06)
+- [Building Clusterflick: A London Cinema Aggregator](https://dev.to/alistairjcbrown/building-clusterflick-a-london-cinema-aggregator-kk3) (2026-02-06)
+- [Claude Code: new Tasks persisting between sessions and Swarms of agents against Context Rot.](https://dev.to/simone_callegari_1f56a902/claude-code-new-tasks-persisting-between-sessions-and-swarms-of-agents-against-context-rot-5dan) (2026-02-06)
+- [Class, Object, Property and Methods in C#](https://dev.to/allcoderthings/class-object-property-and-methods-in-c-l66) (2026-02-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Stopped Manually Adding Tokens — That’s When Flutter Interceptors Clicked](https://medium.com/@yash22202/i-stopped-manually-adding-tokens-thats-when-flutter-interceptors-clicked-8426a2bd853c?source=rss------programming-5) (2026-02-06)
-- [C++ Tricks to Turn You Into a Code Ninja ](https://akshatjme.medium.com/c-tricks-to-turn-you-into-a-code-ninja-b89ce24b6856?source=rss------programming-5) (2026-02-06)
-- [7 things most developers get wrong about Go](https://blog.stackademic.com/7-things-most-developers-get-wrong-about-go-17e567441f8c?source=rss------programming-5) (2026-02-06)
-- [Let’s Explore Hooks in React](https://medium.com/@gursimran12003/lets-explore-hooks-in-react-1f8e4c825f0e?source=rss------programming-5) (2026-02-06)
-- [Python and Me: Ek Beginner Ki Chhoti Si Journey](https://medium.com/@UjalaCoding/python-and-me-ek-beginner-ki-chhoti-si-journey-00d0733f740b?source=rss------programming-5) (2026-02-06)
+- [RHAPSODY OF REALITIES - 6TH FEBRUARY 2026
+"We’re the restraining force against evil in the world…](https://medium.com/@folajeff/rhapsody-of-realities-6th-february-2026-were-the-restraining-force-against-evil-in-the-world-1c20576afe41?source=rss------programming-5) (2026-02-06)
+- [When My Assistant Started Talking Back: A Moment I Didn’t Expect](https://medium.com/@storytelleraicrew/when-my-assistant-started-talking-back-a-moment-i-didnt-expect-b6696a1024e1?source=rss------programming-5) (2026-02-06)
+- [Scheduled jobs using Background Service in .NET](https://medium.com/@shahzadadil07/scheduled-jobs-using-background-service-in-net-8b791b3f0c48?source=rss------programming-5) (2026-02-06)
+- [The Hidden Skill That Separates Mid-Level and Senior Engineers](https://observabilityguy.medium.com/the-hidden-skill-that-separates-mid-level-and-senior-engineers-f643ac68710d?source=rss------programming-5) (2026-02-06)
+- [How To Organize Minimal API Endpoints Inside Of Clean Architecture in .NET 10](https://medium.com/@mariammaurice/how-to-organize-minimal-api-endpoints-inside-of-clean-architecture-in-net-10-0efad52d3d37?source=rss------programming-5) (2026-02-06)
 
 </details>
 
@@ -152,11 +153,11 @@
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [Updated App Review Guidelines now available](https://developer.apple.com/news/?id=d75yllv4) (2026-02-06)
+- [Swift Student Challenge submissions are now open](https://developer.apple.com/news/?id=f0xw4t5r) (2026-02-06)
 - [Hello Developer: February 2026](https://developer.apple.com/news/?id=6iajkgmp) (2026-02-03)
 - [Upcoming SDK minimum requirements](https://developer.apple.com/news/?id=ueeok6yw) (2026-02-03)
 - [Price updates for apps, In-App Purchases, and subscriptions](https://developer.apple.com/news/?id=gvnljl3f) (2026-01-29)
-- [Hello Developer: January 2026](https://developer.apple.com/news/?id=zni5qkkl) (2026-01-06)
-- [Update on age requirements for apps distributed in Texas](https://developer.apple.com/news/?id=8jzbigf4) (2025-12-24)
 
 </details>
 
@@ -339,11 +340,11 @@
 <details>
 <summary>💜 Heroku Blog</summary>
 
+- [An Update on Heroku](https://www.heroku.com/blog/an-update-on-heroku/) (2026-02-06)
 - [Building AI Search on Heroku](https://www.heroku.com/blog/building-ai-search-on-heroku/) (2026-01-29)
 - [Optimize Search Precision with Reranking on Heroku AI](https://www.heroku.com/blog/optimize-search-precision-reranking-heroku-ai/) (2026-01-15)
 - [Heroku AI: Accelerating AI Development With New Models, Performance Improvements, and Messages API](https://www.heroku.com/blog/accelerating-ai-dev-new-models-performance-improvements-messages-api/) (2025-12-18)
 - [Heroku AppLink: Now Using JWT-Based Authorization for Salesforce](https://www.heroku.com/blog/applink-now-uses-jwt-based-authorization-salesforce/) (2025-12-11)
-- [Heroku GitHub Enterprise Integration: Unlocking Full Continuous Delivery for Enterprise Customers](https://www.heroku.com/blog/github-enterprise-integration-full-continuous-delivery/) (2025-12-10)
 
 </details>
 
@@ -362,41 +363,42 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+RCS vs. SMS: What's the difference (and why it matters)
+](
+https://www.twilio.com/en-us/blog/insights/rcs-vs-sms
+) (2026-02-04)
+- [
 What is branded calling?
 ](
 https://www.twilio.com/en-us/blog/insights/what-is-branded-calling
 ) (2026-02-03)
 - [
-Identity resolution: what it is and how it works
+What is data lineage (and why does it matter)?
 ](
-https://www.twilio.com/en-us/blog/insights/identity-resolution
-) (2026-01-28)
+https://www.twilio.com/en-us/blog/insights/data/data-lineage
+) (2026-02-02)
 - [
-Build a Proxy to Connect a Call Between Two Twilio Accounts via SIP
+What is data reliability (and do you need reliable data)?
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/build-proxy-sip-to-twilio-sip
-) (2026-01-26)
+https://www.twilio.com/en-us/blog/insights/data/reliable-data
+) (2026-02-01)
 - [
-Data lifecycle: 6 core stages, use cases & tips
+Organizational silos in business: pros, cons & fixes
 ](
-https://www.twilio.com/en-us/blog/insights/data/data-life-cycle
-) (2026-01-26)
-- [
-What is Reverse ETL (and how does it work)?
-](
-https://www.twilio.com/en-us/blog/insights/data/reverse-etl
-) (2026-01-25)
+https://www.twilio.com/en-us/blog/insights/organizational-silos
+) (2026-02-01)
 
 </details>
 
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [A Guide to OpenID AuthZEN's Authorization API 1.0
+](https://auth0.com/blog/implementing-authzen-guide-openid-authorization-api/) (2026-02-06)
 - [Setting Up Auth0 Custom Domains: A Complete Guide to DNS and SDK Configuration](https://auth0.com/blog/custom-domains-complete-guide/) (2026-02-03)
 - [Scaling Identity: Implementing CI/CD with the Terraform and GitHub Actions](https://auth0.com/blog/ci-cd-auth0-github-actions/) (2026-02-02)
-- [Auth0 B2B Billing: Should You Pick a Monthly or Annual Plan?](https://auth0.com/blog/auth0-b2b-billing-choosing-monthly-annual-plan/) (2026-01-30)
 - [Scaling Identity: Automating Auth0 Configuration with the Auth0 Terraform Provider](https://auth0.com/blog/scaling-identity-foundation-terraform-auth0/) (2026-01-30)
-- [Scaling Identity: Why You Need Auth0 Configuration Automation](https://auth0.com/blog/why-you-need-auth0-configuration-automation/) (2026-01-29)
+- [Auth0 B2B Billing: Should You Pick a Monthly or Annual Plan?](https://auth0.com/blog/auth0-b2b-billing-choosing-monthly-annual-plan/) (2026-01-30)
 
 </details>
 
@@ -480,11 +482,11 @@ https://www.twilio.com/en-us/blog/insights/data/reverse-etl
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
+- [Generate Mobile Apps in Minutes with the Pro-Code Mobile App Generation Ecosystem (MAGE)](https://developer.salesforce.com/blogs/2026/02/generate-mobile-apps-in-minutes-with-the-pro-code-mobile-app-generation-ecosystem-mage.html) (2026-02-05)
 - [外部アプリから Salesforce API にアクセスする方法](https://developer.salesforce.com/blogs/2026/02/jp-access-the-salesforce-api-from-externalclientapp.html) (2026-02-03)
 - [Streamline Data 360 Onboarding with API-Driven Automation](https://developer.salesforce.com/blogs/2026/02/streamline-data-360-onboarding-with-api-driven-automation.html) (2026-02-03)
 - [Create Faster, Lighter Experience Cloud Sites with Omnistudio Components and LWR](https://developer.salesforce.com/blogs/2026/01/create-faster-lighter-experience-cloud-sites-with-omnistudio-components-and-lwr.html) (2026-01-27)
 - [The Salesforce Developer’s Guide to the Spring ’26 Release](https://developer.salesforce.com/blogs/2026/01/developers-guide-to-the-spring-26-release.html) (2026-01-22)
-- [Agentforce ログの見方：LLM プロンプトをレポートで可視化する方法](https://developer.salesforce.com/blogs/2026/01/jp-create-agentforce-llm-log-with-report.html) (2026-01-21)
 
 </details>
 
@@ -559,42 +561,42 @@ https://www.twilio.com/en-us/blog/insights/data/reverse-etl
 
 - [How separating logic and search boosts AI agent scalability](https://www.artificialintelligence-news.com/news/how-separating-logic-and-search-boosts-ai-agent-scalability/) (2026-02-06)
 - [Intuit, Uber, and State Farm trial AI agents inside enterprise workflows](https://www.artificialintelligence-news.com/news/intuit-uber-and-state-farm-trial-ai-agents-inside-enterprise-workflows/) (2026-02-06)
+- [SuperCool review: Evaluating the reality of autonomous creation](https://www.artificialintelligence-news.com/news/supercool-review-evaluating-the-reality-of-autonomous-creation/) (2026-02-06)
+- [Top 7 best AI penetration testing companies in 2026](https://www.artificialintelligence-news.com/news/top-7-best-ai-penetration-testing-companies-in-2026/) (2026-02-06)
 - [AI Expo 2026 Day 2: Moving experimental pilots to AI production](https://www.artificialintelligence-news.com/news/ai-expo-2026-day-2-moving-experimental-pilots-ai-production/) (2026-02-05)
-- [Microsoft unveils method to detect sleeper agent backdoors](https://www.artificialintelligence-news.com/news/microsoft-unveils-method-detect-sleeper-agent-backdoors/) (2026-02-05)
-- [OpenAI’s enterprise push: The hidden story behind AI’s sales race](https://www.artificialintelligence-news.com/news/openai-ai-consultants-enterprise-adoption-challenges/) (2026-02-05)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Pydantic Performance: 4 Tips on How to Validate Large Amounts of Data Efficiently](https://towardsdatascience.com/pydantic-performance-4-tips-on-how-to-validate-large-amounts-of-data-efficiently/) (2026-02-06)
 - [Prompt Fidelity: Measuring How Much of Your Intent an AI Agent Actually Executes](https://towardsdatascience.com/prompt-fidelity-measuring-how-much-of-your-intent-an-ai-agent-actually-executes/) (2026-02-06)
 - [Mechanistic Interpretability: Peeking Inside an LLM](https://towardsdatascience.com/mechanistic-interpretability-peeking-inside-an-llm/) (2026-02-05)
 - [Why Is My Code So Slow? A Guide to Py-Spy Python Profiling](https://towardsdatascience.com/why-is-my-code-so-slow-a-guide-to-py-spy-python-profiling/) (2026-02-05)
 - [The Rule Everyone Misses: How to Stop Confusing loc and iloc in Pandas](https://towardsdatascience.com/stop-confusing-loc-and-iloc-in-pandas-the-rule-everyone-misses/) (2026-02-05)
-- [AWS vs. Azure: A Deep Dive into Model Training – Part 2](https://towardsdatascience.com/aws-vs-azure-a-deep-dive-into-model-training-part-2/) (2026-02-04)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Claude Opus 4.6 vs OpenAI Codex 5.3: Which is Better?](https://www.analyticsvidhya.com/blog/2026/02/claude-opus-4-6-vs-openai-codex-5-3/) (2026-02-06)
+- [Is OpenAI’s GPT-5.3 Codex Worth the Hype?](https://www.analyticsvidhya.com/blog/2026/02/gpt-5-3-codex-hands-on/) (2026-02-06)
 - [My Honest Review of Claude Opus 4.6: Is It Worth the Hype?](https://www.analyticsvidhya.com/blog/2026/02/claude-opus-4-6-review/) (2026-02-06)
 - [Anthropic’s Superbowl Ads Mocking OpenAI Have Sam Altman Going on a Rant](https://www.analyticsvidhya.com/blog/2026/02/anthropic-superbowl-ads-mock-openai-sam-altman/) (2026-02-05)
 - [How to Access and Use Qwen3-Coder-Next?](https://www.analyticsvidhya.com/blog/2026/02/qwen3-coder-next/) (2026-02-05)
-- [40 RAG Interview Questions and Answers](https://www.analyticsvidhya.com/blog/2026/02/rag-interview-questions-and-answers/) (2026-02-05)
-- [AI Agents Can Now Hire Real Humans](https://www.analyticsvidhya.com/blog/2026/02/ai-hiring-humans/) (2026-02-04)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Is Your Machine Learning Pipeline as Efficient as it Could Be?](https://www.kdnuggets.com/is-your-machine-learning-pipeline-as-efficient-as-it-could-be) (2026-02-06)
 - [Tech Stack for Vibe Coding Modern Applications](https://www.kdnuggets.com/tech-stack-for-vibe-coding-modern-applications) (2026-02-05)
 - [The Absolute Insanity of Moltbook](https://www.kdnuggets.com/the-absolute-insanity-of-moltbook) (2026-02-05)
 - [Bindu Reddy: Navigating the Path to AGI](https://www.kdnuggets.com/2026/02/abacus/bindu-reddy-navigating-the-path-to-agi) (2026-02-04)
 - [How to Become an AI Engineer in 2026: A Self-Study Roadmap](https://www.kdnuggets.com/how-to-become-an-ai-engineer-in-2026-a-self-study-roadmap) (2026-02-04)
-- [5 Open Source Image Editing AI Models](https://www.kdnuggets.com/5-open-source-image-editing-ai-models) (2026-02-04)
 
 </details>
 
