@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [NASA astronauts can now bring their phones with them on their mission to the moon](https://techcrunch.com/2026/02/05/nasa-astronauts-can-now-bring-their-phones-with-them-on-their-mission-to-the-moon/) (2026-02-05)
-- [OpenAI launches a way for enterprises to build and manage AI agents](https://techcrunch.com/2026/02/05/openai-launches-a-way-for-enterprises-to-build-and-manage-ai-agents/) (2026-02-05)
-- [Anthropic releases Opus 4.6 with new ‘agent teams’](https://techcrunch.com/2026/02/05/anthropic-releases-opus-4-6-with-new-agent-teams/) (2026-02-05)
-- [Secondary sales shift from founder windfalls to employee-retention tools](https://techcrunch.com/2026/02/05/secondary-sales-shift-from-founder-windfalls-to-employee-retention-tools/) (2026-02-05)
-- [Meta tests a standalone app for its AI-generated ‘Vibes’ videos](https://techcrunch.com/2026/02/05/meta-tests-a-standalone-app-for-its-ai-generated-vibes-videos/) (2026-02-05)
+- [Sapiom raises $15M to help AI agents buy their own tech tools](https://techcrunch.com/2026/02/05/sapiom-raises-15m-to-help-ai-agents-buy-their-own-tech-tools/) (2026-02-05)
+- [Reddit looks to AI search as its next big opportunity](https://techcrunch.com/2026/02/05/reddit-looks-to-ai-search-as-its-next-big-opportunity/) (2026-02-05)
+- [AWS revenue continues to soar as cloud demand remains high](https://techcrunch.com/2026/02/05/aws-revenue-continues-to-soar-as-cloud-demand-remains-high/) (2026-02-05)
+- [Amazon and Google are winning the AI capex race — but what’s the prize?](https://techcrunch.com/2026/02/05/amazon-and-google-are-winning-the-ai-capex-race-but-whats-the-prize/) (2026-02-05)
+- [The Washington Post is retreating from Silicon Valley when it matters most](https://techcrunch.com/2026/02/05/the-washington-post-is-retreating-from-silicon-valley-when-it-matters-most/) (2026-02-05)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Anthropic's Claude Opus 4.6 uncovers 500 zero-day flaws in open-source code](https://www.axios.com/2026/02/05/anthropic-claude-opus-46-software-hunting) (2026-02-05)
-- [GPT-5.3-Codex](https://openai.com/index/introducing-gpt-5-3-codex/) (2026-02-05)
-- [Unsealed Court Documents Show Teen Addiction Was Big Tech's "Top Priority"](https://techoversight.org/2026/01/25/top-report-mdl-jan-25/) (2026-02-05)
-- [Claude Code Agent Teams](https://code.claude.com/docs/en/agent-teams) (2026-02-05)
-- [Advancing finance with Claude Opus 4.6](https://claude.com/blog/opus-4-6-finance) (2026-02-05)
+- [C Isn't a Language](https://faultlore.com/blah/c-isnt-a-language/) (2026-02-06)
+- [The RCE that AMD won't fix](https://mrbruh.com/amd/) (2026-02-05)
+- [Cubans rendered powerless as outages persist and tensions with US escalate](https://apnews.com/article/cuba-us-oil-power-outages-electricity-trump-ccab32796f7b57353adedc380181c68f) (2026-02-05)
+- [Jane Street Blog – What if writing tests was a joyful experience?](https://blog.janestreet.com/the-joy-of-expect-tests/) (2026-02-05)
+- [Review of 1984 by Isaac Asimov (1980)](https://www.newworker.org/ncptrory/1984.htm) (2026-02-05)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [One of the best laptop power banks available is cheaper than ever](https://www.theverge.com/gadgets/874509/anker-laptop-power-bank-google-pixel-watch-4-deal-sale) (2026-02-05)
-- [I tested several cases for the Switch 2 and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases) (2026-02-05)
-- [Super Bowl LX ads: all AI everything](https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game) (2026-02-05)
-- [Who’s who and what’s what in TVs in 2026](https://www.theverge.com/tech/874138/tv-manufacturer-technology-2026) (2026-02-05)
-- [Claude has been having a moment — can it keep it up?](https://www.theverge.com/report/874308/anthropic-claude-code-opus-hype-moment) (2026-02-05)
+- [HBO is turning Baldur’s Gate into a TV show](https://www.theverge.com/entertainment/874682/hbo-baldurs-gate-3-tv-show-craig-mazin) (2026-02-06)
+- [Roblox is working to pull in adult players](https://www.theverge.com/games/874675/roblox-earnings-q4-2025-increasing-adult-players) (2026-02-05)
+- [Republicans attack &#8216;woke&#8217; Netflix — and ignore YouTube](https://www.theverge.com/streaming/874655/netflix-warner-bros-republican-culture-war-ted-sarandos-hearing) (2026-02-05)
+- [Iron Lung’s path to theaters was unique, even if the movie isn’t](https://www.theverge.com/entertainment/874500/iron-lung-theater-box-office-markiplier) (2026-02-05)
+- [The price of Bitcoin drops below $65,000](https://www.theverge.com/tech/874603/bitcoin-price-drop-cryptocurrency) (2026-02-05)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Google hints at big AirDrop expansion for Android "very soon"](https://arstechnica.com/gadgets/2026/02/google-hints-at-big-airdrop-expansion-for-android-very-soon/) (2026-02-05)
-- [OpenAI is hoppin' mad about Anthropic's new Super Bowl TV ads](https://arstechnica.com/information-technology/2026/02/openai-is-hoppin-mad-about-anthropics-new-super-bowl-tv-ads/) (2026-02-05)
-- [This black hole "burps" with Death Star energy](https://arstechnica.com/science/2026/02/this-black-hole-burps-with-death-star-energy/) (2026-02-05)
-- [NASA changes its mind, will allow Artemis astronauts to take iPhones to the Moon](https://arstechnica.com/space/2026/02/nasa-will-finally-allow-astronauts-to-bring-their-iphones-to-space/) (2026-02-05)
-- [Tesla slipped behind VW in European EV sales last year](https://arstechnica.com/cars/2026/02/tesla-slipped-behind-vw-in-european-ev-sales-last-year/) (2026-02-05)
+- [AI companies want you to stop chatting with bots and start managing them](https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/) (2026-02-05)
+- [The Switch 2 is getting a new Virtual Console (kind of)](https://arstechnica.com/gaming/2026/02/the-virtual-console-is-sort-of-back-on-the-switch-2/) (2026-02-05)
+- [With GPT-5.3-Codex, OpenAI pitches Codex for more than just writing code](https://arstechnica.com/ai/2026/02/with-gpt-5-3-codex-openai-pitches-codex-for-more-than-just-writing-code/) (2026-02-05)
+- ["ICE Out of Our Faces Act" would ban ICE and CBP use of facial recognition](https://arstechnica.com/tech-policy/2026/02/ice-out-of-our-faces-act-would-ban-ice-and-cbp-use-of-facial-recognition/) (2026-02-05)
+- [Neocities founder stuck in chatbot hell after Bing blocked 1.5 million sites](https://arstechnica.com/tech-policy/2026/02/neocities-founder-stuck-in-chatbot-hell-after-bing-blocked-1-5m-sites/) (2026-02-05)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Got Gemini CLI questions? The Google team will answer DEV's questions in their new livestream series!](https://dev.to/devteam/got-gemini-cli-questions-the-google-team-will-answer-devs-questions-in-their-new-livestream-5b7j) (2026-02-05)
-- [What AI Readiness Actually Looks Like at Scale](https://dev.to/briandavies/what-ai-readiness-actually-looks-like-at-scale-6ad) (2026-02-05)
-- [Toward Agent Native Development  ](https://dev.to/martinkr/toward-agent-native-development-3fae) (2026-02-05)
-- [I Built a Next.js SaaS Boilerplate So You Don't Have To - 3 Month Journey](https://dev.to/muhammadzubair/i-built-a-nextjs-saas-boilerplate-so-you-dont-have-to-3-month-journey-fk5) (2026-02-05)
-- [Stop Copy-Pasting from Images: Build a Universal Screen Translator with Python](https://dev.to/samar_shetye/stop-copy-pasting-from-images-build-a-universal-screen-translator-with-python-54gm) (2026-02-05)
+- [Part 3: Decoding Central Bank Speeches with NLP (Fed Meetings)](https://dev.to/tildalice/part-3-decoding-central-bank-speeches-with-nlp-fed-meetings-3458) (2026-02-06)
+- [Microsoft Teams: como fazer bom uso para o dia a dia](https://dev.to/vitoriazzp/microsoft-teams-como-fazer-bom-uso-para-o-dia-a-dia-3e77) (2026-02-06)
+- [Spec-Logic: AI-powered PC building assistant](https://dev.to/prakash_verma_e6f7ea047c0/spec-logic-ai-powered-pc-building-assistant-3n9o) (2026-02-06)
+- [ROT13: The Cipher That’s Been Hiding Spoilers Since the Internet Was Born](https://dev.to/quangthien27/rot13-the-cipher-thats-been-hiding-spoilers-since-the-internet-was-born-40ff) (2026-02-06)
+- [We'll address that tech debt next quarter](https://dev.to/ghostinit0x/well-address-that-tech-debt-next-quarter-4322) (2026-02-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why 95% Cache Hit Ratio Is the Difference Between Fast and Fragile](https://medium.com/@CodersWorld99/why-95-cache-hit-ratio-is-the-difference-between-fast-and-fragile-8307ef2b68fb?source=rss------programming-5) (2026-02-05)
-- [#1 Loom Video Downloader for FREE | #1 Open Source Loom Video Downloader for FREE](https://medium.com/@abdibrokhim/1-loom-video-downloader-for-free-1-open-source-loom-video-downloader-for-free-0b31cb247376?source=rss------programming-5) (2026-02-05)
-- [Let’s Design Flashcard Using React](https://medium.com/@gursimran12003/lets-design-flashcard-using-react-25d4b6df4100?source=rss------programming-5) (2026-02-05)
-- [8 Java Collection Mistakes That Hurt Performance](https://medium.com/@ujjawalr/8-java-collection-mistakes-that-hurt-performance-43863de6f7c6?source=rss------programming-5) (2026-02-05)
-- [What is Dynamic Client Registration?](https://medium.com/@PropelAuth/what-is-dynamic-client-registration-fdb9cd5d6028?source=rss------programming-5) (2026-02-05)
+- [The Truth About Learning to Code in 2026: Why Understanding Code Still Pays (Even When AI Writes…](https://medium.com/@rekhadcm/the-truth-about-learning-to-code-in-2026-why-understanding-code-still-pays-even-when-ai-writes-d5ad0bf9b8e1?source=rss------programming-5) (2026-02-06)
+- [Mastering iOS Performance Monitoring: FPS and Memory Usage Interview Questions Answered](https://medium.com/@alaxhenry0121/mastering-ios-performance-monitoring-fps-and-memory-usage-interview-questions-answered-83ae135fd48f?source=rss------programming-5) (2026-02-06)
+- [Gregic-Wires Language v5](https://medium.com/@appleby.ethan.ea/gregic-wires-language-v5-2d6d73933156?source=rss------programming-5) (2026-02-06)
+- [How I Learned to Stop Worrying and Embrace the Chaos (Spoiler: I Didn’t)](https://arg-software.medium.com/how-i-learned-to-stop-worrying-and-embrace-the-chaos-spoiler-i-didnt-54533117938c?source=rss------programming-5) (2026-02-06)
+- [ASP.NET Core 10 SignalR: The JWT-in-QueryString Shortcut That Leaks User Info](https://blog.stackademic.com/asp-net-core-10-signalr-the-jwt-in-querystring-shortcut-that-leaks-user-info-ad974805c692?source=rss------programming-5) (2026-02-06)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ](https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/) (2026-02-04)
 - [PostgreSQL on Azure supercharged for AI](https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/) (2026-02-02)
 - [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
 - [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
 - [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
-- [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Reduce Vulnerability Noise with VEX: Wiz + Docker Hardened Images](https://www.docker.com/blog/reduce-vulnerability-noise-with-vex-wiz-docker-hardened-images/) (2026-02-05)
 - [Get Started with the Atlassian Rovo MCP Server Using Docker](https://www.docker.com/blog/atlassian-remote-mcp-server-getting-started-with-docker/) (2026-02-04)
 - [The 3Cs: A Framework for AI Agent Security](https://www.docker.com/blog/the-3cs-a-framework-for-ai-agent-security/) (2026-02-04)
 - [Docker Sandboxes: Run Claude Code and Other Coding Agents Unsupervised (but Safely)](https://www.docker.com/blog/docker-sandboxes-run-claude-code-and-other-coding-agents-unsupervised-but-safely/) (2026-01-30)
 - [Clawdbot with Docker Model Runner, a Private Personal AI Assistant](https://www.docker.com/blog/clawdbot-docker-model-runner-private-personal-ai/) (2026-01-26)
-- [Run Claude Code Locally with Docker Model Runner](https://www.docker.com/blog/run-claude-code-locally-docker-model-runner/) (2026-01-26)
 
 </details>
 
@@ -318,10 +318,10 @@
 <summary>📝 Visual Studio Code</summary>
 
 - [February 2026 Insiders (version 1.110)](https://code.visualstudio.com/updates/v1_110) (2026-03-04)
+- [Your Home for Multi-Agent Development](https://code.visualstudio.com/blogs/2026/02/05/multi-agent-development) (2026-02-05)
 - [January 2026 (version 1.109)](https://code.visualstudio.com/updates/v1_109) (2026-02-04)
 - [Giving Agents a Visual Voice: MCP Apps Support in VS Code](https://code.visualstudio.com/blogs/2026/01/26/mcp-apps-support) (2026-01-26)
 - [Building docfind: Fast Client-Side Search with Rust and WebAssembly](https://code.visualstudio.com/blogs/2026/01/15/docfind) (2026-01-15)
-- [December 2025 (version 1.108)](https://code.visualstudio.com/updates/v1_108) (2026-01-08)
 
 </details>
 
