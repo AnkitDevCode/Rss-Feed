@@ -31,44 +31,44 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Things Unix can do atomically (2010)](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html) (2026-02-06)
-- [Systems Thinking](http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html) (2026-02-06)
-- [Generative Pen-Trained Transformer](https://theodore.net/projects/Polargraph/) (2026-02-06)
-- [Show HN: Artifact Keeper – Open-Source Artifactory/Nexus Alternative in Rust](https://github.com/artifact-keeper) (2026-02-06)
-- [Waiting for Postgres 19: Better planner hints with path generation strategies [video]](https://www.youtube.com/watch?v=QLb3nhIy2Lc) (2026-02-06)
+- [I Now Assume That All Ads on Apple News Are Scams](https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/) (2026-02-06)
+- [Show HN: Agent Arena – Test How Manipulation-Proof Your AI Agent Is](https://wiz.jock.pl/experiments/agent-arena/) (2026-02-06)
+- [TikTok's 'Addictive Design' Found to Be Illegal in Europe](https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html) (2026-02-06)
+- [US Immigration on the Easiest Setting](https://pluralistic.net/2026/02/06/doge-ball/#n-600) (2026-02-06)
+- [Invention of DNA "Page Numbers" Opens Up Possibilities for the Bioeconomy](https://www.caltech.edu/about/news/invention-dna-page-numbers-synthesis-kaihang-wang) (2026-02-06)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [TikTok&#8217;s infinite scroll is too addictive, say EU regulators](https://www.theverge.com/policy/874746/tiktok-addictive-eu-regulators-infinite-scroll-notifications-autoplay) (2026-02-06)
+- [Google is expanding AirDrop support to more Android devices ‘very soon’](https://www.theverge.com/tech/874736/android-quick-share-apple-airdrop-support-expansion) (2026-02-06)
 - [HBO is turning Baldur’s Gate into a TV show](https://www.theverge.com/entertainment/874682/hbo-baldurs-gate-3-tv-show-craig-mazin) (2026-02-06)
 - [Roblox is working to pull in adult players](https://www.theverge.com/games/874675/roblox-earnings-q4-2025-increasing-adult-players) (2026-02-05)
 - [Republicans attack &#8216;woke&#8217; Netflix — and ignore YouTube](https://www.theverge.com/streaming/874655/netflix-warner-bros-republican-culture-war-ted-sarandos-hearing) (2026-02-05)
-- [Iron Lung’s path to theaters was unique, even if the movie isn’t](https://www.theverge.com/entertainment/874500/iron-lung-theater-box-office-markiplier) (2026-02-05)
-- [The price of Bitcoin drops below $65,000](https://www.theverge.com/tech/874603/bitcoin-price-drop-cryptocurrency) (2026-02-05)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Rocket Report: SpaceX probes upper stage malfunction; Starship testing resumes](https://arstechnica.com/space/2026/02/rocket-report-spacex-probes-upper-stage-malfunction-starship-testing-resumes/) (2026-02-06)
+- [Why Darren Aronofsky thought an AI-generated historical docudrama was a good idea](https://arstechnica.com/features/2026/02/why-darren-aronofsky-thought-an-ai-generated-historical-docudrama-was-a-good-idea/) (2026-02-06)
 - [AI companies want you to stop chatting with bots and start managing them](https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/) (2026-02-05)
 - [The Switch 2 is getting a new Virtual Console (kind of)](https://arstechnica.com/gaming/2026/02/the-virtual-console-is-sort-of-back-on-the-switch-2/) (2026-02-05)
 - [With GPT-5.3-Codex, OpenAI pitches Codex for more than just writing code](https://arstechnica.com/ai/2026/02/with-gpt-5-3-codex-openai-pitches-codex-for-more-than-just-writing-code/) (2026-02-05)
-- ["ICE Out of Our Faces Act" would ban ICE and CBP use of facial recognition](https://arstechnica.com/tech-policy/2026/02/ice-out-of-our-faces-act-would-ban-ice-and-cbp-use-of-facial-recognition/) (2026-02-05)
-- [Neocities founder stuck in chatbot hell after Bing blocked 1.5 million sites](https://arstechnica.com/tech-policy/2026/02/neocities-founder-stuck-in-chatbot-hell-after-bing-blocked-1-5m-sites/) (2026-02-05)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [An experimental surgery is helping cancer survivors give birth](https://www.technologyreview.com/2026/02/06/1132319/experimental-surgery-colorectal-cancer-survivors-pregnant-birth/) (2026-02-06)
 - [Consolidating systems for AI with iPaaS](https://www.technologyreview.com/2026/02/05/1132200/consolidating-systems-for-ai-with-ipaas/) (2026-02-05)
 - [The Download: attempting to track AI, and the next generation of nuclear power](https://www.technologyreview.com/2026/02/05/1132270/the-download-attempting-to-track-ai-and-the-next-generation-of-nuclear-power/) (2026-02-05)
 - [Three questions about next-generation nuclear power, answered](https://www.technologyreview.com/2026/02/05/1132197/nuclear-questions/) (2026-02-05)
 - [This is the most misunderstood graph in AI](https://www.technologyreview.com/2026/02/05/1132254/this-is-the-most-misunderstood-graph-in-ai/) (2026-02-05)
-- [From guardrails to governance: A CEO’s guide for securing agentic systems](https://www.technologyreview.com/2026/02/04/1131014/from-guardrails-to-governance-a-ceos-guide-for-securing-agentic-systems/) (2026-02-04)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [🐰📦 Introducing Bunny‑Box — A Playful Multi‑Tool Web App for Everyday Tasks](https://dev.to/codebunny20/introducing-bunny-box-a-playful-multi-tool-web-app-for-everyday-tasks-1aob) (2026-02-06)
-- [eslint-plugin-security Is Unmaintained. Here's What Nobody Tells You.](https://dev.to/ofri-peretz/eslint-plugin-security-is-unmaintained-heres-what-nobody-tells-you-96h) (2026-02-06)
-- [Call me stupid, by definition AGI is already in your phone](https://dev.to/ryo_suwito/call-me-stupid-by-definition-agi-is-already-in-your-phone-38j8) (2026-02-06)
-- [🚀 ErrGuard: A DevOps CLI That Explains Terminal Errors Using GitHub Copilot CLI](https://dev.to/yash_sonawane25/errguard-a-devops-cli-that-explains-terminal-errors-using-github-copilot-cli-416h) (2026-02-06)
-- [The Secret Life of Python: The Phantom Copy](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-phantom-copy-29en) (2026-02-06)
+- [My first post ( i guess)](https://dev.to/harshpota/my-first-post-i-guess-1dak) (2026-02-06)
+- [How to Estimate Startup Software Development Costs in 2026](https://dev.to/lara_james_592fb50ae0bae8/how-to-estimate-startup-software-development-costs-in-2026-4bj7) (2026-02-06)
+- [Running a Mini Sprint in Jira + Deploying a Website Update to AWS EC2 with Nginx (DevOps Workflow)](https://dev.to/vivian_okose/running-a-mini-sprint-in-jira-deploying-a-website-update-to-aws-ec2-with-nginx-devops-workflow-3n3p) (2026-02-06)
+- [HTTP Explained: How the Web Communicates Behind the Scenes](https://dev.to/devbigeazi1/http-explained-how-the-web-communicates-behind-the-scenes-n7d) (2026-02-06)
+- [How I Built an AI Barista using Square, Supabase, and ElevenLabs](https://dev.to/brewhubphl/how-i-built-an-ai-barista-using-square-supabase-and-elevenlabs-3hbb) (2026-02-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [CAP Theorem Explained: Why You Can’t Have It All (With Real-World Trade-offs)](https://medium.com/@niteshthakur498/cap-theorem-explained-why-you-cant-have-it-all-with-real-world-trade-offs-883480d30459?source=rss------programming-5) (2026-02-06)
-- [ Optional Chaining vs Try/Catch — Cleaner Ways to Avoid Runtime Errors](https://medium.com/codetodeploy/optional-chaining-vs-try-catch-cleaner-ways-to-avoid-runtime-errors-d81bf9207b37?source=rss------programming-5) (2026-02-06)
-- [Top SAP ABAP Training Institute in Trivandrum for Freshers](https://medium.com/@mridhulacokonet/top-sap-abap-training-institute-in-trivandrum-for-freshers-0d058cdbb688?source=rss------programming-5) (2026-02-06)
-- [ Level Up Your Doctrine Game with Custom Type Mappings](https://medium.com/@laurentmn/level-up-your-doctrine-game-with-custom-type-mappings-03e9037034fa?source=rss------programming-5) (2026-02-06)
-- [The NULL Trap in PostgreSQL](https://ozwizard.medium.com/the-null-trap-in-postgresql-dd846ed73ce2?source=rss------programming-5) (2026-02-06)
+- [I Stopped Manually Adding Tokens — That’s When Flutter Interceptors Clicked](https://medium.com/@yash22202/i-stopped-manually-adding-tokens-thats-when-flutter-interceptors-clicked-8426a2bd853c?source=rss------programming-5) (2026-02-06)
+- [C++ Tricks to Turn You Into a Code Ninja ](https://akshatjme.medium.com/c-tricks-to-turn-you-into-a-code-ninja-b89ce24b6856?source=rss------programming-5) (2026-02-06)
+- [7 things most developers get wrong about Go](https://blog.stackademic.com/7-things-most-developers-get-wrong-about-go-17e567441f8c?source=rss------programming-5) (2026-02-06)
+- [Let’s Explore Hooks in React](https://medium.com/@gursimran12003/lets-explore-hooks-in-react-1f8e4c825f0e?source=rss------programming-5) (2026-02-06)
+- [Python and Me: Ek Beginner Ki Chhoti Si Journey](https://medium.com/@UjalaCoding/python-and-me-ek-beginner-ki-chhoti-si-journey-00d0733f740b?source=rss------programming-5) (2026-02-06)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ](https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/) (2026-02-04)
 - [PostgreSQL on Azure supercharged for AI](https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/) (2026-02-02)
 - [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
 - [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
 - [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
+- [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
 
 </details>
 
@@ -362,30 +362,30 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-RCS vs. SMS: What's the difference (and why it matters)
-](
-https://www.twilio.com/en-us/blog/insights/rcs-vs-sms
-) (2026-02-04)
-- [
 What is branded calling?
 ](
 https://www.twilio.com/en-us/blog/insights/what-is-branded-calling
 ) (2026-02-03)
 - [
-What is data lineage (and why does it matter)?
+Identity resolution: what it is and how it works
 ](
-https://www.twilio.com/en-us/blog/insights/data/data-lineage
-) (2026-02-02)
+https://www.twilio.com/en-us/blog/insights/identity-resolution
+) (2026-01-28)
 - [
-What is data reliability (and do you need reliable data)?
+Build a Proxy to Connect a Call Between Two Twilio Accounts via SIP
 ](
-https://www.twilio.com/en-us/blog/insights/data/reliable-data
-) (2026-02-01)
+https://www.twilio.com/en-us/blog/developers/tutorials/product/build-proxy-sip-to-twilio-sip
+) (2026-01-26)
 - [
-Organizational silos in business: pros, cons & fixes
+Data lifecycle: 6 core stages, use cases & tips
 ](
-https://www.twilio.com/en-us/blog/insights/organizational-silos
-) (2026-02-01)
+https://www.twilio.com/en-us/blog/insights/data/data-life-cycle
+) (2026-01-26)
+- [
+What is Reverse ETL (and how does it work)?
+](
+https://www.twilio.com/en-us/blog/insights/data/reverse-etl
+) (2026-01-25)
 
 </details>
 
@@ -557,33 +557,33 @@ https://www.twilio.com/en-us/blog/insights/organizational-silos
 <details>
 <summary>🤖 AI News</summary>
 
+- [How separating logic and search boosts AI agent scalability](https://www.artificialintelligence-news.com/news/how-separating-logic-and-search-boosts-ai-agent-scalability/) (2026-02-06)
+- [Intuit, Uber, and State Farm trial AI agents inside enterprise workflows](https://www.artificialintelligence-news.com/news/intuit-uber-and-state-farm-trial-ai-agents-inside-enterprise-workflows/) (2026-02-06)
 - [AI Expo 2026 Day 2: Moving experimental pilots to AI production](https://www.artificialintelligence-news.com/news/ai-expo-2026-day-2-moving-experimental-pilots-ai-production/) (2026-02-05)
 - [Microsoft unveils method to detect sleeper agent backdoors](https://www.artificialintelligence-news.com/news/microsoft-unveils-method-detect-sleeper-agent-backdoors/) (2026-02-05)
 - [OpenAI’s enterprise push: The hidden story behind AI’s sales race](https://www.artificialintelligence-news.com/news/openai-ai-consultants-enterprise-adoption-challenges/) (2026-02-05)
-- [AI Expo 2026 Day 1: Governance and data readiness enable the agentic enterprise](https://www.artificialintelligence-news.com/news/ai-expo-2026-day-1-governance-data-readiness-enable-agentic-enterprise/) (2026-02-04)
-- [From blogosphere to the AI & Big Data Expo: Rackspace and operational AI](https://www.artificialintelligence-news.com/news/combing-the-rackspace-blogfiles-for-operational-ai-pointers/) (2026-02-04)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Prompt Fidelity: Measuring How Much of Your Intent an AI Agent Actually Executes](https://towardsdatascience.com/prompt-fidelity-measuring-how-much-of-your-intent-an-ai-agent-actually-executes/) (2026-02-06)
 - [Mechanistic Interpretability: Peeking Inside an LLM](https://towardsdatascience.com/mechanistic-interpretability-peeking-inside-an-llm/) (2026-02-05)
 - [Why Is My Code So Slow? A Guide to Py-Spy Python Profiling](https://towardsdatascience.com/why-is-my-code-so-slow-a-guide-to-py-spy-python-profiling/) (2026-02-05)
 - [The Rule Everyone Misses: How to Stop Confusing loc and iloc in Pandas](https://towardsdatascience.com/stop-confusing-loc-and-iloc-in-pandas-the-rule-everyone-misses/) (2026-02-05)
 - [AWS vs. Azure: A Deep Dive into Model Training – Part 2](https://towardsdatascience.com/aws-vs-azure-a-deep-dive-into-model-training-part-2/) (2026-02-04)
-- [How to Work Effectively with Frontend and Backend Code](https://towardsdatascience.com/how-to-effectively-work-with-frontend-and-backend-code/) (2026-02-04)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [My Honest Review of Claude Opus 4.6: Is It Worth the Hype?](https://www.analyticsvidhya.com/blog/2026/02/claude-opus-4-6-review/) (2026-02-06)
 - [Anthropic’s Superbowl Ads Mocking OpenAI Have Sam Altman Going on a Rant](https://www.analyticsvidhya.com/blog/2026/02/anthropic-superbowl-ads-mock-openai-sam-altman/) (2026-02-05)
 - [How to Access and Use Qwen3-Coder-Next?](https://www.analyticsvidhya.com/blog/2026/02/qwen3-coder-next/) (2026-02-05)
 - [40 RAG Interview Questions and Answers](https://www.analyticsvidhya.com/blog/2026/02/rag-interview-questions-and-answers/) (2026-02-05)
 - [AI Agents Can Now Hire Real Humans](https://www.analyticsvidhya.com/blog/2026/02/ai-hiring-humans/) (2026-02-04)
-- [Top 10 MCP Servers for AI Builders in 2026](https://www.analyticsvidhya.com/blog/2026/02/top-mcp-servers/) (2026-02-04)
 
 </details>
 
