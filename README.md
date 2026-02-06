@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [C Isn't a Language](https://faultlore.com/blah/c-isnt-a-language/) (2026-02-06)
-- [The RCE that AMD won't fix](https://mrbruh.com/amd/) (2026-02-05)
-- [Cubans rendered powerless as outages persist and tensions with US escalate](https://apnews.com/article/cuba-us-oil-power-outages-electricity-trump-ccab32796f7b57353adedc380181c68f) (2026-02-05)
-- [Jane Street Blog – What if writing tests was a joyful experience?](https://blog.janestreet.com/the-joy-of-expect-tests/) (2026-02-05)
-- [Review of 1984 by Isaac Asimov (1980)](https://www.newworker.org/ncptrory/1984.htm) (2026-02-05)
+- [Things Unix can do atomically (2010)](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html) (2026-02-06)
+- [Systems Thinking](http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html) (2026-02-06)
+- [Generative Pen-Trained Transformer](https://theodore.net/projects/Polargraph/) (2026-02-06)
+- [Show HN: Artifact Keeper – Open-Source Artifactory/Nexus Alternative in Rust](https://github.com/artifact-keeper) (2026-02-06)
+- [Waiting for Postgres 19: Better planner hints with path generation strategies [video]](https://www.youtube.com/watch?v=QLb3nhIy2Lc) (2026-02-06)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [AI attention span so good it shouldn’t be legal](https://stackoverflow.blog/2026/02/06/ai-attention-span-so-good-it-shouldn-t-be-legal/) (2026-02-06)
 - [Code smells for AI agents: Q&A with Eno Reyes of Factory](https://stackoverflow.blog/2026/02/04/code-smells-for-ai-agents-q-and-a-with-eno-reyes-of-factory/) (2026-02-04)
 - [Generating text with diffusion (and ROI with LLMs)](https://stackoverflow.blog/2026/02/03/generating-text-with-diffusion-and-roi-with-llms/) (2026-02-03)
 - [What’s new at Stack Overflow: February 2026](https://stackoverflow.blog/2026/02/02/what-s-new-at-stack-overflow-february-2026/) (2026-02-02)
 - [Wanna see a CSS magic trick?](https://stackoverflow.blog/2026/01/30/wanna-see-a-css-magic-trick/) (2026-01-30)
-- [Scaling enterprise AI: lessons in governance and operating models from IBM](https://stackoverflow.blog/2026/01/29/scaling-enterprise-ai-lessons-in-governance-and-operating-models-from-ibm/) (2026-01-29)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Part 3: Decoding Central Bank Speeches with NLP (Fed Meetings)](https://dev.to/tildalice/part-3-decoding-central-bank-speeches-with-nlp-fed-meetings-3458) (2026-02-06)
-- [Microsoft Teams: como fazer bom uso para o dia a dia](https://dev.to/vitoriazzp/microsoft-teams-como-fazer-bom-uso-para-o-dia-a-dia-3e77) (2026-02-06)
-- [Spec-Logic: AI-powered PC building assistant](https://dev.to/prakash_verma_e6f7ea047c0/spec-logic-ai-powered-pc-building-assistant-3n9o) (2026-02-06)
-- [ROT13: The Cipher That’s Been Hiding Spoilers Since the Internet Was Born](https://dev.to/quangthien27/rot13-the-cipher-thats-been-hiding-spoilers-since-the-internet-was-born-40ff) (2026-02-06)
-- [We'll address that tech debt next quarter](https://dev.to/ghostinit0x/well-address-that-tech-debt-next-quarter-4322) (2026-02-06)
+- [🐰📦 Introducing Bunny‑Box — A Playful Multi‑Tool Web App for Everyday Tasks](https://dev.to/codebunny20/introducing-bunny-box-a-playful-multi-tool-web-app-for-everyday-tasks-1aob) (2026-02-06)
+- [eslint-plugin-security Is Unmaintained. Here's What Nobody Tells You.](https://dev.to/ofri-peretz/eslint-plugin-security-is-unmaintained-heres-what-nobody-tells-you-96h) (2026-02-06)
+- [Call me stupid, by definition AGI is already in your phone](https://dev.to/ryo_suwito/call-me-stupid-by-definition-agi-is-already-in-your-phone-38j8) (2026-02-06)
+- [🚀 ErrGuard: A DevOps CLI That Explains Terminal Errors Using GitHub Copilot CLI](https://dev.to/yash_sonawane25/errguard-a-devops-cli-that-explains-terminal-errors-using-github-copilot-cli-416h) (2026-02-06)
+- [The Secret Life of Python: The Phantom Copy](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-phantom-copy-29en) (2026-02-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Truth About Learning to Code in 2026: Why Understanding Code Still Pays (Even When AI Writes…](https://medium.com/@rekhadcm/the-truth-about-learning-to-code-in-2026-why-understanding-code-still-pays-even-when-ai-writes-d5ad0bf9b8e1?source=rss------programming-5) (2026-02-06)
-- [Mastering iOS Performance Monitoring: FPS and Memory Usage Interview Questions Answered](https://medium.com/@alaxhenry0121/mastering-ios-performance-monitoring-fps-and-memory-usage-interview-questions-answered-83ae135fd48f?source=rss------programming-5) (2026-02-06)
-- [Gregic-Wires Language v5](https://medium.com/@appleby.ethan.ea/gregic-wires-language-v5-2d6d73933156?source=rss------programming-5) (2026-02-06)
-- [How I Learned to Stop Worrying and Embrace the Chaos (Spoiler: I Didn’t)](https://arg-software.medium.com/how-i-learned-to-stop-worrying-and-embrace-the-chaos-spoiler-i-didnt-54533117938c?source=rss------programming-5) (2026-02-06)
-- [ASP.NET Core 10 SignalR: The JWT-in-QueryString Shortcut That Leaks User Info](https://blog.stackademic.com/asp-net-core-10-signalr-the-jwt-in-querystring-shortcut-that-leaks-user-info-ad974805c692?source=rss------programming-5) (2026-02-06)
+- [CAP Theorem Explained: Why You Can’t Have It All (With Real-World Trade-offs)](https://medium.com/@niteshthakur498/cap-theorem-explained-why-you-cant-have-it-all-with-real-world-trade-offs-883480d30459?source=rss------programming-5) (2026-02-06)
+- [ Optional Chaining vs Try/Catch — Cleaner Ways to Avoid Runtime Errors](https://medium.com/codetodeploy/optional-chaining-vs-try-catch-cleaner-ways-to-avoid-runtime-errors-d81bf9207b37?source=rss------programming-5) (2026-02-06)
+- [Top SAP ABAP Training Institute in Trivandrum for Freshers](https://medium.com/@mridhulacokonet/top-sap-abap-training-institute-in-trivandrum-for-freshers-0d058cdbb688?source=rss------programming-5) (2026-02-06)
+- [ Level Up Your Doctrine Game with Custom Type Mappings](https://medium.com/@laurentmn/level-up-your-doctrine-game-with-custom-type-mappings-03e9037034fa?source=rss------programming-5) (2026-02-06)
+- [The NULL Trap in PostgreSQL](https://ozwizard.medium.com/the-null-trap-in-postgresql-dd846ed73ce2?source=rss------programming-5) (2026-02-06)
 
 </details>
 
