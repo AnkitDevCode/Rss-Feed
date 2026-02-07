@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [New York lawmakers propose a three-year pause on new data centers](https://techcrunch.com/2026/02/07/new-york-lawmakers-propose-a-three-year-pause-on-new-data-centers/) (2026-02-07)
 - [Benchmark raises $225M in special funds to double down on Cerebras](https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/) (2026-02-07)
 - [An AI startup founder says he’s planning a ‘March for Billionaires’ in protest of California’s wealth tax](https://techcrunch.com/2026/02/06/an-ai-startup-founder-says-hes-planning-a-march-for-billionaires-in-protest-of-californias-wealth-tax/) (2026-02-07)
 - [‘Industry’ season 4 captures tech fraud better than any show on TV right now](https://techcrunch.com/2026/02/06/industry-season-4-captures-tech-fraud-better-than-any-show-on-tv-right-now/) (2026-02-07)
 - [Apple is working to make CarPlay compatible with AI chatbots like ChatGPT](https://techcrunch.com/2026/02/06/apple-is-working-to-make-carplay-compatible-with-ai-chatbots-like-chatgpt/) (2026-02-06)
-- [From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads](https://techcrunch.com/2026/02/06/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/) (2026-02-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Vocal Guide – belt sing without killing yourself](https://jesperordrup.github.io/vocal-guide/) (2026-02-07)
-- [Female Asian Elephant Calf Born at the Smithsonian National Zoo](https://www.si.edu/newsdesk/releases/female-asian-elephant-calf-born-smithsonians-national-zoo-and-conservation?user_id=66c4bf745d78644b3aa57b08&utm_medium=email&utm_placement=newsletter&utm_source=join1440) (2026-02-07)
-- [Why I Joined OpenAI](https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html) (2026-02-07)
-- [Introducing the Developer Knowledge API and MCP Server](https://developers.googleblog.com/introducing-the-developer-knowledge-api-and-mcp-server/) (2026-02-06)
-- [Show HN: R3forth, a ColorForth-inspired language with a tiny VM](https://github.com/phreda4/r3) (2026-02-06)
+- [What Is Stoicism?](https://stoacentral.com/guides/what-is-stoicism) (2026-02-07)
+- [British drivers over 70 to face eye tests every three years](https://www.bbc.com/news/articles/c205nxy0p31o) (2026-02-07)
+- [Al Lowe on model trains, funny deaths and working with Disney](https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/) (2026-02-07)
+- [StrongDM's AI team build serious software without even looking at the code](https://simonwillison.net/2026/Feb/7/software-factory/) (2026-02-07)
+- [First Proof](https://arxiv.org/abs/2602.05192) (2026-02-07)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [We found 20 Verge-approved gifts on sale ahead of Valentine’s Day](https://www.theverge.com/gadgets/873589/valentines-day-gifts-aura-aspen-amazfit-active-2-deal-sale) (2026-02-06)
-- [Apple might let you use ChatGPT from CarPlay](https://www.theverge.com/transportation/875199/apple-carplay-third-party-chatbots-rumor) (2026-02-06)
-- [This is the Trump Phone](https://www.theverge.com/gadgets/875190/trump-phone-t1-first-look-design-interview-eric-thomas-don-hendrickson) (2026-02-06)
-- [There isn’t even a cynical explanation for Jeff Bezos destroying The Washington Post](https://www.theverge.com/policy/874958/jeff-bezos-washington-post-layoffs-trump) (2026-02-06)
-- [The Jeffrey Epstein Fortnite account is fake](https://www.theverge.com/news/875014/jeffrey-epstein-fortnite-account-fake) (2026-02-06)
+- [LG’s C5 TV and Anker’s powerful power bank are this week’s best deals](https://www.theverge.com/gadgets/874585/lg-c5-tv-anker-power-bank-deal-sale-super-bowl) (2026-02-07)
+- [The second-gen AirTags are a scatterbrain’s best friend](https://www.theverge.com/tech/875314/airtags-second-gen-review-item-tracker) (2026-02-07)
+- [Anker’s new charger with a screen would feel less gimmicky if it did more](https://www.theverge.com/tech/873655/anker-nano-charger-smart-display-45w-folding-prongs) (2026-02-07)
+- [Cairn is a climbing journey about perseverance and obsession](https://www.theverge.com/games/874914/cairn-review-pc-playstation-5) (2026-02-07)
+- [The best way to watch the Olympics](https://www.theverge.com/tech/875154/how-to-watch-olympics-nintendo-muppets-installer) (2026-02-07)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Under Trump, EPA’s enforcement of environmental laws collapses, report finds](https://arstechnica.com/science/2026/02/under-trump-epas-enforcement-of-environmental-laws-collapses-report-finds/) (2026-02-07)
 - [Sixteen Claude AI agents working together created a new C compiler](https://arstechnica.com/ai/2026/02/sixteen-claude-ai-agents-working-together-created-a-new-c-compiler/) (2026-02-06)
 - [Penisgate erupts at Olympics; scandal exposes risks of bulking your bulge](https://arstechnica.com/health/2026/02/penisgate-erupts-at-olympics-scandal-exposes-risks-of-bulking-your-budge/) (2026-02-06)
 - [Lawyer sets new standard for abuse of AI; judge tosses case](https://arstechnica.com/tech-policy/2026/02/randomly-quoting-ray-bradbury-did-not-save-lawyer-from-losing-case-over-ai-errors/) (2026-02-06)
 - [Malicious packages for dYdX cryptocurrency exchange empties user wallets](https://arstechnica.com/security/2026/02/malicious-packages-for-dydx-cryptocurrency-exchange-empties-user-wallets/) (2026-02-06)
-- [Why $700 could be a "death sentence" for the Steam Machine](https://arstechnica.com/gaming/2026/02/why-a-bump-to-700-could-be-a-death-sentence-for-the-steam-machine/) (2026-02-06)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How to Dynamically Switch Local LLMs with LangChain](https://dev.to/harishkotra/how-to-dynamically-switch-local-llms-with-langchain-5aje) (2026-02-07)
-- [Why I use Typetify: A Type-Safe Alternative to Lodash](https://dev.to/hosby/why-i-use-typetify-a-type-safe-alternative-to-lodash-3gp0) (2026-02-07)
-- [How to scrape Telegram channels: The complete guide to extracting posts, media, and metadata](https://dev.to/eunit/how-to-scrape-telegram-channels-the-complete-guide-to-extracting-posts-media-and-metadata-2ff) (2026-02-07)
-- [Quark's Outlines: Python Code Blocks](https://dev.to/mike-vincent/quarks-outlines-python-code-blocks-j0n) (2026-02-07)
-- [Why Developer Soft Skills Matter: A Deep Dive](https://dev.to/mrakdon/why-developer-soft-skills-matter-a-deep-dive-5cg3) (2026-02-07)
+- [Best AI Creative Workflow Platforms in 2026: A Hands-On Comparison](https://dev.to/alexmercer_creatives/best-ai-creative-workflow-platforms-in-2026-a-hands-on-comparison-51e8) (2026-02-07)
+- [We had 20 Claude terminals open. So we built an orchestration layer.](https://dev.to/buildingwwdavid/we-had-20-claude-terminals-open-so-we-built-an-orchestration-layer-l38) (2026-02-07)
+- [Go Made Me Fast. Rust Made Me Care. AWS Made Me Pay.](https://dev.to/art_light/go-made-me-fast-rust-made-me-care-aws-made-me-pay-2f82) (2026-02-07)
+- [How I Built a System to Automatically Sell Access to a Private GitHub Repo](https://dev.to/micronink/how-i-built-a-system-to-automatically-sell-access-to-a-private-github-repo-2dnm) (2026-02-07)
+- [Ethereum-Solidity Quiz Q29: What is an Overflow/Underflow?](https://dev.to/mihaihng/ethereum-solidity-quiz-q29-what-is-overflowunderflow-505a) (2026-02-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How to Make $100 Per Day Online From Home](https://medium.com/@megamall534/how-to-make-100-per-day-online-from-home-2d9f61251486?source=rss------programming-5) (2026-02-07)
-- [11 Python Automation Ideas That Paid My Freelance Bills While I Slept](https://medium.com/codetodeploy/11-python-automation-ideas-that-paid-my-freelance-bills-while-i-slept-28abd3a90767?source=rss------programming-5) (2026-02-07)
-- [Choisir un ORM en Rust : Diesel vs SQLx vs SeaORM](https://medium.com/@rivelbab/choisir-un-orm-en-rust-diesel-vs-sqlx-vs-seaorm-b789fe0f2f22?source=rss------programming-5) (2026-02-07)
-- [9 Python Scripts That Quietly Made Me a Full-Time Freelancer (I Wish I Used Them Sooner)](https://python.plainenglish.io/9-python-scripts-that-quietly-made-me-a-full-time-freelancer-i-wish-i-used-them-sooner-44ca7a9cfa11?source=rss------programming-5) (2026-02-07)
-- [I Spent 3 Months Trying to Index My Ghost Blog. Here’s Why I Failed.](https://medium.com/illumination/i-spent-3-months-trying-to-index-my-ghost-blog-heres-why-i-failed-3786fae6c31d?source=rss------programming-5) (2026-02-07)
+- [Another Age of Transition in Software Engineering](https://medium.com/@bhumikadasari0/another-age-of-transition-in-software-engineering-5bdc524b83db?source=rss------programming-5) (2026-02-07)
+- [NumPy Basics — Lesson 1](https://medium.com/@ammshivam.research/numpy-basics-lesson-1-e3e52df0de09?source=rss------programming-5) (2026-02-07)
+- [Structuring Dependency Injection In ASP.NET Core The Right Way](https://medium.com/@mariammaurice/structuring-dependency-injection-in-asp-net-core-the-right-way-e559e1deadce?source=rss------programming-5) (2026-02-07)
+- [What the Claude Opus 4.6 Benchmarks Won’t Tell You](https://pub.towardsai.net/what-the-claude-opus-4-6-benchmarks-wont-tell-you-b0a62de36df1?source=rss------programming-5) (2026-02-07)
+- [Elegant Global Error Handling Using Middleware In .NET](https://medium.com/@michaelmaurice410/elegant-global-error-handling-using-middleware-in-net-ed7a0ad61604?source=rss------programming-5) (2026-02-07)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ](https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/) (2026-02-04)
 - [PostgreSQL on Azure supercharged for AI](https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/) (2026-02-02)
 - [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
 - [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
 - [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
-- [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
 
 </details>
 
@@ -362,6 +362,21 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+How to use AI on WhatsApp to improve your company’s customer service?
+](
+https://www.twilio.com/en-us/blog/insights/how-to-use-ai-on-whatsapp-to-improve-your-company-s-customer-ser
+) (2026-02-06)
+- [
+Unlocking super agents with the power of data & AI
+](
+https://www.twilio.com/en-us/blog/insights/ai/super-agents-data-ai
+) (2026-02-06)
+- [
+Self-service in the age of AI: Virtual agents that actually resolve
+](
+https://www.twilio.com/en-us/blog/insights/ai/self-service-ai-virtual-agents
+) (2026-02-06)
+- [
 RCS vs. SMS: What's the difference (and why it matters)
 ](
 https://www.twilio.com/en-us/blog/insights/rcs-vs-sms
@@ -371,21 +386,6 @@ What is branded calling?
 ](
 https://www.twilio.com/en-us/blog/insights/what-is-branded-calling
 ) (2026-02-03)
-- [
-What is data lineage (and why does it matter)?
-](
-https://www.twilio.com/en-us/blog/insights/data/data-lineage
-) (2026-02-02)
-- [
-What is data reliability (and do you need reliable data)?
-](
-https://www.twilio.com/en-us/blog/insights/data/reliable-data
-) (2026-02-01)
-- [
-Organizational silos in business: pros, cons & fixes
-](
-https://www.twilio.com/en-us/blog/insights/organizational-silos
-) (2026-02-01)
 
 </details>
 
@@ -569,22 +569,22 @@ https://www.twilio.com/en-us/blog/insights/organizational-silos
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [What I Am Doing to Stay Relevant as a Senior Analytics Consultant in 2026](https://towardsdatascience.com/what-i-am-doing-to-stay-relevant-as-a-senior-analytics-consultant-in-2026/) (2026-02-07)
 - [Pydantic Performance: 4 Tips on How to Validate Large Amounts of Data Efficiently](https://towardsdatascience.com/pydantic-performance-4-tips-on-how-to-validate-large-amounts-of-data-efficiently/) (2026-02-06)
 - [Prompt Fidelity: Measuring How Much of Your Intent an AI Agent Actually Executes](https://towardsdatascience.com/prompt-fidelity-measuring-how-much-of-your-intent-an-ai-agent-actually-executes/) (2026-02-06)
 - [TDS Newsletter: Vibe Coding Is Great. Until It’s Not.](https://towardsdatascience.com/tds-newsletter-vibe-coding-is-great-until-its-not/) (2026-02-05)
 - [Mechanistic Interpretability: Peeking Inside an LLM](https://towardsdatascience.com/mechanistic-interpretability-peeking-inside-an-llm/) (2026-02-05)
-- [Why Is My Code So Slow? A Guide to Py-Spy Python Profiling](https://towardsdatascience.com/why-is-my-code-so-slow-a-guide-to-py-spy-python-profiling/) (2026-02-05)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [30 Agentic AI Interview Questions and Answers: From Beginner to Advanced](https://www.analyticsvidhya.com/blog/2026/02/agentic-ai-interview-questions-and-answers/) (2026-02-07)
+- [Build an Agent with Nanobot, Lighter Replacement for OpenClaw](https://www.analyticsvidhya.com/blog/2026/02/ai-crypto-tracker-with-nanobot/) (2026-02-07)
 - [Claude Opus 4.6 vs OpenAI Codex 5.3: Which is Better?](https://www.analyticsvidhya.com/blog/2026/02/claude-opus-4-6-vs-openai-codex-5-3/) (2026-02-06)
 - [Is OpenAI’s GPT-5.3 Codex Worth the Hype?](https://www.analyticsvidhya.com/blog/2026/02/gpt-5-3-codex-hands-on/) (2026-02-06)
 - [My Honest Review of Claude Opus 4.6: Is It Worth the Hype?](https://www.analyticsvidhya.com/blog/2026/02/claude-opus-4-6-review/) (2026-02-06)
-- [Anthropic’s Superbowl Ads Mocking OpenAI Have Sam Altman Going on a Rant](https://www.analyticsvidhya.com/blog/2026/02/anthropic-superbowl-ads-mock-openai-sam-altman/) (2026-02-05)
-- [How to Access and Use Qwen3-Coder-Next?](https://www.analyticsvidhya.com/blog/2026/02/qwen3-coder-next/) (2026-02-05)
 
 </details>
 
