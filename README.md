@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Vocal Guide – belt sing without killing yourself](https://jesperordrup.github.io/vocal-guide/) (2026-02-07)
 - [Female Asian Elephant Calf Born at the Smithsonian National Zoo](https://www.si.edu/newsdesk/releases/female-asian-elephant-calf-born-smithsonians-national-zoo-and-conservation?user_id=66c4bf745d78644b3aa57b08&utm_medium=email&utm_placement=newsletter&utm_source=join1440) (2026-02-07)
 - [Why I Joined OpenAI](https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html) (2026-02-07)
-- [WebView performance significantly slower than PWA](https://issues.chromium.org/issues/40817676) (2026-02-07)
-- [I'm going to cure my girlfriend's brain tumor](https://andrewjrod.substack.com/p/im-going-to-cure-my-girlfriends-brain) (2026-02-07)
 - [Introducing the Developer Knowledge API and MCP Server](https://developers.googleblog.com/introducing-the-developer-knowledge-api-and-mcp-server/) (2026-02-06)
+- [Show HN: R3forth, a ColorForth-inspired language with a tiny VM](https://github.com/phreda4/r3) (2026-02-06)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Common Manual Testing Techniques and The Future Of Manual Testing in the age of AI](https://dev.to/madhupriyamahalingan/common-manual-testing-techniques-and-the-future-of-manual-testing-in-the-age-of-ai-485o) (2026-02-07)
-- [🚀 How I’d Learn Go (Golang) Fast in 2026 — If I Were Starting Today](https://dev.to/yash_sonawane25/how-id-learn-go-golang-fast-in-2026-if-i-were-starting-today-1pk0) (2026-02-07)
-- [BoldKit Now Supports Vue 3: 45+ Neubrutalism Components for Vue Developers](https://dev.to/aniruddha_agarwal_d3d6b0e/boldkit-now-supports-vue-3-45-neubrutalism-components-for-vue-developers-4l1o) (2026-02-07)
-- [Web APIs That Replace Entire Libraries](https://dev.to/web_dev-usman/web-apis-that-replace-entire-libraries-2ia8) (2026-02-07)
-- [9.Prevent S3 Bucket Deletion via Terraform](https://dev.to/thukhakyawe_cloud/9prevent-s3-bucket-deletion-via-terraform-1gfc) (2026-02-07)
+- [How to Dynamically Switch Local LLMs with LangChain](https://dev.to/harishkotra/how-to-dynamically-switch-local-llms-with-langchain-5aje) (2026-02-07)
+- [Why I use Typetify: A Type-Safe Alternative to Lodash](https://dev.to/hosby/why-i-use-typetify-a-type-safe-alternative-to-lodash-3gp0) (2026-02-07)
+- [How to scrape Telegram channels: The complete guide to extracting posts, media, and metadata](https://dev.to/eunit/how-to-scrape-telegram-channels-the-complete-guide-to-extracting-posts-media-and-metadata-2ff) (2026-02-07)
+- [Quark's Outlines: Python Code Blocks](https://dev.to/mike-vincent/quarks-outlines-python-code-blocks-j0n) (2026-02-07)
+- [Why Developer Soft Skills Matter: A Deep Dive](https://dev.to/mrakdon/why-developer-soft-skills-matter-a-deep-dive-5cg3) (2026-02-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How to Code a “Discretionary Mimic” Strategy for Manual Traders](https://medium.com/@betashorts1998/how-to-code-a-discretionary-mimic-strategy-for-manual-traders-f6b3064977f0?source=rss------programming-5) (2026-02-07)
-- [The Dependency Injection Nightmare in C#: When Your Savior Becomes Your Villain ](https://medium.com/@hpultimatemedia/the-dependency-injection-nightmare-in-c-when-your-savior-becomes-your-villain-f1fefc87362f?source=rss------programming-5) (2026-02-07)
-- [Bit Training Course: A Detailed look at the bit add Command](https://medium.com/dev-proto/bit-training-course-a-detailed-look-at-the-bit-add-command-b7d1acad5aa4?source=rss------programming-5) (2026-02-07)
-- [Angular Isn’t “Heavy”. Your Architecture Is.](https://medium.com/@premchandak_11/angular-isnt-heavy-your-architecture-is-3850ed242ebf?source=rss------programming-5) (2026-02-07)
-- [Strict Mode in JavaScript: What You Need to Know](https://towardsdev.com/strict-mode-in-javascript-what-you-need-to-know-0a23ca4d910c?source=rss------programming-5) (2026-02-07)
+- [How to Make $100 Per Day Online From Home](https://medium.com/@megamall534/how-to-make-100-per-day-online-from-home-2d9f61251486?source=rss------programming-5) (2026-02-07)
+- [11 Python Automation Ideas That Paid My Freelance Bills While I Slept](https://medium.com/codetodeploy/11-python-automation-ideas-that-paid-my-freelance-bills-while-i-slept-28abd3a90767?source=rss------programming-5) (2026-02-07)
+- [Choisir un ORM en Rust : Diesel vs SQLx vs SeaORM](https://medium.com/@rivelbab/choisir-un-orm-en-rust-diesel-vs-sqlx-vs-seaorm-b789fe0f2f22?source=rss------programming-5) (2026-02-07)
+- [9 Python Scripts That Quietly Made Me a Full-Time Freelancer (I Wish I Used Them Sooner)](https://python.plainenglish.io/9-python-scripts-that-quietly-made-me-a-full-time-freelancer-i-wish-i-used-them-sooner-44ca7a9cfa11?source=rss------programming-5) (2026-02-07)
+- [I Spent 3 Months Trying to Index My Ghost Blog. Here’s Why I Failed.](https://medium.com/illumination/i-spent-3-months-trying-to-index-my-ghost-blog-heres-why-i-failed-3786fae6c31d?source=rss------programming-5) (2026-02-07)
 
 </details>
 
@@ -481,11 +481,11 @@ https://www.twilio.com/en-us/blog/insights/organizational-silos
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
-- [Generate Mobile Apps in Minutes with the Pro-Code Mobile App Generation Ecosystem (MAGE)](https://developer.salesforce.com/blogs/2026/02/generate-mobile-apps-in-minutes-with-the-pro-code-mobile-app-generation-ecosystem-mage.html) (2026-02-05)
-- [外部アプリから Salesforce API にアクセスする方法](https://developer.salesforce.com/blogs/2026/02/jp-access-the-salesforce-api-from-externalclientapp.html) (2026-02-03)
-- [Streamline Data 360 Onboarding with API-Driven Automation](https://developer.salesforce.com/blogs/2026/02/streamline-data-360-onboarding-with-api-driven-automation.html) (2026-02-03)
-- [Create Faster, Lighter Experience Cloud Sites with Omnistudio Components and LWR](https://developer.salesforce.com/blogs/2026/01/create-faster-lighter-experience-cloud-sites-with-omnistudio-components-and-lwr.html) (2026-01-27)
-- [The Salesforce Developer’s Guide to the Spring ’26 Release](https://developer.salesforce.com/blogs/2026/01/developers-guide-to-the-spring-26-release.html) (2026-01-22)
+- [Generate Mobile Apps in Minutes with the Pro-Code Mobile App Generation Ecosystem (MAGE)](https://developer.salesforce.com/blogs/2026/02/generate-mobile-apps-in-minutes-with-the-pro-code-mobile-app-generation-ecosystem-mage) (2026-02-05)
+- [外部アプリから Salesforce API にアクセスする方法](https://developer.salesforce.com/blogs/2026/02/jp-access-the-salesforce-api-from-externalclientapp) (2026-02-03)
+- [Streamline Data 360 Onboarding with API-Driven Automation](https://developer.salesforce.com/blogs/2026/02/streamline-data-360-onboarding-with-api-driven-automation) (2026-02-03)
+- [Create Faster, Lighter Experience Cloud Sites with Omnistudio Components and LWR](https://developer.salesforce.com/blogs/2026/01/create-faster-lighter-experience-cloud-sites-with-omnistudio-components-and-lwr) (2026-01-27)
+- [The Salesforce Developer’s Guide to the Spring ’26 Release](https://developer.salesforce.com/blogs/2026/01/developers-guide-to-the-spring-26-release) (2026-01-22)
 
 </details>
 
