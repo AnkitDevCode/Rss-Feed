@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Benchmark raises $225M in special funds to double down on Cerebras](https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/) (2026-02-07)
 - [An AI startup founder says he’s planning a ‘March for Billionaires’ in protest of California’s wealth tax](https://techcrunch.com/2026/02/06/an-ai-startup-founder-says-hes-planning-a-march-for-billionaires-in-protest-of-californias-wealth-tax/) (2026-02-07)
 - [‘Industry’ season 4 captures tech fraud better than any show on TV right now](https://techcrunch.com/2026/02/06/industry-season-4-captures-tech-fraud-better-than-any-show-on-tv-right-now/) (2026-02-07)
 - [Apple is working to make CarPlay compatible with AI chatbots like ChatGPT](https://techcrunch.com/2026/02/06/apple-is-working-to-make-carplay-compatible-with-ai-chatbots-like-chatgpt/) (2026-02-06)
 - [From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads](https://techcrunch.com/2026/02/06/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/) (2026-02-06)
-- [It just got easier for Claude to check in on your WordPress site](https://techcrunch.com/2026/02/06/it-just-got-easier-for-claude-to-check-in-on-your-wordpress-site/) (2026-02-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: R3forth, a ColorForth-inspired language with a tiny VM](https://github.com/phreda4/r3) (2026-02-06)
-- [OpenCiv3: Open-source, cross-platform reimagining of Civilization III](https://openciv3.org/) (2026-02-06)
-- [Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox](https://github.com/valdanylchuk/breezydemo) (2026-02-06)
-- [Monty: A minimal, secure Python interpreter written in Rust for use by AI](https://github.com/pydantic/monty) (2026-02-06)
-- [Masked namespace vulnerability in Temporal](https://depthfirst.com/post/the-masked-namespace-vulnerability-in-temporal-cve-2025-14986) (2026-02-06)
+- [Female Asian Elephant Calf Born at the Smithsonian National Zoo](https://www.si.edu/newsdesk/releases/female-asian-elephant-calf-born-smithsonians-national-zoo-and-conservation?user_id=66c4bf745d78644b3aa57b08&utm_medium=email&utm_placement=newsletter&utm_source=join1440) (2026-02-07)
+- [Why I Joined OpenAI](https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html) (2026-02-07)
+- [WebView performance significantly slower than PWA](https://issues.chromium.org/issues/40817676) (2026-02-07)
+- [I'm going to cure my girlfriend's brain tumor](https://andrewjrod.substack.com/p/im-going-to-cure-my-girlfriends-brain) (2026-02-07)
+- [Introducing the Developer Knowledge API and MCP Server](https://developers.googleblog.com/introducing-the-developer-knowledge-api-and-mcp-server/) (2026-02-06)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [AWS ElastiCache vs MemoryDB: Which One Do You Actually Need?](https://dev.to/anand_rathnas_d5b608cc3de/aws-elasticache-vs-memorydb-which-one-do-you-actually-need-26i9) (2026-02-07)
-- [StreetPack: A local-first docked launcher for safer CLI workflows](https://dev.to/trishula_software_8337734/streetpack-a-local-first-docked-launcher-for-safer-cli-workflows-4ohe) (2026-02-07)
-- [Why I Built a 100% Client-Side PDF Toolkit (And Why Privacy Matters)](https://dev.to/younes_haddaj/why-i-built-a-100-client-side-pdf-toolkit-and-why-privacy-matters-39o) (2026-02-07)
-- [Why Gas Monitoring Matters More Than You Think in Ethereum Backends](https://dev.to/alejandro_steiner/why-gas-monitoring-matters-more-than-you-think-in-ethereum-backends-15f0) (2026-02-07)
-- [Aeon: A Zero-Allocation Go Time Library That Treats Time as "Containers" Rather Than "Offsets"](https://dev.to/sbaa/aeon-a-zero-allocation-go-time-library-that-treats-time-as-containers-rather-than-offsets-28jm) (2026-02-07)
+- [Common Manual Testing Techniques and The Future Of Manual Testing in the age of AI](https://dev.to/madhupriyamahalingan/common-manual-testing-techniques-and-the-future-of-manual-testing-in-the-age-of-ai-485o) (2026-02-07)
+- [🚀 How I’d Learn Go (Golang) Fast in 2026 — If I Were Starting Today](https://dev.to/yash_sonawane25/how-id-learn-go-golang-fast-in-2026-if-i-were-starting-today-1pk0) (2026-02-07)
+- [BoldKit Now Supports Vue 3: 45+ Neubrutalism Components for Vue Developers](https://dev.to/aniruddha_agarwal_d3d6b0e/boldkit-now-supports-vue-3-45-neubrutalism-components-for-vue-developers-4l1o) (2026-02-07)
+- [Web APIs That Replace Entire Libraries](https://dev.to/web_dev-usman/web-apis-that-replace-entire-libraries-2ia8) (2026-02-07)
+- [9.Prevent S3 Bucket Deletion via Terraform](https://dev.to/thukhakyawe_cloud/9prevent-s3-bucket-deletion-via-terraform-1gfc) (2026-02-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Leetcode# 417: Pacific Atlantic Water Flow](https://medium.com/deluxify/leetcode-417-pacific-atlantic-water-flow-046bacdb7e26?source=rss------programming-5) (2026-02-07)
-- [AI Coding Assistants in 2026: Are Developers Becoming Architects Instead of Programmers?](https://medium.com/@sanukumar1138/ai-coding-assistants-in-2026-are-developers-becoming-architects-instead-of-programmers-497bdf051071?source=rss------programming-5) (2026-02-07)
-- [What Software Architects Should Be Able to Notice](https://medium.com/@aludanyi/what-software-architects-should-be-able-to-notice-184202f97c77?source=rss------programming-5) (2026-02-07)
-- [Stop Writing Java Utility Classes the Old Way: Use Functional Interfaces Instead](https://medium.com/@sunil17bbmp/stop-writing-java-utility-classes-the-old-way-use-functional-interfaces-instead-175c3d9e736e?source=rss------programming-5) (2026-02-07)
-- [He built Terraform, Vagrant, and Ghostty. Here’s how he stopped fighting AI and started using it.](https://jpcaparas.medium.com/he-built-terraform-vagrant-and-ghostty-heres-how-he-stopped-fighting-ai-and-started-using-it-f621baa834f2?source=rss------programming-5) (2026-02-07)
+- [How to Code a “Discretionary Mimic” Strategy for Manual Traders](https://medium.com/@betashorts1998/how-to-code-a-discretionary-mimic-strategy-for-manual-traders-f6b3064977f0?source=rss------programming-5) (2026-02-07)
+- [The Dependency Injection Nightmare in C#: When Your Savior Becomes Your Villain ](https://medium.com/@hpultimatemedia/the-dependency-injection-nightmare-in-c-when-your-savior-becomes-your-villain-f1fefc87362f?source=rss------programming-5) (2026-02-07)
+- [Bit Training Course: A Detailed look at the bit add Command](https://medium.com/dev-proto/bit-training-course-a-detailed-look-at-the-bit-add-command-b7d1acad5aa4?source=rss------programming-5) (2026-02-07)
+- [Angular Isn’t “Heavy”. Your Architecture Is.](https://medium.com/@premchandak_11/angular-isnt-heavy-your-architecture-is-3850ed242ebf?source=rss------programming-5) (2026-02-07)
+- [Strict Mode in JavaScript: What You Need to Know](https://towardsdev.com/strict-mode-in-javascript-what-you-need-to-know-0a23ca4d910c?source=rss------programming-5) (2026-02-07)
 
 </details>
 
@@ -571,9 +571,9 @@ https://www.twilio.com/en-us/blog/insights/organizational-silos
 
 - [Pydantic Performance: 4 Tips on How to Validate Large Amounts of Data Efficiently](https://towardsdatascience.com/pydantic-performance-4-tips-on-how-to-validate-large-amounts-of-data-efficiently/) (2026-02-06)
 - [Prompt Fidelity: Measuring How Much of Your Intent an AI Agent Actually Executes](https://towardsdatascience.com/prompt-fidelity-measuring-how-much-of-your-intent-an-ai-agent-actually-executes/) (2026-02-06)
+- [TDS Newsletter: Vibe Coding Is Great. Until It’s Not.](https://towardsdatascience.com/tds-newsletter-vibe-coding-is-great-until-its-not/) (2026-02-05)
 - [Mechanistic Interpretability: Peeking Inside an LLM](https://towardsdatascience.com/mechanistic-interpretability-peeking-inside-an-llm/) (2026-02-05)
 - [Why Is My Code So Slow? A Guide to Py-Spy Python Profiling](https://towardsdatascience.com/why-is-my-code-so-slow-a-guide-to-py-spy-python-profiling/) (2026-02-05)
-- [The Rule Everyone Misses: How to Stop Confusing loc and iloc in Pandas](https://towardsdatascience.com/stop-confusing-loc-and-iloc-in-pandas-the-rule-everyone-misses/) (2026-02-05)
 
 </details>
 
