@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Reddit says it’s looking for more acquisitions in adtech and elsewhere](https://techcrunch.com/2026/02/06/reddit-says-its-looking-for-more-acquisitions-in-adtech-and-elsewhere/) (2026-02-06)
-- [Here’s how Roblox’s age checks work](https://techcrunch.com/2026/02/06/heres-how-robloxs-age-checks-work/) (2026-02-06)
-- [Senator, who has repeatedly warned about secret U.S. government surveillance, sounds new alarm over ‘CIA activities’](https://techcrunch.com/2026/02/06/senator-who-has-repeatedly-warned-about-secret-u-s-government-surveillance-sounds-new-alarm-over-cia-activities/) (2026-02-06)
-- [The Kindle Scribe Colorsoft is a pricey but pretty e-ink color tablet with AI features](https://techcrunch.com/2026/02/06/kindle-scribe-colorsoft-review-e-ink-color-tablet/) (2026-02-06)
-- [EU says TikTok must disable ‘addictive’ features like infinite scroll, fix its recommendation engine](https://techcrunch.com/2026/02/06/eu-tiktok-disable-addictive-features-infinite-scroll-recommendation-engine/) (2026-02-06)
+- [An AI startup founder says he’s planning a ‘March for Billionaires’ in protest of California’s wealth tax](https://techcrunch.com/2026/02/06/an-ai-startup-founder-says-hes-planning-a-march-for-billionaires-in-protest-of-californias-wealth-tax/) (2026-02-07)
+- [‘Industry’ season 4 captures tech fraud better than any show on TV right now](https://techcrunch.com/2026/02/06/industry-season-4-captures-tech-fraud-better-than-any-show-on-tv-right-now/) (2026-02-07)
+- [Apple is working to make CarPlay compatible with AI chatbots like ChatGPT](https://techcrunch.com/2026/02/06/apple-is-working-to-make-carplay-compatible-with-ai-chatbots-like-chatgpt/) (2026-02-06)
+- [From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads](https://techcrunch.com/2026/02/06/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/) (2026-02-06)
+- [It just got easier for Claude to check in on your WordPress site](https://techcrunch.com/2026/02/06/it-just-got-easier-for-claude-to-check-in-on-your-wordpress-site/) (2026-02-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Uber Found Liable in Rape by Driver, Setting Stage for Cases](https://www.nytimes.com/2026/02/05/business/uber-safety-rape-verdict.html) (2026-02-06)
-- [Bits About Money: Fraud Investigation Is Believing Your Lying Eyes](https://www.bitsaboutmoney.com/archive/fraud-investigation/) (2026-02-06)
-- [Show HN: Daily-updated database of malicious browser extensions](https://github.com/toborrm9/malicious_extension_sentry) (2026-02-06)
-- [The Waymo World Model: A New Frontier for Autonomous Driving Simulation](https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation) (2026-02-06)
-- [Sheldon Brown's Bicycle Technical Info](https://www.sheldonbrown.com/) (2026-02-06)
+- [Show HN: R3forth, a ColorForth-inspired language with a tiny VM](https://github.com/phreda4/r3) (2026-02-06)
+- [OpenCiv3: Open-source, cross-platform reimagining of Civilization III](https://openciv3.org/) (2026-02-06)
+- [Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox](https://github.com/valdanylchuk/breezydemo) (2026-02-06)
+- [Monty: A minimal, secure Python interpreter written in Rust for use by AI](https://github.com/pydantic/monty) (2026-02-06)
+- [Masked namespace vulnerability in Temporal](https://depthfirst.com/post/the-masked-namespace-vulnerability-in-temporal-cve-2025-14986) (2026-02-06)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals) (2026-02-06)
-- [Spotify’s About the Song offers context and trivia about your favorite tracks](https://www.theverge.com/entertainment/874945/spotify-about-the-song-ai-liner-notes) (2026-02-06)
-- [Aura’s Aspen digital frame is a great gift, especially now that it’s $30 off](https://www.theverge.com/gadgets/874904/aura-aspen-kobo-libra-colour-deal-sale) (2026-02-06)
-- [The Alexa app is so bad I&#8217;m using Siri again](https://www.theverge.com/tech/874792/the-alexa-app-is-so-bad-im-using-siri-again) (2026-02-06)
-- [Analogue’s 4K N64 is getting five new transparent color options](https://www.theverge.com/tech/874494/analogue-3d-4k-n64-console-prototype-limited-editions) (2026-02-06)
+- [We found 20 Verge-approved gifts on sale ahead of Valentine’s Day](https://www.theverge.com/gadgets/873589/valentines-day-gifts-aura-aspen-amazfit-active-2-deal-sale) (2026-02-06)
+- [Apple might let you use ChatGPT from CarPlay](https://www.theverge.com/transportation/875199/apple-carplay-third-party-chatbots-rumor) (2026-02-06)
+- [This is the Trump Phone](https://www.theverge.com/gadgets/875190/trump-phone-t1-first-look-design-interview-eric-thomas-don-hendrickson) (2026-02-06)
+- [There isn’t even a cynical explanation for Jeff Bezos destroying The Washington Post](https://www.theverge.com/policy/874958/jeff-bezos-washington-post-layoffs-trump) (2026-02-06)
+- [The Jeffrey Epstein Fortnite account is fake](https://www.theverge.com/news/875014/jeffrey-epstein-fortnite-account-fake) (2026-02-06)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Driven: The 2026 Lamborghini Temerario raises the bar for supercars](https://arstechnica.com/cars/2026/02/driven-the-2026-lamborghini-temerario-raises-the-bar-for-supercars/) (2026-02-06)
-- [New critique debunks claim that trees can sense a solar eclipse](https://arstechnica.com/science/2026/02/new-critique-debunks-claim-that-trees-can-sense-a-solar-eclipse/) (2026-02-06)
-- [Stellantis swallows $26 billion costs as it rethinks its EV strategy](https://arstechnica.com/cars/2026/02/stellantis-swallows-26-billion-costs-as-it-rethinks-its-ev-strategy/) (2026-02-06)
-- [Lawmakers ask what it would take to "store" the International Space Station](https://arstechnica.com/space/2026/02/congress-advances-bill-requiring-nasa-to-reconsider-deorbiting-space-station/) (2026-02-06)
-- [NASA stage show explores "outer" outer space with Henson's Fraggles](https://arstechnica.com/space/2026/02/nasa-stage-show-explores-outer-outer-space-with-hensons-fraggles/) (2026-02-06)
+- [Sixteen Claude AI agents working together created a new C compiler](https://arstechnica.com/ai/2026/02/sixteen-claude-ai-agents-working-together-created-a-new-c-compiler/) (2026-02-06)
+- [Penisgate erupts at Olympics; scandal exposes risks of bulking your bulge](https://arstechnica.com/health/2026/02/penisgate-erupts-at-olympics-scandal-exposes-risks-of-bulking-your-budge/) (2026-02-06)
+- [Lawyer sets new standard for abuse of AI; judge tosses case](https://arstechnica.com/tech-policy/2026/02/randomly-quoting-ray-bradbury-did-not-save-lawyer-from-losing-case-over-ai-errors/) (2026-02-06)
+- [Malicious packages for dYdX cryptocurrency exchange empties user wallets](https://arstechnica.com/security/2026/02/malicious-packages-for-dydx-cryptocurrency-exchange-empties-user-wallets/) (2026-02-06)
+- [Why $700 could be a "death sentence" for the Steam Machine](https://arstechnica.com/gaming/2026/02/why-a-bump-to-700-could-be-a-death-sentence-for-the-steam-machine/) (2026-02-06)
 
 </details>
 
@@ -97,23 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [CharleX Operating System](https://dev.to/amzy31/charlex-operating-system-3hj7) (2026-02-06)
-- [Quest: Epic CLI tool (Learn Code by Actually Building)](https://dev.to/cloutboi/quest-epic-cli-tool-learn-code-by-actually-building-5fi0) (2026-02-06)
-- [Building Clusterflick: A London Cinema Aggregator](https://dev.to/alistairjcbrown/building-clusterflick-a-london-cinema-aggregator-kk3) (2026-02-06)
-- [Claude Code: new Tasks persisting between sessions and Swarms of agents against Context Rot.](https://dev.to/simone_callegari_1f56a902/claude-code-new-tasks-persisting-between-sessions-and-swarms-of-agents-against-context-rot-5dan) (2026-02-06)
-- [Class, Object, Property and Methods in C#](https://dev.to/allcoderthings/class-object-property-and-methods-in-c-l66) (2026-02-06)
+- [AWS ElastiCache vs MemoryDB: Which One Do You Actually Need?](https://dev.to/anand_rathnas_d5b608cc3de/aws-elasticache-vs-memorydb-which-one-do-you-actually-need-26i9) (2026-02-07)
+- [StreetPack: A local-first docked launcher for safer CLI workflows](https://dev.to/trishula_software_8337734/streetpack-a-local-first-docked-launcher-for-safer-cli-workflows-4ohe) (2026-02-07)
+- [Why I Built a 100% Client-Side PDF Toolkit (And Why Privacy Matters)](https://dev.to/younes_haddaj/why-i-built-a-100-client-side-pdf-toolkit-and-why-privacy-matters-39o) (2026-02-07)
+- [Why Gas Monitoring Matters More Than You Think in Ethereum Backends](https://dev.to/alejandro_steiner/why-gas-monitoring-matters-more-than-you-think-in-ethereum-backends-15f0) (2026-02-07)
+- [Aeon: A Zero-Allocation Go Time Library That Treats Time as "Containers" Rather Than "Offsets"](https://dev.to/sbaa/aeon-a-zero-allocation-go-time-library-that-treats-time-as-containers-rather-than-offsets-28jm) (2026-02-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [RHAPSODY OF REALITIES - 6TH FEBRUARY 2026
-"We’re the restraining force against evil in the world…](https://medium.com/@folajeff/rhapsody-of-realities-6th-february-2026-were-the-restraining-force-against-evil-in-the-world-1c20576afe41?source=rss------programming-5) (2026-02-06)
-- [When My Assistant Started Talking Back: A Moment I Didn’t Expect](https://medium.com/@storytelleraicrew/when-my-assistant-started-talking-back-a-moment-i-didnt-expect-b6696a1024e1?source=rss------programming-5) (2026-02-06)
-- [Scheduled jobs using Background Service in .NET](https://medium.com/@shahzadadil07/scheduled-jobs-using-background-service-in-net-8b791b3f0c48?source=rss------programming-5) (2026-02-06)
-- [The Hidden Skill That Separates Mid-Level and Senior Engineers](https://observabilityguy.medium.com/the-hidden-skill-that-separates-mid-level-and-senior-engineers-f643ac68710d?source=rss------programming-5) (2026-02-06)
-- [How To Organize Minimal API Endpoints Inside Of Clean Architecture in .NET 10](https://medium.com/@mariammaurice/how-to-organize-minimal-api-endpoints-inside-of-clean-architecture-in-net-10-0efad52d3d37?source=rss------programming-5) (2026-02-06)
+- [Leetcode# 417: Pacific Atlantic Water Flow](https://medium.com/deluxify/leetcode-417-pacific-atlantic-water-flow-046bacdb7e26?source=rss------programming-5) (2026-02-07)
+- [AI Coding Assistants in 2026: Are Developers Becoming Architects Instead of Programmers?](https://medium.com/@sanukumar1138/ai-coding-assistants-in-2026-are-developers-becoming-architects-instead-of-programmers-497bdf051071?source=rss------programming-5) (2026-02-07)
+- [What Software Architects Should Be Able to Notice](https://medium.com/@aludanyi/what-software-architects-should-be-able-to-notice-184202f97c77?source=rss------programming-5) (2026-02-07)
+- [Stop Writing Java Utility Classes the Old Way: Use Functional Interfaces Instead](https://medium.com/@sunil17bbmp/stop-writing-java-utility-classes-the-old-way-use-functional-interfaces-instead-175c3d9e736e?source=rss------programming-5) (2026-02-07)
+- [He built Terraform, Vagrant, and Ghostty. Here’s how he stopped fighting AI and started using it.](https://jpcaparas.medium.com/he-built-terraform-vagrant-and-ghostty-heres-how-he-stopped-fighting-ai-and-started-using-it-f621baa834f2?source=rss------programming-5) (2026-02-07)
 
 </details>
 
@@ -537,11 +536,11 @@ https://www.twilio.com/en-us/blog/insights/organizational-silos
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [Accelerating Mamba2 with Kernel Fusion](https://pytorch.org/blog/accelerating-mamba2-with-kernel-fusion/) (2026-02-06)
+- [Some Matrix Multiplication Engines Are Not As Accurate As We Thought](https://pytorch.org/blog/some-matrix-multiplication-engines-are-not-as-accurate-as-we-thought/) (2026-02-06)
 - [Building Highly Efficient Inference System for Recommenders Using PyTorch](https://pytorch.org/blog/building-highly-efficient-inference-system-for-recommenders-using-pytorch/) (2026-02-05)
 - [Portable Paged Attention in Helion](https://pytorch.org/blog/portable-paged-attention-in-helion/) (2026-02-03)
 - [Unlock Reasoning in Llama 3.1-8B via Full Fine-Tuning on NVIDIA DGX Spark](https://pytorch.org/blog/unlock-reasoning-in-llama-3-1-8b-via-full-fine-tuning-on-nvidia-dgx-spark/) (2026-02-02)
-- [Accelerating On-Device ML Inference with ExecuTorch and Arm SME2](https://pytorch.org/blog/accelerating-on-device-ml-inference-with-executorch-and-arm-sme2/) (2026-01-29)
-- [PyTorch 2.10 Release Blog](https://pytorch.org/blog/pytorch-2-10-release-blog/) (2026-01-21)
 
 </details>
 
