@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [India has changed its startup rules for deep tech](https://techcrunch.com/2026/02/07/india-has-changed-its-startup-rules-for-deep-tech/) (2026-02-08)
 - [The kids ‘picked last in gym class’ gear up for Super Bowl](https://techcrunch.com/2026/02/07/the-kids-picked-last-in-gym-class-gear-up-for-super-bowl/) (2026-02-08)
 - [NBA star Giannis Antetokounmpo joins Kalshi as an investor](https://techcrunch.com/2026/02/07/nba-star-giannis-antetokounmpo-joins-kalshi-as-an-investor/) (2026-02-07)
 - [New York lawmakers propose a three-year pause on new data centers](https://techcrunch.com/2026/02/07/new-york-lawmakers-propose-a-three-year-pause-on-new-data-centers/) (2026-02-07)
 - [Benchmark raises $225M in special funds to double down on Cerebras](https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/) (2026-02-07)
-- [An AI startup founder says he’s planning a ‘March for Billionaires’ in protest of California’s wealth tax](https://techcrunch.com/2026/02/06/an-ai-startup-founder-says-hes-planning-a-march-for-billionaires-in-protest-of-californias-wealth-tax/) (2026-02-07)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [FDA intends to take action against non-FDA-approved GLP-1 drugs](https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs) (2026-02-07)
-- [Tiny C Compiler](https://bellard.org/tcc/) (2026-02-07)
-- [Microsoft account bugs locked me out of Notepad – Are thin clients ruining PCs?](https://www.windowscentral.com/microsoft/windows-11/windows-locked-me-out-of-notepad-is-the-thin-client-era-ruining-pcs) (2026-02-07)
-- [Brookhaven Lab's RHIC concludes 25-year run with final collisions](https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/) (2026-02-07)
-- [Speed up responses with fast mode](https://code.claude.com/docs/en/fast-mode) (2026-02-07)
+- [Why there is no official statement from Substack about the data leak](https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/) (2026-02-08)
+- [Bye Bye Humanity: The Potential AMOC Collapse](https://thatjoescott.com/2026/02/03/bye-bye-humanity-the-potential-amoc-collapse/) (2026-02-08)
+- [Vouch](https://twitter.com/mitchellh/status/2020252149117313349) (2026-02-08)
+- [Haskell for all: Beyond agentic coding](https://haskellforall.com/2026/02/beyond-agentic-coding) (2026-02-08)
+- [Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory](https://github.com/localgpt-app/localgpt) (2026-02-08)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Fedora配置Rime](https://dev.to/priscira/fedorapei-zhi-rime-2650) (2026-02-08)
-- [프로그래밍 개요](https://dev.to/koareum/paisseon-peurogeuraeming-gaeyo-5a0i) (2026-02-08)
-- [Fastfood: Approximate Kernel Expansions in Loglinear Time](https://dev.to/paperium/fastfood-approximate-kernel-expansions-in-loglinear-time-5bg4) (2026-02-08)
-- [The first real AI platform war is about ads (and that should worry builders)](https://dev.to/damogallagher/the-first-real-ai-platform-war-is-about-ads-and-that-should-worry-builders-4kdm) (2026-02-08)
-- [Measuring Model Hallucinations: When AI Invents Facts](https://dev.to/eriperspective/measuring-model-hallucinations-when-ai-invents-facts-3ae7) (2026-02-08)
+- [Claude Sync: Sync Your Claude Code Sessions Across All Your Devices Simplified](https://dev.to/tawanorg/claude-sync-sync-your-claude-code-sessions-across-all-your-devices-simplified-49bl) (2026-02-08)
+- [Python vs. a Modern BASIC Interpreter: When the “Toy Language” Actually Wins](https://dev.to/atomijd/python-vs-a-modern-basic-interpreter-when-the-toy-language-actually-wins-2h3j) (2026-02-08)
+- [I Built a YouTube Dislike Viewer with Next.js 16 — Here's How](https://dev.to/yege/i-built-a-youtube-dislike-viewer-with-nextjs-16-heres-how-a0b) (2026-02-08)
+- [Copilot vs Cursor vs Cody 2026: AI Coding Compared](https://dev.to/aristoaistack/copilot-vs-cursor-vs-cody-2026-ai-coding-compared-12jh) (2026-02-08)
+- [How to Host a Website on an Ubuntu VM Using VMware and Nginx and get unstuck if it doesn't load (Step-by-Step Guide)](https://dev.to/alok38/how-to-host-a-website-on-an-ubuntu-vm-using-vmware-and-nginx-step-by-step-guide-21io) (2026-02-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why Are You Still Writing Code? How AI Agents Are Redefining the Software Developer’s Role](https://medium.com/codetodeploy/why-are-you-still-writing-code-how-ai-agents-are-redefining-the-software-developers-role-42af7fc683ad?source=rss------programming-5) (2026-02-08)
-- [Hello Ikenga!](https://medium.com/@ehiia/hello-ikenga-efa5c6534ce3?source=rss------programming-5) (2026-02-08)
-- [Practical Python Tricks Part 10: Python’s Hidden Protocols Make Your Objects Compare and…](https://python.plainenglish.io/practical-python-tricks-part-7-pythons-hidden-protocols-make-your-objects-compare-and-c48c0076abef?source=rss------programming-5) (2026-02-08)
-- [Stop Sharing Databases in Microservices: The Database-per-Service Pattern Explained](https://medium.com/@sunil17bbmp/stop-sharing-databases-in-microservices-the-database-per-service-pattern-explained-705dd9288126?source=rss------programming-5) (2026-02-08)
-- [7 Python Skills AI Still Can’t Replace](https://python.plainenglish.io/7-python-skills-ai-still-cant-replace-d6bde11f6823?source=rss------programming-5) (2026-02-08)
+- [5 LLM Workflow Patterns for Building Scalable AI Applications: A Complete Guide (With Examples)](https://pub.towardsai.net/5-llm-workflow-patterns-for-building-scalable-ai-applications-a-complete-guide-376b7d7ccd1b?source=rss------programming-5) (2026-02-08)
+- [The Python Mistakes That Wasted Half Year of My Learning](https://blog.stackademic.com/the-python-mistakes-that-wasted-half-year-of-my-learning-f304090a9d72?source=rss------programming-5) (2026-02-08)
+- [How to Build Flexible Web Page Designs with CSS3 Flexbox](https://er-raj-aryan.medium.com/how-to-build-flexible-web-page-designs-with-css3-flexbox-57480772841f?source=rss------programming-5) (2026-02-08)
+- [8 Python One-Liners That Went Viral for the Wrong Reasons](https://levelup.gitconnected.com/8-python-one-liners-that-went-viral-for-the-wrong-reasons-a67a540c36e8?source=rss------programming-5) (2026-02-08)
+- [Master JavaScript Basics with Real Examples (Beginner Friendly Guide)](https://javascript.plainenglish.io/master-javascript-basics-with-real-examples-beginner-friendly-guide-288dc990aca3?source=rss------programming-5) (2026-02-08)
 
 </details>
 
