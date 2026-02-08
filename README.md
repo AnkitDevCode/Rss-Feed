@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The kids ‘picked last in gym class’ gear up for Super Bowl](https://techcrunch.com/2026/02/07/the-kids-picked-last-in-gym-class-gear-up-for-super-bowl/) (2026-02-08)
+- [NBA star Giannis Antetokounmpo joins Kalshi as an investor](https://techcrunch.com/2026/02/07/nba-star-giannis-antetokounmpo-joins-kalshi-as-an-investor/) (2026-02-07)
 - [New York lawmakers propose a three-year pause on new data centers](https://techcrunch.com/2026/02/07/new-york-lawmakers-propose-a-three-year-pause-on-new-data-centers/) (2026-02-07)
 - [Benchmark raises $225M in special funds to double down on Cerebras](https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/) (2026-02-07)
 - [An AI startup founder says he’s planning a ‘March for Billionaires’ in protest of California’s wealth tax](https://techcrunch.com/2026/02/06/an-ai-startup-founder-says-hes-planning-a-march-for-billionaires-in-protest-of-californias-wealth-tax/) (2026-02-07)
-- [‘Industry’ season 4 captures tech fraud better than any show on TV right now](https://techcrunch.com/2026/02/06/industry-season-4-captures-tech-fraud-better-than-any-show-on-tv-right-now/) (2026-02-07)
-- [Apple is working to make CarPlay compatible with AI chatbots like ChatGPT](https://techcrunch.com/2026/02/06/apple-is-working-to-make-carplay-compatible-with-ai-chatbots-like-chatgpt/) (2026-02-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [What Is Stoicism?](https://stoacentral.com/guides/what-is-stoicism) (2026-02-07)
-- [British drivers over 70 to face eye tests every three years](https://www.bbc.com/news/articles/c205nxy0p31o) (2026-02-07)
-- [Al Lowe on model trains, funny deaths and working with Disney](https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/) (2026-02-07)
-- [StrongDM's AI team build serious software without even looking at the code](https://simonwillison.net/2026/Feb/7/software-factory/) (2026-02-07)
-- [First Proof](https://arxiv.org/abs/2602.05192) (2026-02-07)
+- [FDA intends to take action against non-FDA-approved GLP-1 drugs](https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs) (2026-02-07)
+- [Tiny C Compiler](https://bellard.org/tcc/) (2026-02-07)
+- [Microsoft account bugs locked me out of Notepad – Are thin clients ruining PCs?](https://www.windowscentral.com/microsoft/windows-11/windows-locked-me-out-of-notepad-is-the-thin-client-era-ruining-pcs) (2026-02-07)
+- [Brookhaven Lab's RHIC concludes 25-year run with final collisions](https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/) (2026-02-07)
+- [Speed up responses with fast mode](https://code.claude.com/docs/en/fast-mode) (2026-02-07)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Former Tumblr head Jeff D’Onofrio steps in as acting CEO at the Washington Post](https://www.theverge.com/tech/875433/tumblr-jeff-donofrio-ceo-washington-post-layoffs) (2026-02-07)
+- [Super Bowl LX ads: all AI everything](https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game) (2026-02-07)
+- [GOG is already working on native Linux support](https://www.theverge.com/tech/875425/gog-native-linux-support) (2026-02-07)
+- [I went back to Linux and it was a mistake](https://www.theverge.com/report/875077/linux-was-a-mistake) (2026-02-07)
 - [LG’s C5 TV and Anker’s powerful power bank are this week’s best deals](https://www.theverge.com/gadgets/874585/lg-c5-tv-anker-power-bank-deal-sale-super-bowl) (2026-02-07)
-- [The second-gen AirTags are a scatterbrain’s best friend](https://www.theverge.com/tech/875314/airtags-second-gen-review-item-tracker) (2026-02-07)
-- [Anker’s new charger with a screen would feel less gimmicky if it did more](https://www.theverge.com/tech/873655/anker-nano-charger-smart-display-45w-folding-prongs) (2026-02-07)
-- [Cairn is a climbing journey about perseverance and obsession](https://www.theverge.com/games/874914/cairn-review-pc-playstation-5) (2026-02-07)
-- [The best way to watch the Olympics](https://www.theverge.com/tech/875154/how-to-watch-olympics-nintendo-muppets-installer) (2026-02-07)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Best AI Creative Workflow Platforms in 2026: A Hands-On Comparison](https://dev.to/alexmercer_creatives/best-ai-creative-workflow-platforms-in-2026-a-hands-on-comparison-51e8) (2026-02-07)
-- [We had 20 Claude terminals open. So we built an orchestration layer.](https://dev.to/buildingwwdavid/we-had-20-claude-terminals-open-so-we-built-an-orchestration-layer-l38) (2026-02-07)
-- [Go Made Me Fast. Rust Made Me Care. AWS Made Me Pay.](https://dev.to/art_light/go-made-me-fast-rust-made-me-care-aws-made-me-pay-2f82) (2026-02-07)
-- [How I Built a System to Automatically Sell Access to a Private GitHub Repo](https://dev.to/micronink/how-i-built-a-system-to-automatically-sell-access-to-a-private-github-repo-2dnm) (2026-02-07)
-- [Ethereum-Solidity Quiz Q29: What is an Overflow/Underflow?](https://dev.to/mihaihng/ethereum-solidity-quiz-q29-what-is-overflowunderflow-505a) (2026-02-07)
+- [Fedora配置Rime](https://dev.to/priscira/fedorapei-zhi-rime-2650) (2026-02-08)
+- [프로그래밍 개요](https://dev.to/koareum/paisseon-peurogeuraeming-gaeyo-5a0i) (2026-02-08)
+- [Fastfood: Approximate Kernel Expansions in Loglinear Time](https://dev.to/paperium/fastfood-approximate-kernel-expansions-in-loglinear-time-5bg4) (2026-02-08)
+- [The first real AI platform war is about ads (and that should worry builders)](https://dev.to/damogallagher/the-first-real-ai-platform-war-is-about-ads-and-that-should-worry-builders-4kdm) (2026-02-08)
+- [Measuring Model Hallucinations: When AI Invents Facts](https://dev.to/eriperspective/measuring-model-hallucinations-when-ai-invents-facts-3ae7) (2026-02-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Another Age of Transition in Software Engineering](https://medium.com/@bhumikadasari0/another-age-of-transition-in-software-engineering-5bdc524b83db?source=rss------programming-5) (2026-02-07)
-- [NumPy Basics — Lesson 1](https://medium.com/@ammshivam.research/numpy-basics-lesson-1-e3e52df0de09?source=rss------programming-5) (2026-02-07)
-- [Structuring Dependency Injection In ASP.NET Core The Right Way](https://medium.com/@mariammaurice/structuring-dependency-injection-in-asp-net-core-the-right-way-e559e1deadce?source=rss------programming-5) (2026-02-07)
-- [What the Claude Opus 4.6 Benchmarks Won’t Tell You](https://pub.towardsai.net/what-the-claude-opus-4-6-benchmarks-wont-tell-you-b0a62de36df1?source=rss------programming-5) (2026-02-07)
-- [Elegant Global Error Handling Using Middleware In .NET](https://medium.com/@michaelmaurice410/elegant-global-error-handling-using-middleware-in-net-ed7a0ad61604?source=rss------programming-5) (2026-02-07)
+- [Why Are You Still Writing Code? How AI Agents Are Redefining the Software Developer’s Role](https://medium.com/codetodeploy/why-are-you-still-writing-code-how-ai-agents-are-redefining-the-software-developers-role-42af7fc683ad?source=rss------programming-5) (2026-02-08)
+- [Hello Ikenga!](https://medium.com/@ehiia/hello-ikenga-efa5c6534ce3?source=rss------programming-5) (2026-02-08)
+- [Practical Python Tricks Part 10: Python’s Hidden Protocols Make Your Objects Compare and…](https://python.plainenglish.io/practical-python-tricks-part-7-pythons-hidden-protocols-make-your-objects-compare-and-c48c0076abef?source=rss------programming-5) (2026-02-08)
+- [Stop Sharing Databases in Microservices: The Database-per-Service Pattern Explained](https://medium.com/@sunil17bbmp/stop-sharing-databases-in-microservices-the-database-per-service-pattern-explained-705dd9288126?source=rss------programming-5) (2026-02-08)
+- [7 Python Skills AI Still Can’t Replace](https://python.plainenglish.io/7-python-skills-ai-still-cant-replace-d6bde11f6823?source=rss------programming-5) (2026-02-08)
 
 </details>
 
