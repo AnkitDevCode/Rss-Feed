@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Why there is no official statement from Substack about the data leak](https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/) (2026-02-08)
-- [Bye Bye Humanity: The Potential AMOC Collapse](https://thatjoescott.com/2026/02/03/bye-bye-humanity-the-potential-amoc-collapse/) (2026-02-08)
-- [Vouch](https://twitter.com/mitchellh/status/2020252149117313349) (2026-02-08)
-- [Haskell for all: Beyond agentic coding](https://haskellforall.com/2026/02/beyond-agentic-coding) (2026-02-08)
-- [Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory](https://github.com/localgpt-app/localgpt) (2026-02-08)
+- [Dave Farber has passed away](https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/) (2026-02-08)
+- [Why E cores make Apple Silicon fast](https://eclecticlight.co/2026/02/08/last-week-on-my-mac-why-e-cores-make-apple-silicon-fast/) (2026-02-08)
+- [(AI) Slop Terrifies Me](https://ezhik.jp/ai-slop-terrifies-me/) (2026-02-08)
+- [Curating a Show on My Ineffable Mother, Ursula K. Le Guin](https://hyperallergic.com/curating-a-show-on-my-ineffable-mother-ursula-k-le-guin/) (2026-02-08)
+- [In the Australian outback, we're listening for nuclear tests](https://www.abc.net.au/news/2026-02-08/australian-outback-nuclear-tests-listening-warramunga-facility/106307478) (2026-02-08)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Claude Sync: Sync Your Claude Code Sessions Across All Your Devices Simplified](https://dev.to/tawanorg/claude-sync-sync-your-claude-code-sessions-across-all-your-devices-simplified-49bl) (2026-02-08)
-- [Python vs. a Modern BASIC Interpreter: When the “Toy Language” Actually Wins](https://dev.to/atomijd/python-vs-a-modern-basic-interpreter-when-the-toy-language-actually-wins-2h3j) (2026-02-08)
-- [I Built a YouTube Dislike Viewer with Next.js 16 — Here's How](https://dev.to/yege/i-built-a-youtube-dislike-viewer-with-nextjs-16-heres-how-a0b) (2026-02-08)
-- [Copilot vs Cursor vs Cody 2026: AI Coding Compared](https://dev.to/aristoaistack/copilot-vs-cursor-vs-cody-2026-ai-coding-compared-12jh) (2026-02-08)
-- [How to Host a Website on an Ubuntu VM Using VMware and Nginx and get unstuck if it doesn't load (Step-by-Step Guide)](https://dev.to/alok38/how-to-host-a-website-on-an-ubuntu-vm-using-vmware-and-nginx-step-by-step-guide-21io) (2026-02-08)
+- [ContractCompass: Your AI Contract Analyst That Actually Speaks Human](https://dev.to/varshithvhegde/contractcompass-your-ai-contract-analyst-that-actually-speaks-human-nfo) (2026-02-08)
+- [I Built a Tiny Domain Inventory Tool (Because I Used to Buy Too Many Domains)](https://dev.to/davorg/i-built-a-tiny-domain-inventory-tool-because-i-used-to-buy-too-many-domains-45lg) (2026-02-08)
+- [Learning about WCAG Compliance](https://dev.to/dawid_ryczko/learning-about-wcag-compliance-417e) (2026-02-08)
+- [SSH Mastery 2026: From Zero to Hero - The Developer's Complete Guide](https://dev.to/md8_habibullah/ssh-mastery-2026-from-zero-to-hero-the-developers-complete-guide-1bla) (2026-02-08)
+- [We Searched the Agent Skills Ecosystem for SEO](https://dev.to/theskillsteam/we-searched-the-agent-skills-ecosystem-for-seo-1960) (2026-02-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [5 LLM Workflow Patterns for Building Scalable AI Applications: A Complete Guide (With Examples)](https://pub.towardsai.net/5-llm-workflow-patterns-for-building-scalable-ai-applications-a-complete-guide-376b7d7ccd1b?source=rss------programming-5) (2026-02-08)
-- [The Python Mistakes That Wasted Half Year of My Learning](https://blog.stackademic.com/the-python-mistakes-that-wasted-half-year-of-my-learning-f304090a9d72?source=rss------programming-5) (2026-02-08)
-- [How to Build Flexible Web Page Designs with CSS3 Flexbox](https://er-raj-aryan.medium.com/how-to-build-flexible-web-page-designs-with-css3-flexbox-57480772841f?source=rss------programming-5) (2026-02-08)
-- [8 Python One-Liners That Went Viral for the Wrong Reasons](https://levelup.gitconnected.com/8-python-one-liners-that-went-viral-for-the-wrong-reasons-a67a540c36e8?source=rss------programming-5) (2026-02-08)
-- [Master JavaScript Basics with Real Examples (Beginner Friendly Guide)](https://javascript.plainenglish.io/master-javascript-basics-with-real-examples-beginner-friendly-guide-288dc990aca3?source=rss------programming-5) (2026-02-08)
+- [7 Go libraries everyone recommends — and why I still skip them](https://medium.com/@yaninyzwitty/7-go-libraries-everyone-recommends-and-why-i-still-skip-them-2d805947afc9?source=rss------programming-5) (2026-02-08)
+- [From Sysadmin to DevOps: Breaking Down Barriers to New Opportunities](https://usamakhaninsights.medium.com/from-sysadmin-to-devops-breaking-down-barriers-to-new-opportunities-beea7c8809b1?source=rss------programming-5) (2026-02-08)
+- [شراء مكيفات السكراب خربان بالدمام 0549258415 شراء السكراب حديد نحس فورن ثلاجه مطابخ المنيوم الشرقية…](https://medium.com/@used_furniture_buying/%D8%B4%D8%B1%D8%A7%D8%A1-%D9%85%D9%83%D9%8A%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%83%D8%B1%D8%A7%D8%A8-%D8%AE%D8%B1%D8%A8%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85-0549258415-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%B3%D9%83%D8%B1%D8%A7%D8%A8-%D8%AD%D8%AF%D9%8A%D8%AF-%D9%86%D8%AD%D8%B3-%D9%81%D9%88%D8%B1%D9%86-%D8%AB%D9%84%D8%A7%D8%AC%D9%87-%D9%85%D8%B7%D8%A7%D8%A8%D8%AE-%D8%A7%D9%84%D9%85%D9%86%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9-e56b249e5dab?source=rss------programming-5) (2026-02-08)
+- [GPT-5.3 Codex Isn’t a Code Generator Anymore. Here’s What It Actually Is.](https://kotrotsos.medium.com/gpt-5-3-codex-isnt-a-code-generator-anymore-here-s-what-it-actually-is-4db26e852a82?source=rss------programming-5) (2026-02-08)
+- [Can You Outsmart Jane Street’s Tic Tac Toe Bot?](https://medium.com/math-games/can-you-outsmart-jane-streets-tic-tac-toe-bot-9b79ef25ae09?source=rss------programming-5) (2026-02-08)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ](https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/) (2026-02-04)
 - [PostgreSQL on Azure supercharged for AI](https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/) (2026-02-02)
 - [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
 - [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
 - [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
+- [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
 
 </details>
 
