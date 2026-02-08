@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [TechCrunch Mobility: Is $16B enough to build a profitable robotaxi business?](https://techcrunch.com/2026/02/08/techcrunch-mobility-is-16b-enough-to-build-a-profitable-robotaxi-business/) (2026-02-08)
+- [San Francisco’s pro-billionaire march draws dozens](https://techcrunch.com/2026/02/08/san-franciscos-pro-billionaire-march-draws-dozens/) (2026-02-08)
+- [From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads](https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/) (2026-02-08)
 - [India has changed its startup rules for deep tech](https://techcrunch.com/2026/02/07/india-has-changed-its-startup-rules-for-deep-tech/) (2026-02-08)
 - [The kids ‘picked last in gym class’ gear up for Super Bowl](https://techcrunch.com/2026/02/07/the-kids-picked-last-in-gym-class-gear-up-for-super-bowl/) (2026-02-08)
-- [NBA star Giannis Antetokounmpo joins Kalshi as an investor](https://techcrunch.com/2026/02/07/nba-star-giannis-antetokounmpo-joins-kalshi-as-an-investor/) (2026-02-07)
-- [New York lawmakers propose a three-year pause on new data centers](https://techcrunch.com/2026/02/07/new-york-lawmakers-propose-a-three-year-pause-on-new-data-centers/) (2026-02-07)
-- [Benchmark raises $225M in special funds to double down on Cerebras](https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/) (2026-02-07)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Dave Farber has passed away](https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/) (2026-02-08)
-- [Why E cores make Apple Silicon fast](https://eclecticlight.co/2026/02/08/last-week-on-my-mac-why-e-cores-make-apple-silicon-fast/) (2026-02-08)
-- [(AI) Slop Terrifies Me](https://ezhik.jp/ai-slop-terrifies-me/) (2026-02-08)
-- [Curating a Show on My Ineffable Mother, Ursula K. Le Guin](https://hyperallergic.com/curating-a-show-on-my-ineffable-mother-ursula-k-le-guin/) (2026-02-08)
-- [In the Australian outback, we're listening for nuclear tests](https://www.abc.net.au/news/2026-02-08/australian-outback-nuclear-tests-listening-warramunga-facility/106307478) (2026-02-08)
+- [Man, 83, Tricked by Scammers, Gets 21 Years to Life for Killing Uber Driver](https://www.nytimes.com/2026/02/02/us/ohio-man-kills-uber-driver-sentenced.html) (2026-02-08)
+- [Bun v1.3.9](https://bun.com/blog/bun-v1.3.9) (2026-02-08)
+- [The First Sodium-Ion Battery EV Is a Winter Range Monster](https://insideevs.com/news/786509/catl-changan-worlds-first-sodium-ion-battery-ev/) (2026-02-08)
+- [Let's compile Quake like it's 1997](https://fabiensanglard.net/compile_like_1997/index.html) (2026-02-08)
+- [Show HN: I created a Mars colony RPG based on Kim Stanley Robinson's Mars books](https://underhillgame.com/) (2026-02-08)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Former Tumblr head Jeff D’Onofrio steps in as acting CEO at the Washington Post](https://www.theverge.com/tech/875433/tumblr-jeff-donofrio-ceo-washington-post-layoffs) (2026-02-07)
-- [Super Bowl LX ads: all AI everything](https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game) (2026-02-07)
-- [GOG is already working on native Linux support](https://www.theverge.com/tech/875425/gog-native-linux-support) (2026-02-07)
-- [I went back to Linux and it was a mistake](https://www.theverge.com/report/875077/linux-was-a-mistake) (2026-02-07)
-- [LG’s C5 TV and Anker’s powerful power bank are this week’s best deals](https://www.theverge.com/gadgets/874585/lg-c5-tv-anker-power-bank-deal-sale-super-bowl) (2026-02-07)
+- [You need to listen to the new Mandy, Indiana record: URGH](https://www.theverge.com/entertainment/875469/mandy-indiana-urgh-review) (2026-02-08)
+- [The iPhone 17e could launch soon with MagSafe and an A19 chip](https://www.theverge.com/tech/875454/iphone-17e-launching-soon-magsafe-a19) (2026-02-08)
+- [How I Built the Star Trek control panel of my dreams](https://www.theverge.com/tech/862070/lcars-homes-assistant-star-trek) (2026-02-08)
+- [GuliKit’s tiny USB dongle lets you connect your PS5 controller to your Switch 2](https://www.theverge.com/tech/874842/gulikit-hyperlink-gen2-usb-adapter-wireless-switch-2-hands-on) (2026-02-08)
+- [Section 230 turns 30 as it faces its biggest tests yet](https://www.theverge.com/policy/875300/section-230-turns-30-social-media-addiction-cases-sunset) (2026-02-08)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [ContractCompass: Your AI Contract Analyst That Actually Speaks Human](https://dev.to/varshithvhegde/contractcompass-your-ai-contract-analyst-that-actually-speaks-human-nfo) (2026-02-08)
-- [I Built a Tiny Domain Inventory Tool (Because I Used to Buy Too Many Domains)](https://dev.to/davorg/i-built-a-tiny-domain-inventory-tool-because-i-used-to-buy-too-many-domains-45lg) (2026-02-08)
-- [Learning about WCAG Compliance](https://dev.to/dawid_ryczko/learning-about-wcag-compliance-417e) (2026-02-08)
-- [SSH Mastery 2026: From Zero to Hero - The Developer's Complete Guide](https://dev.to/md8_habibullah/ssh-mastery-2026-from-zero-to-hero-the-developers-complete-guide-1bla) (2026-02-08)
-- [We Searched the Agent Skills Ecosystem for SEO](https://dev.to/theskillsteam/we-searched-the-agent-skills-ecosystem-for-seo-1960) (2026-02-08)
+- [Anton Clew — Stop AI From Committing Regret](https://dev.to/earlgreyhot1701d/anton-clew-stop-ai-from-committing-regret-j71) (2026-02-08)
+- [DataPorter -- A Rails engine that turns data imports into a self-service feature](https://dev.to/seryl_lns_bf77ba67bf2953f/dataporter-a-rails-engine-that-turns-data-imports-into-a-self-service-feature-4lbf) (2026-02-08)
+- [Beyond "Find": Unleashing the Full Power of VS Code’s Search Engine](https://dev.to/it-wibrc/beyond-find-unleashing-the-full-power-of-vs-codes-search-engine-45j0) (2026-02-08)
+- [I Built a Chrome Extension to hide noisy GitHub Issue timeline events (with Copilot CLI)](https://dev.to/leereilly/i-built-a-chrome-extension-to-hide-noisy-github-issue-timeline-events-with-copilot-cli-255m) (2026-02-08)
+- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI.](https://dev.to/maggy_njuguna/power-bis-superpower-in-cleaning-datadax-and-creating-real-time-dashboards-282e) (2026-02-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [7 Go libraries everyone recommends — and why I still skip them](https://medium.com/@yaninyzwitty/7-go-libraries-everyone-recommends-and-why-i-still-skip-them-2d805947afc9?source=rss------programming-5) (2026-02-08)
-- [From Sysadmin to DevOps: Breaking Down Barriers to New Opportunities](https://usamakhaninsights.medium.com/from-sysadmin-to-devops-breaking-down-barriers-to-new-opportunities-beea7c8809b1?source=rss------programming-5) (2026-02-08)
-- [شراء مكيفات السكراب خربان بالدمام 0549258415 شراء السكراب حديد نحس فورن ثلاجه مطابخ المنيوم الشرقية…](https://medium.com/@used_furniture_buying/%D8%B4%D8%B1%D8%A7%D8%A1-%D9%85%D9%83%D9%8A%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%83%D8%B1%D8%A7%D8%A8-%D8%AE%D8%B1%D8%A8%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85-0549258415-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%B3%D9%83%D8%B1%D8%A7%D8%A8-%D8%AD%D8%AF%D9%8A%D8%AF-%D9%86%D8%AD%D8%B3-%D9%81%D9%88%D8%B1%D9%86-%D8%AB%D9%84%D8%A7%D8%AC%D9%87-%D9%85%D8%B7%D8%A7%D8%A8%D8%AE-%D8%A7%D9%84%D9%85%D9%86%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9-e56b249e5dab?source=rss------programming-5) (2026-02-08)
-- [GPT-5.3 Codex Isn’t a Code Generator Anymore. Here’s What It Actually Is.](https://kotrotsos.medium.com/gpt-5-3-codex-isnt-a-code-generator-anymore-here-s-what-it-actually-is-4db26e852a82?source=rss------programming-5) (2026-02-08)
-- [Can You Outsmart Jane Street’s Tic Tac Toe Bot?](https://medium.com/math-games/can-you-outsmart-jane-streets-tic-tac-toe-bot-9b79ef25ae09?source=rss------programming-5) (2026-02-08)
+- [FreeAppCenter — Free Software Downloads](https://medium.com/@livanapomer/freeappcenter-free-software-downloads-cbb0c8e4da17?source=rss------programming-5) (2026-02-08)
+- [⚡ ReactJS Optimization Mastery: Turbocharge Your Apps for Blazing Performance ](https://rajputlakhveer.medium.com/reactjs-optimization-mastery-turbocharge-your-apps-for-blazing-performance-92a3a037e7ba?source=rss------programming-5) (2026-02-08)
+- [Bindu Reddy on AI’s Paradox: Making Programmers Worse at Programming](https://medium.com/@bindupreddy/bindu-reddy-on-ais-paradox-making-programmers-worse-at-programming-c80a86206e7d?source=rss------programming-5) (2026-02-08)
+- [Deep Mind: The High-Performance Operating System for Elite Professionals](https://medium.com/@vaibhav_14ry/deep-mind-the-high-performance-operating-system-for-elite-professionals-512fc814bca6?source=rss------programming-5) (2026-02-08)
+- [Monkey Patching Protocols — dynamically wiring objects at runtime](https://medium.com/@tihomir.manushev/monkey-patching-protocols-dynamically-wiring-objects-at-runtime-fd9af6572a39?source=rss------programming-5) (2026-02-08)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ](https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/) (2026-02-04)
 - [PostgreSQL on Azure supercharged for AI](https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/) (2026-02-02)
 - [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
 - [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
 - [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
-- [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) (2026-01-14)
 
 </details>
 
@@ -580,11 +580,11 @@ https://www.twilio.com/en-us/blog/insights/what-is-branded-calling
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Legal Aspects of AI in Marketing](https://www.analyticsvidhya.com/blog/2026/02/legal-aspects-of-ai-in-marketing/) (2026-02-08)
+- [30+ Data Engineer Interview Questions and Answers](https://www.analyticsvidhya.com/blog/2026/02/data-engineer-interview-questions/) (2026-02-08)
 - [30 Agentic AI Interview Questions and Answers: From Beginner to Advanced](https://www.analyticsvidhya.com/blog/2026/02/agentic-ai-interview-questions-and-answers/) (2026-02-07)
 - [Build an Agent with Nanobot, Lighter Replacement for OpenClaw](https://www.analyticsvidhya.com/blog/2026/02/ai-crypto-tracker-with-nanobot/) (2026-02-07)
 - [Claude Opus 4.6 vs OpenAI Codex 5.3: Which is Better?](https://www.analyticsvidhya.com/blog/2026/02/claude-opus-4-6-vs-openai-codex-5-3/) (2026-02-06)
-- [Is OpenAI’s GPT-5.3 Codex Worth the Hype?](https://www.analyticsvidhya.com/blog/2026/02/gpt-5-3-codex-hands-on/) (2026-02-06)
-- [My Honest Review of Claude Opus 4.6: Is It Worth the Hype?](https://www.analyticsvidhya.com/blog/2026/02/claude-opus-4-6-review/) (2026-02-06)
 
 </details>
 
