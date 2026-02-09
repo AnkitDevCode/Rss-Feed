@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Nobody knows how the whole system works](https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/) (2026-02-09)
-- [A tough labor market for white-collar workers has turned recruiting upside down](https://www.wsj.com/lifestyle/careers/job-hunters-are-so-desperate-that-theyre-paying-to-get-recruited-44891ac2) (2026-02-09)
-- [TSMC to make advanced AI semiconductors in Japan](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5) (2026-02-09)
-- [Claude’s C Compiler vs. GCC](https://harshanu.space/en/tech/ccc-vs-gcc/) (2026-02-09)
-- [Every book recommended on the Odd Lots Discord](https://odd-lots-books.netlify.app/) (2026-02-08)
+- [Show HN: Browse Internet Infrastructure](https://www.wirewiki.com) (2026-02-09)
+- [Matrix messaging gaining ground in government IT](https://www.theregister.com/2026/02/09/matrix_element_secure_chat/) (2026-02-09)
+- [Show HN: Minimal NIST/OWASP-compliant auth implementation for Cloudflare Workers](https://github.com/vhscom/private-landing) (2026-02-09)
+- [Offpunk 3.0](https://ploum.net/2026-02-09-offpunk3.html) (2026-02-09)
+- [Show HN: Algorithmically Finding the Longest Line of Sight on Earth](https://alltheviews.world) (2026-02-09)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [HBO Max is finally launching in the UK next month](https://www.theverge.com/streaming/875668/hbo-max-is-finally-launching-in-the-uk-next-month) (2026-02-09)
+- [Live Nation’s monopoly trial is reportedly fracturing Trump’s Justice Department](https://www.theverge.com/policy/875665/live-nation-ticketmaster-settlement-doj-discussions-monopoly-trial) (2026-02-09)
+- [This whistle fights fascists](https://www.theverge.com/policy/874959/3d-printed-whistles-for-ice-minneapolis-chicago-renee-good-alex-pretti) (2026-02-09)
 - [OpenAI’s supposedly ‘leaked’ Super Bowl ad with ear buds and a shiny orb was a hoax](https://www.theverge.com/ai-artificial-intelligence/875615/openai-super-bowl-ai-hardware-leak-hoax-fake) (2026-02-09)
 - [Super Bowl LX ads: all AI everything](https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game) (2026-02-08)
-- [YouTube Music starts putting lyrics behind a paywall](https://www.theverge.com/streaming/875511/youtube-music-lyrics-paywall) (2026-02-08)
-- [New York is considering two bills to rein in the AI industry](https://www.theverge.com/ai-artificial-intelligence/875501/new-york-is-considering-two-bills-to-rein-in-the-ai-industry) (2026-02-08)
-- [You need to listen to the new Mandy, Indiana record: URGH](https://www.theverge.com/entertainment/875469/mandy-indiana-urgh-review) (2026-02-08)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Making AI Work, MIT Technology Review’s new AI newsletter, is here](https://www.technologyreview.com/2026/02/09/1132462/ai-newsletter-professional-applications/) (2026-02-09)
 - [Moltbook was peak AI theater](https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/) (2026-02-06)
 - [The Download: helping cancer survivors to give birth, and cleaning up Bangladesh’s garment industry](https://www.technologyreview.com/2026/02/06/1132375/the-download-helping-cancer-survivors-to-give-birth-and-cleaning-up-bangladeshs-garment-industry/) (2026-02-06)
 - [An experimental surgery is helping cancer survivors give birth](https://www.technologyreview.com/2026/02/06/1132319/experimental-surgery-colorectal-cancer-survivors-pregnant-birth/) (2026-02-06)
 - [Consolidating systems for AI with iPaaS](https://www.technologyreview.com/2026/02/05/1132200/consolidating-systems-for-ai-with-ipaas/) (2026-02-05)
-- [The Download: attempting to track AI, and the next generation of nuclear power](https://www.technologyreview.com/2026/02/05/1132270/the-download-attempting-to-track-ai-and-the-next-generation-of-nuclear-power/) (2026-02-05)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [📚 StudyStream: Your AI Learning Companion That Actually Gets You!](https://dev.to/ha3k/studystream-your-ai-learning-companion-that-actually-gets-you-4la6) (2026-02-09)
-- [SocialFi: How Farcaster and Lens Are Redesigning Social on Web3](https://dev.to/ribhavmodi/socialfi-how-farcaster-and-lens-are-redesigning-social-on-web3-mhd) (2026-02-09)
-- [Sofia Core - Open Source AI Infrastructure with DNA Computing](https://dev.to/emeraldorbit/sofia-core-open-source-ai-infrastructure-with-dna-computing-35nj) (2026-02-09)
-- [Power Automate - Building Readable Flows](https://dev.to/wyattdave/power-automate-building-readable-flows-dkd) (2026-02-09)
-- [How to Stop Burning Budget on Over-Hyped Image Models (The Selection Framework)](https://dev.to/markk40123/how-to-stop-burning-budget-on-over-hyped-image-models-the-selection-framework-2p4a) (2026-02-09)
+- [From Vogue’s Lens to the Web: A Story of Creative Collaboration](https://dev.to/reklamof/from-vogues-lens-to-the-web-a-story-of-creative-collaboration-1bcg) (2026-02-09)
+- [Variables and Constants](https://dev.to/sjue_bsjs_45955e4c6361540/variables-and-constants-42f8) (2026-02-09)
+- [Pingora Deep Dive: The Rust Proxy That Retired NGINX](https://dev.to/kanywst/pingora-the-rust-proxy-that-retired-nginx-2hd1) (2026-02-09)
+- [Secure Storage for Azure Files and Azure Blob Storage](https://dev.to/pirrezz/secure-storage-for-azure-files-and-azure-blob-storage-194k) (2026-02-09)
+- [Claude Code Hooks: Complete Guide with 20+ Ready-to-Use Examples (2026)](https://dev.to/lukaszfryc/claude-code-hooks-complete-guide-with-20-ready-to-use-examples-2026-dcg) (2026-02-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Secret Life of Go: The ‘defer’ Statement](https://medium.com/@aaron.rose.tx/the-secret-life-of-go-the-defer-statement-9e737d3fe202?source=rss------programming-5) (2026-02-09)
-- [C vs. C++ vs. Rust: How I would choose as a beginner in 2026](https://medium.com/@c3p0_81325/c-vs-c-vs-rust-how-i-would-choose-as-a-beginner-in-2026-af341423bc97?source=rss------programming-5) (2026-02-09)
-- [Introduction to Machine Learning](https://medium.com/@TechiesSpot/introduction-to-machine-learning-16e70c3dfee6?source=rss------programming-5) (2026-02-09)
-- [When Programming Stopped Feeling Creative — and Why That’s Not a Bad Thing](https://medium.com/@sovannaro/when-programming-stopped-feeling-creative-and-why-thats-not-a-bad-thing-d961d47c899a?source=rss------programming-5) (2026-02-09)
-- [The Vibe Coding Wars: What the Pichai-Vembu Divide Reveals About Silicon Valley’s Future](https://medium.com/@rekhadcm/the-vibe-coding-wars-what-the-pichai-vembu-divide-reveals-about-silicon-valleys-future-188f9757a1ac?source=rss------programming-5) (2026-02-09)
+- [ Are We All Senior Engineers Now?](https://medium.com/@nikhil2050/are-we-all-senior-engineers-now-e8974ab75e06?source=rss------programming-5) (2026-02-09)
+- [Kotlin Pattern Printing: Stars + Number Triangle (Beginner Friendly)](https://medium.com/@compilequest/kotlin-pattern-printing-stars-number-triangle-beginner-friendly-95166e6f3c52?source=rss------programming-5) (2026-02-09)
+- [GPT-5.3-Codex Just Dropped — And It Changes Everything About AI Coding Agents](https://kasata.medium.com/gpt-5-3-codex-just-dropped-and-it-changes-everything-about-ai-coding-agents-b0c3b96fc9b9?source=rss------programming-5) (2026-02-09)
+- [From Magic to Logic: A First-Year Student’s Journey with C](https://medium.com/@anisurrahmanfarazi17/from-magic-to-logic-a-first-year-students-journey-with-c-8f2157d876a1?source=rss------programming-5) (2026-02-09)
+- [Why Linear Effort Fails: How I Built a System to Survive the "UNSW Crunch" (and Generated…](https://medium.com/@haoyingunsw2025/why-linear-effort-fails-how-i-built-a-system-to-survive-the-unsw-crunch-and-generated-60a70ed8cf82?source=rss------programming-5) (2026-02-09)
 
 </details>
 
@@ -503,11 +503,11 @@ https://www.twilio.com/en-us/blog/insights/what-is-branded-calling
 <details>
 <summary>💬 Slack API</summary>
 
+- [A Guide to Migrating From Microsoft Teams to Slack](https://slack.com/blog/transformation/teams-to-slack-migration) (2026-02-06)
+- [How We Rebuilt Slackbot](https://slack.com/blog/productivity/how-we-rebuilt-slackbot) (2026-02-06)
+- [How to Implement Agile: Steps, Frameworks, and Best Practices](https://slack.com/blog/productivity/agile-principles) (2026-02-03)
 - [What Are Conversational Agents? A Simple Guide](https://slack.com/blog/productivity/conversational-agents) (2026-02-03)
-- [How to Define Key Performance Indicators (KPIs): Types and Examples](https://slack.com/blog/productivity/how-to-define-key-performance-indicators-kpis-types-and-examples) (2026-01-30)
-- [From Guesswork to Growth: Five Steps to Effective Performance Monitoring](https://slack.com/blog/productivity/from-guesswork-to-growth-five-steps-to-effective-performance-monitoring) (2026-01-30)
-- [Slack Feature Drop: New Slack Features to Cut Through the Chill](https://slack.com/blog/news/feature-drop-jan26) (2026-01-30)
-- [Proactive AI Agents: Definition, Core Components, and Business Value](https://slack.com/blog/productivity/proactive-ai-agents-definition-core-components-and-business-value) (2026-01-30)
+- [A Complete Guide to the Kanban Method](https://slack.com/blog/productivity/the-kanban-system-simplified-tips-for-efficiency) (2026-02-03)
 
 </details>
 
@@ -556,24 +556,35 @@ https://www.twilio.com/en-us/blog/insights/what-is-branded-calling
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [What AI can (and can’t) tell us about XRP in ETF-driven markets](https://www.artificialintelligence-news.com/news/what-ai-can-and-cant-tell-us-about-xrp-in-etf-driven-markets/) (2026-02-09)
+- [Exclusive: Why are Chinese AI models dominating open-source as Western labs step back?](https://www.artificialintelligence-news.com/news/chinese-ai-models-175k-unprotected-systems-western-retreat/) (2026-02-09)
+- [Cryptocurrency markets a testbed for AI forecasting models](https://www.artificialintelligence-news.com/news/cryptocurrency-markets-a-testbed-for-ai-forecasting-models/) (2026-02-09)
+- [Goldman Sachs tests autonomous AI agents for process-heavy work](https://www.artificialintelligence-news.com/news/goldman-sachs-tests-autonomous-ai-agents-for-process-heavy-work/) (2026-02-09)
+- [How separating logic and search boosts AI agent scalability](https://www.artificialintelligence-news.com/news/how-separating-logic-and-search-boosts-ai-agent-scalability/) (2026-02-06)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Death of the “Everything Prompt”: Google’s Move Toward Structured AI](https://towardsdatascience.com/the-death-of-the-everything-prompt-googles-move-toward-structured-ai/) (2026-02-09)
 - [What I Am Doing to Stay Relevant as a Senior Analytics Consultant in 2026](https://towardsdatascience.com/what-i-am-doing-to-stay-relevant-as-a-senior-analytics-consultant-in-2026/) (2026-02-07)
 - [Pydantic Performance: 4 Tips on How to Validate Large Amounts of Data Efficiently](https://towardsdatascience.com/pydantic-performance-4-tips-on-how-to-validate-large-amounts-of-data-efficiently/) (2026-02-06)
 - [Prompt Fidelity: Measuring How Much of Your Intent an AI Agent Actually Executes](https://towardsdatascience.com/prompt-fidelity-measuring-how-much-of-your-intent-an-ai-agent-actually-executes/) (2026-02-06)
 - [TDS Newsletter: Vibe Coding Is Great. Until It’s Not.](https://towardsdatascience.com/tds-newsletter-vibe-coding-is-great-until-its-not/) (2026-02-05)
-- [Mechanistic Interpretability: Peeking Inside an LLM](https://towardsdatascience.com/mechanistic-interpretability-peeking-inside-an-llm/) (2026-02-05)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Custom AI Tool Development in Regulated Industries: Why Off-The-Shelf LLM Solutions Fall Short](https://www.analyticsvidhya.com/blog/2026/02/why-industries-need-custom-ai-tools/) (2026-02-09)
+- [OpenClaw 2026.2.3: Building Safer, More Reliable Agents](https://www.analyticsvidhya.com/blog/2026/02/openclaw-2026-2-3/) (2026-02-09)
 - [Legal Aspects of AI in Marketing](https://www.analyticsvidhya.com/blog/2026/02/legal-aspects-of-ai-in-marketing/) (2026-02-08)
 - [30+ Data Engineer Interview Questions and Answers](https://www.analyticsvidhya.com/blog/2026/02/data-engineer-interview-questions/) (2026-02-08)
 - [30 Agentic AI Interview Questions and Answers: From Beginner to Advanced](https://www.analyticsvidhya.com/blog/2026/02/agentic-ai-interview-questions-and-answers/) (2026-02-07)
-- [Build an Agent with Nanobot, Lighter Replacement for OpenClaw](https://www.analyticsvidhya.com/blog/2026/02/ai-crypto-tracker-with-nanobot/) (2026-02-07)
-- [Claude Opus 4.6 vs OpenAI Codex 5.3: Which is Better?](https://www.analyticsvidhya.com/blog/2026/02/claude-opus-4-6-vs-openai-codex-5-3/) (2026-02-06)
 
 </details>
 
