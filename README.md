@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Microsoft Outlook thinks Microsoft Azure emails are spam](https://twitter.com/OrganicGPT/status/2020327350379196602) (2026-02-09)
+- [Nobody knows how the whole system works](https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/) (2026-02-09)
+- [A tough labor market for white-collar workers has turned recruiting upside down](https://www.wsj.com/lifestyle/careers/job-hunters-are-so-desperate-that-theyre-paying-to-get-recruited-44891ac2) (2026-02-09)
+- [TSMC to make advanced AI semiconductors in Japan](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5) (2026-02-09)
+- [Claude’s C Compiler vs. GCC](https://harshanu.space/en/tech/ccc-vs-gcc/) (2026-02-09)
 - [Every book recommended on the Odd Lots Discord](https://odd-lots-books.netlify.app/) (2026-02-08)
-- [AI makes the easy part easier and the hard part harder](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder) (2026-02-08)
-- [Show HN: A custom font that displays Cistercian numerals using ligatures](https://bobbiec.github.io/cistercian-font.html) (2026-02-08)
-- [Toma (YC W24) Is Hiring Founding Engineers](https://www.ycombinator.com/companies/toma/jobs/oONUnCf-founding-engineer-ai-products) (2026-02-08)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [OpenAI’s supposedly ‘leaked’ Super Bowl ad with ear buds and a shiny orb was a hoax](https://www.theverge.com/ai-artificial-intelligence/875615/openai-super-bowl-ai-hardware-leak-hoax-fake) (2026-02-09)
 - [Super Bowl LX ads: all AI everything](https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game) (2026-02-08)
 - [YouTube Music starts putting lyrics behind a paywall](https://www.theverge.com/streaming/875511/youtube-music-lyrics-paywall) (2026-02-08)
 - [New York is considering two bills to rein in the AI industry](https://www.theverge.com/ai-artificial-intelligence/875501/new-york-is-considering-two-bills-to-rein-in-the-ai-industry) (2026-02-08)
 - [You need to listen to the new Mandy, Indiana record: URGH](https://www.theverge.com/entertainment/875469/mandy-indiana-urgh-review) (2026-02-08)
-- [The iPhone 17e could launch soon with MagSafe and an A19 chip](https://www.theverge.com/tech/875454/iphone-17e-launching-soon-magsafe-a19) (2026-02-08)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [5 AI Coding Patterns That Actually Work (2026 Edition)](https://dev.to/rakesh1002/5-ai-coding-patterns-that-actually-work-2026-edition-13m5) (2026-02-09)
-- [Cloud Newbies: Avoid These 5 Costly Pitfalls! | Cloud Cost Optimization](https://dev.to/pennypeinee88/cloud-newbies-avoid-these-5-costly-pitfalls-cloud-cost-optimization-24k8) (2026-02-09)
-- [Stop miscalculating age in JavaScript: leap years, Feb 29, and the Jan 31 trap](https://dev.to/momin_ali_e002a22d102ff40/stop-miscalculating-age-in-javascript-leap-years-feb-29-and-the-jan-31-trap-22aj) (2026-02-09)
-- [Quantified Self: Building a Blazing Fast Health Dashboard with DuckDB and Streamlit](https://dev.to/wellallytech/quantified-self-building-a-blazing-fast-health-dashboard-with-duckdb-and-streamlit-1d6f) (2026-02-09)
-- [The Future of Go Network Programming: What's Next for Gophers?](https://dev.to/jones_charles_ad50858dbc0/the-future-of-go-network-programming-whats-next-for-gophers-1304) (2026-02-09)
+- [📚 StudyStream: Your AI Learning Companion That Actually Gets You!](https://dev.to/ha3k/studystream-your-ai-learning-companion-that-actually-gets-you-4la6) (2026-02-09)
+- [SocialFi: How Farcaster and Lens Are Redesigning Social on Web3](https://dev.to/ribhavmodi/socialfi-how-farcaster-and-lens-are-redesigning-social-on-web3-mhd) (2026-02-09)
+- [Sofia Core - Open Source AI Infrastructure with DNA Computing](https://dev.to/emeraldorbit/sofia-core-open-source-ai-infrastructure-with-dna-computing-35nj) (2026-02-09)
+- [Power Automate - Building Readable Flows](https://dev.to/wyattdave/power-automate-building-readable-flows-dkd) (2026-02-09)
+- [How to Stop Burning Budget on Over-Hyped Image Models (The Selection Framework)](https://dev.to/markk40123/how-to-stop-burning-budget-on-over-hyped-image-models-the-selection-framework-2p4a) (2026-02-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Unspoken Challenges: What Every Aspiring Frontend Developer Needs to Know](https://caksaji.medium.com/the-unspoken-challenges-what-every-aspiring-frontend-developer-needs-to-know-6479f6332a9e?source=rss------programming-5) (2026-02-09)
-- [How I got $600 bounty from a self hosted programme](https://osintteam.blog/how-i-got-600-bounty-from-a-self-hosted-programme-fddd550b7850?source=rss------programming-5) (2026-02-09)
-- [I Rewrote One Python Script Using These 9 Features — and Deleted Half the Code](https://medium.com/h7w/i-rewrote-one-python-script-using-these-9-features-and-deleted-half-the-code-bfe02e8fb286?source=rss------programming-5) (2026-02-09)
-- [Kotlin’s Compiler as a Cognitive Ally: Smart Casts, Type Inference, and the Architecture It…](https://medium.com/@mrhotfix/kotlins-compiler-as-a-cognitive-ally-smart-casts-type-inference-and-the-architecture-it-5a5cfbdda13d?source=rss------programming-5) (2026-02-09)
-- [The Factory That Broke Itself in One Click](https://medium.com/@mootazbellehweslati/the-factory-that-broke-itself-in-one-click-e240b4eb9d36?source=rss------programming-5) (2026-02-09)
+- [The Secret Life of Go: The ‘defer’ Statement](https://medium.com/@aaron.rose.tx/the-secret-life-of-go-the-defer-statement-9e737d3fe202?source=rss------programming-5) (2026-02-09)
+- [C vs. C++ vs. Rust: How I would choose as a beginner in 2026](https://medium.com/@c3p0_81325/c-vs-c-vs-rust-how-i-would-choose-as-a-beginner-in-2026-af341423bc97?source=rss------programming-5) (2026-02-09)
+- [Introduction to Machine Learning](https://medium.com/@TechiesSpot/introduction-to-machine-learning-16e70c3dfee6?source=rss------programming-5) (2026-02-09)
+- [When Programming Stopped Feeling Creative — and Why That’s Not a Bad Thing](https://medium.com/@sovannaro/when-programming-stopped-feeling-creative-and-why-thats-not-a-bad-thing-d961d47c899a?source=rss------programming-5) (2026-02-09)
+- [The Vibe Coding Wars: What the Pichai-Vembu Divide Reveals About Silicon Valley’s Future](https://medium.com/@rekhadcm/the-vibe-coding-wars-what-the-pichai-vembu-divide-reveals-about-silicon-valleys-future-188f9757a1ac?source=rss------programming-5) (2026-02-09)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/) (2026-02-05)
 - [Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ](https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/) (2026-02-04)
 - [PostgreSQL on Azure supercharged for AI](https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/) (2026-02-02)
 - [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
 - [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
+- [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
 
 </details>
 
@@ -481,11 +481,11 @@ https://www.twilio.com/en-us/blog/insights/what-is-branded-calling
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
+- [Spring ’26リリースで、Salesforce開発者が注目すべき機能を紹介](https://developer.salesforce.com/blogs/2026/02/developers-guide-to-the-spring-26-release-jp) (2026-02-09)
 - [Generate Mobile Apps in Minutes with the Pro-Code Mobile App Generation Ecosystem (MAGE)](https://developer.salesforce.com/blogs/2026/02/generate-mobile-apps-in-minutes-with-the-pro-code-mobile-app-generation-ecosystem-mage) (2026-02-05)
 - [外部アプリから Salesforce API にアクセスする方法](https://developer.salesforce.com/blogs/2026/02/jp-access-the-salesforce-api-from-externalclientapp) (2026-02-03)
 - [Streamline Data 360 Onboarding with API-Driven Automation](https://developer.salesforce.com/blogs/2026/02/streamline-data-360-onboarding-with-api-driven-automation) (2026-02-03)
 - [Create Faster, Lighter Experience Cloud Sites with Omnistudio Components and LWR](https://developer.salesforce.com/blogs/2026/01/create-faster-lighter-experience-cloud-sites-with-omnistudio-components-and-lwr) (2026-01-27)
-- [The Salesforce Developer’s Guide to the Spring ’26 Release](https://developer.salesforce.com/blogs/2026/01/developers-guide-to-the-spring-26-release) (2026-01-22)
 
 </details>
 
@@ -552,17 +552,6 @@ https://www.twilio.com/en-us/blog/insights/what-is-branded-calling
 - [Community Evals: Because we're done trusting black-box leaderboards over the community](https://huggingface.co/blog/community-evals) (2026-02-04)
 - [H Company's new Holo2 model takes the lead in UI Localization](https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b) (2026-02-03)
 - [The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+](https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3) (2026-02-03)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [How separating logic and search boosts AI agent scalability](https://www.artificialintelligence-news.com/news/how-separating-logic-and-search-boosts-ai-agent-scalability/) (2026-02-06)
-- [Intuit, Uber, and State Farm trial AI agents inside enterprise workflows](https://www.artificialintelligence-news.com/news/intuit-uber-and-state-farm-trial-ai-agents-inside-enterprise-workflows/) (2026-02-06)
-- [SuperCool review: Evaluating the reality of autonomous creation](https://www.artificialintelligence-news.com/news/supercool-review-evaluating-the-reality-of-autonomous-creation/) (2026-02-06)
-- [Top 7 best AI penetration testing companies in 2026](https://www.artificialintelligence-news.com/news/top-7-best-ai-penetration-testing-companies-in-2026/) (2026-02-06)
-- [AI Expo 2026 Day 2: Moving experimental pilots to AI production](https://www.artificialintelligence-news.com/news/ai-expo-2026-day-2-moving-experimental-pilots-ai-production/) (2026-02-05)
 
 </details>
 
