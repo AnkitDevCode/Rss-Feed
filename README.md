@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Amazon’s ‘Melania’ documentary stumbles in second weekend](https://techcrunch.com/2026/02/08/amazons-melania-documentary-stumbles-in-second-weekend/) (2026-02-08)
+- [Crypto.com places $70M bet on AI.com domain ahead of Super Bowl](https://techcrunch.com/2026/02/08/crypto-com-places-70m-bet-on-ai-com-domain-ahead-of-super-bowl/) (2026-02-08)
+- [Okay, I’m slightly less mad about that ‘Magnificent Ambersons’ AI project](https://techcrunch.com/2026/02/08/okay-im-slightly-less-mad-about-that-magnificent-ambersons-ai-project/) (2026-02-08)
 - [TechCrunch Mobility: Is $16B enough to build a profitable robotaxi business?](https://techcrunch.com/2026/02/08/techcrunch-mobility-is-16b-enough-to-build-a-profitable-robotaxi-business/) (2026-02-08)
 - [San Francisco’s pro-billionaire march draws dozens](https://techcrunch.com/2026/02/08/san-franciscos-pro-billionaire-march-draws-dozens/) (2026-02-08)
-- [From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads](https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/) (2026-02-08)
-- [India has changed its startup rules for deep tech](https://techcrunch.com/2026/02/07/india-has-changed-its-startup-rules-for-deep-tech/) (2026-02-08)
-- [The kids ‘picked last in gym class’ gear up for Super Bowl](https://techcrunch.com/2026/02/07/the-kids-picked-last-in-gym-class-gear-up-for-super-bowl/) (2026-02-08)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Man, 83, Tricked by Scammers, Gets 21 Years to Life for Killing Uber Driver](https://www.nytimes.com/2026/02/02/us/ohio-man-kills-uber-driver-sentenced.html) (2026-02-08)
-- [Bun v1.3.9](https://bun.com/blog/bun-v1.3.9) (2026-02-08)
-- [The First Sodium-Ion Battery EV Is a Winter Range Monster](https://insideevs.com/news/786509/catl-changan-worlds-first-sodium-ion-battery-ev/) (2026-02-08)
-- [Let's compile Quake like it's 1997](https://fabiensanglard.net/compile_like_1997/index.html) (2026-02-08)
-- [Show HN: I created a Mars colony RPG based on Kim Stanley Robinson's Mars books](https://underhillgame.com/) (2026-02-08)
+- [Microsoft Outlook thinks Microsoft Azure emails are spam](https://twitter.com/OrganicGPT/status/2020327350379196602) (2026-02-09)
+- [Every book recommended on the Odd Lots Discord](https://odd-lots-books.netlify.app/) (2026-02-08)
+- [AI makes the easy part easier and the hard part harder](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder) (2026-02-08)
+- [Show HN: A custom font that displays Cistercian numerals using ligatures](https://bobbiec.github.io/cistercian-font.html) (2026-02-08)
+- [Toma (YC W24) Is Hiring Founding Engineers](https://www.ycombinator.com/companies/toma/jobs/oONUnCf-founding-engineer-ai-products) (2026-02-08)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Super Bowl LX ads: all AI everything](https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game) (2026-02-08)
+- [YouTube Music starts putting lyrics behind a paywall](https://www.theverge.com/streaming/875511/youtube-music-lyrics-paywall) (2026-02-08)
+- [New York is considering two bills to rein in the AI industry](https://www.theverge.com/ai-artificial-intelligence/875501/new-york-is-considering-two-bills-to-rein-in-the-ai-industry) (2026-02-08)
 - [You need to listen to the new Mandy, Indiana record: URGH](https://www.theverge.com/entertainment/875469/mandy-indiana-urgh-review) (2026-02-08)
 - [The iPhone 17e could launch soon with MagSafe and an A19 chip](https://www.theverge.com/tech/875454/iphone-17e-launching-soon-magsafe-a19) (2026-02-08)
-- [How I Built the Star Trek control panel of my dreams](https://www.theverge.com/tech/862070/lcars-homes-assistant-star-trek) (2026-02-08)
-- [GuliKit’s tiny USB dongle lets you connect your PS5 controller to your Switch 2](https://www.theverge.com/tech/874842/gulikit-hyperlink-gen2-usb-adapter-wireless-switch-2-hands-on) (2026-02-08)
-- [Section 230 turns 30 as it faces its biggest tests yet](https://www.theverge.com/policy/875300/section-230-turns-30-social-media-addiction-cases-sunset) (2026-02-08)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [A Project Hail Mary final trailer? Yes please](https://arstechnica.com/culture/2026/02/a-project-hail-mary-final-trailer-yes-please/) (2026-02-08)
 - [Under Trump, EPA’s enforcement of environmental laws collapses, report finds](https://arstechnica.com/science/2026/02/under-trump-epas-enforcement-of-environmental-laws-collapses-report-finds/) (2026-02-07)
 - [Sixteen Claude AI agents working together created a new C compiler](https://arstechnica.com/ai/2026/02/sixteen-claude-ai-agents-working-together-created-a-new-c-compiler/) (2026-02-06)
 - [Penisgate erupts at Olympics; scandal exposes risks of bulking your bulge](https://arstechnica.com/health/2026/02/penisgate-erupts-at-olympics-scandal-exposes-risks-of-bulking-your-budge/) (2026-02-06)
 - [Lawyer sets new standard for abuse of AI; judge tosses case](https://arstechnica.com/tech-policy/2026/02/randomly-quoting-ray-bradbury-did-not-save-lawyer-from-losing-case-over-ai-errors/) (2026-02-06)
-- [Malicious packages for dYdX cryptocurrency exchange empties user wallets](https://arstechnica.com/security/2026/02/malicious-packages-for-dydx-cryptocurrency-exchange-empties-user-wallets/) (2026-02-06)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Anton Clew — Stop AI From Committing Regret](https://dev.to/earlgreyhot1701d/anton-clew-stop-ai-from-committing-regret-j71) (2026-02-08)
-- [DataPorter -- A Rails engine that turns data imports into a self-service feature](https://dev.to/seryl_lns_bf77ba67bf2953f/dataporter-a-rails-engine-that-turns-data-imports-into-a-self-service-feature-4lbf) (2026-02-08)
-- [Beyond "Find": Unleashing the Full Power of VS Code’s Search Engine](https://dev.to/it-wibrc/beyond-find-unleashing-the-full-power-of-vs-codes-search-engine-45j0) (2026-02-08)
-- [I Built a Chrome Extension to hide noisy GitHub Issue timeline events (with Copilot CLI)](https://dev.to/leereilly/i-built-a-chrome-extension-to-hide-noisy-github-issue-timeline-events-with-copilot-cli-255m) (2026-02-08)
-- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI.](https://dev.to/maggy_njuguna/power-bis-superpower-in-cleaning-datadax-and-creating-real-time-dashboards-282e) (2026-02-08)
+- [5 AI Coding Patterns That Actually Work (2026 Edition)](https://dev.to/rakesh1002/5-ai-coding-patterns-that-actually-work-2026-edition-13m5) (2026-02-09)
+- [Cloud Newbies: Avoid These 5 Costly Pitfalls! | Cloud Cost Optimization](https://dev.to/pennypeinee88/cloud-newbies-avoid-these-5-costly-pitfalls-cloud-cost-optimization-24k8) (2026-02-09)
+- [Stop miscalculating age in JavaScript: leap years, Feb 29, and the Jan 31 trap](https://dev.to/momin_ali_e002a22d102ff40/stop-miscalculating-age-in-javascript-leap-years-feb-29-and-the-jan-31-trap-22aj) (2026-02-09)
+- [Quantified Self: Building a Blazing Fast Health Dashboard with DuckDB and Streamlit](https://dev.to/wellallytech/quantified-self-building-a-blazing-fast-health-dashboard-with-duckdb-and-streamlit-1d6f) (2026-02-09)
+- [The Future of Go Network Programming: What's Next for Gophers?](https://dev.to/jones_charles_ad50858dbc0/the-future-of-go-network-programming-whats-next-for-gophers-1304) (2026-02-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [FreeAppCenter — Free Software Downloads](https://medium.com/@livanapomer/freeappcenter-free-software-downloads-cbb0c8e4da17?source=rss------programming-5) (2026-02-08)
-- [⚡ ReactJS Optimization Mastery: Turbocharge Your Apps for Blazing Performance ](https://rajputlakhveer.medium.com/reactjs-optimization-mastery-turbocharge-your-apps-for-blazing-performance-92a3a037e7ba?source=rss------programming-5) (2026-02-08)
-- [Bindu Reddy on AI’s Paradox: Making Programmers Worse at Programming](https://medium.com/@bindupreddy/bindu-reddy-on-ais-paradox-making-programmers-worse-at-programming-c80a86206e7d?source=rss------programming-5) (2026-02-08)
-- [Deep Mind: The High-Performance Operating System for Elite Professionals](https://medium.com/@vaibhav_14ry/deep-mind-the-high-performance-operating-system-for-elite-professionals-512fc814bca6?source=rss------programming-5) (2026-02-08)
-- [Monkey Patching Protocols — dynamically wiring objects at runtime](https://medium.com/@tihomir.manushev/monkey-patching-protocols-dynamically-wiring-objects-at-runtime-fd9af6572a39?source=rss------programming-5) (2026-02-08)
+- [The Unspoken Challenges: What Every Aspiring Frontend Developer Needs to Know](https://caksaji.medium.com/the-unspoken-challenges-what-every-aspiring-frontend-developer-needs-to-know-6479f6332a9e?source=rss------programming-5) (2026-02-09)
+- [How I got $600 bounty from a self hosted programme](https://osintteam.blog/how-i-got-600-bounty-from-a-self-hosted-programme-fddd550b7850?source=rss------programming-5) (2026-02-09)
+- [I Rewrote One Python Script Using These 9 Features — and Deleted Half the Code](https://medium.com/h7w/i-rewrote-one-python-script-using-these-9-features-and-deleted-half-the-code-bfe02e8fb286?source=rss------programming-5) (2026-02-09)
+- [Kotlin’s Compiler as a Cognitive Ally: Smart Casts, Type Inference, and the Architecture It…](https://medium.com/@mrhotfix/kotlins-compiler-as-a-cognitive-ally-smart-casts-type-inference-and-the-architecture-it-5a5cfbdda13d?source=rss------programming-5) (2026-02-09)
+- [The Factory That Broke Itself in One Click](https://medium.com/@mootazbellehweslati/the-factory-that-broke-itself-in-one-click-e240b4eb9d36?source=rss------programming-5) (2026-02-09)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/) (2026-02-05)
 - [Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ](https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/) (2026-02-04)
 - [PostgreSQL on Azure supercharged for AI](https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/) (2026-02-02)
 - [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
 - [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
-- [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
 
 </details>
 
