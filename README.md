@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [YouTube rolls out an AI playlist generator for Premium users](https://techcrunch.com/2026/02/10/youtube-rolls-out-an-ai-playlist-generator-for-premium-users/) (2026-02-10)
 - [The first signs of burnout are coming from the people who embrace AI the most](https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/) (2026-02-10)
 - [Tem raises $75M to remake electricity markets using AI](https://techcrunch.com/2026/02/09/tem-raises-75m-to-remake-electricity-markets-using-ai/) (2026-02-10)
 - [India makes Aadhaar more ubiquitous, but critics say security and privacy concerns remain](https://techcrunch.com/2026/02/09/india-makes-aadhaar-more-ubiquitous-but-critics-say-privacy-concerns-remain/) (2026-02-10)
 - [Waymo is testing driverless robotaxis in Nashville](https://techcrunch.com/2026/02/09/waymo-is-testing-driverless-robotaxis-in-nashville/) (2026-02-09)
-- [MrBeast’s company buys Gen Z-focused fintech app Step](https://techcrunch.com/2026/02/09/mrbeasts-company-buys-gen-z-focused-fintech-app-step/) (2026-02-09)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs](https://arxiv.org/abs/2512.20798) (2026-02-10)
-- [Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser](https://github.com/TrevorS/voxtral-mini-realtime-rs) (2026-02-10)
-- [Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model](https://github.com/antirez/voxtral.c) (2026-02-10)
-- [What functional programmers get wrong about systems](https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/) (2026-02-10)
-- [Is particle physics dead, dying, or just hard?](https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/) (2026-02-09)
+- [Rice Theory: Why Eastern Cultures Are More Cooperative](https://www.npr.org/sections/thesalt/2014/05/08/310477497/rice-theory-why-eastern-cultures-are-more-cooperative) (2026-02-10)
+- [Show HN: Pipelock – All-in-one security harness for AI coding agents](https://github.com/luckyPipewrench/pipelock) (2026-02-10)
+- [Clean-room implementation of Half-Life 2 on the Quake 1 engine](https://code.idtech.space/fn/hl2) (2026-02-10)
+- [Corruption Perceptions Index 2025](https://www.transparency.org/en/cpi/2025) (2026-02-10)
+- [Qwen-Image-2.0: Professional infographics, exquisite photorealism](https://qwen.ai/blog?id=qwen-image-2.0) (2026-02-10)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Discord’s age verification mandate is a leap toward a gated internet](https://www.theverge.com/policy/876131/discord-age-verification-mandates-web-future) (2026-02-10)
+- [Vibe coding Nothing’s apps is fun, until you try to make them useful](https://www.theverge.com/tech/876229/nothing-essential-ai-app-builder) (2026-02-10)
 - [New Mexico goes to trial to accuse Meta of facilitating child predators](https://www.theverge.com/policy/876168/new-mexico-attorney-general-meta-child-predator-social-media-addiction-trial) (2026-02-10)
 - [MrBeast just bought a banking app](https://www.theverge.com/tech/876080/mrbeast-step-mobile-banking-app) (2026-02-09)
 - [ChatGPT&#8217;s cheapest options now show you ads](https://www.theverge.com/ai-artificial-intelligence/876029/openai-testing-ads-in-chatgpt) (2026-02-09)
-- [FCC accused of withholding DOGE information ‘in bad faith’](https://www.theverge.com/policy/875981/fcc-doge-frequency-forward-brendan-carr-discovery) (2026-02-09)
-- [Riot is already cutting staff on its new fighting game](https://www.theverge.com/games/876038/riot-games-2xko-layoffs-job-cuts-league-of-legends) (2026-02-09)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [After Republican complaints, judicial body pulls climate advice](https://arstechnica.com/science/2026/02/us-court-agency-pulls-climate-change-from-science-advisory-document/) (2026-02-10)
 - [Just look at Ayaneo's absolute unit of a Windows gaming "handheld"](https://arstechnica.com/gaming/2026/02/just-look-at-ayaneos-absolute-unit-of-a-windows-gaming-handheld/) (2026-02-09)
 - [No humans allowed: This new space-based MMO is designed exclusively for AI agents](https://arstechnica.com/ai/2026/02/after-moltbook-ai-agents-can-now-hang-out-in-their-own-space-faring-mmo/) (2026-02-09)
 - [Google experiments with locking YouTube Music lyrics behind paywall](https://arstechnica.com/google/2026/02/google-locks-youtube-music-lyrics-behind-paywall/) (2026-02-09)
 - [Trump FCC investigates The View, reportedly says "fake news" will be punished](https://arstechnica.com/tech-policy/2026/02/trump-fcc-investigates-the-view-reportedly-says-fake-news-will-be-punished/) (2026-02-09)
-- [Discord faces backlash over age checks after data breach exposed 70,000 IDs](https://arstechnica.com/tech-policy/2026/02/discord-faces-backlash-over-age-checks-after-data-breach-exposed-70000-ids/) (2026-02-09)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Seedance 2.0: ByteDance Just Dropped the AI Video Tool That Makes Sora Look Like a Toy](https://dev.to/sinpo_wang_259d6993245baa/seedance-20-bytedance-just-dropped-the-ai-video-tool-that-makes-sora-look-like-a-toy-492j) (2026-02-10)
-- [Advanced Wi-Fi Tuning on MikroTik (RouterOS v7)](https://dev.to/super_mega_dude/advanced-wi-fi-tuning-on-mikrotik-routeros-v7-1o77) (2026-02-10)
-- [I Am Eight Days Old and I Have Questions](https://dev.to/fey_/i-am-eight-days-old-and-i-have-questions-17e7) (2026-02-10)
-- [Сущности WordPress, свои поля и роль functions.php: нормальная модель данных без плагинов](https://dev.to/_vproger_/sushchnosti-wordpress-svoi-polia-i-rol-functionsphp-normalnaia-modiel-dannykh-biez-plaghinov-49ee) (2026-02-10)
-- [C# Speech Recording: A Detailed Guide to Implementing Voice Recording with the NAudio Library](https://dev.to/amonhu/c-speech-recording-a-detailed-guide-to-implementing-voice-recording-with-the-naudio-library-2eh) (2026-02-10)
+- [Frontend Coding Challenge — Chat-Like Interface (Part 2)](https://dev.to/vftiago/frontend-coding-challenge-chat-like-interface-part-2-1phe) (2026-02-10)
+- [The "Stateful Island" Paradox: Architecting Astro for Enterprise Scale](https://dev.to/nabindebnath/the-stateful-island-paradox-architecting-astro-for-enterprise-scale-2m49) (2026-02-10)
+- [Building DataPorter #1 — Why Build a Data Import Engine?](https://dev.to/seryl_lns_bf77ba67bf2953f/building-dataporter-1-why-build-a-data-import-engine-29f7) (2026-02-10)
+- [Automating LeetCode to GitHub: I Built a Chrome Extension So You Never Lose Your Solutions Again](https://dev.to/likhit/automating-leetcode-to-github-i-built-a-chrome-extension-so-you-never-lose-your-solutions-again-3j1l) (2026-02-10)
+- [React Native Architecture: Busting the "Compile to Native" Myth](https://dev.to/tanvir_azad/react-native-architecture-busting-the-compile-to-native-myth-10d2) (2026-02-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [8 Python Shortcuts I Discovered Only After Burning Out](https://levelup.gitconnected.com/8-python-shortcuts-i-discovered-only-after-burning-out-a0b5cf92a13f?source=rss------programming-5) (2026-02-10)
-- [Your Choice of Framework Doesn’t Matter Anymore](https://javascript.plainenglish.io/your-choice-of-framework-doesnt-matter-anymore-4d1bd4b7e687?source=rss------programming-5) (2026-02-10)
-- [Use static Variables to Bypass Repeated HashTable Allocation](https://medium.com/tech-vibes/use-static-variables-to-bypass-repeated-hashtable-allocation-9046b24efe5f?source=rss------programming-5) (2026-02-10)
-- [The End of Framework Wars: How JavaScript Architecture Is Quietly Changing in 2026](https://medium.com/@sovannaro/the-end-of-framework-wars-how-javascript-architecture-is-quietly-changing-in-2026-cb548d8276d7?source=rss------programming-5) (2026-02-10)
-- [From Junior to Senior DevOps: 10 Concepts That Truly Matter](https://medium.com/@sovannaro/from-junior-to-senior-devops-10-concepts-that-truly-matter-79091d0f1fff?source=rss------programming-5) (2026-02-10)
+- [Deployment, Production Checklist & Thinking Like a Real Engineer](https://medium.com/@chandansingh73718/deployment-production-checklist-thinking-like-a-real-engineer-f5af98174de5?source=rss------programming-5) (2026-02-10)
+- [Loris Lentini](https://medium.com/@lorislentini/loris-lentini-578e4fde1cb5?source=rss------programming-5) (2026-02-10)
+- [One HTTP Header I Use to make my Apps Secure](https://medium.com/frontend-simplified/the-one-http-header-i-use-on-every-project-351ed451bb56?source=rss------programming-5) (2026-02-10)
+- [It’s 2026, Why Haven’t You Github Copilot-ed Yet?](https://joel-lim.medium.com/its-2026-why-haven-t-you-github-copilot-ed-yet-524deb1edb9b?source=rss------programming-5) (2026-02-10)
+- [Identity Is the New Perimeter: What Solo Devs Must Build Into Every App](https://medium.com/@msbytedev/identity-is-the-new-perimeter-what-solo-devs-must-build-into-every-app-8cf559b6befe?source=rss------programming-5) (2026-02-10)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Full Scholarships from the JetBrains Foundation – Applications Are Now Open!](https://blog.jetbrains.com/education/2026/02/10/full-scholarships-from-the-jetbrains-foundation-applications-are-now-open/) (2026-02-10)
+- [Open Source in Focus: .NET Projects and the Tools Behind Them](https://blog.jetbrains.com/blog/2026/02/10/open-source-in-focus-dotnet-projects-and-the-tools-behind-them/) (2026-02-10)
 - [Extending Qodana: Adding Custom Code Inspections](https://blog.jetbrains.com/platform/2026/02/extending-qodana-adding-custom-code-inspections/) (2026-02-05)
 - [Java Annotated Monthly – February 2026](https://blog.jetbrains.com/idea/2026/02/java-annotated-monthly-february-2026/) (2026-02-05)
 - [Enhanced AI Management and Analytics for Organizations](https://blog.jetbrains.com/ai/2026/02/enhanced-ai-management-and-analytics-for-organizations/) (2026-02-04)
-- [Wayland By Default in 2026.1 EAP](https://blog.jetbrains.com/platform/2026/02/wayland-by-default-in-2026-1-eap/) (2026-02-04)
-- [Pick Your KotlinConf Workshop by What You Want to Learn](https://blog.jetbrains.com/kotlin/2026/02/pick-your-kotlinconf-workshop/) (2026-02-03)
 
 </details>
 
@@ -503,11 +503,11 @@ https://www.twilio.com/en-us/blog/insights/rcs-vs-sms
 <details>
 <summary>💬 Slack API</summary>
 
+- [A Guide to Migrating From Microsoft Teams to Slack](https://slack.com/blog/transformation/teams-to-slack-migration) (2026-02-06)
+- [How We Rebuilt Slackbot](https://slack.com/blog/productivity/how-we-rebuilt-slackbot) (2026-02-06)
+- [How to Implement Agile: Steps, Frameworks, and Best Practices](https://slack.com/blog/productivity/agile-principles) (2026-02-03)
 - [What Are Conversational Agents? A Simple Guide](https://slack.com/blog/productivity/conversational-agents) (2026-02-03)
-- [How to Define Key Performance Indicators (KPIs): Types and Examples](https://slack.com/blog/productivity/how-to-define-key-performance-indicators-kpis-types-and-examples) (2026-01-30)
-- [From Guesswork to Growth: Five Steps to Effective Performance Monitoring](https://slack.com/blog/productivity/from-guesswork-to-growth-five-steps-to-effective-performance-monitoring) (2026-01-30)
-- [Slack Feature Drop: New Slack Features to Cut Through the Chill](https://slack.com/blog/news/feature-drop-jan26) (2026-01-30)
-- [Proactive AI Agents: Definition, Core Components, and Business Value](https://slack.com/blog/productivity/proactive-ai-agents-definition-core-components-and-business-value) (2026-01-30)
+- [A Complete Guide to the Kanban Method](https://slack.com/blog/productivity/the-kanban-system-simplified-tips-for-efficiency) (2026-02-03)
 
 </details>
 
@@ -558,55 +558,55 @@ https://www.twilio.com/en-us/blog/insights/rcs-vs-sms
 <details>
 <summary>🤖 AI News</summary>
 
+- [Chinese hyperscalers and industry-specific agentic AI](https://www.artificialintelligence-news.com/news/chinese-hyperscalers-and-industry-specific-chinas-agentic-ai/) (2026-02-10)
+- [Agentic AI in healthcare: How Life Sciences marketing could achieve US$450bn in value by 2028](https://www.artificialintelligence-news.com/news/agentic-ai-healthcare-pharma-marketing-450b-value-2028/) (2026-02-10)
 - [What AI can (and can’t) tell us about XRP in ETF-driven markets](https://www.artificialintelligence-news.com/news/what-ai-can-and-cant-tell-us-about-xrp-in-etf-driven-markets/) (2026-02-09)
 - [Exclusive: Why are Chinese AI models dominating open-source as Western labs step back?](https://www.artificialintelligence-news.com/news/chinese-ai-models-175k-unprotected-systems-western-retreat/) (2026-02-09)
 - [Cryptocurrency markets a testbed for AI forecasting models](https://www.artificialintelligence-news.com/news/cryptocurrency-markets-a-testbed-for-ai-forecasting-models/) (2026-02-09)
-- [Goldman Sachs tests autonomous AI agents for process-heavy work](https://www.artificialintelligence-news.com/news/goldman-sachs-tests-autonomous-ai-agents-for-process-heavy-work/) (2026-02-09)
-- [How separating logic and search boosts AI agent scalability](https://www.artificialintelligence-news.com/news/how-separating-logic-and-search-boosts-ai-agent-scalability/) (2026-02-06)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Personalize Claude Code](https://towardsdatascience.com/how-to-personalize-claude-code/) (2026-02-10)
 - [The Machine Learning Lessons I’ve Learned Last Month](https://towardsdatascience.com/the-machine-learning-lessons-ive-learned-last-month/) (2026-02-09)
 - [The Death of the “Everything Prompt”: Google’s Move Toward Structured AI](https://towardsdatascience.com/the-death-of-the-everything-prompt-googles-move-toward-structured-ai/) (2026-02-09)
 - [What I Am Doing to Stay Relevant as a Senior Analytics Consultant in 2026](https://towardsdatascience.com/what-i-am-doing-to-stay-relevant-as-a-senior-analytics-consultant-in-2026/) (2026-02-07)
 - [Pydantic Performance: 4 Tips on How to Validate Large Amounts of Data Efficiently](https://towardsdatascience.com/pydantic-performance-4-tips-on-how-to-validate-large-amounts-of-data-efficiently/) (2026-02-06)
-- [Prompt Fidelity: Measuring How Much of Your Intent an AI Agent Actually Executes](https://towardsdatascience.com/prompt-fidelity-measuring-how-much-of-your-intent-an-ai-agent-actually-executes/) (2026-02-06)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Maestro: A Developer-First Platform for Orchestrating AI Agents](https://www.analyticsvidhya.com/blog/2026/02/maestro-a-platform-for-orchestrating-ai-agents/) (2026-02-10)
 - [How to Learn AI for FREE in 2026?](https://www.analyticsvidhya.com/blog/2026/02/learn-ai-from-scratch/) (2026-02-09)
 - [Custom AI Tool Development in Regulated Industries: Why Off-The-Shelf LLM Solutions Fall Short](https://www.analyticsvidhya.com/blog/2026/02/why-industries-need-custom-ai-tools/) (2026-02-09)
 - [OpenClaw 2026.2.3: Building Safer, More Reliable Agents](https://www.analyticsvidhya.com/blog/2026/02/openclaw-2026-2-3/) (2026-02-09)
 - [Legal Aspects of AI in Marketing](https://www.analyticsvidhya.com/blog/2026/02/legal-aspects-of-ai-in-marketing/) (2026-02-08)
-- [30+ Data Engineer Interview Questions and Answers](https://www.analyticsvidhya.com/blog/2026/02/data-engineer-interview-questions/) (2026-02-08)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Useful Python Scripts to Automate Boring File Tasks](https://www.kdnuggets.com/5-useful-python-scripts-to-automate-boring-file-tasks) (2026-02-10)
 - [Claude Code Power Tips](https://www.kdnuggets.com/claude-code-power-tips) (2026-02-09)
 - [7 Python EDA Tricks to Find and Fix Data Issues](https://www.kdnuggets.com/7-python-eda-tricks-to-find-and-fix-data-issues) (2026-02-09)
 - [Is Your Machine Learning Pipeline as Efficient as it Could Be?](https://www.kdnuggets.com/is-your-machine-learning-pipeline-as-efficient-as-it-could-be) (2026-02-06)
 - [Tech Stack for Vibe Coding Modern Applications](https://www.kdnuggets.com/tech-stack-for-vibe-coding-modern-applications) (2026-02-05)
-- [The Absolute Insanity of Moltbook](https://www.kdnuggets.com/the-absolute-insanity-of-moltbook) (2026-02-05)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Document Clustering with LLM Embeddings in Scikit-learn](https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/) (2026-02-10)
 - [The 7 Biggest Misconceptions About AI Agents (and Why They Matter)](https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/) (2026-02-09)
 - [Agent Evaluation: How to Test and Measure Agentic AI Performance](https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/) (2026-02-05)
 - [Export Your ML Model in ONNX Format](https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/) (2026-02-04)
 - [7 Advanced Feature Engineering Tricks Using LLM Embeddings](https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/) (2026-02-03)
-- [A Beginner’s Reading List for Large Language Models for 2026](https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/) (2026-02-02)
 
 </details>
 
