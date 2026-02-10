@@ -20,55 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [YouTube rolls out an AI playlist generator for Premium users](https://techcrunch.com/2026/02/10/youtube-rolls-out-an-ai-playlist-generator-for-premium-users/) (2026-02-10)
-- [The first signs of burnout are coming from the people who embrace AI the most](https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/) (2026-02-10)
-- [Tem raises $75M to remake electricity markets using AI](https://techcrunch.com/2026/02/09/tem-raises-75m-to-remake-electricity-markets-using-ai/) (2026-02-10)
-- [India makes Aadhaar more ubiquitous, but critics say security and privacy concerns remain](https://techcrunch.com/2026/02/09/india-makes-aadhaar-more-ubiquitous-but-critics-say-privacy-concerns-remain/) (2026-02-10)
-- [Waymo is testing driverless robotaxis in Nashville](https://techcrunch.com/2026/02/09/waymo-is-testing-driverless-robotaxis-in-nashville/) (2026-02-09)
-
-</details>
-
-<details>
-<summary>💻 Hacker News</summary>
-
-- [Rice Theory: Why Eastern Cultures Are More Cooperative](https://www.npr.org/sections/thesalt/2014/05/08/310477497/rice-theory-why-eastern-cultures-are-more-cooperative) (2026-02-10)
-- [Show HN: Pipelock – All-in-one security harness for AI coding agents](https://github.com/luckyPipewrench/pipelock) (2026-02-10)
-- [Clean-room implementation of Half-Life 2 on the Quake 1 engine](https://code.idtech.space/fn/hl2) (2026-02-10)
-- [Corruption Perceptions Index 2025](https://www.transparency.org/en/cpi/2025) (2026-02-10)
-- [Qwen-Image-2.0: Professional infographics, exquisite photorealism](https://qwen.ai/blog?id=qwen-image-2.0) (2026-02-10)
+- [Former Tesla product manager wants to make luxury goods impossible to fake, starting with a chip](https://techcrunch.com/2026/02/10/former-tesla-product-manager-wants-to-make-luxury-goods-impossible-to-fake-starting-with-a-chip/) (2026-02-10)
+- [Singapore says China-backed hackers targeted its four largest phone companies](https://techcrunch.com/2026/02/10/singapore-china-backed-hackers-targeted-largest-phone-companies-salt-typhoon/) (2026-02-10)
+- [Vega raises $120M Series B to rethink how enterprises detect cyber threats](https://techcrunch.com/2026/02/10/vega-raises-120m-series-b-to-rethink-how-enterprises-detect-cyber-threats/) (2026-02-10)
+- [What to know about Netflix’s landmark acquisition of Warner Bros. ](https://techcrunch.com/2026/02/10/what-to-know-about-netflixs-landmark-acquisition-of-warner-bros/) (2026-02-10)
+- [Google expands tools to let users remove sensitive data about themselves from Search](https://techcrunch.com/2026/02/10/google-remove-sensitive-personal-data-from-search/) (2026-02-10)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Discord’s age verification mandate is a leap toward a gated internet](https://www.theverge.com/policy/876131/discord-age-verification-mandates-web-future) (2026-02-10)
-- [Vibe coding Nothing’s apps is fun, until you try to make them useful](https://www.theverge.com/tech/876229/nothing-essential-ai-app-builder) (2026-02-10)
-- [New Mexico goes to trial to accuse Meta of facilitating child predators](https://www.theverge.com/policy/876168/new-mexico-attorney-general-meta-child-predator-social-media-addiction-trial) (2026-02-10)
-- [MrBeast just bought a banking app](https://www.theverge.com/tech/876080/mrbeast-step-mobile-banking-app) (2026-02-09)
-- [ChatGPT&#8217;s cheapest options now show you ads](https://www.theverge.com/ai-artificial-intelligence/876029/openai-testing-ads-in-chatgpt) (2026-02-09)
+- [Sharge’s new power bank can charge two laptops while putting on a light show](https://www.theverge.com/tech/876432/sharge-shargeek-300w-power-bank-rgb-lighting-kickstarter) (2026-02-10)
+- [Facebook can animate your profile pic with AI](https://www.theverge.com/tech/876480/meta-facebook-animate-profile-picture-restyle-ai) (2026-02-10)
+- [An Ark showed me augmented reality’s true artistic potential](https://www.theverge.com/gadgets/875869/an-ark-mixed-reality-simon-stephens-sarah-frankcom-todd-eckert) (2026-02-10)
+- [The Shokz OpenFit Air earbuds are matching their all-time low price](https://www.theverge.com/gadgets/876392/shokz-openfit-air-earbuds-kobo-clara-colour-deal-sale) (2026-02-10)
+- [Microsoft is keeping Secure Boot alive with Windows updates](https://www.theverge.com/tech/876336/microsoft-windows-secure-boot-certificate-renewal) (2026-02-10)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Windows' original Secure Boot certificates expire in June—here's what you need to do](https://arstechnica.com/gadgets/2026/02/microsoft-sounds-the-alarm-about-secure-boot-certificates-expiring-later-this-year/) (2026-02-10)
+- [Upgraded Google safety tools can now find and remove more of your personal info](https://arstechnica.com/gadgets/2026/02/upgraded-google-safety-tools-can-now-find-and-remove-more-of-your-personal-info/) (2026-02-10)
+- [The Kia PV5 electric van combines futuristic looks and thoughtful design](https://arstechnica.com/cars/2026/02/the-kia-pv5-electric-van-combines-futuristic-looks-and-thoughtful-design/) (2026-02-10)
+- [Alphabet selling very rare 100-year bonds to help fund AI investment](https://arstechnica.com/gadgets/2026/02/alphabet-selling-very-rare-100-year-bunds-to-help-fund-ai-investment/) (2026-02-10)
 - [After Republican complaints, judicial body pulls climate advice](https://arstechnica.com/science/2026/02/us-court-agency-pulls-climate-change-from-science-advisory-document/) (2026-02-10)
-- [Just look at Ayaneo's absolute unit of a Windows gaming "handheld"](https://arstechnica.com/gaming/2026/02/just-look-at-ayaneos-absolute-unit-of-a-windows-gaming-handheld/) (2026-02-09)
-- [No humans allowed: This new space-based MMO is designed exclusively for AI agents](https://arstechnica.com/ai/2026/02/after-moltbook-ai-agents-can-now-hang-out-in-their-own-space-faring-mmo/) (2026-02-09)
-- [Google experiments with locking YouTube Music lyrics behind paywall](https://arstechnica.com/google/2026/02/google-locks-youtube-music-lyrics-behind-paywall/) (2026-02-09)
-- [Trump FCC investigates The View, reportedly says "fake news" will be punished](https://arstechnica.com/tech-policy/2026/02/trump-fcc-investigates-the-view-reportedly-says-fake-news-will-be-punished/) (2026-02-09)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [A “QuitGPT” campaign is urging people to cancel their ChatGPT subscriptions](https://www.technologyreview.com/2026/02/10/1132577/a-quitgpt-campaign-is-urging-people-to-cancel-chatgpt-subscriptions/) (2026-02-10)
+- [The Download: Making AI Work, and why the Moltbook hype is similar to Pokémon](https://www.technologyreview.com/2026/02/10/1132608/the-download-making-ai-work-and-why-the-moltbook-hype-is-similar-to-pokemon/) (2026-02-10)
 - [Why the Moltbook frenzy was like Pokémon](https://www.technologyreview.com/2026/02/09/1132537/a-lesson-from-pokemon/) (2026-02-09)
 - [The Download: what Moltbook tells us about AI hype, and the rise and rise of AI therapy](https://www.technologyreview.com/2026/02/09/1132498/the-download-what-moltbook-tells-us-about-ai-hype-and-the-rise-and-rise-of-ai-therapy/) (2026-02-09)
 - [Making AI Work, MIT Technology Review’s new AI newsletter, is here](https://www.technologyreview.com/2026/02/09/1132462/ai-newsletter-professional-applications/) (2026-02-09)
-- [Moltbook was peak AI theater](https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/) (2026-02-06)
-- [The Download: helping cancer survivors to give birth, and cleaning up Bangladesh’s garment industry](https://www.technologyreview.com/2026/02/06/1132375/the-download-helping-cancer-survivors-to-give-birth-and-cleaning-up-bangladeshs-garment-industry/) (2026-02-06)
 
 </details>
 
@@ -97,22 +86,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Frontend Coding Challenge — Chat-Like Interface (Part 2)](https://dev.to/vftiago/frontend-coding-challenge-chat-like-interface-part-2-1phe) (2026-02-10)
-- [The "Stateful Island" Paradox: Architecting Astro for Enterprise Scale](https://dev.to/nabindebnath/the-stateful-island-paradox-architecting-astro-for-enterprise-scale-2m49) (2026-02-10)
-- [Building DataPorter #1 — Why Build a Data Import Engine?](https://dev.to/seryl_lns_bf77ba67bf2953f/building-dataporter-1-why-build-a-data-import-engine-29f7) (2026-02-10)
-- [Automating LeetCode to GitHub: I Built a Chrome Extension So You Never Lose Your Solutions Again](https://dev.to/likhit/automating-leetcode-to-github-i-built-a-chrome-extension-so-you-never-lose-your-solutions-again-3j1l) (2026-02-10)
-- [React Native Architecture: Busting the "Compile to Native" Myth](https://dev.to/tanvir_azad/react-native-architecture-busting-the-compile-to-native-myth-10d2) (2026-02-10)
+- [🦓 The Tale of the Humbled Process Engineer —  Episode II: The Summoning of the Zebra 🕸️](https://dev.to/abdulosman/the-tale-of-the-humbled-process-engineer-episode-ii-the-summoning-of-the-zebra-35ae) (2026-02-10)
+- [How to Run OpenClaw with DigitalOcean](https://dev.to/digitalocean/how-to-run-openclaw-with-digitalocean-3mpb) (2026-02-10)
+- [The No-Auth Revolution: Why I removed logins from my SaaS to maximize conversions](https://dev.to/hypertools/the-no-auth-revolution-why-i-removed-logins-from-my-saas-to-maximize-conversions-gck) (2026-02-10)
+- [Debugging with AI: Chrome DevTools MCP + Copilot](https://dev.to/saloniagrawal/debugging-with-ai-chrome-devtools-mcp-copilot-1eoe) (2026-02-10)
+- [Advancing AI benchmarking with Game Arena](https://dev.to/googleai/advancing-ai-benchmarking-with-game-arena-3nda) (2026-02-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Deployment, Production Checklist & Thinking Like a Real Engineer](https://medium.com/@chandansingh73718/deployment-production-checklist-thinking-like-a-real-engineer-f5af98174de5?source=rss------programming-5) (2026-02-10)
-- [Loris Lentini](https://medium.com/@lorislentini/loris-lentini-578e4fde1cb5?source=rss------programming-5) (2026-02-10)
-- [One HTTP Header I Use to make my Apps Secure](https://medium.com/frontend-simplified/the-one-http-header-i-use-on-every-project-351ed451bb56?source=rss------programming-5) (2026-02-10)
-- [It’s 2026, Why Haven’t You Github Copilot-ed Yet?](https://joel-lim.medium.com/its-2026-why-haven-t-you-github-copilot-ed-yet-524deb1edb9b?source=rss------programming-5) (2026-02-10)
-- [Identity Is the New Perimeter: What Solo Devs Must Build Into Every App](https://medium.com/@msbytedev/identity-is-the-new-perimeter-what-solo-devs-must-build-into-every-app-8cf559b6befe?source=rss------programming-5) (2026-02-10)
+- [5 Common Python Mistakes Every Beginner Should Avoid](https://medium.com/@ilkaidurhanadil/5-common-python-mistakes-every-beginner-should-avoid-db4327f65e96?source=rss------programming-5) (2026-02-10)
+- [8 Ways to Price Python Work Based on Value](https://python.plainenglish.io/8-ways-to-price-python-work-based-on-value-fdd429747e5d?source=rss------programming-5) (2026-02-10)
+- [Free Code - Music Player Android App (copycode)](https://medium.com/@copycode/free-code-music-player-android-app-copycode-aaa259a0cfac?source=rss------programming-5) (2026-02-10)
+- [I Replaced Lodash With 20 Lines of Vanilla JS (And Cut 72KB From My Bundle)](https://javascript.plainenglish.io/i-replaced-lodash-with-20-lines-of-vanilla-js-and-cut-72kb-from-my-bundle-4bcc6777e66d?source=rss------programming-5) (2026-02-10)
+- [To substantiate the Unified Architecture Theory (UAT), we must transition from theoretical mapping…](https://medium.com/@hillbowman561/to-substantiate-the-unified-architecture-theory-uat-we-must-transition-from-theoretical-mapping-fee7db2d762f?source=rss------programming-5) (2026-02-10)
 
 </details>
 
@@ -196,22 +185,22 @@
 <details>
 <summary>🟩 Node.js Blog</summary>
 
+- [Node.js 25.6.1 (Current)](https://nodejs.org/en/blog/release/v25.6.1) (2026-02-10)
+- [Node.js 24.13.1 (LTS)](https://nodejs.org/en/blog/release/v24.13.1) (2026-02-10)
 - [Node.js 25.6.0 (Current)](https://nodejs.org/en/blog/release/v25.6.0) (2026-02-03)
 - [OpenSSL Security Advisory Assessment, January 2026](https://nodejs.org/en/blog/vulnerability/openssl-fixes-in-regular-releases-jan2026) (2026-01-28)
 - [Node.js 25.5.0 (Current)](https://nodejs.org/en/blog/release/v25.5.0) (2026-01-26)
-- [Chalk to Node.js util styleText](https://nodejs.org/en/blog/migrations/chalk-to-styletext) (2026-01-23)
-- [New HackerOne Signal Requirement for Vulnerability Reports](https://nodejs.org/en/blog/announcements/hackerone-signal-requirement) (2026-01-21)
 
 </details>
 
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Hardened Images Are Free. Now What?](https://www.docker.com/blog/hardened-images-free-now-what/) (2026-02-10)
 - [Reduce Vulnerability Noise with VEX: Wiz + Docker Hardened Images](https://www.docker.com/blog/reduce-vulnerability-noise-with-vex-wiz-docker-hardened-images/) (2026-02-05)
 - [Get Started with the Atlassian Rovo MCP Server Using Docker](https://www.docker.com/blog/atlassian-remote-mcp-server-getting-started-with-docker/) (2026-02-04)
 - [The 3Cs: A Framework for AI Agent Security](https://www.docker.com/blog/the-3cs-a-framework-for-ai-agent-security/) (2026-02-04)
 - [Docker Sandboxes: Run Claude Code and Other Coding Agents Unsupervised (but Safely)](https://www.docker.com/blog/docker-sandboxes-run-claude-code-and-other-coding-agents-unsupervised-but-safely/) (2026-01-30)
-- [Clawdbot with Docker Model Runner, a Private Personal AI Assistant](https://www.docker.com/blog/clawdbot-docker-model-runner-private-personal-ai/) (2026-01-26)
 
 </details>
 
@@ -306,11 +295,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [dotInsights | February 2026](https://blog.jetbrains.com/dotnet/2026/02/10/dotinsights-february-2026/) (2026-02-10)
+- [Introducing Databao: The JetBrains Tool That Lets You Talk to Your Data](https://blog.jetbrains.com/databao/2026/02/introducing-databao/) (2026-02-10)
+- [[New Livestream] Go 1.26 Release Party](https://blog.jetbrains.com/go/2026/02/10/new-livestream-go-1-26-release-party/) (2026-02-10)
 - [Full Scholarships from the JetBrains Foundation – Applications Are Now Open!](https://blog.jetbrains.com/education/2026/02/10/full-scholarships-from-the-jetbrains-foundation-applications-are-now-open/) (2026-02-10)
 - [Open Source in Focus: .NET Projects and the Tools Behind Them](https://blog.jetbrains.com/blog/2026/02/10/open-source-in-focus-dotnet-projects-and-the-tools-behind-them/) (2026-02-10)
-- [Extending Qodana: Adding Custom Code Inspections](https://blog.jetbrains.com/platform/2026/02/extending-qodana-adding-custom-code-inspections/) (2026-02-05)
-- [Java Annotated Monthly – February 2026](https://blog.jetbrains.com/idea/2026/02/java-annotated-monthly-february-2026/) (2026-02-05)
-- [Enhanced AI Management and Analytics for Organizations](https://blog.jetbrains.com/ai/2026/02/enhanced-ai-management-and-analytics-for-organizations/) (2026-02-04)
 
 </details>
 
@@ -328,11 +317,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [DevSecOps-as-a-Service on Oracle Cloud Infrastructure by Data Intensity](https://about.gitlab.com/blog/devsecops-as-a-service-on-oracle-cloud-infrastructure-by-data-intensity/) (2026-02-10)
 - [What’s new in Git 2.53.0?](https://about.gitlab.com/blog/whats-new-in-git-2-53-0/) (2026-02-02)
 - [How to set up GitLab SAML SSO with Google Workspace](https://about.gitlab.com/blog/how-to-set-up-gitlab-saml-sso-with-google-workspace/) (2026-01-27)
 - [GitLab Bug Bounty Program policy updates](https://about.gitlab.com/blog/gitlab-bug-bounty-program-policy-updates/) (2026-01-20)
 - [Announcing general availability for GitLab Duo Agent Platform ](https://about.gitlab.com/blog/gitlab-duo-agent-platform-is-generally-available/) (2026-01-15)
-- [Introducing GitLab Credits, usage-based pricing for GitLab Duo Agent Platform](https://about.gitlab.com/blog/introducing-gitlab-credits/) (2026-01-15)
 
 </details>
 
@@ -392,12 +381,12 @@ https://www.twilio.com/en-us/blog/insights/rcs-vs-sms
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [A Guide to Securing Amazon Bedrock AgentCore with Auth0 for AI Agents ](https://auth0.com/blog/securing-amazon-bedrock-agentcore-agents-auth0-for-ai-agents/) (2026-02-10)
 - [A Guide to OpenID AuthZEN's Authorization API 1.0
 ](https://auth0.com/blog/implementing-authzen-guide-openid-authorization-api/) (2026-02-06)
 - [Setting Up Auth0 Custom Domains: A Complete Guide to DNS and SDK Configuration](https://auth0.com/blog/custom-domains-complete-guide/) (2026-02-03)
 - [Scaling Identity: Implementing CI/CD with the Terraform and GitHub Actions](https://auth0.com/blog/ci-cd-auth0-github-actions/) (2026-02-02)
 - [Scaling Identity: Automating Auth0 Configuration with the Auth0 Terraform Provider](https://auth0.com/blog/scaling-identity-foundation-terraform-auth0/) (2026-01-30)
-- [Auth0 B2B Billing: Should You Pick a Monthly or Annual Plan?](https://auth0.com/blog/auth0-b2b-billing-choosing-monthly-annual-plan/) (2026-01-30)
 
 </details>
 
@@ -459,11 +448,11 @@ https://www.twilio.com/en-us/blog/insights/rcs-vs-sms
 <details>
 <summary>🚀 Apollo GraphQL</summary>
 
+- [Deep Dive: Telemetry cardinality in the Apollo GraphOS Router](https://www.apollographql.com/blog/telemetry-cardinality-in-the-apollo-graphos-router) (2026-02-10)
 - [Apollo Skills: Teaching AI Agents How to Use Apollo and GraphQL](https://www.apollographql.com/blog/apollo-skills-teaching-ai-agents-how-to-use-apollo-and-graphql) (2026-02-03)
 - [@stream all the things with Apollo Client 4.1](https://www.apollographql.com/blog/stream-all-the-things-with-apollo-client-4-1) (2026-01-21)
 - [Introducing Response Caching: GraphQL‑aware performance for your graph ](https://www.apollographql.com/blog/introducing-response-caching) (2026-01-15)
 - [Securing Apollo Federation Subgraphs: Context and Best Practices](https://www.apollographql.com/blog/securing-apollo-federation-subgraphs-context-and-best-practices) (2026-01-14)
-- [Transforming Capital One’s Data Marketplace with Embedded Governance and a Product Mindset](https://www.apollographql.com/blog/transforming-capital-ones-data-marketplace-with-embedded-governance-and-a-product-mindset) (2026-01-13)
 
 </details>
 
@@ -559,7 +548,7 @@ https://www.twilio.com/en-us/blog/insights/rcs-vs-sms
 <summary>🤖 AI News</summary>
 
 - [Chinese hyperscalers and industry-specific agentic AI](https://www.artificialintelligence-news.com/news/chinese-hyperscalers-and-industry-specific-chinas-agentic-ai/) (2026-02-10)
-- [Agentic AI in healthcare: How Life Sciences marketing could achieve US$450bn in value by 2028](https://www.artificialintelligence-news.com/news/agentic-ai-healthcare-pharma-marketing-450b-value-2028/) (2026-02-10)
+- [Agentic AI in healthcare: How Life Sciences marketing could achieve $450B in value by 2028](https://www.artificialintelligence-news.com/news/agentic-ai-healthcare-pharma-marketing-450b-value-2028/) (2026-02-10)
 - [What AI can (and can’t) tell us about XRP in ETF-driven markets](https://www.artificialintelligence-news.com/news/what-ai-can-and-cant-tell-us-about-xrp-in-etf-driven-markets/) (2026-02-09)
 - [Exclusive: Why are Chinese AI models dominating open-source as Western labs step back?](https://www.artificialintelligence-news.com/news/chinese-ai-models-175k-unprotected-systems-western-retreat/) (2026-02-09)
 - [Cryptocurrency markets a testbed for AI forecasting models](https://www.artificialintelligence-news.com/news/cryptocurrency-markets-a-testbed-for-ai-forecasting-models/) (2026-02-09)
@@ -569,33 +558,33 @@ https://www.twilio.com/en-us/blog/insights/rcs-vs-sms
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Model The Expected Value of Marketing Campaigns](https://towardsdatascience.com/how-to-model-the-expected-value-of-marketing-campaigns/) (2026-02-10)
+- [Implementing the Snake Game in Python](https://towardsdatascience.com/implementing-the-snake-game-in-python/) (2026-02-10)
 - [How to Personalize Claude Code](https://towardsdatascience.com/how-to-personalize-claude-code/) (2026-02-10)
 - [The Machine Learning Lessons I’ve Learned Last Month](https://towardsdatascience.com/the-machine-learning-lessons-ive-learned-last-month/) (2026-02-09)
 - [The Death of the “Everything Prompt”: Google’s Move Toward Structured AI](https://towardsdatascience.com/the-death-of-the-everything-prompt-googles-move-toward-structured-ai/) (2026-02-09)
-- [What I Am Doing to Stay Relevant as a Senior Analytics Consultant in 2026](https://towardsdatascience.com/what-i-am-doing-to-stay-relevant-as-a-senior-analytics-consultant-in-2026/) (2026-02-07)
-- [Pydantic Performance: 4 Tips on How to Validate Large Amounts of Data Efficiently](https://towardsdatascience.com/pydantic-performance-4-tips-on-how-to-validate-large-amounts-of-data-efficiently/) (2026-02-06)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [How to Create Your AI Caricature Using ChatGPT Image?](https://www.analyticsvidhya.com/blog/2026/02/chatgpt-caricature-image/) (2026-02-10)
+- [Qwen-Image-2.0 is Here and it Gives Nano Banana a Run for its Money](https://www.analyticsvidhya.com/blog/2026/02/qwen-image-2-0-is-here/) (2026-02-10)
 - [Maestro: A Developer-First Platform for Orchestrating AI Agents](https://www.analyticsvidhya.com/blog/2026/02/maestro-a-platform-for-orchestrating-ai-agents/) (2026-02-10)
 - [How to Learn AI for FREE in 2026?](https://www.analyticsvidhya.com/blog/2026/02/learn-ai-from-scratch/) (2026-02-09)
 - [Custom AI Tool Development in Regulated Industries: Why Off-The-Shelf LLM Solutions Fall Short](https://www.analyticsvidhya.com/blog/2026/02/why-industries-need-custom-ai-tools/) (2026-02-09)
-- [OpenClaw 2026.2.3: Building Safer, More Reliable Agents](https://www.analyticsvidhya.com/blog/2026/02/openclaw-2026-2-3/) (2026-02-09)
-- [Legal Aspects of AI in Marketing](https://www.analyticsvidhya.com/blog/2026/02/legal-aspects-of-ai-in-marketing/) (2026-02-08)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [What Every Small Business Needs to Know About Agentic AI](https://bit.ly/3NWvOYo) (2026-02-10)
+- [AI Agents Explained in 3 Levels of Difficulty](https://www.kdnuggets.com/ai-agents-explained-in-3-levels-of-difficulty) (2026-02-10)
+- [Building Your Modern Data Analytics Stack with Python, Parquet, and DuckDB](https://www.kdnuggets.com/building-your-modern-data-analytics-stack-with-python-parquet-and-duckdb) (2026-02-10)
 - [5 Useful Python Scripts to Automate Boring File Tasks](https://www.kdnuggets.com/5-useful-python-scripts-to-automate-boring-file-tasks) (2026-02-10)
 - [Claude Code Power Tips](https://www.kdnuggets.com/claude-code-power-tips) (2026-02-09)
-- [7 Python EDA Tricks to Find and Fix Data Issues](https://www.kdnuggets.com/7-python-eda-tricks-to-find-and-fix-data-issues) (2026-02-09)
-- [Is Your Machine Learning Pipeline as Efficient as it Could Be?](https://www.kdnuggets.com/is-your-machine-learning-pipeline-as-efficient-as-it-could-be) (2026-02-06)
-- [Tech Stack for Vibe Coding Modern Applications](https://www.kdnuggets.com/tech-stack-for-vibe-coding-modern-applications) (2026-02-05)
 
 </details>
 
