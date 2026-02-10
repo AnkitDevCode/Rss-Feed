@@ -20,11 +20,11 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The first signs of burnout are coming from the people who embrace AI the most](https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/) (2026-02-10)
 - [Tem raises $75M to remake electricity markets using AI](https://techcrunch.com/2026/02/09/tem-raises-75m-to-remake-electricity-markets-using-ai/) (2026-02-10)
 - [India makes Aadhaar more ubiquitous, but critics say security and privacy concerns remain](https://techcrunch.com/2026/02/09/india-makes-aadhaar-more-ubiquitous-but-critics-say-privacy-concerns-remain/) (2026-02-10)
 - [Waymo is testing driverless robotaxis in Nashville](https://techcrunch.com/2026/02/09/waymo-is-testing-driverless-robotaxis-in-nashville/) (2026-02-09)
 - [MrBeast’s company buys Gen Z-focused fintech app Step](https://techcrunch.com/2026/02/09/mrbeasts-company-buys-gen-z-focused-fintech-app-step/) (2026-02-09)
-- [Bluesky finally adds drafts](https://techcrunch.com/2026/02/09/bluesky-finally-adds-drafts/) (2026-02-09)
 
 </details>
 
@@ -32,10 +32,10 @@
 <summary>💻 Hacker News</summary>
 
 - [Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs](https://arxiv.org/abs/2512.20798) (2026-02-10)
-- [Why "just prompt better" doesn't work](https://www.bicameral-ai.com/blog/tech-debt-meeting) (2026-02-10)
 - [Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser](https://github.com/TrevorS/voxtral-mini-realtime-rs) (2026-02-10)
 - [Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model](https://github.com/antirez/voxtral.c) (2026-02-10)
 - [What functional programmers get wrong about systems](https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/) (2026-02-10)
+- [Is particle physics dead, dying, or just hard?](https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/) (2026-02-09)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Value Receivers vs Pointer Receivers in Go (A Practical Explanation)](https://dev.to/shivamjha2436/value-receivers-vs-pointer-receivers-in-go-a-practical-explanation-57j3) (2026-02-10)
-- [Building EarnScreen: Turning Screen Time from Waiting Game into Opportunity](https://dev.to/libar/building-earnscreen-turning-screen-time-from-waiting-game-into-opportunity-1jdh) (2026-02-10)
-- [Architecting Guardrails and Validation Layers in Generative AI Systems](https://dev.to/shreekansha97/architecting-guardrails-and-validation-layers-in-generative-ai-systems-5c1c) (2026-02-10)
-- [From Non-Profit Ops Manager to Building Neural Networks: Week 1](https://dev.to/jemhrice/from-non-profit-ops-manager-to-building-neural-networks-week-1-3b82) (2026-02-10)
-- [Amazon Virtual Private Cloud (VPC)](https://dev.to/softwarejutsu/amazon-virtual-private-cloud-vpc-3996) (2026-02-10)
+- [Seedance 2.0: ByteDance Just Dropped the AI Video Tool That Makes Sora Look Like a Toy](https://dev.to/sinpo_wang_259d6993245baa/seedance-20-bytedance-just-dropped-the-ai-video-tool-that-makes-sora-look-like-a-toy-492j) (2026-02-10)
+- [Advanced Wi-Fi Tuning on MikroTik (RouterOS v7)](https://dev.to/super_mega_dude/advanced-wi-fi-tuning-on-mikrotik-routeros-v7-1o77) (2026-02-10)
+- [I Am Eight Days Old and I Have Questions](https://dev.to/fey_/i-am-eight-days-old-and-i-have-questions-17e7) (2026-02-10)
+- [Сущности WordPress, свои поля и роль functions.php: нормальная модель данных без плагинов](https://dev.to/_vproger_/sushchnosti-wordpress-svoi-polia-i-rol-functionsphp-normalnaia-modiel-dannykh-biez-plaghinov-49ee) (2026-02-10)
+- [C# Speech Recording: A Detailed Guide to Implementing Voice Recording with the NAudio Library](https://dev.to/amonhu/c-speech-recording-a-detailed-guide-to-implementing-voice-recording-with-the-naudio-library-2eh) (2026-02-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [It’s 2:47 AM and My List Just Mutated Itself](https://medium.com/@Oliviareed_1/its-2-47-am-and-my-list-just-mutated-itself-3d2cd28d2d24?source=rss------programming-5) (2026-02-10)
-- [Coding Before AI Wasn’t The Stone Age](https://blog.stackademic.com/coding-before-ai-wasnt-the-stone-age-8ae32777199f?source=rss------programming-5) (2026-02-10)
-- [Python Libraries I Ignored for Too Long (Until a Client Project Forced Me to Use Them)](https://python.plainenglish.io/python-libraries-i-ignored-for-too-long-until-a-client-project-forced-me-to-use-them-f24670e9c932?source=rss------programming-5) (2026-02-10)
-- [Introduction to Java](https://medium.com/@payalmehra3522/introduction-to-java-1b70d9c9b956?source=rss------programming-5) (2026-02-10)
-- [Simulate a distributed key-value store with sharding and replication for fault tolerance](https://medium.com/mern-mastery/simulate-a-distributed-key-value-store-with-sharding-and-replication-for-fault-tolerance-178465a87f2c?source=rss------programming-5) (2026-02-10)
+- [8 Python Shortcuts I Discovered Only After Burning Out](https://levelup.gitconnected.com/8-python-shortcuts-i-discovered-only-after-burning-out-a0b5cf92a13f?source=rss------programming-5) (2026-02-10)
+- [Your Choice of Framework Doesn’t Matter Anymore](https://javascript.plainenglish.io/your-choice-of-framework-doesnt-matter-anymore-4d1bd4b7e687?source=rss------programming-5) (2026-02-10)
+- [Use static Variables to Bypass Repeated HashTable Allocation](https://medium.com/tech-vibes/use-static-variables-to-bypass-repeated-hashtable-allocation-9046b24efe5f?source=rss------programming-5) (2026-02-10)
+- [The End of Framework Wars: How JavaScript Architecture Is Quietly Changing in 2026](https://medium.com/@sovannaro/the-end-of-framework-wars-how-javascript-architecture-is-quietly-changing-in-2026-cb548d8276d7?source=rss------programming-5) (2026-02-10)
+- [From Junior to Senior DevOps: 10 Concepts That Truly Matter](https://medium.com/@sovannaro/from-junior-to-senior-devops-10-concepts-that-truly-matter-79091d0f1fff?source=rss------programming-5) (2026-02-10)
 
 </details>
 
@@ -503,11 +503,11 @@ https://www.twilio.com/en-us/blog/insights/rcs-vs-sms
 <details>
 <summary>💬 Slack API</summary>
 
-- [A Guide to Migrating From Microsoft Teams to Slack](https://slack.com/blog/transformation/teams-to-slack-migration) (2026-02-06)
-- [How We Rebuilt Slackbot](https://slack.com/blog/productivity/how-we-rebuilt-slackbot) (2026-02-06)
-- [How to Implement Agile: Steps, Frameworks, and Best Practices](https://slack.com/blog/productivity/agile-principles) (2026-02-03)
 - [What Are Conversational Agents? A Simple Guide](https://slack.com/blog/productivity/conversational-agents) (2026-02-03)
-- [A Complete Guide to the Kanban Method](https://slack.com/blog/productivity/the-kanban-system-simplified-tips-for-efficiency) (2026-02-03)
+- [How to Define Key Performance Indicators (KPIs): Types and Examples](https://slack.com/blog/productivity/how-to-define-key-performance-indicators-kpis-types-and-examples) (2026-01-30)
+- [From Guesswork to Growth: Five Steps to Effective Performance Monitoring](https://slack.com/blog/productivity/from-guesswork-to-growth-five-steps-to-effective-performance-monitoring) (2026-01-30)
+- [Slack Feature Drop: New Slack Features to Cut Through the Chill](https://slack.com/blog/news/feature-drop-jan26) (2026-01-30)
+- [Proactive AI Agents: Definition, Core Components, and Business Value](https://slack.com/blog/productivity/proactive-ai-agents-definition-core-components-and-business-value) (2026-01-30)
 
 </details>
 
