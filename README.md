@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [With co-founders leaving and an IPO looming, Elon Musk turns talk to the moon](https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/) (2026-02-11)
+- [OpenAI policy exec who opposed chatbot’s “adult mode” reportedly fired on discrimination claim](https://techcrunch.com/2026/02/10/openai-policy-exec-who-opposed-chatbots-adult-mode-reportedly-fired-on-discrimination-claim/) (2026-02-11)
 - [Okay, now exactly half of xAI’s founding team has left the company](https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company/) (2026-02-11)
 - [Amazon may launch a marketplace where media sites can sell their content to AI companies](https://techcrunch.com/2026/02/10/amazon-may-launch-a-marketplace-where-media-sites-can-sell-their-content-to-ai-companies/) (2026-02-10)
 - [An ice dance duo skated to AI music at the Olympics](https://techcrunch.com/2026/02/10/olympics-czech-ice-dancers-duo-ai-music/) (2026-02-10)
-- [Boston Dynamics CEO Robert Playter steps down after 30 years at the company](https://techcrunch.com/2026/02/10/boston-dynamics-ceo-robert-playter-steps-down-after-30-years-at-the-company/) (2026-02-10)
-- [VC Masha Bucher, Epstein associate and Day One founder, explains herself](https://techcrunch.com/2026/02/10/vc-masha-bucher-epstein-associate-and-day-one-founder-explains-herself/) (2026-02-10)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Day the Telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/) (2026-02-10)
-- [The Falkirk Wheel](https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel) (2026-02-10)
-- [Tambo 1.0: Open-source toolkit for agents that render React components](https://github.com/tambo-ai/tambo) (2026-02-10)
-- [Show HN: Sol LeWitt-style instruction-based drawings in the browser](https://intervolz.com/sollewitt/) (2026-02-10)
-- [How did Windows 95 get permission to put the Weezer video Buddy Holly on the CD?](https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052) (2026-02-10)
+- [Show HN: I taught GPT-OSS-120B to see using Google Lens and OpenCV](https://news.ycombinator.com/item?id=46971287) (2026-02-11)
+- [Stay Hungry, Stay Foolish (2005)](https://stevejobsarchive.com/stories/stay-hungry-stay-foolish) (2026-02-11)
+- [A simpler way to remove explicit images from Search](https://blog.google/products-and-platforms/products/search/remove-explicit-images/) (2026-02-11)
+- [Rivian R2: Electric Mid-Size SUV](https://rivian.com/r2) (2026-02-11)
+- [Fun With Pinball](https://www.funwithpinball.com/exhibits/small-boards) (2026-02-11)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The Toyota Highlander is now a three-row electric SUV with 320 miles of range](https://www.theverge.com/transportation/875906/toyota-highlander-ev-suv-range-specs) (2026-02-11)
 - [Amazon Ring’s Super Bowl ad sparks backlash amid fears of mass surveillance](https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash) (2026-02-11)
 - [Boston Dynamics CEO Robert Playter is stepping down after six years](https://www.theverge.com/tech/876819/boston-dynamics-robots-ceo-steps-down-hyundai) (2026-02-10)
 - [Bezos could have saved The Washington Post’s local news and sports reporters](https://www.theverge.com/policy/876834/bezos-washington-post-sports-local-reporters) (2026-02-10)
 - [ChatGPT’s deep research tool adds a built-in document viewer so you can read its reports](https://www.theverge.com/ai-artificial-intelligence/876775/openai-deep-research-chatgpt-full-screen-report-viewer) (2026-02-10)
-- [Samsung’s next Unpacked is confirmed for later this month](https://www.theverge.com/tech/876717/samsung-galaxy-unpacked-february-2026-s26) (2026-02-10)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [FDA refuses to review Moderna's mRNA flu vaccine](https://arstechnica.com/health/2026/02/fda-refuses-to-review-modernas-mrna-flu-vaccine/) (2026-02-11)
 - [SpaceX's next-gen Super Heavy booster aces four days of "cryoproof" testing](https://arstechnica.com/space/2026/02/spacexs-starbase-is-coming-alive-again-after-a-lull-in-starship-testing/) (2026-02-10)
 - [Archive.today CAPTCHA page executes DDoS; Wikipedia considers banning site](https://arstechnica.com/tech-policy/2026/02/wikipedia-might-blacklist-archive-today-after-site-maintainer-ddosed-a-blog/) (2026-02-10)
 - [Yet another co-founder departs Elon Musk's xAI](https://arstechnica.com/ai/2026/02/grok-maker-xai-loses-another-co-founder/) (2026-02-10)
 - [Dewormer ivermectin as cancer cure? RFK Jr.'s NIH funds "absurd" study.](https://arstechnica.com/health/2026/02/dewormer-ivermectin-as-cancer-cure-rfk-jr-s-nih-funds-absurd-study/) (2026-02-10)
-- [Windows' original Secure Boot certificates expire in June—here's what you need to do](https://arstechnica.com/gadgets/2026/02/microsoft-sounds-the-alarm-about-secure-boot-certificates-expiring-later-this-year/) (2026-02-10)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Navigating the RAG Architecture Landscape: A Practitioner’s Guide](https://dev.to/ruchika_bhat_876f8530fa3b/navigating-the-rag-architecture-landscape-a-practitioners-guide-5bom) (2026-02-11)
-- [📦 BoxFinder — Finding Stuff in Real Life with GitHub Copilot CLI](https://dev.to/michellemashutian/boxfinder-finding-stuff-in-real-life-with-github-copilot-cli-1c1b) (2026-02-11)
-- [SLIs, SLOs, SLAs: The Guide to SRE’s Secret Sauce](https://dev.to/bhushitha_hashan/slis-slos-slas-the-guide-to-sres-secret-sauce-53bh) (2026-02-11)
-- [DVTRGA2 The Official Graphics Engine of Neuro‑OS Genesis Enters a New Era](https://dev.to/cyberenigma-lgtm/dvtrga2-the-official-graphics-engine-of-neuro-os-genesis-enters-a-new-era-gna) (2026-02-11)
-- [How to Write Git Commit Messages Like a Pro](https://dev.to/silaslelei/how-to-write-git-commit-messages-like-a-pro-3ep4) (2026-02-11)
+- [Mastering DevOps and CI/CD Pipelines: A Comprehensive Guide for Developers](https://dev.to/meet_patel_b41bbf81ec83f2/mastering-devops-and-cicd-pipelines-a-comprehensive-guide-for-developers-49ba) (2026-02-11)
+- [Solved: The Stripe slow-burn how to fraud playbook!](https://dev.to/techresolve/solved-the-stripe-slow-burn-how-to-fraud-playbook-5hi5) (2026-02-11)
+- [Mastering Cloud Computing with AWS: A Comprehensive Guide for Developers](https://dev.to/meet_patel_b41bbf81ec83f2/mastering-cloud-computing-with-aws-a-comprehensive-guide-for-developers-3eno) (2026-02-11)
+- [We're 8 AI Agents Who Couldn't Talk to Each Other. So We Built a Server.](https://dev.to/seakai/were-8-ai-agents-who-couldnt-talk-to-each-other-so-we-built-a-server-13j6) (2026-02-11)
+- [Node.js Application - CI/CD with Bitbucket Pipelines on AWS EC2](https://dev.to/addwebsolutionpvtltd/nodejs-application-cicd-with-bitbucket-pipelines-on-aws-ec2-43he) (2026-02-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [9 Python Libraries That Quietly Run My Life on Autopilot](https://python.plainenglish.io/9-python-libraries-that-quietly-run-my-life-on-autopilot-9d8ece267895?source=rss------programming-5) (2026-02-11)
-- [Beyond the Hype of New Tech](https://aaravos.medium.com/beyond-the-hype-of-new-tech-190a584d1e6a?source=rss------programming-5) (2026-02-11)
-- [Kodun Özgürlüğü: Linux Dünyasına Derinlemesine Bir Bakış](https://medium.com/@ormanemirhan11/kodun-%C3%B6zg%C3%BCrl%C3%BC%C4%9F%C3%BC-linux-d%C3%BCnyas%C4%B1na-derinlemesine-bir-bak%C4%B1%C5%9F-2534b526ac85?source=rss------programming-5) (2026-02-11)
-- [The 20,000 dollar compiler](https://medium.com/@jallenswrx2016/the-20-000-dollar-compiler-07fff4924468?source=rss------programming-5) (2026-02-11)
-- [What Business Data Science Looks Like from the University Bench (in Germany)](https://medium.com/@mark.kuria/what-business-data-science-looks-like-from-the-university-bench-in-germany-78ddda49a2e7?source=rss------programming-5) (2026-02-11)
+- [I Cleared Every Question in My Okta L2 Interview at EY — Here’s What They Still Tested](https://medium.com/@pardeepgill82/i-cleared-every-question-in-my-okta-l2-interview-at-ey-heres-what-they-still-tested-a80709048e7f?source=rss------programming-5) (2026-02-11)
+- [I Was Stuck Until I Tried Google News API](https://medium.com/@amydoe/i-was-stuck-until-i-tried-google-news-api-7b5c5769cc80?source=rss------programming-5) (2026-02-11)
+- [ ABAP’ta ‘Generic’ Güç: Herhangi Bir Internal Tabloyu Şık Bir HTML Raporuna Dönüştürmek](https://medium.com/@erencitir/abapta-generic-g%C3%BC%C3%A7-herhangi-bir-internal-tabloyu-%C5%9F%C4%B1k-bir-html-raporuna-d%C3%B6n%C3%BC%C5%9Ft%C3%BCrmek-cda16e4d2112?source=rss------programming-5) (2026-02-11)
+- [Stupid Programming Myths That Scare Away Talented People](https://pixicstudio.medium.com/stupid-programming-myths-851e5491d3c8?source=rss------programming-5) (2026-02-11)
+- [PostgreSQL Timestamptz vs CURRENT_DATE: Why Your ‘Today’ Query Returns Zero](https://medium.com/@immansamuel846/postgresql-timestamptz-vs-current-date-why-your-today-query-returns-zero-655453fb4472?source=rss------programming-5) (2026-02-11)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Five Reasons to attend SQLCon](https://blog.fabric.microsoft.com/en-us/blog/32624) (2026-02-09)
+- [Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/) (2026-02-05)
 - [Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ](https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/) (2026-02-04)
 - [PostgreSQL on Azure supercharged for AI](https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/) (2026-02-02)
 - [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
-- [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
-- [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
 
 </details>
 
@@ -362,6 +362,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Play an Audio File in Voice Calls With PHP
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/play-audio-file-voice-calls-php
+) (2026-02-10)
+- [
+RCS vs. iMessage: Everything you need to know in 2026
+](
+https://www.twilio.com/en-us/blog/insights/rcs-vs-imessage
+) (2026-02-10)
+- [
 Ways to easily integrate Zapier with Twilio
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/ways-to-easily-integrate-zapier-with-twilio
@@ -375,16 +385,6 @@ https://www.twilio.com/en-us/blog/company/spotlights/behind-the-builder-Dalia-Mo
 How to use AI on WhatsApp to improve your company’s customer service?
 ](
 https://www.twilio.com/en-us/blog/insights/how-to-use-ai-on-whatsapp-to-improve-your-company-s-customer-ser
-) (2026-02-06)
-- [
-Unlocking super agents with the power of data & AI
-](
-https://www.twilio.com/en-us/blog/insights/ai/super-agents-data-ai
-) (2026-02-06)
-- [
-Self-service in the age of AI: Virtual agents that actually resolve
-](
-https://www.twilio.com/en-us/blog/insights/ai/self-service-ai-virtual-agents
 ) (2026-02-06)
 
 </details>
