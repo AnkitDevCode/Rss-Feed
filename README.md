@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Samsung to hold its Galaxy S26 event on February 25](https://techcrunch.com/2026/02/10/samsung-to-hold-its-galaxy-s26-event-on-february-25/) (2026-02-11)
-- [With co-founders leaving and an IPO looming, Elon Musk turns talk to the moon](https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/) (2026-02-11)
-- [OpenAI policy exec who opposed chatbot’s “adult mode” reportedly fired on discrimination claim](https://techcrunch.com/2026/02/10/openai-policy-exec-who-opposed-chatbots-adult-mode-reportedly-fired-on-discrimination-claim/) (2026-02-11)
-- [Okay, now exactly half of xAI’s founding team has left the company](https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company/) (2026-02-11)
-- [Amazon may launch a marketplace where media sites can sell their content to AI companies](https://techcrunch.com/2026/02/10/amazon-may-launch-a-marketplace-where-media-sites-can-sell-their-content-to-ai-companies/) (2026-02-10)
+- [DOJ says Trenchant boss sold exploits to Russian broker capable of accessing ‘millions of computers and devices’](https://techcrunch.com/2026/02/11/doj-says-trenchant-boss-sold-exploits-to-russian-broker-capable-of-accessing-millions-of-computers-and-devices/) (2026-02-11)
+- [Why the economics of orbital AI are so brutal](https://techcrunch.com/2026/02/11/why-the-economics-of-orbital-ai-are-so-brutal/) (2026-02-11)
+- [Threads’ new ‘Dear Algo’ AI feature lets you personalize your feed](https://techcrunch.com/2026/02/11/threads-new-dear-algo-ai-feature-lets-you-personalize-your-feed/) (2026-02-11)
+- [Google releases the first beta of Android 17, adopts a continuous developer release plan](https://techcrunch.com/2026/02/11/google-releases-the-first-beta-of-android-17-adopts-a-continous-developer-release-plan/) (2026-02-11)
+- [How AI changes the math for startups, according to a Microsoft VP](https://techcrunch.com/2026/02/11/how-ai-changes-the-math-for-startups-according-to-a-microsoft-vp/) (2026-02-11)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [FAA closes airspace around El Paso, Texas, for 10 days, grounding all flights](https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa) (2026-02-11)
-- [Exposure Simulator](http://www.andersenimages.com/tutorials/exposure-simulator/) (2026-02-11)
-- [Chrome extensions spying on 37M users' browsing data](https://qcontinuum.substack.com/p/spying-chrome-extensions-287-extensions-495) (2026-02-11)
-- [A Cosmic Miracle: A Remarkably Luminous Galaxy at z=14.44 Confirmed with JWST](https://astro.theoj.org/article/156033-a-cosmic-miracle-a-remarkably-luminous-galaxy-at-_z_-sub-spec-sub-14-44-confirmed-with-jwst) (2026-02-11)
-- [CoLoop (YC S21) Is Hiring Ex Technical Founders in London](https://www.workatastartup.com/jobs/90016) (2026-02-11)
+- [Claude Code Is Being Dumbed Down](https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/) (2026-02-11)
+- [NetNewsWire Turns 23](https://netnewswire.blog/2026/02/11/netnewswire-turns.html) (2026-02-11)
+- [Should your developer company go open source?](https://extremefoundership.substack.com/p/should-your-developer-company-go) (2026-02-11)
+- [GLM-5: From Vibe Coding to Agentic Engineering](https://z.ai/blog/glm-5) (2026-02-11)
+- [Toyota Fluorite: "console-grade" Flutter game engine](https://fluorite.game/) (2026-02-11)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [T-Mobile will live translate regular phone calls without an app](https://www.theverge.com/tech/877008/t-mobile-live-translation-languages-ai-network) (2026-02-11)
-- [Uber Eats adds AI assistant to help with grocery shopping](https://www.theverge.com/transportation/876540/uber-eats-ai-chatbot-cart-assistant-grocery-shopping) (2026-02-11)
-- [‘Shut up and focus on the mission’: Tech workers are frustrated by their companies’ silence about ICE](https://www.theverge.com/ai-artificial-intelligence/876558/tech-workers-ice-resistance-google-microsoft-clear-abbott) (2026-02-11)
-- [The Toyota Highlander is now a three-row electric SUV with 320 miles of range](https://www.theverge.com/transportation/875906/toyota-highlander-ev-suv-range-specs) (2026-02-11)
-- [Amazon Ring’s Super Bowl ad sparks backlash amid fears of mass surveillance](https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash) (2026-02-11)
+- [Samsung’s offering up to $900 of trade-in credit toward its new phones](https://www.theverge.com/gadgets/877258/samsung-unpacked-preorder-galaxy-s26-plus-ultra-ai) (2026-02-11)
+- [Microsoft fixes Notepad flaw that could trick users into clicking malicious Markdown links](https://www.theverge.com/tech/877295/microsoft-notepad-markdown-security-vulnerability-remote-code-execution) (2026-02-11)
+- [Here are the 40 best Presidents Day deals you can already shop](https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026) (2026-02-11)
+- [Why ‘deleted’ doesn’t mean gone: How police recovered Nancy Guthrie’s doorbell footage](https://www.theverge.com/tech/877235/nancy-guthrie-google-nest-cam-video-storage) (2026-02-11)
+- [Threads’ new ‘Dear Algo’ feature lets you tell the algorithm what you want to see](https://www.theverge.com/tech/876610/meta-threads-dear-algo-algorithm) (2026-02-11)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [What's next after the Trump administration revokes key finding on climate change?](https://arstechnica.com/science/2026/02/whats-next-after-the-trump-administration-revokes-key-finding-on-climate-change/) (2026-02-11)
+- [The Feds closed air space around El Paso on Wednesday to address "cartel" drones](https://arstechnica.com/space/2026/02/faa-shuts-down-el-paso-airspace-for-10-days-and-wont-say-why/) (2026-02-11)
+- [America, it's time to think beyond leather for luxury car seats](https://arstechnica.com/features/2026/02/america-its-time-to-think-beyond-leather-for-luxury-car-seats/) (2026-02-11)
 - [FDA refuses to review Moderna's mRNA flu vaccine](https://arstechnica.com/health/2026/02/fda-refuses-to-review-modernas-mrna-flu-vaccine/) (2026-02-11)
 - [SpaceX's next-gen Super Heavy booster aces four days of "cryoproof" testing](https://arstechnica.com/space/2026/02/spacexs-starbase-is-coming-alive-again-after-a-lull-in-starship-testing/) (2026-02-10)
-- [Archive.today CAPTCHA page executes DDoS; Wikipedia considers banning site](https://arstechnica.com/tech-policy/2026/02/wikipedia-might-blacklist-archive-today-after-site-maintainer-ddosed-a-blog/) (2026-02-10)
-- [Yet another co-founder departs Elon Musk's xAI](https://arstechnica.com/ai/2026/02/grok-maker-xai-loses-another-co-founder/) (2026-02-10)
-- [Dewormer ivermectin as cancer cure? RFK Jr.'s NIH funds "absurd" study.](https://arstechnica.com/health/2026/02/dewormer-ivermectin-as-cancer-cure-rfk-jr-s-nih-funds-absurd-study/) (2026-02-10)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: inside the QuitGPT movement, and EVs in Africa](https://www.technologyreview.com/2026/02/11/1132724/the-download-inside-the-quitgpt-movement-and-evs-in-africa/) (2026-02-11)
 - [EVs could be cheaper to own than gas cars in Africa by 2040](https://www.technologyreview.com/2026/02/11/1132714/evs-africa-cost/) (2026-02-11)
 - [A “QuitGPT” campaign is urging people to cancel their ChatGPT subscriptions](https://www.technologyreview.com/2026/02/10/1132577/a-quitgpt-campaign-is-urging-people-to-cancel-chatgpt-subscriptions/) (2026-02-10)
 - [The Download: Making AI Work, and why the Moltbook hype is similar to Pokémon](https://www.technologyreview.com/2026/02/10/1132608/the-download-making-ai-work-and-why-the-moltbook-hype-is-similar-to-pokemon/) (2026-02-10)
 - [Why the Moltbook frenzy was like Pokémon](https://www.technologyreview.com/2026/02/09/1132537/a-lesson-from-pokemon/) (2026-02-09)
-- [The Download: what Moltbook tells us about AI hype, and the rise and rise of AI therapy](https://www.technologyreview.com/2026/02/09/1132498/the-download-what-moltbook-tells-us-about-ai-hype-and-the-rise-and-rise-of-ai-therapy/) (2026-02-09)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Is anyone using AI for good?](https://stackoverflow.blog/2026/02/11/is-anyone-using-ai-for-good/) (2026-02-11)
 - [The logos, ethos, and pathos of your LLMs](https://stackoverflow.blog/2026/02/10/the-logos-ethos-and-pathos-of-your-llms/) (2026-02-10)
 - [Why demand for code is infinite: How AI creates more developer jobs](https://stackoverflow.blog/2026/02/09/why-demand-for-code-is-infinite-how-ai-creates-more-developer-jobs/) (2026-02-09)
 - [AI attention span so good it shouldn’t be legal](https://stackoverflow.blog/2026/02/06/ai-attention-span-so-good-it-shouldn-t-be-legal/) (2026-02-06)
 - [Code smells for AI agents: Q&A with Eno Reyes of Factory](https://stackoverflow.blog/2026/02/04/code-smells-for-ai-agents-q-and-a-with-eno-reyes-of-factory/) (2026-02-04)
-- [Generating text with diffusion (and ROI with LLMs)](https://stackoverflow.blog/2026/02/03/generating-text-with-diffusion-and-roi-with-llms/) (2026-02-03)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Your "Read Later" list is a graveyard. It is time to stop hoarding.](https://dev.to/the_nortern_dev/your-read-later-list-is-a-graveyard-it-is-time-to-stop-hoarding-388g) (2026-02-11)
-- [Delete Operation in B+-Tree: Removing Without Destabilizing](https://dev.to/lovestaco/delete-operation-in-b-tree-removing-without-destabilizing-46og) (2026-02-11)
-- [Would You Accept That a Thinking Model Is Better Than You at Your Craft?](https://dev.to/turtleand/would-you-accept-that-a-thinking-model-is-better-than-you-at-your-craft-2pi1) (2026-02-11)
-- [Building SEO Automation in .NET with SERankingSharp](https://dev.to/ranjancse/building-seo-automation-in-net-with-serankingsharp-4f5i) (2026-02-11)
-- [Python REST API Guide: Converting PDF Files to JPG Images](https://dev.to/shahzad_ashraf_5ea18e2b2d/python-rest-api-guide-converting-pdf-files-to-jpg-images-28hm) (2026-02-11)
+- [[SUI] GeometryReader](https://dev.to/david_goyes_a488f58a17a53/sui-geometryreader-22om) (2026-02-11)
+- [AI-SLOP Detector v2.7.0 — Why We Built a Linter We Actually Use](https://dev.to/flamehaven01/ai-slop-detector-v270-why-we-built-a-linter-we-actually-use-2nb6) (2026-02-11)
+- [Your Traces Look Fine. Your Revenue Isn’t.](https://dev.to/paras_kampasi/your-traces-look-fine-your-revenue-isnt-1pah) (2026-02-11)
+- [GitHub Copilot CLI Challenge: Music Idea Genarator](https://dev.to/fedrummond_/github-copilot-cli-challenge-music-idea-genarator-5h9j) (2026-02-11)
+- [Is it just me, or is cross-chain API integration getting WORSE in 2026?](https://dev.to/serhii_kovalski/is-it-just-me-or-is-cross-chain-api-integration-getting-worse-in-2026-281k) (2026-02-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Regex: Test & Validate Regular Expressions](https://medium.com/@meetamjadsaeed/regex-test-validate-regular-expressions-5155c5ab1b5c?source=rss------programming-5) (2026-02-11)
-- [One Line, Millions of Operations: The World Behind print("hello world")](https://itstheanurag.medium.com/one-line-millions-of-operations-the-world-behind-print-hello-world-749cf42df292?source=rss------programming-5) (2026-02-11)
-- [Advanced Performance Engineering in Next.js (Production-Level Deep Dive)](https://medium.com/@chandansingh73718/advanced-performance-engineering-in-next-js-production-level-deep-dive-75d385be247c?source=rss------programming-5) (2026-02-11)
-- [The 7 Main Features of Node.js: A Deep Dive into Its Architecture](https://medium.com/@govindaekbote7/the-7-main-features-of-node-js-a-deep-dive-into-its-architecture-fed14254bcaf?source=rss------programming-5) (2026-02-11)
-- [Peer Review — PRAGMA: A Profiling-Reasoned Multi-Agent Framework for Automatic Kernel Optimization](https://medium.com/@jolalf/peer-review-pragma-a-profiling-reasoned-multi-agent-framework-for-automatic-kernel-optimization-c40f34afcc4e?source=rss------programming-5) (2026-02-11)
+- [Java Backend Developer Roadmap (Sıfırdan Profesyonel Seviyeye)](https://medium.com/@ekramziaye/java-backend-developer-roadmap-s%C4%B1f%C4%B1rdan-profesyonel-seviyeye-70d6886cdf22?source=rss------programming-5) (2026-02-11)
+- [Why Most Backend Developer Roadmaps Are Backwards (And What Actually Works)](https://medium.com/@toyezyadav/backend-developer-roadmap-backwards-79d58b57bfa7?source=rss------programming-5) (2026-02-11)
+- [How to Present Your Home Lab in a DevOps Interview and Actually Get the Job](https://aws.plainenglish.io/how-to-present-your-home-lab-in-a-devops-interview-and-actually-get-the-job-36a3e7066d37?source=rss------programming-5) (2026-02-11)
+- [Math Blog (19–23/1/2026)](https://medium.com/@TNTisTilted/math-blog-19-23-1-2026-7b28ba422c86?source=rss------programming-5) (2026-02-11)
+- [Headless CMS Integration with JavaScript: A Hands-On Guide](https://javascript.plainenglish.io/headless-cms-integration-with-javascript-a-hands-on-guide-476778b1dbb3?source=rss------programming-5) (2026-02-11)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Can high-temperature superconductors transform the power infrastructure of datacenters?](https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/) (2026-02-10)
 - [Five Reasons to attend SQLCon](https://blog.fabric.microsoft.com/en-us/blog/32624) (2026-02-09)
 - [Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/) (2026-02-05)
 - [Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ](https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/) (2026-02-04)
 - [PostgreSQL on Azure supercharged for AI](https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/) (2026-02-02)
+- [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
 
 </details>
 
@@ -229,11 +229,11 @@
 <details>
 <summary>🏠 Airbnb Engineering</summary>
 
+- [My Journey to Airbnb — Anna Sulkina](https://medium.com/airbnb-engineering/my-journey-to-airbnb-anna-sulkina-85216183d094?source=rss----53c7c27702d5---4) (2026-02-11)
 - [My Journey to Airbnb: Peter Coles](https://medium.com/airbnb-engineering/my-journey-to-airbnb-peter-coles-0e8efd01c5a8?source=rss----53c7c27702d5---4) (2026-01-28)
 - [Pay As a Local](https://medium.com/airbnb-engineering/pay-as-a-local-bef469b72f32?source=rss----53c7c27702d5---4) (2026-01-12)
 - [GraphQL Data Mocking at Scale with LLMs and @generateMock](https://medium.com/airbnb-engineering/graphql-data-mocking-at-scale-with-llms-and-generatemock-30b380f12bd6?source=rss----53c7c27702d5---4) (2025-10-30)
 - [From Static Rate Limiting to Adaptive Traffic Management in Airbnb’s Key-Value Store](https://medium.com/airbnb-engineering/from-static-rate-limiting-to-adaptive-traffic-management-in-airbnbs-key-value-store-29362764e5c2?source=rss----53c7c27702d5---4) (2025-10-09)
-- [Building a Next-Generation Key-Value Store at Airbnb](https://medium.com/airbnb-engineering/building-a-next-generation-key-value-store-at-airbnb-0de8465ba354?source=rss----53c7c27702d5---4) (2025-09-24)
 
 </details>
 
@@ -251,22 +251,22 @@
 <details>
 <summary>👥 Facebook Engineering</summary>
 
+- [The Death of Traditional Testing: Agentic Development Broke a 50-Year-Old Field, JiTTesting Can Revive It](https://engineering.fb.com/2026/02/11/developer-tools/the-death-of-traditional-testing-agentic-development-jit-testing-revival/) (2026-02-11)
 - [Building Prometheus: How Backend Aggregation Enables Gigawatt-Scale AI Clusters](https://engineering.fb.com/2026/02/09/data-center-engineering/building-prometheus-how-backend-aggregation-enables-gigawatt-scale-ai-clusters/) (2026-02-09)
 - [No Display? No Problem: Cross-Device Passkey Authentication for XR Devices](https://engineering.fb.com/2026/02/04/security/cross-device-passkey-authentication-for-xr-devices-meta-quest/) (2026-02-04)
 - [Rust at Scale: An Added Layer of Security for WhatsApp](https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/) (2026-01-27)
 - [Adapting the Facebook Reels RecSys AI Model Based on User Feedback](https://engineering.fb.com/2026/01/14/ml-applications/adapting-the-facebook-reels-recsys-ai-model-based-on-user-feedback/) (2026-01-14)
-- [CSS at Scale With StyleX](https://engineering.fb.com/2026/01/12/web/css-at-scale-with-stylex/) (2026-01-12)
 
 </details>
 
 <details>
 <summary>📦 Dropbox Tech Blog</summary>
 
+- [Insights from our executive roundtable on AI and engineering productivity](https://dropbox.tech/culture/insights-from-our-executive-roundtable-on-ai-and-engineering-productivity) (2026-02-11)
 - [Engineering VP Josh Clemm on how we use knowledge graphs, MCP, and DSPy in Dash](https://dropbox.tech/machine-learning/vp-josh-clemm-knowledge-graphs-mcp-and-dspy-dash) (2026-01-28)
 - [Inside the feature store powering real-time AI in Dropbox Dash](https://dropbox.tech/machine-learning/feature-store-powering-realtime-ai-in-dropbox-dash) (2025-12-18)
 - [Building the future: highlights from Dropbox’s 2025 summer intern class](https://dropbox.tech/culture/highlights-from-dropbox-2025-summer-intern-class) (2025-11-26)
 - [How Dash uses context engineering for smarter AI](https://dropbox.tech/machine-learning/how-dash-uses-context-engineering-for-smarter-ai) (2025-11-17)
-- [With Mobius Labs' Aana models, we're bringing deeper multimodal understanding to Dropbox Dash](https://dropbox.tech/machine-learning/mobius-labs-aana-dropbox-multimodal-understanding) (2025-10-23)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Python Unplugged on PyTV – A Free Online Python Conference for Everyone ](https://blog.jetbrains.com/pycharm/2026/02/python-unplugged-on-pytv/) (2026-02-11)
 - [The State of Rust 2025: Popularity, Trends, and Future](https://blog.jetbrains.com/rust/2026/02/11/state-of-rust-2025/) (2026-02-11)
 - [The Best AI Models for Coding: Accuracy, Integration, and Developer Fit](https://blog.jetbrains.com/ai/2026/02/the-best-ai-models-for-coding-accuracy-integration-and-developer-fit/) (2026-02-11)
 - [dotInsights | February 2026](https://blog.jetbrains.com/dotnet/2026/02/10/dotinsights-february-2026/) (2026-02-10)
 - [Introducing Databao: The JetBrains Tool That Lets You Talk to Your Data](https://blog.jetbrains.com/databao/2026/02/introducing-databao/) (2026-02-10)
-- [[New Livestream] Go 1.26 Release Party](https://blog.jetbrains.com/go/2026/02/10/new-livestream-go-1-26-release-party/) (2026-02-10)
 
 </details>
 
@@ -362,6 +362,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Play an Audio File in Voice Calls With PHP
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/play-audio-file-voice-calls-php
+) (2026-02-10)
+- [
+RCS vs. iMessage: Everything you need to know in 2026
+](
+https://www.twilio.com/en-us/blog/insights/rcs-vs-imessage
+) (2026-02-10)
+- [
 Ways to easily integrate Zapier with Twilio
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/ways-to-easily-integrate-zapier-with-twilio
@@ -375,16 +385,6 @@ https://www.twilio.com/en-us/blog/company/spotlights/behind-the-builder-Dalia-Mo
 How to use AI on WhatsApp to improve your company’s customer service?
 ](
 https://www.twilio.com/en-us/blog/insights/how-to-use-ai-on-whatsapp-to-improve-your-company-s-customer-ser
-) (2026-02-06)
-- [
-Unlocking super agents with the power of data & AI
-](
-https://www.twilio.com/en-us/blog/insights/ai/super-agents-data-ai
-) (2026-02-06)
-- [
-Self-service in the age of AI: Virtual agents that actually resolve
-](
-https://www.twilio.com/en-us/blog/insights/ai/self-service-ai-virtual-agents
 ) (2026-02-06)
 
 </details>
@@ -569,11 +569,11 @@ https://www.twilio.com/en-us/blog/insights/ai/self-service-ai-virtual-agents
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Building an AI Agent to Detect and Handle Anomalies in Time-Series Data](https://towardsdatascience.com/building-an-ai-agent-to-detect-and-handle-anomalies-in-time-series-data/) (2026-02-11)
 - [Not All RecSys Problems Are Created Equal](https://towardsdatascience.com/not-all-recsys-problems-are-created-equal/) (2026-02-11)
 - [How to Model The Expected Value of Marketing Campaigns](https://towardsdatascience.com/how-to-model-the-expected-value-of-marketing-campaigns/) (2026-02-10)
 - [Implementing the Snake Game in Python](https://towardsdatascience.com/implementing-the-snake-game-in-python/) (2026-02-10)
 - [How to Personalize Claude Code](https://towardsdatascience.com/how-to-personalize-claude-code/) (2026-02-10)
-- [The Machine Learning Lessons I’ve Learned Last Month](https://towardsdatascience.com/the-machine-learning-lessons-ive-learned-last-month/) (2026-02-09)
 
 </details>
 
@@ -591,11 +591,11 @@ https://www.twilio.com/en-us/blog/insights/ai/self-service-ai-virtual-agents
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Why Most People Misuse SMOTE, And How to Do It Right](https://www.kdnuggets.com/why-most-people-misuse-smote-and-how-to-do-it-right) (2026-02-11)
 - [Versioning and Testing Data Solutions: Applying CI and Unit Tests on Interview-style Queries](https://www.kdnuggets.com/versioning-and-testing-data-solutions-applying-ci-and-unit-tests-on-interview-style-queries) (2026-02-11)
 - [What Every Small Business Needs to Know About Agentic AI](https://bit.ly/3NWvOYo) (2026-02-10)
 - [AI Agents Explained in 3 Levels of Difficulty](https://www.kdnuggets.com/ai-agents-explained-in-3-levels-of-difficulty) (2026-02-10)
 - [Building Your Modern Data Analytics Stack with Python, Parquet, and DuckDB](https://www.kdnuggets.com/building-your-modern-data-analytics-stack-with-python-parquet-and-duckdb) (2026-02-10)
-- [5 Useful Python Scripts to Automate Boring File Tasks](https://www.kdnuggets.com/5-useful-python-scripts-to-automate-boring-file-tasks) (2026-02-10)
 
 </details>
 
@@ -624,11 +624,11 @@ https://www.twilio.com/en-us/blog/insights/ai/self-service-ai-virtual-agents
 <details>
 <summary>🧠 DeepMind Blog</summary>
 
+- [Accelerating Mathematical and Scientific Discovery with Gemini Deep Think](https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/) (2026-02-09)
 - [Project Genie: Experimenting with infinite, interactive worlds](https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/) (2026-01-29)
 - [D4RT: Teaching AI to see the world in four dimensions](https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/) (2026-01-16)
 - [Veo 3.1 Ingredients to Video: More consistency, creativity and control](https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/) (2026-01-13)
 - [Google's year in review: 8 areas with research breakthroughs in 2025](https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/) (2025-12-23)
-- [Gemini 3 Flash: frontier intelligence built for speed](https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/) (2025-12-17)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
