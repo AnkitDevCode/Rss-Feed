@@ -20,33 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Former Tesla product manager wants to make luxury goods impossible to fake, starting with a chip](https://techcrunch.com/2026/02/10/former-tesla-product-manager-wants-to-make-luxury-goods-impossible-to-fake-starting-with-a-chip/) (2026-02-10)
-- [Singapore says China-backed hackers targeted its four largest phone companies](https://techcrunch.com/2026/02/10/singapore-china-backed-hackers-targeted-largest-phone-companies-salt-typhoon/) (2026-02-10)
-- [Vega raises $120M Series B to rethink how enterprises detect cyber threats](https://techcrunch.com/2026/02/10/vega-raises-120m-series-b-to-rethink-how-enterprises-detect-cyber-threats/) (2026-02-10)
-- [What to know about Netflix’s landmark acquisition of Warner Bros. ](https://techcrunch.com/2026/02/10/what-to-know-about-netflixs-landmark-acquisition-of-warner-bros/) (2026-02-10)
-- [Google expands tools to let users remove sensitive data about themselves from Search](https://techcrunch.com/2026/02/10/google-remove-sensitive-personal-data-from-search/) (2026-02-10)
+- [Okay, now exactly half of xAI’s founding team has left the company](https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company/) (2026-02-11)
+- [Amazon may launch a marketplace where media sites can sell their content to AI companies](https://techcrunch.com/2026/02/10/amazon-may-launch-a-marketplace-where-media-sites-can-sell-their-content-to-ai-companies/) (2026-02-10)
+- [An ice dance duo skated to AI music at the Olympics](https://techcrunch.com/2026/02/10/olympics-czech-ice-dancers-duo-ai-music/) (2026-02-10)
+- [Boston Dynamics CEO Robert Playter steps down after 30 years at the company](https://techcrunch.com/2026/02/10/boston-dynamics-ceo-robert-playter-steps-down-after-30-years-at-the-company/) (2026-02-10)
+- [VC Masha Bucher, Epstein associate and Day One founder, explains herself](https://techcrunch.com/2026/02/10/vc-masha-bucher-epstein-associate-and-day-one-founder-explains-herself/) (2026-02-10)
+
+</details>
+
+<details>
+<summary>💻 Hacker News</summary>
+
+- [The Day the Telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/) (2026-02-10)
+- [The Falkirk Wheel](https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel) (2026-02-10)
+- [Tambo 1.0: Open-source toolkit for agents that render React components](https://github.com/tambo-ai/tambo) (2026-02-10)
+- [Show HN: Sol LeWitt-style instruction-based drawings in the browser](https://intervolz.com/sollewitt/) (2026-02-10)
+- [How did Windows 95 get permission to put the Weezer video Buddy Holly on the CD?](https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052) (2026-02-10)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Sharge’s new power bank can charge two laptops while putting on a light show](https://www.theverge.com/tech/876432/sharge-shargeek-300w-power-bank-rgb-lighting-kickstarter) (2026-02-10)
-- [Facebook can animate your profile pic with AI](https://www.theverge.com/tech/876480/meta-facebook-animate-profile-picture-restyle-ai) (2026-02-10)
-- [An Ark showed me augmented reality’s true artistic potential](https://www.theverge.com/gadgets/875869/an-ark-mixed-reality-simon-stephens-sarah-frankcom-todd-eckert) (2026-02-10)
-- [The Shokz OpenFit Air earbuds are matching their all-time low price](https://www.theverge.com/gadgets/876392/shokz-openfit-air-earbuds-kobo-clara-colour-deal-sale) (2026-02-10)
-- [Microsoft is keeping Secure Boot alive with Windows updates](https://www.theverge.com/tech/876336/microsoft-windows-secure-boot-certificate-renewal) (2026-02-10)
+- [Amazon Ring’s Super Bowl ad sparks backlash amid fears of mass surveillance](https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash) (2026-02-11)
+- [Boston Dynamics CEO Robert Playter is stepping down after six years](https://www.theverge.com/tech/876819/boston-dynamics-robots-ceo-steps-down-hyundai) (2026-02-10)
+- [Bezos could have saved The Washington Post’s local news and sports reporters](https://www.theverge.com/policy/876834/bezos-washington-post-sports-local-reporters) (2026-02-10)
+- [ChatGPT’s deep research tool adds a built-in document viewer so you can read its reports](https://www.theverge.com/ai-artificial-intelligence/876775/openai-deep-research-chatgpt-full-screen-report-viewer) (2026-02-10)
+- [Samsung’s next Unpacked is confirmed for later this month](https://www.theverge.com/tech/876717/samsung-galaxy-unpacked-february-2026-s26) (2026-02-10)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [SpaceX's next-gen Super Heavy booster aces four days of "cryoproof" testing](https://arstechnica.com/space/2026/02/spacexs-starbase-is-coming-alive-again-after-a-lull-in-starship-testing/) (2026-02-10)
+- [Archive.today CAPTCHA page executes DDoS; Wikipedia considers banning site](https://arstechnica.com/tech-policy/2026/02/wikipedia-might-blacklist-archive-today-after-site-maintainer-ddosed-a-blog/) (2026-02-10)
+- [Yet another co-founder departs Elon Musk's xAI](https://arstechnica.com/ai/2026/02/grok-maker-xai-loses-another-co-founder/) (2026-02-10)
+- [Dewormer ivermectin as cancer cure? RFK Jr.'s NIH funds "absurd" study.](https://arstechnica.com/health/2026/02/dewormer-ivermectin-as-cancer-cure-rfk-jr-s-nih-funds-absurd-study/) (2026-02-10)
 - [Windows' original Secure Boot certificates expire in June—here's what you need to do](https://arstechnica.com/gadgets/2026/02/microsoft-sounds-the-alarm-about-secure-boot-certificates-expiring-later-this-year/) (2026-02-10)
-- [Upgraded Google safety tools can now find and remove more of your personal info](https://arstechnica.com/gadgets/2026/02/upgraded-google-safety-tools-can-now-find-and-remove-more-of-your-personal-info/) (2026-02-10)
-- [The Kia PV5 electric van combines futuristic looks and thoughtful design](https://arstechnica.com/cars/2026/02/the-kia-pv5-electric-van-combines-futuristic-looks-and-thoughtful-design/) (2026-02-10)
-- [Alphabet selling very rare 100-year bonds to help fund AI investment](https://arstechnica.com/gadgets/2026/02/alphabet-selling-very-rare-100-year-bunds-to-help-fund-ai-investment/) (2026-02-10)
-- [After Republican complaints, judicial body pulls climate advice](https://arstechnica.com/science/2026/02/us-court-agency-pulls-climate-change-from-science-advisory-document/) (2026-02-10)
 
 </details>
 
@@ -86,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [🦓 The Tale of the Humbled Process Engineer —  Episode II: The Summoning of the Zebra 🕸️](https://dev.to/abdulosman/the-tale-of-the-humbled-process-engineer-episode-ii-the-summoning-of-the-zebra-35ae) (2026-02-10)
-- [How to Run OpenClaw with DigitalOcean](https://dev.to/digitalocean/how-to-run-openclaw-with-digitalocean-3mpb) (2026-02-10)
-- [The No-Auth Revolution: Why I removed logins from my SaaS to maximize conversions](https://dev.to/hypertools/the-no-auth-revolution-why-i-removed-logins-from-my-saas-to-maximize-conversions-gck) (2026-02-10)
-- [Debugging with AI: Chrome DevTools MCP + Copilot](https://dev.to/saloniagrawal/debugging-with-ai-chrome-devtools-mcp-copilot-1eoe) (2026-02-10)
-- [Advancing AI benchmarking with Game Arena](https://dev.to/googleai/advancing-ai-benchmarking-with-game-arena-3nda) (2026-02-10)
+- [Navigating the RAG Architecture Landscape: A Practitioner’s Guide](https://dev.to/ruchika_bhat_876f8530fa3b/navigating-the-rag-architecture-landscape-a-practitioners-guide-5bom) (2026-02-11)
+- [📦 BoxFinder — Finding Stuff in Real Life with GitHub Copilot CLI](https://dev.to/michellemashutian/boxfinder-finding-stuff-in-real-life-with-github-copilot-cli-1c1b) (2026-02-11)
+- [SLIs, SLOs, SLAs: The Guide to SRE’s Secret Sauce](https://dev.to/bhushitha_hashan/slis-slos-slas-the-guide-to-sres-secret-sauce-53bh) (2026-02-11)
+- [DVTRGA2 The Official Graphics Engine of Neuro‑OS Genesis Enters a New Era](https://dev.to/cyberenigma-lgtm/dvtrga2-the-official-graphics-engine-of-neuro-os-genesis-enters-a-new-era-gna) (2026-02-11)
+- [How to Write Git Commit Messages Like a Pro](https://dev.to/silaslelei/how-to-write-git-commit-messages-like-a-pro-3ep4) (2026-02-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [5 Common Python Mistakes Every Beginner Should Avoid](https://medium.com/@ilkaidurhanadil/5-common-python-mistakes-every-beginner-should-avoid-db4327f65e96?source=rss------programming-5) (2026-02-10)
-- [8 Ways to Price Python Work Based on Value](https://python.plainenglish.io/8-ways-to-price-python-work-based-on-value-fdd429747e5d?source=rss------programming-5) (2026-02-10)
-- [Free Code - Music Player Android App (copycode)](https://medium.com/@copycode/free-code-music-player-android-app-copycode-aaa259a0cfac?source=rss------programming-5) (2026-02-10)
-- [I Replaced Lodash With 20 Lines of Vanilla JS (And Cut 72KB From My Bundle)](https://javascript.plainenglish.io/i-replaced-lodash-with-20-lines-of-vanilla-js-and-cut-72kb-from-my-bundle-4bcc6777e66d?source=rss------programming-5) (2026-02-10)
-- [To substantiate the Unified Architecture Theory (UAT), we must transition from theoretical mapping…](https://medium.com/@hillbowman561/to-substantiate-the-unified-architecture-theory-uat-we-must-transition-from-theoretical-mapping-fee7db2d762f?source=rss------programming-5) (2026-02-10)
+- [9 Python Libraries That Quietly Run My Life on Autopilot](https://python.plainenglish.io/9-python-libraries-that-quietly-run-my-life-on-autopilot-9d8ece267895?source=rss------programming-5) (2026-02-11)
+- [Beyond the Hype of New Tech](https://aaravos.medium.com/beyond-the-hype-of-new-tech-190a584d1e6a?source=rss------programming-5) (2026-02-11)
+- [Kodun Özgürlüğü: Linux Dünyasına Derinlemesine Bir Bakış](https://medium.com/@ormanemirhan11/kodun-%C3%B6zg%C3%BCrl%C3%BC%C4%9F%C3%BC-linux-d%C3%BCnyas%C4%B1na-derinlemesine-bir-bak%C4%B1%C5%9F-2534b526ac85?source=rss------programming-5) (2026-02-11)
+- [The 20,000 dollar compiler](https://medium.com/@jallenswrx2016/the-20-000-dollar-compiler-07fff4924468?source=rss------programming-5) (2026-02-11)
+- [What Business Data Science Looks Like from the University Bench (in Germany)](https://medium.com/@mark.kuria/what-business-data-science-looks-like-from-the-university-bench-in-germany-78ddda49a2e7?source=rss------programming-5) (2026-02-11)
 
 </details>
 
@@ -119,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/) (2026-02-05)
 - [Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ](https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/) (2026-02-04)
 - [PostgreSQL on Azure supercharged for AI](https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/) (2026-02-02)
 - [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
 - [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
+- [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
 
 </details>
 
@@ -351,7 +362,12 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Behind the builder: Dalia Molina, Sr. Manager Developer Education
+Ways to easily integrate Zapier with Twilio
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/ways-to-easily-integrate-zapier-with-twilio
+) (2026-02-09)
+- [
+Behind the builder: Dalia Molina, Sr. Manager, Documentation Platform
 ](
 https://www.twilio.com/en-us/blog/company/spotlights/behind-the-builder-Dalia-Molina-twilio
 ) (2026-02-08)
@@ -370,11 +386,6 @@ Self-service in the age of AI: Virtual agents that actually resolve
 ](
 https://www.twilio.com/en-us/blog/insights/ai/self-service-ai-virtual-agents
 ) (2026-02-06)
-- [
-RCS vs. SMS: What's the difference (and why it matters)
-](
-https://www.twilio.com/en-us/blog/insights/rcs-vs-sms
-) (2026-02-04)
 
 </details>
 
@@ -471,7 +482,7 @@ https://www.twilio.com/en-us/blog/insights/rcs-vs-sms
 <summary>☁️ Salesforce Developer</summary>
 
 - [Spring ’26リリースで、Salesforce開発者が注目すべき機能を紹介](https://developer.salesforce.com/blogs/2026/02/developers-guide-to-the-spring-26-release-jp) (2026-02-09)
-- [Generate Mobile Apps in Minutes with the Pro-Code Mobile App Generation Ecosystem (MAGE)](https://developer.salesforce.com/blogs/2026/02/generate-mobile-apps-in-minutes-with-the-pro-code-mobile-app-generation-ecosystem-mage) (2026-02-05)
+- [MAGE: Generate Pro-Code Mobile Apps in Minutes](https://developer.salesforce.com/blogs/2026/02/generate-mobile-apps-in-minutes-with-the-pro-code-mobile-app-generation-ecosystem-mage) (2026-02-05)
 - [外部アプリから Salesforce API にアクセスする方法](https://developer.salesforce.com/blogs/2026/02/jp-access-the-salesforce-api-from-externalclientapp) (2026-02-03)
 - [Streamline Data 360 Onboarding with API-Driven Automation](https://developer.salesforce.com/blogs/2026/02/streamline-data-360-onboarding-with-api-driven-automation) (2026-02-03)
 - [Create Faster, Lighter Experience Cloud Sites with Omnistudio Components and LWR](https://developer.salesforce.com/blogs/2026/01/create-faster-lighter-experience-cloud-sites-with-omnistudio-components-and-lwr) (2026-01-27)
