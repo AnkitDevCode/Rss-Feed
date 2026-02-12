@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [GPT-5 outperforms federal judges 100% to 52% in legal reasoning experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012) (2026-02-11)
-- [Discord/Twitch/Snapchat age verification bypass](https://age-verifier.kibty.town/) (2026-02-11)
-- [Covering electricity price increases from our data centers](https://www.anthropic.com/news/covering-electricity-price-increases) (2026-02-11)
-- [Q&A: New UK onshore wind and solar is '50% cheaper' than new gas](https://www.carbonbrief.org/qa-new-uk-onshore-wind-and-solar-is-50-cheaper-than-new-gas/) (2026-02-11)
-- [Reports of Telnet's Death Have Been Greatly Exaggerated](https://www.terracenetworks.com/blog/2026-02-11-telnet-routing) (2026-02-11)
+- [Warcraft III Peon Voice Notifications for Claude Code](https://github.com/tonyyont/peon-ping) (2026-02-12)
+- [D Programming Language](https://dlang.org/) (2026-02-12)
+- [How to Make a Living as an Artist](https://essays.fnnch.com/make-a-living) (2026-02-12)
+- [The Problem with LLMs](https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/) (2026-02-12)
+- [From 34% to 96%: The Porting Initiative Delivers – Hologram v0.7.0](https://hologram.page/blog/porting-initiative-delivers-hologram-v0-7-0) (2026-02-11)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [SpaceX takes down Dragon crew arm, giving Starship a leg up in Florida](https://arstechnica.com/space/2026/02/heres-why-americas-most-historic-launch-pad-is-getting-yet-another-facelift/) (2026-02-12)
 - [Trump orders the military to make agreements with coal power plants](https://arstechnica.com/science/2026/02/trumps-latest-plan-to-revive-coal-power-make-the-military-buy-it/) (2026-02-12)
 - [El Paso airport closed after military used new anti-drone laser to zap party balloon](https://arstechnica.com/space/2026/02/el-paso-airport-closed-after-military-used-new-anti-drone-laser-to-zap-party-balloon/) (2026-02-11)
 - [Once-hobbled Lumma Stealer is back with lures that are hard to resist](https://arstechnica.com/security/2026/02/once-hobbled-lumma-stealer-is-back-with-lures-that-are-hard-to-resist/) (2026-02-11)
 - [Byte magazine artist Robert Tinney, who illustrated the birth of PCs, dies at 78](https://arstechnica.com/gadgets/2026/02/byte-magazine-artist-robert-tinney-who-illustrated-the-birth-of-pcs-dies-at-78/) (2026-02-11)
-- [Yes, Rocket Lab is blowing up engines. No, it's not a big deal, CEO says.](https://arstechnica.com/space/2026/02/yes-rocket-lab-is-blowing-up-engines-no-its-not-a-big-deal-ceo-says/) (2026-02-11)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I built and launched a digital product in 48 hours for $4. Here's how I did it.](https://dev.to/assoflow/i-built-and-launched-a-digital-product-in-48-hours-for-4-heres-how-i-did-it-33hc) (2026-02-12)
-- [Why validation becomes unavoidable once AI sounds right](https://dev.to/leigh_k_valentine/why-validation-becomes-unavoidable-once-ai-sounds-right-1naf) (2026-02-12)
-- [KeyleSSH: A New PAM Concept for IT Admins](https://dev.to/tidefoundation/keylessh-a-pam-with-no-single-point-of-vulnerability-4n1h) (2026-02-12)
-- [Build Your First Encrypted Agent Swarm Using Phoenix (Drag Connect Deploy)](https://dev.to/matrixswarm/build-your-first-encrypted-agent-swarm-using-phoenix-drag-connect-deploy-20n3) (2026-02-12)
-- [c++ asosiy kodlarining ma'nosi!](https://dev.to/ahmadzonodilmurod55sudo/c-asosiy-kodlarining-manosi-1ock) (2026-02-12)
+- [🚀 How I Automated an E-commerce Business Using n8n (And Saved 20+ Hours/Week)](https://dev.to/mc_blademcblade_f2a7921/how-i-automated-an-e-commerce-business-using-n8n-and-saved-20-hoursweek-4219) (2026-02-12)
+- [Building a Virtual DOM from Scratch: What I Learned Reverse-Engineering React](https://dev.to/deep007/building-a-virtual-dom-from-scratch-what-i-learned-reverse-engineering-react-44gc) (2026-02-12)
+- [Designing Serverless Applications at Massive Scale with AWS Lambda and RDS Proxy](https://dev.to/nghidanh2005/designing-serverless-applications-at-massive-scale-with-aws-lambda-and-rds-proxy-4k28) (2026-02-12)
+- [Building a Simple Blog with Supabase (Posts & Comments)](https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384) (2026-02-12)
+- [Hashicorp Vault CLI Part 4: Introspection](https://dev.to/admantium/hashicorp-vault-cli-part-4-introspection-250f) (2026-02-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Coding Fast Made Me Valuable. Architecture Thinking Made Me Irreplaceable.](https://medium.com/@refactored-life/coding-fast-made-me-valuable-architecture-thinking-made-me-irreplaceable-7f30d338c937?source=rss------programming-5) (2026-02-12)
-- [JavaScript Time After Temporal: Migrate Without Pain](https://medium.com/@ThinkingLoop/javascript-time-after-temporal-migrate-without-pain-33f000b37008?source=rss------programming-5) (2026-02-12)
-- [Async in Python: The Concept That Changed How I Write Backend Code.](https://medium.com/@ajujohn2009/async-in-python-the-concept-that-changed-how-i-write-backend-code-d664ecfd7d94?source=rss------programming-5) (2026-02-12)
-- [Something Big Is Happening.](https://medium.com/@ummummhm/something-big-is-happening-96a51bc1874c?source=rss------programming-5) (2026-02-12)
-- [The Real Software Shift Is Not AI. It Is Automation.](https://python.plainenglish.io/the-real-software-shift-is-not-ai-it-is-automation-531ba0860a77?source=rss------programming-5) (2026-02-12)
+- [The Skills That Made You Valuable Yesterday Won’t Tomorrow](https://medium.com/@tomprescott1565/the-skills-that-made-you-valuable-yesterday-wont-tomorrow-88e774e86ef5?source=rss------programming-5) (2026-02-12)
+- [State Management Made Simple: My Flutter Journey](https://medium.com/@vimethc/state-management-made-simple-my-flutter-journey-53a66d1eb1fc?source=rss------programming-5) (2026-02-12)
+- [Keep the Receipts: AI Trades Time for Judgment](https://medium.com/kairi-ai/keep-the-receipts-ai-trades-time-for-judgment-9f7c549116ca?source=rss------programming-5) (2026-02-12)
+- [Found The Weather Trading Bots Quietly Making $24,000 On Polymarket And Built One Myself For Free.](https://ezzekielnjuguna.medium.com/found-the-weather-trading-bots-quietly-making-24-000-on-polymarket-and-built-one-myself-for-free-120bd34d6f09?source=rss------programming-5) (2026-02-12)
+- [The AI Architect Roadmap: How to Go from Junior Dev to $200k in 6 Months.](https://medium.com/illumination/the-ai-architect-roadmap-how-to-go-from-junior-dev-to-200k-in-6-months-ce8588e4d711?source=rss------programming-5) (2026-02-12)
 
 </details>
 
@@ -362,16 +362,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Play an Audio File in Voice Calls With PHP
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/play-audio-file-voice-calls-php
-) (2026-02-10)
-- [
-RCS vs. iMessage: Everything you need to know in 2026
-](
-https://www.twilio.com/en-us/blog/insights/rcs-vs-imessage
-) (2026-02-10)
-- [
 Ways to easily integrate Zapier with Twilio
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/ways-to-easily-integrate-zapier-with-twilio
@@ -385,6 +375,16 @@ https://www.twilio.com/en-us/blog/company/spotlights/behind-the-builder-Dalia-Mo
 How to use AI on WhatsApp to improve your company’s customer service?
 ](
 https://www.twilio.com/en-us/blog/insights/how-to-use-ai-on-whatsapp-to-improve-your-company-s-customer-ser
+) (2026-02-06)
+- [
+Unlocking super agents with the power of data & AI
+](
+https://www.twilio.com/en-us/blog/insights/ai/super-agents-data-ai
+) (2026-02-06)
+- [
+Self-service in the age of AI: Virtual agents that actually resolve
+](
+https://www.twilio.com/en-us/blog/insights/ai/self-service-ai-virtual-agents
 ) (2026-02-06)
 
 </details>
@@ -504,11 +504,11 @@ https://www.twilio.com/en-us/blog/insights/how-to-use-ai-on-whatsapp-to-improve-
 <details>
 <summary>💬 Slack API</summary>
 
-- [Work Faster and Smarter With AI Agents in Slack for Every Line of Business](https://slack.com/blog/productivity/slack-ai-agents-for-every-line-of-business) (2026-02-11)
-- [How Effective Project Status Updates and Tracking Transform Team Productivity](https://slack.com/blog/collaboration/top-methods-and-metrics-for-tracking-project-progress) (2026-02-09)
 - [A Guide to Migrating From Microsoft Teams to Slack](https://slack.com/blog/transformation/teams-to-slack-migration) (2026-02-06)
 - [How We Rebuilt Slackbot](https://slack.com/blog/productivity/how-we-rebuilt-slackbot) (2026-02-06)
 - [How to Implement Agile: Steps, Frameworks, and Best Practices](https://slack.com/blog/productivity/agile-principles) (2026-02-03)
+- [What Are Conversational Agents? A Simple Guide](https://slack.com/blog/productivity/conversational-agents) (2026-02-03)
+- [A Complete Guide to the Kanban Method](https://slack.com/blog/productivity/the-kanban-system-simplified-tips-for-efficiency) (2026-02-03)
 
 </details>
 
