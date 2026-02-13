@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Waymo is asking DoorDash drivers to shut the doors of its self-driving cars](https://techcrunch.com/2026/02/12/waymo-is-asking-doordash-drivers-to-shut-the-doors-of-its-self-driving-cars/) (2026-02-13)
 - [For $1M, you can pay Bryan Johnson (or BryanAI?) to teach you how to live longer](https://techcrunch.com/2026/02/12/for-1-million-you-can-pay-bryan-johnson-or-bryanai-to-teach-you-how-to-live-longer/) (2026-02-12)
 - [Amid disappointing earnings, Pinterest claims it sees more searches than ChatGPT](https://techcrunch.com/2026/02/12/amid-disappointing-earnings-pinterest-claims-it-sees-more-searches-than-chatgpt/) (2026-02-12)
 - [IBM will hire your entry-level talent in the age of AI](https://techcrunch.com/2026/02/12/ibm-will-hire-your-entry-level-talent-in-the-age-of-ai/) (2026-02-12)
 - [Rivian was saved by software in 2025](https://techcrunch.com/2026/02/12/rivian-was-saved-by-software-in-2025/) (2026-02-12)
-- [Musk needed a new vision for SpaceX and xAI. He landed on Moonbase Alpha.](https://techcrunch.com/2026/02/12/musk-needed-a-new-vision-for-spacex-and-xai-he-landed-on-moonbase-alpha/) (2026-02-12)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [MMAcevedo aka Lena by qntm](https://qntm.org/mmacevedo) (2026-02-13)
+- [New Nick Bostrom Paper: Optimal Timing for Superintelligence [pdf]](https://nickbostrom.com/optimal.pdf) (2026-02-13)
+- [The Wonder of Modern Drywall](https://worksinprogress.co/issue/the-wonder-of-modern-drywall/) (2026-02-13)
 - [Skip the Tips: A game to select "No Tip" but dark patterns try to stop you](https://skipthe.tips/) (2026-02-13)
 - [AWS Adds support for nested virtualization](https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e) (2026-02-13)
-- [Resizing windows on macOS Tahoe – the saga continues](https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/) (2026-02-12)
-- [Ring cancels its partnership with Flock Safety after surveillance backlash](https://www.theverge.com/news/878447/ring-flock-partnership-canceled) (2026-02-12)
-- [Recoverable and Irrecoverable Decisions](https://herbertlui.net/recoverable-and-irrecoverable-decisions/) (2026-02-12)
 
 </details>
 
@@ -86,34 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Even your voice is a data problem](https://stackoverflow.blog/2026/02/13/even-your-voice-is-a-data-problem/) (2026-02-13)
 - [How everyone and anyone can use AI for good](https://stackoverflow.blog/2026/02/12/how-everyone-and-anyone-can-use-ai-for-good/) (2026-02-12)
 - [Is anyone using AI for good?](https://stackoverflow.blog/2026/02/11/is-anyone-using-ai-for-good/) (2026-02-11)
 - [The logos, ethos, and pathos of your LLMs](https://stackoverflow.blog/2026/02/10/the-logos-ethos-and-pathos-of-your-llms/) (2026-02-10)
 - [Why demand for code is infinite: How AI creates more developer jobs](https://stackoverflow.blog/2026/02/09/why-demand-for-code-is-infinite-how-ai-creates-more-developer-jobs/) (2026-02-09)
-- [AI attention span so good it shouldn’t be legal](https://stackoverflow.blog/2026/02/06/ai-attention-span-so-good-it-shouldn-t-be-legal/) (2026-02-06)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How to Set Up a Self‑Hosted Development Environment on Your Own Infrastructure (Step‑by‑Step Guide)](https://dev.to/tly_plane_fda7286469c791e/how-to-set-up-a-self-hosted-development-environment-on-your-own-infrastructure-step-by-step-guide-149l) (2026-02-13)
-- [Exploring ChatGPT Alternatives: AI Chatbots for Every Need](https://dev.to/doushenx/exploring-chatgpt-alternatives-ai-chatbots-for-every-need-1ng3) (2026-02-13)
-- [Web 3](https://dev.to/miracool/web-3-5eek) (2026-02-13)
-- [CyberTabletop CLI — I turned GitHub Copilot into a tabletop exercise facilitator](https://dev.to/enniob/cybertabletop-cli-i-turned-github-copilot-into-a-tabletop-exercise-facilitator-e9o) (2026-02-13)
-- [Beyond the Buzzwords: Context, Prompts, and Tools](https://dev.to/zeling_chen_73840b4951f53/beyond-the-buzzwords-context-prompts-and-tools-2fgm) (2026-02-13)
+- [ThinkInk: Optimizing the Reader's Journey with Generative AI and Copilot CLI](https://dev.to/mirinagonzales/thinkink-optimizing-the-readers-journey-with-generative-ai-and-copilot-cli-29jm) (2026-02-13)
+- [The Missing Pillar: Why Cisco's Cybersecurity Readiness Index Needs a Human Layer](https://dev.to/narnaiezzsshaa/the-missing-pillar-why-ciscos-cybersecurity-readiness-index-needs-a-human-layer-5c4g) (2026-02-13)
+- [Playwright Debugging, Supercharged by GitHub Copilot](https://dev.to/shekharapple16spec/playwright-debugging-supercharged-by-github-copilot-53ac) (2026-02-13)
+- [Like Stories? Love Python! 📖🐍 Ep.4](https://dev.to/the-software-s-journey/like-stories-love-python-ep4-26ia) (2026-02-13)
+- [How to Set Up a Personal AI Agent with OpenClaw and Discor](https://dev.to/lightningdev123/how-to-set-up-a-personal-ai-agent-with-openclaw-and-discor-4omp) (2026-02-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Anatomy of Letting Go – Part V The Wall That Was Not Built From Anger
-For a long time, I…](https://medium.com/@horvathmilena263/the-anatomy-of-letting-go-part-v-the-wall-that-was-not-built-from-anger-for-a-long-time-i-648b91f98cbb?source=rss------programming-5) (2026-02-13)
-- [JavaScript — Part 1](https://medium.com/@adii.utsav/javascript-part-1-cf985a90cace?source=rss------programming-5) (2026-02-13)
-- [Cara Bikin Cursor IDE Lebih Nyaman: Activity Bar Vertikal + Shortcut Copy File Path](https://medium.com/@mohzulkiflikatili/cara-bikin-cursor-ide-lebih-nyaman-activity-bar-vertikal-shortcut-copy-file-path-cb9099a5a118?source=rss------programming-5) (2026-02-13)
-- [Top 10 Recon Mistakes That Make Hackers Miss Easy Bugs](https://osintteam.blog/top-10-recon-mistakes-that-make-hackers-miss-easy-bugs-7618c8ae1e88?source=rss------programming-5) (2026-02-13)
-- [Como criar um Robô [Parte 1]](https://medium.com/@vac22/como-criar-um-rob%C3%B4-parte-1-eef80a6c4eb3?source=rss------programming-5) (2026-02-13)
+- [Is Programming Hard? The Honest Truth](https://medium.com/heartline-publications/is-programming-hard-the-honest-truth-ca040c25720f?source=rss------programming-5) (2026-02-13)
+- [Why Clean Code Matters More Than Clever Code?](https://medium.com/write-a-catalyst/why-clean-code-matters-more-than-clever-code-08bfc110ad91?source=rss------programming-5) (2026-02-13)
+- [I Stopped Just Learning Code — I Started Building Products](https://moinn.medium.com/i-stopped-just-learning-code-i-started-building-products-5ae1d7047f85?source=rss------programming-5) (2026-02-13)
+- [I Wanted to Quit Coding Yesterday — Here’s What Stopped Me](https://medium.com/@rakshitha55ramesh/i-wanted-to-quit-coding-yesterday-heres-what-stopped-me-b1cf6cbc2dc7?source=rss------programming-5) (2026-02-13)
+- [What 3 Years of Writing Python Taught Me About Choosing the Right Libraries](https://python.plainenglish.io/what-3-years-of-writing-python-taught-me-about-choosing-the-right-libraries-d5a9cb056e8a?source=rss------programming-5) (2026-02-13)
 
 </details>
 
@@ -131,11 +130,11 @@ For a long time, I…](https://medium.com/@horvathmilena263/the-anatomy-of-letti
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Agentic cloud operations: A new way to run the cloud](https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/) (2026-02-11)
-- [Can high-temperature superconductors transform the power infrastructure of datacenters?](https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/) (2026-02-10)
-- [Five Reasons to attend SQLCon](https://blog.fabric.microsoft.com/en-us/blog/32624) (2026-02-09)
 - [Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/) (2026-02-05)
 - [Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ](https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/) (2026-02-04)
+- [PostgreSQL on Azure supercharged for AI](https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/) (2026-02-02)
+- [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
+- [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
 
 </details>
 
