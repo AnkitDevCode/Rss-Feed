@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Spotify says its best developers haven’t written a line of code since December, thanks to AI](https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/) (2026-02-12)
-- [A new version of OpenAI’s Codex is powered by a new dedicated chip](https://techcrunch.com/2026/02/12/a-new-version-of-openais-codex-is-powered-by-a-new-dedicated-chip/) (2026-02-12)
-- [Aurora’s driverless trucks can now travel farther distances faster than human drivers](https://techcrunch.com/2026/02/12/auroras-driverless-trucks-can-now-travel-farther-distances-faster-than-human-drivers/) (2026-02-12)
-- [More US investors sue South Korean government over handling of Coupang data breach](https://techcrunch.com/2026/02/12/more-u-s-investors-sue-south-korean-government-over-handling-of-coupang-data-breach/) (2026-02-12)
-- [Apple acquires all rights to ‘Severance,’ will produce future seasons in-house](https://techcrunch.com/2026/02/12/apple-acquires-all-rights-to-severance-will-produce-future-seasons-in-house/) (2026-02-12)
+- [For $1M, you can pay Bryan Johnson (or BryanAI?) to teach you how to live longer](https://techcrunch.com/2026/02/12/for-1-million-you-can-pay-bryan-johnson-or-bryanai-to-teach-you-how-to-live-longer/) (2026-02-12)
+- [Amid disappointing earnings, Pinterest claims it sees more searches than ChatGPT](https://techcrunch.com/2026/02/12/amid-disappointing-earnings-pinterest-claims-it-sees-more-searches-than-chatgpt/) (2026-02-12)
+- [IBM will hire your entry-level talent in the age of AI](https://techcrunch.com/2026/02/12/ibm-will-hire-your-entry-level-talent-in-the-age-of-ai/) (2026-02-12)
+- [Rivian was saved by software in 2025](https://techcrunch.com/2026/02/12/rivian-was-saved-by-software-in-2025/) (2026-02-12)
+- [Musk needed a new vision for SpaceX and xAI. He landed on Moonbase Alpha.](https://techcrunch.com/2026/02/12/musk-needed-a-new-vision-for-spacex-and-xai-he-landed-on-moonbase-alpha/) (2026-02-12)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Polis: Open-source platform to find common ground at scale](https://pol.is/home2) (2026-02-12)
-- [GPT‑5.3‑Codex‑Spark](https://openai.com/index/introducing-gpt-5-3-codex-spark/) (2026-02-12)
-- [Show HN: Pgclaw – A "Clawdbot" in every row with 400 lines of Postgres SQL](https://github.com/calebwin/pgclaw) (2026-02-12)
-- [Launch HN: Omnara (YC S25) – Run Claude Code and Codex from anywhere](https://news.ycombinator.com/item?id=46991591) (2026-02-12)
-- [Shut Up: Comment Blocker](https://rickyromero.com/shutup/) (2026-02-12)
+- [Skip the Tips: A game to select "No Tip" but dark patterns try to stop you](https://skipthe.tips/) (2026-02-13)
+- [AWS Adds support for nested virtualization](https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e) (2026-02-13)
+- [Resizing windows on macOS Tahoe – the saga continues](https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/) (2026-02-12)
+- [Ring cancels its partnership with Flock Safety after surveillance backlash](https://www.theverge.com/news/878447/ring-flock-partnership-canceled) (2026-02-12)
+- [Recoverable and Irrecoverable Decisions](https://herbertlui.net/recoverable-and-irrecoverable-decisions/) (2026-02-12)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Jeffrey Epstein might not have created /pol/, but he helped carry out its mission](https://www.theverge.com/tech/877903/jeffrey-epstein-4chan-pol-moot) (2026-02-12)
-- [Good Luck, Have Fun, Don’t Die is a rollicking parable about this moment in tech](https://www.theverge.com/entertainment/877244/good-luck-have-fun-dont-die-review) (2026-02-12)
-- [Top DOJ antitrust enforcer is out weeks before Live Nation trial](https://www.theverge.com/policy/878163/doj-antitrust-chief-gail-slater-departs) (2026-02-12)
-- [El Paso airspace closure was reportedly triggered by the CBP’s use of an anti-drone laser](https://www.theverge.com/policy/878108/el-paso-airspace-closure-cbp-anti-drone-laser) (2026-02-12)
-- [Every little thing she does is magic](https://www.theverge.com/tech/877290/3d-animation-stop-motion-cinema-4d-woman-creator-witch) (2026-02-12)
+- [A surprise God of War prequel is out on the PS5 right now](https://www.theverge.com/games/878375/god-of-war-sons-of-sparta-trilogy-sony-playstation-ps5-release-date-trailer) (2026-02-12)
+- [Ring cancels its partnership with Flock Safety after surveillance backlash](https://www.theverge.com/news/878447/ring-flock-partnership-canceled) (2026-02-12)
+- [PlayStation State of Play February 2026: all the news and trailers](https://www.theverge.com/games/877875/playstation-state-of-play-february-2026-ps5-news-trailers) (2026-02-12)
+- [In one swoop, Trump kills US greenhouse gas regulations](https://www.theverge.com/science/877371/trump-carbon-pollution-endangerment-finding-repeal-climate-change) (2026-02-12)
+- [Two powerful, OLED-equipped gaming laptops are hundreds off](https://www.theverge.com/gadgets/878209/asus-acer-oled-rtx-5070ti-gaming-laptop-deal-sale) (2026-02-12)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [RFK Jr. food pyramid site links to Grok, which says you shouldn’t trust RFK Jr.](https://arstechnica.com/health/2026/02/rfk-jr-food-pyramid-site-links-to-grok-which-says-you-shouldnt-trust-rfk-jr/) (2026-02-12)
-- [US consumers, business pay 90% of tariff costs, says Federal Reserve](https://arstechnica.com/tech-policy/2026/02/us-consumers-business-pay-90-of-tariff-costs-says-federal-reserve/) (2026-02-12)
-- [Party like it's 2001: Diablo II gets a new expansion, new playable class](https://arstechnica.com/gaming/2026/02/diablo-ii-gets-its-first-new-playable-class-in-over-25-years/) (2026-02-12)
-- [We let Chrome's Auto Browse agent surf the web for us—here's what happened](https://arstechnica.com/google/2026/02/tested-how-chromes-auto-browse-agent-handles-common-web-tasks/) (2026-02-12)
-- [SpaceX takes down Dragon crew arm, giving Starship a leg up in Florida](https://arstechnica.com/space/2026/02/heres-why-americas-most-historic-launch-pad-is-getting-yet-another-facelift/) (2026-02-12)
+- [When Amazon badly needed a ride, Europe's Ariane 6 rocket delivered](https://arstechnica.com/space/2026/02/when-amazon-badly-needed-a-ride-europes-ariane-6-rocket-delivered/) (2026-02-13)
+- [OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips](https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/) (2026-02-12)
+- [Trump official overruled FDA scientists to reject Moderna's flu shot](https://arstechnica.com/health/2026/02/trump-official-overruled-fda-scientists-to-reject-modernas-flu-shot/) (2026-02-12)
+- [Spider-Noir teaser comes in colorized "True Hue" and black and white](https://arstechnica.com/culture/2026/02/spider-noir-teaser-comes-in-colorized-true-hue-and-black-and-white/) (2026-02-12)
+- [ULA's Vulcan rocket suffers another booster problem on the way to orbit](https://arstechnica.com/space/2026/02/ulas-vulcan-launcher-still-has-a-solid-rocket-booster-problem/) (2026-02-12)
 
 </details>
 
@@ -75,11 +75,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Welcome to the Eternal September of open source. Here’s what we plan to do for maintainers.](https://github.blog/open-source/maintainers/welcome-to-the-eternal-september-of-open-source-heres-what-we-plan-to-do-for-maintainers/) (2026-02-12)
 - [GitHub availability report: January 2026](https://github.blog/news-insights/company-news/github-availability-report-january-2026/) (2026-02-11)
 - [Continuous AI in practice: What developers can automate today with agentic CI](https://github.blog/ai-and-ml/generative-ai/continuous-ai-in-practice-what-developers-can-automate-today-with-agentic-ci/) (2026-02-05)
 - [Pick your agent: Use Claude and Codex on Agent HQ ](https://github.blog/news-insights/company-news/pick-your-agent-use-claude-and-codex-on-agent-hq/) (2026-02-04)
 - [What the fastest-growing tools reveal about how software is being built](https://github.blog/news-insights/octoverse/what-the-fastest-growing-tools-reveal-about-how-software-is-being-built/) (2026-02-03)
-- [How to maximize GitHub Copilot’s agentic capabilities](https://github.blog/ai-and-ml/github-copilot/how-to-maximize-github-copilots-agentic-capabilities/) (2026-02-02)
 
 </details>
 
@@ -97,22 +97,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Youtube adblocker that fixes video buffering - IframeTube](https://dev.to/lifeisgoing/youtube-adblocker-that-fixes-video-buffering-iframetube-2ebc) (2026-02-12)
-- [From Backend Engineer to AI Engineer: A Practical Roadmap (No Hype)](https://dev.to/tinhtinhcd/from-backend-engineer-to-ai-engineer-a-practical-roadmap-no-hype-4kl) (2026-02-12)
-- [Deep Dive: How SwarmCLI Simplifies Docker Swarm Operations for DevOps Teams](https://dev.to/eldara/deep-dive-how-swarmcli-simplifies-docker-swarm-operations-for-devops-teams-415c) (2026-02-12)
-- [YAGNI: The Principle That Protects You From Building the Future Too Early](https://dev.to/walternascimentobarroso/yagni-the-principle-that-protects-you-from-building-the-future-too-early-2o7d) (2026-02-12)
-- [Coding Challenges in the Modern Time](https://dev.to/trickell/coding-challenges-in-the-modern-time-1mi9) (2026-02-12)
+- [How to Set Up a Self‑Hosted Development Environment on Your Own Infrastructure (Step‑by‑Step Guide)](https://dev.to/tly_plane_fda7286469c791e/how-to-set-up-a-self-hosted-development-environment-on-your-own-infrastructure-step-by-step-guide-149l) (2026-02-13)
+- [Exploring ChatGPT Alternatives: AI Chatbots for Every Need](https://dev.to/doushenx/exploring-chatgpt-alternatives-ai-chatbots-for-every-need-1ng3) (2026-02-13)
+- [Web 3](https://dev.to/miracool/web-3-5eek) (2026-02-13)
+- [CyberTabletop CLI — I turned GitHub Copilot into a tabletop exercise facilitator](https://dev.to/enniob/cybertabletop-cli-i-turned-github-copilot-into-a-tabletop-exercise-facilitator-e9o) (2026-02-13)
+- [Beyond the Buzzwords: Context, Prompts, and Tools](https://dev.to/zeling_chen_73840b4951f53/beyond-the-buzzwords-context-prompts-and-tools-2fgm) (2026-02-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why I Started Building My Own Containers](https://medium.com/open-ai/why-i-started-building-my-own-containers-2220e229cc27?source=rss------programming-5) (2026-02-12)
-- [How HashMap Really Works Internally — A Debugger Driven Deep Dive](https://medium.com/@souvanik.saha/how-hashmap-really-works-internally-a-debugger-driven-deep-dive-62aeb5262fe3?source=rss------programming-5) (2026-02-12)
-- [I Stopped Googling Terminal Errors After Building a Local AI That Fixes Them for Me](https://medium.com/write-a-catalyst/i-stopped-googling-terminal-errors-after-building-a-local-ai-that-fixes-them-for-me-abd1dcd787bc?source=rss------programming-5) (2026-02-12)
-- [AI Debuggers Start Suggesting Better Fixes Than Humans — When?](https://medium.com/write-a-catalyst/ai-debuggers-start-suggesting-better-fixes-than-humans-when-9c0a12092db6?source=rss------programming-5) (2026-02-12)
-- [The Project That Forced Me to Think Beyond Python — and Then Rebuild It From the Inside Out](https://medium.com/write-a-catalyst/the-project-that-forced-me-to-think-beyond-python-and-then-rebuild-it-from-the-inside-out-a96976bb5068?source=rss------programming-5) (2026-02-12)
+- [The Anatomy of Letting Go – Part V The Wall That Was Not Built From Anger
+For a long time, I…](https://medium.com/@horvathmilena263/the-anatomy-of-letting-go-part-v-the-wall-that-was-not-built-from-anger-for-a-long-time-i-648b91f98cbb?source=rss------programming-5) (2026-02-13)
+- [JavaScript — Part 1](https://medium.com/@adii.utsav/javascript-part-1-cf985a90cace?source=rss------programming-5) (2026-02-13)
+- [Cara Bikin Cursor IDE Lebih Nyaman: Activity Bar Vertikal + Shortcut Copy File Path](https://medium.com/@mohzulkiflikatili/cara-bikin-cursor-ide-lebih-nyaman-activity-bar-vertikal-shortcut-copy-file-path-cb9099a5a118?source=rss------programming-5) (2026-02-13)
+- [Top 10 Recon Mistakes That Make Hackers Miss Easy Bugs](https://osintteam.blog/top-10-recon-mistakes-that-make-hackers-miss-easy-bugs-7618c8ae1e88?source=rss------programming-5) (2026-02-13)
+- [Como criar um Robô [Parte 1]](https://medium.com/@vac22/como-criar-um-rob%C3%B4-parte-1-eef80a6c4eb3?source=rss------programming-5) (2026-02-13)
 
 </details>
 
@@ -130,22 +131,22 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Agentic cloud operations: A new way to run the cloud](https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/) (2026-02-11)
+- [Can high-temperature superconductors transform the power infrastructure of datacenters?](https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/) (2026-02-10)
 - [Five Reasons to attend SQLCon](https://blog.fabric.microsoft.com/en-us/blog/32624) (2026-02-09)
 - [Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/) (2026-02-05)
 - [Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ](https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/) (2026-02-04)
-- [PostgreSQL on Azure supercharged for AI](https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/) (2026-02-02)
-- [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Code, Compute and Connection: Inside the Inaugural NVIDIA AI Day São Paulo](https://blogs.nvidia.com/blog/ai-day-sao-paulo/) (2026-02-12)
 - [Leading Inference Providers Cut AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell](https://blogs.nvidia.com/blog/inference-open-source-models-blackwell-reduce-cost-per-token/) (2026-02-12)
 - [NVIDIA DGX Spark Powers Big Projects in Higher Education](https://blogs.nvidia.com/blog/dgx-spark-higher-education/) (2026-02-12)
 - [GeForce NOW Turns Screens Into a Gaming Machine](https://blogs.nvidia.com/blog/geforce-now-thursday-amazon-fire-tv-app/) (2026-02-12)
 - [GeForce NOW Celebrates Six Years of Streaming With 24 Games in February](https://blogs.nvidia.com/blog/geforce-now-thursday-feb-2026-games-list/) (2026-02-05)
-- [Nemotron Labs: How AI Agents Are Turning Documents Into Real-Time Business Intelligence](https://blogs.nvidia.com/blog/ai-agents-intelligent-document-processing/) (2026-02-04)
 
 </details>
 
@@ -306,11 +307,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [JetBrains Academy – February Digest](https://blog.jetbrains.com/education/2026/02/12/jetbrains-academy-february-2026/) (2026-02-12)
 - [Are We Having the Wrong AI Dreams?](https://blog.jetbrains.com/ai/2026/02/are-we-having-the-wrong-ai-dreams/) (2026-02-12)
 - [Python Unplugged on PyTV – A Free Online Python Conference for Everyone ](https://blog.jetbrains.com/pycharm/2026/02/python-unplugged-on-pytv/) (2026-02-11)
 - [The State of Rust 2025: Popularity, Trends, and Future](https://blog.jetbrains.com/rust/2026/02/11/state-of-rust-2025/) (2026-02-11)
 - [The Best AI Models for Coding: Accuracy, Integration, and Developer Fit](https://blog.jetbrains.com/ai/2026/02/the-best-ai-models-for-coding-accuracy-integration-and-developer-fit/) (2026-02-11)
-- [dotInsights | February 2026](https://blog.jetbrains.com/dotnet/2026/02/10/dotinsights-february-2026/) (2026-02-10)
 
 </details>
 
@@ -392,7 +393,7 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/ways-to-easi
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
-- [Auth0 B2B Plans upgraded: Free Self-Service SSO, SCIM, and more! ](https://auth0.com/blog/auth0-b2b-plans-upgraded/) (2026-02-12)
+- [Auth0 B2B Plans Upgraded: Free Self-Service SSO, SCIM, and More! ](https://auth0.com/blog/auth0-b2b-plans-upgraded/) (2026-02-12)
 - [Agents Can Either Be Useful or Secure
 ](https://auth0.com/blog/agents-can-be-useful-or-secure/) (2026-02-11)
 - [A Guide to Securing Amazon Bedrock AgentCore with Auth0 for AI Agents ](https://auth0.com/blog/securing-amazon-bedrock-agentcore-agents-auth0-for-ai-agents/) (2026-02-10)
@@ -537,11 +538,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/ways-to-easi
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [Pyrefly Now Type Checks PyTorch](https://pytorch.org/blog/pyrefly-now-type-checks-pytorch/) (2026-02-12)
 - [Accelerating Mamba2 with Kernel Fusion](https://pytorch.org/blog/accelerating-mamba2-with-kernel-fusion/) (2026-02-06)
 - [Some Matrix Multiplication Engines Are Not As Accurate As We Thought](https://pytorch.org/blog/some-matrix-multiplication-engines-are-not-as-accurate-as-we-thought/) (2026-02-06)
 - [Building Highly Efficient Inference System for Recommenders Using PyTorch](https://pytorch.org/blog/building-highly-efficient-inference-system-for-recommenders-using-pytorch/) (2026-02-05)
 - [Portable Paged Attention in Helion](https://pytorch.org/blog/portable-paged-attention-in-helion/) (2026-02-03)
-- [Unlock Reasoning in Llama 3.1-8B via Full Fine-Tuning on NVIDIA DGX Spark](https://pytorch.org/blog/unlock-reasoning-in-llama-3-1-8b-via-full-fine-tuning-on-nvidia-dgx-spark/) (2026-02-02)
 
 </details>
 
