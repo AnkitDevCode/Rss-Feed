@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Fusion startup Helion hits blistering temps as it races toward 2028 deadline](https://techcrunch.com/2026/02/13/fusion-startup-helion-hits-blistering-temps-as-it-races-toward-2028-deadline/) (2026-02-13)
 - [Waymo is asking DoorDash drivers to shut the doors of its self-driving cars](https://techcrunch.com/2026/02/12/waymo-is-asking-doordash-drivers-to-shut-the-doors-of-its-self-driving-cars/) (2026-02-13)
 - [For $1M, you can pay Bryan Johnson (or BryanAI?) to teach you how to live longer](https://techcrunch.com/2026/02/12/for-1-million-you-can-pay-bryan-johnson-or-bryanai-to-teach-you-how-to-live-longer/) (2026-02-12)
 - [Amid disappointing earnings, Pinterest claims it sees more searches than ChatGPT](https://techcrunch.com/2026/02/12/amid-disappointing-earnings-pinterest-claims-it-sees-more-searches-than-chatgpt/) (2026-02-12)
 - [IBM will hire your entry-level talent in the age of AI](https://techcrunch.com/2026/02/12/ibm-will-hire-your-entry-level-talent-in-the-age-of-ai/) (2026-02-12)
-- [Rivian was saved by software in 2025](https://techcrunch.com/2026/02/12/rivian-was-saved-by-software-in-2025/) (2026-02-12)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [MMAcevedo aka Lena by qntm](https://qntm.org/mmacevedo) (2026-02-13)
-- [New Nick Bostrom Paper: Optimal Timing for Superintelligence [pdf]](https://nickbostrom.com/optimal.pdf) (2026-02-13)
-- [The Wonder of Modern Drywall](https://worksinprogress.co/issue/the-wonder-of-modern-drywall/) (2026-02-13)
-- [Skip the Tips: A game to select "No Tip" but dark patterns try to stop you](https://skipthe.tips/) (2026-02-13)
-- [AWS Adds support for nested virtualization](https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e) (2026-02-13)
+- [Gauntlet AI (YC S17) train you to master building with AI, give you $200k+ job](http://qualify.gauntletAI.com) (2026-02-13)
+- [US repeals EPA endangerment finding for greenhouse gases](https://www.cnn.com/2026/02/12/climate/trump-repeals-epa-endangerment-finding) (2026-02-13)
+- [GovDash (YC W22) Is Hiring Senior Engineers (Product and Search) in NYC](https://www.workatastartup.com/companies/govdash) (2026-02-13)
+- [MinIO repository is no longer maintained](https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f) (2026-02-13)
+- [Asimov (YC W26) Is Hiring](https://news.ycombinator.com/item?id=46999753) (2026-02-13)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Tenways’ compact e-bike twists and folds to go flat](https://www.theverge.com/transportation/877796/tenways-cgo-compact-e-bike-twists-folds-flat) (2026-02-13)
 - [A surprise God of War prequel is out on the PS5 right now](https://www.theverge.com/games/878375/god-of-war-sons-of-sparta-trilogy-sony-playstation-ps5-release-date-trailer) (2026-02-12)
 - [Ring cancels its partnership with Flock Safety after surveillance backlash](https://www.theverge.com/news/878447/ring-flock-partnership-canceled) (2026-02-12)
 - [PlayStation State of Play February 2026: all the news and trailers](https://www.theverge.com/games/877875/playstation-state-of-play-february-2026-ps5-news-trailers) (2026-02-12)
 - [In one swoop, Trump kills US greenhouse gas regulations](https://www.theverge.com/science/877371/trump-carbon-pollution-endangerment-finding-repeal-climate-change) (2026-02-12)
-- [Two powerful, OLED-equipped gaming laptops are hundreds off](https://www.theverge.com/gadgets/878209/asus-acer-oled-rtx-5070ti-gaming-laptop-deal-sale) (2026-02-12)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Rocket Report: Say cheerio to Orbex; China is getting good at booster landings](https://arstechnica.com/space/2026/02/rocket-report-say-cheerio-to-orbex-china-is-getting-good-at-booster-landings/) (2026-02-13)
+- [Platforms bend over backward to help DHS censor ICE critics, advocates say](https://arstechnica.com/tech-policy/2026/02/platforms-bend-over-backward-to-help-dhs-censor-ice-critics-advocates-say/) (2026-02-13)
 - [When Amazon badly needed a ride, Europe's Ariane 6 rocket delivered](https://arstechnica.com/space/2026/02/when-amazon-badly-needed-a-ride-europes-ariane-6-rocket-delivered/) (2026-02-13)
 - [OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips](https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/) (2026-02-12)
 - [Trump official overruled FDA scientists to reject Moderna's flu shot](https://arstechnica.com/health/2026/02/trump-official-overruled-fda-scientists-to-reject-modernas-flu-shot/) (2026-02-12)
-- [Spider-Noir teaser comes in colorized "True Hue" and black and white](https://arstechnica.com/culture/2026/02/spider-noir-teaser-comes-in-colorized-true-hue-and-black-and-white/) (2026-02-12)
-- [ULA's Vulcan rocket suffers another booster problem on the way to orbit](https://arstechnica.com/space/2026/02/ulas-vulcan-launcher-still-has-a-solid-rocket-booster-problem/) (2026-02-12)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The myth of the high-tech heist](https://www.technologyreview.com/2026/02/13/1132397/myth-of-high-tech-heist/) (2026-02-13)
+- [US deputy health secretary: Vaccine guidelines are still subject to change](https://www.technologyreview.com/2026/02/13/1132889/us-deputy-health-secretary-vaccine-guidelines-longevity-arpa-h-cdc-nih/) (2026-02-13)
+- [RFK Jr. follows a carnivore diet. That doesn’t mean you should.](https://www.technologyreview.com/2026/02/13/1132848/rfk-jr-carnivore-diet-maha-social-media/) (2026-02-13)
 - [The Download: AI-enhanced cybercrime, and secure AI assistants](https://www.technologyreview.com/2026/02/12/1132819/the-download-ai-enhanced-cybercrime-and-secure-ai-assistants/) (2026-02-12)
 - [AI is already making online crimes easier. It could get much worse.](https://www.technologyreview.com/2026/02/12/1132386/ai-already-making-online-swindles-easier/) (2026-02-12)
-- [Why EVs are gaining ground in Africa](https://www.technologyreview.com/2026/02/12/1132790/evs-progress-africa/) (2026-02-12)
-- [What’s next for Chinese open-source AI](https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/) (2026-02-12)
-- [Is a secure AI assistant possible?](https://www.technologyreview.com/2026/02/11/1132768/is-a-secure-ai-assistant-possible/) (2026-02-11)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [ThinkInk: Optimizing the Reader's Journey with Generative AI and Copilot CLI](https://dev.to/mirinagonzales/thinkink-optimizing-the-readers-journey-with-generative-ai-and-copilot-cli-29jm) (2026-02-13)
-- [The Missing Pillar: Why Cisco's Cybersecurity Readiness Index Needs a Human Layer](https://dev.to/narnaiezzsshaa/the-missing-pillar-why-ciscos-cybersecurity-readiness-index-needs-a-human-layer-5c4g) (2026-02-13)
-- [Playwright Debugging, Supercharged by GitHub Copilot](https://dev.to/shekharapple16spec/playwright-debugging-supercharged-by-github-copilot-53ac) (2026-02-13)
-- [Like Stories? Love Python! 📖🐍 Ep.4](https://dev.to/the-software-s-journey/like-stories-love-python-ep4-26ia) (2026-02-13)
-- [How to Set Up a Personal AI Agent with OpenClaw and Discor](https://dev.to/lightningdev123/how-to-set-up-a-personal-ai-agent-with-openclaw-and-discor-4omp) (2026-02-13)
+- [Tipo da Licença (qual licença usar e porque?)](https://dev.to/doccaio/tipo-da-licenca-qual-licenca-usar-e-porque-4pm5) (2026-02-13)
+- [License Type (which license to use and why?)](https://dev.to/doccaio/license-type-which-license-to-use-and-why-5f0) (2026-02-13)
+- [[Boost]](https://dev.to/diamantino_almeida/-1c9) (2026-02-13)
+- [Next.js Weekly #117: vS3, TypeScript 6.0 Beta, Bulletproof Component, AI Debugging, Enterprise Next.js, State of React 2025](https://dev.to/erfanebrahimnia/nextjs-weekly-117-vs3-typescript-60-beta-bulletproof-component-ai-debugging-enterprise-3op2) (2026-02-13)
+- [Automating Documentation Review in Your CI/CD Pipeline](https://dev.to/bipin_rimal314/automating-documentation-review-in-your-cicd-pipeline-goj) (2026-02-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Is Programming Hard? The Honest Truth](https://medium.com/heartline-publications/is-programming-hard-the-honest-truth-ca040c25720f?source=rss------programming-5) (2026-02-13)
-- [Why Clean Code Matters More Than Clever Code?](https://medium.com/write-a-catalyst/why-clean-code-matters-more-than-clever-code-08bfc110ad91?source=rss------programming-5) (2026-02-13)
-- [I Stopped Just Learning Code — I Started Building Products](https://moinn.medium.com/i-stopped-just-learning-code-i-started-building-products-5ae1d7047f85?source=rss------programming-5) (2026-02-13)
-- [I Wanted to Quit Coding Yesterday — Here’s What Stopped Me](https://medium.com/@rakshitha55ramesh/i-wanted-to-quit-coding-yesterday-heres-what-stopped-me-b1cf6cbc2dc7?source=rss------programming-5) (2026-02-13)
-- [What 3 Years of Writing Python Taught Me About Choosing the Right Libraries](https://python.plainenglish.io/what-3-years-of-writing-python-taught-me-about-choosing-the-right-libraries-d5a9cb056e8a?source=rss------programming-5) (2026-02-13)
+- [Building Production AI Agents with Microsoft Foundry: Architecture, Tools, Governance, and…](https://medium.com/codex/building-production-ai-agents-with-microsoft-foundry-architecture-tools-governance-and-f836560abffd?source=rss------programming-5) (2026-02-13)
+- [The Habits That Separate Elite Programmers From Forever-Mediocre Developers](https://medium.com/@sovannaro/the-habits-that-separate-elite-programmers-from-forever-mediocre-developers-eb00c9d8d3f3?source=rss------programming-5) (2026-02-13)
+- [Flutter Clipboard Image Picker — A Complete Guide](https://medium.com/@julienjthomas/flutter-clipboard-image-picker-a-complete-guide-c30cd4925dfc?source=rss------programming-5) (2026-02-13)
+- [Why Claude Opus 4.6 Changes Everything: The Dawn of “Vibe Working](https://ai.plainenglish.io/why-claude-opus-4-6-changes-everything-the-dawn-of-vibe-working-a14bf6d709fa?source=rss------programming-5) (2026-02-13)
+- [Goodbye ChatGPT-4o — We Hardly Knew Ya](https://medium.com/the-vibe-economy/goodbye-chatgpt-4o-we-hardly-knew-ya-f584f6574568?source=rss------programming-5) (2026-02-13)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Can high-temperature superconductors transform the power infrastructure of datacenters?](https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/) (2026-02-10)
+- [Five Reasons to attend SQLCon](https://blog.fabric.microsoft.com/en-us/blog/32624) (2026-02-09)
 - [Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/) (2026-02-05)
 - [Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ](https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/) (2026-02-04)
 - [PostgreSQL on Azure supercharged for AI](https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/) (2026-02-02)
-- [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
-- [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Building Modular Monoliths With Kotlin and Spring](https://blog.jetbrains.com/kotlin/2026/02/building-modular-monoliths-with-kotlin-and-spring/) (2026-02-13)
 - [JetBrains Academy – February Digest](https://blog.jetbrains.com/education/2026/02/12/jetbrains-academy-february-2026/) (2026-02-12)
 - [Are We Having the Wrong AI Dreams?](https://blog.jetbrains.com/ai/2026/02/are-we-having-the-wrong-ai-dreams/) (2026-02-12)
 - [Python Unplugged on PyTV – A Free Online Python Conference for Everyone ](https://blog.jetbrains.com/pycharm/2026/02/python-unplugged-on-pytv/) (2026-02-11)
 - [The State of Rust 2025: Popularity, Trends, and Future](https://blog.jetbrains.com/rust/2026/02/11/state-of-rust-2025/) (2026-02-11)
-- [The Best AI Models for Coding: Accuracy, Integration, and Developer Fit](https://blog.jetbrains.com/ai/2026/02/the-best-ai-models-for-coding-accuracy-integration-and-developer-fit/) (2026-02-11)
 
 </details>
 
@@ -559,11 +559,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/ways-to-easi
 <details>
 <summary>🤖 AI News</summary>
 
-- [Google identifies state-sponsored hackers using AI in attacks](https://www.artificialintelligence-news.com/news/state-sponsored-hackers-ai-cyberattacks-google/) (2026-02-12)
-- [Barclays bets on AI to cut costs and boost returns](https://www.artificialintelligence-news.com/news/barclays-bets-on-ai-to-cut-costs-and-boost-returns/) (2026-02-11)
-- [How insurance leaders use agentic AI to cut operational costs](https://www.artificialintelligence-news.com/news/how-insurance-leaders-use-agentic-ai-to-cut-operational-costs/) (2026-02-11)
-- [Red Hat unifies AI and tactical edge deployment for UK MOD](https://www.artificialintelligence-news.com/news/red-hat-unifies-ai-tactical-edge-deployment-for-uk-mod/) (2026-02-11)
-- [Chinese hyperscalers and industry-specific agentic AI](https://www.artificialintelligence-news.com/news/chinese-hyperscalers-and-industry-specific-chinas-agentic-ai/) (2026-02-10)
+- [Agentic AI drives finance ROI in accounts payable automation](https://www.artificialintelligence-news.com/news/agentic-ai-drives-finance-roi-in-accounts-payable-automation/) (2026-02-13)
+- [Newsweek CEO Dev Pragad warns publishers: adapt as AI becomes news gateway](https://www.artificialintelligence-news.com/news/newsweek-ceo-dev-pragad-warns-publishers-adapt-as-ai-becomes-news-gateway/) (2026-02-13)
+- [How e& is using HR to bring AI into enterprise operations](https://www.artificialintelligence-news.com/news/how-e-is-using-hr-to-bring-ai-into-enterprise-operations/) (2026-02-13)
+- [Alibaba enters physical AI race with open-source robot model RynnBrain](https://www.artificialintelligence-news.com/news/alibaba-rynnbrain-physical-ai-robots-china/) (2026-02-13)
+- [AI deployment in financial services hits an inflection point as Singapore leads the shift to production](https://www.artificialintelligence-news.com/news/financial-services-ai-deployment-singapore/) (2026-02-13)
 
 </details>
 
@@ -581,11 +581,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/ways-to-easi
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [What is Prompt Chaining?](https://www.analyticsvidhya.com/blog/2026/02/what-is-prompt-chaining/) (2026-02-13)
+- [I Built an AI Agent that Predicts Match Winners in the ICC Men’s T20 World Cup 2026](https://www.analyticsvidhya.com/blog/2026/02/ai-agent-cricket-prediction/) (2026-02-13)
 - [Guide to Build a Data Analysis & Visualization Agent Using Swarm Architecture ](https://www.analyticsvidhya.com/blog/2026/02/data-analyst-visualization-agent-using-swarm-architecture/) (2026-02-12)
 - [How Andrej Karpathy Built a Working Transformer in 243 Lines of Code](https://www.analyticsvidhya.com/blog/2026/02/andrej-karpathy-microgpt/) (2026-02-12)
 - [Claude Agents Just Built a Fully Functioning C Compiler With Zero Human Input](https://www.analyticsvidhya.com/blog/2026/02/claude-agents-built-c-compiler/) (2026-02-11)
-- [I Built a Complete AI Resume with 90+ ATS Score](https://www.analyticsvidhya.com/blog/2026/02/build-a-complete-ai-resume-with-90-ats-score/) (2026-02-11)
-- [How to Create Your AI Caricature Using ChatGPT Image?](https://www.analyticsvidhya.com/blog/2026/02/chatgpt-caricature-image/) (2026-02-10)
 
 </details>
 
