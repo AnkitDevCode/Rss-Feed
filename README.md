@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Hollywood isn’t happy about the new Seedance 2.0 video generator](https://techcrunch.com/2026/02/14/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/) (2026-02-14)
+- [Designer Kate Barton teams up with IBM and Fiducia AI for a NYFW presentation](https://techcrunch.com/2026/02/14/designer-kate-barton-teams-up-with-ibm-and-fiducia-ai-for-a-nyfw-presentation/) (2026-02-14)
+- [India doubles down on state-backed venture capital, approving $1.1B fund](https://techcrunch.com/2026/02/14/india-doubles-down-on-state-backed-venture-capital-approving-1-1b-fund/) (2026-02-14)
 - [Nothing opens its first retail store in India](https://techcrunch.com/2026/02/13/nothing-opens-its-first-retail-store-in-india/) (2026-02-14)
 - [Indian pharmacy chain giant exposed customer data and internal systems](https://techcrunch.com/2026/02/13/indias-major-pharmacy-chain-exposed-customer-data-and-internal-systems/) (2026-02-14)
-- [Airbnb plans to bake in AI features for search, discovery and support](https://techcrunch.com/2026/02/13/airbnb-plans-to-bake-in-ai-features-for-search-discovery-and-support/) (2026-02-14)
-- [Airbnb says a third of its customer support is now handled by AI in the US and Canada](https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/) (2026-02-13)
-- [Fintech lending giant Figure confirms data breach](https://techcrunch.com/2026/02/13/fintech-lending-giant-figure-confirms-data-breach/) (2026-02-13)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Ars Technica makes up quotes from Matplotlib maintainer; pulls story](https://infosec.exchange/@mttaggart/116065340523529645) (2026-02-14)
-- [YouTube as Storage](https://github.com/PulseBeat02/yt-media-storage) (2026-02-14)
-- [Zig – io_uring and Grand Central Dispatch std.Io implementations landed](https://ziglang.org/devlog/2026/#2026-02-13) (2026-02-14)
-- [Show HN: Prompt to Planet, generate procedural 3D planets from text](https://prompttoplanet.n4ze3m.com/) (2026-02-14)
-- [Cogram (YC W22) – Hiring former technical founders](https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer) (2026-02-14)
+- [Show HN: Arcmark – macOS bookmark manager that attaches to browser as sidebar](https://github.com/Geek-1001/arcmark) (2026-02-14)
+- [Stoat removes all LLM-generated code following user criticism](https://github.com/orgs/stoatchat/discussions/1022) (2026-02-14)
+- [Amsterdam Compiler Kit](https://github.com/davidgiven/ack) (2026-02-14)
+- [Audiophiles Can't Distinguish Audio Sent Through Copper, Banana or Mud](https://www.tomshardware.com/speakers/in-a-blind-test-audiophiles-couldnt-tell-the-difference-between-audio-signals-sent-through-copper-wire-a-banana-or-wet-mud-the-mud-should-sound-perfectly-awful-but-it-doesnt-notes-the-experiment-creator) (2026-02-14)
+- [A Review of M Disc Archival Capability. With long term testing results](http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html) (2026-02-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [DJI’s first robovac is an autonomous cleaning drone you can’t trust](https://www.theverge.com/tech/877012/dji-romo-review-robot-vacuum-drone-mop) (2026-02-14)
-- [The DJI Romo robovac had security so poor, this man remotely accessed thousands of them](https://www.theverge.com/tech/879088/dji-romo-hack-vulnerability-remote-control-camera-access-mqtt) (2026-02-14)
-- [4chan’s creator says ‘Epstein had nothing to do’ with creating infamous far-right board /pol/](https://www.theverge.com/tech/879132/moot-4chan-jeffrey-epstein-meeting-pol) (2026-02-13)
-- [The Verge’s 2026 Valentine’s Day gift guide (for him)](https://www.theverge.com/gadgets/865396/valentines-day-2026-gift-ideas-for-him-boyfriend-husband-partner) (2026-02-13)
-- [The Beats Studio Buds Plus are on sale for less than $100 for Presidents Day](https://www.theverge.com/gadgets/878951/beats-studio-buds-plus-earbuds-presidents-day-sale-deal) (2026-02-13)
+- [iBuyPower’s gaming desktops are discounted for Presidents Day](https://www.theverge.com/gadgets/878927/ibuypower-gaming-desktop-pc-presidents-day-sale-deal) (2026-02-14)
+- [Georgia Tech announced the finalists in its wild musical instrument competition](https://www.theverge.com/entertainment/879482/georgia-techs-musical-instrument-competition-fiddle-henge) (2026-02-14)
+- [The Pocket Taco is the best way to turn your phone into a Game Boy](https://www.theverge.com/tech/877491/gamesir-pocket-taco-wireless-bluetooth-controller-clamp-hands-on) (2026-02-14)
+- [A powerful tool of resistance is already in your hands](https://www.theverge.com/policy/879273/alex-pretti-ice-cbp-trump-free-speech) (2026-02-14)
+- [My uncanny AI valentines](https://www.theverge.com/report/879327/eva-ai-cafe-dating-ai-companions) (2026-02-14)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Astronomers are filling in the blanks of the Kuiper Belt](https://arstechnica.com/science/2026/02/astronomers-are-filling-in-the-blanks-of-the-kuiper-belt/) (2026-02-14)
 - [WHO slams US-funded newborn vaccine trial as "unethical"](https://arstechnica.com/health/2026/02/who-slams-us-funded-newborn-vaccine-trial-as-unethical/) (2026-02-13)
 - [Aided by AI, California beach town broadens hunt for bike lane blockers](https://arstechnica.com/tech-policy/2026/02/santa-monica-deploys-ai-powered-parking-cameras-to-protect-bike-lanes/) (2026-02-13)
 - [Verizon imposes new roadblock on users trying to unlock paid-off phones](https://arstechnica.com/tech-policy/2026/02/verizon-makes-customers-wait-35-days-to-unlock-fully-paid-off-phones/) (2026-02-13)
 - [Ring cancels Flock deal after dystopian Super Bowl ad prompts mass outrage](https://arstechnica.com/tech-policy/2026/02/after-creepy-super-bowl-ad-sparks-outrage-ring-abandons-flock-deal/) (2026-02-13)
-- [The first Android 17 beta is now available on Pixel devices](https://arstechnica.com/gadgets/2026/02/the-first-android-17-beta-is-now-available-on-pixel-devices/) (2026-02-13)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I built an idea-to-repo CLI with Github copilot](https://dev.to/devmahn/i-built-an-idea-to-repo-cli-with-github-copilot-hfb) (2026-02-14)
-- [Fundamental matters more in AI era](https://dev.to/kination/fundamental-matters-more-in-ai-era-4nkf) (2026-02-14)
-- [Self-Hosted Docker Registry on Your Own SFTP: Introducing Refity](https://dev.to/troke12/self-hosted-docker-registry-on-your-own-sftp-introducing-refity-5ce5) (2026-02-14)
-- [Converting Large JSON, NDJSON, CSV and XML Files without Blowing Up Memory](https://dev.to/bruno_hanss_6b82bb52cd0fa/converting-large-json-ndjson-csv-and-xml-files-without-blowing-up-memory-20ao) (2026-02-14)
-- [How We Run Lighthouse from 18 Regions in Under 2 Minutes](https://dev.to/ahojmetrics/how-we-run-lighthouse-from-18-regions-in-under-2-minutes-pd7) (2026-02-14)
+- [🧬 ProjectDNA — I Built an AI Tool that Reality-Checks Your Project Ideas using GitHub Copilot CLI](https://dev.to/sreelaxmi21/projectdna-i-built-an-ai-tool-that-reality-checks-your-project-ideas-using-github-copilot-cli-158g) (2026-02-14)
+- [How We Built a 15-Agent AI Operations Team in One Day](https://dev.to/agentforge/how-i-built-a-15-agent-ai-operations-team-in-one-day-3lm8) (2026-02-14)
+- [10 Mistakes You're making in Kubernetes that cost you money](https://dev.to/tal_shafir_49b67973e9d3b4/10-mistakes-youre-making-in-kubernetes-that-cost-you-money-48c5) (2026-02-14)
+- [From Chaos to Clarity: My Journey Building JSON Query Pro](https://dev.to/priyabratapaul/from-chaos-to-clarity-my-journey-building-json-query-pro-45kg) (2026-02-14)
+- [How I Brought Wiimotes Back to Life in 2026](https://dev.to/juanipis/how-i-bring-back-the-wiimotes-on-2026-29h8) (2026-02-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Lists vs Tuples in Python: When Should You Use Which?](https://medium.com/@ranadeepkooragayala/lists-vs-tuples-in-python-when-should-you-use-which-2f5f5ad98e1b?source=rss------programming-5) (2026-02-14)
-- [Building a Mini Student Management System Using Lists and Dictionaries](https://medium.com/@nandishgs0009/building-a-mini-student-management-system-using-lists-and-dictionaries-479b7af92141?source=rss------programming-5) (2026-02-14)
-- [Building a Mini Student Management System Using Lists and Dictionaries in Python](https://medium.com/@deekshakulal027/building-a-mini-student-management-system-using-lists-and-dictionaries-in-python-839dcd97104d?source=rss------programming-5) (2026-02-14)
-- [Python Dictionaries Explained with Real-Life Use Cases.](https://medium.com/@gokarnavaishnavi/python-dictionaries-explained-with-real-life-use-cases-f23b77d92320?source=rss------programming-5) (2026-02-14)
-- [Go’s Concurrency in C++: A Deep Dive on Building a High-Efficiency Fiber Scheduler](https://medium.com/@monikasinghal713/gos-concurrency-in-c-a-deep-dive-on-building-a-high-efficiency-fiber-scheduler-58b407f6f3f1?source=rss------programming-5) (2026-02-14)
+- [The silver bullet – why building software is still hard](https://medium.com/@ensing89/the-silver-bullet-why-building-software-is-still-hard-e8d3b4024485?source=rss------programming-5) (2026-02-14)
+- [5 Python OOP Patterns That Completely Changed How I Design Software (And Why You Should Use Them…](https://medium.com/codetodeploy/5-python-oop-patterns-that-completely-changed-how-i-design-software-and-why-you-should-use-them-423e819fd52d?source=rss------programming-5) (2026-02-14)
+- [One LINQ Extension Method You NEED To Know For Cleaner EF Core Queries](https://medium.com/@mariammaurice/one-linq-extension-method-you-need-to-know-for-cleaner-ef-core-queries-6b97535077e7?source=rss------programming-5) (2026-02-14)
+- [Sets in Python: The Easiest Way to Remove Duplicates and Speed Up Your Code](https://medium.com/@saipatel01.ai/sets-in-python-the-easiest-way-to-remove-duplicates-and-speed-up-your-code-3f1bd8483b2e?source=rss------programming-5) (2026-02-14)
+- [Stop Blaming Go’s GC: The 3 Allocation Mistakes That Tanked My Performance ](https://medium.com/@anshusinghal703/stop-blaming-gos-gc-the-3-allocation-mistakes-that-tanked-my-performance-f639ef88eac9?source=rss------programming-5) (2026-02-14)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [The data behind the design: How Pantone built agentic AI with an AI-ready database](https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/) (2026-02-12)
+- [Agentic cloud operations: A new way to run the cloud](https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/) (2026-02-11)
+- [Can high-temperature superconductors transform the power infrastructure of datacenters?](https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/) (2026-02-10)
 - [Five Reasons to attend SQLCon](https://blog.fabric.microsoft.com/en-us/blog/32624) (2026-02-09)
 - [Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/) (2026-02-05)
-- [Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ](https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/) (2026-02-04)
-- [PostgreSQL on Azure supercharged for AI](https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/) (2026-02-02)
-- [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
 
 </details>
 
@@ -582,11 +582,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/sending-rcs-cards
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [What is Elasticsearch?](https://www.analyticsvidhya.com/blog/2026/02/what-is-elasticsearch/) (2026-02-14)
+- [I Built a Smart Movie Recommender with Collaborative Filtering](https://www.analyticsvidhya.com/blog/2026/02/collaborative-filtering-recommendation-system/) (2026-02-14)
 - [What is Prompt Chaining?](https://www.analyticsvidhya.com/blog/2026/02/what-is-prompt-chaining/) (2026-02-13)
 - [I Built an AI Agent that Predicts Match Winners in the ICC Men’s T20 World Cup 2026](https://www.analyticsvidhya.com/blog/2026/02/ai-agent-cricket-prediction/) (2026-02-13)
 - [Guide to Build a Data Analysis & Visualization Agent Using Swarm Architecture ](https://www.analyticsvidhya.com/blog/2026/02/data-analyst-visualization-agent-using-swarm-architecture/) (2026-02-12)
-- [How Andrej Karpathy Built a Working Transformer in 243 Lines of Code](https://www.analyticsvidhya.com/blog/2026/02/andrej-karpathy-microgpt/) (2026-02-12)
-- [Claude Agents Just Built a Fully Functioning C Compiler With Zero Human Input](https://www.analyticsvidhya.com/blog/2026/02/claude-agents-built-c-compiler/) (2026-02-11)
 
 </details>
 
