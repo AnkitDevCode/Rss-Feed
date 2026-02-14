@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Airbnb says a third of its customer support is now handled by AI in the US and Canada](https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/) (2026-02-13)
+- [Fintech lending giant Figure confirms data breach](https://techcrunch.com/2026/02/13/fintech-lending-giant-figure-confirms-data-breach/) (2026-02-13)
+- [Why top talent is walking away from OpenAI and xAI](https://techcrunch.com/video/why-top-talent-is-walking-away-from-openai-and-xai/) (2026-02-13)
+- [Sex toys maker Tenga says hacker stole customer information](https://techcrunch.com/2026/02/13/sex-toys-maker-tenga-says-hacker-stole-customer-information/) (2026-02-13)
 - [OpenAI removes access to sycophancy-prone GPT-4o model](https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/) (2026-02-13)
-- [The SEC closed its investigation into Fisker](https://techcrunch.com/2026/02/13/the-sec-closed-its-investigation-into-fisker/) (2026-02-13)
-- [India partners with Alibaba.com for export push despite past China tech bans](https://techcrunch.com/2026/02/13/india-partners-with-alibaba-com-for-export-push-despite-past-china-tech-bans/) (2026-02-13)
-- [Anthropic’s Super Bowl ads mocking AI with ads helped push Claude’s app into the top 10](https://techcrunch.com/2026/02/13/anthropics-super-bowl-ads-mocking-ai-with-ads-helped-push-claudes-app-into-the-top-10/) (2026-02-13)
-- [Roku to launch streaming bundles as part of its efforts to continue growing its profitability](https://techcrunch.com/2026/02/13/roku-to-launch-streaming-bundles-as-part-of-its-efforts-to-continue-growing-its-profitability/) (2026-02-13)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [CBP Signs Clearview AI Deal to Use Face Recognition for 'Tactical Targeting'](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/) (2026-02-13)
-- [I spent two days gigging at RentAHuman and didn't make a single cent](https://www.wired.com/story/i-tried-rentahuman-ai-agents-hired-me-to-hype-their-ai-startups/) (2026-02-13)
-- [IronClaw: a Rust-based clawd that runs tools in isolated WASM sandboxes](https://github.com/nearai/ironclaw) (2026-02-13)
-- [Open Source Is Not About You (2018)](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9) (2026-02-13)
-- [Apocalypse no: how almost everything we thought we knew about the Maya is wrong](https://www.theguardian.com/news/2026/feb/12/apocalypse-no-how-almost-everything-we-thought-we-knew-about-the-maya-is-wrong) (2026-02-13)
+- [An AI Agent Published a Hit Piece on Me – More Things Have Happened](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/) (2026-02-14)
+- [OpenAI has deleted the word 'safely' from its mission](https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467) (2026-02-13)
+- [Show HN: Data Engineering Book – An open source, community-driven guide](https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md) (2026-02-13)
+- [The EU moves to kill infinite scrolling](https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/) (2026-02-13)
+- [The "AI agent hit piece" situation clarifies how dumb we are acting](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/) (2026-02-13)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [4chan’s creator says ‘Epstein had nothing to do’ with creating infamous far-right board /pol/](https://www.theverge.com/tech/879132/moot-4chan-jeffrey-epstein-meeting-pol) (2026-02-13)
+- [The Verge’s 2026 Valentine’s Day gift guide (for him)](https://www.theverge.com/gadgets/865396/valentines-day-2026-gift-ideas-for-him-boyfriend-husband-partner) (2026-02-13)
+- [The Beats Studio Buds Plus are on sale for less than $100 for Presidents Day](https://www.theverge.com/gadgets/878951/beats-studio-buds-plus-earbuds-presidents-day-sale-deal) (2026-02-13)
 - [Steam beta lets users add their PC specs to reviews](https://www.theverge.com/games/878920/steam-reviews-pc-specs-beta) (2026-02-13)
 - [Here are the 50 best Presidents Day deals we’ve found so far](https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026) (2026-02-13)
-- [What’s behind the mass exodus at xAI?](https://www.theverge.com/ai-artificial-intelligence/878761/mass-exodus-at-xai-grok-elon-musk-restructuring) (2026-02-13)
-- [Can Democrats post their way to midterm victories?](https://www.theverge.com/policy/877603/kamalahq-headquarters-democrats-social-media-strategy) (2026-02-13)
-- [Trump Mobile’s origins lie with a Mexican middleweight boxer](https://www.theverge.com/tech/878699/trump-mobile-interview-canelo-alvarez-origins) (2026-02-13)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Tiny, 45 base long RNA can make copies of itself](https://arstechnica.com/science/2026/02/researchers-find-small-rnas-that-can-make-copies-of-themselves/) (2026-02-13)
-- [What if riders don't close a robotaxi door after a ride? Try DoorDash.](https://arstechnica.com/cars/2026/02/what-if-riders-dont-close-a-robotaxi-door-after-a-ride-try-doordash/) (2026-02-13)
-- [Why is Bezos trolling Musk on X with turtle pics? Because he has a new Moon plan.](https://arstechnica.com/space/2026/02/why-is-bezos-trolling-musk-on-x-with-turtle-pics-because-he-has-a-new-moon-plan/) (2026-02-13)
-- [I spent two days gigging at RentAHuman and didn't make a single cent](https://arstechnica.com/ai/2026/02/i-spent-two-days-gigging-at-rentahuman-and-didnt-make-a-single-cent/) (2026-02-13)
-- [Rocket Report: Say cheerio to Orbex; China is getting good at booster landings](https://arstechnica.com/space/2026/02/rocket-report-say-cheerio-to-orbex-china-is-getting-good-at-booster-landings/) (2026-02-13)
+- [WHO slams US-funded newborn vaccine trial as "unethical"](https://arstechnica.com/health/2026/02/who-slams-us-funded-newborn-vaccine-trial-as-unethical/) (2026-02-13)
+- [Aided by AI, California beach town broadens hunt for bike lane blockers](https://arstechnica.com/tech-policy/2026/02/santa-monica-deploys-ai-powered-parking-cameras-to-protect-bike-lanes/) (2026-02-13)
+- [Verizon imposes new roadblock on users trying to unlock paid-off phones](https://arstechnica.com/tech-policy/2026/02/verizon-makes-customers-wait-35-days-to-unlock-fully-paid-off-phones/) (2026-02-13)
+- [Ring cancels Flock deal after dystopian Super Bowl ad prompts mass outrage](https://arstechnica.com/tech-policy/2026/02/after-creepy-super-bowl-ad-sparks-outrage-ring-abandons-flock-deal/) (2026-02-13)
+- [The first Android 17 beta is now available on Pixel devices](https://arstechnica.com/gadgets/2026/02/the-first-android-17-beta-is-now-available-on-pixel-devices/) (2026-02-13)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [What Is Runtime Authorization? A Guide to Dynamic Access Control and the Best Runtime Authorization Tools](https://dev.to/anna_p_s/what-is-runtime-authorization-a-guide-to-dynamic-access-control-and-the-best-runtime-authorization-1849) (2026-02-13)
-- [The Ultimate Guide to Kotlin Concurrency for Building a Super Android App 🚀](https://dev.to/mrkivan820/the-ultimate-guide-to-kotlin-concurrency-for-building-a-super-android-app-4pko) (2026-02-13)
-- [The 1:1 Myth: Why Your CPU Can Handle 400 Threads on 4 Cores](https://dev.to/nunosilva/the-11-myth-why-your-cpu-can-handle-400-threads-on-4-cores-57il) (2026-02-13)
-- [The .cursorrules I'd Actually Use for a Next.js E-Commerce Project](https://dev.to/nedcodes/the-cursorrules-id-actually-use-for-a-nextjs-e-commerce-project-198i) (2026-02-13)
-- [MultiLLM interface, Smartest way to use AI!](https://dev.to/fastestmk/multillm-interface-2c25) (2026-02-13)
+- [From Tab Chaos to Clarity: Why I Built a Chrome Extension for Jira + GitHub](https://dev.to/just_a_programmer/from-tab-chaos-to-clarity-why-i-built-a-chrome-extension-for-jira-github-1579) (2026-02-14)
+- [Real Numbers: What AI Automation Actually Costs for Small Business](https://dev.to/syntora/real-numbers-what-ai-automation-actually-costs-for-small-business-3mon) (2026-02-14)
+- [Keeping Your Secrets in Sync: Environment Lifecycle Management That Actually Works](https://dev.to/jds64/keeping-your-secrets-in-sync-environment-lifecycle-management-that-actually-works-24ga) (2026-02-14)
+- [In many startups, ethics is treated like a policy problem. That approach fails in AI. Because in AI products, ethics is not a document. It's the integral part of the product.](https://dev.to/jaideepparashar/in-many-startups-ethics-is-treated-like-a-policy-problem-that-approach-fails-in-ai-because-in-ai-2m3g) (2026-02-14)
+- [AI Ethics in Startups: Why Developers Must Lead](https://dev.to/jaideepparashar/ai-ethics-in-startups-why-developers-must-lead-57cg) (2026-02-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Mistakes Beginners Make While Learning Python Basics](https://medium.com/@kannutyagi0003/mistakes-beginners-make-while-learning-python-basics-ccb34d36e6ae?source=rss------programming-5) (2026-02-13)
-- [Async Rust Looked Hard Until We Compared 6 Outage Reports](https://medium.com/@Krishnajlathi/async-rust-looked-hard-until-we-compared-6-outage-reports-d2910cda1f0e?source=rss------programming-5) (2026-02-13)
-- [Istio Just Died. Here’s What Killed the $3B Service Mesh in 90 Days.](https://medium.com/infradecodedops/istio-just-died-heres-what-killed-the-3b-service-mesh-in-90-days-43ab723ee000?source=rss------programming-5) (2026-02-13)
-- [AWS Just Made 70% of DevOps Engineers Obsolete. Here’s the Proof From re:Invent 2025.](https://medium.com/@xeniadaisy258/aws-just-made-70-of-devops-engineers-obsolete-heres-the-proof-from-re-invent-2025-c644e08e0fd2?source=rss------programming-5) (2026-02-13)
-- [Cursor is Dead: How Antigravity + Claude Are Rewriting the Rules of Vibe Coding](https://pub.towardsai.net/cursor-is-dead-how-antigravity-claude-are-rewriting-the-rules-of-vibe-coding-0aa60aafb9fb?source=rss------programming-5) (2026-02-13)
+- [I’m Missing the Art of Offline Programming](https://medium.com/lets-code-future/im-missing-the-art-of-offline-programming-d35138d035f6?source=rss------programming-5) (2026-02-14)
+- [8 Python Projects That Reignited My Love for Coding](https://blog.stackademic.com/8-python-projects-that-reignited-my-love-for-coding-fdcffbbaaae6?source=rss------programming-5) (2026-02-14)
+- [# How to Add CSV Import to React Applications in 5 Minutes with ImportKit](https://medium.com/@gissur_31386/how-to-add-csv-import-to-react-applications-in-5-minutes-with-importkit-e906d6398958?source=rss------programming-5) (2026-02-14)
+- [gRPC Services with Spring Boot and Java Clients](https://medium.com/@AlexanderObregon/grpc-services-with-spring-boot-and-java-clients-59c6dbfe34c8?source=rss------programming-5) (2026-02-14)
+- [Remove Duplicates from Sorted Array](https://medium.com/operations-research-bit/remove-duplicates-from-sorted-array-06dac46461ba?source=rss------programming-5) (2026-02-14)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [The data behind the design: How Pantone built agentic AI with an AI-ready database](https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/) (2026-02-12)
+- [Agentic cloud operations: A new way to run the cloud](https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/) (2026-02-11)
+- [Can high-temperature superconductors transform the power infrastructure of datacenters?](https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/) (2026-02-10)
 - [Five Reasons to attend SQLCon](https://blog.fabric.microsoft.com/en-us/blog/32624) (2026-02-09)
 - [Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/) (2026-02-05)
-- [Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ](https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/) (2026-02-04)
-- [PostgreSQL on Azure supercharged for AI](https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/) (2026-02-02)
-- [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
 
 </details>
 
@@ -163,11 +163,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Prepare your app for the resizability and orientation changes in Android 17](https://android-developers.googleblog.com/2026/02/prepare-your-app-for-resizability-and.html) (2026-02-13)
+- [The First Beta of Android 17](https://android-developers.googleblog.com/2026/02/the-first-beta-of-android-17.html) (2026-02-13)
 - [Accelerating your insights with faster, smarter monetization data and recommendations](https://android-developers.googleblog.com/2026/01/accelerating-your-insights-with-faster.html) (2026-01-29)
 - [How Automated Prompt Optimization Unlocks Quality Gains for ML Kit’s GenAI Prompt API](https://android-developers.googleblog.com/2026/01/how-automated-prompt-optimization.html) (2026-01-28)
 - [The Embedded Photo Picker](https://android-developers.googleblog.com/2026/01/httpsandroid-developers.googleblog.com202506android-embedded-photo-picker.html .html) (2026-01-27)
-- [Beyond the smartphone: How JioHotstar optimized its UX for foldables and tablets](https://android-developers.googleblog.com/2026/01/beyond-smartphone-how-jiohotstar.html) (2026-01-27)
-- [Trade-in mode on Android 16+ ](https://android-developers.googleblog.com/2026/01/httpsdeveloper.android.comtrade-in-mode-faster-diagnostics-access.html) (2026-01-26)
 
 </details>
 
@@ -295,11 +295,11 @@
 <details>
 <summary>📌 Pinterest Engineering</summary>
 
+- [GPU-Serving Two-Tower Models for Lightweight Ads Engagement Prediction](https://medium.com/pinterest-engineering/gpu-serving-two-tower-models-for-lightweight-ads-engagement-prediction-5a0ffb442f3b?source=rss-ef81ef829bcb------2) (2026-02-13)
 - [Next Generation DB Ingestion at Pinterest](https://medium.com/pinterest-engineering/next-generation-db-ingestion-at-pinterest-66844b7153b7?source=rss-ef81ef829bcb------2) (2026-02-05)
 - [Beyond Two Towers: Re-architecting the Serving Stack for Next-Gen Ads Lightweight Ranking Models…](https://medium.com/pinterest-engineering/beyond-two-towers-re-architecting-the-serving-stack-for-next-gen-ads-lightweight-ranking-models-1992f2b76cbb?source=rss-ef81ef829bcb------2) (2026-02-02)
 - [Ads Candidate Generation using Behavioral Sequence Modeling](https://medium.com/pinterest-engineering/ads-candidate-generation-using-behavioral-sequence-modeling-f9077ee1325d?source=rss-ef81ef829bcb------2) (2026-01-28)
 - [PinLanding: Turn Billions of Products into Instant Shopping Collections with Multimodal AI](https://medium.com/pinterest-engineering/pinlanding-turn-billions-of-products-into-instant-shopping-collections-with-multimodal-ai-3489320294e9?source=rss-ef81ef829bcb------2) (2026-01-13)
-- [LLM-Powered Relevance Assessment for Pinterest Search](https://medium.com/pinterest-engineering/llm-powered-relevance-assessment-for-pinterest-search-b846489e358d?source=rss-ef81ef829bcb------2) (2025-12-10)
 
 </details>
 
@@ -310,7 +310,7 @@
 - [Moving Your Codebase to Go 1.26 With GoLand Syntax Updates](https://blog.jetbrains.com/go/2026/02/13/moving-your-codebase-to-go-1-26-with-goland-syntax-updates/) (2026-02-13)
 - [Building Modular Monoliths With Kotlin and Spring](https://blog.jetbrains.com/kotlin/2026/02/building-modular-monoliths-with-kotlin-and-spring/) (2026-02-13)
 - [JetBrains Academy – February Digest](https://blog.jetbrains.com/education/2026/02/12/jetbrains-academy-february-2026/) (2026-02-12)
-- [Scaladoc support in the IntelliJ Scala Plugin](https://blog.jetbrains.com/scala/2026/02/12/scaladoc-support/) (2026-02-12)
+- [Markdown in Scaladoc is now supported by IntelliJ IDEA!](https://blog.jetbrains.com/scala/2026/02/12/markdown-in-scaladoc/) (2026-02-12)
 
 </details>
 
@@ -339,11 +339,11 @@
 <details>
 <summary>💜 Heroku Blog</summary>
 
+- [Building AI-Powered Observability with Heroku Managed Inference and Agents](https://www.heroku.com/blog/building-ai-powered-observability-with-managed-inference-and-agents/) (2026-02-13)
 - [Heroku and GitHub Enterprise Server: Stronger Security, Seamless Delivery](https://www.heroku.com/blog/github-enterprise-server-stronger-security-seamless-delivery/) (2026-02-11)
 - [An Update on Heroku](https://www.heroku.com/blog/an-update-on-heroku/) (2026-02-06)
 - [Building AI Search on Heroku](https://www.heroku.com/blog/building-ai-search-on-heroku/) (2026-01-29)
 - [Optimize Search Precision with Reranking on Heroku AI](https://www.heroku.com/blog/optimize-search-precision-reranking-heroku-ai/) (2026-01-15)
-- [Heroku AI: Accelerating AI Development With New Models, Performance Improvements, and Messages API](https://www.heroku.com/blog/accelerating-ai-dev-new-models-performance-improvements-messages-api/) (2025-12-18)
 
 </details>
 
@@ -362,6 +362,21 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Rich Messages, Richer Experiences: Monetizing Chatbots on RCS and WhatsApp
+](
+https://www.twilio.com/en-us/blog/developers/monetizing-chatbots-rcs-whatsapp-stripe
+) (2026-02-12)
+- [
+Sending RCS Carousels Using Python
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/sending-rcs-carousels-using-python
+) (2026-02-12)
+- [
+How to bring your own telephony to Okta with Twilio Verify
+](
+https://www.twilio.com/en-us/blog/okta-byot-verify
+) (2026-02-12)
+- [
 How to Use Twilio's Content Template Builder for Messaging
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-use-twilio-content-template-builder-messaging
@@ -371,21 +386,6 @@ Sending RCS Cards Using Python
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/sending-rcs-cards-using-python
 ) (2026-02-11)
-- [
-Play an Audio File in Voice Calls With PHP
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/play-audio-file-voice-calls-php
-) (2026-02-10)
-- [
-RCS vs. iMessage: Everything you need to know in 2026
-](
-https://www.twilio.com/en-us/blog/insights/rcs-vs-imessage
-) (2026-02-10)
-- [
-Ways to easily integrate Zapier with Twilio
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/ways-to-easily-integrate-zapier-with-twilio
-) (2026-02-09)
 
 </details>
 
@@ -505,11 +505,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/ways-to-easi
 <details>
 <summary>💬 Slack API</summary>
 
+- [Work Faster and Smarter With AI Agents in Slack for Every Line of Business](https://slack.com/blog/productivity/slack-ai-agents-for-every-line-of-business) (2026-02-11)
+- [How Effective Project Status Updates and Tracking Transform Team Productivity](https://slack.com/blog/collaboration/top-methods-and-metrics-for-tracking-project-progress) (2026-02-09)
 - [A Guide to Migrating From Microsoft Teams to Slack](https://slack.com/blog/transformation/teams-to-slack-migration) (2026-02-06)
 - [How We Rebuilt Slackbot](https://slack.com/blog/productivity/how-we-rebuilt-slackbot) (2026-02-06)
 - [How to Implement Agile: Steps, Frameworks, and Best Practices](https://slack.com/blog/productivity/agile-principles) (2026-02-03)
-- [What Are Conversational Agents? A Simple Guide](https://slack.com/blog/productivity/conversational-agents) (2026-02-03)
-- [A Complete Guide to the Kanban Method](https://slack.com/blog/productivity/the-kanban-system-simplified-tips-for-efficiency) (2026-02-03)
 
 </details>
 
