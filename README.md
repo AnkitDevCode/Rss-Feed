@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Nothing opens its first retail store in India](https://techcrunch.com/2026/02/13/nothing-opens-its-first-retail-store-in-india/) (2026-02-14)
+- [Indian pharmacy chain giant exposed customer data and internal systems](https://techcrunch.com/2026/02/13/indias-major-pharmacy-chain-exposed-customer-data-and-internal-systems/) (2026-02-14)
+- [Airbnb plans to bake in AI features for search, discovery and support](https://techcrunch.com/2026/02/13/airbnb-plans-to-bake-in-ai-features-for-search-discovery-and-support/) (2026-02-14)
 - [Airbnb says a third of its customer support is now handled by AI in the US and Canada](https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/) (2026-02-13)
 - [Fintech lending giant Figure confirms data breach](https://techcrunch.com/2026/02/13/fintech-lending-giant-figure-confirms-data-breach/) (2026-02-13)
-- [Why top talent is walking away from OpenAI and xAI](https://techcrunch.com/video/why-top-talent-is-walking-away-from-openai-and-xai/) (2026-02-13)
-- [Sex toys maker Tenga says hacker stole customer information](https://techcrunch.com/2026/02/13/sex-toys-maker-tenga-says-hacker-stole-customer-information/) (2026-02-13)
-- [OpenAI removes access to sycophancy-prone GPT-4o model](https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/) (2026-02-13)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [An AI Agent Published a Hit Piece on Me – More Things Have Happened](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/) (2026-02-14)
+- [Backblaze Drive Stats for 2025](https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/) (2026-02-14)
+- [Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL](https://github.com/mickamy/sql-tap) (2026-02-14)
+- [NPMX – a fast, modern browser for the NPM registry](https://npmx.dev) (2026-02-14)
+- [What dating apps are optimizing. Hint: It isn't love](https://phys.org/news/2026-02-dating-apps-optimizing-hint-isnt.html) (2026-02-14)
 - [OpenAI has deleted the word 'safely' from its mission](https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467) (2026-02-13)
-- [Show HN: Data Engineering Book – An open source, community-driven guide](https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md) (2026-02-13)
-- [The EU moves to kill infinite scrolling](https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/) (2026-02-13)
-- [The "AI agent hit piece" situation clarifies how dumb we are acting](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/) (2026-02-13)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [From Tab Chaos to Clarity: Why I Built a Chrome Extension for Jira + GitHub](https://dev.to/just_a_programmer/from-tab-chaos-to-clarity-why-i-built-a-chrome-extension-for-jira-github-1579) (2026-02-14)
-- [Real Numbers: What AI Automation Actually Costs for Small Business](https://dev.to/syntora/real-numbers-what-ai-automation-actually-costs-for-small-business-3mon) (2026-02-14)
-- [Keeping Your Secrets in Sync: Environment Lifecycle Management That Actually Works](https://dev.to/jds64/keeping-your-secrets-in-sync-environment-lifecycle-management-that-actually-works-24ga) (2026-02-14)
-- [In many startups, ethics is treated like a policy problem. That approach fails in AI. Because in AI products, ethics is not a document. It's the integral part of the product.](https://dev.to/jaideepparashar/in-many-startups-ethics-is-treated-like-a-policy-problem-that-approach-fails-in-ai-because-in-ai-2m3g) (2026-02-14)
-- [AI Ethics in Startups: Why Developers Must Lead](https://dev.to/jaideepparashar/ai-ethics-in-startups-why-developers-must-lead-57cg) (2026-02-14)
+- [Modern DevSecOps Needs More Than One Tool: A Practical Secure SDLC Strategy](https://dev.to/akdevcraft/modern-devsecops-requires-more-than-one-tool-a-practical-sdlc-security-strategy-4d74) (2026-02-14)
+- [Floating types | Kasrsonlar | C++](https://dev.to/whysoempty/floating-types-kasrsonlar-c-3jcd) (2026-02-14)
+- [Thiết kế NGFW - Throughput:  40Gbps và WAF-WAF - Throughput: 80Gbps khi bật các tính năng nâng cao dưới On-prem](https://dev.to/huydanggdg/thiet-ke-ngfw-throughput-40gbps-va-waf-waf-throughput-80gbps-khi-bat-cac-tinh-nang-nang-cao-4b4d) (2026-02-14)
+- [I Fine Tuned an Open Source Model and the Bhagavad Gita Explained It Better Than Any Paper](https://dev.to/sreeni5018/i-fine-tuned-an-open-source-model-and-the-bhagavad-gita-explained-it-better-than-any-paper-lf6) (2026-02-14)
+- [Exploring the Advanced Search Capabilities With MongoDB Atlas Search-Part 3](https://dev.to/aasawari_sahasrabuddhe_3c/exploring-the-advanced-search-capabilities-with-mongodb-atlas-search-part-3-181l) (2026-02-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I’m Missing the Art of Offline Programming](https://medium.com/lets-code-future/im-missing-the-art-of-offline-programming-d35138d035f6?source=rss------programming-5) (2026-02-14)
-- [8 Python Projects That Reignited My Love for Coding](https://blog.stackademic.com/8-python-projects-that-reignited-my-love-for-coding-fdcffbbaaae6?source=rss------programming-5) (2026-02-14)
-- [# How to Add CSV Import to React Applications in 5 Minutes with ImportKit](https://medium.com/@gissur_31386/how-to-add-csv-import-to-react-applications-in-5-minutes-with-importkit-e906d6398958?source=rss------programming-5) (2026-02-14)
-- [gRPC Services with Spring Boot and Java Clients](https://medium.com/@AlexanderObregon/grpc-services-with-spring-boot-and-java-clients-59c6dbfe34c8?source=rss------programming-5) (2026-02-14)
-- [Remove Duplicates from Sorted Array](https://medium.com/operations-research-bit/remove-duplicates-from-sorted-array-06dac46461ba?source=rss------programming-5) (2026-02-14)
+- [Why IoTDB Is Written in Java: A Decade of Engineering Trade-offs](https://medium.com/techtrends-digest/why-iotdb-is-written-in-java-a-decade-of-engineering-trade-offs-06813fedbac0?source=rss------programming-5) (2026-02-14)
+- [A gentle introduction to machine code, compilers, and LLVM](https://medium.com/@techne98/a-gentle-introduction-to-machine-code-compilers-and-llvm-4ebcde5df3a4?source=rss------programming-5) (2026-02-14)
+- [Understanding HTTP Status Codes: The Silent Language of the Web](https://aws.plainenglish.io/understanding-http-status-codes-the-silent-language-of-the-web-6f3fd29dc4a0?source=rss------programming-5) (2026-02-14)
+- [Prevent cross-site scripting (XSS) by validating/escaping user input in a React application](https://medium.com/mern-mastery/prevent-cross-site-scripting-xss-by-validating-escaping-user-input-in-a-react-application-90bc034f2c03?source=rss------programming-5) (2026-02-14)
+- [Your IDE Is Only as Smart as Its Parser. Here Is Why](https://medium.com/@maahisoft20/your-ide-is-only-as-smart-as-its-parser-here-is-why-4c562ac90fb4?source=rss------programming-5) (2026-02-14)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [The data behind the design: How Pantone built agentic AI with an AI-ready database](https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/) (2026-02-12)
 - [Agentic cloud operations: A new way to run the cloud](https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/) (2026-02-11)
 - [Can high-temperature superconductors transform the power infrastructure of datacenters?](https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/) (2026-02-10)
 - [Five Reasons to attend SQLCon](https://blog.fabric.microsoft.com/en-us/blog/32624) (2026-02-09)
 - [Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/) (2026-02-05)
+- [Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ](https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/) (2026-02-04)
 
 </details>
 
