@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Backblaze Drive Stats for 2025](https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/) (2026-02-14)
-- [Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL](https://github.com/mickamy/sql-tap) (2026-02-14)
-- [NPMX – a fast, modern browser for the NPM registry](https://npmx.dev) (2026-02-14)
-- [What dating apps are optimizing. Hint: It isn't love](https://phys.org/news/2026-02-dating-apps-optimizing-hint-isnt.html) (2026-02-14)
-- [OpenAI has deleted the word 'safely' from its mission](https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467) (2026-02-13)
+- [Ars Technica makes up quotes from Matplotlib maintainer; pulls story](https://infosec.exchange/@mttaggart/116065340523529645) (2026-02-14)
+- [YouTube as Storage](https://github.com/PulseBeat02/yt-media-storage) (2026-02-14)
+- [Zig – io_uring and Grand Central Dispatch std.Io implementations landed](https://ziglang.org/devlog/2026/#2026-02-13) (2026-02-14)
+- [Show HN: Prompt to Planet, generate procedural 3D planets from text](https://prompttoplanet.n4ze3m.com/) (2026-02-14)
+- [Cogram (YC W22) – Hiring former technical founders](https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer) (2026-02-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [DJI’s first robovac is an autonomous cleaning drone you can’t trust](https://www.theverge.com/tech/877012/dji-romo-review-robot-vacuum-drone-mop) (2026-02-14)
+- [The DJI Romo robovac had security so poor, this man remotely accessed thousands of them](https://www.theverge.com/tech/879088/dji-romo-hack-vulnerability-remote-control-camera-access-mqtt) (2026-02-14)
 - [4chan’s creator says ‘Epstein had nothing to do’ with creating infamous far-right board /pol/](https://www.theverge.com/tech/879132/moot-4chan-jeffrey-epstein-meeting-pol) (2026-02-13)
 - [The Verge’s 2026 Valentine’s Day gift guide (for him)](https://www.theverge.com/gadgets/865396/valentines-day-2026-gift-ideas-for-him-boyfriend-husband-partner) (2026-02-13)
 - [The Beats Studio Buds Plus are on sale for less than $100 for Presidents Day](https://www.theverge.com/gadgets/878951/beats-studio-buds-plus-earbuds-presidents-day-sale-deal) (2026-02-13)
-- [Steam beta lets users add their PC specs to reviews](https://www.theverge.com/games/878920/steam-reviews-pc-specs-beta) (2026-02-13)
-- [Here are the 50 best Presidents Day deals we’ve found so far](https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026) (2026-02-13)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Modern DevSecOps Needs More Than One Tool: A Practical Secure SDLC Strategy](https://dev.to/akdevcraft/modern-devsecops-requires-more-than-one-tool-a-practical-sdlc-security-strategy-4d74) (2026-02-14)
-- [Floating types | Kasrsonlar | C++](https://dev.to/whysoempty/floating-types-kasrsonlar-c-3jcd) (2026-02-14)
-- [Thiết kế NGFW - Throughput:  40Gbps và WAF-WAF - Throughput: 80Gbps khi bật các tính năng nâng cao dưới On-prem](https://dev.to/huydanggdg/thiet-ke-ngfw-throughput-40gbps-va-waf-waf-throughput-80gbps-khi-bat-cac-tinh-nang-nang-cao-4b4d) (2026-02-14)
-- [I Fine Tuned an Open Source Model and the Bhagavad Gita Explained It Better Than Any Paper](https://dev.to/sreeni5018/i-fine-tuned-an-open-source-model-and-the-bhagavad-gita-explained-it-better-than-any-paper-lf6) (2026-02-14)
-- [Exploring the Advanced Search Capabilities With MongoDB Atlas Search-Part 3](https://dev.to/aasawari_sahasrabuddhe_3c/exploring-the-advanced-search-capabilities-with-mongodb-atlas-search-part-3-181l) (2026-02-14)
+- [I built an idea-to-repo CLI with Github copilot](https://dev.to/devmahn/i-built-an-idea-to-repo-cli-with-github-copilot-hfb) (2026-02-14)
+- [Fundamental matters more in AI era](https://dev.to/kination/fundamental-matters-more-in-ai-era-4nkf) (2026-02-14)
+- [Self-Hosted Docker Registry on Your Own SFTP: Introducing Refity](https://dev.to/troke12/self-hosted-docker-registry-on-your-own-sftp-introducing-refity-5ce5) (2026-02-14)
+- [Converting Large JSON, NDJSON, CSV and XML Files without Blowing Up Memory](https://dev.to/bruno_hanss_6b82bb52cd0fa/converting-large-json-ndjson-csv-and-xml-files-without-blowing-up-memory-20ao) (2026-02-14)
+- [How We Run Lighthouse from 18 Regions in Under 2 Minutes](https://dev.to/ahojmetrics/how-we-run-lighthouse-from-18-regions-in-under-2-minutes-pd7) (2026-02-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why IoTDB Is Written in Java: A Decade of Engineering Trade-offs](https://medium.com/techtrends-digest/why-iotdb-is-written-in-java-a-decade-of-engineering-trade-offs-06813fedbac0?source=rss------programming-5) (2026-02-14)
-- [A gentle introduction to machine code, compilers, and LLVM](https://medium.com/@techne98/a-gentle-introduction-to-machine-code-compilers-and-llvm-4ebcde5df3a4?source=rss------programming-5) (2026-02-14)
-- [Understanding HTTP Status Codes: The Silent Language of the Web](https://aws.plainenglish.io/understanding-http-status-codes-the-silent-language-of-the-web-6f3fd29dc4a0?source=rss------programming-5) (2026-02-14)
-- [Prevent cross-site scripting (XSS) by validating/escaping user input in a React application](https://medium.com/mern-mastery/prevent-cross-site-scripting-xss-by-validating-escaping-user-input-in-a-react-application-90bc034f2c03?source=rss------programming-5) (2026-02-14)
-- [Your IDE Is Only as Smart as Its Parser. Here Is Why](https://medium.com/@maahisoft20/your-ide-is-only-as-smart-as-its-parser-here-is-why-4c562ac90fb4?source=rss------programming-5) (2026-02-14)
+- [Lists vs Tuples in Python: When Should You Use Which?](https://medium.com/@ranadeepkooragayala/lists-vs-tuples-in-python-when-should-you-use-which-2f5f5ad98e1b?source=rss------programming-5) (2026-02-14)
+- [Building a Mini Student Management System Using Lists and Dictionaries](https://medium.com/@nandishgs0009/building-a-mini-student-management-system-using-lists-and-dictionaries-479b7af92141?source=rss------programming-5) (2026-02-14)
+- [Building a Mini Student Management System Using Lists and Dictionaries in Python](https://medium.com/@deekshakulal027/building-a-mini-student-management-system-using-lists-and-dictionaries-in-python-839dcd97104d?source=rss------programming-5) (2026-02-14)
+- [Python Dictionaries Explained with Real-Life Use Cases.](https://medium.com/@gokarnavaishnavi/python-dictionaries-explained-with-real-life-use-cases-f23b77d92320?source=rss------programming-5) (2026-02-14)
+- [Go’s Concurrency in C++: A Deep Dive on Building a High-Efficiency Fiber Scheduler](https://medium.com/@monikasinghal713/gos-concurrency-in-c-a-deep-dive-on-building-a-high-efficiency-fiber-scheduler-58b407f6f3f1?source=rss------programming-5) (2026-02-14)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Agentic cloud operations: A new way to run the cloud](https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/) (2026-02-11)
-- [Can high-temperature superconductors transform the power infrastructure of datacenters?](https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/) (2026-02-10)
 - [Five Reasons to attend SQLCon](https://blog.fabric.microsoft.com/en-us/blog/32624) (2026-02-09)
 - [Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/) (2026-02-05)
 - [Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ](https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/) (2026-02-04)
+- [PostgreSQL on Azure supercharged for AI](https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/) (2026-02-02)
+- [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
 
 </details>
 
@@ -505,11 +505,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/sending-rcs-cards
 <details>
 <summary>💬 Slack API</summary>
 
+- [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-02-13)
+- [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-02-13)
+- [How to Stay Organized at Work: Tips, Tricks, and Tools](https://slack.com/blog/productivity/how-to-stay-organized-at-work) (2026-02-13)
+- [Why We’ve Built the Future of CRM in Slack](https://slack.com/blog/transformation/ai-powered-conversational-crm) (2026-02-12)
 - [Work Faster and Smarter With AI Agents in Slack for Every Line of Business](https://slack.com/blog/productivity/slack-ai-agents-for-every-line-of-business) (2026-02-11)
-- [How Effective Project Status Updates and Tracking Transform Team Productivity](https://slack.com/blog/collaboration/top-methods-and-metrics-for-tracking-project-progress) (2026-02-09)
-- [A Guide to Migrating From Microsoft Teams to Slack](https://slack.com/blog/transformation/teams-to-slack-migration) (2026-02-06)
-- [How We Rebuilt Slackbot](https://slack.com/blog/productivity/how-we-rebuilt-slackbot) (2026-02-06)
-- [How to Implement Agile: Steps, Frameworks, and Best Practices](https://slack.com/blog/productivity/agile-principles) (2026-02-03)
 
 </details>
 
@@ -571,11 +571,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/sending-rcs-cards
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Your First 90 Days as a Data Scientist](https://towardsdatascience.com/your-first-90-days-as-a-data-scientist/) (2026-02-14)
 - [The Evolving Role of the ML Engineer](https://towardsdatascience.com/the-evolving-role-of-the-ml-engineer/) (2026-02-13)
 - [AI in Multiple GPUs: Point-to-Point and Collective Operations](https://towardsdatascience.com/point-to-point-and-collective-operations/) (2026-02-13)
 - [How to Leverage Explainable AI for Better Business Decisions](https://towardsdatascience.com/how-to-leverage-explainable-ai-for-better-business-decisions/) (2026-02-12)
 - [AI in Multiple GPUs: Understanding the Host and Device Paradigm](https://towardsdatascience.com/understanding-the-host-and-device-paradigm/) (2026-02-12)
-- [Building an AI Agent to Detect and Handle Anomalies in Time-Series Data](https://towardsdatascience.com/building-an-ai-agent-to-detect-and-handle-anomalies-in-time-series-data/) (2026-02-11)
 
 </details>
 
