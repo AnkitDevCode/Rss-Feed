@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The great computer science exodus (and where students are going instead)](https://techcrunch.com/2026/02/15/the-great-computer-science-exodus-and-where-students-are-going-instead/) (2026-02-15)
 - [Homeland Security reportedly sent hundreds of subpoenas seeking to unmask anti-ICE accounts](https://techcrunch.com/2026/02/14/homeland-security-reportedly-sent-hundreds-of-subpoenas-seeking-to-unmask-anti-ice-accounts/) (2026-02-14)
 - [Is safety ‘dead’ at xAI?](https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/) (2026-02-14)
 - [In a changed VC landscape, this exec is doubling down on overlooked founders](https://techcrunch.com/2026/02/14/stacy-brown-philpot-cherryrock-capital-vc/) (2026-02-14)
 - [‘Clueless’ -inspired app Alta partners with brand Public School to start integrating styling tools into websites](https://techcrunch.com/2026/02/14/clueless-inspired-app-alta-partners-with-brand-public-school-to-start-integrating-styling-tools-into-websites/) (2026-02-14)
-- [Hollywood isn’t happy about the new Seedance 2.0 video generator](https://techcrunch.com/2026/02/14/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/) (2026-02-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [I gave my AI drugs](https://github.com/nich2533/just_say_no) (2026-02-15)
-- [Linear Representations and Superposition](http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html) (2026-02-15)
-- [Guitars of the USSR and the Jolana Special in Azerbaijani Music](https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/) (2026-02-15)
-- [NewPipe: YouTube client without vertical videos and algorithmic feed](https://newpipe.net/) (2026-02-15)
-- [I love the work of the ArchWiki maintainers](https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/) (2026-02-15)
+- [Two different tricks for fast LLM inference](https://www.seangoedecke.com/fast-llm-inference/) (2026-02-15)
+- [Seeing Theory](https://seeing-theory.brown.edu/) (2026-02-15)
+- [Discord Distances Itself from Peter Thiel's Palantir Age Verification Firm](https://kotaku.com/discord-palantir-peter-thiel-persona-age-verification-2000668951) (2026-02-15)
+- [Flashpoint Archive – Over 200k web games and animations preserved](https://flashpointarchive.org) (2026-02-15)
+- [Guitars of the USSR and the Jolana Special in Azerbaijani Music (2012)](https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/) (2026-02-15)
 
 </details>
 
@@ -97,28 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I built Spotify Wrapped for Git using GitHub Copilot CLI](https://dev.to/stackmasteraliza/i-built-spotify-wrapped-for-git-using-github-copilot-cli-10lj) (2026-02-15)
-- [Stop Writing "Clean" Code. Start Writing Readable Code](https://dev.to/oyminirole/stop-writing-clean-code-start-writing-readable-code-544h) (2026-02-15)
-- [🌀 Prewind](https://dev.to/art70x/prewind-53ml) (2026-02-15)
-- [The Symbol for All of Us is Null](https://dev.to/goodrelax/the-symbol-for-all-of-us-is-null-59kn) (2026-02-15)
-- [👋 Hello Devs!
-I’m a passionate learner exploring software development and modern technologies.
-Here to learn, share, and grow with this amazing dev community.
-
-Let’s connect and build together 💻✨
-
-#DevCommunity #LearningInPublic #CodeLife](https://dev.to/koustav_sadhu_34703ee00bd/hello-devs-im-a-passionate-learner-exploring-software-development-and-modern-technologies-here-38j9) (2026-02-15)
+- [Preventing Architectural Drift in Object-Oriented Systems — A Structural Approach with Clprolf](https://dev.to/charles_koffler_bcabc582b/preventing-architectural-drift-in-object-oriented-systems-a-structural-approach-with-clprolf-360h) (2026-02-15)
+- [智能体实时状态更新 - 手动发布测试](https://dev.to/chx381/zhi-neng-ti-shi-shi-zhuang-tai-geng-xin-shou-dong-fa-bu-ce-shi-5d25) (2026-02-15)
+- [From Idea to Maintainable UI: A Practical React/TS Sprint Workflow](https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak) (2026-02-15)
+- [Call by sharing: Understanding why JavaScript does NOT pass objects By Reference](https://dev.to/della_codes/call-by-sharing-understanding-why-javascript-does-not-pass-objects-by-reference-1npk) (2026-02-15)
+- [Aurora OS.js : I built a web-tech OS. It’s kinda an OS. Fine... it’s a hacking game.](https://dev.to/mental05/aurora-osjs-i-built-a-web-tech-os-its-kinda-an-os-fine-its-a-hacking-game-4352) (2026-02-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Journey of a Web Request in AWS Architecture](https://medium.com/@pranavsb699/journey-of-a-web-request-in-aws-architecture-9451f3297e7d?source=rss------programming-5) (2026-02-15)
-- [How Cricket Live Line APIs Handle Ball-by-Ball Updates](https://medium.com/@betprocoders/how-cricket-live-line-apis-handle-ball-by-ball-updates-50304bd65cba?source=rss------programming-5) (2026-02-15)
-- [10 C++ Mistakes That Secretly Kill Your Performance (I Was Guilty of #4 for Years)](https://blog.stackademic.com/10-c-mistakes-that-secretly-kill-your-performance-i-was-guilty-of-4-for-years-9b4a6c5bf425?source=rss------programming-5) (2026-02-15)
-- [Node.js Under the Hood: The 7 Hidden Mechanics Behind the Event Loop That 90% of Developers…](https://javascript.plainenglish.io/node-js-under-the-hood-the-7-hidden-mechanics-behind-the-event-loop-that-90-of-developers-eac0deb9bd5c?source=rss------programming-5) (2026-02-15)
-- [ Choosing the Right Python Data Structure: A Practical Decision Guide for Beginners](https://medium.com/@sruthilakhotia/choosing-the-right-python-data-structure-a-practical-decision-guide-for-beginners-fe8dbf8f3fc5?source=rss------programming-5) (2026-02-15)
+- [Building a Multi-Agent Workflow for Vendor Management with Qdrant](https://pub.towardsai.net/building-a-multi-agent-workflow-for-vendor-management-with-qdrant-72e724c519b1?source=rss------programming-5) (2026-02-15)
+- [Choosing the Right Python Data Structure: A Beginner’s Decision Guide](https://medium.com/@rishabhrthakku/choosing-the-right-python-data-structure-a-beginners-decision-guide-fd64a8375859?source=rss------programming-5) (2026-02-15)
+- [ I Realized I Was Learning Coding the Wrong Way](https://medium.com/@rakshitha55ramesh/i-realized-i-was-learning-coding-the-wrong-way-48dc9ad64de5?source=rss------programming-5) (2026-02-15)
+- [Leveling Up My CSS Skills: Building a 3D Pokémon Card Interaction (Day 15)](https://medium.com/@vishal230396/leveling-up-my-css-skills-building-a-3d-pok%C3%A9mon-card-interaction-day-15-c17adc25e40b?source=rss------programming-5) (2026-02-15)
+- [Python Dictionaries Explained with Real-Life Use Cases (Phone Book, Student Records)](https://medium.com/@pranaypilli18/python-dictionaries-explained-with-real-life-use-cases-phone-book-student-records-047642946f93?source=rss------programming-5) (2026-02-15)
 
 </details>
 
@@ -136,11 +130,11 @@ Let’s connect and build together 💻✨
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Agentic cloud operations: A new way to run the cloud](https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/) (2026-02-11)
 - [Can high-temperature superconductors transform the power infrastructure of datacenters?](https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/) (2026-02-10)
 - [Five Reasons to attend SQLCon](https://blog.fabric.microsoft.com/en-us/blog/32624) (2026-02-09)
 - [Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/) (2026-02-05)
 - [Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ](https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/) (2026-02-04)
+- [PostgreSQL on Azure supercharged for AI](https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/) (2026-02-02)
 
 </details>
 
@@ -511,11 +505,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/sending-rcs-cards
 <details>
 <summary>💬 Slack API</summary>
 
-- [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-02-13)
 - [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-02-13)
 - [How to Stay Organized at Work: Tips, Tricks, and Tools](https://slack.com/blog/productivity/how-to-stay-organized-at-work) (2026-02-13)
 - [Why We’ve Built the Future of CRM in Slack](https://slack.com/blog/transformation/ai-powered-conversational-crm) (2026-02-12)
 - [Work Faster and Smarter With AI Agents in Slack for Every Line of Business](https://slack.com/blog/productivity/slack-ai-agents-for-every-line-of-business) (2026-02-11)
+- [How Effective Project Status Updates and Tracking Transform Team Productivity](https://slack.com/blog/collaboration/top-methods-and-metrics-for-tracking-project-progress) (2026-02-09)
 
 </details>
 
@@ -577,22 +571,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/sending-rcs-cards
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [A beginner’s guide to Tmux: a multitasking superpower for your terminal](https://towardsdatascience.com/a-beginners-guide-to-tmux-a-multitasking-superpower-for-your-terminal/) (2026-02-15)
 - [Your First 90 Days as a Data Scientist](https://towardsdatascience.com/your-first-90-days-as-a-data-scientist/) (2026-02-14)
 - [The Evolving Role of the ML Engineer](https://towardsdatascience.com/the-evolving-role-of-the-ml-engineer/) (2026-02-13)
 - [AI in Multiple GPUs: Point-to-Point and Collective Operations](https://towardsdatascience.com/point-to-point-and-collective-operations/) (2026-02-13)
 - [How to Leverage Explainable AI for Better Business Decisions](https://towardsdatascience.com/how-to-leverage-explainable-ai-for-better-business-decisions/) (2026-02-12)
-- [AI in Multiple GPUs: Understanding the Host and Device Paradigm](https://towardsdatascience.com/understanding-the-host-and-device-paradigm/) (2026-02-12)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [PyCaret Tutorial: Beginner’s Guide to Automating ML Workflows](https://www.analyticsvidhya.com/blog/2026/02/pycaret-guide/) (2026-02-15)
+- [Build a Powerful AI Research Pipeline with LM Studio and NotebookLM](https://www.analyticsvidhya.com/blog/2026/02/notebooklm-and-lm-studio-ai-research-pipeline/) (2026-02-15)
 - [What is Elasticsearch?](https://www.analyticsvidhya.com/blog/2026/02/what-is-elasticsearch/) (2026-02-14)
 - [I Built a Smart Movie Recommender with Collaborative Filtering](https://www.analyticsvidhya.com/blog/2026/02/collaborative-filtering-recommendation-system/) (2026-02-14)
 - [What is Prompt Chaining?](https://www.analyticsvidhya.com/blog/2026/02/what-is-prompt-chaining/) (2026-02-13)
-- [I Built an AI Agent that Predicts Match Winners in the ICC Men’s T20 World Cup 2026](https://www.analyticsvidhya.com/blog/2026/02/ai-agent-cricket-prediction/) (2026-02-13)
-- [Guide to Build a Data Analysis & Visualization Agent Using Swarm Architecture ](https://www.analyticsvidhya.com/blog/2026/02/data-analyst-visualization-agent-using-swarm-architecture/) (2026-02-12)
 
 </details>
 
