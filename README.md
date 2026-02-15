@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [I gave my AI drugs](https://github.com/nich2533/just_say_no) (2026-02-15)
+- [Linear Representations and Superposition](http://ternarysearch.blogspot.com/2026/02/linear-representations-and-superposition.html) (2026-02-15)
+- [Guitars of the USSR and the Jolana Special in Azerbaijani Music](https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/) (2026-02-15)
 - [NewPipe: YouTube client without vertical videos and algorithmic feed](https://newpipe.net/) (2026-02-15)
-- [Show HN: Off Grid – Run AI text, image gen, vision offline on your phone](https://github.com/alichherawalla/off-grid-mobile) (2026-02-14)
-- [Colored Petri Nets, LLMs, and distributed applications](https://blog.sao.dev/cpns-llms-distributed-apps/) (2026-02-14)
-- [Descent, ported to the web](https://mrdoob.github.io/three-descent/) (2026-02-14)
-- [News publishers limit Internet Archive access due to AI scraping concerns](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/) (2026-02-14)
+- [I love the work of the ArchWiki maintainers](https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/) (2026-02-15)
 
 </details>
 
@@ -97,22 +97,28 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [A weekly review next-week plan micro-service (consumer AI that ships outcomes)](https://dev.to/zy_j_bc7535dad2d7952ef5e1/a-weekly-review-next-week-plan-micro-service-consumer-ai-that-ships-outcomes-3f6a) (2026-02-15)
-- [Fazendo um LLM do Zero — Sessão 08: O Fim do Começo (Por que agora tudo faz sentido?) 🚀🧠](https://dev.to/vongrossi/fazendo-um-llm-do-zero-sessao-08-o-fim-do-comeco-por-que-agora-tudo-faz-sentido-5f7p) (2026-02-15)
-- [Fazendo um LLM do Zero — Sessão 07: De Gerador de Texto a Assistente (Instruction Tuning) 💬🤝](https://dev.to/vongrossi/fazendo-um-llm-do-zero-sessao-07-de-gerador-de-texto-a-assistente-instruction-tuning-26cg) (2026-02-15)
-- [Building a Revision Tracker with GitHub Copilot CLI](https://dev.to/sussy_baka_753b5f03e2c0c9/building-a-revision-tracker-with-github-copilot-cli-3jg9) (2026-02-15)
-- [Made-in-China.com vs DHgate vs Yiwugo: Which Platform to Scrape for Wholesale Product Data](https://dev.to/wfgsss/made-in-chinacom-vs-dhgate-vs-yiwugo-which-platform-to-scrape-for-wholesale-product-data-42d9) (2026-02-15)
+- [I built Spotify Wrapped for Git using GitHub Copilot CLI](https://dev.to/stackmasteraliza/i-built-spotify-wrapped-for-git-using-github-copilot-cli-10lj) (2026-02-15)
+- [Stop Writing "Clean" Code. Start Writing Readable Code](https://dev.to/oyminirole/stop-writing-clean-code-start-writing-readable-code-544h) (2026-02-15)
+- [🌀 Prewind](https://dev.to/art70x/prewind-53ml) (2026-02-15)
+- [The Symbol for All of Us is Null](https://dev.to/goodrelax/the-symbol-for-all-of-us-is-null-59kn) (2026-02-15)
+- [👋 Hello Devs!
+I’m a passionate learner exploring software development and modern technologies.
+Here to learn, share, and grow with this amazing dev community.
+
+Let’s connect and build together 💻✨
+
+#DevCommunity #LearningInPublic #CodeLife](https://dev.to/koustav_sadhu_34703ee00bd/hello-devs-im-a-passionate-learner-exploring-software-development-and-modern-technologies-here-38j9) (2026-02-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why Apple Is Secretly Betting Against Native iOS Development](https://medium.com/@mrhotfix/why-apple-is-secretly-betting-against-native-ios-development-c67cb34e7a0c?source=rss------programming-5) (2026-02-15)
-- [From Python to AI: Understanding PyTorch the Simple Way](https://medium.com/@ajujohn2009/from-python-to-ai-understanding-pytorch-the-simple-way-e4bdad61eadb?source=rss------programming-5) (2026-02-15)
-- [From Reactive to Proactive: The AI Opportunity in Supply Chain Management](https://medium.com/@maheshwari1441/from-reactive-to-proactive-the-ai-opportunity-in-supply-chain-management-b437676b8806?source=rss------programming-5) (2026-02-15)
-- [Code is Verifiable, but the Software we Want is Not](https://medium.com/@jaredhatfield/code-is-verifiable-but-the-software-we-want-is-not-0dcf547260fa?source=rss------programming-5) (2026-02-15)
-- [Before the Code Begins](https://medium.com/@jithmiwickramasinghe4/before-the-code-begins-10759613f4bf?source=rss------programming-5) (2026-02-15)
+- [Journey of a Web Request in AWS Architecture](https://medium.com/@pranavsb699/journey-of-a-web-request-in-aws-architecture-9451f3297e7d?source=rss------programming-5) (2026-02-15)
+- [How Cricket Live Line APIs Handle Ball-by-Ball Updates](https://medium.com/@betprocoders/how-cricket-live-line-apis-handle-ball-by-ball-updates-50304bd65cba?source=rss------programming-5) (2026-02-15)
+- [10 C++ Mistakes That Secretly Kill Your Performance (I Was Guilty of #4 for Years)](https://blog.stackademic.com/10-c-mistakes-that-secretly-kill-your-performance-i-was-guilty-of-4-for-years-9b4a6c5bf425?source=rss------programming-5) (2026-02-15)
+- [Node.js Under the Hood: The 7 Hidden Mechanics Behind the Event Loop That 90% of Developers…](https://javascript.plainenglish.io/node-js-under-the-hood-the-7-hidden-mechanics-behind-the-event-loop-that-90-of-developers-eac0deb9bd5c?source=rss------programming-5) (2026-02-15)
+- [ Choosing the Right Python Data Structure: A Practical Decision Guide for Beginners](https://medium.com/@sruthilakhotia/choosing-the-right-python-data-structure-a-practical-decision-guide-for-beginners-fe8dbf8f3fc5?source=rss------programming-5) (2026-02-15)
 
 </details>
 
@@ -130,11 +136,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Agentic cloud operations: A new way to run the cloud](https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/) (2026-02-11)
+- [Can high-temperature superconductors transform the power infrastructure of datacenters?](https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/) (2026-02-10)
 - [Five Reasons to attend SQLCon](https://blog.fabric.microsoft.com/en-us/blog/32624) (2026-02-09)
 - [Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/) (2026-02-05)
 - [Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ](https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/) (2026-02-04)
-- [PostgreSQL on Azure supercharged for AI](https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/) (2026-02-02)
-- [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
 
 </details>
 
@@ -505,11 +511,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/sending-rcs-cards
 <details>
 <summary>💬 Slack API</summary>
 
+- [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-02-13)
+- [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-02-13)
+- [How to Stay Organized at Work: Tips, Tricks, and Tools](https://slack.com/blog/productivity/how-to-stay-organized-at-work) (2026-02-13)
+- [Why We’ve Built the Future of CRM in Slack](https://slack.com/blog/transformation/ai-powered-conversational-crm) (2026-02-12)
 - [Work Faster and Smarter With AI Agents in Slack for Every Line of Business](https://slack.com/blog/productivity/slack-ai-agents-for-every-line-of-business) (2026-02-11)
-- [How Effective Project Status Updates and Tracking Transform Team Productivity](https://slack.com/blog/collaboration/top-methods-and-metrics-for-tracking-project-progress) (2026-02-09)
-- [A Guide to Migrating From Microsoft Teams to Slack](https://slack.com/blog/transformation/teams-to-slack-migration) (2026-02-06)
-- [How We Rebuilt Slackbot](https://slack.com/blog/productivity/how-we-rebuilt-slackbot) (2026-02-06)
-- [How to Implement Agile: Steps, Frameworks, and Best Practices](https://slack.com/blog/productivity/agile-principles) (2026-02-03)
 
 </details>
 
