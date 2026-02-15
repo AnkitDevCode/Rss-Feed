@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [The great computer science exodus (and where students are going instead)](https://techcrunch.com/2026/02/15/the-great-computer-science-exodus-and-where-students-are-going-instead/) (2026-02-15)
-- [Homeland Security reportedly sent hundreds of subpoenas seeking to unmask anti-ICE accounts](https://techcrunch.com/2026/02/14/homeland-security-reportedly-sent-hundreds-of-subpoenas-seeking-to-unmask-anti-ice-accounts/) (2026-02-14)
-- [Is safety ‘dead’ at xAI?](https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/) (2026-02-14)
-- [In a changed VC landscape, this exec is doubling down on overlooked founders](https://techcrunch.com/2026/02/14/stacy-brown-philpot-cherryrock-capital-vc/) (2026-02-14)
-- [‘Clueless’ -inspired app Alta partners with brand Public School to start integrating styling tools into websites](https://techcrunch.com/2026/02/14/clueless-inspired-app-alta-partners-with-brand-public-school-to-start-integrating-styling-tools-into-websites/) (2026-02-14)
+- [India has 100M weekly active ChatGPT users, Sam Altman says](https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/) (2026-02-15)
+- [The enterprise AI land grab is on. Glean is building the layer beneath the interface.](https://techcrunch.com/2026/02/15/the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface/) (2026-02-15)
+- [TechCrunch Mobility: Rivian’s savior](https://techcrunch.com/2026/02/15/techcrunch-mobility-rivians-savior/) (2026-02-15)
+- [What the Epstein files reveal about EV startups and Silicon Valley](https://techcrunch.com/2026/02/15/what-the-epstein-files-reveal-about-ev-startups-and-silicon-valley/) (2026-02-15)
+- [How to get into a16z’s super-competitive Speedrun startup accelerator program](https://techcrunch.com/2026/02/15/how-to-get-into-a16zs-super-competitive-speedrun-startup-accelerator-program/) (2026-02-15)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Two different tricks for fast LLM inference](https://www.seangoedecke.com/fast-llm-inference/) (2026-02-15)
-- [Seeing Theory](https://seeing-theory.brown.edu/) (2026-02-15)
-- [Discord Distances Itself from Peter Thiel's Palantir Age Verification Firm](https://kotaku.com/discord-palantir-peter-thiel-persona-age-verification-2000668951) (2026-02-15)
-- [Flashpoint Archive – Over 200k web games and animations preserved](https://flashpointarchive.org) (2026-02-15)
-- [Guitars of the USSR and the Jolana Special in Azerbaijani Music (2012)](https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/) (2026-02-15)
+- [Palantir Gets Millions of Dollars from New York City's Public Hospitals](https://theintercept.com/2026/02/15/palantir-contract-new-york-city-health-hospitals/) (2026-02-15)
+- [LT6502: A 6502-based homebrew laptop](https://github.com/TechPaula/LT6502) (2026-02-15)
+- [EU bans the destruction of unsold apparel, clothing, accessories and footwear](https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en) (2026-02-15)
+- [Palantir vs. the "Republik": US analytics firm takes magazine to court](https://www.heise.de/en/news/Palantir-vs-the-Republik-US-analytics-firm-takes-magazine-to-court-11176508.html) (2026-02-15)
+- [Hideki Sato, designer of all Sega's consoles, has died](https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/) (2026-02-15)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Jikipedia turns Epstein’s emails into an encyclopedia of his powerful friends](https://www.theverge.com/policy/879508/jikipedia-epstein-email-encyclopedia) (2026-02-14)
-- [iBuyPower’s gaming desktops are discounted for Presidents Day](https://www.theverge.com/gadgets/878927/ibuypower-gaming-desktop-pc-presidents-day-sale-deal) (2026-02-14)
-- [Georgia Tech announced the finalists in its wild musical instrument competition](https://www.theverge.com/entertainment/879482/georgia-techs-musical-instrument-competition-fiddle-henge) (2026-02-14)
-- [The Pocket Taco is the best way to turn your phone into a Game Boy](https://www.theverge.com/tech/877491/gamesir-pocket-taco-wireless-bluetooth-controller-clamp-hands-on) (2026-02-14)
-- [A powerful tool of resistance is already in your hands](https://www.theverge.com/policy/879273/alex-pretti-ice-cbp-trump-free-speech) (2026-02-14)
+- [You need to watch the intensely surreal cult classic Possession](https://www.theverge.com/entertainment/879602/cult-classic-possession-1981-review-isabelle-adjani) (2026-02-15)
+- [Here are the 55 best Presidents Day deals we’ve found so far](https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026) (2026-02-15)
+- [I hate my AI pet with every fiber of my being](https://www.theverge.com/gadgets/877858/life-with-casio-moflin-robot-ai-pet) (2026-02-15)
+- [Logitech’s new Superstrike is a faster, more customizable gaming mouse](https://www.theverge.com/tech/879221/logitech-gpro-x2-superstrike-gaming-mouse-pc-hands-on) (2026-02-15)
+- [Apple’s first-gen AirTags are still worth buying now that they’re $16 apiece](https://www.theverge.com/gadgets/879325/apple-airtag-1st-generation-presidents-day-sale-deal) (2026-02-15)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- ["It ain't no unicorn": These researchers have interviewed 130 Bigfoot hunters](https://arstechnica.com/science/2026/02/it-aint-no-unicorn-these-researchers-have-interviewed-130-bigfoot-hunters/) (2026-02-15)
 - [NASA has a new problem to fix before the next Artemis II countdown test](https://arstechnica.com/space/2026/02/nasa-chief-vows-to-solve-sls-rocket-fueling-issues-before-artemis-iii/) (2026-02-14)
 - [A Valentine's Day homage to Crouching Tiger, Hidden Dragon](https://arstechnica.com/culture/2026/02/a-valentines-day-homage-to-crouching-tiger-hidden-dragon/) (2026-02-14)
 - [Astronomers are filling in the blanks of the Kuiper Belt](https://arstechnica.com/science/2026/02/astronomers-are-filling-in-the-blanks-of-the-kuiper-belt/) (2026-02-14)
 - [WHO slams US-funded newborn vaccine trial as "unethical"](https://arstechnica.com/health/2026/02/who-slams-us-funded-newborn-vaccine-trial-as-unethical/) (2026-02-13)
-- [Aided by AI, California beach town broadens hunt for bike lane blockers](https://arstechnica.com/tech-policy/2026/02/santa-monica-deploys-ai-powered-parking-cameras-to-protect-bike-lanes/) (2026-02-13)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Preventing Architectural Drift in Object-Oriented Systems — A Structural Approach with Clprolf](https://dev.to/charles_koffler_bcabc582b/preventing-architectural-drift-in-object-oriented-systems-a-structural-approach-with-clprolf-360h) (2026-02-15)
-- [智能体实时状态更新 - 手动发布测试](https://dev.to/chx381/zhi-neng-ti-shi-shi-zhuang-tai-geng-xin-shou-dong-fa-bu-ce-shi-5d25) (2026-02-15)
-- [From Idea to Maintainable UI: A Practical React/TS Sprint Workflow](https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak) (2026-02-15)
-- [Call by sharing: Understanding why JavaScript does NOT pass objects By Reference](https://dev.to/della_codes/call-by-sharing-understanding-why-javascript-does-not-pass-objects-by-reference-1npk) (2026-02-15)
-- [Aurora OS.js : I built a web-tech OS. It’s kinda an OS. Fine... it’s a hacking game.](https://dev.to/mental05/aurora-osjs-i-built-a-web-tech-os-its-kinda-an-os-fine-its-a-hacking-game-4352) (2026-02-15)
+- [I got tired of reading AI-generated Markdown in VS Code, so I built a dedicated reader](https://dev.to/ss_mworks/i-got-tired-of-reading-ai-generated-markdown-in-vs-code-so-i-built-a-dedicated-reader-4288) (2026-02-15)
+- [The Codex App: A New Era in Autonomous AI Coding](https://dev.to/alifar/openai-codex-app-are-we-entering-the-era-of-autonomous-software-development-3kho) (2026-02-15)
+- [How to design a Simple URL Shortener(TinyURL)](https://dev.to/ganesh_parella/how-to-design-a-simple-url-shortenertinyurl-3n2m) (2026-02-15)
+- [KAIzen — What Agile Needs for the AI Era](https://dev.to/agenticaiengineer/kaizen-what-agile-needs-for-the-ai-era-12cc) (2026-02-15)
+- [Adobe Animate Is on Life Support. Where Do Web Animations Go Now?](https://dev.to/imsemicolin/adobe-animate-is-dead-where-do-web-animations-go-now-1jhe) (2026-02-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Building a Multi-Agent Workflow for Vendor Management with Qdrant](https://pub.towardsai.net/building-a-multi-agent-workflow-for-vendor-management-with-qdrant-72e724c519b1?source=rss------programming-5) (2026-02-15)
-- [Choosing the Right Python Data Structure: A Beginner’s Decision Guide](https://medium.com/@rishabhrthakku/choosing-the-right-python-data-structure-a-beginners-decision-guide-fd64a8375859?source=rss------programming-5) (2026-02-15)
-- [ I Realized I Was Learning Coding the Wrong Way](https://medium.com/@rakshitha55ramesh/i-realized-i-was-learning-coding-the-wrong-way-48dc9ad64de5?source=rss------programming-5) (2026-02-15)
-- [Leveling Up My CSS Skills: Building a 3D Pokémon Card Interaction (Day 15)](https://medium.com/@vishal230396/leveling-up-my-css-skills-building-a-3d-pok%C3%A9mon-card-interaction-day-15-c17adc25e40b?source=rss------programming-5) (2026-02-15)
-- [Python Dictionaries Explained with Real-Life Use Cases (Phone Book, Student Records)](https://medium.com/@pranaypilli18/python-dictionaries-explained-with-real-life-use-cases-phone-book-student-records-047642946f93?source=rss------programming-5) (2026-02-15)
+- [Python Dictionaries Explained with Real-Life Use Cases (Phone Book & Student Records)](https://medium.com/@ummekulsum0069/python-dictionaries-explained-with-real-life-use-cases-phone-book-student-records-1a82193ab515?source=rss------programming-5) (2026-02-15)
+- [Launching an AI SaaS in 2026? Do Not Start From Scratch.](https://medium.com/write-a-catalyst/launching-an-ai-saas-in-2026-do-not-start-from-scratch-04c0f17264aa?source=rss------programming-5) (2026-02-15)
+- [Sets in Python: How They Help Remove Duplicates and Improve Performance](https://medium.com/@ajithvenkat456/sets-in-python-how-they-help-remove-duplicates-and-improve-performance-24bc82b66e30?source=rss------programming-5) (2026-02-15)
+- [Collection of 8 Amazing Python Automation Scripts](https://medium.com/write-a-catalyst/collection-of-8-amazing-python-automation-scripts-6aadb1ecf5c2?source=rss------programming-5) (2026-02-15)
+- [The Fastest Way to Ship a Mobile App in 2026](https://medium.com/write-a-catalyst/the-fastest-way-to-ship-a-mobile-app-in-2026-ad24f11a8545?source=rss------programming-5) (2026-02-15)
 
 </details>
 
@@ -124,17 +124,6 @@
 - [AWS IAM Identity Center now supports multi-Region replication for AWS account access and application use](https://aws.amazon.com/blogs/aws/aws-iam-identity-center-now-supports-multi-region-replication-for-aws-account-access-and-application-use/) (2026-02-03)
 - [AWS Weekly Roundup: Amazon Bedrock agent workflows, Amazon SageMaker private connectivity, and more (February 2, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-agent-workflows-amazon-sagemaker-private-connectivity-and-more-february-2-2026/) (2026-02-02)
 - [AWS Weekly Roundup: Amazon EC2 G7e instances, Amazon Corretto updates, and more (January 26, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-g7e-instances-with-nvidia-blackwell-gpus-january-26-2026/) (2026-01-26)
-
-</details>
-
-<details>
-<summary>🔵 Azure Blog</summary>
-
-- [Can high-temperature superconductors transform the power infrastructure of datacenters?](https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/) (2026-02-10)
-- [Five Reasons to attend SQLCon](https://blog.fabric.microsoft.com/en-us/blog/32624) (2026-02-09)
-- [Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/) (2026-02-05)
-- [Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ](https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/) (2026-02-04)
-- [PostgreSQL on Azure supercharged for AI](https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/) (2026-02-02)
 
 </details>
 
@@ -505,11 +494,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/sending-rcs-cards
 <details>
 <summary>💬 Slack API</summary>
 
-- [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-02-13)
-- [How to Stay Organized at Work: Tips, Tricks, and Tools](https://slack.com/blog/productivity/how-to-stay-organized-at-work) (2026-02-13)
-- [Why We’ve Built the Future of CRM in Slack](https://slack.com/blog/transformation/ai-powered-conversational-crm) (2026-02-12)
 - [Work Faster and Smarter With AI Agents in Slack for Every Line of Business](https://slack.com/blog/productivity/slack-ai-agents-for-every-line-of-business) (2026-02-11)
 - [How Effective Project Status Updates and Tracking Transform Team Productivity](https://slack.com/blog/collaboration/top-methods-and-metrics-for-tracking-project-progress) (2026-02-09)
+- [A Guide to Migrating From Microsoft Teams to Slack](https://slack.com/blog/transformation/teams-to-slack-migration) (2026-02-06)
+- [How We Rebuilt Slackbot](https://slack.com/blog/productivity/how-we-rebuilt-slackbot) (2026-02-06)
+- [How to Implement Agile: Steps, Frameworks, and Best Practices](https://slack.com/blog/productivity/agile-principles) (2026-02-03)
 
 </details>
 
