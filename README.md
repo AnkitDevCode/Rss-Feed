@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Homeland Security reportedly sent hundreds of subpoenas seeking to unmask anti-ICE accounts](https://techcrunch.com/2026/02/14/homeland-security-reportedly-sent-hundreds-of-subpoenas-seeking-to-unmask-anti-ice-accounts/) (2026-02-14)
+- [Is safety ‘dead’ at xAI?](https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/) (2026-02-14)
+- [In a changed VC landscape, this exec is doubling down on overlooked founders](https://techcrunch.com/2026/02/14/stacy-brown-philpot-cherryrock-capital-vc/) (2026-02-14)
+- [‘Clueless’ -inspired app Alta partners with brand Public School to start integrating styling tools into websites](https://techcrunch.com/2026/02/14/clueless-inspired-app-alta-partners-with-brand-public-school-to-start-integrating-styling-tools-into-websites/) (2026-02-14)
 - [Hollywood isn’t happy about the new Seedance 2.0 video generator](https://techcrunch.com/2026/02/14/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/) (2026-02-14)
-- [Designer Kate Barton teams up with IBM and Fiducia AI for a NYFW presentation](https://techcrunch.com/2026/02/14/designer-kate-barton-teams-up-with-ibm-and-fiducia-ai-for-a-nyfw-presentation/) (2026-02-14)
-- [India doubles down on state-backed venture capital, approving $1.1B fund](https://techcrunch.com/2026/02/14/india-doubles-down-on-state-backed-venture-capital-approving-1-1b-fund/) (2026-02-14)
-- [Nothing opens its first retail store in India](https://techcrunch.com/2026/02/13/nothing-opens-its-first-retail-store-in-india/) (2026-02-14)
-- [Indian pharmacy chain giant exposed customer data and internal systems](https://techcrunch.com/2026/02/13/indias-major-pharmacy-chain-exposed-customer-data-and-internal-systems/) (2026-02-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: Arcmark – macOS bookmark manager that attaches to browser as sidebar](https://github.com/Geek-1001/arcmark) (2026-02-14)
-- [Stoat removes all LLM-generated code following user criticism](https://github.com/orgs/stoatchat/discussions/1022) (2026-02-14)
-- [Amsterdam Compiler Kit](https://github.com/davidgiven/ack) (2026-02-14)
-- [Audiophiles Can't Distinguish Audio Sent Through Copper, Banana or Mud](https://www.tomshardware.com/speakers/in-a-blind-test-audiophiles-couldnt-tell-the-difference-between-audio-signals-sent-through-copper-wire-a-banana-or-wet-mud-the-mud-should-sound-perfectly-awful-but-it-doesnt-notes-the-experiment-creator) (2026-02-14)
-- [A Review of M Disc Archival Capability. With long term testing results](http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html) (2026-02-14)
+- [NewPipe: YouTube client without vertical videos and algorithmic feed](https://newpipe.net/) (2026-02-15)
+- [Show HN: Off Grid – Run AI text, image gen, vision offline on your phone](https://github.com/alichherawalla/off-grid-mobile) (2026-02-14)
+- [Colored Petri Nets, LLMs, and distributed applications](https://blog.sao.dev/cpns-llms-distributed-apps/) (2026-02-14)
+- [Descent, ported to the web](https://mrdoob.github.io/three-descent/) (2026-02-14)
+- [News publishers limit Internet Archive access due to AI scraping concerns](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/) (2026-02-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Jikipedia turns Epstein’s emails into an encyclopedia of his powerful friends](https://www.theverge.com/policy/879508/jikipedia-epstein-email-encyclopedia) (2026-02-14)
 - [iBuyPower’s gaming desktops are discounted for Presidents Day](https://www.theverge.com/gadgets/878927/ibuypower-gaming-desktop-pc-presidents-day-sale-deal) (2026-02-14)
 - [Georgia Tech announced the finalists in its wild musical instrument competition](https://www.theverge.com/entertainment/879482/georgia-techs-musical-instrument-competition-fiddle-henge) (2026-02-14)
 - [The Pocket Taco is the best way to turn your phone into a Game Boy](https://www.theverge.com/tech/877491/gamesir-pocket-taco-wireless-bluetooth-controller-clamp-hands-on) (2026-02-14)
 - [A powerful tool of resistance is already in your hands](https://www.theverge.com/policy/879273/alex-pretti-ice-cbp-trump-free-speech) (2026-02-14)
-- [My uncanny AI valentines](https://www.theverge.com/report/879327/eva-ai-cafe-dating-ai-companions) (2026-02-14)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [NASA has a new problem to fix before the next Artemis II countdown test](https://arstechnica.com/space/2026/02/nasa-chief-vows-to-solve-sls-rocket-fueling-issues-before-artemis-iii/) (2026-02-14)
+- [A Valentine's Day homage to Crouching Tiger, Hidden Dragon](https://arstechnica.com/culture/2026/02/a-valentines-day-homage-to-crouching-tiger-hidden-dragon/) (2026-02-14)
 - [Astronomers are filling in the blanks of the Kuiper Belt](https://arstechnica.com/science/2026/02/astronomers-are-filling-in-the-blanks-of-the-kuiper-belt/) (2026-02-14)
 - [WHO slams US-funded newborn vaccine trial as "unethical"](https://arstechnica.com/health/2026/02/who-slams-us-funded-newborn-vaccine-trial-as-unethical/) (2026-02-13)
 - [Aided by AI, California beach town broadens hunt for bike lane blockers](https://arstechnica.com/tech-policy/2026/02/santa-monica-deploys-ai-powered-parking-cameras-to-protect-bike-lanes/) (2026-02-13)
-- [Verizon imposes new roadblock on users trying to unlock paid-off phones](https://arstechnica.com/tech-policy/2026/02/verizon-makes-customers-wait-35-days-to-unlock-fully-paid-off-phones/) (2026-02-13)
-- [Ring cancels Flock deal after dystopian Super Bowl ad prompts mass outrage](https://arstechnica.com/tech-policy/2026/02/after-creepy-super-bowl-ad-sparks-outrage-ring-abandons-flock-deal/) (2026-02-13)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [🧬 ProjectDNA — I Built an AI Tool that Reality-Checks Your Project Ideas using GitHub Copilot CLI](https://dev.to/sreelaxmi21/projectdna-i-built-an-ai-tool-that-reality-checks-your-project-ideas-using-github-copilot-cli-158g) (2026-02-14)
-- [How We Built a 15-Agent AI Operations Team in One Day](https://dev.to/agentforge/how-i-built-a-15-agent-ai-operations-team-in-one-day-3lm8) (2026-02-14)
-- [10 Mistakes You're making in Kubernetes that cost you money](https://dev.to/tal_shafir_49b67973e9d3b4/10-mistakes-youre-making-in-kubernetes-that-cost-you-money-48c5) (2026-02-14)
-- [From Chaos to Clarity: My Journey Building JSON Query Pro](https://dev.to/priyabratapaul/from-chaos-to-clarity-my-journey-building-json-query-pro-45kg) (2026-02-14)
-- [How I Brought Wiimotes Back to Life in 2026](https://dev.to/juanipis/how-i-bring-back-the-wiimotes-on-2026-29h8) (2026-02-14)
+- [A weekly review next-week plan micro-service (consumer AI that ships outcomes)](https://dev.to/zy_j_bc7535dad2d7952ef5e1/a-weekly-review-next-week-plan-micro-service-consumer-ai-that-ships-outcomes-3f6a) (2026-02-15)
+- [Fazendo um LLM do Zero — Sessão 08: O Fim do Começo (Por que agora tudo faz sentido?) 🚀🧠](https://dev.to/vongrossi/fazendo-um-llm-do-zero-sessao-08-o-fim-do-comeco-por-que-agora-tudo-faz-sentido-5f7p) (2026-02-15)
+- [Fazendo um LLM do Zero — Sessão 07: De Gerador de Texto a Assistente (Instruction Tuning) 💬🤝](https://dev.to/vongrossi/fazendo-um-llm-do-zero-sessao-07-de-gerador-de-texto-a-assistente-instruction-tuning-26cg) (2026-02-15)
+- [Building a Revision Tracker with GitHub Copilot CLI](https://dev.to/sussy_baka_753b5f03e2c0c9/building-a-revision-tracker-with-github-copilot-cli-3jg9) (2026-02-15)
+- [Made-in-China.com vs DHgate vs Yiwugo: Which Platform to Scrape for Wholesale Product Data](https://dev.to/wfgsss/made-in-chinacom-vs-dhgate-vs-yiwugo-which-platform-to-scrape-for-wholesale-product-data-42d9) (2026-02-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The silver bullet – why building software is still hard](https://medium.com/@ensing89/the-silver-bullet-why-building-software-is-still-hard-e8d3b4024485?source=rss------programming-5) (2026-02-14)
-- [5 Python OOP Patterns That Completely Changed How I Design Software (And Why You Should Use Them…](https://medium.com/codetodeploy/5-python-oop-patterns-that-completely-changed-how-i-design-software-and-why-you-should-use-them-423e819fd52d?source=rss------programming-5) (2026-02-14)
-- [One LINQ Extension Method You NEED To Know For Cleaner EF Core Queries](https://medium.com/@mariammaurice/one-linq-extension-method-you-need-to-know-for-cleaner-ef-core-queries-6b97535077e7?source=rss------programming-5) (2026-02-14)
-- [Sets in Python: The Easiest Way to Remove Duplicates and Speed Up Your Code](https://medium.com/@saipatel01.ai/sets-in-python-the-easiest-way-to-remove-duplicates-and-speed-up-your-code-3f1bd8483b2e?source=rss------programming-5) (2026-02-14)
-- [Stop Blaming Go’s GC: The 3 Allocation Mistakes That Tanked My Performance ](https://medium.com/@anshusinghal703/stop-blaming-gos-gc-the-3-allocation-mistakes-that-tanked-my-performance-f639ef88eac9?source=rss------programming-5) (2026-02-14)
+- [Why Apple Is Secretly Betting Against Native iOS Development](https://medium.com/@mrhotfix/why-apple-is-secretly-betting-against-native-ios-development-c67cb34e7a0c?source=rss------programming-5) (2026-02-15)
+- [From Python to AI: Understanding PyTorch the Simple Way](https://medium.com/@ajujohn2009/from-python-to-ai-understanding-pytorch-the-simple-way-e4bdad61eadb?source=rss------programming-5) (2026-02-15)
+- [From Reactive to Proactive: The AI Opportunity in Supply Chain Management](https://medium.com/@maheshwari1441/from-reactive-to-proactive-the-ai-opportunity-in-supply-chain-management-b437676b8806?source=rss------programming-5) (2026-02-15)
+- [Code is Verifiable, but the Software we Want is Not](https://medium.com/@jaredhatfield/code-is-verifiable-but-the-software-we-want-is-not-0dcf547260fa?source=rss------programming-5) (2026-02-15)
+- [Before the Code Begins](https://medium.com/@jithmiwickramasinghe4/before-the-code-begins-10759613f4bf?source=rss------programming-5) (2026-02-15)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [The data behind the design: How Pantone built agentic AI with an AI-ready database](https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/) (2026-02-12)
-- [Agentic cloud operations: A new way to run the cloud](https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/) (2026-02-11)
-- [Can high-temperature superconductors transform the power infrastructure of datacenters?](https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/) (2026-02-10)
 - [Five Reasons to attend SQLCon](https://blog.fabric.microsoft.com/en-us/blog/32624) (2026-02-09)
 - [Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/) (2026-02-05)
+- [Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ](https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/) (2026-02-04)
+- [PostgreSQL on Azure supercharged for AI](https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/) (2026-02-02)
+- [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
 
 </details>
 
@@ -505,11 +505,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/sending-rcs-cards
 <details>
 <summary>💬 Slack API</summary>
 
-- [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-02-13)
-- [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-02-13)
-- [How to Stay Organized at Work: Tips, Tricks, and Tools](https://slack.com/blog/productivity/how-to-stay-organized-at-work) (2026-02-13)
-- [Why We’ve Built the Future of CRM in Slack](https://slack.com/blog/transformation/ai-powered-conversational-crm) (2026-02-12)
 - [Work Faster and Smarter With AI Agents in Slack for Every Line of Business](https://slack.com/blog/productivity/slack-ai-agents-for-every-line-of-business) (2026-02-11)
+- [How Effective Project Status Updates and Tracking Transform Team Productivity](https://slack.com/blog/collaboration/top-methods-and-metrics-for-tracking-project-progress) (2026-02-09)
+- [A Guide to Migrating From Microsoft Teams to Slack](https://slack.com/blog/transformation/teams-to-slack-migration) (2026-02-06)
+- [How We Rebuilt Slackbot](https://slack.com/blog/productivity/how-we-rebuilt-slackbot) (2026-02-06)
+- [How to Implement Agile: Steps, Frameworks, and Best Practices](https://slack.com/blog/productivity/agile-principles) (2026-02-03)
 
 </details>
 
