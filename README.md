@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Fractal Analytics’ muted IPO debut signals persistent AI fears in India](https://techcrunch.com/2026/02/16/fractal-analytics-muted-ipo-debut-signals-persistent-ai-fears-in-india/) (2026-02-16)
+- [All the important news from the ongoing India AI Impact Summit](https://techcrunch.com/2026/02/16/all-the-important-news-from-the-ongoing-india-ai-summit/) (2026-02-16)
+- [African defensetech Terra Industries, founded by two Gen Zers, raises additional $22M in a month](https://techcrunch.com/2026/02/16/terra-industries-raises-22-million/) (2026-02-16)
 - [As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck](https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/) (2026-02-16)
 - [Blackstone backs Neysa in up to $1.2B financing as India pushes to build domestic AI infrastructure](https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/) (2026-02-16)
-- [OpenClaw creator Peter Steinberger joins OpenAI](https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/) (2026-02-15)
-- [Longtime NPR host David Greene sues Google over NotebookLM voice](https://techcrunch.com/2026/02/15/longtime-npr-host-david-greene-sues-google-over-notebooklm-voice/) (2026-02-15)
-- [Anthropic and the Pentagon are reportedly arguing over Claude usage](https://techcrunch.com/2026/02/15/anthropic-and-the-pentagon-are-reportedly-arguing-over-claude-usage/) (2026-02-15)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [I want to wash my car. The car wash is 50 meters away. Should I walk or drive?](https://mastodon.world/@knowmadd/116072773118828295) (2026-02-16)
-- [Building SQLite with a small swarm](https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html) (2026-02-16)
-- [Arm wants a bigger slice of the chip business](https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business) (2026-02-16)
-- [JavaScript-heavy approaches are not compatible with long-term performance goals](https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/) (2026-02-16)
-- [Error payloads in Zig](https://srcreigh.ca/posts/error-payloads-in-zig/) (2026-02-15)
+- [Thanks a lot, AI: Hard drives are sold out for the year, says WD](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out) (2026-02-16)
+- [Anthropic tries to hide Claude's AI actions. Devs hate it](https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/) (2026-02-16)
+- [MessageFormat: Unicode standard for localizable message strings](https://github.com/unicode-org/message-format-wg) (2026-02-16)
+- [Qwen3.5: Towards Native Multimodal Agents](https://qwen.ai/blog?id=qwen3.5) (2026-02-16)
+- [picol: A Tcl interpreter in 500 lines of code](https://github.com/antirez/picol) (2026-02-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Samsung ad confirms rumors of a useful S26 ‘privacy display’](https://www.theverge.com/gadgets/879652/samsung-galaxy-s26-privacy-display-ad-flex-magic-pixel) (2026-02-16)
+- [After spooking Hollywood, ByteDance will tweak safeguards on new AI model](https://www.theverge.com/ai-artificial-intelligence/879644/bytedance-seedance-safeguards-ai-video-copyright-infringement) (2026-02-16)
+- [A Star is born](https://www.theverge.com/streaming/879129/netflix-star-search-live) (2026-02-16)
 - [OpenClaw founder Peter Steinberger is joining OpenAI](https://www.theverge.com/ai-artificial-intelligence/879623/openclaw-founder-peter-steinberger-joins-openai) (2026-02-15)
 - [You need to watch the intensely surreal cult classic Possession](https://www.theverge.com/entertainment/879602/cult-classic-possession-1981-review-isabelle-adjani) (2026-02-15)
-- [Here are the 55 best Presidents Day deals we’ve found so far](https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026) (2026-02-15)
-- [I hate my AI pet with every fiber of my being](https://www.theverge.com/gadgets/877858/life-with-casio-moflin-robot-ai-pet) (2026-02-15)
-- [Logitech’s new Superstrike is a faster, more customizable gaming mouse](https://www.theverge.com/tech/879221/logitech-gpro-x2-superstrike-gaming-mouse-pc-hands-on) (2026-02-15)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The scientist using AI to hunt for antibiotics just about everywhere](https://www.technologyreview.com/2026/02/16/1132516/cesar-de-la-fuente-using-ai-antibiotics-hunt/) (2026-02-16)
+- [Hackers made death threats against this security researcher. Big mistake.](https://www.technologyreview.com/2026/02/16/1132526/allison-nixon-hackers-security-researcher/) (2026-02-16)
 - [ALS stole this musician’s voice. AI let him sing again.](https://www.technologyreview.com/2026/02/13/1132913/als-stole-this-musicians-voice-ai-sing/) (2026-02-13)
 - [The Download: an exclusive chat with Jim O’Neill, and the surprising truth about heists](https://www.technologyreview.com/2026/02/13/1132896/the-download-an-exclusive-chat-with-jim-oneill-and-the-surprising-truth-about-heists/) (2026-02-13)
 - [The myth of the high-tech heist](https://www.technologyreview.com/2026/02/13/1132397/myth-of-high-tech-heist/) (2026-02-13)
-- [US deputy health secretary: Vaccine guidelines are still subject to change](https://www.technologyreview.com/2026/02/13/1132889/us-deputy-health-secretary-vaccine-guidelines-longevity-arpa-h-cdc-nih/) (2026-02-13)
-- [RFK Jr. follows a carnivore diet. That doesn’t mean you should.](https://www.technologyreview.com/2026/02/13/1132848/rfk-jr-carnivore-diet-maha-social-media/) (2026-02-13)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why I rewrote my CLI tool into an Isomorphic Monorepo](https://dev.to/mgks/why-i-rewrote-my-cli-tool-into-an-isomorphic-monorepo-592) (2026-02-16)
-- [Responsive UI Architecture: Designing for Phone, Tablet, and Desktop in One Codebase](https://dev.to/biwesh_shr/responsive-ui-architecture-designing-for-phone-tablet-and-desktop-in-one-codebase-1076) (2026-02-16)
-- [Building Vero: How I Used Super Context with GitHub Copilot CLI to Create a Premium Visual Debugger](https://dev.to/tiagordebarros/building-vero-how-i-used-super-context-with-github-copilot-cli-to-create-a-premium-visual-debugger-198g) (2026-02-16)
-- [🍫 Chocolate Distribution Problem — JavaScript Solution Explained (Sliding Window)](https://dev.to/abhishek-nexgen-dev/chocolate-distribution-problem-javascript-solution-explained-sliding-window-1gff) (2026-02-16)
-- [OWASP Cornucopia is publishing it’s darkest secrets!](https://dev.to/owasp/owasp-cornucopia-is-publishing-its-darkest-secrets-fjc) (2026-02-16)
+- [Stop Running Puppeteer on Your Main Server: The Serverless Approach to Screenshots](https://dev.to/quicreatdev/stop-running-puppeteer-on-your-main-server-the-serverless-approach-to-screenshots-37f7) (2026-02-16)
+- [Leetcode Sunday #3](https://dev.to/rezzcode/leetcode-sunday-3-3hje) (2026-02-16)
+- [The Rise of Small AI: Why Edge AI and Specialized Models are Outpacing LLMs for Real-World Impact in 2026](https://dev.to/rgbos/the-rise-of-small-ai-why-edge-ai-and-specialized-models-are-outpacing-llms-for-real-world-impact-iok) (2026-02-16)
+- [TimescaleDB Outperforms MongoDB for JSON Logs (100M Document Benchmark)](https://dev.to/polliog/timescaledb-outperforms-mongodb-for-json-logs-100m-document-benchmark-5gij) (2026-02-16)
+- [Is WordPress Dying in 2026?](https://dev.to/mike_adex_ac28e898bf07316/is-wordpress-dying-in-2026-46p9) (2026-02-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Building a mini Student Management System using Lists and Dictionaries in Python](https://medium.com/@mayurkumarwar/building-a-mini-student-management-system-using-lists-and-dictionaries-in-python-90aa25339c96?source=rss------programming-5) (2026-02-16)
-- [Cryptographic Document Receipt (CDR), the Architectural Valuation Doctrine, Enterprise License…](https://medium.com/@Kam-Swygert/cryptographic-document-receipt-cdr-the-architectural-valuation-doctrine-enterprise-license-1f37d5091685?source=rss------programming-5) (2026-02-16)
-- [SAP ABAP Course in Malayalam for Commerce and Non-IT Students in Kerala](https://medium.com/@mridhulacokonet/sap-abap-course-in-malayalam-for-commerce-and-non-it-students-in-kerala-0cbfe9d7ed65?source=rss------programming-5) (2026-02-16)
-- [ JetBrains Report Signals a Big Year for Rust](https://medium.com/rustaceans/jetbrains-report-signals-a-big-year-for-rust-01cc04c2d816?source=rss------programming-5) (2026-02-16)
-- [Building a Mini Student Management System Using Lists and Dictionaries in Python](https://medium.com/@vamshicherukuri41/building-a-mini-student-management-system-using-lists-and-dictionaries-in-python-e4c30c117475?source=rss------programming-5) (2026-02-16)
+- [PostgreSQL WAL Archiving Bottlenecks: Solving pgBackRest [045] Checksum Mismatch](https://ozwizard.medium.com/postgresql-wal-archiving-bottlenecks-solving-pgbackrest-045-checksum-mismatch-7589c548eb7f?source=rss------programming-5) (2026-02-16)
+- [Funções Geradoras e yield](https://medium.com/@aikanaroun2010/fun%C3%A7%C3%B5es-geradoras-e-yield-8f164712d34f?source=rss------programming-5) (2026-02-16)
+- [Common Mistakes Beginners Make with Python Lists, Dictionaries, and Sets](https://medium.com/@samruddhikhedkar46/common-mistakes-beginners-make-with-python-lists-dictionaries-and-sets-d242c0429bfd?source=rss------programming-5) (2026-02-16)
+- [Lessons I Learned After Testing 20+ Python Automation Tools](https://medium.com/codetodeploy/lessons-i-learned-after-testing-20-python-automation-tools-e653f21426fc?source=rss------programming-5) (2026-02-16)
+- [I Rewrote My First C Project Using These 6 Techniques — The Speed Boost Shocked Me](https://medium.com/codetodeploy/i-rewrote-my-first-c-project-using-these-6-techniques-the-speed-boost-shocked-me-e8b13706fceb?source=rss------programming-5) (2026-02-16)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Agentic cloud operations: A new way to run the cloud](https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/) (2026-02-11)
-- [Can high-temperature superconductors transform the power infrastructure of datacenters?](https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/) (2026-02-10)
-- [Five Reasons to attend SQLCon](https://blog.fabric.microsoft.com/en-us/blog/32624) (2026-02-09)
-- [Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/) (2026-02-05)
 - [Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ](https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/) (2026-02-04)
+- [PostgreSQL on Azure supercharged for AI](https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/) (2026-02-02)
+- [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
+- [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
+- [Chart your AI and agent strategy with Microsoft Marketplace](https://azure.microsoft.com/en-us/blog/design-your-ai-and-agent-strategy-with-microsoft-marketplace/) (2026-01-15)
 
 </details>
 
@@ -359,37 +359,6 @@
 </details>
 
 <details>
-<summary>📞 Twilio Blog</summary>
-
-- [
-Rich Messages, Richer Experiences: Monetizing Chatbots on RCS and WhatsApp
-](
-https://www.twilio.com/en-us/blog/developers/monetizing-chatbots-rcs-whatsapp-stripe
-) (2026-02-12)
-- [
-Sending RCS Carousels Using Python
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/sending-rcs-carousels-using-python
-) (2026-02-12)
-- [
-How to bring your own telephony to Okta with Twilio Verify
-](
-https://www.twilio.com/en-us/blog/okta-byot-verify
-) (2026-02-12)
-- [
-How to Use Twilio's Content Template Builder for Messaging
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-use-twilio-content-template-builder-messaging
-) (2026-02-11)
-- [
-Sending RCS Cards Using Python
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/sending-rcs-cards-using-python
-) (2026-02-11)
-
-</details>
-
-<details>
 <summary>🔐 Auth0 Blog</summary>
 
 - [You Talked, We Listened: How Your Feedback Shaped Our New B2B Plans
@@ -560,33 +529,33 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/sending-rcs-cards
 <details>
 <summary>🤖 AI News</summary>
 
+- [Banking AI in multiple business functions at NatWest](https://www.artificialintelligence-news.com/news/banking-ai-in-multiple-business-functions-at-natwest/) (2026-02-16)
+- [Debenhams pilots agentic AI commerce via PayPal integration](https://www.artificialintelligence-news.com/news/debenhams-pilots-agentic-ai-commerce-paypal-integration/) (2026-02-16)
+- [URBN tests agentic AI to automate retail reporting](https://www.artificialintelligence-news.com/news/urbn-tests-agentic-ai-to-automate-retail-reporting/) (2026-02-16)
 - [AI forecasting model targets healthcare resource efficiency](https://www.artificialintelligence-news.com/news/ai-forecasting-model-targets-healthcare-resource-efficiency/) (2026-02-13)
 - [What Murder Mystery 2 reveals about emergent behaviour in online games](https://www.artificialintelligence-news.com/news/what-murder-mystery-2-reveals-about-emergent-behaviour-in-online-games/) (2026-02-13)
-- [Agentic AI drives finance ROI in accounts payable automation](https://www.artificialintelligence-news.com/news/agentic-ai-drives-finance-roi-in-accounts-payable-automation/) (2026-02-13)
-- [Newsweek CEO Dev Pragad warns publishers: adapt as AI becomes news gateway](https://www.artificialintelligence-news.com/news/newsweek-ceo-dev-pragad-warns-publishers-adapt-as-ai-becomes-news-gateway/) (2026-02-13)
-- [How e& is using HR to bring AI into enterprise operations](https://www.artificialintelligence-news.com/news/how-e-is-using-hr-to-bring-ai-into-enterprise-operations/) (2026-02-13)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Strangest Bottleneck in Modern LLMs](https://towardsdatascience.com/the-strangest-bottleneck-in-modern-llms/) (2026-02-16)
 - [A beginner’s guide to Tmux: a multitasking superpower for your terminal](https://towardsdatascience.com/a-beginners-guide-to-tmux-a-multitasking-superpower-for-your-terminal/) (2026-02-15)
 - [Your First 90 Days as a Data Scientist](https://towardsdatascience.com/your-first-90-days-as-a-data-scientist/) (2026-02-14)
 - [The Evolving Role of the ML Engineer](https://towardsdatascience.com/the-evolving-role-of-the-ml-engineer/) (2026-02-13)
 - [AI in Multiple GPUs: Point-to-Point and Collective Operations](https://towardsdatascience.com/point-to-point-and-collective-operations/) (2026-02-13)
-- [How to Leverage Explainable AI for Better Business Decisions](https://towardsdatascience.com/how-to-leverage-explainable-ai-for-better-business-decisions/) (2026-02-12)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Top 7 Free Excel Courses with Certificates](https://www.analyticsvidhya.com/blog/2026/02/free-excel-courses-with-certificates/) (2026-02-16)
 - [PyCaret Tutorial: Beginner’s Guide to Automating ML Workflows](https://www.analyticsvidhya.com/blog/2026/02/pycaret-guide/) (2026-02-15)
 - [Build a Powerful AI Research Pipeline with LM Studio and NotebookLM](https://www.analyticsvidhya.com/blog/2026/02/notebooklm-and-lm-studio-ai-research-pipeline/) (2026-02-15)
 - [What is Elasticsearch?](https://www.analyticsvidhya.com/blog/2026/02/what-is-elasticsearch/) (2026-02-14)
 - [I Built a Smart Movie Recommender with Collaborative Filtering](https://www.analyticsvidhya.com/blog/2026/02/collaborative-filtering-recommendation-system/) (2026-02-14)
-- [What is Prompt Chaining?](https://www.analyticsvidhya.com/blog/2026/02/what-is-prompt-chaining/) (2026-02-13)
 
 </details>
 
@@ -604,11 +573,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/sending-rcs-cards
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Top 7 Small Language Models You Can Run on a Laptop](https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/) (2026-02-16)
 - [Choosing Between PCA and t-SNE for Visualization](https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/) (2026-02-12)
 - [The Machine Learning Practitioner’s Guide to Speculative Decoding](https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/) (2026-02-11)
 - [Document Clustering with LLM Embeddings in Scikit-learn](https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/) (2026-02-10)
 - [The 7 Biggest Misconceptions About AI Agents (and Why They Matter)](https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/) (2026-02-09)
-- [Agent Evaluation: How to Test and Measure Agentic AI Performance](https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/) (2026-02-05)
 
 </details>
 
