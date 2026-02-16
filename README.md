@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Pink noise reduces REM sleep and may harm sleep quality](https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality) (2026-02-16)
+- [I want to wash my car. The car wash is 50 meters away. Should I walk or drive?](https://mastodon.world/@knowmadd/116072773118828295) (2026-02-16)
+- [Building SQLite with a small swarm](https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html) (2026-02-16)
+- [Arm wants a bigger slice of the chip business](https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business) (2026-02-16)
+- [JavaScript-heavy approaches are not compatible with long-term performance goals](https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/) (2026-02-16)
 - [Error payloads in Zig](https://srcreigh.ca/posts/error-payloads-in-zig/) (2026-02-15)
-- [Continuous batching from first principles (2025)](https://huggingface.co/blog/continuous_batching) (2026-02-15)
-- [Magnus Carlsen Wins the Freestyle (Chess960) World Championship](https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/) (2026-02-15)
-- [I’m joining OpenAI](https://steipete.me/posts/2026/openclaw) (2026-02-15)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Importance of Employee Appreciation: Why Recognition Matters More Than Ever](https://dev.to/synergita/the-importance-of-employee-appreciation-why-recognition-matters-more-than-ever-2bmh) (2026-02-16)
-- [🔄 Beginner-Friendly Guide 'Reverse Bits' - Problem 190 (C++, Python, JavaScript)](https://dev.to/om_shree_0709/beginner-friendly-guide-reverse-bits-problem-190-c-python-javascript-1n3f) (2026-02-16)
-- [Mastering Monad Testnet: Automate Your Developer Activity with Python 🐍](https://dev.to/purplepilldev/mastering-monad-testnet-automate-your-developer-activity-with-python-5hi0) (2026-02-16)
-- [DEALZ: Save and browse local promos and deals.](https://dev.to/hicknughes_87/dealz-save-and-browse-local-promos-and-deals-43ll) (2026-02-16)
-- [Building Unravel: Learning RAG Through Visualization](https://dev.to/jvorndran/building-unravel-learning-rag-through-visualization-26o) (2026-02-16)
+- [Why I rewrote my CLI tool into an Isomorphic Monorepo](https://dev.to/mgks/why-i-rewrote-my-cli-tool-into-an-isomorphic-monorepo-592) (2026-02-16)
+- [Responsive UI Architecture: Designing for Phone, Tablet, and Desktop in One Codebase](https://dev.to/biwesh_shr/responsive-ui-architecture-designing-for-phone-tablet-and-desktop-in-one-codebase-1076) (2026-02-16)
+- [Building Vero: How I Used Super Context with GitHub Copilot CLI to Create a Premium Visual Debugger](https://dev.to/tiagordebarros/building-vero-how-i-used-super-context-with-github-copilot-cli-to-create-a-premium-visual-debugger-198g) (2026-02-16)
+- [🍫 Chocolate Distribution Problem — JavaScript Solution Explained (Sliding Window)](https://dev.to/abhishek-nexgen-dev/chocolate-distribution-problem-javascript-solution-explained-sliding-window-1gff) (2026-02-16)
+- [OWASP Cornucopia is publishing it’s darkest secrets!](https://dev.to/owasp/owasp-cornucopia-is-publishing-its-darkest-secrets-fjc) (2026-02-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Claude Code vs Copilot: My 2026 AI Workflow](https://lazypro.medium.com/claude-code-vs-copilot-my-2026-ai-workflow-718abf3e3e19?source=rss------programming-5) (2026-02-16)
-- [Building a RESTful API with MongoDB: Lessons from the WTWR Backend](https://medium.com/@traceylg43/building-a-restful-api-with-mongodb-lessons-from-the-wtwr-backend-00dd4255da0a?source=rss------programming-5) (2026-02-16)
-- [DigiDollar Integration Guides Go Live: Bringing Decentralized Stablecoin Support to Wallets and…](https://medium.com/@pappawecho/digidollar-integration-guides-go-live-bringing-decentralized-stablecoin-support-to-wallets-and-3a0cabe75514?source=rss------programming-5) (2026-02-16)
-- [476.How to Integrate AI with DevOps: A Practical Guide for Modern Engineers](https://medium.com/@venkatvk46/476-how-to-integrate-ai-with-devops-a-practical-guide-for-modern-engineers-603b353a6cf8?source=rss------programming-5) (2026-02-16)
-- [How Python Uses Data Structures Behind the Scenes: Lists, Tuples, Sets, and Dictionaries](https://medium.com/@dheerajgowdan13/how-python-uses-data-structures-behind-the-scenes-lists-tuples-sets-and-dictionaries-d566bd581de1?source=rss------programming-5) (2026-02-16)
+- [Building a mini Student Management System using Lists and Dictionaries in Python](https://medium.com/@mayurkumarwar/building-a-mini-student-management-system-using-lists-and-dictionaries-in-python-90aa25339c96?source=rss------programming-5) (2026-02-16)
+- [Cryptographic Document Receipt (CDR), the Architectural Valuation Doctrine, Enterprise License…](https://medium.com/@Kam-Swygert/cryptographic-document-receipt-cdr-the-architectural-valuation-doctrine-enterprise-license-1f37d5091685?source=rss------programming-5) (2026-02-16)
+- [SAP ABAP Course in Malayalam for Commerce and Non-IT Students in Kerala](https://medium.com/@mridhulacokonet/sap-abap-course-in-malayalam-for-commerce-and-non-it-students-in-kerala-0cbfe9d7ed65?source=rss------programming-5) (2026-02-16)
+- [ JetBrains Report Signals a Big Year for Rust](https://medium.com/rustaceans/jetbrains-report-signals-a-big-year-for-rust-01cc04c2d816?source=rss------programming-5) (2026-02-16)
+- [Building a Mini Student Management System Using Lists and Dictionaries in Python](https://medium.com/@vamshicherukuri41/building-a-mini-student-management-system-using-lists-and-dictionaries-in-python-e4c30c117475?source=rss------programming-5) (2026-02-16)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Agentic cloud operations: A new way to run the cloud](https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/) (2026-02-11)
+- [Can high-temperature superconductors transform the power infrastructure of datacenters?](https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/) (2026-02-10)
+- [Five Reasons to attend SQLCon](https://blog.fabric.microsoft.com/en-us/blog/32624) (2026-02-09)
 - [Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/) (2026-02-05)
 - [Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ](https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/) (2026-02-04)
-- [PostgreSQL on Azure supercharged for AI](https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/) (2026-02-02)
-- [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
-- [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
 
 </details>
 
@@ -483,11 +483,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/sending-rcs-cards
 <details>
 <summary>☁️ Salesforce Developer</summary>
 
+- [Salesforce管理者必見、Spring ’26の注目機能](https://developer.salesforce.com/blogs/2026/02/jens-top-spring-26-features-for-admins-jp) (2026-02-16)
 - [Omnistudio Deployments Made Easier: What’s Coming on the Salesforce Roadmap](https://developer.salesforce.com/blogs/2026/02/omnistudio-deployments-made-easier-whats-coming-on-the-salesforce-roadmap) (2026-02-12)
 - [Spring ’26リリースで、Salesforce開発者が注目すべき機能を紹介](https://developer.salesforce.com/blogs/2026/02/developers-guide-to-the-spring-26-release-jp) (2026-02-09)
 - [MAGE: Generate Pro-Code Mobile Apps in Minutes](https://developer.salesforce.com/blogs/2026/02/generate-mobile-apps-in-minutes-with-the-pro-code-mobile-app-generation-ecosystem-mage) (2026-02-05)
 - [外部アプリから Salesforce API にアクセスする方法](https://developer.salesforce.com/blogs/2026/02/jp-access-the-salesforce-api-from-externalclientapp) (2026-02-03)
-- [Streamline Data 360 Onboarding with API-Driven Automation](https://developer.salesforce.com/blogs/2026/02/streamline-data-360-onboarding-with-api-driven-automation) (2026-02-03)
 
 </details>
 
@@ -505,11 +505,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/sending-rcs-cards
 <details>
 <summary>💬 Slack API</summary>
 
-- [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-02-13)
 - [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-02-13)
 - [How to Stay Organized at Work: Tips, Tricks, and Tools](https://slack.com/blog/productivity/how-to-stay-organized-at-work) (2026-02-13)
 - [Why We’ve Built the Future of CRM in Slack](https://slack.com/blog/transformation/ai-powered-conversational-crm) (2026-02-12)
 - [Work Faster and Smarter With AI Agents in Slack for Every Line of Business](https://slack.com/blog/productivity/slack-ai-agents-for-every-line-of-business) (2026-02-11)
+- [How Effective Project Status Updates and Tracking Transform Team Productivity](https://slack.com/blog/collaboration/top-methods-and-metrics-for-tracking-project-progress) (2026-02-09)
 
 </details>
 
