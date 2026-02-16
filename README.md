@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [India has 100M weekly active ChatGPT users, Sam Altman says](https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/) (2026-02-15)
-- [The enterprise AI land grab is on. Glean is building the layer beneath the interface.](https://techcrunch.com/2026/02/15/the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface/) (2026-02-15)
-- [TechCrunch Mobility: Rivian’s savior](https://techcrunch.com/2026/02/15/techcrunch-mobility-rivians-savior/) (2026-02-15)
-- [What the Epstein files reveal about EV startups and Silicon Valley](https://techcrunch.com/2026/02/15/what-the-epstein-files-reveal-about-ev-startups-and-silicon-valley/) (2026-02-15)
-- [How to get into a16z’s super-competitive Speedrun startup accelerator program](https://techcrunch.com/2026/02/15/how-to-get-into-a16zs-super-competitive-speedrun-startup-accelerator-program/) (2026-02-15)
+- [As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck](https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/) (2026-02-16)
+- [Blackstone backs Neysa in up to $1.2B financing as India pushes to build domestic AI infrastructure](https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/) (2026-02-16)
+- [OpenClaw creator Peter Steinberger joins OpenAI](https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/) (2026-02-15)
+- [Longtime NPR host David Greene sues Google over NotebookLM voice](https://techcrunch.com/2026/02/15/longtime-npr-host-david-greene-sues-google-over-notebooklm-voice/) (2026-02-15)
+- [Anthropic and the Pentagon are reportedly arguing over Claude usage](https://techcrunch.com/2026/02/15/anthropic-and-the-pentagon-are-reportedly-arguing-over-claude-usage/) (2026-02-15)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Palantir Gets Millions of Dollars from New York City's Public Hospitals](https://theintercept.com/2026/02/15/palantir-contract-new-york-city-health-hospitals/) (2026-02-15)
-- [LT6502: A 6502-based homebrew laptop](https://github.com/TechPaula/LT6502) (2026-02-15)
-- [EU bans the destruction of unsold apparel, clothing, accessories and footwear](https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en) (2026-02-15)
-- [Palantir vs. the "Republik": US analytics firm takes magazine to court](https://www.heise.de/en/news/Palantir-vs-the-Republik-US-analytics-firm-takes-magazine-to-court-11176508.html) (2026-02-15)
-- [Hideki Sato, designer of all Sega's consoles, has died](https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/) (2026-02-15)
+- [Pink noise reduces REM sleep and may harm sleep quality](https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality) (2026-02-16)
+- [Error payloads in Zig](https://srcreigh.ca/posts/error-payloads-in-zig/) (2026-02-15)
+- [Continuous batching from first principles (2025)](https://huggingface.co/blog/continuous_batching) (2026-02-15)
+- [Magnus Carlsen Wins the Freestyle (Chess960) World Championship](https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/) (2026-02-15)
+- [I’m joining OpenAI](https://steipete.me/posts/2026/openclaw) (2026-02-15)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [OpenClaw founder Peter Steinberger is joining OpenAI](https://www.theverge.com/ai-artificial-intelligence/879623/openclaw-founder-peter-steinberger-joins-openai) (2026-02-15)
 - [You need to watch the intensely surreal cult classic Possession](https://www.theverge.com/entertainment/879602/cult-classic-possession-1981-review-isabelle-adjani) (2026-02-15)
 - [Here are the 55 best Presidents Day deals we’ve found so far](https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026) (2026-02-15)
 - [I hate my AI pet with every fiber of my being](https://www.theverge.com/gadgets/877858/life-with-casio-moflin-robot-ai-pet) (2026-02-15)
 - [Logitech’s new Superstrike is a faster, more customizable gaming mouse](https://www.theverge.com/tech/879221/logitech-gpro-x2-superstrike-gaming-mouse-pc-hands-on) (2026-02-15)
-- [Apple’s first-gen AirTags are still worth buying now that they’re $16 apiece](https://www.theverge.com/gadgets/879325/apple-airtag-1st-generation-presidents-day-sale-deal) (2026-02-15)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Space Station returns to a full crew complement after a month](https://arstechnica.com/space/2026/02/space-station-returns-to-a-full-crew-complement-after-a-month/) (2026-02-15)
+- [Ancient Mars was warm and wet, not cold and icy](https://arstechnica.com/science/2026/02/ancient-mars-was-warm-and-wet-not-cold-and-icy/) (2026-02-15)
+- [Editor’s Note: Retraction of article containing fabricated quotations](https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/) (2026-02-15)
 - ["It ain't no unicorn": These researchers have interviewed 130 Bigfoot hunters](https://arstechnica.com/science/2026/02/it-aint-no-unicorn-these-researchers-have-interviewed-130-bigfoot-hunters/) (2026-02-15)
 - [NASA has a new problem to fix before the next Artemis II countdown test](https://arstechnica.com/space/2026/02/nasa-chief-vows-to-solve-sls-rocket-fueling-issues-before-artemis-iii/) (2026-02-14)
-- [A Valentine's Day homage to Crouching Tiger, Hidden Dragon](https://arstechnica.com/culture/2026/02/a-valentines-day-homage-to-crouching-tiger-hidden-dragon/) (2026-02-14)
-- [Astronomers are filling in the blanks of the Kuiper Belt](https://arstechnica.com/science/2026/02/astronomers-are-filling-in-the-blanks-of-the-kuiper-belt/) (2026-02-14)
-- [WHO slams US-funded newborn vaccine trial as "unethical"](https://arstechnica.com/health/2026/02/who-slams-us-funded-newborn-vaccine-trial-as-unethical/) (2026-02-13)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I got tired of reading AI-generated Markdown in VS Code, so I built a dedicated reader](https://dev.to/ss_mworks/i-got-tired-of-reading-ai-generated-markdown-in-vs-code-so-i-built-a-dedicated-reader-4288) (2026-02-15)
-- [The Codex App: A New Era in Autonomous AI Coding](https://dev.to/alifar/openai-codex-app-are-we-entering-the-era-of-autonomous-software-development-3kho) (2026-02-15)
-- [How to design a Simple URL Shortener(TinyURL)](https://dev.to/ganesh_parella/how-to-design-a-simple-url-shortenertinyurl-3n2m) (2026-02-15)
-- [KAIzen — What Agile Needs for the AI Era](https://dev.to/agenticaiengineer/kaizen-what-agile-needs-for-the-ai-era-12cc) (2026-02-15)
-- [Adobe Animate Is on Life Support. Where Do Web Animations Go Now?](https://dev.to/imsemicolin/adobe-animate-is-dead-where-do-web-animations-go-now-1jhe) (2026-02-15)
+- [The Importance of Employee Appreciation: Why Recognition Matters More Than Ever](https://dev.to/synergita/the-importance-of-employee-appreciation-why-recognition-matters-more-than-ever-2bmh) (2026-02-16)
+- [🔄 Beginner-Friendly Guide 'Reverse Bits' - Problem 190 (C++, Python, JavaScript)](https://dev.to/om_shree_0709/beginner-friendly-guide-reverse-bits-problem-190-c-python-javascript-1n3f) (2026-02-16)
+- [Mastering Monad Testnet: Automate Your Developer Activity with Python 🐍](https://dev.to/purplepilldev/mastering-monad-testnet-automate-your-developer-activity-with-python-5hi0) (2026-02-16)
+- [DEALZ: Save and browse local promos and deals.](https://dev.to/hicknughes_87/dealz-save-and-browse-local-promos-and-deals-43ll) (2026-02-16)
+- [Building Unravel: Learning RAG Through Visualization](https://dev.to/jvorndran/building-unravel-learning-rag-through-visualization-26o) (2026-02-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Python Dictionaries Explained with Real-Life Use Cases (Phone Book & Student Records)](https://medium.com/@ummekulsum0069/python-dictionaries-explained-with-real-life-use-cases-phone-book-student-records-1a82193ab515?source=rss------programming-5) (2026-02-15)
-- [Launching an AI SaaS in 2026? Do Not Start From Scratch.](https://medium.com/write-a-catalyst/launching-an-ai-saas-in-2026-do-not-start-from-scratch-04c0f17264aa?source=rss------programming-5) (2026-02-15)
-- [Sets in Python: How They Help Remove Duplicates and Improve Performance](https://medium.com/@ajithvenkat456/sets-in-python-how-they-help-remove-duplicates-and-improve-performance-24bc82b66e30?source=rss------programming-5) (2026-02-15)
-- [Collection of 8 Amazing Python Automation Scripts](https://medium.com/write-a-catalyst/collection-of-8-amazing-python-automation-scripts-6aadb1ecf5c2?source=rss------programming-5) (2026-02-15)
-- [The Fastest Way to Ship a Mobile App in 2026](https://medium.com/write-a-catalyst/the-fastest-way-to-ship-a-mobile-app-in-2026-ad24f11a8545?source=rss------programming-5) (2026-02-15)
+- [Claude Code vs Copilot: My 2026 AI Workflow](https://lazypro.medium.com/claude-code-vs-copilot-my-2026-ai-workflow-718abf3e3e19?source=rss------programming-5) (2026-02-16)
+- [Building a RESTful API with MongoDB: Lessons from the WTWR Backend](https://medium.com/@traceylg43/building-a-restful-api-with-mongodb-lessons-from-the-wtwr-backend-00dd4255da0a?source=rss------programming-5) (2026-02-16)
+- [DigiDollar Integration Guides Go Live: Bringing Decentralized Stablecoin Support to Wallets and…](https://medium.com/@pappawecho/digidollar-integration-guides-go-live-bringing-decentralized-stablecoin-support-to-wallets-and-3a0cabe75514?source=rss------programming-5) (2026-02-16)
+- [476.How to Integrate AI with DevOps: A Practical Guide for Modern Engineers](https://medium.com/@venkatvk46/476-how-to-integrate-ai-with-devops-a-practical-guide-for-modern-engineers-603b353a6cf8?source=rss------programming-5) (2026-02-16)
+- [How Python Uses Data Structures Behind the Scenes: Lists, Tuples, Sets, and Dictionaries](https://medium.com/@dheerajgowdan13/how-python-uses-data-structures-behind-the-scenes-lists-tuples-sets-and-dictionaries-d566bd581de1?source=rss------programming-5) (2026-02-16)
 
 </details>
 
@@ -124,6 +124,17 @@
 - [AWS IAM Identity Center now supports multi-Region replication for AWS account access and application use](https://aws.amazon.com/blogs/aws/aws-iam-identity-center-now-supports-multi-region-replication-for-aws-account-access-and-application-use/) (2026-02-03)
 - [AWS Weekly Roundup: Amazon Bedrock agent workflows, Amazon SageMaker private connectivity, and more (February 2, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-agent-workflows-amazon-sagemaker-private-connectivity-and-more-february-2-2026/) (2026-02-02)
 - [AWS Weekly Roundup: Amazon EC2 G7e instances, Amazon Corretto updates, and more (January 26, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-g7e-instances-with-nvidia-blackwell-gpus-january-26-2026/) (2026-01-26)
+
+</details>
+
+<details>
+<summary>🔵 Azure Blog</summary>
+
+- [Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/) (2026-02-05)
+- [Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ](https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/) (2026-02-04)
+- [PostgreSQL on Azure supercharged for AI](https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/) (2026-02-02)
+- [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
+- [Beyond boundaries: The future of Azure Storage in 2026](https://azure.microsoft.com/en-us/blog/beyond-boundaries-the-future-of-azure-storage-in-2026/) (2026-01-22)
 
 </details>
 
@@ -494,11 +505,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/sending-rcs-cards
 <details>
 <summary>💬 Slack API</summary>
 
+- [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-02-13)
+- [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-02-13)
+- [How to Stay Organized at Work: Tips, Tricks, and Tools](https://slack.com/blog/productivity/how-to-stay-organized-at-work) (2026-02-13)
+- [Why We’ve Built the Future of CRM in Slack](https://slack.com/blog/transformation/ai-powered-conversational-crm) (2026-02-12)
 - [Work Faster and Smarter With AI Agents in Slack for Every Line of Business](https://slack.com/blog/productivity/slack-ai-agents-for-every-line-of-business) (2026-02-11)
-- [How Effective Project Status Updates and Tracking Transform Team Productivity](https://slack.com/blog/collaboration/top-methods-and-metrics-for-tracking-project-progress) (2026-02-09)
-- [A Guide to Migrating From Microsoft Teams to Slack](https://slack.com/blog/transformation/teams-to-slack-migration) (2026-02-06)
-- [How We Rebuilt Slackbot](https://slack.com/blog/productivity/how-we-rebuilt-slackbot) (2026-02-06)
-- [How to Implement Agile: Steps, Frameworks, and Best Practices](https://slack.com/blog/productivity/agile-principles) (2026-02-03)
 
 </details>
 
