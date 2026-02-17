@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Have money, will travel: a16z’s hunt for the next European unicorn](https://techcrunch.com/2026/02/16/have-money-will-travel-a16zs-hunt-for-the-next-european-unicorn/) (2026-02-16)
 - [How Ricursive Intelligence raised $335M at a $4B valuation in 4 months](https://techcrunch.com/2026/02/16/how-ricursive-intelligence-raised-335m-at-a-4b-valuation-in-4-months/) (2026-02-16)
 - [Flapping Airplanes on the future of AI: ‘We want to try really radically different things’](https://techcrunch.com/2026/02/16/flapping-airplanes-on-the-future-of-ai-we-want-to-try-really-radically-different-things/) (2026-02-16)
 - [After all the hype, some AI experts don’t think OpenClaw is all that exciting](https://techcrunch.com/2026/02/16/after-all-the-hype-some-ai-experts-dont-think-openclaw-is-all-that-exciting/) (2026-02-16)
 - [Fractal Analytics’ muted IPO debut signals persistent AI fears in India](https://techcrunch.com/2026/02/16/fractal-analytics-muted-ipo-debut-signals-persistent-ai-fears-in-india/) (2026-02-16)
-- [All the important news from the ongoing India AI Impact Summit](https://techcrunch.com/2026/02/16/all-the-important-news-from-the-ongoing-india-ai-summit/) (2026-02-16)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Privilege Is Bad Grammar](https://tadaima.bearblog.dev/privilege-is-bad-grammar/) (2026-02-16)
-- [Castlevania and Bloodstained developer Shutaro Ida dies aged 52](https://www.dexerto.com/gaming/castlevania-and-bloodstained-developer-shutaro-ida-dies-aged-52-3319349/) (2026-02-16)
-- [I guess I kinda get why people hate AI](https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html) (2026-02-16)
-- [WebMCP Proposal](https://webmachinelearning.github.io/webmcp/) (2026-02-16)
-- [How to take a photo with scotch tape (lensless imaging) [video]](https://www.youtube.com/watch?v=97f0nfU5Px0) (2026-02-16)
+- [Dark web agent spotted bedroom wall clue to rescue girl from abuse](https://www.bbc.com/news/articles/cx2gn239exlo) (2026-02-17)
+- [AI is destroying Open Source, and it's not even good yet](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/) (2026-02-17)
+- [Show HN: Andrej Karpathy's microgpt.py to C99 microgpt.c – 4,600x faster](https://github.com/enjector/microgpt-c) (2026-02-17)
+- [Building for an audience of one: starting and finishing side projects with AI](https://codemade.net/blog/building-for-one/) (2026-02-17)
+- [Show HN: Scanned 1927-1945 Daily USFS Work Diary](https://forestrydiary.com/) (2026-02-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Apple starts testing end-to-end encrypted RCS messages on iPhone](https://www.theverge.com/tech/879792/apple-iphone-android-rcs-messages-end-to-end-encrypted) (2026-02-16)
+- [Apple’s Podcasts app will let you ‘seamlessly’ switch between audio and video shows](https://www.theverge.com/tech/879749/apple-podcasts-video-swap-hls-live-streaming) (2026-02-16)
 - [Here are 50 Presidents Day deals actually worth shopping for](https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026) (2026-02-16)
 - [Apple’s doing something on March 4th](https://www.theverge.com/tech/879671/apple-special-experience-event-march-2026) (2026-02-16)
 - [Let&#8217;s talk about Ring, lost dogs, and the surveillance state](https://www.theverge.com/podcast/879203/ring-search-party-super-bowl-ai-surveillance-privacy-security) (2026-02-16)
-- [Switch 2 pricing and next PlayStation release could be impacted by memory shortage](https://www.theverge.com/tech/879668/sony-playstation-nintendo-switch-2-console-memory-shortage) (2026-02-16)
-- [Samsung ad confirms rumors of a useful S26 ‘privacy display’](https://www.theverge.com/gadgets/879652/samsung-galaxy-s26-privacy-display-ad-flex-magic-pixel) (2026-02-16)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Get ready for new Macs and iPads: Apple announces "Special Experience" on March 4](https://arstechnica.com/apple/2026/02/get-ready-for-new-macs-and-ipads-apple-announces-special-experience-on-march-4/) (2026-02-16)
+- [Best Buy worker used manager’s code to get 99% off MacBooks, cops say](https://arstechnica.com/tech-policy/2026/02/best-buy-worker-used-managers-code-to-get-99-off-macbooks-cops-say/) (2026-02-16)
+- [ByteDance backpedals after Seedance 2.0 turned Hollywood icons into AI “clip art”](https://arstechnica.com/tech-policy/2026/02/bytedance-backpedals-after-seedance-2-0-turned-hollywood-icons-into-ai-clip-art/) (2026-02-16)
+- [A fluid can store solar energy and then release it as heat months later](https://arstechnica.com/science/2026/02/dna-inspired-molecule-breaks-records-for-storing-solar-heat/) (2026-02-16)
 - [Michigan antitrust lawsuit says oil companies hobbled EVs and renewables](https://arstechnica.com/tech-policy/2026/02/michigan-accuses-oil-companies-of-antitrust-violations-in-climate-change-lawsuit/) (2026-02-16)
-- [Sideways on the ice, in a supercar: Stability control is getting very good](https://arstechnica.com/features/2026/02/learning-the-limits-of-stability-control-on-a-frozen-lake-in-a-mclaren/) (2026-02-16)
-- [Space Station returns to a full crew complement after a month](https://arstechnica.com/space/2026/02/space-station-returns-to-a-full-crew-complement-after-a-month/) (2026-02-15)
-- [Ancient Mars was warm and wet, not cold and icy](https://arstechnica.com/science/2026/02/ancient-mars-was-warm-and-wet-not-cold-and-icy/) (2026-02-15)
-- [Editor’s Note: Retraction of article containing fabricated quotations](https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/) (2026-02-15)
 
 </details>
 
@@ -97,44 +97,44 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Mastering Git Internals: A Guide to Git Reset, Rebase, Merge & Reflog](https://dev.to/ari-ghosh/mastering-git-internals-a-guide-to-git-reset-rebase-merge-reflog-i11) (2026-02-16)
-- [Your Phone Already Has the Hardware to Prove a Photo Is Real. Nothing Uses It.](https://dev.to/franciscuo/your-phone-already-has-the-hardware-to-prove-a-photo-is-real-nothing-uses-it-3ik6) (2026-02-16)
-- [Building a Gemini-Powered Robotics Simulator in the Browser with MuJoCo WASM](https://dev.to/googleai/building-a-gemini-powered-robotics-simulator-in-the-browser-with-mujoco-wasm-hjj) (2026-02-16)
-- [AV1 vs VP9 vs VP8: Codec Comparison Guide 2025](https://dev.to/red5/av1-vs-vp9-vs-vp8-codec-comparison-guide-2025-497j) (2026-02-16)
-- [Solving Cross-Origin Cookies](https://dev.to/freddster14/solving-cross-origin-cookies-54j8) (2026-02-16)
+- [New devs with real projects — are you struggling to get hired too?](https://dev.to/israelrotimi/new-devs-with-real-projects-are-you-struggling-to-get-hired-too-4544) (2026-02-17)
+- [Cloudflare Bot Fight Mode Breaks Zapier OAuth (And How to Fix It)](https://dev.to/anand_rathnas_d5b608cc3de/cloudflare-bot-fight-mode-breaks-zapier-oauth-and-how-to-fix-it-2429) (2026-02-17)
+- [Privacy First: Chat with Your Medical Reports Locally using Llama-3 and MLX on Mac 🍎](https://dev.to/wellallytech/privacy-first-chat-with-your-medical-reports-locally-using-llama-3-and-mlx-on-mac-3616) (2026-02-17)
+- [Simulating Blackjack the Hard Way](https://dev.to/influx/simulating-blackjack-the-hard-way-395p) (2026-02-17)
+- [Dispatch From the Other Side: From Scripts to Software](https://dev.to/prince_of_pasta/dispatch-from-the-other-side-from-scripts-to-software-2md8) (2026-02-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How to Become an Irreplaceable Full Stack Developer](https://medium.com/@nazlakhayra/how-to-become-an-irreplaceable-full-stack-developer-1e44e4439f9e?source=rss------programming-5) (2026-02-16)
-- [The Tech Abbreviations Every Developer Should Truly Understand](https://medium.com/@maibhushan/the-tech-abbreviations-every-developer-should-truly-understand-e035a7fa2afb?source=rss------programming-5) (2026-02-16)
-- [Full Stack Developer’s Guide to AI: From ChatGPT to GitHub Copilot in Daily Workflow](https://blog.devgenius.io/full-stack-developers-guide-to-ai-from-chatgpt-to-github-copilot-in-daily-workflow-c8a745144aa9?source=rss------programming-5) (2026-02-16)
-- [The boring AI future](https://medium.com/@mpuig/the-boring-ai-future-57eeabdb77e2?source=rss------programming-5) (2026-02-16)
-- [Common Mistakes Beginners Make with Python Lists, Dictionaries, and Sets (and How to Avoid Them)](https://medium.com/@shaiktoufiqbasha06/common-mistakes-beginners-make-with-python-lists-dictionaries-and-sets-and-how-to-avoid-them-2356a1f4f8d6?source=rss------programming-5) (2026-02-16)
+- [Flutter Feels Clean… Until Real Users Touch It](https://devharshmittal.medium.com/flutter-feels-clean-until-real-users-touch-it-3ad53c7c5af0?source=rss------programming-5) (2026-02-17)
+- [5 Kotlin Internals You Should Know](https://proandroiddev.com/5-kotlin-internals-you-should-know-d4bab319d4ef?source=rss------programming-5) (2026-02-17)
+- [Git 101](https://medium.com/@anmol_tomer/git-101-72d8509ba2b1?source=rss------programming-5) (2026-02-17)
+- [GraalVM vs Traditional JVM for Spring Boot: A Performance Deep Dive](https://medium.com/@anmol_tomer/graalvm-vs-traditional-jvm-for-spring-boot-a-performance-deep-dive-20705c530fe7?source=rss------programming-5) (2026-02-17)
+- [JavaScript Concurrency Patterns I Learned After Shipping 12 Production Systems](https://medium.com/illumination/javascript-concurrency-patterns-i-learned-after-shipping-12-production-systems-2f9c5e5d4eb1?source=rss------programming-5) (2026-02-17)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Amazon EC2 Hpc8a Instances powered by 5th Gen AMD EPYC processors are now available](https://aws.amazon.com/blogs/aws/amazon-ec2-hpc8a-instances-powered-by-5th-gen-amd-epyc-processors-are-now-available/) (2026-02-16)
+- [Announcing Amazon SageMaker Inference for custom Amazon Nova models](https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-inference-for-custom-amazon-nova-models/) (2026-02-16)
 - [AWS Weekly Roundup: Amazon EC2 M8azn instances, new open weights models in Amazon Bedrock, and more (February 16, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-m8azn-instances-new-open-weights-models-in-amazon-bedrock-and-more-february-16-2026/) (2026-02-16)
 - [AWS Weekly Roundup: Claude Opus 4.6 in Amazon Bedrock, AWS Builder ID Sign in with Apple, and more (February 9, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-6-in-amazon-bedrock-aws-builder-id-sign-in-with-apple-and-more-february-9-2026/) (2026-02-09)
 - [Amazon EC2 C8id, M8id, and R8id instances with up to 22.8 TB local NVMe storage are generally available](https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/) (2026-02-04)
-- [AWS IAM Identity Center now supports multi-Region replication for AWS account access and application use](https://aws.amazon.com/blogs/aws/aws-iam-identity-center-now-supports-multi-region-replication-for-aws-account-access-and-application-use/) (2026-02-03)
-- [AWS Weekly Roundup: Amazon Bedrock agent workflows, Amazon SageMaker private connectivity, and more (February 2, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-agent-workflows-amazon-sagemaker-private-connectivity-and-more-february-2-2026/) (2026-02-02)
 
 </details>
 
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [The data behind the design: How Pantone built agentic AI with an AI-ready database](https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/) (2026-02-12)
+- [Agentic cloud operations: A new way to run the cloud](https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/) (2026-02-11)
+- [Can high-temperature superconductors transform the power infrastructure of datacenters?](https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/) (2026-02-10)
 - [Five Reasons to attend SQLCon](https://blog.fabric.microsoft.com/en-us/blog/32624) (2026-02-09)
 - [Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/) (2026-02-05)
-- [Enhanced storage resiliency with Azure NetApp Files Elastic zone-redundant service ](https://azure.microsoft.com/en-us/blog/enhanced-storage-resiliency-with-azure-netapp-files-elastic-zone-redundant-service/) (2026-02-04)
-- [PostgreSQL on Azure supercharged for AI](https://azure.microsoft.com/en-us/blog/postgresql-on-azure-supercharged-for-ai/) (2026-02-02)
-- [Maia 200: The AI accelerator built for inference](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) (2026-01-26)
 
 </details>
 
@@ -152,11 +152,11 @@
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [Get ready with the latest beta releases](https://developer.apple.com/news/?id=xgkk9w83) (2026-02-16)
 - [Updated App Review Guidelines now available](https://developer.apple.com/news/?id=d75yllv4) (2026-02-06)
 - [Swift Student Challenge submissions are now open](https://developer.apple.com/news/?id=f0xw4t5r) (2026-02-06)
 - [Hello Developer: February 2026](https://developer.apple.com/news/?id=6iajkgmp) (2026-02-03)
 - [Upcoming SDK minimum requirements](https://developer.apple.com/news/?id=ueeok6yw) (2026-02-03)
-- [Price updates for apps, In-App Purchases, and subscriptions](https://developer.apple.com/news/?id=gvnljl3f) (2026-01-29)
 
 </details>
 
@@ -505,11 +505,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/sending-rcs-cards
 <details>
 <summary>💬 Slack API</summary>
 
+- [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-02-13)
 - [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-02-13)
 - [How to Stay Organized at Work: Tips, Tricks, and Tools](https://slack.com/blog/productivity/how-to-stay-organized-at-work) (2026-02-13)
 - [Why We’ve Built the Future of CRM in Slack](https://slack.com/blog/transformation/ai-powered-conversational-crm) (2026-02-12)
 - [Work Faster and Smarter With AI Agents in Slack for Every Line of Business](https://slack.com/blog/productivity/slack-ai-agents-for-every-line-of-business) (2026-02-11)
-- [How Effective Project Status Updates and Tracking Transform Team Productivity](https://slack.com/blog/collaboration/top-methods-and-metrics-for-tracking-project-progress) (2026-02-09)
 
 </details>
 
