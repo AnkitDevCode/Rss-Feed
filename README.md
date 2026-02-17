@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [SvarDOS – an open-source DOS distribution](http://svardos.org/) (2026-02-17)
+- [Thinking Hard Burns Almost No Calories–But Destroys Your Next Workout](https://vo2maxpro.com/blog/thinking-hard-burns-no-calories-destroys-workout) (2026-02-17)
+- [Instagram boss says 16 hours of daily use is 'problematic' not addiction](https://www.bbc.com/news/articles/cn71mgmzljlo) (2026-02-17)
 - [Dark web agent spotted bedroom wall clue to rescue girl from abuse](https://www.bbc.com/news/articles/cx2gn239exlo) (2026-02-17)
-- [AI is destroying Open Source, and it's not even good yet](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/) (2026-02-17)
-- [Show HN: Andrej Karpathy's microgpt.py to C99 microgpt.c – 4,600x faster](https://github.com/enjector/microgpt-c) (2026-02-17)
 - [Building for an audience of one: starting and finishing side projects with AI](https://codemade.net/blog/building-for-one/) (2026-02-17)
-- [Show HN: Scanned 1927-1945 Daily USFS Work Diary](https://forestrydiary.com/) (2026-02-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Valve’s Steam Deck OLED will be ‘intermittently’ out of stock because of the RAM crisis](https://www.theverge.com/games/879845/valve-steam-deck-oled-out-of-stock-memory-storage-ram-crisis) (2026-02-17)
 - [Apple starts testing end-to-end encrypted RCS messages on iPhone](https://www.theverge.com/tech/879792/apple-iphone-android-rcs-messages-end-to-end-encrypted) (2026-02-16)
 - [Apple’s Podcasts app will let you ‘seamlessly’ switch between audio and video shows](https://www.theverge.com/tech/879749/apple-podcasts-video-swap-hls-live-streaming) (2026-02-16)
 - [Here are 50 Presidents Day deals actually worth shopping for](https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026) (2026-02-16)
 - [Apple’s doing something on March 4th](https://www.theverge.com/tech/879671/apple-special-experience-event-march-2026) (2026-02-16)
-- [Let&#8217;s talk about Ring, lost dogs, and the surveillance state](https://www.theverge.com/podcast/879203/ring-search-party-super-bowl-ai-surveillance-privacy-security) (2026-02-16)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Data is the new oil, and your database is the only way to extract it](https://stackoverflow.blog/2026/02/17/data-is-the-new-oil/) (2026-02-17)
 - [Even your voice is a data problem](https://stackoverflow.blog/2026/02/13/even-your-voice-is-a-data-problem/) (2026-02-13)
 - [How everyone and anyone can use AI for good](https://stackoverflow.blog/2026/02/12/how-everyone-and-anyone-can-use-ai-for-good/) (2026-02-12)
 - [Is anyone using AI for good?](https://stackoverflow.blog/2026/02/11/is-anyone-using-ai-for-good/) (2026-02-11)
 - [The logos, ethos, and pathos of your LLMs](https://stackoverflow.blog/2026/02/10/the-logos-ethos-and-pathos-of-your-llms/) (2026-02-10)
-- [Why demand for code is infinite: How AI creates more developer jobs](https://stackoverflow.blog/2026/02/09/why-demand-for-code-is-infinite-how-ai-creates-more-developer-jobs/) (2026-02-09)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [New devs with real projects — are you struggling to get hired too?](https://dev.to/israelrotimi/new-devs-with-real-projects-are-you-struggling-to-get-hired-too-4544) (2026-02-17)
-- [Cloudflare Bot Fight Mode Breaks Zapier OAuth (And How to Fix It)](https://dev.to/anand_rathnas_d5b608cc3de/cloudflare-bot-fight-mode-breaks-zapier-oauth-and-how-to-fix-it-2429) (2026-02-17)
-- [Privacy First: Chat with Your Medical Reports Locally using Llama-3 and MLX on Mac 🍎](https://dev.to/wellallytech/privacy-first-chat-with-your-medical-reports-locally-using-llama-3-and-mlx-on-mac-3616) (2026-02-17)
-- [Simulating Blackjack the Hard Way](https://dev.to/influx/simulating-blackjack-the-hard-way-395p) (2026-02-17)
-- [Dispatch From the Other Side: From Scripts to Software](https://dev.to/prince_of_pasta/dispatch-from-the-other-side-from-scripts-to-software-2md8) (2026-02-17)
+- [MQTT Explained in Simple Terms: The Lightweight Protocol That Powers the Entire IoT World](https://dev.to/amanprasad/mqtt-explained-in-simple-terms-the-lightweight-protocol-that-powers-the-entire-iot-world-142p) (2026-02-17)
+- [What's the most useful micro tool you've built for yourself?](https://dev.to/maxxmini/whats-the-most-useful-micro-tool-youve-built-for-yourself-4jff) (2026-02-17)
+- [I Built Digg X: A Chrome Extension That Turns X Bookmarks into a Searchable AI Research Inbox](https://dev.to/infz/i-built-digg-x-a-chrome-extension-that-turns-x-bookmarks-into-a-searchable-ai-research-inbox-71i) (2026-02-17)
+- [I Built a Privacy-First Collection of Browser-Based Dev Tools](https://dev.to/bussardramjet/i-built-a-privacy-first-collection-of-browser-based-dev-tools-1bn) (2026-02-17)
+- [Two ClickHouse Internals That Change How You Write Queries](https://dev.to/mohhddhassan/two-clickhouse-internals-that-change-how-you-write-queries-5ea5) (2026-02-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Flutter Feels Clean… Until Real Users Touch It](https://devharshmittal.medium.com/flutter-feels-clean-until-real-users-touch-it-3ad53c7c5af0?source=rss------programming-5) (2026-02-17)
-- [5 Kotlin Internals You Should Know](https://proandroiddev.com/5-kotlin-internals-you-should-know-d4bab319d4ef?source=rss------programming-5) (2026-02-17)
-- [Git 101](https://medium.com/@anmol_tomer/git-101-72d8509ba2b1?source=rss------programming-5) (2026-02-17)
-- [GraalVM vs Traditional JVM for Spring Boot: A Performance Deep Dive](https://medium.com/@anmol_tomer/graalvm-vs-traditional-jvm-for-spring-boot-a-performance-deep-dive-20705c530fe7?source=rss------programming-5) (2026-02-17)
-- [JavaScript Concurrency Patterns I Learned After Shipping 12 Production Systems](https://medium.com/illumination/javascript-concurrency-patterns-i-learned-after-shipping-12-production-systems-2f9c5e5d4eb1?source=rss------programming-5) (2026-02-17)
+- [I Built 3 Python Scripts That Made $15,000. Here Is the Code.](https://medium.com/@inprogrammer/i-built-3-python-scripts-that-made-15-000-here-is-the-code-da8f0e2b5f46?source=rss------programming-5) (2026-02-17)
+- [Angular Felt Verbose Until We Compared 3 Rewrites](https://medium.com/@pmLearners/angular-felt-verbose-until-we-compared-3-rewrites-c3a5a52cfbb6?source=rss------programming-5) (2026-02-17)
+- [We Gave Kubernetes an LLM Brain. Now It Fixes Itself Before We Know It’s Broken.](https://aws.plainenglish.io/we-gave-kubernetes-an-llm-brain-now-it-fixes-itself-before-we-know-its-broken-79a523c829c9?source=rss------programming-5) (2026-02-17)
+- [5 Modern C++ Features That Felt Weird at First… But Now I Can’t Live Without Them](https://medium.com/codetodeploy/5-modern-c-features-that-felt-weird-at-first-but-now-i-cant-live-without-them-d8e86c79125d?source=rss------programming-5) (2026-02-17)
+- [Understanding Stack Data Structure in Python](https://medium.com/@dhanalilly02/understanding-stack-data-structure-in-python-770c033791da?source=rss------programming-5) (2026-02-17)
 
 </details>
 
