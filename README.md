@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [As AI jitters rattle IT stocks, Infosys partners with Anthropic to build ‘enterprise-grade’ AI agents](https://techcrunch.com/2026/02/17/as-ai-jitters-rattle-it-stocks-infosys-partners-with-anthropic-to-build-enterprise-grade-ai-agents/) (2026-02-17)
+- [Cohere launches a family of open multilingual models](https://techcrunch.com/2026/02/17/cohere-launches-a-family-of-open-multilingual-models/) (2026-02-17)
 - [Have money, will travel: a16z’s hunt for the next European unicorn](https://techcrunch.com/2026/02/16/have-money-will-travel-a16zs-hunt-for-the-next-european-unicorn/) (2026-02-16)
 - [How Ricursive Intelligence raised $335M at a $4B valuation in 4 months](https://techcrunch.com/2026/02/16/how-ricursive-intelligence-raised-335m-at-a-4b-valuation-in-4-months/) (2026-02-16)
 - [Flapping Airplanes on the future of AI: ‘We want to try really radically different things’](https://techcrunch.com/2026/02/16/flapping-airplanes-on-the-future-of-ai-we-want-to-try-really-radically-different-things/) (2026-02-16)
-- [After all the hype, some AI experts don’t think OpenClaw is all that exciting](https://techcrunch.com/2026/02/16/after-all-the-hype-some-ai-experts-dont-think-openclaw-is-all-that-exciting/) (2026-02-16)
-- [Fractal Analytics’ muted IPO debut signals persistent AI fears in India](https://techcrunch.com/2026/02/16/fractal-analytics-muted-ipo-debut-signals-persistent-ai-fears-in-india/) (2026-02-16)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [SvarDOS – an open-source DOS distribution](http://svardos.org/) (2026-02-17)
-- [Thinking Hard Burns Almost No Calories–But Destroys Your Next Workout](https://vo2maxpro.com/blog/thinking-hard-burns-no-calories-destroys-workout) (2026-02-17)
-- [Instagram boss says 16 hours of daily use is 'problematic' not addiction](https://www.bbc.com/news/articles/cn71mgmzljlo) (2026-02-17)
-- [Dark web agent spotted bedroom wall clue to rescue girl from abuse](https://www.bbc.com/news/articles/cx2gn239exlo) (2026-02-17)
-- [Building for an audience of one: starting and finishing side projects with AI](https://codemade.net/blog/building-for-one/) (2026-02-17)
+- [How the Kakistocracy Became a Quackistocracy](https://paulkrugman.substack.com/p/how-the-kakistocracy-became-a-quackistocracy) (2026-02-17)
+- [Is Show HN Dead? No, but It's Drowning](https://www.arthurcnops.blog/death-of-show-hn/) (2026-02-17)
+- [GrapheneOS – Break Free from Google and Apple](https://blog.tomaszdunia.pl/grapheneos-eng/) (2026-02-17)
+- [Xbox UI Portfolio Site](https://gabrielcabrera.co/) (2026-02-17)
+- [Poor Deming never stood a chance](https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/) (2026-02-17)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Who needs a laptop when you have a folding phone?](https://www.theverge.com/tech/878485/samsung-galaxy-z-fold-7-travel-keyboard-logitech-laptop-replacement) (2026-02-17)
+- [Samsung is slopping AI ads all over its social channels](https://www.theverge.com/tech/879864/samsung-ai-generated-edited-video-ads-slop) (2026-02-17)
 - [Valve’s Steam Deck OLED will be ‘intermittently’ out of stock because of the RAM crisis](https://www.theverge.com/games/879845/valve-steam-deck-oled-out-of-stock-memory-storage-ram-crisis) (2026-02-17)
 - [Apple starts testing end-to-end encrypted RCS messages on iPhone](https://www.theverge.com/tech/879792/apple-iphone-android-rcs-messages-end-to-end-encrypted) (2026-02-16)
 - [Apple’s Podcasts app will let you ‘seamlessly’ switch between audio and video shows](https://www.theverge.com/tech/879749/apple-podcasts-video-swap-hls-live-streaming) (2026-02-16)
-- [Here are 50 Presidents Day deals actually worth shopping for](https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026) (2026-02-16)
-- [Apple’s doing something on March 4th](https://www.theverge.com/tech/879671/apple-special-experience-event-march-2026) (2026-02-16)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The curious case of the disappearing Lamborghinis](https://www.technologyreview.com/2026/02/17/1132538/curious-case-disappearing-lambhorghinis/) (2026-02-17)
 - [Tuning into the future of collaboration ](https://www.technologyreview.com/2026/02/16/1125881/tuning-into-the-future-of-collaboration/) (2026-02-16)
 - [The Download: unraveling a death threat mystery, and AI voice recreation for musicians](https://www.technologyreview.com/2026/02/16/1133008/the-download-unraveling-a-death-threat-mystery-and-ai-voice-recreation-for-musicians/) (2026-02-16)
 - [The scientist using AI to hunt for antibiotics just about everywhere](https://www.technologyreview.com/2026/02/16/1132516/cesar-de-la-fuente-using-ai-antibiotics-hunt/) (2026-02-16)
 - [Hackers made death threats against this security researcher. Big mistake.](https://www.technologyreview.com/2026/02/16/1132526/allison-nixon-hackers-security-researcher/) (2026-02-16)
-- [ALS stole this musician’s voice. AI let him sing again.](https://www.technologyreview.com/2026/02/13/1132913/als-stole-this-musicians-voice-ai-sing/) (2026-02-13)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [MQTT Explained in Simple Terms: The Lightweight Protocol That Powers the Entire IoT World](https://dev.to/amanprasad/mqtt-explained-in-simple-terms-the-lightweight-protocol-that-powers-the-entire-iot-world-142p) (2026-02-17)
-- [What's the most useful micro tool you've built for yourself?](https://dev.to/maxxmini/whats-the-most-useful-micro-tool-youve-built-for-yourself-4jff) (2026-02-17)
-- [I Built Digg X: A Chrome Extension That Turns X Bookmarks into a Searchable AI Research Inbox](https://dev.to/infz/i-built-digg-x-a-chrome-extension-that-turns-x-bookmarks-into-a-searchable-ai-research-inbox-71i) (2026-02-17)
-- [I Built a Privacy-First Collection of Browser-Based Dev Tools](https://dev.to/bussardramjet/i-built-a-privacy-first-collection-of-browser-based-dev-tools-1bn) (2026-02-17)
-- [Two ClickHouse Internals That Change How You Write Queries](https://dev.to/mohhddhassan/two-clickhouse-internals-that-change-how-you-write-queries-5ea5) (2026-02-17)
+- [GO-RELOADED PROJECT (article)](https://dev.to/ashomondi/go-reloaded-project-article-4bea) (2026-02-17)
+- [I Built a Security Firewall for AI Agents — Here's Why Every MCP Server Needs One](https://dev.to/yalelet_dessalegn_b87ed18/i-built-a-security-firewall-for-ai-agents-heres-why-every-mcp-server-needs-one-16ek) (2026-02-17)
+- [The most valuable skill in 2026 isn't writing code. It is deleting it.](https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1) (2026-02-17)
+- [Introducing Quackback: Open-Source Feedback Platform with a Built-in MCP Server](https://dev.to/mortondev/introducing-quackback-open-source-feedback-platform-with-a-built-in-mcp-server-mo3) (2026-02-17)
+- [Evaluating GitHub Agentic Workflows — From a Claude Code User's Perspective [Part 10]](https://dev.to/kochan/evaluating-github-agentic-workflows-from-a-claude-code-users-perspective-part-10-4fnm) (2026-02-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Built 3 Python Scripts That Made $15,000. Here Is the Code.](https://medium.com/@inprogrammer/i-built-3-python-scripts-that-made-15-000-here-is-the-code-da8f0e2b5f46?source=rss------programming-5) (2026-02-17)
-- [Angular Felt Verbose Until We Compared 3 Rewrites](https://medium.com/@pmLearners/angular-felt-verbose-until-we-compared-3-rewrites-c3a5a52cfbb6?source=rss------programming-5) (2026-02-17)
-- [We Gave Kubernetes an LLM Brain. Now It Fixes Itself Before We Know It’s Broken.](https://aws.plainenglish.io/we-gave-kubernetes-an-llm-brain-now-it-fixes-itself-before-we-know-its-broken-79a523c829c9?source=rss------programming-5) (2026-02-17)
-- [5 Modern C++ Features That Felt Weird at First… But Now I Can’t Live Without Them](https://medium.com/codetodeploy/5-modern-c-features-that-felt-weird-at-first-but-now-i-cant-live-without-them-d8e86c79125d?source=rss------programming-5) (2026-02-17)
-- [Understanding Stack Data Structure in Python](https://medium.com/@dhanalilly02/understanding-stack-data-structure-in-python-770c033791da?source=rss------programming-5) (2026-02-17)
+- [I Built 8 Python Micro-Tools That Make Me Money While I Sleep](https://blog.stackademic.com/i-built-8-python-micro-tools-that-make-me-money-while-i-sleep-26bde0316c7b?source=rss------programming-5) (2026-02-17)
+- [How Sam’s Club Achieved Zero Downtime on Azure.](https://medium.com/@daverendon/how-sams-club-achieved-zero-downtime-on-azure-5b47fca6ab79?source=rss------programming-5) (2026-02-17)
+- [7 Advanced Mistakes Killing Your Laravel SaaS](https://codermanjeet.medium.com/7-advanced-mistakes-killing-your-laravel-saas-a08c847d81f5?source=rss------programming-5) (2026-02-17)
+- [Why Your “AI-First” Strategy Is Actually Slowing You Down](https://medium.com/@ruchitsuthar/why-your-ai-first-strategy-is-actually-slowing-you-down-31a5a3b944fe?source=rss------programming-5) (2026-02-17)
+- [Deep Dive into AWS Lambda (2): Lambda Bootstrap Exception Handling: Failure, Timeout Behavior…](https://medium.com/@iwondersoap/deep-dive-into-aws-lambda-2-lambda-bootstrap-exception-handling-failure-timeout-behavior-5246955d881a?source=rss------programming-5) (2026-02-17)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [The Most Popular AI Tools: What Developers Use and Why](https://blog.jetbrains.com/ai/2026/02/the-most-popular-ai-tools-what-developers-use-and-why/) (2026-02-17)
 - [Say Goodbye to “It Works on My Machine”: A Look at TeamCity’s Pretested Commits](https://blog.jetbrains.com/teamcity/2026/02/say-goodbye-to-works-on-my-machine/) (2026-02-13)
 - [Moving Your Codebase to Go 1.26 With GoLand Syntax Updates](https://blog.jetbrains.com/go/2026/02/13/moving-your-codebase-to-go-1-26-with-goland-syntax-updates/) (2026-02-13)
 - [Building Modular Monoliths With Kotlin and Spring](https://blog.jetbrains.com/kotlin/2026/02/building-modular-monoliths-with-kotlin-and-spring/) (2026-02-13)
 - [JetBrains Academy – February Digest](https://blog.jetbrains.com/education/2026/02/12/jetbrains-academy-february-2026/) (2026-02-12)
-- [Markdown in Scaladoc is now supported by IntelliJ IDEA!](https://blog.jetbrains.com/scala/2026/02/12/markdown-in-scaladoc/) (2026-02-12)
 
 </details>
 
@@ -505,11 +505,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/sending-rcs-cards
 <details>
 <summary>💬 Slack API</summary>
 
-- [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-02-13)
 - [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-02-13)
 - [How to Stay Organized at Work: Tips, Tricks, and Tools](https://slack.com/blog/productivity/how-to-stay-organized-at-work) (2026-02-13)
 - [Why We’ve Built the Future of CRM in Slack](https://slack.com/blog/transformation/ai-powered-conversational-crm) (2026-02-12)
 - [Work Faster and Smarter With AI Agents in Slack for Every Line of Business](https://slack.com/blog/productivity/slack-ai-agents-for-every-line-of-business) (2026-02-11)
+- [How Effective Project Status Updates and Tracking Transform Team Productivity](https://slack.com/blog/collaboration/top-methods-and-metrics-for-tracking-project-progress) (2026-02-09)
 
 </details>
 
@@ -560,11 +560,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/sending-rcs-cards
 <details>
 <summary>🤖 AI News</summary>
 
+- [Goldman Sachs deploys Anthropic systems with success](https://www.artificialintelligence-news.com/news/goldman-sachs-ai-deploys-anthropic-systems-with-success/) (2026-02-17)
 - [Banking AI in multiple business functions at NatWest](https://www.artificialintelligence-news.com/news/banking-ai-in-multiple-business-functions-at-natwest/) (2026-02-16)
 - [Debenhams pilots agentic AI commerce via PayPal integration](https://www.artificialintelligence-news.com/news/debenhams-pilots-agentic-ai-commerce-paypal-integration/) (2026-02-16)
 - [URBN tests agentic AI to automate retail reporting](https://www.artificialintelligence-news.com/news/urbn-tests-agentic-ai-to-automate-retail-reporting/) (2026-02-16)
 - [AI forecasting model targets healthcare resource efficiency](https://www.artificialintelligence-news.com/news/ai-forecasting-model-targets-healthcare-resource-efficiency/) (2026-02-13)
-- [What Murder Mystery 2 reveals about emergent behaviour in online games](https://www.artificialintelligence-news.com/news/what-murder-mystery-2-reveals-about-emergent-behaviour-in-online-games/) (2026-02-13)
 
 </details>
 
@@ -604,11 +604,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/sending-rcs-cards
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?](https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/) (2026-02-17)
 - [Top 7 Small Language Models You Can Run on a Laptop](https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/) (2026-02-16)
 - [Choosing Between PCA and t-SNE for Visualization](https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/) (2026-02-12)
 - [The Machine Learning Practitioner’s Guide to Speculative Decoding](https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/) (2026-02-11)
 - [Document Clustering with LLM Embeddings in Scikit-learn](https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/) (2026-02-10)
-- [The 7 Biggest Misconceptions About AI Agents (and Why They Matter)](https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/) (2026-02-09)
 
 </details>
 
