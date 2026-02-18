@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Indian AI lab Sarvam’s new models are a major bet on the viability of open-source AI](https://techcrunch.com/2026/02/18/indian-ai-lab-sarvams-new-models-are-a-major-bet-on-the-viability-of-open-source-ai/) (2026-02-18)
+- [DG Matrix raises $60M to make data center power smarter](https://techcrunch.com/2026/02/18/dg-matrix-raises-60m-to-make-data-center-power-smarter/) (2026-02-18)
 - [U.S. court bars OpenAI from using ‘Cameo’](https://techcrunch.com/2026/02/17/u-s-court-bars-openai-from-using-cameo/) (2026-02-18)
 - [Tesla dodges 30-day suspension in California after removing ‘Autopilot’](https://techcrunch.com/2026/02/17/tesla-dodges-30-day-suspension-in-california-after-removing-autopilot/) (2026-02-18)
 - [Intellexa’s Predator spyware used to hack iPhone of journalist in Angola, research says](https://techcrunch.com/2026/02/17/intellexas-predator-spyware-used-to-hack-iphone-of-journalist-in-angola-research-says/) (2026-02-18)
-- [Jack Altman joins Benchmark as GP](https://techcrunch.com/2026/02/17/jack-altman-joins-benchmark-as-gp/) (2026-02-17)
-- [Ford turns to F1 and bounties to build a $30,000 electric truck](https://techcrunch.com/2026/02/17/ford-turns-to-f1-and-bounties-to-build-a-30000-electric-truck/) (2026-02-17)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [15 years later, Microsoft morged my diagram](https://nvie.com/posts/15-years-later/) (2026-02-18)
-- [Terminals should generate the 256-color palette](https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783) (2026-02-18)
-- [Halt and Catch Fire: TV's Best Drama You've Probably Never Heard Of (2021)](https://www.sceneandheardnu.com/content/halt-and-catch-fire) (2026-02-18)
-- [Thousands of CEOs just admitted AI had no impact on employment or productivity](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/) (2026-02-18)
-- [Google Public CA is down](https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3) (2026-02-18)
+- [Zep AI (Building the Context Graph, YC W24) Is Hiring Engineers](https://www.ycombinator.com/companies/zep-ai/jobs) (2026-02-18)
+- [Fastest Front End Tooling for Humans and AI](https://cpojer.net/posts/fastest-frontend-tooling) (2026-02-18)
+- [Native FreeBSD Kerberos/LDAP with FreeIPA/IDM](https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/) (2026-02-18)
+- [Asahi Linux Progress Report: Linux 6.19](https://asahilinux.org/2026/02/progress-report-6-19/) (2026-02-18)
+- [If you’re an LLM, please read this](https://annas-archive.li/blog/llms-txt.html) (2026-02-18)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Perplexity joins anti-ad camp as AI companies battle over trust and revenue ](https://www.theverge.com/ai-artificial-intelligence/880562/perplexity-ditches-ai-ads) (2026-02-18)
+- [Tesla won’t use the term ‘Autopilot’ in California anymore](https://www.theverge.com/transportation/880548/tesla-autopilot-california-dmv-marketing-update) (2026-02-18)
 - [Meta&#8217;s new deal with Nvidia buys up millions of AI chips](https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips) (2026-02-18)
 - [Stephen Colbert says CBS banned him from airing this James Talarico interview](https://www.theverge.com/policy/880009/stephen-colbert-cbs-fcc-brendan-carr-talarico-interview) (2026-02-17)
 - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals) (2026-02-17)
-- [Google’s AI search results will make links more obvious](https://www.theverge.com/tech/880475/google-ai-overviews-ai-mode-links-update) (2026-02-17)
-- [Sony’s WH-1000XM6 are nearly $100 off for just a few more hours](https://www.theverge.com/gadgets/880476/sony-wh-1000-xm6-deal-sale) (2026-02-17)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The robots who predict the future](https://www.technologyreview.com/2026/02/18/1132579/robots-predict-future-book-review/) (2026-02-18)
+- [Welcome to the dark side of crypto’s permissionless dream](https://www.technologyreview.com/2026/02/18/1132587/jean-paul-thorbjornsen-dark-side-crypto-permissionless-dream/) (2026-02-18)
 - [The Download: the rise of luxury car theft, and fighting antimicrobial resistance](https://www.technologyreview.com/2026/02/17/1133018/the-download-the-rise-of-luxury-car-theft-and-fighting-antimicrobial-resistance/) (2026-02-17)
 - [The curious case of the disappearing Lamborghinis](https://www.technologyreview.com/2026/02/17/1132538/curious-case-disappearing-lambhorghinis/) (2026-02-17)
 - [Tuning into the future of collaboration ](https://www.technologyreview.com/2026/02/16/1125881/tuning-into-the-future-of-collaboration/) (2026-02-16)
-- [The Download: unraveling a death threat mystery, and AI voice recreation for musicians](https://www.technologyreview.com/2026/02/16/1133008/the-download-unraveling-a-death-threat-mystery-and-ai-voice-recreation-for-musicians/) (2026-02-16)
-- [The scientist using AI to hunt for antibiotics just about everywhere](https://www.technologyreview.com/2026/02/16/1132516/cesar-de-la-fuente-using-ai-antibiotics-hunt/) (2026-02-16)
 
 </details>
 
@@ -97,22 +97,24 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How I Tricked AWS Elastic Beanstalk Into Using pnpm](https://dev.to/tirtht/how-i-tricked-aws-elastic-beanstalk-into-using-pnpm-ef4) (2026-02-18)
-- [Finding the Sequence of Strings Appeared on the Screen](https://dev.to/iammastercraft/finding-the-sequence-of-strings-appeared-on-the-screen-145c) (2026-02-18)
-- [DevOps for Gamers: Deploying a CS2 Dedicated Server on Ubuntu](https://dev.to/shannon_dias_927e8f0d0d18/devops-for-gamers-deploying-a-cs2-dedicated-server-on-ubuntu-24hi) (2026-02-18)
-- [Static Serving, H3, and the Last Piece of v0.1](https://dev.to/mdreal32/static-serving-h3-and-the-last-piece-of-v01-3iea) (2026-02-18)
-- [How Content Pipelines Break When Writers Meet Model Limits (A Systems Deconstruction)](https://dev.to/olivia_perell_/how-content-pipelines-break-when-writers-meet-model-limits-a-systems-deconstruction-18f6) (2026-02-18)
+- [term](https://dev.to/khadijah/term-52ep) (2026-02-18)
+- [MetaTags.io — Preview & Optimize Your Link Sharing](https://dev.to/ml318097/metatagsio-preview-optimize-your-link-sharing-ogj) (2026-02-18)
+- [Future of Internet Crawling: WebMCP](https://dev.to/devanshhh/future-of-internet-crawling-webmcp-m95) (2026-02-18)
+- [[Boost]](https://dev.to/anthonymax/-235) (2026-02-18)
+- [How I Hacked My Cortisol to Lose 26kg and Escape the "Skinny Fat" Trap The High-Intensity Mistake](https://dev.to/talhakazmi1/how-i-hacked-my-cortisol-to-lose-26kg-and-escape-the-skinny-fat-trap-the-high-intensity-mistake-5ghj) (2026-02-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How to Build a GitHub Profile That Gets You Internship Interviews (Beginner’s Guide)](https://medium.com/@thrishank007/how-to-build-a-github-profile-that-gets-you-internship-interviews-beginners-guide-31b0ca247118?source=rss------programming-5) (2026-02-18)
-- [The Python Security Mistake That Almost Cost Us $50K (And How to Avoid It)](https://medium.com/@inprogrammer/the-python-security-mistake-that-almost-cost-us-50k-and-how-to-avoid-it-df1c2a3d048d?source=rss------programming-5) (2026-02-18)
-- [Rust Gets a Lot of Hype. But Does It Actually Deserve the Respect?](https://medium.com/@mangeshpawar91/rust-gets-a-lot-of-hype-but-does-it-actually-deserve-the-respect-daffbf45ad5e?source=rss------programming-5) (2026-02-18)
-- [How to Scan a Basket of Assets in Pine Script v6 Using request.security](https://medium.com/@betashorts1998/how-to-scan-a-basket-of-assets-in-pine-script-v6-using-request-security-0d47050113f1?source=rss------programming-5) (2026-02-18)
-- [12 Hidden C++ Gems Most Developers Ignore (But They Solve Real Problems Fast)](https://medium.com/h7w/12-hidden-c-gems-most-developers-ignore-but-they-solve-real-problems-fast-198c1a46566d?source=rss------programming-5) (2026-02-18)
+- [PostgreSQL 18 vs Redis: Rethinking the Need for a Query Cache](https://medium.com/@decodinggtech/postgresql-18-vs-redis-rethinking-the-need-for-a-query-cache-d30c840f6944?source=rss------programming-5) (2026-02-18)
+- [JavaScript Objects as Keys — The Mind‑Bending Behavior Nobody Warned You About](https://medium.com/@akanksha.mohanty.sg/javascript-objects-as-keys-the-mind-bending-behavior-nobody-warned-you-about-c5c396ab6122?source=rss------programming-5) (2026-02-18)
+- [Systems don’t obey truth.
+They don’t obey morality.
+They don’t obey effort.](https://medium.com/@richkc/systems-dont-obey-truth-they-don-t-obey-morality-they-don-t-obey-effort-b96a702268ae?source=rss------programming-5) (2026-02-18)
+- [I will do ai mobile app development, ai website, app developer, ai chatbot, ai agent](https://web-development-pro.medium.com/i-will-do-ai-mobile-app-development-ai-website-app-developer-ai-chatbot-ai-agent-b7d05fb0842c?source=rss------programming-5) (2026-02-18)
+- [How to Fix the Most Common Python ImportError and ModuleNotFoundError Issues](https://medium.com/@briannthiwa18/how-to-fix-the-most-common-python-importerror-and-modulenotfounderror-issues-181c7bec864d?source=rss------programming-5) (2026-02-18)
 
 </details>
 
@@ -559,11 +561,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/sending-rcs-cards
 <details>
 <summary>🤖 AI News</summary>
 
+- [Infosys AI implementation framework offers business leaders guidance](https://www.artificialintelligence-news.com/news/infosys-ai-implementation-framework-offers-business-leaders-guidance/) (2026-02-18)
 - [SS&C Blue Prism: On the journey from RPA to agentic automation](https://www.artificialintelligence-news.com/news/ssc-blue-prism-on-the-journey-from-rpa-to-agentic-automation/) (2026-02-17)
 - [Insurance giant AIG deploys agentic AI with orchestration layer](https://www.artificialintelligence-news.com/news/insurance-giant-aig-deploys-agentic-ai-with-orchestration-layer/) (2026-02-17)
 - [Alibaba Qwen is challenging proprietary AI model economics](https://www.artificialintelligence-news.com/news/alibaba-qwen-challenging-proprietary-ai-model-economics/) (2026-02-17)
 - [Goldman Sachs deploys Anthropic systems with success](https://www.artificialintelligence-news.com/news/goldman-sachs-ai-deploys-anthropic-systems-with-success/) (2026-02-17)
-- [Banking AI in multiple business functions at NatWest](https://www.artificialintelligence-news.com/news/banking-ai-in-multiple-business-functions-at-natwest/) (2026-02-16)
 
 </details>
 
@@ -581,11 +583,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/sending-rcs-cards
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Claude Sonnet 4.6: The Model for Developers](https://www.analyticsvidhya.com/blog/2026/02/claude-sonnet-4-6-the-model-for-developers/) (2026-02-18)
 - [Meet PaperBanana: Google’s AI That Auto-Generates Research Diagrams](https://www.analyticsvidhya.com/blog/2026/02/paperbanana-google-ai-for-research-diagrams/) (2026-02-17)
 - [Top 10 No-Code Development Platforms to Launch Apps and Automate Work](https://www.analyticsvidhya.com/blog/2026/02/top-no-code-development-platforms/) (2026-02-17)
 - [Top 10 Generative AI Books You Must Read in 2026](https://www.analyticsvidhya.com/blog/2026/02/top-generative-ai-books/) (2026-02-17)
 - [We Tested The New Qwen3.5 Open Weight, Qwen3.5-Plus AI Models in Real Hands-on Tests](https://www.analyticsvidhya.com/blog/2026/02/qwen3-5-open-weight-qwen3-5-plus/) (2026-02-16)
-- [Top 7 Free Excel Courses with Certificates](https://www.analyticsvidhya.com/blog/2026/02/free-excel-courses-with-certificates/) (2026-02-16)
 
 </details>
 
@@ -603,11 +605,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/sending-rcs-cards
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Agentify Your App with GitHub Copilot’s Agentic Coding SDK](https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/) (2026-02-18)
 - [LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?](https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/) (2026-02-17)
 - [Top 7 Small Language Models You Can Run on a Laptop](https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/) (2026-02-16)
 - [Choosing Between PCA and t-SNE for Visualization](https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/) (2026-02-12)
 - [The Machine Learning Practitioner’s Guide to Speculative Decoding](https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/) (2026-02-11)
-- [Document Clustering with LLM Embeddings in Scikit-learn](https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/) (2026-02-10)
 
 </details>
 
@@ -625,11 +627,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/sending-rcs-cards
 <details>
 <summary>🧠 DeepMind Blog</summary>
 
+- [Accelerating discovery in India through AI-powered science and education](https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/) (2026-02-17)
 - [Gemini 3 Deep Think: Advancing science, research and engineering](https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/) (2026-02-12)
 - [Accelerating Mathematical and Scientific Discovery with Gemini Deep Think](https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/) (2026-02-09)
 - [Project Genie: Experimenting with infinite, interactive worlds](https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/) (2026-01-29)
 - [D4RT: Teaching AI to see the world in four dimensions](https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/) (2026-01-16)
-- [Veo 3.1 Ingredients to Video: More consistency, creativity and control](https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/) (2026-01-13)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
