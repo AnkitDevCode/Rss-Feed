@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [U.S. court bars OpenAI from using ‘Cameo’](https://techcrunch.com/2026/02/17/u-s-court-bars-openai-from-using-cameo/) (2026-02-18)
+- [Tesla dodges 30-day suspension in California after removing ‘Autopilot’](https://techcrunch.com/2026/02/17/tesla-dodges-30-day-suspension-in-california-after-removing-autopilot/) (2026-02-18)
 - [Intellexa’s Predator spyware used to hack iPhone of journalist in Angola, research says](https://techcrunch.com/2026/02/17/intellexas-predator-spyware-used-to-hack-iphone-of-journalist-in-angola-research-says/) (2026-02-18)
 - [Jack Altman joins Benchmark as GP](https://techcrunch.com/2026/02/17/jack-altman-joins-benchmark-as-gp/) (2026-02-17)
 - [Ford turns to F1 and bounties to build a $30,000 electric truck](https://techcrunch.com/2026/02/17/ford-turns-to-f1-and-bounties-to-build-a-30000-electric-truck/) (2026-02-17)
-- [Meta’s own research found parental supervision doesn’t really help curb teens’ compulsive social media use](https://techcrunch.com/2026/02/17/metas-own-research-found-parental-supervision-doesnt-really-help-curb-teens-compulsive-social-media-use/) (2026-02-17)
-- [Apple is reportedly cooking up a trio of AI wearables](https://techcrunch.com/2026/02/17/apple-is-reportedly-cooking-up-a-trio-of-ai-wearables/) (2026-02-17)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Advice, not control: the role of Remote Assistance in Waymo's operations](https://waymo.com/blog/?modal=short-advice-not-control-the-role-of-remote-assistance) (2026-02-18)
+- [15 years later, Microsoft morged my diagram](https://nvie.com/posts/15-years-later/) (2026-02-18)
+- [Terminals should generate the 256-color palette](https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783) (2026-02-18)
+- [Halt and Catch Fire: TV's Best Drama You've Probably Never Heard Of (2021)](https://www.sceneandheardnu.com/content/halt-and-catch-fire) (2026-02-18)
+- [Thousands of CEOs just admitted AI had no impact on employment or productivity](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/) (2026-02-18)
 - [Google Public CA is down](https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3) (2026-02-18)
-- [Rathbun's Operator](https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/rathbuns-operator.html) (2026-02-18)
-- [Minimal x86 Kernel Zig](https://github.com/lopespm/zig-minimal-kernel-x86) (2026-02-18)
-- ['My Words Are Like an Uncontrollable Dog': On Life with Nonfluent Aphasia](https://thereader.mitpress.mit.edu/my-words-are-like-an-uncontrollable-dog-on-life-with-nonfluent-aphasia/) (2026-02-17)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [5 Free Browser Tools I Built to Speed Up My Dev Workflow](https://dev.to/maxxmini/5-free-browser-tools-i-built-to-speed-up-my-dev-workflow-2nga) (2026-02-18)
-- [My First Real App with Vibe Coding: From Idea to Launch (and Why I Built TabRush)](https://dev.to/beratbozkurt0/my-first-real-app-with-vibe-coding-from-idea-to-launch-and-why-i-built-tabrush-igf) (2026-02-18)
-- [Why I’m Building a "Growth-First" Form Builder (and why I’m giving away unlimited submissions)](https://dev.to/muhammad_488b8569d42008a4/why-im-building-a-growth-first-form-builder-and-why-im-giving-away-unlimited-submissions-nig) (2026-02-18)
-- [AI is removing the constraint of team size continuously. Are you preparing for it? Do you have a strategy to adapt to the changing needs?](https://dev.to/jaideepparashar/ai-is-removing-the-constraint-of-team-size-continuously-are-you-preparing-for-it-do-you-have-a-632) (2026-02-18)
-- [DebugMate — Not Just The Fix. The Understanding.](https://dev.to/priyanshu_singh_226a58ddb/debugmate-not-just-the-fix-the-understanding-2ig4) (2026-02-18)
+- [How I Tricked AWS Elastic Beanstalk Into Using pnpm](https://dev.to/tirtht/how-i-tricked-aws-elastic-beanstalk-into-using-pnpm-ef4) (2026-02-18)
+- [Finding the Sequence of Strings Appeared on the Screen](https://dev.to/iammastercraft/finding-the-sequence-of-strings-appeared-on-the-screen-145c) (2026-02-18)
+- [DevOps for Gamers: Deploying a CS2 Dedicated Server on Ubuntu](https://dev.to/shannon_dias_927e8f0d0d18/devops-for-gamers-deploying-a-cs2-dedicated-server-on-ubuntu-24hi) (2026-02-18)
+- [Static Serving, H3, and the Last Piece of v0.1](https://dev.to/mdreal32/static-serving-h3-and-the-last-piece-of-v01-3iea) (2026-02-18)
+- [How Content Pipelines Break When Writers Meet Model Limits (A Systems Deconstruction)](https://dev.to/olivia_perell_/how-content-pipelines-break-when-writers-meet-model-limits-a-systems-deconstruction-18f6) (2026-02-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [LLM and RAG — Detail Explaination](https://medium.com/@pranavsb699/llm-and-rag-detail-explaination-08e359bbddb4?source=rss------programming-5) (2026-02-18)
-- [From Chatbots to Agentic Systems: Designing Multi-Agent AI Architectures](https://medium.com/@fahey_james/from-chatbots-to-agentic-systems-designing-multi-agent-ai-architectures-3a8f0db44dfa?source=rss------programming-5) (2026-02-18)
-- [A Staff Software Engineer’s Guide to Designing a URL Shortener](https://code.likeagirl.io/url-shortener-system-design-foundations-7936d7bda761?source=rss------programming-5) (2026-02-18)
-- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-e806d82df0e5?source=rss------programming-5) (2026-02-18)
-- [Day 12: Most ML Beginners Are Optimizing the Wrong Thing](https://medium.com/@himanshsaini417/day-12-most-ml-beginners-are-optimizing-the-wrong-thing-aa2781fd90a8?source=rss------programming-5) (2026-02-18)
+- [How to Build a GitHub Profile That Gets You Internship Interviews (Beginner’s Guide)](https://medium.com/@thrishank007/how-to-build-a-github-profile-that-gets-you-internship-interviews-beginners-guide-31b0ca247118?source=rss------programming-5) (2026-02-18)
+- [The Python Security Mistake That Almost Cost Us $50K (And How to Avoid It)](https://medium.com/@inprogrammer/the-python-security-mistake-that-almost-cost-us-50k-and-how-to-avoid-it-df1c2a3d048d?source=rss------programming-5) (2026-02-18)
+- [Rust Gets a Lot of Hype. But Does It Actually Deserve the Respect?](https://medium.com/@mangeshpawar91/rust-gets-a-lot-of-hype-but-does-it-actually-deserve-the-respect-daffbf45ad5e?source=rss------programming-5) (2026-02-18)
+- [How to Scan a Basket of Assets in Pine Script v6 Using request.security](https://medium.com/@betashorts1998/how-to-scan-a-basket-of-assets-in-pine-script-v6-using-request-security-0d47050113f1?source=rss------programming-5) (2026-02-18)
+- [12 Hidden C++ Gems Most Developers Ignore (But They Solve Real Problems Fast)](https://medium.com/h7w/12-hidden-c-gems-most-developers-ignore-but-they-solve-real-problems-fast-198c1a46566d?source=rss------programming-5) (2026-02-18)
 
 </details>
 
@@ -504,11 +504,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/sending-rcs-cards
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack Securely Powers Your Third-Party Agents With Your Business Context](https://slack.com/blog/news/mcp-real-time-search-api-now-available) (2026-02-17)
 - [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-02-13)
 - [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-02-13)
 - [How to Stay Organized at Work: Tips, Tricks, and Tools](https://slack.com/blog/productivity/how-to-stay-organized-at-work) (2026-02-13)
 - [Why We’ve Built the Future of CRM in Slack](https://slack.com/blog/transformation/ai-powered-conversational-crm) (2026-02-12)
+- [Work Faster and Smarter With AI Agents in Slack for Every Line of Business](https://slack.com/blog/productivity/slack-ai-agents-for-every-line-of-business) (2026-02-11)
 
 </details>
 
