@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Amazon halts Blue Jay robotics project after less than six months](https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/) (2026-02-18)
-- [Mastodon, a decentralized alternative to X, plans to target creators with new features](https://techcrunch.com/2026/02/18/mastodon-a-decentralized-alternative-to-x-plans-to-target-creators-with-new-features/) (2026-02-18)
-- [Data breach at fintech giant Figure affects close to a million customers](https://techcrunch.com/2026/02/18/data-breach-at-fintech-giant-figure-affects-close-to-a-million-customers/) (2026-02-18)
-- [World Labs lands $1B, with $200M from Autodesk, to bring world models into 3D workflows](https://techcrunch.com/2026/02/18/world-labs-lands-200m-from-autodesk-to-bring-world-models-into-3d-workflows/) (2026-02-18)
-- [Google debuts $499 Pixel 10a](https://techcrunch.com/2026/02/18/google-debuts-499-pixel-10a/) (2026-02-18)
+- [Etsy sells secondhand clothing marketplace Depop to eBay for $1.2B](https://techcrunch.com/2026/02/18/etsy-sells-secondhand-clothing-marketplace-depop-to-ebay-for-1-2b/) (2026-02-18)
+- [Hacking conference Def Con bans three people linked to Epstein](https://techcrunch.com/2026/02/18/hacking-conference-def-con-bans-three-people-linked-to-epstein/) (2026-02-18)
+- [Is your startup’s check engine light on? Google Cloud’s VP explains what to do](https://techcrunch.com/video/is-your-startups-check-engine-light-on-google-clouds-vp-explains-what-to-do/) (2026-02-18)
+- [A startup called Germ becomes the first private messenger that launches directly from Bluesky’s app](https://techcrunch.com/2026/02/18/a-startup-called-germ-becomes-the-first-private-messenger-that-launches-directly-from-blueskys-app/) (2026-02-18)
+- [SeatGeek and Spotify team up to offer concert ticket sales inside the music platform](https://techcrunch.com/2026/02/18/seatgeek-and-spotify-team-up-to-offer-concert-ticket-sales-inside-the-music-platform/) (2026-02-18)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Activeloop (YC S18) Is Hiring Back End Engineer (Go)](https://app.dover.com/apply/Activeloop/72d0b3a7-7e86-46a8-9aff-b430ffe0b97f) (2026-02-18)
-- [Warren Buffett dumps $1.7B of Amazon stock](https://finbold.com/warren-buffett-dumps-1-7-billion-of-amazon-stock/) (2026-02-18)
-- [Arizona Bill Requires Age Verification for All Apps](https://reclaimthenet.org/arizona-bill-would-require-id-checks-to-use-a-weather-app) (2026-02-18)
-- [Fei-Fei Li's World Labs raised $1B from A16Z, Nvidia to advance its world models](https://www.bloomberg.com/news/articles/2026-02-18/ai-pioneer-fei-fei-li-s-startup-world-labs-raises-1-billion) (2026-02-18)
-- [Weave (YC W25) Is Hiring ML, Design, and Product Engineers](https://jobs.ashbyhq.com/workweave) (2026-02-18)
+- [Microsoft offers guide to pirating Harry Potter series for LLM training](https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/) (2026-02-18)
+- [Ladybird: Closing this as we are no longer pursuing Swift adoption](https://github.com/LadybirdBrowser/ladybird/issues/933) (2026-02-18)
+- [All Look Same?](https://alllooksame.com/) (2026-02-18)
+- [Sizing chaos](https://pudding.cool/2026/02/womens-sizing/) (2026-02-18)
+- [Metriport (YC S22) is hiring a security engineer to harden healthcare infra](https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer) (2026-02-18)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Microsoft is bringing a built-in network speed test to Windows 11](https://www.theverge.com/tech/880756/windows-11-speed-test-build-in-update-preview) (2026-02-18)
-- [Ken Watanabe didn’t think a kabuki movie would work](https://www.theverge.com/report/880620/ken-watanabe-interview-kokuho) (2026-02-18)
-- [Acer’s Chromebook Plus Spin 514 is $200 off, marking a new low price](https://www.theverge.com/gadgets/880744/acer-chromebook-plus-spin-514-google-pixelsnap-deal-sale) (2026-02-18)
-- [Are Elon Musk’s Mars plans finally coming back down to Earth?](https://www.theverge.com/science/880672/spacex-elon-musk-moon-mars-ipo-blue-origin) (2026-02-18)
-- [Audible syncs ebook reading and audiobook listening to keep you focused](https://www.theverge.com/entertainment/880719/audible-immersion-reading-read-and-listen) (2026-02-18)
+- [The RAM crunch could kill products and even entire companies, memory exec admits](https://www.theverge.com/tech/881062/ram-shortage-kill-products-companies-phison-ceo-interview) (2026-02-19)
+- [Dyson turned its skinny PencilVac into a lightweight wet floor cleaner](https://www.theverge.com/tech/880594/dyson-pencilwash-wet-floor-cleaner-thin-battery-handle) (2026-02-18)
+- [Meta is reportedly planning to launch a smartwatch this year](https://www.theverge.com/tech/881065/meta-smartwatch-plans-2026) (2026-02-18)
+- [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple) (2026-02-18)
+- [Social media on trial: tech giants face lawsuits over addiction, safety, and mental health](https://www.theverge.com/policy/880850/social-media-lawsuits-meta-facebook-instagram-tiktok) (2026-02-18)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [FDA reverses surprise rejection of Moderna's mRNA flu vaccine](https://arstechnica.com/health/2026/02/fda-does-u-turn-will-review-modernas-mrna-flu-shot-after-shocking-rejection/) (2026-02-18)
-- [Record scratch—Google's Lyria 3 AI music model is coming to Gemini today](https://arstechnica.com/google/2026/02/gemini-can-now-generate-ai-music-for-you-no-lyrics-required/) (2026-02-18)
-- [Google's Pixel 10a arrives on March 5 for $499 with specs and design of yesteryear](https://arstechnica.com/gadgets/2026/02/googles-pixel-10a-arrives-on-march-5-for-499-with-specs-and-design-of-yesteryear/) (2026-02-18)
-- [X-rays reveal kingfisher feather structure in unprecedented detail](https://arstechnica.com/science/2026/02/what-the-chinese-art-of-tian-tsui-has-to-do-with-kingfishers/) (2026-02-18)
-- [Inside the DHS forum where ICE agents trash talk one another](https://arstechnica.com/tech-policy/2026/02/inside-the-dhs-forum-where-ice-agents-trash-talk-one-another/) (2026-02-18)
+- [Verizon acknowledges "pain" of new unlock policy, suggests change is coming](https://arstechnica.com/tech-policy/2026/02/verizon-might-drop-its-annoying-35-day-wait-for-unlocking-paid-off-phones/) (2026-02-18)
+- [Chevy Bolt, BMW i3, or something else? At $10K, you have lots of EV options](https://arstechnica.com/cars/2026/02/chevy-bolt-bmw-i3-or-something-else-at-10k-you-have-lots-of-ev-options/) (2026-02-18)
+- [Lawsuit: EPA revoking greenhouse gas finding risks “thousands of avoidable deaths”](https://arstechnica.com/tech-policy/2026/02/lawsuit-epa-revoking-greenhouse-gas-finding-risks-thousands-of-avoidable-deaths/) (2026-02-18)
+- [5 changes to know about in Apple's latest iOS, macOS, and iPadOS betas](https://arstechnica.com/gadgets/2026/02/5-changes-to-know-about-in-apples-latest-ios-macos-and-ipados-betas/) (2026-02-18)
+- [Microsoft's new 10,000-year data storage medium: glass](https://arstechnica.com/science/2026/02/microsofts-new-10000-year-data-storage-medium-glass/) (2026-02-18)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Mind the gap: Closing the AI trust gap for developers](https://stackoverflow.blog/2026/02/18/closing-the-developer-ai-trust-gap/) (2026-02-18)
 - [Data is the new oil, and your database is the only way to extract it](https://stackoverflow.blog/2026/02/17/data-is-the-new-oil/) (2026-02-17)
 - [Even your voice is a data problem](https://stackoverflow.blog/2026/02/13/even-your-voice-is-a-data-problem/) (2026-02-13)
 - [How everyone and anyone can use AI for good](https://stackoverflow.blog/2026/02/12/how-everyone-and-anyone-can-use-ai-for-good/) (2026-02-12)
 - [Is anyone using AI for good?](https://stackoverflow.blog/2026/02/11/is-anyone-using-ai-for-good/) (2026-02-11)
-- [The logos, ethos, and pathos of your LLMs](https://stackoverflow.blog/2026/02/10/the-logos-ethos-and-pathos-of-your-llms/) (2026-02-10)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building a Universal Memory Layer for AI Agents: Architecture Patterns for Scalable State Management](https://dev.to/varun_pratapbhardwaj_b13/building-a-universal-memory-layer-for-ai-agents-architecture-patterns-for-scalable-state-management-4g8) (2026-02-18)
-- [Lyria 3: Inside Google DeepMind’s Most Advanced AI Music Model](https://dev.to/alifar/lyria-3-inside-google-deepminds-most-advanced-ai-music-model-5fab) (2026-02-18)
-- [How to Give Claude Code Persistent Memory (Free, Local, 5 Minutes)](https://dev.to/varun_pratapbhardwaj_b13/how-to-give-claude-code-persistent-memory-free-local-5-minutes-45k0) (2026-02-18)
-- [Nairobi Property Listings Scraping: 500+ Property Listings with Smart Size Extraction](https://dev.to/rosewabere/nairobi-property-listings-scraping-500-property-listings-with-smart-size-extraction-5hno) (2026-02-18)
-- [Alerta para Desarrolladores: Trae IDE y el Riesgo Real con el Código de tus Clientes](https://dev.to/leuzga/alerta-para-desarrolladores-trae-ide-y-el-riesgo-real-con-el-codigo-de-tus-clientes-1cgg) (2026-02-18)
+- [Estratégias de Lançamento de Software Progressivo: Além do Simples If/Else com Feature Flags](https://dev.to/carineneris/estrategias-de-lancamento-de-software-progressivo-alem-do-simples-ifelse-com-feature-flags-1ng5) (2026-02-19)
+- [Why Auth0 email_verified Was Missing from My Access Token](https://dev.to/anand_rathnas_d5b608cc3de/why-auth0-emailverified-was-missing-from-my-access-token-3n75) (2026-02-19)
+- [Your Link-in-Bio Is Lying — Why Verified Links Are the Next Standard](https://dev.to/mitsuashi/your-link-in-bio-is-lying-why-verified-links-are-the-next-standard-390n) (2026-02-19)
+- [The LinkedIn Easy Apply Trap: Why 200 Applications Gets You 3 Callbacks](https://dev.to/sira_ai/the-linkedin-easy-apply-trap-why-200-applications-gets-you-3-callbacks-nfo) (2026-02-19)
+- [How I Built a Fast, Browser-Based Sudoku Platform Using JavaScript](https://dev.to/sudokupuzzlehub/how-i-built-a-fast-browser-based-sudoku-platform-using-javascript-2k6p) (2026-02-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Day the Internet Went Quiet](https://medium.com/@dreamsbyvae/the-day-the-internet-went-quiet-a08242430f47?source=rss------programming-5) (2026-02-18)
-- [Tcl vs. Bash: When Should You Choose Tcl?](https://levelup.gitconnected.com/tcl-vs-bash-when-should-you-choose-tcl-e07c47eb05ff?source=rss------programming-5) (2026-02-18)
-- [Turning Images into Pixel Art the Right Way](https://levelup.gitconnected.com/turning-images-into-pixel-art-the-right-way-ed9ce1a013bc?source=rss------programming-5) (2026-02-18)
-- [The Difference Between a Python Script and a Python System](https://levelup.gitconnected.com/the-difference-between-a-python-script-and-a-python-system-39c696424019?source=rss------programming-5) (2026-02-18)
-- [The “Maggi” Developer is Dead. Long Live the “Biryani” Architect.](https://levelup.gitconnected.com/the-maggi-developer-is-dead-long-live-the-biryani-architect-b61528b204dd?source=rss------programming-5) (2026-02-18)
+- [We Thought Microservices Would Simplify Everything. We Were Wrong.](https://elsyarifx.medium.com/we-thought-microservices-would-simplify-everything-we-were-wrong-a856e1a789dd?source=rss------programming-5) (2026-02-19)
+- [Addressing Context and Accuracy Issues in Large Language Models](https://usecommon.medium.com/addressing-context-and-accuracy-issues-in-large-language-models-67551bd35449?source=rss------programming-5) (2026-02-19)
+- [Fundamentos do Git — Part 6 — Final](https://medium.com/codandotv/fundamentos-do-git-part-6-final-066f4a4fc916?source=rss------programming-5) (2026-02-19)
+- [Why I Ditched Selenium for Stateless APIs: Engineering a Production-Scale AI Video Pipeline](https://medium.com/@zeeshanjay/why-i-ditched-selenium-for-stateless-apis-engineering-a-production-scale-ai-video-pipeline-0403a77c657c?source=rss------programming-5) (2026-02-19)
+- [AI Rules for Developers: Structured Prompting to Get Senior-Level Code from AI](https://medium.com/@ahmedAdelHammad/ai-rules-for-developers-structured-prompting-to-get-senior-level-code-from-ai-2511953b39e9?source=rss------programming-5) (2026-02-19)
 
 </details>
 
@@ -362,16 +362,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-What is RCS on iPhone? How to enable & use it
-](
-https://www.twilio.com/en-us/blog/insights/rcs-on-iphone
-) (2026-02-17)
-- [
-What is data collection? Methods, types & examples
-](
-https://www.twilio.com/en-us/blog/insights/data/data-collection
-) (2026-02-13)
-- [
 Rich Messages, Richer Experiences: Monetizing Chatbots on RCS and WhatsApp
 ](
 https://www.twilio.com/en-us/blog/developers/monetizing-chatbots-rcs-whatsapp-stripe
@@ -386,19 +376,29 @@ How to bring your own telephony to Okta with Twilio Verify
 ](
 https://www.twilio.com/en-us/blog/okta-byot-verify
 ) (2026-02-12)
+- [
+How to Use Twilio's Content Template Builder for Messaging
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-use-twilio-content-template-builder-messaging
+) (2026-02-11)
+- [
+Sending RCS Cards Using Python
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/sending-rcs-cards-using-python
+) (2026-02-11)
 
 </details>
 
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Inside OpenFGA's Improved ListObjects Algorithm: A Streaming Pipeline Traversal](https://auth0.com/blog/openfga-improved-listobjects-algorithm/) (2026-02-18)
 - [Federated Identity vs. Single Sign-On: Key Differences](https://auth0.com/blog/federated-identity-vs-single-sign-on-key-differences/) (2026-02-17)
 - [You Talked, We Listened: How Your Feedback Shaped Our New B2B Plans
 ](https://auth0.com/blog/how-feedback-shaped-new-auth0-b2b-plans/) (2026-02-13)
 - [Auth0 B2B Plans Upgraded: Free Self-Service SSO, SCIM, and More! ](https://auth0.com/blog/auth0-b2b-plans-upgraded/) (2026-02-12)
 - [Agents Can Either Be Useful or Secure
 ](https://auth0.com/blog/agents-can-be-useful-or-secure/) (2026-02-11)
-- [A Guide to Securing Amazon Bedrock AgentCore with Auth0 for AI Agents ](https://auth0.com/blog/securing-amazon-bedrock-agentcore-agents-auth0-for-ai-agents/) (2026-02-10)
 
 </details>
 
@@ -549,10 +549,10 @@ https://www.twilio.com/en-us/blog/okta-byot-verify
 <summary>🤗 Hugging Face</summary>
 
 - [IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST](https://huggingface.co/blog/ibm-research/itbenchandmast) (2026-02-18)
+- [One-Shot Any Web App with Gradio's gr.HTML](https://huggingface.co/blog/gradio-html-one-shot-apps) (2026-02-18)
 - [NVIDIA Nemotron 2 Nano 9B Japanese: 日本のソブリンAIを支える最先端小規模言語モデル](https://huggingface.co/blog/nvidia/nemotron-nano-9b-v2-japanese-ja) (2026-02-17)
 - [Custom Kernels for All from Codex and Claude](https://huggingface.co/blog/custom-cuda-kernels-agent-skills) (2026-02-13)
 - [OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments](https://huggingface.co/blog/openenv-turing) (2026-02-12)
-- [Transformers.js v4 Preview: Now Available on NPM!](https://huggingface.co/blog/transformersjs-v4) (2026-02-09)
 
 </details>
 
@@ -570,11 +570,11 @@ https://www.twilio.com/en-us/blog/okta-byot-verify
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Can AI Solve Failures in Your Supply Chain?](https://towardsdatascience.com/can-ai-solve-failures-in-your-supply-chain/) (2026-02-18)
+- [Building Cost-Efficient Agentic RAG on Long-Text Documents in SQL Tables](https://towardsdatascience.com/building-cost-efficient-agentic-rag-on-long-text-documents-in-sql-tables/) (2026-02-18)
+- [Why Every Analytics Engineer Needs to Understand Data Architecture](https://towardsdatascience.com/why-every-analytics-engineer-needs-to-understand-data-architecture/) (2026-02-18)
 - [Agentic AI for Modern Deep Learning Experimentation](https://towardsdatascience.com/agentic-ai-for-modern-deep-learning-experimentation/) (2026-02-18)
 - [Advance Planning for AI Project Evaluation](https://towardsdatascience.com/advance-planning-for-ai-project-evaluation/) (2026-02-18)
-- [Use OpenClaw to Make a Personal AI Assistant](https://towardsdatascience.com/use-openclaw-to-make-a-personal-ai-assistant/) (2026-02-18)
-- [Building a LangGraph Agent from Scratch](https://towardsdatascience.com/building-a-langgraph-agent-from-scratch/) (2026-02-17)
-- [Iron Triangles: Powerful Tools for Analyzing Trade-Offs in AI Product Development](https://towardsdatascience.com/iron-triangles-powerful-tools-for-analyzing-trade-offs-in-ai-product-development/) (2026-02-17)
 
 </details>
 
