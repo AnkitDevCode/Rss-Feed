@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW](https://techcrunch.com/2026/02/18/openai-taps-tata-for-100mw-ai-data-center-capacity-in-india-eyes-1gw/) (2026-02-19)
+- [OpenAI deepens India push with Pine Labs fintech partnership](https://techcrunch.com/2026/02/18/openai-deepens-india-push-with-pine-labs-fintech-partnership/) (2026-02-19)
 - [Etsy sells secondhand clothing marketplace Depop to eBay for $1.2B](https://techcrunch.com/2026/02/18/etsy-sells-secondhand-clothing-marketplace-depop-to-ebay-for-1-2b/) (2026-02-18)
 - [Hacking conference Def Con bans three people linked to Epstein](https://techcrunch.com/2026/02/18/hacking-conference-def-con-bans-three-people-linked-to-epstein/) (2026-02-18)
 - [Is your startup’s check engine light on? Google Cloud’s VP explains what to do](https://techcrunch.com/video/is-your-startups-check-engine-light-on-google-clouds-vp-explains-what-to-do/) (2026-02-18)
-- [A startup called Germ becomes the first private messenger that launches directly from Bluesky’s app](https://techcrunch.com/2026/02/18/a-startup-called-germ-becomes-the-first-private-messenger-that-launches-directly-from-blueskys-app/) (2026-02-18)
-- [SeatGeek and Spotify team up to offer concert ticket sales inside the music platform](https://techcrunch.com/2026/02/18/seatgeek-and-spotify-team-up-to-offer-concert-ticket-sales-inside-the-music-platform/) (2026-02-18)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Microsoft offers guide to pirating Harry Potter series for LLM training](https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/) (2026-02-18)
-- [Ladybird: Closing this as we are no longer pursuing Swift adoption](https://github.com/LadybirdBrowser/ladybird/issues/933) (2026-02-18)
-- [All Look Same?](https://alllooksame.com/) (2026-02-18)
-- [Sizing chaos](https://pudding.cool/2026/02/womens-sizing/) (2026-02-18)
-- [Metriport (YC S22) is hiring a security engineer to harden healthcare infra](https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer) (2026-02-18)
+- [European Tech Alternatives](https://eutechmap.com/map) (2026-02-19)
+- [Show HN: A Lisp where each function call runs a Docker container](https://github.com/a11ce/docker-lisp) (2026-02-19)
+- [Ukranian controls Home Assistant over LoRa radio when their power grid goes down](https://old.reddit.com/r/homeassistant/comments/1r8ftc0/i_control_my_home_assistant_over_lora_radio_when/) (2026-02-19)
+- [Electrobun v1: Build fast, tiny, and cross-platform desktop apps with TypeScript](https://blackboard.sh/blog/electrobun-v1/) (2026-02-19)
+- [Anthropic officially bans using subscription auth for third party use](https://code.claude.com/docs/en/legal-and-compliance) (2026-02-19)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Mark Zuckerberg and his Ray-Ban entourage have their day in court](https://www.theverge.com/policy/881210/mark-zuckerberg-meta-ceo-testimony-filters) (2026-02-19)
 - [The RAM crunch could kill products and even entire companies, memory exec admits](https://www.theverge.com/tech/881062/ram-shortage-kill-products-companies-phison-ceo-interview) (2026-02-19)
 - [Dyson turned its skinny PencilVac into a lightweight wet floor cleaner](https://www.theverge.com/tech/880594/dyson-pencilwash-wet-floor-cleaner-thin-battery-handle) (2026-02-18)
 - [Meta is reportedly planning to launch a smartwatch this year](https://www.theverge.com/tech/881065/meta-smartwatch-plans-2026) (2026-02-18)
 - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple) (2026-02-18)
-- [Social media on trial: tech giants face lawsuits over addiction, safety, and mental health](https://www.theverge.com/policy/880850/social-media-lawsuits-meta-facebook-instagram-tiktok) (2026-02-18)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Estratégias de Lançamento de Software Progressivo: Além do Simples If/Else com Feature Flags](https://dev.to/carineneris/estrategias-de-lancamento-de-software-progressivo-alem-do-simples-ifelse-com-feature-flags-1ng5) (2026-02-19)
-- [Why Auth0 email_verified Was Missing from My Access Token](https://dev.to/anand_rathnas_d5b608cc3de/why-auth0-emailverified-was-missing-from-my-access-token-3n75) (2026-02-19)
-- [Your Link-in-Bio Is Lying — Why Verified Links Are the Next Standard](https://dev.to/mitsuashi/your-link-in-bio-is-lying-why-verified-links-are-the-next-standard-390n) (2026-02-19)
-- [The LinkedIn Easy Apply Trap: Why 200 Applications Gets You 3 Callbacks](https://dev.to/sira_ai/the-linkedin-easy-apply-trap-why-200-applications-gets-you-3-callbacks-nfo) (2026-02-19)
-- [How I Built a Fast, Browser-Based Sudoku Platform Using JavaScript](https://dev.to/sudokupuzzlehub/how-i-built-a-fast-browser-based-sudoku-platform-using-javascript-2k6p) (2026-02-19)
+- [Why Task-Fit Writing Tools Are Winning: From Blank Pages to Reliable Outputs](https://dev.to/olivia_perell_/why-task-fit-writing-tools-are-winning-from-blank-pages-to-reliable-outputs-f22) (2026-02-19)
+- [How Vibe Coding Helped Me Build Guess The Anime Tool](https://dev.to/anime-lover/how-vibe-coding-helped-me-build-guess-the-anime-tool-1936) (2026-02-19)
+- [5 Tips for Building MCP Apps That Work](https://dev.to/blackgirlbytes/5-tips-for-building-mcp-apps-that-work-2pme) (2026-02-19)
+- [How to Find Your API’s Breaking Point (Before Your Users Do) - Capacity Testing with JMeter](https://dev.to/oleh_koren/how-to-find-your-apis-breaking-point-before-your-users-do-capacity-testing-with-jmeter-1jma) (2026-02-19)
+- [How I Used RPI to Build an OpenClaw Alternative](https://dev.to/blackgirlbytes/how-i-used-rpi-to-build-an-openclaw-alternative-d4d) (2026-02-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [We Thought Microservices Would Simplify Everything. We Were Wrong.](https://elsyarifx.medium.com/we-thought-microservices-would-simplify-everything-we-were-wrong-a856e1a789dd?source=rss------programming-5) (2026-02-19)
-- [Addressing Context and Accuracy Issues in Large Language Models](https://usecommon.medium.com/addressing-context-and-accuracy-issues-in-large-language-models-67551bd35449?source=rss------programming-5) (2026-02-19)
-- [Fundamentos do Git — Part 6 — Final](https://medium.com/codandotv/fundamentos-do-git-part-6-final-066f4a4fc916?source=rss------programming-5) (2026-02-19)
-- [Why I Ditched Selenium for Stateless APIs: Engineering a Production-Scale AI Video Pipeline](https://medium.com/@zeeshanjay/why-i-ditched-selenium-for-stateless-apis-engineering-a-production-scale-ai-video-pipeline-0403a77c657c?source=rss------programming-5) (2026-02-19)
-- [AI Rules for Developers: Structured Prompting to Get Senior-Level Code from AI](https://medium.com/@ahmedAdelHammad/ai-rules-for-developers-structured-prompting-to-get-senior-level-code-from-ai-2511953b39e9?source=rss------programming-5) (2026-02-19)
+- [Learn JavaScript for a Job in 2026 — Not for Tutorials](https://medium.com/illumination/learn-javascript-for-a-job-in-2026-not-for-tutorials-d6f4cdbf872d?source=rss------programming-5) (2026-02-19)
+- [Unpopular Opinion: Sometimes You Should Just Take the “C” Grade](https://medium.com/@Alexcole3/unpopular-opinion-sometimes-you-should-just-take-the-c-grade-66db137ff2a2?source=rss------programming-5) (2026-02-19)
+- [I Enabled the React Compiler on Three Production Apps](https://medium.com/write-a-catalyst/i-enabled-the-react-compiler-on-three-production-apps-6387f4098cdd?source=rss------programming-5) (2026-02-19)
+- [Java 21 Is the First Upgrade I Felt in p95, Not in Syntax](https://medium.com/@ArkProtocol1/java-21-is-the-first-upgrade-i-felt-in-p95-not-in-syntax-9292026e3982?source=rss------programming-5) (2026-02-19)
+- [Rails CSRF Tokens Changed in 8.0 — What You Need to Update](https://medium.com/write-a-catalyst/rails-csrf-tokens-changed-in-8-0-what-you-need-to-update-cac2fbadde1d?source=rss------programming-5) (2026-02-19)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873) (2026-02-17)
+- [Azure reliability, resiliency, and recoverability: Build continuity by design](https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/) (2026-02-17)
 - [The data behind the design: How Pantone built agentic AI with an AI-ready database](https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/) (2026-02-12)
 - [Agentic cloud operations: A new way to run the cloud](https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/) (2026-02-11)
 - [Can high-temperature superconductors transform the power infrastructure of datacenters?](https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/) (2026-02-10)
-- [Five Reasons to attend SQLCon](https://blog.fabric.microsoft.com/en-us/blog/32624) (2026-02-09)
-- [Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/) (2026-02-05)
 
 </details>
 
