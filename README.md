@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [This VC’s best advice for building a founding team](https://techcrunch.com/2026/02/19/this-vcs-best-advice-for-building-a-founding-team/) (2026-02-19)
+- [Reliance unveils $110B AI investment plan as India ramps up tech ambitions](https://techcrunch.com/2026/02/19/reliance-unveils-110b-ai-investment-plan-as-india-ramps-up-tech-ambitions/) (2026-02-19)
 - [OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW](https://techcrunch.com/2026/02/18/openai-taps-tata-for-100mw-ai-data-center-capacity-in-india-eyes-1gw/) (2026-02-19)
 - [OpenAI deepens India push with Pine Labs fintech partnership](https://techcrunch.com/2026/02/18/openai-deepens-india-push-with-pine-labs-fintech-partnership/) (2026-02-19)
 - [Etsy sells secondhand clothing marketplace Depop to eBay for $1.2B](https://techcrunch.com/2026/02/18/etsy-sells-secondhand-clothing-marketplace-depop-to-ebay-for-1-2b/) (2026-02-18)
-- [Hacking conference Def Con bans three people linked to Epstein](https://techcrunch.com/2026/02/18/hacking-conference-def-con-bans-three-people-linked-to-epstein/) (2026-02-18)
-- [Is your startup’s check engine light on? Google Cloud’s VP explains what to do](https://techcrunch.com/video/is-your-startups-check-engine-light-on-google-clouds-vp-explains-what-to-do/) (2026-02-18)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [European Tech Alternatives](https://eutechmap.com/map) (2026-02-19)
-- [Show HN: A Lisp where each function call runs a Docker container](https://github.com/a11ce/docker-lisp) (2026-02-19)
-- [Ukranian controls Home Assistant over LoRa radio when their power grid goes down](https://old.reddit.com/r/homeassistant/comments/1r8ftc0/i_control_my_home_assistant_over_lora_radio_when/) (2026-02-19)
-- [Electrobun v1: Build fast, tiny, and cross-platform desktop apps with TypeScript](https://blackboard.sh/blog/electrobun-v1/) (2026-02-19)
-- [Anthropic officially bans using subscription auth for third party use](https://code.claude.com/docs/en/legal-and-compliance) (2026-02-19)
+- [Show HN: LatentScore – Type a mood, get procedural/ambient music (open source)](https://latentscore.com/demo) (2026-02-19)
+- [Show HN: An encrypted, local, cross-platform journaling app](https://github.com/fjrevoredo/mini-diarium) (2026-02-19)
+- [ShannonMax: A Library to Optimize Emacs Keybindings with Information Theory](https://github.com/sstraust/shannonmax) (2026-02-19)
+- [Bridging Elixir and Python with Oban](https://oban.pro/articles/bridging-with-oban) (2026-02-19)
+- [Show HN: A physically-based GPU ray tracer written in Julia](https://makie.org/website/blogposts/raytracing/) (2026-02-19)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The biggest app in the whole wide world](https://www.theverge.com/tech/876196/top-app-store-apps-developers) (2026-02-19)
 - [Mark Zuckerberg and his Ray-Ban entourage have their day in court](https://www.theverge.com/policy/881210/mark-zuckerberg-meta-ceo-testimony-filters) (2026-02-19)
 - [The RAM crunch could kill products and even entire companies, memory exec admits](https://www.theverge.com/tech/881062/ram-shortage-kill-products-companies-phison-ceo-interview) (2026-02-19)
 - [Dyson turned its skinny PencilVac into a lightweight wet floor cleaner](https://www.theverge.com/tech/880594/dyson-pencilwash-wet-floor-cleaner-thin-battery-handle) (2026-02-18)
 - [Meta is reportedly planning to launch a smartwatch this year](https://www.theverge.com/tech/881065/meta-smartwatch-plans-2026) (2026-02-18)
-- [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple) (2026-02-18)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [How uncrewed narco subs could transform the Colombian drug trade](https://www.technologyreview.com/2026/02/19/1132619/uncrewed-narco-subs-transform-columbian-drug-trade/) (2026-02-19)
+- [The building legal case for global climate justice](https://www.technologyreview.com/2026/02/19/1132877/legal-climate-justice/) (2026-02-19)
+- [What it takes to make agentic AI work in retail](https://www.technologyreview.com/2026/02/19/1133324/what-it-takes-to-make-agentic-ai-work-in-retail/) (2026-02-19)
+- [From integration chaos to digital clarity: Nutrien Ag Solutions’ post-acquisition reset](https://www.technologyreview.com/2026/02/19/1133320/from-integration-chaos-to-digital-clarity-nutrien-ag-solutions-post-acquisition-reset/) (2026-02-19)
 - [Google DeepMind wants to know if chatbots are just virtue signaling](https://www.technologyreview.com/2026/02/18/1133299/google-deepmind-wants-to-know-if-chatbots-are-just-virtue-signaling/) (2026-02-18)
-- [The Download: a blockchain enigma, and the algorithms governing our lives](https://www.technologyreview.com/2026/02/18/1133291/the-download-a-blockchain-enigma-and-the-algorithms-governing-our-lives/) (2026-02-18)
-- [The robots who predict the future](https://www.technologyreview.com/2026/02/18/1132579/robots-predict-future-book-review/) (2026-02-18)
-- [Welcome to the dark side of crypto’s permissionless dream](https://www.technologyreview.com/2026/02/18/1132587/jean-paul-thorbjornsen-dark-side-crypto-permissionless-dream/) (2026-02-18)
-- [The Download: the rise of luxury car theft, and fighting antimicrobial resistance](https://www.technologyreview.com/2026/02/17/1133018/the-download-the-rise-of-luxury-car-theft-and-fighting-antimicrobial-resistance/) (2026-02-17)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Why Stack Overflow and Cloudflare launched a pay-per-crawl model](https://stackoverflow.blog/2026/02/19/stack-overflow-cloudflare-pay-per-crawl/) (2026-02-19)
 - [Mind the gap: Closing the AI trust gap for developers](https://stackoverflow.blog/2026/02/18/closing-the-developer-ai-trust-gap/) (2026-02-18)
 - [Data is the new oil, and your database is the only way to extract it](https://stackoverflow.blog/2026/02/17/data-is-the-new-oil/) (2026-02-17)
 - [Even your voice is a data problem](https://stackoverflow.blog/2026/02/13/even-your-voice-is-a-data-problem/) (2026-02-13)
 - [How everyone and anyone can use AI for good](https://stackoverflow.blog/2026/02/12/how-everyone-and-anyone-can-use-ai-for-good/) (2026-02-12)
-- [Is anyone using AI for good?](https://stackoverflow.blog/2026/02/11/is-anyone-using-ai-for-good/) (2026-02-11)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why Task-Fit Writing Tools Are Winning: From Blank Pages to Reliable Outputs](https://dev.to/olivia_perell_/why-task-fit-writing-tools-are-winning-from-blank-pages-to-reliable-outputs-f22) (2026-02-19)
-- [How Vibe Coding Helped Me Build Guess The Anime Tool](https://dev.to/anime-lover/how-vibe-coding-helped-me-build-guess-the-anime-tool-1936) (2026-02-19)
-- [5 Tips for Building MCP Apps That Work](https://dev.to/blackgirlbytes/5-tips-for-building-mcp-apps-that-work-2pme) (2026-02-19)
-- [How to Find Your API’s Breaking Point (Before Your Users Do) - Capacity Testing with JMeter](https://dev.to/oleh_koren/how-to-find-your-apis-breaking-point-before-your-users-do-capacity-testing-with-jmeter-1jma) (2026-02-19)
-- [How I Used RPI to Build an OpenClaw Alternative](https://dev.to/blackgirlbytes/how-i-used-rpi-to-build-an-openclaw-alternative-d4d) (2026-02-19)
+- [WordPress Performance Plugins 2026: I Benchmarked 9 of Them So You Don't Have To](https://dev.to/john_a_8f8ddbaf47cabc1987/wordpress-performance-plugins-2026-i-benchmarked-9-of-them-so-you-dont-have-to-4ooj) (2026-02-19)
+- [day 3 : No-code invoice follow-up automation: Make.com + Google Sheets + Gmail](https://dev.to/alexkraft/day-3-no-code-invoice-follow-up-automation-makecom-google-sheets-gmail-17kg) (2026-02-19)
+- [I Built a Chrome Extension to Copy URLs Faster — Here's What I Learned](https://dev.to/roman-builder/i-built-a-chrome-extension-to-copy-urls-faster-heres-what-i-learned-2pil) (2026-02-19)
+- [I Built a WBC 2026 Scouting Dashboard with MLB Statcast Data](https://dev.to/yasumorishima/i-built-a-wbc-2026-scouting-dashboard-with-mlb-statcast-data-4j5f) (2026-02-19)
+- [Proof-Driven Engineering: Turning “We Think” Into “We Can Show”](https://dev.to/sonia_bobrik_1939cdddd79d/proof-driven-engineering-turning-we-think-into-we-can-show-1e5b) (2026-02-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Learn JavaScript for a Job in 2026 — Not for Tutorials](https://medium.com/illumination/learn-javascript-for-a-job-in-2026-not-for-tutorials-d6f4cdbf872d?source=rss------programming-5) (2026-02-19)
-- [Unpopular Opinion: Sometimes You Should Just Take the “C” Grade](https://medium.com/@Alexcole3/unpopular-opinion-sometimes-you-should-just-take-the-c-grade-66db137ff2a2?source=rss------programming-5) (2026-02-19)
-- [I Enabled the React Compiler on Three Production Apps](https://medium.com/write-a-catalyst/i-enabled-the-react-compiler-on-three-production-apps-6387f4098cdd?source=rss------programming-5) (2026-02-19)
-- [Java 21 Is the First Upgrade I Felt in p95, Not in Syntax](https://medium.com/@ArkProtocol1/java-21-is-the-first-upgrade-i-felt-in-p95-not-in-syntax-9292026e3982?source=rss------programming-5) (2026-02-19)
-- [Rails CSRF Tokens Changed in 8.0 — What You Need to Update](https://medium.com/write-a-catalyst/rails-csrf-tokens-changed-in-8-0-what-you-need-to-update-cac2fbadde1d?source=rss------programming-5) (2026-02-19)
+- [Select vs. SelectMany: How to Flatten Data in LINQ](https://medium.com/@sketch.paintings/select-vs-selectmany-how-to-flatten-data-in-linq-9c6074aa2228?source=rss------programming-5) (2026-02-19)
+- [How LINQ Execution Actually Works: Power of Being Lazy](https://medium.com/@sketch.paintings/how-linq-execution-actually-works-power-of-being-lazy-76e98578642c?source=rss------programming-5) (2026-02-19)
+- [We Stopped Making Junior Developers. Nobody Noticed.](https://generativeai.pub/we-stopped-making-junior-developers-nobody-noticed-59dbe9117675?source=rss------programming-5) (2026-02-19)
+- [Guide — Building Interactive MCP Apps for Chat UI](https://medium.com/@davidlfliang/guide-building-interactive-mcp-apps-for-chat-ui-39805a4606d1?source=rss------programming-5) (2026-02-19)
+- [I Removed StreamBuilder From My Firebase Auth. Here’s Why You Haven’t.](https://medium.com/@simra.cse/i-removed-streambuilder-from-my-firebase-auth-heres-why-you-haven-t-5819ea0fde6d?source=rss------programming-5) (2026-02-19)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873) (2026-02-17)
-- [Azure reliability, resiliency, and recoverability: Build continuity by design](https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/) (2026-02-17)
 - [The data behind the design: How Pantone built agentic AI with an AI-ready database](https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/) (2026-02-12)
 - [Agentic cloud operations: A new way to run the cloud](https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/) (2026-02-11)
 - [Can high-temperature superconductors transform the power infrastructure of datacenters?](https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/) (2026-02-10)
+- [Five Reasons to attend SQLCon](https://blog.fabric.microsoft.com/en-us/blog/32624) (2026-02-09)
+- [Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/) (2026-02-05)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [LangChain Python Tutorial: 2026’s Complete Guide](https://blog.jetbrains.com/pycharm/2026/02/langchain-tutorial-2026/) (2026-02-19)
 - [Kodee’s Kotlin Roundup: KotlinConf ’26 Updates, New Releases, and More](https://blog.jetbrains.com/kotlin/2026/02/kodees-kotlin-roundup-kotlinconf-26-updates-new-releases-and-more/) (2026-02-17)
 - [Editor Improvements: Smooth Caret Animation and New Selection Behavior](https://blog.jetbrains.com/platform/2026/02/editor-improvements-smooth-caret-animation-and-new-selection-behavior/) (2026-02-17)
 - [The Evolution of Async Rust: From Tokio to High-Level Applications](https://blog.jetbrains.com/rust/2026/02/17/the-evolution-of-async-rust-from-tokio-to-high-level-applications/) (2026-02-17)
 - [Databao Becomes a Partner of the Open Semantic Interchange Initiative led by Snowflake and other industry leaders](https://blog.jetbrains.com/databao/2026/02/databao-becomes-osi-partner/) (2026-02-17)
-- [The Most Popular AI Tools: What Developers Use and Why](https://blog.jetbrains.com/ai/2026/02/the-most-popular-ai-tools-what-developers-use-and-why/) (2026-02-17)
 
 </details>
 
@@ -559,33 +559,33 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/sending-rcs-cards
 <details>
 <summary>🤖 AI News</summary>
 
+- [DBS pilots system that lets AI agents make payments for customers](https://www.artificialintelligence-news.com/news/dbs-pilots-system-that-lets-ai-agents-make-payments-for-customers/) (2026-02-19)
 - [How financial institutions are embedding AI decision-making](https://www.artificialintelligence-news.com/news/how-financial-institutions-embedding-ai-decision-making/) (2026-02-18)
 - [Infosys AI implementation framework offers business leaders guidance](https://www.artificialintelligence-news.com/news/infosys-ai-implementation-framework-offers-business-leaders-guidance/) (2026-02-18)
 - [SS&C Blue Prism: On the journey from RPA to agentic automation](https://www.artificialintelligence-news.com/news/ssc-blue-prism-on-the-journey-from-rpa-to-agentic-automation/) (2026-02-17)
 - [Insurance giant AIG deploys agentic AI with orchestration layer](https://www.artificialintelligence-news.com/news/insurance-giant-aig-deploys-agentic-ai-with-orchestration-layer/) (2026-02-17)
-- [Alibaba Qwen is challenging proprietary AI model economics](https://www.artificialintelligence-news.com/news/alibaba-qwen-challenging-proprietary-ai-model-economics/) (2026-02-17)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [AI in Multiple GPUs: How GPUs Communicate](https://towardsdatascience.com/how-gpus-communicate/) (2026-02-19)
 - [Can AI Solve Failures in Your Supply Chain?](https://towardsdatascience.com/can-ai-solve-failures-in-your-supply-chain/) (2026-02-18)
 - [Building Cost-Efficient Agentic RAG on Long-Text Documents in SQL Tables](https://towardsdatascience.com/building-cost-efficient-agentic-rag-on-long-text-documents-in-sql-tables/) (2026-02-18)
 - [Why Every Analytics Engineer Needs to Understand Data Architecture](https://towardsdatascience.com/why-every-analytics-engineer-needs-to-understand-data-architecture/) (2026-02-18)
 - [Agentic AI for Modern Deep Learning Experimentation](https://towardsdatascience.com/agentic-ai-for-modern-deep-learning-experimentation/) (2026-02-18)
-- [Advance Planning for AI Project Evaluation](https://towardsdatascience.com/advance-planning-for-ai-project-evaluation/) (2026-02-18)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Top 10 Made-in-India AI Products Shown at AI Impact Expo 2026](https://www.analyticsvidhya.com/blog/2026/02/top-made-in-india-ai-products-at-ai-impact-expo/) (2026-02-19)
 - [Top 10 Free Data Analysis Courses With Certification](https://www.analyticsvidhya.com/blog/2026/02/free-data-analysis-courses-with-certification/) (2026-02-18)
 - [Claude Sonnet 4.6: The Model for Developers](https://www.analyticsvidhya.com/blog/2026/02/claude-sonnet-4-6-the-model-for-developers/) (2026-02-18)
 - [Meet PaperBanana: Google’s AI That Auto-Generates Research Diagrams](https://www.analyticsvidhya.com/blog/2026/02/paperbanana-google-ai-for-research-diagrams/) (2026-02-17)
 - [Top 10 No-Code Development Platforms to Launch Apps and Automate Work](https://www.analyticsvidhya.com/blog/2026/02/top-no-code-development-platforms/) (2026-02-17)
-- [Top 10 Generative AI Books You Must Read in 2026](https://www.analyticsvidhya.com/blog/2026/02/top-generative-ai-books/) (2026-02-17)
 
 </details>
 
@@ -603,11 +603,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/sending-rcs-cards
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Building a Simple MCP Server in Python](https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/) (2026-02-19)
 - [Agentify Your App with GitHub Copilot’s Agentic Coding SDK](https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/) (2026-02-18)
 - [LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?](https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/) (2026-02-17)
 - [Top 7 Small Language Models You Can Run on a Laptop](https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/) (2026-02-16)
 - [Choosing Between PCA and t-SNE for Visualization](https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/) (2026-02-12)
-- [The Machine Learning Practitioner’s Guide to Speculative Decoding](https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/) (2026-02-11)
 
 </details>
 
