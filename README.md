@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [General Catalyst commits $5B to India over five years](https://techcrunch.com/2026/02/19/general-catalyst-commits-5b-to-india-over-five-years/) (2026-02-20)
+- [Ali Partovi’s Neo looks to upend the accelerator model with low-dilution terms](https://techcrunch.com/2026/02/19/ali-partovis-neo-looks-to-upend-the-accelerator-model-with-low-dilution-terms/) (2026-02-20)
 - [Google’s new Gemini Pro model has record benchmark scores — again](https://techcrunch.com/2026/02/19/googles-new-gemini-pro-model-has-record-benchmark-scores-again/) (2026-02-20)
 - [Nvidia deepens early-stage push into India’s AI startup ecosystem](https://techcrunch.com/2026/02/19/nvidia-deepens-early-stage-push-into-indias-ai-startup-ecosystem/) (2026-02-20)
 - [FBI says ATM ‘jackpotting’ attacks are on the rise, and netting hackers millions in stolen cash](https://techcrunch.com/2026/02/19/fbi-says-atm-jackpotting-attacks-are-on-the-rise-and-netting-hackers-millions-in-stolen-cash/) (2026-02-19)
-- [At a critical moment, Snap loses a top Specs exec](https://techcrunch.com/2026/02/19/at-a-critical-moment-snap-loses-a-top-specs-exec/) (2026-02-19)
-- [Second and last chance for innovators to win scaling perks: Belden extends nomination window](https://techcrunch.com/2026/02/19/second-and-last-chance-for-innovators-to-win-scaling-perks-belden-extends-nomination-window/) (2026-02-19)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: A small, simple music theory library in C99](https://github.com/thelowsunoverthemoon/mahler.c) (2026-02-19)
-- [Single vaccine could protect against all coughs, colds and flus](https://www.bbc.com/news/articles/cx2g8rz7yedo) (2026-02-19)
-- [Show HN: Ghostty-based terminal with vertical tabs and notifications](https://github.com/manaflow-ai/cmux) (2026-02-19)
-- [We're no longer attracting top talent: the brain drain killing American science](https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts) (2026-02-19)
-- [Overall, the colorectal cancer story is encouraging](https://www.hankgreen.com/crc) (2026-02-19)
+- [Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit](https://github.com/olvvier/apple-silicon-accelerometer) (2026-02-20)
+- [Fast KV Compaction via Attention Matching](https://arxiv.org/abs/2602.16284) (2026-02-20)
+- [Mystery donor gives Japanese city $3.6M in gold bars to fix water system](https://www.bbc.com/news/articles/c3ew5jlqz87o) (2026-02-20)
+- [Consistency diffusion language models: Up to 14x faster, no quality loss](https://www.together.ai/blog/consistency-diffusion-language-models) (2026-02-20)
+- [An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/) (2026-02-20)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Even GenAI uses Wikipedia as a source](https://stackoverflow.blog/2026/02/20/even-genai-uses-wikipedia-as-a-source/) (2026-02-20)
 - [Why Stack Overflow and Cloudflare launched a pay-per-crawl model](https://stackoverflow.blog/2026/02/19/stack-overflow-cloudflare-pay-per-crawl/) (2026-02-19)
 - [Mind the gap: Closing the AI trust gap for developers](https://stackoverflow.blog/2026/02/18/closing-the-developer-ai-trust-gap/) (2026-02-18)
 - [Data is the new oil, and your database is the only way to extract it](https://stackoverflow.blog/2026/02/17/data-is-the-new-oil/) (2026-02-17)
 - [Even your voice is a data problem](https://stackoverflow.blog/2026/02/13/even-your-voice-is-a-data-problem/) (2026-02-13)
-- [How everyone and anyone can use AI for good](https://stackoverflow.blog/2026/02/12/how-everyone-and-anyone-can-use-ai-for-good/) (2026-02-12)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Composable Async Pipelines in TypeScript: One Result Type, Zero Adapters](https://dev.to/sakobume/composable-async-pipelines-in-typescript-one-result-type-zero-adapters-2mka) (2026-02-20)
-- [The Glue Code Tax: A Line-by-Line Audit of Zod + react-hook-form](https://dev.to/sakobume/the-glue-code-tax-a-line-by-line-audit-of-zod-react-hook-form-4lg) (2026-02-20)
-- [I Stopped Context-Switching Between Validation, Forms, and Pipelines](https://dev.to/sakobume/i-stopped-context-switching-between-validation-forms-and-pipelines-4h6o) (2026-02-20)
-- [Why Japanese Character Counting is a Nightmare for Developers (and How to Solve It)](https://dev.to/yuxuan_jiang_50486eabe8be/why-japanese-character-counting-is-a-nightmare-for-developers-and-how-to-solve-it-3348) (2026-02-20)
-- [AI-Driven Development fails to deliver a fundamental increase in software productivity](https://dev.to/neopotato/ai-driven-development-fails-to-deliver-a-fundamental-increase-in-software-productivity-49mg) (2026-02-20)
+- [Technical Writing Needs Attention](https://dev.to/rvbug/technical-writing-needs-attention-4303) (2026-02-20)
+- [How We Built a 5x Faster NotebookLM Watermark Tool on AWS — Engineering Story](https://dev.to/morninginsights_6f61e04f2/how-we-built-a-5x-faster-notebooklm-watermark-tool-on-aws-engineering-story-29fe) (2026-02-20)
+- [I Built Vector-Only Search First. Here's Why I Had to Rewrite It.](https://dev.to/rosen_hristov/i-built-vector-only-search-first-heres-why-i-had-to-rewrite-it-4dh0) (2026-02-20)
+- [Building a Persistent Dark Mode in HarmonyOS with ArkTS Preferences](https://dev.to/harmonyos/building-a-persistent-dark-mode-in-harmonyos-with-arkts-preferences-3pol) (2026-02-20)
+- [What Claude Taught Me About Using Claude](https://dev.to/dang-w/what-claude-taught-me-about-using-claude-2njn) (2026-02-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Redis Distributed Locking in Spring Boot](https://medium.com/@AlexanderObregon/redis-distributed-locking-in-spring-boot-727710b518fc?source=rss------programming-5) (2026-02-20)
-- [How I Refactored My Resume Like a Codebase — and Turned It Into a Senior-Level Story](https://medium.com/@akshya672222/how-i-refactored-my-resume-like-a-codebase-and-turned-it-into-a-senior-level-story-c458f66de2a5?source=rss------programming-5) (2026-02-20)
-- [Why Capital Efficiency Is the Real Product in DeFi](https://medium.com/@imasifrao7/why-capital-efficiency-is-the-real-product-in-defi-4f1a80ff3825?source=rss------programming-5) (2026-02-20)
-- [Zxing Org QR Generator and Zxing WiFi Password QR Scanner that’s Exactly Show Bold Password and…](https://medium.com/@zxing7515/zxing-org-qr-generator-and-zxing-wifi-password-qr-scanner-thats-exactly-show-bold-password-and-45e4a268f6a4?source=rss------programming-5) (2026-02-20)
-- [Why Everyone Is Learning Python in 2026](https://python.plainenglish.io/why-everyone-is-learning-python-in-2026-664e43ae7aa7?source=rss------programming-5) (2026-02-20)
+- [The Modern JavaScript Ecosystem in 2026: Tools, Trends, and What Developers Must Know](https://medium.com/@aswinrajan6969/the-modern-javascript-ecosystem-in-2026-tools-trends-and-what-developers-must-know-38585e58d86d?source=rss------programming-5) (2026-02-20)
+- [Docker in Production: The 12 Things Nobody Tells You in Tutorials](https://medium.com/codex/docker-in-production-the-12-things-nobody-tells-you-in-tutorials-d54241affa22?source=rss------programming-5) (2026-02-20)
+- [The last time I wrote an incident report manually](https://blog.stackademic.com/the-last-time-i-wrote-an-incident-report-manually-a2a896ac8cf8?source=rss------programming-5) (2026-02-20)
+- [The “AI-Proof” Infrastructure: Converting a Mac Mini into a 24/7 Autonomous Agent](https://medium.com/@akhil.reji141/the-ai-proof-infrastructure-converting-a-mac-mini-into-a-24-7-autonomous-agent-4eef4940942c?source=rss------programming-5) (2026-02-20)
+- [Production-Grade Error Handling in Python — A Practical Guide](https://medium.com/the-pythonworld/production-grade-error-handling-in-python-a-practical-guide-3e871e1ad70e?source=rss------programming-5) (2026-02-20)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873) (2026-02-17)
-- [Azure reliability, resiliency, and recoverability: Build continuity by design](https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/) (2026-02-17)
 - [The data behind the design: How Pantone built agentic AI with an AI-ready database](https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/) (2026-02-12)
 - [Agentic cloud operations: A new way to run the cloud](https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/) (2026-02-11)
 - [Can high-temperature superconductors transform the power infrastructure of datacenters?](https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/) (2026-02-10)
+- [Five Reasons to attend SQLCon](https://blog.fabric.microsoft.com/en-us/blog/32624) (2026-02-09)
+- [Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/) (2026-02-05)
 
 </details>
 
@@ -503,11 +503,11 @@ https://www.twilio.com/en-us/blog/okta-byot-verify
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack Securely Powers Your Third-Party Agents With Your Business Context](https://slack.com/blog/news/mcp-real-time-search-api-now-available) (2026-02-17)
 - [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-02-13)
 - [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-02-13)
 - [How to Stay Organized at Work: Tips, Tricks, and Tools](https://slack.com/blog/productivity/how-to-stay-organized-at-work) (2026-02-13)
 - [Why We’ve Built the Future of CRM in Slack](https://slack.com/blog/transformation/ai-powered-conversational-crm) (2026-02-12)
+- [Work Faster and Smarter With AI Agents in Slack for Every Line of Business](https://slack.com/blog/productivity/slack-ai-agents-for-every-line-of-business) (2026-02-11)
 
 </details>
 
