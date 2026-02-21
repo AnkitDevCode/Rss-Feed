@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Great news for xAI: Grok is now pretty good at answering questions about Baldur’s Gate](https://techcrunch.com/2026/02/20/great-news-for-xai-grok-is-now-pretty-good-at-answering-questions-about-baldurs-gate/) (2026-02-20)
-- [Ukrainian man jailed for identity theft  that helped North Koreans get jobs at US companies](https://techcrunch.com/2026/02/20/ukrainian-man-jailed-for-identity-theft-that-helped-north-koreans-get-jobs-at-us-companies/) (2026-02-20)
-- [Tesla loses bid to overturn $243M Autopilot verdict](https://techcrunch.com/2026/02/20/tesla-loses-bid-to-overturn-243m-autopilot-verdict/) (2026-02-20)
-- [Threads posts can now be shared directly to your Instagram Story without leaving the app](https://techcrunch.com/2026/02/20/threads-posts-can-now-be-shared-directly-to-your-instagram-story-without-leaving-the-app/) (2026-02-20)
-- [Toy Story 5 takes aim at creepy AI toys: ‘I’m always listening’](https://techcrunch.com/2026/02/20/toy-story-5-takes-aim-at-creepy-ai-toys-im-always-listening/) (2026-02-20)
+- [India’s Sarvam launches Indus AI chat app as competition heats up](https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/) (2026-02-21)
+- [The creator economy’s ad revenue problem and India’s AI ambitions](https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/) (2026-02-20)
+- [Remember HQ? ‘Quiz Daddy’ Scott Rogowsky is back with TextSavvy, a daily mobile game show](https://techcrunch.com/2026/02/20/remember-hq-quiz-daddy-scott-rogowsky-is-back-with-textsavvy-a-daily-mobile-game-show/) (2026-02-20)
+- [Anthropic-funded group backs candidate attacked by rival AI super PAC](https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/) (2026-02-20)
+- [Apple’s iOS 26.4 arrives in public beta with AI music playlists, video podcasts, and more](https://techcrunch.com/2026/02/20/apples-ios-26-4-arrives-in-public-beta-with-ai-music-playlists-video-podcasts-and-more/) (2026-02-20)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Making frontier cybersecurity capabilities available to defenders](https://www.anthropic.com/news/claude-code-security) (2026-02-20)
-- [F-Droid: "Keep Android Open"](https://f-droid.org/2026/02/20/twif.html) (2026-02-20)
-- [Lil' Fun Langs](https://taylor.town/scrapscript-000) (2026-02-20)
-- [Legion Health (YC) Is Hiring Cracked SWEs for Autonomous Mental Health](https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424) (2026-02-20)
-- [Tesla to pay $243M judgement over Autopilot crash](https://electrek.co/2026/02/20/tesla-has-to-pay-historical-243-million-judgement-over-autopilot-crash-judge-says/) (2026-02-20)
+- [Be Wary of Bluesky](https://kevinak.se/blog/be-wary-of-bluesky) (2026-02-20)
+- [Lexega Turns SQL into Signals](https://lexega.com/blog/how-lexega-turns-sql-into-signals) (2026-02-20)
+- [CERN rebuilt the original browser from 1989](https://worldwideweb.cern.ch) (2026-02-20)
+- [Across the US, people are dismantling and destroying Flock surveillance cameras](https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling) (2026-02-20)
+- [Don't create .gitkeep files, use .gitignore instead](https://adamj.eu/tech/2023/09/18/git-dont-create-gitkeep/) (2026-02-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Trump Mobile is just Liberty Mobile in gold foil](https://www.theverge.com/tech/882064/trump-mobile-liberty-mobile-wireless-mvno) (2026-02-20)
-- [Everything is gambling now: the latest news on prediction markets like Polymarket and Kalshi](https://www.theverge.com/news/868238/prediction-markets-polymarket-kalshi-robinhood) (2026-02-20)
-- [Smart glasses in court are a privacy nightmare](https://www.theverge.com/tech/882030/smart-glasses-in-court-meta-mark-zuckerberg) (2026-02-20)
-- [Amazon blames human employees for an AI coding agent&#8217;s mistake](https://www.theverge.com/ai-artificial-intelligence/882005/amazon-blames-human-employees-for-an-ai-coding-agents-mistake) (2026-02-20)
-- [OpenAI&#8217;s first ChatGPT gadget could be a smart speaker with a camera](https://www.theverge.com/ai-artificial-intelligence/882077/openai-chatgpt-smart-speaker-camera-glasses-lamp) (2026-02-20)
+- [The best e-reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers) (2026-02-20)
+- [Xbox shakeup: Phil Spencer and Sarah Bond are leaving Microsoft](https://www.theverge.com/games/882363/xbox-microsoft-phil-spencer-out) (2026-02-20)
+- [Microsoft says today’s Xbox shake-up doesn’t mean game studio layoffs](https://www.theverge.com/games/882377/microsoft-says-todays-xbox-shakeup-doesnt-mean-game-studio-layoffs) (2026-02-20)
+- [SCOTUS rules Trump’s tariffs are illegal — but the fight is far from over](https://www.theverge.com/policy/882227/scotus-trump-tariffs-ruling-imports-small-businesses-refunds) (2026-02-20)
+- [Read Microsoft gaming CEO Asha Sharma&#8217;s first memo on the future of Xbox](https://www.theverge.com/games/882326/read-microsoft-gaming-ceo-asha-sharma-first-memo) (2026-02-20)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- ["Million-year-old" fossil skulls from China are far older—and not Denisovans](https://arstechnica.com/science/2026/02/new-dates-on-chinese-fossils-raise-question-of-how-many-times-we-left-africa/) (2026-02-20)
-- [It's outright war for the Iron Throne in House of the Dragon S3 teaser](https://arstechnica.com/culture/2026/02/its-outright-war-for-the-iron-throne-in-house-of-the-dragon-s3-teaser/) (2026-02-20)
-- [Pokémon Red and Green’s GBA remakes are getting re-released on Switch for $20 a pop](https://arstechnica.com/gaming/2026/02/pokemon-red-and-greens-gba-remakes-are-getting-re-released-on-switch-for-20-a-pop/) (2026-02-20)
-- [Supreme Court blocks Trump's emergency tariffs, billions in refunds may be owed](https://arstechnica.com/tech-policy/2026/02/supreme-court-blocks-trumps-emergency-tariffs-billions-in-refunds-may-be-owed/) (2026-02-20)
-- [Tesla slashes Cybertruck prices as it tries to move (unpainted) metal](https://arstechnica.com/cars/2026/02/tesla-slashes-cybertruck-prices-as-it-tries-to-move-unpainted-metal/) (2026-02-20)
+- [After fueling test, optimism grows for March launch of Artemis II to the Moon](https://arstechnica.com/space/2026/02/nasa-reports-no-significant-leaks-in-artemis-ii-fueling-test-eyes-march-6-launch/) (2026-02-20)
+- [Microsoft gaming chief Phil Spencer steps down after 38 years with company](https://arstechnica.com/gaming/2026/02/microsoft-gaming-chief-phil-spencer-steps-down-after-38-years-with-company/) (2026-02-20)
+- [MAHA moms threaten to turn this car around as RFK Jr. flips on pesticide](https://arstechnica.com/health/2026/02/maha-moms-threaten-to-turn-this-car-around-as-rfk-jr-flips-on-pesticide/) (2026-02-20)
+- [Fury over Discord’s age checks explodes after shady Persona test in UK](https://arstechnica.com/tech-policy/2026/02/discord-and-persona-end-partnership-after-shady-uk-age-test-sparks-outcry/) (2026-02-20)
+- [FCC asks stations for "pro-America" programming, like daily Pledge of Allegiance](https://arstechnica.com/tech-policy/2026/02/fcc-asks-stations-for-pro-america-programming-like-daily-pledge-of-allegiance/) (2026-02-20)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Exclusive eBook: The great Al hype correction of 2025](https://www.technologyreview.com/2026/02/20/1133368/exclusive-ebook-the-great-al-hype-correction-of-2025/) (2026-02-20)
 - [The Download: Microsoft’s online reality check, and the worrying rise in measles cases](https://www.technologyreview.com/2026/02/20/1133396/the-download-microsofts-online-reality-check-and-the-worrying-rise-in-measles-cases/) (2026-02-20)
 - [Job titles of the future: Breast biomechanic](https://www.technologyreview.com/2026/02/20/1132629/job-titles-future-breast-biomechanic/) (2026-02-20)
 - [Community service](https://www.technologyreview.com/2026/02/20/1132640/community-service-science-fiction-story/) (2026-02-20)
 - [Measles cases are rising. Other vaccine-preventable infections could be next.](https://www.technologyreview.com/2026/02/20/1133365/measles-cases-rising-vaccine-preventable-infections-mumps-hepatitis-b/) (2026-02-20)
-- [Microsoft has a new plan to prove what’s real and what’s AI online](https://www.technologyreview.com/2026/02/19/1133360/microsoft-has-a-new-plan-to-prove-whats-real-and-whats-ai-online/) (2026-02-19)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Complete Guide: Deploying a Static Site on AWS using Nginx and User Data: Completely Automated](https://dev.to/goodnessoj/the-complete-guide-deploying-a-static-site-on-aws-using-nginx-and-user-data-fbj) (2026-02-20)
-- [I Built a Morse Code Tool to Help Me Actually Learn It](https://dev.to/suhassunder/i-built-a-morse-code-tool-to-help-me-actually-learn-it-460h) (2026-02-20)
-- [6 Prisma vs Drizzle Patterns That Cut Serverless Cold Starts by 700ms](https://dev.to/jsgurujobs/6-prisma-vs-drizzle-patterns-that-cut-serverless-cold-starts-by-700ms-5dl5) (2026-02-20)
-- [Kavita vs Calibre-Web: Which Should You Self-Host?](https://dev.to/selfhostingsh/kavita-vs-calibre-web-which-should-you-self-host-3p04) (2026-02-20)
-- [Build Your First Multi-Agent System: A Developer's Guide to Agentic AI Frameworks](https://dev.to/mohd_aafi_87ea2a9cf374692/build-your-first-multi-agent-system-a-developers-guide-to-agentic-ai-frameworks-pdo) (2026-02-20)
+- [dxgi.dll funny](https://dev.to/zljxl/dxgidll-funny-5bg5) (2026-02-21)
+- [How I Built Freecropper.com and Got 200+ Users in 7 Days](https://dev.to/holland_chirs_81f037a70a9/how-i-built-freecropper-and-got-200-users-in-7-days-18g8) (2026-02-21)
+- [Centralizing Requirements to Implementation: Using Rizm with Cursor via MCP](https://dev.to/kent_testperspectiv/centralizing-requirements-to-implementation-using-rizm-with-cursor-via-mcp-1849) (2026-02-21)
+- [Tappi Is the Most Token-Efficient Browser Tool for AI Agents. Nothing Else Comes Close.](https://dev.to/azeruddin_sheikh_f75230b5/tappi-is-the-most-token-efficient-browser-tool-for-ai-agents-nothing-else-comes-close-33gk) (2026-02-21)
+- [Title: I built a AI Network Monitor to track where my data is actually going 🚀](https://dev.to/joshua_be_0c7de3c72439873/title-i-built-a-ai-network-monitor-to-track-where-my-data-is-actually-going-1b87) (2026-02-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Build-Time vs Runtime: The Most Common Frontend Architecture Mistake](https://medium.com/@christocdas0/build-time-vs-runtime-the-most-common-frontend-architecture-mistake-c610c1b1aceb?source=rss------programming-5) (2026-02-20)
-- [Benefits of Giving Sadaqah](https://medium.com/@ihsaninitiatiive/benefits-of-giving-sadaqah-997687722689?source=rss------programming-5) (2026-02-20)
-- [Linear Issues from Nightwatch: From Error to Resolution in One Click](https://sadiqueali.medium.com/linear-issues-from-nightwatch-from-error-to-resolution-in-one-click-57fe6ff59802?source=rss------programming-5) (2026-02-20)
-- [ Best LLMs for Coding in VS Code (2026 Guide)](https://medium.com/@er.abhisheksharma26/best-llms-for-coding-in-vs-code-2026-guide-e1f6ecaf2bb8?source=rss------programming-5) (2026-02-20)
-- [Shallow Copy vs Deep Copy in JavaScript (Explained Simply)](https://medium.com/@maibhushan/shallow-copy-vs-deep-copy-in-javascript-explained-simply-1205971a2df8?source=rss------programming-5) (2026-02-20)
+- [Token Bucket Rate Limiting with Bucket4j in Spring Boot](https://medium.com/@AlexanderObregon/token-bucket-rate-limiting-with-bucket4j-in-spring-boot-d8f49c74e878?source=rss------programming-5) (2026-02-21)
+- [What are NoCode Tools?](https://medium.com/sourcescribes/what-are-nocode-tools-8340dcf23077?source=rss------programming-5) (2026-02-21)
+- [Getting back into code: AI rekindled my love for programming.](https://scottpallas.medium.com/getting-back-into-code-ai-rekindled-my-love-for-programming-db62d2d45bb0?source=rss------programming-5) (2026-02-21)
+- [Why the importance of math is inversely proportional to your aptitude for natural reasoning.](https://medium.com/@the.code.asylum/why-the-importance-of-math-is-inversely-proportional-to-your-aptitude-for-natural-reasoning-03442b039c8c?source=rss------programming-5) (2026-02-21)
+- [How to Write a Good Spec for AI Agents ](https://ai.plainenglish.io/how-to-write-a-good-spec-for-ai-agents-f254577d2f77?source=rss------programming-5) (2026-02-21)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873) (2026-02-17)
+- [Azure reliability, resiliency, and recoverability: Build continuity by design](https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/) (2026-02-17)
 - [The data behind the design: How Pantone built agentic AI with an AI-ready database](https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/) (2026-02-12)
 - [Agentic cloud operations: A new way to run the cloud](https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/) (2026-02-11)
 - [Can high-temperature superconductors transform the power infrastructure of datacenters?](https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/) (2026-02-10)
-- [Five Reasons to attend SQLCon](https://blog.fabric.microsoft.com/en-us/blog/32624) (2026-02-09)
-- [Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/) (2026-02-05)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [IntelliJ IDEA 2025.3.3 Is Out!](https://blog.jetbrains.com/idea/2026/02/intellij-idea-2025-3-3/) (2026-02-20)
 - [Write Modern Go Code With Junie and Claude Code](https://blog.jetbrains.com/go/2026/02/20/write-modern-go-code-with-junie-and-claude-code/) (2026-02-20)
 - [The Missing Link Between AI and Business Value](https://blog.jetbrains.com/ai/2026/02/the-missing-link-between-ai-and-business-value/) (2026-02-20)
 - [TeamCity 2025.11.3 Is Here](https://blog.jetbrains.com/teamcity/2026/02/teamcity-2025-11-3-bug-fix/) (2026-02-19)
 - [Java to Kotlin Conversion Comes to Visual Studio Code](https://blog.jetbrains.com/kotlin/2026/02/java-to-kotlin-conversion-comes-to-visual-studio-code/) (2026-02-19)
-- [How Students Are Using AI-Powered Hints in Programming Courses](https://blog.jetbrains.com/research/2026/02/how-ai-powered-hints-used/) (2026-02-19)
 
 </details>
 
