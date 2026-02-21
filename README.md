@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’](https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/) (2026-02-21)
+- [Google VP warns that two types of AI startups may not survive](https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/) (2026-02-21)
+- [OpenAI debated calling police about suspected Canadian shooter’s chats](https://techcrunch.com/2026/02/21/openai-debated-calling-police-about-suspected-canadian-shooters-chats/) (2026-02-21)
+- [7 days until ticket prices rise for TechCrunch Disrupt 2026](https://techcrunch.com/2026/02/21/7-days-until-ticket-prices-rise-for-techcrunch-disrupt-2026/) (2026-02-21)
 - [India’s Sarvam launches Indus AI chat app as competition heats up](https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/) (2026-02-21)
-- [The creator economy’s ad revenue problem and India’s AI ambitions](https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/) (2026-02-20)
-- [Remember HQ? ‘Quiz Daddy’ Scott Rogowsky is back with TextSavvy, a daily mobile game show](https://techcrunch.com/2026/02/20/remember-hq-quiz-daddy-scott-rogowsky-is-back-with-textsavvy-a-daily-mobile-game-show/) (2026-02-20)
-- [Anthropic-funded group backs candidate attacked by rival AI super PAC](https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/) (2026-02-20)
-- [Apple’s iOS 26.4 arrives in public beta with AI music playlists, video podcasts, and more](https://techcrunch.com/2026/02/20/apples-ios-26-4-arrives-in-public-beta-with-ai-music-playlists-video-podcasts-and-more/) (2026-02-20)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Padlet (YC W13) Is Hiring in San Francisco and Singapore](https://padlet.jobs) (2026-02-21)
-- [What Happened to Software Is Happening to Finance and Accounting](https://doempke.com/what-happened-to-software-is-happening-to-finance-and-accounting/) (2026-02-21)
-- [Andrej Karpathy talks about "Claws"](https://simonwillison.net/2026/Feb/21/claws/) (2026-02-21)
-- [Large Language Model Reasoning Failures](https://arxiv.org/abs/2602.06176) (2026-02-21)
-- [LibreOffice blasts OnlyOffice for working with Microsoft to lock users in](https://www.neowin.net/news/libreoffice-blasts-fake-open-source-onlyoffice-for-working-with-microsoft-to-lock-users-in/) (2026-02-21)
+- [What Not to Write on Your Security Clearance Form](https://milk.com/wall-o-shame/security_clearance.html) (2026-02-21)
+- [The Nekonomicon – Nekochan.net Archive, Updated](http://nekonomicon.irixnet.org/) (2026-02-21)
+- [Show HN: Iron-Wolf – Wolfenstein 3D source port in Rust](https://github.com/Ragnaroek/iron-wolf) (2026-02-21)
+- [macOS's Little-Known Command-Line Sandboxing Tool (2025)](https://igorstechnoclub.com/sandbox-exec/) (2026-02-21)
+- [CXMT has been offering DDR4 chips at about half the prevailing market rate](https://www.koreaherald.com/article/10679206) (2026-02-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Anker’s X1 Pro shouldn’t exist, but I’m so glad it does](https://www.theverge.com/tech/881788/soundcore-nebula-x1-pro-review-comparison-x1) (2026-02-21)
-- [The best e-reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers) (2026-02-20)
-- [Xbox shakeup: Phil Spencer and Sarah Bond are leaving Microsoft](https://www.theverge.com/games/882363/xbox-microsoft-phil-spencer-out) (2026-02-20)
-- [Microsoft says today’s Xbox shake-up doesn’t mean game studio layoffs](https://www.theverge.com/games/882377/microsoft-says-todays-xbox-shakeup-doesnt-mean-game-studio-layoffs) (2026-02-20)
-- [SCOTUS rules Trump’s tariffs are illegal — but the fight is far from over](https://www.theverge.com/policy/882227/scotus-trump-tariffs-ruling-imports-small-businesses-refunds) (2026-02-20)
+- [Georgia says Elon Musk’s America PAC violated election law](https://www.theverge.com/tech/882838/georgia-elon-musk-america-pac-voter-fraud) (2026-02-21)
+- [Suspect in Tumbler Ridge school shooting described violent scenarios to ChatGPT](https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt) (2026-02-21)
+- [The Pixel 10A and Soundcore Space One are just two of the best deals this week](https://www.theverge.com/gadgets/881998/google-pixel-10a-anker-351-power-strip-deal-sale) (2026-02-21)
+- [Aerial_Knight’s DropShot captures the thrill of skydiving and makes it stylish](https://www.theverge.com/games/875259/dropshot-aerial-knight-review-pc-playstation-xbox) (2026-02-21)
+- [Stellantis is in a crisis of its own making](https://www.theverge.com/transportation/881987/stellantis-crisis-ev-loss-sales-regulations) (2026-02-21)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Dinosaur eggshells can reveal the age of other fossils](https://arstechnica.com/science/2026/02/dinosaur-eggshells-can-reveal-the-age-of-other-fossils/) (2026-02-21)
+- [Have we leapt into commercial genetic testing without understanding it?](https://arstechnica.com/science/2026/02/have-we-leapt-into-commercial-genetic-testing-without-understanding-it/) (2026-02-21)
+- [Major government research lab appears to be squeezing out foreign scientists](https://arstechnica.com/science/2026/02/major-government-research-lab-appears-to-be-squeezing-out-foreign-scientists/) (2026-02-21)
 - [After fueling test, optimism grows for March launch of Artemis II to the Moon](https://arstechnica.com/space/2026/02/nasa-reports-no-significant-leaks-in-artemis-ii-fueling-test-eyes-march-6-launch/) (2026-02-20)
 - [Microsoft gaming chief Phil Spencer steps down after 38 years with company](https://arstechnica.com/gaming/2026/02/microsoft-gaming-chief-phil-spencer-steps-down-after-38-years-with-company/) (2026-02-20)
-- [MAHA moms threaten to turn this car around as RFK Jr. flips on pesticide](https://arstechnica.com/health/2026/02/maha-moms-threaten-to-turn-this-car-around-as-rfk-jr-flips-on-pesticide/) (2026-02-20)
-- [Fury over Discord’s age checks explodes after shady Persona test in UK](https://arstechnica.com/tech-policy/2026/02/discord-and-persona-end-partnership-after-shady-uk-age-test-sparks-outcry/) (2026-02-20)
-- [FCC asks stations for "pro-America" programming, like daily Pledge of Allegiance](https://arstechnica.com/tech-policy/2026/02/fcc-asks-stations-for-pro-america-programming-like-daily-pledge-of-allegiance/) (2026-02-20)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Idea for a Bitcoin wallet backup service that is non-custodial and fully respects self-sovereignty and privacy](https://dev.to/harshit_kedia/idea-for-a-bitcoin-wallet-backup-service-that-is-non-custodial-and-fully-respects-self-sovereignty-1e9g) (2026-02-21)
-- [From Skill to Gene: Why AI Agents Need to Evolve from the Tool Paradigm to the Life Paradigm](https://dev.to/web3coderman/from-skill-to-gene-why-ai-agents-need-to-evolve-from-the-tool-paradigm-to-the-life-paradigm-197n) (2026-02-21)
-- [Your Article Isn’t the Real Content](https://dev.to/pascal_cescato_692b7a8a20/your-article-isnt-the-real-content-2e67) (2026-02-21)
-- [A Step‑by‑Step Guide to Creating a Windows Server 2025 Virtual Machine in Azure](https://dev.to/adegbola_adeniyi_841e65f3/a-step-by-step-guide-to-creating-a-windows-server-2025-virtual-machine-in-azure-md6) (2026-02-21)
-- [I Built a Cloud Terminal Because I Was Tired of Babysitting My Laptop](https://dev.to/sanaullahraisofficial/i-built-a-cloud-terminal-because-i-was-tired-of-babysitting-my-laptop-2k2g) (2026-02-21)
+- [The $100k AWS Routing Trap: S3 + NAT Gateways (and how to fix it with Terraform)](https://dev.to/ntctech/the-100k-aws-routing-trap-s3-nat-gateways-and-how-to-fix-it-with-terraform-41fo) (2026-02-21)
+- [Procrastination in disguise](https://dev.to/jaboarnoldlandry/procrastination-in-disguise-3605) (2026-02-21)
+- [I Built 7 AI Products in One Weekend — Here's What I Learned (And You Can Have Them)](https://dev.to/caper_dev/i-built-7-ai-products-in-one-weekend-heres-what-i-learned-and-you-can-have-them-2nj9) (2026-02-21)
+- [The 11 Most Popular NuGet Packages to Know in 2026 (updated!)](https://dev.to/polymorphicguy/the-11-most-popular-nuget-packages-to-know-in-2026-updated-20f5) (2026-02-21)
+- [Just Launched My Portfolio — What Do You Think?](https://dev.to/cgcm070/just-launched-my-portfolio-what-do-you-think-336j) (2026-02-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Teaching a Computer to Find Words (My Way)](https://medium.com/@C0l0red/teaching-a-computer-to-find-words-my-way-1e19b9eeafa0?source=rss------programming-5) (2026-02-21)
-- [How Go 1.26 Improves cgo Performance by ~30%](https://ademawan.medium.com/how-go-1-26-improves-cgo-performance-by-30-4852aab2c782?source=rss------programming-5) (2026-02-21)
-- [Same Brain. New Direction](https://medium.com/@runtime-hq/same-brain-new-direction-17801ef53f94?source=rss------programming-5) (2026-02-21)
-- [We’re Not Close to AGI. Here’s Why](https://medium.com/@jaysenpatil158/were-not-close-to-agi-here-s-why-5a691f13e9bc?source=rss------programming-5) (2026-02-21)
-- [Why the “No-Code” Revolution Won’t Replace Junior Developers in 2026 (Yet)](https://medium.com/@kansaradk8891/why-the-no-code-revolution-wont-replace-junior-developers-in-2026-yet-5e78a95389f7?source=rss------programming-5) (2026-02-21)
+- [5 management consulting tricks I brought with me to software engineering](https://medium.com/@angelina.chigrinetc.dev/5-management-consulting-tricks-i-brought-with-me-to-software-engineering-313ba3020dde?source=rss------programming-5) (2026-02-21)
+- [Coding Is Solved.](https://kotrotsos.medium.com/coding-is-solved-e91815553e3b?source=rss------programming-5) (2026-02-21)
+- [Mapping Domain-Driven Design Concepts To The Database With EF Core](https://medium.com/@mariammaurice/mapping-domain-driven-design-concepts-to-the-database-with-ef-core-4bfd3f0aa146?source=rss------programming-5) (2026-02-21)
+- [Your CSS Is a Crime Scene. Here’s How to Stop Making It Worse.](https://medium.com/notes-from-the-browser/your-css-is-a-crime-scene-heres-how-to-stop-making-it-worse-b14194f7ff98?source=rss------programming-5) (2026-02-21)
+- [Junior Developer in the Age of AI](https://blog.stackademic.com/junior-developer-in-the-age-of-ai-04d336539ca3?source=rss------programming-5) (2026-02-21)
 
 </details>
 
@@ -569,22 +569,22 @@ https://www.twilio.com/en-us/blog/insights/data/data-collection
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Architecting GPUaaS for Enterprise AI On-Prem](https://towardsdatascience.com/architecting-gpuaas-for-enterprise-ai-on-prem/) (2026-02-21)
 - [Donkeys, Not Unicorns](https://towardsdatascience.com/donkeys-not-unicorns-the-new-rules-of-commoditized-magic/) (2026-02-20)
 - [An End-to-End Guide to Beautifying Your Open-Source Repo with Agentic AI](https://towardsdatascience.com/an-end-to-end-guide-to-beautifying-your-open-source-repo-with-agentic-ai/) (2026-02-20)
 - [From Monolith to Contract-Driven Data Mesh](https://towardsdatascience.com/from-monolith-to-contract-driven-data-mesh/) (2026-02-20)
 - [Code Smells: Essential Concepts For Data Scientists in the Age of AI Coding Agents](https://towardsdatascience.com/the-missing-curriculum-essential-concepts-for-data-scientists-in-the-age-of-ai-coding-agents/) (2026-02-19)
-- [Understanding the Chi-Square Test Beyond the Formula](https://towardsdatascience.com/understanding-the-chi-square-test-beyond-the-formula/) (2026-02-19)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Mastering the Supervisor Agent: A Guide to Orchestrating Multi-Agent AI Systems](https://www.analyticsvidhya.com/blog/2026/02/supervisor-agent-guide/) (2026-02-21)
+- [15 Probability and Statistics Interview Questions Every Data Scientist Must Master](https://www.analyticsvidhya.com/blog/2026/02/probability-and-statistics-interview-questions/) (2026-02-21)
 - [Building a Self-Improving AI Support Agent with Langfuse ](https://www.analyticsvidhya.com/blog/2026/02/building-a-self-improving-ai-support-agent-with-langfuse/) (2026-02-20)
 - [Gemini 3.1 Pro: A Hands-On Test of Google’s Newest AI](https://www.analyticsvidhya.com/blog/2026/02/gemini-3-1-pro-a-hands-on-test-of-googles-newest-ai/) (2026-02-19)
 - [DBMS Data Models Explained: Types, Abstraction Levels, and SQL Examples  ](https://www.analyticsvidhya.com/blog/2026/02/dbms-data-models-explained/) (2026-02-19)
-- [Top 10 Made-in-India AI Products Shown at AI Impact Expo 2026](https://www.analyticsvidhya.com/blog/2026/02/top-made-in-india-ai-products-at-ai-impact-expo/) (2026-02-19)
-- [Top 10 Free Data Analysis Courses With Certification](https://www.analyticsvidhya.com/blog/2026/02/free-data-analysis-courses-with-certification/) (2026-02-18)
 
 </details>
 
