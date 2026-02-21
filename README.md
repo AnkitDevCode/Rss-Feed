@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Be Wary of Bluesky](https://kevinak.se/blog/be-wary-of-bluesky) (2026-02-20)
-- [Lexega Turns SQL into Signals](https://lexega.com/blog/how-lexega-turns-sql-into-signals) (2026-02-20)
-- [CERN rebuilt the original browser from 1989](https://worldwideweb.cern.ch) (2026-02-20)
-- [Across the US, people are dismantling and destroying Flock surveillance cameras](https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling) (2026-02-20)
-- [Don't create .gitkeep files, use .gitignore instead](https://adamj.eu/tech/2023/09/18/git-dont-create-gitkeep/) (2026-02-20)
+- [Colorado moves age checks from websites to operating systems](https://www.biometricupdate.com/202602/colorado-moves-age-checks-from-websites-to-operating-systems) (2026-02-21)
+- [Show HN: Script Snap – Extract code from videos](https://script-snap.com/) (2026-02-21)
+- [Meta Deployed AI and It Is Killing Our Agency](https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/) (2026-02-21)
+- [What Is OAuth?](https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b) (2026-02-21)
+- [Cord: Coordinating Trees of AI Agents](https://www.june.kim/cord) (2026-02-21)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [dxgi.dll funny](https://dev.to/zljxl/dxgidll-funny-5bg5) (2026-02-21)
-- [How I Built Freecropper.com and Got 200+ Users in 7 Days](https://dev.to/holland_chirs_81f037a70a9/how-i-built-freecropper-and-got-200-users-in-7-days-18g8) (2026-02-21)
-- [Centralizing Requirements to Implementation: Using Rizm with Cursor via MCP](https://dev.to/kent_testperspectiv/centralizing-requirements-to-implementation-using-rizm-with-cursor-via-mcp-1849) (2026-02-21)
-- [Tappi Is the Most Token-Efficient Browser Tool for AI Agents. Nothing Else Comes Close.](https://dev.to/azeruddin_sheikh_f75230b5/tappi-is-the-most-token-efficient-browser-tool-for-ai-agents-nothing-else-comes-close-33gk) (2026-02-21)
-- [Title: I built a AI Network Monitor to track where my data is actually going 🚀](https://dev.to/joshua_be_0c7de3c72439873/title-i-built-a-ai-network-monitor-to-track-where-my-data-is-actually-going-1b87) (2026-02-21)
+- [9+ Best Free Shadcn Date Picker Components for React and Next.js in 2026](https://dev.to/wrap-pixel/shadcn-date-picker-38dh) (2026-02-21)
+- [Claude Code Lost My 4-Hour Session. Here's the $0 Fix That Actually Works](https://dev.to/gonewx/claude-code-lost-my-4-hour-session-heres-the-0-fix-that-actually-works-24h6) (2026-02-21)
+- [AI Agents Are Making Decisions Nobody Can Audit](https://dev.to/nostalgicskinco/ai-agents-are-making-decisions-nobody-can-audit-2gpn) (2026-02-21)
+- [Mining and Exploration Consulting: Building Data-Driven and Sustainable Resource Operations](https://dev.to/asif_siddiqui_3d3ec4ee630/mining-and-exploration-consulting-building-data-driven-and-sustainable-resource-operations-3j7p) (2026-02-21)
+- [Scaling PostgreSQL without Microservices: Lessons from Notion’s 480 Shards](https://dev.to/souvick_20/scaling-postgresql-without-microservices-lessons-from-notions-480-shards-32id) (2026-02-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Token Bucket Rate Limiting with Bucket4j in Spring Boot](https://medium.com/@AlexanderObregon/token-bucket-rate-limiting-with-bucket4j-in-spring-boot-d8f49c74e878?source=rss------programming-5) (2026-02-21)
-- [What are NoCode Tools?](https://medium.com/sourcescribes/what-are-nocode-tools-8340dcf23077?source=rss------programming-5) (2026-02-21)
-- [Getting back into code: AI rekindled my love for programming.](https://scottpallas.medium.com/getting-back-into-code-ai-rekindled-my-love-for-programming-db62d2d45bb0?source=rss------programming-5) (2026-02-21)
-- [Why the importance of math is inversely proportional to your aptitude for natural reasoning.](https://medium.com/@the.code.asylum/why-the-importance-of-math-is-inversely-proportional-to-your-aptitude-for-natural-reasoning-03442b039c8c?source=rss------programming-5) (2026-02-21)
-- [How to Write a Good Spec for AI Agents ](https://ai.plainenglish.io/how-to-write-a-good-spec-for-ai-agents-f254577d2f77?source=rss------programming-5) (2026-02-21)
+- [How Accurate Are AI Code Review Tools in Production PRs?](https://mrrazahussain.medium.com/how-accurate-are-ai-code-review-tools-in-production-prs-23602490087b?source=rss------programming-5) (2026-02-21)
+- [The 3 AI “Facts” Everyone Believes That Are Completely Wrong](https://medium.com/the-ai-studio/the-3-ai-facts-everyone-believes-that-are-completely-wrong-03fd0e6c6356?source=rss------programming-5) (2026-02-21)
+- [How Priminent Creates a Clear Learning Path for Tech Interns](https://medium.com/@hello_22342/how-priminent-creates-a-clear-learning-path-for-tech-interns-dc2a7d6270fe?source=rss------programming-5) (2026-02-21)
+- [The Cyber Stock Sell Off, Claude Code Security & How Industries Work](https://medium.com/no-time/the-cyber-stock-sell-off-claude-code-security-how-industries-work-0c15d6a44781?source=rss------programming-5) (2026-02-21)
+- [Stegra’s green hydrogen iron: A sustainable steelmaking revolution](https://medium.com/codetodeploy/stegras-green-hydrogen-iron-a-sustainable-steelmaking-revolution-c5c68d089d4e?source=rss------programming-5) (2026-02-21)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873) (2026-02-17)
-- [Azure reliability, resiliency, and recoverability: Build continuity by design](https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/) (2026-02-17)
 - [The data behind the design: How Pantone built agentic AI with an AI-ready database](https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/) (2026-02-12)
 - [Agentic cloud operations: A new way to run the cloud](https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/) (2026-02-11)
 - [Can high-temperature superconductors transform the power infrastructure of datacenters?](https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/) (2026-02-10)
+- [Five Reasons to attend SQLCon](https://blog.fabric.microsoft.com/en-us/blog/32624) (2026-02-09)
+- [Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/) (2026-02-05)
 
 </details>
 
@@ -503,11 +503,11 @@ https://www.twilio.com/en-us/blog/insights/data/data-collection
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack Securely Powers Your Third-Party Agents With Your Business Context](https://slack.com/blog/news/mcp-real-time-search-api-now-available) (2026-02-17)
 - [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-02-13)
 - [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-02-13)
 - [How to Stay Organized at Work: Tips, Tricks, and Tools](https://slack.com/blog/productivity/how-to-stay-organized-at-work) (2026-02-13)
 - [Why We’ve Built the Future of CRM in Slack](https://slack.com/blog/transformation/ai-powered-conversational-crm) (2026-02-12)
+- [Work Faster and Smarter With AI Agents in Slack for Every Line of Business](https://slack.com/blog/productivity/slack-ai-agents-for-every-line-of-business) (2026-02-11)
 
 </details>
 
