@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Colorado moves age checks from websites to operating systems](https://www.biometricupdate.com/202602/colorado-moves-age-checks-from-websites-to-operating-systems) (2026-02-21)
-- [Show HN: Script Snap – Extract code from videos](https://script-snap.com/) (2026-02-21)
-- [Meta Deployed AI and It Is Killing Our Agency](https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/) (2026-02-21)
-- [What Is OAuth?](https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b) (2026-02-21)
-- [Cord: Coordinating Trees of AI Agents](https://www.june.kim/cord) (2026-02-21)
+- [Padlet (YC W13) Is Hiring in San Francisco and Singapore](https://padlet.jobs) (2026-02-21)
+- [What Happened to Software Is Happening to Finance and Accounting](https://doempke.com/what-happened-to-software-is-happening-to-finance-and-accounting/) (2026-02-21)
+- [Andrej Karpathy talks about "Claws"](https://simonwillison.net/2026/Feb/21/claws/) (2026-02-21)
+- [Large Language Model Reasoning Failures](https://arxiv.org/abs/2602.06176) (2026-02-21)
+- [LibreOffice blasts OnlyOffice for working with Microsoft to lock users in](https://www.neowin.net/news/libreoffice-blasts-fake-open-source-onlyoffice-for-working-with-microsoft-to-lock-users-in/) (2026-02-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Anker’s X1 Pro shouldn’t exist, but I’m so glad it does](https://www.theverge.com/tech/881788/soundcore-nebula-x1-pro-review-comparison-x1) (2026-02-21)
 - [The best e-reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers) (2026-02-20)
 - [Xbox shakeup: Phil Spencer and Sarah Bond are leaving Microsoft](https://www.theverge.com/games/882363/xbox-microsoft-phil-spencer-out) (2026-02-20)
 - [Microsoft says today’s Xbox shake-up doesn’t mean game studio layoffs](https://www.theverge.com/games/882377/microsoft-says-todays-xbox-shakeup-doesnt-mean-game-studio-layoffs) (2026-02-20)
 - [SCOTUS rules Trump’s tariffs are illegal — but the fight is far from over](https://www.theverge.com/policy/882227/scotus-trump-tariffs-ruling-imports-small-businesses-refunds) (2026-02-20)
-- [Read Microsoft gaming CEO Asha Sharma&#8217;s first memo on the future of Xbox](https://www.theverge.com/games/882326/read-microsoft-gaming-ceo-asha-sharma-first-memo) (2026-02-20)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [9+ Best Free Shadcn Date Picker Components for React and Next.js in 2026](https://dev.to/wrap-pixel/shadcn-date-picker-38dh) (2026-02-21)
-- [Claude Code Lost My 4-Hour Session. Here's the $0 Fix That Actually Works](https://dev.to/gonewx/claude-code-lost-my-4-hour-session-heres-the-0-fix-that-actually-works-24h6) (2026-02-21)
-- [AI Agents Are Making Decisions Nobody Can Audit](https://dev.to/nostalgicskinco/ai-agents-are-making-decisions-nobody-can-audit-2gpn) (2026-02-21)
-- [Mining and Exploration Consulting: Building Data-Driven and Sustainable Resource Operations](https://dev.to/asif_siddiqui_3d3ec4ee630/mining-and-exploration-consulting-building-data-driven-and-sustainable-resource-operations-3j7p) (2026-02-21)
-- [Scaling PostgreSQL without Microservices: Lessons from Notion’s 480 Shards](https://dev.to/souvick_20/scaling-postgresql-without-microservices-lessons-from-notions-480-shards-32id) (2026-02-21)
+- [Idea for a Bitcoin wallet backup service that is non-custodial and fully respects self-sovereignty and privacy](https://dev.to/harshit_kedia/idea-for-a-bitcoin-wallet-backup-service-that-is-non-custodial-and-fully-respects-self-sovereignty-1e9g) (2026-02-21)
+- [From Skill to Gene: Why AI Agents Need to Evolve from the Tool Paradigm to the Life Paradigm](https://dev.to/web3coderman/from-skill-to-gene-why-ai-agents-need-to-evolve-from-the-tool-paradigm-to-the-life-paradigm-197n) (2026-02-21)
+- [Your Article Isn’t the Real Content](https://dev.to/pascal_cescato_692b7a8a20/your-article-isnt-the-real-content-2e67) (2026-02-21)
+- [A Step‑by‑Step Guide to Creating a Windows Server 2025 Virtual Machine in Azure](https://dev.to/adegbola_adeniyi_841e65f3/a-step-by-step-guide-to-creating-a-windows-server-2025-virtual-machine-in-azure-md6) (2026-02-21)
+- [I Built a Cloud Terminal Because I Was Tired of Babysitting My Laptop](https://dev.to/sanaullahraisofficial/i-built-a-cloud-terminal-because-i-was-tired-of-babysitting-my-laptop-2k2g) (2026-02-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How Accurate Are AI Code Review Tools in Production PRs?](https://mrrazahussain.medium.com/how-accurate-are-ai-code-review-tools-in-production-prs-23602490087b?source=rss------programming-5) (2026-02-21)
-- [The 3 AI “Facts” Everyone Believes That Are Completely Wrong](https://medium.com/the-ai-studio/the-3-ai-facts-everyone-believes-that-are-completely-wrong-03fd0e6c6356?source=rss------programming-5) (2026-02-21)
-- [How Priminent Creates a Clear Learning Path for Tech Interns](https://medium.com/@hello_22342/how-priminent-creates-a-clear-learning-path-for-tech-interns-dc2a7d6270fe?source=rss------programming-5) (2026-02-21)
-- [The Cyber Stock Sell Off, Claude Code Security & How Industries Work](https://medium.com/no-time/the-cyber-stock-sell-off-claude-code-security-how-industries-work-0c15d6a44781?source=rss------programming-5) (2026-02-21)
-- [Stegra’s green hydrogen iron: A sustainable steelmaking revolution](https://medium.com/codetodeploy/stegras-green-hydrogen-iron-a-sustainable-steelmaking-revolution-c5c68d089d4e?source=rss------programming-5) (2026-02-21)
+- [Teaching a Computer to Find Words (My Way)](https://medium.com/@C0l0red/teaching-a-computer-to-find-words-my-way-1e19b9eeafa0?source=rss------programming-5) (2026-02-21)
+- [How Go 1.26 Improves cgo Performance by ~30%](https://ademawan.medium.com/how-go-1-26-improves-cgo-performance-by-30-4852aab2c782?source=rss------programming-5) (2026-02-21)
+- [Same Brain. New Direction](https://medium.com/@runtime-hq/same-brain-new-direction-17801ef53f94?source=rss------programming-5) (2026-02-21)
+- [We’re Not Close to AGI. Here’s Why](https://medium.com/@jaysenpatil158/were-not-close-to-agi-here-s-why-5a691f13e9bc?source=rss------programming-5) (2026-02-21)
+- [Why the “No-Code” Revolution Won’t Replace Junior Developers in 2026 (Yet)](https://medium.com/@kansaradk8891/why-the-no-code-revolution-wont-replace-junior-developers-in-2026-yet-5e78a95389f7?source=rss------programming-5) (2026-02-21)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873) (2026-02-17)
+- [Azure reliability, resiliency, and recoverability: Build continuity by design](https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/) (2026-02-17)
 - [The data behind the design: How Pantone built agentic AI with an AI-ready database](https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/) (2026-02-12)
 - [Agentic cloud operations: A new way to run the cloud](https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/) (2026-02-11)
 - [Can high-temperature superconductors transform the power infrastructure of datacenters?](https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/) (2026-02-10)
-- [Five Reasons to attend SQLCon](https://blog.fabric.microsoft.com/en-us/blog/32624) (2026-02-09)
-- [Claude Opus 4.6: Anthropic’s powerful model for coding, agents, and enterprise workflows is now available in Microsoft Foundry](https://azure.microsoft.com/en-us/blog/claude-opus-4-6-anthropics-powerful-model-for-coding-agents-and-enterprise-workflows-is-now-available-in-microsoft-foundry-on-azure/) (2026-02-05)
 
 </details>
 
@@ -503,11 +503,11 @@ https://www.twilio.com/en-us/blog/insights/data/data-collection
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slack Securely Powers Your Third-Party Agents With Your Business Context](https://slack.com/blog/news/mcp-real-time-search-api-now-available) (2026-02-17)
 - [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-02-13)
 - [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-02-13)
 - [How to Stay Organized at Work: Tips, Tricks, and Tools](https://slack.com/blog/productivity/how-to-stay-organized-at-work) (2026-02-13)
 - [Why We’ve Built the Future of CRM in Slack](https://slack.com/blog/transformation/ai-powered-conversational-crm) (2026-02-12)
-- [Work Faster and Smarter With AI Agents in Slack for Every Line of Business](https://slack.com/blog/productivity/slack-ai-agents-for-every-line-of-business) (2026-02-11)
 
 </details>
 
@@ -572,7 +572,7 @@ https://www.twilio.com/en-us/blog/insights/data/data-collection
 - [Donkeys, Not Unicorns](https://towardsdatascience.com/donkeys-not-unicorns-the-new-rules-of-commoditized-magic/) (2026-02-20)
 - [An End-to-End Guide to Beautifying Your Open-Source Repo with Agentic AI](https://towardsdatascience.com/an-end-to-end-guide-to-beautifying-your-open-source-repo-with-agentic-ai/) (2026-02-20)
 - [From Monolith to Contract-Driven Data Mesh](https://towardsdatascience.com/from-monolith-to-contract-driven-data-mesh/) (2026-02-20)
-- [The Missing Curriculum: Essential Concepts For Data Scientists in the Age of AI Coding Agents](https://towardsdatascience.com/the-missing-curriculum-essential-concepts-for-data-scientists-in-the-age-of-ai-coding-agents/) (2026-02-19)
+- [Code Smells: Essential Concepts For Data Scientists in the Age of AI Coding Agents](https://towardsdatascience.com/the-missing-curriculum-essential-concepts-for-data-scientists-in-the-age-of-ai-coding-agents/) (2026-02-19)
 - [Understanding the Chi-Square Test Beyond the Formula](https://towardsdatascience.com/understanding-the-chi-square-test-beyond-the-formula/) (2026-02-19)
 
 </details>
