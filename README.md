@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [The 9,000-pound monster I don’t want to give back](https://techcrunch.com/2026/02/22/the-9000-pound-monster-i-dont-want-to-give-back/) (2026-02-22)
-- [Move over, Apple: Meet the alternative app stores available in the EU and elsewhere](https://techcrunch.com/2026/02/22/move-over-apple-meet-the-alternative-app-stores-available-in-the-eu-and-elsewhere/) (2026-02-22)
-- [Sam Altman would like remind you that humans use a lot of energy, too](https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/) (2026-02-21)
-- [Wikipedia blacklists Archive.today after alleged DDoS attack](https://techcrunch.com/2026/02/21/wikipedia-blacklists-archive-today-after-alleged-ddos-attack/) (2026-02-21)
-- [Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’](https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/) (2026-02-21)
+- [Quantonation’s double-sized second fund shows quantum still has believers](https://techcrunch.com/2026/02/22/quantonations-double-sized-second-fund-shows-quantum-still-has-believers/) (2026-02-22)
+- [Trump says Netflix will face ‘consequences’ if it doesn’t fire board member Susan Rice](https://techcrunch.com/2026/02/22/trump-says-netflix-will-face-consequences-if-it-doesnt-fire-board-member-susan-rice/) (2026-02-22)
+- [TechCrunch Mobility: Waymo makes its defense](https://techcrunch.com/2026/02/22/techcrunch-mobility-waymo-makes-its-defense/) (2026-02-22)
+- [China’s brain-computer interface industry is racing ahead](https://techcrunch.com/2026/02/22/chinas-brain-computer-interface-industry-is-racing-ahead/) (2026-02-22)
+- [6 days left to lock in the lowest TechCrunch Disrupt 2026 rates](https://techcrunch.com/2026/02/22/6-days-left-to-lock-in-the-lowest-techcrunch-disrupt-2026-rates/) (2026-02-22)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Back to FreeBSD: Part 1](https://hypha.pub/back-to-freebsd-part-1) (2026-02-22)
-- [What's the best way to learn a new language?](https://www.bbc.com/future/article/20260220-whats-the-best-way-to-learn-a-new-language) (2026-02-22)
-- [Japanese Woodblock Print Search](https://ukiyo-e.org/) (2026-02-22)
-- [A Botnet Accidentally Destroyed I2P](https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/) (2026-02-22)
-- [How I use Claude Code: Separation of planning and execution](https://boristane.com/blog/how-i-use-claude-code/) (2026-02-22)
+- [We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them](https://quesma.com/blog/introducing-binaryaudit/) (2026-02-22)
+- [Man accidentally gains control of 7k robot vacuums](https://www.popsci.com/technology/robot-vacuum-army/) (2026-02-22)
+- [Iran students stage first large anti-government protests since deadly crackdown](https://www.bbc.com/news/articles/c5yj2kzkrj0o) (2026-02-22)
+- [I put New Zealand behind a $1 paywall](https://rename.world/) (2026-02-22)
+- [Volatility: The volatile memory forensic extraction framework](https://github.com/volatilityfoundation/volatility3) (2026-02-22)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Trump says Netflix will ‘pay the consequences’ if it doesn’t fire Susan Rice](https://www.theverge.com/policy/882881/trump-netflix-consequences-fire-susan-rice) (2026-02-22)
+- [This magazine plays Tetris — here’s how](https://www.theverge.com/tech/881175/red-bull-media-house-game-pop-bulletin-magazine-playable-tetris-flexible-display) (2026-02-22)
+- [America desperately needs new privacy laws](https://www.theverge.com/column/882516/privacy-laws-america) (2026-02-22)
+- [Vibe camera shootout: Camp Snap Pro vs. Flashback One35 V2](https://www.theverge.com/gadgets/882641/camp-snap-pro-flashback-one35-v2-digicam-camera-comparison-review) (2026-02-22)
 - [Arturia’s FX Collection 6 adds two new effects and a $99 intro version](https://www.theverge.com/tech/882852/arturia-fx-collection-6) (2026-02-21)
-- [Georgia says Elon Musk’s America PAC violated election law](https://www.theverge.com/tech/882838/georgia-elon-musk-america-pac-voter-fraud) (2026-02-21)
-- [Suspect in Tumbler Ridge school shooting described violent scenarios to ChatGPT](https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt) (2026-02-21)
-- [The Pixel 10A and Soundcore Space One are just two of the best deals this week](https://www.theverge.com/gadgets/881998/google-pixel-10a-anker-351-power-strip-deal-sale) (2026-02-21)
-- [Aerial_Knight’s DropShot captures the thrill of skydiving and makes it stylish](https://www.theverge.com/games/875259/dropshot-aerial-knight-review-pc-playstation-xbox) (2026-02-21)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Welcome to CS Student Survival Guide!](https://dev.to/misshudspithteaching/welcome-to-cs-student-survival-guide-2k9j) (2026-02-22)
-- [Adding Content Moderation to a SvelteKit App with OpenAI's Moderation API](https://dev.to/rrosset91/adding-content-moderation-to-a-sveltekit-app-with-openais-moderation-api-1f4e) (2026-02-22)
-- [Week 1](https://dev.to/timothy_imanuel_35225c051/week-1-2egp) (2026-02-22)
-- [The Universe Doesn't Owe You a Success Story (But Your Unit Tests Think It Does)](https://dev.to/chandravijayagr/the-universe-doesnt-owe-you-a-success-story-but-your-unit-tests-think-it-does-3afl) (2026-02-22)
-- [First learning session - Scrimba📖](https://dev.to/fredrik_berg/first-learning-session-scrimba-2h0l) (2026-02-22)
+- [Every Small Step Counts, Every BIT of Learning Matters](https://dev.to/deepikandas/every-small-step-counts-every-bit-of-learning-matters-2lcl) (2026-02-22)
+- [Why Claude Code Subagents Waste 50K Tokens Per Turn (And How to Fix It)](https://dev.to/jungjaehoon/why-claude-code-subagents-waste-50k-tokens-per-turn-and-how-to-fix-it-41ma) (2026-02-22)
+- [How I Built a System That Tracks 900,000 Real-Time Events Per Day](https://dev.to/spindex/how-i-built-a-system-that-tracks-900000-real-time-events-per-day-7m8) (2026-02-22)
+- [Testing, is it the egg or the chicken?](https://dev.to/peter_iregi/testing-is-it-the-egg-or-the-chicken-og9) (2026-02-22)
+- [The time bomb in your codebase (and mine too)](https://dev.to/andrey_andrade_7a534cfc95/the-time-bomb-in-your-codebase-and-mine-too-2hj4) (2026-02-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Will AI Replace Software Engineers? My Honest Take After Using It Daily](https://medium.com/@hijaabsikander2003/will-ai-replace-software-engineers-my-honest-take-after-using-it-daily-e75df8e20ba0?source=rss------programming-5) (2026-02-22)
-- [The ML Model Selection Playbook](https://pub.towardsai.net/the-ml-model-selection-playbook-abf4d39a7ae8?source=rss------programming-5) (2026-02-22)
-- [The Python Automation Stack I Wish I Discovered 3 Years Earlier](https://medium.com/@SulemanSafdar/the-python-automation-stack-i-wish-i-discovered-3-years-earlier-6808e2b4b6f4?source=rss------programming-5) (2026-02-22)
-- [Masud Sayedee proposes to celebrate Mother Language Day on 8 Falgun instead of 21 February](https://medium.com/@emmamegan9476/masud-sayedee-proposes-to-celebrate-mother-language-day-on-8-falgun-instead-of-21-february-d93f4b701851?source=rss------programming-5) (2026-02-22)
-- [Cracking the MasterCard Java Interview: 10 Questions Every Senior Engineer Must Master](https://rathod-ajay.medium.com/cracking-the-mastercard-java-interview-10-questions-every-senior-engineer-must-master-dc4496b2b688?source=rss------programming-5) (2026-02-22)
+- [Does C++ make more sense for DSA than Python? (Hear From Experts)](https://medium.com/@9-5-datascientist/does-c-make-more-sense-for-dsa-than-python-hear-from-experts-cc5c092c530e?source=rss------programming-5) (2026-02-22)
+- [Geração Assíncrona em JavaScript](https://medium.com/@aikanaroun2010/gera%C3%A7%C3%A3o-ass%C3%ADncrona-em-javascript-6ea088ad774a?source=rss------programming-5) (2026-02-22)
+- [Virtual Threads Just Made 10 Years of Reactive Java Pointless](https://medium.com/engineering-playbook/virtual-threads-just-made-10-years-of-reactive-java-pointless-ad7c4fa8810f?source=rss------programming-5) (2026-02-22)
+- [The End of Software Engineering? What the Viral AI Prediction Actually Means](https://medium.com/@fahey_james/the-end-of-software-engineering-what-the-viral-ai-prediction-actually-means-d1be62d4bac2?source=rss------programming-5) (2026-02-22)
+- [Stop Writing Static Utility Classes: 4 Spring Boot Patterns Senior Developers Use Instead](https://medium.com/@habib11wahid/stop-writing-static-utility-classes-4-spring-boot-patterns-senior-developers-use-instead-fc46d0ad464a?source=rss------programming-5) (2026-02-22)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
 - [Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873) (2026-02-17)
 - [Azure reliability, resiliency, and recoverability: Build continuity by design](https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/) (2026-02-17)
 - [The data behind the design: How Pantone built agentic AI with an AI-ready database](https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/) (2026-02-12)
 - [Agentic cloud operations: A new way to run the cloud](https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/) (2026-02-11)
+- [Can high-temperature superconductors transform the power infrastructure of datacenters?](https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/) (2026-02-10)
 
 </details>
 
@@ -362,6 +362,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Data activation: what it is & how to do it
+](
+https://www.twilio.com/en-us/blog/insights/data/data-activation
+) (2026-02-23)
+- [
+How To Track User Events With Segment in Node.js
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/track-user-events-segment-node-js
+) (2026-02-20)
+- [
 How to Use the Agent-to-Human Communication (A2H) Protocol with OpenClaw
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/building-blocks/agent-to-human-protocol-with-openclaw
@@ -376,16 +386,6 @@ How To Get Started With Twilio Segment
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-get-started-with-twilio-segment
 ) (2026-02-19)
-- [
-What is RCS on iPhone? How to enable & use it
-](
-https://www.twilio.com/en-us/blog/insights/rcs-on-iphone
-) (2026-02-17)
-- [
-What is data collection? Methods, types & examples
-](
-https://www.twilio.com/en-us/blog/insights/data/data-collection
-) (2026-02-13)
 
 </details>
 
@@ -569,22 +569,22 @@ https://www.twilio.com/en-us/blog/insights/data/data-collection
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Reality of Vibe Coding: AI Agents and the Security Debt Crisis](https://towardsdatascience.com/the-reality-of-vibe-coding-ai-agents-and-the-security-debt-crisis/) (2026-02-22)
 - [Architecting GPUaaS for Enterprise AI On-Prem](https://towardsdatascience.com/architecting-gpuaas-for-enterprise-ai-on-prem/) (2026-02-21)
 - [Donkeys, Not Unicorns](https://towardsdatascience.com/donkeys-not-unicorns-the-new-rules-of-commoditized-magic/) (2026-02-20)
 - [An End-to-End Guide to Beautifying Your Open-Source Repo with Agentic AI](https://towardsdatascience.com/an-end-to-end-guide-to-beautifying-your-open-source-repo-with-agentic-ai/) (2026-02-20)
 - [From Monolith to Contract-Driven Data Mesh](https://towardsdatascience.com/from-monolith-to-contract-driven-data-mesh/) (2026-02-20)
-- [Code Smells: Essential Concepts For Data Scientists in the Age of AI Coding Agents](https://towardsdatascience.com/the-missing-curriculum-essential-concepts-for-data-scientists-in-the-age-of-ai-coding-agents/) (2026-02-19)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Time Series vs Standard Machine Learning: Key Differences, Use Cases, and Examples ](https://www.analyticsvidhya.com/blog/2026/02/time-series-vs-standard-machine-learning/) (2026-02-22)
 - [Mastering the Supervisor Agent: A Guide to Orchestrating Multi-Agent AI Systems](https://www.analyticsvidhya.com/blog/2026/02/supervisor-agent-guide/) (2026-02-21)
 - [15 Probability and Statistics Interview Questions Every Data Scientist Must Master](https://www.analyticsvidhya.com/blog/2026/02/probability-and-statistics-interview-questions/) (2026-02-21)
 - [Building a Self-Improving AI Support Agent with Langfuse ](https://www.analyticsvidhya.com/blog/2026/02/building-a-self-improving-ai-support-agent-with-langfuse/) (2026-02-20)
 - [Gemini 3.1 Pro: A Hands-On Test of Google’s Newest AI](https://www.analyticsvidhya.com/blog/2026/02/gemini-3-1-pro-a-hands-on-test-of-googles-newest-ai/) (2026-02-19)
-- [DBMS Data Models Explained: Types, Abstraction Levels, and SQL Examples  ](https://www.analyticsvidhya.com/blog/2026/02/dbms-data-models-explained/) (2026-02-19)
 
 </details>
 
