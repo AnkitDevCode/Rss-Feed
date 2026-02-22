@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Iranian Students Protest as Anger Grows](https://www.wsj.com/world/middle-east/iranian-students-protest-as-anger-grows-89a6a44e) (2026-02-22)
+- [Japanese Woodblock Print Search](https://ukiyo-e.org/) (2026-02-22)
+- [A Botnet Accidentally Destroyed I2P](https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/) (2026-02-22)
 - [How I use Claude Code: Separation of planning and execution](https://boristane.com/blog/how-i-use-claude-code/) (2026-02-22)
-- [Are compilers deterministic?](https://blog.onepatchdown.net/2026/02/22/are-compilers-deterministic-nerd-version/) (2026-02-22)
 - [Evidence of the bouba-kiki effect in naïve baby chicks](https://www.science.org/doi/10.1126/science.adq7188) (2026-02-21)
-- [Why is Claude an Electron app?](https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html) (2026-02-21)
-- [Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU](https://github.com/xaskasdf/ntransformer) (2026-02-21)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [When Chat Turns into Control - Security Lessons from Running a Local AI Agent](https://dev.to/andremmfaria/when-chat-turns-into-control-security-lessons-from-running-a-local-ai-agent-21l0) (2026-02-22)
-- [SOLID: No seas el programador que solo "plancha" funciones 🛑](https://dev.to/manuel_martinez_e81aa7b9a/titulo-sugerido-solid-no-seas-el-programador-que-solo-plancha-funciones-4edp) (2026-02-22)
-- [From Pixels to Calories: Building a High-Precision Meal Tracker with GPT-4o Vision](https://dev.to/wellallytech/from-pixels-to-calories-building-a-high-precision-meal-tracker-with-gpt-4o-vision-5018) (2026-02-22)
-- [Building an Extraction Node: Analyzing 400+ HN Job Listings (Python vs Node.js)](https://dev.to/asterios07/building-an-extraction-node-analyzing-400-hn-job-listings-python-vs-nodejs-1ga7) (2026-02-22)
-- [I Got Tired of useQuery/Promise.all Spaghetti So I Built This 🫖🦡](https://dev.to/mimikkk/i-got-tired-of-usequerypromiseall-spaghetti-so-i-built-this-2n73) (2026-02-22)
+- [What Is a Variable: A Box or a Label?](https://dev.to/oyinade_olawoyin_aaaa6272/what-is-a-variable-a-box-or-a-label-oob) (2026-02-22)
+- [Announcing pytest-gremlins v1.3.0](https://dev.to/mikelane/announcing-pytest-gremlins-v130-53ka) (2026-02-22)
+- [ERC-8128: Your Ethereum Wallet Might Soon Be Your Only Login.](https://dev.to/caffinecoder54/erc-8128-your-ethereum-wallet-might-soon-be-your-only-loginpublished-18fb) (2026-02-22)
+- [Why MQTT Last Will Testament Isn't Enough for Production IoT (And What We Built Instead)](https://dev.to/anil_saithana/why-mqtt-last-will-testament-isnt-enough-for-production-iot-and-what-we-built-instead-44cj) (2026-02-22)
+- [I replaced the `man` command with a Python TUI — and it's actually useful](https://dev.to/yash_ambaskar_c13cc5c5f10/i-replaced-the-man-command-with-a-python-tui-and-its-actually-useful-1h7h) (2026-02-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Your AI Writes Perfect Code. That’s the Problem.](https://medium.com/@a.enabih/your-ai-writes-perfect-code-thats-the-problem-e8d409d49de2?source=rss------programming-5) (2026-02-22)
-- [Temporary Tables in SQL Explained](https://medium.com/@AlexanderObregon/temporary-tables-in-sql-explained-a96afabc5cec?source=rss------programming-5) (2026-02-22)
-- [I Couldn’t Scale My Scripts — Then I Learned These Python Tools](https://medium.com/top-python-libraries/i-couldnt-scale-my-scripts-then-i-learned-these-python-tools-1ec366177462?source=rss------programming-5) (2026-02-22)
-- [Why Python Is the Best Programming Language for Beginners (And How to Start Today)](https://medium.com/@codcups01/why-python-is-the-best-programming-language-for-beginners-and-how-to-start-today-d63f6c95185e?source=rss------programming-5) (2026-02-22)
-- [How to use GLM5 free API key?](https://medium.com/data-science-in-your-pocket/how-to-use-glm5-free-api-key-4c07c38f37e2?source=rss------programming-5) (2026-02-22)
+- [The Last Translation Layer](https://medium.com/@chakrabortyanirudh93/the-last-translation-layer-f01fd64fad01?source=rss------programming-5) (2026-02-22)
+- [Supercharge Your Flutter App with Stripe Payments ](https://medium.com/@yash22202/supercharge-your-flutter-app-with-stripe-payments-956bd9da71bd?source=rss------programming-5) (2026-02-22)
+- [How Python Powers Smart Traffic Lights Using Computer Vision and Machine Learning](https://medium.com/@georgegge3/how-python-powers-smart-traffic-lights-using-computer-vision-and-machine-learning-c8df6c1b3cf3?source=rss------programming-5) (2026-02-22)
+- [AI ships of the future: How Saronic’s autonomous vessels work](https://medium.com/codetodeploy/ai-ships-of-the-future-how-saronics-autonomous-vessels-work-941a9bff4d58?source=rss------programming-5) (2026-02-22)
+- [What is Spec-Driven Development?](https://medium.com/@Intellibytes/what-is-spec-driven-development-17e9681c6fd1?source=rss------programming-5) (2026-02-22)
 
 </details>
 
@@ -552,17 +552,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-get-starte
 - [「データ不足」の壁を越える：合成ペルソナが日本のAI開発を加速](https://huggingface.co/blog/nvidia/nemotron-personas-japan-nttdata-ja) (2026-02-19)
 - [IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST](https://huggingface.co/blog/ibm-research/itbenchandmast) (2026-02-18)
 - [One-Shot Any Web App with Gradio's gr.HTML](https://huggingface.co/blog/gradio-html-one-shot-apps) (2026-02-18)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Exploring AI in the APAC retail sector](https://www.artificialintelligence-news.com/news/exploring-ai-in-the-apac-retail-sector/) (2026-02-20)
-- [AI: Executives’ optimism about the future](https://www.artificialintelligence-news.com/news/ai-impact-executives-optimism-for-the-future/) (2026-02-20)
-- [Coca-Cola turns to AI marketing as price-led growth slows](https://www.artificialintelligence-news.com/news/coca-cola-turns-to-ai-marketing-as-price-led-growth-slows/) (2026-02-20)
-- [How AI upgrades enterprise treasury management](https://www.artificialintelligence-news.com/news/how-ai-upgrades-enterprise-treasury-management/) (2026-02-19)
-- [DBS pilots system that lets AI agents make payments for customers](https://www.artificialintelligence-news.com/news/dbs-pilots-system-that-lets-ai-agents-make-payments-for-customers/) (2026-02-19)
 
 </details>
 
