@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The 9,000-pound monster I don’t want to give back](https://techcrunch.com/2026/02/22/the-9000-pound-monster-i-dont-want-to-give-back/) (2026-02-22)
+- [Move over, Apple: Meet the alternative app stores available in the EU and elsewhere](https://techcrunch.com/2026/02/22/move-over-apple-meet-the-alternative-app-stores-available-in-the-eu-and-elsewhere/) (2026-02-22)
 - [Sam Altman would like remind you that humans use a lot of energy, too](https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/) (2026-02-21)
 - [Wikipedia blacklists Archive.today after alleged DDoS attack](https://techcrunch.com/2026/02/21/wikipedia-blacklists-archive-today-after-alleged-ddos-attack/) (2026-02-21)
 - [Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’](https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/) (2026-02-21)
-- [Google VP warns that two types of AI startups may not survive](https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/) (2026-02-21)
-- [OpenAI debated calling police about suspected Canadian shooter’s chats](https://techcrunch.com/2026/02/21/openai-debated-calling-police-about-suspected-canadian-shooters-chats/) (2026-02-21)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Iranian Students Protest as Anger Grows](https://www.wsj.com/world/middle-east/iranian-students-protest-as-anger-grows-89a6a44e) (2026-02-22)
+- [Back to FreeBSD: Part 1](https://hypha.pub/back-to-freebsd-part-1) (2026-02-22)
+- [What's the best way to learn a new language?](https://www.bbc.com/future/article/20260220-whats-the-best-way-to-learn-a-new-language) (2026-02-22)
 - [Japanese Woodblock Print Search](https://ukiyo-e.org/) (2026-02-22)
 - [A Botnet Accidentally Destroyed I2P](https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/) (2026-02-22)
 - [How I use Claude Code: Separation of planning and execution](https://boristane.com/blog/how-i-use-claude-code/) (2026-02-22)
-- [Evidence of the bouba-kiki effect in naïve baby chicks](https://www.science.org/doi/10.1126/science.adq7188) (2026-02-21)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Study shows how rocket launches pollute the atmosphere](https://arstechnica.com/space/2026/02/study-shows-how-rocket-launches-pollute-the-atmosphere/) (2026-02-22)
 - [NASA says it needs to haul the Artemis II rocket back to the hangar for repairs](https://arstechnica.com/space/2026/02/nasa-says-it-needs-to-haul-the-artemis-ii-rocket-back-to-the-hangar-for-repairs/) (2026-02-21)
 - [Dinosaur eggshells can reveal the age of other fossils](https://arstechnica.com/science/2026/02/dinosaur-eggshells-can-reveal-the-age-of-other-fossils/) (2026-02-21)
 - [Have we leapt into commercial genetic testing without understanding it?](https://arstechnica.com/science/2026/02/have-we-leapt-into-commercial-genetic-testing-without-understanding-it/) (2026-02-21)
 - [Major government research lab appears to be squeezing out foreign scientists](https://arstechnica.com/science/2026/02/major-government-research-lab-appears-to-be-squeezing-out-foreign-scientists/) (2026-02-21)
-- [After fueling test, optimism grows for March launch of Artemis II to the Moon](https://arstechnica.com/space/2026/02/nasa-reports-no-significant-leaks-in-artemis-ii-fueling-test-eyes-march-6-launch/) (2026-02-20)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [What Is a Variable: A Box or a Label?](https://dev.to/oyinade_olawoyin_aaaa6272/what-is-a-variable-a-box-or-a-label-oob) (2026-02-22)
-- [Announcing pytest-gremlins v1.3.0](https://dev.to/mikelane/announcing-pytest-gremlins-v130-53ka) (2026-02-22)
-- [ERC-8128: Your Ethereum Wallet Might Soon Be Your Only Login.](https://dev.to/caffinecoder54/erc-8128-your-ethereum-wallet-might-soon-be-your-only-loginpublished-18fb) (2026-02-22)
-- [Why MQTT Last Will Testament Isn't Enough for Production IoT (And What We Built Instead)](https://dev.to/anil_saithana/why-mqtt-last-will-testament-isnt-enough-for-production-iot-and-what-we-built-instead-44cj) (2026-02-22)
-- [I replaced the `man` command with a Python TUI — and it's actually useful](https://dev.to/yash_ambaskar_c13cc5c5f10/i-replaced-the-man-command-with-a-python-tui-and-its-actually-useful-1h7h) (2026-02-22)
+- [Welcome to CS Student Survival Guide!](https://dev.to/misshudspithteaching/welcome-to-cs-student-survival-guide-2k9j) (2026-02-22)
+- [Adding Content Moderation to a SvelteKit App with OpenAI's Moderation API](https://dev.to/rrosset91/adding-content-moderation-to-a-sveltekit-app-with-openais-moderation-api-1f4e) (2026-02-22)
+- [Week 1](https://dev.to/timothy_imanuel_35225c051/week-1-2egp) (2026-02-22)
+- [The Universe Doesn't Owe You a Success Story (But Your Unit Tests Think It Does)](https://dev.to/chandravijayagr/the-universe-doesnt-owe-you-a-success-story-but-your-unit-tests-think-it-does-3afl) (2026-02-22)
+- [First learning session - Scrimba📖](https://dev.to/fredrik_berg/first-learning-session-scrimba-2h0l) (2026-02-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Last Translation Layer](https://medium.com/@chakrabortyanirudh93/the-last-translation-layer-f01fd64fad01?source=rss------programming-5) (2026-02-22)
-- [Supercharge Your Flutter App with Stripe Payments ](https://medium.com/@yash22202/supercharge-your-flutter-app-with-stripe-payments-956bd9da71bd?source=rss------programming-5) (2026-02-22)
-- [How Python Powers Smart Traffic Lights Using Computer Vision and Machine Learning](https://medium.com/@georgegge3/how-python-powers-smart-traffic-lights-using-computer-vision-and-machine-learning-c8df6c1b3cf3?source=rss------programming-5) (2026-02-22)
-- [AI ships of the future: How Saronic’s autonomous vessels work](https://medium.com/codetodeploy/ai-ships-of-the-future-how-saronics-autonomous-vessels-work-941a9bff4d58?source=rss------programming-5) (2026-02-22)
-- [What is Spec-Driven Development?](https://medium.com/@Intellibytes/what-is-spec-driven-development-17e9681c6fd1?source=rss------programming-5) (2026-02-22)
+- [Will AI Replace Software Engineers? My Honest Take After Using It Daily](https://medium.com/@hijaabsikander2003/will-ai-replace-software-engineers-my-honest-take-after-using-it-daily-e75df8e20ba0?source=rss------programming-5) (2026-02-22)
+- [The ML Model Selection Playbook](https://pub.towardsai.net/the-ml-model-selection-playbook-abf4d39a7ae8?source=rss------programming-5) (2026-02-22)
+- [The Python Automation Stack I Wish I Discovered 3 Years Earlier](https://medium.com/@SulemanSafdar/the-python-automation-stack-i-wish-i-discovered-3-years-earlier-6808e2b4b6f4?source=rss------programming-5) (2026-02-22)
+- [Masud Sayedee proposes to celebrate Mother Language Day on 8 Falgun instead of 21 February](https://medium.com/@emmamegan9476/masud-sayedee-proposes-to-celebrate-mother-language-day-on-8-falgun-instead-of-21-february-d93f4b701851?source=rss------programming-5) (2026-02-22)
+- [Cracking the MasterCard Java Interview: 10 Questions Every Senior Engineer Must Master](https://rathod-ajay.medium.com/cracking-the-mastercard-java-interview-10-questions-every-senior-engineer-must-master-dc4496b2b688?source=rss------programming-5) (2026-02-22)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
 - [Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873) (2026-02-17)
 - [Azure reliability, resiliency, and recoverability: Build continuity by design](https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/) (2026-02-17)
 - [The data behind the design: How Pantone built agentic AI with an AI-ready database](https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/) (2026-02-12)
 - [Agentic cloud operations: A new way to run the cloud](https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/) (2026-02-11)
-- [Can high-temperature superconductors transform the power infrastructure of datacenters?](https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/) (2026-02-10)
 
 </details>
 
@@ -362,16 +362,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Data activation: what it is & how to do it
-](
-https://www.twilio.com/en-us/blog/insights/data/data-activation
-) (2026-02-23)
-- [
-How To Track User Events With Segment in Node.js
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/track-user-events-segment-node-js
-) (2026-02-20)
-- [
 How to Use the Agent-to-Human Communication (A2H) Protocol with OpenClaw
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/building-blocks/agent-to-human-protocol-with-openclaw
@@ -386,6 +376,16 @@ How To Get Started With Twilio Segment
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-get-started-with-twilio-segment
 ) (2026-02-19)
+- [
+What is RCS on iPhone? How to enable & use it
+](
+https://www.twilio.com/en-us/blog/insights/rcs-on-iphone
+) (2026-02-17)
+- [
+What is data collection? Methods, types & examples
+](
+https://www.twilio.com/en-us/blog/insights/data/data-collection
+) (2026-02-13)
 
 </details>
 
@@ -552,6 +552,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-get-starte
 - [「データ不足」の壁を越える：合成ペルソナが日本のAI開発を加速](https://huggingface.co/blog/nvidia/nemotron-personas-japan-nttdata-ja) (2026-02-19)
 - [IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST](https://huggingface.co/blog/ibm-research/itbenchandmast) (2026-02-18)
 - [One-Shot Any Web App with Gradio's gr.HTML](https://huggingface.co/blog/gradio-html-one-shot-apps) (2026-02-18)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Exploring AI in the APAC retail sector](https://www.artificialintelligence-news.com/news/exploring-ai-in-the-apac-retail-sector/) (2026-02-20)
+- [AI: Executives’ optimism about the future](https://www.artificialintelligence-news.com/news/ai-impact-executives-optimism-for-the-future/) (2026-02-20)
+- [Coca-Cola turns to AI marketing as price-led growth slows](https://www.artificialintelligence-news.com/news/coca-cola-turns-to-ai-marketing-as-price-led-growth-slows/) (2026-02-20)
+- [How AI upgrades enterprise treasury management](https://www.artificialintelligence-news.com/news/how-ai-upgrades-enterprise-treasury-management/) (2026-02-19)
+- [DBS pilots system that lets AI agents make payments for customers](https://www.artificialintelligence-news.com/news/dbs-pilots-system-that-lets-ai-agents-make-payments-for-customers/) (2026-02-19)
 
 </details>
 
