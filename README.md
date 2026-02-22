@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Sam Altman would like remind you that humans use a lot of energy, too](https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/) (2026-02-21)
+- [Wikipedia blacklists Archive.today after alleged DDoS attack](https://techcrunch.com/2026/02/21/wikipedia-blacklists-archive-today-after-alleged-ddos-attack/) (2026-02-21)
 - [Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’](https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/) (2026-02-21)
 - [Google VP warns that two types of AI startups may not survive](https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/) (2026-02-21)
 - [OpenAI debated calling police about suspected Canadian shooter’s chats](https://techcrunch.com/2026/02/21/openai-debated-calling-police-about-suspected-canadian-shooters-chats/) (2026-02-21)
-- [7 days until ticket prices rise for TechCrunch Disrupt 2026](https://techcrunch.com/2026/02/21/7-days-until-ticket-prices-rise-for-techcrunch-disrupt-2026/) (2026-02-21)
-- [India’s Sarvam launches Indus AI chat app as competition heats up](https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/) (2026-02-21)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [What Not to Write on Your Security Clearance Form](https://milk.com/wall-o-shame/security_clearance.html) (2026-02-21)
-- [The Nekonomicon – Nekochan.net Archive, Updated](http://nekonomicon.irixnet.org/) (2026-02-21)
-- [Show HN: Iron-Wolf – Wolfenstein 3D source port in Rust](https://github.com/Ragnaroek/iron-wolf) (2026-02-21)
-- [macOS's Little-Known Command-Line Sandboxing Tool (2025)](https://igorstechnoclub.com/sandbox-exec/) (2026-02-21)
-- [CXMT has been offering DDR4 chips at about half the prevailing market rate](https://www.koreaherald.com/article/10679206) (2026-02-21)
+- [How I use Claude Code: Separation of planning and execution](https://boristane.com/blog/how-i-use-claude-code/) (2026-02-22)
+- [Are compilers deterministic?](https://blog.onepatchdown.net/2026/02/22/are-compilers-deterministic-nerd-version/) (2026-02-22)
+- [Evidence of the bouba-kiki effect in naïve baby chicks](https://www.science.org/doi/10.1126/science.adq7188) (2026-02-21)
+- [Why is Claude an Electron app?](https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html) (2026-02-21)
+- [Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU](https://github.com/xaskasdf/ntransformer) (2026-02-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Arturia’s FX Collection 6 adds two new effects and a $99 intro version](https://www.theverge.com/tech/882852/arturia-fx-collection-6) (2026-02-21)
 - [Georgia says Elon Musk’s America PAC violated election law](https://www.theverge.com/tech/882838/georgia-elon-musk-america-pac-voter-fraud) (2026-02-21)
 - [Suspect in Tumbler Ridge school shooting described violent scenarios to ChatGPT](https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt) (2026-02-21)
 - [The Pixel 10A and Soundcore Space One are just two of the best deals this week](https://www.theverge.com/gadgets/881998/google-pixel-10a-anker-351-power-strip-deal-sale) (2026-02-21)
 - [Aerial_Knight’s DropShot captures the thrill of skydiving and makes it stylish](https://www.theverge.com/games/875259/dropshot-aerial-knight-review-pc-playstation-xbox) (2026-02-21)
-- [Stellantis is in a crisis of its own making](https://www.theverge.com/transportation/881987/stellantis-crisis-ev-loss-sales-regulations) (2026-02-21)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [NASA says it needs to haul the Artemis II rocket back to the hangar for repairs](https://arstechnica.com/space/2026/02/nasa-says-it-needs-to-haul-the-artemis-ii-rocket-back-to-the-hangar-for-repairs/) (2026-02-21)
 - [Dinosaur eggshells can reveal the age of other fossils](https://arstechnica.com/science/2026/02/dinosaur-eggshells-can-reveal-the-age-of-other-fossils/) (2026-02-21)
 - [Have we leapt into commercial genetic testing without understanding it?](https://arstechnica.com/science/2026/02/have-we-leapt-into-commercial-genetic-testing-without-understanding-it/) (2026-02-21)
 - [Major government research lab appears to be squeezing out foreign scientists](https://arstechnica.com/science/2026/02/major-government-research-lab-appears-to-be-squeezing-out-foreign-scientists/) (2026-02-21)
 - [After fueling test, optimism grows for March launch of Artemis II to the Moon](https://arstechnica.com/space/2026/02/nasa-reports-no-significant-leaks-in-artemis-ii-fueling-test-eyes-march-6-launch/) (2026-02-20)
-- [Microsoft gaming chief Phil Spencer steps down after 38 years with company](https://arstechnica.com/gaming/2026/02/microsoft-gaming-chief-phil-spencer-steps-down-after-38-years-with-company/) (2026-02-20)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The $100k AWS Routing Trap: S3 + NAT Gateways (and how to fix it with Terraform)](https://dev.to/ntctech/the-100k-aws-routing-trap-s3-nat-gateways-and-how-to-fix-it-with-terraform-41fo) (2026-02-21)
-- [Procrastination in disguise](https://dev.to/jaboarnoldlandry/procrastination-in-disguise-3605) (2026-02-21)
-- [I Built 7 AI Products in One Weekend — Here's What I Learned (And You Can Have Them)](https://dev.to/caper_dev/i-built-7-ai-products-in-one-weekend-heres-what-i-learned-and-you-can-have-them-2nj9) (2026-02-21)
-- [The 11 Most Popular NuGet Packages to Know in 2026 (updated!)](https://dev.to/polymorphicguy/the-11-most-popular-nuget-packages-to-know-in-2026-updated-20f5) (2026-02-21)
-- [Just Launched My Portfolio — What Do You Think?](https://dev.to/cgcm070/just-launched-my-portfolio-what-do-you-think-336j) (2026-02-21)
+- [When Chat Turns into Control - Security Lessons from Running a Local AI Agent](https://dev.to/andremmfaria/when-chat-turns-into-control-security-lessons-from-running-a-local-ai-agent-21l0) (2026-02-22)
+- [SOLID: No seas el programador que solo "plancha" funciones 🛑](https://dev.to/manuel_martinez_e81aa7b9a/titulo-sugerido-solid-no-seas-el-programador-que-solo-plancha-funciones-4edp) (2026-02-22)
+- [From Pixels to Calories: Building a High-Precision Meal Tracker with GPT-4o Vision](https://dev.to/wellallytech/from-pixels-to-calories-building-a-high-precision-meal-tracker-with-gpt-4o-vision-5018) (2026-02-22)
+- [Building an Extraction Node: Analyzing 400+ HN Job Listings (Python vs Node.js)](https://dev.to/asterios07/building-an-extraction-node-analyzing-400-hn-job-listings-python-vs-nodejs-1ga7) (2026-02-22)
+- [I Got Tired of useQuery/Promise.all Spaghetti So I Built This 🫖🦡](https://dev.to/mimikkk/i-got-tired-of-usequerypromiseall-spaghetti-so-i-built-this-2n73) (2026-02-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [5 management consulting tricks I brought with me to software engineering](https://medium.com/@angelina.chigrinetc.dev/5-management-consulting-tricks-i-brought-with-me-to-software-engineering-313ba3020dde?source=rss------programming-5) (2026-02-21)
-- [Coding Is Solved.](https://kotrotsos.medium.com/coding-is-solved-e91815553e3b?source=rss------programming-5) (2026-02-21)
-- [Mapping Domain-Driven Design Concepts To The Database With EF Core](https://medium.com/@mariammaurice/mapping-domain-driven-design-concepts-to-the-database-with-ef-core-4bfd3f0aa146?source=rss------programming-5) (2026-02-21)
-- [Your CSS Is a Crime Scene. Here’s How to Stop Making It Worse.](https://medium.com/notes-from-the-browser/your-css-is-a-crime-scene-heres-how-to-stop-making-it-worse-b14194f7ff98?source=rss------programming-5) (2026-02-21)
-- [Junior Developer in the Age of AI](https://blog.stackademic.com/junior-developer-in-the-age-of-ai-04d336539ca3?source=rss------programming-5) (2026-02-21)
+- [Your AI Writes Perfect Code. That’s the Problem.](https://medium.com/@a.enabih/your-ai-writes-perfect-code-thats-the-problem-e8d409d49de2?source=rss------programming-5) (2026-02-22)
+- [Temporary Tables in SQL Explained](https://medium.com/@AlexanderObregon/temporary-tables-in-sql-explained-a96afabc5cec?source=rss------programming-5) (2026-02-22)
+- [I Couldn’t Scale My Scripts — Then I Learned These Python Tools](https://medium.com/top-python-libraries/i-couldnt-scale-my-scripts-then-i-learned-these-python-tools-1ec366177462?source=rss------programming-5) (2026-02-22)
+- [Why Python Is the Best Programming Language for Beginners (And How to Start Today)](https://medium.com/@codcups01/why-python-is-the-best-programming-language-for-beginners-and-how-to-start-today-d63f6c95185e?source=rss------programming-5) (2026-02-22)
+- [How to use GLM5 free API key?](https://medium.com/data-science-in-your-pocket/how-to-use-glm5-free-api-key-4c07c38f37e2?source=rss------programming-5) (2026-02-22)
 
 </details>
 
@@ -350,17 +350,27 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Cloudflare outage on February 20, 2026](https://blog.cloudflare.com/cloudflare-outage-february-20-2026/) (2026-02-21)
 - [Code Mode: give agents an entire API in 1,000 tokens](https://blog.cloudflare.com/code-mode-mcp/) (2026-02-20)
 - [Shedding old code with ecdysis: graceful restarts for Rust services at Cloudflare](https://blog.cloudflare.com/ecdysis-rust-graceful-restarts/) (2026-02-13)
 - [Introducing Markdown for Agents](https://blog.cloudflare.com/markdown-for-agents/) (2026-02-12)
 - [2025 Q4 DDoS threat report: A record-setting 31.4 Tbps attack caps a year of massive DDoS assaults](https://blog.cloudflare.com/ddos-threat-report-2025-q4/) (2026-02-05)
-- [Improve global upload performance with R2 Local Uploads](https://blog.cloudflare.com/r2-local-uploads/) (2026-02-03)
 
 </details>
 
 <details>
 <summary>📞 Twilio Blog</summary>
 
+- [
+Data activation: what it is & how to do it
+](
+https://www.twilio.com/en-us/blog/insights/data/data-activation
+) (2026-02-23)
+- [
+How To Track User Events With Segment in Node.js
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/track-user-events-segment-node-js
+) (2026-02-20)
 - [
 How to Use the Agent-to-Human Communication (A2H) Protocol with OpenClaw
 ](
@@ -376,16 +386,6 @@ How To Get Started With Twilio Segment
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-get-started-with-twilio-segment
 ) (2026-02-19)
-- [
-What is RCS on iPhone? How to enable & use it
-](
-https://www.twilio.com/en-us/blog/insights/rcs-on-iphone
-) (2026-02-17)
-- [
-What is data collection? Methods, types & examples
-](
-https://www.twilio.com/en-us/blog/insights/data/data-collection
-) (2026-02-13)
 
 </details>
 
