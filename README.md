@@ -20,11 +20,11 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Wispr Flow launches an Android app for AI-powered dictation](https://techcrunch.com/2026/02/23/wispr-flow-launches-an-android-app-for-ai-powered-dictation/) (2026-02-23)
 - [Apple might take a new approach to announcing its next products](https://techcrunch.com/2026/02/22/apple-might-take-a-new-approach-to-announcing-its-next-products/) (2026-02-22)
 - [Can the creator economy stay afloat in a flood of AI slop?](https://techcrunch.com/2026/02/22/can-the-creator-economy-stay-afloat-in-a-flood-of-ai-slop/) (2026-02-22)
 - [Bill Gurley says that right now, the worst thing you can do for your career is play it safe](https://techcrunch.com/2026/02/22/bill-gurley-says-that-right-now-the-worst-thing-you-can-do-for-your-career-is-play-it-safe/) (2026-02-22)
 - [Quantonation’s double-sized second fund shows quantum still has believers](https://techcrunch.com/2026/02/22/quantonations-double-sized-second-fund-shows-quantum-still-has-believers/) (2026-02-22)
-- [Trump says Netflix will face ‘consequences’ if it doesn’t fire board member Susan Rice](https://techcrunch.com/2026/02/22/trump-says-netflix-will-face-consequences-if-it-doesnt-fire-board-member-susan-rice/) (2026-02-22)
 
 </details>
 
@@ -42,33 +42,33 @@
 <details>
 <summary>📱 The Verge</summary>
 
+- [Taara Beam provides 25Gbps connectivity over invisible beams of light](https://www.theverge.com/tech/881882/taara-beam-provides-25gbps-connectivity-over-invisible-beams-of-light) (2026-02-23)
+- [How many AIs does it take to read a PDF?](https://www.theverge.com/ai-artificial-intelligence/882891/ai-pdf-parsing-failure) (2026-02-23)
 - [Samsung is adding Perplexity to Galaxy AI](https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai) (2026-02-22)
 - [You need to listen to Laurie Spiegel’s masterpiece of early ambient music](https://www.theverge.com/entertainment/882915/laurie-spiegel-the-expanding-universe-review-masterpiece-ambient-music) (2026-02-22)
 - [Trump says Netflix will ‘pay the consequences’ if it doesn’t fire Susan Rice](https://www.theverge.com/policy/882881/trump-netflix-consequences-fire-susan-rice) (2026-02-22)
-- [This magazine plays Tetris — here’s how](https://www.theverge.com/tech/881175/red-bull-media-house-game-pop-bulletin-magazine-playable-tetris-flexible-display) (2026-02-22)
-- [America desperately needs new privacy laws](https://www.theverge.com/column/882516/privacy-laws-america) (2026-02-22)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [The first cars bold enough to drive themselves](https://arstechnica.com/features/2026/02/the-first-cars-bold-enough-to-drive-themselves/) (2026-02-23)
 - [Study shows how rocket launches pollute the atmosphere](https://arstechnica.com/space/2026/02/study-shows-how-rocket-launches-pollute-the-atmosphere/) (2026-02-22)
 - [NASA says it needs to haul the Artemis II rocket back to the hangar for repairs](https://arstechnica.com/space/2026/02/nasa-says-it-needs-to-haul-the-artemis-ii-rocket-back-to-the-hangar-for-repairs/) (2026-02-21)
 - [Dinosaur eggshells can reveal the age of other fossils](https://arstechnica.com/science/2026/02/dinosaur-eggshells-can-reveal-the-age-of-other-fossils/) (2026-02-21)
 - [Have we leapt into commercial genetic testing without understanding it?](https://arstechnica.com/science/2026/02/have-we-leapt-into-commercial-genetic-testing-without-understanding-it/) (2026-02-21)
-- [Major government research lab appears to be squeezing out foreign scientists](https://arstechnica.com/science/2026/02/major-government-research-lab-appears-to-be-squeezing-out-foreign-scientists/) (2026-02-21)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Inside Chicago’s surveillance panopticon](https://www.technologyreview.com/2026/02/23/1132740/inside-chicago-surveillance-panopticon/) (2026-02-23)
 - [Exclusive eBook: The great Al hype correction of 2025](https://www.technologyreview.com/2026/02/20/1133368/exclusive-ebook-the-great-al-hype-correction-of-2025/) (2026-02-20)
 - [The Download: Microsoft’s online reality check, and the worrying rise in measles cases](https://www.technologyreview.com/2026/02/20/1133396/the-download-microsofts-online-reality-check-and-the-worrying-rise-in-measles-cases/) (2026-02-20)
 - [Job titles of the future: Breast biomechanic](https://www.technologyreview.com/2026/02/20/1132629/job-titles-future-breast-biomechanic/) (2026-02-20)
 - [Community service](https://www.technologyreview.com/2026/02/20/1132640/community-service-science-fiction-story/) (2026-02-20)
-- [Measles cases are rising. Other vaccine-preventable infections could be next.](https://www.technologyreview.com/2026/02/20/1133365/measles-cases-rising-vaccine-preventable-infections-mumps-hepatitis-b/) (2026-02-20)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Secret Life of Go: Worker Pools](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-worker-pools-n1d) (2026-02-23)
-- [Tight Coupling (Request-Response) vs. Loose Coupling (Event-Driven).](https://dev.to/glax3max/tight-coupling-request-response-vs-loose-coupling-event-driven-5cpa) (2026-02-23)
-- [Why Fat Models Hurt Laravel Projects More Than You Think](https://dev.to/laracopilot/why-fat-models-hurt-laravel-projects-more-than-you-think-mk8) (2026-02-23)
-- [🚨 Chrome Under Attack: The CSS Zero-Day That Shocked 2026 🤯](https://dev.to/usman_awan/chrome-under-attack-the-css-zero-day-that-shocked-2026-586o) (2026-02-23)
-- [NFC HCE Service Not Triggered When Tag Is Detected](https://dev.to/harmonyos/nfc-hce-service-not-triggered-when-tag-is-detected-35o5) (2026-02-23)
+- [I integrated Stripe into a two-sided marketplace. Here's what actually happens](https://dev.to/miraclejudeiv/i-integrated-stripe-into-a-two-sided-marketplace-heres-what-actually-happens-2mpb) (2026-02-23)
+- [Loading a View Inside Another View in CodeBehind (SSR vs CSR)](https://dev.to/elanatframework/loading-a-view-inside-another-view-in-codebehind-ssr-vs-csr-baf) (2026-02-23)
+- [Typewriter text effect in SwiftUI](https://dev.to/not-bad-dev/typewriter-text-effect-in-swiftui-216b) (2026-02-23)
+- [I built a $7/mo tool to kill my runway anxiety in 48 hours.](https://dev.to/alexbuilder/i-built-a-7mo-tool-to-kill-my-runway-anxiety-in-48-hours-555i) (2026-02-23)
+- [I Built an AI Memory System That Runs 24/7 for $0/month — Here's the Architecture](https://dev.to/naption/i-built-an-ai-memory-system-that-runs-247-for-0month-heres-the-architecture-l7) (2026-02-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Senior Developer Told Me ‘Write Clean Code’. I Did. Performance Dropped 60%.](https://medium.com/codex/senior-developer-told-me-write-clean-code-i-did-performance-dropped-60-f6553902739c?source=rss------programming-5) (2026-02-23)
-- [Where Can I Get Accurate, Well-Commented Java Coding Assignment Solutions Fast?](https://medium.com/@Alexcole3/where-can-i-get-accurate-well-commented-java-coding-assignment-solutions-fast-a4f69173e590?source=rss------programming-5) (2026-02-23)
-- [Attention Is Expensive. Positioning Is Not.](https://medium.com/@kehindegiwa120/attention-is-expensive-positioning-is-not-98657f3a682c?source=rss------programming-5) (2026-02-23)
-- [Day 4 — Maximum Subarray Sum](https://medium.com/@rubasrisrikanthan/day-4-maximum-subarray-sum-3693df310b85?source=rss------programming-5) (2026-02-23)
-- [Why Vibe Coding Is Going to Create the Worst Software Crisis in History](https://medium.com/@Reiki32/why-vibe-coding-is-going-to-create-the-worst-software-crisis-in-history-1a0b666a9b0c?source=rss------programming-5) (2026-02-23)
+- [The Reality of Vibe Coding: AI Agents and the Security Debt Crisis](https://medium.com/@SagarRuhil/the-reality-of-vibe-coding-ai-agents-and-the-security-debt-crisis-8f4799a0d8d3?source=rss------programming-5) (2026-02-23)
+- [How Kids Can Build a Talking Chatbot Using Scratch](https://medium.com/@juniorcoderzseo/how-kids-can-build-a-talking-chatbot-using-scratch-5a768af1a78d?source=rss------programming-5) (2026-02-23)
+- [CROSS PLATFORM DEVELOPMENT](https://medium.com/@manotelkode/cross-platform-development-2f388c672aca?source=rss------programming-5) (2026-02-23)
+- [How I Built My First Python App as a Student (Without Feeling Overwhelmed)](https://medium.com/@vandanachohan851/how-i-built-my-first-python-app-as-a-student-without-feeling-overwhelmed-594555245395?source=rss------programming-5) (2026-02-23)
+- [The CSS Selector I Use Everywhere](https://medium.com/@TusharKanjariya/the-css-selector-i-use-everywhere-3797ac54aecb?source=rss------programming-5) (2026-02-23)
 
 </details>
 
@@ -558,11 +558,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-get-starte
 <details>
 <summary>🤖 AI News</summary>
 
+- [Mastercard’s AI payment demo points to agent-led commerce](https://www.artificialintelligence-news.com/news/mastercard-ai-payment-demo-points-to-agent-led-commerce/) (2026-02-23)
+- [How Amul is using AI dairy farming to put 36 million farmers first](https://www.artificialintelligence-news.com/news/amul-ai-dairy-farming-platform-india/) (2026-02-23)
+- [Hitachi bets on industrial expertise to win the physical AI race](https://www.artificialintelligence-news.com/news/hitachi-physical-ai-industrial-expertise/) (2026-02-23)
 - [Exploring AI in the APAC retail sector](https://www.artificialintelligence-news.com/news/exploring-ai-in-the-apac-retail-sector/) (2026-02-20)
 - [AI: Executives’ optimism about the future](https://www.artificialintelligence-news.com/news/ai-impact-executives-optimism-for-the-future/) (2026-02-20)
-- [Coca-Cola turns to AI marketing as price-led growth slows](https://www.artificialintelligence-news.com/news/coca-cola-turns-to-ai-marketing-as-price-led-growth-slows/) (2026-02-20)
-- [How AI upgrades enterprise treasury management](https://www.artificialintelligence-news.com/news/how-ai-upgrades-enterprise-treasury-management/) (2026-02-19)
-- [DBS pilots system that lets AI agents make payments for customers](https://www.artificialintelligence-news.com/news/dbs-pilots-system-that-lets-ai-agents-make-payments-for-customers/) (2026-02-19)
 
 </details>
 
@@ -602,11 +602,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-get-starte
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Beyond Accuracy: 5 Metrics That Actually Matter for AI Agents](https://machinelearningmastery.com/beyond-accuracy-5-metrics-that-actually-matter-for-ai-agents/) (2026-02-23)
 - [Building a Simple MCP Server in Python](https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/) (2026-02-19)
 - [Agentify Your App with GitHub Copilot’s Agentic Coding SDK](https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/) (2026-02-18)
 - [LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?](https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/) (2026-02-17)
 - [Top 7 Small Language Models You Can Run on a Laptop](https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/) (2026-02-16)
-- [Choosing Between PCA and t-SNE for Visualization](https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/) (2026-02-12)
 
 </details>
 
