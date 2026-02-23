@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How I Built a Deterministic Multi-Agent Dev Pipeline Inside OpenClaw (and Contributed a Missing Piece to Lobster)](https://dev.to/ggondim/how-i-built-a-deterministic-multi-agent-dev-pipeline-inside-openclaw-and-contributed-a-missing-4ool) (2026-02-23)
-- [Your Cloud Storage Bucket Has 2TB of Data Nobody Touched in 6 Months (You're Paying 16x Too Much) 💾](https://dev.to/suhas_mallesh/your-cloud-storage-bucket-has-2tb-of-data-nobody-touched-in-6-months-youre-paying-16x-too-much-18f3) (2026-02-23)
-- [ReactJS(NextJs) Rendering Pattern　~Incremental Static Regeneration (ISR)~](https://dev.to/kkr0423/reactjsnextjs-rendering-pattern-incremental-static-regeneration-isr-261m) (2026-02-23)
-- [Understanding RSA: A Simple Guide to Public-Key Math](https://dev.to/sanjayghosh/understanding-rsa-a-simple-guide-to-public-key-math-6g7) (2026-02-23)
-- [Choosing and Configuring Azure Storage for Your Company Application](https://dev.to/pirrezz/choosing-and-configuring-azure-storage-for-your-company-application-5fmf) (2026-02-23)
+- [The Secret Life of Go: Worker Pools](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-worker-pools-n1d) (2026-02-23)
+- [Tight Coupling (Request-Response) vs. Loose Coupling (Event-Driven).](https://dev.to/glax3max/tight-coupling-request-response-vs-loose-coupling-event-driven-5cpa) (2026-02-23)
+- [Why Fat Models Hurt Laravel Projects More Than You Think](https://dev.to/laracopilot/why-fat-models-hurt-laravel-projects-more-than-you-think-mk8) (2026-02-23)
+- [🚨 Chrome Under Attack: The CSS Zero-Day That Shocked 2026 🤯](https://dev.to/usman_awan/chrome-under-attack-the-css-zero-day-that-shocked-2026-586o) (2026-02-23)
+- [NFC HCE Service Not Triggered When Tag Is Detected](https://dev.to/harmonyos/nfc-hce-service-not-triggered-when-tag-is-detected-35o5) (2026-02-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Is Clean Architecture Killing Your Productivity?](https://jamshidbekboynazarov.medium.com/is-clean-architecture-killing-your-productivity-cdae1242024d?source=rss------programming-5) (2026-02-23)
-- [Why 0.1 + 0.2 ≠ 0.3 (And Why It Matters in Payments)](https://chhanamthorat.medium.com/why-0-1-0-2-0-3-and-why-it-matters-in-payments-b6be57bb29b7?source=rss------programming-5) (2026-02-23)
-- [Learning to Code Is Still Worth It in 2026 — Maybe More Than Ever](https://medium.com/lets-code-future/learning-to-code-is-still-worth-it-in-2026-maybe-more-than-ever-8772e9746863?source=rss------programming-5) (2026-02-23)
-- [The Vibe Coding Workflow: How Developers Work with AI in 2026](https://medium.com/@gravitano/the-vibe-coding-workflow-how-developers-work-with-ai-in-2026-eaa30e7b06a3?source=rss------programming-5) (2026-02-23)
-- [Understanding Angular Beyond Tutorials: Architecture, Change Detection & Modern Patterns](https://medium.com/@saljaoui/understanding-angular-beyond-tutorials-architecture-change-detection-modern-patterns-f32b9f1afd6a?source=rss------programming-5) (2026-02-23)
+- [Senior Developer Told Me ‘Write Clean Code’. I Did. Performance Dropped 60%.](https://medium.com/codex/senior-developer-told-me-write-clean-code-i-did-performance-dropped-60-f6553902739c?source=rss------programming-5) (2026-02-23)
+- [Where Can I Get Accurate, Well-Commented Java Coding Assignment Solutions Fast?](https://medium.com/@Alexcole3/where-can-i-get-accurate-well-commented-java-coding-assignment-solutions-fast-a4f69173e590?source=rss------programming-5) (2026-02-23)
+- [Attention Is Expensive. Positioning Is Not.](https://medium.com/@kehindegiwa120/attention-is-expensive-positioning-is-not-98657f3a682c?source=rss------programming-5) (2026-02-23)
+- [Day 4 — Maximum Subarray Sum](https://medium.com/@rubasrisrikanthan/day-4-maximum-subarray-sum-3693df310b85?source=rss------programming-5) (2026-02-23)
+- [Why Vibe Coding Is Going to Create the Worst Software Crisis in History](https://medium.com/@Reiki32/why-vibe-coding-is-going-to-create-the-worst-software-crisis-in-history-1a0b666a9b0c?source=rss------programming-5) (2026-02-23)
 
 </details>
 
