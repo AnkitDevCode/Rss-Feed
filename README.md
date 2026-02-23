@@ -20,11 +20,11 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Apple might take a new approach to announcing its next products](https://techcrunch.com/2026/02/22/apple-might-take-a-new-approach-to-announcing-its-next-products/) (2026-02-22)
+- [Can the creator economy stay afloat in a flood of AI slop?](https://techcrunch.com/2026/02/22/can-the-creator-economy-stay-afloat-in-a-flood-of-ai-slop/) (2026-02-22)
+- [Bill Gurley says that right now, the worst thing you can do for your career is play it safe](https://techcrunch.com/2026/02/22/bill-gurley-says-that-right-now-the-worst-thing-you-can-do-for-your-career-is-play-it-safe/) (2026-02-22)
 - [Quantonation’s double-sized second fund shows quantum still has believers](https://techcrunch.com/2026/02/22/quantonations-double-sized-second-fund-shows-quantum-still-has-believers/) (2026-02-22)
 - [Trump says Netflix will face ‘consequences’ if it doesn’t fire board member Susan Rice](https://techcrunch.com/2026/02/22/trump-says-netflix-will-face-consequences-if-it-doesnt-fire-board-member-susan-rice/) (2026-02-22)
-- [TechCrunch Mobility: Waymo makes its defense](https://techcrunch.com/2026/02/22/techcrunch-mobility-waymo-makes-its-defense/) (2026-02-22)
-- [China’s brain-computer interface industry is racing ahead](https://techcrunch.com/2026/02/22/chinas-brain-computer-interface-industry-is-racing-ahead/) (2026-02-22)
-- [6 days left to lock in the lowest TechCrunch Disrupt 2026 rates](https://techcrunch.com/2026/02/22/6-days-left-to-lock-in-the-lowest-techcrunch-disrupt-2026-rates/) (2026-02-22)
 
 </details>
 
@@ -42,11 +42,11 @@
 <details>
 <summary>📱 The Verge</summary>
 
+- [Samsung is adding Perplexity to Galaxy AI](https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai) (2026-02-22)
+- [You need to listen to Laurie Spiegel’s masterpiece of early ambient music](https://www.theverge.com/entertainment/882915/laurie-spiegel-the-expanding-universe-review-masterpiece-ambient-music) (2026-02-22)
 - [Trump says Netflix will ‘pay the consequences’ if it doesn’t fire Susan Rice](https://www.theverge.com/policy/882881/trump-netflix-consequences-fire-susan-rice) (2026-02-22)
 - [This magazine plays Tetris — here’s how](https://www.theverge.com/tech/881175/red-bull-media-house-game-pop-bulletin-magazine-playable-tetris-flexible-display) (2026-02-22)
 - [America desperately needs new privacy laws](https://www.theverge.com/column/882516/privacy-laws-america) (2026-02-22)
-- [Vibe camera shootout: Camp Snap Pro vs. Flashback One35 V2](https://www.theverge.com/gadgets/882641/camp-snap-pro-flashback-one35-v2-digicam-camera-comparison-review) (2026-02-22)
-- [Arturia’s FX Collection 6 adds two new effects and a $99 intro version](https://www.theverge.com/tech/882852/arturia-fx-collection-6) (2026-02-21)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Every Small Step Counts, Every BIT of Learning Matters](https://dev.to/deepikandas/every-small-step-counts-every-bit-of-learning-matters-2lcl) (2026-02-22)
-- [Why Claude Code Subagents Waste 50K Tokens Per Turn (And How to Fix It)](https://dev.to/jungjaehoon/why-claude-code-subagents-waste-50k-tokens-per-turn-and-how-to-fix-it-41ma) (2026-02-22)
-- [How I Built a System That Tracks 900,000 Real-Time Events Per Day](https://dev.to/spindex/how-i-built-a-system-that-tracks-900000-real-time-events-per-day-7m8) (2026-02-22)
-- [Testing, is it the egg or the chicken?](https://dev.to/peter_iregi/testing-is-it-the-egg-or-the-chicken-og9) (2026-02-22)
-- [The time bomb in your codebase (and mine too)](https://dev.to/andrey_andrade_7a534cfc95/the-time-bomb-in-your-codebase-and-mine-too-2hj4) (2026-02-22)
+- [How I Built a Deterministic Multi-Agent Dev Pipeline Inside OpenClaw (and Contributed a Missing Piece to Lobster)](https://dev.to/ggondim/how-i-built-a-deterministic-multi-agent-dev-pipeline-inside-openclaw-and-contributed-a-missing-4ool) (2026-02-23)
+- [Your Cloud Storage Bucket Has 2TB of Data Nobody Touched in 6 Months (You're Paying 16x Too Much) 💾](https://dev.to/suhas_mallesh/your-cloud-storage-bucket-has-2tb-of-data-nobody-touched-in-6-months-youre-paying-16x-too-much-18f3) (2026-02-23)
+- [ReactJS(NextJs) Rendering Pattern　~Incremental Static Regeneration (ISR)~](https://dev.to/kkr0423/reactjsnextjs-rendering-pattern-incremental-static-regeneration-isr-261m) (2026-02-23)
+- [Understanding RSA: A Simple Guide to Public-Key Math](https://dev.to/sanjayghosh/understanding-rsa-a-simple-guide-to-public-key-math-6g7) (2026-02-23)
+- [Choosing and Configuring Azure Storage for Your Company Application](https://dev.to/pirrezz/choosing-and-configuring-azure-storage-for-your-company-application-5fmf) (2026-02-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Does C++ make more sense for DSA than Python? (Hear From Experts)](https://medium.com/@9-5-datascientist/does-c-make-more-sense-for-dsa-than-python-hear-from-experts-cc5c092c530e?source=rss------programming-5) (2026-02-22)
-- [Geração Assíncrona em JavaScript](https://medium.com/@aikanaroun2010/gera%C3%A7%C3%A3o-ass%C3%ADncrona-em-javascript-6ea088ad774a?source=rss------programming-5) (2026-02-22)
-- [Virtual Threads Just Made 10 Years of Reactive Java Pointless](https://medium.com/engineering-playbook/virtual-threads-just-made-10-years-of-reactive-java-pointless-ad7c4fa8810f?source=rss------programming-5) (2026-02-22)
-- [The End of Software Engineering? What the Viral AI Prediction Actually Means](https://medium.com/@fahey_james/the-end-of-software-engineering-what-the-viral-ai-prediction-actually-means-d1be62d4bac2?source=rss------programming-5) (2026-02-22)
-- [Stop Writing Static Utility Classes: 4 Spring Boot Patterns Senior Developers Use Instead](https://medium.com/@habib11wahid/stop-writing-static-utility-classes-4-spring-boot-patterns-senior-developers-use-instead-fc46d0ad464a?source=rss------programming-5) (2026-02-22)
+- [Is Clean Architecture Killing Your Productivity?](https://jamshidbekboynazarov.medium.com/is-clean-architecture-killing-your-productivity-cdae1242024d?source=rss------programming-5) (2026-02-23)
+- [Why 0.1 + 0.2 ≠ 0.3 (And Why It Matters in Payments)](https://chhanamthorat.medium.com/why-0-1-0-2-0-3-and-why-it-matters-in-payments-b6be57bb29b7?source=rss------programming-5) (2026-02-23)
+- [Learning to Code Is Still Worth It in 2026 — Maybe More Than Ever](https://medium.com/lets-code-future/learning-to-code-is-still-worth-it-in-2026-maybe-more-than-ever-8772e9746863?source=rss------programming-5) (2026-02-23)
+- [The Vibe Coding Workflow: How Developers Work with AI in 2026](https://medium.com/@gravitano/the-vibe-coding-workflow-how-developers-work-with-ai-in-2026-eaa30e7b06a3?source=rss------programming-5) (2026-02-23)
+- [Understanding Angular Beyond Tutorials: Architecture, Change Detection & Modern Patterns](https://medium.com/@saljaoui/understanding-angular-beyond-tutorials-architecture-change-detection-modern-patterns-f32b9f1afd6a?source=rss------programming-5) (2026-02-23)
 
 </details>
 
@@ -580,11 +580,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-get-starte
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Prompt Repetition: The Overlooked Hack for Better LLM Results](https://www.analyticsvidhya.com/blog/2026/02/prompt-repetition/) (2026-02-22)
 - [Time Series vs Standard Machine Learning: Key Differences, Use Cases, and Examples ](https://www.analyticsvidhya.com/blog/2026/02/time-series-vs-standard-machine-learning/) (2026-02-22)
 - [Mastering the Supervisor Agent: A Guide to Orchestrating Multi-Agent AI Systems](https://www.analyticsvidhya.com/blog/2026/02/supervisor-agent-guide/) (2026-02-21)
 - [15 Probability and Statistics Interview Questions Every Data Scientist Must Master](https://www.analyticsvidhya.com/blog/2026/02/probability-and-statistics-interview-questions/) (2026-02-21)
 - [Building a Self-Improving AI Support Agent with Langfuse ](https://www.analyticsvidhya.com/blog/2026/02/building-a-self-improving-ai-support-agent-with-langfuse/) (2026-02-20)
-- [Gemini 3.1 Pro: A Hands-On Test of Google’s Newest AI](https://www.analyticsvidhya.com/blog/2026/02/gemini-3-1-pro-a-hands-on-test-of-googles-newest-ai/) (2026-02-19)
 
 </details>
 
