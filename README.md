@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Americans are destroying Flock surveillance cameras](https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/) (2026-02-23)
-- [OpenAI calls in the consultants for its enterprise push](https://techcrunch.com/2026/02/23/openai-calls-in-the-consultants-for-its-enterprise-push/) (2026-02-23)
-- [Guide Labs debuts a new kind of interpretable LLM](https://techcrunch.com/2026/02/23/guide-labs-debuts-a-new-kind-of-interpretable-llm/) (2026-02-23)
-- [Particle’s AI news app listens to podcasts for interesting clips so you you don’t have to](https://techcrunch.com/2026/02/23/particles-ai-news-app-listens-to-podcasts-for-interesting-clips-so-you-you-dont-have-to/) (2026-02-23)
-- [Spotify rolls out AI-powered  Prompted Playlists to the U.K. and other markets](https://techcrunch.com/2026/02/23/spotify-ai-prompted-playlists-uk-markets/) (2026-02-23)
+- [A Meta AI security researcher said an OpenClaw agent ran amok on her inbox ](https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/) (2026-02-24)
+- [Tesla’s battle with the California Department of Motor Vehicles isn’t over after all](https://techcrunch.com/2026/02/23/teslas-battle-with-the-california-department-of-motor-vehicles-isnt-over-after-all/) (2026-02-24)
+- [With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now also back Anthropic ](https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/) (2026-02-23)
+- [Ex-Apple team launches Acme Weather, a new take on weather forecasting](https://techcrunch.com/2026/02/23/ex-apple-team-launches-acme-weather-a-new-take-on-weather-forecasting/) (2026-02-23)
+- [Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports](https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/) (2026-02-23)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [US Gov Deploys Grok as Nutrition Bot, It Advises for Rectal Use of Vegetables](https://futurism.com/artificial-intelligence/us-government-grok-nutrition) (2026-02-23)
-- [ASML unveils EUV light source advance that could yield 50% more chips by 2030](https://www.reuters.com/world/china/asml-unveils-euv-light-source-advance-that-could-yield-50-more-chips-by-2030-2026-02-23/) (2026-02-23)
-- [What it means that Ubuntu is using Rust](https://smallcultfollowing.com/babysteps/blog/2026/02/23/ubuntu-rustnation/) (2026-02-23)
-- [Decided to fly to the US to buy some hard drives](https://old.reddit.com/r/DataHoarder/comments/1rb9ot4/decided_to_fly_to_the_us_to_buy_some_hard_drives) (2026-02-23)
-- [Hadrius (YC W23) Is Hiring Designers Who Code](https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-senior-product-designer) (2026-02-23)
+- [NIST Seeking Public Comment on AI Agent Security (Deadline: March 9, 2026)](https://www.federalregister.gov/documents/2026/01/08/2026-00206/request-for-information-regarding-security-considerations-for-artificial-intelligence-agents) (2026-02-24)
+- [Shatner is making an album with 35 metal icons](https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album) (2026-02-24)
+- [I Ported Coreboot to the ThinkPad X270](https://dork.dev/posts/2026-02-20-ported-coreboot/) (2026-02-23)
+- [Why Your Load Balancer Still Sends Traffic to Dead Backends](https://singh-sanjay.com/2026/01/12/health-checks-client-vs-server-side-lb.html) (2026-02-23)
+- [AI Added 'Basically Zero' to US Economic Growth Last Year, Goldman Sachs Says](https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380) (2026-02-23)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Will Trump’s DOJ actually take on Ticketmaster?](https://www.theverge.com/policy/883155/doj-antitrust-division-gail-slater-live-nation-ticketmaster-trial) (2026-02-23)
+- [Billions of dollars later and still nobody knows what an Xbox is](https://www.theverge.com/games/883159/phil-spencer-xbox-game-pass) (2026-02-23)
+- [Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI](https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation) (2026-02-23)
 - [Apple’s newest AirTags are already on sale if you’re looking to upgrade](https://www.theverge.com/gadgets/883101/apple-airtag-second-gen-location-bluetooth-tracker-costco-deal-sale) (2026-02-23)
 - [The creators of Dark Sky have a new weather app that shares multiple predictions](https://www.theverge.com/tech/883089/acme-weather-forecast-app-ios-dark-sky-creators-subscription) (2026-02-23)
-- [Discord distances itself from Persona age verification after user backlash](https://www.theverge.com/tech/878369/discord-persona-age-verification) (2026-02-23)
-- [Kohler&#8217;s new shower reuses dirty water to get you clean](https://www.theverge.com/tech/883006/kohler-anthem-evocycle-smart-shower-system-water-recirculate-filter-recycle) (2026-02-23)
-- [Does Big Tech actually care about fighting AI slop?](https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube) (2026-02-23)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Pentagon buyer: We're happy with our launch industry, but payloads are lagging](https://arstechnica.com/space/2026/02/pentagon-buyer-were-happy-with-our-launch-industry-but-payloads-are-lagging/) (2026-02-23)
+- [Data center builders thought farmers would willingly sell land, learn otherwise](https://arstechnica.com/tech-policy/2026/02/im-not-for-sale-farmers-refuse-to-take-millions-in-data-center-deals/) (2026-02-23)
+- [Panasonic, the former plasma king, will no longer make its own TVs](https://arstechnica.com/gadgets/2026/02/panasonic-the-former-plasma-king-will-no-longer-make-its-own-tvs/) (2026-02-23)
 - [New Microsoft gaming chief has "no tolerance for bad AI"](https://arstechnica.com/gaming/2026/02/new-microsoft-gaming-chief-has-no-tolerance-for-bad-ai/) (2026-02-23)
 - [The 2026 Mazda CX-5, driven: It got bigger; plus, radical tech upgrade](https://arstechnica.com/cars/2026/02/the-2026-mazda-cx-5-driven-it-got-bigger-plus-radical-tech-upgrade/) (2026-02-23)
-- [AIs can generate near-verbatim copies of novels from training data](https://arstechnica.com/ai/2026/02/ais-can-generate-near-verbatim-copies-of-novels-from-training-data/) (2026-02-23)
-- [Review: Knight of the Seven Kingdoms brings back that Westeros magic](https://arstechnica.com/culture/2026/02/review-knight-of-the-seven-kingdoms-brings-back-that-westeros-magic/) (2026-02-23)
-- [The first cars bold enough to drive themselves](https://arstechnica.com/features/2026/02/the-first-cars-bold-enough-to-drive-themselves/) (2026-02-23)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Peptides are everywhere. Here’s what you need to know.](https://www.technologyreview.com/2026/02/23/1133522/peptides-are-everywhere-heres-what-you-need-to-know/) (2026-02-23)
 - [The human work behind humanoid robots is being hidden](https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/) (2026-02-23)
 - [The Download: Chicago’s surveillance network, and building better bras](https://www.technologyreview.com/2026/02/23/1133495/the-download-chicagos-surveillance-network-and-building-better-bras/) (2026-02-23)
 - [Inside Chicago’s surveillance panopticon](https://www.technologyreview.com/2026/02/23/1132740/inside-chicago-surveillance-panopticon/) (2026-02-23)
 - [Exclusive eBook: The great Al hype correction of 2025](https://www.technologyreview.com/2026/02/20/1133368/exclusive-ebook-the-great-al-hype-correction-of-2025/) (2026-02-20)
-- [The Download: Microsoft’s online reality check, and the worrying rise in measles cases](https://www.technologyreview.com/2026/02/20/1133396/the-download-microsofts-online-reality-check-and-the-worrying-rise-in-measles-cases/) (2026-02-20)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Deploy Your MCP Server to Google Cloud Run (For Free)](https://dev.to/ialijr/deploy-your-mcp-server-to-google-cloud-run-for-free-5d7k) (2026-02-23)
-- [Self-Hosting Mem0: A Complete Docker Deployment Guide](https://dev.to/mem0/self-hosting-mem0-a-complete-docker-deployment-guide-154i) (2026-02-23)
-- [I loaded 50 rules into Cursor and it followed every single one](https://dev.to/nedcodes/i-loaded-50-rules-into-cursor-and-it-followed-every-single-one-290a) (2026-02-23)
-- [Say Goodbye to Changelog Chaos: Introducing changesetgoo](https://dev.to/chandu_bobbili_06/say-goodbye-to-changelog-chaos-introducing-changesetgoo-c2j) (2026-02-23)
-- [The 8% Problem: MCP Servers That Look Open But Aren't](https://dev.to/kai_security_ai/the-8-problem-mcp-servers-that-look-open-but-arent-2ad2) (2026-02-23)
+- [Beyond Dictation: Building Software Just by Talking](https://dev.to/ristovm/beyond-dictation-building-software-just-by-talking-574) (2026-02-24)
+- [7 Mental Models That Made Me a Better Software Architect](https://dev.to/_b8d89ece3338719863cb03/7-mental-models-that-made-me-a-better-software-architect-30d8) (2026-02-24)
+- [Profiling GPU (CUDA) — Introducing GPU Flight](https://dev.to/codinginavan/profiling-gpu-cuda-introducing-gpu-flight-4p67) (2026-02-24)
+- [Detcting Burnout Before It Hits: Building an HRV Anomaly Detector with Isolation Forest 🚀](https://dev.to/wellallytech/detcting-burnout-before-it-hits-building-an-hrv-anomaly-detector-with-isolation-forest-4dek) (2026-02-24)
+- [THE MACHINERY OF MASS INCARCERATION](https://dev.to/triple7/the-machinery-of-mass-incarceration-2oo9) (2026-02-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Pengelolaan Tabel dengan SQL](https://medium.com/@sivanuraini0407/pengelolaan-tabel-dengan-sql-38595930ba8a?source=rss------programming-5) (2026-02-23)
-- [From Circuits to Code: My Journey from ECE to Software Engineering](https://medium.com/@navaneethkofficials/from-circuits-to-code-my-journey-from-ece-to-software-engineering-a5afa3d1625d?source=rss------programming-5) (2026-02-23)
-- [⚛️ Mastering ReactJS: Principles Every Pro Developer Must Know ](https://rajputlakhveer.medium.com/%EF%B8%8F-mastering-reactjs-principles-every-pro-developer-must-know-292fde8047d2?source=rss------programming-5) (2026-02-23)
-- [Is AI Replacing Developers — Or Just Upgrading Them?](https://medium.com/@youngcoder45/is-ai-replacing-developers-or-just-upgrading-them-f4a386c6e471?source=rss------programming-5) (2026-02-23)
-- [Blog #11 : Why Python Is the Language of Data](https://medium.com/towards-data-engineering/blog-11-why-python-is-the-language-of-data-81ed98f4484e?source=rss------programming-5) (2026-02-23)
+- [15 Essential Programs to Install After Ubuntu (Complete Post-Installation Setup Guide for…](https://medium.com/@rubenarays/15-essential-programs-to-install-after-ubuntu-complete-post-installation-setup-guide-for-1e87f34d3d7f?source=rss------programming-5) (2026-02-24)
+- [Index Hints For Slow SQL Queries](https://medium.com/@AlexanderObregon/index-hints-for-slow-sql-queries-9eafce113426?source=rss------programming-5) (2026-02-24)
+- [Vibe Coding with Cursor: How I Built VidGen with an “Almost Zero-Line Coding” Approach](https://medium.com/@leoucmao/vibe-coding-with-cursor-how-i-built-vidgen-with-an-almost-zero-line-coding-approach-104cec7ececb?source=rss------programming-5) (2026-02-24)
+- [Metadata-Driven Asynchronous Multi-Language Code Validation in Web Applications](https://medium.com/@2ravichandra.valluri/metadata-driven-asynchronous-multi-language-code-validation-in-web-applications-d5ad1751b0f3?source=rss------programming-5) (2026-02-24)
+- [They Asked Me “How Do You Abstract Your Data Layer?”](https://medium.com/@alaxhenry0121/they-asked-me-how-do-you-abstract-your-data-layer-02af6a27d3b8?source=rss------programming-5) (2026-02-24)
 
 </details>
 
@@ -367,6 +367,16 @@ Data activation: what it is & how to do it
 https://www.twilio.com/en-us/blog/insights/data/data-activation
 ) (2026-02-23)
 - [
+The Art of the Attendance: Why MWC is the Ultimate B2B Spectacle
+](
+https://www.twilio.com/en-us/blog/events/visit-twilio-at-mwc-2026
+) (2026-02-23)
+- [
+Sunsetting Twilio Segment’s Legacy Analytics Libraries
+](
+https://www.twilio.com/en-us/blog/products/sunsetting-legacy-segment-analytics-libraries
+) (2026-02-23)
+- [
 How To Track User Events With Segment in Node.js
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/track-user-events-segment-node-js
@@ -375,16 +385,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/track-user-events
 How to Use the Agent-to-Human Communication (A2H) Protocol with OpenClaw
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/building-blocks/agent-to-human-protocol-with-openclaw
-) (2026-02-19)
-- [
-Introducing A2H: A Protocol for Agent-to-Human Communication
-](
-https://www.twilio.com/en-us/blog/products/introducing-a2h-agent-to-human-communication-protocol
-) (2026-02-19)
-- [
-How To Get Started With Twilio Segment
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-get-started-with-twilio-segment
 ) (2026-02-19)
 
 </details>
@@ -547,9 +547,9 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-get-starte
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Deploying Open Source Vision Language Models (VLM) on Jetson](https://huggingface.co/blog/nvidia/cosmos-on-jetson) (2026-02-24)
 - [GGML and llama.cpp join HF to ensure the long-term progress of Local AI](https://huggingface.co/blog/ggml-joins-hf) (2026-02-20)
 - [Train AI models with Unsloth and Hugging Face Jobs for FREE](https://huggingface.co/blog/unsloth-jobs) (2026-02-20)
-- [「データ不足」の壁を越える：合成ペルソナが日本のAI開発を加速](https://huggingface.co/blog/nvidia/nemotron-personas-japan-nttdata-ja) (2026-02-19)
 - [IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST](https://huggingface.co/blog/ibm-research/itbenchandmast) (2026-02-18)
 - [One-Shot Any Web App with Gradio's gr.HTML](https://huggingface.co/blog/gradio-html-one-shot-apps) (2026-02-18)
 
@@ -569,11 +569,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-get-starte
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Is the AI and Data Job Market Dead?](https://towardsdatascience.com/is-the-ai-and-data-job-market-dead/) (2026-02-23)
+- [PySpark for Pandas Users](https://towardsdatascience.com/pyspark-for-pandas-users/) (2026-02-23)
+- [AI in Multiple GPUs: Gradient Accumulation & Data Parallelism](https://towardsdatascience.com/ai-in-multiple-gpus-grad-accum-data-parallelism/) (2026-02-23)
+- [Build Effective Internal Tooling with Claude Code](https://towardsdatascience.com/build-effective-internal-tooling-with-claude-code/) (2026-02-23)
 - [The Reality of Vibe Coding: AI Agents and the Security Debt Crisis](https://towardsdatascience.com/the-reality-of-vibe-coding-ai-agents-and-the-security-debt-crisis/) (2026-02-22)
-- [Architecting GPUaaS for Enterprise AI On-Prem](https://towardsdatascience.com/architecting-gpuaas-for-enterprise-ai-on-prem/) (2026-02-21)
-- [Donkeys, Not Unicorns](https://towardsdatascience.com/donkeys-not-unicorns-the-new-rules-of-commoditized-magic/) (2026-02-20)
-- [An End-to-End Guide to Beautifying Your Open-Source Repo with Agentic AI](https://towardsdatascience.com/an-end-to-end-guide-to-beautifying-your-open-source-repo-with-agentic-ai/) (2026-02-20)
-- [From Monolith to Contract-Driven Data Mesh](https://towardsdatascience.com/from-monolith-to-contract-driven-data-mesh/) (2026-02-20)
 
 </details>
 
