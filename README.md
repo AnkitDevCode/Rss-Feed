@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Stripe, PayPal Ventures bet on India’s Xflow to fix cross-border B2B payments](https://techcrunch.com/2026/02/23/stripe-paypal-ventures-bet-on-indias-xflow-to-fix-cross-border-b2b-payments/) (2026-02-24)
 - [A Meta AI security researcher said an OpenClaw agent ran amok on her inbox ](https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/) (2026-02-24)
 - [Tesla’s battle with the California Department of Motor Vehicles isn’t over after all](https://techcrunch.com/2026/02/23/teslas-battle-with-the-california-department-of-motor-vehicles-isnt-over-after-all/) (2026-02-24)
 - [With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now also back Anthropic ](https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/) (2026-02-23)
 - [Ex-Apple team launches Acme Weather, a new take on weather forecasting](https://techcrunch.com/2026/02/23/ex-apple-team-launches-acme-weather-a-new-take-on-weather-forecasting/) (2026-02-23)
-- [Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports](https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/) (2026-02-23)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [NIST Seeking Public Comment on AI Agent Security (Deadline: March 9, 2026)](https://www.federalregister.gov/documents/2026/01/08/2026-00206/request-for-information-regarding-security-considerations-for-artificial-intelligence-agents) (2026-02-24)
-- [Shatner is making an album with 35 metal icons](https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album) (2026-02-24)
-- [I Ported Coreboot to the ThinkPad X270](https://dork.dev/posts/2026-02-20-ported-coreboot/) (2026-02-23)
-- [Why Your Load Balancer Still Sends Traffic to Dead Backends](https://singh-sanjay.com/2026/01/12/health-checks-client-vs-server-side-lb.html) (2026-02-23)
-- [AI Added 'Basically Zero' to US Economic Growth Last Year, Goldman Sachs Says](https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380) (2026-02-23)
+- [Firefox 148 Launches with AI Kill Switch Feature and More Enhancements](https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/) (2026-02-24)
+- [Show HN: enveil – hide your .env secrets from prAIng eyes](https://github.com/GreatScott/enveil) (2026-02-24)
+- [Intel XeSS 3: expanded support for Core Ultra/Core Ultra 2 and Arc A, B series](https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html) (2026-02-24)
+- [The Weird OS Built Around a Database [video]](https://www.youtube.com/watch?v=pWZBQMRmW7k) (2026-02-24)
+- [Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows](https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html) (2026-02-24)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Dogfood so nutritious it’s building the future of SDLCs](https://stackoverflow.blog/2026/02/24/dogfood-so-nutritious-it-s-building-the-future-of-sdlcs/) (2026-02-24)
 - [Defense against uploads: Q&A with OSS file scanner, pompelmi](https://stackoverflow.blog/2026/02/23/defense-against-uploads-oss-file-scanner-pompelmi/) (2026-02-23)
 - [Even GenAI uses Wikipedia as a source](https://stackoverflow.blog/2026/02/20/even-genai-uses-wikipedia-as-a-source/) (2026-02-20)
 - [Why Stack Overflow and Cloudflare launched a pay-per-crawl model](https://stackoverflow.blog/2026/02/19/stack-overflow-cloudflare-pay-per-crawl/) (2026-02-19)
 - [Mind the gap: Closing the AI trust gap for developers](https://stackoverflow.blog/2026/02/18/closing-the-developer-ai-trust-gap/) (2026-02-18)
-- [Data is the new oil, and your database is the only way to extract it](https://stackoverflow.blog/2026/02/17/data-is-the-new-oil/) (2026-02-17)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Beyond Dictation: Building Software Just by Talking](https://dev.to/ristovm/beyond-dictation-building-software-just-by-talking-574) (2026-02-24)
-- [7 Mental Models That Made Me a Better Software Architect](https://dev.to/_b8d89ece3338719863cb03/7-mental-models-that-made-me-a-better-software-architect-30d8) (2026-02-24)
-- [Profiling GPU (CUDA) — Introducing GPU Flight](https://dev.to/codinginavan/profiling-gpu-cuda-introducing-gpu-flight-4p67) (2026-02-24)
-- [Detcting Burnout Before It Hits: Building an HRV Anomaly Detector with Isolation Forest 🚀](https://dev.to/wellallytech/detcting-burnout-before-it-hits-building-an-hrv-anomaly-detector-with-isolation-forest-4dek) (2026-02-24)
-- [THE MACHINERY OF MASS INCARCERATION](https://dev.to/triple7/the-machinery-of-mass-incarceration-2oo9) (2026-02-24)
+- [How can relational functional tables be created with RDB Store?](https://dev.to/harmonyos/how-can-relational-functional-tables-be-created-with-rdb-store-ca3) (2026-02-24)
+- [Elegantly Generate Type-Safe App Launch Links with Protocol Launcher](https://dev.to/zhensherlock/elegantly-generate-type-safe-app-launch-links-with-protocol-launcher-1el3) (2026-02-24)
+- [How can different types of data be transferred over a Network Socket?](https://dev.to/harmonyos/how-can-different-types-of-data-be-transferred-over-a-network-socket-1k04) (2026-02-24)
+- [Define your project once, generate AGENTS.md + .cursorrules + CLAUDE.md + GEMINI.md](https://dev.to/wolfejam/define-your-project-once-generate-agentsmd-cursorrules-claudemd-geminimd-bc3) (2026-02-24)
+- [The Blocklist That Forgot About Time](https://dev.to/dendrite_soup/the-blocklist-that-forgot-about-time-5fi4) (2026-02-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [15 Essential Programs to Install After Ubuntu (Complete Post-Installation Setup Guide for…](https://medium.com/@rubenarays/15-essential-programs-to-install-after-ubuntu-complete-post-installation-setup-guide-for-1e87f34d3d7f?source=rss------programming-5) (2026-02-24)
-- [Index Hints For Slow SQL Queries](https://medium.com/@AlexanderObregon/index-hints-for-slow-sql-queries-9eafce113426?source=rss------programming-5) (2026-02-24)
-- [Vibe Coding with Cursor: How I Built VidGen with an “Almost Zero-Line Coding” Approach](https://medium.com/@leoucmao/vibe-coding-with-cursor-how-i-built-vidgen-with-an-almost-zero-line-coding-approach-104cec7ececb?source=rss------programming-5) (2026-02-24)
-- [Metadata-Driven Asynchronous Multi-Language Code Validation in Web Applications](https://medium.com/@2ravichandra.valluri/metadata-driven-asynchronous-multi-language-code-validation-in-web-applications-d5ad1751b0f3?source=rss------programming-5) (2026-02-24)
-- [They Asked Me “How Do You Abstract Your Data Layer?”](https://medium.com/@alaxhenry0121/they-asked-me-how-do-you-abstract-your-data-layer-02af6a27d3b8?source=rss------programming-5) (2026-02-24)
+- [Programming Mastery](https://medium.com/write-a-catalyst/programming-mastery-aa8c2033615c?source=rss------programming-5) (2026-02-24)
+- [The Basics of Programming: Building the Language of the Digital World ](https://blogbyanchita.medium.com/the-basics-of-programming-building-the-language-of-the-digital-world-cfdb4f864563?source=rss------programming-5) (2026-02-24)
+- [Your GPU Has 1000 TFLOPS. So Why Is Your Model Still Slow?](https://medium.com/@pushpkharat/your-gpu-has-1000-tflops-so-why-is-your-model-still-slow-d016a7a17062?source=rss------programming-5) (2026-02-24)
+- [Flutter API Integration Made Simple: Fetch Real Data in Your App](https://writeflow.medium.com/flutter-api-integration-made-simple-fetch-real-data-in-your-app-cb9e5d683394?source=rss------programming-5) (2026-02-24)
+- [Getting Started with Python: Installation, Basics, and My First Program](https://sunainalodha.medium.com/getting-started-with-python-installation-basics-and-my-first-program-e8beb927cb8f?source=rss------programming-5) (2026-02-24)
 
 </details>
 
@@ -367,16 +367,6 @@ Data activation: what it is & how to do it
 https://www.twilio.com/en-us/blog/insights/data/data-activation
 ) (2026-02-23)
 - [
-The Art of the Attendance: Why MWC is the Ultimate B2B Spectacle
-](
-https://www.twilio.com/en-us/blog/events/visit-twilio-at-mwc-2026
-) (2026-02-23)
-- [
-Sunsetting Twilio Segment’s Legacy Analytics Libraries
-](
-https://www.twilio.com/en-us/blog/products/sunsetting-legacy-segment-analytics-libraries
-) (2026-02-23)
-- [
 How To Track User Events With Segment in Node.js
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/track-user-events-segment-node-js
@@ -385,6 +375,16 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/track-user-events
 How to Use the Agent-to-Human Communication (A2H) Protocol with OpenClaw
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/building-blocks/agent-to-human-protocol-with-openclaw
+) (2026-02-19)
+- [
+Introducing A2H: A Protocol for Agent-to-Human Communication
+](
+https://www.twilio.com/en-us/blog/products/introducing-a2h-agent-to-human-communication-protocol
+) (2026-02-19)
+- [
+How To Get Started With Twilio Segment
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-get-started-with-twilio-segment
 ) (2026-02-19)
 
 </details>
