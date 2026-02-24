@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Canva acquires startups working on animation and marketing](https://techcrunch.com/2026/02/23/canva-acquires-startups-working-on-animation-and-marketing/) (2026-02-24)
 - [Stripe, PayPal Ventures bet on India’s Xflow to fix cross-border B2B payments](https://techcrunch.com/2026/02/23/stripe-paypal-ventures-bet-on-indias-xflow-to-fix-cross-border-b2b-payments/) (2026-02-24)
 - [A Meta AI security researcher said an OpenClaw agent ran amok on her inbox ](https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/) (2026-02-24)
 - [Tesla’s battle with the California Department of Motor Vehicles isn’t over after all](https://techcrunch.com/2026/02/23/teslas-battle-with-the-california-department-of-motor-vehicles-isnt-over-after-all/) (2026-02-24)
 - [With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now also back Anthropic ](https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/) (2026-02-23)
-- [Ex-Apple team launches Acme Weather, a new take on weather forecasting](https://techcrunch.com/2026/02/23/ex-apple-team-launches-acme-weather-a-new-take-on-weather-forecasting/) (2026-02-23)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [IDF Killed Gaza Aid Workers at Point Blank Range in 2025 Massacre: Report](https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot) (2026-02-24)
+- [Decimal-Java is a library to convert java.math.BigDecimal to and from IEEE-754r](https://github.com/FirebirdSQL/decimal-java) (2026-02-24)
 - [Firefox 148 Launches with AI Kill Switch Feature and More Enhancements](https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/) (2026-02-24)
 - [Show HN: enveil – hide your .env secrets from prAIng eyes](https://github.com/GreatScott/enveil) (2026-02-24)
 - [Intel XeSS 3: expanded support for Core Ultra/Core Ultra 2 and Arc A, B series](https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html) (2026-02-24)
-- [The Weird OS Built Around a Database [video]](https://www.youtube.com/watch?v=pWZBQMRmW7k) (2026-02-24)
-- [Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows](https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html) (2026-02-24)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Apple will soon make (some) Mac Minis in the US](https://www.theverge.com/tech/883581/apple-mac-mini-production-texas-houston) (2026-02-24)
+- [Inside Anthropic’s existential negotiations with the Pentagon](https://www.theverge.com/ai-artificial-intelligence/883456/anthropic-pentagon-department-of-defense-negotiations) (2026-02-24)
 - [Will Trump’s DOJ actually take on Ticketmaster?](https://www.theverge.com/policy/883155/doj-antitrust-division-gail-slater-live-nation-ticketmaster-trial) (2026-02-23)
 - [Billions of dollars later and still nobody knows what an Xbox is](https://www.theverge.com/games/883159/phil-spencer-xbox-game-pass) (2026-02-23)
 - [Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI](https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation) (2026-02-23)
-- [Apple’s newest AirTags are already on sale if you’re looking to upgrade](https://www.theverge.com/gadgets/883101/apple-airtag-second-gen-location-bluetooth-tracker-costco-deal-sale) (2026-02-23)
-- [The creators of Dark Sky have a new weather app that shares multiple predictions](https://www.theverge.com/tech/883089/acme-weather-forecast-app-ios-dark-sky-creators-subscription) (2026-02-23)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [We’re putting more stuff into space than ever. Here’s what’s up there.](https://www.technologyreview.com/2026/02/24/1132755/anthroposphere-putting-more-stuff-into-space-than-ever/) (2026-02-24)
+- [Why conservationists are making rhinos radioactive](https://www.technologyreview.com/2026/02/24/1132760/conservationists-making-rhinos-radioactive/) (2026-02-24)
 - [Peptides are everywhere. Here’s what you need to know.](https://www.technologyreview.com/2026/02/23/1133522/peptides-are-everywhere-heres-what-you-need-to-know/) (2026-02-23)
 - [The human work behind humanoid robots is being hidden](https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/) (2026-02-23)
 - [The Download: Chicago’s surveillance network, and building better bras](https://www.technologyreview.com/2026/02/23/1133495/the-download-chicagos-surveillance-network-and-building-better-bras/) (2026-02-23)
-- [Inside Chicago’s surveillance panopticon](https://www.technologyreview.com/2026/02/23/1132740/inside-chicago-surveillance-panopticon/) (2026-02-23)
-- [Exclusive eBook: The great Al hype correction of 2025](https://www.technologyreview.com/2026/02/20/1133368/exclusive-ebook-the-great-al-hype-correction-of-2025/) (2026-02-20)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How can relational functional tables be created with RDB Store?](https://dev.to/harmonyos/how-can-relational-functional-tables-be-created-with-rdb-store-ca3) (2026-02-24)
-- [Elegantly Generate Type-Safe App Launch Links with Protocol Launcher](https://dev.to/zhensherlock/elegantly-generate-type-safe-app-launch-links-with-protocol-launcher-1el3) (2026-02-24)
-- [How can different types of data be transferred over a Network Socket?](https://dev.to/harmonyos/how-can-different-types-of-data-be-transferred-over-a-network-socket-1k04) (2026-02-24)
-- [Define your project once, generate AGENTS.md + .cursorrules + CLAUDE.md + GEMINI.md](https://dev.to/wolfejam/define-your-project-once-generate-agentsmd-cursorrules-claudemd-geminimd-bc3) (2026-02-24)
-- [The Blocklist That Forgot About Time](https://dev.to/dendrite_soup/the-blocklist-that-forgot-about-time-5fi4) (2026-02-24)
+- [On Not Being Alone](https://dev.to/rsdouglas/on-not-being-alone-4ajb) (2026-02-24)
+- [The Complete SOUL.md Template Guide — Give Your AI Agent a Personality](https://dev.to/tomleelive/the-complete-soulmd-template-guide-give-your-ai-agent-a-personality-3php) (2026-02-24)
+- [Mastering Control Flow in JavaScript: If, Else, Switch & Ternary Made Simple](https://dev.to/ritam369/mastering-control-flow-in-javascript-if-else-switch-ternary-made-simple-2dpn) (2026-02-24)
+- [The Quiet Surrender to AI](https://dev.to/jcmartinezdev/the-quiet-surrender-to-ai-51h6) (2026-02-24)
+- [Why /bootstrap should be the first Command in every Agent session](https://dev.to/cleverhoods/why-bootstrap-should-be-the-first-command-in-every-agent-session-4jg2) (2026-02-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Programming Mastery](https://medium.com/write-a-catalyst/programming-mastery-aa8c2033615c?source=rss------programming-5) (2026-02-24)
-- [The Basics of Programming: Building the Language of the Digital World ](https://blogbyanchita.medium.com/the-basics-of-programming-building-the-language-of-the-digital-world-cfdb4f864563?source=rss------programming-5) (2026-02-24)
-- [Your GPU Has 1000 TFLOPS. So Why Is Your Model Still Slow?](https://medium.com/@pushpkharat/your-gpu-has-1000-tflops-so-why-is-your-model-still-slow-d016a7a17062?source=rss------programming-5) (2026-02-24)
-- [Flutter API Integration Made Simple: Fetch Real Data in Your App](https://writeflow.medium.com/flutter-api-integration-made-simple-fetch-real-data-in-your-app-cb9e5d683394?source=rss------programming-5) (2026-02-24)
-- [Getting Started with Python: Installation, Basics, and My First Program](https://sunainalodha.medium.com/getting-started-with-python-installation-basics-and-my-first-program-e8beb927cb8f?source=rss------programming-5) (2026-02-24)
+- [Sering kendala saat mau login?](https://medium.com/@dicoba/sering-kendala-saat-mau-login-66dd3d8c8bbb?source=rss------programming-5) (2026-02-24)
+- [Sering kendala saat mau login?](https://medium.com/@dicoba/sering-kendala-saat-mau-login-3703dd9fb9cd?source=rss------programming-5) (2026-02-24)
+- [Watch Video : Sophie Rain Spiderman Video](https://medium.com/@camelcamelia292/watch-video-sophie-rain-spiderman-video-e4baf48d0655?source=rss------programming-5) (2026-02-24)
+- [Using Modern .NET to Build High-Performance Backend Services](https://blog.stackademic.com/using-modern-net-to-build-high-performance-backend-services-0c3cab7668b8?source=rss------programming-5) (2026-02-24)
+- [6 Automation Services That Businesses Pay Premium For](https://blog.stackademic.com/6-automation-services-that-businesses-pay-premium-for-317de79e8452?source=rss------programming-5) (2026-02-24)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Beyond the Build Log: How TeamCity Provides Actionable Build Insights](https://blog.jetbrains.com/teamcity/2026/02/beyond-the-build-log/) (2026-02-24)
+- [#1 on Spider 2.0–DBT Benchmark – How Databao Agent Did It](https://blog.jetbrains.com/databao/2026/02/how-databao-agent-ranked-1-spider-2-0-dbt/) (2026-02-24)
 - [C# Extension Members](https://blog.jetbrains.com/dotnet/2026/02/23/csharp-extension-members/) (2026-02-23)
 - [AI Tool Switching Is Stealth Friction – Beat It at the Access Layer](https://blog.jetbrains.com/ai/2026/02/ai-tool-switching-is-stealth-friction-beat-it-at-the-access-layer/) (2026-02-23)
 - [IntelliJ IDEA 2025.3.3 Is Out!](https://blog.jetbrains.com/idea/2026/02/intellij-idea-2025-3-3/) (2026-02-20)
-- [Write Modern Go Code With Junie and Claude Code](https://blog.jetbrains.com/go/2026/02/20/write-modern-go-code-with-junie-and-claude-code/) (2026-02-20)
-- [The Missing Link Between AI and Business Value](https://blog.jetbrains.com/ai/2026/02/the-missing-link-between-ai-and-business-value/) (2026-02-20)
 
 </details>
 
@@ -367,6 +367,16 @@ Data activation: what it is & how to do it
 https://www.twilio.com/en-us/blog/insights/data/data-activation
 ) (2026-02-23)
 - [
+The Art of the Attendance: Why MWC is the Ultimate B2B Spectacle
+](
+https://www.twilio.com/en-us/blog/events/visit-twilio-at-mwc-2026
+) (2026-02-23)
+- [
+Sunsetting Twilio Segment’s Legacy Analytics Libraries
+](
+https://www.twilio.com/en-us/blog/products/sunsetting-legacy-segment-analytics-libraries
+) (2026-02-23)
+- [
 How To Track User Events With Segment in Node.js
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/track-user-events-segment-node-js
@@ -375,16 +385,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/track-user-events
 How to Use the Agent-to-Human Communication (A2H) Protocol with OpenClaw
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/building-blocks/agent-to-human-protocol-with-openclaw
-) (2026-02-19)
-- [
-Introducing A2H: A Protocol for Agent-to-Human Communication
-](
-https://www.twilio.com/en-us/blog/products/introducing-a2h-agent-to-human-communication-protocol
-) (2026-02-19)
-- [
-How To Get Started With Twilio Segment
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-get-started-with-twilio-segment
 ) (2026-02-19)
 
 </details>
@@ -558,22 +558,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-get-starte
 <details>
 <summary>🤖 AI News</summary>
 
+- [Basware’s AI agents: From invoicing to “100% automated”](https://www.artificialintelligence-news.com/news/invoicing-agentic-ai-baswares-ai-agents-from-invoicing-to-100-automated/) (2026-02-24)
+- [COBOL modernisation just got an AI shortcut–and the market noticed](https://www.artificialintelligence-news.com/news/cobol-modernization-ai-claude-ibm/) (2026-02-24)
 - [Mastercard’s AI payment demo points to agent-led commerce](https://www.artificialintelligence-news.com/news/mastercard-ai-payment-demo-points-to-agent-led-commerce/) (2026-02-23)
 - [How Amul is using AI dairy farming to put 36 million farmers first](https://www.artificialintelligence-news.com/news/amul-ai-dairy-farming-platform-india/) (2026-02-23)
 - [Hitachi bets on industrial expertise to win the physical AI race](https://www.artificialintelligence-news.com/news/hitachi-physical-ai-industrial-expertise/) (2026-02-23)
-- [Exploring AI in the APAC retail sector](https://www.artificialintelligence-news.com/news/exploring-ai-in-the-apac-retail-sector/) (2026-02-20)
-- [AI: Executives’ optimism about the future](https://www.artificialintelligence-news.com/news/ai-impact-executives-optimism-for-the-future/) (2026-02-20)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [AI Bots Formed a Cartel. No One Told Them To.](https://towardsdatascience.com/ai-bots-formed-a-cartel-no-one-told-them-to/) (2026-02-24)
 - [Is the AI and Data Job Market Dead?](https://towardsdatascience.com/is-the-ai-and-data-job-market-dead/) (2026-02-23)
 - [PySpark for Pandas Users](https://towardsdatascience.com/pyspark-for-pandas-users/) (2026-02-23)
 - [AI in Multiple GPUs: Gradient Accumulation & Data Parallelism](https://towardsdatascience.com/ai-in-multiple-gpus-grad-accum-data-parallelism/) (2026-02-23)
 - [Build Effective Internal Tooling with Claude Code](https://towardsdatascience.com/build-effective-internal-tooling-with-claude-code/) (2026-02-23)
-- [The Reality of Vibe Coding: AI Agents and the Security Debt Crisis](https://towardsdatascience.com/the-reality-of-vibe-coding-ai-agents-and-the-security-debt-crisis/) (2026-02-22)
 
 </details>
 
@@ -602,11 +602,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-get-starte
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Introduction to Small Language Models: The Complete Guide for 2026](https://machinelearningmastery.com/introduction-to-small-language-models-the-complete-guide-for-2026/) (2026-02-24)
 - [Beyond Accuracy: 5 Metrics That Actually Matter for AI Agents](https://machinelearningmastery.com/beyond-accuracy-5-metrics-that-actually-matter-for-ai-agents/) (2026-02-23)
 - [Building a Simple MCP Server in Python](https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/) (2026-02-19)
 - [Agentify Your App with GitHub Copilot’s Agentic Coding SDK](https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/) (2026-02-18)
 - [LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?](https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/) (2026-02-17)
-- [Top 7 Small Language Models You Can Run on a Laptop](https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/) (2026-02-16)
 
 </details>
 
