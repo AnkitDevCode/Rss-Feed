@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [India’s AI boom pushes firms to trade near-term revenue for users](https://techcrunch.com/2026/02/24/india-ai-boom-pushes-firms-to-trade-near-term-revenue-for-users/) (2026-02-25)
 - [Nvidia challenger AI chip startup MatX raised $500M](https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/) (2026-02-25)
 - [Self-driving tech startup Wayve raises $1.2B from Nvidia, Uber, and three automakers](https://techcrunch.com/2026/02/24/self-driving-tech-startup-wayve-raises-1-2b-from-nvidia-uber-and-three-automakers/) (2026-02-25)
 - [Spanish ‘soonicorn’ Multiverse Computing releases free compressed AI model](https://techcrunch.com/2026/02/24/spanish-soonicorn-multiverse-computing-releases-free-compressed-ai-model/) (2026-02-24)
 - [Apple rolls out age-verification tools worldwide to comply with growing web of child safety laws](https://techcrunch.com/2026/02/24/apple-rolls-out-age-verification-tools-worldwide-to-comply-with-growing-web-of-child-safety-laws/) (2026-02-24)
-- [Uber engineers built an AI version of their boss](https://techcrunch.com/2026/02/24/uber-engineers-built-ai-version-of-boss-dara-khosrowshahi/) (2026-02-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Show HN: Context Mode – 315 KB of MCP output becomes 5.4 KB in Claude Code](https://github.com/mksglu/claude-context-mode) (2026-02-25)
+- [Turing Completeness of GNU Find: From Mkdir-Assisted Loops to Standalone Comput](https://arxiv.org/abs/2602.20762) (2026-02-25)
+- [Ask HN: Share your productive usage of OpenClaw](https://news.ycombinator.com/item?id=47147183) (2026-02-25)
+- [Anthropic Drops Flagship Safety Pledge](https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/) (2026-02-25)
 - [Corgi Labs (YC W23) Is Hiring](https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate) (2026-02-25)
-- [Amazon Busted for Widespread Scheme to Inflate Prices Across the Economy](https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price) (2026-02-25)
-- [Mercury 2: The fastest reasoning LLM, powered by diffusion](https://www.inceptionlabs.ai/blog/introducing-mercury-2) (2026-02-24)
-- [Cell Service for the Fairly Paranoid](https://www.cape.co/) (2026-02-24)
-- [Stripe reportedly makes offer to acquire PayPal](https://www.cnbc.com/2026/02/24/paypal-stock-stripe-acquisition-report.html) (2026-02-24)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Pete Hegseth’s Pentagon AI bro squad includes a former Uber executive and a private equity billionaire](https://www.theverge.com/ai-artificial-intelligence/884165/pentagon-anthropic-emil-michael-steve-feinberg) (2026-02-25)
 - [Apple&#8217;s new age verification tools block underage app downloads where required by law](https://www.theverge.com/tech/884136/apple-age-verification-assurance-underage-app-downloads) (2026-02-25)
 - [Apple’s touchscreen MacBooks might also have a Dynamic Island](https://www.theverge.com/tech/884089/apple-touchscreen-macbook-pro-dynamic-island) (2026-02-24)
 - [OpenAI defeats xAI’s trade secrets lawsuit](https://www.theverge.com/ai-artificial-intelligence/884049/openai-elon-musk-xai-trade-secrets-lawsuit) (2026-02-24)
 - [Let me see some ID: age verification is spreading across the internet](https://www.theverge.com/tech/883855/age-verification-internet-apps-laws-privacy-safety) (2026-02-24)
-- [Discord is delaying its global age verification rollout](https://www.theverge.com/policy/883852/discord-age-verification-global-walkback-delay) (2026-02-24)
 
 </details>
 
@@ -97,23 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [If you like VS Code REST Client, you're going to love LAZYREQUEST](https://dev.to/fredysandoval/if-you-like-vs-code-rest-client-youre-going-to-love-lazyrequest-m57) (2026-02-25)
-- [Mastering AI Agent Memory Architecture: A Deep Dive into Stateful Workflows](https://dev.to/oblivionlabz/mastering-ai-agent-memory-architecture-a-deep-dive-into-stateful-workflows-5032) (2026-02-25)
-- [How We Built an AI Support Assistant That Actually Works in Discord](https://dev.to/ticketcord/how-we-built-an-ai-support-assistant-that-actually-works-in-discord-1ddl) (2026-02-25)
-- [Design Patterns: Introduction](https://dev.to/techlabma/design-patterns-introduction-377g) (2026-02-25)
-- [Node.js 24.14.0 LTS and 25.7.0: Upgrade-Risk Matrix for CI, Native Modules, and Frameworks](https://dev.to/victorstackai/nodejs-24140-lts-and-2570-upgrade-risk-matrix-for-ci-native-modules-and-frameworks-4lc8) (2026-02-25)
+- [Difference Between Shallow Copy and Deep Copy in Java](https://dev.to/sharath_kumar_ec951693318/difference-between-shallow-copy-and-deep-copy-in-java-4008) (2026-02-25)
+- [Architecture of Trust: Defending Against Jailbreaks and Attacks using Google ADK with LLM-as-a-Judge and GCP Model Armor](https://dev.to/linhkid91/architecture-of-trust-defending-against-jailbreaks-and-attacks-using-google-adk-with-2740) (2026-02-25)
+- [AWS Lambda Durable Functions on Hexagonal Architecture: The Pattern You’ve Been Looking For](https://dev.to/aws-builders/aws-lambda-durable-functions-on-hexagonal-architecture-the-pattern-youve-been-looking-for-5hne) (2026-02-25)
+- [3 Free AI-Powered Python APIs - Text Summarizer, Email Validator, Content Generator](https://dev.to/joeyumanito/3-free-ai-powered-python-apis-text-summarizer-email-validator-content-generator-24h6) (2026-02-25)
+- [Graceful Exit Strategies: How to Fail at a Project Without Crashing Your Life](https://dev.to/chandravijayagr/graceful-exit-strategies-how-to-fail-at-a-project-without-crashing-your-life-321i) (2026-02-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [10 Tools I Can’t Code Without as a Software Developer](https://codebyumar.medium.com/10-tools-i-cant-code-without-as-a-software-developer-bd38bb8155b0?source=rss------programming-5) (2026-02-25)
-- [Guru : M. rifqi thufail fahmi
-By : raizzain.fadhil](https://medium.com/@kanalnanaokhehe/guru-m-rifqi-thufail-fahmi-by-raizzain-fadhil-9cb67c0a7d2c?source=rss------programming-5) (2026-02-25)
-- [METAR Temperature Contours on a Map in .NET](https://medium.com/@chriszenzel/metar-temperature-contours-on-a-map-in-net-bbab19b9becd?source=rss------programming-5) (2026-02-25)
-- [DART | TIPE DATA DAN OPERATOR](https://medium.com/@farandkf/dart-tipe-data-dan-operator-75f92a0dfba5?source=rss------programming-5) (2026-02-25)
-- [Engineer Is on Sale](https://medium.com/lets-code-future/engineer-is-on-sale-7cbf3b71c490?source=rss------programming-5) (2026-02-25)
+- [When Need To Have A Private Conversation](https://medium.com/@albertelwin/when-need-to-have-a-private-conversation-cb5763aabafb?source=rss------programming-5) (2026-02-25)
+- [90% of Python Developers Ignore This Simple LIST Trick!](https://medium.com/the-pythonworld/90-of-python-developers-ignore-this-simple-list-trick-42875ad9a784?source=rss------programming-5) (2026-02-25)
+- [Why AI Automation Agent Will Limit Your Options to Apps and Websites](https://medium.com/activated-thinker/why-ai-automation-agent-will-limit-your-options-to-apps-and-websites-58a3194de987?source=rss------programming-5) (2026-02-25)
+- [ No One Tells You This: Coding Is More About Emotional Control Than Intelligence](https://medium.com/@rakshitha55ramesh/no-one-tells-you-this-coding-is-more-about-emotional-control-than-intelligence-6a6046f0710b?source=rss------programming-5) (2026-02-25)
+- [The Enum Trick Every Python Developer Needs to Master](https://medium.com/the-pythonworld/the-enum-trick-every-python-developer-needs-to-master-5d3aad3697ec?source=rss------programming-5) (2026-02-25)
 
 </details>
 
@@ -131,11 +130,11 @@ By : raizzain.fadhil](https://medium.com/@kanalnanaokhehe/guru-m-rifqi-thufail-f
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
 - [Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873) (2026-02-17)
 - [Azure reliability, resiliency, and recoverability: Build continuity by design](https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/) (2026-02-17)
 - [The data behind the design: How Pantone built agentic AI with an AI-ready database](https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/) (2026-02-12)
 - [Agentic cloud operations: A new way to run the cloud](https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/) (2026-02-11)
+- [Can high-temperature superconductors transform the power infrastructure of datacenters?](https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/) (2026-02-10)
 
 </details>
 
@@ -553,6 +552,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/building-blocks/agent-to-
 - [Train AI models with Unsloth and Hugging Face Jobs for FREE](https://huggingface.co/blog/unsloth-jobs) (2026-02-20)
 - [IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST](https://huggingface.co/blog/ibm-research/itbenchandmast) (2026-02-18)
 - [One-Shot Any Web App with Gradio's gr.HTML](https://huggingface.co/blog/gradio-html-one-shot-apps) (2026-02-18)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Anthropic: Claude faces ‘industrial-scale’ AI model distillation](https://www.artificialintelligence-news.com/news/anthropic-claude-faces-industrial-scale-ai-model-distillation/) (2026-02-24)
+- [How disconnected clouds improve AI data governance](https://www.artificialintelligence-news.com/news/how-disconnected-clouds-improve-ai-data-governance/) (2026-02-24)
+- [Deploying agentic finance AI for immediate business ROI](https://www.artificialintelligence-news.com/news/deploying-agentic-finance-ai-for-immediate-business-roi/) (2026-02-24)
+- [Basware’s AI agents: From invoicing to ‘100% automated’](https://www.artificialintelligence-news.com/news/invoicing-agentic-ai-baswares-ai-agents-from-invoicing-to-100-automated/) (2026-02-24)
+- [COBOL modernisation just got an AI shortcut–and the market noticed](https://www.artificialintelligence-news.com/news/cobol-modernization-ai-claude-ibm/) (2026-02-24)
 
 </details>
 
