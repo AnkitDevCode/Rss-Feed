@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: Context Mode – 315 KB of MCP output becomes 5.4 KB in Claude Code](https://github.com/mksglu/claude-context-mode) (2026-02-25)
-- [Turing Completeness of GNU Find: From Mkdir-Assisted Loops to Standalone Comput](https://arxiv.org/abs/2602.20762) (2026-02-25)
-- [Ask HN: Share your productive usage of OpenClaw](https://news.ycombinator.com/item?id=47147183) (2026-02-25)
-- [Anthropic Drops Flagship Safety Pledge](https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/) (2026-02-25)
-- [Corgi Labs (YC W23) Is Hiring](https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate) (2026-02-25)
+- [Event Horizon Labs (YC W24) Is Hiring](https://www.ycombinator.com/companies/event-horizon-labs/jobs/xGQicps-founding-infrastructure-engineer) (2026-02-25)
+- [100M-Row Challenge with PHP](https://github.com/tempestphp/100-million-row-challenge) (2026-02-25)
+- [Danish government agency to ditch Microsoft software (2025)](https://therecord.media/denmark-digital-agency-microsoft-digital-independence) (2026-02-25)
+- [Show HN: A real-time strategy game that AI agents can play](https://llmskirmish.com/) (2026-02-25)
+- [LLM=True](https://blog.codemine.be/posts/2026/20260222-be-quiet/) (2026-02-25)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Honor’s new MagicPad 4 is the world’s thinnest Android tablet](https://www.theverge.com/tech/883816/honor-magicpad-4-android-16-tablet-oled-ultra-thin) (2026-02-25)
 - [Pete Hegseth’s Pentagon AI bro squad includes a former Uber executive and a private equity billionaire](https://www.theverge.com/ai-artificial-intelligence/884165/pentagon-anthropic-emil-michael-steve-feinberg) (2026-02-25)
 - [Apple&#8217;s new age verification tools block underage app downloads where required by law](https://www.theverge.com/tech/884136/apple-age-verification-assurance-underage-app-downloads) (2026-02-25)
 - [Apple’s touchscreen MacBooks might also have a Dynamic Island](https://www.theverge.com/tech/884089/apple-touchscreen-macbook-pro-dynamic-island) (2026-02-24)
 - [OpenAI defeats xAI’s trade secrets lawsuit](https://www.theverge.com/ai-artificial-intelligence/884049/openai-elon-musk-xai-trade-secrets-lawsuit) (2026-02-24)
-- [Let me see some ID: age verification is spreading across the internet](https://www.theverge.com/tech/883855/age-verification-internet-apps-laws-privacy-safety) (2026-02-24)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Listen to Earth’s rumbling, secret soundtrack](https://www.technologyreview.com/2026/02/25/1132829/listen-earths-rumbling-secret-soundtrack/) (2026-02-25)
+- [3 things Juliet Beauchamp is into right now](https://www.technologyreview.com/2026/02/25/1132836/3-things-juliet-beauchamp/) (2026-02-25)
+- [Now is a good time for doing crime](https://www.technologyreview.com/2026/02/25/1132840/editors-letter-march-2026/) (2026-02-25)
 - [Just pull a string to turn these tile patterns into useful 3D structures](https://www.technologyreview.com/2026/02/24/1132074/just-pull-a-string-to-turn-these-tile-patterns-into-useful-3d-structures/) (2026-02-24)
 - [A retinal reboot for amblyopia](https://www.technologyreview.com/2026/02/24/1132077/a-retinal-reboot-for-amblyopia/) (2026-02-24)
-- [A new way to rejuvenate the immune system](https://www.technologyreview.com/2026/02/24/1132080/a-new-way-to-rejuvenate-the-immune-system/) (2026-02-24)
-- [A I-designed proteins may help spot cancer](https://www.technologyreview.com/2026/02/24/1132083/a-i-designed-proteins-may-help-spot-cancer/) (2026-02-24)
-- [Reformulated antibodies could be injected for easier treatment](https://www.technologyreview.com/2026/02/24/1132086/reformulated-antibodies-could-be-injected-for-easier-treatment/) (2026-02-24)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Difference Between Shallow Copy and Deep Copy in Java](https://dev.to/sharath_kumar_ec951693318/difference-between-shallow-copy-and-deep-copy-in-java-4008) (2026-02-25)
-- [Architecture of Trust: Defending Against Jailbreaks and Attacks using Google ADK with LLM-as-a-Judge and GCP Model Armor](https://dev.to/linhkid91/architecture-of-trust-defending-against-jailbreaks-and-attacks-using-google-adk-with-2740) (2026-02-25)
-- [AWS Lambda Durable Functions on Hexagonal Architecture: The Pattern You’ve Been Looking For](https://dev.to/aws-builders/aws-lambda-durable-functions-on-hexagonal-architecture-the-pattern-youve-been-looking-for-5hne) (2026-02-25)
-- [3 Free AI-Powered Python APIs - Text Summarizer, Email Validator, Content Generator](https://dev.to/joeyumanito/3-free-ai-powered-python-apis-text-summarizer-email-validator-content-generator-24h6) (2026-02-25)
-- [Graceful Exit Strategies: How to Fail at a Project Without Crashing Your Life](https://dev.to/chandravijayagr/graceful-exit-strategies-how-to-fail-at-a-project-without-crashing-your-life-321i) (2026-02-25)
+- [Building Datasets for Agentic AI: A Call for Contributors](https://dev.to/operationalneuralnetwork/building-datasets-for-agentic-ai-a-call-for-contributors-1eoh) (2026-02-25)
+- [$20 subscription 6 people: Google One AI family sharing explained 😈✨](https://dev.to/amals367/20-subscription-6-people-google-one-ai-family-sharing-explained-65a) (2026-02-25)
+- [Help improve accessibility error messages with PDF4WCAG](https://dev.to/katash/help-improve-accessibility-error-messages-with-pdf4wcag-32oh) (2026-02-25)
+- [I Built a Free Offline CRM for Real Estate Agents Using Flutter — Here's Why](https://dev.to/ubedulla_midde_98599e9a95/i-built-a-free-offline-crm-for-real-estate-agents-using-flutter-heres-why-3nhn) (2026-02-25)
+- [Playwright with TypeScript: is AI really here to help? Playwright-cli?](https://dev.to/rodrigoobc/playwright-with-typescript-is-ai-really-here-to-help-playwright-cli-51g3) (2026-02-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [When Need To Have A Private Conversation](https://medium.com/@albertelwin/when-need-to-have-a-private-conversation-cb5763aabafb?source=rss------programming-5) (2026-02-25)
-- [90% of Python Developers Ignore This Simple LIST Trick!](https://medium.com/the-pythonworld/90-of-python-developers-ignore-this-simple-list-trick-42875ad9a784?source=rss------programming-5) (2026-02-25)
-- [Why AI Automation Agent Will Limit Your Options to Apps and Websites](https://medium.com/activated-thinker/why-ai-automation-agent-will-limit-your-options-to-apps-and-websites-58a3194de987?source=rss------programming-5) (2026-02-25)
-- [ No One Tells You This: Coding Is More About Emotional Control Than Intelligence](https://medium.com/@rakshitha55ramesh/no-one-tells-you-this-coding-is-more-about-emotional-control-than-intelligence-6a6046f0710b?source=rss------programming-5) (2026-02-25)
-- [The Enum Trick Every Python Developer Needs to Master](https://medium.com/the-pythonworld/the-enum-trick-every-python-developer-needs-to-master-5d3aad3697ec?source=rss------programming-5) (2026-02-25)
+- [Record number of US warplanes in the Middle East, are war preparations final?](https://medium.com/@emmamegan9476/record-number-of-us-warplanes-in-the-middle-east-are-war-preparations-final-d986601766bd?source=rss------programming-5) (2026-02-25)
+- [ KFTECH | SOFTWARE SOLUTIONS 2026 …](https://mrakftech.medium.com/kftech-software-solutions-2026-9696ae79a87f?source=rss------programming-5) (2026-02-25)
+- [Build These Projects → Get Hired in 2026](https://medium.com/@zeescriptdev_6714/build-these-projects-get-hired-in-2026-9715552223cd?source=rss------programming-5) (2026-02-25)
+- [CUDA From First Principles Part 2](https://medium.com/data-science-collective/learning-cuda-from-first-principles-part-2-eba7c5e94459?source=rss------programming-5) (2026-02-25)
+- [JavaScript charAt() — The Complete Simple Guide](https://medium.com/@harshaddhongade2023/javascript-charat-the-complete-simple-guide-8d6af7d64ee4?source=rss------programming-5) (2026-02-25)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
 - [Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873) (2026-02-17)
 - [Azure reliability, resiliency, and recoverability: Build continuity by design](https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/) (2026-02-17)
 - [The data behind the design: How Pantone built agentic AI with an AI-ready database](https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/) (2026-02-12)
 - [Agentic cloud operations: A new way to run the cloud](https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/) (2026-02-11)
-- [Can high-temperature superconductors transform the power infrastructure of datacenters?](https://azure.microsoft.com/en-us/blog/can-high-temperature-superconductors-transform-the-power-infrastructure-of-datacenters/) (2026-02-10)
 
 </details>
 
@@ -558,33 +558,33 @@ https://www.twilio.com/en-us/blog/developers/tutorials/building-blocks/agent-to-
 <details>
 <summary>🤖 AI News</summary>
 
+- [Nokia and AWS pilot AI automation for real-time 5G network slicing](https://www.artificialintelligence-news.com/news/nokia-and-aws-pilot-ai-automation-for-real-time-5g-network-slicing/) (2026-02-25)
 - [Anthropic: Claude faces ‘industrial-scale’ AI model distillation](https://www.artificialintelligence-news.com/news/anthropic-claude-faces-industrial-scale-ai-model-distillation/) (2026-02-24)
 - [How disconnected clouds improve AI data governance](https://www.artificialintelligence-news.com/news/how-disconnected-clouds-improve-ai-data-governance/) (2026-02-24)
 - [Deploying agentic finance AI for immediate business ROI](https://www.artificialintelligence-news.com/news/deploying-agentic-finance-ai-for-immediate-business-roi/) (2026-02-24)
 - [Basware’s AI agents: From invoicing to ‘100% automated’](https://www.artificialintelligence-news.com/news/invoicing-agentic-ai-baswares-ai-agents-from-invoicing-to-100-automated/) (2026-02-24)
-- [COBOL modernisation just got an AI shortcut–and the market noticed](https://www.artificialintelligence-news.com/news/cobol-modernization-ai-claude-ibm/) (2026-02-24)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Define the Modeling Scope of an Internal Credit Risk Model](https://towardsdatascience.com/how-to-define-the-modeling-scope-of-an-internal-credit-risk-model/) (2026-02-25)
 - [Optimizing Token Generation in PyTorch Decoder Models](https://towardsdatascience.com/optimizing-token-generation-in-pytorch-decoder-models/) (2026-02-24)
 - [Decisioning at the Edge: Policy Matching at Scale](https://towardsdatascience.com/decisioning-at-the-edge-policy-matching-at-scale/) (2026-02-24)
 - [Optimizing Deep Learning Models with SAM](https://towardsdatascience.com/optimizing-deep-learning-models-with-sam/) (2026-02-24)
 - [AI Bots Formed a Cartel. No One Told Them To.](https://towardsdatascience.com/ai-bots-formed-a-cartel-no-one-told-them-to/) (2026-02-24)
-- [Is the AI and Data Job Market Dead?](https://towardsdatascience.com/is-the-ai-and-data-job-market-dead/) (2026-02-23)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [OpenClaw Hosting: Mac Mini vs Cloud VPS](https://www.analyticsvidhya.com/blog/2026/02/openclaw-hosting-mac-mini-vs-cloud-vps/) (2026-02-25)
+- [What is Seedance 2.0? [Features, Architecture, and More]](https://www.analyticsvidhya.com/blog/2026/02/what-is-seedance-2-0/) (2026-02-25)
 - [Lag Features and Rolling Features in Feature Engineering](https://www.analyticsvidhya.com/blog/2026/02/lag-and-rolling-features/) (2026-02-24)
 - [Top 5 No-Code AI Jobs of 2026](https://www.analyticsvidhya.com/blog/2026/02/ai-jobs-without-coding/) (2026-02-24)
 - [Building a Personal Productivity Agent with GLM-5 ](https://www.analyticsvidhya.com/blog/2026/02/building-a-personal-productivity-agent-with-glm-5/) (2026-02-23)
-- [Data Storytelling using AI: 5 Techniques to Present AI-Generated Insights](https://www.analyticsvidhya.com/blog/2026/02/data-storytelling/) (2026-02-23)
-- [Prompt Repetition: The Overlooked Hack for Better LLM Results](https://www.analyticsvidhya.com/blog/2026/02/prompt-repetition/) (2026-02-22)
 
 </details>
 
@@ -602,11 +602,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/building-blocks/agent-to-
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [How to Combine LLM Embeddings + TF-IDF + Metadata in One Scikit-learn Pipeline](https://machinelearningmastery.com/how-to-combine-llm-embeddings-tf-idf-metadata-in-one-scikit-learn-pipeline/) (2026-02-25)
 - [Introduction to Small Language Models: The Complete Guide for 2026](https://machinelearningmastery.com/introduction-to-small-language-models-the-complete-guide-for-2026/) (2026-02-24)
 - [Beyond Accuracy: 5 Metrics That Actually Matter for AI Agents](https://machinelearningmastery.com/beyond-accuracy-5-metrics-that-actually-matter-for-ai-agents/) (2026-02-23)
 - [Building a Simple MCP Server in Python](https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/) (2026-02-19)
 - [Agentify Your App with GitHub Copilot’s Agentic Coding SDK](https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/) (2026-02-18)
-- [LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?](https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/) (2026-02-17)
 
 </details>
 
