@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Instagram now alerts parents if their teen searches for suicide or self-harm content](https://techcrunch.com/2026/02/26/instagram-now-alerts-parents-if-their-teen-searches-for-suicide-or-self-harm-content/) (2026-02-26)
 - [Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse](https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/) (2026-02-26)
 - [Gushwork bets on AI search for customer leads — and early results are emerging](https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/) (2026-02-26)
 - [Anthropic acquires computer-use AI startup Vercept after Meta poached one of its founders](https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/) (2026-02-25)
 - [Nvidia has another record quarter amid record capex spends](https://techcrunch.com/2026/02/25/nvidia-earnings-record-capex-spend-ai/) (2026-02-25)
-- [The White House wants AI companies to cover rate hikes. Most have already said they would.](https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/) (2026-02-25)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [I don't know how you get here from "predict the next word."](https://www.grumpy-economist.com/p/refine) (2026-02-26)
-- [Self-improving software won't produce Skynet](https://contalign.jefflunt.com/self-improving-software/) (2026-02-26)
-- [RAM now represents 35 percent of bill of materials for HP PCs](https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/) (2026-02-26)
-- [Show HN: OpenSwarm – Multi‑Agent Claude CLI Orchestrator for Linear/GitHub](https://github.com/Intrect-io/OpenSwarm) (2026-02-26)
-- [Show HN: ZSE – Open-source LLM inference engine with 3.9s cold starts](https://github.com/Zyora-Dev/zse) (2026-02-26)
+- [Show HN: Agent Swarm – Multi-agent self-learning teams (OSS)](https://github.com/desplega-ai/agent-swarm) (2026-02-26)
+- [Nihilistic Violent Extremism](https://en.wikipedia.org/wiki/Nihilistic_violent_extremism) (2026-02-26)
+- [Hightouch (YC S19) Is Hiring](https://hightouch.com/careers#open-positions) (2026-02-26)
+- [Men in their 50s may be aging faster due to toxic 'forever chemicals'](https://www.cnn.com/2026/02/26/health/forever-chemicals-aging-men-wellness) (2026-02-26)
+- [You Want to Visit the UK? You Better Have a Google Play or App Store Account](https://www.heltweg.org/posts/you-want-to-visit-the-uk-you-better-have-a-google-play-or-app-store-account/) (2026-02-26)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Instagram will alert parents if their kids &#8216;repeatedly&#8217; search for self-harm topics](https://www.theverge.com/tech/885110/meta-instagram-parent-alert-teen-self-harm-suicide) (2026-02-26)
+- [Google takes control of ‘Android of robotics’ project in quest for physical AI](https://www.theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic) (2026-02-26)
 - [New York sues Valve, alleging its loot boxes are ‘quintessential gambling’](https://www.theverge.com/games/884978/valve-lawsuit-loot-boxes-new-york-attorney-general-lawsuit) (2026-02-25)
-- [How the new Galaxy S26 phones stack up against each other on paper](https://www.theverge.com/gadgets/883733/samsung-galaxy-s26-vs-plus-ultra-specs-features-hardware-comparison) (2026-02-25)
+- [How the new Galaxy S26 phones compare](https://www.theverge.com/gadgets/883733/samsung-galaxy-s26-vs-plus-ultra-specs-features-hardware-comparison) (2026-02-25)
 - [Corsair is halting Drop sales after March 25th](https://www.theverge.com/news/884824/corsair-ending-drop-shopping-site) (2026-02-25)
-- [The Peace Corps is recruiting volunteers to sell AI to developing nations](https://www.theverge.com/policy/884625/peace-corps-tech-promote-american-ai) (2026-02-25)
-- [Trump claims tech companies will sign deals next week to pay for their own power supply](https://www.theverge.com/science/884191/ai-data-center-energy-state-of-the-union-trump) (2026-02-25)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [This company claims a battery breakthrough. Now they need to prove it.](https://www.technologyreview.com/2026/02/26/1133722/solid-state-batteries-donut-lab/) (2026-02-26)
+- [America was winning the race to find Martian life. Then China jumped in.](https://www.technologyreview.com/2026/02/26/1133584/america-china-mars-sample-return-space-race-nasa/) (2026-02-26)
 - [Roundtables: Why 2026 Is the Year for Sodium-Ion Batteries](https://www.technologyreview.com/2026/02/25/1132873/roundtables-why-2026-is-the-year-for-sodium-ion-batteries/) (2026-02-25)
 - [The Download: introducing the Crime issue](https://www.technologyreview.com/2026/02/25/1133653/the-download-introducing-the-crime-issue/) (2026-02-25)
 - [Listen to Earth’s rumbling, secret soundtrack](https://www.technologyreview.com/2026/02/25/1132829/listen-earths-rumbling-secret-soundtrack/) (2026-02-25)
-- [3 things Juliet Beauchamp is into right now](https://www.technologyreview.com/2026/02/25/1132836/3-things-juliet-beauchamp/) (2026-02-25)
-- [Now is a good time for doing crime](https://www.technologyreview.com/2026/02/25/1132840/editors-letter-march-2026/) (2026-02-25)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Complete Guide to @hazeljs/gateway: Intelligent API Gateway for Microservices](https://dev.to/arslan_mecom/the-complete-guide-to-hazeljsgateway-intelligent-api-gateway-for-microservices-4ee5) (2026-02-26)
-- [Why AI Recruitment Pipelines Are Becoming Part of Modern Engineering Workflows](https://dev.to/taurusai/why-ai-recruitment-pipelines-are-becoming-part-of-modern-engineering-workflows-22mf) (2026-02-26)
-- [Automatic temp file creation on the standby - Oracle AI Database 26ai](https://dev.to/vahidusefzadeh/automatic-temp-file-creation-on-the-standby-oracle-ai-database-26ai-h9j) (2026-02-26)
-- [ساخت تایم‌لپس حرفه‌ای با چند دوربین مداربسته — تجربه‌ای که از یک نیاز واقعی شروع شد](https://dev.to/intellsoft/skht-tymlps-hrfhy-b-chnd-dwrbyn-mdrbsth-tjrbhy-khh-z-ykh-nyz-wqy-shrw-shd-37f0) (2026-02-26)
-- [Webhook Security Best Practices for Production 2025-2026](https://dev.to/digital_trubador/webhook-security-best-practices-for-production-2025-2026-384n) (2026-02-26)
+- [Laravel Scheduler in Production: Why I Use It (and How I Make It Reliable)](https://dev.to/blamsa0mine/laravel-scheduler-in-production-why-i-use-it-and-how-i-make-it-reliable-43df) (2026-02-26)
+- [Your Chatbot Recommends Products You Don't Sell](https://dev.to/rosen_hristov/your-chatbot-recommends-products-you-dont-sell-3jnl) (2026-02-26)
+- [I built a protocol that asks AI coding agents to credit the open source they use](https://dev.to/attributionmd/i-built-a-protocol-that-asks-ai-coding-agents-to-credit-the-open-source-they-use-298a) (2026-02-26)
+- [# Notes for Everyone on Local Storage](https://dev.to/hackero112/-notes-for-everyone-on-local-storage-2foi) (2026-02-26)
+- [How I Built Swarm DJ: A Multi-Agent AI System Performing Live Electronic Music 🎧](https://dev.to/harishkotra/how-i-built-swarm-dj-a-multi-agent-ai-system-performing-live-electronic-music-3lc2) (2026-02-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [5 Powerful F-String Tricks Every Python Developer Should Know!](https://medium.com/the-pythonworld/5-powerful-f-string-tricks-every-python-developer-should-know-432986939069?source=rss------programming-5) (2026-02-26)
-- [I Paid Someone to Explain My Coding Assignment. Here’s What I Actually Learned.](https://medium.com/@wilson79/i-paid-someone-to-explain-my-coding-assignment-heres-what-i-actually-learned-515ac2739fa6?source=rss------programming-5) (2026-02-26)
-- [10 Production-Grade Python Code Styles I Learned from Real-World Experience](https://medium.com/the-pythonworld/10-production-grade-python-code-styles-i-learned-from-real-world-experience-9c6df041de2a?source=rss------programming-5) (2026-02-26)
-- [From Seizures to Syntax: How Rust Became a Lifeline](https://medium.com/rustaceans/from-seizures-to-syntax-how-rust-became-a-lifeline-2b97e87a5b1e?source=rss------programming-5) (2026-02-26)
-- [4 Declarative Ways to remove Array duplicates in JavaScript](https://kurtwanger40.medium.com/4-declarative-ways-to-remove-array-duplicates-in-javascript-78753726ff99?source=rss------programming-5) (2026-02-26)
+- [Is Classical Machine Learning Still Competitive?](https://medium.com/@marshparham2/is-classical-machine-learning-still-competitive-e04fa2a905c3?source=rss------programming-5) (2026-02-26)
+- [5 C Memory Management Lessons That Instantly Leveled Up My Programming Skills](https://medium.com/codeelevation/5-c-memory-management-lessons-that-instantly-leveled-up-my-programming-skills-2e87f85373a0?source=rss------programming-5) (2026-02-26)
+- [ My Coding Journey — From Fear to 1800+](https://medium.com/@aparnakl2006/my-coding-journey-from-fear-to-1800-e23b24e5aefd?source=rss------programming-5) (2026-02-26)
+- [Coding in 2026: Dead Skill or Ultimate Superpower?](https://azeemteli.medium.com/coding-in-2026-dead-skill-or-ultimate-superpower-d95292a74475?source=rss------programming-5) (2026-02-26)
+- [You’re Probably Writing Insecure JavaScript.](https://medium.com/@TusharKanjariya/youre-probably-writing-insecure-javascript-ef2aab56fa68?source=rss------programming-5) (2026-02-26)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Toolbox App 3.3: Introducing jetbrainsd, an Improved Linux Experience, and More](https://blog.jetbrains.com/toolbox-app/2026/02/toolbox-app-3-3-introducing-jetbrainsd-an-improved-linux-experience-and-more/) (2026-02-26)
 - [Migrating to Modular Monolith using Spring Modulith and IntelliJ IDEA](https://blog.jetbrains.com/idea/2026/02/migrating-to-modular-monolith-using-spring-modulith-and-intellij-idea/) (2026-02-25)
 - [Building LLM-Friendly MCP Tools in RubyMine: Pagination, Filtering, and Error Design](https://blog.jetbrains.com/ruby/2026/02/rubymine-mcp-and-the-rails-toolset/) (2026-02-25)
 - [Beyond the Build Log: How TeamCity Provides Actionable Build Insights](https://blog.jetbrains.com/teamcity/2026/02/beyond-the-build-log/) (2026-02-24)
 - [#1 on Spider 2.0–DBT Benchmark – How Databao Agent Did It](https://blog.jetbrains.com/databao/2026/02/how-databao-agent-ranked-1-spider-2-0-dbt/) (2026-02-24)
-- [C# Extension Members](https://blog.jetbrains.com/dotnet/2026/02/23/csharp-extension-members/) (2026-02-23)
 
 </details>
 
@@ -547,11 +547,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/track-user-events
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Mixture of Experts (MoEs) in Transformers](https://huggingface.co/blog/moe-transformers) (2026-02-26)
 - [Deploying Open Source Vision Language Models (VLM) on Jetson](https://huggingface.co/blog/nvidia/cosmos-on-jetson) (2026-02-24)
 - [GGML and llama.cpp join HF to ensure the long-term progress of Local AI](https://huggingface.co/blog/ggml-joins-hf) (2026-02-20)
 - [Train AI models with Unsloth and Hugging Face Jobs for FREE](https://huggingface.co/blog/unsloth-jobs) (2026-02-20)
 - [IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST](https://huggingface.co/blog/ibm-research/itbenchandmast) (2026-02-18)
-- [One-Shot Any Web App with Gradio's gr.HTML](https://huggingface.co/blog/gradio-html-one-shot-apps) (2026-02-18)
 
 </details>
 
@@ -569,22 +569,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/track-user-events
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Take a Deep Dive into Filtering in DAX](https://towardsdatascience.com/take-a-deep-dive-into-filtering-in-dax/) (2026-02-26)
 - [Scaling Feature Engineering Pipelines with Feast and Ray](https://towardsdatascience.com/scaling-feature-engineering-pipelines-with-feast-and-ray/) (2026-02-25)
 - [Breaking the Host Memory Bottleneck: How Peer Direct Transformed Gaudi’s Cloud Performance](https://towardsdatascience.com/breaking-the-host-memory-bottleneck/) (2026-02-25)
 - [Aliasing in Audio, Easily Explained: From Wagon Wheels to Waveforms](https://towardsdatascience.com/aliasing-in-audio-easily-explained-from-wagon-wheels-to-waveforms/) (2026-02-25)
 - [How to Define the Modeling Scope of an Internal Credit Risk Model](https://towardsdatascience.com/how-to-define-the-modeling-scope-of-an-internal-credit-risk-model/) (2026-02-25)
-- [Optimizing Token Generation in PyTorch Decoder Models](https://towardsdatascience.com/optimizing-token-generation-in-pytorch-decoder-models/) (2026-02-24)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Top 7 Free Prompt Engineering Courses with Certificates](https://www.analyticsvidhya.com/blog/2026/02/free-prompt-engineering-courses-with-certificate/) (2026-02-26)
 - [OpenClaw Hosting: Mac Mini vs Cloud VPS](https://www.analyticsvidhya.com/blog/2026/02/openclaw-hosting-mac-mini-vs-cloud-vps/) (2026-02-25)
 - [What is Seedance 2.0? [Features, Architecture, and More]](https://www.analyticsvidhya.com/blog/2026/02/what-is-seedance-2-0/) (2026-02-25)
 - [Lag Features and Rolling Features in Feature Engineering](https://www.analyticsvidhya.com/blog/2026/02/lag-and-rolling-features/) (2026-02-24)
 - [Top 5 No-Code AI Jobs of 2026](https://www.analyticsvidhya.com/blog/2026/02/ai-jobs-without-coding/) (2026-02-24)
-- [Building a Personal Productivity Agent with GLM-5 ](https://www.analyticsvidhya.com/blog/2026/02/building-a-personal-productivity-agent-with-glm-5/) (2026-02-23)
 
 </details>
 
