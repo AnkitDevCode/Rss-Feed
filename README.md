@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse](https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/) (2026-02-26)
 - [Gushwork bets on AI search for customer leads — and early results are emerging](https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/) (2026-02-26)
 - [Anthropic acquires computer-use AI startup Vercept after Meta poached one of its founders](https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/) (2026-02-25)
 - [Nvidia has another record quarter amid record capex spends](https://techcrunch.com/2026/02/25/nvidia-earnings-record-capex-spend-ai/) (2026-02-25)
 - [The White House wants AI companies to cover rate hikes. Most have already said they would.](https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/) (2026-02-25)
-- [US cybersecurity agency CISA reportedly in dire shape amid Trump cuts and layoffs](https://techcrunch.com/2026/02/25/us-cybersecurity-agency-cisa-reportedly-in-dire-shape-amid-trump-cuts-and-layoffs/) (2026-02-25)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Tech Companies Shouldn't Be Bullied into Doing Surveillance](https://www.eff.org/deeplinks/2026/02/tech-companies-shouldnt-be-bullied-doing-surveillance) (2026-02-26)
-- [Origin of the rule that swap size should be 2x of the physical memory](https://retrocomputing.stackexchange.com/questions/32492/origin-of-the-rule-that-swap-size-should-be-2x-of-the-physical-memory) (2026-02-25)
-- [First Website](https://info.cern.ch) (2026-02-25)
-- [Making MCP cheaper via CLI](https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html) (2026-02-25)
-- [Jimi Hendrix was a systems engineer](https://spectrum.ieee.org/jimi-hendrix-systems-engineer) (2026-02-25)
+- [I don't know how you get here from "predict the next word."](https://www.grumpy-economist.com/p/refine) (2026-02-26)
+- [Self-improving software won't produce Skynet](https://contalign.jefflunt.com/self-improving-software/) (2026-02-26)
+- [RAM now represents 35 percent of bill of materials for HP PCs](https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/) (2026-02-26)
+- [Show HN: OpenSwarm – Multi‑Agent Claude CLI Orchestrator for Linear/GitHub](https://github.com/Intrect-io/OpenSwarm) (2026-02-26)
+- [Show HN: ZSE – Open-source LLM inference engine with 3.9s cold starts](https://github.com/Zyora-Dev/zse) (2026-02-26)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Agent orchestration. The end of coding as we know.](https://dev.to/merlos/agent-orchestration-the-end-of-coding-as-we-know-jih) (2026-02-26)
-- [Mensajes de WhatsApp iniciados por el agente desde Amazon Connect](https://dev.to/aws-espanol/mensajes-de-whatsapp-iniciados-por-el-agente-desde-amazon-connect-25i4) (2026-02-26)
-- [🚀 Deploying a Static Website on AWS EC2 (Step-by-Step Guide)](https://dev.to/sushant_deshpande/deploying-a-static-website-on-aws-ec2-step-by-step-guide-30lb) (2026-02-26)
-- [☁️ What is AWS EC2? (In Simple Language)](https://dev.to/sushant_deshpande/what-is-aws-ec2-in-simple-language-1kd9) (2026-02-26)
-- [🚀 Starting My Cloud Engineering Journey](https://dev.to/sushant_deshpande/starting-my-cloud-engineering-journey-3hf3) (2026-02-26)
+- [The Complete Guide to @hazeljs/gateway: Intelligent API Gateway for Microservices](https://dev.to/arslan_mecom/the-complete-guide-to-hazeljsgateway-intelligent-api-gateway-for-microservices-4ee5) (2026-02-26)
+- [Why AI Recruitment Pipelines Are Becoming Part of Modern Engineering Workflows](https://dev.to/taurusai/why-ai-recruitment-pipelines-are-becoming-part-of-modern-engineering-workflows-22mf) (2026-02-26)
+- [Automatic temp file creation on the standby - Oracle AI Database 26ai](https://dev.to/vahidusefzadeh/automatic-temp-file-creation-on-the-standby-oracle-ai-database-26ai-h9j) (2026-02-26)
+- [ساخت تایم‌لپس حرفه‌ای با چند دوربین مداربسته — تجربه‌ای که از یک نیاز واقعی شروع شد](https://dev.to/intellsoft/skht-tymlps-hrfhy-b-chnd-dwrbyn-mdrbsth-tjrbhy-khh-z-ykh-nyz-wqy-shrw-shd-37f0) (2026-02-26)
+- [Webhook Security Best Practices for Production 2025-2026](https://dev.to/digital_trubador/webhook-security-best-practices-for-production-2025-2026-384n) (2026-02-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How AI Swarms and Zero-Runtime Frameworks are Reshaping Software Engineering in 2026](https://medium.com/design-bootcamp/how-ai-swarms-and-zero-runtime-frameworks-are-reshaping-software-engineering-in-2026-c861d346890d?source=rss------programming-5) (2026-02-26)
-- [Batch Inserts in SQL for Large Data Loads](https://medium.com/@AlexanderObregon/batch-inserts-in-sql-for-large-data-loads-b2aef69b0d95?source=rss------programming-5) (2026-02-26)
-- [I’m Coding From My Bed Now — And My Team Has No Idea ️](https://medium.com/@jh.baek.sd/im-coding-from-my-bed-now-and-my-team-has-no-idea-%EF%B8%8F-bf9587a017a7?source=rss------programming-5) (2026-02-26)
-- [The SKILL.md Pattern: How to Write AI Agent Skills That Actually Work](https://bibek-poudel.medium.com/the-skill-md-pattern-how-to-write-ai-agent-skills-that-actually-work-72a3169dd7ee?source=rss------programming-5) (2026-02-26)
-- [The Essential Software Engineering Practices Every AI Builder Needs to Know](https://medium.com/ai-builders/the-essential-software-engineering-practices-every-ai-builder-needs-to-know-5de2524e9d14?source=rss------programming-5) (2026-02-26)
+- [5 Powerful F-String Tricks Every Python Developer Should Know!](https://medium.com/the-pythonworld/5-powerful-f-string-tricks-every-python-developer-should-know-432986939069?source=rss------programming-5) (2026-02-26)
+- [I Paid Someone to Explain My Coding Assignment. Here’s What I Actually Learned.](https://medium.com/@wilson79/i-paid-someone-to-explain-my-coding-assignment-heres-what-i-actually-learned-515ac2739fa6?source=rss------programming-5) (2026-02-26)
+- [10 Production-Grade Python Code Styles I Learned from Real-World Experience](https://medium.com/the-pythonworld/10-production-grade-python-code-styles-i-learned-from-real-world-experience-9c6df041de2a?source=rss------programming-5) (2026-02-26)
+- [From Seizures to Syntax: How Rust Became a Lifeline](https://medium.com/rustaceans/from-seizures-to-syntax-how-rust-became-a-lifeline-2b97e87a5b1e?source=rss------programming-5) (2026-02-26)
+- [4 Declarative Ways to remove Array duplicates in JavaScript](https://kurtwanger40.medium.com/4-declarative-ways-to-remove-array-duplicates-in-javascript-78753726ff99?source=rss------programming-5) (2026-02-26)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected](http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog) (2026-02-24)
 - [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
 - [Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873) (2026-02-17)
 - [Azure reliability, resiliency, and recoverability: Build continuity by design](https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/) (2026-02-17)
 - [The data behind the design: How Pantone built agentic AI with an AI-ready database](https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/) (2026-02-12)
-- [Agentic cloud operations: A new way to run the cloud](https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/) (2026-02-11)
 
 </details>
 
@@ -591,7 +591,7 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/track-user-events
 <details>
 <summary>💎 KDnuggets</summary>
 
-- [Cloud vs. Local vs. Hybrid for AI Models: A Practitioner’s Guide (Sponsored)](https://www.kdnuggets.com/cloud-vs-local-vs-hybrid-for-ai-models-a-practitioners-guide-sponsored) (2026-02-24)
+- [Cloud vs. Local vs. Hybrid for AI Models: A Practitioner’s Guide (Sponsored)](https://bit.ly/4qK1Cxo) (2026-02-24)
 - [Grounded PRD Generation with NotebookLM](https://www.kdnuggets.com/grounded-prd-generation-with-notebooklm) (2026-02-24)
 - [5 Python Data Validation Libraries You Should Be Using](https://www.kdnuggets.com/5-python-data-validation-libraries-you-should-be-using) (2026-02-24)
 - [The MCP Revolution and the Search for Stable AI Use Cases](https://www.kdnuggets.com/the-mcp-revolution-and-the-search-for-stable-ai-use-cases) (2026-02-23)
