@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Ultrahuman bets on redesigned smart ring to win back U.S. market after Oura dispute](https://techcrunch.com/2026/02/27/ultrahuman-unveils-new-smart-ring-as-it-awaits-u-s-clearance-after-oura-dispute/) (2026-02-27)
+- [Plaid valued at $8B in employee share sale](https://techcrunch.com/2026/02/26/plaid-valued-at-8b-in-employee-share-sale/) (2026-02-27)
 - [Netflix backs out of bid for Warner Bros. Discovery, giving studios, HBO, and CNN to Ellison-owned Paramount](https://techcrunch.com/2026/02/26/netflix-warner-bros-discovery-paramount-wbd-bid-studios-hbo-cnn-ellison/) (2026-02-26)
 - [Jack Dorsey just halved the size of Block’s employee base — and he says your company is next](https://techcrunch.com/2026/02/26/jack-dorsey-block-layoffs-4000-halved-employees-your-company-is-next/) (2026-02-26)
 - [Anthropic CEO stands firm as Pentagon deadline looms](https://techcrunch.com/2026/02/26/anthropic-ceo-stands-firm-as-pentagon-deadline-looms/) (2026-02-26)
-- [PayPal might not be looking to sell itself: Report](https://techcrunch.com/2026/02/26/paypal-might-not-be-looking-to-sell-itself-report/) (2026-02-26)
-- [Google paid startup Form Energy $1B for its massive 100-hour battery](https://techcrunch.com/2026/02/26/google-paid-startup-form-energy-1b-for-its-massive-100-hour-battery/) (2026-02-26)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Dear Time Lords: Freeze Computers in 1993](https://graydon2.dreamwidth.org/322461.html) (2026-02-27)
-- [The Hunt for Dark Breakfast](https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/) (2026-02-27)
-- [Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration](https://github.com/Frikallo/parakeet.cpp) (2026-02-27)
-- [A Nationwide Book Ban Bill Has Been Introduced in the House of Representatives](https://bookriot.com/hr7661-book-ban-legislation/) (2026-02-27)
-- [Two insider cases we've recently closed](https://news.kalshi.com/p/kalshi-trading-violation-enforcement-cases) (2026-02-27)
+- [US Customs destroys rare floppy disk](https://twitter.com/TehKeripo/status/2027171532825571678) (2026-02-27)
+- [Lawmakers say US Military used laser to take down Border Protection drone in TX](https://apnews.com/article/military-laser-border-drone-texas-airport-55aaab7093f7d6dd174f909f3875001c) (2026-02-27)
+- [MitID, Denmarks sole digital ID, has been down for over an hour and counting](https://www.digitaliser.dk/mitid/nyt-fra-mitid/2026/feb/driftsforstyrrelser-mitid) (2026-02-27)
+- [F-Droid Board of Directors nominations 2026](https://f-droid.org/2026/02/26/board-of-directors-nominations.html) (2026-02-27)
+- [Dyson settles forced labour suit in landmark UK case](https://www.bbc.com/news/articles/cddnry8dnl7o) (2026-02-27)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Ultrahuman’s new flagship smart ring has a 15-day battery](https://www.theverge.com/tech/885866/ultrahuman-ring-pro-jade-ai-launch-price-availability) (2026-02-27)
+- [Notes from a Burmese Prison](https://www.theverge.com/cs/features/820915/notes-burmese-prison-comic) (2026-02-27)
+- [Phones are going to get weird next week](https://www.theverge.com/tech/885287/mwc-2026-what-to-expect-phones-mobile-weird) (2026-02-27)
+- [MWC 2026: all the phones, gadgets, and announcements from Barcelona](https://www.theverge.com/tech/882980/mwc-2026-news-phones-gadgets-announcements) (2026-02-27)
 - [Anthropic refuses Pentagon’s new terms, standing firm on lethal autonomous weapons and mass surveillance](https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei) (2026-02-26)
-- [Netflix walks away from its deal to buy Warner Bros. after Paramount came back with a better offer](https://www.theverge.com/streaming/885753/netflix-exit-warner-bros-discovery-deal-paramount) (2026-02-26)
-- [Microsoft&#8217;s Copilot Tasks AI uses its own computer to get things done](https://www.theverge.com/tech/885741/microsoft-copilot-tasks-ai) (2026-02-26)
-- [Jack Dorsey’s Block cuts nearly half of its staff in AI gamble](https://www.theverge.com/tech/885710/jack-dorsey-block-layoffs-job-cuts-ai) (2026-02-26)
-- [Lenovo leak reveals a foldable gaming handheld that&#8217;s also a Windows laptop](https://www.theverge.com/tech/885656/lenovo-legion-go-fold-concept-leak) (2026-02-26)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Rocket Report: Vulcan "many months" from flying; Falcon 9 extends reuse milestone](https://arstechnica.com/space/2026/02/rocket-report-neutron-launch-date-is-delayed-again-vector-launch-is-back-sort-of/) (2026-02-27)
 - [Neanderthals seemed to have a thing for modern human women](https://arstechnica.com/science/2026/02/genomes-chart-the-history-of-neanderthal-modern-human-interactions/) (2026-02-26)
 - [Perplexity announces "Computer," an AI agent that assigns work to other AI agents](https://arstechnica.com/ai/2026/02/perplexity-announces-computer-an-ai-agent-that-assigns-work-to-other-ai-agents/) (2026-02-26)
 - [xAI spent $7M building wall that barely muffles annoying power plant noise](https://arstechnica.com/tech-policy/2026/02/pops-whines-and-roars-xai-accused-of-torturing-neighbors-of-noisy-power-plant/) (2026-02-26)
 - [The physics of squeaking sneakers](https://arstechnica.com/science/2026/02/the-physics-of-squeaking-sneakers/) (2026-02-26)
-- [Google reveals Nano Banana 2 AI image model, coming to Gemini today](https://arstechnica.com/ai/2026/02/google-releases-nano-banana-2-ai-image-generator-promises-pro-results-with-flash-speed/) (2026-02-26)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [AI is rewiring how the world’s best Go players think](https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/) (2026-02-27)
 - [Finding value with AI and Industry 5.0 transformation](https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/) (2026-02-26)
 - [The Download: how America lost its lead in the hunt for alien life, and ambitious battery claims](https://www.technologyreview.com/2026/02/26/1133734/the-download-how-america-lost-its-lead-in-the-hunt-for-alien-life-and-ambitious-battery-claims/) (2026-02-26)
 - [This company claims a battery breakthrough. Now they need to prove it.](https://www.technologyreview.com/2026/02/26/1133722/solid-state-batteries-donut-lab/) (2026-02-26)
 - [America was winning the race to find Martian life. Then China jumped in.](https://www.technologyreview.com/2026/02/26/1133584/america-china-mars-sample-return-space-race-nasa/) (2026-02-26)
-- [Roundtables: Why 2026 Is the Year for Sodium-Ion Batteries](https://www.technologyreview.com/2026/02/25/1132873/roundtables-why-2026-is-the-year-for-sodium-ion-batteries/) (2026-02-25)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Mad Skills: what really differentiates those who build the impossible](https://dev.to/fullagenticstack/mad-skills-what-really-differentiates-those-who-build-the-impossible-a2f) (2026-02-27)
-- [The Three Stages of AI-Assisted Coding — And What Comes Next](https://dev.to/trade_off_d014391a85173ce/the-three-stages-of-ai-assisted-coding-what-next-4c2g) (2026-02-27)
-- [Monomorphization in Rust — How Generics Become Fast, Concrete Code](https://dev.to/mdshakilhossainnsu2018/monomorphization-in-rust-how-generics-become-fast-concrete-code-9c1) (2026-02-27)
-- [Why Benchmarks Lie in Machine Learning](https://dev.to/siddhartha_reddy/why-benchmarks-lie-in-machine-learning-3jmn) (2026-02-27)
-- [I built an AI tool that turned my phone selfie into a LinkedIn headshot — here's what I learned](https://dev.to/jbventures/i-built-an-ai-tool-that-turned-my-phone-selfie-into-a-linkedin-headshot-heres-what-i-learned-3fgk) (2026-02-27)
+- [Deploying Scalable Virtual Machines on AWS Using Amazon EC2: A Beginner’s Guide.](https://dev.to/ifeoma_nwafor/deploying-scalable-virtual-machines-on-aws-using-amazon-ec2-a-beginners-guide-3jic) (2026-02-27)
+- [Behavioral commerce prompting: the conversion layer hiding in your MCP tool responses](https://dev.to/zologic/behavioral-commerce-prompting-the-conversion-layer-hiding-in-your-mcp-tool-responses-2cpa) (2026-02-27)
+- [Building Security-First Architecture from Day One.](https://dev.to/contextfirstai/building-security-first-architecture-from-day-one-53o1) (2026-02-27)
+- [Stop Coding in Silence - 225 Iconic Sounds from Batman, Matrix, Warcraft & 25 More Games](https://dev.to/ntty/stop-coding-in-silence-225-iconic-sounds-from-batman-matrix-warcraft-25-more-games-22gd) (2026-02-27)
+- [json-canon: A Strict RFC 8785 Implementation in Go for Deterministic JSON](https://dev.to/lenny321/json-canon-a-strict-rfc-8785-implementation-in-go-for-deterministic-json-3mfg) (2026-02-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Start Your Tech Journey: Why Python is the Ultimate Entry Point](https://medium.com/@seo.marketing_14055/start-your-tech-journey-why-python-is-the-ultimate-entry-point-290a08fa2ba6?source=rss------programming-5) (2026-02-27)
-- [Why Most JavaScript Microservices Fail (And How I Build Ones That Don’t).](https://medium.com/activated-thinker/why-most-javascript-microservices-fail-and-how-i-build-ones-that-dont-655bf9f5b97a?source=rss------programming-5) (2026-02-27)
-- [The Future of Cybersecurity Is Not Human vs Hacker. It Is AI vs AI.](https://medium.com/write-a-catalyst/the-future-of-cybersecurity-is-not-human-vs-hacker-it-is-ai-vs-ai-a66517521c9c?source=rss------programming-5) (2026-02-27)
-- [Did AI Ruin Coding or DevOps? Spoiler: No. But Let’s Talk About It.](https://medium.com/write-a-catalyst/did-ai-ruin-coding-or-devops-spoiler-no-but-lets-talk-about-it-9f44397ac092?source=rss------programming-5) (2026-02-27)
-- [Mahabharat aur Future Science: Myth ya Misunderstood Knowledge?](https://medium.com/@Sanatan_life/mahabharat-aur-future-science-myth-ya-misunderstood-knowledge-ae2a99d6cf1a?source=rss------programming-5) (2026-02-27)
+- [How to determine if the given number is power of 2 or not?](https://medium.com/@katukojwalamaniharanchary/how-to-determine-if-the-given-number-is-power-of-2-or-not-53f6f8f6c347?source=rss------programming-5) (2026-02-27)
+- [JavaScript Promises & Async-Await — Practice Summary](https://medium.com/@gursimran12003/javascript-promises-async-await-practice-summary-d2c02f1522ab?source=rss------programming-5) (2026-02-27)
+- [ Oracle Lock & Blocking Troubleshooting — Production-Grade DBA Guide](https://medium.com/@pranavsb699/oracle-lock-blocking-troubleshooting-production-grade-dba-guide-121c47614847?source=rss------programming-5) (2026-02-27)
+- [The $0 Startup: 13 Tools to Build a Global Business from Your Bedroom](https://medium.com/@kishan.kumar792/the-0-startup-13-tools-to-build-a-global-business-from-your-bedroom-c73e6660192a?source=rss------programming-5) (2026-02-27)
+- [Understanding Concurrency in Go- Part 7](https://levelup.gitconnected.com/understanding-concurrency-in-go-part-7-a4b7e49397c7?source=rss------programming-5) (2026-02-27)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected](http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog) (2026-02-24)
 - [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
 - [Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873) (2026-02-17)
 - [Azure reliability, resiliency, and recoverability: Build continuity by design](https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/) (2026-02-17)
 - [The data behind the design: How Pantone built agentic AI with an AI-ready database](https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/) (2026-02-12)
-- [Agentic cloud operations: A new way to run the cloud](https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/) (2026-02-11)
 
 </details>
 
@@ -504,11 +504,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/track-user-events
 <details>
 <summary>💬 Slack API</summary>
 
+- [The Best Slackbot Prompts for Customer Service Teams](https://slack.com/blog/productivity/slackbot-for-customer-service) (2026-02-26)
 - [Five Essential Communication Channels in the Workplace](https://slack.com/blog/collaboration/communication-channels) (2026-02-23)
 - [Slack Securely Powers Your Third-Party Agents With Your Business Context](https://slack.com/blog/news/mcp-real-time-search-api-now-available) (2026-02-17)
 - [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-02-13)
 - [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-02-13)
-- [How to Stay Organized at Work: Tips, Tricks, and Tools](https://slack.com/blog/productivity/how-to-stay-organized-at-work) (2026-02-13)
 
 </details>
 
@@ -559,22 +559,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/track-user-events
 <details>
 <summary>🤖 AI News</summary>
 
+- [Poor implementation of AI may be behind workforce reduction](https://www.artificialintelligence-news.com/news/ai-workflows-need-human-in-the-loop-say-datatonic/) (2026-02-27)
+- [Goldman Sachs and Deutsche Bank test agentic AI for trade surveillance](https://www.artificialintelligence-news.com/news/goldman-sachs-and-deutsche-bank-test-agentic-ai-for-trade-surveillance/) (2026-02-27)
 - [ASML’s high-NA EUV tools clear the runway for next-gen AI chips](https://www.artificialintelligence-news.com/news/asml-high-na-euv-production-ready-ai-chips/) (2026-02-27)
 - [Nokia and AWS pilot AI automation for real-time 5G network slicing](https://www.artificialintelligence-news.com/news/nokia-and-aws-pilot-ai-automation-for-real-time-5g-network-slicing/) (2026-02-25)
 - [Anthropic: Claude faces ‘industrial-scale’ AI model distillation](https://www.artificialintelligence-news.com/news/anthropic-claude-faces-industrial-scale-ai-model-distillation/) (2026-02-24)
-- [How disconnected clouds improve AI data governance](https://www.artificialintelligence-news.com/news/how-disconnected-clouds-improve-ai-data-governance/) (2026-02-24)
-- [Deploying agentic finance AI for immediate business ROI](https://www.artificialintelligence-news.com/news/deploying-agentic-finance-ai-for-immediate-business-roi/) (2026-02-24)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Gap Between Junior and Senior Data Scientists Isn’t Code](https://towardsdatascience.com/the-gap-between-junior-and-senior-data-scientists-isnt-code/) (2026-02-27)
 - [Designing Data and AI Systems That Hold Up in Production](https://towardsdatascience.com/designing-data-and-ai-systems-that-hold-up-in-production/) (2026-02-26)
 - [A Generalizable MARL-LP Approach for Scheduling in Logistics](https://towardsdatascience.com/generalizable-marl-lp-approach-for-scheduling-in-logistics/) (2026-02-26)
 - [Detecting and Editing Visual Objects with Gemini](https://towardsdatascience.com/detecting-and-editing-visual-objects-with-gemini/) (2026-02-26)
 - [Take a Deep Dive into Filtering in DAX](https://towardsdatascience.com/take-a-deep-dive-into-filtering-in-dax/) (2026-02-26)
-- [Scaling Feature Engineering Pipelines with Feast and Ray](https://towardsdatascience.com/scaling-feature-engineering-pipelines-with-feast-and-ray/) (2026-02-25)
 
 </details>
 
