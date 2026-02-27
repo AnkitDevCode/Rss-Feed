@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Threads is testing a shortcut to quickly start DM conversations](https://techcrunch.com/2026/02/26/threads-is-testing-a-shortcut-to-quickly-start-dm-conversations/) (2026-02-26)
-- [Read AI launches an email-based ‘digital twin’ to help you with schedules and answers](https://techcrunch.com/2026/02/26/read-ai-launches-an-email-based-digital-twin-to-help-you-with-schedules-and-answers/) (2026-02-26)
-- [Bumble adds AI-powered photo feedback and profile guidance tools](https://techcrunch.com/2026/02/26/bumble-adds-ai-powered-photo-feedback-and-profile-guidance-tools/) (2026-02-26)
-- [Walmart agrees to $100M settlement over deceptive pay practices in Spark Driver program](https://techcrunch.com/2026/02/26/walmart-agrees-to-100m-settlement-over-deceptive-pay-practices-in-spark-driver-program/) (2026-02-26)
-- [Self-driving truck startup Einride raises $113M PIPE ahead of public debut](https://techcrunch.com/2026/02/26/self-driving-truck-startup-einride-raises-113m-pipe-ahead-of-public-debut/) (2026-02-26)
+- [Netflix backs out of bid for Warner Bros. Discovery, giving studios, HBO, and CNN to Ellison-owned Paramount](https://techcrunch.com/2026/02/26/netflix-warner-bros-discovery-paramount-wbd-bid-studios-hbo-cnn-ellison/) (2026-02-26)
+- [Jack Dorsey just halved the size of Block’s employee base — and he says your company is next](https://techcrunch.com/2026/02/26/jack-dorsey-block-layoffs-4000-halved-employees-your-company-is-next/) (2026-02-26)
+- [Anthropic CEO stands firm as Pentagon deadline looms](https://techcrunch.com/2026/02/26/anthropic-ceo-stands-firm-as-pentagon-deadline-looms/) (2026-02-26)
+- [PayPal might not be looking to sell itself: Report](https://techcrunch.com/2026/02/26/paypal-might-not-be-looking-to-sell-itself-report/) (2026-02-26)
+- [Google paid startup Form Energy $1B for its massive 100-hour battery](https://techcrunch.com/2026/02/26/google-paid-startup-form-energy-1b-for-its-massive-100-hour-battery/) (2026-02-26)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [He saw an abandoned trailer. Then, uncovered a surveillance network](https://calmatters.org/justice/2026/02/alpr-border-patrol-caltrans/) (2026-02-26)
-- [iPhone and iPad approved to handle classified NATO information](https://www.apple.com/newsroom/2026/02/iphone-and-ipad-approved-to-handle-classified-nato-information/) (2026-02-26)
-- [Twitch: "Hey, come back! This commercial break can't play while you're away."](https://twitter.com/KryDotExe/status/2026806591517856208) (2026-02-26)
-- [Show HN: Deff – side-by-side Git diff review in your terminal](https://github.com/flamestro/deff) (2026-02-26)
-- [Google Street View in 2026](https://tech.marksblogg.com/google-street-view-coverage.html) (2026-02-26)
+- [LiteLLM (YC W23): Founding Reliability Engineer – $200K-$270K and 0.5-1.0% equity](https://www.ycombinator.com/companies/litellm/jobs/unlCynJ-founding-reliability-performance-engineer) (2026-02-27)
+- [Palantir's AI Is Playing a Major Role in Tracking Gaza Aid Deliveries](https://www.dropsitenews.com/p/palantir-ai-gaza-humanitarian-aid-cmcc-srs-ngos-banned-israel) (2026-02-27)
+- [Statement from Dario Amodei on Our Discussions with the Department of War](https://www.anthropic.com/news/statement-department-of-war) (2026-02-26)
+- [Hydroph0bia – fixed SecureBoot bypass for UEFI firmware from Insyde H2O (2025)](https://coderush.me/hydroph0bia-part3/) (2026-02-26)
+- [Smartphone Mkt to Decline 13% in '26, Largest Drop Ever Due to Memory Shortage](https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/) (2026-02-26)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Razer’s new laptop sleeve wirelessly charges other devices](https://www.theverge.com/tech/885381/razer-laptop-sleeve-16-inch-wireless-charger-qi-power) (2026-02-26)
-- [Cricut’s most popular cutting machine now takes up less space in your crafting room](https://www.theverge.com/tech/883743/cricut-cutting-machine-explore-5-joy-2-drawing-writing-crafting) (2026-02-26)
-- [Your smart TV may be crawling the web for AI](https://www.theverge.com/column/885244/smart-tv-web-crawler-ai) (2026-02-26)
-- [8BitDo’s customizable Pro 3 controller is $30 off for the first time](https://www.theverge.com/gadgets/885192/8bitdo-pro-3-controller-switch-2-pc-galaxy-buds-4-pro-deal-sale) (2026-02-26)
-- [HBO Max&#8217;s password-sharing crackdown is going global](https://www.theverge.com/streaming/885303/hbo-max-password-sharing-global-expansion-q4-2025) (2026-02-26)
+- [Anthropic refuses Pentagon’s new terms, standing firm on lethal autonomous weapons and mass surveillance](https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei) (2026-02-26)
+- [Netflix walks away from its deal to buy Warner Bros. after Paramount came back with a better offer](https://www.theverge.com/streaming/885753/netflix-exit-warner-bros-discovery-deal-paramount) (2026-02-26)
+- [Microsoft&#8217;s Copilot Tasks AI uses its own computer to get things done](https://www.theverge.com/tech/885741/microsoft-copilot-tasks-ai) (2026-02-26)
+- [Jack Dorsey’s Block cuts nearly half of its staff in AI gamble](https://www.theverge.com/tech/885710/jack-dorsey-block-layoffs-job-cuts-ai) (2026-02-26)
+- [Lenovo leak reveals a foldable gaming handheld that&#8217;s also a Windows laptop](https://www.theverge.com/tech/885656/lenovo-legion-go-fold-concept-leak) (2026-02-26)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Ford is recalling 4.3 million trucks and SUVs to fix a towing software bug](https://arstechnica.com/cars/2026/02/ford-is-recalling-4-3-million-trucks-and-suvs-to-fix-a-towing-software-bug/) (2026-02-26)
-- [New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises](https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/) (2026-02-26)
-- [New York sues Valve for enabling "illegal gambling" with loot boxes](https://arstechnica.com/gaming/2026/02/new-york-sues-valve-for-enabling-illegal-gambling-with-loot-boxes/) (2026-02-26)
-- [A non-public document reveals that science may not be prioritized on next Mars mission](https://arstechnica.com/space/2026/02/a-non-public-document-reveals-that-science-may-not-be-prioritized-on-next-mars-mission/) (2026-02-26)
-- [15 state attorneys general sue RFK Jr. over "anti-science" vaccine policy](https://arstechnica.com/health/2026/02/15-state-attorneys-general-sue-rfk-jr-over-anti-science-vaccine-policy/) (2026-02-26)
+- [Neanderthals seemed to have a thing for modern human women](https://arstechnica.com/science/2026/02/genomes-chart-the-history-of-neanderthal-modern-human-interactions/) (2026-02-26)
+- [Perplexity announces "Computer," an AI agent that assigns work to other AI agents](https://arstechnica.com/ai/2026/02/perplexity-announces-computer-an-ai-agent-that-assigns-work-to-other-ai-agents/) (2026-02-26)
+- [xAI spent $7M building wall that barely muffles annoying power plant noise](https://arstechnica.com/tech-policy/2026/02/pops-whines-and-roars-xai-accused-of-torturing-neighbors-of-noisy-power-plant/) (2026-02-26)
+- [The physics of squeaking sneakers](https://arstechnica.com/science/2026/02/the-physics-of-squeaking-sneakers/) (2026-02-26)
+- [Google reveals Nano Banana 2 AI image model, coming to Gemini today](https://arstechnica.com/ai/2026/02/google-releases-nano-banana-2-ai-image-generator-promises-pro-results-with-flash-speed/) (2026-02-26)
 
 </details>
 
@@ -75,11 +75,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [What’s new with GitHub Copilot coding agent](https://github.blog/ai-and-ml/github-copilot/whats-new-with-github-copilot-coding-agent/) (2026-02-26)
 - [Multi-agent workflows often fail. Here’s how to engineer ones that don’t.](https://github.blog/ai-and-ml/generative-ai/multi-agent-workflows-often-fail-heres-how-to-engineer-ones-that-dont/) (2026-02-24)
 - [How AI is reshaping developer choice (and Octoverse data proves it)](https://github.blog/ai-and-ml/generative-ai/how-ai-is-reshaping-developer-choice-and-octoverse-data-proves-it/) (2026-02-19)
 - [What to expect for open source in 2026](https://github.blog/open-source/maintainers/what-to-expect-for-open-source-in-2026/) (2026-02-18)
 - [Securing the AI software supply chain: Security results across 67 open source projects](https://github.blog/open-source/maintainers/securing-the-ai-software-supply-chain-security-results-across-67-open-source-projects/) (2026-02-17)
-- [Automate repository tasks with GitHub Agentic Workflows  ](https://github.blog/ai-and-ml/automate-repository-tasks-with-github-agentic-workflows/) (2026-02-13)
 
 </details>
 
@@ -97,55 +97,55 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Indian Language TTS for Your AI Agent: Integrating Sarvam.AI Bulbul v3 with OpenClaw](https://dev.to/agent_paaru/indian-language-tts-for-your-ai-agent-integrating-sarvamai-bulbul-v3-with-openclaw-1fdg) (2026-02-26)
-- [JavaScript Arrays: A Beginner’s Guide with Examples](https://dev.to/jaya_sudha_96fce1e511efee/javascript-arrays-a-beginners-guide-with-examples-3p04) (2026-02-26)
-- [🚀 Breaking the Speed of Light: Secp256k1 Optimization in 12 Days](https://dev.to/vano_chkheidze_5071c537e2/breaking-the-speed-of-light-secp256k1-optimization-in-12-days-57nn) (2026-02-26)
-- [Tired of Scrolling Artisan? Meet php artisan list --mine](https://dev.to/charlie_waddell01/tired-of-scrolling-artisan-meet-php-artisan-list-mine-nkl) (2026-02-26)
-- [Build Your Own AI Ops Assistant — Part 5: The Knowledge Loop](https://dev.to/stephengoldberg/build-your-own-ai-ops-assistant-part-5-the-knowledge-loop-1bbp) (2026-02-26)
+- [💡 Beginner-Friendly Guide 'Minimum Operations to Equalize Binary String' - Problem 3666 (C++, Python, JavaScript)](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-operations-to-equalize-binary-string-problem-3666-c-3871) (2026-02-27)
+- [JSON to TypeScript Interface: Complete Guide with Zod and Type Guards](https://dev.to/arenasbob2024cell/json-to-typescript-interface-complete-guide-with-zod-and-type-guards-n0j) (2026-02-27)
+- [JSON to Rust Struct: Complete Guide with serde_json and serde Derive](https://dev.to/arenasbob2024cell/json-to-rust-struct-complete-guide-with-serdejson-and-serde-derive-1ogg) (2026-02-27)
+- [Aeternum C2: The Botnet That Lives on the Polygon Blockchain](https://dev.to/deepseax/aeternum-c2-the-botnet-that-lives-on-the-polygon-blockchain-c3g) (2026-02-27)
+- [Tutorial – Formatar Pendrive em exFAT (Fedora KDE)](https://dev.to/brayanmonteiroo/tutorial-formatar-pendrive-em-exfat-fedora-kde-55fi) (2026-02-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [These 8 C++ Libraries Quietly Eliminated Entire Classes of Bugs](https://medium.com/codetodeploy/these-8-c-libraries-quietly-eliminated-entire-classes-of-bugs-bef7b3551be8?source=rss------programming-5) (2026-02-26)
-- [I will design logo for your brand or business](https://graphicdesignstudio.medium.com/i-will-design-logo-for-your-brand-or-business-745d83811f7d?source=rss------programming-5) (2026-02-26)
-- [How to Convert Windows Server 2012 GUI to Server Core](https://medium.com/@tarun772/how-to-convert-windows-server-2012-gui-to-server-core-8b1cd0b5312f?source=rss------programming-5) (2026-02-26)
-- [I will do professional logo design and brand identity](https://graphicdesignstudio.medium.com/i-will-do-professional-logo-design-and-brand-identity-8838a419f486?source=rss------programming-5) (2026-02-26)
-- [From Junior to Senior: 7 Design Patterns That Transformed My Career](https://medium.com/@ayseadagci/from-junior-to-senior-7-design-patterns-that-transformed-my-career-3cd86981d299?source=rss------programming-5) (2026-02-26)
+- [OpenAI Codex for .NET: The Workflow That Stops “AI Refactors” From Wrecking Your Architecture](https://blog.stackademic.com/openai-codex-for-net-the-workflow-that-stops-ai-refactors-from-wrecking-your-architecture-a6d16b219927?source=rss------programming-5) (2026-02-27)
+- [The Beginner’s Guide to .env Files & Security Management](https://mrahmedbouchefra.medium.com/the-beginners-guide-to-env-files-security-management-898a8e5e666a?source=rss------programming-5) (2026-02-27)
+- [I Deleted And Rewrote My Amazon Slack Messages 5 Times Before Sending.](https://code.likeagirl.io/i-deleted-and-rewrote-my-amazon-slack-messages-5-times-before-sending-42f58739c5bb?source=rss------programming-5) (2026-02-27)
+- [Rust vs Go: Cloud-Native’s Real Heavyweights  — My Take](https://medium.com/@puneetpm/rust-vs-go-cloud-natives-real-heavyweights-my-take-d16b00f31cbd?source=rss------programming-5) (2026-02-27)
+- [JavaScript Was Designed for Humans. What If We Built a Language for AI?](https://medium.com/@mehmeteminakdeniz/javascript-was-designed-for-humans-what-if-we-built-a-language-for-ai-ab5747a0788f?source=rss------programming-5) (2026-02-27)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [AWS Security Hub Extended offers full-stack enterprise security with curated partner solutions](https://aws.amazon.com/blogs/aws/aws-security-hub-extended-offers-full-stack-enterprise-security-with-curated-partner-solutions/) (2026-02-26)
 - [Transform live video for mobile audiences with AWS Elemental Inference](https://aws.amazon.com/blogs/aws/transform-live-video-for-mobile-audiences-with-aws-elemental-inference/) (2026-02-24)
 - [AWS Weekly Roundup: Claude Sonnet 4.6 in Amazon Bedrock, Kiro in GovCloud Regions, new Agent Plugins, and more (February 23, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-4-6-in-amazon-bedrock-kiro-in-govcloud-regions-new-agent-plugins-and-more-february-23-2026/) (2026-02-23)
 - [Amazon EC2 Hpc8a Instances powered by 5th Gen AMD EPYC processors are now available](https://aws.amazon.com/blogs/aws/amazon-ec2-hpc8a-instances-powered-by-5th-gen-amd-epyc-processors-are-now-available/) (2026-02-16)
 - [Announcing Amazon SageMaker Inference for custom Amazon Nova models](https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-inference-for-custom-amazon-nova-models/) (2026-02-16)
-- [AWS Weekly Roundup: Amazon EC2 M8azn instances, new open weights models in Amazon Bedrock, and more (February 16, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-m8azn-instances-new-open-weights-models-in-amazon-bedrock-and-more-february-16-2026/) (2026-02-16)
 
 </details>
 
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected](http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog) (2026-02-24)
 - [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
 - [Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873) (2026-02-17)
 - [Azure reliability, resiliency, and recoverability: Build continuity by design](https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/) (2026-02-17)
 - [The data behind the design: How Pantone built agentic AI with an AI-ready database](https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/) (2026-02-12)
-- [Agentic cloud operations: A new way to run the cloud](https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/) (2026-02-11)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Now Live: The World’s Most Powerful AI Factory for Pharmaceutical Discovery and Development](https://blogs.nvidia.com/blog/lilly-ai-factory-live/) (2026-02-26)
 - [Horror Awakens in the Cloud: GeForce NOW Unleashes Capcom’s ‘Resident Evil Requiem’](https://blogs.nvidia.com/blog/geforce-now-thursday-resident-evil-requiem/) (2026-02-26)
 - [From Radiology to Drug Discovery, Survey Reveals AI Is Delivering Clear Return on Investment in Healthcare](https://blogs.nvidia.com/blog/ai-in-healthcare-survey-2026/) (2026-02-24)
 - [NVIDIA Brings AI-Powered Cybersecurity to World’s Critical Infrastructure](https://blogs.nvidia.com/blog/ai-cybersecurity-operational-technology-industrial-control-systems/) (2026-02-23)
 - [Survey Reveals AI Advances in Telecom: Networks and Automation in Driver’s Seat as Return on Investment Climbs](https://blogs.nvidia.com/blog/ai-in-telco-survey-2026/) (2026-02-19)
-- [All About the Games: Play Over 4,500 Titles With GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-battlefield-season-2/) (2026-02-19)
 
 </details>
 
@@ -163,11 +163,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [The Second Beta of Android 17](https://android-developers.googleblog.com/2026/02/the-second-beta-of-android-17.html) (2026-02-26)
 - [The Intelligent OS: Making AI agents more helpful for Android apps](https://android-developers.googleblog.com/2026/02/the-intelligent-os-making-ai-agents.html) (2026-02-25)
 - [Get ready for Google I/O May 19-20](https://android-developers.googleblog.com/2026/02/get-ready-for-google-io-may-19-20.html) (2026-02-17)
 - [Under the hood: Android 17’s lock-free MessageQueue](https://android-developers.googleblog.com/2026/02/under-hood-android-17s-lock-free.html) (2026-02-17)
 - [Prepare your app for the resizability and orientation changes in Android 17](https://android-developers.googleblog.com/2026/02/prepare-your-app-for-resizability-and.html) (2026-02-13)
-- [The First Beta of Android 17](https://android-developers.googleblog.com/2026/02/the-first-beta-of-android-17.html) (2026-02-13)
 
 </details>
 
@@ -460,11 +460,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/track-user-events
 <details>
 <summary>🚀 Apollo GraphQL</summary>
 
+- [Connect AI Agents to Your GraphQL API Using MCP and Type-Safe Tool Configuration](https://www.apollographql.com/blog/connect-ai-agents-to-your-graphql-api-using-mcp-and-type-safe-tool-configuration) (2026-02-26)
 - [Deep Dive: Telemetry cardinality in the Apollo GraphOS Router](https://www.apollographql.com/blog/telemetry-cardinality-in-the-apollo-graphos-router) (2026-02-10)
 - [Apollo Skills: Teaching AI Agents How to Use Apollo and GraphQL](https://www.apollographql.com/blog/apollo-skills-teaching-ai-agents-how-to-use-apollo-and-graphql) (2026-02-03)
 - [@stream all the things with Apollo Client 4.1](https://www.apollographql.com/blog/stream-all-the-things-with-apollo-client-4-1) (2026-01-21)
 - [Introducing Response Caching: GraphQL‑aware performance for your graph ](https://www.apollographql.com/blog/introducing-response-caching) (2026-01-15)
-- [Securing Apollo Federation Subgraphs: Context and Best Practices](https://www.apollographql.com/blog/securing-apollo-federation-subgraphs-context-and-best-practices) (2026-01-14)
 
 </details>
 
@@ -504,11 +504,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/track-user-events
 <details>
 <summary>💬 Slack API</summary>
 
+- [Five Essential Communication Channels in the Workplace](https://slack.com/blog/collaboration/communication-channels) (2026-02-23)
 - [Slack Securely Powers Your Third-Party Agents With Your Business Context](https://slack.com/blog/news/mcp-real-time-search-api-now-available) (2026-02-17)
 - [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-02-13)
 - [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-02-13)
 - [How to Stay Organized at Work: Tips, Tricks, and Tools](https://slack.com/blog/productivity/how-to-stay-organized-at-work) (2026-02-13)
-- [Why We’ve Built the Future of CRM in Slack](https://slack.com/blog/transformation/ai-powered-conversational-crm) (2026-02-12)
 
 </details>
 
@@ -581,11 +581,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/track-user-events
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Nano Banana 2: Google’s latest AI image generation model](https://www.analyticsvidhya.com/blog/2026/02/nano-banana-2/) (2026-02-27)
 - [Excel 101: Complete Guide to VLOOKUP Function](https://www.analyticsvidhya.com/blog/2026/02/guide-to-vlookup-function/) (2026-02-26)
 - [Top 7 Free Prompt Engineering Courses with Certificates](https://www.analyticsvidhya.com/blog/2026/02/free-prompt-engineering-courses-with-certificate/) (2026-02-26)
 - [OpenClaw Hosting: Mac Mini vs Cloud VPS](https://www.analyticsvidhya.com/blog/2026/02/openclaw-hosting-mac-mini-vs-cloud-vps/) (2026-02-25)
 - [What is Seedance 2.0? [Features, Architecture, and More]](https://www.analyticsvidhya.com/blog/2026/02/what-is-seedance-2-0/) (2026-02-25)
-- [Lag Features and Rolling Features in Feature Engineering](https://www.analyticsvidhya.com/blog/2026/02/lag-and-rolling-features/) (2026-02-24)
 
 </details>
 
