@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [LiteLLM (YC W23): Founding Reliability Engineer – $200K-$270K and 0.5-1.0% equity](https://www.ycombinator.com/companies/litellm/jobs/unlCynJ-founding-reliability-performance-engineer) (2026-02-27)
-- [Palantir's AI Is Playing a Major Role in Tracking Gaza Aid Deliveries](https://www.dropsitenews.com/p/palantir-ai-gaza-humanitarian-aid-cmcc-srs-ngos-banned-israel) (2026-02-27)
-- [Statement from Dario Amodei on Our Discussions with the Department of War](https://www.anthropic.com/news/statement-department-of-war) (2026-02-26)
-- [Hydroph0bia – fixed SecureBoot bypass for UEFI firmware from Insyde H2O (2025)](https://coderush.me/hydroph0bia-part3/) (2026-02-26)
-- [Smartphone Mkt to Decline 13% in '26, Largest Drop Ever Due to Memory Shortage](https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/) (2026-02-26)
+- [Dear Time Lords: Freeze Computers in 1993](https://graydon2.dreamwidth.org/322461.html) (2026-02-27)
+- [The Hunt for Dark Breakfast](https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/) (2026-02-27)
+- [Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration](https://github.com/Frikallo/parakeet.cpp) (2026-02-27)
+- [A Nationwide Book Ban Bill Has Been Introduced in the House of Representatives](https://bookriot.com/hr7661-book-ban-legislation/) (2026-02-27)
+- [Two insider cases we've recently closed](https://news.kalshi.com/p/kalshi-trading-violation-enforcement-cases) (2026-02-27)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [To live in an AI world, knowing is half the battle](https://stackoverflow.blog/2026/02/27/to-live-in-an-ai-world-knowing-is-half-the-battle/) (2026-02-27)
 - [Beyond block or allow: How pay-per-crawl is reshaping public data monetization](https://stackoverflow.blog/2026/02/26/how-pay-per-crawl-is-reshaping-data-monetization/) (2026-02-26)
 - [Your sneak peek at the redesigned Stack Overflow](https://stackoverflow.blog/2026/02/25/your-sneak-peek-at-the-redesigned-stack-overflow/) (2026-02-25)
 - [Dogfood so nutritious it’s building the future of SDLCs](https://stackoverflow.blog/2026/02/24/dogfood-so-nutritious-it-s-building-the-future-of-sdlcs/) (2026-02-24)
 - [Defense against uploads: Q&A with OSS file scanner, pompelmi](https://stackoverflow.blog/2026/02/23/defense-against-uploads-oss-file-scanner-pompelmi/) (2026-02-23)
-- [Even GenAI uses Wikipedia as a source](https://stackoverflow.blog/2026/02/20/even-genai-uses-wikipedia-as-a-source/) (2026-02-20)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [💡 Beginner-Friendly Guide 'Minimum Operations to Equalize Binary String' - Problem 3666 (C++, Python, JavaScript)](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-operations-to-equalize-binary-string-problem-3666-c-3871) (2026-02-27)
-- [JSON to TypeScript Interface: Complete Guide with Zod and Type Guards](https://dev.to/arenasbob2024cell/json-to-typescript-interface-complete-guide-with-zod-and-type-guards-n0j) (2026-02-27)
-- [JSON to Rust Struct: Complete Guide with serde_json and serde Derive](https://dev.to/arenasbob2024cell/json-to-rust-struct-complete-guide-with-serdejson-and-serde-derive-1ogg) (2026-02-27)
-- [Aeternum C2: The Botnet That Lives on the Polygon Blockchain](https://dev.to/deepseax/aeternum-c2-the-botnet-that-lives-on-the-polygon-blockchain-c3g) (2026-02-27)
-- [Tutorial – Formatar Pendrive em exFAT (Fedora KDE)](https://dev.to/brayanmonteiroo/tutorial-formatar-pendrive-em-exfat-fedora-kde-55fi) (2026-02-27)
+- [Mad Skills: what really differentiates those who build the impossible](https://dev.to/fullagenticstack/mad-skills-what-really-differentiates-those-who-build-the-impossible-a2f) (2026-02-27)
+- [The Three Stages of AI-Assisted Coding — And What Comes Next](https://dev.to/trade_off_d014391a85173ce/the-three-stages-of-ai-assisted-coding-what-next-4c2g) (2026-02-27)
+- [Monomorphization in Rust — How Generics Become Fast, Concrete Code](https://dev.to/mdshakilhossainnsu2018/monomorphization-in-rust-how-generics-become-fast-concrete-code-9c1) (2026-02-27)
+- [Why Benchmarks Lie in Machine Learning](https://dev.to/siddhartha_reddy/why-benchmarks-lie-in-machine-learning-3jmn) (2026-02-27)
+- [I built an AI tool that turned my phone selfie into a LinkedIn headshot — here's what I learned](https://dev.to/jbventures/i-built-an-ai-tool-that-turned-my-phone-selfie-into-a-linkedin-headshot-heres-what-i-learned-3fgk) (2026-02-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [OpenAI Codex for .NET: The Workflow That Stops “AI Refactors” From Wrecking Your Architecture](https://blog.stackademic.com/openai-codex-for-net-the-workflow-that-stops-ai-refactors-from-wrecking-your-architecture-a6d16b219927?source=rss------programming-5) (2026-02-27)
-- [The Beginner’s Guide to .env Files & Security Management](https://mrahmedbouchefra.medium.com/the-beginners-guide-to-env-files-security-management-898a8e5e666a?source=rss------programming-5) (2026-02-27)
-- [I Deleted And Rewrote My Amazon Slack Messages 5 Times Before Sending.](https://code.likeagirl.io/i-deleted-and-rewrote-my-amazon-slack-messages-5-times-before-sending-42f58739c5bb?source=rss------programming-5) (2026-02-27)
-- [Rust vs Go: Cloud-Native’s Real Heavyweights  — My Take](https://medium.com/@puneetpm/rust-vs-go-cloud-natives-real-heavyweights-my-take-d16b00f31cbd?source=rss------programming-5) (2026-02-27)
-- [JavaScript Was Designed for Humans. What If We Built a Language for AI?](https://medium.com/@mehmeteminakdeniz/javascript-was-designed-for-humans-what-if-we-built-a-language-for-ai-ab5747a0788f?source=rss------programming-5) (2026-02-27)
+- [Start Your Tech Journey: Why Python is the Ultimate Entry Point](https://medium.com/@seo.marketing_14055/start-your-tech-journey-why-python-is-the-ultimate-entry-point-290a08fa2ba6?source=rss------programming-5) (2026-02-27)
+- [Why Most JavaScript Microservices Fail (And How I Build Ones That Don’t).](https://medium.com/activated-thinker/why-most-javascript-microservices-fail-and-how-i-build-ones-that-dont-655bf9f5b97a?source=rss------programming-5) (2026-02-27)
+- [The Future of Cybersecurity Is Not Human vs Hacker. It Is AI vs AI.](https://medium.com/write-a-catalyst/the-future-of-cybersecurity-is-not-human-vs-hacker-it-is-ai-vs-ai-a66517521c9c?source=rss------programming-5) (2026-02-27)
+- [Did AI Ruin Coding or DevOps? Spoiler: No. But Let’s Talk About It.](https://medium.com/write-a-catalyst/did-ai-ruin-coding-or-devops-spoiler-no-but-lets-talk-about-it-9f44397ac092?source=rss------programming-5) (2026-02-27)
+- [Mahabharat aur Future Science: Myth ya Misunderstood Knowledge?](https://medium.com/@Sanatan_life/mahabharat-aur-future-science-myth-ya-misunderstood-knowledge-ae2a99d6cf1a?source=rss------programming-5) (2026-02-27)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected](http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog) (2026-02-24)
 - [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
 - [Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873) (2026-02-17)
 - [Azure reliability, resiliency, and recoverability: Build continuity by design](https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/) (2026-02-17)
 - [The data behind the design: How Pantone built agentic AI with an AI-ready database](https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/) (2026-02-12)
+- [Agentic cloud operations: A new way to run the cloud](https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/) (2026-02-11)
 
 </details>
 
@@ -559,11 +559,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/track-user-events
 <details>
 <summary>🤖 AI News</summary>
 
+- [ASML’s high-NA EUV tools clear the runway for next-gen AI chips](https://www.artificialintelligence-news.com/news/asml-high-na-euv-production-ready-ai-chips/) (2026-02-27)
 - [Nokia and AWS pilot AI automation for real-time 5G network slicing](https://www.artificialintelligence-news.com/news/nokia-and-aws-pilot-ai-automation-for-real-time-5g-network-slicing/) (2026-02-25)
 - [Anthropic: Claude faces ‘industrial-scale’ AI model distillation](https://www.artificialintelligence-news.com/news/anthropic-claude-faces-industrial-scale-ai-model-distillation/) (2026-02-24)
 - [How disconnected clouds improve AI data governance](https://www.artificialintelligence-news.com/news/how-disconnected-clouds-improve-ai-data-governance/) (2026-02-24)
 - [Deploying agentic finance AI for immediate business ROI](https://www.artificialintelligence-news.com/news/deploying-agentic-finance-ai-for-immediate-business-roi/) (2026-02-24)
-- [Basware’s AI agents: From invoicing to ‘100% automated’](https://www.artificialintelligence-news.com/news/invoicing-agentic-ai-baswares-ai-agents-from-invoicing-to-100-automated/) (2026-02-24)
 
 </details>
 
@@ -581,7 +581,7 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/track-user-events
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
-- [Nano Banana 2: Google’s latest AI image generation model](https://www.analyticsvidhya.com/blog/2026/02/nano-banana-2/) (2026-02-27)
+- [Nano Banana 2 is Here! Smaller, Faster, Cheaper](https://www.analyticsvidhya.com/blog/2026/02/nano-banana-2/) (2026-02-27)
 - [Excel 101: Complete Guide to VLOOKUP Function](https://www.analyticsvidhya.com/blog/2026/02/guide-to-vlookup-function/) (2026-02-26)
 - [Top 7 Free Prompt Engineering Courses with Certificates](https://www.analyticsvidhya.com/blog/2026/02/free-prompt-engineering-courses-with-certificate/) (2026-02-26)
 - [OpenClaw Hosting: Mac Mini vs Cloud VPS](https://www.analyticsvidhya.com/blog/2026/02/openclaw-hosting-mac-mini-vs-cloud-vps/) (2026-02-25)
