@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Cash issuing terminals](https://computer.rip/2026-02-27-ibm-atm.html) (2026-02-28)
-- [OpenAI reaches deal to deploy AI models on U.S. DoW classified network](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/) (2026-02-28)
-- [Don't use passkeys for encrypting user data](https://blog.timcappalli.me/p/passkeys-prf-warning/) (2026-02-28)
-- [OpenAI agrees with Dept. of War to deploy models in their classified network](https://twitter.com/sama/status/2027578652477821175) (2026-02-28)
-- [Bootc and OSTree: Modernizing Linux System Deployment](https://a-cup-of.coffee/blog/ostree-bootc/) (2026-02-28)
+- [Show HN: SplatHash – A lightweight alternative to BlurHash and ThumbHash](https://github.com/junevm/splathash) (2026-02-28)
+- [OpenAI – How to delete your account](https://help.openai.com/en/articles/6378407-how-to-delete-your-account) (2026-02-28)
+- [Unsloth Dynamic 2.0 GGUFs](https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs) (2026-02-28)
+- [Inferring car movement patterns from passive TPMS measurements](https://dspace.networks.imdea.org/handle/20.500.12761/2011) (2026-02-28)
+- [US and Israel launch strikes on Iran, as Trump says ‘massive’ campaign underway](https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk) (2026-02-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Tenways nearly perfects the shareable city e-bike](https://www.theverge.com/reviews/885040/tenways-cgo-compact-review-sharable-adaptable) (2026-02-28)
 - [Defense secretary Pete Hegseth designates Anthropic a supply chain risk](https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff) (2026-02-28)
 - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak) (2026-02-28)
 - [NASA is pushing back its plans for a Moon landing](https://www.theverge.com/science/886656/nasa-artemis-moon-landing-delayed-2028) (2026-02-27)
 - [Warner Bros. Discovery agrees to $110 billion Paramount merger](https://www.theverge.com/entertainment/886478/warner-bros-discovery-paramount-merger-agreement) (2026-02-27)
-- [Trump orders federal agencies to drop Anthropic’s AI](https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod) (2026-02-27)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Scaling Engineers Doesn't Mean Scaling Work](https://dev.to/sultanfariz/scaling-engineers-doesnt-mean-scaling-work-1nf3) (2026-02-28)
-- [Mistakes I Made as a Frontend Engineer (And What They Actually Cost Me)](https://dev.to/9thquadrant/mistakes-i-made-as-a-frontend-engineer-and-what-they-actually-cost-me-587m) (2026-02-28)
-- [Why Are Camera ISP Tuning Services Important?](https://dev.to/siliconsignals_ind/why-are-camera-isp-tuning-services-important-531b) (2026-02-28)
-- [We Built India's First Self-Paced Learning Platform for Government Exam Students — 2 Year+. 5 People. 1000+ Articles.](https://dev.to/satyam_vatsa_ec46468fdf4b/we-built-indias-first-self-paced-learning-platform-for-government-exam-students-2-year-5-41c8) (2026-02-28)
-- [Why Passkeys Aren't Ready for Encrypting Your User Data (Yet)](https://dev.to/nader0913/why-passkeys-arent-ready-for-encrypting-your-user-data-yet-437p) (2026-02-28)
+- [φ-NTT: A Carry-Free Transform on Z ^B with Hierarchical Wavelet Structure](https://dev.to/morc_b13/ph-ntt-a-carry-free-transform-on-z-b-with-hierarchical-wavelet-structure-3omb) (2026-02-28)
+- [The Keyboard Layout Lie That’s Making Us Type Slower](https://dev.to/nikola/the-keyboard-layout-lie-thats-making-us-type-slower-45h1) (2026-02-28)
+- [Securing GenAI Applications: Prompt Injection, RAG Risks, and Data Isolation](https://dev.to/cygnetone/securing-genai-applications-prompt-injection-rag-risks-and-data-isolation-2o37) (2026-02-28)
+- [Anime Nexus — a sleek community planner for anime fans](https://dev.to/joyboy_07/anime-nexus-a-sleek-community-planner-for-anime-fans-67h) (2026-02-28)
+- [IoT Development with kiro: Part 1. STM32 on Zephyr](https://dev.to/aws-builders/iot-development-with-kiro-part-1-stm32-on-zephyr-1jg9) (2026-02-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [JP Morgan Interview Experience — Java, Multithreading & Microservices](https://medium.com/@pardeepgill82/jp-morgan-interview-experience-java-multithreading-microservices-3df9473dfb94?source=rss------programming-5) (2026-02-28)
-- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-44b3dcec91cb?source=rss------programming-5) (2026-02-28)
-- [Top 20 Docker Interview Questions & Answers](https://medium.com/@ajit-gupta/top-20-docker-interview-questions-answers-c540b6d2fb34?source=rss------programming-5) (2026-02-28)
-- [Don’t Start Kubernetes Without Reading This](https://medium.com/@pardeepgill82/dont-start-kubernetes-without-reading-this-40d9d21ec86d?source=rss------programming-5) (2026-02-28)
-- [DevOps Architect Interview at Atlassian](https://medium.com/@ajit-gupta/devops-architect-interview-at-atlassian-86bbd636fd63?source=rss------programming-5) (2026-02-28)
+- [We Use 4 Different AI Models to Write One Incident Report. Here’s Exactly Why](https://medium.com/lets-code-future/we-use-4-different-ai-models-to-write-one-incident-report-heres-exactly-why-072e2abbc8cf?source=rss------programming-5) (2026-02-28)
+- [ Common CSS Mistakes Beginners Make](https://medium.com/@manaswinisasmal5597/common-css-mistakes-beginners-make-cfb47257a9ea?source=rss------programming-5) (2026-02-28)
+- [The Hidden Truth About Being a “Slow Learner” in Coding](https://medium.com/@rakshitha55ramesh/the-hidden-truth-about-being-a-slow-learner-in-coding-b3f12a26260b?source=rss------programming-5) (2026-02-28)
+- [MTTR Is a Vanity Metric. This Is What Actually Predicts Your Next Outage.](https://blog.stackademic.com/mttr-is-a-vanity-metric-this-is-what-actually-predicts-your-next-outage-51f2d50ad52b?source=rss------programming-5) (2026-02-28)
+- [This Company is Using Rust in Military Defence](https://medium.com/rustaceans/this-company-is-using-rust-in-military-defence-ec89cf0f7725?source=rss------programming-5) (2026-02-28)
 
 </details>
 
