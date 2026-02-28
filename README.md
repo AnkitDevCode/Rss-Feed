@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’](https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/) (2026-02-28)
+- [Xiaomi launches 17 Ultra smartphone, an AirTag clone, and an ultra slim powerbank](https://techcrunch.com/2026/02/28/xiaomi-launches-17-ultra-smartphone-an-airtag-clone-and-an-ultra-slim-powerbank/) (2026-02-28)
+- [Why China’s humanoid robot industry is winning the early market](https://techcrunch.com/2026/02/28/why-chinas-humanoid-robot-industry-is-winning-the-early-market/) (2026-02-28)
 - [India disrupts access to popular developer platform Supabase with blocking order](https://techcrunch.com/2026/02/27/india-disrupts-access-to-popular-developer-platform-supabase-with-blocking-order/) (2026-02-28)
 - [OpenAI fires employee for using confidential info on prediction markets](https://techcrunch.com/2026/02/27/openai-fires-employee-for-using-confidential-info-on-prediction-markets/) (2026-02-27)
-- [Pentagon moves to designate Anthropic as a supply-chain risk](https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/) (2026-02-27)
-- [Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’](https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/) (2026-02-27)
-- [Anthropic vs. the Pentagon: What’s actually at stake?](https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/) (2026-02-27)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: SplatHash – A lightweight alternative to BlurHash and ThumbHash](https://github.com/junevm/splathash) (2026-02-28)
-- [OpenAI – How to delete your account](https://help.openai.com/en/articles/6378407-how-to-delete-your-account) (2026-02-28)
-- [Unsloth Dynamic 2.0 GGUFs](https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs) (2026-02-28)
-- [Inferring car movement patterns from passive TPMS measurements](https://dspace.networks.imdea.org/handle/20.500.12761/2011) (2026-02-28)
-- [US and Israel launch strikes on Iran, as Trump says ‘massive’ campaign underway](https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk) (2026-02-28)
+- [CSP for Pentesters: Understanding the Fundamentals](https://www.kayssel.com/newsletter/issue-20/) (2026-02-28)
+- [Verified Spec-Driven Development (VSDD)](https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00) (2026-02-28)
+- [The whole thing was a scam](https://garymarcus.substack.com/p/the-whole-thing-was-scam) (2026-02-28)
+- [Obsidian Sync now has a headless client](https://help.obsidian.md/sync/headless) (2026-02-28)
+- [Show HN: SQLite for Rivet Actors – one database per agent, tenant, or document](https://github.com/rivet-dev/rivet) (2026-02-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Tenways nearly perfects the shareable city e-bike](https://www.theverge.com/reviews/885040/tenways-cgo-compact-review-sharable-adaptable) (2026-02-28)
-- [Defense secretary Pete Hegseth designates Anthropic a supply chain risk](https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff) (2026-02-28)
-- [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak) (2026-02-28)
-- [NASA is pushing back its plans for a Moon landing](https://www.theverge.com/science/886656/nasa-artemis-moon-landing-delayed-2028) (2026-02-27)
-- [Warner Bros. Discovery agrees to $110 billion Paramount merger](https://www.theverge.com/entertainment/886478/warner-bros-discovery-paramount-merger-agreement) (2026-02-27)
+- [You can still grab great deals on Bose headphones and Astro Bot this weekend](https://www.theverge.com/gadgets/886520/bose-quietcomfort-headphones-samsung-galaxy-s26-ultra-deal-sale) (2026-02-28)
+- [Xiaomi’s tracker doesn’t need a case to clip to your keys](https://www.theverge.com/tech/884567/xiaomi-tag-tracker-apple-find-my-google-hub-bluetooth) (2026-02-28)
+- [Xiaomi’s Leica Leitzphone mostly earns the name](https://www.theverge.com/gadgets/886131/xiaomi-leica-leitzphone-17-ultra-review) (2026-02-28)
+- [Xiaomi 17 is a small(ish) phone with a big(ish) battery](https://www.theverge.com/gadgets/886322/xiaomi-17-release-specs-price-mwc-ultra-leica) (2026-02-28)
+- [The Witcher is a perfect fit for Reigns’ Tinder-like roleplaying](https://www.theverge.com/entertainment/885432/reigns-the-witcher-interview-steam-iphone-android) (2026-02-28)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [φ-NTT: A Carry-Free Transform on Z ^B with Hierarchical Wavelet Structure](https://dev.to/morc_b13/ph-ntt-a-carry-free-transform-on-z-b-with-hierarchical-wavelet-structure-3omb) (2026-02-28)
-- [The Keyboard Layout Lie That’s Making Us Type Slower](https://dev.to/nikola/the-keyboard-layout-lie-thats-making-us-type-slower-45h1) (2026-02-28)
-- [Securing GenAI Applications: Prompt Injection, RAG Risks, and Data Isolation](https://dev.to/cygnetone/securing-genai-applications-prompt-injection-rag-risks-and-data-isolation-2o37) (2026-02-28)
-- [Anime Nexus — a sleek community planner for anime fans](https://dev.to/joyboy_07/anime-nexus-a-sleek-community-planner-for-anime-fans-67h) (2026-02-28)
-- [IoT Development with kiro: Part 1. STM32 on Zephyr](https://dev.to/aws-builders/iot-development-with-kiro-part-1-stm32-on-zephyr-1jg9) (2026-02-28)
+- [Mitigating the Two Generals Problem in Django with Idempotence](https://dev.to/eddy_adegnandjou_456/mitigating-the-two-generals-problem-in-django-with-idempotence-25kj) (2026-02-28)
+- [After the Weekend Sprint: Three Features That Made swisscontract.ai Actually Useful](https://dev.to/agent_paaru/after-the-weekend-sprint-three-features-that-made-swisscontractai-actually-useful-4a07) (2026-02-28)
+- [I got mass mass mass tired of lspci, so I wrote a hardware monitor that also has a brain](https://dev.to/th0truth/i-wrote-a-hardware-monitor-in-c-that-talks-directly-to-the-linux-kernel-34k2) (2026-02-28)
+- [The NDC Revolution and What It Means for Data Engineers](https://dev.to/airtruffle/the-ndc-revolution-and-what-it-means-for-data-engineers-122n) (2026-02-28)
+- [Beyond Chatbots: Can We Give AI Agents an "Undo" Button? Exploring Gorilla GoEx 🦍](https://dev.to/syed_mehrab_08fb0419feedf/beyond-chatbots-can-we-give-ai-agents-an-undo-button-exploring-gorilla-goex-2npn) (2026-02-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [We Use 4 Different AI Models to Write One Incident Report. Here’s Exactly Why](https://medium.com/lets-code-future/we-use-4-different-ai-models-to-write-one-incident-report-heres-exactly-why-072e2abbc8cf?source=rss------programming-5) (2026-02-28)
-- [ Common CSS Mistakes Beginners Make](https://medium.com/@manaswinisasmal5597/common-css-mistakes-beginners-make-cfb47257a9ea?source=rss------programming-5) (2026-02-28)
-- [The Hidden Truth About Being a “Slow Learner” in Coding](https://medium.com/@rakshitha55ramesh/the-hidden-truth-about-being-a-slow-learner-in-coding-b3f12a26260b?source=rss------programming-5) (2026-02-28)
-- [MTTR Is a Vanity Metric. This Is What Actually Predicts Your Next Outage.](https://blog.stackademic.com/mttr-is-a-vanity-metric-this-is-what-actually-predicts-your-next-outage-51f2d50ad52b?source=rss------programming-5) (2026-02-28)
-- [This Company is Using Rust in Military Defence](https://medium.com/rustaceans/this-company-is-using-rust-in-military-defence-ec89cf0f7725?source=rss------programming-5) (2026-02-28)
+- [Marker Interface 與 Annotation（Attribute）的比較](https://medium.com/@mindsteps.alex/marker-interface-%E8%88%87-annotation-attribute-%E7%9A%84%E6%AF%94%E8%BC%83-2bf56d76c982?source=rss------programming-5) (2026-02-28)
+- [Exploring Programming Languages — Rhombus](https://blog.devgenius.io/exploring-programming-languages-rhombus-f73b1801a0ec?source=rss------programming-5) (2026-02-28)
+- [Afghanistan–Pakistan Crisis Explained: Border Conflict, Security Fears, and the Future of South…](https://medium.com/@pavankalyanb552/afghanistan-pakistan-crisis-explained-border-conflict-security-fears-and-the-future-of-south-bfc3aa18e8be?source=rss------programming-5) (2026-02-28)
+- [How I Built a Lightning-Fast Full-Stack App Using Angular Signals + Node.js](https://medium.com/@shubhamnalawade037/how-i-built-a-lightning-fast-full-stack-app-using-angular-signals-node-js-071e5fbc0f31?source=rss------programming-5) (2026-02-28)
+- [CRUD REST API With Clean Architecture & DDD In .NET 9](https://medium.com/@mariammaurice/crud-rest-api-with-clean-architecture-ddd-in-net-9-12407731280b?source=rss------programming-5) (2026-02-28)
 
 </details>
 
@@ -570,22 +570,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/track-user-events
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Claude Skills and Subagents: Escaping the Prompt Engineering Hamster Wheel](https://towardsdatascience.com/claude-skills-and-subagents-escaping-the-prompt-engineering-hamster-wheel/) (2026-02-28)
+- [Scaling ML Inference on Databricks: Liquid or Partitioned? Salted or Not?](https://towardsdatascience.com/liquid-or-partitioned-salted-or-not-scaling-ml-inference-on-databricks/) (2026-02-28)
 - [Coding the Pong Game from Scratch in Python](https://towardsdatascience.com/coding-the-pong-game-from-scratch-in-python/) (2026-02-27)
 - [Stop Asking if a Model Is Interpretable](https://towardsdatascience.com/stop-asking-if-a-model-is-interpretable/) (2026-02-27)
 - [Generative AI, Discriminative Human](https://towardsdatascience.com/generative-ai-discriminative-human/) (2026-02-27)
-- [The Gap Between Junior and Senior Data Scientists Isn’t Code](https://towardsdatascience.com/the-gap-between-junior-and-senior-data-scientists-isnt-code/) (2026-02-27)
-- [Designing Data and AI Systems That Hold Up in Production](https://towardsdatascience.com/designing-data-and-ai-systems-that-hold-up-in-production/) (2026-02-26)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Perplexity Computer is Here to Change the Way we Use AI](https://www.analyticsvidhya.com/blog/2026/02/perplexity-computer-is-here-to-change-the-way-we-use-ai/) (2026-02-28)
+- [Nano Banana 2 vs Nano Banana Pro: What’s the Difference?](https://www.analyticsvidhya.com/blog/2026/02/nano-banana-2-vs-nano-banana-pro/) (2026-02-28)
 - [Mercury 2: The AI Model That Feels Instant](https://www.analyticsvidhya.com/blog/2026/02/mercury-2-the-ai-model-that-feels-instant/) (2026-02-27)
 - [Google Launches Nano Banana 2: Learn All About It!](https://www.analyticsvidhya.com/blog/2026/02/google-launches-nano-banana-2/) (2026-02-27)
 - [Excel 101: Complete Guide to VLOOKUP Function](https://www.analyticsvidhya.com/blog/2026/02/guide-to-vlookup-function/) (2026-02-26)
-- [Top 7 Free Prompt Engineering Courses with Certificates](https://www.analyticsvidhya.com/blog/2026/02/free-prompt-engineering-courses-with-certificate/) (2026-02-26)
-- [OpenClaw Hosting: Mac Mini vs Cloud VPS](https://www.analyticsvidhya.com/blog/2026/02/openclaw-hosting-mac-mini-vs-cloud-vps/) (2026-02-25)
 
 </details>
 
