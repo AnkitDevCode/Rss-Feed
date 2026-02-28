@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [OpenAI fires employee for using confidential info on prediction markets](https://techcrunch.com/2026/02/27/openai-fires-employee-for-using-confidential-info-on-prediction-markets/) (2026-02-27)
+- [Pentagon moves to designate Anthropic as a supply-chain risk](https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/) (2026-02-27)
+- [Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’](https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/) (2026-02-27)
+- [Anthropic vs. the Pentagon: What’s actually at stake?](https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/) (2026-02-27)
 - [ChatGPT reaches 900M weekly active users](https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/) (2026-02-27)
-- [AI music generator Suno hits 2M paid subscribers and $300M in annual recurring revenue](https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-million-paid-subscribers-and-300m-in-annual-recurring-revenue/) (2026-02-27)
-- [Apple and Netflix team up to air Formula 1 Canadian Grand Prix ](https://techcrunch.com/2026/02/27/apple-and-netflix-team-up-to-air-formula-1-canadian-grand-prix/) (2026-02-27)
-- [Perplexity’s new Computer is another bet that users need many AI models](https://techcrunch.com/2026/02/27/perplexitys-new-computer-is-another-bet-that-users-need-many-ai-models/) (2026-02-27)
-- [Pokémon Winds and Pokémon Waves are coming to the Nintendo Switch 2 in 2027](https://techcrunch.com/2026/02/27/pokemon-winds-and-pokemon-waves-are-coming-to-the-nintendo-switch-2-in-2027/) (2026-02-27)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Block spent $68M on a single party in September 2025](https://twitter.com/BullTheoryio/status/2027250361816486085) (2026-02-27)
-- [Don't run OpenClaw on your main machine](https://blog.skypilot.co/openclaw-on-skypilot/) (2026-02-27)
-- [Vibe coded Lovable-hosted app littered with basic flaws exposed 18K users](https://www.theregister.com/2026/02/27/lovable_app_vulnerabilities/) (2026-02-27)
-- [Allocating on the Stack](https://go.dev/blog/allocation-optimizations) (2026-02-27)
-- [NASA announces major overhaul of Artemis program amid safety concerns, delays](https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/) (2026-02-27)
+- [We Will Not Be Divided](https://notdivided.org) (2026-02-28)
+- [Qt45: A small polymerase ribozyme that can synthesize itself](https://www.science.org/doi/10.1126/science.adt2760) (2026-02-27)
+- [Emuko: Fast RISC-V emulator written in Rust, boots Linux](https://github.com/wkoszek/emuko) (2026-02-27)
+- [I am directing the Department of War to designate Anthropic a supply-chain risk](https://twitter.com/secwar/status/2027507717469049070) (2026-02-27)
+- [Otters as Bioindicators of Estuarine Health](https://emt.pensoft.net/article/185117/) (2026-02-27)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [FedEx promises to refund customers for ‘illegal’ tariffs](https://www.theverge.com/policy/886216/fedex-trump-tariff-refunds) (2026-02-27)
-- [Amazon’s Fire TV Stick 4K Plus gets a better interface and a 40 percent discount](https://www.theverge.com/gadgets/886153/amazon-fire-tv-stick-4k-plus-deal-sale) (2026-02-27)
-- [AI vs. the Pentagon: killer robots, mass surveillance, and red lines](https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines) (2026-02-27)
-- [Woot’s ‘Video Games for All’ sale features some of our favorite games](https://www.theverge.com/gadgets/885334/woot-ps5-nintendo-switch-video-game-sale-lg-c5-oled-tv-deal) (2026-02-27)
-- [We don&#8217;t have to have unsupervised killer robots](https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react) (2026-02-27)
+- [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak) (2026-02-28)
+- [NASA is pushing back its plans for a Moon landing](https://www.theverge.com/science/886656/nasa-artemis-moon-landing-delayed-2028) (2026-02-27)
+- [Defense secretary Pete Hegseth designates Anthropic a supply chain risk](https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff) (2026-02-27)
+- [Warner Bros. Discovery agrees to $110 billion Paramount merger](https://www.theverge.com/entertainment/886478/warner-bros-discovery-paramount-merger-agreement) (2026-02-27)
+- [Trump orders federal agencies to drop Anthropic’s AI](https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod) (2026-02-27)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [And the award for the most improved EV goes to... the 2026 Toyota bZ](https://arstechnica.com/cars/2026/02/and-the-award-for-the-most-improved-ev-goes-to-the-2026-toyota-bz/) (2026-02-27)
-- [Netflix cedes Warner Bros. Discovery to Paramount: “No longer financially attractive”](https://arstechnica.com/gadgets/2026/02/netflix-cedes-warner-bros-discovery-to-paramount-no-longer-financially-attractive/) (2026-02-27)
-- [NASA shakes up its Artemis program to speed up lunar return](https://arstechnica.com/staff/2026/02/nasa-shakes-up-its-artemis-program-to-speed-up-lunar-return/) (2026-02-27)
-- [How to downgrade from macOS 26 Tahoe on a new Mac](https://arstechnica.com/gadgets/2026/02/how-to-downgrade-from-macos-26-tahoe-on-a-new-mac/) (2026-02-27)
-- [Block lays off 40% of workforce as it goes all-in on AI tools](https://arstechnica.com/ai/2026/02/block-lays-off-40-of-workforce-as-it-goes-all-in-on-ai-tools/) (2026-02-27)
+- [The Air Force's new ICBM is nearly ready to fly, but there’s nowhere to put it](https://arstechnica.com/space/2026/02/the-air-forces-new-icbm-is-nearly-ready-to-fly-but-theres-nowhere-to-put-them/) (2026-02-28)
+- [Under a Paramount-WBD merger, two struggling media giants would unite](https://arstechnica.com/gadgets/2026/02/under-a-paramount-wbd-merger-two-struggling-media-giants-would-unite/) (2026-02-27)
+- [Photons that aren't actually there influence superconductivity](https://arstechnica.com/science/2026/02/photons-that-arent-actually-there-influence-superconductivity/) (2026-02-27)
+- [Whoops: US military laser strike takes down CBP drone near Mexican border](https://arstechnica.com/tech-policy/2026/02/whoops-us-military-laser-strike-takes-down-cbp-drone-near-mexican-border/) (2026-02-27)
+- [The AI apocalypse is nigh in Good Luck, Have Fun, Don't Die](https://arstechnica.com/culture/2026/02/the-ai-apocalypse-is-nigh-in-good-luck-have-fun-dont-die/) (2026-02-27)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [MIT Technology Review is a 2026 ASME finalist in reporting](https://www.technologyreview.com/2026/02/27/1133769/asme-finalist-reporting/) (2026-02-27)
 - [The Download: how AI is shaking up Go, and a cybersecurity mystery](https://www.technologyreview.com/2026/02/27/1133754/the-download-how-ai-is-shaking-up-go-and-a-cybersecurity-mystery/) (2026-02-27)
 - [AI is rewiring how the world’s best Go players think](https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/) (2026-02-27)
 - [Finding value with AI and Industry 5.0 transformation](https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/) (2026-02-26)
 - [The Download: how America lost its lead in the hunt for alien life, and ambitious battery claims](https://www.technologyreview.com/2026/02/26/1133734/the-download-how-america-lost-its-lead-in-the-hunt-for-alien-life-and-ambitious-battery-claims/) (2026-02-26)
-- [This company claims a battery breakthrough. Now they need to prove it.](https://www.technologyreview.com/2026/02/26/1133722/solid-state-batteries-donut-lab/) (2026-02-26)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [This Week In React #270 : Next.js, React Router | Hermes, React Navigation, CSS Grid, Maestro | Node, Oxfmt](https://dev.to/sebastienlorber/this-week-in-react-270-nextjs-react-router-hermes-react-navigation-css-grid-maestro--106o) (2026-02-27)
-- [What a Hilariously Wrong Time Estimate Taught Me About the Future of Organizations](https://dev.to/nantero/what-a-hilariously-wrong-time-estimate-taught-me-about-the-future-of-organizations-31j5) (2026-02-27)
-- [Price Action: Double Tops and Double Bottoms (Part 2)](https://dev.to/victorjia/price-action-double-tops-and-double-bottoms-part-2-32m7) (2026-02-27)
-- [Why Overall AI Accuracy Scores Miss Critical Domain-Specific Failures](https://dev.to/amartyajha/why-overall-ai-accuracy-scores-miss-critical-domain-specific-failures-12n7) (2026-02-27)
-- [The New AWS AI Era: When the Cloud Becomes a Platform for Agents, Chips, and Scalable Productivity](https://dev.to/claudio_santos/the-new-aws-ai-era-when-the-cloud-becomes-a-platform-for-agents-chips-and-scalable-productivity-iil) (2026-02-27)
+- [From Code to Connection: Automating the Story of Our Craft with ForkToPost](https://dev.to/vero-code/from-code-to-connection-automating-the-story-of-our-craft-with-forktopost-3bla) (2026-02-28)
+- [#5 Known is a Drop! Operators in JAVA](https://dev.to/deepikandas/5-known-is-a-drop-operators-in-java-3cai) (2026-02-28)
+- [How I rebuild my hobby project in over 2 weekends with ChatGPT & Claude](https://dev.to/wildan3105/how-i-rebuild-my-hobby-project-in-over-2-weekends-with-chatgpt-claude-3jmb) (2026-02-28)
+- [AgentBoard: A Discovery Platform for the Agentic AI Community](https://dev.to/vivek-aws/agentboard-a-discovery-platform-for-the-agentic-ai-community-30ep) (2026-02-28)
+- [🎓 ScholarFinder: Bridging the Opportunity Gap for Students in Crisis](https://dev.to/alpha_/scholarfinder-bridging-the-opportunity-gap-for-students-in-crisis-15c7) (2026-02-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Console Trick Senior Developers Don’t Want You to Know But Everyone Should](https://medium.com/@logicoverlatte/console-trick-senior-developers-debug-2974e9cea929?source=rss------programming-5) (2026-02-27)
-- [Hello everyone!](https://bahruzmammadly.medium.com/hello-everyone-60e79dc342d8?source=rss------programming-5) (2026-02-27)
-- [Something Flipped in December](https://medium.com/@NMitchem/something-flipped-in-december-423e8b808262?source=rss------programming-5) (2026-02-27)
-- [AI Can’t Stop Recommending Nuclear Strikes in War Game Simulations](https://pub.towardsai.net/ai-cant-stop-recommending-nuclear-strikes-in-war-game-simulations-2eb963593a36?source=rss------programming-5) (2026-02-27)
-- [Where Should You Put Repository Interfaces In Clean Architecture?](https://medium.com/@mariammaurice/where-should-you-put-repository-interfaces-in-clean-architecture-c0c62ec6cf00?source=rss------programming-5) (2026-02-27)
+- [The Ultimate Guide to Git Worktrees: From Daily Dev to AI Agents](https://medium.com/@pererikbergman/the-ultimate-guide-to-git-worktrees-from-daily-dev-to-ai-agents-2b39e63a359d?source=rss------programming-5) (2026-02-28)
+- [The Abomination of Modern Interviews: Why Longer Hiring Processes Signal Organizational Confusion](https://medium.com/@aludanyi/the-abomination-of-modern-interviews-why-longer-hiring-processes-signal-organizational-confusion-3998c7d05b1f?source=rss------programming-5) (2026-02-28)
+- [JavaScript Operators: The Basics You Need to Know](https://medium.com/@jaahnvisharma2004/javascript-operators-the-basics-you-need-to-know-c145c23c4a98?source=rss------programming-5) (2026-02-28)
+- [We Built Microservices — Then Accidentally Recreated a Monolith](https://elsyarifx.medium.com/we-built-microservices-then-accidentally-recreated-a-monolith-b5dda32fb693?source=rss------programming-5) (2026-02-28)
+- [Why does my 8GB M1 Mac run Hadoop Better Than Your 16GB PC ?](https://medium.com/@linaraoui12/why-does-my-8gb-m1-mac-run-hadoop-better-than-your-16gb-pc-405d91a8a876?source=rss------programming-5) (2026-02-28)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected](http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog) (2026-02-24)
 - [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
 - [Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873) (2026-02-17)
 - [Azure reliability, resiliency, and recoverability: Build continuity by design](https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/) (2026-02-17)
 - [The data behind the design: How Pantone built agentic AI with an AI-ready database](https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/) (2026-02-12)
-- [Agentic cloud operations: A new way to run the cloud](https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/) (2026-02-11)
 
 </details>
 
@@ -142,7 +142,7 @@
 <summary>🎮 NVIDIA Blog</summary>
 
 - [Now Live: The World’s Most Powerful AI Factory for Pharmaceutical Discovery and Development](https://blogs.nvidia.com/blog/lilly-ai-factory-live/) (2026-02-26)
-- [Horror Awakens in the Cloud: GeForce NOW Unleashes Capcom’s ‘Resident Evil Requiem’](https://blogs.nvidia.com/blog/geforce-now-thursday-resident-evil-requiem/) (2026-02-26)
+- [The Nightmare Returns in the Cloud: GeForce NOW Unleashes Capcom’s ‘Resident Evil Requiem’](https://blogs.nvidia.com/blog/geforce-now-thursday-resident-evil-requiem/) (2026-02-26)
 - [From Radiology to Drug Discovery, Survey Reveals AI Is Delivering Clear Return on Investment in Healthcare](https://blogs.nvidia.com/blog/ai-in-healthcare-survey-2026/) (2026-02-24)
 - [NVIDIA Brings AI-Powered Cybersecurity to World’s Critical Infrastructure](https://blogs.nvidia.com/blog/ai-cybersecurity-operational-technology-industrial-control-systems/) (2026-02-23)
 - [Survey Reveals AI Advances in Telecom: Networks and Automation in Driver’s Seat as Return on Investment Climbs](https://blogs.nvidia.com/blog/ai-in-telco-survey-2026/) (2026-02-19)
@@ -185,11 +185,11 @@
 <details>
 <summary>🅰️ Angular Blog</summary>
 
+- [Security Advisory: Addressing Recent Vulnerabilities in Angular](https://blog.angular.dev/security-advisory-addressing-recent-vulnerabilities-in-angular-c2656249b799?source=rss----447683c3d9a3---4) (2026-02-27)
 - [Angular 21: Internal Mechanics, ARIA, and AI-Powered Coding! ](https://blog.angular.dev/angular-21-internal-mechanics-aria-and-ai-powered-coding-eefc4b05ddb6?source=rss----447683c3d9a3---4) (2026-02-17)
 - [Global Expertise: AI Blueprints, Resource API Fixes, and Angular v20 ](https://blog.angular.dev/global-expertise-ai-blueprints-resource-api-fixes-and-angular-v20-5fb47e059670?source=rss----447683c3d9a3---4) (2026-02-09)
 - [Community Stories, Code Samples, and Signal Forms! ](https://blog.angular.dev/community-stories-code-samples-and-signal-forms-7d0294475610?source=rss----447683c3d9a3---4) (2026-01-23)
 - [Announcing Angular v21](https://blog.angular.dev/announcing-angular-v21-57946c34f14b?source=rss----447683c3d9a3---4) (2025-11-19)
-- [Handling Time and Mock Clocks in Tests](https://blog.angular.dev/handling-time-and-mock-clocks-in-tests-5a393b32dd30?source=rss----447683c3d9a3---4) (2025-11-07)
 
 </details>
 
