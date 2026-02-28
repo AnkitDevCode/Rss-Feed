@@ -20,31 +20,31 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [India disrupts access to popular developer platform Supabase with blocking order](https://techcrunch.com/2026/02/27/india-disrupts-access-to-popular-developer-platform-supabase-with-blocking-order/) (2026-02-28)
 - [OpenAI fires employee for using confidential info on prediction markets](https://techcrunch.com/2026/02/27/openai-fires-employee-for-using-confidential-info-on-prediction-markets/) (2026-02-27)
 - [Pentagon moves to designate Anthropic as a supply-chain risk](https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/) (2026-02-27)
 - [Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’](https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/) (2026-02-27)
 - [Anthropic vs. the Pentagon: What’s actually at stake?](https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/) (2026-02-27)
-- [ChatGPT reaches 900M weekly active users](https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/) (2026-02-27)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [We Will Not Be Divided](https://notdivided.org) (2026-02-28)
-- [Qt45: A small polymerase ribozyme that can synthesize itself](https://www.science.org/doi/10.1126/science.adt2760) (2026-02-27)
-- [Emuko: Fast RISC-V emulator written in Rust, boots Linux](https://github.com/wkoszek/emuko) (2026-02-27)
-- [I am directing the Department of War to designate Anthropic a supply-chain risk](https://twitter.com/secwar/status/2027507717469049070) (2026-02-27)
-- [Otters as Bioindicators of Estuarine Health](https://emt.pensoft.net/article/185117/) (2026-02-27)
+- [Cash issuing terminals](https://computer.rip/2026-02-27-ibm-atm.html) (2026-02-28)
+- [OpenAI reaches deal to deploy AI models on U.S. DoW classified network](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/) (2026-02-28)
+- [Don't use passkeys for encrypting user data](https://blog.timcappalli.me/p/passkeys-prf-warning/) (2026-02-28)
+- [OpenAI agrees with Dept. of War to deploy models in their classified network](https://twitter.com/sama/status/2027578652477821175) (2026-02-28)
+- [Bootc and OSTree: Modernizing Linux System Deployment](https://a-cup-of.coffee/blog/ostree-bootc/) (2026-02-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Defense secretary Pete Hegseth designates Anthropic a supply chain risk](https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff) (2026-02-28)
 - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak) (2026-02-28)
 - [NASA is pushing back its plans for a Moon landing](https://www.theverge.com/science/886656/nasa-artemis-moon-landing-delayed-2028) (2026-02-27)
-- [Defense secretary Pete Hegseth designates Anthropic a supply chain risk](https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff) (2026-02-27)
 - [Warner Bros. Discovery agrees to $110 billion Paramount merger](https://www.theverge.com/entertainment/886478/warner-bros-discovery-paramount-merger-agreement) (2026-02-27)
 - [Trump orders federal agencies to drop Anthropic’s AI](https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod) (2026-02-27)
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space](https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/) (2026-02-28)
 - [The Air Force's new ICBM is nearly ready to fly, but there’s nowhere to put it](https://arstechnica.com/space/2026/02/the-air-forces-new-icbm-is-nearly-ready-to-fly-but-theres-nowhere-to-put-them/) (2026-02-28)
 - [Under a Paramount-WBD merger, two struggling media giants would unite](https://arstechnica.com/gadgets/2026/02/under-a-paramount-wbd-merger-two-struggling-media-giants-would-unite/) (2026-02-27)
 - [Photons that aren't actually there influence superconductivity](https://arstechnica.com/science/2026/02/photons-that-arent-actually-there-influence-superconductivity/) (2026-02-27)
 - [Whoops: US military laser strike takes down CBP drone near Mexican border](https://arstechnica.com/tech-policy/2026/02/whoops-us-military-laser-strike-takes-down-cbp-drone-near-mexican-border/) (2026-02-27)
-- [The AI apocalypse is nigh in Good Luck, Have Fun, Don't Die](https://arstechnica.com/culture/2026/02/the-ai-apocalypse-is-nigh-in-good-luck-have-fun-dont-die/) (2026-02-27)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [From Code to Connection: Automating the Story of Our Craft with ForkToPost](https://dev.to/vero-code/from-code-to-connection-automating-the-story-of-our-craft-with-forktopost-3bla) (2026-02-28)
-- [#5 Known is a Drop! Operators in JAVA](https://dev.to/deepikandas/5-known-is-a-drop-operators-in-java-3cai) (2026-02-28)
-- [How I rebuild my hobby project in over 2 weekends with ChatGPT & Claude](https://dev.to/wildan3105/how-i-rebuild-my-hobby-project-in-over-2-weekends-with-chatgpt-claude-3jmb) (2026-02-28)
-- [AgentBoard: A Discovery Platform for the Agentic AI Community](https://dev.to/vivek-aws/agentboard-a-discovery-platform-for-the-agentic-ai-community-30ep) (2026-02-28)
-- [🎓 ScholarFinder: Bridging the Opportunity Gap for Students in Crisis](https://dev.to/alpha_/scholarfinder-bridging-the-opportunity-gap-for-students-in-crisis-15c7) (2026-02-28)
+- [Scaling Engineers Doesn't Mean Scaling Work](https://dev.to/sultanfariz/scaling-engineers-doesnt-mean-scaling-work-1nf3) (2026-02-28)
+- [Mistakes I Made as a Frontend Engineer (And What They Actually Cost Me)](https://dev.to/9thquadrant/mistakes-i-made-as-a-frontend-engineer-and-what-they-actually-cost-me-587m) (2026-02-28)
+- [Why Are Camera ISP Tuning Services Important?](https://dev.to/siliconsignals_ind/why-are-camera-isp-tuning-services-important-531b) (2026-02-28)
+- [We Built India's First Self-Paced Learning Platform for Government Exam Students — 2 Year+. 5 People. 1000+ Articles.](https://dev.to/satyam_vatsa_ec46468fdf4b/we-built-indias-first-self-paced-learning-platform-for-government-exam-students-2-year-5-41c8) (2026-02-28)
+- [Why Passkeys Aren't Ready for Encrypting Your User Data (Yet)](https://dev.to/nader0913/why-passkeys-arent-ready-for-encrypting-your-user-data-yet-437p) (2026-02-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Ultimate Guide to Git Worktrees: From Daily Dev to AI Agents](https://medium.com/@pererikbergman/the-ultimate-guide-to-git-worktrees-from-daily-dev-to-ai-agents-2b39e63a359d?source=rss------programming-5) (2026-02-28)
-- [The Abomination of Modern Interviews: Why Longer Hiring Processes Signal Organizational Confusion](https://medium.com/@aludanyi/the-abomination-of-modern-interviews-why-longer-hiring-processes-signal-organizational-confusion-3998c7d05b1f?source=rss------programming-5) (2026-02-28)
-- [JavaScript Operators: The Basics You Need to Know](https://medium.com/@jaahnvisharma2004/javascript-operators-the-basics-you-need-to-know-c145c23c4a98?source=rss------programming-5) (2026-02-28)
-- [We Built Microservices — Then Accidentally Recreated a Monolith](https://elsyarifx.medium.com/we-built-microservices-then-accidentally-recreated-a-monolith-b5dda32fb693?source=rss------programming-5) (2026-02-28)
-- [Why does my 8GB M1 Mac run Hadoop Better Than Your 16GB PC ?](https://medium.com/@linaraoui12/why-does-my-8gb-m1-mac-run-hadoop-better-than-your-16gb-pc-405d91a8a876?source=rss------programming-5) (2026-02-28)
+- [JP Morgan Interview Experience — Java, Multithreading & Microservices](https://medium.com/@pardeepgill82/jp-morgan-interview-experience-java-multithreading-microservices-3df9473dfb94?source=rss------programming-5) (2026-02-28)
+- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-44b3dcec91cb?source=rss------programming-5) (2026-02-28)
+- [Top 20 Docker Interview Questions & Answers](https://medium.com/@ajit-gupta/top-20-docker-interview-questions-answers-c540b6d2fb34?source=rss------programming-5) (2026-02-28)
+- [Don’t Start Kubernetes Without Reading This](https://medium.com/@pardeepgill82/dont-start-kubernetes-without-reading-this-40d9d21ec86d?source=rss------programming-5) (2026-02-28)
+- [DevOps Architect Interview at Atlassian](https://medium.com/@ajit-gupta/devops-architect-interview-at-atlassian-86bbd636fd63?source=rss------programming-5) (2026-02-28)
 
 </details>
 
@@ -504,11 +504,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/track-user-events
 <details>
 <summary>💬 Slack API</summary>
 
+- [The Best Slackbot Prompts for Customer Service Teams](https://slack.com/blog/productivity/slackbot-for-customer-service) (2026-02-26)
 - [Five Essential Communication Channels in the Workplace](https://slack.com/blog/collaboration/communication-channels) (2026-02-23)
 - [Slack Securely Powers Your Third-Party Agents With Your Business Context](https://slack.com/blog/news/mcp-real-time-search-api-now-available) (2026-02-17)
 - [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-02-13)
 - [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-02-13)
-- [How to Stay Organized at Work: Tips, Tricks, and Tools](https://slack.com/blog/productivity/how-to-stay-organized-at-work) (2026-02-13)
 
 </details>
 
