@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Science of Detecting LLM-Generated Text](https://dl.acm.org/doi/10.1145/3624725) (2026-03-01)
-- [Samsung Galaxy update removes Android recovery menu tools, including sideloading](https://9to5google.com/2026/02/27/samsung-galaxy-update-android-recovery-menu-removed/) (2026-03-01)
-- [Microgpt](http://karpathy.github.io/2026/02/12/microgpt/) (2026-03-01)
-- [Running a One Trillion-Parameter LLM Locally on AMD Ryzen AI Max+ Cluster](https://www.amd.com/en/developer/resources/technical-articles/2026/how-to-run-a-one-trillion-parameter-llm-locally-an-amd.html) (2026-03-01)
-- [Show HN: Xmloxide – an agent made rust replacement for libxml2](https://github.com/jonwiggins/xmloxide) (2026-02-28)
+- [Why is the first C++ (m)allocation always 72 KB?](https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/) (2026-03-01)
+- [Show HN: Terminal-Style Portfolio on the Internet](https://kuber.studio/) (2026-03-01)
+- [Decision trees – the unreasonable power of nested decision rules](https://mlu-explain.github.io/decision-tree/) (2026-03-01)
+- [Switch to Claude without starting over](https://claude.com/import-memory) (2026-03-01)
+- [10-202: Introduction to Modern AI (CMU)](https://modernaicourse.org) (2026-03-01)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [When Power Centralizes in the Frontend Ecosystem — Should We Be Alarmed?](https://dev.to/ezhil_sivarajsr/when-power-centralizes-in-the-frontend-ecosystem-should-we-be-alarmed-36l4) (2026-03-01)
-- [The lost-in-the-middle problem and why retrieval beats stuffing](https://dev.to/anajuliabit/the-lost-in-the-middle-problem-and-why-retrieval-beats-stuffing-1h37) (2026-03-01)
-- [Building a Multi-Dimensional Scoring System for National Investment Capability — Lessons from GNICAP](https://dev.to/gnicap/building-a-multi-dimensional-scoring-system-for-national-investment-capability-lessons-from-gnicap-1llm) (2026-03-01)
-- [I Spent 15 Years as an Engineer, Designer, and Business Owner. Here's Why AI Made All Three Essential.](https://dev.to/s3atoshi_leading_ai/beyond-the-specialist-why-the-ai-era-demands-a-triangular-architect-1dng) (2026-03-01)
-- [The Terraform Mistakes I Made So You Do Not Have To](https://dev.to/yash_step2dev/the-terraform-mistakes-i-made-so-you-do-not-have-to-43a0) (2026-03-01)
+- [JavaScript Promises: From Pending Proposals to Bollywood Bliss – A Desi Guide to Async Magic](https://dev.to/ritam369/javascript-promises-from-pending-proposals-to-bollywood-bliss-a-desi-guide-to-async-magic-gbp) (2026-03-01)
+- [Unsaid: Turning Reactive Messages Into Intentional Conversations](https://dev.to/preeti_yadav/unsaid-turning-reactive-messages-into-intentional-conversations-2iop) (2026-03-01)
+- [Feature Flags changed how we ship code, why not our pipelines too?](https://dev.to/lamphan0320/feature-flags-changed-how-we-ship-code-why-not-our-pipelines-too-4hnk) (2026-03-01)
+- [We Proved Physics in Zero Knowledge -- Here's What That Means](https://dev.to/jacobi0x/we-proved-physics-in-zero-knowledge-heres-what-that-means-5ce9) (2026-03-01)
+- [Pytest Like a Pro: Fixtures, Mocks, and Patterns That Actually Work](https://dev.to/_85e8844dcca5f98bfa936/pytest-like-a-pro-fixtures-mocks-and-patterns-that-actually-work-1d8n) (2026-03-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I built a calorie tracker for myself and the analytics part nearly broke me](https://medium.com/@dhruvkothari1306/i-built-a-calorie-tracker-for-myself-and-the-analytics-part-nearly-broke-me-63ae64251d5a?source=rss------programming-5) (2026-03-01)
-- [Database Indexing — What It Is, Why It Matters, and When NOT to Use It](https://abhijeet-chatterjee364.medium.com/database-indexing-what-it-is-why-it-matters-and-when-not-to-use-it-c9d412938e17?source=rss------programming-5) (2026-03-01)
-- [5 Python Libraries I Only Trusted After Breaking Production](https://python.plainenglish.io/5-python-libraries-i-only-trusted-after-breaking-production-f48b1c8e3a10?source=rss------programming-5) (2026-03-01)
-- [MCP Server: The Silent Infrastructure Powering the Next AI Revolution](https://medium.com/@mayankagarwal14nov/mcp-server-the-silent-infrastructure-powering-the-next-ai-revolution-f8f151fc4344?source=rss------programming-5) (2026-03-01)
-- [Name Resolution In ZetaSQL: The Tiny Step That Breaks Huge Queries](https://medium.com/@sonampatel_97163/name-resolution-in-zetasql-the-tiny-step-that-breaks-huge-queries-ea0151a03fe5?source=rss------programming-5) (2026-03-01)
+- [Mastering API Development Using Node.js](https://medium.com/@aneesh12online/mastering-api-development-using-node-js-92f9bf54d26f?source=rss------programming-5) (2026-03-01)
+- [What is the Best Hardware to Run OpenClaw at Home?](https://medium.com/data-science-in-your-pocket/what-is-the-best-hardware-to-run-openclaw-at-home-78a9c1a54c33?source=rss------programming-5) (2026-03-01)
+- [5 Powerful Tricks to Write Better Python Code (That Professionals Actually Use)](https://medium.com/@priyansu011/5-powerful-tricks-to-write-better-python-code-that-professionals-actually-use-59db7128b51c?source=rss------programming-5) (2026-03-01)
+- [The Ultimate .NET 8 to .NET 10 Playbook](https://medium.com/@nagarajvela/the-ultimate-net-8-to-net-10-playbook-64b52c7a58c0?source=rss------programming-5) (2026-03-01)
+- [5 Hidden Python Libraries That Solved Problems I Didn’t Know I Was Fighting](https://python.plainenglish.io/5-hidden-python-libraries-that-solved-problems-i-didnt-know-i-was-fighting-65254a83e283?source=rss------programming-5) (2026-03-01)
 
 </details>
 
@@ -141,11 +141,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [NVIDIA Advances Autonomous Networks With Agentic AI Blueprints and Telco Reasoning Models](https://blogs.nvidia.com/blog/nvidia-agentic-ai-blueprints-telco-reasoning-models/) (2026-03-01)
+- [NVIDIA and Partners Show That Software-Defined AI-RAN Is the Next Wireless Generation](https://blogs.nvidia.com/blog/software-defined-ai-ran/) (2026-03-01)
 - [Now Live: The World’s Most Powerful AI Factory for Pharmaceutical Discovery and Development](https://blogs.nvidia.com/blog/lilly-ai-factory-live/) (2026-02-26)
 - [The Nightmare Returns in the Cloud: GeForce NOW Unleashes Capcom’s ‘Resident Evil Requiem’](https://blogs.nvidia.com/blog/geforce-now-thursday-resident-evil-requiem/) (2026-02-26)
 - [From Radiology to Drug Discovery, Survey Reveals AI Is Delivering Clear Return on Investment in Healthcare](https://blogs.nvidia.com/blog/ai-in-healthcare-survey-2026/) (2026-02-24)
-- [NVIDIA Brings AI-Powered Cybersecurity to World’s Critical Infrastructure](https://blogs.nvidia.com/blog/ai-cybersecurity-operational-technology-industrial-control-systems/) (2026-02-23)
-- [Survey Reveals AI Advances in Telecom: Networks and Automation in Driver’s Seat as Return on Investment Climbs](https://blogs.nvidia.com/blog/ai-in-telco-survey-2026/) (2026-02-19)
 
 </details>
 
@@ -504,11 +504,11 @@ https://www.twilio.com/en-us/blog/products/sunsetting-legacy-segment-analytics-l
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack Feature Drop: Better Connections for Every Kind of Work](https://slack.com/blog/news/feature-drop-feb26) (2026-03-01)
-- [Project Management Software Guide for 2026](https://slack.com/blog/collaboration/project-management-software) (2026-02-27)
 - [The Best Slackbot Prompts for Customer Service Teams](https://slack.com/blog/productivity/slackbot-for-customer-service) (2026-02-26)
 - [Five Essential Communication Channels in the Workplace](https://slack.com/blog/collaboration/communication-channels) (2026-02-23)
 - [Slack Securely Powers Your Third-Party Agents With Your Business Context](https://slack.com/blog/news/mcp-real-time-search-api-now-available) (2026-02-17)
+- [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-02-13)
+- [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-02-13)
 
 </details>
 
