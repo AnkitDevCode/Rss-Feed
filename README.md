@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’](https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/) (2026-02-28)
-- [Xiaomi launches 17 Ultra smartphone, an AirTag clone, and an ultra slim powerbank](https://techcrunch.com/2026/02/28/xiaomi-launches-17-ultra-smartphone-an-airtag-clone-and-an-ultra-slim-powerbank/) (2026-02-28)
-- [Why China’s humanoid robot industry is winning the early market](https://techcrunch.com/2026/02/28/why-chinas-humanoid-robot-industry-is-winning-the-early-market/) (2026-02-28)
-- [India disrupts access to popular developer platform Supabase with blocking order](https://techcrunch.com/2026/02/27/india-disrupts-access-to-popular-developer-platform-supabase-with-blocking-order/) (2026-02-28)
-- [OpenAI fires employee for using confidential info on prediction markets](https://techcrunch.com/2026/02/27/openai-fires-employee-for-using-confidential-info-on-prediction-markets/) (2026-02-27)
+- [The trap Anthropic built for itself](https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/) (2026-03-01)
+- [Why did Netflix back down from its deal to acquire Warner Bros.?](https://techcrunch.com/2026/02/28/why-did-netflix-back-down-from-its-deal-to-acquire-warner-bros/) (2026-02-28)
+- [What to know about the landmark Warner Bros. Discovery sale](https://techcrunch.com/2026/02/28/warner-bros-netflix-paramount-acquisition-timeline-wbd/) (2026-02-28)
+- [Anthropic’s Claude rises to No. 2 in the App Store following Pentagon dispute](https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/) (2026-02-28)
+- [The billion-dollar infrastructure deals powering the AI boom](https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/) (2026-02-28)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [CSP for Pentesters: Understanding the Fundamentals](https://www.kayssel.com/newsletter/issue-20/) (2026-02-28)
-- [Verified Spec-Driven Development (VSDD)](https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00) (2026-02-28)
-- [The whole thing was a scam](https://garymarcus.substack.com/p/the-whole-thing-was-scam) (2026-02-28)
-- [Obsidian Sync now has a headless client](https://help.obsidian.md/sync/headless) (2026-02-28)
-- [Show HN: SQLite for Rivet Actors – one database per agent, tenant, or document](https://github.com/rivet-dev/rivet) (2026-02-28)
+- [Pentagon chief blocks officers from Ivy League schools and top universities](https://fortune.com/2026/02/28/pentagon-officer-education-ivy-league-schools-universities-partners-ai-space/) (2026-02-28)
+- [Show HN: Xmloxide – an agent made rust replacement for libxml2](https://github.com/jonwiggins/xmloxide) (2026-02-28)
+- [The Windows 95 user interface: A case study in usability engineering (1996)](https://dl.acm.org/doi/fullHtml/10.1145/238386.238611) (2026-02-28)
+- [Building a Minimal Transformer for 10-digit Addition](https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition) (2026-02-28)
+- [We do not think Anthropic should be designated as a supply chain risk](https://twitter.com/OpenAI/status/2027846016423321831) (2026-02-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Polymarket defends its decision to allow betting on war as ‘invaluable’](https://www.theverge.com/tech/887040/polymarket-iran-war-betting-invaluable) (2026-02-28)
+- [The Rubin Observatory’s alert system sent 800,000 pings on its first night](https://www.theverge.com/science/887037/vera-c-rubin-observatory-800000-alerts) (2026-02-28)
 - [You can still grab great deals on Bose headphones and Astro Bot this weekend](https://www.theverge.com/gadgets/886520/bose-quietcomfort-headphones-samsung-galaxy-s26-ultra-deal-sale) (2026-02-28)
 - [Xiaomi’s tracker doesn’t need a case to clip to your keys](https://www.theverge.com/tech/884567/xiaomi-tag-tracker-apple-find-my-google-hub-bluetooth) (2026-02-28)
 - [Xiaomi’s Leica Leitzphone mostly earns the name](https://www.theverge.com/gadgets/886131/xiaomi-leica-leitzphone-17-ultra-review) (2026-02-28)
-- [Xiaomi 17 is a small(ish) phone with a big(ish) battery](https://www.theverge.com/gadgets/886322/xiaomi-17-release-specs-price-mwc-ultra-leica) (2026-02-28)
-- [The Witcher is a perfect fit for Reigns’ Tinder-like roleplaying](https://www.theverge.com/entertainment/885432/reigns-the-witcher-interview-steam-iphone-android) (2026-02-28)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space](https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/) (2026-02-28)
+- [Trump moves to ban Anthropic from the US government](https://arstechnica.com/tech-policy/2026/02/trump-moves-to-ban-anthropic-from-the-us-government/) (2026-02-28)
+- [In puzzling outbreak, officials look to cold beer, gross ice, and ChatGPT](https://arstechnica.com/health/2026/02/did-chatgpt-help-health-officials-solve-a-weird-outbreak-maybe/) (2026-02-28)
+- [Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space](https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/) (2026-02-28)
 - [The Air Force's new ICBM is nearly ready to fly, but there’s nowhere to put it](https://arstechnica.com/space/2026/02/the-air-forces-new-icbm-is-nearly-ready-to-fly-but-theres-nowhere-to-put-them/) (2026-02-28)
 - [Under a Paramount-WBD merger, two struggling media giants would unite](https://arstechnica.com/gadgets/2026/02/under-a-paramount-wbd-merger-two-struggling-media-giants-would-unite/) (2026-02-27)
-- [Photons that aren't actually there influence superconductivity](https://arstechnica.com/science/2026/02/photons-that-arent-actually-there-influence-superconductivity/) (2026-02-27)
-- [Whoops: US military laser strike takes down CBP drone near Mexican border](https://arstechnica.com/tech-policy/2026/02/whoops-us-military-laser-strike-takes-down-cbp-drone-near-mexican-border/) (2026-02-27)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Mitigating the Two Generals Problem in Django with Idempotence](https://dev.to/eddy_adegnandjou_456/mitigating-the-two-generals-problem-in-django-with-idempotence-25kj) (2026-02-28)
-- [After the Weekend Sprint: Three Features That Made swisscontract.ai Actually Useful](https://dev.to/agent_paaru/after-the-weekend-sprint-three-features-that-made-swisscontractai-actually-useful-4a07) (2026-02-28)
-- [I got mass mass mass tired of lspci, so I wrote a hardware monitor that also has a brain](https://dev.to/th0truth/i-wrote-a-hardware-monitor-in-c-that-talks-directly-to-the-linux-kernel-34k2) (2026-02-28)
-- [The NDC Revolution and What It Means for Data Engineers](https://dev.to/airtruffle/the-ndc-revolution-and-what-it-means-for-data-engineers-122n) (2026-02-28)
-- [Beyond Chatbots: Can We Give AI Agents an "Undo" Button? Exploring Gorilla GoEx 🦍](https://dev.to/syed_mehrab_08fb0419feedf/beyond-chatbots-can-we-give-ai-agents-an-undo-button-exploring-gorilla-goex-2npn) (2026-02-28)
+- [The Agentic Engineering Manifesto: Why Standards are My New Sovereign Frontier](https://dev.to/sarony11/the-agentic-engineering-manifesto-why-standards-are-my-new-sovereign-frontier-339p) (2026-03-01)
+- [PORT VS SOCKET](https://dev.to/mohideen_sahib_79f5f9e8de/port-vs-socket-a8h) (2026-03-01)
+- [From Prototype to Pharmacy Dashboard: Scaling an AI-Generated App with Google Gemini](https://dev.to/letstalkoss/from-prototype-to-pharmacy-dashboard-scaling-an-ai-generated-app-with-google-gemini-1c8j) (2026-03-01)
+- [Web Standards Win: Interop 2026 Signals the End of Browser Wars](https://dev.to/pratikmathur279/web-standards-win-interop-2026-signals-the-end-of-browser-wars-6kb) (2026-03-01)
+- [VSDD: The AI Coding Methodology Actually Worth Stealing](https://dev.to/midastools/vsdd-the-ai-coding-methodology-actually-worth-stealing-35ah) (2026-03-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Marker Interface 與 Annotation（Attribute）的比較](https://medium.com/@mindsteps.alex/marker-interface-%E8%88%87-annotation-attribute-%E7%9A%84%E6%AF%94%E8%BC%83-2bf56d76c982?source=rss------programming-5) (2026-02-28)
-- [Exploring Programming Languages — Rhombus](https://blog.devgenius.io/exploring-programming-languages-rhombus-f73b1801a0ec?source=rss------programming-5) (2026-02-28)
-- [Afghanistan–Pakistan Crisis Explained: Border Conflict, Security Fears, and the Future of South…](https://medium.com/@pavankalyanb552/afghanistan-pakistan-crisis-explained-border-conflict-security-fears-and-the-future-of-south-bfc3aa18e8be?source=rss------programming-5) (2026-02-28)
-- [How I Built a Lightning-Fast Full-Stack App Using Angular Signals + Node.js](https://medium.com/@shubhamnalawade037/how-i-built-a-lightning-fast-full-stack-app-using-angular-signals-node-js-071e5fbc0f31?source=rss------programming-5) (2026-02-28)
-- [CRUD REST API With Clean Architecture & DDD In .NET 9](https://medium.com/@mariammaurice/crud-rest-api-with-clean-architecture-ddd-in-net-9-12407731280b?source=rss------programming-5) (2026-02-28)
+- [How I Monitor Linux Servers in Production Without Expensive Tools](https://medium.com/codex/how-i-monitor-linux-servers-in-production-without-expensive-tools-9db942324238?source=rss------programming-5) (2026-03-01)
+- [‍ Budgeting for Startups and Entrepreneurs ‍♀️](https://medium.com/@Sonakshee/budgeting-for-startups-and-entrepreneurs-%EF%B8%8F-9ac4ffb0016e?source=rss------programming-5) (2026-03-01)
+- [I Built in a Weekend What Used to Take Six Weeks — Welcome to AI-Native Development](https://medium.com/data-science-collective/i-built-in-a-weekend-what-used-to-take-six-weeks-welcome-to-ai-native-development-ef8111a0623f?source=rss------programming-5) (2026-03-01)
+- [Should You Still Learn to Code in 2026?](https://medium.com/@kaurharjeet122/should-you-still-learn-to-code-in-2026-02200b214c82?source=rss------programming-5) (2026-03-01)
+- [The New Claude Code’s Auto-Memory Feature Just Changed How My Team Works — Here Is the Setup I…](https://alirezarezvani.medium.com/the-new-claude-codes-auto-memory-feature-just-changed-how-my-team-works-here-is-the-setup-i-5126174b35dc?source=rss------programming-5) (2026-03-01)
 
 </details>
 
