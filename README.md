@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Pentagon chief blocks officers from Ivy League schools and top universities](https://fortune.com/2026/02/28/pentagon-officer-education-ivy-league-schools-universities-partners-ai-space/) (2026-02-28)
+- [The Science of Detecting LLM-Generated Text](https://dl.acm.org/doi/10.1145/3624725) (2026-03-01)
+- [Samsung Galaxy update removes Android recovery menu tools, including sideloading](https://9to5google.com/2026/02/27/samsung-galaxy-update-android-recovery-menu-removed/) (2026-03-01)
+- [Microgpt](http://karpathy.github.io/2026/02/12/microgpt/) (2026-03-01)
+- [Running a One Trillion-Parameter LLM Locally on AMD Ryzen AI Max+ Cluster](https://www.amd.com/en/developer/resources/technical-articles/2026/how-to-run-a-one-trillion-parameter-llm-locally-an-amd.html) (2026-03-01)
 - [Show HN: Xmloxide – an agent made rust replacement for libxml2](https://github.com/jonwiggins/xmloxide) (2026-02-28)
-- [The Windows 95 user interface: A case study in usability engineering (1996)](https://dl.acm.org/doi/fullHtml/10.1145/238386.238611) (2026-02-28)
-- [Building a Minimal Transformer for 10-digit Addition](https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition) (2026-02-28)
-- [We do not think Anthropic should be designated as a supply chain risk](https://twitter.com/OpenAI/status/2027846016423321831) (2026-02-28)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Agentic Engineering Manifesto: Why Standards are My New Sovereign Frontier](https://dev.to/sarony11/the-agentic-engineering-manifesto-why-standards-are-my-new-sovereign-frontier-339p) (2026-03-01)
-- [PORT VS SOCKET](https://dev.to/mohideen_sahib_79f5f9e8de/port-vs-socket-a8h) (2026-03-01)
-- [From Prototype to Pharmacy Dashboard: Scaling an AI-Generated App with Google Gemini](https://dev.to/letstalkoss/from-prototype-to-pharmacy-dashboard-scaling-an-ai-generated-app-with-google-gemini-1c8j) (2026-03-01)
-- [Web Standards Win: Interop 2026 Signals the End of Browser Wars](https://dev.to/pratikmathur279/web-standards-win-interop-2026-signals-the-end-of-browser-wars-6kb) (2026-03-01)
-- [VSDD: The AI Coding Methodology Actually Worth Stealing](https://dev.to/midastools/vsdd-the-ai-coding-methodology-actually-worth-stealing-35ah) (2026-03-01)
+- [When Power Centralizes in the Frontend Ecosystem — Should We Be Alarmed?](https://dev.to/ezhil_sivarajsr/when-power-centralizes-in-the-frontend-ecosystem-should-we-be-alarmed-36l4) (2026-03-01)
+- [The lost-in-the-middle problem and why retrieval beats stuffing](https://dev.to/anajuliabit/the-lost-in-the-middle-problem-and-why-retrieval-beats-stuffing-1h37) (2026-03-01)
+- [Building a Multi-Dimensional Scoring System for National Investment Capability — Lessons from GNICAP](https://dev.to/gnicap/building-a-multi-dimensional-scoring-system-for-national-investment-capability-lessons-from-gnicap-1llm) (2026-03-01)
+- [I Spent 15 Years as an Engineer, Designer, and Business Owner. Here's Why AI Made All Three Essential.](https://dev.to/s3atoshi_leading_ai/beyond-the-specialist-why-the-ai-era-demands-a-triangular-architect-1dng) (2026-03-01)
+- [The Terraform Mistakes I Made So You Do Not Have To](https://dev.to/yash_step2dev/the-terraform-mistakes-i-made-so-you-do-not-have-to-43a0) (2026-03-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How I Monitor Linux Servers in Production Without Expensive Tools](https://medium.com/codex/how-i-monitor-linux-servers-in-production-without-expensive-tools-9db942324238?source=rss------programming-5) (2026-03-01)
-- [‍ Budgeting for Startups and Entrepreneurs ‍♀️](https://medium.com/@Sonakshee/budgeting-for-startups-and-entrepreneurs-%EF%B8%8F-9ac4ffb0016e?source=rss------programming-5) (2026-03-01)
-- [I Built in a Weekend What Used to Take Six Weeks — Welcome to AI-Native Development](https://medium.com/data-science-collective/i-built-in-a-weekend-what-used-to-take-six-weeks-welcome-to-ai-native-development-ef8111a0623f?source=rss------programming-5) (2026-03-01)
-- [Should You Still Learn to Code in 2026?](https://medium.com/@kaurharjeet122/should-you-still-learn-to-code-in-2026-02200b214c82?source=rss------programming-5) (2026-03-01)
-- [The New Claude Code’s Auto-Memory Feature Just Changed How My Team Works — Here Is the Setup I…](https://alirezarezvani.medium.com/the-new-claude-codes-auto-memory-feature-just-changed-how-my-team-works-here-is-the-setup-i-5126174b35dc?source=rss------programming-5) (2026-03-01)
+- [I built a calorie tracker for myself and the analytics part nearly broke me](https://medium.com/@dhruvkothari1306/i-built-a-calorie-tracker-for-myself-and-the-analytics-part-nearly-broke-me-63ae64251d5a?source=rss------programming-5) (2026-03-01)
+- [Database Indexing — What It Is, Why It Matters, and When NOT to Use It](https://abhijeet-chatterjee364.medium.com/database-indexing-what-it-is-why-it-matters-and-when-not-to-use-it-c9d412938e17?source=rss------programming-5) (2026-03-01)
+- [5 Python Libraries I Only Trusted After Breaking Production](https://python.plainenglish.io/5-python-libraries-i-only-trusted-after-breaking-production-f48b1c8e3a10?source=rss------programming-5) (2026-03-01)
+- [MCP Server: The Silent Infrastructure Powering the Next AI Revolution](https://medium.com/@mayankagarwal14nov/mcp-server-the-silent-infrastructure-powering-the-next-ai-revolution-f8f151fc4344?source=rss------programming-5) (2026-03-01)
+- [Name Resolution In ZetaSQL: The Tiny Step That Breaks Huge Queries](https://medium.com/@sonampatel_97163/name-resolution-in-zetasql-the-tiny-step-that-breaks-huge-queries-ea0151a03fe5?source=rss------programming-5) (2026-03-01)
 
 </details>
 
@@ -362,6 +362,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Build a Twilio + Zoho CRM Voice Integration
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/build-twilio-zoho-crm-voice-integration
+) (2026-02-27)
+- [
 Data activation: what it is & how to do it
 ](
 https://www.twilio.com/en-us/blog/insights/data/data-activation
@@ -381,11 +386,6 @@ Sunsetting Twilio Segment’s Legacy Analytics Libraries
 ](
 https://www.twilio.com/en-us/blog/products/sunsetting-legacy-segment-analytics-libraries
 ) (2026-02-23)
-- [
-How To Track User Events With Segment in Node.js
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/track-user-events-segment-node-js
-) (2026-02-20)
 
 </details>
 
@@ -504,11 +504,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/track-user-events
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slack Feature Drop: Better Connections for Every Kind of Work](https://slack.com/blog/news/feature-drop-feb26) (2026-03-01)
+- [Project Management Software Guide for 2026](https://slack.com/blog/collaboration/project-management-software) (2026-02-27)
 - [The Best Slackbot Prompts for Customer Service Teams](https://slack.com/blog/productivity/slackbot-for-customer-service) (2026-02-26)
 - [Five Essential Communication Channels in the Workplace](https://slack.com/blog/collaboration/communication-channels) (2026-02-23)
 - [Slack Securely Powers Your Third-Party Agents With Your Business Context](https://slack.com/blog/news/mcp-real-time-search-api-now-available) (2026-02-17)
-- [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-02-13)
-- [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-02-13)
 
 </details>
 
