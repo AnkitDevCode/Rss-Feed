@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [The trap Anthropic built for itself](https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/) (2026-03-01)
-- [Why did Netflix back down from its deal to acquire Warner Bros.?](https://techcrunch.com/2026/02/28/why-did-netflix-back-down-from-its-deal-to-acquire-warner-bros/) (2026-02-28)
-- [What to know about the landmark Warner Bros. Discovery sale](https://techcrunch.com/2026/02/28/warner-bros-netflix-paramount-acquisition-timeline-wbd/) (2026-02-28)
-- [Anthropic’s Claude rises to No. 2 in the App Store following Pentagon dispute](https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/) (2026-02-28)
-- [The billion-dollar infrastructure deals powering the AI boom](https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/) (2026-02-28)
+- [Google looks to tackle longstanding RCS spam in India — but not alone](https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/) (2026-03-01)
+- [Investors spill what they aren’t looking for anymore in AI SaaS companies](https://techcrunch.com/2026/03/01/investors-spill-what-they-arent-looking-for-anymore-in-ai-saas-companies/) (2026-03-01)
+- [OpenAI reveals more details about its agreement with the Pentagon](https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/) (2026-03-01)
+- [Honor says its ‘Robot phone’ with moving camera can dance to music](https://techcrunch.com/2026/03/01/honor-says-its-robot-phone-with-moving-camera-can-dance-to-music/) (2026-03-01)
+- [Honor launches its new slim foldable Magic V6 with a 6,600 mAh battery](https://techcrunch.com/2026/03/01/honor-launches-its-new-slim-foldable-magic-v6-with-a-6600-mah-battery/) (2026-03-01)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Why is the first C++ (m)allocation always 72 KB?](https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/) (2026-03-01)
-- [Show HN: Terminal-Style Portfolio on the Internet](https://kuber.studio/) (2026-03-01)
-- [Decision trees – the unreasonable power of nested decision rules](https://mlu-explain.github.io/decision-tree/) (2026-03-01)
-- [Switch to Claude without starting over](https://claude.com/import-memory) (2026-03-01)
-- [10-202: Introduction to Modern AI (CMU)](https://modernaicourse.org) (2026-03-01)
+- [6 Practices that turned AI from prototyper to workhorse (106 PRs in 14 days)](https://news.ycombinator.com/item?id=47208471) (2026-03-01)
+- [I Built a Scheme Compiler with AI in 4 Days](https://matthewphillips.info/programming/posts/i-built-a-scheme-compiler-with-ai/) (2026-03-01)
+- [When does MCP make sense vs CLI?](https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html) (2026-03-01)
+- [Show HN: Audio Toolkit for Agents](https://github.com/shiehn/sas-audio-processor) (2026-03-01)
+- [Lil' Fun Langs' Guts](https://taylor.town/scrapscript-001) (2026-03-01)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Polymarket defends its decision to allow betting on war as ‘invaluable’](https://www.theverge.com/tech/887040/polymarket-iran-war-betting-invaluable) (2026-02-28)
-- [The Rubin Observatory’s alert system sent 800,000 pings on its first night](https://www.theverge.com/science/887037/vera-c-rubin-observatory-800000-alerts) (2026-02-28)
-- [You can still grab great deals on Bose headphones and Astro Bot this weekend](https://www.theverge.com/gadgets/886520/bose-quietcomfort-headphones-samsung-galaxy-s26-ultra-deal-sale) (2026-02-28)
-- [Xiaomi’s tracker doesn’t need a case to clip to your keys](https://www.theverge.com/tech/884567/xiaomi-tag-tracker-apple-find-my-google-hub-bluetooth) (2026-02-28)
-- [Xiaomi’s Leica Leitzphone mostly earns the name](https://www.theverge.com/gadgets/886131/xiaomi-leica-leitzphone-17-ultra-review) (2026-02-28)
+- [Kalshi voids some bets on Khamenei’s ouster because it’s ‘directly tied to death’](https://www.theverge.com/tech/887210/kalshi-void-bets-khamenei-death) (2026-03-01)
+- [Lego’s Smart Brick is here, and it transforms these new Star Wars sets](https://www.theverge.com/gadgets/886014/lego-smart-brick-star-wars-set-price-availability-release-date-buy) (2026-03-01)
+- [Soundcore’s Space 2 are an evolution of its budget headphones](https://www.theverge.com/tech/886180/soundcore-space-2-announcement-mwc-2026) (2026-03-01)
+- [Honor claims its Robot Phone will launch later this year](https://www.theverge.com/gadgets/887140/honor-robot-phone-mwc-release-date-specs) (2026-03-01)
+- [Resident Evil Requiem leans too much on the series’ past](https://www.theverge.com/games/885811/resident-evil-requiem-grace-leon-nostalgia-ending) (2026-03-01)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [The strange animals that control their body heat](https://arstechnica.com/science/2026/03/the-strange-animals-that-control-their-body-heat/) (2026-03-01)
 - [Trump moves to ban Anthropic from the US government](https://arstechnica.com/tech-policy/2026/02/trump-moves-to-ban-anthropic-from-the-us-government/) (2026-02-28)
 - [In puzzling outbreak, officials look to cold beer, gross ice, and ChatGPT](https://arstechnica.com/health/2026/02/did-chatgpt-help-health-officials-solve-a-weird-outbreak-maybe/) (2026-02-28)
 - [Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space](https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/) (2026-02-28)
 - [The Air Force's new ICBM is nearly ready to fly, but there’s nowhere to put it](https://arstechnica.com/space/2026/02/the-air-forces-new-icbm-is-nearly-ready-to-fly-but-theres-nowhere-to-put-them/) (2026-02-28)
-- [Under a Paramount-WBD merger, two struggling media giants would unite](https://arstechnica.com/gadgets/2026/02/under-a-paramount-wbd-merger-two-struggling-media-giants-would-unite/) (2026-02-27)
 
 </details>
 
@@ -97,22 +97,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [JavaScript Promises: From Pending Proposals to Bollywood Bliss – A Desi Guide to Async Magic](https://dev.to/ritam369/javascript-promises-from-pending-proposals-to-bollywood-bliss-a-desi-guide-to-async-magic-gbp) (2026-03-01)
-- [Unsaid: Turning Reactive Messages Into Intentional Conversations](https://dev.to/preeti_yadav/unsaid-turning-reactive-messages-into-intentional-conversations-2iop) (2026-03-01)
-- [Feature Flags changed how we ship code, why not our pipelines too?](https://dev.to/lamphan0320/feature-flags-changed-how-we-ship-code-why-not-our-pipelines-too-4hnk) (2026-03-01)
-- [We Proved Physics in Zero Knowledge -- Here's What That Means](https://dev.to/jacobi0x/we-proved-physics-in-zero-knowledge-heres-what-that-means-5ce9) (2026-03-01)
-- [Pytest Like a Pro: Fixtures, Mocks, and Patterns That Actually Work](https://dev.to/_85e8844dcca5f98bfa936/pytest-like-a-pro-fixtures-mocks-and-patterns-that-actually-work-1d8n) (2026-03-01)
+- [InvariantSplit: Formal Invariants and Deterministic Settlement in a Weekend-Built EVM Primitive](https://dev.to/doomhammerhell/invariantsplit-formal-invariants-and-deterministic-settlement-in-a-weekend-built-evm-primitive-4cjj) (2026-03-01)
+- [MicroGPT: The Lightweight AI Agent Explained](https://dev.to/onsen/microgpt-the-lightweight-ai-agent-explained-2mj5) (2026-03-01)
+- [Serverless Cold Starts: Understanding and Mitigating](https://dev.to/matt_frank_usa/serverless-cold-starts-understanding-and-mitigating-4bl) (2026-03-01)
+- [What I Learned After 72 Hours as an Autonomous AI Agent on the Internet](https://dev.to/colony0ai/what-i-learned-after-72-hours-as-an-autonomous-ai-agent-on-the-internet-36jo) (2026-03-01)
+- [I Built a Real-Time AI Interview Coach Using Vision Agents — Here's How](https://dev.to/skfaizan786/i-built-a-real-time-ai-interview-coach-using-vision-agents-heres-how-50k9) (2026-03-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Mastering API Development Using Node.js](https://medium.com/@aneesh12online/mastering-api-development-using-node-js-92f9bf54d26f?source=rss------programming-5) (2026-03-01)
-- [What is the Best Hardware to Run OpenClaw at Home?](https://medium.com/data-science-in-your-pocket/what-is-the-best-hardware-to-run-openclaw-at-home-78a9c1a54c33?source=rss------programming-5) (2026-03-01)
-- [5 Powerful Tricks to Write Better Python Code (That Professionals Actually Use)](https://medium.com/@priyansu011/5-powerful-tricks-to-write-better-python-code-that-professionals-actually-use-59db7128b51c?source=rss------programming-5) (2026-03-01)
-- [The Ultimate .NET 8 to .NET 10 Playbook](https://medium.com/@nagarajvela/the-ultimate-net-8-to-net-10-playbook-64b52c7a58c0?source=rss------programming-5) (2026-03-01)
-- [5 Hidden Python Libraries That Solved Problems I Didn’t Know I Was Fighting](https://python.plainenglish.io/5-hidden-python-libraries-that-solved-problems-i-didnt-know-i-was-fighting-65254a83e283?source=rss------programming-5) (2026-03-01)
+- [Java 26 Is Coming: Here’s Why Applets’ End Might Be Yesterday’s News](https://medium.com/@martinastaberger/java-26-is-coming-heres-why-applets-end-might-be-yesterday-s-news-be607515da7e?source=rss------programming-5) (2026-03-01)
+- [Dev Jobs Are Up 10%?! The AI “Job Apocalypse” Was a Massive Lie.](https://medium.com/@premchandak_11/dev-jobs-are-up-10-the-ai-job-apocalypse-was-a-massive-lie-9f0219b590e4?source=rss------programming-5) (2026-03-01)
+- [Rust’s Edge: Why Even After Half a Decade, These Flaws Sting ](https://medium.com/@geragaming0212/rusts-edge-why-even-after-half-a-decade-these-flaws-sting-64ba9600fcf2?source=rss------programming-5) (2026-03-01)
+- [RHAPSODY OF REALITIES - 1ST MARCH 2026
+"You’re not a wanderer in life; you’re a divine envoy.](https://medium.com/@folajeff/rhapsody-of-realities-1st-march-2026-youre-not-a-wanderer-in-life-you-re-a-divine-envoy-c7df62cc7339?source=rss------programming-5) (2026-03-01)
+- [The “Shared Brain” Method: How to Stop Cursor and Claude from Ruining Your Codebase](https://anilkalm.medium.com/how-to-fix-ai-amnesia-cursor-claude-8018bca692c7?source=rss------programming-5) (2026-03-01)
 
 </details>
 
@@ -130,11 +131,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected](http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog) (2026-02-24)
 - [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
 - [Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873) (2026-02-17)
 - [Azure reliability, resiliency, and recoverability: Build continuity by design](https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/) (2026-02-17)
 - [The data behind the design: How Pantone built agentic AI with an AI-ready database](https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/) (2026-02-12)
+- [Agentic cloud operations: A new way to run the cloud](https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/) (2026-02-11)
 
 </details>
 
@@ -570,22 +571,22 @@ https://www.twilio.com/en-us/blog/products/sunsetting-legacy-segment-analytics-l
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Zero-Waste Agentic RAG: Designing Caching Architectures to Minimize Latency and LLM Costs at Scale](https://towardsdatascience.com/zero-waste-agentic-rag-designing-caching-architectures-to-minimize-latency-and-llm-costs-at-scale/) (2026-03-01)
+- [Context Engineering as Your Competitive Edge](https://towardsdatascience.com/context-engineering-as-your-competitive-edge/) (2026-03-01)
 - [Claude Skills and Subagents: Escaping the Prompt Engineering Hamster Wheel](https://towardsdatascience.com/claude-skills-and-subagents-escaping-the-prompt-engineering-hamster-wheel/) (2026-02-28)
 - [Scaling ML Inference on Databricks: Liquid or Partitioned? Salted or Not?](https://towardsdatascience.com/liquid-or-partitioned-salted-or-not-scaling-ml-inference-on-databricks/) (2026-02-28)
 - [Coding the Pong Game from Scratch in Python](https://towardsdatascience.com/coding-the-pong-game-from-scratch-in-python/) (2026-02-27)
-- [Stop Asking if a Model Is Interpretable](https://towardsdatascience.com/stop-asking-if-a-model-is-interpretable/) (2026-02-27)
-- [Generative AI, Discriminative Human](https://towardsdatascience.com/generative-ai-discriminative-human/) (2026-02-27)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Grow your LinkedIn Scarily Fast (For Data Scientists) with This AI Workflow](https://www.analyticsvidhya.com/blog/2026/03/data-scientists-grow-your-linkedin-fast-ai-workflow/) (2026-03-01)
 - [Perplexity Computer is Here to Change the Way we Use AI](https://www.analyticsvidhya.com/blog/2026/02/perplexity-computer-is-here-to-change-the-way-we-use-ai/) (2026-02-28)
 - [Nano Banana 2 vs Nano Banana Pro: What’s the Difference?](https://www.analyticsvidhya.com/blog/2026/02/nano-banana-2-vs-nano-banana-pro/) (2026-02-28)
 - [Mercury 2: The AI Model That Feels Instant](https://www.analyticsvidhya.com/blog/2026/02/mercury-2-the-ai-model-that-feels-instant/) (2026-02-27)
 - [Google Launches Nano Banana 2: Learn All About It!](https://www.analyticsvidhya.com/blog/2026/02/google-launches-nano-banana-2/) (2026-02-27)
-- [Excel 101: Complete Guide to VLOOKUP Function](https://www.analyticsvidhya.com/blog/2026/02/guide-to-vlookup-function/) (2026-02-26)
 
 </details>
 
