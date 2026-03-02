@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Allegations of insider trading over prediction-market bets tied to Iran conflict](https://www.morningstar.com/news/marketwatch/20260301140/allegations-of-insider-trading-over-prediction-market-bets-tied-to-iran-conflict) (2026-03-01)
-- [Little Free Library Books](https://littlefreelibrary.org/) (2026-03-01)
-- [WebMCP is available for early preview](https://developer.chrome.com/blog/webmcp-epp) (2026-03-01)
-- [South Korean Police Lose Seized Crypto by Posting Password Online](https://gizmodo.com/south-korean-police-lose-seized-crypto-by-posting-password-online-2000728191) (2026-03-01)
-- [Are the Mysteries of Quantum Mechanics Beginning to Dissolve?](https://www.quantamagazine.org/are-the-mysteries-of-quantum-mechanics-beginning-to-dissolve-20260213/) (2026-03-01)
+- [Evolving descriptive text of mental content from human brain activity](https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts) (2026-03-02)
+- [Computer-generated dream world: Virtual reality for a 286 processor](https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/) (2026-03-02)
+- [How to record and retrieve anything you've ever had to look up twice](https://ellanew.com/2026/03/02/ptpl-197-record-retrieve-from-a-personal-knowledgebase) (2026-03-02)
+- [Everett shuts down Flock camera network after judge rules footage public record](https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae) (2026-03-02)
+- [Show HN: Timber – Ollama for classical ML models, 336x faster than Python](https://github.com/kossisoroyce/timber) (2026-03-02)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The Motorola Razr Fold is shaping up to be pure flagship](https://www.theverge.com/tech/887249/motorola-razr-fold-specs-camera-silicon-carbon-battery) (2026-03-02)
 - [A robot arm with puppy dog eyes is just one of Lenovo&#8217;s new desktop AI concepts](https://www.theverge.com/tech/885228/lenovo-ai-workmate-companion-work-concept-robot-arm-desktop-clock-hub) (2026-03-01)
 - [The new Yoga 9i 2-in-1 from Lenovo has an angled ‘canvas mode’ for easier note-taking](https://www.theverge.com/tech/885724/lenovo-yoga-9i-2-in-1-angled-canvas-mode) (2026-03-01)
 - [Lenovo’s redesigned ThinkPad Detachable tablet has a bigger screen and legit keyboard](https://www.theverge.com/tech/886134/lenovo-thinkpad-x13-detachable-tablet-t14-t14s-t16-laptops-price-specs) (2026-03-01)
 - [Lenovo made a Framework-like laptop with modular ports — and a second screen](https://www.theverge.com/tech/886814/lenovo-thinkbook-modular-ai-pc-concept-mwc-2026-specs) (2026-03-01)
-- [This Windows gaming handheld has a screen that folds in half](https://www.theverge.com/tech/886848/lenovo-legion-go-fold-concept-windows-foldable-pc-gaming-handheld) (2026-03-01)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Android WorkManager Guide — Background Task Scheduling](https://dev.to/myougatheaxo/android-workmanager-guide-background-task-scheduling-1332) (2026-03-02)
-- [Kotlin Generics — Type Parameters, Variance & Reified Types](https://dev.to/myougatheaxo/kotlin-generics-type-parameters-variance-reified-types-lga) (2026-03-02)
-- [EcoKids Hub: Building a Greener Future by Educating Young Minds](https://dev.to/rushikesh_yogeshgaikwad_/ecokids-hub-building-a-greener-future-by-educating-young-minds-59eg) (2026-03-02)
-- [WebMCP is available for early preview](https://dev.to/guy_d/webmcp-is-available-for-early-preview-4gm4) (2026-03-02)
-- [Compose ↔ View Interop — AndroidView and ComposeView](https://dev.to/myougatheaxo/compose-view-interop-androidview-and-composeview-3792) (2026-03-02)
+- [Hello World! | Software Engineer](https://dev.to/lumbol77/hello-world-software-engineer-9cg) (2026-03-02)
+- [Developer-focused prompting tricks to use Cursor](https://dev.to/tak089/developer-focused-prompting-tricks-to-use-cursor-5ei) (2026-03-02)
+- [How AI-Native Architecture Enables Autonomous Software Systems](https://dev.to/gofortool/how-ai-native-architecture-enables-autonomous-software-systems-31lo) (2026-03-02)
+- [Pawz Engram biologically-inspired memory architecture for persistent AI agents](https://dev.to/gotham64/pawz-engram-biologically-inspired-memory-architecture-for-persistent-ai-agents-8fn) (2026-03-02)
+- [Designing AI Policy Engines & Constraint Systems in Production GenAI Platforms](https://dev.to/shreekansha97/designing-ai-policy-engines-constraint-systems-in-production-genai-platforms-4iol) (2026-03-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [English App #1X00: How I Built My Own “Listen & Speak” Practice Environment (Preparation)](https://medium.com/my-activity-diaries/english-app-1x00-how-i-built-my-own-listen-speak-practice-environment-preparation-422ba4c8ceac?source=rss------programming-5) (2026-03-02)
-- [Instructions, Agents and Skills](https://itnext.io/instructions-agents-and-skills-9f3179e5a9f8?source=rss------programming-5) (2026-03-02)
-- [Beyond the Hype: Why Sanity Is Building Infrastructure, Not Illusions](https://medium.com/@matsafo/beyond-the-hype-why-sanity-is-building-infrastructure-not-illusions-118f06736d09?source=rss------programming-5) (2026-03-02)
-- [From HTML Form to Full-Stack App: Angular Frontend + Node.js API](https://medium.com/@shubhamnalawade037/from-html-form-to-full-stack-app-angular-frontend-node-js-api-c68708361ab3?source=rss------programming-5) (2026-03-02)
-- [SQL is more than just Queries…](https://medium.com/@nitin.code4coin/sql-is-more-than-just-queries-1712d10f5271?source=rss------programming-5) (2026-03-02)
+- [Where Should Memory Isolation Be Implemented in a vhost-user Architecture?](https://mohamedayman23.medium.com/where-should-memory-isolation-be-implemented-in-a-vhost-user-architecture-d85b845184dd?source=rss------programming-5) (2026-03-02)
+- [SIN #19 | The Sin of Lazy QA: How “It Works on My Machine” Kills Teams](https://innernetworld.medium.com/sin-19-the-sin-of-lazy-qa-how-it-works-on-my-machine-kills-teams-992fab474761?source=rss------programming-5) (2026-03-02)
+- [Proqramlaşdırma Texnologiyaları](https://medium.com/@anarmammadli/proqramla%C5%9Fd%C4%B1rma-texnologiyalar%C4%B1-26564fe91492?source=rss------programming-5) (2026-03-02)
+- [8 Python Algorithms That Changed How I Think About Code](https://blog.stackademic.com/8-python-algorithms-that-changed-how-i-think-about-code-e5bb534b4637?source=rss------programming-5) (2026-03-02)
+- [I Found 5 Python Security Holes in My AI App (And How I Fixed Them)](https://medium.com/@inprogrammer/i-found-5-python-security-holes-in-my-ai-app-and-how-i-fixed-them-4366d9af1bf3?source=rss------programming-5) (2026-03-02)
 
 </details>
 
@@ -504,11 +504,11 @@ https://www.twilio.com/en-us/blog/products/sunsetting-legacy-segment-analytics-l
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slack Feature Drop: Better Connections for Every Kind of Work](https://slack.com/blog/news/feature-drop-feb26) (2026-03-01)
+- [Project Management Software Guide for 2026](https://slack.com/blog/collaboration/project-management-software) (2026-02-27)
 - [The Best Slackbot Prompts for Customer Service Teams](https://slack.com/blog/productivity/slackbot-for-customer-service) (2026-02-26)
 - [Five Essential Communication Channels in the Workplace](https://slack.com/blog/collaboration/communication-channels) (2026-02-23)
 - [Slack Securely Powers Your Third-Party Agents With Your Business Context](https://slack.com/blog/news/mcp-real-time-search-api-now-available) (2026-02-17)
-- [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-02-13)
-- [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-02-13)
 
 </details>
 
