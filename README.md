@@ -31,33 +31,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Evolving descriptive text of mental content from human brain activity](https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts) (2026-03-02)
-- [Computer-generated dream world: Virtual reality for a 286 processor](https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/) (2026-03-02)
-- [How to record and retrieve anything you've ever had to look up twice](https://ellanew.com/2026/03/02/ptpl-197-record-retrieve-from-a-personal-knowledgebase) (2026-03-02)
-- [Everett shuts down Flock camera network after judge rules footage public record](https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae) (2026-03-02)
-- [Show HN: Timber – Ollama for classical ML models, 336x faster than Python](https://github.com/kossisoroyce/timber) (2026-03-02)
+- [Show HN: Web Audio Studio – A Visual Debugger for Web Audio API Graphs](https://webaudio.studio/) (2026-03-02)
+- [Claude Code LSP](https://karanbansal.in/blog/claude-code-lsp/) (2026-03-02)
+- [Microsoft bans the word "Microslop" on its Discord, then locks the server](https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/) (2026-03-02)
+- [Jolla phone – a full-stack European alternative](https://commerce.jolla.com/products/jolla-phone-sept-26) (2026-03-02)
+- [U.S. science agency moves to restrict foreign scientists from its labs](https://www.science.org/content/article/nist-moves-restrict-foreign-scientists-its-labs) (2026-03-02)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Oh great, here comes 6G](https://www.theverge.com/tech/886558/6g-satellite-ai-isac) (2026-03-02)
+- [Tecno’s latest concept phone is lit by neon](https://www.theverge.com/gadgets/886923/tecnos-latest-concept-phone-is-lit-by-neon) (2026-03-02)
+- [Vivo’s next phone will launch with a professional camera rig](https://www.theverge.com/gadgets/887250/vivo-x300-ultra-global-launch-telephoto-camera-cage) (2026-03-02)
+- [Qualcomm’s new chip is geared toward wearable AI gadgets](https://www.theverge.com/tech/886434/qualcomm-snapdragon-wear-elite-wearables) (2026-03-02)
 - [The Motorola Razr Fold is shaping up to be pure flagship](https://www.theverge.com/tech/887249/motorola-razr-fold-specs-camera-silicon-carbon-battery) (2026-03-02)
-- [A robot arm with puppy dog eyes is just one of Lenovo&#8217;s new desktop AI concepts](https://www.theverge.com/tech/885228/lenovo-ai-workmate-companion-work-concept-robot-arm-desktop-clock-hub) (2026-03-01)
-- [The new Yoga 9i 2-in-1 from Lenovo has an angled ‘canvas mode’ for easier note-taking](https://www.theverge.com/tech/885724/lenovo-yoga-9i-2-in-1-angled-canvas-mode) (2026-03-01)
-- [Lenovo’s redesigned ThinkPad Detachable tablet has a bigger screen and legit keyboard](https://www.theverge.com/tech/886134/lenovo-thinkpad-x13-detachable-tablet-t14-t14s-t16-laptops-price-specs) (2026-03-01)
-- [Lenovo made a Framework-like laptop with modular ports — and a second screen](https://www.theverge.com/tech/886814/lenovo-thinkbook-modular-ai-pc-concept-mwc-2026-specs) (2026-03-01)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [AMD will bring its "Ryzen AI" processors to standard desktop PCs for the first time](https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/) (2026-03-02)
 - [The strange animals that control their body heat](https://arstechnica.com/science/2026/03/the-strange-animals-that-control-their-body-heat/) (2026-03-01)
 - [Trump moves to ban Anthropic from the US government](https://arstechnica.com/tech-policy/2026/02/trump-moves-to-ban-anthropic-from-the-us-government/) (2026-02-28)
 - [In puzzling outbreak, officials look to cold beer, gross ice, and ChatGPT](https://arstechnica.com/health/2026/02/did-chatgpt-help-health-officials-solve-a-weird-outbreak-maybe/) (2026-02-28)
 - [Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space](https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/) (2026-02-28)
-- [The Air Force's new ICBM is nearly ready to fly, but there’s nowhere to put it](https://arstechnica.com/space/2026/02/the-air-forces-new-icbm-is-nearly-ready-to-fly-but-theres-nowhere-to-put-them/) (2026-02-28)
 
 </details>
 
@@ -97,22 +97,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Hello World! | Software Engineer](https://dev.to/lumbol77/hello-world-software-engineer-9cg) (2026-03-02)
-- [Developer-focused prompting tricks to use Cursor](https://dev.to/tak089/developer-focused-prompting-tricks-to-use-cursor-5ei) (2026-03-02)
-- [How AI-Native Architecture Enables Autonomous Software Systems](https://dev.to/gofortool/how-ai-native-architecture-enables-autonomous-software-systems-31lo) (2026-03-02)
-- [Pawz Engram biologically-inspired memory architecture for persistent AI agents](https://dev.to/gotham64/pawz-engram-biologically-inspired-memory-architecture-for-persistent-ai-agents-8fn) (2026-03-02)
-- [Designing AI Policy Engines & Constraint Systems in Production GenAI Platforms](https://dev.to/shreekansha97/designing-ai-policy-engines-constraint-systems-in-production-genai-platforms-4iol) (2026-03-02)
+- [Kubernetes'te TimescaleDB Retention Testleri](https://dev.to/tarikanafarta/kuberneteste-timescaledb-retention-testleri-3i8m) (2026-03-02)
+- [I Made a Product Demo Video Entirely with AI](https://dev.to/javieraguilarai/i-made-a-product-demo-video-entirely-with-ai-e6h) (2026-03-02)
+- [Scoring HN discussions by practitioner depth, not popularity](https://dev.to/vnykmshr/scoring-hn-discussions-by-practitioner-depth-not-popularity-41nd) (2026-03-02)
+- [Enhancing devlog-ist/landing Page Layout and Responsiveness](https://dev.to/geanruca/enhancing-devlog-istlanding-page-layout-and-responsiveness-5apn) (2026-03-02)
+- [This CLI Launches Parallel AI Agents. It Didn't Launch on Linux.](https://dev.to/ticktockbent/this-cli-launches-parallel-ai-agents-it-didnt-launch-on-linux-3pdc) (2026-03-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Where Should Memory Isolation Be Implemented in a vhost-user Architecture?](https://mohamedayman23.medium.com/where-should-memory-isolation-be-implemented-in-a-vhost-user-architecture-d85b845184dd?source=rss------programming-5) (2026-03-02)
-- [SIN #19 | The Sin of Lazy QA: How “It Works on My Machine” Kills Teams](https://innernetworld.medium.com/sin-19-the-sin-of-lazy-qa-how-it-works-on-my-machine-kills-teams-992fab474761?source=rss------programming-5) (2026-03-02)
-- [Proqramlaşdırma Texnologiyaları](https://medium.com/@anarmammadli/proqramla%C5%9Fd%C4%B1rma-texnologiyalar%C4%B1-26564fe91492?source=rss------programming-5) (2026-03-02)
-- [8 Python Algorithms That Changed How I Think About Code](https://blog.stackademic.com/8-python-algorithms-that-changed-how-i-think-about-code-e5bb534b4637?source=rss------programming-5) (2026-03-02)
-- [I Found 5 Python Security Holes in My AI App (And How I Fixed Them)](https://medium.com/@inprogrammer/i-found-5-python-security-holes-in-my-ai-app-and-how-i-fixed-them-4366d9af1bf3?source=rss------programming-5) (2026-03-02)
+- [Things in Python That Confuse Beginners (But Are Actually Simple)](https://python.plainenglish.io/things-in-python-that-confuse-beginners-but-are-actually-simple-ad354c8de702?source=rss------programming-5) (2026-03-02)
+- [How GitHub Copilot and ChatGPT Are Reshaping Modern Software Development](https://osintteam.blog/how-github-copilot-and-chatgpt-are-reshaping-modern-software-development-76697952f3e8?source=rss------programming-5) (2026-03-02)
+- [Technical Debt Is Not Debt — It’s an Unhedged Call Option](https://medium.com/@antonellosemeraro/technical-debt-is-not-debt-its-an-unhedged-call-option-b0ea3820cece?source=rss------programming-5) (2026-03-02)
+- [Quantum4U | The Ultimate Mobile App Developers
+We offer customised app development solutions to…](https://medium.com/@kayleeaskew123456/quantum4u-the-ultimate-mobile-app-developers-we-offer-customised-app-development-solutions-to-ed67d1297fd7?source=rss------programming-5) (2026-03-02)
+- [I Quit Node.js and Started Learning Java A Real Developer’s Turning Point](https://medium.com/@praveengaddam319/i-quit-node-js-and-started-learning-java-a-real-developers-turning-point-8988e16add86?source=rss------programming-5) (2026-03-02)
 
 </details>
 
@@ -130,11 +131,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected](http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog) (2026-02-24)
 - [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
 - [Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873) (2026-02-17)
 - [Azure reliability, resiliency, and recoverability: Build continuity by design](https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/) (2026-02-17)
 - [The data behind the design: How Pantone built agentic AI with an AI-ready database](https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/) (2026-02-12)
+- [Agentic cloud operations: A new way to run the cloud](https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/) (2026-02-11)
 
 </details>
 
@@ -306,11 +307,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Best Practices for Secure Error Handling in Go](https://blog.jetbrains.com/go/2026/03/02/secure-go-error-handling-best-practices/) (2026-03-02)
+- [Your First Migration: Moving a Single Project From Jenkins to TeamCity Painlessly](https://blog.jetbrains.com/teamcity/2026/03/first-jenkins-teamcity-migration/) (2026-03-02)
 - [Introducing TeamCity’s New Design, Phase II: Creation Flow](https://blog.jetbrains.com/teamcity/2026/02/introducing-teamcitys-new-design-phase-2/) (2026-02-26)
 - [15 Things To Do Before, During, and After KotlinConf’26](https://blog.jetbrains.com/kotlin/2026/02/15-things-to-do-before-during-and-after-kotlinconf-26/) (2026-02-26)
 - [Toolbox App 3.3: Introducing jetbrainsd, an Improved Linux Experience, and More](https://blog.jetbrains.com/toolbox-app/2026/02/toolbox-app-3-3-introducing-jetbrainsd-an-improved-linux-experience-and-more/) (2026-02-26)
-- [Migrating to Modular Monolith using Spring Modulith and IntelliJ IDEA](https://blog.jetbrains.com/idea/2026/02/migrating-to-modular-monolith-using-spring-modulith-and-intellij-idea/) (2026-02-25)
-- [Building LLM-Friendly MCP Tools in RubyMine: Pagination, Filtering, and Error Design](https://blog.jetbrains.com/ruby/2026/02/rubymine-mcp-and-the-rails-toolset/) (2026-02-25)
 
 </details>
 
@@ -504,11 +505,11 @@ https://www.twilio.com/en-us/blog/products/sunsetting-legacy-segment-analytics-l
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack Feature Drop: Better Connections for Every Kind of Work](https://slack.com/blog/news/feature-drop-feb26) (2026-03-01)
-- [Project Management Software Guide for 2026](https://slack.com/blog/collaboration/project-management-software) (2026-02-27)
 - [The Best Slackbot Prompts for Customer Service Teams](https://slack.com/blog/productivity/slackbot-for-customer-service) (2026-02-26)
 - [Five Essential Communication Channels in the Workplace](https://slack.com/blog/collaboration/communication-channels) (2026-02-23)
 - [Slack Securely Powers Your Third-Party Agents With Your Business Context](https://slack.com/blog/news/mcp-real-time-search-api-now-available) (2026-02-17)
+- [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-02-13)
+- [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-02-13)
 
 </details>
 
@@ -559,11 +560,11 @@ https://www.twilio.com/en-us/blog/products/sunsetting-legacy-segment-analytics-l
 <details>
 <summary>🤖 AI News</summary>
 
+- [MWC 2026: SK Telecom lays out plan to rebuild its core around AI](https://www.artificialintelligence-news.com/news/mwc-2026-sk-telecom-lays-out-plan-to-rebuild-its-core-around-ai/) (2026-03-02)
+- [AI adoption in financial services has hit a point of no return](https://www.artificialintelligence-news.com/news/ai-adoption-in-financial-services/) (2026-03-02)
 - [Upgrading agentic AI for finance workflows](https://www.artificialintelligence-news.com/news/upgrading-agentic-ai-for-finance-workflows/) (2026-02-27)
 - [Poor implementation of AI may be behind workforce reduction](https://www.artificialintelligence-news.com/news/ai-workflows-need-human-in-the-loop-say-datatonic/) (2026-02-27)
 - [Goldman Sachs and Deutsche Bank test agentic AI for trade surveillance](https://www.artificialintelligence-news.com/news/goldman-sachs-and-deutsche-bank-test-agentic-ai-for-trade-surveillance/) (2026-02-27)
-- [ASML’s high-NA EUV tools clear the runway for next-gen AI chips](https://www.artificialintelligence-news.com/news/asml-high-na-euv-production-ready-ai-chips/) (2026-02-27)
-- [Nokia and AWS pilot AI automation for real-time 5G network slicing](https://www.artificialintelligence-news.com/news/nokia-and-aws-pilot-ai-automation-for-real-time-5g-network-slicing/) (2026-02-25)
 
 </details>
 
@@ -581,11 +582,11 @@ https://www.twilio.com/en-us/blog/products/sunsetting-legacy-segment-analytics-l
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Building a RAG API with FastAPI](https://www.analyticsvidhya.com/blog/2026/03/building-a-rag-api-with-fastapi/) (2026-03-02)
 - [Deterministic vs Stochastic – Machine Learning Fundamentals](https://www.analyticsvidhya.com/blog/2026/03/deterministic-vs-stochastic/) (2026-03-01)
 - [Grow your LinkedIn Scarily Fast (For Data Scientists) with This AI Workflow](https://www.analyticsvidhya.com/blog/2026/03/data-scientists-grow-your-linkedin-fast-ai-workflow/) (2026-03-01)
 - [Perplexity Computer is Here to Change the Way we Use AI](https://www.analyticsvidhya.com/blog/2026/02/perplexity-computer-is-here-to-change-the-way-we-use-ai/) (2026-02-28)
 - [Nano Banana 2 vs Nano Banana Pro: What’s the Difference?](https://www.analyticsvidhya.com/blog/2026/02/nano-banana-2-vs-nano-banana-pro/) (2026-02-28)
-- [Mercury 2: The AI Model That Feels Instant](https://www.analyticsvidhya.com/blog/2026/02/mercury-2-the-ai-model-that-feels-instant/) (2026-02-27)
 
 </details>
 
