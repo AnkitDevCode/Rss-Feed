@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Polymarket saw $529M traded on bets tied to bombing of Iran](https://techcrunch.com/2026/03/01/polymarket-saw-529m-traded-on-bets-tied-to-bombing-of-iran/) (2026-03-01)
+- [Let’s explore the best alternatives to Discord](https://techcrunch.com/2026/03/01/best-discord-alternatives-age-verification-identity-privacy/) (2026-03-01)
 - [Google looks to tackle longstanding RCS spam in India — but not alone](https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/) (2026-03-01)
 - [Investors spill what they aren’t looking for anymore in AI SaaS companies](https://techcrunch.com/2026/03/01/investors-spill-what-they-arent-looking-for-anymore-in-ai-saas-companies/) (2026-03-01)
 - [OpenAI reveals more details about its agreement with the Pentagon](https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/) (2026-03-01)
-- [Honor says its ‘Robot phone’ with moving camera can dance to music](https://techcrunch.com/2026/03/01/honor-says-its-robot-phone-with-moving-camera-can-dance-to-music/) (2026-03-01)
-- [Honor launches its new slim foldable Magic V6 with a 6,600 mAh battery](https://techcrunch.com/2026/03/01/honor-launches-its-new-slim-foldable-magic-v6-with-a-6600-mah-battery/) (2026-03-01)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [6 Practices that turned AI from prototyper to workhorse (106 PRs in 14 days)](https://news.ycombinator.com/item?id=47208471) (2026-03-01)
-- [I Built a Scheme Compiler with AI in 4 Days](https://matthewphillips.info/programming/posts/i-built-a-scheme-compiler-with-ai/) (2026-03-01)
-- [When does MCP make sense vs CLI?](https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html) (2026-03-01)
-- [Show HN: Audio Toolkit for Agents](https://github.com/shiehn/sas-audio-processor) (2026-03-01)
-- [Lil' Fun Langs' Guts](https://taylor.town/scrapscript-001) (2026-03-01)
+- [Allegations of insider trading over prediction-market bets tied to Iran conflict](https://www.morningstar.com/news/marketwatch/20260301140/allegations-of-insider-trading-over-prediction-market-bets-tied-to-iran-conflict) (2026-03-01)
+- [Little Free Library Books](https://littlefreelibrary.org/) (2026-03-01)
+- [WebMCP is available for early preview](https://developer.chrome.com/blog/webmcp-epp) (2026-03-01)
+- [South Korean Police Lose Seized Crypto by Posting Password Online](https://gizmodo.com/south-korean-police-lose-seized-crypto-by-posting-password-online-2000728191) (2026-03-01)
+- [Are the Mysteries of Quantum Mechanics Beginning to Dissolve?](https://www.quantamagazine.org/are-the-mysteries-of-quantum-mechanics-beginning-to-dissolve-20260213/) (2026-03-01)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Kalshi voids some bets on Khamenei’s ouster because it’s ‘directly tied to death’](https://www.theverge.com/tech/887210/kalshi-void-bets-khamenei-death) (2026-03-01)
-- [Lego’s Smart Brick is here, and it transforms these new Star Wars sets](https://www.theverge.com/gadgets/886014/lego-smart-brick-star-wars-set-price-availability-release-date-buy) (2026-03-01)
-- [Soundcore’s Space 2 are an evolution of its budget headphones](https://www.theverge.com/tech/886180/soundcore-space-2-announcement-mwc-2026) (2026-03-01)
-- [Honor claims its Robot Phone will launch later this year](https://www.theverge.com/gadgets/887140/honor-robot-phone-mwc-release-date-specs) (2026-03-01)
-- [Resident Evil Requiem leans too much on the series’ past](https://www.theverge.com/games/885811/resident-evil-requiem-grace-leon-nostalgia-ending) (2026-03-01)
+- [A robot arm with puppy dog eyes is just one of Lenovo&#8217;s new desktop AI concepts](https://www.theverge.com/tech/885228/lenovo-ai-workmate-companion-work-concept-robot-arm-desktop-clock-hub) (2026-03-01)
+- [The new Yoga 9i 2-in-1 from Lenovo has an angled ‘canvas mode’ for easier note-taking](https://www.theverge.com/tech/885724/lenovo-yoga-9i-2-in-1-angled-canvas-mode) (2026-03-01)
+- [Lenovo’s redesigned ThinkPad Detachable tablet has a bigger screen and legit keyboard](https://www.theverge.com/tech/886134/lenovo-thinkpad-x13-detachable-tablet-t14-t14s-t16-laptops-price-specs) (2026-03-01)
+- [Lenovo made a Framework-like laptop with modular ports — and a second screen](https://www.theverge.com/tech/886814/lenovo-thinkbook-modular-ai-pc-concept-mwc-2026-specs) (2026-03-01)
+- [This Windows gaming handheld has a screen that folds in half](https://www.theverge.com/tech/886848/lenovo-legion-go-fold-concept-windows-foldable-pc-gaming-handheld) (2026-03-01)
 
 </details>
 
@@ -97,23 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [InvariantSplit: Formal Invariants and Deterministic Settlement in a Weekend-Built EVM Primitive](https://dev.to/doomhammerhell/invariantsplit-formal-invariants-and-deterministic-settlement-in-a-weekend-built-evm-primitive-4cjj) (2026-03-01)
-- [MicroGPT: The Lightweight AI Agent Explained](https://dev.to/onsen/microgpt-the-lightweight-ai-agent-explained-2mj5) (2026-03-01)
-- [Serverless Cold Starts: Understanding and Mitigating](https://dev.to/matt_frank_usa/serverless-cold-starts-understanding-and-mitigating-4bl) (2026-03-01)
-- [What I Learned After 72 Hours as an Autonomous AI Agent on the Internet](https://dev.to/colony0ai/what-i-learned-after-72-hours-as-an-autonomous-ai-agent-on-the-internet-36jo) (2026-03-01)
-- [I Built a Real-Time AI Interview Coach Using Vision Agents — Here's How](https://dev.to/skfaizan786/i-built-a-real-time-ai-interview-coach-using-vision-agents-heres-how-50k9) (2026-03-01)
+- [Android WorkManager Guide — Background Task Scheduling](https://dev.to/myougatheaxo/android-workmanager-guide-background-task-scheduling-1332) (2026-03-02)
+- [Kotlin Generics — Type Parameters, Variance & Reified Types](https://dev.to/myougatheaxo/kotlin-generics-type-parameters-variance-reified-types-lga) (2026-03-02)
+- [EcoKids Hub: Building a Greener Future by Educating Young Minds](https://dev.to/rushikesh_yogeshgaikwad_/ecokids-hub-building-a-greener-future-by-educating-young-minds-59eg) (2026-03-02)
+- [WebMCP is available for early preview](https://dev.to/guy_d/webmcp-is-available-for-early-preview-4gm4) (2026-03-02)
+- [Compose ↔ View Interop — AndroidView and ComposeView](https://dev.to/myougatheaxo/compose-view-interop-androidview-and-composeview-3792) (2026-03-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Java 26 Is Coming: Here’s Why Applets’ End Might Be Yesterday’s News](https://medium.com/@martinastaberger/java-26-is-coming-heres-why-applets-end-might-be-yesterday-s-news-be607515da7e?source=rss------programming-5) (2026-03-01)
-- [Dev Jobs Are Up 10%?! The AI “Job Apocalypse” Was a Massive Lie.](https://medium.com/@premchandak_11/dev-jobs-are-up-10-the-ai-job-apocalypse-was-a-massive-lie-9f0219b590e4?source=rss------programming-5) (2026-03-01)
-- [Rust’s Edge: Why Even After Half a Decade, These Flaws Sting ](https://medium.com/@geragaming0212/rusts-edge-why-even-after-half-a-decade-these-flaws-sting-64ba9600fcf2?source=rss------programming-5) (2026-03-01)
-- [RHAPSODY OF REALITIES - 1ST MARCH 2026
-"You’re not a wanderer in life; you’re a divine envoy.](https://medium.com/@folajeff/rhapsody-of-realities-1st-march-2026-youre-not-a-wanderer-in-life-you-re-a-divine-envoy-c7df62cc7339?source=rss------programming-5) (2026-03-01)
-- [The “Shared Brain” Method: How to Stop Cursor and Claude from Ruining Your Codebase](https://anilkalm.medium.com/how-to-fix-ai-amnesia-cursor-claude-8018bca692c7?source=rss------programming-5) (2026-03-01)
+- [English App #1X00: How I Built My Own “Listen & Speak” Practice Environment (Preparation)](https://medium.com/my-activity-diaries/english-app-1x00-how-i-built-my-own-listen-speak-practice-environment-preparation-422ba4c8ceac?source=rss------programming-5) (2026-03-02)
+- [Instructions, Agents and Skills](https://itnext.io/instructions-agents-and-skills-9f3179e5a9f8?source=rss------programming-5) (2026-03-02)
+- [Beyond the Hype: Why Sanity Is Building Infrastructure, Not Illusions](https://medium.com/@matsafo/beyond-the-hype-why-sanity-is-building-infrastructure-not-illusions-118f06736d09?source=rss------programming-5) (2026-03-02)
+- [From HTML Form to Full-Stack App: Angular Frontend + Node.js API](https://medium.com/@shubhamnalawade037/from-html-form-to-full-stack-app-angular-frontend-node-js-api-c68708361ab3?source=rss------programming-5) (2026-03-02)
+- [SQL is more than just Queries…](https://medium.com/@nitin.code4coin/sql-is-more-than-just-queries-1712d10f5271?source=rss------programming-5) (2026-03-02)
 
 </details>
 
@@ -131,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected](http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog) (2026-02-24)
 - [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
 - [Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873) (2026-02-17)
 - [Azure reliability, resiliency, and recoverability: Build continuity by design](https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/) (2026-02-17)
 - [The data behind the design: How Pantone built agentic AI with an AI-ready database](https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/) (2026-02-12)
-- [Agentic cloud operations: A new way to run the cloud](https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/) (2026-02-11)
 
 </details>
 
@@ -582,11 +581,11 @@ https://www.twilio.com/en-us/blog/products/sunsetting-legacy-segment-analytics-l
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Deterministic vs Stochastic – Machine Learning Fundamentals](https://www.analyticsvidhya.com/blog/2026/03/deterministic-vs-stochastic/) (2026-03-01)
 - [Grow your LinkedIn Scarily Fast (For Data Scientists) with This AI Workflow](https://www.analyticsvidhya.com/blog/2026/03/data-scientists-grow-your-linkedin-fast-ai-workflow/) (2026-03-01)
 - [Perplexity Computer is Here to Change the Way we Use AI](https://www.analyticsvidhya.com/blog/2026/02/perplexity-computer-is-here-to-change-the-way-we-use-ai/) (2026-02-28)
 - [Nano Banana 2 vs Nano Banana Pro: What’s the Difference?](https://www.analyticsvidhya.com/blog/2026/02/nano-banana-2-vs-nano-banana-pro/) (2026-02-28)
 - [Mercury 2: The AI Model That Feels Instant](https://www.analyticsvidhya.com/blog/2026/02/mercury-2-the-ai-model-that-feels-instant/) (2026-02-27)
-- [Google Launches Nano Banana 2: Learn All About It!](https://www.analyticsvidhya.com/blog/2026/02/google-launches-nano-banana-2/) (2026-02-27)
 
 </details>
 
