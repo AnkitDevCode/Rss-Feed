@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Paramount+ and HBO Max to merge into one streaming service after WBD deal closes](https://techcrunch.com/2026/03/02/paramount-and-hbo-max-to-merge-into-one-streaming-service-after-wbd-deal-closes/) (2026-03-02)
-- [Tech workers urge DOD, Congress to withdraw Anthropic label as a supply chain risk](https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/) (2026-03-02)
-- [X adds ‘Paid Partnership’ labels so creators can ditch the hashtags](https://techcrunch.com/2026/03/02/x-ads-paid-partnership-labels-for-creators-so-they-can-ditch-the-hashtags/) (2026-03-02)
-- [Hacktivists claim to have hacked Homeland Security to release ICE contract data](https://techcrunch.com/2026/03/02/hacktivists-claim-to-have-hacked-homeland-security-to-release-ice-contract-data/) (2026-03-02)
-- [A married founder duo’s company, 14.ai, is replacing customer support teams at startups](https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/) (2026-03-02)
+- [India’s Pronto formalizes house help as its valuation jumps 8× in under a year](https://techcrunch.com/2026/03/02/indias-pronto-formalizes-house-help-as-its-valuation-jumps-8x-in-under-a-year/) (2026-03-03)
+- [ChatGPT uninstalls surged by 295% after DoD deal](https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/) (2026-03-03)
+- [Stripe wants to turn your AI costs into a profit center](https://techcrunch.com/2026/03/02/stripe-wants-to-turn-your-ai-costs-into-a-profit-center/) (2026-03-02)
+- [Geopolitical drama reportedly stalls IPO of SoftBank-backed PayPay](https://techcrunch.com/2026/03/02/geopolitical-drama-reportedly-stalls-ipo-of-softbank-backed-paypay/) (2026-03-02)
+- [No one has a good plan for how AI companies should work with the government](https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/) (2026-03-02)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Apple AI servers unused in warehouses due to low Apple Intelligence usage](https://9to5mac.com/2026/03/02/some-apple-ai-servers-are-reportedly-sitting-unused-on-warehouse-shelves-due-to-low-apple-intelligence-usage/) (2026-03-02)
-- [Show HN: Govbase – Follow a bill from source text to news bias to social posts](https://govbase.com) (2026-03-02)
-- [Reflex (YC W23) Is Hiring Software Engineers – Python](https://www.ycombinator.com/companies/reflex/jobs) (2026-03-02)
-- [Launch HN: OctaPulse (YC W26) – Robotics and computer vision for fish farming](https://news.ycombinator.com/item?id=47220320) (2026-03-02)
-- [Packaging a Gleam app into a single executable](https://www.dhzdhd.dev/blog/gleam-executable) (2026-03-02)
+- [Show HN: PHP 8 disable_functions bypass PoC](https://github.com/m0x41nos/TimeAfterFree) (2026-03-03)
+- [How to Build Your Own Quantum Computer](https://physics.aps.org/articles/v19/24) (2026-03-02)
+- [Closure of the Weatheradio Service in Canada](https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/) (2026-03-02)
+- [Seed of Might Color Correction Process (2023) [pdf]](https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf) (2026-03-02)
+- [The workers behind Meta's smart glasses can see everything](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything) (2026-03-02)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Donut Lab’s solid-state battery can handle the (extreme) heat, test says](https://www.theverge.com/transportation/887552/donut-lab-solid-state-battery-extreme-heat-test) (2026-03-02)
-- [Supreme Court won’t hear AI-generated art copyright case](https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright) (2026-03-02)
-- [Here&#8217;s the upgrade to my favorite phone camera of last year](https://www.theverge.com/gadgets/887250/vivo-x300-ultra-global-launch-telephoto-camera-cage) (2026-03-02)
-- [Nvidia&#8217;s spending $4 billion on photonics to stay ahead of the curve in AI](https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent) (2026-03-02)
-- [The Analogue Pocket will be back in stock and slightly more expensive](https://www.theverge.com/tech/887599/analogue-pocket-restock-tariffs-available) (2026-03-02)
+- [Anthropic upgrades Claude’s memory to attract AI switchers](https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing) (2026-03-02)
+- [Apple’s cheapest AirPods have hit $89](https://www.theverge.com/gadgets/887839/apple-airpods-4-active-noise-cancellation-deal-sale) (2026-03-02)
+- [How the new iPhone 17E stacks up against Apple’s pricier phones](https://www.theverge.com/gadgets/887570/iphone-17e-vs-17-pro-max-air-spec-comparison-price-features) (2026-03-02)
+- [Apple might use Google servers to store data for its upgraded AI Siri](https://www.theverge.com/tech/887802/apple-ai-siri-google-servers) (2026-03-02)
+- [Mastodon now has a button for sharing content from other websites](https://www.theverge.com/tech/887791/mastodon-official-share-button-widget) (2026-03-02)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Clueless cops post seized crypto wallet password. $5M quickly stolen.](https://arstechnica.com/tech-policy/2026/03/oops-south-korean-cops-lost-5m-in-seized-crypto-after-leaking-wallet-password/) (2026-03-02)
+- [Charter gets FCC permission to buy Cox and become largest ISP in the US](https://arstechnica.com/tech-policy/2026/03/fcc-lets-charter-buy-cox-says-no-reason-to-worry-about-higher-internet-prices/) (2026-03-02)
 - [Iowa county adopts strict zoning rules for data centers, but residents still worry](https://arstechnica.com/ai/2026/03/iowa-county-adopts-strict-zoning-rules-for-data-centers-but-residents-still-worry/) (2026-03-02)
 - [$599 M4 iPad Air is a lot like the old one, but with a substantial RAM boost](https://arstechnica.com/gadgets/2026/03/apple-keeps-the-ipad-air-fresh-with-m4-chip-upgrade-and-12gb-of-ram/) (2026-03-02)
 - [Research roundup: Six cool science stories we almost missed](https://arstechnica.com/science/2026/03/research-roundup-six-cool-science-stories-we-almost-missed/) (2026-03-02)
-- [Apple's new iPhone 17e has an A19 chip, MagSafe, and 256GB of storage for $599](https://arstechnica.com/gadgets/2026/03/apples-new-iphone-17e-has-an-a19-chip-magsafe-and-256gb-of-storage-for-599/) (2026-03-02)
-- [It's almost a station wagon: The 2026 Subaru Trailseeker, driven](https://arstechnica.com/cars/2026/03/2026-subaru-trailseeker-first-drive-the-most-quintessentially-subaru-ev-yet/) (2026-03-02)
 
 </details>
 
@@ -66,7 +66,7 @@
 
 - [OpenAI’s “compromise” with the Pentagon is what Anthropic feared](https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/) (2026-03-02)
 - [The Download: protesting AI, and what’s floating in space](https://www.technologyreview.com/2026/03/02/1133811/the-download-protesting-ai-and-whats-floating-in-space/) (2026-03-02)
-- [I checked out one of the biggest anti-AI protests ever](https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/) (2026-03-02)
+- [I checked out one of the biggest anti-AI protests yet](https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/) (2026-03-02)
 - [MIT Technology Review is a 2026 ASME finalist in reporting](https://www.technologyreview.com/2026/02/27/1133769/asme-finalist-reporting/) (2026-02-27)
 - [The Download: how AI is shaking up Go, and a cybersecurity mystery](https://www.technologyreview.com/2026/02/27/1133754/the-download-how-ai-is-shaking-up-go-and-a-cybersecurity-mystery/) (2026-02-27)
 
@@ -97,47 +97,44 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Meme Monday](https://dev.to/raddevus/meme-monday-5d21) (2026-03-02)
-- [What Google Actually Sees on Your JavaScript Site (And Why It Might Surprise You)](https://dev.to/jsvisible/what-google-actually-sees-on-your-javascript-site-and-why-it-might-surprise-you-j5c) (2026-03-02)
-- [Setting up local Codeberg runners](https://dev.to/tkuenneth/setting-up-local-codeberg-runners-4eif) (2026-03-02)
-- [Everyone Who Solves Problems Is an Engineer](https://dev.to/minatoplanb/everyone-who-solves-problems-is-an-engineer-2b58) (2026-03-02)
-- [The Difference Between a Good Vibe Coder and a Lazy One](https://dev.to/minatoplanb/the-difference-between-a-good-vibe-coder-and-a-lazy-one-3826) (2026-03-02)
+- [Install Docker CE on WSL2 Without Docker Desktop](https://dev.to/recca0120/install-docker-ce-on-wsl2-without-docker-desktop-j1m) (2026-03-03)
+- [How to Install Windows 10 on AWS EC2 via VM Import](https://dev.to/recca0120/how-to-install-windows-10-on-aws-ec2-via-vm-import-3i4e) (2026-03-03)
+- [Get a Free VMware Fusion Player Personal License](https://dev.to/recca0120/get-a-free-vmware-fusion-player-personal-license-360b) (2026-03-03)
+- [msw-fetch-mock: Undici-Style Fetch Mocking for MSW](https://dev.to/recca0120/msw-fetch-mock-undici-style-fetch-mocking-for-msw-5e2j) (2026-03-03)
+- [Write Deterministic PHPUnit Assertions with Mockery::capture](https://dev.to/recca0120/write-deterministic-phpunit-assertions-with-mockerycapture-2de5) (2026-03-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [برنامج إدارة اشتراكات
-Title: برنامج إدارة الاشتراكات الشهرية
-Article:
-FiberBills هو برنامج احترافي…](https://medium.com/@Fiberbills/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83%D8%A7%D8%AA-title-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D9%87%D8%B1%D9%8A%D8%A9-article-fiberbills-%D9%87%D9%88-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81%D9%8A-5d0b226ab30c?source=rss------programming-5) (2026-03-02)
-- [Qwen 3.5 Small Model Series released](https://medium.com/data-science-in-your-pocket/qwen-3-5-small-model-series-released-7a5ed34fcbb3?source=rss------programming-5) (2026-03-02)
-- [Designing Safe Task Lifetimes in Swift Concurrency](https://medium.com/@nimjea/designing-safe-task-lifetimes-in-swift-concurrency-7d5d9cd58360?source=rss------programming-5) (2026-03-02)
-- [I Replaced React with HTMX. My Team’s Velocity Tripled.](https://medium.com/@rameshkannanyt0078/i-replaced-react-with-htmx-my-teams-velocity-tripled-dd09dc3af42f?source=rss------programming-5) (2026-03-02)
-- [Вайбкодинг в ML жив! Или это был сон…](https://medium.com/@basovmark/%D0%B2%D0%B0%D0%B9%D0%B1%D0%BA%D0%BE%D0%B4%D0%B8%D0%BD%D0%B3-%D0%B2-ml-%D0%B6%D0%B8%D0%B2-%D0%B8%D0%BB%D0%B8-%D1%8D%D1%82%D0%BE-%D0%B1%D1%8B%D0%BB-%D1%81%D0%BE%D0%BD-2c194876659c?source=rss------programming-5) (2026-03-02)
+- [Handling 100K+ Lines of Code in VS Code Like a Pro](https://medium.com/illumination/handling-100k-lines-of-code-in-vs-code-like-a-pro-304aff3aaabd?source=rss------programming-5) (2026-03-03)
+- [You’re Using ViewModel. But Can You Explain Why?Android State Management, Unmasked.](https://medium.com/@alaxhenry0121/youre-using-viewmodel-but-can-you-explain-why-android-state-management-unmasked-c043db58ed8d?source=rss------programming-5) (2026-03-03)
+- [Stop Winging It: iOS State Management Strategies Interviewers Actually Ask About](https://medium.com/@alaxhenry0121/stop-winging-it-ios-state-management-strategies-interviewers-actually-ask-about-74f3ad185a50?source=rss------programming-5) (2026-03-03)
+- [주말 아침 — 주간 닷넷 #17 (2026.03.01)](https://blog.dotnetdev.kr/%EC%A3%BC%EB%A7%90-%EC%95%84%EC%B9%A8-%EC%A3%BC%EA%B0%84-%EB%8B%B7%EB%84%B7-17-2026-03-01-f8cc03b181cf?source=rss------programming-5) (2026-03-03)
+- [Retries Are a Smell](https://medium.com/@arbopa/retries-are-a-smell-62d0c1107452?source=rss------programming-5) (2026-03-03)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [AWS Weekly Roundup: OpenAI partnership, AWS Elemental Inference, Strands Labs, and more (March 2, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-partnership-aws-elemental-inference-strands-labs-and-more-march-2-2026/) (2026-03-02)
 - [AWS Security Hub Extended offers full-stack enterprise security with curated partner solutions](https://aws.amazon.com/blogs/aws/aws-security-hub-extended-offers-full-stack-enterprise-security-with-curated-partner-solutions/) (2026-02-26)
 - [Transform live video for mobile audiences with AWS Elemental Inference](https://aws.amazon.com/blogs/aws/transform-live-video-for-mobile-audiences-with-aws-elemental-inference/) (2026-02-24)
 - [AWS Weekly Roundup: Claude Sonnet 4.6 in Amazon Bedrock, Kiro in GovCloud Regions, new Agent Plugins, and more (February 23, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-4-6-in-amazon-bedrock-kiro-in-govcloud-regions-new-agent-plugins-and-more-february-23-2026/) (2026-02-23)
 - [Amazon EC2 Hpc8a Instances powered by 5th Gen AMD EPYC processors are now available](https://aws.amazon.com/blogs/aws/amazon-ec2-hpc8a-instances-powered-by-5th-gen-amd-epyc-processors-are-now-available/) (2026-02-16)
-- [Announcing Amazon SageMaker Inference for custom Amazon Nova models](https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-inference-for-custom-amazon-nova-models/) (2026-02-16)
 
 </details>
 
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected](http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog) (2026-02-24)
 - [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
 - [Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873) (2026-02-17)
 - [Azure reliability, resiliency, and recoverability: Build continuity by design](https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/) (2026-02-17)
 - [The data behind the design: How Pantone built agentic AI with an AI-ready database](https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/) (2026-02-12)
-- [Agentic cloud operations: A new way to run the cloud](https://azure.microsoft.com/en-us/blog/agentic-cloud-operations-a-new-way-to-run-the-cloud/) (2026-02-11)
 
 </details>
 
@@ -254,11 +251,11 @@ FiberBills هو برنامج احترافي…](https://medium.com/@Fiberbills/%
 <details>
 <summary>👥 Facebook Engineering</summary>
 
+- [FFmpeg at Meta: Media Processing at Scale](https://engineering.fb.com/2026/03/02/video-engineering/ffmpeg-at-meta-media-processing-at-scale/) (2026-03-02)
 - [Investing in Infrastructure: Meta’s Renewed Commitment to jemalloc](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/) (2026-03-02)
 - [RCCLX: Innovating GPU Communications on AMD Platforms](https://engineering.fb.com/2026/02/24/data-center-engineering/rrcclx-innovating-gpu-communications-amd-platforms-meta/) (2026-02-24)
 - [The Death of Traditional Testing: Agentic Development Broke a 50-Year-Old Field, JiTTesting Can Revive It](https://engineering.fb.com/2026/02/11/developer-tools/the-death-of-traditional-testing-agentic-development-jit-testing-revival/) (2026-02-11)
 - [Building Prometheus: How Backend Aggregation Enables Gigawatt-Scale AI Clusters](https://engineering.fb.com/2026/02/09/data-center-engineering/building-prometheus-how-backend-aggregation-enables-gigawatt-scale-ai-clusters/) (2026-02-09)
-- [No Display? No Problem: Cross-Device Passkey Authentication for XR Devices](https://engineering.fb.com/2026/02/04/security/cross-device-passkey-authentication-for-xr-devices-meta-quest/) (2026-02-04)
 
 </details>
 
@@ -572,11 +569,11 @@ https://www.twilio.com/en-us/blog/products/sunsetting-legacy-segment-analytics-l
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [YOLOv3 Paper Walkthrough: Even Better, But Not That Much](https://towardsdatascience.com/yolov3-paper-walkthrough-even-better-but-not-that-much/) (2026-03-02)
+- [The Machine Learning Lessons I’ve Learned This Month](https://towardsdatascience.com/the-machine-learning-lessons-ive-learned-this-month-4/) (2026-03-02)
+- [Code Less, Ship Faster: Building APIs with FastAPI](https://towardsdatascience.com/code-less-ship-faster-building-apis-with-fastapi/) (2026-03-02)
 - [Exciting Changes Are Coming to the TDS Author Payment Program](https://towardsdatascience.com/exciting-changes-are-coming-to-the-tds-author-payment-program/) (2026-03-02)
 - [Zero-Waste Agentic RAG: Designing Caching Architectures to Minimize Latency and LLM Costs at Scale](https://towardsdatascience.com/zero-waste-agentic-rag-designing-caching-architectures-to-minimize-latency-and-llm-costs-at-scale/) (2026-03-01)
-- [Context Engineering as Your Competitive Edge](https://towardsdatascience.com/context-engineering-as-your-competitive-edge/) (2026-03-01)
-- [Claude Skills and Subagents: Escaping the Prompt Engineering Hamster Wheel](https://towardsdatascience.com/claude-skills-and-subagents-escaping-the-prompt-engineering-hamster-wheel/) (2026-02-28)
-- [Scaling ML Inference on Databricks: Liquid or Partitioned? Salted or Not?](https://towardsdatascience.com/liquid-or-partitioned-salted-or-not-scaling-ml-inference-on-databricks/) (2026-02-28)
 
 </details>
 
