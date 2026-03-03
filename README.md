@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [India’s Pronto formalizes house help as its valuation jumps 8× in under a year](https://techcrunch.com/2026/03/02/indias-pronto-formalizes-house-help-as-its-valuation-jumps-8x-in-under-a-year/) (2026-03-03)
+- [Cursor has reportedly surpassed $2B in annualized revenue](https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue/) (2026-03-03)
+- [India’s Pronto formalizes house help as its valuation jumps 8x in under a year](https://techcrunch.com/2026/03/02/indias-pronto-formalizes-house-help-as-its-valuation-jumps-8x-in-under-a-year/) (2026-03-03)
 - [ChatGPT uninstalls surged by 295% after DoD deal](https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/) (2026-03-03)
 - [Stripe wants to turn your AI costs into a profit center](https://techcrunch.com/2026/03/02/stripe-wants-to-turn-your-ai-costs-into-a-profit-center/) (2026-03-02)
 - [Geopolitical drama reportedly stalls IPO of SoftBank-backed PayPay](https://techcrunch.com/2026/03/02/geopolitical-drama-reportedly-stalls-ipo-of-softbank-backed-paypay/) (2026-03-02)
-- [No one has a good plan for how AI companies should work with the government](https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/) (2026-03-02)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: PHP 8 disable_functions bypass PoC](https://github.com/m0x41nos/TimeAfterFree) (2026-03-03)
-- [How to Build Your Own Quantum Computer](https://physics.aps.org/articles/v19/24) (2026-03-02)
-- [Closure of the Weatheradio Service in Canada](https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/) (2026-03-02)
-- [Seed of Might Color Correction Process (2023) [pdf]](https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf) (2026-03-02)
-- [The workers behind Meta's smart glasses can see everything](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything) (2026-03-02)
+- [Buckle Up for Bumpier Skies](https://www.newyorker.com/magazine/2026/03/09/buckle-up-for-bumpier-skies) (2026-03-03)
+- [Daily Driving GrapheneOS](https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/) (2026-03-03)
+- [Intent-Based Commits](https://github.com/adamveld12/ghost) (2026-03-03)
+- [The Excommunicated Devs Making Games with AI](https://www.tyleo.com/blog/the-excommunicated-devs-making-games-with-ai) (2026-03-03)
+- [Ars Technica fires reporter after AI controversy involving fabricated quotes](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes) (2026-03-03)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Install Docker CE on WSL2 Without Docker Desktop](https://dev.to/recca0120/install-docker-ce-on-wsl2-without-docker-desktop-j1m) (2026-03-03)
-- [How to Install Windows 10 on AWS EC2 via VM Import](https://dev.to/recca0120/how-to-install-windows-10-on-aws-ec2-via-vm-import-3i4e) (2026-03-03)
-- [Get a Free VMware Fusion Player Personal License](https://dev.to/recca0120/get-a-free-vmware-fusion-player-personal-license-360b) (2026-03-03)
-- [msw-fetch-mock: Undici-Style Fetch Mocking for MSW](https://dev.to/recca0120/msw-fetch-mock-undici-style-fetch-mocking-for-msw-5e2j) (2026-03-03)
-- [Write Deterministic PHPUnit Assertions with Mockery::capture](https://dev.to/recca0120/write-deterministic-phpunit-assertions-with-mockerycapture-2de5) (2026-03-03)
+- [Ch 3: Creating a Postgres Database with Aiven](https://dev.to/essym_19/creating-a-postgres-database-with-aiven-4cpg) (2026-03-03)
+- [Your AI Reads Your Docstrings. Are They Right?](https://dev.to/albertocodes/your-ai-reads-your-docstrings-are-they-right-2g89) (2026-03-03)
+- [A Practical Guide to Securing Azure Storage Accounts in Dev/Test (With Real-World Context)](https://dev.to/buildwithbabs/a-practical-guide-to-securing-azure-storage-accounts-in-devtest-with-real-world-context-3a92) (2026-03-03)
+- [From Deadlocks to Green Streaks: Building an AI Greenhouse with Gemini in 36 Hours](https://dev.to/jowi00000/from-deadlocks-to-green-streaks-building-an-ai-greenhouse-with-gemini-in-36-hours-15gf) (2026-03-03)
+- [Niyə hələ də Linux işlətmirik, ya da işlədə bilmirik?](https://dev.to/jalilabdulla/niy-hl-d-linux-isltmirik-ya-da-isld-bilmirik-2ef8) (2026-03-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Handling 100K+ Lines of Code in VS Code Like a Pro](https://medium.com/illumination/handling-100k-lines-of-code-in-vs-code-like-a-pro-304aff3aaabd?source=rss------programming-5) (2026-03-03)
-- [You’re Using ViewModel. But Can You Explain Why?Android State Management, Unmasked.](https://medium.com/@alaxhenry0121/youre-using-viewmodel-but-can-you-explain-why-android-state-management-unmasked-c043db58ed8d?source=rss------programming-5) (2026-03-03)
-- [Stop Winging It: iOS State Management Strategies Interviewers Actually Ask About](https://medium.com/@alaxhenry0121/stop-winging-it-ios-state-management-strategies-interviewers-actually-ask-about-74f3ad185a50?source=rss------programming-5) (2026-03-03)
-- [주말 아침 — 주간 닷넷 #17 (2026.03.01)](https://blog.dotnetdev.kr/%EC%A3%BC%EB%A7%90-%EC%95%84%EC%B9%A8-%EC%A3%BC%EA%B0%84-%EB%8B%B7%EB%84%B7-17-2026-03-01-f8cc03b181cf?source=rss------programming-5) (2026-03-03)
-- [Retries Are a Smell](https://medium.com/@arbopa/retries-are-a-smell-62d0c1107452?source=rss------programming-5) (2026-03-03)
+- [An AI CEO Finally Said Something Honest About Code — And We Need to Talk About It](https://medium.com/@sovannaro/an-ai-ceo-finally-said-something-honest-about-code-and-we-need-to-talk-about-it-30b32f771e38?source=rss------programming-5) (2026-03-03)
+- [5 Free Open-Source Tools I Actually Use (And You Should Bookmark Today)](https://medium.com/@sovannaro/5-free-open-source-tools-i-actually-use-and-you-should-bookmark-today-70bd78ecc9e2?source=rss------programming-5) (2026-03-03)
+- [Most Startups Don’t Get Hacked by Elite Hackers — They Get Hacked by this.](https://medium.com/@ritwishbasu/most-startups-dont-get-hacked-by-elite-hackers-they-get-hacked-by-this-03467ae303f1?source=rss------programming-5) (2026-03-03)
+- [5 Reusable Copilot Agent Prompts Every Developer Should Practice](https://medium.com/@sakti.bagchi/5-reusable-copilot-agent-prompts-every-developer-should-practice-f6333e14cf26?source=rss------programming-5) (2026-03-03)
+- [Monitor All Databases in One View](https://medium.com/postgresql-blogs/monitor-all-databases-in-one-view-eb2bab15f0da?source=rss------programming-5) (2026-03-03)
 
 </details>
 
@@ -591,11 +591,11 @@ https://www.twilio.com/en-us/blog/products/sunsetting-legacy-segment-analytics-l
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [The SMB Owner’s Guide to AI ROI: Measuring Time Saved, Revenue Gained, and Risk Added (Sponsored)](https://bit.ly/4rRtvVu) (2026-03-03)
 - [Getting Started with Python Async Programming](https://www.kdnuggets.com/getting-started-with-python-async-programming) (2026-03-02)
 - [Data Engineering for the LLM Age](https://www.kdnuggets.com/data-engineering-for-the-llm-age) (2026-03-02)
 - [Docker AI for Agent Builders: Models, Tools, and Cloud Offload](https://www.kdnuggets.com/docker-ai-for-agent-builders-models-tools-and-cloud-offload) (2026-02-27)
 - [The Future of Data Storytelling Formats: Beyond Dashboards](https://www.kdnuggets.com/the-future-of-data-storytelling-formats-beyond-dashboards) (2026-02-27)
-- [5 Things You Need to Know Before Using OpenClaw](https://www.kdnuggets.com/5-things-you-need-to-know-before-using-openclaw) (2026-02-27)
 
 </details>
 
