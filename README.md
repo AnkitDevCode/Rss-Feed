@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The candidate that Silicon Valley built is now the one they want to tear down](https://techcrunch.com/2026/03/03/the-candidate-that-silicon-valley-built-is-now-the-one-they-want-to-tear-down/) (2026-03-03)
 - [Cursor has reportedly surpassed $2B in annualized revenue](https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue/) (2026-03-03)
 - [India’s Pronto formalizes house help as its valuation jumps 8x in under a year](https://techcrunch.com/2026/03/02/indias-pronto-formalizes-house-help-as-its-valuation-jumps-8x-in-under-a-year/) (2026-03-03)
 - [ChatGPT uninstalls surged by 295% after DoD deal](https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/) (2026-03-03)
 - [Stripe wants to turn your AI costs into a profit center](https://techcrunch.com/2026/03/02/stripe-wants-to-turn-your-ai-costs-into-a-profit-center/) (2026-03-02)
-- [Geopolitical drama reportedly stalls IPO of SoftBank-backed PayPay](https://techcrunch.com/2026/03/02/geopolitical-drama-reportedly-stalls-ipo-of-softbank-backed-paypay/) (2026-03-02)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Buckle Up for Bumpier Skies](https://www.newyorker.com/magazine/2026/03/09/buckle-up-for-bumpier-skies) (2026-03-03)
-- [Daily Driving GrapheneOS](https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/) (2026-03-03)
-- [Intent-Based Commits](https://github.com/adamveld12/ghost) (2026-03-03)
-- [The Excommunicated Devs Making Games with AI](https://www.tyleo.com/blog/the-excommunicated-devs-making-games-with-ai) (2026-03-03)
-- [Ars Technica fires reporter after AI controversy involving fabricated quotes](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes) (2026-03-03)
+- [Mullvad VPN: Banned TV Ad in the Streets of London [video]](https://www.youtube.com/watch?v=rwhznrpgl7k) (2026-03-03)
+- [The Xkcd thing, now interactive](https://editor.p5js.org/isohedral/full/vJa5RiZWs) (2026-03-03)
+- [The beauty and terror of modding Windows](https://windowsread.me/p/windhawk-explained) (2026-03-03)
+- [China's 450kmph bullet train is the fastest ever built](https://www.executivetraveller.com/news/china-cr450-world-s-fastest-bullet-train) (2026-03-03)
+- [Privacy-preserving age and identity verification via anonymous credentials](https://blog.cryptographyengineering.com/2026/03/02/anonymous-credentials-an-illustrated-primer/) (2026-03-03)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Big Google Home update lets Gemini describe live camera feeds](https://www.theverge.com/tech/888008/big-google-home-update-lets-gemini-describe-live-camera-feeds) (2026-03-03)
 - [Anthropic upgrades Claude’s memory to attract AI switchers](https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing) (2026-03-02)
 - [Apple’s cheapest AirPods have hit $89](https://www.theverge.com/gadgets/887839/apple-airpods-4-active-noise-cancellation-deal-sale) (2026-03-02)
 - [How the new iPhone 17E stacks up against Apple’s pricier phones](https://www.theverge.com/gadgets/887570/iphone-17e-vs-17-pro-max-air-spec-comparison-price-features) (2026-03-02)
 - [Apple might use Google servers to store data for its upgraded AI Siri](https://www.theverge.com/tech/887802/apple-ai-siri-google-servers) (2026-03-02)
-- [Mastodon now has a button for sharing content from other websites](https://www.theverge.com/tech/887791/mastodon-official-share-button-widget) (2026-03-02)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [LLMs can unmask pseudonymous users at scale with surprising accuracy](https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/) (2026-03-03)
+- [With developer verification, Google's Apple envy threatens to dismantle Android's open legacy](https://arstechnica.com/gadgets/2026/03/with-developer-verification-googles-apple-envy-threatens-to-dismantle-androids-open-legacy/) (2026-03-03)
 - [Clueless cops post seized crypto wallet password. $5M quickly stolen.](https://arstechnica.com/tech-policy/2026/03/oops-south-korean-cops-lost-5m-in-seized-crypto-after-leaking-wallet-password/) (2026-03-02)
 - [Charter gets FCC permission to buy Cox and become largest ISP in the US](https://arstechnica.com/tech-policy/2026/03/fcc-lets-charter-buy-cox-says-no-reason-to-worry-about-higher-internet-prices/) (2026-03-02)
 - [Iowa county adopts strict zoning rules for data centers, but residents still worry](https://arstechnica.com/ai/2026/03/iowa-county-adopts-strict-zoning-rules-for-data-centers-but-residents-still-worry/) (2026-03-02)
-- [$599 M4 iPad Air is a lot like the old one, but with a substantial RAM boost](https://arstechnica.com/gadgets/2026/03/apple-keeps-the-ipad-air-fresh-with-m4-chip-upgrade-and-12gb-of-ram/) (2026-03-02)
-- [Research roundup: Six cool science stories we almost missed](https://arstechnica.com/science/2026/03/research-roundup-six-cool-science-stories-we-almost-missed/) (2026-03-02)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [This startup claims it can stop lightning and prevent catastrophic wildfires](https://www.technologyreview.com/2026/03/03/1133848/this-startup-claims-it-can-stop-lightning-and-prevent-catastrophic-wildfires/) (2026-03-03)
 - [OpenAI’s “compromise” with the Pentagon is what Anthropic feared](https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/) (2026-03-02)
 - [The Download: protesting AI, and what’s floating in space](https://www.technologyreview.com/2026/03/02/1133811/the-download-protesting-ai-and-whats-floating-in-space/) (2026-03-02)
 - [I checked out one of the biggest anti-AI protests yet](https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/) (2026-03-02)
 - [MIT Technology Review is a 2026 ASME finalist in reporting](https://www.technologyreview.com/2026/02/27/1133769/asme-finalist-reporting/) (2026-02-27)
-- [The Download: how AI is shaking up Go, and a cybersecurity mystery](https://www.technologyreview.com/2026/02/27/1133754/the-download-how-ai-is-shaking-up-go-and-a-cybersecurity-mystery/) (2026-02-27)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Ch 3: Creating a Postgres Database with Aiven](https://dev.to/essym_19/creating-a-postgres-database-with-aiven-4cpg) (2026-03-03)
-- [Your AI Reads Your Docstrings. Are They Right?](https://dev.to/albertocodes/your-ai-reads-your-docstrings-are-they-right-2g89) (2026-03-03)
-- [A Practical Guide to Securing Azure Storage Accounts in Dev/Test (With Real-World Context)](https://dev.to/buildwithbabs/a-practical-guide-to-securing-azure-storage-accounts-in-devtest-with-real-world-context-3a92) (2026-03-03)
-- [From Deadlocks to Green Streaks: Building an AI Greenhouse with Gemini in 36 Hours](https://dev.to/jowi00000/from-deadlocks-to-green-streaks-building-an-ai-greenhouse-with-gemini-in-36-hours-15gf) (2026-03-03)
-- [Niyə hələ də Linux işlətmirik, ya da işlədə bilmirik?](https://dev.to/jalilabdulla/niy-hl-d-linux-isltmirik-ya-da-isld-bilmirik-2ef8) (2026-03-03)
+- [Simple Code Injection into ELF Executable](https://dev.to/cangulmez/simple-code-injection-into-elf-executable-2i2o) (2026-03-03)
+- [25+ Best ETL Tools for 2026: The No-Fluff Engineer's Guide](https://dev.to/kuznetsova/25-best-etl-tools-for-2026-the-no-fluff-engineers-guide-8lj) (2026-03-03)
+- [From Reader to Contributor: Why I’m Finally Posting on Dev.to](https://dev.to/mattmakespowerapps/from-reader-to-contributor-why-im-finally-posting-on-devto-231) (2026-03-03)
+- [OpenClaw：安裝教學，在 macOS 用虛擬機 (Ubuntu) 安全部署龍蝦 AI](https://dev.to/letswrite/openclawan-zhuang-jiao-xue-zai-macos-yong-xu-ni-ji-ubuntu-an-quan-bu-shu-long-xia-ai-4b00) (2026-03-03)
+- [We're Not Cutting Jobs Because of AI. We're Multiplying People.](https://dev.to/soon_seahtoh_3e917beae5e/were-not-cutting-jobs-because-of-ai-were-multiplying-people-3le8) (2026-03-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [An AI CEO Finally Said Something Honest About Code — And We Need to Talk About It](https://medium.com/@sovannaro/an-ai-ceo-finally-said-something-honest-about-code-and-we-need-to-talk-about-it-30b32f771e38?source=rss------programming-5) (2026-03-03)
-- [5 Free Open-Source Tools I Actually Use (And You Should Bookmark Today)](https://medium.com/@sovannaro/5-free-open-source-tools-i-actually-use-and-you-should-bookmark-today-70bd78ecc9e2?source=rss------programming-5) (2026-03-03)
-- [Most Startups Don’t Get Hacked by Elite Hackers — They Get Hacked by this.](https://medium.com/@ritwishbasu/most-startups-dont-get-hacked-by-elite-hackers-they-get-hacked-by-this-03467ae303f1?source=rss------programming-5) (2026-03-03)
-- [5 Reusable Copilot Agent Prompts Every Developer Should Practice](https://medium.com/@sakti.bagchi/5-reusable-copilot-agent-prompts-every-developer-should-practice-f6333e14cf26?source=rss------programming-5) (2026-03-03)
-- [Monitor All Databases in One View](https://medium.com/postgresql-blogs/monitor-all-databases-in-one-view-eb2bab15f0da?source=rss------programming-5) (2026-03-03)
+- [The Filesystem Is All You Need](https://vinny-purgato.medium.com/the-filesystem-is-all-you-need-a51268ad2b2e?source=rss------programming-5) (2026-03-03)
+- [HOW A $18.5K BUILD GENERATED $58K GMV IN 6 WEEKS: DUBAI YACHT MARKETPLACE](https://medium.com/@grekcreator/how-a-18-5k-build-generated-58k-gmv-in-6-weeks-dubai-yacht-marketplace-a8f733ed561b?source=rss------programming-5) (2026-03-03)
+- [Next.js Caching Explained: Request Memoization, Data Cache, and Route Cache](https://meetpan1048.medium.com/next-js-caching-explained-request-memoization-data-cache-and-route-cache-ac2da7d2f95b?source=rss------programming-5) (2026-03-03)
+- [How to Make Your System Smart Using an API Gateway!!!](https://medium.com/@decodinggtech/how-to-make-your-system-smart-using-an-api-gateway-c7d4f9b4c78e?source=rss------programming-5) (2026-03-03)
+- [Replacing a Rule Engine with AI: A Solo Developer Decision](https://medium.com/@jairojunior.dev/replacing-a-rule-engine-with-ai-a-solo-developer-decision-0feb9caeb98f?source=rss------programming-5) (2026-03-03)
 
 </details>
 
@@ -503,11 +503,11 @@ https://www.twilio.com/en-us/blog/products/sunsetting-legacy-segment-analytics-l
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slack Feature Drop: Better Connections for Every Kind of Work](https://slack.com/blog/news/feature-drop-feb26) (2026-03-01)
+- [Project Management Software Guide for 2026](https://slack.com/blog/collaboration/project-management-software) (2026-02-27)
 - [The Best Slackbot Prompts for Customer Service Teams](https://slack.com/blog/productivity/slackbot-for-customer-service) (2026-02-26)
 - [Five Essential Communication Channels in the Workplace](https://slack.com/blog/collaboration/communication-channels) (2026-02-23)
 - [Slack Securely Powers Your Third-Party Agents With Your Business Context](https://slack.com/blog/news/mcp-real-time-search-api-now-available) (2026-02-17)
-- [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-02-13)
-- [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-02-13)
 
 </details>
 
@@ -558,33 +558,33 @@ https://www.twilio.com/en-us/blog/products/sunsetting-legacy-segment-analytics-l
 <details>
 <summary>🤖 AI News</summary>
 
+- [Physical AI adoption boosts customer service ROI](https://www.artificialintelligence-news.com/news/physical-ai-adoption-boosts-customer-service-roi/) (2026-03-03)
+- [Santander and Mastercard run Europe’s first AI-executed payment pilot](https://www.artificialintelligence-news.com/news/santander-and-mastercard-run-europe-first-ai-executed-payment-pilot/) (2026-03-03)
+- [AI-Native networks are no longer a 6G promise–MWC 2026 just proved it](https://www.artificialintelligence-news.com/news/ai-native-networks-mwc-2026/) (2026-03-03)
 - [MWC 2026: SK Telecom lays out plan to rebuild its core around AI](https://www.artificialintelligence-news.com/news/mwc-2026-sk-telecom-lays-out-plan-to-rebuild-its-core-around-ai/) (2026-03-02)
 - [AI adoption in financial services has hit a point of no return](https://www.artificialintelligence-news.com/news/ai-adoption-in-financial-services/) (2026-03-02)
-- [Upgrading agentic AI for finance workflows](https://www.artificialintelligence-news.com/news/upgrading-agentic-ai-for-finance-workflows/) (2026-02-27)
-- [Poor implementation of AI may be behind workforce reduction](https://www.artificialintelligence-news.com/news/ai-workflows-need-human-in-the-loop-say-datatonic/) (2026-02-27)
-- [Goldman Sachs and Deutsche Bank test agentic AI for trade surveillance](https://www.artificialintelligence-news.com/news/goldman-sachs-and-deutsche-bank-test-agentic-ai-for-trade-surveillance/) (2026-02-27)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Agentic RAG vs Classic RAG: From a Pipeline to a Control Loop](https://towardsdatascience.com/agentic-rag-vs-classic-rag-from-a-pipeline-to-a-control-loop/) (2026-03-03)
 - [YOLOv3 Paper Walkthrough: Even Better, But Not That Much](https://towardsdatascience.com/yolov3-paper-walkthrough-even-better-but-not-that-much/) (2026-03-02)
 - [The Machine Learning Lessons I’ve Learned This Month](https://towardsdatascience.com/the-machine-learning-lessons-ive-learned-this-month-4/) (2026-03-02)
 - [Code Less, Ship Faster: Building APIs with FastAPI](https://towardsdatascience.com/code-less-ship-faster-building-apis-with-fastapi/) (2026-03-02)
 - [Exciting Changes Are Coming to the TDS Author Payment Program](https://towardsdatascience.com/exciting-changes-are-coming-to-the-tds-author-payment-program/) (2026-03-02)
-- [Zero-Waste Agentic RAG: Designing Caching Architectures to Minimize Latency and LLM Costs at Scale](https://towardsdatascience.com/zero-waste-agentic-rag-designing-caching-architectures-to-minimize-latency-and-llm-costs-at-scale/) (2026-03-01)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [OpenClaw vs Claude Code: Which AI Coding Agent Should You Use in 2026? ](https://www.analyticsvidhya.com/blog/2026/03/openclaw-vs-claude-code/) (2026-03-03)
+- [20 OpenClaw Prompts to Automate Your Daily Life and Work](https://www.analyticsvidhya.com/blog/2026/03/openclaw-prompts/) (2026-03-03)
 - [10 Best YouTube Channels to Learn Generative AI](https://www.analyticsvidhya.com/blog/2026/03/youtube-channels-to-learn-generative-ai/) (2026-03-02)
 - [Building a RAG API with FastAPI](https://www.analyticsvidhya.com/blog/2026/03/building-a-rag-api-with-fastapi/) (2026-03-02)
 - [Deterministic vs Stochastic – Machine Learning Fundamentals](https://www.analyticsvidhya.com/blog/2026/03/deterministic-vs-stochastic/) (2026-03-01)
-- [Grow your LinkedIn Scarily Fast (For Data Scientists) with This AI Workflow](https://www.analyticsvidhya.com/blog/2026/03/data-scientists-grow-your-linkedin-fast-ai-workflow/) (2026-03-01)
-- [Perplexity Computer is Here to Change the Way we Use AI](https://www.analyticsvidhya.com/blog/2026/02/perplexity-computer-is-here-to-change-the-way-we-use-ai/) (2026-02-28)
 
 </details>
 
@@ -602,11 +602,11 @@ https://www.twilio.com/en-us/blog/products/sunsetting-legacy-segment-analytics-l
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Deploying AI Agents to Production: Architecture, Infrastructure, and Implementation Roadmap](https://machinelearningmastery.com/deploying-ai-agents-to-production-architecture-infrastructure-and-implementation-roadmap/) (2026-03-03)
 - [Build Semantic Search with LLM Embeddings](https://machinelearningmastery.com/build-semantic-search-with-llm-embeddings/) (2026-03-02)
 - [Can LLM Embeddings Improve Time Series Forecasting? A Practical Feature Engineering Approach](https://machinelearningmastery.com/can-llm-embeddings-improve-time-series-forecasting-a-practical-feature-engineering-approach/) (2026-02-27)
 - [KV Caching in LLMs: A Guide for Developers](https://machinelearningmastery.com/kv-caching-in-llms-a-guide-for-developers/) (2026-02-26)
 - [How to Combine LLM Embeddings + TF-IDF + Metadata in One Scikit-learn Pipeline](https://machinelearningmastery.com/how-to-combine-llm-embeddings-tf-idf-metadata-in-one-scikit-learn-pipeline/) (2026-02-25)
-- [Introduction to Small Language Models: The Complete Guide for 2026](https://machinelearningmastery.com/introduction-to-small-language-models-the-complete-guide-for-2026/) (2026-02-24)
 
 </details>
 
