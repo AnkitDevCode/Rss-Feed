@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [X says it will suspend creators from revenue-sharing program for unlabeled AI posts of ‘armed conflict’](https://techcrunch.com/2026/03/03/x-says-it-will-suspend-creators-from-revenue-sharing-program-for-unlabeled-ai-posts-of-armed-conflict/) (2026-03-03)
-- [The new MacBook Pro laptops are up to $400 more expensive than their predecessors, thanks to the RAM shortage](https://techcrunch.com/2026/03/03/the-new-macbook-pro-laptops-are-up-to-400-more-expensive-than-their-predecessors-thanks-to-the-ram-shortage/) (2026-03-03)
-- [Hacked traffic cams and hijacked TVs: How cyber operations supported the war against Iran](https://techcrunch.com/2026/03/03/hacked-traffic-cams-and-hijacked-tvs-how-cyber-operations-supported-the-war-against-iran/) (2026-03-03)
-- [Activist investor Elliott takes a $1B stake in Pinterest, betting on AI-driven growth](https://techcrunch.com/2026/03/03/activist-investor-elliot-takes-a-1b-stake-in-pinterest-betting-on-ai-driven-growth/) (2026-03-03)
-- [Apple’s rumored MacBook Neo, a lower-cost, colorful laptop, could launch this week](https://techcrunch.com/2026/03/03/apple-macbook-neo-a-low-cost-colorful-laptop-could-launch-this-week/) (2026-03-03)
+- [Why AI startups are selling the same equity at two different prices](https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/) (2026-03-04)
+- [A suite of government hacking tools targeting iPhones is now being used by cybercriminals](https://techcrunch.com/2026/03/03/a-suite-of-government-hacking-tools-targeting-iphones-is-now-being-used-by-cybercriminals/) (2026-03-03)
+- [Alibaba’s Qwen tech lead steps down after major AI push](https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/) (2026-03-03)
+- [Just three companies dominated the $189B in VC investments last month](https://techcrunch.com/2026/03/03/openai-anthropic-waymo-dominated-189-billion-vc-investments-february-crunchbase-report/) (2026-03-03)
+- [TikTok down for some in US, thanks to second Oracle outage since sale](https://techcrunch.com/2026/03/03/tiktok-down-for-some-in-u-s-thanks-to-second-oracle-outage-since-sale/) (2026-03-03)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [El Paso ICE Camp East Montana under quarantine after measles outbreak](https://www.elpasotimes.com/story/news/immigration/2026/03/03/el-paso-ice-camp-east-montana-quarantine-after-measles-outbreak/88962085007/) (2026-03-03)
-- [You are going to get priced out of the best AI coding tools](https://newsletter.danielpaleka.com/p/you-are-going-to-get-priced-out-of) (2026-03-03)
-- [GPT‑5.3 Instant](https://openai.com/index/gpt-5-3-instant/) (2026-03-03)
-- [Claude is an Electron App because we've lost native](https://tonsky.me/blog/fall-of-native/) (2026-03-03)
-- [Pass-Through of Tariffs: Evidence from European Wine Imports](https://www.nber.org/202603/digest/pass-through-tariffs-evidence-european-wine-imports) (2026-03-03)
+- [You can't use a code editor when you're under 18 now?](https://mastodon.online/@marekfort/116164253291515471) (2026-03-04)
+- [Lenovo's New ThinkPads Score 10/10 for Repairability](https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability) (2026-03-03)
+- [Talos: Hardware accelerator for deep convolutional neural networks](https://talos.wtf/) (2026-03-03)
+- [Don't make me talk to your chatbot](https://raymyers.org/post/dont-make-me-talk-to-your-chatbot/) (2026-03-03)
+- [Voxile: A ray-traced game made in its own engine and programming language](https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update) (2026-03-03)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Phone makers of all sizes are feeling the RAM crunch](https://www.theverge.com/tech/888354/smartphone-manufacturer-ram-xiaomi-light-tcl) (2026-03-03)
-- [Here’s how journalists spot deepfakes](https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway) (2026-03-03)
-- [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals) (2026-03-03)
-- [New MacBooks, the iPhone 17E, and more: Everything we know about Apple’s March 2026 announcements](https://www.theverge.com/tech/888352/apple-march-2026-event-experience-announcements-iphone-macbook-ipad) (2026-03-03)
-- [Google accelerates Chrome release cycle](https://www.theverge.com/tech/888001/google-accelerates-chrome-releases-cutting-cycle-in-half) (2026-03-03)
+- [Anker’s last-gen sleep buds are nearly 40 percent off ahead of daylight saving time](https://www.theverge.com/gadgets/888719/anker-soundcore-sleep-a20-earbuds-newegg-deal-sale) (2026-03-03)
+- [Does Ticketmaster have a stranglehold on concert ticketing — or is it just ‘bringing joy’?](https://www.theverge.com/policy/888778/live-nation-ticketmaster-doj-opening-statements) (2026-03-03)
+- [What Trump’s war on Iran means for the US energy crunch](https://www.theverge.com/science/888526/what-trumps-war-on-iran-means-for-the-us-energy-crunch) (2026-03-03)
+- [The best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals) (2026-03-03)
+- [Another Oracle outage is messing up US TikTok](https://www.theverge.com/tech/888647/tiktok-us-oracle-outage-march-2026) (2026-03-03)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [New MacBook Airs come with M5, double the storage, and higher starting prices](https://arstechnica.com/gadgets/2026/03/new-macbook-airs-come-with-m5-double-the-storage-and-higher-starting-prices/) (2026-03-03)
-- [Apple intros M5 Pro and Max MacBook Pros and its first new monitors in years](https://arstechnica.com/gadgets/2026/03/apple-intros-m5-pro-and-max-macbook-pros-and-its-first-new-monitors-in-years/) (2026-03-03)
-- [This is why our electricity bills are so high right now](https://arstechnica.com/tech-policy/2026/03/this-is-why-our-electricity-bills-are-so-high-right-now/) (2026-03-03)
-- [As Moon interest heats up, two companies unveil plans for a lunar "harvester"](https://arstechnica.com/space/2026/03/as-moon-interest-heats-up-two-companies-unveil-plans-for-a-lunar-harvester/) (2026-03-03)
-- [Medical journal The Lancet blasts RFK Jr.’s health work as a failure](https://arstechnica.com/health/2026/03/medical-journal-the-lancet-blasts-rfk-jr-s-health-work-as-a-failure/) (2026-03-03)
+- [No fooling: NASA targets April 1 for Artemis II launch to the Moon](https://arstechnica.com/space/2026/03/no-fooling-nasa-targets-april-1-for-artemis-ii-launch-to-the-moon/) (2026-03-03)
+- [Downdetector, Speedtest sold to IT service provider Accenture in $1.2B deal](https://arstechnica.com/information-technology/2026/03/downdetector-speedtest-sold-to-it-service-provider-accenture-in-1-2b-deal/) (2026-03-03)
+- [FCC chair calls Paramount/WBD merger "a lot cleaner" than defunct Netflix deal](https://arstechnica.com/tech-policy/2026/03/trump-fcc-chair-paramount-warner-bros-merger-likely-to-get-quick-approval/) (2026-03-03)
+- [What we can learn from scientific analysis of Renaissance recipes](https://arstechnica.com/science/2026/03/renaissance-diy-science-people-tested-tweaked-home-remedy-recipes/) (2026-03-03)
+- [There are plenty of great choices if you want to spend less than $15K on an EV](https://arstechnica.com/cars/2026/03/there-are-plenty-of-great-choices-if-you-want-to-spend-less-than-15k-on-an-ev/) (2026-03-03)
 
 </details>
 
@@ -75,44 +75,44 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [How we rebuilt the search architecture for high availability in GitHub Enterprise Server](https://github.blog/engineering/architecture-optimization/how-we-rebuilt-the-search-architecture-for-high-availability-in-github-enterprise-server/) (2026-03-03)
+- [Join or host a GitHub Copilot Dev Days event near you](https://github.blog/ai-and-ml/github-copilot/join-or-host-a-github-copilot-dev-days-event-near-you/) (2026-03-03)
 - [GitHub for Beginners: Getting started with GitHub Issues and Projects](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-issues-and-projects/) (2026-03-02)
 - [From idea to pull request: A practical guide to building with GitHub Copilot CLI](https://github.blog/ai-and-ml/github-copilot/from-idea-to-pull-request-a-practical-guide-to-building-with-github-copilot-cli/) (2026-02-27)
 - [What’s new with GitHub Copilot coding agent](https://github.blog/ai-and-ml/github-copilot/whats-new-with-github-copilot-coding-agent/) (2026-02-26)
-- [Multi-agent workflows often fail. Here’s how to engineer ones that don’t.](https://github.blog/ai-and-ml/generative-ai/multi-agent-workflows-often-fail-heres-how-to-engineer-ones-that-dont/) (2026-02-24)
-- [How AI is reshaping developer choice (and Octoverse data proves it)](https://github.blog/ai-and-ml/generative-ai/how-ai-is-reshaping-developer-choice-and-octoverse-data-proves-it/) (2026-02-19)
 
 </details>
 
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [No need for Ctrl+C when you have MCP](https://stackoverflow.blog/2026/03/03/no-need-for-ctrl-c-when-you-have-mcp/) (2026-03-03)
 - [What’s new at Stack Overflow: March 2026](https://stackoverflow.blog/2026/03/02/what-s-new-at-stack-overflow-march-2026/) (2026-03-02)
 - [To live in an AI world, knowing is half the battle](https://stackoverflow.blog/2026/02/27/to-live-in-an-ai-world-knowing-is-half-the-battle/) (2026-02-27)
 - [Beyond block or allow: How pay-per-crawl is reshaping public data monetization](https://stackoverflow.blog/2026/02/26/how-pay-per-crawl-is-reshaping-data-monetization/) (2026-02-26)
 - [Your sneak peek at the redesigned Stack Overflow](https://stackoverflow.blog/2026/02/25/your-sneak-peek-at-the-redesigned-stack-overflow/) (2026-02-25)
-- [Dogfood so nutritious it’s building the future of SDLCs](https://stackoverflow.blog/2026/02/24/dogfood-so-nutritious-it-s-building-the-future-of-sdlcs/) (2026-02-24)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [VXFS is Done!](https://dev.to/lucashooghof/vxfs-is-done-50po) (2026-03-03)
-- [Apache Geode 2.0: Revival, Reinvention, and the Road Ahead](https://dev.to/theasf/apache-geode-20-revival-reinvention-and-the-road-ahead-48o5) (2026-03-03)
-- [Two small systems that taught me real-world engineering better than any job ticket](https://dev.to/srijansingh/two-small-systems-that-taught-me-real-world-engineering-better-than-any-job-ticket-4b89) (2026-03-03)
-- [How I Replaced LLM-Based Code Analysis with Static Analysis (And Got Better Results)](https://dev.to/ayame0328/how-i-replaced-llm-based-code-analysis-with-static-analysis-and-got-better-results-43nl) (2026-03-03)
-- [Building a Cost-Efficient Serverless Resume on Azure](https://dev.to/kloudwiz/building-a-cost-efficient-serverless-resume-on-azure-4bjb) (2026-03-03)
+- [Predict House Prices with Python: A Beginner’s Machine Learning Guide](https://dev.to/temiloluwavalentine/predict-house-prices-with-python-a-beginners-machine-learning-guide-k6p) (2026-03-04)
+- [Agentic CI: How I Test AI Workers Like Services (Securely)](https://dev.to/kowshik_jallipalli_a7e0a5/agentic-ci-how-i-test-ai-workers-like-services-securely-31ed) (2026-03-04)
+- [I Let Toy Story Characters Give Real Life Advice Using Gemini. Here's What Broke (And What Surprised Me)](https://dev.to/moeezs/i-let-toy-story-characters-give-real-life-advice-using-gemini-heres-what-broke-and-what-4l90) (2026-03-04)
+- [I Found 2 Real Bugs in Open Source Projects in 30 Minutes — Here's How](https://dev.to/colony0ai/i-found-2-real-bugs-in-open-source-projects-in-30-minutes-heres-how-3d0e) (2026-03-04)
+- [Running Local LLMs in 2026: Ollama, LM Studio, and Jan Compared](https://dev.to/synsun/running-local-llms-in-2026-ollama-lm-studio-and-jan-compared-5dii) (2026-03-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Ncurses: A Structured and Technical Introduction to Text-Based User Interface Development](https://medium.com/@e_moreira/ncurses-a-structured-and-technical-introduction-to-text-based-user-interface-development-81949b812282?source=rss------programming-5) (2026-03-03)
-- [Every Developer’s Journey Through the Dunning–Kruger Effect](https://medium.com/digigeek/every-developers-journey-through-the-dunning-kruger-effect-ba1ed46220e7?source=rss------programming-5) (2026-03-03)
-- [I Said “No” to My Boss 47 Times. Got Promoted Anyway](https://medium.com/codex/i-said-no-to-my-boss-47-times-got-promoted-anyway-02f58dda20df?source=rss------programming-5) (2026-03-03)
-- [Confused About Cybersecurity Careers?](https://medium.com/illumination/confused-about-cybersecurity-careers-62c566090630?source=rss------programming-5) (2026-03-03)
-- [The Git Commit That Deleted 3 Years of Work. It Was Merged to Main.](https://python.plainenglish.io/the-git-commit-that-deleted-3-years-of-work-it-was-merged-to-main-3856f443f435?source=rss------programming-5) (2026-03-03)
+- [The Security Lesson Every Angular Developer Learns Too Late](https://medium.com/@shubhamnalawade037/the-security-lesson-every-angular-developer-learns-too-late-03d0b3c6d50c?source=rss------programming-5) (2026-03-04)
+- [5 Years in the Trenches: From “Stack Overflow Hero” to “AI Orchestrator”](https://anikhachunts.medium.com/5-years-in-the-trenches-from-stack-overflow-hero-to-ai-orchestrator-64d6f30dc7dd?source=rss------programming-5) (2026-03-04)
+- [Selenium Professional Bot Template (Python)](https://medium.com/@fdpfdpvivo/selenium-professional-bot-template-python-ed4ce9cb8511?source=rss------programming-5) (2026-03-04)
+- [Why Your CI Is Lying to You](https://medium.com/@mglaze002/why-your-ci-is-lying-to-you-fc35cb213225?source=rss------programming-5) (2026-03-04)
+- [ClaudeCode vs VSCode Copilot: Which One Really Costs You More?](https://medium.com/tech-ai-chat/claudecode-vs-vscode-copilot-which-one-really-costs-you-more-b5a8d030a425?source=rss------programming-5) (2026-03-04)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Announcing Docker Hardened System Packages](https://www.docker.com/blog/announcing-docker-hardened-system-packages/) (2026-03-03)
 - [Docker Model Runner Brings vLLM to macOS with Apple Silicon](https://www.docker.com/blog/docker-model-runner-vllm-metal-macos/) (2026-02-26)
 - [Open WebUI + Docker Model Runner: Self-Hosted Models, Zero Configuration](https://www.docker.com/blog/openwebui-docker-model-runner/) (2026-02-25)
 - [From the Captain’s Chair: Kristiyan Velkov](https://www.docker.com/blog/from-the-captains-chair-kristiyan-velkov/) (2026-02-24)
 - [Gordon (Beta): Docker’s AI Agent Just Got an Update](https://www.docker.com/blog/gordon-dockers-ai-agent-just-got-an-update/) (2026-02-23)
-- [Run OpenClaw Securely in Docker Sandboxes](https://www.docker.com/blog/run-openclaw-securely-in-docker-sandboxes/) (2026-02-23)
 
 </details>
 
@@ -295,11 +295,11 @@
 <details>
 <summary>📌 Pinterest Engineering</summary>
 
+- [Unifying Ads Engagement Modeling Across Pinterest Surfaces](https://medium.com/pinterest-engineering/unifying-ads-engagement-modeling-across-pinterest-surfaces-4b5cd3d99e67?source=rss-ef81ef829bcb------2) (2026-03-03)
 - [Bridging the Gap: Diagnosing Online–Offline Discrepancy in Pinterest’s L1 Conversion Models](https://medium.com/pinterest-engineering/bridging-the-gap-diagnosing-online-offline-discrepancy-in-pinterests-l1-conversion-models-1320faaaeefe?source=rss-ef81ef829bcb------2) (2026-02-27)
 - [Piqama: Pinterest Quota Management Ecosystem](https://medium.com/pinterest-engineering/piqama-pinterest-quota-management-ecosystem-dc7881433bf5?source=rss-ef81ef829bcb------2) (2026-02-24)
 - [Drastically Reducing Out-of-Memory Errors in Apache Spark at Pinterest](https://medium.com/pinterest-engineering/drastically-reducing-out-of-memory-errors-in-apache-spark-at-pinterest-c55d7dac2257?source=rss-ef81ef829bcb------2) (2026-02-17)
 - [GPU-Serving Two-Tower Models for Lightweight Ads Engagement Prediction](https://medium.com/pinterest-engineering/gpu-serving-two-tower-models-for-lightweight-ads-engagement-prediction-5a0ffb442f3b?source=rss-ef81ef829bcb------2) (2026-02-13)
-- [Next Generation DB Ingestion at Pinterest](https://medium.com/pinterest-engineering/next-generation-db-ingestion-at-pinterest-66844b7153b7?source=rss-ef81ef829bcb------2) (2026-02-05)
 
 </details>
 
@@ -392,11 +392,11 @@ https://www.twilio.com/en-us/blog/products/sunsetting-legacy-segment-analytics-l
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
-- [Protect Your MCP Tools With Auth0 FGA in TypeScript](https://auth0.com/blog/protect-mcp-tools-with-auth0-fga-in-typescript/) (2026-02-27)
 - [From Runtime Panics to Compile-Time Safety: The go-jwt-middleware v3 Story](https://auth0.com/blog/rebuilding-go-jwt-middleware-v3/) (2026-02-27)
-- [Maximizing the Reach and Impact of AI Agents for Nonprofits](https://auth0.com/blog/maximizing-reach-impact-ai-agents-nonprofits/) (2026-02-26)
+- [Protect Your MCP Tools With Auth0 FGA in TypeScript](https://auth0.com/blog/protect-mcp-tools-with-auth0-fga-in-typescript/) (2026-02-27)
 - [Auth0 Agent Skills Now Available: Production-Ready Authentication for AI Coding Assistants
 ](https://auth0.com/blog/auth0-agent-skills-ai-coding-assistants/) (2026-02-26)
+- [Maximizing the Reach and Impact of AI Agents for Nonprofits](https://auth0.com/blog/maximizing-reach-impact-ai-agents-nonprofits/) (2026-02-26)
 - [From Storefronts to AI Agents: The Next Evolution of Retail Commerce](https://auth0.com/blog/secure-agentic-commerce-interactions-auth0-auth-mcp/) (2026-02-25)
 
 </details>
@@ -503,11 +503,11 @@ https://www.twilio.com/en-us/blog/products/sunsetting-legacy-segment-analytics-l
 <details>
 <summary>💬 Slack API</summary>
 
+- [Project Planning and Timelines Guide: Tools and Best Practices](https://slack.com/blog/productivity/project-planning-and-timelines-guide-tools-and-best-practices) (2026-03-02)
+- [Best Data Discovery Tools in 2026 for Product, Network, and IT Assets](https://slack.com/blog/productivity/best-discovery-tools) (2026-03-02)
+- [Slack Feature Drop: Better Connections for Every Kind of Work](https://slack.com/blog/news/feature-drop-feb26) (2026-03-01)
+- [Project Management Software Guide for 2026](https://slack.com/blog/collaboration/project-management-software) (2026-02-27)
 - [The Best Slackbot Prompts for Customer Service Teams](https://slack.com/blog/productivity/slackbot-for-customer-service) (2026-02-26)
-- [Five Essential Communication Channels in the Workplace](https://slack.com/blog/collaboration/communication-channels) (2026-02-23)
-- [Slack Securely Powers Your Third-Party Agents With Your Business Context](https://slack.com/blog/news/mcp-real-time-search-api-now-available) (2026-02-17)
-- [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-02-13)
-- [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-02-13)
 
 </details>
 
