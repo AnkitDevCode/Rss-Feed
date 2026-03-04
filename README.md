@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Who needs data centers in space when they can float offshore?](https://techcrunch.com/2026/03/04/who-needs-data-centers-in-space-when-they-can-float-offshore/) (2026-03-04)
+- [Eight Sleep raises $50M at $1.5B valuation](https://techcrunch.com/2026/03/04/eight-sleep-raises-50m-at-1-5b-valuation/) (2026-03-04)
 - [Why AI startups are selling the same equity at two different prices](https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/) (2026-03-04)
 - [A suite of government hacking tools targeting iPhones is now being used by cybercriminals](https://techcrunch.com/2026/03/03/a-suite-of-government-hacking-tools-targeting-iphones-is-now-being-used-by-cybercriminals/) (2026-03-03)
 - [Alibaba’s Qwen tech lead steps down after major AI push](https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/) (2026-03-03)
-- [Just three companies dominated the $189B in VC investments last month](https://techcrunch.com/2026/03/03/openai-anthropic-waymo-dominated-189-billion-vc-investments-february-crunchbase-report/) (2026-03-03)
-- [TikTok down for some in US, thanks to second Oracle outage since sale](https://techcrunch.com/2026/03/03/tiktok-down-for-some-in-u-s-thanks-to-second-oracle-outage-since-sale/) (2026-03-03)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/) (2026-03-04)
-- [A CPU that runs entirely on GPU](https://github.com/robertcprice/nCPU) (2026-03-04)
-- [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/) (2026-03-04)
-- [California's Digital Age Assurance Act, and FOSS](https://runxiyu.org/comp/ab1043/) (2026-03-04)
-- [Speculative Speculative Decoding (SSD)](https://arxiv.org/abs/2603.03251) (2026-03-04)
+- [Jiga (YC W21) Is Hiring](https://jiga.io/about-us) (2026-03-04)
+- [Users fume over Outlook.com email 'carnage'](https://www.theregister.com/2026/03/04/users_fume_at_outlookcom_email/) (2026-03-04)
+- [Bet on German Train Delays](https://bahn.bet) (2026-03-04)
+- [RFC 9849. TLS Encrypted Client Hello](https://www.rfc-editor.org/rfc/rfc9849.html) (2026-03-04)
+- [Better JIT for Postgres](https://github.com/vladich/pg_jitter) (2026-03-04)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [How a prize-winning cartoonist brings hand-drawn comics to the web](https://www.theverge.com/uncategorized/888672/how-a-prize-winning-cartoonist-brings-hand-drawn-comics-to-the-web) (2026-03-04)
+- [I’m not ashamed to admit the Kobo Remote is the best gadget I’ve bought this year](https://www.theverge.com/tech/885941/kobo-wireless-bluetooth-remote-page-turn-clara-libra-sage-elipsa) (2026-03-04)
+- [Inside the secret meeting that led to the AI political resistance](https://www.theverge.com/ai-artificial-intelligence/888841/pro-human-ai-declaration-fli) (2026-03-04)
+- [Activision silences trusted Call of Duty leaker](https://www.theverge.com/games/888858/call-of-duty-leaker-hope-legal-demand-shutdown) (2026-03-04)
 - [Anker’s last-gen sleep buds are nearly 40 percent off ahead of daylight saving time](https://www.theverge.com/gadgets/888719/anker-soundcore-sleep-a20-earbuds-newegg-deal-sale) (2026-03-03)
-- [Does Ticketmaster have a stranglehold on concert ticketing — or is it just ‘bringing joy’?](https://www.theverge.com/policy/888778/live-nation-ticketmaster-doj-opening-statements) (2026-03-03)
-- [What Trump’s war on Iran means for the US energy crunch](https://www.theverge.com/science/888526/what-trumps-war-on-iran-means-for-the-us-energy-crunch) (2026-03-03)
-- [The best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals) (2026-03-03)
-- [Another Oracle outage is messing up US TikTok](https://www.theverge.com/tech/888647/tiktok-us-oracle-outage-march-2026) (2026-03-03)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How ChatGPT Actually Predicts Words (Explained Simply)](https://dev.to/rajkiran_389/how-chatgpt-actually-predicts-words-explained-simply-364a) (2026-03-04)
-- [Sustainable Funding for Open-Source Critical Infrastructure: Balancing Free Access and Revenue Generation](https://dev.to/elenbit/sustainable-funding-for-open-source-critical-infrastructure-balancing-free-access-and-revenue-4l6m) (2026-03-04)
-- [RepoRecon: Mapping the DNA of Source Code with Gemini 2.5 Flash-Latest](https://dev.to/az-dev1/reporecon-mapping-the-dna-of-source-code-with-gemini-25-flash-latest-460e) (2026-03-04)
-- [Vibe Coding Challenge — Day 6: AI Calculators](https://dev.to/labdays/vibe-coding-challenge-day-6-ai-calculators-3lfc) (2026-03-04)
-- [I ran 765 controlled experiments to prove AI agents are leaking your data — and built the tool that catches it](https://dev.to/darklazaruswalks/i-ran-765-controlled-experiments-to-prove-ai-agents-are-leaking-your-data-and-built-the-tool-that-1pl2) (2026-03-04)
+- [Building Production-Ready MCP Servers with TypeScript](https://dev.to/quantbit/building-production-ready-mcp-servers-with-typescript-3b19) (2026-03-04)
+- [Understanding TDT: The Mechanism Behind the Fastest Models on the Open ASR Leaderboard](https://dev.to/ollieparish/understanding-tdt-the-mechanism-behind-the-fastest-models-on-the-open-asr-leaderboard-4o82) (2026-03-04)
+- [🤔AWS me está quitando el trabajo...😵](https://dev.to/aws-espanol/aws-me-esta-quitando-el-trabajo-591f) (2026-03-04)
+- [10 Lessons from Deploying My First AI Agent on Virtuals](https://dev.to/bitsandtea/10-lessons-from-deploying-my-first-ai-agent-on-virtuals-40i8) (2026-03-04)
+- [How I Built an AI-Powered Terminal Adventure Portfolio and Deployed It in One Click](https://dev.to/srikrishna_s_84cc8f0789f1/how-i-built-an-ai-powered-terminal-adventure-portfolio-and-deployed-it-in-one-click-13dk) (2026-03-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [AWS AI/ML Stack Explained: From Ready-Made AI to Fully Custom Machine Learning](https://medium.com/dev-simplified/aws-ai-ml-stack-explained-from-ready-made-ai-to-fully-custom-machine-learning-f79787fa3fb7?source=rss------programming-5) (2026-03-04)
-- [You’re Probably Leaking Production Data to AI (And Don’t Even Realize It)](https://medium.com/@elev8peak/youre-probably-leaking-production-data-to-ai-and-don-t-even-realize-it-1b1342a4c7fd?source=rss------programming-5) (2026-03-04)
-- [How to Stay Consistent While Learning Programming](https://medium.com/write-a-catalyst/how-to-stay-consistent-while-learning-programming-45511378cd8c?source=rss------programming-5) (2026-03-04)
-- [Before You Paste That Into ChatGPT… Mask It. (A Smarter Way to Share Data with AI)](https://medium.com/@elev8peak/before-you-paste-that-into-chatgpt-mask-it-a-smarter-way-to-share-data-with-ai-86d5a592c671?source=rss------programming-5) (2026-03-04)
-- [Raising Kids vs. Learning AI: The “Euthanasia” Chronicles of Parenthood and Programming](https://medium.com/@boskindcherry/raising-kids-vs-learning-ai-the-euthanasia-chronicles-of-parenthood-and-programming-e29271796429?source=rss------programming-5) (2026-03-04)
+- [ Power BI Masterclass — Weekly Highlights 2026–09](https://medium.com/microsoft-power-bi/power-bi-masterclass-weekly-highlights-2026-09-5715b946f0fb?source=rss------programming-5) (2026-03-04)
+- [Stop Choosing the Language First — Start Thinking About Logic](https://kothapalli-gayathri.medium.com/stop-choosing-the-language-first-start-thinking-about-logic-eaaed094068f?source=rss------programming-5) (2026-03-04)
+- [Automate Your Day: 11 Python Scripts You Should Try](https://python.plainenglish.io/automate-your-day-11-python-scripts-you-should-try-a444a5a8b940?source=rss------programming-5) (2026-03-04)
+- [10 Python Libraries That Turn Data Into Profit](https://python.plainenglish.io/10-python-libraries-that-turn-data-into-profit-17d7d9122ee4?source=rss------programming-5) (2026-03-04)
+- [Atuin: The Magical Shell History Tool That Will Change How You Work](https://pub.huizhou92.com/atuin-the-magical-shell-history-tool-that-will-change-how-you-work-c52de0445f0e?source=rss------programming-5) (2026-03-04)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Unlocking document understanding with Mistral Document AI in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664) (2026-03-03)
+- [Instant access incremental snapshots: Restore without waiting](https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/) (2026-03-02)
 - [Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected](http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog) (2026-02-24)
 - [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
 - [Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873) (2026-02-17)
-- [Azure reliability, resiliency, and recoverability: Build continuity by design](https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/) (2026-02-17)
-- [The data behind the design: How Pantone built agentic AI with an AI-ready database](https://azure.microsoft.com/en-us/blog/the-data-behind-the-design-how-pantone-built-agentic-ai-with-an-ai-ready-database/) (2026-02-12)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [The experience gap: How developers’ priorities shift as they grow](https://blog.jetbrains.com/platform/2026/03/the-experience-gap-how-developers-priorities-shift-as-they-grow/) (2026-03-04)
 - [YouTrack 2026 Roadmap](https://blog.jetbrains.com/youtrack/2026/03/youtrack-2026-roadmap/) (2026-03-02)
 - [Working With STM32 Arm TrustZone-Based Projects in CLion](https://blog.jetbrains.com/clion/2026/03/working-with-stm32-arm-trustzone-in-clion/) (2026-03-02)
 - [Best Practices for Secure Error Handling in Go](https://blog.jetbrains.com/go/2026/03/02/secure-go-error-handling-best-practices/) (2026-03-02)
 - [Your First Migration: Moving a Single Project From Jenkins to TeamCity Painlessly](https://blog.jetbrains.com/teamcity/2026/03/first-jenkins-teamcity-migration/) (2026-03-02)
-- [Introducing TeamCity’s New Design, Phase II: Creation Flow](https://blog.jetbrains.com/teamcity/2026/02/introducing-teamcitys-new-design-phase-2/) (2026-02-26)
 
 </details>
 
@@ -558,22 +558,22 @@ https://www.twilio.com/en-us/blog/products/sunsetting-legacy-segment-analytics-l
 <details>
 <summary>🤖 AI News</summary>
 
+- [Physical AI is having its moment–and everyone wants a piece of it](https://www.artificialintelligence-news.com/news/physical-ai-global-race-robots-manufacturing-2026/) (2026-03-04)
+- [AI agents prefer Bitcoin shaping new finance architecture](https://www.artificialintelligence-news.com/news/ai-agents-prefer-bitcoin-new-finance-architecture/) (2026-03-04)
+- [Google makes its industrial robotics AI play official–and this time, it means business](https://www.artificialintelligence-news.com/news/google-industrial-robotics-ai-physical-ai-intrinsic/) (2026-03-04)
 - [Best AI security solutions 2026: Top enterprise platforms compared](https://www.artificialintelligence-news.com/news/best-ai-security-solutions-2026-top-enterprise-platforms-compared/) (2026-03-03)
 - [The integration of AI in modern forex automation](https://www.artificialintelligence-news.com/news/the-integration-of-ai-in-modern-forex-automation/) (2026-03-03)
-- [Physical AI adoption boosts customer service ROI](https://www.artificialintelligence-news.com/news/physical-ai-adoption-boosts-customer-service-roi/) (2026-03-03)
-- [Santander and Mastercard run Europe’s first AI-executed payment pilot](https://www.artificialintelligence-news.com/news/santander-and-mastercard-run-europe-first-ai-executed-payment-pilot/) (2026-03-03)
-- [AI-Native networks are no longer a 6G promise–MWC 2026 just proved it](https://www.artificialintelligence-news.com/news/ai-native-networks-mwc-2026/) (2026-03-03)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [RAG with Hybrid Search: How Does Keyword Search Work?](https://towardsdatascience.com/rag-with-hybrid-search-how-does-keyword-search-work/) (2026-03-04)
 - [Graph Coloring You Can See](https://towardsdatascience.com/graph-coloring-you-can-see-visual-intuition-with-python/) (2026-03-03)
 - [Why You Should Stop Writing Loops in Pandas ](https://towardsdatascience.com/stop-writing-loops-in-pandas-do-this-instead/) (2026-03-03)
 - [I Quit My $130,000 ML Engineer Job After Learning 4 Lessons](https://towardsdatascience.com/i-quit-my-130000-ml-engineer-job-after-learning-4-lessons/) (2026-03-03)
 - [Agentic RAG vs Classic RAG: From a Pipeline to a Control Loop](https://towardsdatascience.com/agentic-rag-vs-classic-rag-from-a-pipeline-to-a-control-loop/) (2026-03-03)
-- [YOLOv3 Paper Walkthrough: Even Better, But Not That Much](https://towardsdatascience.com/yolov3-paper-walkthrough-even-better-but-not-that-much/) (2026-03-02)
 
 </details>
 
