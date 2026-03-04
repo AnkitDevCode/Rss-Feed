@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [You can't use a code editor when you're under 18 now?](https://mastodon.online/@marekfort/116164253291515471) (2026-03-04)
-- [Lenovo's New ThinkPads Score 10/10 for Repairability](https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability) (2026-03-03)
-- [Talos: Hardware accelerator for deep convolutional neural networks](https://talos.wtf/) (2026-03-03)
-- [Don't make me talk to your chatbot](https://raymyers.org/post/dont-make-me-talk-to-your-chatbot/) (2026-03-03)
-- [Voxile: A ray-traced game made in its own engine and programming language](https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update) (2026-03-03)
+- [Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/) (2026-03-04)
+- [A CPU that runs entirely on GPU](https://github.com/robertcprice/nCPU) (2026-03-04)
+- [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/) (2026-03-04)
+- [California's Digital Age Assurance Act, and FOSS](https://runxiyu.org/comp/ab1043/) (2026-03-04)
+- [Speculative Speculative Decoding (SSD)](https://arxiv.org/abs/2603.03251) (2026-03-04)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [AI-assisted coding needs more than vibes; it needs containers and sandboxes](https://stackoverflow.blog/2026/03/04/ai-assisted-coding-vibes-hardened-containers-and-sandboxes/) (2026-03-04)
 - [No need for Ctrl+C when you have MCP](https://stackoverflow.blog/2026/03/03/no-need-for-ctrl-c-when-you-have-mcp/) (2026-03-03)
 - [What’s new at Stack Overflow: March 2026](https://stackoverflow.blog/2026/03/02/what-s-new-at-stack-overflow-march-2026/) (2026-03-02)
 - [To live in an AI world, knowing is half the battle](https://stackoverflow.blog/2026/02/27/to-live-in-an-ai-world-knowing-is-half-the-battle/) (2026-02-27)
 - [Beyond block or allow: How pay-per-crawl is reshaping public data monetization](https://stackoverflow.blog/2026/02/26/how-pay-per-crawl-is-reshaping-data-monetization/) (2026-02-26)
-- [Your sneak peek at the redesigned Stack Overflow](https://stackoverflow.blog/2026/02/25/your-sneak-peek-at-the-redesigned-stack-overflow/) (2026-02-25)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Predict House Prices with Python: A Beginner’s Machine Learning Guide](https://dev.to/temiloluwavalentine/predict-house-prices-with-python-a-beginners-machine-learning-guide-k6p) (2026-03-04)
-- [Agentic CI: How I Test AI Workers Like Services (Securely)](https://dev.to/kowshik_jallipalli_a7e0a5/agentic-ci-how-i-test-ai-workers-like-services-securely-31ed) (2026-03-04)
-- [I Let Toy Story Characters Give Real Life Advice Using Gemini. Here's What Broke (And What Surprised Me)](https://dev.to/moeezs/i-let-toy-story-characters-give-real-life-advice-using-gemini-heres-what-broke-and-what-4l90) (2026-03-04)
-- [I Found 2 Real Bugs in Open Source Projects in 30 Minutes — Here's How](https://dev.to/colony0ai/i-found-2-real-bugs-in-open-source-projects-in-30-minutes-heres-how-3d0e) (2026-03-04)
-- [Running Local LLMs in 2026: Ollama, LM Studio, and Jan Compared](https://dev.to/synsun/running-local-llms-in-2026-ollama-lm-studio-and-jan-compared-5dii) (2026-03-04)
+- [How ChatGPT Actually Predicts Words (Explained Simply)](https://dev.to/rajkiran_389/how-chatgpt-actually-predicts-words-explained-simply-364a) (2026-03-04)
+- [Sustainable Funding for Open-Source Critical Infrastructure: Balancing Free Access and Revenue Generation](https://dev.to/elenbit/sustainable-funding-for-open-source-critical-infrastructure-balancing-free-access-and-revenue-4l6m) (2026-03-04)
+- [RepoRecon: Mapping the DNA of Source Code with Gemini 2.5 Flash-Latest](https://dev.to/az-dev1/reporecon-mapping-the-dna-of-source-code-with-gemini-25-flash-latest-460e) (2026-03-04)
+- [Vibe Coding Challenge — Day 6: AI Calculators](https://dev.to/labdays/vibe-coding-challenge-day-6-ai-calculators-3lfc) (2026-03-04)
+- [I ran 765 controlled experiments to prove AI agents are leaking your data — and built the tool that catches it](https://dev.to/darklazaruswalks/i-ran-765-controlled-experiments-to-prove-ai-agents-are-leaking-your-data-and-built-the-tool-that-1pl2) (2026-03-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Security Lesson Every Angular Developer Learns Too Late](https://medium.com/@shubhamnalawade037/the-security-lesson-every-angular-developer-learns-too-late-03d0b3c6d50c?source=rss------programming-5) (2026-03-04)
-- [5 Years in the Trenches: From “Stack Overflow Hero” to “AI Orchestrator”](https://anikhachunts.medium.com/5-years-in-the-trenches-from-stack-overflow-hero-to-ai-orchestrator-64d6f30dc7dd?source=rss------programming-5) (2026-03-04)
-- [Selenium Professional Bot Template (Python)](https://medium.com/@fdpfdpvivo/selenium-professional-bot-template-python-ed4ce9cb8511?source=rss------programming-5) (2026-03-04)
-- [Why Your CI Is Lying to You](https://medium.com/@mglaze002/why-your-ci-is-lying-to-you-fc35cb213225?source=rss------programming-5) (2026-03-04)
-- [ClaudeCode vs VSCode Copilot: Which One Really Costs You More?](https://medium.com/tech-ai-chat/claudecode-vs-vscode-copilot-which-one-really-costs-you-more-b5a8d030a425?source=rss------programming-5) (2026-03-04)
+- [AWS AI/ML Stack Explained: From Ready-Made AI to Fully Custom Machine Learning](https://medium.com/dev-simplified/aws-ai-ml-stack-explained-from-ready-made-ai-to-fully-custom-machine-learning-f79787fa3fb7?source=rss------programming-5) (2026-03-04)
+- [You’re Probably Leaking Production Data to AI (And Don’t Even Realize It)](https://medium.com/@elev8peak/youre-probably-leaking-production-data-to-ai-and-don-t-even-realize-it-1b1342a4c7fd?source=rss------programming-5) (2026-03-04)
+- [How to Stay Consistent While Learning Programming](https://medium.com/write-a-catalyst/how-to-stay-consistent-while-learning-programming-45511378cd8c?source=rss------programming-5) (2026-03-04)
+- [Before You Paste That Into ChatGPT… Mask It. (A Smarter Way to Share Data with AI)](https://medium.com/@elev8peak/before-you-paste-that-into-chatgpt-mask-it-a-smarter-way-to-share-data-with-ai-86d5a592c671?source=rss------programming-5) (2026-03-04)
+- [Raising Kids vs. Learning AI: The “Euthanasia” Chronicles of Parenthood and Programming](https://medium.com/@boskindcherry/raising-kids-vs-learning-ai-the-euthanasia-chronicles-of-parenthood-and-programming-e29271796429?source=rss------programming-5) (2026-03-04)
 
 </details>
 
