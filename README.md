@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Relicensing with AI-Assisted Rewrite](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/) (2026-03-05)
-- [You Just Reveived](https://dylan.gr/1772520728) (2026-03-05)
-- [The L in "LLM" Stands for Lying](https://acko.net/blog/the-l-in-llm-stands-for-lying/) (2026-03-05)
-- [Show HN: Poppy – a simple app to stay intentional with relationships](https://poppy-connection-keeper.netlify.app/) (2026-03-05)
-- [What Python's asyncio primitives get wrong about shared state](https://www.inngest.com/blog/no-lost-updates-python-asyncio) (2026-03-05)
+- [No right to relicense this project](https://github.com/chardet/chardet/issues/327) (2026-03-05)
+- [Smalltalk's Browser: Unbeatable, yet Not Enough](https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/) (2026-03-05)
+- [Poor Man's Polaroid](https://boxart.lt/blog/poor_mans_polaroid) (2026-03-05)
+- [Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift](https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23) (2026-03-05)
+- [Jails for NetBSD – Kernel Enforced Isolation and Native Resource Control](https://netbsd-jails.petermann-digital.de/) (2026-03-05)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Anthropic makes last-ditch effort to salvage deal with Pentagon after blowup](https://www.theverge.com/ai-artificial-intelligence/889782/anthropic-pentagon-discussions-ai-deal) (2026-03-05)
+- [Nothing’s Headphone A are something worth considering](https://www.theverge.com/tech/889615/nothing-headphone-a-review) (2026-03-05)
+- [Nothing is finally covering up with the metal Phone 4A Pro](https://www.theverge.com/tech/889769/nothing-phone-4a-pro-design-opaque-transparent) (2026-03-05)
+- [Bill Gates&#8217; nuclear company is the first to get approval to build next-gen reactor](https://www.theverge.com/science/889768/bill-gates-terrapower-nuclear-wyoming-reactor) (2026-03-05)
 - [Did Live Nation punish a venue by taking Billie Eilish away?](https://www.theverge.com/policy/889720/live-nation-ticketmaster-trial-doj-barclays-center-threats) (2026-03-05)
-- [A new video from the White House mixes Call of Duty footage with actual video of Iran strikes](https://www.theverge.com/games/889701/trump-white-house-call-of-duty-footage-iran) (2026-03-05)
-- [Seven tech giants signed Trump’s pledge to keep electricity costs from spiking around data centers ](https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft) (2026-03-05)
-- [Tim Sweeney signed away his right to criticize Google until 2032](https://www.theverge.com/news/889595/tim-sweeney-signed-away-his-right-to-criticize-google-until-2032) (2026-03-04)
-- [Here’s how Google describes its fee-reducing Apps Experience and Games Level Up programs](https://www.theverge.com/tech/889538/google-apps-experience-games-level-up-program) (2026-03-04)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [How much wildfire prevention is too much?](https://www.technologyreview.com/2026/03/05/1133960/wildfire-prevention-limits/) (2026-03-05)
+- [Online harassment is entering its AI era](https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/) (2026-03-05)
 - [Bridging the operational AI gap](https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/) (2026-03-04)
 - [The Download: Earth’s rumblings, and AI for strikes on Iran](https://www.technologyreview.com/2026/03/04/1133942/the-download-earths-rumblings-and-ai-for-strikes-on-iran/) (2026-03-04)
 - [MIT Technology Review Insiders Panel](https://www.technologyreview.com/2026/03/03/1133907/mit-technology-review-insiders-panel-2/) (2026-03-03)
-- [The Download: The startup that says it can stop lightning, and inside OpenAI’s Pentagon deal](https://www.technologyreview.com/2026/03/03/1133900/the-download-the-startup-that-says-it-can-stop-lightning-and-inside-openais-pentagon-deal/) (2026-03-03)
-- [This startup claims it can stop lightning and prevent catastrophic wildfires](https://www.technologyreview.com/2026/03/03/1133848/this-startup-claims-it-can-stop-lightning-and-prevent-catastrophic-wildfires/) (2026-03-03)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Recriando o Jimeng AI com o sistema multiagente do TRAE SOLO Coder](https://dev.to/captaincc/recriando-o-jimeng-ai-com-o-sistema-multiagente-do-trae-solo-coder-3hi1) (2026-03-05)
-- [🤖 Stop. Breathe. You Don't Need Every AI Tool.](https://dev.to/shashi_kiran_bcfdbb223140/stop-breathe-you-dont-need-every-ai-tool-hoi) (2026-03-05)
-- [Designing Model Ensembles in GenAI Platforms](https://dev.to/shreekansha97/designing-model-ensembles-in-genai-platforms-4ep7) (2026-03-05)
-- [Adding Real-Time Google AI Mode Data to Your OpenClaw Agent with Pangolinfo's AI Search Skill](https://dev.to/loopsthings/adding-real-time-google-ai-mode-data-to-your-openclaw-agent-with-pangolinfos-ai-search-skill-2n8b) (2026-03-05)
-- [Hashicorp Vault CLI Part 6: Authorization](https://dev.to/admantium/hashicorp-vault-cli-part-6-authorization-41hb) (2026-03-05)
+- [Your Kafka Cluster Is Already an Agent Orchestrator](https://dev.to/vainkop/your-kafka-cluster-is-already-an-agent-orchestrator-3d8h) (2026-03-05)
+- [Bing’s Game-Changing AI Performance Report](https://dev.to/kanani_nirav/bings-game-changing-ai-performance-report-50jl) (2026-03-05)
+- [Dark Mode is still breaking your HTML emails. Here is the logic to fix it.](https://dev.to/mailpeek/dark-mode-is-still-breaking-your-html-emails-here-is-the-logic-to-fix-it-g5c) (2026-03-05)
+- [So, you want to vibecode a linkblog?](https://dev.to/fernand0/so-you-want-to-vibecode-a-linkblog-245n) (2026-03-05)
+- [Step-by-Step Guide: Deploy a Containerized App to AWS](https://dev.to/ijay/step-by-step-guide-deploy-a-containerized-app-to-aws-56ne) (2026-03-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Casino API Documentation Guide (2026): Developer Benefits, Integration & Platform Strategy](https://betprocoders.medium.com/casino-api-documentation-guide-2026-developer-benefits-integration-platform-strategy-7e5f7c44be82?source=rss------programming-5) (2026-03-05)
-- [5 C++ Structure Patterns Every Programmer Ignores (But Shouldn’t)](https://medium.com/codetodeploy/5-c-structure-patterns-every-programmer-ignores-but-shouldnt-b5af17c8662d?source=rss------programming-5) (2026-03-05)
-- [Why Businesses Need Software Implementation Experts to Avoid Costly Technical Mistakes](https://medium.com/@darshanvaghani26/why-businesses-need-software-implementation-experts-to-avoid-costly-technical-mistakes-a43df0a07fd0?source=rss------programming-5) (2026-03-05)
-- [11 Shockingly Useful Python Features That Made My Code 10x Cleaner Overnight](https://medium.com/readers-club/11-shockingly-useful-python-features-that-made-my-code-10x-cleaner-overnight-8883c92c2106?source=rss------programming-5) (2026-03-05)
-- [How Businesses Can Solve Software Problems Faster with Expert Consultancy](https://medium.com/@darshanvaghani26/how-businesses-can-solve-software-problems-faster-with-expert-consultancy-52d923c2933a?source=rss------programming-5) (2026-03-05)
+- [These React Fundamentals Should Be Crystal Clear — Understand Them Through Practical Scenarios](https://medium.com/@amitwebdev2020/these-react-fundamentals-should-be-crystal-clear-understand-them-through-practical-scenarios-7c7ebcfbbd04?source=rss------programming-5) (2026-03-05)
+- [The Last Key Keeper](https://valdarixgames.medium.com/the-last-key-keeper-e932ce23afeb?source=rss------programming-5) (2026-03-05)
+- [The Hidden Cost of Over-Engineering Mobile Apps](https://kawaldeepsingh.medium.com/the-hidden-cost-of-over-engineering-mobile-apps-8807c82cada4?source=rss------programming-5) (2026-03-05)
+- [The Prof and The Empty Class](https://medium.com/@rajraunak.programmer/the-prof-and-the-empty-class-e92fa90acf4a?source=rss------programming-5) (2026-03-05)
+- [What is Machine Learning and How Does It Work?](https://medium.com/@shyamtechnologieshyd/what-is-machine-learning-and-how-does-it-work-7fdc95518c05?source=rss------programming-5) (2026-03-05)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Unlocking document understanding with Mistral Document AI in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664) (2026-03-03)
 - [Instant access incremental snapshots: Restore without waiting](https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/) (2026-03-02)
 - [Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected](http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog) (2026-02-24)
 - [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
 - [Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873) (2026-02-17)
+- [Azure reliability, resiliency, and recoverability: Build continuity by design](https://azure.microsoft.com/en-us/blog/azure-reliability-resiliency-and-recoverability-build-continuity-by-design/) (2026-02-17)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [ReSharper for Visual Studio Code, Cursor, and Compatible Editors Is Out](https://blog.jetbrains.com/dotnet/2026/03/05/resharper-for-visual-studio-code-cursor-and-compatible-editors-is-out/) (2026-03-05)
 - [Cursor Joined the ACP Registry and Is Now Live in Your JetBrains IDE](https://blog.jetbrains.com/ai/2026/03/cursor-joined-the-acp-registry-and-is-now-live-in-your-jetbrains-ide/) (2026-03-04)
 - [dotInsights | March 2026](https://blog.jetbrains.com/dotnet/2026/03/04/dotinsights-march-2026/) (2026-03-04)
 - [The experience gap: How developers’ priorities shift as they grow](https://blog.jetbrains.com/platform/2026/03/the-experience-gap-how-developers-priorities-shift-as-they-grow/) (2026-03-04)
 - [YouTrack 2026 Roadmap](https://blog.jetbrains.com/youtrack/2026/03/youtrack-2026-roadmap/) (2026-03-02)
-- [Working With STM32 Arm TrustZone-Based Projects in CLion](https://blog.jetbrains.com/clion/2026/03/working-with-stm32-arm-trustzone-in-clion/) (2026-03-02)
 
 </details>
 
@@ -558,33 +558,33 @@ https://www.twilio.com/en-us/blog/products/sunsetting-legacy-segment-analytics-l
 <details>
 <summary>🤖 AI News</summary>
 
+- [JPMorgan expands AI investment as tech spending nears $20B](https://www.artificialintelligence-news.com/news/jpmorgan-expands-ai-investment/) (2026-03-05)
+- [Beyond the pilot: Dyna.Ai raises eight-figure Series A to put agentic AI in financial services to work](https://www.artificialintelligence-news.com/news/dyna-ai-series-a-agentic-ai-financial-services/) (2026-03-05)
 - [Physical AI is having its moment–and everyone wants a piece of it](https://www.artificialintelligence-news.com/news/physical-ai-global-race-robots-manufacturing-2026/) (2026-03-04)
 - [AI agents prefer Bitcoin shaping new finance architecture](https://www.artificialintelligence-news.com/news/ai-agents-prefer-bitcoin-new-finance-architecture/) (2026-03-04)
 - [Google makes its industrial robotics AI play official–and this time, it means business](https://www.artificialintelligence-news.com/news/google-industrial-robotics-ai-physical-ai-intrinsic/) (2026-03-04)
-- [Best AI security solutions 2026: Top enterprise platforms compared](https://www.artificialintelligence-news.com/news/best-ai-security-solutions-2026-top-enterprise-platforms-compared/) (2026-03-03)
-- [The integration of AI in modern forex automation](https://www.artificialintelligence-news.com/news/the-integration-of-ai-in-modern-forex-automation/) (2026-03-03)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How Human Work Will Remain Valuable in an AI World](https://towardsdatascience.com/human-work-in-the-ai-world-how-to-remain-valuable/) (2026-03-05)
 - [5 Ways to Implement Variable Discretization](https://towardsdatascience.com/5-ways-for-variable-discretization/) (2026-03-04)
 - [Stop Tuning Hyperparameters. Start Tuning Your Problem.](https://towardsdatascience.com/stop-tuning-hyperparameters-start-tuning-your-problem/) (2026-03-04)
 - [Escaping the Prototype Mirage: Why Enterprise AI Stalls](https://towardsdatascience.com/escaping-the-prototype-mirage-why-enterprise-ai-stalls/) (2026-03-04)
 - [RAG with Hybrid Search: How Does Keyword Search Work?](https://towardsdatascience.com/rag-with-hybrid-search-how-does-keyword-search-work/) (2026-03-04)
-- [Graph Coloring You Can See](https://towardsdatascience.com/graph-coloring-you-can-see-visual-intuition-with-python/) (2026-03-03)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [PhysicEdit: Teaching Image Editing Models to Respect Physics](https://www.analyticsvidhya.com/blog/2026/03/physicedit-teaching-image-editing-models-physics/) (2026-03-05)
 - [​​Time Series Cross-Validation: A Guide to Techniques & Practical Implementation ](https://www.analyticsvidhya.com/blog/2026/03/time-series-cross-validation/) (2026-03-04)
 - [OpenClaw vs Claude Code: Which AI Coding Agent Should You Use in 2026? ](https://www.analyticsvidhya.com/blog/2026/03/openclaw-vs-claude-code/) (2026-03-03)
 - [20 OpenClaw Prompts to Automate Your Daily Life and Work](https://www.analyticsvidhya.com/blog/2026/03/openclaw-prompts/) (2026-03-03)
 - [10 Best YouTube Channels to Learn Generative AI](https://www.analyticsvidhya.com/blog/2026/03/youtube-channels-to-learn-generative-ai/) (2026-03-02)
-- [Building a RAG API with FastAPI](https://www.analyticsvidhya.com/blog/2026/03/building-a-rag-api-with-fastapi/) (2026-03-02)
 
 </details>
 
@@ -602,11 +602,11 @@ https://www.twilio.com/en-us/blog/products/sunsetting-legacy-segment-analytics-l
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Vector Databases vs. Graph RAG for Agent Memory: When to Use Which](https://machinelearningmastery.com/vector-databases-vs-graph-rag-for-agent-memory-when-to-use-which/) (2026-03-05)
 - [5 Essential Security Patterns for Robust Agentic AI](https://machinelearningmastery.com/5-essential-security-patterns-for-robust-agentic-ai/) (2026-03-04)
 - [Deploying AI Agents to Production: Architecture, Infrastructure, and Implementation Roadmap](https://machinelearningmastery.com/deploying-ai-agents-to-production-architecture-infrastructure-and-implementation-roadmap/) (2026-03-03)
 - [Build Semantic Search with LLM Embeddings](https://machinelearningmastery.com/build-semantic-search-with-llm-embeddings/) (2026-03-02)
 - [Can LLM Embeddings Improve Time Series Forecasting? A Practical Feature Engineering Approach](https://machinelearningmastery.com/can-llm-embeddings-improve-time-series-forecasting-a-practical-feature-engineering-approach/) (2026-02-27)
-- [KV Caching in LLMs: A Guide for Developers](https://machinelearningmastery.com/kv-caching-in-llms-a-guide-for-developers/) (2026-02-26)
 
 </details>
 
