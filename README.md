@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [What's Driving Rising Business Costs?](https://libertystreeteconomics.newyorkfed.org/2026/03/whats-driving-rising-business-costs/) (2026-03-05)
-- [Googleworkspace/CLI](https://github.com/googleworkspace/cli) (2026-03-05)
-- [Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’](https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/) (2026-03-04)
-- [NRC Issues First Commercial Reactor Construction Approval in 10 Years [pdf]](https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf) (2026-03-04)
-- [BMW Group to deploy humanoid robots in production in Germany for the first time](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en) (2026-03-04)
+- [Relicensing with AI-Assisted Rewrite](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/) (2026-03-05)
+- [You Just Reveived](https://dylan.gr/1772520728) (2026-03-05)
+- [The L in "LLM" Stands for Lying](https://acko.net/blog/the-l-in-llm-stands-for-lying/) (2026-03-05)
+- [Show HN: Poppy – a simple app to stay intentional with relationships](https://poppy-connection-keeper.netlify.app/) (2026-03-05)
+- [What Python's asyncio primitives get wrong about shared state](https://www.inngest.com/blog/no-lost-updates-python-asyncio) (2026-03-05)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Did Live Nation punish a venue by taking Billie Eilish away?](https://www.theverge.com/policy/889720/live-nation-ticketmaster-trial-doj-barclays-center-threats) (2026-03-05)
 - [A new video from the White House mixes Call of Duty footage with actual video of Iran strikes](https://www.theverge.com/games/889701/trump-white-house-call-of-duty-footage-iran) (2026-03-05)
 - [Seven tech giants signed Trump’s pledge to keep electricity costs from spiking around data centers ](https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft) (2026-03-05)
 - [Tim Sweeney signed away his right to criticize Google until 2032](https://www.theverge.com/news/889595/tim-sweeney-signed-away-his-right-to-criticize-google-until-2032) (2026-03-04)
 - [Here’s how Google describes its fee-reducing Apps Experience and Games Level Up programs](https://www.theverge.com/tech/889538/google-apps-experience-games-level-up-program) (2026-03-04)
-- [Epic and Google have signed a special deal for a new class of &#8216;metaverse&#8217; apps](https://www.theverge.com/tech/889526/epic-games-google-deal-metaverse-apps) (2026-03-04)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [5 Hard Lessons from Implementing Zapier OAuth in Spring Boot](https://dev.to/anand_rathnas_d5b608cc3de/5-hard-lessons-from-implementing-zapier-oauth-in-spring-boot-hfo) (2026-03-05)
-- [I Blinked When My Friend Asked This Question](https://dev.to/buddingdeveloper/i-blinked-when-my-friend-asked-this-question-39k4) (2026-03-05)
-- [SLAG! 🛡️ an invisble layer of protection 🔒](https://dev.to/iseecodepeople/slag-an-invisble-layer-of-protection-500b) (2026-03-05)
-- [When an Image Pipeline Dies: The Costly Mistakes Teams Keep Making with AI Photo Tools](https://dev.to/gabrieal845/when-an-image-pipeline-dies-the-costly-mistakes-teams-keep-making-with-ai-photo-tools-4l0e) (2026-03-05)
-- [56 Free Developer Tools. One Page. Zero Dependencies.](https://dev.to/yurukusa/56-free-developer-tools-one-page-zero-dependencies-k1e) (2026-03-05)
+- [Recriando o Jimeng AI com o sistema multiagente do TRAE SOLO Coder](https://dev.to/captaincc/recriando-o-jimeng-ai-com-o-sistema-multiagente-do-trae-solo-coder-3hi1) (2026-03-05)
+- [🤖 Stop. Breathe. You Don't Need Every AI Tool.](https://dev.to/shashi_kiran_bcfdbb223140/stop-breathe-you-dont-need-every-ai-tool-hoi) (2026-03-05)
+- [Designing Model Ensembles in GenAI Platforms](https://dev.to/shreekansha97/designing-model-ensembles-in-genai-platforms-4ep7) (2026-03-05)
+- [Adding Real-Time Google AI Mode Data to Your OpenClaw Agent with Pangolinfo's AI Search Skill](https://dev.to/loopsthings/adding-real-time-google-ai-mode-data-to-your-openclaw-agent-with-pangolinfos-ai-search-skill-2n8b) (2026-03-05)
+- [Hashicorp Vault CLI Part 6: Authorization](https://dev.to/admantium/hashicorp-vault-cli-part-6-authorization-41hb) (2026-03-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [4️⃣ Session Management Series: JWT Token Generation — Step-by-Step Technical Analysis — 4](https://medium.com/@melisa.akkus/4%EF%B8%8F%E2%83%A3-session-management-series-jwt-token-generation-step-by-step-technical-analysis-4-2eea041ede66?source=rss------programming-5) (2026-03-05)
-- [4️⃣ Oturum Yönetimi Serisi : JWT Token Üretimi —Adım Adım Teknik Analiz — 4](https://medium.com/@melisa.akkus/4%EF%B8%8F%E2%83%A3-oturum-y%C3%B6netimi-serisi-jwt-token-%C3%BCretimi-ad%C4%B1m-ad%C4%B1m-teknik-analiz-4-f18f751523fa?source=rss------programming-5) (2026-03-05)
-- [Python Types of Methods — Instance, Class, Static](https://medium.com/@d01414835/python-types-of-methods-instance-class-static-d26a3fd9fe4c?source=rss------programming-5) (2026-03-05)
-- [Python OOP Mastery — Advanced Class Types](https://medium.com/@d01414835/python-oop-mastery-advanced-class-types-89640e24c883?source=rss------programming-5) (2026-03-05)
-- [Python Deep Dive — Access Modifiers & Data Hiding](https://medium.com/@d01414835/python-deep-dive-access-modifiers-data-hiding-22dfd794b98e?source=rss------programming-5) (2026-03-05)
+- [Casino API Documentation Guide (2026): Developer Benefits, Integration & Platform Strategy](https://betprocoders.medium.com/casino-api-documentation-guide-2026-developer-benefits-integration-platform-strategy-7e5f7c44be82?source=rss------programming-5) (2026-03-05)
+- [5 C++ Structure Patterns Every Programmer Ignores (But Shouldn’t)](https://medium.com/codetodeploy/5-c-structure-patterns-every-programmer-ignores-but-shouldnt-b5af17c8662d?source=rss------programming-5) (2026-03-05)
+- [Why Businesses Need Software Implementation Experts to Avoid Costly Technical Mistakes](https://medium.com/@darshanvaghani26/why-businesses-need-software-implementation-experts-to-avoid-costly-technical-mistakes-a43df0a07fd0?source=rss------programming-5) (2026-03-05)
+- [11 Shockingly Useful Python Features That Made My Code 10x Cleaner Overnight](https://medium.com/readers-club/11-shockingly-useful-python-features-that-made-my-code-10x-cleaner-overnight-8883c92c2106?source=rss------programming-5) (2026-03-05)
+- [How Businesses Can Solve Software Problems Faster with Expert Consultancy](https://medium.com/@darshanvaghani26/how-businesses-can-solve-software-problems-faster-with-expert-consultancy-52d923c2933a?source=rss------programming-5) (2026-03-05)
 
 </details>
 
@@ -503,11 +503,11 @@ https://www.twilio.com/en-us/blog/products/sunsetting-legacy-segment-analytics-l
 <details>
 <summary>💬 Slack API</summary>
 
-- [Project Planning and Timelines Guide: Tools and Best Practices](https://slack.com/blog/productivity/project-planning-and-timelines-guide-tools-and-best-practices) (2026-03-02)
-- [Best Data Discovery Tools in 2026 for Product, Network, and IT Assets](https://slack.com/blog/productivity/best-discovery-tools) (2026-03-02)
 - [Slack Feature Drop: Better Connections for Every Kind of Work](https://slack.com/blog/news/feature-drop-feb26) (2026-03-01)
 - [Project Management Software Guide for 2026](https://slack.com/blog/collaboration/project-management-software) (2026-02-27)
 - [The Best Slackbot Prompts for Customer Service Teams](https://slack.com/blog/productivity/slackbot-for-customer-service) (2026-02-26)
+- [Five Essential Communication Channels in the Workplace](https://slack.com/blog/collaboration/communication-channels) (2026-02-23)
+- [Slack Securely Powers Your Third-Party Agents With Your Business Context](https://slack.com/blog/news/mcp-real-time-search-api-now-available) (2026-02-17)
 
 </details>
 
