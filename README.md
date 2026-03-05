@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Decagon completes first tender offer at $4.5B valuation](https://techcrunch.com/2026/03/04/decagon-completes-first-tender-offer-at-4-5b-valuation/) (2026-03-04)
-- [The US military is still using Claude — but defense-tech clients are fleeing](https://techcrunch.com/2026/03/04/the-us-military-is-still-using-claude-but-defense-tech-clients-are-fleeing/) (2026-03-04)
-- [X taps William Shatner to give out invites to its payments service, X Money](https://techcrunch.com/2026/03/04/x-taps-william-shatner-to-give-out-invites-to-its-payments-service-x-money/) (2026-03-04)
-- [Host a Side Event during TechCrunch Founder Summit Week in Boston](https://techcrunch.com/2026/03/04/host-a-side-event-during-techcrunch-founder-summit-week-in-boston/) (2026-03-04)
-- [TikTok won’t add end-to-end encryption to direct messages, report says](https://techcrunch.com/2026/03/04/tiktok-wont-add-end-to-end-encryption-to-direct-messages-report-says/) (2026-03-04)
+- [Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic, but his explanation raises more questions than it answers](https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/) (2026-03-05)
+- [Anthropic CEO Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies,’ report says](https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/) (2026-03-04)
+- [Apple Music to add Transparency Tags to distinguish AI music, says report](https://techcrunch.com/2026/03/04/apple-music-to-add-transparency-tags-to-distinguish-ai-music-says-report/) (2026-03-04)
+- [Google settles with Epic Games, drops its Play Store commissions to 20%](https://techcrunch.com/2026/03/04/google-settles-with-epic-games-drops-its-play-store-commissions-to-20/) (2026-03-04)
+- [His house burned down. He used the insurance money to build PopSockets.](https://techcrunch.com/video/his-house-burned-down-he-used-the-insurance-money-to-build-popsockets/) (2026-03-04)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Making Firefox's right-click not suck with about:config](https://joshua.hu/firefox-making-right-click-not-suck) (2026-03-04)
-- [NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute](https://qlabs.sh/slowrun) (2026-03-04)
-- [Roboflow (YC S20) Is Hiring a Security Engineer for AI Infra](https://roboflow.com/careers) (2026-03-04)
-- [Sea level much higher than assumed in most coastal hazard assessments](https://www.nature.com/articles/s41586-026-10196-1) (2026-03-04)
-- [Something is afoot in the land of Qwen](https://simonwillison.net/2026/Mar/4/qwen/) (2026-03-04)
+- [What's Driving Rising Business Costs?](https://libertystreeteconomics.newyorkfed.org/2026/03/whats-driving-rising-business-costs/) (2026-03-05)
+- [Googleworkspace/CLI](https://github.com/googleworkspace/cli) (2026-03-05)
+- [Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’](https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/) (2026-03-04)
+- [NRC Issues First Commercial Reactor Construction Approval in 10 Years [pdf]](https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf) (2026-03-04)
+- [BMW Group to deploy humanoid robots in production in Germany for the first time](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en) (2026-03-04)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Google isn’t waiting for a settlement — the 30 percent Android app store fee is dead](https://www.theverge.com/policy/889252/google-app-store-fee-reduction-20-percent-epic-v-google) (2026-03-04)
-- [Downdetector and Speedtest sold to Accenture for $1.2 billion](https://www.theverge.com/tech/889234/downdetector-ookla-speedtest-sold-accenture) (2026-03-04)
-- [Honor’s Robot Phone is a bad robot, an interesting camera, and maybe your friend](https://www.theverge.com/gadgets/889023/honor-robot-phone-gimbal-stabilization-mwc) (2026-03-04)
-- [MacBook Neo versus an old MacBook Air: good luck](https://www.theverge.com/gadgets/889128/macbook-neo-vs-older-macbook-air) (2026-03-04)
-- [Google faces wrongful death lawsuit after Gemini allegedly &#8216;coached&#8217; man to die by suicide](https://www.theverge.com/tech/889152/google-gemini-ai-wrongful-death-lawsuit) (2026-03-04)
+- [A new video from the White House mixes Call of Duty footage with actual video of Iran strikes](https://www.theverge.com/games/889701/trump-white-house-call-of-duty-footage-iran) (2026-03-05)
+- [Seven tech giants signed Trump’s pledge to keep electricity costs from spiking around data centers ](https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft) (2026-03-05)
+- [Tim Sweeney signed away his right to criticize Google until 2032](https://www.theverge.com/news/889595/tim-sweeney-signed-away-his-right-to-criticize-google-until-2032) (2026-03-04)
+- [Here’s how Google describes its fee-reducing Apps Experience and Games Level Up programs](https://www.theverge.com/tech/889538/google-apps-experience-games-level-up-program) (2026-03-04)
+- [Epic and Google have signed a special deal for a new class of &#8216;metaverse&#8217; apps](https://www.theverge.com/tech/889526/epic-games-google-deal-metaverse-apps) (2026-03-04)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Google Pixel 10a review: The sidegrade](https://arstechnica.com/gadgets/2026/03/the-sidegrade/) (2026-03-04)
-- [Are consumers doomed to pay more for electricity due to data center buildouts?](https://arstechnica.com/ai/2026/03/are-consumers-doomed-to-pay-more-for-electricity-due-to-data-center-buildouts/) (2026-03-04)
-- [The $599 MacBook Neo is Apple's long-awaited colorful, lower-cost MacBook](https://arstechnica.com/gadgets/2026/03/the-599-macbook-neo-is-apples-long-awaited-colorful-lower-cost-macbook/) (2026-03-04)
-- [No fooling: NASA targets April 1 for Artemis II launch to the Moon](https://arstechnica.com/space/2026/03/no-fooling-nasa-targets-april-1-for-artemis-ii-launch-to-the-moon/) (2026-03-03)
-- [Downdetector, Speedtest sold to IT service-provider Accenture in $1.2B deal](https://arstechnica.com/information-technology/2026/03/downdetector-speedtest-sold-to-it-service-provider-accenture-in-1-2b-deal/) (2026-03-03)
+- [TerraPower gets OK to start construction of its first nuclear plant](https://arstechnica.com/science/2026/03/terrapower-gets-ok-to-start-construction-of-its-first-nuclear-plant/) (2026-03-04)
+- [Space Command chief throws cold water on the question of UAPs in space](https://arstechnica.com/space/2026/03/space-command-chief-throws-cold-water-on-the-question-of-uaps-in-space/) (2026-03-04)
+- [Large genome model: Open source AI trained on trillions of bases](https://arstechnica.com/science/2026/03/large-genome-model-open-source-ai-trained-on-trillions-of-bases/) (2026-03-04)
+- [Google and Epic announce settlement to end app store antitrust case](https://arstechnica.com/gadgets/2026/03/google-and-epic-look-to-bury-the-hatchet-with-new-app-store-settlement/) (2026-03-04)
+- [Lawsuit: Google Gemini sent man on violent missions, set suicide "countdown"](https://arstechnica.com/tech-policy/2026/03/lawsuit-google-gemini-sent-man-on-violent-missions-set-suicide-countdown/) (2026-03-04)
 
 </details>
 
@@ -97,33 +97,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How OpenPawz secures AI agents: Defense layers from memory encryption to multi-agent governance](https://dev.to/gotham64/how-openpawz-secures-ai-agents-defense-layers-from-memory-encryption-to-multi-agent-governance-2jnn) (2026-03-04)
-- [What Are Agent Skills? Beginners Guide](https://dev.to/debs_obrien/what-are-agent-skills-beginners-guide-e2n) (2026-03-04)
-- [Congrats to the Algolia Agent Studio Challenge Winners!](https://dev.to/devteam/congrats-to-the-algolia-agent-studio-challenge-winners-3ocn) (2026-03-04)
-- [Serverless, cloud-native strongly consistent replicated state machine atop S3](https://dev.to/mzaza/serverless-cloud-native-strongly-consistent-replicated-state-machine-atop-s3-68k) (2026-03-04)
-- [How I Made Missing Translations a Compile-Time TypeScript Error](https://dev.to/akocan98/how-i-made-missing-translations-a-compile-time-typescript-error-5bjc) (2026-03-04)
+- [5 Hard Lessons from Implementing Zapier OAuth in Spring Boot](https://dev.to/anand_rathnas_d5b608cc3de/5-hard-lessons-from-implementing-zapier-oauth-in-spring-boot-hfo) (2026-03-05)
+- [I Blinked When My Friend Asked This Question](https://dev.to/buddingdeveloper/i-blinked-when-my-friend-asked-this-question-39k4) (2026-03-05)
+- [SLAG! 🛡️ an invisble layer of protection 🔒](https://dev.to/iseecodepeople/slag-an-invisble-layer-of-protection-500b) (2026-03-05)
+- [When an Image Pipeline Dies: The Costly Mistakes Teams Keep Making with AI Photo Tools](https://dev.to/gabrieal845/when-an-image-pipeline-dies-the-costly-mistakes-teams-keep-making-with-ai-photo-tools-4l0e) (2026-03-05)
+- [56 Free Developer Tools. One Page. Zero Dependencies.](https://dev.to/yurukusa/56-free-developer-tools-one-page-zero-dependencies-k1e) (2026-03-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Thought AI Made Me Faster. My Metrics Disagreed.](https://medium.com/@Sophia_Devy/i-thought-ai-made-me-faster-my-metrics-disagreed-d86a0eaa8715?source=rss------programming-5) (2026-03-04)
-- [How First-Year Students Can Build Strong Skills Without Wasting Time](https://medium.com/@arsdhyapandey/how-first-year-students-can-build-strong-skills-without-wasting-time-174b0944d32b?source=rss------programming-5) (2026-03-04)
-- [From Monolith to Container: A Practical Guide](https://medium.com/@maneakanksha772/from-monolith-to-container-a-practical-guide-76012442bccf?source=rss------programming-5) (2026-03-04)
-- [Teaching LLMs to Remember: Internalizing Documents Without Fine-Tuning](https://levelup.gitconnected.com/teaching-llms-to-remember-internalizing-documents-without-fine-tuning-213ec242aee7?source=rss------programming-5) (2026-03-04)
-- [The Practical Limits of DuckDB on Commodity Hardware](https://levelup.gitconnected.com/the-practical-limits-of-duckdb-on-commodity-hardware-3d6d6cf2bdde?source=rss------programming-5) (2026-03-04)
+- [4️⃣ Session Management Series: JWT Token Generation — Step-by-Step Technical Analysis — 4](https://medium.com/@melisa.akkus/4%EF%B8%8F%E2%83%A3-session-management-series-jwt-token-generation-step-by-step-technical-analysis-4-2eea041ede66?source=rss------programming-5) (2026-03-05)
+- [4️⃣ Oturum Yönetimi Serisi : JWT Token Üretimi —Adım Adım Teknik Analiz — 4](https://medium.com/@melisa.akkus/4%EF%B8%8F%E2%83%A3-oturum-y%C3%B6netimi-serisi-jwt-token-%C3%BCretimi-ad%C4%B1m-ad%C4%B1m-teknik-analiz-4-f18f751523fa?source=rss------programming-5) (2026-03-05)
+- [Python Types of Methods — Instance, Class, Static](https://medium.com/@d01414835/python-types-of-methods-instance-class-static-d26a3fd9fe4c?source=rss------programming-5) (2026-03-05)
+- [Python OOP Mastery — Advanced Class Types](https://medium.com/@d01414835/python-oop-mastery-advanced-class-types-89640e24c883?source=rss------programming-5) (2026-03-05)
+- [Python Deep Dive — Access Modifiers & Data Hiding](https://medium.com/@d01414835/python-deep-dive-access-modifiers-data-hiding-22dfd794b98e?source=rss------programming-5) (2026-03-05)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Introducing OpenClaw on Amazon Lightsail to run your autonomous private AI agents](https://aws.amazon.com/blogs/aws/introducing-openclaw-on-amazon-lightsail-to-run-your-autonomous-private-ai-agents/) (2026-03-04)
 - [AWS Weekly Roundup: OpenAI partnership, AWS Elemental Inference, Strands Labs, and more (March 2, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-partnership-aws-elemental-inference-strands-labs-and-more-march-2-2026/) (2026-03-02)
 - [AWS Security Hub Extended offers full-stack enterprise security with curated partner solutions](https://aws.amazon.com/blogs/aws/aws-security-hub-extended-offers-full-stack-enterprise-security-with-curated-partner-solutions/) (2026-02-26)
 - [Transform live video for mobile audiences with AWS Elemental Inference](https://aws.amazon.com/blogs/aws/transform-live-video-for-mobile-audiences-with-aws-elemental-inference/) (2026-02-24)
 - [AWS Weekly Roundup: Claude Sonnet 4.6 in Amazon Bedrock, Kiro in GovCloud Regions, new Agent Plugins, and more (February 23, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-4-6-in-amazon-bedrock-kiro-in-govcloud-regions-new-agent-plugins-and-more-february-23-2026/) (2026-02-23)
-- [Amazon EC2 Hpc8a Instances powered by 5th Gen AMD EPYC processors are now available](https://aws.amazon.com/blogs/aws/amazon-ec2-hpc8a-instances-powered-by-5th-gen-amd-epyc-processors-are-now-available/) (2026-02-16)
 
 </details>
 
@@ -163,11 +163,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Battery Technical Quality Enforcement is Here:  How to Optimize Common Wake Lock Use Cases](https://android-developers.googleblog.com/2026/03/battery-technical-quality-enforcement.html) (2026-03-05)
+- [How WHOOP decreased excessive partial wake lock sessions by over 90%](https://android-developers.googleblog.com/2026/03/how-whoop-decreased-excessive-partial.html) (2026-03-04)
 - [A new era for choice and openness ](https://android-developers.googleblog.com/2026/03/a-new-era-for-choice-and-openness.html) (2026-03-04)
 - [Android devices extend seamlessly to connected displays](https://android-developers.googleblog.com/2026/03/android-devices-extend-seamlessly-to.html) (2026-03-03)
 - [Go from prompt to working prototype with Android Studio Panda 2](https://android-developers.googleblog.com/2026/05/go-from-prompt-to-working-prototype.html) (2026-03-03)
-- [Supercharge your Android development with 6 expert tips for Gemini in Android Studio](https://android-developers.googleblog.com/2026/03/supercharge-your-android-development.html) (2026-03-02)
-- [The Second Beta of Android 17](https://android-developers.googleblog.com/2026/02/the-second-beta-of-android-17.html) (2026-02-26)
 
 </details>
 
@@ -317,7 +317,7 @@
 <details>
 <summary>📝 Visual Studio Code</summary>
 
-- [February 2026 Insiders (version 1.110)](https://code.visualstudio.com/updates/v1_110) (2026-03-04)
+- [February 2026 (version 1.110)](https://code.visualstudio.com/updates/v1_110) (2026-03-04)
 - [Building Long-Distance Next Edit Suggestions](https://code.visualstudio.com/blogs/2026/02/26/long-distance-nes) (2026-02-26)
 - [Your Home for Multi-Agent Development](https://code.visualstudio.com/blogs/2026/02/05/multi-agent-development) (2026-02-05)
 - [January 2026 (version 1.109)](https://code.visualstudio.com/updates/v1_109) (2026-02-04)
@@ -503,11 +503,11 @@ https://www.twilio.com/en-us/blog/products/sunsetting-legacy-segment-analytics-l
 <details>
 <summary>💬 Slack API</summary>
 
+- [Project Planning and Timelines Guide: Tools and Best Practices](https://slack.com/blog/productivity/project-planning-and-timelines-guide-tools-and-best-practices) (2026-03-02)
+- [Best Data Discovery Tools in 2026 for Product, Network, and IT Assets](https://slack.com/blog/productivity/best-discovery-tools) (2026-03-02)
 - [Slack Feature Drop: Better Connections for Every Kind of Work](https://slack.com/blog/news/feature-drop-feb26) (2026-03-01)
 - [Project Management Software Guide for 2026](https://slack.com/blog/collaboration/project-management-software) (2026-02-27)
 - [The Best Slackbot Prompts for Customer Service Teams](https://slack.com/blog/productivity/slackbot-for-customer-service) (2026-02-26)
-- [Five Essential Communication Channels in the Workplace](https://slack.com/blog/collaboration/communication-channels) (2026-02-23)
-- [Slack Securely Powers Your Third-Party Agents With Your Business Context](https://slack.com/blog/news/mcp-real-time-search-api-now-available) (2026-02-17)
 
 </details>
 
@@ -569,11 +569,11 @@ https://www.twilio.com/en-us/blog/products/sunsetting-legacy-segment-analytics-l
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [5 Ways to Implement Variable Discretization](https://towardsdatascience.com/5-ways-for-variable-discretization/) (2026-03-04)
+- [Stop Tuning Hyperparameters. Start Tuning Your Problem.](https://towardsdatascience.com/stop-tuning-hyperparameters-start-tuning-your-problem/) (2026-03-04)
 - [Escaping the Prototype Mirage: Why Enterprise AI Stalls](https://towardsdatascience.com/escaping-the-prototype-mirage-why-enterprise-ai-stalls/) (2026-03-04)
 - [RAG with Hybrid Search: How Does Keyword Search Work?](https://towardsdatascience.com/rag-with-hybrid-search-how-does-keyword-search-work/) (2026-03-04)
 - [Graph Coloring You Can See](https://towardsdatascience.com/graph-coloring-you-can-see-visual-intuition-with-python/) (2026-03-03)
-- [Why You Should Stop Writing Loops in Pandas ](https://towardsdatascience.com/stop-writing-loops-in-pandas-do-this-instead/) (2026-03-03)
-- [I Quit My $130,000 ML Engineer Job After Learning 4 Lessons](https://towardsdatascience.com/i-quit-my-130000-ml-engineer-job-after-learning-4-lessons/) (2026-03-03)
 
 </details>
 
