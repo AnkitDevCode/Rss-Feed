@@ -20,7 +20,7 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Anthropic to challenge DOD’s supply chain label in court](https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/) (2026-03-06)
+- [Anthropic to challenge DOD’s supply-chain label in court](https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/) (2026-03-06)
 - [DiligenceSquared uses AI, voice agents to make M&A research affordable](https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/) (2026-03-05)
 - [Cluely CEO Roy Lee admits to publicly lying about revenue numbers last year](https://techcrunch.com/2026/03/05/cluely-ceo-roy-lee-admits-to-publicly-lying-about-revenue-numbers-last-year/) (2026-03-05)
 - [AWS launches a new AI agent platform specifically for healthcare](https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/) (2026-03-05)
@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Where things stand with the Department of War](https://www.anthropic.com/news/where-stand-department-war) (2026-03-06)
-- [The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now](https://charm.land/blog/v2/) (2026-03-05)
-- [A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://406.fail/) (2026-03-05)
-- [Ethiopia gets $350M World Bank financing for its digital ID project (2024)](https://www.mariblock.com/stories/ethiopia-to-get-350-million-world-bank-financing-for-its-digital-id-project) (2026-03-05)
-- [Proton Mail Helped FBI Unmask Anonymous 'Stop Cop City' Protester](https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/) (2026-03-05)
+- [TeX Live 2026 is available for download now](https://www.tug.org/texlive/acquire.html) (2026-03-06)
+- [Show HN: Swarm – Program a colony of 200 ants using a custom assembly language](https://dev.moment.com/) (2026-03-06)
+- [System76 on Age Verification Laws](https://blog.system76.com/post/system76-on-age-verification/) (2026-03-06)
+- [Breaking Down 50M Pins: A Smarter Way to Design 3D IC Packages](https://www.allaboutcircuits.com/industry-articles/breaking-down-50-million-pins-a-smarter-way-to-design-3d-ic-packages/) (2026-03-06)
+- [How to install and start using LineageOS on your phone](https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html) (2026-03-06)
 
 </details>
 
@@ -86,33 +86,34 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Building brains for bulldozers](https://stackoverflow.blog/2026/03/06/building-brains-for-bulldozers/) (2026-03-06)
 - [DeveloperWeek 2026: Making AI tools that are actually good ](https://stackoverflow.blog/2026/03/05/developerweek-2026/) (2026-03-05)
 - [AI-assisted coding needs more than vibes; it needs containers and sandboxes](https://stackoverflow.blog/2026/03/04/ai-assisted-coding-vibes-hardened-containers-and-sandboxes/) (2026-03-04)
 - [No need for Ctrl+C when you have MCP](https://stackoverflow.blog/2026/03/03/no-need-for-ctrl-c-when-you-have-mcp/) (2026-03-03)
 - [What’s new at Stack Overflow: March 2026](https://stackoverflow.blog/2026/03/02/what-s-new-at-stack-overflow-march-2026/) (2026-03-02)
-- [To live in an AI world, knowing is half the battle](https://stackoverflow.blog/2026/02/27/to-live-in-an-ai-world-knowing-is-half-the-battle/) (2026-02-27)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How to Actually Tailor Your Resume Without Losing Your Mind](https://dev.to/pedroven/how-to-actually-tailor-your-resume-without-losing-your-mind-24kf) (2026-03-06)
-- [Introducing 'Publish to Dev.to Organization' Action: How to Safely Test Your Workflow](https://dev.to/tinyalg/introducing-publish-to-devto-organization-action-how-to-safely-test-your-workflow-12gb) (2026-03-06)
-- [Beyond Static Resources: Delta Compression for Dynamic HTML](https://dev.to/carlosmateom/beyond-static-resources-delta-compression-for-dynamic-html-3hn4) (2026-03-06)
-- [Why Passing Eloquent Models to Queued Jobs Can Be Problematic](https://dev.to/andreluizlunelli/why-passing-eloquent-models-to-queued-jobs-can-be-problematic-26m7) (2026-03-06)
-- [Arquitetura em Camadas: Um guia para Organização de APIs](https://dev.to/leo606/arquitetura-em-camadas-um-guia-para-organizacao-de-apis-1pm6) (2026-03-06)
+- [Topology-Aware AI Agents for Observability: Automating SLO Breach Root Cause Analysis](https://dev.to/roops/topology-aware-ai-agents-for-observability-automating-slo-breach-root-cause-analysis-60i) (2026-03-06)
+- [Why Every Developer Will Eventually Design AI Systems](https://dev.to/jaideepparashar/why-every-developer-will-eventually-design-ai-systems-1khf) (2026-03-06)
+- [OpenTableAPI for Developers: Build APIs from Your Table Data](https://dev.to/priyantha_weerasinghe_1d4/opentableapi-for-developers-build-apis-from-your-table-data-27nh) (2026-03-06)
+- [Vibe Coding Challenge - Day 8: Case Files Dedective Game](https://dev.to/labdays/vibe-coding-challenge-day-8-case-files-dedective-game-33o7) (2026-03-06)
+- [What is Engineer persona?](https://dev.to/priya_sajja_c336921bbda87/what-is-engineer-persona-5e29) (2026-03-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Land Clients Fast: 7 Python Side Projects That Work](https://python.plainenglish.io/land-clients-fast-7-python-side-projects-that-work-0592da1a1ae5?source=rss------programming-5) (2026-03-06)
-- [How I Made $10,000 Writing a Single Article About Making $10,000](https://medium.com/@tender6795/how-i-made-10-000-writing-a-single-article-about-making-10-000-02be82e4550b?source=rss------programming-5) (2026-03-06)
-- [️ 6 THINGS YOU SHOULD NEVER DO](https://medium.com/illumination/%EF%B8%8F-6-things-you-should-never-do-ce6de33ba421?source=rss------programming-5) (2026-03-06)
-- [Architecture Draft — Maximizing Freedom Without Building Python Bots](https://medium.com/@hiroshijantzen/architecture-draft-maximizing-freedom-without-building-python-bots-29ae569bbda5?source=rss------programming-5) (2026-03-06)
-- [The Gravity of Quick Wins: Feedback, Incentives, and the Real Work of Engineering Management](https://medium.com/@aludanyi/the-gravity-of-quick-wins-feedback-incentives-and-the-real-work-of-engineering-management-e4f566cbf29a?source=rss------programming-5) (2026-03-06)
+- [7 Things I Stopped Doing That Made Me a Better Programmer](https://python.plainenglish.io/7-things-i-stopped-doing-that-made-me-a-better-programmer-019ac4c38a78?source=rss------programming-5) (2026-03-06)
+- [I Studied Great Developers for 30 Days — 10 Habits I Noticed](https://python.plainenglish.io/i-studied-great-developers-for-30-days-10-habits-i-noticed-da8f968a4659?source=rss------programming-5) (2026-03-06)
+- [The Data Structure That Runs the Internet](https://medium.com/activated-thinker/the-data-structure-that-runs-the-internet-357a829bc265?source=rss------programming-5) (2026-03-06)
+- [OpenAI Lost the Developer War. Anthropic Just Quietly Won It.](https://medium.com/@premchandak_11/openai-lost-the-developer-war-anthropic-just-quietly-won-it-f41b0d522996?source=rss------programming-5) (2026-03-06)
+- [ Why Every Business Needs a High-Performance Website in 2026
+In today’s digital era, your website…](https://medium.com/@kaliatahir4/why-every-business-needs-a-high-performance-website-in-2026-in-todays-digital-era-your-website-a8e0548b03ca?source=rss------programming-5) (2026-03-06)
 
 </details>
 
@@ -502,11 +503,11 @@ https://www.twilio.com/en-us/blog/products/sunsetting-legacy-segment-analytics-l
 <details>
 <summary>💬 Slack API</summary>
 
+- [3 New Ways Salesforce Meets You in Slack](https://slack.com/blog/news/conversational-intelligence-with-slack) (2026-03-05)
 - [Project Planning and Timelines Guide: Tools and Best Practices](https://slack.com/blog/productivity/project-planning-and-timelines-guide-tools-and-best-practices) (2026-03-02)
 - [Best Data Discovery Tools in 2026 for Product, Network, and IT Assets](https://slack.com/blog/productivity/best-discovery-tools) (2026-03-02)
 - [Slack Feature Drop: Better Connections for Every Kind of Work](https://slack.com/blog/news/feature-drop-feb26) (2026-03-01)
 - [Project Management Software Guide for 2026](https://slack.com/blog/collaboration/project-management-software) (2026-02-27)
-- [The Best Slackbot Prompts for Customer Service Teams](https://slack.com/blog/productivity/slackbot-for-customer-service) (2026-02-26)
 
 </details>
 
