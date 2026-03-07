@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [OpenAI delays ChatGPT’s ‘adult mode’ again](https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/) (2026-03-07)
 - [Robinhood’s startup fund stumbles in NYSE debut](https://techcrunch.com/2026/03/06/robinhoods-startup-fund-stumbles-in-nyse-debut/) (2026-03-07)
 - [X is testing a new ad format that connects posts with products](https://techcrunch.com/2026/03/06/x-is-testing-a-new-ad-format-that-connects-posts-with-products/) (2026-03-06)
 - [Nintendo sues the US government for a refund on tariffs](https://techcrunch.com/2026/03/06/nintendo-sues-the-u-s-government-for-a-refund-on-tariffs/) (2026-03-06)
 - [Life EV officially owns Rad Power Bikes now](https://techcrunch.com/2026/03/06/life-ev-officially-owns-rad-power-bikes-now/) (2026-03-06)
-- [OSHA probing fatality at Rivian warehouse](https://techcrunch.com/2026/03/06/osha-probing-fatality-at-rivian-warehouse/) (2026-03-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Ki Editor - an editor that operates on the AST](https://ki-editor.org/) (2026-03-07)
-- [Boy I was wrong about the Fediverse](https://matduggan.com/boy-i-was-wrong-about-the-fediverse/) (2026-03-07)
-- [Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues](https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/) (2026-03-07)
-- [QGIS 4.0](https://changelog.qgis.org/en/version/4.0/) (2026-03-07)
-- [Sarvam 105B, the first competitive Indian open source LLM](https://www.sarvam.ai/blogs/sarvam-30b-105b) (2026-03-07)
+- [Verification debt: the hidden cost of AI-generated code](https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981) (2026-03-07)
+- [SigNoz (YC W21, open source Datadog) Is Hiring across roles](https://signoz.io/careers) (2026-03-07)
+- [The Banality of Surveillance](https://benn.substack.com/p/the-banality-of-surveillance) (2026-03-07)
+- [A Decade of Docker Containers](https://cacm.acm.org/research/a-decade-of-docker-containers/) (2026-03-07)
+- [Show HN: Argus – VSCode debugger for Claude Code sessions](https://github.com/yessGlory17/argus) (2026-03-07)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The Corvette ZR1X hybrid can outpace million-dollar sports cars for a fraction of the cost](https://www.theverge.com/transportation/888573/chevy-corvette-zr1x-hybrid-racing-performance) (2026-03-07)
-- [DJI will pay $30K to the man who accidentally hacked 7,000 Romo robovacs](https://www.theverge.com/news/890982/dji-pay-sammy-azdoufal-robot-vacuum-hack-romo-security) (2026-03-07)
-- [Valve says it still plans to ship the Steam Machine in 2026](https://www.theverge.com/games/890986/valve-steam-machine-frame-controller-delay-ram-memory) (2026-03-06)
-- [Grammarly is using our identities without permission](https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews) (2026-03-06)
-- [The best microSD Express card for the Switch 2 is the cheapest one you can find](https://www.theverge.com/tech/676075/switch-2-microsd-express-cards-where-to-buy) (2026-03-06)
+- [Sony appears to be testing dynamic pricing on PlayStation games](https://www.theverge.com/games/891085/sony-dynamic-pricing-playstation-games) (2026-03-07)
+- [Time’s running out to get a free gift card when you preorder a new MacBook](https://www.theverge.com/gadgets/890788/macbook-neo-air-pro-samsung-galaxy-s26-gift-card-deal-sale) (2026-03-07)
+- [Vizio accounts are becoming Walmart accounts](https://www.theverge.com/gadgets/891056/vizio-accounts-are-becoming-walmart-accounts) (2026-03-07)
+- [The OpenClaw superfan meetup serves optimism and lobster](https://www.theverge.com/ai-artificial-intelligence/890517/openclaw-clawcon-meetup-nyc-open-source-ai) (2026-03-07)
+- [A bite-sized adventure that puts a wrench into the classic Zelda formula](https://www.theverge.com/entertainment/890664/ratcheteer-dx-review-zelda-steam-switch) (2026-03-07)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [A unicorn-like Spinosaurus found in the Sahara](https://arstechnica.com/science/2026/03/a-unicorn-like-spinosaurus-found-in-the-sahara/) (2026-03-07)
+- [From Iran to Ukraine, everyone's trying to hack security cameras](https://arstechnica.com/security/2026/03/from-iran-to-ukraine-everyones-trying-to-hack-security-cameras/) (2026-03-07)
 - [Ding-dong! The Exploration Upper Stage is dead](https://arstechnica.com/space/2026/03/ding-dong-the-exploration-upper-stage-is-dead/) (2026-03-06)
 - [Satellite firm pauses imagery after revealing Iran's attacks on US bases](https://arstechnica.com/space/2026/03/satellite-firm-pauses-imagery-after-revealing-irans-attacks-on-us-bases/) (2026-03-06)
 - [Fishing crews in the Atlantic keep accidentally dredging up chemical weapons](https://arstechnica.com/health/2026/03/fishing-crews-in-the-atlantic-keep-accidentally-dredging-up-chemical-weapons/) (2026-03-06)
-- [Google's new command-line tool can plug OpenClaw into your Workspace data](https://arstechnica.com/ai/2026/03/googles-new-command-line-tool-can-plug-openclaw-into-your-workspace-data/) (2026-03-06)
-- [Feds take notice of iOS vulnerabilities exploited under mysterious circumstances](https://arstechnica.com/security/2026/03/cisa-adds-3-ios-flaws-to-its-catalog-of-known-exploited-vulnerabilities/) (2026-03-06)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How We Query 16.8M SIRENE Establishments in 66ms](https://dev.to/wbennaceur/how-we-query-168m-sirene-establishments-in-66ms-2515) (2026-03-07)
-- [Building a French Address Validation API with 26M Addresses](https://dev.to/wbennaceur/building-a-french-address-validation-api-with-26m-addresses-1olk) (2026-03-07)
-- [I Built the Pre-Action Authorization Layer That would have Stopped Clinejection](https://dev.to/uu/i-built-the-pre-action-authorization-layer-that-would-have-stopped-clinejection-5dji) (2026-03-07)
-- [Quark's Outlines: Python Emulating Callable Objects](https://dev.to/mike-vincent/quarks-outlines-python-emulating-callable-objects-188d) (2026-03-07)
-- [The Lock Breaks Downward](https://dev.to/kuro_agent/the-lock-breaks-downward-4mc8) (2026-03-07)
+- [Surveillance Capitalism: The Business Model That Turned Humanity Into Raw Material](https://dev.to/tiamatenity/surveillance-capitalism-the-business-model-that-turned-humanity-into-raw-material-4522) (2026-03-07)
+- [How I Successfully Passed the CKA on My Second Attempt](https://dev.to/thomas-walker-2210/how-i-successfully-passed-the-cka-on-my-second-attempt-p8l) (2026-03-07)
+- [How I Built an AI Image Generation Platform That Reached 48K+ Users](https://dev.to/adibghamri/how-i-built-an-ai-image-generation-platform-that-reached-48k-users-3877) (2026-03-07)
+- [The missing layer between your AI agents and you](https://dev.to/naomi_kynes/the-missing-layer-between-your-ai-agents-and-you-2kj8) (2026-03-07)
+- [MCP Server Testing Is Fragmented. I Built One CLI for Record, Replay, Mock, Audit, and CI](https://dev.to/kunalvst/mcp-server-testing-is-fragmented-i-built-one-cli-for-record-replay-mock-audit-and-ci-5eh4) (2026-03-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [RAG Evaluation: An AI Engineer’s Guide to Building Production RAG Systems (With LangSmith)](https://pub.towardsai.net/rag-evaluation-an-ai-engineers-guide-to-building-production-rag-systems-with-langsmith-219e56fafdda?source=rss------programming-5) (2026-03-07)
-- [Variables in Java Explained: Types, Rules, Scope, and Examples for Beginners](https://medium.com/@teksversity/variables-in-java-explained-types-rules-scope-and-examples-for-beginners-b908d8f607e6?source=rss------programming-5) (2026-03-07)
-- [The Netskope Paradox: Why “Block Everything” is a Surrender to Inefficiency](https://medium.com/@divsh23/the-netskope-paradox-why-block-everything-is-a-surrender-to-inefficiency-330a055fdf57?source=rss------programming-5) (2026-03-07)
-- [Vibe Coding: Why AI Won’t Replace Developers, But Will Demand More From Them](https://medium.com/@prakash02dec/vibe-coding-why-ai-wont-replace-developers-but-will-demand-more-from-them-103f5b1b7489?source=rss------programming-5) (2026-03-07)
-- [I Built a RAG System That Knows My Entire Codebase (Here’s How It Works)Stop searching docs for…](https://medium.com/@komaragirisatyadev1007/i-built-a-rag-system-that-knows-my-entire-codebase-heres-how-it-works-stop-searching-docs-for-494b13b48f17?source=rss------programming-5) (2026-03-07)
+- [The Colleague Who Wrote Code His Mother Couldn’t Recognize](https://medium.com/illumination/the-colleague-who-wrote-code-his-mother-couldnt-recognize-e78c9c9107f0?source=rss------programming-5) (2026-03-07)
+- [Do we need more developers or do we need more translators?](https://medium.com/realworld-ai-use-cases/do-we-need-more-developers-or-do-we-need-more-translators-334777694a3e?source=rss------programming-5) (2026-03-07)
+- [AI Can’t Stop Writing Beautiful, Broken Code](https://levelup.gitconnected.com/ai-cant-stop-writing-beautiful-broken-code-d7da5df91546?source=rss------programming-5) (2026-03-07)
+- [What Is An Entity? | Domain-Driven Design, Clean Architecture](https://medium.com/@mariammaurice/what-is-an-entity-domain-driven-design-clean-architecture-fd487194f89e?source=rss------programming-5) (2026-03-07)
+- [A Simple AI Workflow That Doubles Your Daily Output](https://medium.com/@shubhamnalawade037/a-simple-ai-workflow-that-doubles-your-daily-output-4df6e64cd997?source=rss------programming-5) (2026-03-07)
 
 </details>
 
@@ -367,11 +367,6 @@ Send Bulk SMS With PHP and Twilio
 https://www.twilio.com/en-us/blog/developers/tutorials/send-bulk-sms-with-php-and-twilio
 ) (2026-03-06)
 - [
-How to Block Spam Calls with Twilio Voice in Node.js
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/block-spam-calls-twilio-voice-node-js
-) (2026-03-06)
-- [
 Build a Twilio + Zoho CRM Voice Integration
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/build-twilio-zoho-crm-voice-integration
@@ -385,6 +380,11 @@ https://www.twilio.com/en-us/blog/insights/data/data-activation
 The Art of the Attendance: Why MWC is the Ultimate B2B Spectacle
 ](
 https://www.twilio.com/en-us/blog/events/visit-twilio-at-mwc-2026
+) (2026-02-23)
+- [
+Direct Customer to ISV Rearchitecture Guide
+](
+https://www.twilio.com/en-us/blog/developers/best-practices/direct-customer-to-isv-rearchitecture-guide
 ) (2026-02-23)
 
 </details>
@@ -456,6 +456,17 @@ https://www.twilio.com/en-us/blog/events/visit-twilio-at-mwc-2026
 </details>
 
 <details>
+<summary>🚀 Apollo GraphQL</summary>
+
+- [Building a Secure AI Agent API Stack with GraphQL, Apollo Skills, and MCP Server](https://www.apollographql.com/blog/building-a-secure-ai-agent-api-stack-with-graphql-apollo-skills-and-mcp-server) (2026-03-05)
+- [Building MCP Apps with Apollo Client and Apollo MCP Server](https://www.apollographql.com/blog/building-mcp-apps-with-apollo-client-and-apollo-mcp-server) (2026-03-02)
+- [Connect AI Agents to Your GraphQL API Using MCP and Type-Safe Tool Configuration](https://www.apollographql.com/blog/connect-ai-agents-to-your-graphql-api-using-mcp-and-type-safe-tool-configuration) (2026-02-26)
+- [Deep Dive: Telemetry cardinality in the Apollo GraphOS Router](https://www.apollographql.com/blog/telemetry-cardinality-in-the-apollo-graphos-router) (2026-02-10)
+- [Apollo Skills: Teaching AI Agents How to Use Apollo and GraphQL](https://www.apollographql.com/blog/apollo-skills-teaching-ai-agents-how-to-use-apollo-and-graphql) (2026-02-03)
+
+</details>
+
+<details>
 <summary>📊 Airtable Blog</summary>
 
 - [Applications closing for the Airtable AI Incubator](https://blog.airtable.com/applications-closing-for-the-airtable-ai-incubator/) (2025-09-29)
@@ -491,11 +502,11 @@ https://www.twilio.com/en-us/blog/events/visit-twilio-at-mwc-2026
 <details>
 <summary>💬 Slack API</summary>
 
-- [3 New Ways Salesforce Meets You in Slack](https://slack.com/blog/news/conversational-intelligence-with-slack) (2026-03-05)
 - [Project Planning and Timelines Guide: Tools and Best Practices](https://slack.com/blog/productivity/project-planning-and-timelines-guide-tools-and-best-practices) (2026-03-02)
 - [Best Data Discovery Tools in 2026 for Product, Network, and IT Assets](https://slack.com/blog/productivity/best-discovery-tools) (2026-03-02)
 - [Slack Feature Drop: Better Connections for Every Kind of Work](https://slack.com/blog/news/feature-drop-feb26) (2026-03-01)
 - [Project Management Software Guide for 2026](https://slack.com/blog/collaboration/project-management-software) (2026-02-27)
+- [The Best Slackbot Prompts for Customer Service Teams](https://slack.com/blog/productivity/slackbot-for-customer-service) (2026-02-26)
 
 </details>
 
@@ -557,11 +568,11 @@ https://www.twilio.com/en-us/blog/events/visit-twilio-at-mwc-2026
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Understanding Context and Contextual Retrieval in RAG](https://towardsdatascience.com/understanding-context-and-contextual-retrieval-in-rag/) (2026-03-07)
+- [The AI Bubble Has a Data Science Escape Hatch](https://towardsdatascience.com/the-ai-bubble-has-a-data-science-escape-hatch/) (2026-03-07)
 - [What Makes Quantum Machine Learning “Quantum”?](https://towardsdatascience.com/what-makes-quantum-machine-learning-quantum/) (2026-03-06)
 - [The Data Team’s Survival Guide for the Next Era of Data](https://towardsdatascience.com/the-data-teams-survival-guide-for-the-next-era-of-data/) (2026-03-06)
 - [The Black Box Problem: Why AI-Generated Code Stops Being Maintainable](https://towardsdatascience.com/the-black-box-problem-why-ai-generated-code-stops-being-maintainable/) (2026-03-06)
-- [How to Create Production-Ready Code with Claude Code](https://towardsdatascience.com/how-to-create-production-ready-code-with-claude-code/) (2026-03-06)
-- [AI in Multiple GPUs: ZeRO & FSDP](https://towardsdatascience.com/ai-in-multiple-gpus-zero-fsdp/) (2026-03-05)
 
 </details>
 
