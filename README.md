@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Robinhood’s startup fund stumbles in NYSE debut](https://techcrunch.com/2026/03/06/robinhoods-startup-fund-stumbles-in-nyse-debut/) (2026-03-07)
 - [X is testing a new ad format that connects posts with products](https://techcrunch.com/2026/03/06/x-is-testing-a-new-ad-format-that-connects-posts-with-products/) (2026-03-06)
 - [Nintendo sues the US government for a refund on tariffs](https://techcrunch.com/2026/03/06/nintendo-sues-the-u-s-government-for-a-refund-on-tariffs/) (2026-03-06)
 - [Life EV officially owns Rad Power Bikes now](https://techcrunch.com/2026/03/06/life-ev-officially-owns-rad-power-bikes-now/) (2026-03-06)
 - [OSHA probing fatality at Rivian warehouse](https://techcrunch.com/2026/03/06/osha-probing-fatality-at-rivian-warehouse/) (2026-03-06)
-- [Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers](https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/) (2026-03-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: Kula – Lightweight, self-contained Linux server monitoring tool](https://github.com/c0m4r/kula) (2026-03-07)
-- [I'm 60 years old. Claude Code has ignited a passion again](https://news.ycombinator.com/item?id=47282777) (2026-03-07)
-- [Plasma Bigscreen – 10-foot interface for KDE plasma](https://plasma-bigscreen.org) (2026-03-06)
-- [Show HN: The Roman Industrial Revolution that could have been (Vol 2)](https://thelydianstone.com/volume-2) (2026-03-06)
-- [C# strings silently kill your SQL Server indexes in Dapper](https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap) (2026-03-06)
+- [Why New Zealand is seeing an exodus of over-30s](https://www.cnn.com/2026/03/06/world/new-zealand-australia-emigration-midlife-intl-hnk-dst) (2026-03-07)
+- [Can a wealthy family change the course of a deadly brain disease?](https://www.science.org/content/article/can-wealthy-family-change-course-deadly-brain-disease) (2026-03-07)
+- [UUID package coming to Go standard library](https://github.com/golang/go/issues/62026) (2026-03-07)
+- [LLMs work best when the user defines their acceptance criteria first](https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code) (2026-03-07)
+- [Game about Data of America](https://americaindata.com/) (2026-03-07)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [DJI will pay $30K to the man who accidentally hacked 7,000 Romo robovacs](https://www.theverge.com/news/890982/dji-pay-sammy-azdoufal-robot-vacuum-hack-romo-security) (2026-03-07)
 - [Valve says it still plans to ship the Steam Machine in 2026](https://www.theverge.com/games/890986/valve-steam-machine-frame-controller-delay-ram-memory) (2026-03-06)
 - [Grammarly is using our identities without permission](https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews) (2026-03-06)
 - [The best microSD Express card for the Switch 2 is the cheapest one you can find](https://www.theverge.com/tech/676075/switch-2-microsd-express-cards-where-to-buy) (2026-03-06)
 - [The Trump administration says it can’t process tariff refunds because of computer problems](https://www.theverge.com/policy/890904/trump-administration-cbp-tariff-refunds-technology-issues) (2026-03-06)
-- [Nintendo is suing the US government for a refund of Trump&#8217;s illegal tariffs](https://www.theverge.com/games/890861/nintendo-lawsuit-tariffs-donald-trump) (2026-03-06)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Title: Digital Footprints: How Much Do We Really Leave Behind?](https://dev.to/daemonroot/title-digital-footprints-how-much-do-we-really-leave-behind-11od) (2026-03-07)
-- [Building LLM Apps Using LangChain AI Orchestration](https://dev.to/eagleeyethinker/building-llm-apps-using-langchain-ai-orchestration-2f34) (2026-03-07)
-- [Web2API — Turning Websites into REST APIs (and MCP Tools)](https://dev.to/endogen/web2api-turning-websites-into-rest-apis-and-mcp-tools-be4) (2026-03-07)
-- [My coworker wanted mood-based music. I built it before the beer got warm.](https://dev.to/th3chris/my-coworker-wanted-mood-based-music-i-built-it-before-the-beer-got-warm-3h10) (2026-03-07)
-- [Understanding OAuth2 Grant Types](https://dev.to/dkforge/understanding-oauth2-grant-types-50p8) (2026-03-07)
+- [How to Extract Korean Business Reviews from Naver Place (No API Key Needed)](https://dev.to/sessionzero_ai/how-to-extract-korean-business-reviews-from-naver-place-no-api-key-needed-3d3a) (2026-03-07)
+- [OpenClaw: The Largest Security Incident in Sovereign AI History](https://dev.to/tiamatenity/openclaw-the-largest-security-incident-in-sovereign-ai-history-327m) (2026-03-07)
+- [Why Kubernetes Alone Isn’t Enough: The Case for API Gateways and Service Meshes](https://dev.to/mmk4mmk/why-kubernetes-alone-isnt-enough-the-case-for-api-gateways-and-service-meshes-2cg0) (2026-03-07)
+- [Smart Home Surveillance: Alexa, Ring, and the Always-On Listening Grid](https://dev.to/tiamatenity/smart-home-surveillance-alexa-ring-and-the-always-on-listening-grid-3mfe) (2026-03-07)
+- [How I built a 39 compression pipeline with AES-256-GCM in Python (and why the dictionary is everything)](https://dev.to/naveen_badiger_47b35b3f61/how-i-built-a-39x-compression-pipeline-with-aes-256-gcm-in-python-and-why-the-dictionary-is-10nc) (2026-03-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [No Time? No Problem — 8 Python Projects You Can Finish This Weekend](https://blog.stackademic.com/no-time-no-problem-8-python-projects-you-can-finish-this-weekend-35069a3bfe55?source=rss------programming-5) (2026-03-07)
-- [Understanding Angular Change Detection Like a Senior Engineer](https://medium.com/@shubhamnalawade037/understanding-angular-change-detection-like-a-senior-engineer-d23f0728749b?source=rss------programming-5) (2026-03-07)
-- [Are you a Laravel developer or a PHP developer who uses Laravel?](https://medium.com/@itissucex/are-you-a-laravel-developer-or-a-php-developer-who-uses-laravel-bfdf803a29b5?source=rss------programming-5) (2026-03-07)
-- [The Concurrency Bug Most Go Developers Ship to Production](https://elsyarifx.medium.com/the-concurrency-bug-most-go-developers-ship-to-production-759c1d5d3dae?source=rss------programming-5) (2026-03-07)
-- [4 Frameworks You Should Try in 2026](https://codebyumar.medium.com/4-frameworks-you-should-try-in-2026-8a53e254b27a?source=rss------programming-5) (2026-03-07)
+- [Artificial intelligence: an opportunity or a threat?](https://medium.com/@tahaansari9517/artificial-intelligence-an-opportunity-or-a-threat-0f7c44921151?source=rss------programming-5) (2026-03-07)
+- [One Runtime, Infinite Apps](https://medium.com/@neurons.me/one-runtime-infinite-apps-1cae004aa0f7?source=rss------programming-5) (2026-03-07)
+- [7 things I learned about NbRe three-triplet superconductivity and why it matters for quantum…](https://mickey19951031.medium.com/7-things-i-learned-about-nbre-three-triplet-superconductivity-and-why-it-matters-for-quantum-0fd3a22fb555?source=rss------programming-5) (2026-03-07)
+- [Why Engineering Students Should Start Using GitHub Early](https://kothapalli-gayathri.medium.com/why-engineering-students-should-start-using-github-early-45392c78ed4d?source=rss------programming-5) (2026-03-07)
+- [Data Bodyguards: Why Your Database Needs More Than Just Data Types](https://medium.com/@nitin.code4coin/data-bodyguards-why-your-database-needs-more-than-just-data-types-21a2b1e2b575?source=rss------programming-5) (2026-03-07)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/products/sunsetting-legacy-segment-analytics-l
 <details>
 <summary>💬 Slack API</summary>
 
-- [AI-Powered Bots: Guide to Chatbots, Tools, and Best Practices](https://slack.com/blog/productivity/ai-powered-bots-guide-to-chatbots-tools-and-best-practices) (2026-03-06)
-- [Best Agentic AI Platforms for 2026: What They Are and How to Choose One](https://slack.com/blog/productivity/best-agentic-ai-platforms-for-2026-what-they-are-and-how-to-choose-one) (2026-03-06)
 - [3 New Ways Salesforce Meets You in Slack](https://slack.com/blog/news/conversational-intelligence-with-slack) (2026-03-05)
 - [Project Planning and Timelines Guide: Tools and Best Practices](https://slack.com/blog/productivity/project-planning-and-timelines-guide-tools-and-best-practices) (2026-03-02)
 - [Best Data Discovery Tools in 2026 for Product, Network, and IT Assets](https://slack.com/blog/productivity/best-discovery-tools) (2026-03-02)
+- [Slack Feature Drop: Better Connections for Every Kind of Work](https://slack.com/blog/news/feature-drop-feb26) (2026-03-01)
+- [Project Management Software Guide for 2026](https://slack.com/blog/collaboration/project-management-software) (2026-02-27)
 
 </details>
 
@@ -546,11 +546,11 @@ https://www.twilio.com/en-us/blog/products/sunsetting-legacy-segment-analytics-l
 <details>
 <summary>🤗 Hugging Face</summary>
 
-- [Conversational LLM Evaluations in Minutes with NVIDIA NeMo Evaluator Agent Skills ](https://huggingface.co/blog/nvidia/model-evaluation-skill) (2026-03-06)
 - [Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations](https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms) (2026-03-05)
 - [Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines](https://huggingface.co/blog/modular-diffusers) (2026-03-05)
 - [PRX Part 3 — Training a Text-to-Image Model in 24h!](https://huggingface.co/blog/Photoroom/prx-part3) (2026-03-03)
 - [Mixture of Experts (MoEs) in Transformers](https://huggingface.co/blog/moe-transformers) (2026-02-26)
+- [GGML and llama.cpp join HF to ensure the long-term progress of Local AI](https://huggingface.co/blog/ggml-joins-hf) (2026-02-20)
 
 </details>
 
