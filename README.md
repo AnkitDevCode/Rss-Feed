@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Why New Zealand is seeing an exodus of over-30s](https://www.cnn.com/2026/03/06/world/new-zealand-australia-emigration-midlife-intl-hnk-dst) (2026-03-07)
-- [Can a wealthy family change the course of a deadly brain disease?](https://www.science.org/content/article/can-wealthy-family-change-course-deadly-brain-disease) (2026-03-07)
-- [UUID package coming to Go standard library](https://github.com/golang/go/issues/62026) (2026-03-07)
-- [LLMs work best when the user defines their acceptance criteria first](https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code) (2026-03-07)
-- [Game about Data of America](https://americaindata.com/) (2026-03-07)
+- [Ki Editor - an editor that operates on the AST](https://ki-editor.org/) (2026-03-07)
+- [Boy I was wrong about the Fediverse](https://matduggan.com/boy-i-was-wrong-about-the-fediverse/) (2026-03-07)
+- [Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues](https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/) (2026-03-07)
+- [QGIS 4.0](https://changelog.qgis.org/en/version/4.0/) (2026-03-07)
+- [Sarvam 105B, the first competitive Indian open source LLM](https://www.sarvam.ai/blogs/sarvam-30b-105b) (2026-03-07)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The Corvette ZR1X hybrid can outpace million-dollar sports cars for a fraction of the cost](https://www.theverge.com/transportation/888573/chevy-corvette-zr1x-hybrid-racing-performance) (2026-03-07)
 - [DJI will pay $30K to the man who accidentally hacked 7,000 Romo robovacs](https://www.theverge.com/news/890982/dji-pay-sammy-azdoufal-robot-vacuum-hack-romo-security) (2026-03-07)
 - [Valve says it still plans to ship the Steam Machine in 2026](https://www.theverge.com/games/890986/valve-steam-machine-frame-controller-delay-ram-memory) (2026-03-06)
 - [Grammarly is using our identities without permission](https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews) (2026-03-06)
 - [The best microSD Express card for the Switch 2 is the cheapest one you can find](https://www.theverge.com/tech/676075/switch-2-microsd-express-cards-where-to-buy) (2026-03-06)
-- [The Trump administration says it can’t process tariff refunds because of computer problems](https://www.theverge.com/policy/890904/trump-administration-cbp-tariff-refunds-technology-issues) (2026-03-06)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How to Extract Korean Business Reviews from Naver Place (No API Key Needed)](https://dev.to/sessionzero_ai/how-to-extract-korean-business-reviews-from-naver-place-no-api-key-needed-3d3a) (2026-03-07)
-- [OpenClaw: The Largest Security Incident in Sovereign AI History](https://dev.to/tiamatenity/openclaw-the-largest-security-incident-in-sovereign-ai-history-327m) (2026-03-07)
-- [Why Kubernetes Alone Isn’t Enough: The Case for API Gateways and Service Meshes](https://dev.to/mmk4mmk/why-kubernetes-alone-isnt-enough-the-case-for-api-gateways-and-service-meshes-2cg0) (2026-03-07)
-- [Smart Home Surveillance: Alexa, Ring, and the Always-On Listening Grid](https://dev.to/tiamatenity/smart-home-surveillance-alexa-ring-and-the-always-on-listening-grid-3mfe) (2026-03-07)
-- [How I built a 39 compression pipeline with AES-256-GCM in Python (and why the dictionary is everything)](https://dev.to/naveen_badiger_47b35b3f61/how-i-built-a-39x-compression-pipeline-with-aes-256-gcm-in-python-and-why-the-dictionary-is-10nc) (2026-03-07)
+- [How We Query 16.8M SIRENE Establishments in 66ms](https://dev.to/wbennaceur/how-we-query-168m-sirene-establishments-in-66ms-2515) (2026-03-07)
+- [Building a French Address Validation API with 26M Addresses](https://dev.to/wbennaceur/building-a-french-address-validation-api-with-26m-addresses-1olk) (2026-03-07)
+- [I Built the Pre-Action Authorization Layer That would have Stopped Clinejection](https://dev.to/uu/i-built-the-pre-action-authorization-layer-that-would-have-stopped-clinejection-5dji) (2026-03-07)
+- [Quark's Outlines: Python Emulating Callable Objects](https://dev.to/mike-vincent/quarks-outlines-python-emulating-callable-objects-188d) (2026-03-07)
+- [The Lock Breaks Downward](https://dev.to/kuro_agent/the-lock-breaks-downward-4mc8) (2026-03-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Artificial intelligence: an opportunity or a threat?](https://medium.com/@tahaansari9517/artificial-intelligence-an-opportunity-or-a-threat-0f7c44921151?source=rss------programming-5) (2026-03-07)
-- [One Runtime, Infinite Apps](https://medium.com/@neurons.me/one-runtime-infinite-apps-1cae004aa0f7?source=rss------programming-5) (2026-03-07)
-- [7 things I learned about NbRe three-triplet superconductivity and why it matters for quantum…](https://mickey19951031.medium.com/7-things-i-learned-about-nbre-three-triplet-superconductivity-and-why-it-matters-for-quantum-0fd3a22fb555?source=rss------programming-5) (2026-03-07)
-- [Why Engineering Students Should Start Using GitHub Early](https://kothapalli-gayathri.medium.com/why-engineering-students-should-start-using-github-early-45392c78ed4d?source=rss------programming-5) (2026-03-07)
-- [Data Bodyguards: Why Your Database Needs More Than Just Data Types](https://medium.com/@nitin.code4coin/data-bodyguards-why-your-database-needs-more-than-just-data-types-21a2b1e2b575?source=rss------programming-5) (2026-03-07)
+- [RAG Evaluation: An AI Engineer’s Guide to Building Production RAG Systems (With LangSmith)](https://pub.towardsai.net/rag-evaluation-an-ai-engineers-guide-to-building-production-rag-systems-with-langsmith-219e56fafdda?source=rss------programming-5) (2026-03-07)
+- [Variables in Java Explained: Types, Rules, Scope, and Examples for Beginners](https://medium.com/@teksversity/variables-in-java-explained-types-rules-scope-and-examples-for-beginners-b908d8f607e6?source=rss------programming-5) (2026-03-07)
+- [The Netskope Paradox: Why “Block Everything” is a Surrender to Inefficiency](https://medium.com/@divsh23/the-netskope-paradox-why-block-everything-is-a-surrender-to-inefficiency-330a055fdf57?source=rss------programming-5) (2026-03-07)
+- [Vibe Coding: Why AI Won’t Replace Developers, But Will Demand More From Them](https://medium.com/@prakash02dec/vibe-coding-why-ai-wont-replace-developers-but-will-demand-more-from-them-103f5b1b7489?source=rss------programming-5) (2026-03-07)
+- [I Built a RAG System That Knows My Entire Codebase (Here’s How It Works)Stop searching docs for…](https://medium.com/@komaragirisatyadev1007/i-built-a-rag-system-that-knows-my-entire-codebase-heres-how-it-works-stop-searching-docs-for-494b13b48f17?source=rss------programming-5) (2026-03-07)
 
 </details>
 
@@ -362,6 +362,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Send Bulk SMS With PHP and Twilio
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/send-bulk-sms-with-php-and-twilio
+) (2026-03-06)
+- [
+How to Block Spam Calls with Twilio Voice in Node.js
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/block-spam-calls-twilio-voice-node-js
+) (2026-03-06)
+- [
 Build a Twilio + Zoho CRM Voice Integration
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/build-twilio-zoho-crm-voice-integration
@@ -375,16 +385,6 @@ https://www.twilio.com/en-us/blog/insights/data/data-activation
 The Art of the Attendance: Why MWC is the Ultimate B2B Spectacle
 ](
 https://www.twilio.com/en-us/blog/events/visit-twilio-at-mwc-2026
-) (2026-02-23)
-- [
-Direct Customer to ISV Rearchitecture Guide
-](
-https://www.twilio.com/en-us/blog/developers/best-practices/direct-customer-to-isv-rearchitecture-guide
-) (2026-02-23)
-- [
-Sunsetting Twilio Segment’s Legacy Analytics Libraries
-](
-https://www.twilio.com/en-us/blog/products/sunsetting-legacy-segment-analytics-libraries
 ) (2026-02-23)
 
 </details>
@@ -452,17 +452,6 @@ https://www.twilio.com/en-us/blog/products/sunsetting-legacy-segment-analytics-l
 - [GraphQL AI Working Group Recap: November 2025](https://graphql.org/blog/2026-01-20-recap-nov-2025-ai-wg) (2026-01-20)
 - [Recap First GraphQL AI Working Group Meeting](https://graphql.org/blog/2025-11-13-recap-oct-ai-wg) (2025-11-13)
 - [GraphQL Locals 2025: Increasing Support](https://graphql.org/blog/2025-10-16-graphql-local-initiative-update) (2025-10-16)
-
-</details>
-
-<details>
-<summary>🚀 Apollo GraphQL</summary>
-
-- [Building a Secure AI Agent API Stack with GraphQL, Apollo Skills, and MCP Server](https://www.apollographql.com/blog/building-a-secure-ai-agent-api-stack-with-graphql-apollo-skills-and-mcp-server) (2026-03-05)
-- [Building MCP Apps with Apollo Client and Apollo MCP Server](https://www.apollographql.com/blog/building-mcp-apps-with-apollo-client-and-apollo-mcp-server) (2026-03-02)
-- [Connect AI Agents to Your GraphQL API Using MCP and Type-Safe Tool Configuration](https://www.apollographql.com/blog/connect-ai-agents-to-your-graphql-api-using-mcp-and-type-safe-tool-configuration) (2026-02-26)
-- [Deep Dive: Telemetry cardinality in the Apollo GraphOS Router](https://www.apollographql.com/blog/telemetry-cardinality-in-the-apollo-graphos-router) (2026-02-10)
-- [Apollo Skills: Teaching AI Agents How to Use Apollo and GraphQL](https://www.apollographql.com/blog/apollo-skills-teaching-ai-agents-how-to-use-apollo-and-graphql) (2026-02-03)
 
 </details>
 
@@ -579,11 +568,11 @@ https://www.twilio.com/en-us/blog/products/sunsetting-legacy-segment-analytics-l
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Sarvam Edge: A Beginner’s Guide to On-Device AI for India](https://www.analyticsvidhya.com/blog/2026/03/sarvam-edge/) (2026-03-07)
 - [We Tried The New GPT-5.4 And it is The Most Powerful ChatGPT Has Ever Been](https://www.analyticsvidhya.com/blog/2026/03/we-tried-gpt-5-4-ai/) (2026-03-06)
 - [New Update Makes GPT-5.3 Instant More Useful For Everyday Tasks](https://www.analyticsvidhya.com/blog/2026/03/gpt-5-3-instant-update/) (2026-03-06)
 - [NotebookLM Gets a Game-changing Feature: Check Out Cinematic Video Overviews](https://www.analyticsvidhya.com/blog/2026/03/notebooklm-cinematic-video-overviews/) (2026-03-06)
 - [PhysicEdit: Teaching Image Editing Models to Respect Physics](https://www.analyticsvidhya.com/blog/2026/03/physicedit-teaching-image-editing-models-physics/) (2026-03-05)
-- [​​Time Series Cross-Validation: A Guide to Techniques & Practical Implementation ](https://www.analyticsvidhya.com/blog/2026/03/time-series-cross-validation/) (2026-03-04)
 
 </details>
 
