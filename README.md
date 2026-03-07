@@ -20,66 +20,66 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts](https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/) (2026-03-06)
-- [Claude’s consumer growth surge continues after Pentagon deal debacle](https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/) (2026-03-06)
-- [India PC shipments surpass pandemic peak as first-time users upgrade](https://techcrunch.com/2026/03/06/india-pc-shipments-surpass-pandemic-peak-as-first-time-users-upgrade/) (2026-03-06)
-- [These are the countries moving to ban social media for children](https://techcrunch.com/2026/03/06/social-media-ban-children-countries-list/) (2026-03-06)
-- [TriZetto confirms 3.4M people’s health and personal data was stolen during breach](https://techcrunch.com/2026/03/06/trizetto-confirms-3-4m-peoples-health-and-personal-data-was-stolen-during-breach/) (2026-03-06)
+- [X is testing a new ad format that connects posts with products](https://techcrunch.com/2026/03/06/x-is-testing-a-new-ad-format-that-connects-posts-with-products/) (2026-03-06)
+- [Nintendo sues the US government for a refund on tariffs](https://techcrunch.com/2026/03/06/nintendo-sues-the-u-s-government-for-a-refund-on-tariffs/) (2026-03-06)
+- [Life EV officially owns Rad Power Bikes now](https://techcrunch.com/2026/03/06/life-ev-officially-owns-rad-power-bikes-now/) (2026-03-06)
+- [OSHA probing fatality at Rivian warehouse](https://techcrunch.com/2026/03/06/osha-probing-fatality-at-rivian-warehouse/) (2026-03-06)
+- [Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers](https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/) (2026-03-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs](https://news.ycombinator.com/item?id=47278443) (2026-03-06)
-- [Tech employment now significantly worse than the 2008 or 2020 recessions](https://twitter.com/JosephPolitano/status/2029916364664611242) (2026-03-06)
-- [Multifactor (YC F25) Is Hiring an Engineering Lead](https://www.ycombinator.com/companies/multifactor/jobs/lcpd60A-engineering-lead) (2026-03-06)
-- [Supertoast tables](https://hatchet.run/blog/supertoast-tables) (2026-03-06)
-- [Astra: An open-source observatory control software](https://github.com/ppp-one/astra) (2026-03-06)
+- [Show HN: Kula – Lightweight, self-contained Linux server monitoring tool](https://github.com/c0m4r/kula) (2026-03-07)
+- [I'm 60 years old. Claude Code has ignited a passion again](https://news.ycombinator.com/item?id=47282777) (2026-03-07)
+- [Plasma Bigscreen – 10-foot interface for KDE plasma](https://plasma-bigscreen.org) (2026-03-06)
+- [Show HN: The Roman Industrial Revolution that could have been (Vol 2)](https://thelydianstone.com/volume-2) (2026-03-06)
+- [C# strings silently kill your SQL Server indexes in Dapper](https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap) (2026-03-06)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [You can already save up to $50 on the new M4 iPad Air](https://www.theverge.com/gadgets/890389/apple-ipad-air-m4-xbox-wireless-controller-deal-sale) (2026-03-06)
-- [The Trump phone was a no-show at the world’s biggest mobile show](https://www.theverge.com/tech/889837/trump-phone-mobile-world-congress-mwc) (2026-03-06)
-- [Trump&#8217;s surgeon general nominee is running the wellness grifter playbook perfectly](https://www.theverge.com/column/889922/optimizer-casey-means-wellness-influencer-playbook) (2026-03-06)
-- [Indie games are turning the act of looking into an art](https://www.theverge.com/entertainment/889978/hidden-object-games-indie) (2026-03-06)
-- [This phone starts fires on purpose](https://www.theverge.com/podcast/890324/mwc-2026-phones-epic-google-vergecast) (2026-03-06)
+- [Valve says it still plans to ship the Steam Machine in 2026](https://www.theverge.com/games/890986/valve-steam-machine-frame-controller-delay-ram-memory) (2026-03-06)
+- [Grammarly is using our identities without permission](https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews) (2026-03-06)
+- [The best microSD Express card for the Switch 2 is the cheapest one you can find](https://www.theverge.com/tech/676075/switch-2-microsd-express-cards-where-to-buy) (2026-03-06)
+- [The Trump administration says it can’t process tariff refunds because of computer problems](https://www.theverge.com/policy/890904/trump-administration-cbp-tariff-refunds-technology-issues) (2026-03-06)
+- [Nintendo is suing the US government for a refund of Trump&#8217;s illegal tariffs](https://www.theverge.com/games/890861/nintendo-lawsuit-tariffs-donald-trump) (2026-03-06)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Americans trust Fauci over RFK Jr. and career scientists over Trump officials](https://arstechnica.com/health/2026/03/americans-trust-fauci-over-rfk-jr-and-career-scientists-over-trump-officials/) (2026-03-06)
-- [Climate change sucks, but at least it won't kill your EV battery](https://arstechnica.com/cars/2026/03/climate-change-sucks-but-at-least-it-wont-kill-your-ev-battery/) (2026-03-06)
-- [Apple users in the US can no longer download ByteDance's Chinese apps](https://arstechnica.com/tech-policy/2026/03/apple-users-in-the-us-can-no-longer-download-bytedances-chinese-apps/) (2026-03-06)
-- [Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage](https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/) (2026-03-06)
-- [With Gateway likely gone, where will lunar landers rendezvous with Orion?](https://arstechnica.com/space/2026/03/nasa-has-shuffled-its-artemis-rockets-but-what-of-the-lunar-landers/) (2026-03-06)
+- [Ding-dong! The Exploration Upper Stage is dead](https://arstechnica.com/space/2026/03/ding-dong-the-exploration-upper-stage-is-dead/) (2026-03-06)
+- [Satellite firm pauses imagery after revealing Iran's attacks on US bases](https://arstechnica.com/space/2026/03/satellite-firm-pauses-imagery-after-revealing-irans-attacks-on-us-bases/) (2026-03-06)
+- [Fishing crews in the Atlantic keep accidentally dredging up chemical weapons](https://arstechnica.com/health/2026/03/fishing-crews-in-the-atlantic-keep-accidentally-dredging-up-chemical-weapons/) (2026-03-06)
+- [Google's new command-line tool can plug OpenClaw into your Workspace data](https://arstechnica.com/ai/2026/03/googles-new-command-line-tool-can-plug-openclaw-into-your-workspace-data/) (2026-03-06)
+- [Feds take notice of iOS vulnerabilities exploited under mysterious circumstances](https://arstechnica.com/security/2026/03/cisa-adds-3-ios-flaws-to-its-catalog-of-known-exploited-vulnerabilities/) (2026-03-06)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Is the Pentagon allowed to surveil Americans with AI?](https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/) (2026-03-06)
 - [The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon](https://www.technologyreview.com/2026/03/06/1133989/the-download-10-things-that-matter-in-ai-anthropics-plan-sue-pentagon/) (2026-03-06)
 - [The Download: an AI agent’s hit piece, and preventing lightning](https://www.technologyreview.com/2026/03/05/1133968/the-download-ai-agent-hit-piece-preventing-lightning/) (2026-03-05)
 - [How much wildfire prevention is too much?](https://www.technologyreview.com/2026/03/05/1133960/wildfire-prevention-limits/) (2026-03-05)
 - [Online harassment is entering its AI era](https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/) (2026-03-05)
-- [Bridging the operational AI gap](https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/) (2026-03-04)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [How to scan for vulnerabilities with GitHub Security Lab’s open source AI-powered framework](https://github.blog/security/how-to-scan-for-vulnerabilities-with-github-security-labs-open-source-ai-powered-framework/) (2026-03-06)
 - [60 million Copilot code reviews and counting](https://github.blog/ai-and-ml/github-copilot/60-million-copilot-code-reviews-and-counting/) (2026-03-05)
 - [Scaling AI opportunity across the globe: Learnings from GitHub and Andela](https://github.blog/developer-skills/career-growth/scaling-ai-opportunity-across-the-globe-learnings-from-github-and-andela/) (2026-03-05)
 - [How we rebuilt the search architecture for high availability in GitHub Enterprise Server](https://github.blog/engineering/architecture-optimization/how-we-rebuilt-the-search-architecture-for-high-availability-in-github-enterprise-server/) (2026-03-03)
 - [Join or host a GitHub Copilot Dev Days event near you](https://github.blog/ai-and-ml/github-copilot/join-or-host-a-github-copilot-dev-days-event-near-you/) (2026-03-03)
-- [GitHub for Beginners: Getting started with GitHub Issues and Projects](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-issues-and-projects/) (2026-03-02)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Git for Designers: The Only Guide You’ll Ever Need (Beginner Friendly)](https://dev.to/itxshakil/git-for-designers-the-only-guide-youll-ever-need-beginner-friendly-4gfj) (2026-03-06)
-- [Your RAG Pipeline is Leaking - 4 Data Leak Points Nobody Talks About published: false](https://dev.to/rohansx/your-rag-pipeline-is-leaking-4-data-leak-points-nobody-talks-aboutpublished-false-1obm) (2026-03-06)
-- [How I Built a SQL-Driven User Access Review & Compliance Audit](https://dev.to/sanketh_subhas_24/how-i-built-a-sql-driven-user-access-review-compliance-audit-21p7) (2026-03-06)
-- [Happy Friday :P](https://dev.to/ben/happy-friday-p-42np) (2026-03-06)
-- [Will AI Replace Your Job? A Practical Guide for Devs and Cloud Engineers](https://dev.to/omiossec/will-ai-replace-your-job-a-practical-guide-for-devs-and-cloud-engineers-3ehl) (2026-03-06)
+- [Title: Digital Footprints: How Much Do We Really Leave Behind?](https://dev.to/daemonroot/title-digital-footprints-how-much-do-we-really-leave-behind-11od) (2026-03-07)
+- [Building LLM Apps Using LangChain AI Orchestration](https://dev.to/eagleeyethinker/building-llm-apps-using-langchain-ai-orchestration-2f34) (2026-03-07)
+- [Web2API — Turning Websites into REST APIs (and MCP Tools)](https://dev.to/endogen/web2api-turning-websites-into-rest-apis-and-mcp-tools-be4) (2026-03-07)
+- [My coworker wanted mood-based music. I built it before the beer got warm.](https://dev.to/th3chris/my-coworker-wanted-mood-based-music-i-built-it-before-the-beer-got-warm-3h10) (2026-03-07)
+- [Understanding OAuth2 Grant Types](https://dev.to/dkforge/understanding-oauth2-grant-types-50p8) (2026-03-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why Developers Must Combine Creativity with Technical Skills I 2026](https://medium.com/data-and-beyond/why-developers-must-combine-creativity-with-technical-skills-i-2026-60aa0dc2522e?source=rss------programming-5) (2026-03-06)
-- [Perseverance](https://medium.com/@supremestrawhat/perseverance-2234348ec70d?source=rss------programming-5) (2026-03-06)
-- [AI Didn’t Turn Me Into an Engineer. It Revealed a Different Kind of Builder.](https://medium.com/@selfradiance/ai-didnt-turn-me-into-an-engineer-it-revealed-a-different-kind-of-builder-96f3bdc92848?source=rss------programming-5) (2026-03-06)
-- [Why Only 2700 Coders Will Survive The AI Market](https://siliconvalleygradient.com/why-only-2700-coders-will-survive-the-ai-market-17c2530a2044?source=rss------programming-5) (2026-03-06)
-- [IoT #2: Bereksperimen Dengan Input Output (I/O)](https://medium.com/@jackoluciano14/iot-2-bereksperimen-dengan-input-output-i-o-c213b3679715?source=rss------programming-5) (2026-03-06)
+- [No Time? No Problem — 8 Python Projects You Can Finish This Weekend](https://blog.stackademic.com/no-time-no-problem-8-python-projects-you-can-finish-this-weekend-35069a3bfe55?source=rss------programming-5) (2026-03-07)
+- [Understanding Angular Change Detection Like a Senior Engineer](https://medium.com/@shubhamnalawade037/understanding-angular-change-detection-like-a-senior-engineer-d23f0728749b?source=rss------programming-5) (2026-03-07)
+- [Are you a Laravel developer or a PHP developer who uses Laravel?](https://medium.com/@itissucex/are-you-a-laravel-developer-or-a-php-developer-who-uses-laravel-bfdf803a29b5?source=rss------programming-5) (2026-03-07)
+- [The Concurrency Bug Most Go Developers Ship to Production](https://elsyarifx.medium.com/the-concurrency-bug-most-go-developers-ship-to-production-759c1d5d3dae?source=rss------programming-5) (2026-03-07)
+- [4 Frameworks You Should Try in 2026](https://codebyumar.medium.com/4-frameworks-you-should-try-in-2026-8a53e254b27a?source=rss------programming-5) (2026-03-07)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Introducing GPT-5.4 in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785) (2026-03-05)
 - [Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure](https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/) (2026-03-04)
 - [Unlocking document understanding with Mistral Document AI in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664) (2026-03-03)
 - [Instant access incremental snapshots: Restore without waiting](https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/) (2026-03-02)
 - [Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected](http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog) (2026-02-24)
-- [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
 
 </details>
 
@@ -295,11 +295,11 @@
 <details>
 <summary>📌 Pinterest Engineering</summary>
 
+- [Unified Context-Intent Embeddings for Scalable Text-to-SQL](https://medium.com/pinterest-engineering/unified-context-intent-embeddings-for-scalable-text-to-sql-793635e60aac?source=rss-ef81ef829bcb------2) (2026-03-06)
 - [Unifying Ads Engagement Modeling Across Pinterest Surfaces](https://medium.com/pinterest-engineering/unifying-ads-engagement-modeling-across-pinterest-surfaces-4b5cd3d99e67?source=rss-ef81ef829bcb------2) (2026-03-03)
 - [Bridging the Gap: Diagnosing Online–Offline Discrepancy in Pinterest’s L1 Conversion Models](https://medium.com/pinterest-engineering/bridging-the-gap-diagnosing-online-offline-discrepancy-in-pinterests-l1-conversion-models-1320faaaeefe?source=rss-ef81ef829bcb------2) (2026-02-27)
 - [Piqama: Pinterest Quota Management Ecosystem](https://medium.com/pinterest-engineering/piqama-pinterest-quota-management-ecosystem-dc7881433bf5?source=rss-ef81ef829bcb------2) (2026-02-24)
 - [Drastically Reducing Out-of-Memory Errors in Apache Spark at Pinterest](https://medium.com/pinterest-engineering/drastically-reducing-out-of-memory-errors-in-apache-spark-at-pinterest-c55d7dac2257?source=rss-ef81ef829bcb------2) (2026-02-17)
-- [GPU-Serving Two-Tower Models for Lightweight Ads Engagement Prediction](https://medium.com/pinterest-engineering/gpu-serving-two-tower-models-for-lightweight-ads-engagement-prediction-5a0ffb442f3b?source=rss-ef81ef829bcb------2) (2026-02-13)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/products/sunsetting-legacy-segment-analytics-l
 <details>
 <summary>💬 Slack API</summary>
 
+- [AI-Powered Bots: Guide to Chatbots, Tools, and Best Practices](https://slack.com/blog/productivity/ai-powered-bots-guide-to-chatbots-tools-and-best-practices) (2026-03-06)
+- [Best Agentic AI Platforms for 2026: What They Are and How to Choose One](https://slack.com/blog/productivity/best-agentic-ai-platforms-for-2026-what-they-are-and-how-to-choose-one) (2026-03-06)
+- [3 New Ways Salesforce Meets You in Slack](https://slack.com/blog/news/conversational-intelligence-with-slack) (2026-03-05)
 - [Project Planning and Timelines Guide: Tools and Best Practices](https://slack.com/blog/productivity/project-planning-and-timelines-guide-tools-and-best-practices) (2026-03-02)
 - [Best Data Discovery Tools in 2026 for Product, Network, and IT Assets](https://slack.com/blog/productivity/best-discovery-tools) (2026-03-02)
-- [Slack Feature Drop: Better Connections for Every Kind of Work](https://slack.com/blog/news/feature-drop-feb26) (2026-03-01)
-- [Project Management Software Guide for 2026](https://slack.com/blog/collaboration/project-management-software) (2026-02-27)
-- [The Best Slackbot Prompts for Customer Service Teams](https://slack.com/blog/productivity/slackbot-for-customer-service) (2026-02-26)
 
 </details>
 
@@ -535,22 +535,22 @@ https://www.twilio.com/en-us/blog/products/sunsetting-legacy-segment-analytics-l
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [KernelAgent: Hardware-Guided GPU Kernel Optimization via Multi-Agent Orchestration](https://pytorch.org/blog/kernelagent-hardware-guided-gpu-kernel-optimization-via-multi-agent-orchestration/) (2026-03-06)
 - [FlexAttention + FlashAttention-4: Fast and Flexible](https://pytorch.org/blog/flexattention-flashattention-4-fast-and-flexible/) (2026-03-05)
 - [Deploying PyTorch Models to the Micro-Edge with ExecuTorch and Arm](https://pytorch.org/blog/deploying-pytorch-models-to-the-micro-edge-with-executorch-and-arm/) (2026-03-05)
 - [Quantization-Aware Training in TorchAO (II)](https://pytorch.org/blog/quantization-aware-training-in-torchao-ii/) (2026-03-04)
 - [Enhancing Multimodal Training and Memory Efficiency with DeepSpeed](https://pytorch.org/blog/enhancing-multimodal-training-and-memory-efficiency-with-deepspeed/) (2026-02-25)
-- [Accelerating Autotuning in Helion with Bayesian Optimization](https://pytorch.org/blog/accelerating-autotuning-in-helion/) (2026-02-24)
 
 </details>
 
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Conversational LLM Evaluations in Minutes with NVIDIA NeMo Evaluator Agent Skills ](https://huggingface.co/blog/nvidia/model-evaluation-skill) (2026-03-06)
 - [Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations](https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms) (2026-03-05)
 - [Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines](https://huggingface.co/blog/modular-diffusers) (2026-03-05)
 - [PRX Part 3 — Training a Text-to-Image Model in 24h!](https://huggingface.co/blog/Photoroom/prx-part3) (2026-03-03)
 - [Mixture of Experts (MoEs) in Transformers](https://huggingface.co/blog/moe-transformers) (2026-02-26)
-- [Deploying Open Source Vision Language Models (VLM) on Jetson](https://huggingface.co/blog/nvidia/cosmos-on-jetson) (2026-02-24)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/products/sunsetting-legacy-segment-analytics-l
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [What Makes Quantum Machine Learning “Quantum”?](https://towardsdatascience.com/what-makes-quantum-machine-learning-quantum/) (2026-03-06)
 - [The Data Team’s Survival Guide for the Next Era of Data](https://towardsdatascience.com/the-data-teams-survival-guide-for-the-next-era-of-data/) (2026-03-06)
 - [The Black Box Problem: Why AI-Generated Code Stops Being Maintainable](https://towardsdatascience.com/the-black-box-problem-why-ai-generated-code-stops-being-maintainable/) (2026-03-06)
 - [How to Create Production-Ready Code with Claude Code](https://towardsdatascience.com/how-to-create-production-ready-code-with-claude-code/) (2026-03-06)
 - [AI in Multiple GPUs: ZeRO & FSDP](https://towardsdatascience.com/ai-in-multiple-gpus-zero-fsdp/) (2026-03-05)
-- [How Human Work Will Remain Valuable in an AI World](https://towardsdatascience.com/human-work-in-the-ai-world-how-to-remain-valuable/) (2026-03-05)
 
 </details>
 
