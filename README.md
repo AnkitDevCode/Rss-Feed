@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Google just gave Sundar Pichai a $692M pay package](https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/) (2026-03-08)
+- [Grammarly’s ‘expert review’ is just missing the actual experts](https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/) (2026-03-07)
+- [OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal](https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/) (2026-03-07)
+- [PopSockets founder David Barnett talks about building a viral business](https://techcrunch.com/2026/03/07/popsockets-founder-david-barnett-talks-about-building-a-viral-business/) (2026-03-07)
 - [OpenAI delays ChatGPT’s ‘adult mode’ again](https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/) (2026-03-07)
-- [Robinhood’s startup fund stumbles in NYSE debut](https://techcrunch.com/2026/03/06/robinhoods-startup-fund-stumbles-in-nyse-debut/) (2026-03-07)
-- [X is testing a new ad format that connects posts with products](https://techcrunch.com/2026/03/06/x-is-testing-a-new-ad-format-that-connects-posts-with-products/) (2026-03-06)
-- [Nintendo sues the US government for a refund on tariffs](https://techcrunch.com/2026/03/06/nintendo-sues-the-u-s-government-for-a-refund-on-tariffs/) (2026-03-06)
-- [Life EV officially owns Rad Power Bikes now](https://techcrunch.com/2026/03/06/life-ev-officially-owns-rad-power-bikes-now/) (2026-03-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Verification debt: the hidden cost of AI-generated code](https://fazy.medium.com/agentic-coding-ais-adolescence-b0d13452f981) (2026-03-07)
-- [SigNoz (YC W21, open source Datadog) Is Hiring across roles](https://signoz.io/careers) (2026-03-07)
-- [The Banality of Surveillance](https://benn.substack.com/p/the-banality-of-surveillance) (2026-03-07)
-- [A Decade of Docker Containers](https://cacm.acm.org/research/a-decade-of-docker-containers/) (2026-03-07)
-- [Show HN: Argus – VSCode debugger for Claude Code sessions](https://github.com/yessGlory17/argus) (2026-03-07)
+- [Cloud VM benchmarks 2026: performance/price for 44 VM types over 7 providers](https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html) (2026-03-08)
+- [Ghostmd: Ghostty but for Markdown Notes](https://mimoo.github.io/ghostmd/) (2026-03-08)
+- [Why developers using AI are working longer hours](https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/) (2026-03-07)
+- [Put the zip code first](https://zipcodefirst.com) (2026-03-07)
+- [Lisp-style C++ template meta programming](https://github.com/mistivia/lmp) (2026-03-07)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Hunting for elusive "ghost elephants"](https://arstechnica.com/science/2026/03/hunting-for-elusive-ghost-elephants/) (2026-03-07)
 - [A unicorn-like Spinosaurus found in the Sahara](https://arstechnica.com/science/2026/03/a-unicorn-like-spinosaurus-found-in-the-sahara/) (2026-03-07)
 - [From Iran to Ukraine, everyone's trying to hack security cameras](https://arstechnica.com/security/2026/03/from-iran-to-ukraine-everyones-trying-to-hack-security-cameras/) (2026-03-07)
 - [Ding-dong! The Exploration Upper Stage is dead](https://arstechnica.com/space/2026/03/ding-dong-the-exploration-upper-stage-is-dead/) (2026-03-06)
 - [Satellite firm pauses imagery after revealing Iran's attacks on US bases](https://arstechnica.com/space/2026/03/satellite-firm-pauses-imagery-after-revealing-irans-attacks-on-us-bases/) (2026-03-06)
-- [Fishing crews in the Atlantic keep accidentally dredging up chemical weapons](https://arstechnica.com/health/2026/03/fishing-crews-in-the-atlantic-keep-accidentally-dredging-up-chemical-weapons/) (2026-03-06)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Surveillance Capitalism: The Business Model That Turned Humanity Into Raw Material](https://dev.to/tiamatenity/surveillance-capitalism-the-business-model-that-turned-humanity-into-raw-material-4522) (2026-03-07)
-- [How I Successfully Passed the CKA on My Second Attempt](https://dev.to/thomas-walker-2210/how-i-successfully-passed-the-cka-on-my-second-attempt-p8l) (2026-03-07)
-- [How I Built an AI Image Generation Platform That Reached 48K+ Users](https://dev.to/adibghamri/how-i-built-an-ai-image-generation-platform-that-reached-48k-users-3877) (2026-03-07)
-- [The missing layer between your AI agents and you](https://dev.to/naomi_kynes/the-missing-layer-between-your-ai-agents-and-you-2kj8) (2026-03-07)
-- [MCP Server Testing Is Fragmented. I Built One CLI for Record, Replay, Mock, Audit, and CI](https://dev.to/kunalvst/mcp-server-testing-is-fragmented-i-built-one-cli-for-record-replay-mock-audit-and-ci-5eh4) (2026-03-07)
+- [Pill-ID: Saving Lives with YOLOv10 and Edge AI Medication Reminders 💊](https://dev.to/wellallytech/pill-id-saving-lives-with-yolov10-and-edge-ai-medication-reminders-4iee) (2026-03-08)
+- [Bi-directional Voice-Controlled Recipe Assistant with Nova Sonic v2](https://dev.to/aws-builders/bi-directional-voice-controlled-recipe-assistant-with-nova-sonic-v2-4p59) (2026-03-08)
+- [I Had No Idea How Full My Claude Code Context Window Was. So I Built a Tool.](https://dev.to/yurukusa/i-had-no-idea-how-full-my-claude-code-context-window-was-so-i-built-a-tool-279e) (2026-03-08)
+- [The Lock Breaks Downward](https://dev.to/kuro_agent/the-lock-breaks-downward-3dde) (2026-03-08)
+- [Day 16: Five Revenue Models I Considered for My API Business (And Why Most Won't Work)](https://dev.to/hermesagent/day-16-five-revenue-models-i-considered-for-my-api-business-and-why-most-wont-work-26p9) (2026-03-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Colleague Who Wrote Code His Mother Couldn’t Recognize](https://medium.com/illumination/the-colleague-who-wrote-code-his-mother-couldnt-recognize-e78c9c9107f0?source=rss------programming-5) (2026-03-07)
-- [Do we need more developers or do we need more translators?](https://medium.com/realworld-ai-use-cases/do-we-need-more-developers-or-do-we-need-more-translators-334777694a3e?source=rss------programming-5) (2026-03-07)
-- [AI Can’t Stop Writing Beautiful, Broken Code](https://levelup.gitconnected.com/ai-cant-stop-writing-beautiful-broken-code-d7da5df91546?source=rss------programming-5) (2026-03-07)
-- [What Is An Entity? | Domain-Driven Design, Clean Architecture](https://medium.com/@mariammaurice/what-is-an-entity-domain-driven-design-clean-architecture-fd487194f89e?source=rss------programming-5) (2026-03-07)
-- [A Simple AI Workflow That Doubles Your Daily Output](https://medium.com/@shubhamnalawade037/a-simple-ai-workflow-that-doubles-your-daily-output-4df6e64cd997?source=rss------programming-5) (2026-03-07)
+- [Your GitHub Contribution Means Basically Nothing — Here’s the Truth](https://medium.com/@Deep-concept/your-github-contribution-means-basically-nothing-heres-the-truth-5eb967b70862?source=rss------programming-5) (2026-03-08)
+- [The Discipline of Finishing Boring Infrastructure](https://medium.com/@neonmaxima/the-discipline-of-finishing-boring-infrastructure-1599bd64e58a?source=rss------programming-5) (2026-03-08)
+- [The Hidden Skill That Separates Good AI Developers From Everyone Else](https://medium.com/@neonmaxima/the-hidden-skill-that-separates-good-ai-developers-from-everyone-else-91f45c4c0a3c?source=rss------programming-5) (2026-03-08)
+- [The Night a Feature Flag Saved Our Go Deployment](https://elsyarifx.medium.com/the-night-a-feature-flag-saved-our-go-deployment-90a33465abfe?source=rss------programming-5) (2026-03-08)
+- [When Rust Finally Let Me “Lend” a Value Without Losing It](https://medium.com/@raoanandteertha/when-rust-finally-let-me-lend-a-value-without-losing-it-5eb1f8266856?source=rss------programming-5) (2026-03-08)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Introducing GPT-5.4 in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785) (2026-03-05)
 - [Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure](https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/) (2026-03-04)
 - [Unlocking document understanding with Mistral Document AI in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664) (2026-03-03)
 - [Instant access incremental snapshots: Restore without waiting](https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/) (2026-03-02)
 - [Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected](http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog) (2026-02-24)
+- [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
 
 </details>
 
@@ -367,6 +367,11 @@ Send Bulk SMS With PHP and Twilio
 https://www.twilio.com/en-us/blog/developers/tutorials/send-bulk-sms-with-php-and-twilio
 ) (2026-03-06)
 - [
+How to Block Spam Calls with Twilio Voice in Node.js
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/block-spam-calls-twilio-voice-node-js
+) (2026-03-06)
+- [
 Build a Twilio + Zoho CRM Voice Integration
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/build-twilio-zoho-crm-voice-integration
@@ -380,11 +385,6 @@ https://www.twilio.com/en-us/blog/insights/data/data-activation
 The Art of the Attendance: Why MWC is the Ultimate B2B Spectacle
 ](
 https://www.twilio.com/en-us/blog/events/visit-twilio-at-mwc-2026
-) (2026-02-23)
-- [
-Direct Customer to ISV Rearchitecture Guide
-](
-https://www.twilio.com/en-us/blog/developers/best-practices/direct-customer-to-isv-rearchitecture-guide
 ) (2026-02-23)
 
 </details>
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/developers/best-practices/direct-customer-to-i
 <details>
 <summary>💬 Slack API</summary>
 
+- [3 New Ways Salesforce Meets You in Slack](https://slack.com/blog/news/conversational-intelligence-with-slack) (2026-03-05)
 - [Project Planning and Timelines Guide: Tools and Best Practices](https://slack.com/blog/productivity/project-planning-and-timelines-guide-tools-and-best-practices) (2026-03-02)
 - [Best Data Discovery Tools in 2026 for Product, Network, and IT Assets](https://slack.com/blog/productivity/best-discovery-tools) (2026-03-02)
 - [Slack Feature Drop: Better Connections for Every Kind of Work](https://slack.com/blog/news/feature-drop-feb26) (2026-03-01)
 - [Project Management Software Guide for 2026](https://slack.com/blog/collaboration/project-management-software) (2026-02-27)
-- [The Best Slackbot Prompts for Customer Service Teams](https://slack.com/blog/productivity/slackbot-for-customer-service) (2026-02-26)
 
 </details>
 
