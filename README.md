@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Owner of ICE detention facility sees big opportunity in AI man camps](https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/) (2026-03-08)
+- [TechCrunch Mobility: Rivian’s R2 gambit](https://techcrunch.com/2026/03/08/techcrunch-mobility-rivians-r2-gambit/) (2026-03-08)
 - [A roadmap for AI, if anyone will listen](https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/) (2026-03-08)
 - [Push for $40 smartphones builds momentum, but still faces cost hurdles](https://techcrunch.com/2026/03/07/push-for-40-smartphones-builds-momentum-but-still-faces-cost-hurdles/) (2026-03-08)
 - [Google just gave Sundar Pichai a $692M pay package](https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/) (2026-03-08)
-- [Grammarly’s ‘expert review’ is just missing the actual experts](https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/) (2026-03-07)
-- [OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal](https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/) (2026-03-07)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: Eyot, A programming language where the GPU is just another thread](https://cowleyforniastudios.com/2026/03/08/announcing-eyot/) (2026-03-08)
-- [Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage](https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/) (2026-03-08)
-- [Notes on Writing WASM](https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm) (2026-03-08)
-- [SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI](https://arxiv.org/abs/2603.03823) (2026-03-08)
-- [Show HN: Curiosity – DIY 6" Newtonian Reflector Telescope](https://curiosity-telescope.vercel.app/) (2026-03-08)
+- [Based on its own charter, OpenAI should surrender the race](https://mlumiste.com/general/openai-charter/) (2026-03-08)
+- [Claude Struggles to Cope with ChatGPT Exodus](https://www.forbes.com/sites/barrycollins/2026/03/06/claude-struggles-to-cope-with-chatgpt-exodus/) (2026-03-08)
+- [LibreOffice Writer now supports Markdown](https://blog.documentfoundation.org/blog/2026/02/04/libreoffice-26-2-is-here/) (2026-03-08)
+- [My Homelab Setup](https://bryananthonio.com/blog/my-homelab-setup/) (2026-03-08)
+- [FrameBook](https://fb.edoo.gg) (2026-03-08)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Apple is going high-end with new ‘Ultra’ products next](https://www.theverge.com/tech/891151/apple-is-going-high-end-with-new-ultra-products-next) (2026-03-08)
+- [Listen to this: Mabe Fratti’s experimental cello pop](https://www.theverge.com/column/890713/mabe-fratti-sentir-que-no-sabes-review) (2026-03-08)
+- [What we&#8217;re listening to, watching, and reading right now.](https://www.theverge.com/entertainment/891057/what-were-listening-to-watching-and-reading) (2026-03-08)
+- [The best Switch 2 controller just got better (and a little worse)](https://www.theverge.com/tech/888482/easysmx-s10-lite-switch-2-native-wireless-controller-hands-on) (2026-03-08)
 - [The cute and cursed story of Furby](https://www.theverge.com/podcast/891124/the-cute-and-cursed-story-of-furby) (2026-03-08)
-- [The uncomfortable truth about hybrid vehicles](https://www.theverge.com/column/890135/truth-hybrid-vehicles) (2026-03-08)
-- [Sony appears to be testing dynamic pricing on PlayStation games](https://www.theverge.com/games/891085/sony-dynamic-pricing-playstation-games) (2026-03-07)
-- [Time’s running out to get a free gift card when you preorder a new MacBook](https://www.theverge.com/gadgets/890788/macbook-neo-air-pro-samsung-galaxy-s26-gift-card-deal-sale) (2026-03-07)
-- [Vizio accounts are becoming Walmart accounts](https://www.theverge.com/gadgets/891056/vizio-accounts-are-becoming-walmart-accounts) (2026-03-07)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Jessica Jones joins the fray in Daredevil: Born Again trailer](https://arstechnica.com/culture/2026/03/jessica-jones-joins-the-fray-in-daredevil-born-again-trailer/) (2026-03-08)
 - [Tiny, long-armed dinosaur leads to rethink of dinosaur miniaturization](https://arstechnica.com/science/2026/03/tiny-long-armed-dinosaur-leads-to-rethink-of-dinosaur-miniaturization/) (2026-03-08)
 - [Hunting for elusive "ghost elephants"](https://arstechnica.com/science/2026/03/hunting-for-elusive-ghost-elephants/) (2026-03-07)
 - [A unicorn-like Spinosaurus found in the Sahara](https://arstechnica.com/science/2026/03/a-unicorn-like-spinosaurus-found-in-the-sahara/) (2026-03-07)
 - [From Iran to Ukraine, everyone's trying to hack security cameras](https://arstechnica.com/security/2026/03/from-iran-to-ukraine-everyones-trying-to-hack-security-cameras/) (2026-03-07)
-- [Ding-dong! The Exploration Upper Stage is dead](https://arstechnica.com/space/2026/03/ding-dong-the-exploration-upper-stage-is-dead/) (2026-03-06)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I Built a SQL Query Builder in Python - Never Hand-Write SQL Again](https://dev.to/devadatta_baireddy/i-built-a-sql-query-builder-in-python-never-hand-write-sql-again-5bah) (2026-03-08)
-- [India Is Collapsing — And Why It Affects the Tech Industry](https://dev.to/hejhdiss/india-is-collapsing-and-why-it-affects-the-tech-industry-1kd7) (2026-03-08)
-- [Replacing Trusted Oracles with Zero-Knowledge Proofs in Rust](https://dev.to/skye_zkcg/replacing-trusted-oracles-with-zero-knowledge-proofs-in-rust-5d6k) (2026-03-08)
-- [Why 'Just Squash Merge' No Longer Works in the Age of AI](https://dev.to/kenimo49/why-just-squash-merge-no-longer-works-in-the-age-of-ai-1kfc) (2026-03-08)
-- [The Prompt Rot Problem: Why Your AI Agent Gets Worse Over Time](https://dev.to/askpatrick/the-prompt-rot-problem-why-your-ai-agent-gets-worse-over-time-1fgj) (2026-03-08)
+- [Building a Faster secp256k1 Library – UltrafastSecp256k1 v3.21](https://dev.to/vano_chkheidze_5071c537e2/building-a-faster-secp256k1-library-ultrafastsecp256k1-v321-3k9m) (2026-03-08)
+- [The Local AI Hardware Guide (2026)](https://dev.to/axrisi/the-local-ai-hardware-guide-2026-4mk) (2026-03-08)
+- [My AI Agent Auto-Approved Its Own Decision. Then Another Agent Executed It. No Human in the Loop.](https://dev.to/the200dollarceo/my-ai-agent-auto-approved-its-own-decision-then-another-agent-executed-it-no-human-in-the-loop-2i1e) (2026-03-08)
+- [How I Built a Lightweight Cron Job Health Monitor with Bash and Docker](https://dev.to/alanvarghese-dev/how-i-built-a-lightweight-cron-job-health-monitor-with-bash-and-docker-16mh) (2026-03-08)
+- [Let Dependabot Merge Its Own PRs](https://dev.to/nickytonline/let-dependabot-merge-its-own-prs-27pc) (2026-03-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why Disabling PHP GC Sometimes Improves Performance? (and When It Breaks Everything)](https://medium.com/tech-vibes/why-disabling-php-gc-sometimes-improves-performance-and-when-it-breaks-everything-2b4bf9cda1f2?source=rss------programming-5) (2026-03-08)
-- [How to Prevent Layout Shift in Next.js (CLS Fixes That Actually Work)](https://meetpan1048.medium.com/how-to-prevent-layout-shift-in-next-js-cls-fixes-that-actually-work-ec7f4e6f1b8e?source=rss------programming-5) (2026-03-08)
-- [The Hidden Tax of Context Switching in Software Engineering](https://kawaldeepsingh.medium.com/the-hidden-tax-of-context-switching-in-software-engineering-6f2d405ae5e3?source=rss------programming-5) (2026-03-08)
-- [10 Python Libraries That Quietly Power Serious AI Applications](https://ai.plainenglish.io/10-python-libraries-that-quietly-power-serious-ai-applications-bb58c4367ca4?source=rss------programming-5) (2026-03-08)
-- [Why Your Cloud VMs Are Slower Than You Think in 2026 (and What to Do About It)](https://medium.com/@sebuzdugan/why-your-cloud-vms-are-slower-than-you-think-in-2026-and-what-to-do-about-it-1d3f96c12310?source=rss------programming-5) (2026-03-08)
+- [How We Made It to the Smart India Hackathon Finals Twice](https://medium.com/@abhaygzb15/how-we-made-it-to-the-smart-india-hackathon-finals-twice-d3648d68bce2?source=rss------programming-5) (2026-03-08)
+- [She Codes the Future: A Message to Every Girl Curious About Tech](https://medium.com/@amarakoonanjalee11/she-codes-the-future-a-message-to-every-girl-curious-about-tech-126fc43dd97b?source=rss------programming-5) (2026-03-08)
+- [Andrej Karpathy’s AutoResearch: Bye Bye Researchers](https://medium.com/data-science-in-your-pocket/andrej-karpathys-autoresearch-bye-bye-researchers-76319a719630?source=rss------programming-5) (2026-03-08)
+- [Top 10: The Most Influential International Music Groups of 2026](https://medium.com/@BrotherswaggStudioRecords/top-10-the-most-influential-international-music-groups-of-2026-70dd4cc4dbbf?source=rss------programming-5) (2026-03-08)
+- [Leveling Up Your SQL — The RPG Guide to Writing Queries Like a Boss](https://medium.com/@radhgap/leveling-up-your-sql-the-rpg-guide-to-writing-queries-like-a-boss-e91449925078?source=rss------programming-5) (2026-03-08)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Introducing GPT-5.4 in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785) (2026-03-05)
 - [Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure](https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/) (2026-03-04)
 - [Unlocking document understanding with Mistral Document AI in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664) (2026-03-03)
 - [Instant access incremental snapshots: Restore without waiting](https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/) (2026-03-02)
 - [Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected](http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog) (2026-02-24)
-- [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/events/visit-twilio-at-mwc-2026
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Write C Code Without Learning C: The Magic of PythoC](https://towardsdatascience.com/write-c-code-without-learning-c-the-magic-of-pythoc/) (2026-03-08)
+- [LatentVLA: Latent Reasoning Models for Autonomous Driving](https://towardsdatascience.com/latentvla-latent-reasoning-models-for-autonomous-driving/) (2026-03-08)
 - [Understanding Context and Contextual Retrieval in RAG](https://towardsdatascience.com/understanding-context-and-contextual-retrieval-in-rag/) (2026-03-07)
 - [The AI Bubble Has a Data Science Escape Hatch](https://towardsdatascience.com/the-ai-bubble-has-a-data-science-escape-hatch/) (2026-03-07)
 - [What Makes Quantum Machine Learning “Quantum”?](https://towardsdatascience.com/what-makes-quantum-machine-learning-quantum/) (2026-03-06)
-- [The Data Team’s Survival Guide for the Next Era of Data](https://towardsdatascience.com/the-data-teams-survival-guide-for-the-next-era-of-data/) (2026-03-06)
-- [The Black Box Problem: Why AI-Generated Code Stops Being Maintainable](https://towardsdatascience.com/the-black-box-problem-why-ai-generated-code-stops-being-maintainable/) (2026-03-06)
 
 </details>
 
