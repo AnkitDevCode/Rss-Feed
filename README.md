@@ -20,21 +20,21 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [A roadmap for AI, if anyone will listen](https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/) (2026-03-08)
+- [Push for $40 smartphones builds momentum, but still faces cost hurdles](https://techcrunch.com/2026/03/07/push-for-40-smartphones-builds-momentum-but-still-faces-cost-hurdles/) (2026-03-08)
 - [Google just gave Sundar Pichai a $692M pay package](https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/) (2026-03-08)
 - [Grammarly’s ‘expert review’ is just missing the actual experts](https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/) (2026-03-07)
 - [OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal](https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/) (2026-03-07)
-- [PopSockets founder David Barnett talks about building a viral business](https://techcrunch.com/2026/03/07/popsockets-founder-david-barnett-talks-about-building-a-viral-business/) (2026-03-07)
-- [OpenAI delays ChatGPT’s ‘adult mode’ again](https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/) (2026-03-07)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Cloud VM benchmarks 2026: performance/price for 44 VM types over 7 providers](https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html) (2026-03-08)
-- [Ghostmd: Ghostty but for Markdown Notes](https://mimoo.github.io/ghostmd/) (2026-03-08)
-- [Why developers using AI are working longer hours](https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/) (2026-03-07)
-- [Put the zip code first](https://zipcodefirst.com) (2026-03-07)
+- [MonoGame: A .NET framework for making cross-platform games](https://github.com/MonoGame/MonoGame) (2026-03-08)
+- ["Warn about PyPy being unmaintained"](https://github.com/astral-sh/uv/pull/17643) (2026-03-08)
+- [Cloud VM benchmarks 2026](https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html) (2026-03-08)
+- [How to run Qwen 3.5 locally](https://unsloth.ai/docs/models/qwen3.5) (2026-03-07)
 - [Lisp-style C++ template meta programming](https://github.com/mistivia/lmp) (2026-03-07)
 
 </details>
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Pill-ID: Saving Lives with YOLOv10 and Edge AI Medication Reminders 💊](https://dev.to/wellallytech/pill-id-saving-lives-with-yolov10-and-edge-ai-medication-reminders-4iee) (2026-03-08)
-- [Bi-directional Voice-Controlled Recipe Assistant with Nova Sonic v2](https://dev.to/aws-builders/bi-directional-voice-controlled-recipe-assistant-with-nova-sonic-v2-4p59) (2026-03-08)
-- [I Had No Idea How Full My Claude Code Context Window Was. So I Built a Tool.](https://dev.to/yurukusa/i-had-no-idea-how-full-my-claude-code-context-window-was-so-i-built-a-tool-279e) (2026-03-08)
-- [The Lock Breaks Downward](https://dev.to/kuro_agent/the-lock-breaks-downward-3dde) (2026-03-08)
-- [Day 16: Five Revenue Models I Considered for My API Business (And Why Most Won't Work)](https://dev.to/hermesagent/day-16-five-revenue-models-i-considered-for-my-api-business-and-why-most-wont-work-26p9) (2026-03-08)
+- [brtc: A CLI Tool to Convert Password Strength into "Time to Crack and a Real USD Invoice"](https://dev.to/kanywst/brtc-a-cli-tool-to-convert-password-strength-into-time-to-crack-and-a-real-usd-invoice-24k9) (2026-03-08)
+- [SQL Queries Asked In Interview](https://dev.to/bhu_kalki/sql-queries-asked-in-interview-57pn) (2026-03-08)
+- [The Micro-Coercion of Speed: Why Friction Is an Engineering Prerequisite](https://dev.to/crisiscoresystems/the-micro-coercion-of-speed-why-friction-is-an-engineering-prerequisite-g4j) (2026-03-08)
+- [How to Stop Missing Contract Renewals: A Procurement Manager's Guide](https://dev.to/nextrenewalai/how-to-stop-missing-contract-renewals-a-procurement-managers-guide-4jaa) (2026-03-08)
+- [Vibe Coding Challenge — Day 10: Know How Generator](https://dev.to/labdays/vibe-coding-challenge-day-10-know-how-generator-3e0g) (2026-03-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Your GitHub Contribution Means Basically Nothing — Here’s the Truth](https://medium.com/@Deep-concept/your-github-contribution-means-basically-nothing-heres-the-truth-5eb967b70862?source=rss------programming-5) (2026-03-08)
-- [The Discipline of Finishing Boring Infrastructure](https://medium.com/@neonmaxima/the-discipline-of-finishing-boring-infrastructure-1599bd64e58a?source=rss------programming-5) (2026-03-08)
-- [The Hidden Skill That Separates Good AI Developers From Everyone Else](https://medium.com/@neonmaxima/the-hidden-skill-that-separates-good-ai-developers-from-everyone-else-91f45c4c0a3c?source=rss------programming-5) (2026-03-08)
-- [The Night a Feature Flag Saved Our Go Deployment](https://elsyarifx.medium.com/the-night-a-feature-flag-saved-our-go-deployment-90a33465abfe?source=rss------programming-5) (2026-03-08)
-- [When Rust Finally Let Me “Lend” a Value Without Losing It](https://medium.com/@raoanandteertha/when-rust-finally-let-me-lend-a-value-without-losing-it-5eb1f8266856?source=rss------programming-5) (2026-03-08)
+- [I Tested Clace AI for a Week. It Changed How I Think About Deploying AI Apps.](https://medium.com/activated-thinker/i-tested-clace-ai-for-a-week-it-changed-how-i-think-about-deploying-ai-apps-82b6d9dff06f?source=rss------programming-5) (2026-03-08)
+- [You’re STILL Using Claude After Codex 5.4 Dropped? Let’s Talk About That.](https://medium.com/@codesculpturersh/youre-still-using-claude-after-codex-5-4-dropped-let-s-talk-about-that-d4257ec8acce?source=rss------programming-5) (2026-03-08)
+- [Lovable can build your web app in minutes. Why can’t it build a real mobile app?](https://medium.com/@appifex.ai/lovable-can-build-your-web-app-in-minutes-why-cant-it-build-a-real-mobile-app-99593f0eeb0b?source=rss------programming-5) (2026-03-08)
+- [Coding Premium for Freelancers: Pricing, Productivity, Profit](https://blog.stackademic.com/coding-premium-for-freelancers-pricing-productivity-profit-071a1906fd1e?source=rss------programming-5) (2026-03-08)
+- [Real-World Python Automation: Libraries That Actually Scale Beyond Demos](https://python.plainenglish.io/real-world-python-automation-libraries-that-actually-scale-beyond-demos-98ed6c266900?source=rss------programming-5) (2026-03-08)
 
 </details>
 
