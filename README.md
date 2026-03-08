@@ -31,33 +31,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [MonoGame: A .NET framework for making cross-platform games](https://github.com/MonoGame/MonoGame) (2026-03-08)
-- ["Warn about PyPy being unmaintained"](https://github.com/astral-sh/uv/pull/17643) (2026-03-08)
-- [Cloud VM benchmarks 2026](https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html) (2026-03-08)
-- [How to run Qwen 3.5 locally](https://unsloth.ai/docs/models/qwen3.5) (2026-03-07)
-- [Lisp-style C++ template meta programming](https://github.com/mistivia/lmp) (2026-03-07)
+- [Show HN: Eyot, A programming language where the GPU is just another thread](https://cowleyforniastudios.com/2026/03/08/announcing-eyot/) (2026-03-08)
+- [Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage](https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/) (2026-03-08)
+- [Notes on Writing WASM](https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm) (2026-03-08)
+- [SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI](https://arxiv.org/abs/2603.03823) (2026-03-08)
+- [Show HN: Curiosity – DIY 6" Newtonian Reflector Telescope](https://curiosity-telescope.vercel.app/) (2026-03-08)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The cute and cursed story of Furby](https://www.theverge.com/podcast/891124/the-cute-and-cursed-story-of-furby) (2026-03-08)
+- [The uncomfortable truth about hybrid vehicles](https://www.theverge.com/column/890135/truth-hybrid-vehicles) (2026-03-08)
 - [Sony appears to be testing dynamic pricing on PlayStation games](https://www.theverge.com/games/891085/sony-dynamic-pricing-playstation-games) (2026-03-07)
 - [Time’s running out to get a free gift card when you preorder a new MacBook](https://www.theverge.com/gadgets/890788/macbook-neo-air-pro-samsung-galaxy-s26-gift-card-deal-sale) (2026-03-07)
 - [Vizio accounts are becoming Walmart accounts](https://www.theverge.com/gadgets/891056/vizio-accounts-are-becoming-walmart-accounts) (2026-03-07)
-- [The OpenClaw superfan meetup serves optimism and lobster](https://www.theverge.com/ai-artificial-intelligence/890517/openclaw-clawcon-meetup-nyc-open-source-ai) (2026-03-07)
-- [A bite-sized adventure that puts a wrench into the classic Zelda formula](https://www.theverge.com/entertainment/890664/ratcheteer-dx-review-zelda-steam-switch) (2026-03-07)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Tiny, long-armed dinosaur leads to rethink of dinosaur miniaturization](https://arstechnica.com/science/2026/03/tiny-long-armed-dinosaur-leads-to-rethink-of-dinosaur-miniaturization/) (2026-03-08)
 - [Hunting for elusive "ghost elephants"](https://arstechnica.com/science/2026/03/hunting-for-elusive-ghost-elephants/) (2026-03-07)
 - [A unicorn-like Spinosaurus found in the Sahara](https://arstechnica.com/science/2026/03/a-unicorn-like-spinosaurus-found-in-the-sahara/) (2026-03-07)
 - [From Iran to Ukraine, everyone's trying to hack security cameras](https://arstechnica.com/security/2026/03/from-iran-to-ukraine-everyones-trying-to-hack-security-cameras/) (2026-03-07)
 - [Ding-dong! The Exploration Upper Stage is dead](https://arstechnica.com/space/2026/03/ding-dong-the-exploration-upper-stage-is-dead/) (2026-03-06)
-- [Satellite firm pauses imagery after revealing Iran's attacks on US bases](https://arstechnica.com/space/2026/03/satellite-firm-pauses-imagery-after-revealing-irans-attacks-on-us-bases/) (2026-03-06)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [brtc: A CLI Tool to Convert Password Strength into "Time to Crack and a Real USD Invoice"](https://dev.to/kanywst/brtc-a-cli-tool-to-convert-password-strength-into-time-to-crack-and-a-real-usd-invoice-24k9) (2026-03-08)
-- [SQL Queries Asked In Interview](https://dev.to/bhu_kalki/sql-queries-asked-in-interview-57pn) (2026-03-08)
-- [The Micro-Coercion of Speed: Why Friction Is an Engineering Prerequisite](https://dev.to/crisiscoresystems/the-micro-coercion-of-speed-why-friction-is-an-engineering-prerequisite-g4j) (2026-03-08)
-- [How to Stop Missing Contract Renewals: A Procurement Manager's Guide](https://dev.to/nextrenewalai/how-to-stop-missing-contract-renewals-a-procurement-managers-guide-4jaa) (2026-03-08)
-- [Vibe Coding Challenge — Day 10: Know How Generator](https://dev.to/labdays/vibe-coding-challenge-day-10-know-how-generator-3e0g) (2026-03-08)
+- [I Built a SQL Query Builder in Python - Never Hand-Write SQL Again](https://dev.to/devadatta_baireddy/i-built-a-sql-query-builder-in-python-never-hand-write-sql-again-5bah) (2026-03-08)
+- [India Is Collapsing — And Why It Affects the Tech Industry](https://dev.to/hejhdiss/india-is-collapsing-and-why-it-affects-the-tech-industry-1kd7) (2026-03-08)
+- [Replacing Trusted Oracles with Zero-Knowledge Proofs in Rust](https://dev.to/skye_zkcg/replacing-trusted-oracles-with-zero-knowledge-proofs-in-rust-5d6k) (2026-03-08)
+- [Why 'Just Squash Merge' No Longer Works in the Age of AI](https://dev.to/kenimo49/why-just-squash-merge-no-longer-works-in-the-age-of-ai-1kfc) (2026-03-08)
+- [The Prompt Rot Problem: Why Your AI Agent Gets Worse Over Time](https://dev.to/askpatrick/the-prompt-rot-problem-why-your-ai-agent-gets-worse-over-time-1fgj) (2026-03-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Tested Clace AI for a Week. It Changed How I Think About Deploying AI Apps.](https://medium.com/activated-thinker/i-tested-clace-ai-for-a-week-it-changed-how-i-think-about-deploying-ai-apps-82b6d9dff06f?source=rss------programming-5) (2026-03-08)
-- [You’re STILL Using Claude After Codex 5.4 Dropped? Let’s Talk About That.](https://medium.com/@codesculpturersh/youre-still-using-claude-after-codex-5-4-dropped-let-s-talk-about-that-d4257ec8acce?source=rss------programming-5) (2026-03-08)
-- [Lovable can build your web app in minutes. Why can’t it build a real mobile app?](https://medium.com/@appifex.ai/lovable-can-build-your-web-app-in-minutes-why-cant-it-build-a-real-mobile-app-99593f0eeb0b?source=rss------programming-5) (2026-03-08)
-- [Coding Premium for Freelancers: Pricing, Productivity, Profit](https://blog.stackademic.com/coding-premium-for-freelancers-pricing-productivity-profit-071a1906fd1e?source=rss------programming-5) (2026-03-08)
-- [Real-World Python Automation: Libraries That Actually Scale Beyond Demos](https://python.plainenglish.io/real-world-python-automation-libraries-that-actually-scale-beyond-demos-98ed6c266900?source=rss------programming-5) (2026-03-08)
+- [Why Disabling PHP GC Sometimes Improves Performance? (and When It Breaks Everything)](https://medium.com/tech-vibes/why-disabling-php-gc-sometimes-improves-performance-and-when-it-breaks-everything-2b4bf9cda1f2?source=rss------programming-5) (2026-03-08)
+- [How to Prevent Layout Shift in Next.js (CLS Fixes That Actually Work)](https://meetpan1048.medium.com/how-to-prevent-layout-shift-in-next-js-cls-fixes-that-actually-work-ec7f4e6f1b8e?source=rss------programming-5) (2026-03-08)
+- [The Hidden Tax of Context Switching in Software Engineering](https://kawaldeepsingh.medium.com/the-hidden-tax-of-context-switching-in-software-engineering-6f2d405ae5e3?source=rss------programming-5) (2026-03-08)
+- [10 Python Libraries That Quietly Power Serious AI Applications](https://ai.plainenglish.io/10-python-libraries-that-quietly-power-serious-ai-applications-bb58c4367ca4?source=rss------programming-5) (2026-03-08)
+- [Why Your Cloud VMs Are Slower Than You Think in 2026 (and What to Do About It)](https://medium.com/@sebuzdugan/why-your-cloud-vms-are-slower-than-you-think-in-2026-and-what-to-do-about-it-1d3f96c12310?source=rss------programming-5) (2026-03-08)
 
 </details>
 
@@ -579,11 +579,11 @@ https://www.twilio.com/en-us/blog/events/visit-twilio-at-mwc-2026
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Pyright Guide: Installation, Configuration, and Use Cases](https://www.analyticsvidhya.com/blog/2026/03/pyright-guide/) (2026-03-08)
 - [Sarvam Edge: A Beginner’s Guide to On-Device AI for India](https://www.analyticsvidhya.com/blog/2026/03/sarvam-edge/) (2026-03-07)
 - [We Tried The New GPT-5.4 And it is The Most Powerful ChatGPT Has Ever Been](https://www.analyticsvidhya.com/blog/2026/03/we-tried-gpt-5-4-ai/) (2026-03-06)
 - [New Update Makes GPT-5.3 Instant More Useful For Everyday Tasks](https://www.analyticsvidhya.com/blog/2026/03/gpt-5-3-instant-update/) (2026-03-06)
 - [NotebookLM Gets a Game-changing Feature: Check Out Cinematic Video Overviews](https://www.analyticsvidhya.com/blog/2026/03/notebooklm-cinematic-video-overviews/) (2026-03-06)
-- [PhysicEdit: Teaching Image Editing Models to Respect Physics](https://www.analyticsvidhya.com/blog/2026/03/physicedit-teaching-image-editing-models-physics/) (2026-03-05)
 
 </details>
 
