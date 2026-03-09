@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Ring’s Jamie Siminoff has been trying to calm privacy fears since the Super Bowl, but his answers may not help](https://techcrunch.com/2026/03/08/rings-jamie-siminoff-has-been-trying-to-calm-privacy-fears-since-the-super-bowl-but-his-answers-may-not-help/) (2026-03-09)
 - [Palmer Luckey’s retro gaming startup ModRetro reportedly seeks funding at $1B valuation](https://techcrunch.com/2026/03/08/palmer-luckeys-retro-gaming-startup-modretro-reportedly-seeks-funding-at-1b-valuation/) (2026-03-08)
 - [Will the Pentagon’s Anthropic controversy scare startups away from defense work?](https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/) (2026-03-08)
 - [Owner of ICE detention facility sees big opportunity in AI man camps](https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/) (2026-03-08)
 - [TechCrunch Mobility: Rivian’s R2 gambit](https://techcrunch.com/2026/03/08/techcrunch-mobility-rivians-r2-gambit/) (2026-03-08)
-- [A roadmap for AI, if anyone will listen](https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/) (2026-03-08)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Tell HN: Tired of Generic Long Form A.I Posts](https://news.ycombinator.com/item?id=47303755) (2026-03-09)
+- [US Court of Appeals: TOS may be updated by email, use may imply consent [pdf]](https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf) (2026-03-09)
+- [Thermal Grizzly was scammed twice on raw materials worth €40k](https://videocardz.com/newz/der8auer-explains-thermal-grizzly-delays-after-company-was-scammed-twice-on-raw-materials-worth-e40000) (2026-03-09)
+- [The death of social media is the renaissance of RSS (2025)](https://www.smartlab.at/rss-revival-life-after-social-media/) (2026-03-09)
+- [How the Sriracha guys screwed over their supplier](https://old.reddit.com/r/KitchenConfidential/comments/1ro61g2/how_the_sriracha_guys_screwed_over_their_supplier/) (2026-03-09)
 - [Ask HN: What Are You Working On? (March 2026)](https://news.ycombinator.com/item?id=47303111) (2026-03-09)
-- [Linux Internals: How /proc/self/mem writes to unwritable memory (2021)](https://offlinemark.com/an-obscure-quirk-of-proc/) (2026-03-08)
-- [Blacksky AppView](https://github.com/blacksky-algorithms/atproto) (2026-03-08)
-- [Lil Finder Guy](https://basicappleguy.com/basicappleblog/lil-finder-guy) (2026-03-08)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Python was built for humans, Mapanare was built for AI](https://dev.to/juandenis/python-was-built-for-humans-mapanare-was-built-for-ai-1c6a) (2026-03-09)
-- [Auto-Remediation: What If Your Monitoring System Could Fix Things?](https://dev.to/linchuang/auto-remediation-what-if-your-monitoring-system-could-fix-things-cdj) (2026-03-09)
-- [My girlfriend banned my laptop for 6 weeks. I came back with GAAI — a governance framework for AI agents.](https://dev.to/fr-e-d/my-girlfriend-banned-my-laptop-for-6-weeks-i-came-back-with-a-governance-framework-for-ai-agents-15lk) (2026-03-09)
-- [How to Fix pyright-lsp on Claude Code for Windows (The Complete Guide)](https://dev.to/magnuscole/how-to-fix-pyright-lsp-on-claude-code-for-windows-the-complete-guide-3013) (2026-03-09)
-- [PairDrop vs Send: Local or Link-Based Sharing?](https://dev.to/selfhostingsh/pairdrop-vs-send-local-or-link-based-sharing-1kh) (2026-03-09)
+- [Passbolt vs Padloc: Which Password Manager?](https://dev.to/selfhostingsh/passbolt-vs-padloc-which-password-manager-2afn) (2026-03-09)
+- [6 Engineering Patterns Enterprise Teams Use Instead of Blind AI Code Generation](https://dev.to/jsgurujobs/6-engineering-patterns-enterprise-teams-use-instead-of-blind-ai-code-generation-5793) (2026-03-09)
+- [From a Confused Graduate to a DevOps Engineer](https://dev.to/mahinshanazeer/from-a-confused-graduate-to-a-devops-engineer-4dfh) (2026-03-09)
+- [IAM role assumption across AWS accounts: the right way (with working Terraform)](https://dev.to/yash_step2dev/iam-role-assumption-across-aws-accounts-the-right-way-with-working-terraform-3kpe) (2026-03-09)
+- [Vibe Coding Challenge — Day 11: Road Map Generator](https://dev.to/labdays/vibe-coding-challenge-day-11-road-map-generator-2hm5) (2026-03-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Navigator 2.0, GoRouter & Deep Links: The Questions Every Flutter Interviewer Asks](https://medium.com/@alaxhenry0121/navigator-2-0-gorouter-deep-links-the-questions-every-flutter-interviewer-asks-b79856bad935?source=rss------programming-5) (2026-03-09)
-- [You Already Understand Neural Networks. You Just Don’t Know It Yet](https://ai.plainenglish.io/you-already-understand-neural-networks-you-just-dont-know-it-yet-36b02734e832?source=rss------programming-5) (2026-03-09)
-- [Welcome to Programming 101 With Panda!](https://medium.com/@pandalovesthings100/welcome-to-programming-101-with-panda-93e1e6bf568c?source=rss------programming-5) (2026-03-09)
-- [The Secret Life of JavaScript: The Scroll](https://medium.com/@aaron.rose.tx/the-secret-life-of-javascript-the-scroll-0bf78df1528e?source=rss------programming-5) (2026-03-09)
-- [Capa de Dominio — Entidades](https://medium.com/@sosa.federico/capa-de-dominio-entidades-601b37a39d93?source=rss------programming-5) (2026-03-09)
+- [Golang: Simple Hello World Program](https://medium.com/@techexplorefromzero/golang-simple-hello-world-program-8cc074bfe31f?source=rss------programming-5) (2026-03-09)
+- [Why Businesses Still Hire PHP Developers in 2026 for Scalable Web Applications](https://medium.com/@Orbitwebtech/why-businesses-still-hire-php-developers-in-2026-for-scalable-web-applications-caa82f3ed53d?source=rss------programming-5) (2026-03-09)
+- [SwiftData Nedir? SwiftUI ile Modern Veri Yönetimini Anlamak](https://medium.com/@erbas.dev/swiftdata-nedir-swiftui-ile-modern-veri-y%C3%B6netimini-anlamak-6ea884eb41c3?source=rss------programming-5) (2026-03-09)
+- [8 Python Libraries for Faster Data Exploration](https://medium.com/@pubgjai59/8-python-libraries-for-faster-data-exploration-52aaa8e6c2cf?source=rss------programming-5) (2026-03-09)
+- [Automate the Internet with These 9 Powerful Python Libraries](https://medium.com/@pubgjai59/automate-the-internet-with-these-9-powerful-python-libraries-0cfbf1d91b3f?source=rss------programming-5) (2026-03-09)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/events/visit-twilio-at-mwc-2026
 <details>
 <summary>💬 Slack API</summary>
 
-- [3 New Ways Salesforce Meets You in Slack](https://slack.com/blog/news/conversational-intelligence-with-slack) (2026-03-05)
 - [Project Planning and Timelines Guide: Tools and Best Practices](https://slack.com/blog/productivity/project-planning-and-timelines-guide-tools-and-best-practices) (2026-03-02)
 - [Best Data Discovery Tools in 2026 for Product, Network, and IT Assets](https://slack.com/blog/productivity/best-discovery-tools) (2026-03-02)
 - [Slack Feature Drop: Better Connections for Every Kind of Work](https://slack.com/blog/news/feature-drop-feb26) (2026-03-01)
 - [Project Management Software Guide for 2026](https://slack.com/blog/collaboration/project-management-software) (2026-02-27)
+- [The Best Slackbot Prompts for Customer Service Teams](https://slack.com/blog/productivity/slackbot-for-customer-service) (2026-02-26)
 
 </details>
 
