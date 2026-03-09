@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Palmer Luckey’s retro gaming startup ModRetro reportedly seeks funding at $1B valuation](https://techcrunch.com/2026/03/08/palmer-luckeys-retro-gaming-startup-modretro-reportedly-seeks-funding-at-1b-valuation/) (2026-03-08)
+- [Will the Pentagon’s Anthropic controversy scare startups away from defense work?](https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/) (2026-03-08)
 - [Owner of ICE detention facility sees big opportunity in AI man camps](https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/) (2026-03-08)
 - [TechCrunch Mobility: Rivian’s R2 gambit](https://techcrunch.com/2026/03/08/techcrunch-mobility-rivians-r2-gambit/) (2026-03-08)
 - [A roadmap for AI, if anyone will listen](https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/) (2026-03-08)
-- [Push for $40 smartphones builds momentum, but still faces cost hurdles](https://techcrunch.com/2026/03/07/push-for-40-smartphones-builds-momentum-but-still-faces-cost-hurdles/) (2026-03-08)
-- [Google just gave Sundar Pichai a $692M pay package](https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/) (2026-03-08)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Based on its own charter, OpenAI should surrender the race](https://mlumiste.com/general/openai-charter/) (2026-03-08)
-- [Claude Struggles to Cope with ChatGPT Exodus](https://www.forbes.com/sites/barrycollins/2026/03/06/claude-struggles-to-cope-with-chatgpt-exodus/) (2026-03-08)
-- [LibreOffice Writer now supports Markdown](https://blog.documentfoundation.org/blog/2026/02/04/libreoffice-26-2-is-here/) (2026-03-08)
-- [My Homelab Setup](https://bryananthonio.com/blog/my-homelab-setup/) (2026-03-08)
-- [FrameBook](https://fb.edoo.gg) (2026-03-08)
+- [Tell HN: Tired of Generic Long Form A.I Posts](https://news.ycombinator.com/item?id=47303755) (2026-03-09)
+- [Ask HN: What Are You Working On? (March 2026)](https://news.ycombinator.com/item?id=47303111) (2026-03-09)
+- [Linux Internals: How /proc/self/mem writes to unwritable memory (2021)](https://offlinemark.com/an-obscure-quirk-of-proc/) (2026-03-08)
+- [Blacksky AppView](https://github.com/blacksky-algorithms/atproto) (2026-03-08)
+- [Lil Finder Guy](https://basicappleguy.com/basicappleblog/lil-finder-guy) (2026-03-08)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building a Faster secp256k1 Library – UltrafastSecp256k1 v3.21](https://dev.to/vano_chkheidze_5071c537e2/building-a-faster-secp256k1-library-ultrafastsecp256k1-v321-3k9m) (2026-03-08)
-- [The Local AI Hardware Guide (2026)](https://dev.to/axrisi/the-local-ai-hardware-guide-2026-4mk) (2026-03-08)
-- [My AI Agent Auto-Approved Its Own Decision. Then Another Agent Executed It. No Human in the Loop.](https://dev.to/the200dollarceo/my-ai-agent-auto-approved-its-own-decision-then-another-agent-executed-it-no-human-in-the-loop-2i1e) (2026-03-08)
-- [How I Built a Lightweight Cron Job Health Monitor with Bash and Docker](https://dev.to/alanvarghese-dev/how-i-built-a-lightweight-cron-job-health-monitor-with-bash-and-docker-16mh) (2026-03-08)
-- [Let Dependabot Merge Its Own PRs](https://dev.to/nickytonline/let-dependabot-merge-its-own-prs-27pc) (2026-03-08)
+- [Python was built for humans, Mapanare was built for AI](https://dev.to/juandenis/python-was-built-for-humans-mapanare-was-built-for-ai-1c6a) (2026-03-09)
+- [Auto-Remediation: What If Your Monitoring System Could Fix Things?](https://dev.to/linchuang/auto-remediation-what-if-your-monitoring-system-could-fix-things-cdj) (2026-03-09)
+- [My girlfriend banned my laptop for 6 weeks. I came back with GAAI — a governance framework for AI agents.](https://dev.to/fr-e-d/my-girlfriend-banned-my-laptop-for-6-weeks-i-came-back-with-a-governance-framework-for-ai-agents-15lk) (2026-03-09)
+- [How to Fix pyright-lsp on Claude Code for Windows (The Complete Guide)](https://dev.to/magnuscole/how-to-fix-pyright-lsp-on-claude-code-for-windows-the-complete-guide-3013) (2026-03-09)
+- [PairDrop vs Send: Local or Link-Based Sharing?](https://dev.to/selfhostingsh/pairdrop-vs-send-local-or-link-based-sharing-1kh) (2026-03-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How We Made It to the Smart India Hackathon Finals Twice](https://medium.com/@abhaygzb15/how-we-made-it-to-the-smart-india-hackathon-finals-twice-d3648d68bce2?source=rss------programming-5) (2026-03-08)
-- [She Codes the Future: A Message to Every Girl Curious About Tech](https://medium.com/@amarakoonanjalee11/she-codes-the-future-a-message-to-every-girl-curious-about-tech-126fc43dd97b?source=rss------programming-5) (2026-03-08)
-- [Andrej Karpathy’s AutoResearch: Bye Bye Researchers](https://medium.com/data-science-in-your-pocket/andrej-karpathys-autoresearch-bye-bye-researchers-76319a719630?source=rss------programming-5) (2026-03-08)
-- [Top 10: The Most Influential International Music Groups of 2026](https://medium.com/@BrotherswaggStudioRecords/top-10-the-most-influential-international-music-groups-of-2026-70dd4cc4dbbf?source=rss------programming-5) (2026-03-08)
-- [Leveling Up Your SQL — The RPG Guide to Writing Queries Like a Boss](https://medium.com/@radhgap/leveling-up-your-sql-the-rpg-guide-to-writing-queries-like-a-boss-e91449925078?source=rss------programming-5) (2026-03-08)
+- [Navigator 2.0, GoRouter & Deep Links: The Questions Every Flutter Interviewer Asks](https://medium.com/@alaxhenry0121/navigator-2-0-gorouter-deep-links-the-questions-every-flutter-interviewer-asks-b79856bad935?source=rss------programming-5) (2026-03-09)
+- [You Already Understand Neural Networks. You Just Don’t Know It Yet](https://ai.plainenglish.io/you-already-understand-neural-networks-you-just-dont-know-it-yet-36b02734e832?source=rss------programming-5) (2026-03-09)
+- [Welcome to Programming 101 With Panda!](https://medium.com/@pandalovesthings100/welcome-to-programming-101-with-panda-93e1e6bf568c?source=rss------programming-5) (2026-03-09)
+- [The Secret Life of JavaScript: The Scroll](https://medium.com/@aaron.rose.tx/the-secret-life-of-javascript-the-scroll-0bf78df1528e?source=rss------programming-5) (2026-03-09)
+- [Capa de Dominio — Entidades](https://medium.com/@sosa.federico/capa-de-dominio-entidades-601b37a39d93?source=rss------programming-5) (2026-03-09)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Introducing GPT-5.4 in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785) (2026-03-05)
 - [Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure](https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/) (2026-03-04)
 - [Unlocking document understanding with Mistral Document AI in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664) (2026-03-03)
 - [Instant access incremental snapshots: Restore without waiting](https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/) (2026-03-02)
 - [Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected](http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog) (2026-02-24)
+- [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
 
 </details>
 
