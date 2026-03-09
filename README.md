@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Ring’s Jamie Siminoff has been trying to calm privacy fears since the Super Bowl, but his answers may not help](https://techcrunch.com/2026/03/08/rings-jamie-siminoff-has-been-trying-to-calm-privacy-fears-since-the-super-bowl-but-his-answers-may-not-help/) (2026-03-09)
+- [Flipkart moves its headquarters back to India ahead of IPO](https://techcrunch.com/2026/03/09/flipkart-moves-its-headquarters-back-to-india-ahead-of-ipo/) (2026-03-09)
+- [Ring’s Jamie Siminoff is still trying to calm privacy fears, but his answers may not help](https://techcrunch.com/2026/03/08/rings-jamie-siminoff-has-been-trying-to-calm-privacy-fears-since-the-super-bowl-but-his-answers-may-not-help/) (2026-03-09)
 - [Palmer Luckey’s retro gaming startup ModRetro reportedly seeks funding at $1B valuation](https://techcrunch.com/2026/03/08/palmer-luckeys-retro-gaming-startup-modretro-reportedly-seeks-funding-at-1b-valuation/) (2026-03-08)
 - [Will the Pentagon’s Anthropic controversy scare startups away from defense work?](https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/) (2026-03-08)
 - [Owner of ICE detention facility sees big opportunity in AI man camps](https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/) (2026-03-08)
-- [TechCrunch Mobility: Rivian’s R2 gambit](https://techcrunch.com/2026/03/08/techcrunch-mobility-rivians-r2-gambit/) (2026-03-08)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [US Court of Appeals: TOS may be updated by email, use may imply consent [pdf]](https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf) (2026-03-09)
-- [Thermal Grizzly was scammed twice on raw materials worth €40k](https://videocardz.com/newz/der8auer-explains-thermal-grizzly-delays-after-company-was-scammed-twice-on-raw-materials-worth-e40000) (2026-03-09)
-- [The death of social media is the renaissance of RSS (2025)](https://www.smartlab.at/rss-revival-life-after-social-media/) (2026-03-09)
-- [How the Sriracha guys screwed over their supplier](https://old.reddit.com/r/KitchenConfidential/comments/1ro61g2/how_the_sriracha_guys_screwed_over_their_supplier/) (2026-03-09)
-- [Ask HN: What Are You Working On? (March 2026)](https://news.ycombinator.com/item?id=47303111) (2026-03-09)
+- [Nvidia backs AI data center startup Nscale as it hits $14.6B valuation](https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html) (2026-03-09)
+- [Show HN: VS Code Agent Kanban: Task Management for the AI-Assisted Developer](https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer) (2026-03-09)
+- [Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)](https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/) (2026-03-09)
+- [Fontcrafter: Turn Your Handwriting into a Real Font](https://arcade.pirillo.com/fontcrafter.html) (2026-03-09)
+- [We Stopped Using the Mathematics That Works](https://gfrm.in/posts/why-decision-theory-lost/index.html) (2026-03-09)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [How Live Nation allegedly terrorized the concert industry](https://www.theverge.com/report/891241/live-nation-ticketmaster-week-one-jury-trial) (2026-03-09)
 - [Apple is going high-end with new ‘Ultra’ products next](https://www.theverge.com/tech/891151/apple-is-going-high-end-with-new-ultra-products-next) (2026-03-08)
 - [Listen to this: Mabe Fratti’s experimental cello pop](https://www.theverge.com/column/890713/mabe-fratti-sentir-que-no-sabes-review) (2026-03-08)
 - [What we&#8217;re listening to, watching, and reading right now.](https://www.theverge.com/entertainment/891057/what-were-listening-to-watching-and-reading) (2026-03-08)
 - [The best Switch 2 controller just got better (and a little worse)](https://www.theverge.com/tech/888482/easysmx-s10-lite-switch-2-native-wireless-controller-hands-on) (2026-03-08)
-- [The cute and cursed story of Furby](https://www.theverge.com/podcast/891124/the-cute-and-cursed-story-of-furby) (2026-03-08)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [“It doesn't feel safe”—Many international game developers plan to skip GDC in US](https://arstechnica.com/gaming/2026/03/it-doesnt-feel-safe-many-international-game-developers-plan-to-skip-gdc-in-us/) (2026-03-09)
 - [Jessica Jones joins the fray in Daredevil: Born Again trailer](https://arstechnica.com/culture/2026/03/jessica-jones-joins-the-fray-in-daredevil-born-again-trailer/) (2026-03-08)
 - [Tiny, long-armed dinosaur leads to rethink of dinosaur miniaturization](https://arstechnica.com/science/2026/03/tiny-long-armed-dinosaur-leads-to-rethink-of-dinosaur-miniaturization/) (2026-03-08)
 - [Hunting for elusive "ghost elephants"](https://arstechnica.com/science/2026/03/hunting-for-elusive-ghost-elephants/) (2026-03-07)
 - [A unicorn-like Spinosaurus found in the Sahara](https://arstechnica.com/science/2026/03/a-unicorn-like-spinosaurus-found-in-the-sahara/) (2026-03-07)
-- [From Iran to Ukraine, everyone's trying to hack security cameras](https://arstechnica.com/security/2026/03/from-iran-to-ukraine-everyones-trying-to-hack-security-cameras/) (2026-03-07)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Passbolt vs Padloc: Which Password Manager?](https://dev.to/selfhostingsh/passbolt-vs-padloc-which-password-manager-2afn) (2026-03-09)
-- [6 Engineering Patterns Enterprise Teams Use Instead of Blind AI Code Generation](https://dev.to/jsgurujobs/6-engineering-patterns-enterprise-teams-use-instead-of-blind-ai-code-generation-5793) (2026-03-09)
-- [From a Confused Graduate to a DevOps Engineer](https://dev.to/mahinshanazeer/from-a-confused-graduate-to-a-devops-engineer-4dfh) (2026-03-09)
-- [IAM role assumption across AWS accounts: the right way (with working Terraform)](https://dev.to/yash_step2dev/iam-role-assumption-across-aws-accounts-the-right-way-with-working-terraform-3kpe) (2026-03-09)
-- [Vibe Coding Challenge — Day 11: Road Map Generator](https://dev.to/labdays/vibe-coding-challenge-day-11-road-map-generator-2hm5) (2026-03-09)
+- [6.Linux Find Command](https://dev.to/thukhakyawe_cloud/6linux-find-command-1c8j) (2026-03-09)
+- [4 Patterns From Space Life Support That Will Save Your Backend](https://dev.to/klement_gunndu/4-patterns-from-space-life-support-that-will-save-your-backend-2o0p) (2026-03-09)
+- [I gave myself 48 hours to validate an AI code review tool. Here's how I built it.](https://dev.to/matthew_phelan_464db50fab/i-gave-myself-48-hours-to-validate-an-ai-code-review-tool-heres-how-i-built-it-38lp) (2026-03-09)
+- [Modernizing Web Applications with React 19+ Internals](https://dev.to/john_yaghobieh_8f294091f6/modernizing-web-applications-with-react-19-internals-a29) (2026-03-09)
+- [Best AI Mock Interview Platforms for Developers in 2026](https://dev.to/dan_mockif/best-ai-mock-interview-platforms-for-developers-in-2026-59bi) (2026-03-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Golang: Simple Hello World Program](https://medium.com/@techexplorefromzero/golang-simple-hello-world-program-8cc074bfe31f?source=rss------programming-5) (2026-03-09)
-- [Why Businesses Still Hire PHP Developers in 2026 for Scalable Web Applications](https://medium.com/@Orbitwebtech/why-businesses-still-hire-php-developers-in-2026-for-scalable-web-applications-caa82f3ed53d?source=rss------programming-5) (2026-03-09)
-- [SwiftData Nedir? SwiftUI ile Modern Veri Yönetimini Anlamak](https://medium.com/@erbas.dev/swiftdata-nedir-swiftui-ile-modern-veri-y%C3%B6netimini-anlamak-6ea884eb41c3?source=rss------programming-5) (2026-03-09)
-- [8 Python Libraries for Faster Data Exploration](https://medium.com/@pubgjai59/8-python-libraries-for-faster-data-exploration-52aaa8e6c2cf?source=rss------programming-5) (2026-03-09)
-- [Automate the Internet with These 9 Powerful Python Libraries](https://medium.com/@pubgjai59/automate-the-internet-with-these-9-powerful-python-libraries-0cfbf1d91b3f?source=rss------programming-5) (2026-03-09)
+- [Most Developers Don’t Know These 15 JavaScript Framework Features](https://medium.com/codetodeploy/most-developers-dont-know-these-15-javascript-framework-features-32dd90bdb189?source=rss------programming-5) (2026-03-09)
+- [From Hash Maps to Bitmasks: A Journey through LeetCode 2351 in Go](https://medium.com/@odusegunabraham22/from-hash-maps-to-bitmasks-a-journey-through-leetcode-2351-in-go-7b29919d1e8e?source=rss------programming-5) (2026-03-09)
+- [7 Python Tricks That Make Your Code Look Like a Senior Developer Wrote It](https://elshad-karimov.medium.com/7-python-tricks-that-make-your-code-look-like-a-senior-developer-wrote-it-b9593c7c47be?source=rss------programming-5) (2026-03-09)
+- [The Silent Burnout Problem in Software Engineering](https://kawaldeepsingh.medium.com/the-silent-burnout-problem-in-software-engineering-40f07846b312?source=rss------programming-5) (2026-03-09)
+- [The “Thinking” Feature in GPT-5.4 Is Actually a Warning Label](https://pub.towardsai.net/the-thinking-feature-in-gpt-5-4-is-actually-a-warning-label-4f9476e81410?source=rss------programming-5) (2026-03-09)
 
 </details>
 
@@ -306,18 +306,18 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [TCP Connections With DAP Debuggers, Different Formats for Numeric Values, and More in CLion 2026.1 EAP](https://blog.jetbrains.com/clion/2026/03/dap-via-tcp/) (2026-03-09)
 - [Jenkins Plugin Management: A Practical Guide To Avoiding Dependency Hell](https://blog.jetbrains.com/teamcity/2026/03/jenkins-plugin-management/) (2026-03-06)
 - [Speeding up analytics with Databao](https://blog.jetbrains.com/databao/2026/03/guja-customer-story/) (2026-03-06)
 - [Java Annotated Monthly – March 2026](https://blog.jetbrains.com/idea/2026/03/java-annotated-monthly-march-2026/) (2026-03-06)
 - [What Are The Security Risks of CI/CD Plugin Architectures?](https://blog.jetbrains.com/teamcity/2026/03/ci-cd-security-risks/) (2026-03-05)
-- [ReSharper for Visual Studio Code, Cursor, and Compatible Editors Is Out](https://blog.jetbrains.com/dotnet/2026/03/05/resharper-for-visual-studio-code-cursor-and-compatible-editors-is-out/) (2026-03-05)
 
 </details>
 
 <details>
 <summary>📝 Visual Studio Code</summary>
 
-- [Insiders (version 1.111)](https://code.visualstudio.com/updates/v1_111) (2026-04-02)
+- [March 2026 (version 1.111)](https://code.visualstudio.com/updates/v1_111) (2026-03-09)
 - [Making agents practical for real-world development](https://code.visualstudio.com/blogs/2026/03/05/making-agents-practical-for-real-world-development) (2026-03-05)
 - [February 2026 (version 1.110)](https://code.visualstudio.com/updates/v1_110) (2026-03-04)
 - [Building Long-Distance Next Edit Suggestions](https://code.visualstudio.com/blogs/2026/02/26/long-distance-nes) (2026-02-26)
@@ -557,55 +557,55 @@ https://www.twilio.com/en-us/blog/events/visit-twilio-at-mwc-2026
 <details>
 <summary>🤖 AI News</summary>
 
+- [AI insurance underwriting is past the pitch deck. Gradient AI just got the capital to prove it.](https://www.artificialintelligence-news.com/news/gradient-ai-cibc-ai-insurance-underwriting-growth-capital/) (2026-03-09)
+- [UK sovereign AI fund to build up domestic computing infrastructure](https://www.artificialintelligence-news.com/news/uk-sovereign-ai-fund-build-domestic-computing-infrastructure/) (2026-03-09)
+- [City Union Bank launches AI centre to support banking operations](https://www.artificialintelligence-news.com/news/city-union-bank-launches-ai-centre-to-support-banking-operations/) (2026-03-09)
 - [Scaling intelligent automation without breaking live workflows](https://www.artificialintelligence-news.com/news/scaling-intelligent-automation-without-breaking-live-workflows/) (2026-03-06)
 - [The firm that never forgets: Rowspace launches with $50M to make AI for private equity actually work](https://www.artificialintelligence-news.com/news/rowspace-50m-ai-private-equity-sequoia-emergence/) (2026-03-06)
-- [JPMorgan expands AI investment as tech spending nears $20B](https://www.artificialintelligence-news.com/news/jpmorgan-expands-ai-investment/) (2026-03-05)
-- [Beyond the pilot: Dyna.Ai raises eight-figure Series A to put agentic AI in financial services to work](https://www.artificialintelligence-news.com/news/dyna-ai-series-a-agentic-ai-financial-services/) (2026-03-05)
-- [Physical AI is having its moment–and everyone wants a piece of it](https://www.artificialintelligence-news.com/news/physical-ai-global-race-robots-manufacturing-2026/) (2026-03-04)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
-- [Write C Code Without Learning C: The Magic of PythoC](https://towardsdatascience.com/write-c-code-without-learning-c-the-magic-of-pythoc/) (2026-03-08)
+- [Machine Learning at Scale: Managing More Than One Model in Production](https://towardsdatascience.com/machine-learning-at-scale-managing-more-than-one-model-in-production/) (2026-03-09)
+- [Write C Code Without Writing C: The Magic of PythoC](https://towardsdatascience.com/write-c-code-without-learning-c-the-magic-of-pythoc/) (2026-03-08)
 - [LatentVLA: Latent Reasoning Models for Autonomous Driving](https://towardsdatascience.com/latentvla-latent-reasoning-models-for-autonomous-driving/) (2026-03-08)
 - [Understanding Context and Contextual Retrieval in RAG](https://towardsdatascience.com/understanding-context-and-contextual-retrieval-in-rag/) (2026-03-07)
 - [The AI Bubble Has a Data Science Escape Hatch](https://towardsdatascience.com/the-ai-bubble-has-a-data-science-escape-hatch/) (2026-03-07)
-- [What Makes Quantum Machine Learning “Quantum”?](https://towardsdatascience.com/what-makes-quantum-machine-learning-quantum/) (2026-03-06)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Top 7 Free Anthropic AI Academy Courses with Certificates](https://www.analyticsvidhya.com/blog/2026/03/free-anthropic-ai-courses-with-certificates/) (2026-03-09)
+- [Nanochat Can Now Train a GPT-2 Level Model in Just 2 Hours](https://www.analyticsvidhya.com/blog/2026/03/nanochat-gpt-2-training/) (2026-03-09)
 - [Pyright Guide: Installation, Configuration, and Use Cases](https://www.analyticsvidhya.com/blog/2026/03/pyright-guide/) (2026-03-08)
 - [Sarvam Edge: A Beginner’s Guide to On-Device AI for India](https://www.analyticsvidhya.com/blog/2026/03/sarvam-edge/) (2026-03-07)
 - [We Tried The New GPT-5.4 And it is The Most Powerful ChatGPT Has Ever Been](https://www.analyticsvidhya.com/blog/2026/03/we-tried-gpt-5-4-ai/) (2026-03-06)
-- [New Update Makes GPT-5.3 Instant More Useful For Everyday Tasks](https://www.analyticsvidhya.com/blog/2026/03/gpt-5-3-instant-update/) (2026-03-06)
-- [NotebookLM Gets a Game-changing Feature: Check Out Cinematic Video Overviews](https://www.analyticsvidhya.com/blog/2026/03/notebooklm-cinematic-video-overviews/) (2026-03-06)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [7 Ways People Are Making Money Using AI in 2026](https://www.kdnuggets.com/7-ways-people-are-making-money-using-ai-in-2026) (2026-03-09)
 - [5 Powerful Python Decorators to Optimize LLM Applications](https://www.kdnuggets.com/5-powerful-python-decorators-to-optimize-llm-applications) (2026-03-06)
 - [Pandas vs. Polars: A Complete Comparison of Syntax, Speed, and Memory](https://www.kdnuggets.com/pandas-vs-polars-a-complete-comparison-of-syntax-speed-and-memory) (2026-03-05)
 - [10 GitHub Repositories to Master System Design](https://www.kdnuggets.com/10-github-repositories-to-master-system-design) (2026-03-05)
 - [A Guide to Kedro: Your Production-Ready Data Science Toolbox](https://www.kdnuggets.com/a-guide-to-kedro-your-production-ready-data-science-toolbox) (2026-03-04)
-- [5 Useful Python Scripts to Automate Exploratory Data Analysis](https://www.kdnuggets.com/5-useful-python-scripts-to-automate-exploratory-data-analysis) (2026-03-04)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [The 6 Best AI Agent Memory Frameworks You Should Try in 2026](https://machinelearningmastery.com/the-6-best-ai-agent-memory-frameworks-you-should-try-in-2026/) (2026-03-09)
 - [Vector Databases vs. Graph RAG for Agent Memory: When to Use Which](https://machinelearningmastery.com/vector-databases-vs-graph-rag-for-agent-memory-when-to-use-which/) (2026-03-05)
 - [5 Essential Security Patterns for Robust Agentic AI](https://machinelearningmastery.com/5-essential-security-patterns-for-robust-agentic-ai/) (2026-03-04)
 - [Deploying AI Agents to Production: Architecture, Infrastructure, and Implementation Roadmap](https://machinelearningmastery.com/deploying-ai-agents-to-production-architecture-infrastructure-and-implementation-roadmap/) (2026-03-03)
 - [Build Semantic Search with LLM Embeddings](https://machinelearningmastery.com/build-semantic-search-with-llm-embeddings/) (2026-03-02)
-- [Can LLM Embeddings Improve Time Series Forecasting? A Practical Feature Engineering Approach](https://machinelearningmastery.com/can-llm-embeddings-improve-time-series-forecasting-a-practical-feature-engineering-approach/) (2026-02-27)
 
 </details>
 
