@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Apple now makes one in four iPhones in India: report](https://techcrunch.com/2026/03/09/apple-now-makes-one-in-four-iphones-in-india-report/) (2026-03-10)
+- [Yann LeCun’s AMI Labs raises $1.03 billion to build world models](https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/) (2026-03-10)
+- [An iPhone-hacking toolkit used by Russian spies likely came from U.S military contractor](https://techcrunch.com/2026/03/09/an-iphone-hacking-toolkit-used-by-russian-spies-likely-came-from-u-s-military-contractor/) (2026-03-10)
 - [Electric air taxi maker Archer hits back at Joby in countersuit alleging concealed Chinese ties](https://techcrunch.com/2026/03/09/electric-air-taxi-maker-archer-hits-back-at-joby-in-countersuit-alleging-concealed-chinese-ties/) (2026-03-10)
-- [Founders Fund nears $6 billion close for latest growth fund, sources say](https://techcrunch.com/2026/03/09/founders-fund-nears-6-billion-close-for-latest-growth-fund-sources-say/) (2026-03-10)
-- [Electric air taxis are about to take flight in 26 states ](https://techcrunch.com/2026/03/09/electric-air-taxis-are-about-to-take-flight-in-26-states/) (2026-03-09)
-- [OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit](https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/) (2026-03-09)
-- [Anthropic launches code review tool to check flood of AI-generated code](https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/) (2026-03-09)
+- [Founders Fund nears $6B close for latest growth fund, sources say](https://techcrunch.com/2026/03/09/founders-fund-nears-6-billion-close-for-latest-growth-fund-sources-say/) (2026-03-10)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [It looks like the “JVG algorithm” only wins on tiny numbers](https://scottaaronson.blog/?p=9615) (2026-03-10)
-- [Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor](https://www.rahuljuliato.com/posts/emacs-solo-two-years) (2026-03-10)
-- [So you want to write an “app” (2025)](https://arcanenibble.github.io/so-you-want-to-write-an-app.html) (2026-03-09)
-- [Oracle is building yesterday's data centers with tomorrow's debt](https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html) (2026-03-09)
-- [The first airplane fatality](https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html) (2026-03-09)
+- [Claude Code, Claude Cowork and Codex #5](https://thezvi.wordpress.com/2026/03/09/claude-code-claude-cowork-and-codex-5/) (2026-03-10)
+- [Amazon holds engineering meeting following AI-related outages](https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de) (2026-03-10)
+- [Show HN: I Was Here – Draw on street view, others can find your drawings](https://washere.live) (2026-03-10)
+- [Windows: Microsoft broke the only thing that mattered](https://www.yankodesign.com/2026/03/08/microsoft-broke-the-only-thing-that-actually-mattered/) (2026-03-10)
+- [Learnings from paying artists royalties for AI-generated art](https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/) (2026-03-10)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Is Learning to Code Still Worth It in the Age of AI?](https://dev.to/ali_aldahmani/is-learning-to-code-still-worth-it-in-the-age-of-ai-45o1) (2026-03-10)
-- [AI Coding: Why You Need to Record Your Complete Conversation History](https://dev.to/gonewx/aibian-cheng-wei-shi-yao-ni-xu-yao-ji-lu-wan-zheng-de-dui-hua-li-shi-25ic) (2026-03-10)
-- [FAQ: Synthetic Identity Fraud Detection and Prevention](https://dev.to/tiamatenity/faq-synthetic-identity-fraud-detection-and-prevention-5h30) (2026-03-10)
-- [I Tracked 3,200 Manus AI Tasks for 94 Days — 72.4% of Credit Waste Comes from Just 3 Patterns](https://dev.to/rafsilva85/i-analyzed-10000-manus-ai-tasks-and-found-73-of-credit-waste-comes-from-just-3-patterns-iip) (2026-03-10)
-- [I Built a Place Where AI Agents Share What They Learn](https://dev.to/fcavalcantirj/i-built-a-place-where-ai-agents-share-what-they-learn-2hbc) (2026-03-10)
+- [Debugging Invisible Elements: transform-origin + scaleX(-1)](https://dev.to/beep_beep_cat/debugging-invisible-elements-transform-origin-scalex-1-4f1f) (2026-03-10)
+- [Comparing Wallet Top-Up Fees Across Global Fintech Platforms](https://dev.to/vzr0/comparing-wallet-top-up-fees-across-global-fintech-platforms-2gh4) (2026-03-10)
+- [I’m in! 🥳🤙🏼 contratz to all!](https://dev.to/dnszlsk/im-in-contratz-to-all-1757) (2026-03-10)
+- [The New AI Stack Every Developer Should Understand](https://dev.to/jaideepparashar/the-new-ai-stack-every-developer-should-understand-3ejl) (2026-03-10)
+- [Beyond fmt: Building a Flexible Text Builder in Go with Wissance/stringFormatter](https://dev.to/evillord666/beyond-fmt-building-a-flexible-text-builder-in-go-with-wissancestringformatter-2ec3) (2026-03-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [From Calculators to AI: How Developers Should Prepare for the Future](https://medium.com/@aruashok17/from-calculators-to-ai-how-developers-should-prepare-for-the-future-0202d99d7362?source=rss------programming-5) (2026-03-10)
-- [Title: How to Hire an AI-Powered Mobile App Developer in the USA (2026 Guide)](https://medium.com/@shortxyz47/title-how-to-hire-an-ai-powered-mobile-app-developer-in-the-usa-2026-guide-e790b535c937?source=rss------programming-5) (2026-03-10)
-- [He Built an App That Went Viral — Then Watched It Die in 6 Hours](https://akintola-stephen24.medium.com/he-built-an-app-that-went-viral-then-watched-it-die-in-6-hours-e815c507042a?source=rss------programming-5) (2026-03-10)
-- [3. Dining Philosophers Problem](https://medium.com/@ankitsharma61016/3-dining-philosophers-problem-ae2b70868867?source=rss------programming-5) (2026-03-10)
-- [A developer story that will make you never skip learning Git again](https://akintola-stephen24.medium.com/the-day-tunde-almost-lost-his-job-and-what-git-has-to-do-with-it-b4ed62d33bcf?source=rss------programming-5) (2026-03-10)
+- [I Built a Terminal Email Client That Actually Renders HTML](https://medium.com/@nuyxwksnj/i-built-a-terminal-email-client-that-actually-renders-html-383f765cff8d?source=rss------programming-5) (2026-03-10)
+- [10 Best Programming Assignment Help Sites for CS Students (2026 Updated)](https://medium.com/@Alexcole3/10-best-programming-assignment-help-sites-for-cs-students-2026-updated-245f2db6b15b?source=rss------programming-5) (2026-03-10)
+- [BSNL IoT: Intelligent Connections for a Digital India](https://medium.com/@narendra007singhshekhawat/bsnl-iot-intelligent-connections-for-a-digital-india-e1d242d2116e?source=rss------programming-5) (2026-03-10)
+- [API Rate Limiting: Four Algorithms Compared and Implemented](https://medium.com/@niteshthakur498/api-rate-limiting-four-algorithms-compared-and-implemented-6e30fbc6e060?source=rss------programming-5) (2026-03-10)
+- [React Context API Explained: A Beginner-Friendly Guide to Global State in React](https://medium.com/dev-simplified/react-context-api-explained-a-beginner-friendly-guide-to-global-state-in-react-46c36521e1f2?source=rss------programming-5) (2026-03-10)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Introducing GPT-5.4 in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785) (2026-03-05)
 - [Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure](https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/) (2026-03-04)
 - [Unlocking document understanding with Mistral Document AI in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664) (2026-03-03)
 - [Instant access incremental snapshots: Restore without waiting](https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/) (2026-03-02)
 - [Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected](http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog) (2026-02-24)
+- [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/events/visit-twilio-at-mwc-2026
 <details>
 <summary>💬 Slack API</summary>
 
+- [AI-Powered Bots: Guide to Chatbots, Tools, and Best Practices](https://slack.com/blog/productivity/ai-powered-bots-guide-to-chatbots-tools-and-best-practices) (2026-03-06)
+- [Best Agentic AI Platforms for 2026: What They Are and How to Choose One](https://slack.com/blog/productivity/best-agentic-ai-platforms-for-2026-what-they-are-and-how-to-choose-one) (2026-03-06)
 - [3 New Ways Salesforce Meets You in Slack](https://slack.com/blog/news/conversational-intelligence-with-slack) (2026-03-05)
 - [Project Planning and Timelines Guide: Tools and Best Practices](https://slack.com/blog/productivity/project-planning-and-timelines-guide-tools-and-best-practices) (2026-03-02)
 - [Best Data Discovery Tools in 2026 for Product, Network, and IT Assets](https://slack.com/blog/productivity/best-discovery-tools) (2026-03-02)
-- [Slack Feature Drop: Better Connections for Every Kind of Work](https://slack.com/blog/news/feature-drop-feb26) (2026-03-01)
-- [Project Management Software Guide for 2026](https://slack.com/blog/collaboration/project-management-software) (2026-02-27)
 
 </details>
 
