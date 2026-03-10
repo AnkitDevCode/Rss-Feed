@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Periwinkle is making self-hosted social media on Bluesky’s AT Protocol even easier](https://techcrunch.com/2026/03/09/periwinkle-at-protocol-bluesky-self-hosted-social-media/) (2026-03-09)
-- [OpenAI acquires Promptfoo to secure its AI agents](https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/) (2026-03-09)
-- [GM figured out how to navigate EV uncertainty with the Chevy Bolt](https://techcrunch.com/2026/03/09/gm-figured-out-how-to-navigate-ev-uncertainty-with-the-chevy-bolt/) (2026-03-09)
-- [Anthropic sues Defense Department over supply chain risk designation](https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/) (2026-03-09)
-- [Slate Auto changes CEO months ahead of affordable EV launch](https://techcrunch.com/2026/03/09/slate-auto-changes-ceo-months-ahead-of-affordable-ev-launch/) (2026-03-09)
+- [Electric air taxi maker Archer hits back at Joby in countersuit alleging concealed Chinese ties](https://techcrunch.com/2026/03/09/electric-air-taxi-maker-archer-hits-back-at-joby-in-countersuit-alleging-concealed-chinese-ties/) (2026-03-10)
+- [Founders Fund nears $6 billion close for latest growth fund, sources say](https://techcrunch.com/2026/03/09/founders-fund-nears-6-billion-close-for-latest-growth-fund-sources-say/) (2026-03-10)
+- [Electric air taxis are about to take flight in 26 states ](https://techcrunch.com/2026/03/09/electric-air-taxis-are-about-to-take-flight-in-26-states/) (2026-03-09)
+- [OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit](https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/) (2026-03-09)
+- [Anthropic launches code review tool to check flood of AI-generated code](https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/) (2026-03-09)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Oil Is Near a Price That Hurts the Economy](https://www.wsj.com/business/energy-oil/oil-is-already-near-a-price-that-hurts-the-economy-3cebcfdc) (2026-03-09)
-- [Uber is letting women avoid male drivers and riders in the US](https://www.dexerto.com/entertainment/uber-is-letting-women-avoid-male-drivers-and-riders-in-the-us-3229899/) (2026-03-09)
-- [Show HN: The Mog Programming Language](https://moglang.org) (2026-03-09)
-- [CIA faces furious backlash after hidden document with potential cure for cancer](https://www.dailymail.co.uk/sciencetech/article-15629211/cia-cancer-cure-document-declassified.html) (2026-03-09)
-- [Fixfest is a global gathering of repairers, tinkerers, and activists](https://fixfest.therestartproject.org/) (2026-03-09)
+- [It looks like the “JVG algorithm” only wins on tiny numbers](https://scottaaronson.blog/?p=9615) (2026-03-10)
+- [Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor](https://www.rahuljuliato.com/posts/emacs-solo-two-years) (2026-03-10)
+- [So you want to write an “app” (2025)](https://arcanenibble.github.io/so-you-want-to-write-an-app.html) (2026-03-09)
+- [Oracle is building yesterday's data centers with tomorrow's debt](https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html) (2026-03-09)
+- [The first airplane fatality](https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html) (2026-03-09)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Google’s latest Pixel Watches have fallen to their lowest prices ever](https://www.theverge.com/gadgets/891339/google-pixel-watch-3-4-sony-wh-1000xm5-headphones-deal-sale) (2026-03-09)
-- [Anthropic is suing the Department of Defense](https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit) (2026-03-09)
-- [Battlefield 6 teams hit with layoffs despite ‘biggest launch in franchise history’](https://www.theverge.com/entertainment/891378/battlefield-6-layoffs-ea) (2026-03-09)
-- [Live Nation settles government antitrust suit — that probably doesn’t include a breakup](https://www.theverge.com/policy/891379/live-nation-antitrust-settlement-ticketmaster) (2026-03-09)
-- [Donut Lab says latest test proves its solid-state battery isn’t a supercapacitor](https://www.theverge.com/transportation/891310/donut-lab-solid-state-battery-supercapacitor-test-result) (2026-03-09)
+- [Apple smart home display rumors now point to a fall launch with iOS 27](https://www.theverge.com/ai-artificial-intelligence/891723/apple-homepad-delay-rumor) (2026-03-09)
+- [The government shutdown is hitting airports — but not ICE](https://www.theverge.com/policy/891686/dhs-government-shutdown-ice-cbp-tsa-airports) (2026-03-09)
+- [Everything from the last week of everything is gambling now](https://www.theverge.com/tech/891676/kalshi-iran-prediction-markets) (2026-03-09)
+- [Employees across OpenAI and Google support Anthropic’s lawsuit against the Pentagon](https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google) (2026-03-09)
+- [Bluesky CEO Jay Graber will step aside](https://www.theverge.com/tech/891562/bluesky-new-ceo) (2026-03-09)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Don't worry, Valve still plans to launch the Steam Machine "this year"](https://arstechnica.com/gaming/2026/03/dont-worry-valve-still-plans-to-launch-the-steam-machine-this-year/) (2026-03-09)
-- [2026 Australian Grand Prix: Formula 1 debuts a new style of racing](https://arstechnica.com/cars/2026/03/2026-australian-grand-prix-formula-1-debuts-a-new-style-of-racing/) (2026-03-09)
-- [Chevrolet killed it then brought it back, now we drive it: The 2027 Bolt](https://arstechnica.com/cars/2026/03/new-battery-new-motor-but-the-2027-chevrolet-bolt-keeps-its-charm/) (2026-03-09)
-- [“It doesn't feel safe”—Many international game developers plan to skip GDC in US](https://arstechnica.com/gaming/2026/03/it-doesnt-feel-safe-many-international-game-developers-plan-to-skip-gdc-in-us/) (2026-03-09)
-- [Jessica Jones joins the fray in Daredevil: Born Again trailer](https://arstechnica.com/culture/2026/03/jessica-jones-joins-the-fray-in-daredevil-born-again-trailer/) (2026-03-08)
+- [After falling far behind the rest of industry, Blue Origin creates new stock option plan](https://arstechnica.com/space/2026/03/after-years-of-missteps-blue-origin-to-finally-offer-meaningful-stock-options/) (2026-03-09)
+- [Quad Cortex mini amp modeler: All the power, half the size](https://arstechnica.com/reviews/2026/03/quad-cortex-mini-insane-amp-modeling-power-for-the-discerning-guitarist/) (2026-03-09)
+- [Testing Apple's 2026 16-inch MacBook Pro, M5 Max, and its new "performance" cores](https://arstechnica.com/gadgets/2026/03/testing-apples-2026-16-inch-macbook-pro-m5-max-and-its-new-performance-cores/) (2026-03-09)
+- [US blindsides states with surprise settlement in Live Nation/Ticketmaster trial](https://arstechnica.com/tech-policy/2026/03/us-blindsides-states-with-surprise-settlement-in-live-nation-ticketmaster-trial/) (2026-03-09)
+- [An unlikely set of clues helps reconstruct ancient Chinese disasters](https://arstechnica.com/science/2026/03/an-unlikely-set-of-clues-helps-reconstruct-ancient-chinese-disasters/) (2026-03-09)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Creating Azure Resources via Azure CLI](https://dev.to/rahimah_dev/creating-azure-resources-via-azure-cli-3435) (2026-03-09)
-- [My Tech Learning Journey as an Intern](https://dev.to/devi1701/my-tech-learning-journey-as-an-intern-32bb) (2026-03-09)
-- [Python selenium architecture](https://dev.to/s_sundharam_ab27cf9523823/python-selenium-architecture-3el1) (2026-03-09)
-- [Taming the Multi-Cloud Identity Beast: Why Unified SSO is Essential and How MechCloud Simplifies It](https://dev.to/mechcloud/taming-the-multi-cloud-identity-beast-why-unified-sso-is-essential-and-how-mechcloud-simplifies-it-499l) (2026-03-09)
-- [Congrats to the GitHub Copilot CLI Challenge Winners!](https://dev.to/devteam/congrats-to-the-github-copilot-cli-challenge-winners-2240) (2026-03-09)
+- [Is Learning to Code Still Worth It in the Age of AI?](https://dev.to/ali_aldahmani/is-learning-to-code-still-worth-it-in-the-age-of-ai-45o1) (2026-03-10)
+- [AI Coding: Why You Need to Record Your Complete Conversation History](https://dev.to/gonewx/aibian-cheng-wei-shi-yao-ni-xu-yao-ji-lu-wan-zheng-de-dui-hua-li-shi-25ic) (2026-03-10)
+- [FAQ: Synthetic Identity Fraud Detection and Prevention](https://dev.to/tiamatenity/faq-synthetic-identity-fraud-detection-and-prevention-5h30) (2026-03-10)
+- [I Tracked 3,200 Manus AI Tasks for 94 Days — 72.4% of Credit Waste Comes from Just 3 Patterns](https://dev.to/rafsilva85/i-analyzed-10000-manus-ai-tasks-and-found-73-of-credit-waste-comes-from-just-3-patterns-iip) (2026-03-10)
+- [I Built a Place Where AI Agents Share What They Learn](https://dev.to/fcavalcantirj/i-built-a-place-where-ai-agents-share-what-they-learn-2hbc) (2026-03-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [A realidade só condiz com a incerteza da influência do seu eu de si em mim, na mesma intensidade…](https://medium.com/@davirjti/a-realidade-s%C3%B3-condiz-com-a-incerteza-da-influ%C3%AAncia-do-seu-eu-de-si-em-mim-na-mesma-intensidade-15b3b7a7a462?source=rss------programming-5) (2026-03-09)
-- [I Deleted My Android layout Folder in 2026 — And I’m Not Going Back](https://medium.com/@m.aakash.898/i-deleted-my-android-layout-folder-in-2026-and-im-not-going-back-466d15b0bea1?source=rss------programming-5) (2026-03-09)
-- [Temp Tables and Session Mode | BigQuery Cost Reduction | Tier List Series | A Tier](https://medium.com/codex/temp-tables-and-session-mode-bigquery-cost-reduction-tier-list-series-a-tier-d4041be38fd8?source=rss------programming-5) (2026-03-09)
-- [Why Constraints Often Reveal the Right Solution](https://medium.com/@codewithishwar/why-constraints-often-reveal-the-right-solution-7fa62d701067?source=rss------programming-5) (2026-03-09)
-- [GPT 5.4: From Chatbot To Actual Engineering Tool](https://medium.com/@sebuzdugan/gpt-5-4-from-chatbot-to-actual-engineering-tool-591eaa8e8770?source=rss------programming-5) (2026-03-09)
+- [From Calculators to AI: How Developers Should Prepare for the Future](https://medium.com/@aruashok17/from-calculators-to-ai-how-developers-should-prepare-for-the-future-0202d99d7362?source=rss------programming-5) (2026-03-10)
+- [Title: How to Hire an AI-Powered Mobile App Developer in the USA (2026 Guide)](https://medium.com/@shortxyz47/title-how-to-hire-an-ai-powered-mobile-app-developer-in-the-usa-2026-guide-e790b535c937?source=rss------programming-5) (2026-03-10)
+- [He Built an App That Went Viral — Then Watched It Die in 6 Hours](https://akintola-stephen24.medium.com/he-built-an-app-that-went-viral-then-watched-it-die-in-6-hours-e815c507042a?source=rss------programming-5) (2026-03-10)
+- [3. Dining Philosophers Problem](https://medium.com/@ankitsharma61016/3-dining-philosophers-problem-ae2b70868867?source=rss------programming-5) (2026-03-10)
+- [A developer story that will make you never skip learning Git again](https://akintola-stephen24.medium.com/the-day-tunde-almost-lost-his-job-and-what-git-has-to-do-with-it-b4ed62d33bcf?source=rss------programming-5) (2026-03-10)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry](https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/) (2026-03-06)
 - [Introducing GPT-5.4 in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785) (2026-03-05)
 - [Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure](https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/) (2026-03-04)
 - [Unlocking document understanding with Mistral Document AI in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664) (2026-03-03)
 - [Instant access incremental snapshots: Restore without waiting](https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/) (2026-03-02)
+- [Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected](http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog) (2026-02-24)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Announcing the AI Gateway Working Group](https://kubernetes.io/blog/2026/03/09/announcing-ai-gateway-wg/) (2026-03-09)
 - [Before You Migrate: Five Surprising Ingress-NGINX Behaviors You Need to Know](https://kubernetes.io/blog/2026/02/27/ingress-nginx-before-you-migrate/) (2026-02-27)
 - [Spotlight on SIG Architecture: API Governance](https://kubernetes.io/blog/2026/02/12/sig-architecture-api-spotlight/) (2026-02-12)
 - [Introducing Node Readiness Controller](https://kubernetes.io/blog/2026/02/03/introducing-node-readiness-controller/) (2026-02-03)
 - [New Conversion from cgroup v1 CPU Shares to v2 CPU Weight](https://kubernetes.io/blog/2026/01/30/new-cgroup-v1-to-v2-cpu-conversion-formula/) (2026-01-30)
-- [Ingress NGINX: Statement from the Kubernetes Steering and Security Response Committees](https://kubernetes.io/blog/2026/01/29/ingress-nginx-statement/) (2026-01-29)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/events/visit-twilio-at-mwc-2026
 <details>
 <summary>💬 Slack API</summary>
 
+- [3 New Ways Salesforce Meets You in Slack](https://slack.com/blog/news/conversational-intelligence-with-slack) (2026-03-05)
 - [Project Planning and Timelines Guide: Tools and Best Practices](https://slack.com/blog/productivity/project-planning-and-timelines-guide-tools-and-best-practices) (2026-03-02)
 - [Best Data Discovery Tools in 2026 for Product, Network, and IT Assets](https://slack.com/blog/productivity/best-discovery-tools) (2026-03-02)
 - [Slack Feature Drop: Better Connections for Every Kind of Work](https://slack.com/blog/news/feature-drop-feb26) (2026-03-01)
 - [Project Management Software Guide for 2026](https://slack.com/blog/collaboration/project-management-software) (2026-02-27)
-- [The Best Slackbot Prompts for Customer Service Teams](https://slack.com/blog/productivity/slackbot-for-customer-service) (2026-02-26)
 
 </details>
 
@@ -535,11 +535,11 @@ https://www.twilio.com/en-us/blog/events/visit-twilio-at-mwc-2026
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [PyTorch at NVIDIA GTC 2026: Join Us in San Jose!](https://pytorch.org/blog/pytorch-at-nvidia-gtc-2026/) (2026-03-09)
 - [KernelAgent: Hardware-Guided GPU Kernel Optimization via Multi-Agent Orchestration](https://pytorch.org/blog/kernelagent-hardware-guided-gpu-kernel-optimization-via-multi-agent-orchestration/) (2026-03-06)
 - [FlexAttention + FlashAttention-4: Fast and Flexible](https://pytorch.org/blog/flexattention-flashattention-4-fast-and-flexible/) (2026-03-05)
 - [Deploying PyTorch Models to the Micro-Edge with ExecuTorch and Arm](https://pytorch.org/blog/deploying-pytorch-models-to-the-micro-edge-with-executorch-and-arm/) (2026-03-05)
 - [Quantization-Aware Training in TorchAO (II)](https://pytorch.org/blog/quantization-aware-training-in-torchao-ii/) (2026-03-04)
-- [Enhancing Multimodal Training and Memory Efficiency with DeepSpeed](https://pytorch.org/blog/enhancing-multimodal-training-and-memory-efficiency-with-deepspeed/) (2026-02-25)
 
 </details>
 
@@ -547,10 +547,10 @@ https://www.twilio.com/en-us/blog/events/visit-twilio-at-mwc-2026
 <summary>🤗 Hugging Face</summary>
 
 - [Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge](https://huggingface.co/blog/ibm-granite/granite-4-speech) (2026-03-09)
+- [Ulysses Sequence Parallelism: Training with Million-Token Contexts](https://huggingface.co/blog/ulysses-sp) (2026-03-09)
 - [LeRobot v0.5.0: Scaling Every Dimension](https://huggingface.co/blog/lerobot-release-v050) (2026-03-09)
 - [Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations](https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms) (2026-03-05)
 - [Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines](https://huggingface.co/blog/modular-diffusers) (2026-03-05)
-- [PRX Part 3 — Training a Text-to-Image Model in 24h!](https://huggingface.co/blog/Photoroom/prx-part3) (2026-03-03)
 
 </details>
 
@@ -568,11 +568,11 @@ https://www.twilio.com/en-us/blog/events/visit-twilio-at-mwc-2026
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Three OpenClaw Mistakes to Avoid and How to Fix Them](https://towardsdatascience.com/three-openclaw-mistakes-to-avoid-and-how-to-fix-them/) (2026-03-09)
+- [I Stole a Wall Street Trick to Solve a Google Trends Data Problem](https://towardsdatascience.com/i-stole-a-wall-street-trick-to-solve-a-google-trends-data-problem-2/) (2026-03-09)
 - [Why Your AI Search Evaluation Is Probably Wrong (And How to Fix It)](https://towardsdatascience.com/why-your-ai-search-evaluation-is-probably-wrong-and-how-to-fix-it/) (2026-03-09)
 - [Machine Learning at Scale: Managing More Than One Model in Production](https://towardsdatascience.com/machine-learning-at-scale-managing-more-than-one-model-in-production/) (2026-03-09)
 - [Write C Code Without Writing C: The Magic of PythoC](https://towardsdatascience.com/write-c-code-without-learning-c-the-magic-of-pythoc/) (2026-03-08)
-- [LatentVLA: Latent Reasoning Models for Autonomous Driving](https://towardsdatascience.com/latentvla-latent-reasoning-models-for-autonomous-driving/) (2026-03-08)
-- [Understanding Context and Contextual Retrieval in RAG](https://towardsdatascience.com/understanding-context-and-contextual-retrieval-in-rag/) (2026-03-07)
 
 </details>
 
