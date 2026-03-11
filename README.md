@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Google brings Gemini in Chrome to India](https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/) (2026-03-11)
 - [In a vote of confidence for Meta’s Threads, Kalshi adds sharing feature](https://techcrunch.com/2026/03/10/in-a-vote-of-confidence-for-metas-threads-kalshi-adds-sharing-feature/) (2026-03-10)
 - [Google and Tesla think we’re managing the electrical grid all wrong](https://techcrunch.com/2026/03/10/google-and-tesla-think-were-managing-the-electrical-grid-all-wrong/) (2026-03-10)
 - [Amazon launches its healthcare AI assistant on its website and app](https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/) (2026-03-10)
 - [DOGE employee stole Social Security data and put it on a thumb drive, report says](https://techcrunch.com/2026/03/10/doge-employee-stole-social-security-data-and-put-it-on-a-thumb-drive-report-says/) (2026-03-10)
-- [‘Pokémon Pokopia’ is a game about rehabilitating a broken world — and I love it](https://techcrunch.com/2026/03/10/pokemon-pokopia-review-animal-crossing-ditto-nintendo-switch/) (2026-03-10)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Create value for others and don’t worry about the returns](https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html) (2026-03-11)
+- [Standardizing source maps](https://bloomberg.github.io/js-blog/post/standardizing-source-maps/) (2026-03-11)
+- [Writing my own text editor, and daily-driving it](https://blog.jsbarretto.com/post/text-editor) (2026-03-11)
+- [Zig – Type Resolution Redesign and Language Changes](https://ziglang.org/devlog/2026/#2026-03-10) (2026-03-11)
 - [Universal vaccine against respiratory infections and allergens](https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html) (2026-03-10)
-- [U+237C ⍼ Is Azimuth](https://ionathan.ch/2026/02/16/angzarr.html) (2026-03-10)
-- [Cloudflare Crawl Endpoint](https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/) (2026-03-10)
-- [RISC-V Is Sloooow](https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/) (2026-03-10)
-- [Tell HN: Apple development certificate server seems down?](https://news.ycombinator.com/item?id=47328034) (2026-03-10)
 
 </details>
 
@@ -53,7 +53,7 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Reentry of NASA satellite will exceed the agency's risk guidelines](https://arstechnica.com/space/2026/03/nasa-approved-a-safety-waiver-for-this-weeks-reentry-of-van-allen-probe/) (2026-03-10)
+- [Reentry of NASA satellite will exceed the agency's own risk guidelines](https://arstechnica.com/space/2026/03/nasa-approved-a-safety-waiver-for-this-weeks-reentry-of-van-allen-probe/) (2026-03-10)
 - [FDA contradicts Trump admin, declines to approve generic drug for autism](https://arstechnica.com/health/2026/03/fda-contradicts-trump-admin-declines-to-approve-generic-drug-for-autism/) (2026-03-10)
 - [AI can rewrite open source code—but can it rewrite the license, too?](https://arstechnica.com/ai/2026/03/ai-can-rewrite-open-source-code-but-can-it-rewrite-the-license-too/) (2026-03-10)
 - [Meta acquires Moltbook, the AI agent social network](https://arstechnica.com/ai/2026/03/meta-acquires-moltbook-the-ai-agent-social-network/) (2026-03-10)
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Secret Life of Claude Code: The Art of the Follow-Up](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-claude-code-the-art-of-the-follow-up-27no) (2026-03-11)
-- [I Built multi-ai-cli to Kill Browser Tab Hell: True Multi-LLM Orchestration + Blackboard Memory in Your Terminal (v0.13.0)](https://dev.to/albatrosary/i-built-multi-ai-cli-to-kill-browser-tab-hell-true-multi-llm-orchestration-blackboard-memory-in-3mc6) (2026-03-11)
-- [AI Apps Generate 41% More Revenue Per User But Lose 79% of Annual Subscribers Before Month 13](https://dev.to/zaraai_0b75675ddc9204c716/ai-apps-generate-41-more-revenue-per-user-but-lose-79-of-annual-subscribers-before-month-13-485a) (2026-03-11)
-- [Drawing Over an Image With PencilKit](https://dev.to/bashanova/drawing-over-an-image-with-pencilkit-52g4) (2026-03-11)
-- [I built a Claude Code skill that assembles AI teams and runs them in parallel](https://dev.to/lakshmisravyavedantham/i-built-a-claude-code-skill-that-assembles-ai-teams-and-runs-them-in-parallel-50ab) (2026-03-11)
+- [J’ai créé un outil pour télécharger les vidéos Meta AI (MP4 HD)](https://dev.to/peter_dave_efcb42843c84c8/jai-cree-un-outil-pour-telecharger-les-videos-meta-ai-mp4-hd-4mdf) (2026-03-11)
+- [The CEO With One Viewer: What foobert10000 Taught Me About Early Traction](https://dev.to/0coceo/the-ceo-with-one-viewer-what-foobert10000-taught-me-about-early-traction-15dj) (2026-03-11)
+- [Building a Chat Module for PrestaShop: Hooks, Deferred Sending, and Combination Sync](https://dev.to/rosen_hristov/building-a-chat-module-for-prestashop-hooks-deferred-sending-and-combination-sync-12bl) (2026-03-11)
+- [Claude CodeでPRプレビュー環境を自動構築する：K8s Namespace・自動URLコメント・クリーンアップ](https://dev.to/myougatheaxo/claude-codedeprpurebiyuhuan-jing-wozi-dong-gou-zhu-suruk8s-namespacezi-dong-urlkomentokurinatupu-1mhd) (2026-03-11)
+- [Claude CodeでDBシーディング・テストフィクスチャを設計する：Factory・Faker・Prisma統合](https://dev.to/myougatheaxo/claude-codededbsideingutesutohuikusutiyawoshe-ji-surufactoryfakerprismatong-he-1o0h) (2026-03-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why Learning to Code Is One of the Most Valuable Skills of the Modern Era](https://medium.com/@rohitalntra/why-learning-to-code-is-one-of-the-most-valuable-skills-of-the-modern-era-71bec274f0ba?source=rss------programming-5) (2026-03-11)
-- [Some interviews test your communication.](https://medium.com/@ajit-gupta/some-interviews-test-your-communication-0caab583b707?source=rss------programming-5) (2026-03-11)
-- [Pair programming in the age of AI](https://medium.com/@scott.batson_76410/pair-programming-in-the-age-of-ai-867d4148a342?source=rss------programming-5) (2026-03-11)
-- [Thinking Like a Data Engineer: Bridging the Gap Between Code and Business Value](https://medium.com/@yzr.salih.yzr/thinking-like-a-data-engineer-bridging-the-gap-between-code-and-business-value-6f0aed04461d?source=rss------programming-5) (2026-03-11)
-- [The Python Mystery: Why the Entire Tech World Can’t Stop Talking About It](https://medium.com/@elizabethwilson009f/the-python-mystery-why-the-entire-tech-world-cant-stop-talking-about-it-31ca9a96998c?source=rss------programming-5) (2026-03-11)
+- [How I Started Learning Data Analytics From Zero (A Beginner’s Roadmap)](https://medium.com/@karthikbatgiri/how-i-started-learning-data-analytics-from-zero-a-beginners-roadmap-5e9c1c59ffdf?source=rss------programming-5) (2026-03-11)
+- [Why APIs Sometimes Say: 429 Too Many Requests](https://learnwithshrey.medium.com/why-apis-sometimes-say-429-too-many-requests-fb206e0a458d?source=rss------programming-5) (2026-03-11)
+- [The Complete React Developer Roadmap for 2026](https://medium.com/dev-simplified/the-complete-react-developer-roadmap-for-2026-aa3a23d02c84?source=rss------programming-5) (2026-03-11)
+- [“वेब विकास तंत्रसंच”](https://medium.com/@shweta.halkude25/%E0%A4%B5%E0%A5%87%E0%A4%AC-%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B8-%E0%A4%A4%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%B8%E0%A4%82%E0%A4%9A-719acefa3abe?source=rss------programming-5) (2026-03-11)
+- [Mengenal Streamlit Python : Arsitektur, Fitur, dan Contoh Aplikasinya Lengkap](https://medium.com/@infomediakuu/mengenal-streamlit-python-arsitektur-fitur-dan-contoh-aplikasinya-lengkap-9ed0ec7f45c4?source=rss------programming-5) (2026-03-11)
 
 </details>
 
@@ -362,6 +362,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Customer lifetime value: formula, calculation & examples
+](
+https://www.twilio.com/en-us/blog/insights/customer-lifetime-value-clv
+) (2026-03-10)
+- [
 How To Containerize A Twilio App With Docker
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/building-blocks/how-to-containerize-a-twilio-app-with-docker
@@ -377,15 +382,10 @@ How to Block Spam Calls with Twilio Voice in Node.js
 https://www.twilio.com/en-us/blog/developers/tutorials/product/block-spam-calls-twilio-voice-node-js
 ) (2026-03-06)
 - [
-Build a Twilio + Zoho CRM Voice Integration
+13 email marketing KPIs to watch closely in 2026
 ](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/build-twilio-zoho-crm-voice-integration
-) (2026-02-27)
-- [
-Data activation: what it is & how to do it
-](
-https://www.twilio.com/en-us/blog/insights/data/data-activation
-) (2026-02-23)
+https://www.twilio.com/en-us/blog/insights/13-email-marketing-kpis-to-watch-closely-in-2024
+) (2026-03-02)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/data/data-activation
 <details>
 <summary>💬 Slack API</summary>
 
-- [AI-Powered Bots: Guide to Chatbots, Tools, and Best Practices](https://slack.com/blog/productivity/ai-powered-bots-guide-to-chatbots-tools-and-best-practices) (2026-03-06)
-- [Best Agentic AI Platforms for 2026: What They Are and How to Choose One](https://slack.com/blog/productivity/best-agentic-ai-platforms-for-2026-what-they-are-and-how-to-choose-one) (2026-03-06)
 - [3 New Ways Salesforce Meets You in Slack](https://slack.com/blog/news/conversational-intelligence-with-slack) (2026-03-05)
 - [Project Planning and Timelines Guide: Tools and Best Practices](https://slack.com/blog/productivity/project-planning-and-timelines-guide-tools-and-best-practices) (2026-03-02)
 - [Best Data Discovery Tools in 2026 for Product, Network, and IT Assets](https://slack.com/blog/productivity/best-discovery-tools) (2026-03-02)
+- [Slack Feature Drop: Better Connections for Every Kind of Work](https://slack.com/blog/news/feature-drop-feb26) (2026-03-01)
+- [Project Management Software Guide for 2026](https://slack.com/blog/collaboration/project-management-software) (2026-02-27)
 
 </details>
 
