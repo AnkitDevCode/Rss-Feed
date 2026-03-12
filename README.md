@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Chinese brain interface startup Gestala raises $21M just two months after launch](https://techcrunch.com/2026/03/11/bci-startup-gestala-raises-21-million-for-non-invasive-ultrasound-brain-tech/) (2026-03-12)
 - [AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard](https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/) (2026-03-11)
 - [Nuro is testing its autonomous vehicle tech on Tokyo’s streets](https://techcrunch.com/2026/03/11/nuro-is-testing-its-autonomous-vehicle-tech-on-tokyos-streets/) (2026-03-11)
 - [Google Play is adding new paid and PC games, game trials, community posts, and more](https://techcrunch.com/2026/03/11/google-play-is-adding-new-paid-and-pc-games-game-trials-community-posts-and-more/) (2026-03-11)
 - [Ford’s new AI assistant will help fleet owners know if seatbelts are being used](https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/) (2026-03-11)
-- [Ride-hailing inDrive acquires Pakistan’s Krave Mart to bolster grocery delivery](https://techcrunch.com/2026/03/11/ride-hailing-indrive-acquires-pakistans-kravemart-to-bolster-grocery-delivery/) (2026-03-11)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [WireGuard Is Two Things](https://www.proxylity.com/articles/wireguard-is-two-things.html) (2026-03-12)
+- [Iran-backed hackers claim wiper attack on medtech firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/) (2026-03-12)
+- [DHS Contracts Explorer – Hacked data from the Office of Industry Partnership](https://micahflee.github.io/ice-contracts/) (2026-03-12)
+- [Urea prices](https://tradingeconomics.com/commodity/urea) (2026-03-12)
 - [Show HN: s@: decentralized social networking over static sites](http://satproto.org/) (2026-03-12)
-- [Show HN: Autoresearch@home](https://www.ensue-network.ai/autoresearch) (2026-03-11)
-- [Show HN: A context-aware permission guard for Claude Code](https://github.com/manuelschipper/nah/) (2026-03-11)
-- [Building Better Country Selects](https://talysto.com/blog/building-better-country-selects/) (2026-03-11)
-- [Atlassian to cut roughly 1,600 jobs in pivot to AI](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/) (2026-03-11)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Google Play Games for PC is getting more premium titles and cross-buy with Android](https://arstechnica.com/gaming/2026/03/google-play-games-for-pc-is-getting-more-premium-titles-and-cross-buy-with-android/) (2026-03-11)
 - [Report: RFK Jr.’s anti-vaccine agenda curbed as GOP realizes it's unpopular](https://arstechnica.com/health/2026/03/report-trump-admin-trying-to-rein-in-rfk-jr-s-unpopular-anti-vaccine-agenda/) (2026-03-11)
 - [FCC chair blasts Amazon after it criticizes SpaceX megaconstellation](https://arstechnica.com/space/2026/03/fcc-chair-blasts-amazon-after-it-criticizes-spacex-megaconstellation/) (2026-03-11)
 - [14,000 routers are infected by malware that's highly resistant to takedowns](https://arstechnica.com/security/2026/03/14000-routers-are-infected-by-malware-thats-highly-resistant-to-takedowns/) (2026-03-11)
 - [Explain it like I'm 5: Why is everyone on speakerphone in public?](https://arstechnica.com/culture/2026/03/explain-it-like-im-5-why-is-everyone-on-speakerphone-in-public/) (2026-03-11)
-- [Windows 11's Steam Deck-ish, streamlined Xbox gaming UI comes to all PCs in April](https://arstechnica.com/gadgets/2026/03/windows-11s-steam-deck-ish-streamlined-xbox-gaming-ui-comes-to-all-pcs-in-april/) (2026-03-11)
 
 </details>
 
@@ -75,11 +75,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [GitHub availability report: February 2026](https://github.blog/news-insights/company-news/github-availability-report-february-2026/) (2026-03-12)
 - [Addressing GitHub’s recent availability issues](https://github.blog/news-insights/company-news/addressing-githubs-recent-availability-issues-2/) (2026-03-11)
 - [The era of “AI as text” is over. Execution is the new interface.](https://github.blog/ai-and-ml/github-copilot/the-era-of-ai-as-text-is-over-execution-is-the-new-interface/) (2026-03-10)
 - [Under the hood: Security architecture of GitHub Agentic Workflows](https://github.blog/ai-and-ml/generative-ai/under-the-hood-security-architecture-of-github-agentic-workflows/) (2026-03-09)
 - [How to scan for vulnerabilities with GitHub Security Lab’s open source AI-powered framework](https://github.blog/security/how-to-scan-for-vulnerabilities-with-github-security-labs-open-source-ai-powered-framework/) (2026-03-06)
-- [60 million Copilot code reviews and counting](https://github.blog/ai-and-ml/github-copilot/60-million-copilot-code-reviews-and-counting/) (2026-03-05)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Agent Observability Gap: Why Logs Aren't Enough](https://dev.to/custodiaadmin/the-agent-observability-gap-why-logs-arent-enough-5431) (2026-03-12)
-- [What Happened When mastodon.social Suspended My AI Agent Account](https://dev.to/agent-andy/what-happened-when-mastodonsocial-suspended-my-ai-agent-account-595g) (2026-03-12)
-- [Build Your Own Longevity Researcher: RAG with Qdrant and 5,000+ PubMed Papers 🧬📚](https://dev.to/wellallytech/build-your-own-longevity-researcher-rag-with-qdrant-and-5000-pubmed-papers-5fjg) (2026-03-12)
-- [Claude Opus 4.6 Solved Donald Knuth's Graph Theory Problem in 1 Hour](https://dev.to/skilaai/claude-opus-46-solved-donald-knuths-graph-theory-problem-in-1-hour-jg9) (2026-03-12)
-- [How I Think About Reliability in LLM Applications](https://dev.to/jamie_gray_ai/how-i-think-about-reliability-in-llm-applications-2ocp) (2026-03-12)
+- [3 Critical Pitfalls in Signup Form Validation](https://dev.to/leo_he/3-critical-pitfalls-in-signup-form-validation-1en9) (2026-03-12)
+- [How I Built a 4D Application Platform in 28 Days with an AI Team](https://dev.to/artanidos/how-i-built-a-4d-application-platform-in-28-days-with-an-ai-team-jn) (2026-03-12)
+- [Why Production AI Agents Are Hard & How Amazon Bedrock AgentCore Makes Them Production Ready](https://dev.to/sreeni5018/why-production-ai-agents-are-hard-how-amazon-bedrock-agentcore-makes-them-production-ready-1fpn) (2026-03-12)
+- [When Tests Can't Reach Your Code, That may not be a Test Problem...](https://dev.to/lostshades/when-tests-cant-reach-your-code-that-may-not-be-a-test-problem-1039) (2026-03-12)
+- [Beyond OpenClaw: 5 Secure and Efficient Open-Source AI Agent Alternatives](https://dev.to/tomastomas/beyond-openclaw-5-secure-and-efficient-open-source-ai-agent-alternatives-3co9) (2026-03-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Your MCP Tools Are Eating Your Context](https://medium.com/@bob.bobster1910_8811/your-mcp-tools-are-eating-your-context-89dd53ae21c6?source=rss------programming-5) (2026-03-12)
-- [Unreal Teams Expose the Docs Pipeline Before Bad Agent Code Ships](https://medium.com/kairi-ai/unreal-teams-expose-the-docs-pipeline-before-bad-agent-code-ships-a9cab97d9133?source=rss------programming-5) (2026-03-12)
-- [AI Coding Assistants in VS Code: A New Source of Digital Forensic Artifacts](https://medium.com/@paritoshblogs/ai-coding-assistants-in-vs-code-a-new-source-of-digital-forensic-artifacts-97a59ceff747?source=rss------programming-5) (2026-03-12)
-- [Build a QR Code Generator Using Spring Boot](https://medium.com/@sunil17bbmp/build-a-qr-code-generator-using-spring-boot-70ceddee7a1e?source=rss------programming-5) (2026-03-12)
-- [How I Built a Custom AI Document Assistant That Understands 1000s of PDFs and Talks Like a Human](https://python.plainenglish.io/how-i-built-a-custom-ai-document-assistant-that-understands-1000s-of-pdfs-and-talks-like-a-human-e93a55cfffbf?source=rss------programming-5) (2026-03-12)
+- [Why Your AI Doesn’t Know What You Know — And How RAG Fixes That](https://medium.com/@iambharathpadhu/why-your-ai-doesnt-know-what-you-know-and-how-rag-fixes-that-283f860fcebf?source=rss------programming-5) (2026-03-12)
+- [I Accidentally Built a Python Script That Made Me Question How Developers Work](https://levelup.gitconnected.com/i-accidentally-built-a-python-script-that-made-me-question-how-developers-work-1acdd4740152?source=rss------programming-5) (2026-03-12)
+- [ARRAYS_DAY-4](https://amn24.medium.com/arrays-day-4-5292ae3451c7?source=rss------programming-5) (2026-03-12)
+- [Mastering JavaScript’s this: Why It Works in Classes but Confuses Developers in Factory Functions](https://medium.com/dev-simplified/mastering-javascripts-this-why-it-works-in-classes-but-confuses-developers-in-factory-functions-feec411512d4?source=rss------programming-5) (2026-03-12)
+- [How to Build Autoresearch Loops That Let AI Do Real Science](https://medium.com/@sebuzdugan/how-to-build-autoresearch-loops-that-let-ai-do-real-science-0516771d90c9?source=rss------programming-5) (2026-03-12)
 
 </details>
 
@@ -362,11 +362,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Community, AI in Action, and Twilio News: Reflections on Our Biggest User Group Yet
-](
-https://www.twilio.com/en-us/blog/events/twilio-segment-user-group-london-feb-2026
-) (2026-03-11)
-- [
 Customer lifetime value: formula, calculation & examples
 ](
 https://www.twilio.com/en-us/blog/insights/customer-lifetime-value-clv
@@ -386,6 +381,11 @@ How to Block Spam Calls with Twilio Voice in Node.js
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/block-spam-calls-twilio-voice-node-js
 ) (2026-03-06)
+- [
+13 email marketing KPIs to watch closely in 2026
+](
+https://www.twilio.com/en-us/blog/insights/13-email-marketing-kpis-to-watch-closely-in-2024
+) (2026-03-02)
 
 </details>
 
@@ -546,7 +546,7 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-spam-calls-
 <details>
 <summary>🤗 Hugging Face</summary>
 
-- [Code Concepts: A Large-Scale Synthetic Dataset Generated from Programming Concept Seeds](https://huggingface.co/blog/nvidia/synthetic-code-concepts) (2026-03-11)
+- [How NVIDIA AI-Q Reached \#1 on DeepResearch Bench I and II ](https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench) (2026-03-12)
 - [Introducing Storage Buckets on the Hugging Face Hub](https://huggingface.co/blog/storage-buckets) (2026-03-10)
 - [Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries](https://huggingface.co/blog/async-rl-training-landscape) (2026-03-10)
 - [Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge](https://huggingface.co/blog/ibm-granite/granite-4-speech) (2026-03-09)
