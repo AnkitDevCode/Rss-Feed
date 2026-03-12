@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Pro-Iran hacktivist group says it is behind attack on medical tech giant Stryker](https://techcrunch.com/2026/03/11/stryker-hack-pro-iran-hacktivist-group-handala-says-it-is-behind-attack/) (2026-03-11)
-- [Breakout Ventures raises $114M fund to back AI science startups](https://techcrunch.com/2026/03/11/breakout-ventures-raises-114m-fund-to-back-ai-science-startups/) (2026-03-11)
-- [Almost 40 new unicorns have been minted so far this year — here they are](https://techcrunch.com/2026/03/11/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/) (2026-03-11)
-- [VC mega-funds are back with General Catalyst, Spark rumored to be raising billions](https://techcrunch.com/2026/03/11/vc-mega-funds-are-back-with-general-catalyst-spark-rumored-to-be-raising-billions/) (2026-03-11)
-- [Poppi founder on TikTok, Super Bowl ads, and her return to Shark Tank](https://techcrunch.com/video/poppi-founder-on-tiktok-super-bowl-ads-and-her-return-to-shark-tank/) (2026-03-11)
+- [AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard](https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/) (2026-03-11)
+- [Nuro is testing its autonomous vehicle tech on Tokyo’s streets](https://techcrunch.com/2026/03/11/nuro-is-testing-its-autonomous-vehicle-tech-on-tokyos-streets/) (2026-03-11)
+- [Google Play is adding new paid and PC games, game trials, community posts, and more](https://techcrunch.com/2026/03/11/google-play-is-adding-new-paid-and-pc-games-game-trials-community-posts-and-more/) (2026-03-11)
+- [Ford’s new AI assistant will help fleet owners know if seatbelts are being used](https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/) (2026-03-11)
+- [Ride-hailing inDrive acquires Pakistan’s Krave Mart to bolster grocery delivery](https://techcrunch.com/2026/03/11/ride-hailing-indrive-acquires-pakistans-kravemart-to-bolster-grocery-delivery/) (2026-03-11)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Medical technology company in Michigan hit by suspected Iran-linked cyberattack](https://www.fox17online.com/news/local-news/kzoo-bc/kalamazoo/stryker-headquarters-in-portage-closes-amid-reported-cyber-attack-affecting-global-systems) (2026-03-11)
-- [Show HN: Vanilla JavaScript refinery simulator built to explain job to my kids](https://fuelingcuriosity.com/game.html) (2026-03-11)
-- [Fungal Electronics](https://arxiv.org/abs/2111.11231) (2026-03-11)
-- [Launch HN: Sentrial (YC W26) – Catch AI Agent Failures Before Your Users Do](https://www.sentrial.com/) (2026-03-11)
-- [Show HN: I built a tool that watches webpages and exposes changes as RSS](https://sitespy.app) (2026-03-11)
+- [Show HN: s@: decentralized social networking over static sites](http://satproto.org/) (2026-03-12)
+- [Show HN: Autoresearch@home](https://www.ensue-network.ai/autoresearch) (2026-03-11)
+- [Show HN: A context-aware permission guard for Claude Code](https://github.com/manuelschipper/nah/) (2026-03-11)
+- [Building Better Country Selects](https://talysto.com/blog/building-better-country-selects/) (2026-03-11)
+- [Atlassian to cut roughly 1,600 jobs in pivot to AI](https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/) (2026-03-11)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Grammarly says it will stop using AI to clone experts without permission](https://www.theverge.com/ai-artificial-intelligence/893270/grammarly-ai-expert-review-disabled) (2026-03-11)
-- [Microsoft&#8217;s ‘Xbox mode’ is coming to every Windows 11 PC](https://www.theverge.com/games/892875/microsoft-xbox-mode-windows-11-gdc) (2026-03-11)
-- [Microsoft’s next Xbox, Project Helix, won&#8217;t reach alpha until 2027](https://www.theverge.com/games/893119/xbox-project-helix-jason-ronald-gdc-2026) (2026-03-11)
-- [OpenAI’s Sora video generator is reportedly coming to ChatGPT](https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration) (2026-03-11)
-- [Alternative app store AltStore PAL is joining the fediverse](https://www.theverge.com/tech/893085/altstore-pal-alternative-app-store-fediverse) (2026-03-11)
+- [One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature](https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin) (2026-03-11)
+- [iPhone Fold rumor: iPad-like multitasking, but no iPad apps and no Face ID](https://www.theverge.com/tech/893429/iphone-fold-rumor-ipad-multitasking-face-id-rumor) (2026-03-11)
+- [Some of the best horror games ever made are included in Humble’s latest $15 bundle](https://www.theverge.com/gadgets/893314/frictional-games-amnesia-soma-humble-bundle-deal-sale-steam) (2026-03-11)
+- [Valve says it will fight New York&#8217;s loot box lawsuit](https://www.theverge.com/games/893383/valve-steam-loot-box-gambling-cd2-dota-tf2) (2026-03-11)
+- [The Live Nation settlement has industry insiders baffled](https://www.theverge.com/policy/893272/live-nation-ticketmaster-doj-settlement-states) (2026-03-11)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Anduril, the autonomous weapons maker, doubles the size of its space unit](https://arstechnica.com/science/2026/03/anduril-the-autonomous-weapons-maker-doubles-the-size-of-its-space-unit/) (2026-03-11)
-- [Nvidia is reportedly planning its own open source OpenClaw competitor](https://arstechnica.com/ai/2026/03/nvidia-is-reportedly-planning-its-own-open-source-openclaw-competitor/) (2026-03-11)
-- [NIH director launches "Scientific Freedom" lectures with non-scientist](https://arstechnica.com/science/2026/03/nih-director-launches-scientific-freedom-lectures-with-non-scientist/) (2026-03-11)
-- [Verdict: Yes, you should go see Project Hail Mary as soon as possible](https://arstechnica.com/culture/2026/03/verdict-yes-you-should-go-see-project-hail-mary-as-soon-as-possible/) (2026-03-11)
-- [What crackdown? Trump's EPA enforcement claims don't pass sniff test.](https://arstechnica.com/tech-policy/2026/03/trumps-epa-says-its-cracking-down-but-the-data-tell-a-different-story/) (2026-03-11)
+- [Report: RFK Jr.’s anti-vaccine agenda curbed as GOP realizes it's unpopular](https://arstechnica.com/health/2026/03/report-trump-admin-trying-to-rein-in-rfk-jr-s-unpopular-anti-vaccine-agenda/) (2026-03-11)
+- [FCC chair blasts Amazon after it criticizes SpaceX megaconstellation](https://arstechnica.com/space/2026/03/fcc-chair-blasts-amazon-after-it-criticizes-spacex-megaconstellation/) (2026-03-11)
+- [14,000 routers are infected by malware that's highly resistant to takedowns](https://arstechnica.com/security/2026/03/14000-routers-are-infected-by-malware-thats-highly-resistant-to-takedowns/) (2026-03-11)
+- [Explain it like I'm 5: Why is everyone on speakerphone in public?](https://arstechnica.com/culture/2026/03/explain-it-like-im-5-why-is-everyone-on-speakerphone-in-public/) (2026-03-11)
+- [Windows 11's Steam Deck-ish, streamlined Xbox gaming UI comes to all PCs in April](https://arstechnica.com/gadgets/2026/03/windows-11s-steam-deck-ish-streamlined-xbox-gaming-ui-comes-to-all-pcs-in-april/) (2026-03-11)
 
 </details>
 
@@ -75,11 +75,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Addressing GitHub’s recent availability issues](https://github.blog/news-insights/company-news/addressing-githubs-recent-availability-issues-2/) (2026-03-11)
 - [The era of “AI as text” is over. Execution is the new interface.](https://github.blog/ai-and-ml/github-copilot/the-era-of-ai-as-text-is-over-execution-is-the-new-interface/) (2026-03-10)
 - [Under the hood: Security architecture of GitHub Agentic Workflows](https://github.blog/ai-and-ml/generative-ai/under-the-hood-security-architecture-of-github-agentic-workflows/) (2026-03-09)
 - [How to scan for vulnerabilities with GitHub Security Lab’s open source AI-powered framework](https://github.blog/security/how-to-scan-for-vulnerabilities-with-github-security-labs-open-source-ai-powered-framework/) (2026-03-06)
 - [60 million Copilot code reviews and counting](https://github.blog/ai-and-ml/github-copilot/60-million-copilot-code-reviews-and-counting/) (2026-03-05)
-- [Scaling AI opportunity across the globe: Learnings from GitHub and Andela](https://github.blog/developer-skills/career-growth/scaling-ai-opportunity-across-the-globe-learnings-from-github-and-andela/) (2026-03-05)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Claude Code Productivity Paradox](https://dev.to/cwilkins507/the-claude-code-productivity-paradox-47go) (2026-03-11)
-- [I got tired of pasting JSON into sketchy websites, so here's one that doesn't log anything — toolbox4devs.com](https://dev.to/toolbox4devs/i-got-tired-of-pasting-json-into-sketchy-websites-so-heres-one-that-doesnt-log-anything--172i) (2026-03-11)
-- [The Fraud That Was Two Hops Away](https://dev.to/versal/the-fraud-that-was-two-hops-away-1dbp) (2026-03-11)
-- [Architecting MLOps Connectivity: Balancing Isolation and Communication](https://dev.to/anusha_kuppili/architecting-mlops-connectivity-balancing-isolation-and-communication-1e0j) (2026-03-11)
-- [Next.js 16 for Beginners: Start Building Full-Stack React Apps](https://dev.to/hamzasehouli/nextjs-16-for-beginners-start-building-full-stack-react-apps-4n4c) (2026-03-11)
+- [The Agent Observability Gap: Why Logs Aren't Enough](https://dev.to/custodiaadmin/the-agent-observability-gap-why-logs-arent-enough-5431) (2026-03-12)
+- [What Happened When mastodon.social Suspended My AI Agent Account](https://dev.to/agent-andy/what-happened-when-mastodonsocial-suspended-my-ai-agent-account-595g) (2026-03-12)
+- [Build Your Own Longevity Researcher: RAG with Qdrant and 5,000+ PubMed Papers 🧬📚](https://dev.to/wellallytech/build-your-own-longevity-researcher-rag-with-qdrant-and-5000-pubmed-papers-5fjg) (2026-03-12)
+- [Claude Opus 4.6 Solved Donald Knuth's Graph Theory Problem in 1 Hour](https://dev.to/skilaai/claude-opus-46-solved-donald-knuths-graph-theory-problem-in-1-hour-jg9) (2026-03-12)
+- [How I Think About Reliability in LLM Applications](https://dev.to/jamie_gray_ai/how-i-think-about-reliability-in-llm-applications-2ocp) (2026-03-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why Most Modular Monoliths Become Distributed Monoliths by Year Two](https://medium.com/@kerimkkara/why-most-modular-monoliths-become-distributed-monoliths-by-year-two-35c70f8a96aa?source=rss------programming-5) (2026-03-11)
-- [I Built a Semantic Job Matching Pipeline: Here’s How It Works](https://medium.com/@marcoferri462/i-built-a-semantic-job-matching-pipeline-heres-how-it-works-403e467e837e?source=rss------programming-5) (2026-03-11)
-- [ 50 AI Tools Every Web Developer Needs in 2026 — Work 10x Faster](https://medium.com/@abdullahbhatti3399/50-ai-tools-every-web-developer-needs-in-2026-work-10x-faster-b3f6431e07ee?source=rss------programming-5) (2026-03-11)
-- [These 2 Quotes Changed the Course of My Programming Career](https://medium.com/career-programming/these-2-quotes-changed-the-course-of-my-programming-career-384a168cbd99?source=rss------programming-5) (2026-03-11)
-- [Coding Agents Are Fast, Weak Architecture Breaks Faster](https://levelup.gitconnected.com/coding-agents-are-fast-weak-architecture-breaks-faster-e5acfcec068e?source=rss------programming-5) (2026-03-11)
+- [Your MCP Tools Are Eating Your Context](https://medium.com/@bob.bobster1910_8811/your-mcp-tools-are-eating-your-context-89dd53ae21c6?source=rss------programming-5) (2026-03-12)
+- [Unreal Teams Expose the Docs Pipeline Before Bad Agent Code Ships](https://medium.com/kairi-ai/unreal-teams-expose-the-docs-pipeline-before-bad-agent-code-ships-a9cab97d9133?source=rss------programming-5) (2026-03-12)
+- [AI Coding Assistants in VS Code: A New Source of Digital Forensic Artifacts](https://medium.com/@paritoshblogs/ai-coding-assistants-in-vs-code-a-new-source-of-digital-forensic-artifacts-97a59ceff747?source=rss------programming-5) (2026-03-12)
+- [Build a QR Code Generator Using Spring Boot](https://medium.com/@sunil17bbmp/build-a-qr-code-generator-using-spring-boot-70ceddee7a1e?source=rss------programming-5) (2026-03-12)
+- [How I Built a Custom AI Document Assistant That Understands 1000s of PDFs and Talks Like a Human](https://python.plainenglish.io/how-i-built-a-custom-ai-document-assistant-that-understands-1000s-of-pdfs-and-talks-like-a-human-e93a55cfffbf?source=rss------programming-5) (2026-03-12)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Many agents, one team: Scaling modernization on Azure](https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/) (2026-03-11)
-- [Introducing Fireworks AI on Microsoft Foundry: Bringing high performance, low latency open model inference to Azure](https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/) (2026-03-11)
-- [Unpacking your top questions on agentic AI: The Shift podcast](https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/) (2026-03-09)
 - [The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry](https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/) (2026-03-06)
 - [Introducing GPT-5.4 in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785) (2026-03-05)
+- [Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure](https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/) (2026-03-04)
+- [Unlocking document understanding with Mistral Document AI in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664) (2026-03-03)
+- [Instant access incremental snapshots: Restore without waiting](https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/) (2026-03-02)
 
 </details>
 
@@ -163,11 +163,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Level Up: Test Sidekick and prepare for upcoming program milestones](https://android-developers.googleblog.com/2026/03/level-up-your-game.html) (2026-03-11)
+- [Expanding our stage for PC and paid titles ](https://android-developers.googleblog.com/2026/03/building-a-bigger-stage.html) (2026-03-11)
 - [Boosting Android Performance: Introducing AutoFDO for the Kernel](https://android-developers.googleblog.com/2026/03/BoostingAndroid PerformanceIntroducingAutoFDO.html) (2026-03-10)
 - [Instagram and Facebook deliver instant playback and boost user engagement with Media3 PreloadManager](https://android-developers.googleblog.com/2026/03/instagram-and-facebook-deliver-instant.html) (2026-03-05)
 - [Elevating AI-assisted Android development and improving LLMs with Android Bench](https://android-developers.googleblog.com/2026/03/elevating-ai-assisted-androi.html) (2026-03-05)
-- [Battery Technical Quality Enforcement is Here:  How to Optimize Common Wake Lock Use Cases](https://android-developers.googleblog.com/2026/03/battery-technical-quality-enforcement.html) (2026-03-05)
-- [How WHOOP decreased excessive partial wake lock sessions by over 90%](https://android-developers.googleblog.com/2026/03/how-whoop-decreased-excessive-partial.html) (2026-03-04)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Introducing Tracy: The AI Observability Library for Kotlin](https://blog.jetbrains.com/kotlin/2026/03/introducing-tracy-the-ai-observability-library-for-kotlin/) (2026-03-11)
 - [Centralized Power: How TeamCity’s Architecture Solves Jenkins’ Scaling Problem](https://blog.jetbrains.com/teamcity/2026/03/jenkins-scaling-problems/) (2026-03-11)
 - [From Classroom Code to NASA Challenges: Carlos Orozco’s Journey Into Big Tech](https://blog.jetbrains.com/education/2026/03/11/carlos-orozcos-journey-into-big-tech/) (2026-03-11)
 - [The Ethics of AI Code Review](https://blog.jetbrains.com/qodana/2026/03/ethics-of-ai-code-review/) (2026-03-11)
 - [Experimental AI Features for JetBrains IDEs: Recap and Insights](https://blog.jetbrains.com/ai/2026/03/experimental-ai-features-for-jetbrains-ides-recap-and-insights/) (2026-03-10)
-- [Computer Science and AI BSc Open Day in Cyprus](https://blog.jetbrains.com/education/2026/03/10/computer-science-and-ai-bsc-open-day-in-cyprus-2/) (2026-03-10)
 
 </details>
 
@@ -362,6 +362,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Community, AI in Action, and Twilio News: Reflections on Our Biggest User Group Yet
+](
+https://www.twilio.com/en-us/blog/events/twilio-segment-user-group-london-feb-2026
+) (2026-03-11)
+- [
 Customer lifetime value: formula, calculation & examples
 ](
 https://www.twilio.com/en-us/blog/insights/customer-lifetime-value-clv
@@ -381,11 +386,6 @@ How to Block Spam Calls with Twilio Voice in Node.js
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/block-spam-calls-twilio-voice-node-js
 ) (2026-03-06)
-- [
-13 email marketing KPIs to watch closely in 2026
-](
-https://www.twilio.com/en-us/blog/insights/13-email-marketing-kpis-to-watch-closely-in-2024
-) (2026-03-02)
 
 </details>
 
