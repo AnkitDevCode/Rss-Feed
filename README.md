@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Google Maps is getting an AI ‘Ask Maps’ feature and upgraded ‘immersive’ navigation](https://techcrunch.com/2026/03/12/google-maps-is-getting-an-ai-ask-maps-feature-and-upgraded-immersive-navigation/) (2026-03-12)
+- [Group14 opens factory to produce battery materials for flash charging EVs](https://techcrunch.com/2026/03/12/group14-opens-factory-to-produce-battery-materials-for-flash-charging-evs/) (2026-03-12)
+- [When startups become a family business](https://techcrunch.com/2026/03/12/when-startups-become-a-family-business/) (2026-03-12)
+- [Google is using old news reports and AI to predict flash floods](https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/) (2026-03-12)
 - [Chinese brain interface startup Gestala raises $21M just two months after launch](https://techcrunch.com/2026/03/11/bci-startup-gestala-raises-21-million-for-non-invasive-ultrasound-brain-tech/) (2026-03-12)
-- [AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard](https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/) (2026-03-11)
-- [Nuro is testing its autonomous vehicle tech on Tokyo’s streets](https://techcrunch.com/2026/03/11/nuro-is-testing-its-autonomous-vehicle-tech-on-tokyos-streets/) (2026-03-11)
-- [Google Play is adding new paid and PC games, game trials, community posts, and more](https://techcrunch.com/2026/03/11/google-play-is-adding-new-paid-and-pc-games-game-trials-community-posts-and-more/) (2026-03-11)
-- [Ford’s new AI assistant will help fleet owners know if seatbelts are being used](https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/) (2026-03-11)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [WireGuard Is Two Things](https://www.proxylity.com/articles/wireguard-is-two-things.html) (2026-03-12)
-- [Iran-backed hackers claim wiper attack on medtech firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/) (2026-03-12)
-- [DHS Contracts Explorer – Hacked data from the Office of Industry Partnership](https://micahflee.github.io/ice-contracts/) (2026-03-12)
-- [Urea prices](https://tradingeconomics.com/commodity/urea) (2026-03-12)
-- [Show HN: s@: decentralized social networking over static sites](http://satproto.org/) (2026-03-12)
+- [Are LLMs not getting better?](https://entropicthoughts.com/no-swe-bench-improvement) (2026-03-12)
+- [Big Data on the Cheapest MacBook](https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook) (2026-03-12)
+- [Independent Geophysical Forensic Analysis of the Nordstream Pipeline Sabotage](https://www.geophysical-forensics.ch/nordstream.html) (2026-03-12)
+- [1B identity records exposed in ID verification data leak](https://www.aol.com/articles/1-billion-identity-records-exposed-152505381.html) (2026-03-12)
+- [Dolphin Progress Release 2603](https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/) (2026-03-12)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [You can now ask Google Maps ‘complex, real-world questions’ — and Gemini will answer](https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation) (2026-03-12)
+- [Perplexity&#8217;s Personal Computer turns your spare Mac into an AI agent](https://www.theverge.com/ai-artificial-intelligence/893536/perplexitys-personal-computer-turns-your-spare-mac-into-an-ai-agent) (2026-03-12)
+- [JBL’s new party speaker comes with a karaoke mic that helps you hit those high notes](https://www.theverge.com/tech/890868/jbl-partybox-on-the-go-2-bluetooth-speaker-wireless-easysing-mic) (2026-03-12)
+- [Iran-linked cyber attack targets US medtech giant Stryker](https://www.theverge.com/tech/893524/stryker-iran-us-medtech-cyberattack) (2026-03-12)
 - [One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature](https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin) (2026-03-11)
-- [iPhone Fold rumor: iPad-like multitasking, but no iPad apps and no Face ID](https://www.theverge.com/tech/893429/iphone-fold-rumor-ipad-multitasking-face-id-rumor) (2026-03-11)
-- [Some of the best horror games ever made are included in Humble’s latest $15 bundle](https://www.theverge.com/gadgets/893314/frictional-games-amnesia-soma-humble-bundle-deal-sale-steam) (2026-03-11)
-- [Valve says it will fight New York&#8217;s loot box lawsuit](https://www.theverge.com/games/893383/valve-steam-loot-box-gambling-cd2-dota-tf2) (2026-03-11)
-- [The Live Nation settlement has industry insiders baffled](https://www.theverge.com/policy/893272/live-nation-ticketmaster-doj-settlement-states) (2026-03-11)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Remembering the 30-year-old computer game that introduced me to Star Wars](https://arstechnica.com/gaming/2026/03/30-years-later-star-wars-shadows-of-the-empire-is-a-relic-of-a-lost-era/) (2026-03-12)
+- [How I streamed my off-road Miata race using Starlink and StarStream](https://arstechnica.com/cars/2026/03/how-i-streamed-my-off-road-miata-race-using-starlink-and-starstream/) (2026-03-12)
 - [Google Play Games for PC is getting more premium titles and cross-buy with Android](https://arstechnica.com/gaming/2026/03/google-play-games-for-pc-is-getting-more-premium-titles-and-cross-buy-with-android/) (2026-03-11)
 - [Report: RFK Jr.’s anti-vaccine agenda curbed as GOP realizes it's unpopular](https://arstechnica.com/health/2026/03/report-trump-admin-trying-to-rein-in-rfk-jr-s-unpopular-anti-vaccine-agenda/) (2026-03-11)
 - [FCC chair blasts Amazon after it criticizes SpaceX megaconstellation](https://arstechnica.com/space/2026/03/fcc-chair-blasts-amazon-after-it-criticizes-spacex-megaconstellation/) (2026-03-11)
-- [14,000 routers are infected by malware that's highly resistant to takedowns](https://arstechnica.com/security/2026/03/14000-routers-are-infected-by-malware-thats-highly-resistant-to-takedowns/) (2026-03-11)
-- [Explain it like I'm 5: Why is everyone on speakerphone in public?](https://arstechnica.com/culture/2026/03/explain-it-like-im-5-why-is-everyone-on-speakerphone-in-public/) (2026-03-11)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Brutal times for the US battery industry](https://www.technologyreview.com/2026/03/12/1134197/us-battery-industry/) (2026-03-12)
 - [Hustlers are cashing in on China’s OpenClaw AI craze](https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/) (2026-03-11)
 - [The Download: Pokémon Go to train world models, and the US-China race to find aliens](https://www.technologyreview.com/2026/03/11/1134174/the-download-pokemon-go-train-world-models-us-china-race-find-aliens/) (2026-03-11)
 - [How Pokémon Go is giving delivery robots an inch-perfect view of the world](https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/) (2026-03-10)
 - [Prioritizing energy intelligence for sustainable growth](https://www.technologyreview.com/2026/03/10/1133972/prioritizing-energy-intelligence-for-sustainable-growth/) (2026-03-10)
-- [The Download: AI’s role in the Iran war, and an escalating legal fight](https://www.technologyreview.com/2026/03/10/1134077/the-download-ai-iran-war-theater-anthropic-sues-us/) (2026-03-10)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [3 Critical Pitfalls in Signup Form Validation](https://dev.to/leo_he/3-critical-pitfalls-in-signup-form-validation-1en9) (2026-03-12)
-- [How I Built a 4D Application Platform in 28 Days with an AI Team](https://dev.to/artanidos/how-i-built-a-4d-application-platform-in-28-days-with-an-ai-team-jn) (2026-03-12)
-- [Why Production AI Agents Are Hard & How Amazon Bedrock AgentCore Makes Them Production Ready](https://dev.to/sreeni5018/why-production-ai-agents-are-hard-how-amazon-bedrock-agentcore-makes-them-production-ready-1fpn) (2026-03-12)
-- [When Tests Can't Reach Your Code, That may not be a Test Problem...](https://dev.to/lostshades/when-tests-cant-reach-your-code-that-may-not-be-a-test-problem-1039) (2026-03-12)
-- [Beyond OpenClaw: 5 Secure and Efficient Open-Source AI Agent Alternatives](https://dev.to/tomastomas/beyond-openclaw-5-secure-and-efficient-open-source-ai-agent-alternatives-3co9) (2026-03-12)
+- [Why I Stopped Building Apps and Started Building an Engine in Flutter](https://dev.to/bhanu_nagpure/why-i-stopped-building-apps-and-started-building-an-engine-in-flutter-406) (2026-03-12)
+- [SWE-bench Scores Are Lying to You: Half of Passing PRs Wouldnt Be Merged](https://dev.to/benriemer/swe-bench-scores-are-lying-to-you-half-of-passing-prs-wouldnt-be-merged-8h2) (2026-03-12)
+- [Google Agreed to Pay $32 Billion for Wiz. Here's Why Cloud Security Was Worth Every Dollar.](https://dev.to/kunal_d6a8fea2309e1571ee7/google-agreed-to-pay-32-billion-for-wiz-heres-why-cloud-security-was-worth-every-dollar-3gmp) (2026-03-12)
+- [Autonomous AI Research Does Not Need a Giant Framework](https://dev.to/javz/autonomous-ai-research-does-not-need-a-giant-framework-32el) (2026-03-12)
+- [Frontend System Design : Frontend Security — Guide](https://dev.to/zeeshanali0704/frontend-security-frontend-system-design-guide-52g0) (2026-03-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why Your AI Doesn’t Know What You Know — And How RAG Fixes That](https://medium.com/@iambharathpadhu/why-your-ai-doesnt-know-what-you-know-and-how-rag-fixes-that-283f860fcebf?source=rss------programming-5) (2026-03-12)
-- [I Accidentally Built a Python Script That Made Me Question How Developers Work](https://levelup.gitconnected.com/i-accidentally-built-a-python-script-that-made-me-question-how-developers-work-1acdd4740152?source=rss------programming-5) (2026-03-12)
-- [ARRAYS_DAY-4](https://amn24.medium.com/arrays-day-4-5292ae3451c7?source=rss------programming-5) (2026-03-12)
-- [Mastering JavaScript’s this: Why It Works in Classes but Confuses Developers in Factory Functions](https://medium.com/dev-simplified/mastering-javascripts-this-why-it-works-in-classes-but-confuses-developers-in-factory-functions-feec411512d4?source=rss------programming-5) (2026-03-12)
-- [How to Build Autoresearch Loops That Let AI Do Real Science](https://medium.com/@sebuzdugan/how-to-build-autoresearch-loops-that-let-ai-do-real-science-0516771d90c9?source=rss------programming-5) (2026-03-12)
+- [Stop Using AI Wrong — Here’s How I Actually Made Money With It](https://medium.com/@sanyamdubey28/stop-using-ai-wrong-heres-how-i-actually-made-money-with-it-921929e28448?source=rss------programming-5) (2026-03-12)
+- [The Senior Engineer’s Secret Skill: Asking the Right Questions](https://kawaldeepsingh.medium.com/the-senior-engineers-secret-skill-asking-the-right-questions-a6f6085573b1?source=rss------programming-5) (2026-03-12)
+- [Every Claude Code Session Has an Invisible Price Tag. Here Is What Controls It.](https://medium.com/nginity/every-claude-code-session-has-an-invisible-price-tag-here-is-what-controls-it-c7fa09541639?source=rss------programming-5) (2026-03-12)
+- [NET 10 for High Traffic APIs: What Actually Gets Faster, What Does Not](https://medium.com/@kerimkkara/net-10-for-high-traffic-apis-what-actually-gets-faster-what-does-not-37632bc0d088?source=rss------programming-5) (2026-03-12)
+- [How to Use Proxies in Node.js (Axios Guide)](https://medium.com/@proxiesthatwork/how-to-use-proxies-in-node-js-axios-guide-7f4ee8a704e6?source=rss------programming-5) (2026-03-12)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry](https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/) (2026-03-06)
-- [Introducing GPT-5.4 in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785) (2026-03-05)
 - [Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure](https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/) (2026-03-04)
 - [Unlocking document understanding with Mistral Document AI in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664) (2026-03-03)
 - [Instant access incremental snapshots: Restore without waiting](https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/) (2026-03-02)
+- [Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected](http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog) (2026-02-24)
+- [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Flexibility Over Lock-In: The Enterprise Shift in Agent Strategy](https://www.docker.com/blog/enterprise-shift-in-agent-strategy/) (2026-03-12)
 - [Building AI Teams: How Docker Sandboxes and Docker Agent Transform Development](https://www.docker.com/blog/building-ai-teams-docker-sandboxes-agent/) (2026-03-11)
 - [What’s Holding Back AI Agents? It’s Still Security](https://www.docker.com/blog/whats-holding-back-ai-agents-its-still-security/) (2026-03-10)
 - [Celebrating Women in AI: 3 Questions with Cecilia Liu on Leading Docker’s MCP Strategy](https://www.docker.com/blog/women-in-ai-cecilia-liu-docker-mcp-strategy/) (2026-03-06)
 - [Announcing Docker Hardened System Packages](https://www.docker.com/blog/announcing-docker-hardened-system-packages/) (2026-03-03)
-- [Docker Model Runner Brings vLLM to macOS with Apple Silicon](https://www.docker.com/blog/docker-model-runner-vllm-metal-macos/) (2026-02-26)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [The Impact and Achievements of AI4SE in 2025](https://blog.jetbrains.com/research/2026/03/ai4se-in-2025/) (2026-03-12)
 - [Introducing Tracy: The AI Observability Library for Kotlin](https://blog.jetbrains.com/kotlin/2026/03/introducing-tracy-the-ai-observability-library-for-kotlin/) (2026-03-11)
 - [Centralized Power: How TeamCity’s Architecture Solves Jenkins’ Scaling Problem](https://blog.jetbrains.com/teamcity/2026/03/jenkins-scaling-problems/) (2026-03-11)
 - [From Classroom Code to NASA Challenges: Carlos Orozco’s Journey Into Big Tech](https://blog.jetbrains.com/education/2026/03/11/carlos-orozcos-journey-into-big-tech/) (2026-03-11)
 - [The Ethics of AI Code Review](https://blog.jetbrains.com/qodana/2026/03/ethics-of-ai-code-review/) (2026-03-11)
-- [Experimental AI Features for JetBrains IDEs: Recap and Insights](https://blog.jetbrains.com/ai/2026/03/experimental-ai-features-for-jetbrains-ides-recap-and-insights/) (2026-03-10)
 
 </details>
 
@@ -557,22 +557,22 @@ https://www.twilio.com/en-us/blog/insights/13-email-marketing-kpis-to-watch-clos
 <details>
 <summary>🤖 AI News</summary>
 
+- [FIFA is rebuilding world football operations on AI. The World Cup is just the first test](https://www.artificialintelligence-news.com/news/fifa-ai-world-cup-2026-lenovo/) (2026-03-12)
 - [Ai2: Building physical AI with virtual simulation data](https://www.artificialintelligence-news.com/news/ai2-building-physical-ai-with-virtual-simulation-data/) (2026-03-11)
 - [New partnership to offer smart robots for dangerous environments](https://www.artificialintelligence-news.com/news/new-partnership-to-offer-ai-for-robotics-for-work-in-dangerous-environments/) (2026-03-11)
 - [Manulife moves AI agents into core financial workflows](https://www.artificialintelligence-news.com/news/manulife-moves-ai-agents-into-core-financial-workflows/) (2026-03-11)
 - [How physical AI integration accelerates vehicle innovation](https://www.artificialintelligence-news.com/news/how-physical-ai-integration-accelerates-vehicle-innovation/) (2026-03-11)
-- [ABB: Physical AI simulation boosts ROI for factory automation](https://www.artificialintelligence-news.com/news/abb-physical-ai-simulation-secures-factory-automation-roi/) (2026-03-10)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [I Finally Built My First AI App (And It Wasn’t What I Expected)](https://towardsdatascience.com/i-finally-built-my-first-ai-app-and-it-wasnt-what-i-expected/) (2026-03-12)
 - [An Intuitive Guide to MCMC (Part I): The Metropolis-Hastings Algorithm](https://towardsdatascience.com/an-intuitive-guide-to-mcmc-part-i-the-metropolis-hastings-algorithm/) (2026-03-11)
 - [Spectral Clustering Explained: How Eigenvectors Reveal Complex Cluster Structures](https://towardsdatascience.com/spectral-clustering-explained-how-eigenvectors-reveal-complex-cluster-structures/) (2026-03-11)
 - [Why Most A/B Tests Are Lying to You](https://towardsdatascience.com/why-most-a-b-tests-are-lying-to-you/) (2026-03-11)
 - [How the Fourier Transform Converts Sound Into Frequencies](https://towardsdatascience.com/everything-you-need-to-know-about-fourier-transform/) (2026-03-11)
-- [Hybrid Neuro-Symbolic Fraud Detection: Guiding Neural Networks with Domain Rules](https://towardsdatascience.com/hybrid-neuro-symbolic-fraud-detection-guiding-neural-networks-with-domain-rules/) (2026-03-10)
 
 </details>
 
@@ -590,22 +590,22 @@ https://www.twilio.com/en-us/blog/insights/13-email-marketing-kpis-to-watch-clos
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Top 7 AI Agent Orchestration Frameworks](https://www.kdnuggets.com/top-7-ai-agent-orchestration-frameworks) (2026-03-12)
 - [Run a Real Time Speech to Speech AI Model Locally](https://www.kdnuggets.com/run-a-real-time-speech-to-speech-ai-model-locally) (2026-03-11)
 - [5 Free AI Tools to Understand Code and Generate Documentation](https://www.kdnuggets.com/5-free-ai-tools-to-understand-code-and-generate-documentation) (2026-03-11)
 - [Understanding The Cost Of One Compromised Account (Sponsored)](https://bit.ly/40nBVbe) (2026-03-10)
 - [Run Tiny AI Models Locally Using BitNet A Beginner Guide](https://www.kdnuggets.com/run-tiny-ai-models-locally-using-bitnet-a-beginner-guide) (2026-03-10)
-- [Postgres vs MySQL vs SQLite: Comparing SQL Performance Across Engines](https://www.kdnuggets.com/postgres-vs-mysql-vs-sqlite-comparing-sql-performance-across-engines) (2026-03-10)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Building Smart Machine Learning in Low-Resource Settings](https://machinelearningmastery.com/building-smart-machine-learning-in-low-resource-settings/) (2026-03-12)
 - [Setting Up a Google Colab AI-Assisted Coding Environment That Actually Works](https://machinelearningmastery.com/setting-up-a-google-colab-ai-assisted-coding-environment-that-actually-works/) (2026-03-10)
 - [From Text to Tables: Feature Engineering with LLMs for Tabular Data](https://machinelearningmastery.com/from-text-to-tables-feature-engineering-with-llms-for-tabular-data/) (2026-03-10)
 - [The 6 Best AI Agent Memory Frameworks You Should Try in 2026](https://machinelearningmastery.com/the-6-best-ai-agent-memory-frameworks-you-should-try-in-2026/) (2026-03-09)
 - [Vector Databases vs. Graph RAG for Agent Memory: When to Use Which](https://machinelearningmastery.com/vector-databases-vs-graph-rag-for-agent-memory-when-to-use-which/) (2026-03-05)
-- [5 Essential Security Patterns for Robust Agentic AI](https://machinelearningmastery.com/5-essential-security-patterns-for-robust-agentic-ai/) (2026-03-04)
 
 </details>
 
