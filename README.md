@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Lost Doctor Who Episodes Found](https://www.bbc.co.uk/news/articles/c4g7kwq1k11o) (2026-03-13)
-- [Show HN: Global Maritime Chokepoints](https://ryanshook.org/chokepoints/) (2026-03-13)
-- [Vite 8.0 Is Out](https://vite.dev/blog/announcing-vite8) (2026-03-13)
-- [Hyperlinks in Terminal Emulators](https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda) (2026-03-13)
-- [Can you instruct a robot to make a PBJ sandwich?](https://pbj.deliberateinc.com/) (2026-03-13)
+- [Prompt-caching – auto-injects Anthropic cache breakpoints (90% token savings)](https://prompt-caching.ai/) (2026-03-13)
+- [TUI Studio – visual terminal UI design tool](https://tui.studio/) (2026-03-13)
+- [I traced $2B in grants and 45 states' lobbying behind age‑verification bills](https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/) (2026-03-13)
+- [Gvisor on Raspbian](https://nubificus.co.uk/blog/gvisor-rpi5/) (2026-03-13)
+- [Show HN: fftool – A Terminal UI for FFmpeg – Shows Command Before It Runs](https://bensantora.com/posts/fftool-ffmpeg-tui-go/) (2026-03-13)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [PC makers are not ready for the MacBook Neo](https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth) (2026-03-13)
+- [Apple reduces App Store fees in China to ward off regulators](https://www.theverge.com/tech/894306/apple-app-store-fees-china-reduced-antitrust) (2026-03-13)
 - [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers) (2026-03-12)
 - [Google Chrome is coming to Arm-powered Linux devices later this year](https://www.theverge.com/tech/894095/google-chrome-for-arm-linux) (2026-03-12)
 - [What it was like to watch grieving parents stare down Mark Zuckerberg in court](https://www.theverge.com/policy/893930/social-media-addiction-trial-los-angeles-zuckerberg-instagram-youtube) (2026-03-12)
-- [The original AirTag is the cheapest it’s ever been](https://www.theverge.com/gadgets/894007/apple-airtag-first-generation-deal-sale) (2026-03-12)
-- [KPop Demon Hunters is getting a sequel, obviously](https://www.theverge.com/entertainment/894014/kpop-demon-hunters-sequel) (2026-03-12)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: how AI is used for military targeting, and the Pentagon’s war on Claude](https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/) (2026-03-13)
+- [Future AI chips could be built on glass](https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/) (2026-03-13)
 - [A defense official reveals how AI chatbots could be used for targeting decisions](https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/) (2026-03-12)
 - [The Download: Early adopters cash in on China’s OpenClaw craze, and US batteries slump](https://www.technologyreview.com/2026/03/12/1134207/the-download-china-openclaw-ai-craze-us-battery-industry-downturn/) (2026-03-12)
 - [Pragmatic by design: Engineering AI for the real world](https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/) (2026-03-12)
-- [Brutal times for the US battery industry](https://www.technologyreview.com/2026/03/12/1134197/us-battery-industry/) (2026-03-12)
-- [Hustlers are cashing in on China’s OpenClaw AI craze](https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/) (2026-03-11)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [DOD Principles in C++: Part 1. Struct Optimization](https://dev.to/zem_code/dod-principles-in-c-part-1-struct-optimization-1anm) (2026-03-13)
-- [Android Crash Monitoring: A Complete Troubleshooting Flow for Production Environment Crashes](https://dev.to/observabilityguy/android-crash-monitoring-a-complete-troubleshooting-flow-for-production-environment-crashes-oo3) (2026-03-13)
-- [I'm Jiyu, CTO of Lawmadi OS — The Technical Architecture Behind Real-Time Legal Verification](https://dev.to/peter_choe_74edfaa33306ed/im-jiyu-cto-of-lawmadi-os-the-technical-architecture-behind-real-time-legal-verification-49id) (2026-03-13)
-- [Stop Bottlenecking Your Code: The Engineering Behind Choosing a Hard Drive Enclosure for SSD](https://dev.to/wixom/stop-bottlenecking-your-code-the-engineering-behind-choosing-a-hard-drive-enclosure-for-ssd-41dl) (2026-03-13)
-- [Best Postman Alternative in 2026: Faster API Client for Developers](https://dev.to/requestly/best-postman-alternative-in-2026-faster-api-client-for-developers-40in) (2026-03-13)
+- [Vibe Coding Flutter: The Senior Dev's Honest Take](https://dev.to/sayed_ali_alkamel/vibe-coding-flutter-the-senior-devs-honest-take-1k0f) (2026-03-13)
+- [What I Learned From Going Through Meta's AI Researcher Interview Loop](https://dev.to/madhav_bhardwaj_1c5fc2663/what-i-learned-from-going-through-metas-ai-researcher-interview-loop-43bd) (2026-03-13)
+- [I built a Screenshot & Metadata API that extracts 50+ fields from any URL](https://dev.to/darkpancakes/i-built-a-screenshot-metadata-api-that-extracts-50-fields-from-any-url-1hk6) (2026-03-13)
+- [7 cosas que me habría gustado saber cuando era desarrollador junior](https://dev.to/terminator_true/7-cosas-que-me-habria-gustado-saber-cuando-era-desarrollador-junior-ibd) (2026-03-13)
+- [Scuderia Data Ep.3](https://dev.to/the-software-s-journey/scuderia-data-ep3-4j84) (2026-03-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [GitHub Repo එක Public කළාට, ඒක ඇත්තටම “Open Source” ද?](https://medium.com/@dimuthulk/github-repo-%E0%B6%91%E0%B6%9A-public-%E0%B6%9A%E0%B7%85%E0%B7%8F%E0%B6%A7-%E0%B6%92%E0%B6%9A-%E0%B6%87%E0%B6%AD%E0%B7%8A%E0%B6%AD%E0%B6%A7%E0%B6%B8-open-source-%E0%B6%AF-2172450a630a?source=rss------programming-5) (2026-03-13)
-- [Azure IaaS Platform Security Deep Dive: Keys, Compute, Storage, and Network Defense in Depth](https://medium.com/@daverendon/azure-iaas-platform-security-deep-dive-keys-compute-storage-and-network-defense-in-depth-40c4c7903279?source=rss------programming-5) (2026-03-13)
-- [Junior Devs Use try-catch Everywhere. Senior Devs Use These 4 Exception Handling Patterns](https://medium.com/@shabanajasmin/junior-devs-use-try-catch-everywhere-senior-devs-use-these-4-exception-handling-patterns-6f47284aed22?source=rss------programming-5) (2026-03-13)
-- [Akhuwat loans bank foundation 03447720597](https://medium.com/@habibbabar607/akhuwat-loans-bank-foundation-03447720597-7e4c2687ddc5?source=rss------programming-5) (2026-03-13)
-- [9 Proven Strategies to Build a Conversational AI Chatbot That Actually Converts (Without Burning…](https://medium.com/@mscode07/9-proven-strategies-to-build-a-conversational-ai-chatbot-that-actually-converts-without-burning-2a8471e09369?source=rss------programming-5) (2026-03-13)
+- [Are Developers Still Coding… or Just Prompting AI?](https://medium.com/@pkadu5301/are-developers-still-coding-or-just-prompting-ai-dfae169179b5?source=rss------programming-5) (2026-03-13)
+- [The First 10 Systems Every Software Engineer Should Understand](https://kawaldeepsingh.medium.com/the-first-10-systems-every-software-engineer-should-understand-918245279611?source=rss------programming-5) (2026-03-13)
+- [Is NestForge the NestJS for Rust? Exploring the Future of Opinionated Architecture ](https://medium.com/@anshusinghal703/is-nestforge-the-nestjs-for-rust-exploring-the-future-of-opinionated-architecture-0f03bfb021a6?source=rss------programming-5) (2026-03-13)
+- [10 Python Data Analysis Techniques Worth Learning](https://python.plainenglish.io/10-python-data-analysis-techniques-worth-learning-71c7c17e9edf?source=rss------programming-5) (2026-03-13)
+- [#IWDRebaseSpotlight | Week 2](https://medium.com/@rebaseacademy/iwdrebasespotlight-week-2-8c9465e51e41?source=rss------programming-5) (2026-03-13)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry](https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/) (2026-03-06)
-- [Introducing GPT-5.4 in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785) (2026-03-05)
 - [Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure](https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/) (2026-03-04)
 - [Unlocking document understanding with Mistral Document AI in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664) (2026-03-03)
 - [Instant access incremental snapshots: Restore without waiting](https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/) (2026-03-02)
+- [Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected](http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog) (2026-02-24)
+- [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [How to Run Claude Code with Docker: Local Models, MCP Servers, and Secure Sandboxes](https://www.docker.com/blog/run-claude-code-with-docker/) (2026-03-13)
+- [Secure Agent Execution with NanoClaw and Docker Sandboxes](https://www.docker.com/blog/nanoclaw-docker-sandboxes-agent-security/) (2026-03-13)
 - [Flexibility Over Lock-In: The Enterprise Shift in Agent Strategy](https://www.docker.com/blog/enterprise-shift-in-agent-strategy/) (2026-03-12)
 - [Building AI Teams: How Docker Sandboxes and Docker Agent Transform Development](https://www.docker.com/blog/building-ai-teams-docker-sandboxes-agent/) (2026-03-11)
 - [What’s Holding Back AI Agents? It’s Still Security](https://www.docker.com/blog/whats-holding-back-ai-agents-its-still-security/) (2026-03-10)
-- [Celebrating Women in AI: 3 Questions with Cecilia Liu on Leading Docker’s MCP Strategy](https://www.docker.com/blog/women-in-ai-cecilia-liu-docker-mcp-strategy/) (2026-03-06)
-- [Announcing Docker Hardened System Packages](https://www.docker.com/blog/announcing-docker-hardened-system-packages/) (2026-03-03)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Datalore 2026.1: New Data Explorer Cells, Instance-Wide BYOK for AI, Stronger Security via Sidecar Containers in Kubernetes, and More](https://blog.jetbrains.com/datalore/2026/03/13/datalore-2026-1/) (2026-03-13)
 - [The Impact and Achievements of AI4SE in 2025](https://blog.jetbrains.com/research/2026/03/ai4se-in-2025/) (2026-03-12)
 - [Introducing Tracy: The AI Observability Library for Kotlin](https://blog.jetbrains.com/kotlin/2026/03/introducing-tracy-the-ai-observability-library-for-kotlin/) (2026-03-11)
 - [Centralized Power: How TeamCity’s Architecture Solves Jenkins’ Scaling Problem](https://blog.jetbrains.com/teamcity/2026/03/jenkins-scaling-problems/) (2026-03-11)
 - [From Classroom Code to NASA Challenges: Carlos Orozco’s Journey Into Big Tech](https://blog.jetbrains.com/education/2026/03/11/carlos-orozcos-journey-into-big-tech/) (2026-03-11)
-- [The Ethics of AI Code Review](https://blog.jetbrains.com/qodana/2026/03/ethics-of-ai-code-review/) (2026-03-11)
 
 </details>
 
@@ -362,6 +362,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Build a WhatsApp AI Agent with Node.js, Twilio Messaging, and OpenAI’s GPT-5
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/whatsapp-ai-agent-twilio-openai
+) (2026-03-12)
+- [
 Community, AI in Action, and Twilio News: Reflections on Our Biggest User Group Yet
 ](
 https://www.twilio.com/en-us/blog/events/twilio-segment-user-group-london-feb-2026
@@ -381,19 +386,14 @@ Send Bulk SMS With PHP and Twilio
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/send-bulk-sms-with-php-and-twilio
 ) (2026-03-06)
-- [
-How to Block Spam Calls with Twilio Voice in Node.js
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/block-spam-calls-twilio-voice-node-js
-) (2026-03-06)
 
 </details>
 
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
-- [Secure a C# MCP Server with Auth0](https://auth0.com/blog/secure-csharp-mcp-server-with-auth0/) (2026-03-12)
 - [Auth0 for AI Agents Wins the Most Innovative AI-Infrastructure Security Solution, 2026](https://auth0.com/blog/most-innovative-ai-infrastructure-security-solution-award/) (2026-03-12)
+- [Secure a C# MCP Server with Auth0](https://auth0.com/blog/secure-csharp-mcp-server-with-auth0/) (2026-03-12)
 - [Strengthening Bot Detection with JA4 Signals](https://auth0.com/blog/strengthening-bot-detection-ja4-signals/) (2026-03-10)
 - [Telesign SMS Messaging API integration is now available in the Auth0 Marketplace](https://auth0.com/blog/telesign-sms-messaging-api-auth0-marketplace/) (2026-03-10)
 - [Auth0 Fine-Grained Authorization (FGA) for Enterprise Trust](https://auth0.com/blog/fine-grained-authorization-enterprise-trust/) (2026-03-06)
@@ -557,22 +557,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-spam-calls-
 <details>
 <summary>🤖 AI News</summary>
 
+- [E.SUN Bank and IBM build AI governance framework for banking](https://www.artificialintelligence-news.com/news/e-sun-bank-and-ibm-build-ai-governance-framework-for-banking/) (2026-03-13)
+- [BMW puts humanoid robots to work in Germany–and Europe’s factories are watching](https://www.artificialintelligence-news.com/news/bmw-humanoid-robots-manufacturing-europe-leipzig/) (2026-03-13)
 - [How multi-agent AI economics influence business automation](https://www.artificialintelligence-news.com/news/how-multi-agent-ai-economics-business-automation/) (2026-03-12)
 - [FIFA is rebuilding world football operations on AI. The World Cup is just the first test](https://www.artificialintelligence-news.com/news/fifa-ai-world-cup-2026-lenovo/) (2026-03-12)
 - [Ai2: Building physical AI with virtual simulation data](https://www.artificialintelligence-news.com/news/ai2-building-physical-ai-with-virtual-simulation-data/) (2026-03-11)
-- [New partnership to offer smart robots for dangerous environments](https://www.artificialintelligence-news.com/news/new-partnership-to-offer-ai-for-robotics-for-work-in-dangerous-environments/) (2026-03-11)
-- [Manulife moves AI agents into core financial workflows](https://www.artificialintelligence-news.com/news/manulife-moves-ai-agents-into-core-financial-workflows/) (2026-03-11)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Build Agentic RAG with Hybrid Search](https://towardsdatascience.com/how-to-build-agentic-rag-with-hybrid-search/) (2026-03-13)
 - [Exploratory Data Analysis for Credit Scoring with Python](https://towardsdatascience.com/exploratory-data-analysis-for-credit-scoring-with-python/) (2026-03-12)
 - [Solving the Human Training Data Problem](https://towardsdatascience.com/solving-the-human-training-data-problem/) (2026-03-12)
 - [Scaling Vector Search: Comparing Quantization and Matryoshka Embeddings for 80% Cost Reduction](https://towardsdatascience.com/649627-2/) (2026-03-12)
 - [I Finally Built My First AI App (And It Wasn’t What I Expected)](https://towardsdatascience.com/i-finally-built-my-first-ai-app-and-it-wasnt-what-i-expected/) (2026-03-12)
-- [An Intuitive Guide to MCMC (Part I): The Metropolis-Hastings Algorithm](https://towardsdatascience.com/an-intuitive-guide-to-mcmc-part-i-the-metropolis-hastings-algorithm/) (2026-03-11)
 
 </details>
 
@@ -590,11 +590,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-spam-calls-
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Powerful Python Decorators for High-Performance Data Pipelines](https://www.kdnuggets.com/5-powerful-python-decorators-for-high-performance-data-pipelines) (2026-03-13)
 - [The 2026 Data Science Starter Kit: What to Learn First (And What to Ignore)](https://www.kdnuggets.com/the-2026-data-science-starter-kit-what-to-learn-first-and-what-to-ignore) (2026-03-12)
 - [Top 7 AI Agent Orchestration Frameworks](https://www.kdnuggets.com/top-7-ai-agent-orchestration-frameworks) (2026-03-12)
 - [Run a Real Time Speech to Speech AI Model Locally](https://www.kdnuggets.com/run-a-real-time-speech-to-speech-ai-model-locally) (2026-03-11)
 - [5 Free AI Tools to Understand Code and Generate Documentation](https://www.kdnuggets.com/5-free-ai-tools-to-understand-code-and-generate-documentation) (2026-03-11)
-- [Understanding The Cost Of One Compromised Account (Sponsored)](https://bit.ly/40nBVbe) (2026-03-10)
 
 </details>
 
