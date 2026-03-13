@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Before quantum computing arrives, this startup wants enterprises already running on it](https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/) (2026-03-13)
+- [Truecaller now lets you hang up on scammers — on behalf of your family](https://techcrunch.com/2026/03/12/truecallers-now-lets-you-hang-up-on-scammers-on-behalf-of-your-family/) (2026-03-13)
 - [How to watch Jensen Huang’s Nvidia GTC 2026 keynote](https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/) (2026-03-12)
 - [Sales automation startup Rox AI hits $1.2B valuation, sources say](https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/) (2026-03-12)
-- [Channel Surfer lets you watch YouTube like it’s old-school cable TV](https://techcrunch.com/2026/03/12/channel-surfer-lets-you-watch-youtube-like-its-old-school-cable-tv/) (2026-03-12)
-- [Why Rivian is holding the $45,000 base model R2 until ‘late 2027’](https://techcrunch.com/2026/03/12/why-rivian-is-holding-the-45000-base-model-r2-until-late-2027/) (2026-03-12)
-- [Substack launches a built-in recording studio](https://techcrunch.com/2026/03/12/substack-launches-a-built-in-recording-studio/) (2026-03-12)
+- [Channel Surfer lets you watch YouTube like it’s old-school cable TV](https://techcrunch.com/2026/03/12/channel-surfer-watch-youtube-retro-cable-tv-guide/) (2026-03-12)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Tennessee grandmother jailed after AI face recognition error links her to fraud](https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud) (2026-03-13)
-- [Shall I implement it? No](https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0) (2026-03-12)
-- [Innocent woman jailed after being misidentified using AI facial recognition](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case) (2026-03-12)
-- [Runners who churn butter on their runs](https://www.runnersworld.com/news/a70683169/how-to-make-butter-while-running/) (2026-03-12)
-- [Launch HN: IonRouter (YC W26) – High-throughput, low-cost inference](https://ionrouter.io) (2026-03-12)
+- [Lost Doctor Who Episodes Found](https://www.bbc.co.uk/news/articles/c4g7kwq1k11o) (2026-03-13)
+- [Show HN: Global Maritime Chokepoints](https://ryanshook.org/chokepoints/) (2026-03-13)
+- [Vite 8.0 Is Out](https://vite.dev/blog/announcing-vite8) (2026-03-13)
+- [Hyperlinks in Terminal Emulators](https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda) (2026-03-13)
+- [Can you instruct a robot to make a PBJ sandwich?](https://pbj.deliberateinc.com/) (2026-03-13)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Open source for awkward robots](https://stackoverflow.blog/2026/03/13/open-source-for-awkward-robots/) (2026-03-13)
 - [The context problem: Why enterprise AI needs more than foundation models](https://stackoverflow.blog/2026/03/12/enterprise-ai-needs-more-than-foundation-models/) (2026-03-12)
 - [Even the chip makers are making LLMs](https://stackoverflow.blog/2026/03/10/even-the-chip-makers-are-making-llms/) (2026-03-10)
 - [Organizing productive platform teams](https://stackoverflow.blog/2026/03/09/organizing-productive-platform-teams/) (2026-03-09)
 - [Building brains for bulldozers](https://stackoverflow.blog/2026/03/06/building-brains-for-bulldozers/) (2026-03-06)
-- [DeveloperWeek 2026: Making AI tools that are actually good ](https://stackoverflow.blog/2026/03/05/developerweek-2026/) (2026-03-05)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [🚀 I Built My First Full-Stack E-commerce Website – ShopKart](https://dev.to/takshil_pandya_d8453c036d/i-built-my-first-full-stack-e-commerce-website-shopkart-k09) (2026-03-13)
-- [Crazyrouter vs LiteLLM: Managed Gateway vs Self-Hosted Proxy (2026 Comparison)](https://dev.to/xujfcn/crazyrouter-vs-litellm-managed-gateway-vs-self-hosted-proxy-2026-comparison-57gm) (2026-03-13)
-- [Crazyrouter vs OpenRouter in 2026: Which AI API Gateway Should You Choose?](https://dev.to/xujfcn/crazyrouter-vs-openrouter-in-2026-which-ai-api-gateway-should-you-choose-1h9j) (2026-03-13)
-- [Happy Pi Day!](https://dev.to/aaron_rose_0787cc8b4775a0/happy-pi-day-10df) (2026-03-13)
-- [From 3-Minute Cold Starts to ~20 Seconds: Whisper on AWS Lambda + EFS for OpenClaw](https://dev.to/aws-builders/from-3-minute-cold-starts-to-20-seconds-whisper-on-aws-lambda-efs-for-openclaw-9c5) (2026-03-13)
+- [DOD Principles in C++: Part 1. Struct Optimization](https://dev.to/zem_code/dod-principles-in-c-part-1-struct-optimization-1anm) (2026-03-13)
+- [Android Crash Monitoring: A Complete Troubleshooting Flow for Production Environment Crashes](https://dev.to/observabilityguy/android-crash-monitoring-a-complete-troubleshooting-flow-for-production-environment-crashes-oo3) (2026-03-13)
+- [I'm Jiyu, CTO of Lawmadi OS — The Technical Architecture Behind Real-Time Legal Verification](https://dev.to/peter_choe_74edfaa33306ed/im-jiyu-cto-of-lawmadi-os-the-technical-architecture-behind-real-time-legal-verification-49id) (2026-03-13)
+- [Stop Bottlenecking Your Code: The Engineering Behind Choosing a Hard Drive Enclosure for SSD](https://dev.to/wixom/stop-bottlenecking-your-code-the-engineering-behind-choosing-a-hard-drive-enclosure-for-ssd-41dl) (2026-03-13)
+- [Best Postman Alternative in 2026: Faster API Client for Developers](https://dev.to/requestly/best-postman-alternative-in-2026-faster-api-client-for-developers-40in) (2026-03-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Classic RAG Was the Beginning. Production AI Is Moving to Agentic RAG](https://madhankarthik30.medium.com/classic-rag-was-the-beginning-production-ai-is-moving-to-agentic-rag-16937031b297?source=rss------programming-5) (2026-03-13)
-- [ 6 Myths About Colonoscopy Doctors Want You to Know — And the Real Facts ‍♀️](https://medium.com/@Sonakshee/6-myths-about-colonoscopy-doctors-want-you-to-know-and-the-real-facts-%EF%B8%8F-c0ab232df31c?source=rss------programming-5) (2026-03-13)
-- [Creating Tools & Utilities for Desktop Workflows with SavvyUI](https://medium.com/@mawaly2000/creating-tools-utilities-for-desktop-workflows-with-savvyui-65ed4c337d65?source=rss------programming-5) (2026-03-13)
-- [Build a Data Dashboard with SavvyUI: Charts, Filters & Tabs](https://medium.com/@mawaly2000/build-a-data-dashboard-with-savvyui-charts-filters-tabs-817504e166f5?source=rss------programming-5) (2026-03-13)
-- [Coder and the Codesmith](https://medium.com/@baber.aykhan/coder-and-the-codesmith-b4a81653e3a2?source=rss------programming-5) (2026-03-13)
+- [GitHub Repo එක Public කළාට, ඒක ඇත්තටම “Open Source” ද?](https://medium.com/@dimuthulk/github-repo-%E0%B6%91%E0%B6%9A-public-%E0%B6%9A%E0%B7%85%E0%B7%8F%E0%B6%A7-%E0%B6%92%E0%B6%9A-%E0%B6%87%E0%B6%AD%E0%B7%8A%E0%B6%AD%E0%B6%A7%E0%B6%B8-open-source-%E0%B6%AF-2172450a630a?source=rss------programming-5) (2026-03-13)
+- [Azure IaaS Platform Security Deep Dive: Keys, Compute, Storage, and Network Defense in Depth](https://medium.com/@daverendon/azure-iaas-platform-security-deep-dive-keys-compute-storage-and-network-defense-in-depth-40c4c7903279?source=rss------programming-5) (2026-03-13)
+- [Junior Devs Use try-catch Everywhere. Senior Devs Use These 4 Exception Handling Patterns](https://medium.com/@shabanajasmin/junior-devs-use-try-catch-everywhere-senior-devs-use-these-4-exception-handling-patterns-6f47284aed22?source=rss------programming-5) (2026-03-13)
+- [Akhuwat loans bank foundation 03447720597](https://medium.com/@habibbabar607/akhuwat-loans-bank-foundation-03447720597-7e4c2687ddc5?source=rss------programming-5) (2026-03-13)
+- [9 Proven Strategies to Build a Conversational AI Chatbot That Actually Converts (Without Burning…](https://medium.com/@mscode07/9-proven-strategies-to-build-a-conversational-ai-chatbot-that-actually-converts-without-burning-2a8471e09369?source=rss------programming-5) (2026-03-13)
 
 </details>
 
@@ -152,7 +152,7 @@
 <details>
 <summary>🍎 Apple Developer News</summary>
 
-- [Adjustments to the China storefront of the App Store on iOS and iPadOS](https://developer.apple.com/news/?id=dadukodv) (2026-03-12)
+- [Adjustments to the China storefront of the App Store on iOS and iPadOS](https://developer.apple.com/news/?id=dadukodv) (2026-03-13)
 - [Hello Developer: March 2026](https://developer.apple.com/news/?id=zmqipz05) (2026-03-03)
 - [Age requirements for apps distributed in Brazil, Australia, Singapore, Utah, and Louisiana](https://developer.apple.com/news/?id=f5zj08ey) (2026-02-24)
 - [Get ready with the latest beta releases](https://developer.apple.com/news/?id=xgkk9w83) (2026-02-16)
