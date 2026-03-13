@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [How to watch Jensen Huang’s Nvidia GTC 2026 keynote](https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/) (2026-03-12)
+- [Sales automation startup Rox AI hits $1.2B valuation, sources say](https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/) (2026-03-12)
+- [Channel Surfer lets you watch YouTube like it’s old-school cable TV](https://techcrunch.com/2026/03/12/channel-surfer-lets-you-watch-youtube-like-its-old-school-cable-tv/) (2026-03-12)
+- [Why Rivian is holding the $45,000 base model R2 until ‘late 2027’](https://techcrunch.com/2026/03/12/why-rivian-is-holding-the-45000-base-model-r2-until-late-2027/) (2026-03-12)
 - [Substack launches a built-in recording studio](https://techcrunch.com/2026/03/12/substack-launches-a-built-in-recording-studio/) (2026-03-12)
-- [Facebook Marketplace now lets Meta AI respond to buyers’ messages](https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/) (2026-03-12)
-- [Tinder tries to lure people back to online dating with IRL events, virtual speed dating](https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/) (2026-03-12)
-- [Atlassian follows Block’s footsteps and cuts staff in the name of AI](https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/) (2026-03-12)
-- [Lucid Motors shows off robotaxi concept called ‘Lunar’](https://techcrunch.com/2026/03/12/lucid-motors-shows-off-robotaxi-concept-called-lunar/) (2026-03-12)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: Aurion OS – A 32-bit GUI operating system written from scratch in C](https://github.com/Luka12-dev/AurionOS) (2026-03-12)
-- [Scrt: A CLI secret manager for developers, sysadmins and DevOps](https://github.com/loderunner/scrt) (2026-03-12)
-- [Contextual commits – An open standard for capturing the why in Git history](https://vidimitrov.substack.com/p/contextual-commits-an-open-standard) (2026-03-12)
-- [Bubble Sorted Amen Break](https://parametricavocado.itch.io/amen-sorting) (2026-03-12)
-- [Apple's MacBook Neo makes repairs easier and cheaper than other MacBooks](https://arstechnica.com/gadgets/2026/03/more-modular-design-makes-macbook-neo-easier-to-fix-than-other-apple-laptops/) (2026-03-12)
+- [Tennessee grandmother jailed after AI face recognition error links her to fraud](https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud) (2026-03-13)
+- [Shall I implement it? No](https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0) (2026-03-12)
+- [Innocent woman jailed after being misidentified using AI facial recognition](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case) (2026-03-12)
+- [Runners who churn butter on their runs](https://www.runnersworld.com/news/a70683169/how-to-make-butter-while-running/) (2026-03-12)
+- [Launch HN: IonRouter (YC W26) – High-throughput, low-cost inference](https://ionrouter.io) (2026-03-12)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [KPop Demon Hunters is getting a sequel, obviously.](https://www.theverge.com/entertainment/894014/kpop-demon-hunters-sequel) (2026-03-12)
-- [Facebook Marketplace adds AI auto-replies for annoying ‘Is this still available?’ messages](https://www.theverge.com/tech/893907/facebook-marketplace-ai-auto-reply-listings) (2026-03-12)
-- [Gemini’s task automation is here and it’s wild](https://www.theverge.com/tech/893820/gemini-task-automation-samsung-s26-google-pixel-10) (2026-03-12)
-- [Google’s TV Streamer 4K doubles as a smart home hub and it’s on sale](https://www.theverge.com/gadgets/893822/google-tv-streamer-4k-oscars-march-madness-deal-sale) (2026-03-12)
-- [Anthropic&#8217;s Claude AI can respond with charts, diagrams, and other visuals now](https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams) (2026-03-12)
+- [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers) (2026-03-12)
+- [Google Chrome is coming to Arm-powered Linux devices later this year](https://www.theverge.com/tech/894095/google-chrome-for-arm-linux) (2026-03-12)
+- [What it was like to watch grieving parents stare down Mark Zuckerberg in court](https://www.theverge.com/policy/893930/social-media-addiction-trial-los-angeles-zuckerberg-instagram-youtube) (2026-03-12)
+- [The original AirTag is the cheapest it’s ever been](https://www.theverge.com/gadgets/894007/apple-airtag-first-generation-deal-sale) (2026-03-12)
+- [KPop Demon Hunters is getting a sequel, obviously](https://www.theverge.com/entertainment/894014/kpop-demon-hunters-sequel) (2026-03-12)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [The who, what, and why of the attack that has shut down Stryker's Windows network](https://arstechnica.com/security/2026/03/whats-known-about-wiper-attack-on-stryker-a-major-supplier-of-lifesaving-devices/) (2026-03-12)
+- [Live Nation director boasted of gouging ticket buyers, "robbing them blind"](https://arstechnica.com/tech-policy/2026/03/live-nation-director-boasted-of-gouging-ticket-buyers-robbing-them-blind/) (2026-03-12)
+- [HP has new incentive to stop blocking third-party ink in its printers](https://arstechnica.com/gadgets/2026/03/hp-has-new-incentive-to-stop-blocking-third-party-ink-in-its-printers/) (2026-03-12)
+- [Trump's DOJ is not falling for Sam Bankman-Fried's MAGA makeover on X](https://arstechnica.com/tech-policy/2026/03/trumps-doj-is-not-falling-for-sam-bankman-frieds-maga-makeover-on-x/) (2026-03-12)
 - [Lucid announces midsize EV platform, says profitability lies with SUVs](https://arstechnica.com/cars/2026/03/lucid-announces-midsize-ev-platform-says-profitability-lies-with-suvs/) (2026-03-12)
-- [Perplexity's "Personal Computer" brings its AI agents to the, uh, Personal Computer](https://arstechnica.com/ai/2026/03/perplexitys-personal-computer-brings-its-ai-agents-to-the-uh-personal-computer/) (2026-03-12)
-- [Centuries before the Inca, Peru's wealthy imported parrots from afar](https://arstechnica.com/science/2026/03/centuries-before-the-inca-perus-wealthy-imported-parrots-from-afar/) (2026-03-12)
-- [Apple's MacBook Neo makes repairs easier and cheaper than other MacBooks](https://arstechnica.com/gadgets/2026/03/more-modular-design-makes-macbook-neo-easier-to-fix-than-other-apple-laptops/) (2026-03-12)
-- [Valve compares its loot boxes to Labubus in lawsuit defense](https://arstechnica.com/gaming/2026/03/valve-compares-its-loot-boxes-to-labubus-in-lawsuit-defense/) (2026-03-12)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [A defense official reveals how AI chatbots could be used for targeting decisions](https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/) (2026-03-12)
 - [The Download: Early adopters cash in on China’s OpenClaw craze, and US batteries slump](https://www.technologyreview.com/2026/03/12/1134207/the-download-china-openclaw-ai-craze-us-battery-industry-downturn/) (2026-03-12)
 - [Pragmatic by design: Engineering AI for the real world](https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/) (2026-03-12)
 - [Brutal times for the US battery industry](https://www.technologyreview.com/2026/03/12/1134197/us-battery-industry/) (2026-03-12)
 - [Hustlers are cashing in on China’s OpenClaw AI craze](https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/) (2026-03-11)
-- [The Download: Pokémon Go to train world models, and the US-China race to find aliens](https://www.technologyreview.com/2026/03/11/1134174/the-download-pokemon-go-train-world-models-us-china-race-find-aliens/) (2026-03-11)
 
 </details>
 
@@ -97,44 +97,44 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Build a Creator Discovery Engine with Node.js and SociaVault](https://dev.to/olams/build-a-creator-discovery-engine-with-nodejs-and-sociavault-4175) (2026-03-12)
-- [Convert Images to SVG in Python Using vtracer 🚀](https://dev.to/ramya_thirunavukkarasu_0a/convert-images-to-svg-in-python-using-vtracer-ide) (2026-03-12)
-- [I built a Prometheus exporter for Docker Compose health monitoring](https://dev.to/kernelghost557/i-built-a-prometheus-exporter-for-docker-compose-health-monitoring-1hpb) (2026-03-12)
-- [I Connected Claude AI to Freqtrade in 5 Lines of Code published: true.](https://dev.to/pulse_protocol_842706b157/i-connected-claude-ai-to-freqtrade-in-5-lines-of-codepublished-true-29ce) (2026-03-12)
-- [Building Production Email Infrastructure with Postfix + AWS SES: Architecture & Design](https://dev.to/cyrilsebastian/building-production-email-infrastructure-with-postfix-aws-ses-architecture-design-32k3) (2026-03-12)
+- [🚀 I Built My First Full-Stack E-commerce Website – ShopKart](https://dev.to/takshil_pandya_d8453c036d/i-built-my-first-full-stack-e-commerce-website-shopkart-k09) (2026-03-13)
+- [Crazyrouter vs LiteLLM: Managed Gateway vs Self-Hosted Proxy (2026 Comparison)](https://dev.to/xujfcn/crazyrouter-vs-litellm-managed-gateway-vs-self-hosted-proxy-2026-comparison-57gm) (2026-03-13)
+- [Crazyrouter vs OpenRouter in 2026: Which AI API Gateway Should You Choose?](https://dev.to/xujfcn/crazyrouter-vs-openrouter-in-2026-which-ai-api-gateway-should-you-choose-1h9j) (2026-03-13)
+- [Happy Pi Day!](https://dev.to/aaron_rose_0787cc8b4775a0/happy-pi-day-10df) (2026-03-13)
+- [From 3-Minute Cold Starts to ~20 Seconds: Whisper on AWS Lambda + EFS for OpenClaw](https://dev.to/aws-builders/from-3-minute-cold-starts-to-20-seconds-whisper-on-aws-lambda-efs-for-openclaw-9c5) (2026-03-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Modern C++ Memory Management: Smart Pointers, RAII, and Move Semantics](https://medium.com/@abhiramdodda/modern-c-memory-management-smart-pointers-raii-and-move-semantics-545f135cb365?source=rss------programming-5) (2026-03-12)
-- [FTPS Certificate Error: 7 Real Causes (And How to Fix Them)](https://medium.com/@0xJake/ftps-certificate-error-7-real-causes-and-how-to-fix-them-fe3212ca6907?source=rss------programming-5) (2026-03-12)
-- [Part 1: Angular Signals — When to Use Them](https://santoshshelar.medium.com/part-1-angular-signals-when-to-use-them-f8b13cdac1a9?source=rss------programming-5) (2026-03-12)
-- [Repository Pattern With Entity Framework Core | Clean Architecture](https://medium.com/@michaelmaurice410/repository-pattern-with-entity-framework-core-clean-architecture-14eaf4584398?source=rss------programming-5) (2026-03-12)
-- [OR or |](https://dleybz.medium.com/or-or-47852de38bf8?source=rss------programming-5) (2026-03-12)
+- [Classic RAG Was the Beginning. Production AI Is Moving to Agentic RAG](https://madhankarthik30.medium.com/classic-rag-was-the-beginning-production-ai-is-moving-to-agentic-rag-16937031b297?source=rss------programming-5) (2026-03-13)
+- [ 6 Myths About Colonoscopy Doctors Want You to Know — And the Real Facts ‍♀️](https://medium.com/@Sonakshee/6-myths-about-colonoscopy-doctors-want-you-to-know-and-the-real-facts-%EF%B8%8F-c0ab232df31c?source=rss------programming-5) (2026-03-13)
+- [Creating Tools & Utilities for Desktop Workflows with SavvyUI](https://medium.com/@mawaly2000/creating-tools-utilities-for-desktop-workflows-with-savvyui-65ed4c337d65?source=rss------programming-5) (2026-03-13)
+- [Build a Data Dashboard with SavvyUI: Charts, Filters & Tabs](https://medium.com/@mawaly2000/build-a-data-dashboard-with-savvyui-charts-filters-tabs-817504e166f5?source=rss------programming-5) (2026-03-13)
+- [Coder and the Codesmith](https://medium.com/@baber.aykhan/coder-and-the-codesmith-b4a81653e3a2?source=rss------programming-5) (2026-03-13)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Introducing account regional namespaces for Amazon S3 general purpose buckets](https://aws.amazon.com/blogs/aws/introducing-account-regional-namespaces-for-amazon-s3-general-purpose-buckets/) (2026-03-12)
 - [AWS Weekly Roundup: Amazon Connect Health, Bedrock AgentCore Policy, GameDay Europe, and more (March 9, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-connect-health-bedrock-agentcore-policy-gameday-europe-and-more-march-9-2026/) (2026-03-09)
 - [Introducing OpenClaw on Amazon Lightsail to run your autonomous private AI agents](https://aws.amazon.com/blogs/aws/introducing-openclaw-on-amazon-lightsail-to-run-your-autonomous-private-ai-agents/) (2026-03-04)
 - [AWS Weekly Roundup: OpenAI partnership, AWS Elemental Inference, Strands Labs, and more (March 2, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-partnership-aws-elemental-inference-strands-labs-and-more-march-2-2026/) (2026-03-02)
 - [AWS Security Hub Extended offers full-stack enterprise security with curated partner solutions](https://aws.amazon.com/blogs/aws/aws-security-hub-extended-offers-full-stack-enterprise-security-with-curated-partner-solutions/) (2026-02-26)
-- [Transform live video for mobile audiences with AWS Elemental Inference](https://aws.amazon.com/blogs/aws/transform-live-video-for-mobile-audiences-with-aws-elemental-inference/) (2026-02-24)
 
 </details>
 
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry](https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/) (2026-03-06)
+- [Introducing GPT-5.4 in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785) (2026-03-05)
 - [Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure](https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/) (2026-03-04)
 - [Unlocking document understanding with Mistral Document AI in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664) (2026-03-03)
 - [Instant access incremental snapshots: Restore without waiting](https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/) (2026-03-02)
-- [Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected](http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog) (2026-02-24)
-- [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
 
 </details>
 
@@ -152,11 +152,11 @@
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [Adjustments to the China storefront of the App Store on iOS and iPadOS](https://developer.apple.com/news/?id=dadukodv) (2026-03-12)
 - [Hello Developer: March 2026](https://developer.apple.com/news/?id=zmqipz05) (2026-03-03)
 - [Age requirements for apps distributed in Brazil, Australia, Singapore, Utah, and Louisiana](https://developer.apple.com/news/?id=f5zj08ey) (2026-02-24)
 - [Get ready with the latest beta releases](https://developer.apple.com/news/?id=xgkk9w83) (2026-02-16)
 - [Updated App Review Guidelines now available](https://developer.apple.com/news/?id=d75yllv4) (2026-02-06)
-- [Swift Student Challenge submissions are now open](https://developer.apple.com/news/?id=f0xw4t5r) (2026-02-06)
 
 </details>
 
@@ -229,22 +229,22 @@
 <details>
 <summary>🏠 Airbnb Engineering</summary>
 
+- [Recommending Travel Destinations to Help Users Explore](https://medium.com/airbnb-engineering/recommending-travel-destinations-to-help-users-explore-5fa7a81654fb?source=rss----53c7c27702d5---4) (2026-03-12)
 - [It Wasn’t a Culture Problem: Upleveling Alert Development at Airbnb](https://medium.com/airbnb-engineering/it-wasnt-a-culture-problem-upleveling-alert-development-at-airbnb-01e2290eb0f5?source=rss----53c7c27702d5---4) (2026-03-04)
 - [Academic Publications & Airbnb Tech: 2025 Year in Review](https://medium.com/airbnb-engineering/academic-publications-airbnb-tech-2025-year-in-review-7d79f57d3b52?source=rss----53c7c27702d5---4) (2026-02-24)
 - [Safeguarding Dynamic Configuration Changes at Scale](https://medium.com/airbnb-engineering/safeguarding-dynamic-configuration-changes-at-scale-5aca5222ed68?source=rss----53c7c27702d5---4) (2026-02-18)
 - [My Journey to Airbnb — Anna Sulkina](https://medium.com/airbnb-engineering/my-journey-to-airbnb-anna-sulkina-85216183d094?source=rss----53c7c27702d5---4) (2026-02-11)
-- [My Journey to Airbnb: Peter Coles](https://medium.com/airbnb-engineering/my-journey-to-airbnb-peter-coles-0e8efd01c5a8?source=rss----53c7c27702d5---4) (2026-01-28)
 
 </details>
 
 <details>
 <summary>🎵 Spotify Engineering</summary>
 
+- [Inside the Archive: The Tech Behind Your 2025 Wrapped Highlights](https://engineering.atspotify.com/2026/3/inside-the-archive-2025-wrapped/) (2026-03-12)
 - [Our Multi-Agent Architecture for Smarter Advertising](https://engineering.atspotify.com/2026/2/our-multi-agent-architecture-for-smarter-advertising/) (2026-02-19)
 - [How We Release the Spotify App: A Look Under the Hood (Part 2)](https://engineering.atspotify.com/2026/2/how-we-release-the-spotify-app-part-2/) (2026-02-09)
 - [Congratulations to the recipients of the 2025 Spotify FOSS Fund](https://engineering.atspotify.com/2026/1/congratulations-to-the-recipients-of-the-2025-spotify-foss-fund/) (2026-01-22)
 - [Why We Use Separate Tech Stacks for Personalization and Experimentation](https://engineering.atspotify.com/2026/1/why-we-use-separate-tech-stacks-for-personalization-and-experimentation/) (2026-01-07)
-- [Background Coding Agents: Predictable Results Through Strong Feedback Loops (Honk, Part 3)](https://engineering.atspotify.com/2025/12/feedback-loops-background-coding-agents-part-3/) (2025-12-09)
 
 </details>
 
@@ -362,6 +362,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Community, AI in Action, and Twilio News: Reflections on Our Biggest User Group Yet
+](
+https://www.twilio.com/en-us/blog/events/twilio-segment-user-group-london-feb-2026
+) (2026-03-11)
+- [
 Customer lifetime value: formula, calculation & examples
 ](
 https://www.twilio.com/en-us/blog/insights/customer-lifetime-value-clv
@@ -381,11 +386,6 @@ How to Block Spam Calls with Twilio Voice in Node.js
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/block-spam-calls-twilio-voice-node-js
 ) (2026-03-06)
-- [
-13 email marketing KPIs to watch closely in 2026
-](
-https://www.twilio.com/en-us/blog/insights/13-email-marketing-kpis-to-watch-closely-in-2024
-) (2026-03-02)
 
 </details>
 
@@ -546,7 +546,7 @@ https://www.twilio.com/en-us/blog/insights/13-email-marketing-kpis-to-watch-clos
 <details>
 <summary>🤗 Hugging Face</summary>
 
-- [How NVIDIA AI-Q Reached \#1 on DeepResearch Bench I and II ](https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench) (2026-03-12)
+- [Build an Agent That Thinks Like a Data Scientist: How We Hit #1 on DABStep with Reusable Tool Generation](https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place) (2026-03-13)
 - [Introducing Storage Buckets on the Hugging Face Hub](https://huggingface.co/blog/storage-buckets) (2026-03-10)
 - [Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries](https://huggingface.co/blog/async-rl-training-landscape) (2026-03-10)
 - [Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge](https://huggingface.co/blog/ibm-granite/granite-4-speech) (2026-03-09)
