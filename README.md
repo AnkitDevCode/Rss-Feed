@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Honda is killing its EVs — and any chance of competing in the future](https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/) (2026-03-14)
+- [Meta reportedly considering layoffs that could affect 20% of the company](https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/) (2026-03-14)
+- [As people look for ways to make new friends, here are the apps promising to help](https://techcrunch.com/2026/03/14/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/) (2026-03-14)
+- [How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others](https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/) (2026-03-14)
 - [‘Not built right the first time’ — Musk’s xAI is starting over again, again](https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/) (2026-03-14)
-- [Lawyer behind AI psychosis cases warns of mass casualty risks](https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/) (2026-03-14)
-- [Digg lays off staff and shuts down app as company retools](https://techcrunch.com/2026/03/13/digg-lays-off-staff-and-shuts-down-app-as-company-retools/) (2026-03-13)
-- [Nyne, founded by a father-son duo, gives AI agents the human context they’re missing](https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/) (2026-03-13)
-- [Facebook makes it easier for creators to report impersonators](https://techcrunch.com/2026/03/13/facebook-makes-it-easier-for-creators-to-report-impersonators/) (2026-03-13)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Image generation models can think](https://medium.com/seeds-for-the-future/nano-banana-2-image-generators-can-now-think-462a017a95c1) (2026-03-14)
-- [XML Is a Cheap DSL](https://unplannedobsolescence.com/blog/xml-cheap-dsl/) (2026-03-14)
-- [Claude Code conducts A/B tests on core features](https://backnotprop.com/blog/do-not-ab-test-my-workflow/) (2026-03-14)
-- [How Lego builds a new Lego set](https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price) (2026-03-14)
-- [RAM kits are now sold with one fake RAM stick alongside a real one](https://www.tomshardware.com/pc-components/ram/fake-ram-bundled-with-real-ram-to-create-a-performance-illusion-for-amd-users-1-1-value-pack-offers-desperate-psychological-relief-as-the-memory-shortage-worsens) (2026-03-14)
+- [Sunsetting Jazzband](https://jazzband.co/news/2026/03/14/sunsetting-jazzband) (2026-03-14)
+- [What happens when US economic data becomes unreliable](https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable) (2026-03-14)
+- [UBI Is Your Productivity Dividend – The Only Way to All Share What We All Built](https://scottsantens.substack.com/p/universal-basic-income-is-your-productivity) (2026-03-14)
+- [NMAP in the Movies](https://nmap.org/movies/) (2026-03-14)
+- [Show HN: Learn Arabic with spaced repetition and comprehensible input](https://abjadpro.com) (2026-03-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Samsung Galaxy S26 Ultra review: show off](https://www.theverge.com/tech/893936/samsung-galaxy-s26-ultra-review-show-off) (2026-03-14)
-- [5 great indie games from GDC 2026](https://www.theverge.com/games/894511/gdc-2026-best-indie-games) (2026-03-14)
-- [Wordle’s creator made a fun new puzzle game](https://www.theverge.com/tech/894586/wordle-parseword-sonos-play-installer) (2026-03-14)
-- [European retailers yank popular headphones after study reports trace amounts of hormone-disrupting chemicals](https://www.theverge.com/science/894771/headphones-hormone-disrupting-chemicals-study) (2026-03-14)
-- [States’ anti-monopoly case against Live Nation continues Monday](https://www.theverge.com/policy/894851/states-live-nation-monopoly-trial) (2026-03-13)
+- [Hulu, Disney Plus, and the Pixel Watch 4 are among this week’s best deals](https://www.theverge.com/gadgets/894699/hulu-disney-plus-subscription-oscars-google-pixel-watch-4-deal-sale) (2026-03-14)
+- [Prediction markets want the Oscars to be your gateway drug to betting on everything](https://www.theverge.com/entertainment/894878/oscars-2026-kalshi-sinners-one-battle-after-anothers-marty-supreme-baftas-gambling) (2026-03-14)
+- [MacBook Air M5 review: a small update for the ‘just right’ Mac](https://www.theverge.com/tech/894866/apple-macbook-air-m5-15-2026-laptop-review) (2026-03-14)
+- [A Scavengers Reign artist explores contemplative sci-fi in new comics](https://www.theverge.com/entertainment/894514/jonathan-djob-nkondo-artist-interview-kickstarter-scavengers-reign) (2026-03-14)
+- [Asus’ new open earbuds are a wonderful companion for handheld gaming](https://www.theverge.com/tech/893765/asus-cetra-open-wireless-gaming-earbuds-hands-on-impressions) (2026-03-14)
 
 </details>
 
@@ -97,23 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I tracked every expense for a year as a UK freelancer. Here's what surprised me.](https://dev.to/landolio/i-tracked-every-expense-for-a-year-as-a-uk-freelancer-heres-what-surprised-me-3l7n) (2026-03-14)
-- [Building a Movie Recommendation API with Spring Boot 🎬](https://dev.to/alejandrotg-code/building-a-movie-recommendation-api-with-spring-boot-162b) (2026-03-14)
-- [Frontend System Design: Communication Protocols & Real-Time Data](https://dev.to/zeeshanali0704/frontend-system-design-communication-protocols-real-time-data-h7h) (2026-03-14)
-- [Linking Two Research Papers to Real AI Applications](https://dev.to/abbas__ahmed/linking-two-research-papers-to-real-ai-applications-3674) (2026-03-14)
-- [WordPress vs Hugo: Which Should You Self-Host?](https://dev.to/selfhostingsh/wordpress-vs-hugo-which-should-you-self-host-17c5) (2026-03-14)
+- [AI Research](https://dev.to/muhammad_zaheeb_16d03ccaa/ai-research-26mo) (2026-03-14)
+- [Pocketbase Vs Appwrite](https://dev.to/selfhostingsh/pocketbase-vs-appwrite-4jdf) (2026-03-14)
+- [Analysis Of Research Paper](https://dev.to/abbas_c3296322e33f/analysis-of-research-paper-1p2a) (2026-03-14)
+- [TLDR; ReactJS project initialization with Tailwind CSS and Shadcn using Vite](https://dev.to/thechaudhrysab/tldr-reactjs-project-initialization-with-tailwind-css-and-shadcn-using-vite-4g0f) (2026-03-14)
+- [The Art of the Code Review: More Than Just Bug Hunting](https://dev.to/softcypherbyte/the-art-of-the-code-review-more-than-just-bug-hunting-4hb4) (2026-03-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [What Actually Happens When You Open a Mobile App](https://kawaldeepsingh.medium.com/what-actually-happens-when-you-open-a-mobile-app-f039938285b1?source=rss------programming-5) (2026-03-14)
-- [4. Cigarette smokers problem](https://medium.com/@ankitsharma61016/4-cigarette-smokers-problem-2a99edc435ad?source=rss------programming-5) (2026-03-14)
-- [RHAPSODY OF REALITIES - 14TH MARCH 2026
-"The increased knowledge of God’s Word is so important for…](https://medium.com/@folajeff/rhapsody-of-realities-14th-march-2026-the-increased-knowledge-of-gods-word-is-so-important-for-dc70f2563d26?source=rss------programming-5) (2026-03-14)
-- [Fine-Tuning OpenClaw Tutorial: How to Go from Install to Multi-Agent in a Single Evening](https://medium.com/@virtualik/fine-tuning-openclaw-tutorial-how-to-go-from-install-to-multi-agent-in-a-single-evening-b559bc2d2f53?source=rss------programming-5) (2026-03-14)
-- [I Built a Production-Ready API in 15 Minutes Using Only JavaScript (Here’s the Exact Setup)](https://javascript.plainenglish.io/i-built-a-production-ready-api-in-15-minutes-using-only-javascript-heres-the-exact-setup-91fd9a83c8fe?source=rss------programming-5) (2026-03-14)
+- [Queue Dalam Python](https://medium.com/@sivanuraini0407/queue-dalam-python-956f97400673?source=rss------programming-5) (2026-03-14)
+- [I Replaced My Spring Boot Architecture After Boot 4 — Here’s What Was Embarrassingly Wrong](https://medium.com/@the_atomic_architect/spring-boot-4-architecture-mistakes-1b20cb7e6eba?source=rss------programming-5) (2026-03-14)
+- [Docker Images vs Docker Containers](https://medium.com/@vaibhavj7798/docker-images-vs-docker-containers-7ce17cd8f427?source=rss------programming-5) (2026-03-14)
+- [The Most Underrated Programming Language I Ever Tried: Why Go Is Surprisingly Fun](https://towardsdev.com/the-most-underrated-programming-language-i-ever-tried-why-go-is-surprisingly-fun-c7ed61f9f8c8?source=rss------programming-5) (2026-03-14)
+- [Stop Using ChatGPT Like Google: The Smarter Way to Use AI in Business](https://medium.com/write-a-catalyst/stop-using-chatgpt-like-google-the-smarter-way-to-use-ai-in-business-d92777ae6706?source=rss------programming-5) (2026-03-14)
 
 </details>
 
@@ -131,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Unpacking your top questions on agentic AI: The Shift podcast](https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/) (2026-03-09)
+- [The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry](https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/) (2026-03-06)
+- [Introducing GPT-5.4 in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785) (2026-03-05)
 - [Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure](https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/) (2026-03-04)
 - [Unlocking document understanding with Mistral Document AI in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664) (2026-03-03)
-- [Instant access incremental snapshots: Restore without waiting](https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/) (2026-03-02)
-- [Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected](http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog) (2026-02-24)
-- [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
 
 </details>
 
@@ -569,11 +568,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/send-bulk-sms-with-php-an
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Multi-Agent Trap](https://towardsdatascience.com/the-multi-agent-trap/) (2026-03-14)
+- [The Current Status of The Quantum Software Stack](https://towardsdatascience.com/the-current-status-of-the-quantum-software-stack/) (2026-03-14)
 - [Why Care About Prompt Caching in LLMs?](https://towardsdatascience.com/why-care-about-promp-caching-in-llms/) (2026-03-13)
 - [How Vision Language Models Are Trained from “Scratch”](https://towardsdatascience.com/how-vision-language-models-are-trained-from-scratch/) (2026-03-13)
 - [Personalized Restaurant Ranking with a Two-Tower Embedding Variant](https://towardsdatascience.com/personalized-restaurant-ranking-with-a-two-tower-embedding-variant/) (2026-03-13)
-- [A Tale of Two Variances: Why NumPy and Pandas Give Different Answers](https://towardsdatascience.com/a-tale-of-two-variances-why-numpy-and-pandas-give-different-answers/) (2026-03-13)
-- [How to Build Agentic RAG with Hybrid Search](https://towardsdatascience.com/how-to-build-agentic-rag-with-hybrid-search/) (2026-03-13)
 
 </details>
 
