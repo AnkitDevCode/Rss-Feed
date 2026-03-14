@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [The wild six weeks for NanoClaw’s creator that led to a deal with Docker](https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/) (2026-03-13)
-- [Spotify will let you edit your Taste Profile to control your recommendations](https://techcrunch.com/2026/03/13/spotify-will-let-you-edit-your-taste-profile-to-control-your-recommendations/) (2026-03-13)
-- [The $32B acquisition that one VC is calling the ‘Deal of the Decade’](https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/) (2026-03-13)
-- [Apple drops commission rates in China without a fuss](https://techcrunch.com/2026/03/13/apple-drops-commission-rates-in-china-25-percent/) (2026-03-13)
-- [The FBI is investigating malware hidden inside games hosted on Steam](https://techcrunch.com/2026/03/13/valve-steam-malware-games-fbi/) (2026-03-13)
+- [‘Not built right the first time’ — Musk’s xAI is starting over again, again](https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/) (2026-03-14)
+- [Lawyer behind AI psychosis cases warns of mass casualty risks](https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/) (2026-03-14)
+- [Digg lays off staff and shuts down app as company retools](https://techcrunch.com/2026/03/13/digg-lays-off-staff-and-shuts-down-app-as-company-retools/) (2026-03-13)
+- [Nyne, founded by a father-son duo, gives AI agents the human context they’re missing](https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/) (2026-03-13)
+- [Facebook makes it easier for creators to report impersonators](https://techcrunch.com/2026/03/13/facebook-makes-it-easier-for-creators-to-report-impersonators/) (2026-03-13)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Your Phone Is an Entire Computer](https://medhir.com/blog/your-phone-is-an-entire-computer) (2026-03-13)
-- [Show HN: Context Gateway – Compress agent context before it hits the LLM](https://github.com/Compresr-ai/Context-Gateway) (2026-03-13)
-- [The Accidental Room (2018)](https://99percentinvisible.org/episode/the-accidental-room/) (2026-03-13)
-- [Why the militaries are scrambling to create their own Starlink](https://www.newscientist.com/article/2517766-why-the-worlds-militaries-are-scrambling-to-create-their-own-starlink/) (2026-03-13)
-- [Revealed: Face of 75,000-year-old female Neanderthal from cave](https://www.cam.ac.uk/stories/shanidar-z-face-revealed) (2026-03-13)
+- [Our Experience with I-Ready](https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/) (2026-03-14)
+- [I beg you to follow Crocker's Rules, even if you will be rude to me](https://lr0.org/blog/p/crocker/) (2026-03-13)
+- [I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites](https://benzimmermann.dev/blog/algolia-docsearch-admin-keys) (2026-03-13)
+- [Human Rights Watch says drone strikes in Haiti have killed nearly 1,250 people](https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/) (2026-03-13)
+- [Stanford researchers report first recording of a blue whale's heart rate (2019)](https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate) (2026-03-13)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Backbone’s versatile pro controller is nearly matching its best price to date](https://www.theverge.com/gadgets/893862/backbone-pro-mobile-controller-cmf-watch-3-deal-sale) (2026-03-13)
-- [Adobe will pay $75 million to settle US cancellation fee lawsuit](https://www.theverge.com/tech/894555/adobe-75-million-doj-settlement-subscriptions) (2026-03-13)
-- [Ninja’s star Creami ice cream maker is on sale for $169](https://www.theverge.com/gadgets/894461/ninja-creami-5-in-1-ice-cream-maker-deal-sale) (2026-03-13)
-- [Amazon Prime Video nearly doubles the price to go ad-free and stream 4K video](https://www.theverge.com/tech/894466/amazon-prime-video-ultra-ad-free-price-hike) (2026-03-13)
-- [The Big 12 basketball tournament is ditching slippery LED courts for hardwood](https://www.theverge.com/tech/894372/big-12-basketball-t-mobile-center-led-glass-floor-hardwood) (2026-03-13)
+- [States’ anti-monopoly case against Live Nation continues Monday](https://www.theverge.com/policy/894851/states-live-nation-monopoly-trial) (2026-03-13)
+- [Spotify tests letting users directly customize their Taste Profile](https://www.theverge.com/entertainment/894753/spotify-taste-profile) (2026-03-13)
+- [Microsoft’s Copilot AI assistant is coming to current-gen Xbox consoles this year](https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles) (2026-03-13)
+- [Trump Mobile is just one in the crowd of conservative carriers](https://www.theverge.com/tech/894762/trump-mobile-conservative-mvno-radiant-patriot-puretalk-charity-liberty) (2026-03-13)
+- [Digg’s open beta shuts down after just two months, blaming AI bot spam](https://www.theverge.com/tech/894803/digg-beta-shutdown-layoffs-ai) (2026-03-13)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Subscribers to Amazon Prime Video with ads lose 4K support on April 10](https://arstechnica.com/gadgets/2026/03/amazon-will-increase-ad-free-prime-video-prices-by-2-per-month-on-april-10/) (2026-03-13)
-- [M5 MacBook Air review: Still the best MacBook for almost everybody](https://arstechnica.com/gadgets/2026/03/m5-macbook-air-review-still-the-best-macbook-for-almost-everybody/) (2026-03-13)
-- [Magnetars drag spacetime to power superluminous supernovae](https://arstechnica.com/science/2026/03/magnetars-drag-spacetime-to-power-superluminous-supernovae/) (2026-03-13)
-- [Measles vaccinations rose 291% among New Mexico adults during outbreak](https://arstechnica.com/health/2026/03/signs-of-hope-as-measles-spread-new-mexico-vaccinations-surged-55/) (2026-03-13)
-- [Microsoft is working to eliminate PC gaming's "compiling shaders" wait times](https://arstechnica.com/gaming/2026/03/microsoft-is-working-to-eliminate-pc-gamings-compiling-shaders-wait-times/) (2026-03-13)
+- [NASA officials sidestepped questions on Artemis II risks—there's a reason why](https://arstechnica.com/space/2026/03/flying-to-the-moon-for-the-first-time-in-54-years-is-risky-but-how-risky/) (2026-03-14)
+- [Woman sneezes out maggots after fly larvae get trapped in her deviated septum](https://arstechnica.com/health/2026/03/woman-sneezes-out-maggots-after-fly-larvae-get-trapped-in-her-deviated-septum/) (2026-03-13)
+- [Slay the Spire 2 is a bit too familiar for its own good](https://arstechnica.com/gaming/2026/03/slay-the-spire-2-is-a-bit-too-familiar-for-its-own-good/) (2026-03-13)
+- [Figuring out why AIs get flummoxed by some games](https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/) (2026-03-13)
+- [Google Fiber will be sold to private equity firm and merge with cable company](https://arstechnica.com/tech-policy/2026/03/google-fiber-will-be-sold-to-private-equity-firm-and-merge-with-cable-company/) (2026-03-13)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why HazelJS Is the Best AI-Native Runtime Platform and Framework](https://dev.to/arslan_mecom/why-hazeljs-is-the-best-ai-native-runtime-platform-and-framework-2di4) (2026-03-13)
-- [Beyond Prompt Engineering: The Layers of Modern AI Engineering](https://dev.to/naresh_007/beyond-prompt-engineering-the-layers-of-modern-ai-engineering-38j8) (2026-03-13)
-- [🧑‍💻 Alt Text vs ARIA Labels — What Developers Often Miss](https://dev.to/pawar-shivam7/alt-text-vs-aria-labels-what-developers-often-miss-17j1) (2026-03-13)
-- [Why I replaced Nexus with a 32MB binary](https://dev.to/devitway/why-i-replaced-nexus-with-a-32mb-binary-470f) (2026-03-13)
-- [clasp 3 Dropped TypeScript — Here's a Vite Plugin for Google Apps Script](https://dev.to/wakita181009/clasp-3-dropped-typescript-heres-a-vite-plugin-for-google-apps-script-49k8) (2026-03-13)
+- [Stop Slouching! Build an AI-Powered Posture Monitor with MediaPipe & Electron 🚀](https://dev.to/wellallytech/stop-slouching-build-an-ai-powered-posture-monitor-with-mediapipe-electron-ide) (2026-03-14)
+- [Create And Configure Azure Firewall](https://dev.to/cmwokocha/create-and-configure-azure-firewall-k76) (2026-03-14)
+- [I Was Tired of Parsing XBRL, So I Built a SEC EDGAR API](https://dev.to/liam_altie/i-was-tired-of-parsing-xbrl-so-i-built-a-sec-edgar-api-1jp3) (2026-03-14)
+- [Using Python to Load Google Docs into AI — Drive API Minimal Permission Setup](https://dev.to/soytuber/using-python-to-load-google-docs-into-ai-drive-api-minimal-permission-setup-525c) (2026-03-14)
+- [Hardware Selection for Local LLMs: Overcoming the VRAM Wall with Practical GPU, CPU, and Memory Configurations](https://dev.to/soytuber/hardware-selection-for-local-llms-overcoming-the-vram-wall-with-practical-gpu-cpu-and-memory-2ldf) (2026-03-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I will create professional modern minimalist business logo design](https://globalbrandcraft.medium.com/i-will-create-professional-modern-minimalist-business-logo-design-960f4cd705a1?source=rss------programming-5) (2026-03-13)
-- [Do We Still Need Software Engineers? Cursor’s New AI Tool Codes On Its Own](https://ai.plainenglish.io/do-we-still-need-software-engineers-cursors-new-ai-tool-codes-on-its-own-898be11adb75?source=rss------programming-5) (2026-03-13)
-- [npm install Took 40 Minutes in CI. I Fixed It in 5 Minutes. Here’s How](https://blog.stackademic.com/npm-install-took-40-minutes-in-ci-i-fixed-it-in-5-minutes-heres-how-6a65a95cdd55?source=rss------programming-5) (2026-03-13)
-- [My First Programming Language Was Microsoft Access (And It Taught Me How Software Really Works)](https://towardsdev.com/my-first-programming-language-was-microsoft-access-and-it-taught-me-how-software-really-works-bc62e658dd35?source=rss------programming-5) (2026-03-13)
-- [Beyond Prompt Engineering: The Layers of Modern AI Engineering](https://medium.com/@phoenixarjun007/beyond-prompt-engineering-the-layers-of-modern-ai-engineering-0f93eb71b6c6?source=rss------programming-5) (2026-03-13)
+- [The Grandmaster’s Gambit: Navigating the 2026 Tech Landscape](https://medium.com/@josephiswade70/the-grandmasters-gambit-navigating-the-2026-tech-landscape-61cbff1280e7?source=rss------programming-5) (2026-03-14)
+- [Building High-Impact LLM Wrappers for Business in 2026](https://medium.com/codetodeploy/building-high-impact-llm-wrappers-for-business-in-2026-a8cba63d4d8a?source=rss------programming-5) (2026-03-14)
+- [Stop Overpaying for Inference: The 1B Speech Model That Runs Locally and Outperforms 8B…](https://medium.com/@bytefer/stop-overpaying-for-inference-the-1b-speech-model-that-runs-locally-and-outperforms-8b-2c183ba478e7?source=rss------programming-5) (2026-03-14)
+- [Ingress-NGINX Just Died.](https://aws.plainenglish.io/ingress-nginx-just-died-243a8dd69d8f?source=rss------programming-5) (2026-03-14)
+- [Farewell to Spaghetti Code: PSL 5.0 Shatters PHP’s Performance and Security Ceiling](https://medium.com/@jamesmiller22871/farewell-to-spaghetti-code-psl-5-0-shatters-phps-performance-and-security-ceiling-ee9a03ca53cc?source=rss------programming-5) (2026-03-14)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Unlocking document understanding with Mistral Document AI in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664) (2026-03-03)
-- [Instant access incremental snapshots: Restore without waiting](https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/) (2026-03-02)
-- [Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected](http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog) (2026-02-24)
-- [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
-- [Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873) (2026-02-17)
+- [Modernizing regulated industries with cloud and agentic AI](https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/) (2026-03-11)
+- [Many agents, one team: Scaling modernization on Azure](https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/) (2026-03-11)
+- [Introducing Fireworks AI on Microsoft Foundry: Bringing high performance, low latency open model inference to Azure](https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/) (2026-03-11)
+- [Unpacking your top questions on agentic AI: The Shift podcast](https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/) (2026-03-09)
+- [The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry](https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/) (2026-03-06)
 
 </details>
 
@@ -163,11 +163,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Room 3.0 - Modernizing the Room](https://android-developers.googleblog.com/2026/03/room-30-modernizing-room.html) (2026-03-13)
 - [TikTok reduces code size by 58% and improves app performance for new features with Jetpack Compose](https://android-developers.googleblog.com/2026/03/tiktok-reduces-code-size-by-58.html) (2026-03-13)
 - [Level Up: Test Sidekick and prepare for upcoming program milestones](https://android-developers.googleblog.com/2026/03/level-up-your-game.html) (2026-03-11)
 - [Expanding our stage for PC and paid titles ](https://android-developers.googleblog.com/2026/03/building-a-bigger-stage.html) (2026-03-11)
 - [Boosting Android Performance: Introducing AutoFDO for the Kernel](https://android-developers.googleblog.com/2026/03/BoostingAndroid PerformanceIntroducingAutoFDO.html) (2026-03-10)
-- [Instagram and Facebook deliver instant playback and boost user engagement with Media3 PreloadManager](https://android-developers.googleblog.com/2026/03/instagram-and-facebook-deliver-instant.html) (2026-03-05)
 
 </details>
 
@@ -350,7 +350,7 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
-- [From legacy architecture to Cloudflare One](https://blog.cloudflare.com/legacy-to-agile-sase/) (2026-03-16)
+- [From legacy architecture to Cloudflare One](https://blog.cloudflare.com/legacy-to-agile-sase/) (2026-03-13)
 - [Announcing Cloudflare Account Abuse Protection: prevent fraudulent attacks from bots and humans](https://blog.cloudflare.com/account-abuse-protection/) (2026-03-12)
 - [Slashing agent token costs by 98% with RFC 9457-compliant error responses](https://blog.cloudflare.com/rfc-9457-agent-error-pages/) (2026-03-11)
 - [AI Security for Apps is now generally available](https://blog.cloudflare.com/ai-security-for-apps-ga/) (2026-03-11)
@@ -361,11 +361,6 @@
 <details>
 <summary>📞 Twilio Blog</summary>
 
-- [
-Build a WhatsApp AI Agent with Node.js, Twilio Messaging, and OpenAI’s GPT-5
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/whatsapp-ai-agent-twilio-openai
-) (2026-03-12)
 - [
 Community, AI in Action, and Twilio News: Reflections on Our Biggest User Group Yet
 ](
@@ -385,6 +380,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/building-blocks/how-to-co
 Send Bulk SMS With PHP and Twilio
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/send-bulk-sms-with-php-and-twilio
+) (2026-03-06)
+- [
+How to Block Spam Calls with Twilio Voice in Node.js
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/block-spam-calls-twilio-voice-node-js
 ) (2026-03-06)
 
 </details>
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/send-bulk-sms-with-php-an
 <details>
 <summary>💬 Slack API</summary>
 
+- [Unlocking the Power of Conversation: How Slack’s New Platform is Fueling the Agentic Era](https://slack.com/blog/news/powering-agentic-collaboration) (2026-03-13)
+- [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-03-13)
+- [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-03-13)
 - [AI-Powered Bots: Guide to Chatbots, Tools, and Best Practices](https://slack.com/blog/productivity/ai-powered-bots-guide-to-chatbots-tools-and-best-practices) (2026-03-06)
 - [Best Agentic AI Platforms for 2026: What They Are and How to Choose One](https://slack.com/blog/productivity/best-agentic-ai-platforms-for-2026-what-they-are-and-how-to-choose-one) (2026-03-06)
-- [3 New Ways Salesforce Meets You in Slack](https://slack.com/blog/news/conversational-intelligence-with-slack) (2026-03-05)
-- [Project Planning and Timelines Guide: Tools and Best Practices](https://slack.com/blog/productivity/project-planning-and-timelines-guide-tools-and-best-practices) (2026-03-02)
-- [Best Data Discovery Tools in 2026 for Product, Network, and IT Assets](https://slack.com/blog/productivity/best-discovery-tools) (2026-03-02)
 
 </details>
 
@@ -546,7 +546,7 @@ https://www.twilio.com/en-us/blog/developers/tutorials/send-bulk-sms-with-php-an
 <details>
 <summary>🤗 Hugging Face</summary>
 
-- [Build an Agent That Thinks Like a Data Scientist: How We Hit #1 on DABStep with Reusable Tool Generation](https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place) (2026-03-13)
+- [Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline](https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval) (2026-03-13)
 - [Introducing Storage Buckets on the Hugging Face Hub](https://huggingface.co/blog/storage-buckets) (2026-03-10)
 - [Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries](https://huggingface.co/blog/async-rl-training-landscape) (2026-03-10)
 - [Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge](https://huggingface.co/blog/ibm-granite/granite-4-speech) (2026-03-09)
