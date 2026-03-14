@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Optimizing Content for Agents](https://cra.mr/optimizing-content-for-agents/) (2026-03-14)
 - [Our Experience with I-Ready](https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/) (2026-03-14)
+- [Games with loot boxes to get minimum 16 age rating across Europe](https://www.bbc.com/news/articles/cge84xqjg5lo) (2026-03-14)
+- [Show HN: Simple plugin to get Claude Code to listen to you](https://www.gopeek.ai) (2026-03-13)
 - [I beg you to follow Crocker's Rules, even if you will be rude to me](https://lr0.org/blog/p/crocker/) (2026-03-13)
-- [I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites](https://benzimmermann.dev/blog/algolia-docsearch-admin-keys) (2026-03-13)
-- [Human Rights Watch says drone strikes in Haiti have killed nearly 1,250 people](https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/) (2026-03-13)
-- [Stanford researchers report first recording of a blue whale's heart rate (2019)](https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate) (2026-03-13)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Stop Slouching! Build an AI-Powered Posture Monitor with MediaPipe & Electron 🚀](https://dev.to/wellallytech/stop-slouching-build-an-ai-powered-posture-monitor-with-mediapipe-electron-ide) (2026-03-14)
-- [Create And Configure Azure Firewall](https://dev.to/cmwokocha/create-and-configure-azure-firewall-k76) (2026-03-14)
-- [I Was Tired of Parsing XBRL, So I Built a SEC EDGAR API](https://dev.to/liam_altie/i-was-tired-of-parsing-xbrl-so-i-built-a-sec-edgar-api-1jp3) (2026-03-14)
-- [Using Python to Load Google Docs into AI — Drive API Minimal Permission Setup](https://dev.to/soytuber/using-python-to-load-google-docs-into-ai-drive-api-minimal-permission-setup-525c) (2026-03-14)
-- [Hardware Selection for Local LLMs: Overcoming the VRAM Wall with Practical GPU, CPU, and Memory Configurations](https://dev.to/soytuber/hardware-selection-for-local-llms-overcoming-the-vram-wall-with-practical-gpu-cpu-and-memory-2ldf) (2026-03-14)
+- [Echoes of Experience](https://dev.to/dan52242644dan/echoes-of-experience-2pi9) (2026-03-14)
+- [Making an App out of Spite | GeoImg | React Native Expo](https://dev.to/chatt_kush_4103d4b5b31191/making-an-app-out-of-spite-geoimg-react-native-expo-1b4i) (2026-03-14)
+- [How a Bug Report Led Me to Give Flutter Developers Full Control of Crisp Chat Modals on iOS](https://dev.to/alamin_karno_b096f2ace0bb/how-a-bug-report-led-me-to-give-flutter-developers-full-control-of-crisp-chat-modals-on-ios-3c8j) (2026-03-14)
+- [From Screen Recording to AI Skill: Automating SKILL.md Creation with SkillForge](https://dev.to/syncchain2026helix/from-screen-recording-to-ai-skill-automating-skillmd-creation-with-skillforge-4dh7) (2026-03-14)
+- [Kriya: Tools for Exploring and Generating Action100M-style Video Annotations](https://dev.to/ankk98/kriya-tools-for-exploring-and-generating-action100m-style-video-annotations-46ee) (2026-03-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Grandmaster’s Gambit: Navigating the 2026 Tech Landscape](https://medium.com/@josephiswade70/the-grandmasters-gambit-navigating-the-2026-tech-landscape-61cbff1280e7?source=rss------programming-5) (2026-03-14)
-- [Building High-Impact LLM Wrappers for Business in 2026](https://medium.com/codetodeploy/building-high-impact-llm-wrappers-for-business-in-2026-a8cba63d4d8a?source=rss------programming-5) (2026-03-14)
-- [Stop Overpaying for Inference: The 1B Speech Model That Runs Locally and Outperforms 8B…](https://medium.com/@bytefer/stop-overpaying-for-inference-the-1b-speech-model-that-runs-locally-and-outperforms-8b-2c183ba478e7?source=rss------programming-5) (2026-03-14)
-- [Ingress-NGINX Just Died.](https://aws.plainenglish.io/ingress-nginx-just-died-243a8dd69d8f?source=rss------programming-5) (2026-03-14)
-- [Farewell to Spaghetti Code: PSL 5.0 Shatters PHP’s Performance and Security Ceiling](https://medium.com/@jamesmiller22871/farewell-to-spaghetti-code-psl-5-0-shatters-phps-performance-and-security-ceiling-ee9a03ca53cc?source=rss------programming-5) (2026-03-14)
+- [I Configured Servers Manually for Months… Until Ansible Saved Me](https://medium.com/@logicoverlatte/ansible-playbook-tutorial-for-beginners-ec487325e253?source=rss------programming-5) (2026-03-14)
+- [The Rise of the AI Engineer: How Artificial Intelligence Is Changing Software Development](https://medium.com/@rteja7799/the-rise-of-the-ai-engineer-how-artificial-intelligence-is-changing-software-development-336a090df9e1?source=rss------programming-5) (2026-03-14)
+- [11 Hidden VS Code Settings Every Developer Should Enable Today](https://codebyumar.medium.com/11-hidden-vs-code-settings-every-developer-should-enable-today-2b8a12853728?source=rss------programming-5) (2026-03-14)
+- [“AI & ML Fundamentals : A Beginner’s Guide to Artificial Intelligence and Machine Learning”](https://medium.com/@tamannasinha78/ai-ml-fundamentals-a-beginners-guide-to-artificial-intelligence-and-machine-learning-084efb52a898?source=rss------programming-5) (2026-03-14)
+- [Week 4 — Hashmaps, Bit Manipulation and Somehow Still Showing Up](https://medium.com/@vaishuthapi/week-4-hashmaps-bit-manipulation-and-somehow-still-showing-up-1d78b5d1c54f?source=rss------programming-5) (2026-03-14)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Modernizing regulated industries with cloud and agentic AI](https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/) (2026-03-11)
-- [Many agents, one team: Scaling modernization on Azure](https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/) (2026-03-11)
-- [Introducing Fireworks AI on Microsoft Foundry: Bringing high performance, low latency open model inference to Azure](https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/) (2026-03-11)
-- [Unpacking your top questions on agentic AI: The Shift podcast](https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/) (2026-03-09)
 - [The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry](https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/) (2026-03-06)
+- [Introducing GPT-5.4 in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785) (2026-03-05)
+- [Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure](https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/) (2026-03-04)
+- [Unlocking document understanding with Mistral Document AI in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664) (2026-03-03)
+- [Instant access incremental snapshots: Restore without waiting](https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/) (2026-03-02)
 
 </details>
 
@@ -362,6 +362,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Build a WhatsApp AI Agent with Node.js, Twilio Messaging, and OpenAI’s GPT-5
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/whatsapp-ai-agent-twilio-openai
+) (2026-03-12)
+- [
 Community, AI in Action, and Twilio News: Reflections on Our Biggest User Group Yet
 ](
 https://www.twilio.com/en-us/blog/events/twilio-segment-user-group-london-feb-2026
@@ -380,11 +385,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/building-blocks/how-to-co
 Send Bulk SMS With PHP and Twilio
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/send-bulk-sms-with-php-and-twilio
-) (2026-03-06)
-- [
-How to Block Spam Calls with Twilio Voice in Node.js
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/block-spam-calls-twilio-voice-node-js
 ) (2026-03-06)
 
 </details>
