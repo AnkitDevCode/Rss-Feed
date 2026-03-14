@@ -31,33 +31,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Optimizing Content for Agents](https://cra.mr/optimizing-content-for-agents/) (2026-03-14)
-- [Our Experience with I-Ready](https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/) (2026-03-14)
-- [Games with loot boxes to get minimum 16 age rating across Europe](https://www.bbc.com/news/articles/cge84xqjg5lo) (2026-03-14)
-- [Show HN: Simple plugin to get Claude Code to listen to you](https://www.gopeek.ai) (2026-03-13)
-- [I beg you to follow Crocker's Rules, even if you will be rude to me](https://lr0.org/blog/p/crocker/) (2026-03-13)
+- [Image generation models can think](https://medium.com/seeds-for-the-future/nano-banana-2-image-generators-can-now-think-462a017a95c1) (2026-03-14)
+- [XML Is a Cheap DSL](https://unplannedobsolescence.com/blog/xml-cheap-dsl/) (2026-03-14)
+- [Claude Code conducts A/B tests on core features](https://backnotprop.com/blog/do-not-ab-test-my-workflow/) (2026-03-14)
+- [How Lego builds a new Lego set](https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price) (2026-03-14)
+- [RAM kits are now sold with one fake RAM stick alongside a real one](https://www.tomshardware.com/pc-components/ram/fake-ram-bundled-with-real-ram-to-create-a-performance-illusion-for-amd-users-1-1-value-pack-offers-desperate-psychological-relief-as-the-memory-shortage-worsens) (2026-03-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Samsung Galaxy S26 Ultra review: show off](https://www.theverge.com/tech/893936/samsung-galaxy-s26-ultra-review-show-off) (2026-03-14)
+- [5 great indie games from GDC 2026](https://www.theverge.com/games/894511/gdc-2026-best-indie-games) (2026-03-14)
+- [Wordle’s creator made a fun new puzzle game](https://www.theverge.com/tech/894586/wordle-parseword-sonos-play-installer) (2026-03-14)
+- [European retailers yank popular headphones after study reports trace amounts of hormone-disrupting chemicals](https://www.theverge.com/science/894771/headphones-hormone-disrupting-chemicals-study) (2026-03-14)
 - [States’ anti-monopoly case against Live Nation continues Monday](https://www.theverge.com/policy/894851/states-live-nation-monopoly-trial) (2026-03-13)
-- [Spotify tests letting users directly customize their Taste Profile](https://www.theverge.com/entertainment/894753/spotify-taste-profile) (2026-03-13)
-- [Microsoft’s Copilot AI assistant is coming to current-gen Xbox consoles this year](https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles) (2026-03-13)
-- [Trump Mobile is just one in the crowd of conservative carriers](https://www.theverge.com/tech/894762/trump-mobile-conservative-mvno-radiant-patriot-puretalk-charity-liberty) (2026-03-13)
-- [Digg’s open beta shuts down after just two months, blaming AI bot spam](https://www.theverge.com/tech/894803/digg-beta-shutdown-layoffs-ai) (2026-03-13)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Staff complain that xAI is flailing because of constant upheaval](https://arstechnica.com/ai/2026/03/staff-complain-that-xai-is-flailing-because-of-constant-upheaval/) (2026-03-14)
 - [NASA officials sidestepped questions on Artemis II risks—there's a reason why](https://arstechnica.com/space/2026/03/flying-to-the-moon-for-the-first-time-in-54-years-is-risky-but-how-risky/) (2026-03-14)
 - [Woman sneezes out maggots after fly larvae get trapped in her deviated septum](https://arstechnica.com/health/2026/03/woman-sneezes-out-maggots-after-fly-larvae-get-trapped-in-her-deviated-septum/) (2026-03-13)
 - [Slay the Spire 2 is a bit too familiar for its own good](https://arstechnica.com/gaming/2026/03/slay-the-spire-2-is-a-bit-too-familiar-for-its-own-good/) (2026-03-13)
 - [Figuring out why AIs get flummoxed by some games](https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/) (2026-03-13)
-- [Google Fiber will be sold to private equity firm and merge with cable company](https://arstechnica.com/tech-policy/2026/03/google-fiber-will-be-sold-to-private-equity-firm-and-merge-with-cable-company/) (2026-03-13)
 
 </details>
 
@@ -97,22 +97,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Echoes of Experience](https://dev.to/dan52242644dan/echoes-of-experience-2pi9) (2026-03-14)
-- [Making an App out of Spite | GeoImg | React Native Expo](https://dev.to/chatt_kush_4103d4b5b31191/making-an-app-out-of-spite-geoimg-react-native-expo-1b4i) (2026-03-14)
-- [How a Bug Report Led Me to Give Flutter Developers Full Control of Crisp Chat Modals on iOS](https://dev.to/alamin_karno_b096f2ace0bb/how-a-bug-report-led-me-to-give-flutter-developers-full-control-of-crisp-chat-modals-on-ios-3c8j) (2026-03-14)
-- [From Screen Recording to AI Skill: Automating SKILL.md Creation with SkillForge](https://dev.to/syncchain2026helix/from-screen-recording-to-ai-skill-automating-skillmd-creation-with-skillforge-4dh7) (2026-03-14)
-- [Kriya: Tools for Exploring and Generating Action100M-style Video Annotations](https://dev.to/ankk98/kriya-tools-for-exploring-and-generating-action100m-style-video-annotations-46ee) (2026-03-14)
+- [I tracked every expense for a year as a UK freelancer. Here's what surprised me.](https://dev.to/landolio/i-tracked-every-expense-for-a-year-as-a-uk-freelancer-heres-what-surprised-me-3l7n) (2026-03-14)
+- [Building a Movie Recommendation API with Spring Boot 🎬](https://dev.to/alejandrotg-code/building-a-movie-recommendation-api-with-spring-boot-162b) (2026-03-14)
+- [Frontend System Design: Communication Protocols & Real-Time Data](https://dev.to/zeeshanali0704/frontend-system-design-communication-protocols-real-time-data-h7h) (2026-03-14)
+- [Linking Two Research Papers to Real AI Applications](https://dev.to/abbas__ahmed/linking-two-research-papers-to-real-ai-applications-3674) (2026-03-14)
+- [WordPress vs Hugo: Which Should You Self-Host?](https://dev.to/selfhostingsh/wordpress-vs-hugo-which-should-you-self-host-17c5) (2026-03-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Configured Servers Manually for Months… Until Ansible Saved Me](https://medium.com/@logicoverlatte/ansible-playbook-tutorial-for-beginners-ec487325e253?source=rss------programming-5) (2026-03-14)
-- [The Rise of the AI Engineer: How Artificial Intelligence Is Changing Software Development](https://medium.com/@rteja7799/the-rise-of-the-ai-engineer-how-artificial-intelligence-is-changing-software-development-336a090df9e1?source=rss------programming-5) (2026-03-14)
-- [11 Hidden VS Code Settings Every Developer Should Enable Today](https://codebyumar.medium.com/11-hidden-vs-code-settings-every-developer-should-enable-today-2b8a12853728?source=rss------programming-5) (2026-03-14)
-- [“AI & ML Fundamentals : A Beginner’s Guide to Artificial Intelligence and Machine Learning”](https://medium.com/@tamannasinha78/ai-ml-fundamentals-a-beginners-guide-to-artificial-intelligence-and-machine-learning-084efb52a898?source=rss------programming-5) (2026-03-14)
-- [Week 4 — Hashmaps, Bit Manipulation and Somehow Still Showing Up](https://medium.com/@vaishuthapi/week-4-hashmaps-bit-manipulation-and-somehow-still-showing-up-1d78b5d1c54f?source=rss------programming-5) (2026-03-14)
+- [What Actually Happens When You Open a Mobile App](https://kawaldeepsingh.medium.com/what-actually-happens-when-you-open-a-mobile-app-f039938285b1?source=rss------programming-5) (2026-03-14)
+- [4. Cigarette smokers problem](https://medium.com/@ankitsharma61016/4-cigarette-smokers-problem-2a99edc435ad?source=rss------programming-5) (2026-03-14)
+- [RHAPSODY OF REALITIES - 14TH MARCH 2026
+"The increased knowledge of God’s Word is so important for…](https://medium.com/@folajeff/rhapsody-of-realities-14th-march-2026-the-increased-knowledge-of-gods-word-is-so-important-for-dc70f2563d26?source=rss------programming-5) (2026-03-14)
+- [Fine-Tuning OpenClaw Tutorial: How to Go from Install to Multi-Agent in a Single Evening](https://medium.com/@virtualik/fine-tuning-openclaw-tutorial-how-to-go-from-install-to-multi-agent-in-a-single-evening-b559bc2d2f53?source=rss------programming-5) (2026-03-14)
+- [I Built a Production-Ready API in 15 Minutes Using Only JavaScript (Here’s the Exact Setup)](https://javascript.plainenglish.io/i-built-a-production-ready-api-in-15-minutes-using-only-javascript-heres-the-exact-setup-91fd9a83c8fe?source=rss------programming-5) (2026-03-14)
 
 </details>
 
@@ -130,11 +131,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry](https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/) (2026-03-06)
-- [Introducing GPT-5.4 in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785) (2026-03-05)
 - [Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure](https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/) (2026-03-04)
 - [Unlocking document understanding with Mistral Document AI in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664) (2026-03-03)
 - [Instant access incremental snapshots: Restore without waiting](https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/) (2026-03-02)
+- [Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected](http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog) (2026-02-24)
+- [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
 
 </details>
 
@@ -579,11 +580,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/send-bulk-sms-with-php-an
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Excel 101: IF, AND, OR Functions and Conditional Logic Explained](https://www.analyticsvidhya.com/blog/2026/03/excel-if-and-or-functions-and-conditional-logic-explained/) (2026-03-14)
 - [How to Switch from ChatGPT to Claude Without Losing Any Context or Memory](https://www.analyticsvidhya.com/blog/2026/03/how-to-switch-from-chatgpt-to-claude/) (2026-03-13)
 - [A Beginner’s Guide to Building Autonomous AI Agents with MaxClaw](https://www.analyticsvidhya.com/blog/2026/03/maxclaw-cloud-ai-agent-for-autonomous-workflows/) (2026-03-13)
 - [AI vs Generative AI: Key Differences, Models, and Real-World Uses](https://www.analyticsvidhya.com/blog/2026/03/ai-vs-generative-ai/) (2026-03-12)
 - [Anthropic Says AI is Not “Killing Jobs”, Shares New Way to Measure AI Job Impact](https://www.analyticsvidhya.com/blog/2026/03/anthropic-ai-job-impact/) (2026-03-12)
-- [Building a Real Image Matching Project with Gemini Embedding 2](https://www.analyticsvidhya.com/blog/2026/03/gemini-embedding-2/) (2026-03-12)
 
 </details>
 
