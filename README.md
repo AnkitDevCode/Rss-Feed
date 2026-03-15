@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit](https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/) (2026-03-14)
+- [US Army announces contract with Anduril worth up to $20B](https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/) (2026-03-14)
 - [Honda is killing its EVs — and any chance of competing in the future](https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/) (2026-03-14)
 - [Meta reportedly considering layoffs that could affect 20% of the company](https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/) (2026-03-14)
 - [As people look for ways to make new friends, here are the apps promising to help](https://techcrunch.com/2026/03/14/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/) (2026-03-14)
-- [How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others](https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/) (2026-03-14)
-- [‘Not built right the first time’ — Musk’s xAI is starting over again, again](https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/) (2026-03-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Sunsetting Jazzband](https://jazzband.co/news/2026/03/14/sunsetting-jazzband) (2026-03-14)
-- [What happens when US economic data becomes unreliable](https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable) (2026-03-14)
-- [UBI Is Your Productivity Dividend – The Only Way to All Share What We All Built](https://scottsantens.substack.com/p/universal-basic-income-is-your-productivity) (2026-03-14)
-- [NMAP in the Movies](https://nmap.org/movies/) (2026-03-14)
-- [Show HN: Learn Arabic with spaced repetition and comprehensible input](https://abjadpro.com) (2026-03-14)
+- [Federal Surveillance Tech Becomes Mandatory in New Cars by 2027](https://www.gadgetreview.com/federal-surveillance-tech-becomes-mandatory-in-new-cars-by-2027) (2026-03-15)
+- [Tree Search Distillation for Language Models Using PPO](https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/) (2026-03-15)
+- [How Kernel Anti-Cheats Work: A Deep Dive into Modern Game Protection](https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/) (2026-03-15)
+- [FCC chairman threatens TV broadcast licenses over news coverage](https://fortune.com/2026/03/14/fcc-brendan-carr-tv-broadcast-licenses-news-coverage-us-war-iran-trump/) (2026-03-15)
+- [SBCL Fibers – Lightweight Cooperative Threads](https://atgreen.github.io/repl-yell/posts/sbcl-fibers/) (2026-03-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Trump administration is allegedly collecting $10 billion on the TikTok deal](https://www.theverge.com/policy/895039/trump-10-billion-tiktok) (2026-03-14)
+- [Meta is reportedly laying off up to 20 percent of its staff](https://www.theverge.com/business/895026/meta-laying-off-20-percent) (2026-03-14)
 - [Hulu, Disney Plus, and the Pixel Watch 4 are among this week’s best deals](https://www.theverge.com/gadgets/894699/hulu-disney-plus-subscription-oscars-google-pixel-watch-4-deal-sale) (2026-03-14)
 - [Prediction markets want the Oscars to be your gateway drug to betting on everything](https://www.theverge.com/entertainment/894878/oscars-2026-kalshi-sinners-one-battle-after-anothers-marty-supreme-baftas-gambling) (2026-03-14)
 - [MacBook Air M5 review: a small update for the ‘just right’ Mac](https://www.theverge.com/tech/894866/apple-macbook-air-m5-15-2026-laptop-review) (2026-03-14)
-- [A Scavengers Reign artist explores contemplative sci-fi in new comics](https://www.theverge.com/entertainment/894514/jonathan-djob-nkondo-artist-interview-kickstarter-scavengers-reign) (2026-03-14)
-- [Asus’ new open earbuds are a wonderful companion for handheld gaming](https://www.theverge.com/tech/893765/asus-cetra-open-wireless-gaming-earbuds-hands-on-impressions) (2026-03-14)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [AI Research](https://dev.to/muhammad_zaheeb_16d03ccaa/ai-research-26mo) (2026-03-14)
-- [Pocketbase Vs Appwrite](https://dev.to/selfhostingsh/pocketbase-vs-appwrite-4jdf) (2026-03-14)
-- [Analysis Of Research Paper](https://dev.to/abbas_c3296322e33f/analysis-of-research-paper-1p2a) (2026-03-14)
-- [TLDR; ReactJS project initialization with Tailwind CSS and Shadcn using Vite](https://dev.to/thechaudhrysab/tldr-reactjs-project-initialization-with-tailwind-css-and-shadcn-using-vite-4g0f) (2026-03-14)
-- [The Art of the Code Review: More Than Just Bug Hunting](https://dev.to/softcypherbyte/the-art-of-the-code-review-more-than-just-bug-hunting-4hb4) (2026-03-14)
+- [I Calculated What My $200/Month AI Subscription Actually Produced. Here's the Math.](https://dev.to/yurukusa/i-calculated-what-my-200month-ai-subscription-actually-produced-heres-the-math-1ohm) (2026-03-15)
+- [Get Your Hands Dirty - AgentCore - Gateway](https://dev.to/mindy_jen_phd/get-your-hands-dirty-agentcore-gateway-1omp) (2026-03-15)
+- [First Principles of AI Context](https://dev.to/craigtracey/first-principles-of-ai-context-4cmn) (2026-03-15)
+- [I built a platform to help developers find collaborators for projects](https://dev.to/deiv2002/i-built-a-platform-to-help-developers-find-collaborators-for-projects-4p4a) (2026-03-15)
+- [Extracting Pedestrian Trajectories from Street Video as JSON](https://dev.to/bonebasket_a3284c91925b56/extracting-pedestrian-trajectories-from-street-video-as-json-4hhb) (2026-03-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Queue Dalam Python](https://medium.com/@sivanuraini0407/queue-dalam-python-956f97400673?source=rss------programming-5) (2026-03-14)
-- [I Replaced My Spring Boot Architecture After Boot 4 — Here’s What Was Embarrassingly Wrong](https://medium.com/@the_atomic_architect/spring-boot-4-architecture-mistakes-1b20cb7e6eba?source=rss------programming-5) (2026-03-14)
-- [Docker Images vs Docker Containers](https://medium.com/@vaibhavj7798/docker-images-vs-docker-containers-7ce17cd8f427?source=rss------programming-5) (2026-03-14)
-- [The Most Underrated Programming Language I Ever Tried: Why Go Is Surprisingly Fun](https://towardsdev.com/the-most-underrated-programming-language-i-ever-tried-why-go-is-surprisingly-fun-c7ed61f9f8c8?source=rss------programming-5) (2026-03-14)
-- [Stop Using ChatGPT Like Google: The Smarter Way to Use AI in Business](https://medium.com/write-a-catalyst/stop-using-chatgpt-like-google-the-smarter-way-to-use-ai-in-business-d92777ae6706?source=rss------programming-5) (2026-03-14)
+- [الربح من الانترنت](https://medium.com/@waleed20255256/%D8%A7%D9%84%D8%B1%D8%A8%D8%AD-%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%B1%D9%86%D8%AA-92e6bd7c4a61?source=rss------programming-5) (2026-03-15)
+- [AI Didn’t Kill the Terminal. It Made It the Default Interface.](https://medium.com/@meipark/ai-didnt-kill-the-terminal-it-made-it-the-default-interface-671d33c112c5?source=rss------programming-5) (2026-03-15)
+- [Cybersecurity: a term without use](https://medium.com/@davealvessilvino/cybersecurity-a-term-without-use-4f7e38ba465c?source=rss------programming-5) (2026-03-15)
+- [C# async/await — Modern .NET (Core) için yanlış bilinen 5 şey](https://medium.com/@hakancengiz/c-async-await-modern-net-core-i%C3%A7in-yanl%C4%B1%C5%9F-bilinen-5-%C5%9Fey-1665d2e64469?source=rss------programming-5) (2026-03-15)
+- [Vibe Coding Gets You 70% There. Here’s What Happens to the Other 30%.](https://medium.com/@robert.shane.kirkpatrick/vibe-coding-gets-you-70-there-heres-what-happens-to-the-other-30-dd577dc6f561?source=rss------programming-5) (2026-03-15)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Unpacking your top questions on agentic AI: The Shift podcast](https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/) (2026-03-09)
 - [The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry](https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/) (2026-03-06)
 - [Introducing GPT-5.4 in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785) (2026-03-05)
 - [Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure](https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/) (2026-03-04)
 - [Unlocking document understanding with Mistral Document AI in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664) (2026-03-03)
+- [Instant access incremental snapshots: Restore without waiting](https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/) (2026-03-02)
 
 </details>
 
@@ -584,17 +584,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/send-bulk-sms-with-php-an
 - [A Beginner’s Guide to Building Autonomous AI Agents with MaxClaw](https://www.analyticsvidhya.com/blog/2026/03/maxclaw-cloud-ai-agent-for-autonomous-workflows/) (2026-03-13)
 - [AI vs Generative AI: Key Differences, Models, and Real-World Uses](https://www.analyticsvidhya.com/blog/2026/03/ai-vs-generative-ai/) (2026-03-12)
 - [Anthropic Says AI is Not “Killing Jobs”, Shares New Way to Measure AI Job Impact](https://www.analyticsvidhya.com/blog/2026/03/anthropic-ai-job-impact/) (2026-03-12)
-
-</details>
-
-<details>
-<summary>💎 KDnuggets</summary>
-
-- [We Used 5 Outlier Detection Methods on a Real Dataset: They Disagreed on 96% of Flagged Samples](https://www.kdnuggets.com/we-used-5-outlier-detection-methods-on-a-real-dataset-they-disagreed-on-96-of-flagged-samples) (2026-03-13)
-- [5 Powerful Python Decorators for High-Performance Data Pipelines](https://www.kdnuggets.com/5-powerful-python-decorators-for-high-performance-data-pipelines) (2026-03-13)
-- [The 2026 Data Science Starter Kit: What to Learn First (And What to Ignore)](https://www.kdnuggets.com/the-2026-data-science-starter-kit-what-to-learn-first-and-what-to-ignore) (2026-03-12)
-- [Top 7 AI Agent Orchestration Frameworks](https://www.kdnuggets.com/top-7-ai-agent-orchestration-frameworks) (2026-03-12)
-- [Run a Real Time Speech to Speech AI Model Locally](https://www.kdnuggets.com/run-a-real-time-speech-to-speech-ai-model-locally) (2026-03-11)
 
 </details>
 
