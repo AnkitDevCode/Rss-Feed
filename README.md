@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Unacademy to be acquired by upGrad in share-swap deal as India’s edtech sector consolidates](https://techcrunch.com/2026/03/15/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-indias-edtech-sector-consolidates/) (2026-03-15)
+- [TechCrunch Mobility: Travis Kalanick’s return proves it really is 2016 again](https://techcrunch.com/2026/03/15/techcrunch-mobility-travis-kalanicks-return-proves-it-really-is-2016-again/) (2026-03-15)
+- [Wiz investor unpacks Google’s $32B acquisition](https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/) (2026-03-15)
+- [Rivian’s RJ Scaringe thinks we’re doing robots all wrong](https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/) (2026-03-15)
 - [The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit](https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/) (2026-03-14)
-- [US Army announces contract with Anduril worth up to $20B](https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/) (2026-03-14)
-- [Honda is killing its EVs — and any chance of competing in the future](https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/) (2026-03-14)
-- [Meta reportedly considering layoffs that could affect 20% of the company](https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/) (2026-03-14)
-- [As people look for ways to make new friends, here are the apps promising to help](https://techcrunch.com/2026/03/14/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/) (2026-03-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: Signet – Autonomous wildfire tracking from satellite and weather data](https://signet.watch) (2026-03-15)
-- [Generating All 32-Bit Primes (Part I)](https://hnlyman.github.io/pages/prime32_I.html) (2026-03-15)
-- [IBM, sonic delay lines, and the history of the 80×24 display](https://www.righto.com/2019/11/ibm-sonic-delay-lines-and-history-of.html) (2026-03-15)
-- [A Visual Introduction to Machine Learning](https://r2d3.us/visual-intro-to-machine-learning-part-1/) (2026-03-15)
-- [$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket) (2026-03-15)
+- [Grandparents are glued to their phones, families are worried [video]](https://www.bbc.com/reel/video/p0n61dg3/grandparents-are-glued-to-their-phones-families-are-worried) (2026-03-15)
+- [SuperTux 0.7.0](https://github.com/SuperTux/supertux/releases/tag/v0.7.0) (2026-03-15)
+- [Ask HN: How is AI-assisted coding going for you professionally?](https://news.ycombinator.com/item?id=47388646) (2026-03-15)
+- [In Memoriam: John W. Addison, my PhD advisor](https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/) (2026-03-15)
+- [UMD Scientists Create 'Smart Underwear' to Measure Human Flatulence](https://cbmg.umd.edu/news-events/news/brantley-hall-umd-scientists-create-smart-underwear-measure-human-flatulence) (2026-03-15)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Sotomayor’s Wabi Sabi is the funnest record of 2026](https://www.theverge.com/entertainment/895065/sotomayor-wabi-sabi-review) (2026-03-15)
+- [AI Czar David Sacks wants Trump to ‘get out’ of Iran](https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran) (2026-03-15)
+- [AI companies want to harvest improv actors’ skills to train AI on human emotion](https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data) (2026-03-15)
+- [Samsung’s Galaxy Buds 4 Pro are the choice — if you have a Galaxy phone](https://www.theverge.com/tech/894501/samsung-galaxy-buds-4-pro-review) (2026-03-15)
 - [The fast rise and epic fall of Clubhouse](https://www.theverge.com/podcast/895044/clubhouse-audio-social-network-version-history) (2026-03-15)
-- [Live-service games are a mess](https://www.theverge.com/column/893294/live-service-games-mess) (2026-03-15)
-- [The $100,000 fee for H-1Bs is causing all sorts of problems](https://www.theverge.com/policy/894537/h1b-fee-increase-trump-teacher-shortage-tech-workers) (2026-03-15)
-- [Trump administration is allegedly collecting $10 billion on the TikTok deal](https://www.theverge.com/policy/895039/trump-10-billion-tiktok) (2026-03-14)
-- [Meta is reportedly laying off up to 20 percent of its staff](https://www.theverge.com/business/895026/meta-laying-off-20-percent) (2026-03-14)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Zero-Shot vs Fine-Tuned Models: Which Should You Use?](https://dev.to/natan_vidra_71cda7df82ec7/zero-shot-vs-fine-tuned-models-which-should-you-use-15ob) (2026-03-15)
-- [Building a Spin Wheel - Part 1, Random Digits in Javascript: Crypto.getRandomValues()](https://dev.to/dakshim/building-a-spin-wheel-part-1-random-digits-in-javascript-cryptogetrandomvalues-1g1b) (2026-03-15)
-- [Building Semantic Search with Spring Boot, PostgreSQL, and pgvector (RAG Retrieval)](https://dev.to/allan_roberto_3c86dab9d94/building-semantic-search-with-spring-boot-postgresql-and-pgvector-rag-retrieval-297d) (2026-03-15)
-- [Node.js Internals: Read This Before Your Next Backend Interview](https://dev.to/kunal_dev/nodejs-internals-read-this-before-your-next-backend-interview-49ja) (2026-03-15)
-- [The Agentic Web Is Coming: Why Websites Will Soon Talk to AI Agents](https://dev.to/safdarali25/the-agentic-web-is-coming-why-websites-will-soon-talk-to-ai-agents-efp) (2026-03-15)
+- [Ethni-CITY: The New Travel App](https://dev.to/ebukae/ethni-city-the-new-travel-app-3o64) (2026-03-15)
+- [How I Built Encrypted Bluetooth Team Sync in Flutter — AES-256-GCM, ECDH, CRDTs, Zero Servers](https://dev.to/redgridtactical/how-i-built-encrypted-bluetooth-team-sync-in-flutter-aes-256-gcm-ecdh-crdts-zero-servers-40e2) (2026-03-15)
+- [From Photographer to Dev at 36: Why Your Age Is Your Secret Weapon](https://dev.to/vila_segura_34b9bdb2c9cd6/from-photographer-to-dev-at-36-why-your-age-is-your-secret-weapon-4oid) (2026-03-15)
+- [I Got Distracted Watching a Golang Tutorial. So I Built an Project That Won't Let You.](https://dev.to/prateek_hitli_5a7d19f1c87/i-got-distracted-watching-a-golang-tutorial-so-i-built-an-project-that-wont-let-you-843) (2026-03-15)
+- [Week 9: Setup AWS IAM and EC2 for Beginners](https://dev.to/fosres/secure-aws-lab-setup-for-security-engineers-iam-identity-center-ssm-zero-open-ports-1hfn) (2026-03-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The End of Bigger-Is-Better: Why Context Beats Model Size](https://medium.com/@sebuzdugan/the-end-of-bigger-is-better-why-context-beats-model-size-786994c59756?source=rss------programming-5) (2026-03-15)
-- [Why Your PostGIS Queries Are Slow: Common Anti-Patterns and Fixes](https://medium.com/@philmcc/why-your-postgis-queries-are-slow-common-anti-patterns-and-fixes-a199e3db9a68?source=rss------programming-5) (2026-03-15)
-- [Part 4: uv in the Real World — CI/CD, GitHub Actions, and Managing Python Across a Team](https://medium.com/@mansi.patel7279s/part-4-uv-in-the-real-world-ci-cd-github-actions-and-managing-python-across-a-team-b244bcdb8499?source=rss------programming-5) (2026-03-15)
-- [How Apps Like Instagram Handle Millions of Users](https://kawaldeepsingh.medium.com/how-apps-like-instagram-handle-millions-of-users-752f65685d82?source=rss------programming-5) (2026-03-15)
-- [Python for Lazy People: 10 Scripts to Run Your Life](https://python.plainenglish.io/python-for-lazy-people-10-scripts-to-run-your-life-4902879de55b?source=rss------programming-5) (2026-03-15)
+- [Day 7 of My Selenium Automation Journey: Strengthening Java Fundamentals](https://medium.com/@thotanitishkumar123/day-7-of-my-selenium-automation-journey-strengthening-java-fundamentals-563f61a9a536?source=rss------programming-5) (2026-03-15)
+- [AI Coding Tools Helped Us Finish a 4-Week Task in 1 Week — Here’s What We Actually Learned](https://medium.com/@ashiksmanjunath/ai-coding-tools-helped-us-finish-a-4-week-task-in-1-week-heres-what-we-actually-learned-2c478221a243?source=rss------programming-5) (2026-03-15)
+- [How I’m Trying to Build Multiple Online Income Streams as a Full-Time Engineer](https://medium.com/freelancers-hub/how-im-trying-to-build-multiple-online-income-streams-as-a-full-time-engineer-6df65efa17b9?source=rss------programming-5) (2026-03-15)
+- [The Algorithm Already Knows What You Will Click Tomorrow](https://medium.com/activated-thinker/the-algorithm-already-knows-what-you-will-click-tomorrow-c3d93ea0cd58?source=rss------programming-5) (2026-03-15)
+- [The Cube That Taught Me to Code](https://medium.com/@nustian2022/the-cube-that-taught-me-to-code-077fb03f1c37?source=rss------programming-5) (2026-03-15)
 
 </details>
 
@@ -535,11 +535,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/send-bulk-sms-with-php-an
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [Building Voice Agents with ExecuTorch: A Cross-Platform Foundation for On-Device Audio](https://pytorch.org/blog/building-voice-agents-with-executorch-a-cross-platform-foundation-for-on-device-audio/) (2026-03-15)
 - [MXFP8 Training for MoEs: 1.3x training speedup vs BF16 for Llama4 Scout on GB200 cluster using TorchAO and TorchTitan](https://pytorch.org/blog/mxfp8-training-for-moes-1-3x-training-speedup-vs-bf16-for-llama4-scout-on-gb200-cluster-using-torchao-and-torchtitan/) (2026-03-12)
 - [PyTorch at NVIDIA GTC 2026: Join Us in San Jose!](https://pytorch.org/blog/pytorch-at-nvidia-gtc-2026/) (2026-03-09)
 - [KernelAgent: Hardware-Guided GPU Kernel Optimization via Multi-Agent Orchestration](https://pytorch.org/blog/kernelagent-hardware-guided-gpu-kernel-optimization-via-multi-agent-orchestration/) (2026-03-06)
 - [FlexAttention + FlashAttention-4: Fast and Flexible](https://pytorch.org/blog/flexattention-flashattention-4-fast-and-flexible/) (2026-03-05)
-- [Deploying PyTorch Models to the Micro-Edge with ExecuTorch and Arm](https://pytorch.org/blog/deploying-pytorch-models-to-the-micro-edge-with-executorch-and-arm/) (2026-03-05)
 
 </details>
 
@@ -568,22 +568,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/send-bulk-sms-with-php-an
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The 2026 Data Mandate: Is Your Governance Architecture a Fortress or a Liability?](https://towardsdatascience.com/the-2026-data-mandate-is-your-governance-architecture-a-fortress-or-a-liability/) (2026-03-15)
+- [The Causal Inference Playbook: Advanced Methods Every Data Scientist Should Master](https://towardsdatascience.com/the-causal-inference-playbook-advanced-methods-every-data-scientist-should-master/) (2026-03-15)
 - [The Multi-Agent Trap](https://towardsdatascience.com/the-multi-agent-trap/) (2026-03-14)
 - [The Current Status of The Quantum Software Stack](https://towardsdatascience.com/the-current-status-of-the-quantum-software-stack/) (2026-03-14)
 - [Why Care About Prompt Caching in LLMs?](https://towardsdatascience.com/why-care-about-promp-caching-in-llms/) (2026-03-13)
-- [How Vision Language Models Are Trained from “Scratch”](https://towardsdatascience.com/how-vision-language-models-are-trained-from-scratch/) (2026-03-13)
-- [Personalized Restaurant Ranking with a Two-Tower Embedding Variant](https://towardsdatascience.com/personalized-restaurant-ranking-with-a-two-tower-embedding-variant/) (2026-03-13)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Generative AI vs Agentic AI: From Creating Content to Taking Action](https://www.analyticsvidhya.com/blog/2026/03/generative-ai-vs-agentic-ai/) (2026-03-15)
 - [Excel 101: IF, AND, OR Functions and Conditional Logic Explained](https://www.analyticsvidhya.com/blog/2026/03/excel-if-and-or-functions-and-conditional-logic-explained/) (2026-03-14)
 - [How to Switch from ChatGPT to Claude Without Losing Any Context or Memory](https://www.analyticsvidhya.com/blog/2026/03/how-to-switch-from-chatgpt-to-claude/) (2026-03-13)
 - [A Beginner’s Guide to Building Autonomous AI Agents with MaxClaw](https://www.analyticsvidhya.com/blog/2026/03/maxclaw-cloud-ai-agent-for-autonomous-workflows/) (2026-03-13)
 - [AI vs Generative AI: Key Differences, Models, and Real-World Uses](https://www.analyticsvidhya.com/blog/2026/03/ai-vs-generative-ai/) (2026-03-12)
-- [Anthropic Says AI is Not “Killing Jobs”, Shares New Way to Measure AI Job Impact](https://www.analyticsvidhya.com/blog/2026/03/anthropic-ai-job-impact/) (2026-03-12)
 
 </details>
 
