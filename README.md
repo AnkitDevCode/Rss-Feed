@@ -31,10 +31,10 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Federal Surveillance Tech Becomes Mandatory in New Cars by 2027](https://www.gadgetreview.com/federal-surveillance-tech-becomes-mandatory-in-new-cars-by-2027) (2026-03-15)
+- [Rack-Mount Hydroponics](https://sa.lj.am/rack-mount-hydroponics/) (2026-03-15)
+- [A most elegant TCP hole punching algorithm](https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html) (2026-03-15)
 - [Tree Search Distillation for Language Models Using PPO](https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/) (2026-03-15)
-- [How Kernel Anti-Cheats Work: A Deep Dive into Modern Game Protection](https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/) (2026-03-15)
-- [FCC chairman threatens TV broadcast licenses over news coverage](https://fortune.com/2026/03/14/fcc-brendan-carr-tv-broadcast-licenses-news-coverage-us-war-iran-trump/) (2026-03-15)
+- [How Kernel Anti-Cheats Work](https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/) (2026-03-15)
 - [SBCL Fibers – Lightweight Cooperative Threads](https://atgreen.github.io/repl-yell/posts/sbcl-fibers/) (2026-03-14)
 
 </details>
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I Calculated What My $200/Month AI Subscription Actually Produced. Here's the Math.](https://dev.to/yurukusa/i-calculated-what-my-200month-ai-subscription-actually-produced-heres-the-math-1ohm) (2026-03-15)
-- [Get Your Hands Dirty - AgentCore - Gateway](https://dev.to/mindy_jen_phd/get-your-hands-dirty-agentcore-gateway-1omp) (2026-03-15)
-- [First Principles of AI Context](https://dev.to/craigtracey/first-principles-of-ai-context-4cmn) (2026-03-15)
-- [I built a platform to help developers find collaborators for projects](https://dev.to/deiv2002/i-built-a-platform-to-help-developers-find-collaborators-for-projects-4p4a) (2026-03-15)
-- [Extracting Pedestrian Trajectories from Street Video as JSON](https://dev.to/bonebasket_a3284c91925b56/extracting-pedestrian-trajectories-from-street-video-as-json-4hhb) (2026-03-15)
+- [What Are We Actually Measuring?](https://dev.to/zentoshi/what-are-we-actually-measuring-31ml) (2026-03-15)
+- [Beyond SEO: Generative Engine Optimization (GEO). How to Implement `llms.txt` and RAG-Friendly Markup](https://dev.to/ensei_mania_1c699b232df39/beyond-seo-generative-engine-optimization-geo-how-to-implement-llmstxt-and-rag-friendly-4di8) (2026-03-15)
+- [I Built a Digital Products Marketplace using Next.js for Sellers and Buyers](https://dev.to/myogeshchavan97/i-built-a-digital-products-marketplace-using-nextjs-for-sellers-and-buyers-3a18) (2026-03-15)
+- [Architectural Foundations of MLOps, AIOps, and LLMOps](https://dev.to/anusha_kuppili/architectural-foundations-of-mlops-aiops-and-llmops-1471) (2026-03-15)
+- [Building a Privacy Mixer in Solidity: Why My Merkle Proofs Were Failing](https://dev.to/rdin777/building-a-privacy-mixer-in-solidity-why-my-merkle-proofs-were-failing-367e) (2026-03-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [الربح من الانترنت](https://medium.com/@waleed20255256/%D8%A7%D9%84%D8%B1%D8%A8%D8%AD-%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%B1%D9%86%D8%AA-92e6bd7c4a61?source=rss------programming-5) (2026-03-15)
-- [AI Didn’t Kill the Terminal. It Made It the Default Interface.](https://medium.com/@meipark/ai-didnt-kill-the-terminal-it-made-it-the-default-interface-671d33c112c5?source=rss------programming-5) (2026-03-15)
-- [Cybersecurity: a term without use](https://medium.com/@davealvessilvino/cybersecurity-a-term-without-use-4f7e38ba465c?source=rss------programming-5) (2026-03-15)
-- [C# async/await — Modern .NET (Core) için yanlış bilinen 5 şey](https://medium.com/@hakancengiz/c-async-await-modern-net-core-i%C3%A7in-yanl%C4%B1%C5%9F-bilinen-5-%C5%9Fey-1665d2e64469?source=rss------programming-5) (2026-03-15)
-- [Vibe Coding Gets You 70% There. Here’s What Happens to the Other 30%.](https://medium.com/@robert.shane.kirkpatrick/vibe-coding-gets-you-70-there-heres-what-happens-to-the-other-30-dd577dc6f561?source=rss------programming-5) (2026-03-15)
+- [What Your AI Tool Selection Says About You (Programmer Edition)](https://effective-programmer.com/what-your-ai-tool-selection-says-about-you-programmer-edition-54084f87faef?source=rss------programming-5) (2026-03-15)
+- [Benchmarking lies: What Go’s benchmark tool isn’t telling you](https://medium.com/codex/benchmarking-lies-what-gos-benchmark-tool-isn-t-telling-you-291b6d7db623?source=rss------programming-5) (2026-03-15)
+- [What is React: A Beginner-Friendly Guide to the World’s Most Popular UI Library](https://medium.com/dev-simplified/what-is-react-a-beginner-friendly-guide-to-the-worlds-most-popular-ui-library-f864cbcad575?source=rss------programming-5) (2026-03-15)
+- [Bash Loops & Functions Explained (Part 4 of Bash for DevOps Engineers)](https://al-fatah.medium.com/bash-loops-functions-explained-part-4-of-bash-for-devops-engineers-758f0d874e63?source=rss------programming-5) (2026-03-15)
+- [Bash If Statements & Conditionals Explained (Part 3 of Bash for DevOps)](https://al-fatah.medium.com/bash-if-statements-conditionals-explained-part-3-of-bash-for-devops-6df7fc8db4fa?source=rss------programming-5) (2026-03-15)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Modernizing regulated industries with cloud and agentic AI](https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/) (2026-03-11)
+- [Many agents, one team: Scaling modernization on Azure](https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/) (2026-03-11)
+- [Introducing Fireworks AI on Microsoft Foundry: Bringing high performance, low latency open model inference to Azure](https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/) (2026-03-11)
+- [Unpacking your top questions on agentic AI: The Shift podcast](https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/) (2026-03-09)
 - [The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry](https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/) (2026-03-06)
-- [Introducing GPT-5.4 in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785) (2026-03-05)
-- [Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure](https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/) (2026-03-04)
-- [Unlocking document understanding with Mistral Document AI in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664) (2026-03-03)
-- [Instant access incremental snapshots: Restore without waiting](https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/) (2026-03-02)
 
 </details>
 
@@ -584,6 +584,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/send-bulk-sms-with-php-an
 - [A Beginner’s Guide to Building Autonomous AI Agents with MaxClaw](https://www.analyticsvidhya.com/blog/2026/03/maxclaw-cloud-ai-agent-for-autonomous-workflows/) (2026-03-13)
 - [AI vs Generative AI: Key Differences, Models, and Real-World Uses](https://www.analyticsvidhya.com/blog/2026/03/ai-vs-generative-ai/) (2026-03-12)
 - [Anthropic Says AI is Not “Killing Jobs”, Shares New Way to Measure AI Job Impact](https://www.analyticsvidhya.com/blog/2026/03/anthropic-ai-job-impact/) (2026-03-12)
+
+</details>
+
+<details>
+<summary>💎 KDnuggets</summary>
+
+- [We Used 5 Outlier Detection Methods on a Real Dataset: They Disagreed on 96% of Flagged Samples](https://www.kdnuggets.com/we-used-5-outlier-detection-methods-on-a-real-dataset-they-disagreed-on-96-of-flagged-samples) (2026-03-13)
+- [5 Powerful Python Decorators for High-Performance Data Pipelines](https://www.kdnuggets.com/5-powerful-python-decorators-for-high-performance-data-pipelines) (2026-03-13)
+- [The 2026 Data Science Starter Kit: What to Learn First (And What to Ignore)](https://www.kdnuggets.com/the-2026-data-science-starter-kit-what-to-learn-first-and-what-to-ignore) (2026-03-12)
+- [Top 7 AI Agent Orchestration Frameworks](https://www.kdnuggets.com/top-7-ai-agent-orchestration-frameworks) (2026-03-12)
+- [Run a Real Time Speech to Speech AI Model Locally](https://www.kdnuggets.com/run-a-real-time-speech-to-speech-ai-model-locally) (2026-03-11)
 
 </details>
 
