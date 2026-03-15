@@ -31,33 +31,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Rack-Mount Hydroponics](https://sa.lj.am/rack-mount-hydroponics/) (2026-03-15)
-- [A most elegant TCP hole punching algorithm](https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html) (2026-03-15)
-- [Tree Search Distillation for Language Models Using PPO](https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/) (2026-03-15)
-- [How Kernel Anti-Cheats Work](https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/) (2026-03-15)
-- [SBCL Fibers – Lightweight Cooperative Threads](https://atgreen.github.io/repl-yell/posts/sbcl-fibers/) (2026-03-14)
+- [Show HN: Signet – Autonomous wildfire tracking from satellite and weather data](https://signet.watch) (2026-03-15)
+- [Generating All 32-Bit Primes (Part I)](https://hnlyman.github.io/pages/prime32_I.html) (2026-03-15)
+- [IBM, sonic delay lines, and the history of the 80×24 display](https://www.righto.com/2019/11/ibm-sonic-delay-lines-and-history-of.html) (2026-03-15)
+- [A Visual Introduction to Machine Learning](https://r2d3.us/visual-intro-to-machine-learning-part-1/) (2026-03-15)
+- [$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket) (2026-03-15)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The fast rise and epic fall of Clubhouse](https://www.theverge.com/podcast/895044/clubhouse-audio-social-network-version-history) (2026-03-15)
+- [Live-service games are a mess](https://www.theverge.com/column/893294/live-service-games-mess) (2026-03-15)
+- [The $100,000 fee for H-1Bs is causing all sorts of problems](https://www.theverge.com/policy/894537/h1b-fee-increase-trump-teacher-shortage-tech-workers) (2026-03-15)
 - [Trump administration is allegedly collecting $10 billion on the TikTok deal](https://www.theverge.com/policy/895039/trump-10-billion-tiktok) (2026-03-14)
 - [Meta is reportedly laying off up to 20 percent of its staff](https://www.theverge.com/business/895026/meta-laying-off-20-percent) (2026-03-14)
-- [Hulu, Disney Plus, and the Pixel Watch 4 are among this week’s best deals](https://www.theverge.com/gadgets/894699/hulu-disney-plus-subscription-oscars-google-pixel-watch-4-deal-sale) (2026-03-14)
-- [Prediction markets want the Oscars to be your gateway drug to betting on everything](https://www.theverge.com/entertainment/894878/oscars-2026-kalshi-sinners-one-battle-after-anothers-marty-supreme-baftas-gambling) (2026-03-14)
-- [MacBook Air M5 review: a small update for the ‘just right’ Mac](https://www.theverge.com/tech/894866/apple-macbook-air-m5-15-2026-laptop-review) (2026-03-14)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [An engineering thesis disguised as a coupe: A history of the Honda Prelude](https://arstechnica.com/cars/2026/03/an-engineering-thesis-disguised-as-a-coupe-a-history-of-the-honda-prelude/) (2026-03-15)
 - [Staff complain that xAI is flailing because of constant upheaval](https://arstechnica.com/ai/2026/03/staff-complain-that-xai-is-flailing-because-of-constant-upheaval/) (2026-03-14)
 - [NASA officials sidestepped questions on Artemis II risks—there's a reason why](https://arstechnica.com/space/2026/03/flying-to-the-moon-for-the-first-time-in-54-years-is-risky-but-how-risky/) (2026-03-14)
 - [Woman sneezes out maggots after fly larvae get trapped in her deviated septum](https://arstechnica.com/health/2026/03/woman-sneezes-out-maggots-after-fly-larvae-get-trapped-in-her-deviated-septum/) (2026-03-13)
 - [Slay the Spire 2 is a bit too familiar for its own good](https://arstechnica.com/gaming/2026/03/slay-the-spire-2-is-a-bit-too-familiar-for-its-own-good/) (2026-03-13)
-- [Figuring out why AIs get flummoxed by some games](https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/) (2026-03-13)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [What Are We Actually Measuring?](https://dev.to/zentoshi/what-are-we-actually-measuring-31ml) (2026-03-15)
-- [Beyond SEO: Generative Engine Optimization (GEO). How to Implement `llms.txt` and RAG-Friendly Markup](https://dev.to/ensei_mania_1c699b232df39/beyond-seo-generative-engine-optimization-geo-how-to-implement-llmstxt-and-rag-friendly-4di8) (2026-03-15)
-- [I Built a Digital Products Marketplace using Next.js for Sellers and Buyers](https://dev.to/myogeshchavan97/i-built-a-digital-products-marketplace-using-nextjs-for-sellers-and-buyers-3a18) (2026-03-15)
-- [Architectural Foundations of MLOps, AIOps, and LLMOps](https://dev.to/anusha_kuppili/architectural-foundations-of-mlops-aiops-and-llmops-1471) (2026-03-15)
-- [Building a Privacy Mixer in Solidity: Why My Merkle Proofs Were Failing](https://dev.to/rdin777/building-a-privacy-mixer-in-solidity-why-my-merkle-proofs-were-failing-367e) (2026-03-15)
+- [Zero-Shot vs Fine-Tuned Models: Which Should You Use?](https://dev.to/natan_vidra_71cda7df82ec7/zero-shot-vs-fine-tuned-models-which-should-you-use-15ob) (2026-03-15)
+- [Building a Spin Wheel - Part 1, Random Digits in Javascript: Crypto.getRandomValues()](https://dev.to/dakshim/building-a-spin-wheel-part-1-random-digits-in-javascript-cryptogetrandomvalues-1g1b) (2026-03-15)
+- [Building Semantic Search with Spring Boot, PostgreSQL, and pgvector (RAG Retrieval)](https://dev.to/allan_roberto_3c86dab9d94/building-semantic-search-with-spring-boot-postgresql-and-pgvector-rag-retrieval-297d) (2026-03-15)
+- [Node.js Internals: Read This Before Your Next Backend Interview](https://dev.to/kunal_dev/nodejs-internals-read-this-before-your-next-backend-interview-49ja) (2026-03-15)
+- [The Agentic Web Is Coming: Why Websites Will Soon Talk to AI Agents](https://dev.to/safdarali25/the-agentic-web-is-coming-why-websites-will-soon-talk-to-ai-agents-efp) (2026-03-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [What Your AI Tool Selection Says About You (Programmer Edition)](https://effective-programmer.com/what-your-ai-tool-selection-says-about-you-programmer-edition-54084f87faef?source=rss------programming-5) (2026-03-15)
-- [Benchmarking lies: What Go’s benchmark tool isn’t telling you](https://medium.com/codex/benchmarking-lies-what-gos-benchmark-tool-isn-t-telling-you-291b6d7db623?source=rss------programming-5) (2026-03-15)
-- [What is React: A Beginner-Friendly Guide to the World’s Most Popular UI Library](https://medium.com/dev-simplified/what-is-react-a-beginner-friendly-guide-to-the-worlds-most-popular-ui-library-f864cbcad575?source=rss------programming-5) (2026-03-15)
-- [Bash Loops & Functions Explained (Part 4 of Bash for DevOps Engineers)](https://al-fatah.medium.com/bash-loops-functions-explained-part-4-of-bash-for-devops-engineers-758f0d874e63?source=rss------programming-5) (2026-03-15)
-- [Bash If Statements & Conditionals Explained (Part 3 of Bash for DevOps)](https://al-fatah.medium.com/bash-if-statements-conditionals-explained-part-3-of-bash-for-devops-6df7fc8db4fa?source=rss------programming-5) (2026-03-15)
+- [The End of Bigger-Is-Better: Why Context Beats Model Size](https://medium.com/@sebuzdugan/the-end-of-bigger-is-better-why-context-beats-model-size-786994c59756?source=rss------programming-5) (2026-03-15)
+- [Why Your PostGIS Queries Are Slow: Common Anti-Patterns and Fixes](https://medium.com/@philmcc/why-your-postgis-queries-are-slow-common-anti-patterns-and-fixes-a199e3db9a68?source=rss------programming-5) (2026-03-15)
+- [Part 4: uv in the Real World — CI/CD, GitHub Actions, and Managing Python Across a Team](https://medium.com/@mansi.patel7279s/part-4-uv-in-the-real-world-ci-cd-github-actions-and-managing-python-across-a-team-b244bcdb8499?source=rss------programming-5) (2026-03-15)
+- [How Apps Like Instagram Handle Millions of Users](https://kawaldeepsingh.medium.com/how-apps-like-instagram-handle-millions-of-users-752f65685d82?source=rss------programming-5) (2026-03-15)
+- [Python for Lazy People: 10 Scripts to Run Your Life](https://python.plainenglish.io/python-for-lazy-people-10-scripts-to-run-your-life-4902879de55b?source=rss------programming-5) (2026-03-15)
 
 </details>
 
