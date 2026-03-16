@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Google, Accel India accelerator choses 5 startups and none are ‘AI wrappers’](https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/) (2026-03-16)
+- [The billionaires made a promise — now some want out](https://techcrunch.com/2026/03/15/the-billionaires-made-a-promise-now-some-want-out/) (2026-03-16)
+- [Netflix’s ‘Frankenstein’ wins three Oscars, ‘KPop Demon Hunters’ wins two](https://techcrunch.com/2026/03/15/netflixs-frankenstein-wins-three-oscars-kpop-demon-hunters-wins-two/) (2026-03-16)
+- [Google, Accel India accelerator chooses 5 startups and none are ‘AI wrappers’](https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/) (2026-03-16)
 - [ByteDance reportedly pauses global launch of its Seedance 2.0 video generator](https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/) (2026-03-15)
 - [Lawyer behind AI psychosis cases warns of mass casualty risks](https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/) (2026-03-15)
-- [Unacademy to be acquired by upGrad in share-swap deal as India’s edtech sector consolidates](https://techcrunch.com/2026/03/15/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-indias-edtech-sector-consolidates/) (2026-03-15)
-- [TechCrunch Mobility: Travis Kalanick’s return proves it really is 2016 again](https://techcrunch.com/2026/03/15/techcrunch-mobility-travis-kalanicks-return-proves-it-really-is-2016-again/) (2026-03-15)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells (2016)](https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/) (2026-03-16)
-- [The Linux Programming Interface as a university course text](https://man7.org/tlpi/academic/index.html) (2026-03-15)
-- [Excel incorrectly assumes that the year 1900 is a leap year](https://learn.microsoft.com/en-us/troubleshoot/microsoft-365-apps/excel/wrongly-assumes-1900-is-leap-year) (2026-03-15)
-- [Show HN: Open-source playground to red-team AI agents with exploits published](https://github.com/fabraix/playground) (2026-03-15)
-- [Nasdaq's Shame](https://keubiko.substack.com/p/nasdaqs-shame) (2026-03-15)
+- [ASCII and Unicode quotation marks (2007)](https://www.cl.cam.ac.uk/~mgk25/ucs/quotes.html) (2026-03-16)
+- [Federal Right to Privacy Act – Draft legislation](https://righttoprivacyact.github.io) (2026-03-16)
+- [How I write software with LLMs](https://www.stavros.io/posts/how-i-write-software-with-llms/) (2026-03-16)
+- [Quillx is an open standard for disclosing AI involvement in software projects](https://github.com/QAInsights/AIx) (2026-03-16)
+- [What is agentic engineering?](https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/) (2026-03-16)
 
 </details>
 
@@ -97,23 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Day 16 of 100](https://dev.to/hirave_palak/day-16-of-100-205j) (2026-03-16)
-- [Cursor vs Trae vs Kiro vs GitHub Copilot: My Honest 2-Year Review of 4 AI IDEs](https://dev.to/jane_lee_ecafb4b88ef2eff0/cursor-vs-trae-vs-kiro-vs-github-copilot-my-honest-2-year-review-of-4-ai-ides-29of) (2026-03-16)
-- [Building Aura: A Multimodal Smart Home Operated by Gemini Live 🌌](https://dev.to/gde/building-aura-a-multimodal-smart-home-operated-by-gemini-live-2m31) (2026-03-16)
-- [2026 WeCoded Challenge (Glass Ceiling)](https://dev.to/dan52242644dan/2026-wecoded-challenge-glass-ceiling-2nn4) (2026-03-16)
-- [Build an MCP Server That Finds Your RAG Chatbot's Blind Spots](https://dev.to/hamurda/build-an-mcp-server-that-finds-your-rag-chatbots-blind-spots-3hb1) (2026-03-16)
+- [How I Validate Quality When AI Agents Write My Code](https://dev.to/teppana88/how-i-validate-quality-when-ai-agents-write-my-code-481c) (2026-03-16)
+- [Git Mirroring During Migrations: `--all` vs `--mirror`](https://dev.to/playfulprogramming/git-mirroring-during-migrations-all-vs-mirror-2i4h) (2026-03-16)
+- [Why every RAG project I've built ends up fighting the pipeline — and what I'm doing about it](https://dev.to/carlosmgs111/why-every-rag-project-ive-built-ends-up-fighting-the-pipeline-and-what-im-doing-about-it-5hl) (2026-03-16)
+- [Bare Metal vs. AWS RDS: A Deep Dive into NUMA-Aware Tuning and PostgreSQL Performance (Part 2)](https://dev.to/ionehouten/bare-metal-vs-aws-rds-a-deep-dive-into-numa-aware-tuning-and-postgresql-performance-part-2-2daa) (2026-03-16)
+- [Cross-Chain Governance Attacks: How Flash-Loaned Voting Power Becomes the Next Nine-Figure Exploit](https://dev.to/ohmygod/cross-chain-governance-attacks-how-flash-loaned-voting-power-becomes-the-next-nine-figure-exploit-1bk) (2026-03-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Build a Hemingway Editor Clone with TypeScript in 50 Lines](https://medium.com/@agent_49689/build-a-hemingway-editor-clone-with-typescript-in-50-lines-a7131e291f10?source=rss------programming-5) (2026-03-16)
-- [textlens vs text-readability vs natural: Which npm Package for Text Analysis?](https://medium.com/@agent_49689/textlens-vs-text-readability-vs-natural-which-npm-package-for-text-analysis-f35aa14afeee?source=rss------programming-5) (2026-03-16)
-- [The Transaction-Backed Digital Assets Protocol
-The Transaction-Backed Digital Assets Protocol…](https://medium.com/@ranjithreddyp.3688/the-transaction-backed-digital-assets-protocol-the-transaction-backed-digital-assets-protocol-1302a6c478f4?source=rss------programming-5) (2026-03-16)
-- [# Questions Surround BELIFT LAB’s Announcement on Heeseung and the Future of ENHYPEN](https://medium.com/@ninak3772/questions-surround-belift-labs-announcement-on-heeseung-and-the-future-of-enhypen-e7a1c4e0bd13?source=rss------programming-5) (2026-03-16)
-- [I Realized That “Soft Language” is Actually a Survival Mechanism in Disguise](https://medium.com/@attunehealing2024/i-realized-that-soft-language-is-actually-a-survival-mechanism-in-disguise-5f5f84be7565?source=rss------programming-5) (2026-03-16)
+- [Three Sum](https://medium.com/@siva-sri/three-sum-f2703daa6cf4?source=rss------programming-5) (2026-03-16)
+- [PostgreSQL Troubleshooting Cheat Sheet](https://medium.com/postgresql-blogs/postgresql-troubleshooting-cheat-sheet-5373eee6cdef?source=rss------programming-5) (2026-03-16)
+- [Day 35 of Learning Java: Understanding the String Class in Java](https://medium.com/@payalmehra3522/day-35-of-learning-java-understanding-the-string-class-in-java-cb96a92fc04a?source=rss------programming-5) (2026-03-16)
+- [Laravel Validation Rules: How to Create and Use Them](https://medium.com/serveravatar/laravel-validation-rules-how-to-create-and-use-them-dc5e0e503056?source=rss------programming-5) (2026-03-16)
+- [The Dev Tools Everyone Loves — But I Stopped Using (And What I Use Instead)](https://medium.com/the-software-journal/the-dev-tools-everyone-loves-but-i-stopped-using-and-what-i-use-instead-284db420a470?source=rss------programming-5) (2026-03-16)
 
 </details>
 
@@ -131,11 +130,11 @@ The Transaction-Backed Digital Assets Protocol…](https://medium.com/@ranjithre
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry](https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/) (2026-03-06)
+- [Introducing GPT-5.4 in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785) (2026-03-05)
+- [Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure](https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/) (2026-03-04)
 - [Unlocking document understanding with Mistral Document AI in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664) (2026-03-03)
 - [Instant access incremental snapshots: Restore without waiting](https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/) (2026-03-02)
-- [Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected](http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog) (2026-02-24)
-- [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
-- [Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873) (2026-02-17)
 
 </details>
 
