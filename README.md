@@ -31,44 +31,44 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [ASCII and Unicode quotation marks (2007)](https://www.cl.cam.ac.uk/~mgk25/ucs/quotes.html) (2026-03-16)
-- [Federal Right to Privacy Act – Draft legislation](https://righttoprivacyact.github.io) (2026-03-16)
+- [Nango (YC W23, API Access for Agents and Apps) Is Hiring](https://jobs.ashbyhq.com/Nango) (2026-03-16)
+- [Polymarket gamblers threaten to kill me over Iran missile story](https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/) (2026-03-16)
+- [Corruption erodes social trust more in democracies than in autocracies](https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full) (2026-03-16)
+- [Scientists discover a surprising way to quiet the anxious mind (2025)](https://www.sciencedaily.com/releases/2025/10/251027023816.htm) (2026-03-16)
 - [How I write software with LLMs](https://www.stavros.io/posts/how-i-write-software-with-llms/) (2026-03-16)
-- [Quillx is an open standard for disclosing AI involvement in software projects](https://github.com/QAInsights/AIx) (2026-03-16)
-- [What is agentic engineering?](https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/) (2026-03-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [This is not a fly uploaded to a computer](https://www.theverge.com/ai-artificial-intelligence/894587/fly-brain-computer-upload) (2026-03-16)
+- [The classic Apple Macintosh mouse inspired Spigen’s retro AirPods case](https://www.theverge.com/tech/893636/spigen-apple-airpods-pro-3-macintosh-magsafe-wallet-retro) (2026-03-16)
+- [OpenAI&#8217;s adult mode will reportedly be smutty, not pornographic](https://www.theverge.com/ai-artificial-intelligence/895130/openai-chatgpt-adult-mode-text-smut-written-erotica) (2026-03-16)
+- [My fitness tracker is a secret weapon against my chronic illness](https://www.theverge.com/features/889835/fitness-trackers-chronic-illness-visible-whoop) (2026-03-16)
 - [Aether OS is a computer in a browser built for the AT Protocol](https://www.theverge.com/tech/895083/aether-os-browser-at-protocol) (2026-03-15)
-- [Sotomayor’s Wabi Sabi is the funnest record of 2026](https://www.theverge.com/entertainment/895065/sotomayor-wabi-sabi-review) (2026-03-15)
-- [AI Czar David Sacks wants Trump to ‘get out’ of Iran](https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran) (2026-03-15)
-- [AI companies want to harvest improv actors’ skills to train AI on human emotion](https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data) (2026-03-15)
-- [Samsung’s Galaxy Buds 4 Pro are the choice — if you have a Galaxy phone](https://www.theverge.com/tech/894501/samsung-galaxy-buds-4-pro-review) (2026-03-15)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [The science of how fireflies stay in sync](https://arstechnica.com/science/2026/03/the-science-of-how-fireflies-stay-in-sync/) (2026-03-16)
+- [A century after the first rocket launch, Ars staffers pick their favorites](https://arstechnica.com/space/2026/03/a-century-after-the-first-rocket-launch-ars-staffers-pick-their-favorites/) (2026-03-16)
 - [An engineering thesis disguised as a coupe: A history of the Honda Prelude](https://arstechnica.com/cars/2026/03/an-engineering-thesis-disguised-as-a-coupe-a-history-of-the-honda-prelude/) (2026-03-15)
 - [Staff complain that xAI is flailing because of constant upheaval](https://arstechnica.com/ai/2026/03/staff-complain-that-xai-is-flailing-because-of-constant-upheaval/) (2026-03-14)
 - [NASA officials sidestepped questions on Artemis II risks—there's a reason why](https://arstechnica.com/space/2026/03/flying-to-the-moon-for-the-first-time-in-54-years-is-risky-but-how-risky/) (2026-03-14)
-- [Woman sneezes out maggots after fly larvae get trapped in her deviated septum](https://arstechnica.com/health/2026/03/woman-sneezes-out-maggots-after-fly-larvae-get-trapped-in-her-deviated-septum/) (2026-03-13)
-- [Slay the Spire 2 is a bit too familiar for its own good](https://arstechnica.com/gaming/2026/03/slay-the-spire-2-is-a-bit-too-familiar-for-its-own-good/) (2026-03-13)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Securing digital assets against future threats](https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/) (2026-03-16)
 - [Why physical AI is becoming manufacturing’s next advantage](https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/) (2026-03-13)
 - [The Download: how AI is used for military targeting, and the Pentagon’s war on Claude](https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/) (2026-03-13)
 - [Future AI chips could be built on glass](https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/) (2026-03-13)
 - [A defense official reveals how AI chatbots could be used for targeting decisions](https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/) (2026-03-12)
-- [The Download: Early adopters cash in on China’s OpenClaw craze, and US batteries slump](https://www.technologyreview.com/2026/03/12/1134207/the-download-china-openclaw-ai-craze-us-battery-industry-downturn/) (2026-03-12)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How I Validate Quality When AI Agents Write My Code](https://dev.to/teppana88/how-i-validate-quality-when-ai-agents-write-my-code-481c) (2026-03-16)
-- [Git Mirroring During Migrations: `--all` vs `--mirror`](https://dev.to/playfulprogramming/git-mirroring-during-migrations-all-vs-mirror-2i4h) (2026-03-16)
-- [Why every RAG project I've built ends up fighting the pipeline — and what I'm doing about it](https://dev.to/carlosmgs111/why-every-rag-project-ive-built-ends-up-fighting-the-pipeline-and-what-im-doing-about-it-5hl) (2026-03-16)
-- [Bare Metal vs. AWS RDS: A Deep Dive into NUMA-Aware Tuning and PostgreSQL Performance (Part 2)](https://dev.to/ionehouten/bare-metal-vs-aws-rds-a-deep-dive-into-numa-aware-tuning-and-postgresql-performance-part-2-2daa) (2026-03-16)
-- [Cross-Chain Governance Attacks: How Flash-Loaned Voting Power Becomes the Next Nine-Figure Exploit](https://dev.to/ohmygod/cross-chain-governance-attacks-how-flash-loaned-voting-power-becomes-the-next-nine-figure-exploit-1bk) (2026-03-16)
+- [Pegasus: Your Document's Language Passport, Powered by Lingo.Dev](https://dev.to/rai_shiv/pegasus-your-documents-language-passport-powered-by-lingodev-19h1) (2026-03-16)
+- [How We Built Alicia Storybook with Gemini + Google Cloud](https://dev.to/divin3circle/how-we-built-alicia-storybook-with-gemini-google-cloud-4c3l) (2026-03-16)
+- [What CTOs Actually Said When I Asked About Rust and LLMs](https://dev.to/arezvov/what-ctos-actually-said-when-i-asked-about-rust-and-llms-5cd7) (2026-03-16)
+- [How We 3x'd Organic Traffic in 14 Days: The Real Claude Code SEO Stack (Not Theory, Actual Production)](https://dev.to/kislay/how-we-3xd-organic-traffic-in-14-days-the-real-claude-code-seo-stack-not-theory-actual-5012) (2026-03-16)
+- [Where Does Your Medication Data Actually Go? The Case for Local-First Architecture](https://dev.to/wellnestapp/where-does-your-medication-data-actually-go-the-case-for-local-first-architecture-5a8i) (2026-03-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Three Sum](https://medium.com/@siva-sri/three-sum-f2703daa6cf4?source=rss------programming-5) (2026-03-16)
-- [PostgreSQL Troubleshooting Cheat Sheet](https://medium.com/postgresql-blogs/postgresql-troubleshooting-cheat-sheet-5373eee6cdef?source=rss------programming-5) (2026-03-16)
-- [Day 35 of Learning Java: Understanding the String Class in Java](https://medium.com/@payalmehra3522/day-35-of-learning-java-understanding-the-string-class-in-java-cb96a92fc04a?source=rss------programming-5) (2026-03-16)
-- [Laravel Validation Rules: How to Create and Use Them](https://medium.com/serveravatar/laravel-validation-rules-how-to-create-and-use-them-dc5e0e503056?source=rss------programming-5) (2026-03-16)
-- [The Dev Tools Everyone Loves — But I Stopped Using (And What I Use Instead)](https://medium.com/the-software-journal/the-dev-tools-everyone-loves-but-i-stopped-using-and-what-i-use-instead-284db420a470?source=rss------programming-5) (2026-03-16)
+- [Microservices Cost Us $80K/Month. Monolith Costs $4K. Same Features.](https://medium.com/javarevisited/microservices-cost-us-80k-month-monolith-costs-4k-same-features-5d3155e2891f?source=rss------programming-5) (2026-03-16)
+- [The Next.js Security Hardening Checklist: 12 Steps to Ship a Secure App](https://medium.com/@tijnwelten10/the-next-js-security-hardening-checklist-12-steps-to-ship-a-secure-app-3cef1317b887?source=rss------programming-5) (2026-03-16)
+- [I Thought Learning to Code Would Change My Life. I Was Right — But Not in the Way I Expected](https://medium.com/design-bootcamp/i-thought-learning-to-code-would-change-my-life-i-was-right-but-not-in-the-way-i-expected-56b272e1d097?source=rss------programming-5) (2026-03-16)
+- [The Invisible Architecture:15 Backend Pillars Every Junior Dev Must Master](https://medium.com/@bhagaywantshri1234/the-invisible-architecture-15-backend-pillars-every-junior-dev-must-master-d8adaba1dfaa?source=rss------programming-5) (2026-03-16)
+- [工程師的 AI 加速器 — Claude Code 實戰應用分享](https://medium.com/@n913239/%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%9A%84-ai-%E5%8A%A0%E9%80%9F%E5%99%A8-claude-code-%E5%AF%A6%E6%88%B0%E6%87%89%E7%94%A8%E5%88%86%E4%BA%AB-589e898c6120?source=rss------programming-5) (2026-03-16)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Trust, Two Truths, and the Coming Agent Swarm](https://blog.jetbrains.com/databao/2026/03/trust-and-the-coming-agent-swarm/) (2026-03-16)
+- [Kotlin 2.3.20 Released](https://blog.jetbrains.com/kotlin/2026/03/kotlin-2-3-20-released/) (2026-03-16)
+- [Sunsetting Code With Me](https://blog.jetbrains.com/platform/2026/03/sunsetting-code-with-me/) (2026-03-16)
 - [Share Your Opinion of Qodana for the Chance to WIN!](https://blog.jetbrains.com/qodana/2026/03/qodana-survey/) (2026-03-15)
 - [Python Unplugged on PyTV Recap](https://blog.jetbrains.com/pycharm/2026/03/python-unplugged-on-pytv-recap/) (2026-03-13)
-- [Datalore 2026.1: New Data Explorer Cells, Instance-Wide BYOK for AI, Stronger Security via Sidecar Containers in Kubernetes, and More](https://blog.jetbrains.com/datalore/2026/03/13/datalore-2026-1/) (2026-03-13)
-- [The Impact and Achievements of AI4SE in 2025](https://blog.jetbrains.com/research/2026/03/ai4se-in-2025/) (2026-03-12)
-- [Introducing Tracy: The AI Observability Library for Kotlin](https://blog.jetbrains.com/kotlin/2026/03/introducing-tracy-the-ai-observability-library-for-kotlin/) (2026-03-11)
 
 </details>
 
@@ -392,11 +392,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/send-bulk-sms-with-php-an
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
-- [Secure a C# MCP Server with Auth0](https://auth0.com/blog/secure-csharp-mcp-server-with-auth0/) (2026-03-12)
+- [Why Your Growth Strategy Needs Auth0 Tenancy-as-a-Service](https://auth0.com/blog/introducing-auth0-tenancy-as-a-service/) (2026-03-16)
 - [Auth0 for AI Agents Wins the Most Innovative AI-Infrastructure Security Solution, 2026](https://auth0.com/blog/most-innovative-ai-infrastructure-security-solution-award/) (2026-03-12)
+- [Secure a C# MCP Server with Auth0](https://auth0.com/blog/secure-csharp-mcp-server-with-auth0/) (2026-03-12)
 - [Strengthening Bot Detection with JA4 Signals](https://auth0.com/blog/strengthening-bot-detection-ja4-signals/) (2026-03-10)
 - [Telesign SMS Messaging API integration is now available in the Auth0 Marketplace](https://auth0.com/blog/telesign-sms-messaging-api-auth0-marketplace/) (2026-03-10)
-- [Auth0 Fine-Grained Authorization (FGA) for Enterprise Trust](https://auth0.com/blog/fine-grained-authorization-enterprise-trust/) (2026-03-06)
 
 </details>
 
@@ -557,44 +557,44 @@ https://www.twilio.com/en-us/blog/developers/tutorials/send-bulk-sms-with-php-an
 <details>
 <summary>🤖 AI News</summary>
 
+- [NTT DATA and NVIDIA bring enterprise AI factories to production scale](https://www.artificialintelligence-news.com/news/ntt-data-nvidia-enterprise-ai-factories-production/) (2026-03-16)
+- [OpenAI’s Frontier puts AI agents in a fight SaaS can’t afford to lose](https://www.artificialintelligence-news.com/news/openai-frontier-enterprise-ai-agents-saas/) (2026-03-16)
 - [E.SUN Bank and IBM build AI governance framework for banking](https://www.artificialintelligence-news.com/news/e-sun-bank-and-ibm-build-ai-governance-framework-for-banking/) (2026-03-13)
 - [BMW puts humanoid robots to work in Germany–and Europe’s factories are watching](https://www.artificialintelligence-news.com/news/bmw-humanoid-robots-manufacturing-europe-leipzig/) (2026-03-13)
 - [How multi-agent AI economics influence business automation](https://www.artificialintelligence-news.com/news/how-multi-agent-ai-economics-business-automation/) (2026-03-12)
-- [FIFA is rebuilding world football operations on AI. The World Cup is just the first test](https://www.artificialintelligence-news.com/news/fifa-ai-world-cup-2026-lenovo/) (2026-03-12)
-- [Ai2: Building physical AI with virtual simulation data](https://www.artificialintelligence-news.com/news/ai2-building-physical-ai-with-virtual-simulation-data/) (2026-03-11)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Bayesian Thinking for People Who Hated Statistics](https://towardsdatascience.com/bayesian-thinking-for-people-who-hated-statistics/) (2026-03-16)
 - [The 2026 Data Mandate: Is Your Governance Architecture a Fortress or a Liability?](https://towardsdatascience.com/the-2026-data-mandate-is-your-governance-architecture-a-fortress-or-a-liability/) (2026-03-15)
 - [The Causal Inference Playbook: Advanced Methods Every Data Scientist Should Master](https://towardsdatascience.com/the-causal-inference-playbook-advanced-methods-every-data-scientist-should-master/) (2026-03-15)
 - [The Multi-Agent Trap](https://towardsdatascience.com/the-multi-agent-trap/) (2026-03-14)
 - [The Current Status of The Quantum Software Stack](https://towardsdatascience.com/the-current-status-of-the-quantum-software-stack/) (2026-03-14)
-- [Why Care About Prompt Caching in LLMs?](https://towardsdatascience.com/why-care-about-promp-caching-in-llms/) (2026-03-13)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Top 7 Free Machine Learning Courses with Certificates](https://www.analyticsvidhya.com/blog/2026/03/free-machine-learning-courses-with-certificates/) (2026-03-16)
+- [Harness Engineering with LangChain DeepAgents and LangSmith](https://www.analyticsvidhya.com/blog/2026/03/harness-engineering/) (2026-03-16)
 - [Generative AI vs Agentic AI: From Creating Content to Taking Action](https://www.analyticsvidhya.com/blog/2026/03/generative-ai-vs-agentic-ai/) (2026-03-15)
 - [Excel 101: IF, AND, OR Functions and Conditional Logic Explained](https://www.analyticsvidhya.com/blog/2026/03/excel-if-and-or-functions-and-conditional-logic-explained/) (2026-03-14)
 - [How to Switch from ChatGPT to Claude Without Losing Any Context or Memory](https://www.analyticsvidhya.com/blog/2026/03/how-to-switch-from-chatgpt-to-claude/) (2026-03-13)
-- [A Beginner’s Guide to Building Autonomous AI Agents with MaxClaw](https://www.analyticsvidhya.com/blog/2026/03/maxclaw-cloud-ai-agent-for-autonomous-workflows/) (2026-03-13)
-- [AI vs Generative AI: Key Differences, Models, and Real-World Uses](https://www.analyticsvidhya.com/blog/2026/03/ai-vs-generative-ai/) (2026-03-12)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Self-Hosted Alternatives for Data Scientists in 2026](https://www.kdnuggets.com/5-self-hosted-alternatives-for-data-scientists-in-2026) (2026-03-16)
 - [We Used 5 Outlier Detection Methods on a Real Dataset: They Disagreed on 96% of Flagged Samples](https://www.kdnuggets.com/we-used-5-outlier-detection-methods-on-a-real-dataset-they-disagreed-on-96-of-flagged-samples) (2026-03-13)
 - [5 Powerful Python Decorators for High-Performance Data Pipelines](https://www.kdnuggets.com/5-powerful-python-decorators-for-high-performance-data-pipelines) (2026-03-13)
 - [The 2026 Data Science Starter Kit: What to Learn First (And What to Ignore)](https://www.kdnuggets.com/the-2026-data-science-starter-kit-what-to-learn-first-and-what-to-ignore) (2026-03-12)
 - [Top 7 AI Agent Orchestration Frameworks](https://www.kdnuggets.com/top-7-ai-agent-orchestration-frameworks) (2026-03-12)
-- [Run a Real Time Speech to Speech AI Model Locally](https://www.kdnuggets.com/run-a-real-time-speech-to-speech-ai-model-locally) (2026-03-11)
 
 </details>
 
