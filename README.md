@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Google, Accel India accelerator choses 5 startups and none are ‘AI wrappers’](https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/) (2026-03-16)
+- [ByteDance reportedly pauses global launch of its Seedance 2.0 video generator](https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/) (2026-03-15)
+- [Lawyer behind AI psychosis cases warns of mass casualty risks](https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/) (2026-03-15)
 - [Unacademy to be acquired by upGrad in share-swap deal as India’s edtech sector consolidates](https://techcrunch.com/2026/03/15/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-indias-edtech-sector-consolidates/) (2026-03-15)
 - [TechCrunch Mobility: Travis Kalanick’s return proves it really is 2016 again](https://techcrunch.com/2026/03/15/techcrunch-mobility-travis-kalanicks-return-proves-it-really-is-2016-again/) (2026-03-15)
-- [Wiz investor unpacks Google’s $32B acquisition](https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/) (2026-03-15)
-- [Rivian’s RJ Scaringe thinks we’re doing robots all wrong](https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/) (2026-03-15)
-- [The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit](https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/) (2026-03-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Grandparents are glued to their phones, families are worried [video]](https://www.bbc.com/reel/video/p0n61dg3/grandparents-are-glued-to-their-phones-families-are-worried) (2026-03-15)
-- [SuperTux 0.7.0](https://github.com/SuperTux/supertux/releases/tag/v0.7.0) (2026-03-15)
-- [Ask HN: How is AI-assisted coding going for you professionally?](https://news.ycombinator.com/item?id=47388646) (2026-03-15)
-- [In Memoriam: John W. Addison, my PhD advisor](https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/) (2026-03-15)
-- [UMD Scientists Create 'Smart Underwear' to Measure Human Flatulence](https://cbmg.umd.edu/news-events/news/brantley-hall-umd-scientists-create-smart-underwear-measure-human-flatulence) (2026-03-15)
+- [Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells (2016)](https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/) (2026-03-16)
+- [The Linux Programming Interface as a university course text](https://man7.org/tlpi/academic/index.html) (2026-03-15)
+- [Excel incorrectly assumes that the year 1900 is a leap year](https://learn.microsoft.com/en-us/troubleshoot/microsoft-365-apps/excel/wrongly-assumes-1900-is-leap-year) (2026-03-15)
+- [Show HN: Open-source playground to red-team AI agents with exploits published](https://github.com/fabraix/playground) (2026-03-15)
+- [Nasdaq's Shame](https://keubiko.substack.com/p/nasdaqs-shame) (2026-03-15)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Aether OS is a computer in a browser built for the AT Protocol](https://www.theverge.com/tech/895083/aether-os-browser-at-protocol) (2026-03-15)
 - [Sotomayor’s Wabi Sabi is the funnest record of 2026](https://www.theverge.com/entertainment/895065/sotomayor-wabi-sabi-review) (2026-03-15)
 - [AI Czar David Sacks wants Trump to ‘get out’ of Iran](https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran) (2026-03-15)
 - [AI companies want to harvest improv actors’ skills to train AI on human emotion](https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data) (2026-03-15)
 - [Samsung’s Galaxy Buds 4 Pro are the choice — if you have a Galaxy phone](https://www.theverge.com/tech/894501/samsung-galaxy-buds-4-pro-review) (2026-03-15)
-- [The fast rise and epic fall of Clubhouse](https://www.theverge.com/podcast/895044/clubhouse-audio-social-network-version-history) (2026-03-15)
 
 </details>
 
@@ -97,22 +97,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Ethni-CITY: The New Travel App](https://dev.to/ebukae/ethni-city-the-new-travel-app-3o64) (2026-03-15)
-- [How I Built Encrypted Bluetooth Team Sync in Flutter — AES-256-GCM, ECDH, CRDTs, Zero Servers](https://dev.to/redgridtactical/how-i-built-encrypted-bluetooth-team-sync-in-flutter-aes-256-gcm-ecdh-crdts-zero-servers-40e2) (2026-03-15)
-- [From Photographer to Dev at 36: Why Your Age Is Your Secret Weapon](https://dev.to/vila_segura_34b9bdb2c9cd6/from-photographer-to-dev-at-36-why-your-age-is-your-secret-weapon-4oid) (2026-03-15)
-- [I Got Distracted Watching a Golang Tutorial. So I Built an Project That Won't Let You.](https://dev.to/prateek_hitli_5a7d19f1c87/i-got-distracted-watching-a-golang-tutorial-so-i-built-an-project-that-wont-let-you-843) (2026-03-15)
-- [Week 9: Setup AWS IAM and EC2 for Beginners](https://dev.to/fosres/secure-aws-lab-setup-for-security-engineers-iam-identity-center-ssm-zero-open-ports-1hfn) (2026-03-15)
+- [Day 16 of 100](https://dev.to/hirave_palak/day-16-of-100-205j) (2026-03-16)
+- [Cursor vs Trae vs Kiro vs GitHub Copilot: My Honest 2-Year Review of 4 AI IDEs](https://dev.to/jane_lee_ecafb4b88ef2eff0/cursor-vs-trae-vs-kiro-vs-github-copilot-my-honest-2-year-review-of-4-ai-ides-29of) (2026-03-16)
+- [Building Aura: A Multimodal Smart Home Operated by Gemini Live 🌌](https://dev.to/gde/building-aura-a-multimodal-smart-home-operated-by-gemini-live-2m31) (2026-03-16)
+- [2026 WeCoded Challenge (Glass Ceiling)](https://dev.to/dan52242644dan/2026-wecoded-challenge-glass-ceiling-2nn4) (2026-03-16)
+- [Build an MCP Server That Finds Your RAG Chatbot's Blind Spots](https://dev.to/hamurda/build-an-mcp-server-that-finds-your-rag-chatbots-blind-spots-3hb1) (2026-03-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Day 7 of My Selenium Automation Journey: Strengthening Java Fundamentals](https://medium.com/@thotanitishkumar123/day-7-of-my-selenium-automation-journey-strengthening-java-fundamentals-563f61a9a536?source=rss------programming-5) (2026-03-15)
-- [AI Coding Tools Helped Us Finish a 4-Week Task in 1 Week — Here’s What We Actually Learned](https://medium.com/@ashiksmanjunath/ai-coding-tools-helped-us-finish-a-4-week-task-in-1-week-heres-what-we-actually-learned-2c478221a243?source=rss------programming-5) (2026-03-15)
-- [How I’m Trying to Build Multiple Online Income Streams as a Full-Time Engineer](https://medium.com/freelancers-hub/how-im-trying-to-build-multiple-online-income-streams-as-a-full-time-engineer-6df65efa17b9?source=rss------programming-5) (2026-03-15)
-- [The Algorithm Already Knows What You Will Click Tomorrow](https://medium.com/activated-thinker/the-algorithm-already-knows-what-you-will-click-tomorrow-c3d93ea0cd58?source=rss------programming-5) (2026-03-15)
-- [The Cube That Taught Me to Code](https://medium.com/@nustian2022/the-cube-that-taught-me-to-code-077fb03f1c37?source=rss------programming-5) (2026-03-15)
+- [Build a Hemingway Editor Clone with TypeScript in 50 Lines](https://medium.com/@agent_49689/build-a-hemingway-editor-clone-with-typescript-in-50-lines-a7131e291f10?source=rss------programming-5) (2026-03-16)
+- [textlens vs text-readability vs natural: Which npm Package for Text Analysis?](https://medium.com/@agent_49689/textlens-vs-text-readability-vs-natural-which-npm-package-for-text-analysis-f35aa14afeee?source=rss------programming-5) (2026-03-16)
+- [The Transaction-Backed Digital Assets Protocol
+The Transaction-Backed Digital Assets Protocol…](https://medium.com/@ranjithreddyp.3688/the-transaction-backed-digital-assets-protocol-the-transaction-backed-digital-assets-protocol-1302a6c478f4?source=rss------programming-5) (2026-03-16)
+- [# Questions Surround BELIFT LAB’s Announcement on Heeseung and the Future of ENHYPEN](https://medium.com/@ninak3772/questions-surround-belift-labs-announcement-on-heeseung-and-the-future-of-enhypen-e7a1c4e0bd13?source=rss------programming-5) (2026-03-16)
+- [I Realized That “Soft Language” is Actually a Survival Mechanism in Disguise](https://medium.com/@attunehealing2024/i-realized-that-soft-language-is-actually-a-survival-mechanism-in-disguise-5f5f84be7565?source=rss------programming-5) (2026-03-16)
 
 </details>
 
@@ -130,11 +131,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Modernizing regulated industries with cloud and agentic AI](https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/) (2026-03-11)
-- [Many agents, one team: Scaling modernization on Azure](https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/) (2026-03-11)
-- [Introducing Fireworks AI on Microsoft Foundry: Bringing high performance, low latency open model inference to Azure](https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/) (2026-03-11)
-- [Unpacking your top questions on agentic AI: The Shift podcast](https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/) (2026-03-09)
-- [The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry](https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/) (2026-03-06)
+- [Unlocking document understanding with Mistral Document AI in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664) (2026-03-03)
+- [Instant access incremental snapshots: Restore without waiting](https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/) (2026-03-02)
+- [Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected](http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog) (2026-02-24)
+- [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
+- [Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873) (2026-02-17)
 
 </details>
 
@@ -306,11 +307,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Share Your Opinion of Qodana for the Chance to WIN!](https://blog.jetbrains.com/qodana/2026/03/qodana-survey/) (2026-03-15)
 - [Python Unplugged on PyTV Recap](https://blog.jetbrains.com/pycharm/2026/03/python-unplugged-on-pytv-recap/) (2026-03-13)
 - [Datalore 2026.1: New Data Explorer Cells, Instance-Wide BYOK for AI, Stronger Security via Sidecar Containers in Kubernetes, and More](https://blog.jetbrains.com/datalore/2026/03/13/datalore-2026-1/) (2026-03-13)
 - [The Impact and Achievements of AI4SE in 2025](https://blog.jetbrains.com/research/2026/03/ai4se-in-2025/) (2026-03-12)
 - [Introducing Tracy: The AI Observability Library for Kotlin](https://blog.jetbrains.com/kotlin/2026/03/introducing-tracy-the-ai-observability-library-for-kotlin/) (2026-03-11)
-- [Centralized Power: How TeamCity’s Architecture Solves Jenkins’ Scaling Problem](https://blog.jetbrains.com/teamcity/2026/03/jenkins-scaling-problems/) (2026-03-11)
 
 </details>
 
