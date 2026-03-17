@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Picsart now allows creators to ‘hire’ AI assistants through agent marketplace](https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/) (2026-03-17)
 - [SEC eyes shift to twice-yearly earnings reports](https://techcrunch.com/2026/03/16/sec-eyes-shift-to-twice-yearly-earnings-reports/) (2026-03-17)
 - [Nvidia’s version of OpenClaw could solve its biggest problem: security](https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/) (2026-03-16)
 - [Jensen Huang just put Nvidia’s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere](https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/) (2026-03-16)
 - [Warren presses Pentagon over decision to grant xAI access to classified networks](https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/) (2026-03-16)
-- [Memories AI is building the visual memory layer for wearables and robotics](https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/) (2026-03-16)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Kagi Translate now supports LinkedIn Speak as an output language](https://translate.kagi.com/?from=en&to=LinkedIn+speak) (2026-03-17)
+- [Monkey Island for Commodore 64 Ground Up](https://pixeldust.se/monkey-island-project) (2026-03-17)
+- [Jepsen: MariaDB Galera Cluster 12.1.2](https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2) (2026-03-17)
+- [Every layer of review makes you 10x slower](https://apenwarr.ca/log/20260316) (2026-03-17)
 - [US SEC preparing to scrap quarterly reporting requirement](https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/) (2026-03-17)
-- [Show HN: Trackm, a personal finance web app](https://trackm.net) (2026-03-16)
-- [AnswerThis (YC F25) Is Hiring](https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead) (2026-03-16)
-- [Leanstral: Open-source agent for trustworthy coding and formal proof engineering](https://mistral.ai/news/leanstral) (2026-03-16)
-- [Nvidia Launches Vera CPU, Purpose-Built for Agentic AI](https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai) (2026-03-16)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Inline Gradient Chips in HarmonyOS: CustomSpan, Text Wrapper, and ImageSpan Approaches](https://dev.to/harmonyos/inline-gradient-chips-in-harmonyosnext-customspan-text-wrapper-and-imagespan-approaches-20go) (2026-03-17)
-- [OFAC Sanctions Screening for Crypto and DeFi: A Developer's Guide](https://dev.to/easysolutions906/ofac-sanctions-screening-for-crypto-and-defi-a-developers-guide-3fj1) (2026-03-17)
-- [Fixing “Install Failed: code:9568347 – install parse native so failed” for a HarmonyOS Native (C++) Project](https://dev.to/harmonyos/fixing-install-failed-code9568347-install-parse-native-so-failed-for-a-harmonyos-native-c-2gmi) (2026-03-17)
-- [Djangonaut diaries, week 2: working on the first issue](https://dev.to/rodbv/djangonaut-diaries-week-2-working-on-the-first-issue-3756) (2026-03-17)
-- [Sharing State Across Packages and Apps in a React Monorepo (Web + Mobile)](https://dev.to/abdalla_emad_335fff40f342/sharing-state-across-packages-and-apps-in-a-react-monorepo-web-mobile-4gak) (2026-03-17)
+- [Oracle APEX Reporting Tools Comparison (2026 Edition)](https://dev.to/shanemccoy37/oracle-apex-reporting-tools-comparison-2026-edition-bf4) (2026-03-17)
+- [JavaScript Events Simply Explained With Real Code Examples](https://dev.to/manikanta_yarramsetti_7bc/javascript-events-explained-in-a-way-that-actually-makes-sense-3c2b) (2026-03-17)
+- [Proof of Concept vs Prototype vs MVP: Knowing When to Use Which](https://dev.to/lollypop_vietnam_d12b708c/proof-of-concept-vs-prototype-vs-mvp-knowing-when-to-use-which-3ib6) (2026-03-17)
+- [How we reduced AI inference costs by 60% without sacrificing accuracy](https://dev.to/adamo_software/how-we-reduced-ai-inference-costs-by-60-without-sacrificing-accuracy-448h) (2026-03-17)
+- [When Autonomous AI Agents Go Mainstream: The Hidden Security Risks Behind OpenClaw](https://dev.to/meowth/when-autonomous-ai-agents-go-mainstream-the-hidden-security-risks-behind-openclaw-2ffg) (2026-03-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Tried Letting AI Handle Code Maintenance. Here’s What Happened.](https://hafiqiqmal93.medium.com/i-tried-letting-ai-handle-code-maintenance-heres-what-happened-d22e7d10f614?source=rss------programming-5) (2026-03-17)
-- [I Caught an AI Being Confidently Wrong — Here’s What It Revealed](https://ai.plainenglish.io/i-caught-an-ai-being-confidently-wrong-heres-what-it-revealed-58fe1d233a26?source=rss------programming-5) (2026-03-17)
-- [Building an AI Chat-to-Database Assistant: Natural Language to SQL with a Dual-LLM Pipeline](https://medium.com/@gravitano/building-an-ai-chat-to-database-assistant-natural-language-to-sql-with-a-dual-llm-pipeline-6c622df4cb1e?source=rss------programming-5) (2026-03-17)
-- [6 Python Tools That Simplify Command-Line Applications](https://python.plainenglish.io/6-python-tools-that-simplify-command-line-applications-ec1b1ae65268?source=rss------programming-5) (2026-03-17)
-- [Spring IoC Containers Explained: BeanFactory vs ApplicationContext](https://medium.com/@sunil17bbmp/spring-ioc-containers-explained-beanfactory-vs-applicationcontext-42494964f967?source=rss------programming-5) (2026-03-17)
+- [486. Latest AWS Updates (2026): What Every Cloud & DevOps Engineer Must Know](https://medium.com/@venkatvk46/486-latest-aws-updates-2026-what-every-cloud-devops-engineer-must-know-07fdbdf4b1d2?source=rss------programming-5) (2026-03-17)
+- [How to Install Miniconda for AI Tools (Beginner Guide, No Coding Experience Needed)](https://medium.com/@chow_phoonsam/how-to-install-miniconda-for-ai-tools-beginner-guide-no-coding-experience-needed-68e077ef50aa?source=rss------programming-5) (2026-03-17)
+- [5 CLI Tools Completely Changed My Development Workflow](https://medium.com/@premchandak_11/5-cli-tools-completely-changed-my-development-workflow-990abef92b40?source=rss------programming-5) (2026-03-17)
+- [Data type and its use in C programming](https://medium.com/@ujjwal19sinha/data-type-and-its-use-in-c-programming-310ec244bc95?source=rss------programming-5) (2026-03-17)
+- [What Salesforce Consulting Partners Recommend for CRM Data Security](https://medium.com/@elena.james/what-salesforce-consulting-partners-recommend-for-crm-data-security-14f19088b3a0?source=rss------programming-5) (2026-03-17)
 
 </details>
 
@@ -143,9 +143,9 @@
 
 - [Roche Scales NVIDIA AI Factories Globally to Accelerate Drug Discovery, Diagnostic Solutions and Manufacturing Breakthroughs](https://blogs.nvidia.com/blog/roche-ai-factories-omniverse/) (2026-03-16)
 - [NVIDIA DSX Air Boosts Time to Token With Accelerated Simulation for AI Factories](https://blogs.nvidia.com/blog/dsx-air-simulation-ai-factories/) (2026-03-16)
+- [NVIDIA GTC 2026: Live Updates on What’s Next in AI](https://blogs.nvidia.com/blog/gtc-2026-news/) (2026-03-16)
 - [Into the Omniverse: How Industrial AI and Digital Twins Accelerate Design, Engineering and Manufacturing Across Industries](https://blogs.nvidia.com/blog/industrial-ai-digital-twins-omniverse/) (2026-03-12)
 - [New NVIDIA Nemotron 3 Super Delivers 5x Higher Throughput for Agentic AI](https://blogs.nvidia.com/blog/nemotron-3-super-agentic-ai/) (2026-03-11)
-- [NVIDIA GTC 2026: Live Updates on What’s Next in AI](https://blogs.nvidia.com/blog/gtc-2026-news/) (2026-03-11)
 
 </details>
 
@@ -362,16 +362,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-How to Approve Real Users and Block Fake Accounts at Sign Up with Lookup and Verify
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accounts-lookup-verify-node
-) (2026-03-16)
-- [
-How to Handle No-Answer/Pickup Scenarios with Voicemail and Callback using Twilio Voice 
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/no-answer-pickup-scenarios-with-voicemail-and-callack-using-twilio-voice
-) (2026-03-16)
-- [
 Build a WhatsApp AI Agent with Node.js, Twilio Messaging, and OpenAI’s GPT-5
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/whatsapp-ai-agent-twilio-openai
@@ -386,6 +376,16 @@ Customer lifetime value: formula, calculation & examples
 ](
 https://www.twilio.com/en-us/blog/insights/customer-lifetime-value-clv
 ) (2026-03-10)
+- [
+How To Containerize A Twilio App With Docker
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/building-blocks/how-to-containerize-a-twilio-app-with-docker
+) (2026-03-09)
+- [
+Send Bulk SMS With PHP and Twilio
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/send-bulk-sms-with-php-and-twilio
+) (2026-03-06)
 
 </details>
 
@@ -569,7 +569,7 @@ https://www.twilio.com/en-us/blog/insights/customer-lifetime-value-clv
 <summary>📊 Towards Data Science</summary>
 
 - [Hallucinations in LLMs Are Not a Bug in the Data](https://towardsdatascience.com/hallucinations-in-llms-are-not-a-bug-in-the-data/) (2026-03-16)
-- [Follow the AI Footpaths](https://towardsdatascience.com/follow-the-ai-footpaths/) (2026-03-16)
+- [Follow AI Footpaths](https://towardsdatascience.com/follow-the-ai-footpaths/) (2026-03-16)
 - [How to Build a Production-Ready Claude Code Skill](https://towardsdatascience.com/how-to-build-a-production-ready-claude-code-skill/) (2026-03-16)
 - [Bayesian Thinking for People Who Hated Statistics](https://towardsdatascience.com/bayesian-thinking-for-people-who-hated-statistics/) (2026-03-16)
 - [The 2026 Data Mandate: Is Your Governance Architecture a Fortress or a Liability?](https://towardsdatascience.com/the-2026-data-mandate-is-your-governance-architecture-a-fortress-or-a-liability/) (2026-03-15)
