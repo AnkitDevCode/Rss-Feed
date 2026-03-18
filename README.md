@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Mave Health aims to improve attention and mood with its brain-stimulating headset](https://techcrunch.com/2026/03/18/mave-health-aims-to-improve-attention-and-mood-with-its-brain-stimulating-headset/) (2026-03-18)
 - [Kalshi’s legal troubles pile up, as Arizona files first ever criminal charges over ‘illegal gambling business’](https://techcrunch.com/2026/03/17/kalshis-legal-troubles-pile-up-as-arizona-files-first-ever-criminal-charges-over-illegal-gambling-business/) (2026-03-17)
 - [Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise](https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/) (2026-03-17)
 - [Why Garry Tan’s Claude Code setup has gotten so much love, and hate](https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/) (2026-03-17)
 - [Apple rolls out first ‘background security’ update for iPhones, iPads, and Macs to fix Safari bug](https://techcrunch.com/2026/03/17/apple-rolls-out-first-background-security-update-for-iphones-ipads-and-macs-to-fix-safari-bug/) (2026-03-17)
-- [Kagi brings its ‘small web’ of a human-only internet to mobile devices](https://techcrunch.com/2026/03/17/kagi-small-web-human-authored-indie-internet-mobile-ios-android-devices/) (2026-03-17)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Switzerland Built an Alternative to BGP](https://www.theregister.com/2026/03/17/switzerland_bgp_alternative/) (2026-03-18)
-- [SSH has no Host header](https://blog.exe.dev/ssh-host-header) (2026-03-18)
-- [Forget Flags and Scripts: Just Rename the File](https://robertsdotpm.github.io/software_engineering/program_names_as_input.html) (2026-03-18)
-- [Have a Fucking Website](https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/) (2026-03-18)
-- [Launch an autonomous AI agent with sandboxed execution in 2 lines of code](https://amaiya.github.io/onprem/examples_agent.html) (2026-03-18)
+- [Measuring progress toward AGI: A cognitive framework](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/) (2026-03-18)
+- [Rob Pike's 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html) (2026-03-18)
+- [Nightingale – open-source karaoke app that works with any song on your computer](https://nightingale.cafe/) (2026-03-18)
+- [Animation 10k Starlink Satellites](https://spaceweather.com/archive.php?view=1&day=18&month=03&year=2026) (2026-03-18)
+- [Ndea (YC W26) is hiring a symbolic RL search guidance lead](https://ndea.com/jobs/search-guidance) (2026-03-18)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [BMW brings back the i3 as a funky four-door EV](https://www.theverge.com/transportation/895265/bmw-i3-neue-klasse-ev-price-specs) (2026-03-18)
 - [I went to the Pentagon to watch Pete Hegseth scold war reporters](https://www.theverge.com/policy/896312/pentagon-briefing-iran-war-pete-hegseth) (2026-03-17)
 - [The Beats Studio Pro are nearly $200 off ahead of Amazon’s big spring sale](https://www.theverge.com/gadgets/896279/beats-studio-pro-anc-headphones-amazon-big-spring-sale-deal-2026) (2026-03-17)
 - [Remedy’s live-service shooter Firebreak is getting its final major update](https://www.theverge.com/entertainment/896278/fbc-firebreak-last-update-remedy) (2026-03-17)
 - [Spotify adds &#8216;Exclusive Mode&#8217; audiophile feature for Windows PCs](https://www.theverge.com/entertainment/896290/spotify-exclusive-mode-windows) (2026-03-17)
-- [Ikea tried to build a smart home for everyone — here&#8217;s why it&#8217;s not working yet](https://www.theverge.com/tech/896006/ikea-matter-thread-smart-home-problems) (2026-03-17)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [After Discord fiasco, age-check tech promises privacy by running locally. Does it work?](https://arstechnica.com/tech-policy/2026/03/after-discord-fiasco-age-check-tech-promises-privacy-by-running-locally-does-it-work/) (2026-03-18)
+- [Here's BMW's first all-electric 3 series, the 2027 i3](https://arstechnica.com/cars/2026/03/heres-bmws-first-all-electric-3-series-the-2027-i3/) (2026-03-18)
 - [Apple can delist apps "with or without cause," judge says in loss for Musi app](https://arstechnica.com/tech-policy/2026/03/judge-upholds-apple-delisting-of-free-musi-app-that-streams-songs-from-youtube/) (2026-03-17)
 - [How World ID wants to put a unique human identity on every AI agent](https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents/) (2026-03-17)
 - [Arizona indicts prediction market Kalshi for running illegal gambling operation](https://arstechnica.com/tech-policy/2026/03/arizona-indicts-prediction-market-kalshi-for-running-illegal-gambling-operation/) (2026-03-17)
-- [FDA links raw cheese to outbreak; Makers "100% disagree," refuse recall](https://arstechnica.com/health/2026/03/fda-links-raw-cheese-to-outbreak-makers-100-disagree-refuse-recall/) (2026-03-17)
-- [Trump's plan to shut down weather and climate center triggers lawsuit](https://arstechnica.com/science/2026/03/university-group-sues-trump-administration-over-shutdown-of-climate-center/) (2026-03-17)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors](https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/) (2026-03-18)
+- [What do new nuclear reactors mean for waste?](https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/) (2026-03-18)
 - [The Pentagon is planning for AI companies to train on classified data, defense official says](https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/) (2026-03-17)
 - [The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit](https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/) (2026-03-17)
 - [Where OpenAI’s technology could show up in Iran](https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/) (2026-03-16)
-- [Nurturing agentic AI beyond the toddler stage](https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/) (2026-03-16)
-- [The Download: glass chips and “AI-free” logos](https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/) (2026-03-16)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [$99 vs $49 vs $5: The Honest Landing Page Builder Comparison](https://dev.to/abirbuilds/99-vs-49-vs-5-the-honest-landing-page-builder-comparison-23e6) (2026-03-18)
-- [How We Built an AI Agent in 48 Hours](https://dev.to/emma_schmidt_/how-we-built-an-ai-agent-in-48-hours-1l4p) (2026-03-18)
-- [Guify: Turn Your Website into an Interactive OS Experience](https://dev.to/sanugakuruppu/guify-turn-your-website-into-an-interactive-os-experience-bnc) (2026-03-18)
-- [Linux Command Line: The Complete Cheat Sheet](https://dev.to/apaksh/linux-command-line-the-complete-cheat-sheet-pii) (2026-03-18)
-- [I Built an AI SaaS at 18 With No Money, Got Sick Three Times, and Still Shipped It](https://dev.to/abirbuilds/i-built-an-ai-saas-at-18-with-no-money-got-sick-three-times-and-still-shipped-it-3c2l) (2026-03-18)
+- [Mistral AI Releases Forge: What You Need to Know](https://dev.to/onsen/mistral-ai-releases-forge-what-you-need-to-know-625) (2026-03-18)
+- [Finding Blocking Code in Async Rust Without Changing a Single Line](https://dev.to/ticktockbent/finding-blocking-code-in-async-rust-without-changing-a-single-line-3c75) (2026-03-18)
+- [How I Built an AI That Breeds Its Own Jailbreaks Using Genetic Algorithms](https://dev.to/regaan/how-i-built-an-ai-that-breeds-its-own-jailbreaks-using-genetic-algorithms-270l) (2026-03-18)
+- [Namespace strategies for multi-project OpenClaw agents](https://dev.to/anajuliabit/namespace-strategies-for-multi-project-openclaw-agents-3de6) (2026-03-18)
+- [How to Set Up the Manifest Observability Plugin for OpenClaw Agents – Step‑by‑Step Guide](https://dev.to/aloycwl/how-to-set-up-the-manifest-observability-plugin-for-openclaw-agents-step-by-step-guide-5f) (2026-03-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How to Install Visual Studio for AI Tools (Beginner Step-by-Step Guide)](https://medium.com/@chow_phoonsam/how-to-install-visual-studio-for-ai-tools-beginner-step-by-step-guide-e8662a1fa34a?source=rss------programming-5) (2026-03-18)
-- [Best Coding Classes in Pune for Beginners & Graduates | Top Programming Institutes in Pune with…](https://medium.com/@skillsitacademyfaculty/best-coding-classes-in-pune-for-beginners-graduates-top-programming-institutes-in-pune-with-8b7c69570c26?source=rss------programming-5) (2026-03-18)
-- [Mastering Concurrency in iOS: Understanding GCD Queues and QoS](https://medium.com/@vaidhiktechstories/mastering-concurrency-in-ios-understanding-gcd-queues-and-qos-7370344e52a6?source=rss------programming-5) (2026-03-18)
-- [Part 17: Data Manipulation in Advanced Filtering and Conditional Logic](https://medium.com/@er.rajkumaar/part-17-data-manipulation-in-advanced-filtering-and-conditional-logic-4e7b83df388b?source=rss------programming-5) (2026-03-18)
-- [Is Data Analytics a Good Career in 2026? Salary & Scope in Kerala](https://medium.com/@mridhulacokonet/is-data-analytics-a-good-career-in-2026-salary-scope-in-kerala-621dc8f3e928?source=rss------programming-5) (2026-03-18)
+- [You’re Not Learning to Think. You’re Learning to Direct.](https://medium.com/@shoryavardhaans2/youre-not-learning-to-think-you-re-learning-to-direct-703a2e7f624d?source=rss------programming-5) (2026-03-18)
+- [The Skill Gap Nobody Talks About (And Why It’s Growing Faster Than You Think)](https://medium.com/@hello_22342/the-skill-gap-nobody-talks-about-and-why-its-growing-faster-than-you-think-1e2dd486eea0?source=rss------programming-5) (2026-03-18)
+- [From Classical Coding to Quantum Thinking](https://medium.com/womenintechnology/from-classical-coding-to-quantum-thinking-862e3673ad77?source=rss------programming-5) (2026-03-18)
+- [My Friend Had No Degree, No Bootcamp, and No Plan. Then He Got the Job.](https://medium.com/@morgan.e.ellis/my-friend-had-no-degree-no-bootcamp-and-no-plan-then-he-got-the-job-2ea7ee1101f5?source=rss------programming-5) (2026-03-18)
+- [Why Google Search Feels Instant (Even Though It Searches the Entire Internet)](https://kawaldeepsingh.medium.com/why-google-search-feels-instant-even-though-it-searches-the-entire-internet-0de3c7fac935?source=rss------programming-5) (2026-03-18)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Modernizing regulated industries with cloud and agentic AI](https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/) (2026-03-11)
+- [Many agents, one team: Scaling modernization on Azure](https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/) (2026-03-11)
+- [Introducing Fireworks AI on Microsoft Foundry: Bringing high performance, low latency open model inference to Azure](https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/) (2026-03-11)
+- [Unpacking your top questions on agentic AI: The Shift podcast](https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/) (2026-03-09)
 - [The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry](https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/) (2026-03-06)
-- [Introducing GPT-5.4 in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785) (2026-03-05)
-- [Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure](https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/) (2026-03-04)
-- [Unlocking document understanding with Mistral Document AI in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664) (2026-03-03)
-- [Instant access incremental snapshots: Restore without waiting](https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/) (2026-03-02)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [CloudBees vs TeamCity: Enterprise CI/CD Beyond Jenkins](https://blog.jetbrains.com/teamcity/2026/03/cloudbees-vs-teamcity/) (2026-03-18)
 - [UI Freezes and the Dangers of Non-Cancellable Read Actions in Background Threads](https://blog.jetbrains.com/platform/2026/03/ui-freezes-and-the-dangers-of-non-cancellable-read-actions-in-background-threads/) (2026-03-17)
 - [IntelliJ IDEA 2025.3.4 is Out!](https://blog.jetbrains.com/idea/2026/03/intellij-idea-2025-3-4/) (2026-03-17)
 - [Java 26 in IntelliJ IDEA](https://blog.jetbrains.com/idea/2026/03/java-26-in-intellij-idea/) (2026-03-17)
 - [Toolbox App 3.4: Remote IDE Lifecycle Hooks, macOS Fullscreen Fix, UTF-8 Support, and More](https://blog.jetbrains.com/toolbox-app/2026/03/toolbox-app-3-4-remote-ide-lifecycle-hooks-macos-fullscreen-fix-utf-8-support-and-more/) (2026-03-17)
-- [Koog Comes to Java: The Enterprise AI Agent Framework From JetBrains](https://blog.jetbrains.com/ai/2026/03/koog-comes-to-java/) (2026-03-17)
 
 </details>
 
@@ -568,33 +568,33 @@ https://www.twilio.com/en-us/blog/insights/customer-lifetime-value-clv
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models](https://towardsdatascience.com/one-model-to-rule-them-all-sap-rpt-1-and-the-future-of-tabular-foundation-models/) (2026-03-18)
 - [How to Effectively Review Claude Code Output](https://towardsdatascience.com/how-to-effectively-review-claude-code-output/) (2026-03-17)
 - [Self-Hosting Your First LLM](https://towardsdatascience.com/self-hosting-your-first-llm/) (2026-03-17)
 - [Introducing Gemini Embeddings 2 Preview](https://towardsdatascience.com/introducing-gemini-embeddings-2-preview/) (2026-03-17)
 - [How a Neural Network Learned Its Own Fraud Rules: A Neuro-Symbolic AI Experiment](https://towardsdatascience.com/how-a-neural-network-learned-its-own-fraud-rules-a-neuro-symbolic-ai-experiment/) (2026-03-17)
-- [Hallucinations in LLMs Are Not a Bug in the Data](https://towardsdatascience.com/hallucinations-in-llms-are-not-a-bug-in-the-data/) (2026-03-16)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [A Guide to OpenRouter for AI Development](https://www.analyticsvidhya.com/blog/2026/03/a-guide-to-openrouter/) (2026-03-18)
+- [ChatGPT vs Claude: The 2026 Battle of the AI Model Families](https://www.analyticsvidhya.com/blog/2026/03/chatgpt-vs-claude/) (2026-03-18)
 - [Excel 101: COUNT and COUNTIF Functions](https://www.analyticsvidhya.com/blog/2026/03/count-and-countif-functions/) (2026-03-17)
 - [Top 7 Free Machine Learning Courses with Certificates](https://www.analyticsvidhya.com/blog/2026/03/free-machine-learning-courses-with-certificates/) (2026-03-16)
 - [Harness Engineering with LangChain DeepAgents and LangSmith](https://www.analyticsvidhya.com/blog/2026/03/harness-engineering/) (2026-03-16)
-- [Generative AI vs Agentic AI: From Creating Content to Taking Action](https://www.analyticsvidhya.com/blog/2026/03/generative-ai-vs-agentic-ai/) (2026-03-15)
-- [Excel 101: IF, AND, OR Functions and Conditional Logic Explained](https://www.analyticsvidhya.com/blog/2026/03/excel-if-and-or-functions-and-conditional-logic-explained/) (2026-03-14)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [7 Ways to Reduce Hallucinations in Production LLMs](https://www.kdnuggets.com/7-ways-to-reduce-hallucinations-in-production-llms) (2026-03-18)
 - [AIOps 101: The 3 Pillars of Reliably Deploying AI Models (Sponsored)](https://bit.ly/ingram-topic-21-kdn-website#new_tab) (2026-03-18)
 - [OpenClaw Explained: The Free AI Agent Tool Going Viral Already in 2026](https://www.kdnuggets.com/openclaw-explained-the-free-ai-agent-tool-going-viral-already-in-2026) (2026-03-17)
 - [The State of Agent Engineering Report Overview](https://www.kdnuggets.com/the-state-of-agent-engineering-report-overview) (2026-03-17)
 - [The Evolution From Prompt Engineering to Concept Engineering](https://www.kdnuggets.com/the-evolution-from-prompt-engineering-to-concept-engineering) (2026-03-17)
-- [5 Critical Shifts D&A Leaders Must Make to Drive Analytics and AI Success](https://www.kdnuggets.com/2026/03/gartner/5-critical-shifts-da-leaders-must-make-to-drive-analytics-and-ai-success) (2026-03-16)
 
 </details>
 
@@ -623,11 +623,11 @@ https://www.twilio.com/en-us/blog/insights/customer-lifetime-value-clv
 <details>
 <summary>🧠 DeepMind Blog</summary>
 
+- [Measuring progress toward AGI: A cognitive framework](https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/) (2026-03-17)
 - [From games to biology and beyond: 10 years of AlphaGo’s impact](https://deepmind.google/blog/10-years-of-alphago/) (2026-03-09)
 - [Gemini 3.1 Flash-Lite: Built for intelligence at scale](https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/) (2026-03-03)
 - [Nano Banana 2: Combining Pro capabilities with lightning-fast speed](https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/) (2026-02-26)
 - [Gemini 3.1 Pro: A smarter model for your most complex tasks](https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/) (2026-02-19)
-- [A new way to express yourself: Gemini can now create music](https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/) (2026-02-18)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
