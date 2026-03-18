@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Switzerland Built an Alternative to BGP](https://www.theregister.com/2026/03/17/switzerland_bgp_alternative/) (2026-03-18)
+- [SSH has no Host header](https://blog.exe.dev/ssh-host-header) (2026-03-18)
+- [Forget Flags and Scripts: Just Rename the File](https://robertsdotpm.github.io/software_engineering/program_names_as_input.html) (2026-03-18)
+- [Have a Fucking Website](https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/) (2026-03-18)
 - [Launch an autonomous AI agent with sandboxed execution in 2 lines of code](https://amaiya.github.io/onprem/examples_agent.html) (2026-03-18)
-- [Why AI systems don't learn – On autonomous learning from cognitive science](https://arxiv.org/abs/2603.15381) (2026-03-17)
-- [Mistral AI Releases Forge](https://mistral.ai/news/forge) (2026-03-17)
-- [Meta and TikTok let harmful content rise to drove engagement, say whistleblowers](https://www.bbc.com/news/articles/cqj9kgxqjwjo) (2026-03-17)
-- [Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System](https://github.com/gsd-build/get-shit-done) (2026-03-17)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I built an MCP server for Shopify and Stripe write operations — the gap nobody filled](https://dev.to/davide_conte_12a899361ed1/i-built-an-mcp-server-for-shopify-and-stripe-write-operations-the-gap-nobody-filled-n6) (2026-03-18)
-- [Building with Snowflake Cortex Analyst — What I Learned About Semantic Layers and Guardrails](https://dev.to/vijayrodrigues/building-with-snowflake-cortex-analyst-what-i-learned-about-semantic-layers-and-guardrails-23pm) (2026-03-18)
-- [How to Compress PNG Files Without Losing Quality [2026 Guide]](https://dev.to/pixotter/how-to-compress-png-files-without-losing-quality-2026-guide-2c14) (2026-03-18)
-- [Co-Packaged Optics (CPO): Redefining Optical Interconnects for AI Data Centers](https://dev.to/aicplight/co-packaged-optics-cpo-redefining-optical-interconnects-for-ai-data-centers-1p7b) (2026-03-18)
-- [MCP for AI Services: How to Give Claude Desktop Access to 30 GPU-Powered Tools](https://dev.to/gpubridge/mcp-for-ai-services-how-to-give-claude-desktop-access-to-30-gpu-powered-tools-1pn7) (2026-03-18)
+- [$99 vs $49 vs $5: The Honest Landing Page Builder Comparison](https://dev.to/abirbuilds/99-vs-49-vs-5-the-honest-landing-page-builder-comparison-23e6) (2026-03-18)
+- [How We Built an AI Agent in 48 Hours](https://dev.to/emma_schmidt_/how-we-built-an-ai-agent-in-48-hours-1l4p) (2026-03-18)
+- [Guify: Turn Your Website into an Interactive OS Experience](https://dev.to/sanugakuruppu/guify-turn-your-website-into-an-interactive-os-experience-bnc) (2026-03-18)
+- [Linux Command Line: The Complete Cheat Sheet](https://dev.to/apaksh/linux-command-line-the-complete-cheat-sheet-pii) (2026-03-18)
+- [I Built an AI SaaS at 18 With No Money, Got Sick Three Times, and Still Shipped It](https://dev.to/abirbuilds/i-built-an-ai-saas-at-18-with-no-money-got-sick-three-times-and-still-shipped-it-3c2l) (2026-03-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Rise of the AI Architect: Importance, Learning Curve, and How to Get Certified via Anthropic…](https://medium.com/@amit.rajawat12/the-rise-of-the-ai-architect-importance-learning-curve-and-how-to-get-certified-via-anthropic-18a59927deeb?source=rss------programming-5) (2026-03-18)
-- [What Your Architecture Diagrams Don’t Show (And Why That Matters)](https://medium.com/codetodeploy/what-your-architecture-diagrams-dont-show-and-why-that-matters-832f922b751b?source=rss------programming-5) (2026-03-18)
-- [Demystifying Bit Manipulation: The Ultimate Guide to Parity Checks in Python](https://ai.plainenglish.io/demystifying-bit-manipulation-the-ultimate-guide-to-parity-checks-in-python-bbabd884f8ee?source=rss------programming-5) (2026-03-18)
-- [Cool Tools Devs Actually Use](https://medium.com/@nikhilswain36/cool-tools-devs-actually-use-620319746c15?source=rss------programming-5) (2026-03-18)
-- [Idiomatic Go Design Patterns Every Backend Developer Should Know](https://elsyarifx.medium.com/idiomatic-go-design-patterns-every-backend-developer-should-know-8c0049656d0a?source=rss------programming-5) (2026-03-18)
+- [How to Install Visual Studio for AI Tools (Beginner Step-by-Step Guide)](https://medium.com/@chow_phoonsam/how-to-install-visual-studio-for-ai-tools-beginner-step-by-step-guide-e8662a1fa34a?source=rss------programming-5) (2026-03-18)
+- [Best Coding Classes in Pune for Beginners & Graduates | Top Programming Institutes in Pune with…](https://medium.com/@skillsitacademyfaculty/best-coding-classes-in-pune-for-beginners-graduates-top-programming-institutes-in-pune-with-8b7c69570c26?source=rss------programming-5) (2026-03-18)
+- [Mastering Concurrency in iOS: Understanding GCD Queues and QoS](https://medium.com/@vaidhiktechstories/mastering-concurrency-in-ios-understanding-gcd-queues-and-qos-7370344e52a6?source=rss------programming-5) (2026-03-18)
+- [Part 17: Data Manipulation in Advanced Filtering and Conditional Logic](https://medium.com/@er.rajkumaar/part-17-data-manipulation-in-advanced-filtering-and-conditional-logic-4e7b83df388b?source=rss------programming-5) (2026-03-18)
+- [Is Data Analytics a Good Career in 2026? Salary & Scope in Kerala](https://medium.com/@mridhulacokonet/is-data-analytics-a-good-career-in-2026-salary-scope-in-kerala-621dc8f3e928?source=rss------programming-5) (2026-03-18)
 
 </details>
 
@@ -452,6 +452,17 @@ https://www.twilio.com/en-us/blog/insights/customer-lifetime-value-clv
 - [GraphQL AI Working Group Recap: January 2026](https://graphql.org/blog/2026-01-22-recap-jan-2026-ai-wg) (2026-01-22)
 - [GraphQL AI Working Group Recap: November 2025](https://graphql.org/blog/2026-01-20-recap-nov-2025-ai-wg) (2026-01-20)
 - [Recap First GraphQL AI Working Group Meeting](https://graphql.org/blog/2025-11-13-recap-oct-ai-wg) (2025-11-13)
+
+</details>
+
+<details>
+<summary>🚀 Apollo GraphQL</summary>
+
+- [How We Taught an AI to Nitpick Docs](https://www.apollographql.com/blog/how-we-taught-an-ai-to-nitpick-docs) (2026-03-16)
+- [How to Build AI Agents Using Your GraphQL Schema](https://www.apollographql.com/blog/how-to-build-ai-agents-using-your-graphql-schema) (2026-03-12)
+- [The New Apollo Kotlin Normalized Cache](https://www.apollographql.com/blog/the-new-apollo-kotlin-normalized-cache) (2026-03-09)
+- [Building a Secure AI Agent API Stack with GraphQL, Apollo Skills, and MCP Server](https://www.apollographql.com/blog/building-a-secure-ai-agent-api-stack-with-graphql-apollo-skills-and-mcp-server) (2026-03-05)
+- [Building MCP Apps with Apollo Client and Apollo MCP Server](https://www.apollographql.com/blog/building-mcp-apps-with-apollo-client-and-apollo-mcp-server) (2026-03-02)
 
 </details>
 
