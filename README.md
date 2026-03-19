@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Two Palantir veterans just came out of stealth with $30 million and a Sequoia stamp of approval](https://techcrunch.com/2026/03/18/two-palantir-veterans-just-came-out-of-stealth-with-30-million-and-a-sequoia-stamp-of-approval/) (2026-03-19)
 - [Meta is having trouble with rogue AI agents](https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/) (2026-03-18)
 - [Sam Altman’s thank-you to coders draws the memes](https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/) (2026-03-18)
 - [Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place](https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/) (2026-03-18)
 - [Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business](https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/) (2026-03-18)
-- [FBI is buying location data to track US citizens, director confirms](https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/) (2026-03-18)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Ask HN: How do you deal with people who trust LLMs?](https://news.ycombinator.com/item?id=47433702) (2026-03-19)
-- [Autoresearch for SAT Solvers](https://github.com/iliazintchenko/agent-sat) (2026-03-19)
-- [Austin’s surge of new housing construction drove down rents](https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents) (2026-03-19)
-- [RX – a new random-access JSON alternative](https://github.com/creationix/rx) (2026-03-18)
-- [What’s on HTTP?](https://whatsonhttp.com/) (2026-03-18)
+- [What 81,000 people want from AI](https://www.anthropic.com/features/81k-interviews) (2026-03-19)
+- [Conway's Game of Life, in real life](https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life) (2026-03-19)
+- [Mozilla to launch free built-in VPN in upcoming Firefox 149](https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/) (2026-03-19)
+- [We Have Learned Nothing](https://colossus.com/article/we-have-learned-nothing-startup-pundits/) (2026-03-19)
+- [A sufficiently detailed spec is code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code) (2026-03-19)
 
 </details>
 
@@ -86,33 +86,34 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Building a global engineering team (plus AI agents) with Netlify](https://stackoverflow.blog/2026/03/19/building-a-global-engineering-team-netlify/) (2026-03-19)
 - [Keeping the lights on for open source ](https://stackoverflow.blog/2026/03/17/keeping-the-lights-on-for-open-source/) (2026-03-17)
 - [Domain expertise still wanted: the latest trends in AI-assisted knowledge for developers](https://stackoverflow.blog/2026/03/16/domain-expertise-still-wanted-the-latest-trends-in-ai/) (2026-03-16)
 - [Open source for awkward robots](https://stackoverflow.blog/2026/03/13/open-source-for-awkward-robots/) (2026-03-13)
 - [The context problem: Why enterprise AI needs more than foundation models](https://stackoverflow.blog/2026/03/12/enterprise-ai-needs-more-than-foundation-models/) (2026-03-12)
-- [Even the chip makers are making LLMs](https://stackoverflow.blog/2026/03/10/even-the-chip-makers-are-making-llms/) (2026-03-10)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Hands-On with Google AI Studio](https://dev.to/syedahmershah/hands-on-with-google-ai-studio-51m5) (2026-03-19)
-- [The Rollback](https://dev.to/thesythesis/the-rollback-8ig) (2026-03-19)
-- [How I Built a Credit Routing Layer That Saved Me $20/month on Manus AI](https://dev.to/rafsilva85/how-i-built-a-credit-routing-layer-that-saved-me-20month-on-manus-ai-1jig) (2026-03-19)
-- [The Media Says No One Wants Agent Micropayments. I Have 522 Data Points That Disagree.](https://dev.to/nathanielc85523/the-media-says-no-one-wants-agent-micropayments-i-have-522-data-points-that-disagree-23f9) (2026-03-19)
-- [Introducing Memoria: The World's First Git for AI Agent Memory](https://dev.to/origin_matrix_b790e656217/introducing-memoria-the-worlds-first-git-for-ai-agent-memory-4108) (2026-03-19)
+- [Cómo Añadir Memoria Persistente a Agentes de IA para Recordar el Pasado](https://dev.to/roobia/como-anadir-memoria-persistente-a-agentes-de-ia-para-recordar-el-pasado-30a) (2026-03-19)
+- [วิธีแปลงเอไอเอเจนต์เดียวให้ทำงานใน 10 IDE](https://dev.to/thanawat_wonchai/withiiaeplngeaieecchntediiywaihthamngaanain-10-ide-34c0) (2026-03-19)
+- [How the OpenClaw Video Message Skill Creates Avatar Video Notes – Step‑by‑Step Guide](https://dev.to/aloycwl/how-the-openclaw-video-message-skill-creates-avatar-video-notes-step-by-step-guide-5d5f) (2026-03-19)
+- [كيفية إعداد 5 وكلاء ذكاء اصطناعي لبناء واجهة برمجة تطبيقات كاملة (من المواصفات إلى الاختبار)](https://dev.to/yusuf_khalidd/kyfy-dd-5-wkl-dhk-stny-lbn-wjh-brmj-ttbyqt-kml-mn-lmwsft-l-lkhtbr-23bf) (2026-03-19)
+- [MCP Server erstellen: KI Agenten mit API Testing Fähigkeiten ausstatten](https://dev.to/emree_demir/mcp-server-erstellen-ki-agenten-mit-api-testing-fahigkeiten-ausstatten-g5o) (2026-03-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [1. La Gallina Turuleca](https://medium.com/@bautistagaloppo13/1-la-gallina-turuleca-be9c897a25f9?source=rss------programming-5) (2026-03-19)
-- [Your Backend Makes 200 Database Calls When It Should Make 2.](https://blog.stackademic.com/your-backend-makes-200-database-calls-when-it-should-make-2-64a718f5fa8d?source=rss------programming-5) (2026-03-19)
-- [I Built an AI Agent While Still Learning to Code](https://blog.stackademic.com/i-built-an-ai-agent-while-still-learning-to-code-21ec9c38f9fc?source=rss------programming-5) (2026-03-19)
-- [What I Learned From My First Machine Learning Course](https://blog.stackademic.com/what-i-learned-from-my-first-machine-learning-course-0029a89e4cfb?source=rss------programming-5) (2026-03-19)
-- [6 DevOps Portfolio Projects to Build This Weekend and Ace Any Interview](https://blog.stackademic.com/6-devops-portfolio-projects-to-build-this-weekend-and-ace-any-interview-d7a0ac7d2b9a?source=rss------programming-5) (2026-03-19)
+- [How to ‘Actually’ get inbound job offers ( my 10 job offers attached )](https://medium.com/@dikshitmahanot2005/how-to-actually-get-inbound-job-offers-my-10-job-offers-attached-fa4df06add9a?source=rss------programming-5) (2026-03-19)
+- [5 Weird Machine Learning Problems I Solved With Simple Python](https://blog.stackademic.com/5-weird-machine-learning-problems-i-solved-with-simple-python-9ce6c5e24601?source=rss------programming-5) (2026-03-19)
+- [Wall Street Turns Slightly Bearish on Crypto
+Big institutions like Citigroup are lowering their…](https://medium.com/@blockchainnews725/wall-street-turns-slightly-bearish-on-crypto-big-institutions-like-citigroup-are-lowering-their-7bceae2f363d?source=rss------programming-5) (2026-03-19)
+- [6 Python One-Liners That Made Me Question Everything](https://levelup.gitconnected.com/6-python-one-liners-that-made-me-question-everything-b2d674f57d20?source=rss------programming-5) (2026-03-19)
+- [I Thought I Could Install Linux on Anything. Then I Met a Chromebook.](https://medium.com/@tcloudadewale/i-thought-i-could-install-linux-on-anything-then-i-met-a-chromebook-0c5d086a6d52?source=rss------programming-5) (2026-03-19)
 
 </details>
 
@@ -130,11 +131,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry](https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/) (2026-03-06)
+- [Introducing GPT-5.4 in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785) (2026-03-05)
+- [Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure](https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/) (2026-03-04)
 - [Unlocking document understanding with Mistral Document AI in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664) (2026-03-03)
 - [Instant access incremental snapshots: Restore without waiting](https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/) (2026-03-02)
-- [Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected](http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog) (2026-02-24)
-- [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
-- [Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873) (2026-02-17)
 
 </details>
 
