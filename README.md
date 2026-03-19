@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Meta is having trouble with rogue AI agents](https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/) (2026-03-18)
+- [Sam Altman’s thank-you to coders draws the memes](https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/) (2026-03-18)
+- [Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place](https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/) (2026-03-18)
+- [Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business](https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/) (2026-03-18)
 - [FBI is buying location data to track US citizens, director confirms](https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/) (2026-03-18)
-- [Pardoned Nikola founder Trevor Milton is trying to raise $1B for AI-powered planes](https://techcrunch.com/2026/03/18/pardoned-nikola-founder-trevor-milton-is-trying-to-raise-1b-for-ai-powered-planes/) (2026-03-18)
-- [Patreon CEO calls AI companies’ fair use argument ‘bogus,’ says creators should be paid](https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/) (2026-03-18)
-- [Rebel Audio is a new AI podcasting tool aimed at first-time creators ](https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/) (2026-03-18)
-- [The Gemini-powered features in Google Workspace that are worth using](https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/) (2026-03-18)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [DOGE canceled NC Museum grant for HVAC systems after ChatGPT flagged it as DEI](https://myfox8.com/news/north-carolina/high-point/doge-canceled-high-point-museum-grant-for-hvac-systems-after-chatgpt-flagged-it-as-dei-lawsuit-alleges/) (2026-03-18)
-- [Oil nears $110 a barrel after gas field strike](https://www.bbc.com/news/articles/c78x83lpgngo) (2026-03-18)
-- [Show HN: Tmux-IDE, OSS agent-first terminal IDE](https://tmux.thijsverreck.com) (2026-03-18)
-- [I haven't used a mouse for 14 years](https://axelk.ee/i-havent-used-a-mouse-for-14-years-and-how-to-enable-three-fingers-drag-on-macos/) (2026-03-18)
-- [Show HN: Will my flight have Starlink?](https://news.ycombinator.com/item?id=47428650) (2026-03-18)
+- [Ask HN: How do you deal with people who trust LLMs?](https://news.ycombinator.com/item?id=47433702) (2026-03-19)
+- [Autoresearch for SAT Solvers](https://github.com/iliazintchenko/agent-sat) (2026-03-19)
+- [Austin’s surge of new housing construction drove down rents](https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents) (2026-03-19)
+- [RX – a new random-access JSON alternative](https://github.com/creationix/rx) (2026-03-18)
+- [What’s on HTTP?](https://whatsonhttp.com/) (2026-03-18)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Trump&#8217;s AI chief&#8217;s big Iran warning gets big time ignored](https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket) (2026-03-18)
-- [Robinhood is making a social network](https://www.theverge.com/tech/896989/robinhood-social-network-beta) (2026-03-18)
-- [ChatGPT did not cure a dog’s cancer](https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer) (2026-03-18)
-- [Kasa’s Matter-compatible smart plugs are on sale for $11 a pop](https://www.theverge.com/gadgets/896899/kasa-smart-wi-fi-plug-slim-amazon-early-big-spring-sale-deal-sale) (2026-03-18)
-- [My favorite robot vacuum now supports Matter](https://www.theverge.com/tech/896775/matic-robot-vacuum-apple-home-matter) (2026-03-18)
+- [The FBI is buying Americans’ location data](https://www.theverge.com/news/897145/kash-patel-ron-wyden-fbi-location-data-no-warrant) (2026-03-18)
+- [Amazon doesn’t want the blame for the Post Office going under](https://www.theverge.com/tech/897114/amazon-usps-contract-money-running-out) (2026-03-18)
+- [Congress considers blowing up internet law](https://www.theverge.com/policy/897106/section-230-reform-hearing-jawboning-social-media) (2026-03-18)
+- [Hoto’s powerful PixelDrive electric screwdriver is 25 percent off](https://www.theverge.com/gadgets/897056/hoto-pixeldrive-electric-screwdriver-amazon-big-spring-sale-deal) (2026-03-18)
+- [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals) (2026-03-18)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Federal cyber experts called Microsoft's cloud a "pile of shit," approved it anyway](https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/) (2026-03-18)
-- [A station wagon is entering one of the hardest 24-hour races in the world](https://arstechnica.com/cars/2026/03/bmw-says-station-wagons-are-no-joke-so-this-ones-going-to-the-nurburgring/) (2026-03-18)
-- [Peter faces a new life cycle in Spider-Man: Brand New Day trailer](https://arstechnica.com/culture/2026/03/peter-faces-a-new-life-cycle-in-spider-man-brand-new-day-trailer/) (2026-03-18)
-- [Users hate it, but age-check tech is coming. Here's how it works.](https://arstechnica.com/tech-policy/2026/03/after-discord-fiasco-age-check-tech-promises-privacy-by-running-locally-does-it-work/) (2026-03-18)
-- [Here's BMW's first all-electric 3 series, the 2027 i3](https://arstechnica.com/cars/2026/03/heres-bmws-first-all-electric-3-series-the-2027-i3/) (2026-03-18)
+- [Kagi Translate's AI answers the question "What would horny Margaret Thatcher say?"](https://arstechnica.com/ai/2026/03/kagi-translates-ai-answers-the-question-what-would-horny-margaret-thatcher-say/) (2026-03-18)
+- [Musk’s tactic of blaming users for Grok sex images may be foiled by EU law](https://arstechnica.com/tech-policy/2026/03/eu-moves-to-ban-nudify-apps-after-grok-made-them-mainstream/) (2026-03-18)
+- [Coal plant forced to stay open due to emergency order isn't even running](https://arstechnica.com/science/2026/03/coal-plant-forced-to-stay-open-due-to-emergency-order-isnt-even-running/) (2026-03-18)
+- [Never mind Band-Aids, Neanderthals had antiseptic birch tar](https://arstechnica.com/science/2026/03/never-mind-band-aids-neanderthals-had-antiseptic-birch-tar/) (2026-03-18)
+- [Cloudflare appeals Piracy Shield fine, hopes to kill Italy's site-blocking law](https://arstechnica.com/tech-policy/2026/03/cloudflare-appeals-piracy-shield-fine-hopes-to-kill-italys-site-blocking-law/) (2026-03-18)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [GenAIOps on AWS: RAG Evaluation & Quality Metrics - Part 2](https://dev.to/shoaibalimir/genaiops-on-aws-rag-evaluation-quality-metrics-part-2-ghi) (2026-03-18)
-- [The AI Agent Job Market Is Here: Why Your Agent Needs a Job Board](https://dev.to/sorajobs/the-ai-agent-job-market-is-here-why-your-agent-needs-a-job-board-2a83) (2026-03-18)
-- [Top 5 AI Gateway Companies in 2026 (Ranked for Enterprise Teams)](https://dev.to/deeptishuklatfy/top-5-ai-gateway-companies-in-2026-ranked-for-enterprise-teams-3hi6) (2026-03-18)
-- [Vite, Vue 3, and Laravel 11: The Ultimate Zero-Config Local Dev Stack](https://dev.to/james_miller_8dc58a89cb9e/vite-vue-3-and-laravel-11-the-ultimate-zero-config-local-dev-stack-jdi) (2026-03-18)
-- [Supabase: Your Open-Source Alternative to Firebase](https://dev.to/ns5_club/supabase-your-open-source-alternative-to-firebase-1cpk) (2026-03-18)
+- [Hands-On with Google AI Studio](https://dev.to/syedahmershah/hands-on-with-google-ai-studio-51m5) (2026-03-19)
+- [The Rollback](https://dev.to/thesythesis/the-rollback-8ig) (2026-03-19)
+- [How I Built a Credit Routing Layer That Saved Me $20/month on Manus AI](https://dev.to/rafsilva85/how-i-built-a-credit-routing-layer-that-saved-me-20month-on-manus-ai-1jig) (2026-03-19)
+- [The Media Says No One Wants Agent Micropayments. I Have 522 Data Points That Disagree.](https://dev.to/nathanielc85523/the-media-says-no-one-wants-agent-micropayments-i-have-522-data-points-that-disagree-23f9) (2026-03-19)
+- [Introducing Memoria: The World's First Git for AI Agent Memory](https://dev.to/origin_matrix_b790e656217/introducing-memoria-the-worlds-first-git-for-ai-agent-memory-4108) (2026-03-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [DevOps Isn’t Just Tools — Here’s What I Learned the Hard Way](https://medium.com/@bharathcm204/devops-isnt-just-tools-here-s-what-i-learned-the-hard-way-d230767de244?source=rss------programming-5) (2026-03-18)
-- [I Was Wrong About Java on Lambda (Here’s What Changed My Mind)](https://medium.com/@martinastaberger/i-was-wrong-about-java-on-lambda-heres-what-changed-my-mind-d8bac0977e97?source=rss------programming-5) (2026-03-18)
-- [เริ่มต้นใช้งาน Telegram Bot](https://medium.com/@p_laorchairangsi/%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-telegram-bot-b1ec6b7cff5f?source=rss------programming-5) (2026-03-18)
-- [I Tied My Entire Identity To My Job Title. Then The Title Changed.](https://medium.com/activated-thinker/i-tied-my-entire-identity-to-my-job-title-then-the-title-changed-6b759e49608f?source=rss------programming-5) (2026-03-18)
-- [Stop Using HashMap When an Array Will Do — A LeetCode TLE Story](https://medium.com/@ayushgarg3110/stop-using-hashmap-when-an-array-will-do-a-leetcode-tle-story-41c1621ded30?source=rss------programming-5) (2026-03-18)
+- [1. La Gallina Turuleca](https://medium.com/@bautistagaloppo13/1-la-gallina-turuleca-be9c897a25f9?source=rss------programming-5) (2026-03-19)
+- [Your Backend Makes 200 Database Calls When It Should Make 2.](https://blog.stackademic.com/your-backend-makes-200-database-calls-when-it-should-make-2-64a718f5fa8d?source=rss------programming-5) (2026-03-19)
+- [I Built an AI Agent While Still Learning to Code](https://blog.stackademic.com/i-built-an-ai-agent-while-still-learning-to-code-21ec9c38f9fc?source=rss------programming-5) (2026-03-19)
+- [What I Learned From My First Machine Learning Course](https://blog.stackademic.com/what-i-learned-from-my-first-machine-learning-course-0029a89e4cfb?source=rss------programming-5) (2026-03-19)
+- [6 DevOps Portfolio Projects to Build This Weekend and Ace Any Interview](https://blog.stackademic.com/6-devops-portfolio-projects-to-build-this-weekend-and-ace-any-interview-d7a0ac7d2b9a?source=rss------programming-5) (2026-03-19)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Modernizing regulated industries with cloud and agentic AI](https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/) (2026-03-11)
-- [Many agents, one team: Scaling modernization on Azure](https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/) (2026-03-11)
-- [Introducing Fireworks AI on Microsoft Foundry: Bringing high performance, low latency open model inference to Azure](https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/) (2026-03-11)
-- [Unpacking your top questions on agentic AI: The Shift podcast](https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/) (2026-03-09)
-- [The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry](https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/) (2026-03-06)
+- [Unlocking document understanding with Mistral Document AI in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664) (2026-03-03)
+- [Instant access incremental snapshots: Restore without waiting](https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/) (2026-03-02)
+- [Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected](http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog) (2026-02-24)
+- [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
+- [Claude Sonnet 4.6 in Microsoft Foundry-Frontier Performance for Scale](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-4-6-in-microsoft-foundry-frontier-performance-for-scale/4494873) (2026-02-17)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Securing Production Debugging in Kubernetes](https://kubernetes.io/blog/2026/03/18/securing-production-debugging-in-kubernetes/) (2026-03-18)
 - [The Invisible Rewrite: Modernizing the Kubernetes Image Promoter](https://kubernetes.io/blog/2026/03/17/image-promoter-rewrite/) (2026-03-17)
 - [Announcing the AI Gateway Working Group](https://kubernetes.io/blog/2026/03/09/announcing-ai-gateway-wg/) (2026-03-09)
 - [Before You Migrate: Five Surprising Ingress-NGINX Behaviors You Need to Know](https://kubernetes.io/blog/2026/02/27/ingress-nginx-before-you-migrate/) (2026-02-27)
 - [Spotlight on SIG Architecture: API Governance](https://kubernetes.io/blog/2026/02/12/sig-architecture-api-spotlight/) (2026-02-12)
-- [Introducing Node Readiness Controller](https://kubernetes.io/blog/2026/02/03/introducing-node-readiness-controller/) (2026-02-03)
 
 </details>
 
@@ -317,11 +317,11 @@
 <details>
 <summary>📝 Visual Studio Code</summary>
 
+- [Visual Studio Code 1.113 ](https://code.visualstudio.com/updates/v1_113) (2026-03-25)
 - [Visual Studio Code 1.112](https://code.visualstudio.com/updates/v1_112) (2026-03-18)
 - [How VS Code Builds with AI](https://code.visualstudio.com/blogs/2026/03/13/how-VS-Code-Builds-with-AI) (2026-03-13)
 - [Visual Studio Code 1.111](https://code.visualstudio.com/updates/v1_111) (2026-03-09)
 - [Making agents practical for real-world development](https://code.visualstudio.com/blogs/2026/03/05/making-agents-practical-for-real-world-development) (2026-03-05)
-- [February 2026 (version 1.110)](https://code.visualstudio.com/updates/v1_110) (2026-03-04)
 
 </details>
 
