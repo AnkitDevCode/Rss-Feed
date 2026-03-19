@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Two Palantir veterans just came out of stealth with $30 million and a Sequoia stamp of approval](https://techcrunch.com/2026/03/18/two-palantir-veterans-just-came-out-of-stealth-with-30-million-and-a-sequoia-stamp-of-approval/) (2026-03-19)
-- [Meta is having trouble with rogue AI agents](https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/) (2026-03-18)
-- [Sam Altman’s thank-you to coders draws the memes](https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/) (2026-03-18)
-- [Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place](https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/) (2026-03-18)
-- [Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business](https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/) (2026-03-18)
+- [Feds intensify investigation into Tesla’s Full Self-Driving (Supervised) software](https://techcrunch.com/2026/03/19/feds-intensify-investigation-into-teslas-full-self-driving-supervised-software/) (2026-03-19)
+- [Amazon brings Alexa+ to the UK](https://techcrunch.com/2026/03/19/amazon-brings-alexa-to-the-uk/) (2026-03-19)
+- [Uber taps Rivian to build robotaxis in deal worth up to $1.25B](https://techcrunch.com/2026/03/19/uber-taps-rivian-to-build-robotaxis-in-deal-worth-up-to-1-25b/) (2026-03-19)
+- [Inside a $1.1B deal to reshore critical minerals refining](https://techcrunch.com/2026/03/19/inside-a-1-1b-deal-to-reshore-critical-minerals-refining/) (2026-03-19)
+- [Multiverse Computing pushes its compressed AI models into the mainstream](https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/) (2026-03-19)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [What 81,000 people want from AI](https://www.anthropic.com/features/81k-interviews) (2026-03-19)
-- [Conway's Game of Life, in real life](https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life) (2026-03-19)
-- [Mozilla to launch free built-in VPN in upcoming Firefox 149](https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/) (2026-03-19)
-- [We Have Learned Nothing](https://colossus.com/article/we-have-learned-nothing-startup-pundits/) (2026-03-19)
-- [A sufficiently detailed spec is code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code) (2026-03-19)
+- [The strait of Hormuz blockade will strangle US defense industry](https://www.theguardian.com/world/2026/mar/19/west-point-analysis-iran-war-costs) (2026-03-19)
+- [Afroman Wins Civil Trial over Use of Police Raid Footage in His Music Videos](https://www.nytimes.com/2026/03/19/us/afroman-trial-lemon-cake-verdict.html) (2026-03-19)
+- [Denmark was reportedly preparing for full-scale war with the US over Greenland](https://bsky.app/profile/chriso-wiki.bsky.social/post/3mhfsau25uk2f) (2026-03-19)
+- ['Your Frustration Is the Product'](https://daringfireball.net/2026/03/your_frustration_is_the_product) (2026-03-19)
+- [Iran war energy shock sparks global push to reduce fossil fuel dependence](https://www.reuters.com/business/energy/iran-war-energy-shock-sparks-global-push-reduce-fossil-fuel-dependence-2026-03-18/) (2026-03-19)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Fitbit&#8217;s AI health coach will soon be able to read your medical records](https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records) (2026-03-19)
+- [Uber to invest $1.25 billion in Rivian as part of new robotaxi deal](https://www.theverge.com/transportation/897105/uber-rivian-robotaxi-investment-deal) (2026-03-19)
+- [Trump is threatening international students, and a new bill could help stop him](https://www.theverge.com/policy/897097/opt-bill-international-student-visas) (2026-03-19)
 - [The FBI is buying Americans’ location data](https://www.theverge.com/news/897145/kash-patel-ron-wyden-fbi-location-data-no-warrant) (2026-03-18)
 - [Amazon doesn’t want the blame for the Post Office going under](https://www.theverge.com/tech/897114/amazon-usps-contract-money-running-out) (2026-03-18)
-- [Congress considers blowing up internet law](https://www.theverge.com/policy/897106/section-230-reform-hearing-jawboning-social-media) (2026-03-18)
-- [Hoto’s powerful PixelDrive electric screwdriver is 25 percent off](https://www.theverge.com/gadgets/897056/hoto-pixeldrive-electric-screwdriver-amazon-big-spring-sale-deal) (2026-03-18)
-- [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals) (2026-03-18)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [TCL’s German QLED ban puts pressure on TV brands to be more honest about QDs](https://arstechnica.com/gadgets/2026/03/tcls-german-qled-ban-puts-pressure-on-tv-brands-to-be-more-honest-about-qds/) (2026-03-19)
 - [Kagi Translate's AI answers the question "What would horny Margaret Thatcher say?"](https://arstechnica.com/ai/2026/03/kagi-translates-ai-answers-the-question-what-would-horny-margaret-thatcher-say/) (2026-03-18)
 - [Musk’s tactic of blaming users for Grok sex images may be foiled by EU law](https://arstechnica.com/tech-policy/2026/03/eu-moves-to-ban-nudify-apps-after-grok-made-them-mainstream/) (2026-03-18)
 - [Coal plant forced to stay open due to emergency order isn't even running](https://arstechnica.com/science/2026/03/coal-plant-forced-to-stay-open-due-to-emergency-order-isnt-even-running/) (2026-03-18)
 - [Never mind Band-Aids, Neanderthals had antiseptic birch tar](https://arstechnica.com/science/2026/03/never-mind-band-aids-neanderthals-had-antiseptic-birch-tar/) (2026-03-18)
-- [Cloudflare appeals Piracy Shield fine, hopes to kill Italy's site-blocking law](https://arstechnica.com/tech-policy/2026/03/cloudflare-appeals-piracy-shield-fine-hopes-to-kill-italys-site-blocking-law/) (2026-03-18)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste](https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/) (2026-03-19)
+- [A $5 million prize awaits proof that quantum computers can solve health care problems](https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/) (2026-03-19)
+- [Why the world doesn’t recycle more nuclear waste](https://www.technologyreview.com/2026/03/19/1134399/nuclear-waste-reprocessing/) (2026-03-19)
 - [The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors](https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/) (2026-03-18)
 - [What do new nuclear reactors mean for waste?](https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/) (2026-03-18)
-- [The Pentagon is planning for AI companies to train on classified data, defense official says](https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/) (2026-03-17)
-- [The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit](https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/) (2026-03-17)
-- [Where OpenAI’s technology could show up in Iran](https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/) (2026-03-16)
 
 </details>
 
@@ -97,23 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Cómo Añadir Memoria Persistente a Agentes de IA para Recordar el Pasado](https://dev.to/roobia/como-anadir-memoria-persistente-a-agentes-de-ia-para-recordar-el-pasado-30a) (2026-03-19)
-- [วิธีแปลงเอไอเอเจนต์เดียวให้ทำงานใน 10 IDE](https://dev.to/thanawat_wonchai/withiiaeplngeaieecchntediiywaihthamngaanain-10-ide-34c0) (2026-03-19)
-- [How the OpenClaw Video Message Skill Creates Avatar Video Notes – Step‑by‑Step Guide](https://dev.to/aloycwl/how-the-openclaw-video-message-skill-creates-avatar-video-notes-step-by-step-guide-5d5f) (2026-03-19)
-- [كيفية إعداد 5 وكلاء ذكاء اصطناعي لبناء واجهة برمجة تطبيقات كاملة (من المواصفات إلى الاختبار)](https://dev.to/yusuf_khalidd/kyfy-dd-5-wkl-dhk-stny-lbn-wjh-brmj-ttbyqt-kml-mn-lmwsft-l-lkhtbr-23bf) (2026-03-19)
-- [MCP Server erstellen: KI Agenten mit API Testing Fähigkeiten ausstatten](https://dev.to/emree_demir/mcp-server-erstellen-ki-agenten-mit-api-testing-fahigkeiten-ausstatten-g5o) (2026-03-19)
+- [EventStream Build Log #1: Static Benchmarking as a Gate for Architecture Decisions](https://dev.to/fm_byteshift_software/eventstream-build-log-1-static-benchmarking-as-a-gate-for-architecture-decisions-5b0c) (2026-03-19)
+- [How the OpenClaw GitHub Phishing Attack Actually Worked - And How to Defend Against It](https://dev.to/cryip/how-the-openclaw-github-phishing-attack-actually-worked-and-how-to-defend-against-it-4i21) (2026-03-19)
+- [SAP Commerce Cloud Framework Update JDK 21 - issue with ANT gradle target](https://dev.to/mikolayek/sap-commerce-cloud-framework-update-jdk-21-issue-with-ant-gradle-target-2b1j) (2026-03-19)
+- [Running LLMs Locally with Ollama: Benefits, Limitations, and Hardware Reality](https://dev.to/allan_roberto_3c86dab9d94/running-llms-locally-with-ollama-benefits-limitations-and-hardware-reality-d33) (2026-03-19)
+- [Rate limiter in Go: per-IP token bucket with golang.org/x/time/rate](https://dev.to/ohugonnot/rate-limiter-in-go-per-ip-token-bucket-with-golangorgxtimerate-5ff8) (2026-03-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How to ‘Actually’ get inbound job offers ( my 10 job offers attached )](https://medium.com/@dikshitmahanot2005/how-to-actually-get-inbound-job-offers-my-10-job-offers-attached-fa4df06add9a?source=rss------programming-5) (2026-03-19)
-- [5 Weird Machine Learning Problems I Solved With Simple Python](https://blog.stackademic.com/5-weird-machine-learning-problems-i-solved-with-simple-python-9ce6c5e24601?source=rss------programming-5) (2026-03-19)
-- [Wall Street Turns Slightly Bearish on Crypto
-Big institutions like Citigroup are lowering their…](https://medium.com/@blockchainnews725/wall-street-turns-slightly-bearish-on-crypto-big-institutions-like-citigroup-are-lowering-their-7bceae2f363d?source=rss------programming-5) (2026-03-19)
-- [6 Python One-Liners That Made Me Question Everything](https://levelup.gitconnected.com/6-python-one-liners-that-made-me-question-everything-b2d674f57d20?source=rss------programming-5) (2026-03-19)
-- [I Thought I Could Install Linux on Anything. Then I Met a Chromebook.](https://medium.com/@tcloudadewale/i-thought-i-could-install-linux-on-anything-then-i-met-a-chromebook-0c5d086a6d52?source=rss------programming-5) (2026-03-19)
+- [Is Coding Dead? I Replaced My Entire Workflow with AI for 90 Days](https://medium.com/@workad238/is-coding-dead-i-replaced-my-entire-workflow-with-ai-for-90-days-e43ad179ca16?source=rss------programming-5) (2026-03-19)
+- [Executor Framework & Thread Pools Architecture](https://medium.com/codetodeploy/executor-framework-thread-pools-architecture-f2a091e45155?source=rss------programming-5) (2026-03-19)
+- [The Illusion of “Learning” in the Digital Age](https://medium.com/@hello_22342/the-illusion-of-learning-in-the-digital-age-d6a6edaaba81?source=rss------programming-5) (2026-03-19)
+- [Why Removing Elements from an ArrayList While Iterating Causes Errors?](https://kothapalli-gayathri.medium.com/why-removing-elements-from-an-arraylist-while-iterating-causes-errors-3bedc8807088?source=rss------programming-5) (2026-03-19)
+- [Uncle Bob’s Clean Code (Cheat Sheet)](https://medium.com/@radoslaw.tywanek/uncle-bobs-clean-code-cheat-sheet-fbbe1905dbc1?source=rss------programming-5) (2026-03-19)
 
 </details>
 
@@ -307,11 +306,11 @@ Big institutions like Citigroup are lowering their…](https://medium.com/@block
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Core JavaScript and TypeScript Features Will Be Free in IntelliJ IDEA](https://blog.jetbrains.com/idea/2026/03/js-ts-free-support/) (2026-03-19)
+- [IntelliJ IDEA’s New Kotlin Coroutine Inspections, Explained](https://blog.jetbrains.com/idea/2026/03/intellij-idea-s-new-kotlin-coroutine-inspections-explained/) (2026-03-19)
+- [$ teamcity From the Command Line](https://blog.jetbrains.com/teamcity/2026/03/teamcity-cli/) (2026-03-19)
 - [Google Summer of Code 2026 Is Here: Contribute to Kotlin](https://blog.jetbrains.com/kotlin/2026/03/gsoc-2026-contribute-to-kotlin/) (2026-03-18)
 - [CloudBees vs TeamCity: Enterprise CI/CD Beyond Jenkins](https://blog.jetbrains.com/teamcity/2026/03/cloudbees-vs-teamcity/) (2026-03-18)
-- [UI Freezes and the Dangers of Non-Cancellable Read Actions in Background Threads](https://blog.jetbrains.com/platform/2026/03/ui-freezes-and-the-dangers-of-non-cancellable-read-actions-in-background-threads/) (2026-03-17)
-- [IntelliJ IDEA 2025.3.4 is Out!](https://blog.jetbrains.com/idea/2026/03/intellij-idea-2025-3-4/) (2026-03-17)
-- [Java 26 in IntelliJ IDEA](https://blog.jetbrains.com/idea/2026/03/java-26-in-intellij-idea/) (2026-03-17)
 
 </details>
 
@@ -558,33 +557,33 @@ https://www.twilio.com/en-us/blog/insights/customer-lifetime-value-clv
 <details>
 <summary>🤖 AI News</summary>
 
+- [Visa prepares payment systems for AI agent-initiated transactions](https://www.artificialintelligence-news.com/news/visa-prepares-payment-systems-for-ai-agent-initiated-transactions/) (2026-03-19)
+- [NVIDIA wants enterprise AI agents safer to deploy](https://www.artificialintelligence-news.com/news/nvidia-agent-toolkit-enterprise-ai-agents/) (2026-03-19)
 - [Mastercard keeps tabs on fraud with new foundation model](https://www.artificialintelligence-news.com/news/mastercards-ltm-keeps-tabs-on-fraud-with-a-new-foundation-model/) (2026-03-18)
 - [For effective AI, insurance needs to get its data house in order](https://www.artificialintelligence-news.com/news/for-effective-ai-insurance-needs-a-better-data-layer-and-integration/) (2026-03-18)
 - [Trustpilot partners with AI companies as traditional search declines](https://www.artificialintelligence-news.com/news/ai-in-ecommerce-trustpilot-partnerships-integration-news-trad-search-declines/) (2026-03-17)
-- [Goldman Sachs sees AI investment shift to data centres](https://www.artificialintelligence-news.com/news/goldman-sachs-sees-ai-investment-shift-to-data-centres/) (2026-03-17)
-- [US Treasury publishes AI risk Guidebook for financial institutions](https://www.artificialintelligence-news.com/news/us-treasury-publishes-ai-risk-governance-guidebook-for-financial-institutions/) (2026-03-16)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Vibe Coding with AI: Best Practices for Human-AI Collaboration in Software Development](https://towardsdatascience.com/vibe-coding-with-ai-best-practices-for-human-ai-collaboration-in-software-development/) (2026-03-19)
 - [Two-Stage Hurdle Models: Predicting Zero-Inflated Outcomes](https://towardsdatascience.com/two-stage-hurdle-models-predicting-zero-inflated-outcomes/) (2026-03-18)
 - [The New Experience of Coding with AI](https://towardsdatascience.com/the-new-experience-of-coding-with-ai/) (2026-03-18)
 - [Why You Should Stop Worrying About AI Taking Data Science Jobs](https://towardsdatascience.com/stop-worrying-about-ai-taking-data-science-jobs-heres-why/) (2026-03-18)
 - [One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models](https://towardsdatascience.com/one-model-to-rule-them-all-sap-rpt-1-and-the-future-of-tabular-foundation-models/) (2026-03-18)
-- [How to Effectively Review Claude Code Output](https://towardsdatascience.com/how-to-effectively-review-claude-code-output/) (2026-03-17)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Top 5 GitHub Repositories to get Free Claude Code Skills (1000+ Skills)](https://www.analyticsvidhya.com/blog/2026/03/github-repositories-to-get-free-claude-code-skills/) (2026-03-19)
 - [A Guide to OpenRouter for AI Development](https://www.analyticsvidhya.com/blog/2026/03/a-guide-to-openrouter/) (2026-03-18)
 - [ChatGPT vs Claude: The 2026 Battle of the AI Model Families](https://www.analyticsvidhya.com/blog/2026/03/chatgpt-vs-claude/) (2026-03-18)
 - [Excel 101: COUNT and COUNTIF Functions](https://www.analyticsvidhya.com/blog/2026/03/count-and-countif-functions/) (2026-03-17)
 - [Top 7 Free Machine Learning Courses with Certificates](https://www.analyticsvidhya.com/blog/2026/03/free-machine-learning-courses-with-certificates/) (2026-03-16)
-- [Harness Engineering with LangChain DeepAgents and LangSmith](https://www.analyticsvidhya.com/blog/2026/03/harness-engineering/) (2026-03-16)
 
 </details>
 
