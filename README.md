@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Drugwars for the TI-82/83/83 Calculators](https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404) (2026-03-20)
-- [Claude Code: Channels](https://code.claude.com/docs/en/channels) (2026-03-20)
-- [Wayland set the Linux Desktop back by 10 years](https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years) (2026-03-20)
-- [The Day I Discovered Type Design](https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/) (2026-03-19)
-- [Bombarding gamblers with offers greatly increases betting and gambling harm](https://www.bristol.ac.uk/news/2026/march/bombarding-gamblers-with-offers-greatly-increases-betting-and-gambling-harm.html) (2026-03-19)
+- [Kin: Semantic version control that tracks code as entities, not files](https://github.com/firelock-ai/kin) (2026-03-20)
+- [ArXiv Declares Independence from Cornell](https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell) (2026-03-20)
+- [Physicists Trace Sun's Magnetic Engine, 200k Kilometers Below Surface](https://news.njit.edu/njit-physicists-trace-sun%E2%80%99s-magnetic-engine-200000-kilometers-below-surface) (2026-03-20)
+- [Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found](https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found) (2026-03-20)
+- [Drugwars for the TI-82/83/83 Calculators (2011)](https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404) (2026-03-20)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [After all the hype, was 2025 really the year of AI agents?](https://stackoverflow.blog/2026/03/20/was-2025-really-the-year-of-ai-agents/) (2026-03-20)
 - [AI is becoming a second brain at the expense of your first one](https://stackoverflow.blog/2026/03/19/ai-is-becoming-a-second-brain-at-the-expense-of-your-first-one/) (2026-03-19)
 - [Building a global engineering team (plus AI agents) with Netlify](https://stackoverflow.blog/2026/03/19/building-a-global-engineering-team-netlify/) (2026-03-19)
 - [Keeping the lights on for open source ](https://stackoverflow.blog/2026/03/17/keeping-the-lights-on-for-open-source/) (2026-03-17)
 - [Domain expertise still wanted: the latest trends in AI-assisted knowledge for developers](https://stackoverflow.blog/2026/03/16/domain-expertise-still-wanted-the-latest-trends-in-ai/) (2026-03-16)
-- [Open source for awkward robots](https://stackoverflow.blog/2026/03/13/open-source-for-awkward-robots/) (2026-03-13)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Day 2: Why Working Harder Isn't Enough](https://dev.to/returnofthecoder/day-2-why-working-harder-isnt-enough-486m) (2026-03-20)
-- [Razorpay Route for Payment split](https://dev.to/vjygour/razorpay-route-for-payment-split-3d72) (2026-03-20)
-- [Day 46 of #100DayOfCode — Security (Rate limiting CORS Helmet)](https://dev.to/m_saad_ahmad/day-46-of-100dayofcode-security-rate-limiting-cors-helmet-2ela) (2026-03-20)
-- [2026年第12週 AI 深度週報：算力軍備、醫療攻城、版權戰線全面升級](https://dev.to/yang_goufang_23c7ba674984/2026nian-di-12zhou-ai-shen-du-zhou-bao-suan-li-jun-bei-yi-liao-gong-cheng-ban-quan-zhan-xian-quan-mian-sheng-ji-2o0h) (2026-03-20)
-- [The Developer's Guide to In-Flight Internet: Tracking Starlink Aviation Deployment Across Airlines](https://dev.to/theawesomeblog/the-developers-guide-to-in-flight-internet-tracking-starlink-aviation-deployment-across-airlines-3g52) (2026-03-20)
+- [Map & Set: The Underrated Heroes of JavaScript](https://dev.to/kunal_dev/map-set-the-underrated-heroes-of-javascript-4ad7) (2026-03-20)
+- [How to Harden OpenClaw in 5 Minutes — Before and After a Real Prompt Injection Attack](https://dev.to/onoz1169/how-to-harden-openclaw-in-5-minutes-before-and-after-a-real-prompt-injection-attack-2d66) (2026-03-20)
+- [Squares of a Sorted Array](https://dev.to/jeyaprasadr/squares-of-a-sorted-array-2bom) (2026-03-20)
+- [CMMI Describes Progress on Addressing Health Equity: A Comprehensive Review](https://dev.to/aloycwl/cmmi-describes-progress-on-addressing-health-equity-a-comprehensive-review-1h3h) (2026-03-20)
+- [Are you afraid AI is going to take your SWE job? Here's a little secret.](https://dev.to/michal_sevcik/are-you-afraid-ai-is-going-to-take-your-swe-job-heres-a-little-secret-hed) (2026-03-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [ Turn Any Image Into a Perfect AI Prompt (Free Tool You’ll Love)](https://medium.com/@gopemahendra661/turn-any-image-into-a-perfect-ai-prompt-free-tool-youll-love-403512e501f5?source=rss------programming-5) (2026-03-20)
-- [เจาะลึกการใช้งาน SQL | In-Depth SQL | EP07](https://medium.com/@promsun.9/%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-sql-in-depth-sql-ep07-510324739cdd?source=rss------programming-5) (2026-03-20)
-- [How I Used Python to Create a Voice-Controlled Task Manager](https://python.plainenglish.io/how-i-used-python-to-create-a-voice-controlled-task-manager-3e9119cbccd8?source=rss------programming-5) (2026-03-20)
-- [Java Networking Explained: Sockets, TCP/IP, HTTP & Real-World Examples](https://medium.com/@sunil17bbmp/java-networking-explained-sockets-tcp-ip-http-real-world-examples-be11f05c7ec1?source=rss------programming-5) (2026-03-20)
-- [Why Management Frameworks Turn Into Ritual](https://medium.com/@aludanyi/why-management-frameworks-turn-into-ritual-39050226567b?source=rss------programming-5) (2026-03-20)
+- [How ChatGPT is killing your programming career](https://medium.com/@praveengaddam319/how-chatgpt-is-killing-your-programming-career-cefea47901e0?source=rss------programming-5) (2026-03-20)
+- [Overengineering: The Silent Killer of Good Software](https://akintola-stephen24.medium.com/overengineering-the-silent-killer-of-good-software-3669d8bbf413?source=rss------programming-5) (2026-03-20)
+- [Introducing OpsLogger: Structured Logging Made Simple for Developers](https://medium.com/@ops.is.ananta/introducing-opslogger-structured-logging-made-simple-for-developers-0179a8cde951?source=rss------programming-5) (2026-03-20)
+- [From Job Seeker to Leader- ChatGPT Prompts for Career Success](https://medium.com/illumination/from-job-seeker-to-leader-chatgpt-prompts-for-career-success-26e492359018?source=rss------programming-5) (2026-03-20)
+- [Git in Practice — Part 2: Merge Strategy](https://okanyurt.medium.com/git-in-practice-part-2-merge-strategy-b082a3713d5f?source=rss------programming-5) (2026-03-20)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry](https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/) (2026-03-06)
-- [Introducing GPT-5.4 in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785) (2026-03-05)
-- [Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure](https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/) (2026-03-04)
-- [Unlocking document understanding with Mistral Document AI in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664) (2026-03-03)
-- [Instant access incremental snapshots: Restore without waiting](https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/) (2026-03-02)
+- [Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI](https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/) (2026-03-16)
+- [From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation](https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/) (2026-03-16)
+- [Modernizing regulated industries with cloud and agentic AI](https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/) (2026-03-11)
+- [Many agents, one team: Scaling modernization on Azure](https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/) (2026-03-11)
+- [Introducing Fireworks AI on Microsoft Foundry: Bringing high performance, low latency open model inference to Azure](https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/) (2026-03-11)
 
 </details>
 
