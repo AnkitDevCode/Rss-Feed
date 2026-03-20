@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Geothermal startup Fervo catapults itself over the ‘valley of death’](https://techcrunch.com/2026/03/19/geothermal-startup-fervo-catapults-itself-over-the-valley-of-death/) (2026-03-19)
-- [Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors](https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/) (2026-03-19)
-- [Google introduces a new way for users to sideload Android apps that still protects against scams](https://techcrunch.com/2026/03/19/google-introduces-a-new-way-for-users-to-sideload-android-apps-that-still-protects-against-scams/) (2026-03-19)
-- [DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI](https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/) (2026-03-19)
-- [Meta decides not to shut down Horizon Worlds on VR after all](https://techcrunch.com/2026/03/19/meta-decides-not-to-shut-down-horizon-worlds-on-vr-after-all/) (2026-03-19)
+- [Amazon acquires Rivr, maker of a stair-climbing delivery robot](https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/) (2026-03-19)
+- [Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI](https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/) (2026-03-19)
+- [Employees had to restrain a dancing humanoid robot after it went wild at a California restaurant](https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/) (2026-03-19)
+- [Polymarket continues its partnership spree with a Major League Baseball deal](https://techcrunch.com/2026/03/19/polymarket-continues-its-partnership-spree-with-a-major-league-baseball-deal/) (2026-03-19)
+- [Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says](https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/) (2026-03-19)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Noq: n0's new QUIC implementation in Rust](https://www.iroh.computer/blog/noq-announcement) (2026-03-19)
-- [Connecticut and the 1 Kilometer Effect](https://alearningaday.blog/2026/03/19/connecticut-and-the-1-kilometer-effect/) (2026-03-19)
-- [UK's Ofcom has today fined 4chan £450k for not having age checks in place](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/4chan-fined-450000-for-not-protecting-children-from-online-pornography) (2026-03-19)
-- [An update on Steam / GOG changes for OpenTTD](https://www.openttd.org/news/2026/03/19/steam-changes-update) (2026-03-19)
-- [How to Not Pay Your Taxes](https://taylor.town/succession-000) (2026-03-19)
+- [Drugwars for the TI-82/83/83 Calculators](https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404) (2026-03-20)
+- [Claude Code: Channels](https://code.claude.com/docs/en/channels) (2026-03-20)
+- [Wayland set the Linux Desktop back by 10 years](https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years) (2026-03-20)
+- [The Day I Discovered Type Design](https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/) (2026-03-19)
+- [Bombarding gamblers with offers greatly increases betting and gambling harm](https://www.bristol.ac.uk/news/2026/march/bombarding-gamblers-with-offers-greatly-increases-betting-and-gambling-harm.html) (2026-03-19)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [A rogue AI led to a serious security incident at Meta](https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident) (2026-03-19)
-- [Microsoft’s go-to Xbox controller is selling at its best price of the year](https://www.theverge.com/gadgets/897334/xbox-wireless-controller-pc-steam-deck-amazon-big-spring-sale-2026-deal) (2026-03-19)
-- [All the wrong EVs are getting canceled](https://www.theverge.com/transportation/897399/all-the-wrong-evs-are-getting-cancelled) (2026-03-19)
-- [Prediction markets are trying to lure journalists with partnership deals](https://www.theverge.com/news/897388/kalshi-polymarket-journalists-partnership-deals) (2026-03-19)
-- [Google reveals its solution for true Android sideloading: a mandatory waiting period](https://www.theverge.com/tech/897420/android-sideloading-unverified-developers-process) (2026-03-19)
+- [Valve’s huge SteamOS 3.8 update adds long-awaited features — and supports Steam Machine](https://www.theverge.com/games/897765/valve-steamos-3-8-update-steam-deck-hibernation-steam-machine-xbox-ally) (2026-03-20)
+- [OpenAI is planning a desktop ‘superapp’](https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp) (2026-03-20)
+- [Sony’s new WF-1000XM6 earbuds are already on sale for $30 off](https://www.theverge.com/gadgets/897668/sony-wf-1000xm6-wireless-earbuds-deal-sale) (2026-03-19)
+- [Marc Andreessen is a philosophical zombie](https://www.theverge.com/tldr/897566/marc-andreessen-is-a-philosophical-zombie) (2026-03-19)
+- [The coolest game controller for your phone is $50 off](https://www.theverge.com/gadgets/897465/ohsnap-mcon-phone-controller-deal-sale) (2026-03-19)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [At the last minute, Meta decides not to kill Horizon Worlds VR after all](https://arstechnica.com/gadgets/2026/03/at-the-last-minute-meta-decides-not-to-kill-horizon-worlds-vr-after-all/) (2026-03-19)
-- [Afroman keeps trolling cops after winning “Lemon Pound Cake” defamation case](https://arstechnica.com/tech-policy/2026/03/afroman-keeps-trolling-cops-after-winning-lemon-pound-cake-defamation-case/) (2026-03-19)
-- [Google details new 24-hour process to sideload unverified Android apps](https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/) (2026-03-19)
-- [Despite hardware limits, Parallels supports running Windows on MacBook Neo](https://arstechnica.com/gadgets/2026/03/despite-hardware-limits-parallels-supports-running-windows-on-macbook-neo/) (2026-03-19)
-- [Counter-Strike 2's new reload system could upend the entire game](https://arstechnica.com/gaming/2026/03/after-25-years-valve-reworks-counter-strikes-reload-system/) (2026-03-19)
+- [RFK Jr. has destroyed over a quarter of health dept's expert panels](https://arstechnica.com/health/2026/03/rfk-jr-s-war-on-scientific-expertise-destroyed-27-of-agencys-advisor-panels/) (2026-03-19)
+- [Cloud service providers ask EU regulator to reinstate VMware partner program](https://arstechnica.com/information-technology/2026/03/cloud-service-providers-ask-eu-regulator-to-reinstate-vmware-partner-program/) (2026-03-19)
+- [Millions of iPhones can be hacked with a new tool found in the wild](https://arstechnica.com/security/2026/03/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/) (2026-03-19)
+- [FBI started buying Americans' location data again, Kash Patel confirms](https://arstechnica.com/tech-policy/2026/03/fbi-started-buying-americans-location-data-again-kash-patel-confirms/) (2026-03-19)
+- [Dogfighting in space won't look like the movies, but this company wants in on it](https://arstechnica.com/space/2026/03/dogfighting-in-space-this-company-builds-satellites-for-high-tempo-engagement/) (2026-03-19)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why AI Writes Better Game Code in Godot Than in Unity](https://dev.to/mistyhx/why-ai-writes-better-game-code-in-godot-than-in-unity-10hf) (2026-03-19)
-- [[Boost]](https://dev.to/anthonymax/-4eph) (2026-03-19)
-- [How Snowflake’s RELY Constraint Supercharges Your Star‑Schema Queries](https://dev.to/swaroop_krishna_e2f4b83b2/how-snowflakes-rely-constraint-supercharges-your-star-schema-queries-3n4f) (2026-03-19)
-- [The Ultimate Guide to Modern Web Performance Optimization in 2026](https://dev.to/joaopakina/the-ultimate-guide-to-modern-web-performance-optimization-in-2026-3p1l) (2026-03-19)
-- [I built an AI that detects when it's optimizing for your engagement instead of telling you the truth](https://dev.to/aetheliacreator/i-built-an-ai-that-detects-when-its-optimizing-for-your-engagement-instead-of-telling-you-the-84k) (2026-03-19)
+- [Day 2: Why Working Harder Isn't Enough](https://dev.to/returnofthecoder/day-2-why-working-harder-isnt-enough-486m) (2026-03-20)
+- [Razorpay Route for Payment split](https://dev.to/vjygour/razorpay-route-for-payment-split-3d72) (2026-03-20)
+- [Day 46 of #100DayOfCode — Security (Rate limiting CORS Helmet)](https://dev.to/m_saad_ahmad/day-46-of-100dayofcode-security-rate-limiting-cors-helmet-2ela) (2026-03-20)
+- [2026年第12週 AI 深度週報：算力軍備、醫療攻城、版權戰線全面升級](https://dev.to/yang_goufang_23c7ba674984/2026nian-di-12zhou-ai-shen-du-zhou-bao-suan-li-jun-bei-yi-liao-gong-cheng-ban-quan-zhan-xian-quan-mian-sheng-ji-2o0h) (2026-03-20)
+- [The Developer's Guide to In-Flight Internet: Tracking Starlink Aviation Deployment Across Airlines](https://dev.to/theawesomeblog/the-developers-guide-to-in-flight-internet-tracking-starlink-aviation-deployment-across-airlines-3g52) (2026-03-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Gen AI: Unlock Foundational Concepts](https://medium.com/@kumaripayal7488/gen-ai-unlock-foundational-concepts-994d987e9030?source=rss------programming-5) (2026-03-19)
-- [Day 38 of Learning Java: Unchecked Exception Handling in Java](https://medium.com/@payalmehra3522/day-38-of-learning-java-unchecked-exception-handling-in-java-7073ac835600?source=rss------programming-5) (2026-03-19)
-- [Claude Code’s Memory Wasn’t Enough. So I Built the Ralph Loop.](https://medium.com/@hoonihoon85/claude-codes-memory-wasn-t-enough-so-i-built-the-ralph-loop-7f944294bf34?source=rss------programming-5) (2026-03-19)
-- [Storing Text Without Losing Your Mind (or Your Unicode)](https://adityakrsingh26.medium.com/storing-text-without-losing-your-mind-or-your-unicode-21dc6deb9565?source=rss------programming-5) (2026-03-19)
-- [ Mastering Ruby on Rails Views: Hidden Tricks, Performance Hacks & Gems You MUST Know ](https://rajputlakhveer.medium.com/mastering-ruby-on-rails-views-hidden-tricks-performance-hacks-gems-you-must-know-66a3adbd8558?source=rss------programming-5) (2026-03-19)
+- [ Turn Any Image Into a Perfect AI Prompt (Free Tool You’ll Love)](https://medium.com/@gopemahendra661/turn-any-image-into-a-perfect-ai-prompt-free-tool-youll-love-403512e501f5?source=rss------programming-5) (2026-03-20)
+- [เจาะลึกการใช้งาน SQL | In-Depth SQL | EP07](https://medium.com/@promsun.9/%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-sql-in-depth-sql-ep07-510324739cdd?source=rss------programming-5) (2026-03-20)
+- [How I Used Python to Create a Voice-Controlled Task Manager](https://python.plainenglish.io/how-i-used-python-to-create-a-voice-controlled-task-manager-3e9119cbccd8?source=rss------programming-5) (2026-03-20)
+- [Java Networking Explained: Sockets, TCP/IP, HTTP & Real-World Examples](https://medium.com/@sunil17bbmp/java-networking-explained-sockets-tcp-ip-http-real-world-examples-be11f05c7ec1?source=rss------programming-5) (2026-03-20)
+- [Why Management Frameworks Turn Into Ritual](https://medium.com/@aludanyi/why-management-frameworks-turn-into-ritual-39050226567b?source=rss------programming-5) (2026-03-20)
 
 </details>
 
@@ -130,22 +130,22 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Modernizing regulated industries with cloud and agentic AI](https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/) (2026-03-11)
-- [Many agents, one team: Scaling modernization on Azure](https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/) (2026-03-11)
-- [Introducing Fireworks AI on Microsoft Foundry: Bringing high performance, low latency open model inference to Azure](https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/) (2026-03-11)
-- [Unpacking your top questions on agentic AI: The Shift podcast](https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/) (2026-03-09)
 - [The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry](https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/) (2026-03-06)
+- [Introducing GPT-5.4 in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785) (2026-03-05)
+- [Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure](https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/) (2026-03-04)
+- [Unlocking document understanding with Mistral Document AI in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664) (2026-03-03)
+- [Instant access incremental snapshots: Restore without waiting](https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/) (2026-03-02)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [NVIDIA GTC 2026: Live Updates on What’s Next in AI](https://blogs.nvidia.com/blog/gtc-2026-news/) (2026-03-20)
 - [Smooth Moves: 90 Frames-Per-Second Virtual Reality Arrives on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-virtual-reality-update/) (2026-03-19)
 - [From Simulation to Production: How to Build Robots With AI](https://blogs.nvidia.com/blog/build-robots-with-ai/) (2026-03-18)
 - [More Than Meets the Eye: NVIDIA RTX-Accelerated Computers Now Connect Directly to Apple Vision Pro](https://blogs.nvidia.com/blog/nvidia-cloudxr-apple-vision-pro/) (2026-03-17)
 - [NVIDIA, Telecom Leaders Build AI Grids to Optimize Inference on Distributed Networks](https://blogs.nvidia.com/blog/telecom-ai-grids-inference/) (2026-03-17)
-- [GTC Spotlights NVIDIA RTX PCs and DGX Sparks Running Latest Open Models and AI Agents Locally](https://blogs.nvidia.com/blog/rtx-ai-garage-gtc-2026-nemoclaw/) (2026-03-17)
 
 </details>
 
@@ -284,11 +284,11 @@
 <details>
 <summary>💬 Slack Engineering</summary>
 
+- [How Slack Rebuilt Notifications 📣](https://slack.engineering/how-slack-rebuilt-notifications/) (2026-03-19)
 - [Streamlining Security Investigations with Agents](https://slack.engineering/streamlining-security-investigations-with-agents/) (2025-12-01)
 - [Android VPAT journey](https://slack.engineering/android-vpat-journey/) (2025-11-19)
 - [Build better software to build software better](https://slack.engineering/build-better-software-to-build-software-better/) (2025-11-06)
 - [Advancing Our Chef Infrastructure: Safety Without Disruption](https://slack.engineering/advancing-our-chef-infrastructure-safety-without-disruption/) (2025-10-23)
-- [Deploy Safety: Reducing customer impact from change](https://slack.engineering/deploy-safety/) (2025-10-07)
 
 </details>
 
@@ -328,33 +328,33 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [GitLab 18.10 brings AI-native triage and remediation](https://about.gitlab.com/blog/gitlab-18-10-brings-ai-native-triage-and-remediation/) (2026-03-19)
+- [GitLab 18.10: Agentic AI now open to even more teams on GitLab](https://about.gitlab.com/blog/gitlab-18-10-agentic-ai-now-open-to-even-more-teams-on-gitlab/) (2026-03-19)
+- [Code Review without the bottlenecks or the bill](https://about.gitlab.com/blog/code-review-without-the-bottlenecks-or-the-bill/) (2026-03-19)
 - [How to use GitLab Container Virtual Registry with Docker Hardened Images](https://about.gitlab.com/blog/using-gitlab-container-virtual-registry-with-docker-hardened-images/) (2026-03-12)
 - [Automating detection gap analysis with GitLab Duo Agent Platform](https://about.gitlab.com/blog/automating-detection-gap-analysis-with-gitlab-duo-agent-platform/) (2026-03-10)
-- [Navigate repositories faster with the file tree browser](https://about.gitlab.com/blog/navigate-repositories-faster-with-the-file-tree-browser/) (2026-03-09)
-- [Extend GitLab Duo Agent Platform: Connect any tool with MCP](https://about.gitlab.com/blog/extend-gitlab-duo-agent-platform-connect-any-tool-with-mcp/) (2026-03-05)
-- [A complete guide to GitLab Container Scanning](https://about.gitlab.com/blog/complete-guide-to-gitlab-container-scanning/) (2026-03-05)
 
 </details>
 
 <details>
 <summary>💜 Heroku Blog</summary>
 
+- [Heroku March 2026 Update](https://www.heroku.com/blog/march-2026-update/) (2026-03-19)
+- [Modernizing the Command Line: Heroku CLI v11](https://www.heroku.com/blog/modernizing-the-command-line-heroku-cli-v11/) (2026-03-19)
+- [Bigger Slugs and Greater Build Timeout Flexibility](https://www.heroku.com/blog/bigger-slugs-and-greater-build-timeout-flexibility/) (2026-03-19)
 - [Behind the Scenes: How Maintaining Cloud Native Buildpacks Powers Platforms Like Heroku](https://www.heroku.com/blog/how-maintaining-cloud-native-buildpacks-powers-platforms-like-heroku/) (2026-03-17)
 - [From Fragmented Logs to Full-Stack Visibility with SolarWinds Papertrail](https://www.heroku.com/blog/fragmented-logs-to-full-stack-visibility-solarwinds-papertrail/) (2026-03-12)
-- [Preparing for Shorter SSL/TLS Certificate Lifetimes](https://www.heroku.com/blog/preparing-for-shorter-ssl-tls-certificate-lifetimes/) (2026-03-06)
-- [Whats New in Heroku AI: New Models and a Flexible Standard Plan](https://www.heroku.com/blog/new-models-and-flexible-standard-plan/) (2026-02-19)
-- [Code Execution Sandbox for Agents on Heroku](https://www.heroku.com/blog/code-execution-sandbox-for-agents-on-heroku/) (2026-02-17)
 
 </details>
 
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Powering the agents: Workers AI now runs large models, starting with Kimi K2.5](https://blog.cloudflare.com/workers-ai-large-models/) (2026-03-19)
 - [Introducing Custom Regions for precision data control](https://blog.cloudflare.com/custom-regions/) (2026-03-18)
 - [Standing up for the open Internet: why we appealed Italy’s "Piracy Shield" fine](https://blog.cloudflare.com/standing-up-for-the-open-internet/) (2026-03-16)
 - [From legacy architecture to Cloudflare One](https://blog.cloudflare.com/legacy-to-agile-sase/) (2026-03-13)
 - [Announcing Cloudflare Account Abuse Protection: prevent fraudulent attacks from bots and humans](https://blog.cloudflare.com/account-abuse-protection/) (2026-03-12)
-- [Slashing agent token costs by 98% with RFC 9457-compliant error responses](https://blog.cloudflare.com/rfc-9457-agent-error-pages/) (2026-03-11)
 
 </details>
 
@@ -535,11 +535,11 @@ https://www.twilio.com/en-us/blog/insights/customer-lifetime-value-clv
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [TorchSpec: Speculative Decoding Training at Scale](https://pytorch.org/blog/torchspec-speculative-decoding-training-at-scale/) (2026-03-19)
 - [Generalized Dot-Product Attention: Tackling Real-World Challenges in GPU Training Kernels](https://pytorch.org/blog/generalized-dot-product-attention-tackling-real-world-challenges-in-gpu-training-kernels/) (2026-03-18)
 - [Building Voice Agents with ExecuTorch: A Cross-Platform Foundation for On-Device Audio](https://pytorch.org/blog/building-voice-agents-with-executorch-a-cross-platform-foundation-for-on-device-audio/) (2026-03-15)
 - [MXFP8 Training for MoEs: 1.3x training speedup vs BF16 for Llama4 Scout on GB200 cluster using TorchAO and TorchTitan](https://pytorch.org/blog/mxfp8-training-for-moes-1-3x-training-speedup-vs-bf16-for-llama4-scout-on-gb200-cluster-using-torchao-and-torchtitan/) (2026-03-12)
 - [PyTorch at NVIDIA GTC 2026: Join Us in San Jose!](https://pytorch.org/blog/pytorch-at-nvidia-gtc-2026/) (2026-03-09)
-- [KernelAgent: Hardware-Guided GPU Kernel Optimization via Multi-Agent Orchestration](https://pytorch.org/blog/kernelagent-hardware-guided-gpu-kernel-optimization-via-multi-agent-orchestration/) (2026-03-06)
 
 </details>
 
@@ -579,11 +579,11 @@ https://www.twilio.com/en-us/blog/insights/customer-lifetime-value-clv
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Claude Skills Explained: Build, Configure, and Use Custom Skills on Claude Code](https://www.analyticsvidhya.com/blog/2026/03/claude-skills-custom-skills-on-claude-code/) (2026-03-19)
 - [Top 5 GitHub Repositories to get Free Claude Code Skills (1000+ Skills)](https://www.analyticsvidhya.com/blog/2026/03/github-repositories-to-get-free-claude-code-skills/) (2026-03-19)
 - [A Guide to OpenRouter for AI Development](https://www.analyticsvidhya.com/blog/2026/03/a-guide-to-openrouter/) (2026-03-18)
 - [ChatGPT vs Claude: The 2026 Battle of the AI Model Families](https://www.analyticsvidhya.com/blog/2026/03/chatgpt-vs-claude/) (2026-03-18)
 - [Excel 101: COUNT and COUNTIF Functions](https://www.analyticsvidhya.com/blog/2026/03/count-and-countif-functions/) (2026-03-17)
-- [Top 7 Free Machine Learning Courses with Certificates](https://www.analyticsvidhya.com/blog/2026/03/free-machine-learning-courses-with-certificates/) (2026-03-16)
 
 </details>
 
