@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The best AI investment might be in energy tech](https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/) (2026-03-20)
+- [These AI notetaking devices can help you record and transcribe your meetings](https://techcrunch.com/2026/03/20/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/) (2026-03-20)
 - [Amazon acquires Rivr, maker of a stair-climbing delivery robot](https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/) (2026-03-19)
 - [Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI](https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/) (2026-03-19)
 - [Employees had to restrain a dancing humanoid robot after it went wild at a California restaurant](https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/) (2026-03-19)
-- [Polymarket continues its partnership spree with a Major League Baseball deal](https://techcrunch.com/2026/03/19/polymarket-continues-its-partnership-spree-with-a-major-league-baseball-deal/) (2026-03-19)
-- [Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says](https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/) (2026-03-19)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Kin: Semantic version control that tracks code as entities, not files](https://github.com/firelock-ai/kin) (2026-03-20)
-- [ArXiv Declares Independence from Cornell](https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell) (2026-03-20)
-- [Physicists Trace Sun's Magnetic Engine, 200k Kilometers Below Surface](https://news.njit.edu/njit-physicists-trace-sun%E2%80%99s-magnetic-engine-200000-kilometers-below-surface) (2026-03-20)
-- [Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found](https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found) (2026-03-20)
-- [Drugwars for the TI-82/83/83 Calculators (2011)](https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404) (2026-03-20)
+- [Delphi 13.1 Released, with ARM64 support](https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-13-florence-update-1/) (2026-03-20)
+- [The Reason Windows Hate Is Exploding: It's the End of Personal Computing [video]](https://www.youtube.com/watch?v=e7a89ZYcTo8) (2026-03-20)
+- [Entso-E final report on Iberian 2025 blackout](https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/) (2026-03-20)
+- [3M's PFAS exit killed the supply chain for two-phase immersion cooling in DCs](https://thecoolingreport.com/intel.html) (2026-03-20)
+- [Show HN: Sonar – A tiny CLI to see and kill whatever's running on localhost](https://github.com/RasKrebs/sonar) (2026-03-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [&#8216;Work from home,&#8217; encourages the world&#8217;s energy watchdog](https://www.theverge.com/science/897874/iea-fuel-gas-shortage-recommendations-work-from-home) (2026-03-20)
 - [Valve’s huge SteamOS 3.8 update adds long-awaited features — and supports Steam Machine](https://www.theverge.com/games/897765/valve-steamos-3-8-update-steam-deck-hibernation-steam-machine-xbox-ally) (2026-03-20)
 - [OpenAI is planning a desktop ‘superapp’](https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp) (2026-03-20)
 - [Sony’s new WF-1000XM6 earbuds are already on sale for $30 off](https://www.theverge.com/gadgets/897668/sony-wf-1000xm6-wireless-earbuds-deal-sale) (2026-03-19)
 - [Marc Andreessen is a philosophical zombie](https://www.theverge.com/tldr/897566/marc-andreessen-is-a-philosophical-zombie) (2026-03-19)
-- [The coolest game controller for your phone is $50 off](https://www.theverge.com/gadgets/897465/ohsnap-mcon-phone-controller-deal-sale) (2026-03-19)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Rocket Report: Canada makes a major move, US Space Force says actually, let's be hasty](https://arstechnica.com/space/2026/03/rocket-report-canada-makes-a-major-move-us-space-force-says-actually-lets-be-hasty/) (2026-03-20)
+- [Project Hail Mary is in theaters—but do the linguistics work?](https://arstechnica.com/culture/2026/03/project-hail-mary-is-in-theaters-but-do-the-linguistics-work/) (2026-03-20)
 - [RFK Jr. has destroyed over a quarter of health dept's expert panels](https://arstechnica.com/health/2026/03/rfk-jr-s-war-on-scientific-expertise-destroyed-27-of-agencys-advisor-panels/) (2026-03-19)
 - [Cloud service providers ask EU regulator to reinstate VMware partner program](https://arstechnica.com/information-technology/2026/03/cloud-service-providers-ask-eu-regulator-to-reinstate-vmware-partner-program/) (2026-03-19)
 - [Millions of iPhones can be hacked with a new tool found in the wild](https://arstechnica.com/security/2026/03/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/) (2026-03-19)
-- [FBI started buying Americans' location data again, Kash Patel confirms](https://arstechnica.com/tech-policy/2026/03/fbi-started-buying-americans-location-data-again-kash-patel-confirms/) (2026-03-19)
-- [Dogfighting in space won't look like the movies, but this company wants in on it](https://arstechnica.com/space/2026/03/dogfighting-in-space-this-company-builds-satellites-for-high-tempo-engagement/) (2026-03-19)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [OpenAI is throwing everything into building a fully automated researcher](https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/) (2026-03-20)
+- [Mind-altering substances are (still) falling short in clinical trials](https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/) (2026-03-20)
 - [The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste](https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/) (2026-03-19)
 - [Can quantum computers now solve health care problems? We’ll soon find out.](https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/) (2026-03-19)
 - [Why the world doesn’t recycle more nuclear waste](https://www.technologyreview.com/2026/03/19/1134399/nuclear-waste-reprocessing/) (2026-03-19)
-- [The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors](https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/) (2026-03-18)
-- [What do new nuclear reactors mean for waste?](https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/) (2026-03-18)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Map & Set: The Underrated Heroes of JavaScript](https://dev.to/kunal_dev/map-set-the-underrated-heroes-of-javascript-4ad7) (2026-03-20)
-- [How to Harden OpenClaw in 5 Minutes — Before and After a Real Prompt Injection Attack](https://dev.to/onoz1169/how-to-harden-openclaw-in-5-minutes-before-and-after-a-real-prompt-injection-attack-2d66) (2026-03-20)
-- [Squares of a Sorted Array](https://dev.to/jeyaprasadr/squares-of-a-sorted-array-2bom) (2026-03-20)
-- [CMMI Describes Progress on Addressing Health Equity: A Comprehensive Review](https://dev.to/aloycwl/cmmi-describes-progress-on-addressing-health-equity-a-comprehensive-review-1h3h) (2026-03-20)
-- [Are you afraid AI is going to take your SWE job? Here's a little secret.](https://dev.to/michal_sevcik/are-you-afraid-ai-is-going-to-take-your-swe-job-heres-a-little-secret-hed) (2026-03-20)
+- [[Boost]](https://dev.to/sampseiol1/-4fmh) (2026-03-20)
+- [10 AI Prompts Every Engineering Manager Should Have (I Use These Weekly)](https://dev.to/engleadertools/10-ai-prompts-every-engineering-manager-should-have-i-use-these-weekly-4p5p) (2026-03-20)
+- [I got tired of copy-pasting scattered logs to AI, so I built an open-source Go daemon that traces E2E (React to SQL)](https://dev.to/tdsevn/i-got-tired-of-copy-pasting-scattered-logs-to-ai-so-i-built-an-open-source-go-daemon-that-traces-513k) (2026-03-20)
+- [Stop your AI agent from ignoring your architecture](https://dev.to/tompahoward/stop-your-ai-agent-from-ignoring-your-architecture-3gc5) (2026-03-20)
+- [Building a Unified Crypto Trading System: Node.js, RabbitMQ, and AWS](https://dev.to/seafluxtechnologies/building-a-unified-crypto-trading-system-nodejs-rabbitmq-and-aws-56k1) (2026-03-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How ChatGPT is killing your programming career](https://medium.com/@praveengaddam319/how-chatgpt-is-killing-your-programming-career-cefea47901e0?source=rss------programming-5) (2026-03-20)
-- [Overengineering: The Silent Killer of Good Software](https://akintola-stephen24.medium.com/overengineering-the-silent-killer-of-good-software-3669d8bbf413?source=rss------programming-5) (2026-03-20)
-- [Introducing OpsLogger: Structured Logging Made Simple for Developers](https://medium.com/@ops.is.ananta/introducing-opslogger-structured-logging-made-simple-for-developers-0179a8cde951?source=rss------programming-5) (2026-03-20)
-- [From Job Seeker to Leader- ChatGPT Prompts for Career Success](https://medium.com/illumination/from-job-seeker-to-leader-chatgpt-prompts-for-career-success-26e492359018?source=rss------programming-5) (2026-03-20)
-- [Git in Practice — Part 2: Merge Strategy](https://okanyurt.medium.com/git-in-practice-part-2-merge-strategy-b082a3713d5f?source=rss------programming-5) (2026-03-20)
+- [Your Code is 80% Garbage (And So Is Mine)](https://medium.com/coding-nexus/your-code-is-80-garbage-and-so-is-mine-1c1e92876342?source=rss------programming-5) (2026-03-20)
+- [10 JavaScript Tricks That Make You Write Less Code (And Feel Smarter)](https://blog.stackademic.com/10-javascript-tricks-that-make-you-write-less-code-and-feel-smarter-91c91d2dc4f1?source=rss------programming-5) (2026-03-20)
+- [Why I Stopped Fighting Python and Started Letting It Think For Me](https://blog.stackademic.com/why-i-stopped-fighting-python-and-started-letting-it-think-for-me-ab08b1dd224b?source=rss------programming-5) (2026-03-20)
+- [What If Your AI Coder Had Skin in the Game?](https://medium.com/@selfradiance/what-if-your-ai-coder-had-skin-in-the-game-ee10664d475c?source=rss------programming-5) (2026-03-20)
+- [GPT-5.4 Just Dropped — And It Changes Everything About AI Agents, Coding, and Professional Work](https://kasata.medium.com/gpt-5-4-just-dropped-and-it-changes-everything-about-ai-agents-coding-and-professional-work-b44fde7d1fcc?source=rss------programming-5) (2026-03-20)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI](https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/) (2026-03-16)
-- [From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation](https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/) (2026-03-16)
 - [Modernizing regulated industries with cloud and agentic AI](https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/) (2026-03-11)
 - [Many agents, one team: Scaling modernization on Azure](https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/) (2026-03-11)
 - [Introducing Fireworks AI on Microsoft Foundry: Bringing high performance, low latency open model inference to Azure](https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/) (2026-03-11)
+- [Unpacking your top questions on agentic AI: The Shift podcast](https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/) (2026-03-09)
+- [The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry](https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/) (2026-03-06)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [KotlinConf 2026: Talks to Help You Navigate the Schedule](https://blog.jetbrains.com/kotlin/2026/03/kotlinconf-2026-talks-schedule/) (2026-03-20)
 - [Why Your AI Governance Is Holding You Back, and You Don’t Even Know It](https://blog.jetbrains.com/ai/2026/03/why-your-ai-governance-is-holding-you-back-and-you-don-t-even-know-it/) (2026-03-19)
 - [Core JavaScript and TypeScript Features Become Free in IntelliJ IDEA](https://blog.jetbrains.com/idea/2026/03/js-ts-free-support/) (2026-03-19)
 - [IntelliJ IDEA’s New Kotlin Coroutine Inspections, Explained](https://blog.jetbrains.com/idea/2026/03/intellij-idea-s-new-kotlin-coroutine-inspections-explained/) (2026-03-19)
 - [$ teamcity From the Command Line](https://blog.jetbrains.com/teamcity/2026/03/teamcity-cli/) (2026-03-19)
-- [Google Summer of Code 2026 Is Here: Contribute to Kotlin](https://blog.jetbrains.com/kotlin/2026/03/gsoc-2026-contribute-to-kotlin/) (2026-03-18)
 
 </details>
 
@@ -568,33 +568,33 @@ https://www.twilio.com/en-us/blog/insights/customer-lifetime-value-clv
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Agentic RAG Failure Modes: Retrieval Thrash, Tool Storms, and Context Bloat (and How to Spot Them Early)](https://towardsdatascience.com/agentic-rag-failure-modes-retrieval-thrash-tool-storms-and-context-bloat-and-how-to-spot-them-early/) (2026-03-20)
 - [The Basics of Vibe Engineering](https://towardsdatascience.com/the-basics-of-vibe-engineering/) (2026-03-19)
 - [Beyond Prompt Caching: 5 More Things You Should Cache in RAG Pipelines](https://towardsdatascience.com/beyond-prompt-caching-5-more-things-you-should-cache-in-rag-pipelines/) (2026-03-19)
 - [Linear Regression Is Actually a Projection Problem, Part 1: The Geometric Intuition](https://towardsdatascience.com/linear-regression-is-actually-a-projection-problem-part-1-the-geometric-intuition/) (2026-03-19)
 - [Vibe Coding with AI: Best Practices for Human-AI Collaboration in Software Development](https://towardsdatascience.com/vibe-coding-with-ai-best-practices-for-human-ai-collaboration-in-software-development/) (2026-03-19)
-- [Two-Stage Hurdle Models: Predicting Zero-Inflated Outcomes](https://towardsdatascience.com/two-stage-hurdle-models-predicting-zero-inflated-outcomes/) (2026-03-18)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Inside Claude Cowork: How to Run Agentic AI Tasks Like a Pro ](https://www.analyticsvidhya.com/blog/2026/03/claude-cowork/) (2026-03-20)
+- [Top 7 Free Data Analytics Courses with Certificates](https://www.analyticsvidhya.com/blog/2026/03/free-data-analytics-courses-with-certificates/) (2026-03-20)
 - [Claude Skills Explained: Build, Configure, and Use Custom Skills on Claude Code](https://www.analyticsvidhya.com/blog/2026/03/claude-skills-custom-skills-on-claude-code/) (2026-03-19)
 - [Top 5 GitHub Repositories to get Free Claude Code Skills (1000+ Skills)](https://www.analyticsvidhya.com/blog/2026/03/github-repositories-to-get-free-claude-code-skills/) (2026-03-19)
 - [A Guide to OpenRouter for AI Development](https://www.analyticsvidhya.com/blog/2026/03/a-guide-to-openrouter/) (2026-03-18)
-- [ChatGPT vs Claude: The 2026 Battle of the AI Model Families](https://www.analyticsvidhya.com/blog/2026/03/chatgpt-vs-claude/) (2026-03-18)
-- [Excel 101: COUNT and COUNTIF Functions](https://www.analyticsvidhya.com/blog/2026/03/count-and-countif-functions/) (2026-03-17)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Powerful Python Decorators for Robust AI Agents](https://www.kdnuggets.com/5-powerful-python-decorators-for-robust-ai-agents) (2026-03-20)
 - [Abacus AI Honest Review And Pricing: The AI That Lets You Vibe Code, Build Agents & Replace 10+ Tools?](https://www.kdnuggets.com/2026/03/abacus/abacus-ai-honest-review-and-pricing-the-ai-that-lets-you-vibe-code-build-agents-replace-10-tools) (2026-03-19)
 - [(Free) Agentic Coding with Goose](https://www.kdnuggets.com/free-agentic-coding-with-goose) (2026-03-19)
 - [5 Useful Python Scripts for Synthetic Data Generation](https://www.kdnuggets.com/5-useful-python-scripts-for-synthetic-data-generation) (2026-03-19)
 - [Visualizing Patterns in Solutions: How Data Structure Affects Coding Style](https://www.kdnuggets.com/visualizing-patterns-in-solutions-how-data-structure-affects-coding-style) (2026-03-18)
-- [7 Ways to Reduce Hallucinations in Production LLMs](https://www.kdnuggets.com/7-ways-to-reduce-hallucinations-in-production-llms) (2026-03-18)
 
 </details>
 
