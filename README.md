@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Woman in Labor at Florida Hospital Brought in Zoom Court for Refusing C-Section](https://www.propublica.org/article/florida-court-hearing-c-section) (2026-03-21)
+- [FFmpeg 101 (2024)](https://blogs.igalia.com/llepage/ffmpeg-101/) (2026-03-21)
+- [purl: a curl-esque CLI for making HTTP requests that require payment](https://www.purl.dev/) (2026-03-21)
+- [Traces of Evil](https://www.tracesofevil.com/) (2026-03-21)
 - [Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)](https://github.com/arnoldrobbins/LinuxByExample-2e) (2026-03-20)
 - [Show HN: Red Grid Link – peer-to-peer team tracking over Bluetooth, no servers](https://github.com/RedGridTactical/RedGridLink) (2026-03-20)
-- [Ghostling](https://github.com/ghostty-org/ghostling) (2026-03-20)
-- [Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran](https://github.com/FormerLab/fortransky) (2026-03-20)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The 6th SOLID Principle?](https://dev.to/remojansen/the-6th-solid-principle-4hjp) (2026-03-21)
-- [Rotifer v0.5.5: Foundation Hardening — Fixing Four Critical Gaps Before They Become Real Problems](https://dev.to/rotiferdev/rotifer-v055-foundation-hardening-fixing-four-critical-gaps-before-they-become-real-problems-m81) (2026-03-21)
-- [🛠️ Terraform Setup Guide: Install Terraform, AWS CLI & Prepare Your DevOps Environment (Part 2)](https://dev.to/ahkarswe/terraform-setup-guide-install-terraform-aws-cli-prepare-your-devops-environment-part-2-el5) (2026-03-21)
-- [How a Corruption-Sanctioned Company Got a $480M Contract to Build Chile's National ID System — And Broke It](https://dev.to/krlz/how-a-corruption-sanctioned-company-got-a-480m-contract-to-build-chiles-national-id-system-and-2pk4) (2026-03-21)
-- [Reduced Frontend Team: Leveraging Backend Engineers and AI to Maintain Development Efficiency](https://dev.to/svetlix/reduced-frontend-team-leveraging-backend-engineers-and-ai-to-maintain-development-efficiency-5513) (2026-03-21)
+- [I Replaced Google Drive with a Home Server That Costs Almost Nothing](https://dev.to/avgskully/i-replaced-google-drive-with-a-home-server-that-costs-almost-nothing-2c6l) (2026-03-21)
+- [Optimizing for Zero: Building a High-Performance Browser Runner with No Budget](https://dev.to/getinfotoyou/optimizing-for-zero-building-a-high-performance-browser-runner-with-no-budget-1mf4) (2026-03-21)
+- [The Agent Memory Problem (And How I Solved It Without a Database)](https://dev.to/webbywisp/the-agent-memory-problem-and-how-i-solved-it-without-a-database-52ad) (2026-03-21)
+- [Architecting Agentic Systems Without Multiplying Costs: A Real Healthcare Story](https://dev.to/agastya_kommanamanchi_d4f/architecting-agentic-systems-without-multiplying-costs-a-real-healthcare-story-2g6o) (2026-03-21)
+- [Your AI Agents Are Running Wild — Here's How to Take Back Control](https://dev.to/gokhan_ozer/your-ai-agents-are-running-wild-heres-how-to-take-back-control-1fc8) (2026-03-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [7 Angular Features That Quietly Changed Frontend Development](https://medium.com/@shubhamnalawade037/7-angular-features-that-quietly-changed-frontend-development-19702e58d3df?source=rss------programming-5) (2026-03-21)
-- [I Thought LLMs Knew Everything… Until I Learned About RAG](https://medium.com/@shivanimaurya811282/i-thought-llms-knew-everything-until-i-learned-about-rag-37526f4929c3?source=rss------programming-5) (2026-03-21)
-- [O Guia Definitivo para Sobreviver à Modernização de Legados](https://medium.com/@kevynmurilo2017/o-guia-definitivo-para-sobreviver-%C3%A0-moderniza%C3%A7%C3%A3o-de-legados-d268060c4c14?source=rss------programming-5) (2026-03-21)
-- [Why PWAs Dominate the 2026 Digital Strategy](https://medium.com/codetodeploy/why-pwas-dominate-the-2026-digital-strategy-e0c2c4f740c9?source=rss------programming-5) (2026-03-21)
-- [How to Create Docker Images for Spring Boot (Step-by-Step Guide)](https://medium.com/@sunil17bbmp/how-to-create-docker-images-for-spring-boot-step-by-step-guide-dff77ee783a0?source=rss------programming-5) (2026-03-21)
+- [12 Claude Code Skills Every Developer Needs in 2026…](https://medium.com/@startup_Ideas/12-claude-code-skills-every-developer-needs-in-2026-3261f70d596b?source=rss------programming-5) (2026-03-21)
+- [Can AI Replace Software Developers?](https://metafluxtech.medium.com/can-ai-replace-software-developers-929460fc30b1?source=rss------programming-5) (2026-03-21)
+- [The Future of AI: How It Will Change Our Lives Forever](https://medium.com/@jaypaldhapa7990/the-future-of-ai-how-it-will-change-our-lives-forever-aa9ca01231f6?source=rss------programming-5) (2026-03-21)
+- [Downgrading to macOS Catalina: A Sermon on Obsolescence](https://brennanbrown.medium.com/downgrading-to-macos-catalina-a-sermon-on-obsolescence-c71268aa9279?source=rss------programming-5) (2026-03-21)
+- [Why Your FastAPI App Feels Fast Locally but Slow in Production](https://medium.com/@luckyudbhav/why-your-fastapi-app-feels-fast-locally-but-slow-in-production-3bddc365030b?source=rss------programming-5) (2026-03-21)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure](https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/) (2026-03-04)
-- [Unlocking document understanding with Mistral Document AI in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664) (2026-03-03)
-- [Instant access incremental snapshots: Restore without waiting](https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/) (2026-03-02)
-- [Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected](http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog) (2026-02-24)
-- [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
+- [Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI](https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/) (2026-03-16)
+- [From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation](https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/) (2026-03-16)
+- [Modernizing regulated industries with cloud and agentic AI](https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/) (2026-03-11)
+- [Many agents, one team: Scaling modernization on Azure](https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/) (2026-03-11)
+- [Introducing Fireworks AI on Microsoft Foundry: Bringing high performance, low latency open model inference to Azure](https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/) (2026-03-11)
 
 </details>
 
