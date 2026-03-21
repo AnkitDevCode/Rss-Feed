@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Delve accused of misleading customers with ‘fake compliance’](https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/) (2026-03-21)
+- [Why Wall Street wasn’t won over by Nvidia’s big conference](https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/) (2026-03-21)
+- [How fusion power works and the startups pursuing it](https://techcrunch.com/2026/03/21/how-fusion-power-works-and-the-startups-pursuing-it/) (2026-03-21)
 - [New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput](https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/) (2026-03-21)
 - [Elon Musk misled Twitter investors while trying to get out of acquisition, jury says](https://techcrunch.com/2026/03/20/elon-musk-misled-twitter-investors-while-trying-to-get-out-of-acquisition-jury-says/) (2026-03-20)
-- [Microsoft rolls back some of its Copilot AI bloat on Windows](https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/) (2026-03-20)
-- [What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet](https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/) (2026-03-20)
-- [Amid legal turmoil, Kalshi is temporarily banned in Nevada](https://techcrunch.com/2026/03/20/amidst-legal-turmoil-kalshi-is-temporarily-banned-in-nevada/) (2026-03-20)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Atuin v18.13 – better search, a PTY proxy, and AI for your shell](https://blog.atuin.sh/atuin-v18-13/) (2026-03-21)
-- [Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record) (2026-03-21)
-- [FFmpeg 101 (2024)](https://blogs.igalia.com/llepage/ffmpeg-101/) (2026-03-21)
-- [Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)](https://github.com/arnoldrobbins/LinuxByExample-2e) (2026-03-20)
-- [Ghostling](https://github.com/ghostty-org/ghostling) (2026-03-20)
+- [Passengers who refuse to use headphones can now be kicked off United flights](https://www.cnn.com/2026/03/21/travel/travel-news-happiest-countries) (2026-03-21)
+- [Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646) (2026-03-21)
+- [404 Deno CEO not found](https://dbushell.com/2026/03/20/denos-decline-and-layoffs/) (2026-03-21)
+- [Show HN: Joonote – A note-taking app on your lock screen and notification panel](https://joonote.com/) (2026-03-21)
+- [Iran launched unsuccessful attack on UK's Diego Garcia](https://www.bbc.com/news/articles/c5yljdgwppzo) (2026-03-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The AirPods Pro 3 are $50 off right now, nearly matching their best-ever price](https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal) (2026-03-21)
+- [Here are 20 of our favorite outdoor deals from REI’s Member Days Sale](https://www.theverge.com/gadgets/897628/best-outdoor-deals-rei-member-days-sale-2026) (2026-03-21)
+- [The gen AI Kool-Aid tastes like eugenics](https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview) (2026-03-21)
+- [Oeuf is a punishing platformer in a cozy shell](https://www.theverge.com/entertainment/895435/oeuf-review) (2026-03-21)
 - [Dreame’s self-cleaning L10s Pro Ultra is nearly $1,000 off its original list price](https://www.theverge.com/gadgets/898287/dreame-l10s-pro-ultra-robot-vacuum-mop-amazon-big-spring-sale-2026-deal) (2026-03-21)
-- [The new MacBook Pro is still fast as hell](https://www.theverge.com/tech/898062/apple-macbook-pro-16-m5-max-m1-comparison-review) (2026-03-21)
-- [An early contender for movie of the year](https://www.theverge.com/tech/898265/project-hail-mary-airpods-max-2-installer) (2026-03-21)
-- [Gemini task automation is slow, clunky, and super impressive](https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on) (2026-03-21)
-- [Kodiak CEO says making trucks drive themselves is only half the battle](https://www.theverge.com/transportation/897551/kodiak-ai-self-driving-truck-ceo-interview) (2026-03-21)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [DOGE goes nuclear: How trump invited silicon valley into America’s nuclear power regulator](https://arstechnica.com/science/2026/03/doge-goes-nuclear-how-trump-invited-silicon-valley-into-americas-nuclear-power-regulator/) (2026-03-21)
+- [We keep finding the raw material of DNA in asteroids—what's it telling us?](https://arstechnica.com/science/2026/03/we-keep-finding-the-raw-material-of-dna-in-asteroids-whats-it-telling-us/) (2026-03-21)
+- [DOGE goes nuclear: How Trump invited Silicon Valley into America’s nuclear power regulator](https://arstechnica.com/science/2026/03/doge-goes-nuclear-how-trump-invited-silicon-valley-into-americas-nuclear-power-regulator/) (2026-03-21)
 - [Jury finds Musk owes damages to Twitter investors for his tweets](https://arstechnica.com/tech-policy/2026/03/jury-agrees-that-musks-tweets-during-twitter-takeover-constituted-fraud/) (2026-03-20)
 - [You're likely already infected with a brain-eating virus you've never heard of](https://arstechnica.com/health/2026/03/youre-likely-already-infected-with-a-brain-eating-virus-youve-never-heard-of/) (2026-03-20)
 - [Once again, ULA can't deliver when the US military needs a satellite in orbit](https://arstechnica.com/space/2026/03/spacex-swipes-yet-another-military-contract-from-united-launch-alliance/) (2026-03-20)
-- [Microsoft keeps insisting that it's deeply committed to the quality of Windows 11](https://arstechnica.com/gadgets/2026/03/microsoft-keeps-insisting-that-its-deeply-committed-to-the-quality-of-windows-11/) (2026-03-20)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How to Fix nginx 502 Bad Gateway in Under 5 Minutes](https://dev.to/yash_step2dev/how-to-fix-nginx-502-bad-gateway-in-under-5-minutes-14pn) (2026-03-21)
-- [Astrology Meets AI: Building a Free Self-Discovery Tool](https://dev.to/eonlee/astrology-meets-ai-building-a-free-self-discovery-tool-4j9h) (2026-03-21)
-- [How I Deployed My First Production App on AWS EC2 — Every Mistake I Made](https://dev.to/codephoenix86/how-i-deployed-my-first-production-app-on-aws-ec2-every-mistake-i-made-4e8e) (2026-03-21)
-- [Enhancing NServer Performance: Resolving Single-Threaded Blocking Operation Bottlenecks in Python DNS Framework](https://dev.to/romdevin/enhancing-nserver-performance-resolving-single-threaded-blocking-operation-bottlenecks-in-python-345f) (2026-03-21)
-- [Where Have You Used Abstraction in Your Project? A Practical Guide](https://dev.to/realnamehidden1_61/where-have-you-used-abstraction-in-your-project-a-practical-guide-1kof) (2026-03-21)
+- [Roundup Guide: best AML watchlist screening APIs](https://dev.to/adrienmehta/roundup-guide-best-aml-watchlist-screening-apis-ilp) (2026-03-21)
+- [How the Internet Works (Explained Like You're Just Getting Started)](https://dev.to/atieno_thedvev/how-the-internet-works-explained-like-youre-just-getting-started-dao) (2026-03-21)
+- [The 7 Levels of Website Monitoring -Learn how to monitor your entire website](https://dev.to/vincentbean/the-7-levels-of-website-monitoring-learn-how-to-monitor-your-entire-website-530i) (2026-03-21)
+- [Your Indispensable Value in the AI Era](https://dev.to/larsfaye/your-indispensable-value-in-the-ai-era-427g) (2026-03-21)
+- [Docker Out of Memory: How to Diagnose and Fix OOM Kills](https://dev.to/yash_step2dev/docker-out-of-memory-how-to-diagnose-and-fix-oom-kills-2id4) (2026-03-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [If AI Can Code, What Are We Even Learning?](https://medium.com/@sovannaro/if-ai-can-code-what-are-we-even-learning-7e23fa7a6c5e?source=rss------programming-5) (2026-03-21)
-- [AI Won’t Make You a Great Developer Without This One Thing](https://medium.com/@sovannaro/ai-wont-make-you-a-great-developer-without-this-one-thing-3c53c42d33ce?source=rss------programming-5) (2026-03-21)
-- [What a ML Model Really Is (From a Mathematical Perspective)](https://medium.com/@leumas.a/what-a-ml-model-really-is-from-a-mathematical-perspective-c7bf296d3b1d?source=rss------programming-5) (2026-03-21)
-- [KDM: The Digital Lock That Controls Every Movie You Watch](https://shantanu-singh.medium.com/kdm-the-digital-lock-that-controls-every-movie-you-watch-764c85c66b38?source=rss------programming-5) (2026-03-21)
-- [Why Database Terms Are So Confusing (And How to Remember Them)](https://medium.com/@shiwammaddheshiya/why-database-terms-are-so-confusing-and-how-to-remember-them-711651ae068b?source=rss------programming-5) (2026-03-21)
+- [I Said "Great Question" Every Time I Didn't Know The Answer. People Thought I Was Thoughtful.](https://medium.com/never-stop-writing/i-said-great-question-every-time-i-didnt-know-the-answer-people-thought-i-was-thoughtful-ab69a60ba348?source=rss------programming-5) (2026-03-21)
+- [The Python Bot I Built to Find High-Paying Clients Automatically](https://medium.com/@SulemanSafdar/the-python-bot-i-built-to-find-high-paying-clients-automatically-440ce7242fea?source=rss------programming-5) (2026-03-21)
+- [How to Implement the CQRS Pattern in Clean Architecture (From Scratch)](https://medium.com/@mariammaurice/how-to-implement-the-cqrs-pattern-in-clean-architecture-from-scratch-5f5567e99acb?source=rss------programming-5) (2026-03-21)
+- [NVIDIA DLSS 5 Is Either the Future of Gaming Graphics or AI Slop, Let’s Talk About It](https://medium.com/@ezraclintoc/nvidia-dlss-5-is-either-the-future-of-gaming-graphics-or-ai-slop-lets-talk-about-it-56306260d29e?source=rss------programming-5) (2026-03-21)
+- [ 從 ASCII 到 Big5：編碼的演化之旅](https://medium.com/@mindsteps.alex/%E5%BE%9E-ascii-%E5%88%B0-big5-%E7%B7%A8%E7%A2%BC%E7%9A%84%E6%BC%94%E5%8C%96%E4%B9%8B%E6%97%85-424a010e3f92?source=rss------programming-5) (2026-03-21)
 
 </details>
 
@@ -362,6 +362,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Building a Greeting Card Generator with the Lovable Twilio Connector
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/greeting-card-generator-lovable-twilio-connector
+) (2026-03-20)
+- [
 How to Approve Real Users and Block Fake Accounts at Sign Up with Lookup and Verify
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accounts-lookup-verify-node
@@ -381,11 +386,6 @@ Community, AI in Action, and Twilio News: Reflections on Our Biggest User Group 
 ](
 https://www.twilio.com/en-us/blog/events/twilio-segment-user-group-london-feb-2026
 ) (2026-03-11)
-- [
-Customer lifetime value: formula, calculation & examples
-](
-https://www.twilio.com/en-us/blog/insights/customer-lifetime-value-clv
-) (2026-03-10)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/customer-lifetime-value-clv
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack vs. Microsoft Teams: Key Differences for Modern Teams](https://slack.com/blog/compare/slack-vs-microsoft-teams) (2026-03-19)
 - [Unlocking the Power of Conversation: How Slack’s New Platform is Fueling the Agentic Era](https://slack.com/blog/news/powering-agentic-collaboration) (2026-03-13)
 - [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-03-13)
 - [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-03-13)
 - [AI-Powered Bots: Guide to Chatbots, Tools, and Best Practices](https://slack.com/blog/productivity/ai-powered-bots-guide-to-chatbots-tools-and-best-practices) (2026-03-06)
+- [Best Agentic AI Platforms for 2026: What They Are and How to Choose One](https://slack.com/blog/productivity/best-agentic-ai-platforms-for-2026-what-they-are-and-how-to-choose-one) (2026-03-06)
 
 </details>
 
@@ -568,22 +568,22 @@ https://www.twilio.com/en-us/blog/insights/customer-lifetime-value-clv
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Escaping the SQL Jungle](https://towardsdatascience.com/escaping-the-sql-jungle/) (2026-03-21)
+- [A Gentle Introduction to Nonlinear Constrained Optimization with Piecewise Linear Approximations](https://towardsdatascience.com/a-gentle-introduction-to-nonlinear-constrained-optimization-with-piecewise-linear-approximations/) (2026-03-21)
 - [The Math That’s Killing Your AI Agent](https://towardsdatascience.com/the-math-thats-killing-your-ai-agent/) (2026-03-20)
 - [Building Robust Credit Scoring Models (Part 3)](https://towardsdatascience.com/building-robust-credit-scoring-models-part-3/) (2026-03-20)
 - [How to Measure AI Value](https://towardsdatascience.com/how-to-measure-ai-value/) (2026-03-20)
-- [Agentic RAG Failure Modes: Retrieval Thrash, Tool Storms, and Context Bloat (and How to Spot Them Early)](https://towardsdatascience.com/agentic-rag-failure-modes-retrieval-thrash-tool-storms-and-context-bloat-and-how-to-spot-them-early/) (2026-03-20)
-- [The Basics of Vibe Engineering](https://towardsdatascience.com/the-basics-of-vibe-engineering/) (2026-03-19)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [PageIndex vs Traditional RAG: A Better Way to Build Document Chatbots](https://www.analyticsvidhya.com/blog/2026/03/pageindex-vs-rag-document-chatbots/) (2026-03-21)
 - [Inside Claude Cowork: How to Run Agentic AI Tasks Like a Pro ](https://www.analyticsvidhya.com/blog/2026/03/claude-cowork/) (2026-03-20)
 - [Top 7 Free Data Analytics Courses with Certificates](https://www.analyticsvidhya.com/blog/2026/03/free-data-analytics-courses-with-certificates/) (2026-03-20)
 - [Claude Skills Explained: Build, Configure, and Use Custom Skills on Claude Code](https://www.analyticsvidhya.com/blog/2026/03/claude-skills-custom-skills-on-claude-code/) (2026-03-19)
 - [Top 5 GitHub Repositories to get Free Claude Code Skills (1000+ Skills)](https://www.analyticsvidhya.com/blog/2026/03/github-repositories-to-get-free-claude-code-skills/) (2026-03-19)
-- [A Guide to OpenRouter for AI Development](https://www.analyticsvidhya.com/blog/2026/03/a-guide-to-openrouter/) (2026-03-18)
 
 </details>
 
