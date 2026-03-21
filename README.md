@@ -31,33 +31,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Atuin v18.13 – better search, a PTY proxy, and AI for your shell](https://blog.atuin.sh/atuin-v18-13/) (2026-03-21)
+- [Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record](https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record) (2026-03-21)
 - [FFmpeg 101 (2024)](https://blogs.igalia.com/llepage/ffmpeg-101/) (2026-03-21)
-- [purl: a curl-esque CLI for making HTTP requests that require payment](https://www.purl.dev/) (2026-03-21)
-- [Traces of Evil](https://www.tracesofevil.com/) (2026-03-21)
 - [Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)](https://github.com/arnoldrobbins/LinuxByExample-2e) (2026-03-20)
-- [Show HN: Red Grid Link – peer-to-peer team tracking over Bluetooth, no servers](https://github.com/RedGridTactical/RedGridLink) (2026-03-20)
+- [Ghostling](https://github.com/ghostty-org/ghostling) (2026-03-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Jury finds Elon Musk&#8217;s &#8216;stupid tweets&#8217; caused Twitter investors&#8217; losses](https://www.theverge.com/tech/898511/elon-musk-twitter-lawsuit) (2026-03-20)
-- [An automated moderation error left Tumblr users panicked](https://www.theverge.com/tech/898402/tumblr-automated-account-bans-march-2026) (2026-03-20)
-- [A new Nintendo Switch 2 could be the poster child for replaceable batteries](https://www.theverge.com/games/898313/nintendo-switch-2-eu-replaceable-battery) (2026-03-20)
-- [Future Sony PlayStation games will use AI to imagine new frames](https://www.theverge.com/news/898283/future-sony-playstation-games-will-use-ai-to-imagine-new-frames) (2026-03-20)
-- [Windows 11 is finally getting a movable taskbar](https://www.theverge.com/tech/897849/microsoft-windows-11-taskbar-vertical-top-movable) (2026-03-20)
+- [Dreame’s self-cleaning L10s Pro Ultra is nearly $1,000 off its original list price](https://www.theverge.com/gadgets/898287/dreame-l10s-pro-ultra-robot-vacuum-mop-amazon-big-spring-sale-2026-deal) (2026-03-21)
+- [The new MacBook Pro is still fast as hell](https://www.theverge.com/tech/898062/apple-macbook-pro-16-m5-max-m1-comparison-review) (2026-03-21)
+- [An early contender for movie of the year](https://www.theverge.com/tech/898265/project-hail-mary-airpods-max-2-installer) (2026-03-21)
+- [Gemini task automation is slow, clunky, and super impressive](https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on) (2026-03-21)
+- [Kodiak CEO says making trucks drive themselves is only half the battle](https://www.theverge.com/transportation/897551/kodiak-ai-self-driving-truck-ceo-interview) (2026-03-21)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [DOGE goes nuclear: How trump invited silicon valley into America’s nuclear power regulator](https://arstechnica.com/science/2026/03/doge-goes-nuclear-how-trump-invited-silicon-valley-into-americas-nuclear-power-regulator/) (2026-03-21)
 - [Jury finds Musk owes damages to Twitter investors for his tweets](https://arstechnica.com/tech-policy/2026/03/jury-agrees-that-musks-tweets-during-twitter-takeover-constituted-fraud/) (2026-03-20)
 - [You're likely already infected with a brain-eating virus you've never heard of](https://arstechnica.com/health/2026/03/youre-likely-already-infected-with-a-brain-eating-virus-youve-never-heard-of/) (2026-03-20)
 - [Once again, ULA can't deliver when the US military needs a satellite in orbit](https://arstechnica.com/space/2026/03/spacex-swipes-yet-another-military-contract-from-united-launch-alliance/) (2026-03-20)
 - [Microsoft keeps insisting that it's deeply committed to the quality of Windows 11](https://arstechnica.com/gadgets/2026/03/microsoft-keeps-insisting-that-its-deeply-committed-to-the-quality-of-windows-11/) (2026-03-20)
-- [Writer denies it, but publisher pulls horror novel after multiple allegations of AI use](https://arstechnica.com/ai/2026/03/hachette-pulls-shy-girl-horror-novel-after-concerns-about-ai-use/) (2026-03-20)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I Replaced Google Drive with a Home Server That Costs Almost Nothing](https://dev.to/avgskully/i-replaced-google-drive-with-a-home-server-that-costs-almost-nothing-2c6l) (2026-03-21)
-- [Optimizing for Zero: Building a High-Performance Browser Runner with No Budget](https://dev.to/getinfotoyou/optimizing-for-zero-building-a-high-performance-browser-runner-with-no-budget-1mf4) (2026-03-21)
-- [The Agent Memory Problem (And How I Solved It Without a Database)](https://dev.to/webbywisp/the-agent-memory-problem-and-how-i-solved-it-without-a-database-52ad) (2026-03-21)
-- [Architecting Agentic Systems Without Multiplying Costs: A Real Healthcare Story](https://dev.to/agastya_kommanamanchi_d4f/architecting-agentic-systems-without-multiplying-costs-a-real-healthcare-story-2g6o) (2026-03-21)
-- [Your AI Agents Are Running Wild — Here's How to Take Back Control](https://dev.to/gokhan_ozer/your-ai-agents-are-running-wild-heres-how-to-take-back-control-1fc8) (2026-03-21)
+- [How to Fix nginx 502 Bad Gateway in Under 5 Minutes](https://dev.to/yash_step2dev/how-to-fix-nginx-502-bad-gateway-in-under-5-minutes-14pn) (2026-03-21)
+- [Astrology Meets AI: Building a Free Self-Discovery Tool](https://dev.to/eonlee/astrology-meets-ai-building-a-free-self-discovery-tool-4j9h) (2026-03-21)
+- [How I Deployed My First Production App on AWS EC2 — Every Mistake I Made](https://dev.to/codephoenix86/how-i-deployed-my-first-production-app-on-aws-ec2-every-mistake-i-made-4e8e) (2026-03-21)
+- [Enhancing NServer Performance: Resolving Single-Threaded Blocking Operation Bottlenecks in Python DNS Framework](https://dev.to/romdevin/enhancing-nserver-performance-resolving-single-threaded-blocking-operation-bottlenecks-in-python-345f) (2026-03-21)
+- [Where Have You Used Abstraction in Your Project? A Practical Guide](https://dev.to/realnamehidden1_61/where-have-you-used-abstraction-in-your-project-a-practical-guide-1kof) (2026-03-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [12 Claude Code Skills Every Developer Needs in 2026…](https://medium.com/@startup_Ideas/12-claude-code-skills-every-developer-needs-in-2026-3261f70d596b?source=rss------programming-5) (2026-03-21)
-- [Can AI Replace Software Developers?](https://metafluxtech.medium.com/can-ai-replace-software-developers-929460fc30b1?source=rss------programming-5) (2026-03-21)
-- [The Future of AI: How It Will Change Our Lives Forever](https://medium.com/@jaypaldhapa7990/the-future-of-ai-how-it-will-change-our-lives-forever-aa9ca01231f6?source=rss------programming-5) (2026-03-21)
-- [Downgrading to macOS Catalina: A Sermon on Obsolescence](https://brennanbrown.medium.com/downgrading-to-macos-catalina-a-sermon-on-obsolescence-c71268aa9279?source=rss------programming-5) (2026-03-21)
-- [Why Your FastAPI App Feels Fast Locally but Slow in Production](https://medium.com/@luckyudbhav/why-your-fastapi-app-feels-fast-locally-but-slow-in-production-3bddc365030b?source=rss------programming-5) (2026-03-21)
+- [If AI Can Code, What Are We Even Learning?](https://medium.com/@sovannaro/if-ai-can-code-what-are-we-even-learning-7e23fa7a6c5e?source=rss------programming-5) (2026-03-21)
+- [AI Won’t Make You a Great Developer Without This One Thing](https://medium.com/@sovannaro/ai-wont-make-you-a-great-developer-without-this-one-thing-3c53c42d33ce?source=rss------programming-5) (2026-03-21)
+- [What a ML Model Really Is (From a Mathematical Perspective)](https://medium.com/@leumas.a/what-a-ml-model-really-is-from-a-mathematical-perspective-c7bf296d3b1d?source=rss------programming-5) (2026-03-21)
+- [KDM: The Digital Lock That Controls Every Movie You Watch](https://shantanu-singh.medium.com/kdm-the-digital-lock-that-controls-every-movie-you-watch-764c85c66b38?source=rss------programming-5) (2026-03-21)
+- [Why Database Terms Are So Confusing (And How to Remember Them)](https://medium.com/@shiwammaddheshiya/why-database-terms-are-so-confusing-and-how-to-remember-them-711651ae068b?source=rss------programming-5) (2026-03-21)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Advancing agentic AI with Microsoft databases across a unified data estate](https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/) (2026-03-18)
+- [FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/) (2026-03-18)
 - [Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI](https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/) (2026-03-16)
 - [From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation](https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/) (2026-03-16)
 - [Modernizing regulated industries with cloud and agentic AI](https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/) (2026-03-11)
-- [Many agents, one team: Scaling modernization on Azure](https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/) (2026-03-11)
-- [Introducing Fireworks AI on Microsoft Foundry: Bringing high performance, low latency open model inference to Azure](https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/) (2026-03-11)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/customer-lifetime-value-clv
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slack vs. Microsoft Teams: Key Differences for Modern Teams](https://slack.com/blog/compare/slack-vs-microsoft-teams) (2026-03-19)
 - [Unlocking the Power of Conversation: How Slack’s New Platform is Fueling the Agentic Era](https://slack.com/blog/news/powering-agentic-collaboration) (2026-03-13)
 - [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-03-13)
 - [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-03-13)
 - [AI-Powered Bots: Guide to Chatbots, Tools, and Best Practices](https://slack.com/blog/productivity/ai-powered-bots-guide-to-chatbots-tools-and-best-practices) (2026-03-06)
-- [Best Agentic AI Platforms for 2026: What They Are and How to Choose One](https://slack.com/blog/productivity/best-agentic-ai-platforms-for-2026-what-they-are-and-how-to-choose-one) (2026-03-06)
 
 </details>
 
