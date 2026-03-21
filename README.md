@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Why scientists can’t get a laugh](https://techcrunch.com/2026/03/20/why-scientists-cant-get-a-laugh/) (2026-03-20)
-- [A French Navy officer accidentally leaked the location of an aircraft carrier by logging his run on Strava](https://techcrunch.com/2026/03/20/a-french-navy-officer-accidentally-leaked-the-location-of-an-aircraft-carrier-by-logging-his-run-on-strava/) (2026-03-20)
-- [WordPress.com now lets AI agents write and publish posts, and more](https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/) (2026-03-20)
-- [Jeff Bezos’ Blue Origin enters the space data center game](https://techcrunch.com/2026/03/20/jeff-bezos-blue-origin-enters-the-space-data-center-game/) (2026-03-20)
-- [US accuses Iran’s government of operating hacktivist group that hacked Stryker](https://techcrunch.com/2026/03/20/u-s-accuses-irans-government-of-operating-hacktivist-group-that-hacked-stryker/) (2026-03-20)
+- [New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput](https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/) (2026-03-21)
+- [Elon Musk misled Twitter investors while trying to get out of acquisition, jury says](https://techcrunch.com/2026/03/20/elon-musk-misled-twitter-investors-while-trying-to-get-out-of-acquisition-jury-says/) (2026-03-20)
+- [Microsoft rolls back some of its Copilot AI bloat on Windows](https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/) (2026-03-20)
+- [What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet](https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/) (2026-03-20)
+- [Amid legal turmoil, Kalshi is temporarily banned in Nevada](https://techcrunch.com/2026/03/20/amidst-legal-turmoil-kalshi-is-temporarily-banned-in-nevada/) (2026-03-20)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Launch HN: Sitefire (YC W26) – Automating actions to improve AI visibility](https://news.ycombinator.com/item?id=47457472) (2026-03-20)
-- [90% of crypto's Illinois primary spending failed to achieve its objective](https://www.mollywhite.net/micro/entry/202603172318) (2026-03-20)
-- [Oregon school cell phone ban: 'Engaged students, joyful teachers'](https://portlandtribune.com/2026/03/18/oregon-school-cell-phone-ban-engaged-students-joyful-teachers/) (2026-03-20)
-- [Having Kids (2019)](https://paulgraham.com/kids.html) (2026-03-20)
-- [Super Micro Shares Plunge 25% After Co-Founder Charged in $2.5B Smuggling Plot](https://www.forbes.com/sites/tylerroush/2026/03/20/super-micro-shares-plunge-25-after-co-founder-charged-in-25-billion-ai-chip-smuggling-plot/) (2026-03-20)
+- [Woman in Labor at Florida Hospital Brought in Zoom Court for Refusing C-Section](https://www.propublica.org/article/florida-court-hearing-c-section) (2026-03-21)
+- [Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)](https://github.com/arnoldrobbins/LinuxByExample-2e) (2026-03-20)
+- [Show HN: Red Grid Link – peer-to-peer team tracking over Bluetooth, no servers](https://github.com/RedGridTactical/RedGridLink) (2026-03-20)
+- [Ghostling](https://github.com/ghostty-org/ghostling) (2026-03-20)
+- [Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran](https://github.com/FormerLab/fortransky) (2026-03-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Trump takes another shot at dismantling state AI regulation](https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework) (2026-03-20)
-- [These electronic Polaroids are powered by your phone’s NFC chip](https://www.theverge.com/tech/898162/vidabay-classic-plus-nfc-e-ink-fridge-magnet) (2026-03-20)
-- [Nine months later, the Trump phone still doesn’t exist](https://www.theverge.com/tech/898110/trump-phone-t1-release-certification) (2026-03-20)
-- [Anker’s Qi2 MagGo Power Bank is down to its best price in months](https://www.theverge.com/gadgets/897992/anker-maggo-power-bank-10k-amazon-big-spring-sale-2026-deal) (2026-03-20)
-- [Google’s battery-powered Nest Doorbell is $40 off right now](https://www.theverge.com/gadgets/897085/google-nest-video-doorbell-amazon-big-spring-sale-2026-deal) (2026-03-20)
+- [Jury finds Elon Musk&#8217;s &#8216;stupid tweets&#8217; caused Twitter investors&#8217; losses](https://www.theverge.com/tech/898511/elon-musk-twitter-lawsuit) (2026-03-20)
+- [An automated moderation error left Tumblr users panicked](https://www.theverge.com/tech/898402/tumblr-automated-account-bans-march-2026) (2026-03-20)
+- [A new Nintendo Switch 2 could be the poster child for replaceable batteries](https://www.theverge.com/games/898313/nintendo-switch-2-eu-replaceable-battery) (2026-03-20)
+- [Future Sony PlayStation games will use AI to imagine new frames](https://www.theverge.com/news/898283/future-sony-playstation-games-will-use-ai-to-imagine-new-frames) (2026-03-20)
+- [Windows 11 is finally getting a movable taskbar](https://www.theverge.com/tech/897849/microsoft-windows-11-taskbar-vertical-top-movable) (2026-03-20)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Perseverance’s radar revealed ancient subsurface river delta on Mars](https://arstechnica.com/science/2026/03/perseverances-radar-revealed-ancient-subsurface-river-delta-on-mars/) (2026-03-20)
-- [NASA is blowing stuff up to study the explosive potential of methalox rockets](https://arstechnica.com/space/2026/03/nasa-is-blowing-stuff-up-to-study-the-explosive-potential-of-methalox-rockets/) (2026-03-20)
-- [Amazon is reportedly developing an AI-centric smartphone](https://arstechnica.com/gadgets/2026/03/amazon-is-reportedly-developing-an-ai-centric-smartphone/) (2026-03-20)
-- [Major SteamOS update adds support for Steam Machine, even more third-party hardware](https://arstechnica.com/gadgets/2026/03/major-steamos-update-adds-support-for-steam-machine-even-more-third-party-hardware/) (2026-03-20)
-- [Monte Verde site gets a new date, but the big picture doesn't change](https://arstechnica.com/science/2026/03/an-early-indigenous-site-may-not-be-early-but-it-doesnt-really-matter/) (2026-03-20)
+- [Jury finds Musk owes damages to Twitter investors for his tweets](https://arstechnica.com/tech-policy/2026/03/jury-agrees-that-musks-tweets-during-twitter-takeover-constituted-fraud/) (2026-03-20)
+- [You're likely already infected with a brain-eating virus you've never heard of](https://arstechnica.com/health/2026/03/youre-likely-already-infected-with-a-brain-eating-virus-youve-never-heard-of/) (2026-03-20)
+- [Once again, ULA can't deliver when the US military needs a satellite in orbit](https://arstechnica.com/space/2026/03/spacex-swipes-yet-another-military-contract-from-united-launch-alliance/) (2026-03-20)
+- [Microsoft keeps insisting that it's deeply committed to the quality of Windows 11](https://arstechnica.com/gadgets/2026/03/microsoft-keeps-insisting-that-its-deeply-committed-to-the-quality-of-windows-11/) (2026-03-20)
+- [Writer denies it, but publisher pulls horror novel after multiple allegations of AI use](https://arstechnica.com/ai/2026/03/hachette-pulls-shy-girl-horror-novel-after-concerns-about-ai-use/) (2026-03-20)
 
 </details>
 
@@ -97,23 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Dissecando o Navegador (Parte 2) - O Motor V8, Event Loop e o Coletor de Lixo](https://dev.to/erickg123/dissecando-o-navegador-parte-2-o-motor-v8-event-loop-e-o-coletor-de-lixo-4d1f) (2026-03-20)
-- [Arrays: Los bloques fundamentales de la programación](https://dev.to/fromchiapasdev/arrays-los-bloques-fundamentales-de-la-programacion-3jmf) (2026-03-20)
-- [Building an Open-Source Payload Obfuscator with React & Vite](https://dev.to/ilias_1988/building-an-open-source-payload-obfuscator-with-react-vite-4hp6) (2026-03-20)
-- [Surviving a Neurotypical Industry: What "Janky" Workarounds Get You Through the Day?](https://dev.to/chadders13/surviving-a-neurotypical-industry-what-janky-workarounds-get-you-through-the-day-2ig2) (2026-03-20)
-- [MiroFish: The Open Source Swarm Intelligence Engine That Simulates the Future](https://dev.to/beitroot/mirofish-the-open-source-swarm-intelligence-engine-that-simulates-the-future-2h21) (2026-03-20)
+- [The 6th SOLID Principle?](https://dev.to/remojansen/the-6th-solid-principle-4hjp) (2026-03-21)
+- [Rotifer v0.5.5: Foundation Hardening — Fixing Four Critical Gaps Before They Become Real Problems](https://dev.to/rotiferdev/rotifer-v055-foundation-hardening-fixing-four-critical-gaps-before-they-become-real-problems-m81) (2026-03-21)
+- [🛠️ Terraform Setup Guide: Install Terraform, AWS CLI & Prepare Your DevOps Environment (Part 2)](https://dev.to/ahkarswe/terraform-setup-guide-install-terraform-aws-cli-prepare-your-devops-environment-part-2-el5) (2026-03-21)
+- [How a Corruption-Sanctioned Company Got a $480M Contract to Build Chile's National ID System — And Broke It](https://dev.to/krlz/how-a-corruption-sanctioned-company-got-a-480m-contract-to-build-chiles-national-id-system-and-2pk4) (2026-03-21)
+- [Reduced Frontend Team: Leveraging Backend Engineers and AI to Maintain Development Efficiency](https://dev.to/svetlix/reduced-frontend-team-leveraging-backend-engineers-and-ai-to-maintain-development-efficiency-5513) (2026-03-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Microservices Killed Our API Response Time (Monolith Fixed It)](https://blog.stackademic.com/microservices-killed-our-api-response-time-monolith-fixed-it-5293aa667859?source=rss------programming-5) (2026-03-20)
-- [RestClient vs OpenFeign vs WebClient: A Practical Comparison for Spring Boot Developers](https://medium.com/@habib11wahid/restclient-vs-openfeign-vs-webclient-a-practical-comparison-for-spring-boot-developers-c4926552bd3b?source=rss------programming-5) (2026-03-20)
-- [Week 3: RetroTrade Hits Beta, Subscriptions Go Live, and New Categories Are Here](https://medium.com/@retrotrade/week-3-retrotrade-hits-beta-subscriptions-go-live-and-new-categories-are-here-91668a610a39?source=rss------programming-5) (2026-03-20)
-- [RHAPSODY OF REALITIES - 20TH MARCH 2026
-"When you pray in tongues often, sing spiritual songs, and…](https://medium.com/@folajeff/rhapsody-of-realities-20th-march-2026-when-you-pray-in-tongues-often-sing-spiritual-songs-and-e6153fa6daff?source=rss------programming-5) (2026-03-20)
-- [DNF (Disjunctive Normal Form)](https://suign.medium.com/dnf-disjunctive-normal-form-e40e7d79a747?source=rss------programming-5) (2026-03-20)
+- [7 Angular Features That Quietly Changed Frontend Development](https://medium.com/@shubhamnalawade037/7-angular-features-that-quietly-changed-frontend-development-19702e58d3df?source=rss------programming-5) (2026-03-21)
+- [I Thought LLMs Knew Everything… Until I Learned About RAG](https://medium.com/@shivanimaurya811282/i-thought-llms-knew-everything-until-i-learned-about-rag-37526f4929c3?source=rss------programming-5) (2026-03-21)
+- [O Guia Definitivo para Sobreviver à Modernização de Legados](https://medium.com/@kevynmurilo2017/o-guia-definitivo-para-sobreviver-%C3%A0-moderniza%C3%A7%C3%A3o-de-legados-d268060c4c14?source=rss------programming-5) (2026-03-21)
+- [Why PWAs Dominate the 2026 Digital Strategy](https://medium.com/codetodeploy/why-pwas-dominate-the-2026-digital-strategy-e0c2c4f740c9?source=rss------programming-5) (2026-03-21)
+- [How to Create Docker Images for Spring Boot (Step-by-Step Guide)](https://medium.com/@sunil17bbmp/how-to-create-docker-images-for-spring-boot-step-by-step-guide-dff77ee783a0?source=rss------programming-5) (2026-03-21)
 
 </details>
 
@@ -131,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Advancing agentic AI with Microsoft databases across a unified data estate](https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/) (2026-03-18)
-- [FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/) (2026-03-18)
-- [Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI](https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/) (2026-03-16)
-- [From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation](https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/) (2026-03-16)
-- [Modernizing regulated industries with cloud and agentic AI](https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/) (2026-03-11)
+- [Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure](https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/) (2026-03-04)
+- [Unlocking document understanding with Mistral Document AI in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664) (2026-03-03)
+- [Instant access incremental snapshots: Restore without waiting](https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/) (2026-03-02)
+- [Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected](http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog) (2026-02-24)
+- [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
 
 </details>
 
@@ -219,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Announcing Ingress2Gateway 1.0: Your Path to Gateway API](https://kubernetes.io/blog/2026/03/20/ingress2gateway-1-0-release/) (2026-03-20)
+- [Running Agents on Kubernetes with Agent Sandbox](https://kubernetes.io/blog/2026/03/20/running-agents-on-kubernetes-with-agent-sandbox/) (2026-03-20)
 - [Securing Production Debugging in Kubernetes](https://kubernetes.io/blog/2026/03/18/securing-production-debugging-in-kubernetes/) (2026-03-18)
 - [The Invisible Rewrite: Modernizing the Kubernetes Image Promoter](https://kubernetes.io/blog/2026/03/17/image-promoter-rewrite/) (2026-03-17)
 - [Announcing the AI Gateway Working Group](https://kubernetes.io/blog/2026/03/09/announcing-ai-gateway-wg/) (2026-03-09)
-- [Before You Migrate: Five Surprising Ingress-NGINX Behaviors You Need to Know](https://kubernetes.io/blog/2026/02/27/ingress-nginx-before-you-migrate/) (2026-02-27)
-- [Spotlight on SIG Architecture: API Governance](https://kubernetes.io/blog/2026/02/12/sig-architecture-api-spotlight/) (2026-02-12)
 
 </details>
 
@@ -503,11 +502,11 @@ https://www.twilio.com/en-us/blog/insights/customer-lifetime-value-clv
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack vs. Microsoft Teams: Key Differences for Modern Teams](https://slack.com/blog/compare/slack-vs-microsoft-teams) (2026-03-19)
 - [Unlocking the Power of Conversation: How Slack’s New Platform is Fueling the Agentic Era](https://slack.com/blog/news/powering-agentic-collaboration) (2026-03-13)
 - [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-03-13)
 - [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-03-13)
 - [AI-Powered Bots: Guide to Chatbots, Tools, and Best Practices](https://slack.com/blog/productivity/ai-powered-bots-guide-to-chatbots-tools-and-best-practices) (2026-03-06)
+- [Best Agentic AI Platforms for 2026: What They Are and How to Choose One](https://slack.com/blog/productivity/best-agentic-ai-platforms-for-2026-what-they-are-and-how-to-choose-one) (2026-03-06)
 
 </details>
 
@@ -536,18 +535,18 @@ https://www.twilio.com/en-us/blog/insights/customer-lifetime-value-clv
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [PyTorch 2.10+TorchAO: Powering AIPC scenarios on Intel® Core™ Ultra Series 3 processors](https://pytorch.org/blog/pytorch-2-10torchao/) (2026-03-20)
 - [TorchSpec: Speculative Decoding Training at Scale](https://pytorch.org/blog/torchspec-speculative-decoding-training-at-scale/) (2026-03-19)
 - [Generalized Dot-Product Attention: Tackling Real-World Challenges in GPU Training Kernels](https://pytorch.org/blog/generalized-dot-product-attention-tackling-real-world-challenges-in-gpu-training-kernels/) (2026-03-18)
 - [Building Voice Agents with ExecuTorch: A Cross-Platform Foundation for On-Device Audio](https://pytorch.org/blog/building-voice-agents-with-executorch-a-cross-platform-foundation-for-on-device-audio/) (2026-03-15)
 - [MXFP8 Training for MoEs: 1.3x training speedup vs BF16 for Llama4 Scout on GB200 cluster using TorchAO and TorchTitan](https://pytorch.org/blog/mxfp8-training-for-moes-1-3x-training-speedup-vs-bf16-for-llama4-scout-on-gb200-cluster-using-torchao-and-torchtitan/) (2026-03-12)
-- [PyTorch at NVIDIA GTC 2026: Join Us in San Jose!](https://pytorch.org/blog/pytorch-at-nvidia-gtc-2026/) (2026-03-09)
 
 </details>
 
 <details>
 <summary>🤗 Hugging Face</summary>
 
-- [Nemotron 3 Content Safety 4B: Multimodal, Multilingual Content Moderation](https://huggingface.co/blog/nvidia/nemotron-3-content-safety) (2026-03-20)
+- [Build a Domain-Specific Embedding Model in Under a Day](https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune) (2026-03-20)
 - [What's New in Mellea 0.4.0 + Granite Libraries Release](https://huggingface.co/blog/ibm-granite/granite-libraries) (2026-03-20)
 - [State of Open Source on Hugging Face: Spring 2026](https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026) (2026-03-17)
 - [Holotron-12B - High Throughput Computer Use Agent](https://huggingface.co/blog/Hcompany/holotron-12b) (2026-03-17)
