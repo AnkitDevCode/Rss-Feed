@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [It’s been 20 years since the first tweet](https://techcrunch.com/2026/03/21/its-been-20-years-since-the-first-tweet/) (2026-03-21)
+- [Publisher pulls horror novel ‘Shy Girl’ over AI concerns](https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/) (2026-03-21)
 - [Delve accused of misleading customers with ‘fake compliance’](https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/) (2026-03-21)
 - [Why Wall Street wasn’t won over by Nvidia’s big conference](https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/) (2026-03-21)
 - [How fusion power works and the startups pursuing it](https://techcrunch.com/2026/03/21/how-fusion-power-works-and-the-startups-pursuing-it/) (2026-03-21)
-- [New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput](https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/) (2026-03-21)
-- [Elon Musk misled Twitter investors while trying to get out of acquisition, jury says](https://techcrunch.com/2026/03/20/elon-musk-misled-twitter-investors-while-trying-to-get-out-of-acquisition-jury-says/) (2026-03-20)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Passengers who refuse to use headphones can now be kicked off United flights](https://www.cnn.com/2026/03/21/travel/travel-news-happiest-countries) (2026-03-21)
-- [Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646) (2026-03-21)
-- [404 Deno CEO not found](https://dbushell.com/2026/03/20/denos-decline-and-layoffs/) (2026-03-21)
-- [Show HN: Joonote – A note-taking app on your lock screen and notification panel](https://joonote.com/) (2026-03-21)
-- [Iran launched unsuccessful attack on UK's Diego Garcia](https://www.bbc.com/news/articles/c5yljdgwppzo) (2026-03-21)
+- [Chest Fridge](https://mtbest.net/chest-fridge/) (2026-03-22)
+- [JavaScript Is Enough](https://geajs.com/) (2026-03-22)
+- [Why craft-lovers are losing their craft](https://writings.hongminhee.org/2026/03/craft-alienation-llm/) (2026-03-22)
+- [The Impact of AI on Game Dev Jobs. Open to Work Crisis](https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922) (2026-03-21)
+- [Floci – A free, open-source local AWS emulator](https://github.com/hectorvent/floci) (2026-03-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Halide co-founder is suing former partner for bringing source code to Apple](https://www.theverge.com/business/898687/halide-lawsuit-co-founder-apple) (2026-03-21)
 - [The AirPods Pro 3 are $50 off right now, nearly matching their best-ever price](https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal) (2026-03-21)
 - [Here are 20 of our favorite outdoor deals from REI’s Member Days Sale](https://www.theverge.com/gadgets/897628/best-outdoor-deals-rei-member-days-sale-2026) (2026-03-21)
 - [The gen AI Kool-Aid tastes like eugenics](https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview) (2026-03-21)
 - [Oeuf is a punishing platformer in a cozy shell](https://www.theverge.com/entertainment/895435/oeuf-review) (2026-03-21)
-- [Dreame’s self-cleaning L10s Pro Ultra is nearly $1,000 off its original list price](https://www.theverge.com/gadgets/898287/dreame-l10s-pro-ultra-robot-vacuum-mop-amazon-big-spring-sale-2026-deal) (2026-03-21)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Roundup Guide: best AML watchlist screening APIs](https://dev.to/adrienmehta/roundup-guide-best-aml-watchlist-screening-apis-ilp) (2026-03-21)
-- [How the Internet Works (Explained Like You're Just Getting Started)](https://dev.to/atieno_thedvev/how-the-internet-works-explained-like-youre-just-getting-started-dao) (2026-03-21)
-- [The 7 Levels of Website Monitoring -Learn how to monitor your entire website](https://dev.to/vincentbean/the-7-levels-of-website-monitoring-learn-how-to-monitor-your-entire-website-530i) (2026-03-21)
-- [Your Indispensable Value in the AI Era](https://dev.to/larsfaye/your-indispensable-value-in-the-ai-era-427g) (2026-03-21)
-- [Docker Out of Memory: How to Diagnose and Fix OOM Kills](https://dev.to/yash_step2dev/docker-out-of-memory-how-to-diagnose-and-fix-oom-kills-2id4) (2026-03-21)
+- [How to Set Up Passwordless SSH Login with PuTTY.](https://dev.to/tahsin000/how-to-set-up-passwordless-ssh-login-with-putty-16oj) (2026-03-22)
+- [# From 0 to MVP in 2 Weeks: Building a Production-Grade AI Customer Service System](https://dev.to/jamesli/-from-0-to-mvp-in-2-weeks-building-a-production-grade-ai-customer-service-system-322n) (2026-03-22)
+- [當觸覺學會調味：多感官科技如何重塑你的沉浸體驗](https://dev.to/_0c004e5fde78250aee362/dang-chu-jue-xue-hui-diao-wei-duo-gan-guan-ke-ji-ru-he-zhong-su-ni-de-chen-jin-ti-yan-na3) (2026-03-22)
+- [Slow skill to go fast](https://dev.to/kination/slow-skill-to-go-fast-26ih) (2026-03-22)
+- [I was asked to delete my comments before committing](https://dev.to/filozofer/i-was-asked-to-delete-my-comments-before-committing-5437) (2026-03-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Said "Great Question" Every Time I Didn't Know The Answer. People Thought I Was Thoughtful.](https://medium.com/never-stop-writing/i-said-great-question-every-time-i-didnt-know-the-answer-people-thought-i-was-thoughtful-ab69a60ba348?source=rss------programming-5) (2026-03-21)
-- [The Python Bot I Built to Find High-Paying Clients Automatically](https://medium.com/@SulemanSafdar/the-python-bot-i-built-to-find-high-paying-clients-automatically-440ce7242fea?source=rss------programming-5) (2026-03-21)
-- [How to Implement the CQRS Pattern in Clean Architecture (From Scratch)](https://medium.com/@mariammaurice/how-to-implement-the-cqrs-pattern-in-clean-architecture-from-scratch-5f5567e99acb?source=rss------programming-5) (2026-03-21)
-- [NVIDIA DLSS 5 Is Either the Future of Gaming Graphics or AI Slop, Let’s Talk About It](https://medium.com/@ezraclintoc/nvidia-dlss-5-is-either-the-future-of-gaming-graphics-or-ai-slop-lets-talk-about-it-56306260d29e?source=rss------programming-5) (2026-03-21)
-- [ 從 ASCII 到 Big5：編碼的演化之旅](https://medium.com/@mindsteps.alex/%E5%BE%9E-ascii-%E5%88%B0-big5-%E7%B7%A8%E7%A2%BC%E7%9A%84%E6%BC%94%E5%8C%96%E4%B9%8B%E6%97%85-424a010e3f92?source=rss------programming-5) (2026-03-21)
+- [Two AIs Are Better Than One: How I Turned Claude and GPT-5.4 Into a Bug-Killing Machine](https://medium.com/@kip.goldhammer/two-ais-are-better-than-one-how-i-turned-claude-and-gpt-5-4-into-a-bug-killing-machine-b56436d5cdc2?source=rss------programming-5) (2026-03-22)
+- [Why State Management Becomes Hard](https://medium.com/@jordanohara/why-state-management-becomes-hard-f45c41c470a6?source=rss------programming-5) (2026-03-22)
+- [Testing, Structure, and the Problem of the Unfalsifiable Anchor](https://medium.com/@aludanyi/testing-structure-and-the-problem-of-the-unfalsifiable-anchor-6e4b06430424?source=rss------programming-5) (2026-03-22)
+- [I built 9 custom MCP servers, a memory system, and a DevOps command center for Claude Code](https://medium.com/@primex001/i-built-9-custom-mcp-servers-a-memory-system-and-a-devops-command-center-for-claude-code-4204cd0cc59d?source=rss------programming-5) (2026-03-22)
+- [Cuando la curiosidad se volvió indispensable](https://medium.com/@patriciacervantesm/cuando-la-curiosidad-se-volvi%C3%B3-indispensable-29ac1d881e2a?source=rss------programming-5) (2026-03-22)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/events/twilio-segment-user-group-london-feb-20
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slack vs. Microsoft Teams: Key Differences for Modern Teams](https://slack.com/blog/compare/slack-vs-microsoft-teams) (2026-03-19)
 - [Unlocking the Power of Conversation: How Slack’s New Platform is Fueling the Agentic Era](https://slack.com/blog/news/powering-agentic-collaboration) (2026-03-13)
 - [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-03-13)
 - [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-03-13)
 - [AI-Powered Bots: Guide to Chatbots, Tools, and Best Practices](https://slack.com/blog/productivity/ai-powered-bots-guide-to-chatbots-tools-and-best-practices) (2026-03-06)
-- [Best Agentic AI Platforms for 2026: What They Are and How to Choose One](https://slack.com/blog/productivity/best-agentic-ai-platforms-for-2026-what-they-are-and-how-to-choose-one) (2026-03-06)
 
 </details>
 
