@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Are AI tokens the new signing bonus or just a cost of doing business?](https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/) (2026-03-22)
 - [It’s been 20 years since the first tweet](https://techcrunch.com/2026/03/21/its-been-20-years-since-the-first-tweet/) (2026-03-21)
 - [Publisher pulls horror novel ‘Shy Girl’ over AI concerns](https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/) (2026-03-21)
 - [Delve accused of misleading customers with ‘fake compliance’](https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/) (2026-03-21)
 - [Why Wall Street wasn’t won over by Nvidia’s big conference](https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/) (2026-03-21)
-- [How fusion power works and the startups pursuing it](https://techcrunch.com/2026/03/21/how-fusion-power-works-and-the-startups-pursuing-it/) (2026-03-21)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Chest Fridge](https://mtbest.net/chest-fridge/) (2026-03-22)
-- [JavaScript Is Enough](https://geajs.com/) (2026-03-22)
-- [Why craft-lovers are losing their craft](https://writings.hongminhee.org/2026/03/craft-alienation-llm/) (2026-03-22)
-- [The Impact of AI on Game Dev Jobs. Open to Work Crisis](https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922) (2026-03-21)
-- [Floci – A free, open-source local AWS emulator](https://github.com/hectorvent/floci) (2026-03-21)
+- [Sashiko: An agentic Linux kernel code review system](https://sashiko.dev/) (2026-03-22)
+- [Cloudflare flags archive.today as "C&C/Botnet"; no longer resolves via 1.1.1.2](https://radar.cloudflare.com/domains/domain/archive.today) (2026-03-22)
+- [Alpha Micro AM-1000E and AM-1200](http://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html) (2026-03-22)
+- [The Three Pillars of JavaScript Bloat](https://43081j.com/2026/03/three-pillars-of-javascript-bloat) (2026-03-22)
+- [Chest Fridge (2009)](https://mtbest.net/chest-fridge/) (2026-03-22)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How to Set Up Passwordless SSH Login with PuTTY.](https://dev.to/tahsin000/how-to-set-up-passwordless-ssh-login-with-putty-16oj) (2026-03-22)
-- [# From 0 to MVP in 2 Weeks: Building a Production-Grade AI Customer Service System](https://dev.to/jamesli/-from-0-to-mvp-in-2-weeks-building-a-production-grade-ai-customer-service-system-322n) (2026-03-22)
-- [當觸覺學會調味：多感官科技如何重塑你的沉浸體驗](https://dev.to/_0c004e5fde78250aee362/dang-chu-jue-xue-hui-diao-wei-duo-gan-guan-ke-ji-ru-he-zhong-su-ni-de-chen-jin-ti-yan-na3) (2026-03-22)
-- [Slow skill to go fast](https://dev.to/kination/slow-skill-to-go-fast-26ih) (2026-03-22)
-- [I was asked to delete my comments before committing](https://dev.to/filozofer/i-was-asked-to-delete-my-comments-before-committing-5437) (2026-03-22)
+- [Find First and Last Occurrences in a Sorted Array](https://dev.to/tharunya_kr_c17e81c2a49a/find-first-and-last-occurrences-in-a-sorted-array-kg) (2026-03-22)
+- [Experienced Developer Struggles to Land Job Despite Open-Source Success; Seeks Solutions Amid Financial Strain](https://dev.to/serbyte/experienced-developer-struggles-to-land-job-despite-open-source-success-seeks-solutions-amid-24hp) (2026-03-22)
+- [Adding Attribute-Based Access Control to a Real-Time Collaborative App with OpenTDF](https://dev.to/eugenioenko/adding-attribute-based-access-control-to-a-real-time-collaborative-app-with-opentdf-3pf1) (2026-03-22)
+- [Install Windscribe VPN Client in a Distrobox Container on Any Linux Distro!](https://dev.to/archerallstars/install-windscribe-vpn-client-in-a-distrobox-container-on-any-linux-distro-1e4f) (2026-03-22)
+- [Analyzing Akamai BMP 4.1.3 - Part 1 - For Noobs Learn](https://dev.to/xve-e/analyzing-akamai-bmp-413-part-1-for-noobs-learn-4pmm) (2026-03-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Two AIs Are Better Than One: How I Turned Claude and GPT-5.4 Into a Bug-Killing Machine](https://medium.com/@kip.goldhammer/two-ais-are-better-than-one-how-i-turned-claude-and-gpt-5-4-into-a-bug-killing-machine-b56436d5cdc2?source=rss------programming-5) (2026-03-22)
-- [Why State Management Becomes Hard](https://medium.com/@jordanohara/why-state-management-becomes-hard-f45c41c470a6?source=rss------programming-5) (2026-03-22)
-- [Testing, Structure, and the Problem of the Unfalsifiable Anchor](https://medium.com/@aludanyi/testing-structure-and-the-problem-of-the-unfalsifiable-anchor-6e4b06430424?source=rss------programming-5) (2026-03-22)
-- [I built 9 custom MCP servers, a memory system, and a DevOps command center for Claude Code](https://medium.com/@primex001/i-built-9-custom-mcp-servers-a-memory-system-and-a-devops-command-center-for-claude-code-4204cd0cc59d?source=rss------programming-5) (2026-03-22)
-- [Cuando la curiosidad se volvió indispensable](https://medium.com/@patriciacervantesm/cuando-la-curiosidad-se-volvi%C3%B3-indispensable-29ac1d881e2a?source=rss------programming-5) (2026-03-22)
+- [When a Script at Home Needs to Reach You Outside: Building NotifyMe](https://medium.com/@Lakshay-13/when-a-script-at-home-needs-to-reach-you-outside-building-notifyme-b7f9828158e1?source=rss------programming-5) (2026-03-22)
+- [What Is a Linked List? A Beginner-Friendly Guide to Memory and Data Structures](https://medium.com/dev-simplified/what-is-a-linked-list-a-beginner-friendly-guide-to-memory-and-data-structures-7517dcabd64c?source=rss------programming-5) (2026-03-22)
+- [MCP vs A2A — The Two Protocols That Will Define the Future of AI Agents](https://emrullahaydogan.medium.com/mcp-vs-a2a-the-two-protocols-that-will-define-the-future-of-ai-agents-ee67de064ea9?source=rss------programming-5) (2026-03-22)
+- [Where to Find Datasets for Your Data Science Projects: The Complete 2026 Field Guide](https://medium.com/jin-system-architect/where-to-find-datasets-for-your-data-science-projects-the-complete-2026-field-guide-351aaaeadb76?source=rss------programming-5) (2026-03-22)
+- [Interface vs Abstract Class in C# — What They Really Mean [Part 2]](https://medium.com/@nikolaajdukovic/interface-vs-abstract-class-in-c-what-they-really-mean-part-2-cad627863a86?source=rss------programming-5) (2026-03-22)
 
 </details>
 
