@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple ](https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/) (2026-03-22)
 - [Are AI tokens the new signing bonus or just a cost of doing business?](https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/) (2026-03-22)
 - [It’s been 20 years since the first tweet](https://techcrunch.com/2026/03/21/its-been-20-years-since-the-first-tweet/) (2026-03-21)
 - [Publisher pulls horror novel ‘Shy Girl’ over AI concerns](https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/) (2026-03-21)
 - [Delve accused of misleading customers with ‘fake compliance’](https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/) (2026-03-21)
-- [Why Wall Street wasn’t won over by Nvidia’s big conference](https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/) (2026-03-21)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Sashiko: An agentic Linux kernel code review system](https://sashiko.dev/) (2026-03-22)
-- [Cloudflare flags archive.today as "C&C/Botnet"; no longer resolves via 1.1.1.2](https://radar.cloudflare.com/domains/domain/archive.today) (2026-03-22)
-- [Alpha Micro AM-1000E and AM-1200](http://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html) (2026-03-22)
-- [The Three Pillars of JavaScript Bloat](https://43081j.com/2026/03/three-pillars-of-javascript-bloat) (2026-03-22)
-- [Chest Fridge (2009)](https://mtbest.net/chest-fridge/) (2026-03-22)
+- [How We Synchronized Editing for Rec Room's Multiplayer Scripting System](https://www.tyleo.com/blog/how-we-synchronized-editing-for-rec-rooms-multiplayer-scripting-system) (2026-03-22)
+- [Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM](https://github.com/danveloper/flash-moe) (2026-03-22)
+- ['Miracle': Europe reconnects with lost spacecraft](https://phys.org/news/2026-03-miracle-europe-reconnects-lost-spacecraft.html) (2026-03-22)
+- [Vatican Rebukes Peter Thiel's Antichrist Lectures in Rome](https://www.thenerdreich.com/peter-thiels-antichrist-circus-smacked-down-in-rome/) (2026-03-22)
+- [Hormuz Minesweeper – Are you tired of winning?](https://hormuz.pythonic.ninja/) (2026-03-22)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [AI was everywhere at gaming’s big developer conference — except the games](https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference) (2026-03-22)
+- [Online age checks came first — a VPN crackdown could be next](https://www.theverge.com/column/898122/online-age-verification-vpns) (2026-03-22)
 - [Halide co-founder is suing former partner for bringing source code to Apple](https://www.theverge.com/business/898687/halide-lawsuit-co-founder-apple) (2026-03-21)
 - [The AirPods Pro 3 are $50 off right now, nearly matching their best-ever price](https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal) (2026-03-21)
 - [Here are 20 of our favorite outdoor deals from REI’s Member Days Sale](https://www.theverge.com/gadgets/897628/best-outdoor-deals-rei-member-days-sale-2026) (2026-03-21)
-- [The gen AI Kool-Aid tastes like eugenics](https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview) (2026-03-21)
-- [Oeuf is a punishing platformer in a cozy shell](https://www.theverge.com/entertainment/895435/oeuf-review) (2026-03-21)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Mining the deep ocean](https://arstechnica.com/science/2026/03/mining-the-deep-ocean/) (2026-03-22)
 - [We keep finding the raw material of DNA in asteroids—what's it telling us?](https://arstechnica.com/science/2026/03/we-keep-finding-the-raw-material-of-dna-in-asteroids-whats-it-telling-us/) (2026-03-21)
 - [DOGE goes nuclear: How Trump invited Silicon Valley into America’s nuclear power regulator](https://arstechnica.com/science/2026/03/doge-goes-nuclear-how-trump-invited-silicon-valley-into-americas-nuclear-power-regulator/) (2026-03-21)
 - [Jury finds Musk owes damages to Twitter investors for his tweets](https://arstechnica.com/tech-policy/2026/03/jury-agrees-that-musks-tweets-during-twitter-takeover-constituted-fraud/) (2026-03-20)
 - [You're likely already infected with a brain-eating virus you've never heard of](https://arstechnica.com/health/2026/03/youre-likely-already-infected-with-a-brain-eating-virus-youve-never-heard-of/) (2026-03-20)
-- [Once again, ULA can't deliver when the US military needs a satellite in orbit](https://arstechnica.com/space/2026/03/spacex-swipes-yet-another-military-contract-from-united-launch-alliance/) (2026-03-20)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Find First and Last Occurrences in a Sorted Array](https://dev.to/tharunya_kr_c17e81c2a49a/find-first-and-last-occurrences-in-a-sorted-array-kg) (2026-03-22)
-- [Experienced Developer Struggles to Land Job Despite Open-Source Success; Seeks Solutions Amid Financial Strain](https://dev.to/serbyte/experienced-developer-struggles-to-land-job-despite-open-source-success-seeks-solutions-amid-24hp) (2026-03-22)
-- [Adding Attribute-Based Access Control to a Real-Time Collaborative App with OpenTDF](https://dev.to/eugenioenko/adding-attribute-based-access-control-to-a-real-time-collaborative-app-with-opentdf-3pf1) (2026-03-22)
-- [Install Windscribe VPN Client in a Distrobox Container on Any Linux Distro!](https://dev.to/archerallstars/install-windscribe-vpn-client-in-a-distrobox-container-on-any-linux-distro-1e4f) (2026-03-22)
-- [Analyzing Akamai BMP 4.1.3 - Part 1 - For Noobs Learn](https://dev.to/xve-e/analyzing-akamai-bmp-413-part-1-for-noobs-learn-4pmm) (2026-03-22)
+- [Kadane's Algorithm](https://dev.to/jonah_blessy_66f109370d96/ca-10-kadanes-algorithm-27a4) (2026-03-22)
+- [Advanced SQL for Data Analytics: Advanced Techniques Every Data Analyst Should Know](https://dev.to/beverline_otiende_6d3045c/advanced-sql-for-data-analytics-advanced-techniques-every-data-analyst-should-know-3k3h) (2026-03-22)
+- [Getting Started with Seal Report: Creating a Pivot Table with Custom Filters](https://dev.to/vladg_dev/getting-started-with-seal-report-creating-a-pivot-table-with-custom-filters-44bo) (2026-03-22)
+- [I built a lo-fi website with rain and relaxing music in 2 days (for focus & sleep)](https://dev.to/arthur_miguel_df826dcf7ee/i-built-a-lo-fi-website-with-rain-and-relaxing-music-in-2-days-36a7) (2026-03-22)
+- [Claude Code Channels: Remote Control Your AI Coding Agent via Telegram](https://dev.to/_46ea277e677b888e0cd13/claude-code-channels-remote-control-your-ai-coding-agent-via-telegram-4ha9) (2026-03-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [When a Script at Home Needs to Reach You Outside: Building NotifyMe](https://medium.com/@Lakshay-13/when-a-script-at-home-needs-to-reach-you-outside-building-notifyme-b7f9828158e1?source=rss------programming-5) (2026-03-22)
-- [What Is a Linked List? A Beginner-Friendly Guide to Memory and Data Structures](https://medium.com/dev-simplified/what-is-a-linked-list-a-beginner-friendly-guide-to-memory-and-data-structures-7517dcabd64c?source=rss------programming-5) (2026-03-22)
-- [MCP vs A2A — The Two Protocols That Will Define the Future of AI Agents](https://emrullahaydogan.medium.com/mcp-vs-a2a-the-two-protocols-that-will-define-the-future-of-ai-agents-ee67de064ea9?source=rss------programming-5) (2026-03-22)
-- [Where to Find Datasets for Your Data Science Projects: The Complete 2026 Field Guide](https://medium.com/jin-system-architect/where-to-find-datasets-for-your-data-science-projects-the-complete-2026-field-guide-351aaaeadb76?source=rss------programming-5) (2026-03-22)
-- [Interface vs Abstract Class in C# — What They Really Mean [Part 2]](https://medium.com/@nikolaajdukovic/interface-vs-abstract-class-in-c-what-they-really-mean-part-2-cad627863a86?source=rss------programming-5) (2026-03-22)
+- [The Journey: From VFS to the Block Layer](https://medium.com/@sagar.necindia/linux-vfs-to-block-layer-journey-53eaf672c789?source=rss------programming-5) (2026-03-22)
+- [How to Think Like a Software Engineer (Not Just Write Code)](https://meetpan1048.medium.com/how-to-think-like-a-software-engineer-not-just-write-code-a09f41742c0d?source=rss------programming-5) (2026-03-22)
+- [How to Build Software When Alphabet and Meta Spend $305B on AI](https://medium.com/@sebuzdugan/how-to-build-software-when-alphabet-and-meta-spend-305b-on-ai-f6998569ca87?source=rss------programming-5) (2026-03-22)
+- [Go Concurrency in Production: Building Systems at Scale](https://medium.com/@deepanshumehra2102/go-concurrency-in-production-building-systems-at-scale-b5fd22f9de17?source=rss------programming-5) (2026-03-22)
+- [ The Linux Terminal Cheat Code Nobody Taught You in School](https://medium.com/@suyashadhikari99/the-linux-terminal-cheat-code-nobody-taught-you-in-school-02d29f2365fc?source=rss------programming-5) (2026-03-22)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Advancing agentic AI with Microsoft databases across a unified data estate](https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/) (2026-03-18)
-- [FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/) (2026-03-18)
-- [Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI](https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/) (2026-03-16)
-- [From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation](https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/) (2026-03-16)
-- [Modernizing regulated industries with cloud and agentic AI](https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/) (2026-03-11)
+- [Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure](https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/) (2026-03-04)
+- [Unlocking document understanding with Mistral Document AI in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664) (2026-03-03)
+- [Instant access incremental snapshots: Restore without waiting](https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/) (2026-03-02)
+- [Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected](http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog) (2026-02-24)
+- [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
 
 </details>
 
@@ -502,11 +502,11 @@ https://www.twilio.com/en-us/blog/events/twilio-segment-user-group-london-feb-20
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack vs. Microsoft Teams: Key Differences for Modern Teams](https://slack.com/blog/compare/slack-vs-microsoft-teams) (2026-03-19)
 - [Unlocking the Power of Conversation: How Slack’s New Platform is Fueling the Agentic Era](https://slack.com/blog/news/powering-agentic-collaboration) (2026-03-13)
 - [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-03-13)
 - [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-03-13)
 - [AI-Powered Bots: Guide to Chatbots, Tools, and Best Practices](https://slack.com/blog/productivity/ai-powered-bots-guide-to-chatbots-tools-and-best-practices) (2026-03-06)
+- [Best Agentic AI Platforms for 2026: What They Are and How to Choose One](https://slack.com/blog/productivity/best-agentic-ai-platforms-for-2026-what-they-are-and-how-to-choose-one) (2026-03-06)
 
 </details>
 
