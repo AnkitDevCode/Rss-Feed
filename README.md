@@ -20,22 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The SEC drops its four-year-old investigation into EV startup Faraday Future](https://techcrunch.com/2026/03/22/the-sec-drops-its-four-year-old-investigation-into-ev-startup-faraday-future/) (2026-03-22)
+- [Do you want to build a robot snowman?](https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/) (2026-03-22)
+- [Cursor admits its new coding model was built on top of Moonshot AI’s Kimi](https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/) (2026-03-22)
 - [Elon Musk unveils chip manufacturing plans for SpaceX and Tesla](https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/) (2026-03-22)
 - [TechCrunch Mobility: Uber everywhere, all at once](https://techcrunch.com/2026/03/22/techcrunch-mobility-uber-everywhere-all-at-once/) (2026-03-22)
-- [Delve accused of misleading customers with ‘fake compliance’](https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/) (2026-03-22)
-- [An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple ](https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/) (2026-03-22)
-- [Are AI tokens the new signing bonus or just a cost of doing business?](https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/) (2026-03-22)
+
+</details>
+
+<details>
+<summary>💻 Hacker News</summary>
+
+- [Intuitions for Tranformer Circuits](https://www.connorjdavis.com/p/intuitions-for-transformer-circuits) (2026-03-23)
+- [Department of State advises Americans worldwide to exercise increased caution](https://travel.state.gov/en/international-travel/travel-advisories/global-events/worldwide-caution.html) (2026-03-23)
+- [They're Vibe-Coding Spam Now](https://tedium.co/2026/02/25/vibe-coded-email-spam/) (2026-03-22)
+- [GrapheneOS will remain usable by anyone without requiring personal information](https://grapheneos.social/@GrapheneOS/116261301913660830) (2026-03-22)
+- [Teaching Claude to QA a mobile app](https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html) (2026-03-22)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [AI influencer awards season is upon us](https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest) (2026-03-23)
+- [Topical Dancer is propulsive, playful, and political](https://www.theverge.com/entertainment/898796/charlotte-adigery-bolis-pupul-topical-dancer-review) (2026-03-22)
 - [Crimson Desert dev apologizes for use of AI art](https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art) (2026-03-22)
-- [The best early deals you can already grab from Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/895635/best-amazon-big-spring-sale-early-deals-2026) (2026-03-22)
+- [The best deals you can already grab from Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/895635/best-amazon-big-spring-sale-early-deals-2026) (2026-03-22)
 - [Musk says he’s building Terafab chip plant in Austin, Texas](https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant) (2026-03-22)
-- [The secret story of the vocoder, the military tech that changed music forever](https://www.theverge.com/podcast/898697/vocoder-music-instrument-version-history) (2026-03-22)
-- [The pint-sized Sonos Roam 2 is more than 20 percent off this weekend](https://www.theverge.com/gadgets/898414/sonos-roam-2-bluetooth-speaker-amazon-big-spring-sale-2026-deals) (2026-03-22)
 
 </details>
 
@@ -86,22 +97,24 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I Built a CMS That Models Everything — Here's Why](https://dev.to/eric_moore_aed10a535e7cbe/i-built-a-cms-that-models-everything-heres-why-2i6g) (2026-03-22)
-- [How I Structured User Data for My AI SaaS](https://dev.to/azeezroheem/how-i-structured-user-data-for-my-ai-saas-461p) (2026-03-22)
-- [I Got Tired of 10 Browser Tabs for Crypto Trading, So I Built an Open-Source Desktop App](https://dev.to/larrywallet/i-got-tired-of-10-browser-tabs-for-crypto-trading-so-i-built-an-open-source-desktop-app-2189) (2026-03-22)
-- [CA 16 -Guess the Number Higher or Lower](https://dev.to/suruthika_635f93a26b450ac/ca-16-guess-the-number-higher-or-lower-4ied) (2026-03-22)
-- [How to Create and Sell an Online Course in 2026 (Zero Budget, Maximum Profit)](https://dev.to/ottoaria/how-to-create-and-sell-an-online-course-in-2026-zero-budget-maximum-profit-3mog) (2026-03-22)
+- [How can developers can automatically restart a HarmonyOS app after clearing all app data?](https://dev.to/harmonyos/how-can-developers-can-automatically-restart-a-harmonyos-app-after-clearing-all-app-data-3fld) (2026-03-23)
+- [I Built a Free, Open Source Digital Loyalty Platform for Small Businesses](https://dev.to/digital90210/i-built-a-free-open-source-digital-loyalty-platform-for-small-businesses-285n) (2026-03-23)
+- [Building a Programmatic SEO Quotes Site That Doesn’t Feel Spammy](https://dev.to/greey_liu_63f5f34f6f19764/building-a-programmatic-seo-quotes-site-that-doesnt-feel-spammy-261l) (2026-03-23)
+- [fcfTest - Unit Test Library](https://dev.to/vladimirm/fcftest-unit-test-library-3cgg) (2026-03-23)
+- [Publishing a PHP monorepo to Packagist with splitsh-lite](https://dev.to/jonesrussell/publishing-a-php-monorepo-to-packagist-with-splitsh-lite-2c3f) (2026-03-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why Java does not support multiple inheritance with classes?](https://medium.com/@gururaja1998m/why-java-does-not-support-multiple-inheritance-with-classes-434d7ac1bbaa?source=rss------programming-5) (2026-03-22)
-- [Nothing 4a pro review and first impression!](https://medium.com/@99techpost/nothing-4a-pro-review-and-first-impression-2590a6757ac6?source=rss------programming-5) (2026-03-22)
-- [“The Future of AI Will Be Owned — Or It Will Be Broken”](https://medium.com/@atieclinton89/the-future-of-ai-will-be-owned-or-it-will-be-broken-092d63d8b9f6?source=rss------programming-5) (2026-03-22)
-- [Event Sourcing Is Not What You Think It Is — And That Is Why You Should Care](https://medium.com/@tihomir.manushev/event-sourcing-is-not-what-you-think-it-is-and-that-is-why-you-should-care-bdcad35bc0c9?source=rss------programming-5) (2026-03-22)
-- [9 Battle-Tested Patterns for App Configuration in .NET 9](https://medium.com/@mariammaurice/9-battle-tested-patterns-for-app-configuration-in-net-9-cf950cd43e71?source=rss------programming-5) (2026-03-22)
+- [You Know How to Call an API.
+Does Your Data Layer Know What to Do When It Fails?](https://medium.com/@alaxhenry0121/you-know-how-to-call-an-api-does-your-data-layer-know-what-to-do-when-it-fails-68d34c259479?source=rss------programming-5) (2026-03-23)
+- [The Day I Realized Trust Was Broken — and Why I Built TriSig](https://medium.com/@protocolonesystems/the-day-i-realized-trust-was-broken-and-why-i-built-trisig-1c3370accd89?source=rss------programming-5) (2026-03-23)
+- [Best Background Remover API in 2026: Webeazzy vs Remove.bg vs Removal.ai vs Poof](https://medium.com/@webeazzybypbl/best-background-remover-api-in-2026-webeazzy-vs-remove-bg-vs-removal-ai-vs-poof-f8524d166023?source=rss------programming-5) (2026-03-23)
+- [Your App Moves.
+But Do You Know Why?](https://medium.com/@alaxhenry0121/your-app-moves-but-do-you-know-why-b7f0ac1e84dc?source=rss------programming-5) (2026-03-23)
+- [Born in March: The Month Fraud Finally Met Its Match](https://medium.com/@protocolonesystems/born-in-march-the-month-fraud-finally-met-its-match-b2ce4395d0f7?source=rss------programming-5) (2026-03-23)
 
 </details>
 
@@ -119,11 +132,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Advancing agentic AI with Microsoft databases across a unified data estate](https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/) (2026-03-18)
-- [FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/) (2026-03-18)
 - [Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI](https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/) (2026-03-16)
 - [From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation](https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/) (2026-03-16)
 - [Modernizing regulated industries with cloud and agentic AI](https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/) (2026-03-11)
+- [Many agents, one team: Scaling modernization on Azure](https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/) (2026-03-11)
+- [Introducing Fireworks AI on Microsoft Foundry: Bringing high performance, low latency open model inference to Azure](https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/) (2026-03-11)
 
 </details>
 
