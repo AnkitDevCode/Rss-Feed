@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [GoGoGrandparent (YC S16) is hiring Back end Engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer) (2026-03-23)
+- ["Collaboration" Is Bullshit](https://www.joanwestenberg.com/collaboration-is-bullshit/) (2026-03-23)
 - [Intuitions for Tranformer Circuits](https://www.connorjdavis.com/p/intuitions-for-transformer-circuits) (2026-03-23)
-- [Department of State advises Americans worldwide to exercise increased caution](https://travel.state.gov/en/international-travel/travel-advisories/global-events/worldwide-caution.html) (2026-03-23)
+- [Migrating the American Express Payment Network, Twice](https://americanexpress.io/migrating-the-payments-network-twice/) (2026-03-23)
 - [They're Vibe-Coding Spam Now](https://tedium.co/2026/02/25/vibe-coded-email-spam/) (2026-03-22)
-- [GrapheneOS will remain usable by anyone without requiring personal information](https://grapheneos.social/@GrapheneOS/116261301913660830) (2026-03-22)
-- [Teaching Claude to QA a mobile app](https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html) (2026-03-22)
 
 </details>
 
@@ -97,24 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How can developers can automatically restart a HarmonyOS app after clearing all app data?](https://dev.to/harmonyos/how-can-developers-can-automatically-restart-a-harmonyos-app-after-clearing-all-app-data-3fld) (2026-03-23)
-- [I Built a Free, Open Source Digital Loyalty Platform for Small Businesses](https://dev.to/digital90210/i-built-a-free-open-source-digital-loyalty-platform-for-small-businesses-285n) (2026-03-23)
-- [Building a Programmatic SEO Quotes Site That Doesn’t Feel Spammy](https://dev.to/greey_liu_63f5f34f6f19764/building-a-programmatic-seo-quotes-site-that-doesnt-feel-spammy-261l) (2026-03-23)
-- [fcfTest - Unit Test Library](https://dev.to/vladimirm/fcftest-unit-test-library-3cgg) (2026-03-23)
-- [Publishing a PHP monorepo to Packagist with splitsh-lite](https://dev.to/jonesrussell/publishing-a-php-monorepo-to-packagist-with-splitsh-lite-2c3f) (2026-03-23)
+- [Claude Code + OpenClaw Fixed My Bugs While I Slept](https://dev.to/vasughanta09/claude-code-openclaw-fixed-my-bugs-while-i-slept-4fap) (2026-03-23)
+- [A Chrome Extension That Talks to Your Database](https://dev.to/abhirockzz/a-chrome-extension-that-talks-to-your-database-b7m) (2026-03-23)
+- [Cortex: The AI-Powered Notion CLI That Builds Your Entire Startup Workspace in 30 Seconds](https://dev.to/techraman100/cortex-the-ai-powered-notion-cli-that-builds-your-entire-startup-workspace-in-30-seconds-4b42) (2026-03-23)
+- [Shadcn Tabs React Guide: 9 Real Patterns, Use Cases, and Performance Tips](https://dev.to/vaibhavg/shadcn-tabs-react-guide-real-patterns-use-cases-and-performance-tips-15kp) (2026-03-23)
+- [Setting up Wagtail Bakerydemo Locally: What I Learnt](https://dev.to/srinithivijayakumars139wq/setting-up-wagtail-bakerydemo-locally-what-i-learnt-1ml8) (2026-03-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [You Know How to Call an API.
-Does Your Data Layer Know What to Do When It Fails?](https://medium.com/@alaxhenry0121/you-know-how-to-call-an-api-does-your-data-layer-know-what-to-do-when-it-fails-68d34c259479?source=rss------programming-5) (2026-03-23)
-- [The Day I Realized Trust Was Broken — and Why I Built TriSig](https://medium.com/@protocolonesystems/the-day-i-realized-trust-was-broken-and-why-i-built-trisig-1c3370accd89?source=rss------programming-5) (2026-03-23)
-- [Best Background Remover API in 2026: Webeazzy vs Remove.bg vs Removal.ai vs Poof](https://medium.com/@webeazzybypbl/best-background-remover-api-in-2026-webeazzy-vs-remove-bg-vs-removal-ai-vs-poof-f8524d166023?source=rss------programming-5) (2026-03-23)
-- [Your App Moves.
-But Do You Know Why?](https://medium.com/@alaxhenry0121/your-app-moves-but-do-you-know-why-b7f0ac1e84dc?source=rss------programming-5) (2026-03-23)
-- [Born in March: The Month Fraud Finally Met Its Match](https://medium.com/@protocolonesystems/born-in-march-the-month-fraud-finally-met-its-match-b2ce4395d0f7?source=rss------programming-5) (2026-03-23)
+- [Why Java is Still One of the Most Powerful Programming Languages in 2026?](https://medium.com/@chathuraninimesha389/why-java-is-still-one-of-the-most-powerful-programming-languages-in-2026-a0b54ae4b425?source=rss------programming-5) (2026-03-23)
+- [I Made Claude Code Say “Deleting Prod DB” and My Team Lost It](https://medium.com/@tihomir.manushev/i-made-claude-code-say-deleting-prod-db-and-my-team-lost-it-91b109b85937?source=rss------programming-5) (2026-03-23)
+- [ Don’t Use Claude Just as a Chatbot — Use It Like an Engineer](https://medium.com/@amit.rajawat12/dont-use-claude-just-as-a-chatbot-use-it-like-an-engineer-8be407562985?source=rss------programming-5) (2026-03-23)
+- [Looking for the Best Programming Assignment Help Website?](https://medium.com/@herberthobbs18/looking-for-the-best-programming-assignment-help-website-019ab0cc5571?source=rss------programming-5) (2026-03-23)
+- [Beyond Connectivity: How BSNL is Building a Secure Digital Ecosystem](https://medium.com/@narendra007singhshekhawat/beyond-connectivity-how-bsnl-is-building-a-secure-digital-ecosystem-e1a1dd477489?source=rss------programming-5) (2026-03-23)
 
 </details>
 
@@ -132,11 +130,11 @@ But Do You Know Why?](https://medium.com/@alaxhenry0121/your-app-moves-but-do-yo
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI](https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/) (2026-03-16)
-- [From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation](https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/) (2026-03-16)
-- [Modernizing regulated industries with cloud and agentic AI](https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/) (2026-03-11)
-- [Many agents, one team: Scaling modernization on Azure](https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/) (2026-03-11)
-- [Introducing Fireworks AI on Microsoft Foundry: Bringing high performance, low latency open model inference to Azure](https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/) (2026-03-11)
+- [Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure](https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/) (2026-03-04)
+- [Unlocking document understanding with Mistral Document AI in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664) (2026-03-03)
+- [Instant access incremental snapshots: Restore without waiting](https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/) (2026-03-02)
+- [Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected](http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog) (2026-02-24)
+- [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
 
 </details>
 
