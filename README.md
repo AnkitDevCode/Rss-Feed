@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Bipartisan bill seeks to ban sports betting on Kalshi and Polymarket](https://techcrunch.com/2026/03/23/bipartisan-bill-seeks-to-ban-sports-betting-on-kalshi-and-polymarket/) (2026-03-23)
-- [Vibe-coding startup Lovable is on the hunt for acquisitions](https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/) (2026-03-23)
-- [Apple sets June date for WWDC 2026, teasing “AI advancements”](https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/) (2026-03-23)
-- [DoorDash introduces relief payments for drivers as the Iran-US war drives up gas prices](https://techcrunch.com/2026/03/23/doordash-introduces-relief-payments-for-drivers-as-the-iran-us-war-drives-up-gas-prices/) (2026-03-23)
-- [Leonid Radvinsky, the owner of  OnlyFans, has passed away](https://techcrunch.com/2026/03/23/leonid-radvinsky-the-owner-of-onlyfans-has-passed-away/) (2026-03-23)
+- [Emil Michael, now a senior Pentagon official, says he’ll never forgive Uber investors who ousted him and Kalanick](https://techcrunch.com/2026/03/23/emil-michael-now-a-senior-pentagon-official-says-hell-never-forgive-uber-investors-who-ousted-him-and-kalanick/) (2026-03-23)
+- [Bengaluru food delivery startup Swish raises $38M, its third round in 18 months](https://techcrunch.com/2026/03/23/bengaluru-food-startup-swish-raises-38m-in-its-third-round-in-18-months/) (2026-03-23)
+- [Despite bitter rivalry, Kalshi, Polymarket CEOs back $35M predictions markets VC fund](https://techcrunch.com/2026/03/23/despite-bitter-rivalry-kalshi-polymarket-ceos-back-35m-predictions-markets-vc-fund/) (2026-03-23)
+- [Air Street becomes one of the largest solo VCs in Europe with $232M fund](https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/) (2026-03-23)
+- [Apple Maps may be about to get ads](https://techcrunch.com/2026/03/23/apple-maps-may-be-about-to-get-ads/) (2026-03-23)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [US govt pays TotalEnergies nearly $1B to stop US offshore wind projects](https://www.lemonde.fr/en/international/article/2026/03/23/us-and-totalenergies-reach-nearly-1-billion-deal-to-end-offshore-wind-projects_6751739_4.html) (2026-03-23)
-- [Is it a pint?](https://isitapint.com/) (2026-03-23)
-- [Show HN: Threadprocs – executables sharing one address space (0-copy pointers)](https://github.com/jer-irl/threadprocs) (2026-03-23)
-- [Cyber.mil serving file downloads using TLS certificate which expired 3 days ago](https://www.cyber.mil/stigs/downloads) (2026-03-23)
-- [If DSPy is so great, why isn't anyone using it?](https://skylarbpayne.com/posts/dspy-engineering-patterns/) (2026-03-23)
+- [AI boom risks widening wealth divide, says BlackRock's Larry Fink](https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink) (2026-03-23)
+- [Pentagon Adopts New Limits for Journalists After Court Loss](https://www.nytimes.com/2026/03/23/business/media/pentagon-closes-journalists-work-area.html) (2026-03-23)
+- [Study: Workers who fall for 'corporate bullshit' may be worse at their jobs](https://www.theguardian.com/business/2026/mar/23/corporate-speak-study) (2026-03-23)
+- [Windows 3.1 tiled background .bmp archive](https://github.com/andreasjansson/win-3.1-backgrounds) (2026-03-23)
+- [IRIX 3dfx Voodoo driver and glide2x IRIX port](https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/) (2026-03-23)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Donut Lab’s solid-state battery could barely hold a charge after getting damaged](https://www.theverge.com/transportation/898881/donut-lab-solid-state-battery-damage-test) (2026-03-23)
-- [Apple’s WWDC 2026 event starts June 8th](https://www.theverge.com/news/898997/apple-wwdc-2026-june-8-ios-27-ai-siri) (2026-03-23)
-- [PDP’s wireless guitar controller has returned to its best price to date](https://www.theverge.com/gadgets/898962/pdp-riffmaster-guitar-controller-amazon-big-spring-sale-2026-deal) (2026-03-23)
-- [Some writing advice from Project Hail Mary’s Andy Weir](https://www.theverge.com/entertainment/898918/project-hail-mary-andy-weir-writing-advice-interview) (2026-03-23)
-- [Apple’s four-pack of first-gen AirTags is down $60 for the first time](https://www.theverge.com/gadgets/894007/apple-airtag-first-generation-deal-sale) (2026-03-23)
+- [The US government just banned consumer routers made outside the US](https://www.theverge.com/news/899172/fcc-foreign-router-ban) (2026-03-23)
+- [The kid-friendly Fitbit Ace is $100, which matches its best price](https://www.theverge.com/gadgets/899134/fitbit-ace-amazon-big-spring-sale-2026-deal) (2026-03-23)
+- [Kalshi says it will block politicians and athletes from trading in markets they’re tied to](https://www.theverge.com/tech/899097/kalshi-politicians-athletes-insider-trading-blocked) (2026-03-23)
+- [Google’s new Pixel 10 ads made me go ‘Wait, WHAT are they trying to sell?’](https://www.theverge.com/tech/898992/google-pixel-10-ads-moving-on-stalker-lying-beach-view-100-zoom) (2026-03-23)
+- [Nvidia CEO Jensen Huang says &#8216;I think we&#8217;ve achieved AGI&#8217;](https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi) (2026-03-23)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Long fingernails vs. touchscreens: This nail polish could help](https://arstechnica.com/science/2026/03/long-fingernails-vs-touchscreens-this-nail-polish-could-help/) (2026-03-23)
-- [Republicans in Congress add $250 annual federal EV tax to transport bill](https://arstechnica.com/cars/2026/03/republicans-in-congress-add-250-annual-federal-ev-tax-to-transport-bill/) (2026-03-23)
-- [As teens await sentencing for nudifying girls, parents aim to sue school](https://arstechnica.com/tech-policy/2026/03/as-teens-await-sentencing-for-nudifying-girls-parents-aim-to-sue-school/) (2026-03-23)
-- [A bit of good news: It's possible to turn around a groundwater crisis](https://arstechnica.com/science/2026/03/a-bit-of-good-news-its-possible-to-turn-around-a-groundwater-crisis/) (2026-03-23)
-- [AI is beginning to change the business of law](https://arstechnica.com/ai/2026/03/ai-is-beginning-to-change-the-business-of-law/) (2026-03-23)
+- [A mission NASA might kill is still returning fascinating science from Jupiter](https://arstechnica.com/space/2026/03/a-mission-nasa-might-kill-is-still-returning-fascinating-science-from-jupiter/) (2026-03-23)
+- [Trump's MAHA pick for surgeon general flounders amid GOP doubts](https://arstechnica.com/health/2026/03/trumps-maha-pick-for-surgeon-general-flounders-amid-gop-doubts/) (2026-03-23)
+- [Nvidia CEO tries to explain why DLSS 5 isn’t just “AI slop”](https://arstechnica.com/gaming/2026/03/nvidia-ceo-tries-to-explain-why-dlss-5-isnt-just-ai-slop/) (2026-03-23)
+- [After hackers hit an Iowa company, cars around the country failed to start](https://arstechnica.com/security/2026/03/after-hack-some-ignition-interlock-users-couldnt-start-their-own-cars/) (2026-03-23)
+- [LG Display starts mass-producing LTPO-like 1 Hz LCD displays for laptops](https://arstechnica.com/gadgets/2026/03/lg-display-starts-mass-producing-ltpo-like-1-hz-lcd-displays-for-laptops/) (2026-03-23)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Hobby Spring Boot vs Professional Spring Boot](https://dev.to/poja/hobby-spring-boot-vs-professional-spring-boot-lg9) (2026-03-23)
-- [Unlocking the Power of Wallet Intelligence](https://dev.to/jahara_magarang_ef0ecbe761/unlocking-the-power-of-wallet-intelligence-48fe) (2026-03-23)
-- [The Most Valuable Skill in 2026 Isn't Writing Code. It Is Deleting It](https://dev.to/giphamceo/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-41kd) (2026-03-23)
-- [Inside The Oligarch And The Art Dealer: A Deep Dive Into High-Stakes Intrigue and Billion-Dollar Secrets](https://dev.to/aloycwl/inside-the-oligarch-and-the-art-dealer-a-deep-dive-into-high-stakes-intrigue-and-billion-dollar-47l8) (2026-03-23)
-- [Anthropic's "Observed Exposure" Study Is the First Real Early-Warning System for AI Labor Disruption](https://dev.to/narnaiezzsshaa/anthropics-observed-exposure-study-is-the-first-real-early-warning-system-for-ai-labor-disruption-46l1) (2026-03-23)
+- [Best Image Search Tool for E-commerce Sellers in 2026](https://dev.to/ironman_9756998bd01234a73/best-image-search-tool-for-e-commerce-sellers-in-2026-4efa) (2026-03-24)
+- [How to Set Up Stripe Subscriptions in Next.js 16 (Complete Guide)](https://dev.to/huangyongshan46a11y/how-to-set-up-stripe-subscriptions-in-nextjs-16-complete-guide-phd) (2026-03-24)
+- [My MacBook Went Offline — So I Ditched Overleaf for TeX64](https://dev.to/tex64/my-macbook-went-offline-so-i-ditched-overleaf-for-tex64-1mal) (2026-03-24)
+- [Open Source Marketing: The Complete Guide for 2026](https://dev.to/iris1031/open-source-marketing-the-complete-guide-for-2026-jp3) (2026-03-24)
+- [How to Monitor & Improve Workplace Operations](https://dev.to/aloycwl/how-to-monitor-improve-workplace-operations-477l) (2026-03-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How Pokémon Go Secretly Built the Ultimate 3D Map of the World](https://medium.com/@AT24/how-pok%C3%A9mon-go-secretly-built-the-ultimate-3d-map-of-the-world-bd6aea0ca46d?source=rss------programming-5) (2026-03-23)
-- [Code Reviews are Broken (Here’s What We Do Instead)](https://medium.com/lets-code-future/code-reviews-are-broken-heres-what-we-do-instead-cced6e3ab77d?source=rss------programming-5) (2026-03-23)
-- [ Automating Docker Deployment with Terraform](https://medium.com/@pranavsb699/automating-docker-deployment-with-terraform-14eeb5b120f7?source=rss------programming-5) (2026-03-23)
-- [Memory Allocation Patterns in Go: Why Your Code Uses More Memory Than You Think](https://medium.com/@shubratha/memory-allocation-patterns-in-go-why-your-code-uses-more-memory-than-you-think-9857aa157ed8?source=rss------programming-5) (2026-03-23)
-- [Your Microservices Architecture is Killing You](https://blog.devgenius.io/your-microservices-architecture-is-killing-you-3a9c6fc4f06f?source=rss------programming-5) (2026-03-23)
+- [Claude Code + OpenClaw Fixed My Bugs While I Slept](https://medium.com/@vasu_ghanta/claude-code-openclaw-fixed-my-bugs-while-i-slept-4cd1bdab3e38?source=rss------programming-5) (2026-03-24)
+- [MiroFish: The Digital Sand Table for Predicting the Future](https://medium.com/@jiten.p.oswal/mirofish-the-digital-sand-table-for-predicting-the-future-f5d99881add6?source=rss------programming-5) (2026-03-24)
+- [Complete Guide: Using AWS Features in Laravel (Beginner → Advanced)](https://medium.com/@waiyan.toshima12/complete-guide-using-aws-features-in-laravel-beginner-advanced-ff7b6e26c82b?source=rss------programming-5) (2026-03-24)
+- [The Execution Bug That Turned My Trading System Short](https://medium.com/@bkrulicki/the-execution-bug-that-turned-my-trading-system-short-70824a76ae6e?source=rss------programming-5) (2026-03-24)
+- [I Used AI Every Day… But Didn’t Actually Understand It (Until This Clicked)](https://medium.com/readers-club/i-used-ai-every-day-but-didnt-actually-understand-it-until-this-clicked-bcf61a1dde17?source=rss------programming-5) (2026-03-24)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Advancing agentic AI with Microsoft databases across a unified data estate](https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/) (2026-03-18)
-- [FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/) (2026-03-18)
-- [Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI](https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/) (2026-03-16)
-- [From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation](https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/) (2026-03-16)
 - [Modernizing regulated industries with cloud and agentic AI](https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/) (2026-03-11)
+- [Many agents, one team: Scaling modernization on Azure](https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/) (2026-03-11)
+- [Introducing Fireworks AI on Microsoft Foundry: Bringing high performance, low latency open model inference to Azure](https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/) (2026-03-11)
+- [Unpacking your top questions on agentic AI: The Shift podcast](https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/) (2026-03-09)
+- [The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry](https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/) (2026-03-06)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Trivy supply chain compromise: What Docker Hub users should know](https://www.docker.com/blog/trivy-supply-chain-compromise-what-docker-hub-users-should-know/) (2026-03-23)
 - [From the Captain’s Chair: Naga Santhosh Reddy Vootukuri](https://www.docker.com/blog/from-the-captains-chair-naga-santhosh-reddy-vootukuri/) (2026-03-18)
 - [Achieving Test Reliability for Native E2E Testing: Beyond Fixing Broken Tests](https://www.docker.com/blog/native-e2e-test-reliability/) (2026-03-13)
 - [How to Run Claude Code with Docker: Local Models, MCP Servers, and Secure Sandboxes](https://www.docker.com/blog/run-claude-code-with-docker/) (2026-03-13)
 - [Secure Agent Execution with NanoClaw and Docker Sandboxes](https://www.docker.com/blog/nanoclaw-docker-sandboxes-agent-security/) (2026-03-13)
-- [Flexibility Over Lock-In: The Enterprise Shift in Agent Strategy](https://www.docker.com/blog/enterprise-shift-in-agent-strategy/) (2026-03-12)
 
 </details>
 
@@ -502,7 +502,7 @@ https://www.twilio.com/en-us/blog/events/twilio-segment-user-group-london-feb-20
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack vs. Microsoft Teams: Key Differences for Modern Teams](https://slack.com/blog/compare/slack-vs-microsoft-teams) (2026-03-19)
+- [Slack vs. Microsoft Teams: Key Differences for Modern Teams](https://slack.com/blog/compare/slack-vs-microsoft-teams) (2026-03-23)
 - [Unlocking the Power of Conversation: How Slack’s New Platform is Fueling the Agentic Era](https://slack.com/blog/news/powering-agentic-collaboration) (2026-03-13)
 - [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-03-13)
 - [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-03-13)
@@ -535,11 +535,11 @@ https://www.twilio.com/en-us/blog/events/twilio-segment-user-group-london-feb-20
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [PyTorch 2.11 Release Blog](https://pytorch.org/blog/pytorch-2-11-release-blog/) (2026-03-23)
 - [PyTorch 2.10+TorchAO: Powering AIPC scenarios on Intel® Core™ Ultra Series 3 processors](https://pytorch.org/blog/pytorch-2-10torchao/) (2026-03-20)
 - [TorchSpec: Speculative Decoding Training at Scale](https://pytorch.org/blog/torchspec-speculative-decoding-training-at-scale/) (2026-03-19)
 - [Generalized Dot-Product Attention: Tackling Real-World Challenges in GPU Training Kernels](https://pytorch.org/blog/generalized-dot-product-attention-tackling-real-world-challenges-in-gpu-training-kernels/) (2026-03-18)
 - [Building Voice Agents with ExecuTorch: A Cross-Platform Foundation for On-Device Audio](https://pytorch.org/blog/building-voice-agents-with-executorch-a-cross-platform-foundation-for-on-device-audio/) (2026-03-15)
-- [MXFP8 Training for MoEs: 1.3x training speedup vs BF16 for Llama4 Scout on GB200 cluster using TorchAO and TorchTitan](https://pytorch.org/blog/mxfp8-training-for-moes-1-3x-training-speedup-vs-bf16-for-llama4-scout-on-gb200-cluster-using-torchao-and-torchtitan/) (2026-03-12)
 
 </details>
 
@@ -590,11 +590,11 @@ https://www.twilio.com/en-us/blog/events/twilio-segment-user-group-london-feb-20
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Decision-Making for Busy Owners: Moving Fast vs. Moving Slow (Sponsored)](https://bit.ly/Ingram-topic-22-kdn-website#new_tab) (2026-03-23)
 - [10 Best X (Twitter) Accounts to Follow for LLM Updates](https://www.kdnuggets.com/10-best-x-twitter-accounts-to-follow-for-llm-updates) (2026-03-23)
 - [How to Speed Up Slow Python Code Even If You’re a Beginner](https://www.kdnuggets.com/how-to-speed-up-slow-python-code-even-if-youre-a-beginner) (2026-03-23)
 - [5 Tips to Turn OpenAI Codex Into a Powerful AI Coding Agent](https://www.kdnuggets.com/5-tips-to-turn-openai-codex-into-a-powerful-ai-coding-agent) (2026-03-23)
 - [SynthID: What it is and How it Works](https://www.kdnuggets.com/synthid-what-it-is-and-how-it-works) (2026-03-20)
-- [5 Powerful Python Decorators for Robust AI Agents](https://www.kdnuggets.com/5-powerful-python-decorators-for-robust-ai-agents) (2026-03-20)
 
 </details>
 
