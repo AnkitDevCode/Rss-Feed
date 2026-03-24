@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Delve halts demos, Insight Partners scrubs investment post amid ‘fake compliance’ allegations](https://techcrunch.com/2026/03/23/delve-halts-demos-insight-partners-scrubs-investment-post-amid-fake-compliance-allegations/) (2026-03-24)
-- [Emil Michael, now a senior Pentagon official, says he’ll never forgive Uber investors who ousted him and Kalanick](https://techcrunch.com/2026/03/23/emil-michael-now-a-senior-pentagon-official-says-hell-never-forgive-uber-investors-who-ousted-him-and-kalanick/) (2026-03-23)
-- [Bengaluru food delivery startup Swish raises $38M, its third round in 18 months](https://techcrunch.com/2026/03/23/bengaluru-food-startup-swish-raises-38m-in-its-third-round-in-18-months/) (2026-03-23)
-- [Despite bitter rivalry, Kalshi, Polymarket CEOs back $35M predictions markets VC fund](https://techcrunch.com/2026/03/23/despite-bitter-rivalry-kalshi-polymarket-ceos-back-35m-predictions-markets-vc-fund/) (2026-03-23)
-- [Air Street becomes one of the largest solo VCs in Europe with $232M fund](https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/) (2026-03-23)
+- [TikTok ads are about to get a tad more disruptive](https://techcrunch.com/2026/03/24/tiktok-ads-are-about-to-get-a-tad-more-disruptive/) (2026-03-24)
+- [Mirage raises $75M to continue building models for its AI video editing app Captions](https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/) (2026-03-24)
+- [Spotify’s new SongDNA feature maps how your favorite songs are connected](https://techcrunch.com/2026/03/24/spotifys-songdna-feature-lets-you-explore-the-connections-behind-your-favorite-songs/) (2026-03-24)
+- [Snapchat’s new ‘AI Clips’ Lens format turns photos into five-second videos](https://techcrunch.com/2026/03/24/snapchats-new-ai-clips-lens-format-turns-photos-into-five-second-videos/) (2026-03-24)
+- [Zoox brings its robotaxis to Austin and Miami](https://techcrunch.com/2026/03/24/zoox-brings-its-robotaxis-to-austin-and-miami/) (2026-03-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Log File Viewer for the Terminal](https://lnav.org/) (2026-03-24)
-- [Microsoft blocks trick to unlock native NVMe driver, but workarounds still exist](https://www.tomshardware.com/software/windows/microsoft-blocks-the-registry-hack-trick-that-unlocked-native-nvme-performance-on-windows-11) (2026-03-24)
-- [Ubisoft's death by a thousand cuts](https://www.thegamebusiness.com/p/ubisofts-death-by-a-thousand-cuts) (2026-03-24)
-- [Sunsetting the Techempower Framework Benchmarks](https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932) (2026-03-24)
-- [Epoch confirms GPT5.4 Pro solved a frontier math open problem](https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs) (2026-03-24)
+- [Debunking Zswap and Zram Myths](https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html) (2026-03-24)
+- [curl > /dev/sda: How I made a Linux distro that runs wget | dd](https://astrid.tech/2026/03/24/0/curl-to-dev-sda/) (2026-03-24)
+- [Microsoft's "Fix" for Windows 11: Flowers After the Beating](https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/) (2026-03-24)
+- [MagicAudio – Free Noise, Echo and Background Music Remover](https://magicaudio.pro/) (2026-03-24)
+- [Opera: Rewind The Web to 1996 (Opera at 30)](https://www.web-rewind.com) (2026-03-24)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The Hisense U7SG is a great midrange TV you shouldn’t buy yet](https://www.theverge.com/tech/899160/hisense-u7sg-tv-review) (2026-03-24)
+- [Zoox is bringing its robotaxis to Austin and Miami](https://www.theverge.com/transportation/899323/zoox-robotaxi-las-vegas-san-francisco-austin-miami) (2026-03-24)
+- [Nuki adds Apple Home Key to its smart lock](https://www.theverge.com/tech/899330/nuki-keypad-2-nfc-aliro-apple-homekey-launch) (2026-03-24)
+- [Nintendo cuts Switch 2 production amid weakening console sales](https://www.theverge.com/games/899291/nintendo-switch-2-production-cut-weak-us-sales) (2026-03-24)
 - [The US government just banned consumer routers made outside the US](https://www.theverge.com/news/899172/fcc-foreign-router-ban) (2026-03-23)
-- [The kid-friendly Fitbit Ace is $100, which matches its best price](https://www.theverge.com/gadgets/899134/fitbit-ace-amazon-big-spring-sale-2026-deal) (2026-03-23)
-- [Kalshi says it will block politicians and athletes from trading in markets they’re tied to](https://www.theverge.com/tech/899097/kalshi-politicians-athletes-insider-trading-blocked) (2026-03-23)
-- [Google’s new Pixel 10 ads made me go ‘Wait, WHAT are they trying to sell?’](https://www.theverge.com/tech/898992/google-pixel-10-ads-moving-on-stalker-lying-beach-view-100-zoom) (2026-03-23)
-- [Nvidia CEO Jensen Huang says &#8216;I think we&#8217;ve achieved AGI&#8217;](https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi) (2026-03-23)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Self-propagating malware poisons open source software and wipes Iran-based machines](https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/) (2026-03-24)
+- [Orbital data centers, part 1: There’s no way this is economically viable, right?](https://arstechnica.com/space/2026/03/orbital-data-centers-part-1-theres-no-way-this-is-economically-viable-right/) (2026-03-24)
 - [A mission NASA might kill is still returning fascinating science from Jupiter](https://arstechnica.com/space/2026/03/a-mission-nasa-might-kill-is-still-returning-fascinating-science-from-jupiter/) (2026-03-23)
 - [Trump's MAHA pick for surgeon general flounders amid GOP doubts](https://arstechnica.com/health/2026/03/trumps-maha-pick-for-surgeon-general-flounders-amid-gop-doubts/) (2026-03-23)
 - [Nvidia CEO tries to explain why DLSS 5 isn’t just “AI slop”](https://arstechnica.com/gaming/2026/03/nvidia-ceo-tries-to-explain-why-dlss-5-isnt-just-ai-slop/) (2026-03-23)
-- [After hackers hit an Iowa company, cars around the country failed to start](https://arstechnica.com/security/2026/03/after-hack-some-ignition-interlock-users-couldnt-start-their-own-cars/) (2026-03-23)
-- [LG Display starts mass-producing LTPO-like 1 Hz LCD displays for laptops](https://arstechnica.com/gadgets/2026/03/lg-display-starts-mass-producing-ltpo-like-1-hz-lcd-displays-for-laptops/) (2026-03-23)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks](https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/) (2026-03-24)
 - [The hardest question to answer about AI-fueled delusions](https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/) (2026-03-23)
 - [The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy](https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/) (2026-03-23)
 - [The Bay Area’s animal welfare movement wants to recruit AI](https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/) (2026-03-23)
 - [The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot](https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/) (2026-03-20)
-- [OpenAI is throwing everything into building a fully automated researcher](https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/) (2026-03-20)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [What Web3 Looks Like in 2026 and Where It Is Headed by 2030](https://dev.to/ribhavmodi/what-web3-looks-like-in-2026-and-where-it-is-headed-by-2030-2lb4) (2026-03-24)
-- [Your SaaS File Uploads Are Slower Than They Need to Be](https://dev.to/voltageitlabs/your-saas-file-uploads-are-slower-than-they-need-to-be-ebb) (2026-03-24)
-- [Your Email Sounds Too Aggressive and You Know It. Here's How to Fix It in 2 Minutes](https://dev.to/skippy_magnificent_8cce24/your-email-sounds-too-aggressive-and-you-know-it-heres-how-to-fix-it-in-2-minutes-5coc) (2026-03-24)
-- [useMediaQuery: Complete Guide to Responsive Design in React](https://dev.to/childrentime/usemediaquery-complete-guide-to-responsive-design-in-react-4n1k) (2026-03-24)
-- [Deploying CVAT on AWS for Image and Video Annotation](https://dev.to/gowtham21/deploying-cvat-on-aws-for-image-and-video-annotation-425i) (2026-03-24)
+- [6 Things No Other MCP Server Lets Your AI Agent Do](https://dev.to/whiteknightonhorse/6-things-no-other-mcp-server-lets-your-ai-agent-do-53ei) (2026-03-24)
+- [The Missing Record in Security Systems](https://dev.to/_ec43e7d217363cb63cf8/the-missing-record-in-security-systems-c29) (2026-03-24)
+- [Using git worktree for parallel AI agent development](https://dev.to/sonim1/using-git-worktree-for-parallel-ai-agent-development-44nb) (2026-03-24)
+- [Datadog Agent Installation on AWS EC2 (Linux Server) and Sending Logs to Datadog Cloud](https://dev.to/aws-builders/datadog-agent-installation-on-aws-ec2-linux-server-and-sending-logs-to-datadog-cloud-542f) (2026-03-24)
+- [Your Terminal Remembers Every Secret You've Ever Typed](https://dev.to/davidnussio/your-terminal-remembers-every-secret-youve-ever-typed-jj2) (2026-03-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [7 Python Workflows I Built Just to Save 10 Minutes (Totally Worth It)](https://levelup.gitconnected.com/7-python-workflows-i-built-just-to-save-10-minutes-totally-worth-it-87eb5922dc24?source=rss------programming-5) (2026-03-24)
-- [Struggling With CS Assignments in Massachusetts? Here’s What Actually Works](https://medium.com/@hannahmiller7879/struggling-with-cs-assignments-in-massachusetts-heres-what-actually-works-1c8005ae9839?source=rss------programming-5) (2026-03-24)
-- [Mr. Bean – Beginning Story (Life Start)](https://medium.com/@mianhammad305/mr-bean-beginning-story-life-start-8cdce6f5e530?source=rss------programming-5) (2026-03-24)
-- [10 Python Tricks I Only Learned After 4 Years of Coding](https://levelup.gitconnected.com/10-python-tricks-i-only-learned-after-4-years-of-coding-df749698a4db?source=rss------programming-5) (2026-03-24)
-- [Java vs Python -I Chose the Wrong One (Cost Me Money)](https://medium.com/@devlogicwrites/java-vs-python-i-chose-the-wrong-one-cost-me-money-78df6e2a8bb9?source=rss------programming-5) (2026-03-24)
+- [Programming for Pleasure: Sudoku-13](https://medium.com/@stu_slicer/programming-for-pleasure-sudoku-13-37e58c143780?source=rss------programming-5) (2026-03-24)
+- [Stop Competing With AI — Use It Like Leverage](https://akiro-sato.medium.com/stop-competing-with-ai-use-it-like-leverage-58c9a91602d4?source=rss------programming-5) (2026-03-24)
+- [Experimental research mindset](https://sudhamsr.medium.com/experimental-research-mindset-778c1cd64b6c?source=rss------programming-5) (2026-03-24)
+- [Your Terminal Remembers Every Secret You’ve Ever Typed](https://medium.com/@davidnussio/your-terminal-remembers-every-secret-youve-ever-typed-0eb2cfcf4157?source=rss------programming-5) (2026-03-24)
+- [Can You Find The Area Of The Red Intersection?](https://medium.com/math-games/can-you-find-the-area-of-the-red-intersection-60a4aa468336?source=rss------programming-5) (2026-03-24)
 
 </details>
 
@@ -130,22 +130,22 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Advancing agentic AI with Microsoft databases across a unified data estate](https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/) (2026-03-18)
-- [FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/) (2026-03-18)
-- [Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI](https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/) (2026-03-16)
-- [From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation](https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/) (2026-03-16)
-- [Modernizing regulated industries with cloud and agentic AI](https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/) (2026-03-11)
+- [The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry](https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/) (2026-03-06)
+- [Introducing GPT-5.4 in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-gpt-5-4-in-microsoft-foundry/4499785) (2026-03-05)
+- [Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure](https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/) (2026-03-04)
+- [Unlocking document understanding with Mistral Document AI in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664) (2026-03-03)
+- [Instant access incremental snapshots: Restore without waiting](https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/) (2026-03-02)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Advancing Open Source AI, NVIDIA Donates Dynamic Resource Allocation Driver for GPUs to Kubernetes Community](https://blogs.nvidia.com/blog/nvidia-at-kubecon-2026/) (2026-03-24)
 - [How Autonomous AI Agents Become Secure by Design With NVIDIA OpenShell](https://blogs.nvidia.com/blog/secure-autonomous-ai-agents-openshell/) (2026-03-23)
 - [NVIDIA GTC 2026: Live Updates on What’s Next in AI](https://blogs.nvidia.com/blog/gtc-2026-news/) (2026-03-20)
 - [Smooth Moves: 90 Frames-Per-Second Virtual Reality Arrives on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-virtual-reality-update/) (2026-03-19)
 - [From Simulation to Production: How to Build Robots With AI](https://blogs.nvidia.com/blog/build-robots-with-ai/) (2026-03-18)
-- [More Than Meets the Eye: NVIDIA RTX-Accelerated Computers Now Connect Directly to Apple Vision Pro](https://blogs.nvidia.com/blog/nvidia-cloudxr-apple-vision-pro/) (2026-03-17)
 
 </details>
 
@@ -362,11 +362,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-How to Use Google Sheets as a Database for Your PHP App
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/use-google-sheets-as-database-for-php-app
-) (2026-03-23)
-- [
 Building a Greeting Card Generator with the Lovable Twilio Connector
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/greeting-card-generator-lovable-twilio-connector
@@ -386,6 +381,11 @@ Build a WhatsApp AI Agent with Node.js, Twilio Messaging, and OpenAI’s GPT-5
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/whatsapp-ai-agent-twilio-openai
 ) (2026-03-12)
+- [
+Community, AI in Action, and Twilio News: Reflections on Our Biggest User Group Yet
+](
+https://www.twilio.com/en-us/blog/events/twilio-segment-user-group-london-feb-2026
+) (2026-03-11)
 
 </details>
 
@@ -568,44 +568,44 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/whatsapp-ai-
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Complete Guide to AI Implementation for Chief Data & AI Officers in 2026](https://towardsdatascience.com/the-complete-guide-to-ai-implementation-for-chief-data-ai-officers-in-2026/) (2026-03-24)
 - [4 Pandas Concepts That Quietly Break Your Data Pipelines](https://towardsdatascience.com/most-pandas-tutorials-skip-this-thats-why-your-code-breaks-later/) (2026-03-23)
 - [Causal Inference Is Eating Machine Learning](https://towardsdatascience.com/causal-inference-is-eating-machine-learning/) (2026-03-23)
 - [Neuro-Symbolic Fraud Detection: Catching Concept Drift Before F1 Drops (Label-Free)](https://towardsdatascience.com/neuro-symbolic-fraud-detection-catching-concept-drift-before-f1-drops-label-free/) (2026-03-23)
 - [I Built a Podcast Clipping App in One Weekend Using Vibe Coding](https://towardsdatascience.com/i-built-a-podcast-clipping-app-in-one-weekend-using-vibe-coding/) (2026-03-23)
-- [Prompt Caching with the OpenAI API: A Full Hands-On Python tutorial](https://towardsdatascience.com/prompt-caching-with-openai-api-full-hands-on-python-tutorial/) (2026-03-22)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Top 5 Free Google Certificate Courses in 2026](https://www.analyticsvidhya.com/blog/2026/03/free-google-certificate-courses/) (2026-03-24)
+- [Mistral Small 4: The One Model That Codes, Reasons, and Chats](https://www.analyticsvidhya.com/blog/2026/03/mistral-small-4/) (2026-03-24)
 - [Guide to Propensity Score Matching for Causal Inference to Estimate True Impact](https://www.analyticsvidhya.com/blog/2026/03/guide-propensity-score-matching-causal-inference/) (2026-03-23)
 - [Top 10 YouTube Channels to Learn Machine Learning](https://www.analyticsvidhya.com/blog/2026/03/youtube-channels-to-learn-machine-learning/) (2026-03-23)
 - [Top 10 AI Coding Assistants of 2026](https://www.analyticsvidhya.com/blog/2026/03/ai-coding-assistants/) (2026-03-22)
-- [PageIndex vs Traditional RAG: A Better Way to Build Document Chatbots](https://www.analyticsvidhya.com/blog/2026/03/pageindex-vs-rag-document-chatbots/) (2026-03-21)
-- [Inside Claude Cowork: How to Run Agentic AI Tasks Like a Pro ](https://www.analyticsvidhya.com/blog/2026/03/claude-cowork/) (2026-03-20)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Getting Started with Nanobot: Build Your First AI Agent](https://www.kdnuggets.com/getting-started-with-nanobot-build-your-first-ai-agent) (2026-03-24)
 - [Decision-Making for Busy Owners: Moving Fast vs. Moving Slow (Sponsored)](https://bit.ly/Ingram-topic-22-kdn-website#new_tab) (2026-03-23)
 - [10 Best X (Twitter) Accounts to Follow for LLM Updates](https://www.kdnuggets.com/10-best-x-twitter-accounts-to-follow-for-llm-updates) (2026-03-23)
 - [How to Speed Up Slow Python Code Even If You’re a Beginner](https://www.kdnuggets.com/how-to-speed-up-slow-python-code-even-if-youre-a-beginner) (2026-03-23)
 - [5 Tips to Turn OpenAI Codex Into a Powerful AI Coding Agent](https://www.kdnuggets.com/5-tips-to-turn-openai-codex-into-a-powerful-ai-coding-agent) (2026-03-23)
-- [SynthID: What it is and How it Works](https://www.kdnuggets.com/synthid-what-it-is-and-how-it-works) (2026-03-20)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Beyond the Vector Store: Building the Full Data Layer for AI Applications](https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/) (2026-03-24)
 - [7 Steps to Mastering Memory in Agentic AI Systems](https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/) (2026-03-23)
 - [Why Agents Fail: The Role of Seed Values and Temperature in Agentic Loops](https://machinelearningmastery.com/why-agents-fail-the-role-of-seed-values-and-temperature-in-agentic-loops/) (2026-03-20)
 - [5 Production Scaling Challenges for Agentic AI in 2026](https://machinelearningmastery.com/5-production-scaling-challenges-for-agentic-ai-in-2026/) (2026-03-19)
 - [7 Readability Features for Your Next Machine Learning Model](https://machinelearningmastery.com/7-readability-features-for-your-next-machine-learning-model/) (2026-03-18)
-- [Everything You Need to Know About Recursive Language Models](https://machinelearningmastery.com/everything-you-need-to-know-about-recursive-language-models/) (2026-03-17)
 
 </details>
 
