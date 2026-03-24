@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Delve halts demos, Insight Partners scrubs investment post amid ‘fake compliance’ allegations](https://techcrunch.com/2026/03/23/delve-halts-demos-insight-partners-scrubs-investment-post-amid-fake-compliance-allegations/) (2026-03-24)
 - [Emil Michael, now a senior Pentagon official, says he’ll never forgive Uber investors who ousted him and Kalanick](https://techcrunch.com/2026/03/23/emil-michael-now-a-senior-pentagon-official-says-hell-never-forgive-uber-investors-who-ousted-him-and-kalanick/) (2026-03-23)
 - [Bengaluru food delivery startup Swish raises $38M, its third round in 18 months](https://techcrunch.com/2026/03/23/bengaluru-food-startup-swish-raises-38m-in-its-third-round-in-18-months/) (2026-03-23)
 - [Despite bitter rivalry, Kalshi, Polymarket CEOs back $35M predictions markets VC fund](https://techcrunch.com/2026/03/23/despite-bitter-rivalry-kalshi-polymarket-ceos-back-35m-predictions-markets-vc-fund/) (2026-03-23)
 - [Air Street becomes one of the largest solo VCs in Europe with $232M fund](https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/) (2026-03-23)
-- [Apple Maps may be about to get ads](https://techcrunch.com/2026/03/23/apple-maps-may-be-about-to-get-ads/) (2026-03-23)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [AI boom risks widening wealth divide, says BlackRock's Larry Fink](https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink) (2026-03-23)
-- [Pentagon Adopts New Limits for Journalists After Court Loss](https://www.nytimes.com/2026/03/23/business/media/pentagon-closes-journalists-work-area.html) (2026-03-23)
-- [Study: Workers who fall for 'corporate bullshit' may be worse at their jobs](https://www.theguardian.com/business/2026/mar/23/corporate-speak-study) (2026-03-23)
-- [Windows 3.1 tiled background .bmp archive](https://github.com/andreasjansson/win-3.1-backgrounds) (2026-03-23)
-- [IRIX 3dfx Voodoo driver and glide2x IRIX port](https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/) (2026-03-23)
+- [Log File Viewer for the Terminal](https://lnav.org/) (2026-03-24)
+- [Microsoft blocks trick to unlock native NVMe driver, but workarounds still exist](https://www.tomshardware.com/software/windows/microsoft-blocks-the-registry-hack-trick-that-unlocked-native-nvme-performance-on-windows-11) (2026-03-24)
+- [Ubisoft's death by a thousand cuts](https://www.thegamebusiness.com/p/ubisofts-death-by-a-thousand-cuts) (2026-03-24)
+- [Sunsetting the Techempower Framework Benchmarks](https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932) (2026-03-24)
+- [Epoch confirms GPT5.4 Pro solved a frontier math open problem](https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs) (2026-03-24)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Multi-stage attacks are the Final Fantasy bosses of security](https://stackoverflow.blog/2026/03/24/multi-stage-attacks-are-the-final-fantasy-bosses-of-security/) (2026-03-24)
 - [After all the hype, was 2025 really the year of AI agents?](https://stackoverflow.blog/2026/03/20/was-2025-really-the-year-of-ai-agents/) (2026-03-20)
 - [AI is becoming a second brain at the expense of your first one](https://stackoverflow.blog/2026/03/19/ai-is-becoming-a-second-brain-at-the-expense-of-your-first-one/) (2026-03-19)
 - [Building a global engineering team (plus AI agents) with Netlify](https://stackoverflow.blog/2026/03/19/building-a-global-engineering-team-netlify/) (2026-03-19)
 - [Keeping the lights on for open source ](https://stackoverflow.blog/2026/03/17/keeping-the-lights-on-for-open-source/) (2026-03-17)
-- [Domain expertise still wanted: the latest trends in AI-assisted knowledge for developers](https://stackoverflow.blog/2026/03/16/domain-expertise-still-wanted-the-latest-trends-in-ai/) (2026-03-16)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Best Image Search Tool for E-commerce Sellers in 2026](https://dev.to/ironman_9756998bd01234a73/best-image-search-tool-for-e-commerce-sellers-in-2026-4efa) (2026-03-24)
-- [How to Set Up Stripe Subscriptions in Next.js 16 (Complete Guide)](https://dev.to/huangyongshan46a11y/how-to-set-up-stripe-subscriptions-in-nextjs-16-complete-guide-phd) (2026-03-24)
-- [My MacBook Went Offline — So I Ditched Overleaf for TeX64](https://dev.to/tex64/my-macbook-went-offline-so-i-ditched-overleaf-for-tex64-1mal) (2026-03-24)
-- [Open Source Marketing: The Complete Guide for 2026](https://dev.to/iris1031/open-source-marketing-the-complete-guide-for-2026-jp3) (2026-03-24)
-- [How to Monitor & Improve Workplace Operations](https://dev.to/aloycwl/how-to-monitor-improve-workplace-operations-477l) (2026-03-24)
+- [What Web3 Looks Like in 2026 and Where It Is Headed by 2030](https://dev.to/ribhavmodi/what-web3-looks-like-in-2026-and-where-it-is-headed-by-2030-2lb4) (2026-03-24)
+- [Your SaaS File Uploads Are Slower Than They Need to Be](https://dev.to/voltageitlabs/your-saas-file-uploads-are-slower-than-they-need-to-be-ebb) (2026-03-24)
+- [Your Email Sounds Too Aggressive and You Know It. Here's How to Fix It in 2 Minutes](https://dev.to/skippy_magnificent_8cce24/your-email-sounds-too-aggressive-and-you-know-it-heres-how-to-fix-it-in-2-minutes-5coc) (2026-03-24)
+- [useMediaQuery: Complete Guide to Responsive Design in React](https://dev.to/childrentime/usemediaquery-complete-guide-to-responsive-design-in-react-4n1k) (2026-03-24)
+- [Deploying CVAT on AWS for Image and Video Annotation](https://dev.to/gowtham21/deploying-cvat-on-aws-for-image-and-video-annotation-425i) (2026-03-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Claude Code + OpenClaw Fixed My Bugs While I Slept](https://medium.com/@vasu_ghanta/claude-code-openclaw-fixed-my-bugs-while-i-slept-4cd1bdab3e38?source=rss------programming-5) (2026-03-24)
-- [MiroFish: The Digital Sand Table for Predicting the Future](https://medium.com/@jiten.p.oswal/mirofish-the-digital-sand-table-for-predicting-the-future-f5d99881add6?source=rss------programming-5) (2026-03-24)
-- [Complete Guide: Using AWS Features in Laravel (Beginner → Advanced)](https://medium.com/@waiyan.toshima12/complete-guide-using-aws-features-in-laravel-beginner-advanced-ff7b6e26c82b?source=rss------programming-5) (2026-03-24)
-- [The Execution Bug That Turned My Trading System Short](https://medium.com/@bkrulicki/the-execution-bug-that-turned-my-trading-system-short-70824a76ae6e?source=rss------programming-5) (2026-03-24)
-- [I Used AI Every Day… But Didn’t Actually Understand It (Until This Clicked)](https://medium.com/readers-club/i-used-ai-every-day-but-didnt-actually-understand-it-until-this-clicked-bcf61a1dde17?source=rss------programming-5) (2026-03-24)
+- [7 Python Workflows I Built Just to Save 10 Minutes (Totally Worth It)](https://levelup.gitconnected.com/7-python-workflows-i-built-just-to-save-10-minutes-totally-worth-it-87eb5922dc24?source=rss------programming-5) (2026-03-24)
+- [Struggling With CS Assignments in Massachusetts? Here’s What Actually Works](https://medium.com/@hannahmiller7879/struggling-with-cs-assignments-in-massachusetts-heres-what-actually-works-1c8005ae9839?source=rss------programming-5) (2026-03-24)
+- [Mr. Bean – Beginning Story (Life Start)](https://medium.com/@mianhammad305/mr-bean-beginning-story-life-start-8cdce6f5e530?source=rss------programming-5) (2026-03-24)
+- [10 Python Tricks I Only Learned After 4 Years of Coding](https://levelup.gitconnected.com/10-python-tricks-i-only-learned-after-4-years-of-coding-df749698a4db?source=rss------programming-5) (2026-03-24)
+- [Java vs Python -I Chose the Wrong One (Cost Me Money)](https://medium.com/@devlogicwrites/java-vs-python-i-chose-the-wrong-one-cost-me-money-78df6e2a8bb9?source=rss------programming-5) (2026-03-24)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Advancing agentic AI with Microsoft databases across a unified data estate](https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/) (2026-03-18)
+- [FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/) (2026-03-18)
+- [Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI](https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/) (2026-03-16)
+- [From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation](https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/) (2026-03-16)
 - [Modernizing regulated industries with cloud and agentic AI](https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/) (2026-03-11)
-- [Many agents, one team: Scaling modernization on Azure](https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/) (2026-03-11)
-- [Introducing Fireworks AI on Microsoft Foundry: Bringing high performance, low latency open model inference to Azure](https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/) (2026-03-11)
-- [Unpacking your top questions on agentic AI: The Shift podcast](https://azure.microsoft.com/en-us/blog/unpacking-your-top-questions-on-agentic-ai-the-shift-podcast/) (2026-03-09)
-- [The economics of enterprise AI: What the Forrester TEI study reveals about Microsoft Foundry](https://azure.microsoft.com/en-us/blog/the-economics-of-enterprise-ai-what-the-forrester-tei-study-reveals-about-microsoft-foundry/) (2026-03-06)
 
 </details>
 
@@ -152,11 +152,11 @@
 <details>
 <summary>🍎 Apple Developer News</summary>
 
-- [WWDC26: June 8-12, 2026](https://developer.apple.com/news/?id=yi8qj25k) (2026-03-23)
 - [Apple Developer is now on bilibili and LinkedIn](https://developer.apple.com/news/?id=yts4l6mh) (2026-03-17)
 - [Adjustments to the China storefront of the App Store on iOS and iPadOS](https://developer.apple.com/news/?id=dadukodv) (2026-03-13)
 - [Hello Developer: March 2026](https://developer.apple.com/news/?id=zmqipz05) (2026-03-03)
 - [Age requirements for apps distributed in Brazil, Australia, Singapore, Utah, and Louisiana](https://developer.apple.com/news/?id=f5zj08ey) (2026-02-24)
+- [Get ready with the latest beta releases](https://developer.apple.com/news/?id=xgkk9w83) (2026-02-16)
 
 </details>
 
@@ -362,6 +362,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+How to Use Google Sheets as a Database for Your PHP App
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/use-google-sheets-as-database-for-php-app
+) (2026-03-23)
+- [
 Building a Greeting Card Generator with the Lovable Twilio Connector
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/greeting-card-generator-lovable-twilio-connector
@@ -381,11 +386,6 @@ Build a WhatsApp AI Agent with Node.js, Twilio Messaging, and OpenAI’s GPT-5
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/whatsapp-ai-agent-twilio-openai
 ) (2026-03-12)
-- [
-Community, AI in Action, and Twilio News: Reflections on Our Biggest User Group Yet
-](
-https://www.twilio.com/en-us/blog/events/twilio-segment-user-group-london-feb-2026
-) (2026-03-11)
 
 </details>
 
@@ -546,11 +546,11 @@ https://www.twilio.com/en-us/blog/events/twilio-segment-user-group-london-feb-20
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [A New Framework for Evaluating Voice Agents (EVA)](https://huggingface.co/blog/ServiceNow-AI/eva) (2026-03-24)
 - [Build a Domain-Specific Embedding Model in Under a Day](https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune) (2026-03-20)
 - [What's New in Mellea 0.4.0 + Granite Libraries Release](https://huggingface.co/blog/ibm-granite/granite-libraries) (2026-03-20)
 - [State of Open Source on Hugging Face: Spring 2026](https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026) (2026-03-17)
 - [Holotron-12B - High Throughput Computer Use Agent](https://huggingface.co/blog/Hcompany/holotron-12b) (2026-03-17)
-- [Introducing Storage Buckets on the Hugging Face Hub](https://huggingface.co/blog/storage-buckets) (2026-03-10)
 
 </details>
 
