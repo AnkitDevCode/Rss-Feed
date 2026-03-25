@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [A former Thiel fellow’s startup just launched a drone it says can replace police helicopters](https://techcrunch.com/2026/03/24/a-former-thiel-fellows-startup-just-launched-a-drone-it-says-can-replace-police-helicopters/) (2026-03-25)
 - [Amazon just bought a startup making kid-size humanoid robots](https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/) (2026-03-25)
 - [With $3.5B in fresh capital, Kleiner Perkins is going all in on AI](https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/) (2026-03-25)
 - [New Mexico just handed Meta its first courtroom defeat over child safety, and the rest of the country is watching](https://techcrunch.com/2026/03/24/new-mexico-just-handed-meta-its-first-courtroom-defeat-over-child-safety-and-the-rest-of-the-country-is-watching/) (2026-03-25)
 - [Lululemon bets Epoch Biodesign can eat its shorts, literally](https://techcrunch.com/2026/03/24/lululemon-bets-epoch-biodesign-can-eat-its-shorts-literally/) (2026-03-25)
-- [OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down](https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/) (2026-03-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [In Edison’s Revenge, Data Centers Are Transitioning From AC to DC](https://spectrum.ieee.org/data-center-dc) (2026-03-25)
-- [Zero-Cost POSIX Compliance: Encoding the Socket State Machine in Lean's Types](https://ngrislain.github.io/blog/2026-3-25-zerocost-posix-compliance-encoding-the-socket-state-machine-in-lean-4s-type-system/) (2026-03-25)
-- [Flighty Airports](https://flighty.com/airports) (2026-03-25)
-- [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj) (2026-03-24)
-- [I wanted to build vertical SaaS for pest control, so I took a technician job](https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead) (2026-03-24)
+- [Implementing automatic eSIM installation on Android](https://medium.com/proandroiddev/integration-of-automatic-esim-installation-on-android-6c5f6d7124cb) (2026-03-25)
+- [TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/) (2026-03-25)
+- [Social media bans and digital curfews to be trialled on UK teenagers](https://www.bbc.com/news/articles/cn89g3ngkyzo) (2026-03-25)
+- [Miscellanea: The War in Iran](https://acoup.blog/2026/03/25/miscellanea-the-war-in-iran/) (2026-03-25)
+- [Meta ordered to pay $375M in New Mexico trial over child exploitation](https://www.reuters.com/sustainability/boards-policy-regulation/jury-orders-meta-pay-375-mln-new-mexico-lawsuit-over-child-sexual-exploitation-2026-03-24/) (2026-03-25)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The BB-777 is the ultimate in boombox nostalgia](https://www.theverge.com/tech/897876/the-bb-777-is-the-ultimate-in-boombox-nostalgia) (2026-03-25)
 - [Instagram and Facebook are about to be filled with affiliate content](https://www.theverge.com/news/899717/meta-instagram-facebook-affiliate-shopping-links-reels) (2026-03-24)
 - [Meta misled users about its products’ safety, jury decides](https://www.theverge.com/policy/899910/meta-new-mexico-jury-verdict) (2026-03-24)
 - [NASA wants to put a $20 billion base on the Moon](https://www.theverge.com/science/899891/nasa-moon-base-mars-nuclear-power-jared-isaacman) (2026-03-24)
 - [What is ICE actually doing at the airport?](https://www.theverge.com/policy/899855/ice-airports-tsa-shutdown-dhs-jfk) (2026-03-24)
-- [OpenAI just gave up on Sora and its billion-dollar Disney deal](https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt) (2026-03-24)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- ["The last straw"—RFK Jr.'s anti-vaccine ally angrily quits CDC panel after spat](https://arstechnica.com/health/2026/03/rfk-jr-anti-vaccine-ally-dramatically-quits-cdc-panel-complaining-of-drama/) (2026-03-25)
 - [Final analysis of 2025 Iberian blackout: Policies left Spain at risk](https://arstechnica.com/science/2026/03/final-analysis-of-2025-iberian-blackout-policies-left-spain-at-risk/) (2026-03-24)
 - [Newly purchased Vizio TVs now require Walmart accounts to use smart features](https://arstechnica.com/gadgets/2026/03/newly-purchased-vizio-tvs-now-require-walmart-accounts-to-use-smart-features/) (2026-03-24)
 - [Mozilla dev's "Stack Overflow for agents" targets a key weakness in coding AI](https://arstechnica.com/ai/2026/03/mozilla-dev-introduces-cq-a-stack-overflow-for-agents/) (2026-03-24)
 - [OpenAI announces plans to shut down its Sora video generator](https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/) (2026-03-24)
-- [Electronic Frontier Foundation to swap leaders as AI, ICE fights escalate](https://arstechnica.com/tech-policy/2026/03/trump-made-opposing-government-spying-cool-again-effs-departing-chief-says/) (2026-03-24)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Temperature Conversion Is Not Just F to C (The Edge Cases Will Surprise You)](https://dev.to/alphashark/temperature-conversion-is-not-just-f-to-c-the-edge-cases-will-surprise-you-3nna) (2026-03-25)
-- [Europe PMC Has a Free API — Search 40M+ Biomedical Papers With Full Text](https://dev.to/0012303/europe-pmc-has-a-free-api-search-40m-biomedical-papers-with-full-text-1b9g) (2026-03-25)
-- [Unpaywall Has a Free API — Find Open Access Versions of Any Paywalled Paper](https://dev.to/0012303/unpaywall-has-a-free-api-find-open-access-versions-of-any-paywalled-paper-n0i) (2026-03-25)
-- [Boolean Algebra Simplification: The Missing Step Between Theory and Working Code](https://dev.to/alphashark/boolean-algebra-simplification-the-missing-step-between-theory-and-working-code-43n2) (2026-03-25)
-- [CORE API: Search 260M+ Scientific Papers Across All Repositories (Free)](https://dev.to/0012303/core-api-search-260m-scientific-papers-across-all-repositories-free-3oh1) (2026-03-25)
+- [🚀 Blackbox AI Review: Code as Fast as You Think? (2026 Guide)](https://dev.to/sarveshupadhyay21/blackbox-ai-review-code-as-fast-as-you-think-2026-guide-m3p) (2026-03-25)
+- [What is an Object in Java?](https://dev.to/vidya_cdd37fca763a53a10e2/what-is-an-object-in-java-2f81) (2026-03-25)
+- [Factory Worker to Programmer: Navigating Career Transition Without a Degree](https://dev.to/ilyatech/factory-worker-to-programmer-navigating-career-transition-without-a-degree-2779) (2026-03-25)
+- [How Difficult is the AI-900 Certification Exam? A Beginner’s Perspective](https://dev.to/datta_kharad_3fd1383b5036/how-difficult-is-the-ai-900-certification-exam-a-beginners-perspective-3ph8) (2026-03-25)
+- [JavaScript Array Methods Cheat Sheet 2025 (Complete Reference)](https://dev.to/_d7eb1c1703182e3ce1782/javascript-array-methods-cheat-sheet-2025-complete-reference-4ffp) (2026-03-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [From Script to Engine: Evolution of Playwright with YAML](https://ai.plainenglish.io/from-script-to-engine-evolution-of-playwright-with-yaml-b80952851253?source=rss------programming-5) (2026-03-25)
-- [The Sovereign Developer: Why Local AI is the Final Piece of the Linux Puzzle](https://medium.com/@Opensauce.pedro.sousa/the-sovereign-developer-why-local-ai-is-the-final-piece-of-the-linux-puzzle-5f40902db109?source=rss------programming-5) (2026-03-25)
-- [The Abstraction Ladder: From Binary Cards to AI Skills — And Why Level 5 Changes Everything](https://medium.com/@raphaelbernardo/the-abstraction-ladder-from-binary-cards-to-ai-skills-and-why-level-5-changes-everything-6ff94b53840b?source=rss------programming-5) (2026-03-25)
-- [The War Inside Your Database](https://medium.com/write-a-catalyst/the-war-inside-your-database-365bb3560b58?source=rss------programming-5) (2026-03-25)
-- [8 Python Projects That Combine AI With Real-World Automation](https://ai.plainenglish.io/8-python-projects-that-combine-ai-with-real-world-automation-b68fedb30dce?source=rss------programming-5) (2026-03-25)
+- [Distributed Python with Wool: Hello World](https://medium.com/@bzurak/distributed-python-with-wool-hello-world-6f75d3b63529?source=rss------programming-5) (2026-03-25)
+- [Microservices vs Monolith: The Lie We Keep Telling Developers](https://medium.com/write-a-catalyst/microservices-vs-monolith-the-lie-we-keep-telling-developers-8ed7ad83d9c2?source=rss------programming-5) (2026-03-25)
+- [Your First 5 Years as a Developer Will Break You — Unless You Avoid These 12 Architecture Traps](https://awstip.com/your-first-5-years-as-a-developer-will-break-you-unless-you-avoid-these-12-architecture-traps-35f9472d3ffb?source=rss------programming-5) (2026-03-25)
+- [Salesforce Flow Orchestration — When One Flow Is Not Enough](https://medium.com/@aiforgein25/salesforce-flow-orchestration-when-one-flow-is-not-enough-d02135197a3f?source=rss------programming-5) (2026-03-25)
+- [We Reduced API Response Time from 5 Minutes to 2 Seconds Using Spring Boot Pagination](https://medium.com/@CodersWorld99/we-reduced-api-response-time-from-5-minutes-to-2-seconds-using-spring-boot-pagination-c426d0f1cc00?source=rss------programming-5) (2026-03-25)
 
 </details>
 
@@ -579,11 +579,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/whatsapp-ai-
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Top 46 AI Tools in 2026 You Must Use](https://www.analyticsvidhya.com/blog/2026/03/top-ai-tools-to-use/) (2026-03-25)
 - [Top 5 Free Google Certificate Courses in 2026](https://www.analyticsvidhya.com/blog/2026/03/free-google-certificate-courses/) (2026-03-24)
 - [Mistral Small 4: The One Model That Codes, Reasons, and Chats](https://www.analyticsvidhya.com/blog/2026/03/mistral-small-4/) (2026-03-24)
 - [Guide to Propensity Score Matching for Causal Inference to Estimate True Impact](https://www.analyticsvidhya.com/blog/2026/03/guide-propensity-score-matching-causal-inference/) (2026-03-23)
 - [Top 10 YouTube Channels to Learn Machine Learning](https://www.analyticsvidhya.com/blog/2026/03/youtube-channels-to-learn-machine-learning/) (2026-03-23)
-- [Top 10 AI Coding Assistants of 2026](https://www.analyticsvidhya.com/blog/2026/03/ai-coding-assistants/) (2026-03-22)
 
 </details>
 
