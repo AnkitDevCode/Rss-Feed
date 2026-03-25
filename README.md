@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [OpenAI adds open source tools to help developers build for teen safety](https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/) (2026-03-24)
-- [Talat’s AI meeting notes stay on your machine, not in the cloud](https://techcrunch.com/2026/03/24/talats-ai-meeting-notes-stay-on-your-machine-not-in-the-cloud/) (2026-03-24)
-- [BKR Capital raises $14.5M (so far) to  invest in Black founders](https://techcrunch.com/2026/03/24/bkr-capital-raises-14-5m-so-far-to-invest-in-black-founders/) (2026-03-24)
-- [Crunchyroll confirms data breach after hacker claims unauthorized access](https://techcrunch.com/2026/03/24/crunchyroll-confirms-data-breach-after-hacker-claims-unauthorized-access/) (2026-03-24)
-- [Doss raises $55M for AI inventory management that plugs into ERP](https://techcrunch.com/2026/03/24/doss-raises-55m-for-ai-inventory-management-that-plugs-into-erp/) (2026-03-24)
+- [Amazon just bought a startup making kid-size humanoid robots](https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/) (2026-03-25)
+- [With $3.5B in fresh capital, Kleiner Perkins is going all in on AI](https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/) (2026-03-25)
+- [New Mexico just handed Meta its first courtroom defeat over child safety, and the rest of the country is watching](https://techcrunch.com/2026/03/24/new-mexico-just-handed-meta-its-first-courtroom-defeat-over-child-safety-and-the-rest-of-the-country-is-watching/) (2026-03-25)
+- [Lululemon bets Epoch Biodesign can eat its shorts, literally](https://techcrunch.com/2026/03/24/lululemon-bets-epoch-biodesign-can-eat-its-shorts-literally/) (2026-03-25)
+- [OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down](https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/) (2026-03-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Atomic Display Switching: Solving](https://github.com/piot5/displayflow_cli) (2026-03-24)
-- [Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains](https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/) (2026-03-24)
-- [ARM AGI CPU: Specs and SKUs](https://sbcwiki.com/docs/soc-manufacturers/arm/arm-silicon/) (2026-03-24)
-- [Lago (YC S21) Is Hiring](https://getlago.notion.site/Lago-Product-Engineer-AI-Agents-for-Growth-327ef63110d280cdb030ccf429d3e4d7?source=copy_link) (2026-03-24)
-- [Country that put backdoors in Cisco routers to spy on world bans foreign routers](https://www.theregister.com/2026/03/24/fcc_foreign_routers/) (2026-03-24)
+- [In Edison’s Revenge, Data Centers Are Transitioning From AC to DC](https://spectrum.ieee.org/data-center-dc) (2026-03-25)
+- [Zero-Cost POSIX Compliance: Encoding the Socket State Machine in Lean's Types](https://ngrislain.github.io/blog/2026-3-25-zerocost-posix-compliance-encoding-the-socket-state-machine-in-lean-4s-type-system/) (2026-03-25)
+- [Flighty Airports](https://flighty.com/airports) (2026-03-25)
+- [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj) (2026-03-24)
+- [I wanted to build vertical SaaS for pest control, so I took a technician job](https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead) (2026-03-24)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The Lego Game Boy makes for a great gift, and it’s $10 off today](https://www.theverge.com/gadgets/899688/lego-game-boy-set-nintendo-handheld-kohls-deal-sale) (2026-03-24)
-- [The Apple Watch SE 3 is even easier to recommend at $50 off](https://www.theverge.com/gadgets/899671/apple-watch-se-third-generation-deal-sale) (2026-03-24)
-- [ChatGPT and Gemini are fighting to be the AI bot that sells you stuff](https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features) (2026-03-24)
-- [Welp, I bought an iPhone again](https://www.theverge.com/tech/899602/best-phone-android-ios-app-store) (2026-03-24)
-- [A BlackBerry you might actually want just landed on Kickstarter](https://www.theverge.com/tech/899632/unihertz-titan-2-elite-pro-android-blackberry-smartphone-pricing-kickstarter-preorder) (2026-03-24)
+- [Instagram and Facebook are about to be filled with affiliate content](https://www.theverge.com/news/899717/meta-instagram-facebook-affiliate-shopping-links-reels) (2026-03-24)
+- [Meta misled users about its products’ safety, jury decides](https://www.theverge.com/policy/899910/meta-new-mexico-jury-verdict) (2026-03-24)
+- [NASA wants to put a $20 billion base on the Moon](https://www.theverge.com/science/899891/nasa-moon-base-mars-nuclear-power-jared-isaacman) (2026-03-24)
+- [What is ICE actually doing at the airport?](https://www.theverge.com/policy/899855/ice-airports-tsa-shutdown-dhs-jfk) (2026-03-24)
+- [OpenAI just gave up on Sora and its billion-dollar Disney deal](https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt) (2026-03-24)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [All of DOGE’s work could be undone as lawsuit against Musk proceeds](https://arstechnica.com/tech-policy/2026/03/all-of-doges-work-could-be-undone-as-lawsuit-against-musk-proceeds/) (2026-03-24)
-- [Claude Code can now take over your computer to complete tasks](https://arstechnica.com/ai/2026/03/claude-code-can-now-take-over-your-computer-to-complete-tasks/) (2026-03-24)
-- [Study says roads bring more fires to forests; USDA wants more roads to fight fires](https://arstechnica.com/science/2026/03/study-says-roads-bring-more-fire-to-forests-usda-wants-more-roads-to-fight-fires/) (2026-03-24)
-- [Self-propagating malware poisons open source software and wipes Iran-based machines](https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/) (2026-03-24)
-- [Orbital data centers, part 1: There’s no way this is economically viable, right?](https://arstechnica.com/space/2026/03/orbital-data-centers-part-1-theres-no-way-this-is-economically-viable-right/) (2026-03-24)
+- [Final analysis of 2025 Iberian blackout: Policies left Spain at risk](https://arstechnica.com/science/2026/03/final-analysis-of-2025-iberian-blackout-policies-left-spain-at-risk/) (2026-03-24)
+- [Newly purchased Vizio TVs now require Walmart accounts to use smart features](https://arstechnica.com/gadgets/2026/03/newly-purchased-vizio-tvs-now-require-walmart-accounts-to-use-smart-features/) (2026-03-24)
+- [Mozilla dev's "Stack Overflow for agents" targets a key weakness in coding AI](https://arstechnica.com/ai/2026/03/mozilla-dev-introduces-cq-a-stack-overflow-for-agents/) (2026-03-24)
+- [OpenAI announces plans to shut down its Sora video generator](https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/) (2026-03-24)
+- [Electronic Frontier Foundation to swap leaders as AI, ICE fights escalate](https://arstechnica.com/tech-policy/2026/03/trump-made-opposing-government-spying-cool-again-effs-departing-chief-says/) (2026-03-24)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Light vs Electricity — 3 Physics Reasons Why CPO Can't Save 13.4 J/token](https://dev.to/plasmon_imp/light-vs-electricity-3-physics-reasons-why-cpo-cant-save-134-jtoken-1plm) (2026-03-24)
-- [3D Chip Stacking Has a Warpage Problem — GNNs and RTX 4060 Benchmarks Show Why](https://dev.to/plasmon_imp/3d-chip-stacking-has-a-warpage-problem-gnns-and-rtx-4060-benchmarks-show-why-31p7) (2026-03-24)
-- [March 26 - Advances in AI at Northeastern Virtual Meetup](https://dev.to/voxel51/march-26-advances-in-ai-at-northeastern-virtual-meetup-32gb) (2026-03-24)
-- [Why Your Custom NemoClaw LLM Takes Forever to Respond (Or Completely Ignores You)](https://dev.to/minhiu/why-your-custom-nemoclaw-llm-takes-forever-to-respond-or-completely-ignores-you-237h) (2026-03-24)
-- [LiteLLM Was Compromised. That's Why I'm Building GoModel](https://dev.to/santiago-pl/litellm-was-compromised-thats-why-im-building-gomodel-nmm) (2026-03-24)
+- [Temperature Conversion Is Not Just F to C (The Edge Cases Will Surprise You)](https://dev.to/alphashark/temperature-conversion-is-not-just-f-to-c-the-edge-cases-will-surprise-you-3nna) (2026-03-25)
+- [Europe PMC Has a Free API — Search 40M+ Biomedical Papers With Full Text](https://dev.to/0012303/europe-pmc-has-a-free-api-search-40m-biomedical-papers-with-full-text-1b9g) (2026-03-25)
+- [Unpaywall Has a Free API — Find Open Access Versions of Any Paywalled Paper](https://dev.to/0012303/unpaywall-has-a-free-api-find-open-access-versions-of-any-paywalled-paper-n0i) (2026-03-25)
+- [Boolean Algebra Simplification: The Missing Step Between Theory and Working Code](https://dev.to/alphashark/boolean-algebra-simplification-the-missing-step-between-theory-and-working-code-43n2) (2026-03-25)
+- [CORE API: Search 260M+ Scientific Papers Across All Repositories (Free)](https://dev.to/0012303/core-api-search-260m-scientific-papers-across-all-repositories-free-3oh1) (2026-03-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Read Every Email My Startup Sent in 2024 (9,847 Total)](https://medium.com/lets-code-future/i-read-every-email-my-startup-sent-in-2024-9-847-total-606265cd76d5?source=rss------programming-5) (2026-03-24)
-- [Android Room Database: 6 Advanced Queries You Should Know](https://trricho.medium.com/android-room-database-6-advanced-queries-you-should-know-2c2e1d158add?source=rss------programming-5) (2026-03-24)
-- [What Is Git? (Explained Like You’re 12)](https://medium.com/@lucyb0207/what-is-git-explained-like-youre-12-c23bc6ddd50c?source=rss------programming-5) (2026-03-24)
-- [Reference Orbits Explained: The Hidden Backbone of Extreme Mandelbrot Zooms](https://medium.com/@michaelstebel/reference-orbits-explained-the-hidden-backbone-of-extreme-mandelbrot-zooms-f6119c7b9781?source=rss------programming-5) (2026-03-24)
-- [What Really Happens During a Tech Layoff (I Was the Manager)](https://javascript.plainenglish.io/what-really-happens-during-a-tech-layoff-i-was-the-manager-e8f9bc42d1f8?source=rss------programming-5) (2026-03-24)
+- [From Script to Engine: Evolution of Playwright with YAML](https://ai.plainenglish.io/from-script-to-engine-evolution-of-playwright-with-yaml-b80952851253?source=rss------programming-5) (2026-03-25)
+- [The Sovereign Developer: Why Local AI is the Final Piece of the Linux Puzzle](https://medium.com/@Opensauce.pedro.sousa/the-sovereign-developer-why-local-ai-is-the-final-piece-of-the-linux-puzzle-5f40902db109?source=rss------programming-5) (2026-03-25)
+- [The Abstraction Ladder: From Binary Cards to AI Skills — And Why Level 5 Changes Everything](https://medium.com/@raphaelbernardo/the-abstraction-ladder-from-binary-cards-to-ai-skills-and-why-level-5-changes-everything-6ff94b53840b?source=rss------programming-5) (2026-03-25)
+- [The War Inside Your Database](https://medium.com/write-a-catalyst/the-war-inside-your-database-365bb3560b58?source=rss------programming-5) (2026-03-25)
+- [8 Python Projects That Combine AI With Real-World Automation](https://ai.plainenglish.io/8-python-projects-that-combine-ai-with-real-world-automation-b68fedb30dce?source=rss------programming-5) (2026-03-25)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Advancing agentic AI with Microsoft databases across a unified data estate](https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/) (2026-03-18)
+- [FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/) (2026-03-18)
 - [Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI](https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/) (2026-03-16)
 - [From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation](https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/) (2026-03-16)
 - [Modernizing regulated industries with cloud and agentic AI](https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/) (2026-03-11)
-- [Many agents, one team: Scaling modernization on Azure](https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/) (2026-03-11)
-- [Introducing Fireworks AI on Microsoft Foundry: Bringing high performance, low latency open model inference to Azure](https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/) (2026-03-11)
 
 </details>
 
@@ -163,11 +163,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Contact Picker: Privacy-First Contact Sharing](https://android-developers.googleblog.com/2026/03/contact-picker-privacy-first-contact.html) (2026-03-24)
 - [Beyond Infotainment: Extending Android Automotive OS for Software-defined Vehicles](https://android-developers.googleblog.com/2026/03/Beyond-Infotainment-Extending-Android-Automotive-OS-for-Software-defined-Vehicles.html) (2026-03-24)
 - [Android developer verification: Balancing openness and choice with safety](https://android-developers.googleblog.com/2026/03/android-developer-verification.html) (2026-03-19)
 - [Get inspired and take your apps to desktop](https://android-developers.googleblog.com/2026/03/Get-inspired-and-take-your-apps-to-desktop.html) (2026-03-16)
 - [Room 3.0 - Modernizing the Room](https://android-developers.googleblog.com/2026/03/room-30-modernizing-room.html) (2026-03-13)
-- [TikTok reduces code size by 58% and improves app performance for new features with Jetpack Compose](https://android-developers.googleblog.com/2026/03/tiktok-reduces-code-size-by-58.html) (2026-03-13)
 
 </details>
 
@@ -196,11 +196,11 @@
 <details>
 <summary>🟩 Node.js Blog</summary>
 
-- [Tuesday, March 24, 2026 Security Releases](https://nodejs.org/en/blog/vulnerability/march-2026-security-releases) (2026-03-17)
-- [Node.js 25.8.1 (Current)](https://nodejs.org/en/blog/release/v25.8.1) (2026-03-11)
-- [Evolving the Node.js Release Schedule](https://nodejs.org/en/blog/announcements/evolving-the-nodejs-release-schedule) (2026-03-10)
-- [Node.js 22.22.1 (LTS)](https://nodejs.org/en/blog/release/v22.22.1) (2026-03-05)
-- [Node.js 20.20.1 (LTS)](https://nodejs.org/en/blog/release/v20.20.1) (2026-03-05)
+- [Node.js 25.8.2 (Current)](https://nodejs.org/en/blog/release/v25.8.2) (2026-03-24)
+- [Node.js 24.14.1 (LTS)](https://nodejs.org/en/blog/release/v24.14.1) (2026-03-24)
+- [Node.js 22.22.2 (LTS)](https://nodejs.org/en/blog/release/v22.22.2) (2026-03-24)
+- [Node.js 20.20.2 (LTS)](https://nodejs.org/en/blog/release/v20.20.2) (2026-03-24)
+- [Tuesday, March 24, 2026 Security Releases](https://nodejs.org/en/blog/vulnerability/march-2026-security-releases) (2026-03-24)
 
 </details>
 
@@ -317,7 +317,7 @@
 <details>
 <summary>📝 Visual Studio Code</summary>
 
-- [Visual Studio Code 1.113 ](https://code.visualstudio.com/updates/v1_113) (2026-03-25)
+- [Visual Studio Code 1.113](https://code.visualstudio.com/updates/v1_113) (2026-03-25)
 - [Visual Studio Code 1.112](https://code.visualstudio.com/updates/v1_112) (2026-03-18)
 - [How VS Code Builds with AI](https://code.visualstudio.com/blogs/2026/03/13/how-VS-Code-Builds-with-AI) (2026-03-13)
 - [Visual Studio Code 1.111](https://code.visualstudio.com/updates/v1_111) (2026-03-09)
