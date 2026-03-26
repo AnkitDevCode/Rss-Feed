@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The least surprising chapter of the Manus story is what’s happening right now](https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/) (2026-03-26)
 - [Mercor competitor Deccan AI raises $25M, sources experts from India](https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/) (2026-03-26)
 - [Delve did the security compliance on LiteLLM, an AI project hit by malware](https://techcrunch.com/2026/03/25/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/) (2026-03-26)
 - [The AI skills gap is here, says AI company, and power users are pulling ahead](https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/) (2026-03-25)
 - [Convicted spyware chief hints that Greece’s government was behind dozens of phone hacks](https://techcrunch.com/2026/03/25/convicted-spyware-chief-hints-that-greeces-government-was-behind-dozens-of-phone-hacks/) (2026-03-25)
-- [Who’s driving Waymo’s self-driving cars? Sometimes, the police.](https://techcrunch.com/2026/03/25/waymo-robotaxi-roadside-assistance-emergency-first-responders/) (2026-03-25)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [False claims in a widely-cited paper. No corrections. No consequences](https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/?unapproved=2412259&moderation-hash=80fae7fdc82aee50eb3cb14cd8c0b080#comment-2412259) (2026-03-26)
+- [Show HN: Robust LLM Extractor for Websites in TypeScript](https://github.com/lightfeed/extractor) (2026-03-26)
+- [False claims in a widely-cited paper](https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/) (2026-03-26)
 - [Woman who never stopped updating her lost dog's chip reunites with him after 11y](https://www.cbc.ca/radio/asithappens/11-year-dog-reunion-9.7140780) (2026-03-25)
 - [Show HN: A plain-text cognitive architecture for Claude Code](https://lab.puga.com.br/cog/) (2026-03-25)
-- [Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/) (2026-03-25)
-- [The EU still wants to scan  your private messages and photos](https://fightchatcontrol.eu/?foo=bar) (2026-03-25)
+- ["Disregard That" Attacks](https://calpaterson.com/disregard.html) (2026-03-25)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Intent to Specs: Agentic Specification Protocol](https://dev.to/the_binary_moat/intent-to-specs-agentic-specification-protocol-3ho2) (2026-03-26)
-- [Hacker News Has a Free API — No Key, No Auth, No Limits](https://dev.to/0012303/hacker-news-has-a-free-api-no-key-no-auth-no-limits-1ih3) (2026-03-26)
-- [What We Actually Ship With MissionControl](https://dev.to/benixbuzz/what-we-actually-ship-with-missioncontrol-1n7n) (2026-03-26)
-- [HarmonyOS provides multiple network request frameworks, including RCP (Remote Communication Kit), HTTP/HTTPS in Network Kit……](https://dev.to/harmonyos/harmonyos-provides-multiple-network-request-frameworks-including-rcp-remote-communication-kit-5ca3) (2026-03-26)
-- [PyPI Supply Chain Defense: Protecting Your Mac from Compromised Packages](https://dev.to/mazharul/pypi-supply-chain-defense-protecting-your-mac-from-compromised-packages-35ih) (2026-03-26)
+- [🚀 DevOps Roadmap 2026](https://dev.to/devops_descent/devops-roadmap-2026-42ej) (2026-03-26)
+- [Building a Full-Stack Data Grid App with Next.js, Prisma, and AG Grid](https://dev.to/malloc72p/building-a-full-stack-data-grid-app-with-nextjs-prisma-and-ag-grid-1abg) (2026-03-26)
+- [AntiGravity: Getting the Most Out of Agentic Coding with Rules, Skills, and Workflows](https://dev.to/malloc72p/antigravity-getting-the-most-out-of-agentic-coding-with-rules-skills-and-workflows-54pb) (2026-03-26)
+- [I built a Chrome extension because I just wanted to write notes](https://dev.to/ipodovinnikov/i-built-a-chrome-extension-because-i-just-wanted-to-write-notes-20j8) (2026-03-26)
+- [Why I Built Pulzivo — One Tool for Both Web and Product Analytics (No More Choosing)](https://dev.to/pulzivo/why-i-built-pulzivo-one-tool-for-both-web-and-product-analytics-no-more-choosing-4nh4) (2026-03-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [What is The Best Language for Claude Code in 2026 ?](https://medium.com/top-python-libraries/what-is-the-best-language-for-claude-code-in-2026-1f1d2ee74823?source=rss------programming-5) (2026-03-26)
-- [Agentic Design Is the Missing Skill Behind Reliable AI Agents](https://medium.com/@shivanimaurya811282/agentic-design-is-the-missing-skill-behind-reliable-ai-agents-e4a55e7644f1?source=rss------programming-5) (2026-03-26)
-- [The Complete Claude Architect Study Guide (With Code and Tutor Prompts)](https://medium.com/data-science-collective/the-complete-claude-architect-study-guide-with-code-and-tutor-prompts-01f524e95c92?source=rss------programming-5) (2026-03-26)
-- [Why 60,000 Repos Adopted AGENTS.md](https://medium.com/@bob.bobster1910_8811/why-60-000-repos-adopted-agents-md-f1c6d280e019?source=rss------programming-5) (2026-03-26)
-- [TypeScript, 10년 만에 JavaScript를 버리다](https://eheh34w.medium.com/typescript-10%EB%85%84-%EB%A7%8C%EC%97%90-javascript%EB%A5%BC-%EB%B2%84%EB%A6%AC%EB%8B%A4-9c52e5b4f283?source=rss------programming-5) (2026-03-26)
+- [How I built my first Chrome extension as a Java developer — and why simple tools sometimes work…](https://medium.com/@ievgenii.podovinnikov/how-i-built-my-first-chrome-extension-as-a-java-developer-and-why-simple-tools-sometimes-work-9e64b8e11870?source=rss------programming-5) (2026-03-26)
+- [Rust vs Java: The Real Performance vs Productivity Trade-Off](https://medium.com/@premchandak_11/rust-vs-java-the-real-performance-vs-productivity-trade-off-c0a4a15d300c?source=rss------programming-5) (2026-03-26)
+- [Top Artificial Intelligence Projects for Students in 2026 (Easy & Real-Time Ideas)](https://medium.com/@hariprasadymts/top-artificial-intelligence-projects-for-students-in-2026-easy-real-time-ideas-c0a221bc12e1?source=rss------programming-5) (2026-03-26)
+- [Rick ASCII — Turning a Rickroll into Characters](https://medium.com/@jordanohara/rick-ascii-turning-a-rickroll-into-characters-defafeb48c04?source=rss------programming-5) (2026-03-26)
+- [Rolling Your Own DRM: A Case Study in Why You Shouldn’t](https://medium.com/@felix_42627/rolling-your-own-drm-a-case-study-in-why-you-shouldnt-c495f3631ea0?source=rss------programming-5) (2026-03-26)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [AI for nuclear energy: Powering an intelligent, resilient future](https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/) (2026-03-25)
+- [What’s new with Microsoft in open-source and Kubernetes at KubeCon + CloudNativeCon Europe 2026](https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/) (2026-03-24)
 - [Advancing agentic AI with Microsoft databases across a unified data estate](https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/) (2026-03-18)
 - [FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/) (2026-03-18)
 - [Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI](https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/) (2026-03-16)
-- [From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation](https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/) (2026-03-16)
-- [Modernizing regulated industries with cloud and agentic AI](https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/) (2026-03-11)
 
 </details>
 
