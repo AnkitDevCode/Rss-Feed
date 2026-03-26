@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Riding the GLP-1 boom, VITL lands $7.5M to overhaul cash-pay clinic prescribing](https://techcrunch.com/2026/03/25/riding-the-glp-1-boom-vitl-lands-7-5m-to-overhaul-cash-pay-clinic-prescribing/) (2026-03-25)
-- [Jury finds Meta and Google negligent in landmark social media addiction trial](https://techcrunch.com/2026/03/25/jury-finds-meta-and-youtube-negligent-in-landmark-social-media-addiction-trial/) (2026-03-25)
-- [Meta is cutting several hundred jobs](https://techcrunch.com/2026/03/25/meta-is-cutting-several-hundred-jobs/) (2026-03-25)
-- [Apple overhauls its app developer platform with 100 new metrics, more tools](https://techcrunch.com/2026/03/25/apple-overhauls-its-app-developer-platform-with-100-new-metrics-more-tools/) (2026-03-25)
-- [Bernie Sanders and AOC propose a ban on data center construction](https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/) (2026-03-25)
+- [Mercor competitor Deccan AI raises $25M, sources experts from India](https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/) (2026-03-26)
+- [Delve did the security compliance on LiteLLM, an AI project hit by malware](https://techcrunch.com/2026/03/25/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/) (2026-03-26)
+- [The AI skills gap is here, says AI company, and power users are pulling ahead](https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/) (2026-03-25)
+- [Convicted spyware chief hints that Greece’s government was behind dozens of phone hacks](https://techcrunch.com/2026/03/25/convicted-spyware-chief-hints-that-greeces-government-was-behind-dozens-of-phone-hacks/) (2026-03-25)
+- [Who’s driving Waymo’s self-driving cars? Sometimes, the police.](https://techcrunch.com/2026/03/25/waymo-robotaxi-roadside-assistance-emergency-first-responders/) (2026-03-25)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Meta and Google found liable in social media addiction trial](https://www.bbc.co.uk/news/articles/c747x7gz249o) (2026-03-25)
-- [Meta and YouTube Found Negligent in Landmark Social Media Addiction Case](https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html) (2026-03-25)
-- [Tracy Kidder, Author of 'The Soul of a New Machine,' Dies at 80](https://www.nytimes.com/2026/03/25/books/tracy-kidder-dead.html) (2026-03-25)
-- [Jury says Meta knowingly harmed children for profit, awarding landmark verdict](https://www.latimes.com/business/story/2026-03-25/jury-says-meta-knowingly-harmed-children-for-profit-awarding-landmark-verdict) (2026-03-25)
-- [Slovenian officials blame Israeli firm Black Cube for trying to manipulate vote](https://www.wsj.com/world/europe/spies-lies-and-fake-investors-in-disguise-how-plotters-tried-to-flip-a-european-election-1f42b39a) (2026-03-25)
+- [False claims in a widely-cited paper. No corrections. No consequences](https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/?unapproved=2412259&moderation-hash=80fae7fdc82aee50eb3cb14cd8c0b080#comment-2412259) (2026-03-26)
+- [Woman who never stopped updating her lost dog's chip reunites with him after 11y](https://www.cbc.ca/radio/asithappens/11-year-dog-reunion-9.7140780) (2026-03-25)
+- [Show HN: A plain-text cognitive architecture for Claude Code](https://lab.puga.com.br/cog/) (2026-03-25)
+- [Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/) (2026-03-25)
+- [The EU still wants to scan  your private messages and photos](https://fightchatcontrol.eu/?foo=bar) (2026-03-25)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Can you monitor a situation without monitors? The Polymarket sports bar tried](https://www.theverge.com/column/900536/alliance-for-a-better-future-polymarket) (2026-03-25)
-- [The United States router ban, explained](https://www.theverge.com/tech/899906/fcc-router-ban-march-2026-explainer) (2026-03-25)
-- [Meta and YouTube found negligent in landmark social media addiction case](https://www.theverge.com/policy/900654/meta-google-instagram-youtube-social-media-addiction-trial-kgm-jury-decision) (2026-03-25)
-- [Nintendo is going to charge less for digital Switch 2 games](https://www.theverge.com/games/900590/nintendo-switch-2-digital-games-pricing) (2026-03-25)
-- [X tries to limit creator revenue for foreign influencers but Musk intervenes](https://www.theverge.com/tech/900535/x-creator-payouts-american-politics-elon-musk) (2026-03-25)
+- [Intel and LG Display may have beaten Apple and Qualcomm with the best laptop battery life ever](https://www.theverge.com/tech/901155/dell-xps-16-best-battery-lg-display-1hz-panther-lake-intel) (2026-03-26)
+- [The Sonos Ace are a hefty 25 percent for Amazon’s Big Spring Sale](https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal) (2026-03-25)
+- [The best deals we’ve found from Amazon’s Big Spring Sale (so far)](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals) (2026-03-25)
+- [The portable Fanttik X9 Pro tire inflator is down to its best price in months](https://www.theverge.com/gadgets/900863/fanttik-x9-pro-portable-tire-inflator-amazon-big-spring-sale-deal-sale) (2026-03-25)
+- [Meta is laying off hundreds of employees as it pours money into AI](https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees) (2026-03-25)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Supreme Court rejects Sony's attempt to kick music pirates off the Internet](https://arstechnica.com/tech-policy/2026/03/supreme-court-rejects-sonys-attempt-to-kick-music-pirates-off-the-internet/) (2026-03-25)
-- [Google's TurboQuant AI-compression algorithm can reduce LLM memory usage by 6x](https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/) (2026-03-25)
-- [Antibiotic resistance among germs swells during droughts, study suggests](https://arstechnica.com/health/2026/03/antibiotic-resistance-among-germs-swells-during-droughts-study-suggests/) (2026-03-25)
-- [Trump staffs science and technology panel with non-scientists](https://arstechnica.com/science/2026/03/trump-staffs-science-and-technology-panel-with-non-scientists/) (2026-03-25)
-- [Google bumps up Q Day deadline to 2029, far sooner than previously thought](https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/) (2026-03-25)
+- [BRINC's new police drone uses Starlink, carries Narcan, chases vehicles at 60mph](https://arstechnica.com/gadgets/2026/03/brincs-new-police-drone-uses-starlink-carries-narcan-chases-vehicles-at-60mph/) (2026-03-25)
+- [Here is NASA's plan for nuking Gateway and sending it to Mars](https://arstechnica.com/space/2026/03/here-is-nasas-plan-for-nuking-gateway-and-sending-it-to-mars/) (2026-03-25)
+- [Reddit will require "fishy" accounts to verify they are run by a human](https://arstechnica.com/gadgets/2026/03/reddit-will-require-fishy-accounts-to-verify-they-are-run-by-a-human/) (2026-03-25)
+- [We got an audience with the "Lunar Viceroy" to talk how NASA will build a Moon base](https://arstechnica.com/space/2026/03/we-got-an-audience-with-the-lunar-viceroy-to-talk-how-nasa-will-build-a-moon-base/) (2026-03-25)
+- [Meta, YouTube must pay $3M to woman who got hooked on apps as a child](https://arstechnica.com/tech-policy/2026/03/meta-youtube-must-pay-3m-to-woman-who-got-hooked-on-apps-as-a-child/) (2026-03-25)
 
 </details>
 
@@ -75,11 +75,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Updates to GitHub Copilot interaction data usage policy](https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/) (2026-03-25)
 - [Building AI-powered GitHub issue triage with the Copilot SDK](https://github.blog/ai-and-ml/github-copilot/building-ai-powered-github-issue-triage-with-the-copilot-sdk/) (2026-03-24)
 - [GitHub expands application security coverage with AI‑powered detections](https://github.blog/security/application-security/github-expands-application-security-coverage-with-ai-powered-detections/) (2026-03-23)
 - [Rethinking open source mentorship in the AI era](https://github.blog/open-source/maintainers/rethinking-open-source-mentorship-in-the-ai-era/) (2026-03-19)
 - [How Squad runs coordinated AI agents inside your repository](https://github.blog/ai-and-ml/github-copilot/how-squad-runs-coordinated-ai-agents-inside-your-repository/) (2026-03-19)
-- [Investing in the people shaping open source and securing the future together](https://github.blog/security/supply-chain-security/investing-in-the-people-shaping-open-source-and-securing-the-future-together/) (2026-03-17)
 
 </details>
 
@@ -97,33 +97,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [CVE-2026-33650: CVE-2026-33650: Privilege Escalation via Incorrect Authorization in WWBN AVideo](https://dev.to/cverports/cve-2026-33650-cve-2026-33650-privilege-escalation-via-incorrect-authorization-in-wwbn-avideo-123l) (2026-03-25)
-- [I finally published a side project I wrote 4 years ago](https://dev.to/yashdatir/i-finally-published-a-side-project-i-wrote-4-years-ago-46il) (2026-03-25)
-- [Setup a DNS hosted zone in Route53 in AWS.](https://dev.to/jonah_blessy/setup-a-dns-hosted-zone-in-route53-in-aws-71j) (2026-03-25)
-- [The software industry is ready to grow](https://dev.to/ben/the-software-industry-is-ready-to-grow-4ie4) (2026-03-25)
-- [Non-First Normal Forms and MongoDB: an alternative to 4NF to address 3NF anomalies](https://dev.to/franckpachot/non-first-normal-forms-1nf-and-mongodb-an-alternative-to-4nf-to-address-3nf-anomalies-17i8) (2026-03-25)
+- [Intent to Specs: Agentic Specification Protocol](https://dev.to/the_binary_moat/intent-to-specs-agentic-specification-protocol-3ho2) (2026-03-26)
+- [Hacker News Has a Free API — No Key, No Auth, No Limits](https://dev.to/0012303/hacker-news-has-a-free-api-no-key-no-auth-no-limits-1ih3) (2026-03-26)
+- [What We Actually Ship With MissionControl](https://dev.to/benixbuzz/what-we-actually-ship-with-missioncontrol-1n7n) (2026-03-26)
+- [HarmonyOS provides multiple network request frameworks, including RCP (Remote Communication Kit), HTTP/HTTPS in Network Kit……](https://dev.to/harmonyos/harmonyos-provides-multiple-network-request-frameworks-including-rcp-remote-communication-kit-5ca3) (2026-03-26)
+- [PyPI Supply Chain Defense: Protecting Your Mac from Compromised Packages](https://dev.to/mazharul/pypi-supply-chain-defense-protecting-your-mac-from-compromised-packages-35ih) (2026-03-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Turned Down $280K at Google (Here’s The Math)](https://medium.com/lets-code-future/i-turned-down-280k-at-google-heres-the-math-335df736fc8f?source=rss------programming-5) (2026-03-25)
-- [Why Engineering Pushback Is Often Misinterpreted by Product Teams](https://observabilityguy.medium.com/why-engineering-pushback-is-often-misinterpreted-by-product-teams-04dd56621954?source=rss------programming-5) (2026-03-25)
-- [The Modern World’s Obsession with Coding: Why We Must Not Forget Mathematics and Physics](https://medium.com/@khatunshaila02/the-modern-worlds-obsession-with-coding-why-we-must-not-forget-mathematics-and-physics-04d1a6980c12?source=rss------programming-5) (2026-03-25)
-- [How NOT to Become an AI Engineer](https://medium.com/@sathiyajithbabusm/how-not-to-become-an-ai-engineer-857a6f809511?source=rss------programming-5) (2026-03-25)
-- [I Asked Some Senior Programmers If Coding Was Still Fun For Them](https://medium.com/code-chaos/i-asked-some-senior-programmers-if-coding-was-still-fun-for-them-02f2b8601b56?source=rss------programming-5) (2026-03-25)
+- [What is The Best Language for Claude Code in 2026 ?](https://medium.com/top-python-libraries/what-is-the-best-language-for-claude-code-in-2026-1f1d2ee74823?source=rss------programming-5) (2026-03-26)
+- [Agentic Design Is the Missing Skill Behind Reliable AI Agents](https://medium.com/@shivanimaurya811282/agentic-design-is-the-missing-skill-behind-reliable-ai-agents-e4a55e7644f1?source=rss------programming-5) (2026-03-26)
+- [The Complete Claude Architect Study Guide (With Code and Tutor Prompts)](https://medium.com/data-science-collective/the-complete-claude-architect-study-guide-with-code-and-tutor-prompts-01f524e95c92?source=rss------programming-5) (2026-03-26)
+- [Why 60,000 Repos Adopted AGENTS.md](https://medium.com/@bob.bobster1910_8811/why-60-000-repos-adopted-agents-md-f1c6d280e019?source=rss------programming-5) (2026-03-26)
+- [TypeScript, 10년 만에 JavaScript를 버리다](https://eheh34w.medium.com/typescript-10%EB%85%84-%EB%A7%8C%EC%97%90-javascript%EB%A5%BC-%EB%B2%84%EB%A6%AC%EB%8B%A4-9c52e5b4f283?source=rss------programming-5) (2026-03-26)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Announcing Amazon Aurora PostgreSQL serverless database creation in seconds](https://aws.amazon.com/blogs/aws/announcing-amazon-aurora-postgresql-serverless-database-creation-in-seconds/) (2026-03-25)
 - [AWS Weekly Roundup: NVIDIA Nemotron 3 Super on Amazon Bedrock, Nova Forge SDK, Amazon Corretto 26, and more (March 23, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-nvidia-nemotron-3-super-on-amazon-bedrock-nova-forge-sdk-amazon-corretto-26-and-more-march-23-2026/) (2026-03-23)
 - [20 years in the AWS Cloud – how time flies!](https://aws.amazon.com/blogs/aws/20-years-in-the-aws-cloud-how-time-flies/) (2026-03-19)
 - [Our First 2026 AWS Heroes Cohort Is Here!](https://aws.amazon.com/blogs/aws/our-first-2026-heroes-cohort-is-here/) (2026-03-18)
 - [AWS Weekly Roundup: Amazon S3 turns 20, Amazon Route 53 Global Resolver general availability, and more (March 16, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-s3-turns-20-amazon-route-53-global-resolver-general-availability-and-more-march-16-2026/) (2026-03-16)
-- [Twenty years of Amazon S3 and building what’s next](https://aws.amazon.com/blogs/aws/twenty-years-of-amazon-s3-and-building-whats-next/) (2026-03-13)
 
 </details>
 
@@ -141,11 +141,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [The Future of AI Is Open and Proprietary](https://blogs.nvidia.com/blog/ai-future-open-and-proprietary/) (2026-03-25)
 - [Blowing Off Steam: How Power-Flexible AI Factories Can Stabilize the Global Energy Grid](https://blogs.nvidia.com/blog/power-flexible-ai-factories-energy-grid/) (2026-03-25)
 - [Advancing Open Source AI, NVIDIA Donates Dynamic Resource Allocation Driver for GPUs to Kubernetes Community](https://blogs.nvidia.com/blog/nvidia-at-kubecon-2026/) (2026-03-24)
 - [How Autonomous AI Agents Become Secure by Design With NVIDIA OpenShell](https://blogs.nvidia.com/blog/secure-autonomous-ai-agents-openshell/) (2026-03-23)
 - [NVIDIA GTC 2026: Live Updates on What’s Next in AI](https://blogs.nvidia.com/blog/gtc-2026-news/) (2026-03-20)
-- [Smooth Moves: 90 Frames-Per-Second Virtual Reality Arrives on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-virtual-reality-update/) (2026-03-19)
 
 </details>
 
@@ -535,11 +535,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/whatsapp-ai-
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [Flight Recorder: A New Lens for Understanding NCCL Watchdog Timeouts](https://pytorch.org/blog/flight-recorder-a-new-lens-for-understanding-nccl-watchdog-timeouts/) (2026-03-25)
 - [Enabling Up to 41% Faster Pre-training: MXFP8 and DeepEP for DeepSeek-V3 on B200 with TorchTitan](https://pytorch.org/blog/enabling-up-to-41-faster-pre-training-mxfp8-and-deepep-for-deepseek-v3-on-b200-with-torchtitan/) (2026-03-25)
 - [PyTorch 2.11 Release Blog](https://pytorch.org/blog/pytorch-2-11-release-blog/) (2026-03-23)
 - [PyTorch 2.10+TorchAO: Powering AIPC scenarios on Intel® Core™ Ultra Series 3 processors](https://pytorch.org/blog/pytorch-2-10torchao/) (2026-03-20)
 - [TorchSpec: Speculative Decoding Training at Scale](https://pytorch.org/blog/torchspec-speculative-decoding-training-at-scale/) (2026-03-19)
-- [Generalized Dot-Product Attention: Tackling Real-World Challenges in GPU Training Kernels](https://pytorch.org/blog/generalized-dot-product-attention-tackling-real-world-challenges-in-gpu-training-kernels/) (2026-03-18)
 
 </details>
 
