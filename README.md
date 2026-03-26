@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [WhatsApp can now draft AI-generated responses based on your conversations](https://techcrunch.com/2026/03/26/whatsapp-can-now-draft-ai-generated-responses-based-on-your-conversations/) (2026-03-26)
+- [A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses](https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/) (2026-03-26)
+- [Mistral releases a new open-source model for speech generation](https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/) (2026-03-26)
+- [A little-known Croatian startup is coming for the robotaxi market with help from Uber](https://techcrunch.com/2026/03/26/a-little-known-croatian-startup-is-coming-for-the-robotaxi-market-with-help-from-uber/) (2026-03-26)
 - [The least surprising chapter of the Manus story is what’s happening right now](https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/) (2026-03-26)
-- [Mercor competitor Deccan AI raises $25M, sources experts from India](https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/) (2026-03-26)
-- [Delve did the security compliance on LiteLLM, an AI project hit by malware](https://techcrunch.com/2026/03/25/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/) (2026-03-26)
-- [The AI skills gap is here, says AI company, and power users are pulling ahead](https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/) (2026-03-25)
-- [Convicted spyware chief hints that Greece’s government was behind dozens of phone hacks](https://techcrunch.com/2026/03/25/convicted-spyware-chief-hints-that-greeces-government-was-behind-dozens-of-phone-hacks/) (2026-03-25)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: Robust LLM Extractor for Websites in TypeScript](https://github.com/lightfeed/extractor) (2026-03-26)
-- [False claims in a widely-cited paper](https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/) (2026-03-26)
-- [Woman who never stopped updating her lost dog's chip reunites with him after 11y](https://www.cbc.ca/radio/asithappens/11-year-dog-reunion-9.7140780) (2026-03-25)
-- [Show HN: A plain-text cognitive architecture for Claude Code](https://lab.puga.com.br/cog/) (2026-03-25)
-- ["Disregard That" Attacks](https://calpaterson.com/disregard.html) (2026-03-25)
+- [European Parliament decided that Chat Control 1.0 must stop](https://bsky.app/profile/tuta.com/post/3mhxkfowv322c) (2026-03-26)
+- [End of "Chat Control": EU Parliament Stops Mass Surveillance in Voting Thriller](https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection/) (2026-03-26)
+- [Landmark L.A. jury verdict finds Instagram, YouTube were designed to addict kids](https://www.latimes.com/california/story/2026-03-25/social-media-lawsuit-trial-meta-google-verdict) (2026-03-26)
+- [LibreOffice and the Art of Overreacting](https://blog.documentfoundation.org/blog/2026/03/25/libreoffice-and-the-art-of-overreacting/) (2026-03-26)
+- [Swift 6.3](https://www.swift.org/blog/swift-6.3-released/) (2026-03-26)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Intel and LG Display may have beaten Apple and Qualcomm with the best laptop battery life ever](https://www.theverge.com/tech/901155/dell-xps-16-best-battery-lg-display-1hz-panther-lake-intel) (2026-03-26)
-- [The Sonos Ace are a hefty 25 percent for Amazon’s Big Spring Sale](https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal) (2026-03-25)
-- [The best deals we’ve found from Amazon’s Big Spring Sale (so far)](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals) (2026-03-25)
-- [The portable Fanttik X9 Pro tire inflator is down to its best price in months](https://www.theverge.com/gadgets/900863/fanttik-x9-pro-portable-tire-inflator-amazon-big-spring-sale-deal-sale) (2026-03-25)
-- [Meta is laying off hundreds of employees as it pours money into AI](https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees) (2026-03-25)
+- [Webtoon is adding AI localization tools to its comics platform](https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim) (2026-03-26)
+- [The versatile Play speaker is a great way into the Sonos world](https://www.theverge.com/tech/901105/sonos-play-speaker-review) (2026-03-26)
+- [EU backs nude app ban and delays to landmark AI rules ](https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps) (2026-03-26)
+- [DJI’s Avata 360 is a more functional, flexible 360 drone](https://www.theverge.com/tech/899735/dji-avata-360-release-date-price-specs-impressions-antigravity-a1-comparison) (2026-03-26)
+- [OpenAI shelves erotic chatbot &#8216;indefinitely&#8217;](https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely) (2026-03-26)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The snow gods: How a couple of ski bums built the internet’s best weather app](https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/) (2026-03-26)
+- [Are high gas prices good news for EVs? It’s complicated.](https://www.technologyreview.com/2026/03/26/1134677/gas-prices-electric-vehicles/) (2026-03-26)
 - [Roundtables: The Next Era of Space Exploration](https://www.technologyreview.com/2026/03/25/1134664/roundtables-the-next-era-of-space-exploration/) (2026-03-25)
 - [Why this battery company is pivoting to AI](https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/) (2026-03-25)
 - [This startup wants to change how mathematicians do math](https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/) (2026-03-25)
-- [The Download: reawakening frozen brains, and the AI Hype Index returns](https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/) (2026-03-25)
-- [Agentic commerce runs on truth and context](https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/) (2026-03-25)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [🚀 DevOps Roadmap 2026](https://dev.to/devops_descent/devops-roadmap-2026-42ej) (2026-03-26)
-- [Building a Full-Stack Data Grid App with Next.js, Prisma, and AG Grid](https://dev.to/malloc72p/building-a-full-stack-data-grid-app-with-nextjs-prisma-and-ag-grid-1abg) (2026-03-26)
-- [AntiGravity: Getting the Most Out of Agentic Coding with Rules, Skills, and Workflows](https://dev.to/malloc72p/antigravity-getting-the-most-out-of-agentic-coding-with-rules-skills-and-workflows-54pb) (2026-03-26)
-- [I built a Chrome extension because I just wanted to write notes](https://dev.to/ipodovinnikov/i-built-a-chrome-extension-because-i-just-wanted-to-write-notes-20j8) (2026-03-26)
-- [Why I Built Pulzivo — One Tool for Both Web and Product Analytics (No More Choosing)](https://dev.to/pulzivo/why-i-built-pulzivo-one-tool-for-both-web-and-product-analytics-no-more-choosing-4nh4) (2026-03-26)
+- [Designing Game Economies: Why Spreadsheets Eventually Break](https://dev.to/sam_novak_574b07811e18495/designing-game-economies-why-spreadsheets-eventually-break-g5k) (2026-03-26)
+- [What Competitor Pages to Monitor and How Often to Take Screenshots](https://dev.to/webmox/what-competitor-pages-to-monitor-and-how-often-to-take-screenshots-12l0) (2026-03-26)
+- [Web Scraping at Scale: From 1K to 10M Pages](https://dev.to/agenthustler/web-scraping-at-scale-from-1k-to-10m-pages-4ggk) (2026-03-26)
+- [Building an agent harness with AI](https://dev.to/chinmaymk/building-an-agent-harness-with-ai-5c06) (2026-03-26)
+- [What is Fedora](https://dev.to/abonyo/what-if-fedora-nbd) (2026-03-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How I built my first Chrome extension as a Java developer — and why simple tools sometimes work…](https://medium.com/@ievgenii.podovinnikov/how-i-built-my-first-chrome-extension-as-a-java-developer-and-why-simple-tools-sometimes-work-9e64b8e11870?source=rss------programming-5) (2026-03-26)
-- [Rust vs Java: The Real Performance vs Productivity Trade-Off](https://medium.com/@premchandak_11/rust-vs-java-the-real-performance-vs-productivity-trade-off-c0a4a15d300c?source=rss------programming-5) (2026-03-26)
-- [Top Artificial Intelligence Projects for Students in 2026 (Easy & Real-Time Ideas)](https://medium.com/@hariprasadymts/top-artificial-intelligence-projects-for-students-in-2026-easy-real-time-ideas-c0a221bc12e1?source=rss------programming-5) (2026-03-26)
-- [Rick ASCII — Turning a Rickroll into Characters](https://medium.com/@jordanohara/rick-ascii-turning-a-rickroll-into-characters-defafeb48c04?source=rss------programming-5) (2026-03-26)
-- [Rolling Your Own DRM: A Case Study in Why You Shouldn’t](https://medium.com/@felix_42627/rolling-your-own-drm-a-case-study-in-why-you-shouldnt-c495f3631ea0?source=rss------programming-5) (2026-03-26)
+- [ Deep Dive into the JavaScript Event Loop](https://medium.com/@manaswinisasmal5597/deep-dive-into-the-javascript-event-loop-9a093fe3f01f?source=rss------programming-5) (2026-03-26)
+- [How to Convert XML to YAML Easily (Free Online Tool)](https://medium.com/@aryav5859/how-to-convert-xml-to-yaml-easily-free-online-tool-cae9e2de127f?source=rss------programming-5) (2026-03-26)
+- [Practical Guide to HTTPSSE in Delphi 13.1](https://alenibric.medium.com/practical-guide-to-httpsse-in-delphi-13-1-a4f0c471fc35?source=rss------programming-5) (2026-03-26)
+- [The AI Productivity Numbers Are Contradicting Each Other.](https://drodil.medium.com/the-ai-productivity-numbers-are-contradicting-each-other-ed29afddfe96?source=rss------programming-5) (2026-03-26)
+- [“Ouais mais moi j’utilise Docker et ça marche très bien”](https://medium.com/@ongamira/ouais-mais-moi-jutilise-docker-et-%C3%A7a-marche-tr%C3%A8s-bien-312ea2c2eb1f?source=rss------programming-5) (2026-03-26)
 
 </details>
 
@@ -128,24 +128,13 @@
 </details>
 
 <details>
-<summary>🔵 Azure Blog</summary>
-
-- [AI for nuclear energy: Powering an intelligent, resilient future](https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/) (2026-03-25)
-- [What’s new with Microsoft in open-source and Kubernetes at KubeCon + CloudNativeCon Europe 2026](https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/) (2026-03-24)
-- [Advancing agentic AI with Microsoft databases across a unified data estate](https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/) (2026-03-18)
-- [FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/) (2026-03-18)
-- [Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI](https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/) (2026-03-16)
-
-</details>
-
-<details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Game On: Five New Titles Now Streaming on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-screamer/) (2026-03-26)
 - [The Future of AI Is Open and Proprietary](https://blogs.nvidia.com/blog/ai-future-open-and-proprietary/) (2026-03-25)
 - [Blowing Off Steam: How Power-Flexible AI Factories Can Stabilize the Global Energy Grid](https://blogs.nvidia.com/blog/power-flexible-ai-factories-energy-grid/) (2026-03-25)
 - [Advancing Open Source AI, NVIDIA Donates Dynamic Resource Allocation Driver for GPUs to Kubernetes Community](https://blogs.nvidia.com/blog/nvidia-at-kubecon-2026/) (2026-03-24)
 - [How Autonomous AI Agents Become Secure by Design With NVIDIA OpenShell](https://blogs.nvidia.com/blog/secure-autonomous-ai-agents-openshell/) (2026-03-23)
-- [NVIDIA GTC 2026: Live Updates on What’s Next in AI](https://blogs.nvidia.com/blog/gtc-2026-news/) (2026-03-20)
 
 </details>
 
@@ -306,11 +295,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
-- [Best CI Tools for 2026: What the Data Actually Shows](https://blog.jetbrains.com/teamcity/2026/03/best-ci-tools/) (2026-03-25)
+- [RubyMine 2026.1: AI Chat Upgrades, New Code Insight, Stable Remote Development, and More ](https://blog.jetbrains.com/ruby/2026/03/rubymine-2026-1-ai-chat-upgrades-new-code-insight-stable-remote-development-and-more/) (2026-03-26)
+- [GoLand 2026.1 Is Released](https://blog.jetbrains.com/go/2026/03/26/goland-2026-1-is-released/) (2026-03-26)
+- [CLion 2026.1 Is Here](https://blog.jetbrains.com/clion/2026/03/2026-1-release/) (2026-03-26)
+- [Best CI/CD Tools for 2026: What the Data Actually Shows](https://blog.jetbrains.com/teamcity/2026/03/best-ci-tools/) (2026-03-25)
 - [Expanding Our Core Web Development Support in PyCharm 2026.1](https://blog.jetbrains.com/pycharm/2026/03/expanding-our-core-web-development-support-in-pycharm-2026-1/) (2026-03-25)
-- [WebStorm 2026.1: Service-powered TypeScript Engine, Junie, Claude Agent, and Codex in the AI chat, Framework Updates, and More](https://blog.jetbrains.com/webstorm/2026/03/webstorm-2026-1/) (2026-03-25)
-- [IntelliJ IDEA 2026.1 Is Out!](https://blog.jetbrains.com/idea/2026/03/intellij-idea-2026-1/) (2026-03-25)
-- [What’s fixed in IntelliJ IDEA 2026.1](https://blog.jetbrains.com/idea/2026/03/whats-fixed-intellij-idea-2026-1/) (2026-03-25)
 
 </details>
 
@@ -328,11 +317,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [Getting started with GitLab feature flags in Python](https://about.gitlab.com/blog/getting-started-with-gitlab-feature-flags-in-python/) (2026-03-26)
 - [Manage vulnerability noise at scale with auto-dismiss policies](https://about.gitlab.com/blog/auto-dismiss-vulnerability-management-policy/) (2026-03-25)
 - [Agile planning gets a boost from new features in GitLab 18.10](https://about.gitlab.com/blog/agile-planning-gets-a-boost-from-new-features-in-gitlab-18-10/) (2026-03-23)
 - [GitLab 18.10 brings AI-native triage and remediation](https://about.gitlab.com/blog/gitlab-18-10-brings-ai-native-triage-and-remediation/) (2026-03-19)
 - [GitLab 18.10: Agentic AI now open to even more teams on GitLab](https://about.gitlab.com/blog/gitlab-18-10-agentic-ai-now-open-to-even-more-teams-on-gitlab/) (2026-03-19)
-- [Agentic code reviews for $0.25 each](https://about.gitlab.com/blog/agentic-code-reviews-with-flat-rate-pricing/) (2026-03-19)
 
 </details>
 
@@ -557,33 +546,33 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/whatsapp-ai-
 <details>
 <summary>🤖 AI News</summary>
 
+- [RPA matters, but AI changes how automation works](https://www.artificialintelligence-news.com/news/rpa-still-matters-but-ai-is-changing-how-automation-works/) (2026-03-26)
 - [Ocorian: Family offices turn to AI for financial data insights](https://www.artificialintelligence-news.com/news/ocorian-family-offices-ai-for-financial-data-insights/) (2026-03-25)
 - [AI agents enter banking roles at Bank of America](https://www.artificialintelligence-news.com/news/ai-agents-enter-banking-roles-at-bank-of-america/) (2026-03-25)
 - [Automating complex finance workflows with multimodal AI](https://www.artificialintelligence-news.com/news/automating-complex-finance-workflows-with-multimodal-ai/) (2026-03-24)
 - [Securing AI systems under today’s and tomorrow’s conditions](https://www.artificialintelligence-news.com/news/quantum-resilient-ai-needs-migration-and-hardware-protected-data-enclaves/) (2026-03-24)
-- [Palantir AI to support UK finance operations](https://www.artificialintelligence-news.com/news/palantir-ai-to-support-uk-finance-operations/) (2026-03-23)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Beyond Code Generation: AI for the Full Data Science Workflow](https://towardsdatascience.com/beyond-code-generation-ai-for-the-full-data-science-workflow/) (2026-03-26)
+- [What the Bits-over-Random Metric Changed in How I Think About RAG and Agents](https://towardsdatascience.com/what-the-bits-over-random-metric-changed-in-how-i-think-about-rag-and-agents/) (2026-03-26)
 - [Following Up on Like-for-Like for Stores: Handling PY](https://towardsdatascience.com/follow-up-on-like-for-like-for-stores-handling-py/) (2026-03-25)
 - [The Machine Learning Lessons I’ve Learned This Month](https://towardsdatascience.com/the-machine-learning-lessons-ive-learned-this-month-5/) (2026-03-25)
 - [Building Human-In-The-Loop Agentic Workflows](https://towardsdatascience.com/building-human-in-the-loop-agentic-workflows/) (2026-03-25)
-- [My Models Failed. That’s How I Became a Better Data Scientist.](https://towardsdatascience.com/my-models-failed-thats-how-i-became-a-better-data-scientist/) (2026-03-25)
-- [How to Make Claude Code Improve from its Own Mistakes](https://towardsdatascience.com/how-to-make-claude-code-improve-from-its-mistakes/) (2026-03-24)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
-- [Is Claude Dispatch the End of OpenClaw?](https://www.analyticsvidhya.com/blog/2026/03/claude-cowork-dispatch/) (2026-03-25)
+- [20+ Solved AI Projects to Build Your Portfolio and Boost Your Resume](https://www.analyticsvidhya.com/blog/2026/03/solved-ai-projects/) (2026-03-26)
+- [Claude Dispatch: How to Use It for Remote AI Automation](https://www.analyticsvidhya.com/blog/2026/03/claude-cowork-dispatch/) (2026-03-25)
 - [Top 46 AI Tools in 2026 You Must Use](https://www.analyticsvidhya.com/blog/2026/03/top-ai-tools-to-use/) (2026-03-25)
 - [Top 5 Free Google Certificate Courses in 2026](https://www.analyticsvidhya.com/blog/2026/03/free-google-certificate-courses/) (2026-03-24)
 - [Mistral Small 4: The One Model That Codes, Reasons, and Chats](https://www.analyticsvidhya.com/blog/2026/03/mistral-small-4/) (2026-03-24)
-- [Guide to Propensity Score Matching for Causal Inference to Estimate True Impact](https://www.analyticsvidhya.com/blog/2026/03/guide-propensity-score-matching-causal-inference/) (2026-03-23)
 
 </details>
 
@@ -623,11 +612,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/whatsapp-ai-
 <details>
 <summary>🧠 DeepMind Blog</summary>
 
+- [Protecting people from harmful manipulation](https://deepmind.google/blog/protecting-people-from-harmful-manipulation/) (2026-03-25)
 - [Lyria 3 Pro: Create longer tracks in more](https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/) (2026-03-25)
 - [Measuring progress toward AGI: A cognitive framework](https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/) (2026-03-17)
 - [From games to biology and beyond: 10 years of AlphaGo’s impact](https://deepmind.google/blog/10-years-of-alphago/) (2026-03-09)
 - [Gemini 3.1 Flash-Lite: Built for intelligence at scale](https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/) (2026-03-03)
-- [Nano Banana 2: Combining Pro capabilities with lightning-fast speed](https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/) (2026-02-26)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
