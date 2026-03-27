@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/) (2026-03-27)
+- [A Faster Alternative to Jq](https://micahkepe.com/blog/jsongrep/) (2026-03-27)
+- [The European AllSky7 fireball network](https://www.allsky7.net/#archive) (2026-03-27)
 - [Schedule tasks on the web](https://code.claude.com/docs/en/web-scheduled-tasks) (2026-03-27)
-- [HandyMKV for MakeMKV and HandBrake Automation](https://github.com/dmars8047/handymkv) (2026-03-27)
 - [Agent-to-agent pair programming](https://axeldelafosse.com/blog/agent-to-agent-pair-programming) (2026-03-27)
-- [From 0% to 36% on Day 1 of ARC-AGI-3](https://www.symbolica.ai/blog/arc-agi-3) (2026-03-27)
-- [Chicago artist creates tourism posters for city's neighborhoods](https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/) (2026-03-26)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Sony is raising PS5 prices by $100 in April](https://www.theverge.com/games/902224/sony-ps5-playstation-price-hike) (2026-03-27)
+- [Rank the 50 best Apple products](https://www.theverge.com/cs/tech/900477/apple-50-anniversary-rank-products) (2026-03-27)
+- [Here’s how to rank the 50 best Apple products ever](https://www.theverge.com/podcast/901378/apple-50-anniversary-rank-vergecast) (2026-03-27)
 - [Judge sides with Anthropic to temporarily block the Pentagon&#8217;s ban](https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction) (2026-03-27)
 - [Brendan Carr says his broadcast license threat wasn&#8217;t really about Iran war coverage](https://www.theverge.com/policy/902132/brendan-carr-iran-broadcast-license-threat) (2026-03-26)
-- [David Sacks is no longer the White House AI and Crypto Czar](https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar) (2026-03-26)
-- [Robot vacuums from Eufy and Roborock are over 50 percent for Amazon’s spring sale](https://www.theverge.com/gadgets/901792/best-robot-vacuum-mops-amazon-big-spring-sale-2026-deals) (2026-03-26)
-- [Apple’s Mac Pro is dead, apparently for good this time](https://www.theverge.com/tech/902050/mac-pro-discontinued) (2026-03-26)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: the internet’s best weather app, and why people freeze their brains](https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/) (2026-03-27)
+- [Here’s why some people choose cryonics to store their bodies and brains after death](https://www.technologyreview.com/2026/03/27/1134705/cryonics-store-bodies-brains-after-death/) (2026-03-27)
 - [The Download: a battery pivot to AI, and rewriting math](https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/) (2026-03-26)
 - [The snow gods: How a couple of ski bums built the internet’s best weather app](https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/) (2026-03-26)
 - [Are high gas prices good news for EVs? It’s complicated.](https://www.technologyreview.com/2026/03/26/1134677/gas-prices-electric-vehicles/) (2026-03-26)
-- [Roundtables: The Next Era of Space Exploration](https://www.technologyreview.com/2026/03/25/1134664/roundtables-the-next-era-of-space-exploration/) (2026-03-25)
-- [Why this battery company is pivoting to AI](https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/) (2026-03-25)
 
 </details>
 
@@ -97,22 +97,11 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Inside a Cyber Attack: How Hackers Think, Operate, and Exploit Systems](https://dev.to/zerocool_2012/inside-a-cyber-attack-how-hackers-think-operate-and-exploit-systems-3mp3) (2026-03-27)
-- [How I built a SaaS that sends AI-written Stripe reports every Monday — and what I learned](https://dev.to/agarridodev/how-i-built-a-saas-that-sends-ai-written-stripe-reports-every-monday-and-what-i-learned-5dae) (2026-03-27)
-- [Why Your AI Agent Needs Memory](https://dev.to/o96a/why-your-ai-agent-needs-memory-f6k) (2026-03-27)
-- [Snowbin A social platform where conversations are mindmaps (Nuxt + Common Lisp)](https://dev.to/rrepo/snowbin-a-social-platform-where-conversations-are-mindmaps-nuxt-common-lisp-1a4n) (2026-03-27)
-- [🛠️ Crompressor: Reality Compilation - Teaching Data Centers to Recognize Their Own Data - 🔒 -P2P FUSE file system reducing data payload to 20%](https://dev.to/mrjc/crompressor-reality-compilation-teaching-data-centers-to-recognize-their-own-data-p2p-2i7i) (2026-03-27)
-
-</details>
-
-<details>
-<summary>✍️ Medium - Programming</summary>
-
-- [How I Built a Hierarchical AI Engineering Team (And Cut My Costs by 80%)](https://medium.com/@kamaldeepsingh1011/how-i-built-a-hierarchical-ai-engineering-team-and-cut-my-costs-by-80-5496a4258156?source=rss------programming-5) (2026-03-27)
-- [1 Million+ Color Palettes: The Ultimate Open-Source Library for Modern Designers](https://medium.com/@manoj10101996/1-million-color-palettes-the-ultimate-open-source-library-for-modern-designers-673dfdd10ccc?source=rss------programming-5) (2026-03-27)
-- [Python Is Not Dying. Here Is the Data That Proves It.](https://medium.com/@inprogrammer/python-is-not-dying-here-is-the-data-that-proves-it-3c9455901957?source=rss------programming-5) (2026-03-27)
-- [I built a useless web app this week, and its the best thing I did for myself](https://medium.com/@tabassumneha572/i-built-a-useless-web-app-this-week-and-its-the-best-thing-i-did-for-myself-ce299ded2edd?source=rss------programming-5) (2026-03-27)
-- [I Found Claude Code’s Hidden Notes About My Codebase. It Knew Everything.](https://medium.com/@adityasankhla_39073/i-found-claude-codes-hidden-notes-about-my-codebase-it-knew-everything-ecb95e30f48d?source=rss------programming-5) (2026-03-27)
+- [Error Handling in JavaScript: Try, Catch, Finally](https://dev.to/ritam369/error-handling-in-javascript-try-catch-finally-585k) (2026-03-27)
+- [Your AI Agents Are Exploring Blind. Here's How to Give Them a Map.](https://dev.to/wilddog64/your-ai-agents-are-exploring-blind-heres-how-to-give-them-a-map-k0m) (2026-03-27)
+- [I built an AI tool for incident investigation (looking for honest feedback)](https://dev.to/giga_kovaliovi_1853ce432b/i-built-an-ai-tool-for-incident-investigation-looking-for-honest-feedback-2gbh) (2026-03-27)
+- [Ansible Certification vs DevOps Certifications: Key Differences and Career Guide](https://dev.to/thinkcloudly/ansible-certification-vs-devops-certifications-key-differences-and-career-guide-no2) (2026-03-27)
+- [Scaling DevOps Culture: From Improvised Scripts to Platform Engineering](https://dev.to/kodus/scaling-devops-culture-from-improvised-scripts-to-platform-engineering-1kd3) (2026-03-27)
 
 </details>
 
@@ -130,11 +119,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [AI for nuclear energy: Powering an intelligent, resilient future](https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/) (2026-03-25)
-- [What’s new with Microsoft in open-source and Kubernetes at KubeCon + CloudNativeCon Europe 2026](https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/) (2026-03-24)
-- [Advancing agentic AI with Microsoft databases across a unified data estate](https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/) (2026-03-18)
-- [FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/) (2026-03-18)
-- [Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI](https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/) (2026-03-16)
+- [Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure](https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/) (2026-03-04)
+- [Unlocking document understanding with Mistral Document AI in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664) (2026-03-03)
+- [Instant access incremental snapshots: Restore without waiting](https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/) (2026-03-02)
+- [Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected](http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog) (2026-02-24)
+- [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
 
 </details>
 
@@ -179,17 +168,6 @@
 - [How to Upgrade to React 18](https://reactjs.org/blog/2022/03/08/react-18-upgrade-guide.html) (2022-03-08)
 - [React Conf 2021 Recap](https://reactjs.org/blog/2021/12/17/react-conf-2021-recap.html) (2021-12-17)
 - [The Plan for React 18](https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html) (2021-06-08)
-
-</details>
-
-<details>
-<summary>🅰️ Angular Blog</summary>
-
-- [Modernize Your Workflow: AI Tooling, Deferrable Views, and the Era of Forms! ️](https://blog.angular.dev/modernize-your-workflow-ai-tooling-deferrable-views-and-the-era-of-forms-%EF%B8%8F-7aa1c1cf9550?source=rss----447683c3d9a3---4) (2026-03-13)
-- [Security Advisory: Addressing Recent Vulnerabilities in Angular](https://blog.angular.dev/security-advisory-addressing-recent-vulnerabilities-in-angular-c2656249b799?source=rss----447683c3d9a3---4) (2026-02-27)
-- [Angular 21: Internal Mechanics, ARIA, and AI-Powered Coding! ](https://blog.angular.dev/angular-21-internal-mechanics-aria-and-ai-powered-coding-eefc4b05ddb6?source=rss----447683c3d9a3---4) (2026-02-17)
-- [Global Expertise: AI Blueprints, Resource API Fixes, and Angular v20 ](https://blog.angular.dev/global-expertise-ai-blueprints-resource-api-fixes-and-angular-v20-5fb47e059670?source=rss----447683c3d9a3---4) (2026-02-09)
-- [Community Stories, Code Samples, and Signal Forms! ](https://blog.angular.dev/community-stories-code-samples-and-signal-forms-7d0294475610?source=rss----447683c3d9a3---4) (2026-01-23)
 
 </details>
 
@@ -569,11 +547,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/whatsapp-ai-
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [A Beginner’s Guide to Quantum Computing with Python](https://towardsdatascience.com/a-beginners-guide-to-quantum-computing-with-python/) (2026-03-27)
+- [How ElevenLabs Voice AI Is Replacing Screens in Warehouse and Manufacturing Operations](https://towardsdatascience.com/how-elevenlabs-voice-ai-is-replacing-screens-in-warehouse-and-manufacturing-operations/) (2026-03-27)
 - [How to Make Your AI App Faster and More Interactive with Response Streaming](https://towardsdatascience.com/how-to-make-your-ai-app-faster-and-more-interactive-with-response-streaming/) (2026-03-26)
 - [Beyond Code Generation: AI for the Full Data Science Workflow](https://towardsdatascience.com/beyond-code-generation-ai-for-the-full-data-science-workflow/) (2026-03-26)
 - [What the Bits-over-Random Metric Changed in How I Think About RAG and Agents](https://towardsdatascience.com/what-the-bits-over-random-metric-changed-in-how-i-think-about-rag-and-agents/) (2026-03-26)
-- [Following Up on Like-for-Like for Stores: Handling PY](https://towardsdatascience.com/follow-up-on-like-for-like-for-stores-handling-py/) (2026-03-25)
-- [The Machine Learning Lessons I’ve Learned This Month](https://towardsdatascience.com/the-machine-learning-lessons-ive-learned-this-month-5/) (2026-03-25)
 
 </details>
 
@@ -591,22 +569,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/whatsapp-ai-
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [7 Free Web APIs Every Developer and Vibe Coder Should Know](https://www.kdnuggets.com/7-free-web-apis-every-developer-and-vibe-coder-should-know) (2026-03-27)
 - [Getting Started with Smolagents: Build Your First Code Agent in 15 Minutes](https://www.kdnuggets.com/getting-started-with-smolagents-build-your-first-code-agent-in-15-minutes) (2026-03-26)
 - [10 GitHub Repositories to Master OpenClaw](https://www.kdnuggets.com/10-github-repositories-to-master-openclaw) (2026-03-26)
 - [Vibe Coding a Private AI Financial Analyst with Python and Local LLMs](https://www.kdnuggets.com/vibe-coding-a-private-ai-financial-analyst-with-python-and-local-llms) (2026-03-25)
 - [Building Declarative Data Pipelines with Snowflake Dynamic Tables: A Workshop Deep Dive](https://www.kdnuggets.com/building-declarative-data-pipelines-with-snowflake-dynamic-tables-a-workshop-deep-dive) (2026-03-25)
-- [5 Useful DIY Python Functions for Error Handling](https://www.kdnuggets.com/5-useful-diy-python-functions-for-error-handling) (2026-03-25)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes](https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/) (2026-03-27)
 - [Vector Databases Explained in 3 Levels of Difficulty](https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/) (2026-03-26)
 - [5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering](https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/) (2026-03-25)
 - [Beyond the Vector Store: Building the Full Data Layer for AI Applications](https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/) (2026-03-24)
 - [7 Steps to Mastering Memory in Agentic AI Systems](https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/) (2026-03-23)
-- [Why Agents Fail: The Role of Seed Values and Temperature in Agentic Loops](https://machinelearningmastery.com/why-agents-fail-the-role-of-seed-values-and-temperature-in-agentic-loops/) (2026-03-20)
 
 </details>
 
