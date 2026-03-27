@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [OpenAI abandons yet another side quest: ChatGPT’s erotic mode](https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/) (2026-03-26)
-- [Data centers get ready — the Senate wants to see your power bills](https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/) (2026-03-26)
-- [Defense startup Shield AI lands $12.7B valuation, up 140%, after US Air Force deal](https://techcrunch.com/2026/03/26/defense-startup-shield-ai-lands-12-7b-valuation-up-140-after-u-s-air-force-deal/) (2026-03-26)
-- [Apple made strides with iOS 26 security, but leaked hacking tools still leave millions exposed to spyware attacks](https://techcrunch.com/2026/03/26/apple-made-strides-with-ios-26-security-but-leaked-hacking-tools-still-leave-millions-exposed-to-spyware-attacks/) (2026-03-26)
-- [Google is launching Search Live globally](https://techcrunch.com/2026/03/26/google-is-launching-search-live-globally/) (2026-03-26)
+- [David Sacks is done as AI czar — here’s what he’s doing instead](https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/) (2026-03-27)
+- [Anthropic wins injunction against Trump administration over Defense Department saga](https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/) (2026-03-27)
+- [You can now transfer your chats and personal information from other chatbots directly into Gemini](https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/) (2026-03-26)
+- [Wikipedia cracks down on the use of AI in article writing](https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/) (2026-03-26)
+- [Mastodon is making its decentralized social network easier to use with its latest revamp](https://techcrunch.com/2026/03/26/mastodon-is-making-its-decentralized-social-network-easier-to-use-with-its-latest-revamp/) (2026-03-26)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Colibri – chat platform built on the AT Protocol for communities big and small](https://colibri.social/) (2026-03-26)
-- [Building a Blog with Elixir and Phoenix](https://jola.dev/posts/building-a-blog-with-elixir-and-phoenix) (2026-03-26)
-- [OpenTelemetry profiles enters public alpha](https://opentelemetry.io/blog/2026/profiles-alpha/) (2026-03-26)
-- [Stripe Projects: Provision and manage services from the CLI](https://projects.dev/) (2026-03-26)
-- [Show HN: Claude skill that evaluates B2B vendors by talking to their AI agents](https://github.com/salespeak-ai/buyer-eval-skill) (2026-03-26)
+- [Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label](https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk) (2026-03-26)
+- [Chicago artist creates tourism posters for city's neighborhoods](https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/) (2026-03-26)
+- [Order Granting Preliminary Injunction – Anthropic vs. U.S. Department of War [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.465515/gov.uscourts.cand.465515.134.0.pdf) (2026-03-26)
+- [Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/) (2026-03-26)
+- [Anthropic Subprocessor Changes](https://trust.anthropic.com) (2026-03-26)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Google&#8217;s &#8216;live&#8217; AI search assistant can handle conversations in dozens more languages](https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion) (2026-03-26)
-- [Fitbit’s budget-friendly Inspire 3 is $30 off, matching its best price](https://www.theverge.com/tech/901765/fitbit-inspire-3-amazon-big-spring-sale-2026-deal) (2026-03-26)
-- [Xbox’s latest games showcase had Hades 2, The Expanse, and Bluey](https://www.theverge.com/games/901384/xbox-partner-preview-games-news-trailers) (2026-03-26)
-- [My brief, weird time with the Samsung TriFold](https://www.theverge.com/tech/901525/samsung-galaxy-z-trifold-hands-on-singapore-rom) (2026-03-26)
-- [Govee’s color-changing smart lamps are on sale for up to 30 percent off](https://www.theverge.com/gadgets/901580/govee-rgb-table-lamp-2-pro-speaker-amazon-big-spring-sale-2026-deal) (2026-03-26)
+- [Judge sides with Anthropic to temporarily block the Pentagon&#8217;s ban](https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction) (2026-03-27)
+- [Brendan Carr says his broadcast license threat wasn&#8217;t really about Iran war coverage](https://www.theverge.com/policy/902132/brendan-carr-iran-broadcast-license-threat) (2026-03-26)
+- [David Sacks is no longer the White House AI and Crypto Czar](https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar) (2026-03-26)
+- [Robot vacuums from Eufy and Roborock are over 50 percent for Amazon’s spring sale](https://www.theverge.com/gadgets/901792/best-robot-vacuum-mops-amazon-big-spring-sale-2026-deals) (2026-03-26)
+- [Apple’s Mac Pro is dead, apparently for good this time](https://www.theverge.com/tech/902050/mac-pro-discontinued) (2026-03-26)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Intel Core Ultra 270K and 250K Plus review: Conditionally great CPUs](https://arstechnica.com/gadgets/2026/03/intel-core-ultra-270k-and-250k-plus-review-conditionally-great-cpus/) (2026-03-26)
-- [OpenAI “indefinitely” shelves plans for erotic ChatGPT](https://arstechnica.com/tech-policy/2026/03/chatgpt-wont-talk-dirty-any-time-soon-as-sexy-mode-turns-off-investors-report-says/) (2026-03-26)
-- [Damaged church floor may have revealed the grave of the fourth musketeer](https://arstechnica.com/science/2026/03/archaeologists-may-have-found-the-grave-of-the-legendary-fourth-musketeer/) (2026-03-26)
-- [The Corvette E-Ray is dead, long live the Grand Sport X](https://arstechnica.com/cars/2026/03/the-corvette-e-ray-is-dead-long-live-the-grand-sport-x/) (2026-03-26)
-- [2026's historic snow drought is bad news for the West](https://arstechnica.com/science/2026/03/2026s-historic-snow-drought-is-bad-news-for-the-west/) (2026-03-26)
+- [Elon Musk loses big in court; X boycott perfectly legal](https://arstechnica.com/tech-policy/2026/03/elon-musk-loses-big-in-court-x-boycott-perfectly-legal/) (2026-03-26)
+- [Spotify seeks $300M from Anna's Archive, which ignores all court proceedings](https://arstechnica.com/tech-policy/2026/03/spotify-lawsuit-tries-to-kick-annas-archive-off-the-web-without-much-success/) (2026-03-26)
+- [Internet Yiff Machine: We hacked 93GB of "anonymous" crime tips](https://arstechnica.com/security/2026/03/internet-yiff-machine-we-hacked-93gb-of-anonymous-crime-tips/) (2026-03-26)
+- [As RFK Jr.’s anti-vaccine ways turn toxic to GOP, CDC director is hard to find](https://arstechnica.com/health/2026/03/as-rfk-jr-s-anti-vaccine-ways-turn-toxic-to-gop-cdc-director-is-hard-to-find/) (2026-03-26)
+- [Netflix raises prices for every subscription tier by up to 12.5 percent](https://arstechnica.com/gadgets/2026/03/netflix-increases-prices-for-all-plans-by-up-to-2-per-month/) (2026-03-26)
 
 </details>
 
@@ -97,45 +97,44 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [OmniShell: Building a Virtual Desktop Environment in C++ with wxWidgets](https://dev.to/lenik/omnishell-building-a-virtual-desktop-environment-in-c-with-wxwidgets-54p8) (2026-03-26)
-- [The Most Dangerous Failures Aren’t Wrong Decisions They’re Unchecked Actions](https://dev.to/dan_evans_1/the-most-dangerous-failures-arent-wrong-decisions-theyre-unchecked-actions-1dhg) (2026-03-26)
-- [Guide to Secure Your Self-Hosted Stacks like Nginx, SSH, & Vaultwarden with Fail2ban](https://dev.to/nirzak/guide-to-secure-your-self-hosted-stacks-like-nginx-ssh-vaultwarden-with-fail2ban-4k4c) (2026-03-26)
-- [I Replaced Zapier with n8n for 12 Clients — Here's What Actually Happened](https://dev.to/achiya-automation/i-replaced-zapier-with-n8n-for-12-clients-heres-what-actually-happened-5546) (2026-03-26)
-- [We Just Shipped What OpenAI, Google, and Anthropic Have Not. Here Are 6 Updates.](https://dev.to/jon_at_backboardio/we-just-shipped-what-openai-google-and-anthropic-have-not-here-are-6-updates-2fj8) (2026-03-26)
+- [I Couldn't Find an OAuth 2.1 Proxy for MCP Servers, So I Built One](https://dev.to/cpremus/i-couldnt-find-an-oauth-21-proxy-for-mcp-servers-so-i-built-one-59nd) (2026-03-27)
+- [6Σ Models Explained: The Ultimate Guide to Six Sigma Methodologies for Business Excellence](https://dev.to/aloycwl/6s-models-explained-the-ultimate-guide-to-six-sigma-methodologies-for-business-excellence-5dnm) (2026-03-27)
+- [Amazon Bedrock + RDS Aurora: Generative AI Inside Your MySQL Database](https://dev.to/aws-builders/amazon-bedrock-rds-aurora-generative-ai-inside-your-mysql-database-cbf) (2026-03-27)
+- [LLM + SQL: Deterministic Answers with Amazon Bedrock and Athena](https://dev.to/aws-builders/llm-sql-deterministic-answers-with-amazon-bedrock-and-athena-4mh4) (2026-03-27)
+- [Amazon Bedrock Agents: Building an Industrial AI Assistant](https://dev.to/aws-builders/amazon-bedrock-agents-building-an-industrial-ai-assistant-57ci) (2026-03-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Bölüm 1 — Git Fundamentals](https://medium.com/@hakanciftci.kf/b%C3%B6l%C3%BCm-1-git-fundamentals-13f6bfb51bc1?source=rss------programming-5) (2026-03-26)
-- [RHAPSODY OF REALITIES - 26TH MARCH 2026
-"In Nehemiah’s day, as the people built the wall of…](https://medium.com/@folajeff/rhapsody-of-realities-26th-march-2026-in-nehemiahs-day-as-the-people-built-the-wall-of-c0598fa090b5?source=rss------programming-5) (2026-03-26)
-- [AI and Jobs in India – What Is Actually Getting Replaced](https://medium.com/@rajat.shukla49/ai-and-jobs-in-india-what-is-actually-getting-replaced-bbc4e883a1e3?source=rss------programming-5) (2026-03-26)
-- [This new model just opened the door to the AI singularity](https://medium.com/coding-beauty/new-minimax-m2-7-341d75c8bfdc?source=rss------programming-5) (2026-03-26)
-- [10 Python Engineering Lessons Every AI Developer Learns](https://python.plainenglish.io/10-python-engineering-lessons-every-ai-developer-learns-1447ec3a60ac?source=rss------programming-5) (2026-03-26)
+- [Why You’re Failing Backend Interviews (It’s Not Your Coding Skills)](https://medium.com/@developeryusuf/why-youre-failing-backend-interviews-it-s-not-your-coding-skills-b2785f64cd98?source=rss------programming-5) (2026-03-27)
+- [Stop Googling Docker Commands: The 10 You Need to Know Cold](https://medium.com/engineering-playbook/stop-googling-docker-commands-the-10-you-need-to-know-cold-8a639bd4b9a0?source=rss------programming-5) (2026-03-27)
+- [Zoxide: A Faster Way to Navigate Than cd](https://medium.com/@bektiaw/zoxide-a-faster-way-to-navigate-than-cd-12ef30ecafca?source=rss------programming-5) (2026-03-27)
+- [Why 6-month Cybersecurity Bootcamps Can’t Replace Foundational Knowledge](https://zauzanov.medium.com/why-6-month-cybersecurity-bootcamps-cant-replace-foundational-knowledge-35a1d7522389?source=rss------programming-5) (2026-03-27)
+- [Why I Stopped Fighting Notion and Built a “Google Keep for Developers”](https://medium.com/@picarda/why-i-stopped-fighting-notion-and-built-a-google-keep-for-developers-528dbc3037b2?source=rss------programming-5) (2026-03-27)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Customize your AWS Management Console experience with visual settings including account color, region and service visibility](https://aws.amazon.com/blogs/aws/customize-your-aws-management-console-experience-with-visual-settings-including-account-color-region-and-service-visibility/) (2026-03-26)
 - [Announcing Amazon Aurora PostgreSQL serverless database creation in seconds](https://aws.amazon.com/blogs/aws/announcing-amazon-aurora-postgresql-serverless-database-creation-in-seconds/) (2026-03-25)
 - [AWS Weekly Roundup: NVIDIA Nemotron 3 Super on Amazon Bedrock, Nova Forge SDK, Amazon Corretto 26, and more (March 23, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-nvidia-nemotron-3-super-on-amazon-bedrock-nova-forge-sdk-amazon-corretto-26-and-more-march-23-2026/) (2026-03-23)
 - [20 years in the AWS Cloud – how time flies!](https://aws.amazon.com/blogs/aws/20-years-in-the-aws-cloud-how-time-flies/) (2026-03-19)
 - [Our First 2026 AWS Heroes Cohort Is Here!](https://aws.amazon.com/blogs/aws/our-first-2026-heroes-cohort-is-here/) (2026-03-18)
-- [AWS Weekly Roundup: Amazon S3 turns 20, Amazon Route 53 Global Resolver general availability, and more (March 16, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-s3-turns-20-amazon-route-53-global-resolver-general-availability-and-more-march-16-2026/) (2026-03-16)
 
 </details>
 
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [AI for nuclear energy: Powering an intelligent, resilient future](https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/) (2026-03-25)
-- [What’s new with Microsoft in open-source and Kubernetes at KubeCon + CloudNativeCon Europe 2026](https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/) (2026-03-24)
 - [Advancing agentic AI with Microsoft databases across a unified data estate](https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/) (2026-03-18)
 - [FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/) (2026-03-18)
 - [Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI](https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/) (2026-03-16)
+- [From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation](https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/) (2026-03-16)
+- [Modernizing regulated industries with cloud and agentic AI](https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/) (2026-03-11)
 
 </details>
 
@@ -153,22 +152,22 @@
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [Update on regulated medical device apps in the European Economic Area, United Kingdom, and United States](https://developer.apple.com/news/?id=nyqbfz1y) (2026-03-26)
 - [New In-App Purchase and subscription data now available in Analytics](https://developer.apple.com/news/?id=hh6v4b55) (2026-03-25)
 - [WWDC26: June 8-12, 2026](https://developer.apple.com/news/?id=yi8qj25k) (2026-03-23)
 - [Apple Developer is now on bilibili and LinkedIn](https://developer.apple.com/news/?id=yts4l6mh) (2026-03-17)
 - [Adjustments to the China storefront of the App Store on iOS and iPadOS](https://developer.apple.com/news/?id=dadukodv) (2026-03-13)
-- [Hello Developer: March 2026](https://developer.apple.com/news/?id=zmqipz05) (2026-03-03)
 
 </details>
 
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Redefining Location Privacy: New Tools and Improvements for Android 17](https://android-developers.googleblog.com/2026/03/location-privacy.html) (2026-03-26)
+- [The Third Beta of Android 17](https://android-developers.googleblog.com/2026/03/the-third-beta-of-android-17.html) (2026-03-26)
 - [Meet the class of 2026 for the Google Play Apps Accelerator](https://android-developers.googleblog.com/2026/03/meet-class-of-2026-for-google-play-apps.html) (2026-03-25)
 - [Contact Picker: Privacy-First Contact Sharing](https://android-developers.googleblog.com/2026/03/contact-picker-privacy-first-contact.html) (2026-03-24)
 - [Beyond Infotainment: Extending Android Automotive OS for Software-defined Vehicles](https://android-developers.googleblog.com/2026/03/Beyond-Infotainment-Extending-Android-Automotive-OS-for-Software-defined-Vehicles.html) (2026-03-24)
-- [Android developer verification: Balancing openness and choice with safety](https://android-developers.googleblog.com/2026/03/android-developer-verification.html) (2026-03-19)
-- [Get inspired and take your apps to desktop](https://android-developers.googleblog.com/2026/03/Get-inspired-and-take-your-apps-to-desktop.html) (2026-03-16)
 
 </details>
 
@@ -233,7 +232,7 @@
 - [What COVID did to our forecasting models (and what we built to handle the next shock)](https://medium.com/airbnb-engineering/what-covid-did-to-our-forecasting-models-and-what-we-built-to-handle-the-next-shock-ccbf0e1f7fa9?source=rss----53c7c27702d5---4) (2026-03-24)
 - [From vendors to vanguard: Airbnb’s hard-won lessons in observability ownership](https://medium.com/airbnb-engineering/from-vendors-to-vanguard-airbnbs-hard-won-lessons-in-observability-ownership-3811bf6c1ac3?source=rss----53c7c27702d5---4) (2026-03-17)
 - [Recommending travel destinations to help users explore](https://medium.com/airbnb-engineering/recommending-travel-destinations-to-help-users-explore-5fa7a81654fb?source=rss----53c7c27702d5---4) (2026-03-12)
-- [It Wasn’t a Culture Problem: Upleveling Alert Development at Airbnb](https://medium.com/airbnb-engineering/it-wasnt-a-culture-problem-upleveling-alert-development-at-airbnb-01e2290eb0f5?source=rss----53c7c27702d5---4) (2026-03-04)
+- [It wasn’t a culture problem: Upleveling alert development at Airbnb](https://medium.com/airbnb-engineering/it-wasnt-a-culture-problem-upleveling-alert-development-at-airbnb-01e2290eb0f5?source=rss----53c7c27702d5---4) (2026-03-04)
 - [Academic Publications & Airbnb Tech: 2025 Year in Review](https://medium.com/airbnb-engineering/academic-publications-airbnb-tech-2025-year-in-review-7d79f57d3b52?source=rss----53c7c27702d5---4) (2026-02-24)
 
 </details>
