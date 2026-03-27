@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [David Sacks is done as AI czar — here’s what he’s doing instead](https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/) (2026-03-27)
-- [Anthropic wins injunction against Trump administration over Defense Department saga](https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/) (2026-03-27)
-- [You can now transfer your chats and personal information from other chatbots directly into Gemini](https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/) (2026-03-26)
-- [Wikipedia cracks down on the use of AI in article writing](https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/) (2026-03-26)
-- [Mastodon is making its decentralized social network easier to use with its latest revamp](https://techcrunch.com/2026/03/26/mastodon-is-making-its-decentralized-social-network-easier-to-use-with-its-latest-revamp/) (2026-03-26)
+- [European Commission confirms cyberattack after hackers claim data breach ](https://techcrunch.com/2026/03/27/european-commission-confirms-cyberattack-after-hackers-claim-data-breach/) (2026-03-27)
+- [Aetherflux reportedly raising Series B at $2 billion valuation](https://techcrunch.com/2026/03/27/aetherflux-reportedly-raising-series-b-at-2-billion-valuation/) (2026-03-27)
+- [Rivian gets another $1B from Volkswagen](https://techcrunch.com/2026/03/27/rivian-gets-another-1b-from-volkswagen/) (2026-03-27)
+- [Iranian hackers claim breach of FBI director Kash Patel’s personal email account](https://techcrunch.com/2026/03/27/iranian-hackers-claim-breach-of-fbi-director-kash-patels-personal-email-account/) (2026-03-27)
+- [Apple says no one using Lockdown Mode has been hacked with spyware](https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/) (2026-03-27)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/) (2026-03-27)
-- [A Faster Alternative to Jq](https://micahkepe.com/blog/jsongrep/) (2026-03-27)
-- [The European AllSky7 fireball network](https://www.allsky7.net/#archive) (2026-03-27)
-- [Schedule tasks on the web](https://code.claude.com/docs/en/web-scheduled-tasks) (2026-03-27)
-- [Agent-to-agent pair programming](https://axeldelafosse.com/blog/agent-to-agent-pair-programming) (2026-03-27)
+- [Don't Wait for Claude](https://jeapostrophe.github.io/tech/jc-workflow/) (2026-03-27)
+- [Iran-linked hackers have breached FBI director's personal emails](https://www.cnn.com/2026/03/27/politics/iran-linked-hackers-fbi-director-patel) (2026-03-27)
+- [AI got the blame for the Iran school bombing. The truth is more worrying](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying) (2026-03-27)
+- [Apple says no one using Lockdown Mode has been hacked with spyware](https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/) (2026-03-27)
+- [Desk for people who work at home with a cat](https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/) (2026-03-27)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Sony is raising PS5 prices by $100 in April](https://www.theverge.com/games/902224/sony-ps5-playstation-price-hike) (2026-03-27)
-- [Rank the 50 best Apple products](https://www.theverge.com/cs/tech/900477/apple-50-anniversary-rank-products) (2026-03-27)
-- [Here’s how to rank the 50 best Apple products ever](https://www.theverge.com/podcast/901378/apple-50-anniversary-rank-vergecast) (2026-03-27)
-- [Judge sides with Anthropic to temporarily block the Pentagon&#8217;s ban](https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction) (2026-03-27)
-- [Brendan Carr says his broadcast license threat wasn&#8217;t really about Iran war coverage](https://www.theverge.com/policy/902132/brendan-carr-iran-broadcast-license-threat) (2026-03-26)
+- [The latest in data centers, AI, and energy ](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy) (2026-03-27)
+- [Anker’s 160W Prime Charger can power three devices at once, and it&#8217;s $50 off](https://www.theverge.com/gadgets/902130/anker-prime-charger-160w-usb-c-amazon-big-spring-sale-2026-deal) (2026-03-27)
+- [Nuki’s one-touch retrofit smart lock got its first-ever discount](https://www.theverge.com/gadgets/902276/nuki-smart-lock-thread-matter-smart-home-amazon-big-spring-sale-2026-deal) (2026-03-27)
+- [This modular crafting machine can create custom shirts, phone cases, and molds](https://www.theverge.com/tech/902369/xtool-wonderpress-heat-press-vacuum-former-oven-crafting-preorder) (2026-03-27)
+- [We handpicked the 24 best Big Spring Sale deals under $50](https://www.theverge.com/gadgets/901519/best-cheap-tech-deals-under-50-amazon-big-spring-sale-2026) (2026-03-27)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Elon Musk loses big in court; X boycott perfectly legal](https://arstechnica.com/tech-policy/2026/03/elon-musk-loses-big-in-court-x-boycott-perfectly-legal/) (2026-03-26)
-- [Spotify seeks $300M from Anna's Archive, which ignores all court proceedings](https://arstechnica.com/tech-policy/2026/03/spotify-lawsuit-tries-to-kick-annas-archive-off-the-web-without-much-success/) (2026-03-26)
-- [Internet Yiff Machine: We hacked 93GB of "anonymous" crime tips](https://arstechnica.com/security/2026/03/internet-yiff-machine-we-hacked-93gb-of-anonymous-crime-tips/) (2026-03-26)
-- [As RFK Jr.’s anti-vaccine ways turn toxic to GOP, CDC director is hard to find](https://arstechnica.com/health/2026/03/as-rfk-jr-s-anti-vaccine-ways-turn-toxic-to-gop-cdc-director-is-hard-to-find/) (2026-03-26)
-- [Netflix raises prices for every subscription tier by up to 12.5 percent](https://arstechnica.com/gadgets/2026/03/netflix-increases-prices-for-all-plans-by-up-to-2-per-month/) (2026-03-26)
+- [DOJ confirms FBI Director Kash Patel’s personal email was hacked](https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/) (2026-03-27)
+- [Sony is raising PlayStation 5 prices again, this time by between $100 and $150](https://arstechnica.com/gadgets/2026/03/sony-is-raising-playstation-5-prices-again-this-time-by-between-100-and-150/) (2026-03-27)
+- [No one is happy with NASA's new idea for private space stations](https://arstechnica.com/space/2026/03/what-happens-next-with-nasas-plan-to-replace-the-iss-source-it-could-get-ugly/) (2026-03-27)
+- [Apple pulls the plug on its high-priced, oft-neglected Mac Pro desktop](https://arstechnica.com/gadgets/2026/03/apple-has-finally-discontinued-the-mac-pro-desktop-after-years-of-fitful-effort/) (2026-03-27)
+- [Rivian and VW Group complete winter testing of new zonal architecture](https://arstechnica.com/cars/2026/03/rivian-and-vw-group-complete-winter-testing-of-new-zonal-architecture/) (2026-03-27)
 
 </details>
 
@@ -97,11 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Error Handling in JavaScript: Try, Catch, Finally](https://dev.to/ritam369/error-handling-in-javascript-try-catch-finally-585k) (2026-03-27)
-- [Your AI Agents Are Exploring Blind. Here's How to Give Them a Map.](https://dev.to/wilddog64/your-ai-agents-are-exploring-blind-heres-how-to-give-them-a-map-k0m) (2026-03-27)
-- [I built an AI tool for incident investigation (looking for honest feedback)](https://dev.to/giga_kovaliovi_1853ce432b/i-built-an-ai-tool-for-incident-investigation-looking-for-honest-feedback-2gbh) (2026-03-27)
-- [Ansible Certification vs DevOps Certifications: Key Differences and Career Guide](https://dev.to/thinkcloudly/ansible-certification-vs-devops-certifications-key-differences-and-career-guide-no2) (2026-03-27)
-- [Scaling DevOps Culture: From Improvised Scripts to Platform Engineering](https://dev.to/kodus/scaling-devops-culture-from-improvised-scripts-to-platform-engineering-1kd3) (2026-03-27)
+- [Week 2 - Learning K8s](https://dev.to/nicbaughman/week-2-learning-k8s-db2) (2026-03-27)
+- [7 Mac Apps Every Startup CTO Should Have in 2026](https://dev.to/godnick/7-mac-apps-every-startup-cto-should-have-in-2026-2k2b) (2026-03-27)
+- [AI Agent Memory: How Agents Remember, Learn &amp; Persist Context (2026 Guide)](https://dev.to/paxrel/ai-agent-memory-how-agents-remember-learn-amp-persist-context-2026-guide-48dn) (2026-03-27)
+- [How I Built a Self-Updater With GitHub Releases](https://dev.to/cn8001/how-i-built-a-self-updater-with-github-releases-2j15) (2026-03-27)
+- [The API Surface Is the New Product. Revolut Just Proved It](https://dev.to/o96a/the-api-surface-is-the-new-product-revolut-just-proved-it-2oi6) (2026-03-27)
+
+</details>
+
+<details>
+<summary>✍️ Medium - Programming</summary>
+
+- [Understanding Python Libraries: A Guide to NumPy, Pandas, and More](https://medium.com/@humayumahi/understanding-python-libraries-a-guide-to-numpy-pandas-and-more-2929000ea315?source=rss------programming-5) (2026-03-27)
+- [This $5 Checklist Prevented 12 Disasters (My CEO Made It Mandatory)](https://medium.com/lets-code-future/this-5-checklist-prevented-12-disasters-my-ceo-made-it-mandatory-bf4086a093d2?source=rss------programming-5) (2026-03-27)
+- [The Biggest Lie Engineers Tell: “We Don’t Use Algorithms at Work”](https://medium.com/@kanishks772/the-biggest-lie-engineers-tell-we-dont-use-algorithms-at-work-bb3fd7c3c90a?source=rss------programming-5) (2026-03-27)
+- [Beyond unwrap(): Your 2026 Guide to Fearless Error Handling in Rust ](https://medium.com/@puneetpm/beyond-unwrap-your-2026-guide-to-fearless-error-handling-in-rust-984e07495c0a?source=rss------programming-5) (2026-03-27)
+- [Fine-Tuning AI Models: Teaching an Old Dog Very New Tricks](https://medium.com/@siddantvardey/fine-tuning-ai-models-teaching-an-old-dog-very-new-tricks-91468dc0ef33?source=rss------programming-5) (2026-03-27)
 
 </details>
 
@@ -119,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Azure IaaS series: Explore new resources for building a stronger, more efficient infrastructure](https://azure.microsoft.com/en-us/blog/azure-iaas-series-explore-new-resources-for-building-a-stronger-more-efficient-infrastructure/) (2026-03-04)
-- [Unlocking document understanding with Mistral Document AI in Microsoft Foundry](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/unlocking-document-understanding-with-mistral-document-ai-in-microsoft-foundry/4495664) (2026-03-03)
-- [Instant access incremental snapshots: Restore without waiting](https://azure.microsoft.com/en-us/blog/instant-access-incremental-snapshots-restore-without-waiting/) (2026-03-02)
-- [Microsoft Sovereign Cloud adds governance, productivity, and support for large AI models securely running even when completely disconnected](http://aka.ms/MicrosoftSovereignCloudDisconnectedBlog) (2026-02-24)
-- [Introducing Budget Bytes: Build powerful AI apps for under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/) (2026-02-19)
+- [AI for nuclear energy: Powering an intelligent, resilient future](https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/) (2026-03-25)
+- [What’s new with Microsoft in open-source and Kubernetes at KubeCon + CloudNativeCon Europe 2026](https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/) (2026-03-24)
+- [Advancing agentic AI with Microsoft databases across a unified data estate](https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/) (2026-03-18)
+- [FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/) (2026-03-18)
+- [Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI](https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/) (2026-03-16)
 
 </details>
 
@@ -172,6 +183,17 @@
 </details>
 
 <details>
+<summary>🅰️ Angular Blog</summary>
+
+- [Local AI, Reactive Routing, and the Vitest Migration! ⚡](https://blog.angular.dev/local-ai-reactive-routing-and-the-vitest-migration-bdddad0cfa96?source=rss----447683c3d9a3---4) (2026-03-27)
+- [Modernize Your Workflow: AI Tooling, Deferrable Views, and the Era of Forms! ️](https://blog.angular.dev/modernize-your-workflow-ai-tooling-deferrable-views-and-the-era-of-forms-%EF%B8%8F-7aa1c1cf9550?source=rss----447683c3d9a3---4) (2026-03-13)
+- [Security Advisory: Addressing Recent Vulnerabilities in Angular](https://blog.angular.dev/security-advisory-addressing-recent-vulnerabilities-in-angular-c2656249b799?source=rss----447683c3d9a3---4) (2026-02-27)
+- [Angular 21: Internal Mechanics, ARIA, and AI-Powered Coding! ](https://blog.angular.dev/angular-21-internal-mechanics-aria-and-ai-powered-coding-eefc4b05ddb6?source=rss----447683c3d9a3---4) (2026-02-17)
+- [Global Expertise: AI Blueprints, Resource API Fixes, and Angular v20 ](https://blog.angular.dev/global-expertise-ai-blueprints-resource-api-fixes-and-angular-v20-5fb47e059670?source=rss----447683c3d9a3---4) (2026-02-09)
+
+</details>
+
+<details>
 <summary>🟩 Node.js Blog</summary>
 
 - [Developing a minimally HashDoS resistant, yet quickly reversible integer hash for V8](https://nodejs.org/en/blog/vulnerability/march-2026-hashdos) (2026-03-24)
@@ -185,11 +207,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Building a News Roundup with Docker Agent, Docker Model Runner, and Skill](https://www.docker.com/blog/building-a-news-roundup-with-docker-agent-docker-model-runner-and-skill/) (2026-03-27)
 - [Trivy supply chain compromise: What Docker Hub users should know](https://www.docker.com/blog/trivy-supply-chain-compromise-what-docker-hub-users-should-know/) (2026-03-23)
 - [From the Captain’s Chair: Naga Santhosh Reddy Vootukuri](https://www.docker.com/blog/from-the-captains-chair-naga-santhosh-reddy-vootukuri/) (2026-03-18)
 - [Achieving Test Reliability for Native E2E Testing: Beyond Fixing Broken Tests](https://www.docker.com/blog/native-e2e-test-reliability/) (2026-03-13)
 - [How to Run Claude Code with Docker: Local Models, MCP Servers, and Secure Sandboxes](https://www.docker.com/blog/run-claude-code-with-docker/) (2026-03-13)
-- [Secure Agent Execution with NanoClaw and Docker Sandboxes](https://www.docker.com/blog/nanoclaw-docker-sandboxes-agent-security/) (2026-03-13)
 
 </details>
 
@@ -284,7 +306,7 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
-- [DataGrip 2026.1: Redesigned Query Files, Data Source Templates in Your JetBrains Account, AI Agents in the AI Chat, Explain Plan Flow Enhancements, and More!](https://blog.jetbrains.com/datagrip/2026/03/26/datagrip-2026-1-redesigned-query-files-data-source-templates-in-your-jetbrains-account-ai-agents-in-the-ai-chat-explain-plan-flow-enhancements-and-more/) (2026-03-26)
+- [DataGrip 2026.1: AI Agents in the AI Chat, Redesigned Query Files, Data Source Templates in Your JetBrains Account, Explain Plan Flow Enhancements, and More!](https://blog.jetbrains.com/datagrip/2026/03/26/datagrip-2026-1-redesigned-query-files-data-source-templates-in-your-jetbrains-account-ai-agents-in-the-ai-chat-explain-plan-flow-enhancements-and-more/) (2026-03-26)
 - [Comparative Analysis of Development Cycle Speed in Java and Kotlin Based on IDE Telemetry Data](https://blog.jetbrains.com/research/2026/03/comparative-analysis-of-development-cycle-speed-in-java-and-kotlin/) (2026-03-26)
 - [PhpStorm 2026.1 is Now Out](https://blog.jetbrains.com/phpstorm/2026/03/phpstorm-2026-1-is-now-out/) (2026-03-26)
 - [AI-Assisted Java Application Development with Agent Skills](https://blog.jetbrains.com/idea/2026/03/ai-assisted-java-application-development-with-agent-skills/) (2026-03-26)
@@ -328,11 +350,11 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [How we use Abstract Syntax Trees (ASTs) to turn Workflows code into visual diagrams ](https://blog.cloudflare.com/workflow-diagrams/) (2026-03-27)
 - [A one-line Kubernetes fix that saved 600 hours a year](https://blog.cloudflare.com/one-line-kubernetes-fix-saved-600-hours-a-year/) (2026-03-26)
 - [Sandboxing AI agents, 100x faster](https://blog.cloudflare.com/dynamic-workers/) (2026-03-24)
 - [Inside Gen 13: how we built our most powerful server yet](https://blog.cloudflare.com/gen13-config/) (2026-03-23)
 - [Launching Cloudflare’s Gen 13 servers: trading cache for cores for 2x edge compute performance](https://blog.cloudflare.com/gen13-launch/) (2026-03-23)
-- [Powering the agents: Workers AI now runs large models, starting with Kimi K2.5](https://blog.cloudflare.com/workers-ai-large-models/) (2026-03-19)
 
 </details>
 
@@ -370,12 +392,13 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/whatsapp-ai-
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Unifying the Retail Customer Journey from Web to AI Agent with Auth0
+](https://auth0.com/blog/unifying-retail-customer-journey-web-ai-agent-auth0/) (2026-03-27)
 - [Breaking the "Identity Wall" with Tenancy-as-a-Service
 ](https://auth0.com/blog/breaking-identity-wall-with-tenancy-as-a-service/) (2026-03-26)
 - [Auth0 MCP Server Extension for Gemini CLI](https://auth0.com/blog/auth0-mcp-server-in-gemini-cli-extensions/) (2026-03-20)
 - [Governments Are Deploying AI in Resident Services. Is the Identity Infrastructure Ready?](https://auth0.com/blog/government-resident-services-ai-identity-infrastructure/) (2026-03-19)
 - [Common FAPI Misconceptions](https://auth0.com/blog/common-fapi-misconceptions/) (2026-03-19)
-- [How Identity and Secure AI Deliver Business Value for Airlines](https://auth0.com/blog/identity-secure-ai-deliver-business-value-airlines/) (2026-03-18)
 
 </details>
 
@@ -547,22 +570,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/whatsapp-ai-
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Building a Production-Grade Multi-Node Training Pipeline with PyTorch DDP](https://towardsdatascience.com/building-a-production-grade-multi-node-training-pipeline-with-pytorch-ddp/) (2026-03-27)
 - [A Beginner’s Guide to Quantum Computing with Python](https://towardsdatascience.com/a-beginners-guide-to-quantum-computing-with-python/) (2026-03-27)
 - [How ElevenLabs Voice AI Is Replacing Screens in Warehouse and Manufacturing Operations](https://towardsdatascience.com/how-elevenlabs-voice-ai-is-replacing-screens-in-warehouse-and-manufacturing-operations/) (2026-03-27)
 - [How to Make Your AI App Faster and More Interactive with Response Streaming](https://towardsdatascience.com/how-to-make-your-ai-app-faster-and-more-interactive-with-response-streaming/) (2026-03-26)
 - [Beyond Code Generation: AI for the Full Data Science Workflow](https://towardsdatascience.com/beyond-code-generation-ai-for-the-full-data-science-workflow/) (2026-03-26)
-- [What the Bits-over-Random Metric Changed in How I Think About RAG and Agents](https://towardsdatascience.com/what-the-bits-over-random-metric-changed-in-how-i-think-about-rag-and-agents/) (2026-03-26)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Build an AI Meeting Summarizer & Action Planner with Claude Code + MCP ](https://www.analyticsvidhya.com/blog/2026/03/ai-meeting-summarizer-with-claude-code-mcp/) (2026-03-27)
+- [Build a Full-Stack App in Minutes with Google’s New AI Studio Tools](https://www.analyticsvidhya.com/blog/2026/03/google-ai-studio-tools-build-a-full-stack-app-in-minutes/) (2026-03-27)
 - [How Transformers Power LLMs: Step-by-Step Guide ](https://www.analyticsvidhya.com/blog/2026/03/how-transformers-power-llm/) (2026-03-26)
 - [20+ Solved AI Projects to Build Your Portfolio and Boost Your Resume](https://www.analyticsvidhya.com/blog/2026/03/solved-ai-projects/) (2026-03-26)
 - [Claude Dispatch: How to Use It for Remote AI Automation](https://www.analyticsvidhya.com/blog/2026/03/claude-cowork-dispatch/) (2026-03-25)
-- [Top 46 AI Tools in 2026 You Must Use](https://www.analyticsvidhya.com/blog/2026/03/top-ai-tools-to-use/) (2026-03-25)
-- [Top 5 Free Google Certificate Courses in 2026](https://www.analyticsvidhya.com/blog/2026/03/free-google-certificate-courses/) (2026-03-24)
 
 </details>
 
