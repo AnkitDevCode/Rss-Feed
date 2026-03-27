@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label](https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk) (2026-03-26)
+- [Schedule tasks on the web](https://code.claude.com/docs/en/web-scheduled-tasks) (2026-03-27)
+- [HandyMKV for MakeMKV and HandBrake Automation](https://github.com/dmars8047/handymkv) (2026-03-27)
+- [Agent-to-agent pair programming](https://axeldelafosse.com/blog/agent-to-agent-pair-programming) (2026-03-27)
+- [From 0% to 36% on Day 1 of ARC-AGI-3](https://www.symbolica.ai/blog/arc-agi-3) (2026-03-27)
 - [Chicago artist creates tourism posters for city's neighborhoods](https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/) (2026-03-26)
-- [Order Granting Preliminary Injunction – Anthropic vs. U.S. Department of War [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.465515/gov.uscourts.cand.465515.134.0.pdf) (2026-03-26)
-- [Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/) (2026-03-26)
-- [Anthropic Subprocessor Changes](https://trust.anthropic.com) (2026-03-26)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Prevent agentic identity theft](https://stackoverflow.blog/2026/03/27/prevent-agentic-identity-theft/) (2026-03-27)
 - [Building shared coding guidelines for AI (and people too)](https://stackoverflow.blog/2026/03/26/coding-guidelines-for-ai-agents-and-people-too/) (2026-03-26)
 - [Multi-stage attacks are the Final Fantasy bosses of security](https://stackoverflow.blog/2026/03/24/multi-stage-attacks-are-the-final-fantasy-bosses-of-security/) (2026-03-24)
 - [After all the hype, was 2025 really the year of AI agents?](https://stackoverflow.blog/2026/03/20/was-2025-really-the-year-of-ai-agents/) (2026-03-20)
 - [AI is becoming a second brain at the expense of your first one](https://stackoverflow.blog/2026/03/19/ai-is-becoming-a-second-brain-at-the-expense-of-your-first-one/) (2026-03-19)
-- [Building a global engineering team (plus AI agents) with Netlify](https://stackoverflow.blog/2026/03/19/building-a-global-engineering-team-netlify/) (2026-03-19)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I Couldn't Find an OAuth 2.1 Proxy for MCP Servers, So I Built One](https://dev.to/cpremus/i-couldnt-find-an-oauth-21-proxy-for-mcp-servers-so-i-built-one-59nd) (2026-03-27)
-- [6Σ Models Explained: The Ultimate Guide to Six Sigma Methodologies for Business Excellence](https://dev.to/aloycwl/6s-models-explained-the-ultimate-guide-to-six-sigma-methodologies-for-business-excellence-5dnm) (2026-03-27)
-- [Amazon Bedrock + RDS Aurora: Generative AI Inside Your MySQL Database](https://dev.to/aws-builders/amazon-bedrock-rds-aurora-generative-ai-inside-your-mysql-database-cbf) (2026-03-27)
-- [LLM + SQL: Deterministic Answers with Amazon Bedrock and Athena](https://dev.to/aws-builders/llm-sql-deterministic-answers-with-amazon-bedrock-and-athena-4mh4) (2026-03-27)
-- [Amazon Bedrock Agents: Building an Industrial AI Assistant](https://dev.to/aws-builders/amazon-bedrock-agents-building-an-industrial-ai-assistant-57ci) (2026-03-27)
+- [Inside a Cyber Attack: How Hackers Think, Operate, and Exploit Systems](https://dev.to/zerocool_2012/inside-a-cyber-attack-how-hackers-think-operate-and-exploit-systems-3mp3) (2026-03-27)
+- [How I built a SaaS that sends AI-written Stripe reports every Monday — and what I learned](https://dev.to/agarridodev/how-i-built-a-saas-that-sends-ai-written-stripe-reports-every-monday-and-what-i-learned-5dae) (2026-03-27)
+- [Why Your AI Agent Needs Memory](https://dev.to/o96a/why-your-ai-agent-needs-memory-f6k) (2026-03-27)
+- [Snowbin A social platform where conversations are mindmaps (Nuxt + Common Lisp)](https://dev.to/rrepo/snowbin-a-social-platform-where-conversations-are-mindmaps-nuxt-common-lisp-1a4n) (2026-03-27)
+- [🛠️ Crompressor: Reality Compilation - Teaching Data Centers to Recognize Their Own Data - 🔒 -P2P FUSE file system reducing data payload to 20%](https://dev.to/mrjc/crompressor-reality-compilation-teaching-data-centers-to-recognize-their-own-data-p2p-2i7i) (2026-03-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why You’re Failing Backend Interviews (It’s Not Your Coding Skills)](https://medium.com/@developeryusuf/why-youre-failing-backend-interviews-it-s-not-your-coding-skills-b2785f64cd98?source=rss------programming-5) (2026-03-27)
-- [Stop Googling Docker Commands: The 10 You Need to Know Cold](https://medium.com/engineering-playbook/stop-googling-docker-commands-the-10-you-need-to-know-cold-8a639bd4b9a0?source=rss------programming-5) (2026-03-27)
-- [Zoxide: A Faster Way to Navigate Than cd](https://medium.com/@bektiaw/zoxide-a-faster-way-to-navigate-than-cd-12ef30ecafca?source=rss------programming-5) (2026-03-27)
-- [Why 6-month Cybersecurity Bootcamps Can’t Replace Foundational Knowledge](https://zauzanov.medium.com/why-6-month-cybersecurity-bootcamps-cant-replace-foundational-knowledge-35a1d7522389?source=rss------programming-5) (2026-03-27)
-- [Why I Stopped Fighting Notion and Built a “Google Keep for Developers”](https://medium.com/@picarda/why-i-stopped-fighting-notion-and-built-a-google-keep-for-developers-528dbc3037b2?source=rss------programming-5) (2026-03-27)
+- [How I Built a Hierarchical AI Engineering Team (And Cut My Costs by 80%)](https://medium.com/@kamaldeepsingh1011/how-i-built-a-hierarchical-ai-engineering-team-and-cut-my-costs-by-80-5496a4258156?source=rss------programming-5) (2026-03-27)
+- [1 Million+ Color Palettes: The Ultimate Open-Source Library for Modern Designers](https://medium.com/@manoj10101996/1-million-color-palettes-the-ultimate-open-source-library-for-modern-designers-673dfdd10ccc?source=rss------programming-5) (2026-03-27)
+- [Python Is Not Dying. Here Is the Data That Proves It.](https://medium.com/@inprogrammer/python-is-not-dying-here-is-the-data-that-proves-it-3c9455901957?source=rss------programming-5) (2026-03-27)
+- [I built a useless web app this week, and its the best thing I did for myself](https://medium.com/@tabassumneha572/i-built-a-useless-web-app-this-week-and-its-the-best-thing-i-did-for-myself-ce299ded2edd?source=rss------programming-5) (2026-03-27)
+- [I Found Claude Code’s Hidden Notes About My Codebase. It Knew Everything.](https://medium.com/@adityasankhla_39073/i-found-claude-codes-hidden-notes-about-my-codebase-it-knew-everything-ecb95e30f48d?source=rss------programming-5) (2026-03-27)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [AI for nuclear energy: Powering an intelligent, resilient future](https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/) (2026-03-25)
+- [What’s new with Microsoft in open-source and Kubernetes at KubeCon + CloudNativeCon Europe 2026](https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/) (2026-03-24)
 - [Advancing agentic AI with Microsoft databases across a unified data estate](https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/) (2026-03-18)
 - [FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/) (2026-03-18)
 - [Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI](https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/) (2026-03-16)
-- [From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation](https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/) (2026-03-16)
-- [Modernizing regulated industries with cloud and agentic AI](https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/) (2026-03-11)
 
 </details>
 
