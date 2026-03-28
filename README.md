@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [From Moon hotels to cattle herding: 8 startups investors chased at YC Demo Day](https://techcrunch.com/2026/03/28/from-moon-hotels-to-cattle-herding-8-startups-investors-chased-at-yc-demo-day/) (2026-03-28)
 - [Whoop has LeBron – now it wants your mom](https://techcrunch.com/2026/03/27/whoop-has-lebron-now-it-wants-your-mom/) (2026-03-28)
 - [Physical Intelligence is reportedly in talks to raise $1 billion, again](https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/) (2026-03-27)
 - [Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO](https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/) (2026-03-27)
 - [Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO](https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/) (2026-03-27)
-- [Waymo’s skyrocketing ridership in one chart](https://techcrunch.com/2026/03/27/waymo-skyrocketing-ridership-in-one-chart/) (2026-03-27)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/) (2026-03-28)
-- [Go hard on agents, not on your filesystem](https://jai.scs.stanford.edu/) (2026-03-28)
-- [Show HN: Twitch Roulette – Find live streamers who need views the most](https://twitchroulette.net/) (2026-03-27)
-- [Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser](https://github.com/davidmonterocrespo24/velxio) (2026-03-27)
-- [Colorado House passes bill to limit surveillance pricing and wage setting](https://coloradonewsline.com/briefs/surveillance-pricing-wage-setting/) (2026-03-27)
+- [I put all 8,642 Spanish laws in Git – every reform is a commit](https://github.com/EnriqueLop/legalize-es) (2026-03-28)
+- [Toma (YC W24) is hiring a Senior/Staff Eng to build AI automotive coworkers](https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer) (2026-03-28)
+- [I Built an Open-World Engine for the N64 [video]](https://www.youtube.com/watch?v=lXxmIw9axWw) (2026-03-28)
+- [No one is happy with NASA's new idea for private space stations](https://arstechnica.com/space/2026/03/what-happens-next-with-nasas-plan-to-replace-the-iss-source-it-could-get-ugly/) (2026-03-28)
+- [Britain today generating 90%+ of electricity from renewables](https://grid.iamkate.com/) (2026-03-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Why OpenAI killed Sora](https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition) (2026-03-28)
+- [The must-have app for frequent flyers](https://www.theverge.com/tech/902558/flighty-airport-bait-show-notion-installer) (2026-03-28)
+- [Oppo made the best foldable phone, again](https://www.theverge.com/tech/901846/oppo-find-n6-review-crease-screen-specs-price) (2026-03-28)
+- [Bluetti’s Sora 500 solar panel is incredibly powerful for its size](https://www.theverge.com/reviews/899289/bluetti-sora-500-review-portable-solar-panel) (2026-03-28)
 - [Sony temporarily suspends memory card sales due to shortages](https://www.theverge.com/tech/902828/sony-sd-cfexpress-memory-card-shortage) (2026-03-27)
-- [Insta360’s last-gen Link 2C is fantastic 4K webcam now that it’s 20 percent off](https://www.theverge.com/gadgets/902499/insta360-link-2c-webcam-amazon-big-spring-sale-2026-deal) (2026-03-27)
-- [The White House has an app now, and Trump wants you to report people to ICE on it](https://www.theverge.com/tech/902703/white-house-app-iphone-android) (2026-03-27)
-- [Wait, the Trump phone might actually exist](https://www.theverge.com/tech/902399/trump-phone-mobile-t1-fcc-certification-authorization) (2026-03-27)
-- [The latest in data centers, AI, and energy ](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy) (2026-03-27)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Getting formal about quantum mechanics' lack of causality](https://arstechnica.com/science/2026/03/getting-formal-about-quantum-mechanics-lack-of-causality/) (2026-03-28)
+- [How new fishing tech can reduce bycatch of turtles and other creatures](https://arstechnica.com/science/2026/03/how-new-fishing-tech-can-reduce-bycatch-of-turtles-and-other-creatures/) (2026-03-28)
 - [Playing Wolfenstein 3D with one hand in 2026](https://arstechnica.com/gaming/2026/03/playing-wolfenstein-3d-with-one-hand-in-2026/) (2026-03-27)
 - [With new plugins feature, OpenAI officially takes Codex beyond coding](https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/) (2026-03-27)
 - [Outbreak linked to raw cheese grows; 9 cases total, one with kidney failure](https://arstechnica.com/health/2026/03/kidney-failure-case-reported-in-raw-cheese-outbreak-maker-still-denies-link/) (2026-03-27)
-- [Judge irate as defendant joins by Zoom while driving—then lies about it](https://arstechnica.com/tech-policy/2026/03/judge-irate-as-defendant-joins-by-zoom-while-driving-then-lies-about-it/) (2026-03-27)
-- [AV1’s open, royalty-free promise in question as Dolby sues Snapchat over codec](https://arstechnica.com/gadgets/2026/03/av1s-open-royalty-free-promise-in-question-as-dolby-sues-snapchat-over-codec/) (2026-03-27)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [A woman’s uterus has been kept alive outside the body for the first time](https://www.technologyreview.com/2026/03/28/1134766/womans-uterus-kept-alive-outside-the-body-first/) (2026-03-28)
 - [The Download: the internet’s best weather app, and why people freeze their brains](https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/) (2026-03-27)
 - [Here’s why some people choose cryonics to store their bodies and brains after death](https://www.technologyreview.com/2026/03/27/1134705/cryonics-store-bodies-brains-after-death/) (2026-03-27)
 - [The Download: a battery pivot to AI, and rewriting math](https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/) (2026-03-26)
 - [The snow gods: How a couple of ski bums built the internet’s best weather app](https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/) (2026-03-26)
-- [Are high gas prices good news for EVs? It’s complicated.](https://www.technologyreview.com/2026/03/26/1134677/gas-prices-electric-vehicles/) (2026-03-26)
 
 </details>
 
@@ -97,23 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why Your AI Agents Need a Chief of Staff (Not More Prompts)](https://dev.to/axw/why-your-ai-agents-need-a-chief-of-staff-not-more-prompts-57m4) (2026-03-28)
-- [Effect Has a Free TypeScript Library — The Missing Standard Library for TS](https://dev.to/0012303/effect-has-a-free-typescript-library-the-missing-standard-library-for-ts-296a) (2026-03-28)
-- [AI Bug Tracker with Notion MCP](https://dev.to/nani_hatake_cff6f15517cdd/ai-bug-tracker-with-notion-mcp-67a) (2026-03-28)
-- [Introducing minlsp](https://dev.to/bradley_nash/introducing-minlsp-518o) (2026-03-28)
-- [I built a health companion that actually remembers you](https://dev.to/bhoogle/i-built-a-health-companion-that-actually-remembers-you-5302) (2026-03-28)
+- [Credentials Route. Identity Confirms. Agent Discovery Has It Backwards.](https://dev.to/douglasborthwickcrypto/credentials-route-identity-confirms-agent-discovery-has-it-backwards-4k3) (2026-03-28)
+- [The Six-Month Onboarding Lie: Why Most Teams Never Really Let New Developers Join the Real Work](https://dev.to/omieee_24/the-six-month-onboarding-lie-why-most-teams-never-really-let-new-developers-join-the-real-work-4pcg) (2026-03-28)
+- [Show DEV: MisarMail — Self-Hosted Email Infrastructure (Transactional, Marketing, Bulk)](https://dev.to/gulshan_yadav_048691962cb/show-dev-misarmail-self-hosted-email-infrastructure-transactional-marketing-bulk-4oca) (2026-03-28)
+- [I Built an AI-Powered Budget Tracker Using Notion MCP and Claude](https://dev.to/hamda_naz_df4ec576d4399b8/i-built-an-ai-powered-budget-tracker-using-notion-mcp-and-claude-57pl) (2026-03-28)
+- [How I Built My Cloud Resume on Azure with Terraform & GitHub Actions](https://dev.to/dinku143/how-i-built-my-cloud-resume-on-azure-with-terraform-github-actions-54no) (2026-03-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Xiaomi Poco X8 Pro Review: Iron Man](https://medium.com/@99techpost/xiaomi-poco-x8-pro-review-iron-man-26ab86e1d684?source=rss------programming-5) (2026-03-28)
-- [Memory Management in JavaScript (Explained Like You’re 5)](https://medium.com/write-a-catalyst/memory-management-in-javascript-explained-like-youre-5-20854e22cc04?source=rss------programming-5) (2026-03-28)
-- [7 Modern Python Features That Can Save You Hours Every Week](https://medium.com/write-a-catalyst/7-modern-python-features-that-can-save-you-hours-every-week-86411df68dbf?source=rss------programming-5) (2026-03-28)
-- [Google pixel 11 pro leaks first look!](https://medium.com/@99techpost/google-pixel-11-pro-leaks-first-look-b60edefa9a7d?source=rss------programming-5) (2026-03-28)
-- [Java Interview Questions for 4+ Years Experience | HighRadius Preparation
-Preparing for a Senior…](https://medium.com/@ajit-gupta/java-interview-questions-for-4-years-experience-highradius-preparation-preparing-for-a-senior-4da21eba0b55?source=rss------programming-5) (2026-03-28)
+- [4 Habits That Will Improve Your Coding Daily](https://medium.com/skillstuff/4-habits-that-will-improve-your-coding-daily-4958e885d70e?source=rss------programming-5) (2026-03-28)
+- [I Thought I Mastered Java Collections — Then I Learned These 11 Tricks](https://blog.stackademic.com/i-thought-i-mastered-java-collections-then-i-learned-these-11-tricks-e13bec6fb02e?source=rss------programming-5) (2026-03-28)
+- [Python 3.14 Isn’t Flashy — But It Might Be One of the Most Useful Releases Yet](https://milind-divre.medium.com/python-3-14-isnt-flashy-but-it-might-be-one-of-the-most-useful-releases-yet-0d461d0cd5ef?source=rss------programming-5) (2026-03-28)
+- [How to build a shared AI context for your engineering team](https://medium.com/@gokhanamal/how-to-build-a-shared-ai-context-for-your-engineering-team-2a5a9c33ec83?source=rss------programming-5) (2026-03-28)
+- [Cursor AI in 2026: The Hottest Generative AI Tool That’s Rewriting How We Build Software](https://kasata.medium.com/cursor-ai-in-2026-the-hottest-generative-ai-tool-thats-rewriting-how-we-build-software-092f2a008f86?source=rss------programming-5) (2026-03-28)
 
 </details>
 
@@ -549,11 +548,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Liberate your OpenClaw](https://huggingface.co/blog/liberate-your-openclaw) (2026-03-27)
 - [A New Framework for Evaluating Voice Agents (EVA)](https://huggingface.co/blog/ServiceNow-AI/eva) (2026-03-24)
 - [Build a Domain-Specific Embedding Model in Under a Day](https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune) (2026-03-20)
 - [What's New in Mellea 0.4.0 + Granite Libraries Release](https://huggingface.co/blog/ibm-granite/granite-libraries) (2026-03-20)
 - [State of Open Source on Hugging Face: Spring 2026](https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026) (2026-03-17)
-- [Holotron-12B - High Throughput Computer Use Agent](https://huggingface.co/blog/Hcompany/holotron-12b) (2026-03-17)
 
 </details>
 
