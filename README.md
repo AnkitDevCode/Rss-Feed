@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Whoop has LeBron – now it wants your mom](https://techcrunch.com/2026/03/27/whoop-has-lebron-now-it-wants-your-mom/) (2026-03-28)
 - [Physical Intelligence is reportedly in talks to raise $1 billion, again](https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/) (2026-03-27)
 - [Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO](https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/) (2026-03-27)
 - [Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO](https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/) (2026-03-27)
 - [Waymo’s skyrocketing ridership in one chart](https://techcrunch.com/2026/03/27/waymo-skyrocketing-ridership-in-one-chart/) (2026-03-27)
-- [European Commission confirms cyberattack after hackers claim data breach ](https://techcrunch.com/2026/03/27/european-commission-confirms-cyberattack-after-hackers-claim-data-breach/) (2026-03-27)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Don't YOLO your file system](https://jai.scs.stanford.edu/) (2026-03-28)
+- [AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/) (2026-03-28)
+- [Go hard on agents, not on your filesystem](https://jai.scs.stanford.edu/) (2026-03-28)
 - [Show HN: Twitch Roulette – Find live streamers who need views the most](https://twitchroulette.net/) (2026-03-27)
-- [DOJ confirms FBI Director Kash Patel's personal email was hacked](https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/) (2026-03-27)
-- [Slovenia becomes first EU country to introduce fuel rationing](https://www.bbc.com/news/articles/c77m4zx6zvmo) (2026-03-27)
 - [Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser](https://github.com/davidmonterocrespo24/velxio) (2026-03-27)
+- [Colorado House passes bill to limit surveillance pricing and wage setting](https://coloradonewsline.com/briefs/surveillance-pricing-wage-setting/) (2026-03-27)
 
 </details>
 
@@ -97,22 +97,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Debug-First AI Workflow: Why I Make My Assistant Break Things on Purpose](https://dev.to/novaelvaris/the-debug-first-ai-workflow-why-i-make-my-assistant-break-things-on-purpose-2b13) (2026-03-28)
-- [Context Windows Are Lying to You: How to Actually Use 128K Tokens](https://dev.to/novaelvaris/context-windows-are-lying-to-you-how-to-actually-use-128k-tokens-4i8i) (2026-03-28)
-- [Why I Stopped Using AI for Boilerplate (and What I Use It For Instead)](https://dev.to/novaelvaris/why-i-stopped-using-ai-for-boilerplate-and-what-i-use-it-for-instead-2368) (2026-03-28)
-- [The Dream of Mechanical Life](https://dev.to/is_insane/the-dream-of-mechanical-life-4bh9) (2026-03-28)
-- [The Context Window Is the New Memory Architecture](https://dev.to/o96a/the-context-window-is-the-new-memory-architecture-598p) (2026-03-28)
+- [Why Your AI Agents Need a Chief of Staff (Not More Prompts)](https://dev.to/axw/why-your-ai-agents-need-a-chief-of-staff-not-more-prompts-57m4) (2026-03-28)
+- [Effect Has a Free TypeScript Library — The Missing Standard Library for TS](https://dev.to/0012303/effect-has-a-free-typescript-library-the-missing-standard-library-for-ts-296a) (2026-03-28)
+- [AI Bug Tracker with Notion MCP](https://dev.to/nani_hatake_cff6f15517cdd/ai-bug-tracker-with-notion-mcp-67a) (2026-03-28)
+- [Introducing minlsp](https://dev.to/bradley_nash/introducing-minlsp-518o) (2026-03-28)
+- [I built a health companion that actually remembers you](https://dev.to/bhoogle/i-built-a-health-companion-that-actually-remembers-you-5302) (2026-03-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Thought I Was in Control Until the Logs Said Otherwise](https://medium.com/data-and-beyond/i-thought-i-was-in-control-until-the-logs-said-otherwise-28a5e6a62c37?source=rss------programming-5) (2026-03-28)
-- [Most of the work that matters… no one will ever see.](https://medium.com/@jeffnelly/most-of-the-work-that-matters-no-one-will-ever-see-8c69295119e4?source=rss------programming-5) (2026-03-28)
-- [‍♀️ Coaching and Mentoring Skills ](https://medium.com/@Sonakshee/%EF%B8%8F-coaching-and-mentoring-skills-6996e211a835?source=rss------programming-5) (2026-03-28)
-- [Top Free Mac Replacements for Paid Productivity Apps](https://medium.com/macoclock/top-free-mac-replacements-for-paid-productivity-apps-7ed320655809?source=rss------programming-5) (2026-03-28)
-- [My Exact AI Workflow: How I Use GPT-5.4 + Claude Together](https://shwetaprasad150.medium.com/my-exact-ai-workflow-how-i-use-gpt-5-4-claude-together-fefa1d1e4b53?source=rss------programming-5) (2026-03-28)
+- [Xiaomi Poco X8 Pro Review: Iron Man](https://medium.com/@99techpost/xiaomi-poco-x8-pro-review-iron-man-26ab86e1d684?source=rss------programming-5) (2026-03-28)
+- [Memory Management in JavaScript (Explained Like You’re 5)](https://medium.com/write-a-catalyst/memory-management-in-javascript-explained-like-youre-5-20854e22cc04?source=rss------programming-5) (2026-03-28)
+- [7 Modern Python Features That Can Save You Hours Every Week](https://medium.com/write-a-catalyst/7-modern-python-features-that-can-save-you-hours-every-week-86411df68dbf?source=rss------programming-5) (2026-03-28)
+- [Google pixel 11 pro leaks first look!](https://medium.com/@99techpost/google-pixel-11-pro-leaks-first-look-b60edefa9a7d?source=rss------programming-5) (2026-03-28)
+- [Java Interview Questions for 4+ Years Experience | HighRadius Preparation
+Preparing for a Senior…](https://medium.com/@ajit-gupta/java-interview-questions-for-4-years-experience-highradius-preparation-preparing-for-a-senior-4da21eba0b55?source=rss------programming-5) (2026-03-28)
 
 </details>
 
@@ -581,11 +582,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Building Custom Claude Skills For Repeatable AI Workflows](https://www.analyticsvidhya.com/blog/2026/03/custom-claude-skills-for-repeatable-ai-workflows/) (2026-03-28)
 - [Build an AI Meeting Summarizer & Action Planner with Claude Code + MCP ](https://www.analyticsvidhya.com/blog/2026/03/ai-meeting-summarizer-with-claude-code-mcp/) (2026-03-27)
 - [Build a Full-Stack App in Minutes with Google’s New AI Studio Tools](https://www.analyticsvidhya.com/blog/2026/03/google-ai-studio-tools-build-a-full-stack-app-in-minutes/) (2026-03-27)
 - [How Transformers Power LLMs: Step-by-Step Guide ](https://www.analyticsvidhya.com/blog/2026/03/how-transformers-power-llm/) (2026-03-26)
 - [20+ Solved AI Projects to Build Your Portfolio and Boost Your Resume](https://www.analyticsvidhya.com/blog/2026/03/solved-ai-projects/) (2026-03-26)
-- [Claude Dispatch: How to Use It for Remote AI Automation](https://www.analyticsvidhya.com/blog/2026/03/claude-cowork-dispatch/) (2026-03-25)
 
 </details>
 
