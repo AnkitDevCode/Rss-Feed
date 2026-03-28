@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Physical Intelligence is reportedly in talks to raise $1 billion, again](https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/) (2026-03-27)
+- [Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO](https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/) (2026-03-27)
+- [Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO](https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/) (2026-03-27)
+- [Waymo’s skyrocketing ridership in one chart](https://techcrunch.com/2026/03/27/waymo-skyrocketing-ridership-in-one-chart/) (2026-03-27)
 - [European Commission confirms cyberattack after hackers claim data breach ](https://techcrunch.com/2026/03/27/european-commission-confirms-cyberattack-after-hackers-claim-data-breach/) (2026-03-27)
-- [Aetherflux reportedly raising Series B at $2 billion valuation](https://techcrunch.com/2026/03/27/aetherflux-reportedly-raising-series-b-at-2-billion-valuation/) (2026-03-27)
-- [Rivian gets another $1B from Volkswagen](https://techcrunch.com/2026/03/27/rivian-gets-another-1b-from-volkswagen/) (2026-03-27)
-- [Iranian hackers claim breach of FBI director Kash Patel’s personal email account](https://techcrunch.com/2026/03/27/iranian-hackers-claim-breach-of-fbi-director-kash-patels-personal-email-account/) (2026-03-27)
-- [Apple says no one using Lockdown Mode has been hacked with spyware](https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/) (2026-03-27)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Don't Wait for Claude](https://jeapostrophe.github.io/tech/jc-workflow/) (2026-03-27)
-- [Iran-linked hackers have breached FBI director's personal emails](https://www.cnn.com/2026/03/27/politics/iran-linked-hackers-fbi-director-patel) (2026-03-27)
-- [AI got the blame for the Iran school bombing. The truth is more worrying](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying) (2026-03-27)
-- [Apple says no one using Lockdown Mode has been hacked with spyware](https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/) (2026-03-27)
-- [Desk for people who work at home with a cat](https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/) (2026-03-27)
+- [Don't YOLO your file system](https://jai.scs.stanford.edu/) (2026-03-28)
+- [Show HN: Twitch Roulette – Find live streamers who need views the most](https://twitchroulette.net/) (2026-03-27)
+- [DOJ confirms FBI Director Kash Patel's personal email was hacked](https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/) (2026-03-27)
+- [Slovenia becomes first EU country to introduce fuel rationing](https://www.bbc.com/news/articles/c77m4zx6zvmo) (2026-03-27)
+- [Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser](https://github.com/davidmonterocrespo24/velxio) (2026-03-27)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Sony temporarily suspends memory card sales due to shortages](https://www.theverge.com/tech/902828/sony-sd-cfexpress-memory-card-shortage) (2026-03-27)
+- [Insta360’s last-gen Link 2C is fantastic 4K webcam now that it’s 20 percent off](https://www.theverge.com/gadgets/902499/insta360-link-2c-webcam-amazon-big-spring-sale-2026-deal) (2026-03-27)
+- [The White House has an app now, and Trump wants you to report people to ICE on it](https://www.theverge.com/tech/902703/white-house-app-iphone-android) (2026-03-27)
+- [Wait, the Trump phone might actually exist](https://www.theverge.com/tech/902399/trump-phone-mobile-t1-fcc-certification-authorization) (2026-03-27)
 - [The latest in data centers, AI, and energy ](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy) (2026-03-27)
-- [Anker’s 160W Prime Charger can power three devices at once, and it&#8217;s $50 off](https://www.theverge.com/gadgets/902130/anker-prime-charger-160w-usb-c-amazon-big-spring-sale-2026-deal) (2026-03-27)
-- [Nuki’s one-touch retrofit smart lock got its first-ever discount](https://www.theverge.com/gadgets/902276/nuki-smart-lock-thread-matter-smart-home-amazon-big-spring-sale-2026-deal) (2026-03-27)
-- [This modular crafting machine can create custom shirts, phone cases, and molds](https://www.theverge.com/tech/902369/xtool-wonderpress-heat-press-vacuum-former-oven-crafting-preorder) (2026-03-27)
-- [We handpicked the 24 best Big Spring Sale deals under $50](https://www.theverge.com/gadgets/901519/best-cheap-tech-deals-under-50-amazon-big-spring-sale-2026) (2026-03-27)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [DOJ confirms FBI Director Kash Patel’s personal email was hacked](https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/) (2026-03-27)
-- [Sony is raising PlayStation 5 prices again, this time by between $100 and $150](https://arstechnica.com/gadgets/2026/03/sony-is-raising-playstation-5-prices-again-this-time-by-between-100-and-150/) (2026-03-27)
-- [No one is happy with NASA's new idea for private space stations](https://arstechnica.com/space/2026/03/what-happens-next-with-nasas-plan-to-replace-the-iss-source-it-could-get-ugly/) (2026-03-27)
-- [Apple pulls the plug on its high-priced, oft-neglected Mac Pro desktop](https://arstechnica.com/gadgets/2026/03/apple-has-finally-discontinued-the-mac-pro-desktop-after-years-of-fitful-effort/) (2026-03-27)
-- [Rivian and VW Group complete winter testing of new zonal architecture](https://arstechnica.com/cars/2026/03/rivian-and-vw-group-complete-winter-testing-of-new-zonal-architecture/) (2026-03-27)
+- [Playing Wolfenstein 3D with one hand in 2026](https://arstechnica.com/gaming/2026/03/playing-wolfenstein-3d-with-one-hand-in-2026/) (2026-03-27)
+- [With new plugins feature, OpenAI officially takes Codex beyond coding](https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/) (2026-03-27)
+- [Outbreak linked to raw cheese grows; 9 cases total, one with kidney failure](https://arstechnica.com/health/2026/03/kidney-failure-case-reported-in-raw-cheese-outbreak-maker-still-denies-link/) (2026-03-27)
+- [Judge irate as defendant joins by Zoom while driving—then lies about it](https://arstechnica.com/tech-policy/2026/03/judge-irate-as-defendant-joins-by-zoom-while-driving-then-lies-about-it/) (2026-03-27)
+- [AV1’s open, royalty-free promise in question as Dolby sues Snapchat over codec](https://arstechnica.com/gadgets/2026/03/av1s-open-royalty-free-promise-in-question-as-dolby-sues-snapchat-over-codec/) (2026-03-27)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Week 2 - Learning K8s](https://dev.to/nicbaughman/week-2-learning-k8s-db2) (2026-03-27)
-- [7 Mac Apps Every Startup CTO Should Have in 2026](https://dev.to/godnick/7-mac-apps-every-startup-cto-should-have-in-2026-2k2b) (2026-03-27)
-- [AI Agent Memory: How Agents Remember, Learn &amp; Persist Context (2026 Guide)](https://dev.to/paxrel/ai-agent-memory-how-agents-remember-learn-amp-persist-context-2026-guide-48dn) (2026-03-27)
-- [How I Built a Self-Updater With GitHub Releases](https://dev.to/cn8001/how-i-built-a-self-updater-with-github-releases-2j15) (2026-03-27)
-- [The API Surface Is the New Product. Revolut Just Proved It](https://dev.to/o96a/the-api-surface-is-the-new-product-revolut-just-proved-it-2oi6) (2026-03-27)
+- [The Debug-First AI Workflow: Why I Make My Assistant Break Things on Purpose](https://dev.to/novaelvaris/the-debug-first-ai-workflow-why-i-make-my-assistant-break-things-on-purpose-2b13) (2026-03-28)
+- [Context Windows Are Lying to You: How to Actually Use 128K Tokens](https://dev.to/novaelvaris/context-windows-are-lying-to-you-how-to-actually-use-128k-tokens-4i8i) (2026-03-28)
+- [Why I Stopped Using AI for Boilerplate (and What I Use It For Instead)](https://dev.to/novaelvaris/why-i-stopped-using-ai-for-boilerplate-and-what-i-use-it-for-instead-2368) (2026-03-28)
+- [The Dream of Mechanical Life](https://dev.to/is_insane/the-dream-of-mechanical-life-4bh9) (2026-03-28)
+- [The Context Window Is the New Memory Architecture](https://dev.to/o96a/the-context-window-is-the-new-memory-architecture-598p) (2026-03-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Understanding Python Libraries: A Guide to NumPy, Pandas, and More](https://medium.com/@humayumahi/understanding-python-libraries-a-guide-to-numpy-pandas-and-more-2929000ea315?source=rss------programming-5) (2026-03-27)
-- [This $5 Checklist Prevented 12 Disasters (My CEO Made It Mandatory)](https://medium.com/lets-code-future/this-5-checklist-prevented-12-disasters-my-ceo-made-it-mandatory-bf4086a093d2?source=rss------programming-5) (2026-03-27)
-- [The Biggest Lie Engineers Tell: “We Don’t Use Algorithms at Work”](https://medium.com/@kanishks772/the-biggest-lie-engineers-tell-we-dont-use-algorithms-at-work-bb3fd7c3c90a?source=rss------programming-5) (2026-03-27)
-- [Beyond unwrap(): Your 2026 Guide to Fearless Error Handling in Rust ](https://medium.com/@puneetpm/beyond-unwrap-your-2026-guide-to-fearless-error-handling-in-rust-984e07495c0a?source=rss------programming-5) (2026-03-27)
-- [Fine-Tuning AI Models: Teaching an Old Dog Very New Tricks](https://medium.com/@siddantvardey/fine-tuning-ai-models-teaching-an-old-dog-very-new-tricks-91468dc0ef33?source=rss------programming-5) (2026-03-27)
+- [I Thought I Was in Control Until the Logs Said Otherwise](https://medium.com/data-and-beyond/i-thought-i-was-in-control-until-the-logs-said-otherwise-28a5e6a62c37?source=rss------programming-5) (2026-03-28)
+- [Most of the work that matters… no one will ever see.](https://medium.com/@jeffnelly/most-of-the-work-that-matters-no-one-will-ever-see-8c69295119e4?source=rss------programming-5) (2026-03-28)
+- [‍♀️ Coaching and Mentoring Skills ](https://medium.com/@Sonakshee/%EF%B8%8F-coaching-and-mentoring-skills-6996e211a835?source=rss------programming-5) (2026-03-28)
+- [Top Free Mac Replacements for Paid Productivity Apps](https://medium.com/macoclock/top-free-mac-replacements-for-paid-productivity-apps-7ed320655809?source=rss------programming-5) (2026-03-28)
+- [My Exact AI Workflow: How I Use GPT-5.4 + Claude Together](https://shwetaprasad150.medium.com/my-exact-ai-workflow-how-i-use-gpt-5-4-claude-together-fefa1d1e4b53?source=rss------programming-5) (2026-03-28)
 
 </details>
 
@@ -233,7 +233,7 @@
 - [From vendors to vanguard: Airbnb’s hard-won lessons in observability ownership](https://medium.com/airbnb-engineering/from-vendors-to-vanguard-airbnbs-hard-won-lessons-in-observability-ownership-3811bf6c1ac3?source=rss----53c7c27702d5---4) (2026-03-17)
 - [Recommending travel destinations to help users explore](https://medium.com/airbnb-engineering/recommending-travel-destinations-to-help-users-explore-5fa7a81654fb?source=rss----53c7c27702d5---4) (2026-03-12)
 - [It wasn’t a culture problem: Upleveling alert development at Airbnb](https://medium.com/airbnb-engineering/it-wasnt-a-culture-problem-upleveling-alert-development-at-airbnb-01e2290eb0f5?source=rss----53c7c27702d5---4) (2026-03-04)
-- [Academic Publications & Airbnb Tech: 2025 Year in Review](https://medium.com/airbnb-engineering/academic-publications-airbnb-tech-2025-year-in-review-7d79f57d3b52?source=rss----53c7c27702d5---4) (2026-02-24)
+- [Academic publications & Airbnb Tech: 2025 year in review](https://medium.com/airbnb-engineering/academic-publications-airbnb-tech-2025-year-in-review-7d79f57d3b52?source=rss----53c7c27702d5---4) (2026-02-24)
 
 </details>
 
@@ -362,6 +362,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+How to Bring Your Own Keys for Okta Telephony with Twilio Verify
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/okta-byok-verify
+) (2026-03-27)
+- [
+How to Enable Branded Calling with Twilio
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/enable-branded-calling-twilio
+) (2026-03-26)
+- [
 How to Use Google Sheets as a Database for Your PHP App
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/use-google-sheets-as-database-for-php-app
@@ -376,16 +386,6 @@ How to Approve Real Users and Block Fake Accounts at Sign Up with Lookup and Ver
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accounts-lookup-verify-node
 ) (2026-03-16)
-- [
-How to Handle No-Answer/Pickup Scenarios with Voicemail and Callback using Twilio Voice 
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/no-answer-pickup-scenarios-with-voicemail-and-callack-using-twilio-voice
-) (2026-03-16)
-- [
-Build a WhatsApp AI Agent with Node.js, Twilio Messaging, and OpenAI’s GPT-5
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/whatsapp-ai-agent-twilio-openai
-) (2026-03-12)
 
 </details>
 
@@ -427,11 +427,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/whatsapp-ai-
 <details>
 <summary>🔷 Prisma Blog</summary>
 
-- [Key takeaways from the Discover Data DX virtual event](https://www.prisma.io/blog/datadx-event-recap-z5Pcp6HzBz5m) (2023-12-13)
-- [Prisma Accelerate now in General Availability](https://www.prisma.io/blog/accelerate-ga-release-I9cQM6bSf2g6) (2023-10-26)
-- [Support for Serverless Database Drivers in Prisma ORM Is Now in Preview](https://www.prisma.io/blog/serverless-database-drivers-KML1ehXORxZV) (2023-10-06)
-- [Launching the Data DX Manifesto: Shaping a new paradigm in data-driven development](https://www.prisma.io/blog/datadx-manifesto-ikgyqj170k8h) (2023-10-05)
-- [SQLite on the Edge: Prisma Support for Turso is in Early Access](https://www.prisma.io/blog/prisma-turso-ea-support-rXGd_Tmy3UXX) (2023-09-28)
+- [Rethinking Database Migrations](https://www.prisma.io/blog/rethinking-database-migrations) (2026-03-27)
+- [Sunsetting Prisma Optimize](https://www.prisma.io/blog/sunsetting-prisma-optimize) (2026-03-23)
+- [Prisma Next Roadmap](https://www.prisma.io/blog/prisma-next-roadmap) (2026-03-20)
+- [Rebuilding the Prisma Docs: A New Framework, Design, and Structure](https://www.prisma.io/blog/rebuilding-the-prisma-docs) (2026-03-09)
+- [The Next Evolution of Prisma ORM](https://www.prisma.io/blog/the-next-evolution-of-prisma-orm) (2026-03-04)
 
 </details>
 
