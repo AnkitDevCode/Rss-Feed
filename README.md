@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [From Moon hotels to cattle herding: 8 startups investors chased at YC Demo Day](https://techcrunch.com/2026/03/28/from-moon-hotels-to-cattle-herding-8-startups-investors-chased-at-yc-demo-day/) (2026-03-28)
-- [Whoop has LeBron – now it wants your mom](https://techcrunch.com/2026/03/27/whoop-has-lebron-now-it-wants-your-mom/) (2026-03-28)
-- [Physical Intelligence is reportedly in talks to raise $1 billion, again](https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/) (2026-03-27)
-- [Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO](https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/) (2026-03-27)
-- [Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO](https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/) (2026-03-27)
+- [Elon Musk’s last co-founder reportedly leaves xAI](https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/) (2026-03-28)
+- [These iPad apps will make you wish you had more free time](https://techcrunch.com/2026/03/28/best-ipad-apps-for-unleashing-and-exploring-your-creativity/) (2026-03-28)
+- [Anthropic’s Claude popularity with paying consumers is skyrocketing](https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/) (2026-03-28)
+- [What will power the grid in 2035? The race is wide open](https://techcrunch.com/2026/03/28/what-will-power-the-grid-in-2035-the-race-is-wide-open/) (2026-03-28)
+- [Let’s take a look at the retro tech making a comeback](https://techcrunch.com/2026/03/28/lets-take-a-look-at-the-retro-tech-making-a-comeback/) (2026-03-28)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [I put all 8,642 Spanish laws in Git – every reform is a commit](https://github.com/EnriqueLop/legalize-es) (2026-03-28)
-- [Toma (YC W24) is hiring a Senior/Staff Eng to build AI automotive coworkers](https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer) (2026-03-28)
-- [I Built an Open-World Engine for the N64 [video]](https://www.youtube.com/watch?v=lXxmIw9axWw) (2026-03-28)
-- [No one is happy with NASA's new idea for private space stations](https://arstechnica.com/space/2026/03/what-happens-next-with-nasas-plan-to-replace-the-iss-source-it-could-get-ugly/) (2026-03-28)
-- [Britain today generating 90%+ of electricity from renewables](https://grid.iamkate.com/) (2026-03-28)
+- [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/) (2026-03-28)
+- [Linux is an interpreter](https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/) (2026-03-28)
+- [Undroidwish – a single-file, batteries-included Tcl/Tk binary for many platforms](https://androwish.org/home/wiki?name=undroidwish) (2026-03-28)
+- [rpg.actor Game Jam](https://rpg.actor/jam) (2026-03-28)
+- [Circuit-level PDP-11/34 emulator](https://github.com/dbrll/ll-34) (2026-03-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Why OpenAI killed Sora](https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition) (2026-03-28)
-- [The must-have app for frequent flyers](https://www.theverge.com/tech/902558/flighty-airport-bait-show-notion-installer) (2026-03-28)
-- [Oppo made the best foldable phone, again](https://www.theverge.com/tech/901846/oppo-find-n6-review-crease-screen-specs-price) (2026-03-28)
-- [Bluetti’s Sora 500 solar panel is incredibly powerful for its size](https://www.theverge.com/reviews/899289/bluetti-sora-500-review-portable-solar-panel) (2026-03-28)
-- [Sony temporarily suspends memory card sales due to shortages](https://www.theverge.com/tech/902828/sony-sd-cfexpress-memory-card-shortage) (2026-03-27)
+- [Suno leans into customization with v5.5](https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model) (2026-03-28)
+- [The best deals we’ve found from Amazon’s Big Spring Sale (so far)](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals) (2026-03-28)
+- [SteelSeries’ feature-packed Nova Pro Wireless headset is $80 off](https://www.theverge.com/gadgets/902643/steelseries-arctis-nova-pro-wireless-pc-ps5-xbox-headset-gaming-amazon-big-spring-sale-2026-deal) (2026-03-28)
+- [Why can’t TikTok identify AI generated ads when I can?](https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure) (2026-03-28)
+- [Meta’s legal defeat could be a victory for children, or a loss for everyone](https://www.theverge.com/policy/903006/meta-new-mexico-los-angeles-child-safety-trial-impact) (2026-03-28)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Getting formal about quantum mechanics' lack of causality](https://arstechnica.com/science/2026/03/getting-formal-about-quantum-mechanics-lack-of-causality/) (2026-03-28)
+- [Explanation for why we don't see two-foot-long dragonflies anymore fails](https://arstechnica.com/science/2026/03/leading-explanation-for-ancient-giant-flying-insects-gets-squashed/) (2026-03-28)
+- [Causality optional? Testing the "indefinite causal order" superposition](https://arstechnica.com/science/2026/03/getting-formal-about-quantum-mechanics-lack-of-causality/) (2026-03-28)
 - [How new fishing tech can reduce bycatch of turtles and other creatures](https://arstechnica.com/science/2026/03/how-new-fishing-tech-can-reduce-bycatch-of-turtles-and-other-creatures/) (2026-03-28)
 - [Playing Wolfenstein 3D with one hand in 2026](https://arstechnica.com/gaming/2026/03/playing-wolfenstein-3d-with-one-hand-in-2026/) (2026-03-27)
 - [With new plugins feature, OpenAI officially takes Codex beyond coding](https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/) (2026-03-27)
-- [Outbreak linked to raw cheese grows; 9 cases total, one with kidney failure](https://arstechnica.com/health/2026/03/kidney-failure-case-reported-in-raw-cheese-outbreak-maker-still-denies-link/) (2026-03-27)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Credentials Route. Identity Confirms. Agent Discovery Has It Backwards.](https://dev.to/douglasborthwickcrypto/credentials-route-identity-confirms-agent-discovery-has-it-backwards-4k3) (2026-03-28)
-- [The Six-Month Onboarding Lie: Why Most Teams Never Really Let New Developers Join the Real Work](https://dev.to/omieee_24/the-six-month-onboarding-lie-why-most-teams-never-really-let-new-developers-join-the-real-work-4pcg) (2026-03-28)
-- [Show DEV: MisarMail — Self-Hosted Email Infrastructure (Transactional, Marketing, Bulk)](https://dev.to/gulshan_yadav_048691962cb/show-dev-misarmail-self-hosted-email-infrastructure-transactional-marketing-bulk-4oca) (2026-03-28)
-- [I Built an AI-Powered Budget Tracker Using Notion MCP and Claude](https://dev.to/hamda_naz_df4ec576d4399b8/i-built-an-ai-powered-budget-tracker-using-notion-mcp-and-claude-57pl) (2026-03-28)
-- [How I Built My Cloud Resume on Azure with Terraform & GitHub Actions](https://dev.to/dinku143/how-i-built-my-cloud-resume-on-azure-with-terraform-github-actions-54no) (2026-03-28)
+- [Meta Cut 700 Jobs to Bet Everything on AI. Is That Smart?](https://dev.to/alanwest/meta-cut-700-jobs-to-bet-everything-on-ai-is-that-smart-5c2e) (2026-03-28)
+- [Salesforce Permission Sets: The Complete Guide for 2026](https://dev.to/dipojjal/salesforce-permission-sets-the-complete-guide-for-2026-49pe) (2026-03-28)
+- [TurboQuant: What Developers Need to Know About Google's KV Cache Compression](https://dev.to/arshtechpro/turboquant-what-developers-need-to-know-about-googles-kv-cache-compression-eeg) (2026-03-28)
+- [how DNS resolver is happening - CA27](https://dev.to/mohith_001/how-a-request-originates-from-cllient-and-reaches-the-server-ca26-4g1m) (2026-03-28)
+- [Write Maintainable Code, Not Perfect Code](https://dev.to/chris_lee_5e58cce05f5d01d/write-maintainable-code-not-perfect-code-37mh) (2026-03-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [4 Habits That Will Improve Your Coding Daily](https://medium.com/skillstuff/4-habits-that-will-improve-your-coding-daily-4958e885d70e?source=rss------programming-5) (2026-03-28)
-- [I Thought I Mastered Java Collections — Then I Learned These 11 Tricks](https://blog.stackademic.com/i-thought-i-mastered-java-collections-then-i-learned-these-11-tricks-e13bec6fb02e?source=rss------programming-5) (2026-03-28)
-- [Python 3.14 Isn’t Flashy — But It Might Be One of the Most Useful Releases Yet](https://milind-divre.medium.com/python-3-14-isnt-flashy-but-it-might-be-one-of-the-most-useful-releases-yet-0d461d0cd5ef?source=rss------programming-5) (2026-03-28)
-- [How to build a shared AI context for your engineering team](https://medium.com/@gokhanamal/how-to-build-a-shared-ai-context-for-your-engineering-team-2a5a9c33ec83?source=rss------programming-5) (2026-03-28)
-- [Cursor AI in 2026: The Hottest Generative AI Tool That’s Rewriting How We Build Software](https://kasata.medium.com/cursor-ai-in-2026-the-hottest-generative-ai-tool-thats-rewriting-how-we-build-software-092f2a008f86?source=rss------programming-5) (2026-03-28)
+- [Most Developers Use JavaScript — Few Truly Understand Its Power](https://medium.com/@aizaashfaq2218/most-developers-use-javascript-few-truly-understand-its-power-eec333bd134f?source=rss------programming-5) (2026-03-28)
+- [I Got Tired of Switching Between curl and Postman — So I Built My Own CLI](https://medium.com/@neorex80/i-got-tired-of-switching-between-curl-and-postman-so-i-built-my-own-cli-a07ab45091fd?source=rss------programming-5) (2026-03-28)
+- [ Build Your Own SMS Gateway Using Android Phone (SaaS) – Complete Guide (2026)](https://medium.com/@dipanshuagr012/build-your-own-sms-gateway-using-android-phone-saas-complete-guide-2026-d2732520566c?source=rss------programming-5) (2026-03-28)
+- [We Built Microservices the Right Way. One Request Took Everything Down.](https://medium.com/@ujjawalr/we-built-microservices-the-right-way-one-request-took-everything-down-c143d7a211ae?source=rss------programming-5) (2026-03-28)
+- [200£ free earn money online without investment](https://medium.com/@haidermoin73/200-free-earn-money-online-without-investment-5d73216546d7?source=rss------programming-5) (2026-03-28)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [AI for nuclear energy: Powering an intelligent, resilient future](https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/) (2026-03-25)
-- [What’s new with Microsoft in open-source and Kubernetes at KubeCon + CloudNativeCon Europe 2026](https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/) (2026-03-24)
-- [Advancing agentic AI with Microsoft databases across a unified data estate](https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/) (2026-03-18)
-- [FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/) (2026-03-18)
 - [Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI](https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/) (2026-03-16)
+- [From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation](https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/) (2026-03-16)
+- [Modernizing regulated industries with cloud and agentic AI](https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/) (2026-03-11)
+- [Many agents, one team: Scaling modernization on Azure](https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/) (2026-03-11)
+- [Introducing Fireworks AI on Microsoft Foundry: Bringing high performance, low latency open model inference to Azure](https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/) (2026-03-11)
 
 </details>
 
@@ -570,11 +570,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Using OpenClaw as a Force Multiplier: What One Person Can Ship with Autonomous Agents](https://towardsdatascience.com/using-openclaw-as-a-force-multiplier-what-one-person-can-ship-with-autonomous-agents/) (2026-03-28)
+- [From NetCDF to Insights: A Practical Pipeline for City-Level Climate Risk Analysis](https://towardsdatascience.com/from-netcdf-to-insights-a-practical-pipeline-for-city-level-climate-risk-analysis/) (2026-03-28)
 - [Building a Production-Grade Multi-Node Training Pipeline with PyTorch DDP](https://towardsdatascience.com/building-a-production-grade-multi-node-training-pipeline-with-pytorch-ddp/) (2026-03-27)
 - [A Beginner’s Guide to Quantum Computing with Python](https://towardsdatascience.com/a-beginners-guide-to-quantum-computing-with-python/) (2026-03-27)
 - [How ElevenLabs Voice AI Is Replacing Screens in Warehouse and Manufacturing Operations](https://towardsdatascience.com/how-elevenlabs-voice-ai-is-replacing-screens-in-warehouse-and-manufacturing-operations/) (2026-03-27)
-- [How to Make Your AI App Faster and More Interactive with Response Streaming](https://towardsdatascience.com/how-to-make-your-ai-app-faster-and-more-interactive-with-response-streaming/) (2026-03-26)
-- [Beyond Code Generation: AI for the Full Data Science Workflow](https://towardsdatascience.com/beyond-code-generation-ai-for-the-full-data-science-workflow/) (2026-03-26)
 
 </details>
 
