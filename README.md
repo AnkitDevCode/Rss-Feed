@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Sora’s shutdown could be a reality check moment for AI video](https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/) (2026-03-29)
+- [TechCrunch Mobility: When a robotaxi has to call 911](https://techcrunch.com/2026/03/29/techcrunch-mobility-when-a-robotaxi-has-to-call-911/) (2026-03-29)
+- [SXSW rebounds as a top networking, ideas festival for founders and VCs](https://techcrunch.com/2026/03/29/sxsw-rebounds-as-a-top-networking-ideas-festival-for-founders-and-vcs/) (2026-03-29)
 - [Bluesky leans into AI with Attie, an app for building custom feeds](https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/) (2026-03-28)
 - [Mark Zuckerberg texted Elon Musk to offer help with DOGE](https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/) (2026-03-28)
-- [Stanford study outlines dangers of asking AI chatbots for personal advice](https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/) (2026-03-28)
-- [Elon Musk’s last co-founder reportedly leaves xAI](https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/) (2026-03-28)
-- [These iPad apps will make you wish you had more free time](https://techcrunch.com/2026/03/28/best-ipad-apps-for-unleashing-and-exploring-your-creativity/) (2026-03-28)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: Sheet Ninja – Google Sheets as a CRUD Back End for Vibe Coders](https://sheetninja.io) (2026-03-29)
-- [Miasma: A tool to trap AI web scrapers in an endless poison pit](https://github.com/austin-weeks/miasma) (2026-03-29)
-- [Overestimation of microplastics potentially caused by scientists' gloves](https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/) (2026-03-29)
-- [Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown](https://github.com/1st1/lat.md) (2026-03-29)
-- [LinkedIn uses 2.4 GB RAM across two tabs](https://news.ycombinator.com/item?id=47561489) (2026-03-29)
+- [C++26 is done ISO C++ standards meeting, Trip Report](https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/) (2026-03-29)
+- [Neovim 0.12.0](https://github.com/neovim/neovim/releases/tag/v0.12.0) (2026-03-29)
+- [Netscape News Feed Straight Out of the Late 00s](https://isp.netscape.com/) (2026-03-29)
+- [First Western Digital, now Sony: The tech giant suspends SD card sales](https://mashable.com/article/sony-sd-card-sales-suspended-memory-shortage) (2026-03-29)
+- [The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history](https://www.righto.com/2026/03/ibm-4-pi-computer-history.html) (2026-03-29)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The best deals we’ve found from Amazon’s Big Spring Sale (so far)](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals) (2026-03-29)
+- [Can my favorite Game Boy gadget tell fake cartridges from real?](https://www.theverge.com/games/902910/epilogue-gb-operator-phone-counterfeit-fake-cartridge-detection) (2026-03-29)
+- [There is no ethical consumption of HBO’s Harry Potter series](https://www.theverge.com/report/901818/hbo-harry-potter-jk-rowling-transphobia) (2026-03-29)
+- [Amazon’s Big Spring Sale is a great time to get a fancy, AI-powered bird feeder](https://www.theverge.com/gadgets/902829/birdbuddy-netvue-smart-bird-feeders-amazon-big-spring-sale-2026-deals) (2026-03-29)
 - [The Macintosh changed computers forever](https://www.theverge.com/podcast/903068/macintosh-1984-version-history) (2026-03-29)
-- [Apple’s long, bitter App Store antitrust war](https://www.theverge.com/column/902668/apple-antitrust-app-store-war) (2026-03-29)
-- [Suno leans into customization with v5.5](https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model) (2026-03-28)
-- [The best deals we’ve found from Amazon’s Big Spring Sale (so far)](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals) (2026-03-28)
-- [SteelSeries’ feature-packed Nova Pro Wireless headset is $80 off](https://www.theverge.com/gadgets/902643/steelseries-arctis-nova-pro-wireless-pc-ps5-xbox-headset-gaming-amazon-big-spring-sale-2026-deal) (2026-03-28)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Pints meet prop bets: Polymarket’s “Situation Room” pop-up bar in DC](https://arstechnica.com/culture/2026/03/pints-meet-prop-bets-polymarkets-situation-room-pop-up-bar-in-dc/) (2026-03-29)
 - [Polygraphs have major flaws. Are there better options?](https://arstechnica.com/science/2026/03/polygraphs-have-major-flaws-are-there-better-options/) (2026-03-29)
 - [Explanation for why we don't see two-foot-long dragonflies anymore fails](https://arstechnica.com/science/2026/03/leading-explanation-for-ancient-giant-flying-insects-gets-squashed/) (2026-03-28)
 - [Causality optional? Testing the "indefinite causal order" superposition](https://arstechnica.com/science/2026/03/getting-formal-about-quantum-mechanics-lack-of-causality/) (2026-03-28)
 - [How new fishing tech can reduce bycatch of turtles and other creatures](https://arstechnica.com/science/2026/03/how-new-fishing-tech-can-reduce-bycatch-of-turtles-and-other-creatures/) (2026-03-28)
-- [Playing Wolfenstein 3D with one hand in 2026](https://arstechnica.com/gaming/2026/03/playing-wolfenstein-3d-with-one-hand-in-2026/) (2026-03-27)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Web Developer Travis McCracken on API Gateway Design with Rust and Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-api-gateway-design-with-rust-and-go-ncp) (2026-03-29)
-- [Why study Node.js?](https://dev.to/doccaio/why-study-nodejs-1min) (2026-03-29)
-- [Porque estudar node.js](https://dev.to/doccaio/porque-estudar-nodejs-5284) (2026-03-29)
-- [Arkhein: Command Your Silicon. Own Your Memory.](https://dev.to/melasistema/arkhein-command-your-silicon-own-your-memory-egg) (2026-03-29)
-- [Notion Life Review OS — Log your day to Notion from WhatsApp using AI](https://dev.to/vicente_junior_dev/notion-life-review-os-log-your-day-to-notion-from-whatsapp-using-ai-3g3m) (2026-03-29)
+- [Weekly Challenge #5 : The CSS‑Only Secret Menu 🔐](https://dev.to/bingkahu/weekly-challenge-5-the-css-only-secret-menu-a4f) (2026-03-29)
+- [Temporal Has a Free Durable Workflow Engine That Never Loses Your State](https://dev.to/0012303/temporal-has-a-free-durable-workflow-engine-that-never-loses-your-state-2obb) (2026-03-29)
+- [Reading Data from Weather Sensors with Python](https://dev.to/nandofm/reading-data-from-weather-sensors-with-python-51pe) (2026-03-29)
+- [Understanding Data Modeling in Power BI: Joins, Relationships, and Schemas Explained](https://dev.to/mbatiak/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-fp2) (2026-03-29)
+- [Real Device Cloud vs Emulators: A Developer's Guide](https://dev.to/bhawana127/real-device-cloud-vs-emulators-a-developers-guide-mbo) (2026-03-29)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Built a Comic Book Analytics Dashboard That Reads Real Data](https://pub.towardsai.net/i-built-a-comic-book-analytics-dashboard-that-reads-real-data-fa7eccb41305?source=rss------programming-5) (2026-03-29)
-- [From Developer to Tech Lead — What Actually Changes (And What Doesn’t)](https://kawaldeepsingh.medium.com/from-developer-to-tech-lead-what-actually-changes-and-what-doesnt-367f1b44881d?source=rss------programming-5) (2026-03-29)
-- [Caching in System Design: The Closely Guarded “Cheat Code” for Performance](https://blog.devgenius.io/caching-in-system-design-the-closely-guarded-cheat-code-for-performance-bf05ca5da628?source=rss------programming-5) (2026-03-29)
-- [This 38-Line Pine Script Has a Near-Perfect Win/Loss Ratio on ETH. It Still Lost Money.](https://medium.com/@betashorts1998/this-38-line-pine-script-has-a-near-perfect-win-loss-ratio-on-eth-it-still-lost-money-fe3fb3c936f7?source=rss------programming-5) (2026-03-29)
-- [Our Docker Image Was 4.2GB — Developers Started Quitting](https://blog.stackademic.com/our-docker-image-was-4-2gb-developers-started-quitting-2ed14c5fb4d3?source=rss------programming-5) (2026-03-29)
+- [47 Microservices, 4 Engineers — We Couldn’t Deploy Anything](https://medium.com/lets-code-future/47-microservices-4-engineers-we-couldnt-deploy-anything-8a1dec5e1062?source=rss------programming-5) (2026-03-29)
+- [Autopilot](https://medium.com/@Mariano../autopilot-a8b3d466b74d?source=rss------programming-5) (2026-03-29)
+- [The Most Important Skill in Software Engineering Isn’t Coding](https://medium.com/@reyanshicodes/the-most-important-skill-in-software-engineering-isnt-coding-0745c61c1e7a?source=rss------programming-5) (2026-03-29)
+- [We Optimized Everything — Load Balancer Was The Bottleneck All Along](https://medium.com/lets-code-future/we-optimized-everything-load-balancer-was-the-bottleneck-all-along-1359d03ade7a?source=rss------programming-5) (2026-03-29)
+- [New interstellar hunting with Vera Rubin alerts](https://medium.com/@liena.dreams/new-interstellar-hunting-with-vera-rubin-alerts-dbeef7652320?source=rss------programming-5) (2026-03-29)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [What’s new with Microsoft in open-source and Kubernetes at KubeCon + CloudNativeCon Europe 2026](https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/) (2026-03-24)
 - [Advancing agentic AI with Microsoft databases across a unified data estate](https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/) (2026-03-18)
 - [FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/) (2026-03-18)
 - [Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI](https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/) (2026-03-16)
 - [From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation](https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/) (2026-03-16)
+- [Modernizing regulated industries with cloud and agentic AI](https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/) (2026-03-11)
 
 </details>
 
@@ -570,11 +570,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Become an AI Engineer Fast (Skills, Projects, Salary)](https://towardsdatascience.com/how-to-become-an-ai-engineer-fast-skills-projects-salary/) (2026-03-29)
+- [Self-Healing Neural Networks in PyTorch: Fix Model Drift in Real Time Without Retraining](https://towardsdatascience.com/self-healing-neural-networks-in-pytorch-fix-model-drift-in-real-time-without-retraining/) (2026-03-29)
 - [Using OpenClaw as a Force Multiplier: What One Person Can Ship with Autonomous Agents](https://towardsdatascience.com/using-openclaw-as-a-force-multiplier-what-one-person-can-ship-with-autonomous-agents/) (2026-03-28)
 - [From NetCDF to Insights: A Practical Pipeline for City-Level Climate Risk Analysis](https://towardsdatascience.com/from-netcdf-to-insights-a-practical-pipeline-for-city-level-climate-risk-analysis/) (2026-03-28)
 - [Building a Production-Grade Multi-Node Training Pipeline with PyTorch DDP](https://towardsdatascience.com/building-a-production-grade-multi-node-training-pipeline-with-pytorch-ddp/) (2026-03-27)
-- [A Beginner’s Guide to Quantum Computing with Python](https://towardsdatascience.com/a-beginners-guide-to-quantum-computing-with-python/) (2026-03-27)
-- [How ElevenLabs Voice AI Is Replacing Screens in Warehouse and Manufacturing Operations](https://towardsdatascience.com/how-elevenlabs-voice-ai-is-replacing-screens-in-warehouse-and-manufacturing-operations/) (2026-03-27)
 
 </details>
 
