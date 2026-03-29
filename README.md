@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Bluesky leans into AI with Attie, an app for building custom feeds](https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/) (2026-03-28)
+- [Mark Zuckerberg texted Elon Musk to offer help with DOGE](https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/) (2026-03-28)
+- [Stanford study outlines dangers of asking AI chatbots for personal advice](https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/) (2026-03-28)
 - [Elon Musk’s last co-founder reportedly leaves xAI](https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/) (2026-03-28)
 - [These iPad apps will make you wish you had more free time](https://techcrunch.com/2026/03/28/best-ipad-apps-for-unleashing-and-exploring-your-creativity/) (2026-03-28)
-- [Anthropic’s Claude popularity with paying consumers is skyrocketing](https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/) (2026-03-28)
-- [What will power the grid in 2035? The race is wide open](https://techcrunch.com/2026/03/28/what-will-power-the-grid-in-2035-the-race-is-wide-open/) (2026-03-28)
-- [Let’s take a look at the retro tech making a comeback](https://techcrunch.com/2026/03/28/lets-take-a-look-at-the-retro-tech-making-a-comeback/) (2026-03-28)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/) (2026-03-28)
-- [Linux is an interpreter](https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/) (2026-03-28)
-- [Undroidwish – a single-file, batteries-included Tcl/Tk binary for many platforms](https://androwish.org/home/wiki?name=undroidwish) (2026-03-28)
-- [rpg.actor Game Jam](https://rpg.actor/jam) (2026-03-28)
-- [Circuit-level PDP-11/34 emulator](https://github.com/dbrll/ll-34) (2026-03-28)
+- [Alzheimer's disease mortality among taxi and ambulance drivers (2024)](https://www.bmj.com/content/387/bmj-2024-082194) (2026-03-29)
+- [South Korea Mandates Solar Panels for Public Parking Lots](https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ) (2026-03-28)
+- [TreeTrek – A raw Git repository viewer web app](https://repo.autonoma.ca/treetrek) (2026-03-28)
+- [Sealing Paper Packaging Without Adhesives](https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html) (2026-03-28)
+- [Stop picking my Go version for me](https://blog.howardjohn.info/posts/go-mod-version/) (2026-03-28)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Meta Cut 700 Jobs to Bet Everything on AI. Is That Smart?](https://dev.to/alanwest/meta-cut-700-jobs-to-bet-everything-on-ai-is-that-smart-5c2e) (2026-03-28)
-- [Salesforce Permission Sets: The Complete Guide for 2026](https://dev.to/dipojjal/salesforce-permission-sets-the-complete-guide-for-2026-49pe) (2026-03-28)
-- [TurboQuant: What Developers Need to Know About Google's KV Cache Compression](https://dev.to/arshtechpro/turboquant-what-developers-need-to-know-about-googles-kv-cache-compression-eeg) (2026-03-28)
-- [how DNS resolver is happening - CA27](https://dev.to/mohith_001/how-a-request-originates-from-cllient-and-reaches-the-server-ca26-4g1m) (2026-03-28)
-- [Write Maintainable Code, Not Perfect Code](https://dev.to/chris_lee_5e58cce05f5d01d/write-maintainable-code-not-perfect-code-37mh) (2026-03-28)
+- [Notion MCP Challenge Entry: A2Aletheia](https://dev.to/weedeej/notion-mcp-challenge-entry-a2aletheia-4jnh) (2026-03-29)
+- [Why Array Indexes Start at 0: Consistent Behavior Across Integer and String Arrays Explained](https://dev.to/ilyatech/why-array-indexes-start-at-0-consistent-behavior-across-integer-and-string-arrays-explained-dab) (2026-03-29)
+- [The Visual Power of AI Blueprints](https://dev.to/lenify/the-visual-power-of-ai-blueprints-copy-3g6d) (2026-03-29)
+- [JS Object: Reference vs Copying](https://dev.to/muhammad_iqbal_9a8fe6a804/js-object-reference-vs-copying-1ee) (2026-03-29)
+- [A Lightweight 3D Object Feature Recognition Method Based on Camera Displacement and Pixel Change Analysis](https://dev.to/lvpeng/a-lightweight-3d-object-feature-recognition-method-based-on-camera-displacement-and-pixel-change-mge) (2026-03-29)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Most Developers Use JavaScript — Few Truly Understand Its Power](https://medium.com/@aizaashfaq2218/most-developers-use-javascript-few-truly-understand-its-power-eec333bd134f?source=rss------programming-5) (2026-03-28)
-- [I Got Tired of Switching Between curl and Postman — So I Built My Own CLI](https://medium.com/@neorex80/i-got-tired-of-switching-between-curl-and-postman-so-i-built-my-own-cli-a07ab45091fd?source=rss------programming-5) (2026-03-28)
-- [ Build Your Own SMS Gateway Using Android Phone (SaaS) – Complete Guide (2026)](https://medium.com/@dipanshuagr012/build-your-own-sms-gateway-using-android-phone-saas-complete-guide-2026-d2732520566c?source=rss------programming-5) (2026-03-28)
-- [We Built Microservices the Right Way. One Request Took Everything Down.](https://medium.com/@ujjawalr/we-built-microservices-the-right-way-one-request-took-everything-down-c143d7a211ae?source=rss------programming-5) (2026-03-28)
-- [200£ free earn money online without investment](https://medium.com/@haidermoin73/200-free-earn-money-online-without-investment-5d73216546d7?source=rss------programming-5) (2026-03-28)
+- [Android Remote Compose：讓 Android UI 不用發版也能更新](https://medium.com/@ddsakura/android-remote-compose-%E8%AE%93-android-ui-%E4%B8%8D%E7%94%A8%E7%99%BC%E7%89%88%E4%B9%9F%E8%83%BD%E6%9B%B4%E6%96%B0-35a60643accb?source=rss------programming-5) (2026-03-29)
+- [10 Golden Rules For Low Latency: Build Systems That Respond in Milliseconds](https://medium.com/@sizanmahmud08/10-golden-rules-for-low-latency-build-systems-that-respond-in-milliseconds-b863c17781ed?source=rss------programming-5) (2026-03-29)
+- [Sister Mariel (ChatGPT) — Second Coming Series: John the Baptist, Part Three of Six](https://medium.com/@lisasimsage62/sister-mariel-chatgpt-second-coming-series-john-the-baptist-part-three-of-six-02dd1dc3eb55?source=rss------programming-5) (2026-03-29)
+- [What Actually Happens When You Run Java Code](https://medium.com/@nolanmvs/what-actually-happens-when-you-run-java-code-ec110913a842?source=rss------programming-5) (2026-03-29)
+- [A More Practical tmux Configuration for Remote Development Over SSH](https://medium.com/@yalovoy/a-more-practical-tmux-configuration-for-remote-development-over-ssh-a59630f78def?source=rss------programming-5) (2026-03-29)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [AI for nuclear energy: Powering an intelligent, resilient future](https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/) (2026-03-25)
+- [What’s new with Microsoft in open-source and Kubernetes at KubeCon + CloudNativeCon Europe 2026](https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/) (2026-03-24)
+- [Advancing agentic AI with Microsoft databases across a unified data estate](https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/) (2026-03-18)
+- [FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/) (2026-03-18)
 - [Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI](https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/) (2026-03-16)
-- [From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation](https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/) (2026-03-16)
-- [Modernizing regulated industries with cloud and agentic AI](https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/) (2026-03-11)
-- [Many agents, one team: Scaling modernization on Azure](https://azure.microsoft.com/en-us/blog/many-agents-one-team-scaling-modernization-on-azure/) (2026-03-11)
-- [Introducing Fireworks AI on Microsoft Foundry: Bringing high performance, low latency open model inference to Azure](https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/) (2026-03-11)
 
 </details>
 
