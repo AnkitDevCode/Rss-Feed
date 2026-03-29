@@ -31,33 +31,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The United States is driving a public health emergency of international concern](https://www.bmj.com/content/392/bmj-2026-089474) (2026-03-29)
-- [OpenYak – An open-source Cowork that runs any model and owns your filesystem](https://github.com/openyak/desktop) (2026-03-29)
-- [Alzheimer's disease mortality among taxi and ambulance drivers (2024)](https://www.bmj.com/content/387/bmj-2024-082194) (2026-03-29)
-- [Attie.ai](https://attie.ai/login) (2026-03-28)
-- [South Korea Mandates Solar Panels for Public Parking Lots](https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ) (2026-03-28)
+- [Show HN: Sheet Ninja – Google Sheets as a CRUD Back End for Vibe Coders](https://sheetninja.io) (2026-03-29)
+- [Miasma: A tool to trap AI web scrapers in an endless poison pit](https://github.com/austin-weeks/miasma) (2026-03-29)
+- [Overestimation of microplastics potentially caused by scientists' gloves](https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/) (2026-03-29)
+- [Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown](https://github.com/1st1/lat.md) (2026-03-29)
+- [LinkedIn uses 2.4 GB RAM across two tabs](https://news.ycombinator.com/item?id=47561489) (2026-03-29)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The Macintosh changed computers forever](https://www.theverge.com/podcast/903068/macintosh-1984-version-history) (2026-03-29)
+- [Apple’s long, bitter App Store antitrust war](https://www.theverge.com/column/902668/apple-antitrust-app-store-war) (2026-03-29)
 - [Suno leans into customization with v5.5](https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model) (2026-03-28)
 - [The best deals we’ve found from Amazon’s Big Spring Sale (so far)](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals) (2026-03-28)
 - [SteelSeries’ feature-packed Nova Pro Wireless headset is $80 off](https://www.theverge.com/gadgets/902643/steelseries-arctis-nova-pro-wireless-pc-ps5-xbox-headset-gaming-amazon-big-spring-sale-2026-deal) (2026-03-28)
-- [Why can’t TikTok identify AI generated ads when I can?](https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure) (2026-03-28)
-- [Meta’s legal defeat could be a victory for children, or a loss for everyone](https://www.theverge.com/policy/903006/meta-new-mexico-los-angeles-child-safety-trial-impact) (2026-03-28)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Polygraphs have major flaws. Are there better options?](https://arstechnica.com/science/2026/03/polygraphs-have-major-flaws-are-there-better-options/) (2026-03-29)
 - [Explanation for why we don't see two-foot-long dragonflies anymore fails](https://arstechnica.com/science/2026/03/leading-explanation-for-ancient-giant-flying-insects-gets-squashed/) (2026-03-28)
 - [Causality optional? Testing the "indefinite causal order" superposition](https://arstechnica.com/science/2026/03/getting-formal-about-quantum-mechanics-lack-of-causality/) (2026-03-28)
 - [How new fishing tech can reduce bycatch of turtles and other creatures](https://arstechnica.com/science/2026/03/how-new-fishing-tech-can-reduce-bycatch-of-turtles-and-other-creatures/) (2026-03-28)
 - [Playing Wolfenstein 3D with one hand in 2026](https://arstechnica.com/gaming/2026/03/playing-wolfenstein-3d-with-one-hand-in-2026/) (2026-03-27)
-- [With new plugins feature, OpenAI officially takes Codex beyond coding](https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/) (2026-03-27)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [LLM APIs for AI Agents: Anthropic vs OpenAI vs Google AI (AN Score Data)](https://dev.to/supertrained/llm-apis-for-ai-agents-anthropic-vs-openai-vs-google-ai-an-score-data-3e1j) (2026-03-29)
-- [Talent Oversupply: How Less Prestigious Firms Can Attract Top-Tier Candidates Amid Economic Shifts](https://dev.to/svetlix/talent-oversupply-how-less-prestigious-firms-can-attract-top-tier-candidates-amid-economic-shifts-34g5) (2026-03-29)
-- [Payment APIs for AI Agents: Stripe vs Square vs PayPal (AN Score Breakdown)](https://dev.to/supertrained/payment-apis-for-ai-agents-stripe-vs-square-vs-paypal-an-score-breakdown-406n) (2026-03-29)
-- [Why Reddit is so cruel?](https://dev.to/moneytopia/why-reddit-is-so-cruel-4ghe) (2026-03-29)
-- [Do You Really Know What Your Compiler Creates?](https://dev.to/artanidos/do-you-really-know-what-your-compiler-creates-4209) (2026-03-29)
+- [Web Developer Travis McCracken on API Gateway Design with Rust and Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-api-gateway-design-with-rust-and-go-ncp) (2026-03-29)
+- [Why study Node.js?](https://dev.to/doccaio/why-study-nodejs-1min) (2026-03-29)
+- [Porque estudar node.js](https://dev.to/doccaio/porque-estudar-nodejs-5284) (2026-03-29)
+- [Arkhein: Command Your Silicon. Own Your Memory.](https://dev.to/melasistema/arkhein-command-your-silicon-own-your-memory-egg) (2026-03-29)
+- [Notion Life Review OS — Log your day to Notion from WhatsApp using AI](https://dev.to/vicente_junior_dev/notion-life-review-os-log-your-day-to-notion-from-whatsapp-using-ai-3g3m) (2026-03-29)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why I Stopped Sending My Proprietary Data to Cloud-Based AI Agents](https://medium.com/@cuuha673/why-i-stopped-sending-my-proprietary-data-to-cloud-based-ai-agents-33fa55f4aa20?source=rss------programming-5) (2026-03-29)
-- [Why Prompt Engineering Matters More Than Ever in Claude Code](https://ai.plainenglish.io/why-prompt-engineering-matters-more-than-ever-in-claude-code-13aaf7e66cc7?source=rss------programming-5) (2026-03-29)
-- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-b6de3b967b41?source=rss------programming-5) (2026-03-29)
-- [Can AI Replace Junior Developers? I Tested It — Here’s What Happened](https://medium.com/@bobbychilami/can-ai-replace-junior-developers-i-tested-it-heres-what-happened-7dc6fe697fdb?source=rss------programming-5) (2026-03-29)
-- [Stop misusing docker compose: Here is a better setup for go projects](https://medium.com/codex/stop-misusing-docker-compose-here-is-a-better-setup-for-go-projects-e2e139e13f5b?source=rss------programming-5) (2026-03-29)
+- [I Built a Comic Book Analytics Dashboard That Reads Real Data](https://pub.towardsai.net/i-built-a-comic-book-analytics-dashboard-that-reads-real-data-fa7eccb41305?source=rss------programming-5) (2026-03-29)
+- [From Developer to Tech Lead — What Actually Changes (And What Doesn’t)](https://kawaldeepsingh.medium.com/from-developer-to-tech-lead-what-actually-changes-and-what-doesnt-367f1b44881d?source=rss------programming-5) (2026-03-29)
+- [Caching in System Design: The Closely Guarded “Cheat Code” for Performance](https://blog.devgenius.io/caching-in-system-design-the-closely-guarded-cheat-code-for-performance-bf05ca5da628?source=rss------programming-5) (2026-03-29)
+- [This 38-Line Pine Script Has a Near-Perfect Win/Loss Ratio on ETH. It Still Lost Money.](https://medium.com/@betashorts1998/this-38-line-pine-script-has-a-near-perfect-win-loss-ratio-on-eth-it-still-lost-money-fe3fb3c936f7?source=rss------programming-5) (2026-03-29)
+- [Our Docker Image Was 4.2GB — Developers Started Quitting](https://blog.stackademic.com/our-docker-image-was-4-2gb-developers-started-quitting-2ed14c5fb4d3?source=rss------programming-5) (2026-03-29)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [AI for nuclear energy: Powering an intelligent, resilient future](https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/) (2026-03-25)
 - [What’s new with Microsoft in open-source and Kubernetes at KubeCon + CloudNativeCon Europe 2026](https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/) (2026-03-24)
 - [Advancing agentic AI with Microsoft databases across a unified data estate](https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/) (2026-03-18)
 - [FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/) (2026-03-18)
 - [Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI](https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/) (2026-03-16)
+- [From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation](https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/) (2026-03-16)
 
 </details>
 
