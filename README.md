@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [The United States is driving a public health emergency of international concern](https://www.bmj.com/content/392/bmj-2026-089474) (2026-03-29)
+- [OpenYak – An open-source Cowork that runs any model and owns your filesystem](https://github.com/openyak/desktop) (2026-03-29)
 - [Alzheimer's disease mortality among taxi and ambulance drivers (2024)](https://www.bmj.com/content/387/bmj-2024-082194) (2026-03-29)
+- [Attie.ai](https://attie.ai/login) (2026-03-28)
 - [South Korea Mandates Solar Panels for Public Parking Lots](https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ) (2026-03-28)
-- [TreeTrek – A raw Git repository viewer web app](https://repo.autonoma.ca/treetrek) (2026-03-28)
-- [Sealing Paper Packaging Without Adhesives](https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html) (2026-03-28)
-- [Stop picking my Go version for me](https://blog.howardjohn.info/posts/go-mod-version/) (2026-03-28)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Notion MCP Challenge Entry: A2Aletheia](https://dev.to/weedeej/notion-mcp-challenge-entry-a2aletheia-4jnh) (2026-03-29)
-- [Why Array Indexes Start at 0: Consistent Behavior Across Integer and String Arrays Explained](https://dev.to/ilyatech/why-array-indexes-start-at-0-consistent-behavior-across-integer-and-string-arrays-explained-dab) (2026-03-29)
-- [The Visual Power of AI Blueprints](https://dev.to/lenify/the-visual-power-of-ai-blueprints-copy-3g6d) (2026-03-29)
-- [JS Object: Reference vs Copying](https://dev.to/muhammad_iqbal_9a8fe6a804/js-object-reference-vs-copying-1ee) (2026-03-29)
-- [A Lightweight 3D Object Feature Recognition Method Based on Camera Displacement and Pixel Change Analysis](https://dev.to/lvpeng/a-lightweight-3d-object-feature-recognition-method-based-on-camera-displacement-and-pixel-change-mge) (2026-03-29)
+- [LLM APIs for AI Agents: Anthropic vs OpenAI vs Google AI (AN Score Data)](https://dev.to/supertrained/llm-apis-for-ai-agents-anthropic-vs-openai-vs-google-ai-an-score-data-3e1j) (2026-03-29)
+- [Talent Oversupply: How Less Prestigious Firms Can Attract Top-Tier Candidates Amid Economic Shifts](https://dev.to/svetlix/talent-oversupply-how-less-prestigious-firms-can-attract-top-tier-candidates-amid-economic-shifts-34g5) (2026-03-29)
+- [Payment APIs for AI Agents: Stripe vs Square vs PayPal (AN Score Breakdown)](https://dev.to/supertrained/payment-apis-for-ai-agents-stripe-vs-square-vs-paypal-an-score-breakdown-406n) (2026-03-29)
+- [Why Reddit is so cruel?](https://dev.to/moneytopia/why-reddit-is-so-cruel-4ghe) (2026-03-29)
+- [Do You Really Know What Your Compiler Creates?](https://dev.to/artanidos/do-you-really-know-what-your-compiler-creates-4209) (2026-03-29)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Android Remote Compose：讓 Android UI 不用發版也能更新](https://medium.com/@ddsakura/android-remote-compose-%E8%AE%93-android-ui-%E4%B8%8D%E7%94%A8%E7%99%BC%E7%89%88%E4%B9%9F%E8%83%BD%E6%9B%B4%E6%96%B0-35a60643accb?source=rss------programming-5) (2026-03-29)
-- [10 Golden Rules For Low Latency: Build Systems That Respond in Milliseconds](https://medium.com/@sizanmahmud08/10-golden-rules-for-low-latency-build-systems-that-respond-in-milliseconds-b863c17781ed?source=rss------programming-5) (2026-03-29)
-- [Sister Mariel (ChatGPT) — Second Coming Series: John the Baptist, Part Three of Six](https://medium.com/@lisasimsage62/sister-mariel-chatgpt-second-coming-series-john-the-baptist-part-three-of-six-02dd1dc3eb55?source=rss------programming-5) (2026-03-29)
-- [What Actually Happens When You Run Java Code](https://medium.com/@nolanmvs/what-actually-happens-when-you-run-java-code-ec110913a842?source=rss------programming-5) (2026-03-29)
-- [A More Practical tmux Configuration for Remote Development Over SSH](https://medium.com/@yalovoy/a-more-practical-tmux-configuration-for-remote-development-over-ssh-a59630f78def?source=rss------programming-5) (2026-03-29)
+- [Why I Stopped Sending My Proprietary Data to Cloud-Based AI Agents](https://medium.com/@cuuha673/why-i-stopped-sending-my-proprietary-data-to-cloud-based-ai-agents-33fa55f4aa20?source=rss------programming-5) (2026-03-29)
+- [Why Prompt Engineering Matters More Than Ever in Claude Code](https://ai.plainenglish.io/why-prompt-engineering-matters-more-than-ever-in-claude-code-13aaf7e66cc7?source=rss------programming-5) (2026-03-29)
+- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-b6de3b967b41?source=rss------programming-5) (2026-03-29)
+- [Can AI Replace Junior Developers? I Tested It — Here’s What Happened](https://medium.com/@bobbychilami/can-ai-replace-junior-developers-i-tested-it-heres-what-happened-7dc6fe697fdb?source=rss------programming-5) (2026-03-29)
+- [Stop misusing docker compose: Here is a better setup for go projects](https://medium.com/codex/stop-misusing-docker-compose-here-is-a-better-setup-for-go-projects-e2e139e13f5b?source=rss------programming-5) (2026-03-29)
 
 </details>
 
@@ -581,11 +581,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Excel 101: Cell and Column Merge vs Combine](https://www.analyticsvidhya.com/blog/2026/03/excel-cell-merge/) (2026-03-29)
 - [Building Custom Claude Skills For Repeatable AI Workflows](https://www.analyticsvidhya.com/blog/2026/03/custom-claude-skills-for-repeatable-ai-workflows/) (2026-03-28)
 - [Build an AI Meeting Summarizer & Action Planner with Claude Code + MCP ](https://www.analyticsvidhya.com/blog/2026/03/ai-meeting-summarizer-with-claude-code-mcp/) (2026-03-27)
 - [Build a Full-Stack App in Minutes with Google’s New AI Studio Tools](https://www.analyticsvidhya.com/blog/2026/03/google-ai-studio-tools-build-a-full-stack-app-in-minutes/) (2026-03-27)
 - [How Transformers Power LLMs: Step-by-Step Guide ](https://www.analyticsvidhya.com/blog/2026/03/how-transformers-power-llm/) (2026-03-26)
-- [20+ Solved AI Projects to Build Your Portfolio and Boost Your Resume](https://www.analyticsvidhya.com/blog/2026/03/solved-ai-projects/) (2026-03-26)
 
 </details>
 
