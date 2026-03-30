@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Why OpenAI really shut down Sora](https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/) (2026-03-30)
 - [The Pixel 10a doesn’t have a camera bump, and it’s great](https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/) (2026-03-29)
 - [YouTube CEO says the best YouTubers will ‘never leave their home’](https://techcrunch.com/2026/03/29/youtube-ceo-says-the-best-youtubers-will-never-leave-their-home/) (2026-03-29)
 - [‘Project Hail Mary’ becomes Amazon MGM’s biggest box office hit](https://techcrunch.com/2026/03/29/project-hail-mary-becomes-amazon-mgms-biggest-box-office-hit/) (2026-03-29)
 - [Sora’s shutdown could be a reality check moment for AI video](https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/) (2026-03-29)
-- [TechCrunch Mobility: When a robotaxi has to call 911](https://techcrunch.com/2026/03/29/techcrunch-mobility-when-a-robotaxi-has-to-call-911/) (2026-03-29)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Philly courts will ban all smart eyeglasses starting next week](https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html) (2026-03-30)
-- [Something unexpected: Sunbathers live longer](https://www.health.harvard.edu/blog/heres-something-unexpected-sunbathers-live-longer-201606069738) (2026-03-30)
-- [There is No Spoon. A software engineers primer for demystified ML](https://github.com/dreddnafious/thereisnospoon) (2026-03-29)
-- [Coding Agents Could Make Free Software Matter Again](https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/) (2026-03-29)
-- [Claude Code runs Git reset –hard origin/main against project repo every 10 mins](https://github.com/anthropics/claude-code/issues/40710) (2026-03-29)
+- [AI and bots have officially taken over the internet](https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html) (2026-03-30)
+- [15 years, one server, 8GB RAM and 500k users – how Webminal refuses to die](https://community.webminal.org/t/15-years-one-server-8gb-ram-and-500k-users-how-webminal-refuses-to-die/8803) (2026-03-30)
+- [The curious case of retro demo scene graphics](https://www.datagubbe.se/aipixels/) (2026-03-30)
+- [HD Audio Driver for Windows 98SE / Me](https://github.com/andrew-hoffman/wdmhda) (2026-03-30)
+- [VHDL's Crown Jewel](https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/) (2026-03-30)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [JSON API Response Looks Garbled in Chrome Fix](https://dev.to/alphashark/json-api-response-looks-garbled-in-chrome-fix-4357) (2026-03-30)
-- [What I learned from using Lovable for 8 months to build beautiful, standardized, and easy-to-maintain websites](https://dev.to/raphmoraes/o-que-aprendi-usando-lovable-por-8-meses-para-criar-sites-bonitos-padronizados-e-faceis-de-manter-4m1) (2026-03-30)
-- [Mamba-UNet: UNet-Like Pure Visual Mamba for Medical Image Segmentation](https://dev.to/paperium/mamba-unet-unet-like-pure-visual-mamba-for-medical-image-segmentation-g83) (2026-03-30)
-- [Quantify Your Life: Building a High-Performance Health Data Lake with InfluxDB, Grafana, and Python 🚀](https://dev.to/wellallytech/quantify-your-life-building-a-high-performance-health-data-lake-with-influxdb-grafana-and-python-40c1) (2026-03-30)
-- [Why Enterprise Should Embrace Open Source](https://dev.to/katkeilty/why-enterprise-should-embrace-open-source-c93) (2026-03-30)
+- [Amazon Bedrock Beginner Guide: A Complete Deep Dive into AWS Generative AI](https://dev.to/pratik_26/amazon-bedrock-beginner-guide-a-complete-deep-dive-into-aws-generative-ai-c5e) (2026-03-30)
+- [Will AI Replace Software Testers? The Truth About AI in Software Testing](https://dev.to/morrismoses149/will-ai-replace-software-testers-the-truth-about-ai-in-software-testing-530b) (2026-03-30)
+- [Understanding data modelling in PowerBI.](https://dev.to/larry_okoth/understanding-data-modelling-in-powerbi-1ol9) (2026-03-30)
+- [Is your repo ready for the AI Agents revolution? Checklist](https://dev.to/domizajac/is-your-repo-ready-for-the-ai-agents-revolution-checklist-1a1b) (2026-03-30)
+- [Common Pitfalls in Azure DevOps Migrations (and How to Avoid Them)](https://dev.to/jay_ahuja_0281/common-pitfalls-in-azure-devops-migrations-and-how-to-avoid-them-4gd3) (2026-03-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Bitcoin Is Getting a Finance Layer. Here’s Why That Changes Everything.](https://medium.com/@afflictuscious/bitcoin-is-getting-a-finance-layer-heres-why-that-changes-everything-c033b97b1727?source=rss------programming-5) (2026-03-30)
-- [The Secret Life of Python: Why You Can’t Clone the Physical World](https://medium.com/@aaron.rose.tx/the-secret-life-of-python-why-you-cant-clone-the-physical-world-5be79ecf71a4?source=rss------programming-5) (2026-03-30)
-- [The Secret Life of JavaScript: The Proxy](https://medium.com/@aaron.rose.tx/the-secret-life-of-javascript-the-proxy-5cd3c345cfe4?source=rss------programming-5) (2026-03-30)
-- [9 Small UX Changes That Instantly Make Your App Feel Premium](https://medium.com/@shubhamnalawade037/9-small-ux-changes-that-instantly-make-your-app-feel-premium-336c708cfa43?source=rss------programming-5) (2026-03-30)
-- [Why 90% of Embedded Engineers Write Bad Drivers (And Don’t Even Know It)](https://medium.com/@saeedahamednb/why-90-of-embedded-engineers-write-bad-drivers-and-dont-even-know-it-130f757f6725?source=rss------programming-5) (2026-03-30)
+- [DDD Was Never the Problem. Your Rules Were.](https://dariuszgafka.medium.com/ddd-was-never-the-problem-your-rules-were-c0fd68cae60e?source=rss------programming-5) (2026-03-30)
+- [The Hackathon Illusion: Who’s Really Winning When You’re Up at 3 AM Debugging](https://medium.com/activated-thinker/the-hackathon-illusion-whos-really-winning-when-you-re-up-at-3-am-debugging-e480e84e2c0e?source=rss------programming-5) (2026-03-30)
+- [How to Capture Real Client IP in PostgreSQL HA Clusters](https://medium.com/postgresql-blogs/how-to-capture-real-client-ip-in-postgresql-ha-clusters-bbea41c22cc5?source=rss------programming-5) (2026-03-30)
+- [JOIN NOW! #global](https://medium.com/@garyjohnston_52596/join-now-global-28367c611944?source=rss------programming-5) (2026-03-30)
+- [You Can’t Mandate Curiosity: How To Actually Drive AI Adoption](https://medium.com/thriving-in-engineering/you-cant-mandate-curiosity-how-to-actually-drive-ai-adoption-52b2a1bc12e7?source=rss------programming-5) (2026-03-30)
 
 </details>
 
