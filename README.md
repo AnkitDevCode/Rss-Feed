@@ -20,66 +20,66 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round](https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/) (2026-03-30)
-- [Mistral AI raises $830M in debt to set up a data center near Paris](https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/) (2026-03-30)
-- [Qodo raises $70M for code verification as AI coding scales](https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/) (2026-03-30)
-- [Starcloud raises $170 million Series A to build data centers in space](https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/) (2026-03-30)
-- [Why OpenAI really shut down Sora](https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/) (2026-03-30)
+- [Delve whistleblower strikes again, with alleged receipts about ‘fake compliance’](https://techcrunch.com/2026/03/30/delve-whistleblower-strikes-again-with-alleged-receipts-about-fake-compliance/) (2026-03-30)
+- [Meta starts testing a premium subscription on Instagram](https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/) (2026-03-30)
+- [Bluesky’s new AI tool Attie is already the most blocked account other than J.D. Vance](https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/) (2026-03-30)
+- [Apple will hide your email address from apps and websites, but not cops](https://techcrunch.com/2026/03/30/apple-will-hide-your-email-address-from-apps-and-websites-but-not-cops/) (2026-03-30)
+- [Uber is buying Berlin startup Blacklane to bolster its ‘Elite’ offering](https://techcrunch.com/2026/03/30/uber-is-buying-berlin-startup-blacklane-to-bolster-its-elite-offering/) (2026-03-30)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [How the AI Bubble Bursts](https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/) (2026-03-30)
-- [Spain closes airspace to aircraft involved in Iran war](https://english.elpais.com/international/2026-03-30/spain-closes-airspace-to-aircraft-involved-in-iran-war-but-us-bases-are-being-used-in-other-ways.html) (2026-03-30)
-- [Ghostmoon.app – The Swiss Army Knife for your macOS menu bar](https://www.mgrunwald.com/ghostmoon/) (2026-03-30)
-- [Mathematical methods and human thought in the age of AI](https://arxiv.org/abs/2603.26524) (2026-03-30)
-- [Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models](https://dani2442.github.io/posts/continuous-rl/) (2026-03-30)
+- [A sea of sparks: Seeing radioactivity](https://maurycyz.com/projects/spinthariscope/) (2026-03-30)
+- [DigitalOcean Seeks $800M in Funding](https://www.datacenterdynamics.com/en/news/digitalocean-seeks-800m-in-funding/) (2026-03-30)
+- [You haven’t fed the insincerity machine in the last 5 minutes](https://christianheilmann.com/2026/03/28/you-are-falling-behind-because-you-havent-fed-the-insincerity-machine-in-the-last-5-minutes/) (2026-03-30)
+- [New Washington state law bans noncompete agreements](https://www.seattletimes.com/business/local-business/new-washington-law-bans-noncompete-agreements/) (2026-03-30)
+- [Take better notes, by hand](https://brianschrader.com/archive/take-better-notes-by-hand/) (2026-03-30)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [For $200 more, you can get a MacBook Air](https://www.theverge.com/tech/901698/macbook-air-history) (2026-03-30)
-- [The mad dash to build the future of multimedia](https://www.theverge.com/tech/902721/quicktime-history-apple) (2026-03-30)
-- [Apple @ 50](https://www.theverge.com/tech/899623/apple-50-anniversary) (2026-03-30)
-- [The origin story of Apple’s long-running relationship with FoxConn](https://www.theverge.com/tech/898077/apple-in-china-patrick-mcgee-foxconn) (2026-03-30)
-- [Vivo launches X300 Ultra flagship ‘designed for professional photography’](https://www.theverge.com/tech/903250/vivo-x300-ultra-flagship-china-launch-specs) (2026-03-30)
+- [Beats’ gym-friendly Powerbeats Fit are $30 off for Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/903373/beats-powerbeats-fit-pro-2-earbuds-amazon-big-spring-sale-2026-deal) (2026-03-30)
+- [A new RCS update could connect iPhone and Android video calls, someday](https://www.theverge.com/tech/903509/apple-iphone-google-android-video-calls-rcs-universal-profile-4-0) (2026-03-30)
+- [Dyson&#8217;s ultra-thin PencilVac Fluffycones is tougher to resist at $150 off](https://www.theverge.com/gadgets/903416/dyson-pencilvac-fluffycones-amazon-big-spring-sale-deal-sale) (2026-03-30)
+- [A new manufacturing process uses lasers to seal paper packaging instead of glue](https://www.theverge.com/tech/903280/papure-project-fraunhofer-institute-laser-paper-packaging-recycling) (2026-03-30)
+- [The latest Pixel 11 leak shows slimmer bezels and an all-black camera bar](https://www.theverge.com/tech/903381/google-pixel-11-leak-bezels-camera-bar) (2026-03-30)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [F1 in Japan: Oh no, what have they done to all the fast corners?](https://arstechnica.com/cars/2026/03/f1-in-japan-oh-no-what-have-they-done-to-all-the-fast-corners/) (2026-03-30)
+- [After 16 years and $8 billion, the military's new GPS software still doesn't work](https://arstechnica.com/space/2026/03/after-16-years-and-8-billion-the-militarys-new-gps-software-still-doesnt-work/) (2026-03-30)
+- [Trump convenes "God Squad" to override Endangered Species Act, up oil production](https://arstechnica.com/tech-policy/2026/03/trump-convenes-god-squad-to-override-endangered-species-act-up-oil-production/) (2026-03-30)
+- [What happened to Amelia Earhart? New book takes on the case.](https://arstechnica.com/science/2026/03/what-happened-to-amelia-earhart-new-book-takes-on-the-case/) (2026-03-30)
 - [Pints meet prop bets: Polymarket’s “Situation Room” pop-up bar in DC](https://arstechnica.com/culture/2026/03/pints-meet-prop-bets-polymarkets-situation-room-pop-up-bar-in-dc/) (2026-03-29)
-- [Polygraphs have major flaws. Are there better options?](https://arstechnica.com/science/2026/03/polygraphs-have-major-flaws-are-there-better-options/) (2026-03-29)
-- [Explanation for why we don't see two-foot-long dragonflies anymore fails](https://arstechnica.com/science/2026/03/leading-explanation-for-ancient-giant-flying-insects-gets-squashed/) (2026-03-28)
-- [Causality optional? Testing the "indefinite causal order" superposition](https://arstechnica.com/science/2026/03/getting-formal-about-quantum-mechanics-lack-of-causality/) (2026-03-28)
-- [How new fishing tech can reduce bycatch of turtles and other creatures](https://arstechnica.com/science/2026/03/how-new-fishing-tech-can-reduce-bycatch-of-turtles-and-other-creatures/) (2026-03-28)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [There are more AI health tools than ever—but how well do they work?](https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/) (2026-03-30)
+- [The Pentagon’s culture war tactic against Anthropic has backfired](https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/) (2026-03-30)
 - [The Download: brainless human clones and the first uterus kept alive outside a body](https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body/) (2026-03-30)
 - [Inside the stealthy startup that pitched brainless human clones](https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/) (2026-03-30)
 - [A woman’s uterus has been kept alive outside the body for the first time](https://www.technologyreview.com/2026/03/28/1134766/womans-uterus-kept-alive-outside-the-body-first/) (2026-03-28)
-- [The Download: the internet’s best weather app, and why people freeze their brains](https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/) (2026-03-27)
-- [Here’s why some people choose cryonics to store their bodies and brains after death](https://www.technologyreview.com/2026/03/27/1134705/cryonics-store-bodies-brains-after-death/) (2026-03-27)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [GitHub for Beginners: Getting started with GitHub security](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-security/) (2026-03-30)
 - [What’s coming to our GitHub Actions 2026 security roadmap](https://github.blog/news-insights/product-news/whats-coming-to-our-github-actions-2026-security-roadmap/) (2026-03-26)
 - [A year of open source vulnerability trends: CVEs, advisories, and malware](https://github.blog/security/supply-chain-security/a-year-of-open-source-vulnerability-trends-cves-advisories-and-malware/) (2026-03-26)
 - [Updates to GitHub Copilot interaction data usage policy](https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/) (2026-03-25)
 - [Building AI-powered GitHub issue triage with the Copilot SDK](https://github.blog/ai-and-ml/github-copilot/building-ai-powered-github-issue-triage-with-the-copilot-sdk/) (2026-03-24)
-- [GitHub expands application security coverage with AI‑powered detections](https://github.blog/security/application-security/github-expands-application-security-coverage-with-ai-powered-detections/) (2026-03-23)
 
 </details>
 
@@ -97,44 +97,44 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Are AI Observability Tools Actually Helping?](https://dev.to/coderoflagos/are-ai-observability-tools-actually-helping-3337) (2026-03-30)
-- [Air Quality & Data Engineering Platform](https://dev.to/lagat_josiah_f024a2c855bc/air-quality-data-engineering-platform-2ecb) (2026-03-30)
-- [You Don't Need a Neural Network to Spot a Deepfake](https://dev.to/andreip/you-dont-need-a-neural-network-to-spot-a-deepfake-4f22) (2026-03-30)
-- [Claude Computer Use: Anthropic AI Now Performs Tasks Like a Human](https://dev.to/elara1/claude-computer-use-anthropic-ai-now-performs-tasks-like-a-human-141e) (2026-03-30)
-- [What Is a SOAP API? Complete Beginner Guide](https://dev.to/kanishkrawattt/what-is-a-soap-api-complete-beginner-guide-4h14) (2026-03-30)
+- [Your AI Doesn't Generate Bad Designs. You Do!](https://dev.to/alaa_elghamry_144eeef8b71/your-ai-doesnt-generate-bad-designs-you-do-13j6) (2026-03-30)
+- [Understanding PCIe Link Training](https://dev.to/ripan030/understanding-pcie-link-training-165i) (2026-03-30)
+- [Build an eval harness for 184 AI agent prompts with promptfoo](https://dev.to/jonesrussell/build-an-eval-harness-for-184-ai-agent-prompts-with-promptfoo-13ac) (2026-03-30)
+- [Determine High-Performing And / Or Scalable Network Architectures](https://dev.to/aws-builders/determine-high-performing-and-or-scalable-network-architectures-2pe8) (2026-03-30)
+- [Android XML vs Jetpack Compose — Which One Should You Use in 2026?](https://dev.to/ahsanahmed03/android-xml-vs-jetpack-compose-which-one-should-you-use-in-2026-2pi1) (2026-03-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [5 Coding Mistakes That Create Security Vulnerabilities](https://medium.com/illumination/5-coding-mistakes-that-create-security-vulnerabilities-0e2d8550fffe?source=rss------programming-5) (2026-03-30)
-- [How I Lost My Apple Developer Account 3 Times and Still Shipped an iOS App](https://medium.com/@yo.kononov/how-i-lost-my-apple-developer-account-3-times-and-still-shipped-an-ios-app-43d674d56d76?source=rss------programming-5) (2026-03-30)
-- [Intro — Math with Python: Derangement Problem (Part 3)](https://medium.com/@davidlfliang/intro-math-with-python-derangement-problem-part-3-f526cd7442ca?source=rss------programming-5) (2026-03-30)
-- [10 Wireshark Tricks That Turn Chaos Into Clarity](https://systemweakness.com/10-wireshark-tricks-that-turn-chaos-into-clarity-4968c2536753?source=rss------programming-5) (2026-03-30)
-- [Generating and Sharing Type Packages from Your Backend: How and Why](https://jefedcreator.medium.com/generating-and-sharing-type-packages-from-your-backend-how-and-why-29d21485dcf1?source=rss------programming-5) (2026-03-30)
+- [The ConfigMap That Overwrote Our Production Database Connection String](https://medium.com/codetodeploy/the-configmap-that-overwrote-our-production-database-connection-string-3bc7e9fa2303?source=rss------programming-5) (2026-03-30)
+- [The Health Check That Always Returned 200 OK (Even When Everything Was Broken)](https://medium.com/lets-code-future/the-health-check-that-always-returned-200-ok-even-when-everything-was-broken-ba92b7a8b1d5?source=rss------programming-5) (2026-03-30)
+- [9 AWS Features I Ignored for Years… Until They Cut My Cloud Bill in Half Overnight](https://aws.plainenglish.io/9-aws-features-i-ignored-for-years-until-they-cut-my-cloud-bill-in-half-overnight-463a94df4c89?source=rss------programming-5) (2026-03-30)
+- [Linux for Beginners: The Only Commands You Actually Need to Get Started](https://medium.com/@abdallahm.inbox/linux-for-beginners-the-only-commands-you-actually-need-to-get-started-e2a50e1b5582?source=rss------programming-5) (2026-03-30)
+- [The Accountability Gap Between Product and Engineering](https://observabilityguy.medium.com/the-accountability-gap-between-product-and-engineering-22b5cd48579c?source=rss------programming-5) (2026-03-30)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [AWS Weekly Roundup: AWS AI/ML Scholars program, Agent Plugin for AWS Serverless, and more (March 30, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-ai-ml-scholars-program-agent-plugin-for-aws-serverless-and-more-march-30-2026/) (2026-03-30)
 - [Customize your AWS Management Console experience with visual settings including account color, region and service visibility](https://aws.amazon.com/blogs/aws/customize-your-aws-management-console-experience-with-visual-settings-including-account-color-region-and-service-visibility/) (2026-03-26)
 - [Announcing Amazon Aurora PostgreSQL serverless database creation in seconds](https://aws.amazon.com/blogs/aws/announcing-amazon-aurora-postgresql-serverless-database-creation-in-seconds/) (2026-03-25)
 - [AWS Weekly Roundup: NVIDIA Nemotron 3 Super on Amazon Bedrock, Nova Forge SDK, Amazon Corretto 26, and more (March 23, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-nvidia-nemotron-3-super-on-amazon-bedrock-nova-forge-sdk-amazon-corretto-26-and-more-march-23-2026/) (2026-03-23)
 - [20 years in the AWS Cloud – how time flies!](https://aws.amazon.com/blogs/aws/20-years-in-the-aws-cloud-how-time-flies/) (2026-03-19)
-- [Our First 2026 AWS Heroes Cohort Is Here!](https://aws.amazon.com/blogs/aws/our-first-2026-heroes-cohort-is-here/) (2026-03-18)
 
 </details>
 
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [AI for nuclear energy: Powering an intelligent, resilient future](https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/) (2026-03-25)
+- [What’s new with Microsoft in open-source and Kubernetes at KubeCon + CloudNativeCon Europe 2026](https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/) (2026-03-24)
 - [Advancing agentic AI with Microsoft databases across a unified data estate](https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/) (2026-03-18)
 - [FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/) (2026-03-18)
 - [Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI](https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/) (2026-03-16)
-- [From legacy to leadership: How PostgreSQL on Azure powers enterprise agility and innovation](https://azure.microsoft.com/en-us/blog/from-legacy-to-leadership-how-postgresql-on-azure-powers-enterprise-agility-and-innovation/) (2026-03-16)
-- [Modernizing regulated industries with cloud and agentic AI](https://www.microsoft.com/en-us/industry/blog/general/2026/03/11/modernizing-regulated-industries-with-cloud-and-agentic-ai/) (2026-03-11)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.36 Sneak Peek](https://kubernetes.io/blog/2026/03/30/kubernetes-v1-36-sneak-peek/) (2026-03-30)
 - [Announcing Ingress2Gateway 1.0: Your Path to Gateway API](https://kubernetes.io/blog/2026/03/20/ingress2gateway-1-0-release/) (2026-03-20)
 - [Running Agents on Kubernetes with Agent Sandbox](https://kubernetes.io/blog/2026/03/20/running-agents-on-kubernetes-with-agent-sandbox/) (2026-03-20)
 - [Securing Production Debugging in Kubernetes](https://kubernetes.io/blog/2026/03/18/securing-production-debugging-in-kubernetes/) (2026-03-18)
 - [The Invisible Rewrite: Modernizing the Kubernetes Image Promoter](https://kubernetes.io/blog/2026/03/17/image-promoter-rewrite/) (2026-03-17)
-- [Announcing the AI Gateway Working Group](https://kubernetes.io/blog/2026/03/09/announcing-ai-gateway-wg/) (2026-03-09)
 
 </details>
 
@@ -251,11 +251,11 @@
 <details>
 <summary>👥 Facebook Engineering</summary>
 
+- [AI for American-Produced Cement and Concrete](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/) (2026-03-30)
 - [Friend Bubbles: Enhancing Social Discovery on Facebook Reels](https://engineering.fb.com/2026/03/18/ml-applications/friend-bubbles-enhancing-social-discovery-on-facebook-reels/) (2026-03-18)
 - [Ranking Engineer Agent (REA): The Autonomous AI Agent Accelerating Meta’s Ads Ranking Innovation](https://engineering.fb.com/2026/03/17/developer-tools/ranking-engineer-agent-rea-autonomous-ai-system-accelerating-meta-ads-ranking-innovation/) (2026-03-17)
 - [Patch Me If You Can: AI Codemods for Secure-by-Default Android Apps](https://engineering.fb.com/2026/03/13/android/ai-codemods-secure-by-default-android-apps-meta-tech-podcast/) (2026-03-13)
 - [How Advanced Browsing Protection Works in Messenger](https://engineering.fb.com/2026/03/09/security/how-advanced-browsing-protection-works-in-messenger/) (2026-03-09)
-- [FFmpeg at Meta: Media Processing at Scale](https://engineering.fb.com/2026/03/02/video-engineering/ffmpeg-at-meta-media-processing-at-scale/) (2026-03-02)
 
 </details>
 
@@ -295,22 +295,22 @@
 <details>
 <summary>📌 Pinterest Engineering</summary>
 
+- [Zero-Downtime PyTorch Upgrade in Production: Approaches, Pitfalls and Lessons](https://medium.com/@Pinterest_Engineering/zero-downtime-pytorch-upgrade-in-production-approaches-pitfalls-and-lessons-db3f456dc794?source=rss-ef81ef829bcb------2) (2026-03-30)
 - [Building an MCP Ecosystem at Pinterest](https://medium.com/pinterest-engineering/building-an-mcp-ecosystem-at-pinterest-d881eb4c16f1?source=rss-ef81ef829bcb------2) (2026-03-19)
 - [Unified Context-Intent Embeddings for Scalable Text-to-SQL](https://medium.com/pinterest-engineering/unified-context-intent-embeddings-for-scalable-text-to-sql-793635e60aac?source=rss-ef81ef829bcb------2) (2026-03-06)
 - [Unifying Ads Engagement Modeling Across Pinterest Surfaces](https://medium.com/pinterest-engineering/unifying-ads-engagement-modeling-across-pinterest-surfaces-4b5cd3d99e67?source=rss-ef81ef829bcb------2) (2026-03-03)
 - [Bridging the Gap: Diagnosing Online–Offline Discrepancy in Pinterest’s L1 Conversion Models](https://medium.com/pinterest-engineering/bridging-the-gap-diagnosing-online-offline-discrepancy-in-pinterests-l1-conversion-models-1320faaaeefe?source=rss-ef81ef829bcb------2) (2026-02-27)
-- [Piqama: Pinterest Quota Management Ecosystem](https://medium.com/pinterest-engineering/piqama-pinterest-quota-management-ecosystem-dc7881433bf5?source=rss-ef81ef829bcb------2) (2026-02-24)
 
 </details>
 
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [What’s New in PyCharm 2026.1](https://blog.jetbrains.com/pycharm/2026/03/what-s-new-in-pycharm-2026-1/) (2026-03-30)
+- [What’s New in RustRover 2026.1](https://blog.jetbrains.com/rust/2026/03/30/whats-new-in-rustrover-2026-1/) (2026-03-30)
+- [DataSpell 2026.1: AI Agents Ecosystem, Export Notebooks to PDF, Editor Improvements](https://blog.jetbrains.com/dataspell/2026/03/dataspell-2026-1-ai-agents-ecosystem-export-notebooks-to-pdf-editor-improvements/) (2026-03-30)
+- [Using Spring Data JPA with Kotlin](https://blog.jetbrains.com/idea/2026/03/using-spring-data-jpa-with-kotlin/) (2026-03-30)
 - [ReSharper C++ 2026.1: Better performance, improved Unreal Engine workflows, and language support updates](https://blog.jetbrains.com/rscpp/2026/03/30/resharper-cpp-2026-1-released/) (2026-03-30)
-- [ReSharper 2026.1: Built-in Performance Monitoring, Expansion to VS Code, and Faster Everyday Workflows](https://blog.jetbrains.com/dotnet/2026/03/30/resharper-2026-1-released/) (2026-03-30)
-- [Rider 2026.1: More AI Choice, Stronger .NET Tooling, and Expanded Game Dev Support](https://blog.jetbrains.com/dotnet/2026/03/30/rider-2026-1-released/) (2026-03-30)
-- [JetBrains Academy – March Digest](https://blog.jetbrains.com/education/2026/03/30/jetbrains-academy-march-2026/) (2026-03-30)
-- [DataGrip 2026.1: AI Agents in the AI Chat, Redesigned Query Files, Data Source Templates in Your JetBrains Account, Explain Plan Flow Enhancements, and More!](https://blog.jetbrains.com/datagrip/2026/03/26/datagrip-2026-1-redesigned-query-files-data-source-templates-in-your-jetbrains-account-ai-agents-in-the-ai-chat-explain-plan-flow-enhancements-and-more/) (2026-03-26)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Cloudflare Client-Side Security: smarter detection, now open to everyone](https://blog.cloudflare.com/client-side-security-open-to-everyone/) (2026-03-30)
 - [How we use Abstract Syntax Trees (ASTs) to turn Workflows code into visual diagrams ](https://blog.cloudflare.com/workflow-diagrams/) (2026-03-27)
 - [A one-line Kubernetes fix that saved 600 hours a year](https://blog.cloudflare.com/one-line-kubernetes-fix-saved-600-hours-a-year/) (2026-03-26)
 - [Sandboxing AI agents, 100x faster](https://blog.cloudflare.com/dynamic-workers/) (2026-03-24)
 - [Inside Gen 13: how we built our most powerful server yet](https://blog.cloudflare.com/gen13-config/) (2026-03-23)
-- [Launching Cloudflare’s Gen 13 servers: trading cache for cores for 2x edge compute performance](https://blog.cloudflare.com/gen13-launch/) (2026-03-23)
 
 </details>
 
@@ -416,22 +416,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 <details>
 <summary>🪐 PlanetScale Blog</summary>
 
+- [High memory usage in Postgres is good, actually](https://planetscale.com/blog/high-memory-usage-in-postgres-is-good-actually) (2026-03-30)
 - [Stripe Projects partnership: Provision PlanetScale Postgres and MySQL databases from the Stripe CLI](https://planetscale.com/blog/planetscale-stripe-projects-partnership) (2026-03-26)
 - [Enhanced tagging in Postgres Query Insights](https://planetscale.com/blog/enhanced-tagging-in-postgres-query-insights) (2026-03-24)
 - [Behind the scenes: How Database Traffic Control works](https://planetscale.com/blog/behind-the-scenes-how-traffic-control-works) (2026-03-23)
 - [Introducing Database Traffic Control](https://planetscale.com/blog/introducing-database-traffic-control) (2026-03-23)
-- [Scaling Postgres connections with PgBouncer](https://planetscale.com/blog/scaling-postgres-connections-with-pgbouncer) (2026-03-13)
 
 </details>
 
 <details>
 <summary>🔷 Prisma Blog</summary>
 
+- [Agentic Engineering: How Prisma Builds with AI](https://www.prisma.io/blog/how-prisma-build-with-agentic-ai) (2026-03-30)
 - [Rethinking Database Migrations](https://www.prisma.io/blog/rethinking-database-migrations) (2026-03-27)
 - [Sunsetting Prisma Optimize](https://www.prisma.io/blog/sunsetting-prisma-optimize) (2026-03-23)
 - [Prisma Next Roadmap](https://www.prisma.io/blog/prisma-next-roadmap) (2026-03-20)
 - [Rebuilding the Prisma Docs: A New Framework, Design, and Structure](https://www.prisma.io/blog/rebuilding-the-prisma-docs) (2026-03-09)
-- [The Next Evolution of Prisma ORM](https://www.prisma.io/blog/the-next-evolution-of-prisma-orm) (2026-03-04)
 
 </details>
 
@@ -480,17 +480,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 </details>
 
 <details>
-<summary>☁️ Salesforce Developer</summary>
-
-- [Expose Your Composable Storefront in Page Designer Without ISML](https://developer.salesforce.com/blogs/2026/03/expose-your-composable-storefront-in-page-designer-without-isml) (2026-03-26)
-- [The Salesforce Developer’s Guide to TDX 2026](https://developer.salesforce.com/blogs/2026/03/the-salesforce-developers-guide-to-tdx-2026) (2026-03-24)
-- [Build Custom Property Editors and Types for Experience Builder](https://developer.salesforce.com/blogs/2026/03/build-custom-property-editors-and-types-for-experience-builder) (2026-03-19)
-- [What’s New in Salesforce Omnistudio Standard Designers](https://developer.salesforce.com/blogs/2026/03/whats-new-in-salesforce-omnistudio-standard-designers) (2026-03-17)
-- [React vs. Salesforce: How I Rebuilt My “Vibe-Coded” App on the Platform](https://developer.salesforce.com/blogs/2026/03/react-vs-salesforce-how-i-rebuilt-my-vibe-coded-app-on-the-platform) (2026-03-12)
-
-</details>
-
-<details>
 <summary>🧡 HubSpot Developer</summary>
 
 - [Planning Your Migration on the HubSpot Developer Platform](https://developers.hubspot.com/blog/developer-platform-migration-timeline) (2026-02-23)
@@ -504,11 +493,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slack Feature Drop: Your Productivity is Springing Forward](https://slack.com/blog/news/feature-drop-march2026) (2026-03-27)
 - [Slack vs. Microsoft Teams: Key Differences for Modern Teams](https://slack.com/blog/compare/slack-vs-microsoft-teams) (2026-03-23)
 - [Unlocking the Power of Conversation: How Slack’s New Platform is Fueling the Agentic Era](https://slack.com/blog/news/powering-agentic-collaboration) (2026-03-13)
 - [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-03-13)
 - [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-03-13)
-- [AI-Powered Bots: Guide to Chatbots, Tools, and Best Practices](https://slack.com/blog/productivity/ai-powered-bots-guide-to-chatbots-tools-and-best-practices) (2026-03-06)
 
 </details>
 
@@ -557,24 +546,13 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [How AEO vs GEO reshapes AI-driven brand discovery in 2026](https://www.artificialintelligence-news.com/news/how-aeo-vs-geo-reshapes-ai-driven-brand-discovery-in-2026/) (2026-03-30)
-- [Assessing AI powered price forecasting tools in currency markets](https://www.artificialintelligence-news.com/news/assessing-ai-powered-price-forecasting-tools-in-currency-markets/) (2026-03-30)
-- [Kong names Bruce Felt as chief financial officer](https://www.artificialintelligence-news.com/news/kong-names-bruce-felt-as-chief-financial-officer/) (2026-03-30)
-- [JPMorgan begins tracking how employees use AI at work](https://www.artificialintelligence-news.com/news/jpmorgan-begins-tracking-how-employees-use-ai-at-work/) (2026-03-30)
-- [RPA matters, but AI changes how automation works](https://www.artificialintelligence-news.com/news/rpa-still-matters-but-ai-is-changing-how-automation-works/) (2026-03-26)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Lie with Statistics with your Robot Best Friend](https://towardsdatascience.com/how-to-lie-with-statistics-with-your-robot-best-friend/) (2026-03-30)
 - [Why Data Scientists Should Care About Quantum Computing](https://towardsdatascience.com/why-data-scientists-should-care-about-quantum-computing/) (2026-03-30)
 - [Explainable AI in Production: A Neuro-Symbolic Model for Real-Time Fraud Detection](https://towardsdatascience.com/explainable-ai-in-production-a-neuro-symbolic-model-for-real-time-fraud-detection/) (2026-03-30)
 - [How to Become an AI Engineer Fast (Skills, Projects, Salary)](https://towardsdatascience.com/how-to-become-an-ai-engineer-fast-skills-projects-salary/) (2026-03-29)
 - [Self-Healing Neural Networks in PyTorch: Fix Model Drift in Real Time Without Retraining](https://towardsdatascience.com/self-healing-neural-networks-in-pytorch-fix-model-drift-in-real-time-without-retraining/) (2026-03-29)
-- [Using OpenClaw as a Force Multiplier: What One Person Can Ship with Autonomous Agents](https://towardsdatascience.com/using-openclaw-as-a-force-multiplier-what-one-person-can-ship-with-autonomous-agents/) (2026-03-28)
 
 </details>
 
@@ -586,6 +564,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 - [Excel 101: Cell and Column Merge vs Combine](https://www.analyticsvidhya.com/blog/2026/03/excel-cell-merge/) (2026-03-29)
 - [Building Custom Claude Skills For Repeatable AI Workflows](https://www.analyticsvidhya.com/blog/2026/03/custom-claude-skills-for-repeatable-ai-workflows/) (2026-03-28)
 - [Build an AI Meeting Summarizer & Action Planner with Claude Code + MCP ](https://www.analyticsvidhya.com/blog/2026/03/ai-meeting-summarizer-with-claude-code-mcp/) (2026-03-27)
+
+</details>
+
+<details>
+<summary>💎 KDnuggets</summary>
+
+- [5 Useful Python Scripts for Effective Feature Selection](https://www.kdnuggets.com/5-useful-python-scripts-for-effective-feature-selection) (2026-03-30)
+- [7 Free Web APIs Every Developer and Vibe Coder Should Know](https://www.kdnuggets.com/7-free-web-apis-every-developer-and-vibe-coder-should-know) (2026-03-27)
+- [Getting Started with Smolagents: Build Your First Code Agent in 15 Minutes](https://www.kdnuggets.com/getting-started-with-smolagents-build-your-first-code-agent-in-15-minutes) (2026-03-26)
+- [10 GitHub Repositories to Master OpenClaw](https://www.kdnuggets.com/10-github-repositories-to-master-openclaw) (2026-03-26)
+- [Vibe Coding a Private AI Financial Analyst with Python and Local LLMs](https://www.kdnuggets.com/vibe-coding-a-private-ai-financial-analyst-with-python-and-local-llms) (2026-03-25)
 
 </details>
 
