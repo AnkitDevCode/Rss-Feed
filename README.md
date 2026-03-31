@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Delve whistleblower strikes again, with alleged receipts about ‘fake compliance’](https://techcrunch.com/2026/03/30/delve-whistleblower-strikes-again-with-alleged-receipts-about-fake-compliance/) (2026-03-30)
-- [Meta starts testing a premium subscription on Instagram](https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/) (2026-03-30)
-- [Bluesky’s new AI tool Attie is already the most blocked account other than J.D. Vance](https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/) (2026-03-30)
-- [Apple will hide your email address from apps and websites, but not cops](https://techcrunch.com/2026/03/30/apple-will-hide-your-email-address-from-apps-and-websites-but-not-cops/) (2026-03-30)
-- [Uber is buying Berlin startup Blacklane to bolster its ‘Elite’ offering](https://techcrunch.com/2026/03/30/uber-is-buying-berlin-startup-blacklane-to-bolster-its-elite-offering/) (2026-03-30)
+- [15% of Americans say they’d be willing to work for an AI boss, according to new poll](https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/) (2026-03-30)
+- [Popular AI gateway startup LiteLLM ditches controversial startup Delve](https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/) (2026-03-30)
+- [Former Coatue partner raises huge $65M seed for enterprise AI agent startup ](https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/) (2026-03-30)
+- [As more Americans adopt AI tools, fewer say they can trust the results](https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/) (2026-03-30)
+- [What we’re looking for in Startup Battlefield 2026 and how to put your best application forward](https://techcrunch.com/2026/03/30/what-were-looking-for-in-startup-battlefield-2026-and-how-to-put-your-best-application-forward/) (2026-03-30)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [A sea of sparks: Seeing radioactivity](https://maurycyz.com/projects/spinthariscope/) (2026-03-30)
-- [DigitalOcean Seeks $800M in Funding](https://www.datacenterdynamics.com/en/news/digitalocean-seeks-800m-in-funding/) (2026-03-30)
-- [You haven’t fed the insincerity machine in the last 5 minutes](https://christianheilmann.com/2026/03/28/you-are-falling-behind-because-you-havent-fed-the-insincerity-machine-in-the-last-5-minutes/) (2026-03-30)
-- [New Washington state law bans noncompete agreements](https://www.seattletimes.com/business/local-business/new-washington-law-bans-noncompete-agreements/) (2026-03-30)
-- [Take better notes, by hand](https://brianschrader.com/archive/take-better-notes-by-hand/) (2026-03-30)
+- [Universal Claude.md – cut Claude output tokens by 63%](https://github.com/drona23/claude-token-efficient) (2026-03-31)
+- [Android Developer Verification](https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html) (2026-03-30)
+- [OpenGridWorks: The Electricity Infrasctructure, Mapped](https://www.opengridworks.com) (2026-03-30)
+- [Learn Claude Code by doing, not reading](https://claude.nagdy.me/) (2026-03-30)
+- [Why I'm betting on ATProto (and why you should, too)](https://brittanyellich.com/atproto/) (2026-03-30)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [150 million users later, Roblox competitor Rec Room is shutting down](https://www.theverge.com/games/903885/150-million-users-later-roblox-competitor-rec-room-is-shutting-down) (2026-03-31)
+- [Here are our favorite spring cleaning deals from Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/903543/spring-cleaning-gadgets-vacuums-tools-air-purifiers-amazon-big-spring-sale-2026-deals) (2026-03-30)
+- [The first Apple Home Key-ready smart lock with UWB is cheaper during Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/903555/aqara-u400-apple-home-key-uwb-smart-lock-amazon-big-spring-sale-2026-deal) (2026-03-30)
 - [Beats’ gym-friendly Powerbeats Fit are $30 off for Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/903373/beats-powerbeats-fit-pro-2-earbuds-amazon-big-spring-sale-2026-deal) (2026-03-30)
 - [A new RCS update could connect iPhone and Android video calls, someday](https://www.theverge.com/tech/903509/apple-iphone-google-android-video-calls-rcs-universal-profile-4-0) (2026-03-30)
-- [Dyson&#8217;s ultra-thin PencilVac Fluffycones is tougher to resist at $150 off](https://www.theverge.com/gadgets/903416/dyson-pencilvac-fluffycones-amazon-big-spring-sale-deal-sale) (2026-03-30)
-- [A new manufacturing process uses lasers to seal paper packaging instead of glue](https://www.theverge.com/tech/903280/papure-project-fraunhofer-institute-laser-paper-packaging-recycling) (2026-03-30)
-- [The latest Pixel 11 leak shows slimmer bezels and an all-black camera bar](https://www.theverge.com/tech/903381/google-pixel-11-leak-bezels-camera-bar) (2026-03-30)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Water utility announces it's ditching fluoride—then reveals it did so years ago](https://arstechnica.com/health/2026/03/water-utility-announces-its-ditching-fluoride-then-reveals-it-did-so-years-ago/) (2026-03-30)
+- [Judge halts Nexstar/Tegna merger after FCC let firms exceed TV ownership limit](https://arstechnica.com/tech-policy/2026/03/judge-halts-nexstar-tegna-merger-after-fcc-let-firms-exceed-tv-ownership-limit/) (2026-03-30)
+- [Authors' lucky break in court may help class action over Meta torrenting](https://arstechnica.com/tech-policy/2026/03/meta-hopes-scotus-piracy-ruling-will-help-it-beat-lawsuit-over-torrenting-ai-data/) (2026-03-30)
 - [F1 in Japan: Oh no, what have they done to all the fast corners?](https://arstechnica.com/cars/2026/03/f1-in-japan-oh-no-what-have-they-done-to-all-the-fast-corners/) (2026-03-30)
 - [After 16 years and $8 billion, the military's new GPS software still doesn't work](https://arstechnica.com/space/2026/03/after-16-years-and-8-billion-the-militarys-new-gps-software-still-doesnt-work/) (2026-03-30)
-- [Trump convenes "God Squad" to override Endangered Species Act, up oil production](https://arstechnica.com/tech-policy/2026/03/trump-convenes-god-squad-to-override-endangered-species-act-up-oil-production/) (2026-03-30)
-- [What happened to Amelia Earhart? New book takes on the case.](https://arstechnica.com/science/2026/03/what-happened-to-amelia-earhart-new-book-takes-on-the-case/) (2026-03-30)
-- [Pints meet prop bets: Polymarket’s “Situation Room” pop-up bar in DC](https://arstechnica.com/culture/2026/03/pints-meet-prop-bets-polymarkets-situation-room-pop-up-bar-in-dc/) (2026-03-29)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Your AI Doesn't Generate Bad Designs. You Do!](https://dev.to/alaa_elghamry_144eeef8b71/your-ai-doesnt-generate-bad-designs-you-do-13j6) (2026-03-30)
-- [Understanding PCIe Link Training](https://dev.to/ripan030/understanding-pcie-link-training-165i) (2026-03-30)
-- [Build an eval harness for 184 AI agent prompts with promptfoo](https://dev.to/jonesrussell/build-an-eval-harness-for-184-ai-agent-prompts-with-promptfoo-13ac) (2026-03-30)
-- [Determine High-Performing And / Or Scalable Network Architectures](https://dev.to/aws-builders/determine-high-performing-and-or-scalable-network-architectures-2pe8) (2026-03-30)
-- [Android XML vs Jetpack Compose — Which One Should You Use in 2026?](https://dev.to/ahsanahmed03/android-xml-vs-jetpack-compose-which-one-should-you-use-in-2026-2pi1) (2026-03-30)
+- [Managing Your Self-Hosted Wallet with the Admin Dashboard](https://dev.to/walletguy/managing-your-self-hosted-wallet-with-the-admin-dashboard-19od) (2026-03-31)
+- [React Scroll Effects Without External Libraries](https://dev.to/childrentime/react-scroll-effects-without-external-libraries-2k12) (2026-03-31)
+- [I built a free compliance scanner because the enterprise ones cost more than my rent](https://dev.to/cveriskpilot/i-built-a-free-compliance-scanner-because-the-enterprise-ones-cost-more-than-my-rent-2c11) (2026-03-31)
+- [Last week I showed you your AI coding agent can read your SSH keys. Turns out that was the easy part. I run 5 MCP servers con...](https://dev.to/connectengine/last-week-i-showed-you-your-ai-coding-agent-can-read-your-ssh-keys-turns-out-that-was-the-easy-29bg) (2026-03-31)
+- [Mutation Testing: The Missing Safety Net for AI-Generated Code](https://dev.to/rsri/mutation-testing-the-missing-safety-net-for-ai-generated-code-54kn) (2026-03-31)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The ConfigMap That Overwrote Our Production Database Connection String](https://medium.com/codetodeploy/the-configmap-that-overwrote-our-production-database-connection-string-3bc7e9fa2303?source=rss------programming-5) (2026-03-30)
-- [The Health Check That Always Returned 200 OK (Even When Everything Was Broken)](https://medium.com/lets-code-future/the-health-check-that-always-returned-200-ok-even-when-everything-was-broken-ba92b7a8b1d5?source=rss------programming-5) (2026-03-30)
-- [9 AWS Features I Ignored for Years… Until They Cut My Cloud Bill in Half Overnight](https://aws.plainenglish.io/9-aws-features-i-ignored-for-years-until-they-cut-my-cloud-bill-in-half-overnight-463a94df4c89?source=rss------programming-5) (2026-03-30)
-- [Linux for Beginners: The Only Commands You Actually Need to Get Started](https://medium.com/@abdallahm.inbox/linux-for-beginners-the-only-commands-you-actually-need-to-get-started-e2a50e1b5582?source=rss------programming-5) (2026-03-30)
-- [The Accountability Gap Between Product and Engineering](https://observabilityguy.medium.com/the-accountability-gap-between-product-and-engineering-22b5cd48579c?source=rss------programming-5) (2026-03-30)
+- [Measuring the Startup Memory Cost for Lazy Iteration Patterns in Java](https://donraab.medium.com/measuring-the-startup-memory-cost-for-lazy-iteration-patterns-in-java-be24f4dd5b64?source=rss------programming-5) (2026-03-31)
+- [El problema: El "vacío" de datos en las pruebas de automatización](https://medium.com/@perseide.dev/el-problema-el-vac%C3%ADo-de-datos-en-las-pruebas-de-automatizaci%C3%B3n-47af3d878c1f?source=rss------programming-5) (2026-03-31)
+- [What looks like ‘anti-gravity’ is already happening in controlled environments…](https://medium.com/@avas3/what-looks-like-anti-gravity-is-already-happening-in-controlled-environments-815f8c53744a?source=rss------programming-5) (2026-03-31)
+- [zxing Decoder Online|2026](https://medium.com/@zxing7515/zxing-decoder-online-2026-04d4dc7138b9?source=rss------programming-5) (2026-03-31)
+- [AI Makes Great Senior Engineers More Valuable, Not Less](https://medium.com/@mail_43070/ai-makes-great-senior-engineers-more-valuable-not-less-3d2c88eb4ebb?source=rss------programming-5) (2026-03-31)
 
 </details>
 
@@ -152,22 +152,22 @@
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [Updated Apple Developer Program License Agreement now available](https://developer.apple.com/news/?id=fwswmjcn) (2026-03-31)
+- [Get ready with the latest beta releases](https://developer.apple.com/news/?id=z8vzrgzx) (2026-03-30)
 - [Update on regulated medical device apps in the European Economic Area, United Kingdom, and United States](https://developer.apple.com/news/?id=nyqbfz1y) (2026-03-26)
 - [New In-App Purchase and subscription data now available in Analytics](https://developer.apple.com/news/?id=hh6v4b55) (2026-03-25)
 - [WWDC26: June 8-12, 2026](https://developer.apple.com/news/?id=yi8qj25k) (2026-03-23)
-- [Apple Developer is now on bilibili and LinkedIn](https://developer.apple.com/news/?id=yts4l6mh) (2026-03-17)
-- [Adjustments to the China storefront of the App Store on iOS and iPadOS](https://developer.apple.com/news/?id=dadukodv) (2026-03-13)
 
 </details>
 
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Media3 1.10 is out](https://android-developers.googleblog.com/2026/03/media3-110-is-out.html) (2026-03-30)
+- [Monzo boosts performance metrics by up to 35% with a simple R8 update](https://android-developers.googleblog.com/2026/03/monzo-boosts-performance-metrics-by-up-to-35-percent.html) (2026-03-30)
+- [Android developer verification: Rolling out to all developers on Play Console and Android Developer Console](https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html) (2026-03-30)
 - [Redefining Location Privacy: New Tools and Improvements for Android 17](https://android-developers.googleblog.com/2026/03/location-privacy.html) (2026-03-26)
 - [The Third Beta of Android 17](https://android-developers.googleblog.com/2026/03/the-third-beta-of-android-17.html) (2026-03-26)
-- [Meet the class of 2026 for the Google Play Apps Accelerator](https://android-developers.googleblog.com/2026/03/meet-class-of-2026-for-google-play-apps.html) (2026-03-25)
-- [Contact Picker: Privacy-First Contact Sharing](https://android-developers.googleblog.com/2026/03/contact-picker-privacy-first-contact.html) (2026-03-24)
-- [Beyond Infotainment: Extending Android Automotive OS for Software-defined Vehicles](https://android-developers.googleblog.com/2026/03/Beyond-Infotainment-Extending-Android-Automotive-OS-for-Software-defined-Vehicles.html) (2026-03-24)
 
 </details>
 
@@ -482,22 +482,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 <details>
 <summary>🧡 HubSpot Developer</summary>
 
+- [A Developer’s Guide to HubSpot’s Date-Based API Versioning](https://developers.hubspot.com/blog/a-developers-guide-to-hubspots-date-based-api-versioning) (2026-03-30)
 - [Planning Your Migration on the HubSpot Developer Platform](https://developers.hubspot.com/blog/developer-platform-migration-timeline) (2026-02-23)
 - [Production-Ready OAuth Token Management for HubSpot Integrations](https://developers.hubspot.com/blog/oauth-token-management-hubspot-integrations) (2026-01-13)
 - [Introducing Automated Testing for UI Extensions](https://developers.hubspot.com/blog/introducing-automated-testing-for-ui-extensions) (2025-12-16)
 - [How to CODE: Simplifying the Developer Experience with HubSpot](https://developers.hubspot.com/blog/how-to-code-simplifying-the-developer-experience-with-hubspot) (2025-11-13)
-- [Unlocking the Power of Webhooks & Custom Workflow Actions in HubSpot’s New Developer Platform](https://developers.hubspot.com/blog/unlocking-the-power-of-webhooks-workflow-actions-in-hubspots-new-developer-platform) (2025-10-22)
 
 </details>
 
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack Feature Drop: Your Productivity is Springing Forward](https://slack.com/blog/news/feature-drop-march2026) (2026-03-27)
 - [Slack vs. Microsoft Teams: Key Differences for Modern Teams](https://slack.com/blog/compare/slack-vs-microsoft-teams) (2026-03-23)
 - [Unlocking the Power of Conversation: How Slack’s New Platform is Fueling the Agentic Era](https://slack.com/blog/news/powering-agentic-collaboration) (2026-03-13)
 - [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-03-13)
 - [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-03-13)
+- [AI-Powered Bots: Guide to Chatbots, Tools, and Best Practices](https://slack.com/blog/productivity/ai-powered-bots-guide-to-chatbots-tools-and-best-practices) (2026-03-06)
 
 </details>
 
@@ -546,6 +546,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [Secure governance accelerates financial AI revenue growth](https://www.artificialintelligence-news.com/news/secure-governance-accelerates-financial-ai-revenue-growth/) (2026-03-30)
+- [Glia wins Excellence Award for safer AI in banking](https://www.artificialintelligence-news.com/news/glia-wins-excellence-award-for-safer-ai-in-banking/) (2026-03-30)
+- [How AEO vs GEO reshapes AI-driven brand discovery in 2026](https://www.artificialintelligence-news.com/news/how-aeo-vs-geo-reshapes-ai-driven-brand-discovery-in-2026/) (2026-03-30)
+- [Assessing AI powered price forecasting tools in currency markets](https://www.artificialintelligence-news.com/news/assessing-ai-powered-price-forecasting-tools-in-currency-markets/) (2026-03-30)
+- [Kong names Bruce Felt as chief financial officer](https://www.artificialintelligence-news.com/news/kong-names-bruce-felt-as-chief-financial-officer/) (2026-03-30)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
 - [How to Lie with Statistics with your Robot Best Friend](https://towardsdatascience.com/how-to-lie-with-statistics-with-your-robot-best-friend/) (2026-03-30)
@@ -581,11 +592,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [From Prompt to Prediction: Understanding Prefill, Decode, and the KV Cache in LLMs](https://machinelearningmastery.com/from-prompt-to-prediction-understanding-prefill-decode-and-the-kv-cache-in-llms/) (2026-03-30)
 - [7 Essential Python Itertools for Feature Engineering](https://machinelearningmastery.com/7-essential-python-itertools-for-feature-engineering/) (2026-03-30)
 - [LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes](https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/) (2026-03-27)
 - [Vector Databases Explained in 3 Levels of Difficulty](https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/) (2026-03-26)
 - [5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering](https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/) (2026-03-25)
-- [Beyond the Vector Store: Building the Full Data Layer for AI Applications](https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/) (2026-03-24)
 
 </details>
 
