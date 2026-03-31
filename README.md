@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Allbirds is selling for $39 million. It raised nearly 10 times that amount in its IPO.](https://techcrunch.com/2026/03/30/allbirds-is-selling-for-39-million-it-raised-nearly-10-times-that-amount-in-its-ipo/) (2026-03-31)
 - [15% of Americans say they’d be willing to work for an AI boss, according to new poll](https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/) (2026-03-30)
 - [Popular AI gateway startup LiteLLM ditches controversial startup Delve](https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/) (2026-03-30)
 - [Former Coatue partner raises huge $65M seed for enterprise AI agent startup ](https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/) (2026-03-30)
 - [As more Americans adopt AI tools, fewer say they can trust the results](https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/) (2026-03-30)
-- [What we’re looking for in Startup Battlefield 2026 and how to put your best application forward](https://techcrunch.com/2026/03/30/what-were-looking-for-in-startup-battlefield-2026-and-how-to-put-your-best-application-forward/) (2026-03-30)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Universal Claude.md – cut Claude output tokens by 63%](https://github.com/drona23/claude-token-efficient) (2026-03-31)
-- [Android Developer Verification](https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html) (2026-03-30)
-- [OpenGridWorks: The Electricity Infrasctructure, Mapped](https://www.opengridworks.com) (2026-03-30)
-- [Learn Claude Code by doing, not reading](https://claude.nagdy.me/) (2026-03-30)
-- [Why I'm betting on ATProto (and why you should, too)](https://brittanyellich.com/atproto/) (2026-03-30)
+- [RamAIn (YC W26) Is Hiring](https://www.ycombinator.com/companies/ramain/jobs/jezgwo5-ai-ml-research-engineer) (2026-03-31)
+- [Google's 200M-parameter time-series foundation model with 16k context](https://github.com/google-research/timesfm) (2026-03-31)
+- [Sony halts memory card shipments due to NAND shortage](https://www.techzine.eu/news/devices/140058/sony-halts-memory-card-shipments-due-to-nand-shortage/) (2026-03-31)
+- [GitHub backs down, kills Copilot pull-request ads after backlash](https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/) (2026-03-31)
+- [Ollama is now powered by MLX on Apple Silicon in preview](https://ollama.com/blog/mlx) (2026-03-31)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Managing Your Self-Hosted Wallet with the Admin Dashboard](https://dev.to/walletguy/managing-your-self-hosted-wallet-with-the-admin-dashboard-19od) (2026-03-31)
-- [React Scroll Effects Without External Libraries](https://dev.to/childrentime/react-scroll-effects-without-external-libraries-2k12) (2026-03-31)
-- [I built a free compliance scanner because the enterprise ones cost more than my rent](https://dev.to/cveriskpilot/i-built-a-free-compliance-scanner-because-the-enterprise-ones-cost-more-than-my-rent-2c11) (2026-03-31)
-- [Last week I showed you your AI coding agent can read your SSH keys. Turns out that was the easy part. I run 5 MCP servers con...](https://dev.to/connectengine/last-week-i-showed-you-your-ai-coding-agent-can-read-your-ssh-keys-turns-out-that-was-the-easy-29bg) (2026-03-31)
-- [Mutation Testing: The Missing Safety Net for AI-Generated Code](https://dev.to/rsri/mutation-testing-the-missing-safety-net-for-ai-generated-code-54kn) (2026-03-31)
+- [No Notary Required: EU Inc's Digital Revolution in Company Formation](https://dev.to/euincnews/no-notary-required-eu-incs-digital-revolution-in-company-formation-mo8) (2026-03-31)
+- [Tracking Efforts in a T&M Project Using Google Sheets](https://dev.to/arezvov/tracking-efforts-in-a-tm-project-using-google-sheets-3kg1) (2026-03-31)
+- [Claude Code: Auto-Approve Tools While Keeping a Safety Net with Hooks](https://dev.to/abhaygawade/claude-code-auto-approve-tools-while-keeping-a-safety-net-with-hooks-4839) (2026-03-31)
+- [The Only Prompt Hack You Actually Need (No, You Don't Need a Course)](https://dev.to/saim_h/the-only-prompt-hack-you-actually-need-no-you-dont-need-a-course-4lnp) (2026-03-31)
+- [Progress on the Navier-Stokes Problem](https://dev.to/navierstokesorg/progress-on-the-navier-stokes-problem-52ik) (2026-03-31)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Measuring the Startup Memory Cost for Lazy Iteration Patterns in Java](https://donraab.medium.com/measuring-the-startup-memory-cost-for-lazy-iteration-patterns-in-java-be24f4dd5b64?source=rss------programming-5) (2026-03-31)
-- [El problema: El "vacío" de datos en las pruebas de automatización](https://medium.com/@perseide.dev/el-problema-el-vac%C3%ADo-de-datos-en-las-pruebas-de-automatizaci%C3%B3n-47af3d878c1f?source=rss------programming-5) (2026-03-31)
-- [What looks like ‘anti-gravity’ is already happening in controlled environments…](https://medium.com/@avas3/what-looks-like-anti-gravity-is-already-happening-in-controlled-environments-815f8c53744a?source=rss------programming-5) (2026-03-31)
-- [zxing Decoder Online|2026](https://medium.com/@zxing7515/zxing-decoder-online-2026-04d4dc7138b9?source=rss------programming-5) (2026-03-31)
-- [AI Makes Great Senior Engineers More Valuable, Not Less](https://medium.com/@mail_43070/ai-makes-great-senior-engineers-more-valuable-not-less-3d2c88eb4ebb?source=rss------programming-5) (2026-03-31)
+- [Weekly Digest #264](https://wklytech.medium.com/weekly-digest-264-eae55f90f95d?source=rss------programming-5) (2026-03-31)
+- [Essential Linux Commands Every Beginner Must Know](https://medium.com/@aatreyaadvith/essential-linux-commands-every-beginner-must-know-9e16f259b072?source=rss------programming-5) (2026-03-31)
+- [I Stopped Writing About AI for 3 Months. Here’s What I Built Instead.](https://medium.com/@mayankbohra.dev/i-stopped-writing-about-ai-for-3-months-heres-what-i-built-instead-9643e1f4f64f?source=rss------programming-5) (2026-03-31)
+- [6 CSS Tricks That Secretly Hurt Performance](https://medium.com/skillstuff/6-css-tricks-that-secretly-hurt-performance-6e4652ddf70c?source=rss------programming-5) (2026-03-31)
+- [From pip to uv: A Practical, Deep Dive into Modern Python Dependency Management](https://medium.com/codetodeploy/from-pip-to-uv-a-practical-deep-dive-into-modern-python-dependency-management-2c9c231738bd?source=rss------programming-5) (2026-03-31)
 
 </details>
 
@@ -493,11 +493,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slack Feature Drop: Your Productivity is Springing Forward](https://slack.com/blog/news/feature-drop-march2026) (2026-03-27)
 - [Slack vs. Microsoft Teams: Key Differences for Modern Teams](https://slack.com/blog/compare/slack-vs-microsoft-teams) (2026-03-23)
 - [Unlocking the Power of Conversation: How Slack’s New Platform is Fueling the Agentic Era](https://slack.com/blog/news/powering-agentic-collaboration) (2026-03-13)
 - [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-03-13)
 - [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-03-13)
-- [AI-Powered Bots: Guide to Chatbots, Tools, and Best Practices](https://slack.com/blog/productivity/ai-powered-bots-guide-to-chatbots-tools-and-best-practices) (2026-03-06)
 
 </details>
 
@@ -542,17 +542,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 - [Build a Domain-Specific Embedding Model in Under a Day](https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune) (2026-03-20)
 - [What's New in Mellea 0.4.0 + Granite Libraries Release](https://huggingface.co/blog/ibm-granite/granite-libraries) (2026-03-20)
 - [State of Open Source on Hugging Face: Spring 2026](https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026) (2026-03-17)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Secure governance accelerates financial AI revenue growth](https://www.artificialintelligence-news.com/news/secure-governance-accelerates-financial-ai-revenue-growth/) (2026-03-30)
-- [Glia wins Excellence Award for safer AI in banking](https://www.artificialintelligence-news.com/news/glia-wins-excellence-award-for-safer-ai-in-banking/) (2026-03-30)
-- [How AEO vs GEO reshapes AI-driven brand discovery in 2026](https://www.artificialintelligence-news.com/news/how-aeo-vs-geo-reshapes-ai-driven-brand-discovery-in-2026/) (2026-03-30)
-- [Assessing AI powered price forecasting tools in currency markets](https://www.artificialintelligence-news.com/news/assessing-ai-powered-price-forecasting-tools-in-currency-markets/) (2026-03-30)
-- [Kong names Bruce Felt as chief financial officer](https://www.artificialintelligence-news.com/news/kong-names-bruce-felt-as-chief-financial-officer/) (2026-03-30)
 
 </details>
 
