@@ -20,66 +20,66 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [With its new app store, Ring bets on AI to go beyond home security](https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/) (2026-03-31)
-- [Google is now letting users in the US change their Gmail address](https://techcrunch.com/2026/03/31/google-is-now-letting-users-in-the-us-change-their-gmail-address/) (2026-03-31)
-- [Airbnb is introducing a private car pick-up service](https://techcrunch.com/2026/03/31/airbnb-private-car-pick-up-service-welcome-pickups/) (2026-03-31)
-- [The Silicon Valley congressional race is getting ugly](https://techcrunch.com/2026/03/31/the-silicon-valley-congressional-race-is-getting-ugly/) (2026-03-31)
-- [Allbirds is selling for $39 million. It raised nearly 10 times that amount in its IPO.](https://techcrunch.com/2026/03/30/allbirds-is-selling-for-39-million-it-raised-nearly-10-times-that-amount-in-its-ipo/) (2026-03-31)
+- [Go play this secret game in your TikTok DMs](https://techcrunch.com/2026/03/31/go-play-this-secret-game-in-your-tiktok-dms/) (2026-03-31)
+- [Caller ID app Truecaller hits 500 million monthly users](https://techcrunch.com/2026/03/31/caller-id-app-truecaller-hits-500-million-monthly-users/) (2026-03-31)
+- [Social gaming platform Rec Room, once valued at $3.5B, is shutting down](https://techcrunch.com/2026/03/31/social-gaming-platform-rec-room-once-valued-at-3-5b-is-shutting-down/) (2026-03-31)
+- [Alexa+ gets new food ordering experiences with Uber Eats and Grubhub](https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/) (2026-03-31)
+- [Whoop’s valuation just tripled to $10 billion](https://techcrunch.com/2026/03/31/whoop-valuation-10b-series-g-fundraise/) (2026-03-31)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Anthropic: Claude Code users hitting usage limits 'way faster than expected'](https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/) (2026-03-31)
-- [Marketplace for bots? Who needs that?](https://botstall.com) (2026-03-31)
-- [U.S. stocks are set to deliver their worst quarter in nearly four years](https://www.wsj.com/finance/stocks/wall-street-is-finishing-the-worst-quarter-for-stocks-in-four-years-31ac41ea) (2026-03-31)
-- [Combinators](https://tinyapl.rubenverg.com/docs/info/combinators) (2026-03-31)
-- [Show HN: Pardus Browser- a browser for AI agents without Chromium](https://github.com/JasonHonKL/PardusBrowser/tree/main) (2026-03-31)
+- [OkCupid gave 3M dating-app photos to facial recognition firm, FTC says](https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/) (2026-03-31)
+- [I Decompiled the White House's New App](https://blog.thereallo.dev/blog/decompiling-the-white-house-app) (2026-03-31)
+- [Ask HN: Academic study on AI's impact on software development – want to join?](https://news.ycombinator.com/item?id=47590261) (2026-03-31)
+- [Cohere Transcribe: Speech Recognition](https://cohere.com/blog/transcribe) (2026-03-31)
+- [Scotty: A beautiful SSH task runner](https://freek.dev/3064-scotty-a-beautiful-ssh-task-runner) (2026-03-31)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The AirPods Max 2 are a great sequel, but not an ambitious one](https://www.theverge.com/tech/903754/apple-airpods-max-2-review) (2026-03-31)
-- [Nvidia rolls out DLSS 4.5 update with new frame generation features](https://www.theverge.com/tech/903934/nvidia-dlss-4-5-multi-frame-generation-app-beta-launch) (2026-03-31)
-- [You can order Grubhub and Uber Eats ‘conversationally’ with Alexa Plus](https://www.theverge.com/ai-artificial-intelligence/903938/alexa-plus-order-food-grubhub-uber-eats) (2026-03-31)
-- [Samsung finally brings blood pressure tracking to US Galaxy Watches](https://www.theverge.com/tech/903946/samsung-galaxy-watch-blood-pressure-monitoring-us-launch) (2026-03-31)
-- [Shark’s BlastBoss amplifies your sweeping with a 190 mph blast of air](https://www.theverge.com/tech/902550/shark-blastboss-blower-adjustable-broom-accessory-price-availability) (2026-03-31)
+- [Evercade’s new handheld has a larger screen and dual thumbsticks for 3D games](https://www.theverge.com/tech/904543/evercade-nexus-handheld-console-retro-gaming-preorder-pricing-availability) (2026-03-31)
+- [No Kings is taking back Americana](https://www.theverge.com/policy/904405/no-kings-protests-portland-americana) (2026-03-31)
+- [The Galaxy S26’s photo app can sloppify your memories](https://www.theverge.com/tech/904176/samsung-galaxy-s26-ai-photo-assist-slop) (2026-03-31)
+- [Hisense’s 75-inch U6 mini-LED TV is cheaper than its 65-inch model](https://www.theverge.com/gadgets/904372/hisense-u6-mini-led-tv-4k-amazon-big-spring-sale-2026-deal) (2026-03-31)
+- [The Sonos Play and mic-less Era 100 SL are now available](https://www.theverge.com/gadgets/903746/sonos-play-era-100-sl-speakers-price-release-date-availability) (2026-03-31)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Water utility announces it's ditching fluoride—then reveals it did so years ago](https://arstechnica.com/health/2026/03/water-utility-announces-its-ditching-fluoride-then-reveals-it-did-so-years-ago/) (2026-03-30)
-- [Judge halts Nexstar/Tegna merger after FCC let firms exceed TV ownership limit](https://arstechnica.com/tech-policy/2026/03/judge-halts-nexstar-tegna-merger-after-fcc-let-firms-exceed-tv-ownership-limit/) (2026-03-30)
-- [Authors' lucky break in court may help class action over Meta torrenting](https://arstechnica.com/tech-policy/2026/03/meta-hopes-scotus-piracy-ruling-will-help-it-beat-lawsuit-over-torrenting-ai-data/) (2026-03-30)
-- [F1 in Japan: Oh no, what have they done to all the fast corners?](https://arstechnica.com/cars/2026/03/f1-in-japan-oh-no-what-have-they-done-to-all-the-fast-corners/) (2026-03-30)
-- [After 16 years and $8 billion, the military's new GPS software still doesn't work](https://arstechnica.com/space/2026/03/after-16-years-and-8-billion-the-militarys-new-gps-software-still-doesnt-work/) (2026-03-30)
+- [New quantum-computing advances heighten threat to elliptic curve cryptosystems](https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/) (2026-03-31)
+- [You can finally change the goofy Gmail address you chose years ago](https://arstechnica.com/gadgets/2026/03/you-can-finally-change-the-goofy-gmail-address-you-chose-years-ago/) (2026-03-31)
+- [OkCupid gave 3 million dating-app photos to facial recognition firm, FTC says](https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/) (2026-03-31)
+- [This is my third Orion launch, but it feels totally different](https://arstechnica.com/features/2026/03/this-is-my-third-orion-launch-but-it-feels-totally-different/) (2026-03-31)
+- [Costco sued for seeking refunds on tariffs customers paid](https://arstechnica.com/tech-policy/2026/03/costco-sued-for-seeking-refunds-on-tariffs-customers-paid/) (2026-03-31)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Shifting to AI model customization is an architectural imperative](https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/) (2026-03-31)
 - [The Download: AI health tools and the Pentagon’s Anthropic culture war](https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/) (2026-03-31)
 - [AI benchmarks are broken. Here’s what we need instead.](https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/) (2026-03-31)
 - [There are more AI health tools than ever—but how well do they work?](https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/) (2026-03-30)
 - [The Pentagon’s culture war tactic against Anthropic has backfired](https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/) (2026-03-30)
-- [The Download: brainless human clones and the first uterus kept alive outside a body](https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body/) (2026-03-30)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Agent-driven development in Copilot Applied Science](https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/) (2026-03-31)
 - [GitHub for Beginners: Getting started with GitHub security](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-security/) (2026-03-30)
 - [What’s coming to our GitHub Actions 2026 security roadmap](https://github.blog/news-insights/product-news/whats-coming-to-our-github-actions-2026-security-roadmap/) (2026-03-26)
 - [A year of open source vulnerability trends: CVEs, advisories, and malware](https://github.blog/security/supply-chain-security/a-year-of-open-source-vulnerability-trends-cves-advisories-and-malware/) (2026-03-26)
 - [Updates to GitHub Copilot interaction data usage policy](https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/) (2026-03-25)
-- [Building AI-powered GitHub issue triage with the Copilot SDK](https://github.blog/ai-and-ml/github-copilot/building-ai-powered-github-issue-triage-with-the-copilot-sdk/) (2026-03-24)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Memory Bandwidth Gap Is 49x and Growing — Why Local LLMs Hit a Ceiling](https://dev.to/plasmon_imp/the-memory-bandwidth-gap-is-49x-and-growing-why-local-llms-hit-a-ceiling-4cca) (2026-03-31)
-- [Mulesoft with AI](https://dev.to/harshit15/mulesoft-with-ai-2c8n) (2026-03-31)
-- [MoE Beat Dense 27B by 2.4x on 8GB VRAM — The 35B-A3B Benchmark Nobody Expected](https://dev.to/plasmon_imp/moe-beat-dense-27b-by-24x-on-8gb-vram-the-35b-a3b-benchmark-nobody-expected-24n) (2026-03-31)
-- [Why I stopped using flat $/kWh to size commercial battery storage.](https://dev.to/tinashe_/why-i-stopped-using-flat-kwh-to-size-commercial-battery-storage-2a0a) (2026-03-31)
-- [Network Protocols: A Senior Engineer's Guide](https://dev.to/arghya_majumder/network-protocols-a-senior-engineers-guide-5440) (2026-03-31)
+- [Guardrails para Agentes de IA: Reglas Que los LLM No Pueden Evadir](https://dev.to/aws-espanol/guardrails-para-agentes-de-ia-reglas-que-los-llm-no-pueden-evadir-5dmn) (2026-03-31)
+- [Building 646 Suricata Rules to Detect AI Agent Threats: OpenClaw Security with CGTI Lite](https://dev.to/senturkselim/building-646-suricata-rules-to-detect-ai-agent-threats-openclaw-security-with-cgti-lite-41md) (2026-03-31)
+- [Custom Polygons vs. Uber's H3: Building a High-Performance Geofencing Backend in Go](https://dev.to/alex_g_aeeb05ba69eee8a4fd/custom-polygons-vs-ubers-h3-building-a-high-performance-geofencing-backend-in-go-3e7f) (2026-03-31)
+- [SQLite Interface Handler: Understanding the sqlite3 Core Structure](https://dev.to/lovestaco/sqlite-interface-handler-understanding-the-sqlite3-core-structure-2976) (2026-03-31)
+- [Help Me!!](https://dev.to/tyler_biffle_1ca74cc0e8ee/help-me-4cn6) (2026-03-31)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Your AI Coding Assistant Has a Pet:](https://kotrotsos.medium.com/your-ai-coding-assistant-has-a-pet-dcb7db06f639?source=rss------programming-5) (2026-03-31)
-- [How to Design a Scalable Frontend Architecture (Step-by-Step)](https://kawaldeepsingh.medium.com/how-to-design-a-scalable-frontend-architecture-step-by-step-635870953f3f?source=rss------programming-5) (2026-03-31)
-- [How Telcos Are Becoming AI-Native: A Deep Dive into Microsoft’s Frontier Transformation for…](https://medium.com/codex/how-telcos-are-becoming-ai-native-a-deep-dive-into-microsofts-frontier-transformation-for-99756d587da2?source=rss------programming-5) (2026-03-31)
-- [9 Python Automation Scripts That Saved Me 20+ Hours a Week (I Wish I Started Sooner)](https://python.plainenglish.io/9-python-automation-scripts-that-saved-me-20-hours-a-week-i-wish-i-started-sooner-b7cf02ff1db7?source=rss------programming-5) (2026-03-31)
-- [Mathematics Lied to Us for 4,000 Years — And the Lie Turned Out to Be True](https://medium.com/@ppp.mishra124/mathematics-lied-to-us-for-4-000-years-and-the-lie-turned-out-to-be-true-ffb5104a4f36?source=rss------programming-5) (2026-03-31)
+- [10 Python Libraries That Are Gaining Popularity Fast](https://python.plainenglish.io/10-python-libraries-that-are-gaining-popularity-fast-bad0a76acf31?source=rss------programming-5) (2026-03-31)
+- [How JavaScript Actually Works: Engines, V8, and the Code Behind Your Code](https://sheraz12.medium.com/how-javascript-actually-works-engines-v8-and-the-code-behind-your-code-48e72a0178a3?source=rss------programming-5) (2026-03-31)
+- [ Master Go Microservices: Your 2026 Step-by-Step Guide to Kubernetes Deployment](https://medium.com/@puneetpm/master-go-microservices-your-2026-step-by-step-guide-to-kubernetes-deployment-e07373a61109?source=rss------programming-5) (2026-03-31)
+- [I Spent Two Years Proving I Didn’t Need Anyone](https://code.likeagirl.io/i-spent-two-years-proving-i-didnt-need-anyone-b6c555ac8731?source=rss------programming-5) (2026-03-31)
+- [ How to Build Faster with AI as a Solo Developer](https://medium.com/@guru.arts03/how-to-build-faster-with-ai-as-a-solo-developer-0a27e8b5b685?source=rss------programming-5) (2026-03-31)
 
 </details>
 
@@ -141,22 +141,22 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Efficiency at Scale: NVIDIA, Energy Leaders Accelerating Power‑Flexible AI Factories to Fortify the Grid](https://blogs.nvidia.com/blog/energy-efficiency-ai-factories-grid/) (2026-03-31)
 - [Into the Omniverse: NVIDIA GTC Showcases Virtual Worlds Powering the Physical AI Era](https://blogs.nvidia.com/blog/gtc-2026-virtual-worlds-physical-ai/) (2026-03-26)
 - [Game On: Five New Titles Now Streaming on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-screamer/) (2026-03-26)
 - [The Future of AI Is Open and Proprietary](https://blogs.nvidia.com/blog/ai-future-open-and-proprietary/) (2026-03-25)
 - [Blowing Off Steam: How Power-Flexible AI Factories Can Stabilize the Global Energy Grid](https://blogs.nvidia.com/blog/power-flexible-ai-factories-energy-grid/) (2026-03-25)
-- [Advancing Open Source AI, NVIDIA Donates Dynamic Resource Allocation Driver for GPUs to Kubernetes Community](https://blogs.nvidia.com/blog/nvidia-at-kubecon-2026/) (2026-03-24)
 
 </details>
 
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [App Store expands support to 11 new languages](https://developer.apple.com/news/?id=97t4mt64) (2026-03-31)
 - [Updated Apple Developer Program License Agreement now available](https://developer.apple.com/news/?id=fwswmjcn) (2026-03-31)
 - [Get ready with the latest beta releases](https://developer.apple.com/news/?id=z8vzrgzx) (2026-03-30)
 - [Update on regulated medical device apps in the European Economic Area, United Kingdom, and United States](https://developer.apple.com/news/?id=nyqbfz1y) (2026-03-26)
 - [New In-App Purchase and subscription data now available in Analytics](https://developer.apple.com/news/?id=hh6v4b55) (2026-03-25)
-- [WWDC26: June 8-12, 2026](https://developer.apple.com/news/?id=yi8qj25k) (2026-03-23)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Run and Iterate on LLMs Faster with Docker Model Runner on DGX Station](https://www.docker.com/blog/blog-docker-model-runner-new-nvidia-dgx-station/) (2026-03-31)
+- [Docker Sandboxes: Run Agents in YOLO Mode, Safely](https://www.docker.com/blog/docker-sandboxes-run-agents-in-yolo-mode-safely/) (2026-03-31)
 - [Building a News Roundup with Docker Agent, Docker Model Runner, and Skill](https://www.docker.com/blog/building-a-news-roundup-with-docker-agent-docker-model-runner-and-skill/) (2026-03-27)
 - [Trivy supply chain compromise: What Docker Hub users should know](https://www.docker.com/blog/trivy-supply-chain-compromise-what-docker-hub-users-should-know/) (2026-03-23)
 - [From the Captain’s Chair: Naga Santhosh Reddy Vootukuri](https://www.docker.com/blog/from-the-captains-chair-naga-santhosh-reddy-vootukuri/) (2026-03-18)
-- [Achieving Test Reliability for Native E2E Testing: Beyond Fixing Broken Tests](https://www.docker.com/blog/native-e2e-test-reliability/) (2026-03-13)
-- [How to Run Claude Code with Docker: Local Models, MCP Servers, and Secure Sandboxes](https://www.docker.com/blog/run-claude-code-with-docker/) (2026-03-13)
 
 </details>
 
@@ -251,11 +251,11 @@
 <details>
 <summary>👥 Facebook Engineering</summary>
 
+- [Meta Adaptive Ranking Model: Bending the Inference Scaling Curve to Serve LLM-Scale Models for Ads](https://engineering.fb.com/2026/03/31/ml-applications/meta-adaptive-ranking-model-bending-the-inference-scaling-curve-to-serve-llm-scale-models-for-ads/) (2026-03-31)
 - [AI for American-Produced Cement and Concrete](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/) (2026-03-30)
 - [Friend Bubbles: Enhancing Social Discovery on Facebook Reels](https://engineering.fb.com/2026/03/18/ml-applications/friend-bubbles-enhancing-social-discovery-on-facebook-reels/) (2026-03-18)
 - [Ranking Engineer Agent (REA): The Autonomous AI Agent Accelerating Meta’s Ads Ranking Innovation](https://engineering.fb.com/2026/03/17/developer-tools/ranking-engineer-agent-rea-autonomous-ai-system-accelerating-meta-ads-ranking-innovation/) (2026-03-17)
 - [Patch Me If You Can: AI Codemods for Secure-by-Default Android Apps](https://engineering.fb.com/2026/03/13/android/ai-codemods-secure-by-default-android-apps-meta-tech-podcast/) (2026-03-13)
-- [How Advanced Browsing Protection Works in Messenger](https://engineering.fb.com/2026/03/09/security/how-advanced-browsing-protection-works-in-messenger/) (2026-03-09)
 
 </details>
 
@@ -284,11 +284,11 @@
 <details>
 <summary>💬 Slack Engineering</summary>
 
+- [From Custom to Open: Scalable Network Probing and HTTP/3 Readiness with Prometheus](https://slack.engineering/from-custom-to-open-scalable-network-probing-and-http-3-readiness-with-prometheus/) (2026-03-31)
 - [How Slack Rebuilt Notifications 📣](https://slack.engineering/how-slack-rebuilt-notifications/) (2026-03-19)
 - [Streamlining Security Investigations with Agents](https://slack.engineering/streamlining-security-investigations-with-agents/) (2025-12-01)
 - [Android VPAT journey](https://slack.engineering/android-vpat-journey/) (2025-11-19)
 - [Build better software to build software better](https://slack.engineering/build-better-software-to-build-software-better/) (2025-11-06)
-- [Advancing Our Chef Infrastructure: Safety Without Disruption](https://slack.engineering/advancing-our-chef-infrastructure-safety-without-disruption/) (2025-10-23)
 
 </details>
 
@@ -392,13 +392,13 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Securing the AI Agents that Power the Future of Retail](https://auth0.com/blog/securing-ai-agents-powering-future-of-retail/) (2026-03-31)
 - [Unifying the Retail Customer Journey from Web to AI Agent with Auth0
 ](https://auth0.com/blog/unifying-retail-customer-journey-web-ai-agent-auth0/) (2026-03-27)
 - [Breaking the "Identity Wall" with Tenancy-as-a-Service
 ](https://auth0.com/blog/breaking-identity-wall-with-tenancy-as-a-service/) (2026-03-26)
 - [Auth0 MCP Server Extension for Gemini CLI](https://auth0.com/blog/auth0-mcp-server-in-gemini-cli-extensions/) (2026-03-20)
 - [Governments Are Deploying AI in Resident Services. Is the Identity Infrastructure Ready?](https://auth0.com/blog/government-resident-services-ai-identity-infrastructure/) (2026-03-19)
-- [Common FAPI Misconceptions](https://auth0.com/blog/common-fapi-misconceptions/) (2026-03-19)
 
 </details>
 
@@ -416,11 +416,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 <details>
 <summary>🪐 PlanetScale Blog</summary>
 
+- [Graceful degradation in Postgres](https://planetscale.com/blog/graceful-degradation-in-postgres) (2026-03-31)
 - [High memory usage in Postgres is good, actually](https://planetscale.com/blog/high-memory-usage-in-postgres-is-good-actually) (2026-03-30)
 - [Stripe Projects partnership: Provision PlanetScale Postgres and MySQL databases from the Stripe CLI](https://planetscale.com/blog/planetscale-stripe-projects-partnership) (2026-03-26)
 - [Enhanced tagging in Postgres Query Insights](https://planetscale.com/blog/enhanced-tagging-in-postgres-query-insights) (2026-03-24)
 - [Behind the scenes: How Database Traffic Control works](https://planetscale.com/blog/behind-the-scenes-how-traffic-control-works) (2026-03-23)
-- [Introducing Database Traffic Control](https://planetscale.com/blog/introducing-database-traffic-control) (2026-03-23)
 
 </details>
 
@@ -537,55 +537,55 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents](https://huggingface.co/blog/ibm-granite/granite-4-vision) (2026-03-31)
+- [TRL v1.0: Post-Training Library Built to Move with the Field](https://huggingface.co/blog/trl-v1) (2026-03-31)
 - [Liberate your OpenClaw](https://huggingface.co/blog/liberate-your-openclaw) (2026-03-27)
 - [A New Framework for Evaluating Voice Agents (EVA)](https://huggingface.co/blog/ServiceNow-AI/eva) (2026-03-24)
 - [Build a Domain-Specific Embedding Model in Under a Day](https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune) (2026-03-20)
-- [What's New in Mellea 0.4.0 + Granite Libraries Release](https://huggingface.co/blog/ibm-granite/granite-libraries) (2026-03-20)
-- [State of Open Source on Hugging Face: Spring 2026](https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026) (2026-03-17)
 
 </details>
 
 <details>
 <summary>🤖 AI News</summary>
 
+- [SAP and ANYbotics drive industrial adoption of physical AI](https://www.artificialintelligence-news.com/news/sap-and-anybotics-drive-industrial-adoption-physical-ai/) (2026-03-31)
 - [Secure governance accelerates financial AI revenue growth](https://www.artificialintelligence-news.com/news/secure-governance-accelerates-financial-ai-revenue-growth/) (2026-03-30)
 - [Glia wins Excellence Award for safer AI in banking](https://www.artificialintelligence-news.com/news/glia-wins-excellence-award-for-safer-ai-in-banking/) (2026-03-30)
 - [How AEO vs GEO reshapes AI-driven brand discovery in 2026](https://www.artificialintelligence-news.com/news/how-aeo-vs-geo-reshapes-ai-driven-brand-discovery-in-2026/) (2026-03-30)
 - [Assessing AI powered price forecasting tools in currency markets](https://www.artificialintelligence-news.com/news/assessing-ai-powered-price-forecasting-tools-in-currency-markets/) (2026-03-30)
-- [Kong names Bruce Felt as chief financial officer](https://www.artificialintelligence-news.com/news/kong-names-bruce-felt-as-chief-financial-officer/) (2026-03-30)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Map of Meaning: How Embedding Models “Understand” Human Language](https://towardsdatascience.com/the-map-of-meaning-how-embedding-models-understand-human-language/) (2026-03-31)
+- [How to Make Claude Code Better at One-Shotting Implementations](https://towardsdatascience.com/how-to-make-claude-code-better-at-one-shotting-implementations/) (2026-03-31)
 - [Building a Personal AI Agent in a couple of Hours](https://towardsdatascience.com/building-a-personal-ai-agent-in-a-couple-of-hours/) (2026-03-31)
 - [Turning 127 Million Data Points Into an Industry Report](https://towardsdatascience.com/turning-127-million-data-points-into-an-industry-report/) (2026-03-31)
 - [How to Lie with Statistics with your Robot Best Friend](https://towardsdatascience.com/how-to-lie-with-statistics-with-your-robot-best-friend/) (2026-03-30)
-- [Why Data Scientists Should Care About Quantum Computing](https://towardsdatascience.com/why-data-scientists-should-care-about-quantum-computing/) (2026-03-30)
-- [Explainable AI in Production: A Neuro-Symbolic Model for Real-Time Fraud Detection](https://towardsdatascience.com/explainable-ai-in-production-a-neuro-symbolic-model-for-real-time-fraud-detection/) (2026-03-30)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Qwen3.5-Omni is here! Scaling up to a Native Omni-modal AGI](https://www.analyticsvidhya.com/blog/2026/03/qwen3-5-omni-ai-model/) (2026-03-31)
 - [Fine-Tuning vs RAG vs Prompt Engineering ](https://www.analyticsvidhya.com/blog/2026/03/fine-tuning-vs-rag-vs-prompt-engineering/) (2026-03-31)
 - [Gemini 3.1 Flash Live: AI Conversations Now Feel Way More Human](https://www.analyticsvidhya.com/blog/2026/03/gemini-3-1-flash-live/) (2026-03-31)
 - [20+ Solved ML Projects to Build Your Portfolio and Boost Your Resume](https://www.analyticsvidhya.com/blog/2026/03/solved-ml-projects/) (2026-03-30)
 - [Iloc vs Loc in Pandas: A Guide with Examples ](https://www.analyticsvidhya.com/blog/2026/03/iloc-vs-loc-in-pandas/) (2026-03-30)
-- [Excel 101: Cell and Column Merge vs Combine](https://www.analyticsvidhya.com/blog/2026/03/excel-cell-merge/) (2026-03-29)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [The Value of a Relationship with a Cybersecurity Professional (Sponsored)](https://bit.ly/Ingram-topic-23-kdn-website#new_tab) (2026-03-31)
 - [Zero Budget, Full Stack: Building with Only Free LLMs](https://www.kdnuggets.com/zero-budget-full-stack-building-with-only-free-llms) (2026-03-31)
 - [5 Useful Python Scripts for Effective Feature Selection](https://www.kdnuggets.com/5-useful-python-scripts-for-effective-feature-selection) (2026-03-30)
 - [7 Free Web APIs Every Developer and Vibe Coder Should Know](https://www.kdnuggets.com/7-free-web-apis-every-developer-and-vibe-coder-should-know) (2026-03-27)
 - [Getting Started with Smolagents: Build Your First Code Agent in 15 Minutes](https://www.kdnuggets.com/getting-started-with-smolagents-build-your-first-code-agent-in-15-minutes) (2026-03-26)
-- [10 GitHub Repositories to Master OpenClaw](https://www.kdnuggets.com/10-github-repositories-to-master-openclaw) (2026-03-26)
 
 </details>
 
