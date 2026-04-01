@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [U.S. exempts oil industry from protecting Gulf animals, for 'national security'](https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security) (2026-04-01)
-- [Ordinary Lab Gloves May Have Skewed Microplastic Data](https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386) (2026-03-31)
-- [A dot a day keeps the clutter away](https://scottlawsonbc.com/post/dot-system) (2026-03-31)
-- [Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs](https://prismml.com/) (2026-03-31)
-- [Ministack (Replacement for LocalStack)](https://ministack.org/) (2026-03-31)
+- [Mad Bugs: Vim vs. Emacs vs. Claude](https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude) (2026-04-01)
+- [Claude Code Unpacked : A visual guide](https://ccunpacked.dev/) (2026-04-01)
+- [Analyzing Geekbench 6 under Intel's BOT](https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/) (2026-04-01)
+- [We intercepted the White House app's network traffic](https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/) (2026-04-01)
+- [Neanderthals survived on a knife's edge for 350k years](https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years) (2026-04-01)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Community Without Tokens: What AI Dev Tools Can Learn from Crypto's Community Playbook](https://dev.to/nathanhamlett/community-without-tokens-what-ai-dev-tools-can-learn-from-cryptos-community-playbook-a06) (2026-04-01)
-- [A Step-by-Step Guide to K-Nearest Neighbors (KNN) in Machine Learning](https://dev.to/cc-keh/a-step-by-step-guide-to-k-nearest-neighbors-knn-in-machine-learning-40g2) (2026-04-01)
-- [Rewriting a FIX Engine in C++23: What Got Simpler (and What Didn't)](https://dev.to/silverstream/rewriting-a-fix-engine-in-c23-what-got-simpler-and-what-didnt-4icg) (2026-04-01)
-- [Axios npm Package Compromised: Supply Chain Attack Delivers Cross-Platform RAT](https://dev.to/snyk/axios-npm-package-compromised-supply-chain-attack-delivers-cross-platform-rat-407b) (2026-04-01)
-- [Building the Payment Gateway for AI Agents: A Technical Deep Dive](https://dev.to/agentwallex/building-the-payment-gateway-for-ai-agents-a-technical-deep-dive-3d09) (2026-04-01)
+- [First-Time Payees, Payouts, and Why Clean Transactions Still Turn Into Fraud Losses](https://dev.to/amir_shachar_bc46a63dda21/first-time-payees-payouts-and-why-clean-transactions-still-turn-into-fraud-losses-5amh) (2026-04-01)
+- [Is Microsoft's Xbox as a service just a simple wrapper?](https://dev.to/piot5/is-microsofts-xbox-as-a-service-just-a-simple-wrapper-2l75) (2026-04-01)
+- [Handling Extreme Class Imbalance in Fraud Detection](https://dev.to/amir_shachar_bc46a63dda21/handling-extreme-class-imbalance-in-fraud-detection-2i18) (2026-04-01)
+- [Antropic's Claude Code leaked and Axios NPM Inflitration](https://dev.to/techceorahul/antropics-claude-code-leaked-and-axios-npm-inflitration-4m41) (2026-04-01)
+- [Real-Time Fraud Scoring Latency: What 47ms Actually Means](https://dev.to/amir_shachar_bc46a63dda21/real-time-fraud-scoring-latency-what-47ms-actually-means-3700) (2026-04-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Fixed the Bug in 3 Minutes — Then Spent 3 Hours Explaining It](https://systemweakness.com/i-fixed-the-bug-in-3-minutes-then-spent-3-hours-explaining-it-46258a71bfcd?source=rss------programming-5) (2026-04-01)
-- [From Missed Birthdays to Automation: How I Built a Bot That Designs and Sends Birthday Cards](https://medium.com/@chiezieifunanya08/from-missed-birthdays-to-automation-how-i-built-a-bot-that-designs-and-sends-birthday-cards-55f198d64d69?source=rss------programming-5) (2026-04-01)
-- [Building a Neural Network in Rust: A Step-by-Step Guide](https://medium.com/@ashishjsharda/building-a-neural-network-in-rust-a-step-by-step-guide-15ad9141bb80?source=rss------programming-5) (2026-04-01)
-- [I Deleted the Wrong Branch and Took Production Down for 47 Minutes](https://medium.com/design-bootcamp/i-deleted-the-wrong-branch-and-took-production-down-for-47-minutes-7f40fd23e127?source=rss------programming-5) (2026-04-01)
-- [Dart Concurrency Mastered: Isolates, Futures & Streams](https://medium.com/@alaxhenry0121/dart-concurrency-mastered-isolates-futures-streams-379b7b74fb59?source=rss------programming-5) (2026-04-01)
+- [How to Actually Ship AI to Production (And Not Regret It)](https://mariodecastilla.medium.com/how-to-actually-ship-ai-to-production-and-not-regret-it-d3ce2aa23ec9?source=rss------programming-5) (2026-04-01)
+- [“From Idea to Extension: How I Built a VS Code Tool That Actually Helps”](https://medium.com/@kabirminhajul7/from-idea-to-extension-how-i-built-a-vs-code-tool-that-actually-helps-33aaf39f9153?source=rss------programming-5) (2026-04-01)
+- [You (still) don’t need JS for that! 5 native ways to crush your web performance](https://medium.com/@biasiolo.filippo/you-still-dont-need-js-for-that-5-native-ways-to-crush-your-web-performance-41825bfb7dff?source=rss------programming-5) (2026-04-01)
+- [What Experienced .NET Developers Do Differently, 5 Practical Patterns](https://medium.com/codetodeploy/what-experienced-net-developers-do-differently-5-practical-patterns-2cc9346e8098?source=rss------programming-5) (2026-04-01)
+- [Not Cursor, Claude Terminal or VSCode — This Is My New Favorite Code Editor](https://medium.com/the-software-journal/not-cursor-claude-terminal-or-vscode-this-is-my-new-favorite-code-editor-0c1f2d385b01?source=rss------programming-5) (2026-04-01)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Navigating digital sovereignty at the frontier of transformation](https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/25/navigating-digital-sovereignty-at-the-frontier-of-transformation/) (2026-03-30)
-- [Microsoft named a Leader in 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2026-gartner-magic-quadrant-for-integration-platform-as-a-service/) (2026-03-30)
 - [AI for nuclear energy: Powering an intelligent, resilient future](https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/) (2026-03-25)
 - [What’s new with Microsoft in open-source and Kubernetes at KubeCon + CloudNativeCon Europe 2026](https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/) (2026-03-24)
 - [Advancing agentic AI with Microsoft databases across a unified data estate](https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/) (2026-03-18)
+- [FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/) (2026-03-18)
+- [Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI](https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/) (2026-03-16)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [YouTrack Introduces Whiteboards](https://blog.jetbrains.com/youtrack/2026/04/youtrack-introduces-whiteboards/) (2026-04-01)
 - [Kodee’s Kotlin Roundup: Kotlin 2.3.20, Interview With Josh Long, and More](https://blog.jetbrains.com/kotlin/2026/03/kodees-kotlin-roundup-march-26-edition/) (2026-03-31)
 - [Profile .NET Apps Without Restarting: Monitoring Comes to ReSharper](https://blog.jetbrains.com/dotnet/2026/03/31/profile-dotnet-apps-without-restarting-monitoring-comes-to-resharper/) (2026-03-31)
 - [Amper 0.10 – JDK Provisioning, a Maven Converter, Custom Compiler Plugins, and More](https://blog.jetbrains.com/amper/2026/03/amper-0-10/) (2026-03-31)
 - [What’s New in PyCharm 2026.1](https://blog.jetbrains.com/pycharm/2026/03/what-s-new-in-pycharm-2026-1/) (2026-03-30)
-- [What’s New in RustRover 2026.1](https://blog.jetbrains.com/rust/2026/03/30/whats-new-in-rustrover-2026-1/) (2026-03-30)
 
 </details>
 
@@ -537,11 +537,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Falcon Perception](https://huggingface.co/blog/tiiuae/falcon-perception) (2026-04-01)
 - [Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents](https://huggingface.co/blog/ibm-granite/granite-4-vision) (2026-03-31)
 - [TRL v1.0: Post-Training Library Built to Move with the Field](https://huggingface.co/blog/trl-v1) (2026-03-31)
 - [Liberate your OpenClaw](https://huggingface.co/blog/liberate-your-openclaw) (2026-03-27)
 - [A New Framework for Evaluating Voice Agents (EVA)](https://huggingface.co/blog/ServiceNow-AI/eva) (2026-03-24)
-- [Build a Domain-Specific Embedding Model in Under a Day](https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune) (2026-03-20)
 
 </details>
 
