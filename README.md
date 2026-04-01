@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Go play this secret game in your TikTok DMs](https://techcrunch.com/2026/03/31/go-play-this-secret-game-in-your-tiktok-dms/) (2026-03-31)
-- [Caller ID app Truecaller hits 500 million monthly users](https://techcrunch.com/2026/03/31/caller-id-app-truecaller-hits-500-million-monthly-users/) (2026-03-31)
-- [Social gaming platform Rec Room, once valued at $3.5B, is shutting down](https://techcrunch.com/2026/03/31/social-gaming-platform-rec-room-once-valued-at-3-5b-is-shutting-down/) (2026-03-31)
-- [Alexa+ gets new food ordering experiences with Uber Eats and Grubhub](https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/) (2026-03-31)
-- [Whoop’s valuation just tripled to $10 billion](https://techcrunch.com/2026/03/31/whoop-valuation-10b-series-g-fundraise/) (2026-03-31)
+- [Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/) (2026-04-01)
+- [Toyota’s Woven Capital appoints new CIO and COO in push for finding the ‘future of mobility’](https://techcrunch.com/2026/03/31/toyotas-woven-capital-appoints-new-cio-and-coo-in-push-for-finding-the-future-of-mobility/) (2026-04-01)
+- [Anthropic is having a month](https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/) (2026-03-31)
+- [Salesforce announces an AI-heavy makeover for Slack, with 30 new features](https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/) (2026-03-31)
+- [Robotaxi companies refuse to say how often their AVs need remote help](https://techcrunch.com/2026/03/31/robotaxi-companies-refuse-to-say-how-often-their-avs-need-remote-help/) (2026-03-31)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [OkCupid gave 3M dating-app photos to facial recognition firm, FTC says](https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/) (2026-03-31)
-- [I Decompiled the White House's New App](https://blog.thereallo.dev/blog/decompiling-the-white-house-app) (2026-03-31)
-- [Ask HN: Academic study on AI's impact on software development – want to join?](https://news.ycombinator.com/item?id=47590261) (2026-03-31)
-- [Cohere Transcribe: Speech Recognition](https://cohere.com/blog/transcribe) (2026-03-31)
-- [Scotty: A beautiful SSH task runner](https://freek.dev/3064-scotty-a-beautiful-ssh-task-runner) (2026-03-31)
+- [U.S. exempts oil industry from protecting Gulf animals, for 'national security'](https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security) (2026-04-01)
+- [Ordinary Lab Gloves May Have Skewed Microplastic Data](https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386) (2026-03-31)
+- [A dot a day keeps the clutter away](https://scottlawsonbc.com/post/dot-system) (2026-03-31)
+- [Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs](https://prismml.com/) (2026-03-31)
+- [Ministack (Replacement for LocalStack)](https://ministack.org/) (2026-03-31)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Evercade’s new handheld has a larger screen and dual thumbsticks for 3D games](https://www.theverge.com/tech/904543/evercade-nexus-handheld-console-retro-gaming-preorder-pricing-availability) (2026-03-31)
-- [No Kings is taking back Americana](https://www.theverge.com/policy/904405/no-kings-protests-portland-americana) (2026-03-31)
-- [The Galaxy S26’s photo app can sloppify your memories](https://www.theverge.com/tech/904176/samsung-galaxy-s26-ai-photo-assist-slop) (2026-03-31)
-- [Hisense’s 75-inch U6 mini-LED TV is cheaper than its 65-inch model](https://www.theverge.com/gadgets/904372/hisense-u6-mini-led-tv-4k-amazon-big-spring-sale-2026-deal) (2026-03-31)
-- [The Sonos Play and mic-less Era 100 SL are now available](https://www.theverge.com/gadgets/903746/sonos-play-era-100-sl-speakers-price-release-date-availability) (2026-03-31)
+- [The best deals to shop during the last few hours of Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals) (2026-04-01)
+- [Amazon&#8217;s Big Spring Sale 2026: all of the latest deals](https://www.theverge.com/gadgets/897580/amazon-big-spring-sale-2026-deals-news) (2026-04-01)
+- [The AirPods Pro 3 are nearly matching their best-ever price for Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal) (2026-03-31)
+- [Amazon is offering up to 50 percent off chargers from Anker and others for its Big Spring Sale](https://www.theverge.com/gadgets/904242/amazon-big-spring-sale-2026-baseus-anker-chargers-power-banks-batteries-deals) (2026-03-31)
+- [Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent](https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak) (2026-03-31)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [New quantum-computing advances heighten threat to elliptic curve cryptosystems](https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/) (2026-03-31)
-- [You can finally change the goofy Gmail address you chose years ago](https://arstechnica.com/gadgets/2026/03/you-can-finally-change-the-goofy-gmail-address-you-chose-years-ago/) (2026-03-31)
-- [OkCupid gave 3 million dating-app photos to facial recognition firm, FTC says](https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/) (2026-03-31)
-- [This is my third Orion launch, but it feels totally different](https://arstechnica.com/features/2026/03/this-is-my-third-orion-launch-but-it-feels-totally-different/) (2026-03-31)
-- [Costco sued for seeking refunds on tariffs customers paid](https://arstechnica.com/tech-policy/2026/03/costco-sued-for-seeking-refunds-on-tariffs-customers-paid/) (2026-03-31)
+- [NASA is leading the way to the Moon, but the military won't be far behind](https://arstechnica.com/space/2026/03/nasa-is-leading-the-way-to-the-moon-but-the-military-wont-be-far-behind/) (2026-04-01)
+- [Running local models on Macs gets faster with Ollama's MLX support](https://arstechnica.com/apple/2026/03/running-local-models-on-macs-gets-faster-with-ollamas-mlx-support/) (2026-03-31)
+- [RFK Jr. wants Americans to use peptides that were banned over safety risks](https://arstechnica.com/health/2026/03/rfk-jr-s-fda-expected-to-lift-restrictions-on-risky-unproven-peptides/) (2026-03-31)
+- [Starlink satellite breaks apart into "tens of objects"; SpaceX confirms "anomaly"](https://arstechnica.com/tech-policy/2026/03/starlink-satellite-breaks-apart-into-tens-of-objects-spacex-confirms-anomaly/) (2026-03-31)
+- [He-Man gets an origin story in Masters of the Universe trailer](https://arstechnica.com/culture/2026/03/he-man-gets-an-origin-story-in-masters-of-the-universe-trailer/) (2026-03-31)
 
 </details>
 
@@ -97,44 +97,44 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Guardrails para Agentes de IA: Reglas Que los LLM No Pueden Evadir](https://dev.to/aws-espanol/guardrails-para-agentes-de-ia-reglas-que-los-llm-no-pueden-evadir-5dmn) (2026-03-31)
-- [Building 646 Suricata Rules to Detect AI Agent Threats: OpenClaw Security with CGTI Lite](https://dev.to/senturkselim/building-646-suricata-rules-to-detect-ai-agent-threats-openclaw-security-with-cgti-lite-41md) (2026-03-31)
-- [Custom Polygons vs. Uber's H3: Building a High-Performance Geofencing Backend in Go](https://dev.to/alex_g_aeeb05ba69eee8a4fd/custom-polygons-vs-ubers-h3-building-a-high-performance-geofencing-backend-in-go-3e7f) (2026-03-31)
-- [SQLite Interface Handler: Understanding the sqlite3 Core Structure](https://dev.to/lovestaco/sqlite-interface-handler-understanding-the-sqlite3-core-structure-2976) (2026-03-31)
-- [Help Me!!](https://dev.to/tyler_biffle_1ca74cc0e8ee/help-me-4cn6) (2026-03-31)
+- [Community Without Tokens: What AI Dev Tools Can Learn from Crypto's Community Playbook](https://dev.to/nathanhamlett/community-without-tokens-what-ai-dev-tools-can-learn-from-cryptos-community-playbook-a06) (2026-04-01)
+- [A Step-by-Step Guide to K-Nearest Neighbors (KNN) in Machine Learning](https://dev.to/cc-keh/a-step-by-step-guide-to-k-nearest-neighbors-knn-in-machine-learning-40g2) (2026-04-01)
+- [Rewriting a FIX Engine in C++23: What Got Simpler (and What Didn't)](https://dev.to/silverstream/rewriting-a-fix-engine-in-c23-what-got-simpler-and-what-didnt-4icg) (2026-04-01)
+- [Axios npm Package Compromised: Supply Chain Attack Delivers Cross-Platform RAT](https://dev.to/snyk/axios-npm-package-compromised-supply-chain-attack-delivers-cross-platform-rat-407b) (2026-04-01)
+- [Building the Payment Gateway for AI Agents: A Technical Deep Dive](https://dev.to/agentwallex/building-the-payment-gateway-for-ai-agents-a-technical-deep-dive-3d09) (2026-04-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [10 Python Libraries That Are Gaining Popularity Fast](https://python.plainenglish.io/10-python-libraries-that-are-gaining-popularity-fast-bad0a76acf31?source=rss------programming-5) (2026-03-31)
-- [How JavaScript Actually Works: Engines, V8, and the Code Behind Your Code](https://sheraz12.medium.com/how-javascript-actually-works-engines-v8-and-the-code-behind-your-code-48e72a0178a3?source=rss------programming-5) (2026-03-31)
-- [ Master Go Microservices: Your 2026 Step-by-Step Guide to Kubernetes Deployment](https://medium.com/@puneetpm/master-go-microservices-your-2026-step-by-step-guide-to-kubernetes-deployment-e07373a61109?source=rss------programming-5) (2026-03-31)
-- [I Spent Two Years Proving I Didn’t Need Anyone](https://code.likeagirl.io/i-spent-two-years-proving-i-didnt-need-anyone-b6c555ac8731?source=rss------programming-5) (2026-03-31)
-- [ How to Build Faster with AI as a Solo Developer](https://medium.com/@guru.arts03/how-to-build-faster-with-ai-as-a-solo-developer-0a27e8b5b685?source=rss------programming-5) (2026-03-31)
+- [I Fixed the Bug in 3 Minutes — Then Spent 3 Hours Explaining It](https://systemweakness.com/i-fixed-the-bug-in-3-minutes-then-spent-3-hours-explaining-it-46258a71bfcd?source=rss------programming-5) (2026-04-01)
+- [From Missed Birthdays to Automation: How I Built a Bot That Designs and Sends Birthday Cards](https://medium.com/@chiezieifunanya08/from-missed-birthdays-to-automation-how-i-built-a-bot-that-designs-and-sends-birthday-cards-55f198d64d69?source=rss------programming-5) (2026-04-01)
+- [Building a Neural Network in Rust: A Step-by-Step Guide](https://medium.com/@ashishjsharda/building-a-neural-network-in-rust-a-step-by-step-guide-15ad9141bb80?source=rss------programming-5) (2026-04-01)
+- [I Deleted the Wrong Branch and Took Production Down for 47 Minutes](https://medium.com/design-bootcamp/i-deleted-the-wrong-branch-and-took-production-down-for-47-minutes-7f40fd23e127?source=rss------programming-5) (2026-04-01)
+- [Dart Concurrency Mastered: Isolates, Futures & Streams](https://medium.com/@alaxhenry0121/dart-concurrency-mastered-isolates-futures-streams-379b7b74fb59?source=rss------programming-5) (2026-04-01)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Announcing the AWS Sustainability console: Programmatic access, configurable CSV reports, and Scope 1–3 reporting in one place](https://aws.amazon.com/blogs/aws/announcing-the-aws-sustainability-console-programmatic-access-configurable-csv-reports-and-scope-1-3-reporting-in-one-place/) (2026-03-31)
 - [AWS Weekly Roundup: AWS AI/ML Scholars program, Agent Plugin for AWS Serverless, and more (March 30, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-ai-ml-scholars-program-agent-plugin-for-aws-serverless-and-more-march-30-2026/) (2026-03-30)
 - [Customize your AWS Management Console experience with visual settings including account color, region and service visibility](https://aws.amazon.com/blogs/aws/customize-your-aws-management-console-experience-with-visual-settings-including-account-color-region-and-service-visibility/) (2026-03-26)
 - [Announcing Amazon Aurora PostgreSQL serverless database creation in seconds](https://aws.amazon.com/blogs/aws/announcing-amazon-aurora-postgresql-serverless-database-creation-in-seconds/) (2026-03-25)
 - [AWS Weekly Roundup: NVIDIA Nemotron 3 Super on Amazon Bedrock, Nova Forge SDK, Amazon Corretto 26, and more (March 23, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-nvidia-nemotron-3-super-on-amazon-bedrock-nova-forge-sdk-amazon-corretto-26-and-more-march-23-2026/) (2026-03-23)
-- [20 years in the AWS Cloud – how time flies!](https://aws.amazon.com/blogs/aws/20-years-in-the-aws-cloud-how-time-flies/) (2026-03-19)
 
 </details>
 
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Navigating digital sovereignty at the frontier of transformation](https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/25/navigating-digital-sovereignty-at-the-frontier-of-transformation/) (2026-03-30)
+- [Microsoft named a Leader in 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2026-gartner-magic-quadrant-for-integration-platform-as-a-service/) (2026-03-30)
 - [AI for nuclear energy: Powering an intelligent, resilient future](https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/) (2026-03-25)
 - [What’s new with Microsoft in open-source and Kubernetes at KubeCon + CloudNativeCon Europe 2026](https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/) (2026-03-24)
 - [Advancing agentic AI with Microsoft databases across a unified data estate](https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/) (2026-03-18)
-- [FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/) (2026-03-18)
-- [Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI](https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/) (2026-03-16)
 
 </details>
 
@@ -143,7 +143,7 @@
 
 - [Efficiency at Scale: NVIDIA, Energy Leaders Accelerating Power‑Flexible AI Factories to Fortify the Grid](https://blogs.nvidia.com/blog/energy-efficiency-ai-factories-grid/) (2026-03-31)
 - [Into the Omniverse: NVIDIA GTC Showcases Virtual Worlds Powering the Physical AI Era](https://blogs.nvidia.com/blog/gtc-2026-virtual-worlds-physical-ai/) (2026-03-26)
-- [Game On: Five New Titles Now Streaming on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-screamer/) (2026-03-26)
+- [Game On: Five New Titles Now Streaming on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-screamer/) (2026-03-26)
 - [The Future of AI Is Open and Proprietary](https://blogs.nvidia.com/blog/ai-future-open-and-proprietary/) (2026-03-25)
 - [Blowing Off Steam: How Power-Flexible AI Factories Can Stabilize the Global Energy Grid](https://blogs.nvidia.com/blog/power-flexible-ai-factories-energy-grid/) (2026-03-25)
 
@@ -493,11 +493,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slack Feature Drop: Your Productivity is Springing Forward](https://slack.com/blog/news/feature-drop-march2026) (2026-03-27)
 - [Slack vs. Microsoft Teams: Key Differences for Modern Teams](https://slack.com/blog/compare/slack-vs-microsoft-teams) (2026-03-23)
 - [Unlocking the Power of Conversation: How Slack’s New Platform is Fueling the Agentic Era](https://slack.com/blog/news/powering-agentic-collaboration) (2026-03-13)
 - [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-03-13)
 - [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-03-13)
-- [AI-Powered Bots: Guide to Chatbots, Tools, and Best Practices](https://slack.com/blog/productivity/ai-powered-bots-guide-to-chatbots-tools-and-best-practices) (2026-03-06)
 
 </details>
 
