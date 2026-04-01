@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Nothing’s AI devices plan reportedly contains smart glasses and earbuds](https://techcrunch.com/2026/04/01/nothings-ai-devices-plan-reportedly-contains-smart-glasses-and-earbuds/) (2026-04-01)
-- [Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/) (2026-04-01)
-- [Toyota’s Woven Capital appoints new CIO and COO in push for finding the ‘future of mobility’](https://techcrunch.com/2026/03/31/toyotas-woven-capital-appoints-new-cio-and-coo-in-push-for-finding-the-future-of-mobility/) (2026-04-01)
-- [Anthropic is having a month](https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/) (2026-03-31)
-- [Salesforce announces an AI-heavy makeover for Slack, with 30 new features](https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/) (2026-03-31)
+- [Meta’s natural gas binge could power South Dakota](https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/) (2026-04-01)
+- [Cameo partners with TikTok to boost popularity](https://techcrunch.com/2026/04/01/cameo-partners-with-tiktok-to-boost-popularity/) (2026-04-01)
+- [WhatsApp notifies hundreds of users who installed a fake app made by government spyware maker](https://techcrunch.com/2026/04/01/whatsapp-notifies-hundreds-of-users-who-installed-a-fake-app-that-was-actually-government-spyware/) (2026-04-01)
+- [Cognichip wants AI to design the chips that power AI, and just raised $60M to try](https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/) (2026-04-01)
+- [SpaceX files confidentially for IPO in mega listing potentially valued at $1.75 trillion, report says](https://techcrunch.com/2026/04/01/spacex-files-confidentially-for-ipo-in-mega-listing-potentially-valued-at-1-75-trillion-report-says/) (2026-04-01)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: Sycamore – next gen Rust UI library powered by fine-grained reactivity](https://sycamore.dev) (2026-04-01)
-- [Wasmer (YC S19) Is Hiring – Rust and DevRel Positions](https://www.workatastartup.com/companies/wasmer) (2026-04-01)
-- [A Mysterious Numbers Station Is Broadcasting Through the Iran War](https://www.wired.com/story/a-mysterious-numbers-station-is-broadcasting-through-the-iran-war/) (2026-04-01)
-- [I Quit. The Clankers Won](https://dbushell.com/2026/04/01/i-quit-the-clankers-won/) (2026-04-01)
-- [CERN levels up with new superconducting karts](https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts) (2026-04-01)
+- [TurboQuant KV Compression and SSD Expert Streaming for M5 Pro and IOS](https://github.com/SharpAI/SwiftLM) (2026-04-01)
+- [Ukrainian Drone Holds Position for 6 Weeks](https://defenceleaders.com/news/ukrainian-combat-robot-holds-frontline-position-for-six-weeks-in-sign-of-growing-ugv-maturity/) (2026-04-01)
+- [The AI Marketing BS Index](https://bastian.rieck.me/blog/2026/bs/) (2026-04-01)
+- [AI for American-Produced Cement and Concrete](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/) (2026-04-01)
+- [NASA Artemis II moon mission live launch broadcast](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/) (2026-04-01)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [AI can push your Stream Deck buttons for you](https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update) (2026-04-01)
-- [Baidu’s robotaxis froze in traffic, creating chaos](https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china) (2026-04-01)
-- [The best deals to shop during the last few hours of Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals) (2026-04-01)
-- [Amazon&#8217;s Big Spring Sale 2026: all of the latest deals](https://www.theverge.com/gadgets/897580/amazon-big-spring-sale-2026-deals-news) (2026-04-01)
-- [The AirPods Pro 3 are nearly matching their best-ever price for Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal) (2026-03-31)
+- [Everything is iPhone now](https://www.theverge.com/tech/905398/apple-iphone-anniversary-jobs-release) (2026-04-01)
+- [April Fools’ Day 2026: the best and cringiest pranks](https://www.theverge.com/tldr/904346/april-fools-day-2026-pranks-jokes-best-worst) (2026-04-01)
+- [Kia&#8217;s compact EV3 is coming to the US this year, with 320 miles of range](https://www.theverge.com/transportation/905363/kia-ev3-north-america-launch) (2026-04-01)
+- [The Shokz OpenRun Pro 2 are now at their lowest price in months](https://www.theverge.com/gadgets/905292/shokz-openrun-pro-2-ember-mug-2-deal-sale) (2026-04-01)
+- [I tested a living room full of cheap Ikea speakers against Sonos and Bose](https://www.theverge.com/tech/904822/ikea-kallsup-bluetooth-speaker-review) (2026-04-01)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [NASA is leading the way to the Moon, but the military won't be far behind](https://arstechnica.com/space/2026/03/nasa-is-leading-the-way-to-the-moon-but-the-military-wont-be-far-behind/) (2026-04-01)
-- [Running local models on Macs gets faster with Ollama's MLX support](https://arstechnica.com/apple/2026/03/running-local-models-on-macs-gets-faster-with-ollamas-mlx-support/) (2026-03-31)
-- [RFK Jr. wants Americans to use peptides that were banned over safety risks](https://arstechnica.com/health/2026/03/rfk-jr-s-fda-expected-to-lift-restrictions-on-risky-unproven-peptides/) (2026-03-31)
-- [Starlink satellite breaks apart into "tens of objects"; SpaceX confirms "anomaly"](https://arstechnica.com/tech-policy/2026/03/starlink-satellite-breaks-apart-into-tens-of-objects-spacex-confirms-anomaly/) (2026-03-31)
-- [He-Man gets an origin story in Masters of the Universe trailer](https://arstechnica.com/culture/2026/03/he-man-gets-an-origin-story-in-masters-of-the-universe-trailer/) (2026-03-31)
+- [SpaceX finally files for IPO, targets $1.75 trillion valuation](https://arstechnica.com/space/2026/04/spacex-finally-files-for-ipo-targets-1-75-trillion-valuation/) (2026-04-01)
+- [Trump defunding of NPR and PBS blocked by judge, but damage is already done](https://arstechnica.com/tech-policy/2026/04/trump-defunding-of-npr-and-pbs-blocked-by-judge-but-damage-is-already-done/) (2026-04-01)
+- [A word from Editor Moonshark about Artemis II](https://arstechnica.com/staff/2026/04/a-word-from-editor-moonshark-about-artemis-ii/) (2026-04-01)
+- [Kia shows off small cars in NY: The 2027 EV3 and 2027 Seltos Hybrid](https://arstechnica.com/cars/2026/04/kia-shows-off-small-cars-in-ny-the-2027-ev3-and-2027-seltos-hybrid/) (2026-04-01)
+- [LIGO data hints at supernovae so powerful they leave nothing behind](https://arstechnica.com/science/2026/04/black-hole-mergers-put-limits-on-star-destroying-supernovae/) (2026-04-01)
 
 </details>
 
@@ -75,11 +75,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Run multiple agents at once with /fleet in Copilot CLI](https://github.blog/ai-and-ml/github-copilot/run-multiple-agents-at-once-with-fleet-in-copilot-cli/) (2026-04-01)
 - [Agent-driven development in Copilot Applied Science](https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/) (2026-03-31)
 - [GitHub for Beginners: Getting started with GitHub security](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-security/) (2026-03-30)
 - [What’s coming to our GitHub Actions 2026 security roadmap](https://github.blog/news-insights/product-news/whats-coming-to-our-github-actions-2026-security-roadmap/) (2026-03-26)
 - [A year of open source vulnerability trends: CVEs, advisories, and malware](https://github.blog/security/supply-chain-security/a-year-of-open-source-vulnerability-trends-cves-advisories-and-malware/) (2026-03-26)
-- [Updates to GitHub Copilot interaction data usage policy](https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/) (2026-03-25)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Introducing HCEL: The Most Fluent Way to Build AI Pipelines in TypeScript](https://dev.to/arslan_mecom/introducing-hcel-the-most-fluent-way-to-build-ai-pipelines-in-typescript-38ba) (2026-04-01)
-- [30-Day Cloud & DevOps Challenge: Day 2 — Building My First Backend API](https://dev.to/michellewanjiru/30-day-cloud-devops-challenge-day-2-building-my-first-backend-api-2ed5) (2026-04-01)
-- [Compliance and Cost Governance for Landing Zones](https://dev.to/beefedai/compliance-and-cost-governance-for-landing-zones-1jaj) (2026-04-01)
-- [Your private key doesn't belong in your terminal. Here's the Foundry fix.](https://dev.to/satorigeeks/your-private-key-doesnt-belong-in-your-terminal-heres-the-foundry-fix-8me) (2026-04-01)
-- [Your AI Writes Code. Who Fixes the Build?](https://dev.to/saathwik/your-ai-writes-code-who-fixes-the-build-j15) (2026-04-01)
+- [Arbitrary JavaScript Execution via eval() in chrome-local-mcp](https://dev.to/crafted_cyber_solutions/arbitrary-javascript-execution-via-eval-in-chrome-local-mcp-1nbl) (2026-04-01)
+- [I Built an Open-Source Identity Verification Platform. Here's What I Learned.](https://dev.to/teamidswyft/i-built-an-open-source-identity-verification-platform-heres-what-i-learned-5fkn) (2026-04-01)
+- [I built `ollama-sgpt`, a local-first ShellGPT alternative for Ollama.](https://dev.to/sadorect/i-built-ollama-sgpt-a-local-first-shellgpt-alternative-for-ollama-4ne6) (2026-04-01)
+- [We Scored 5,154 MCP Servers. Here's the Trust Distribution.](https://dev.to/crafted_cyber_solutions/we-scored-5154-mcp-servers-heres-the-trust-distribution-5dm1) (2026-04-01)
+- [I built a replay testing tool for MCP servers — here's why and how it works](https://dev.to/tapesh_chandradas_5f7919/i-built-a-replay-testing-tool-for-mcp-servers-heres-why-and-how-it-works-1f8d) (2026-04-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Let AI Do My Job for 30 Days. It Didn’t Make Me a Senior — It Exposed Me.](https://medium.com/coding-odyssey/i-let-ai-do-my-job-for-30-days-it-didnt-make-me-a-senior-it-exposed-me-cfba39276fff?source=rss------programming-5) (2026-04-01)
-- [How To Be Productive — its not all about programming :)](https://lovetrivedi.medium.com/how-to-be-productive-its-not-all-about-programming-635c81091a48?source=rss------programming-5) (2026-04-01)
-- [Strengthening Boardroom Practices for Organizational Security](https://medium.com/the-boardroom-knights/strengthening-boardroom-practices-for-organizational-security-b32cb14a7e24?source=rss------programming-5) (2026-04-01)
-- [I Thought I Became a Senior Engineer. Then One Incident Quietly Proved I Wasn’t.](https://medium.com/design-bootcamp/i-thought-i-became-a-senior-engineer-then-one-incident-quietly-proved-i-wasnt-f9419a272fac?source=rss------programming-5) (2026-04-01)
-- [The Hidden Reason Your SQL Is Slow: How ZetaSQL Enables Smarter Rewrites](https://medium.com/@sonampatel_97163/the-hidden-reason-your-sql-is-slow-how-zetasql-enables-smarter-rewrites-614a2296ff36?source=rss------programming-5) (2026-04-01)
+- [Monoliths vs Services vs Microservices: What You Actually Need (and When)](https://blog.stackademic.com/monoliths-vs-services-vs-microservices-what-you-actually-need-and-when-0a3f15af8dae?source=rss------programming-5) (2026-04-01)
+- [The (Home)-Office Oracle: A One-Click-to-Done Prayer](https://medium.com/@frontdesk_314/the-home-office-oracle-a-one-click-to-done-prayer-ddfa18ffed4c?source=rss------programming-5) (2026-04-01)
+- [The End of Prompting: Why 2026 is the Year of Autonomous Agents](https://medium.com/@tayrmakin/the-end-of-prompting-why-2026-is-the-year-of-autonomous-agents-f14f8748a2d9?source=rss------programming-5) (2026-04-01)
+- [Your AI Journey from Here: Research Papers, Communities & How to Never Stop Learning](https://medium.com/@siddantvardey/your-ai-journey-from-here-research-papers-communities-how-to-never-stop-learning-6a25370c7a45?source=rss------programming-5) (2026-04-01)
+- [I Deployed at 4:57 PM on Friday.](https://medium.com/lets-code-future/i-deployed-at-4-57-pm-on-friday-f4385fe2c136?source=rss------programming-5) (2026-04-01)
 
 </details>
 
@@ -196,11 +196,11 @@
 <details>
 <summary>🟩 Node.js Blog</summary>
 
+- [Node.js 25.9.0 (Current)](https://nodejs.org/en/blog/release/v25.9.0) (2026-04-01)
 - [Developing a minimally HashDoS resistant, yet quickly reversible integer hash for V8](https://nodejs.org/en/blog/vulnerability/march-2026-hashdos) (2026-03-24)
 - [Node.js 25.8.2 (Current)](https://nodejs.org/en/blog/release/v25.8.2) (2026-03-24)
 - [Node.js 24.14.1 (LTS)](https://nodejs.org/en/blog/release/v24.14.1) (2026-03-24)
 - [Node.js 22.22.2 (LTS)](https://nodejs.org/en/blog/release/v22.22.2) (2026-03-24)
-- [Node.js 20.20.2 (LTS)](https://nodejs.org/en/blog/release/v20.20.2) (2026-03-24)
 
 </details>
 
@@ -350,17 +350,32 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Our ongoing commitment to privacy for the 1.1.1.1 public DNS resolver](https://blog.cloudflare.com/1111-privacy-examination-2026/) (2026-04-01)
+- [Introducing EmDash — the spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/) (2026-04-01)
 - [Introducing Programmable Flow Protection: custom DDoS mitigation logic for Magic Transit customers](https://blog.cloudflare.com/programmable-flow-protection/) (2026-03-31)
 - [Cloudflare Client-Side Security: smarter detection, now open to everyone](https://blog.cloudflare.com/client-side-security-open-to-everyone/) (2026-03-30)
 - [How we use Abstract Syntax Trees (ASTs) to turn Workflows code into visual diagrams ](https://blog.cloudflare.com/workflow-diagrams/) (2026-03-27)
-- [A one-line Kubernetes fix that saved 600 hours a year](https://blog.cloudflare.com/one-line-kubernetes-fix-saved-600-hours-a-year/) (2026-03-26)
-- [Sandboxing AI agents, 100x faster](https://blog.cloudflare.com/dynamic-workers/) (2026-03-24)
 
 </details>
 
 <details>
 <summary>📞 Twilio Blog</summary>
 
+- [
+How to create a promotional campaign with RCS and SendGrid in C#
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-create-promotional-rcs-sendgrid-in-csharp
+) (2026-03-31)
+- [
+March 2026 Fraud Update: AIT Tactics, Weaponized Trust, and a New Fraud Response Guide
+](
+https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update-march-2026
+) (2026-03-31)
+- [
+Getting Started with Podman Quadlets
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/building-blocks/getting-started-with-podman-quadlets
+) (2026-03-31)
 - [
 How to Bring Your Own Keys for Okta Telephony with Twilio Verify
 ](
@@ -371,34 +386,19 @@ How to Enable Branded Calling with Twilio
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/enable-branded-calling-twilio
 ) (2026-03-26)
-- [
-How to Use Google Sheets as a Database for Your PHP App
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/use-google-sheets-as-database-for-php-app
-) (2026-03-23)
-- [
-Building a Greeting Card Generator with the Lovable Twilio Connector
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/greeting-card-generator-lovable-twilio-connector
-) (2026-03-20)
-- [
-How to Approve Real Users and Block Fake Accounts at Sign Up with Lookup and Verify
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accounts-lookup-verify-node
-) (2026-03-16)
 
 </details>
 
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Scale Enterprise Teams Securely with Roles for Auth0 FGA](https://auth0.com/blog/scale-enterprise-teams-securely-roles-auth0-fga/) (2026-04-01)
 - [Securing the AI Agents that Power the Future of Retail](https://auth0.com/blog/securing-ai-agents-powering-future-of-retail/) (2026-03-31)
 - [Unifying the Retail Customer Journey from Web to AI Agent with Auth0
 ](https://auth0.com/blog/unifying-retail-customer-journey-web-ai-agent-auth0/) (2026-03-27)
 - [Breaking the "Identity Wall" with Tenancy-as-a-Service
 ](https://auth0.com/blog/breaking-identity-wall-with-tenancy-as-a-service/) (2026-03-26)
 - [Auth0 MCP Server Extension for Gemini CLI](https://auth0.com/blog/auth0-mcp-server-in-gemini-cli-extensions/) (2026-03-20)
-- [Governments Are Deploying AI in Resident Services. Is the Identity Infrastructure Ready?](https://auth0.com/blog/government-resident-services-ai-identity-infrastructure/) (2026-03-19)
 
 </details>
 
@@ -537,33 +537,33 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Holo3: Breaking the Computer Use Frontier](https://huggingface.co/blog/Hcompany/holo3) (2026-04-01)
 - [Falcon Perception](https://huggingface.co/blog/tiiuae/falcon-perception) (2026-04-01)
 - [Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents](https://huggingface.co/blog/ibm-granite/granite-4-vision) (2026-03-31)
 - [TRL v1.0: Post-Training Library Built to Move with the Field](https://huggingface.co/blog/trl-v1) (2026-03-31)
 - [Liberate your OpenClaw](https://huggingface.co/blog/liberate-your-openclaw) (2026-03-27)
-- [A New Framework for Evaluating Voice Agents (EVA)](https://huggingface.co/blog/ServiceNow-AI/eva) (2026-03-24)
 
 </details>
 
 <details>
 <summary>🤖 AI News</summary>
 
+- [KPMG: Inside the AI agent playbook driving enterprise margin gains](https://www.artificialintelligence-news.com/news/kpmg-inside-ai-agent-playbook-enterprise-margin-gains/) (2026-04-01)
 - [DeepL’s Borderless Business report reveals 83% of enterprises are still behind on language AI](https://www.artificialintelligence-news.com/news/deepls-borderless-business-report-reveals-83-of-enterprises-are-still-behind-on-language-ai/) (2026-04-01)
 - [Hershey applies AI across its supply chain operations](https://www.artificialintelligence-news.com/news/hershey-applies-ai-across-its-supply-chain-operations/) (2026-04-01)
 - [SAP and ANYbotics drive industrial adoption of physical AI](https://www.artificialintelligence-news.com/news/sap-and-anybotics-drive-industrial-adoption-physical-ai/) (2026-03-31)
 - [Secure governance accelerates financial AI revenue growth](https://www.artificialintelligence-news.com/news/secure-governance-accelerates-financial-ai-revenue-growth/) (2026-03-30)
-- [Glia wins Excellence Award for safer AI in banking](https://www.artificialintelligence-news.com/news/glia-wins-excellence-award-for-safer-ai-in-banking/) (2026-03-30)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Inversion Error: Why Safe AGI Requires an Enactive Floor and State-Space Reversibility](https://towardsdatascience.com/the-inversion-error-why-safe-agi-requires-an-enactive-floor-and-state-space-reversibility/) (2026-04-01)
 - [How Can A Model 10,000× Smaller Outsmart ChatGPT?](https://towardsdatascience.com/how-can-a-model-10000x-smaller-outsmart-chatgpt-2/) (2026-04-01)
 - [What Happens Now That AI is the First Analyst On Your Team?](https://towardsdatascience.com/what-happens-now-that-ai-is-the-first-analyst-on-your-team/) (2026-04-01)
 - [The Map of Meaning: How Embedding Models “Understand” Human Language](https://towardsdatascience.com/the-map-of-meaning-how-embedding-models-understand-human-language/) (2026-03-31)
 - [How to Make Claude Code Better at One-Shotting Implementations](https://towardsdatascience.com/how-to-make-claude-code-better-at-one-shotting-implementations/) (2026-03-31)
-- [Building a Personal AI Agent in a couple of Hours](https://towardsdatascience.com/building-a-personal-ai-agent-in-a-couple-of-hours/) (2026-03-31)
 
 </details>
 
@@ -581,22 +581,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Build Better AI Agents with Google Antigravity Skills and Workflows](https://www.kdnuggets.com/build-better-ai-agents-with-google-antigravity-skills-and-workflows) (2026-04-01)
 - [7 Essential AI Website Builders: From Prompt to Production](https://www.kdnuggets.com/7-essential-ai-website-builders-from-prompt-to-production) (2026-04-01)
 - [The Value of a Relationship with a Cybersecurity Professional (Sponsored)](https://bit.ly/Ingram-topic-23-kdn-website#new_tab) (2026-03-31)
 - [Zero Budget, Full Stack: Building with Only Free LLMs](https://www.kdnuggets.com/zero-budget-full-stack-building-with-only-free-llms) (2026-03-31)
 - [5 Useful Python Scripts for Effective Feature Selection](https://www.kdnuggets.com/5-useful-python-scripts-for-effective-feature-selection) (2026-03-30)
-- [7 Free Web APIs Every Developer and Vibe Coder Should Know](https://www.kdnuggets.com/7-free-web-apis-every-developer-and-vibe-coder-should-know) (2026-03-27)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [7 Machine Learning Trends to Watch in 2026](https://machinelearningmastery.com/7-machine-learning-trends-to-watch-in-2026/) (2026-04-01)
 - [Building a ‘Human-in-the-Loop’ Approval Gate for Autonomous Agents](https://machinelearningmastery.com/building-a-human-in-the-loop-approval-gate-for-autonomous-agents/) (2026-03-31)
 - [From Prompt to Prediction: Understanding Prefill, Decode, and the KV Cache in LLMs](https://machinelearningmastery.com/from-prompt-to-prediction-understanding-prefill-decode-and-the-kv-cache-in-llms/) (2026-03-30)
 - [7 Essential Python Itertools for Feature Engineering](https://machinelearningmastery.com/7-essential-python-itertools-for-feature-engineering/) (2026-03-30)
 - [LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes](https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/) (2026-03-27)
-- [Vector Databases Explained in 3 Levels of Difficulty](https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/) (2026-03-26)
 
 </details>
 
