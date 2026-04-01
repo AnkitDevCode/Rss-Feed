@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Nothing’s AI devices plan reportedly contains smart glasses and earbuds](https://techcrunch.com/2026/04/01/nothings-ai-devices-plan-reportedly-contains-smart-glasses-and-earbuds/) (2026-04-01)
 - [Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/) (2026-04-01)
 - [Toyota’s Woven Capital appoints new CIO and COO in push for finding the ‘future of mobility’](https://techcrunch.com/2026/03/31/toyotas-woven-capital-appoints-new-cio-and-coo-in-push-for-finding-the-future-of-mobility/) (2026-04-01)
 - [Anthropic is having a month](https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/) (2026-03-31)
 - [Salesforce announces an AI-heavy makeover for Slack, with 30 new features](https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/) (2026-03-31)
-- [Robotaxi companies refuse to say how often their AVs need remote help](https://techcrunch.com/2026/03/31/robotaxi-companies-refuse-to-say-how-often-their-avs-need-remote-help/) (2026-03-31)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Mad Bugs: Vim vs. Emacs vs. Claude](https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude) (2026-04-01)
-- [Claude Code Unpacked : A visual guide](https://ccunpacked.dev/) (2026-04-01)
-- [Analyzing Geekbench 6 under Intel's BOT](https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/) (2026-04-01)
-- [We intercepted the White House app's network traffic](https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/) (2026-04-01)
-- [Neanderthals survived on a knife's edge for 350k years](https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years) (2026-04-01)
+- [Show HN: Sycamore – next gen Rust UI library powered by fine-grained reactivity](https://sycamore.dev) (2026-04-01)
+- [Wasmer (YC S19) Is Hiring – Rust and DevRel Positions](https://www.workatastartup.com/companies/wasmer) (2026-04-01)
+- [A Mysterious Numbers Station Is Broadcasting Through the Iran War](https://www.wired.com/story/a-mysterious-numbers-station-is-broadcasting-through-the-iran-war/) (2026-04-01)
+- [I Quit. The Clankers Won](https://dbushell.com/2026/04/01/i-quit-the-clankers-won/) (2026-04-01)
+- [CERN levels up with new superconducting karts](https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts) (2026-04-01)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [AI can push your Stream Deck buttons for you](https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update) (2026-04-01)
+- [Baidu’s robotaxis froze in traffic, creating chaos](https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china) (2026-04-01)
 - [The best deals to shop during the last few hours of Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals) (2026-04-01)
 - [Amazon&#8217;s Big Spring Sale 2026: all of the latest deals](https://www.theverge.com/gadgets/897580/amazon-big-spring-sale-2026-deals-news) (2026-04-01)
 - [The AirPods Pro 3 are nearly matching their best-ever price for Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal) (2026-03-31)
-- [Amazon is offering up to 50 percent off chargers from Anker and others for its Big Spring Sale](https://www.theverge.com/gadgets/904242/amazon-big-spring-sale-2026-baseus-anker-chargers-power-banks-batteries-deals) (2026-03-31)
-- [Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent](https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak) (2026-03-31)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: gig workers training humanoids, and better AI benchmarks](https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/) (2026-04-01)
+- [The gig workers who are training humanoid robots at home](https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/) (2026-04-01)
 - [Shifting to AI model customization is an architectural imperative](https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/) (2026-03-31)
 - [The Download: AI health tools and the Pentagon’s Anthropic culture war](https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/) (2026-03-31)
 - [AI benchmarks are broken. Here’s what we need instead.](https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/) (2026-03-31)
-- [There are more AI health tools than ever—but how well do they work?](https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/) (2026-03-30)
-- [The Pentagon’s culture war tactic against Anthropic has backfired](https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/) (2026-03-30)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [First-Time Payees, Payouts, and Why Clean Transactions Still Turn Into Fraud Losses](https://dev.to/amir_shachar_bc46a63dda21/first-time-payees-payouts-and-why-clean-transactions-still-turn-into-fraud-losses-5amh) (2026-04-01)
-- [Is Microsoft's Xbox as a service just a simple wrapper?](https://dev.to/piot5/is-microsofts-xbox-as-a-service-just-a-simple-wrapper-2l75) (2026-04-01)
-- [Handling Extreme Class Imbalance in Fraud Detection](https://dev.to/amir_shachar_bc46a63dda21/handling-extreme-class-imbalance-in-fraud-detection-2i18) (2026-04-01)
-- [Antropic's Claude Code leaked and Axios NPM Inflitration](https://dev.to/techceorahul/antropics-claude-code-leaked-and-axios-npm-inflitration-4m41) (2026-04-01)
-- [Real-Time Fraud Scoring Latency: What 47ms Actually Means](https://dev.to/amir_shachar_bc46a63dda21/real-time-fraud-scoring-latency-what-47ms-actually-means-3700) (2026-04-01)
+- [Introducing HCEL: The Most Fluent Way to Build AI Pipelines in TypeScript](https://dev.to/arslan_mecom/introducing-hcel-the-most-fluent-way-to-build-ai-pipelines-in-typescript-38ba) (2026-04-01)
+- [30-Day Cloud & DevOps Challenge: Day 2 — Building My First Backend API](https://dev.to/michellewanjiru/30-day-cloud-devops-challenge-day-2-building-my-first-backend-api-2ed5) (2026-04-01)
+- [Compliance and Cost Governance for Landing Zones](https://dev.to/beefedai/compliance-and-cost-governance-for-landing-zones-1jaj) (2026-04-01)
+- [Your private key doesn't belong in your terminal. Here's the Foundry fix.](https://dev.to/satorigeeks/your-private-key-doesnt-belong-in-your-terminal-heres-the-foundry-fix-8me) (2026-04-01)
+- [Your AI Writes Code. Who Fixes the Build?](https://dev.to/saathwik/your-ai-writes-code-who-fixes-the-build-j15) (2026-04-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How to Actually Ship AI to Production (And Not Regret It)](https://mariodecastilla.medium.com/how-to-actually-ship-ai-to-production-and-not-regret-it-d3ce2aa23ec9?source=rss------programming-5) (2026-04-01)
-- [“From Idea to Extension: How I Built a VS Code Tool That Actually Helps”](https://medium.com/@kabirminhajul7/from-idea-to-extension-how-i-built-a-vs-code-tool-that-actually-helps-33aaf39f9153?source=rss------programming-5) (2026-04-01)
-- [You (still) don’t need JS for that! 5 native ways to crush your web performance](https://medium.com/@biasiolo.filippo/you-still-dont-need-js-for-that-5-native-ways-to-crush-your-web-performance-41825bfb7dff?source=rss------programming-5) (2026-04-01)
-- [What Experienced .NET Developers Do Differently, 5 Practical Patterns](https://medium.com/codetodeploy/what-experienced-net-developers-do-differently-5-practical-patterns-2cc9346e8098?source=rss------programming-5) (2026-04-01)
-- [Not Cursor, Claude Terminal or VSCode — This Is My New Favorite Code Editor](https://medium.com/the-software-journal/not-cursor-claude-terminal-or-vscode-this-is-my-new-favorite-code-editor-0c1f2d385b01?source=rss------programming-5) (2026-04-01)
+- [I Let AI Do My Job for 30 Days. It Didn’t Make Me a Senior — It Exposed Me.](https://medium.com/coding-odyssey/i-let-ai-do-my-job-for-30-days-it-didnt-make-me-a-senior-it-exposed-me-cfba39276fff?source=rss------programming-5) (2026-04-01)
+- [How To Be Productive — its not all about programming :)](https://lovetrivedi.medium.com/how-to-be-productive-its-not-all-about-programming-635c81091a48?source=rss------programming-5) (2026-04-01)
+- [Strengthening Boardroom Practices for Organizational Security](https://medium.com/the-boardroom-knights/strengthening-boardroom-practices-for-organizational-security-b32cb14a7e24?source=rss------programming-5) (2026-04-01)
+- [I Thought I Became a Senior Engineer. Then One Incident Quietly Proved I Wasn’t.](https://medium.com/design-bootcamp/i-thought-i-became-a-senior-engineer-then-one-incident-quietly-proved-i-wasnt-f9419a272fac?source=rss------programming-5) (2026-04-01)
+- [The Hidden Reason Your SQL Is Slow: How ZetaSQL Enables Smarter Rewrites](https://medium.com/@sonampatel_97163/the-hidden-reason-your-sql-is-slow-how-zetasql-enables-smarter-rewrites-614a2296ff36?source=rss------programming-5) (2026-04-01)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [JetBrains Blog RSS Support Is Now Generally Available](https://blog.jetbrains.com/blog/2026/04/01/rss-support/) (2026-04-01)
 - [YouTrack Introduces Whiteboards](https://blog.jetbrains.com/youtrack/2026/04/youtrack-introduces-whiteboards/) (2026-04-01)
 - [Kodee’s Kotlin Roundup: Kotlin 2.3.20, Interview With Josh Long, and More](https://blog.jetbrains.com/kotlin/2026/03/kodees-kotlin-roundup-march-26-edition/) (2026-03-31)
 - [Profile .NET Apps Without Restarting: Monitoring Comes to ReSharper](https://blog.jetbrains.com/dotnet/2026/03/31/profile-dotnet-apps-without-restarting-monitoring-comes-to-resharper/) (2026-03-31)
 - [Amper 0.10 – JDK Provisioning, a Maven Converter, Custom Compiler Plugins, and More](https://blog.jetbrains.com/amper/2026/03/amper-0-10/) (2026-03-31)
-- [What’s New in PyCharm 2026.1](https://blog.jetbrains.com/pycharm/2026/03/what-s-new-in-pycharm-2026-1/) (2026-03-30)
 
 </details>
 
@@ -449,11 +449,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 <details>
 <summary>🔗 GraphQL Blog</summary>
 
+- [A new era for GraphQL observability](https://graphql.org/blog/2026-04-01-a-new-era-for-graphql-observability) (2026-04-01)
 - [GraphQLConf is now 19-20 May 2026](https://graphql.org/blog/2026-03-17-graphqlconf-date-change) (2026-03-17)
 - [Announcing GraphQLConf 2026](https://graphql.org/blog/2026-01-29-graphqlconf-2026-announcement) (2026-01-29)
 - [GraphQL AI Working Group Recap: January 2026](https://graphql.org/blog/2026-01-22-recap-jan-2026-ai-wg) (2026-01-22)
 - [GraphQL AI Working Group Recap: November 2025](https://graphql.org/blog/2026-01-20-recap-nov-2025-ai-wg) (2026-01-20)
-- [Recap First GraphQL AI Working Group Meeting](https://graphql.org/blog/2025-11-13-recap-oct-ai-wg) (2025-11-13)
 
 </details>
 
@@ -548,44 +548,44 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/block-fake-accoun
 <details>
 <summary>🤖 AI News</summary>
 
+- [DeepL’s Borderless Business report reveals 83% of enterprises are still behind on language AI](https://www.artificialintelligence-news.com/news/deepls-borderless-business-report-reveals-83-of-enterprises-are-still-behind-on-language-ai/) (2026-04-01)
+- [Hershey applies AI across its supply chain operations](https://www.artificialintelligence-news.com/news/hershey-applies-ai-across-its-supply-chain-operations/) (2026-04-01)
 - [SAP and ANYbotics drive industrial adoption of physical AI](https://www.artificialintelligence-news.com/news/sap-and-anybotics-drive-industrial-adoption-physical-ai/) (2026-03-31)
 - [Secure governance accelerates financial AI revenue growth](https://www.artificialintelligence-news.com/news/secure-governance-accelerates-financial-ai-revenue-growth/) (2026-03-30)
 - [Glia wins Excellence Award for safer AI in banking](https://www.artificialintelligence-news.com/news/glia-wins-excellence-award-for-safer-ai-in-banking/) (2026-03-30)
-- [How AEO vs GEO reshapes AI-driven brand discovery in 2026](https://www.artificialintelligence-news.com/news/how-aeo-vs-geo-reshapes-ai-driven-brand-discovery-in-2026/) (2026-03-30)
-- [Assessing AI powered price forecasting tools in currency markets](https://www.artificialintelligence-news.com/news/assessing-ai-powered-price-forecasting-tools-in-currency-markets/) (2026-03-30)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How Can A Model 10,000× Smaller Outsmart ChatGPT?](https://towardsdatascience.com/how-can-a-model-10000x-smaller-outsmart-chatgpt-2/) (2026-04-01)
+- [What Happens Now That AI is the First Analyst On Your Team?](https://towardsdatascience.com/what-happens-now-that-ai-is-the-first-analyst-on-your-team/) (2026-04-01)
 - [The Map of Meaning: How Embedding Models “Understand” Human Language](https://towardsdatascience.com/the-map-of-meaning-how-embedding-models-understand-human-language/) (2026-03-31)
 - [How to Make Claude Code Better at One-Shotting Implementations](https://towardsdatascience.com/how-to-make-claude-code-better-at-one-shotting-implementations/) (2026-03-31)
 - [Building a Personal AI Agent in a couple of Hours](https://towardsdatascience.com/building-a-personal-ai-agent-in-a-couple-of-hours/) (2026-03-31)
-- [Turning 127 Million Data Points Into an Industry Report](https://towardsdatascience.com/turning-127-million-data-points-into-an-industry-report/) (2026-03-31)
-- [How to Lie with Statistics with your Robot Best Friend](https://towardsdatascience.com/how-to-lie-with-statistics-with-your-robot-best-friend/) (2026-03-30)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Speculative Decoding: How LLMs Generate Text 3x Faster](https://www.analyticsvidhya.com/blog/2026/04/speculative-decoding/) (2026-04-01)
 - [Qwen3.5-Omni is here! Scaling up to a Native Omni-modal AGI](https://www.analyticsvidhya.com/blog/2026/03/qwen3-5-omni-ai-model/) (2026-03-31)
 - [Fine-Tuning vs RAG vs Prompt Engineering ](https://www.analyticsvidhya.com/blog/2026/03/fine-tuning-vs-rag-vs-prompt-engineering/) (2026-03-31)
 - [Gemini 3.1 Flash Live: AI Conversations Now Feel Way More Human](https://www.analyticsvidhya.com/blog/2026/03/gemini-3-1-flash-live/) (2026-03-31)
 - [20+ Solved ML Projects to Build Your Portfolio and Boost Your Resume](https://www.analyticsvidhya.com/blog/2026/03/solved-ml-projects/) (2026-03-30)
-- [Iloc vs Loc in Pandas: A Guide with Examples ](https://www.analyticsvidhya.com/blog/2026/03/iloc-vs-loc-in-pandas/) (2026-03-30)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [7 Essential AI Website Builders: From Prompt to Production](https://www.kdnuggets.com/7-essential-ai-website-builders-from-prompt-to-production) (2026-04-01)
 - [The Value of a Relationship with a Cybersecurity Professional (Sponsored)](https://bit.ly/Ingram-topic-23-kdn-website#new_tab) (2026-03-31)
 - [Zero Budget, Full Stack: Building with Only Free LLMs](https://www.kdnuggets.com/zero-budget-full-stack-building-with-only-free-llms) (2026-03-31)
 - [5 Useful Python Scripts for Effective Feature Selection](https://www.kdnuggets.com/5-useful-python-scripts-for-effective-feature-selection) (2026-03-30)
 - [7 Free Web APIs Every Developer and Vibe Coder Should Know](https://www.kdnuggets.com/7-free-web-apis-every-developer-and-vibe-coder-should-know) (2026-03-27)
-- [Getting Started with Smolagents: Build Your First Code Agent in 15 Minutes](https://www.kdnuggets.com/getting-started-with-smolagents-build-your-first-code-agent-in-15-minutes) (2026-03-26)
 
 </details>
 
