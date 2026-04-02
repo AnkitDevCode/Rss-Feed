@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Meta’s natural gas binge could power South Dakota](https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/) (2026-04-01)
-- [Cameo partners with TikTok to boost popularity](https://techcrunch.com/2026/04/01/cameo-partners-with-tiktok-to-boost-popularity/) (2026-04-01)
-- [WhatsApp notifies hundreds of users who installed a fake app made by government spyware maker](https://techcrunch.com/2026/04/01/whatsapp-notifies-hundreds-of-users-who-installed-a-fake-app-that-was-actually-government-spyware/) (2026-04-01)
-- [Cognichip wants AI to design the chips that power AI, and just raised $60M to try](https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/) (2026-04-01)
-- [SpaceX files confidentially for IPO in mega listing potentially valued at $1.75 trillion, report says](https://techcrunch.com/2026/04/01/spacex-files-confidentially-for-ipo-in-mega-listing-potentially-valued-at-1-75-trillion-report-says/) (2026-04-01)
+- [De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack](https://techcrunch.com/2026/04/01/de-fi-platform-drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack/) (2026-04-01)
+- [Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident](https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/) (2026-04-01)
+- [The reputation of troubled YC startup Delve has gotten even worse](https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/) (2026-04-01)
+- [‘System failure’ paralyzes Baidu robotaxis in China](https://techcrunch.com/2026/04/01/system-failure-paralyzes-baidu-robotaxis-in-china/) (2026-04-01)
+- [A new dating app, Sonder, has a deliberately annoying sign-up process (and it’s working)](https://techcrunch.com/2026/04/01/a-new-dating-app-sonder-has-a-deliberately-annoying-sign-up-process-and-its-working/) (2026-04-01)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [TurboQuant KV Compression and SSD Expert Streaming for M5 Pro and IOS](https://github.com/SharpAI/SwiftLM) (2026-04-01)
-- [Ukrainian Drone Holds Position for 6 Weeks](https://defenceleaders.com/news/ukrainian-combat-robot-holds-frontline-position-for-six-weeks-in-sign-of-growing-ugv-maturity/) (2026-04-01)
-- [The AI Marketing BS Index](https://bastian.rieck.me/blog/2026/bs/) (2026-04-01)
-- [AI for American-Produced Cement and Concrete](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/) (2026-04-01)
-- [NASA Artemis II moon mission live launch broadcast](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/) (2026-04-01)
+- [ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover](https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/) (2026-04-01)
+- [Montana referendum to outlaw corporate campaign contributions [video]](https://www.youtube.com/watch?v=p1fPbGHe3xE) (2026-04-01)
+- [A new C++ back end for ocamlc](https://github.com/ocaml/ocaml/pull/14701) (2026-04-01)
+- [Obfuscation is not security – AI can deobfuscate any minified JavaScript code](https://www.afterpack.dev/blog/claude-code-source-leak) (2026-04-01)
+- [IPv6 address, as a sentence you can remember](https://sentence2ipv6.tib3rius.com/) (2026-04-01)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Trump’s birthright citizenship ban may fail — but the administration already got too far](https://www.theverge.com/policy/905649/trump-supreme-court-birthright-citizenship-scotus-arguments) (2026-04-01)
+- [NASA launches four astronauts toward the Moon on the Artemis II mission](https://www.theverge.com/science/904458/nasa-artemis-ii-mission-moon-astronauts) (2026-04-01)
+- [The Artemis Moon base project is legally dubious](https://www.theverge.com/science/905406/artemis-ii-moon-base-law) (2026-04-01)
 - [Everything is iPhone now](https://www.theverge.com/tech/905398/apple-iphone-anniversary-jobs-release) (2026-04-01)
 - [April Fools’ Day 2026: the best and cringiest pranks](https://www.theverge.com/tldr/904346/april-fools-day-2026-pranks-jokes-best-worst) (2026-04-01)
-- [Kia&#8217;s compact EV3 is coming to the US this year, with 320 miles of range](https://www.theverge.com/transportation/905363/kia-ev3-north-america-launch) (2026-04-01)
-- [The Shokz OpenRun Pro 2 are now at their lowest price in months](https://www.theverge.com/gadgets/905292/shokz-openrun-pro-2-ember-mug-2-deal-sale) (2026-04-01)
-- [I tested a living room full of cheap Ikea speakers against Sonos and Bose](https://www.theverge.com/tech/904822/ikea-kallsup-bluetooth-speaker-review) (2026-04-01)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [SpaceX finally files for IPO, targets $1.75 trillion valuation](https://arstechnica.com/space/2026/04/spacex-finally-files-for-ipo-targets-1-75-trillion-valuation/) (2026-04-01)
-- [Trump defunding of NPR and PBS blocked by judge, but damage is already done](https://arstechnica.com/tech-policy/2026/04/trump-defunding-of-npr-and-pbs-blocked-by-judge-but-damage-is-already-done/) (2026-04-01)
-- [A word from Editor Moonshark about Artemis II](https://arstechnica.com/staff/2026/04/a-word-from-editor-moonshark-about-artemis-ii/) (2026-04-01)
-- [Kia shows off small cars in NY: The 2027 EV3 and 2027 Seltos Hybrid](https://arstechnica.com/cars/2026/04/kia-shows-off-small-cars-in-ny-the-2027-ev3-and-2027-seltos-hybrid/) (2026-04-01)
-- [LIGO data hints at supernovae so powerful they leave nothing behind](https://arstechnica.com/science/2026/04/black-hole-mergers-put-limits-on-star-destroying-supernovae/) (2026-04-01)
+- [Artemis II, NASA's most daring mission in generations, launches to the Moon](https://arstechnica.com/space/2026/04/four-astronauts-depart-for-the-moon-with-a-fiery-send-off-from-cape-canaveral/) (2026-04-02)
+- [Nvidia rolls out its fix for PC gaming's "compiling shaders" wait times](https://arstechnica.com/gaming/2026/04/nvidias-new-app-lets-you-precompile-gaming-shaders-during-machine-idle-time/) (2026-04-01)
+- [Here's what that Claude Code source leak reveals about Anthropic's plans](https://arstechnica.com/ai/2026/04/heres-what-that-claude-code-source-leak-reveals-about-anthropics-plans/) (2026-04-01)
+- [Research roundup: 7 cool science stories we almost missed](https://arstechnica.com/science/2026/04/research-roundup-7-cool-science-stories-we-almost-missed-3/) (2026-04-01)
+- [Did Nazis escape on a UFO? Dev who asked the question just built the official White House app.](https://arstechnica.com/tech-policy/2026/04/official-white-house-app-developer-also-a-ufo-conspiracy-theorist/) (2026-04-01)
 
 </details>
 
@@ -75,11 +75,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Securing the open source supply chain across GitHub](https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-across-github/) (2026-04-01)
 - [Run multiple agents at once with /fleet in Copilot CLI](https://github.blog/ai-and-ml/github-copilot/run-multiple-agents-at-once-with-fleet-in-copilot-cli/) (2026-04-01)
 - [Agent-driven development in Copilot Applied Science](https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/) (2026-03-31)
 - [GitHub for Beginners: Getting started with GitHub security](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-security/) (2026-03-30)
 - [What’s coming to our GitHub Actions 2026 security roadmap](https://github.blog/news-insights/product-news/whats-coming-to-our-github-actions-2026-security-roadmap/) (2026-03-26)
-- [A year of open source vulnerability trends: CVEs, advisories, and malware](https://github.blog/security/supply-chain-security/a-year-of-open-source-vulnerability-trends-cves-advisories-and-malware/) (2026-03-26)
 
 </details>
 
@@ -97,33 +97,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Arbitrary JavaScript Execution via eval() in chrome-local-mcp](https://dev.to/crafted_cyber_solutions/arbitrary-javascript-execution-via-eval-in-chrome-local-mcp-1nbl) (2026-04-01)
-- [I Built an Open-Source Identity Verification Platform. Here's What I Learned.](https://dev.to/teamidswyft/i-built-an-open-source-identity-verification-platform-heres-what-i-learned-5fkn) (2026-04-01)
-- [I built `ollama-sgpt`, a local-first ShellGPT alternative for Ollama.](https://dev.to/sadorect/i-built-ollama-sgpt-a-local-first-shellgpt-alternative-for-ollama-4ne6) (2026-04-01)
-- [We Scored 5,154 MCP Servers. Here's the Trust Distribution.](https://dev.to/crafted_cyber_solutions/we-scored-5154-mcp-servers-heres-the-trust-distribution-5dm1) (2026-04-01)
-- [I built a replay testing tool for MCP servers — here's why and how it works](https://dev.to/tapesh_chandradas_5f7919/i-built-a-replay-testing-tool-for-mcp-servers-heres-why-and-how-it-works-1f8d) (2026-04-01)
+- [RBF Attention Reveals Dot‑Product's Hidden Norm Bias](https://dev.to/simon_paxton/rbf-attention-reveals-dot-products-hidden-norm-bias-4cb5) (2026-04-02)
+- [I Built a Visual Flow Engine in Rust - Here's Why I Ditched Node.js](https://dev.to/poolcamacho/i-built-a-visual-flow-engine-in-rust-heres-why-i-ditched-nodejs-2oih) (2026-04-02)
+- [What I Learned from Reading Claude Code’s Reconstructed Source](https://dev.to/trknhr/what-i-learned-from-reading-claude-codes-reconstructed-source-1ebf) (2026-04-02)
+- [How to Test Discord Webhooks with HookCap](https://dev.to/henry_hang/how-to-test-discord-webhooks-with-hookcap-4oj4) (2026-04-02)
+- [SaaS Pricing Models Decoded: What Per-Seat, Usage-Based, and Flat-Rate Really Cost You](https://dev.to/jameshammer/saas-pricing-models-decoded-what-per-seat-usage-based-and-flat-rate-really-cost-you-1i4h) (2026-04-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Monoliths vs Services vs Microservices: What You Actually Need (and When)](https://blog.stackademic.com/monoliths-vs-services-vs-microservices-what-you-actually-need-and-when-0a3f15af8dae?source=rss------programming-5) (2026-04-01)
-- [The (Home)-Office Oracle: A One-Click-to-Done Prayer](https://medium.com/@frontdesk_314/the-home-office-oracle-a-one-click-to-done-prayer-ddfa18ffed4c?source=rss------programming-5) (2026-04-01)
-- [The End of Prompting: Why 2026 is the Year of Autonomous Agents](https://medium.com/@tayrmakin/the-end-of-prompting-why-2026-is-the-year-of-autonomous-agents-f14f8748a2d9?source=rss------programming-5) (2026-04-01)
-- [Your AI Journey from Here: Research Papers, Communities & How to Never Stop Learning](https://medium.com/@siddantvardey/your-ai-journey-from-here-research-papers-communities-how-to-never-stop-learning-6a25370c7a45?source=rss------programming-5) (2026-04-01)
-- [I Deployed at 4:57 PM on Friday.](https://medium.com/lets-code-future/i-deployed-at-4-57-pm-on-friday-f4385fe2c136?source=rss------programming-5) (2026-04-01)
+- [Taking Calculations Into Number](https://fgromadan.medium.com/taking-calculations-into-number-3f2ee5695abf?source=rss------programming-5) (2026-04-02)
+- [Stop doing vibe-debugging: 8 reasons your fixes keep bouncing back](https://medium.com/@hjparmar1944/stop-doing-vibe-debugging-8-reasons-your-fixes-keep-bouncing-back-bc17549fd887?source=rss------programming-5) (2026-04-02)
+- [Google Authenticator Integration with Spring Boot (Complete Guide)](https://medium.com/@sunil17bbmp/google-authenticator-integration-with-spring-boot-complete-guide-cfd9d0c8c716?source=rss------programming-5) (2026-04-02)
+- [8 AI Features You Can Build Without Deep ML Knowledge](https://ai.plainenglish.io/8-ai-features-you-can-build-without-deep-ml-knowledge-a9bdeecb1c68?source=rss------programming-5) (2026-04-02)
+- [Pick the Right Multi-Agent Pattern](https://medium.com/@bob.bobster1910_8811/pick-the-right-multi-agent-pattern-e5e2a0e3a82d?source=rss------programming-5) (2026-04-02)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Announcing managed daemon support for Amazon ECS Managed Instances](https://aws.amazon.com/blogs/aws/announcing-managed-daemon-support-for-amazon-ecs-managed-instances/) (2026-04-01)
 - [Announcing the AWS Sustainability console: Programmatic access, configurable CSV reports, and Scope 1–3 reporting in one place](https://aws.amazon.com/blogs/aws/announcing-the-aws-sustainability-console-programmatic-access-configurable-csv-reports-and-scope-1-3-reporting-in-one-place/) (2026-03-31)
 - [AWS Weekly Roundup: AWS AI/ML Scholars program, Agent Plugin for AWS Serverless, and more (March 30, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-ai-ml-scholars-program-agent-plugin-for-aws-serverless-and-more-march-30-2026/) (2026-03-30)
 - [Customize your AWS Management Console experience with visual settings including account color, region and service visibility](https://aws.amazon.com/blogs/aws/customize-your-aws-management-console-experience-with-visual-settings-including-account-color-region-and-service-visibility/) (2026-03-26)
 - [Announcing Amazon Aurora PostgreSQL serverless database creation in seconds](https://aws.amazon.com/blogs/aws/announcing-amazon-aurora-postgresql-serverless-database-creation-in-seconds/) (2026-03-25)
-- [AWS Weekly Roundup: NVIDIA Nemotron 3 Super on Amazon Bedrock, Nova Forge SDK, Amazon Corretto 26, and more (March 23, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-nvidia-nemotron-3-super-on-amazon-bedrock-nova-forge-sdk-amazon-corretto-26-and-more-march-23-2026/) (2026-03-23)
 
 </details>
 
@@ -163,11 +163,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Get your Wear OS apps ready for the 64-bit requirement](https://android-developers.googleblog.com/2026/04/get-your-wear-os-apps-ready-for-64-bit-requirement.html) (2026-04-01)
 - [Media3 1.10 is out](https://android-developers.googleblog.com/2026/03/media3-110-is-out.html) (2026-03-30)
 - [Monzo boosts performance metrics by up to 35% with a simple R8 update](https://android-developers.googleblog.com/2026/03/monzo-boosts-performance-metrics-by-up-to-35-percent.html) (2026-03-30)
 - [Android developer verification: Rolling out to all developers on Play Console and Android Developer Console](https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html) (2026-03-30)
 - [Redefining Location Privacy: New Tools and Improvements for Android 17](https://android-developers.googleblog.com/2026/03/location-privacy.html) (2026-03-26)
-- [The Third Beta of Android 17](https://android-developers.googleblog.com/2026/03/the-third-beta-of-android-17.html) (2026-03-26)
 
 </details>
 
