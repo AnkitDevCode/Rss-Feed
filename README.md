@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover](https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/) (2026-04-01)
-- [Montana referendum to outlaw corporate campaign contributions [video]](https://www.youtube.com/watch?v=p1fPbGHe3xE) (2026-04-01)
-- [A new C++ back end for ocamlc](https://github.com/ocaml/ocaml/pull/14701) (2026-04-01)
-- [Obfuscation is not security – AI can deobfuscate any minified JavaScript code](https://www.afterpack.dev/blog/claude-code-source-leak) (2026-04-01)
-- [IPv6 address, as a sentence you can remember](https://sentence2ipv6.tib3rius.com/) (2026-04-01)
+- [r/programming bans all discussion of LLM programming](https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/) (2026-04-02)
+- [Subscription bombing and how to mitigate it](https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/) (2026-04-02)
+- [The future of code search is not regex – 100x faster than ripgrep](https://fff.dmtrkovalenko.dev/) (2026-04-02)
+- [Show HN: NASA Artemis II Mission Timeline Tracker](https://www.sunnywingsvirtual.com/artemis2/timeline.html) (2026-04-02)
+- [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) (2026-04-02)
 
 </details>
 
@@ -53,7 +53,7 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Artemis II, NASA's most daring mission in generations, launches to the Moon](https://arstechnica.com/space/2026/04/four-astronauts-depart-for-the-moon-with-a-fiery-send-off-from-cape-canaveral/) (2026-04-02)
+- [Artemis II, NASA's boldest mission in generations, launches crew to the Moon](https://arstechnica.com/space/2026/04/four-astronauts-depart-for-the-moon-with-a-fiery-send-off-from-cape-canaveral/) (2026-04-02)
 - [Nvidia rolls out its fix for PC gaming's "compiling shaders" wait times](https://arstechnica.com/gaming/2026/04/nvidias-new-app-lets-you-precompile-gaming-shaders-during-machine-idle-time/) (2026-04-01)
 - [Here's what that Claude Code source leak reveals about Anthropic's plans](https://arstechnica.com/ai/2026/04/heres-what-that-claude-code-source-leak-reveals-about-anthropics-plans/) (2026-04-01)
 - [Research roundup: 7 cool science stories we almost missed](https://arstechnica.com/science/2026/04/research-roundup-7-cool-science-stories-we-almost-missed-3/) (2026-04-01)
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [RBF Attention Reveals Dot‑Product's Hidden Norm Bias](https://dev.to/simon_paxton/rbf-attention-reveals-dot-products-hidden-norm-bias-4cb5) (2026-04-02)
-- [I Built a Visual Flow Engine in Rust - Here's Why I Ditched Node.js](https://dev.to/poolcamacho/i-built-a-visual-flow-engine-in-rust-heres-why-i-ditched-nodejs-2oih) (2026-04-02)
-- [What I Learned from Reading Claude Code’s Reconstructed Source](https://dev.to/trknhr/what-i-learned-from-reading-claude-codes-reconstructed-source-1ebf) (2026-04-02)
-- [How to Test Discord Webhooks with HookCap](https://dev.to/henry_hang/how-to-test-discord-webhooks-with-hookcap-4oj4) (2026-04-02)
-- [SaaS Pricing Models Decoded: What Per-Seat, Usage-Based, and Flat-Rate Really Cost You](https://dev.to/jameshammer/saas-pricing-models-decoded-what-per-seat-usage-based-and-flat-rate-really-cost-you-1i4h) (2026-04-02)
+- [Vertex AI Workbench with Terraform: Your ML Workspace on GCP 🔬](https://dev.to/suhas_mallesh/vertex-ai-workbench-with-terraform-your-ml-workspace-on-gcp-4gn6) (2026-04-02)
+- [Why the Best Engineers Write "Ugly" Code](https://dev.to/tyson_cung/why-the-best-engineers-write-ugly-code-3dl3) (2026-04-02)
+- [Startup vs Corporate — What Nobody Tells You Before You Pick](https://dev.to/tyson_cung/startup-vs-corporate-what-nobody-tells-you-before-you-pick-n28) (2026-04-02)
+- [How DNS Actually Works — The Internet's Invisible Backbone](https://dev.to/tyson_cung/how-dns-actually-works-the-internets-invisible-backbone-1d91) (2026-04-02)
+- [How to Avoid Overfitting in Crypto Trading Bots: Lessons from 10,000+ Backtested Trades](https://dev.to/trendrider/how-to-avoid-overfitting-in-crypto-trading-bots-lessons-from-10000-backtested-trades-2oci) (2026-04-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Taking Calculations Into Number](https://fgromadan.medium.com/taking-calculations-into-number-3f2ee5695abf?source=rss------programming-5) (2026-04-02)
-- [Stop doing vibe-debugging: 8 reasons your fixes keep bouncing back](https://medium.com/@hjparmar1944/stop-doing-vibe-debugging-8-reasons-your-fixes-keep-bouncing-back-bc17549fd887?source=rss------programming-5) (2026-04-02)
-- [Google Authenticator Integration with Spring Boot (Complete Guide)](https://medium.com/@sunil17bbmp/google-authenticator-integration-with-spring-boot-complete-guide-cfd9d0c8c716?source=rss------programming-5) (2026-04-02)
-- [8 AI Features You Can Build Without Deep ML Knowledge](https://ai.plainenglish.io/8-ai-features-you-can-build-without-deep-ml-knowledge-a9bdeecb1c68?source=rss------programming-5) (2026-04-02)
-- [Pick the Right Multi-Agent Pattern](https://medium.com/@bob.bobster1910_8811/pick-the-right-multi-agent-pattern-e5e2a0e3a82d?source=rss------programming-5) (2026-04-02)
+- [7 Python libraries that didn’t exist 2 years ago — and now I can’t work without](https://medium.com/the-pythonworld/7-python-libraries-that-didnt-exist-2-years-ago-and-now-i-can-t-work-without-8f011db2a3f9?source=rss------programming-5) (2026-04-02)
+- [The Real Edge in Engineering Leadership Isn’t Technical Anymore](https://medium.com/thriving-in-engineering/the-real-edge-in-engineering-leadership-isnt-technical-anymore-bd791393ae48?source=rss------programming-5) (2026-04-02)
+- [I Gave Honest Feedback Once. Spent Six Months Managing The Fallout.](https://medium.com/activated-thinker/i-gave-honest-feedback-once-spent-six-months-managing-the-fallout-ed5d3634eb5b?source=rss------programming-5) (2026-04-02)
+- [Stop Stacking Logic. Parentheses And Python Logical Operators Change How We Code](https://medium.com/@rahman.poland.ce21/stop-stacking-logic-parentheses-and-python-logical-operators-change-how-we-code-0f3be7a39c31?source=rss------programming-5) (2026-04-02)
+- [What Is an AI Agent? — The Difference Between a Chatbot and Something That Gets Things Done](https://letslearnai.medium.com/what-is-an-ai-agent-the-difference-between-a-chatbot-and-something-that-gets-things-done-0caf8b5b2d97?source=rss------programming-5) (2026-04-02)
 
 </details>
 
