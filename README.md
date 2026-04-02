@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Exclusive: Beehiiv expands into podcasting, taking aim at Patreon](https://techcrunch.com/2026/04/02/beehiiv-expands-into-podcasts-taking-aim-at-patreon-substack-newsletters/) (2026-04-02)
+- [Cash App launches ‘pay later’ feature for P2P pay transfers](https://techcrunch.com/2026/04/02/cash-app-launches-buy-now-pay-later-feature-for-p2p-pay-transfers/) (2026-04-02)
 - [De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack](https://techcrunch.com/2026/04/01/de-fi-platform-drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack/) (2026-04-01)
 - [Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident](https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/) (2026-04-01)
 - [The reputation of troubled YC startup Delve has gotten even worse](https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/) (2026-04-01)
-- [‘System failure’ paralyzes Baidu robotaxis in China](https://techcrunch.com/2026/04/01/system-failure-paralyzes-baidu-robotaxis-in-china/) (2026-04-01)
-- [A new dating app, Sonder, has a deliberately annoying sign-up process (and it’s working)](https://techcrunch.com/2026/04/01/a-new-dating-app-sonder-has-a-deliberately-annoying-sign-up-process-and-its-working/) (2026-04-01)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [r/programming bans all discussion of LLM programming](https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/) (2026-04-02)
-- [Subscription bombing and how to mitigate it](https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/) (2026-04-02)
-- [The future of code search is not regex – 100x faster than ripgrep](https://fff.dmtrkovalenko.dev/) (2026-04-02)
-- [Show HN: NASA Artemis II Mission Timeline Tracker](https://www.sunnywingsvirtual.com/artemis2/timeline.html) (2026-04-02)
-- [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) (2026-04-02)
+- [Which European countries have the best salaries after taxes?](https://www.euronews.com/my-europe/2026/04/02/which-european-countries-have-the-best-salaries-after-taxes) (2026-04-02)
+- [ReactOS Shows Improved Stability and 64-Bit Support at Chemnitz Linux Days 2026](https://old.reddit.com/r/reactos/comments/1sa26yu/back_from_chemnitz_linux_days_2026/) (2026-04-02)
+- [Inside Nepal's Fake Rescue Racket](https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket) (2026-04-02)
+- [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai) (2026-04-02)
+- [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) (2026-04-02)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Transfer Point is a modern adventure game made with 40-year-old software](https://www.theverge.com/entertainment/905339/transfer-point-mac-adventure-game-world-builder) (2026-04-02)
+- [Uber expands its $4,000 ‘Go Electric’ grant to drivers nationwide](https://www.theverge.com/transportation/905427/uber-go-electric-grant-driver-switch-ev) (2026-04-02)
+- [Insider trading or random guy? It doesn’t matter to Polymarket](https://www.theverge.com/business/905466/polymarket-kalshi-sponsored-content-insider-trading-x-influencers) (2026-04-02)
 - [Trump’s birthright citizenship ban may fail — but the administration already got too far](https://www.theverge.com/policy/905649/trump-supreme-court-birthright-citizenship-scotus-arguments) (2026-04-01)
 - [NASA launches four astronauts toward the Moon on the Artemis II mission](https://www.theverge.com/science/904458/nasa-artemis-ii-mission-moon-astronauts) (2026-04-01)
-- [The Artemis Moon base project is legally dubious](https://www.theverge.com/science/905406/artemis-ii-moon-base-law) (2026-04-01)
-- [Everything is iPhone now](https://www.theverge.com/tech/905398/apple-iphone-anniversary-jobs-release) (2026-04-01)
-- [April Fools’ Day 2026: the best and cringiest pranks](https://www.theverge.com/tldr/904346/april-fools-day-2026-pranks-jokes-best-worst) (2026-04-01)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO](https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/) (2026-04-02)
+- [Fuel prices are soaring. Plastic could be next.](https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/) (2026-04-02)
 - [The Download: gig workers training humanoids, and better AI benchmarks](https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/) (2026-04-01)
 - [The gig workers who are training humanoid robots at home](https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/) (2026-04-01)
 - [Shifting to AI model customization is an architectural imperative](https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/) (2026-03-31)
-- [The Download: AI health tools and the Pentagon’s Anthropic culture war](https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/) (2026-03-31)
-- [AI benchmarks are broken. Here’s what we need instead.](https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/) (2026-03-31)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Vertex AI Workbench with Terraform: Your ML Workspace on GCP 🔬](https://dev.to/suhas_mallesh/vertex-ai-workbench-with-terraform-your-ml-workspace-on-gcp-4gn6) (2026-04-02)
-- [Why the Best Engineers Write "Ugly" Code](https://dev.to/tyson_cung/why-the-best-engineers-write-ugly-code-3dl3) (2026-04-02)
-- [Startup vs Corporate — What Nobody Tells You Before You Pick](https://dev.to/tyson_cung/startup-vs-corporate-what-nobody-tells-you-before-you-pick-n28) (2026-04-02)
-- [How DNS Actually Works — The Internet's Invisible Backbone](https://dev.to/tyson_cung/how-dns-actually-works-the-internets-invisible-backbone-1d91) (2026-04-02)
-- [How to Avoid Overfitting in Crypto Trading Bots: Lessons from 10,000+ Backtested Trades](https://dev.to/trendrider/how-to-avoid-overfitting-in-crypto-trading-bots-lessons-from-10000-backtested-trades-2oci) (2026-04-02)
+- [Run OpenCode in Docker - Clean machine, same convenience](https://dev.to/mazumba/run-opencode-in-docker-clean-machine-same-convenience-58ac) (2026-04-02)
+- [Good UI Is Just Invisible Engineering](https://dev.to/rohith_kn/good-ui-is-just-invisible-engineering-13ck) (2026-04-02)
+- [Face Tracking for Vertical Video: Why It's Harder Than It Looks (And How It Works)](https://dev.to/kyle_clipspeedai/face-tracking-for-vertical-video-why-its-harder-than-it-looks-and-how-it-works-3e97) (2026-04-02)
+- [I Built a Privacy-First Developer Toolbox That Runs 100% in Your Browser](https://dev.to/tinglongyang/i-built-a-privacy-first-developer-toolbox-that-runs-100-in-your-browser-2ho2) (2026-04-02)
+- [I Published 3 Products on Gumroad. 0 Sales. Here's My Honest Postmortem.](https://dev.to/mindon/i-published-3-products-on-gumroad-0-sales-heres-my-honest-postmortem-470m) (2026-04-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [7 Python libraries that didn’t exist 2 years ago — and now I can’t work without](https://medium.com/the-pythonworld/7-python-libraries-that-didnt-exist-2-years-ago-and-now-i-can-t-work-without-8f011db2a3f9?source=rss------programming-5) (2026-04-02)
-- [The Real Edge in Engineering Leadership Isn’t Technical Anymore](https://medium.com/thriving-in-engineering/the-real-edge-in-engineering-leadership-isnt-technical-anymore-bd791393ae48?source=rss------programming-5) (2026-04-02)
-- [I Gave Honest Feedback Once. Spent Six Months Managing The Fallout.](https://medium.com/activated-thinker/i-gave-honest-feedback-once-spent-six-months-managing-the-fallout-ed5d3634eb5b?source=rss------programming-5) (2026-04-02)
-- [Stop Stacking Logic. Parentheses And Python Logical Operators Change How We Code](https://medium.com/@rahman.poland.ce21/stop-stacking-logic-parentheses-and-python-logical-operators-change-how-we-code-0f3be7a39c31?source=rss------programming-5) (2026-04-02)
-- [What Is an AI Agent? — The Difference Between a Chatbot and Something That Gets Things Done](https://letslearnai.medium.com/what-is-an-ai-agent-the-difference-between-a-chatbot-and-something-that-gets-things-done-0caf8b5b2d97?source=rss------programming-5) (2026-04-02)
+- [You Know Enough to Build — So Why Aren’t You?](https://shwetaprasad150.medium.com/you-know-enough-to-build-so-why-arent-you-a268c040150f?source=rss------programming-5) (2026-04-02)
+- [Agentic AI Framework in the Era of .NET 11](https://medium.com/@hasanmcse/agentic-ai-framework-in-the-era-of-net-11-84d329f59c53?source=rss------programming-5) (2026-04-02)
+- [Claude Code’s massive source code got leaked: Everything you need to know](https://medium.com/coding-beauty/claude-code-source-code-leak-efb8e783c045?source=rss------programming-5) (2026-04-02)
+- [Building a Coding Agent in Swift — Part 0: Bootstrapping the Project](https://medium.com/@ivanmagda/building-a-coding-agent-in-swift-part-0-bootstrapping-the-project-74ebbf4bb1c5?source=rss------programming-5) (2026-04-02)
+- [The Internet Remembers Everything — But AI Finds It First: The Future of OSINT Investigations](https://medium.com/@paritoshblogs/the-internet-remembers-everything-but-ai-finds-it-first-the-future-of-osint-investigations-c1c924cd8c82?source=rss------programming-5) (2026-04-02)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Docker Offload now Generally Available: The Full Power of Docker, for Every Developer, Everywhere.](https://www.docker.com/blog/docker-offload-now-generally-available-the-full-power-of-docker-for-every-developer-everywhere/) (2026-04-02)
 - [Run and Iterate on LLMs Faster with Docker Model Runner on DGX Station](https://www.docker.com/blog/blog-docker-model-runner-new-nvidia-dgx-station/) (2026-03-31)
 - [Docker Sandboxes: Run Agents in YOLO Mode, Safely](https://www.docker.com/blog/docker-sandboxes-run-agents-in-yolo-mode-safely/) (2026-03-31)
 - [Building a News Roundup with Docker Agent, Docker Model Runner, and Skill](https://www.docker.com/blog/building-a-news-roundup-with-docker-agent-docker-model-runner-and-skill/) (2026-03-27)
 - [Trivy supply chain compromise: What Docker Hub users should know](https://www.docker.com/blog/trivy-supply-chain-compromise-what-docker-hub-users-should-know/) (2026-03-23)
-- [From the Captain’s Chair: Naga Santhosh Reddy Vootukuri](https://www.docker.com/blog/from-the-captains-chair-naga-santhosh-reddy-vootukuri/) (2026-03-18)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Which AI Coding Tools Do Developers Actually Use at Work?](https://blog.jetbrains.com/research/2026/04/which-ai-coding-tools-do-developers-actually-use-at-work/) (2026-04-02)
+- [KotlinConf’26 Speakers: In Conversation With Lena Reinhard](https://blog.jetbrains.com/kotlin/2026/04/kotlinconf-26-speakers-in-conversation-with-lena-reinhard/) (2026-04-02)
 - [JetBrains Blog RSS Support Is Now Generally Available](https://blog.jetbrains.com/blog/2026/04/01/rss-support/) (2026-04-01)
 - [YouTrack Introduces Whiteboards](https://blog.jetbrains.com/youtrack/2026/04/youtrack-introduces-whiteboards/) (2026-04-01)
 - [Kodee’s Kotlin Roundup: Kotlin 2.3.20, Interview With Josh Long, and More](https://blog.jetbrains.com/kotlin/2026/03/kodees-kotlin-roundup-march-26-edition/) (2026-03-31)
-- [Profile .NET Apps Without Restarting: Monitoring Comes to ReSharper](https://blog.jetbrains.com/dotnet/2026/03/31/profile-dotnet-apps-without-restarting-monitoring-comes-to-resharper/) (2026-03-31)
-- [Amper 0.10 – JDK Provisioning, a Maven Converter, Custom Compiler Plugins, and More](https://blog.jetbrains.com/amper/2026/03/amper-0-10/) (2026-03-31)
 
 </details>
 
@@ -548,44 +548,44 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/enable-branded-ca
 <details>
 <summary>🤖 AI News</summary>
 
+- [Autonomous AI systems depend on data governance](https://www.artificialintelligence-news.com/news/autonomous-ai-systems-depend-on-data-governance/) (2026-04-02)
+- [Experian uncovers fraud paradox in financial services’ AI adoption](https://www.artificialintelligence-news.com/news/experian-ai-fraud-detection-financial-services-2026/) (2026-04-02)
 - [KPMG: Inside the AI agent playbook driving enterprise margin gains](https://www.artificialintelligence-news.com/news/kpmg-inside-ai-agent-playbook-enterprise-margin-gains/) (2026-04-01)
 - [DeepL’s Borderless Business report reveals 83% of enterprises are still behind on language AI](https://www.artificialintelligence-news.com/news/deepls-borderless-business-report-reveals-83-of-enterprises-are-still-behind-on-language-ai/) (2026-04-01)
 - [Hershey applies AI across its supply chain operations](https://www.artificialintelligence-news.com/news/hershey-applies-ai-across-its-supply-chain-operations/) (2026-04-01)
-- [SAP and ANYbotics drive industrial adoption of physical AI](https://www.artificialintelligence-news.com/news/sap-and-anybotics-drive-industrial-adoption-physical-ai/) (2026-03-31)
-- [Secure governance accelerates financial AI revenue growth](https://www.artificialintelligence-news.com/news/secure-governance-accelerates-financial-ai-revenue-growth/) (2026-03-30)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Quantum Simulations with Python](https://towardsdatascience.com/quantum-simulations-with-python/) (2026-04-02)
 - [The Inversion Error: Why Safe AGI Requires an Enactive Floor and State-Space Reversibility](https://towardsdatascience.com/the-inversion-error-why-safe-agi-requires-an-enactive-floor-and-state-space-reversibility/) (2026-04-01)
 - [How Can A Model 10,000× Smaller Outsmart ChatGPT?](https://towardsdatascience.com/how-can-a-model-10000x-smaller-outsmart-chatgpt-2/) (2026-04-01)
 - [What Happens Now That AI is the First Analyst On Your Team?](https://towardsdatascience.com/what-happens-now-that-ai-is-the-first-analyst-on-your-team/) (2026-04-01)
 - [The Map of Meaning: How Embedding Models “Understand” Human Language](https://towardsdatascience.com/the-map-of-meaning-how-embedding-models-understand-human-language/) (2026-03-31)
-- [How to Make Claude Code Better at One-Shotting Implementations](https://towardsdatascience.com/how-to-make-claude-code-better-at-one-shotting-implementations/) (2026-03-31)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Claude Code Leak: 16 Lessons on Building Production-Ready AI Systems](https://www.analyticsvidhya.com/blog/2026/04/claude-code-leak-insights-for-ai-builders/) (2026-04-02)
 - [Speculative Decoding: How LLMs Generate Text 3x Faster](https://www.analyticsvidhya.com/blog/2026/04/speculative-decoding/) (2026-04-01)
 - [Qwen3.5-Omni is here! Scaling up to a Native Omni-modal AGI](https://www.analyticsvidhya.com/blog/2026/03/qwen3-5-omni-ai-model/) (2026-03-31)
 - [Fine-Tuning vs RAG vs Prompt Engineering ](https://www.analyticsvidhya.com/blog/2026/03/fine-tuning-vs-rag-vs-prompt-engineering/) (2026-03-31)
 - [Gemini 3.1 Flash Live: AI Conversations Now Feel Way More Human](https://www.analyticsvidhya.com/blog/2026/03/gemini-3-1-flash-live/) (2026-03-31)
-- [20+ Solved ML Projects to Build Your Portfolio and Boost Your Resume](https://www.analyticsvidhya.com/blog/2026/03/solved-ml-projects/) (2026-03-30)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Top 5 Agent Skill Marketplaces for Building Powerful AI Agents](https://www.kdnuggets.com/top-5-agent-skill-marketplaces-for-building-powerful-ai-agents) (2026-04-02)
 - [Build Better AI Agents with Google Antigravity Skills and Workflows](https://www.kdnuggets.com/build-better-ai-agents-with-google-antigravity-skills-and-workflows) (2026-04-01)
 - [7 Essential AI Website Builders: From Prompt to Production](https://www.kdnuggets.com/7-essential-ai-website-builders-from-prompt-to-production) (2026-04-01)
 - [The Value of a Relationship with a Cybersecurity Professional (Sponsored)](https://bit.ly/Ingram-topic-23-kdn-website#new_tab) (2026-03-31)
 - [Zero Budget, Full Stack: Building with Only Free LLMs](https://www.kdnuggets.com/zero-budget-full-stack-building-with-only-free-llms) (2026-03-31)
-- [5 Useful Python Scripts for Effective Feature Selection](https://www.kdnuggets.com/5-useful-python-scripts-for-effective-feature-selection) (2026-03-30)
 
 </details>
 
