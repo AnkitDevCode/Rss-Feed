@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [NASA astronauts prove that sending an email really is rocket science](https://techcrunch.com/2026/04/02/nasa-artemis-microsoft-outlook-astronauts/) (2026-04-02)
-- [Microsoft takes on AI rivals with three new foundational models](https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/) (2026-04-02)
-- [Money transfer app Duc exposed thousands of driver’s licenses and passports to the open web](https://techcrunch.com/2026/04/02/canadian-money-transfer-app-duc-expose-drivers-licenses-passports-amazon-server/) (2026-04-02)
-- [Google now lets you direct avatars through prompts in its Vids app](https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/) (2026-04-02)
-- [ICE says it bought Paragon’s spyware to use in drug trafficking cases](https://techcrunch.com/2026/04/02/ice-says-it-bought-paragons-spyware-to-use-in-drug-trafficking-cases/) (2026-04-02)
+- [Amazon hits sellers with ‘fuel surcharge’ as Iran war roils global energy markets](https://techcrunch.com/2026/04/02/amazon-hits-sellers-with-fuel-surcharge-as-iran-war-roils-global-energy-markets/) (2026-04-02)
+- [Telehealth giant Hims & Hers says its customer support system was hacked](https://techcrunch.com/2026/04/02/telehealth-giant-hims-hers-says-its-customer-support-system-was-hacked/) (2026-04-02)
+- [Artemis II is NASA’s last moon mission without Silicon Valley ](https://techcrunch.com/2026/04/02/artemis-ii-is-nasas-last-moon-mission-without-silicon-valley/) (2026-04-02)
+- [Gateway Capital announces first close of $25M Fund II](https://techcrunch.com/2026/04/02/gateway-capital-dana-guthrie-milwaukee-first-close-fund-ii/) (2026-04-02)
+- [OpenAI acquires TBPN, the buzzy founder-led business talk show](https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/) (2026-04-02)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Ask HN: European Tech Alternatives?](https://news.ycombinator.com/item?id=47618324) (2026-04-02)
-- [Tailscale's New macOS Home](https://tailscale.com/blog/macos-notch-escape) (2026-04-02)
-- [George Goble died recently – known for first dual-CPU-Unix and fast BBQ lighting](https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779) (2026-04-02)
-- [Hugo's New CSS Powers](https://www.brycewray.com/posts/2026/04/hugos-new-css-powers/) (2026-04-02)
-- [Cursor 3](https://cursor.com/blog/cursor-3) (2026-04-02)
+- [Post Mortem: axios NPM supply chain compromise](https://github.com/axios/axios/issues/10636) (2026-04-03)
+- [Tor Alva: The Tallest 3D-Printed Building in the World](https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/) (2026-04-02)
+- [A Few Good Magazines From the 70s and 80s](https://www.bi6.us/CO/MG.HTML) (2026-04-02)
+- [Show HN: Made a little Artemis II tracker](https://artemis-ii-tracker.com/) (2026-04-02)
+- [Memo: A language that remembers only the last 12 lines of code](https://danieltemkin.com/Esolangs/Memo/) (2026-04-02)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Five questions for the guys who made a compass that points to the Times Square Olive Garden](https://www.theverge.com/gadgets/905977/five-questions-for-the-guys-who-made-a-compass-that-points-to-the-times-square-olive-garden) (2026-04-02)
-- [Elon Musk is about to be a very busy boy!](https://www.theverge.com/tech/906027/elon-musk-lawsuit-ipo-spacex-tesla) (2026-04-02)
-- [OpenAI just bought TBPN](https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn) (2026-04-02)
-- [Verge subscribers: Join us for a movie night in New York City, hosted by The Vergecast](https://www.theverge.com/podcast/905524/vergecast-subscribers-movie-night) (2026-04-02)
-- [Hisense’s art-inspired CanvasTV has hit a new low price](https://www.theverge.com/gadgets/905964/hisense-canvastv-deal-sale) (2026-04-02)
+- [AO3 is finally out of beta after 17 years](https://www.theverge.com/tech/906346/ao3-archive-of-our-own-beta-exit) (2026-04-02)
+- [PSA: Anyone with a link can view your Granola notes by default](https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa) (2026-04-02)
+- [Reddit is moving on from r/all](https://www.theverge.com/tech/906314/reddit-r-all-deprecating) (2026-04-02)
+- [The best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals) (2026-04-02)
+- [This bike rack pioneer is selling Bluetooth suction cups to stick bikes to your car](https://www.theverge.com/gadgets/906076/allen-smart-suction-go-bike-rack) (2026-04-02)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Google announces Gemma 4 open AI models, switches to Apache 2.0 license](https://arstechnica.com/ai/2026/04/google-announces-gemma-4-open-ai-models-switches-to-apache-2-0-license/) (2026-04-02)
-- [This Ford is the quickest production car at the Nürburgring, ever](https://arstechnica.com/cars/2026/04/a-production-ford-sets-third-fastest-time-ever-at-the-nurburgring/) (2026-04-02)
-- [Anthropic says its leak-focused DMCA effort unintentionally hit legit GitHub forks](https://arstechnica.com/ai/2026/04/anthropic-says-its-leak-focused-dmca-effort-unintentionally-hit-legit-github-forks/) (2026-04-02)
-- [Why is NASA bothering to go back to the Moon if we've already been there?](https://arstechnica.com/space/2026/04/artemis-ii-is-unlikely-to-be-the-cultural-touchstone-apollo-8-was-and-thats-ok/) (2026-04-02)
-- [Tesla sales grew by 6% in Q1, but company has an overproduction problem](https://arstechnica.com/cars/2026/04/tesla-sales-grew-by-6-in-q1-but-company-has-an-overproduction-problem/) (2026-04-02)
+- [Perplexity's "Incognito Mode" is a "sham," lawsuit says](https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/) (2026-04-02)
+- [SpaceX tries to convince FCC that Amazon put satellites into wrong altitude](https://arstechnica.com/tech-policy/2026/04/spacex-claims-amazon-leo-launches-could-crash-into-starlink-satellites/) (2026-04-02)
+- [Google Vids gets AI upgrade with Veo and Lyria models, directable AI avatars](https://arstechnica.com/ai/2026/04/google-vids-gets-ai-upgrade-with-veo-and-lyria-models-directable-ai-avatars/) (2026-04-02)
+- [Male octopuses guided through mating by female hormones](https://arstechnica.com/science/2026/04/male-octopuses-guided-through-mating-by-female-hormones/) (2026-04-02)
+- [New fossil deposits show complex animal groups predating the Cambrian](https://arstechnica.com/science/2026/04/new-fossil-deposits-show-complex-animal-groups-predating-the-cambrian/) (2026-04-02)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building HIPAA-Compliant Software for Dental Practices: What Developers Need to Know](https://dev.to/joegellatly/building-hipaa-compliant-software-for-dental-practices-what-developers-need-to-know-5719) (2026-04-02)
-- [NPoco vs UkrGuru.Sql: When Streaming Beats Buffering](https://dev.to/ukrguru/npoco-vs-ukrgurusql-when-streaming-beats-buffering-1kbd) (2026-04-02)
-- [Why Your React Data Tables Are a Bloated Mess (And How to Automate Them)](https://dev.to/jacksonkasi/why-your-react-data-tables-are-a-bloated-mess-and-how-to-automate-them-54o9) (2026-04-02)
-- [What Building AI Projects Taught Me Beyond the Prototype](https://dev.to/aviralgarg05/what-building-ai-projects-taught-me-beyond-the-prototype-3ffj) (2026-04-02)
-- [The Autonomy Spectrum: Where Does Your Agent Actually Sit?](https://dev.to/the_bookmaster/the-autonomy-spectrum-where-does-your-agent-actually-sit-1i79) (2026-04-02)
+- [How to Parse HL7 Messages with AI — Free MCP Server](https://dev.to/nyxtoolsdev/how-to-parse-hl7-messages-with-ai-free-mcp-server-54mm) (2026-04-03)
+- [GHSA-QCC3-JQWP-5VH2: GHSA-qcc3-jqwp-5vh2: Unauthenticated Resource Exhaustion via LINE Webhook Handler in OpenClaw](https://dev.to/cverports/ghsa-qcc3-jqwp-5vh2-ghsa-qcc3-jqwp-5vh2-unauthenticated-resource-exhaustion-via-line-webhook-3lfn) (2026-04-03)
+- [How to Hyper-Personalization in Action: From Story Angle to Ranked Media List in Minutes](https://dev.to/ken_deng_ai/how-to-hyper-personalization-in-action-from-story-angle-to-ranked-media-list-in-minutes-fc4) (2026-04-03)
+- [How to Scrape DoorDash, Uber Eats, and Grubhub Menu Data in 2026](https://dev.to/vhub_systems_ed5641f65d59/how-to-scrape-doordash-uber-eats-and-grubhub-menu-data-in-2026-oo) (2026-04-03)
+- [Reverse Engineering Cloudflare's React-Based Bot Detection in 2026](https://dev.to/vhub_systems_ed5641f65d59/reverse-engineering-cloudflares-react-based-bot-detection-in-2026-5hl9) (2026-04-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Beyond the Basics: Crafting Stellar Rust API Documentation with rustdoc ✍️](https://medium.com/@puneetpm/beyond-the-basics-crafting-stellar-rust-api-documentation-with-rustdoc-%EF%B8%8F-cdeefcc8d98c?source=rss------programming-5) (2026-04-02)
-- [My Manager Asked for “One Small Feature.”](https://blog.stackademic.com/my-manager-asked-for-one-small-feature-9764daaffe9f?source=rss------programming-5) (2026-04-02)
-- [From Forgotten SOL to Real Value: My Experience Using RefundYourSOL](https://medium.com/@adebanjodamilaresolomon/from-forgotten-sol-to-real-value-my-experience-using-refundyoursol-254610f3df0a?source=rss------programming-5) (2026-04-02)
-- [I Got Rejected for “Not Enough Experience.” The Job? Maintaining Code I Wrote 3 Years Ago](https://medium.com/lets-code-future/i-got-rejected-for-not-enough-experience-the-job-maintaining-code-i-wrote-3-years-ago-c4b732a37c27?source=rss------programming-5) (2026-04-02)
-- [Every System Has a Single Point of Failure — Most Teams Just Have Not Found It Yet](https://medium.com/@tihomir.manushev/every-system-has-a-single-point-of-failure-most-teams-just-have-not-found-it-yet-175675e472dd?source=rss------programming-5) (2026-04-02)
+- [The 8 Mistakes That Kill AI Projects (And the System That Fixes All of Them)](https://medium.com/@matt_88850/the-8-mistakes-that-kill-ai-projects-and-the-system-that-fixes-all-of-them-a0f2ca642f0d?source=rss------programming-5) (2026-04-03)
+- [Python series 3](https://medium.com/@Commoness/python-series-3-2535275533f0?source=rss------programming-5) (2026-04-03)
+- [11 Python "Magic Tricks" Even Senior Devs Miss (Steal These for Cleaner, Faster Code)](https://python.plainenglish.io/11-python-magic-tricks-even-senior-devs-miss-steal-these-for-cleaner-faster-code-96a6ed53fd98?source=rss------programming-5) (2026-04-03)
+- [Bridging Python and C++ a Little More Cleanly with NumPy .npy Files](https://medium.com/@james.mrad/bridging-python-and-c-a-little-more-cleanly-with-numpy-npy-files-28e8ae989551?source=rss------programming-5) (2026-04-03)
+- [Understanding this and super Keywords in Java (With Examples)](https://medium.com/@sunil17bbmp/understanding-this-and-super-keywords-in-java-with-examples-da1fd0233d96?source=rss------programming-5) (2026-04-03)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Azure IaaS: Keep critical applications running with built-in resiliency at scale](https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/) (2026-04-01)
-- [Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver Azure Local on Galleon modular datacenters](https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/) (2026-03-31)
-- [Navigating digital sovereignty at the frontier of transformation](https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/25/navigating-digital-sovereignty-at-the-frontier-of-transformation/) (2026-03-30)
-- [Microsoft named a Leader in 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2026-gartner-magic-quadrant-for-integration-platform-as-a-service/) (2026-03-30)
 - [AI for nuclear energy: Powering an intelligent, resilient future](https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/) (2026-03-25)
+- [What’s new with Microsoft in open-source and Kubernetes at KubeCon + CloudNativeCon Europe 2026](https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/) (2026-03-24)
+- [Advancing agentic AI with Microsoft databases across a unified data estate](https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/) (2026-03-18)
+- [FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/) (2026-03-18)
+- [Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI](https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/) (2026-03-16)
 
 </details>
 
@@ -251,11 +251,11 @@
 <details>
 <summary>👥 Facebook Engineering</summary>
 
+- [KernelEvolve: How Meta’s Ranking Engineer Agent Optimizes AI Infrastructure](https://engineering.fb.com/2026/04/02/developer-tools/kernelevolve-how-metas-ranking-engineer-agent-optimizes-ai-infrastructure/) (2026-04-02)
 - [Meta Adaptive Ranking Model: Bending the Inference Scaling Curve to Serve LLM-Scale Models for Ads](https://engineering.fb.com/2026/03/31/ml-applications/meta-adaptive-ranking-model-bending-the-inference-scaling-curve-to-serve-llm-scale-models-for-ads/) (2026-03-31)
 - [AI for American-Produced Cement and Concrete](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/) (2026-03-30)
 - [Friend Bubbles: Enhancing Social Discovery on Facebook Reels](https://engineering.fb.com/2026/03/18/ml-applications/friend-bubbles-enhancing-social-discovery-on-facebook-reels/) (2026-03-18)
 - [Ranking Engineer Agent (REA): The Autonomous AI Agent Accelerating Meta’s Ads Ranking Innovation](https://engineering.fb.com/2026/03/17/developer-tools/ranking-engineer-agent-rea-autonomous-ai-system-accelerating-meta-ads-ranking-innovation/) (2026-03-17)
-- [Patch Me If You Can: AI Codemods for Secure-by-Default Android Apps](https://engineering.fb.com/2026/03/13/android/ai-codemods-secure-by-default-android-apps-meta-tech-podcast/) (2026-03-13)
 
 </details>
 
@@ -367,14 +367,14 @@ How to create a promotional campaign with RCS and SendGrid in C#
 https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-create-promotional-rcs-sendgrid-in-csharp
 ) (2026-03-31)
 - [
-Getting Started with Podman Quadlets
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/building-blocks/getting-started-with-podman-quadlets
-) (2026-03-31)
-- [
 March 2026 Fraud Update: AIT Tactics, Weaponized Trust, and a New Fraud Response Guide
 ](
 https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update-march-2026
+) (2026-03-31)
+- [
+Getting Started with Podman Quadlets
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/building-blocks/getting-started-with-podman-quadlets
 ) (2026-03-31)
 - [
 How to Bring Your Own Keys for Okta Telephony with Twilio Verify
