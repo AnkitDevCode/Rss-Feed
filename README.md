@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Pentagon Pete's Bigoted Reason for Firing Top General Leaks](https://www.thedailybeast.com/pentagon-petes-bigoted-reason-for-firing-top-general-randy-george-leaks/) (2026-04-03)
+- [A Rave Review of Superpowers (For Claude Code)](https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/) (2026-04-03)
 - [Post Mortem: axios NPM supply chain compromise](https://github.com/axios/axios/issues/10636) (2026-04-03)
 - [Tor Alva: The Tallest 3D-Printed Building in the World](https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/) (2026-04-02)
 - [A Few Good Magazines From the 70s and 80s](https://www.bi6.us/CO/MG.HTML) (2026-04-02)
-- [Show HN: Made a little Artemis II tracker](https://artemis-ii-tracker.com/) (2026-04-02)
-- [Memo: A language that remembers only the last 12 lines of code](https://danieltemkin.com/Esolangs/Memo/) (2026-04-02)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Four astronauts are now inexorably bound for the Moon](https://arstechnica.com/space/2026/04/four-astronauts-are-now-inexorably-bound-for-the-moon/) (2026-04-03)
 - [Perplexity's "Incognito Mode" is a "sham," lawsuit says](https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/) (2026-04-02)
 - [SpaceX tries to convince FCC that Amazon put satellites into wrong altitude](https://arstechnica.com/tech-policy/2026/04/spacex-claims-amazon-leo-launches-could-crash-into-starlink-satellites/) (2026-04-02)
 - [Google Vids gets AI upgrade with Veo and Lyria models, directable AI avatars](https://arstechnica.com/ai/2026/04/google-vids-gets-ai-upgrade-with-veo-and-lyria-models-directable-ai-avatars/) (2026-04-02)
 - [Male octopuses guided through mating by female hormones](https://arstechnica.com/science/2026/04/male-octopuses-guided-through-mating-by-female-hormones/) (2026-04-02)
-- [New fossil deposits show complex animal groups predating the Cambrian](https://arstechnica.com/science/2026/04/new-fossil-deposits-show-complex-animal-groups-predating-the-cambrian/) (2026-04-02)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Seizing the means of messenger production](https://stackoverflow.blog/2026/04/03/seizing-the-means-of-messenger-production/) (2026-04-03)
 - [What the AI trust gap means for enterprise SaaS](https://stackoverflow.blog/2026/04/02/what-the-ai-trust-gap-means-for-enterprise-saas/) (2026-04-02)
 - [How can you test your code when you don’t know what’s in it?](https://stackoverflow.blog/2026/03/31/how-can-you-test-your-code-when-you-don-t-know-what-s-in-it/) (2026-03-31)
 - [Prevent agentic identity theft](https://stackoverflow.blog/2026/03/27/prevent-agentic-identity-theft/) (2026-03-27)
 - [Building shared coding guidelines for AI (and people too)](https://stackoverflow.blog/2026/03/26/coding-guidelines-for-ai-agents-and-people-too/) (2026-03-26)
-- [Multi-stage attacks are the Final Fantasy bosses of security](https://stackoverflow.blog/2026/03/24/multi-stage-attacks-are-the-final-fantasy-bosses-of-security/) (2026-03-24)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How to Parse HL7 Messages with AI — Free MCP Server](https://dev.to/nyxtoolsdev/how-to-parse-hl7-messages-with-ai-free-mcp-server-54mm) (2026-04-03)
-- [GHSA-QCC3-JQWP-5VH2: GHSA-qcc3-jqwp-5vh2: Unauthenticated Resource Exhaustion via LINE Webhook Handler in OpenClaw](https://dev.to/cverports/ghsa-qcc3-jqwp-5vh2-ghsa-qcc3-jqwp-5vh2-unauthenticated-resource-exhaustion-via-line-webhook-3lfn) (2026-04-03)
-- [How to Hyper-Personalization in Action: From Story Angle to Ranked Media List in Minutes](https://dev.to/ken_deng_ai/how-to-hyper-personalization-in-action-from-story-angle-to-ranked-media-list-in-minutes-fc4) (2026-04-03)
-- [How to Scrape DoorDash, Uber Eats, and Grubhub Menu Data in 2026](https://dev.to/vhub_systems_ed5641f65d59/how-to-scrape-doordash-uber-eats-and-grubhub-menu-data-in-2026-oo) (2026-04-03)
-- [Reverse Engineering Cloudflare's React-Based Bot Detection in 2026](https://dev.to/vhub_systems_ed5641f65d59/reverse-engineering-cloudflares-react-based-bot-detection-in-2026-5hl9) (2026-04-03)
+- [I spent 6 months building a Chrome extension with Vue 3 and Shadow DOM -- here are the hard parts](https://dev.to/cs_alishopping/i-spent-6-months-building-a-chrome-extension-with-vue-3-and-shadow-dom-here-are-the-hard-parts-p2m) (2026-04-03)
+- [Angular 22's New Built-in Debounce for Async Validation Explained](https://dev.to/brianmtreese/angular-22s-new-built-in-debounce-for-async-validation-explained-j9k) (2026-04-03)
+- [Azure ML Workspace with Terraform: Your ML Platform on Azure 🔬](https://dev.to/suhas_mallesh/azure-ml-workspace-with-terraform-your-ml-platform-on-azure-44ko) (2026-04-03)
+- [Is Railway Reliable for Next.js in 2026?](https://dev.to/stackandsails/railway-reliable-for-nextjs-2026-2g12) (2026-04-03)
+- [# 🚀 How Large Language Models (LLMs) Actually Work (With Diagrams + Code)](https://dev.to/mansi_sarraf_70d5d5055b13/-how-large-language-models-llms-actually-work-with-diagrams-code-2hoj) (2026-04-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The 8 Mistakes That Kill AI Projects (And the System That Fixes All of Them)](https://medium.com/@matt_88850/the-8-mistakes-that-kill-ai-projects-and-the-system-that-fixes-all-of-them-a0f2ca642f0d?source=rss------programming-5) (2026-04-03)
-- [Python series 3](https://medium.com/@Commoness/python-series-3-2535275533f0?source=rss------programming-5) (2026-04-03)
-- [11 Python "Magic Tricks" Even Senior Devs Miss (Steal These for Cleaner, Faster Code)](https://python.plainenglish.io/11-python-magic-tricks-even-senior-devs-miss-steal-these-for-cleaner-faster-code-96a6ed53fd98?source=rss------programming-5) (2026-04-03)
-- [Bridging Python and C++ a Little More Cleanly with NumPy .npy Files](https://medium.com/@james.mrad/bridging-python-and-c-a-little-more-cleanly-with-numpy-npy-files-28e8ae989551?source=rss------programming-5) (2026-04-03)
-- [Understanding this and super Keywords in Java (With Examples)](https://medium.com/@sunil17bbmp/understanding-this-and-super-keywords-in-java-with-examples-da1fd0233d96?source=rss------programming-5) (2026-04-03)
+- [5 Python Libraries That Made Me Question My Old Code](https://levelup.gitconnected.com/5-python-libraries-that-made-me-question-my-old-code-033e9ff9ffec?source=rss------programming-5) (2026-04-03)
+- [⚠️ Your Code Is Now Training GitHub Copilot by Default — What You Need to Know](https://medium.com/@SuyashWiki/%EF%B8%8F-your-code-is-now-training-github-copilot-by-default-what-you-need-to-know-23d5880d27ca?source=rss------programming-5) (2026-04-03)
+- [8 Python Libraries I Only Understood After Real Projects](https://levelup.gitconnected.com/8-python-libraries-i-only-understood-after-real-projects-1570e735afa5?source=rss------programming-5) (2026-04-03)
+- [Making a Reigns-like game with React](https://medium.com/@dimterion/making-a-reigns-like-game-with-react-1b306a49b308?source=rss------programming-5) (2026-04-03)
+- [P vs NP: The Million-Dollar Computer Science Problem That Could Change Everything](https://medium.com/@sovannaro/p-vs-np-the-million-dollar-computer-science-problem-that-could-change-everything-23eb254cc2d7?source=rss------programming-5) (2026-04-03)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Azure IaaS: Keep critical applications running with built-in resiliency at scale](https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/) (2026-04-01)
+- [Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver Azure Local on Galleon modular datacenters](https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/) (2026-03-31)
+- [Navigating digital sovereignty at the frontier of transformation](https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/25/navigating-digital-sovereignty-at-the-frontier-of-transformation/) (2026-03-30)
+- [Microsoft named a Leader in 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2026-gartner-magic-quadrant-for-integration-platform-as-a-service/) (2026-03-30)
 - [AI for nuclear energy: Powering an intelligent, resilient future](https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/) (2026-03-25)
-- [What’s new with Microsoft in open-source and Kubernetes at KubeCon + CloudNativeCon Europe 2026](https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/) (2026-03-24)
-- [Advancing agentic AI with Microsoft databases across a unified data estate](https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/) (2026-03-18)
-- [FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/) (2026-03-18)
-- [Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI](https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/) (2026-03-16)
 
 </details>
 
@@ -367,14 +367,14 @@ How to create a promotional campaign with RCS and SendGrid in C#
 https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-create-promotional-rcs-sendgrid-in-csharp
 ) (2026-03-31)
 - [
-March 2026 Fraud Update: AIT Tactics, Weaponized Trust, and a New Fraud Response Guide
-](
-https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update-march-2026
-) (2026-03-31)
-- [
 Getting Started with Podman Quadlets
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/building-blocks/getting-started-with-podman-quadlets
+) (2026-03-31)
+- [
+March 2026 Fraud Update: AIT Tactics, Weaponized Trust, and a New Fraud Response Guide
+](
+https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update-march-2026
 ) (2026-03-31)
 - [
 How to Bring Your Own Keys for Okta Telephony with Twilio Verify
