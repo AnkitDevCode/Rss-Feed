@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Pentagon Pete's Bigoted Reason for Firing Top General Leaks](https://www.thedailybeast.com/pentagon-petes-bigoted-reason-for-firing-top-general-randy-george-leaks/) (2026-04-03)
-- [A Rave Review of Superpowers (For Claude Code)](https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/) (2026-04-03)
-- [Post Mortem: axios NPM supply chain compromise](https://github.com/axios/axios/issues/10636) (2026-04-03)
-- [Tor Alva: The Tallest 3D-Printed Building in the World](https://cacm.acm.org/blogcacm/tor-alva-the-tallest-3d-printed-building-in-the-world/) (2026-04-02)
-- [A Few Good Magazines From the 70s and 80s](https://www.bi6.us/CO/MG.HTML) (2026-04-02)
+- [Show HN: I built a frontpage for personal blogs](https://text.blogosphere.app/) (2026-04-03)
+- [Lower Price for ChatGPT Business](https://help.openai.com/en/articles/8792828-what-is-chatgpt-business) (2026-04-03)
+- [TDF ejects its core developers](https://meeksfamily.uk/~michael/blog/2026-04-02-tdf-ejects-core-devs.html) (2026-04-03)
+- [H.264 Streaming Fees: What Changed, Who's Affected, and What It Means](https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=173935) (2026-04-03)
+- [Bun: cgroup-aware AvailableParallelism / HardwareConcurrency on Linux](https://github.com/oven-sh/bun/pull/28801) (2026-04-03)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Apple’s best product ever](https://www.theverge.com/podcast/906548/best-apple-product-vergecast) (2026-04-03)
+- [Chatbots are now prescribing psychiatric drugs](https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs) (2026-04-03)
 - [AO3 is finally out of beta after 17 years](https://www.theverge.com/tech/906346/ao3-archive-of-our-own-beta-exit) (2026-04-02)
 - [PSA: Anyone with a link can view your Granola notes by default](https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa) (2026-04-02)
 - [Reddit is moving on from r/all](https://www.theverge.com/tech/906314/reddit-r-all-deprecating) (2026-04-02)
-- [The best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals) (2026-04-02)
-- [This bike rack pioneer is selling Bluetooth suction cups to stick bikes to your car](https://www.theverge.com/gadgets/906076/allen-smart-suction-go-bike-rack) (2026-04-02)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I spent 6 months building a Chrome extension with Vue 3 and Shadow DOM -- here are the hard parts](https://dev.to/cs_alishopping/i-spent-6-months-building-a-chrome-extension-with-vue-3-and-shadow-dom-here-are-the-hard-parts-p2m) (2026-04-03)
-- [Angular 22's New Built-in Debounce for Async Validation Explained](https://dev.to/brianmtreese/angular-22s-new-built-in-debounce-for-async-validation-explained-j9k) (2026-04-03)
-- [Azure ML Workspace with Terraform: Your ML Platform on Azure 🔬](https://dev.to/suhas_mallesh/azure-ml-workspace-with-terraform-your-ml-platform-on-azure-44ko) (2026-04-03)
-- [Is Railway Reliable for Next.js in 2026?](https://dev.to/stackandsails/railway-reliable-for-nextjs-2026-2g12) (2026-04-03)
-- [# 🚀 How Large Language Models (LLMs) Actually Work (With Diagrams + Code)](https://dev.to/mansi_sarraf_70d5d5055b13/-how-large-language-models-llms-actually-work-with-diagrams-code-2hoj) (2026-04-03)
+- [This Week In React #275 : ⚛️ Next.js, TanStack RSC, React Compiler | 📱 ExecuTorch, Unistyles| 🔀 Pretext, Axios, Node](https://dev.to/sebastienlorber/this-week-in-react-275-nextjs-tanstack-rsc-react-compiler-executorch-unistyles-12ni) (2026-04-03)
+- [Building a Multi-Generation Pedigree Tree in PostgreSQL](https://dev.to/dusttoo/building-a-multi-generation-pedigree-tree-in-postgresql-288) (2026-04-03)
+- [Understanding Snipp's Rising Stock in Mobile Markets](https://dev.to/venere_e6d0f9ddc1ac/understanding-snipps-rising-stock-in-mobile-markets-2k5e) (2026-04-03)
+- [When Signals Break, Systems Still Run — But Meaning Starts to Drift](https://dev.to/shikharjha/when-signals-break-systems-still-run-but-meaning-starts-to-drift-5epp) (2026-04-03)
+- [Why Hard Work Feels Pointless When Time Layers Get Mixed](https://dev.to/ranjitshah79/why-hard-work-feels-pointless-when-time-layers-get-mixed-17i1) (2026-04-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [5 Python Libraries That Made Me Question My Old Code](https://levelup.gitconnected.com/5-python-libraries-that-made-me-question-my-old-code-033e9ff9ffec?source=rss------programming-5) (2026-04-03)
-- [⚠️ Your Code Is Now Training GitHub Copilot by Default — What You Need to Know](https://medium.com/@SuyashWiki/%EF%B8%8F-your-code-is-now-training-github-copilot-by-default-what-you-need-to-know-23d5880d27ca?source=rss------programming-5) (2026-04-03)
-- [8 Python Libraries I Only Understood After Real Projects](https://levelup.gitconnected.com/8-python-libraries-i-only-understood-after-real-projects-1570e735afa5?source=rss------programming-5) (2026-04-03)
-- [Making a Reigns-like game with React](https://medium.com/@dimterion/making-a-reigns-like-game-with-react-1b306a49b308?source=rss------programming-5) (2026-04-03)
-- [P vs NP: The Million-Dollar Computer Science Problem That Could Change Everything](https://medium.com/@sovannaro/p-vs-np-the-million-dollar-computer-science-problem-that-could-change-everything-23eb254cc2d7?source=rss------programming-5) (2026-04-03)
+- [Real Estate ki Asli Power – Price Appreciation Live Example ](https://medium.com/@yogeshnagar_83290/real-estate-ki-asli-power-price-appreciation-live-example-e2ff6fe60b31?source=rss------programming-5) (2026-04-03)
+- [AI Just Hit a Wall Nobody Can See. Let’s Cut the BS with Maths](https://ai.gopubby.com/ai-just-hit-a-wall-nobody-can-see-lets-cut-the-bs-with-maths-c3796569f785?source=rss------programming-5) (2026-04-03)
+- [Bagaimana Karir Saya Hampir Hancur Gara-Gara Memperbarui Versi Axios.](https://medium.com/@alxbdf13/bagaimana-karir-saya-hampir-hancur-gara-gara-memperbarui-versi-axios-ca5f66e37506?source=rss------programming-5) (2026-04-03)
+- [Securing AI Agents at Scale: Microsoft’s New End-to-End Security Architecture.](https://blog.stackademic.com/securing-ai-agents-at-scale-microsofts-new-end-to-end-security-architecture-603e3ffefe02?source=rss------programming-5) (2026-04-03)
+- [Plugin Architecture in Spring Boot Without a Framework](https://medium.com/all-things-software/plugin-architecture-in-spring-boot-without-a-framework-8b8768f05533?source=rss------programming-5) (2026-04-03)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Azure IaaS: Keep critical applications running with built-in resiliency at scale](https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/) (2026-04-01)
-- [Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver Azure Local on Galleon modular datacenters](https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/) (2026-03-31)
-- [Navigating digital sovereignty at the frontier of transformation](https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/25/navigating-digital-sovereignty-at-the-frontier-of-transformation/) (2026-03-30)
-- [Microsoft named a Leader in 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2026-gartner-magic-quadrant-for-integration-platform-as-a-service/) (2026-03-30)
 - [AI for nuclear energy: Powering an intelligent, resilient future](https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/) (2026-03-25)
+- [What’s new with Microsoft in open-source and Kubernetes at KubeCon + CloudNativeCon Europe 2026](https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/) (2026-03-24)
+- [Advancing agentic AI with Microsoft databases across a unified data estate](https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/) (2026-03-18)
+- [FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/) (2026-03-18)
+- [Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI](https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/) (2026-03-16)
 
 </details>
 
@@ -494,11 +494,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/enable-branded-ca
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slackbot Just Became Your Ultimate Teammate in the New Interface for Work](https://slack.com/blog/news/agent-orchestration) (2026-03-31)
+- [Building an Agent-First Workspace in Slack](https://slack.com/blog/news/agent-first-workspace-slack) (2026-03-31)
+- [What Is Customer Management, and How Slack CRM Can Help](https://slack.com/blog/crm/customer-management) (2026-03-31)
+- [What Is Contact Management? How Slack CRM Supports It](https://slack.com/blog/crm/contact-management) (2026-03-31)
 - [Slack Feature Drop: Your Productivity is Springing Forward](https://slack.com/blog/news/feature-drop-march2026) (2026-03-27)
-- [Slack vs. Microsoft Teams: Key Differences for Modern Teams](https://slack.com/blog/compare/slack-vs-microsoft-teams) (2026-03-23)
-- [Unlocking the Power of Conversation: How Slack’s New Platform is Fueling the Agentic Era](https://slack.com/blog/news/powering-agentic-collaboration) (2026-03-13)
-- [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-03-13)
-- [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-03-13)
 
 </details>
 
@@ -560,11 +560,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/enable-branded-ca
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [I Replaced Vector DBs with Google’s Memory Agent Pattern for my notes in Obsidian](https://towardsdatascience.com/i-replaced-vector-dbs-with-googles-memory-agent-pattern-for-my-notes-in-obsidian/) (2026-04-03)
 - [Linear Regression Is Actually a Projection Problem (Part 2: From Projections to Predictions)](https://towardsdatascience.com/linear-regression-is-actually-a-projection-problem-part-2-from-projections-to-predictions/) (2026-04-02)
 - [How to Handle Classical Data in Quantum Models](https://towardsdatascience.com/how-to-handle-classical-data-in-quantum-models/) (2026-04-02)
 - [Quantum Simulations with Python](https://towardsdatascience.com/quantum-simulations-with-python/) (2026-04-02)
 - [The Inversion Error: Why Safe AGI Requires an Enactive Floor and State-Space Reversibility](https://towardsdatascience.com/the-inversion-error-why-safe-agi-requires-an-enactive-floor-and-state-space-reversibility/) (2026-04-01)
-- [How Can A Model 10,000× Smaller Outsmart ChatGPT?](https://towardsdatascience.com/how-can-a-model-10000x-smaller-outsmart-chatgpt-2/) (2026-04-01)
 
 </details>
 
@@ -582,11 +582,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/enable-branded-ca
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Useful Docker Containers for Agentic Developers](https://www.kdnuggets.com/5-useful-docker-containers-for-agentic-developers) (2026-04-03)
 - [“Just in Time” World Modeling Supports Human Planning and Reasoning](https://www.kdnuggets.com/just-in-time-world-modeling-supports-human-planning-and-reasoning) (2026-04-02)
 - [LLMOps in 2026: The 10 Tools Every Team Must Have](https://www.kdnuggets.com/llmops-in-2026-the-10-tools-every-team-must-have) (2026-04-02)
 - [Top 5 Agent Skill Marketplaces for Building Powerful AI Agents](https://www.kdnuggets.com/top-5-agent-skill-marketplaces-for-building-powerful-ai-agents) (2026-04-02)
 - [Build Better AI Agents with Google Antigravity Skills and Workflows](https://www.kdnuggets.com/build-better-ai-agents-with-google-antigravity-skills-and-workflows) (2026-04-01)
-- [7 Essential AI Website Builders: From Prompt to Production](https://www.kdnuggets.com/7-essential-ai-website-builders-from-prompt-to-production) (2026-04-01)
 
 </details>
 
