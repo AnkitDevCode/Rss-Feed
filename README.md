@@ -31,22 +31,22 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Emotion concepts and their function in a large language model](https://www.anthropic.com/research/emotion-concepts-function) (2026-04-04)
+- [Mbodi AI (YC P25) Is Hiring](https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls) (2026-04-04)
+- [The CMS is dead. Long live the CMS](https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms) (2026-04-04)
+- [Apple: Embarrassingly Simple Self-Distillation Improves Code Generation](https://arxiv.org/abs/2604.01193) (2026-04-04)
+- [Some Unusual Trees](https://thoughts.wyounas.com/p/some-unusual-trees) (2026-04-04)
 - [Scientists are working on "everything vaccines"](https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines) (2026-04-04)
-- [Naming rights to street auctioned in San Francisco](https://paintastreet.com/auction) (2026-04-04)
-- [Delve sets the record straight on anonymous attacks](https://delve.co/blog/delve-sets-the-record-straight-on-anonymous-attacks) (2026-04-04)
-- [Gold overtakes U.S. Treasuries as the largest foreign reserve asset](https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr) (2026-04-04)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Super Meat Boy 3D makes suffering fun](https://www.theverge.com/games/904202/super-meat-boy-3d-review) (2026-04-04)
+- [The app for tracking TV, movies, podcasts, and everything](https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer) (2026-04-04)
+- [Anker’s Nebula P1 projector is the portable sound king](https://www.theverge.com/reviews/906455/anker-nebula-p1-review-vanlife-sound-champ) (2026-04-04)
 - [Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra](https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban) (2026-04-03)
 - [NASA did eventually solve Artemis II&#8217;s Outlook glitch](https://www.theverge.com/science/906988/nasa-artemis-ii-microsoft-outlook-issue-fixed) (2026-04-03)
-- [OpenAI’s AGI boss is taking a leave of absence](https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence) (2026-04-03)
-- [Lenovo Legion Go 2 suddenly costs $650 more as RAMageddon lays waste to gaming hardware](https://www.theverge.com/games/906752/lenovo-legion-go-2-suddenly-costs-650-more-as-ramageddon-lays-waste-to-gaming-hardware) (2026-04-03)
-- [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple) (2026-04-03)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [VonCMS v1.22 Preview](https://dev.to/vondereich/voncms-v122-preview-55ae) (2026-04-04)
-- [Cursor vs Claude Code vs GitHub Copilot — Which AI Coding Tool Is Actually Worth It?](https://dev.to/tyson_cung/cursor-vs-claude-code-vs-github-copilot-which-ai-coding-tool-is-actually-worth-it-4p78) (2026-04-04)
-- [What is a Function? Simple Explanation with Examples](https://dev.to/subash_4870e66d76ac024544/what-is-a-function-simple-explanation-with-examples-2f50) (2026-04-04)
-- [5 Critical Failures We Hit Shipping a Multi-Tenant RAG Chatbot to 500+ Enterprises](https://dev.to/ayanarshad02/we-shipped-a-rag-chatbot-to-500-enterprise-tenants-heres-what-actually-broke-first-1jia) (2026-04-04)
-- [Introduction to DHI](https://dev.to/danielcristho/introduction-to-dhi-1ncp) (2026-04-04)
+- [16 GB VRAM LLM benchmarks with llama.cpp (speed and context)](https://dev.to/rosgluk/16-gb-vram-llm-benchmarks-with-llamacpp-speed-and-context-3hgg) (2026-04-04)
+- [How to Supervise AI Coding Agents Without Losing Your Mind](https://dev.to/battyterm/how-to-supervise-ai-coding-agents-without-losing-your-mind-53m4) (2026-04-04)
+- [Claude Code git workflow: commit, branch, and review with AI in your terminal](https://dev.to/subprime2010/claude-code-git-workflow-commit-branch-and-review-with-ai-in-your-terminal-35kj) (2026-04-04)
+- [Building Ransomware Defense in Production: Real-World Lessons](https://dev.to/t_o_jp/building-ransomware-defense-in-production-real-world-lessons-4n5g) (2026-04-04)
+- [Why your monitoring misses AI agent attacks (and how to fix it)](https://dev.to/authora/why-your-monitoring-misses-ai-agent-attacks-and-how-to-fix-it-1npk) (2026-04-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Cryptic Ledger: What a CTF Challenge Taught Me About Hashing](https://medium.com/@kunal.resolute/cryptic-ledger-md5-ctf-python-5276eabc0608?source=rss------programming-5) (2026-04-04)
-- [Can You Compute Without a Program?](https://medium.com/@ompshunyaya/can-you-compute-without-a-program-b40822524a6e?source=rss------programming-5) (2026-04-04)
-- [Stop Wasting Time on Styles: 3 React Native UI Kits That Instantly Upgrade Your App](https://medium.com/@kashvi.t/stop-wasting-time-on-styles-3-react-native-ui-kits-that-instantly-upgrade-your-app-23dbac974d0c?source=rss------programming-5) (2026-04-04)
-- [ Demystifying Android Signing Fingerprints](https://medium.com/@yash22202/demystifying-android-signing-fingerprints-71811a9e787f?source=rss------programming-5) (2026-04-04)
-- [I Started Coding at 13 — And It Quietly Changed My Direction](https://medium.com/@manishtula7777/i-started-coding-at-13-and-it-quietly-changed-my-direction-2bf8da84043b?source=rss------programming-5) (2026-04-04)
+- [Why Average Developers Stay Average Forever](https://kawaldeepsingh.medium.com/why-average-developers-stay-average-forever-3e5b661d4d32?source=rss------programming-5) (2026-04-04)
+- [Affordable 3 BHK Luxury Apartments In M3M GIC Gurugram](https://medium.com/@somiyasharmadelhi/affordable-3-bhk-luxury-apartments-in-m3m-gic-gurugram-83b695ffa5b6?source=rss------programming-5) (2026-04-04)
+- [Using std::layout_stride with std::mdspan for Arbitrary Data Layouts in C++23](https://medium.com/@sagar.necindia/using-std-layout-stride-with-std-mdspan-cpp23-d025aa0c9ac9?source=rss------programming-5) (2026-04-04)
+- [Java Logging Ecosystem: What I Learned After Being Forced to Care About It](https://medium.com/@bugradal4/java-logging-ecosystem-what-i-learned-after-being-forced-to-care-about-it-64525fcf4f2a?source=rss------programming-5) (2026-04-04)
+- [A Quiet Beginning: A CSE Student Who Wants to Write](https://medium.com/@yamuna_b/a-quiet-beginning-a-cse-student-who-wants-to-write-3abfbe670142?source=rss------programming-5) (2026-04-04)
 
 </details>
 
@@ -494,11 +494,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/enable-branded-ca
 <details>
 <summary>💬 Slack API</summary>
 
+- [What Is Customer Management, and How Slack CRM Can Help](https://slack.com/blog/crm/customer-management) (2026-03-31)
+- [What Is Contact Management? How Slack CRM Supports It](https://slack.com/blog/crm/contact-management) (2026-03-31)
 - [Slack Feature Drop: Your Productivity is Springing Forward](https://slack.com/blog/news/feature-drop-march2026) (2026-03-27)
 - [Slack vs. Microsoft Teams: Key Differences for Modern Teams](https://slack.com/blog/compare/slack-vs-microsoft-teams) (2026-03-23)
 - [Unlocking the Power of Conversation: How Slack’s New Platform is Fueling the Agentic Era](https://slack.com/blog/news/powering-agentic-collaboration) (2026-03-13)
-- [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-03-13)
-- [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-03-13)
 
 </details>
 
