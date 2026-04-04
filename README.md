@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The FAA’s flight restriction for drones is an attempt to criminalize filming ICE](https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice) (2026-04-03)
-- [Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)](https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans) (2026-04-03)
-- [How to Write Unmaintainable Code (1999)](https://www.doc.ic.ac.uk/%7Esusan/475/unmain.html) (2026-04-03)
-- [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396) (2026-04-03)
-- [Fake Fans](https://www.wordsfromeliza.com/p/fake-fans) (2026-04-03)
+- [Emotion concepts and their function in a large language model](https://www.anthropic.com/research/emotion-concepts-function) (2026-04-04)
+- [Scientists are working on "everything vaccines"](https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines) (2026-04-04)
+- [Naming rights to street auctioned in San Francisco](https://paintastreet.com/auction) (2026-04-04)
+- [Delve sets the record straight on anonymous attacks](https://delve.co/blog/delve-sets-the-record-straight-on-anonymous-attacks) (2026-04-04)
+- [Gold overtakes U.S. Treasuries as the largest foreign reserve asset](https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr) (2026-04-04)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [AI-Generated Interview Ethics: Why Disclosure Is Not Enough](https://dev.to/simon_paxton/ai-generated-interview-ethics-why-disclosure-is-not-enough-cen) (2026-04-04)
-- [How to Write CLAUDE.md Files That Actually Work (Harness Engineering #2)](https://dev.to/bruce_he/how-to-write-claudemd-files-that-actually-work-harness-engineering-2-5a6m) (2026-04-04)
-- [Master Your Wellness: Building a Health Knowledge Graph with LLMs and Neo4j 🧬](https://dev.to/wellallytech/master-your-wellness-building-a-health-knowledge-graph-with-llms-and-neo4j-59c8) (2026-04-04)
-- [A Case Study in Solving the Riddle of FrancisTRDEV](https://dev.to/ddebajyati/a-case-study-in-solving-the-riddle-of-francistrdev-2c1i) (2026-04-04)
-- [What Is a Container? The OS-Level Truth Most Engineers Don't Know](https://dev.to/chkrishnatej/what-is-a-container-the-os-level-truth-most-engineers-dont-know-3n2l) (2026-04-04)
+- [VonCMS v1.22 Preview](https://dev.to/vondereich/voncms-v122-preview-55ae) (2026-04-04)
+- [Cursor vs Claude Code vs GitHub Copilot — Which AI Coding Tool Is Actually Worth It?](https://dev.to/tyson_cung/cursor-vs-claude-code-vs-github-copilot-which-ai-coding-tool-is-actually-worth-it-4p78) (2026-04-04)
+- [What is a Function? Simple Explanation with Examples](https://dev.to/subash_4870e66d76ac024544/what-is-a-function-simple-explanation-with-examples-2f50) (2026-04-04)
+- [5 Critical Failures We Hit Shipping a Multi-Tenant RAG Chatbot to 500+ Enterprises](https://dev.to/ayanarshad02/we-shipped-a-rag-chatbot-to-500-enterprise-tenants-heres-what-actually-broke-first-1jia) (2026-04-04)
+- [Introduction to DHI](https://dev.to/danielcristho/introduction-to-dhi-1ncp) (2026-04-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Don’t Expect Too Much from AI — It’s Often Dumber Than a Donkey](https://medium.com/@pasirronald/dont-expect-too-much-from-ai-it-s-often-dumber-than-a-donkey-b863b92690e3?source=rss------programming-5) (2026-04-04)
-- [This Is What a 10x AI Workflow Actually Looks Like (From a Senior Engineer’s Setup)](https://medium.com/@rahul.dinkar/this-is-what-a-10x-ai-workflow-actually-looks-like-from-a-senior-engineers-setup-7e7b485ed5c7?source=rss------programming-5) (2026-04-04)
-- [AI Didn’t Build My App. It Changed How I Work.](https://medium.com/@borlidoadrian/ai-didnt-build-my-app-it-changed-how-i-work-b13585387982?source=rss------programming-5) (2026-04-04)
-- [AI APIs That Simplify Complex Features](https://ai.plainenglish.io/ai-apis-that-simplify-complex-features-4bdd508de20e?source=rss------programming-5) (2026-04-04)
-- [10 Advanced Java Features Every Spring Boot Developer Should Know in 2026](https://medium.com/@sunil17bbmp/10-advanced-java-features-every-spring-boot-developer-should-know-in-2026-30a0b2472e9a?source=rss------programming-5) (2026-04-04)
+- [The Cryptic Ledger: What a CTF Challenge Taught Me About Hashing](https://medium.com/@kunal.resolute/cryptic-ledger-md5-ctf-python-5276eabc0608?source=rss------programming-5) (2026-04-04)
+- [Can You Compute Without a Program?](https://medium.com/@ompshunyaya/can-you-compute-without-a-program-b40822524a6e?source=rss------programming-5) (2026-04-04)
+- [Stop Wasting Time on Styles: 3 React Native UI Kits That Instantly Upgrade Your App](https://medium.com/@kashvi.t/stop-wasting-time-on-styles-3-react-native-ui-kits-that-instantly-upgrade-your-app-23dbac974d0c?source=rss------programming-5) (2026-04-04)
+- [ Demystifying Android Signing Fingerprints](https://medium.com/@yash22202/demystifying-android-signing-fingerprints-71811a9e787f?source=rss------programming-5) (2026-04-04)
+- [I Started Coding at 13 — And It Quietly Changed My Direction](https://medium.com/@manishtula7777/i-started-coding-at-13-and-it-quietly-changed-my-direction-2bf8da84043b?source=rss------programming-5) (2026-04-04)
 
 </details>
 
@@ -494,11 +494,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/enable-branded-ca
 <details>
 <summary>💬 Slack API</summary>
 
-- [What Is an Agentic OS? A Practical Guide](https://slack.com/blog/productivity/what-is-an-agentic-os) (2026-04-03)
-- [Slackbot Just Became Your Ultimate Teammate in the New Interface for Work](https://slack.com/blog/news/agent-orchestration) (2026-03-31)
-- [Building an Agent-First Workspace in Slack](https://slack.com/blog/news/agent-first-workspace-slack) (2026-03-31)
-- [What Is Customer Management, and How Slack CRM Can Help](https://slack.com/blog/crm/customer-management) (2026-03-31)
-- [What Is Contact Management? How Slack CRM Supports It](https://slack.com/blog/crm/contact-management) (2026-03-31)
+- [Slack Feature Drop: Your Productivity is Springing Forward](https://slack.com/blog/news/feature-drop-march2026) (2026-03-27)
+- [Slack vs. Microsoft Teams: Key Differences for Modern Teams](https://slack.com/blog/compare/slack-vs-microsoft-teams) (2026-03-23)
+- [Unlocking the Power of Conversation: How Slack’s New Platform is Fueling the Agentic Era](https://slack.com/blog/news/powering-agentic-collaboration) (2026-03-13)
+- [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-03-13)
+- [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-03-13)
 
 </details>
 
