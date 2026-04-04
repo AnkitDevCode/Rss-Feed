@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage](https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/) (2026-04-04)
+- [After fighting malware for decades, this cybersecurity veteran is now hacking drones](https://techcrunch.com/2026/04/04/after-fighting-malware-for-decades-this-cybersecurity-veteran-is-now-hacking-drones/) (2026-04-04)
 - [Anthropic is having a moment in the private markets; SpaceX could spoil the party](https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/) (2026-04-04)
 - [Lucid blames dip in Q1 sales on seat supplier issue](https://techcrunch.com/2026/04/03/lucid-blames-dip-in-q1-sales-on-seat-supplier-issue/) (2026-04-04)
 - [The anonymous social app that thinks it can work in Saudi Arabia](https://techcrunch.com/2026/04/03/the-anonymous-social-app-that-thinks-it-can-work-in-saudi-arabia/) (2026-04-03)
-- [Tesla’s Texas factory workforce reportedly shrunk 22% in 2025](https://techcrunch.com/2026/04/03/teslas-texas-factory-workforce-reportedly-shrunk-22-in-2025/) (2026-04-03)
-- [OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’](https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/) (2026-04-03)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Mbodi AI (YC P25) Is Hiring](https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls) (2026-04-04)
-- [The CMS is dead. Long live the CMS](https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms) (2026-04-04)
-- [Apple: Embarrassingly Simple Self-Distillation Improves Code Generation](https://arxiv.org/abs/2604.01193) (2026-04-04)
-- [Some Unusual Trees](https://thoughts.wyounas.com/p/some-unusual-trees) (2026-04-04)
-- [Scientists are working on "everything vaccines"](https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines) (2026-04-04)
+- [US deploying nearly all stealthy long-range JASSM-ER cruise missiles to Iran war](https://www.msn.com/en-us/money/other/us-deploys-bulk-of-stealthy-long-range-missile-for-iran-war/ar-AA209yKj) (2026-04-04)
+- [Show HN: Running local OpenClaw together with remote agents in an open network](https://github.com/hybroai/hybro-hub) (2026-04-04)
+- [Scientists capture how cells trigger inflammation](https://news.stanford.edu/stories/2026/03/immune-response-inside-cells-inflammation-research) (2026-04-04)
+- [Astronomers Find a Third Galaxy Missing Its Dark Matter](https://www.universetoday.com/articles/astronomers-find-a-third-galaxy-missing-its-dark-matter-validating-a-violent-cosmic-collision-theory) (2026-04-04)
+- [Iran's Network of Cameras Bolsters Air Defenses, Expert Says](https://www.wsj.com/livecoverage/iran-war-news-2026/card/iran-s-network-of-cameras-bolsters-air-defenses-expert-says-IqjSSuOcGNrxzsrp52i8) (2026-04-04)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [A folk musician became a target for AI fakes and a copyright troll](https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright) (2026-04-04)
+- [Buy two Nintendo Switch games, get $30 off at Target](https://www.theverge.com/gadgets/906843/nintendo-switch-2-game-sale-target-circle-deal) (2026-04-04)
+- [My dream pair of AR gaming glasses needs to have these nine features](https://www.theverge.com/gadgets/906586/best-ar-glasses-viture-xreal-gaming-steam-deck-switch-2) (2026-04-04)
+- [Really, you made this without AI? Prove it](https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content) (2026-04-04)
 - [Super Meat Boy 3D makes suffering fun](https://www.theverge.com/games/904202/super-meat-boy-3d-review) (2026-04-04)
-- [The app for tracking TV, movies, podcasts, and everything](https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer) (2026-04-04)
-- [Anker’s Nebula P1 projector is the portable sound king](https://www.theverge.com/reviews/906455/anker-nebula-p1-review-vanlife-sound-champ) (2026-04-04)
-- [Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra](https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban) (2026-04-03)
-- [NASA did eventually solve Artemis II&#8217;s Outlook glitch](https://www.theverge.com/science/906988/nasa-artemis-ii-microsoft-outlook-issue-fixed) (2026-04-03)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [16 GB VRAM LLM benchmarks with llama.cpp (speed and context)](https://dev.to/rosgluk/16-gb-vram-llm-benchmarks-with-llamacpp-speed-and-context-3hgg) (2026-04-04)
-- [How to Supervise AI Coding Agents Without Losing Your Mind](https://dev.to/battyterm/how-to-supervise-ai-coding-agents-without-losing-your-mind-53m4) (2026-04-04)
-- [Claude Code git workflow: commit, branch, and review with AI in your terminal](https://dev.to/subprime2010/claude-code-git-workflow-commit-branch-and-review-with-ai-in-your-terminal-35kj) (2026-04-04)
-- [Building Ransomware Defense in Production: Real-World Lessons](https://dev.to/t_o_jp/building-ransomware-defense-in-production-real-world-lessons-4n5g) (2026-04-04)
-- [Why your monitoring misses AI agent attacks (and how to fix it)](https://dev.to/authora/why-your-monitoring-misses-ai-agent-attacks-and-how-to-fix-it-1npk) (2026-04-04)
+- [How Photography Rebuilt My Brain After a Traumatic Injury](https://dev.to/zsky/how-photography-rebuilt-my-brain-after-a-traumatic-injury-m1b) (2026-04-04)
+- [Compile Your Knowledge, Don"t Search It: What LLM Knowledge Bases Reveal About Agent Memory](https://dev.to/rotiferdev/compile-your-knowledge-dont-search-it-what-llm-knowledge-bases-reveal-about-agent-memory-32pg) (2026-04-04)
+- [From Copilots to Colleagues: What the Agent Era Actually Looks Like](https://dev.to/om_shree_0709/from-copilots-to-colleagues-what-the-agent-era-actually-looks-like-4onh) (2026-04-04)
+- [78% of PyTorch Models Never Reach Production. I Built the Fix.](https://dev.to/anilatambharii/78-of-pytorch-models-never-reach-production-i-built-the-fix-412p) (2026-04-04)
+- [Design Cost-Optimized Storage Solutions](https://dev.to/aws-builders/design-cost-optimized-storage-solutions-5f14) (2026-04-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why Average Developers Stay Average Forever](https://kawaldeepsingh.medium.com/why-average-developers-stay-average-forever-3e5b661d4d32?source=rss------programming-5) (2026-04-04)
-- [Affordable 3 BHK Luxury Apartments In M3M GIC Gurugram](https://medium.com/@somiyasharmadelhi/affordable-3-bhk-luxury-apartments-in-m3m-gic-gurugram-83b695ffa5b6?source=rss------programming-5) (2026-04-04)
-- [Using std::layout_stride with std::mdspan for Arbitrary Data Layouts in C++23](https://medium.com/@sagar.necindia/using-std-layout-stride-with-std-mdspan-cpp23-d025aa0c9ac9?source=rss------programming-5) (2026-04-04)
-- [Java Logging Ecosystem: What I Learned After Being Forced to Care About It](https://medium.com/@bugradal4/java-logging-ecosystem-what-i-learned-after-being-forced-to-care-about-it-64525fcf4f2a?source=rss------programming-5) (2026-04-04)
-- [A Quiet Beginning: A CSE Student Who Wants to Write](https://medium.com/@yamuna_b/a-quiet-beginning-a-cse-student-who-wants-to-write-3abfbe670142?source=rss------programming-5) (2026-04-04)
+- [JavaScript Finally Fixed Dates — And It Changes Everything](https://javascript.plainenglish.io/javascript-finally-fixed-dates-and-it-changes-everything-0afbd897ef7a?source=rss------programming-5) (2026-04-04)
+- [Cara Merge PDF Online Gratis Tanpa Aplikasi (Cepat & Praktis)](https://medium.com/@arloncyfc/cara-merge-pdf-online-gratis-tanpa-aplikasi-cepat-praktis-4f366ddb0607?source=rss------programming-5) (2026-04-04)
+- [Why I Shifted to Polyglot Language Microservices and Why Everyone Too Should Do So](https://medium.com/@subham59036/why-i-shifted-to-polyglot-language-microservices-and-why-everyone-too-should-do-so-ef0c990a835b?source=rss------programming-5) (2026-04-04)
+- [I Tried to Debunk the Djokovic Paradox. The Data Had Other Plans](https://medium.com/@patrick.k99/i-tried-to-debunk-the-djokovic-paradox-the-data-had-other-plans-d18e20604c57?source=rss------programming-5) (2026-04-04)
+- [11 JavaScript Tools That Instantly Made Me a Faster Developer](https://javascript.plainenglish.io/11-javascript-tools-that-instantly-made-me-a-faster-developer-6a64b2d5a503?source=rss------programming-5) (2026-04-04)
 
 </details>
 
@@ -141,11 +141,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources](https://blogs.nvidia.com/blog/national-robotics-week-2026/) (2026-04-04)
 - [From RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AI](https://blogs.nvidia.com/blog/rtx-ai-garage-open-models-google-gemma-4/) (2026-04-02)
 - [Press Start on April: GeForce NOW Brings 10 Games to the Cloud](https://blogs.nvidia.com/blog/geforce-now-thursday-april-2026-games-list/) (2026-04-02)
 - [Efficiency at Scale: NVIDIA, Energy Leaders Accelerating Power‑Flexible AI Factories to Fortify the Grid](https://blogs.nvidia.com/blog/energy-efficiency-ai-factories-grid/) (2026-03-31)
 - [Into the Omniverse: NVIDIA GTC Showcases Virtual Worlds Powering the Physical AI Era](https://blogs.nvidia.com/blog/gtc-2026-virtual-worlds-physical-ai/) (2026-03-26)
-- [Game On: Five New Titles Now Streaming on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-screamer/) (2026-03-26)
 
 </details>
 
@@ -494,11 +494,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/enable-branded-ca
 <details>
 <summary>💬 Slack API</summary>
 
+- [What Is an Agentic OS? A Practical Guide](https://slack.com/blog/productivity/what-is-an-agentic-os) (2026-04-03)
+- [Slackbot Just Became Your Ultimate Teammate in the New Interface for Work](https://slack.com/blog/news/agent-orchestration) (2026-03-31)
+- [Building an Agent-First Workspace in Slack](https://slack.com/blog/news/agent-first-workspace-slack) (2026-03-31)
 - [What Is Customer Management, and How Slack CRM Can Help](https://slack.com/blog/crm/customer-management) (2026-03-31)
 - [What Is Contact Management? How Slack CRM Supports It](https://slack.com/blog/crm/contact-management) (2026-03-31)
-- [Slack Feature Drop: Your Productivity is Springing Forward](https://slack.com/blog/news/feature-drop-march2026) (2026-03-27)
-- [Slack vs. Microsoft Teams: Key Differences for Modern Teams](https://slack.com/blog/compare/slack-vs-microsoft-teams) (2026-03-23)
-- [Unlocking the Power of Conversation: How Slack’s New Platform is Fueling the Agentic Era](https://slack.com/blog/news/powering-agentic-collaboration) (2026-03-13)
 
 </details>
 
@@ -560,22 +560,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/enable-branded-ca
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Building a Python Workflow That Catches Bugs Before Production](https://towardsdatascience.com/building-a-python-workflow-that-catches-bugs-before-production/) (2026-04-04)
+- [Building Robust Credit Scoring Models with Python](https://towardsdatascience.com/building-robust-credit-scoring-models-with-python/) (2026-04-04)
 - [DenseNet Paper Walkthrough: All Connected](https://towardsdatascience.com/densenet-paper-walkthrough-all-connected/) (2026-04-03)
 - [I Replaced Vector DBs with Google’s Memory Agent Pattern for my notes in Obsidian](https://towardsdatascience.com/i-replaced-vector-dbs-with-googles-memory-agent-pattern-for-my-notes-in-obsidian/) (2026-04-03)
 - [Linear Regression Is Actually a Projection Problem (Part 2: From Projections to Predictions)](https://towardsdatascience.com/linear-regression-is-actually-a-projection-problem-part-2-from-projections-to-predictions/) (2026-04-02)
-- [How to Handle Classical Data in Quantum Models](https://towardsdatascience.com/how-to-handle-classical-data-in-quantum-models/) (2026-04-02)
-- [Quantum Simulations with Python](https://towardsdatascience.com/quantum-simulations-with-python/) (2026-04-02)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [5 Types of Loss Functions in Machine Learning](https://www.analyticsvidhya.com/blog/2026/04/types-of-loss-functions-in-machine-learning/) (2026-04-04)
 - [​​Mamba4 Explained: A Faster Alternative to Transformers for Sequential Modeling ](https://www.analyticsvidhya.com/blog/2026/04/mamba4-explained/) (2026-04-03)
 - [Replit Agent Skills Complete Guide: Write Your Own Skills in Replit](https://www.analyticsvidhya.com/blog/2026/04/replit-agent-skills/) (2026-04-02)
 - [TurboQuant: Google’s KV Cache Optimization Explained](https://www.analyticsvidhya.com/blog/2026/04/turboquant-google/) (2026-04-02)
 - [Claude Code Leak: 16 Lessons on Building Production-Ready AI Systems](https://www.analyticsvidhya.com/blog/2026/04/claude-code-leak-insights-for-ai-builders/) (2026-04-02)
-- [Speculative Decoding: How LLMs Generate Text 3x Faster](https://www.analyticsvidhya.com/blog/2026/04/speculative-decoding/) (2026-04-01)
 
 </details>
 
