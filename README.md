@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [The final days of the Tesla Model X and S are here. All bets are on the Cybercab.](https://techcrunch.com/2026/04/03/the-final-days-of-the-tesla-model-x-and-s-are-here-all-bets-are-on-the-cybercab/) (2026-04-03)
-- [Europe’s cyber agency blames hacking gangs for massive data breach and leak](https://techcrunch.com/2026/04/03/europes-cyber-agency-blames-hacking-gangs-for-massive-data-breach-and-leak/) (2026-04-03)
-- [The Facebook insider building content moderation for the AI era](https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/) (2026-04-03)
-- [Amazon hits sellers with ‘fuel surcharge’ as Iran war roils global energy markets](https://techcrunch.com/2026/04/02/amazon-hits-sellers-with-fuel-surcharge-as-iran-war-roils-global-energy-markets/) (2026-04-02)
-- [Telehealth giant Hims & Hers says its customer support system was hacked](https://techcrunch.com/2026/04/02/telehealth-giant-hims-hers-says-its-customer-support-system-was-hacked/) (2026-04-02)
+- [Anthropic is having a moment in the private markets; SpaceX could spoil the party](https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/) (2026-04-04)
+- [Lucid blames dip in Q1 sales on seat supplier issue](https://techcrunch.com/2026/04/03/lucid-blames-dip-in-q1-sales-on-seat-supplier-issue/) (2026-04-04)
+- [The anonymous social app that thinks it can work in Saudi Arabia](https://techcrunch.com/2026/04/03/the-anonymous-social-app-that-thinks-it-can-work-in-saudi-arabia/) (2026-04-03)
+- [Tesla’s Texas factory workforce reportedly shrunk 22% in 2025](https://techcrunch.com/2026/04/03/teslas-texas-factory-workforce-reportedly-shrunk-22-in-2025/) (2026-04-03)
+- [OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’](https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/) (2026-04-03)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M](https://www.tomshardware.com/service-providers/streaming/h264-streaming-license-fees-jump-from-100000-to-4-5-million) (2026-04-03)
-- [Why the heck are we still using Markdown?](https://bgslabs.org/blog/why-are-we-using-markdown/) (2026-04-03)
-- [Solana Drift Protocol drained of $285M via fake token and governance hijack](https://anonhaven.com/en/news/drift-protocol-hack-285-million-solana/) (2026-04-03)
-- [iNaturalist](https://www.inaturalist.org/) (2026-04-03)
-- [Go on Embedded Systems and WebAssembly](https://tinygo.org/) (2026-04-03)
+- [The FAA’s flight restriction for drones is an attempt to criminalize filming ICE](https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice) (2026-04-03)
+- [Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)](https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans) (2026-04-03)
+- [How to Write Unmaintainable Code (1999)](https://www.doc.ic.ac.uk/%7Esusan/475/unmain.html) (2026-04-03)
+- [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396) (2026-04-03)
+- [Fake Fans](https://www.wordsfromeliza.com/p/fake-fans) (2026-04-03)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra](https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban) (2026-04-03)
+- [NASA did eventually solve Artemis II&#8217;s Outlook glitch](https://www.theverge.com/science/906988/nasa-artemis-ii-microsoft-outlook-issue-fixed) (2026-04-03)
+- [OpenAI’s AGI boss is taking a leave of absence](https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence) (2026-04-03)
+- [Lenovo Legion Go 2 suddenly costs $650 more as RAMageddon lays waste to gaming hardware](https://www.theverge.com/games/906752/lenovo-legion-go-2-suddenly-costs-650-more-as-ramageddon-lays-waste-to-gaming-hardware) (2026-04-03)
 - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple) (2026-04-03)
-- [Mercedes adds steer-by-wire — and a dang steering yoke — to the EQS](https://www.theverge.com/transportation/906539/mercedes-steer-by-wire-steering-yoke-eqs) (2026-04-03)
-- [Anker&#8217;s small, five-port travel adapter is down to its best price yet](https://www.theverge.com/gadgets/906392/anker-nano-travel-adapter-samsung-galaxy-watch-ultra-deal-sale) (2026-04-03)
-- [I saved a doomed Windows laptop by embracing Linux](https://www.theverge.com/tech/905946/windows-11-forced-obsolescence-linux-thinkpad) (2026-04-03)
-- [Waiting for Trump Phone](https://www.theverge.com/tech/905599/where-is-the-trump-phone-t1-april) (2026-04-03)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Netflix must refund customers for years of price hikes, Italian court rules](https://arstechnica.com/gadgets/2026/04/netflix-ordered-to-refund-subscribers-up-to-e500-for-unlawful-price-hikes/) (2026-04-03)
-- [EV adoption in America: Who's winning, who's losing?](https://arstechnica.com/cars/2026/04/ev-adoption-in-america-whos-winning-whos-losing/) (2026-04-03)
-- [OpenAI takes on another "side quest," buys tech-focused talk show TBPN](https://arstechnica.com/ai/2026/04/openai-takes-on-another-side-quest-buys-tech-focused-talk-show-tbpn/) (2026-04-03)
-- [Four astronauts are now inexorably bound for the Moon](https://arstechnica.com/space/2026/04/four-astronauts-are-now-inexorably-bound-for-the-moon/) (2026-04-03)
-- [Perplexity's "Incognito Mode" is a "sham," lawsuit says](https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/) (2026-04-02)
+- [Trump proposes steep cut to NASA budget as astronauts head for the Moon](https://arstechnica.com/space/2026/04/trump-proposes-steep-cut-to-nasa-budget-as-astronauts-head-for-the-moon/) (2026-04-03)
+- [Ice Age dice show early Native Americans may have understood probability](https://arstechnica.com/science/2026/04/ice-age-dice-show-early-native-americans-may-have-understood-probability/) (2026-04-03)
+- [As Artemis II zooms to the Moon, everything seems to be going swimmingly](https://arstechnica.com/space/2026/04/as-artemis-ii-zooms-to-the-moon-everything-seems-to-be-going-swimmingly/) (2026-04-03)
+- [Elon Musk insists banks working on SpaceX IPO must buy Grok subscriptions](https://arstechnica.com/tech-policy/2026/04/elon-musk-insists-banks-working-on-spacex-ipo-must-buy-grok-subscriptions/) (2026-04-03)
+- ["Cognitive surrender" leads AI users to abandon logical thinking, research finds](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/) (2026-04-03)
 
 </details>
 
@@ -97,44 +97,44 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Engineering Guardrails We Need After AI Started Writing the Code](https://dev.to/manojshr/the-engineering-guardrails-we-need-after-ai-started-writing-the-code-5dgm) (2026-04-03)
-- [How to Add SMS Verification to Your App in 5 Minutes (Python + Node.js)](https://dev.to/tony_smscodex/how-to-add-sms-verification-to-your-app-in-5-minutes-python-nodejs-4ega) (2026-04-03)
-- [The Multiplayer Leap](https://dev.to/jesuspinarte/the-multiplayer-leap-59hn) (2026-04-03)
-- [How we built a terminal UI framework that only repaints what changed.](https://dev.to/hardy30894/how-we-built-a-terminal-ui-framework-that-only-repaints-what-changed-359a) (2026-04-03)
-- [I Built a Free AI Pipeline for YouTube Shorts Using FFmpeg](https://dev.to/numbpill3d/i-built-a-free-ai-pipeline-for-youtube-shorts-using-ffmpeg-45c3) (2026-04-03)
+- [AI-Generated Interview Ethics: Why Disclosure Is Not Enough](https://dev.to/simon_paxton/ai-generated-interview-ethics-why-disclosure-is-not-enough-cen) (2026-04-04)
+- [How to Write CLAUDE.md Files That Actually Work (Harness Engineering #2)](https://dev.to/bruce_he/how-to-write-claudemd-files-that-actually-work-harness-engineering-2-5a6m) (2026-04-04)
+- [Master Your Wellness: Building a Health Knowledge Graph with LLMs and Neo4j 🧬](https://dev.to/wellallytech/master-your-wellness-building-a-health-knowledge-graph-with-llms-and-neo4j-59c8) (2026-04-04)
+- [A Case Study in Solving the Riddle of FrancisTRDEV](https://dev.to/ddebajyati/a-case-study-in-solving-the-riddle-of-francistrdev-2c1i) (2026-04-04)
+- [What Is a Container? The OS-Level Truth Most Engineers Don't Know](https://dev.to/chkrishnatej/what-is-a-container-the-os-level-truth-most-engineers-dont-know-3n2l) (2026-04-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Beyond Grep: Building Custom AST Parsers for 0-Day Hunting](https://medium.com/@funcybot/beyond-grep-building-custom-ast-parsers-for-0-day-hunting-56fe9f6f91f5?source=rss------programming-5) (2026-04-03)
-- [I Stopped Writing Ugly JavaScript — These 6 Changes Made My Code Instantly Elegant](https://javascript.plainenglish.io/i-stopped-writing-ugly-javascript-these-6-changes-made-my-code-instantly-elegant-0cb1e63551f2?source=rss------programming-5) (2026-04-03)
-- [Kosaraju vs. Tarjan in Java](https://medium.com/@AlexanderObregon/kosaraju-vs-tarjan-in-java-71483c72d199?source=rss------programming-5) (2026-04-03)
-- [Your Go Middleware Isn’t Composable — It’s Just Quietly Coupled](https://elsyarifx.medium.com/your-go-middleware-isnt-composable-it-s-just-quietly-coupled-bdc8ee64a9df?source=rss------programming-5) (2026-04-03)
-- [5 Powerful Python Features That Instantly Made Me a Smarter Developer (No More Copy-Paste)](https://medium.com/write-a-catalyst/5-powerful-python-features-that-instantly-made-me-a-smarter-developer-no-more-copy-paste-c9c4cffeabc1?source=rss------programming-5) (2026-04-03)
+- [Don’t Expect Too Much from AI — It’s Often Dumber Than a Donkey](https://medium.com/@pasirronald/dont-expect-too-much-from-ai-it-s-often-dumber-than-a-donkey-b863b92690e3?source=rss------programming-5) (2026-04-04)
+- [This Is What a 10x AI Workflow Actually Looks Like (From a Senior Engineer’s Setup)](https://medium.com/@rahul.dinkar/this-is-what-a-10x-ai-workflow-actually-looks-like-from-a-senior-engineers-setup-7e7b485ed5c7?source=rss------programming-5) (2026-04-04)
+- [AI Didn’t Build My App. It Changed How I Work.](https://medium.com/@borlidoadrian/ai-didnt-build-my-app-it-changed-how-i-work-b13585387982?source=rss------programming-5) (2026-04-04)
+- [AI APIs That Simplify Complex Features](https://ai.plainenglish.io/ai-apis-that-simplify-complex-features-4bdd508de20e?source=rss------programming-5) (2026-04-04)
+- [10 Advanced Java Features Every Spring Boot Developer Should Know in 2026](https://medium.com/@sunil17bbmp/10-advanced-java-features-every-spring-boot-developer-should-know-in-2026-30a0b2472e9a?source=rss------programming-5) (2026-04-04)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Amazon Bedrock Guardrails supports cross-account safeguards with centralized control and management](https://aws.amazon.com/blogs/aws/amazon-bedrock-guardrails-supports-cross-account-safeguards-with-centralized-control-and-management/) (2026-04-03)
 - [Announcing managed daemon support for Amazon ECS Managed Instances](https://aws.amazon.com/blogs/aws/announcing-managed-daemon-support-for-amazon-ecs-managed-instances/) (2026-04-01)
 - [Announcing the AWS Sustainability console: Programmatic access, configurable CSV reports, and Scope 1–3 reporting in one place](https://aws.amazon.com/blogs/aws/announcing-the-aws-sustainability-console-programmatic-access-configurable-csv-reports-and-scope-1-3-reporting-in-one-place/) (2026-03-31)
 - [AWS Weekly Roundup: AWS AI/ML Scholars program, Agent Plugin for AWS Serverless, and more (March 30, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-ai-ml-scholars-program-agent-plugin-for-aws-serverless-and-more-march-30-2026/) (2026-03-30)
 - [Customize your AWS Management Console experience with visual settings including account color, region and service visibility](https://aws.amazon.com/blogs/aws/customize-your-aws-management-console-experience-with-visual-settings-including-account-color-region-and-service-visibility/) (2026-03-26)
-- [Announcing Amazon Aurora PostgreSQL serverless database creation in seconds](https://aws.amazon.com/blogs/aws/announcing-amazon-aurora-postgresql-serverless-database-creation-in-seconds/) (2026-03-25)
 
 </details>
 
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Azure IaaS: Keep critical applications running with built-in resiliency at scale](https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/) (2026-04-01)
+- [Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver Azure Local on Galleon modular datacenters](https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/) (2026-03-31)
+- [Navigating digital sovereignty at the frontier of transformation](https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/25/navigating-digital-sovereignty-at-the-frontier-of-transformation/) (2026-03-30)
+- [Microsoft named a Leader in 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2026-gartner-magic-quadrant-for-integration-platform-as-a-service/) (2026-03-30)
 - [AI for nuclear energy: Powering an intelligent, resilient future](https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/) (2026-03-25)
-- [What’s new with Microsoft in open-source and Kubernetes at KubeCon + CloudNativeCon Europe 2026](https://opensource.microsoft.com/blog/2026/03/24/whats-new-with-microsoft-in-open-source-and-kubernetes-at-kubecon-cloudnativecon-europe-2026/) (2026-03-24)
-- [Advancing agentic AI with Microsoft databases across a unified data estate](https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/) (2026-03-18)
-- [FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/) (2026-03-18)
-- [Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI](https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/) (2026-03-16)
 
 </details>
 
@@ -494,11 +494,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/enable-branded-ca
 <details>
 <summary>💬 Slack API</summary>
 
+- [What Is an Agentic OS? A Practical Guide](https://slack.com/blog/productivity/what-is-an-agentic-os) (2026-04-03)
 - [Slackbot Just Became Your Ultimate Teammate in the New Interface for Work](https://slack.com/blog/news/agent-orchestration) (2026-03-31)
 - [Building an Agent-First Workspace in Slack](https://slack.com/blog/news/agent-first-workspace-slack) (2026-03-31)
 - [What Is Customer Management, and How Slack CRM Can Help](https://slack.com/blog/crm/customer-management) (2026-03-31)
 - [What Is Contact Management? How Slack CRM Supports It](https://slack.com/blog/crm/contact-management) (2026-03-31)
-- [Slack Feature Drop: Your Productivity is Springing Forward](https://slack.com/blog/news/feature-drop-march2026) (2026-03-27)
 
 </details>
 
