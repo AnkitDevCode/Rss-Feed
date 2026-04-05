@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Peter Thiel’s big bet on solar-powered cow collars](https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/) (2026-04-04)
+- [Embattled startup Delve has ‘parted ways’ with Y Combinator](https://techcrunch.com/2026/04/04/embattled-startup-delve-has-parted-ways-with-y-combinator/) (2026-04-04)
 - [Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage](https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/) (2026-04-04)
 - [After fighting malware for decades, this cybersecurity veteran is now hacking drones](https://techcrunch.com/2026/04/04/after-fighting-malware-for-decades-this-cybersecurity-veteran-is-now-hacking-drones/) (2026-04-04)
 - [Anthropic is having a moment in the private markets; SpaceX could spoil the party](https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/) (2026-04-04)
-- [Lucid blames dip in Q1 sales on seat supplier issue](https://techcrunch.com/2026/04/03/lucid-blames-dip-in-q1-sales-on-seat-supplier-issue/) (2026-04-04)
-- [The anonymous social app that thinks it can work in Saudi Arabia](https://techcrunch.com/2026/04/03/the-anonymous-social-app-that-thinks-it-can-work-in-saudi-arabia/) (2026-04-03)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [US deploying nearly all stealthy long-range JASSM-ER cruise missiles to Iran war](https://www.msn.com/en-us/money/other/us-deploys-bulk-of-stealthy-long-range-missile-for-iran-war/ar-AA209yKj) (2026-04-04)
-- [Show HN: Running local OpenClaw together with remote agents in an open network](https://github.com/hybroai/hybro-hub) (2026-04-04)
-- [Scientists capture how cells trigger inflammation](https://news.stanford.edu/stories/2026/03/immune-response-inside-cells-inflammation-research) (2026-04-04)
-- [Astronomers Find a Third Galaxy Missing Its Dark Matter](https://www.universetoday.com/articles/astronomers-find-a-third-galaxy-missing-its-dark-matter-validating-a-violent-cosmic-collision-theory) (2026-04-04)
-- [Iran's Network of Cameras Bolsters Air Defenses, Expert Says](https://www.wsj.com/livecoverage/iran-war-news-2026/card/iran-s-network-of-cameras-bolsters-air-defenses-expert-says-IqjSSuOcGNrxzsrp52i8) (2026-04-04)
+- [Shooting down ideas is not a skill](https://scottlawsonbc.com/post/shooting-down-ideas) (2026-04-05)
+- [Show HN: Contrapunk – Real-time counterpoint harmony from guitar input, in Rust](https://contrapunk.com/) (2026-04-05)
+- [AWS Engineer Reports PostgreSQL Perf Halved by Linux 7.0, Fix May Not Be Easy](https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop) (2026-04-05)
+- [Advice to Young People, the Lies I Tell Myself (2024)](https://jxnl.co/writing/2024/06/01/advice-to-young-people/) (2026-04-04)
+- [Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown](https://static.laszlokorte.de/escher/) (2026-04-04)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Artemis II is going so well that we're left to talk about frozen urine](https://arstechnica.com/space/2026/04/artemis-ii-is-going-so-well-that-were-left-to-talk-about-frozen-urine/) (2026-04-05)
+- [Tech companies are trying to neuter Colorado’s landmark right-to-repair law](https://arstechnica.com/tech-policy/2026/04/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/) (2026-04-04)
 - [Trump proposes steep cut to NASA budget as astronauts head for the Moon](https://arstechnica.com/space/2026/04/trump-proposes-steep-cut-to-nasa-budget-as-astronauts-head-for-the-moon/) (2026-04-03)
 - [Ice Age dice show early Native Americans may have understood probability](https://arstechnica.com/science/2026/04/ice-age-dice-show-early-native-americans-may-have-understood-probability/) (2026-04-03)
 - [As Artemis II zooms to the Moon, everything seems to be going swimmingly](https://arstechnica.com/space/2026/04/as-artemis-ii-zooms-to-the-moon-everything-seems-to-be-going-swimmingly/) (2026-04-03)
-- [Elon Musk insists banks working on SpaceX IPO must buy Grok subscriptions](https://arstechnica.com/tech-policy/2026/04/elon-musk-insists-banks-working-on-spacex-ipo-must-buy-grok-subscriptions/) (2026-04-03)
-- ["Cognitive surrender" leads AI users to abandon logical thinking, research finds](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/) (2026-04-03)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How Photography Rebuilt My Brain After a Traumatic Injury](https://dev.to/zsky/how-photography-rebuilt-my-brain-after-a-traumatic-injury-m1b) (2026-04-04)
-- [Compile Your Knowledge, Don"t Search It: What LLM Knowledge Bases Reveal About Agent Memory](https://dev.to/rotiferdev/compile-your-knowledge-dont-search-it-what-llm-knowledge-bases-reveal-about-agent-memory-32pg) (2026-04-04)
-- [From Copilots to Colleagues: What the Agent Era Actually Looks Like](https://dev.to/om_shree_0709/from-copilots-to-colleagues-what-the-agent-era-actually-looks-like-4onh) (2026-04-04)
-- [78% of PyTorch Models Never Reach Production. I Built the Fix.](https://dev.to/anilatambharii/78-of-pytorch-models-never-reach-production-i-built-the-fix-412p) (2026-04-04)
-- [Design Cost-Optimized Storage Solutions](https://dev.to/aws-builders/design-cost-optimized-storage-solutions-5f14) (2026-04-04)
+- [REVM Source Code - Frame Part 1](https://dev.to/tanghaosuan/revm-source-code-frame-part-1-25f3) (2026-04-05)
+- [Run Open Source AI Models with Docker Model Runner](https://dev.to/sreeni5018/run-open-source-ai-modelswith-docker-model-runner-5hei) (2026-04-05)
+- [Claude Code debugging: how to make AI find bugs you've been chasing for hours](https://dev.to/subprime2010/claude-code-debugging-how-to-make-ai-find-bugs-youve-been-chasing-for-hours-15bm) (2026-04-05)
+- [AI memory is broken. We built one that forgets.](https://dev.to/highpass_studio_382ce5641/ai-memory-is-broken-we-built-one-that-forgets-dmc) (2026-04-05)
+- [How to secure MCP tools on AWS for AI agents with authentication, authorization, and least privilege](https://dev.to/aws-builders/how-to-secure-mcp-tools-on-aws-for-ai-agents-with-authentication-authorization-and-least-privilege-50ea) (2026-04-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [JavaScript Finally Fixed Dates — And It Changes Everything](https://javascript.plainenglish.io/javascript-finally-fixed-dates-and-it-changes-everything-0afbd897ef7a?source=rss------programming-5) (2026-04-04)
-- [Cara Merge PDF Online Gratis Tanpa Aplikasi (Cepat & Praktis)](https://medium.com/@arloncyfc/cara-merge-pdf-online-gratis-tanpa-aplikasi-cepat-praktis-4f366ddb0607?source=rss------programming-5) (2026-04-04)
-- [Why I Shifted to Polyglot Language Microservices and Why Everyone Too Should Do So](https://medium.com/@subham59036/why-i-shifted-to-polyglot-language-microservices-and-why-everyone-too-should-do-so-ef0c990a835b?source=rss------programming-5) (2026-04-04)
-- [I Tried to Debunk the Djokovic Paradox. The Data Had Other Plans](https://medium.com/@patrick.k99/i-tried-to-debunk-the-djokovic-paradox-the-data-had-other-plans-d18e20604c57?source=rss------programming-5) (2026-04-04)
-- [11 JavaScript Tools That Instantly Made Me a Faster Developer](https://javascript.plainenglish.io/11-javascript-tools-that-instantly-made-me-a-faster-developer-6a64b2d5a503?source=rss------programming-5) (2026-04-04)
+- [The Python Data Structures and Concepts I Kept Mixing Up — Until Now](https://medium.com/@nihaanth.2/the-python-data-structures-and-concepts-i-kept-mixing-up-until-now-13a663f4c0f1?source=rss------programming-5) (2026-04-05)
+- [Runtime Upgrades Break JavaScript in the Strangest Places](https://medium.com/@sparknp1/runtime-upgrades-break-javascript-in-the-strangest-places-528310fa4325?source=rss------programming-5) (2026-04-05)
+- [Slack’s Most Ambitious Update Yet: 30 New AI Features Transforming Slackbot into an Autonomous…](https://medium.com/@jiten.p.oswal/slacks-most-ambitious-update-yet-30-new-ai-features-transforming-slackbot-into-an-autonomous-b6ed92adf6ed?source=rss------programming-5) (2026-04-05)
+- [Kenapa Felly4D Jadi Pilihan Banyak Pengguna Saat Ini? (Versi SEO Aman & Natural)](https://medium.com/@fellyloh15/kenapa-felly4d-jadi-pilihan-banyak-pengguna-saat-ini-versi-seo-aman-natural-1b7c4e357039?source=rss------programming-5) (2026-04-05)
+- [‍ Emotional Mastery for Professionals ](https://medium.com/@Sonakshee/emotional-mastery-for-professionals-fb3a37b2c5c3?source=rss------programming-5) (2026-04-05)
 
 </details>
 
