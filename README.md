@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [As people look for ways to make new friends, here are the apps promising to help](https://techcrunch.com/2026/04/05/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/) (2026-04-05)
+- [TechCrunch Mobility: ‘A stunning lack of transparency’](https://techcrunch.com/2026/04/05/techcrunch-mobility-a-stunning-lack-of-transparency/) (2026-04-05)
+- [Can orbital data centers help justify a massive valuation for SpaceX?](https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/) (2026-04-05)
+- [In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/) (2026-04-05)
 - [Peter Thiel’s big bet on solar-powered cow collars](https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/) (2026-04-04)
-- [Embattled startup Delve has ‘parted ways’ with Y Combinator](https://techcrunch.com/2026/04/04/embattled-startup-delve-has-parted-ways-with-y-combinator/) (2026-04-04)
-- [Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage](https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/) (2026-04-04)
-- [After fighting malware for decades, this cybersecurity veteran is now hacking drones](https://techcrunch.com/2026/04/04/after-fighting-malware-for-decades-this-cybersecurity-veteran-is-now-hacking-drones/) (2026-04-04)
-- [Anthropic is having a moment in the private markets; SpaceX could spoil the party](https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/) (2026-04-04)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Hightouch (YC S19) Is Hiring](https://hightouch.com/careers#open-positions) (2026-04-05)
-- [Ubuntu now requires more RAM than Windows 11](https://www.howtogeek.com/ubuntu-now-requires-more-ram-than-windows-11/) (2026-04-05)
-- [Sad Story of My Google Workspace Account Suspension](https://zencapital.substack.com/p/sad-story-of-my-google-workspace) (2026-04-05)
-- [The threat is comfortable drift toward not understanding what you're doing](https://ergosphere.blog/posts/the-machines-are-fine/) (2026-04-05)
-- [Talk like caveman](https://github.com/JuliusBrussee/caveman) (2026-04-05)
+- [Reaffirming our commitment to child safety in the face of EuropeanUnion inaction](https://blog.google/company-news/inside-google/around-the-globe/google-europe/reaffirming-commitment-to-child-safety/) (2026-04-05)
+- [From birds to brains: My path to the fusiform face area (2024)](https://www.kavliprize.org/nancy-kanwisher-autobiography) (2026-04-05)
+- [The Melanesian: Dark-skinned people with blonde hair region of Oceania](https://guardian.ng/life/the-melanesian-dark-skinned-people-with-blonde-hair/) (2026-04-05)
+- [Codex is switching to API pricing based usage for all users](https://help.openai.com/en/articles/20001106-codex-rate-card) (2026-04-05)
+- [Computational Physics (2nd Edition)](https://websites.umich.edu/~mejn/cp2/) (2026-04-05)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Suno is a music copyright nightmare](https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers) (2026-04-05)
+- [I let Gemini in Google Maps plan my day and it went surprisingly well](https://www.theverge.com/tech/907015/gemini-google-maps-hands-on) (2026-04-05)
+- [Is the Slate Truck too minimal for its own good?](https://www.theverge.com/transportation/905947/slate-truck-ev-minimal-range-size-interior-design) (2026-04-05)
 - [How the Amazon Echo learned to talk — and listen](https://www.theverge.com/podcast/907146/amazon-echo-alexa-version-history) (2026-04-05)
 - [Grammarly’s sloppelganger saga](https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga) (2026-04-05)
-- [A folk musician became a target for AI fakes and a copyright troll](https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright) (2026-04-04)
-- [Buy two Nintendo Switch games, get $30 off at Target](https://www.theverge.com/gadgets/906843/nintendo-switch-2-game-sale-target-circle-deal) (2026-04-04)
-- [My dream pair of AR gaming glasses needs to have these nine features](https://www.theverge.com/gadgets/906586/best-ar-glasses-viture-xreal-gaming-steam-deck-switch-2) (2026-04-04)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [From Stockout to Stock-Smart: AI-Powered Predictive Reordering](https://dev.to/ken_deng_ai/from-stockout-to-stock-smart-ai-powered-predictive-reordering-5a16) (2026-04-05)
-- [GitHub Actions: The Stuff Nobody Tells You](https://dev.to/andreagriffiths11/github-actions-the-stuff-nobody-tells-you-19md) (2026-04-05)
-- [My Ambitious Journey: Bringing CryEngine to Rust and Linux](https://dev.to/windik/my-ambitious-journey-bringing-cryengine-to-rust-and-linux-1l6g) (2026-04-05)
-- [Implementing the Retry Pattern Using Polly in .NET Applications published](https://dev.to/izma_anwar_f5f829c4f49019/implementing-the-retry-pattern-using-polly-in-net-applicationspublished-4l35) (2026-04-05)
-- [The Illusion of Waves: When “Looks Right” Isn’t “Built Right” ft. VibeCodeArena](https://dev.to/yashwanth_reddyk_ad8c405/the-illusion-of-waves-when-looks-right-isnt-built-right-ft-vibecodearena-2pki) (2026-04-05)
+- [How to Detect the Tech Stack of Any Website (2026 Guide)](https://dev.to/pavan_jangid_529a30e1d8c1/how-to-detect-the-tech-stack-of-any-website-2026-guide-5eml) (2026-04-05)
+- [I built an iOS app at 50 using AI tools. Here's what actually worked](https://dev.to/houbsta/title-i-built-an-ios-app-at-50-using-ai-tools-heres-what-actually-worked-2mci) (2026-04-05)
+- [Design Cost-Optimized Compute Solutions](https://dev.to/aws-builders/design-cost-optimized-compute-solutions-b6) (2026-04-05)
+- [CodeClone b4: from CLI tool to a real review surface for VS Code, Claude Desktop, and Codex](https://dev.to/orenlab/codeclone-b4-from-cli-tool-to-a-real-review-surface-for-vs-code-claude-desktop-and-codex-150c) (2026-04-05)
+- [How to Publish a Power BI Report and Embed it into a Website.](https://dev.to/mckakankato/how-to-publish-a-power-bi-report-and-embed-it-into-a-website-2m2o) (2026-04-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Testing in Rust](https://medium.com/@ashishjsharda/testing-in-rust-e06792bf1c67?source=rss------programming-5) (2026-04-05)
-- [Stop Leaking Your Code Secrets: A Beginner’s Guide to Gitleaks](https://blog.stackademic.com/stop-leaking-your-code-secrets-a-beginners-guide-to-gitleaks-4014258557bc?source=rss------programming-5) (2026-04-05)
-- [Akhuwat company Head office helpline 2026 03447720597](https://medium.com/@habibbabar607/akhuwat-company-head-office-helpline-2026-03447720597-5f3c9b53b479?source=rss------programming-5) (2026-04-05)
-- [I Built a Real-Time Photo Sharing App with a Home Screen Widget in One Day — Day 18 of…](https://likhith1542.medium.com/i-built-a-real-time-photo-sharing-app-with-a-home-screen-widget-in-one-day-day-18-of-a9ca07c2b08f?source=rss------programming-5) (2026-04-05)
-- [Where Do Your Python Variables Actually Live?](https://medium.com/@me.jahirahmed/where-do-your-python-variables-actually-live-33b225e72fbe?source=rss------programming-5) (2026-04-05)
+- [Claude has many surfaces. Here’s how I actually use each one.](https://pub.towardsai.net/claude-has-many-surfaces-heres-how-i-actually-use-each-one-df1f9ddfdae5?source=rss------programming-5) (2026-04-05)
+- [From Whiteboard to IDE: Implementing Google’s TurboQuant KV Cache Compression in Python](https://medium.com/data-science-collective/from-whiteboard-to-ide-implementing-googles-turboquant-kv-cache-compression-in-python-0e02b53a4640?source=rss------programming-5) (2026-04-05)
+- [Reading Type Hints at Runtime: What annotations Actually Contains](https://medium.com/@tihomir.manushev/reading-type-hints-at-runtime-what-annotations-actually-contains-e5cfd7e5f359?source=rss------programming-5) (2026-04-05)
+- [One Practical SQL Trigger Example You Can Actually Use](https://medium.com/@tiye_78900/one-practical-sql-trigger-example-you-can-actually-use-39341b4c76d3?source=rss------programming-5) (2026-04-05)
+- [8 React Mistakes That Beginners Keep Making](https://medium.com/skillstuff/8-react-mistakes-that-beginners-keep-making-a1dbaa3c3b4c?source=rss------programming-5) (2026-04-05)
 
 </details>
 
@@ -494,11 +494,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/enable-branded-ca
 <details>
 <summary>💬 Slack API</summary>
 
+- [What Is an Agentic OS? A Practical Guide](https://slack.com/blog/productivity/what-is-an-agentic-os) (2026-04-03)
+- [Slackbot Just Became Your Ultimate Teammate in the New Interface for Work](https://slack.com/blog/news/agent-orchestration) (2026-03-31)
+- [Building an Agent-First Workspace in Slack](https://slack.com/blog/news/agent-first-workspace-slack) (2026-03-31)
 - [What Is Customer Management, and How Slack CRM Can Help](https://slack.com/blog/crm/customer-management) (2026-03-31)
 - [What Is Contact Management? How Slack CRM Supports It](https://slack.com/blog/crm/contact-management) (2026-03-31)
-- [Slack Feature Drop: Your Productivity is Springing Forward](https://slack.com/blog/news/feature-drop-march2026) (2026-03-27)
-- [Slack vs. Microsoft Teams: Key Differences for Modern Teams](https://slack.com/blog/compare/slack-vs-microsoft-teams) (2026-03-23)
-- [Unlocking the Power of Conversation: How Slack’s New Platform is Fueling the Agentic Era](https://slack.com/blog/news/powering-agentic-collaboration) (2026-03-13)
 
 </details>
 
@@ -560,22 +560,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/enable-branded-ca
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Proxy-Pointer RAG: Achieving Vectorless Accuracy at Vector RAG Scale and Cost](https://towardsdatascience.com/proxy-pointer-rag-achieving-vectorless-accuracy-at-vector-rag-scale-and-cost/) (2026-04-05)
+- [A Data Scientist’s Take on the $599 MacBook Neo](https://towardsdatascience.com/a-data-scientists-take-on-the-599-macbook-neo/) (2026-04-05)
 - [Building a Python Workflow That Catches Bugs Before Production](https://towardsdatascience.com/building-a-python-workflow-that-catches-bugs-before-production/) (2026-04-04)
 - [Building Robust Credit Scoring Models with Python](https://towardsdatascience.com/building-robust-credit-scoring-models-with-python/) (2026-04-04)
 - [DenseNet Paper Walkthrough: All Connected](https://towardsdatascience.com/densenet-paper-walkthrough-all-connected/) (2026-04-03)
-- [I Replaced Vector DBs with Google’s Memory Agent Pattern for my notes in Obsidian](https://towardsdatascience.com/i-replaced-vector-dbs-with-googles-memory-agent-pattern-for-my-notes-in-obsidian/) (2026-04-03)
-- [Linear Regression Is Actually a Projection Problem (Part 2: From Projections to Predictions)](https://towardsdatascience.com/linear-regression-is-actually-a-projection-problem-part-2-from-projections-to-predictions/) (2026-04-02)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Architecture and Orchestration of Memory Systems in AI Agents](https://www.analyticsvidhya.com/blog/2026/04/memory-systems-in-ai-agents/) (2026-04-05)
 - [5 Types of Loss Functions in Machine Learning](https://www.analyticsvidhya.com/blog/2026/04/types-of-loss-functions-in-machine-learning/) (2026-04-04)
 - [​​Mamba4 Explained: A Faster Alternative to Transformers for Sequential Modeling ](https://www.analyticsvidhya.com/blog/2026/04/mamba4-explained/) (2026-04-03)
 - [Replit Agent Skills Complete Guide: Write Your Own Skills in Replit](https://www.analyticsvidhya.com/blog/2026/04/replit-agent-skills/) (2026-04-02)
 - [TurboQuant: Google’s KV Cache Optimization Explained](https://www.analyticsvidhya.com/blog/2026/04/turboquant-google/) (2026-04-02)
-- [Claude Code Leak: 16 Lessons on Building Production-Ready AI Systems](https://www.analyticsvidhya.com/blog/2026/04/claude-code-leak-insights-for-ai-builders/) (2026-04-02)
 
 </details>
 
