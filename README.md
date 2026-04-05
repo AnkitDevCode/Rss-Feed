@@ -31,33 +31,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [GabeN Is Shitting Yacht Money into Flatpak and You're Still Arguing Init Systems](https://s3kshun8.games/blog/flatpak-won/) (2026-04-05)
-- [Writing Lisp is AI resistant and I'm sad](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/) (2026-04-05)
-- [Introduction to Computer Music (2009) [pdf]](https://composerprogrammer.com/introductiontocomputermusic.pdf) (2026-04-05)
-- [Demonstrating Real Time AV2 Decoding on Consumer Laptops](http://aomedia.org/blog%20posts/Demonstrating-Real-Time-AV2-Decoding-on-Consumer-Laptops/) (2026-04-05)
-- [Show HN: Contrapunk – Real-time counterpoint harmony from guitar input, in Rust](https://contrapunk.com/) (2026-04-05)
+- [Hightouch (YC S19) Is Hiring](https://hightouch.com/careers#open-positions) (2026-04-05)
+- [Ubuntu now requires more RAM than Windows 11](https://www.howtogeek.com/ubuntu-now-requires-more-ram-than-windows-11/) (2026-04-05)
+- [Sad Story of My Google Workspace Account Suspension](https://zencapital.substack.com/p/sad-story-of-my-google-workspace) (2026-04-05)
+- [The threat is comfortable drift toward not understanding what you're doing](https://ergosphere.blog/posts/the-machines-are-fine/) (2026-04-05)
+- [Talk like caveman](https://github.com/JuliusBrussee/caveman) (2026-04-05)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [How the Amazon Echo learned to talk — and listen](https://www.theverge.com/podcast/907146/amazon-echo-alexa-version-history) (2026-04-05)
+- [Grammarly’s sloppelganger saga](https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga) (2026-04-05)
 - [A folk musician became a target for AI fakes and a copyright troll](https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright) (2026-04-04)
 - [Buy two Nintendo Switch games, get $30 off at Target](https://www.theverge.com/gadgets/906843/nintendo-switch-2-game-sale-target-circle-deal) (2026-04-04)
 - [My dream pair of AR gaming glasses needs to have these nine features](https://www.theverge.com/gadgets/906586/best-ar-glasses-viture-xreal-gaming-steam-deck-switch-2) (2026-04-04)
-- [Really, you made this without AI? Prove it](https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content) (2026-04-04)
-- [Super Meat Boy 3D makes suffering fun](https://www.theverge.com/games/904202/super-meat-boy-3d-review) (2026-04-04)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [CBP facility codes sure seem to have leaked via online flashcards](https://arstechnica.com/security/2026/04/cbp-facility-codes-sure-seem-to-have-leaked-via-online-flashcards/) (2026-04-05)
 - [Artemis II is going so well that we're left to talk about frozen urine](https://arstechnica.com/space/2026/04/artemis-ii-is-going-so-well-that-were-left-to-talk-about-frozen-urine/) (2026-04-05)
 - [Tech companies are trying to neuter Colorado’s landmark right-to-repair law](https://arstechnica.com/tech-policy/2026/04/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/) (2026-04-04)
 - [Trump proposes steep cut to NASA budget as astronauts head for the Moon](https://arstechnica.com/space/2026/04/trump-proposes-steep-cut-to-nasa-budget-as-astronauts-head-for-the-moon/) (2026-04-03)
 - [Ice Age dice show early Native Americans may have understood probability](https://arstechnica.com/science/2026/04/ice-age-dice-show-early-native-americans-may-have-understood-probability/) (2026-04-03)
-- [As Artemis II zooms to the Moon, everything seems to be going swimmingly](https://arstechnica.com/space/2026/04/as-artemis-ii-zooms-to-the-moon-everything-seems-to-be-going-swimmingly/) (2026-04-03)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Chromatic Automata: How Simple Rules Paint Surprising Worlds of Color](https://dev.to/jsamwrites/chromatic-automata-how-simple-rules-paint-surprising-worlds-of-color-2nc9) (2026-04-05)
-- [When an Attacker Meets a Group of Agents: Navigating Amazon Bedrock's Multi-Agent Applications](https://dev.to/mark0_617b45cda9782a/when-an-attacker-meets-a-group-of-agents-navigating-amazon-bedrocks-multi-agent-applications-djd) (2026-04-05)
-- [Series Week 20 / 52 — Differentiating Patching differences between Exadata On Prem and OCI Databases (DB Systems and ExaCS)](https://dev.to/nabhaas/series-week-20-52-differentiating-patching-differences-between-exadata-on-prem-and-oci-2447) (2026-04-05)
-- [[AWS] Strategies to make KAA work like a member of the project team [Kiro]](https://dev.to/aws-builders/aws-strategies-to-make-kaa-work-like-a-member-of-the-project-team-kiro-19bm) (2026-04-05)
-- [ROSCOE: A Suite of Metrics for Scoring Step-by-Step Reasoning](https://dev.to/paperium/roscoe-a-suite-of-metrics-for-scoring-step-by-step-reasoning-55b2) (2026-04-05)
+- [From Stockout to Stock-Smart: AI-Powered Predictive Reordering](https://dev.to/ken_deng_ai/from-stockout-to-stock-smart-ai-powered-predictive-reordering-5a16) (2026-04-05)
+- [GitHub Actions: The Stuff Nobody Tells You](https://dev.to/andreagriffiths11/github-actions-the-stuff-nobody-tells-you-19md) (2026-04-05)
+- [My Ambitious Journey: Bringing CryEngine to Rust and Linux](https://dev.to/windik/my-ambitious-journey-bringing-cryengine-to-rust-and-linux-1l6g) (2026-04-05)
+- [Implementing the Retry Pattern Using Polly in .NET Applications published](https://dev.to/izma_anwar_f5f829c4f49019/implementing-the-retry-pattern-using-polly-in-net-applicationspublished-4l35) (2026-04-05)
+- [The Illusion of Waves: When “Looks Right” Isn’t “Built Right” ft. VibeCodeArena](https://dev.to/yashwanth_reddyk_ad8c405/the-illusion-of-waves-when-looks-right-isnt-built-right-ft-vibecodearena-2pki) (2026-04-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [AI Will Turn Data Into Currency](https://medium.com/@mayankagarwal14nov/ai-will-turn-data-into-currency-6a1510ad64ae?source=rss------programming-5) (2026-04-05)
-- [Learn Angular Skills: It’s Not What You Think About ](https://medium.com/solo-devs/learn-angular-skills-its-not-what-you-think-about-aabc4b11a417?source=rss------programming-5) (2026-04-05)
-- [Unit of Work Pattern Explained Simply in .NET](https://malshikay.medium.com/unit-of-work-pattern-explained-simply-in-net-d837d044d2d7?source=rss------programming-5) (2026-04-05)
-- [Vibe Coding Is Over — What Developers Must Do Next to Stand Out](https://medium.com/dev-simplified/vibe-coding-is-over-what-developers-must-do-next-to-stand-out-3caea3478fb1?source=rss------programming-5) (2026-04-05)
-- [Complete Django Application Setup Commands](https://medium.com/@pranavsb699/complete-django-application-setup-commands-deb6650dfec4?source=rss------programming-5) (2026-04-05)
+- [Testing in Rust](https://medium.com/@ashishjsharda/testing-in-rust-e06792bf1c67?source=rss------programming-5) (2026-04-05)
+- [Stop Leaking Your Code Secrets: A Beginner’s Guide to Gitleaks](https://blog.stackademic.com/stop-leaking-your-code-secrets-a-beginners-guide-to-gitleaks-4014258557bc?source=rss------programming-5) (2026-04-05)
+- [Akhuwat company Head office helpline 2026 03447720597](https://medium.com/@habibbabar607/akhuwat-company-head-office-helpline-2026-03447720597-5f3c9b53b479?source=rss------programming-5) (2026-04-05)
+- [I Built a Real-Time Photo Sharing App with a Home Screen Widget in One Day — Day 18 of…](https://likhith1542.medium.com/i-built-a-real-time-photo-sharing-app-with-a-home-screen-widget-in-one-day-day-18-of-a9ca07c2b08f?source=rss------programming-5) (2026-04-05)
+- [Where Do Your Python Variables Actually Live?](https://medium.com/@me.jahirahmed/where-do-your-python-variables-actually-live-33b225e72fbe?source=rss------programming-5) (2026-04-05)
 
 </details>
 
@@ -494,11 +494,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/enable-branded-ca
 <details>
 <summary>💬 Slack API</summary>
 
+- [What Is Customer Management, and How Slack CRM Can Help](https://slack.com/blog/crm/customer-management) (2026-03-31)
+- [What Is Contact Management? How Slack CRM Supports It](https://slack.com/blog/crm/contact-management) (2026-03-31)
 - [Slack Feature Drop: Your Productivity is Springing Forward](https://slack.com/blog/news/feature-drop-march2026) (2026-03-27)
 - [Slack vs. Microsoft Teams: Key Differences for Modern Teams](https://slack.com/blog/compare/slack-vs-microsoft-teams) (2026-03-23)
 - [Unlocking the Power of Conversation: How Slack’s New Platform is Fueling the Agentic Era](https://slack.com/blog/news/powering-agentic-collaboration) (2026-03-13)
-- [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-03-13)
-- [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-03-13)
 
 </details>
 
