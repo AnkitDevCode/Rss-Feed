@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Shooting down ideas is not a skill](https://scottlawsonbc.com/post/shooting-down-ideas) (2026-04-05)
+- [GabeN Is Shitting Yacht Money into Flatpak and You're Still Arguing Init Systems](https://s3kshun8.games/blog/flatpak-won/) (2026-04-05)
+- [Writing Lisp is AI resistant and I'm sad](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/) (2026-04-05)
+- [Introduction to Computer Music (2009) [pdf]](https://composerprogrammer.com/introductiontocomputermusic.pdf) (2026-04-05)
+- [Demonstrating Real Time AV2 Decoding on Consumer Laptops](http://aomedia.org/blog%20posts/Demonstrating-Real-Time-AV2-Decoding-on-Consumer-Laptops/) (2026-04-05)
 - [Show HN: Contrapunk – Real-time counterpoint harmony from guitar input, in Rust](https://contrapunk.com/) (2026-04-05)
-- [AWS Engineer Reports PostgreSQL Perf Halved by Linux 7.0, Fix May Not Be Easy](https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop) (2026-04-05)
-- [Advice to Young People, the Lies I Tell Myself (2024)](https://jxnl.co/writing/2024/06/01/advice-to-young-people/) (2026-04-04)
-- [Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown](https://static.laszlokorte.de/escher/) (2026-04-04)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [REVM Source Code - Frame Part 1](https://dev.to/tanghaosuan/revm-source-code-frame-part-1-25f3) (2026-04-05)
-- [Run Open Source AI Models with Docker Model Runner](https://dev.to/sreeni5018/run-open-source-ai-modelswith-docker-model-runner-5hei) (2026-04-05)
-- [Claude Code debugging: how to make AI find bugs you've been chasing for hours](https://dev.to/subprime2010/claude-code-debugging-how-to-make-ai-find-bugs-youve-been-chasing-for-hours-15bm) (2026-04-05)
-- [AI memory is broken. We built one that forgets.](https://dev.to/highpass_studio_382ce5641/ai-memory-is-broken-we-built-one-that-forgets-dmc) (2026-04-05)
-- [How to secure MCP tools on AWS for AI agents with authentication, authorization, and least privilege](https://dev.to/aws-builders/how-to-secure-mcp-tools-on-aws-for-ai-agents-with-authentication-authorization-and-least-privilege-50ea) (2026-04-05)
+- [Chromatic Automata: How Simple Rules Paint Surprising Worlds of Color](https://dev.to/jsamwrites/chromatic-automata-how-simple-rules-paint-surprising-worlds-of-color-2nc9) (2026-04-05)
+- [When an Attacker Meets a Group of Agents: Navigating Amazon Bedrock's Multi-Agent Applications](https://dev.to/mark0_617b45cda9782a/when-an-attacker-meets-a-group-of-agents-navigating-amazon-bedrocks-multi-agent-applications-djd) (2026-04-05)
+- [Series Week 20 / 52 — Differentiating Patching differences between Exadata On Prem and OCI Databases (DB Systems and ExaCS)](https://dev.to/nabhaas/series-week-20-52-differentiating-patching-differences-between-exadata-on-prem-and-oci-2447) (2026-04-05)
+- [[AWS] Strategies to make KAA work like a member of the project team [Kiro]](https://dev.to/aws-builders/aws-strategies-to-make-kaa-work-like-a-member-of-the-project-team-kiro-19bm) (2026-04-05)
+- [ROSCOE: A Suite of Metrics for Scoring Step-by-Step Reasoning](https://dev.to/paperium/roscoe-a-suite-of-metrics-for-scoring-step-by-step-reasoning-55b2) (2026-04-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Python Data Structures and Concepts I Kept Mixing Up — Until Now](https://medium.com/@nihaanth.2/the-python-data-structures-and-concepts-i-kept-mixing-up-until-now-13a663f4c0f1?source=rss------programming-5) (2026-04-05)
-- [Runtime Upgrades Break JavaScript in the Strangest Places](https://medium.com/@sparknp1/runtime-upgrades-break-javascript-in-the-strangest-places-528310fa4325?source=rss------programming-5) (2026-04-05)
-- [Slack’s Most Ambitious Update Yet: 30 New AI Features Transforming Slackbot into an Autonomous…](https://medium.com/@jiten.p.oswal/slacks-most-ambitious-update-yet-30-new-ai-features-transforming-slackbot-into-an-autonomous-b6ed92adf6ed?source=rss------programming-5) (2026-04-05)
-- [Kenapa Felly4D Jadi Pilihan Banyak Pengguna Saat Ini? (Versi SEO Aman & Natural)](https://medium.com/@fellyloh15/kenapa-felly4d-jadi-pilihan-banyak-pengguna-saat-ini-versi-seo-aman-natural-1b7c4e357039?source=rss------programming-5) (2026-04-05)
-- [‍ Emotional Mastery for Professionals ](https://medium.com/@Sonakshee/emotional-mastery-for-professionals-fb3a37b2c5c3?source=rss------programming-5) (2026-04-05)
+- [AI Will Turn Data Into Currency](https://medium.com/@mayankagarwal14nov/ai-will-turn-data-into-currency-6a1510ad64ae?source=rss------programming-5) (2026-04-05)
+- [Learn Angular Skills: It’s Not What You Think About ](https://medium.com/solo-devs/learn-angular-skills-its-not-what-you-think-about-aabc4b11a417?source=rss------programming-5) (2026-04-05)
+- [Unit of Work Pattern Explained Simply in .NET](https://malshikay.medium.com/unit-of-work-pattern-explained-simply-in-net-d837d044d2d7?source=rss------programming-5) (2026-04-05)
+- [Vibe Coding Is Over — What Developers Must Do Next to Stand Out](https://medium.com/dev-simplified/vibe-coding-is-over-what-developers-must-do-next-to-stand-out-3caea3478fb1?source=rss------programming-5) (2026-04-05)
+- [Complete Django Application Setup Commands](https://medium.com/@pranavsb699/complete-django-application-setup-commands-deb6650dfec4?source=rss------programming-5) (2026-04-05)
 
 </details>
 
@@ -494,11 +494,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/enable-branded-ca
 <details>
 <summary>💬 Slack API</summary>
 
-- [What Is an Agentic OS? A Practical Guide](https://slack.com/blog/productivity/what-is-an-agentic-os) (2026-04-03)
-- [Slackbot Just Became Your Ultimate Teammate in the New Interface for Work](https://slack.com/blog/news/agent-orchestration) (2026-03-31)
-- [Building an Agent-First Workspace in Slack](https://slack.com/blog/news/agent-first-workspace-slack) (2026-03-31)
-- [What Is Customer Management, and How Slack CRM Can Help](https://slack.com/blog/crm/customer-management) (2026-03-31)
-- [What Is Contact Management? How Slack CRM Supports It](https://slack.com/blog/crm/contact-management) (2026-03-31)
+- [Slack Feature Drop: Your Productivity is Springing Forward](https://slack.com/blog/news/feature-drop-march2026) (2026-03-27)
+- [Slack vs. Microsoft Teams: Key Differences for Modern Teams](https://slack.com/blog/compare/slack-vs-microsoft-teams) (2026-03-23)
+- [Unlocking the Power of Conversation: How Slack’s New Platform is Fueling the Agentic Era](https://slack.com/blog/news/powering-agentic-collaboration) (2026-03-13)
+- [AI in Slack: Work Faster and Smarter, Right Where You Are](https://slack.com/blog/productivity/agentic-productivity-with-slack) (2026-03-13)
+- [Meet Slackbot: Your Personal AI Agent for Work](https://slack.com/blog/news/slackbot-context-aware-ai-agent-for-work) (2026-03-13)
 
 </details>
 
