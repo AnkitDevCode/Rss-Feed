@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Spain’s Xoople raises $130 million Series B to map the Earth for AI](https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/) (2026-04-06)
 - [The Xiaomi 17 Ultra has some impressive add-ons that make snapping photos really fun](https://techcrunch.com/2026/04/06/xiaomi-17-ultra-review-camera-leica-specs-photography-kit-pro/) (2026-04-06)
 - [Polymarket took down wagers tied to rescue of downed Air Force officer](https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/) (2026-04-05)
 - [Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use](https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/) (2026-04-05)
 - [As people look for ways to make new friends, here are the apps promising to help](https://techcrunch.com/2026/04/05/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/) (2026-04-05)
-- [TechCrunch Mobility: ‘A stunning lack of transparency’](https://techcrunch.com/2026/04/05/techcrunch-mobility-a-stunning-lack-of-transparency/) (2026-04-05)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [SideX – A Tauri-based port of Visual Studio Code](https://github.com/Sidenai/sidex) (2026-04-06)
-- [Winners of the 2026 Kokuyo Design Awards](https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/) (2026-04-06)
-- [Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice](https://github.com/mikf/gallery-dl/discussions/9304) (2026-04-06)
-- [An open-source 240-antenna array to bounce signals off the Moon](https://moonrf.com/) (2026-04-06)
-- [The 1987 game “The Last Ninja” was 40 kilobytes](https://twitter.com/exQUIZitely/status/2040777977521398151) (2026-04-06)
+- [Ask HN: How do systems (or people) detect when a text is written by an LLM](https://news.ycombinator.com/item?id=47659807) (2026-04-06)
+- [Tiny Corp's Exabox](https://twitter.com/__tinygrad__/status/2040944508402360592) (2026-04-06)
+- [The Intelligence Failure in Iran](https://www.theatlantic.com/national-security/2026/04/iran-war-intelligence-failure-trump/686694/) (2026-04-06)
+- [Is Germany's gold safe in New York ?](https://www.dw.com/en/is-germanys-gold-safe-in-new-york/video-75766873) (2026-04-06)
+- [Age Verification as Mass Surveillance Infrastructure](https://tboteproject.com/surveillancefindings/) (2026-04-06)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Can AI responses be influenced? The SEO industry is trying](https://www.theverge.com/tech/900302/ai-seo-industry-google-search-chatgpt-gemini-marketing) (2026-04-06)
 - [Los Thuthanaka’s Wak&#8217;a is a mellower follow-up to last year’s surprise Pitchfork favorite](https://www.theverge.com/entertainment/907174/los-thuthanaka-waka-review) (2026-04-05)
 - [Suno is a music copyright nightmare](https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers) (2026-04-05)
 - [I let Gemini in Google Maps plan my day and it went surprisingly well](https://www.theverge.com/tech/907015/gemini-google-maps-hands-on) (2026-04-05)
 - [Is the Slate Truck too minimal for its own good?](https://www.theverge.com/transportation/905947/slate-truck-ev-minimal-range-size-interior-design) (2026-04-05)
-- [How the Amazon Echo learned to talk — and listen](https://www.theverge.com/podcast/907146/amazon-echo-alexa-version-history) (2026-04-05)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [AI is changing how small online sellers decide what to make](https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/) (2026-04-06)
 - [Four things we’d need to put data centers in space](https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/) (2026-04-03)
 - [The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO](https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/) (2026-04-02)
 - [Fuel prices are soaring. Plastic could be next.](https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/) (2026-04-02)
 - [The Download: gig workers training humanoids, and better AI benchmarks](https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/) (2026-04-01)
-- [The gig workers who are training humanoid robots at home](https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/) (2026-04-01)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Your Next Employer Already Knows the Lowest Salary You will Accept. An Algorithm Told Them.](https://dev.to/adioof/your-next-employer-already-knows-the-lowest-salary-you-will-accept-an-algorithm-told-them-1mkl) (2026-04-06)
-- [Multichannel AI Agent: Shared Memory Across Messaging Platforms](https://dev.to/aws/multichannel-ai-agent-shared-memory-across-messaging-platforms-56j4) (2026-04-06)
-- [I Love Detailed Releases. I Hate Doing Them.](https://dev.to/chris_king_bcff3b9663e84a/i-love-detailed-releases-i-hate-doing-them-4kmk) (2026-04-06)
-- [What Predicts a Hit? I Trained 3 ML Models to Find Out](https://dev.to/carasjung/what-predicts-a-hit-i-trained-3-ml-models-to-find-out-31mj) (2026-04-06)
-- [AWS Lambda PII Handling in Production: DynamoDB Field Encryption with KMS](https://dev.to/aws-builders/aws-lambda-pii-handling-in-production-dynamodb-field-encryption-with-kms-3oa6) (2026-04-06)
+- [Unlocking GitHub Actions: Why the 'Workflow' Permission is a Productivity Bottleneck](https://dev.to/devactivity/unlocking-github-actions-why-the-workflow-permission-is-a-productivity-bottleneck-m52) (2026-04-06)
+- [Restaking and the Security Economy: How EigenLayer Changed Everything](https://dev.to/ribhavmodi/restaking-and-the-security-economy-how-eigenlayer-changed-everything-2lfc) (2026-04-06)
+- [Lock Down Claude Code With 5 Permission Patterns](https://dev.to/klement_gunndu/lock-down-claude-code-with-5-permission-patterns-4gcn) (2026-04-06)
+- [Top 10 CLI Tools to Level-Up Claude Code](https://dev.to/composiodev/top-10-cli-tools-to-level-up-claude-code-1kf9) (2026-04-06)
+- [How We Simulate 2,000+ Infrastructure Failures Without Touching Production](https://dev.to/yutaro_41c2deef88001afd50/how-we-simulate-2000-infrastructure-failures-without-touching-production-2kap) (2026-04-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Tried 8 “Beginner” Python Ideas — Only 3 Were Worth My Time](https://blog.stackademic.com/i-tried-8-beginner-python-ideas-only-3-were-worth-my-time-13c5119c48f3?source=rss------programming-5) (2026-04-06)
-- [Is PostgreSQL Dead? (Part II)](https://medium.com/postgresql-blogs/is-postgresql-dead-part-ii-33ca518a2166?source=rss------programming-5) (2026-04-06)
-- [What 20+ Years Of Leadership Taught Me About Engineers, Business, And The Space Between](https://medium.com/thriving-in-engineering/what-20-years-of-leadership-taught-me-about-engineers-business-and-the-space-between-9b5bb479ba58?source=rss------programming-5) (2026-04-06)
-- [Scaling to 100 Million Users: A Deep Dive into Designing a Global Social Feed Under the BASE…](https://medium.com/illumination/scaling-to-100-million-users-a-deep-dive-into-designing-a-global-social-feed-under-the-base-30a1153db7a5?source=rss------programming-5) (2026-04-06)
-- [An Open Letter to Elon Musk: What Your Demon Actually Is](https://medium.com/@kosi.gramatikoff/an-open-letter-to-elon-musk-what-your-demon-actually-is-391963792333?source=rss------programming-5) (2026-04-06)
+- [The Last Generation That Read the Code](https://medium.com/@tfmv/the-last-generation-that-read-the-code-2ce31f5fd8b8?source=rss------programming-5) (2026-04-06)
+- [Object-Oriented Programming, Science, the Economy of Thought](https://medium.com/@kasamaru_hatsuka/object-oriented-programming-science-the-economy-of-thought-f05d94ceeda7?source=rss------programming-5) (2026-04-06)
+- [iOS Live Activities Explained: The Mental Model Most Developers Miss](https://medium.com/@tarangsultania54/ios-live-activities-explained-the-mental-model-most-developers-miss-303134099fab?source=rss------programming-5) (2026-04-06)
+- [Claude Code’s $2.5B Harness Leaked. Four Patterns Reveal Why Cloning Fails](https://deshpandetanmay.medium.com/claude-codes-2-5b-harness-leaked-four-patterns-reveal-why-cloning-fails-54f00b76a55e?source=rss------programming-5) (2026-04-06)
+- [Everyone on Your Team Is Faster. Why Is Nothing Shipping?](https://medium.com/@adityakumar_82046/everyone-on-your-team-is-faster-why-is-nothing-shipping-059c866be463?source=rss------programming-5) (2026-04-06)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Java Annotated Monthly – April 2026](https://blog.jetbrains.com/idea/2026/04/java-annotated-monthly-april-2026/) (2026-04-06)
 - [RustRover 2026.1: Professional Testing With Native cargo-nextest Integration](https://blog.jetbrains.com/rust/2026/04/03/rustrover-2026-1-professional-testing-with-native-cargo-nextest-integration/) (2026-04-03)
 - [Code like a PIRATE with Junie and GoLand](https://blog.jetbrains.com/go/2026/04/02/code-like-a-pirate-with-junie-and-goland/) (2026-04-02)
 - [Which AI Coding Tools Do Developers Actually Use at Work?](https://blog.jetbrains.com/research/2026/04/which-ai-coding-tools-do-developers-actually-use-at-work/) (2026-04-02)
 - [KotlinConf’26 Speakers: In Conversation With Lena Reinhard](https://blog.jetbrains.com/kotlin/2026/04/kotlinconf-26-speakers-in-conversation-with-lena-reinhard/) (2026-04-02)
-- [JetBrains Blog RSS Support Is Now Generally Available](https://blog.jetbrains.com/blog/2026/04/01/rss-support/) (2026-04-01)
 
 </details>
 
@@ -549,44 +549,44 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/enable-branded-ca
 <details>
 <summary>🤖 AI News</summary>
 
+- [As AI agents take on more tasks, governance becomes a priority](https://www.artificialintelligence-news.com/news/as-ai-agents-take-on-more-tasks-governance-becomes-a-priority/) (2026-04-06)
 - [KiloClaw targets shadow AI with autonomous agent governance](https://www.artificialintelligence-news.com/news/kiloclaw-targets-shadow-ai-autonomous-agent-governance/) (2026-04-02)
 - [5 best practices to secure AI systems](https://www.artificialintelligence-news.com/news/5-best-practices-to-secure-ai-systems/) (2026-04-02)
 - [China’s Five-Year Plan details the targets for AI deployment](https://www.artificialintelligence-news.com/news/chinas-five-year-plan-details-the-targets-for-ai-deployment/) (2026-04-02)
 - [Autonomous AI systems depend on data governance](https://www.artificialintelligence-news.com/news/autonomous-ai-systems-depend-on-data-governance/) (2026-04-02)
-- [Experian uncovers fraud paradox in financial services’ AI adoption](https://www.artificialintelligence-news.com/news/experian-ai-fraud-detection-financial-services-2026/) (2026-04-02)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Behavior is the New Credential](https://towardsdatascience.com/behavior-is-the-new-credential/) (2026-04-06)
 - [Proxy-Pointer RAG: Achieving Vectorless Accuracy at Vector RAG Scale and Cost](https://towardsdatascience.com/proxy-pointer-rag-achieving-vectorless-accuracy-at-vector-rag-scale-and-cost/) (2026-04-05)
 - [A Data Scientist’s Take on the $599 MacBook Neo](https://towardsdatascience.com/a-data-scientists-take-on-the-599-macbook-neo/) (2026-04-05)
 - [Building a Python Workflow That Catches Bugs Before Production](https://towardsdatascience.com/building-a-python-workflow-that-catches-bugs-before-production/) (2026-04-04)
 - [Building Robust Credit Scoring Models with Python](https://towardsdatascience.com/building-robust-credit-scoring-models-with-python/) (2026-04-04)
-- [DenseNet Paper Walkthrough: All Connected](https://towardsdatascience.com/densenet-paper-walkthrough-all-connected/) (2026-04-03)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Google’s Gemma 4: Is it the Best Open-Source Model of 2026?](https://www.analyticsvidhya.com/blog/2026/04/googles-gemma-4-open-source-model/) (2026-04-06)
 - [Architecture and Orchestration of Memory Systems in AI Agents](https://www.analyticsvidhya.com/blog/2026/04/memory-systems-in-ai-agents/) (2026-04-05)
 - [5 Types of Loss Functions in Machine Learning](https://www.analyticsvidhya.com/blog/2026/04/types-of-loss-functions-in-machine-learning/) (2026-04-04)
 - [​​Mamba4 Explained: A Faster Alternative to Transformers for Sequential Modeling ](https://www.analyticsvidhya.com/blog/2026/04/mamba4-explained/) (2026-04-03)
 - [Replit Agent Skills Complete Guide: Write Your Own Skills in Replit](https://www.analyticsvidhya.com/blog/2026/04/replit-agent-skills/) (2026-04-02)
-- [TurboQuant: Google’s KV Cache Optimization Explained](https://www.analyticsvidhya.com/blog/2026/04/turboquant-google/) (2026-04-02)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Fun Projects Using OpenClaw](https://www.kdnuggets.com/5-fun-projects-using-openclaw) (2026-04-06)
 - [The Most Common Statistical Traps in FAANG Interviews](https://www.kdnuggets.com/the-most-common-statistical-traps-in-faang-interviews) (2026-04-03)
 - [5 Useful Docker Containers for Agentic Developers](https://www.kdnuggets.com/5-useful-docker-containers-for-agentic-developers) (2026-04-03)
 - [“Just in Time” World Modeling Supports Human Planning and Reasoning](https://www.kdnuggets.com/just-in-time-world-modeling-supports-human-planning-and-reasoning) (2026-04-02)
 - [LLMOps in 2026: The 10 Tools Every Team Must Have](https://www.kdnuggets.com/llmops-in-2026-the-10-tools-every-team-must-have) (2026-04-02)
-- [Top 5 Agent Skill Marketplaces for Building Powerful AI Agents](https://www.kdnuggets.com/top-5-agent-skill-marketplaces-for-building-powerful-ai-agents) (2026-04-02)
 
 </details>
 
