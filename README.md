@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The Xiaomi 17 Ultra has some impressive add-ons that make snapping photos really fun](https://techcrunch.com/2026/04/06/xiaomi-17-ultra-review-camera-leica-specs-photography-kit-pro/) (2026-04-06)
 - [Polymarket took down wagers tied to rescue of downed Air Force officer](https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/) (2026-04-05)
 - [Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use](https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/) (2026-04-05)
 - [As people look for ways to make new friends, here are the apps promising to help](https://techcrunch.com/2026/04/05/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/) (2026-04-05)
 - [TechCrunch Mobility: ‘A stunning lack of transparency’](https://techcrunch.com/2026/04/05/techcrunch-mobility-a-stunning-lack-of-transparency/) (2026-04-05)
-- [Can orbital data centers help justify a massive valuation for SpaceX?](https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/) (2026-04-05)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [US War Machine Is Built on Decades of Lies. The Assault on Iran Is No Exception](https://truthout.org/articles/us-war-machine-is-built-on-decades-of-lies-the-assault-on-iran-is-no-exception/) (2026-04-06)
-- [Apex Protocol – An open MCP-based standard for AI agent trading](https://apexstandard.org/) (2026-04-06)
-- [Employers use your personal data to figure out the lowest salary you'll accept](https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb) (2026-04-06)
-- [Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm) (2026-04-06)
-- [Show HN: YouTube search barely works, I made a search form with advanced filters](https://playlists.at/youtube/search/) (2026-04-06)
+- [SideX – A Tauri-based port of Visual Studio Code](https://github.com/Sidenai/sidex) (2026-04-06)
+- [Winners of the 2026 Kokuyo Design Awards](https://spoon-tamago.com/winners-of-the-2026-kokuyo-design-awards/) (2026-04-06)
+- [Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice](https://github.com/mikf/gallery-dl/discussions/9304) (2026-04-06)
+- [An open-source 240-antenna array to bounce signals off the Moon](https://moonrf.com/) (2026-04-06)
+- [The 1987 game “The Last Ninja” was 40 kilobytes](https://twitter.com/exQUIZitely/status/2040777977521398151) (2026-04-06)
 
 </details>
 
@@ -97,24 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Q, K, V : The Three Things Every Great Tech Lead Does Without Knowing It](https://dev.to/sreeni5018/q-k-v-the-three-things-every-great-tech-lead-does-without-knowing-it-227i) (2026-04-06)
-- [Deploying LibreChat on Amazon ECS using Terraform](https://dev.to/aws-builders/deploying-librechat-on-amazon-ecs-using-terraform-1aoj) (2026-04-06)
-- [dcvpg — Data Contract Validator & Pipeline Guardian 🛡️](https://dev.to/pasindu_dilshan_b459aa2c8/dcvpg-data-contract-validator-pipeline-guardian-3d7) (2026-04-06)
-- [How to Quantify Resume Bullet Points: 50 Examples & Formulas](https://dev.to/sarah_m/how-to-quantify-resume-bullet-points-50-examples-formulas-n) (2026-04-06)
-- [How to Learn from Projects in the AI Era: Vault Cross-Project Persistent Storage System](https://dev.to/newbe36524/how-to-learn-from-projects-in-the-ai-era-vault-cross-project-persistent-storage-system-59d2) (2026-04-06)
+- [Your Next Employer Already Knows the Lowest Salary You will Accept. An Algorithm Told Them.](https://dev.to/adioof/your-next-employer-already-knows-the-lowest-salary-you-will-accept-an-algorithm-told-them-1mkl) (2026-04-06)
+- [Multichannel AI Agent: Shared Memory Across Messaging Platforms](https://dev.to/aws/multichannel-ai-agent-shared-memory-across-messaging-platforms-56j4) (2026-04-06)
+- [I Love Detailed Releases. I Hate Doing Them.](https://dev.to/chris_king_bcff3b9663e84a/i-love-detailed-releases-i-hate-doing-them-4kmk) (2026-04-06)
+- [What Predicts a Hit? I Trained 3 ML Models to Find Out](https://dev.to/carasjung/what-predicts-a-hit-i-trained-3-ml-models-to-find-out-31mj) (2026-04-06)
+- [AWS Lambda PII Handling in Production: DynamoDB Field Encryption with KMS](https://dev.to/aws-builders/aws-lambda-pii-handling-in-production-dynamodb-field-encryption-with-kms-3oa6) (2026-04-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Friend Functions, Friend Classes & Virtual Inheritance in C++](https://medium.com/@codewithhs9/friend-functions-friend-classes-virtual-inheritance-in-c-eb2fe4ed7c00?source=rss------programming-5) (2026-04-06)
-- [12 Backend Tricks Nobody Talks About](https://medium.com/codetodeploy/12-backend-tricks-nobody-talks-about-06075a8e0710?source=rss------programming-5) (2026-04-06)
-- [The 2026 Developer Blueprint: How to Seize High-Value Opportunities in a Post-AI World](https://jokonardi.medium.com/the-2026-developer-blueprint-how-to-seize-high-value-opportunities-in-a-post-ai-world-1ad880d1898a?source=rss------programming-5) (2026-04-06)
-- [Flutter State Management in 2025:
-Why 80% of Developers Are Still Doing It Wrong](https://medium.com/@alaxhenry0121/flutter-state-management-in-2025-why-80-of-developers-are-still-doing-it-wrong-6b4aef2d99c6?source=rss------programming-5) (2026-04-06)
-- [You await Everything.
-The UI Still Freezes. Here's Why.](https://medium.com/@alaxhenry0121/you-await-everything-the-ui-still-freezes-heres-why-93eb6d000ebc?source=rss------programming-5) (2026-04-06)
+- [I Tried 8 “Beginner” Python Ideas — Only 3 Were Worth My Time](https://blog.stackademic.com/i-tried-8-beginner-python-ideas-only-3-were-worth-my-time-13c5119c48f3?source=rss------programming-5) (2026-04-06)
+- [Is PostgreSQL Dead? (Part II)](https://medium.com/postgresql-blogs/is-postgresql-dead-part-ii-33ca518a2166?source=rss------programming-5) (2026-04-06)
+- [What 20+ Years Of Leadership Taught Me About Engineers, Business, And The Space Between](https://medium.com/thriving-in-engineering/what-20-years-of-leadership-taught-me-about-engineers-business-and-the-space-between-9b5bb479ba58?source=rss------programming-5) (2026-04-06)
+- [Scaling to 100 Million Users: A Deep Dive into Designing a Global Social Feed Under the BASE…](https://medium.com/illumination/scaling-to-100-million-users-a-deep-dive-into-designing-a-global-social-feed-under-the-base-30a1153db7a5?source=rss------programming-5) (2026-04-06)
+- [An Open Letter to Elon Musk: What Your Demon Actually Is](https://medium.com/@kosi.gramatikoff/an-open-letter-to-elon-musk-what-your-demon-actually-is-391963792333?source=rss------programming-5) (2026-04-06)
 
 </details>
 
