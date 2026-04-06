@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Polymarket took down wagers tied to rescue of downed Air Force officer](https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/) (2026-04-05)
+- [Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use](https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/) (2026-04-05)
 - [As people look for ways to make new friends, here are the apps promising to help](https://techcrunch.com/2026/04/05/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/) (2026-04-05)
 - [TechCrunch Mobility: ‘A stunning lack of transparency’](https://techcrunch.com/2026/04/05/techcrunch-mobility-a-stunning-lack-of-transparency/) (2026-04-05)
 - [Can orbital data centers help justify a massive valuation for SpaceX?](https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/) (2026-04-05)
-- [In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/) (2026-04-05)
-- [Peter Thiel’s big bet on solar-powered cow collars](https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars/) (2026-04-04)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Reaffirming our commitment to child safety in the face of EuropeanUnion inaction](https://blog.google/company-news/inside-google/around-the-globe/google-europe/reaffirming-commitment-to-child-safety/) (2026-04-05)
-- [From birds to brains: My path to the fusiform face area (2024)](https://www.kavliprize.org/nancy-kanwisher-autobiography) (2026-04-05)
-- [The Melanesian: Dark-skinned people with blonde hair region of Oceania](https://guardian.ng/life/the-melanesian-dark-skinned-people-with-blonde-hair/) (2026-04-05)
-- [Codex is switching to API pricing based usage for all users](https://help.openai.com/en/articles/20001106-codex-rate-card) (2026-04-05)
-- [Computational Physics (2nd Edition)](https://websites.umich.edu/~mejn/cp2/) (2026-04-05)
+- [US War Machine Is Built on Decades of Lies. The Assault on Iran Is No Exception](https://truthout.org/articles/us-war-machine-is-built-on-decades-of-lies-the-assault-on-iran-is-no-exception/) (2026-04-06)
+- [Apex Protocol – An open MCP-based standard for AI agent trading](https://apexstandard.org/) (2026-04-06)
+- [Employers use your personal data to figure out the lowest salary you'll accept](https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb) (2026-04-06)
+- [Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm) (2026-04-06)
+- [Show HN: YouTube search barely works, I made a search form with advanced filters](https://playlists.at/youtube/search/) (2026-04-06)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Los Thuthanaka’s Wak&#8217;a is a mellower follow-up to last year’s surprise Pitchfork favorite](https://www.theverge.com/entertainment/907174/los-thuthanaka-waka-review) (2026-04-05)
 - [Suno is a music copyright nightmare](https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers) (2026-04-05)
 - [I let Gemini in Google Maps plan my day and it went surprisingly well](https://www.theverge.com/tech/907015/gemini-google-maps-hands-on) (2026-04-05)
 - [Is the Slate Truck too minimal for its own good?](https://www.theverge.com/transportation/905947/slate-truck-ev-minimal-range-size-interior-design) (2026-04-05)
 - [How the Amazon Echo learned to talk — and listen](https://www.theverge.com/podcast/907146/amazon-echo-alexa-version-history) (2026-04-05)
-- [Grammarly’s sloppelganger saga](https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga) (2026-04-05)
 
 </details>
 
@@ -97,22 +97,24 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How to Detect the Tech Stack of Any Website (2026 Guide)](https://dev.to/pavan_jangid_529a30e1d8c1/how-to-detect-the-tech-stack-of-any-website-2026-guide-5eml) (2026-04-05)
-- [I built an iOS app at 50 using AI tools. Here's what actually worked](https://dev.to/houbsta/title-i-built-an-ios-app-at-50-using-ai-tools-heres-what-actually-worked-2mci) (2026-04-05)
-- [Design Cost-Optimized Compute Solutions](https://dev.to/aws-builders/design-cost-optimized-compute-solutions-b6) (2026-04-05)
-- [CodeClone b4: from CLI tool to a real review surface for VS Code, Claude Desktop, and Codex](https://dev.to/orenlab/codeclone-b4-from-cli-tool-to-a-real-review-surface-for-vs-code-claude-desktop-and-codex-150c) (2026-04-05)
-- [How to Publish a Power BI Report and Embed it into a Website.](https://dev.to/mckakankato/how-to-publish-a-power-bi-report-and-embed-it-into-a-website-2m2o) (2026-04-05)
+- [Q, K, V : The Three Things Every Great Tech Lead Does Without Knowing It](https://dev.to/sreeni5018/q-k-v-the-three-things-every-great-tech-lead-does-without-knowing-it-227i) (2026-04-06)
+- [Deploying LibreChat on Amazon ECS using Terraform](https://dev.to/aws-builders/deploying-librechat-on-amazon-ecs-using-terraform-1aoj) (2026-04-06)
+- [dcvpg — Data Contract Validator & Pipeline Guardian 🛡️](https://dev.to/pasindu_dilshan_b459aa2c8/dcvpg-data-contract-validator-pipeline-guardian-3d7) (2026-04-06)
+- [How to Quantify Resume Bullet Points: 50 Examples & Formulas](https://dev.to/sarah_m/how-to-quantify-resume-bullet-points-50-examples-formulas-n) (2026-04-06)
+- [How to Learn from Projects in the AI Era: Vault Cross-Project Persistent Storage System](https://dev.to/newbe36524/how-to-learn-from-projects-in-the-ai-era-vault-cross-project-persistent-storage-system-59d2) (2026-04-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Claude has many surfaces. Here’s how I actually use each one.](https://pub.towardsai.net/claude-has-many-surfaces-heres-how-i-actually-use-each-one-df1f9ddfdae5?source=rss------programming-5) (2026-04-05)
-- [From Whiteboard to IDE: Implementing Google’s TurboQuant KV Cache Compression in Python](https://medium.com/data-science-collective/from-whiteboard-to-ide-implementing-googles-turboquant-kv-cache-compression-in-python-0e02b53a4640?source=rss------programming-5) (2026-04-05)
-- [Reading Type Hints at Runtime: What annotations Actually Contains](https://medium.com/@tihomir.manushev/reading-type-hints-at-runtime-what-annotations-actually-contains-e5cfd7e5f359?source=rss------programming-5) (2026-04-05)
-- [One Practical SQL Trigger Example You Can Actually Use](https://medium.com/@tiye_78900/one-practical-sql-trigger-example-you-can-actually-use-39341b4c76d3?source=rss------programming-5) (2026-04-05)
-- [8 React Mistakes That Beginners Keep Making](https://medium.com/skillstuff/8-react-mistakes-that-beginners-keep-making-a1dbaa3c3b4c?source=rss------programming-5) (2026-04-05)
+- [Friend Functions, Friend Classes & Virtual Inheritance in C++](https://medium.com/@codewithhs9/friend-functions-friend-classes-virtual-inheritance-in-c-eb2fe4ed7c00?source=rss------programming-5) (2026-04-06)
+- [12 Backend Tricks Nobody Talks About](https://medium.com/codetodeploy/12-backend-tricks-nobody-talks-about-06075a8e0710?source=rss------programming-5) (2026-04-06)
+- [The 2026 Developer Blueprint: How to Seize High-Value Opportunities in a Post-AI World](https://jokonardi.medium.com/the-2026-developer-blueprint-how-to-seize-high-value-opportunities-in-a-post-ai-world-1ad880d1898a?source=rss------programming-5) (2026-04-06)
+- [Flutter State Management in 2025:
+Why 80% of Developers Are Still Doing It Wrong](https://medium.com/@alaxhenry0121/flutter-state-management-in-2025-why-80-of-developers-are-still-doing-it-wrong-6b4aef2d99c6?source=rss------programming-5) (2026-04-06)
+- [You await Everything.
+The UI Still Freezes. Here's Why.](https://medium.com/@alaxhenry0121/you-await-everything-the-ui-still-freezes-heres-why-93eb6d000ebc?source=rss------programming-5) (2026-04-06)
 
 </details>
 
