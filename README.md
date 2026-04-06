@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Spain’s Xoople raises $130 million Series B to map the Earth for AI](https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/) (2026-04-06)
-- [The Xiaomi 17 Ultra has some impressive add-ons that make snapping photos really fun](https://techcrunch.com/2026/04/06/xiaomi-17-ultra-review-camera-leica-specs-photography-kit-pro/) (2026-04-06)
-- [Polymarket took down wagers tied to rescue of downed Air Force officer](https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/) (2026-04-05)
-- [Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use](https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/) (2026-04-05)
-- [As people look for ways to make new friends, here are the apps promising to help](https://techcrunch.com/2026/04/05/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/) (2026-04-05)
+- [Netflix launches a standalone app for kids’ games](https://techcrunch.com/2026/04/06/netflix-launches-a-standalone-app-for-kids-games/) (2026-04-06)
+- [Why safety regulators closed their investigation into Tesla’s remote parking feature](https://techcrunch.com/2026/04/06/tesla-actually-smart-summon-nhtsa-investigation-smart-parking/) (2026-04-06)
+- [Iran threatens ‘Stargate’ AI data centers](https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/) (2026-04-06)
+- [Apple plans Supreme Court appeal in Epic Games App Store battle — again](https://techcrunch.com/2026/04/06/apple-epic-games-lawsuit-supreme-court-appeal-app-store-commission/) (2026-04-06)
+- [Watch this video of how a job interviewer exposes a North Korean fake IT worker](https://techcrunch.com/2026/04/06/watch-this-video-of-how-a-job-interviewer-exposes-a-north-korean-fake-it-worker/) (2026-04-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Ask HN: How do systems (or people) detect when a text is written by an LLM](https://news.ycombinator.com/item?id=47659807) (2026-04-06)
-- [Tiny Corp's Exabox](https://twitter.com/__tinygrad__/status/2040944508402360592) (2026-04-06)
-- [The Intelligence Failure in Iran](https://www.theatlantic.com/national-security/2026/04/iran-war-intelligence-failure-trump/686694/) (2026-04-06)
-- [Is Germany's gold safe in New York ?](https://www.dw.com/en/is-germanys-gold-safe-in-new-york/video-75766873) (2026-04-06)
-- [Age Verification as Mass Surveillance Infrastructure](https://tboteproject.com/surveillancefindings/) (2026-04-06)
+- [Adobe modifies hosts file to detect whether Creative Cloud is installed](https://www.osnews.com/story/144737/adobe-secretly-modifies-your-hosts-file-for-the-stupidest-reason/) (2026-04-06)
+- [Battle for Wesnoth: open-source, turn-based strategy game](https://www.wesnoth.org) (2026-04-06)
+- [Launch HN: Freestyle: Sandboxes for AI Coding Agents](https://www.freestyle.sh) (2026-04-06)
+- [Show HN: GovAuctions lets you browse government auctions at once](https://www.govauctions.app/) (2026-04-06)
+- [81yo Dodgers fan can no longer get tickets because he doesn't have a smartphone](https://twitter.com/Suzierizzo1/status/2040864617467924865) (2026-04-06)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Can AI responses be influenced? The SEO industry is trying](https://www.theverge.com/tech/900302/ai-seo-industry-google-search-chatgpt-gemini-marketing) (2026-04-06)
-- [Los Thuthanaka’s Wak&#8217;a is a mellower follow-up to last year’s surprise Pitchfork favorite](https://www.theverge.com/entertainment/907174/los-thuthanaka-waka-review) (2026-04-05)
-- [Suno is a music copyright nightmare](https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers) (2026-04-05)
-- [I let Gemini in Google Maps plan my day and it went surprisingly well](https://www.theverge.com/tech/907015/gemini-google-maps-hands-on) (2026-04-05)
-- [Is the Slate Truck too minimal for its own good?](https://www.theverge.com/transportation/905947/slate-truck-ev-minimal-range-size-interior-design) (2026-04-05)
+- [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals) (2026-04-06)
+- [DJI’s Mic Mini records clear audio on the go, and it&#8217;s on sale for $60](https://www.theverge.com/gadgets/907582/dji-mic-mini-two-transmitters-deal-sale) (2026-04-06)
+- [Robotaxi companies won’t say how often remote operators intervene](https://www.theverge.com/transportation/907478/robotaxi-remote-assistance-markey-investigation-waymo-tesla) (2026-04-06)
+- [NASA’s Artemis II mission to fly around the far side of the Moon](https://www.theverge.com/2019/7/19/20700565/nasa-artemis-moon-return-landing-trump-administration-jim-bridenstine) (2026-04-06)
+- [Netflix is launching a new app for kids games](https://www.theverge.com/entertainment/907293/netflix-playground-kids-games-app) (2026-04-06)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [CBP facility codes sure seem to have leaked via online flashcards](https://arstechnica.com/security/2026/04/cbp-facility-codes-sure-seem-to-have-leaked-via-online-flashcards/) (2026-04-05)
-- [Artemis II is going so well that we're left to talk about frozen urine](https://arstechnica.com/space/2026/04/artemis-ii-is-going-so-well-that-were-left-to-talk-about-frozen-urine/) (2026-04-05)
-- [Tech companies are trying to neuter Colorado’s landmark right-to-repair law](https://arstechnica.com/tech-policy/2026/04/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/) (2026-04-04)
-- [Trump proposes steep cut to NASA budget as astronauts head for the Moon](https://arstechnica.com/space/2026/04/trump-proposes-steep-cut-to-nasa-budget-as-astronauts-head-for-the-moon/) (2026-04-03)
-- [Ice Age dice show early Native Americans may have understood probability](https://arstechnica.com/science/2026/04/ice-age-dice-show-early-native-americans-may-have-understood-probability/) (2026-04-03)
+- [NASA's Moon ship and rocket seem to be working well, so what about the landers?](https://arstechnica.com/space/2026/04/nasas-moon-ship-and-rocket-seem-to-be-working-well-so-what-about-the-landers/) (2026-04-06)
+- [Teardown of unreleased LG Rollable shows why rollable phones aren't a thing](https://arstechnica.com/gadgets/2026/04/teardown-of-unreleased-lg-rollable-shows-why-rollable-phones-arent-a-thing/) (2026-04-06)
+- [Used EV sales spike alongside gas prices](https://arstechnica.com/cars/2026/04/used-ev-sales-spike-alongside-gas-prices/) (2026-04-06)
+- [Why will today's lunar flyby only beam back low-resolution video?](https://arstechnica.com/space/2026/04/video-from-artemis-ii-flyby-of-the-moon-will-not-initially-look-spectacular/) (2026-04-06)
+- [What Memento reveals about human nature, 25 years later](https://arstechnica.com/culture/2026/04/memento-turns-25/) (2026-04-06)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The one piece of data that could actually shed light on your job and AI](https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/) (2026-04-06)
 - [AI is changing how small online sellers decide what to make](https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/) (2026-04-06)
 - [Four things we’d need to put data centers in space](https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/) (2026-04-03)
 - [The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO](https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/) (2026-04-02)
 - [Fuel prices are soaring. Plastic could be next.](https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/) (2026-04-02)
-- [The Download: gig workers training humanoids, and better AI benchmarks](https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/) (2026-04-01)
 
 </details>
 
@@ -97,33 +97,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Unlocking GitHub Actions: Why the 'Workflow' Permission is a Productivity Bottleneck](https://dev.to/devactivity/unlocking-github-actions-why-the-workflow-permission-is-a-productivity-bottleneck-m52) (2026-04-06)
-- [Restaking and the Security Economy: How EigenLayer Changed Everything](https://dev.to/ribhavmodi/restaking-and-the-security-economy-how-eigenlayer-changed-everything-2lfc) (2026-04-06)
-- [Lock Down Claude Code With 5 Permission Patterns](https://dev.to/klement_gunndu/lock-down-claude-code-with-5-permission-patterns-4gcn) (2026-04-06)
-- [Top 10 CLI Tools to Level-Up Claude Code](https://dev.to/composiodev/top-10-cli-tools-to-level-up-claude-code-1kf9) (2026-04-06)
-- [How We Simulate 2,000+ Infrastructure Failures Without Touching Production](https://dev.to/yutaro_41c2deef88001afd50/how-we-simulate-2000-infrastructure-failures-without-touching-production-2kap) (2026-04-06)
+- [# MCP, A2A, and FastMCP: The Nervous System of Modern AI Applications](https://dev.to/nikhil_ramank_152ca48266/-mcp-a2a-and-fastmcp-the-nervous-system-of-modern-ai-applications-111m) (2026-04-06)
+- [How we cut game update bandwidth by 94% building our own delta sync protocol](https://dev.to/rubencfue/how-we-cut-game-update-bandwidth-by-94-building-our-own-delta-sync-protocol-lp3) (2026-04-06)
+- [How I Built a Performance Dashboard for a Multi-Office Chiropractic Practice](https://dev.to/pyleninlabs/how-i-built-a-performance-dashboard-for-a-multi-office-chiropractic-practice-573g) (2026-04-06)
+- [Migrating from Google Analytics to Privacy-First Alternatives in 2026](https://dev.to/alanwest/migrating-from-google-analytics-to-privacy-first-alternatives-in-2026-1m5b) (2026-04-06)
+- [How We Built a Card Game Platform with 3 Million Players (and What We Learned)](https://dev.to/ace_rei/how-we-built-a-card-game-platform-with-3-million-players-and-what-we-learned-mj0) (2026-04-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Last Generation That Read the Code](https://medium.com/@tfmv/the-last-generation-that-read-the-code-2ce31f5fd8b8?source=rss------programming-5) (2026-04-06)
-- [Object-Oriented Programming, Science, the Economy of Thought](https://medium.com/@kasamaru_hatsuka/object-oriented-programming-science-the-economy-of-thought-f05d94ceeda7?source=rss------programming-5) (2026-04-06)
-- [iOS Live Activities Explained: The Mental Model Most Developers Miss](https://medium.com/@tarangsultania54/ios-live-activities-explained-the-mental-model-most-developers-miss-303134099fab?source=rss------programming-5) (2026-04-06)
-- [Claude Code’s $2.5B Harness Leaked. Four Patterns Reveal Why Cloning Fails](https://deshpandetanmay.medium.com/claude-codes-2-5b-harness-leaked-four-patterns-reveal-why-cloning-fails-54f00b76a55e?source=rss------programming-5) (2026-04-06)
-- [Everyone on Your Team Is Faster. Why Is Nothing Shipping?](https://medium.com/@adityakumar_82046/everyone-on-your-team-is-faster-why-is-nothing-shipping-059c866be463?source=rss------programming-5) (2026-04-06)
+- [The Java + Spring Boot Blueprint (Blog 5: Data Types in Java — What Your Variables Actually Store)](https://medium.com/@theDevBluePrint/the-java-spring-boot-blueprint-blog-5-data-types-in-java-what-your-variables-actually-store-c4a91eb6a5d1?source=rss------programming-5) (2026-04-06)
+- [When GitHub Copilot Plan Mode Overcomplicates Simple Problems](https://medium.com/@maheshkhond11/when-github-copilot-plan-mode-overcomplicates-simple-problems-97405e4d0a99?source=rss------programming-5) (2026-04-06)
+- [How Anthropic Is Quietly Winning the AI Race](https://ai.gopubby.com/how-anthropic-is-quietly-winning-the-ai-race-6d7f2d44a9de?source=rss------programming-5) (2026-04-06)
+- [How to Stop Procrastinating and Actually Get Things Done](https://blog.stackademic.com/how-to-stop-procrastinating-and-actually-get-things-done-49095c466c7a?source=rss------programming-5) (2026-04-06)
+- [The April 6, 2026 AI Security Awakening: 7 Undiscovered Wealth Engines From the OWASP Agentic…](https://medium.com/@mohammedalhag190/the-april-6-2026-ai-security-awakening-7-undiscovered-wealth-engines-from-the-owasp-agentic-7be46dbae78e?source=rss------programming-5) (2026-04-06)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [AWS Weekly Roundup: AWS DevOps Agent & Security Agent GA, Product Lifecycle updates, and more (April 6, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-devops-agent-security-agent-ga-product-lifecycle-updates-and-more-april-6-2026/) (2026-04-06)
 - [Amazon Bedrock Guardrails supports cross-account safeguards with centralized control and management](https://aws.amazon.com/blogs/aws/amazon-bedrock-guardrails-supports-cross-account-safeguards-with-centralized-control-and-management/) (2026-04-03)
 - [Announcing managed daemon support for Amazon ECS Managed Instances](https://aws.amazon.com/blogs/aws/announcing-managed-daemon-support-for-amazon-ecs-managed-instances/) (2026-04-01)
 - [Announcing the AWS Sustainability console: Programmatic access, configurable CSV reports, and Scope 1–3 reporting in one place](https://aws.amazon.com/blogs/aws/announcing-the-aws-sustainability-console-programmatic-access-configurable-csv-reports-and-scope-1-3-reporting-in-one-place/) (2026-03-31)
 - [AWS Weekly Roundup: AWS AI/ML Scholars program, Agent Plugin for AWS Serverless, and more (March 30, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-ai-ml-scholars-program-agent-plugin-for-aws-serverless-and-more-march-30-2026/) (2026-03-30)
-- [Customize your AWS Management Console experience with visual settings including account color, region and service visibility](https://aws.amazon.com/blogs/aws/customize-your-aws-management-console-experience-with-visual-settings-including-account-color-region-and-service-visibility/) (2026-03-26)
 
 </details>
 
@@ -141,7 +141,7 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
-- [National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources](https://blogs.nvidia.com/blog/national-robotics-week-2026/) (2026-04-04)
+- [National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources](https://blogs.nvidia.com/blog/national-robotics-week-2026/) (2026-04-06)
 - [From RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AI](https://blogs.nvidia.com/blog/rtx-ai-garage-open-models-google-gemma-4/) (2026-04-02)
 - [Press Start on April: GeForce NOW Brings 10 Games to the Cloud](https://blogs.nvidia.com/blog/geforce-now-thursday-april-2026-games-list/) (2026-04-02)
 - [Efficiency at Scale: NVIDIA, Energy Leaders Accelerating Power‑Flexible AI Factories to Fortify the Grid](https://blogs.nvidia.com/blog/energy-efficiency-ai-factories-grid/) (2026-03-31)
@@ -251,11 +251,11 @@
 <details>
 <summary>👥 Facebook Engineering</summary>
 
+- [How Meta Used AI to Map Tribal Knowledge in Large-Scale Data Pipelines](https://engineering.fb.com/2026/04/06/developer-tools/how-meta-used-ai-to-map-tribal-knowledge-in-large-scale-data-pipelines/) (2026-04-06)
 - [KernelEvolve: How Meta’s Ranking Engineer Agent Optimizes AI Infrastructure](https://engineering.fb.com/2026/04/02/developer-tools/kernelevolve-how-metas-ranking-engineer-agent-optimizes-ai-infrastructure/) (2026-04-02)
 - [Meta Adaptive Ranking Model: Bending the Inference Scaling Curve to Serve LLM-Scale Models for Ads](https://engineering.fb.com/2026/03/31/ml-applications/meta-adaptive-ranking-model-bending-the-inference-scaling-curve-to-serve-llm-scale-models-for-ads/) (2026-03-31)
 - [AI for American-Produced Cement and Concrete](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/) (2026-03-30)
 - [Friend Bubbles: Enhancing Social Discovery on Facebook Reels](https://engineering.fb.com/2026/03/18/ml-applications/friend-bubbles-enhancing-social-discovery-on-facebook-reels/) (2026-03-18)
-- [Ranking Engineer Agent (REA): The Autonomous AI Agent Accelerating Meta’s Ads Ranking Innovation](https://engineering.fb.com/2026/03/17/developer-tools/ranking-engineer-agent-rea-autonomous-ai-system-accelerating-meta-ads-ranking-innovation/) (2026-03-17)
 
 </details>
 
@@ -560,11 +560,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/enable-branded-ca
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [The Geometry Behind the Dot Product: Unit Vectors, Projections, and Intuition](https://towardsdatascience.com/the-geometry-behind-the-dot-product-unit-vectors-projections-and-intuition/) (2026-04-06)
+- [How to Run Claude Code Agents in Parallel](https://towardsdatascience.com/how-to-run-claude-code-agents-in-parallel/) (2026-04-06)
 - [Behavior is the New Credential](https://towardsdatascience.com/behavior-is-the-new-credential/) (2026-04-06)
 - [Proxy-Pointer RAG: Achieving Vectorless Accuracy at Vector RAG Scale and Cost](https://towardsdatascience.com/proxy-pointer-rag-achieving-vectorless-accuracy-at-vector-rag-scale-and-cost/) (2026-04-05)
 - [A Data Scientist’s Take on the $599 MacBook Neo](https://towardsdatascience.com/a-data-scientists-take-on-the-599-macbook-neo/) (2026-04-05)
-- [Building a Python Workflow That Catches Bugs Before Production](https://towardsdatascience.com/building-a-python-workflow-that-catches-bugs-before-production/) (2026-04-04)
-- [Building Robust Credit Scoring Models with Python](https://towardsdatascience.com/building-robust-credit-scoring-models-with-python/) (2026-04-04)
 
 </details>
 
@@ -582,22 +582,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/enable-branded-ca
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [AI Isn’t Coming For Your Job: Automation Is](https://www.kdnuggets.com/ai-isnt-coming-for-your-job-automation-is) (2026-04-06)
 - [5 Fun Projects Using OpenClaw](https://www.kdnuggets.com/5-fun-projects-using-openclaw) (2026-04-06)
 - [The Most Common Statistical Traps in FAANG Interviews](https://www.kdnuggets.com/the-most-common-statistical-traps-in-faang-interviews) (2026-04-03)
 - [5 Useful Docker Containers for Agentic Developers](https://www.kdnuggets.com/5-useful-docker-containers-for-agentic-developers) (2026-04-03)
 - [“Just in Time” World Modeling Supports Human Planning and Reasoning](https://www.kdnuggets.com/just-in-time-world-modeling-supports-human-planning-and-reasoning) (2026-04-02)
-- [LLMOps in 2026: The 10 Tools Every Team Must Have](https://www.kdnuggets.com/llmops-in-2026-the-10-tools-every-team-must-have) (2026-04-02)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Top 5 Reranking Models to Improve RAG Results](https://machinelearningmastery.com/top-5-reranking-models-to-improve-rag-results/) (2026-04-06)
 - [7 Machine Learning Trends to Watch in 2026](https://machinelearningmastery.com/7-machine-learning-trends-to-watch-in-2026/) (2026-04-01)
 - [Building a ‘Human-in-the-Loop’ Approval Gate for Autonomous Agents](https://machinelearningmastery.com/building-a-human-in-the-loop-approval-gate-for-autonomous-agents/) (2026-03-31)
 - [From Prompt to Prediction: Understanding Prefill, Decode, and the KV Cache in LLMs](https://machinelearningmastery.com/from-prompt-to-prediction-understanding-prefill-decode-and-the-kv-cache-in-llms/) (2026-03-30)
 - [7 Essential Python Itertools for Feature Engineering](https://machinelearningmastery.com/7-essential-python-itertools-for-feature-engineering/) (2026-03-30)
-- [LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes](https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/) (2026-03-27)
 
 </details>
 
