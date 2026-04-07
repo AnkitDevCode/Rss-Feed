@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Netflix launches a standalone app for kids’ games](https://techcrunch.com/2026/04/06/netflix-launches-a-standalone-app-for-kids-games/) (2026-04-06)
+- [OpenAI alums have been quietly investing from a new, potentially $100M fund ](https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/) (2026-04-06)
+- [Gas prices aren’t the only factor fueling used EV sales](https://techcrunch.com/2026/04/06/gas-prices-arent-the-only-factor-fueling-used-ev-sales/) (2026-04-06)
+- [Google quietly launched an AI dictation app that works offline](https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/) (2026-04-06)
+- [Netflix is expanding into kids’ games with a new stand-alone app](https://techcrunch.com/2026/04/06/netflix-launches-a-standalone-app-for-kids-games/) (2026-04-06)
 - [Why safety regulators closed their investigation into Tesla’s remote parking feature](https://techcrunch.com/2026/04/06/tesla-actually-smart-summon-nhtsa-investigation-smart-parking/) (2026-04-06)
-- [Iran threatens ‘Stargate’ AI data centers](https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/) (2026-04-06)
-- [Apple plans Supreme Court appeal in Epic Games App Store battle — again](https://techcrunch.com/2026/04/06/apple-epic-games-lawsuit-supreme-court-appeal-app-store-commission/) (2026-04-06)
-- [Watch this video of how a job interviewer exposes a North Korean fake IT worker](https://techcrunch.com/2026/04/06/watch-this-video-of-how-a-job-interviewer-exposes-a-north-korean-fake-it-worker/) (2026-04-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Adobe modifies hosts file to detect whether Creative Cloud is installed](https://www.osnews.com/story/144737/adobe-secretly-modifies-your-hosts-file-for-the-stupidest-reason/) (2026-04-06)
-- [Battle for Wesnoth: open-source, turn-based strategy game](https://www.wesnoth.org) (2026-04-06)
-- [Launch HN: Freestyle: Sandboxes for AI Coding Agents](https://www.freestyle.sh) (2026-04-06)
-- [Show HN: GovAuctions lets you browse government auctions at once](https://www.govauctions.app/) (2026-04-06)
-- [81yo Dodgers fan can no longer get tickets because he doesn't have a smartphone](https://twitter.com/Suzierizzo1/status/2040864617467924865) (2026-04-06)
+- [Solod – A Subset of Go That Translates to C](https://github.com/solod-dev/solod) (2026-04-07)
+- [After 20 years I turned off Google Adsense for my websites](https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm) (2026-04-06)
+- [Anthropic expands partnership with Google and Broadcom for next-gen compute](https://www.anthropic.com/news/google-broadcom-partnership-compute) (2026-04-06)
+- [Show HN: Hippo, biologically inspired memory for AI agents](https://github.com/kitfunso/hippo-memory) (2026-04-06)
+- [Ask HN: How do you handle marketing as a solo technical founder?](https://news.ycombinator.com/item?id=47667504) (2026-04-06)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Wisconsin governor says ‘no’ to age checks for porn](https://www.theverge.com/policy/907761/wisconsin-governor-porn-age-verification-vetoed) (2026-04-06)
+- [Artemis II astronauts break a record, name a crater](https://www.theverge.com/science/907682/nasa-artemis-ii-distance-record-crater-names) (2026-04-06)
 - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals) (2026-04-06)
 - [DJI’s Mic Mini records clear audio on the go, and it&#8217;s on sale for $60](https://www.theverge.com/gadgets/907582/dji-mic-mini-two-transmitters-deal-sale) (2026-04-06)
 - [Robotaxi companies won’t say how often remote operators intervene](https://www.theverge.com/transportation/907478/robotaxi-remote-assistance-markey-investigation-waymo-tesla) (2026-04-06)
-- [NASA’s Artemis II mission to fly around the far side of the Moon](https://www.theverge.com/2019/7/19/20700565/nasa-artemis-moon-return-landing-trump-administration-jim-bridenstine) (2026-04-06)
-- [Netflix is launching a new app for kids games](https://www.theverge.com/entertainment/907293/netflix-playground-kids-games-app) (2026-04-06)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [NASA's Moon ship and rocket seem to be working well, so what about the landers?](https://arstechnica.com/space/2026/04/nasas-moon-ship-and-rocket-seem-to-be-working-well-so-what-about-the-landers/) (2026-04-06)
-- [Teardown of unreleased LG Rollable shows why rollable phones aren't a thing](https://arstechnica.com/gadgets/2026/04/teardown-of-unreleased-lg-rollable-shows-why-rollable-phones-arent-a-thing/) (2026-04-06)
-- [Used EV sales spike alongside gas prices](https://arstechnica.com/cars/2026/04/used-ev-sales-spike-alongside-gas-prices/) (2026-04-06)
-- [Why will today's lunar flyby only beam back low-resolution video?](https://arstechnica.com/space/2026/04/video-from-artemis-ii-flyby-of-the-moon-will-not-initially-look-spectacular/) (2026-04-06)
-- [What Memento reveals about human nature, 25 years later](https://arstechnica.com/culture/2026/04/memento-turns-25/) (2026-04-06)
+- [After court loss, RFK Jr. gives himself more power over CDC vaccine panel](https://arstechnica.com/health/2026/04/after-court-loss-rfk-jr-gives-himself-more-power-over-cdc-vaccine-panel/) (2026-04-06)
+- [From folding boxes to fixing vacuums, GEN-1 robotics model hits 99% reliability](https://arstechnica.com/ai/2026/04/generalists-new-physical-robotics-ai-brings-production-level-success-rates/) (2026-04-06)
+- [Sports bets on prediction markets ruled to be "swaps," exempt from state laws](https://arstechnica.com/tech-policy/2026/04/sports-bets-on-prediction-markets-ruled-to-be-swaps-exempt-from-state-laws/) (2026-04-06)
+- [Trump's next budget once again calls for massive cuts to science](https://arstechnica.com/science/2026/04/trumps-next-budget-once-again-calls-for-massive-cuts-to-science/) (2026-04-06)
+- [“The problem is Sam Altman”: OpenAI Insiders don’t trust CEO](https://arstechnica.com/tech-policy/2026/04/the-problem-is-sam-altman-openai-insiders-dont-trust-ceo/) (2026-04-06)
 
 </details>
 
@@ -75,11 +75,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [GitHub Copilot CLI combines model families for a second opinion](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/) (2026-04-06)
 - [The uphill climb of making diff lines performant](https://github.blog/engineering/architecture-optimization/the-uphill-climb-of-making-diff-lines-performant/) (2026-04-03)
 - [Securing the open source supply chain across GitHub](https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-across-github/) (2026-04-01)
 - [Run multiple agents at once with /fleet in Copilot CLI](https://github.blog/ai-and-ml/github-copilot/run-multiple-agents-at-once-with-fleet-in-copilot-cli/) (2026-04-01)
 - [Agent-driven development in Copilot Applied Science](https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/) (2026-03-31)
-- [GitHub for Beginners: Getting started with GitHub security](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-security/) (2026-03-30)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [# MCP, A2A, and FastMCP: The Nervous System of Modern AI Applications](https://dev.to/nikhil_ramank_152ca48266/-mcp-a2a-and-fastmcp-the-nervous-system-of-modern-ai-applications-111m) (2026-04-06)
-- [How we cut game update bandwidth by 94% building our own delta sync protocol](https://dev.to/rubencfue/how-we-cut-game-update-bandwidth-by-94-building-our-own-delta-sync-protocol-lp3) (2026-04-06)
-- [How I Built a Performance Dashboard for a Multi-Office Chiropractic Practice](https://dev.to/pyleninlabs/how-i-built-a-performance-dashboard-for-a-multi-office-chiropractic-practice-573g) (2026-04-06)
-- [Migrating from Google Analytics to Privacy-First Alternatives in 2026](https://dev.to/alanwest/migrating-from-google-analytics-to-privacy-first-alternatives-in-2026-1m5b) (2026-04-06)
-- [How We Built a Card Game Platform with 3 Million Players (and What We Learned)](https://dev.to/ace_rei/how-we-built-a-card-game-platform-with-3-million-players-and-what-we-learned-mj0) (2026-04-06)
+- [How We Built a Safety-First Rust Agent CLI in Two Days Without Letting the Codebase Turn to Mush](https://dev.to/verivusossreleases/how-we-built-a-safety-first-rust-agent-cli-in-two-days-without-letting-the-codebase-turn-to-mush-13hj) (2026-04-07)
+- [How I Built an AI-Powered Islamic App Using Flutter and Supabase](https://dev.to/samim_uddin_36b89fe4b7e58/how-i-built-an-ai-powered-islamic-app-using-flutter-and-supabase-1idg) (2026-04-07)
+- [Figma Made a Huge Step Forward in AI Design - (April 2026)](https://dev.to/spookuspookus/figma-made-a-huge-step-forward-in-ai-design-april-2026-1cin) (2026-04-07)
+- [We Scanned 25 OpenClaw Skills for Security Vulnerabilities — Here's What We Found](https://dev.to/agentgraph/methodology-18ki) (2026-04-07)
+- [How to Create a Pipeline with Dotflow in Python](https://dev.to/fernandocelmer/how-to-create-a-pipeline-with-dotflow-in-python-47j3) (2026-04-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Java + Spring Boot Blueprint (Blog 5: Data Types in Java — What Your Variables Actually Store)](https://medium.com/@theDevBluePrint/the-java-spring-boot-blueprint-blog-5-data-types-in-java-what-your-variables-actually-store-c4a91eb6a5d1?source=rss------programming-5) (2026-04-06)
-- [When GitHub Copilot Plan Mode Overcomplicates Simple Problems](https://medium.com/@maheshkhond11/when-github-copilot-plan-mode-overcomplicates-simple-problems-97405e4d0a99?source=rss------programming-5) (2026-04-06)
-- [How Anthropic Is Quietly Winning the AI Race](https://ai.gopubby.com/how-anthropic-is-quietly-winning-the-ai-race-6d7f2d44a9de?source=rss------programming-5) (2026-04-06)
-- [How to Stop Procrastinating and Actually Get Things Done](https://blog.stackademic.com/how-to-stop-procrastinating-and-actually-get-things-done-49095c466c7a?source=rss------programming-5) (2026-04-06)
-- [The April 6, 2026 AI Security Awakening: 7 Undiscovered Wealth Engines From the OWASP Agentic…](https://medium.com/@mohammedalhag190/the-april-6-2026-ai-security-awakening-7-undiscovered-wealth-engines-from-the-owasp-agentic-7be46dbae78e?source=rss------programming-5) (2026-04-06)
+- [Mastering Java’s Arrays Class](https://medium.com/@suresrivenkatramasurya/mastering-javas-arrays-class-a2315e2866a8?source=rss------programming-5) (2026-04-07)
+- [The Journey of a Typescript Line: From Our Fingers into the Heart of the Machine.](https://medium.com/@thinunesc/the-journey-of-a-typescript-line-from-our-fingers-into-the-heart-of-the-machine-1b4cfd5eb62c?source=rss------programming-5) (2026-04-07)
+- [On Leetcode Challenge "Equal Sum Grid Partition II"](https://medium.com/@altaiconsultinginc/on-leetcode-challenge-equal-sum-grid-partition-ii-1671affc1783?source=rss------programming-5) (2026-04-07)
+- [Python Is Easy to Learn — But That’s Why Most Developers Stay Average](https://python.plainenglish.io/python-is-easy-to-learn-but-thats-why-most-developers-stay-average-df5851a13468?source=rss------programming-5) (2026-04-07)
+- [The Agentic Revolution: How to Build a 2026 Digital Empire with Autonomous AI](https://medium.com/@MindHackersAI/the-agentic-revolution-how-to-build-a-2026-digital-empire-with-autonomous-ai-a4ba04a92d21?source=rss------programming-5) (2026-04-07)
 
 </details>
 
@@ -240,11 +240,11 @@
 <details>
 <summary>🎵 Spotify Engineering</summary>
 
+- [Let’s Talk Agentic Development: Spotify x Anthropic Live](https://engineering.atspotify.com/2026/4/anthropic-agentic-development/) (2026-04-06)
 - [Inside the Archive: The Tech Behind Your 2025 Wrapped Highlights](https://engineering.atspotify.com/2026/3/inside-the-archive-2025-wrapped/) (2026-03-12)
 - [Our Multi-Agent Architecture for Smarter Advertising](https://engineering.atspotify.com/2026/2/our-multi-agent-architecture-for-smarter-advertising/) (2026-02-19)
 - [How We Release the Spotify App: A Look Under the Hood (Part 2)](https://engineering.atspotify.com/2026/2/how-we-release-the-spotify-app-part-2/) (2026-02-09)
 - [Congratulations to the recipients of the 2025 Spotify FOSS Fund](https://engineering.atspotify.com/2026/1/congratulations-to-the-recipients-of-the-2025-spotify-foss-fund/) (2026-01-22)
-- [Why We Use Separate Tech Stacks for Personalization and Experimentation](https://engineering.atspotify.com/2026/1/why-we-use-separate-tech-stacks-for-personalization-and-experimentation/) (2026-01-07)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [How we built Organizations to help enterprises manage Cloudflare at scale](https://blog.cloudflare.com/organizations-beta/) (2026-04-06)
 - [Why we're rethinking cache for the AI era](https://blog.cloudflare.com/rethinking-cache-ai-humans/) (2026-04-02)
 - [Our ongoing commitment to privacy for the 1.1.1.1 public DNS resolver](https://blog.cloudflare.com/1111-privacy-examination-2026/) (2026-04-01)
 - [Introducing EmDash — the spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/) (2026-04-01)
 - [Introducing Programmable Flow Protection: custom DDoS mitigation logic for Magic Transit customers](https://blog.cloudflare.com/programmable-flow-protection/) (2026-03-31)
-- [Cloudflare Client-Side Security: smarter detection, now open to everyone](https://blog.cloudflare.com/client-side-security-open-to-everyone/) (2026-03-30)
 
 </details>
 
@@ -541,8 +541,8 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/enable-branded-ca
 - [Welcome Gemma 4: Frontier multimodal intelligence on device](https://huggingface.co/blog/gemma4) (2026-04-02)
 - [Holo3: Breaking the Computer Use Frontier](https://huggingface.co/blog/Hcompany/holo3) (2026-04-01)
 - [Falcon Perception](https://huggingface.co/blog/tiiuae/falcon-perception) (2026-04-01)
+- [Any Custom Frontend with Gradio's Backend](https://huggingface.co/blog/introducing-gradio-server) (2026-04-01)
 - [Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents](https://huggingface.co/blog/ibm-granite/granite-4-vision) (2026-03-31)
-- [TRL v1.0: Post-Training Library Built to Move with the Field](https://huggingface.co/blog/trl-v1) (2026-03-31)
 
 </details>
 
@@ -582,11 +582,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/enable-branded-ca
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Building A Bulletproof Strategy For Data Recovery (Sponsored)](https://bit.ly/Ingram-topic-24-kdn-website) (2026-04-07)
 - [AI Isn’t Coming For Your Job: Automation Is](https://www.kdnuggets.com/ai-isnt-coming-for-your-job-automation-is) (2026-04-06)
 - [5 Fun Projects Using OpenClaw](https://www.kdnuggets.com/5-fun-projects-using-openclaw) (2026-04-06)
 - [The Most Common Statistical Traps in FAANG Interviews](https://www.kdnuggets.com/the-most-common-statistical-traps-in-faang-interviews) (2026-04-03)
 - [5 Useful Docker Containers for Agentic Developers](https://www.kdnuggets.com/5-useful-docker-containers-for-agentic-developers) (2026-04-03)
-- [“Just in Time” World Modeling Supports Human Planning and Reasoning](https://www.kdnuggets.com/just-in-time-world-modeling-supports-human-planning-and-reasoning) (2026-04-02)
 
 </details>
 
