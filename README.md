@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost](https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/) (2026-04-07)
+- [AI design platform Picsart launches a creator monetization program](https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/) (2026-04-07)
 - [OpenAI alums have been quietly investing from a new, potentially $100M fund ](https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/) (2026-04-06)
 - [Gas prices aren’t the only factor fueling used EV sales](https://techcrunch.com/2026/04/06/gas-prices-arent-the-only-factor-fueling-used-ev-sales/) (2026-04-06)
 - [Google quietly launched an AI dictation app that works offline](https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/) (2026-04-06)
-- [Netflix is expanding into kids’ games with a new stand-alone app](https://techcrunch.com/2026/04/06/netflix-launches-a-standalone-app-for-kids-games/) (2026-04-06)
-- [Why safety regulators closed their investigation into Tesla’s remote parking feature](https://techcrunch.com/2026/04/06/tesla-actually-smart-summon-nhtsa-investigation-smart-parking/) (2026-04-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Solod – A Subset of Go That Translates to C](https://github.com/solod-dev/solod) (2026-04-07)
-- [After 20 years I turned off Google Adsense for my websites](https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm) (2026-04-06)
+- [Solod – A subset of Go that translates to C](https://github.com/solod-dev/solod) (2026-04-07)
+- [After 20 years I turned off Google Adsense for my websites (2025)](https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm) (2026-04-06)
 - [Anthropic expands partnership with Google and Broadcom for next-gen compute](https://www.anthropic.com/news/google-broadcom-partnership-compute) (2026-04-06)
 - [Show HN: Hippo, biologically inspired memory for AI agents](https://github.com/kitfunso/hippo-memory) (2026-04-06)
-- [Ask HN: How do you handle marketing as a solo technical founder?](https://news.ycombinator.com/item?id=47667504) (2026-04-06)
+- [Peptides: where to begin?](https://www.science.org/content/blog-post/ah-peptides-where-begin) (2026-04-06)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [He designed C++ to solve your code problems](https://stackoverflow.blog/2026/04/07/he-designed-c-to-solve-your-code-problems/) (2026-04-07)
 - [Seizing the means of messenger production](https://stackoverflow.blog/2026/04/03/seizing-the-means-of-messenger-production/) (2026-04-03)
 - [What the AI trust gap means for enterprise SaaS](https://stackoverflow.blog/2026/04/02/what-the-ai-trust-gap-means-for-enterprise-saas/) (2026-04-02)
 - [How can you test your code when you don’t know what’s in it?](https://stackoverflow.blog/2026/03/31/how-can-you-test-your-code-when-you-don-t-know-what-s-in-it/) (2026-03-31)
 - [Prevent agentic identity theft](https://stackoverflow.blog/2026/03/27/prevent-agentic-identity-theft/) (2026-03-27)
-- [Building shared coding guidelines for AI (and people too)](https://stackoverflow.blog/2026/03/26/coding-guidelines-for-ai-agents-and-people-too/) (2026-03-26)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How We Built a Safety-First Rust Agent CLI in Two Days Without Letting the Codebase Turn to Mush](https://dev.to/verivusossreleases/how-we-built-a-safety-first-rust-agent-cli-in-two-days-without-letting-the-codebase-turn-to-mush-13hj) (2026-04-07)
-- [How I Built an AI-Powered Islamic App Using Flutter and Supabase](https://dev.to/samim_uddin_36b89fe4b7e58/how-i-built-an-ai-powered-islamic-app-using-flutter-and-supabase-1idg) (2026-04-07)
-- [Figma Made a Huge Step Forward in AI Design - (April 2026)](https://dev.to/spookuspookus/figma-made-a-huge-step-forward-in-ai-design-april-2026-1cin) (2026-04-07)
-- [We Scanned 25 OpenClaw Skills for Security Vulnerabilities — Here's What We Found](https://dev.to/agentgraph/methodology-18ki) (2026-04-07)
-- [How to Create a Pipeline with Dotflow in Python](https://dev.to/fernandocelmer/how-to-create-a-pipeline-with-dotflow-in-python-47j3) (2026-04-07)
+- [Microsoft Agent Framework for ASP.NET - Build Your First AI Agent (Step-by-Step)](https://dev.to/igor_sh_dev/microsoft-agent-framework-for-aspnet-build-your-first-ai-agent-step-by-step-16a2) (2026-04-07)
+- [Product Hunt Launch Day Playbook: Hour by Hour for Maximum Ranking](https://dev.to/whoffagents/product-hunt-launch-day-playbook-hour-by-hour-for-maximum-ranking-1g66) (2026-04-07)
+- [The Bricking Point: Analyzing Permanent Fund Loss in Panoptic’s SFPM](https://dev.to/rdin777/the-bricking-point-analyzing-permanent-fund-loss-in-panoptics-sfpm-29b8) (2026-04-07)
+- [How to Monetize an Open Source Project: Freemium, Open Core, and License Gating](https://dev.to/whoffagents/how-to-monetize-an-open-source-project-freemium-open-core-and-license-gating-4il6) (2026-04-07)
+- [No Backend Team? Here's How to Set Up an API in 3 Minutes](https://dev.to/yeonghyeon/no-backend-team-heres-how-to-set-up-an-api-in-3-minutes-4ah6) (2026-04-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Mastering Java’s Arrays Class](https://medium.com/@suresrivenkatramasurya/mastering-javas-arrays-class-a2315e2866a8?source=rss------programming-5) (2026-04-07)
-- [The Journey of a Typescript Line: From Our Fingers into the Heart of the Machine.](https://medium.com/@thinunesc/the-journey-of-a-typescript-line-from-our-fingers-into-the-heart-of-the-machine-1b4cfd5eb62c?source=rss------programming-5) (2026-04-07)
-- [On Leetcode Challenge "Equal Sum Grid Partition II"](https://medium.com/@altaiconsultinginc/on-leetcode-challenge-equal-sum-grid-partition-ii-1671affc1783?source=rss------programming-5) (2026-04-07)
-- [Python Is Easy to Learn — But That’s Why Most Developers Stay Average](https://python.plainenglish.io/python-is-easy-to-learn-but-thats-why-most-developers-stay-average-df5851a13468?source=rss------programming-5) (2026-04-07)
-- [The Agentic Revolution: How to Build a 2026 Digital Empire with Autonomous AI](https://medium.com/@MindHackersAI/the-agentic-revolution-how-to-build-a-2026-digital-empire-with-autonomous-ai-a4ba04a92d21?source=rss------programming-5) (2026-04-07)
+- [Spec Driven Development Sounds Perfect — Until You’ve Actually Shipped Software](https://adam-drake-frontend-developer.medium.com/spec-driven-development-sounds-perfect-until-youve-actually-shipped-software-bcb5a24ccb45?source=rss------programming-5) (2026-04-07)
+- [Kubernetes Knows Your App Is Lying — And It Has Probes to Prove It](https://medium.com/@niteshthakur498/kubernetes-knows-your-app-is-lying-and-it-has-probes-to-prove-it-fb6e35bb1a59?source=rss------programming-5) (2026-04-07)
+- [Best PHP Frameworks for Powerful Web Development in 2026](https://medium.com/serveravatar/best-php-frameworks-for-powerful-web-development-in-2026-2cffa7c23b30?source=rss------programming-5) (2026-04-07)
+- [Why Your Coding Agent Fails in Production (and How Sandboxes Fix It)](https://medium.com/@sebuzdugan/why-your-coding-agent-fails-in-production-and-how-sandboxes-fix-it-0da30b20d932?source=rss------programming-5) (2026-04-07)
+- [Python's Hidden Architecture: Scope, Type Hinting & Flexible Arguments](https://python.plainenglish.io/pythons-hidden-architecture-scope-type-hinting-flexible-arguments-307053770041?source=rss------programming-5) (2026-04-07)
 
 </details>
 
@@ -527,11 +527,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/enable-branded-ca
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [Generating State-of-the-Art GEMMs with TorchInductor’s CuteDSL backend](https://pytorch.org/blog/__trashed/) (2026-04-07)
 - [Flight Recorder: A New Lens for Understanding NCCL Watchdog Timeouts](https://pytorch.org/blog/flight-recorder-a-new-lens-for-understanding-nccl-watchdog-timeouts/) (2026-03-25)
 - [Enabling Up to 41% Faster Pre-training: MXFP8 and DeepEP for DeepSeek-V3 on B200 with TorchTitan](https://pytorch.org/blog/enabling-up-to-41-faster-pre-training-mxfp8-and-deepep-for-deepseek-v3-on-b200-with-torchtitan/) (2026-03-25)
 - [PyTorch 2.11 Release Blog](https://pytorch.org/blog/pytorch-2-11-release-blog/) (2026-03-23)
 - [PyTorch 2.10+TorchAO: Powering AIPC scenarios on Intel® Core™ Ultra Series 3 processors](https://pytorch.org/blog/pytorch-2-10torchao/) (2026-03-20)
-- [TorchSpec: Speculative Decoding Training at Scale](https://pytorch.org/blog/torchspec-speculative-decoding-training-at-scale/) (2026-03-19)
 
 </details>
 
@@ -571,11 +571,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/enable-branded-ca
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Rethinking Enterprise Search: How Cortex Search Turns Data into Business Impact ](https://www.analyticsvidhya.com/blog/2026/04/how-cortex-search-turns-data-into-business-impact/) (2026-04-07)
 - [Google’s Gemma 4: Is it the Best Open-Source Model of 2026?](https://www.analyticsvidhya.com/blog/2026/04/googles-gemma-4-open-source-model/) (2026-04-06)
 - [Architecture and Orchestration of Memory Systems in AI Agents](https://www.analyticsvidhya.com/blog/2026/04/memory-systems-in-ai-agents/) (2026-04-05)
 - [5 Types of Loss Functions in Machine Learning](https://www.analyticsvidhya.com/blog/2026/04/types-of-loss-functions-in-machine-learning/) (2026-04-04)
 - [​​Mamba4 Explained: A Faster Alternative to Transformers for Sequential Modeling ](https://www.analyticsvidhya.com/blog/2026/04/mamba4-explained/) (2026-04-03)
-- [Replit Agent Skills Complete Guide: Write Your Own Skills in Replit](https://www.analyticsvidhya.com/blog/2026/04/replit-agent-skills/) (2026-04-02)
 
 </details>
 
