@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Google quietly launched an AI dictation app that works offline](https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/) (2026-04-08)
 - [I can’t help rooting for tiny open source AI model maker Arcee](https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/) (2026-04-07)
 - [VC Eclipse has a new $1.3B fund to back — and build — ‘physical AI’ startups](https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/) (2026-04-07)
 - [Iranian hackers are targeting American critical infrastructure, US agencies warn](https://techcrunch.com/2026/04/07/iranian-hackers-are-targeting-american-critical-infrastructure-u-s-agencies-warn/) (2026-04-07)
 - [Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation](https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/) (2026-04-07)
-- [Intel signs on to Elon Musk’s Terafab chips project](https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/) (2026-04-07)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Sonnet 4.6 Elevated Rate of Errors](https://status.claude.com/incidents/lhws0phdvzz3) (2026-04-08)
+- [Revision Demoparty 2026: Razor1911 [video]](https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s) (2026-04-08)
+- [Protect your shed](https://dylanbutler.dev/blog/protect-your-shed/) (2026-04-08)
 - [JSIR: A High-Level IR for JavaScript](https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456) (2026-04-08)
-- [US, Iran say they have agreed to a two-week ceasefire](https://apnews.com/live/iran-war-israel-trump-04-07-2026) (2026-04-08)
 - [Xilem – An experimental Rust native UI framework](https://github.com/linebender/xilem) (2026-04-07)
-- [US and Iran agree to provisional ceasefire](https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire) (2026-04-07)
-- [Bitcoin and quantum computing](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html) (2026-04-07)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building a Zero-Trust Golang Backend (Part 1): Secure Coding & Distroless Containers 🛡️📦](https://dev.to/mohammadanang/building-a-zero-trust-golang-backend-part-1-secure-coding-distroless-containers-536a) (2026-04-08)
-- [I pointed Claude at mitmproxy and it reverse-engineered my gym app's API](https://dev.to/dtterastar/i-pointed-claude-at-mitmproxy-and-it-reverse-engineered-my-gym-apps-api-1a4h) (2026-04-08)
-- [I scanned 20 popular Python packages for dangerous regex patterns. Here is what I found.](https://dev.to/harshithreddy01/i-scanned-20-popular-python-packages-for-dangerous-regex-patterns-here-is-what-i-found-dg6) (2026-04-08)
-- [How to use Claude Code with multiple repositories without losing context](https://dev.to/subprime2010/how-to-use-claude-code-with-multiple-repositories-without-losing-context-4c77) (2026-04-08)
-- [The 10 VAST Errors That Silently Kill Your CTV Ad Revenue](https://dev.to/aleksuix/the-10-vast-errors-that-silently-kill-your-ctv-ad-revenue-25i8) (2026-04-08)
+- [Learning Full-stack Observability: Tracing](https://dev.to/davidgrath/learning-full-stack-observability-tracing-4oin) (2026-04-08)
+- [I received a phishing email on Easter. I dismantled a criminal organization. The chocolate egg is still wrapped.](https://dev.to/paolocostanzo/i-received-a-phishing-email-on-easter-i-dismantled-a-criminal-organization-the-chocolate-egg-is-16i9) (2026-04-08)
+- [System Design Interview - Designing from Invariants](https://dev.to/tomerbendavid/system-design-interview-designing-from-invariants-3ede) (2026-04-08)
+- [How to Add Token Swaps to Java Spring Boot](https://dev.to/moonsoon69/how-to-add-token-swaps-to-java-spring-boot-3a71) (2026-04-08)
+- [6 Best Ethereum Swap APIs for DeFi Developers](https://dev.to/moonsoon69/6-best-ethereum-swap-apis-for-defi-developers-j8f) (2026-04-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How OTP Works Even If It’s Not Stored Anywhere? ](https://medium.com/@ip.ravi333/how-otp-works-even-if-its-not-stored-anywhere-508538d69248?source=rss------programming-5) (2026-04-08)
-- [What the Claude Code Leak Revealed, What That $0.01](https://medium.com/@anup.karanjkar08/what-the-claude-code-leak-revealed-what-that-0-01-4430daf7859f?source=rss------programming-5) (2026-04-08)
-- [7 Practical Ways I Made My Website Feel Instantly Faster](https://medium.com/readers-club/7-practical-ways-i-made-my-website-feel-instantly-faster-32b4ef635d42?source=rss------programming-5) (2026-04-08)
-- [Why Everyone Is Talking About AI Agents (And Why It’s Bigger Than ChatGPT)](https://medium.com/@ip.ravi333/why-everyone-is-talking-about-ai-agents-and-why-its-bigger-than-chatgpt-d5b7105566c0?source=rss------programming-5) (2026-04-08)
-- [You Don’t Understand Middleware — Here’s Proof](https://medium.com/@uyanhewagetr/you-dont-understand-middleware-here-s-proof-3898899fd4c5?source=rss------programming-5) (2026-04-08)
+- [Multithreading can silently corrupt your data](https://medium.com/@abhishekchauhan9879/multithreading-can-silently-corrupt-your-data-1366754f2256?source=rss------programming-5) (2026-04-08)
+- [Designing from Invariants](https://medium.com/@Tom1212121/designing-from-invariants-5b41bb0ef41f?source=rss------programming-5) (2026-04-08)
+- [The Algorithm That Runs Once and Tells You Five Different Things](https://medium.com/techtrends-digest/the-algorithm-that-runs-once-and-tells-you-five-different-things-71f11038aebb?source=rss------programming-5) (2026-04-08)
+- [You’re Probably Using Dijkstra When You Shouldn’t Be](https://medium.com/techtrends-digest/youre-probably-using-dijkstra-when-you-shouldn-t-be-06c83db9a2d7?source=rss------programming-5) (2026-04-08)
+- [Your Regression Test Takes Longer Than the Feature Itself?](https://fries-dotnet-legacy.medium.com/your-regression-test-takes-longer-than-the-feature-itself-2a339748ff16?source=rss------programming-5) (2026-04-08)
 
 </details>
 
@@ -527,11 +527,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/enable-branded-ca
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [Monarch: an API to your supercomputer](https://pytorch.org/blog/monarch-an-api-to-your-supercomputer/) (2026-04-08)
+- [SOTA Normalization Performance with torch.compile](https://pytorch.org/blog/sota-normalization-performance-with-torch-compile/) (2026-04-08)
 - [Generating State-of-the-Art GEMMs with TorchInductor’s CuteDSL backend](https://pytorch.org/blog/gemms-torchinductor-cutedsl-backend/) (2026-04-07)
 - [Flight Recorder: A New Lens for Understanding NCCL Watchdog Timeouts](https://pytorch.org/blog/flight-recorder-a-new-lens-for-understanding-nccl-watchdog-timeouts/) (2026-03-25)
 - [Enabling Up to 41% Faster Pre-training: MXFP8 and DeepEP for DeepSeek-V3 on B200 with TorchTitan](https://pytorch.org/blog/enabling-up-to-41-faster-pre-training-mxfp8-and-deepep-for-deepseek-v3-on-b200-with-torchtitan/) (2026-03-25)
-- [PyTorch 2.11 Release Blog](https://pytorch.org/blog/pytorch-2-11-release-blog/) (2026-03-23)
-- [PyTorch 2.10+TorchAO: Powering AIPC scenarios on Intel® Core™ Ultra Series 3 processors](https://pytorch.org/blog/pytorch-2-10torchao/) (2026-03-20)
 
 </details>
 
@@ -575,7 +575,7 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/enable-branded-ca
 - [Rethinking Enterprise Search: How Cortex Search Turns Data into Business Impact ](https://www.analyticsvidhya.com/blog/2026/04/how-cortex-search-turns-data-into-business-impact/) (2026-04-07)
 - [Google’s Gemma 4: Is it the Best Open-Source Model of 2026?](https://www.analyticsvidhya.com/blog/2026/04/googles-gemma-4-open-source-model/) (2026-04-06)
 - [Architecture and Orchestration of Memory Systems in AI Agents](https://www.analyticsvidhya.com/blog/2026/04/memory-systems-in-ai-agents/) (2026-04-05)
-- [5 Types of Loss Functions in Machine Learning](https://www.analyticsvidhya.com/blog/2026/04/types-of-loss-functions-in-machine-learning/) (2026-04-04)
+- [20+ Types of Loss Functions in Machine Learning](https://www.analyticsvidhya.com/blog/2026/04/types-of-loss-functions-in-machine-learning/) (2026-04-04)
 
 </details>
 
