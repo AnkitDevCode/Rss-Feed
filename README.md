@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Firmus, the ‘Southgate’ AI datacenter builder backed by Nvidia, hits $5.5B valuation](https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/) (2026-04-07)
+- [I can’t help rooting for tiny open source AI model maker Arcee](https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/) (2026-04-07)
+- [VC Eclipse has a new $1.3B fund to back — and build — ‘physical AI’ startups](https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/) (2026-04-07)
+- [Iranian hackers are targeting American critical infrastructure, US agencies warn](https://techcrunch.com/2026/04/07/iranian-hackers-are-targeting-american-critical-infrastructure-u-s-agencies-warn/) (2026-04-07)
+- [Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation](https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/) (2026-04-07)
 - [Intel signs on to Elon Musk’s Terafab chips project](https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/) (2026-04-07)
-- [Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative](https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/) (2026-04-07)
-- [Apple’s foldable iPhone is on track to launch in September, report says](https://techcrunch.com/2026/04/07/apples-foldable-iphone-is-on-track-to-launch-in-september-report-says/) (2026-04-07)
-- [Russian government hackers broke into thousands of home routers to steal passwords](https://techcrunch.com/2026/04/07/russian-government-hackers-broke-into-thousands-of-home-routers-to-steal-passwords/) (2026-04-07)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [System Card: Claude Mythos Preview [pdf]](https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf) (2026-04-07)
-- [Assessing Claude Mythos Preview's cybersecurity capabilities](https://red.anthropic.com/2026/mythos-preview/) (2026-04-07)
-- [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing) (2026-04-07)
-- [Cambodia unveils a statue of famous landmine-sniffing rat Magawa](https://www.bbc.com/news/articles/c0rx7xzd10xo) (2026-04-07)
-- [The Blueprint of a North Korean Attack on Open-Source](https://casco.com/blog/the-blueprint-of-a-north-korean-attack-on-open-source) (2026-04-07)
+- [JSIR: A High-Level IR for JavaScript](https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456) (2026-04-08)
+- [US, Iran say they have agreed to a two-week ceasefire](https://apnews.com/live/iran-war-israel-trump-04-07-2026) (2026-04-08)
+- [Xilem – An experimental Rust native UI framework](https://github.com/linebender/xilem) (2026-04-07)
+- [US and Iran agree to provisional ceasefire](https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire) (2026-04-07)
+- [Bitcoin and quantum computing](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html) (2026-04-07)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Samsung’s Galaxy S26 Ultra is $200 off for the first time](https://www.theverge.com/gadgets/908196/samsung-galaxy-s26-ultra-privacy-display-deal-sale-unlocked) (2026-04-07)
-- [A new Anthropic model found security problems &#8216;in every major operating system and web browser&#8217;](https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity) (2026-04-07)
-- [The rugged Bose Soundlink Flex is 25 percent off right now](https://www.theverge.com/gadgets/907744/bose-soundlink-flex-2nd-gen-google-nest-doorbell-deal-sale) (2026-04-07)
-- [Vertical browser tabs are better and you should use them](https://www.theverge.com/tech/907998/google-chrome-vertical-tabs) (2026-04-07)
-- [Suno and major music labels reportedly clash over AI music sharing](https://www.theverge.com/ai-artificial-intelligence/908119/suno-sony-universal-music-ai-disagreement) (2026-04-07)
+- [Nothing’s noise-canceling CMF Buds 2A are down to $19.99 for the rest of today](https://www.theverge.com/gadgets/908409/nothing-cmf-buds-2a-earbuds-amazon-lightning-deal-sale) (2026-04-07)
+- [Amazon is ending support for older Kindles and Kindle Fires](https://www.theverge.com/tech/908302/amazon-ending-support-kindle-fire-tablet-e-reader-pre-2012-older) (2026-04-07)
+- [Spotify&#8217;s Prompted Playlists can help you find new podcasts to listen to](https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts) (2026-04-07)
+- [You can now turn 2D apps into 3D while using the Galaxy XR headset](https://www.theverge.com/tech/908268/android-xr-samsung-galaxy-auto-spatialization-2d-3d) (2026-04-07)
+- [I wish this selfie phone case was better for selfies](https://www.theverge.com/tech/908251/dockcase-selfix-selfie-phone-case-hands-on) (2026-04-07)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Valve brings native Steam Link app to Apple's Vision Pro](https://arstechnica.com/gaming/2026/04/valve-brings-native-steam-link-app-to-apples-vision-pro/) (2026-04-07)
+- [Apple and Lenovo have the least repairable laptops, analysis finds](https://arstechnica.com/gadgets/2026/04/apple-has-the-lowest-grades-in-laptop-phone-repairability-analysis/) (2026-04-07)
+- [What the heck is wrong with our AI overlords?](https://arstechnica.com/tech-policy/2026/04/what-the-heck-is-wrong-with-our-ai-overlords/) (2026-04-07)
+- [Bluesky users are mastering the fine art of blaming everything on "vibe coding"](https://arstechnica.com/ai/2026/04/bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding/) (2026-04-07)
 - [SCOTUS overturns 5th Circuit ruling that told ISP to kick pirates off Internet](https://arstechnica.com/tech-policy/2026/04/scotus-overturns-5th-circuit-ruling-that-told-isp-to-kick-pirates-off-internet/) (2026-04-07)
-- [Testing suggests Google's AI Overviews tell millions of lies per hour](https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/) (2026-04-07)
-- [Linux kernel maintainers are following through on removing Intel 486 support](https://arstechnica.com/gadgets/2026/04/linux-kernel-maintainers-are-following-through-on-removing-intel-486-support/) (2026-04-07)
-- [Finally, Artemis delivers some exceptional, high-quality photos of the Moon](https://arstechnica.com/space/2026/04/the-artemis-ii-mission-sends-back-stunning-images-of-the-far-side-of-the-moon/) (2026-04-07)
-- [The Rivian R2 will launch with 335 miles of range](https://arstechnica.com/cars/2026/04/rivian-r2-epa-certification-leaked-gets-335-miles-of-range/) (2026-04-07)
 
 </details>
 
@@ -97,33 +97,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why I built a SvelteKit + FastAPI SaaS Boilerplate (and open-sourced the starter)](https://dev.to/quartalis/why-i-built-a-sveltekit-fastapi-saas-boilerplate-and-open-sourced-the-starter-4ne1) (2026-04-07)
-- [Understanding SQL for Data Analysis in Real World.](https://dev.to/rayhady/understanding-sql-for-data-analysis-in-real-world-2pcg) (2026-04-07)
-- [How we made Step Functions call any AWS service locally](https://dev.to/nahuel990/how-we-made-step-functions-call-any-aws-service-locally-2m44) (2026-04-07)
-- [The Google Play 12-Tester Wall: A Solo Dev's Guide (and a Plea for Help)](https://dev.to/orthogonalinfo/the-google-play-12-tester-wall-a-solo-devs-guide-and-a-plea-for-help-4o10) (2026-04-07)
-- [ChromeFlash](https://dev.to/picarda27/chromeflash-415a) (2026-04-07)
+- [Building a Zero-Trust Golang Backend (Part 1): Secure Coding & Distroless Containers 🛡️📦](https://dev.to/mohammadanang/building-a-zero-trust-golang-backend-part-1-secure-coding-distroless-containers-536a) (2026-04-08)
+- [I pointed Claude at mitmproxy and it reverse-engineered my gym app's API](https://dev.to/dtterastar/i-pointed-claude-at-mitmproxy-and-it-reverse-engineered-my-gym-apps-api-1a4h) (2026-04-08)
+- [I scanned 20 popular Python packages for dangerous regex patterns. Here is what I found.](https://dev.to/harshithreddy01/i-scanned-20-popular-python-packages-for-dangerous-regex-patterns-here-is-what-i-found-dg6) (2026-04-08)
+- [How to use Claude Code with multiple repositories without losing context](https://dev.to/subprime2010/how-to-use-claude-code-with-multiple-repositories-without-losing-context-4c77) (2026-04-08)
+- [The 10 VAST Errors That Silently Kill Your CTV Ad Revenue](https://dev.to/aleksuix/the-10-vast-errors-that-silently-kill-your-ctv-ad-revenue-25i8) (2026-04-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Stop Vibe Coding: How Elite Developers Actually Use AI (Backed by Real Research)](https://medium.com/@yadunandan-ai-dev/stop-vibe-coding-how-elite-developers-actually-use-ai-backed-by-real-research-da32f95c0039?source=rss------programming-5) (2026-04-07)
-- [What Separates a 2x Developer from a 10x Developer in Claude Code](https://medium.com/@tihomir.manushev/what-separates-a-2x-developer-from-a-10x-developer-in-claude-code-0585efac4505?source=rss------programming-5) (2026-04-07)
-- [Stay Reachable Even When You’re Away from Your Car: Meet DigitalYaka ](https://medium.com/@codezone/stay-reachable-even-when-youre-away-from-your-car-meet-digitalyaka-6c35ff1afdaf?source=rss------programming-5) (2026-04-07)
-- [I Don’t Blog to Teach: I Blog to Track My Own Journey](https://medium.com/@lazydoomslayer/i-dont-blog-to-teach-i-blog-to-track-my-own-journey-aba5679e5dee?source=rss------programming-5) (2026-04-07)
-- [What do you do when Satan has won?](https://medium.com/@eurostepstudios/what-do-you-do-when-satan-has-won-7f67a0874c2b?source=rss------programming-5) (2026-04-07)
+- [How OTP Works Even If It’s Not Stored Anywhere? ](https://medium.com/@ip.ravi333/how-otp-works-even-if-its-not-stored-anywhere-508538d69248?source=rss------programming-5) (2026-04-08)
+- [What the Claude Code Leak Revealed, What That $0.01](https://medium.com/@anup.karanjkar08/what-the-claude-code-leak-revealed-what-that-0-01-4430daf7859f?source=rss------programming-5) (2026-04-08)
+- [7 Practical Ways I Made My Website Feel Instantly Faster](https://medium.com/readers-club/7-practical-ways-i-made-my-website-feel-instantly-faster-32b4ef635d42?source=rss------programming-5) (2026-04-08)
+- [Why Everyone Is Talking About AI Agents (And Why It’s Bigger Than ChatGPT)](https://medium.com/@ip.ravi333/why-everyone-is-talking-about-ai-agents-and-why-its-bigger-than-chatgpt-d5b7105566c0?source=rss------programming-5) (2026-04-08)
+- [You Don’t Understand Middleware — Here’s Proof](https://medium.com/@uyanhewagetr/you-dont-understand-middleware-here-s-proof-3898899fd4c5?source=rss------programming-5) (2026-04-08)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [Launching S3 Files, making S3 buckets accessible as file systems](https://aws.amazon.com/blogs/aws/launching-s3-files-making-s3-buckets-accessible-as-file-systems/) (2026-04-07)
 - [AWS Weekly Roundup: AWS DevOps Agent & Security Agent GA, Product Lifecycle updates, and more (April 6, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-devops-agent-security-agent-ga-product-lifecycle-updates-and-more-april-6-2026/) (2026-04-06)
 - [Amazon Bedrock Guardrails supports cross-account safeguards with centralized control and management](https://aws.amazon.com/blogs/aws/amazon-bedrock-guardrails-supports-cross-account-safeguards-with-centralized-control-and-management/) (2026-04-03)
 - [Announcing managed daemon support for Amazon ECS Managed Instances](https://aws.amazon.com/blogs/aws/announcing-managed-daemon-support-for-amazon-ecs-managed-instances/) (2026-04-01)
 - [Announcing the AWS Sustainability console: Programmatic access, configurable CSV reports, and Scope 1–3 reporting in one place](https://aws.amazon.com/blogs/aws/announcing-the-aws-sustainability-console-programmatic-access-configurable-csv-reports-and-scope-1-3-reporting-in-one-place/) (2026-03-31)
-- [AWS Weekly Roundup: AWS AI/ML Scholars program, Agent Plugin for AWS Serverless, and more (March 30, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-ai-ml-scholars-program-agent-plugin-for-aws-serverless-and-more-march-30-2026/) (2026-03-30)
 
 </details>
 
@@ -141,7 +141,7 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
-- [National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources](https://blogs.nvidia.com/blog/national-robotics-week-2026/) (2026-04-06)
+- [National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources](https://blogs.nvidia.com/blog/national-robotics-week-2026/) (2026-04-07)
 - [From RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AI](https://blogs.nvidia.com/blog/rtx-ai-garage-open-models-google-gemma-4/) (2026-04-02)
 - [Press Start on April: GeForce NOW Brings 10 Games to the Cloud](https://blogs.nvidia.com/blog/geforce-now-thursday-april-2026-games-list/) (2026-04-02)
 - [Efficiency at Scale: NVIDIA, Energy Leaders Accelerating Power‑Flexible AI Factories to Fortify the Grid](https://blogs.nvidia.com/blog/energy-efficiency-ai-factories-grid/) (2026-03-31)
@@ -329,10 +329,10 @@
 <summary>🦊 GitLab Blog</summary>
 
 - [Streamline test management with the SmartBear QMetry GitLab component](https://about.gitlab.com/blog/streamline-test-management-with-the-smartbear-qmetry-gitlab-component/) (2026-04-07)
+- [Pipeline security lessons from March supply chain incidents](https://about.gitlab.com/blog/pipeline-security-lessons-from-march-supply-chain-incidents/) (2026-04-07)
 - [GitLab Duo CLI: Agentic AI for the development lifecycle, now in the terminal](https://about.gitlab.com/blog/gitlab-duo-cli/) (2026-04-07)
 - [Changes to packages.gitlab.com: What you need to know](https://about.gitlab.com/blog/changes-to-packages-gitlab-com-what-you-need-to-know/) (2026-03-31)
 - [Getting started with GitLab feature flags in Python](https://about.gitlab.com/blog/getting-started-with-gitlab-feature-flags-in-python/) (2026-03-26)
-- [Manage vulnerability noise at scale with auto-dismiss policies](https://about.gitlab.com/blog/auto-dismiss-vulnerability-management-policy/) (2026-03-25)
 
 </details>
 
