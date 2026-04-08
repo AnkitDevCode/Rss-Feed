@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Atlassian launches visual AI tools and third-party agents in Confluence](https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/) (2026-04-08)
+- [X is rolling out automatic translation and photo editing powered by Grok](https://techcrunch.com/2026/04/08/x-is-rolling-out-automatic-translation-and-photo-editing-powered-by-grok/) (2026-04-08)
+- [How nuclear batteries could speed the race to fusion power](https://techcrunch.com/2026/04/08/how-nuclear-batteries-could-speed-the-race-to-fusion-power/) (2026-04-08)
 - [Google quietly launched an AI dictation app that works offline](https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/) (2026-04-08)
 - [I can’t help rooting for tiny open source AI model maker Arcee](https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/) (2026-04-07)
-- [VC Eclipse has a new $1.3B fund to back — and build — ‘physical AI’ startups](https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/) (2026-04-07)
-- [Iranian hackers are targeting American critical infrastructure, US agencies warn](https://techcrunch.com/2026/04/07/iranian-hackers-are-targeting-american-critical-infrastructure-u-s-agencies-warn/) (2026-04-07)
-- [Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation](https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/) (2026-04-07)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Sonnet 4.6 Elevated Rate of Errors](https://status.claude.com/incidents/lhws0phdvzz3) (2026-04-08)
-- [Revision Demoparty 2026: Razor1911 [video]](https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s) (2026-04-08)
-- [Protect your shed](https://dylanbutler.dev/blog/protect-your-shed/) (2026-04-08)
-- [JSIR: A High-Level IR for JavaScript](https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456) (2026-04-08)
-- [Xilem – An experimental Rust native UI framework](https://github.com/linebender/xilem) (2026-04-07)
+- [US cities are axing Flock Safety surveillance technology](https://www.cnet.com/home/security/when-flock-comes-to-town-why-cities-are-axing-the-controversial-surveillance-technology/) (2026-04-08)
+- [MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU](https://arxiv.org/abs/2604.05091) (2026-04-08)
+- [I've sold out](https://mariozechner.at/posts/2026-04-08-ive-sold-out/) (2026-04-08)
+- [Mario and Earendil](https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/) (2026-04-08)
+- [Git commands I run before reading any code](https://piechowski.io/post/git-commands-before-reading-code/) (2026-04-08)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Nothing’s noise-canceling CMF Buds 2A are down to $19.99 for the rest of today](https://www.theverge.com/gadgets/908409/nothing-cmf-buds-2a-earbuds-amazon-lightning-deal-sale) (2026-04-07)
-- [Amazon is ending support for older Kindles and Kindle Fires](https://www.theverge.com/tech/908302/amazon-ending-support-kindle-fire-tablet-e-reader-pre-2012-older) (2026-04-07)
-- [Spotify&#8217;s Prompted Playlists can help you find new podcasts to listen to](https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts) (2026-04-07)
-- [You can now turn 2D apps into 3D while using the Galaxy XR headset](https://www.theverge.com/tech/908268/android-xr-samsung-galaxy-auto-spatialization-2d-3d) (2026-04-07)
-- [I wish this selfie phone case was better for selfies](https://www.theverge.com/tech/908251/dockcase-selfix-selfie-phone-case-hands-on) (2026-04-07)
+- [Tractive’s new dog and cat trackers provide more health insights for your pets](https://www.theverge.com/tech/907947/tractive-dog-6-xl-cat-mini-pet-trackers-health-monitoring-location) (2026-04-08)
+- [Xbox’s new era needs games like Forza Horizon 6](https://www.theverge.com/games/908305/forza-horizon-6-preview-xbox) (2026-04-08)
+- [The only USB-C AA battery I’d buy for myself is the Zepath 3600](https://www.theverge.com/gadgets/907002/best-usb-c-aa-li-ion-battery-zepath) (2026-04-08)
+- [Insta360’s Snap is a tiny magnetic phone screen for taking rear-camera selfies](https://www.theverge.com/tech/907670/insta360-snap-usb-c-magsafe-screen-selfies-smartphone-rear-camera) (2026-04-08)
+- [Unionized ProPublica staff are on strike over AI, layoffs, and wages](https://www.theverge.com/news/908401/propublica-union-strike-negotiations-ai-layoffs) (2026-04-08)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Thousands of consumer routers hacked by Russia's military](https://arstechnica.com/security/2026/04/russias-military-hacks-thousands-of-consumer-routers-to-steal-credentials/) (2026-04-08)
 - [Valve brings native Steam Link app to Apple's Vision Pro](https://arstechnica.com/gaming/2026/04/valve-brings-native-steam-link-app-to-apples-vision-pro/) (2026-04-07)
 - [Apple and Lenovo have the least repairable laptops, analysis finds](https://arstechnica.com/gadgets/2026/04/apple-has-the-lowest-grades-in-laptop-phone-repairability-analysis/) (2026-04-07)
 - [What the heck is wrong with our AI overlords?](https://arstechnica.com/tech-policy/2026/04/what-the-heck-is-wrong-with-our-ai-overlords/) (2026-04-07)
 - [Bluesky users are mastering the fine art of blaming everything on "vibe coding"](https://arstechnica.com/ai/2026/04/bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding/) (2026-04-07)
-- [SCOTUS overturns 5th Circuit ruling that told ISP to kick pirates off Internet](https://arstechnica.com/tech-policy/2026/04/scotus-overturns-5th-circuit-ruling-that-told-isp-to-kick-pirates-off-internet/) (2026-04-07)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: water threats in Iran and AI’s impact on what entrepreneurs make](https://www.technologyreview.com/2026/04/08/1135405/the-download-water-threats-iran-ais-impact-on-entrepreneurs-make/) (2026-04-08)
 - [Desalination plants in the Middle East are increasingly vulnerable](https://www.technologyreview.com/2026/04/07/1135235/desalination-technology-water/) (2026-04-07)
 - [Enabling agent-first process redesign](https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/) (2026-04-07)
 - [The Download: AI’s impact on jobs, and data centres in space](https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/) (2026-04-07)
 - [The one piece of data that could actually shed light on your job and AI](https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/) (2026-04-06)
-- [AI is changing how small online sellers decide what to make](https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/) (2026-04-06)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Learning Full-stack Observability: Tracing](https://dev.to/davidgrath/learning-full-stack-observability-tracing-4oin) (2026-04-08)
-- [I received a phishing email on Easter. I dismantled a criminal organization. The chocolate egg is still wrapped.](https://dev.to/paolocostanzo/i-received-a-phishing-email-on-easter-i-dismantled-a-criminal-organization-the-chocolate-egg-is-16i9) (2026-04-08)
-- [System Design Interview - Designing from Invariants](https://dev.to/tomerbendavid/system-design-interview-designing-from-invariants-3ede) (2026-04-08)
-- [How to Add Token Swaps to Java Spring Boot](https://dev.to/moonsoon69/how-to-add-token-swaps-to-java-spring-boot-3a71) (2026-04-08)
-- [6 Best Ethereum Swap APIs for DeFi Developers](https://dev.to/moonsoon69/6-best-ethereum-swap-apis-for-defi-developers-j8f) (2026-04-08)
+- [Automating Translations With Your Coding Agent](https://dev.to/arvid_andersson_0a598fa45/automating-translations-with-your-coding-agent-23la) (2026-04-08)
+- [Your OpenClaw Agent Can Now Spend Money. Here's How to Stop It From Going Broke.](https://dev.to/maxberg/your-openclaw-agent-can-now-spend-money-heres-how-to-stop-it-from-going-broke-1oic) (2026-04-08)
+- [Hermes Agent 项目功能与通用使用场景分析](https://dev.to/henry_lin_3ac6363747f45b4/hermes-agent-xiang-mu-gong-neng-yu-tong-yong-shi-yong-chang-jing-fen-xi-2bi5) (2026-04-08)
+- [Power Pages: how to get contact's Dataverse team membership in web template with Liquid](https://dev.to/andrewelans/power-pages-how-to-get-contacts-dataverse-team-membership-in-web-template-with-liquid-34fh) (2026-04-08)
+- [Adding Hybrid Search to Your Application (In Diagrams)](https://dev.to/kvasserman/adding-hybrid-search-to-your-application-in-diagrams-527) (2026-04-08)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Multithreading can silently corrupt your data](https://medium.com/@abhishekchauhan9879/multithreading-can-silently-corrupt-your-data-1366754f2256?source=rss------programming-5) (2026-04-08)
-- [Designing from Invariants](https://medium.com/@Tom1212121/designing-from-invariants-5b41bb0ef41f?source=rss------programming-5) (2026-04-08)
-- [The Algorithm That Runs Once and Tells You Five Different Things](https://medium.com/techtrends-digest/the-algorithm-that-runs-once-and-tells-you-five-different-things-71f11038aebb?source=rss------programming-5) (2026-04-08)
-- [You’re Probably Using Dijkstra When You Shouldn’t Be](https://medium.com/techtrends-digest/youre-probably-using-dijkstra-when-you-shouldn-t-be-06c83db9a2d7?source=rss------programming-5) (2026-04-08)
-- [Your Regression Test Takes Longer Than the Feature Itself?](https://fries-dotnet-legacy.medium.com/your-regression-test-takes-longer-than-the-feature-itself-2a339748ff16?source=rss------programming-5) (2026-04-08)
+- [Run AI Locally with Python: No API, No Cost, Full Control](https://medium.com/@muruganantham52524/run-ai-locally-with-python-no-api-no-cost-full-control-9bbd498daef0?source=rss------programming-5) (2026-04-08)
+- [Building an AI Chat App: From Beginner to Production](https://medium.com/@gravitano/building-an-ai-chat-app-from-beginner-to-production-3e25f2f5a6b0?source=rss------programming-5) (2026-04-08)
+- [Trunk-Based Development: Why Most Teams Think They Use It (But Don’t)](https://medium.com/@codecraftdiary/trunk-based-development-why-most-teams-think-they-use-it-but-dont-3493bf9c26b0?source=rss------programming-5) (2026-04-08)
+- [Airflow DAGs, Tasks, and Operators: A Complete Beginner’s Walkthrough](https://satyamsahu671.medium.com/airflow-dags-tasks-and-operators-a-complete-beginners-walkthrough-78a65d6e3c33?source=rss------programming-5) (2026-04-08)
+- [The story of mtorrent](https://medium.com/@mikail.vasilyev/the-story-of-mtorrent-3d86dff2577f?source=rss------programming-5) (2026-04-08)
 
 </details>
 
@@ -549,22 +549,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/enable-branded-ca
 <details>
 <summary>🤖 AI News</summary>
 
+- [AI’s software development success and central management needs](https://www.artificialintelligence-news.com/news/ai-workflows-developer-success-and-central-project-management-needs/) (2026-04-08)
+- [Microsoft open-source toolkit secures AI agents at runtime](https://www.artificialintelligence-news.com/news/microsoft-open-source-toolkit-secures-ai-agents-at-runtime/) (2026-04-08)
 - [Asylon and Thrive Logic bring physical AI to enterprise perimeter security](https://www.artificialintelligence-news.com/news/physical-ai-security-at-the-enterprise-perimeter-takes-a-step-closer/) (2026-04-07)
 - [Boomi calls it “data activation” and says it’s the missing step in every AI deployment](https://www.artificialintelligence-news.com/news/boomi-agentic-ai-data-activation-missing-step/) (2026-04-07)
 - [Anthropic’s refusal to arm AI is exactly why the UK wants it](https://www.artificialintelligence-news.com/news/anthropic-uk-expansion-london-pentagon/) (2026-04-07)
-- [As AI agents take on more tasks, governance becomes a priority](https://www.artificialintelligence-news.com/news/as-ai-agents-take-on-more-tasks-governance-becomes-a-priority/) (2026-04-06)
-- [KiloClaw targets shadow AI with autonomous agent governance](https://www.artificialintelligence-news.com/news/kiloclaw-targets-shadow-ai-autonomous-agent-governance/) (2026-04-02)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Grounding Your LLM: A Practical Guide to RAG for Enterprise Knowledge Bases](https://towardsdatascience.com/grounding-your-llm-a-practical-guide-to-rag-for-enterprise-knowledge-bases/) (2026-04-08)
 - [Democratizing Marketing Mix Models (MMM) with Open Source and Gen AI](https://towardsdatascience.com/democratizing-marketing-mix-models-mmm-with-open-source-and-gen-ai/) (2026-04-07)
 - [From 4 Weeks to 45 Minutes: Designing a Document Extraction System for 4,700+ PDFs](https://towardsdatascience.com/from-4-weeks-to-45-minutes-designing-a-document-extraction-system-for-4700-pdfs/) (2026-04-07)
 - [Context Engineering for AI Agents: A Deep Dive](https://towardsdatascience.com/deep-dive-into-context-engineering-for-ai-agents/) (2026-04-07)
 - [The Arithmetic of Productivity Boosts: Why Does a “40% Increase in Productivity” Never Actually Work?](https://towardsdatascience.com/the-arithmetic-of-productivity-boosts-why-does-a-40-increase-in-productivity-never-actually-work/) (2026-04-07)
-- [The Geometry Behind the Dot Product: Unit Vectors, Projections, and Intuition](https://towardsdatascience.com/the-geometry-behind-the-dot-product-unit-vectors-projections-and-intuition/) (2026-04-06)
 
 </details>
 
@@ -582,22 +582,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/enable-branded-ca
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Useful Python Scripts to Automate Boring Excel Tasks](https://www.kdnuggets.com/5-useful-python-scripts-to-automate-boring-excel-tasks) (2026-04-08)
 - [Supabase vs Firebase: Which Backend Is Right for Your Next App?](https://www.kdnuggets.com/supabase-vs-firebase-which-backend-is-right-for-your-next-app) (2026-04-07)
 - [7 Steps to Mastering Retrieval-Augmented Generation](https://www.kdnuggets.com/7-steps-to-mastering-retrieval-augmented-generation) (2026-04-07)
 - [10 LLM Engineering Concepts Explained in 10 Minutes](https://www.kdnuggets.com/10-llm-engineering-concepts-explained-in-10-minutes) (2026-04-07)
 - [Building A Bulletproof Strategy For Data Recovery (Sponsored)](https://bit.ly/Ingram-topic-24-kdn-website) (2026-04-07)
-- [AI Isn’t Coming For Your Job: Automation Is](https://www.kdnuggets.com/ai-isnt-coming-for-your-job-automation-is) (2026-04-06)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [A Hands-On Guide to Testing Agents with RAGAs and G-Eval](https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/) (2026-04-08)
 - [Handling Race Conditions in Multi-Agent Orchestration](https://machinelearningmastery.com/handling-race-conditions-in-multi-agent-orchestration/) (2026-04-07)
 - [Top 5 Reranking Models to Improve RAG Results](https://machinelearningmastery.com/top-5-reranking-models-to-improve-rag-results/) (2026-04-06)
 - [7 Machine Learning Trends to Watch in 2026](https://machinelearningmastery.com/7-machine-learning-trends-to-watch-in-2026/) (2026-04-01)
 - [Building a ‘Human-in-the-Loop’ Approval Gate for Autonomous Agents](https://machinelearningmastery.com/building-a-human-in-the-loop-approval-gate-for-autonomous-agents/) (2026-03-31)
-- [From Prompt to Prediction: Understanding Prefill, Decode, and the KV Cache in LLMs](https://machinelearningmastery.com/from-prompt-to-prediction-understanding-prefill-decode-and-the-kv-cache-in-llms/) (2026-03-30)
 
 </details>
 
