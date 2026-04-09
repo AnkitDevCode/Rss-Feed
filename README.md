@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Meta debuts the Muse Spark model in a ‘ground-up overhaul’ of its AI](https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/) (2026-04-08)
-- [Hack-for-hire group caught targeting Android devices and iCloud backups](https://techcrunch.com/2026/04/08/hack-for-hire-group-caught-targeting-android-devices-and-icloud-backups/) (2026-04-08)
-- [Tubi is the first streamer to launch a native app within ChatGPT](https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/) (2026-04-08)
-- [Volkswagen begins testing its self-driving microbuses in Los Angeles ahead of launch with Uber](https://techcrunch.com/2026/04/08/volkswagen-moia-uber-los-angeles-testing-self-driving-microbuses-id-buzz/) (2026-04-08)
-- [These are the countries moving to ban social media for children](https://techcrunch.com/2026/04/08/social-media-ban-children-countries-list/) (2026-04-08)
+- [WireGuard VPN developer can’t ship software updates after Microsoft locks account](https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/) (2026-04-08)
+- [A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage](https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/) (2026-04-08)
+- [Poke makes using AI agents as easy as sending a text](https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/) (2026-04-08)
+- [Canva doubles down on AI and marketing automation with Simtheory, Ortto acquisitions](https://techcrunch.com/2026/04/08/canva-doubles-down-on-ai-and-marketing-automation-with-simtheory-ortto-acquisitions/) (2026-04-08)
+- [AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict](https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/) (2026-04-08)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [One item purchased, ten emails](https://joshghent.com/online-shopping/) (2026-04-08)
-- [Show HN: Orange Juice – Small UX improvements that make HN easier to read](http://oj-hn.com/) (2026-04-08)
-- [I've been waiting over a month for Anthropic support to respond](https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/) (2026-04-08)
-- [How Costco Won in Japan](https://www.readtrung.com/p/how-costco-won-in-japan) (2026-04-08)
-- [Understanding the Kalman Filter with a Simple Radar Example](https://kalmanfilter.net) (2026-04-08)
+- [Trump administration orders dismantling of the U.S. Forest Service](https://www.hatchmag.com/articles/trump-administration-orders-dismantling-us-forest-service/7716263) (2026-04-09)
+- [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html) (2026-04-09)
+- [I built a tool to let you export your X bookmarks and categorize them](https://x-archive.netlify.app/) (2026-04-08)
+- [Show HN: Tired of logic in useEffect, I built a class-based React state manager](https://thales.me/posts/why-i-built-snapstate/) (2026-04-08)
+- [Show HN: Is Hormuz open yet?](https://www.ishormuzopenyet.com/) (2026-04-08)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The Neo Effect: How Apple&#8217;s cheapest Mac is changing the PC game](https://www.theverge.com/tech/904705/apple-macbook-neo-news-reviews-mods) (2026-04-08)
-- [Microsoft’s executive shake-up continues as developer division chief resigns](https://www.theverge.com/tech/908793/microsoft-devdiv-julia-liuson-resignation) (2026-04-08)
-- [Meta is reentering the AI race with a new model called Muse Spark](https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout) (2026-04-08)
-- [Amazon’s Smart Thermostat can help lower your energy bills, and it’s down to $62](https://www.theverge.com/gadgets/908742/amazon-smart-thermostat-samsung-galaxy-buds-4-pro-deal-sale) (2026-04-08)
-- [The Miniature Wife was an exercise in visual trickery](https://www.theverge.com/entertainment/905862/the-miniature-wife-was-an-exercise-in-visual-trickery) (2026-04-08)
+- [Gemini gets notebooks to help you organize projects](https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm) (2026-04-09)
+- [Dyson made a handheld version of its iconic fans](https://www.theverge.com/tech/907802/dyson-hushjet-mini-cool-handheld-personal-fan-specs-availability) (2026-04-09)
+- [OpenAI made economic proposals — here’s what DC thinks of them](https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them) (2026-04-08)
+- [I finally get the iPhone Air](https://www.theverge.com/gadgets/908788/iphone-air-magsafe-wallet-battery-modular) (2026-04-08)
+- [The AI RAM shortage is also driving up SSD prices](https://www.theverge.com/tech/908916/ssd-storage-shortages-price-increases) (2026-04-08)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Motorola's budget phones are now up to 50% more expensive as memory shortage drags on](https://arstechnica.com/gadgets/2026/04/motorolas-budget-phones-are-now-up-to-50-more-expensive-as-memory-shortage-drags-on/) (2026-04-08)
-- [To beat Altman in court, Musk offers to give all damages to OpenAI nonprofit](https://arstechnica.com/tech-policy/2026/04/to-beat-altman-in-court-musk-offers-to-give-all-damages-to-open-ai-nonprofit/) (2026-04-08)
-- [Tankers passing through Strait of Hormuz will have to pay cryptocurrency toll](https://arstechnica.com/tech-policy/2026/04/iran-demands-cryptocurrency-toll-from-tankers-passing-through-strait-of-hormuz/) (2026-04-08)
-- [Steam client files point to "framerate estimator" feature in the works](https://arstechnica.com/gaming/2026/04/steam-client-files-point-to-framerate-estimator-feature-in-the-works/) (2026-04-08)
-- [For the first time ever, Amazon is cutting old Kindles off from the Kindle Store](https://arstechnica.com/gadgets/2026/04/starting-in-may-pre-2013-kindles-wont-be-able-to-buy-or-download-new-books/) (2026-04-08)
+- [Trump admin makes sweeping request for medical records of federal workers](https://arstechnica.com/health/2026/04/trump-admin-seeks-medical-records-of-federal-workers-for-vague-reasons/) (2026-04-08)
+- [LinkedIn scanning users' browser extensions sparks controversy and two lawsuits](https://arstechnica.com/tech-policy/2026/04/linkedin-scanning-users-browser-extensions-sparks-controversy-and-two-lawsuits/) (2026-04-08)
+- [Iran-linked hackers disrupt operations at US critical infrastructure sites](https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/) (2026-04-08)
+- [Meta's Superintelligence Lab unveils its first public model, Muse Spark](https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/) (2026-04-08)
+- [How our digital devices are putting our right to privacy at risk](https://arstechnica.com/culture/2026/04/how-our-digital-devices-are-putting-our-right-to-privacy-at-risk/) (2026-04-08)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Time Travel for Your State: Undo/Redo - with Zustand and React Query (Part 2)](https://dev.to/math-krish/time-travel-for-your-state-undoredo-with-zustand-and-react-query-part-2-4d64) (2026-04-08)
-- [AI-Driven Architecture vs. Human-Led Design: A Practical Comparison](https://dev.to/alanwest/ai-driven-architecture-vs-human-led-design-a-practical-comparison-1j5g) (2026-04-08)
-- [Claude Code Leak: Why Every Developer Building AI Systems Should Be Paying Attention](https://dev.to/vsnikhilvs/claude-code-leak-why-every-developer-building-ai-systems-should-be-paying-attention-fjl) (2026-04-08)
-- [[AutoBe] Qwen 3.5-27B Just Built Complete Backends from Scratch — 100% Compilation, 25x Cheaper](https://dev.to/samchon/autobe-qwen-35-27b-just-built-complete-backends-from-scratch-100-compilation-25x-cheaper-lmd) (2026-04-08)
-- [How to Master SQLAlchemy I/O: Testing Queries in CI to Prevent Database Disasters 🚨](https://dev.to/fmartins/how-to-master-sqlalchemy-io-testing-queries-in-ci-to-prevent-database-disasters-4gfj) (2026-04-08)
+- [The Software Architecture Decisions That Are Aging Poorly in 2025](https://dev.to/wiseaccelerate/the-software-architecture-decisions-that-are-aging-poorly-in-2025-3db0) (2026-04-09)
+- [Every React Developer Uses Hooks. Almost None Can Explain How They Work.](https://dev.to/luizgarcia/every-react-developer-uses-hooks-almost-none-can-explain-how-they-work-420p) (2026-04-09)
+- [Why Validating Segment Events Is So Frustrating (And How I Fixed It)](https://dev.to/agch-dev/why-validating-segment-events-is-so-frustrating-and-how-i-fixed-it-fda) (2026-04-09)
+- [74% of Startups Fail From Premature Scaling. Your Tech Stack Might Be the Problem.](https://dev.to/alexmayhew-dev/74-of-startups-fail-from-premature-scaling-your-tech-stack-might-be-the-problem-9i2) (2026-04-09)
+- [Ilere: Building a Transparent Rental Marketplace on Expo and Supabase](https://dev.to/mikelisrael/ilere-building-a-transparent-rental-marketplace-on-expo-and-supabase-2207) (2026-04-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Anthropic Built Their Best Model Ever. Then They Decided Not to Release It.](https://medium.com/@cdcore/anthropic-built-their-best-model-ever-then-they-decided-not-to-release-it-42dc18604190?source=rss------programming-5) (2026-04-08)
-- [Claude Code Leak: Why Every Developer Building AI Systems Should Be Paying Attention](https://vsnikhilvs.medium.com/claude-code-leak-why-every-developer-building-ai-systems-should-be-paying-attention-3de38e447f2f?source=rss------programming-5) (2026-04-08)
-- [How to get AI to shut up](https://ai.gopubby.com/how-to-get-ai-to-shut-up-2f2058186d5a?source=rss------programming-5) (2026-04-08)
-- [# Zimanek Bi Siyasetê Dimire](https://medium.com/@orhan5665/zimanek-bi-siyaset%C3%AA-dimire-93e8dccd7e94?source=rss------programming-5) (2026-04-08)
-- [Classes and Objects Finally Clicked When I Understood This One Idea](https://medium.com/codetodeploy/classes-and-objects-finally-clicked-when-i-understood-this-one-idea-aef976a27631?source=rss------programming-5) (2026-04-08)
+- [Why UV is Replacing pip in My Python Workflow (And Why You Should Try It)](https://medium.com/@sripadhsujith2009/why-uv-is-replacing-pip-in-my-python-workflow-and-why-you-should-try-it-059178acc4ea?source=rss------programming-5) (2026-04-09)
+- [El espejismo de la velocidad: Por qué la arquitectura acelera y las herramientas solo “tipean” más…](https://medium.com/@sawady.faso/el-espejismo-de-la-velocidad-por-qu%C3%A9-la-arquitectura-acelera-y-las-herramientas-solo-tipean-m%C3%A1s-2635517cd648?source=rss------programming-5) (2026-04-09)
+- [Your Brain Is Running 5 Electrical Symphonies Right Now. We Built a Quantum Circuit to Listen.](https://pub.towardsai.net/your-brain-is-running-5-electrical-symphonies-right-now-we-built-a-quantum-circuit-to-listen-82f8cf968b6b?source=rss------programming-5) (2026-04-09)
+- [Most Developers Are Using AI Wrong — And It’s Holding Them Back](https://ai.plainenglish.io/most-developers-are-using-ai-wrong-and-its-holding-them-back-1feebebe8f98?source=rss------programming-5) (2026-04-09)
+- [Call Center DBS +628159944657 WhatsApp](https://medium.com/@dbscard08/call-center-dbs-628159944657-whatsapp-734e9fbfd56a?source=rss------programming-5) (2026-04-09)
 
 </details>
 
@@ -367,11 +367,6 @@ Meet the 2026 finalists of our Excellence in Engagement Awards
 https://www.twilio.com/en-us/blog/company/spotlights/2026-engagement-finalists
 ) (2026-04-08)
 - [
-How to determine if a phone number still belongs to someone with the Twilio Lookup API
-](
-https://www.twilio.com/en-us/blog/lookup-reassigned-number-tcpa-compliance
-) (2026-04-08)
-- [
 How to create a promotional campaign with RCS and SendGrid in C#
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-create-promotional-rcs-sendgrid-in-csharp
@@ -386,6 +381,11 @@ March 2026 Fraud Update: AIT Tactics, Weaponized Trust, and a New Fraud Response
 ](
 https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update-march-2026
 ) (2026-03-31)
+- [
+How to Bring Your Own Keys for Okta Telephony with Twilio Verify
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/okta-byok-verify
+) (2026-03-27)
 
 </details>
 
@@ -493,11 +493,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update
 <details>
 <summary>💬 Slack API</summary>
 
-- [What is a Simple CRM? Easy Tools for Small Businesses](https://slack.com/blog/crm/simple-crm-for-small-businesses) (2026-04-07)
-- [CRM for Small Business: Benefits, Top Tools, and How to Choose](https://slack.com/blog/crm/best-crm-for-small-business) (2026-04-07)
 - [What Is an Agentic OS? A Practical Guide](https://slack.com/blog/productivity/what-is-an-agentic-os) (2026-04-03)
 - [Slackbot Just Became Your Ultimate Teammate in the New Interface for Work](https://slack.com/blog/news/agent-orchestration) (2026-03-31)
 - [Building an Agent-First Workspace in Slack](https://slack.com/blog/news/agent-first-workspace-slack) (2026-03-31)
+- [What Is Customer Management, and How Slack CRM Can Help](https://slack.com/blog/crm/customer-management) (2026-03-31)
+- [What Is Contact Management? How Slack CRM Supports It](https://slack.com/blog/crm/contact-management) (2026-03-31)
 
 </details>
 
@@ -542,17 +542,6 @@ https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update
 - [Welcome Gemma 4: Frontier multimodal intelligence on device](https://huggingface.co/blog/gemma4) (2026-04-02)
 - [Holo3: Breaking the Computer Use Frontier](https://huggingface.co/blog/Hcompany/holo3) (2026-04-01)
 - [Falcon Perception](https://huggingface.co/blog/tiiuae/falcon-perception) (2026-04-01)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [AI’s software development success and central management needs](https://www.artificialintelligence-news.com/news/ai-workflows-developer-success-and-central-project-management-needs/) (2026-04-08)
-- [Microsoft open-source toolkit secures AI agents at runtime](https://www.artificialintelligence-news.com/news/microsoft-open-source-toolkit-secures-ai-agents-at-runtime/) (2026-04-08)
-- [Asylon and Thrive Logic bring physical AI to enterprise perimeter security](https://www.artificialintelligence-news.com/news/physical-ai-security-at-the-enterprise-perimeter-takes-a-step-closer/) (2026-04-07)
-- [Boomi calls it “data activation” and says it’s the missing step in every AI deployment](https://www.artificialintelligence-news.com/news/boomi-agentic-ai-data-activation-missing-step/) (2026-04-07)
-- [Anthropic’s refusal to arm AI is exactly why the UK wants it](https://www.artificialintelligence-news.com/news/anthropic-uk-expansion-london-pentagon/) (2026-04-07)
 
 </details>
 
