@@ -31,10 +31,10 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Trump administration orders dismantling of the U.S. Forest Service](https://www.hatchmag.com/articles/trump-administration-orders-dismantling-us-forest-service/7716263) (2026-04-09)
+- [Process Manager for Autonomous AI Agents](https://botctl.dev/) (2026-04-09)
+- [Open Source Security at Astral](https://astral.sh/blog/open-source-security-at-astral) (2026-04-09)
+- [Newly created Polymarket accounts win big on well-timed Iran ceasefire bets](https://www.theguardian.com/business/2026/apr/08/polymarket-trump-us-iran-ceasefire) (2026-04-09)
 - [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html) (2026-04-09)
-- [I built a tool to let you export your X bookmarks and categorize them](https://x-archive.netlify.app/) (2026-04-08)
-- [Show HN: Tired of logic in useEffect, I built a class-based React state manager](https://thales.me/posts/why-i-built-snapstate/) (2026-04-08)
 - [Show HN: Is Hormuz open yet?](https://www.ishormuzopenyet.com/) (2026-04-08)
 
 </details>
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [The Moon is already on Google Maps—did Artemis II really tell us anything new?](https://arstechnica.com/space/2026/04/the-moon-is-already-on-google-maps-did-artemis-ii-really-tell-us-anything-new/) (2026-04-09)
 - [Trump admin makes sweeping request for medical records of federal workers](https://arstechnica.com/health/2026/04/trump-admin-seeks-medical-records-of-federal-workers-for-vague-reasons/) (2026-04-08)
 - [LinkedIn scanning users' browser extensions sparks controversy and two lawsuits](https://arstechnica.com/tech-policy/2026/04/linkedin-scanning-users-browser-extensions-sparks-controversy-and-two-lawsuits/) (2026-04-08)
 - [Iran-linked hackers disrupt operations at US critical infrastructure sites](https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/) (2026-04-08)
 - [Meta's Superintelligence Lab unveils its first public model, Muse Spark](https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/) (2026-04-08)
-- [How our digital devices are putting our right to privacy at risk](https://arstechnica.com/culture/2026/04/how-our-digital-devices-are-putting-our-right-to-privacy-at-risk/) (2026-04-08)
 
 </details>
 
@@ -75,11 +75,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [GitHub availability report: March 2026](https://github.blog/news-insights/company-news/github-availability-report-march-2026/) (2026-04-09)
 - [GitHub Universe is back: We want you to take the stage](https://github.blog/news-insights/company-news/github-universe-is-back-we-want-you-to-take-the-stage/) (2026-04-08)
 - [GitHub Copilot CLI combines model families for a second opinion](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/) (2026-04-06)
 - [The uphill climb of making diff lines performant](https://github.blog/engineering/architecture-optimization/the-uphill-climb-of-making-diff-lines-performant/) (2026-04-03)
 - [Securing the open source supply chain across GitHub](https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-across-github/) (2026-04-01)
-- [Run multiple agents at once with /fleet in Copilot CLI](https://github.blog/ai-and-ml/github-copilot/run-multiple-agents-at-once-with-fleet-in-copilot-cli/) (2026-04-01)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Software Architecture Decisions That Are Aging Poorly in 2025](https://dev.to/wiseaccelerate/the-software-architecture-decisions-that-are-aging-poorly-in-2025-3db0) (2026-04-09)
-- [Every React Developer Uses Hooks. Almost None Can Explain How They Work.](https://dev.to/luizgarcia/every-react-developer-uses-hooks-almost-none-can-explain-how-they-work-420p) (2026-04-09)
-- [Why Validating Segment Events Is So Frustrating (And How I Fixed It)](https://dev.to/agch-dev/why-validating-segment-events-is-so-frustrating-and-how-i-fixed-it-fda) (2026-04-09)
-- [74% of Startups Fail From Premature Scaling. Your Tech Stack Might Be the Problem.](https://dev.to/alexmayhew-dev/74-of-startups-fail-from-premature-scaling-your-tech-stack-might-be-the-problem-9i2) (2026-04-09)
-- [Ilere: Building a Transparent Rental Marketplace on Expo and Supabase](https://dev.to/mikelisrael/ilere-building-a-transparent-rental-marketplace-on-expo-and-supabase-2207) (2026-04-09)
+- [The Evolution of GUI Agents: From RPA Scripts to AI That Sees Your Screen](https://dev.to/mininglamp/the-evolution-of-gui-agents-from-rpa-scripts-to-ai-that-sees-your-screen-4mkc) (2026-04-09)
+- [I Stopped Paying for AI CLI Chaos: This Local Gateway Makes Claude Code, Codex, and Gemini Work as One](https://dev.to/yiyaoai/i-stopped-paying-for-ai-cli-chaos-this-local-gateway-makes-claude-code-codex-and-gemini-work-as-59hl) (2026-04-09)
+- [Google Maps Scraping: Extract Business Data, Reviews, and Local SEO Info](https://dev.to/agenthustler/google-maps-scraping-extract-business-data-reviews-and-local-seo-info-2fn2) (2026-04-09)
+- [LeetCode 46: Permutations — Step-by-Step Visual Trace](https://dev.to/tracelit/leetcode-46-permutations-step-by-step-visual-trace-idp) (2026-04-09)
+- [Booking.com Scraping: Extract Hotel Listings, Prices, and Reviews](https://dev.to/agenthustler/bookingcom-scraping-extract-hotel-listings-prices-and-reviews-5jh) (2026-04-09)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why UV is Replacing pip in My Python Workflow (And Why You Should Try It)](https://medium.com/@sripadhsujith2009/why-uv-is-replacing-pip-in-my-python-workflow-and-why-you-should-try-it-059178acc4ea?source=rss------programming-5) (2026-04-09)
-- [El espejismo de la velocidad: Por qué la arquitectura acelera y las herramientas solo “tipean” más…](https://medium.com/@sawady.faso/el-espejismo-de-la-velocidad-por-qu%C3%A9-la-arquitectura-acelera-y-las-herramientas-solo-tipean-m%C3%A1s-2635517cd648?source=rss------programming-5) (2026-04-09)
-- [Your Brain Is Running 5 Electrical Symphonies Right Now. We Built a Quantum Circuit to Listen.](https://pub.towardsai.net/your-brain-is-running-5-electrical-symphonies-right-now-we-built-a-quantum-circuit-to-listen-82f8cf968b6b?source=rss------programming-5) (2026-04-09)
-- [Most Developers Are Using AI Wrong — And It’s Holding Them Back](https://ai.plainenglish.io/most-developers-are-using-ai-wrong-and-its-holding-them-back-1feebebe8f98?source=rss------programming-5) (2026-04-09)
-- [Call Center DBS +628159944657 WhatsApp](https://medium.com/@dbscard08/call-center-dbs-628159944657-whatsapp-734e9fbfd56a?source=rss------programming-5) (2026-04-09)
+- [Gemini CLI vs Claude Code vs Codex: I Benchmarked All Three. Here’s the Honest Verdict.](https://medium.com/@anupkawarase.akz/gemini-cli-vs-claude-code-vs-codex-i-benchmarked-all-three-heres-the-honest-verdict-a9b830313cc5?source=rss------programming-5) (2026-04-09)
+- [I Thought Converting My HTML Website Into a WordPress Theme Would Be Easy. I Was Wrong.](https://blog.stackademic.com/i-thought-converting-my-html-website-into-a-wordpress-theme-would-be-easy-i-was-wrong-7190c2065a13?source=rss------programming-5) (2026-04-09)
+- [The Secret Life of Python: Fixing Race Conditions with Threading Locks](https://medium.com/@aaron.rose.tx/the-secret-life-of-python-fixing-race-conditions-with-threading-locks-83b82b3e02b9?source=rss------programming-5) (2026-04-09)
+- [ Using Redis as a Rate Limiter: Concepts & Implementation](https://naiknotebook.medium.com/using-redis-as-a-rate-limiter-concepts-implementation-f7c5d2baab35?source=rss------programming-5) (2026-04-09)
+- [Don’t Mistake Activity For Progress](https://medium.com/thriving-in-engineering/dont-mistake-activity-for-progress-2ea371329a4f?source=rss------programming-5) (2026-04-09)
 
 </details>
 
@@ -367,6 +367,11 @@ Meet the 2026 finalists of our Excellence in Engagement Awards
 https://www.twilio.com/en-us/blog/company/spotlights/2026-engagement-finalists
 ) (2026-04-08)
 - [
+How to determine if a phone number still belongs to someone with the Twilio Lookup API
+](
+https://www.twilio.com/en-us/blog/lookup-reassigned-number-tcpa-compliance
+) (2026-04-08)
+- [
 How to create a promotional campaign with RCS and SendGrid in C#
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-create-promotional-rcs-sendgrid-in-csharp
@@ -381,11 +386,6 @@ March 2026 Fraud Update: AIT Tactics, Weaponized Trust, and a New Fraud Response
 ](
 https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update-march-2026
 ) (2026-03-31)
-- [
-How to Bring Your Own Keys for Okta Telephony with Twilio Verify
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/okta-byok-verify
-) (2026-03-27)
 
 </details>
 
@@ -493,11 +493,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/okta-byok-ve
 <details>
 <summary>💬 Slack API</summary>
 
+- [What is a Simple CRM? Easy Tools for Small Businesses](https://slack.com/blog/crm/simple-crm-for-small-businesses) (2026-04-07)
+- [CRM for Small Business: Benefits, Top Tools, and How to Choose](https://slack.com/blog/crm/best-crm-for-small-business) (2026-04-07)
 - [What Is an Agentic OS? A Practical Guide](https://slack.com/blog/productivity/what-is-an-agentic-os) (2026-04-03)
 - [Slackbot Just Became Your Ultimate Teammate in the New Interface for Work](https://slack.com/blog/news/agent-orchestration) (2026-03-31)
 - [Building an Agent-First Workspace in Slack](https://slack.com/blog/news/agent-first-workspace-slack) (2026-03-31)
-- [What Is Customer Management, and How Slack CRM Can Help](https://slack.com/blog/crm/customer-management) (2026-03-31)
-- [What Is Contact Management? How Slack CRM Supports It](https://slack.com/blog/crm/contact-management) (2026-03-31)
 
 </details>
 
@@ -542,6 +542,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/okta-byok-ve
 - [Welcome Gemma 4: Frontier multimodal intelligence on device](https://huggingface.co/blog/gemma4) (2026-04-02)
 - [Holo3: Breaking the Computer Use Frontier](https://huggingface.co/blog/Hcompany/holo3) (2026-04-01)
 - [Falcon Perception](https://huggingface.co/blog/tiiuae/falcon-perception) (2026-04-01)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [AI’s software development success and central management needs](https://www.artificialintelligence-news.com/news/ai-workflows-developer-success-and-central-project-management-needs/) (2026-04-08)
+- [Microsoft open-source toolkit secures AI agents at runtime](https://www.artificialintelligence-news.com/news/microsoft-open-source-toolkit-secures-ai-agents-at-runtime/) (2026-04-08)
+- [Asylon and Thrive Logic bring physical AI to enterprise perimeter security](https://www.artificialintelligence-news.com/news/physical-ai-security-at-the-enterprise-perimeter-takes-a-step-closer/) (2026-04-07)
+- [Boomi calls it “data activation” and says it’s the missing step in every AI deployment](https://www.artificialintelligence-news.com/news/boomi-agentic-ai-data-activation-missing-step/) (2026-04-07)
+- [Anthropic’s refusal to arm AI is exactly why the UK wants it](https://www.artificialintelligence-news.com/news/anthropic-uk-expansion-london-pentagon/) (2026-04-07)
 
 </details>
 
