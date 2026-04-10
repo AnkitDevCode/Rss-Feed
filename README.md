@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Microsoft PhotoDNA scanning problem](https://www.elevenforum.com/t/microsoft-photodna-scanning-problem-it-is-comical-now.45961/) (2026-04-10)
-- [Vibe-Coded Ext4 for OpenBSD](https://lwn.net/Articles/1064541/) (2026-04-10)
-- [Many African families spend fortunes burying their dead](https://davidoks.blog/p/how-funerals-keep-africa-poor) (2026-04-09)
-- [BunnyCDN has been silently losing our production files for 15 months](https://old.reddit.com/r/webdev/comments/1sglytg/bunnycdn_has_been_silently_losing_our_production/) (2026-04-09)
-- [The Training Example Lie Bracket](https://pbement.com/posts/lie_brackets/) (2026-04-09)
+- [The tool that won't let AI say anything it can't cite](https://github.com/grainulation/grainulator) (2026-04-10)
+- [YouTube locked my accounts and I can't cancel my subscription](https://pocketables.com/2026/04/ai-music-corporate-control-and-the-creator-who-cant-even-leave.html) (2026-04-10)
+- [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer) (2026-04-10)
+- [Afrika Bambaataa, hip-hop pioneer, has died](https://www.bbc.co.uk/news/articles/c2evppm30p7o) (2026-04-10)
+- [Installing OpenBSD on the Pomera DM250{,XY?}](https://jcs.org/2026/04/09/openbsd-dm250) (2026-04-10)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Dashboard Was There But I Didn't Know What to Do, So I Let AI Handle It](https://dev.to/lazydev_oh/the-dashboard-was-there-but-i-didnt-know-what-to-do-so-i-let-ai-handle-it-39f) (2026-04-10)
-- [Signals in React (VI): Stale Closures, Subscription Traps, and Reactive Graph Pitfalls](https://dev.to/luciano0322/signals-in-react-vi-stale-closures-subscription-traps-and-reactive-graph-pitfalls-14n9) (2026-04-10)
-- [NEXT LEVEL LAB — DevOps API Testing (AWS + Auth + CI/CD mindset)](https://dev.to/jumptotech/next-level-lab-devops-api-testing-aws-auth-cicd-mindset-1a57) (2026-04-10)
-- [Experience Engine: AI Memory That Shrinks As Your Agent Learns](https://dev.to/muonroi/experience-engine-ai-memory-that-shrinks-as-your-agent-learns-2jee) (2026-04-10)
-- [A simple React hook for running local LLMs via WebGPU](https://dev.to/rahul_80cfa43302b/a-simple-react-hook-for-running-local-llms-via-webgpu-5234) (2026-04-10)
+- ["Attention Is All You Need" Paper tahun 2017 yang mengubah dunia kecerdasan buatan, dijelaskan tanpa perlu latar belakang teknis.](https://dev.to/ardisaurus/attention-is-all-you-need-paper-tahun-2017-yang-mengubah-dunia-kecerdasan-buatan-dijelaskan-593h) (2026-04-10)
+- ["CliGate Now Has a Built-in AI Assistant That Can Configure Your Proxy For You"](https://dev.to/yiyaoai/cligate-now-has-a-built-in-ai-assistant-that-can-configure-your-proxy-for-you-doc) (2026-04-10)
+- [What Happened in Apache SeaTunnel? This March You Shouldn’t Miss](https://dev.to/seatunnel/what-happened-in-apache-seatunnel-this-march-you-shouldnt-miss-2l12) (2026-04-10)
+- [Microsoft OA High-Frequency Questions 2026](https://dev.to/programhelp-cs/microsoft-oa-high-frequency-questions-2026-4oih) (2026-04-10)
+- [What Artemis II Says About Systems Thinking, Safety, and Human Judgment](https://dev.to/daretechie/what-artemis-ii-says-about-systems-thinking-safety-and-human-judgment-4j0e) (2026-04-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Building Custom Middleware in ASP.NET Core: A Step-by-Step Guide](https://medium.com/@Rajdip27/building-custom-middleware-in-asp-net-core-a-step-by-step-guide-3b788b9e3e49?source=rss------programming-5) (2026-04-10)
-- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-a3c3d42c75f6?source=rss------programming-5) (2026-04-10)
-- [Dynamic Blueprints: Polymorphism & Method Overriding in Python](https://medium.com/@syaokifaradisa09/dynamic-blueprints-polymorphism-method-overriding-in-python-625f543d2668?source=rss------programming-5) (2026-04-10)
-- [Scaling Your Architecture: Inheritance in Python OOP](https://medium.com/@syaokifaradisa09/scaling-your-architecture-inheritance-in-python-oop-b3f6fe11bd4b?source=rss------programming-5) (2026-04-10)
-- [15 AI Sales Tools I’m Actually Using in 2026](https://medium.com/codetodeploy/15-ai-sales-tools-im-actually-using-in-2026-519edaaa421e?source=rss------programming-5) (2026-04-10)
+- [8 Python Lessons Every Data Scientist Learns About Assumptions](https://blog.stackademic.com/8-python-lessons-every-data-scientist-learns-about-assumptions-99c0ae232d8d?source=rss------programming-5) (2026-04-10)
+- [I Installed 37 Claude Plugins So You Don’t Have To (Here Are the 10 That Actually Matter in 2026)](https://blog.stackademic.com/i-installed-37-claude-plugins-so-you-dont-have-to-here-are-the-10-that-actually-matter-in-2026-96d767260eb6?source=rss------programming-5) (2026-04-10)
+- [9 Python Insights Every ML Engineer Gains Over Time](https://python.plainenglish.io/9-python-insights-every-ml-engineer-gains-over-time-5664cbc4e292?source=rss------programming-5) (2026-04-10)
+- [I Ran 6 AI Agents in Parallel and Couldn’t Think Straight by Noon](https://blog.stackademic.com/i-ran-6-ai-agents-in-parallel-and-couldnt-think-straight-by-noon-bbd8df3488cd?source=rss------programming-5) (2026-04-10)
+- [Git Stash: The Command You’re Probably Underusing](https://blog.stackademic.com/git-stash-the-command-youre-probably-underusing-354e963bd2f0?source=rss------programming-5) (2026-04-10)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [How Drasi used GitHub Copilot to find documentation bugs](https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/) (2026-04-09)
+- [Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value](https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/) (2026-04-08)
 - [Azure IaaS: Keep critical applications running with built-in resiliency at scale](https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/) (2026-04-01)
 - [Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver Azure Local on Galleon modular datacenters](https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/) (2026-03-31)
 - [Navigating digital sovereignty at the frontier of transformation](https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/25/navigating-digital-sovereignty-at-the-frontier-of-transformation/) (2026-03-30)
-- [Microsoft named a Leader in 2026 Gartner® Magic Quadrant™ for Integration Platform as a Service](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2026-gartner-magic-quadrant-for-integration-platform-as-a-service/) (2026-03-30)
-- [AI for nuclear energy: Powering an intelligent, resilient future](https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2026/03/24/ai-for-nuclear-energy-powering-an-intelligent-resilient-future/) (2026-03-25)
 
 </details>
 
@@ -367,24 +367,24 @@ Meet the 2026 finalists of our Excellence in Engagement Awards
 https://www.twilio.com/en-us/blog/company/spotlights/2026-engagement-finalists
 ) (2026-04-08)
 - [
+What is a customer engagement platform and why does your business need one?
+](
+https://www.twilio.com/en-us/blog/insights/what-is-customer-engagement-platform
+) (2026-04-08)
+- [
 How to determine if a phone number still belongs to someone with the Twilio Lookup API
 ](
 https://www.twilio.com/en-us/blog/lookup-reassigned-number-tcpa-compliance
 ) (2026-04-08)
 - [
+Omnichannel customer engagement: Strategies for connecting every step of the journey 
+](
+https://www.twilio.com/en-us/blog/insights/omnichannel-customer-engagement-strategies
+) (2026-04-08)
+- [
 How to create a promotional campaign with RCS and SendGrid in C#
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-create-promotional-rcs-sendgrid-in-csharp
-) (2026-03-31)
-- [
-Getting Started with Podman Quadlets
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/building-blocks/getting-started-with-podman-quadlets
-) (2026-03-31)
-- [
-March 2026 Fraud Update: AIT Tactics, Weaponized Trust, and a New Fraud Response Guide
-](
-https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update-march-2026
 ) (2026-03-31)
 
 </details>
