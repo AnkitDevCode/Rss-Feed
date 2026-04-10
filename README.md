@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?](https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/) (2026-04-09)
-- [Google and Intel deepen AI infrastructure partnership](https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/) (2026-04-09)
-- [How to make the Startup Battlefield Top 20 — and what every company gets regardless](https://techcrunch.com/2026/04/09/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/) (2026-04-09)
-- [You can now edit your Instagram comments](https://techcrunch.com/2026/04/09/you-can-now-edit-your-instagram-comments/) (2026-04-09)
-- [Sierra’s Bret Taylor says the era of clicking buttons is over](https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/) (2026-04-09)
+- [Florida AG to probe OpenAI, alleging possible connection to FSU shooting](https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/) (2026-04-09)
+- [ChatGPT finally offers $100/month Pro plan](https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/) (2026-04-09)
+- [EFF is the latest organization to leave X](https://techcrunch.com/2026/04/09/eff-is-the-latest-organization-to-leave-x/) (2026-04-09)
+- [What founders can learn from Anjuna’s layoffs and recovery](https://techcrunch.com/2026/04/09/what-founders-can-learn-from-anjunas-layoffs-and-recovery/) (2026-04-09)
+- [Volkswagen drops all-electric ID.4 in the US in pivot back to gas SUVs](https://techcrunch.com/2026/04/09/volkswagen-drops-all-electric-id-4-in-the-us-in-pivot-back-to-gas-suvs/) (2026-04-09)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Hegel, a universal property-based testing protocol and family of PBT libraries](https://hegel.dev) (2026-04-09)
-- [What Game Engines Know About Data That Databases Forgot](https://nockawa.github.io/blog/what-game-engines-know-about-data/) (2026-04-09)
-- [ChatGPT Pro now starts at $100/month](https://chatgpt.com/pricing/) (2026-04-09)
-- [EFF is leaving X](https://www.eff.org/deeplinks/2026/04/eff-leaving-x) (2026-04-09)
-- [Research-Driven Agents: What Happens When Your Agent Reads Before It Codes](https://blog.skypilot.co/research-driven-agents/) (2026-04-09)
+- [Microsoft PhotoDNA scanning problem](https://www.elevenforum.com/t/microsoft-photodna-scanning-problem-it-is-comical-now.45961/) (2026-04-10)
+- [Vibe-Coded Ext4 for OpenBSD](https://lwn.net/Articles/1064541/) (2026-04-10)
+- [Many African families spend fortunes burying their dead](https://davidoks.blog/p/how-funerals-keep-africa-poor) (2026-04-09)
+- [BunnyCDN has been silently losing our production files for 15 months](https://old.reddit.com/r/webdev/comments/1sglytg/bunnycdn_has_been_silently_losing_our_production/) (2026-04-09)
+- [The Training Example Lie Bracket](https://pbement.com/posts/lie_brackets/) (2026-04-09)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Netflix&#8217;s TV games get a big boost with Jackbox collection](https://www.theverge.com/streaming/909415/netflix-games-jackbox-party-essentials) (2026-04-09)
-- [Framework is teasing a lot of Linux for its April 21st event](https://www.theverge.com/tech/909401/framework-next-gen-linux-teaser) (2026-04-09)
-- [Google&#8217;s Gemini AI can answer your questions with 3D models and simulations](https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations) (2026-04-09)
-- [Castlevania headlines a big list of exciting indie game reveals](https://www.theverge.com/games/908898/triple-i-initiative-indie-game-showcase-2026-recap-trailers) (2026-04-09)
-- [The team behind 1000xResist is making a game about convincing an AI that it isn’t human](https://www.theverge.com/entertainment/909180/prove-youre-human-announcement-sunset-visitor-1000xresist) (2026-04-09)
+- [ChatGPT has a new $100 per month Pro subscription](https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new) (2026-04-09)
+- [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals) (2026-04-09)
+- [Florida launches investigation into OpenAI](https://www.theverge.com/policy/909557/openai-florida-investigation) (2026-04-09)
+- [The EFF is quitting X](https://www.theverge.com/tech/909550/eff-electronic-frontier-foundation-leaving-x-twitter) (2026-04-09)
+- [John Deere will pay farmers $99 million over right-to-repair lawsuit](https://www.theverge.com/policy/909524/john-deere-class-action-settlement-farmers) (2026-04-09)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Trump-appointed judges refuse to block Trump blacklisting of Anthropic AI tech](https://arstechnica.com/tech-policy/2026/04/trump-appointed-judges-refuse-to-block-trump-blacklisting-of-anthropic-ai-tech/) (2026-04-09)
-- [Volkswagen stops building ID.4s in the US, has inventory "into 2027"](https://arstechnica.com/cars/2026/04/volkswagen-ends-id-4-production-in-tennessee-to-build-atlas-suv/) (2026-04-09)
-- [Police corporal created AI porn from driver's license pics](https://arstechnica.com/tech-policy/2026/04/state-police-corporal-created-porn-deepfakes-from-drivers-license-photos/) (2026-04-09)
-- [First man convicted under Take It Down Act kept making AI nudes after arrest](https://arstechnica.com/tech-policy/2026/04/first-man-convicted-under-take-it-down-act-kept-making-ai-nudes-after-arrest/) (2026-04-09)
-- [CDC study shows COVID shot benefits; Trump official blocks release](https://arstechnica.com/health/2026/04/cdc-study-shows-covid-shot-benefits-trump-official-blocks-release/) (2026-04-09)
+- [Orion helium leak no threat to Artemis II reentry, but will require redesign](https://arstechnica.com/space/2026/04/nasa-homes-in-on-likely-redesign-to-fix-orion-spacecrafts-leaky-valves/) (2026-04-10)
+- [RFK Jr. rewrites CDC panel's charter, opening door to anti-vaccine quacks](https://arstechnica.com/health/2026/04/rfk-jr-rewrites-cdc-panels-charter-opening-door-to-anti-vaccine-quacks/) (2026-04-09)
+- [AI on the couch: Anthropic gives Claude 20 hours of psychiatry](https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/) (2026-04-09)
+- [Clinical trial shows gene editing works for β-Thalassaemia, too](https://arstechnica.com/science/2026/04/clinical-trial-shows-gene-editing-works-for-%ce%b2-thalassaemia-too/) (2026-04-09)
+- [“Negative” views of Broadcom driving thousands of VMware migrations, rival says](https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/) (2026-04-09)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [5 Functions, 1 Route, $0/Month: My Entire SaaS Background Job Architecture](https://dev.to/drippery/5-functions-1-route-0month-my-entire-saas-background-job-architecture-2915) (2026-04-09)
-- [🔐 OWASP Top 10 in AWS: A Practical Security Series for Builders](https://dev.to/devopssourav/owasp-top-10-in-aws-a-practical-security-series-for-builders-3199) (2026-04-09)
-- [What are they primitive data types and non-primitive data types and difference?](https://dev.to/praveenkumarpraveen/what-are-they-primitive-data-types-and-non-primitive-data-types-and-difference-2c1n) (2026-04-09)
-- [Running Docker MCP Gateway on Linux (Without Docker Desktop)](https://dev.to/udondan/running-docker-mcp-gateway-on-linux-without-docker-desktop-4da2) (2026-04-09)
-- [Winner Announcement Delayed for the Notion MCP Challenge](https://dev.to/devteam/winner-announcement-delayed-for-the-notion-mcp-challenge-56ik) (2026-04-09)
+- [The Dashboard Was There But I Didn't Know What to Do, So I Let AI Handle It](https://dev.to/lazydev_oh/the-dashboard-was-there-but-i-didnt-know-what-to-do-so-i-let-ai-handle-it-39f) (2026-04-10)
+- [Signals in React (VI): Stale Closures, Subscription Traps, and Reactive Graph Pitfalls](https://dev.to/luciano0322/signals-in-react-vi-stale-closures-subscription-traps-and-reactive-graph-pitfalls-14n9) (2026-04-10)
+- [NEXT LEVEL LAB — DevOps API Testing (AWS + Auth + CI/CD mindset)](https://dev.to/jumptotech/next-level-lab-devops-api-testing-aws-auth-cicd-mindset-1a57) (2026-04-10)
+- [Experience Engine: AI Memory That Shrinks As Your Agent Learns](https://dev.to/muonroi/experience-engine-ai-memory-that-shrinks-as-your-agent-learns-2jee) (2026-04-10)
+- [A simple React hook for running local LLMs via WebGPU](https://dev.to/rahul_80cfa43302b/a-simple-react-hook-for-running-local-llms-via-webgpu-5234) (2026-04-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Read 47 Books Last Year and Remembered Almost Nothing. Then I Found These 5 AI Tools.](https://medium.com/@ayeshha2398/i-read-47-books-last-year-and-remembered-almost-nothing-then-i-found-these-5-ai-tools-3d8c922e9148?source=rss------programming-5) (2026-04-09)
-- [You Are Not Your Stack](https://medium.com/it-chronicles/you-are-not-your-stack-1c76255b6c05?source=rss------programming-5) (2026-04-09)
-- [Dívida Cognitiva: o custo invisível da inteligência artificial](https://ryuogawa.medium.com/d%C3%ADvida-cognitiva-o-custo-invis%C3%ADvel-da-intelig%C3%AAncia-artificial-ca0ca3967fe4?source=rss------programming-5) (2026-04-09)
-- [Delete Safari and Never Look Back](https://medium.com/macoclock/delete-safari-and-never-look-back-ca84ffb24d5d?source=rss------programming-5) (2026-04-09)
-- [SYNTHEX: Why Two Reasoning Streams Outperform One](https://medium.com/@sharaf_11509/synthex-why-two-reasoning-streams-outperform-one-dd82c96c5971?source=rss------programming-5) (2026-04-09)
+- [Building Custom Middleware in ASP.NET Core: A Step-by-Step Guide](https://medium.com/@Rajdip27/building-custom-middleware-in-asp-net-core-a-step-by-step-guide-3b788b9e3e49?source=rss------programming-5) (2026-04-10)
+- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-a3c3d42c75f6?source=rss------programming-5) (2026-04-10)
+- [Dynamic Blueprints: Polymorphism & Method Overriding in Python](https://medium.com/@syaokifaradisa09/dynamic-blueprints-polymorphism-method-overriding-in-python-625f543d2668?source=rss------programming-5) (2026-04-10)
+- [Scaling Your Architecture: Inheritance in Python OOP](https://medium.com/@syaokifaradisa09/scaling-your-architecture-inheritance-in-python-oop-b3f6fe11bd4b?source=rss------programming-5) (2026-04-10)
+- [15 AI Sales Tools I’m Actually Using in 2026](https://medium.com/codetodeploy/15-ai-sales-tools-im-actually-using-in-2026-519edaaa421e?source=rss------programming-5) (2026-04-10)
 
 </details>
 
@@ -141,8 +141,8 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
-- [National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources](https://blogs.nvidia.com/blog/national-robotics-week-2026/) (2026-04-09)
 - [Strength and Destiny Collide: ‘Samson: A Tyndalston Story’ Arrives in the Cloud](https://blogs.nvidia.com/blog/geforce-now-thursday-samson-a-tyndalston-story/) (2026-04-09)
+- [National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources](https://blogs.nvidia.com/blog/national-robotics-week-2026/) (2026-04-09)
 - [From RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AI](https://blogs.nvidia.com/blog/rtx-ai-garage-open-models-google-gemma-4/) (2026-04-02)
 - [Press Start on April: GeForce NOW Brings 10 Games to the Cloud](https://blogs.nvidia.com/blog/geforce-now-thursday-april-2026-games-list/) (2026-04-02)
 - [Efficiency at Scale: NVIDIA, Energy Leaders Accelerating Power‑Flexible AI Factories to Fortify the Grid](https://blogs.nvidia.com/blog/energy-efficiency-ai-factories-grid/) (2026-03-31)
@@ -536,11 +536,11 @@ https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs](https://huggingface.co/blog/waypoint-1-5) (2026-04-09)
 - [Multimodal Embedding & Reranker Models with Sentence Transformers](https://huggingface.co/blog/multimodal-sentence-transformers) (2026-04-09)
 - [ALTK‑Evolve: On‑the‑Job Learning for AI Agents](https://huggingface.co/blog/ibm-research/altk-evolve) (2026-04-08)
 - [Safetensors is Joining the PyTorch Foundation](https://huggingface.co/blog/safetensors-joins-pytorch-foundation) (2026-04-08)
 - [Welcome Gemma 4: Frontier multimodal intelligence on device](https://huggingface.co/blog/gemma4) (2026-04-02)
-- [Holo3: Breaking the Computer Use Frontier](https://huggingface.co/blog/Hcompany/holo3) (2026-04-01)
 
 </details>
 
