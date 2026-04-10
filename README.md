@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Snap gets closer to releasing new AI glasses after years-long hiatus](https://techcrunch.com/2026/04/10/snap-gets-closer-to-releasing-new-ai-glasses-after-years-long-hiatus/) (2026-04-10)
 - [Florida AG to probe OpenAI, alleging possible connection to FSU shooting](https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/) (2026-04-09)
 - [ChatGPT finally offers $100/month Pro plan](https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/) (2026-04-09)
 - [EFF is the latest organization to leave X](https://techcrunch.com/2026/04/09/eff-is-the-latest-organization-to-leave-x/) (2026-04-09)
 - [What founders can learn from Anjuna’s layoffs and recovery](https://techcrunch.com/2026/04/09/what-founders-can-learn-from-anjunas-layoffs-and-recovery/) (2026-04-09)
-- [Volkswagen drops all-electric ID.4 in the US in pivot back to gas SUVs](https://techcrunch.com/2026/04/09/volkswagen-drops-all-electric-id-4-in-the-us-in-pivot-back-to-gas-suvs/) (2026-04-09)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The tool that won't let AI say anything it can't cite](https://github.com/grainulation/grainulator) (2026-04-10)
-- [YouTube locked my accounts and I can't cancel my subscription](https://pocketables.com/2026/04/ai-music-corporate-control-and-the-creator-who-cant-even-leave.html) (2026-04-10)
-- [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer) (2026-04-10)
-- [Afrika Bambaataa, hip-hop pioneer, has died](https://www.bbc.co.uk/news/articles/c2evppm30p7o) (2026-04-10)
-- [Installing OpenBSD on the Pomera DM250{,XY?}](https://jcs.org/2026/04/09/openbsd-dm250) (2026-04-10)
+- [Women are getting most of the new jobs. What's going on with men?](https://text.npr.org/nx-s1-5773327) (2026-04-10)
+- [Intel 486 CPU announced April 10, 1989](https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/) (2026-04-10)
+- [White House staff told not to place bets on prediction markets](https://www.bbc.co.uk/news/articles/cgld65x396go) (2026-04-10)
+- [FBI used iPhone notification data to retrieve deleted Signal messages](https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/) (2026-04-10)
+- [Microsoft suspends dev accounts for high-profile open source projects](https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/) (2026-04-10)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [ChatGPT has a new $100 per month Pro subscription](https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new) (2026-04-09)
-- [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals) (2026-04-09)
-- [Florida launches investigation into OpenAI](https://www.theverge.com/policy/909557/openai-florida-investigation) (2026-04-09)
-- [The EFF is quitting X](https://www.theverge.com/tech/909550/eff-electronic-frontier-foundation-leaving-x-twitter) (2026-04-09)
-- [John Deere will pay farmers $99 million over right-to-repair lawsuit](https://www.theverge.com/policy/909524/john-deere-class-action-settlement-farmers) (2026-04-09)
+- [Fear and loathing at OpenAI](https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast) (2026-04-10)
+- [Snap is sticking with Qualcomm for its next AR glasses](https://www.theverge.com/tech/909608/snap-specs-qualcomm-snapdragon-ar-glasses) (2026-04-10)
+- [Gen Z’s love-hate relationship with AI](https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup) (2026-04-10)
+- [YouTube Premium is getting pricier](https://www.theverge.com/streaming/909698/youtube-premium-price-hike-us) (2026-04-10)
+- [Microsoft starts removing Copilot buttons from Windows 11 apps](https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons) (2026-04-10)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Dad stuck in support nightmare after teen lied about age on Discord](https://arstechnica.com/tech-policy/2026/04/dad-stuck-in-support-nightmare-after-teen-lied-about-age-on-discord/) (2026-04-10)
+- [Rocket Report: Chinese version of Falcon 9 fails; Artemis depends on rapid heavy lift](https://arstechnica.com/space/2026/04/rocket-report-price-parity-between-ariane-6-and-falcon-9-isar-stands-down/) (2026-04-10)
 - [Orion helium leak no threat to Artemis II reentry, but will require redesign](https://arstechnica.com/space/2026/04/nasa-homes-in-on-likely-redesign-to-fix-orion-spacecrafts-leaky-valves/) (2026-04-10)
 - [RFK Jr. rewrites CDC panel's charter, opening door to anti-vaccine quacks](https://arstechnica.com/health/2026/04/rfk-jr-rewrites-cdc-panels-charter-opening-door-to-anti-vaccine-quacks/) (2026-04-09)
 - [AI on the couch: Anthropic gives Claude 20 hours of psychiatry](https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/) (2026-04-09)
-- [Clinical trial shows gene editing works for β-Thalassaemia, too](https://arstechnica.com/science/2026/04/clinical-trial-shows-gene-editing-works-for-%ce%b2-thalassaemia-too/) (2026-04-09)
-- [“Negative” views of Broadcom driving thousands of VMware migrations, rival says](https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/) (2026-04-09)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: an exclusive Jeff VanderMeer story and AI models too scary to release](https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/) (2026-04-10)
+- [Constellations](https://www.technologyreview.com/2026/04/10/1135106/jeff-vandermeer-constellations-science-fiction/) (2026-04-10)
 - [The Download: AstroTurf wars and exponential AI growth](https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/) (2026-04-09)
 - [Is fake grass a bad idea? The AstroTurf wars are far from over.](https://www.technologyreview.com/2026/04/09/1135092/astroturf-fake-grass-artificial-heated-debates/) (2026-04-09)
 - [Desalination technology, by the numbers](https://www.technologyreview.com/2026/04/09/1135495/desalination-technology-numbers/) (2026-04-09)
-- [Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why](https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/) (2026-04-08)
-- [The Download: water threats in Iran and AI’s impact on what entrepreneurs make](https://www.technologyreview.com/2026/04/08/1135405/the-download-water-threats-iran-ais-impact-on-entrepreneurs-make/) (2026-04-08)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- ["Attention Is All You Need" Paper tahun 2017 yang mengubah dunia kecerdasan buatan, dijelaskan tanpa perlu latar belakang teknis.](https://dev.to/ardisaurus/attention-is-all-you-need-paper-tahun-2017-yang-mengubah-dunia-kecerdasan-buatan-dijelaskan-593h) (2026-04-10)
-- ["CliGate Now Has a Built-in AI Assistant That Can Configure Your Proxy For You"](https://dev.to/yiyaoai/cligate-now-has-a-built-in-ai-assistant-that-can-configure-your-proxy-for-you-doc) (2026-04-10)
-- [What Happened in Apache SeaTunnel? This March You Shouldn’t Miss](https://dev.to/seatunnel/what-happened-in-apache-seatunnel-this-march-you-shouldnt-miss-2l12) (2026-04-10)
-- [Microsoft OA High-Frequency Questions 2026](https://dev.to/programhelp-cs/microsoft-oa-high-frequency-questions-2026-4oih) (2026-04-10)
-- [What Artemis II Says About Systems Thinking, Safety, and Human Judgment](https://dev.to/daretechie/what-artemis-ii-says-about-systems-thinking-safety-and-human-judgment-4j0e) (2026-04-10)
+- [Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-ecs-express-and-gemini-cli-41me) (2026-04-10)
+- [The AI Development Stack: Fundamentals Every Developer Should Actually Understand](https://dev.to/toms_garcia_6574fe315ddb/the-ai-development-stack-fundamentals-every-developer-should-actually-understand-5fei) (2026-04-10)
+- [Velero Going CNCF Isn't About Backup. It's About Control.](https://dev.to/ntctech/velero-going-cncf-isnt-about-backup-its-about-control-3lp7) (2026-04-10)
+- [Redis connection monkey patching in Ruby Jungles](https://dev.to/aws-builders/redis-connection-monkey-patching-in-ruby-jungles-4k7o) (2026-04-10)
+- [Azure Kubernetes Security: Checklist and Best Practices](https://dev.to/mohamed_amine_hlali/azure-kubernetes-security-checklist-and-best-practices-3e89) (2026-04-10)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [8 Python Lessons Every Data Scientist Learns About Assumptions](https://blog.stackademic.com/8-python-lessons-every-data-scientist-learns-about-assumptions-99c0ae232d8d?source=rss------programming-5) (2026-04-10)
-- [I Installed 37 Claude Plugins So You Don’t Have To (Here Are the 10 That Actually Matter in 2026)](https://blog.stackademic.com/i-installed-37-claude-plugins-so-you-dont-have-to-here-are-the-10-that-actually-matter-in-2026-96d767260eb6?source=rss------programming-5) (2026-04-10)
-- [9 Python Insights Every ML Engineer Gains Over Time](https://python.plainenglish.io/9-python-insights-every-ml-engineer-gains-over-time-5664cbc4e292?source=rss------programming-5) (2026-04-10)
-- [I Ran 6 AI Agents in Parallel and Couldn’t Think Straight by Noon](https://blog.stackademic.com/i-ran-6-ai-agents-in-parallel-and-couldnt-think-straight-by-noon-bbd8df3488cd?source=rss------programming-5) (2026-04-10)
-- [Git Stash: The Command You’re Probably Underusing](https://blog.stackademic.com/git-stash-the-command-youre-probably-underusing-354e963bd2f0?source=rss------programming-5) (2026-04-10)
+- [How I Self-Published a Technical Book — Without a Publisher, a Budget, or Prior Experience (Part 1)](https://medium.com/@voronov007/how-i-self-published-a-technical-book-without-a-publisher-a-budget-or-prior-experience-part-1-56eb4131d71d?source=rss------programming-5) (2026-04-10)
+- [ 10 Free Color Tools Every Web Developer Should Use in 2026](https://medium.com/@zonefood197/10-free-color-tools-every-web-developer-should-use-in-2026-c69bb17f8237?source=rss------programming-5) (2026-04-10)
+- [Easy Recursive Approach to Solve the Tower of Hanoi Problem](https://medium.com/@csunfolds/easy-recursive-approach-to-solve-the-tower-of-hanoi-problem-4d6f4427e872?source=rss------programming-5) (2026-04-10)
+- [Stop Confusing “this” in JavaScript — Master It Once and For All](https://medium.com/@manaswinisasmal5597/stop-confusing-this-in-javascript-master-it-once-and-for-all-569c8a1730cb?source=rss------programming-5) (2026-04-10)
+- [6x Faster Swaps on STON.fi, Thanks to TON’s Catchain 2.0](https://medium.com/coinmonks/6x-faster-swaps-on-ston-fi-thanks-to-tons-catchain-2-0-eb7b1c871a05?source=rss------programming-5) (2026-04-10)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/) (2026-04-09)
 - [How Drasi used GitHub Copilot to find documentation bugs](https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/) (2026-04-09)
 - [Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value](https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/) (2026-04-08)
 - [Azure IaaS: Keep critical applications running with built-in resiliency at scale](https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/) (2026-04-01)
 - [Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver Azure Local on Galleon modular datacenters](https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/) (2026-03-31)
-- [Navigating digital sovereignty at the frontier of transformation](https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/25/navigating-digital-sovereignty-at-the-frontier-of-transformation/) (2026-03-30)
 
 </details>
 
@@ -367,24 +367,24 @@ Meet the 2026 finalists of our Excellence in Engagement Awards
 https://www.twilio.com/en-us/blog/company/spotlights/2026-engagement-finalists
 ) (2026-04-08)
 - [
-What is a customer engagement platform and why does your business need one?
-](
-https://www.twilio.com/en-us/blog/insights/what-is-customer-engagement-platform
-) (2026-04-08)
-- [
 How to determine if a phone number still belongs to someone with the Twilio Lookup API
 ](
 https://www.twilio.com/en-us/blog/lookup-reassigned-number-tcpa-compliance
 ) (2026-04-08)
 - [
-Omnichannel customer engagement: Strategies for connecting every step of the journey 
-](
-https://www.twilio.com/en-us/blog/insights/omnichannel-customer-engagement-strategies
-) (2026-04-08)
-- [
 How to create a promotional campaign with RCS and SendGrid in C#
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-create-promotional-rcs-sendgrid-in-csharp
+) (2026-03-31)
+- [
+Getting Started with Podman Quadlets
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/building-blocks/getting-started-with-podman-quadlets
+) (2026-03-31)
+- [
+March 2026 Fraud Update: AIT Tactics, Weaponized Trust, and a New Fraud Response Guide
+](
+https://www.twilio.com/en-us/blog/insights/best-practices/quarterly-fraud-update-march-2026
 ) (2026-03-31)
 
 </details>
@@ -547,44 +547,44 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-create-pro
 <details>
 <summary>🤖 AI News</summary>
 
+- [Why companies like Apple are building AI agents with limits](https://www.artificialintelligence-news.com/news/why-companies-like-apple-are-building-ai-agents-with-limits/) (2026-04-10)
+- [Meta has a competitive AI model but loses its open-source identity](https://www.artificialintelligence-news.com/news/meta-muse-spark-ai-model-open-source/) (2026-04-10)
 - [Agentic AI’s governance challenges under the EU AI Act in 2026](https://www.artificialintelligence-news.com/news/agentic-ais-governance-challenges-under-the-eu-ai-act-in-2026/) (2026-04-09)
 - [Anthropic keeps new AI model private after it finds thousands of external vulnerabilities](https://www.artificialintelligence-news.com/news/anthropic-keeps-new-ai-model-private-after-it-finds-thousands-of-external-vulnerabilities/) (2026-04-09)
 - [AI’s software development success and central management needs](https://www.artificialintelligence-news.com/news/ai-workflows-developer-success-and-central-project-management-needs/) (2026-04-08)
-- [Microsoft open-source toolkit secures AI agents at runtime](https://www.artificialintelligence-news.com/news/microsoft-open-source-toolkit-secures-ai-agents-at-runtime/) (2026-04-08)
-- [Asylon and Thrive Logic bring physical AI to enterprise perimeter security](https://www.artificialintelligence-news.com/news/physical-ai-security-at-the-enterprise-perimeter-takes-a-step-closer/) (2026-04-07)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How Does AI Learn to See in 3D and Understand Space?](https://towardsdatascience.com/how-does-ai-learn-to-see-in-3d-and-understand-space/) (2026-04-10)
 - [A Visual Explanation of Linear Regression](https://towardsdatascience.com/a-visual-explanation-of-the-linear-regression/) (2026-04-09)
 - [How Visual-Language-Action (VLA) Models Work](https://towardsdatascience.com/how-visual-language-action-vla-models-work/) (2026-04-09)
 - [A Survival Analysis Guide with Python: Using Time-To-Event Models to Forecast Customer Lifetime](https://towardsdatascience.com/a-survival-analysis-guide-with-python-using-time-to-event-models-to-forecast-customer-lifetime/) (2026-04-09)
 - [The Future of AI for Sales Is Diverse and Distributed](https://towardsdatascience.com/the-future-of-ai-for-sales-is-diverse-and-distributed/) (2026-04-09)
-- [Why AI Is Training on Its Own Garbage (and How to Fix It)](https://towardsdatascience.com/why-ai-is-training-on-its-own-garbage-and-how-to-fix-it/) (2026-04-08)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [10 Most Important AI Concepts Explained Simply](https://www.analyticsvidhya.com/blog/2026/04/basic-ai-concepts/) (2026-04-10)
 - [Project Glasswing is World’s Most Powerful AI in Action](https://www.analyticsvidhya.com/blog/2026/04/project-glasswing-claude-mythos-most-powerful-ai/) (2026-04-09)
 - [How to Run Gemma 4 on Your Phone Without Internet: A Hands-On Guide ](https://www.analyticsvidhya.com/blog/2026/04/run-gemma-4-on-your-phone/) (2026-04-08)
 - [Running Gemma 4 Locally with Ollama on Your PC](https://www.analyticsvidhya.com/blog/2026/04/running-gemma-4-locally/) (2026-04-08)
 - [LLM Wiki Revolution: How Andrej Karpathy’s Idea is Changing AI](https://www.analyticsvidhya.com/blog/2026/04/llm-wiki-by-andrej-karpathy/) (2026-04-07)
-- [Rethinking Enterprise Search: How Cortex Search Turns Data into Business Impact ](https://www.analyticsvidhya.com/blog/2026/04/how-cortex-search-turns-data-into-business-impact/) (2026-04-07)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Useful Things to Do with Google’s Antigravity Besides Coding](https://www.kdnuggets.com/5-useful-things-to-do-with-googles-antigravity-besides-coding) (2026-04-10)
 - [All About Pyjanitor’s Method Chaining Functionality, And Why Its Useful](https://www.kdnuggets.com/all-about-pyjanitors-method-chaining-functionality-and-why-its-useful) (2026-04-09)
 - [Kaggle + Google’s Free 5-Day Gen AI Course](https://www.kdnuggets.com/kaggle-googles-free-5-day-gen-ai-course) (2026-04-09)
 - [5 Docker Containers for Small Business](https://www.kdnuggets.com/5-docker-containers-for-small-business) (2026-04-09)
 - [Run Qwen3.5 on an Old Laptop: A Lightweight Local Agentic AI Setup Guide](https://www.kdnuggets.com/run-qwen3-5-on-an-old-laptop-a-lightweight-local-agentic-ai-setup-guide) (2026-04-08)
-- [5 Useful Python Scripts to Automate Boring Excel Tasks](https://www.kdnuggets.com/5-useful-python-scripts-to-automate-boring-excel-tasks) (2026-04-08)
 
 </details>
 
