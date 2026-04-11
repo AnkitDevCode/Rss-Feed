@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [NASA Artemis II splashes down in Pacific Ocean in ‘perfect’ landing for Moon mission](https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/) (2026-04-11)
+- [How to watch NASA’s Artemis II splash back down to Earth](https://techcrunch.com/2026/04/10/how-to-watch-nasa-artemis-ii-landing/) (2026-04-10)
+- [Anthropic temporarily banned OpenClaw’s creator from accessing Claude](https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/) (2026-04-10)
+- [Battery recycler Ascend Elements files for bankruptcy](https://techcrunch.com/2026/04/10/battery-recycler-ascend-elements-files-for-bankruptcy/) (2026-04-10)
 - [Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings](https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/) (2026-04-10)
-- [TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it](https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/) (2026-04-10)
-- [France to ditch Windows for Linux to reduce reliance on US tech](https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/) (2026-04-10)
-- [YouTube Premium and YouTube Music are getting more expensive](https://techcrunch.com/2026/04/10/youtube-premium-youtube-music-subscription-price-increase/) (2026-04-10)
-- [Every fusion startup that has raised over $100M](https://techcrunch.com/2026/04/10/every-fusion-startup-that-has-raised-over-100m/) (2026-04-10)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Autonomy Is Real Now](https://steelforfuel.substack.com/p/autonomy-is-real-now) (2026-04-10)
-- [HBO Obtains DMCA Subpoena to Unmask 'Euphoria' Spoiler Account on X](https://torrentfreak.com/hbo-obtains-dmca-subpoena-to-unmask-euphoria-spoiler-account-on-x/) (2026-04-10)
-- [Bild AI (YC W25) Is Hiring a Founding Product Engineer](https://www.ycombinator.com/companies/bild-ai/jobs/dDMaxVN-founding-product-engineer) (2026-04-10)
-- [A compelling title that is cryptic enough to get you to take action on it](https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/) (2026-04-10)
-- [The difficulty of making sure your website is broken](https://letsencrypt.org/2026/04/10/test-sites.html) (2026-04-10)
+- [Artemis II safely splashes down](https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/) (2026-04-11)
+- [Italo Calvino: A Traveller in a World of Uncertainty](https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty) (2026-04-10)
+- [Sam Altman's response to Molotov cocktail incident](https://blog.samaltman.com/2279512) (2026-04-10)
+- [Filing the corners off my MacBooks](https://kentwalters.com/posts/corners/) (2026-04-10)
+- [Installing Every* Firefox Extension](https://jack.cab/blog/every-firefox-extension) (2026-04-10)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Now the FAA says gamers are the answer to its air traffic controller shortage](https://www.theverge.com/games/910434/now-the-faa-says-gamers-are-the-answer-to-its-air-traffic-controller-shortage) (2026-04-10)
+- [20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house](https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail) (2026-04-10)
+- [How to watch the Artemis II astronauts return to Earth](https://www.theverge.com/news/910397/how-to-watch-the-artemis-ii-astronauts-return-to-earth) (2026-04-10)
 - [Microsoft finally lets Windows 11 testers unlock experimental features without ViVeTool](https://www.theverge.com/news/909659/microsoft-windows-insider-changes-unlock-experimental-features-without-vivetool) (2026-04-10)
 - [My go-to electric screwdriver is on sale for over 50 percent off today](https://www.theverge.com/gadgets/909546/fanttik-s1-pro-cordless-electric-screwdriver-iniu-20w-portable-charger-deal-sale) (2026-04-10)
-- [Amazon Luna axes third-party game purchases](https://www.theverge.com/tech/910025/amazon-luna-third-party-games-subscriptions) (2026-04-10)
-- [The Iranian Lego AI video creators credit their virality to &#8216;heart&#8217;](https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu) (2026-04-10)
-- [Little Snitch&#8217;s software counter surveillance jumps from Mac to Linux](https://www.theverge.com/tech/909975/little-snitch-linux-launch) (2026-04-10)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Microsoft's "commitment to Windows quality" starts with overhaul of beta program](https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-easier-for-windows-insider-testers-to-actually-get-new-features/) (2026-04-10)
-- ["Oobleck" still holds some surprises](https://arstechnica.com/science/2026/04/oobleck-still-holds-some-surprises/) (2026-04-10)
-- [YouTube increases Premium price again, says 90-second unskippable ads are a bug](https://arstechnica.com/gadgets/2026/04/youtube-increases-premium-price-again-says-90-second-unskippable-ads-are-a-bug/) (2026-04-10)
-- [Oldest octopus fossil found to not be an octopus ](https://arstechnica.com/science/2026/04/oldest-octopus-fossil-found-to-not-be-an-octopus/) (2026-04-10)
-- [What leaked "SteamGPT" files could mean for the PC gaming platform's use of AI](https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system/) (2026-04-10)
+- [Four astronauts are back home after a daring ride around the Moon](https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon/) (2026-04-11)
+- [Californians sue over AI tool that records doctor visits](https://arstechnica.com/tech-policy/2026/04/californians-sue-over-ai-tool-that-records-doctor-visits/) (2026-04-10)
+- [New paper argues history, not mantle plume, powers Yellowstone](https://arstechnica.com/science/2026/04/new-paper-argues-history-not-mantle-plume-powers-yellowstone/) (2026-04-10)
+- [F1 moves a step closer to fixing its 2026 hybrid problem](https://arstechnica.com/cars/2026/04/f1-moves-a-step-closer-to-fixing-its-2026-hybrid-problem/) (2026-04-10)
+- [Report: US demands Reddit unmask ICE critic, summons firm to grand jury](https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice/) (2026-04-10)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Next.js Uygulamalarında Dinamik Yönlendirme Nasıl Yapılır?](https://dev.to/forumweb/nextjs-uygulamalarinda-dinamik-yonlendirme-nasil-yapilir-5hjj) (2026-04-10)
-- [Large Language Models, Explained Like You're a Curious Human](https://dev.to/sabitak/large-language-models-explained-like-youre-a-curious-human-51ac) (2026-04-10)
-- [Perpetual Engine Series Part 2: Real-Time PnL Calculation 📈](https://dev.to/sumana10l/perpetual-engine-series-part-2-real-time-pnl-calculation-2npa) (2026-04-10)
-- [I slashed my AI token costs by 90% by "interviewing" my code. Here's the tool. (Show DEV)](https://dev.to/tuandm/i-slashed-my-ai-token-costs-by-90-by-interviewing-my-code-heres-the-tool-show-dev-2nmk) (2026-04-10)
-- [Your Coding Agent Will Never Start From Scratch Again: Session Storage in AgentCore Runtime](https://dev.to/aws-builders/your-coding-agent-will-never-start-from-scratch-again-session-storage-in-agentcore-runtime-2gca) (2026-04-10)
+- [How to Prove Compliance in AI-Generated Code](https://dev.to/max_gerhardson_9a99976541/how-to-prove-compliance-in-ai-generated-code-3f9j) (2026-04-11)
+- [Cloud VPS Scaling - Detaylı Teknik Analiz Rehberi 2026](https://dev.to/forumweb/cloud-vps-scaling-detayli-teknik-analiz-rehberi-2026-3fan) (2026-04-11)
+- [Why Chunking Is the Biggest Mistake in RAG Systems](https://dev.to/ranjancse/why-chunking-is-the-biggest-mistake-in-rag-systems-50cm) (2026-04-11)
+- [Finding meaning in text, an experiment in document clustering](https://dev.to/sidharth/finding-meaning-in-text-an-experiment-in-document-clustering-2fme) (2026-04-11)
+- [We Built an Open-Source Coding Exam Platform Because Every Vendor Let Us Down](https://dev.to/mickyarun/we-built-an-open-source-coding-exam-platform-because-every-vendor-let-us-down-a7m) (2026-04-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [From High School to Engineering: Mohammed Ouasli’s Roadmap](https://medium.com/@mohammedouasli7/from-high-school-to-engineering-mohammed-ouaslis-roadmap-db17f86ab7a6?source=rss------programming-5) (2026-04-10)
-- [The AI Stack I Actually Use for Production Engineering (Not the Ones Tech Twitter Recommends)](https://medium.com/engineering-playbook/the-ai-stack-i-actually-use-for-production-engineering-not-the-ones-tech-twitter-recommends-ab61e3545269?source=rss------programming-5) (2026-04-10)
-- [The scaling playbook is running out.](https://kotrotsos.medium.com/the-scaling-playbook-is-running-out-033c8e3ee98d?source=rss------programming-5) (2026-04-10)
-- [I Found 4 Free Alternatives to Claude Pro That Handle Production Code Better](https://blog.stackademic.com/i-found-4-free-alternatives-to-claude-pro-that-handle-production-code-better-e1e5faa32b73?source=rss------programming-5) (2026-04-10)
-- [Why ChatGPT’s New $100 Pro Plan Changes Everything for Developers](https://medium.com/@sebuzdugan/why-chatgpts-new-100-pro-plan-changes-everything-for-developers-ed92e372c4de?source=rss------programming-5) (2026-04-10)
+- [7 Python Scripts I Use Daily That Save Me 20+ Hours Weekly](https://python.plainenglish.io/7-python-scripts-i-use-daily-that-save-me-20-hours-weekly-a1599f280e4c?source=rss------programming-5) (2026-04-11)
+- [I Got Tired of Refreshing the US Visa Website, So I Built a Bot That Outsmarted Cloudflare](https://medium.com/@sonit77/i-got-tired-of-refreshing-the-us-visa-website-so-i-built-a-bot-that-outsmarted-cloudflare-81fedf2a48ac?source=rss------programming-5) (2026-04-11)
+- [CodeIgniter 4 in One Page: How the Pieces Fit Together](https://medium.com/teamcalai/codeigniter-4-in-one-page-how-the-pieces-fit-together-303390c61529?source=rss------programming-5) (2026-04-11)
+- [Why Technical Hiring Starts With Public Proof, Not Polished Claims](https://medium.com/design-bootcamp/why-technical-hiring-starts-with-public-proof-not-polished-claims-13710d8022e2?source=rss------programming-5) (2026-04-11)
+- [The Software Industry Is Undergoing a Paradigm Shift](https://wyuhuan.medium.com/the-software-industry-is-undergoing-a-paradigm-shift-5e914b0ad4bd?source=rss------programming-5) (2026-04-11)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/) (2026-04-09)
 - [How Drasi used GitHub Copilot to find documentation bugs](https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/) (2026-04-09)
 - [Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value](https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/) (2026-04-08)
 - [Azure IaaS: Keep critical applications running with built-in resiliency at scale](https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/) (2026-04-01)
 - [Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver Azure Local on Galleon modular datacenters](https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/) (2026-03-31)
+- [Navigating digital sovereignty at the frontier of transformation](https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/25/navigating-digital-sovereignty-at-the-frontier-of-transformation/) (2026-03-30)
 
 </details>
 
@@ -591,11 +591,11 @@ https://www.twilio.com/en-us/blog/insights/omnichannel-customer-engagement-strat
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System](https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/) (2026-04-10)
 - [The Roadmap to Mastering Agentic AI Design Patterns](https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/) (2026-04-09)
 - [A Hands-On Guide to Testing Agents with RAGAs and G-Eval](https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/) (2026-04-08)
 - [Handling Race Conditions in Multi-Agent Orchestration](https://machinelearningmastery.com/handling-race-conditions-in-multi-agent-orchestration/) (2026-04-07)
 - [Top 5 Reranking Models to Improve RAG Results](https://machinelearningmastery.com/top-5-reranking-models-to-improve-rag-results/) (2026-04-06)
-- [7 Machine Learning Trends to Watch in 2026](https://machinelearningmastery.com/7-machine-learning-trends-to-watch-in-2026/) (2026-04-01)
 
 </details>
 
