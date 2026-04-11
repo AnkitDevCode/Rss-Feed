@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home](https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/) (2026-04-11)
+- [Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips](https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/) (2026-04-11)
 - [NASA Artemis II splashes down in Pacific Ocean in ‘perfect’ landing for Moon mission](https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/) (2026-04-11)
 - [How to watch NASA’s Artemis II splash back down to Earth](https://techcrunch.com/2026/04/10/how-to-watch-nasa-artemis-ii-landing/) (2026-04-10)
 - [Anthropic temporarily banned OpenClaw’s creator from accessing Claude](https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/) (2026-04-10)
-- [Battery recycler Ascend Elements files for bankruptcy](https://techcrunch.com/2026/04/10/battery-recycler-ascend-elements-files-for-bankruptcy/) (2026-04-10)
-- [Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings](https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/) (2026-04-10)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [France's government is ditching Windows for Linux, says US tech a strategic risk](https://www.xda-developers.com/frances-government-ditching-windows-for-linux/) (2026-04-11)
-- [Show HN: Pardonned.com – A searchable database of US Pardons](https://news.ycombinator.com/item?id=47727960) (2026-04-11)
-- [20 years on AWS and never not my job](https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html) (2026-04-11)
-- [Productive Procrastination](https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/) (2026-04-11)
-- [Quien – A better WHOIS lookup tool](https://github.com/retlehs/quien/) (2026-04-11)
+- [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier) (2026-04-11)
+- [Phone Trips](http://www.wideweb.com/phonetrips/) (2026-04-11)
+- [The disturbing white paper Red Hat is trying to erase from the internet](https://www.osnews.com/story/144776/the-disturbing-white-paper-red-hat-is-trying-to-erase-from-the-internet/) (2026-04-11)
+- [Keeping a Postgres Queue Healthy](https://planetscale.com/blog/keeping-a-postgres-queue-healthy) (2026-04-11)
+- [Rockstar Games Hacked, Hackers Threaten a Massive Data Leak If Not Paid Ransom](https://kotaku.com/rockstar-games-reportedly-hacked-massive-data-leak-ransom-gta-6-shinyhunters-2000686858) (2026-04-11)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The new show making fun of tech bros](https://www.theverge.com/tech/910422/audacity-artemis-maul-installer) (2026-04-11)
-- [Is the ‘Holy Grail of batteries’ finally ready to bless us with its presence?](https://www.theverge.com/transportation/909480/solid-state-battery-donut-lab-ev-china) (2026-04-11)
-- [Now the FAA says gamers are the answer to its air traffic controller shortage](https://www.theverge.com/games/910434/now-the-faa-says-gamers-are-the-answer-to-its-air-traffic-controller-shortage) (2026-04-10)
-- [20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house](https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail) (2026-04-10)
-- [How to watch the Artemis II astronauts return to Earth](https://www.theverge.com/news/910397/how-to-watch-the-artemis-ii-astronauts-return-to-earth) (2026-04-10)
+- [Google says Polymarket bets showing up in News was an ‘error’](https://www.theverge.com/tech/910691/google-news-polymarket-bets-error) (2026-04-11)
+- [Pokémon Champions is off to a rough start](https://www.theverge.com/games/910110/pokemon-champions-bugs-balance-issues-vgc-newcomers) (2026-04-11)
+- [Your article about AI doesn’t need AI art](https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai) (2026-04-11)
+- [Google’s latest Nest Doorbells just hit their lowest prices of the year](https://www.theverge.com/gadgets/910472/google-nest-doorbell-wired-battery-powered-deal-sale) (2026-04-11)
+- [My baby deer plushie told me that Mitski&#8217;s dad was a CIA operative](https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion) (2026-04-11)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [2 Free Tools That Solve the Biggest Problem for Parent Developers](https://dev.to/meimakes/2-free-tools-that-solve-the-biggest-problem-for-parent-developers-mon) (2026-04-11)
-- [Title: Building LUMEN: A High-Contrast, AI-Powered Archival Network with Next.js & Supabase](https://dev.to/shyamkano/title-building-lumen-a-high-contrast-ai-powered-archival-network-with-nextjs-supabase-127i) (2026-04-11)
-- [I built a local screen reader that reads your screen aloud — no cloud, no API keys](https://dev.to/paradisecy/i-built-a-local-screen-reader-that-reads-your-screen-aloud-no-cloud-no-api-keys-m9) (2026-04-11)
-- [SQL Concepts and Practical Application](https://dev.to/noelmwamilab/sql-concepts-and-practical-application-17dd) (2026-04-11)
-- [gap-cycle-system](https://dev.to/gapuser/gap-cycle-system-i63) (2026-04-11)
+- [Cómo iniciar en AWS: la guía honesta para empezar sin perderte](https://dev.to/byron_lainez/como-iniciar-en-aws-la-guia-honesta-para-empezar-sin-perderte-d71) (2026-04-11)
+- [Learning XS - Custom Ops](https://dev.to/lnation/learning-xs-custom-ops-4lag) (2026-04-11)
+- [Beyond the Console: The Modern DevOps Guide to Architecting on AWS](https://dev.to/matt0135/beyond-the-console-the-modern-devops-guide-to-architecting-on-aws-3aea) (2026-04-11)
+- [The "Claude Mythos" Illusion: Innovation or Data Harvesting?](https://dev.to/casonadams/the-claude-mythos-illusion-innovation-or-data-harvesting-4o6m) (2026-04-11)
+- [Building a Figma to GitHub token pipeline that actually works](https://dev.to/alexandersstudi/building-a-figma-to-github-token-pipeline-that-actually-works-3o0o) (2026-04-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Queueable Apex vs Platform Events: The nuance explained](https://medium.com/@tkkiran0411/queueable-apex-vs-platform-events-the-nuance-explained-a6cba124e5a6?source=rss------programming-5) (2026-04-11)
-- [You’re Not Bad at Coding… You’re Learning It in the Most Frustrating Way Possible](https://shwetaprasad150.medium.com/youre-not-bad-at-coding-you-re-learning-it-in-the-most-frustrating-way-possible-125247c16628?source=rss------programming-5) (2026-04-11)
-- [Olympiad Exponential Equation](https://medium.com/think-art/olympiad-exponential-equation-921c8839ce51?source=rss------programming-5) (2026-04-11)
-- [AI Engineer vs ML Engineer: What’s the Real Difference in 2026?](https://medium.com/@sebuzdugan/ai-engineer-vs-ml-engineer-whats-the-real-difference-in-2026-d58d51cf31dc?source=rss------programming-5) (2026-04-11)
-- [what is JVM,JDK and JRE explained in simple words](https://medium.com/@sourabhramteke1311/what-is-jvm-jdk-and-jre-explained-in-simple-words-d54108509f91?source=rss------programming-5) (2026-04-11)
+- [What Signal Erased, iOS Preserved](https://levelup.gitconnected.com/what-signal-erased-ios-preserved-d3b1763d760b?source=rss------programming-5) (2026-04-11)
+- [“Two Timelines, One Case”](https://medium.com/@anthonywilliams19861/two-timelines-one-case-53bae618e7ad?source=rss------programming-5) (2026-04-11)
+- [Crawlbase Alternative: Why Your Search Bots Keep Getting Blocked](https://medium.com/@pentester720/crawlbase-alternative-why-your-search-bots-keep-getting-blocked-2e8534cf6f1a?source=rss------programming-5) (2026-04-11)
+- [What Hackathons Actually Taught Me](https://medium.com/@ewonn/what-hackathons-actually-taught-me-91b0d72dc203?source=rss------programming-5) (2026-04-11)
+- [I Build AI Agents for a Living. Then I Decided to Build an Actual Brain.](https://medium.com/@leonmatthies/i-build-ai-agents-for-a-living-then-i-decided-to-build-an-actual-brain-a70b268c3747?source=rss------programming-5) (2026-04-11)
 
 </details>
 
@@ -362,9 +362,19 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+How to take data governance from compliance burden to competitive advantage
+](
+https://www.twilio.com/en-us/blog/insights/data-governance-competitive-advantage
+) (2026-04-10)
+- [
 Build An Interactive Voice Response System With PHP
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/build-Interactive-voice-response-system-php-twilio
+) (2026-04-09)
+- [
+The fraud-friction paradox: Why stronger security should feel invisible
+](
+https://www.twilio.com/en-us/blog/insights/fraud-friction-invisible-security
 ) (2026-04-09)
 - [
 Meet the 2026 finalists of our Excellence in Engagement Awards
@@ -375,16 +385,6 @@ https://www.twilio.com/en-us/blog/company/spotlights/2026-engagement-finalists
 What is a customer engagement platform and why does your business need one?
 ](
 https://www.twilio.com/en-us/blog/insights/what-is-customer-engagement-platform
-) (2026-04-08)
-- [
-How to determine if a phone number still belongs to someone with the Twilio Lookup API
-](
-https://www.twilio.com/en-us/blog/lookup-reassigned-number-tcpa-compliance
-) (2026-04-08)
-- [
-Omnichannel customer engagement: Strategies for connecting every step of the journey 
-](
-https://www.twilio.com/en-us/blog/insights/omnichannel-customer-engagement-strategies
 ) (2026-04-08)
 
 </details>
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/insights/omnichannel-customer-engagement-strat
 <details>
 <summary>💬 Slack API</summary>
 
-- [What Is an Agentic OS? A Practical Guide](https://slack.com/blog/productivity/what-is-an-agentic-os) (2026-04-03)
-- [Slackbot Just Became Your Ultimate Teammate in the New Interface for Work](https://slack.com/blog/news/agent-orchestration) (2026-03-31)
-- [Building an Agent-First Workspace in Slack](https://slack.com/blog/news/agent-first-workspace-slack) (2026-03-31)
-- [What Is Customer Management, and How Slack CRM Can Help](https://slack.com/blog/crm/customer-management) (2026-03-31)
-- [What Is Contact Management? How Slack CRM Supports It](https://slack.com/blog/crm/contact-management) (2026-03-31)
+- [What Is Team Collaboration? 10 Ways to Make It More Successful](https://slack.com/blog/collaboration/what-is-team-collaboration-10-ways-to-make-it-more-successful) (2026-04-10)
+- [Introducing Slack CRM: Conversational Customer Management for Small Businesses](https://slack.com/blog/news/slack-crm-small-business) (2026-04-09)
+- [29 Team-Building Activities for Work](https://slack.com/blog/collaboration/10-team-building-activities-strengthen-culture) (2026-04-09)
+- [What Is Scrum? Roles, Values, and How It Works](https://slack.com/blog/collaboration/scrum-meeting) (2026-04-09)
+- [What Is an AI Scheduling Assistant? Top Tools, Benefits & Key Features](https://slack.com/blog/productivity/simplify-your-days-with-ai-scheduling-assistant) (2026-04-08)
 
 </details>
 
@@ -545,13 +545,24 @@ https://www.twilio.com/en-us/blog/insights/omnichannel-customer-engagement-strat
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [IBM: How robust AI governance protects enterprise margins](https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/) (2026-04-10)
+- [Why companies like Apple are building AI agents with limits](https://www.artificialintelligence-news.com/news/why-companies-like-apple-are-building-ai-agents-with-limits/) (2026-04-10)
+- [Meta has a competitive AI model but loses its open-source identity](https://www.artificialintelligence-news.com/news/meta-muse-spark-ai-model-open-source/) (2026-04-10)
+- [Agentic AI’s governance challenges under the EU AI Act in 2026](https://www.artificialintelligence-news.com/news/agentic-ais-governance-challenges-under-the-eu-ai-act-in-2026/) (2026-04-09)
+- [Anthropic keeps new AI model private after it finds thousands of external vulnerabilities](https://www.artificialintelligence-news.com/news/anthropic-keeps-new-ai-model-private-after-it-finds-thousands-of-external-vulnerabilities/) (2026-04-09)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
+- [Advanced RAG Retrieval: Cross-Encoders & Reranking](https://towardsdatascience.com/advanced-rag-retrieval-cross-encoders-reranking/) (2026-04-11)
+- [Why Every AI Coding Assistant Needs a Memory Layer](https://towardsdatascience.com/why-every-ai-coding-assistant-needs-a-memory-layer/) (2026-04-11)
 - [Introduction to Reinforcement Learning Agents with the Unity Game Engine ](https://towardsdatascience.com/introduction-to-reinforcement-learning-agents-with-the-unity-game-engine/) (2026-04-11)
 - [When Things Get Weird with Custom Calendars in Tabular Models](https://towardsdatascience.com/when-things-get-weird-with-the-custom-calendars-in-tabular-models/) (2026-04-10)
 - [Why MLOps Retraining Schedules Fail — Models Don’t Forget, They Get Shocked](https://towardsdatascience.com/why-mlops-retraining-schedules-fail-models-dont-forget-they-get-shocked/) (2026-04-10)
-- [A Guide to Voice Cloning on Voxtral with a Missing Encoder](https://towardsdatascience.com/voxtral-tts-surgery-codes-from-audio-reconstruction-2/) (2026-04-10)
-- [How Does AI Learn to See in 3D and Understand Space?](https://towardsdatascience.com/how-does-ai-learn-to-see-in-3d-and-understand-space/) (2026-04-10)
 
 </details>
 
