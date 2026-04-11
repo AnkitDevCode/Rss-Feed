@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Artemis II safely splashes down](https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/) (2026-04-11)
-- [Italo Calvino: A Traveller in a World of Uncertainty](https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty) (2026-04-10)
-- [Sam Altman's response to Molotov cocktail incident](https://blog.samaltman.com/2279512) (2026-04-10)
-- [Filing the corners off my MacBooks](https://kentwalters.com/posts/corners/) (2026-04-10)
-- [Installing Every* Firefox Extension](https://jack.cab/blog/every-firefox-extension) (2026-04-10)
+- [Tesla's supervised self-driving software gets Dutch okay, first in Europe](https://www.reuters.com/business/teslas-self-driving-software-gets-dutch-go-ahead-boost-eu-ambitions-2026-04-10/) (2026-04-11)
+- [20 Years on AWS and Never Not My Job](https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html) (2026-04-11)
+- [Productive Procrastination](https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/) (2026-04-11)
+- [Great at gaming? US air traffic control wants you to apply](https://www.bbc.com/news/articles/ce84rvx0e6do) (2026-04-11)
+- [Quien – A better WHOIS lookup tool](https://github.com/retlehs/quien/) (2026-04-11)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [The Artemis II mission has ended. Where does NASA go from here?](https://arstechnica.com/space/2026/04/the-artemis-ii-mission-has-ended-where-does-nasa-go-from-here/) (2026-04-11)
 - [Four astronauts are back home after a daring ride around the Moon](https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon/) (2026-04-11)
 - [Californians sue over AI tool that records doctor visits](https://arstechnica.com/tech-policy/2026/04/californians-sue-over-ai-tool-that-records-doctor-visits/) (2026-04-10)
 - [New paper argues history, not mantle plume, powers Yellowstone](https://arstechnica.com/science/2026/04/new-paper-argues-history-not-mantle-plume-powers-yellowstone/) (2026-04-10)
 - [F1 moves a step closer to fixing its 2026 hybrid problem](https://arstechnica.com/cars/2026/04/f1-moves-a-step-closer-to-fixing-its-2026-hybrid-problem/) (2026-04-10)
-- [Report: US demands Reddit unmask ICE critic, summons firm to grand jury](https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice/) (2026-04-10)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How to Prove Compliance in AI-Generated Code](https://dev.to/max_gerhardson_9a99976541/how-to-prove-compliance-in-ai-generated-code-3f9j) (2026-04-11)
-- [Cloud VPS Scaling - Detaylı Teknik Analiz Rehberi 2026](https://dev.to/forumweb/cloud-vps-scaling-detayli-teknik-analiz-rehberi-2026-3fan) (2026-04-11)
-- [Why Chunking Is the Biggest Mistake in RAG Systems](https://dev.to/ranjancse/why-chunking-is-the-biggest-mistake-in-rag-systems-50cm) (2026-04-11)
-- [Finding meaning in text, an experiment in document clustering](https://dev.to/sidharth/finding-meaning-in-text-an-experiment-in-document-clustering-2fme) (2026-04-11)
-- [We Built an Open-Source Coding Exam Platform Because Every Vendor Let Us Down](https://dev.to/mickyarun/we-built-an-open-source-coding-exam-platform-because-every-vendor-let-us-down-a7m) (2026-04-11)
+- [Automate Your Links: A Developer's Guide to the toui.io API](https://dev.to/thebrecht/automate-your-links-a-developers-guide-to-the-touiio-api-gam) (2026-04-11)
+- [How to Turn a 1-Hour YouTube Video into 10 Viral Clips Using AI](https://dev.to/kyle_clipspeedai/how-to-turn-a-1-hour-youtube-video-into-10-viral-clips-using-ai-3aen) (2026-04-11)
+- [Mastering Your Frontend Build with Bazel: Testing](https://dev.to/mbarzeev/mastering-your-frontend-build-with-bazel-testing-mlg) (2026-04-11)
+- [I Put pg_stat_activity in My SQL Client — And Added a Kill Button](https://dev.to/gillarohith/i-put-pgstatactivity-in-my-sql-client-and-added-a-kill-button-481i) (2026-04-11)
+- [Nobody Tells You This About Slow Transformer Models — I Fixed Mine in 3 Steps](https://dev.to/mansisomayajula03/nobody-tells-you-this-about-slow-transformer-models-i-fixed-mine-in-3-steps-518c) (2026-04-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [7 Python Scripts I Use Daily That Save Me 20+ Hours Weekly](https://python.plainenglish.io/7-python-scripts-i-use-daily-that-save-me-20-hours-weekly-a1599f280e4c?source=rss------programming-5) (2026-04-11)
-- [I Got Tired of Refreshing the US Visa Website, So I Built a Bot That Outsmarted Cloudflare](https://medium.com/@sonit77/i-got-tired-of-refreshing-the-us-visa-website-so-i-built-a-bot-that-outsmarted-cloudflare-81fedf2a48ac?source=rss------programming-5) (2026-04-11)
-- [CodeIgniter 4 in One Page: How the Pieces Fit Together](https://medium.com/teamcalai/codeigniter-4-in-one-page-how-the-pieces-fit-together-303390c61529?source=rss------programming-5) (2026-04-11)
-- [Why Technical Hiring Starts With Public Proof, Not Polished Claims](https://medium.com/design-bootcamp/why-technical-hiring-starts-with-public-proof-not-polished-claims-13710d8022e2?source=rss------programming-5) (2026-04-11)
-- [The Software Industry Is Undergoing a Paradigm Shift](https://wyuhuan.medium.com/the-software-industry-is-undergoing-a-paradigm-shift-5e914b0ad4bd?source=rss------programming-5) (2026-04-11)
+- [Why You Can’t Download Netflix Videos: A Deep Dive into DRM](https://medium.com/@iamunstbl/why-you-cant-download-netflix-videos-a-deep-dive-into-drm-805861457b85?source=rss------programming-5) (2026-04-11)
+- [I Rehearsed My Questions Before Meetings So I Wouldn't Sound Stupid.](https://medium.com/illumination/i-rehearsed-my-questions-before-meetings-so-i-wouldnt-sound-stupid-5ad900bcc651?source=rss------programming-5) (2026-04-11)
+- [The Model Context Protocol: Why It Exists, What It Solves, and How It Redefines AI Integration](https://medium.com/@Adem_Korkmaz/the-model-context-protocol-why-it-exists-what-it-solves-and-how-it-redefines-ai-integration-057de5548576?source=rss------programming-5) (2026-04-11)
+- [How Python Quietly Powers Instagram While Everyone Argues About Rust](https://medium.com/@diyasanjaysatpute147/how-python-quietly-powers-instagram-while-everyone-argues-about-rust-daa6750546b6?source=rss------programming-5) (2026-04-11)
+- [The AI Shortcut No One Is Talking About](https://medium.com/@jaivanshsagwan1/the-ai-shortcut-no-one-is-talking-about-02b8c58ec379?source=rss------programming-5) (2026-04-11)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/) (2026-04-09)
 - [How Drasi used GitHub Copilot to find documentation bugs](https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/) (2026-04-09)
 - [Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value](https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/) (2026-04-08)
 - [Azure IaaS: Keep critical applications running with built-in resiliency at scale](https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/) (2026-04-01)
 - [Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver Azure Local on Galleon modular datacenters](https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/) (2026-03-31)
-- [Navigating digital sovereignty at the frontier of transformation](https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/03/25/navigating-digital-sovereignty-at-the-frontier-of-transformation/) (2026-03-30)
 
 </details>
 
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/insights/omnichannel-customer-engagement-strat
 <details>
 <summary>💬 Slack API</summary>
 
-- [What Is an Agentic OS? A Practical Guide](https://slack.com/blog/productivity/what-is-an-agentic-os) (2026-04-03)
-- [Slackbot Just Became Your Ultimate Teammate in the New Interface for Work](https://slack.com/blog/news/agent-orchestration) (2026-03-31)
-- [Building an Agent-First Workspace in Slack](https://slack.com/blog/news/agent-first-workspace-slack) (2026-03-31)
-- [What Is Customer Management, and How Slack CRM Can Help](https://slack.com/blog/crm/customer-management) (2026-03-31)
-- [What Is Contact Management? How Slack CRM Supports It](https://slack.com/blog/crm/contact-management) (2026-03-31)
+- [What Is Team Collaboration? 10 Ways to Make It More Successful](https://slack.com/blog/collaboration/what-is-team-collaboration-10-ways-to-make-it-more-successful) (2026-04-10)
+- [Introducing Slack CRM: Conversational Customer Management for Small Businesses](https://slack.com/blog/news/slack-crm-small-business) (2026-04-09)
+- [29 Team-Building Activities for Work](https://slack.com/blog/collaboration/10-team-building-activities-strengthen-culture) (2026-04-09)
+- [What Is Scrum? Roles, Values, and How It Works](https://slack.com/blog/collaboration/scrum-meeting) (2026-04-09)
+- [What Is an AI Scheduling Assistant? Top Tools, Benefits & Key Features](https://slack.com/blog/productivity/simplify-your-days-with-ai-scheduling-assistant) (2026-04-08)
 
 </details>
 
