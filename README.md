@@ -31,10 +31,10 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Tesla's supervised self-driving software gets Dutch okay, first in Europe](https://www.reuters.com/business/teslas-self-driving-software-gets-dutch-go-ahead-boost-eu-ambitions-2026-04-10/) (2026-04-11)
-- [20 Years on AWS and Never Not My Job](https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html) (2026-04-11)
+- [France's government is ditching Windows for Linux, says US tech a strategic risk](https://www.xda-developers.com/frances-government-ditching-windows-for-linux/) (2026-04-11)
+- [Show HN: Pardonned.com – A searchable database of US Pardons](https://news.ycombinator.com/item?id=47727960) (2026-04-11)
+- [20 years on AWS and never not my job](https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html) (2026-04-11)
 - [Productive Procrastination](https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/) (2026-04-11)
-- [Great at gaming? US air traffic control wants you to apply](https://www.bbc.com/news/articles/ce84rvx0e6do) (2026-04-11)
 - [Quien – A better WHOIS lookup tool](https://github.com/retlehs/quien/) (2026-04-11)
 
 </details>
@@ -42,22 +42,22 @@
 <details>
 <summary>📱 The Verge</summary>
 
+- [The new show making fun of tech bros](https://www.theverge.com/tech/910422/audacity-artemis-maul-installer) (2026-04-11)
+- [Is the ‘Holy Grail of batteries’ finally ready to bless us with its presence?](https://www.theverge.com/transportation/909480/solid-state-battery-donut-lab-ev-china) (2026-04-11)
 - [Now the FAA says gamers are the answer to its air traffic controller shortage](https://www.theverge.com/games/910434/now-the-faa-says-gamers-are-the-answer-to-its-air-traffic-controller-shortage) (2026-04-10)
 - [20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house](https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail) (2026-04-10)
 - [How to watch the Artemis II astronauts return to Earth](https://www.theverge.com/news/910397/how-to-watch-the-artemis-ii-astronauts-return-to-earth) (2026-04-10)
-- [Microsoft finally lets Windows 11 testers unlock experimental features without ViVeTool](https://www.theverge.com/news/909659/microsoft-windows-insider-changes-unlock-experimental-features-without-vivetool) (2026-04-10)
-- [My go-to electric screwdriver is on sale for over 50 percent off today](https://www.theverge.com/gadgets/909546/fanttik-s1-pro-cordless-electric-screwdriver-iniu-20w-portable-charger-deal-sale) (2026-04-10)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [AI models are terrible at betting on soccer—especially xAI Grok](https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/) (2026-04-11)
 - [The Artemis II mission has ended. Where does NASA go from here?](https://arstechnica.com/space/2026/04/the-artemis-ii-mission-has-ended-where-does-nasa-go-from-here/) (2026-04-11)
 - [Four astronauts are back home after a daring ride around the Moon](https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon/) (2026-04-11)
 - [Californians sue over AI tool that records doctor visits](https://arstechnica.com/tech-policy/2026/04/californians-sue-over-ai-tool-that-records-doctor-visits/) (2026-04-10)
 - [New paper argues history, not mantle plume, powers Yellowstone](https://arstechnica.com/science/2026/04/new-paper-argues-history-not-mantle-plume-powers-yellowstone/) (2026-04-10)
-- [F1 moves a step closer to fixing its 2026 hybrid problem](https://arstechnica.com/cars/2026/04/f1-moves-a-step-closer-to-fixing-its-2026-hybrid-problem/) (2026-04-10)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Automate Your Links: A Developer's Guide to the toui.io API](https://dev.to/thebrecht/automate-your-links-a-developers-guide-to-the-touiio-api-gam) (2026-04-11)
-- [How to Turn a 1-Hour YouTube Video into 10 Viral Clips Using AI](https://dev.to/kyle_clipspeedai/how-to-turn-a-1-hour-youtube-video-into-10-viral-clips-using-ai-3aen) (2026-04-11)
-- [Mastering Your Frontend Build with Bazel: Testing](https://dev.to/mbarzeev/mastering-your-frontend-build-with-bazel-testing-mlg) (2026-04-11)
-- [I Put pg_stat_activity in My SQL Client — And Added a Kill Button](https://dev.to/gillarohith/i-put-pgstatactivity-in-my-sql-client-and-added-a-kill-button-481i) (2026-04-11)
-- [Nobody Tells You This About Slow Transformer Models — I Fixed Mine in 3 Steps](https://dev.to/mansisomayajula03/nobody-tells-you-this-about-slow-transformer-models-i-fixed-mine-in-3-steps-518c) (2026-04-11)
+- [2 Free Tools That Solve the Biggest Problem for Parent Developers](https://dev.to/meimakes/2-free-tools-that-solve-the-biggest-problem-for-parent-developers-mon) (2026-04-11)
+- [Title: Building LUMEN: A High-Contrast, AI-Powered Archival Network with Next.js & Supabase](https://dev.to/shyamkano/title-building-lumen-a-high-contrast-ai-powered-archival-network-with-nextjs-supabase-127i) (2026-04-11)
+- [I built a local screen reader that reads your screen aloud — no cloud, no API keys](https://dev.to/paradisecy/i-built-a-local-screen-reader-that-reads-your-screen-aloud-no-cloud-no-api-keys-m9) (2026-04-11)
+- [SQL Concepts and Practical Application](https://dev.to/noelmwamilab/sql-concepts-and-practical-application-17dd) (2026-04-11)
+- [gap-cycle-system](https://dev.to/gapuser/gap-cycle-system-i63) (2026-04-11)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why You Can’t Download Netflix Videos: A Deep Dive into DRM](https://medium.com/@iamunstbl/why-you-cant-download-netflix-videos-a-deep-dive-into-drm-805861457b85?source=rss------programming-5) (2026-04-11)
-- [I Rehearsed My Questions Before Meetings So I Wouldn't Sound Stupid.](https://medium.com/illumination/i-rehearsed-my-questions-before-meetings-so-i-wouldnt-sound-stupid-5ad900bcc651?source=rss------programming-5) (2026-04-11)
-- [The Model Context Protocol: Why It Exists, What It Solves, and How It Redefines AI Integration](https://medium.com/@Adem_Korkmaz/the-model-context-protocol-why-it-exists-what-it-solves-and-how-it-redefines-ai-integration-057de5548576?source=rss------programming-5) (2026-04-11)
-- [How Python Quietly Powers Instagram While Everyone Argues About Rust](https://medium.com/@diyasanjaysatpute147/how-python-quietly-powers-instagram-while-everyone-argues-about-rust-daa6750546b6?source=rss------programming-5) (2026-04-11)
-- [The AI Shortcut No One Is Talking About](https://medium.com/@jaivanshsagwan1/the-ai-shortcut-no-one-is-talking-about-02b8c58ec379?source=rss------programming-5) (2026-04-11)
+- [Queueable Apex vs Platform Events: The nuance explained](https://medium.com/@tkkiran0411/queueable-apex-vs-platform-events-the-nuance-explained-a6cba124e5a6?source=rss------programming-5) (2026-04-11)
+- [You’re Not Bad at Coding… You’re Learning It in the Most Frustrating Way Possible](https://shwetaprasad150.medium.com/youre-not-bad-at-coding-you-re-learning-it-in-the-most-frustrating-way-possible-125247c16628?source=rss------programming-5) (2026-04-11)
+- [Olympiad Exponential Equation](https://medium.com/think-art/olympiad-exponential-equation-921c8839ce51?source=rss------programming-5) (2026-04-11)
+- [AI Engineer vs ML Engineer: What’s the Real Difference in 2026?](https://medium.com/@sebuzdugan/ai-engineer-vs-ml-engineer-whats-the-real-difference-in-2026-d58d51cf31dc?source=rss------programming-5) (2026-04-11)
+- [what is JVM,JDK and JRE explained in simple words](https://medium.com/@sourabhramteke1311/what-is-jvm-jdk-and-jre-explained-in-simple-words-d54108509f91?source=rss------programming-5) (2026-04-11)
 
 </details>
 
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/insights/omnichannel-customer-engagement-strat
 <details>
 <summary>💬 Slack API</summary>
 
-- [What Is Team Collaboration? 10 Ways to Make It More Successful](https://slack.com/blog/collaboration/what-is-team-collaboration-10-ways-to-make-it-more-successful) (2026-04-10)
-- [Introducing Slack CRM: Conversational Customer Management for Small Businesses](https://slack.com/blog/news/slack-crm-small-business) (2026-04-09)
-- [29 Team-Building Activities for Work](https://slack.com/blog/collaboration/10-team-building-activities-strengthen-culture) (2026-04-09)
-- [What Is Scrum? Roles, Values, and How It Works](https://slack.com/blog/collaboration/scrum-meeting) (2026-04-09)
-- [What Is an AI Scheduling Assistant? Top Tools, Benefits & Key Features](https://slack.com/blog/productivity/simplify-your-days-with-ai-scheduling-assistant) (2026-04-08)
+- [What Is an Agentic OS? A Practical Guide](https://slack.com/blog/productivity/what-is-an-agentic-os) (2026-04-03)
+- [Slackbot Just Became Your Ultimate Teammate in the New Interface for Work](https://slack.com/blog/news/agent-orchestration) (2026-03-31)
+- [Building an Agent-First Workspace in Slack](https://slack.com/blog/news/agent-first-workspace-slack) (2026-03-31)
+- [What Is Customer Management, and How Slack CRM Can Help](https://slack.com/blog/crm/customer-management) (2026-03-31)
+- [What Is Contact Management? How Slack CRM Supports It](https://slack.com/blog/crm/contact-management) (2026-03-31)
 
 </details>
 
@@ -545,35 +545,24 @@ https://www.twilio.com/en-us/blog/insights/omnichannel-customer-engagement-strat
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [IBM: How robust AI governance protects enterprise margins](https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/) (2026-04-10)
-- [Why companies like Apple are building AI agents with limits](https://www.artificialintelligence-news.com/news/why-companies-like-apple-are-building-ai-agents-with-limits/) (2026-04-10)
-- [Meta has a competitive AI model but loses its open-source identity](https://www.artificialintelligence-news.com/news/meta-muse-spark-ai-model-open-source/) (2026-04-10)
-- [Agentic AI’s governance challenges under the EU AI Act in 2026](https://www.artificialintelligence-news.com/news/agentic-ais-governance-challenges-under-the-eu-ai-act-in-2026/) (2026-04-09)
-- [Anthropic keeps new AI model private after it finds thousands of external vulnerabilities](https://www.artificialintelligence-news.com/news/anthropic-keeps-new-ai-model-private-after-it-finds-thousands-of-external-vulnerabilities/) (2026-04-09)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
+- [Introduction to Reinforcement Learning Agents with the Unity Game Engine ](https://towardsdatascience.com/introduction-to-reinforcement-learning-agents-with-the-unity-game-engine/) (2026-04-11)
 - [When Things Get Weird with Custom Calendars in Tabular Models](https://towardsdatascience.com/when-things-get-weird-with-the-custom-calendars-in-tabular-models/) (2026-04-10)
 - [Why MLOps Retraining Schedules Fail — Models Don’t Forget, They Get Shocked](https://towardsdatascience.com/why-mlops-retraining-schedules-fail-models-dont-forget-they-get-shocked/) (2026-04-10)
 - [A Guide to Voice Cloning on Voxtral with a Missing Encoder](https://towardsdatascience.com/voxtral-tts-surgery-codes-from-audio-reconstruction-2/) (2026-04-10)
 - [How Does AI Learn to See in 3D and Understand Space?](https://towardsdatascience.com/how-does-ai-learn-to-see-in-3d-and-understand-space/) (2026-04-10)
-- [A Visual Explanation of Linear Regression](https://towardsdatascience.com/a-visual-explanation-of-the-linear-regression/) (2026-04-09)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Understanding BERTopic: From Raw Text to Interpretable Topics ](https://www.analyticsvidhya.com/blog/2026/04/bertopic-guide/) (2026-04-11)
 - [From Karpathy’s LLM Wiki to Graphify: AI Memory Layers are Here ](https://www.analyticsvidhya.com/blog/2026/04/graphify-guide/) (2026-04-10)
 - [10 Most Important AI Concepts Explained Simply](https://www.analyticsvidhya.com/blog/2026/04/basic-ai-concepts/) (2026-04-10)
 - [Project Glasswing is World’s Most Powerful AI in Action](https://www.analyticsvidhya.com/blog/2026/04/project-glasswing-claude-mythos-most-powerful-ai/) (2026-04-09)
 - [How to Run Gemma 4 on Your Phone Without Internet: A Hands-On Guide ](https://www.analyticsvidhya.com/blog/2026/04/run-gemma-4-on-your-phone/) (2026-04-08)
-- [Running Gemma 4 Locally with Ollama on Your PC](https://www.analyticsvidhya.com/blog/2026/04/running-gemma-4-locally/) (2026-04-08)
 
 </details>
 
