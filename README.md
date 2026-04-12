@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Kalshi wins temporary pause in Arizona criminal case](https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/) (2026-04-11)
+- [AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok](https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/) (2026-04-11)
 - [Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home](https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/) (2026-04-11)
 - [Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips](https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/) (2026-04-11)
 - [NASA Artemis II splashes down in Pacific Ocean in ‘perfect’ landing for Moon mission](https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/) (2026-04-11)
-- [How to watch NASA’s Artemis II splash back down to Earth](https://techcrunch.com/2026/04/10/how-to-watch-nasa-artemis-ii-landing/) (2026-04-10)
-- [Anthropic temporarily banned OpenClaw’s creator from accessing Claude](https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/) (2026-04-10)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier) (2026-04-11)
-- [Phone Trips](http://www.wideweb.com/phonetrips/) (2026-04-11)
-- [The disturbing white paper Red Hat is trying to erase from the internet](https://www.osnews.com/story/144776/the-disturbing-white-paper-red-hat-is-trying-to-erase-from-the-internet/) (2026-04-11)
-- [Keeping a Postgres Queue Healthy](https://planetscale.com/blog/keeping-a-postgres-queue-healthy) (2026-04-11)
-- [Rockstar Games Hacked, Hackers Threaten a Massive Data Leak If Not Paid Ransom](https://kotaku.com/rockstar-games-reportedly-hacked-massive-data-leak-ransom-gta-6-shinyhunters-2000686858) (2026-04-11)
+- [Midnight Captain – A midnight commander inspired file manager](https://github.com/duguyue100/midnight-captain) (2026-04-11)
+- [Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)](https://khronokernel.com/macos/2023/08/08/AS-VM.html) (2026-04-11)
+- [447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane](https://zenodo.org/records/19513269) (2026-04-11)
+- [Dark Castle](https://darkcastle.co.uk/) (2026-04-11)
+- [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/) (2026-04-11)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The Netherlands is the first European country to approve Tesla’s supervised Full Self-Driving](https://www.theverge.com/transportation/910717/netherlands-tesla-supervised-full-self-driving) (2026-04-11)
 - [Google says Polymarket bets showing up in News was an ‘error’](https://www.theverge.com/tech/910691/google-news-polymarket-bets-error) (2026-04-11)
 - [Pokémon Champions is off to a rough start](https://www.theverge.com/games/910110/pokemon-champions-bugs-balance-issues-vgc-newcomers) (2026-04-11)
 - [Your article about AI doesn’t need AI art](https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai) (2026-04-11)
 - [Google’s latest Nest Doorbells just hit their lowest prices of the year](https://www.theverge.com/gadgets/910472/google-nest-doorbell-wired-battery-powered-deal-sale) (2026-04-11)
-- [My baby deer plushie told me that Mitski&#8217;s dad was a CIA operative](https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion) (2026-04-11)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Cómo iniciar en AWS: la guía honesta para empezar sin perderte](https://dev.to/byron_lainez/como-iniciar-en-aws-la-guia-honesta-para-empezar-sin-perderte-d71) (2026-04-11)
-- [Learning XS - Custom Ops](https://dev.to/lnation/learning-xs-custom-ops-4lag) (2026-04-11)
-- [Beyond the Console: The Modern DevOps Guide to Architecting on AWS](https://dev.to/matt0135/beyond-the-console-the-modern-devops-guide-to-architecting-on-aws-3aea) (2026-04-11)
-- [The "Claude Mythos" Illusion: Innovation or Data Harvesting?](https://dev.to/casonadams/the-claude-mythos-illusion-innovation-or-data-harvesting-4o6m) (2026-04-11)
-- [Building a Figma to GitHub token pipeline that actually works](https://dev.to/alexandersstudi/building-a-figma-to-github-token-pipeline-that-actually-works-3o0o) (2026-04-11)
+- [The Inference Reckoning: From Training Buildout to Monetization](https://dev.to/practiceoverflow/the-inference-reckoning-from-training-buildout-to-monetization-ggf) (2026-04-12)
+- [Agent Native Data Infrastructure](https://dev.to/practiceoverflow/agent-native-data-infrastructure-3ej1) (2026-04-12)
+- [One Open Source Project a Day (No. 36): awesome-design-md - Making Design Specs Truly Readable for AI](https://dev.to/wonderlab/one-open-source-project-a-day-no-36-awesome-design-md-making-design-specs-truly-readable-for-304d) (2026-04-12)
+- [Stop Thinking of HTTP as Request/Response. It's a Universal Data Layout — and It's Faster Than Binary Protocol.](https://dev.to/thuangf45/stop-thinking-of-http-as-requestresponse-its-a-universal-data-layout-and-its-faster-than-4c1p) (2026-04-12)
+- [Best Practices for WordPress SSO Across Separate Domains](https://dev.to/nexuwp/best-practices-for-wordpress-sso-across-separate-domains-4kbk) (2026-04-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [What Signal Erased, iOS Preserved](https://levelup.gitconnected.com/what-signal-erased-ios-preserved-d3b1763d760b?source=rss------programming-5) (2026-04-11)
-- [“Two Timelines, One Case”](https://medium.com/@anthonywilliams19861/two-timelines-one-case-53bae618e7ad?source=rss------programming-5) (2026-04-11)
-- [Crawlbase Alternative: Why Your Search Bots Keep Getting Blocked](https://medium.com/@pentester720/crawlbase-alternative-why-your-search-bots-keep-getting-blocked-2e8534cf6f1a?source=rss------programming-5) (2026-04-11)
-- [What Hackathons Actually Taught Me](https://medium.com/@ewonn/what-hackathons-actually-taught-me-91b0d72dc203?source=rss------programming-5) (2026-04-11)
-- [I Build AI Agents for a Living. Then I Decided to Build an Actual Brain.](https://medium.com/@leonmatthies/i-build-ai-agents-for-a-living-then-i-decided-to-build-an-actual-brain-a70b268c3747?source=rss------programming-5) (2026-04-11)
+- [When Your Quant System Fails, the Fix Is Usually Not What You Think](https://medium.com/@brstudio.outreach/when-your-quant-system-fails-the-fix-is-usually-not-what-you-think-754981dd99b2?source=rss------programming-5) (2026-04-12)
+- [Top Skills to Learn in 2026 for High Income (Future-Proof Your Career)](https://medium.com/@contact.webpulse007/top-skills-to-learn-in-2026-for-high-income-future-proof-your-career-640e19cd8db9?source=rss------programming-5) (2026-04-12)
+- [9 Python Tricks That Make Everyday Coding Smoother](https://python.plainenglish.io/9-python-tricks-that-make-everyday-coding-smoother-716f3c17739a?source=rss------programming-5) (2026-04-12)
+- [How I Doubled My Revenue by Fixing One Hidden Flaw in My Checkout](https://issackpaul95.medium.com/how-i-doubled-my-revenue-by-fixing-one-hidden-flaw-in-my-checkout-0c09340edeee?source=rss------programming-5) (2026-04-12)
+- [Claude Code /ultraplan Explained: Multi-Agent Planning, the Source Code Leak, and the Mythos…](https://medium.com/@creativeaininja/claude-code-ultraplan-explained-multi-agent-planning-the-source-code-leak-and-the-mythos-27373e897a63?source=rss------programming-5) (2026-04-12)
 
 </details>
 
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/insights/what-is-customer-engagement-platform
 <details>
 <summary>💬 Slack API</summary>
 
-- [What Is Team Collaboration? 10 Ways to Make It More Successful](https://slack.com/blog/collaboration/what-is-team-collaboration-10-ways-to-make-it-more-successful) (2026-04-10)
-- [Introducing Slack CRM: Conversational Customer Management for Small Businesses](https://slack.com/blog/news/slack-crm-small-business) (2026-04-09)
-- [29 Team-Building Activities for Work](https://slack.com/blog/collaboration/10-team-building-activities-strengthen-culture) (2026-04-09)
-- [What Is Scrum? Roles, Values, and How It Works](https://slack.com/blog/collaboration/scrum-meeting) (2026-04-09)
-- [What Is an AI Scheduling Assistant? Top Tools, Benefits & Key Features](https://slack.com/blog/productivity/simplify-your-days-with-ai-scheduling-assistant) (2026-04-08)
+- [What Is an Agentic OS? A Practical Guide](https://slack.com/blog/productivity/what-is-an-agentic-os) (2026-04-03)
+- [Slackbot Just Became Your Ultimate Teammate in the New Interface for Work](https://slack.com/blog/news/agent-orchestration) (2026-03-31)
+- [Building an Agent-First Workspace in Slack](https://slack.com/blog/news/agent-first-workspace-slack) (2026-03-31)
+- [What Is Customer Management, and How Slack CRM Can Help](https://slack.com/blog/crm/customer-management) (2026-03-31)
+- [What Is Contact Management? How Slack CRM Supports It](https://slack.com/blog/crm/contact-management) (2026-03-31)
 
 </details>
 
