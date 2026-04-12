@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Walmart-owned Flipkart, Amazon are squeezing India’s quick commerce startups](https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/) (2026-04-12)
-- [Kalshi wins temporary pause in Arizona criminal case](https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/) (2026-04-11)
-- [AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok](https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/) (2026-04-11)
-- [Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home](https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/) (2026-04-11)
-- [Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips](https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/) (2026-04-11)
+- [X says it’s reducing payments to clickbait accounts](https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/) (2026-04-12)
+- [TechCrunch Mobility: Who is poaching all the self-driving vehicle talent?](https://techcrunch.com/2026/04/12/techcrunch-mobility-who-is-poaching-all-the-self-driving-vehicle-talent/) (2026-04-12)
+- [From LLMs to hallucinations, here’s a simple guide to common AI terms](https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/) (2026-04-12)
+- [At the HumanX conference, everyone was talking about Claude](https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/) (2026-04-12)
+- [Slate Auto: Everything you need to know about the Bezos-backed EV startup](https://techcrunch.com/2026/04/12/slate-auto-everything-you-need-to-know-about-the-bezos-backed-ev-startup/) (2026-04-12)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [No one owes you supply-chain security](https://purplesyringa.moe/blog/no-one-owes-you-supply-chain-security/) (2026-04-12)
-- [Internet outage in Iran reaches 1,008 hours](https://mastodon.social/@netblocks/116384935123261912) (2026-04-12)
-- [What have been the greatest intellectual achievements? (2017)](https://www.thinkingcomplete.com/2017/09/what-have-been-greatest-intellectual.html) (2026-04-12)
-- [JVM Options Explorer](https://chriswhocodes.com/vm-options-explorer.html) (2026-04-12)
-- [AI Will Be Met with Violence, and Nothing Good Will Come of It](https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and) (2026-04-12)
+- [Apple has removed most of the towns and villages in Lebanon from Apple maps](https://maps.apple.com/frame?center=33.723388%2C35.614698&span=1.983925%2C4.004193) (2026-04-12)
+- [Are sugar substitutes healthier than the real thing?](https://www.economist.com/science-and-technology/2026/04/10/are-sugar-substitutes-healthier-than-the-real-thing) (2026-04-12)
+- [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/) (2026-04-12)
+- [Reading Is Magic](https://samkriss.substack.com/p/reading-is-magic) (2026-04-12)
+- [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers) (2026-04-12)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The AI code wars are heating up](https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic) (2026-04-12)
-- [Allow me to explain why I love this camera that can’t shoot color](https://www.theverge.com/tech/910061/ricoh-gr-iv-monochrome-review) (2026-04-12)
-- [The Netherlands is the first European country to approve Tesla’s supervised Full Self-Driving](https://www.theverge.com/transportation/910717/netherlands-tesla-supervised-full-self-driving) (2026-04-11)
-- [Google says Polymarket bets showing up in News was an ‘error’](https://www.theverge.com/tech/910691/google-news-polymarket-bets-error) (2026-04-11)
-- [Pokémon Champions is off to a rough start](https://www.theverge.com/games/910110/pokemon-champions-bugs-balance-issues-vgc-newcomers) (2026-04-11)
+- [Rockstar Games says hack will have ‘no impact’](https://www.theverge.com/games/910815/rockstar-games-says-hack-will-have-no-impact) (2026-04-12)
+- [You can save $20 on the Super Mario Galaxy game bundle when you buy a Nintendo Switch 2](https://www.theverge.com/gadgets/909928/nintendo-switch-2-super-mario-galaxy-bundle-deal-sale) (2026-04-12)
+- [You can grab a refurbished 2021 Kindle Paperwhite starting at just $49.99](https://www.theverge.com/gadgets/910482/2021-amazon-kindle-paperwhite-signature-edition-refurbished-woot-deal-sale) (2026-04-12)
+- [The Hisense UR9 is a great first shot against OLED’s bow](https://www.theverge.com/tech/910537/hisense-ur9-rgb-led-tv-review) (2026-04-12)
+- [How AT&#038;T created the most iconic phone ever](https://www.theverge.com/podcast/910725/western-electric-500-att-version-history) (2026-04-12)
 
 </details>
 
@@ -97,23 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I stopped trying to learn every DevOps tool. So I built my own.](https://dev.to/alvarito1983/i-stopped-trying-to-learn-every-devops-tool-so-i-built-my-own-30cp) (2026-04-12)
-- [Why My Support Bot Finally Stopped Acting Like a Goldfish](https://dev.to/tharunika_shri_23/why-my-support-bot-finally-stopped-acting-like-a-goldfish-3npm) (2026-04-12)
-- [WHAT IS JAVASCRIPT](https://dev.to/subash_4870e66d76ac024544/what-is-javascript-21b5) (2026-04-12)
-- [Stickman Walking animation](https://dev.to/preetha_vaishnavi_2b82358/stickman-walking-animation-ffc) (2026-04-12)
-- [SvelteKit Port: 32.50 kB Gzip, +72% Over Plain Svelte — Meta-Framework Tax, Round Two](https://dev.to/sendotltd/sveltekit-port-3250-kb-gzip-72-over-plain-svelte-meta-framework-tax-round-two-288c) (2026-04-12)
+- [LLM Gateway vs LLM Proxy vs LLM Router: What's the Difference?](https://dev.to/gauravdagde/llm-gateway-vs-llm-proxy-vs-llm-router-whats-the-difference-3o5a) (2026-04-12)
+- [Building a Voice-Controlled AI Agent with FastAPI, Groq Whisper & LLaMA](https://dev.to/sneha_dhir_649d9b22406fa6/building-a-voice-controlled-ai-agent-with-fastapi-groq-whisper-llama-5bgk) (2026-04-12)
+- [PostgreSQL Write Performance: What the Benchmarks Won't Tell You](https://dev.to/haikasatryan/postgresql-write-performance-what-the-benchmarks-wont-tell-you-mm7) (2026-04-12)
+- [I built an AI that remembers every production incident. Here's what changed.](https://dev.to/sanscode19/i-built-an-ai-that-remembers-every-production-incident-heres-what-changed-bll) (2026-04-12)
+- [The definitive guide to testing Slack bots (and why it's been so hard)](https://dev.to/markturk87/the-definitive-guide-to-testing-slack-bots-and-why-its-been-so-hard-5feh) (2026-04-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Advanced JavaScript: Senior Mastery](https://kislayvats.medium.com/advanced-javascript-senior-mastery-8f11e1576786?source=rss------programming-5) (2026-04-12)
-- [C++ Abstract Machine.](https://medium.com/@katiya.guliyeva/c-abstract-machine-0f9328af54eb?source=rss------programming-5) (2026-04-12)
-- [LangChain](https://medium.com/@imamsab.im22/langchain-ffcb16610c92?source=rss------programming-5) (2026-04-12)
-- [RHAPSODY OF REALITIES - 12TH APRIL 2026
-"Don’t live like someone trying to be blessed.](https://medium.com/@folajeff/rhapsody-of-realities-12th-april-2026-dont-live-like-someone-trying-to-be-blessed-2ddf7844e15c?source=rss------programming-5) (2026-04-12)
-- [The AI That Doesn't Use a Computer — It Is the Computer](https://dinmaybrahma.medium.com/the-ai-that-doesnt-use-a-computer-it-is-the-computer-5c129ccf089c?source=rss------programming-5) (2026-04-12)
+- [Stop Making These 5 Spring Security Mistakes: What Senior Devs Do Instead](https://blog.stackademic.com/stop-making-these-5-spring-security-mistakes-what-senior-devs-do-instead-7603cd8248d7?source=rss------programming-5) (2026-04-12)
+- [Andrej Karpathy’s LLM Knowledge Bases explained](https://medium.com/data-science-in-your-pocket/andrej-karpathys-llm-knowledge-bases-explained-2d9fd3435707?source=rss------programming-5) (2026-04-12)
+- [Neural Computers: Can AI Become the Computer Itself?](https://medium.com/data-science-in-your-pocket/neural-computers-can-ai-become-the-computer-itself-9534ea327316?source=rss------programming-5) (2026-04-12)
+- [ How Do Games fake Water](https://medium.com/@vishucodplayer/how-do-games-fake-water-f9b74705c3fb?source=rss------programming-5) (2026-04-12)
+- [The Day Facebook Disappeared: What Engineers Can Learn from the 2021 Global Outage](https://medium.com/@rithwikkuchana/the-day-facebook-disappeared-what-engineers-can-learn-from-the-2021-global-outage-c3e58e787452?source=rss------programming-5) (2026-04-12)
 
 </details>
 
@@ -351,11 +350,11 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Welcome to Agents Week](https://blog.cloudflare.com/welcome-to-agents-week/) (2026-04-12)
 - [500 Tbps of capacity: 16 years of scaling our global network](https://blog.cloudflare.com/500-tbps-of-capacity/) (2026-04-10)
 - [From bytecode to bytes: automated magic packet generation](https://blog.cloudflare.com/from-bpf-to-packet/) (2026-04-08)
 - [Cloudflare targets 2029 for full post-quantum security](https://blog.cloudflare.com/post-quantum-roadmap/) (2026-04-07)
 - [How we built Organizations to help enterprises manage Cloudflare at scale](https://blog.cloudflare.com/organizations-beta/) (2026-04-06)
-- [Why we're rethinking cache for the AI era](https://blog.cloudflare.com/rethinking-cache-ai-humans/) (2026-04-02)
 
 </details>
 
@@ -546,13 +545,24 @@ https://www.twilio.com/en-us/blog/insights/what-is-customer-engagement-platform
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [IBM: How robust AI governance protects enterprise margins](https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/) (2026-04-10)
+- [Why companies like Apple are building AI agents with limits](https://www.artificialintelligence-news.com/news/why-companies-like-apple-are-building-ai-agents-with-limits/) (2026-04-10)
+- [Meta has a competitive AI model but loses its open-source identity](https://www.artificialintelligence-news.com/news/meta-muse-spark-ai-model-open-source/) (2026-04-10)
+- [Agentic AI’s governance challenges under the EU AI Act in 2026](https://www.artificialintelligence-news.com/news/agentic-ais-governance-challenges-under-the-eu-ai-act-in-2026/) (2026-04-09)
+- [Anthropic keeps new AI model private after it finds thousands of external vulnerabilities](https://www.artificialintelligence-news.com/news/anthropic-keeps-new-ai-model-private-after-it-finds-thousands-of-external-vulnerabilities/) (2026-04-09)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
+- [Stop Treating AI Memory Like a Search Problem](https://towardsdatascience.com/stop-treating-ai-memory-like-a-search-problem/) (2026-04-12)
+- [Write Pandas Like a Pro With Method Chaining Pipelines](https://towardsdatascience.com/this-one-pandas-pattern-separates-beginners-from-intermediate-users/) (2026-04-12)
+- [Your ReAct Agent Is Wasting 90% of Its Retries — Here’s How to Stop It](https://towardsdatascience.com/your-react-agent-is-wasting-90-of-its-retries-heres-how-to-stop-it/) (2026-04-12)
 - [Advanced RAG Retrieval: Cross-Encoders & Reranking](https://towardsdatascience.com/advanced-rag-retrieval-cross-encoders-reranking/) (2026-04-11)
 - [Why Every AI Coding Assistant Needs a Memory Layer](https://towardsdatascience.com/why-every-ai-coding-assistant-needs-a-memory-layer/) (2026-04-11)
-- [Introduction to Reinforcement Learning Agents with the Unity Game Engine ](https://towardsdatascience.com/introduction-to-reinforcement-learning-agents-with-the-unity-game-engine/) (2026-04-11)
-- [When Things Get Weird with Custom Calendars in Tabular Models](https://towardsdatascience.com/when-things-get-weird-with-the-custom-calendars-in-tabular-models/) (2026-04-10)
-- [Why MLOps Retraining Schedules Fail — Models Don’t Forget, They Get Shocked](https://towardsdatascience.com/why-mlops-retraining-schedules-fail-models-dont-forget-they-get-shocked/) (2026-04-10)
 
 </details>
 
