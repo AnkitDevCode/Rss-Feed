@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Walmart-owned Flipkart, Amazon are squeezing India’s quick commerce startups](https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/) (2026-04-12)
 - [Kalshi wins temporary pause in Arizona criminal case](https://techcrunch.com/2026/04/11/kalshi-wins-temporary-pause-in-arizona-criminal-case/) (2026-04-11)
 - [AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok](https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/) (2026-04-11)
 - [Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home](https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/) (2026-04-11)
 - [Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips](https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/) (2026-04-11)
-- [NASA Artemis II splashes down in Pacific Ocean in ‘perfect’ landing for Moon mission](https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/) (2026-04-11)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Midnight Captain – A midnight commander inspired file manager](https://github.com/duguyue100/midnight-captain) (2026-04-11)
-- [Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)](https://khronokernel.com/macos/2023/08/08/AS-VM.html) (2026-04-11)
-- [447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane](https://zenodo.org/records/19513269) (2026-04-11)
-- [Dark Castle](https://darkcastle.co.uk/) (2026-04-11)
-- [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/) (2026-04-11)
+- [US appeals court declares 158-year-old home distilling ban unconstitutional](https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional) (2026-04-12)
+- [Why meaningful days look like nothing while you are living them](https://pilgrima.ge/p/the-grand-line) (2026-04-12)
+- [Building a Z-Machine in the worst possible language – Whitebeard's Realm](https://whitebeard.blog/posts/building-a-z-machine-in-elm/) (2026-04-12)
+- [How a dancer with ALS used brainwaves to perform live](https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/) (2026-04-12)
+- [The End of Eleventy](https://brennan.day/the-end-of-eleventy/) (2026-04-12)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Inference Reckoning: From Training Buildout to Monetization](https://dev.to/practiceoverflow/the-inference-reckoning-from-training-buildout-to-monetization-ggf) (2026-04-12)
-- [Agent Native Data Infrastructure](https://dev.to/practiceoverflow/agent-native-data-infrastructure-3ej1) (2026-04-12)
-- [One Open Source Project a Day (No. 36): awesome-design-md - Making Design Specs Truly Readable for AI](https://dev.to/wonderlab/one-open-source-project-a-day-no-36-awesome-design-md-making-design-specs-truly-readable-for-304d) (2026-04-12)
-- [Stop Thinking of HTTP as Request/Response. It's a Universal Data Layout — and It's Faster Than Binary Protocol.](https://dev.to/thuangf45/stop-thinking-of-http-as-requestresponse-its-a-universal-data-layout-and-its-faster-than-4c1p) (2026-04-12)
-- [Best Practices for WordPress SSO Across Separate Domains](https://dev.to/nexuwp/best-practices-for-wordpress-sso-across-separate-domains-4kbk) (2026-04-12)
+- [AMD ML Complete Stack](https://dev.to/aabhinavg/amd-ml-complete-stack-3hnm) (2026-04-12)
+- [Vertex AI Endpoints: Deploy Your Model to Production with Terraform 🚀](https://dev.to/suhas_mallesh/vertex-ai-endpoints-deploy-your-model-to-production-with-terraform-17f) (2026-04-12)
+- [Why the Cloud Is the Default](https://dev.to/vivian-voss/why-the-cloud-is-the-default-1k1b) (2026-04-12)
+- [Claude 3 Haiku Is Being Deprecated April 19. Here's How to Find and Fix Every Reference in Your Python Code.](https://dev.to/peytongreen_dev/claude-3-haiku-is-being-deprecated-april-19-heres-how-to-find-and-fix-every-reference-in-your-1c14) (2026-04-12)
+- [GKE's Noisy Neighbor Problem Can Be Invisible in Metrics Explorer](https://dev.to/katz/gkes-noisy-neighbor-problem-can-be-invisible-in-metrics-explorer-1bf4) (2026-04-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [When Your Quant System Fails, the Fix Is Usually Not What You Think](https://medium.com/@brstudio.outreach/when-your-quant-system-fails-the-fix-is-usually-not-what-you-think-754981dd99b2?source=rss------programming-5) (2026-04-12)
-- [Top Skills to Learn in 2026 for High Income (Future-Proof Your Career)](https://medium.com/@contact.webpulse007/top-skills-to-learn-in-2026-for-high-income-future-proof-your-career-640e19cd8db9?source=rss------programming-5) (2026-04-12)
-- [9 Python Tricks That Make Everyday Coding Smoother](https://python.plainenglish.io/9-python-tricks-that-make-everyday-coding-smoother-716f3c17739a?source=rss------programming-5) (2026-04-12)
-- [How I Doubled My Revenue by Fixing One Hidden Flaw in My Checkout](https://issackpaul95.medium.com/how-i-doubled-my-revenue-by-fixing-one-hidden-flaw-in-my-checkout-0c09340edeee?source=rss------programming-5) (2026-04-12)
-- [Claude Code /ultraplan Explained: Multi-Agent Planning, the Source Code Leak, and the Mythos…](https://medium.com/@creativeaininja/claude-code-ultraplan-explained-multi-agent-planning-the-source-code-leak-and-the-mythos-27373e897a63?source=rss------programming-5) (2026-04-12)
+- [.me URI Scheme (v1)](https://medium.com/@neurons.me/me-uri-scheme-v1-0ada773dd704?source=rss------programming-5) (2026-04-12)
+- [Zero Dependency Is the New Luxury in Developer Tools](https://medium.com/@samurai.stateless.coder/zero-dependency-is-the-new-luxury-in-developer-tools-55398d6a4cf3?source=rss------programming-5) (2026-04-12)
+- [From “Hello World” to “Hello Human”: My NLP Journey Begins](https://medium.com/@preetik92002/from-hello-world-to-hello-human-my-nlp-journey-begins-5b669c41a395?source=rss------programming-5) (2026-04-12)
+- [The Subdomain That Never Died](https://meetcyber.net/the-subdomain-that-never-died-57416de381a7?source=rss------programming-5) (2026-04-12)
+- [AWS Config vs AWS Audit Manager: A Beginner-Friendly Guide to Cloud Compliance](https://medium.com/dev-simplified/aws-config-vs-aws-audit-manager-a-beginner-friendly-guide-to-cloud-compliance-765a0524a985?source=rss------programming-5) (2026-04-12)
 
 </details>
 
