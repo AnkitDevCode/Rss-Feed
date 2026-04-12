@@ -31,33 +31,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [US appeals court declares 158-year-old home distilling ban unconstitutional](https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional) (2026-04-12)
-- [Why meaningful days look like nothing while you are living them](https://pilgrima.ge/p/the-grand-line) (2026-04-12)
-- [Building a Z-Machine in the worst possible language – Whitebeard's Realm](https://whitebeard.blog/posts/building-a-z-machine-in-elm/) (2026-04-12)
-- [How a dancer with ALS used brainwaves to perform live](https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/) (2026-04-12)
-- [The End of Eleventy](https://brennan.day/the-end-of-eleventy/) (2026-04-12)
+- [No one owes you supply-chain security](https://purplesyringa.moe/blog/no-one-owes-you-supply-chain-security/) (2026-04-12)
+- [Internet outage in Iran reaches 1,008 hours](https://mastodon.social/@netblocks/116384935123261912) (2026-04-12)
+- [What have been the greatest intellectual achievements? (2017)](https://www.thinkingcomplete.com/2017/09/what-have-been-greatest-intellectual.html) (2026-04-12)
+- [JVM Options Explorer](https://chriswhocodes.com/vm-options-explorer.html) (2026-04-12)
+- [AI Will Be Met with Violence, and Nothing Good Will Come of It](https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and) (2026-04-12)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The AI code wars are heating up](https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic) (2026-04-12)
+- [Allow me to explain why I love this camera that can’t shoot color](https://www.theverge.com/tech/910061/ricoh-gr-iv-monochrome-review) (2026-04-12)
 - [The Netherlands is the first European country to approve Tesla’s supervised Full Self-Driving](https://www.theverge.com/transportation/910717/netherlands-tesla-supervised-full-self-driving) (2026-04-11)
 - [Google says Polymarket bets showing up in News was an ‘error’](https://www.theverge.com/tech/910691/google-news-polymarket-bets-error) (2026-04-11)
 - [Pokémon Champions is off to a rough start](https://www.theverge.com/games/910110/pokemon-champions-bugs-balance-issues-vgc-newcomers) (2026-04-11)
-- [Your article about AI doesn’t need AI art](https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai) (2026-04-11)
-- [Google’s latest Nest Doorbells just hit their lowest prices of the year](https://www.theverge.com/gadgets/910472/google-nest-doorbell-wired-battery-powered-deal-sale) (2026-04-11)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Shock from Iran war has Trump's vision for US energy dominance flailing](https://arstechnica.com/science/2026/04/shock-from-iran-war-has-trumps-vision-for-us-energy-dominance-flailing/) (2026-04-12)
 - [AI models are terrible at betting on soccer—especially xAI Grok](https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/) (2026-04-11)
 - [The Artemis II mission has ended. Where does NASA go from here?](https://arstechnica.com/space/2026/04/the-artemis-ii-mission-has-ended-where-does-nasa-go-from-here/) (2026-04-11)
 - [Four astronauts are back home after a daring ride around the Moon](https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon/) (2026-04-11)
 - [Californians sue over AI tool that records doctor visits](https://arstechnica.com/tech-policy/2026/04/californians-sue-over-ai-tool-that-records-doctor-visits/) (2026-04-10)
-- [New paper argues history, not mantle plume, powers Yellowstone](https://arstechnica.com/science/2026/04/new-paper-argues-history-not-mantle-plume-powers-yellowstone/) (2026-04-10)
 
 </details>
 
@@ -97,22 +97,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [AMD ML Complete Stack](https://dev.to/aabhinavg/amd-ml-complete-stack-3hnm) (2026-04-12)
-- [Vertex AI Endpoints: Deploy Your Model to Production with Terraform 🚀](https://dev.to/suhas_mallesh/vertex-ai-endpoints-deploy-your-model-to-production-with-terraform-17f) (2026-04-12)
-- [Why the Cloud Is the Default](https://dev.to/vivian-voss/why-the-cloud-is-the-default-1k1b) (2026-04-12)
-- [Claude 3 Haiku Is Being Deprecated April 19. Here's How to Find and Fix Every Reference in Your Python Code.](https://dev.to/peytongreen_dev/claude-3-haiku-is-being-deprecated-april-19-heres-how-to-find-and-fix-every-reference-in-your-1c14) (2026-04-12)
-- [GKE's Noisy Neighbor Problem Can Be Invisible in Metrics Explorer](https://dev.to/katz/gkes-noisy-neighbor-problem-can-be-invisible-in-metrics-explorer-1bf4) (2026-04-12)
+- [I stopped trying to learn every DevOps tool. So I built my own.](https://dev.to/alvarito1983/i-stopped-trying-to-learn-every-devops-tool-so-i-built-my-own-30cp) (2026-04-12)
+- [Why My Support Bot Finally Stopped Acting Like a Goldfish](https://dev.to/tharunika_shri_23/why-my-support-bot-finally-stopped-acting-like-a-goldfish-3npm) (2026-04-12)
+- [WHAT IS JAVASCRIPT](https://dev.to/subash_4870e66d76ac024544/what-is-javascript-21b5) (2026-04-12)
+- [Stickman Walking animation](https://dev.to/preetha_vaishnavi_2b82358/stickman-walking-animation-ffc) (2026-04-12)
+- [SvelteKit Port: 32.50 kB Gzip, +72% Over Plain Svelte — Meta-Framework Tax, Round Two](https://dev.to/sendotltd/sveltekit-port-3250-kb-gzip-72-over-plain-svelte-meta-framework-tax-round-two-288c) (2026-04-12)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [.me URI Scheme (v1)](https://medium.com/@neurons.me/me-uri-scheme-v1-0ada773dd704?source=rss------programming-5) (2026-04-12)
-- [Zero Dependency Is the New Luxury in Developer Tools](https://medium.com/@samurai.stateless.coder/zero-dependency-is-the-new-luxury-in-developer-tools-55398d6a4cf3?source=rss------programming-5) (2026-04-12)
-- [From “Hello World” to “Hello Human”: My NLP Journey Begins](https://medium.com/@preetik92002/from-hello-world-to-hello-human-my-nlp-journey-begins-5b669c41a395?source=rss------programming-5) (2026-04-12)
-- [The Subdomain That Never Died](https://meetcyber.net/the-subdomain-that-never-died-57416de381a7?source=rss------programming-5) (2026-04-12)
-- [AWS Config vs AWS Audit Manager: A Beginner-Friendly Guide to Cloud Compliance](https://medium.com/dev-simplified/aws-config-vs-aws-audit-manager-a-beginner-friendly-guide-to-cloud-compliance-765a0524a985?source=rss------programming-5) (2026-04-12)
+- [Advanced JavaScript: Senior Mastery](https://kislayvats.medium.com/advanced-javascript-senior-mastery-8f11e1576786?source=rss------programming-5) (2026-04-12)
+- [C++ Abstract Machine.](https://medium.com/@katiya.guliyeva/c-abstract-machine-0f9328af54eb?source=rss------programming-5) (2026-04-12)
+- [LangChain](https://medium.com/@imamsab.im22/langchain-ffcb16610c92?source=rss------programming-5) (2026-04-12)
+- [RHAPSODY OF REALITIES - 12TH APRIL 2026
+"Don’t live like someone trying to be blessed.](https://medium.com/@folajeff/rhapsody-of-realities-12th-april-2026-dont-live-like-someone-trying-to-be-blessed-2ddf7844e15c?source=rss------programming-5) (2026-04-12)
+- [The AI That Doesn't Use a Computer — It Is the Computer](https://dinmaybrahma.medium.com/the-ai-that-doesnt-use-a-computer-it-is-the-computer-5c129ccf089c?source=rss------programming-5) (2026-04-12)
 
 </details>
 
@@ -492,11 +493,11 @@ https://www.twilio.com/en-us/blog/insights/what-is-customer-engagement-platform
 <details>
 <summary>💬 Slack API</summary>
 
-- [What Is an Agentic OS? A Practical Guide](https://slack.com/blog/productivity/what-is-an-agentic-os) (2026-04-03)
-- [Slackbot Just Became Your Ultimate Teammate in the New Interface for Work](https://slack.com/blog/news/agent-orchestration) (2026-03-31)
-- [Building an Agent-First Workspace in Slack](https://slack.com/blog/news/agent-first-workspace-slack) (2026-03-31)
-- [What Is Customer Management, and How Slack CRM Can Help](https://slack.com/blog/crm/customer-management) (2026-03-31)
-- [What Is Contact Management? How Slack CRM Supports It](https://slack.com/blog/crm/contact-management) (2026-03-31)
+- [What Is Team Collaboration? 10 Ways to Make It More Successful](https://slack.com/blog/collaboration/what-is-team-collaboration-10-ways-to-make-it-more-successful) (2026-04-10)
+- [Introducing Slack CRM: Conversational Customer Management for Small Businesses](https://slack.com/blog/news/slack-crm-small-business) (2026-04-09)
+- [29 Team-Building Activities for Work](https://slack.com/blog/collaboration/10-team-building-activities-strengthen-culture) (2026-04-09)
+- [What Is Scrum? Roles, Values, and How It Works](https://slack.com/blog/collaboration/scrum-meeting) (2026-04-09)
+- [What Is an AI Scheduling Assistant? Top Tools, Benefits & Key Features](https://slack.com/blog/productivity/simplify-your-days-with-ai-scheduling-assistant) (2026-04-08)
 
 </details>
 
@@ -545,17 +546,6 @@ https://www.twilio.com/en-us/blog/insights/what-is-customer-engagement-platform
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [IBM: How robust AI governance protects enterprise margins](https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/) (2026-04-10)
-- [Why companies like Apple are building AI agents with limits](https://www.artificialintelligence-news.com/news/why-companies-like-apple-are-building-ai-agents-with-limits/) (2026-04-10)
-- [Meta has a competitive AI model but loses its open-source identity](https://www.artificialintelligence-news.com/news/meta-muse-spark-ai-model-open-source/) (2026-04-10)
-- [Agentic AI’s governance challenges under the EU AI Act in 2026](https://www.artificialintelligence-news.com/news/agentic-ais-governance-challenges-under-the-eu-ai-act-in-2026/) (2026-04-09)
-- [Anthropic keeps new AI model private after it finds thousands of external vulnerabilities](https://www.artificialintelligence-news.com/news/anthropic-keeps-new-ai-model-private-after-it-finds-thousands-of-external-vulnerabilities/) (2026-04-09)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
 - [Advanced RAG Retrieval: Cross-Encoders & Reranking](https://towardsdatascience.com/advanced-rag-retrieval-cross-encoders-reranking/) (2026-04-11)
@@ -569,11 +559,11 @@ https://www.twilio.com/en-us/blog/insights/what-is-customer-engagement-platform
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [GLM-5.1: Architecture, Benchmarks, Capabilities & How to Use It](https://www.analyticsvidhya.com/blog/2026/04/glm-5-1/) (2026-04-12)
 - [Understanding BERTopic: From Raw Text to Interpretable Topics ](https://www.analyticsvidhya.com/blog/2026/04/bertopic-guide/) (2026-04-11)
 - [From Karpathy’s LLM Wiki to Graphify: AI Memory Layers are Here ](https://www.analyticsvidhya.com/blog/2026/04/graphify-guide/) (2026-04-10)
 - [10 Most Important AI Concepts Explained Simply](https://www.analyticsvidhya.com/blog/2026/04/basic-ai-concepts/) (2026-04-10)
 - [Project Glasswing is World’s Most Powerful AI in Action](https://www.analyticsvidhya.com/blog/2026/04/project-glasswing-claude-mythos-most-powerful-ai/) (2026-04-09)
-- [How to Run Gemma 4 on Your Phone Without Internet: A Hands-On Guide ](https://www.analyticsvidhya.com/blog/2026/04/run-gemma-4-on-your-phone/) (2026-04-08)
 
 </details>
 
