@@ -20,66 +20,66 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Roblox introduces ‘Kids’ and ‘Select’ accounts for age-appropriate access to games and chat](https://techcrunch.com/2026/04/13/roblox-introduces-kids-and-select-accounts-for-age-appropriate-access-to-games-and-chat/) (2026-04-13)
-- [The largest orbital compute cluster is open for business](https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/) (2026-04-13)
-- [Trump officials may be encouraging banks to test Anthropic’s Mythos model](https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/) (2026-04-12)
-- [Apple reportedly testing four designs for upcoming smart glasses](https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/) (2026-04-12)
-- [X says it’s reducing payments to clickbait accounts](https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/) (2026-04-12)
+- [Microsoft is working on yet another OpenClaw-like agent](https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/) (2026-04-13)
+- [Stanford report highlights growing disconnect between AI insiders and everyone else](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/) (2026-04-13)
+- [FBI announces takedown of phishing operation that targeted thousands of victims](https://techcrunch.com/2026/04/13/fbi-announces-takedown-of-phishing-operation-that-targeted-thousands-of-victims/) (2026-04-13)
+- [Booking.com confirms hackers accessed customers’ data](https://techcrunch.com/2026/04/13/booking-com-confirms-hackers-accessed-customers-data/) (2026-04-13)
+- [Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge](https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/) (2026-04-13)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [AI could be the end of the digital wave, not the next big thing](https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/) (2026-04-13)
-- [I went to America's worst national parks so you don't have to](https://substack.com/home/post/p-193626949) (2026-04-13)
-- [Michigan 'digital age' bills pulled after privacy concerns raised](https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html) (2026-04-13)
-- [Android now stops you sharing your location in photos](https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/) (2026-04-13)
-- [Point Cloud Allemansrätten](https://digitalflapjack.com/weeknotes/point-cloud-allemansr%C3%A4tten/) (2026-04-13)
+- [Austerity Creates Fascism](https://pluralistic.net/2026/04/12/always-great/) (2026-04-13)
+- [Evaluation of Claude Mythos Preview's cyber capabilities](https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities) (2026-04-13)
+- [Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/) (2026-04-13)
+- [The Rational Conclusion of Doomerism Is Violence](https://www.campbellramble.ai/p/the-rational-conclusion) (2026-04-13)
+- [The Future of Everything Is Lies, I Guess: Safety](https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety) (2026-04-13)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The Strait of Hormuz blockade is causing a slow-moving food crisis](https://www.theverge.com/science/910326/iran-strait-hormuz-fertilizer-feedstock-food-crisis) (2026-04-13)
-- [Roblox will need age verification to make sure you’re at least 9 years old](https://www.theverge.com/games/910218/roblox-age-verification-check-games-kids-select-accounts) (2026-04-13)
-- [Roblox has games again](https://www.theverge.com/games/910699/roblox-games-experiences-switch-friends-connections) (2026-04-13)
-- [Did Neuralink make the wrong bet?](https://www.theverge.com/tech/910834/neuralink-bcis-bet) (2026-04-13)
-- [Microsoft&#8217;s new Xbox Gamepad Cursor adds a virtual mouse to handhelds](https://www.theverge.com/news/910901/microsoft-xbox-gamepad-cursor-windows-handhelds) (2026-04-13)
+- [The Apple Watch Series 11 has returned to best-ever price](https://www.theverge.com/gadgets/911191/apple-watch-series-11-smartwatch-amazon-april-deal-sale) (2026-04-13)
+- [Xbox Game Pass &#8216;has become too expensive,’ says Microsoft’s new gaming chief in leaked memo](https://www.theverge.com/tech/911182/microsoft-xbox-game-pass-too-expensive-leaked-memo) (2026-04-13)
+- [You can make a multicolor MacBook Neo out of Apple&#8217;s spare parts](https://www.theverge.com/tech/911172/macbook-neo-apple-spare-parts-multicolor) (2026-04-13)
+- [Read OpenAI&#8217;s latest internal memo about beating the competition — including Anthropic](https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic) (2026-04-13)
+- [Slate raises $650 million to make its budget electric truck](https://www.theverge.com/transportation/911085/slate-truck-ev-fundraise-twg-global-bezos) (2026-04-13)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Slate Auto raises $650 million as production gets closer and closer](https://arstechnica.com/cars/2026/04/slate-auto-raises-650-million-as-production-gets-closer-and-closer/) (2026-04-13)
+- [Meta spins up AI version of Mark Zuckerberg to engage with employees](https://arstechnica.com/ai/2026/04/meta-spins-up-ai-version-of-mark-zuckerberg-to-engage-with-employees/) (2026-04-13)
 - [To teach in the time of ChatGPT is to know pain](https://arstechnica.com/science/2026/04/to-teach-in-the-time-of-chatgpt-is-to-know-pain/) (2026-04-13)
 - [Shock from Iran war has Trump's vision for US energy dominance flailing](https://arstechnica.com/science/2026/04/shock-from-iran-war-has-trumps-vision-for-us-energy-dominance-flailing/) (2026-04-12)
 - [AI models are terrible at betting on soccer—especially xAI Grok](https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/) (2026-04-11)
-- [The Artemis II mission has ended. Where does NASA go from here?](https://arstechnica.com/space/2026/04/the-artemis-ii-mission-has-ended-where-does-nasa-go-from-here/) (2026-04-11)
-- [Four astronauts are back home after a daring ride around the Moon](https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon/) (2026-04-11)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Why opinion on AI is so divided](https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/) (2026-04-13)
 - [Want to understand the current state of AI? Check out these charts.](https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/) (2026-04-13)
 - [The Download: how humans make decisions, and Moderna’s “vaccine” word games](https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games/) (2026-04-13)
 - [Job titles of the future: Wildlife first responder](https://www.technologyreview.com/2026/04/13/1135156/job-titles-wildlife-first-responder-wesley-sarmento/) (2026-04-13)
 - [You have no choice in reading this article—maybe](https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/) (2026-04-13)
-- [What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma](https://www.technologyreview.com/2026/04/10/1135631/whats-in-a-name-modernas-vaccine-vs-therapy-dilemma/) (2026-04-10)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [GitHub for Beginners: Getting started with GitHub Pages](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-pages/) (2026-04-13)
 - [GitHub Copilot CLI for Beginners: Getting started with GitHub Copilot CLI](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-getting-started-with-github-copilot-cli/) (2026-04-10)
 - [GitHub availability report: March 2026](https://github.blog/news-insights/company-news/github-availability-report-march-2026/) (2026-04-09)
 - [GitHub Universe is back: We want you to take the stage](https://github.blog/news-insights/company-news/github-universe-is-back-we-want-you-to-take-the-stage/) (2026-04-08)
 - [GitHub Copilot CLI combines model families for a second opinion](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/) (2026-04-06)
-- [The uphill climb of making diff lines performant](https://github.blog/engineering/architecture-optimization/the-uphill-climb-of-making-diff-lines-performant/) (2026-04-03)
 
 </details>
 
@@ -97,33 +97,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I Built a Free Local AI Art Pipeline on My Mac — Here's What Broke](https://dev.to/yha9806/i-built-a-free-local-ai-art-pipeline-on-my-mac-heres-what-broke-3cip) (2026-04-13)
-- [How Apache Iceberg's Metadata Architecture Enables ACID at Scale](https://dev.to/iprithv/how-apache-icebergs-metadata-architecture-enables-acid-at-scale-54kh) (2026-04-13)
-- [GCP Cost Spikes Are Not Random - Here’s How to Actually Detect & Fix Them](https://dev.to/sourabhkapoor/gcp-cost-spikes-are-not-random-heres-how-to-actually-detect-fix-them-47c1) (2026-04-13)
-- [.NET Reflection Benchmarks: Enum Attribute Performance (Part 1)](https://dev.to/gramli/net-reflection-benchmarks-enum-attribute-performance-part-1-1c44) (2026-04-13)
-- [Our Entire Company Ships Code Now. 40 PRs from Non-Engineers in 60 Days.](https://dev.to/epilot/our-entire-company-ships-code-now-40-prs-from-non-engineers-in-60-days-jo5) (2026-04-13)
+- [Un lenguaje 'perfeccionable': por qué la idea me parece hermosa y por qué va a fracasar igual](https://dev.to/jtorchia/un-lenguaje-perfeccionable-por-que-la-idea-me-parece-hermosa-y-por-que-va-a-fracasar-igual-5f78) (2026-04-13)
+- [Securing the Air-Gap: Building a Hardware-Aware Forensic Suite for ICS/OT by Rugero Tesla (404saint)](https://dev.to/null_saint/securing-the-air-gap-building-a-hardware-aware-forensic-suite-for-icsot-by-rugero-tesla-404saint-127o) (2026-04-13)
+- [Keeping your zsh config out of Copilot's terminals](https://dev.to/sourcier/keeping-your-zsh-config-out-of-copilots-terminals-4h7a) (2026-04-13)
+- [Choosing the tech stack](https://dev.to/sourcier/choosing-the-tech-stack-2fb5) (2026-04-13)
+- [Why Traditional RAG Scores 0% on Multi-Hop Queries — and What Two Lines of Code Changed](https://dev.to/emilcelestix/why-traditional-rag-scores-0-on-multi-hop-queries-and-what-two-lines-of-code-changed-2eb7) (2026-04-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Biggest Mistake Python Developers Make After Learning Basics](https://python.plainenglish.io/the-biggest-mistake-python-developers-make-after-learning-basics-4ea981f9e0a6?source=rss------programming-5) (2026-04-13)
-- [Vibe Coding Is Rotting Your Skills. Fix It.](https://pub.towardsai.net/vibe-coding-is-rotting-your-skills-fix-it-4b0a736a75f8?source=rss------programming-5) (2026-04-13)
-- [The Real Fight Isn’t Developers vs. AI](https://medium.com/@er_83647/the-real-fight-isnt-developers-vs-ai-a65ddfe5508d?source=rss------programming-5) (2026-04-13)
-- [I Added An Upgraded 28-Inch 4K+ Programming Monitor To My Setup](https://levelup.gitconnected.com/i-added-an-upgraded-28-inch-4k-programming-monitor-to-my-setup-6b410ff7858f?source=rss------programming-5) (2026-04-13)
-- [The Productivity Hallucination](https://medium.com/@arthurpro/the-productivity-hallucination-13a3d259673d?source=rss------programming-5) (2026-04-13)
+- [Is Redis Only for Caching? 16 Ingenious Uses That Will Leave Your Colleagues Amazed](https://medium.com/@umeshcapg/is-redis-only-for-caching-16-ingenious-uses-that-will-leave-your-colleagues-amazed-7866e0b452cc?source=rss------programming-5) (2026-04-13)
+- [T-via: A Go based C2 that uses Github and notion as communication channel](https://medium.com/@lalithraghavanraghavan/t-via-a-go-based-c2-that-uses-github-and-notion-as-communication-channel-f5a04c1fbdd7?source=rss------programming-5) (2026-04-13)
+- [Turns out that `__pycache__` folder Python keeps making? That’s your compiled code.](https://medium.com/@sriraksha3337/turns-out-that-pycache-folder-python-keeps-making-thats-your-compiled-code-ddd6050a74c9?source=rss------programming-5) (2026-04-13)
+- [Spring Boot 4’s Most Underrated New Feature: Spring Data AOT Repositories](https://medium.com/@umeshcapg/spring-boot-4s-most-underrated-new-feature-spring-data-aot-repositories-f51731d940c3?source=rss------programming-5) (2026-04-13)
+- [What is SEO? Types, Learning Guide, Resources, and Benefits](https://medium.com/@mindwarezone/what-is-seo-types-learning-guide-resources-and-benefits-5644c6315082?source=rss------programming-5) (2026-04-13)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [AWS Weekly Roundup: Claude Mythos Preview in Amazon Bedrock, AWS Agent Registry, and more (April 13, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-mythos-preview-in-amazon-bedrock-aws-agent-registry-and-more-april-13-2026/) (2026-04-13)
 - [Launching S3 Files, making S3 buckets accessible as file systems](https://aws.amazon.com/blogs/aws/launching-s3-files-making-s3-buckets-accessible-as-file-systems/) (2026-04-07)
 - [AWS Weekly Roundup: AWS DevOps Agent & Security Agent GA, Product Lifecycle updates, and more (April 6, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-devops-agent-security-agent-ga-product-lifecycle-updates-and-more-april-6-2026/) (2026-04-06)
 - [Amazon Bedrock Guardrails supports cross-account safeguards with centralized control and management](https://aws.amazon.com/blogs/aws/amazon-bedrock-guardrails-supports-cross-account-safeguards-with-centralized-control-and-management/) (2026-04-03)
 - [Announcing managed daemon support for Amazon ECS Managed Instances](https://aws.amazon.com/blogs/aws/announcing-managed-daemon-support-for-amazon-ecs-managed-instances/) (2026-04-01)
-- [Announcing the AWS Sustainability console: Programmatic access, configurable CSV reports, and Scope 1–3 reporting in one place](https://aws.amazon.com/blogs/aws/announcing-the-aws-sustainability-console-programmatic-access-configurable-csv-reports-and-scope-1-3-reporting-in-one-place/) (2026-03-31)
 
 </details>
 
@@ -150,24 +150,13 @@
 </details>
 
 <details>
-<summary>🍎 Apple Developer News</summary>
-
-- [Hello Developer: April 2026](https://developer.apple.com/news/?id=e1ssia6m) (2026-04-07)
-- [How Infold Games fashioned an open world for Infinity Nikki](https://developer.apple.com/news/?id=9mgkwjnm) (2026-04-03)
-- [Q&amp;A: How Plane Finder set itself up for the long haul](https://developer.apple.com/news/?id=cmd9p4g7) (2026-04-03)
-- [App Store expands support to 11 new languages](https://developer.apple.com/news/?id=97t4mt64) (2026-03-31)
-- [Updated Apple Developer Program License Agreement now available](https://developer.apple.com/news/?id=fwswmjcn) (2026-03-31)
-
-</details>
-
-<details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Test Multi-Device Interactions with the Android Emulator](https://android-developers.googleblog.com/2026/04/Test-Multi-Device-Interactions-with-the-Android-Emulator.html) (2026-04-13)
 - [Android Studio supports Gemma 4: our most capable local model for agentic coding](https://android-developers.googleblog.com/2026/04/android-studio-supports-gemma-4-local.html) (2026-04-02)
 - [Announcing Gemma 4 in the AICore Developer Preview](https://android-developers.googleblog.com/2026/04/AI-Core-Developer-Preview.html) (2026-04-02)
 - [Gemma 4: The new standard for local agentic intelligence on Android](https://android-developers.googleblog.com/2026/04/gemma-4-new-standard-for-local-agentic-intelligence.html) (2026-04-02)
 - [Increase Guidance and Control over Agent Mode with Android Studio Panda 3 ](https://android-developers.googleblog.com/2026/04/Increase-Guidance-and-Control-over-Agent-Mode-with-Android-Studio-Panda-3.html) (2026-04-02)
-- [Get your Wear OS apps ready for the 64-bit requirement](https://android-developers.googleblog.com/2026/04/get-your-wear-os-apps-ready-for-64-bit-requirement.html) (2026-04-01)
 
 </details>
 
@@ -185,11 +174,11 @@
 <details>
 <summary>🅰️ Angular Blog</summary>
 
+- [Mastering Dynamic Components, HTTP Resources, and AI Writing Assistants ️](https://blog.angular.dev/mastering-dynamic-components-http-resources-and-ai-writing-assistants-%EF%B8%8F-eb1a773270e4?source=rss----447683c3d9a3---4) (2026-04-13)
 - [Local AI, Reactive Routing, and the Vitest Migration! ⚡](https://blog.angular.dev/local-ai-reactive-routing-and-the-vitest-migration-bdddad0cfa96?source=rss----447683c3d9a3---4) (2026-03-27)
 - [Modernize Your Workflow: AI Tooling, Deferrable Views, and the Era of Forms! ️](https://blog.angular.dev/modernize-your-workflow-ai-tooling-deferrable-views-and-the-era-of-forms-%EF%B8%8F-7aa1c1cf9550?source=rss----447683c3d9a3---4) (2026-03-13)
 - [Security Advisory: Addressing Recent Vulnerabilities in Angular](https://blog.angular.dev/security-advisory-addressing-recent-vulnerabilities-in-angular-c2656249b799?source=rss----447683c3d9a3---4) (2026-02-27)
 - [Angular 21: Internal Mechanics, ARIA, and AI-Powered Coding! ](https://blog.angular.dev/angular-21-internal-mechanics-aria-and-ai-powered-coding-eefc4b05ddb6?source=rss----447683c3d9a3---4) (2026-02-17)
-- [Global Expertise: AI Blueprints, Resource API Fixes, and Angular v20 ](https://blog.angular.dev/global-expertise-ai-blueprints-resource-api-fixes-and-angular-v20-5fb47e059670?source=rss----447683c3d9a3---4) (2026-02-09)
 
 </details>
 
@@ -207,11 +196,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [How to Analyze Hugging Face for Arm64 Readiness](https://www.docker.com/blog/how-to-analyze-hugging-face-for-arm64-readiness/) (2026-04-13)
 - [Reclaim Developer Hours through Smarter Vulnerability Prioritization with Docker and Mend.io](https://www.docker.com/blog/reclaim-developer-hours-through-smarter-vulnerability-prioritization-with-docker-and-mend-io/) (2026-04-08)
 - [Defending Your Software Supply Chain: What Every Engineering Team Should Do Now](https://www.docker.com/blog/defending-your-software-supply-chain-what-every-engineering-team-should-do-now/) (2026-04-02)
 - [Gemma 4 is Here: Now Available on Docker Hub](https://www.docker.com/blog/gemma4-dockerhub/) (2026-04-02)
 - [Docker Offload now Generally Available: The Full Power of Docker, for Every Developer, Everywhere.](https://www.docker.com/blog/docker-offload-now-generally-available-the-full-power-of-docker-for-every-developer-everywhere/) (2026-04-02)
-- [Run and Iterate on LLMs Faster with Docker Model Runner on DGX Station](https://www.docker.com/blog/blog-docker-model-runner-new-nvidia-dgx-station/) (2026-03-31)
 
 </details>
 
@@ -284,11 +273,11 @@
 <details>
 <summary>💬 Slack Engineering</summary>
 
+- [Managing context in long-run agentic applications](https://slack.engineering/managing-context-in-long-run-agentic-applications/) (2026-04-13)
 - [From Custom to Open: Scalable Network Probing and HTTP/3 Readiness with Prometheus](https://slack.engineering/from-custom-to-open-scalable-network-probing-and-http-3-readiness-with-prometheus/) (2026-03-31)
 - [How Slack Rebuilt Notifications 📣](https://slack.engineering/how-slack-rebuilt-notifications/) (2026-03-19)
 - [Streamlining Security Investigations with Agents](https://slack.engineering/streamlining-security-investigations-with-agents/) (2025-12-01)
 - [Android VPAT journey](https://slack.engineering/android-vpat-journey/) (2025-11-19)
-- [Build better software to build software better](https://slack.engineering/build-better-software-to-build-software-better/) (2025-11-06)
 
 </details>
 
@@ -328,11 +317,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [GitLab named a 2026 Omdia Universe Leader](https://about.gitlab.com/blog/gitlab-named-a-2026-omdia-universe-leader/) (2026-04-13)
 - [5 ways GitLab pipeline logic solves real engineering problems](https://about.gitlab.com/blog/5-ways-gitlab-pipeline-logic-solves-real-engineering-problems/) (2026-04-09)
 - [Streamline test management with the SmartBear QMetry GitLab component](https://about.gitlab.com/blog/streamline-test-management-with-the-smartbear-qmetry-gitlab-component/) (2026-04-07)
 - [Pipeline security lessons from March supply chain incidents](https://about.gitlab.com/blog/pipeline-security-lessons-from-march-supply-chain-incidents/) (2026-04-07)
 - [GitLab Duo CLI: Agentic AI for the development lifecycle, now in the terminal](https://about.gitlab.com/blog/gitlab-duo-cli/) (2026-04-07)
-- [Changes to packages.gitlab.com: What you need to know](https://about.gitlab.com/blog/changes-to-packages-gitlab-com-what-you-need-to-know/) (2026-03-31)
 
 </details>
 
@@ -350,11 +339,11 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Building a CLI for all of Cloudflare](https://blog.cloudflare.com/cf-cli-local-explorer/) (2026-04-13)
+- [Durable Objects in Dynamic Workers: Give each AI-generated app its own database](https://blog.cloudflare.com/durable-object-facets-dynamic-workers/) (2026-04-13)
+- [Agents have their own computers with Sandboxes GA](https://blog.cloudflare.com/sandbox-ga/) (2026-04-13)
+- [Dynamic, identity-aware, and secure Sandbox auth](https://blog.cloudflare.com/sandbox-auth/) (2026-04-13)
 - [Welcome to Agents Week](https://blog.cloudflare.com/welcome-to-agents-week/) (2026-04-12)
-- [500 Tbps of capacity: 16 years of scaling our global network](https://blog.cloudflare.com/500-tbps-of-capacity/) (2026-04-10)
-- [From bytecode to bytes: automated magic packet generation](https://blog.cloudflare.com/from-bpf-to-packet/) (2026-04-08)
-- [Cloudflare targets 2029 for full post-quantum security](https://blog.cloudflare.com/post-quantum-roadmap/) (2026-04-07)
-- [How we built Organizations to help enterprises manage Cloudflare at scale](https://blog.cloudflare.com/organizations-beta/) (2026-04-06)
 
 </details>
 
@@ -426,11 +415,11 @@ https://www.twilio.com/en-us/blog/insights/what-is-customer-engagement-platform
 <details>
 <summary>🔷 Prisma Blog</summary>
 
+- [MongoDB Without Compromise](https://www.prisma.io/blog/mongodb-without-compromise) (2026-04-13)
 - [Announcing Query Insights For Prisma Postgres](https://www.prisma.io/blog/announcing-query-insights-for-prisma-postgres) (2026-04-09)
 - [Agentic Engineering: How Prisma Builds with AI](https://www.prisma.io/blog/how-prisma-build-with-agentic-ai) (2026-03-30)
 - [Rethinking Database Migrations](https://www.prisma.io/blog/rethinking-database-migrations) (2026-03-27)
 - [Sunsetting Prisma Optimize](https://www.prisma.io/blog/sunsetting-prisma-optimize) (2026-03-23)
-- [Prisma Next Roadmap](https://www.prisma.io/blog/prisma-next-roadmap) (2026-03-20)
 
 </details>
 
@@ -448,22 +437,22 @@ https://www.twilio.com/en-us/blog/insights/what-is-customer-engagement-platform
 <details>
 <summary>🔗 GraphQL Blog</summary>
 
+- [2026 Call For Projects](https://graphql.org/blog/2026-03-12-call-for-projects) (2026-04-13)
 - [GraphQL Foundation Budget Report, 2025-2026](https://graphql.org/blog/2026-04-09-graphql-foundation-budget-2026) (2026-04-09)
 - [Announcing GraphQL Days 2026](https://graphql.org/blog/2026-04-02-graphql-day-2026) (2026-04-02)
 - [A new era for GraphQL observability](https://graphql.org/blog/2026-04-01-a-new-era-for-graphql-observability) (2026-04-01)
 - [GraphQLConf is now 19-20 May 2026](https://graphql.org/blog/2026-03-17-graphqlconf-date-change) (2026-03-17)
-- [Announcing GraphQLConf 2026](https://graphql.org/blog/2026-01-29-graphqlconf-2026-announcement) (2026-01-29)
 
 </details>
 
 <details>
 <summary>🚀 Apollo GraphQL</summary>
 
+- [View Operational Insights Within the GraphOS Platform API](https://www.apollographql.com/blog/view-operational-insights-within-the-graphos-platform-api) (2026-04-13)
 - [Your AI Agent Doesn’t Need to Research. It Needs to Know.](https://www.apollographql.com/blog/your-ai-agent-doesnt-need-to-research-it-needs-to-know) (2026-04-07)
 - [How to Orchestrate Multiple APIs for Your LLM Agent](https://www.apollographql.com/blog/how-to-orchestrate-multiple-apis-for-your-llm-agent) (2026-03-26)
 - [How To Make Your Existing GraphQL API AI-Ready With Apollo](https://www.apollographql.com/blog/how-to-make-your-existing-graphql-api-ai-ready-with-apollo) (2026-03-19)
 - [How We Taught an AI to Nitpick Docs](https://www.apollographql.com/blog/how-we-taught-an-ai-to-nitpick-docs) (2026-03-16)
-- [How to Build AI Agents Using Your GraphQL Schema](https://www.apollographql.com/blog/how-to-build-ai-agents-using-your-graphql-schema) (2026-03-12)
 
 </details>
 
@@ -496,7 +485,7 @@ https://www.twilio.com/en-us/blog/insights/what-is-customer-engagement-platform
 - [Introducing Slack CRM: Conversational Customer Management for Small Businesses](https://slack.com/blog/news/slack-crm-small-business) (2026-04-09)
 - [29 Team-Building Activities for Work](https://slack.com/blog/collaboration/10-team-building-activities-strengthen-culture) (2026-04-09)
 - [What Is Scrum? Roles, Values, and How It Works](https://slack.com/blog/collaboration/scrum-meeting) (2026-04-09)
-- [What Is an AI Scheduling Assistant? Top Tools, Benefits & Key Features](https://slack.com/blog/productivity/simplify-your-days-with-ai-scheduling-assistant) (2026-04-08)
+- [What Is an AI Scheduling Assistant? Top Tools, Benefits, and Key Features](https://slack.com/blog/productivity/simplify-your-days-with-ai-scheduling-assistant) (2026-04-08)
 
 </details>
 
@@ -558,44 +547,44 @@ https://www.twilio.com/en-us/blog/insights/what-is-customer-engagement-platform
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Apply Claude Code to Non-technical Tasks](https://towardsdatascience.com/how-to-apply-claude-code-to-non-technical-tasks/) (2026-04-13)
+- [Your Model Isn’t Done: Understanding and Fixing Model Drift](https://towardsdatascience.com/your-model-isnt-done-understanding-and-fixing-model-drift/) (2026-04-13)
+- [Range Over Depth: A Reflection on the Role of the Data Generalist](https://towardsdatascience.com/range-over-depth-a-reflection-on-the-role-of-the-data-generalist/) (2026-04-13)
 - [I Built a Tiny Computer Inside a Transformer](https://towardsdatascience.com/i-built-a-tiny-computer-inside-a-transformer/) (2026-04-13)
 - [Stop Treating AI Memory Like a Search Problem](https://towardsdatascience.com/stop-treating-ai-memory-like-a-search-problem/) (2026-04-12)
-- [Write Pandas Like a Pro With Method Chaining Pipelines](https://towardsdatascience.com/this-one-pandas-pattern-separates-beginners-from-intermediate-users/) (2026-04-12)
-- [Your ReAct Agent Is Wasting 90% of Its Retries — Here’s How to Stop It](https://towardsdatascience.com/your-react-agent-is-wasting-90-of-its-retries-heres-how-to-stop-it/) (2026-04-12)
-- [Advanced RAG Retrieval: Cross-Encoders & Reranking](https://towardsdatascience.com/advanced-rag-retrieval-cross-encoders-reranking/) (2026-04-11)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Top 10 Gemma 4 Projects That Will Blow Your Mind](https://www.analyticsvidhya.com/blog/2026/04/top-gemma-4-projects-will-blow-your-mind/) (2026-04-13)
 - [GLM-5.1: Architecture, Benchmarks, Capabilities & How to Use It](https://www.analyticsvidhya.com/blog/2026/04/glm-5-1/) (2026-04-12)
 - [Understanding BERTopic: From Raw Text to Interpretable Topics ](https://www.analyticsvidhya.com/blog/2026/04/bertopic-guide/) (2026-04-11)
 - [From Karpathy’s LLM Wiki to Graphify: AI Memory Layers are Here ](https://www.analyticsvidhya.com/blog/2026/04/graphify-guide/) (2026-04-10)
 - [10 Most Important AI Concepts Explained Simply](https://www.analyticsvidhya.com/blog/2026/04/basic-ai-concepts/) (2026-04-10)
-- [Project Glasswing is World’s Most Powerful AI in Action](https://www.analyticsvidhya.com/blog/2026/04/project-glasswing-claude-mythos-most-powerful-ai/) (2026-04-09)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Breaking Down the .claude Folder](https://www.kdnuggets.com/breaking-down-the-claude-folder) (2026-04-13)
+- [Are AI Agents Your Next Security Nightmare?](https://www.kdnuggets.com/are-ai-agents-your-next-security-nightmare) (2026-04-13)
 - [5 Best Books for Building Agentic AI Systems in 2026](https://www.kdnuggets.com/5-best-books-for-building-agentic-ai-systems-in-2026) (2026-04-13)
 - [Advanced NotebookLM Tips & Tricks for Power Users](https://www.kdnuggets.com/advanced-notebooklm-tips-tricks-for-power-users) (2026-04-10)
 - [5 Useful Things to Do with Google’s Antigravity Besides Coding](https://www.kdnuggets.com/5-useful-things-to-do-with-googles-antigravity-besides-coding) (2026-04-10)
-- [All About Pyjanitor’s Method Chaining Functionality, And Why Its Useful](https://www.kdnuggets.com/all-about-pyjanitors-method-chaining-functionality-and-why-its-useful) (2026-04-09)
-- [Kaggle + Google’s Free 5-Day Gen AI Course](https://www.kdnuggets.com/kaggle-googles-free-5-day-gen-ai-course) (2026-04-09)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Structured Outputs vs. Function Calling: Which Should Your Agent Use?](https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/) (2026-04-13)
 - [Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System](https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/) (2026-04-10)
 - [The Roadmap to Mastering Agentic AI Design Patterns](https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/) (2026-04-09)
 - [A Hands-On Guide to Testing Agents with RAGAs and G-Eval](https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/) (2026-04-08)
 - [Handling Race Conditions in Multi-Agent Orchestration](https://machinelearningmastery.com/handling-race-conditions-in-multi-agent-orchestration/) (2026-04-07)
-- [Top 5 Reranking Models to Improve RAG Results](https://machinelearningmastery.com/top-5-reranking-models-to-improve-rag-results/) (2026-04-06)
 
 </details>
 
