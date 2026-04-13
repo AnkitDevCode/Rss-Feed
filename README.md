@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Trump officials may be encouraging banks to test Anthropic’s Mythos model](https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/) (2026-04-12)
+- [Apple reportedly testing four designs for upcoming smart glasses](https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/) (2026-04-12)
 - [X says it’s reducing payments to clickbait accounts](https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/) (2026-04-12)
 - [TechCrunch Mobility: Who is poaching all the self-driving vehicle talent?](https://techcrunch.com/2026/04/12/techcrunch-mobility-who-is-poaching-all-the-self-driving-vehicle-talent/) (2026-04-12)
 - [From LLMs to hallucinations, here’s a simple guide to common AI terms](https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/) (2026-04-12)
-- [At the HumanX conference, everyone was talking about Claude](https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/) (2026-04-12)
-- [Slate Auto: Everything you need to know about the Bezos-backed EV startup](https://techcrunch.com/2026/04/12/slate-auto-everything-you-need-to-know-about-the-bezos-backed-ev-startup/) (2026-04-12)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Apple has removed most of the towns and villages in Lebanon from Apple maps](https://maps.apple.com/frame?center=33.723388%2C35.614698&span=1.983925%2C4.004193) (2026-04-12)
-- [Are sugar substitutes healthier than the real thing?](https://www.economist.com/science-and-technology/2026/04/10/are-sugar-substitutes-healthier-than-the-real-thing) (2026-04-12)
-- [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/) (2026-04-12)
-- [Reading Is Magic](https://samkriss.substack.com/p/reading-is-magic) (2026-04-12)
-- [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers) (2026-04-12)
+- [Taking on CUDA with ROCm: 'One Step After Another'](https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/) (2026-04-12)
+- [Tech valuations are back to pre-AI boom levels](https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels) (2026-04-12)
+- [A Perfectable Programming Language](https://alok.github.io/lean-pages/perfectable-lean/) (2026-04-12)
+- [Uncharted island soon to appear on nautical charts](https://www.awi.de/en/about-us/service/press/single-view/unkartierte-insel-demnaechst-auf-seekarten-verzeichnet.html) (2026-04-12)
+- [Google removes "Doki Doki Literature Club" from Google Play](https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t) (2026-04-12)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Room for the Moon is thrillingly weird experimental pop](https://www.theverge.com/entertainment/910826/room-for-the-moon-is-thrillingly-weird-experimental-pop) (2026-04-12)
 - [Rockstar Games says hack will have ‘no impact’](https://www.theverge.com/games/910815/rockstar-games-says-hack-will-have-no-impact) (2026-04-12)
 - [You can save $20 on the Super Mario Galaxy game bundle when you buy a Nintendo Switch 2](https://www.theverge.com/gadgets/909928/nintendo-switch-2-super-mario-galaxy-bundle-deal-sale) (2026-04-12)
 - [You can grab a refurbished 2021 Kindle Paperwhite starting at just $49.99](https://www.theverge.com/gadgets/910482/2021-amazon-kindle-paperwhite-signature-edition-refurbished-woot-deal-sale) (2026-04-12)
 - [The Hisense UR9 is a great first shot against OLED’s bow](https://www.theverge.com/tech/910537/hisense-ur9-rgb-led-tv-review) (2026-04-12)
-- [How AT&#038;T created the most iconic phone ever](https://www.theverge.com/podcast/910725/western-electric-500-att-version-history) (2026-04-12)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [LLM Gateway vs LLM Proxy vs LLM Router: What's the Difference?](https://dev.to/gauravdagde/llm-gateway-vs-llm-proxy-vs-llm-router-whats-the-difference-3o5a) (2026-04-12)
-- [Building a Voice-Controlled AI Agent with FastAPI, Groq Whisper & LLaMA](https://dev.to/sneha_dhir_649d9b22406fa6/building-a-voice-controlled-ai-agent-with-fastapi-groq-whisper-llama-5bgk) (2026-04-12)
-- [PostgreSQL Write Performance: What the Benchmarks Won't Tell You](https://dev.to/haikasatryan/postgresql-write-performance-what-the-benchmarks-wont-tell-you-mm7) (2026-04-12)
-- [I built an AI that remembers every production incident. Here's what changed.](https://dev.to/sanscode19/i-built-an-ai-that-remembers-every-production-incident-heres-what-changed-bll) (2026-04-12)
-- [The definitive guide to testing Slack bots (and why it's been so hard)](https://dev.to/markturk87/the-definitive-guide-to-testing-slack-bots-and-why-its-been-so-hard-5feh) (2026-04-12)
+- [We Scored 28 Famous Open Source PRs for Deploy Risk](https://dev.to/koalrapp/we-scored-28-famous-open-source-prs-for-deploy-risk-55bj) (2026-04-13)
+- [Reference Architecture for AI Evaluation at Scale](https://dev.to/eagleeyethinker/reference-architecture-for-ai-evaluation-at-scale-1ofb) (2026-04-13)
+- [Boost Your Output: The Best AI Productivity Prompts for ChatGPT, Claude & More](https://dev.to/loseinwworld/boost-your-output-the-best-ai-productivity-prompts-for-chatgpt-claude-more-3o01) (2026-04-13)
+- [AgentHansa Platform Review: A New AI Agent Economy](https://dev.to/mimoliansong/agenthansa-platform-review-a-new-ai-agent-economy-3h7d) (2026-04-13)
+- [Job market is crazy so i decided to hop on the hackattic.com challenge](https://dev.to/nkwochamaureen/job-market-is-crazy-so-i-decided-to-hop-on-the-hackatticcom-challenge-42gh) (2026-04-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Stop Making These 5 Spring Security Mistakes: What Senior Devs Do Instead](https://blog.stackademic.com/stop-making-these-5-spring-security-mistakes-what-senior-devs-do-instead-7603cd8248d7?source=rss------programming-5) (2026-04-12)
-- [Andrej Karpathy’s LLM Knowledge Bases explained](https://medium.com/data-science-in-your-pocket/andrej-karpathys-llm-knowledge-bases-explained-2d9fd3435707?source=rss------programming-5) (2026-04-12)
-- [Neural Computers: Can AI Become the Computer Itself?](https://medium.com/data-science-in-your-pocket/neural-computers-can-ai-become-the-computer-itself-9534ea327316?source=rss------programming-5) (2026-04-12)
-- [ How Do Games fake Water](https://medium.com/@vishucodplayer/how-do-games-fake-water-f9b74705c3fb?source=rss------programming-5) (2026-04-12)
-- [The Day Facebook Disappeared: What Engineers Can Learn from the 2021 Global Outage](https://medium.com/@rithwikkuchana/the-day-facebook-disappeared-what-engineers-can-learn-from-the-2021-global-outage-c3e58e787452?source=rss------programming-5) (2026-04-12)
+- [Architecture 101: How to Code a Simple Mobile Application Game in 2026](https://medium.com/@retronautmega888/architecture-101-how-to-code-a-simple-mobile-application-game-in-2026-a67d209d8e07?source=rss------programming-5) (2026-04-13)
+- [My Angular App Was Fast… Until These 6 Bottlenecks Showed Up](https://medium.com/@shubhamnalawade037/my-angular-app-was-fast-until-these-6-bottlenecks-showed-up-adebd98d7705?source=rss------programming-5) (2026-04-13)
+- [The Architect’s Dilemma: Seni Mengambil Keputusan dalam Dunia Software Engineering](https://medium.com/@muhammadrifqi1719/the-architects-dilemma-seni-mengambil-keputusan-dalam-dunia-software-engineering-5fe9eaf026c1?source=rss------programming-5) (2026-04-13)
+- [# IA Sem Bússola: por que estamos rápido demais sem as perguntas certas.](https://medium.com/@fpadillamiranda/ia-sem-b%C3%BAssola-por-que-estamos-r%C3%A1pido-demais-sem-as-perguntas-certas-b254961f40dd?source=rss------programming-5) (2026-04-13)
+- [The Entire SDLC, Automated: 18 AI Agents That Took Our Project From Spec to Production](https://medium.com/@ivanrisso/the-entire-sdlc-automated-18-ai-agents-that-took-our-project-from-spec-to-production-40d9d32d370b?source=rss------programming-5) (2026-04-13)
 
 </details>
 
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/insights/what-is-customer-engagement-platform
 <details>
 <summary>💬 Slack API</summary>
 
-- [What Is Team Collaboration? 10 Ways to Make It More Successful](https://slack.com/blog/collaboration/what-is-team-collaboration-10-ways-to-make-it-more-successful) (2026-04-10)
-- [Introducing Slack CRM: Conversational Customer Management for Small Businesses](https://slack.com/blog/news/slack-crm-small-business) (2026-04-09)
-- [29 Team-Building Activities for Work](https://slack.com/blog/collaboration/10-team-building-activities-strengthen-culture) (2026-04-09)
-- [What Is Scrum? Roles, Values, and How It Works](https://slack.com/blog/collaboration/scrum-meeting) (2026-04-09)
-- [What Is an AI Scheduling Assistant? Top Tools, Benefits & Key Features](https://slack.com/blog/productivity/simplify-your-days-with-ai-scheduling-assistant) (2026-04-08)
+- [What is a Simple CRM? Easy Tools for Small Businesses](https://slack.com/blog/crm/simple-crm-for-small-businesses) (2026-04-07)
+- [CRM for Small Business: Benefits, Top Tools, and How to Choose](https://slack.com/blog/crm/best-crm-for-small-business) (2026-04-07)
+- [What Is an Agentic OS? A Practical Guide](https://slack.com/blog/productivity/what-is-an-agentic-os) (2026-04-03)
+- [Slackbot Just Became Your Ultimate Teammate in the New Interface for Work](https://slack.com/blog/news/agent-orchestration) (2026-03-31)
+- [Building an Agent-First Workspace in Slack](https://slack.com/blog/news/agent-first-workspace-slack) (2026-03-31)
 
 </details>
 
@@ -541,17 +541,6 @@ https://www.twilio.com/en-us/blog/insights/what-is-customer-engagement-platform
 - [ALTK‑Evolve: On‑the‑Job Learning for AI Agents](https://huggingface.co/blog/ibm-research/altk-evolve) (2026-04-08)
 - [Safetensors is Joining the PyTorch Foundation](https://huggingface.co/blog/safetensors-joins-pytorch-foundation) (2026-04-08)
 - [Welcome Gemma 4: Frontier multimodal intelligence on device](https://huggingface.co/blog/gemma4) (2026-04-02)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [IBM: How robust AI governance protects enterprise margins](https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/) (2026-04-10)
-- [Why companies like Apple are building AI agents with limits](https://www.artificialintelligence-news.com/news/why-companies-like-apple-are-building-ai-agents-with-limits/) (2026-04-10)
-- [Meta has a competitive AI model but loses its open-source identity](https://www.artificialintelligence-news.com/news/meta-muse-spark-ai-model-open-source/) (2026-04-10)
-- [Agentic AI’s governance challenges under the EU AI Act in 2026](https://www.artificialintelligence-news.com/news/agentic-ais-governance-challenges-under-the-eu-ai-act-in-2026/) (2026-04-09)
-- [Anthropic keeps new AI model private after it finds thousands of external vulnerabilities](https://www.artificialintelligence-news.com/news/anthropic-keeps-new-ai-model-private-after-it-finds-thousands-of-external-vulnerabilities/) (2026-04-09)
 
 </details>
 
