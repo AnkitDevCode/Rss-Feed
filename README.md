@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The largest orbital compute cluster is open for business](https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/) (2026-04-13)
 - [Trump officials may be encouraging banks to test Anthropic’s Mythos model](https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/) (2026-04-12)
 - [Apple reportedly testing four designs for upcoming smart glasses](https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/) (2026-04-12)
 - [X says it’s reducing payments to clickbait accounts](https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/) (2026-04-12)
 - [TechCrunch Mobility: Who is poaching all the self-driving vehicle talent?](https://techcrunch.com/2026/04/12/techcrunch-mobility-who-is-poaching-all-the-self-driving-vehicle-talent/) (2026-04-12)
-- [From LLMs to hallucinations, here’s a simple guide to common AI terms](https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/) (2026-04-12)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Taking on CUDA with ROCm: 'One Step After Another'](https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/) (2026-04-12)
-- [Tech valuations are back to pre-AI boom levels](https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels) (2026-04-12)
-- [A Perfectable Programming Language](https://alok.github.io/lean-pages/perfectable-lean/) (2026-04-12)
-- [Uncharted island soon to appear on nautical charts](https://www.awi.de/en/about-us/service/press/single-view/unkartierte-insel-demnaechst-auf-seekarten-verzeichnet.html) (2026-04-12)
-- [Google removes "Doki Doki Literature Club" from Google Play](https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t) (2026-04-12)
+- [The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind](https://www.viktorcessan.com/the-economics-of-software-teams/) (2026-04-13)
+- [X Randomly Banning Users for "Inauthentic Behavior"](https://old.reddit.com/r/LinusTechTips/comments/1rsdk7i/anybody_here_talking_about_the_massive/) (2026-04-13)
+- [A Canonical Generalization of OBDD](https://arxiv.org/abs/2604.05537) (2026-04-13)
+- [Haunt, the 70s text adventure game, is now playable on a website](https://haunt.madebywindmill.com) (2026-04-13)
+- [Apple's accidental moat: How the "AI Loser" may end up winning](https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end) (2026-04-13)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [We Scored 28 Famous Open Source PRs for Deploy Risk](https://dev.to/koalrapp/we-scored-28-famous-open-source-prs-for-deploy-risk-55bj) (2026-04-13)
-- [Reference Architecture for AI Evaluation at Scale](https://dev.to/eagleeyethinker/reference-architecture-for-ai-evaluation-at-scale-1ofb) (2026-04-13)
-- [Boost Your Output: The Best AI Productivity Prompts for ChatGPT, Claude & More](https://dev.to/loseinwworld/boost-your-output-the-best-ai-productivity-prompts-for-chatgpt-claude-more-3o01) (2026-04-13)
-- [AgentHansa Platform Review: A New AI Agent Economy](https://dev.to/mimoliansong/agenthansa-platform-review-a-new-ai-agent-economy-3h7d) (2026-04-13)
-- [Job market is crazy so i decided to hop on the hackattic.com challenge](https://dev.to/nkwochamaureen/job-market-is-crazy-so-i-decided-to-hop-on-the-hackatticcom-challenge-42gh) (2026-04-13)
+- [The Emotional Terror of Closing a Browser Tab](https://dev.to/the_nortern_dev/the-emotional-terror-of-closing-a-browser-tab-122k) (2026-04-13)
+- [Building a Home Personal Assistant with Claude Managed Agents](https://dev.to/trknhr/building-a-home-personal-assistant-with-claude-managed-agents-5a8f) (2026-04-13)
+- [Welcome to the World of SQL](https://dev.to/adev3loper/welcome-to-the-world-of-sql-3aoo) (2026-04-13)
+- [CRBR Scraper: Polish Beneficial Owners (UBO)](https://dev.to/ucptools/crbr-scraper-polish-beneficial-owners-ubo-4fg9) (2026-04-13)
+- [Scream2Wish: break a genie lamp by screaming at your phone](https://dev.to/rajnishkmehta/scream2wish-break-a-genie-lamp-by-screaming-at-your-phone-11e8) (2026-04-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Architecture 101: How to Code a Simple Mobile Application Game in 2026](https://medium.com/@retronautmega888/architecture-101-how-to-code-a-simple-mobile-application-game-in-2026-a67d209d8e07?source=rss------programming-5) (2026-04-13)
-- [My Angular App Was Fast… Until These 6 Bottlenecks Showed Up](https://medium.com/@shubhamnalawade037/my-angular-app-was-fast-until-these-6-bottlenecks-showed-up-adebd98d7705?source=rss------programming-5) (2026-04-13)
-- [The Architect’s Dilemma: Seni Mengambil Keputusan dalam Dunia Software Engineering](https://medium.com/@muhammadrifqi1719/the-architects-dilemma-seni-mengambil-keputusan-dalam-dunia-software-engineering-5fe9eaf026c1?source=rss------programming-5) (2026-04-13)
-- [# IA Sem Bússola: por que estamos rápido demais sem as perguntas certas.](https://medium.com/@fpadillamiranda/ia-sem-b%C3%BAssola-por-que-estamos-r%C3%A1pido-demais-sem-as-perguntas-certas-b254961f40dd?source=rss------programming-5) (2026-04-13)
-- [The Entire SDLC, Automated: 18 AI Agents That Took Our Project From Spec to Production](https://medium.com/@ivanrisso/the-entire-sdlc-automated-18-ai-agents-that-took-our-project-from-spec-to-production-40d9d32d370b?source=rss------programming-5) (2026-04-13)
+- [.Why Most State Management Solutions Are Still Stuck in 2018 — And How .me Is Trying to Fix It](https://medium.com/coinmonks/why-most-state-management-solutions-are-still-stuck-in-2018-and-how-me-is-trying-to-fix-it-ce9f69cd6bcd?source=rss------programming-5) (2026-04-13)
+- [Yield Farming on TON in April 2026: What the Numbers Actually Say](https://medium.com/coinmonks/yield-farming-on-ton-in-april-2026-what-the-numbers-actually-say-cfe040ea96ab?source=rss------programming-5) (2026-04-13)
+- [System Design Interview Survival Kit: Stop Freezing When They Ask “Design Twitter”](https://medium.com/lets-code-future/system-design-interview-survival-kit-stop-freezing-when-they-ask-design-twitter-e512490ad905?source=rss------programming-5) (2026-04-13)
+- [Why Can You Call a JavaScript Function Before You’ve Written It?](https://medium.com/@gize.bonilla/why-can-you-call-a-javascript-function-before-youve-written-it-0055b9c92a24?source=rss------programming-5) (2026-04-13)
+- [How Simpler Architectures Made Me a Better Senior Developer](https://medium.com/javaguides/how-simpler-architectures-made-me-a-better-senior-developer-768476561339?source=rss------programming-5) (2026-04-13)
 
 </details>
 
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/insights/what-is-customer-engagement-platform
 <details>
 <summary>💬 Slack API</summary>
 
-- [What is a Simple CRM? Easy Tools for Small Businesses](https://slack.com/blog/crm/simple-crm-for-small-businesses) (2026-04-07)
-- [CRM for Small Business: Benefits, Top Tools, and How to Choose](https://slack.com/blog/crm/best-crm-for-small-business) (2026-04-07)
-- [What Is an Agentic OS? A Practical Guide](https://slack.com/blog/productivity/what-is-an-agentic-os) (2026-04-03)
-- [Slackbot Just Became Your Ultimate Teammate in the New Interface for Work](https://slack.com/blog/news/agent-orchestration) (2026-03-31)
-- [Building an Agent-First Workspace in Slack](https://slack.com/blog/news/agent-first-workspace-slack) (2026-03-31)
+- [What Is Team Collaboration? 10 Ways to Make It More Successful](https://slack.com/blog/collaboration/what-is-team-collaboration-10-ways-to-make-it-more-successful) (2026-04-10)
+- [Introducing Slack CRM: Conversational Customer Management for Small Businesses](https://slack.com/blog/news/slack-crm-small-business) (2026-04-09)
+- [29 Team-Building Activities for Work](https://slack.com/blog/collaboration/10-team-building-activities-strengthen-culture) (2026-04-09)
+- [What Is Scrum? Roles, Values, and How It Works](https://slack.com/blog/collaboration/scrum-meeting) (2026-04-09)
+- [What Is an AI Scheduling Assistant? Top Tools, Benefits & Key Features](https://slack.com/blog/productivity/simplify-your-days-with-ai-scheduling-assistant) (2026-04-08)
 
 </details>
 
@@ -541,6 +541,17 @@ https://www.twilio.com/en-us/blog/insights/what-is-customer-engagement-platform
 - [ALTK‑Evolve: On‑the‑Job Learning for AI Agents](https://huggingface.co/blog/ibm-research/altk-evolve) (2026-04-08)
 - [Safetensors is Joining the PyTorch Foundation](https://huggingface.co/blog/safetensors-joins-pytorch-foundation) (2026-04-08)
 - [Welcome Gemma 4: Frontier multimodal intelligence on device](https://huggingface.co/blog/gemma4) (2026-04-02)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [IBM: How robust AI governance protects enterprise margins](https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/) (2026-04-10)
+- [Why companies like Apple are building AI agents with limits](https://www.artificialintelligence-news.com/news/why-companies-like-apple-are-building-ai-agents-with-limits/) (2026-04-10)
+- [Meta has a competitive AI model but loses its open-source identity](https://www.artificialintelligence-news.com/news/meta-muse-spark-ai-model-open-source/) (2026-04-10)
+- [Agentic AI’s governance challenges under the EU AI Act in 2026](https://www.artificialintelligence-news.com/news/agentic-ais-governance-challenges-under-the-eu-ai-act-in-2026/) (2026-04-09)
+- [Anthropic keeps new AI model private after it finds thousands of external vulnerabilities](https://www.artificialintelligence-news.com/news/anthropic-keeps-new-ai-model-private-after-it-finds-thousands-of-external-vulnerabilities/) (2026-04-09)
 
 </details>
 
