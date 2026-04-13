@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Roblox introduces ‘Kids’ and ‘Select’ accounts for age-appropriate access to games and chat](https://techcrunch.com/2026/04/13/roblox-introduces-kids-and-select-accounts-for-age-appropriate-access-to-games-and-chat/) (2026-04-13)
 - [The largest orbital compute cluster is open for business](https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/) (2026-04-13)
 - [Trump officials may be encouraging banks to test Anthropic’s Mythos model](https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/) (2026-04-12)
 - [Apple reportedly testing four designs for upcoming smart glasses](https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/) (2026-04-12)
 - [X says it’s reducing payments to clickbait accounts](https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/) (2026-04-12)
-- [TechCrunch Mobility: Who is poaching all the self-driving vehicle talent?](https://techcrunch.com/2026/04/12/techcrunch-mobility-who-is-poaching-all-the-self-driving-vehicle-talent/) (2026-04-12)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind](https://www.viktorcessan.com/the-economics-of-software-teams/) (2026-04-13)
-- [X Randomly Banning Users for "Inauthentic Behavior"](https://old.reddit.com/r/LinusTechTips/comments/1rsdk7i/anybody_here_talking_about_the_massive/) (2026-04-13)
-- [A Canonical Generalization of OBDD](https://arxiv.org/abs/2604.05537) (2026-04-13)
-- [Haunt, the 70s text adventure game, is now playable on a website](https://haunt.madebywindmill.com) (2026-04-13)
-- [Apple's accidental moat: How the "AI Loser" may end up winning](https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end) (2026-04-13)
+- [AI could be the end of the digital wave, not the next big thing](https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/) (2026-04-13)
+- [I went to America's worst national parks so you don't have to](https://substack.com/home/post/p-193626949) (2026-04-13)
+- [Michigan 'digital age' bills pulled after privacy concerns raised](https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html) (2026-04-13)
+- [Android now stops you sharing your location in photos](https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/) (2026-04-13)
+- [Point Cloud Allemansrätten](https://digitalflapjack.com/weeknotes/point-cloud-allemansr%C3%A4tten/) (2026-04-13)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Room for the Moon is thrillingly weird experimental pop](https://www.theverge.com/entertainment/910826/room-for-the-moon-is-thrillingly-weird-experimental-pop) (2026-04-12)
-- [Rockstar Games says hack will have ‘no impact’](https://www.theverge.com/games/910815/rockstar-games-says-hack-will-have-no-impact) (2026-04-12)
-- [You can save $20 on the Super Mario Galaxy game bundle when you buy a Nintendo Switch 2](https://www.theverge.com/gadgets/909928/nintendo-switch-2-super-mario-galaxy-bundle-deal-sale) (2026-04-12)
-- [You can grab a refurbished 2021 Kindle Paperwhite starting at just $49.99](https://www.theverge.com/gadgets/910482/2021-amazon-kindle-paperwhite-signature-edition-refurbished-woot-deal-sale) (2026-04-12)
-- [The Hisense UR9 is a great first shot against OLED’s bow](https://www.theverge.com/tech/910537/hisense-ur9-rgb-led-tv-review) (2026-04-12)
+- [The Strait of Hormuz blockade is causing a slow-moving food crisis](https://www.theverge.com/science/910326/iran-strait-hormuz-fertilizer-feedstock-food-crisis) (2026-04-13)
+- [Roblox will need age verification to make sure you’re at least 9 years old](https://www.theverge.com/games/910218/roblox-age-verification-check-games-kids-select-accounts) (2026-04-13)
+- [Roblox has games again](https://www.theverge.com/games/910699/roblox-games-experiences-switch-friends-connections) (2026-04-13)
+- [Did Neuralink make the wrong bet?](https://www.theverge.com/tech/910834/neuralink-bcis-bet) (2026-04-13)
+- [Microsoft&#8217;s new Xbox Gamepad Cursor adds a virtual mouse to handhelds](https://www.theverge.com/news/910901/microsoft-xbox-gamepad-cursor-windows-handhelds) (2026-04-13)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [To teach in the time of ChatGPT is to know pain](https://arstechnica.com/science/2026/04/to-teach-in-the-time-of-chatgpt-is-to-know-pain/) (2026-04-13)
 - [Shock from Iran war has Trump's vision for US energy dominance flailing](https://arstechnica.com/science/2026/04/shock-from-iran-war-has-trumps-vision-for-us-energy-dominance-flailing/) (2026-04-12)
 - [AI models are terrible at betting on soccer—especially xAI Grok](https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/) (2026-04-11)
 - [The Artemis II mission has ended. Where does NASA go from here?](https://arstechnica.com/space/2026/04/the-artemis-ii-mission-has-ended-where-does-nasa-go-from-here/) (2026-04-11)
 - [Four astronauts are back home after a daring ride around the Moon](https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon/) (2026-04-11)
-- [Californians sue over AI tool that records doctor visits](https://arstechnica.com/tech-policy/2026/04/californians-sue-over-ai-tool-that-records-doctor-visits/) (2026-04-10)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Want to understand the current state of AI? Check out these charts.](https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/) (2026-04-13)
+- [The Download: how humans make decisions, and Moderna’s “vaccine” word games](https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games/) (2026-04-13)
+- [Job titles of the future: Wildlife first responder](https://www.technologyreview.com/2026/04/13/1135156/job-titles-wildlife-first-responder-wesley-sarmento/) (2026-04-13)
+- [You have no choice in reading this article—maybe](https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/) (2026-04-13)
 - [What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma](https://www.technologyreview.com/2026/04/10/1135631/whats-in-a-name-modernas-vaccine-vs-therapy-dilemma/) (2026-04-10)
-- [The Download: an exclusive Jeff VanderMeer story and AI models too scary to release](https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/) (2026-04-10)
-- [Constellations](https://www.technologyreview.com/2026/04/10/1135106/jeff-vandermeer-constellations-science-fiction/) (2026-04-10)
-- [The Download: AstroTurf wars and exponential AI growth](https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/) (2026-04-09)
-- [Is fake grass a bad idea? The AstroTurf wars are far from over.](https://www.technologyreview.com/2026/04/09/1135092/astroturf-fake-grass-artificial-heated-debates/) (2026-04-09)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Emotional Terror of Closing a Browser Tab](https://dev.to/the_nortern_dev/the-emotional-terror-of-closing-a-browser-tab-122k) (2026-04-13)
-- [Building a Home Personal Assistant with Claude Managed Agents](https://dev.to/trknhr/building-a-home-personal-assistant-with-claude-managed-agents-5a8f) (2026-04-13)
-- [Welcome to the World of SQL](https://dev.to/adev3loper/welcome-to-the-world-of-sql-3aoo) (2026-04-13)
-- [CRBR Scraper: Polish Beneficial Owners (UBO)](https://dev.to/ucptools/crbr-scraper-polish-beneficial-owners-ubo-4fg9) (2026-04-13)
-- [Scream2Wish: break a genie lamp by screaming at your phone](https://dev.to/rajnishkmehta/scream2wish-break-a-genie-lamp-by-screaming-at-your-phone-11e8) (2026-04-13)
+- [I Built a Free Local AI Art Pipeline on My Mac — Here's What Broke](https://dev.to/yha9806/i-built-a-free-local-ai-art-pipeline-on-my-mac-heres-what-broke-3cip) (2026-04-13)
+- [How Apache Iceberg's Metadata Architecture Enables ACID at Scale](https://dev.to/iprithv/how-apache-icebergs-metadata-architecture-enables-acid-at-scale-54kh) (2026-04-13)
+- [GCP Cost Spikes Are Not Random - Here’s How to Actually Detect & Fix Them](https://dev.to/sourabhkapoor/gcp-cost-spikes-are-not-random-heres-how-to-actually-detect-fix-them-47c1) (2026-04-13)
+- [.NET Reflection Benchmarks: Enum Attribute Performance (Part 1)](https://dev.to/gramli/net-reflection-benchmarks-enum-attribute-performance-part-1-1c44) (2026-04-13)
+- [Our Entire Company Ships Code Now. 40 PRs from Non-Engineers in 60 Days.](https://dev.to/epilot/our-entire-company-ships-code-now-40-prs-from-non-engineers-in-60-days-jo5) (2026-04-13)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [.Why Most State Management Solutions Are Still Stuck in 2018 — And How .me Is Trying to Fix It](https://medium.com/coinmonks/why-most-state-management-solutions-are-still-stuck-in-2018-and-how-me-is-trying-to-fix-it-ce9f69cd6bcd?source=rss------programming-5) (2026-04-13)
-- [Yield Farming on TON in April 2026: What the Numbers Actually Say](https://medium.com/coinmonks/yield-farming-on-ton-in-april-2026-what-the-numbers-actually-say-cfe040ea96ab?source=rss------programming-5) (2026-04-13)
-- [System Design Interview Survival Kit: Stop Freezing When They Ask “Design Twitter”](https://medium.com/lets-code-future/system-design-interview-survival-kit-stop-freezing-when-they-ask-design-twitter-e512490ad905?source=rss------programming-5) (2026-04-13)
-- [Why Can You Call a JavaScript Function Before You’ve Written It?](https://medium.com/@gize.bonilla/why-can-you-call-a-javascript-function-before-youve-written-it-0055b9c92a24?source=rss------programming-5) (2026-04-13)
-- [How Simpler Architectures Made Me a Better Senior Developer](https://medium.com/javaguides/how-simpler-architectures-made-me-a-better-senior-developer-768476561339?source=rss------programming-5) (2026-04-13)
+- [The Biggest Mistake Python Developers Make After Learning Basics](https://python.plainenglish.io/the-biggest-mistake-python-developers-make-after-learning-basics-4ea981f9e0a6?source=rss------programming-5) (2026-04-13)
+- [Vibe Coding Is Rotting Your Skills. Fix It.](https://pub.towardsai.net/vibe-coding-is-rotting-your-skills-fix-it-4b0a736a75f8?source=rss------programming-5) (2026-04-13)
+- [The Real Fight Isn’t Developers vs. AI](https://medium.com/@er_83647/the-real-fight-isnt-developers-vs-ai-a65ddfe5508d?source=rss------programming-5) (2026-04-13)
+- [I Added An Upgraded 28-Inch 4K+ Programming Monitor To My Setup](https://levelup.gitconnected.com/i-added-an-upgraded-28-inch-4k-programming-monitor-to-my-setup-6b410ff7858f?source=rss------programming-5) (2026-04-13)
+- [The Productivity Hallucination](https://medium.com/@arthurpro/the-productivity-hallucination-13a3d259673d?source=rss------programming-5) (2026-04-13)
 
 </details>
 
@@ -547,22 +547,22 @@ https://www.twilio.com/en-us/blog/insights/what-is-customer-engagement-platform
 <details>
 <summary>🤖 AI News</summary>
 
+- [Strengthening enterprise governance for rising edge AI workloads](https://www.artificialintelligence-news.com/news/strengthening-enterprise-governance-for-rising-edge-ai-workloads/) (2026-04-13)
+- [Companies expand AI adoption while keeping control](https://www.artificialintelligence-news.com/news/companies-expand-ai-adoption-while-keeping-control/) (2026-04-13)
 - [IBM: How robust AI governance protects enterprise margins](https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/) (2026-04-10)
 - [Why companies like Apple are building AI agents with limits](https://www.artificialintelligence-news.com/news/why-companies-like-apple-are-building-ai-agents-with-limits/) (2026-04-10)
 - [Meta has a competitive AI model but loses its open-source identity](https://www.artificialintelligence-news.com/news/meta-muse-spark-ai-model-open-source/) (2026-04-10)
-- [Agentic AI’s governance challenges under the EU AI Act in 2026](https://www.artificialintelligence-news.com/news/agentic-ais-governance-challenges-under-the-eu-ai-act-in-2026/) (2026-04-09)
-- [Anthropic keeps new AI model private after it finds thousands of external vulnerabilities](https://www.artificialintelligence-news.com/news/anthropic-keeps-new-ai-model-private-after-it-finds-thousands-of-external-vulnerabilities/) (2026-04-09)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [I Built a Tiny Computer Inside a Transformer](https://towardsdatascience.com/i-built-a-tiny-computer-inside-a-transformer/) (2026-04-13)
 - [Stop Treating AI Memory Like a Search Problem](https://towardsdatascience.com/stop-treating-ai-memory-like-a-search-problem/) (2026-04-12)
 - [Write Pandas Like a Pro With Method Chaining Pipelines](https://towardsdatascience.com/this-one-pandas-pattern-separates-beginners-from-intermediate-users/) (2026-04-12)
 - [Your ReAct Agent Is Wasting 90% of Its Retries — Here’s How to Stop It](https://towardsdatascience.com/your-react-agent-is-wasting-90-of-its-retries-heres-how-to-stop-it/) (2026-04-12)
 - [Advanced RAG Retrieval: Cross-Encoders & Reranking](https://towardsdatascience.com/advanced-rag-retrieval-cross-encoders-reranking/) (2026-04-11)
-- [Why Every AI Coding Assistant Needs a Memory Layer](https://towardsdatascience.com/why-every-ai-coding-assistant-needs-a-memory-layer/) (2026-04-11)
 
 </details>
 
@@ -580,11 +580,11 @@ https://www.twilio.com/en-us/blog/insights/what-is-customer-engagement-platform
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Best Books for Building Agentic AI Systems in 2026](https://www.kdnuggets.com/5-best-books-for-building-agentic-ai-systems-in-2026) (2026-04-13)
 - [Advanced NotebookLM Tips & Tricks for Power Users](https://www.kdnuggets.com/advanced-notebooklm-tips-tricks-for-power-users) (2026-04-10)
 - [5 Useful Things to Do with Google’s Antigravity Besides Coding](https://www.kdnuggets.com/5-useful-things-to-do-with-googles-antigravity-besides-coding) (2026-04-10)
 - [All About Pyjanitor’s Method Chaining Functionality, And Why Its Useful](https://www.kdnuggets.com/all-about-pyjanitors-method-chaining-functionality-and-why-its-useful) (2026-04-09)
 - [Kaggle + Google’s Free 5-Day Gen AI Course](https://www.kdnuggets.com/kaggle-googles-free-5-day-gen-ai-course) (2026-04-09)
-- [5 Docker Containers for Small Business](https://www.kdnuggets.com/5-docker-containers-for-small-business) (2026-04-09)
 
 </details>
 
