@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Lean proved this program correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html) (2026-04-14)
-- [Why it's impossible to measure England's coastline](https://www.bbc.com/travel/article/20260410-why-its-impossible-to-measure-englands-coastline) (2026-04-13)
-- [SnapState - Persistent state for AI agent workflows](https://snapstate.dev) (2026-04-13)
-- [WiiFin – Jellyfin Client for Nintendo Wii](https://github.com/fabienmillet/WiiFin) (2026-04-13)
-- [The AI revolution in math has arrived](https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/) (2026-04-13)
+- [Can Claude Fly a Plane?](https://so.long.thanks.fish/can-claude-fly-a-plane/) (2026-04-14)
+- [Distributed DuckDB Instance](https://github.com/citguru/openduck) (2026-04-14)
+- [Roblox devs now need a subscription to share their games freely](https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166) (2026-04-14)
+- [Multi-Agentic Software Development Is a Distributed Systems Problem](https://kirancodes.me/posts/log-distributed-llms.html) (2026-04-14)
+- [UpDown: Efficient Manycore based on Many Threading & Scalable Memory Parallelism](https://people.cs.uchicago.edu/~aachien/lssg/research/10x10/ics26-single-chip-updown.pdf) (2026-04-14)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Who needs VCs when you have friends like these?](https://stackoverflow.blog/2026/04/14/who-needs-vcs-when-you-have-friends-like-these/) (2026-04-14)
 - [The messy truth of your AI strategies](https://stackoverflow.blog/2026/04/10/the-messy-truth-of-your-ai-strategies/) (2026-04-10)
 - [Gen Z needs a knowledge base (and so do you)](https://stackoverflow.blog/2026/04/09/gen-z-needs-a-knowledge-base-and-so-do-you/) (2026-04-09)
 - [He designed C++ to solve your code problems](https://stackoverflow.blog/2026/04/07/he-designed-c-to-solve-your-code-problems/) (2026-04-07)
 - [Seizing the means of messenger production](https://stackoverflow.blog/2026/04/03/seizing-the-means-of-messenger-production/) (2026-04-03)
-- [What the AI trust gap means for enterprise SaaS](https://stackoverflow.blog/2026/04/02/what-the-ai-trust-gap-means-for-enterprise-saas/) (2026-04-02)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building AI Agents That Actually Work: MCP Servers, Tool Orchestration, and Running Everything Locally](https://dev.to/kennedyraju55/building-ai-agents-that-actually-work-mcp-servers-tool-orchestration-and-running-everything-f5) (2026-04-14)
-- [Your AI Coding Assistant Is Watching Your Clipboard: A 2026 Secret Hygiene Playbook](https://dev.to/alokt/your-ai-coding-assistant-is-watching-your-clipboard-a-2026-secret-hygiene-playbook-5d3j) (2026-04-14)
-- [Concurrent Video Processing with Go Goroutines and Channels](https://dev.to/ahmet_gedik778845/concurrent-video-processing-with-go-goroutines-and-channels-3iaf) (2026-04-14)
-- [Medical Research Agent Skills: Blind Review Sanitizer](https://dev.to/the_resa/medical-research-agent-skills-blind-review-sanitizer-5e1j) (2026-04-14)
-- [O Projeto Fênix e a TI que eu vivo todos os dias](https://dev.to/lzocate-li/o-projeto-fenix-e-a-ti-que-eu-vivo-todos-os-dias-4a12) (2026-04-14)
+- [WebRTC Video Calls Explained: Simpler Than You Think](https://dev.to/abdullahmubin/webrtc-video-calls-explained-simpler-than-you-think-158k) (2026-04-14)
+- [VoxMind: A Secure, Local-First Voice AI Agent on the Edge](https://dev.to/devansh_kalwani_509887af2/voxmind-a-secure-local-first-voice-ai-agent-on-the-edge-40lg) (2026-04-14)
+- [From Photos to Precision: Automating Quotes with AI and Video](https://dev.to/ken_deng_ai/from-photos-to-precision-automating-quotes-with-ai-and-video-2nd3) (2026-04-14)
+- [Advancing AI-Assisted Engineering Practices](https://dev.to/dglazkov/advancing-ai-assisted-engineering-practices-phf) (2026-04-14)
+- [Declarative validation: keep bad data out of your database](https://dev.to/davidlastrucci/declarative-validation-keep-bad-data-out-of-your-database-1ekk) (2026-04-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Secret Life of Claude Code: Debugging with a Partner](https://medium.com/@aaron.rose.tx/the-secret-life-of-claude-code-debugging-with-a-partner-10f03f8df99b?source=rss------programming-5) (2026-04-14)
-- [Source Code Analysis of Claude Code Skills](https://blog.stackademic.com/source-code-analysis-of-claude-code-skills-7769a29c2e99?source=rss------programming-5) (2026-04-14)
-- [The 30-Day AI Challenge: How I Made My First $1000 Online (And You Can Too)](https://medium.com/@tlotlisotsilane935/the-30-day-ai-challenge-how-i-made-my-first-1000-online-and-you-can-too-672b652db06d?source=rss------programming-5) (2026-04-14)
-- [1.1: Priori Analysis & Posterior Testing](https://medium.com/@hamirani.sahil/1-1-priori-analysis-posterior-testing-8a6613dfb2c1?source=rss------programming-5) (2026-04-14)
-- [Stop Using array_push() in PHP — Here’s What to Do Instead](https://medium.com/@annxsa/stop-using-array-push-in-php-heres-what-to-do-instead-85596963db11?source=rss------programming-5) (2026-04-14)
+- [Unity & C# Basic](https://medium.com/@schnee96s/unity-c-basic-a09e02a176f5?source=rss------programming-5) (2026-04-14)
+- [You Can’t Craft While Sprinting: The Lost “Takumi” Spirit in Software Engineering](https://appibara.medium.com/you-cant-craft-while-sprinting-the-lost-takumi-spirit-in-software-engineering-42bbf2100a4b?source=rss------programming-5) (2026-04-14)
+- [*Gayane Logic (GL4/GHL): A Quaternary Modal Logic with 4-Bit Semantics*](https://medium.com/@oganmart1980/gayane-logic-gl4-ghl-a-quaternary-modal-logic-with-4-bit-semantics-a43c2b72b50f?source=rss------programming-5) (2026-04-14)
+- [She Was 34, Unemployed, and Had Never Written a Line of Code.](https://medium.com/@qurat692/she-was-34-unemployed-and-had-never-written-a-line-of-code-713dda4eae4c?source=rss------programming-5) (2026-04-14)
+- [Vibe Coding Just Escaped Todo Apps and Entered the Real World](https://medium.com/@samurai.stateless.coder/vibe-coding-escaped-todo-apps-real-world-map-public-data-195b1553d132?source=rss------programming-5) (2026-04-14)
 
 </details>
 
@@ -457,6 +457,17 @@ https://www.twilio.com/en-us/blog/insights/what-is-customer-engagement-platform
 </details>
 
 <details>
+<summary>🚀 Apollo GraphQL</summary>
+
+- [View Operational Insights Within the GraphOS Platform API](https://www.apollographql.com/blog/view-operational-insights-within-the-graphos-platform-api) (2026-04-13)
+- [Your AI Agent Doesn’t Need to Research. It Needs to Know.](https://www.apollographql.com/blog/your-ai-agent-doesnt-need-to-research-it-needs-to-know) (2026-04-07)
+- [How to Orchestrate Multiple APIs for Your LLM Agent](https://www.apollographql.com/blog/how-to-orchestrate-multiple-apis-for-your-llm-agent) (2026-03-26)
+- [How To Make Your Existing GraphQL API AI-Ready With Apollo](https://www.apollographql.com/blog/how-to-make-your-existing-graphql-api-ai-ready-with-apollo) (2026-03-19)
+- [How We Taught an AI to Nitpick Docs](https://www.apollographql.com/blog/how-we-taught-an-ai-to-nitpick-docs) (2026-03-16)
+
+</details>
+
+<details>
 <summary>📊 Airtable Blog</summary>
 
 - [Applications closing for the Airtable AI Incubator](https://blog.airtable.com/applications-closing-for-the-airtable-ai-incubator/) (2025-09-29)
@@ -481,11 +492,11 @@ https://www.twilio.com/en-us/blog/insights/what-is-customer-engagement-platform
 <details>
 <summary>💬 Slack API</summary>
 
-- [What Is Team Collaboration? 10 Ways to Make It More Successful](https://slack.com/blog/collaboration/what-is-team-collaboration-10-ways-to-make-it-more-successful) (2026-04-10)
-- [Introducing Slack CRM: Conversational Customer Management for Small Businesses](https://slack.com/blog/news/slack-crm-small-business) (2026-04-09)
-- [29 Team-Building Activities for Work](https://slack.com/blog/collaboration/10-team-building-activities-strengthen-culture) (2026-04-09)
-- [What Is Scrum? Roles, Values, and How It Works](https://slack.com/blog/collaboration/scrum-meeting) (2026-04-09)
-- [What Is an AI Scheduling Assistant? Top Tools, Benefits, and Key Features](https://slack.com/blog/productivity/simplify-your-days-with-ai-scheduling-assistant) (2026-04-08)
+- [What is a Simple CRM? Easy Tools for Small Businesses](https://slack.com/blog/crm/simple-crm-for-small-businesses) (2026-04-07)
+- [CRM for Small Business: Benefits, Top Tools, and How to Choose](https://slack.com/blog/crm/best-crm-for-small-business) (2026-04-07)
+- [What Is an Agentic OS? A Practical Guide](https://slack.com/blog/productivity/what-is-an-agentic-os) (2026-04-03)
+- [Slackbot Just Became Your Ultimate Teammate in the New Interface for Work](https://slack.com/blog/news/agent-orchestration) (2026-03-31)
+- [Building an Agent-First Workspace in Slack](https://slack.com/blog/news/agent-first-workspace-slack) (2026-03-31)
 
 </details>
 
