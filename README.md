@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Lucid Motors names new CEO, lands more money from Uber and Saudis](https://techcrunch.com/2026/04/14/lucid-motors-names-new-ceo-lands-more-money-from-uber-and-saudis/) (2026-04-14)
+- [Inertia moves to commercialize one of the world’s most elaborate science experiments](https://techcrunch.com/2026/04/14/inertia-moves-to-commercialize-one-of-the-worlds-most-elaborate-science-experiments/) (2026-04-14)
 - [An Amazon warehouse worker died on the job at Oregon facility](https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility/) (2026-04-14)
 - [OpenAI has bought AI personal finance startup Hiro](https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/) (2026-04-14)
 - [Uber and Nuro begin testing premium robotaxi service in San Francisco](https://techcrunch.com/2026/04/13/uber-nuro-san-francisco-testing-premium-robotaxi-service/) (2026-04-13)
-- [Microsoft is officially killing its Outlook Lite app next month](https://techcrunch.com/2026/04/13/microsoft-is-officially-killing-its-outlook-lite-app-next-month/) (2026-04-13)
-- [Thousands of rare concert recordings are landing on the Internet Archive — listen now](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/) (2026-04-13)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Can Claude Fly a Plane?](https://so.long.thanks.fish/can-claude-fly-a-plane/) (2026-04-14)
-- [Distributed DuckDB Instance](https://github.com/citguru/openduck) (2026-04-14)
-- [Roblox devs now need a subscription to share their games freely](https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166) (2026-04-14)
-- [Multi-Agentic Software Development Is a Distributed Systems Problem](https://kirancodes.me/posts/log-distributed-llms.html) (2026-04-14)
-- [UpDown: Efficient Manycore based on Many Threading & Scalable Memory Parallelism](https://people.cs.uchicago.edu/~aachien/lssg/research/10x10/ics26-single-chip-updown.pdf) (2026-04-14)
+- [The exponential curve behind open source backlogs](https://armanckeser.com/writing/jellyfin-flow) (2026-04-14)
+- [The Case Against Gameplay Loops](https://blog.joeyschutz.com/the-case-against-gameplay-loops/) (2026-04-14)
+- [NimConf 2026: Dates Announced, Registrations Open](https://nim-lang.org/blog/2026/04/07/nimconf-2026.html) (2026-04-14)
+- [What is jj and why should I care?](https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html) (2026-04-14)
+- [Ransomware Is Growing Three Times Faster Than the Spending Meant to Stop It](https://ciphercue.com/blog/ransomware-claims-grew-faster-than-security-spend-2025) (2026-04-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&#8217;s home and OpenAI’s HQ](https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack) (2026-04-14)
-- [The Mercedes EQS returns with massive range and charging gains](https://www.theverge.com/transportation/911196/mercedes-benz-eqs-ev-range-battery-charging-2027) (2026-04-13)
-- [Justin Bieber&#8217;s YouTube Coachella set had nothing to do with who owns his music](https://www.theverge.com/entertainment/911340/justin-bieber-youtube-coachella) (2026-04-13)
-- [RAMageddon has come for Microsoft&#8217;s Surface Pro and Surface Laptop](https://www.theverge.com/tech/911322/microsoft-surface-price-increase-ram) (2026-04-13)
-- [NZXT to pay $3.45 million settlement over Flex PC rentals](https://www.theverge.com/tech/911297/nzxt-flex-pc-rental-settlement) (2026-04-13)
+- [The heist of iOS 26](https://www.theverge.com/tech/908476/jon-prosser-apple-liquid-glass) (2026-04-14)
+- [Alienware’s new gaming monitor offers a 240Hz QD-OLED panel for just $350](https://www.theverge.com/games/909344/alienware-aw2726dm-qdoled-240hz-gaming-monitor-affordable-price-specs) (2026-04-14)
+- [Ecovacs’ new robovac spots and pretreats dried stains using powerful jets](https://www.theverge.com/tech/910298/ecovacs-deebot-x12-omnicyclone-robot-vacuum-mop-pretreat-ai) (2026-04-14)
+- [GoPro goes bigger and pro-er with support for Micro Four Thirds lenses](https://www.theverge.com/gadgets/911324/gopro-mission1-pro-action-video-camera-price-specs) (2026-04-14)
+- [Bloodborne is being turned into an R-rated animated film](https://www.theverge.com/entertainment/911576/bloodborne-feature-film) (2026-04-14)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: the state of AI, and protecting bears with drones](https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/) (2026-04-14)
+- [NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?](https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/) (2026-04-14)
+- [Coming soon: 10 Things That Matter in AI Right Now](https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/) (2026-04-14)
+- [The problem with thinking you’re part Neanderthal](https://www.technologyreview.com/2026/04/14/1135169/problem-thinking-part-neanderthal-human-evolution/) (2026-04-14)
 - [Why opinion on AI is so divided](https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/) (2026-04-13)
-- [Want to understand the current state of AI? Check out these charts.](https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/) (2026-04-13)
-- [The Download: how humans make decisions, and Moderna’s “vaccine” word games](https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games/) (2026-04-13)
-- [Job titles of the future: Wildlife first responder](https://www.technologyreview.com/2026/04/13/1135156/job-titles-wildlife-first-responder-wesley-sarmento/) (2026-04-13)
-- [You have no choice in reading this article—maybe](https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/) (2026-04-13)
 
 </details>
 
@@ -97,22 +97,24 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [WebRTC Video Calls Explained: Simpler Than You Think](https://dev.to/abdullahmubin/webrtc-video-calls-explained-simpler-than-you-think-158k) (2026-04-14)
-- [VoxMind: A Secure, Local-First Voice AI Agent on the Edge](https://dev.to/devansh_kalwani_509887af2/voxmind-a-secure-local-first-voice-ai-agent-on-the-edge-40lg) (2026-04-14)
-- [From Photos to Precision: Automating Quotes with AI and Video](https://dev.to/ken_deng_ai/from-photos-to-precision-automating-quotes-with-ai-and-video-2nd3) (2026-04-14)
-- [Advancing AI-Assisted Engineering Practices](https://dev.to/dglazkov/advancing-ai-assisted-engineering-practices-phf) (2026-04-14)
-- [Declarative validation: keep bad data out of your database](https://dev.to/davidlastrucci/declarative-validation-keep-bad-data-out-of-your-database-1ekk) (2026-04-14)
+- [I stopped prompting Claude Code. I gave it a team instead.](https://dev.to/rbah31/i-stopped-prompting-claude-code-i-gave-it-a-team-instead-p1g) (2026-04-14)
+- [The Soundtrack to Your Next Production Outage.
+I was on a late-night deployment call and realized we needed music that matched the stress of the peaks and valleys of those calls. So I made an EP about it.
+https://eternaltriage.bandcamp.com/](https://dev.to/stallion_creative/the-soundtrack-to-your-next-production-outage-i-was-on-a-late-night-deployment-call-and-realized-37ke) (2026-04-14)
+- [The Sovereign Architect: Why I Am Not Playing the Game of Cinema, But Building the Next Art Form by Adel Abdel-Dayem The Foundational Codifier of Synthia](https://dev.to/adel_dayem/the-sovereign-architect-why-i-am-not-playing-the-game-of-cinema-but-building-the-next-art-form-by-3k1n) (2026-04-14)
+- [Blueprint: Modernizing a Legacy C Utility with Zig as a Surgical Replacement](https://dev.to/sufyanism/blueprint-modernizing-a-legacy-c-utility-with-zig-as-a-surgical-replacement-2c3o) (2026-04-14)
+- [Why Call Quality Matters More Than Features](https://dev.to/dialphonelimited/why-call-quality-matters-more-than-features-5g1k) (2026-04-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Unity & C# Basic](https://medium.com/@schnee96s/unity-c-basic-a09e02a176f5?source=rss------programming-5) (2026-04-14)
-- [You Can’t Craft While Sprinting: The Lost “Takumi” Spirit in Software Engineering](https://appibara.medium.com/you-cant-craft-while-sprinting-the-lost-takumi-spirit-in-software-engineering-42bbf2100a4b?source=rss------programming-5) (2026-04-14)
-- [*Gayane Logic (GL4/GHL): A Quaternary Modal Logic with 4-Bit Semantics*](https://medium.com/@oganmart1980/gayane-logic-gl4-ghl-a-quaternary-modal-logic-with-4-bit-semantics-a43c2b72b50f?source=rss------programming-5) (2026-04-14)
-- [She Was 34, Unemployed, and Had Never Written a Line of Code.](https://medium.com/@qurat692/she-was-34-unemployed-and-had-never-written-a-line-of-code-713dda4eae4c?source=rss------programming-5) (2026-04-14)
-- [Vibe Coding Just Escaped Todo Apps and Entered the Real World](https://medium.com/@samurai.stateless.coder/vibe-coding-escaped-todo-apps-real-world-map-public-data-195b1553d132?source=rss------programming-5) (2026-04-14)
+- [I Trusted Claude With Production Code. It Nearly Burned Everything Down.](https://medium.com/@ryannsj/i-trusted-claude-with-production-code-it-nearly-burned-everything-down-74ea3604de47?source=rss------programming-5) (2026-04-14)
+- [When Goroutines Leak: Detection and Prevention Strategies](https://medium.com/@yaninyzwitty/when-goroutines-leak-detection-and-prevention-strategies-5709fb79c47d?source=rss------programming-5) (2026-04-14)
+- [I Built a VS Code Extension That Gives Your AI Assistant a Memory](https://medium.com/@alex12060309/i-built-a-vs-code-extension-that-gives-your-ai-assistant-a-memory-5bddfddf1fcb?source=rss------programming-5) (2026-04-14)
+- [OpenAI Scored 90% on a Benchmark It Already Said Was Broken](https://medium.com/@qayyumawan035/openai-scored-90-on-a-benchmark-it-already-said-was-broken-634dc6371ad2?source=rss------programming-5) (2026-04-14)
+- [Algorists: Programmers Who Love Art](https://medium.com/@mteheran/algorists-programmers-who-love-art-117bf2756738?source=rss------programming-5) (2026-04-14)
 
 </details>
 
@@ -306,11 +308,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Speeding up interactive rebase in JetBrains IDEs](https://blog.jetbrains.com/platform/2026/04/speeding-up-interactive-rebase-in-jetbrains-ides/) (2026-04-14)
+- [Three ways to connect an AI agent to your business data](https://blog.jetbrains.com/databao/2026/04/three-ways-to-connect-an-agent/) (2026-04-14)
 - [How (Not) to Learn Python](https://blog.jetbrains.com/pycharm/2026/04/how-not-to-learn-python/) (2026-04-10)
 - [Webinar – OSS Power-Ups: XenoAtom.Terminal.UI](https://blog.jetbrains.com/dotnet/2026/04/09/webinar-oss-power-ups-xenoatom-terminal-ui/) (2026-04-09)
 - [Using Spring Data JDBC With Kotlin](https://blog.jetbrains.com/idea/2026/04/using-spring-data-jdbc-with-kotlin/) (2026-04-09)
-- [My Journey to Agent-First Development With Air](https://blog.jetbrains.com/air/2026/04/my-journey-to-agent-first-development-with-air/) (2026-04-09)
-- [From Java to Wayland: A Pixel’s Journey](https://blog.jetbrains.com/platform/2026/04/from-java-to-wayland-a-pixel-s-journey/) (2026-04-09)
 
 </details>
 
@@ -350,11 +352,11 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Securing non-human identities: automated revocation, OAuth, and scoped permissions](https://blog.cloudflare.com/improved-developer-security/) (2026-04-14)
+- [Scaling MCP adoption: Our reference architecture for simpler, safer and cheaper enterprise deployments of MCP](https://blog.cloudflare.com/enterprise-mcp/) (2026-04-14)
+- [Managed OAuth for Access: make internal apps agent-ready in one click](https://blog.cloudflare.com/managed-oauth-for-access/) (2026-04-14)
+- [Secure private networking for everyone: users, nodes, agents, Workers — introducing Cloudflare Mesh](https://blog.cloudflare.com/mesh/) (2026-04-14)
 - [Building a CLI for all of Cloudflare](https://blog.cloudflare.com/cf-cli-local-explorer/) (2026-04-13)
-- [Durable Objects in Dynamic Workers: Give each AI-generated app its own database](https://blog.cloudflare.com/durable-object-facets-dynamic-workers/) (2026-04-13)
-- [Agents have their own computers with Sandboxes GA](https://blog.cloudflare.com/sandbox-ga/) (2026-04-13)
-- [Dynamic, identity-aware, and secure Sandbox auth](https://blog.cloudflare.com/sandbox-auth/) (2026-04-13)
-- [Welcome to Agents Week](https://blog.cloudflare.com/welcome-to-agents-week/) (2026-04-12)
 
 </details>
 
@@ -492,11 +494,11 @@ https://www.twilio.com/en-us/blog/insights/what-is-customer-engagement-platform
 <details>
 <summary>💬 Slack API</summary>
 
-- [What is a Simple CRM? Easy Tools for Small Businesses](https://slack.com/blog/crm/simple-crm-for-small-businesses) (2026-04-07)
-- [CRM for Small Business: Benefits, Top Tools, and How to Choose](https://slack.com/blog/crm/best-crm-for-small-business) (2026-04-07)
-- [What Is an Agentic OS? A Practical Guide](https://slack.com/blog/productivity/what-is-an-agentic-os) (2026-04-03)
-- [Slackbot Just Became Your Ultimate Teammate in the New Interface for Work](https://slack.com/blog/news/agent-orchestration) (2026-03-31)
-- [Building an Agent-First Workspace in Slack](https://slack.com/blog/news/agent-first-workspace-slack) (2026-03-31)
+- [What Is Team Collaboration? 10 Ways to Make It More Successful](https://slack.com/blog/collaboration/what-is-team-collaboration-10-ways-to-make-it-more-successful) (2026-04-10)
+- [Introducing Slack CRM: Conversational Customer Management for Small Businesses](https://slack.com/blog/news/slack-crm-small-business) (2026-04-09)
+- [29 Team-Building Activities for Work](https://slack.com/blog/collaboration/10-team-building-activities-strengthen-culture) (2026-04-09)
+- [What Is Scrum? Roles, Values, and How It Works](https://slack.com/blog/collaboration/scrum-meeting) (2026-04-09)
+- [What Is an AI Scheduling Assistant? Top Tools, Benefits, and Key Features](https://slack.com/blog/productivity/simplify-your-days-with-ai-scheduling-assistant) (2026-04-08)
 
 </details>
 
@@ -547,22 +549,22 @@ https://www.twilio.com/en-us/blog/insights/what-is-customer-engagement-platform
 <details>
 <summary>🤖 AI News</summary>
 
+- [SAP brings agentic AI to human capital management](https://www.artificialintelligence-news.com/news/sap-brings-agentic-ai-human-capital-management/) (2026-04-14)
+- [Canada’s Scotiabank preps for its AI future](https://www.artificialintelligence-news.com/news/canadas-scotiabank-preps-for-its-ai-future/) (2026-04-14)
+- [Hyundai expands into robotics and physical AI systems](https://www.artificialintelligence-news.com/news/hyundai-expands-into-robotics-and-physical-ai-systems/) (2026-04-14)
 - [Strengthening enterprise governance for rising edge AI workloads](https://www.artificialintelligence-news.com/news/strengthening-enterprise-governance-for-rising-edge-ai-workloads/) (2026-04-13)
 - [Companies expand AI adoption while keeping control](https://www.artificialintelligence-news.com/news/companies-expand-ai-adoption-while-keeping-control/) (2026-04-13)
-- [IBM: How robust AI governance protects enterprise margins](https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/) (2026-04-10)
-- [Why companies like Apple are building AI agents with limits](https://www.artificialintelligence-news.com/news/why-companies-like-apple-are-building-ai-agents-with-limits/) (2026-04-10)
-- [Meta has a competitive AI model but loses its open-source identity](https://www.artificialintelligence-news.com/news/meta-muse-spark-ai-model-open-source/) (2026-04-10)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How To Produce Ultra-Compact Vector Graphic Plots With Orthogonal Distance Fitting](https://towardsdatascience.com/how-to-produce-ultra-compact-vector-graphic-plots-with-orthogonal-distance-fitting/) (2026-04-14)
 - [How to Apply Claude Code to Non-technical Tasks](https://towardsdatascience.com/how-to-apply-claude-code-to-non-technical-tasks/) (2026-04-13)
 - [Your Model Isn’t Done: Understanding and Fixing Model Drift](https://towardsdatascience.com/your-model-isnt-done-understanding-and-fixing-model-drift/) (2026-04-13)
 - [Range Over Depth: A Reflection on the Role of the Data Generalist](https://towardsdatascience.com/range-over-depth-a-reflection-on-the-role-of-the-data-generalist/) (2026-04-13)
 - [I Built a Tiny Computer Inside a Transformer](https://towardsdatascience.com/i-built-a-tiny-computer-inside-a-transformer/) (2026-04-13)
-- [Stop Treating AI Memory Like a Search Problem](https://towardsdatascience.com/stop-treating-ai-memory-like-a-search-problem/) (2026-04-12)
 
 </details>
 
@@ -574,17 +576,6 @@ https://www.twilio.com/en-us/blog/insights/what-is-customer-engagement-platform
 - [Understanding BERTopic: From Raw Text to Interpretable Topics ](https://www.analyticsvidhya.com/blog/2026/04/bertopic-guide/) (2026-04-11)
 - [From Karpathy’s LLM Wiki to Graphify: AI Memory Layers are Here ](https://www.analyticsvidhya.com/blog/2026/04/graphify-guide/) (2026-04-10)
 - [10 Most Important AI Concepts Explained Simply](https://www.analyticsvidhya.com/blog/2026/04/basic-ai-concepts/) (2026-04-10)
-
-</details>
-
-<details>
-<summary>💎 KDnuggets</summary>
-
-- [Breaking Down the .claude Folder](https://www.kdnuggets.com/breaking-down-the-claude-folder) (2026-04-13)
-- [Are AI Agents Your Next Security Nightmare?](https://www.kdnuggets.com/are-ai-agents-your-next-security-nightmare) (2026-04-13)
-- [5 Best Books for Building Agentic AI Systems in 2026](https://www.kdnuggets.com/5-best-books-for-building-agentic-ai-systems-in-2026) (2026-04-13)
-- [Advanced NotebookLM Tips & Tricks for Power Users](https://www.kdnuggets.com/advanced-notebooklm-tips-tricks-for-power-users) (2026-04-10)
-- [5 Useful Things to Do with Google’s Antigravity Besides Coding](https://www.kdnuggets.com/5-useful-things-to-do-with-googles-antigravity-besides-coding) (2026-04-10)
 
 </details>
 
