@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Microsoft is working on yet another OpenClaw-like agent](https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/) (2026-04-13)
-- [Stanford report highlights growing disconnect between AI insiders and everyone else](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/) (2026-04-13)
-- [FBI announces takedown of phishing operation that targeted thousands of victims](https://techcrunch.com/2026/04/13/fbi-announces-takedown-of-phishing-operation-that-targeted-thousands-of-victims/) (2026-04-13)
-- [Booking.com confirms hackers accessed customers’ data](https://techcrunch.com/2026/04/13/booking-com-confirms-hackers-accessed-customers-data/) (2026-04-13)
-- [Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge](https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/) (2026-04-13)
+- [An Amazon warehouse worker died on the job at Oregon facility](https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility/) (2026-04-14)
+- [OpenAI has bought AI personal finance startup Hiro](https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/) (2026-04-14)
+- [Uber and Nuro begin testing premium robotaxi service in San Francisco](https://techcrunch.com/2026/04/13/uber-nuro-san-francisco-testing-premium-robotaxi-service/) (2026-04-13)
+- [Microsoft is officially killing its Outlook Lite app next month](https://techcrunch.com/2026/04/13/microsoft-is-officially-killing-its-outlook-lite-app-next-month/) (2026-04-13)
+- [Thousands of rare concert recordings are landing on the Internet Archive — listen now](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/) (2026-04-13)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Austerity Creates Fascism](https://pluralistic.net/2026/04/12/always-great/) (2026-04-13)
-- [Evaluation of Claude Mythos Preview's cyber capabilities](https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities) (2026-04-13)
-- [Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/) (2026-04-13)
-- [The Rational Conclusion of Doomerism Is Violence](https://www.campbellramble.ai/p/the-rational-conclusion) (2026-04-13)
-- [The Future of Everything Is Lies, I Guess: Safety](https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety) (2026-04-13)
+- [Lean proved this program correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html) (2026-04-14)
+- [Why it's impossible to measure England's coastline](https://www.bbc.com/travel/article/20260410-why-its-impossible-to-measure-englands-coastline) (2026-04-13)
+- [SnapState - Persistent state for AI agent workflows](https://snapstate.dev) (2026-04-13)
+- [WiiFin – Jellyfin Client for Nintendo Wii](https://github.com/fabienmillet/WiiFin) (2026-04-13)
+- [The AI revolution in math has arrived](https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/) (2026-04-13)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The Apple Watch Series 11 has returned to best-ever price](https://www.theverge.com/gadgets/911191/apple-watch-series-11-smartwatch-amazon-april-deal-sale) (2026-04-13)
-- [Xbox Game Pass &#8216;has become too expensive,’ says Microsoft’s new gaming chief in leaked memo](https://www.theverge.com/tech/911182/microsoft-xbox-game-pass-too-expensive-leaked-memo) (2026-04-13)
-- [You can make a multicolor MacBook Neo out of Apple&#8217;s spare parts](https://www.theverge.com/tech/911172/macbook-neo-apple-spare-parts-multicolor) (2026-04-13)
-- [Read OpenAI&#8217;s latest internal memo about beating the competition — including Anthropic](https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic) (2026-04-13)
-- [Slate raises $650 million to make its budget electric truck](https://www.theverge.com/transportation/911085/slate-truck-ev-fundraise-twg-global-bezos) (2026-04-13)
+- [Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&#8217;s home and OpenAI’s HQ](https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack) (2026-04-14)
+- [The Mercedes EQS returns with massive range and charging gains](https://www.theverge.com/transportation/911196/mercedes-benz-eqs-ev-range-battery-charging-2027) (2026-04-13)
+- [Justin Bieber&#8217;s YouTube Coachella set had nothing to do with who owns his music](https://www.theverge.com/entertainment/911340/justin-bieber-youtube-coachella) (2026-04-13)
+- [RAMageddon has come for Microsoft&#8217;s Surface Pro and Surface Laptop](https://www.theverge.com/tech/911322/microsoft-surface-price-increase-ram) (2026-04-13)
+- [NZXT to pay $3.45 million settlement over Flex PC rentals](https://www.theverge.com/tech/911297/nzxt-flex-pc-rental-settlement) (2026-04-13)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Slate Auto raises $650 million as production gets closer and closer](https://arstechnica.com/cars/2026/04/slate-auto-raises-650-million-as-production-gets-closer-and-closer/) (2026-04-13)
-- [Meta spins up AI version of Mark Zuckerberg to engage with employees](https://arstechnica.com/ai/2026/04/meta-spins-up-ai-version-of-mark-zuckerberg-to-engage-with-employees/) (2026-04-13)
-- [To teach in the time of ChatGPT is to know pain](https://arstechnica.com/science/2026/04/to-teach-in-the-time-of-chatgpt-is-to-know-pain/) (2026-04-13)
-- [Shock from Iran war has Trump's vision for US energy dominance flailing](https://arstechnica.com/science/2026/04/shock-from-iran-war-has-trumps-vision-for-us-energy-dominance-flailing/) (2026-04-12)
-- [AI models are terrible at betting on soccer—especially xAI Grok](https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/) (2026-04-11)
+- [Retro Rewind re-creates the glorious drudgery of working a '90s video store](https://arstechnica.com/gaming/2026/04/retro-rewind-re-creates-the-glorious-drudgery-of-working-a-90s-video-store/) (2026-04-13)
+- [Measles takes a plane to Idaho, which has worst vaccination rate in US](https://arstechnica.com/health/2026/04/airport-measles-case-reported-in-idaho-state-with-lowest-vaccination-rate/) (2026-04-13)
+- [Google shoehorned Rust into Pixel 10 modem to make legacy code safer](https://arstechnica.com/gadgets/2026/04/google-shoehorned-rust-into-pixel-10-modem-to-make-legacy-code-safer/) (2026-04-13)
+- [NZXT agrees to let customers keep their rental PCs in class-action settlement](https://arstechnica.com/gadgets/2026/04/nzxt-agrees-to-3-45-million-settlement-over-controversial-rental-pc-program/) (2026-04-13)
+- [Your tech support company runs scams. Stop—or disguise with more fraud?](https://arstechnica.com/tech-policy/2026/04/your-tech-support-company-runs-scams-stop-or-disguise-with-more-fraud/) (2026-04-13)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Un lenguaje 'perfeccionable': por qué la idea me parece hermosa y por qué va a fracasar igual](https://dev.to/jtorchia/un-lenguaje-perfeccionable-por-que-la-idea-me-parece-hermosa-y-por-que-va-a-fracasar-igual-5f78) (2026-04-13)
-- [Securing the Air-Gap: Building a Hardware-Aware Forensic Suite for ICS/OT by Rugero Tesla (404saint)](https://dev.to/null_saint/securing-the-air-gap-building-a-hardware-aware-forensic-suite-for-icsot-by-rugero-tesla-404saint-127o) (2026-04-13)
-- [Keeping your zsh config out of Copilot's terminals](https://dev.to/sourcier/keeping-your-zsh-config-out-of-copilots-terminals-4h7a) (2026-04-13)
-- [Choosing the tech stack](https://dev.to/sourcier/choosing-the-tech-stack-2fb5) (2026-04-13)
-- [Why Traditional RAG Scores 0% on Multi-Hop Queries — and What Two Lines of Code Changed](https://dev.to/emilcelestix/why-traditional-rag-scores-0-on-multi-hop-queries-and-what-two-lines-of-code-changed-2eb7) (2026-04-13)
+- [Building AI Agents That Actually Work: MCP Servers, Tool Orchestration, and Running Everything Locally](https://dev.to/kennedyraju55/building-ai-agents-that-actually-work-mcp-servers-tool-orchestration-and-running-everything-f5) (2026-04-14)
+- [Your AI Coding Assistant Is Watching Your Clipboard: A 2026 Secret Hygiene Playbook](https://dev.to/alokt/your-ai-coding-assistant-is-watching-your-clipboard-a-2026-secret-hygiene-playbook-5d3j) (2026-04-14)
+- [Concurrent Video Processing with Go Goroutines and Channels](https://dev.to/ahmet_gedik778845/concurrent-video-processing-with-go-goroutines-and-channels-3iaf) (2026-04-14)
+- [Medical Research Agent Skills: Blind Review Sanitizer](https://dev.to/the_resa/medical-research-agent-skills-blind-review-sanitizer-5e1j) (2026-04-14)
+- [O Projeto Fênix e a TI que eu vivo todos os dias](https://dev.to/lzocate-li/o-projeto-fenix-e-a-ti-que-eu-vivo-todos-os-dias-4a12) (2026-04-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Is Redis Only for Caching? 16 Ingenious Uses That Will Leave Your Colleagues Amazed](https://medium.com/@umeshcapg/is-redis-only-for-caching-16-ingenious-uses-that-will-leave-your-colleagues-amazed-7866e0b452cc?source=rss------programming-5) (2026-04-13)
-- [T-via: A Go based C2 that uses Github and notion as communication channel](https://medium.com/@lalithraghavanraghavan/t-via-a-go-based-c2-that-uses-github-and-notion-as-communication-channel-f5a04c1fbdd7?source=rss------programming-5) (2026-04-13)
-- [Turns out that `__pycache__` folder Python keeps making? That’s your compiled code.](https://medium.com/@sriraksha3337/turns-out-that-pycache-folder-python-keeps-making-thats-your-compiled-code-ddd6050a74c9?source=rss------programming-5) (2026-04-13)
-- [Spring Boot 4’s Most Underrated New Feature: Spring Data AOT Repositories](https://medium.com/@umeshcapg/spring-boot-4s-most-underrated-new-feature-spring-data-aot-repositories-f51731d940c3?source=rss------programming-5) (2026-04-13)
-- [What is SEO? Types, Learning Guide, Resources, and Benefits](https://medium.com/@mindwarezone/what-is-seo-types-learning-guide-resources-and-benefits-5644c6315082?source=rss------programming-5) (2026-04-13)
+- [The Secret Life of Claude Code: Debugging with a Partner](https://medium.com/@aaron.rose.tx/the-secret-life-of-claude-code-debugging-with-a-partner-10f03f8df99b?source=rss------programming-5) (2026-04-14)
+- [Source Code Analysis of Claude Code Skills](https://blog.stackademic.com/source-code-analysis-of-claude-code-skills-7769a29c2e99?source=rss------programming-5) (2026-04-14)
+- [The 30-Day AI Challenge: How I Made My First $1000 Online (And You Can Too)](https://medium.com/@tlotlisotsilane935/the-30-day-ai-challenge-how-i-made-my-first-1000-online-and-you-can-too-672b652db06d?source=rss------programming-5) (2026-04-14)
+- [1.1: Priori Analysis & Posterior Testing](https://medium.com/@hamirani.sahil/1-1-priori-analysis-posterior-testing-8a6613dfb2c1?source=rss------programming-5) (2026-04-14)
+- [Stop Using array_push() in PHP — Here’s What to Do Instead](https://medium.com/@annxsa/stop-using-array-push-in-php-heres-what-to-do-instead-85596963db11?source=rss------programming-5) (2026-04-14)
 
 </details>
 
@@ -146,6 +146,17 @@
 - [From RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AI](https://blogs.nvidia.com/blog/rtx-ai-garage-open-models-google-gemma-4/) (2026-04-02)
 - [Press Start on April: GeForce NOW Brings 10 Games to the Cloud](https://blogs.nvidia.com/blog/geforce-now-thursday-april-2026-games-list/) (2026-04-02)
 - [Efficiency at Scale: NVIDIA, Energy Leaders Accelerating Power‑Flexible AI Factories to Fortify the Grid](https://blogs.nvidia.com/blog/energy-efficiency-ai-factories-grid/) (2026-03-31)
+
+</details>
+
+<details>
+<summary>🍎 Apple Developer News</summary>
+
+- [Hello Developer: April 2026](https://developer.apple.com/news/?id=e1ssia6m) (2026-04-07)
+- [How Infold Games fashioned an open world for Infinity Nikki](https://developer.apple.com/news/?id=9mgkwjnm) (2026-04-03)
+- [Q&amp;A: How Plane Finder set itself up for the long haul](https://developer.apple.com/news/?id=cmd9p4g7) (2026-04-03)
+- [App Store expands support to 11 new languages](https://developer.apple.com/news/?id=97t4mt64) (2026-03-31)
+- [Updated Apple Developer Program License Agreement now available](https://developer.apple.com/news/?id=fwswmjcn) (2026-03-31)
 
 </details>
 
@@ -284,11 +295,11 @@
 <details>
 <summary>📌 Pinterest Engineering</summary>
 
+- [Scaling Recommendation Systems with Request-Level Deduplication](https://medium.com/pinterest-engineering/scaling-recommendation-systems-with-request-level-deduplication-93bd514142d9?source=rss-ef81ef829bcb------2) (2026-04-13)
 - [Performance for Everyone](https://medium.com/pinterest-engineering/performance-for-everyone-21a560260d08?source=rss-ef81ef829bcb------2) (2026-04-08)
 - [Evolution of Multi-Objective Optimization at Pinterest Home feed](https://medium.com/pinterest-engineering/evolution-of-multi-objective-optimization-at-pinterest-home-feed-06657e33cd10?source=rss-ef81ef829bcb------2) (2026-04-07)
 - [Zero-Downtime PyTorch Upgrade in Production: Approaches, Pitfalls and Lessons](https://medium.com/@Pinterest_Engineering/zero-downtime-pytorch-upgrade-in-production-approaches-pitfalls-and-lessons-db3f456dc794?source=rss-ef81ef829bcb------2) (2026-03-30)
 - [Building an MCP Ecosystem at Pinterest](https://medium.com/pinterest-engineering/building-an-mcp-ecosystem-at-pinterest-d881eb4c16f1?source=rss-ef81ef829bcb------2) (2026-03-19)
-- [Unified Context-Intent Embeddings for Scalable Text-to-SQL](https://medium.com/pinterest-engineering/unified-context-intent-embeddings-for-scalable-text-to-sql-793635e60aac?source=rss-ef81ef829bcb------2) (2026-03-06)
 
 </details>
 
@@ -437,22 +448,11 @@ https://www.twilio.com/en-us/blog/insights/what-is-customer-engagement-platform
 <details>
 <summary>🔗 GraphQL Blog</summary>
 
-- [2026 Call For Projects](https://graphql.org/blog/2026-03-12-call-for-projects) (2026-04-13)
+- [2026 Call For Projects](https://graphql.org/blog/2026-04-13-call-for-projects) (2026-04-13)
 - [GraphQL Foundation Budget Report, 2025-2026](https://graphql.org/blog/2026-04-09-graphql-foundation-budget-2026) (2026-04-09)
 - [Announcing GraphQL Days 2026](https://graphql.org/blog/2026-04-02-graphql-day-2026) (2026-04-02)
 - [A new era for GraphQL observability](https://graphql.org/blog/2026-04-01-a-new-era-for-graphql-observability) (2026-04-01)
 - [GraphQLConf is now 19-20 May 2026](https://graphql.org/blog/2026-03-17-graphqlconf-date-change) (2026-03-17)
-
-</details>
-
-<details>
-<summary>🚀 Apollo GraphQL</summary>
-
-- [View Operational Insights Within the GraphOS Platform API](https://www.apollographql.com/blog/view-operational-insights-within-the-graphos-platform-api) (2026-04-13)
-- [Your AI Agent Doesn’t Need to Research. It Needs to Know.](https://www.apollographql.com/blog/your-ai-agent-doesnt-need-to-research-it-needs-to-know) (2026-04-07)
-- [How to Orchestrate Multiple APIs for Your LLM Agent](https://www.apollographql.com/blog/how-to-orchestrate-multiple-apis-for-your-llm-agent) (2026-03-26)
-- [How To Make Your Existing GraphQL API AI-Ready With Apollo](https://www.apollographql.com/blog/how-to-make-your-existing-graphql-api-ai-ready-with-apollo) (2026-03-19)
-- [How We Taught an AI to Nitpick Docs](https://www.apollographql.com/blog/how-we-taught-an-ai-to-nitpick-docs) (2026-03-16)
 
 </details>
 
@@ -580,11 +580,11 @@ https://www.twilio.com/en-us/blog/insights/what-is-customer-engagement-platform
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [How to Implement Tool Calling with Gemma 4 and Python](https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/) (2026-04-13)
 - [Structured Outputs vs. Function Calling: Which Should Your Agent Use?](https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/) (2026-04-13)
 - [Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System](https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/) (2026-04-10)
 - [The Roadmap to Mastering Agentic AI Design Patterns](https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/) (2026-04-09)
 - [A Hands-On Guide to Testing Agents with RAGAs and G-Eval](https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/) (2026-04-08)
-- [Handling Race Conditions in Multi-Agent Orchestration](https://machinelearningmastery.com/handling-race-conditions-in-multi-agent-orchestration/) (2026-04-07)
 
 </details>
 
