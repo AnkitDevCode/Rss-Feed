@@ -20,66 +20,66 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Lucid Motors names new CEO, lands more money from Uber and Saudis](https://techcrunch.com/2026/04/14/lucid-motors-names-new-ceo-lands-more-money-from-uber-and-saudis/) (2026-04-14)
-- [Inertia moves to commercialize one of the world’s most elaborate science experiments](https://techcrunch.com/2026/04/14/inertia-moves-to-commercialize-one-of-the-worlds-most-elaborate-science-experiments/) (2026-04-14)
-- [An Amazon warehouse worker died on the job at Oregon facility](https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility/) (2026-04-14)
-- [OpenAI has bought AI personal finance startup Hiro](https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/) (2026-04-14)
-- [Uber and Nuro begin testing premium robotaxi service in San Francisco](https://techcrunch.com/2026/04/13/uber-nuro-san-francisco-testing-premium-robotaxi-service/) (2026-04-13)
+- [Someone planted backdoors in dozens of WordPress plug-ins used in thousands of websites](https://techcrunch.com/2026/04/14/someone-planted-backdoors-in-dozens-of-wordpress-plugins-used-in-thousands-of-websites/) (2026-04-14)
+- [Anthropic co-founder confirms the company briefed the Trump administration on Mythos](https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/) (2026-04-14)
+- [London gets closer to its first robotaxi service as Waymo begins testing](https://techcrunch.com/2026/04/14/london-gets-closer-to-its-first-robotaxi-service-as-waymo-begins-testing/) (2026-04-14)
+- [YouTube livestreams will now hold back ads during peak engagement to protect the vibe](https://techcrunch.com/2026/04/14/youtube-livestreams-will-now-hold-back-ads-during-peak-engagement-to-protect-the-vibe/) (2026-04-14)
+- [Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain](https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/) (2026-04-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The exponential curve behind open source backlogs](https://armanckeser.com/writing/jellyfin-flow) (2026-04-14)
-- [The Case Against Gameplay Loops](https://blog.joeyschutz.com/the-case-against-gameplay-loops/) (2026-04-14)
-- [NimConf 2026: Dates Announced, Registrations Open](https://nim-lang.org/blog/2026/04/07/nimconf-2026.html) (2026-04-14)
-- [What is jj and why should I care?](https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html) (2026-04-14)
-- [Ransomware Is Growing Three Times Faster Than the Spending Meant to Stop It](https://ciphercue.com/blog/ransomware-claims-grew-faster-than-security-spend-2025) (2026-04-14)
+- [40% of lost calories globally are from beef, needing 33 cal of feed per 1 cal](https://iopscience.iop.org/article/10.1088/2976-601X/ae4f6b) (2026-04-14)
+- [I wrote to Flock's privacy contact to opt out of their domestic spying program](https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html) (2026-04-14)
+- [OpenSSL 4.0.0](https://github.com/openssl/openssl/releases/tag/openssl-4.0.0) (2026-04-14)
+- [Show HN: Plain – The full-stack Python framework designed for humans and agents](https://github.com/dropseed/plain) (2026-04-14)
+- [Turn your best AI prompts into one-click tools in Chrome](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/) (2026-04-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The heist of iOS 26](https://www.theverge.com/tech/908476/jon-prosser-apple-liquid-glass) (2026-04-14)
-- [Alienware’s new gaming monitor offers a 240Hz QD-OLED panel for just $350](https://www.theverge.com/games/909344/alienware-aw2726dm-qdoled-240hz-gaming-monitor-affordable-price-specs) (2026-04-14)
-- [Ecovacs’ new robovac spots and pretreats dried stains using powerful jets](https://www.theverge.com/tech/910298/ecovacs-deebot-x12-omnicyclone-robot-vacuum-mop-pretreat-ai) (2026-04-14)
-- [GoPro goes bigger and pro-er with support for Micro Four Thirds lenses](https://www.theverge.com/gadgets/911324/gopro-mission1-pro-action-video-camera-price-specs) (2026-04-14)
-- [Bloodborne is being turned into an R-rated animated film](https://www.theverge.com/entertainment/911576/bloodborne-feature-film) (2026-04-14)
+- [Prime Video is bundling Apple TV Plus and Peacock for a limited time](https://www.theverge.com/streaming/911793/amazon-prime-video-apple-tv-plus-peacock-bundle) (2026-04-14)
+- [Privacy advocates want Google to stop handing consumer data over to ICE](https://www.theverge.com/news/911789/eff-google-giving-data-ice-california-new-york) (2026-04-14)
+- [The attacks on Sam Altman are a warning for the AI world](https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home) (2026-04-14)
+- [Elon Musk grilled by senator over X Money plans](https://www.theverge.com/policy/911702/elon-musk-x-money-senator-warren) (2026-04-14)
+- [You can grab LG’s B5 OLED TV for over 50 percent off right now](https://www.theverge.com/gadgets/911719/lg-b5-oled-tv-48-55-inch-best-buy-deal-sale) (2026-04-14)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Retro Rewind re-creates the glorious drudgery of working a '90s video store](https://arstechnica.com/gaming/2026/04/retro-rewind-re-creates-the-glorious-drudgery-of-working-a-90s-video-store/) (2026-04-13)
-- [Measles takes a plane to Idaho, which has worst vaccination rate in US](https://arstechnica.com/health/2026/04/airport-measles-case-reported-in-idaho-state-with-lowest-vaccination-rate/) (2026-04-13)
-- [Google shoehorned Rust into Pixel 10 modem to make legacy code safer](https://arstechnica.com/gadgets/2026/04/google-shoehorned-rust-into-pixel-10-modem-to-make-legacy-code-safer/) (2026-04-13)
-- [NZXT agrees to let customers keep their rental PCs in class-action settlement](https://arstechnica.com/gadgets/2026/04/nzxt-agrees-to-3-45-million-settlement-over-controversial-rental-pc-program/) (2026-04-13)
-- [Your tech support company runs scams. Stop—or disguise with more fraud?](https://arstechnica.com/tech-policy/2026/04/your-tech-support-company-runs-scams-stop-or-disguise-with-more-fraud/) (2026-04-13)
+- [Google introduces "Skills" in Chrome to make Gemini prompts instantly reusable](https://arstechnica.com/google/2026/04/google-introduces-skills-in-chrome-to-make-gemini-prompts-instantly-reusable/) (2026-04-14)
+- [Physicists think they've resolved the proton size puzzle](https://arstechnica.com/science/2026/04/physicists-think-theyve-resolved-the-proton-size-puzzle/) (2026-04-14)
+- [NASA chose the right crew to launch a new era of human space exploration](https://arstechnica.com/space/2026/04/rockets-and-spaceships-are-cool-but-the-humanity-of-artemis-ii-resonated-most/) (2026-04-14)
+- [Google will begin punishing sites for back button hijacking in June](https://arstechnica.com/gadgets/2026/04/websites-that-hijack-your-back-button-must-stop-by-june-15-or-face-googles-wrath/) (2026-04-14)
+- [IONNA Rechargeries are coming to more than 350 Circle K stations](https://arstechnica.com/cars/2026/04/circle-k-partners-with-ionna-to-upgrade-its-ev-charging-experience/) (2026-04-14)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Redefining the future of software engineering](https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/) (2026-04-14)
 - [The Download: the state of AI, and protecting bears with drones](https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/) (2026-04-14)
 - [NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?](https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/) (2026-04-14)
 - [Coming soon: 10 Things That Matter in AI Right Now](https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/) (2026-04-14)
 - [The problem with thinking you’re part Neanderthal](https://www.technologyreview.com/2026/04/14/1135169/problem-thinking-part-neanderthal-human-evolution/) (2026-04-14)
-- [Why opinion on AI is so divided](https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/) (2026-04-13)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code Game](https://github.blog/security/hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-secure-code-game/) (2026-04-14)
+- [How exposed is your code? Find out in minutes—for free](https://github.blog/security/application-security/how-exposed-is-your-code-find-out-in-minutes-for-free/) (2026-04-14)
 - [GitHub for Beginners: Getting started with GitHub Pages](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-pages/) (2026-04-13)
 - [GitHub Copilot CLI for Beginners: Getting started with GitHub Copilot CLI](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-getting-started-with-github-copilot-cli/) (2026-04-10)
 - [GitHub availability report: March 2026](https://github.blog/news-insights/company-news/github-availability-report-march-2026/) (2026-04-09)
-- [GitHub Universe is back: We want you to take the stage](https://github.blog/news-insights/company-news/github-universe-is-back-we-want-you-to-take-the-stage/) (2026-04-08)
-- [GitHub Copilot CLI combines model families for a second opinion](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/) (2026-04-06)
 
 </details>
 
@@ -97,24 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I stopped prompting Claude Code. I gave it a team instead.](https://dev.to/rbah31/i-stopped-prompting-claude-code-i-gave-it-a-team-instead-p1g) (2026-04-14)
-- [The Soundtrack to Your Next Production Outage.
-I was on a late-night deployment call and realized we needed music that matched the stress of the peaks and valleys of those calls. So I made an EP about it.
-https://eternaltriage.bandcamp.com/](https://dev.to/stallion_creative/the-soundtrack-to-your-next-production-outage-i-was-on-a-late-night-deployment-call-and-realized-37ke) (2026-04-14)
-- [The Sovereign Architect: Why I Am Not Playing the Game of Cinema, But Building the Next Art Form by Adel Abdel-Dayem The Foundational Codifier of Synthia](https://dev.to/adel_dayem/the-sovereign-architect-why-i-am-not-playing-the-game-of-cinema-but-building-the-next-art-form-by-3k1n) (2026-04-14)
-- [Blueprint: Modernizing a Legacy C Utility with Zig as a Surgical Replacement](https://dev.to/sufyanism/blueprint-modernizing-a-legacy-c-utility-with-zig-as-a-surgical-replacement-2c3o) (2026-04-14)
-- [Why Call Quality Matters More Than Features](https://dev.to/dialphonelimited/why-call-quality-matters-more-than-features-5g1k) (2026-04-14)
+- [The 5 Hardest Problems in Context Engineering Right Now](https://dev.to/kinlane/the-5-hardest-problems-in-context-engineering-right-now-3a38) (2026-04-14)
+- [Claude Code vs Codex](https://dev.to/100hum_patel/claude-code-vs-codex-4ndi) (2026-04-14)
+- [XMLReader vs XmlExtractKit for Real XML Extraction Tasks in PHP](https://dev.to/sbwerewolf/xmlreader-vs-xmlextractkit-for-real-xml-extraction-tasks-in-php-1c43) (2026-04-14)
+- [Building What's Next with LangChain 1.0, LangGraph 1.0, and LangSmith](https://dev.to/focused_dot_io/building-whats-next-with-langchain-10-langgraph-10-and-langsmith-9g1) (2026-04-14)
+- ["Why Are You Locking Yourselves Into LangChain?"](https://dev.to/focused_dot_io/why-are-you-locking-yourselves-into-langchain-14fh) (2026-04-14)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Trusted Claude With Production Code. It Nearly Burned Everything Down.](https://medium.com/@ryannsj/i-trusted-claude-with-production-code-it-nearly-burned-everything-down-74ea3604de47?source=rss------programming-5) (2026-04-14)
-- [When Goroutines Leak: Detection and Prevention Strategies](https://medium.com/@yaninyzwitty/when-goroutines-leak-detection-and-prevention-strategies-5709fb79c47d?source=rss------programming-5) (2026-04-14)
-- [I Built a VS Code Extension That Gives Your AI Assistant a Memory](https://medium.com/@alex12060309/i-built-a-vs-code-extension-that-gives-your-ai-assistant-a-memory-5bddfddf1fcb?source=rss------programming-5) (2026-04-14)
-- [OpenAI Scored 90% on a Benchmark It Already Said Was Broken](https://medium.com/@qayyumawan035/openai-scored-90-on-a-benchmark-it-already-said-was-broken-634dc6371ad2?source=rss------programming-5) (2026-04-14)
-- [Algorists: Programmers Who Love Art](https://medium.com/@mteheran/algorists-programmers-who-love-art-117bf2756738?source=rss------programming-5) (2026-04-14)
+- [AI Agents Explained: The 6 Concepts Shaping Intelligent Systems](https://medium.com/codex/ai-agents-explained-the-6-concepts-shaping-intelligent-systems-cdc52973a0e1?source=rss------programming-5) (2026-04-14)
+- [Prompt Engineering Is The New Programming Language](https://medium.com/@karthikkk/prompt-engineering-is-the-new-programming-language-a5aa1bad57c8?source=rss------programming-5) (2026-04-14)
+- [Here’s a clear look at the **AstroAI L7 Tire Inflator (cordless mini bike pump)**—what it is, how…](https://medium.com/@walawalkarsitaram/heres-a-clear-look-at-the-astroai-l7-tire-inflator-cordless-mini-bike-pump-what-it-is-how-c2f86da3b075?source=rss------programming-5) (2026-04-14)
+- [Caching Demystified: Redis vs Memcached Explained](https://python.plainenglish.io/caching-demystified-redis-vs-memcached-explained-95ba9f0168c0?source=rss------programming-5) (2026-04-14)
+- [Telegram groups are widely used for communication, communities, and business.](https://medium.com/@rohan.alvesh/telegram-groups-are-widely-used-for-communication-communities-and-business-0ae8b60710b0?source=rss------programming-5) (2026-04-14)
 
 </details>
 
@@ -165,11 +163,11 @@ https://eternaltriage.bandcamp.com/](https://dev.to/stallion_creative/the-soundt
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Get ready for Google I/O: Livestream schedule revealed](https://android-developers.googleblog.com/2026/04/get-ready-for-google-io-livestream-schedule-revealed.html) (2026-04-14)
 - [Test Multi-Device Interactions with the Android Emulator](https://android-developers.googleblog.com/2026/04/Test-Multi-Device-Interactions-with-the-Android-Emulator.html) (2026-04-13)
 - [Android Studio supports Gemma 4: our most capable local model for agentic coding](https://android-developers.googleblog.com/2026/04/android-studio-supports-gemma-4-local.html) (2026-04-02)
 - [Announcing Gemma 4 in the AICore Developer Preview](https://android-developers.googleblog.com/2026/04/AI-Core-Developer-Preview.html) (2026-04-02)
 - [Gemma 4: The new standard for local agentic intelligence on Android](https://android-developers.googleblog.com/2026/04/gemma-4-new-standard-for-local-agentic-intelligence.html) (2026-04-02)
-- [Increase Guidance and Control over Agent Mode with Android Studio Panda 3 ](https://android-developers.googleblog.com/2026/04/Increase-Guidance-and-Control-over-Agent-Mode-with-Android-Studio-Panda-3.html) (2026-04-02)
 
 </details>
 
@@ -231,11 +229,11 @@ https://eternaltriage.bandcamp.com/](https://dev.to/stallion_creative/the-soundt
 <details>
 <summary>🏠 Airbnb Engineering</summary>
 
+- [Privacy-first connections: Empowering social experiences at Airbnb](https://medium.com/airbnb-engineering/privacy-first-connections-empowering-social-experiences-at-airbnb-d7dec59ef960?source=rss----53c7c27702d5---4) (2026-04-14)
 - [Building a high-volume metrics pipeline with OpenTelemetry and vmagent](https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45?source=rss----53c7c27702d5---4) (2026-04-07)
 - [My Journey to Airbnb — Jonathan Woodard](https://medium.com/airbnb-engineering/my-journey-to-airbnb-jonathan-woodard-7efae28d7fa9?source=rss----53c7c27702d5---4) (2026-04-02)
 - [What COVID did to our forecasting models (and what we built to handle the next shock)](https://medium.com/airbnb-engineering/what-covid-did-to-our-forecasting-models-and-what-we-built-to-handle-the-next-shock-ccbf0e1f7fa9?source=rss----53c7c27702d5---4) (2026-03-24)
 - [From vendors to vanguard: Airbnb’s hard-won lessons in observability ownership](https://medium.com/airbnb-engineering/from-vendors-to-vanguard-airbnbs-hard-won-lessons-in-observability-ownership-3811bf6c1ac3?source=rss----53c7c27702d5---4) (2026-03-17)
-- [Recommending travel destinations to help users explore](https://medium.com/airbnb-engineering/recommending-travel-destinations-to-help-users-explore-5fa7a81654fb?source=rss----53c7c27702d5---4) (2026-03-12)
 
 </details>
 
@@ -394,12 +392,11 @@ https://www.twilio.com/en-us/blog/insights/what-is-customer-engagement-platform
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [How to Monitor Auth0 Usage Metrics](https://auth0.com/blog/how-to-monitor-auth0-usage-metrics/) (2026-04-14)
+- [How to Enable Self-Service Identity Management for B2B SaaS in Auth0](https://auth0.com/blog/how-to-enable-self-service-identity-management-b2b-saas/) (2026-04-14)
 - [OpenClaw's Credential Problem Is Not a Secrets Problem](https://auth0.com/blog/openclaw-credential-problem/) (2026-04-10)
 - [Secure Ruby on Rails RAG Applications with Auth0 FGA](https://auth0.com/blog/secure-ruby-on-rails-application-auth0-fga/) (2026-04-09)
 - [One Tenant, Unlimited Brand Experiences](https://auth0.com/blog/unlimited-brand-experiences-auth0-multiple-custom-domains/) (2026-04-08)
-- [Securing AI Document Agents with LlamaIndex and Auth0
-](https://auth0.com/blog/securing-ai-documents-llamaindex-auth0/) (2026-04-02)
-- [Scale Enterprise Teams Securely with Roles for Auth0 FGA](https://auth0.com/blog/scale-enterprise-teams-securely-roles-auth0-fga/) (2026-04-01)
 
 </details>
 
@@ -494,11 +491,11 @@ https://www.twilio.com/en-us/blog/insights/what-is-customer-engagement-platform
 <details>
 <summary>💬 Slack API</summary>
 
-- [What Is Team Collaboration? 10 Ways to Make It More Successful](https://slack.com/blog/collaboration/what-is-team-collaboration-10-ways-to-make-it-more-successful) (2026-04-10)
-- [Introducing Slack CRM: Conversational Customer Management for Small Businesses](https://slack.com/blog/news/slack-crm-small-business) (2026-04-09)
-- [29 Team-Building Activities for Work](https://slack.com/blog/collaboration/10-team-building-activities-strengthen-culture) (2026-04-09)
-- [What Is Scrum? Roles, Values, and How It Works](https://slack.com/blog/collaboration/scrum-meeting) (2026-04-09)
-- [What Is an AI Scheduling Assistant? Top Tools, Benefits, and Key Features](https://slack.com/blog/productivity/simplify-your-days-with-ai-scheduling-assistant) (2026-04-08)
+- [What is a Simple CRM? Easy Tools for Small Businesses](https://slack.com/blog/crm/simple-crm-for-small-businesses) (2026-04-07)
+- [CRM for Small Business: Benefits, Top Tools, and How to Choose](https://slack.com/blog/crm/best-crm-for-small-business) (2026-04-07)
+- [What Is an Agentic OS? A Practical Guide](https://slack.com/blog/productivity/what-is-an-agentic-os) (2026-04-03)
+- [Slackbot Just Became Your Ultimate Teammate in the New Interface for Work](https://slack.com/blog/news/agent-orchestration) (2026-03-31)
+- [Building an Agent-First Workspace in Slack](https://slack.com/blog/news/agent-first-workspace-slack) (2026-03-31)
 
 </details>
 
@@ -560,22 +557,33 @@ https://www.twilio.com/en-us/blog/insights/what-is-customer-engagement-platform
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [RAG Isn’t Enough — I Built the Missing Context Layer That Makes LLM Systems Work](https://towardsdatascience.com/rag-isnt-enough-i-built-the-missing-context-layer-that-makes-llm-systems-work/) (2026-04-14)
+- [Data Modeling for Analytics Engineers: The Complete Primer](https://towardsdatascience.com/data-modeling-for-analytics-engineers-the-complete-primer/) (2026-04-14)
+- [A Practical Guide to Choosing the Right Quantum SDK](https://towardsdatascience.com/a-practical-guide-to-choosing-the-right-quantum-sdk/) (2026-04-14)
+- [A Guide to Understanding GPUs and Maximizing GPU Utilization](https://towardsdatascience.com/a-guide-to-gpu-utilization/) (2026-04-14)
 - [How To Produce Ultra-Compact Vector Graphic Plots With Orthogonal Distance Fitting](https://towardsdatascience.com/how-to-produce-ultra-compact-vector-graphic-plots-with-orthogonal-distance-fitting/) (2026-04-14)
-- [How to Apply Claude Code to Non-technical Tasks](https://towardsdatascience.com/how-to-apply-claude-code-to-non-technical-tasks/) (2026-04-13)
-- [Your Model Isn’t Done: Understanding and Fixing Model Drift](https://towardsdatascience.com/your-model-isnt-done-understanding-and-fixing-model-drift/) (2026-04-13)
-- [Range Over Depth: A Reflection on the Role of the Data Generalist](https://towardsdatascience.com/range-over-depth-a-reflection-on-the-role-of-the-data-generalist/) (2026-04-13)
-- [I Built a Tiny Computer Inside a Transformer](https://towardsdatascience.com/i-built-a-tiny-computer-inside-a-transformer/) (2026-04-13)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Excel 101: Excel Agent Mode Explained](https://www.analyticsvidhya.com/blog/2026/04/excel-agent-mode-explained/) (2026-04-14)
+- [MiniMax M2.7 Goes Open-Weight to Let You Run Agents Locally](https://www.analyticsvidhya.com/blog/2026/04/minimax-m2-7-goes-open-weight-to-let-you-run-agents-locally/) (2026-04-14)
 - [Top 10 Gemma 4 Projects That Will Blow Your Mind](https://www.analyticsvidhya.com/blog/2026/04/top-gemma-4-projects-will-blow-your-mind/) (2026-04-13)
 - [GLM-5.1: Architecture, Benchmarks, Capabilities & How to Use It](https://www.analyticsvidhya.com/blog/2026/04/glm-5-1/) (2026-04-12)
 - [Understanding BERTopic: From Raw Text to Interpretable Topics ](https://www.analyticsvidhya.com/blog/2026/04/bertopic-guide/) (2026-04-11)
-- [From Karpathy’s LLM Wiki to Graphify: AI Memory Layers are Here ](https://www.analyticsvidhya.com/blog/2026/04/graphify-guide/) (2026-04-10)
-- [10 Most Important AI Concepts Explained Simply](https://www.analyticsvidhya.com/blog/2026/04/basic-ai-concepts/) (2026-04-10)
+
+</details>
+
+<details>
+<summary>💎 KDnuggets</summary>
+
+- [Collaborative AI Systems: Human-AI Teaming Workflows](https://www.kdnuggets.com/collaborative-ai-systems-human-ai-teaming-workflows) (2026-04-14)
+- [Top 7 Docker Compose Templates Every Developer Should Use](https://www.kdnuggets.com/top-7-docker-compose-templates-every-developer-should-use) (2026-04-14)
+- [Breaking Down the .claude Folder](https://www.kdnuggets.com/breaking-down-the-claude-folder) (2026-04-13)
+- [Are AI Agents Your Next Security Nightmare?](https://www.kdnuggets.com/are-ai-agents-your-next-security-nightmare) (2026-04-13)
+- [5 Best Books for Building Agentic AI Systems in 2026](https://www.kdnuggets.com/5-best-books-for-building-agentic-ai-systems-in-2026) (2026-04-13)
 
 </details>
 
@@ -604,11 +612,11 @@ https://www.twilio.com/en-us/blog/insights/what-is-customer-engagement-platform
 <details>
 <summary>🧠 DeepMind Blog</summary>
 
+- [Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning](https://deepmind.google/blog/gemini-robotics-er-1-6/) (2026-04-13)
 - [Gemma 4: Byte for byte, the most capable open models](https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/) (2026-04-02)
 - [Gemini 3.1 Flash Live: Making audio AI more natural and reliable](https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/) (2026-03-26)
 - [Protecting people from harmful manipulation](https://deepmind.google/blog/protecting-people-from-harmful-manipulation/) (2026-03-25)
 - [Lyria 3 Pro: Create longer tracks in more](https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/) (2026-03-25)
-- [Measuring progress toward AGI: A cognitive framework](https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/) (2026-03-17)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
