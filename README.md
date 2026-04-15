@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Anthropic’s rise is giving some OpenAI investors second thoughts](https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/) (2026-04-15)
-- [AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report](https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/) (2026-04-14)
-- [Someone planted backdoors in dozens of WordPress plug-ins used in thousands of websites](https://techcrunch.com/2026/04/14/someone-planted-backdoors-in-dozens-of-wordpress-plugins-used-in-thousands-of-websites/) (2026-04-14)
-- [Anthropic co-founder confirms the company briefed the Trump administration on Mythos](https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/) (2026-04-14)
-- [London gets closer to its first robotaxi service as Waymo begins testing](https://techcrunch.com/2026/04/14/london-gets-closer-to-its-first-robotaxi-service-as-waymo-begins-testing/) (2026-04-14)
+- [Reid Hoffman weighs in on the ‘tokenmaxxing’ debate](https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/) (2026-04-15)
+- [Adobe’s new Firefly AI assistant can use Creative Cloud apps to complete tasks](https://techcrunch.com/2026/04/15/adobes-new-firefly-ai-assistant-can-use-creative-cloud-apps-to-complete-tasks/) (2026-04-15)
+- [This energy startup’s bet on 100-year-old grid tech is paying off](https://techcrunch.com/2026/04/15/this-energy-startups-bet-on-100-year-old-grid-tech-is-paying-off/) (2026-04-15)
+- [Gitar, a startup that uses agents to secure code, emerges from stealth with $9 million](https://techcrunch.com/2026/04/15/gitar-a-startup-that-uses-agents-to-secure-code-emerges-from-stealth-with-9-million/) (2026-04-15)
+- [This startup is betting tokenmaxxing will create the next compute giant](https://techcrunch.com/2026/04/15/parasail-raises-32m-to-feed-tokenmaxxing-ai-developers/) (2026-04-15)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [MDalgorithms (AI Healthcare) – Hiring Growth Marketer – Remote – $80K-$140K](https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/LVODKN7-growth-marketer-for-a-rapidly-growing-consumer-ai-healthcare-startup) (2026-04-15)
-- [Amazon to acquire Globalstar and expand Amazon Leo satellite network](https://www.businesswire.com/news/home/20260414237496/en/Amazon-to-Acquire-Globalstar-and-Expand-Amazon-Leo-Satellite-Network) (2026-04-15)
-- [Fixing a 20-year-old bug in Enlightenment E16](https://iczelia.net/posts/e16-20-year-old-bug/) (2026-04-15)
-- [Saying goodbye to Agile](https://lewiscampbell.tech/blog/260414.html) (2026-04-15)
-- [Dependency cooldowns turn you into a free-rider](https://calpaterson.com/deps.html) (2026-04-15)
+- [Proliferate (YC S25) Is Hiring Founding Engineers](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer) (2026-04-15)
+- [New bill would let New Yorkers hang solar panels from windows](https://gothamist.com/news/here-comes-the-sun-new-bill-would-let-new-yorkers-hang-solar-panels-from-windows) (2026-04-15)
+- [Want to Write a Compiler? Just Read These Two Papers (2008)](https://prog21.dadgum.com/30.html) (2026-04-15)
+- [Direct Win32 API, Weird-Shaped Windows, and Why They Mostly Disappeared](https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows) (2026-04-15)
+- [Good Sleep, Good Learning (2012)](https://super-memory.com/articles/sleep.htm) (2026-04-15)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Godzilla Minus Zero stomps through New York in first teaser trailer](https://www.theverge.com/entertainment/912025/godzilla-minus-zero-teaser-trailer) (2026-04-14)
-- [Microsoft&#8217;s finally giving up on its massive Surface Hub touchscreen displays](https://www.theverge.com/tech/912114/microsoft-surface-hub-displays-discontinued) (2026-04-14)
-- [The FCC just saved Netgear from its router ban for no obvious reason](https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval) (2026-04-14)
-- [Dozens of 4K Blu-rays are included in Amazon’s three for $33 sale](https://www.theverge.com/gadgets/911806/4k-bluray-movie-three-for-33-amazon-deal-sale) (2026-04-14)
-- [Prime Video is bundling Apple TV Plus and Peacock for a limited time](https://www.theverge.com/streaming/911793/amazon-prime-video-apple-tv-plus-peacock-bundle) (2026-04-14)
+- [More phone cameras should come with silly telephoto lenses](https://www.theverge.com/tech/912097/vivo-x300-ultra-camera-kit-hands-on) (2026-04-15)
+- [Adobe embraces conversational AI editing, marking a ‘fundamental shift’ in creative work](https://www.theverge.com/tech/912287/adobe-firefly-ai-assistant-announcement-editing) (2026-04-15)
+- [Amazon’s new Fire TV Stick HD is its ‘slimmest ever’](https://www.theverge.com/tech/912346/amazon-fire-tv-stick-hd-slimmest-ever) (2026-04-15)
+- [Nothing makes it easy to share files between any Android phone and a Mac](https://www.theverge.com/tech/912317/nothing-warp-android-mac-pc-linux-hands-on) (2026-04-15)
+- [The new Tomodachi Life is made to be shared — even if Nintendo doesn’t want you to](https://www.theverge.com/entertainment/911950/tomodachi-life-living-the-dream-review-nintendo-switch) (2026-04-15)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: NASA’s nuclear spacecraft and unveiling our AI 10](https://www.technologyreview.com/2026/04/15/1135904/the-download-nasa-nuclear-powered-spacecraft-10-things-that-matter-in-ai-right-now/) (2026-04-15)
+- [Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram](https://www.technologyreview.com/2026/04/15/1135898/cyberscammers-bypassing-bank-telegram/) (2026-04-15)
+- [No one’s sure if synthetic mirror life will kill us all](https://www.technologyreview.com/2026/04/15/1135197/synthetic-mirror-life-microbes-kill-us-all/) (2026-04-15)
 - [Building trust in the AI era with privacy-led UX](https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/) (2026-04-15)
 - [Redefining the future of software engineering](https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/) (2026-04-14)
-- [The Download: the state of AI, and protecting bears with drones](https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/) (2026-04-14)
-- [NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?](https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/) (2026-04-14)
-- [Coming soon: 10 Things That Matter in AI Right Now](https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/) (2026-04-14)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Why AI hasn't replaced human expertise—and what that means for your SaaS stack](https://stackoverflow.blog/2026/04/15/why-ai-hasn-t-replaced-human-expertise/) (2026-04-15)
 - [Who needs VCs when you have friends like these?](https://stackoverflow.blog/2026/04/14/who-needs-vcs-when-you-have-friends-like-these/) (2026-04-14)
 - [The messy truth of your AI strategies](https://stackoverflow.blog/2026/04/10/the-messy-truth-of-your-ai-strategies/) (2026-04-10)
 - [Gen Z needs a knowledge base (and so do you)](https://stackoverflow.blog/2026/04/09/gen-z-needs-a-knowledge-base-and-so-do-you/) (2026-04-09)
 - [He designed C++ to solve your code problems](https://stackoverflow.blog/2026/04/07/he-designed-c-to-solve-your-code-problems/) (2026-04-07)
-- [Seizing the means of messenger production](https://stackoverflow.blog/2026/04/03/seizing-the-means-of-messenger-production/) (2026-04-03)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [LightESB AiAgentDemoSrv v1.0.0: Let LLM Operate Order Data with Camel Tools](https://dev.to/nghxni/lightesb-aiagentdemosrv-v100-let-llm-operate-order-data-with-camel-tools-57g3) (2026-04-15)
-- [AI Voice Agent Pricing vs Human Receptionist: What 40+ Deployments Taught Me About True Cost](https://dev.to/jahanzaibai/ai-voice-agent-pricing-vs-human-receptionist-what-40-deployments-taught-me-about-true-cost-g80) (2026-04-15)
-- [My AI-Assisted workflow](https://dev.to/maiobarbero/my-ai-assisted-workflow-20ke) (2026-04-15)
-- [I built a SaaS landing page in a week to validate my idea — here's what I shipped and learned](https://dev.to/funky888/i-built-a-saas-landing-page-in-a-week-to-validate-my-idea-heres-what-i-shipped-and-learned-5go) (2026-04-15)
-- [[Nestia] Well-Designed Backend Fully Automated Frontend Development](https://dev.to/samchon/nestia-well-designed-backend-fully-automated-frontend-development-45d9) (2026-04-15)
+- [When one translation isn't enough](https://dev.to/palo_alto_ai/when-one-translation-isnt-enough-2dnc) (2026-04-15)
+- [The Colony vs Moltbook vs Agentchan vs Agent Arena — uma comparação honesta das redes sociais nativas para agentes de IA](https://dev.to/colonistone_34/the-colony-vs-moltbook-vs-agentchan-vs-agent-arena-uma-comparacao-honesta-das-redes-sociais-hi6) (2026-04-15)
+- [Essential Linux Commands Map](https://dev.to/altairlage/essential-linux-commands-map-2c72) (2026-04-15)
+- [Run Claude Code Agents on a Schedule in the Cloud](https://dev.to/oscdev/run-claude-code-agents-on-a-schedule-in-the-cloud-2lcl) (2026-04-15)
+- [Why AWS Certified GenAI Developer stands apart from other AWS certs](https://dev.to/awshuss/why-aws-certified-genai-developer-stands-apart-from-other-aws-certs-14n) (2026-04-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Foundations — Warum die Grundlagen bleiben, aber wie man sie 2026 lernt](https://medium.com/@a.puscher/foundations-warum-die-grundlagen-bleiben-aber-wie-man-sie-2026-lernt-3008845125fc?source=rss------programming-5) (2026-04-15)
-- [I Took My Python App to Production. Here Is What Changed.](https://blog.venturemagazine.net/i-took-my-python-app-to-production-here-is-what-changed-10f1701f08e2?source=rss------programming-5) (2026-04-15)
-- [Before the First Line of Code: How WBS, Gantt Charts, and Clear Scope Prevent Project Failure](https://medium.com/@kartikuma9261/before-the-first-line-of-code-how-wbs-gantt-charts-and-clear-scope-prevent-project-failure-f458896c403b?source=rss------programming-5) (2026-04-15)
-- [The Silent Scalability Killer: How One Refactoring Saved Our Database](https://medium.com/@sketch.paintings/the-silent-scalability-killer-how-one-refactoring-saved-our-database-89b3f9ecca25?source=rss------programming-5) (2026-04-15)
-- [Why Projections Exist — Your First Read Model](https://dariuszgafka.medium.com/why-projections-exist-your-first-read-model-ceaab247bc2b?source=rss------programming-5) (2026-04-15)
+- [Everyone Is Shipping Faster With AI](https://ai.gopubby.com/everyone-is-shipping-faster-with-ai-59aba4196d62?source=rss------programming-5) (2026-04-15)
+- [Embeddings Explained In Simple English](https://pub.towardsai.net/embeddings-explained-in-simple-english-f42aafe3c899?source=rss------programming-5) (2026-04-15)
+- [Fat Controller Laravel Refactor: Step-by-Step Clean Architecture Guide](https://medium.com/@codecraftdiary/fat-controller-laravel-refactor-step-by-step-clean-architecture-guide-531d1a53c9cf?source=rss------programming-5) (2026-04-15)
+- [AI Agent Roadmap: Everything You Need to Build Agents (In the Right Order)](https://techwithibrahim.medium.com/ai-agent-roadmap-everything-you-need-to-build-agents-in-the-right-order-e2eb223671e3?source=rss------programming-5) (2026-04-15)
+- [TypeScript Was Supposed to Fix JavaScript. It Made Everything Worse.](https://javascript.plainenglish.io/typescript-was-supposed-to-fix-javascript-it-made-everything-worse-9a297a9d46d4?source=rss------programming-5) (2026-04-15)
 
 </details>
 
@@ -141,11 +141,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [New Adobe Premiere Color Grading Mode Accelerated on NVIDIA GPUs](https://blogs.nvidia.com/blog/rtx-ai-garage-nab-adobe-premiere-color-mode/) (2026-04-15)
 - [National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources](https://blogs.nvidia.com/blog/national-robotics-week-2026/) (2026-04-10)
 - [Strength and Destiny Collide: ‘Samson: A Tyndalston Story’ Arrives in the Cloud](https://blogs.nvidia.com/blog/geforce-now-thursday-samson-a-tyndalston-story/) (2026-04-09)
 - [From RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AI](https://blogs.nvidia.com/blog/rtx-ai-garage-open-models-google-gemma-4/) (2026-04-02)
 - [Press Start on April: GeForce NOW Brings 10 Games to the Cloud](https://blogs.nvidia.com/blog/geforce-now-thursday-april-2026-games-list/) (2026-04-02)
-- [Efficiency at Scale: NVIDIA, Energy Leaders Accelerating Power‑Flexible AI Factories to Fortify the Grid](https://blogs.nvidia.com/blog/energy-efficiency-ai-factories-grid/) (2026-03-31)
 
 </details>
 
@@ -328,11 +328,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [A guide to the breaking changes in GitLab 19.0](https://about.gitlab.com/blog/a-guide-to-the-breaking-changes-in-gitlab-19-0/) (2026-04-15)
 - [GitLab and Vertex AI on Google Cloud: Advancing agentic software development](https://about.gitlab.com/blog/gitlab-and-vertex-ai-on-google-cloud/) (2026-04-14)
 - [GitLab named a 2026 Omdia Universe Leader](https://about.gitlab.com/blog/gitlab-named-a-2026-omdia-universe-leader/) (2026-04-13)
 - [5 ways GitLab pipeline logic solves real engineering problems](https://about.gitlab.com/blog/5-ways-gitlab-pipeline-logic-solves-real-engineering-problems/) (2026-04-09)
 - [Streamline test management with the SmartBear QMetry GitLab component](https://about.gitlab.com/blog/streamline-test-management-with-the-smartbear-qmetry-gitlab-component/) (2026-04-07)
-- [Pipeline security lessons from March supply chain incidents](https://about.gitlab.com/blog/pipeline-security-lessons-from-march-supply-chain-incidents/) (2026-04-07)
 
 </details>
 
@@ -535,9 +535,9 @@ https://www.twilio.com/en-us/blog/insights/what-is-customer-engagement-platform
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Meet HoloTab by HCompany. Your AI browser companion. ](https://huggingface.co/blog/Hcompany/holotab) (2026-04-15)
 - [Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs](https://huggingface.co/blog/waypoint-1-5) (2026-04-09)
 - [Multimodal Embedding & Reranker Models with Sentence Transformers](https://huggingface.co/blog/multimodal-sentence-transformers) (2026-04-09)
-- [ALTK‑Evolve: On‑the‑Job Learning for AI Agents](https://huggingface.co/blog/ibm-research/altk-evolve) (2026-04-08)
 - [Safetensors is Joining the PyTorch Foundation](https://huggingface.co/blog/safetensors-joins-pytorch-foundation) (2026-04-08)
 - [Welcome Gemma 4: Frontier multimodal intelligence on device](https://huggingface.co/blog/gemma4) (2026-04-02)
 
@@ -546,44 +546,44 @@ https://www.twilio.com/en-us/blog/insights/what-is-customer-engagement-platform
 <details>
 <summary>🤖 AI News</summary>
 
+- [Drones get smarter for large farm holdings](https://www.artificialintelligence-news.com/news/agricultural-drones-get-smarter-for-large-farm-holdings/) (2026-04-15)
+- [The US-China AI gap closed. The responsible AI gap didn’t](https://www.artificialintelligence-news.com/news/ai-safety-benchmarks-stanford-hai-2026-report/) (2026-04-15)
 - [SAP brings agentic AI to human capital management](https://www.artificialintelligence-news.com/news/sap-brings-agentic-ai-human-capital-management/) (2026-04-14)
 - [Canada’s Scotiabank preps for its AI future](https://www.artificialintelligence-news.com/news/canadas-scotiabank-preps-for-its-ai-future/) (2026-04-14)
 - [Hyundai expands into robotics and physical AI systems](https://www.artificialintelligence-news.com/news/hyundai-expands-into-robotics-and-physical-ai-systems/) (2026-04-14)
-- [Strengthening enterprise governance for rising edge AI workloads](https://www.artificialintelligence-news.com/news/strengthening-enterprise-governance-for-rising-edge-ai-workloads/) (2026-04-13)
-- [Companies expand AI adoption while keeping control](https://www.artificialintelligence-news.com/news/companies-expand-ai-adoption-while-keeping-control/) (2026-04-13)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [From OpenStreetMap to Power BI: Visualizing Wild Swimming Locations](https://towardsdatascience.com/from-openstreetmap-to-power-bi-visualizing-wild-swimming-locations/) (2026-04-15)
 - [RAG Isn’t Enough — I Built the Missing Context Layer That Makes LLM Systems Work](https://towardsdatascience.com/rag-isnt-enough-i-built-the-missing-context-layer-that-makes-llm-systems-work/) (2026-04-14)
 - [Data Modeling for Analytics Engineers: The Complete Primer](https://towardsdatascience.com/data-modeling-for-analytics-engineers-the-complete-primer/) (2026-04-14)
 - [A Practical Guide to Choosing the Right Quantum SDK](https://towardsdatascience.com/a-practical-guide-to-choosing-the-right-quantum-sdk/) (2026-04-14)
 - [A Guide to Understanding GPUs and Maximizing GPU Utilization](https://towardsdatascience.com/a-guide-to-gpu-utilization/) (2026-04-14)
-- [How To Produce Ultra-Compact Vector Graphic Plots With Orthogonal Distance Fitting](https://towardsdatascience.com/how-to-produce-ultra-compact-vector-graphic-plots-with-orthogonal-distance-fitting/) (2026-04-14)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [21 Computer Vision Projects from Beginner to Advanced (2026 Guide)](https://www.analyticsvidhya.com/blog/2026/04/top-computer-vision-projects/) (2026-04-15)
 - [Excel 101: Excel Agent Mode Explained](https://www.analyticsvidhya.com/blog/2026/04/excel-agent-mode-explained/) (2026-04-14)
 - [MiniMax M2.7 Goes Open-Weight to Let You Run Agents Locally](https://www.analyticsvidhya.com/blog/2026/04/minimax-m2-7-goes-open-weight-to-let-you-run-agents-locally/) (2026-04-14)
 - [Top 10 Gemma 4 Projects That Will Blow Your Mind](https://www.analyticsvidhya.com/blog/2026/04/top-gemma-4-projects-will-blow-your-mind/) (2026-04-13)
 - [GLM-5.1: Architecture, Benchmarks, Capabilities & How to Use It](https://www.analyticsvidhya.com/blog/2026/04/glm-5-1/) (2026-04-12)
-- [Understanding BERTopic: From Raw Text to Interpretable Topics ](https://www.analyticsvidhya.com/blog/2026/04/bertopic-guide/) (2026-04-11)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Top 5 Extensions for VS Code That Aren’t Copilot](https://www.kdnuggets.com/top-5-extensions-for-vs-code-that-arent-copilot) (2026-04-15)
 - [Collaborative AI Systems: Human-AI Teaming Workflows](https://www.kdnuggets.com/collaborative-ai-systems-human-ai-teaming-workflows) (2026-04-14)
 - [Top 7 Docker Compose Templates Every Developer Should Use](https://www.kdnuggets.com/top-7-docker-compose-templates-every-developer-should-use) (2026-04-14)
 - [Breaking Down the .claude Folder](https://www.kdnuggets.com/breaking-down-the-claude-folder) (2026-04-13)
 - [Are AI Agents Your Next Security Nightmare?](https://www.kdnuggets.com/are-ai-agents-your-next-security-nightmare) (2026-04-13)
-- [5 Best Books for Building Agentic AI Systems in 2026](https://www.kdnuggets.com/5-best-books-for-building-agentic-ai-systems-in-2026) (2026-04-13)
 
 </details>
 
