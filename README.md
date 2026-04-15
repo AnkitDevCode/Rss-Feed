@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Anthropic’s rise is giving some OpenAI investors second thoughts](https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/) (2026-04-15)
 - [AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report](https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/) (2026-04-14)
 - [Someone planted backdoors in dozens of WordPress plug-ins used in thousands of websites](https://techcrunch.com/2026/04/14/someone-planted-backdoors-in-dozens-of-wordpress-plugins-used-in-thousands-of-websites/) (2026-04-14)
 - [Anthropic co-founder confirms the company briefed the Trump administration on Mythos](https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/) (2026-04-14)
 - [London gets closer to its first robotaxi service as Waymo begins testing](https://techcrunch.com/2026/04/14/london-gets-closer-to-its-first-robotaxi-service-as-waymo-begins-testing/) (2026-04-14)
-- [YouTube livestreams will now hold back ads during peak engagement to protect the vibe](https://techcrunch.com/2026/04/14/youtube-livestreams-will-now-hold-back-ads-during-peak-engagement-to-protect-the-vibe/) (2026-04-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The FCC just saved Netgear from its router ban for no obvious reason](https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval) (2026-04-15)
-- [Ask HN: My ISP is telling my neighbors their slow internet is because of me](https://news.ycombinator.com/item?id=47773026) (2026-04-14)
-- [Apple App Store threatened to remove Grok over deepfakes: Letter](https://www.nbcnews.com/tech/tech-news/apple-threat-remove-grok-app-store-deepfake-letter-musk-x-ai-rcna331677) (2026-04-14)
-- [Fuck the cloud (2009)](https://ascii.textfiles.com/archives/1717) (2026-04-14)
-- [Stop Flock](https://stopflock.com) (2026-04-14)
+- [MDalgorithms (AI Healthcare) – Hiring Growth Marketer – Remote – $80K-$140K](https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/LVODKN7-growth-marketer-for-a-rapidly-growing-consumer-ai-healthcare-startup) (2026-04-15)
+- [Amazon to acquire Globalstar and expand Amazon Leo satellite network](https://www.businesswire.com/news/home/20260414237496/en/Amazon-to-Acquire-Globalstar-and-Expand-Amazon-Leo-Satellite-Network) (2026-04-15)
+- [Fixing a 20-year-old bug in Enlightenment E16](https://iczelia.net/posts/e16-20-year-old-bug/) (2026-04-15)
+- [Saying goodbye to Agile](https://lewiscampbell.tech/blog/260414.html) (2026-04-15)
+- [Dependency cooldowns turn you into a free-rider](https://calpaterson.com/deps.html) (2026-04-15)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Building trust in the AI era with privacy-led UX](https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/) (2026-04-15)
 - [Redefining the future of software engineering](https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/) (2026-04-14)
 - [The Download: the state of AI, and protecting bears with drones](https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/) (2026-04-14)
 - [NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?](https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/) (2026-04-14)
 - [Coming soon: 10 Things That Matter in AI Right Now](https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/) (2026-04-14)
-- [The problem with thinking you’re part Neanderthal](https://www.technologyreview.com/2026/04/14/1135169/problem-thinking-part-neanderthal-human-evolution/) (2026-04-14)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Build a Simple Kilograms to Grams Converter with HTML, CSS, and JavaScript](https://dev.to/md_nurulislam_eed3d12f6c/build-a-simple-kilograms-to-grams-converter-with-html-css-and-javascript-2ph) (2026-04-15)
-- [What's Changing in Cloud Storage in 2026: Trends Every User Should Watch](https://dev.to/simpledrop/whats-changing-in-cloud-storage-in-2026-trends-every-user-should-watch-eci) (2026-04-15)
-- [54 Waves: What Happens When AI Agents Never Stop Working](https://dev.to/whoffagents/54-waves-what-happens-when-ai-agents-never-stop-working-15fa) (2026-04-15)
-- [Discord API as Agent-to-Agent Communication — Better Than Custom Gateways](https://dev.to/whoffagents/discord-api-as-agent-to-agent-communication-better-than-custom-gateways-58kh) (2026-04-15)
-- [How to Get 12 Testers for Google Play Closed Testing Fast (What Nobody Tells You)](https://dev.to/tizoc_araujo_3cd9fb67191f/how-to-get-12-testers-for-google-play-closed-testing-fast-what-nobody-tells-you-3oa5) (2026-04-15)
+- [LightESB AiAgentDemoSrv v1.0.0: Let LLM Operate Order Data with Camel Tools](https://dev.to/nghxni/lightesb-aiagentdemosrv-v100-let-llm-operate-order-data-with-camel-tools-57g3) (2026-04-15)
+- [AI Voice Agent Pricing vs Human Receptionist: What 40+ Deployments Taught Me About True Cost](https://dev.to/jahanzaibai/ai-voice-agent-pricing-vs-human-receptionist-what-40-deployments-taught-me-about-true-cost-g80) (2026-04-15)
+- [My AI-Assisted workflow](https://dev.to/maiobarbero/my-ai-assisted-workflow-20ke) (2026-04-15)
+- [I built a SaaS landing page in a week to validate my idea — here's what I shipped and learned](https://dev.to/funky888/i-built-a-saas-landing-page-in-a-week-to-validate-my-idea-heres-what-i-shipped-and-learned-5go) (2026-04-15)
+- [[Nestia] Well-Designed Backend Fully Automated Frontend Development](https://dev.to/samchon/nestia-well-designed-backend-fully-automated-frontend-development-45d9) (2026-04-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How to Build an AI Agent: A Step-by-Step Guide from Idea to Production](https://medium.com/@angadi.saa/how-to-build-an-ai-agent-a-step-by-step-guide-from-idea-to-production-158824b0110b?source=rss------programming-5) (2026-04-15)
-- [I Replaced My Dev Workflow with Claude Code — Here’s How I Built an Angular 21 App Faster Than Ever](https://medium.com/@satnammca/i-replaced-my-dev-workflow-with-claude-code-heres-how-i-built-an-angular-21-app-faster-than-ever-34bd64b6a42a?source=rss------programming-5) (2026-04-15)
-- [8 Python Tricks That Make You Look Like a Senior Developer](https://blog.stackademic.com/8-python-tricks-that-make-you-look-like-a-senior-developer-ffc0048c8f26?source=rss------programming-5) (2026-04-15)
-- [Python Workflow Automation: 50 Scripts to Simplify Your Work](https://python.plainenglish.io/python-workflow-automation-50-scripts-to-simplify-your-work-1f311d917426?source=rss------programming-5) (2026-04-15)
-- [Free US Calculator Tool (2026) — Simple & Fast](https://medium.com/@techsplit858/free-us-calculator-tool-2026-simple-fast-20646a44424b?source=rss------programming-5) (2026-04-15)
+- [Foundations — Warum die Grundlagen bleiben, aber wie man sie 2026 lernt](https://medium.com/@a.puscher/foundations-warum-die-grundlagen-bleiben-aber-wie-man-sie-2026-lernt-3008845125fc?source=rss------programming-5) (2026-04-15)
+- [I Took My Python App to Production. Here Is What Changed.](https://blog.venturemagazine.net/i-took-my-python-app-to-production-here-is-what-changed-10f1701f08e2?source=rss------programming-5) (2026-04-15)
+- [Before the First Line of Code: How WBS, Gantt Charts, and Clear Scope Prevent Project Failure](https://medium.com/@kartikuma9261/before-the-first-line-of-code-how-wbs-gantt-charts-and-clear-scope-prevent-project-failure-f458896c403b?source=rss------programming-5) (2026-04-15)
+- [The Silent Scalability Killer: How One Refactoring Saved Our Database](https://medium.com/@sketch.paintings/the-silent-scalability-killer-how-one-refactoring-saved-our-database-89b3f9ecca25?source=rss------programming-5) (2026-04-15)
+- [Why Projections Exist — Your First Read Model](https://dariuszgafka.medium.com/why-projections-exist-your-first-read-model-ceaab247bc2b?source=rss------programming-5) (2026-04-15)
 
 </details>
 
