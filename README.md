@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report](https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/) (2026-04-14)
 - [Someone planted backdoors in dozens of WordPress plug-ins used in thousands of websites](https://techcrunch.com/2026/04/14/someone-planted-backdoors-in-dozens-of-wordpress-plugins-used-in-thousands-of-websites/) (2026-04-14)
 - [Anthropic co-founder confirms the company briefed the Trump administration on Mythos](https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/) (2026-04-14)
 - [London gets closer to its first robotaxi service as Waymo begins testing](https://techcrunch.com/2026/04/14/london-gets-closer-to-its-first-robotaxi-service-as-waymo-begins-testing/) (2026-04-14)
 - [YouTube livestreams will now hold back ads during peak engagement to protect the vibe](https://techcrunch.com/2026/04/14/youtube-livestreams-will-now-hold-back-ads-during-peak-engagement-to-protect-the-vibe/) (2026-04-14)
-- [Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain](https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/) (2026-04-14)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [40% of lost calories globally are from beef, needing 33 cal of feed per 1 cal](https://iopscience.iop.org/article/10.1088/2976-601X/ae4f6b) (2026-04-14)
-- [I wrote to Flock's privacy contact to opt out of their domestic spying program](https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html) (2026-04-14)
-- [OpenSSL 4.0.0](https://github.com/openssl/openssl/releases/tag/openssl-4.0.0) (2026-04-14)
-- [Show HN: Plain – The full-stack Python framework designed for humans and agents](https://github.com/dropseed/plain) (2026-04-14)
-- [Turn your best AI prompts into one-click tools in Chrome](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/) (2026-04-14)
+- [The FCC just saved Netgear from its router ban for no obvious reason](https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval) (2026-04-15)
+- [Ask HN: My ISP is telling my neighbors their slow internet is because of me](https://news.ycombinator.com/item?id=47773026) (2026-04-14)
+- [Apple App Store threatened to remove Grok over deepfakes: Letter](https://www.nbcnews.com/tech/tech-news/apple-threat-remove-grok-app-store-deepfake-letter-musk-x-ai-rcna331677) (2026-04-14)
+- [Fuck the cloud (2009)](https://ascii.textfiles.com/archives/1717) (2026-04-14)
+- [Stop Flock](https://stopflock.com) (2026-04-14)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Godzilla Minus Zero stomps through New York in first teaser trailer](https://www.theverge.com/entertainment/912025/godzilla-minus-zero-teaser-trailer) (2026-04-14)
+- [Microsoft&#8217;s finally giving up on its massive Surface Hub touchscreen displays](https://www.theverge.com/tech/912114/microsoft-surface-hub-displays-discontinued) (2026-04-14)
+- [The FCC just saved Netgear from its router ban for no obvious reason](https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval) (2026-04-14)
+- [Dozens of 4K Blu-rays are included in Amazon’s three for $33 sale](https://www.theverge.com/gadgets/911806/4k-bluray-movie-three-for-33-amazon-deal-sale) (2026-04-14)
 - [Prime Video is bundling Apple TV Plus and Peacock for a limited time](https://www.theverge.com/streaming/911793/amazon-prime-video-apple-tv-plus-peacock-bundle) (2026-04-14)
-- [Privacy advocates want Google to stop handing consumer data over to ICE](https://www.theverge.com/news/911789/eff-google-giving-data-ice-california-new-york) (2026-04-14)
-- [The attacks on Sam Altman are a warning for the AI world](https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home) (2026-04-14)
-- [Elon Musk grilled by senator over X Money plans](https://www.theverge.com/policy/911702/elon-musk-x-money-senator-warren) (2026-04-14)
-- [You can grab LG’s B5 OLED TV for over 50 percent off right now](https://www.theverge.com/gadgets/911719/lg-b5-oled-tv-48-55-inch-best-buy-deal-sale) (2026-04-14)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Google introduces "Skills" in Chrome to make Gemini prompts instantly reusable](https://arstechnica.com/google/2026/04/google-introduces-skills-in-chrome-to-make-gemini-prompts-instantly-reusable/) (2026-04-14)
-- [Physicists think they've resolved the proton size puzzle](https://arstechnica.com/science/2026/04/physicists-think-theyve-resolved-the-proton-size-puzzle/) (2026-04-14)
-- [NASA chose the right crew to launch a new era of human space exploration](https://arstechnica.com/space/2026/04/rockets-and-spaceships-are-cool-but-the-humanity-of-artemis-ii-resonated-most/) (2026-04-14)
-- [Google will begin punishing sites for back button hijacking in June](https://arstechnica.com/gadgets/2026/04/websites-that-hijack-your-back-button-must-stop-by-june-15-or-face-googles-wrath/) (2026-04-14)
-- [IONNA Rechargeries are coming to more than 350 Circle K stations](https://arstechnica.com/cars/2026/04/circle-k-partners-with-ionna-to-upgrade-its-ev-charging-experience/) (2026-04-14)
+- [Ukraine’s military robot surge aims to offset drone risks to humans](https://arstechnica.com/ai/2026/04/ukraines-military-robot-surge-aims-to-offset-drone-risks-to-humans/) (2026-04-14)
+- [Sony killing features for antenna, set-top box users of Bravia smart TVs in May](https://arstechnica.com/gadgets/2026/04/sony-killing-features-for-antenna-set-top-box-users-of-bravia-smart-tvs-in-may/) (2026-04-14)
+- [Americans ask AI for health care. Hospitals think the answer is more chatbots.](https://arstechnica.com/health/2026/04/americans-ask-ai-for-health-care-hospitals-think-the-answer-is-more-chatbots/) (2026-04-14)
+- [Two-year-old Surface PCs get $300 price hikes as sub-$1,000 models go away](https://arstechnica.com/gadgets/2026/04/two-year-old-surface-pcs-get-300-price-hikes-as-sub-1000-models-go-away/) (2026-04-14)
+- [Apple chooses Amazon satellites for iPhone, years after rejecting Starlink offer](https://arstechnica.com/tech-policy/2026/04/amazon-to-merge-with-globalstar-become-iphones-primary-satellite-provider/) (2026-04-14)
 
 </details>
 
@@ -97,33 +97,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The 5 Hardest Problems in Context Engineering Right Now](https://dev.to/kinlane/the-5-hardest-problems-in-context-engineering-right-now-3a38) (2026-04-14)
-- [Claude Code vs Codex](https://dev.to/100hum_patel/claude-code-vs-codex-4ndi) (2026-04-14)
-- [XMLReader vs XmlExtractKit for Real XML Extraction Tasks in PHP](https://dev.to/sbwerewolf/xmlreader-vs-xmlextractkit-for-real-xml-extraction-tasks-in-php-1c43) (2026-04-14)
-- [Building What's Next with LangChain 1.0, LangGraph 1.0, and LangSmith](https://dev.to/focused_dot_io/building-whats-next-with-langchain-10-langgraph-10-and-langsmith-9g1) (2026-04-14)
-- ["Why Are You Locking Yourselves Into LangChain?"](https://dev.to/focused_dot_io/why-are-you-locking-yourselves-into-langchain-14fh) (2026-04-14)
+- [Build a Simple Kilograms to Grams Converter with HTML, CSS, and JavaScript](https://dev.to/md_nurulislam_eed3d12f6c/build-a-simple-kilograms-to-grams-converter-with-html-css-and-javascript-2ph) (2026-04-15)
+- [What's Changing in Cloud Storage in 2026: Trends Every User Should Watch](https://dev.to/simpledrop/whats-changing-in-cloud-storage-in-2026-trends-every-user-should-watch-eci) (2026-04-15)
+- [54 Waves: What Happens When AI Agents Never Stop Working](https://dev.to/whoffagents/54-waves-what-happens-when-ai-agents-never-stop-working-15fa) (2026-04-15)
+- [Discord API as Agent-to-Agent Communication — Better Than Custom Gateways](https://dev.to/whoffagents/discord-api-as-agent-to-agent-communication-better-than-custom-gateways-58kh) (2026-04-15)
+- [How to Get 12 Testers for Google Play Closed Testing Fast (What Nobody Tells You)](https://dev.to/tizoc_araujo_3cd9fb67191f/how-to-get-12-testers-for-google-play-closed-testing-fast-what-nobody-tells-you-3oa5) (2026-04-15)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [AI Agents Explained: The 6 Concepts Shaping Intelligent Systems](https://medium.com/codex/ai-agents-explained-the-6-concepts-shaping-intelligent-systems-cdc52973a0e1?source=rss------programming-5) (2026-04-14)
-- [Prompt Engineering Is The New Programming Language](https://medium.com/@karthikkk/prompt-engineering-is-the-new-programming-language-a5aa1bad57c8?source=rss------programming-5) (2026-04-14)
-- [Here’s a clear look at the **AstroAI L7 Tire Inflator (cordless mini bike pump)**—what it is, how…](https://medium.com/@walawalkarsitaram/heres-a-clear-look-at-the-astroai-l7-tire-inflator-cordless-mini-bike-pump-what-it-is-how-c2f86da3b075?source=rss------programming-5) (2026-04-14)
-- [Caching Demystified: Redis vs Memcached Explained](https://python.plainenglish.io/caching-demystified-redis-vs-memcached-explained-95ba9f0168c0?source=rss------programming-5) (2026-04-14)
-- [Telegram groups are widely used for communication, communities, and business.](https://medium.com/@rohan.alvesh/telegram-groups-are-widely-used-for-communication-communities-and-business-0ae8b60710b0?source=rss------programming-5) (2026-04-14)
+- [How to Build an AI Agent: A Step-by-Step Guide from Idea to Production](https://medium.com/@angadi.saa/how-to-build-an-ai-agent-a-step-by-step-guide-from-idea-to-production-158824b0110b?source=rss------programming-5) (2026-04-15)
+- [I Replaced My Dev Workflow with Claude Code — Here’s How I Built an Angular 21 App Faster Than Ever](https://medium.com/@satnammca/i-replaced-my-dev-workflow-with-claude-code-heres-how-i-built-an-angular-21-app-faster-than-ever-34bd64b6a42a?source=rss------programming-5) (2026-04-15)
+- [8 Python Tricks That Make You Look Like a Senior Developer](https://blog.stackademic.com/8-python-tricks-that-make-you-look-like-a-senior-developer-ffc0048c8f26?source=rss------programming-5) (2026-04-15)
+- [Python Workflow Automation: 50 Scripts to Simplify Your Work](https://python.plainenglish.io/python-workflow-automation-50-scripts-to-simplify-your-work-1f311d917426?source=rss------programming-5) (2026-04-15)
+- [Free US Calculator Tool (2026) — Simple & Fast](https://medium.com/@techsplit858/free-us-calculator-tool-2026-simple-fast-20646a44424b?source=rss------programming-5) (2026-04-15)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [AWS Interconnect is now generally available, with a new option to simplify last-mile connectivity](https://aws.amazon.com/blogs/aws/aws-interconnect-is-now-generally-available-with-a-new-option-to-simplify-last-mile-connectivity/) (2026-04-14)
 - [AWS Weekly Roundup: Claude Mythos Preview in Amazon Bedrock, AWS Agent Registry, and more (April 13, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-mythos-preview-in-amazon-bedrock-aws-agent-registry-and-more-april-13-2026/) (2026-04-13)
 - [Launching S3 Files, making S3 buckets accessible as file systems](https://aws.amazon.com/blogs/aws/launching-s3-files-making-s3-buckets-accessible-as-file-systems/) (2026-04-07)
 - [AWS Weekly Roundup: AWS DevOps Agent & Security Agent GA, Product Lifecycle updates, and more (April 6, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-devops-agent-security-agent-ga-product-lifecycle-updates-and-more-april-6-2026/) (2026-04-06)
 - [Amazon Bedrock Guardrails supports cross-account safeguards with centralized control and management](https://aws.amazon.com/blogs/aws/amazon-bedrock-guardrails-supports-cross-account-safeguards-with-centralized-control-and-management/) (2026-04-03)
-- [Announcing managed daemon support for Amazon ECS Managed Instances](https://aws.amazon.com/blogs/aws/announcing-managed-daemon-support-for-amazon-ecs-managed-instances/) (2026-04-01)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Why We Chose the Harder Path: Docker Hardened Images, One Year Later](https://www.docker.com/blog/why-we-chose-the-harder-path-docker-hardened-images-one-year-later/) (2026-04-14)
 - [How to Analyze Hugging Face for Arm64 Readiness](https://www.docker.com/blog/how-to-analyze-hugging-face-for-arm64-readiness/) (2026-04-13)
 - [Reclaim Developer Hours through Smarter Vulnerability Prioritization with Docker and Mend.io](https://www.docker.com/blog/reclaim-developer-hours-through-smarter-vulnerability-prioritization-with-docker-and-mend-io/) (2026-04-08)
 - [Defending Your Software Supply Chain: What Every Engineering Team Should Do Now](https://www.docker.com/blog/defending-your-software-supply-chain-what-every-engineering-team-should-do-now/) (2026-04-02)
 - [Gemma 4 is Here: Now Available on Docker Hub](https://www.docker.com/blog/gemma4-dockerhub/) (2026-04-02)
-- [Docker Offload now Generally Available: The Full Power of Docker, for Every Developer, Everywhere.](https://www.docker.com/blog/docker-offload-now-generally-available-the-full-power-of-docker-for-every-developer-everywhere/) (2026-04-02)
 
 </details>
 
@@ -328,11 +328,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [GitLab and Vertex AI on Google Cloud: Advancing agentic software development](https://about.gitlab.com/blog/gitlab-and-vertex-ai-on-google-cloud/) (2026-04-14)
 - [GitLab named a 2026 Omdia Universe Leader](https://about.gitlab.com/blog/gitlab-named-a-2026-omdia-universe-leader/) (2026-04-13)
 - [5 ways GitLab pipeline logic solves real engineering problems](https://about.gitlab.com/blog/5-ways-gitlab-pipeline-logic-solves-real-engineering-problems/) (2026-04-09)
 - [Streamline test management with the SmartBear QMetry GitLab component](https://about.gitlab.com/blog/streamline-test-management-with-the-smartbear-qmetry-gitlab-component/) (2026-04-07)
 - [Pipeline security lessons from March supply chain incidents](https://about.gitlab.com/blog/pipeline-security-lessons-from-march-supply-chain-incidents/) (2026-04-07)
-- [GitLab Duo CLI: Agentic AI for the development lifecycle, now in the terminal](https://about.gitlab.com/blog/gitlab-duo-cli/) (2026-04-07)
 
 </details>
 
@@ -491,11 +491,11 @@ https://www.twilio.com/en-us/blog/insights/what-is-customer-engagement-platform
 <details>
 <summary>💬 Slack API</summary>
 
-- [What is a Simple CRM? Easy Tools for Small Businesses](https://slack.com/blog/crm/simple-crm-for-small-businesses) (2026-04-07)
-- [CRM for Small Business: Benefits, Top Tools, and How to Choose](https://slack.com/blog/crm/best-crm-for-small-business) (2026-04-07)
-- [What Is an Agentic OS? A Practical Guide](https://slack.com/blog/productivity/what-is-an-agentic-os) (2026-04-03)
-- [Slackbot Just Became Your Ultimate Teammate in the New Interface for Work](https://slack.com/blog/news/agent-orchestration) (2026-03-31)
-- [Building an Agent-First Workspace in Slack](https://slack.com/blog/news/agent-first-workspace-slack) (2026-03-31)
+- [What Is Team Collaboration? 10 Ways to Make It More Successful](https://slack.com/blog/collaboration/what-is-team-collaboration-10-ways-to-make-it-more-successful) (2026-04-10)
+- [Introducing Slack CRM: Conversational Customer Management for Small Businesses](https://slack.com/blog/news/slack-crm-small-business) (2026-04-09)
+- [29 Team-Building Activities for Work](https://slack.com/blog/collaboration/10-team-building-activities-strengthen-culture) (2026-04-09)
+- [What Is Scrum? Roles, Values, and How It Works](https://slack.com/blog/collaboration/scrum-meeting) (2026-04-09)
+- [What Is an AI Scheduling Assistant? Top Tools, Benefits, and Key Features](https://slack.com/blog/productivity/simplify-your-days-with-ai-scheduling-assistant) (2026-04-08)
 
 </details>
 
