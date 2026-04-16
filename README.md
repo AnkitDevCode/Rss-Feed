@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Universal Constraint Engine: Neuromorphic Computing Without Neural Networks](https://zenodo.org/records/19600206) (2026-04-15)
-- [YouTube now lets you turn off Shorts](https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes) (2026-04-15)
-- [Atlassian defends firing engineer for suggesting CEO is 'rich jerk'](https://www.afr.com/technology/atlassian-defends-firing-engineer-for-suggesting-ceo-is-rich-jerk-20260317-p5ob1w) (2026-04-15)
-- [I made a terminal pager](https://theleo.zone/posts/pager/) (2026-04-15)
-- [Ohio prison inmates 'built computers and hid them in ceiling (2017)](https://www.bbc.com/news/technology-39576394) (2026-04-15)
+- [RamAIn (YC W26) Is Hiring](https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead) (2026-04-16)
+- [Sal Khan's AI revolution hasn't happened yet](https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/) (2026-04-16)
+- [Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus](https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45) (2026-04-16)
+- [A Look into NaviDial, Japan's Legacy Phone Service](https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service) (2026-04-16)
+- [Darkbloom – Private inference on idle Macs](https://darkbloom.dev) (2026-04-16)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [RustDesk Server on Windows without Docker](https://dev.to/matbanik/rustdesk-server-on-windows-without-docker-gi6) (2026-04-16)
-- [Processing High Frequency Solar Data Without HPC: Real Constraints and Design Decisions in MackSun](https://dev.to/wilians_conde_6d4bbc5eed2/processing-high-frequency-solar-data-without-hpc-real-constraints-and-design-decisions-in-macksun-3ikf) (2026-04-16)
-- [“Negative” views of Broadcom driving thousands of VMware migrations, rival says](https://dev.to/steffen_kirkegaard_ae9a47/negative-views-of-broadcom-driving-thousands-of-vmware-migrations-rival-says-438) (2026-04-16)
-- [Building a Sub-Microsecond Cache for a Billion-User Mining Platform](https://dev.to/h33ai/building-a-sub-microsecond-cache-for-a-billion-user-mining-platform-4j67) (2026-04-16)
-- [Our Stripe Delivery Pipeline — From Checkout to Download in 30 Seconds](https://dev.to/whoffagents/our-stripe-delivery-pipeline-from-checkout-to-download-in-30-seconds-5fno) (2026-04-16)
+- [I Stopped Struggling with SSH — Thanks to Termius](https://dev.to/ferryops/i-stopped-struggling-with-ssh-thanks-to-termius-3m8p) (2026-04-16)
+- [Autonomous Multi-Agent AI for Mega Crowd Management](https://dev.to/dev200413y/autonomous-multi-agent-ai-for-mega-crowd-management-24pg) (2026-04-16)
+- [How to build a checkout page](https://dev.to/charlielambert/how-to-build-an-easy-checkout-page-4bi9) (2026-04-16)
+- [Angular SSR + Hydration + Incremental Hydration: A Practical Mental Model](https://dev.to/dhruvjoshi9/angular-ssr-hydration-incremental-hydration-a-practical-mental-model-1m40) (2026-04-16)
+- [Hermes Searched 4 Platforms at Once. I Just Told It What I Wanted.](https://dev.to/senke0x/hermes-searched-4-platforms-at-once-i-just-told-it-what-i-wanted-b9g) (2026-04-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Everyone Said AI Would Take Engineering Jobs. They Were Right.](https://medium.com/vibe-coding/everyone-said-ai-would-take-engineering-jobs-they-were-right-3a3ae50c62f6?source=rss------programming-5) (2026-04-16)
-- [Saros File Size Revealed — You Might Need to Clear Some Space ](https://medium.com/@lordsky.gg/saros-file-size-revealed-you-might-need-to-clear-some-space-386c178670ce?source=rss------programming-5) (2026-04-16)
-- [The Standing State of Happiness](https://medium.com/@leonsp3/the-standing-state-of-happiness-152387482de0?source=rss------programming-5) (2026-04-16)
-- [I Built a CLI That Previews Any JS Project Automatically](https://medium.com/@k.himanshu2002/i-built-a-cli-that-previews-any-js-project-automatically-c908f7e71f73?source=rss------programming-5) (2026-04-16)
-- [A Universal Strategy for Error Handling: Classify the Failure, Choose the Response](https://code.likeagirl.io/a-universal-strategy-for-error-handling-classify-the-failure-choose-the-response-06c79f5aae76?source=rss------programming-5) (2026-04-16)
+- [Hackers don’t need your password anymore.](https://medium.com/@paritoshblogs/hackers-dont-need-your-password-anymore-d76b3f290d0d?source=rss------programming-5) (2026-04-16)
+- [The Secret Life of AWS: The Invisible Thread (AWS X-Ray)](https://medium.com/@aaron.rose.tx/the-secret-life-of-aws-the-invisible-thread-aws-x-ray-43f7d6d1c824?source=rss------programming-5) (2026-04-16)
+- [Why Writing Code Every Day Made Me Worse at First](https://medium.com/@uzmashoukat0052/why-writing-code-every-day-made-me-worse-at-first-cc36daaa4b63?source=rss------programming-5) (2026-04-16)
+- [Python Homework Help Online: A CS Student’s Guide to Debugging, Deadlines, and Not Losing Your Mind](https://medium.com/@emilycarter7979/python-homework-help-online-a-cs-students-guide-to-debugging-deadlines-and-not-losing-your-mind-cea88cd99b44?source=rss------programming-5) (2026-04-16)
+- [Why Your Black Duck Scan Shows 80 Vulnerabilities (And Why You Shouldn’t Panic)](https://medium.com/@veggypr/why-your-black-duck-scan-shows-80-vulnerabilities-and-why-you-shouldnt-panic-2d580aa1c223?source=rss------programming-5) (2026-04-16)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Optimize object storage costs automatically with smart tier—now generally available](https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/) (2026-04-14)
 - [Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/) (2026-04-09)
 - [How Drasi used GitHub Copilot to find documentation bugs](https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/) (2026-04-09)
 - [Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value](https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/) (2026-04-08)
 - [Azure IaaS: Keep critical applications running with built-in resiliency at scale](https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/) (2026-04-01)
+- [Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver Azure Local on Galleon modular datacenters](https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/) (2026-03-31)
 
 </details>
 
@@ -491,11 +491,11 @@ https://www.twilio.com/en-us/blog/insights/data-governance-competitive-advantage
 <details>
 <summary>💬 Slack API</summary>
 
-- [What Is Team Collaboration? 10 Ways to Make It More Successful](https://slack.com/blog/collaboration/what-is-team-collaboration-10-ways-to-make-it-more-successful) (2026-04-10)
-- [Introducing Slack CRM: Conversational Customer Management for Small Businesses](https://slack.com/blog/news/slack-crm-small-business) (2026-04-09)
-- [29 Team-Building Activities for Work](https://slack.com/blog/collaboration/10-team-building-activities-strengthen-culture) (2026-04-09)
-- [What Is Scrum? Roles, Values, and How It Works](https://slack.com/blog/collaboration/scrum-meeting) (2026-04-09)
-- [What Is an AI Scheduling Assistant? Top Tools, Benefits, and Key Features](https://slack.com/blog/productivity/simplify-your-days-with-ai-scheduling-assistant) (2026-04-08)
+- [Slack is where your team works. Now it’s where your agents work too.](https://slack.com/blog/news/slack-is-where-agents-work) (2026-04-15)
+- [Instant Messaging: Transforming How We Talk at Work](https://slack.com/blog/collaboration/instant-messaging-transforming-how-we-talk-at-work) (2026-04-14)
+- [Conversational CRM: What It Is and Why It Matters](https://slack.com/blog/crm/conversational-crm) (2026-04-14)
+- [Real-World CRM Examples Across Sales, Service, and Marketing](https://slack.com/blog/crm/crm-examples) (2026-04-14)
+- [What is a Project Cycle, and How Do You Manage Its Stages?](https://slack.com/blog/productivity/project-cycle-management-guide) (2026-04-13)
 
 </details>
 
