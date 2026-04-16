@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Hightouch reaches $100M ARR fueled by marketing tools powered by AI](https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/) (2026-04-15)
-- [LinkedIn data shows AI isn’t to blame for hiring decline… yet](https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/) (2026-04-15)
-- [Feds will require data centers to show their power bills](https://techcrunch.com/2026/04/15/feds-will-require-data-centers-to-show-their-power-bills/) (2026-04-15)
-- [AI learning app Gizmo levels up with 13M users and a $22M investment](https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/) (2026-04-15)
-- [Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers](https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/) (2026-04-15)
+- [Amazon-backed X-energy files to raise up to $800M in IPO](https://techcrunch.com/2026/04/15/amazon-backed-x-energy-files-to-raise-up-to-800m-in-ipo/) (2026-04-15)
+- [Ford EV and tech chief leaving automaker](https://techcrunch.com/2026/04/15/ford-ev-and-tech-chief-leaving-automaker/) (2026-04-15)
+- [Wait, could they still actually break up Live Nation?](https://techcrunch.com/2026/04/15/wait-could-they-still-actually-break-up-live-nation/) (2026-04-15)
+- [Monarch Tractor’s collapse ends with an acquisition by Caterpillar](https://techcrunch.com/2026/04/15/monarch-tractors-collapse-ends-in-with-an-acquisition-by-caterpillar/) (2026-04-15)
+- [OpenAI updates its Agents SDK to help enterprises build safer, more capable agents](https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/) (2026-04-15)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Thomson Reuters Fired Worker for Speaking Out About ICE, Former Employee Says](https://www.404media.co/thomson-reuters-fired-worker-for-speaking-out-about-ice-former-employee-says/) (2026-04-15)
-- [AI-Assisted Cognition Endangers Human Development](https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/) (2026-04-15)
-- [Kalshi CEO expects US DOJ to prosecute insider trading cases](https://www.semafor.com/article/04/15/2026/kalshi-ceo-tarek-mansour-expects-us-doj-to-prosecute-insider-trading-cases) (2026-04-15)
-- [Google Broke Its Promise to Me. Now ICE Has My Data](https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data) (2026-04-15)
-- [CPUs Aren't Dead. Gemma2B Out Scored GPT-3.5 Turbo on Test That Made It Famous](https://seqpu.com/CPUsArentDead/) (2026-04-15)
+- [The Universal Constraint Engine: Neuromorphic Computing Without Neural Networks](https://zenodo.org/records/19600206) (2026-04-15)
+- [YouTube now lets you turn off Shorts](https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes) (2026-04-15)
+- [Atlassian defends firing engineer for suggesting CEO is 'rich jerk'](https://www.afr.com/technology/atlassian-defends-firing-engineer-for-suggesting-ceo-is-rich-jerk-20260317-p5ob1w) (2026-04-15)
+- [I made a terminal pager](https://theleo.zone/posts/pager/) (2026-04-15)
+- [Ohio prison inmates 'built computers and hid them in ceiling (2017)](https://www.bbc.com/news/technology-39576394) (2026-04-15)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Ticketmaster is an illegal monopoly, jury rules](https://www.theverge.com/policy/912689/live-nation-ticketmaster-antitrust-monopoly-trial-verdict) (2026-04-15)
+- [YouTube now lets you turn off Shorts](https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes) (2026-04-15)
+- [Ford’s EV and software chief Doug Field is leaving the company](https://www.theverge.com/transportation/912647/ford-doug-field-leaving-ev-software) (2026-04-15)
+- [Trump’s posting even more AI-generated Trump-Jesus fan art](https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme) (2026-04-15)
+- [Ticketmaster is an illegal monopoly, jury finds](https://www.theverge.com/policy/912689/live-nation-ticketmaster-antitrust-monopoly-trial-verdict) (2026-04-15)
 - [FTC pushes ad agencies into dropping brand safety rules](https://www.theverge.com/policy/912680/ftc-ad-agency-settlement-trust-safety) (2026-04-15)
-- [Ikea&#8217;s smart donut lamp is a sweet treat](https://www.theverge.com/tech/911809/ikea-varmblixt-smart-donut-lamp-review-matter-thread) (2026-04-15)
-- [Google launches a Gemini AI app on Mac](https://www.theverge.com/tech/912638/google-gemini-mac-app) (2026-04-15)
-- [Microsoft counters the MacBook Neo with freebies for students](https://www.theverge.com/news/912639/microsoft-counters-the-macbook-neo-with-freebies-for-students) (2026-04-15)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Space Force looks at moving "significant number" of launches from ULA to SpaceX](https://arstechnica.com/space/2026/04/space-force-looks-at-moving-significant-number-of-launches-from-ula-to-spacex/) (2026-04-15)
-- [FCC exempts Netgear from ban on foreign routers, doesn't explain why](https://arstechnica.com/tech-policy/2026/04/fcc-exempts-netgear-from-ban-on-foreign-routers-doesnt-explain-why/) (2026-04-15)
-- [Adobe takes Creative Cloud into Claude Code-esque territory](https://arstechnica.com/ai/2026/04/adobe-takes-creative-cloud-into-claude-code-esque-territory/) (2026-04-15)
-- [US jobs too important to risk Chinese car imports, says Ford CEO](https://arstechnica.com/cars/2026/04/us-jobs-too-important-to-risk-chinese-car-imports-says-ford-ceo/) (2026-04-15)
-- [Good Omens S3 trailer sets up a blessed conclusion](https://arstechnica.com/culture/2026/04/good-omens-s3-trailer-sets-up-a-blessed-conclusion/) (2026-04-15)
+- [Florida surgeon charged with killing man after removing liver instead of spleen](https://arstechnica.com/health/2026/04/florida-surgeon-charged-with-killing-man-after-removing-liver-instead-of-spleen/) (2026-04-15)
+- [Jury finds Live Nation/Ticketmaster is illegal monopoly that overcharged fans](https://arstechnica.com/tech-policy/2026/04/jury-finds-live-nation-ticketmaster-is-illegal-monopoly-that-overcharged-fans/) (2026-04-15)
+- ["TotalRecall Reloaded" tool finds a side entrance to Windows 11's Recall database](https://arstechnica.com/gadgets/2026/04/totalrecall-reloaded-tool-finds-a-side-entrance-to-windows-11s-recall-database/) (2026-04-15)
+- [Google releases new apps for Windows and MacOS](https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/) (2026-04-15)
+- [Boston Dynamics’ robot dog now reads gauges and thermometers with Google's AI](https://arstechnica.com/ai/2026/04/robot-dogs-now-read-gauges-and-thermometers-using-google-gemini/) (2026-04-15)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Build an AI Assistant Web App Using Streamlit](https://dev.to/code_with_me/build-an-ai-assistant-web-app-using-streamlit-2gof) (2026-04-15)
-- [SFMC Data Extension Sync: Monitoring Hidden Delays](https://dev.to/martechmon01/sfmc-data-extension-sync-monitoring-hidden-delays-16kf) (2026-04-15)
-- [Claude Mythos Preview: Capability, Cybersecurity, and the Governance Gap](https://dev.to/bordercansado/claude-mythos-preview-capability-cybersecurity-and-the-governance-gap-4o6g) (2026-04-15)
-- [Making AI Work With Humans — Not Against Them](https://dev.to/hema_nambi_66c9/making-ai-work-with-humans-not-against-them-9b8) (2026-04-15)
-- [Turning JPGs into Excel… because why not? 😂](https://dev.to/tlaloces/turning-jpgs-into-excel-because-why-not-4c0n) (2026-04-15)
+- [RustDesk Server on Windows without Docker](https://dev.to/matbanik/rustdesk-server-on-windows-without-docker-gi6) (2026-04-16)
+- [Processing High Frequency Solar Data Without HPC: Real Constraints and Design Decisions in MackSun](https://dev.to/wilians_conde_6d4bbc5eed2/processing-high-frequency-solar-data-without-hpc-real-constraints-and-design-decisions-in-macksun-3ikf) (2026-04-16)
+- [“Negative” views of Broadcom driving thousands of VMware migrations, rival says](https://dev.to/steffen_kirkegaard_ae9a47/negative-views-of-broadcom-driving-thousands-of-vmware-migrations-rival-says-438) (2026-04-16)
+- [Building a Sub-Microsecond Cache for a Billion-User Mining Platform](https://dev.to/h33ai/building-a-sub-microsecond-cache-for-a-billion-user-mining-platform-4j67) (2026-04-16)
+- [Our Stripe Delivery Pipeline — From Checkout to Download in 30 Seconds](https://dev.to/whoffagents/our-stripe-delivery-pipeline-from-checkout-to-download-in-30-seconds-5fno) (2026-04-16)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [A CISO’s Take on “Your Agent Is Mine”](https://medium.com/@nicdcorder/a-cisos-take-on-your-agent-is-mine-0504331a94f5?source=rss------programming-5) (2026-04-15)
-- [MCP for Backend Engineers: When to Use It (and When to Skip It)](https://pub.towardsai.net/mcp-for-backend-engineers-when-to-use-it-and-when-to-skip-it-a9d3f1910633?source=rss------programming-5) (2026-04-15)
-- [Introducing Narrative to Software Structure](https://gazblair.medium.com/introducing-narrative-to-software-structure-ad6315c0a850?source=rss------programming-5) (2026-04-15)
-- [The Best AI Dev Teams Won’t Win With Better Prompts. They’ll Win With Better Memory](https://medium.com/@jbiskur/the-best-ai-dev-teams-wont-win-with-better-prompts-they-ll-win-with-better-memory-8ac6b4b7fe58?source=rss------programming-5) (2026-04-15)
-- [Getting Started with Multiple Providers in Terraform](https://medium.com/@dafaladexy/getting-started-with-multiple-providers-in-terraform-dff4e8167565?source=rss------programming-5) (2026-04-15)
+- [Everyone Said AI Would Take Engineering Jobs. They Were Right.](https://medium.com/vibe-coding/everyone-said-ai-would-take-engineering-jobs-they-were-right-3a3ae50c62f6?source=rss------programming-5) (2026-04-16)
+- [Saros File Size Revealed — You Might Need to Clear Some Space ](https://medium.com/@lordsky.gg/saros-file-size-revealed-you-might-need-to-clear-some-space-386c178670ce?source=rss------programming-5) (2026-04-16)
+- [The Standing State of Happiness](https://medium.com/@leonsp3/the-standing-state-of-happiness-152387482de0?source=rss------programming-5) (2026-04-16)
+- [I Built a CLI That Previews Any JS Project Automatically](https://medium.com/@k.himanshu2002/i-built-a-cli-that-previews-any-js-project-automatically-c908f7e71f73?source=rss------programming-5) (2026-04-16)
+- [A Universal Strategy for Error Handling: Classify the Failure, Choose the Response](https://code.likeagirl.io/a-universal-strategy-for-error-handling-classify-the-failure-choose-the-response-06c79f5aae76?source=rss------programming-5) (2026-04-16)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Optimize object storage costs automatically with smart tier—now generally available](https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/) (2026-04-14)
 - [Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/) (2026-04-09)
 - [How Drasi used GitHub Copilot to find documentation bugs](https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/) (2026-04-09)
 - [Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value](https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/) (2026-04-08)
 - [Azure IaaS: Keep critical applications running with built-in resiliency at scale](https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/) (2026-04-01)
-- [Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver Azure Local on Galleon modular datacenters](https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/) (2026-03-31)
 
 </details>
 
@@ -540,6 +540,17 @@ https://www.twilio.com/en-us/blog/insights/data-governance-competitive-advantage
 - [Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs](https://huggingface.co/blog/waypoint-1-5) (2026-04-09)
 - [Multimodal Embedding & Reranker Models with Sentence Transformers](https://huggingface.co/blog/multimodal-sentence-transformers) (2026-04-09)
 - [Safetensors is Joining the PyTorch Foundation](https://huggingface.co/blog/safetensors-joins-pytorch-foundation) (2026-04-08)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Commvault launches a ‘Ctrl-Z’ for cloud AI workloads](https://www.artificialintelligence-news.com/news/commvault-launches-ctrl-z-for-cloud-ai-workloads/) (2026-04-15)
+- [Citizen developers now have their own Wingman](https://www.artificialintelligence-news.com/news/citizen-developers-now-have-their-own-wingman/) (2026-04-15)
+- [Drones get smarter for large farm holdings](https://www.artificialintelligence-news.com/news/agricultural-drones-get-smarter-for-large-farm-holdings/) (2026-04-15)
+- [The US-China AI gap closed. The responsible AI gap didn’t](https://www.artificialintelligence-news.com/news/ai-safety-benchmarks-stanford-hai-2026-report/) (2026-04-15)
+- [SAP brings agentic AI to human capital management](https://www.artificialintelligence-news.com/news/sap-brings-agentic-ai-human-capital-management/) (2026-04-14)
 
 </details>
 
