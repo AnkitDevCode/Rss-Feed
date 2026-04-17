@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [SaySo is a new short-form video app that aims to restore users’ trust in news](https://techcrunch.com/2026/04/17/sayso-is-a-new-short-form-video-app-that-aims-to-restore-users-trust-in-news/) (2026-04-17)
+- [Loop raises $95M to build supply chain AI that predicts disruptions](https://techcrunch.com/2026/04/17/loop-raises-95m-to-build-supply-chain-ai-that-predicts-disruptions/) (2026-04-17)
 - [New leaders, new fund: Sequoia has raised $7B to expand its AI bets](https://techcrunch.com/2026/04/16/new-leaders-new-fund-sequoia-has-raised-7b-to-expand-its-ai-bets/) (2026-04-17)
 - [Factory hits $1.5B valuation to build AI coding for enterprises](https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/) (2026-04-16)
 - [Luma launches AI-powered production studio with faith-focused Wonder Project](https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/) (2026-04-16)
-- [Netflix co-founder and chair Reed Hastings to leave board](https://techcrunch.com/2026/04/16/netflix-co-founder-and-chair-reed-hastings-to-leave-board/) (2026-04-16)
-- [Upscale AI in talks to raise at $2B valuation, says report](https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/) (2026-04-16)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [FCC exempts Netgear from ban on foreign routers, doesn't explain why](https://arstechnica.com/tech-policy/2026/04/fcc-exempts-netgear-from-ban-on-foreign-routers-doesnt-explain-why/) (2026-04-17)
-- [Bluesky has been dealing with a DDoS attack for nearly a full day](https://www.theverge.com/tech/913638/bluesky-has-been-dealing-with-a-ddos-attack-for-nearly-a-full-day) (2026-04-17)
-- [Human Accelerated Region 1](https://en.wikipedia.org/wiki/Human_accelerated_region_1) (2026-04-17)
-- [Discourse Is Not Going Closed Source](https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/) (2026-04-17)
-- [Substrate AI Is Hiring Harness Engineers](https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer) (2026-04-17)
+- [Isaac Asimov: The Last Question](https://hex.ooo/library/last_question.html) (2026-04-17)
+- [How Silicon Valley Is Turning Scientists into Exploited Gig Workers](https://www.thenation.com/article/society/ai-silicon-valley-andreesen-thiel-stem/) (2026-04-17)
+- [Ada, Its Design, and the Language That Built the Languages](https://www.iqiipi.com/the-quiet-colossus.html) (2026-04-17)
+- [How Big Tech wrote secrecy into EU law to hide data centres' environmental toll](https://www.investigate-europe.eu/posts/big-tech-data-centres-secrecy-eu-law-environment-footprint) (2026-04-17)
+- [FIM – Linux framebuffer image viewer](https://www.nongnu.org/fbi-improved/) (2026-04-17)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The creative software industry has declared war on Adobe](https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates) (2026-04-17)
+- [A giant cell tower is going to space this weekend](https://www.theverge.com/tech/913752/blue-origin-reusable-rocket-test-ast-sapcemobile) (2026-04-17)
 - [YouTube’s mobile app finally lets you share timestamped videos](https://www.theverge.com/streaming/913611/youtube-mobile-app-share-at-timestamp-clips) (2026-04-16)
 - [Gucci-branded Google smart glasses are coming next year](https://www.theverge.com/gadgets/913523/google-gucci-ai-smart-glasses-2027) (2026-04-16)
 - [Ballmer gives $80 million to NPR, with strings attached](https://www.theverge.com/news/913518/ballmer-gives-80-million-to-npr-with-strings-attached) (2026-04-16)
-- [Netflix embraces vertical video with major mobile app update](https://www.theverge.com/streaming/913539/netflix-mobile-app-update-vertical-video) (2026-04-16)
-- [Netflix cofounder Reed Hastings is officially leaving the company](https://www.theverge.com/streaming/913201/netflix-reed-hastings-earnings-q1-2026) (2026-04-16)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Recent advances push Big Tech closer to the Q-Day danger zone](https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/) (2026-04-17)
 - [After a saga of broken promises, a European rover finally has a ride to Mars](https://arstechnica.com/space/2026/04/after-a-saga-of-broken-promises-a-european-rover-finally-has-a-ride-to-mars/) (2026-04-17)
 - [Lucasfilm drops The Mandalorian and Grogu final trailer at CinemaCon](https://arstechnica.com/culture/2026/04/lucasfilm-drops-mandalorian-and-grogu-final-trailer-at-cinemacon/) (2026-04-16)
 - [Intel refreshes non-Ultra Core CPUs with new silicon for the first time](https://arstechnica.com/gadgets/2026/04/intels-non-ultra-core-cpus-are-new-silicon-this-year-for-a-change/) (2026-04-16)
 - [OpenAI starts offering a biology-tuned LLM](https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/) (2026-04-16)
-- [As they got close to the Moon, Artemis II astronauts were eager to land](https://arstechnica.com/space/2026/04/artemis-ii-astronauts-say-landing-on-the-moon-is-absolutely-doable-soon/) (2026-04-16)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: bad news for inner Neanderthals, and AI warfare’s human illusion](https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/) (2026-04-17)
+- [The case for fixing everything](https://www.technologyreview.com/2026/04/17/1135408/book-review-stewart-brand-fixing-everything-maintenance/) (2026-04-17)
+- [How robots learn: A brief, contemporary history](https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/) (2026-04-17)
 - [Making AI operational in constrained public sector environments](https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/) (2026-04-16)
 - [Treating enterprise AI as an operating layer](https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/) (2026-04-16)
-- [The Download: cyberscammers’ banking bypasses, and carbon removal troubles](https://www.technologyreview.com/2026/04/16/1136034/the-download-cyberscammers-banking-bypasses-microsoft-carbon-removal-troubles/) (2026-04-16)
-- [Why having “humans in the loop” in an AI war is an illusion](https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/) (2026-04-16)
-- [The noise we make is hurting animals. Can we learn to shut up?](https://www.technologyreview.com/2026/04/16/1135179/anthropogenic-noise-hurting-animals/) (2026-04-16)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Student-Led Campaigns That Successfully Reduced Bullying](https://dev.to/the_standupproject/student-led-campaigns-that-successfully-reduced-bullying-3853) (2026-04-17)
-- [Weekly Dev Log 2026-W01](https://dev.to/umitomo-lab/weekly-dev-log-2026-w01-4n6j) (2026-04-17)
-- [Why the Pax A920 Pro is a Game-Changer in Smart POS Systems](https://dev.to/jack_hoover_af5b47b50c572/why-the-pax-a920-pro-is-a-game-changer-in-smart-pos-systems-1me0) (2026-04-17)
-- [The Agent Economy Has a $0 Problem](https://dev.to/atlaskos/the-agent-economy-has-a-0-problem-2hid) (2026-04-17)
-- [I Got Tired of Rewriting Audit Logs in Spring Boot — So I Built nerv-audit](https://dev.to/czetsuya/i-got-tired-of-rewriting-audit-logs-in-spring-boot-so-i-built-nerv-audit-3cg4) (2026-04-17)
+- [Things to Watch Out For When Creating Components That Relay DOM Events in Blazor](https://dev.to/j_sakamoto/things-to-watch-out-for-when-creating-components-that-relay-dom-events-in-blazor-3cif) (2026-04-17)
+- [Why Personal Development Feels Broken](https://dev.to/levkazaryan/why-personal-development-feels-broken-de5) (2026-04-17)
+- [Best AI Gateway Tools in 2026 for Scalable LLM Applications](https://dev.to/lightningdev123/best-ai-gateway-tools-in-2026-for-scalable-llm-applications-4dg) (2026-04-17)
+- [Agentic AI Has a Control Plane Problem — Because It Became the Control Plane](https://dev.to/ntctech/agentic-ai-has-a-control-plane-problem-because-it-became-the-control-plane-dp3) (2026-04-17)
+- [MCP Server Authentication: OAuth vs API Keys vs Mutual TLS — Which to Use and When](https://dev.to/whoffagents/mcp-server-authentication-oauth-vs-api-keys-vs-mutual-tls-which-to-use-and-when-4nj3) (2026-04-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Claude Opus 4.7: The Era of the “Tenacious” Model is Here](https://medium.com/@davide.mib/claude-opus-4-7-the-era-of-the-tenacious-model-is-here-fea7a060042b?source=rss------programming-5) (2026-04-17)
-- [The $2.4 Million “Storage Tax”: Why Your Data Lake is a Digital Dumpster Fire And the 2026 Roadmap…](https://medium.com/@complereinfosystem827/the-2-4-million-storage-tax-why-your-data-lake-is-a-digital-dumpster-fire-and-the-2026-roadmap-993450cb7a01?source=rss------programming-5) (2026-04-17)
-- [9 Python Libraries That Make Your Code Look Actually Professional](https://blog.stackademic.com/9-python-libraries-that-make-your-code-look-actually-professional-d3ad5114b74f?source=rss------programming-5) (2026-04-17)
-- [Coding Cat Oran Ep2, What They Said vs. What They Meant](https://178ssn.medium.com/coding-cat-oran-ep2-what-they-said-vs-what-they-meant-a116b6115192?source=rss------programming-5) (2026-04-17)
-- [What You Need to Know About Writing Clean Code in 2026](https://medium.com/@flymingotech/what-you-need-to-know-about-writing-clean-code-in-2026-3a54791d8489?source=rss------programming-5) (2026-04-17)
+- [Structs, Classes, and the new Keyword: The C# Misconception Every Developer Gets Wrong](https://dileepsreepathi.medium.com/structs-classes-and-the-new-keyword-the-c-misconception-every-developer-gets-wrong-35bb3139e179?source=rss------programming-5) (2026-04-17)
+- [The Psychology of Problem Solving in Software Engineering](https://yuvrajscorpio.medium.com/the-psychology-of-problem-solving-in-software-engineering-892266b08e59?source=rss------programming-5) (2026-04-17)
+- [The Rust vs Go Debate Is Over. Both Sides Lost.](https://medium.com/@speed_enginner/the-rust-vs-go-debate-is-over-both-sides-lost-e00c646a1f6e?source=rss------programming-5) (2026-04-17)
+- [Better Numeric Inputs in Angular (Signal Forms + Angular 22)](https://medium.com/@mrbriantreese/better-numeric-inputs-in-angular-signal-forms-angular-22-c0928add8370?source=rss------programming-5) (2026-04-17)
+- [How ChatGPT Really Works](https://pub.towardsai.net/how-chatgpt-really-works-6a5887f1d42e?source=rss------programming-5) (2026-04-17)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Optimize object storage costs automatically with smart tier—now generally available](https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/) (2026-04-14)
 - [Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/) (2026-04-09)
 - [How Drasi used GitHub Copilot to find documentation bugs](https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/) (2026-04-09)
 - [Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value](https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/) (2026-04-08)
 - [Azure IaaS: Keep critical applications running with built-in resiliency at scale](https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/) (2026-04-01)
+- [Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver Azure Local on Galleon modular datacenters](https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/) (2026-03-31)
 
 </details>
 
@@ -352,9 +352,9 @@
 
 - [Cloudflare’s AI Platform: an inference layer designed for agents](https://blog.cloudflare.com/ai-platform/) (2026-04-16)
 - [Building the foundation for running extra-large language models](https://blog.cloudflare.com/high-performance-llms/) (2026-04-16)
+- [Artifacts: versioned storage that speaks Git](https://blog.cloudflare.com/artifacts-git-for-agents-beta/) (2026-04-16)
 - [AI Search: the search primitive for your agents](https://blog.cloudflare.com/ai-search-agent-primitive/) (2026-04-16)
 - [Deploy Postgres and MySQL databases with PlanetScale + Workers](https://blog.cloudflare.com/deploy-planetscale-postgres-with-workers/) (2026-04-16)
-- [Artifacts: versioned storage that speaks Git](https://blog.cloudflare.com/artifacts-git-for-agents-beta/) (2026-04-16)
 
 </details>
 
@@ -535,11 +535,11 @@ https://www.twilio.com/en-us/blog/insights/build-email-marketing-strategy
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents](https://huggingface.co/blog/ecom-rlve) (2026-04-16)
 - [The PR you would have opened yourself](https://huggingface.co/blog/transformers-to-mlx) (2026-04-16)
 - [Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers](https://huggingface.co/blog/train-multimodal-sentence-transformers) (2026-04-16)
 - [Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents](https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis) (2026-04-15)
 - [Meet HoloTab by HCompany. Your AI browser companion. ](https://huggingface.co/blog/Hcompany/holotab) (2026-04-15)
-- [Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs](https://huggingface.co/blog/waypoint-1-5) (2026-04-09)
 
 </details>
 
@@ -557,33 +557,33 @@ https://www.twilio.com/en-us/blog/insights/build-email-marketing-strategy
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [A Practical Guide to Memory for Autonomous LLM Agents](https://towardsdatascience.com/a-practical-guide-to-memory-for-autonomous-llm-agents/) (2026-04-17)
 - [What It Actually Takes to Run Code on 200M€ Supercomputer](https://towardsdatascience.com/what-it-actually-takes-to-run-code-on-200me-supercomputer/) (2026-04-16)
 - [Your Chunks Failed Your RAG in Production](https://towardsdatascience.com/your-chunks-failed-your-rag-in-production/) (2026-04-16)
 - [Building My Own Personal AI Assistant: A Chronicle, Part 2](https://towardsdatascience.com/building-my-own-personal-ai-assistant-a-chronicle-part-2/) (2026-04-16)
 - [memweave: Zero-Infra AI Agent Memory with Markdown and SQLite — No Vector Database Required](https://towardsdatascience.com/memweave-zero-infra-ai-agent-memory-with-markdown-and-sqlite-no-vector-database-required/) (2026-04-16)
-- [Introduction to Deep Evidential Regression for Uncertainty Quantification](https://towardsdatascience.com/introduction-to-deep-evidential-regression-for-uncertainty-quantification/) (2026-04-16)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Anthropic Launches Claude Opus 4.7 For “Most Difficult Tasks”](https://www.analyticsvidhya.com/blog/2026/04/claude-opus-4-7/) (2026-04-17)
+- [Top 28 Claude Shortcuts that will 10X your Speed](https://www.analyticsvidhya.com/blog/2026/04/top-claude-shortcuts/) (2026-04-17)
 - [GPT-5.4-Cyber: Why OpenAI is Keeping its Most Powerful Model Under Lock and Key](https://www.analyticsvidhya.com/blog/2026/04/openai-announces-gpt-5-4-cyber-but-you-cant-get-it-just-yet/) (2026-04-16)
 - [Google AI Studio Guide: Every Feature Explained](https://www.analyticsvidhya.com/blog/2026/04/google-ai-studio-guide/) (2026-04-16)
 - [Mastering Deep Agents: Context Engineering that Actually Works ](https://www.analyticsvidhya.com/blog/2026/04/context-engineering-in-deep-agents/) (2026-04-15)
-- [21 Computer Vision Projects from Beginner to Advanced (2026 Guide)](https://www.analyticsvidhya.com/blog/2026/04/top-computer-vision-projects/) (2026-04-15)
-- [Excel 101: Excel Agent Mode Explained](https://www.analyticsvidhya.com/blog/2026/04/excel-agent-mode-explained/) (2026-04-14)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Useful Python Scripts for Advanced Data Validation & Quality Checks](https://www.kdnuggets.com/5-useful-python-scripts-for-advanced-data-validation-quality-checks) (2026-04-17)
 - [Python Project Setup 2026: uv + Ruff + Ty + Polars](https://www.kdnuggets.com/python-project-setup-2026-uv-ruff-ty-polars) (2026-04-16)
 - [Docker for Python & Data Projects: A Beginner’s Guide](https://www.kdnuggets.com/docker-for-python-data-projects-a-beginners-guide) (2026-04-16)
 - [NotebookLM for the Creative Architect](https://www.kdnuggets.com/notebooklm-for-the-creative-architect) (2026-04-15)
 - [7 Steps to Mastering Language Model Deployment](https://www.kdnuggets.com/7-steps-to-mastering-language-model-deployment) (2026-04-15)
-- [Top 5 Extensions for VS Code That Aren’t Copilot](https://www.kdnuggets.com/top-5-extensions-for-vs-code-that-arent-copilot) (2026-04-15)
 
 </details>
 
