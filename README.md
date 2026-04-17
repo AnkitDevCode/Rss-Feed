@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [New leaders, new fund: Sequoia has raised $7B to expand its AI bets](https://techcrunch.com/2026/04/16/new-leaders-new-fund-sequoia-has-raised-7b-to-expand-its-ai-bets/) (2026-04-17)
 - [Factory hits $1.5B valuation to build AI coding for enterprises](https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/) (2026-04-16)
 - [Luma launches AI-powered production studio with faith-focused Wonder Project](https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/) (2026-04-16)
 - [Netflix co-founder and chair Reed Hastings to leave board](https://techcrunch.com/2026/04/16/netflix-co-founder-and-chair-reed-hastings-to-leave-board/) (2026-04-16)
 - [Upscale AI in talks to raise at $2B valuation, says report](https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/) (2026-04-16)
-- [Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught](https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/) (2026-04-16)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: Spice simulation → oscilloscope → verification with Claude Code](https://lucasgerads.com/blog/lecroy-mcp-spice-demo/) (2026-04-17)
-- [Hospital at centre of child HIV outbreak caught reusing syringes in Pakistan](https://www.bbc.com/news/articles/clyrd818gd2o) (2026-04-16)
-- [George Orwell Predicted the Rise of "AI Slop" in Nineteen Eighty-Four](https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html) (2026-04-16)
-- [Everything we like is a psyop](https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/) (2026-04-16)
-- [New unsealed records reveal Amazon's price-fixing tactics, California AG claims](https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit) (2026-04-16)
+- [FCC exempts Netgear from ban on foreign routers, doesn't explain why](https://arstechnica.com/tech-policy/2026/04/fcc-exempts-netgear-from-ban-on-foreign-routers-doesnt-explain-why/) (2026-04-17)
+- [Bluesky has been dealing with a DDoS attack for nearly a full day](https://www.theverge.com/tech/913638/bluesky-has-been-dealing-with-a-ddos-attack-for-nearly-a-full-day) (2026-04-17)
+- [Human Accelerated Region 1](https://en.wikipedia.org/wiki/Human_accelerated_region_1) (2026-04-17)
+- [Discourse Is Not Going Closed Source](https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/) (2026-04-17)
+- [Substrate AI Is Hiring Harness Engineers](https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer) (2026-04-17)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [After a saga of broken promises, a European rover finally has a ride to Mars](https://arstechnica.com/space/2026/04/after-a-saga-of-broken-promises-a-european-rover-finally-has-a-ride-to-mars/) (2026-04-17)
 - [Lucasfilm drops The Mandalorian and Grogu final trailer at CinemaCon](https://arstechnica.com/culture/2026/04/lucasfilm-drops-mandalorian-and-grogu-final-trailer-at-cinemacon/) (2026-04-16)
 - [Intel refreshes non-Ultra Core CPUs with new silicon for the first time](https://arstechnica.com/gadgets/2026/04/intels-non-ultra-core-cpus-are-new-silicon-this-year-for-a-change/) (2026-04-16)
 - [OpenAI starts offering a biology-tuned LLM](https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/) (2026-04-16)
 - [As they got close to the Moon, Artemis II astronauts were eager to land](https://arstechnica.com/space/2026/04/artemis-ii-astronauts-say-landing-on-the-moon-is-absolutely-doable-soon/) (2026-04-16)
-- [Mozilla launches Thunderbolt AI client with focus on self-hosted infrastructure](https://arstechnica.com/ai/2026/04/mozilla-launches-thunderbolt-ai-client-with-focus-on-self-hosted-infrastructure/) (2026-04-16)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [No country left behind with sovereign AI](https://stackoverflow.blog/2026/04/17/no-country-left-behind-with-sovereign-ai/) (2026-04-17)
 - [Human input needed: take our survey on AI agents](https://stackoverflow.blog/2026/04/15/human-input-needed-take-our-survey-on-ai-agents/) (2026-04-15)
 - [Why AI hasn't replaced human expertise—and what that means for your SaaS stack](https://stackoverflow.blog/2026/04/15/why-ai-hasn-t-replaced-human-expertise/) (2026-04-15)
 - [Who needs VCs when you have friends like these?](https://stackoverflow.blog/2026/04/14/who-needs-vcs-when-you-have-friends-like-these/) (2026-04-14)
 - [The messy truth of your AI strategies](https://stackoverflow.blog/2026/04/10/the-messy-truth-of-your-ai-strategies/) (2026-04-10)
-- [Gen Z needs a knowledge base (and so do you)](https://stackoverflow.blog/2026/04/09/gen-z-needs-a-knowledge-base-and-so-do-you/) (2026-04-09)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Fine-Tune LLMs with LoRA and QLoRA: 2026 Guide](https://dev.to/jangwook_kim_e31e7291ad98/fine-tune-llms-with-lora-and-qlora-2026-guide-33lf) (2026-04-17)
-- [tRPC v11 + Next.js App Router: End-to-End Type Safety Without the Boilerplate](https://dev.to/whoffagents/trpc-v11-nextjs-app-router-end-to-end-type-safety-without-the-boilerplate-4h5m) (2026-04-17)
-- [ShadCN UI in 2026: Why I Stopped Installing Component Libraries and Started Owning My Components](https://dev.to/whoffagents/shadcn-ui-in-2026-why-i-stopped-installing-component-libraries-and-started-owning-my-components-2eel) (2026-04-17)
-- [SaaS Billing in React Server Components: Stripe + Supabase Without a Single `useEffect`](https://dev.to/whoffagents/saas-billing-in-react-server-components-stripe-supabase-without-a-single-useeffect-5fc1) (2026-04-17)
-- [Join our DEV Weekend Challenge — $1,000 in Prizes Across TEN winners! Submissions Due April 20 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-1000-in-prizes-across-ten-winners-submissions-due-april-20-at-47i1) (2026-04-17)
+- [Student-Led Campaigns That Successfully Reduced Bullying](https://dev.to/the_standupproject/student-led-campaigns-that-successfully-reduced-bullying-3853) (2026-04-17)
+- [Weekly Dev Log 2026-W01](https://dev.to/umitomo-lab/weekly-dev-log-2026-w01-4n6j) (2026-04-17)
+- [Why the Pax A920 Pro is a Game-Changer in Smart POS Systems](https://dev.to/jack_hoover_af5b47b50c572/why-the-pax-a920-pro-is-a-game-changer-in-smart-pos-systems-1me0) (2026-04-17)
+- [The Agent Economy Has a $0 Problem](https://dev.to/atlaskos/the-agent-economy-has-a-0-problem-2hid) (2026-04-17)
+- [I Got Tired of Rewriting Audit Logs in Spring Boot — So I Built nerv-audit](https://dev.to/czetsuya/i-got-tired-of-rewriting-audit-logs-in-spring-boot-so-i-built-nerv-audit-3cg4) (2026-04-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [A brief insight into the Theory of Relative Computational Equivalence](https://medium.com/@rahulsaini_57373/a-brief-insight-into-the-theory-of-relative-computational-equivalence-54ed0bd5e3fd?source=rss------programming-5) (2026-04-17)
-- [— [ Claude Mythos: Cuando la IA cae en malas manos ] —](https://medium.com/@drdevlpixls/claude-mythos-cuando-la-ia-cae-en-malas-manos-c93a8eae8785?source=rss------programming-5) (2026-04-17)
-- [ API Architecture Patterns Explained](https://medium.com/codex/api-architecture-patterns-explained-1061e252400d?source=rss------programming-5) (2026-04-17)
-- [ How to Learn Claude: A Practical Guide for Real‑World Use](https://medium.com/codex/how-to-learn-claude-a-practical-guide-for-real-world-use-d2e09158b1eb?source=rss------programming-5) (2026-04-17)
-- [Repository Intelligence: The Next Big Shift in How Software Gets Built](https://medium.com/@andipermana1009/repository-intelligence-the-next-big-shift-in-how-software-gets-built-200101befd49?source=rss------programming-5) (2026-04-17)
+- [Claude Opus 4.7: The Era of the “Tenacious” Model is Here](https://medium.com/@davide.mib/claude-opus-4-7-the-era-of-the-tenacious-model-is-here-fea7a060042b?source=rss------programming-5) (2026-04-17)
+- [The $2.4 Million “Storage Tax”: Why Your Data Lake is a Digital Dumpster Fire And the 2026 Roadmap…](https://medium.com/@complereinfosystem827/the-2-4-million-storage-tax-why-your-data-lake-is-a-digital-dumpster-fire-and-the-2026-roadmap-993450cb7a01?source=rss------programming-5) (2026-04-17)
+- [9 Python Libraries That Make Your Code Look Actually Professional](https://blog.stackademic.com/9-python-libraries-that-make-your-code-look-actually-professional-d3ad5114b74f?source=rss------programming-5) (2026-04-17)
+- [Coding Cat Oran Ep2, What They Said vs. What They Meant](https://178ssn.medium.com/coding-cat-oran-ep2-what-they-said-vs-what-they-meant-a116b6115192?source=rss------programming-5) (2026-04-17)
+- [What You Need to Know About Writing Clean Code in 2026](https://medium.com/@flymingotech/what-you-need-to-know-about-writing-clean-code-in-2026-3a54791d8489?source=rss------programming-5) (2026-04-17)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Optimize object storage costs automatically with smart tier—now generally available](https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/) (2026-04-14)
 - [Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/) (2026-04-09)
 - [How Drasi used GitHub Copilot to find documentation bugs](https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/) (2026-04-09)
 - [Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value](https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/) (2026-04-08)
 - [Azure IaaS: Keep critical applications running with built-in resiliency at scale](https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/) (2026-04-01)
-- [Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver Azure Local on Galleon modular datacenters](https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/) (2026-03-31)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Security Issue in YouTrack (CVE-2026-33392): Upgrade Recommended for Server Versions Before 2025.3.132953](https://blog.jetbrains.com/youtrack/2026/04/security-issue-in-youtrack-cve-2026-33392/) (2026-04-17)
+- [The Road to Responsive IntelliJ-Based IDEs](https://blog.jetbrains.com/platform/2026/04/road-to-responsive-ides/) (2026-04-17)
 - [Introducing Koog Integration for Spring AI: Smarter Orchestration for Your Agents](https://blog.jetbrains.com/ai/2026/04/introducing-koog-integration-for-spring-ai-smarter-orchestration-for-your-agents/) (2026-04-16)
 - [Sky’s the Limit Hackathon: 180 Projects Connecting Developers and Esports](https://blog.jetbrains.com/blog/2026/04/16/sky-s-the-limit-hackathon-180-projects-connecting-developers-and-esports/) (2026-04-16)
 - [Understanding AI’s Impact on Developer Workflows](https://blog.jetbrains.com/research/2026/04/ai-impact-developer-workflows/) (2026-04-15)
-- [TeamCity 2025.11.4 Is Out](https://blog.jetbrains.com/teamcity/2026/04/teamcity-2025-11-4-bug-fix/) (2026-04-15)
-- [Qodana Is Now on Gartner Peer Insights! Review Qodana](https://blog.jetbrains.com/qodana/2026/04/review-qodana-on-gartner/) (2026-04-15)
 
 </details>
 
@@ -362,6 +362,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+No Rip and Replace. Add AI to Your Contact Center for Instant ROI
+](
+https://www.twilio.com/en-us/blog/products/launches/take-control-of-the-contact-center
+) (2026-04-16)
+- [
 Five Reasons You Should Attend SIGNAL San Francisco 2026
 ](
 https://www.twilio.com/en-us/blog/events/five-reasons-attend-signal-san-francisco-2026
@@ -381,11 +386,6 @@ https://www.twilio.com/en-us/blog/developers/best-practices/prototyping-twilio-a
 ](
 https://www.twilio.com/en-us/blog/insights/build-email-marketing-strategy
 ) (2026-04-13)
-- [
-How to take data governance from compliance burden to competitive advantage
-](
-https://www.twilio.com/en-us/blog/insights/data-governance-competitive-advantage
-) (2026-04-10)
 
 </details>
 
