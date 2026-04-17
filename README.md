@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [European police email 75,000 people asking them to stop DDoS attacks](https://techcrunch.com/2026/04/16/european-police-email-75000-people-asking-them-to-stop-ddos-attacks/) (2026-04-16)
-- [Anthropic CPO leaves Figma’s board after reports he will offer a competing product](https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/) (2026-04-16)
-- [It’s not just you — Bluesky is (sorta) down](https://techcrunch.com/2026/04/16/its-not-just-you-bluesky-is-sorta-down/) (2026-04-16)
-- [Everything we like is a psyop](https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/) (2026-04-16)
-- [Google now lets you explore the web side-by-side with AI Mode](https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/) (2026-04-16)
+- [Factory hits $1.5B valuation to build AI coding for enterprises](https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/) (2026-04-16)
+- [Luma launches AI-powered production studio with faith-focused Wonder Project](https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/) (2026-04-16)
+- [Netflix co-founder and chair Reed Hastings to leave board](https://techcrunch.com/2026/04/16/netflix-co-founder-and-chair-reed-hastings-to-leave-board/) (2026-04-16)
+- [Upscale AI in talks to raise at $2B valuation, says report](https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/) (2026-04-16)
+- [Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught](https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/) (2026-04-16)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7](https://simonwillison.net/2026/Apr/16/qwen-beats-opus/) (2026-04-16)
-- [Codex for Almost Everything](https://openai.com/index/codex-for-almost-everything/) (2026-04-16)
-- [Japan implements language proficiency requirements for certain visa applicants](https://www.japantimes.co.jp/news/2026/04/15/japan/society/jlpt-visa-requirement/) (2026-04-16)
-- [Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs](https://www.zatanna.ai/kampala) (2026-04-16)
-- [We gave an AI a 3 year retail lease and asked it to make a profit](https://andonlabs.com/blog/andon-market-launch) (2026-04-16)
+- [Show HN: Spice simulation → oscilloscope → verification with Claude Code](https://lucasgerads.com/blog/lecroy-mcp-spice-demo/) (2026-04-17)
+- [Hospital at centre of child HIV outbreak caught reusing syringes in Pakistan](https://www.bbc.com/news/articles/clyrd818gd2o) (2026-04-16)
+- [George Orwell Predicted the Rise of "AI Slop" in Nineteen Eighty-Four](https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html) (2026-04-16)
+- [Everything we like is a psyop](https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/) (2026-04-16)
+- [New unsealed records reveal Amazon's price-fixing tactics, California AG claims](https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit) (2026-04-16)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Live Nation says it will fight monopoly suit loss](https://www.theverge.com/policy/913494/live-nation-ticketmaster-fight-state-monopoly-jury-verdict) (2026-04-16)
-- [Ozlo’s comfy Sleepbuds are nearly 30 percent off in the run-up to Mother’s Day](https://www.theverge.com/gadgets/913352/ozlo-sleepbuds-mothers-day-deal-sale) (2026-04-16)
-- [Teenage Engineering might be getting into instrument amps next](https://www.theverge.com/gadgets/913396/teenage-engineering-ko-amp-35-leak) (2026-04-16)
-- [The only way to fight deepfakes is by making deepfakes](https://www.theverge.com/report/913445/deepfake-detection-reality-defender-pindrop-ai) (2026-04-16)
-- [Casely has reannounced a power bank recall from 2025 following a fatality](https://www.theverge.com/tech/913177/casely-recall-power-pods-wireless-bank-lithium-ion-battery-fire-explosion-uscpsc) (2026-04-16)
+- [YouTube’s mobile app finally lets you share timestamped videos](https://www.theverge.com/streaming/913611/youtube-mobile-app-share-at-timestamp-clips) (2026-04-16)
+- [Gucci-branded Google smart glasses are coming next year](https://www.theverge.com/gadgets/913523/google-gucci-ai-smart-glasses-2027) (2026-04-16)
+- [Ballmer gives $80 million to NPR, with strings attached](https://www.theverge.com/news/913518/ballmer-gives-80-million-to-npr-with-strings-attached) (2026-04-16)
+- [Netflix embraces vertical video with major mobile app update](https://www.theverge.com/streaming/913539/netflix-mobile-app-update-vertical-video) (2026-04-16)
+- [Netflix cofounder Reed Hastings is officially leaving the company](https://www.theverge.com/streaming/913201/netflix-reed-hastings-earnings-q1-2026) (2026-04-16)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Gemini can now create personalized AI images by digging around in Google Photos](https://arstechnica.com/ai/2026/04/gemini-can-now-create-personalized-ai-images-by-digging-around-in-google-photos/) (2026-04-16)
-- [RFK Jr. forces FDA to reconsider 12 unproven peptides after 2023 ban](https://arstechnica.com/health/2026/04/rfk-jr-forces-fda-to-reconsider-12-unproven-peptides-after-2023-ban/) (2026-04-16)
-- [First look: Also's upcoming e-bike disconnects the pedals and wheels](https://arstechnica.com/cars/2026/04/first-look-alsos-upcoming-e-bike-disconnects-the-pedals-and-wheels/) (2026-04-16)
-- [Meet the Quantum Kid](https://arstechnica.com/science/2026/04/meet-the-quantum-kid/) (2026-04-16)
-- [The race to Shackleton Crater is on—will Jeff Bezos or China get there first?](https://arstechnica.com/space/2026/04/the-race-to-shackleton-crater-is-on-will-jeff-bezos-or-china-get-there-first/) (2026-04-16)
+- [Lucasfilm drops The Mandalorian and Grogu final trailer at CinemaCon](https://arstechnica.com/culture/2026/04/lucasfilm-drops-mandalorian-and-grogu-final-trailer-at-cinemacon/) (2026-04-16)
+- [Intel refreshes non-Ultra Core CPUs with new silicon for the first time](https://arstechnica.com/gadgets/2026/04/intels-non-ultra-core-cpus-are-new-silicon-this-year-for-a-change/) (2026-04-16)
+- [OpenAI starts offering a biology-tuned LLM](https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/) (2026-04-16)
+- [As they got close to the Moon, Artemis II astronauts were eager to land](https://arstechnica.com/space/2026/04/artemis-ii-astronauts-say-landing-on-the-moon-is-absolutely-doable-soon/) (2026-04-16)
+- [Mozilla launches Thunderbolt AI client with focus on self-hosted infrastructure](https://arstechnica.com/ai/2026/04/mozilla-launches-thunderbolt-ai-client-with-focus-on-self-hosted-infrastructure/) (2026-04-16)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Pipepost v0.9.0 — Substack publishing + the agent-loop transcript](https://dev.to/pipepost/pipepost-v090-substack-publishing-the-agent-loop-transcript-2cpg) (2026-04-16)
-- [I built DevToolPad to solve my own daily UI developer frustrations](https://dev.to/shaurya_c85f7a7e2f8b/i-built-devtoolpad-to-solve-my-own-daily-ui-developer-frustrations-19l8) (2026-04-16)
-- [How Agentic Search Actually Works: The Research Loop Link-Fetching Agents Miss](https://dev.to/tokozen/how-agentic-search-actually-works-the-research-loop-link-fetching-agents-miss-6ln) (2026-04-16)
-- [queryd: driver-agnostic slow query detection for Node.js (optional Prisma)](https://dev.to/olegkoval/queryd-driver-agnostic-slow-query-detection-for-nodejs-optional-prisma-3l0m) (2026-04-16)
-- [Data Indexing in Golang](https://dev.to/hister/data-indexing-in-golang-368l) (2026-04-16)
+- [Fine-Tune LLMs with LoRA and QLoRA: 2026 Guide](https://dev.to/jangwook_kim_e31e7291ad98/fine-tune-llms-with-lora-and-qlora-2026-guide-33lf) (2026-04-17)
+- [tRPC v11 + Next.js App Router: End-to-End Type Safety Without the Boilerplate](https://dev.to/whoffagents/trpc-v11-nextjs-app-router-end-to-end-type-safety-without-the-boilerplate-4h5m) (2026-04-17)
+- [ShadCN UI in 2026: Why I Stopped Installing Component Libraries and Started Owning My Components](https://dev.to/whoffagents/shadcn-ui-in-2026-why-i-stopped-installing-component-libraries-and-started-owning-my-components-2eel) (2026-04-17)
+- [SaaS Billing in React Server Components: Stripe + Supabase Without a Single `useEffect`](https://dev.to/whoffagents/saas-billing-in-react-server-components-stripe-supabase-without-a-single-useeffect-5fc1) (2026-04-17)
+- [Join our DEV Weekend Challenge — $1,000 in Prizes Across TEN winners! Submissions Due April 20 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-1000-in-prizes-across-ten-winners-submissions-due-april-20-at-47i1) (2026-04-17)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Best AI Tools for Software Engineers to Boost Productivity](https://observabilityguy.medium.com/best-ai-tools-for-software-engineers-to-boost-productivity-12748a11ce32?source=rss------programming-5) (2026-04-16)
-- [Building Data Engineering Solutions with AI: The New Playbook](https://medium.com/@anchitgupt/building-data-engineering-solutions-with-ai-the-new-playbook-3261b65e48dd?source=rss------programming-5) (2026-04-16)
-- [Debugging Is a Skill, Not a Talent: The Scientific Method Applied to Code](https://medium.com/@hashan-dev/debugging-is-a-skill-not-a-talent-the-scientific-method-applied-to-code-cc1d5729c4af?source=rss------programming-5) (2026-04-16)
-- [Empowering the Next Generation of Startup Heroes: Joining Draper University as a Mentor](https://medium.com/@jiten.p.oswal/empowering-the-next-generation-of-startup-heroes-joining-draper-university-as-a-mentor-94e01ea6356e?source=rss------programming-5) (2026-04-16)
-- [Claude Code Has a 1M Token Context Window. That’s the Problem.](https://ai.plainenglish.io/claude-code-has-a-1m-token-context-window-thats-the-problem-bdaaae4ccbd1?source=rss------programming-5) (2026-04-16)
+- [A brief insight into the Theory of Relative Computational Equivalence](https://medium.com/@rahulsaini_57373/a-brief-insight-into-the-theory-of-relative-computational-equivalence-54ed0bd5e3fd?source=rss------programming-5) (2026-04-17)
+- [— [ Claude Mythos: Cuando la IA cae en malas manos ] —](https://medium.com/@drdevlpixls/claude-mythos-cuando-la-ia-cae-en-malas-manos-c93a8eae8785?source=rss------programming-5) (2026-04-17)
+- [ API Architecture Patterns Explained](https://medium.com/codex/api-architecture-patterns-explained-1061e252400d?source=rss------programming-5) (2026-04-17)
+- [ How to Learn Claude: A Practical Guide for Real‑World Use](https://medium.com/codex/how-to-learn-claude-a-practical-guide-for-real-world-use-d2e09158b1eb?source=rss------programming-5) (2026-04-17)
+- [Repository Intelligence: The Next Big Shift in How Software Gets Built](https://medium.com/@andipermana1009/repository-intelligence-the-next-big-shift-in-how-software-gets-built-200101befd49?source=rss------programming-5) (2026-04-17)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Optimize object storage costs automatically with smart tier—now generally available](https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/) (2026-04-14)
 - [Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/) (2026-04-09)
 - [How Drasi used GitHub Copilot to find documentation bugs](https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/) (2026-04-09)
 - [Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value](https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/) (2026-04-08)
 - [Azure IaaS: Keep critical applications running with built-in resiliency at scale](https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/) (2026-04-01)
+- [Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver Azure Local on Galleon modular datacenters](https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/) (2026-03-31)
 
 </details>
 
@@ -163,11 +163,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [The Fourth Beta of Android 17](https://android-developers.googleblog.com/2026/04/the-fourth-beta-of-android-17.html) (2026-04-16)
 - [Android CLI: Build Android apps 3x faster using any agent](https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html) (2026-04-16)
 - [Boosting user privacy and business protection with updated Play policies](https://android-developers.googleblog.com/2026/04/giving-users-clearer-choice-and-everyone-a-safer-more-trusted-app-ecosystem.html) (2026-04-15)
 - [Get ready for Google I/O: Livestream schedule revealed](https://android-developers.googleblog.com/2026/04/get-ready-for-google-io-livestream-schedule-revealed.html) (2026-04-14)
 - [Test Multi-Device Interactions with the Android Emulator](https://android-developers.googleblog.com/2026/04/Test-Multi-Device-Interactions-with-the-Android-Emulator.html) (2026-04-13)
-- [Android Studio supports Gemma 4: our most capable local model for agentic coding](https://android-developers.googleblog.com/2026/04/android-studio-supports-gemma-4-local.html) (2026-04-02)
 
 </details>
 
@@ -328,11 +328,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [GitLab 18.11: Budget guardrails for GitLab Credits](https://about.gitlab.com/blog/gitlab-18-11-budget-guardrails-for-gitlab-credits/) (2026-04-16)
+- [Claude Opus 4.7 is now available in GitLab Duo Agent Platform](https://about.gitlab.com/blog/claude-opus-4-7-is-now-available-in-gitlab-duo-agent-platform/) (2026-04-16)
+- [GitLab 18.11: CI Expert and Data Analyst AI agents target development gaps](https://about.gitlab.com/blog/ci-expert-and-data-analyst-ai-agents-target-development-gaps/) (2026-04-16)
+- [GitLab 18.11: Automate remediation with ready-to-merge AI code fixes](https://about.gitlab.com/blog/automate-remediation-with-ready-to-merge-ai-code-fixes/) (2026-04-16)
 - [A guide to the breaking changes in GitLab 19.0](https://about.gitlab.com/blog/a-guide-to-the-breaking-changes-in-gitlab-19-0/) (2026-04-15)
-- [GitLab and Vertex AI on Google Cloud: Advancing agentic software development](https://about.gitlab.com/blog/gitlab-and-vertex-ai-on-google-cloud/) (2026-04-14)
-- [GitLab named a 2026 Omdia Universe Leader](https://about.gitlab.com/blog/gitlab-named-a-2026-omdia-universe-leader/) (2026-04-13)
-- [5 ways GitLab pipeline logic solves real engineering problems](https://about.gitlab.com/blog/5-ways-gitlab-pipeline-logic-solves-real-engineering-problems/) (2026-04-09)
-- [Streamline test management with the SmartBear QMetry GitLab component](https://about.gitlab.com/blog/streamline-test-management-with-the-smartbear-qmetry-gitlab-component/) (2026-04-07)
 
 </details>
 
@@ -362,11 +362,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-No Rip and Replace. Add AI to Your Contact Center for Instant ROI
-](
-https://www.twilio.com/en-us/blog/products/launches/take-control-of-the-contact-center
-) (2026-04-16)
-- [
 Five Reasons You Should Attend SIGNAL San Francisco 2026
 ](
 https://www.twilio.com/en-us/blog/events/five-reasons-attend-signal-san-francisco-2026
@@ -386,6 +381,11 @@ https://www.twilio.com/en-us/blog/developers/best-practices/prototyping-twilio-a
 ](
 https://www.twilio.com/en-us/blog/insights/build-email-marketing-strategy
 ) (2026-04-13)
+- [
+How to take data governance from compliance burden to competitive advantage
+](
+https://www.twilio.com/en-us/blog/insights/data-governance-competitive-advantage
+) (2026-04-10)
 
 </details>
 
