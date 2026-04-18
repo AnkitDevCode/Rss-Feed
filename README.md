@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Anthropic’s relationship with the Trump administration seems to be thawing](https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/) (2026-04-18)
+- [The App Store is booming again, and AI may be why](https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/) (2026-04-18)
 - [Once close enough for an acquisition, Stripe and Airwallex are now going after each other](https://techcrunch.com/2026/04/17/once-close-enough-for-an-acquisition-stripe-and-airwallex-are-now-going-after-each-other/) (2026-04-18)
 - [Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.](https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/) (2026-04-17)
 - [Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’](https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/) (2026-04-17)
-- [Man who hacked US Supreme Court filing system sentenced to probation](https://techcrunch.com/2026/04/17/man-who-hacked-us-supreme-court-filing-system-sentenced-to-probation/) (2026-04-17)
-- [Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges](https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/) (2026-04-17)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The quiet disappearance of the free-range childhood](https://bigthink.com/mind-behavior/the-quiet-disappearance-of-the-free-range-childhood/) (2026-04-18)
-- [State of Kdenlive](https://kdenlive.org/news/2026/state-2026/) (2026-04-18)
-- [Claude Code Opus 4.7 keeps checking on malware](https://news.ycombinator.com/item?id=47814832) (2026-04-18)
-- [Category Theory Illustrated – Orders](https://abuseofnotation.github.io/category-theory-illustrated/04_order/) (2026-04-18)
-- [Amiga Graphics](https://amiga.lychesis.net/) (2026-04-18)
+- [Graphs That Explain the State of AI in 2026](https://spectrum.ieee.org/state-of-ai-index-2026) (2026-04-18)
+- [UpCodes (YC S17) Is Hiring SDRs to Help Make Construction More Productive](https://up.codes/careers?utm_source=HN) (2026-04-18)
+- [The USDA's gardening zones have shifted. (Interactive app and map)](https://apps.npr.org/plant-hardiness-garden-map/) (2026-04-18)
+- [The electromechanical angle computer inside the B-52 bomber's star tracker](https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html) (2026-04-18)
+- [Opus 4.7 to 4.6 Inflation is ~45%](https://tokens.billchambers.me/leaderboard) (2026-04-18)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Judge rules Trump administration violated the First Amendment in fight against ICE-tracking](https://www.theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking) (2026-04-18)
+- [Cheap stuff that doesn’t suck, take 3](https://www.theverge.com/gadgets/912620/cheap-gadgets-tech-under-50-tools-headphones-fitness-trackers) (2026-04-18)
+- [Dyson’s handheld fan is more powerful and louder than I expected](https://www.theverge.com/tech/908962/dyson-hushjet-mini-cool-personal-handheld-fan-hands-on) (2026-04-18)
 - [There’s nothing like an RPG over vacation](https://www.theverge.com/games/908358/people-of-note-pc-playstation-xbox-nintendo-switch-2) (2026-04-18)
 - [The AI apps are coming for your PC](https://www.theverge.com/tech/914429/the-ai-apps-are-coming-for-your-pc) (2026-04-18)
-- [OpenAI’s former Sora boss is leaving](https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing) (2026-04-17)
-- [Should you stare into Sam Altman&#8217;s orb before your next date?](https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb) (2026-04-17)
-- [Anthropic’s new cybersecurity model could get it back in the government’s good graces](https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview) (2026-04-17)
 
 </details>
 
@@ -97,22 +97,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [One Open Source Project a Day (No.41): Cangjie Skill —— Distilling Books into Executable AI Agent 'Skills'](https://dev.to/wonderlab/one-open-source-project-a-day-no41-cangjie-skill-distilling-books-into-executable-ai-agent-26fe) (2026-04-18)
-- [I Built a B2B Lead Generation Tool for Freelancers - Here's What I Learned](https://dev.to/md_neyab/i-built-a-b2b-lead-generation-tool-for-freelancers-heres-what-i-learned-18) (2026-04-18)
-- [A Physics-Guided Neural Network Framework for Elastic Plates: Comparison ofGoverning Equations-Based and Energy-Based Approaches](https://dev.to/paperium/a-physics-guided-neural-network-framework-for-elastic-plates-comparison-ofgoverning-ph9) (2026-04-18)
-- [Unhandled CSS Ruining Life](https://dev.to/krivanek06/unhandled-css-ruining-life-2hif) (2026-04-18)
-- [I Built a Skill Registration Framework for AI Agents in 3000 Lines of TypeScript](https://dev.to/vardhineediganesh877ui/i-built-a-skill-registration-framework-for-ai-agents-in-3000-lines-of-typescript-28db) (2026-04-18)
+- [Introducing @accesslint/jest: progressive accessibility testing for Jest](https://dev.to/cameron-accesslint/introducing-accesslintjest-progressive-accessibility-testing-for-jest-3i7j) (2026-04-18)
+- [Building Systems, Not Just Code](https://dev.to/chaitanyakukwas1/building-systems-not-just-code-4deg) (2026-04-18)
+- [AI Consultant WP New Release 2.4.0](https://dev.to/bilohash/ai-consultant-wp-new-release-240-3k71) (2026-04-18)
+- [Scaling Our Daily Twitter Scraping Workflow with actionbook's Cloud Browser Providers](https://dev.to/senke0x/scaling-our-daily-twitter-scraping-workflow-with-actionbooks-cloud-browser-providers-1hlh) (2026-04-18)
+- [ZAP1 + x402: privacy-preserving proof of paid access, anchored to Zcash](https://dev.to/zknd3r/zap1-x402-privacy-preserving-proof-of-paid-access-anchored-to-zcash-1od4) (2026-04-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Tried an Under $20 Experiment That Improve My Sleep + Focus](https://medium.com/illumination/i-tried-an-under-20-experiment-that-improve-my-sleep-focus-3c95dd8d64b7?source=rss------programming-5) (2026-04-18)
-- [How to Build Scalable Backend Systems with JavaScript](https://javascript.plainenglish.io/how-to-build-scalable-backend-systems-with-javascript-906bfe2afb5c?source=rss------programming-5) (2026-04-18)
-- [Flash USDT Software (Opportunity & Business Focus)](https://medium.com/@works0269/flash-usdt-software-opportunity-business-focus-c1a960794ba5?source=rss------programming-5) (2026-04-18)
-- [The Sad Truth Behind Running Claude Code For Free](https://medium.com/@speaktoharisudhan/the-sad-truth-behind-running-claude-code-for-free-199094d7632a?source=rss------programming-5) (2026-04-18)
-- [Most Python Optimization Advice Is Wrong — Here’s What Actually Works](https://medium.com/@mahadrajpoot911/most-python-optimization-advice-is-wrong-heres-what-actually-works-e7f8a43018c8?source=rss------programming-5) (2026-04-18)
+- [Who Is That Agent, Really?](https://medium.com/codetodeploy/who-is-that-agent-really-e525bbe4c402?source=rss------programming-5) (2026-04-18)
+- [RHAPSODY OF REALITIES - 18TH APRIL 2026
+"Love is not defined by human sentiment, emotion, weakness…](https://medium.com/@folajeff/rhapsody-of-realities-18th-april-2026-love-is-not-defined-by-human-sentiment-emotion-weakness-74f33b1fb6b8?source=rss------programming-5) (2026-04-18)
+- [ From Django to GitOps: Complete DevOps Journey of mrcaption49](https://medium.com/@pranavsb699/from-django-to-gitops-complete-devops-journey-of-mrcaption49-d58b2b5b1ec6?source=rss------programming-5) (2026-04-18)
+- [Writing Long Functions Is A Trap. How The Anonymous Function Secret Will Save Your Python Scripts](https://medium.com/codetodeploy/writing-long-functions-is-a-trap-how-the-anonymous-function-secret-will-save-your-python-scripts-d3dbc8591729?source=rss------programming-5) (2026-04-18)
+- [The Better Way to Configure Entity Framework Core](https://medium.com/@michaelmaurice410/the-better-way-to-configure-entity-framework-core-c09ead9d2f50?source=rss------programming-5) (2026-04-18)
 
 </details>
 
@@ -130,11 +131,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Cloud Cost Optimization: Principles that still matter](https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/) (2026-04-15)
+- [Optimize object storage costs automatically with smart tier—now generally available](https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/) (2026-04-14)
 - [Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/) (2026-04-09)
 - [How Drasi used GitHub Copilot to find documentation bugs](https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/) (2026-04-09)
 - [Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value](https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/) (2026-04-08)
-- [Azure IaaS: Keep critical applications running with built-in resiliency at scale](https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/) (2026-04-01)
-- [Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver Azure Local on Galleon modular datacenters](https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/) (2026-03-31)
 
 </details>
 
@@ -557,22 +558,22 @@ https://www.twilio.com/en-us/blog/insights/build-email-marketing-strategy
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Your RAG System Retrieves the Right Data — But Still Produces Wrong Answers. Here’s Why (and How to Fix It).](https://towardsdatascience.com/your-rag-system-retrieves-the-right-data-but-still-produces-wrong-answers-heres-why-and-how-to-fix-it/) (2026-04-18)
+- [AI Agents Need Their Own Desk, and Git Worktrees Give Them One](https://towardsdatascience.com/ai-agents-need-their-own-desk-and-git-worktrees-give-it-one/) (2026-04-18)
 - [How to Learn Python for Data Science Fast in 2026 (Without Wasting Time)](https://towardsdatascience.com/how-to-learn-python-so-fast-it-feels-like-cheating/) (2026-04-18)
 - [Beyond Prompting: Using Agent Skills in Data Science](https://towardsdatascience.com/beyond-prompting-using-agent-skills-in-data-science/) (2026-04-17)
 - [You Don’t Need Many Labels to Learn](https://towardsdatascience.com/you-dont-need-many-labels-to-learn/) (2026-04-17)
-- [6 Things I Learned Building LLMs From Scratch That No Tutorial Teaches You](https://towardsdatascience.com/6-things-i-learned-building-llms-from-scratch-that-no-tutorial-teaches-you/) (2026-04-17)
-- [A Practical Guide to Memory for Autonomous LLM Agents](https://towardsdatascience.com/a-practical-guide-to-memory-for-autonomous-llm-agents/) (2026-04-17)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Gemma 4 Tool Calling Explained: Build AI Agents with Function Calling (Step-by-Step Guide)](https://www.analyticsvidhya.com/blog/2026/04/gemma-4-tool-calling/) (2026-04-18)
 - [Anthropic Launches Claude Opus 4.7 For “Most Difficult Tasks”](https://www.analyticsvidhya.com/blog/2026/04/claude-opus-4-7/) (2026-04-17)
 - [Top 28 Claude Shortcuts that will 10X your Speed](https://www.analyticsvidhya.com/blog/2026/04/top-claude-shortcuts/) (2026-04-17)
 - [GPT-5.4-Cyber: Why OpenAI is Keeping its Most Powerful Model Under Lock and Key](https://www.analyticsvidhya.com/blog/2026/04/openai-announces-gpt-5-4-cyber-but-you-cant-get-it-just-yet/) (2026-04-16)
 - [Google AI Studio Guide: Every Feature Explained](https://www.analyticsvidhya.com/blog/2026/04/google-ai-studio-guide/) (2026-04-16)
-- [Mastering Deep Agents: Context Engineering that Actually Works ](https://www.analyticsvidhya.com/blog/2026/04/context-engineering-in-deep-agents/) (2026-04-15)
 
 </details>
 
