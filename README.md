@@ -31,33 +31,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: I made a calculator that works over disjoint sets of intervals](https://victorpoughon.github.io/interval-calculator/) (2026-04-18)
-- [Casus Belli Engineering](https://marcosmagueta.com/blog/casus-belli-engineering/) (2026-04-18)
-- [Landmark ancient-genome study shows surprise acceleration of human evolution](https://www.nature.com/articles/d41586-026-01204-5) (2026-04-17)
-- [A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c) (2026-04-17)
-- [Arc Prize Foundation (YC W26) Is Hiring a Platform Engineer for ARC-AGI-4](https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead) (2026-04-17)
+- [The quiet disappearance of the free-range childhood](https://bigthink.com/mind-behavior/the-quiet-disappearance-of-the-free-range-childhood/) (2026-04-18)
+- [State of Kdenlive](https://kdenlive.org/news/2026/state-2026/) (2026-04-18)
+- [Claude Code Opus 4.7 keeps checking on malware](https://news.ycombinator.com/item?id=47814832) (2026-04-18)
+- [Category Theory Illustrated – Orders](https://abuseofnotation.github.io/category-theory-illustrated/04_order/) (2026-04-18)
+- [Amiga Graphics](https://amiga.lychesis.net/) (2026-04-18)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [There’s nothing like an RPG over vacation](https://www.theverge.com/games/908358/people-of-note-pc-playstation-xbox-nintendo-switch-2) (2026-04-18)
+- [The AI apps are coming for your PC](https://www.theverge.com/tech/914429/the-ai-apps-are-coming-for-your-pc) (2026-04-18)
 - [OpenAI’s former Sora boss is leaving](https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing) (2026-04-17)
 - [Should you stare into Sam Altman&#8217;s orb before your next date?](https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb) (2026-04-17)
 - [Anthropic’s new cybersecurity model could get it back in the government’s good graces](https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview) (2026-04-17)
-- [Betting on the news raises ethical questions for journalists](https://www.theverge.com/report/914157/prediction-markets-news-outlet-ethics-policy-propublica-kalshi-polymarket) (2026-04-17)
-- [This charming gadget writes bad AI poetry](https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on) (2026-04-17)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Great white sharks are overheating](https://arstechnica.com/science/2026/04/great-white-sharks-are-overheating/) (2026-04-18)
 - [US-sanctioned currency exchange says $15 million heist done by "unfriendly states"](https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/) (2026-04-17)
 - [Man with @ihackedthegovernment Instagram account tells judge, “I made a mistake"](https://arstechnica.com/tech-policy/2026/04/man-with-ihackedthegovernment-instagram-account-tells-judge-i-made-a-mistake/) (2026-04-17)
 - [Trump picks qualified, normal health leader to head CDC; experts still cautious](https://arstechnica.com/health/2026/04/trump-picks-qualified-normal-health-leader-to-head-cdc-experts-still-cautious/) (2026-04-17)
 - [$25,000 buys plenty of used EVs: Here are some options](https://arstechnica.com/cars/2026/04/25000-buys-plenty-of-used-evs-here-are-some-options/) (2026-04-17)
-- [Satellite and drone images reveal big delays in US data center construction](https://arstechnica.com/ai/2026/04/construction-delays-hit-40-of-us-data-centers-planned-for-2026/) (2026-04-17)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How to Always Reply from Your Custom Domain Email in Gmail](https://dev.to/rdjarbeng/how-to-always-reply-from-your-custom-domain-email-in-gmail-9i5) (2026-04-18)
-- [Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage](https://dev.to/gde/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-4ik9) (2026-04-18)
-- [Broken Access Control Full Server Compromise](https://dev.to/caisd/broken-access-control-full-server-compromise-56aa) (2026-04-18)
-- [My 2 cents on the Spatie guidelines agent skills](https://dev.to/xwero/my-2-cents-on-spatie-guidelines-agent-skill-1jl4) (2026-04-18)
-- [How Does Real Estate Tokenization Transform Physical Assets into Digital Securities?](https://dev.to/suzie_iris_65ce8070067366/how-does-real-estate-tokenization-transform-physical-assets-into-digital-securities-1mhf) (2026-04-18)
+- [One Open Source Project a Day (No.41): Cangjie Skill —— Distilling Books into Executable AI Agent 'Skills'](https://dev.to/wonderlab/one-open-source-project-a-day-no41-cangjie-skill-distilling-books-into-executable-ai-agent-26fe) (2026-04-18)
+- [I Built a B2B Lead Generation Tool for Freelancers - Here's What I Learned](https://dev.to/md_neyab/i-built-a-b2b-lead-generation-tool-for-freelancers-heres-what-i-learned-18) (2026-04-18)
+- [A Physics-Guided Neural Network Framework for Elastic Plates: Comparison ofGoverning Equations-Based and Energy-Based Approaches](https://dev.to/paperium/a-physics-guided-neural-network-framework-for-elastic-plates-comparison-ofgoverning-ph9) (2026-04-18)
+- [Unhandled CSS Ruining Life](https://dev.to/krivanek06/unhandled-css-ruining-life-2hif) (2026-04-18)
+- [I Built a Skill Registration Framework for AI Agents in 3000 Lines of TypeScript](https://dev.to/vardhineediganesh877ui/i-built-a-skill-registration-framework-for-ai-agents-in-3000-lines-of-typescript-28db) (2026-04-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why Students Understand Excel but Fear Formulas](https://medium.com/@timurlevitin/why-students-understand-excel-but-fear-formulas-1dbaace571a7?source=rss------programming-5) (2026-04-18)
-- [I Tested 5 Python Trends in 2026. Only 2 Are Worth Your Time.](https://medium.com/@inprogrammer/i-tested-5-python-trends-in-2026-only-2-are-worth-your-time-28a5c026508b?source=rss------programming-5) (2026-04-18)
-- [Sidecar Pattern Deep Dive](https://medium.com/@vansh.khandelwal06/sidecar-pattern-deep-dive-1c84e65d6797?source=rss------programming-5) (2026-04-18)
-- [Situs Judi Bola Lambangbet Berhadiah Handphone Terpercaya](https://medium.com/@sapphirezestful/situs-judi-bola-lambangbet-berhadiah-handphone-terpercaya-7c66b4de34ca?source=rss------programming-5) (2026-04-18)
-- [Insertion Sort Algorithm in Java: Learn with Practical Examples](https://medium.com/@robinviktorsson/insertion-sort-algorithm-in-java-learn-with-practical-examples-e85f2c7f0ba8?source=rss------programming-5) (2026-04-18)
+- [I Tried an Under $20 Experiment That Improve My Sleep + Focus](https://medium.com/illumination/i-tried-an-under-20-experiment-that-improve-my-sleep-focus-3c95dd8d64b7?source=rss------programming-5) (2026-04-18)
+- [How to Build Scalable Backend Systems with JavaScript](https://javascript.plainenglish.io/how-to-build-scalable-backend-systems-with-javascript-906bfe2afb5c?source=rss------programming-5) (2026-04-18)
+- [Flash USDT Software (Opportunity & Business Focus)](https://medium.com/@works0269/flash-usdt-software-opportunity-business-focus-c1a960794ba5?source=rss------programming-5) (2026-04-18)
+- [The Sad Truth Behind Running Claude Code For Free](https://medium.com/@speaktoharisudhan/the-sad-truth-behind-running-claude-code-for-free-199094d7632a?source=rss------programming-5) (2026-04-18)
+- [Most Python Optimization Advice Is Wrong — Here’s What Actually Works](https://medium.com/@mahadrajpoot911/most-python-optimization-advice-is-wrong-heres-what-actually-works-e7f8a43018c8?source=rss------programming-5) (2026-04-18)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Cloud Cost Optimization: Principles that still matter](https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/) (2026-04-15)
-- [Optimize object storage costs automatically with smart tier—now generally available](https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/) (2026-04-14)
 - [Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/) (2026-04-09)
 - [How Drasi used GitHub Copilot to find documentation bugs](https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/) (2026-04-09)
 - [Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value](https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/) (2026-04-08)
+- [Azure IaaS: Keep critical applications running with built-in resiliency at scale](https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/) (2026-04-01)
+- [Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver Azure Local on Galleon modular datacenters](https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/) (2026-03-31)
 
 </details>
 
@@ -557,11 +557,11 @@ https://www.twilio.com/en-us/blog/insights/build-email-marketing-strategy
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Learn Python for Data Science Fast in 2026 (Without Wasting Time)](https://towardsdatascience.com/how-to-learn-python-so-fast-it-feels-like-cheating/) (2026-04-18)
 - [Beyond Prompting: Using Agent Skills in Data Science](https://towardsdatascience.com/beyond-prompting-using-agent-skills-in-data-science/) (2026-04-17)
 - [You Don’t Need Many Labels to Learn](https://towardsdatascience.com/you-dont-need-many-labels-to-learn/) (2026-04-17)
 - [6 Things I Learned Building LLMs From Scratch That No Tutorial Teaches You](https://towardsdatascience.com/6-things-i-learned-building-llms-from-scratch-that-no-tutorial-teaches-you/) (2026-04-17)
 - [A Practical Guide to Memory for Autonomous LLM Agents](https://towardsdatascience.com/a-practical-guide-to-memory-for-autonomous-llm-agents/) (2026-04-17)
-- [What It Actually Takes to Run Code on 200M€ Supercomputer](https://towardsdatascience.com/what-it-actually-takes-to-run-code-on-200me-supercomputer/) (2026-04-16)
 
 </details>
 
