@@ -20,19 +20,19 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Once close enough for an acquisition, Stripe and Airwallex are now going after each other](https://techcrunch.com/2026/04/17/once-close-enough-for-an-acquisition-stripe-and-airwallex-are-now-going-after-each-other/) (2026-04-18)
 - [Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.](https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/) (2026-04-17)
 - [Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’](https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/) (2026-04-17)
 - [Man who hacked US Supreme Court filing system sentenced to probation](https://techcrunch.com/2026/04/17/man-who-hacked-us-supreme-court-filing-system-sentenced-to-probation/) (2026-04-17)
 - [Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges](https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/) (2026-04-17)
-- [‘Tokenmaxxing’ is making developers less productive than they think](https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/) (2026-04-17)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Generating Hierarchical JSON Representations of Scientific Sentences Using LLMs](https://arxiv.org/abs/2603.23532) (2026-04-18)
-- [How to Host a Blog on a Subdirectory Instead of a Subdomain](https://www.davidma.org/blog/2025-11-14-host-your-blog-on-a-subdirectory/) (2026-04-17)
+- [Show HN: I made a calculator that works over disjoint sets of intervals](https://victorpoughon.github.io/interval-calculator/) (2026-04-18)
+- [Casus Belli Engineering](https://marcosmagueta.com/blog/casus-belli-engineering/) (2026-04-18)
 - [Landmark ancient-genome study shows surprise acceleration of human evolution](https://www.nature.com/articles/d41586-026-01204-5) (2026-04-17)
 - [A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c) (2026-04-17)
 - [Arc Prize Foundation (YC W26) Is Hiring a Platform Engineer for ARC-AGI-4](https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead) (2026-04-17)
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Brain, Explained](https://dev.to/jimmymcbride/brain-explained-757) (2026-04-18)
-- [GitHub Copilot in 2026 is not what you think it is anymore](https://dev.to/carlosjcastrog/github-copilot-in-2026-is-not-what-you-think-it-is-anymore-ij3) (2026-04-18)
-- [I Built an AI Chief of Staff That Never Forgets Most startup chaos is memory failure](https://dev.to/dheer46/i-built-an-ai-chief-of-staff-that-never-forgets-most-startup-chaos-is-memory-failure-34p0) (2026-04-18)
-- [GraphQL vs REST: 18 Claims Fact-Checked with Primary Sources (2026)](https://dev.to/wundergraph/graphql-vs-rest-18-claims-fact-checked-with-primary-sources-2026-117l) (2026-04-18)
-- [Jibun Corp's AI Hub Reaches 35 Providers: Adding SiliconFlow and Novita AI](https://dev.to/kanta13jp1/jibun-corps-ai-hub-reaches-35-providers-adding-siliconflow-and-novita-ai-moa) (2026-04-18)
+- [How to Always Reply from Your Custom Domain Email in Gmail](https://dev.to/rdjarbeng/how-to-always-reply-from-your-custom-domain-email-in-gmail-9i5) (2026-04-18)
+- [Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage](https://dev.to/gde/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-4ik9) (2026-04-18)
+- [Broken Access Control Full Server Compromise](https://dev.to/caisd/broken-access-control-full-server-compromise-56aa) (2026-04-18)
+- [My 2 cents on the Spatie guidelines agent skills](https://dev.to/xwero/my-2-cents-on-spatie-guidelines-agent-skill-1jl4) (2026-04-18)
+- [How Does Real Estate Tokenization Transform Physical Assets into Digital Securities?](https://dev.to/suzie_iris_65ce8070067366/how-does-real-estate-tokenization-transform-physical-assets-into-digital-securities-1mhf) (2026-04-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Frontend Interview Experience – Round 1](https://medium.com/@anil-singh/frontend-interview-experience-round-1-9be3afc8e5e0?source=rss------programming-5) (2026-04-18)
-- [When Resilience Makes the Outage Worse](https://medium.com/@vikpoca/when-resilience-makes-the-outage-worse-ea521f2cd366?source=rss------programming-5) (2026-04-18)
-- [Go 1.26 & GoLand 2026.1: Engineering for the Next Decade of Microservices](https://muttaqinrizal.medium.com/go-1-26-goland-2026-1-engineering-for-the-next-decade-of-microservices-ef1c7720a5ad?source=rss------programming-5) (2026-04-18)
-- [Why does AI still mimic the human “write code → compile → run”](https://dhirajpatra.medium.com/why-does-ai-still-mimic-the-human-write-code-compile-run-0e49a6ddfb55?source=rss------programming-5) (2026-04-18)
-- [How I Found My First CVE — SQL Injection Authentication Bypass (CVE-2026-37749)](https://medium.com/@menevarad007/how-i-found-my-first-cve-sql-injection-authentication-bypass-cve-2026-37749-e13d6f82caec?source=rss------programming-5) (2026-04-18)
+- [Why Students Understand Excel but Fear Formulas](https://medium.com/@timurlevitin/why-students-understand-excel-but-fear-formulas-1dbaace571a7?source=rss------programming-5) (2026-04-18)
+- [I Tested 5 Python Trends in 2026. Only 2 Are Worth Your Time.](https://medium.com/@inprogrammer/i-tested-5-python-trends-in-2026-only-2-are-worth-your-time-28a5c026508b?source=rss------programming-5) (2026-04-18)
+- [Sidecar Pattern Deep Dive](https://medium.com/@vansh.khandelwal06/sidecar-pattern-deep-dive-1c84e65d6797?source=rss------programming-5) (2026-04-18)
+- [Situs Judi Bola Lambangbet Berhadiah Handphone Terpercaya](https://medium.com/@sapphirezestful/situs-judi-bola-lambangbet-berhadiah-handphone-terpercaya-7c66b4de34ca?source=rss------programming-5) (2026-04-18)
+- [Insertion Sort Algorithm in Java: Learn with Practical Examples](https://medium.com/@robinviktorsson/insertion-sort-algorithm-in-java-learn-with-practical-examples-e85f2c7f0ba8?source=rss------programming-5) (2026-04-18)
 
 </details>
 
