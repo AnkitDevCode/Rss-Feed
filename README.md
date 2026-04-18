@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [“Tokenmaxxing” is making developers less productive than they think](https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/) (2026-04-17)
-- [Hackers are abusing unpatched Windows security flaws to hack into organizations](https://techcrunch.com/2026/04/17/hackers-are-abusing-unpatched-windows-security-flaws-to-hack-into-organizations/) (2026-04-17)
-- [Zoom teams up with World to verify humans in meetings](https://techcrunch.com/2026/04/17/zoom-teams-up-with-world-to-verify-humans-in-meeting/) (2026-04-17)
-- [Gigs turns your concert history into a personal live music archive](https://techcrunch.com/2026/04/17/gigs-turns-your-concert-history-into-a-personal-live-music-archive/) (2026-04-17)
-- [Chef Robotics escaped the robot cooking graveyard and says it’s thriving — here’s why](https://techcrunch.com/2026/04/17/chef-robotics-escaped-the-robot-cooking-graveyard-and-says-its-thriving-heres-why/) (2026-04-17)
+- [Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.](https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/) (2026-04-17)
+- [Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’](https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/) (2026-04-17)
+- [Man who hacked US Supreme Court filing system sentenced to probation](https://techcrunch.com/2026/04/17/man-who-hacked-us-supreme-court-filing-system-sentenced-to-probation/) (2026-04-17)
+- [Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges](https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/) (2026-04-17)
+- [‘Tokenmaxxing’ is making developers less productive than they think](https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/) (2026-04-17)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [All 12 moonwalkers had "lunar hay fever" from dust smelling like gunpowder](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon) (2026-04-17)
-- [NeoGeo AES+: SNK announces reissue of retro console without emulation](https://www.heise.de/en/news/NeoGeo-AES-SNK-announces-reissue-of-retro-console-without-emulation-11262319.html) (2026-04-17)
-- [Show HN: Smol machines – subsecond coldstart, portable virtual machines](https://github.com/smol-machines/smolvm) (2026-04-17)
-- [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/TcEa3b5-head-of-engineering) (2026-04-17)
-- [Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock](https://github.com/paniclock/paniclock/) (2026-04-17)
+- [Generating Hierarchical JSON Representations of Scientific Sentences Using LLMs](https://arxiv.org/abs/2603.23532) (2026-04-18)
+- [How to Host a Blog on a Subdirectory Instead of a Subdomain](https://www.davidma.org/blog/2025-11-14-host-your-blog-on-a-subdirectory/) (2026-04-17)
+- [Landmark ancient-genome study shows surprise acceleration of human evolution](https://www.nature.com/articles/d41586-026-01204-5) (2026-04-17)
+- [A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c) (2026-04-17)
+- [Arc Prize Foundation (YC W26) Is Hiring a Platform Engineer for ARC-AGI-4](https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead) (2026-04-17)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [OpenAI’s former Sora boss is leaving](https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing) (2026-04-17)
+- [Should you stare into Sam Altman&#8217;s orb before your next date?](https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb) (2026-04-17)
+- [Anthropic’s new cybersecurity model could get it back in the government’s good graces](https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview) (2026-04-17)
 - [Betting on the news raises ethical questions for journalists](https://www.theverge.com/report/914157/prediction-markets-news-outlet-ethics-policy-propublica-kalshi-polymarket) (2026-04-17)
 - [This charming gadget writes bad AI poetry](https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on) (2026-04-17)
-- [Our new favorite budget phones](https://www.theverge.com/tech/912286/our-new-favorite-budget-phones) (2026-04-17)
-- [The best budget smartphones you can buy](https://www.theverge.com/gadgets/912271/best-budget-smartphones-cheap-iphone-android-phones) (2026-04-17)
-- [Dairy Queen is putting an AI chatbot in its drive-thrus](https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto) (2026-04-17)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [US-sanctioned currency exchange says $15 million heist done by "unfriendly states"](https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/) (2026-04-17)
+- [Man with @ihackedthegovernment Instagram account tells judge, “I made a mistake"](https://arstechnica.com/tech-policy/2026/04/man-with-ihackedthegovernment-instagram-account-tells-judge-i-made-a-mistake/) (2026-04-17)
+- [Trump picks qualified, normal health leader to head CDC; experts still cautious](https://arstechnica.com/health/2026/04/trump-picks-qualified-normal-health-leader-to-head-cdc-experts-still-cautious/) (2026-04-17)
 - [$25,000 buys plenty of used EVs: Here are some options](https://arstechnica.com/cars/2026/04/25000-buys-plenty-of-used-evs-here-are-some-options/) (2026-04-17)
 - [Satellite and drone images reveal big delays in US data center construction](https://arstechnica.com/ai/2026/04/construction-delays-hit-40-of-us-data-centers-planned-for-2026/) (2026-04-17)
-- [Amazon won’t release Fire Sticks that support sideloading anymore](https://arstechnica.com/gadgets/2026/04/amazon-wont-release-fire-sticks-that-support-sideloading-anymore/) (2026-04-17)
-- [Ridley Scott's post-apocalyptic The Dog Stars drops first trailer](https://arstechnica.com/culture/2026/04/ridley-scotts-post-apocalyptic-the-dog-stars-drops-first-trailer/) (2026-04-17)
-- [Artemis II pilot talks about what it was really like to fly and land in Orion](https://arstechnica.com/space/2026/04/artemis-ii-pilot-describes-landing-in-orion-from-intense-to-pure-elation/) (2026-04-17)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Skill-tree: finding the Claude Code habits you never touch](https://dev.to/palo_alto_ai/skill-tree-finding-the-claude-code-habits-you-never-touch-3bm5) (2026-04-17)
-- [The Vibe Design Wave, Continued 🌊 Claude Design Is Finally Here—Time to Graduate from Figma](https://dev.to/vteacher/the-vibe-design-wave-continued-claude-design-is-finally-here-time-to-graduate-from-figma-1583) (2026-04-17)
-- [The AI-Selenium Revolution: Transforming Modern Test Automation](https://dev.to/aums04/the-ai-selenium-revolution-transforming-modern-test-automation-223g) (2026-04-17)
-- [Kiro: Spec-driven Development Done Well](https://dev.to/juan_taylor_e2725f2c17127/kiro-spec-driven-development-done-well-216i) (2026-04-17)
-- [Intro to tc Cloud Functors: A Graph-First Mental Model for the Modern Cloud](https://dev.to/functors/intro-to-tc-cloud-functors-a-graph-first-mental-model-for-the-modern-cloud-3o17) (2026-04-17)
+- [Brain, Explained](https://dev.to/jimmymcbride/brain-explained-757) (2026-04-18)
+- [GitHub Copilot in 2026 is not what you think it is anymore](https://dev.to/carlosjcastrog/github-copilot-in-2026-is-not-what-you-think-it-is-anymore-ij3) (2026-04-18)
+- [I Built an AI Chief of Staff That Never Forgets Most startup chaos is memory failure](https://dev.to/dheer46/i-built-an-ai-chief-of-staff-that-never-forgets-most-startup-chaos-is-memory-failure-34p0) (2026-04-18)
+- [GraphQL vs REST: 18 Claims Fact-Checked with Primary Sources (2026)](https://dev.to/wundergraph/graphql-vs-rest-18-claims-fact-checked-with-primary-sources-2026-117l) (2026-04-18)
+- [Jibun Corp's AI Hub Reaches 35 Providers: Adding SiliconFlow and Novita AI](https://dev.to/kanta13jp1/jibun-corps-ai-hub-reaches-35-providers-adding-siliconflow-and-novita-ai-moa) (2026-04-18)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [You Don’t Understand System Design Until You’ve Broken a System](https://medium.com/engineering-playbook/you-dont-understand-system-design-until-you-ve-broken-a-system-0db605174aa2?source=rss------programming-5) (2026-04-17)
-- [Horizontal vs. Vertical Sharding: The Database Split Nobody Gets Right the First Time](https://medium.com/@tihomir.manushev/horizontal-vs-vertical-sharding-the-database-split-nobody-gets-right-the-first-time-a60ceacde1d0?source=rss------programming-5) (2026-04-17)
-- [AI-Assisted Development: My Experience Building with AI Copilots](https://medium.com/@nitesh14028/ai-assisted-development-my-experience-building-with-ai-copilots-da62014db2bf?source=rss------programming-5) (2026-04-17)
-- [You’re Not Bad at System Design. You Just Panic When It Matters](https://medium.com/engineering-playbook/youre-not-bad-at-system-design-you-just-panic-when-it-matters-614756c4c208?source=rss------programming-5) (2026-04-17)
-- [SQL Is a Language You Think You Know: The Queries That Work in Development and Collapse in…](https://medium.com/@hashan-dev/sql-is-a-language-you-think-you-know-the-queries-that-work-in-development-and-collapse-in-c2ca31f6f1a6?source=rss------programming-5) (2026-04-17)
+- [Frontend Interview Experience – Round 1](https://medium.com/@anil-singh/frontend-interview-experience-round-1-9be3afc8e5e0?source=rss------programming-5) (2026-04-18)
+- [When Resilience Makes the Outage Worse](https://medium.com/@vikpoca/when-resilience-makes-the-outage-worse-ea521f2cd366?source=rss------programming-5) (2026-04-18)
+- [Go 1.26 & GoLand 2026.1: Engineering for the Next Decade of Microservices](https://muttaqinrizal.medium.com/go-1-26-goland-2026-1-engineering-for-the-next-decade-of-microservices-ef1c7720a5ad?source=rss------programming-5) (2026-04-18)
+- [Why does AI still mimic the human “write code → compile → run”](https://dhirajpatra.medium.com/why-does-ai-still-mimic-the-human-write-code-compile-run-0e49a6ddfb55?source=rss------programming-5) (2026-04-18)
+- [How I Found My First CVE — SQL Injection Authentication Bypass (CVE-2026-37749)](https://medium.com/@menevarad007/how-i-found-my-first-cve-sql-injection-authentication-bypass-cve-2026-37749-e13d6f82caec?source=rss------programming-5) (2026-04-18)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Cloud Cost Optimization: Principles that still matter](https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/) (2026-04-15)
 - [Optimize object storage costs automatically with smart tier—now generally available](https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/) (2026-04-14)
 - [Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/) (2026-04-09)
 - [How Drasi used GitHub Copilot to find documentation bugs](https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/) (2026-04-09)
 - [Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value](https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/) (2026-04-08)
-- [Azure IaaS: Keep critical applications running with built-in resiliency at scale](https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/) (2026-04-01)
 
 </details>
 
@@ -163,11 +163,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Experimental hybrid inference and new Gemini models for Android](https://android-developers.googleblog.com/2026/04/Hybrid-inference-and-new-AI-models-are-coming-to-Android.html) (2026-04-17)
 - [The Fourth Beta of Android 17](https://android-developers.googleblog.com/2026/04/the-fourth-beta-of-android-17.html) (2026-04-16)
 - [Android CLI and skills: Build Android apps 3x faster using any agent](https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html) (2026-04-16)
 - [Boosting user privacy and business protection with updated Play policies](https://android-developers.googleblog.com/2026/04/giving-users-clearer-choice-and-everyone-a-safer-more-trusted-app-ecosystem.html) (2026-04-15)
 - [Get ready for Google I/O: Livestream schedule revealed](https://android-developers.googleblog.com/2026/04/get-ready-for-google-io-livestream-schedule-revealed.html) (2026-04-14)
-- [Test Multi-Device Interactions with the Android Emulator](https://android-developers.googleblog.com/2026/04/Test-Multi-Device-Interactions-with-the-Android-Emulator.html) (2026-04-13)
 
 </details>
 
