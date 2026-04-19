@@ -33,9 +33,9 @@
 
 - [NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating](https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/) (2026-04-18)
 - [Zero-Copy GPU Inference from WebAssembly on Apple Silicon](https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/) (2026-04-18)
-- [Dad brains: How fatherhood rewires the male mind](https://www.bbc.com/future/article/20260417-fatherhood-how-the-male-brain-and-body-prepare-for-childcare) (2026-04-18)
 - [My first impressions on ROCm and Strix Halo](https://blog.marcoinacio.com/posts/my-first-impressions-rocm-strix-halo/) (2026-04-18)
 - [NIST scientists create 'any wavelength' lasers](https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits) (2026-04-18)
+- [Optimizing Ruby Path Methods](https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html) (2026-04-18)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [When Code Breaks: How to Handle Errors Like a Pro](https://dev.to/yakhilesh/when-code-breaks-how-to-handle-errors-like-a-pro-3g02) (2026-04-19)
-- [How to Fix Inconsistent Checkout and Tax Labels in WooCommerce](https://dev.to/nexuwp/how-to-fix-inconsistent-checkout-and-tax-labels-in-woocommerce-1c2o) (2026-04-19)
-- [Build Your Own Types: Classes Explained Simply](https://dev.to/yakhilesh/build-your-own-types-classes-explained-simply-26dj) (2026-04-19)
-- [Dictionaries: When a List Just Isn't Enough](https://dev.to/yakhilesh/dictionaries-when-a-list-just-isnt-enough-27o9) (2026-04-19)
-- [Lists: The Most Useful Thing in Python](https://dev.to/yakhilesh/lists-the-most-useful-thing-in-python-4jpk) (2026-04-19)
+- [Understanding Indonesia's Land Acquisition Regulations for Foreign Investors: A 2026 Overview](https://dev.to/tanerizawa/understanding-indonesias-land-acquisition-regulations-for-foreign-investors-a-2026-overview-mah) (2026-04-19)
+- [How I Added i18n to My Next.js App Router Project](https://dev.to/yone3/how-i-added-i18n-to-my-nextjs-app-router-project-41aj) (2026-04-19)
+- [I built a bird flight simulator you control by flapping your arms (Three.js + MediaPipe)](https://dev.to/ki-mathias/i-built-a-bird-flight-simulator-you-control-by-flapping-your-arms-threejs-mediapipe-ld6) (2026-04-19)
+- [I ran 4 autonomous Claude agents for 6 months. Here's the data.](https://dev.to/david_shin_0c7d69b704a649/i-ran-4-autonomous-claude-agents-for-6-months-heres-the-data-1op5) (2026-04-19)
+- [How to Store Code Intelligence Graphs Efficiently](https://dev.to/opprajwal/how-to-store-code-intelligence-graphs-efficiently-6d4) (2026-04-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [InterLink Visa Card: Bringing Crypto Into Everyday Life](https://medium.com/@ranjithreddyp.3688/interlink-visa-card-bringing-crypto-into-everyday-life-ab4e151eb039?source=rss------programming-5) (2026-04-19)
-- [10 Powerful Extension Points in Spring Every Developer Should Know](https://medium.com/@RichaShukla2111/10-powerful-extension-points-in-spring-every-developer-should-know-30702e3a265b?source=rss------programming-5) (2026-04-19)
-- [JavaScript’s Great Modernization: Why the Temporal API is a Milestone for Web Development](https://muttaqinrizal.medium.com/javascripts-great-modernization-why-the-temporal-api-is-a-milestone-for-web-development-3c7bf3242e0b?source=rss------programming-5) (2026-04-19)
-- [Behind the Scenes — How I Structured “AI Mastery” at 13 Years Old](https://medium.com/@markchristian0510/behind-the-scenes-how-i-structured-ai-mastery-at-13-years-old-8217f7a670aa?source=rss------programming-5) (2026-04-19)
-- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-c119c74de6f0?source=rss------programming-5) (2026-04-19)
+- [AI Can Write Code, But It Cannot Replace Real Developers](https://medium.com/@sovannaro/ai-can-write-code-but-it-cannot-replace-real-developers-eb0f85b6f1e4?source=rss------programming-5) (2026-04-19)
+- [GitHub Copilot Is Not Reading Your Mind](https://medium.com/@glenn.dcosta/github-copilot-is-not-reading-your-mind-371b2f8b37db?source=rss------programming-5) (2026-04-19)
+- [Building AI Apps Isn’t About Accuracy — It’s About Vibes (What I Learned as a Student Developer)](https://medium.com/@sathvikkonduri14/building-ai-apps-isnt-about-accuracy-it-s-about-vibes-what-i-learned-as-a-student-developer-80c30bff5e66?source=rss------programming-5) (2026-04-19)
+- [4 Ways To Implement Auto-CRUD + Some Pros & Cons](https://levelup.gitconnected.com/4-ways-to-implement-auto-crud-some-pros-cons-23c8c635d7c9?source=rss------programming-5) (2026-04-19)
+- [Python Async is a Lie (And You Fell For It)](https://medium.com/@mishrashwetapradeep759/python-async-is-a-lie-and-you-fell-for-it-3198e4d6722d?source=rss------programming-5) (2026-04-19)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Cloud Cost Optimization: Principles that still matter](https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/) (2026-04-15)
-- [Optimize object storage costs automatically with smart tier—now generally available](https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/) (2026-04-14)
 - [Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/) (2026-04-09)
 - [How Drasi used GitHub Copilot to find documentation bugs](https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/) (2026-04-09)
 - [Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value](https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/) (2026-04-08)
+- [Azure IaaS: Keep critical applications running with built-in resiliency at scale](https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/) (2026-04-01)
+- [Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver Azure Local on Galleon modular datacenters](https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/) (2026-03-31)
 
 </details>
 
