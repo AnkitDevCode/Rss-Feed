@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Tesla brings its robotaxi service to Dallas and Houston](https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/) (2026-04-18)
+- [VC Ron Conway says he has a ‘rare form of cancer’](https://techcrunch.com/2026/04/18/vc-ron-conway-says-he-has-a-rare-form-of-cancer/) (2026-04-18)
+- [AI chip startup Cerebras files for IPO](https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/) (2026-04-18)
 - [Anthropic’s relationship with the Trump administration seems to be thawing](https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/) (2026-04-18)
 - [The App Store is booming again, and AI may be why](https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/) (2026-04-18)
-- [Once close enough for an acquisition, Stripe and Airwallex are now going after each other](https://techcrunch.com/2026/04/17/once-close-enough-for-an-acquisition-stripe-and-airwallex-are-now-going-after-each-other/) (2026-04-18)
-- [Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.](https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/) (2026-04-17)
-- [Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’](https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/) (2026-04-17)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Graphs That Explain the State of AI in 2026](https://spectrum.ieee.org/state-of-ai-index-2026) (2026-04-18)
-- [UpCodes (YC S17) Is Hiring SDRs to Help Make Construction More Productive](https://up.codes/careers?utm_source=HN) (2026-04-18)
-- [The USDA's gardening zones have shifted. (Interactive app and map)](https://apps.npr.org/plant-hardiness-garden-map/) (2026-04-18)
-- [The electromechanical angle computer inside the B-52 bomber's star tracker](https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html) (2026-04-18)
-- [Opus 4.7 to 4.6 Inflation is ~45%](https://tokens.billchambers.me/leaderboard) (2026-04-18)
+- [NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating](https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/) (2026-04-18)
+- [Zero-Copy GPU Inference from WebAssembly on Apple Silicon](https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/) (2026-04-18)
+- [Dad brains: How fatherhood rewires the male mind](https://www.bbc.com/future/article/20260417-fatherhood-how-the-male-brain-and-body-prepare-for-childcare) (2026-04-18)
+- [My first impressions on ROCm and Strix Halo](https://blog.marcoinacio.com/posts/my-first-impressions-rocm-strix-halo/) (2026-04-18)
+- [NIST scientists create 'any wavelength' lasers](https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits) (2026-04-18)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The RAM shortage could last years](https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years) (2026-04-18)
 - [Judge rules Trump administration violated the First Amendment in fight against ICE-tracking](https://www.theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking) (2026-04-18)
 - [Cheap stuff that doesn’t suck, take 3](https://www.theverge.com/gadgets/912620/cheap-gadgets-tech-under-50-tools-headphones-fitness-trackers) (2026-04-18)
 - [Dyson’s handheld fan is more powerful and louder than I expected](https://www.theverge.com/tech/908962/dyson-hushjet-mini-cool-personal-handheld-fan-hands-on) (2026-04-18)
 - [There’s nothing like an RPG over vacation](https://www.theverge.com/games/908358/people-of-note-pc-playstation-xbox-nintendo-switch-2) (2026-04-18)
-- [The AI apps are coming for your PC](https://www.theverge.com/tech/914429/the-ai-apps-are-coming-for-your-pc) (2026-04-18)
 
 </details>
 
@@ -97,23 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Introducing @accesslint/jest: progressive accessibility testing for Jest](https://dev.to/cameron-accesslint/introducing-accesslintjest-progressive-accessibility-testing-for-jest-3i7j) (2026-04-18)
-- [Building Systems, Not Just Code](https://dev.to/chaitanyakukwas1/building-systems-not-just-code-4deg) (2026-04-18)
-- [AI Consultant WP New Release 2.4.0](https://dev.to/bilohash/ai-consultant-wp-new-release-240-3k71) (2026-04-18)
-- [Scaling Our Daily Twitter Scraping Workflow with actionbook's Cloud Browser Providers](https://dev.to/senke0x/scaling-our-daily-twitter-scraping-workflow-with-actionbooks-cloud-browser-providers-1hlh) (2026-04-18)
-- [ZAP1 + x402: privacy-preserving proof of paid access, anchored to Zcash](https://dev.to/zknd3r/zap1-x402-privacy-preserving-proof-of-paid-access-anchored-to-zcash-1od4) (2026-04-18)
+- [When Code Breaks: How to Handle Errors Like a Pro](https://dev.to/yakhilesh/when-code-breaks-how-to-handle-errors-like-a-pro-3g02) (2026-04-19)
+- [How to Fix Inconsistent Checkout and Tax Labels in WooCommerce](https://dev.to/nexuwp/how-to-fix-inconsistent-checkout-and-tax-labels-in-woocommerce-1c2o) (2026-04-19)
+- [Build Your Own Types: Classes Explained Simply](https://dev.to/yakhilesh/build-your-own-types-classes-explained-simply-26dj) (2026-04-19)
+- [Dictionaries: When a List Just Isn't Enough](https://dev.to/yakhilesh/dictionaries-when-a-list-just-isnt-enough-27o9) (2026-04-19)
+- [Lists: The Most Useful Thing in Python](https://dev.to/yakhilesh/lists-the-most-useful-thing-in-python-4jpk) (2026-04-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Who Is That Agent, Really?](https://medium.com/codetodeploy/who-is-that-agent-really-e525bbe4c402?source=rss------programming-5) (2026-04-18)
-- [RHAPSODY OF REALITIES - 18TH APRIL 2026
-"Love is not defined by human sentiment, emotion, weakness…](https://medium.com/@folajeff/rhapsody-of-realities-18th-april-2026-love-is-not-defined-by-human-sentiment-emotion-weakness-74f33b1fb6b8?source=rss------programming-5) (2026-04-18)
-- [ From Django to GitOps: Complete DevOps Journey of mrcaption49](https://medium.com/@pranavsb699/from-django-to-gitops-complete-devops-journey-of-mrcaption49-d58b2b5b1ec6?source=rss------programming-5) (2026-04-18)
-- [Writing Long Functions Is A Trap. How The Anonymous Function Secret Will Save Your Python Scripts](https://medium.com/codetodeploy/writing-long-functions-is-a-trap-how-the-anonymous-function-secret-will-save-your-python-scripts-d3dbc8591729?source=rss------programming-5) (2026-04-18)
-- [The Better Way to Configure Entity Framework Core](https://medium.com/@michaelmaurice410/the-better-way-to-configure-entity-framework-core-c09ead9d2f50?source=rss------programming-5) (2026-04-18)
+- [InterLink Visa Card: Bringing Crypto Into Everyday Life](https://medium.com/@ranjithreddyp.3688/interlink-visa-card-bringing-crypto-into-everyday-life-ab4e151eb039?source=rss------programming-5) (2026-04-19)
+- [10 Powerful Extension Points in Spring Every Developer Should Know](https://medium.com/@RichaShukla2111/10-powerful-extension-points-in-spring-every-developer-should-know-30702e3a265b?source=rss------programming-5) (2026-04-19)
+- [JavaScript’s Great Modernization: Why the Temporal API is a Milestone for Web Development](https://muttaqinrizal.medium.com/javascripts-great-modernization-why-the-temporal-api-is-a-milestone-for-web-development-3c7bf3242e0b?source=rss------programming-5) (2026-04-19)
+- [Behind the Scenes — How I Structured “AI Mastery” at 13 Years Old](https://medium.com/@markchristian0510/behind-the-scenes-how-i-structured-ai-mastery-at-13-years-old-8217f7a670aa?source=rss------programming-5) (2026-04-19)
+- [DAILY SPRING DEVOTIONAL.](https://medium.com/@DailySpringDevotional/daily-spring-devotional-c119c74de6f0?source=rss------programming-5) (2026-04-19)
 
 </details>
 
