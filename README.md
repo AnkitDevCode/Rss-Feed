@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Cracks are starting to form on fusion energy’s funding boom](https://techcrunch.com/2026/04/19/cracks-are-starting-to-form-on-fusion-energys-funding-boom/) (2026-04-19)
+- [Blue Origin successfully re-uses a New Glenn rocket for the first time ever](https://techcrunch.com/2026/04/19/blue-origin-successfully-re-uses-a-new-glenn-rocket-for-the-first-time-ever/) (2026-04-19)
 - [Tesla brings its robotaxi service to Dallas and Houston](https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/) (2026-04-18)
 - [VC Ron Conway says he has a ‘rare form of cancer’](https://techcrunch.com/2026/04/18/vc-ron-conway-says-he-has-a-rare-form-of-cancer/) (2026-04-18)
 - [AI chip startup Cerebras files for IPO](https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/) (2026-04-18)
-- [Anthropic’s relationship with the Trump administration seems to be thawing](https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/) (2026-04-18)
-- [The App Store is booming again, and AI may be why](https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/) (2026-04-18)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating](https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/) (2026-04-18)
-- [Zero-Copy GPU Inference from WebAssembly on Apple Silicon](https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/) (2026-04-18)
-- [My first impressions on ROCm and Strix Halo](https://blog.marcoinacio.com/posts/my-first-impressions-rocm-strix-halo/) (2026-04-18)
-- [NIST scientists create 'any wavelength' lasers](https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits) (2026-04-18)
-- [Optimizing Ruby Path Methods](https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html) (2026-04-18)
+- [Why Zip drives dominated the 90s, then vanished almost overnight](https://www.xda-developers.com/zip-drives-dominated-90s-vanished-almost-overnight/) (2026-04-19)
+- [Changes in the system prompt between Claude Opus 4.6 and 4.7](https://simonwillison.net/2026/Apr/18/opus-system-prompt/) (2026-04-19)
+- [Ask HN: How did you land your first projects as a solo engineer/consultant?](https://news.ycombinator.com/item?id=47822940) (2026-04-19)
+- [SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf) (2026-04-19)
+- [Binary GCD](https://en.algorithmica.org/hpc/algorithms/gcd/#binary-gcd) (2026-04-19)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Marathon battery life makes Keychron’s Ultra 8K keyboards its best yet](https://www.theverge.com/tech/914085/keychron-q1-v5-ultra-8k-zmk-mechanical-keyboards-review) (2026-04-19)
+- [The future of local TV news has taken a Trumpian turn](https://www.theverge.com/column/914674/nexstar-tegna-merger-trump-local-news) (2026-04-19)
 - [The RAM shortage could last years](https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years) (2026-04-18)
 - [Judge rules Trump administration violated the First Amendment in fight against ICE-tracking](https://www.theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking) (2026-04-18)
 - [Cheap stuff that doesn’t suck, take 3](https://www.theverge.com/gadgets/912620/cheap-gadgets-tech-under-50-tools-headphones-fitness-trackers) (2026-04-18)
-- [Dyson’s handheld fan is more powerful and louder than I expected](https://www.theverge.com/tech/908962/dyson-hushjet-mini-cool-personal-handheld-fan-hands-on) (2026-04-18)
-- [There’s nothing like an RPG over vacation](https://www.theverge.com/games/908358/people-of-note-pc-playstation-xbox-nintendo-switch-2) (2026-04-18)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [I’ve fired one of America’s most powerful lasers—here’s what a shot day looks like](https://arstechnica.com/science/2026/04/ive-fired-one-of-americas-most-powerful-lasers-heres-what-a-shot-day-looks-like/) (2026-04-19)
 - [Great white sharks are overheating](https://arstechnica.com/science/2026/04/great-white-sharks-are-overheating/) (2026-04-18)
 - [US-sanctioned currency exchange says $15 million heist done by "unfriendly states"](https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/) (2026-04-17)
 - [Man with @ihackedthegovernment Instagram account tells judge, “I made a mistake"](https://arstechnica.com/tech-policy/2026/04/man-with-ihackedthegovernment-instagram-account-tells-judge-i-made-a-mistake/) (2026-04-17)
 - [Trump picks qualified, normal health leader to head CDC; experts still cautious](https://arstechnica.com/health/2026/04/trump-picks-qualified-normal-health-leader-to-head-cdc-experts-still-cautious/) (2026-04-17)
-- [$25,000 buys plenty of used EVs: Here are some options](https://arstechnica.com/cars/2026/04/25000-buys-plenty-of-used-evs-here-are-some-options/) (2026-04-17)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Understanding Indonesia's Land Acquisition Regulations for Foreign Investors: A 2026 Overview](https://dev.to/tanerizawa/understanding-indonesias-land-acquisition-regulations-for-foreign-investors-a-2026-overview-mah) (2026-04-19)
-- [How I Added i18n to My Next.js App Router Project](https://dev.to/yone3/how-i-added-i18n-to-my-nextjs-app-router-project-41aj) (2026-04-19)
-- [I built a bird flight simulator you control by flapping your arms (Three.js + MediaPipe)](https://dev.to/ki-mathias/i-built-a-bird-flight-simulator-you-control-by-flapping-your-arms-threejs-mediapipe-ld6) (2026-04-19)
-- [I ran 4 autonomous Claude agents for 6 months. Here's the data.](https://dev.to/david_shin_0c7d69b704a649/i-ran-4-autonomous-claude-agents-for-6-months-heres-the-data-1op5) (2026-04-19)
-- [How to Store Code Intelligence Graphs Efficiently](https://dev.to/opprajwal/how-to-store-code-intelligence-graphs-efficiently-6d4) (2026-04-19)
+- [konid: three translations per phrase, with register — across four MCP clients](https://dev.to/palo_alto_ai/konid-three-translations-per-phrase-with-register-across-four-mcp-clients-3749) (2026-04-19)
+- [The RED Method: Request Rate, Errors, and Duration as Your Core SLIs](https://dev.to/dylan_dumont_266378d98367/the-red-method-request-rate-errors-and-duration-as-your-core-slis-4jk) (2026-04-19)
+- [accounting training video script](https://dev.to/a3e_ecosystem/accounting-training-video-script-2l36) (2026-04-19)
+- [How Voice AI handles DTMF: the complete guide (RFC 2833 vs SIP INFO vs in-band)](https://dev.to/priyanka_309d6c6a6006387e/how-voice-ai-handles-dtmf-the-complete-guide-rfc-2833-vs-sip-info-vs-in-band-54do) (2026-04-19)
+- [You Cannot Mandate Your Way to AI Adoption](https://dev.to/pixari/you-cannot-mandate-your-way-to-ai-adoption-5c92) (2026-04-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [AI Can Write Code, But It Cannot Replace Real Developers](https://medium.com/@sovannaro/ai-can-write-code-but-it-cannot-replace-real-developers-eb0f85b6f1e4?source=rss------programming-5) (2026-04-19)
-- [GitHub Copilot Is Not Reading Your Mind](https://medium.com/@glenn.dcosta/github-copilot-is-not-reading-your-mind-371b2f8b37db?source=rss------programming-5) (2026-04-19)
-- [Building AI Apps Isn’t About Accuracy — It’s About Vibes (What I Learned as a Student Developer)](https://medium.com/@sathvikkonduri14/building-ai-apps-isnt-about-accuracy-it-s-about-vibes-what-i-learned-as-a-student-developer-80c30bff5e66?source=rss------programming-5) (2026-04-19)
-- [4 Ways To Implement Auto-CRUD + Some Pros & Cons](https://levelup.gitconnected.com/4-ways-to-implement-auto-crud-some-pros-cons-23c8c635d7c9?source=rss------programming-5) (2026-04-19)
-- [Python Async is a Lie (And You Fell For It)](https://medium.com/@mishrashwetapradeep759/python-async-is-a-lie-and-you-fell-for-it-3198e4d6722d?source=rss------programming-5) (2026-04-19)
+- [Claude Skills Collection: 161 AI Skills That Turn Claude Into a Senior Expert](https://medium.com/@mahmoud.abdou2002/claude-skills-collection-161-ai-skills-that-turn-claude-into-a-senior-expert-13c8abead642?source=rss------programming-5) (2026-04-19)
+- [Panduan Lengkap Akuisisi dan Manipulasi Data Raya](https://medium.com/@benzhirozola/panduan-lengkap-akuisisi-dan-manipulasi-data-raya-25a79658dd81?source=rss------programming-5) (2026-04-19)
+- [The Hidden Skill Every Senior Developer Has: Handling Edge Cases](https://meetpan1048.medium.com/the-hidden-skill-every-senior-developer-has-handling-edge-cases-95b9acb5e76b?source=rss------programming-5) (2026-04-19)
+- [I Built a Profitable Startup in 5 Days, and All I Got Was This $4/Mo VPS Bill](https://medium.com/@bf_69202/i-built-a-profitable-startup-in-5-days-and-all-i-got-was-this-4-mo-vps-bill-5b8bb99ebd22?source=rss------programming-5) (2026-04-19)
+- [You Do Not Lack Skills. You Lack Exposure](https://medium.com/@EquinoxDev/you-do-not-lack-skills-you-lack-exposure-e57e3d6d448e?source=rss------programming-5) (2026-04-19)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Optimize object storage costs automatically with smart tier—now generally available](https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/) (2026-04-14)
 - [Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/) (2026-04-09)
 - [How Drasi used GitHub Copilot to find documentation bugs](https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/) (2026-04-09)
 - [Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value](https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/) (2026-04-08)
 - [Azure IaaS: Keep critical applications running with built-in resiliency at scale](https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/) (2026-04-01)
-- [Building sovereign AI at the edge: Microsoft and Armada collaborate to deliver Azure Local on Galleon modular datacenters](https://azure.microsoft.com/en-us/blog/building-sovereign-ai-at-the-edge-microsoft-and-armada-collaborate-to-deliver-azure-local-on-galleon-modular-datacenters/) (2026-03-31)
 
 </details>
 
@@ -544,35 +544,24 @@ https://www.twilio.com/en-us/blog/insights/build-email-marketing-strategy
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [OpenAI Agents SDK improves governance with sandbox execution](https://www.artificialintelligence-news.com/news/openai-agents-sdk-improves-governance-sandbox-execution/) (2026-04-16)
-- [Cadence expands AI and robotic partnerships with Nvidia, Google Cloud](https://www.artificialintelligence-news.com/news/cadence-expands-ai-and-robotics-partnerships-with-nvidia-google-cloud/) (2026-04-16)
-- [Commvault launches a ‘Ctrl-Z’ for cloud AI workloads](https://www.artificialintelligence-news.com/news/commvault-launches-ctrl-z-for-cloud-ai-workloads/) (2026-04-15)
-- [Citizen developers now have their own Wingman](https://www.artificialintelligence-news.com/news/citizen-developers-now-have-their-own-wingman/) (2026-04-15)
-- [Drones get smarter for large farm holdings](https://www.artificialintelligence-news.com/news/agricultural-drones-get-smarter-for-large-farm-holdings/) (2026-04-15)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
+- [KV Cache Is Eating Your VRAM. Here’s How Google Fixed It With TurboQuant.](https://towardsdatascience.com/kv-cache-is-eating-your-vram-heres-how-google-fixed-it-with-turboquant/) (2026-04-19)
 - [Your RAG System Retrieves the Right Data — But Still Produces Wrong Answers. Here’s Why (and How to Fix It).](https://towardsdatascience.com/your-rag-system-retrieves-the-right-data-but-still-produces-wrong-answers-heres-why-and-how-to-fix-it/) (2026-04-18)
 - [AI Agents Need Their Own Desk, and Git Worktrees Give Them One](https://towardsdatascience.com/ai-agents-need-their-own-desk-and-git-worktrees-give-it-one/) (2026-04-18)
 - [How to Learn Python for Data Science Fast in 2026 (Without Wasting Time)](https://towardsdatascience.com/how-to-learn-python-so-fast-it-feels-like-cheating/) (2026-04-18)
 - [Beyond Prompting: Using Agent Skills in Data Science](https://towardsdatascience.com/beyond-prompting-using-agent-skills-in-data-science/) (2026-04-17)
-- [You Don’t Need Many Labels to Learn](https://towardsdatascience.com/you-dont-need-many-labels-to-learn/) (2026-04-17)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [How to Structure a Claude Code Project that Thinks Like an Engineer ](https://www.analyticsvidhya.com/blog/2026/04/claude-code-project-structure/) (2026-04-19)
 - [Gemma 4 Tool Calling Explained: Build AI Agents with Function Calling (Step-by-Step Guide)](https://www.analyticsvidhya.com/blog/2026/04/gemma-4-tool-calling/) (2026-04-18)
 - [Anthropic Launches Claude Opus 4.7 For “Most Difficult Tasks”](https://www.analyticsvidhya.com/blog/2026/04/claude-opus-4-7/) (2026-04-17)
 - [Top 28 Claude Shortcuts that will 10X your Speed](https://www.analyticsvidhya.com/blog/2026/04/top-claude-shortcuts/) (2026-04-17)
 - [GPT-5.4-Cyber: Why OpenAI is Keeping its Most Powerful Model Under Lock and Key](https://www.analyticsvidhya.com/blog/2026/04/openai-announces-gpt-5-4-cyber-but-you-cant-get-it-just-yet/) (2026-04-16)
-- [Google AI Studio Guide: Every Feature Explained](https://www.analyticsvidhya.com/blog/2026/04/google-ai-studio-guide/) (2026-04-16)
 
 </details>
 
