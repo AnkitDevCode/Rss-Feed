@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures](https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/) (2026-04-19)
+- [TechCrunch Mobility: Uber enters its assetmaxxing era](https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/) (2026-04-19)
 - [Cracks are starting to form on fusion energy’s funding boom](https://techcrunch.com/2026/04/19/cracks-are-starting-to-form-on-fusion-energys-funding-boom/) (2026-04-19)
 - [Blue Origin successfully re-uses a New Glenn rocket for the first time ever](https://techcrunch.com/2026/04/19/blue-origin-successfully-re-uses-a-new-glenn-rocket-for-the-first-time-ever/) (2026-04-19)
 - [Tesla brings its robotaxi service to Dallas and Houston](https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/) (2026-04-18)
-- [VC Ron Conway says he has a ‘rare form of cancer’](https://techcrunch.com/2026/04/18/vc-ron-conway-says-he-has-a-rare-form-of-cancer/) (2026-04-18)
-- [AI chip startup Cerebras files for IPO](https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/) (2026-04-18)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Why Zip drives dominated the 90s, then vanished almost overnight](https://www.xda-developers.com/zip-drives-dominated-90s-vanished-almost-overnight/) (2026-04-19)
-- [Changes in the system prompt between Claude Opus 4.6 and 4.7](https://simonwillison.net/2026/Apr/18/opus-system-prompt/) (2026-04-19)
-- [Ask HN: How did you land your first projects as a solo engineer/consultant?](https://news.ycombinator.com/item?id=47822940) (2026-04-19)
-- [SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf) (2026-04-19)
-- [Binary GCD](https://en.algorithmica.org/hpc/algorithms/gcd/#binary-gcd) (2026-04-19)
+- [Show HN: Faceoff – A terminal UI for following NHL games](https://www.vincentgregoire.com/faceoff/) (2026-04-19)
+- [Turtle WoW classic server announces shutdown after Blizzard wins injunction](https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/) (2026-04-19)
+- [Vercel Says Internal Systems Hit in Breach](https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/) (2026-04-19)
+- [Notion leaks email addresses of all editors of any public page](https://twitter.com/weezerOSINT/status/2045849358462222720) (2026-04-19)
+- [Notes from the SF Peptide Scene](https://12gramsofcarbon.com/p/notes-from-the-sf-peptide-scene) (2026-04-19)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Nothing’s modular CMF Headphone Pro are down to their lowest price to date](https://www.theverge.com/gadgets/913989/nothing-cmf-noise-canceling-headphone-pro-spring-sale-deal) (2026-04-19)
+- [The Stars My Destination is classic proto-cyberpunk](https://www.theverge.com/entertainment/914680/the-stars-my-destination-alfred-bester-review-cyberpunk) (2026-04-19)
 - [Marathon battery life makes Keychron’s Ultra 8K keyboards its best yet](https://www.theverge.com/tech/914085/keychron-q1-v5-ultra-8k-zmk-mechanical-keyboards-review) (2026-04-19)
 - [The future of local TV news has taken a Trumpian turn](https://www.theverge.com/column/914674/nexstar-tegna-merger-trump-local-news) (2026-04-19)
 - [The RAM shortage could last years](https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years) (2026-04-18)
-- [Judge rules Trump administration violated the First Amendment in fight against ICE-tracking](https://www.theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking) (2026-04-18)
-- [Cheap stuff that doesn’t suck, take 3](https://www.theverge.com/gadgets/912620/cheap-gadgets-tech-under-50-tools-headphones-fitness-trackers) (2026-04-18)
 
 </details>
 
@@ -97,22 +97,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [konid: three translations per phrase, with register — across four MCP clients](https://dev.to/palo_alto_ai/konid-three-translations-per-phrase-with-register-across-four-mcp-clients-3749) (2026-04-19)
-- [The RED Method: Request Rate, Errors, and Duration as Your Core SLIs](https://dev.to/dylan_dumont_266378d98367/the-red-method-request-rate-errors-and-duration-as-your-core-slis-4jk) (2026-04-19)
-- [accounting training video script](https://dev.to/a3e_ecosystem/accounting-training-video-script-2l36) (2026-04-19)
-- [How Voice AI handles DTMF: the complete guide (RFC 2833 vs SIP INFO vs in-band)](https://dev.to/priyanka_309d6c6a6006387e/how-voice-ai-handles-dtmf-the-complete-guide-rfc-2833-vs-sip-info-vs-in-band-54do) (2026-04-19)
-- [You Cannot Mandate Your Way to AI Adoption](https://dev.to/pixari/you-cannot-mandate-your-way-to-ai-adoption-5c92) (2026-04-19)
+- [FarmSense AI - An intelligent farming companion](https://dev.to/prath47/farmsense-ai-an-intelligent-farming-companion-2i8o) (2026-04-19)
+- [I Built a Playable Life Sim That Reveals Your Real Climate Impact at the End](https://dev.to/miawab/i-built-a-playable-life-sim-that-reveals-your-real-climate-impact-at-the-end-3h43) (2026-04-19)
+- [htop for Your Git History](https://dev.to/ticktockbent/htop-for-your-git-history-53oj) (2026-04-19)
+- [From $200/Month to Free: Running OpenClaw with Local AI Models](https://dev.to/mzunain/from-200month-to-free-running-openclaw-with-local-ai-models-37n9) (2026-04-19)
+- [EcoAgents — I built an AI agent that knows your carbon footprint and never lets you forget it](https://dev.to/navin_kumar_r/ecoagents-i-built-an-ai-agent-that-knows-your-carbon-footprint-and-never-lets-you-forget-it-4on2) (2026-04-19)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Claude Skills Collection: 161 AI Skills That Turn Claude Into a Senior Expert](https://medium.com/@mahmoud.abdou2002/claude-skills-collection-161-ai-skills-that-turn-claude-into-a-senior-expert-13c8abead642?source=rss------programming-5) (2026-04-19)
-- [Panduan Lengkap Akuisisi dan Manipulasi Data Raya](https://medium.com/@benzhirozola/panduan-lengkap-akuisisi-dan-manipulasi-data-raya-25a79658dd81?source=rss------programming-5) (2026-04-19)
-- [The Hidden Skill Every Senior Developer Has: Handling Edge Cases](https://meetpan1048.medium.com/the-hidden-skill-every-senior-developer-has-handling-edge-cases-95b9acb5e76b?source=rss------programming-5) (2026-04-19)
-- [I Built a Profitable Startup in 5 Days, and All I Got Was This $4/Mo VPS Bill](https://medium.com/@bf_69202/i-built-a-profitable-startup-in-5-days-and-all-i-got-was-this-4-mo-vps-bill-5b8bb99ebd22?source=rss------programming-5) (2026-04-19)
-- [You Do Not Lack Skills. You Lack Exposure](https://medium.com/@EquinoxDev/you-do-not-lack-skills-you-lack-exposure-e57e3d6d448e?source=rss------programming-5) (2026-04-19)
+- [AWS S3 Basics:
+How Do I Actually Store Files in the Cloud?](https://medium.com/@akildikshan01/aws-s3-basics-how-do-i-actually-store-files-in-the-cloud-3fa9c9ddfb75?source=rss------programming-5) (2026-04-19)
+- [Blog Draft: Building Aura — A Lightning-Fast, Fully Offline AI Assistant on a 4GB GPU](https://medium.com/@yalgetisanjeev.dev/blog-draft-building-aura-a-lightning-fast-fully-offline-ai-assistant-on-a-4gb-gpu-87c6858a365e?source=rss------programming-5) (2026-04-19)
+- [Rust in the Cockpit? Why the High-Stakes Worlds of Air and Defense Remain Sceptical in 2026 ️](https://medium.com/@monikasinghal713/rust-in-the-cockpit-why-the-high-stakes-worlds-of-air-and-defense-remain-sceptical-in-2026-%EF%B8%8F-59d965003cc6?source=rss------programming-5) (2026-04-19)
+- [I Almost Lost Commerza: The Brutal Reality of Building an Ecommerce System Without a Framework](https://medium.com/@syedahmershah/building-commerza-security-first-ecommerce-engine-fdb103b8eada?source=rss------programming-5) (2026-04-19)
+- [From Script to API: Extending My Python Log Analyzer with FastAPI](https://medium.com/@shishir-karki/from-script-to-api-extending-my-python-log-analyzer-with-fastapi-dfd35c9bbde8?source=rss------programming-5) (2026-04-19)
 
 </details>
 
@@ -544,13 +545,24 @@ https://www.twilio.com/en-us/blog/insights/build-email-marketing-strategy
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [OpenAI Agents SDK improves governance with sandbox execution](https://www.artificialintelligence-news.com/news/openai-agents-sdk-improves-governance-sandbox-execution/) (2026-04-16)
+- [Cadence expands AI and robotic partnerships with Nvidia, Google Cloud](https://www.artificialintelligence-news.com/news/cadence-expands-ai-and-robotics-partnerships-with-nvidia-google-cloud/) (2026-04-16)
+- [Commvault launches a ‘Ctrl-Z’ for cloud AI workloads](https://www.artificialintelligence-news.com/news/commvault-launches-ctrl-z-for-cloud-ai-workloads/) (2026-04-15)
+- [Citizen developers now have their own Wingman](https://www.artificialintelligence-news.com/news/citizen-developers-now-have-their-own-wingman/) (2026-04-15)
+- [Drones get smarter for large farm holdings](https://www.artificialintelligence-news.com/news/agricultural-drones-get-smarter-for-large-farm-holdings/) (2026-04-15)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
+- [Proxy-Pointer RAG: Structure Meets Scale at 100% Accuracy with Smarter Retrieval](https://towardsdatascience.com/proxy-pointer-rag-structure-meets-scale-100-accuracy-with-smarter-retrieval/) (2026-04-19)
+- [Dreaming in Cubes](https://towardsdatascience.com/dreaming-in-cubes/) (2026-04-19)
 - [KV Cache Is Eating Your VRAM. Here’s How Google Fixed It With TurboQuant.](https://towardsdatascience.com/kv-cache-is-eating-your-vram-heres-how-google-fixed-it-with-turboquant/) (2026-04-19)
 - [Your RAG System Retrieves the Right Data — But Still Produces Wrong Answers. Here’s Why (and How to Fix It).](https://towardsdatascience.com/your-rag-system-retrieves-the-right-data-but-still-produces-wrong-answers-heres-why-and-how-to-fix-it/) (2026-04-18)
 - [AI Agents Need Their Own Desk, and Git Worktrees Give Them One](https://towardsdatascience.com/ai-agents-need-their-own-desk-and-git-worktrees-give-it-one/) (2026-04-18)
-- [How to Learn Python for Data Science Fast in 2026 (Without Wasting Time)](https://towardsdatascience.com/how-to-learn-python-so-fast-it-feels-like-cheating/) (2026-04-18)
-- [Beyond Prompting: Using Agent Skills in Data Science](https://towardsdatascience.com/beyond-prompting-using-agent-skills-in-data-science/) (2026-04-17)
 
 </details>
 
