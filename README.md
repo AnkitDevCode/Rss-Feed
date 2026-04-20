@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [OpenAI’s existential questions](https://techcrunch.com/2026/04/19/openais-existential-questions/) (2026-04-19)
+- [The 12-month window](https://techcrunch.com/2026/04/19/the-12-month-window/) (2026-04-19)
+- [Blue Origin’s New Glenn put a customer satellite in the wrong orbit during its third launch](https://techcrunch.com/2026/04/19/blue-origins-new-glenn-put-a-customer-satellite-in-the-wrong-orbit-during-its-third-launch/) (2026-04-19)
+- [Robots beat human records at Beijing half-marathon](https://techcrunch.com/2026/04/19/robots-beat-human-records-at-beijing-half-marathon/) (2026-04-19)
 - [Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures](https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/) (2026-04-19)
-- [TechCrunch Mobility: Uber enters its assetmaxxing era](https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/) (2026-04-19)
-- [Cracks are starting to form on fusion energy’s funding boom](https://techcrunch.com/2026/04/19/cracks-are-starting-to-form-on-fusion-energys-funding-boom/) (2026-04-19)
-- [Blue Origin successfully re-uses a New Glenn rocket for the first time ever](https://techcrunch.com/2026/04/19/blue-origin-successfully-re-uses-a-new-glenn-rocket-for-the-first-time-ever/) (2026-04-19)
-- [Tesla brings its robotaxi service to Dallas and Houston](https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/) (2026-04-18)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: Faceoff – A terminal UI for following NHL games](https://www.vincentgregoire.com/faceoff/) (2026-04-19)
-- [Turtle WoW classic server announces shutdown after Blizzard wins injunction](https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/) (2026-04-19)
-- [Vercel Says Internal Systems Hit in Breach](https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/) (2026-04-19)
-- [Notion leaks email addresses of all editors of any public page](https://twitter.com/weezerOSINT/status/2045849358462222720) (2026-04-19)
-- [Notes from the SF Peptide Scene](https://12gramsofcarbon.com/p/notes-from-the-sf-peptide-scene) (2026-04-19)
+- [The Uncanny Valley and the Rising Power of Anti-AI Sentiment](https://localscribe.co/posts/uncanny-valley-and-rising-power-of-anti-ai-sentiment/) (2026-04-20)
+- [Show HN: A lightweight way to make agents talk without paying for API usage](https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/) (2026-04-20)
+- [Show HN: TRELLIS.2 image-to-3D running on Mac Silicon – no Nvidia GPU needed](https://github.com/shivampkumar/trellis-mac) (2026-04-20)
+- [Swiss AI Initiative (2023)](https://www.swiss-ai.org) (2026-04-19)
+- [Got an Old Kindle? It Might Not Work Anymore](https://www.nytimes.com/wirecutter/reviews/older-kindle-support-ending/) (2026-04-19)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Blue Origin successfully reused its New Glenn rocket](https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket) (2026-04-19)
+- [Cloud development platform Vercel was hacked](https://www.theverge.com/tech/914723/vercel-hacked) (2026-04-19)
 - [Nothing’s modular CMF Headphone Pro are down to their lowest price to date](https://www.theverge.com/gadgets/913989/nothing-cmf-noise-canceling-headphone-pro-spring-sale-deal) (2026-04-19)
 - [The Stars My Destination is classic proto-cyberpunk](https://www.theverge.com/entertainment/914680/the-stars-my-destination-alfred-bester-review-cyberpunk) (2026-04-19)
 - [Marathon battery life makes Keychron’s Ultra 8K keyboards its best yet](https://www.theverge.com/tech/914085/keychron-q1-v5-ultra-8k-zmk-mechanical-keyboards-review) (2026-04-19)
-- [The future of local TV news has taken a Trumpian turn](https://www.theverge.com/column/914674/nexstar-tegna-merger-trump-local-news) (2026-04-19)
-- [The RAM shortage could last years](https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years) (2026-04-18)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Blue Origin's rocket reuse achievement marred by upper stage failure](https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster/) (2026-04-19)
 - [I’ve fired one of America’s most powerful lasers—here’s what a shot day looks like](https://arstechnica.com/science/2026/04/ive-fired-one-of-americas-most-powerful-lasers-heres-what-a-shot-day-looks-like/) (2026-04-19)
 - [Great white sharks are overheating](https://arstechnica.com/science/2026/04/great-white-sharks-are-overheating/) (2026-04-18)
 - [US-sanctioned currency exchange says $15 million heist done by "unfriendly states"](https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/) (2026-04-17)
 - [Man with @ihackedthegovernment Instagram account tells judge, “I made a mistake"](https://arstechnica.com/tech-policy/2026/04/man-with-ihackedthegovernment-instagram-account-tells-judge-i-made-a-mistake/) (2026-04-17)
-- [Trump picks qualified, normal health leader to head CDC; experts still cautious](https://arstechnica.com/health/2026/04/trump-picks-qualified-normal-health-leader-to-head-cdc-experts-still-cautious/) (2026-04-17)
 
 </details>
 
@@ -97,23 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [FarmSense AI - An intelligent farming companion](https://dev.to/prath47/farmsense-ai-an-intelligent-farming-companion-2i8o) (2026-04-19)
-- [I Built a Playable Life Sim That Reveals Your Real Climate Impact at the End](https://dev.to/miawab/i-built-a-playable-life-sim-that-reveals-your-real-climate-impact-at-the-end-3h43) (2026-04-19)
-- [htop for Your Git History](https://dev.to/ticktockbent/htop-for-your-git-history-53oj) (2026-04-19)
-- [From $200/Month to Free: Running OpenClaw with Local AI Models](https://dev.to/mzunain/from-200month-to-free-running-openclaw-with-local-ai-models-37n9) (2026-04-19)
-- [EcoAgents — I built an AI agent that knows your carbon footprint and never lets you forget it](https://dev.to/navin_kumar_r/ecoagents-i-built-an-ai-agent-that-knows-your-carbon-footprint-and-never-lets-you-forget-it-4on2) (2026-04-19)
+- [백링크 업체의 숨겨진 비밀 5가지](https://dev.to/_7d589c4e4df01d329e27ae/baegringkeu-eobceyi-sumgyeojin-bimil-5gaji-690) (2026-04-20)
+- [How AI Is Exposing Hidden Logos in Counterfeit Fashion Listings](https://dev.to/ethan_dfd7dc97a4a0bf95d01/how-ai-is-exposing-hidden-logos-in-counterfeit-fashion-listings-1aj2) (2026-04-20)
+- [Satya AI v0.3.0: Open-Source Agent Governance with ROI Dashboard & SQLite Audit Store](https://dev.to/anuj_karn/satya-ai-v030-open-source-agent-governance-with-roi-dashboard-sqlite-audit-store-1772) (2026-04-20)
+- [I Worry I'm Not Developing](https://dev.to/jkguidaven/i-worry-im-not-developing-5eeb) (2026-04-20)
+- [Building a Blockchain Garden Tracker for Earth Day](https://dev.to/gilbert_dami/building-a-blockchain-garden-tracker-for-earth-day-4gh1) (2026-04-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [AWS S3 Basics:
-How Do I Actually Store Files in the Cloud?](https://medium.com/@akildikshan01/aws-s3-basics-how-do-i-actually-store-files-in-the-cloud-3fa9c9ddfb75?source=rss------programming-5) (2026-04-19)
-- [Blog Draft: Building Aura — A Lightning-Fast, Fully Offline AI Assistant on a 4GB GPU](https://medium.com/@yalgetisanjeev.dev/blog-draft-building-aura-a-lightning-fast-fully-offline-ai-assistant-on-a-4gb-gpu-87c6858a365e?source=rss------programming-5) (2026-04-19)
-- [Rust in the Cockpit? Why the High-Stakes Worlds of Air and Defense Remain Sceptical in 2026 ️](https://medium.com/@monikasinghal713/rust-in-the-cockpit-why-the-high-stakes-worlds-of-air-and-defense-remain-sceptical-in-2026-%EF%B8%8F-59d965003cc6?source=rss------programming-5) (2026-04-19)
-- [I Almost Lost Commerza: The Brutal Reality of Building an Ecommerce System Without a Framework](https://medium.com/@syedahmershah/building-commerza-security-first-ecommerce-engine-fdb103b8eada?source=rss------programming-5) (2026-04-19)
-- [From Script to API: Extending My Python Log Analyzer with FastAPI](https://medium.com/@shishir-karki/from-script-to-api-extending-my-python-log-analyzer-with-fastapi-dfd35c9bbde8?source=rss------programming-5) (2026-04-19)
+- [5 Surprising Facts About Python Arrays That Beginners Rarely Know](https://medium.com/codetodeploy/5-surprising-facts-about-python-arrays-that-beginners-rarely-know-e191b018a99b?source=rss------programming-5) (2026-04-20)
+- [Objective-C: Killed by Its Own Creator](https://medium.com/@sarhaye.ca/objective-c-killed-by-its-own-creator-77333d427c54?source=rss------programming-5) (2026-04-20)
+- [FiboTool: A High-Performance Fibonacci Sequence Generator in Python](https://medium.com/@mate-technologies/fibotool-a-high-performance-fibonacci-sequence-generator-in-python-686f86349e25?source=rss------programming-5) (2026-04-20)
+- [What Actually Happens Inside a High-Scale Backend (Simplified)](https://sanajitjana.medium.com/what-actually-happens-inside-a-high-scale-backend-simplified-982ff3d71074?source=rss------programming-5) (2026-04-20)
+- [Stop Scrolling, Start Grepping: 10 Essential “Grep” Commands Every DevOps Must Know](https://medium.com/@devops.vivek369/stop-scrolling-start-grepping-10-essential-grep-commands-every-devops-must-know-190c7d8f15b6?source=rss------programming-5) (2026-04-20)
 
 </details>
 
@@ -125,17 +124,6 @@ How Do I Actually Store Files in the Cloud?](https://medium.com/@akildikshan01/a
 - [AWS Weekly Roundup: Claude Mythos Preview in Amazon Bedrock, AWS Agent Registry, and more (April 13, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-mythos-preview-in-amazon-bedrock-aws-agent-registry-and-more-april-13-2026/) (2026-04-13)
 - [Launching S3 Files, making S3 buckets accessible as file systems](https://aws.amazon.com/blogs/aws/launching-s3-files-making-s3-buckets-accessible-as-file-systems/) (2026-04-07)
 - [AWS Weekly Roundup: AWS DevOps Agent & Security Agent GA, Product Lifecycle updates, and more (April 6, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-devops-agent-security-agent-ga-product-lifecycle-updates-and-more-april-6-2026/) (2026-04-06)
-
-</details>
-
-<details>
-<summary>🔵 Azure Blog</summary>
-
-- [Optimize object storage costs automatically with smart tier—now generally available](https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/) (2026-04-14)
-- [Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/) (2026-04-09)
-- [How Drasi used GitHub Copilot to find documentation bugs](https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/) (2026-04-09)
-- [Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value](https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/) (2026-04-08)
-- [Azure IaaS: Keep critical applications running with built-in resiliency at scale](https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/) (2026-04-01)
 
 </details>
 
