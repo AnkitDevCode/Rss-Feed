@@ -31,44 +31,44 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Intel refreshes non-Ultra Core CPUs with new silicon for the first time](https://arstechnica.com/gadgets/2026/04/intels-non-ultra-core-cpus-are-new-silicon-this-year-for-a-change/) (2026-04-20)
-- [How Long Poop Stays in Your Body May Impact Your Health, Study Finds](https://www.sciencealert.com/how-long-poop-stays-in-your-body-may-impact-your-health-study-finds) (2026-04-20)
-- [Stripe's Payment APIs: the first 10 years (2020)](https://stripe.dev/blog/payment-api-design) (2026-04-20)
-- [A cache-friendly IPv6 LPM with AVX-512 (linearized B+-tree, real BGP benchmarks)](https://github.com/esutcu/planb-lpm) (2026-04-20)
-- [Claude Token Counter, now with model comparisons](https://simonwillison.net/2026/Apr/20/claude-token-counts/) (2026-04-20)
+- [ggsql: A Grammar of Graphics for SQL](https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/) (2026-04-20)
+- [Tesla Hid Fatal Accidents to Continue Testing Autonomous Driving (French)](https://www.rts.ch/info/monde/2026/article/tesla-dissimule-des-milliers-d-incidents-de-conduite-autonome-mortels-29214161.html) (2026-04-20)
+- [NASA Artemis Posters](https://www.nasa.gov/gallery/artemis/) (2026-04-20)
+- [Why macOS27 won't be supporting Intel anymore](https://twitter.com/Lina_Hoshino/status/2046112493320458649) (2026-04-20)
+- [A Pascal's Wager for AI Doomers](https://pluralistic.net/2026/04/16/pascals-wager/) (2026-04-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Blue Origin successfully reused its New Glenn rocket](https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket) (2026-04-19)
-- [Cloud development platform Vercel was hacked](https://www.theverge.com/tech/914723/vercel-hacked) (2026-04-19)
-- [Nothing’s modular CMF Headphone Pro are down to their lowest price to date](https://www.theverge.com/gadgets/913989/nothing-cmf-noise-canceling-headphone-pro-spring-sale-deal) (2026-04-19)
-- [The Stars My Destination is classic proto-cyberpunk](https://www.theverge.com/entertainment/914680/the-stars-my-destination-alfred-bester-review-cyberpunk) (2026-04-19)
-- [Marathon battery life makes Keychron’s Ultra 8K keyboards its best yet](https://www.theverge.com/tech/914085/keychron-q1-v5-ultra-8k-zmk-mechanical-keyboards-review) (2026-04-19)
+- [Vampire Survivors’ new spinoff switches genres but keeps the good vibes](https://www.theverge.com/games/913410/vampire-survivors-new-spinoff-switches-genres-but-keeps-the-good-vibes) (2026-04-20)
+- [This pasta sauce wants to record your family](https://www.theverge.com/tech/913874/prego-connection-keeper-bundle-voice-recorder-storycorps) (2026-04-20)
+- [Huawei beats Samsung and Apple to market with the first wide foldable](https://www.theverge.com/tech/914807/huawei-pura-x-max-launch-price-specs-availability) (2026-04-20)
+- [DJI’s latest power station is proof that good things come in mini packages](https://www.theverge.com/reviews/913706/dji-mini-power-station-review-comparison) (2026-04-20)
+- [GoPro’s new Mission cameras are priced beyond most weekend athletes](https://www.theverge.com/gadgets/914764/gopros-mission-camera-prices) (2026-04-20)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Clarifying HEVC licensing fees, royalties, and why vendors kill HEVC support](https://arstechnica.com/gadgets/2026/04/lawsuits-licensing-and-royalties-are-complicating-4k-video-support-in-gadgets/) (2026-04-20)
 - [Blue Origin's rocket reuse achievement marred by upper stage failure](https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster/) (2026-04-19)
 - [I’ve fired one of America’s most powerful lasers—here’s what a shot day looks like](https://arstechnica.com/science/2026/04/ive-fired-one-of-americas-most-powerful-lasers-heres-what-a-shot-day-looks-like/) (2026-04-19)
 - [Great white sharks are overheating](https://arstechnica.com/science/2026/04/great-white-sharks-are-overheating/) (2026-04-18)
 - [US-sanctioned currency exchange says $15 million heist done by "unfriendly states"](https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/) (2026-04-17)
-- [Man with @ihackedthegovernment Instagram account tells judge, “I made a mistake"](https://arstechnica.com/tech-policy/2026/04/man-with-ihackedthegovernment-instagram-account-tells-judge-i-made-a-mistake/) (2026-04-17)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles](https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/) (2026-04-20)
+- [Colossal Biosciences said it cloned red wolves. Is it for real?](https://www.technologyreview.com/2026/04/20/1135222/red-wolves-colossal-biosciences-clones/) (2026-04-20)
+- [Chinese tech workers are starting to train their AI doubles–and pushing back](https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/) (2026-04-20)
 - [Pie Day 2026](https://www.technologyreview.com/2026/04/17/1136121/pie-day-links/) (2026-04-17)
 - [The Download: bad news for inner Neanderthals, and AI warfare’s human illusion](https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/) (2026-04-17)
-- [The case for fixing everything](https://www.technologyreview.com/2026/04/17/1135408/book-review-stewart-brand-fixing-everything-maintenance/) (2026-04-17)
-- [How robots learn: A brief, contemporary history](https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/) (2026-04-17)
-- [Making AI operational in constrained public sector environments](https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/) (2026-04-16)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Глубокий разбор архитектуры видеостриминга NYTimes: Создание высокопроизводительного движка экстракции на базе HLS и FFmpeg Введение](https://dev.to/yqqwe/glubokii-razbor-arkhitiektury-vidieostrimingha-nytimes-sozdaniie-vysokoproizvoditielnogho-dvizhka-3gkn) (2026-04-20)
-- [I'm a CS Student in Placement Season. I Replaced My Inbox Anxiety With 80 Lines of Markdown.](https://dev.to/bnspopi/im-a-cs-student-in-placement-season-i-replaced-my-inbox-anxiety-with-80-lines-of-markdown-1hbf) (2026-04-20)
-- [Setting Up a GCP Landing Zone for Organizations with Strict Regulatory Requirements](https://dev.to/boristep/setting-up-a-gcp-landing-zone-for-organizations-with-strict-regulatory-requirements-3p59) (2026-04-20)
-- [How Synthetic Networks and Knowledge Graphs Surface Deep Intent for AI and Digital Transformation](https://dev.to/aiadopts/how-synthetic-networks-and-knowledge-graphs-surface-deep-intent-for-ai-and-digital-transformation-46kl) (2026-04-20)
-- [Next.js 16 Complete Beginner's Guide](https://dev.to/myogeshchavan97/nextjs-16-complete-beginners-guide-2ab2) (2026-04-20)
+- [CSP for Third Party Scripts: The Practical Cheat Sheet for GA, Stripe, Intercom, and More](https://dev.to/sitesecurityscore/csp-for-third-party-scripts-the-practical-cheat-sheet-for-ga-stripe-intercom-and-more-1gh8) (2026-04-20)
+- [We Almost Didn’t Launch — Until We Cut the Product in Half](https://dev.to/apetryla/we-almost-didnt-launch-until-we-cut-the-product-in-half-105g) (2026-04-20)
+- [Open-sourcing my personal AI Agent Harness for Production (harness-loom)](https://dev.to/kinggyusuh/open-sourcing-my-personal-ai-agent-harness-for-production-harness-loom-3mob) (2026-04-20)
+- [The Dual-Signal Governor: A Control-Plane Pattern for Drift-Aware Systems](https://dev.to/gnomeman4201/the-dual-signal-governor-a-control-plane-pattern-for-drift-aware-systems-ojm) (2026-04-20)
+- [Vitest 2.0 vs Jest: We Migrated 400 Tests and Here's What Actually Changed](https://dev.to/whoffagents/vitest-20-vs-jest-we-migrated-400-tests-and-heres-what-actually-changed-59hh) (2026-04-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [️ Create Stunning Graphics In Minutes (No Design Skills Needed)](https://medium.com/@jaivanshsagwan1/%EF%B8%8F-create-stunning-graphics-in-minutes-no-design-skills-needed-5395f5625e00?source=rss------programming-5) (2026-04-20)
-- [When Git History Stops Representing Intent, Stop Fixing It](https://medium.com/@kazzywiz7/when-git-history-stops-representing-intent-stop-fixing-it-0bc6f42bfc69?source=rss------programming-5) (2026-04-20)
-- [Please i m new here to crypto!! How to send. my 4,000 Usdt. from MetaMask wallet to Binance?](https://medium.com/@mmqjmbbxxf/please-i-m-new-here-to-crypto-how-to-send-my-4-000-usdt-from-metamask-wallet-to-binance-55d1d42c1115?source=rss------programming-5) (2026-04-20)
-- [Tutorial Instalasi JDK 26, IntelliJ IDEA, dan Pembuatan Program Java Pertama](https://medium.com/@anisacahyani3107/tutorial-instalasi-jdk-26-intellij-idea-dan-pembuatan-program-java-pertama-3d78973f32ad?source=rss------programming-5) (2026-04-20)
-- [I read 50 Python library lists so you don’t have to here are the 20 that actually matter](https://medium.com/@dev_tips/i-read-50-python-library-lists-so-you-dont-have-to-here-are-the-20-that-actually-matter-c25c3186b877?source=rss------programming-5) (2026-04-20)
+- [The B@kch*d Series — Implementing Counter Strike using Raylib and C — Part 6–Input Bitmasks](https://shanukhera.medium.com/the-b-kch-d-series-implementing-counter-strike-using-raylib-and-c-part-6-input-bitmasks-c0bd32d1fad7?source=rss------programming-5) (2026-04-20)
+- [How I Finally Understood Inheritance in Python](https://medium.com/@anam_ahmed/how-i-finally-understood-inheritance-in-python-0cd8a93124ed?source=rss------programming-5) (2026-04-20)
+- [How I Choose the Right AI Tool for Each Scenario](https://medium.com/@hasanozdisci/how-i-choose-the-right-ai-tool-for-each-scenario-b6b1a3b8ad02?source=rss------programming-5) (2026-04-20)
+- [30 Best Free Chrome Extensions for Privacy & Security 4](https://medium.com/@uncledrewdev/30-best-free-chrome-extensions-for-privacy-security-4-591e5c39b5cb?source=rss------programming-5) (2026-04-20)
+- [Your Codebase Isn’t the Problem. Your Decision System Is.](https://cleverboy.medium.com/your-codebase-isnt-the-problem-your-decision-system-is-6b7aba700599?source=rss------programming-5) (2026-04-20)
 
 </details>
 
@@ -141,11 +141,11 @@
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Autonomous AI at Scale: Adobe Agents Unlock Breakthrough Creative Intelligence With NVIDIA and WPP](https://blogs.nvidia.com/blog/adobe-ai-agents-nvidia-wpp/) (2026-04-20)
+- [NVIDIA and Partners Showcase the Future of AI-Driven Manufacturing at Hannover Messe 2026](https://blogs.nvidia.com/blog/ai-manufacturing-hannover-messe/) (2026-04-20)
 - [No Need for Space Gear — Capcom’s ‘PRAGMATA’ Joins GeForce NOW on Launch Day](https://blogs.nvidia.com/blog/geforce-now-thursday-pragmata/) (2026-04-16)
 - [Rethinking AI TCO: Why Cost per Token Is the Only Metric That Matters](https://blogs.nvidia.com/blog/lowest-token-cost-ai-factories/) (2026-04-15)
 - [New Adobe Premiere Color Grading Mode Accelerated on NVIDIA GPUs](https://blogs.nvidia.com/blog/rtx-ai-garage-nab-adobe-premiere-color-mode/) (2026-04-15)
-- [National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources](https://blogs.nvidia.com/blog/national-robotics-week-2026/) (2026-04-10)
-- [Strength and Destiny Collide: ‘Samson: A Tyndalston Story’ Arrives in the Cloud](https://blogs.nvidia.com/blog/geforce-now-thursday-samson-a-tyndalston-story/) (2026-04-09)
 
 </details>
 
@@ -546,55 +546,55 @@ https://www.twilio.com/en-us/blog/insights/build-email-marketing-strategy
 <details>
 <summary>🤖 AI News</summary>
 
+- [Bobyard 2.0 offers improved takeoffs and unified AI for estimators](https://www.artificialintelligence-news.com/news/bobyard-2-0-offers-improved-takeoffs-and-unified-ai-for-estimators/) (2026-04-20)
+- [How to prepare for and remediate an AI system incident](https://www.artificialintelligence-news.com/news/how-to-prepare-for-and-remediate-an-ai-system-incident/) (2026-04-20)
 - [Anthropic walks into the White House and Mythos is the reason Washington let it in](https://www.artificialintelligence-news.com/news/anthropic-mythos-ai-cybersecurity-white-house/) (2026-04-20)
 - [OpenAI Agents SDK improves governance with sandbox execution](https://www.artificialintelligence-news.com/news/openai-agents-sdk-improves-governance-sandbox-execution/) (2026-04-16)
 - [Cadence expands AI and robotic partnerships with Nvidia, Google Cloud](https://www.artificialintelligence-news.com/news/cadence-expands-ai-and-robotics-partnerships-with-nvidia-google-cloud/) (2026-04-16)
-- [Commvault launches a ‘Ctrl-Z’ for cloud AI workloads](https://www.artificialintelligence-news.com/news/commvault-launches-ctrl-z-for-cloud-ai-workloads/) (2026-04-15)
-- [Citizen developers now have their own Wingman](https://www.artificialintelligence-news.com/news/citizen-developers-now-have-their-own-wingman/) (2026-04-15)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [From Risk to Asset: Designing a Practical Data Strategy That Actually Works](https://towardsdatascience.com/from-risk-to-asset-designing-a-practical-data-strategy-that-actually-works/) (2026-04-20)
 - [Proxy-Pointer RAG: Structure Meets Scale at 100% Accuracy with Smarter Retrieval](https://towardsdatascience.com/proxy-pointer-rag-structure-meets-scale-100-accuracy-with-smarter-retrieval/) (2026-04-19)
 - [Dreaming in Cubes](https://towardsdatascience.com/dreaming-in-cubes/) (2026-04-19)
 - [KV Cache Is Eating Your VRAM. Here’s How Google Fixed It With TurboQuant.](https://towardsdatascience.com/kv-cache-is-eating-your-vram-heres-how-google-fixed-it-with-turboquant/) (2026-04-19)
 - [Your RAG System Retrieves the Right Data — But Still Produces Wrong Answers. Here’s Why (and How to Fix It).](https://towardsdatascience.com/your-rag-system-retrieves-the-right-data-but-still-produces-wrong-answers-heres-why-and-how-to-fix-it/) (2026-04-18)
-- [AI Agents Need Their Own Desk, and Git Worktrees Give Them One](https://towardsdatascience.com/ai-agents-need-their-own-desk-and-git-worktrees-give-it-one/) (2026-04-18)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Build Human-Like AI Voice App with Gemini 3.1 Flash TTS](https://www.analyticsvidhya.com/blog/2026/04/ai-voice-app-with-gemini-3-1-flash-tts/) (2026-04-20)
 - [How to Structure a Claude Code Project that Thinks Like an Engineer ](https://www.analyticsvidhya.com/blog/2026/04/claude-code-project-structure/) (2026-04-19)
 - [Gemma 4 Tool Calling Explained: Build AI Agents with Function Calling (Step-by-Step Guide)](https://www.analyticsvidhya.com/blog/2026/04/gemma-4-tool-calling/) (2026-04-18)
 - [Anthropic Launches Claude Opus 4.7 For “Most Difficult Tasks”](https://www.analyticsvidhya.com/blog/2026/04/claude-opus-4-7/) (2026-04-17)
 - [Top 28 Claude Shortcuts that will 10X your Speed](https://www.analyticsvidhya.com/blog/2026/04/top-claude-shortcuts/) (2026-04-17)
-- [GPT-5.4-Cyber: Why OpenAI is Keeping its Most Powerful Model Under Lock and Key](https://www.analyticsvidhya.com/blog/2026/04/openai-announces-gpt-5-4-cyber-but-you-cant-get-it-just-yet/) (2026-04-16)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Free Ways to Host a Python Application](https://www.kdnuggets.com/5-free-ways-to-host-a-python-application) (2026-04-20)
 - [I Vibe Coded a Tool to That Analyzes Customer Sentiment and Topics From Call Recordings](https://www.kdnuggets.com/vibe-coded-tool-analyzes-customer-sentiment-and-topics-from-call-recordings) (2026-04-17)
 - [5 Useful Python Scripts for Advanced Data Validation & Quality Checks](https://www.kdnuggets.com/5-useful-python-scripts-for-advanced-data-validation-quality-checks) (2026-04-17)
 - [Python Project Setup 2026: uv + Ruff + Ty + Polars](https://www.kdnuggets.com/python-project-setup-2026-uv-ruff-ty-polars) (2026-04-16)
 - [Docker for Python & Data Projects: A Beginner’s Guide](https://www.kdnuggets.com/docker-for-python-data-projects-a-beginners-guide) (2026-04-16)
-- [NotebookLM for the Creative Architect](https://www.kdnuggets.com/notebooklm-for-the-creative-architect) (2026-04-15)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Getting Started with Zero-Shot Text Classification](https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/) (2026-04-20)
 - [The Complete Guide to Inference Caching in LLMs](https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/) (2026-04-17)
 - [Python Decorators for Production Machine Learning Engineering](https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/) (2026-04-16)
 - [5 Techniques for Efficient Long-Context RAG](https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/) (2026-04-15)
 - [How to Implement Tool Calling with Gemma 4 and Python](https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/) (2026-04-13)
-- [Structured Outputs vs. Function Calling: Which Should Your Agent Use?](https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/) (2026-04-13)
 
 </details>
 
