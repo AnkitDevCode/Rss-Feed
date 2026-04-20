@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Uncanny Valley and the Rising Power of Anti-AI Sentiment](https://localscribe.co/posts/uncanny-valley-and-rising-power-of-anti-ai-sentiment/) (2026-04-20)
-- [Show HN: A lightweight way to make agents talk without paying for API usage](https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/) (2026-04-20)
-- [Show HN: TRELLIS.2 image-to-3D running on Mac Silicon – no Nvidia GPU needed](https://github.com/shivampkumar/trellis-mac) (2026-04-20)
-- [Swiss AI Initiative (2023)](https://www.swiss-ai.org) (2026-04-19)
-- [Got an Old Kindle? It Might Not Work Anymore](https://www.nytimes.com/wirecutter/reviews/older-kindle-support-ending/) (2026-04-19)
+- [Intel refreshes non-Ultra Core CPUs with new silicon for the first time](https://arstechnica.com/gadgets/2026/04/intels-non-ultra-core-cpus-are-new-silicon-this-year-for-a-change/) (2026-04-20)
+- [How Long Poop Stays in Your Body May Impact Your Health, Study Finds](https://www.sciencealert.com/how-long-poop-stays-in-your-body-may-impact-your-health-study-finds) (2026-04-20)
+- [Stripe's Payment APIs: the first 10 years (2020)](https://stripe.dev/blog/payment-api-design) (2026-04-20)
+- [A cache-friendly IPv6 LPM with AVX-512 (linearized B+-tree, real BGP benchmarks)](https://github.com/esutcu/planb-lpm) (2026-04-20)
+- [Claude Token Counter, now with model comparisons](https://simonwillison.net/2026/Apr/20/claude-token-counts/) (2026-04-20)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [백링크 업체의 숨겨진 비밀 5가지](https://dev.to/_7d589c4e4df01d329e27ae/baegringkeu-eobceyi-sumgyeojin-bimil-5gaji-690) (2026-04-20)
-- [How AI Is Exposing Hidden Logos in Counterfeit Fashion Listings](https://dev.to/ethan_dfd7dc97a4a0bf95d01/how-ai-is-exposing-hidden-logos-in-counterfeit-fashion-listings-1aj2) (2026-04-20)
-- [Satya AI v0.3.0: Open-Source Agent Governance with ROI Dashboard & SQLite Audit Store](https://dev.to/anuj_karn/satya-ai-v030-open-source-agent-governance-with-roi-dashboard-sqlite-audit-store-1772) (2026-04-20)
-- [I Worry I'm Not Developing](https://dev.to/jkguidaven/i-worry-im-not-developing-5eeb) (2026-04-20)
-- [Building a Blockchain Garden Tracker for Earth Day](https://dev.to/gilbert_dami/building-a-blockchain-garden-tracker-for-earth-day-4gh1) (2026-04-20)
+- [Глубокий разбор архитектуры видеостриминга NYTimes: Создание высокопроизводительного движка экстракции на базе HLS и FFmpeg Введение](https://dev.to/yqqwe/glubokii-razbor-arkhitiektury-vidieostrimingha-nytimes-sozdaniie-vysokoproizvoditielnogho-dvizhka-3gkn) (2026-04-20)
+- [I'm a CS Student in Placement Season. I Replaced My Inbox Anxiety With 80 Lines of Markdown.](https://dev.to/bnspopi/im-a-cs-student-in-placement-season-i-replaced-my-inbox-anxiety-with-80-lines-of-markdown-1hbf) (2026-04-20)
+- [Setting Up a GCP Landing Zone for Organizations with Strict Regulatory Requirements](https://dev.to/boristep/setting-up-a-gcp-landing-zone-for-organizations-with-strict-regulatory-requirements-3p59) (2026-04-20)
+- [How Synthetic Networks and Knowledge Graphs Surface Deep Intent for AI and Digital Transformation](https://dev.to/aiadopts/how-synthetic-networks-and-knowledge-graphs-surface-deep-intent-for-ai-and-digital-transformation-46kl) (2026-04-20)
+- [Next.js 16 Complete Beginner's Guide](https://dev.to/myogeshchavan97/nextjs-16-complete-beginners-guide-2ab2) (2026-04-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [5 Surprising Facts About Python Arrays That Beginners Rarely Know](https://medium.com/codetodeploy/5-surprising-facts-about-python-arrays-that-beginners-rarely-know-e191b018a99b?source=rss------programming-5) (2026-04-20)
-- [Objective-C: Killed by Its Own Creator](https://medium.com/@sarhaye.ca/objective-c-killed-by-its-own-creator-77333d427c54?source=rss------programming-5) (2026-04-20)
-- [FiboTool: A High-Performance Fibonacci Sequence Generator in Python](https://medium.com/@mate-technologies/fibotool-a-high-performance-fibonacci-sequence-generator-in-python-686f86349e25?source=rss------programming-5) (2026-04-20)
-- [What Actually Happens Inside a High-Scale Backend (Simplified)](https://sanajitjana.medium.com/what-actually-happens-inside-a-high-scale-backend-simplified-982ff3d71074?source=rss------programming-5) (2026-04-20)
-- [Stop Scrolling, Start Grepping: 10 Essential “Grep” Commands Every DevOps Must Know](https://medium.com/@devops.vivek369/stop-scrolling-start-grepping-10-essential-grep-commands-every-devops-must-know-190c7d8f15b6?source=rss------programming-5) (2026-04-20)
+- [️ Create Stunning Graphics In Minutes (No Design Skills Needed)](https://medium.com/@jaivanshsagwan1/%EF%B8%8F-create-stunning-graphics-in-minutes-no-design-skills-needed-5395f5625e00?source=rss------programming-5) (2026-04-20)
+- [When Git History Stops Representing Intent, Stop Fixing It](https://medium.com/@kazzywiz7/when-git-history-stops-representing-intent-stop-fixing-it-0bc6f42bfc69?source=rss------programming-5) (2026-04-20)
+- [Please i m new here to crypto!! How to send. my 4,000 Usdt. from MetaMask wallet to Binance?](https://medium.com/@mmqjmbbxxf/please-i-m-new-here-to-crypto-how-to-send-my-4-000-usdt-from-metamask-wallet-to-binance-55d1d42c1115?source=rss------programming-5) (2026-04-20)
+- [Tutorial Instalasi JDK 26, IntelliJ IDEA, dan Pembuatan Program Java Pertama](https://medium.com/@anisacahyani3107/tutorial-instalasi-jdk-26-intellij-idea-dan-pembuatan-program-java-pertama-3d78973f32ad?source=rss------programming-5) (2026-04-20)
+- [I read 50 Python library lists so you don’t have to here are the 20 that actually matter](https://medium.com/@dev_tips/i-read-50-python-library-lists-so-you-dont-have-to-here-are-the-20-that-actually-matter-c25c3186b877?source=rss------programming-5) (2026-04-20)
 
 </details>
 
@@ -124,6 +124,17 @@
 - [AWS Weekly Roundup: Claude Mythos Preview in Amazon Bedrock, AWS Agent Registry, and more (April 13, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-mythos-preview-in-amazon-bedrock-aws-agent-registry-and-more-april-13-2026/) (2026-04-13)
 - [Launching S3 Files, making S3 buckets accessible as file systems](https://aws.amazon.com/blogs/aws/launching-s3-files-making-s3-buckets-accessible-as-file-systems/) (2026-04-07)
 - [AWS Weekly Roundup: AWS DevOps Agent & Security Agent GA, Product Lifecycle updates, and more (April 6, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-devops-agent-security-agent-ga-product-lifecycle-updates-and-more-april-6-2026/) (2026-04-06)
+
+</details>
+
+<details>
+<summary>🔵 Azure Blog</summary>
+
+- [Cloud Cost Optimization: Principles that still matter](https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/) (2026-04-15)
+- [Optimize object storage costs automatically with smart tier—now generally available](https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/) (2026-04-14)
+- [Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/) (2026-04-09)
+- [How Drasi used GitHub Copilot to find documentation bugs](https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/) (2026-04-09)
+- [Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value](https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/) (2026-04-08)
 
 </details>
 
@@ -535,11 +546,11 @@ https://www.twilio.com/en-us/blog/insights/build-email-marketing-strategy
 <details>
 <summary>🤖 AI News</summary>
 
+- [Anthropic walks into the White House and Mythos is the reason Washington let it in](https://www.artificialintelligence-news.com/news/anthropic-mythos-ai-cybersecurity-white-house/) (2026-04-20)
 - [OpenAI Agents SDK improves governance with sandbox execution](https://www.artificialintelligence-news.com/news/openai-agents-sdk-improves-governance-sandbox-execution/) (2026-04-16)
 - [Cadence expands AI and robotic partnerships with Nvidia, Google Cloud](https://www.artificialintelligence-news.com/news/cadence-expands-ai-and-robotics-partnerships-with-nvidia-google-cloud/) (2026-04-16)
 - [Commvault launches a ‘Ctrl-Z’ for cloud AI workloads](https://www.artificialintelligence-news.com/news/commvault-launches-ctrl-z-for-cloud-ai-workloads/) (2026-04-15)
 - [Citizen developers now have their own Wingman](https://www.artificialintelligence-news.com/news/citizen-developers-now-have-their-own-wingman/) (2026-04-15)
-- [Drones get smarter for large farm holdings](https://www.artificialintelligence-news.com/news/agricultural-drones-get-smarter-for-large-farm-holdings/) (2026-04-15)
 
 </details>
 
