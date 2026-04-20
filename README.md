@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [OpenAI’s existential questions](https://techcrunch.com/2026/04/19/openais-existential-questions/) (2026-04-19)
-- [The 12-month window](https://techcrunch.com/2026/04/19/the-12-month-window/) (2026-04-19)
-- [Blue Origin’s New Glenn put a customer satellite in the wrong orbit during its third launch](https://techcrunch.com/2026/04/19/blue-origins-new-glenn-put-a-customer-satellite-in-the-wrong-orbit-during-its-third-launch/) (2026-04-19)
-- [Robots beat human records at Beijing half-marathon](https://techcrunch.com/2026/04/19/robots-beat-human-records-at-beijing-half-marathon/) (2026-04-19)
-- [Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures](https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/) (2026-04-19)
+- [North Korea hackers blamed for $290M crypto theft](https://techcrunch.com/2026/04/20/north-korea-hackers-blamed-for-290m-crypto-theft/) (2026-04-20)
+- [Mastodon says its flagship server was hit by a DDoS attack](https://techcrunch.com/2026/04/20/mastodon-says-its-flagship-server-was-hit-by-a-ddos-attack/) (2026-04-20)
+- [FAA orders investigation into Blue Origin’s New Glenn mishap](https://techcrunch.com/2026/04/20/faa-orders-investigation-into-blue-origins-new-glenn-mishap/) (2026-04-20)
+- [NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud](https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/) (2026-04-20)
+- [WhatsApp is testing a premium subscription, but it is mainly cosmetic](https://techcrunch.com/2026/04/20/whatsapp-is-testing-a-premium-subscription-put-it-is-mainly-cosmetic/) (2026-04-20)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [ggsql: A Grammar of Graphics for SQL](https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/) (2026-04-20)
-- [Tesla Hid Fatal Accidents to Continue Testing Autonomous Driving (French)](https://www.rts.ch/info/monde/2026/article/tesla-dissimule-des-milliers-d-incidents-de-conduite-autonome-mortels-29214161.html) (2026-04-20)
-- [NASA Artemis Posters](https://www.nasa.gov/gallery/artemis/) (2026-04-20)
-- [Why macOS27 won't be supporting Intel anymore](https://twitter.com/Lina_Hoshino/status/2046112493320458649) (2026-04-20)
-- [A Pascal's Wager for AI Doomers](https://pluralistic.net/2026/04/16/pascals-wager/) (2026-04-20)
+- [The Palantir's Stasi Protocols](https://professorsigmund.com/praxis/palantir-stasi-protocols.html) (2026-04-20)
+- [At Long Last, InfoWars Is Ours](https://theonion.info/) (2026-04-20)
+- [At long last, InfoWars is ours](https://theonion.com/at-long-last-infowars-is-ours/) (2026-04-20)
+- [Bloom (YC P26) Is Hiring](https://www.ycombinator.com/companies/trybloom/jobs) (2026-04-20)
+- [The Theory of Interstellar Trade [pdf] (1978)](https://www.princeton.edu/~pkrugman/interstellar.pdf) (2026-04-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Vampire Survivors’ new spinoff switches genres but keeps the good vibes](https://www.theverge.com/games/913410/vampire-survivors-new-spinoff-switches-genres-but-keeps-the-good-vibes) (2026-04-20)
-- [This pasta sauce wants to record your family](https://www.theverge.com/tech/913874/prego-connection-keeper-bundle-voice-recorder-storycorps) (2026-04-20)
-- [Huawei beats Samsung and Apple to market with the first wide foldable](https://www.theverge.com/tech/914807/huawei-pura-x-max-launch-price-specs-availability) (2026-04-20)
-- [DJI’s latest power station is proof that good things come in mini packages](https://www.theverge.com/reviews/913706/dji-mini-power-station-review-comparison) (2026-04-20)
-- [GoPro’s new Mission cameras are priced beyond most weekend athletes](https://www.theverge.com/gadgets/914764/gopros-mission-camera-prices) (2026-04-20)
+- [Mercedes’ first all-electric C-Class is its sportiest one yet](https://www.theverge.com/transportation/914951/mercedes-benz-c-class-ev-electric-range-specs) (2026-04-20)
+- [You can grab a Sonos Era 100 for $85 off thanks to Sonos’ latest refurb sale](https://www.theverge.com/gadgets/914900/sonos-era-100-300-refurbished-speakers-anker-nano-charger-deal-sale) (2026-04-20)
+- [Deezer says AI song uploads have nearly overtaken human music](https://www.theverge.com/entertainment/915027/deezer-ai-music-daily-uploads) (2026-04-20)
+- [Fortnite developers can make AI characters now — just don&#8217;t try to date them](https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations) (2026-04-20)
+- [La-Z-Boy’s recliners and sofas are getting built-in Klipsch speakers](https://www.theverge.com/tech/914248/la-z-boy-audioluxe-furniture-recliner-sofa-speaker-subwoofer-klipsch) (2026-04-20)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Clarifying HEVC licensing fees, royalties, and why vendors kill HEVC support](https://arstechnica.com/gadgets/2026/04/lawsuits-licensing-and-royalties-are-complicating-4k-video-support-in-gadgets/) (2026-04-20)
-- [Blue Origin's rocket reuse achievement marred by upper stage failure](https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster/) (2026-04-19)
-- [I’ve fired one of America’s most powerful lasers—here’s what a shot day looks like](https://arstechnica.com/science/2026/04/ive-fired-one-of-americas-most-powerful-lasers-heres-what-a-shot-day-looks-like/) (2026-04-19)
-- [Great white sharks are overheating](https://arstechnica.com/science/2026/04/great-white-sharks-are-overheating/) (2026-04-18)
-- [US-sanctioned currency exchange says $15 million heist done by "unfriendly states"](https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/) (2026-04-17)
+- [Here's how F1 is tweaking its hybrid systems to try to save the show](https://arstechnica.com/cars/2026/04/f1-new-hybrid-rules-will-come-into-effect-at-the-miami-grand-prix-in-may/) (2026-04-20)
+- [Robot runner handily beats humans in half-marathon, setting new record](https://arstechnica.com/ai/2026/04/robot-runner-handily-beats-humans-in-half-marathon-setting-new-record/) (2026-04-20)
+- [Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent](https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/) (2026-04-20)
+- [Rogue Trooper brings the Genetic Infantry to the silver screen](https://arstechnica.com/culture/2026/04/rogue-trooper-brings-the-genetic-infantry-to-the-silver-screen/) (2026-04-20)
+- [Meet Bruce, the "beak-jousting" parrot](https://arstechnica.com/science/2026/04/meet-bruce-the-beak-jousting-parrot/) (2026-04-20)
 
 </details>
 
@@ -75,11 +75,11 @@
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [Changes to GitHub Copilot Individual plans](https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/) (2026-04-20)
+- [Highlights from Git 2.54](https://github.blog/open-source/git/highlights-from-git-2-54/) (2026-04-20)
 - [Building an emoji list generator with the GitHub Copilot CLI](https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/) (2026-04-17)
 - [Bringing more transparency to GitHub’s status page](https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/) (2026-04-17)
 - [How GitHub uses eBPF to improve deployment safety](https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/) (2026-04-16)
-- [Build a personal organization command center with GitHub Copilot CLI](https://github.blog/ai-and-ml/github-copilot/build-a-personal-organization-command-center-with-github-copilot-cli/) (2026-04-15)
-- [Developer policy update: Intermediary liability, copyright, and transparency](https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-intermediary-liability-copyright-and-transparency/) (2026-04-15)
 
 </details>
 
@@ -97,33 +97,33 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [CSP for Third Party Scripts: The Practical Cheat Sheet for GA, Stripe, Intercom, and More](https://dev.to/sitesecurityscore/csp-for-third-party-scripts-the-practical-cheat-sheet-for-ga-stripe-intercom-and-more-1gh8) (2026-04-20)
-- [We Almost Didn’t Launch — Until We Cut the Product in Half](https://dev.to/apetryla/we-almost-didnt-launch-until-we-cut-the-product-in-half-105g) (2026-04-20)
-- [Open-sourcing my personal AI Agent Harness for Production (harness-loom)](https://dev.to/kinggyusuh/open-sourcing-my-personal-ai-agent-harness-for-production-harness-loom-3mob) (2026-04-20)
-- [The Dual-Signal Governor: A Control-Plane Pattern for Drift-Aware Systems](https://dev.to/gnomeman4201/the-dual-signal-governor-a-control-plane-pattern-for-drift-aware-systems-ojm) (2026-04-20)
-- [Vitest 2.0 vs Jest: We Migrated 400 Tests and Here's What Actually Changed](https://dev.to/whoffagents/vitest-20-vs-jest-we-migrated-400-tests-and-heres-what-actually-changed-59hh) (2026-04-20)
+- [From Vibecoding to Vibelaunching: Building the ecosystems-cli](https://dev.to/sebs/from-vibecoding-to-vibelaunching-building-the-ecosystems-cli-nje) (2026-04-20)
+- [Implementing WebMCP on a Recruitment Website](https://dev.to/richardbaxter/implementing-webmcp-on-a-recruitment-website-19a) (2026-04-20)
+- [I built a film camera simulator in a single HTML file here's how](https://dev.to/sk8ordie84/i-built-a-film-camera-simulator-in-a-single-html-file-heres-how-403b) (2026-04-20)
+- [Sensitive Data Exposure - The Bug That Looks Like a Feature Working Correctly](https://dev.to/safron/sensitive-data-exposure-the-bug-that-looks-like-a-feature-working-correctly-1djh) (2026-04-20)
+- [When should you use canary deployments?](https://dev.to/coderabbitai/when-should-you-use-canary-deployments-2ch9) (2026-04-20)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The B@kch*d Series — Implementing Counter Strike using Raylib and C — Part 6–Input Bitmasks](https://shanukhera.medium.com/the-b-kch-d-series-implementing-counter-strike-using-raylib-and-c-part-6-input-bitmasks-c0bd32d1fad7?source=rss------programming-5) (2026-04-20)
-- [How I Finally Understood Inheritance in Python](https://medium.com/@anam_ahmed/how-i-finally-understood-inheritance-in-python-0cd8a93124ed?source=rss------programming-5) (2026-04-20)
-- [How I Choose the Right AI Tool for Each Scenario](https://medium.com/@hasanozdisci/how-i-choose-the-right-ai-tool-for-each-scenario-b6b1a3b8ad02?source=rss------programming-5) (2026-04-20)
-- [30 Best Free Chrome Extensions for Privacy & Security 4](https://medium.com/@uncledrewdev/30-best-free-chrome-extensions-for-privacy-security-4-591e5c39b5cb?source=rss------programming-5) (2026-04-20)
-- [Your Codebase Isn’t the Problem. Your Decision System Is.](https://cleverboy.medium.com/your-codebase-isnt-the-problem-your-decision-system-is-6b7aba700599?source=rss------programming-5) (2026-04-20)
+- [Plan Cache Behavior in SQL Server](https://medium.com/@AlexanderObregon/plan-cache-behavior-in-sql-server-54d15ce551b3?source=rss------programming-5) (2026-04-20)
+- [Construyendo Aplicaciones Móviles Offline-First: Guía de un Principal Engineer hacia la Resiliencia](https://medium.com/casual-snack-reviews/construyendo-aplicaciones-m%C3%B3viles-offline-first-gu%C3%ADa-de-un-principal-engineer-hacia-la-resiliencia-de78e048dc4e?source=rss------programming-5) (2026-04-20)
+- [Monday Grind Blueprint #4: 1:45AM, Alarm Set for 4AM, and a New RAM Optimizer](https://medium.com/@MarcinFirmuga/monday-grind-blueprint-4-1-45am-alarm-set-for-4am-and-a-new-ram-optimizer-c073112fbe9c?source=rss------programming-5) (2026-04-20)
+- [The Thuban Resurrection: Why I’m Still Obsessed With a 15-Year-Old Six-Core Beast](https://medium.com/@hassanalisardar001/the-thuban-resurrection-why-im-still-obsessed-with-a-15-year-old-six-core-beast-83a2b72d6dec?source=rss------programming-5) (2026-04-20)
+- [Why Programming Became the Proving Ground for AI](https://seanfalconer.medium.com/why-programming-became-the-proving-ground-for-ai-87568533a09d?source=rss------programming-5) (2026-04-20)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [AWS Weekly Roundup: Claude Opus 4.7 in Amazon Bedrock, AWS Interconnect GA, and more (April 20, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-7-in-amazon-bedrock-aws-interconnect-ga-and-more-april-20-2026/) (2026-04-20)
 - [Introducing Anthropic’s Claude Opus 4.7 model in Amazon Bedrock](https://aws.amazon.com/blogs/aws/introducing-anthropics-claude-opus-4-7-model-in-amazon-bedrock/) (2026-04-16)
 - [AWS Interconnect is now generally available, with a new option to simplify last-mile connectivity](https://aws.amazon.com/blogs/aws/aws-interconnect-is-now-generally-available-with-a-new-option-to-simplify-last-mile-connectivity/) (2026-04-14)
 - [AWS Weekly Roundup: Claude Mythos Preview in Amazon Bedrock, AWS Agent Registry, and more (April 13, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-mythos-preview-in-amazon-bedrock-aws-agent-registry-and-more-april-13-2026/) (2026-04-13)
 - [Launching S3 Files, making S3 buckets accessible as file systems](https://aws.amazon.com/blogs/aws/launching-s3-files-making-s3-buckets-accessible-as-file-systems/) (2026-04-07)
-- [AWS Weekly Roundup: AWS DevOps Agent & Security Agent GA, Product Lifecycle updates, and more (April 6, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-devops-agent-security-agent-ga-product-lifecycle-updates-and-more-april-6-2026/) (2026-04-06)
 
 </details>
 
@@ -185,11 +185,11 @@
 <details>
 <summary>🅰️ Angular Blog</summary>
 
+- [AI Training, Local Gemini, and Styling Signal Forms ](https://blog.angular.dev/ai-training-local-gemini-and-styling-signal-forms-6dd270e87fac?source=rss----447683c3d9a3---4) (2026-04-20)
 - [Mastering Dynamic Components, HTTP Resources, and AI Writing Assistants ️](https://blog.angular.dev/mastering-dynamic-components-http-resources-and-ai-writing-assistants-%EF%B8%8F-eb1a773270e4?source=rss----447683c3d9a3---4) (2026-04-13)
 - [Local AI, Reactive Routing, and the Vitest Migration! ⚡](https://blog.angular.dev/local-ai-reactive-routing-and-the-vitest-migration-bdddad0cfa96?source=rss----447683c3d9a3---4) (2026-03-27)
 - [Modernize Your Workflow: AI Tooling, Deferrable Views, and the Era of Forms! ️](https://blog.angular.dev/modernize-your-workflow-ai-tooling-deferrable-views-and-the-era-of-forms-%EF%B8%8F-7aa1c1cf9550?source=rss----447683c3d9a3---4) (2026-03-13)
 - [Security Advisory: Addressing Recent Vulnerabilities in Angular](https://blog.angular.dev/security-advisory-addressing-recent-vulnerabilities-in-angular-c2656249b799?source=rss----447683c3d9a3---4) (2026-02-27)
-- [Angular 21: Internal Mechanics, ARIA, and AI-Powered Coding! ](https://blog.angular.dev/angular-21-internal-mechanics-aria-and-ai-powered-coding-eefc4b05ddb6?source=rss----447683c3d9a3---4) (2026-02-17)
 
 </details>
 
@@ -295,22 +295,22 @@
 <details>
 <summary>📌 Pinterest Engineering</summary>
 
+- [Smarter URL Normalization at Scale: How MIQPS Powers Content Deduplication at Pinterest](https://medium.com/pinterest-engineering/smarter-url-normalization-at-scale-how-miqps-powers-content-deduplication-at-pinterest-4aa42e807d7d?source=rss-ef81ef829bcb------2) (2026-04-20)
 - [Finding zombies in our systems: A real-world story of CPU bottlenecks](https://medium.com/pinterest-engineering/finding-zombies-in-our-systems-a-real-world-story-of-cpu-bottlenecks-ea4722e552eb?source=rss-ef81ef829bcb------2) (2026-04-15)
 - [Scaling Recommendation Systems with Request-Level Deduplication](https://medium.com/pinterest-engineering/scaling-recommendation-systems-with-request-level-deduplication-93bd514142d9?source=rss-ef81ef829bcb------2) (2026-04-13)
 - [Performance for Everyone](https://medium.com/pinterest-engineering/performance-for-everyone-21a560260d08?source=rss-ef81ef829bcb------2) (2026-04-08)
 - [Evolution of Multi-Objective Optimization at Pinterest Home feed](https://medium.com/pinterest-engineering/evolution-of-multi-objective-optimization-at-pinterest-home-feed-06657e33cd10?source=rss-ef81ef829bcb------2) (2026-04-07)
-- [Zero-Downtime PyTorch Upgrade in Production: Approaches, Pitfalls and Lessons](https://medium.com/@Pinterest_Engineering/zero-downtime-pytorch-upgrade-in-production-approaches-pitfalls-and-lessons-db3f456dc794?source=rss-ef81ef829bcb------2) (2026-03-30)
 
 </details>
 
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Helping Decision-Makers Say Yes to Kotlin Multiplatform (KMP)](https://blog.jetbrains.com/kotlin/2026/04/helping-decision-makers-say-yes-to-kmp/) (2026-04-20)
+- [7 Best Static Code Analysis Tools](https://blog.jetbrains.com/qodana/2026/04/best-static-code-analysis-tools/) (2026-04-20)
 - [Security Issue in YouTrack (CVE-2026-33392): Upgrade Recommended for Server Versions Before 2025.3.132953](https://blog.jetbrains.com/youtrack/2026/04/security-issue-in-youtrack-cve-2026-33392/) (2026-04-17)
 - [The Road to Responsive IntelliJ-Based IDEs](https://blog.jetbrains.com/platform/2026/04/road-to-responsive-ides/) (2026-04-17)
 - [Introducing Koog Integration for Spring AI: Smarter Orchestration for Your Agents](https://blog.jetbrains.com/ai/2026/04/introducing-koog-integration-for-spring-ai-smarter-orchestration-for-your-agents/) (2026-04-16)
-- [Sky’s the Limit Hackathon: 180 Projects Connecting Developers and Esports](https://blog.jetbrains.com/blog/2026/04/16/sky-s-the-limit-hackathon-180-projects-connecting-developers-and-esports/) (2026-04-16)
-- [Understanding AI’s Impact on Developer Workflows](https://blog.jetbrains.com/research/2026/04/ai-impact-developer-workflows/) (2026-04-15)
 
 </details>
 
@@ -328,11 +328,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [What’s new in Git 2.54.0?](https://about.gitlab.com/blog/whats-new-in-git-2-54-0/) (2026-04-20)
+- [GitHub Copilot's new policy for AI training is a governance wake-up call](https://about.gitlab.com/blog/github-copilots-new-policy-for-ai-training-is-a-governance-wake-up-call/) (2026-04-20)
 - [GitLab 18.11: Budget guardrails for GitLab Credits](https://about.gitlab.com/blog/gitlab-18-11-budget-guardrails-for-gitlab-credits/) (2026-04-16)
 - [Claude Opus 4.7 is now available in GitLab Duo Agent Platform](https://about.gitlab.com/blog/claude-opus-4-7-is-now-available-in-gitlab-duo-agent-platform/) (2026-04-16)
 - [GitLab 18.11: CI Expert and Data Analyst AI agents target development gaps](https://about.gitlab.com/blog/ci-expert-and-data-analyst-ai-agents-target-development-gaps/) (2026-04-16)
-- [GitLab 18.11: Automate remediation with ready-to-merge AI code fixes](https://about.gitlab.com/blog/automate-remediation-with-ready-to-merge-ai-code-fixes/) (2026-04-16)
-- [A guide to the breaking changes in GitLab 19.0](https://about.gitlab.com/blog/a-guide-to-the-breaking-changes-in-gitlab-19-0/) (2026-04-15)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Building the agentic cloud: everything we launched during Agents Week 2026](https://blog.cloudflare.com/agents-week-in-review/) (2026-04-20)
+- [The AI engineering stack we built internally — on the platform we ship](https://blog.cloudflare.com/internal-ai-engineering-stack/) (2026-04-20)
+- [Orchestrating AI Code Review at scale](https://blog.cloudflare.com/ai-code-review/) (2026-04-20)
 - [Introducing the Agent Readiness score. Is your site agent-ready?](https://blog.cloudflare.com/agent-readiness/) (2026-04-17)
 - [Shared Dictionaries: compression that keeps up with the agentic web](https://blog.cloudflare.com/shared-dictionaries/) (2026-04-17)
-- [Redirects for AI Training enforces canonical content](https://blog.cloudflare.com/ai-redirects/) (2026-04-17)
-- [Unweight: how we compressed an LLM 22% without sacrificing quality](https://blog.cloudflare.com/unweight-tensor-compression/) (2026-04-17)
-- [Agents that remember: introducing Agent Memory](https://blog.cloudflare.com/introducing-agent-memory/) (2026-04-17)
 
 </details>
 
@@ -557,11 +557,11 @@ https://www.twilio.com/en-us/blog/insights/build-email-marketing-strategy
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [What Does the p-value Even Mean?](https://towardsdatascience.com/what-does-p-value-even-mean/) (2026-04-20)
+- [Context Payload Optimization for ICL-Based Tabular Foundation Models](https://towardsdatascience.com/context-payload-optimization-for-icl-based-tabular-foundation-models/) (2026-04-20)
+- [The LLM Gamble](https://towardsdatascience.com/the-llm-gamble/) (2026-04-20)
 - [From Risk to Asset: Designing a Practical Data Strategy That Actually Works](https://towardsdatascience.com/from-risk-to-asset-designing-a-practical-data-strategy-that-actually-works/) (2026-04-20)
 - [Proxy-Pointer RAG: Structure Meets Scale at 100% Accuracy with Smarter Retrieval](https://towardsdatascience.com/proxy-pointer-rag-structure-meets-scale-100-accuracy-with-smarter-retrieval/) (2026-04-19)
-- [Dreaming in Cubes](https://towardsdatascience.com/dreaming-in-cubes/) (2026-04-19)
-- [KV Cache Is Eating Your VRAM. Here’s How Google Fixed It With TurboQuant.](https://towardsdatascience.com/kv-cache-is-eating-your-vram-heres-how-google-fixed-it-with-turboquant/) (2026-04-19)
-- [Your RAG System Retrieves the Right Data — But Still Produces Wrong Answers. Here’s Why (and How to Fix It).](https://towardsdatascience.com/your-rag-system-retrieves-the-right-data-but-still-produces-wrong-answers-heres-why-and-how-to-fix-it/) (2026-04-18)
 
 </details>
 
@@ -579,11 +579,11 @@ https://www.twilio.com/en-us/blog/insights/build-email-marketing-strategy
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [How to Crawl an Entire Documentation Site with Olostep](https://www.kdnuggets.com/how-to-crawl-an-entire-documentation-site-with-olostep) (2026-04-20)
+- [Merging Language Models with Unsloth Studio](https://www.kdnuggets.com/merging-language-models-with-unsloth-studio) (2026-04-20)
 - [5 Free Ways to Host a Python Application](https://www.kdnuggets.com/5-free-ways-to-host-a-python-application) (2026-04-20)
 - [I Vibe Coded a Tool to That Analyzes Customer Sentiment and Topics From Call Recordings](https://www.kdnuggets.com/vibe-coded-tool-analyzes-customer-sentiment-and-topics-from-call-recordings) (2026-04-17)
 - [5 Useful Python Scripts for Advanced Data Validation & Quality Checks](https://www.kdnuggets.com/5-useful-python-scripts-for-advanced-data-validation-quality-checks) (2026-04-17)
-- [Python Project Setup 2026: uv + Ruff + Ty + Polars](https://www.kdnuggets.com/python-project-setup-2026-uv-ruff-ty-polars) (2026-04-16)
-- [Docker for Python & Data Projects: A Beginner’s Guide](https://www.kdnuggets.com/docker-for-python-data-projects-a-beginners-guide) (2026-04-16)
 
 </details>
 
