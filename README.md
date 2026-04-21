@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Who is John Ternus, the incoming Apple CEO?](https://techcrunch.com/2026/04/20/who-is-john-ternus-the-incoming-apple-ceo/) (2026-04-21)
-- [Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return](https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/) (2026-04-20)
-- [Google rolls out Gemini in Chrome in 7 new countries](https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/) (2026-04-20)
-- [Tim Cook stepping down as Apple CEO, John Ternus taking over](https://techcrunch.com/2026/04/20/tim-cook-stepping-down-as-apple-ceo-john-ternus-taking-over/) (2026-04-20)
-- [Google Photos adds new touch-up tools for ‘quick’ fixes](https://techcrunch.com/2026/04/20/google-photos-adds-new-touch-up-tools-for-quick-fixes/) (2026-04-20)
+- [With US spy laws set to expire, lawmakers are split over protecting Americans from warrantless surveillance](https://techcrunch.com/2026/04/21/with-us-spy-laws-set-to-expire-lawmakers-are-split-over-protecting-americans-from-warrantless-surveillance/) (2026-04-21)
+- [What’s the key to better vegan cheese? Microbreweries, one startup says](https://techcrunch.com/2026/04/21/whats-the-key-to-better-vegan-cheese-microbreweries-one-startup-says/) (2026-04-21)
+- [Cash App is targeting a new kind of customer: 6-12 year olds](https://techcrunch.com/2026/04/21/cash-app-is-targeting-a-new-kind-of-customer-6-12-year-olds/) (2026-04-21)
+- [GRAI believes AI can make music more social, not replace artists](https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/) (2026-04-21)
+- [Yelp’s updated AI assistant can answer questions and book a restaurant or service in one conversation](https://techcrunch.com/2026/04/21/yelps-updated-ai-assistant-can-answer-questions-and-book-a-restaurant-or-service-in-one-conversation/) (2026-04-21)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Less human AI agents, please](https://nial.se/blog/less-human-ai-agents-please/) (2026-04-21)
-- [Using Changesets in a polyglot monorepo](https://luke.hsiao.dev/blog/changesets-polyglot-monorepo/) (2026-04-21)
-- [Louis Zocchi, inventor of the d100, has died](https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice) (2026-04-21)
-- [A mad undertaking: An undefinitive guide to the Aadam Jacobs collection](https://aadamjacobscollection.org/) (2026-04-21)
-- [Types and Neural Networks](https://www.brunogavranovic.com/posts/2026-04-20-types-and-neural-networks.html) (2026-04-21)
+- [Show HN: Antenna – RSS reader with a built-in MCP server](https://antennafeed.com/) (2026-04-21)
+- [Show HN: VidStudio, a browser based video editor that doesn't upload your files](https://vidstudio.app/video-editor) (2026-04-21)
+- [Tim Cook's Impeccable Timing](https://stratechery.com/2026/tim-cooks-impeccable-timing/) (2026-04-21)
+- [Laws of Software Engineering](https://lawsofsoftwareengineering.com) (2026-04-21)
+- [Apple ignores DMA interoperability requests and contradicts own documentation](https://fsfe.org/news/2026/news-20260420-01.html) (2026-04-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [PlayStation&#8217;s age-gating restrictions are coming to UK consoles](https://www.theverge.com/news/915448/sony-playstation-age-verification-uk-messaging-voice-chat) (2026-04-21)
-- [Dyson’s back with a travel-size Supersonic hairdryer](https://www.theverge.com/gadgets/915165/dyson-supersonic-travel-hairdryer-gadgets-price) (2026-04-21)
-- [Tim Cook will still be Apple’s Trump whisperer](https://www.theverge.com/policy/915422/tim-cook-apple-chairman-trump-policy) (2026-04-21)
-- [The Lenovo Legion Go S is RAMageddon’s latest victim](https://www.theverge.com/games/915278/lenovo-legion-go-s-price-hike-discontinued-ramageddon) (2026-04-20)
-- [John Ternus is taking over from Tim Cook as Apple&#8217;s CEO](https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook) (2026-04-20)
+- [Splatoon Raiders hits the Switch 2 in July](https://www.theverge.com/games/915655/splatoon-raiders-switch-2-release-date-trailer) (2026-04-21)
+- [The SpaceX IPO is a trillion-dollar gamble on the future of space](https://www.theverge.com/science/915244/spacex-ipo-trillion-dollar-commercial-iss-nasa-launch) (2026-04-21)
+- [Apple will have a product guy as CEO again](https://www.theverge.com/tech/915388/apple-ceo-john-ternus-tim-cook) (2026-04-21)
+- [Yelp is making its AI chatbot way more useful](https://www.theverge.com/ai-artificial-intelligence/915626/yelp-ai-assistant-chatbot-major-upgrade) (2026-04-21)
+- [Microsoft Teams is trying to fix accidental hand-raising](https://www.theverge.com/tech/915586/microsoft-teams-accidental-hand-raising-fix) (2026-04-21)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Global growth in solar "the largest ever observed for any source"](https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/) (2026-04-21)
 - [Pentagon pulls the plug on one of the military's most troubled space programs](https://arstechnica.com/space/2026/04/pentagon-pulls-the-plug-on-one-of-the-militarys-most-troubled-space-programs/) (2026-04-21)
 - [John Ternus will replace Tim Cook as Apple CEO](https://arstechnica.com/apple/2026/04/john-ternus-will-replace-tim-cook-as-apple-ceo/) (2026-04-20)
 - [Absurd study suggests eating fruits and vegetables leads to cancer](https://arstechnica.com/health/2026/04/absurdly-bad-study-spurs-headlines-linking-healthy-diet-to-lung-cancer/) (2026-04-20)
 - [US opens refund portal to start paying back Trump's illegal tariffs](https://arstechnica.com/tech-policy/2026/04/us-opens-refund-portal-to-start-paying-back-trumps-illegal-tariffs/) (2026-04-20)
-- [Here's how F1 is tweaking its hybrid systems to try to save the show](https://arstechnica.com/cars/2026/04/f1-new-hybrid-rules-will-come-into-effect-at-the-miami-grand-prix-in-may/) (2026-04-20)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: turning down human noise, and LA’s stunning subway upgrade](https://www.technologyreview.com/2026/04/21/1136246/the-download-human-noise-la-subway-upgrade/) (2026-04-21)
+- [Digging for clues about the North Pole’s past](https://www.technologyreview.com/2026/04/21/1135231/digging-for-truth-north-pole-past-seabed/) (2026-04-21)
 - [The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles](https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/) (2026-04-20)
 - [Colossal Biosciences said it cloned red wolves. Is it for real?](https://www.technologyreview.com/2026/04/20/1135222/red-wolves-colossal-biosciences-clones/) (2026-04-20)
 - [Chinese tech workers are starting to train their AI doubles–and pushing back](https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/) (2026-04-20)
-- [Pie Day 2026](https://www.technologyreview.com/2026/04/17/1136121/pie-day-links/) (2026-04-17)
-- [The Download: bad news for inner Neanderthals, and AI warfare’s human illusion](https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/) (2026-04-17)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The SSML Basics Every Creator Should Know](https://dev.to/stanlymt/the-ssml-basics-every-creator-should-know-3agf) (2026-04-21)
-- [35 Dev.to Posts Later: What My "Second Brain" Project Actually Taught Me About Failure](https://dev.to/kevinten10/35-devto-posts-later-what-my-second-brain-project-actually-taught-me-about-failure-c8e) (2026-04-21)
-- [The Incident Commander Role: Running Incidents Without Chaos](https://dev.to/samson_tanimawo/the-incident-commander-role-running-incidents-without-chaos-5c7k) (2026-04-21)
-- [Morning vs Evening Developers: When Is the Best Code Written?](https://dev.to/arthur_pandev/morning-vs-evening-developers-when-is-the-best-code-written-3321) (2026-04-21)
-- [Context Switching Is Killing Your Team: What Multi-Project Data Reveals](https://dev.to/arthur_pandev/context-switching-is-killing-your-team-what-multi-project-data-reveals-42dg) (2026-04-21)
+- [Why ML Models Break After Deployment](https://dev.to/hema_nambi_66c9/why-ml-models-break-after-deployment-4d42) (2026-04-21)
+- [Top 10 Programming Languages by Actual Coding Time (Not GitHub Stars)](https://dev.to/arthur_pandev/top-10-programming-languages-by-actual-coding-time-not-github-stars-1118) (2026-04-21)
+- [How Team Size Affects Productivity: Brooks's Law in Real Data](https://dev.to/arthur_pandev/how-team-size-affects-productivity-brookss-law-in-real-data-3265) (2026-04-21)
+- [Anthropic's MCP Has a Design Flaw It Won't Fix. Here's What Developers Need to Do Now.](https://dev.to/claudiobasckeira/anthropics-mcp-has-a-design-flaw-it-wont-fix-heres-what-developers-need-to-do-now-1j6f) (2026-04-21)
+- [The AI Copilot Effect: How AI Assistants Changed Coding Time in 2026](https://dev.to/arthur_pandev/the-ai-copilot-effect-how-ai-assistants-changed-coding-time-in-2026-4427) (2026-04-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Nobody Sees the Work Behind 1005 GitHub Contributions. This Is What It Took](https://medium.com/@kapildadhich075/nobody-sees-the-work-behind-1005-github-contributions-this-is-what-it-took-7d8d4f3aebee?source=rss------programming-5) (2026-04-21)
-- [So You Want to Build the Brain of the Internet? A Student's Backend Roadmap for 2026](https://medium.com/@devata001god/so-you-want-to-build-the-brain-of-the-internet-a-students-backend-roadmap-for-2026-bb6ff3c47cee?source=rss------programming-5) (2026-04-21)
-- [I Was Using AWS Completely Wrong — These 7 Changes Fixed Everything Fast](https://aws.plainenglish.io/i-was-using-aws-completely-wrong-these-7-changes-fixed-everything-fast-f3df433af086?source=rss------programming-5) (2026-04-21)
-- [From Rural to Corporate: How BSNL is Expanding Its Telecom Reach in India](https://medium.com/@narendra007singhshekhawat/from-rural-to-corporate-how-bsnl-is-expanding-its-telecom-reach-in-india-5ea4c9fd1bd9?source=rss------programming-5) (2026-04-21)
-- [The Silicon Strike: Why Your Next Web3 Hire Won’t Be Human](https://medium.com/@orbis86/the-silicon-strike-why-your-next-web3-hire-wont-be-human-580702ce609d?source=rss------programming-5) (2026-04-21)
+- [The AI Industry’s Biggest Contradiction: “Learn to Code”… but Isn’t Coding Being Automated?](https://medium.com/@rafaelxidane/the-ai-industrys-biggest-contradiction-learn-to-code-but-isn-t-coding-being-automated-a7f11a79882e?source=rss------programming-5) (2026-04-21)
+- [4 YAML Files Instead of PySpark: How We Let Analysts Build Data Pipelines Without Engineers](https://medium.com/@kiril-kazlou/4-yaml-files-instead-of-pyspark-how-we-let-analysts-build-data-pipelines-without-engineers-9973bfe084b0?source=rss------programming-5) (2026-04-21)
+- [How I Made My Python Functions 10x Cleaner with Simple Rules](https://medium.com/@anam_ahmed/how-i-made-my-python-functions-10x-cleaner-with-simple-rules-b36389667084?source=rss------programming-5) (2026-04-21)
+- [ML-V1: Building a Custom Machine Learning Library with TypeScript and Rust](https://medium.com/@akhyarsafrudin/ml-v1-building-a-custom-machine-learning-library-with-typescript-and-rust-182117a376b0?source=rss------programming-5) (2026-04-21)
+- [Let’s check vibe code that acts like optimized C++ one but is actually a mess](https://unicorn-dev.medium.com/lets-check-vibe-code-that-acts-like-optimized-c-one-but-is-actually-a-mess-a9193df1c010?source=rss------programming-5) (2026-04-21)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Moving past bots vs. humans](https://blog.cloudflare.com/past-bots-and-humans/) (2026-04-21)
 - [Building the agentic cloud: everything we launched during Agents Week 2026](https://blog.cloudflare.com/agents-week-in-review/) (2026-04-20)
 - [The AI engineering stack we built internally — on the platform we ship](https://blog.cloudflare.com/internal-ai-engineering-stack/) (2026-04-20)
 - [Orchestrating AI Code Review at scale](https://blog.cloudflare.com/ai-code-review/) (2026-04-20)
 - [Introducing the Agent Readiness score. Is your site agent-ready?](https://blog.cloudflare.com/agent-readiness/) (2026-04-17)
-- [Shared Dictionaries: compression that keeps up with the agentic web](https://blog.cloudflare.com/shared-dictionaries/) (2026-04-17)
 
 </details>
 
@@ -535,22 +535,33 @@ https://www.twilio.com/en-us/blog/events/five-reasons-attend-signal-san-francisc
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard](https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard) (2026-04-21)
 - [How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas](https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas) (2026-04-21)
 - [Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents](https://huggingface.co/blog/ecom-rlve) (2026-04-16)
 - [The PR you would have opened yourself](https://huggingface.co/blog/transformers-to-mlx) (2026-04-16)
 - [Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers](https://huggingface.co/blog/train-multimodal-sentence-transformers) (2026-04-16)
-- [Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents](https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis) (2026-04-15)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Siemens introduces AI system for automation engineering](https://www.artificialintelligence-news.com/news/siemens-ai-automation-engineering-workflows/) (2026-04-21)
+- [Bobyard 2.0 offers improved takeoffs and unified AI for estimators](https://www.artificialintelligence-news.com/news/bobyard-2-0-offers-improved-takeoffs-and-unified-ai-for-estimators/) (2026-04-20)
+- [How to prepare for and remediate an AI system incident](https://www.artificialintelligence-news.com/news/how-to-prepare-for-and-remediate-an-ai-system-incident/) (2026-04-20)
+- [Anthropic walks into the White House and Mythos is the reason Washington let it in](https://www.artificialintelligence-news.com/news/anthropic-mythos-ai-cybersecurity-white-house/) (2026-04-20)
+- [OpenAI Agents SDK improves governance with sandbox execution](https://www.artificialintelligence-news.com/news/openai-agents-sdk-improves-governance-sandbox-execution/) (2026-04-16)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Your RAG Gets Confidently Wrong as Memory Grows – I Built the Memory Layer That Stops It](https://towardsdatascience.com/your-rag-gets-confidently-wrong-as-memory-grows-i-built-the-memory-layer-that-stops-it/) (2026-04-21)
 - [What Does the p-value Even Mean?](https://towardsdatascience.com/what-does-p-value-even-mean/) (2026-04-20)
 - [Context Payload Optimization for ICL-Based Tabular Foundation Models](https://towardsdatascience.com/context-payload-optimization-for-icl-based-tabular-foundation-models/) (2026-04-20)
 - [The LLM Gamble](https://towardsdatascience.com/the-llm-gamble/) (2026-04-20)
 - [From Risk to Asset: Designing a Practical Data Strategy That Actually Works](https://towardsdatascience.com/from-risk-to-asset-designing-a-practical-data-strategy-that-actually-works/) (2026-04-20)
-- [Proxy-Pointer RAG: Structure Meets Scale at 100% Accuracy with Smarter Retrieval](https://towardsdatascience.com/proxy-pointer-rag-structure-meets-scale-100-accuracy-with-smarter-retrieval/) (2026-04-19)
 
 </details>
 
@@ -568,22 +579,22 @@ https://www.twilio.com/en-us/blog/events/five-reasons-attend-signal-san-francisc
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Docker Best Practices for Faster Builds and Smaller Images](https://www.kdnuggets.com/5-docker-best-practices-for-faster-builds-and-smaller-images) (2026-04-21)
 - [How to Crawl an Entire Documentation Site with Olostep](https://www.kdnuggets.com/how-to-crawl-an-entire-documentation-site-with-olostep) (2026-04-20)
 - [Merging Language Models with Unsloth Studio](https://www.kdnuggets.com/merging-language-models-with-unsloth-studio) (2026-04-20)
 - [5 Free Ways to Host a Python Application](https://www.kdnuggets.com/5-free-ways-to-host-a-python-application) (2026-04-20)
 - [I Vibe Coded a Tool to That Analyzes Customer Sentiment and Topics From Call Recordings](https://www.kdnuggets.com/vibe-coded-tool-analyzes-customer-sentiment-and-topics-from-call-recordings) (2026-04-17)
-- [5 Useful Python Scripts for Advanced Data Validation & Quality Checks](https://www.kdnuggets.com/5-useful-python-scripts-for-advanced-data-validation-quality-checks) (2026-04-17)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [AI Agent Memory Explained in 3 Levels of Difficulty](https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/) (2026-04-21)
 - [Getting Started with Zero-Shot Text Classification](https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/) (2026-04-20)
 - [The Complete Guide to Inference Caching in LLMs](https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/) (2026-04-17)
 - [Python Decorators for Production Machine Learning Engineering](https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/) (2026-04-16)
 - [5 Techniques for Efficient Long-Context RAG](https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/) (2026-04-15)
-- [How to Implement Tool Calling with Gemma 4 and Python](https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/) (2026-04-13)
 
 </details>
 
