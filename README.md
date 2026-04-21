@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [With US spy laws set to expire, lawmakers are split over protecting Americans from warrantless surveillance](https://techcrunch.com/2026/04/21/with-us-spy-laws-set-to-expire-lawmakers-are-split-over-protecting-americans-from-warrantless-surveillance/) (2026-04-21)
-- [What’s the key to better vegan cheese? Microbreweries, one startup says](https://techcrunch.com/2026/04/21/whats-the-key-to-better-vegan-cheese-microbreweries-one-startup-says/) (2026-04-21)
-- [Cash App is targeting a new kind of customer: 6-12 year olds](https://techcrunch.com/2026/04/21/cash-app-is-targeting-a-new-kind-of-customer-6-12-year-olds/) (2026-04-21)
-- [GRAI believes AI can make music more social, not replace artists](https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/) (2026-04-21)
-- [Yelp’s updated AI assistant can answer questions and book a restaurant or service in one conversation](https://techcrunch.com/2026/04/21/yelps-updated-ai-assistant-can-answer-questions-and-book-a-restaurant-or-service-in-one-conversation/) (2026-04-21)
+- [SusHi Tech Tokyo isn’t a conference — it’s a deal room with 60,000 people](https://techcrunch.com/2026/04/21/sushi-tech-tokyo-isnt-a-conference-its-a-deal-room-with-60000-people/) (2026-04-21)
+- [ChatGPT’s new Images 2.0 model is surprisingly good at generating text](https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/) (2026-04-21)
+- [Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’](https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/) (2026-04-21)
+- [A look at Tim Cook’s 15-year legacy as CEO of Apple](https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-timeline/) (2026-04-21)
+- [Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says](https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/) (2026-04-21)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: Antenna – RSS reader with a built-in MCP server](https://antennafeed.com/) (2026-04-21)
-- [Show HN: VidStudio, a browser based video editor that doesn't upload your files](https://vidstudio.app/video-editor) (2026-04-21)
-- [Tim Cook's Impeccable Timing](https://stratechery.com/2026/tim-cooks-impeccable-timing/) (2026-04-21)
-- [Laws of Software Engineering](https://lawsofsoftwareengineering.com) (2026-04-21)
-- [Apple ignores DMA interoperability requests and contradicts own documentation](https://fsfe.org/news/2026/news-20260420-01.html) (2026-04-21)
+- [Framework Laptop 13 Pro](https://frame.work/laptop13pro) (2026-04-21)
+- [Cal.diy: open-source community edition of cal.com](https://github.com/calcom/cal.diy) (2026-04-21)
+- [Meta capturing employee mouse movements, keystrokes for AI training data](https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr) (2026-04-21)
+- [Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica](https://britannica11.org/) (2026-04-21)
+- [The Vercel breach: OAuth attack exposes risk in platform environment variables](https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html) (2026-04-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Splatoon Raiders hits the Switch 2 in July](https://www.theverge.com/games/915655/splatoon-raiders-switch-2-release-date-trailer) (2026-04-21)
-- [The SpaceX IPO is a trillion-dollar gamble on the future of space](https://www.theverge.com/science/915244/spacex-ipo-trillion-dollar-commercial-iss-nasa-launch) (2026-04-21)
-- [Apple will have a product guy as CEO again](https://www.theverge.com/tech/915388/apple-ceo-john-ternus-tim-cook) (2026-04-21)
-- [Yelp is making its AI chatbot way more useful](https://www.theverge.com/ai-artificial-intelligence/915626/yelp-ai-assistant-chatbot-major-upgrade) (2026-04-21)
-- [Microsoft Teams is trying to fix accidental hand-raising](https://www.theverge.com/tech/915586/microsoft-teams-accidental-hand-raising-fix) (2026-04-21)
+- [AI backlash is coming for elections](https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs) (2026-04-21)
+- [OpenAI’s updated image generator can now pull information from the web](https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2) (2026-04-21)
+- [Framework’s Laptop 13 Pro launch event](https://www.theverge.com/gadgets/916168/framework-next-gen-laptop-13-pro-event) (2026-04-21)
+- [X makes it 1,900 percent more expensive to post links](https://www.theverge.com/tech/916178/x-link-post-api-expensive-techmeme) (2026-04-21)
+- [Framework announces Laptop 13 Pro, ‘the MacBook Pro for Linux users’](https://www.theverge.com/gadgets/915508/framework-announces-laptop-13-pro-the-macbook-pro-for-linux-users) (2026-04-21)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Global growth in solar "the largest ever observed for any source"](https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/) (2026-04-21)
-- [Pentagon pulls the plug on one of the military's most troubled space programs](https://arstechnica.com/space/2026/04/pentagon-pulls-the-plug-on-one-of-the-militarys-most-troubled-space-programs/) (2026-04-21)
-- [John Ternus will replace Tim Cook as Apple CEO](https://arstechnica.com/apple/2026/04/john-ternus-will-replace-tim-cook-as-apple-ceo/) (2026-04-20)
-- [Absurd study suggests eating fruits and vegetables leads to cancer](https://arstechnica.com/health/2026/04/absurdly-bad-study-spurs-headlines-linking-healthy-diet-to-lung-cancer/) (2026-04-20)
-- [US opens refund portal to start paying back Trump's illegal tariffs](https://arstechnica.com/tech-policy/2026/04/us-opens-refund-portal-to-start-paying-back-trumps-illegal-tariffs/) (2026-04-20)
+- [Microsoft removes Call of Duty from Game Pass, lowers subscription pricing](https://arstechnica.com/gaming/2026/04/microsofts-game-pass-gets-cheaper-loses-launch-day-call-of-duty-access/) (2026-04-21)
+- [Framework Laptop 13 Pro is a major overhaul for the modular, upgradeable laptop](https://arstechnica.com/gadgets/2026/04/framework-laptop-13-pro-is-the-first-major-revision-to-the-original-framework-laptop/) (2026-04-21)
+- [Framework Laptop 16 upgrades make it look less like an unfinished prototype](https://arstechnica.com/gadgets/2026/04/framework-laptop-16-upgrades-make-it-look-less-like-an-unfinished-prototype/) (2026-04-21)
+- [Internal emails show how Amazon raises prices across the Internet, lawsuit says](https://arstechnica.com/tech-policy/2026/04/internal-emails-show-how-amazon-raises-prices-across-the-internet-lawsuit-says/) (2026-04-21)
+- [Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips](https://arstechnica.com/ai/2026/04/anthropic-gets-5b-investment-from-amazon-will-use-it-to-buy-amazon-chips/) (2026-04-21)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Building agent-first governance and security](https://www.technologyreview.com/2026/04/21/1136158/building-agent-first-governance-and-security/) (2026-04-21)
 - [The Download: turning down human noise, and LA’s stunning subway upgrade](https://www.technologyreview.com/2026/04/21/1136246/the-download-human-noise-la-subway-upgrade/) (2026-04-21)
 - [Digging for clues about the North Pole’s past](https://www.technologyreview.com/2026/04/21/1135231/digging-for-truth-north-pole-past-seabed/) (2026-04-21)
 - [The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles](https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/) (2026-04-20)
 - [Colossal Biosciences said it cloned red wolves. Is it for real?](https://www.technologyreview.com/2026/04/20/1135222/red-wolves-colossal-biosciences-clones/) (2026-04-20)
-- [Chinese tech workers are starting to train their AI doubles–and pushing back](https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/) (2026-04-20)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why ML Models Break After Deployment](https://dev.to/hema_nambi_66c9/why-ml-models-break-after-deployment-4d42) (2026-04-21)
-- [Top 10 Programming Languages by Actual Coding Time (Not GitHub Stars)](https://dev.to/arthur_pandev/top-10-programming-languages-by-actual-coding-time-not-github-stars-1118) (2026-04-21)
-- [How Team Size Affects Productivity: Brooks's Law in Real Data](https://dev.to/arthur_pandev/how-team-size-affects-productivity-brookss-law-in-real-data-3265) (2026-04-21)
-- [Anthropic's MCP Has a Design Flaw It Won't Fix. Here's What Developers Need to Do Now.](https://dev.to/claudiobasckeira/anthropics-mcp-has-a-design-flaw-it-wont-fix-heres-what-developers-need-to-do-now-1j6f) (2026-04-21)
-- [The AI Copilot Effect: How AI Assistants Changed Coding Time in 2026](https://dev.to/arthur_pandev/the-ai-copilot-effect-how-ai-assistants-changed-coding-time-in-2026-4427) (2026-04-21)
+- [4 JavaScript Frameworks Powering the Generative AI Revolution (and How to Choose)](https://dev.to/middlewaremind/4-javascript-frameworks-powering-the-generative-ai-revolution-and-how-to-choose-48pk) (2026-04-21)
+- [SwiftUI - Localizando ícones com SF Symbols](https://dev.to/natorsc/swiftui-localizando-icones-com-sf-symbols-3n6k) (2026-04-21)
+- [The 54th Attempt: When Your "Knowledge Management" System Becomes a Self-Fulfilling Prophecy of Failure](https://dev.to/kevinten10/the-54th-attempt-when-your-knowledge-management-system-becomes-a-self-fulfilling-prophecy-of-5edd) (2026-04-21)
+- [I built 70 free dev tools in 6 weeks, here's what I learned](https://dev.to/toolkitdesk/i-built-70-free-dev-tools-in-6-weeks-heres-what-i-learned-2o2) (2026-04-21)
+- [When Agents Meet Reality: Recapping Our Agents in Production Meetup in London April '26](https://dev.to/orkesconductor/when-agents-meet-reality-recapping-our-agents-in-production-meetup-in-london-april-26-3mbi) (2026-04-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The AI Industry’s Biggest Contradiction: “Learn to Code”… but Isn’t Coding Being Automated?](https://medium.com/@rafaelxidane/the-ai-industrys-biggest-contradiction-learn-to-code-but-isn-t-coding-being-automated-a7f11a79882e?source=rss------programming-5) (2026-04-21)
-- [4 YAML Files Instead of PySpark: How We Let Analysts Build Data Pipelines Without Engineers](https://medium.com/@kiril-kazlou/4-yaml-files-instead-of-pyspark-how-we-let-analysts-build-data-pipelines-without-engineers-9973bfe084b0?source=rss------programming-5) (2026-04-21)
-- [How I Made My Python Functions 10x Cleaner with Simple Rules](https://medium.com/@anam_ahmed/how-i-made-my-python-functions-10x-cleaner-with-simple-rules-b36389667084?source=rss------programming-5) (2026-04-21)
-- [ML-V1: Building a Custom Machine Learning Library with TypeScript and Rust](https://medium.com/@akhyarsafrudin/ml-v1-building-a-custom-machine-learning-library-with-typescript-and-rust-182117a376b0?source=rss------programming-5) (2026-04-21)
-- [Let’s check vibe code that acts like optimized C++ one but is actually a mess](https://unicorn-dev.medium.com/lets-check-vibe-code-that-acts-like-optimized-c-one-but-is-actually-a-mess-a9193df1c010?source=rss------programming-5) (2026-04-21)
+- [Stop Designing HTTP API And Call It REST — Here’s How Seniors Design RESTful APIs](https://blog.stackademic.com/stop-designing-http-api-and-call-it-rest-heres-how-seniors-design-restful-apis-6d0107afc53d?source=rss------programming-5) (2026-04-21)
+- [full stack developer course India](https://medium.com/@nimtechnologiez/full-stack-developer-course-india-f7a19067ecc5?source=rss------programming-5) (2026-04-21)
+- [Java Collections Interview Questions for Freshers (2026 Complete Guide)](https://medium.com/@sparsh187/java-collections-interview-questions-for-freshers-2026-complete-guide-965756f2c78f?source=rss------programming-5) (2026-04-21)
+- [A 2-letter string in a Webpack hash was sending 7% of our images to 403](https://medium.com/@vivekjdwork/a-2-letter-string-in-a-webpack-hash-was-sending-7-of-our-images-to-403-bcfd29bad0e0?source=rss------programming-5) (2026-04-21)
+- [I Applied Without Thinking — Then Stanford Replied.](https://medium.com/@manishtula7777/i-applied-without-thinking-then-stanford-replied-e518d6e14207?source=rss------programming-5) (2026-04-21)
 
 </details>
 
@@ -163,11 +163,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [Level up your development with Planning Mode and Next Edit Prediction in Android Studio Panda 4 ](https://android-developers.googleblog.com/2026/04/android-studio-panda-4-planning-mode-next-edit-prediction.html) (2026-04-21)
 - [Experimental hybrid inference and new Gemini models for Android](https://android-developers.googleblog.com/2026/04/Hybrid-inference-and-new-AI-models-are-coming-to-Android.html) (2026-04-17)
 - [The Fourth Beta of Android 17](https://android-developers.googleblog.com/2026/04/the-fourth-beta-of-android-17.html) (2026-04-16)
 - [Android CLI and skills: Build Android apps 3x faster using any agent](https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html) (2026-04-16)
 - [Boosting user privacy and business protection with updated Play policies](https://android-developers.googleblog.com/2026/04/giving-users-clearer-choice-and-everyone-a-safer-more-trusted-app-ecosystem.html) (2026-04-15)
-- [Get ready for Google I/O: Livestream schedule revealed](https://android-developers.googleblog.com/2026/04/get-ready-for-google-io-livestream-schedule-revealed.html) (2026-04-14)
 
 </details>
 
@@ -229,11 +229,11 @@
 <details>
 <summary>🏠 Airbnb Engineering</summary>
 
+- [Building a fault-tolerant metrics storage system at Airbnb](https://medium.com/airbnb-engineering/building-a-fault-tolerant-metrics-storage-system-at-airbnb-26a01a6e7017?source=rss----53c7c27702d5---4) (2026-04-21)
 - [Privacy-first connections: Empowering social experiences at Airbnb](https://medium.com/airbnb-engineering/privacy-first-connections-empowering-social-experiences-at-airbnb-d7dec59ef960?source=rss----53c7c27702d5---4) (2026-04-14)
 - [Building a high-volume metrics pipeline with OpenTelemetry and vmagent](https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45?source=rss----53c7c27702d5---4) (2026-04-07)
 - [My Journey to Airbnb — Jonathan Woodard](https://medium.com/airbnb-engineering/my-journey-to-airbnb-jonathan-woodard-7efae28d7fa9?source=rss----53c7c27702d5---4) (2026-04-02)
 - [What COVID did to our forecasting models (and what we built to handle the next shock)](https://medium.com/airbnb-engineering/what-covid-did-to-our-forecasting-models-and-what-we-built-to-handle-the-next-shock-ccbf0e1f7fa9?source=rss----53c7c27702d5---4) (2026-03-24)
-- [From vendors to vanguard: Airbnb’s hard-won lessons in observability ownership](https://medium.com/airbnb-engineering/from-vendors-to-vanguard-airbnbs-hard-won-lessons-in-observability-ownership-3811bf6c1ac3?source=rss----53c7c27702d5---4) (2026-03-17)
 
 </details>
 
@@ -251,11 +251,11 @@
 <details>
 <summary>👥 Facebook Engineering</summary>
 
+- [Modernizing the Facebook Groups Search to Unlock the Power of Community Knowledge](https://engineering.fb.com/2026/04/21/ml-applications/modernizing-the-facebook-groups-search-to-unlock-the-power-of-community-knowledge/) (2026-04-21)
 - [Capacity Efficiency at Meta: How Unified AI Agents Optimize Performance at Hyperscale](https://engineering.fb.com/2026/04/16/developer-tools/capacity-efficiency-at-meta-how-unified-ai-agents-optimize-performance-at-hyperscale/) (2026-04-16)
 - [Post-Quantum Cryptography Migration at Meta: Framework, Lessons, and Takeaways](https://engineering.fb.com/2026/04/16/security/post-quantum-cryptography-migration-at-meta-framework-lessons-and-takeaways/) (2026-04-16)
 - [Escaping the Fork: How Meta Modernized WebRTC Across 50+ Use Cases](https://engineering.fb.com/2026/04/09/developer-tools/escaping-the-fork-how-meta-modernized-webrtc-across-50-use-cases/) (2026-04-09)
 - [Trust But Canary: Configuration Safety at Scale](https://engineering.fb.com/2026/04/08/security/trust-but-canary-configuration-safety-at-scale-meta-tech-podcast/) (2026-04-08)
-- [How Meta Used AI to Map Tribal Knowledge in Large-Scale Data Pipelines](https://engineering.fb.com/2026/04/06/developer-tools/how-meta-used-ai-to-map-tribal-knowledge-in-large-scale-data-pipelines/) (2026-04-06)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Incremental Highlighting for Scala](https://blog.jetbrains.com/scala/2026/04/21/incremental-highlighting/) (2026-04-21)
+- [Kotlin Professional Certificate by JetBrains – Now on LinkedIn Learning](https://blog.jetbrains.com/kotlin/2026/04/kotlin-professional-certificate-by-jetbrains-now-on-linkedin-learning/) (2026-04-21)
 - [Busy Plugin Developers Newsletter – Q1 2026](https://blog.jetbrains.com/platform/2026/04/busy-plugin-developers-newsletter-q1-2026/) (2026-04-20)
 - [Helping Decision-Makers Say Yes to Kotlin Multiplatform (KMP)](https://blog.jetbrains.com/kotlin/2026/04/helping-decision-makers-say-yes-to-kmp/) (2026-04-20)
 - [7 Best Static Code Analysis Tools](https://blog.jetbrains.com/qodana/2026/04/best-static-code-analysis-tools/) (2026-04-20)
-- [Security Issue in YouTrack (CVE-2026-33392): Upgrade Recommended for Server Versions Before 2025.3.132953](https://blog.jetbrains.com/youtrack/2026/04/security-issue-in-youtrack-cve-2026-33392/) (2026-04-17)
-- [The Road to Responsive IntelliJ-Based IDEs](https://blog.jetbrains.com/platform/2026/04/road-to-responsive-ides/) (2026-04-17)
 
 </details>
 
@@ -392,11 +392,12 @@ https://www.twilio.com/en-us/blog/events/five-reasons-attend-signal-san-francisc
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Multi-Tenant SaaS: Managing Auth0 Organizations with the My Organization API](https://auth0.com/blog/managing-auth0-organizations-my-organization-api/) (2026-04-21)
+- [CheckMate for Auth0: Six Months of Growth
+](https://auth0.com/blog/checkmate-for-auth0-six-month-update/) (2026-04-21)
 - [The AI Design Formula Does Not Exist — Yet](https://auth0.com/blog/ai-design-formula-does-not-exist-yet/) (2026-04-17)
 - [The Product Architecture Behind Trusted AI Experiences](https://auth0.com/blog/product-architecture-behind-trusted-ai-experiences/) (2026-04-15)
 - [How to Monitor Auth0 Usage Metrics](https://auth0.com/blog/how-to-monitor-auth0-usage-metrics/) (2026-04-14)
-- [How to Enable Self-Service Identity Management for B2B SaaS in Auth0](https://auth0.com/blog/how-to-enable-self-service-identity-management-b2b-saas/) (2026-04-14)
-- [OpenClaw's Credential Problem Is Not a Secrets Problem](https://auth0.com/blog/openclaw-credential-problem/) (2026-04-10)
 
 </details>
 
@@ -414,11 +415,11 @@ https://www.twilio.com/en-us/blog/events/five-reasons-attend-signal-san-francisc
 <details>
 <summary>🪐 PlanetScale Blog</summary>
 
+- [Approaches to tenancy in Postgres](https://planetscale.com/blog/approaches-to-tenancy-in-postgres) (2026-04-21)
 - [Keeping a Postgres queue healthy](https://planetscale.com/blog/keeping-a-postgres-queue-healthy) (2026-04-10)
 - [Patterns for Postgres Traffic Control](https://planetscale.com/blog/patterns-for-postgres-traffic-control) (2026-04-02)
 - [Graceful degradation in Postgres](https://planetscale.com/blog/graceful-degradation-in-postgres) (2026-03-31)
 - [High memory usage in Postgres is good, actually](https://planetscale.com/blog/high-memory-usage-in-postgres-is-good-actually) (2026-03-30)
-- [Stripe Projects partnership: Provision PlanetScale Postgres and MySQL databases from the Stripe CLI](https://planetscale.com/blog/planetscale-stripe-projects-partnership) (2026-03-26)
 
 </details>
 
@@ -537,31 +538,31 @@ https://www.twilio.com/en-us/blog/events/five-reasons-attend-signal-san-francisc
 
 - [QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard](https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard) (2026-04-21)
 - [How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas](https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas) (2026-04-21)
+- [AI and the Future of Cybersecurity: Why Openness Matters](https://huggingface.co/blog/cybersecurity-openness) (2026-04-21)
 - [Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents](https://huggingface.co/blog/ecom-rlve) (2026-04-16)
 - [The PR you would have opened yourself](https://huggingface.co/blog/transformers-to-mlx) (2026-04-16)
-- [Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers](https://huggingface.co/blog/train-multimodal-sentence-transformers) (2026-04-16)
 
 </details>
 
 <details>
 <summary>🤖 AI News</summary>
 
+- [Snowflake expands its technical and mainstream AI platforms](https://www.artificialintelligence-news.com/news/snowflake-expands-its-technical-and-mainstream-ai-platforms/) (2026-04-21)
 - [Siemens introduces AI system for automation engineering](https://www.artificialintelligence-news.com/news/siemens-ai-automation-engineering-workflows/) (2026-04-21)
 - [Bobyard 2.0 offers improved takeoffs and unified AI for estimators](https://www.artificialintelligence-news.com/news/bobyard-2-0-offers-improved-takeoffs-and-unified-ai-for-estimators/) (2026-04-20)
 - [How to prepare for and remediate an AI system incident](https://www.artificialintelligence-news.com/news/how-to-prepare-for-and-remediate-an-ai-system-incident/) (2026-04-20)
 - [Anthropic walks into the White House and Mythos is the reason Washington let it in](https://www.artificialintelligence-news.com/news/anthropic-mythos-ai-cybersecurity-white-house/) (2026-04-20)
-- [OpenAI Agents SDK improves governance with sandbox execution](https://www.artificialintelligence-news.com/news/openai-agents-sdk-improves-governance-sandbox-execution/) (2026-04-16)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [DIY AI & ML: Solving The Multi-Armed Bandit Problem with Thompson Sampling](https://towardsdatascience.com/diy-ai-ml-solving-the-multi-armed-bandit-problem-with-thompson-sampling/) (2026-04-21)
+- [Git UNDO : How to Rewrite Git History with Confidence](https://towardsdatascience.com/git-undo-how-to-rewrite-git-history-with-confidence/) (2026-04-21)
+- [How to Call Rust from Python](https://towardsdatascience.com/calling-rust-from-python/) (2026-04-21)
+- [I Replaced GPT-4 with a Local SLM and My CI/CD Pipeline Stopped Failing](https://towardsdatascience.com/i-replaced-gpt-4-with-a-local-slm-and-my-ci-cd-pipeline-stopped-failing/) (2026-04-21)
 - [Your RAG Gets Confidently Wrong as Memory Grows – I Built the Memory Layer That Stops It](https://towardsdatascience.com/your-rag-gets-confidently-wrong-as-memory-grows-i-built-the-memory-layer-that-stops-it/) (2026-04-21)
-- [What Does the p-value Even Mean?](https://towardsdatascience.com/what-does-p-value-even-mean/) (2026-04-20)
-- [Context Payload Optimization for ICL-Based Tabular Foundation Models](https://towardsdatascience.com/context-payload-optimization-for-icl-based-tabular-foundation-models/) (2026-04-20)
-- [The LLM Gamble](https://towardsdatascience.com/the-llm-gamble/) (2026-04-20)
-- [From Risk to Asset: Designing a Practical Data Strategy That Actually Works](https://towardsdatascience.com/from-risk-to-asset-designing-a-practical-data-strategy-that-actually-works/) (2026-04-20)
 
 </details>
 
@@ -579,11 +580,11 @@ https://www.twilio.com/en-us/blog/events/five-reasons-attend-signal-san-francisc
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Seeing What’s Possible with OpenCode + Ollama + Qwen3-Coder](https://www.kdnuggets.com/seeing-whats-possible-with-opencode-ollama-qwen3-coder) (2026-04-21)
+- [Advanced Pandas Patterns Most Data Scientists Don’t Use](https://www.kdnuggets.com/advanced-pandas-patterns-most-data-scientists-dont-use) (2026-04-21)
 - [5 Docker Best Practices for Faster Builds and Smaller Images](https://www.kdnuggets.com/5-docker-best-practices-for-faster-builds-and-smaller-images) (2026-04-21)
 - [How to Crawl an Entire Documentation Site with Olostep](https://www.kdnuggets.com/how-to-crawl-an-entire-documentation-site-with-olostep) (2026-04-20)
 - [Merging Language Models with Unsloth Studio](https://www.kdnuggets.com/merging-language-models-with-unsloth-studio) (2026-04-20)
-- [5 Free Ways to Host a Python Application](https://www.kdnuggets.com/5-free-ways-to-host-a-python-application) (2026-04-20)
-- [I Vibe Coded a Tool to That Analyzes Customer Sentiment and Topics From Call Recordings](https://www.kdnuggets.com/vibe-coded-tool-analyzes-customer-sentiment-and-topics-from-call-recordings) (2026-04-17)
 
 </details>
 
