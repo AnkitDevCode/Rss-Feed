@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [North Korea hackers blamed for $290M crypto theft](https://techcrunch.com/2026/04/20/north-korea-hackers-blamed-for-290m-crypto-theft/) (2026-04-20)
-- [Mastodon says its flagship server was hit by a DDoS attack](https://techcrunch.com/2026/04/20/mastodon-says-its-flagship-server-was-hit-by-a-ddos-attack/) (2026-04-20)
-- [FAA orders investigation into Blue Origin’s New Glenn mishap](https://techcrunch.com/2026/04/20/faa-orders-investigation-into-blue-origins-new-glenn-mishap/) (2026-04-20)
-- [NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud](https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/) (2026-04-20)
-- [WhatsApp is testing a premium subscription, but it is mainly cosmetic](https://techcrunch.com/2026/04/20/whatsapp-is-testing-a-premium-subscription-put-it-is-mainly-cosmetic/) (2026-04-20)
+- [Who is John Ternus, the incoming Apple CEO?](https://techcrunch.com/2026/04/20/who-is-john-ternus-the-incoming-apple-ceo/) (2026-04-21)
+- [Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return](https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/) (2026-04-20)
+- [Google rolls out Gemini in Chrome in 7 new countries](https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/) (2026-04-20)
+- [Tim Cook stepping down as Apple CEO, John Ternus taking over](https://techcrunch.com/2026/04/20/tim-cook-stepping-down-as-apple-ceo-john-ternus-taking-over/) (2026-04-20)
+- [Google Photos adds new touch-up tools for ‘quick’ fixes](https://techcrunch.com/2026/04/20/google-photos-adds-new-touch-up-tools-for-quick-fixes/) (2026-04-20)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Palantir's Stasi Protocols](https://professorsigmund.com/praxis/palantir-stasi-protocols.html) (2026-04-20)
-- [At Long Last, InfoWars Is Ours](https://theonion.info/) (2026-04-20)
-- [At long last, InfoWars is ours](https://theonion.com/at-long-last-infowars-is-ours/) (2026-04-20)
-- [Bloom (YC P26) Is Hiring](https://www.ycombinator.com/companies/trybloom/jobs) (2026-04-20)
-- [The Theory of Interstellar Trade [pdf] (1978)](https://www.princeton.edu/~pkrugman/interstellar.pdf) (2026-04-20)
+- [How to Make a Fast Dynamic Language Interpreter](https://zef-lang.dev/implementation) (2026-04-21)
+- [Even 'uncensored' models can't say what they want](https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html) (2026-04-20)
+- [Monero Community Crowdfunding System](https://ccs.getmonero.org/ideas/) (2026-04-20)
+- [Jujutsu megamerges for fun and profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit) (2026-04-20)
+- [OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”](https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/) (2026-04-20)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Mercedes’ first all-electric C-Class is its sportiest one yet](https://www.theverge.com/transportation/914951/mercedes-benz-c-class-ev-electric-range-specs) (2026-04-20)
-- [You can grab a Sonos Era 100 for $85 off thanks to Sonos’ latest refurb sale](https://www.theverge.com/gadgets/914900/sonos-era-100-300-refurbished-speakers-anker-nano-charger-deal-sale) (2026-04-20)
-- [Deezer says AI song uploads have nearly overtaken human music](https://www.theverge.com/entertainment/915027/deezer-ai-music-daily-uploads) (2026-04-20)
-- [Fortnite developers can make AI characters now — just don&#8217;t try to date them](https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations) (2026-04-20)
-- [La-Z-Boy’s recliners and sofas are getting built-in Klipsch speakers](https://www.theverge.com/tech/914248/la-z-boy-audioluxe-furniture-recliner-sofa-speaker-subwoofer-klipsch) (2026-04-20)
+- [Tim Cook will still be Apple’s Trump whisperer](https://www.theverge.com/policy/915422/tim-cook-apple-chairman-trump-policy) (2026-04-21)
+- [The Lenovo Legion Go S is RAMageddon’s latest victim](https://www.theverge.com/games/915278/lenovo-legion-go-s-price-hike-discontinued-ramageddon) (2026-04-20)
+- [John Ternus is taking over from Tim Cook as Apple&#8217;s CEO](https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook) (2026-04-20)
+- [Read Tim Cook&#8217;s letter to the Apple world as he departs as CEO](https://www.theverge.com/tech/915279/tim-cook-ceo-letter-apple-community) (2026-04-20)
+- [Apple names Johny Srouji as chief hardware officer](https://www.theverge.com/tech/915240/apple-johny-srouji-ternus-cook) (2026-04-20)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [John Ternus will replace Tim Cook as Apple CEO](https://arstechnica.com/apple/2026/04/john-ternus-will-replace-tim-cook-as-apple-ceo/) (2026-04-20)
+- [Absurd study suggests eating fruits and vegetables leads to cancer](https://arstechnica.com/health/2026/04/absurdly-bad-study-spurs-headlines-linking-healthy-diet-to-lung-cancer/) (2026-04-20)
+- [US opens refund portal to start paying back Trump's illegal tariffs](https://arstechnica.com/tech-policy/2026/04/us-opens-refund-portal-to-start-paying-back-trumps-illegal-tariffs/) (2026-04-20)
 - [Here's how F1 is tweaking its hybrid systems to try to save the show](https://arstechnica.com/cars/2026/04/f1-new-hybrid-rules-will-come-into-effect-at-the-miami-grand-prix-in-may/) (2026-04-20)
 - [Robot runner handily beats humans in half-marathon, setting new record](https://arstechnica.com/ai/2026/04/robot-runner-handily-beats-humans-in-half-marathon-setting-new-record/) (2026-04-20)
-- [Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent](https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/) (2026-04-20)
-- [Rogue Trooper brings the Genetic Infantry to the silver screen](https://arstechnica.com/culture/2026/04/rogue-trooper-brings-the-genetic-infantry-to-the-silver-screen/) (2026-04-20)
-- [Meet Bruce, the "beak-jousting" parrot](https://arstechnica.com/science/2026/04/meet-bruce-the-beak-jousting-parrot/) (2026-04-20)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [From Vibecoding to Vibelaunching: Building the ecosystems-cli](https://dev.to/sebs/from-vibecoding-to-vibelaunching-building-the-ecosystems-cli-nje) (2026-04-20)
-- [Implementing WebMCP on a Recruitment Website](https://dev.to/richardbaxter/implementing-webmcp-on-a-recruitment-website-19a) (2026-04-20)
-- [I built a film camera simulator in a single HTML file here's how](https://dev.to/sk8ordie84/i-built-a-film-camera-simulator-in-a-single-html-file-heres-how-403b) (2026-04-20)
-- [Sensitive Data Exposure - The Bug That Looks Like a Feature Working Correctly](https://dev.to/safron/sensitive-data-exposure-the-bug-that-looks-like-a-feature-working-correctly-1djh) (2026-04-20)
-- [When should you use canary deployments?](https://dev.to/coderabbitai/when-should-you-use-canary-deployments-2ch9) (2026-04-20)
+- [Custom Silicon, Agentic Search, and Smarter Fine-Tuning](https://dev.to/anikalp1/custom-silicon-agentic-search-and-smarter-fine-tuning-513c) (2026-04-21)
+- [Neural Computers: A New Way of Thinking About Computers](https://dev.to/siddengineerr/neural-computers-a-new-way-of-thinking-about-computers-3e9j) (2026-04-21)
+- [How AI-Driven Compression is Changing File Transfers in 2026](https://dev.to/simpledrop/how-ai-driven-compression-is-changing-file-transfers-in-2026-1m7p) (2026-04-21)
+- [The Death of LocalStorage: Why Enterprise Apps Use Cookies](https://dev.to/mihokoto/the-death-of-localstorage-why-enterprise-apps-use-cookies-2hg6) (2026-04-21)
+- [Why Microsoft Office Interop Fails for PDF Generation in .NET (And What to Use Instead)](https://dev.to/jenll/why-microsoft-office-interop-fails-for-pdf-generation-in-net-and-what-to-use-instead-5bc6) (2026-04-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Plan Cache Behavior in SQL Server](https://medium.com/@AlexanderObregon/plan-cache-behavior-in-sql-server-54d15ce551b3?source=rss------programming-5) (2026-04-20)
-- [Construyendo Aplicaciones Móviles Offline-First: Guía de un Principal Engineer hacia la Resiliencia](https://medium.com/casual-snack-reviews/construyendo-aplicaciones-m%C3%B3viles-offline-first-gu%C3%ADa-de-un-principal-engineer-hacia-la-resiliencia-de78e048dc4e?source=rss------programming-5) (2026-04-20)
-- [Monday Grind Blueprint #4: 1:45AM, Alarm Set for 4AM, and a New RAM Optimizer](https://medium.com/@MarcinFirmuga/monday-grind-blueprint-4-1-45am-alarm-set-for-4am-and-a-new-ram-optimizer-c073112fbe9c?source=rss------programming-5) (2026-04-20)
-- [The Thuban Resurrection: Why I’m Still Obsessed With a 15-Year-Old Six-Core Beast](https://medium.com/@hassanalisardar001/the-thuban-resurrection-why-im-still-obsessed-with-a-15-year-old-six-core-beast-83a2b72d6dec?source=rss------programming-5) (2026-04-20)
-- [Why Programming Became the Proving Ground for AI](https://seanfalconer.medium.com/why-programming-became-the-proving-ground-for-ai-87568533a09d?source=rss------programming-5) (2026-04-20)
+- [How to Compare package.json Files: A Node.js Developer’s Guide](https://medium.com/@aggarwal.shivam1107/how-to-compare-package-json-files-a-node-js-developers-guide-216f515f21d1?source=rss------programming-5) (2026-04-21)
+- [Xbox Game Pass April 2026 Wave 2 Lineup Announced](https://medium.com/@lordsky.gg/xbox-game-pass-april-2026-wave-2-lineup-announced-36afdcc26d92?source=rss------programming-5) (2026-04-21)
+- [Claude Design: 5 Real Use Cases That Will Change How You Create](https://pradipkaity.medium.com/claude-design-5-real-use-cases-that-will-change-how-you-create-e3422ec76c87?source=rss------programming-5) (2026-04-21)
+- [The “Silent” Stack: 8AI Tools Actually Worth a Developer’s Time in 2026](https://medium.com/codetodeploy/the-silent-stack-8ai-tools-actually-worth-a-developers-time-in-2026-223141c7d99f?source=rss------programming-5) (2026-04-21)
+- [The Secret Life of JavaScript: Handling Streaming JSON](https://medium.com/@aaron.rose.tx/the-secret-life-of-javascript-handling-streaming-json-eb1c643c2597?source=rss------programming-5) (2026-04-21)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Busy Plugin Developers Newsletter – Q1 2026](https://blog.jetbrains.com/platform/2026/04/busy-plugin-developers-newsletter-q1-2026/) (2026-04-20)
 - [Helping Decision-Makers Say Yes to Kotlin Multiplatform (KMP)](https://blog.jetbrains.com/kotlin/2026/04/helping-decision-makers-say-yes-to-kmp/) (2026-04-20)
 - [7 Best Static Code Analysis Tools](https://blog.jetbrains.com/qodana/2026/04/best-static-code-analysis-tools/) (2026-04-20)
 - [Security Issue in YouTrack (CVE-2026-33392): Upgrade Recommended for Server Versions Before 2025.3.132953](https://blog.jetbrains.com/youtrack/2026/04/security-issue-in-youtrack-cve-2026-33392/) (2026-04-17)
 - [The Road to Responsive IntelliJ-Based IDEs](https://blog.jetbrains.com/platform/2026/04/road-to-responsive-ides/) (2026-04-17)
-- [Introducing Koog Integration for Spring AI: Smarter Orchestration for Your Agents](https://blog.jetbrains.com/ai/2026/04/introducing-koog-integration-for-spring-ai-smarter-orchestration-for-your-agents/) (2026-04-16)
 
 </details>
 
@@ -329,10 +329,10 @@
 <summary>🦊 GitLab Blog</summary>
 
 - [What’s new in Git 2.54.0?](https://about.gitlab.com/blog/whats-new-in-git-2-54-0/) (2026-04-20)
+- [Prepare your pipeline for AI-discovered zero-days](https://about.gitlab.com/blog/prepare-your-pipeline-for-ai-discovered-zero-days/) (2026-04-20)
 - [GitHub Copilot's new policy for AI training is a governance wake-up call](https://about.gitlab.com/blog/github-copilots-new-policy-for-ai-training-is-a-governance-wake-up-call/) (2026-04-20)
 - [GitLab 18.11: Budget guardrails for GitLab Credits](https://about.gitlab.com/blog/gitlab-18-11-budget-guardrails-for-gitlab-credits/) (2026-04-16)
 - [Claude Opus 4.7 is now available in GitLab Duo Agent Platform](https://about.gitlab.com/blog/claude-opus-4-7-is-now-available-in-gitlab-duo-agent-platform/) (2026-04-16)
-- [GitLab 18.11: CI Expert and Data Analyst AI agents target development gaps](https://about.gitlab.com/blog/ci-expert-and-data-analyst-ai-agents-target-development-gaps/) (2026-04-16)
 
 </details>
 
@@ -535,7 +535,7 @@ https://www.twilio.com/en-us/blog/insights/build-email-marketing-strategy
 <details>
 <summary>🤗 Hugging Face</summary>
 
-- [Building a Fast Multilingual OCR Model with Synthetic Data](https://huggingface.co/blog/nvidia/nemotron-ocr-v2) (2026-04-17)
+- [How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas](https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas) (2026-04-21)
 - [Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents](https://huggingface.co/blog/ecom-rlve) (2026-04-16)
 - [The PR you would have opened yourself](https://huggingface.co/blog/transformers-to-mlx) (2026-04-16)
 - [Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers](https://huggingface.co/blog/train-multimodal-sentence-transformers) (2026-04-16)
