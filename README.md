@@ -31,33 +31,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [How to Make a Fast Dynamic Language Interpreter](https://zef-lang.dev/implementation) (2026-04-21)
-- [Even 'uncensored' models can't say what they want](https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html) (2026-04-20)
-- [Monero Community Crowdfunding System](https://ccs.getmonero.org/ideas/) (2026-04-20)
-- [Jujutsu megamerges for fun and profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit) (2026-04-20)
-- [OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”](https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/) (2026-04-20)
+- [Less human AI agents, please](https://nial.se/blog/less-human-ai-agents-please/) (2026-04-21)
+- [Using Changesets in a polyglot monorepo](https://luke.hsiao.dev/blog/changesets-polyglot-monorepo/) (2026-04-21)
+- [Louis Zocchi, inventor of the d100, has died](https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice) (2026-04-21)
+- [A mad undertaking: An undefinitive guide to the Aadam Jacobs collection](https://aadamjacobscollection.org/) (2026-04-21)
+- [Types and Neural Networks](https://www.brunogavranovic.com/posts/2026-04-20-types-and-neural-networks.html) (2026-04-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [PlayStation&#8217;s age-gating restrictions are coming to UK consoles](https://www.theverge.com/news/915448/sony-playstation-age-verification-uk-messaging-voice-chat) (2026-04-21)
+- [Dyson’s back with a travel-size Supersonic hairdryer](https://www.theverge.com/gadgets/915165/dyson-supersonic-travel-hairdryer-gadgets-price) (2026-04-21)
 - [Tim Cook will still be Apple’s Trump whisperer](https://www.theverge.com/policy/915422/tim-cook-apple-chairman-trump-policy) (2026-04-21)
 - [The Lenovo Legion Go S is RAMageddon’s latest victim](https://www.theverge.com/games/915278/lenovo-legion-go-s-price-hike-discontinued-ramageddon) (2026-04-20)
 - [John Ternus is taking over from Tim Cook as Apple&#8217;s CEO](https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook) (2026-04-20)
-- [Read Tim Cook&#8217;s letter to the Apple world as he departs as CEO](https://www.theverge.com/tech/915279/tim-cook-ceo-letter-apple-community) (2026-04-20)
-- [Apple names Johny Srouji as chief hardware officer](https://www.theverge.com/tech/915240/apple-johny-srouji-ternus-cook) (2026-04-20)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Pentagon pulls the plug on one of the military's most troubled space programs](https://arstechnica.com/space/2026/04/pentagon-pulls-the-plug-on-one-of-the-militarys-most-troubled-space-programs/) (2026-04-21)
 - [John Ternus will replace Tim Cook as Apple CEO](https://arstechnica.com/apple/2026/04/john-ternus-will-replace-tim-cook-as-apple-ceo/) (2026-04-20)
 - [Absurd study suggests eating fruits and vegetables leads to cancer](https://arstechnica.com/health/2026/04/absurdly-bad-study-spurs-headlines-linking-healthy-diet-to-lung-cancer/) (2026-04-20)
 - [US opens refund portal to start paying back Trump's illegal tariffs](https://arstechnica.com/tech-policy/2026/04/us-opens-refund-portal-to-start-paying-back-trumps-illegal-tariffs/) (2026-04-20)
 - [Here's how F1 is tweaking its hybrid systems to try to save the show](https://arstechnica.com/cars/2026/04/f1-new-hybrid-rules-will-come-into-effect-at-the-miami-grand-prix-in-may/) (2026-04-20)
-- [Robot runner handily beats humans in half-marathon, setting new record](https://arstechnica.com/ai/2026/04/robot-runner-handily-beats-humans-in-half-marathon-setting-new-record/) (2026-04-20)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [We still need developer communities](https://stackoverflow.blog/2026/04/21/we-still-need-developer-communities/) (2026-04-21)
 - [No country left behind with sovereign AI](https://stackoverflow.blog/2026/04/17/no-country-left-behind-with-sovereign-ai/) (2026-04-17)
 - [Human input needed: take our survey on AI agents](https://stackoverflow.blog/2026/04/15/human-input-needed-take-our-survey-on-ai-agents/) (2026-04-15)
 - [Why AI hasn't replaced human expertise—and what that means for your SaaS stack](https://stackoverflow.blog/2026/04/15/why-ai-hasn-t-replaced-human-expertise/) (2026-04-15)
 - [Who needs VCs when you have friends like these?](https://stackoverflow.blog/2026/04/14/who-needs-vcs-when-you-have-friends-like-these/) (2026-04-14)
-- [The messy truth of your AI strategies](https://stackoverflow.blog/2026/04/10/the-messy-truth-of-your-ai-strategies/) (2026-04-10)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Custom Silicon, Agentic Search, and Smarter Fine-Tuning](https://dev.to/anikalp1/custom-silicon-agentic-search-and-smarter-fine-tuning-513c) (2026-04-21)
-- [Neural Computers: A New Way of Thinking About Computers](https://dev.to/siddengineerr/neural-computers-a-new-way-of-thinking-about-computers-3e9j) (2026-04-21)
-- [How AI-Driven Compression is Changing File Transfers in 2026](https://dev.to/simpledrop/how-ai-driven-compression-is-changing-file-transfers-in-2026-1m7p) (2026-04-21)
-- [The Death of LocalStorage: Why Enterprise Apps Use Cookies](https://dev.to/mihokoto/the-death-of-localstorage-why-enterprise-apps-use-cookies-2hg6) (2026-04-21)
-- [Why Microsoft Office Interop Fails for PDF Generation in .NET (And What to Use Instead)](https://dev.to/jenll/why-microsoft-office-interop-fails-for-pdf-generation-in-net-and-what-to-use-instead-5bc6) (2026-04-21)
+- [The SSML Basics Every Creator Should Know](https://dev.to/stanlymt/the-ssml-basics-every-creator-should-know-3agf) (2026-04-21)
+- [35 Dev.to Posts Later: What My "Second Brain" Project Actually Taught Me About Failure](https://dev.to/kevinten10/35-devto-posts-later-what-my-second-brain-project-actually-taught-me-about-failure-c8e) (2026-04-21)
+- [The Incident Commander Role: Running Incidents Without Chaos](https://dev.to/samson_tanimawo/the-incident-commander-role-running-incidents-without-chaos-5c7k) (2026-04-21)
+- [Morning vs Evening Developers: When Is the Best Code Written?](https://dev.to/arthur_pandev/morning-vs-evening-developers-when-is-the-best-code-written-3321) (2026-04-21)
+- [Context Switching Is Killing Your Team: What Multi-Project Data Reveals](https://dev.to/arthur_pandev/context-switching-is-killing-your-team-what-multi-project-data-reveals-42dg) (2026-04-21)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How to Compare package.json Files: A Node.js Developer’s Guide](https://medium.com/@aggarwal.shivam1107/how-to-compare-package-json-files-a-node-js-developers-guide-216f515f21d1?source=rss------programming-5) (2026-04-21)
-- [Xbox Game Pass April 2026 Wave 2 Lineup Announced](https://medium.com/@lordsky.gg/xbox-game-pass-april-2026-wave-2-lineup-announced-36afdcc26d92?source=rss------programming-5) (2026-04-21)
-- [Claude Design: 5 Real Use Cases That Will Change How You Create](https://pradipkaity.medium.com/claude-design-5-real-use-cases-that-will-change-how-you-create-e3422ec76c87?source=rss------programming-5) (2026-04-21)
-- [The “Silent” Stack: 8AI Tools Actually Worth a Developer’s Time in 2026](https://medium.com/codetodeploy/the-silent-stack-8ai-tools-actually-worth-a-developers-time-in-2026-223141c7d99f?source=rss------programming-5) (2026-04-21)
-- [The Secret Life of JavaScript: Handling Streaming JSON](https://medium.com/@aaron.rose.tx/the-secret-life-of-javascript-handling-streaming-json-eb1c643c2597?source=rss------programming-5) (2026-04-21)
+- [Nobody Sees the Work Behind 1005 GitHub Contributions. This Is What It Took](https://medium.com/@kapildadhich075/nobody-sees-the-work-behind-1005-github-contributions-this-is-what-it-took-7d8d4f3aebee?source=rss------programming-5) (2026-04-21)
+- [So You Want to Build the Brain of the Internet? A Student's Backend Roadmap for 2026](https://medium.com/@devata001god/so-you-want-to-build-the-brain-of-the-internet-a-students-backend-roadmap-for-2026-bb6ff3c47cee?source=rss------programming-5) (2026-04-21)
+- [I Was Using AWS Completely Wrong — These 7 Changes Fixed Everything Fast](https://aws.plainenglish.io/i-was-using-aws-completely-wrong-these-7-changes-fixed-everything-fast-f3df433af086?source=rss------programming-5) (2026-04-21)
+- [From Rural to Corporate: How BSNL is Expanding Its Telecom Reach in India](https://medium.com/@narendra007singhshekhawat/from-rural-to-corporate-how-bsnl-is-expanding-its-telecom-reach-in-india-5ea4c9fd1bd9?source=rss------programming-5) (2026-04-21)
+- [The Silicon Strike: Why Your Next Web3 Hire Won’t Be Human](https://medium.com/@orbis86/the-silicon-strike-why-your-next-web3-hire-wont-be-human-580702ce609d?source=rss------programming-5) (2026-04-21)
 
 </details>
 
@@ -362,6 +362,21 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+17 types of post-purchase emails to build brand loyalty
+](
+https://www.twilio.com/en-us/blog/insights/post-purchase-emails
+) (2026-04-20)
+- [
+Consent needed for open tracking pixels? CNIL says yes.
+](
+https://www.twilio.com/en-us/blog/insights/tracking-consent-cnil-france
+) (2026-04-20)
+- [
+Integrate Google Gemini with Twilio Voice Using ConversationRelay and Python
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/product/integrate-google-gemini-twilio-voice-conversationrelay
+) (2026-04-20)
+- [
 No Rip and Replace. Add AI to Your Contact Center for Instant ROI
 ](
 https://www.twilio.com/en-us/blog/products/launches/take-control-of-the-contact-center
@@ -371,21 +386,6 @@ Five Reasons You Should Attend SIGNAL San Francisco 2026
 ](
 https://www.twilio.com/en-us/blog/events/five-reasons-attend-signal-san-francisco-2026
 ) (2026-04-14)
-- [
-Activate Warehouse Data Faster with New Advanced Audiences features in Twilio Segment
-](
-https://www.twilio.com/en-us/blog/products/launches/New-Advanced-Audiences-features-in-Twilio-Segment
-) (2026-04-14)
-- [
-Orc-estrating an Optimized Workflow for Quickly Prototyping on Twilio with Claude Code Plugins
-](
-https://www.twilio.com/en-us/blog/developers/best-practices/prototyping-twilio-apps-claude-code-plugin
-) (2026-04-13)
-- [
-7 steps to build a savvy email marketing strategy in 2026
-](
-https://www.twilio.com/en-us/blog/insights/build-email-marketing-strategy
-) (2026-04-13)
 
 </details>
 
@@ -544,17 +544,6 @@ https://www.twilio.com/en-us/blog/insights/build-email-marketing-strategy
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [Bobyard 2.0 offers improved takeoffs and unified AI for estimators](https://www.artificialintelligence-news.com/news/bobyard-2-0-offers-improved-takeoffs-and-unified-ai-for-estimators/) (2026-04-20)
-- [How to prepare for and remediate an AI system incident](https://www.artificialintelligence-news.com/news/how-to-prepare-for-and-remediate-an-ai-system-incident/) (2026-04-20)
-- [Anthropic walks into the White House and Mythos is the reason Washington let it in](https://www.artificialintelligence-news.com/news/anthropic-mythos-ai-cybersecurity-white-house/) (2026-04-20)
-- [OpenAI Agents SDK improves governance with sandbox execution](https://www.artificialintelligence-news.com/news/openai-agents-sdk-improves-governance-sandbox-execution/) (2026-04-16)
-- [Cadence expands AI and robotic partnerships with Nvidia, Google Cloud](https://www.artificialintelligence-news.com/news/cadence-expands-ai-and-robotics-partnerships-with-nvidia-google-cloud/) (2026-04-16)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
 - [What Does the p-value Even Mean?](https://towardsdatascience.com/what-does-p-value-even-mean/) (2026-04-20)
@@ -568,11 +557,11 @@ https://www.twilio.com/en-us/blog/insights/build-email-marketing-strategy
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Opus 4.7 vs Opus 4.6: Should You Switch?](https://www.analyticsvidhya.com/blog/2026/04/opus-4-7-vs-opus-4-6/) (2026-04-21)
 - [Build Human-Like AI Voice App with Gemini 3.1 Flash TTS](https://www.analyticsvidhya.com/blog/2026/04/ai-voice-app-with-gemini-3-1-flash-tts/) (2026-04-20)
 - [How to Structure a Claude Code Project that Thinks Like an Engineer ](https://www.analyticsvidhya.com/blog/2026/04/claude-code-project-structure/) (2026-04-19)
 - [Gemma 4 Tool Calling Explained: Build AI Agents with Function Calling (Step-by-Step Guide)](https://www.analyticsvidhya.com/blog/2026/04/gemma-4-tool-calling/) (2026-04-18)
 - [Anthropic Launches Claude Opus 4.7 For “Most Difficult Tasks”](https://www.analyticsvidhya.com/blog/2026/04/claude-opus-4-7/) (2026-04-17)
-- [Top 28 Claude Shortcuts that will 10X your Speed](https://www.analyticsvidhya.com/blog/2026/04/top-claude-shortcuts/) (2026-04-17)
 
 </details>
 
