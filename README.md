@@ -23,7 +23,7 @@
 - [Redwood Materials lays off 10% in restructuring to chase energy storage business](https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/) (2026-04-22)
 - [Meta will record employees’ keystrokes and use it to train its AI models](https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/) (2026-04-21)
 - [Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims](https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/) (2026-04-21)
-- [SpaceX is working with Cursor and has an option to buy the startup for $60 billion](https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/) (2026-04-21)
+- [SpaceX is working with Cursor and has an option to buy the startup for $60B](https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/) (2026-04-21)
 - [Tim Cook is stepping down as CEO of Apple: Here’s a look at his 15-year legacy, from new products and services to China expansion](https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-takeaways-ios-silicon-china-trillion-ai/) (2026-04-21)
 
 </details>
@@ -31,10 +31,10 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Global growth in solar "the largest ever observed for any source"](https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/) (2026-04-22)
-- [San Diego rents declined more than 19 of 20 top US markets after surge in supply](https://www.kpbs.org/news/economy/2026/03/27/san-diego-rents-declined-more-than-19-of-nations-top-20-markets-following-surge-in-supply) (2026-04-22)
-- [I'm Sick of AI Everything](https://news.ycombinator.com/item?id=47857461) (2026-04-22)
-- [Drunk Post: Things I've Learned as a Senior Engineer](https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as) (2026-04-21)
+- [XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?](https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247) (2026-04-22)
+- [FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX](https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/) (2026-04-22)
+- [Kuri – Zig based agent-browser alternative](https://github.com/justrach/kuri) (2026-04-22)
+- [Drunk post: Things I've learned as a senior engineer (2021)](https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as) (2026-04-21)
 - [SpaceX says it has agreement to acquire Cursor for $60B](https://twitter.com/spacex/status/2046713419978453374) (2026-04-21)
 
 </details>
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [How to get multiple agents to play nice at scale ](https://stackoverflow.blog/2026/04/22/how-to-get-multiple-agents-to-play-nice-at-scale/) (2026-04-22)
 - [We still need developer communities](https://stackoverflow.blog/2026/04/21/we-still-need-developer-communities/) (2026-04-21)
 - [No country left behind with sovereign AI](https://stackoverflow.blog/2026/04/17/no-country-left-behind-with-sovereign-ai/) (2026-04-17)
 - [Human input needed: take our survey on AI agents](https://stackoverflow.blog/2026/04/15/human-input-needed-take-our-survey-on-ai-agents/) (2026-04-15)
 - [Why AI hasn't replaced human expertise—and what that means for your SaaS stack](https://stackoverflow.blog/2026/04/15/why-ai-hasn-t-replaced-human-expertise/) (2026-04-15)
-- [Who needs VCs when you have friends like these?](https://stackoverflow.blog/2026/04/14/who-needs-vcs-when-you-have-friends-like-these/) (2026-04-14)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Interactive Prototype vs. Static Mockup: Which Gets You to User Feedback Faster?](https://dev.to/fan-song/interactive-prototype-vs-static-mockup-which-gets-you-to-user-feedback-faster-3ai7) (2026-04-22)
-- ["I Only Trusted My Channel Abstraction After Plugging In the Third Provider"](https://dev.to/codekingai/i-only-trusted-my-channel-abstraction-after-plugging-in-the-third-provider-ned) (2026-04-22)
-- [Home Server GitOps-Lite on Nothing but GitHub and Docker](https://dev.to/nckslvrmn/home-server-gitops-lite-on-nothing-but-github-and-docker-19lo) (2026-04-22)
-- [CVE-2026-40343: CVE-2026-40343: Fail-Open Request Handling in free5GC UDR Policy Data Subscription](https://dev.to/cverports/cve-2026-40343-cve-2026-40343-fail-open-request-handling-in-free5gc-udr-policy-data-subscription-5hb4) (2026-04-22)
-- [OpenAI Euphony: A Browser-Based Viewer for Harmony Conversations and Codex CLI Sessions](https://dev.to/_46ea277e677b888e0cd13/openai-euphony-a-browser-based-viewer-for-harmony-conversations-and-codex-cli-sessions-5gcn) (2026-04-22)
+- [How to Migrate from ReadyAPI to Apidog](https://dev.to/hassann/how-to-migrate-from-readyapi-to-apidog-2j1o) (2026-04-22)
+- [Why Simple Tasks Feel So Complicated Online](https://dev.to/dio_a931969c7d95bbbc2e4f3/why-simple-tasks-feel-so-complicated-online-3cm5) (2026-04-22)
+- [I Built a Job Search Engine That Scores Every Listing Against My Resume — 0 API Keys, Runs Locally](https://dev.to/mohamed_alqouqa_279d1ec18/i-built-a-job-search-engine-that-scores-every-listing-against-my-resume-0-api-keys-runs-locally-1g6k) (2026-04-22)
+- [What was your Win-Win this week?! 👋👋👋👋 All wins count -- Big or Small 🎉📱](https://dev.to/mohammedzaidwaghoo/what-was-your-win-win-this-weekall-wins-count-big-or-small-a51) (2026-04-22)
+- [I'm losing my own brand SERP to 3rd-party articles. Here's the JSON-LD stack I'm shipping to claw it back.](https://dev.to/candle-dojo/im-losing-my-own-brand-serp-to-3rd-party-articles-heres-the-json-ld-stack-im-shipping-to-claw-2bf1) (2026-04-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [35 Claude Code Commands, Tricks, and Workflows That Actually Matter](https://medium.com/@okyerevansjohn/35-claude-code-commands-tricks-and-workflows-that-actually-matter-e52c5f377e46?source=rss------programming-5) (2026-04-22)
-- [ Developer Question: Is there a modern replacement for JSONPlaceholder?](https://medium.com/@dnjosh10/developer-question-is-there-a-modern-replacement-for-jsonplaceholder-1ad97819c451?source=rss------programming-5) (2026-04-22)
-- [The Secret Life of Claude Code: Testing as Thinking](https://medium.com/@aaron.rose.tx/the-secret-life-of-claude-code-testing-as-thinking-68991aebf131?source=rss------programming-5) (2026-04-22)
-- [How Cursor Knows Your Codebase](https://medium.com/@glenn.dcosta/how-cursor-knows-your-codebase-eb61a4ef41fc?source=rss------programming-5) (2026-04-22)
-- [Quantum Computing & AI: The Next Tech Revolution](https://medium.com/@amit.rajawat12/quantum-computing-ai-the-next-tech-revolution-8c7a0dc9a48e?source=rss------programming-5) (2026-04-22)
+- [Technical Debt Is Not Just Bad Code. It’s Lost Design Memory](https://medium.com/@yhocotw31016/technical-debt-is-not-just-bad-code-its-lost-design-memory-e7dc63e5c14c?source=rss------programming-5) (2026-04-22)
+- [Error Handling in JavaScript](https://medium.com/@bhavaynagpal000/error-handling-in-javascript-2fd813cf032f?source=rss------programming-5) (2026-04-22)
+- [Why Kotlin Native Is Quietly Beating Flutter (2026 Reality)](https://medium.com/@jafar5029/why-kotlin-native-is-quietly-beating-flutter-2026-reality-607b5d15d720?source=rss------programming-5) (2026-04-22)
+- [From Raw Data to Real Impact: The Silent Power of Data Science](https://medium.com/@sanjana1227sana/from-raw-data-to-real-impact-the-silent-power-of-data-science-574bee07f62a?source=rss------programming-5) (2026-04-22)
+- [ Hidden TypeScript Performance Tricks (That Actually Matter)](https://medium.com/@navidbarsalari/hidden-typescript-performance-tricks-that-actually-matter-ef6689c5d623?source=rss------programming-5) (2026-04-22)
 
 </details>
 
@@ -362,14 +362,19 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Getting The Most for Your Money Using Automated SMS
+](
+https://www.twilio.com/en-us/blog/developers/best-practices/getting-most-money-using-automated-sms
+) (2026-04-21)
+- [
 17 types of post-purchase emails to build brand loyalty
 ](
 https://www.twilio.com/en-us/blog/insights/post-purchase-emails
 ) (2026-04-20)
 - [
-Consent needed for open tracking pixels? CNIL says yes.
+Reverse ETL vs. The Private Cloud: A Conceptual Survival Guide
 ](
-https://www.twilio.com/en-us/blog/insights/tracking-consent-cnil-france
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/reverse-etl-vs-the-private-cloud-survival-guide
 ) (2026-04-20)
 - [
 Integrate Google Gemini with Twilio Voice Using ConversationRelay and Python
@@ -377,15 +382,10 @@ Integrate Google Gemini with Twilio Voice Using ConversationRelay and Python
 https://www.twilio.com/en-us/blog/developers/tutorials/product/integrate-google-gemini-twilio-voice-conversationrelay
 ) (2026-04-20)
 - [
-No Rip and Replace. Add AI to Your Contact Center for Instant ROI
+Consent needed for open tracking pixels? CNIL says yes.
 ](
-https://www.twilio.com/en-us/blog/products/launches/take-control-of-the-contact-center
-) (2026-04-16)
-- [
-Five Reasons You Should Attend SIGNAL San Francisco 2026
-](
-https://www.twilio.com/en-us/blog/events/five-reasons-attend-signal-san-francisco-2026
-) (2026-04-14)
+https://www.twilio.com/en-us/blog/insights/tracking-consent-cnil-france
+) (2026-04-20)
 
 </details>
 
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/events/five-reasons-attend-signal-san-francisc
 <details>
 <summary>💬 Slack API</summary>
 
-- [CRM Benefits: 10 Ways CRM Improves Team Performance](https://slack.com/blog/crm/crm-benefits) (2026-04-20)
-- [CRM Strategy: How to Build One That Works](https://slack.com/blog/crm/crm-strategy) (2026-04-20)
 - [Slack is where your team works. Now it’s where your agents work too.](https://slack.com/blog/news/slack-is-where-agents-work) (2026-04-15)
 - [Instant Messaging: Transforming How We Talk at Work](https://slack.com/blog/collaboration/instant-messaging-transforming-how-we-talk-at-work) (2026-04-14)
 - [Conversational CRM: What It Is and Why It Matters](https://slack.com/blog/crm/conversational-crm) (2026-04-14)
+- [Real-World CRM Examples Across Sales, Service, and Marketing](https://slack.com/blog/crm/crm-examples) (2026-04-14)
+- [What is a Project Cycle, and How Do You Manage Its Stages?](https://slack.com/blog/productivity/project-cycle-management-guide) (2026-04-13)
 
 </details>
 
