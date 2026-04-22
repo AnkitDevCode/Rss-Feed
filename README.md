@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [SusHi Tech Tokyo isn’t a conference — it’s a deal room with 60,000 people](https://techcrunch.com/2026/04/21/sushi-tech-tokyo-isnt-a-conference-its-a-deal-room-with-60000-people/) (2026-04-21)
-- [ChatGPT’s new Images 2.0 model is surprisingly good at generating text](https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/) (2026-04-21)
-- [Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’](https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/) (2026-04-21)
-- [A look at Tim Cook’s 15-year legacy as CEO of Apple](https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-timeline/) (2026-04-21)
-- [Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says](https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/) (2026-04-21)
+- [Redwood Materials lays off 10% in restructuring to chase energy storage business](https://techcrunch.com/2026/04/21/redwood-materials-lays-off-10-in-restructuring-to-chase-energy-storage-business/) (2026-04-22)
+- [Meta will record employees’ keystrokes and use it to train its AI models](https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/) (2026-04-21)
+- [Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims](https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/) (2026-04-21)
+- [SpaceX is working with Cursor and has an option to buy the startup for $60 billion](https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/) (2026-04-21)
+- [Tim Cook is stepping down as CEO of Apple: Here’s a look at his 15-year legacy, from new products and services to China expansion](https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-takeaways-ios-silicon-china-trillion-ai/) (2026-04-21)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Framework Laptop 13 Pro](https://frame.work/laptop13pro) (2026-04-21)
-- [Cal.diy: open-source community edition of cal.com](https://github.com/calcom/cal.diy) (2026-04-21)
-- [Meta capturing employee mouse movements, keystrokes for AI training data](https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr) (2026-04-21)
-- [Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica](https://britannica11.org/) (2026-04-21)
-- [The Vercel breach: OAuth attack exposes risk in platform environment variables](https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html) (2026-04-21)
+- [Global growth in solar "the largest ever observed for any source"](https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/) (2026-04-22)
+- [San Diego rents declined more than 19 of 20 top US markets after surge in supply](https://www.kpbs.org/news/economy/2026/03/27/san-diego-rents-declined-more-than-19-of-nations-top-20-markets-following-surge-in-supply) (2026-04-22)
+- [I'm Sick of AI Everything](https://news.ycombinator.com/item?id=47857461) (2026-04-22)
+- [Drunk Post: Things I've Learned as a Senior Engineer](https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as) (2026-04-21)
+- [SpaceX says it has agreement to acquire Cursor for $60B](https://twitter.com/spacex/status/2046713419978453374) (2026-04-21)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [SpaceX cuts a deal to maybe buy Cursor for $60 billion](https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition) (2026-04-21)
+- [We translated the Palantir manifesto for actual human beings](https://www.theverge.com/policy/915237/palantir-manifesto) (2026-04-21)
+- [ISS astronauts are getting new laptops](https://www.theverge.com/science/916300/nasa-iss-computer-upgrades-hp-zbook-fury-g9) (2026-04-21)
+- [Tim Cook was an innovator — just not the Jobs kind](https://www.theverge.com/tech/916172/tim-cook-apple-legacy-supply-chain-ceo) (2026-04-21)
 - [AI backlash is coming for elections](https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs) (2026-04-21)
-- [OpenAI’s updated image generator can now pull information from the web](https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2) (2026-04-21)
-- [Framework’s Laptop 13 Pro launch event](https://www.theverge.com/gadgets/916168/framework-next-gen-laptop-13-pro-event) (2026-04-21)
-- [X makes it 1,900 percent more expensive to post links](https://www.theverge.com/tech/916178/x-link-post-api-expensive-techmeme) (2026-04-21)
-- [Framework announces Laptop 13 Pro, ‘the MacBook Pro for Linux users’](https://www.theverge.com/gadgets/915508/framework-announces-laptop-13-pro-the-macbook-pro-for-linux-users) (2026-04-21)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Microsoft removes Call of Duty from Game Pass, lowers subscription pricing](https://arstechnica.com/gaming/2026/04/microsofts-game-pass-gets-cheaper-loses-launch-day-call-of-duty-access/) (2026-04-21)
-- [Framework Laptop 13 Pro is a major overhaul for the modular, upgradeable laptop](https://arstechnica.com/gadgets/2026/04/framework-laptop-13-pro-is-the-first-major-revision-to-the-original-framework-laptop/) (2026-04-21)
-- [Framework Laptop 16 upgrades make it look less like an unfinished prototype](https://arstechnica.com/gadgets/2026/04/framework-laptop-16-upgrades-make-it-look-less-like-an-unfinished-prototype/) (2026-04-21)
-- [Internal emails show how Amazon raises prices across the Internet, lawsuit says](https://arstechnica.com/tech-policy/2026/04/internal-emails-show-how-amazon-raises-prices-across-the-internet-lawsuit-says/) (2026-04-21)
-- [Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips](https://arstechnica.com/ai/2026/04/anthropic-gets-5b-investment-from-amazon-will-use-it-to-buy-amazon-chips/) (2026-04-21)
+- [Pentagon wants $54B for drones, more than most nations’ military budgets](https://arstechnica.com/ai/2026/04/pentagon-wants-54b-for-drones-more-than-most-nations-military-budgets/) (2026-04-21)
+- [Mozilla: Anthropic's Mythos found 271 security vulnerabilities in Firefox 150](https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/) (2026-04-21)
+- [Supreme Court arguments make it clear that FCC fines are "nonbinding"](https://arstechnica.com/tech-policy/2026/04/supreme-court-arguments-make-it-clear-that-fcc-fines-are-nonbinding/) (2026-04-21)
+- [Silo S3 teaser hints at the wasteland's origins](https://arstechnica.com/culture/2026/04/silo-s3-teaser-turns-back-the-clock-to-a-greener-past/) (2026-04-21)
+- [Framework's CEO on the RAM crisis and creating a "MacBook Pro for Linux users"](https://arstechnica.com/gadgets/2026/04/frameworks-ceo-on-the-ram-crisis-and-creating-a-macbook-pro-for-linux-users/) (2026-04-21)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
-- [Building agent-first governance and security](https://www.technologyreview.com/2026/04/21/1136158/building-agent-first-governance-and-security/) (2026-04-21)
-- [The Download: turning down human noise, and LA’s stunning subway upgrade](https://www.technologyreview.com/2026/04/21/1136246/the-download-human-noise-la-subway-upgrade/) (2026-04-21)
-- [Digging for clues about the North Pole’s past](https://www.technologyreview.com/2026/04/21/1135231/digging-for-truth-north-pole-past-seabed/) (2026-04-21)
-- [The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles](https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/) (2026-04-20)
-- [Colossal Biosciences said it cloned red wolves. Is it for real?](https://www.technologyreview.com/2026/04/20/1135222/red-wolves-colossal-biosciences-clones/) (2026-04-20)
+- [Roundtables: Unveiling The 10 Things That Matter in AI Right Now](https://www.technologyreview.com/2026/04/21/1135486/roundtables-unveiling-the-10-things-that-matter-in-ai-right-now/) (2026-04-21)
+- [The new word in home construction could be “plastics”](https://www.technologyreview.com/2026/04/21/1134856/the-new-word-in-home-construction-could-be-plastics/) (2026-04-21)
+- [A natural protein may protect the GI tract from infection](https://www.technologyreview.com/2026/04/21/1134858/a-natural-protein-may-protect-the-gi-tract-from-infection/) (2026-04-21)
+- [This tool could show how consciousness works](https://www.technologyreview.com/2026/04/21/1134862/this-tool-could-show-how-consciousness-works/) (2026-04-21)
+- [Early life may have breathed oxygen earlier than believed](https://www.technologyreview.com/2026/04/21/1134867/early-life-may-have-breathed-oxygen-earlier-than-believed/) (2026-04-21)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [4 JavaScript Frameworks Powering the Generative AI Revolution (and How to Choose)](https://dev.to/middlewaremind/4-javascript-frameworks-powering-the-generative-ai-revolution-and-how-to-choose-48pk) (2026-04-21)
-- [SwiftUI - Localizando ícones com SF Symbols](https://dev.to/natorsc/swiftui-localizando-icones-com-sf-symbols-3n6k) (2026-04-21)
-- [The 54th Attempt: When Your "Knowledge Management" System Becomes a Self-Fulfilling Prophecy of Failure](https://dev.to/kevinten10/the-54th-attempt-when-your-knowledge-management-system-becomes-a-self-fulfilling-prophecy-of-5edd) (2026-04-21)
-- [I built 70 free dev tools in 6 weeks, here's what I learned](https://dev.to/toolkitdesk/i-built-70-free-dev-tools-in-6-weeks-heres-what-i-learned-2o2) (2026-04-21)
-- [When Agents Meet Reality: Recapping Our Agents in Production Meetup in London April '26](https://dev.to/orkesconductor/when-agents-meet-reality-recapping-our-agents-in-production-meetup-in-london-april-26-3mbi) (2026-04-21)
+- [Interactive Prototype vs. Static Mockup: Which Gets You to User Feedback Faster?](https://dev.to/fan-song/interactive-prototype-vs-static-mockup-which-gets-you-to-user-feedback-faster-3ai7) (2026-04-22)
+- ["I Only Trusted My Channel Abstraction After Plugging In the Third Provider"](https://dev.to/codekingai/i-only-trusted-my-channel-abstraction-after-plugging-in-the-third-provider-ned) (2026-04-22)
+- [Home Server GitOps-Lite on Nothing but GitHub and Docker](https://dev.to/nckslvrmn/home-server-gitops-lite-on-nothing-but-github-and-docker-19lo) (2026-04-22)
+- [CVE-2026-40343: CVE-2026-40343: Fail-Open Request Handling in free5GC UDR Policy Data Subscription](https://dev.to/cverports/cve-2026-40343-cve-2026-40343-fail-open-request-handling-in-free5gc-udr-policy-data-subscription-5hb4) (2026-04-22)
+- [OpenAI Euphony: A Browser-Based Viewer for Harmony Conversations and Codex CLI Sessions](https://dev.to/_46ea277e677b888e0cd13/openai-euphony-a-browser-based-viewer-for-harmony-conversations-and-codex-cli-sessions-5gcn) (2026-04-22)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Stop Designing HTTP API And Call It REST — Here’s How Seniors Design RESTful APIs](https://blog.stackademic.com/stop-designing-http-api-and-call-it-rest-heres-how-seniors-design-restful-apis-6d0107afc53d?source=rss------programming-5) (2026-04-21)
-- [full stack developer course India](https://medium.com/@nimtechnologiez/full-stack-developer-course-india-f7a19067ecc5?source=rss------programming-5) (2026-04-21)
-- [Java Collections Interview Questions for Freshers (2026 Complete Guide)](https://medium.com/@sparsh187/java-collections-interview-questions-for-freshers-2026-complete-guide-965756f2c78f?source=rss------programming-5) (2026-04-21)
-- [A 2-letter string in a Webpack hash was sending 7% of our images to 403](https://medium.com/@vivekjdwork/a-2-letter-string-in-a-webpack-hash-was-sending-7-of-our-images-to-403-bcfd29bad0e0?source=rss------programming-5) (2026-04-21)
-- [I Applied Without Thinking — Then Stanford Replied.](https://medium.com/@manishtula7777/i-applied-without-thinking-then-stanford-replied-e518d6e14207?source=rss------programming-5) (2026-04-21)
+- [35 Claude Code Commands, Tricks, and Workflows That Actually Matter](https://medium.com/@okyerevansjohn/35-claude-code-commands-tricks-and-workflows-that-actually-matter-e52c5f377e46?source=rss------programming-5) (2026-04-22)
+- [ Developer Question: Is there a modern replacement for JSONPlaceholder?](https://medium.com/@dnjosh10/developer-question-is-there-a-modern-replacement-for-jsonplaceholder-1ad97819c451?source=rss------programming-5) (2026-04-22)
+- [The Secret Life of Claude Code: Testing as Thinking](https://medium.com/@aaron.rose.tx/the-secret-life-of-claude-code-testing-as-thinking-68991aebf131?source=rss------programming-5) (2026-04-22)
+- [How Cursor Knows Your Codebase](https://medium.com/@glenn.dcosta/how-cursor-knows-your-codebase-eb61a4ef41fc?source=rss------programming-5) (2026-04-22)
+- [Quantum Computing & AI: The Next Tech Revolution](https://medium.com/@amit.rajawat12/quantum-computing-ai-the-next-tech-revolution-8c7a0dc9a48e?source=rss------programming-5) (2026-04-22)
 
 </details>
 
@@ -328,11 +328,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [GitLab + Amazon: Platform orchestration on a trusted AI foundation](https://about.gitlab.com/blog/gitlab-amazon-platform-orchestration-on-a-trusted-ai-foundation/) (2026-04-21)
 - [What’s new in Git 2.54.0?](https://about.gitlab.com/blog/whats-new-in-git-2-54-0/) (2026-04-20)
 - [Prepare your pipeline for AI-discovered zero-days](https://about.gitlab.com/blog/prepare-your-pipeline-for-ai-discovered-zero-days/) (2026-04-20)
 - [GitHub Copilot's new policy for AI training is a governance wake-up call](https://about.gitlab.com/blog/github-copilots-new-policy-for-ai-training-is-a-governance-wake-up-call/) (2026-04-20)
 - [GitLab 18.11: Budget guardrails for GitLab Credits](https://about.gitlab.com/blog/gitlab-18-11-budget-guardrails-for-gitlab-credits/) (2026-04-16)
-- [Claude Opus 4.7 is now available in GitLab Duo Agent Platform](https://about.gitlab.com/blog/claude-opus-4-7-is-now-available-in-gitlab-duo-agent-platform/) (2026-04-16)
 
 </details>
 
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/events/five-reasons-attend-signal-san-francisc
 <details>
 <summary>💬 Slack API</summary>
 
+- [CRM Benefits: 10 Ways CRM Improves Team Performance](https://slack.com/blog/crm/crm-benefits) (2026-04-20)
+- [CRM Strategy: How to Build One That Works](https://slack.com/blog/crm/crm-strategy) (2026-04-20)
 - [Slack is where your team works. Now it’s where your agents work too.](https://slack.com/blog/news/slack-is-where-agents-work) (2026-04-15)
 - [Instant Messaging: Transforming How We Talk at Work](https://slack.com/blog/collaboration/instant-messaging-transforming-how-we-talk-at-work) (2026-04-14)
 - [Conversational CRM: What It Is and Why It Matters](https://slack.com/blog/crm/conversational-crm) (2026-04-14)
-- [Real-World CRM Examples Across Sales, Service, and Marketing](https://slack.com/blog/crm/crm-examples) (2026-04-14)
-- [What is a Project Cycle, and How Do You Manage Its Stages?](https://slack.com/blog/productivity/project-cycle-management-guide) (2026-04-13)
 
 </details>
 
