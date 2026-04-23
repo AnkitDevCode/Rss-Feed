@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [From the stage to the future: Where are Startup Battlefield’s alumni now?](https://techcrunch.com/2026/04/22/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now/) (2026-04-22)
-- [Google Cloud launches two new AI chips to compete with Nvidia](https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/) (2026-04-22)
-- [Google turns Chrome into an AI co-worker for the workplace](https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/) (2026-04-22)
-- [Threads is adding Live Chats to boost real-time engagement](https://techcrunch.com/2026/04/22/threads-is-adding-live-chats-to-boost-real-time-engagement/) (2026-04-22)
-- [Google makes an interesting choice with its new agent-building tool for enterprises](https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/) (2026-04-22)
+- [Tesla just increased its spending plan to $25B — here’s where the money is going](https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/) (2026-04-22)
+- [Google updates Workspace to make AI your new office intern](https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/) (2026-04-22)
+- [Elon Musk admits millions of Tesla owners need upgrades for true ‘Full Self-Driving’](https://techcrunch.com/2026/04/22/elon-musk-admits-millions-of-tesla-owners-need-upgrades-for-true-full-self-driving/) (2026-04-22)
+- [Hands on with X’s new AI-powered custom feeds](https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/) (2026-04-22)
+- [LinkedIn’s CEO is moving on; please hold your tearful video tributes](https://techcrunch.com/2026/04/22/linkedins-ceo-is-moving-on-please-hold-your-tearful-video-tributes/) (2026-04-22)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [OpenAI: Workspace Agents for Business](https://openai.com/business/workspace-agents/) (2026-04-22)
-- [Coding Models Are Doing Too Much](https://nrehiew.github.io/blog/minimal_editing/) (2026-04-22)
-- [Workspace Agents in ChatGPT](https://openai.com/index/introducing-workspace-agents-in-chatgpt/) (2026-04-22)
-- [Parallel Agents in Zed](https://zed.dev/blog/parallel-agents) (2026-04-22)
-- [We found a stable Firefox identifier linking all your private Tor identities](https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/) (2026-04-22)
+- [Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game](https://tempest.homemade.systems) (2026-04-23)
+- [OpenAI's response to the Axios developer tool compromise](https://openai.com/index/axios-developer-tool-compromise/) (2026-04-23)
+- [Approximating Hyperbolic Tangent](https://jtomschroeder.com/blog/approximating-tanh/) (2026-04-22)
+- [Bring your own Agent to MS Teams](https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/) (2026-04-22)
+- [The Neon King of New Orleans](https://gardenandgun.com/new-orleans-neon-king) (2026-04-22)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Ember’s self-heating smart mug is more than $50 off ahead of Mother’s Day](https://www.theverge.com/gadgets/916818/ember-smart-mug-2-mothers-day-sale-2026-deal) (2026-04-22)
-- [Watch Sony’s elite ping-pong robot beat top-ranked players](https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras) (2026-04-22)
-- [Anthropic&#8217;s Mythos rollout has missed America’s cybersecurity agency](https://www.theverge.com/policy/916758/anthropic-mythos-preview-cisa-left-out) (2026-04-22)
-- [Microsoft teases mysterious Discord and Xbox Game Pass partnership](https://www.theverge.com/news/916787/microsoft-discord-xbox-game-pass-partnership) (2026-04-22)
-- [Google Meet will take AI notes for in-person meetings too](https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings) (2026-04-22)
+- [The Iranian women Trump &#8216;saved&#8217; from execution are simultaneously real and AI-manipulated](https://www.theverge.com/policy/917180/trump-iran-ai-women-bita-hemmati) (2026-04-23)
+- [Elon Musk admits that millions of Tesla vehicles won&#8217;t get unsupervised FSD](https://www.theverge.com/transportation/917167/elon-musk-tesla-hw3-fsd) (2026-04-22)
+- [X is going to let Grok curate your timeline](https://www.theverge.com/tech/917113/x-ai-grok-timeline-curation) (2026-04-22)
+- [Tesla&#8217;s revenue rises again as it prepares for more AI and robotics](https://www.theverge.com/transportation/915217/tesla-q1-2026-earnings-profit-revenue) (2026-04-22)
+- [AI failure could trigger the next financial crisis, warns Elizabeth Warren](https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren) (2026-04-22)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Google unveils two new TPUs designed for the "agentic era"](https://arstechnica.com/ai/2026/04/google-unveils-two-new-tpus-designed-for-the-agentic-era/) (2026-04-22)
-- [Tabloid reports linking 10 missing and dead scientists spur FBI probe](https://arstechnica.com/tech-policy/2026/04/tabloid-reports-linking-10-missing-and-dead-scientists-spur-fbi-probe/) (2026-04-22)
-- [Physicists think they've solved the muon mystery](https://arstechnica.com/science/2026/04/physicists-think-theyve-solved-the-muon-mystery/) (2026-04-22)
-- [New court ruling blocks many of the government's anti-renewable policies](https://arstechnica.com/tech-policy/2026/04/new-court-ruling-blocks-many-of-the-governments-anti-renewable-policies/) (2026-04-22)
-- [Indian med student rakes in thousands with AI-generated MAGA hottie](https://arstechnica.com/tech-policy/2026/04/indian-med-student-rakes-in-thousands-with-ai-generated-maga-hottie/) (2026-04-22)
+- [Crypto scam lures ships into Strait of Hormuz, falsely promising safe passage](https://arstechnica.com/security/2026/04/crypto-scam-lures-ships-into-strait-of-hormuz-falsely-promising-safe-passage/) (2026-04-22)
+- [Tesla reports Q1 2026 earnings: Still profitable](https://arstechnica.com/cars/2026/04/tesla-reports-q1-2026-earnings-still-profitable/) (2026-04-22)
+- [Our newsroom AI policy](https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/) (2026-04-22)
+- [Lawsuit: Nintendo is getting tariff refunds—its customers should get them instead](https://arstechnica.com/tech-policy/2026/04/lawsuit-nintendo-is-getting-tariff-refunds-its-customers-should-get-them-instead/) (2026-04-22)
+- [RFK Jr. won't back CDC director on vaccines as agency scraps positive data](https://arstechnica.com/health/2026/04/rfk-jr-doubles-down-on-vaccine-meddling-as-cdc-junks-scientific-study/) (2026-04-22)
 
 </details>
 
@@ -97,11 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [The Death of the Walled Garden: Why I’m Building a Sovereign AI Engine for Exponential Education](https://dev.to/avatar-alchemy/the-death-of-the-walled-garden-why-im-building-a-sovereign-ai-engine-for-exponential-education-bho) (2026-04-22)
-- [I Stopped Installing Qiskit to Understand Hadamard Gates](https://dev.to/aralroca/i-stopped-installing-qiskit-to-understand-hadamard-gates-1m8n) (2026-04-22)
-- [I lost all my Prompter scripts on a Friday. By Sunday, I'd built PrompterKit.](https://dev.to/snapsynapse/i-lost-all-my-prompter-scripts-on-a-friday-by-sunday-id-built-prompterkit-g5o) (2026-04-22)
-- [ETL vs ELT: Which One Should You Use and Why](https://dev.to/kuria_dd8316139db3dea9c85/etl-vs-elt-which-one-should-you-use-and-why-38i7) (2026-04-22)
-- [Top 10 Slurm Mistakes That Kill Cluster Performance](https://dev.to/zubairakbar/top-10-slurm-mistakes-that-kill-cluster-performance-1984) (2026-04-22)
+- [ASCII to Diagram: Turn AI Text Diagrams Into Shareable Visuals](https://dev.to/erajasekar/ascii-to-diagram-turn-ai-text-diagrams-into-shareable-visuals-k7i) (2026-04-23)
+- [Unlimited PTO Doesn't Fix Burnout — Here's What Actually Does](https://dev.to/recharge/unlimited-pto-doesnt-fix-burnout-heres-what-actually-does-3f24) (2026-04-23)
+- [Solving the Gemini API Challenge Lab on Vertex AI: Text, Function Calling & Video Understanding](https://dev.to/willtorber/solving-the-gemini-api-challenge-lab-on-vertex-ai-text-function-calling-video-understanding-6pn) (2026-04-23)
+- [How to model Lambda cold-start behaviour under spike traffic before you deploy](https://dev.to/abhishek_gupta_pinpo/how-to-model-lambda-cold-start-behaviour-under-spike-traffic-before-you-deploy-1g9c) (2026-04-23)
+- [Open Brane Annotated: 8 Columns, 80-Line Write Path, One SQLite File](https://dev.to/connor_gallic/open-brane-annotated-8-columns-80-line-write-path-one-sqlite-file-43n3) (2026-04-23)
+
+</details>
+
+<details>
+<summary>✍️ Medium - Programming</summary>
+
+- [Flow of Control in Java](https://medium.com/@rishil9470/flow-of-control-in-java-45f3d7f86e10?source=rss------programming-5) (2026-04-23)
+- [C++23 if consteval: Detecting Compile-Time vs Runtime Context](https://medium.com/@sagar.necindia/cpp23-if-consteval-compile-time-vs-runtime-context-b1aad8cec3d1?source=rss------programming-5) (2026-04-23)
+- [The Growing Dependence on AI Tools — And Why It’s Risky](https://ai.plainenglish.io/the-growing-dependence-on-ai-tools-and-why-its-risky-6df744cf254e?source=rss------programming-5) (2026-04-23)
+- [The Future of Learning is Here: Meet NotesNova AI](https://medium.com/@akkujain017/the-future-of-learning-is-here-meet-notesnova-ai-66e9b0efe224?source=rss------programming-5) (2026-04-23)
+- [Flutter Accessibility Deep Dive: Semantics, Screen Readers & WCAG Compliance](https://medium.com/@alaxhenry0121/flutter-accessibility-deep-dive-semantics-screen-readers-wcag-compliance-305883055a0d?source=rss------programming-5) (2026-04-23)
 
 </details>
 
@@ -119,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft Discovery: Advancing agentic R&D at scale](https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/) (2026-04-22)
+- [Introducing Azure Accelerate for Databases: Modernize your data for AI with experts and investments](https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/) (2026-04-22)
 - [Cloud Cost Optimization: Principles that still matter](https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/) (2026-04-15)
 - [Optimize object storage costs automatically with smart tier—now generally available](https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/) (2026-04-14)
 - [Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/) (2026-04-09)
-- [How Drasi used GitHub Copilot to find documentation bugs](https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/) (2026-04-09)
-- [Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value](https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/) (2026-04-08)
 
 </details>
 
@@ -152,11 +163,11 @@
 <details>
 <summary>🤖 Android Developers Blog</summary>
 
+- [What's new in the Jetpack Compose April '26 release](https://android-developers.googleblog.com/2026/04/jetpack-compose-april-2026-updates.html) (2026-04-22)
+- [ Streamline User Journeys with Verified Email via Credential Manager](https://android-developers.googleblog.com/2026/04/streamline-auth-credential-manager-verified-email.html) (2026-04-22)
 - [Level up your development with Planning Mode and Next Edit Prediction in Android Studio Panda 4 ](https://android-developers.googleblog.com/2026/04/android-studio-panda-4-planning-mode-next-edit-prediction.html) (2026-04-21)
 - [Experimental hybrid inference and new Gemini models for Android](https://android-developers.googleblog.com/2026/04/Hybrid-inference-and-new-AI-models-are-coming-to-Android.html) (2026-04-17)
 - [The Fourth Beta of Android 17](https://android-developers.googleblog.com/2026/04/the-fourth-beta-of-android-17.html) (2026-04-16)
-- [Android CLI and skills: Build Android apps 3x faster using any agent](https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html) (2026-04-16)
-- [Boosting user privacy and business protection with updated Play policies](https://android-developers.googleblog.com/2026/04/giving-users-clearer-choice-and-everyone-a-safer-more-trusted-app-ecosystem.html) (2026-04-15)
 
 </details>
 
@@ -207,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [SELinux Volume Label Changes goes GA (and likely implications in v1.37)](https://kubernetes.io/blog/2026/04/22/breaking-changes-in-selinux-volume-labeling/) (2026-04-22)
 - [Kubernetes v1.36: ハル (Haru)](https://kubernetes.io/blog/2026/04/22/kubernetes-v1-36-release/) (2026-04-22)
 - [Gateway API v1.5: Moving features to Stable](https://kubernetes.io/blog/2026/04/21/gateway-api-v1-5/) (2026-04-21)
 - [Kubernetes v1.36 Sneak Peek](https://kubernetes.io/blog/2026/03/30/kubernetes-v1-36-sneak-peek/) (2026-03-30)
 - [Announcing Ingress2Gateway 1.0: Your Path to Gateway API](https://kubernetes.io/blog/2026/03/20/ingress2gateway-1-0-release/) (2026-03-20)
-- [Running Agents on Kubernetes with Agent Sandbox](https://kubernetes.io/blog/2026/03/20/running-agents-on-kubernetes-with-agent-sandbox/) (2026-03-20)
 
 </details>
 
@@ -229,11 +240,11 @@
 <details>
 <summary>🎵 Spotify Engineering</summary>
 
+- [Background Coding Agents: Supercharging Downstream Consumer Dataset Migrations (Honk, Part 4)](https://engineering.atspotify.com/2026/4/background-coding-agents-dataset-migrations-honk-part-4/) (2026-04-22)
 - [Let’s Talk Agentic Development: Spotify x Anthropic Live](https://engineering.atspotify.com/2026/4/anthropic-agentic-development/) (2026-04-06)
 - [Inside the Archive: The Tech Behind Your 2025 Wrapped Highlights](https://engineering.atspotify.com/2026/3/inside-the-archive-2025-wrapped/) (2026-03-12)
 - [Our Multi-Agent Architecture for Smarter Advertising](https://engineering.atspotify.com/2026/2/our-multi-agent-architecture-for-smarter-advertising/) (2026-02-19)
 - [How We Release the Spotify App: A Look Under the Hood (Part 2)](https://engineering.atspotify.com/2026/2/how-we-release-the-spotify-app-part-2/) (2026-02-09)
-- [Congratulations to the recipients of the 2025 Spotify FOSS Fund](https://engineering.atspotify.com/2026/1/congratulations-to-the-recipients-of-the-2025-spotify-foss-fund/) (2026-01-22)
 
 </details>
 
@@ -318,10 +329,10 @@
 <summary>🦊 GitLab Blog</summary>
 
 - [GitLab AI Hackathon 2026: Meet the winners](https://about.gitlab.com/blog/gitlab-ai-hackathon-2026-meet-the-winners/) (2026-04-22)
+- [GitLab Patch Release: 18.11.1, 18.10.4, 18.9.6](https://docs.gitlab.com/releases/patches/patch-release-gitlab-18-11-1-released/) (2026-04-22)
 - [GitLab + Amazon: Platform orchestration on a trusted AI foundation](https://about.gitlab.com/blog/gitlab-amazon-platform-orchestration-on-a-trusted-ai-foundation/) (2026-04-21)
 - [What’s new in Git 2.54.0?](https://about.gitlab.com/blog/whats-new-in-git-2-54-0/) (2026-04-20)
 - [Prepare your pipeline for AI-discovered zero-days](https://about.gitlab.com/blog/prepare-your-pipeline-for-ai-discovered-zero-days/) (2026-04-20)
-- [GitHub Copilot's new policy for AI training is a governance wake-up call](https://about.gitlab.com/blog/github-copilots-new-policy-for-ai-training-is-a-governance-wake-up-call/) (2026-04-20)
 
 </details>
 
@@ -531,17 +542,6 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/integrate-google-
 - [AI and the Future of Cybersecurity: Why Openness Matters](https://huggingface.co/blog/cybersecurity-openness) (2026-04-21)
 - [Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents](https://huggingface.co/blog/ecom-rlve) (2026-04-16)
 - [The PR you would have opened yourself](https://huggingface.co/blog/transformers-to-mlx) (2026-04-16)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Reversing enterprise security costs with AI vulnerability discovery](https://www.artificialintelligence-news.com/news/reversing-enterprise-security-costs-with-ai-vulnerability-discovery/) (2026-04-22)
-- [AI in law firms entering its closing summaries](https://www.artificialintelligence-news.com/news/ai-in-law-firms-entering-its-closing-summaries/) (2026-04-22)
-- [The role of AI in modern forex bot development](https://www.artificialintelligence-news.com/news/the-role-of-ai-in-modern-forex-bot-development/) (2026-04-22)
-- [Snowflake expands its technical and mainstream AI platforms](https://www.artificialintelligence-news.com/news/snowflake-expands-its-technical-and-mainstream-ai-platforms/) (2026-04-21)
-- [Siemens introduces AI system for automation engineering](https://www.artificialintelligence-news.com/news/siemens-ai-automation-engineering-workflows/) (2026-04-21)
 
 </details>
 
