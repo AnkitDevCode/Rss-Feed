@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [India’s app market is booming — but global platforms are capturing most of the gains](https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/) (2026-04-23)
+- [Shade lands $14M to let creative teams search their video libraries in plain English](https://techcrunch.com/2026/04/22/shade-lands-14m-to-let-creative-teams-search-their-video-libraries-in-plain-english/) (2026-04-23)
 - [Tesla just increased its spending plan to $25B — here’s where the money is going](https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/) (2026-04-22)
 - [Google updates Workspace to make AI your new office intern](https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/) (2026-04-22)
 - [Elon Musk admits millions of Tesla owners need upgrades for true ‘Full Self-Driving’](https://techcrunch.com/2026/04/22/elon-musk-admits-millions-of-tesla-owners-need-upgrades-for-true-full-self-driving/) (2026-04-22)
-- [Hands on with X’s new AI-powered custom feeds](https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/) (2026-04-22)
-- [LinkedIn’s CEO is moving on; please hold your tearful video tributes](https://techcrunch.com/2026/04/22/linkedins-ceo-is-moving-on-please-hold-your-tearful-video-tributes/) (2026-04-22)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Ars Technica: Our newsroom AI policy](https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/) (2026-04-23)
+- [I am building a cloud](https://crawshaw.io/blog/building-a-cloud) (2026-04-23)
+- [Borrow-checking without type-checking](https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/) (2026-04-23)
+- [Flow Map Learning via Nongradient Vector Flow [pdf]](https://openreview.net/pdf?id=C1bkDPqvDW) (2026-04-23)
 - [Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game](https://tempest.homemade.systems) (2026-04-23)
-- [OpenAI's response to the Axios developer tool compromise](https://openai.com/index/axios-developer-tool-compromise/) (2026-04-23)
-- [Approximating Hyperbolic Tangent](https://jtomschroeder.com/blog/approximating-tanh/) (2026-04-22)
-- [Bring your own Agent to MS Teams](https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/) (2026-04-22)
-- [The Neon King of New Orleans](https://gardenandgun.com/new-orleans-neon-king) (2026-04-22)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [ASCII to Diagram: Turn AI Text Diagrams Into Shareable Visuals](https://dev.to/erajasekar/ascii-to-diagram-turn-ai-text-diagrams-into-shareable-visuals-k7i) (2026-04-23)
-- [Unlimited PTO Doesn't Fix Burnout — Here's What Actually Does](https://dev.to/recharge/unlimited-pto-doesnt-fix-burnout-heres-what-actually-does-3f24) (2026-04-23)
-- [Solving the Gemini API Challenge Lab on Vertex AI: Text, Function Calling & Video Understanding](https://dev.to/willtorber/solving-the-gemini-api-challenge-lab-on-vertex-ai-text-function-calling-video-understanding-6pn) (2026-04-23)
-- [How to model Lambda cold-start behaviour under spike traffic before you deploy](https://dev.to/abhishek_gupta_pinpo/how-to-model-lambda-cold-start-behaviour-under-spike-traffic-before-you-deploy-1g9c) (2026-04-23)
-- [Open Brane Annotated: 8 Columns, 80-Line Write Path, One SQLite File](https://dev.to/connor_gallic/open-brane-annotated-8-columns-80-line-write-path-one-sqlite-file-43n3) (2026-04-23)
+- [AWS EC2 vs Lambda | Pros and Cons?](https://dev.to/ankushbehera/aws-ec2-vs-lambda-pros-and-cons-32k1) (2026-04-23)
+- [AI Dev Weekly #7: Claude Code Loses Pro Plan, GitHub Copilot Freezes Signups, and Two Chinese Models Drop in 48 Hours](https://dev.to/ai_made_tools/ai-dev-weekly-7-claude-code-loses-pro-plan-github-copilot-freezes-signups-and-two-chinese-1c86) (2026-04-23)
+- [我实际跑了一次 TestSprite：它能给出有用反馈，但中文本地化还有明显空缺](https://dev.to/bytewatcher/wo-shi-ji-pao-liao-ci-testspriteta-neng-gei-chu-you-yong-fan-kui-dan-zhong-wen-ben-di-hua-huan-you-ming-xian-kong-que-221i) (2026-04-23)
+- [📦 Service Workers in PWAs: How to Cache Content and Supercharge Web App Performance](https://dev.to/okoye_ndidiamaka_5e3b7d30/service-workers-in-pwas-how-to-cache-content-and-supercharge-web-app-performance-2iak) (2026-04-23)
+- [JSON Formatter Pro vs REST Client: Which Is Better in 2026?](https://dev.to/alphashark/json-formatter-pro-vs-rest-client-which-is-better-in-2026-4oo3) (2026-04-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Flow of Control in Java](https://medium.com/@rishil9470/flow-of-control-in-java-45f3d7f86e10?source=rss------programming-5) (2026-04-23)
-- [C++23 if consteval: Detecting Compile-Time vs Runtime Context](https://medium.com/@sagar.necindia/cpp23-if-consteval-compile-time-vs-runtime-context-b1aad8cec3d1?source=rss------programming-5) (2026-04-23)
-- [The Growing Dependence on AI Tools — And Why It’s Risky](https://ai.plainenglish.io/the-growing-dependence-on-ai-tools-and-why-its-risky-6df744cf254e?source=rss------programming-5) (2026-04-23)
-- [The Future of Learning is Here: Meet NotesNova AI](https://medium.com/@akkujain017/the-future-of-learning-is-here-meet-notesnova-ai-66e9b0efe224?source=rss------programming-5) (2026-04-23)
-- [Flutter Accessibility Deep Dive: Semantics, Screen Readers & WCAG Compliance](https://medium.com/@alaxhenry0121/flutter-accessibility-deep-dive-semantics-screen-readers-wcag-compliance-305883055a0d?source=rss------programming-5) (2026-04-23)
+- [Best Fullstack Python Training in Hyderabad](https://medium.com/@molletibalu/best-fullstack-python-training-in-hyderabad-cbc58da2e4f3?source=rss------programming-5) (2026-04-23)
+- [Nobody Tells You How Brutal the Fresher Dev Job Hunt in India Actually Is](https://medium.com/@ayushkankale04/nobody-tells-you-how-brutal-the-fresher-dev-job-hunt-in-india-actually-is-727c308e020e?source=rss------programming-5) (2026-04-23)
+- [Tutorials Teach You How to Code. Production Teaches You How to Survive.](https://medium.com/@rajanarahul93/tutorials-teach-you-how-to-code-production-teaches-you-how-to-survive-8b1c88e9cb90?source=rss------programming-5) (2026-04-23)
+- [Building My Own Backend for a KMP App: WebSockets, Coroutines, and Deploying Kotlin Spring on…](https://medium.com/@kanybekov668/building-my-own-backend-for-a-kmp-app-websockets-coroutines-and-deploying-kotlin-spring-on-5766d19e8f5e?source=rss------programming-5) (2026-04-23)
+- [How I started Coding at the age of 15](https://medium.com/@Vishal-Prajapati17/how-i-started-coding-at-the-age-of-15-e813fb34b307?source=rss------programming-5) (2026-04-23)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Microsoft Discovery: Advancing agentic R&D at scale](https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/) (2026-04-22)
 - [Introducing Azure Accelerate for Databases: Modernize your data for AI with experts and investments](https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/) (2026-04-22)
 - [Cloud Cost Optimization: Principles that still matter](https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/) (2026-04-15)
 - [Optimize object storage costs automatically with smart tier—now generally available](https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/) (2026-04-14)
 - [Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/) (2026-04-09)
+- [How Drasi used GitHub Copilot to find documentation bugs](https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/) (2026-04-09)
 
 </details>
 
@@ -367,6 +367,11 @@ Avoid Sending SMS to Landlines in Rust with Twilio's Lookup v2 API
 https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-landlines-lookup-v2-api-rust
 ) (2026-04-22)
 - [
+The Art of Teaching Algorithms to Listen: What’s New in Conversation Relay
+](
+https://www.twilio.com/en-us/blog/products/launches/the-evolution-of-conversation-relay
+) (2026-04-22)
+- [
 Getting The Most for Your Money Using Automated SMS
 ](
 https://www.twilio.com/en-us/blog/developers/best-practices/getting-most-money-using-automated-sms
@@ -380,11 +385,6 @@ https://www.twilio.com/en-us/blog/insights/post-purchase-emails
 Reverse ETL vs. The Private Cloud: A Conceptual Survival Guide
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/integrations/reverse-etl-vs-the-private-cloud-survival-guide
-) (2026-04-20)
-- [
-Integrate Google Gemini with Twilio Voice Using ConversationRelay and Python
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/product/integrate-google-gemini-twilio-voice-conversationrelay
 ) (2026-04-20)
 
 </details>
@@ -542,6 +542,17 @@ https://www.twilio.com/en-us/blog/developers/tutorials/product/integrate-google-
 - [AI and the Future of Cybersecurity: Why Openness Matters](https://huggingface.co/blog/cybersecurity-openness) (2026-04-21)
 - [Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents](https://huggingface.co/blog/ecom-rlve) (2026-04-16)
 - [The PR you would have opened yourself](https://huggingface.co/blog/transformers-to-mlx) (2026-04-16)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Reversing enterprise security costs with AI vulnerability discovery](https://www.artificialintelligence-news.com/news/reversing-enterprise-security-costs-with-ai-vulnerability-discovery/) (2026-04-22)
+- [AI in law firms entering its closing summaries](https://www.artificialintelligence-news.com/news/ai-in-law-firms-entering-its-closing-summaries/) (2026-04-22)
+- [The role of AI in modern forex bot development](https://www.artificialintelligence-news.com/news/the-role-of-ai-in-modern-forex-bot-development/) (2026-04-22)
+- [Snowflake expands its technical and mainstream AI platforms](https://www.artificialintelligence-news.com/news/snowflake-expands-its-technical-and-mainstream-ai-platforms/) (2026-04-21)
+- [Siemens introduces AI system for automation engineering](https://www.artificialintelligence-news.com/news/siemens-ai-automation-engineering-workflows/) (2026-04-21)
 
 </details>
 
