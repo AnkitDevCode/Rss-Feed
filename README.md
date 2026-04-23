@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [AI galaxy hunters are adding to the global GPU crunch](https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/) (2026-04-23)
+- [Surveillance vendors caught abusing access to telcos to track people’s phone locations, researchers say](https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/) (2026-04-23)
+- [Beehiiv rolls out new creator tools, including webinars and customizable paywalls](https://techcrunch.com/2026/04/23/beehiiv-rolls-out-new-creator-tools-including-webinars-and-customizable-paywalls/) (2026-04-23)
+- [Meta will now allow parents to see the topics their child discussed with Meta AI](https://techcrunch.com/2026/04/23/meta-will-now-allow-parents-to-see-the-topics-their-child-discussed-with-meta-ai/) (2026-04-23)
 - [India’s app market is booming — but global platforms are capturing most of the gains](https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/) (2026-04-23)
-- [Shade lands $14M to let creative teams search their video libraries in plain English](https://techcrunch.com/2026/04/22/shade-lands-14m-to-let-creative-teams-search-their-video-libraries-in-plain-english/) (2026-04-23)
-- [Tesla just increased its spending plan to $25B — here’s where the money is going](https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/) (2026-04-22)
-- [Google updates Workspace to make AI your new office intern](https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/) (2026-04-22)
-- [Elon Musk admits millions of Tesla owners need upgrades for true ‘Full Self-Driving’](https://techcrunch.com/2026/04/22/elon-musk-admits-millions-of-tesla-owners-need-upgrades-for-true-full-self-driving/) (2026-04-22)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Ars Technica: Our newsroom AI policy](https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/) (2026-04-23)
-- [I am building a cloud](https://crawshaw.io/blog/building-a-cloud) (2026-04-23)
-- [Borrow-checking without type-checking](https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/) (2026-04-23)
-- [Flow Map Learning via Nongradient Vector Flow [pdf]](https://openreview.net/pdf?id=C1bkDPqvDW) (2026-04-23)
-- [Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game](https://tempest.homemade.systems) (2026-04-23)
+- [Surveillance vendors caught abusing access to telcos to track people's locations](https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/) (2026-04-23)
+- [Jiga (YC W21) Is Hiring](https://jiga.io/about-us/) (2026-04-23)
+- [Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite](https://github.com/russellromney/honker) (2026-04-23)
+- [Sneaky spam in conversational replies to blog posts](https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/) (2026-04-23)
+- [Show HN: Built a daily game where you sort historical events chronologically](https://hisorty.app/) (2026-04-23)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Tim Cook’s departure is the start of a new era at Apple](https://www.theverge.com/tech/916585/tim-cook-apple-new-era) (2026-04-23)
+- [Govee’s new colorful outdoor lights are its first with solar power](https://www.theverge.com/tech/916707/govee-outdoor-solar-string-lights-battery-rechargeable-pricing-availability) (2026-04-23)
+- [Microsoft launches ‘vibe working’ in Word, Excel, and PowerPoint](https://www.theverge.com/news/917328/microsoft-agent-mode-vibe-working-office-word-excel-powerpoint) (2026-04-23)
+- [Honor’s new phones look like iPhones for Android](https://www.theverge.com/gadgets/917301/honors-new-phones-look-like-iphones-for-android) (2026-04-23)
 - [The Iranian women Trump &#8216;saved&#8217; from execution are simultaneously real and AI-manipulated](https://www.theverge.com/policy/917180/trump-iran-ai-women-bita-hemmati) (2026-04-23)
-- [Elon Musk admits that millions of Tesla vehicles won&#8217;t get unsupervised FSD](https://www.theverge.com/transportation/917167/elon-musk-tesla-hw3-fsd) (2026-04-22)
-- [X is going to let Grok curate your timeline](https://www.theverge.com/tech/917113/x-ai-grok-timeline-curation) (2026-04-22)
-- [Tesla&#8217;s revenue rises again as it prepares for more AI and robotics](https://www.theverge.com/transportation/915217/tesla-q1-2026-earnings-profit-revenue) (2026-04-22)
-- [AI failure could trigger the next financial crisis, warns Elizabeth Warren](https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren) (2026-04-22)
 
 </details>
 
@@ -64,11 +64,11 @@
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: introducing the Nature issue](https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/) (2026-04-23)
+- [Will fusion power get cheap? Don’t count on it.](https://www.technologyreview.com/2026/04/23/1136329/fusion-power-cost/) (2026-04-23)
 - [The Download: introducing the 10 Things That Matter in AI Right Now](https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/) (2026-04-22)
 - [AI needs a strong data fabric to deliver business value](https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/) (2026-04-22)
 - [3 things Michelle Kim is into right now](https://www.technologyreview.com/2026/04/22/1135423/3-things-michelle-kim/) (2026-04-22)
-- [One town’s scheme to get rid of its geese](https://www.technologyreview.com/2026/04/22/1135430/california-town-scheme-get-rid-geese/) (2026-04-22)
-- [There is no nature anymore](https://www.technologyreview.com/2026/04/22/1135440/editors-letter-may-2026/) (2026-04-22)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [AWS EC2 vs Lambda | Pros and Cons?](https://dev.to/ankushbehera/aws-ec2-vs-lambda-pros-and-cons-32k1) (2026-04-23)
-- [AI Dev Weekly #7: Claude Code Loses Pro Plan, GitHub Copilot Freezes Signups, and Two Chinese Models Drop in 48 Hours](https://dev.to/ai_made_tools/ai-dev-weekly-7-claude-code-loses-pro-plan-github-copilot-freezes-signups-and-two-chinese-1c86) (2026-04-23)
-- [我实际跑了一次 TestSprite：它能给出有用反馈，但中文本地化还有明显空缺](https://dev.to/bytewatcher/wo-shi-ji-pao-liao-ci-testspriteta-neng-gei-chu-you-yong-fan-kui-dan-zhong-wen-ben-di-hua-huan-you-ming-xian-kong-que-221i) (2026-04-23)
-- [📦 Service Workers in PWAs: How to Cache Content and Supercharge Web App Performance](https://dev.to/okoye_ndidiamaka_5e3b7d30/service-workers-in-pwas-how-to-cache-content-and-supercharge-web-app-performance-2iak) (2026-04-23)
-- [JSON Formatter Pro vs REST Client: Which Is Better in 2026?](https://dev.to/alphashark/json-formatter-pro-vs-rest-client-which-is-better-in-2026-4oo3) (2026-04-23)
+- [Matrices: The Grid That Holds Your Entire Dataset](https://dev.to/yakhilesh/matrices-the-grid-that-holds-your-entire-dataset-503) (2026-04-23)
+- [Operating Gateway API in Production: What the Migration Guides Don't Cover](https://dev.to/ntctech/operating-gateway-api-in-production-what-the-migration-guides-dont-cover-2526) (2026-04-23)
+- [Stop getting generic output from Copilot. Teach it your patterns.](https://dev.to/cloudx/stop-getting-generic-output-from-copilot-teach-it-your-patterns-1358) (2026-04-23)
+- [Voice AI in Production: From RunPod to Hosted Kubernetes](https://dev.to/reneza/voice-ai-in-production-from-runpod-to-hosted-kubernetes-7gg) (2026-04-23)
+- [# Como hospedei meu portfólio na AWS com S3, CloudFront e CI/CD do zero](https://dev.to/flvio_paixo_88c4d1183b2/-como-hospedei-meu-portfolio-na-aws-com-s3-cloudfront-e-cicd-do-zero-4i6n) (2026-04-23)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Best Fullstack Python Training in Hyderabad](https://medium.com/@molletibalu/best-fullstack-python-training-in-hyderabad-cbc58da2e4f3?source=rss------programming-5) (2026-04-23)
-- [Nobody Tells You How Brutal the Fresher Dev Job Hunt in India Actually Is](https://medium.com/@ayushkankale04/nobody-tells-you-how-brutal-the-fresher-dev-job-hunt-in-india-actually-is-727c308e020e?source=rss------programming-5) (2026-04-23)
-- [Tutorials Teach You How to Code. Production Teaches You How to Survive.](https://medium.com/@rajanarahul93/tutorials-teach-you-how-to-code-production-teaches-you-how-to-survive-8b1c88e9cb90?source=rss------programming-5) (2026-04-23)
-- [Building My Own Backend for a KMP App: WebSockets, Coroutines, and Deploying Kotlin Spring on…](https://medium.com/@kanybekov668/building-my-own-backend-for-a-kmp-app-websockets-coroutines-and-deploying-kotlin-spring-on-5766d19e8f5e?source=rss------programming-5) (2026-04-23)
-- [How I started Coding at the age of 15](https://medium.com/@Vishal-Prajapati17/how-i-started-coding-at-the-age-of-15-e813fb34b307?source=rss------programming-5) (2026-04-23)
+- [Git Basics: You Don’t Need to Understand Git to Use Git](https://medium.com/@mikram2015/git-basics-you-dont-need-to-understand-git-to-use-git-4e9b499dce5b?source=rss------programming-5) (2026-04-23)
+- [Cloud agent vs local agent vs IDE assistant: What each setup is actually good at](https://blog.stackademic.com/cloud-agent-vs-local-agent-vs-ide-assistant-what-each-setup-is-actually-good-at-8fa09d44a0a4?source=rss------programming-5) (2026-04-23)
+- [TypeScript Isn’t a Choice Anymore. It’s the Default.](https://medium.com/@TusharKanjariya/typescript-isnt-a-choice-anymore-it-s-the-default-b1050209527c?source=rss------programming-5) (2026-04-23)
+- [20 Advanced Python One-Liners Used in Real Projects (Part 2)](https://shwetaprasad150.medium.com/20-advanced-python-one-liners-used-in-real-projects-part-2-6fd8b7559d2c?source=rss------programming-5) (2026-04-23)
+- [Kiro-CLI + MCP: Bridging the Gap Between AI and Your Infrastructure](https://medium.com/@sanjeevkumargirdhar/kiro-cli-mcp-bridging-the-gap-between-ai-and-your-infrastructure-5a07d7b5662f?source=rss------programming-5) (2026-04-23)
 
 </details>
 
@@ -130,22 +130,22 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Introducing Azure Accelerate for Databases: Modernize your data for AI with experts and investments](https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/) (2026-04-22)
-- [Cloud Cost Optimization: Principles that still matter](https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/) (2026-04-15)
 - [Optimize object storage costs automatically with smart tier—now generally available](https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/) (2026-04-14)
 - [Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/) (2026-04-09)
 - [How Drasi used GitHub Copilot to find documentation bugs](https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/) (2026-04-09)
+- [Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value](https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/) (2026-04-08)
+- [Azure IaaS: Keep critical applications running with built-in resiliency at scale](https://azure.microsoft.com/en-us/blog/azure-iaas-keep-critical-applications-running-with-built-in-resiliency-at-scale/) (2026-04-01)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Tag, You’re It: GeForce NOW Levels Up Game Discovery With Xbox Game Pass and Ubisoft+ Labels](https://blogs.nvidia.com/blog/geforce-now-thursday-in-app-labels/) (2026-04-23)
+- [Making Sense of the Early Universe](https://blogs.nvidia.com/blog/ai-gpu-early-universe-astronomy/) (2026-04-23)
 - [From Rainforests to Recycling Plants: 5 Ways NVIDIA AI Is Protecting the Planet](https://blogs.nvidia.com/blog/earth-day-2026-ai-accelerated-computing/) (2026-04-22)
 - [NVIDIA and Google Cloud Collaborate to Advance Agentic and Physical AI](https://blogs.nvidia.com/blog/google-cloud-agentic-physical-ai-factories/) (2026-04-22)
 - [Autonomous AI at Scale: Adobe Agents Unlock Breakthrough Creative Intelligence With NVIDIA and WPP](https://blogs.nvidia.com/blog/adobe-ai-agents-nvidia-wpp/) (2026-04-20)
-- [NVIDIA and Partners Showcase the Future of AI-Driven Manufacturing at Hannover Messe 2026](https://blogs.nvidia.com/blog/ai-manufacturing-hannover-messe/) (2026-04-20)
-- [No Need for Space Gear — Capcom’s ‘PRAGMATA’ Joins GeForce NOW on Launch Day](https://blogs.nvidia.com/blog/geforce-now-thursday-pragmata/) (2026-04-16)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [IntelliJ IDEA 2026.1.1 Is Out!](https://blog.jetbrains.com/idea/2026/04/intellij-idea-2026-1-1/) (2026-04-23)
+- [AI in DevOps: Why Adoption Lags in CI/CD (and What Comes Next)](https://blog.jetbrains.com/teamcity/2026/04/ai-in-devops/) (2026-04-23)
+- [The CLion 2026.2 Roadmap: Simplified Debugger Configuration and the Ability to Use Multiple Zephyr West Profiles](https://blog.jetbrains.com/clion/2026/04/2026-2-roadmap/) (2026-04-23)
 - [Give AI Something Worth Amplifying: Three Priorities for Technical Leaders](https://blog.jetbrains.com/ai/2026/04/give-ai-something-worth-amplifying-three-priorities-for-technical-leaders/) (2026-04-22)
 - [PyCharm for Django Fundraiser: Why Django Matters in the AI Era – And Why We’re Supporting It](https://blog.jetbrains.com/pycharm/2026/04/pycharm-for-django-fundraiser-why-django-matters-in-the-ai-era-and-why-we-re-supporting-it/) (2026-04-22)
-- [Incremental Highlighting for Scala](https://blog.jetbrains.com/scala/2026/04/21/incremental-highlighting/) (2026-04-21)
-- [Kotlin Professional Certificate by JetBrains – Now on LinkedIn Learning](https://blog.jetbrains.com/kotlin/2026/04/kotlin-professional-certificate-by-jetbrains-now-on-linkedin-learning/) (2026-04-21)
-- [Busy Plugin Developers Newsletter – Q1 2026](https://blog.jetbrains.com/platform/2026/04/busy-plugin-developers-newsletter-q1-2026/) (2026-04-20)
 
 </details>
 
@@ -546,46 +546,35 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/reverse-etl-
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [Reversing enterprise security costs with AI vulnerability discovery](https://www.artificialintelligence-news.com/news/reversing-enterprise-security-costs-with-ai-vulnerability-discovery/) (2026-04-22)
-- [AI in law firms entering its closing summaries](https://www.artificialintelligence-news.com/news/ai-in-law-firms-entering-its-closing-summaries/) (2026-04-22)
-- [The role of AI in modern forex bot development](https://www.artificialintelligence-news.com/news/the-role-of-ai-in-modern-forex-bot-development/) (2026-04-22)
-- [Snowflake expands its technical and mainstream AI platforms](https://www.artificialintelligence-news.com/news/snowflake-expands-its-technical-and-mainstream-ai-platforms/) (2026-04-21)
-- [Siemens introduces AI system for automation engineering](https://www.artificialintelligence-news.com/news/siemens-ai-automation-engineering-workflows/) (2026-04-21)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
+- [Lasso Regression: Why the Solution Lives on a Diamond](https://towardsdatascience.com/lasso-regression-why-the-solution-lives-on-a-diamond/) (2026-04-23)
 - [Using Causal Inference to Estimate the Impact of Tube Strikes on Cycling Usage in London](https://towardsdatascience.com/using-causal-inference-to-estimate-the-impact-of-tube-strikes-on-cycling-usage-in-london/) (2026-04-22)
 - [Correlation vs. Causation: Measuring True Impact with Propensity Score Matching](https://towardsdatascience.com/correlation-vs-causation-measuring-true-impact-with-propensity-score-matching/) (2026-04-22)
 - [From Ad Hoc Prompting to Repeatable AI Workflows with Claude Code Skills](https://towardsdatascience.com/from-ad-hoc-prompting-to-repeatable-ai-workflows-with-claude-code-skills/) (2026-04-22)
 - [Ivory Tower Notes: The Methodology](https://towardsdatascience.com/ivory-tower-notes-the-methodology/) (2026-04-22)
-- [How to Run OpenClaw with Open-Source Models](https://towardsdatascience.com/how-to-run-openclaw-with-open-source-models/) (2026-04-22)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Is GPT Image 2 the Best Image Generation Model?](https://www.analyticsvidhya.com/blog/2026/04/gpt-image-2-best-image-generation-model/) (2026-04-23)
 - [Token Economics: Why AI is Getting “Cheaper”](https://www.analyticsvidhya.com/blog/2026/04/why-ai-is-getting-cheaper/) (2026-04-22)
 - [From Idea to Output: Claude Does the Design Work ](https://www.analyticsvidhya.com/blog/2026/04/from-idea-to-output-claude-design/) (2026-04-22)
 - [Opus 4.7 vs Opus 4.6: Should You Switch?](https://www.analyticsvidhya.com/blog/2026/04/opus-4-7-vs-opus-4-6/) (2026-04-21)
 - [Build Human-Like AI Voice App with Gemini 3.1 Flash TTS](https://www.analyticsvidhya.com/blog/2026/04/ai-voice-app-with-gemini-3-1-flash-tts/) (2026-04-20)
-- [How to Structure a Claude Code Project that Thinks Like an Engineer ](https://www.analyticsvidhya.com/blog/2026/04/claude-code-project-structure/) (2026-04-19)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [7 Specific Unconventional Things to Do with Language Models](https://www.kdnuggets.com/7-specific-unconventional-things-to-do-with-language-models) (2026-04-23)
 - [5 GitHub Repositories to Learn Quantum Machine Learning](https://www.kdnuggets.com/5-github-repositories-to-learn-quantum-machine-learning) (2026-04-22)
 - [10 GitHub Repositories To Master Claude Code](https://www.kdnuggets.com/10-github-repositories-to-master-claude-code) (2026-04-22)
 - [Seeing What’s Possible with OpenCode + Ollama + Qwen3-Coder](https://www.kdnuggets.com/seeing-whats-possible-with-opencode-ollama-qwen3-coder) (2026-04-21)
 - [Advanced Pandas Patterns Most Data Scientists Don’t Use](https://www.kdnuggets.com/advanced-pandas-patterns-most-data-scientists-dont-use) (2026-04-21)
-- [5 Docker Best Practices for Faster Builds and Smaller Images](https://www.kdnuggets.com/5-docker-best-practices-for-faster-builds-and-smaller-images) (2026-04-21)
 
 </details>
 
