@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Porsche is adding an all-electric Cayenne coupe to its lineup](https://techcrunch.com/2026/04/23/porsche-is-adding-an-all-electric-cayenne-coupe-to-its-lineup/) (2026-04-24)
 - [Bob Iger rejoins Thrive Capital as advisor after Disney exit](https://techcrunch.com/2026/04/23/bob-iger-rejoins-thrive-capital-as-advisor-after-disney-exit/) (2026-04-24)
 - [Authorities arrest special forces soldier who allegedly made $400K on Polymarket bet involving Maduro operation](https://techcrunch.com/2026/04/23/authorities-arrest-special-forces-soldier-who-allegedly-made-400k-on-polymarket-bet-involving-maduro-operation/) (2026-04-23)
 - [Redwood Materials loses COO amid layoffs, restructuring](https://techcrunch.com/2026/04/23/redwood-materials-loses-coo-amid-layoffs-restructuring/) (2026-04-23)
 - [These are the countries moving to ban social media for children](https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/) (2026-04-23)
-- [Bret Taylor’s Sierra buys YC-backed AI startup Fragment](https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/) (2026-04-23)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [U.S. Soldier Charged with Using Classified Info to Profit from Prediction Market](https://www.justice.gov/usao-sdny/pr/us-soldier-charged-using-classified-information-profit-prediction-market-bets?bm-verify=AAQAAAAN_____y6To7sZYZ502biZwIHXlr-7zXZUqV4H0xLTfW__wDA3SjNLqifXRaQwsikyuz6IJknyuL8xfVYRkesxcDk5V10m-HoXl2K93f17rygBphL77WVFoQ_XvlmUo922IwM_DQ66137X6wWMtpdHslcEjpJG7KbBmUw9Su4kDENpDt_yv2spThQZehgv-X1Adk5U2VHfp41co2s_QJGjRj4y0KmL1mhSCyVaE7MC1LHG0mtP-xYmD0xBOQwn6PlHkPiP5Nt46h5ZIjLGXgCZDEVD42i7rIEM379DKLPUPX0PDNmOAwFSuTqcTDVnT_UUV8vxpHLRMb7rUxPxKUPcIB23iZTRJddWDDtPHMXadpwv67xr-f1sKDLZT9NgHCO4iuC2EthmAt0) (2026-04-23)
-- [Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases](https://github.com/refactoringhq/tolaria) (2026-04-23)
-- [TorchTPU: Running PyTorch Natively on TPUs at Google Scale](https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/) (2026-04-23)
-- [Using the internet like it's 1999](https://joshblais.com/blog/using-the-internet-like-its-1999/) (2026-04-23)
-- [Girl, 10, finds rare Mexican axolotl under Welsh bridge](https://www.bbc.com/news/articles/c9d4zgnqpqeo) (2026-04-23)
+- [Composition Shouldn't be this Hard](https://www.cambra.dev/blog/announcement/) (2026-04-24)
+- [Why Not Venus?](https://mceglowski.substack.com/p/why-not-venus) (2026-04-24)
+- [Familiarity is the enemy: On why Enterprise systems have failed for 60 years](https://felixbarbalet.com/familiarity-is-the-enemy/) (2026-04-24)
+- [Ubuntu 26.04](https://lwn.net/Articles/1069399/) (2026-04-24)
+- [Habitual coffee intake shapes the microbiome, modifies physiology and cognition](https://www.nature.com/articles/s41467-026-71264-8) (2026-04-24)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [US arrests soldier who allegedly made $400k on Maduro Polymarket bets](https://www.theverge.com/policy/917910/polymarket-maduro-bets-arrest-van-dyke) (2026-04-23)
+- [Saros is pure action nirvana](https://www.theverge.com/entertainment/917462/saros-review-ps5) (2026-04-24)
+- [US arrests soldier who allegedly made $400K on Maduro Polymarket bets](https://www.theverge.com/policy/917910/polymarket-maduro-bets-arrest-van-dyke) (2026-04-23)
 - [Leak reveals new Xbox Game Pass ‘Starter Edition’ that’s part of Discord Nitro](https://www.theverge.com/news/917880/xbox-game-pass-starter-edition-discord-nitro-bundle) (2026-04-23)
 - [Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax](https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors) (2026-04-23)
 - [Brendan Carr’s war on wokeness targets inclusive children&#8217;s television](https://www.theverge.com/entertainment/917810/brendan-carr-fcc-transgender-nonbinary-childrens-programming) (2026-04-23)
-- [Sonos’ big sale on refurbished speakers is about to end](https://www.theverge.com/gadgets/917611/sonos-refurbished-era-beam-move-speaker-deal-sale) (2026-04-23)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Lights, camera, open source!](https://stackoverflow.blog/2026/04/24/lights-camera-open-source/) (2026-04-24)
 - [Black box AI drift: AI tools are making design decisions nobody asked for](https://stackoverflow.blog/2026/04/23/black-box-ai-drift-ai-tools-are-making-design-decisions-nobody-asked-for/) (2026-04-23)
 - [How to get multiple agents to play nice at scale ](https://stackoverflow.blog/2026/04/22/how-to-get-multiple-agents-to-play-nice-at-scale/) (2026-04-22)
 - [We still need developer communities](https://stackoverflow.blog/2026/04/21/we-still-need-developer-communities/) (2026-04-21)
 - [No country left behind with sovereign AI](https://stackoverflow.blog/2026/04/17/no-country-left-behind-with-sovereign-ai/) (2026-04-17)
-- [Human input needed: take our survey on AI agents](https://stackoverflow.blog/2026/04/15/human-input-needed-take-our-survey-on-ai-agents/) (2026-04-15)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Mixpanel vs Amplitude 2026: What to Pick and Why](https://dev.to/juan_diegoisazaa_5362a/mixpanel-vs-amplitude-2026-what-to-pick-and-why-1p2o) (2026-04-24)
-- [The Rise of Solution Architects in the Age of Artificial Intelligence](https://dev.to/renanbastos93/the-rise-of-solution-architects-in-the-age-of-artificial-intelligence-824) (2026-04-24)
-- [Hardcoding Security into Every Commit: The Future of Snyk Secrets](https://dev.to/snyk/hardcoding-security-into-every-commit-the-future-of-snyk-secrets-2jel) (2026-04-24)
-- [JPMorgan Just Published a Cyber To-Do List and Snyk Covers 8 of the 10 Items. How do you stack up?](https://dev.to/snyk/jpmorgan-just-published-a-cyber-to-do-list-and-snyk-covers-8-of-the-10-items-how-do-you-stack-up-n87) (2026-04-24)
-- [🚀 I'm a Senior Mobile Engineer. Here's what I can do for your team.](https://dev.to/frxncisxo/im-a-senior-mobile-engineer-heres-what-i-can-do-for-your-team-4f6e) (2026-04-24)
+- [I Lost a 3-Hour Debugging Session With Claude. So I Built a Fix.](https://dev.to/backrun/i-lost-a-3-hour-debugging-session-with-claude-so-i-built-a-fix-3cje) (2026-04-24)
+- [Empowering Autonomous AI Agents through Dynamic Tool Creation](https://dev.to/gde/empowering-autonomous-ai-agents-through-dynamic-tool-creation-3pfm) (2026-04-24)
+- [AI Got Hands: Breaking the Human Bottleneck in Agent Workflows](https://dev.to/mininglamp/ai-got-hands-breaking-the-human-bottleneck-in-agent-workflows-2b5o) (2026-04-24)
+- [AI for Personal: How Edge-Native Agents Bring Data Sovereignty Back to Your Device](https://dev.to/mininglamp/ai-for-personal-how-edge-native-agents-bring-data-sovereignty-back-to-your-device-5882) (2026-04-24)
+- [The Role of Contextual AI in Document Interpretation](https://dev.to/jakemiller/the-role-of-contextual-ai-in-document-interpretation-i83) (2026-04-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How One Bad Database Query Took Down Our Service](https://sanajitjana.medium.com/how-one-bad-database-query-took-down-our-service-d09aaadd900f?source=rss------programming-5) (2026-04-24)
-- [How to Build an AI WhatsApp Receptionist using Python, Flask, and Groq (Llama 3)](https://medium.com/@roykangwana/how-to-build-an-ai-whatsapp-receptionist-using-python-flask-and-groq-llama-3-79b804f4ef00?source=rss------programming-5) (2026-04-24)
-- [Stop messaging a server on the Cloud. Bring it to your local machine instead](https://medium.com/@felixdavid12/stop-messaging-a-server-on-the-cloud-bring-it-to-your-local-machine-instead-90baa3fee5d2?source=rss------programming-5) (2026-04-24)
-- [— [ IA: CÓDIGO ABIERTO + ESTRATEGIA HÍBRIDA — EL FIN DE LA FIESTA GRATIS: ALIBABA ESCONDE SU MEJOR…](https://medium.com/@drdevlpixls/ia-c%C3%B3digo-abierto-estrategia-h%C3%ADbrida-el-fin-de-la-fiesta-gratis-alibaba-esconde-su-mejor-818352522f99?source=rss------programming-5) (2026-04-24)
-- [The Invisible String: How 3-Word Changes Can Double Your Conversion](https://medium.com/@pinalsevwala.designer/the-invisible-string-how-3-word-changes-can-double-your-conversion-7590e13d51d6?source=rss------programming-5) (2026-04-24)
+- [The Sudoku Coding Challenge: A Developer’s Complete Guide](https://blog.stackademic.com/the-sudoku-coding-challenge-a-developers-complete-guide-437a2eeae4d9?source=rss------programming-5) (2026-04-24)
+- [ Build A Profitable Community (Even If You’re Starting From Zero)](https://medium.com/@jaivanshsagwan1/build-a-profitable-community-even-if-youre-starting-from-zero-dd3decbe34aa?source=rss------programming-5) (2026-04-24)
+- [Mark Zuckerberg Said AI Will Replace Mid-Level Engineers by 2025. I’m Mid-Level. Here’s March 2026.](https://blog.stackademic.com/mark-zuckerberg-said-ai-will-replace-mid-level-engineers-by-2025-im-mid-level-here-s-march-2026-a6dbe481d4ec?source=rss------programming-5) (2026-04-24)
+- [Evaluate cos20 cos40 cos80 Stepwise](https://medium.com/think-art/evaluate-cos20-cos40-cos80-stepwise-1d757e3b8bbd?source=rss------programming-5) (2026-04-24)
+- [PostgreSQL Query Rewriting Techniques](https://medium.com/@philmcc/postgresql-query-rewriting-techniques-267becdbf990?source=rss------programming-5) (2026-04-24)
 
 </details>
 
@@ -537,22 +537,22 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/reverse-etl-
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [How to Use Transformers.js in a Chrome Extension](https://huggingface.co/blog/transformersjs-chrome-extension) (2026-04-23)
 - [Gemma 4 VLA Demo on Jetson Orin Nano Super](https://huggingface.co/blog/nvidia/gemma4) (2026-04-22)
 - [QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard](https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard) (2026-04-21)
 - [AI and the Future of Cybersecurity: Why Openness Matters](https://huggingface.co/blog/cybersecurity-openness) (2026-04-21)
 - [Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents](https://huggingface.co/blog/ecom-rlve) (2026-04-16)
-- [The PR you would have opened yourself](https://huggingface.co/blog/transformers-to-mlx) (2026-04-16)
 
 </details>
 
 <details>
 <summary>🤖 AI News</summary>
 
+- [How AI models use real-time cryptocurrency data to interpret market behaviour](https://www.artificialintelligence-news.com/news/how-ai-models-use-real-time-cryptocurrency-data-to-interpret-market-behaviour/) (2026-04-24)
 - [The billion-dollar startup with a different idea for AI](https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/) (2026-04-23)
 - [NVIDIA and Google infrastructure cuts AI inference costs](https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/) (2026-04-23)
 - [Sony AI robot beats players as humanoid robot wins Beijing race](https://www.artificialintelligence-news.com/news/sony-ai-robot-table-tennis-humanoid-robot-beijing-race/) (2026-04-23)
 - [Reversing enterprise security costs with AI vulnerability discovery](https://www.artificialintelligence-news.com/news/reversing-enterprise-security-costs-with-ai-vulnerability-discovery/) (2026-04-22)
-- [AI in law firms entering its closing summaries](https://www.artificialintelligence-news.com/news/ai-in-law-firms-entering-its-closing-summaries/) (2026-04-22)
 
 </details>
 
