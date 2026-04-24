@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs](https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/) (2026-04-24)
 - [Porsche is adding an all-electric Cayenne coupe to its lineup](https://techcrunch.com/2026/04/23/porsche-is-adding-an-all-electric-cayenne-coupe-to-its-lineup/) (2026-04-24)
 - [Bob Iger rejoins Thrive Capital as advisor after Disney exit](https://techcrunch.com/2026/04/23/bob-iger-rejoins-thrive-capital-as-advisor-after-disney-exit/) (2026-04-24)
 - [Authorities arrest special forces soldier who allegedly made $400K on Polymarket bet involving Maduro operation](https://techcrunch.com/2026/04/23/authorities-arrest-special-forces-soldier-who-allegedly-made-400k-on-polymarket-bet-involving-maduro-operation/) (2026-04-23)
 - [Redwood Materials loses COO amid layoffs, restructuring](https://techcrunch.com/2026/04/23/redwood-materials-loses-coo-amid-layoffs-restructuring/) (2026-04-23)
-- [These are the countries moving to ban social media for children](https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/) (2026-04-23)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Composition Shouldn't be this Hard](https://www.cambra.dev/blog/announcement/) (2026-04-24)
-- [Why Not Venus?](https://mceglowski.substack.com/p/why-not-venus) (2026-04-24)
-- [Familiarity is the enemy: On why Enterprise systems have failed for 60 years](https://felixbarbalet.com/familiarity-is-the-enemy/) (2026-04-24)
-- [Ubuntu 26.04](https://lwn.net/Articles/1069399/) (2026-04-24)
-- [Habitual coffee intake shapes the microbiome, modifies physiology and cognition](https://www.nature.com/articles/s41467-026-71264-8) (2026-04-24)
+- [The Rich and Powerful Want to Live Forever. What If They Could?](https://www.nytimes.com/2026/04/24/magazine/eternal-life-longevity-world-leaders.html) (2026-04-24)
+- [The operating cost of adult and gambling startups](https://orchidfiles.com/stigma-is-a-tax-on-every-operational-decision/) (2026-04-24)
+- [Aspartame is not that bad?](https://dynomight.net/aspartame/) (2026-04-24)
+- [UK Biobank leak: Health details of 500 000 people are offered for sale](https://www.bmj.com/content/393/bmj.s781) (2026-04-24)
+- [How to be anti-social – a guide to incoherent and isolating social experiences](https://nate.leaflet.pub/3mk4xkaxobc2p) (2026-04-24)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Saros is pure action nirvana](https://www.theverge.com/entertainment/917462/saros-review-ps5) (2026-04-24)
-- [US arrests soldier who allegedly made $400K on Maduro Polymarket bets](https://www.theverge.com/policy/917910/polymarket-maduro-bets-arrest-van-dyke) (2026-04-23)
-- [Leak reveals new Xbox Game Pass ‘Starter Edition’ that’s part of Discord Nitro](https://www.theverge.com/news/917880/xbox-game-pass-starter-edition-discord-nitro-bundle) (2026-04-23)
-- [Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax](https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors) (2026-04-23)
-- [Brendan Carr’s war on wokeness targets inclusive children&#8217;s television](https://www.theverge.com/entertainment/917810/brendan-carr-fcc-transgender-nonbinary-childrens-programming) (2026-04-23)
+- [A new Republican privacy bill could be ‘worse than no standard at all’](https://www.theverge.com/policy/917828/data-privacy-bill-secure-act-house-state-laws) (2026-04-24)
+- [Elon Musk and Sam Altman’s court showdown will dish the dirt](https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip) (2026-04-24)
+- [Instagram has launched another Snapchat clone](https://www.theverge.com/tech/918061/instagram-instants-app-launch-snapchat-bereal) (2026-04-24)
+- [China’s DeepSeek previews new AI model a year after jolting US rivals ](https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model) (2026-04-24)
+- [Prestigious photo contest answers ‘what is a photo?’](https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo) (2026-04-24)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Rocket Report: Artemis III rocket getting ready; SpaceX is now an AI company](https://arstechnica.com/space/2026/04/rocket-report-some-canadians-dont-want-a-spaceport-falcon-hits-600-landings/) (2026-04-24)
 - [Visitors to this private space station won't be wearing shorts and T-shirts](https://arstechnica.com/space/2026/04/vast-reveals-flight-suit-tests-timepiece-for-commercial-space-station/) (2026-04-23)
 - [US accuses China of “industrial-scale” AI theft. China says it’s “slander.”](https://arstechnica.com/tech-policy/2026/04/us-accuses-china-of-industrial-scale-ai-theft-china-says-its-slander/) (2026-04-23)
 - [Carbon nanotube wiring gets closer to competing with copper](https://arstechnica.com/science/2026/04/researchers-get-carbon-nanotube-wiring-to-conduct-more-like-copper/) (2026-04-23)
 - [We still don't have a more precise value for "Big G"](https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/) (2026-04-23)
-- [In a first, a ransomware family is confirmed to be quantum-safe](https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/) (2026-04-23)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: supercharged scams and studying AI healthcare](https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/) (2026-04-24)
+- [Health-care AI is here. We don’t know if it actually helps patients.](https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/) (2026-04-24)
 - [The Download: introducing the Nature issue](https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/) (2026-04-23)
 - [Will fusion power get cheap? Don’t count on it.](https://www.technologyreview.com/2026/04/23/1136329/fusion-power-cost/) (2026-04-23)
 - [The Download: introducing the 10 Things That Matter in AI Right Now](https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/) (2026-04-22)
-- [AI needs a strong data fabric to deliver business value](https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/) (2026-04-22)
-- [3 things Michelle Kim is into right now](https://www.technologyreview.com/2026/04/22/1135423/3-things-michelle-kim/) (2026-04-22)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I Lost a 3-Hour Debugging Session With Claude. So I Built a Fix.](https://dev.to/backrun/i-lost-a-3-hour-debugging-session-with-claude-so-i-built-a-fix-3cje) (2026-04-24)
-- [Empowering Autonomous AI Agents through Dynamic Tool Creation](https://dev.to/gde/empowering-autonomous-ai-agents-through-dynamic-tool-creation-3pfm) (2026-04-24)
-- [AI Got Hands: Breaking the Human Bottleneck in Agent Workflows](https://dev.to/mininglamp/ai-got-hands-breaking-the-human-bottleneck-in-agent-workflows-2b5o) (2026-04-24)
-- [AI for Personal: How Edge-Native Agents Bring Data Sovereignty Back to Your Device](https://dev.to/mininglamp/ai-for-personal-how-edge-native-agents-bring-data-sovereignty-back-to-your-device-5882) (2026-04-24)
-- [The Role of Contextual AI in Document Interpretation](https://dev.to/jakemiller/the-role-of-contextual-ai-in-document-interpretation-i83) (2026-04-24)
+- [Building QuickArchViz: turning 3D models into renders](https://dev.to/maciek_chmura_building/building-quickarchviz-turning-3d-models-into-renders-10gp) (2026-04-24)
+- [Agent Fever Meets Reality: Security Gaps Nobody's Talking About](https://dev.to/dambilzerian/agent-fever-meets-reality-security-gaps-nobodys-talking-about-11eg) (2026-04-24)
+- [Origin Part 5: We Threw Out the Decoder](https://dev.to/jtil4201/origin-part-5-we-threw-out-the-decoder-193j) (2026-04-24)
+- [Providing Storage for the IT Testing and Training Department : A Step-by-Step Guide.](https://dev.to/smayowa10/providing-storage-for-the-it-testing-and-training-department-a-step-by-step-guide-4o99) (2026-04-24)
+- [The Tool-First Protocol: Stop Doing Manually What Your Agent Can Do Better](https://dev.to/mrclaw207/the-tool-first-protocol-stop-doing-manually-what-your-agent-can-do-better-524p) (2026-04-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Sudoku Coding Challenge: A Developer’s Complete Guide](https://blog.stackademic.com/the-sudoku-coding-challenge-a-developers-complete-guide-437a2eeae4d9?source=rss------programming-5) (2026-04-24)
-- [ Build A Profitable Community (Even If You’re Starting From Zero)](https://medium.com/@jaivanshsagwan1/build-a-profitable-community-even-if-youre-starting-from-zero-dd3decbe34aa?source=rss------programming-5) (2026-04-24)
-- [Mark Zuckerberg Said AI Will Replace Mid-Level Engineers by 2025. I’m Mid-Level. Here’s March 2026.](https://blog.stackademic.com/mark-zuckerberg-said-ai-will-replace-mid-level-engineers-by-2025-im-mid-level-here-s-march-2026-a6dbe481d4ec?source=rss------programming-5) (2026-04-24)
-- [Evaluate cos20 cos40 cos80 Stepwise](https://medium.com/think-art/evaluate-cos20-cos40-cos80-stepwise-1d757e3b8bbd?source=rss------programming-5) (2026-04-24)
-- [PostgreSQL Query Rewriting Techniques](https://medium.com/@philmcc/postgresql-query-rewriting-techniques-267becdbf990?source=rss------programming-5) (2026-04-24)
+- [THE LOCAL AI REVOLUTION: UNLEASHING GEMMA 4 & OPENCLAW ON YOUR OWN MACHINE](https://hartarto.medium.com/the-local-ai-revolution-unleashing-gemma-4-openclaw-on-your-own-machine-872eca4bd640?source=rss------programming-5) (2026-04-24)
+- [You Already Know Go’s “Classes.” They’re Just Called Structs](https://medium.com/@danielvalev/you-already-know-gos-classes-they-re-just-called-structs-bd14ba347c0f?source=rss------programming-5) (2026-04-24)
+- [Well, Vibe Coding Is Over.](https://siliconvalleygradient.com/well-vibe-coding-is-over-17a419133cda?source=rss------programming-5) (2026-04-24)
+- [You’re Writing Python the Hard Way (10 Fixes That Change Everything)](https://shwetaprasad150.medium.com/youre-writing-python-the-hard-way-10-fixes-that-change-everything-172d9b2b10c5?source=rss------programming-5) (2026-04-24)
+- [I Analyzed 200 AI-Generated Programs. Results Shocked Me…](https://python.plainenglish.io/i-analyzed-200-ai-generated-programs-results-shocked-me-c106d835bf68?source=rss------programming-5) (2026-04-24)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft Discovery: Advancing agentic R&D at scale](https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/) (2026-04-22)
+- [Introducing Azure Accelerate for Databases: Modernize your data for AI with experts and investments](https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/) (2026-04-22)
 - [Cloud Cost Optimization: Principles that still matter](https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/) (2026-04-15)
 - [Optimize object storage costs automatically with smart tier—now generally available](https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/) (2026-04-14)
 - [Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/) (2026-04-09)
-- [How Drasi used GitHub Copilot to find documentation bugs](https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/) (2026-04-09)
-- [Cloud Cost Optimization: How to maximize ROI from AI, manage costs, and unlock real business value](https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-how-to-maximize-roi-from-ai-manage-costs-and-unlock-real-business-value/) (2026-04-08)
 
 </details>
 
@@ -306,22 +306,22 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Take Control of AI Code Quality in CI: Live Demo](https://blog.jetbrains.com/qodana/2026/04/take-control-of-ai-code-quality-in-ci-live-demo/) (2026-04-24)
 - [IntelliJ IDEA 2026.1.1 Is Out!](https://blog.jetbrains.com/idea/2026/04/intellij-idea-2026-1-1/) (2026-04-23)
 - [AI in DevOps: Why Adoption Lags in CI/CD (and What Comes Next)](https://blog.jetbrains.com/teamcity/2026/04/ai-in-devops/) (2026-04-23)
 - [The CLion 2026.2 Roadmap: Simplified Debugger Configuration and the Ability to Use Multiple Zephyr West Profiles](https://blog.jetbrains.com/clion/2026/04/2026-2-roadmap/) (2026-04-23)
 - [Give AI Something Worth Amplifying: Three Priorities for Technical Leaders](https://blog.jetbrains.com/ai/2026/04/give-ai-something-worth-amplifying-three-priorities-for-technical-leaders/) (2026-04-22)
-- [PyCharm for Django Fundraiser: Why Django Matters in the AI Era – And Why We’re Supporting It](https://blog.jetbrains.com/pycharm/2026/04/pycharm-for-django-fundraiser-why-django-matters-in-the-ai-era-and-why-we-re-supporting-it/) (2026-04-22)
 
 </details>
 
 <details>
 <summary>📝 Visual Studio Code</summary>
 
+- [Visual Studio Code 1.118](https://code.visualstudio.com/updates/v1_118) (2026-04-29)
 - [Visual Studio Code 1.117](https://code.visualstudio.com/updates/v1_117) (2026-04-22)
 - [Visual Studio Code 1.116](https://code.visualstudio.com/updates/v1_116) (2026-04-15)
 - [Visual Studio Code 1.115](https://code.visualstudio.com/updates/v1_115) (2026-04-08)
 - [Visual Studio Code 1.114](https://code.visualstudio.com/updates/v1_114) (2026-04-01)
-- [Visual Studio Code 1.113](https://code.visualstudio.com/updates/v1_113) (2026-03-25)
 
 </details>
 
@@ -537,11 +537,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/reverse-etl-
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [DeepSeek-V4: a million-token context that agents can actually use](https://huggingface.co/blog/deepseekv4) (2026-04-24)
 - [How to Use Transformers.js in a Chrome Extension](https://huggingface.co/blog/transformersjs-chrome-extension) (2026-04-23)
 - [Gemma 4 VLA Demo on Jetson Orin Nano Super](https://huggingface.co/blog/nvidia/gemma4) (2026-04-22)
 - [QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard](https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard) (2026-04-21)
 - [AI and the Future of Cybersecurity: Why Openness Matters](https://huggingface.co/blog/cybersecurity-openness) (2026-04-21)
-- [Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents](https://huggingface.co/blog/ecom-rlve) (2026-04-16)
 
 </details>
 
@@ -559,33 +559,33 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/reverse-etl-
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How to Select Variables Robustly in a Scoring Model](https://towardsdatascience.com/how-to-select-variables-robustly-in-a-scoring-model/) (2026-04-24)
 - [Using a Local LLM as a Zero-Shot Classifier](https://towardsdatascience.com/using-a-local-llm-as-a-zero-shot-classifier/) (2026-04-23)
 - [I Simulated an International Supply Chain and Let OpenClaw Monitor It](https://towardsdatascience.com/i-simulated-an-international-supply-chain-and-let-openclaw-monitor-it/) (2026-04-23)
 - [Your Synthetic Data Passed Every Test and Still Broke Your Model](https://towardsdatascience.com/your-synthetic-data-passed-every-test-and-still-broke-your-model/) (2026-04-23)
 - [Lasso Regression: Why the Solution Lives on a Diamond](https://towardsdatascience.com/lasso-regression-why-the-solution-lives-on-a-diamond/) (2026-04-23)
-- [Using Causal Inference to Estimate the Impact of Tube Strikes on Cycling Usage in London](https://towardsdatascience.com/using-causal-inference-to-estimate-the-impact-of-tube-strikes-on-cycling-usage-in-london/) (2026-04-22)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [I Tried The New GPT 5.5 And I’m Never Going Back](https://www.analyticsvidhya.com/blog/2026/04/i-tried-the-new-gpt-5-5-and-im-never-going-back/) (2026-04-24)
 - [Is GPT Image 2 the Best Image Generation Model?](https://www.analyticsvidhya.com/blog/2026/04/gpt-image-2-best-image-generation-model/) (2026-04-23)
 - [Token Economics: Why AI is Getting “Cheaper”](https://www.analyticsvidhya.com/blog/2026/04/why-ai-is-getting-cheaper/) (2026-04-22)
 - [From Idea to Output: Claude Does the Design Work ](https://www.analyticsvidhya.com/blog/2026/04/from-idea-to-output-claude-design/) (2026-04-22)
 - [Opus 4.7 vs Opus 4.6: Should You Switch?](https://www.analyticsvidhya.com/blog/2026/04/opus-4-7-vs-opus-4-6/) (2026-04-21)
-- [Build Human-Like AI Voice App with Gemini 3.1 Flash TTS](https://www.analyticsvidhya.com/blog/2026/04/ai-voice-app-with-gemini-3-1-flash-tts/) (2026-04-20)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [7 Practical OpenClaw Use Cases You Should Know](https://www.kdnuggets.com/7-practical-openclaw-use-cases-you-should-know) (2026-04-24)
 - [AI Engineering Hub Breakdown: 10 Agentic Projects You Can Fork Today](https://www.kdnuggets.com/ai-engineering-hub-breakdown-10-agentic-projects-you-can-fork-today) (2026-04-23)
 - [7 Specific Unconventional Things to Do with Language Models](https://www.kdnuggets.com/7-specific-unconventional-things-to-do-with-language-models) (2026-04-23)
 - [5 GitHub Repositories to Learn Quantum Machine Learning](https://www.kdnuggets.com/5-github-repositories-to-learn-quantum-machine-learning) (2026-04-22)
 - [10 GitHub Repositories To Master Claude Code](https://www.kdnuggets.com/10-github-repositories-to-master-claude-code) (2026-04-22)
-- [Seeing What’s Possible with OpenCode + Ollama + Qwen3-Coder](https://www.kdnuggets.com/seeing-whats-possible-with-opencode-ollama-qwen3-coder) (2026-04-21)
 
 </details>
 
