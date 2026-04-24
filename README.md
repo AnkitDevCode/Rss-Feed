@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Don’t stop hiring humans — stop hiring the wrong humans, Artisan’s founder says](https://techcrunch.com/2026/04/23/dont-stop-hiring-humans-stop-hiring-the-wrong-humans-artisans-founder-says/) (2026-04-23)
-- [OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘superapp’](https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/) (2026-04-23)
-- [Meta to cut 10% of jobs, or 8,000 employees, report says](https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/) (2026-04-23)
-- [Bluesky now supports better-quality photos](https://techcrunch.com/2026/04/23/bluesky-now-supports-better-quality-photos/) (2026-04-23)
-- [Microsoft offers buyout for up to 7% of US employees](https://techcrunch.com/2026/04/23/microsoft-offers-buyout-for-up-to-7-of-u-s-employees/) (2026-04-23)
+- [Bob Iger rejoins Thrive Capital as advisor after Disney exit](https://techcrunch.com/2026/04/23/bob-iger-rejoins-thrive-capital-as-advisor-after-disney-exit/) (2026-04-24)
+- [Authorities arrest special forces soldier who allegedly made $400K on Polymarket bet involving Maduro operation](https://techcrunch.com/2026/04/23/authorities-arrest-special-forces-soldier-who-allegedly-made-400k-on-polymarket-bet-involving-maduro-operation/) (2026-04-23)
+- [Redwood Materials loses COO amid layoffs, restructuring](https://techcrunch.com/2026/04/23/redwood-materials-loses-coo-amid-layoffs-restructuring/) (2026-04-23)
+- [These are the countries moving to ban social media for children](https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/) (2026-04-23)
+- [Bret Taylor’s Sierra buys YC-backed AI startup Fragment](https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/) (2026-04-23)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Middle Eastern News Sites Are U.S. Government Propaganda Ops](https://theintercept.com/2026/04/20/pentagon-middle-eastern-news-propaganda-iran/) (2026-04-23)
-- [GPT-5.5](https://openai.com/index/introducing-gpt-5-5/) (2026-04-23)
-- [An update on recent Claude Code quality reports](https://www.anthropic.com/engineering/april-23-postmortem) (2026-04-23)
-- [People Do Not Yearn for Automation](https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation) (2026-04-23)
-- [Palantir Employees Are Starting to Wonder If They're the Bad Guys](https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/) (2026-04-23)
+- [U.S. Soldier Charged with Using Classified Info to Profit from Prediction Market](https://www.justice.gov/usao-sdny/pr/us-soldier-charged-using-classified-information-profit-prediction-market-bets?bm-verify=AAQAAAAN_____y6To7sZYZ502biZwIHXlr-7zXZUqV4H0xLTfW__wDA3SjNLqifXRaQwsikyuz6IJknyuL8xfVYRkesxcDk5V10m-HoXl2K93f17rygBphL77WVFoQ_XvlmUo922IwM_DQ66137X6wWMtpdHslcEjpJG7KbBmUw9Su4kDENpDt_yv2spThQZehgv-X1Adk5U2VHfp41co2s_QJGjRj4y0KmL1mhSCyVaE7MC1LHG0mtP-xYmD0xBOQwn6PlHkPiP5Nt46h5ZIjLGXgCZDEVD42i7rIEM379DKLPUPX0PDNmOAwFSuTqcTDVnT_UUV8vxpHLRMb7rUxPxKUPcIB23iZTRJddWDDtPHMXadpwv67xr-f1sKDLZT9NgHCO4iuC2EthmAt0) (2026-04-23)
+- [Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases](https://github.com/refactoringhq/tolaria) (2026-04-23)
+- [TorchTPU: Running PyTorch Natively on TPUs at Google Scale](https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/) (2026-04-23)
+- [Using the internet like it's 1999](https://joshblais.com/blog/using-the-internet-like-its-1999/) (2026-04-23)
+- [Girl, 10, finds rare Mexican axolotl under Welsh bridge](https://www.bbc.com/news/articles/c9d4zgnqpqeo) (2026-04-23)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [‘We Are Xbox’: read the memo defining Microsoft’s gaming future](https://www.theverge.com/news/917689/microsoft-xbox-gaming-future-memo-asha-sharma-matt-booty) (2026-04-23)
-- [Microsoft’s new Xbox chief is ‘reevaluating’ exclusive games](https://www.theverge.com/tech/917657/microsoft-xbox-exclusive-games-windowing-comments-asha-sharma) (2026-04-23)
-- [Democrats want to ban ICE from turning warehouses into detention centers](https://www.theverge.com/policy/917643/ban-warehouse-detention-act-ice-dhs) (2026-04-23)
-- [Spirit is broken](https://www.theverge.com/transportation/917629/spirit-airlines-bankrupt-bailout-merger-ultra-low-cost) (2026-04-23)
-- [Anthropic&#8217;s Mythos breach was humiliating](https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation) (2026-04-23)
+- [US arrests soldier who allegedly made $400k on Maduro Polymarket bets](https://www.theverge.com/policy/917910/polymarket-maduro-bets-arrest-van-dyke) (2026-04-23)
+- [Leak reveals new Xbox Game Pass ‘Starter Edition’ that’s part of Discord Nitro](https://www.theverge.com/news/917880/xbox-game-pass-starter-edition-discord-nitro-bundle) (2026-04-23)
+- [Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax](https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors) (2026-04-23)
+- [Brendan Carr’s war on wokeness targets inclusive children&#8217;s television](https://www.theverge.com/entertainment/917810/brendan-carr-fcc-transgender-nonbinary-childrens-programming) (2026-04-23)
+- [Sonos’ big sale on refurbished speakers is about to end](https://www.theverge.com/gadgets/917611/sonos-refurbished-era-beam-move-speaker-deal-sale) (2026-04-23)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Apple's M4 Mac mini, including the $599 one, is gradually becoming impossible to buy](https://arstechnica.com/gadgets/2026/04/apples-m4-mac-mini-including-the-599-one-is-gradually-becoming-impossible-to-buy/) (2026-04-23)
-- [US Space Command: Russia is now operationalizing co-orbital ASAT weapons](https://arstechnica.com/space/2026/04/us-space-command-russia-is-now-operationalizing-co-orbital-asat-weapons/) (2026-04-23)
-- [Apple stops weirdly storing data that let cops spy on Signal chats](https://arstechnica.com/tech-policy/2026/04/apple-stops-weirdly-storing-data-that-let-cops-spy-on-signal-chats/) (2026-04-23)
-- [Eight months early and under budget, the Roman Telescope is ready to launch](https://arstechnica.com/science/2026/04/eight-months-early-and-under-budget-the-roman-telescope-is-ready-to-launch/) (2026-04-23)
-- [BMW bumps the 7 Series for 2027, adds all-new battery](https://arstechnica.com/cars/2026/04/bmw-bumps-the-7-series-for-2027-adds-all-new-battery/) (2026-04-23)
+- [Visitors to this private space station won't be wearing shorts and T-shirts](https://arstechnica.com/space/2026/04/vast-reveals-flight-suit-tests-timepiece-for-commercial-space-station/) (2026-04-23)
+- [US accuses China of “industrial-scale” AI theft. China says it’s “slander.”](https://arstechnica.com/tech-policy/2026/04/us-accuses-china-of-industrial-scale-ai-theft-china-says-its-slander/) (2026-04-23)
+- [Carbon nanotube wiring gets closer to competing with copper](https://arstechnica.com/science/2026/04/researchers-get-carbon-nanotube-wiring-to-conduct-more-like-copper/) (2026-04-23)
+- [We still don't have a more precise value for "Big G"](https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/) (2026-04-23)
+- [In a first, a ransomware family is confirmed to be quantum-safe](https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/) (2026-04-23)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [My Solutions Architect Associate Certification Journey and Resources to Certify With Confidence](https://dev.to/aws-builders/my-solutions-architect-associate-certification-journey-and-resources-to-certify-with-confidence-5h16) (2026-04-23)
-- [From Idea to Leads: How I Build Fast SEO-Ready Websites with Next.js](https://dev.to/fleddd/from-idea-to-leads-how-i-build-fast-seo-ready-websites-with-nextjs-2nme) (2026-04-23)
-- [Generating SBOM with Docker Scout](https://dev.to/docker/generating-sbom-with-docker-scout-27eg) (2026-04-23)
-- [How to Scrape LinkedIn Data: Complete Guide for 2026](https://dev.to/alterlab/how-to-scrape-linkedin-data-complete-guide-for-2026-4kf0) (2026-04-23)
-- [Why Security Took Centre Stage at Google Cloud NEXT '26](https://dev.to/aditya_kumar_ai00/why-security-took-centre-stage-at-google-cloud-next-26-1k9c) (2026-04-23)
+- [Mixpanel vs Amplitude 2026: What to Pick and Why](https://dev.to/juan_diegoisazaa_5362a/mixpanel-vs-amplitude-2026-what-to-pick-and-why-1p2o) (2026-04-24)
+- [The Rise of Solution Architects in the Age of Artificial Intelligence](https://dev.to/renanbastos93/the-rise-of-solution-architects-in-the-age-of-artificial-intelligence-824) (2026-04-24)
+- [Hardcoding Security into Every Commit: The Future of Snyk Secrets](https://dev.to/snyk/hardcoding-security-into-every-commit-the-future-of-snyk-secrets-2jel) (2026-04-24)
+- [JPMorgan Just Published a Cyber To-Do List and Snyk Covers 8 of the 10 Items. How do you stack up?](https://dev.to/snyk/jpmorgan-just-published-a-cyber-to-do-list-and-snyk-covers-8-of-the-10-items-how-do-you-stack-up-n87) (2026-04-24)
+- [🚀 I'm a Senior Mobile Engineer. Here's what I can do for your team.](https://dev.to/frxncisxo/im-a-senior-mobile-engineer-heres-what-i-can-do-for-your-team-4f6e) (2026-04-24)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Spring @EventListener: How I Stopped Coupling My Services and Started Sleeping Better at Night](https://medium.com/@lucasdfernandes.93/spring-eventlistener-how-i-stopped-coupling-my-services-and-started-sleeping-better-at-night-c9a761c5016e?source=rss------programming-5) (2026-04-23)
-- [Data Science From Zero: 5 Concepts Anyone Can Learn Today](https://pub.towardsai.net/data-science-from-zero-5-concepts-anyone-can-learn-today-ea9b14f83856?source=rss------programming-5) (2026-04-23)
-- [Stopped Watching Python Tutorials Then Built These 5 Tiny Scripts That Changed Everything](https://medium.com/@talhaulfat93/stopped-watching-python-tutorials-then-built-these-5-tiny-scripts-that-changed-everything-a840e2d8ce12?source=rss------programming-5) (2026-04-23)
-- [ नुकतंच Rameshwaram ते Rashtrapati Bhavan – डॉ.](https://medium.com/@tithipatil26_53218/%E0%A4%A8%E0%A5%81%E0%A4%95%E0%A4%A4%E0%A4%82%E0%A4%9A-rameshwaram-%E0%A4%A4%E0%A5%87-rashtrapati-bhavan-%E0%A4%A1%E0%A5%89-812a3632be19?source=rss------programming-5) (2026-04-23)
-- [Edsger W. Dijkstra: Onu Sadece “Kısa Yol Algoritması” ile Anmak Neden Yetersiz?](https://medium.com/@mustafatskl/edsger-w-dijkstra-onu-sadece-k%C4%B1sa-yol-algoritmas%C4%B1-ile-anmak-neden-yetersiz-2778655071fa?source=rss------programming-5) (2026-04-23)
+- [How One Bad Database Query Took Down Our Service](https://sanajitjana.medium.com/how-one-bad-database-query-took-down-our-service-d09aaadd900f?source=rss------programming-5) (2026-04-24)
+- [How to Build an AI WhatsApp Receptionist using Python, Flask, and Groq (Llama 3)](https://medium.com/@roykangwana/how-to-build-an-ai-whatsapp-receptionist-using-python-flask-and-groq-llama-3-79b804f4ef00?source=rss------programming-5) (2026-04-24)
+- [Stop messaging a server on the Cloud. Bring it to your local machine instead](https://medium.com/@felixdavid12/stop-messaging-a-server-on-the-cloud-bring-it-to-your-local-machine-instead-90baa3fee5d2?source=rss------programming-5) (2026-04-24)
+- [— [ IA: CÓDIGO ABIERTO + ESTRATEGIA HÍBRIDA — EL FIN DE LA FIESTA GRATIS: ALIBABA ESCONDE SU MEJOR…](https://medium.com/@drdevlpixls/ia-c%C3%B3digo-abierto-estrategia-h%C3%ADbrida-el-fin-de-la-fiesta-gratis-alibaba-esconde-su-mejor-818352522f99?source=rss------programming-5) (2026-04-24)
+- [The Invisible String: How 3-Word Changes Can Double Your Conversion](https://medium.com/@pinalsevwala.designer/the-invisible-string-how-3-word-changes-can-double-your-conversion-7590e13d51d6?source=rss------programming-5) (2026-04-24)
 
 </details>
 
@@ -392,13 +392,13 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/reverse-etl-
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
-- [Five Critical AI Agent Security Risks and How to Fix Them Before You Ship](https://auth0.com/blog/how-to-fix-five-critical-ai-agent-security-risks/) (2026-04-23)
 - [The Agent Experience Score](https://auth0.com/blog/agent-experience-score/) (2026-04-23)
+- [Five Critical AI Agent Security Risks and How to Fix Them Before You Ship](https://auth0.com/blog/how-to-fix-five-critical-ai-agent-security-risks/) (2026-04-23)
 - [Securing Gemini Enterprise Agent Platform Runtime with Auth0 for AI Agents
 ](https://auth0.com/blog/securing-gemini-enterprise-agent-platform-runtime-auth0/) (2026-04-22)
+- [Multi-Tenant SaaS: Managing Auth0 Organizations with the My Organization API](https://auth0.com/blog/managing-auth0-organizations-my-organization-api/) (2026-04-21)
 - [CheckMate for Auth0: Six Months of Growth
 ](https://auth0.com/blog/checkmate-for-auth0-six-month-update/) (2026-04-21)
-- [Multi-Tenant SaaS: Managing Auth0 Organizations with the My Organization API](https://auth0.com/blog/managing-auth0-organizations-my-organization-api/) (2026-04-21)
 
 </details>
 
