@@ -31,33 +31,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Lambda Calculus Benchmark for AI](https://victortaelin.github.io/lambench/) (2026-04-25)
+- [A web-based RDP client built with Go WebAssembly and grdp](https://github.com/nakagami/grdpwasm) (2026-04-25)
+- [Martin Galway's music source files from 1980's Commodore 64 games](https://github.com/MartinGalway/C64_music) (2026-04-25)
+- [Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)](https://github.com/nex-crm/wuphf) (2026-04-25)
 - [New 10 GbE USB adapters are cooler, smaller, cheaper](https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/) (2026-04-25)
-- [Oxford All Souls College General Examination (2025) [pdf]](https://www.asc.ox.ac.uk/sites/default/files/2025-10/General%202025.pdf) (2026-04-25)
-- [Turbo Vision 2.0 – a modern port](https://github.com/magiblot/tvision) (2026-04-25)
-- [Firefox Has Integrated Brave's Adblock Engine](https://itsfoss.com/news/firefox-ships-brave-adblock-engine/) (2026-04-25)
-- [Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do](https://alash3al.github.io/stash?_v01) (2026-04-25)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Sho Miyake answers life’s greatest questions](https://www.theverge.com/entertainment/918313/director-sho-miyake-interview) (2026-04-25)
+- [The most exciting laptop I’ve seen in forever](https://www.theverge.com/tech/918695/framework-laptop-stranger-things-installer) (2026-04-25)
+- [The US gets the worst phones](https://www.theverge.com/gadgets/917340/us-worst-smartphones-china-batteries-cameras-apple-iphone-john-ternus) (2026-04-25)
 - [Microsoft will let you pause Windows Updates indefinitely, 35 days at a time](https://www.theverge.com/tech/918572/microsoft-windows-updates-pause-35-days) (2026-04-24)
 - [Alex Jones has uncovered another massive conspiracy](https://www.theverge.com/news/918527/alex-jones-infowars-takeover-the-onion-tim-heidecker) (2026-04-24)
-- [The person who allegedly leaked Paramount’s new Avatar movie has been arrested](https://www.theverge.com/entertainment/918250/avatar-aang-the-last-airbender-leaks-arrest-paramount-plus) (2026-04-24)
-- [BMW is one step closer to selling you a color-changing car](https://www.theverge.com/tech/918216/bmw-ix3-flow-edition-concept-car-2026-beijing-auto-show-e-ink-color-changing) (2026-04-24)
-- [Google’s handsome Pixel Watch 4 is on sale for $40 off in both size configurations](https://www.theverge.com/gadgets/917924/google-pixel-watch-4-apple-airpods-deal-sale) (2026-04-24)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Artemis II broke Fred Haise's distance record, but he is happy to pass it on](https://arstechnica.com/science/2026/04/artemis-ii-broke-fred-haises-distance-record-but-he-is-happy-to-pass-it-on/) (2026-04-25)
+- [Palantir employees are talking about company's "descent into fascism"](https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/) (2026-04-25)
 - [This is who's developing Golden Dome's orbital interceptors—if they're ever built](https://arstechnica.com/space/2026/04/this-is-whos-developing-golden-domes-orbital-interceptors-if-theyre-ever-built/) (2026-04-25)
 - [Google will invest as much as $40 billion in Anthropic](https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/) (2026-04-24)
 - [Europe—not US—first to authorize Moderna's combo mRNA flu-COVID vaccine](https://arstechnica.com/health/2026/04/europe-not-us-first-to-authorize-modernas-combo-mrna-flu-covid-vaccine/) (2026-04-24)
-- [FCC: Router ban includes portable hotspots, but not phones with hotspot features](https://arstechnica.com/tech-policy/2026/04/fcc-says-ban-on-foreign-made-routers-includes-portable-wi-fi-hotspots/) (2026-04-24)
-- [Why are top university websites serving porn? It comes down to shoddy housekeeping.](https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/) (2026-04-24)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Azure ML Pipelines + Azure DevOps: CI/CD for ML with Terraform 🔁](https://dev.to/suhas_mallesh/azure-ml-pipelines-azure-devops-cicd-for-ml-with-terraform-16oo) (2026-04-25)
-- [Join me in building a community-maintained fork of the Quill Editor 🙌](https://dev.to/jankapunkt/join-me-in-building-a-community-maintained-fork-of-the-quill-editor-29ib) (2026-04-25)
-- [The most important feature in our AI journaling app is the one where the AI shuts up. Day 7 of 30. 🌿](https://dev.to/vineetnegi0101/the-most-important-feature-in-our-ai-journaling-app-is-the-one-where-the-ai-shuts-up-day-7-of-30-2loh) (2026-04-25)
-- [From Tools to Teammates: What the Rise of AI Agents at Google Cloud NEXT ’26 Taught Me About the Future of Software](https://dev.to/rafasidhik/from-tools-to-teammates-what-the-rise-of-ai-agents-at-google-cloud-next-26-taught-me-about-the-5a1) (2026-04-25)
-- [How I Stopped My AI Agent From Reinventing the Wheel](https://dev.to/mehmet_tura_cc5b3a70e39b/how-i-stopped-my-ai-agent-from-reinventing-the-wheel-24eo) (2026-04-25)
+- [I Am Back](https://dev.to/alvarolorentedev/i-am-back-50d2) (2026-04-25)
+- [Long-Term Team Productivity](https://dev.to/alvarolorentedev/long-term-team-productivity-2510) (2026-04-25)
+- [The Announcement Google Cloud NEXT Made That Will Actually Change How Robots Work](https://dev.to/motedb/the-announcement-google-cloud-next-made-that-will-actually-change-how-robots-work-4p0i) (2026-04-25)
+- [Fairness in Child Safety AI: Why Demographic Parity Audits Are Not Optional](https://dev.to/sentinelsafety/fairness-in-child-safety-ai-why-demographic-parity-audits-are-not-optional-3iem) (2026-04-25)
+- [靠2M 的 Via 浏览器，独立开发者如何年入千万？](https://dev.to/gokuscraper/kao-2m-de-via-liu-lan-qi-du-li-kai-fa-zhe-ru-he-nian-ru-qian-mo--2pdm) (2026-04-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Eksperimen Keamanan Web: Mengamankan Portal Berita dari Serangan SQL Injection](https://medium.com/@fajarfawwaz350/eksperimen-keamanan-web-mengamankan-portal-berita-dari-serangan-sql-injection-afd6f4b0bfd5?source=rss------programming-5) (2026-04-25)
-- [ Virtual Private Database (VPD) with DBMS_RLS](https://medium.com/@pranavsb699/virtual-private-database-vpd-with-dbms-rls-38ee2864dd94?source=rss------programming-5) (2026-04-25)
-- [Kubernetes From Zero to Deployments: Namespaces, Pods, ReplicaSets & Rolling Updates (Hands-On)](https://medium.com/@varungopal286/kubernetes-from-zero-to-deployments-namespaces-pods-replicasets-rolling-updates-hands-on-6c8195c64f03?source=rss------programming-5) (2026-04-25)
-- [Why Your Claude Code Prompts Keep Failing (And the Framework That Fixes It)](https://pratikskarnik.medium.com/why-your-claude-code-prompts-keep-failing-and-the-framework-that-fixes-it-38255f0c8e90?source=rss------programming-5) (2026-04-25)
-- [I Used macOS Focus Mode Strictly for 30 Days. My Brain Is Different Now.](https://medium.com/macoclock/i-used-macos-focus-mode-strictly-for-30-days-my-brain-is-different-now-671b7cb5f438?source=rss------programming-5) (2026-04-25)
+- [The Tsundoku Trap: Why AI Makes You Start Everything and Finish Nothing](https://danielvaughan.medium.com/the-tsundoku-trap-why-ai-makes-you-start-everything-and-finish-nothing-7087184a4342?source=rss------programming-5) (2026-04-25)
+- [Programming Won’t Make You Rich — Until You Understand This](https://medium.com/@jnwafor219/programming-wont-make-you-rich-until-you-understand-this-ac1c5848c00e?source=rss------programming-5) (2026-04-25)
+- [AI Won’t Replace You — But Lazy Developers Will Be Destroyed](https://kawaldeepsingh.medium.com/ai-wont-replace-you-but-lazy-developers-will-be-destroyed-85fab339c463?source=rss------programming-5) (2026-04-25)
+- [Day 25 - Feature Scaling and Normalization: Why Your Model Cares About Units More Than You Think](https://medium.com/next-gen-cloud-journal/day-25-feature-scaling-and-normalization-why-your-model-cares-about-units-more-than-you-think-577af5b920af?source=rss------programming-5) (2026-04-25)
+- [TIGA SAMUDERA KESALEHAN](https://medium.com/@muhammadnurrofiq9/tiga-samudera-kesalehan-f28120b00423?source=rss------programming-5) (2026-04-25)
 
 </details>
 
@@ -362,16 +362,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Building an Inbound Voice Agent with Twilio and Deepgram
-](
-https://www.twilio.com/en-us/blog/partners/integrations/building-an-inbound-voice-agent-with-twilio-and-deepgram
-) (2026-04-24)
-- [
-Building an Outbound Voice Agent with Twilio and Deepgram
-](
-https://www.twilio.com/en-us/blog/partners/integrations/building-an-outbound-voice-agent-with-twilio-and-deepgram
-) (2026-04-24)
-- [
 Avoid Sending SMS to Landlines in Rust with Twilio's Lookup v2 API
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-landlines-lookup-v2-api-rust
@@ -386,6 +376,16 @@ Getting The Most for Your Money Using Automated SMS
 ](
 https://www.twilio.com/en-us/blog/developers/best-practices/getting-most-money-using-automated-sms
 ) (2026-04-21)
+- [
+17 types of post-purchase emails to build brand loyalty
+](
+https://www.twilio.com/en-us/blog/insights/post-purchase-emails
+) (2026-04-20)
+- [
+Reverse ETL vs. The Private Cloud: A Conceptual Survival Guide
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/integrations/reverse-etl-vs-the-private-cloud-survival-guide
+) (2026-04-20)
 
 </details>
 
