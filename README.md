@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Lachy Groom to back India startup Pronto at a $200M valuation, sources say](https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/) (2026-04-25)
 - [Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’](https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/) (2026-04-24)
 - [Palantir is reportedly helping the IRS investigate financial crimes](https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/) (2026-04-24)
 - [Cohere acquires, merges with Germany-based startup to create a ‘transatlantic AI powerhouse’](https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/) (2026-04-24)
 - [Two college kids raise a $5.1 million pre-seed to build an AI social network in iMessage](https://techcrunch.com/2026/04/24/two-college-kids-raise-a-5-1-million-pre-seed-to-build-an-ai-social-network-in-imessage/) (2026-04-24)
-- [Meta’s loss is Thinking Machines’ gain](https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/) (2026-04-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Education must go beyond the mere production of words](https://www.ncregister.com/commentaries/schnell-repairing-the-ruins) (2026-04-25)
-- [The bull case for graph DBs in law](https://alanyahya.com/writing/bull-case-graph-dbs-law) (2026-04-24)
-- [FusionCore: ROS 2 sensor fusion (IMU and GPS and encoders)](https://github.com/manankharwar/fusioncore) (2026-04-24)
-- [Show HN: I've built a nice home server OS](https://lightwhale.asklandd.dk/) (2026-04-24)
-- [Generalised plusequals](https://leontrolski.github.io/alt.html) (2026-04-24)
+- [New 10 GbE USB adapters are cooler, smaller, cheaper](https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/) (2026-04-25)
+- [Oxford All Souls College General Examination (2025) [pdf]](https://www.asc.ox.ac.uk/sites/default/files/2025-10/General%202025.pdf) (2026-04-25)
+- [Turbo Vision 2.0 – a modern port](https://github.com/magiblot/tvision) (2026-04-25)
+- [Firefox Has Integrated Brave's Adblock Engine](https://itsfoss.com/news/firefox-ships-brave-adblock-engine/) (2026-04-25)
+- [Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do](https://alash3al.github.io/stash?_v01) (2026-04-25)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [This is who's developing Golden Dome's orbital interceptors—if they're ever built](https://arstechnica.com/space/2026/04/this-is-whos-developing-golden-domes-orbital-interceptors-if-theyre-ever-built/) (2026-04-25)
 - [Google will invest as much as $40 billion in Anthropic](https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/) (2026-04-24)
 - [Europe—not US—first to authorize Moderna's combo mRNA flu-COVID vaccine](https://arstechnica.com/health/2026/04/europe-not-us-first-to-authorize-modernas-combo-mrna-flu-covid-vaccine/) (2026-04-24)
 - [FCC: Router ban includes portable hotspots, but not phones with hotspot features](https://arstechnica.com/tech-policy/2026/04/fcc-says-ban-on-foreign-made-routers-includes-portable-wi-fi-hotspots/) (2026-04-24)
 - [Why are top university websites serving porn? It comes down to shoddy housekeeping.](https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/) (2026-04-24)
-- [In rare chickenpox case, itchy blisters mushroom into large, rubbery nodules](https://arstechnica.com/health/2026/04/in-rare-chickenpox-case-itchy-blisters-mushroom-into-large-rubbery-nodules/) (2026-04-24)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [From RocksDB Pain to GraniteDB Gain: Building a Blockchain-First Storage Engine in Rust](https://dev.to/chronocoders/from-rocksdb-pain-to-granitedb-gain-building-a-blockchain-first-storage-engine-in-rust-5apk) (2026-04-25)
-- [Your AI agent already writes every session to disk. Why isn't it reading its own archive?](https://dev.to/mcarthey/your-ai-agent-already-writes-every-session-to-disk-why-isnt-it-reading-its-own-archive-2f3h) (2026-04-25)
-- [A Practical Guide to nylas auth scopes](https://dev.to/qasim157/a-practical-guide-to-nylas-auth-scopes-3fk) (2026-04-25)
-- [nylas auth token in Practice: Display current API token](https://dev.to/qasim157/nylas-auth-token-in-practice-display-current-api-token-43ph) (2026-04-25)
-- [Check authentication status — nylas auth status Guide](https://dev.to/qasim157/check-authentication-status-nylas-auth-status-guide-98f) (2026-04-25)
+- [Azure ML Pipelines + Azure DevOps: CI/CD for ML with Terraform 🔁](https://dev.to/suhas_mallesh/azure-ml-pipelines-azure-devops-cicd-for-ml-with-terraform-16oo) (2026-04-25)
+- [Join me in building a community-maintained fork of the Quill Editor 🙌](https://dev.to/jankapunkt/join-me-in-building-a-community-maintained-fork-of-the-quill-editor-29ib) (2026-04-25)
+- [The most important feature in our AI journaling app is the one where the AI shuts up. Day 7 of 30. 🌿](https://dev.to/vineetnegi0101/the-most-important-feature-in-our-ai-journaling-app-is-the-one-where-the-ai-shuts-up-day-7-of-30-2loh) (2026-04-25)
+- [From Tools to Teammates: What the Rise of AI Agents at Google Cloud NEXT ’26 Taught Me About the Future of Software](https://dev.to/rafasidhik/from-tools-to-teammates-what-the-rise-of-ai-agents-at-google-cloud-next-26-taught-me-about-the-5a1) (2026-04-25)
+- [How I Stopped My AI Agent From Reinventing the Wheel](https://dev.to/mehmet_tura_cc5b3a70e39b/how-i-stopped-my-ai-agent-from-reinventing-the-wheel-24eo) (2026-04-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Day 3 @ Google Cloud Next’26.](https://dmitry-kostyuk.medium.com/day-3-google-cloud-next26-a7819f2a3f5d?source=rss------programming-5) (2026-04-25)
-- [You Don’t Need Kubernetes Yet — Here’s When You Actually Do](https://sanajitjana.medium.com/you-dont-need-kubernetes-yet-here-s-when-you-actually-do-35107e734fe1?source=rss------programming-5) (2026-04-25)
-- [dpboss satta matka guessing 143 matka guessing](https://medium.com/@matkababa3/dpboss-satta-matka-guessing-143-matka-guessing-6697a8be7a41?source=rss------programming-5) (2026-04-25)
-- [Dpboss Satta Matka Guessing 100 Kalyan Matka call- 7608052457](https://medium.com/@dpbossmatka389/dpboss-satta-matka-guessing-100-kalyan-matka-call-7608052457-7fb47854db04?source=rss------programming-5) (2026-04-25)
-- [The 5 Next.js UI Libraries Actually Worth Your Time in 2026](https://medium.com/codetodeploy/the-5-next-js-ui-libraries-actually-worth-your-time-in-2026-51f7869c97bc?source=rss------programming-5) (2026-04-25)
+- [Eksperimen Keamanan Web: Mengamankan Portal Berita dari Serangan SQL Injection](https://medium.com/@fajarfawwaz350/eksperimen-keamanan-web-mengamankan-portal-berita-dari-serangan-sql-injection-afd6f4b0bfd5?source=rss------programming-5) (2026-04-25)
+- [ Virtual Private Database (VPD) with DBMS_RLS](https://medium.com/@pranavsb699/virtual-private-database-vpd-with-dbms-rls-38ee2864dd94?source=rss------programming-5) (2026-04-25)
+- [Kubernetes From Zero to Deployments: Namespaces, Pods, ReplicaSets & Rolling Updates (Hands-On)](https://medium.com/@varungopal286/kubernetes-from-zero-to-deployments-namespaces-pods-replicasets-rolling-updates-hands-on-6c8195c64f03?source=rss------programming-5) (2026-04-25)
+- [Why Your Claude Code Prompts Keep Failing (And the Framework That Fixes It)](https://pratikskarnik.medium.com/why-your-claude-code-prompts-keep-failing-and-the-framework-that-fixes-it-38255f0c8e90?source=rss------programming-5) (2026-04-25)
+- [I Used macOS Focus Mode Strictly for 30 Days. My Brain Is Different Now.](https://medium.com/macoclock/i-used-macos-focus-mode-strictly-for-30-days-my-brain-is-different-now-671b7cb5f438?source=rss------programming-5) (2026-04-25)
 
 </details>
 
@@ -362,6 +362,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Building an Inbound Voice Agent with Twilio and Deepgram
+](
+https://www.twilio.com/en-us/blog/partners/integrations/building-an-inbound-voice-agent-with-twilio-and-deepgram
+) (2026-04-24)
+- [
+Building an Outbound Voice Agent with Twilio and Deepgram
+](
+https://www.twilio.com/en-us/blog/partners/integrations/building-an-outbound-voice-agent-with-twilio-and-deepgram
+) (2026-04-24)
+- [
 Avoid Sending SMS to Landlines in Rust with Twilio's Lookup v2 API
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-landlines-lookup-v2-api-rust
@@ -376,16 +386,6 @@ Getting The Most for Your Money Using Automated SMS
 ](
 https://www.twilio.com/en-us/blog/developers/best-practices/getting-most-money-using-automated-sms
 ) (2026-04-21)
-- [
-17 types of post-purchase emails to build brand loyalty
-](
-https://www.twilio.com/en-us/blog/insights/post-purchase-emails
-) (2026-04-20)
-- [
-Reverse ETL vs. The Private Cloud: A Conceptual Survival Guide
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/reverse-etl-vs-the-private-cloud-survival-guide
-) (2026-04-20)
 
 </details>
 
@@ -569,11 +569,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/reverse-etl-
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Cursor V3 Explained: The AI Coding Agent That’s Replacing Traditional IDEs in 2026](https://www.analyticsvidhya.com/blog/2026/04/cursor-v3/) (2026-04-25)
 - [DeepSeek-V4: The Most Powerful Open-Source Model Ever](https://www.analyticsvidhya.com/blog/2026/04/deepseek-v4/) (2026-04-24)
 - [I Tried The New GPT 5.5 And I’m Never Going Back](https://www.analyticsvidhya.com/blog/2026/04/i-tried-the-new-gpt-5-5/) (2026-04-24)
 - [Is GPT Image 2 the Best Image Generation Model?](https://www.analyticsvidhya.com/blog/2026/04/gpt-image-2-best-image-generation-model/) (2026-04-23)
 - [Token Economics: Why AI is Getting “Cheaper”](https://www.analyticsvidhya.com/blog/2026/04/why-ai-is-getting-cheaper/) (2026-04-22)
-- [From Idea to Output: Claude Does the Design Work ](https://www.analyticsvidhya.com/blog/2026/04/from-idea-to-output-claude-design/) (2026-04-22)
 
 </details>
 
