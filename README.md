@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Lachy Groom to back India startup Pronto at a $200M valuation, sources say](https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/) (2026-04-25)
-- [Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’](https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/) (2026-04-24)
-- [Palantir is reportedly helping the IRS investigate financial crimes](https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/) (2026-04-24)
-- [Cohere acquires, merges with Germany-based startup to create a ‘transatlantic AI powerhouse’](https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/) (2026-04-24)
-- [Two college kids raise a $5.1 million pre-seed to build an AI social network in iMessage](https://techcrunch.com/2026/04/24/two-college-kids-raise-a-5-1-million-pre-seed-to-build-an-ai-social-network-in-imessage/) (2026-04-24)
+- [OpenAI CEO apologizes to Tumbler Ridge community](https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/) (2026-04-25)
+- [The climate tech IPO window could finally be cracking open](https://techcrunch.com/2026/04/25/the-climate-tech-ipo-window-could-finally-be-cracking-open/) (2026-04-25)
+- [Why Cohere is merging with Aleph Alpha](https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/) (2026-04-25)
+- [Why Tokyo is the most important tech destination of 2026](https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/) (2026-04-25)
+- [Apps to distract you from the endless cycle of doomscrolling](https://techcrunch.com/2026/04/25/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/) (2026-04-25)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Lambda Calculus Benchmark for AI](https://victortaelin.github.io/lambench/) (2026-04-25)
-- [A web-based RDP client built with Go WebAssembly and grdp](https://github.com/nakagami/grdpwasm) (2026-04-25)
-- [Martin Galway's music source files from 1980's Commodore 64 games](https://github.com/MartinGalway/C64_music) (2026-04-25)
-- [Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)](https://github.com/nex-crm/wuphf) (2026-04-25)
-- [New 10 GbE USB adapters are cooler, smaller, cheaper](https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/) (2026-04-25)
+- [Hokusai and Tesselations](https://dl.ndl.go.jp/pid/1899550/1/11/) (2026-04-25)
+- [Framework Laptop 13 Pro: Major Upgrades and Linux Front and Center](https://boilingsteam.com/framework-laptop-13-pro-announced/) (2026-04-25)
+- [Niri 26.04 was just released (scrollable-tiling Wayland compositor)](https://github.com/niri-wm/niri/releases/tag/v26.04) (2026-04-25)
+- [GPT 5.5 biosafety bounty](https://openai.com/index/gpt-5-5-bio-bug-bounty/) (2026-04-25)
+- [A Collection of Chronic Medical Conditions Common in Autistic and ADHD Adults [pdf] (2023)](https://allbrainsbelong.org/wp-content/uploads/2023/08/CLINICIAN-GUIDE-Everything-is-Connected-to-Everything-Project-All-Brains-Belong-VT-8.15.23.pdf) (2026-04-25)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Sho Miyake answers life’s greatest questions](https://www.theverge.com/entertainment/918313/director-sho-miyake-interview) (2026-04-25)
-- [The most exciting laptop I’ve seen in forever](https://www.theverge.com/tech/918695/framework-laptop-stranger-things-installer) (2026-04-25)
-- [The US gets the worst phones](https://www.theverge.com/gadgets/917340/us-worst-smartphones-china-batteries-cameras-apple-iphone-john-ternus) (2026-04-25)
-- [Microsoft will let you pause Windows Updates indefinitely, 35 days at a time](https://www.theverge.com/tech/918572/microsoft-windows-updates-pause-35-days) (2026-04-24)
-- [Alex Jones has uncovered another massive conspiracy](https://www.theverge.com/news/918527/alex-jones-infowars-takeover-the-onion-tim-heidecker) (2026-04-24)
+- [An influx of used EVs could drive down prices](https://www.theverge.com/tech/918765/an-influx-of-used-evs-could-drive-down-prices) (2026-04-25)
+- [Researchers say we’re talking less than ever](https://www.theverge.com/science/918753/researchers-talking-less) (2026-04-25)
+- [Sharge’s fast Qi2.2 MagSafe battery is down to $70 with a free USB-C cable](https://www.theverge.com/gadgets/918410/sharge-icemag-3-qi2-usb-c-wireless-power-bank-battery-deal-sale) (2026-04-25)
+- [The Govee smart lamp brightened up my room, and then my life](https://www.theverge.com/gadgets/913854/govee-uplighter-floor-lamps-caregiving-parkinsons-disease) (2026-04-25)
+- [Xbox’s weirdest studio is on a roll](https://www.theverge.com/games/918200/kiln-review-double-fine-xbox-ps5-steam) (2026-04-25)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [I Am Back](https://dev.to/alvarolorentedev/i-am-back-50d2) (2026-04-25)
-- [Long-Term Team Productivity](https://dev.to/alvarolorentedev/long-term-team-productivity-2510) (2026-04-25)
-- [The Announcement Google Cloud NEXT Made That Will Actually Change How Robots Work](https://dev.to/motedb/the-announcement-google-cloud-next-made-that-will-actually-change-how-robots-work-4p0i) (2026-04-25)
-- [Fairness in Child Safety AI: Why Demographic Parity Audits Are Not Optional](https://dev.to/sentinelsafety/fairness-in-child-safety-ai-why-demographic-parity-audits-are-not-optional-3iem) (2026-04-25)
-- [靠2M 的 Via 浏览器，独立开发者如何年入千万？](https://dev.to/gokuscraper/kao-2m-de-via-liu-lan-qi-du-li-kai-fa-zhe-ru-he-nian-ru-qian-mo--2pdm) (2026-04-25)
+- [When 'getting faster' isn't the same as 'getting better'](https://dev.to/palo_alto_ai/when-getting-faster-isnt-the-same-as-getting-better-43ih) (2026-04-25)
+- [I built a PostgreSQL learning platform with labs & quizzes — would love feedback](https://dev.to/missak_boyajian/i-built-a-postgresql-learning-platform-with-labs-quizzes-would-love-feedback-14fh) (2026-04-25)
+- [Can your code survive 1.5 Billion rounds of digital betrayal? Submit your strategy!](https://dev.to/ferruscpp/can-your-code-survive-14-billion-rounds-of-digital-betrayal-submit-your-strategy-afl) (2026-04-25)
+- [Is a Data Science Bootcamp Worth It in 2026?](https://dev.to/juan_diegoisazaa_5362a/is-a-data-science-bootcamp-worth-it-in-2026-12dk) (2026-04-25)
+- [How Website Technology Detection Actually Works](https://dev.to/webreveal/how-website-technology-detection-actually-works-56je) (2026-04-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Tsundoku Trap: Why AI Makes You Start Everything and Finish Nothing](https://danielvaughan.medium.com/the-tsundoku-trap-why-ai-makes-you-start-everything-and-finish-nothing-7087184a4342?source=rss------programming-5) (2026-04-25)
-- [Programming Won’t Make You Rich — Until You Understand This](https://medium.com/@jnwafor219/programming-wont-make-you-rich-until-you-understand-this-ac1c5848c00e?source=rss------programming-5) (2026-04-25)
-- [AI Won’t Replace You — But Lazy Developers Will Be Destroyed](https://kawaldeepsingh.medium.com/ai-wont-replace-you-but-lazy-developers-will-be-destroyed-85fab339c463?source=rss------programming-5) (2026-04-25)
-- [Day 25 - Feature Scaling and Normalization: Why Your Model Cares About Units More Than You Think](https://medium.com/next-gen-cloud-journal/day-25-feature-scaling-and-normalization-why-your-model-cares-about-units-more-than-you-think-577af5b920af?source=rss------programming-5) (2026-04-25)
-- [TIGA SAMUDERA KESALEHAN](https://medium.com/@muhammadnurrofiq9/tiga-samudera-kesalehan-f28120b00423?source=rss------programming-5) (2026-04-25)
+- [Redis vs Caffeine vs Ehcache: Which Spring Boot Cache Should You Actually Use?](https://blog.stackademic.com/redis-vs-caffeine-vs-ehcache-which-spring-boot-cache-should-you-actually-use-0d2dadfbb58b?source=rss------programming-5) (2026-04-25)
+- [Why Google’s $40B Anthropic Bet Will Reshape How You Build AI](https://medium.com/@sebuzdugan/why-googles-40b-anthropic-bet-will-reshape-how-you-build-ai-19da5595453a?source=rss------programming-5) (2026-04-25)
+- [How Claude Opus 4.6](https://medium.com/codex/how-claude-opus-4-6-4d693fefd1f3?source=rss------programming-5) (2026-04-25)
+- [From Tools to Agents: The Inversion of Software and the Rise of Autonomous Systems](https://medium.com/@fahey_james/from-tools-to-agents-the-inversion-of-software-and-the-rise-of-autonomous-systems-09f1b141d5ee?source=rss------programming-5) (2026-04-25)
+- [5 Ways People Are Actually Using OpenClaw (Beyond the Hype)](https://medium.com/write-a-catalyst/5-ways-people-are-actually-using-openclaw-beyond-the-hype-6488d215455c?source=rss------programming-5) (2026-04-25)
 
 </details>
 
@@ -362,6 +362,16 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Building an Inbound Voice Agent with Twilio and Deepgram
+](
+https://www.twilio.com/en-us/blog/partners/integrations/building-an-inbound-voice-agent-with-twilio-and-deepgram
+) (2026-04-24)
+- [
+Building an Outbound Voice Agent with Twilio and Deepgram
+](
+https://www.twilio.com/en-us/blog/partners/integrations/building-an-outbound-voice-agent-with-twilio-and-deepgram
+) (2026-04-24)
+- [
 Avoid Sending SMS to Landlines in Rust with Twilio's Lookup v2 API
 ](
 https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-landlines-lookup-v2-api-rust
@@ -376,16 +386,6 @@ Getting The Most for Your Money Using Automated SMS
 ](
 https://www.twilio.com/en-us/blog/developers/best-practices/getting-most-money-using-automated-sms
 ) (2026-04-21)
-- [
-17 types of post-purchase emails to build brand loyalty
-](
-https://www.twilio.com/en-us/blog/insights/post-purchase-emails
-) (2026-04-20)
-- [
-Reverse ETL vs. The Private Cloud: A Conceptual Survival Guide
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/integrations/reverse-etl-vs-the-private-cloud-survival-guide
-) (2026-04-20)
 
 </details>
 
@@ -558,11 +558,11 @@ https://www.twilio.com/en-us/blog/developers/tutorials/integrations/reverse-etl-
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Causal Inference Is Different in Business](https://towardsdatascience.com/causal-inference-is-different-in-business/) (2026-04-25)
+- [The Essential Guide to Effectively Summarizing Massive Documents, Part 2](https://towardsdatascience.com/the-essential-guide-to-effectively-summarizing-massive-documents-part-2/) (2026-04-25)
 - [Introduction to Approximate Solution Methods for Reinforcement Learning](https://towardsdatascience.com/introduction-to-approximate-solution-methods-for-reinforcement-learning-2/) (2026-04-24)
 - [I Built an AI Pipeline for Kindle Highlights](https://towardsdatascience.com/i-built-an-ai-pipeline-for-kindle-highlights/) (2026-04-24)
 - [How to Improve Claude Code Performance with Automated Testing](https://towardsdatascience.com/how-to-vastly-improve-claude-code-performance-with-automated-testing/) (2026-04-24)
-- [How to Select Variables Robustly in a Scoring Model](https://towardsdatascience.com/how-to-select-variables-robustly-in-a-scoring-model/) (2026-04-24)
-- [Using a Local LLM as a Zero-Shot Classifier](https://towardsdatascience.com/using-a-local-llm-as-a-zero-shot-classifier/) (2026-04-23)
 
 </details>
 
