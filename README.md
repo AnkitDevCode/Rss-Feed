@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Google to invest up to $40B in Anthropic in cash and compute](https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/) (2026-04-24)
-- [Marked-up Mac minis flood eBay amid shortages driven by AI](https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/) (2026-04-24)
-- [Nuclear startup X-energy raises $1B in data center-driven IPO](https://techcrunch.com/2026/04/24/nuclear-startup-x-energy-raises-1b-in-data-center-driven-ipo/) (2026-04-24)
-- [Another spyware maker caught distributing fake Android snooping apps](https://techcrunch.com/2026/04/24/another-spyware-maker-caught-distributing-fake-android-snooping-apps/) (2026-04-24)
-- [Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event](https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/) (2026-04-24)
+- [Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’](https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/) (2026-04-24)
+- [Palantir is reportedly helping the IRS investigate financial crimes](https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/) (2026-04-24)
+- [Cohere acquires, merges with Germany-based startup to create a ‘transatlantic AI powerhouse’](https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/) (2026-04-24)
+- [Two college kids raise a $5.1 million pre-seed to build an AI social network in iMessage](https://techcrunch.com/2026/04/24/two-college-kids-raise-a-5-1-million-pre-seed-to-build-an-ai-social-network-in-imessage/) (2026-04-24)
+- [Meta’s loss is Thinking Machines’ gain](https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/) (2026-04-24)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [CSS as a Query Language](https://evdc.me/blog/css-query) (2026-04-24)
-- [Tariffs Raised Consumers' Prices, but the Refunds Go Only to Businesses](https://www.nytimes.com/2026/04/24/us/politics/companies-consumers-tariff-refunds.html) (2026-04-24)
-- [Tesla (TSLA) discloses $2B AI hardware company acquisition buried](https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/) (2026-04-24)
-- [Redesigning the Recurse Center application to inspire curious programmers](https://www.recurse.com/blog/192-redesigning-the-recurse-center-application) (2026-04-24)
-- [SDL Now Supports DOS](https://github.com/libsdl-org/SDL/pull/15377) (2026-04-24)
+- [Education must go beyond the mere production of words](https://www.ncregister.com/commentaries/schnell-repairing-the-ruins) (2026-04-25)
+- [The bull case for graph DBs in law](https://alanyahya.com/writing/bull-case-graph-dbs-law) (2026-04-24)
+- [FusionCore: ROS 2 sensor fusion (IMU and GPS and encoders)](https://github.com/manankharwar/fusioncore) (2026-04-24)
+- [Show HN: I've built a nice home server OS](https://lightwhale.asklandd.dk/) (2026-04-24)
+- [Generalised plusequals](https://leontrolski.github.io/alt.html) (2026-04-24)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Microsoft will let you pause Windows Updates indefinitely, 35 days at a time](https://www.theverge.com/tech/918572/microsoft-windows-updates-pause-35-days) (2026-04-24)
+- [Alex Jones has uncovered another massive conspiracy](https://www.theverge.com/news/918527/alex-jones-infowars-takeover-the-onion-tim-heidecker) (2026-04-24)
+- [The person who allegedly leaked Paramount’s new Avatar movie has been arrested](https://www.theverge.com/entertainment/918250/avatar-aang-the-last-airbender-leaks-arrest-paramount-plus) (2026-04-24)
 - [BMW is one step closer to selling you a color-changing car](https://www.theverge.com/tech/918216/bmw-ix3-flow-edition-concept-car-2026-beijing-auto-show-e-ink-color-changing) (2026-04-24)
 - [Google’s handsome Pixel Watch 4 is on sale for $40 off in both size configurations](https://www.theverge.com/gadgets/917924/google-pixel-watch-4-apple-airpods-deal-sale) (2026-04-24)
-- [The RAM shortage could get even worse if Samsung labor protests cut production](https://www.theverge.com/tech/918301/samsung-south-korea-union-protests) (2026-04-24)
-- [How Project Maven taught the military to love AI](https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson) (2026-04-24)
-- [Xreal’s best AR glasses are $599 for good now](https://www.theverge.com/gadgets/918169/xreal-one-pro-ar-glasses-price-cut-deal-sale) (2026-04-24)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Soldier won $410K in Polymarket bets on timing of Maduro capture, US alleges](https://arstechnica.com/tech-policy/2026/04/soldier-won-410k-in-polymarket-bets-on-timing-of-maduro-capture-us-alleges/) (2026-04-24)
-- [Meet the 19-meter Cretaceous kraken that swam with mosasaurs](https://arstechnica.com/science/2026/04/meet-the-19-meter-cretaceous-kraken-that-swam-with-mosasaurs/) (2026-04-24)
-- [Report: Samsung execs worried company could lose money on smartphones for the first time](https://arstechnica.com/gadgets/2026/04/samsung-may-be-bracing-for-first-ever-annual-loss-in-smartphone-business/) (2026-04-24)
-- [Man faces 5 years in prison for using AI to fake sighting of runaway wolf](https://arstechnica.com/tech-policy/2026/04/after-wolf-escaped-zoo-man-arrested-for-creating-fake-ai-sighting-for-fun/) (2026-04-24)
-- [Well, this is embarrassing: The Lunar Gateway's primary modules are corroded](https://arstechnica.com/space/2026/04/well-this-is-embarrassing-the-lunar-gateways-primary-modules-are-corroded/) (2026-04-24)
+- [Google will invest as much as $40 billion in Anthropic](https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/) (2026-04-24)
+- [Europe—not US—first to authorize Moderna's combo mRNA flu-COVID vaccine](https://arstechnica.com/health/2026/04/europe-not-us-first-to-authorize-modernas-combo-mrna-flu-covid-vaccine/) (2026-04-24)
+- [FCC: Router ban includes portable hotspots, but not phones with hotspot features](https://arstechnica.com/tech-policy/2026/04/fcc-says-ban-on-foreign-made-routers-includes-portable-wi-fi-hotspots/) (2026-04-24)
+- [Why are top university websites serving porn? It comes down to shoddy housekeeping.](https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/) (2026-04-24)
+- [In rare chickenpox case, itchy blisters mushroom into large, rubbery nodules](https://arstechnica.com/health/2026/04/in-rare-chickenpox-case-itchy-blisters-mushroom-into-large-rubbery-nodules/) (2026-04-24)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Three reasons why DeepSeek’s new model matters](https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/) (2026-04-24)
 - [The Download: supercharged scams and studying AI healthcare](https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/) (2026-04-24)
 - [Health-care AI is here. We don’t know if it actually helps patients.](https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/) (2026-04-24)
 - [The Download: introducing the Nature issue](https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/) (2026-04-23)
 - [Will fusion power get cheap? Don’t count on it.](https://www.technologyreview.com/2026/04/23/1136329/fusion-power-cost/) (2026-04-23)
-- [The Download: introducing the 10 Things That Matter in AI Right Now](https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/) (2026-04-22)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [🛠️ merge_payment_ledger: Merge Gumroad, Stripe, and PayPal CSVs into a unified ledger for easy](https://dev.to/goldenalien/mergepaymentledger-merge-gumroad-stripe-and-paypal-csvs-into-a-unified-ledger-for-easy-206o) (2026-04-24)
-- [The N+1 Query Problem That's Silently Slowing Your Django App](https://dev.to/h_coder/the-n1-query-problem-thats-silently-slowing-your-django-app-1n2l) (2026-04-24)
-- [The 7 Postgres Indexes That Took My API From 400ms to 40ms](https://dev.to/raxxostudios/the-7-postgres-indexes-that-took-my-api-from-400ms-to-40ms-332f) (2026-04-24)
-- [Angular Signals](https://dev.to/aleksandr_gusev_it/angular-signals-2bd2) (2026-04-24)
-- [TechDocs - A startup idea for technical writing](https://dev.to/baddocsbettercareer/techdocs-a-startup-idea-for-technical-writing-1007) (2026-04-24)
+- [From RocksDB Pain to GraniteDB Gain: Building a Blockchain-First Storage Engine in Rust](https://dev.to/chronocoders/from-rocksdb-pain-to-granitedb-gain-building-a-blockchain-first-storage-engine-in-rust-5apk) (2026-04-25)
+- [Your AI agent already writes every session to disk. Why isn't it reading its own archive?](https://dev.to/mcarthey/your-ai-agent-already-writes-every-session-to-disk-why-isnt-it-reading-its-own-archive-2f3h) (2026-04-25)
+- [A Practical Guide to nylas auth scopes](https://dev.to/qasim157/a-practical-guide-to-nylas-auth-scopes-3fk) (2026-04-25)
+- [nylas auth token in Practice: Display current API token](https://dev.to/qasim157/nylas-auth-token-in-practice-display-current-api-token-43ph) (2026-04-25)
+- [Check authentication status — nylas auth status Guide](https://dev.to/qasim157/check-authentication-status-nylas-auth-status-guide-98f) (2026-04-25)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How to Classify Documents with AI in Python](https://cloudmersive.medium.com/how-to-classify-documents-with-ai-in-python-7bb41fa5b367?source=rss------programming-5) (2026-04-24)
-- [Are you a Software Developer or a Software Engineer?](https://medium.com/@karponi/are-you-a-software-developer-or-a-software-engineer-d52a4247e78d?source=rss------programming-5) (2026-04-24)
-- [The Privilege of Having Time to Try](https://medium.com/@sameena.nbaig/the-privilege-of-having-time-to-try-10f54133b6c0?source=rss------programming-5) (2026-04-24)
-- [Common Threat Vectors (Attack Vectors)](https://medium.com/@mahdisaghayi/common-threat-vectors-attack-vectors-406a4b1852c2?source=rss------programming-5) (2026-04-24)
-- [And then I found my second crush — web development](https://medium.com/@boybilal/and-then-i-found-my-second-crush-web-development-85d6ea2d45f8?source=rss------programming-5) (2026-04-24)
+- [Day 3 @ Google Cloud Next’26.](https://dmitry-kostyuk.medium.com/day-3-google-cloud-next26-a7819f2a3f5d?source=rss------programming-5) (2026-04-25)
+- [You Don’t Need Kubernetes Yet — Here’s When You Actually Do](https://sanajitjana.medium.com/you-dont-need-kubernetes-yet-here-s-when-you-actually-do-35107e734fe1?source=rss------programming-5) (2026-04-25)
+- [dpboss satta matka guessing 143 matka guessing](https://medium.com/@matkababa3/dpboss-satta-matka-guessing-143-matka-guessing-6697a8be7a41?source=rss------programming-5) (2026-04-25)
+- [Dpboss Satta Matka Guessing 100 Kalyan Matka call- 7608052457](https://medium.com/@dpbossmatka389/dpboss-satta-matka-guessing-100-kalyan-matka-call-7608052457-7fb47854db04?source=rss------programming-5) (2026-04-25)
+- [The 5 Next.js UI Libraries Actually Worth Your Time in 2026](https://medium.com/codetodeploy/the-5-next-js-ui-libraries-actually-worth-your-time-in-2026-51f7869c97bc?source=rss------programming-5) (2026-04-25)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform](https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/) (2026-04-23)
+- [Microsoft Discovery: Advancing agentic R&D at scale](https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/) (2026-04-22)
 - [Introducing Azure Accelerate for Databases: Modernize your data for AI with experts and investments](https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/) (2026-04-22)
 - [Cloud Cost Optimization: Principles that still matter](https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/) (2026-04-15)
 - [Optimize object storage costs automatically with smart tier—now generally available](https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/) (2026-04-14)
-- [Microsoft named a Leader in The Forrester Wave™ for Sovereign Cloud Platforms](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/) (2026-04-09)
-- [How Drasi used GitHub Copilot to find documentation bugs](https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/) (2026-04-09)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.36: Fine-Grained Kubelet API Authorization Graduates to GA](https://kubernetes.io/blog/2026/04/24/kubernetes-v1-36-fine-grained-kubelet-authorization-ga/) (2026-04-24)
 - [Kubernetes v1.36: User Namespaces in Kubernetes are finally GA](https://kubernetes.io/blog/2026/04/23/kubernetes-v1-36-userns-ga/) (2026-04-23)
 - [SELinux Volume Label Changes goes GA (and likely implications in v1.37)](https://kubernetes.io/blog/2026/04/22/breaking-changes-in-selinux-volume-labeling/) (2026-04-22)
 - [Kubernetes v1.36: ハル (Haru)](https://kubernetes.io/blog/2026/04/22/kubernetes-v1-36-release/) (2026-04-22)
 - [Gateway API v1.5: Moving features to Stable](https://kubernetes.io/blog/2026/04/21/gateway-api-v1-5/) (2026-04-21)
-- [Kubernetes v1.36 Sneak Peek](https://kubernetes.io/blog/2026/03/30/kubernetes-v1-36-sneak-peek/) (2026-03-30)
 
 </details>
 
