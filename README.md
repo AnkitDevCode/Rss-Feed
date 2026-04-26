@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [TechCrunch Mobility: Elon’s admission](https://techcrunch.com/2026/04/26/techcrunch-mobility-elons-admission/) (2026-04-26)
+- [To buy this Bay Area home, you’ll need Anthropic equity](https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/) (2026-04-26)
+- [SpeakOn’s dictation device is a good idea marred by platform limitations](https://techcrunch.com/2026/04/26/speakons-dictation-device-is-a-good-idea-marred-by-platform-limitations/) (2026-04-26)
 - [Anthropic created a test marketplace for agent-on-agent commerce](https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/) (2026-04-25)
 - [Maine’s governor vetoes data center moratorium](https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/) (2026-04-25)
-- [OpenAI CEO apologizes to Tumbler Ridge community](https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/) (2026-04-25)
-- [The climate tech IPO window could finally be cracking open](https://techcrunch.com/2026/04/25/the-climate-tech-ipo-window-could-finally-be-cracking-open/) (2026-04-25)
-- [Why Cohere is merging with Aleph Alpha](https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/) (2026-04-25)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Asahi Linux Progress Linux 7.0](https://asahilinux.org/2026/04/progress-report-7-0/) (2026-04-26)
-- [Show HN: A free ESG stock screener that publishes its losses and methodology](https://jumpstartsignal.com/) (2026-04-26)
-- [Statecharts: hierarchical state machines](https://statecharts.dev/) (2026-04-26)
-- [Eden AI – European Alternative to OpenRouter](https://www.edenai.co) (2026-04-26)
-- [Exposing Floating Point – Bartosz Ciechanowski (2019)](https://ciechanow.ski/exposing-floating-point/) (2026-04-26)
+- [Dillo Browser Release 3.3.0](https://dillo-browser.org/release/3.3.0/) (2026-04-26)
+- [GoDaddy Gave a Domain to a Stranger Without Any Documentation](https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/) (2026-04-26)
+- [The Visible Zorker: Zork 1](https://eblong.com/infocom/visi/zork1/) (2026-04-26)
+- [Clay PCB Tutorial](https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial) (2026-04-26)
+- [Free Textbook on Engineering Thermodynamics](https://thermodynamicsbook.com/) (2026-04-26)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The plan to quietly kill Coyote v. Acme blew up in David Zaslav&#8217;s face](https://www.theverge.com/column/918079/david-zaslav-warner-bros-discovery-coyote-v-acme-batgirl-tax-writeoffs) (2026-04-26)
-- [Trump fires the entire National Science Board](https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board) (2026-04-25)
-- [An influx of used EVs could drive down prices](https://www.theverge.com/tech/918765/an-influx-of-used-evs-could-drive-down-prices) (2026-04-25)
-- [Researchers say we’re talking less than ever](https://www.theverge.com/science/918753/researchers-talking-less) (2026-04-25)
-- [Sharge’s fast Qi2.2 MagSafe battery is down to $70 with a free USB-C cable](https://www.theverge.com/gadgets/918410/sharge-icemag-3-qi2-usb-c-wireless-power-bank-battery-deal-sale) (2026-04-25)
+- [Google’s new gradient icon design is coming to more apps](https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps) (2026-04-26)
+- [Trump turns the WHCD shooting into a pitch for the White House ballroom](https://www.theverge.com/policy/918843/trump-whcd-attack-white-house-ballroom) (2026-04-26)
+- [Tomora’s Come Closer is an ecstatic love letter to 90s dance music](https://www.theverge.com/entertainment/918826/tomora-come-closer-review-90s-dance-music) (2026-04-26)
+- [Skylight’s 15-inch smart calendar is down to its lowest price to date](https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale) (2026-04-26)
+- [After three months on Linux, I don’t miss Windows at all](https://www.theverge.com/tech/918797/switched-to-linux-dont-miss-windows) (2026-04-26)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Prime Video drops full trailer for Spider-Noir](https://arstechnica.com/culture/2026/04/prime-video-drops-full-trailer-for-spider-noir/) (2026-04-26)
 - [New robotic control software avoids jamming their joints](https://arstechnica.com/science/2026/04/kinematic-intelligence-helps-robots-learn-their-limits/) (2026-04-26)
 - [Artemis II broke Fred Haise's distance record, but he is happy to pass it on](https://arstechnica.com/science/2026/04/artemis-ii-broke-fred-haises-distance-record-but-he-is-happy-to-pass-it-on/) (2026-04-25)
 - [Palantir employees are talking about company's "descent into fascism"](https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/) (2026-04-25)
 - [This is who's developing Golden Dome's orbital interceptors—if they're ever built](https://arstechnica.com/space/2026/04/this-is-whos-developing-golden-domes-orbital-interceptors-if-theyre-ever-built/) (2026-04-25)
-- [Google will invest as much as $40 billion in Anthropic](https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/) (2026-04-24)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Privacy-first mind mapping app. Part 5: UI / Keyboard First](https://dev.to/kornel_maraz_5e66a3e4e27d/privacy-first-mind-mapping-app-part-5-ui-keyboard-first-4797) (2026-04-26)
-- [Hierarchical Bayesian Regression with PyMC: When Groups Share Strength](https://dev.to/berkan_sesen/hierarchical-bayesian-regression-with-pymc-when-groups-share-strength-2hag) (2026-04-26)
-- [Shopify's AI Self-Review Tool: How to Pass App Store Review on the First Try](https://dev.to/harsh_rastogi/shopifys-ai-self-review-tool-how-to-pass-app-store-review-on-the-first-try-4040) (2026-04-26)
-- [The Grant Writer's AI Guardian: Avoiding Pitfalls Through Governance](https://dev.to/ken_deng_ai/the-grant-writers-ai-guardian-avoiding-pitfalls-through-governance-53ln) (2026-04-26)
-- [Free Claude Code with Lynkr + Kilo Gateway](https://dev.to/kalpesh47/free-claude-code-with-lynkr-kilo-gateway-4lad) (2026-04-26)
+- [Securely Deploying OpenClaw on a VPS With Enterprise Grade Access Control](https://dev.to/dean0x/securely-deploying-openclaw-on-a-vps-with-enterprise-grade-access-control-32ji) (2026-04-26)
+- [Godel's Dichotomy as Lifecycle Disjunction: A Statement-Distributive Reframing (Paper 138)](https://dev.to/fc0web/godels-dichotomy-as-lifecycle-disjunction-a-statement-distributive-reframing-paper-138-b13) (2026-04-26)
+- [Agentic Testing Has a Discovery Gap Nobody Talks About](https://dev.to/muggleai/agentic-testing-has-a-discovery-gap-nobody-talks-about-3a9b) (2026-04-26)
+- [🦞 I Built a Safe Autonomous Email Agent with OpenClaw and It Actually Works](https://dev.to/samir_vaniya_ce9cc284f2f8/i-built-a-safe-autonomous-email-agent-with-openclaw-and-it-actually-works-1kmh) (2026-04-26)
+- [I Taught Two AIs What Not to Say About Their Humans](https://dev.to/jasmin/i-taught-two-ais-what-not-to-say-about-their-humans-2148) (2026-04-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [5 Skills Every Developer Must Have that AI Can’t Replace](https://medium.com/ai-engineering-simplified/5-skills-every-developer-must-have-that-ai-cant-replace-7d4f961983c4?source=rss------programming-5) (2026-04-26)
-- [How to Design Features Before Writing a Single Line of Code](https://meetpan1048.medium.com/how-to-design-features-before-writing-a-single-line-of-code-149c009b4153?source=rss------programming-5) (2026-04-26)
-- [Membongkar Celah Keamanan Website: Eksperimen SQL Injection pada Sistem Login Sederhana](https://medium.com/@hafizfatur004/membongkar-celah-keamanan-website-eksperimen-sql-injection-pada-sistem-login-sederhana-6b06eb84670f?source=rss------programming-5) (2026-04-26)
-- [Developers V/s Vibe Coders — You really believe developers are winning in 2026?](https://medium.com/@atulprogrammer/developers-v-s-vibe-coders-you-really-believe-developers-are-winning-in-2026-7d76d468b9c8?source=rss------programming-5) (2026-04-26)
-- [Why Your AI App Gives Wrong Answers (And How to Fix It)](https://ai.plainenglish.io/why-your-ai-app-gives-wrong-answers-and-how-to-fix-it-9f348ae68924?source=rss------programming-5) (2026-04-26)
+- [Nobody Told Me AI Would Make Me Question My Entire Career at 29](https://medium.com/@TechForEveryone/nobody-told-me-ai-would-make-me-question-my-entire-career-at-29-5ff21639ffc0?source=rss------programming-5) (2026-04-26)
+- [An overview of the Qdrant Database](https://todayamerican.medium.com/an-overview-of-the-qdrant-database-be1547433441?source=rss------programming-5) (2026-04-26)
+- [The Ghost in the Machine: Why My $4,000 AI Rig Felt Like a Paperweight](https://medium.com/@ayeshha2398/the-ghost-in-the-machine-why-my-4-000-ai-rig-felt-like-a-paperweight-55ad97b37462?source=rss------programming-5) (2026-04-26)
+- [Kikplate: The Easiest Way to Start with Production-Ready Boilerplates](https://itnext.io/kikplate-the-easiest-way-to-start-with-production-ready-boilerplates-9ddd5ebe98c9?source=rss------programming-5) (2026-04-26)
+- [I Replaced 47 If-Else Blocks With Strategy Pattern. The Code Finally Started Breathing.](https://medium.com/@samurai.stateless.coder/replace-if-else-with-strategy-pattern-java-clean-code-6684b200fac1?source=rss------programming-5) (2026-04-26)
 
 </details>
 
@@ -457,17 +457,6 @@ https://www.twilio.com/en-us/blog/developers/best-practices/getting-most-money-u
 </details>
 
 <details>
-<summary>🚀 Apollo GraphQL</summary>
-
-- [View Operational Insights Within the GraphOS Platform API](https://www.apollographql.com/blog/view-operational-insights-within-the-graphos-platform-api) (2026-04-13)
-- [Your AI Agent Doesn’t Need to Research. It Needs to Know.](https://www.apollographql.com/blog/your-ai-agent-doesnt-need-to-research-it-needs-to-know) (2026-04-07)
-- [How to Orchestrate Multiple APIs for Your LLM Agent](https://www.apollographql.com/blog/how-to-orchestrate-multiple-apis-for-your-llm-agent) (2026-03-26)
-- [How To Make Your Existing GraphQL API AI-Ready With Apollo](https://www.apollographql.com/blog/how-to-make-your-existing-graphql-api-ai-ready-with-apollo) (2026-03-19)
-- [How We Taught an AI to Nitpick Docs](https://www.apollographql.com/blog/how-we-taught-an-ai-to-nitpick-docs) (2026-03-16)
-
-</details>
-
-<details>
 <summary>📊 Airtable Blog</summary>
 
 - [Applications closing for the Airtable AI Incubator](https://blog.airtable.com/applications-closing-for-the-airtable-ai-incubator/) (2025-09-29)
@@ -547,11 +536,11 @@ https://www.twilio.com/en-us/blog/developers/best-practices/getting-most-money-u
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Bytes Speak All Languages: Cross-Script Name Retrieval via Contrastive Learning](https://towardsdatascience.com/bytes-speak-all-languages-cross-script-name-retrieval-via-contrastive-learning/) (2026-04-26)
+- [I Reduced My Pandas Runtime by 95% — Here’s What I Was Doing Wrong](https://towardsdatascience.com/i-reduced-my-pandas-runtime-by-95-heres-what-i-was-doing-wrong/) (2026-04-26)
 - [Causal Inference Is Different in Business](https://towardsdatascience.com/causal-inference-is-different-in-business/) (2026-04-25)
 - [The Essential Guide to Effectively Summarizing Massive Documents, Part 2](https://towardsdatascience.com/the-essential-guide-to-effectively-summarizing-massive-documents-part-2/) (2026-04-25)
 - [Introduction to Approximate Solution Methods for Reinforcement Learning](https://towardsdatascience.com/introduction-to-approximate-solution-methods-for-reinforcement-learning-2/) (2026-04-24)
-- [I Built an AI Pipeline for Kindle Highlights](https://towardsdatascience.com/i-built-an-ai-pipeline-for-kindle-highlights/) (2026-04-24)
-- [How to Improve Claude Code Performance with Automated Testing](https://towardsdatascience.com/how-to-vastly-improve-claude-code-performance-with-automated-testing/) (2026-04-24)
 
 </details>
 
