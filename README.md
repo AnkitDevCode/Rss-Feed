@@ -31,33 +31,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)](https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health) (2026-04-26)
-- [The West Forgot How to Make Things. Now It's Forgetting How to Code](https://techtrenches.dev/p/the-west-forgot-how-to-make-things) (2026-04-26)
-- [AGPLv3§74 Empowers Users to Thwart Badgeware Like OnlyOffice](https://sfconservancy.org/blog/2026/apr/16/badgeware-onlyoffice-nextcloud-affero-gpl/) (2026-04-26)
-- [Show HN: Browse GitHub repos in Emacs without cloning](https://github.com/agzam/remoto.el) (2026-04-26)
-- [EU Age Control: The trojan horse for digital IDs](https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/) (2026-04-26)
+- [Asahi Linux Progress Linux 7.0](https://asahilinux.org/2026/04/progress-report-7-0/) (2026-04-26)
+- [Show HN: A free ESG stock screener that publishes its losses and methodology](https://jumpstartsignal.com/) (2026-04-26)
+- [Statecharts: hierarchical state machines](https://statecharts.dev/) (2026-04-26)
+- [Eden AI – European Alternative to OpenRouter](https://www.edenai.co) (2026-04-26)
+- [Exposing Floating Point – Bartosz Ciechanowski (2019)](https://ciechanow.ski/exposing-floating-point/) (2026-04-26)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [The plan to quietly kill Coyote v. Acme blew up in David Zaslav&#8217;s face](https://www.theverge.com/column/918079/david-zaslav-warner-bros-discovery-coyote-v-acme-batgirl-tax-writeoffs) (2026-04-26)
 - [Trump fires the entire National Science Board](https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board) (2026-04-25)
 - [An influx of used EVs could drive down prices](https://www.theverge.com/tech/918765/an-influx-of-used-evs-could-drive-down-prices) (2026-04-25)
 - [Researchers say we’re talking less than ever](https://www.theverge.com/science/918753/researchers-talking-less) (2026-04-25)
 - [Sharge’s fast Qi2.2 MagSafe battery is down to $70 with a free USB-C cable](https://www.theverge.com/gadgets/918410/sharge-icemag-3-qi2-usb-c-wireless-power-bank-battery-deal-sale) (2026-04-25)
-- [The Govee smart lamp brightened up my room, and then my life](https://www.theverge.com/gadgets/913854/govee-uplighter-floor-lamps-caregiving-parkinsons-disease) (2026-04-25)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [New robotic control software avoids jamming their joints](https://arstechnica.com/science/2026/04/kinematic-intelligence-helps-robots-learn-their-limits/) (2026-04-26)
 - [Artemis II broke Fred Haise's distance record, but he is happy to pass it on](https://arstechnica.com/science/2026/04/artemis-ii-broke-fred-haises-distance-record-but-he-is-happy-to-pass-it-on/) (2026-04-25)
 - [Palantir employees are talking about company's "descent into fascism"](https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/) (2026-04-25)
 - [This is who's developing Golden Dome's orbital interceptors—if they're ever built](https://arstechnica.com/space/2026/04/this-is-whos-developing-golden-domes-orbital-interceptors-if-theyre-ever-built/) (2026-04-25)
 - [Google will invest as much as $40 billion in Anthropic](https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/) (2026-04-24)
-- [Europe—not US—first to authorize Moderna's combo mRNA flu-COVID vaccine](https://arstechnica.com/health/2026/04/europe-not-us-first-to-authorize-modernas-combo-mrna-flu-covid-vaccine/) (2026-04-24)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Pixel Diff vs Structural Diff for PDFs — Two Very Different Problems](https://dev.to/hiyoyok/pixel-diff-vs-structural-diff-for-pdfs-two-very-different-problems-16a1) (2026-04-26)
-- [# How MemoraEU Cannot Read Your Memories — Even If We Wanted To](https://dev.to/pquattro/-how-memoraeu-cannot-read-your-memories-even-if-we-wanted-to-5ceh) (2026-04-26)
-- [Combining Datasets: Merge, Join, Concat](https://dev.to/yakhilesh/combining-datasets-merge-join-concat-4mn2) (2026-04-26)
-- [GraphQL vs REST - Which One Should You Really Use?](https://dev.to/fazal_mansuri_/graphql-vs-rest-which-one-should-you-really-use-2na0) (2026-04-26)
-- [Stop flying blind on flaky tests — pytest-cloudreport gives you HTML reports and cross-run history](https://dev.to/ahmad212o/stop-flying-blind-on-flaky-tests-pytest-cloudreport-gives-you-html-reports-and-cross-run-history-5c0k) (2026-04-26)
+- [Privacy-first mind mapping app. Part 5: UI / Keyboard First](https://dev.to/kornel_maraz_5e66a3e4e27d/privacy-first-mind-mapping-app-part-5-ui-keyboard-first-4797) (2026-04-26)
+- [Hierarchical Bayesian Regression with PyMC: When Groups Share Strength](https://dev.to/berkan_sesen/hierarchical-bayesian-regression-with-pymc-when-groups-share-strength-2hag) (2026-04-26)
+- [Shopify's AI Self-Review Tool: How to Pass App Store Review on the First Try](https://dev.to/harsh_rastogi/shopifys-ai-self-review-tool-how-to-pass-app-store-review-on-the-first-try-4040) (2026-04-26)
+- [The Grant Writer's AI Guardian: Avoiding Pitfalls Through Governance](https://dev.to/ken_deng_ai/the-grant-writers-ai-guardian-avoiding-pitfalls-through-governance-53ln) (2026-04-26)
+- [Free Claude Code with Lynkr + Kilo Gateway](https://dev.to/kalpesh47/free-claude-code-with-lynkr-kilo-gateway-4lad) (2026-04-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Golang Tool I Built for Myself That Companies Can’t Live Without: The `GoMemScan` Story ✨](https://medium.com/@anshusinghal703/the-golang-tool-i-built-for-myself-that-companies-cant-live-without-the-gomemscan-story-02a0e4b6a137?source=rss------programming-5) (2026-04-26)
-- [~*FRAGRANCE OF DECOMPOSITION (CONSTIPATING CONSTELLATIONS) {Sādhakās OF The Old ()} [incl.](https://medium.com/@kumaresh009me/fragrance-of-decomposition-constipating-constellations-s%C4%81dhak%C4%81s-of-the-old-incl-547ab74af46a?source=rss------programming-5) (2026-04-26)
-- [I Challenged Myself to Learn Modern Python Programming — Here’s the Truth](https://medium.com/@uzmashoukat0052/i-challenged-myself-to-learn-modern-python-programming-heres-the-truth-d765b29b207d?source=rss------programming-5) (2026-04-26)
-- [The AI Programming Skill That Made Me My First $10K Online](https://blog.stackademic.com/the-ai-programming-skill-that-made-me-my-first-10k-online-62794cf73da9?source=rss------programming-5) (2026-04-26)
-- [How to Build and Deploy AI Agents on Google Cloud: A Step-by-Step Guide to Agents CLI](https://medium.com/@anna.bildea/how-to-build-and-deploy-ai-agents-on-google-cloud-a-step-by-step-guide-to-agents-cli-cd7070c9fabc?source=rss------programming-5) (2026-04-26)
+- [5 Skills Every Developer Must Have that AI Can’t Replace](https://medium.com/ai-engineering-simplified/5-skills-every-developer-must-have-that-ai-cant-replace-7d4f961983c4?source=rss------programming-5) (2026-04-26)
+- [How to Design Features Before Writing a Single Line of Code](https://meetpan1048.medium.com/how-to-design-features-before-writing-a-single-line-of-code-149c009b4153?source=rss------programming-5) (2026-04-26)
+- [Membongkar Celah Keamanan Website: Eksperimen SQL Injection pada Sistem Login Sederhana](https://medium.com/@hafizfatur004/membongkar-celah-keamanan-website-eksperimen-sql-injection-pada-sistem-login-sederhana-6b06eb84670f?source=rss------programming-5) (2026-04-26)
+- [Developers V/s Vibe Coders — You really believe developers are winning in 2026?](https://medium.com/@atulprogrammer/developers-v-s-vibe-coders-you-really-believe-developers-are-winning-in-2026-7d76d468b9c8?source=rss------programming-5) (2026-04-26)
+- [Why Your AI App Gives Wrong Answers (And How to Fix It)](https://ai.plainenglish.io/why-your-ai-app-gives-wrong-answers-and-how-to-fix-it-9f348ae68924?source=rss------programming-5) (2026-04-26)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [How Static Code Analysis Helps Reduce Software Bugs, and Money Spent!](https://blog.jetbrains.com/qodana/2026/04/reduce-software-bugs-and-money-spent/) (2026-04-26)
 - [Take Control of AI Code Quality in CI: Live Demo](https://blog.jetbrains.com/qodana/2026/04/take-control-of-ai-code-quality-in-ci-live-demo/) (2026-04-24)
 - [IntelliJ IDEA 2026.1.1 Is Out!](https://blog.jetbrains.com/idea/2026/04/intellij-idea-2026-1-1/) (2026-04-23)
 - [AI in DevOps: Why Adoption Lags in CI/CD (and What Comes Next)](https://blog.jetbrains.com/teamcity/2026/04/ai-in-devops/) (2026-04-23)
 - [The CLion 2026.2 Roadmap: Simplified Debugger Configuration and the Ability to Use Multiple Zephyr West Profiles](https://blog.jetbrains.com/clion/2026/04/2026-2-roadmap/) (2026-04-23)
-- [Give AI Something Worth Amplifying: Three Priorities for Technical Leaders](https://blog.jetbrains.com/ai/2026/04/give-ai-something-worth-amplifying-three-priorities-for-technical-leaders/) (2026-04-22)
 
 </details>
 
@@ -545,17 +545,6 @@ https://www.twilio.com/en-us/blog/developers/best-practices/getting-most-money-u
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [Why AI agents need interaction infrastructure](https://www.artificialintelligence-news.com/news/why-ai-agents-need-interaction-infrastructure/) (2026-04-24)
-- [How AI models use real-time cryptocurrency data to interpret market behaviour](https://www.artificialintelligence-news.com/news/how-ai-models-use-real-time-cryptocurrency-data-to-interpret-market-behaviour/) (2026-04-24)
-- [The billion-dollar startup with a different idea for AI](https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/) (2026-04-23)
-- [NVIDIA and Google infrastructure cuts AI inference costs](https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/) (2026-04-23)
-- [Sony AI robot beats players as humanoid robot wins Beijing race](https://www.artificialintelligence-news.com/news/sony-ai-robot-table-tennis-humanoid-robot-beijing-race/) (2026-04-23)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
 - [Causal Inference Is Different in Business](https://towardsdatascience.com/causal-inference-is-different-in-business/) (2026-04-25)
@@ -569,11 +558,11 @@ https://www.twilio.com/en-us/blog/developers/best-practices/getting-most-money-u
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [ChatGPT Images 2.0 vs Nano Banana 2: Which is Better?](https://www.analyticsvidhya.com/blog/2026/04/chatgpt-images-2-0-vs-nano-banana-2/) (2026-04-26)
 - [Cursor V3 Explained: The AI Coding Agent That’s Replacing Traditional IDEs in 2026](https://www.analyticsvidhya.com/blog/2026/04/cursor-v3/) (2026-04-25)
 - [DeepSeek-V4: The Most Powerful Open-Source Model Ever](https://www.analyticsvidhya.com/blog/2026/04/deepseek-v4/) (2026-04-24)
 - [I Tried The New GPT 5.5 And I’m Never Going Back](https://www.analyticsvidhya.com/blog/2026/04/i-tried-the-new-gpt-5-5/) (2026-04-24)
 - [Is GPT Image 2 the Best Image Generation Model?](https://www.analyticsvidhya.com/blog/2026/04/gpt-image-2-best-image-generation-model/) (2026-04-23)
-- [Token Economics: Why AI is Getting “Cheaper”](https://www.analyticsvidhya.com/blog/2026/04/why-ai-is-getting-cheaper/) (2026-04-22)
 
 </details>
 
