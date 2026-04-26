@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Anthropic created a test marketplace for agent-on-agent commerce](https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/) (2026-04-25)
+- [Maine’s governor vetoes data center moratorium](https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/) (2026-04-25)
 - [OpenAI CEO apologizes to Tumbler Ridge community](https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/) (2026-04-25)
 - [The climate tech IPO window could finally be cracking open](https://techcrunch.com/2026/04/25/the-climate-tech-ipo-window-could-finally-be-cracking-open/) (2026-04-25)
 - [Why Cohere is merging with Aleph Alpha](https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/) (2026-04-25)
-- [Why Tokyo is the most important tech destination of 2026](https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/) (2026-04-25)
-- [Apps to distract you from the endless cycle of doomscrolling](https://techcrunch.com/2026/04/25/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/) (2026-04-25)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Hokusai and Tesselations](https://dl.ndl.go.jp/pid/1899550/1/11/) (2026-04-25)
-- [Framework Laptop 13 Pro: Major Upgrades and Linux Front and Center](https://boilingsteam.com/framework-laptop-13-pro-announced/) (2026-04-25)
-- [Niri 26.04 was just released (scrollable-tiling Wayland compositor)](https://github.com/niri-wm/niri/releases/tag/v26.04) (2026-04-25)
-- [GPT 5.5 biosafety bounty](https://openai.com/index/gpt-5-5-bio-bug-bounty/) (2026-04-25)
-- [A Collection of Chronic Medical Conditions Common in Autistic and ADHD Adults [pdf] (2023)](https://allbrainsbelong.org/wp-content/uploads/2023/08/CLINICIAN-GUIDE-Everything-is-Connected-to-Everything-Project-All-Brains-Belong-VT-8.15.23.pdf) (2026-04-25)
+- [Why has there been so little progress on Alzheimer's disease?](https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/) (2026-04-26)
+- [Agents Aren't Coworkers, Embed Them in Your Software](https://www.feldera.com/blog/ai-agents-arent-coworkers-embed-them-in-your-software) (2026-04-25)
+- [Her Life Savings Mysteriously Disappeared After a Systems Glitch](https://www.nytimes.com/2026/04/25/your-money/fidelity-investments-fraud-alert.html) (2026-04-25)
+- [Colorado Adds Open-Source Exemption to Age-Verification Bill](https://fosstodon.org/@carlrichell/116460505717380644) (2026-04-25)
+- [USB Cheat Sheet (2022)](https://fabiensanglard.net/usbcheat/index.html) (2026-04-25)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Trump fires the entire National Science Board](https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board) (2026-04-25)
 - [An influx of used EVs could drive down prices](https://www.theverge.com/tech/918765/an-influx-of-used-evs-could-drive-down-prices) (2026-04-25)
 - [Researchers say we’re talking less than ever](https://www.theverge.com/science/918753/researchers-talking-less) (2026-04-25)
 - [Sharge’s fast Qi2.2 MagSafe battery is down to $70 with a free USB-C cable](https://www.theverge.com/gadgets/918410/sharge-icemag-3-qi2-usb-c-wireless-power-bank-battery-deal-sale) (2026-04-25)
 - [The Govee smart lamp brightened up my room, and then my life](https://www.theverge.com/gadgets/913854/govee-uplighter-floor-lamps-caregiving-parkinsons-disease) (2026-04-25)
-- [Xbox’s weirdest studio is on a roll](https://www.theverge.com/games/918200/kiln-review-double-fine-xbox-ps5-steam) (2026-04-25)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [When 'getting faster' isn't the same as 'getting better'](https://dev.to/palo_alto_ai/when-getting-faster-isnt-the-same-as-getting-better-43ih) (2026-04-25)
-- [I built a PostgreSQL learning platform with labs & quizzes — would love feedback](https://dev.to/missak_boyajian/i-built-a-postgresql-learning-platform-with-labs-quizzes-would-love-feedback-14fh) (2026-04-25)
-- [Can your code survive 1.5 Billion rounds of digital betrayal? Submit your strategy!](https://dev.to/ferruscpp/can-your-code-survive-14-billion-rounds-of-digital-betrayal-submit-your-strategy-afl) (2026-04-25)
-- [Is a Data Science Bootcamp Worth It in 2026?](https://dev.to/juan_diegoisazaa_5362a/is-a-data-science-bootcamp-worth-it-in-2026-12dk) (2026-04-25)
-- [How Website Technology Detection Actually Works](https://dev.to/webreveal/how-website-technology-detection-actually-works-56je) (2026-04-25)
+- [We Wrapped an Open-Source Agent in GraphOS and Turned the Debugging Session Into a Story](https://dev.to/ahmedbutt2015/we-wrapped-an-open-source-agent-in-graphos-and-turned-the-debugging-session-into-a-story-4de4) (2026-04-26)
+- [Using Databricks Genie for Natural Language Querying on Semantic Models](https://dev.to/ravikiranpagidi/using-databricks-genie-for-natural-language-querying-on-semantic-models-23kd) (2026-04-26)
+- [An open API for composable privacy extensions](https://dev.to/protoconsent/an-open-api-for-composable-privacy-extensions-cgo) (2026-04-26)
+- [How We Built a Sober Driver Booking System in Moldova: Real-time Dispatch with Node.js, Supabase & Vercel](https://dev.to/bostan/how-we-built-a-sober-driver-booking-system-in-moldova-real-time-dispatch-with-nodejs-supabase--418a) (2026-04-26)
+- [How ProtoConsent answers consent banners without touching the DOM](https://dev.to/protoconsent/how-protoconsent-answers-consent-banners-without-touching-the-dom-ie7) (2026-04-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Redis vs Caffeine vs Ehcache: Which Spring Boot Cache Should You Actually Use?](https://blog.stackademic.com/redis-vs-caffeine-vs-ehcache-which-spring-boot-cache-should-you-actually-use-0d2dadfbb58b?source=rss------programming-5) (2026-04-25)
-- [Why Google’s $40B Anthropic Bet Will Reshape How You Build AI](https://medium.com/@sebuzdugan/why-googles-40b-anthropic-bet-will-reshape-how-you-build-ai-19da5595453a?source=rss------programming-5) (2026-04-25)
-- [How Claude Opus 4.6](https://medium.com/codex/how-claude-opus-4-6-4d693fefd1f3?source=rss------programming-5) (2026-04-25)
-- [From Tools to Agents: The Inversion of Software and the Rise of Autonomous Systems](https://medium.com/@fahey_james/from-tools-to-agents-the-inversion-of-software-and-the-rise-of-autonomous-systems-09f1b141d5ee?source=rss------programming-5) (2026-04-25)
-- [5 Ways People Are Actually Using OpenClaw (Beyond the Hype)](https://medium.com/write-a-catalyst/5-ways-people-are-actually-using-openclaw-beyond-the-hype-6488d215455c?source=rss------programming-5) (2026-04-25)
+- [FastAPI’s BackgroundTasks Will Burn You in Production](https://hafiqiqmal93.medium.com/fastapis-backgroundtasks-will-burn-you-in-production-4490a8d403e8?source=rss------programming-5) (2026-04-26)
+- [A 12-Year-Old Flaw, an AI, and Root Access: What CVE-2026–41651 Says About Linux Security](https://medium.com/@rootandsecure/a-12-year-old-flaw-an-ai-and-root-access-what-cve-2026-41651-says-about-linux-security-e22cbedcb978?source=rss------programming-5) (2026-04-26)
+- [FD-RL: Cooking OCR with RL for Tables and Formulas](https://medium.com/ai-exploration-journey/fd-rl-cooking-ocr-with-rl-for-tables-and-formulas-b13a7b1c56fb?source=rss------programming-5) (2026-04-26)
+- [Automating Financial Analysis with Multi-Agent Pipelines](https://medium.com/@shuseiyokoi/automating-financial-analysis-with-multi-agent-pipelines-a7ccf2c3d6d3?source=rss------programming-5) (2026-04-26)
+- [I Designed a Payment System — Here’s What Scared Me Most](https://sanajitjana.medium.com/i-designed-a-payment-system-heres-what-scared-me-most-864d95bce9d8?source=rss------programming-5) (2026-04-26)
 
 </details>
 
