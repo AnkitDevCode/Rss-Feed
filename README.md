@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Why has there been so little progress on Alzheimer's disease?](https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/) (2026-04-26)
-- [Agents Aren't Coworkers, Embed Them in Your Software](https://www.feldera.com/blog/ai-agents-arent-coworkers-embed-them-in-your-software) (2026-04-25)
-- [Her Life Savings Mysteriously Disappeared After a Systems Glitch](https://www.nytimes.com/2026/04/25/your-money/fidelity-investments-fraud-alert.html) (2026-04-25)
-- [Colorado Adds Open-Source Exemption to Age-Verification Bill](https://fosstodon.org/@carlrichell/116460505717380644) (2026-04-25)
-- [USB Cheat Sheet (2022)](https://fabiensanglard.net/usbcheat/index.html) (2026-04-25)
+- [Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)](https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health) (2026-04-26)
+- [The West Forgot How to Make Things. Now It's Forgetting How to Code](https://techtrenches.dev/p/the-west-forgot-how-to-make-things) (2026-04-26)
+- [AGPLv3§74 Empowers Users to Thwart Badgeware Like OnlyOffice](https://sfconservancy.org/blog/2026/apr/16/badgeware-onlyoffice-nextcloud-affero-gpl/) (2026-04-26)
+- [Show HN: Browse GitHub repos in Emacs without cloning](https://github.com/agzam/remoto.el) (2026-04-26)
+- [EU Age Control: The trojan horse for digital IDs](https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/) (2026-04-26)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [We Wrapped an Open-Source Agent in GraphOS and Turned the Debugging Session Into a Story](https://dev.to/ahmedbutt2015/we-wrapped-an-open-source-agent-in-graphos-and-turned-the-debugging-session-into-a-story-4de4) (2026-04-26)
-- [Using Databricks Genie for Natural Language Querying on Semantic Models](https://dev.to/ravikiranpagidi/using-databricks-genie-for-natural-language-querying-on-semantic-models-23kd) (2026-04-26)
-- [An open API for composable privacy extensions](https://dev.to/protoconsent/an-open-api-for-composable-privacy-extensions-cgo) (2026-04-26)
-- [How We Built a Sober Driver Booking System in Moldova: Real-time Dispatch with Node.js, Supabase & Vercel](https://dev.to/bostan/how-we-built-a-sober-driver-booking-system-in-moldova-real-time-dispatch-with-nodejs-supabase--418a) (2026-04-26)
-- [How ProtoConsent answers consent banners without touching the DOM](https://dev.to/protoconsent/how-protoconsent-answers-consent-banners-without-touching-the-dom-ie7) (2026-04-26)
+- [Pixel Diff vs Structural Diff for PDFs — Two Very Different Problems](https://dev.to/hiyoyok/pixel-diff-vs-structural-diff-for-pdfs-two-very-different-problems-16a1) (2026-04-26)
+- [# How MemoraEU Cannot Read Your Memories — Even If We Wanted To](https://dev.to/pquattro/-how-memoraeu-cannot-read-your-memories-even-if-we-wanted-to-5ceh) (2026-04-26)
+- [Combining Datasets: Merge, Join, Concat](https://dev.to/yakhilesh/combining-datasets-merge-join-concat-4mn2) (2026-04-26)
+- [GraphQL vs REST - Which One Should You Really Use?](https://dev.to/fazal_mansuri_/graphql-vs-rest-which-one-should-you-really-use-2na0) (2026-04-26)
+- [Stop flying blind on flaky tests — pytest-cloudreport gives you HTML reports and cross-run history](https://dev.to/ahmad212o/stop-flying-blind-on-flaky-tests-pytest-cloudreport-gives-you-html-reports-and-cross-run-history-5c0k) (2026-04-26)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [FastAPI’s BackgroundTasks Will Burn You in Production](https://hafiqiqmal93.medium.com/fastapis-backgroundtasks-will-burn-you-in-production-4490a8d403e8?source=rss------programming-5) (2026-04-26)
-- [A 12-Year-Old Flaw, an AI, and Root Access: What CVE-2026–41651 Says About Linux Security](https://medium.com/@rootandsecure/a-12-year-old-flaw-an-ai-and-root-access-what-cve-2026-41651-says-about-linux-security-e22cbedcb978?source=rss------programming-5) (2026-04-26)
-- [FD-RL: Cooking OCR with RL for Tables and Formulas](https://medium.com/ai-exploration-journey/fd-rl-cooking-ocr-with-rl-for-tables-and-formulas-b13a7b1c56fb?source=rss------programming-5) (2026-04-26)
-- [Automating Financial Analysis with Multi-Agent Pipelines](https://medium.com/@shuseiyokoi/automating-financial-analysis-with-multi-agent-pipelines-a7ccf2c3d6d3?source=rss------programming-5) (2026-04-26)
-- [I Designed a Payment System — Here’s What Scared Me Most](https://sanajitjana.medium.com/i-designed-a-payment-system-heres-what-scared-me-most-864d95bce9d8?source=rss------programming-5) (2026-04-26)
+- [The Golang Tool I Built for Myself That Companies Can’t Live Without: The `GoMemScan` Story ✨](https://medium.com/@anshusinghal703/the-golang-tool-i-built-for-myself-that-companies-cant-live-without-the-gomemscan-story-02a0e4b6a137?source=rss------programming-5) (2026-04-26)
+- [~*FRAGRANCE OF DECOMPOSITION (CONSTIPATING CONSTELLATIONS) {Sādhakās OF The Old ()} [incl.](https://medium.com/@kumaresh009me/fragrance-of-decomposition-constipating-constellations-s%C4%81dhak%C4%81s-of-the-old-incl-547ab74af46a?source=rss------programming-5) (2026-04-26)
+- [I Challenged Myself to Learn Modern Python Programming — Here’s the Truth](https://medium.com/@uzmashoukat0052/i-challenged-myself-to-learn-modern-python-programming-heres-the-truth-d765b29b207d?source=rss------programming-5) (2026-04-26)
+- [The AI Programming Skill That Made Me My First $10K Online](https://blog.stackademic.com/the-ai-programming-skill-that-made-me-my-first-10k-online-62794cf73da9?source=rss------programming-5) (2026-04-26)
+- [How to Build and Deploy AI Agents on Google Cloud: A Step-by-Step Guide to Agents CLI](https://medium.com/@anna.bildea/how-to-build-and-deploy-ai-agents-on-google-cloud-a-step-by-step-guide-to-agents-cli-cd7070c9fabc?source=rss------programming-5) (2026-04-26)
 
 </details>
 
