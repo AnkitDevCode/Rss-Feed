@@ -20,110 +20,110 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [China vetoes Meta’s $2B Manus deal after months-long probe](https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/) (2026-04-27)
-- [OpenAI could be making a phone with AI agents replacing apps](https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/) (2026-04-27)
-- [Critical infrastructure giant Itron says it was hacked](https://techcrunch.com/2026/04/27/critical-infrastructure-giant-itron-says-it-was-hacked/) (2026-04-27)
-- [Spotify’s next frontier: fitness content](https://techcrunch.com/2026/04/27/spotifys-next-frontier-fitness-content/) (2026-04-27)
-- [Meta inks deal for solar power at night, beamed from space](https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/) (2026-04-27)
+- [Consumers lost $2.1 billion to social media scams in 2025, FTC reports](https://techcrunch.com/2026/04/27/consumers-lost-2-1-billion-to-social-media-scams-in-2025-ftc-reports/) (2026-04-27)
+- [OpenAI ends Microsoft legal peril over its $50B Amazon deal](https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/) (2026-04-27)
+- [DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data](https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/) (2026-04-27)
+- [Hacker who allegedly carried out cyberattacks for China is extradited to US](https://techcrunch.com/2026/04/27/hacker-who-allegedly-carried-out-cyberattacks-for-china-is-extradited-to-u-s/) (2026-04-27)
+- [Investors back Skye’s AI home screen app for iPhone ahead of launch](https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/) (2026-04-27)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Tim Cook Is Leaving. Good](https://routerjockey.com/tim-cook-is-leaving-good/) (2026-04-27)
-- [Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview](https://github.com/dirac-run/dirac) (2026-04-27)
-- [Show HN: A terminal spreadsheet editor with Vim keybindings](https://github.com/garritfra/cell) (2026-04-27)
-- [Men Who Stare at Walls](https://www.alexselimov.com/posts/men_who_stare_at_walls/) (2026-04-27)
-- [Show HN: I built a dual crossword puzzle where two crosswords share one grid](https://forkle.co.uk/) (2026-04-27)
+- [Our principles](https://openai.com/index/our-principles/) (2026-04-27)
+- [United Wizards of the Coast](https://unitedwizardsofthecoast.com/news/announcing-united-wizards-coast-cwa) (2026-04-27)
+- [Super ZSNES – GPU Powered SNES Emulator](https://zsnes.com/) (2026-04-27)
+- [Open-Source KiCad PCBs for Common Arduino, ESP32, RP2040 Boards](https://github.com/Hanqaqa/Easyduino) (2026-04-27)
+- [GitHub is having issues now](https://www.githubstatus.com) (2026-04-27)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Amazon snaps up Oprah Winfrey’s podcast](https://www.theverge.com/tech/918962/amazon-wondery-oprah-podcast-show) (2026-04-27)
-- [Govee’s multicolor ceiling light doubles as a low-res screen](https://www.theverge.com/tech/918165/govee-ceiling-light-ultra-led-pricing-availability) (2026-04-27)
-- [Spotify is partnering with Peloton for guided workouts](https://www.theverge.com/tech/918861/spotify-peloton-guided-workouts) (2026-04-27)
-- [Is this Samsung’s upcoming wide foldable?](https://www.theverge.com/tech/918951/samsung-galaxy-z-fold-8-wide-dummy-leak) (2026-04-27)
-- [The AI-designed car is taking shape](https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept) (2026-04-27)
+- [Trump demands ABC fire Jimmy Kimmel](https://www.theverge.com/policy/919337/president-trump-jimmy-kimmel-fire-abc) (2026-04-27)
+- [Google employees ask Sundar Pichai to say no to classified military AI use](https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter) (2026-04-27)
+- [Conspiracy theories are swirling about the White House Correspondents’ Dinner shooting](https://www.theverge.com/news/919244/whcd-shooting-trump-social-media-conspiracy-theories) (2026-04-27)
+- [Why the Steam Controller is (and isn’t) a big deal](https://www.theverge.com/tech/918115/steam-controller-2026-pc-deck-machine-hands-on-features) (2026-04-27)
+- [Valve’s new Steam Controller isn’t perfect, but I’m buying one anyway](https://www.theverge.com/games/918610/valve-steam-controller-review) (2026-04-27)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Meet the players who lost big money on Peter Molyneux’s failed Legacy](https://arstechnica.com/gaming/2026/04/how-legacy-became-a-costly-crypto-bust-for-players-and-a-business-win-for-peter-molyneux/) (2026-04-27)
-- [Strange New Worlds S4 teaser strikes a more serious tone](https://arstechnica.com/culture/2026/04/strange-new-worlds-s4-teaser-strikes-a-more-serious-tone/) (2026-04-26)
-- [Prime Video drops full trailer for Spider-Noir](https://arstechnica.com/culture/2026/04/prime-video-drops-full-trailer-for-spider-noir/) (2026-04-26)
-- [New robotic control software avoids jamming their joints](https://arstechnica.com/science/2026/04/kinematic-intelligence-helps-robots-learn-their-limits/) (2026-04-26)
-- [Artemis II broke Fred Haise's distance record, but he is happy to pass it on](https://arstechnica.com/science/2026/04/artemis-ii-broke-fred-haises-distance-record-but-he-is-happy-to-pass-it-on/) (2026-04-25)
+- [China kills Meta’s acquisition of Manus as US-China AI rivalry deepens](https://arstechnica.com/ai/2026/04/china-kills-metas-acquisition-of-manus-as-us-china-ai-rivalry-deepens/) (2026-04-27)
+- [Study: Infrasound likely a key factor in alleged hauntings](https://arstechnica.com/science/2026/04/that-spooky-sensation-likely-due-to-rumbling-pipes-not-spirits/) (2026-04-27)
+- [Steam Controller: The Ars Technica review](https://arstechnica.com/gaming/2026/04/steam-controller-the-ars-technica-review/) (2026-04-27)
+- [National Science Board eviscerated; Trump admin fires all 22 members](https://arstechnica.com/science/2026/04/national-science-board-eviscerated-trump-admin-fires-all-22-members/) (2026-04-27)
+- [Next El Niño could be tipping point for a hotter climate](https://arstechnica.com/science/2026/04/next-el-nino-could-be-tipping-point-for-a-hotter-climate/) (2026-04-27)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The missing step between hype and profit](https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/) (2026-04-27)
 - [Rebuilding the data stack for AI](https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/) (2026-04-27)
 - [The Download: DeepSeek’s latest AI breakthrough, and the race to build world models](https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/) (2026-04-27)
 - [Three reasons why DeepSeek’s new model matters](https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/) (2026-04-24)
 - [The Download: supercharged scams and studying AI healthcare](https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/) (2026-04-24)
-- [Health-care AI is here. We don’t know if it actually helps patients.](https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/) (2026-04-24)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [GitHub Copilot is moving to usage-based billing](https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/) (2026-04-27)
 - [Changes to GitHub Copilot Individual plans](https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/) (2026-04-20)
 - [Highlights from Git 2.54](https://github.blog/open-source/git/highlights-from-git-2-54/) (2026-04-20)
 - [Building an emoji list generator with the GitHub Copilot CLI](https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/) (2026-04-17)
 - [Bringing more transparency to GitHub’s status page](https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/) (2026-04-17)
-- [How GitHub uses eBPF to improve deployment safety](https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/) (2026-04-16)
 
 </details>
 
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Welcome to the “find out” stage of AI](https://stackoverflow.blog/2026/04/27/welcome-to-the-find-out-stage-of-ai/) (2026-04-27)
 - [Lights, camera, open source!](https://stackoverflow.blog/2026/04/24/lights-camera-open-source/) (2026-04-24)
 - [Black box AI drift: AI tools are making design decisions nobody asked for](https://stackoverflow.blog/2026/04/23/black-box-ai-drift-ai-tools-are-making-design-decisions-nobody-asked-for/) (2026-04-23)
 - [How to get multiple agents to play nice at scale ](https://stackoverflow.blog/2026/04/22/how-to-get-multiple-agents-to-play-nice-at-scale/) (2026-04-22)
 - [We still need developer communities](https://stackoverflow.blog/2026/04/21/we-still-need-developer-communities/) (2026-04-21)
-- [No country left behind with sovereign AI](https://stackoverflow.blog/2026/04/17/no-country-left-behind-with-sovereign-ai/) (2026-04-17)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [SOLID was written for this moment](https://dev.to/nomad4tech/solid-was-written-for-this-moment-225f) (2026-04-27)
-- [I Stopped Writing TikTok Scrapers. Five Lines of Python Replaced Them.](https://dev.to/sian-agency/i-stopped-writing-tiktok-scrapers-five-lines-of-python-replaced-them-5824) (2026-04-27)
-- [WellNest: A Django + MongoDB Powered Family-Centric Wellness Platform](https://dev.to/pippalla_srikiran/wellnest-a-django-mongodb-powered-family-centric-wellness-platform-5848) (2026-04-27)
-- [Cómo manejar fallos transitorios en .NET con Polly y ResiliencePipelineBuilder](https://dev.to/isaacojeda/como-manejar-fallos-transitorios-en-net-con-polly-y-resiliencepipelinebuilder-4fk4) (2026-04-27)
-- [I started a side project to stay sharp at coding. Coding became the least interesting part.](https://dev.to/nethersmok/i-started-a-side-project-to-stay-sharp-at-coding-coding-became-the-least-interesting-part-4a0k) (2026-04-27)
+- [Build an AI teammate to help with your Postgres](https://dev.to/reeshee/build-an-ai-teammate-to-help-with-your-postgres-5f99) (2026-04-27)
+- [Your LLM Judge Has Opinions. They're Not About Quality.](https://dev.to/fran3cc/your-llm-judge-has-opinions-theyre-not-about-quality-8k3) (2026-04-27)
+- [skill-tree: finding the Claude behaviors you systematically avoid](https://dev.to/palo_alto_ai/skill-tree-finding-the-claude-behaviors-you-systematically-avoid-nj0) (2026-04-27)
+- [How to Turn Your Company Into an Autonomous Knowledge Machine](https://dev.to/sampseiol1/how-to-turn-your-company-into-an-autonomous-knowledge-machine-2l97) (2026-04-27)
+- [I built my MVP with Claude Code. Now I need to deploy it. Here's what nobody tells you.](https://dev.to/chalom_ellezam_5989bce65e/i-built-my-mvp-with-claude-code-now-i-need-to-deploy-it-heres-what-nobody-tells-you-2c8c) (2026-04-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [We Spent Millions Building an Internal Developer Platform.](https://medium.com/@myselfvinamrayadav/we-spent-millions-building-an-internal-developer-platform-9888161ac171?source=rss------programming-5) (2026-04-27)
-- [CLAUDE.md : le fichier qui vous évite de répéter à Claude quel framework vous utilisez](https://medium.com/@fabien.r/claude-md-le-fichier-qui-vous-%C3%A9vite-de-r%C3%A9p%C3%A9ter-%C3%A0-claude-quel-framework-vous-utilisez-96c2f5645d73?source=rss------programming-5) (2026-04-27)
-- [Artificial Intelligence Explained: Technologies, Applications, and Future Trends](https://mrgulshanyadav.medium.com/artificial-intelligence-explained-technologies-applications-and-future-trends-89c5b1c4f9ee?source=rss------programming-5) (2026-04-27)
-- [I Thought I Knew Backend Development Until I Couldn’t Answer These 50 Questions](https://medium.com/@a95yman/i-thought-i-knew-backend-development-until-i-couldnt-answer-these-50-questions-1347e15a7452?source=rss------programming-5) (2026-04-27)
-- [Apollo 11’s Code Is Better Than Yours](https://medium.com/@arthurpro/apollo-11s-code-is-better-than-yours-625d763414a8?source=rss------programming-5) (2026-04-27)
+- [Modern Data Science Stack in 2026: Tools, Trends, and What I Actually Use Daily](https://medium.com/codex/modern-data-science-stack-in-2026-tools-trends-and-what-i-actually-use-daily-5d72a2cb0f8a?source=rss------programming-5) (2026-04-27)
+- [GitHub Actions vs Jenkins vs GitLab CI: I Built the Same Pipeline in All Three.](https://blog.stackademic.com/github-actions-vs-jenkins-vs-gitlab-ci-i-built-the-same-pipeline-in-all-three-b0ae066e14ad?source=rss------programming-5) (2026-04-27)
+- [We Used MongoDB Because “It Scales”. At 10M Documents, PostgreSQL Would’ve Been Faster.](https://medium.com/@codewar_with_me/we-used-mongodb-because-it-scales-at-10m-documents-postgresql-wouldve-been-faster-3c30a7be8fbb?source=rss------programming-5) (2026-04-27)
+- [Cracking the Code: Your 2026–27 Guide to Barclays Java Spring Boot Microservice Interviews ✨](https://medium.com/@monikasinghal713/cracking-the-code-your-2026-27-guide-to-barclays-java-spring-boot-microservice-interviews-50e346b791c8?source=rss------programming-5) (2026-04-27)
+- [How to control a led with a button (beginner guide)](https://medium.com/@sseguiamanar/how-to-control-a-led-with-a-button-beginner-guide-1d3a1ecfc339?source=rss------programming-5) (2026-04-27)
 
 </details>
 
 <details>
 <summary>☁️ AWS News</summary>
 
+- [AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-anthropic-meta-partnership-aws-lambda-s3-files-amazon-bedrock-agentcore-cli-and-more-april-27-2026/) (2026-04-27)
 - [AWS Weekly Roundup: Claude Opus 4.7 in Amazon Bedrock, AWS Interconnect GA, and more (April 20, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-7-in-amazon-bedrock-aws-interconnect-ga-and-more-april-20-2026/) (2026-04-20)
 - [Introducing Anthropic’s Claude Opus 4.7 model in Amazon Bedrock](https://aws.amazon.com/blogs/aws/introducing-anthropics-claude-opus-4-7-model-in-amazon-bedrock/) (2026-04-16)
 - [AWS Interconnect is now generally available, with a new option to simplify last-mile connectivity](https://aws.amazon.com/blogs/aws/aws-interconnect-is-now-generally-available-with-a-new-option-to-simplify-last-mile-connectivity/) (2026-04-14)
 - [AWS Weekly Roundup: Claude Mythos Preview in Amazon Bedrock, AWS Agent Registry, and more (April 13, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-mythos-preview-in-amazon-bedrock-aws-agent-registry-and-more-april-13-2026/) (2026-04-13)
-- [Launching S3 Files, making S3 buckets accessible as file systems](https://aws.amazon.com/blogs/aws/launching-s3-files-making-s3-buckets-accessible-as-file-systems/) (2026-04-07)
 
 </details>
 
@@ -295,22 +295,22 @@
 <details>
 <summary>📌 Pinterest Engineering</summary>
 
+- [From Clicks to Conversions: Architecting Shopping Conversion Candidate Generation at Pinterest](https://medium.com/pinterest-engineering/from-clicks-to-conversions-architecting-shopping-conversion-candidate-generation-at-pinterest-04cae5e1455b?source=rss-ef81ef829bcb------2) (2026-04-27)
 - [Smarter URL Normalization at Scale: How MIQPS Powers Content Deduplication at Pinterest](https://medium.com/pinterest-engineering/smarter-url-normalization-at-scale-how-miqps-powers-content-deduplication-at-pinterest-4aa42e807d7d?source=rss-ef81ef829bcb------2) (2026-04-20)
 - [Finding zombies in our systems: A real-world story of CPU bottlenecks](https://medium.com/pinterest-engineering/finding-zombies-in-our-systems-a-real-world-story-of-cpu-bottlenecks-ea4722e552eb?source=rss-ef81ef829bcb------2) (2026-04-15)
 - [Scaling Recommendation Systems with Request-Level Deduplication](https://medium.com/pinterest-engineering/scaling-recommendation-systems-with-request-level-deduplication-93bd514142d9?source=rss-ef81ef829bcb------2) (2026-04-13)
 - [Performance for Everyone](https://medium.com/pinterest-engineering/performance-for-everyone-21a560260d08?source=rss-ef81ef829bcb------2) (2026-04-08)
-- [Evolution of Multi-Objective Optimization at Pinterest Home feed](https://medium.com/pinterest-engineering/evolution-of-multi-objective-optimization-at-pinterest-home-feed-06657e33cd10?source=rss-ef81ef829bcb------2) (2026-04-07)
 
 </details>
 
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [JetBrains Annual Highlights 2026 Are Here!](https://blog.jetbrains.com/team/2026/04/27/jetbrains-annual-highlights-2026-are-here/) (2026-04-27)
 - [How Static Code Analysis Helps Reduce Software Bugs, and Money Spent!](https://blog.jetbrains.com/qodana/2026/04/reduce-software-bugs-and-money-spent/) (2026-04-26)
 - [Take Control of AI Code Quality in CI: Live Demo](https://blog.jetbrains.com/qodana/2026/04/take-control-of-ai-code-quality-in-ci-live-demo/) (2026-04-24)
 - [IntelliJ IDEA 2026.1.1 Is Out!](https://blog.jetbrains.com/idea/2026/04/intellij-idea-2026-1-1/) (2026-04-23)
 - [AI in DevOps: Why Adoption Lags in CI/CD (and What Comes Next)](https://blog.jetbrains.com/teamcity/2026/04/ai-in-devops/) (2026-04-23)
-- [The CLion 2026.2 Roadmap: Simplified Debugger Configuration and the Ability to Use Multiple Zephyr West Profiles](https://blog.jetbrains.com/clion/2026/04/2026-2-roadmap/) (2026-04-23)
 
 </details>
 
@@ -392,12 +392,13 @@ https://www.twilio.com/en-us/blog/developers/best-practices/getting-most-money-u
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Why a Robust Organizations Model is Non-Negotiable
+](https://auth0.com/blog/why-robust-organizations-model-is-non-negotiable/) (2026-04-27)
 - [Things Developers Get Wrong About the Backend for Frontend Pattern](https://auth0.com/blog/things-developers-get-wrong-about-the-backend-for-frontend-pattern/) (2026-04-24)
 - [The Agent Experience Score](https://auth0.com/blog/agent-experience-score/) (2026-04-23)
 - [Five Critical AI Agent Security Risks and How to Fix Them Before You Ship](https://auth0.com/blog/how-to-fix-five-critical-ai-agent-security-risks/) (2026-04-23)
 - [Securing Gemini Enterprise Agent Platform Runtime with Auth0 for AI Agents
 ](https://auth0.com/blog/securing-gemini-enterprise-agent-platform-runtime-auth0/) (2026-04-22)
-- [Multi-Tenant SaaS: Managing Auth0 Organizations with the My Organization API](https://auth0.com/blog/managing-auth0-organizations-my-organization-api/) (2026-04-21)
 
 </details>
 
@@ -426,11 +427,11 @@ https://www.twilio.com/en-us/blog/developers/best-practices/getting-most-money-u
 <details>
 <summary>🔷 Prisma Blog</summary>
 
+- [TypeScript Migrations in Prisma Next](https://www.prisma.io/blog/typescript-migrations-in-prisma-next) (2026-04-27)
 - [MongoDB Without Compromise](https://www.prisma.io/blog/mongodb-without-compromise) (2026-04-13)
 - [Announcing Query Insights For Prisma Postgres](https://www.prisma.io/blog/announcing-query-insights-for-prisma-postgres) (2026-04-09)
 - [Agentic Engineering: How Prisma Builds with AI](https://www.prisma.io/blog/how-prisma-build-with-agentic-ai) (2026-03-30)
 - [Rethinking Database Migrations](https://www.prisma.io/blog/rethinking-database-migrations) (2026-03-27)
-- [Sunsetting Prisma Optimize](https://www.prisma.io/blog/sunsetting-prisma-optimize) (2026-03-23)
 
 </details>
 
@@ -536,11 +537,11 @@ https://www.twilio.com/en-us/blog/developers/best-practices/getting-most-money-u
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [How to build scalable web apps with OpenAI's Privacy Filter](https://huggingface.co/blog/openai-privacy-filter-web-apps) (2026-04-27)
 - [DeepSeek-V4: a million-token context that agents can actually use](https://huggingface.co/blog/deepseekv4) (2026-04-24)
 - [How to Use Transformers.js in a Chrome Extension](https://huggingface.co/blog/transformersjs-chrome-extension) (2026-04-23)
 - [Gemma 4 VLA Demo on Jetson Orin Nano Super](https://huggingface.co/blog/nvidia/gemma4) (2026-04-22)
 - [QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard](https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard) (2026-04-21)
-- [AI and the Future of Cybersecurity: Why Openness Matters](https://huggingface.co/blog/cybersecurity-openness) (2026-04-21)
 
 </details>
 
@@ -558,11 +559,11 @@ https://www.twilio.com/en-us/blog/developers/best-practices/getting-most-money-u
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [A Career in Data Is Not Always a Straight Line, and That’s Okay](https://towardsdatascience.com/a-career-in-data-is-not-always-a-straight-line-and-thats-okay/) (2026-04-27)
+- [How Spreadsheets Quietly Cost Supply Chains Millions](https://towardsdatascience.com/how-spreadsheets-quietly-cost-supply-chains-millions/) (2026-04-27)
 - [Comparing Explicit Measures to Calculation Groups in Tabular Models](https://towardsdatascience.com/comparing-explicit-measures-to-calculation-groups-in-tabular-models/) (2026-04-27)
 - [Bytes Speak All Languages: Cross-Script Name Retrieval via Contrastive Learning](https://towardsdatascience.com/bytes-speak-all-languages-cross-script-name-retrieval-via-contrastive-learning/) (2026-04-26)
 - [I Reduced My Pandas Runtime by 95% — Here’s What I Was Doing Wrong](https://towardsdatascience.com/i-reduced-my-pandas-runtime-by-95-heres-what-i-was-doing-wrong/) (2026-04-26)
-- [Causal Inference Is Different in Business](https://towardsdatascience.com/causal-inference-is-different-in-business/) (2026-04-25)
-- [The Essential Guide to Effectively Summarizing Massive Documents, Part 2](https://towardsdatascience.com/the-essential-guide-to-effectively-summarizing-massive-documents-part-2/) (2026-04-25)
 
 </details>
 
