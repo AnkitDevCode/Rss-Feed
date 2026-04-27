@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Truecaller faces mounting pressures as its growth matures](https://techcrunch.com/2026/04/26/truecaller-faces-mounting-pressures-as-its-growth-matures/) (2026-04-27)
-- [The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder](https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/) (2026-04-26)
-- [Amazon’s new podcast strategy: Monetize everything](https://techcrunch.com/2026/04/26/amazons-new-podcast-strategy-monetize-everything/) (2026-04-26)
-- [What Tim Cook built](https://techcrunch.com/2026/04/26/what-tim-cook-built/) (2026-04-26)
-- [TechCrunch Mobility: Elon’s admission](https://techcrunch.com/2026/04/26/techcrunch-mobility-elons-admission/) (2026-04-26)
+- [China vetoes Meta’s $2B Manus deal after months-long probe](https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/) (2026-04-27)
+- [OpenAI could be making a phone with AI agents replacing apps](https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/) (2026-04-27)
+- [Critical infrastructure giant Itron says it was hacked](https://techcrunch.com/2026/04/27/critical-infrastructure-giant-itron-says-it-was-hacked/) (2026-04-27)
+- [Spotify’s next frontier: fitness content](https://techcrunch.com/2026/04/27/spotifys-next-frontier-fitness-content/) (2026-04-27)
+- [Meta inks deal for solar power at night, beamed from space](https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/) (2026-04-27)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Mushroom That Makes People Have the Exact Same Hallucination](https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/) (2026-04-27)
-- [The Prompt API](https://developer.chrome.com/docs/ai/prompt-api) (2026-04-27)
-- [EvanFlow – A TDD driven feedback loop for Claude Code](https://github.com/evanklem/evanflow) (2026-04-27)
-- [TurboQuant: A first-principles walkthrough](https://arkaung.github.io/interactive-turboquant/) (2026-04-27)
-- [FreeBSD Device Drivers Book](https://github.com/ebrandi/FDD-book) (2026-04-26)
+- [Tim Cook Is Leaving. Good](https://routerjockey.com/tim-cook-is-leaving-good/) (2026-04-27)
+- [Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview](https://github.com/dirac-run/dirac) (2026-04-27)
+- [Show HN: A terminal spreadsheet editor with Vim keybindings](https://github.com/garritfra/cell) (2026-04-27)
+- [Men Who Stare at Walls](https://www.alexselimov.com/posts/men_who_stare_at_walls/) (2026-04-27)
+- [Show HN: I built a dual crossword puzzle where two crosswords share one grid](https://forkle.co.uk/) (2026-04-27)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Google’s new gradient icon design is coming to more apps](https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps) (2026-04-26)
-- [Trump turns the WHCD shooting into a pitch for the White House ballroom](https://www.theverge.com/policy/918843/trump-whcd-attack-white-house-ballroom) (2026-04-26)
-- [Tomora’s Come Closer is an ecstatic love letter to 90s dance music](https://www.theverge.com/entertainment/918826/tomora-come-closer-review-90s-dance-music) (2026-04-26)
-- [Skylight’s 15-inch smart calendar is down to its lowest price to date](https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale) (2026-04-26)
-- [After three months on Linux, I don’t miss Windows at all](https://www.theverge.com/tech/918797/switched-to-linux-dont-miss-windows) (2026-04-26)
+- [Amazon snaps up Oprah Winfrey’s podcast](https://www.theverge.com/tech/918962/amazon-wondery-oprah-podcast-show) (2026-04-27)
+- [Govee’s multicolor ceiling light doubles as a low-res screen](https://www.theverge.com/tech/918165/govee-ceiling-light-ultra-led-pricing-availability) (2026-04-27)
+- [Spotify is partnering with Peloton for guided workouts](https://www.theverge.com/tech/918861/spotify-peloton-guided-workouts) (2026-04-27)
+- [Is this Samsung’s upcoming wide foldable?](https://www.theverge.com/tech/918951/samsung-galaxy-z-fold-8-wide-dummy-leak) (2026-04-27)
+- [The AI-designed car is taking shape](https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept) (2026-04-27)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Meet the players who lost big money on Peter Molyneux’s failed Legacy](https://arstechnica.com/gaming/2026/04/how-legacy-became-a-costly-crypto-bust-for-players-and-a-business-win-for-peter-molyneux/) (2026-04-27)
 - [Strange New Worlds S4 teaser strikes a more serious tone](https://arstechnica.com/culture/2026/04/strange-new-worlds-s4-teaser-strikes-a-more-serious-tone/) (2026-04-26)
 - [Prime Video drops full trailer for Spider-Noir](https://arstechnica.com/culture/2026/04/prime-video-drops-full-trailer-for-spider-noir/) (2026-04-26)
 - [New robotic control software avoids jamming their joints](https://arstechnica.com/science/2026/04/kinematic-intelligence-helps-robots-learn-their-limits/) (2026-04-26)
 - [Artemis II broke Fred Haise's distance record, but he is happy to pass it on](https://arstechnica.com/science/2026/04/artemis-ii-broke-fred-haises-distance-record-but-he-is-happy-to-pass-it-on/) (2026-04-25)
-- [Palantir employees are talking about company's "descent into fascism"](https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/) (2026-04-25)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Rebuilding the data stack for AI](https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/) (2026-04-27)
+- [The Download: DeepSeek’s latest AI breakthrough, and the race to build world models](https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/) (2026-04-27)
 - [Three reasons why DeepSeek’s new model matters](https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/) (2026-04-24)
 - [The Download: supercharged scams and studying AI healthcare](https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/) (2026-04-24)
 - [Health-care AI is here. We don’t know if it actually helps patients.](https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/) (2026-04-24)
-- [The Download: introducing the Nature issue](https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/) (2026-04-23)
-- [Will fusion power get cheap? Don’t count on it.](https://www.technologyreview.com/2026/04/23/1136329/fusion-power-cost/) (2026-04-23)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- ["I Wired DeepSeek V4 Into Claude Code and Codex CLI Without Touching the Tools"](https://dev.to/codekingai/i-wired-deepseek-v4-into-claude-code-and-codex-cli-without-touching-the-tools-64d) (2026-04-27)
-- [Reading list (21st to 27th April)](https://dev.to/094459/reading-list-21st-to-27th-april-3oph) (2026-04-27)
-- [I rethought PlanetLedger after Google Cloud NEXT 2026 — and my architecture broke (in a good way)](https://dev.to/ujja/i-rethought-planetledger-after-google-cloud-next-2026-and-my-architecture-broke-in-a-good-way-glp) (2026-04-27)
-- [How to keep FastAPI and Next.js types synced (without leaking your database schema)](https://dev.to/ameer_ap/how-to-keep-fastapi-and-nextjs-types-synced-without-leaking-your-database-schema-aic) (2026-04-27)
-- [Monetizing 6 Ancient Chinese Divination APIs with x402 (MCP + USDC on Base)](https://dev.to/jasonwagaobit/monetizing-6-ancient-chinese-divination-apis-with-x402-mcp-usdc-on-base-aid) (2026-04-27)
+- [SOLID was written for this moment](https://dev.to/nomad4tech/solid-was-written-for-this-moment-225f) (2026-04-27)
+- [I Stopped Writing TikTok Scrapers. Five Lines of Python Replaced Them.](https://dev.to/sian-agency/i-stopped-writing-tiktok-scrapers-five-lines-of-python-replaced-them-5824) (2026-04-27)
+- [WellNest: A Django + MongoDB Powered Family-Centric Wellness Platform](https://dev.to/pippalla_srikiran/wellnest-a-django-mongodb-powered-family-centric-wellness-platform-5848) (2026-04-27)
+- [Cómo manejar fallos transitorios en .NET con Polly y ResiliencePipelineBuilder](https://dev.to/isaacojeda/como-manejar-fallos-transitorios-en-net-con-polly-y-resiliencepipelinebuilder-4fk4) (2026-04-27)
+- [I started a side project to stay sharp at coding. Coding became the least interesting part.](https://dev.to/nethersmok/i-started-a-side-project-to-stay-sharp-at-coding-coding-became-the-least-interesting-part-4a0k) (2026-04-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [KV Cache: The Hidden Engine Behind Modern AI Inference](https://medium.com/@fahey_james/kv-cache-the-hidden-engine-behind-modern-ai-inference-2155af30c6ce?source=rss------programming-5) (2026-04-27)
-- [I-Lang: The Native Language of Artificial Intelligence](https://i-lang.medium.com/i-lang-the-native-language-of-artificial-intelligence-1c3eafda370a?source=rss------programming-5) (2026-04-27)
-- [How BSNL is Expanding Fiber Internet Across India?](https://medium.com/@narendra007singhshekhawat/how-bsnl-is-expanding-fiber-internet-across-india-2e990633a45f?source=rss------programming-5) (2026-04-27)
-- [The Role of BSNL in India Digital Growth Story](https://medium.com/@narendra007singhshekhawat/the-role-of-bsnl-in-india-digital-growth-story-f5178424b7aa?source=rss------programming-5) (2026-04-27)
-- [Stop Learning Python. Learn This 30-Year-Old Tool Instead](https://medium.com/the-tech-notes/stop-learning-python-learn-this-30-year-old-tool-instead-b213ac1e7efd?source=rss------programming-5) (2026-04-27)
+- [We Spent Millions Building an Internal Developer Platform.](https://medium.com/@myselfvinamrayadav/we-spent-millions-building-an-internal-developer-platform-9888161ac171?source=rss------programming-5) (2026-04-27)
+- [CLAUDE.md : le fichier qui vous évite de répéter à Claude quel framework vous utilisez](https://medium.com/@fabien.r/claude-md-le-fichier-qui-vous-%C3%A9vite-de-r%C3%A9p%C3%A9ter-%C3%A0-claude-quel-framework-vous-utilisez-96c2f5645d73?source=rss------programming-5) (2026-04-27)
+- [Artificial Intelligence Explained: Technologies, Applications, and Future Trends](https://mrgulshanyadav.medium.com/artificial-intelligence-explained-technologies-applications-and-future-trends-89c5b1c4f9ee?source=rss------programming-5) (2026-04-27)
+- [I Thought I Knew Backend Development Until I Couldn’t Answer These 50 Questions](https://medium.com/@a95yman/i-thought-i-knew-backend-development-until-i-couldnt-answer-these-50-questions-1347e15a7452?source=rss------programming-5) (2026-04-27)
+- [Apollo 11’s Code Is Better Than Yours](https://medium.com/@arthurpro/apollo-11s-code-is-better-than-yours-625d763414a8?source=rss------programming-5) (2026-04-27)
 
 </details>
 
@@ -547,55 +547,55 @@ https://www.twilio.com/en-us/blog/developers/best-practices/getting-most-money-u
 <details>
 <summary>🤖 AI News</summary>
 
+- [Google warns malicious web pages are poisoning AI agents](https://www.artificialintelligence-news.com/news/google-warns-malicious-web-pages-poisoning-ai-agents/) (2026-04-27)
 - [Why AI agents need interaction infrastructure](https://www.artificialintelligence-news.com/news/why-ai-agents-need-interaction-infrastructure/) (2026-04-24)
 - [How AI models use real-time cryptocurrency data to interpret market behaviour](https://www.artificialintelligence-news.com/news/how-ai-models-use-real-time-cryptocurrency-data-to-interpret-market-behaviour/) (2026-04-24)
 - [The billion-dollar startup with a different idea for AI](https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/) (2026-04-23)
 - [NVIDIA and Google infrastructure cuts AI inference costs](https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/) (2026-04-23)
-- [Sony AI robot beats players as humanoid robot wins Beijing race](https://www.artificialintelligence-news.com/news/sony-ai-robot-table-tennis-humanoid-robot-beijing-race/) (2026-04-23)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Comparing Explicit Measures to Calculation Groups in Tabular Models](https://towardsdatascience.com/comparing-explicit-measures-to-calculation-groups-in-tabular-models/) (2026-04-27)
 - [Bytes Speak All Languages: Cross-Script Name Retrieval via Contrastive Learning](https://towardsdatascience.com/bytes-speak-all-languages-cross-script-name-retrieval-via-contrastive-learning/) (2026-04-26)
 - [I Reduced My Pandas Runtime by 95% — Here’s What I Was Doing Wrong](https://towardsdatascience.com/i-reduced-my-pandas-runtime-by-95-heres-what-i-was-doing-wrong/) (2026-04-26)
 - [Causal Inference Is Different in Business](https://towardsdatascience.com/causal-inference-is-different-in-business/) (2026-04-25)
 - [The Essential Guide to Effectively Summarizing Massive Documents, Part 2](https://towardsdatascience.com/the-essential-guide-to-effectively-summarizing-massive-documents-part-2/) (2026-04-25)
-- [Introduction to Approximate Solution Methods for Reinforcement Learning](https://towardsdatascience.com/introduction-to-approximate-solution-methods-for-reinforcement-learning-2/) (2026-04-24)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Claude Code vs Codex: A Detailed Terminal Agent Comparison ](https://www.analyticsvidhya.com/blog/2026/04/claude-code-vs-codex/) (2026-04-27)
+- [Google Deep Research Max: Build Autonomous AI Research Agents in Minutes](https://www.analyticsvidhya.com/blog/2026/04/deep-research-max-technical-guide/) (2026-04-27)
+- [Meta Muse Spark Review: Is It Worth the Hype?](https://www.analyticsvidhya.com/blog/2026/04/meta-muse-spark-review/) (2026-04-27)
 - [ChatGPT Images 2.0 vs Nano Banana 2: Which is Better?](https://www.analyticsvidhya.com/blog/2026/04/chatgpt-images-2-0-vs-nano-banana-2/) (2026-04-26)
 - [Cursor V3 Explained: The AI Coding Agent That’s Replacing Traditional IDEs in 2026](https://www.analyticsvidhya.com/blog/2026/04/cursor-v3/) (2026-04-25)
-- [DeepSeek-V4: The Most Powerful Open-Source Model Ever](https://www.analyticsvidhya.com/blog/2026/04/deepseek-v4/) (2026-04-24)
-- [I Tried The New GPT 5.5 And I’m Never Going Back](https://www.analyticsvidhya.com/blog/2026/04/i-tried-the-new-gpt-5-5/) (2026-04-24)
-- [Is GPT Image 2 the Best Image Generation Model?](https://www.analyticsvidhya.com/blog/2026/04/gpt-image-2-best-image-generation-model/) (2026-04-23)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [10 Python Libraries for Building LLM Applications](https://www.kdnuggets.com/10-python-libraries-for-building-llm-applications) (2026-04-27)
 - [7 Practical OpenClaw Use Cases You Should Know](https://www.kdnuggets.com/7-practical-openclaw-use-cases-you-should-know) (2026-04-24)
 - [AI Engineering Hub Breakdown: 10 Agentic Projects You Can Fork Today](https://www.kdnuggets.com/ai-engineering-hub-breakdown-10-agentic-projects-you-can-fork-today) (2026-04-23)
 - [7 Specific Unconventional Things to Do with Language Models](https://www.kdnuggets.com/7-specific-unconventional-things-to-do-with-language-models) (2026-04-23)
 - [5 GitHub Repositories to Learn Quantum Machine Learning](https://www.kdnuggets.com/5-github-repositories-to-learn-quantum-machine-learning) (2026-04-22)
-- [10 GitHub Repositories To Master Claude Code](https://www.kdnuggets.com/10-github-repositories-to-master-claude-code) (2026-04-22)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Text Summarization with Scikit-LLM](https://machinelearningmastery.com/text-summarization-with-scikit-llm/) (2026-04-27)
 - [Building AI Agents with Local Small Language Models](https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/) (2026-04-23)
 - [Train, Serve, and Deploy a Scikit-learn Model with FastAPI](https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/) (2026-04-22)
 - [AI Agent Memory Explained in 3 Levels of Difficulty](https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/) (2026-04-21)
 - [Getting Started with Zero-Shot Text Classification](https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/) (2026-04-20)
-- [The Complete Guide to Inference Caching in LLMs](https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/) (2026-04-17)
 
 </details>
 
