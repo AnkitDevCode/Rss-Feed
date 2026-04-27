@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Truecaller faces mounting pressures as its growth matures](https://techcrunch.com/2026/04/26/truecaller-faces-mounting-pressures-as-its-growth-matures/) (2026-04-27)
 - [The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder](https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/) (2026-04-26)
 - [Amazon’s new podcast strategy: Monetize everything](https://techcrunch.com/2026/04/26/amazons-new-podcast-strategy-monetize-everything/) (2026-04-26)
 - [What Tim Cook built](https://techcrunch.com/2026/04/26/what-tim-cook-built/) (2026-04-26)
 - [TechCrunch Mobility: Elon’s admission](https://techcrunch.com/2026/04/26/techcrunch-mobility-elons-admission/) (2026-04-26)
-- [To buy this Bay Area home, you’ll need Anthropic equity](https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/) (2026-04-26)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Show HN: The Unix Magic poster, annotated (updated)](https://github.com/drio/unixmagic) (2026-04-27)
-- [Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft](https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c) (2026-04-27)
+- [The Mushroom That Makes People Have the Exact Same Hallucination](https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/) (2026-04-27)
+- [The Prompt API](https://developer.chrome.com/docs/ai/prompt-api) (2026-04-27)
+- [EvanFlow – A TDD driven feedback loop for Claude Code](https://github.com/evanklem/evanflow) (2026-04-27)
+- [TurboQuant: A first-principles walkthrough](https://arkaung.github.io/interactive-turboquant/) (2026-04-27)
 - [FreeBSD Device Drivers Book](https://github.com/ebrandi/FDD-book) (2026-04-26)
-- [Show HN: Startup Equity Adventure Game](https://options-game-polymathrobotics.pythonanywhere.com/) (2026-04-26)
-- [Butterflies are in decline across North America, a look at the Western Monarch](https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/) (2026-04-26)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [What If You Compressed Your Prompts Into Chinese Emoji? (A Token-Saving Thought Experiment)](https://dev.to/hammermei/what-if-you-compressed-your-prompts-into-chinese-emoji-a-token-saving-thought-experiment-3m5b) (2026-04-27)
-- [Java Map internals: a complete guide for juniors](https://dev.to/jamesonmichel6/java-map-internals-a-complete-guide-for-juniors-3cag) (2026-04-27)
-- [Building an AI WhatsApp Agent with OpenClaw: A Practical Field Guide](https://dev.to/nadinev/building-an-ai-whatsapp-agent-with-openclaw-a-practical-field-guide-51kc) (2026-04-27)
-- [Future Outlook & Operating Model](https://dev.to/nadinev/future-outlook-operating-model-8jp) (2026-04-27)
-- [(The Connection) WhatsApp Bridge](https://dev.to/nadinev/the-connection-whatsapp-bridge-1962) (2026-04-27)
+- ["I Wired DeepSeek V4 Into Claude Code and Codex CLI Without Touching the Tools"](https://dev.to/codekingai/i-wired-deepseek-v4-into-claude-code-and-codex-cli-without-touching-the-tools-64d) (2026-04-27)
+- [Reading list (21st to 27th April)](https://dev.to/094459/reading-list-21st-to-27th-april-3oph) (2026-04-27)
+- [I rethought PlanetLedger after Google Cloud NEXT 2026 — and my architecture broke (in a good way)](https://dev.to/ujja/i-rethought-planetledger-after-google-cloud-next-2026-and-my-architecture-broke-in-a-good-way-glp) (2026-04-27)
+- [How to keep FastAPI and Next.js types synced (without leaking your database schema)](https://dev.to/ameer_ap/how-to-keep-fastapi-and-nextjs-types-synced-without-leaking-your-database-schema-aic) (2026-04-27)
+- [Monetizing 6 Ancient Chinese Divination APIs with x402 (MCP + USDC on Base)](https://dev.to/jasonwagaobit/monetizing-6-ancient-chinese-divination-apis-with-x402-mcp-usdc-on-base-aid) (2026-04-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [.NET 11 Preview 3: The Architecture Update We Have Actually Been Waiting For](https://medium.com/@sketch.paintings/net-11-preview-3-the-architecture-update-we-have-actually-been-waiting-for-64bfecb39aeb?source=rss------programming-5) (2026-04-27)
-- [Wipro Java Full Stack Developer Interview Questions  | Spring Boot | Microservices | Kafka |…](https://medium.com/@anil-singh/wipro-java-full-stack-developer-interview-questions-spring-boot-microservices-kafka-dbc36b148309?source=rss------programming-5) (2026-04-27)
-- [From Natural Language to MongoDB Queries using Python (Build Your Own AI Query Engine](https://medium.com/@amit.rajawat12/from-natural-language-to-mongodb-queries-using-python-build-your-own-ai-query-engine-62c61c29cf5b?source=rss------programming-5) (2026-04-27)
-- [Everything You Need to Know About Templates](https://medium.com/@changsean1234/everything-you-need-to-know-about-templates-94013192cc19?source=rss------programming-5) (2026-04-27)
-- [I got paged at 2am for a bug that took me 4 hours to fix.](https://medium.com/@developwith.gt/i-got-paged-at-2am-for-a-bug-that-took-me-4-hours-to-fix-fee5ca1681a4?source=rss------programming-5) (2026-04-27)
+- [KV Cache: The Hidden Engine Behind Modern AI Inference](https://medium.com/@fahey_james/kv-cache-the-hidden-engine-behind-modern-ai-inference-2155af30c6ce?source=rss------programming-5) (2026-04-27)
+- [I-Lang: The Native Language of Artificial Intelligence](https://i-lang.medium.com/i-lang-the-native-language-of-artificial-intelligence-1c3eafda370a?source=rss------programming-5) (2026-04-27)
+- [How BSNL is Expanding Fiber Internet Across India?](https://medium.com/@narendra007singhshekhawat/how-bsnl-is-expanding-fiber-internet-across-india-2e990633a45f?source=rss------programming-5) (2026-04-27)
+- [The Role of BSNL in India Digital Growth Story](https://medium.com/@narendra007singhshekhawat/the-role-of-bsnl-in-india-digital-growth-story-f5178424b7aa?source=rss------programming-5) (2026-04-27)
+- [Stop Learning Python. Learn This 30-Year-Old Tool Instead](https://medium.com/the-tech-notes/stop-learning-python-learn-this-30-year-old-tool-instead-b213ac1e7efd?source=rss------programming-5) (2026-04-27)
 
 </details>
 
@@ -613,11 +613,11 @@ https://www.twilio.com/en-us/blog/developers/best-practices/getting-most-money-u
 <details>
 <summary>🧠 DeepMind Blog</summary>
 
+- [Announcing our partnership with the Republic of Korea](https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/) (2026-04-27)
 - [Decoupled DiLoCo: A new frontier for resilient, distributed AI training](https://deepmind.google/blog/decoupled-diloco/) (2026-04-22)
 - [Partnering with industry leaders to accelerate AI transformation](https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/) (2026-04-21)
 - [Gemini 3.1 Flash TTS: the next generation of expressive AI speech](https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/) (2026-04-15)
 - [Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning](https://deepmind.google/blog/gemini-robotics-er-1-6/) (2026-04-13)
-- [Gemma 4: Byte for byte, the most capable open models](https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/) (2026-04-02)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
