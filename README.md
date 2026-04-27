@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder](https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/) (2026-04-26)
+- [Amazon’s new podcast strategy: Monetize everything](https://techcrunch.com/2026/04/26/amazons-new-podcast-strategy-monetize-everything/) (2026-04-26)
+- [What Tim Cook built](https://techcrunch.com/2026/04/26/what-tim-cook-built/) (2026-04-26)
 - [TechCrunch Mobility: Elon’s admission](https://techcrunch.com/2026/04/26/techcrunch-mobility-elons-admission/) (2026-04-26)
 - [To buy this Bay Area home, you’ll need Anthropic equity](https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/) (2026-04-26)
-- [SpeakOn’s dictation device is a good idea marred by platform limitations](https://techcrunch.com/2026/04/26/speakons-dictation-device-is-a-good-idea-marred-by-platform-limitations/) (2026-04-26)
-- [Anthropic created a test marketplace for agent-on-agent commerce](https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/) (2026-04-25)
-- [Maine’s governor vetoes data center moratorium](https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/) (2026-04-25)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Dillo Browser Release 3.3.0](https://dillo-browser.org/release/3.3.0/) (2026-04-26)
-- [GoDaddy Gave a Domain to a Stranger Without Any Documentation](https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/) (2026-04-26)
-- [The Visible Zorker: Zork 1](https://eblong.com/infocom/visi/zork1/) (2026-04-26)
-- [Clay PCB Tutorial](https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial) (2026-04-26)
-- [Free Textbook on Engineering Thermodynamics](https://thermodynamicsbook.com/) (2026-04-26)
+- [Show HN: The Unix Magic poster, annotated (updated)](https://github.com/drio/unixmagic) (2026-04-27)
+- [Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft](https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c) (2026-04-27)
+- [FreeBSD Device Drivers Book](https://github.com/ebrandi/FDD-book) (2026-04-26)
+- [Show HN: Startup Equity Adventure Game](https://options-game-polymathrobotics.pythonanywhere.com/) (2026-04-26)
+- [Butterflies are in decline across North America, a look at the Western Monarch](https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/) (2026-04-26)
 
 </details>
 
@@ -53,11 +53,11 @@
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Strange New Worlds S4 teaser strikes a more serious tone](https://arstechnica.com/culture/2026/04/strange-new-worlds-s4-teaser-strikes-a-more-serious-tone/) (2026-04-26)
 - [Prime Video drops full trailer for Spider-Noir](https://arstechnica.com/culture/2026/04/prime-video-drops-full-trailer-for-spider-noir/) (2026-04-26)
 - [New robotic control software avoids jamming their joints](https://arstechnica.com/science/2026/04/kinematic-intelligence-helps-robots-learn-their-limits/) (2026-04-26)
 - [Artemis II broke Fred Haise's distance record, but he is happy to pass it on](https://arstechnica.com/science/2026/04/artemis-ii-broke-fred-haises-distance-record-but-he-is-happy-to-pass-it-on/) (2026-04-25)
 - [Palantir employees are talking about company's "descent into fascism"](https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/) (2026-04-25)
-- [This is who's developing Golden Dome's orbital interceptors—if they're ever built](https://arstechnica.com/space/2026/04/this-is-whos-developing-golden-domes-orbital-interceptors-if-theyre-ever-built/) (2026-04-25)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Securely Deploying OpenClaw on a VPS With Enterprise Grade Access Control](https://dev.to/dean0x/securely-deploying-openclaw-on-a-vps-with-enterprise-grade-access-control-32ji) (2026-04-26)
-- [Godel's Dichotomy as Lifecycle Disjunction: A Statement-Distributive Reframing (Paper 138)](https://dev.to/fc0web/godels-dichotomy-as-lifecycle-disjunction-a-statement-distributive-reframing-paper-138-b13) (2026-04-26)
-- [Agentic Testing Has a Discovery Gap Nobody Talks About](https://dev.to/muggleai/agentic-testing-has-a-discovery-gap-nobody-talks-about-3a9b) (2026-04-26)
-- [🦞 I Built a Safe Autonomous Email Agent with OpenClaw and It Actually Works](https://dev.to/samir_vaniya_ce9cc284f2f8/i-built-a-safe-autonomous-email-agent-with-openclaw-and-it-actually-works-1kmh) (2026-04-26)
-- [I Taught Two AIs What Not to Say About Their Humans](https://dev.to/jasmin/i-taught-two-ais-what-not-to-say-about-their-humans-2148) (2026-04-26)
+- [What If You Compressed Your Prompts Into Chinese Emoji? (A Token-Saving Thought Experiment)](https://dev.to/hammermei/what-if-you-compressed-your-prompts-into-chinese-emoji-a-token-saving-thought-experiment-3m5b) (2026-04-27)
+- [Java Map internals: a complete guide for juniors](https://dev.to/jamesonmichel6/java-map-internals-a-complete-guide-for-juniors-3cag) (2026-04-27)
+- [Building an AI WhatsApp Agent with OpenClaw: A Practical Field Guide](https://dev.to/nadinev/building-an-ai-whatsapp-agent-with-openclaw-a-practical-field-guide-51kc) (2026-04-27)
+- [Future Outlook & Operating Model](https://dev.to/nadinev/future-outlook-operating-model-8jp) (2026-04-27)
+- [(The Connection) WhatsApp Bridge](https://dev.to/nadinev/the-connection-whatsapp-bridge-1962) (2026-04-27)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Nobody Told Me AI Would Make Me Question My Entire Career at 29](https://medium.com/@TechForEveryone/nobody-told-me-ai-would-make-me-question-my-entire-career-at-29-5ff21639ffc0?source=rss------programming-5) (2026-04-26)
-- [An overview of the Qdrant Database](https://todayamerican.medium.com/an-overview-of-the-qdrant-database-be1547433441?source=rss------programming-5) (2026-04-26)
-- [The Ghost in the Machine: Why My $4,000 AI Rig Felt Like a Paperweight](https://medium.com/@ayeshha2398/the-ghost-in-the-machine-why-my-4-000-ai-rig-felt-like-a-paperweight-55ad97b37462?source=rss------programming-5) (2026-04-26)
-- [Kikplate: The Easiest Way to Start with Production-Ready Boilerplates](https://itnext.io/kikplate-the-easiest-way-to-start-with-production-ready-boilerplates-9ddd5ebe98c9?source=rss------programming-5) (2026-04-26)
-- [I Replaced 47 If-Else Blocks With Strategy Pattern. The Code Finally Started Breathing.](https://medium.com/@samurai.stateless.coder/replace-if-else-with-strategy-pattern-java-clean-code-6684b200fac1?source=rss------programming-5) (2026-04-26)
+- [.NET 11 Preview 3: The Architecture Update We Have Actually Been Waiting For](https://medium.com/@sketch.paintings/net-11-preview-3-the-architecture-update-we-have-actually-been-waiting-for-64bfecb39aeb?source=rss------programming-5) (2026-04-27)
+- [Wipro Java Full Stack Developer Interview Questions  | Spring Boot | Microservices | Kafka |…](https://medium.com/@anil-singh/wipro-java-full-stack-developer-interview-questions-spring-boot-microservices-kafka-dbc36b148309?source=rss------programming-5) (2026-04-27)
+- [From Natural Language to MongoDB Queries using Python (Build Your Own AI Query Engine](https://medium.com/@amit.rajawat12/from-natural-language-to-mongodb-queries-using-python-build-your-own-ai-query-engine-62c61c29cf5b?source=rss------programming-5) (2026-04-27)
+- [Everything You Need to Know About Templates](https://medium.com/@changsean1234/everything-you-need-to-know-about-templates-94013192cc19?source=rss------programming-5) (2026-04-27)
+- [I got paged at 2am for a bug that took me 4 hours to fix.](https://medium.com/@developwith.gt/i-got-paged-at-2am-for-a-bug-that-took-me-4-hours-to-fix-fee5ca1681a4?source=rss------programming-5) (2026-04-27)
 
 </details>
 
@@ -457,6 +457,17 @@ https://www.twilio.com/en-us/blog/developers/best-practices/getting-most-money-u
 </details>
 
 <details>
+<summary>🚀 Apollo GraphQL</summary>
+
+- [View Operational Insights Within the GraphOS Platform API](https://www.apollographql.com/blog/view-operational-insights-within-the-graphos-platform-api) (2026-04-13)
+- [Your AI Agent Doesn’t Need to Research. It Needs to Know.](https://www.apollographql.com/blog/your-ai-agent-doesnt-need-to-research-it-needs-to-know) (2026-04-07)
+- [How to Orchestrate Multiple APIs for Your LLM Agent](https://www.apollographql.com/blog/how-to-orchestrate-multiple-apis-for-your-llm-agent) (2026-03-26)
+- [How To Make Your Existing GraphQL API AI-Ready With Apollo](https://www.apollographql.com/blog/how-to-make-your-existing-graphql-api-ai-ready-with-apollo) (2026-03-19)
+- [How We Taught an AI to Nitpick Docs](https://www.apollographql.com/blog/how-we-taught-an-ai-to-nitpick-docs) (2026-03-16)
+
+</details>
+
+<details>
 <summary>📊 Airtable Blog</summary>
 
 - [Applications closing for the Airtable AI Incubator](https://blog.airtable.com/applications-closing-for-the-airtable-ai-incubator/) (2025-09-29)
@@ -530,6 +541,17 @@ https://www.twilio.com/en-us/blog/developers/best-practices/getting-most-money-u
 - [Gemma 4 VLA Demo on Jetson Orin Nano Super](https://huggingface.co/blog/nvidia/gemma4) (2026-04-22)
 - [QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard](https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard) (2026-04-21)
 - [AI and the Future of Cybersecurity: Why Openness Matters](https://huggingface.co/blog/cybersecurity-openness) (2026-04-21)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [Why AI agents need interaction infrastructure](https://www.artificialintelligence-news.com/news/why-ai-agents-need-interaction-infrastructure/) (2026-04-24)
+- [How AI models use real-time cryptocurrency data to interpret market behaviour](https://www.artificialintelligence-news.com/news/how-ai-models-use-real-time-cryptocurrency-data-to-interpret-market-behaviour/) (2026-04-24)
+- [The billion-dollar startup with a different idea for AI](https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/) (2026-04-23)
+- [NVIDIA and Google infrastructure cuts AI inference costs](https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/) (2026-04-23)
+- [Sony AI robot beats players as humanoid robot wins Beijing race](https://www.artificialintelligence-news.com/news/sony-ai-robot-table-tennis-humanoid-robot-beijing-race/) (2026-04-23)
 
 </details>
 
