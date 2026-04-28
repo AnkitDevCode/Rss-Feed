@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Drizzle on top: a new high-end dog food brand is coming for the 1%](https://techcrunch.com/2026/04/27/drizzle-on-top-a-new-high-end-dog-food-brand-is-coming-for-the-1/) (2026-04-28)
+- [India’s Snabbit closes $56M round as investor interest in on-demand home services heats up](https://techcrunch.com/2026/04/27/indias-snabbit-closes-56m-round-as-investor-interest-heats-up-in-on-demand-home-services/) (2026-04-28)
 - [Letterboxd, the social platform for film buffs, reportedly looking for new owner](https://techcrunch.com/2026/04/27/letterboxd-sale-film-social-media-semafor-versant-ankler/) (2026-04-27)
 - [Consumers lost $2.1B to social media scams in 2025, FTC reports](https://techcrunch.com/2026/04/27/consumers-lost-2-1-billion-to-social-media-scams-in-2025-ftc-reports/) (2026-04-27)
 - [OpenAI ends Microsoft legal peril over its $50B Amazon deal](https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/) (2026-04-27)
-- [DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data](https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/) (2026-04-27)
-- [Hacker who allegedly carried out cyberattacks for China is extradited to US](https://techcrunch.com/2026/04/27/hacker-who-allegedly-carried-out-cyberattacks-for-china-is-extradited-to-u-s/) (2026-04-27)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [I quit drinking for a year](https://dynomight.net/drinking/) (2026-04-28)
-- [Show HN: AgentSwift – Open-source iOS builder agent](https://github.com/hpennington/agentswift) (2026-04-28)
-- [Ted Nyman – High Performance Git](https://gitperf.com/) (2026-04-28)
-- [Integrated by Design](https://vivianvoss.net/blog/integrated-by-design-launch) (2026-04-27)
-- [Talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie) (2026-04-27)
+- [Scraping 241 UK council planning portals – 2.6M decisions so far](https://news.ycombinator.com/item?id=47931470) (2026-04-28)
+- [GTFOBins](https://gtfobins.org/) (2026-04-28)
+- [WASM is not quite a stack machine](https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/) (2026-04-28)
+- [LingBot-Map: Streaming 3D reconstruction with geometric context transformer](https://technology.robbyant.com/lingbot-map) (2026-04-28)
+- [High Performance Git](https://gitperf.com/) (2026-04-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Microsoft Office can now be controlled with Logitech’s MX Creative Console](https://www.theverge.com/tech/919165/logitech-mx-ecosystem-creative-console-productivity-plugins-microsoft-office-slack-notion) (2026-04-28)
+- [Jury selection in Musk v. Altman: ‘People don’t like him’](https://www.theverge.com/tech/919469/elon-musk-dont-like) (2026-04-28)
 - [Google is testing AI chatbot search for YouTube](https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search) (2026-04-28)
 - [Canonical lays out a plan for AI in Ubuntu Linux](https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features) (2026-04-27)
 - [Trump demands ABC fire Jimmy Kimmel](https://www.theverge.com/policy/919337/president-trump-jimmy-kimmel-fire-abc) (2026-04-27)
-- [Google employees ask Sundar Pichai to say no to classified military AI use](https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter) (2026-04-27)
-- [Conspiracy theories are swirling about the White House Correspondents’ Dinner shooting](https://www.theverge.com/news/919244/whcd-shooting-trump-social-media-conspiracy-theories) (2026-04-27)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Your LLM issues are really data issues](https://stackoverflow.blog/2026/04/28/your-llm-issues-are-really-data-issues/) (2026-04-28)
 - [Welcome to the “find out” stage of AI](https://stackoverflow.blog/2026/04/27/welcome-to-the-find-out-stage-of-ai/) (2026-04-27)
 - [Lights, camera, open source!](https://stackoverflow.blog/2026/04/24/lights-camera-open-source/) (2026-04-24)
 - [Black box AI drift: AI tools are making design decisions nobody asked for](https://stackoverflow.blog/2026/04/23/black-box-ai-drift-ai-tools-are-making-design-decisions-nobody-asked-for/) (2026-04-23)
 - [How to get multiple agents to play nice at scale ](https://stackoverflow.blog/2026/04/22/how-to-get-multiple-agents-to-play-nice-at-scale/) (2026-04-22)
-- [We still need developer communities](https://stackoverflow.blog/2026/04/21/we-still-need-developer-communities/) (2026-04-21)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Catching Hackers with Math: How I Built a Self-Healing Server](https://dev.to/ajibola_anjorin_32089a588/catching-hackers-with-math-how-i-built-a-self-healing-server-2kk2) (2026-04-28)
-- [10 Essential Open Source Projects for Beginners to Contribute to in 2024](https://dev.to/orbit_websites_b004ed2787/10-essential-open-source-projects-for-beginners-to-contribute-to-in-2024-2055) (2026-04-28)
-- [MOSS-Audio: 8B Parameters Challenge 30B, New Benchmark for Open-Source Audio Understanding Models](https://dev.to/gary_yan_86eb77d35e0070f5/moss-audio-8b-parameters-challenge-30b-new-benchmark-for-open-source-audio-understanding-models-1i3f) (2026-04-28)
-- [The Database Bottleneck You Never Saw Coming: Why 50ms Will Make or Break Your AI Agent in 2026](https://dev.to/seekdb/the-database-bottleneck-you-never-saw-coming-why-50ms-will-make-or-break-your-ai-agent-in-2026-55ok) (2026-04-28)
-- [Boosting Node.js Productivity: A Step-by-Step Guide to Setting Up a Lightning-Fast Development Environment in 2026](https://dev.to/orbit_websites_b004ed2787/boosting-nodejs-productivity-a-step-by-step-guide-to-setting-up-a-lightning-fast-development-4df2) (2026-04-28)
+- [【2026-04-28】Claude Code CLI 的 5 个隐藏用法 🔥](https://dev.to/_cbd692d476c5faf3b61bcf/2026-04-28-claude-code-cli-de-5-ge-yin-cang-yong-fa-2n04) (2026-04-28)
+- [Boost Your Claude / AI Dev Workflow with These 4 Tools](https://dev.to/sumon4skf/boost-your-claude-ai-dev-workflow-with-these-4-tools-mg8) (2026-04-28)
+- [DeepSeek-V4 Changes the Context Game for Agents — And Your Memory Architecture Should Adapt](https://dev.to/chetan_e2dbf0aed91647397c/deepseek-v4-changes-the-context-game-for-agents-and-your-memory-architecture-should-adapt-3eln) (2026-04-28)
+- [274 AI Tools, One Database: Why I Treat Competitors as Curriculum](https://dev.to/kanta13jp1/274-ai-tools-one-database-why-i-treat-competitors-as-curriculum-a9h) (2026-04-28)
+- [Agile, After Agile](https://dev.to/barriehadfield/agile-after-agile-49ni) (2026-04-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Claude Design Is Here](https://medium.com/codetodeploy/claude-design-is-here-67580bea451e?source=rss------programming-5) (2026-04-28)
-- [IPv8 Changes Everything? Not Really — The Truth Behind the Viral Claim](https://systemweakness.com/ipv8-changes-everything-not-really-the-truth-behind-the-viral-claim-b01aa2906f9c?source=rss------programming-5) (2026-04-28)
-- [04.08. Mengurutkan Tiga Integer](https://medium.com/@bayuyudhasaputraqed/04-08-mengurutkan-tiga-integer-b779fbf7fce8?source=rss------programming-5) (2026-04-28)
-- [ How to Use Claude Code for Free (No GPU, No Subscription, No Limits)](https://mediawrites.medium.com/how-to-use-claude-code-for-free-no-gpu-no-subscription-no-limits-21d1d6b18295?source=rss------programming-5) (2026-04-28)
-- [Claude Code vs Cursor: I Used Both to Build a Real SaaS for 30 Days. Here’s the Honest Verdict.](https://satyatechgeek.medium.com/claude-code-vs-cursor-i-used-both-to-build-a-real-saas-for-30-days-heres-the-honest-verdict-d2647382d1d2?source=rss------programming-5) (2026-04-28)
+- [Why Documentation Feels Useless (Until It Doesn’t)](https://medium.com/@rabailzaheer/why-documentation-feels-useless-until-it-doesnt-4e01c9d72817?source=rss------programming-5) (2026-04-28)
+- [ML Series: The “Pre-Model” — Preparation](https://medium.com/@gunelgarayzade/ml-series-the-pre-model-preparation-9063d254172e?source=rss------programming-5) (2026-04-28)
+- [I Let AI Run My Life for 7 Days — Here’s What Happened](https://medium.com/@niroulaaalok54/i-let-ai-run-my-life-for-7-days-heres-what-happened-f821094ee921?source=rss------programming-5) (2026-04-28)
+- [The Ecosystem of AI Skills](https://medium.com/@Adem_Korkmaz/the-ecosystem-of-ai-skills-061927992dce?source=rss------programming-5) (2026-04-28)
+- [Efficiently Collect 10-Year Daily Market Data: A Practical Guide to US Long-Term Historical Data…](https://medium.com/@lamj45198/efficiently-collect-10-year-daily-market-data-a-practical-guide-to-us-long-term-historical-data-d45cc88855be?source=rss------programming-5) (2026-04-28)
 
 </details>
 
