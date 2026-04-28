@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Consumers lost $2.1 billion to social media scams in 2025, FTC reports](https://techcrunch.com/2026/04/27/consumers-lost-2-1-billion-to-social-media-scams-in-2025-ftc-reports/) (2026-04-27)
+- [Letterboxd, the social platform for film buffs, reportedly looking for new owner](https://techcrunch.com/2026/04/27/letterboxd-sale-film-social-media-semafor-versant-ankler/) (2026-04-27)
+- [Consumers lost $2.1B to social media scams in 2025, FTC reports](https://techcrunch.com/2026/04/27/consumers-lost-2-1-billion-to-social-media-scams-in-2025-ftc-reports/) (2026-04-27)
 - [OpenAI ends Microsoft legal peril over its $50B Amazon deal](https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/) (2026-04-27)
 - [DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data](https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/) (2026-04-27)
 - [Hacker who allegedly carried out cyberattacks for China is extradited to US](https://techcrunch.com/2026/04/27/hacker-who-allegedly-carried-out-cyberattacks-for-china-is-extradited-to-u-s/) (2026-04-27)
-- [Investors back Skye’s AI home screen app for iPhone ahead of launch](https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/) (2026-04-27)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Our principles](https://openai.com/index/our-principles/) (2026-04-27)
-- [United Wizards of the Coast](https://unitedwizardsofthecoast.com/news/announcing-united-wizards-coast-cwa) (2026-04-27)
-- [Super ZSNES – GPU Powered SNES Emulator](https://zsnes.com/) (2026-04-27)
-- [Open-Source KiCad PCBs for Common Arduino, ESP32, RP2040 Boards](https://github.com/Hanqaqa/Easyduino) (2026-04-27)
-- [GitHub is having issues now](https://www.githubstatus.com) (2026-04-27)
+- [I quit drinking for a year](https://dynomight.net/drinking/) (2026-04-28)
+- [Show HN: AgentSwift – Open-source iOS builder agent](https://github.com/hpennington/agentswift) (2026-04-28)
+- [Ted Nyman – High Performance Git](https://gitperf.com/) (2026-04-28)
+- [Integrated by Design](https://vivianvoss.net/blog/integrated-by-design-launch) (2026-04-27)
+- [Talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie) (2026-04-27)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Google is testing AI chatbot search for YouTube](https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search) (2026-04-28)
+- [Canonical lays out a plan for AI in Ubuntu Linux](https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features) (2026-04-27)
 - [Trump demands ABC fire Jimmy Kimmel](https://www.theverge.com/policy/919337/president-trump-jimmy-kimmel-fire-abc) (2026-04-27)
 - [Google employees ask Sundar Pichai to say no to classified military AI use](https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter) (2026-04-27)
 - [Conspiracy theories are swirling about the White House Correspondents’ Dinner shooting](https://www.theverge.com/news/919244/whcd-shooting-trump-social-media-conspiracy-theories) (2026-04-27)
-- [Why the Steam Controller is (and isn’t) a big deal](https://www.theverge.com/tech/918115/steam-controller-2026-pc-deck-machine-hands-on-features) (2026-04-27)
-- [Valve’s new Steam Controller isn’t perfect, but I’m buying one anyway](https://www.theverge.com/games/918610/valve-steam-controller-review) (2026-04-27)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [China kills Meta’s acquisition of Manus as US-China AI rivalry deepens](https://arstechnica.com/ai/2026/04/china-kills-metas-acquisition-of-manus-as-us-china-ai-rivalry-deepens/) (2026-04-27)
-- [Study: Infrasound likely a key factor in alleged hauntings](https://arstechnica.com/science/2026/04/that-spooky-sensation-likely-due-to-rumbling-pipes-not-spirits/) (2026-04-27)
-- [Steam Controller: The Ars Technica review](https://arstechnica.com/gaming/2026/04/steam-controller-the-ars-technica-review/) (2026-04-27)
-- [National Science Board eviscerated; Trump admin fires all 22 members](https://arstechnica.com/science/2026/04/national-science-board-eviscerated-trump-admin-fires-all-22-members/) (2026-04-27)
-- [Next El Niño could be tipping point for a hotter climate](https://arstechnica.com/science/2026/04/next-el-nino-could-be-tipping-point-for-a-hotter-climate/) (2026-04-27)
+- [Put it in pencil: NASA's Artemis III mission will launch no earlier than late 2027](https://arstechnica.com/space/2026/04/put-it-in-pencil-nasas-artemis-iii-mission-will-launch-no-earlier-than-late-2027/) (2026-04-28)
+- [Open source package with 1 million monthly downloads stole user credentials](https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/) (2026-04-27)
+- [Musk and Altman face off in trial that will determine OpenAI's future](https://arstechnica.com/tech-policy/2026/04/musk-and-altman-face-off-in-trial-that-will-determine-openais-future/) (2026-04-27)
+- [OpenAI ends its exclusive partnership with Microsoft](https://arstechnica.com/ai/2026/04/no-longer-exclusive-microsoft-agrees-to-let-openai-see-other-cloud-providers/) (2026-04-27)
+- [EU tells Google to open up AI on Android; Google says that's "unwarranted intervention"](https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/) (2026-04-27)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Elon Musk and Sam Altman are going to court over OpenAI’s future](https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/) (2026-04-27)
 - [The missing step between hype and profit](https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/) (2026-04-27)
 - [Rebuilding the data stack for AI](https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/) (2026-04-27)
 - [The Download: DeepSeek’s latest AI breakthrough, and the race to build world models](https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/) (2026-04-27)
 - [Three reasons why DeepSeek’s new model matters](https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/) (2026-04-24)
-- [The Download: supercharged scams and studying AI healthcare](https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/) (2026-04-24)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Build an AI teammate to help with your Postgres](https://dev.to/reeshee/build-an-ai-teammate-to-help-with-your-postgres-5f99) (2026-04-27)
-- [Your LLM Judge Has Opinions. They're Not About Quality.](https://dev.to/fran3cc/your-llm-judge-has-opinions-theyre-not-about-quality-8k3) (2026-04-27)
-- [skill-tree: finding the Claude behaviors you systematically avoid](https://dev.to/palo_alto_ai/skill-tree-finding-the-claude-behaviors-you-systematically-avoid-nj0) (2026-04-27)
-- [How to Turn Your Company Into an Autonomous Knowledge Machine](https://dev.to/sampseiol1/how-to-turn-your-company-into-an-autonomous-knowledge-machine-2l97) (2026-04-27)
-- [I built my MVP with Claude Code. Now I need to deploy it. Here's what nobody tells you.](https://dev.to/chalom_ellezam_5989bce65e/i-built-my-mvp-with-claude-code-now-i-need-to-deploy-it-heres-what-nobody-tells-you-2c8c) (2026-04-27)
+- [Catching Hackers with Math: How I Built a Self-Healing Server](https://dev.to/ajibola_anjorin_32089a588/catching-hackers-with-math-how-i-built-a-self-healing-server-2kk2) (2026-04-28)
+- [10 Essential Open Source Projects for Beginners to Contribute to in 2024](https://dev.to/orbit_websites_b004ed2787/10-essential-open-source-projects-for-beginners-to-contribute-to-in-2024-2055) (2026-04-28)
+- [MOSS-Audio: 8B Parameters Challenge 30B, New Benchmark for Open-Source Audio Understanding Models](https://dev.to/gary_yan_86eb77d35e0070f5/moss-audio-8b-parameters-challenge-30b-new-benchmark-for-open-source-audio-understanding-models-1i3f) (2026-04-28)
+- [The Database Bottleneck You Never Saw Coming: Why 50ms Will Make or Break Your AI Agent in 2026](https://dev.to/seekdb/the-database-bottleneck-you-never-saw-coming-why-50ms-will-make-or-break-your-ai-agent-in-2026-55ok) (2026-04-28)
+- [Boosting Node.js Productivity: A Step-by-Step Guide to Setting Up a Lightning-Fast Development Environment in 2026](https://dev.to/orbit_websites_b004ed2787/boosting-nodejs-productivity-a-step-by-step-guide-to-setting-up-a-lightning-fast-development-4df2) (2026-04-28)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Modern Data Science Stack in 2026: Tools, Trends, and What I Actually Use Daily](https://medium.com/codex/modern-data-science-stack-in-2026-tools-trends-and-what-i-actually-use-daily-5d72a2cb0f8a?source=rss------programming-5) (2026-04-27)
-- [GitHub Actions vs Jenkins vs GitLab CI: I Built the Same Pipeline in All Three.](https://blog.stackademic.com/github-actions-vs-jenkins-vs-gitlab-ci-i-built-the-same-pipeline-in-all-three-b0ae066e14ad?source=rss------programming-5) (2026-04-27)
-- [We Used MongoDB Because “It Scales”. At 10M Documents, PostgreSQL Would’ve Been Faster.](https://medium.com/@codewar_with_me/we-used-mongodb-because-it-scales-at-10m-documents-postgresql-wouldve-been-faster-3c30a7be8fbb?source=rss------programming-5) (2026-04-27)
-- [Cracking the Code: Your 2026–27 Guide to Barclays Java Spring Boot Microservice Interviews ✨](https://medium.com/@monikasinghal713/cracking-the-code-your-2026-27-guide-to-barclays-java-spring-boot-microservice-interviews-50e346b791c8?source=rss------programming-5) (2026-04-27)
-- [How to control a led with a button (beginner guide)](https://medium.com/@sseguiamanar/how-to-control-a-led-with-a-button-beginner-guide-1d3a1ecfc339?source=rss------programming-5) (2026-04-27)
+- [Claude Design Is Here](https://medium.com/codetodeploy/claude-design-is-here-67580bea451e?source=rss------programming-5) (2026-04-28)
+- [IPv8 Changes Everything? Not Really — The Truth Behind the Viral Claim](https://systemweakness.com/ipv8-changes-everything-not-really-the-truth-behind-the-viral-claim-b01aa2906f9c?source=rss------programming-5) (2026-04-28)
+- [04.08. Mengurutkan Tiga Integer](https://medium.com/@bayuyudhasaputraqed/04-08-mengurutkan-tiga-integer-b779fbf7fce8?source=rss------programming-5) (2026-04-28)
+- [ How to Use Claude Code for Free (No GPU, No Subscription, No Limits)](https://mediawrites.medium.com/how-to-use-claude-code-for-free-no-gpu-no-subscription-no-limits-21d1d6b18295?source=rss------programming-5) (2026-04-28)
+- [Claude Code vs Cursor: I Used Both to Build a Real SaaS for 30 Days. Here’s the Honest Verdict.](https://satyatechgeek.medium.com/claude-code-vs-cursor-i-used-both-to-build-a-real-saas-for-30-days-heres-the-honest-verdict-d2647382d1d2?source=rss------programming-5) (2026-04-28)
 
 </details>
 
@@ -152,11 +152,11 @@
 <details>
 <summary>🍎 Apple Developer News</summary>
 
+- [Now Available: Monthly Subscriptions with a 12-Month Commitment](https://developer.apple.com/news/?id=agq42lxe) (2026-04-27)
 - [Lykke Studios: In pursuit of puffy perfection](https://developer.apple.com/news/?id=5t9gew40) (2026-04-24)
 - [Hello Developer: April 2026](https://developer.apple.com/news/?id=e1ssia6m) (2026-04-07)
 - [How Infold Games fashioned an open world for Infinity Nikki](https://developer.apple.com/news/?id=9mgkwjnm) (2026-04-03)
 - [Q&amp;A: How Plane Finder set itself up for the long haul](https://developer.apple.com/news/?id=cmd9p4g7) (2026-04-03)
-- [App Store expands support to 11 new languages](https://developer.apple.com/news/?id=97t4mt64) (2026-03-31)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.36: Mutable Pod Resources for Suspended Jobs (beta)](https://kubernetes.io/blog/2026/04/27/kubernetes-v1-36-mutable-pod-resources-for-suspended-jobs/) (2026-04-27)
 - [Kubernetes v1.36: Fine-Grained Kubelet API Authorization Graduates to GA](https://kubernetes.io/blog/2026/04/24/kubernetes-v1-36-fine-grained-kubelet-authorization-ga/) (2026-04-24)
 - [Kubernetes v1.36: User Namespaces in Kubernetes are finally GA](https://kubernetes.io/blog/2026/04/23/kubernetes-v1-36-userns-ga/) (2026-04-23)
 - [SELinux Volume Label Changes goes GA (and likely implications in v1.37)](https://kubernetes.io/blog/2026/04/22/breaking-changes-in-selinux-volume-labeling/) (2026-04-22)
 - [Kubernetes v1.36: ハル (Haru)](https://kubernetes.io/blog/2026/04/22/kubernetes-v1-36-release/) (2026-04-22)
-- [Gateway API v1.5: Moving features to Stable](https://kubernetes.io/blog/2026/04/21/gateway-api-v1-5/) (2026-04-21)
 
 </details>
 
@@ -328,11 +328,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [Give your AI agent direct, structured GitLab access with glab CLI](https://about.gitlab.com/blog/give-your-ai-agent-direct-structured-gitlab-access-with-glab-cli/) (2026-04-27)
 - [curl removed from Omnibus-GitLab FIPS packages in 19.0](https://about.gitlab.com/blog/curl-removed-from-omnibus-gitlab-fips-packages-in-19-0/) (2026-04-24)
 - [GitLab AI Hackathon 2026: Meet the winners](https://about.gitlab.com/blog/gitlab-ai-hackathon-2026-meet-the-winners/) (2026-04-22)
 - [GitLab Patch Release: 18.11.1, 18.10.4, 18.9.6](https://docs.gitlab.com/releases/patches/patch-release-gitlab-18-11-1-released/) (2026-04-22)
 - [GitLab + Amazon: Platform orchestration on a trusted AI foundation](https://about.gitlab.com/blog/gitlab-amazon-platform-orchestration-on-a-trusted-ai-foundation/) (2026-04-21)
-- [What’s new in Git 2.54.0?](https://about.gitlab.com/blog/whats-new-in-git-2-54-0/) (2026-04-20)
 
 </details>
 
@@ -537,10 +537,10 @@ https://www.twilio.com/en-us/blog/developers/best-practices/getting-most-money-u
 <details>
 <summary>🤗 Hugging Face</summary>
 
+- [Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI](https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging) (2026-04-28)
 - [How to build scalable web apps with OpenAI's Privacy Filter](https://huggingface.co/blog/openai-privacy-filter-web-apps) (2026-04-27)
 - [DeepSeek-V4: a million-token context that agents can actually use](https://huggingface.co/blog/deepseekv4) (2026-04-24)
 - [How to Use Transformers.js in a Chrome Extension](https://huggingface.co/blog/transformersjs-chrome-extension) (2026-04-23)
-- [Gemma 4 VLA Demo on Jetson Orin Nano Super](https://huggingface.co/blog/nvidia/gemma4) (2026-04-22)
 - [QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard](https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard) (2026-04-21)
 
 </details>
