@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [How one venture firm is investing in an increasingly fragmented world](https://techcrunch.com/2026/04/28/how-one-venture-firm-is-navigating-an-increasingly-fragmented-world/) (2026-04-29)
 - [At his OpenAI trial, Musk relitigates an old friendship](https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/) (2026-04-29)
 - [Amazon is already offering new OpenAI products on AWS](https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/) (2026-04-28)
 - [Amazon launches an AI-powered audio Q&A experience on product pages](https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/) (2026-04-28)
 - [Match Group invests $100M in Sniffies, a cruising app for gay men](https://techcrunch.com/2026/04/28/match-group-invests-100-million-in-sniffies-a-cruising-app-for-gay-men/) (2026-04-28)
-- [Google expands Pentagon’s access to its AI after Anthropic’s refusal](https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/) (2026-04-28)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [We decreased our LLM costs with Opus](https://www.mendral.com/blog/frontier-model-lower-costs) (2026-04-29)
-- [Claude system prompt bug wastes user money and bricks managed agents](https://github.com/anthropics/claude-code/issues/49363) (2026-04-28)
-- [ChatGPT serves ads. Here's the full attribution loop](https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/) (2026-04-28)
-- [Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work) (2026-04-28)
-- [Apple CMF (Color-Matching Functions) 2026](https://www.lttlabs.com/articles/2026/04/11/apple-studio-display-xdr-display-testing-results) (2026-04-28)
+- [Wire to Replace Signal as Standard in the Bundestag](https://www.heise.de/en/news/Digital-Sovereignty-Wire-to-Replace-Signal-as-Standard-in-the-Bundestag-11275755.html) (2026-04-29)
+- [Low-Compilation-Cost Register Allocation in LLVM-Based Binary Translation](https://dl.acm.org/doi/abs/10.1145/3767295.3803591) (2026-04-29)
+- [Germany Overtakes US in Ammunition Production Capacity](https://www.newsweek.com/germany-overtakes-us-in-ammunition-production-capacity-11886409) (2026-04-29)
+- [HardenedBSD Is Now Officially on Radicle](https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle) (2026-04-29)
+- [Bugs Rust won't catch](https://corrode.dev/blog/bugs-rust-wont-catch/) (2026-04-29)
 
 </details>
 
@@ -95,24 +95,13 @@
 </details>
 
 <details>
-<summary>👨‍💻 Dev.to</summary>
-
-- [Stop Turning On “Think Harder” For Everything](https://dev.to/vonb/stop-turning-on-think-harder-for-everything-2f0c) (2026-04-29)
-- [GitHub Copilot Changed the Deal. That Is the Whole Lesson.](https://dev.to/vonb/github-copilot-changed-the-deal-that-is-the-whole-lesson-47d3) (2026-04-29)
-- [Comparison: Contentlayer 2.0 vs. MDX 3.0 for Building Blogs with Next.js 15](https://dev.to/johalputt/comparison-contentlayer-20-vs-mdx-30-for-building-blogs-with-nextjs-15-50ik) (2026-04-29)
-- [One Open Source Project a Day (No.51): VibeVoice - Microsoft's Speech AI That Processes 90 Minutes of Audio in a Single Pass](https://dev.to/wonderlab/one-open-source-project-a-day-no51-vibevoice-microsofts-speech-ai-that-processes-90-minutes-3k6p) (2026-04-29)
-- [The End of All-You-Can-Eat AI: How April 2026 Killed the Flat-Rate Era for Developers](https://dev.to/ppiova/the-end-of-all-you-can-eat-ai-how-april-2026-killed-the-flat-rate-era-for-developers-5260) (2026-04-29)
-
-</details>
-
-<details>
 <summary>✍️ Medium - Programming</summary>
 
-- [From Beginner to Job Placement: My 6-Month Web Development Journey with Programming Hero](https://medium.com/@lavibuddin.ashik/from-beginner-to-job-placement-my-6-month-web-development-journey-with-programming-hero-e756c9f2c599?source=rss------programming-5) (2026-04-29)
-- [Beyond Static Validation: The Factory Pattern for Zod and React Hook Form](https://javascript.plainenglish.io/beyond-static-validation-the-factory-pattern-for-zod-and-react-hook-form-c8137adf5118?source=rss------programming-5) (2026-04-29)
-- [Accenture Java Backend Interview Experience](https://medium.com/@anil-singh/accenture-java-backend-interview-experience-941dbb40d5f5?source=rss------programming-5) (2026-04-29)
-- [Python series 4b](https://medium.com/@Commoness/python-series-4b-76905d329571?source=rss------programming-5) (2026-04-29)
-- [10 Real-World Backend Problems No Tutorial Ever Tells You About](https://javascript.plainenglish.io/10-real-world-backend-problems-no-tutorial-ever-tells-you-about-7269ed3d933c?source=rss------programming-5) (2026-04-29)
+- [Python Roadmap for Beginners in 2026: Learn Less, Build More](https://medium.com/@webmasterzestmindsacademy/python-roadmap-for-beginners-in-2026-8cfbdf668e32?source=rss------programming-5) (2026-04-29)
+- [I Failed My First JavaScript Interview.](https://medium.com/@singhkhushi7307/i-failed-my-first-javascript-interview-dd2650135037?source=rss------programming-5) (2026-04-29)
+- [I Built a Lightweight Modern Alert Dialog Library for JavaScript — Introducing KAlert.js](https://coderx09.medium.com/i-built-a-lightweight-modern-alert-dialog-library-for-javascript-introducing-kalert-js-5a1b7c0cd753?source=rss------programming-5) (2026-04-29)
+- [I thought building two Apple apps at once would kill me. It saved me.](https://thisyushen.medium.com/i-thought-building-two-apple-apps-at-once-would-kill-me-it-saved-me-f1cbc115e4a2?source=rss------programming-5) (2026-04-29)
+- [Context Engineering erklärt: Mechanismen zur Entscheidung, wann Kontext komprimiert werden sollte](https://createmomo.medium.com/context-engineering-erkl%C3%A4rt-mechanismen-zur-entscheidung-wann-kontext-komprimiert-werden-sollte-d0eaaea24da7?source=rss------programming-5) (2026-04-29)
 
 </details>
 
@@ -569,11 +558,11 @@ https://www.twilio.com/en-us/blog/developers/best-practices/getting-most-money-u
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [MCP vs Agent Skills: Different Altogether](https://www.analyticsvidhya.com/blog/2026/04/mcp-vs-agent-skills/) (2026-04-29)
 - [GPT 5.5 vs Opus 4.7: Which is the Best AI Model Today?](https://www.analyticsvidhya.com/blog/2026/04/gpt-5-5-vs-opus-4-7/) (2026-04-28)
 - [What is Agentic AI?](https://www.analyticsvidhya.com/blog/2026/04/what-is-agentic-ai/) (2026-04-28)
 - [Claude Code vs Codex: A Detailed Terminal Agent Comparison ](https://www.analyticsvidhya.com/blog/2026/04/claude-code-vs-codex/) (2026-04-27)
 - [Google Deep Research Max: Build Autonomous AI Research Agents in Minutes](https://www.analyticsvidhya.com/blog/2026/04/deep-research-max-technical-guide/) (2026-04-27)
-- [Meta Muse Spark Review: Is It Worth the Hype?](https://www.analyticsvidhya.com/blog/2026/04/meta-muse-spark-review/) (2026-04-27)
 
 </details>
 
