@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [How one venture firm is investing in an increasingly fragmented world](https://techcrunch.com/2026/04/28/how-one-venture-firm-is-navigating-an-increasingly-fragmented-world/) (2026-04-29)
-- [At his OpenAI trial, Musk relitigates an old friendship](https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/) (2026-04-29)
-- [Amazon is already offering new OpenAI products on AWS](https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/) (2026-04-28)
-- [Amazon launches an AI-powered audio Q&A experience on product pages](https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/) (2026-04-28)
-- [Match Group invests $100M in Sniffies, a cruising app for gay men](https://techcrunch.com/2026/04/28/match-group-invests-100-million-in-sniffies-a-cruising-app-for-gay-men/) (2026-04-28)
+- [Sri Lanka discloses another missing payment, days after hackers stole $2.5M from its finance ministry](https://techcrunch.com/2026/04/29/sri-lanka-discloses-another-missing-payment-days-after-hackers-stole-2-5m-from-its-finance-ministry/) (2026-04-29)
+- [Firestorm Labs raises $82M to take drone factories into the field](https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/) (2026-04-29)
+- [BMW i Ventures has a new $300M fund and AI is riding shotgun](https://techcrunch.com/2026/04/29/bmw-i-ventures-has-a-new-300m-fund-and-ai-is-riding-shotgun/) (2026-04-29)
+- [Meet Shapes, the app bringing humans and AI into the same group chats](https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/) (2026-04-29)
+- [Google Translate now lets you practice pronunciation](https://techcrunch.com/2026/04/29/google-translate-now-lets-you-practice-pronunciation/) (2026-04-29)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Wire to Replace Signal as Standard in the Bundestag](https://www.heise.de/en/news/Digital-Sovereignty-Wire-to-Replace-Signal-as-Standard-in-the-Bundestag-11275755.html) (2026-04-29)
-- [Low-Compilation-Cost Register Allocation in LLVM-Based Binary Translation](https://dl.acm.org/doi/abs/10.1145/3767295.3803591) (2026-04-29)
-- [Germany Overtakes US in Ammunition Production Capacity](https://www.newsweek.com/germany-overtakes-us-in-ammunition-production-capacity-11886409) (2026-04-29)
-- [HardenedBSD Is Now Officially on Radicle](https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle) (2026-04-29)
-- [Bugs Rust won't catch](https://corrode.dev/blog/bugs-rust-wont-catch/) (2026-04-29)
+- [Notepad++ Code Editor Comes to Mac After 20-Year Wait](https://www.macrumors.com/2026/04/29/notepad-plus-plus-editor-comes-to-mac/) (2026-04-29)
+- [Letting AI play my game – building an agentic test harness to help play-testing](https://blog.jeffschomay.com/letting-ai-play-my-game) (2026-04-29)
+- [He asked AI to count carbs 27000 times. It couldn't give the same answer twice](https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/) (2026-04-29)
+- [Show HN: Adblock-rust Manager – Firefox extension to enable the Brave ad blocker](https://github.com/electricant/adblock-rust-manager) (2026-04-29)
+- [Coffee with a splash of physics: how to make the most out of your brew](https://physicsworld.com/a/coffee-with-a-splash-of-physics-how-to-make-the-most-out-of-your-brew/) (2026-04-29)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [It’s primetime for conspiracy theorist video creators](https://www.theverge.com/streaming/919291/white-house-correspondents-dinner-conspiracy-videos-false-flag) (2026-04-28)
-- [Elon Musk appeared more petty than prepared](https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one) (2026-04-28)
-- [James Comey indicted over Instagram seashell photo that allegedly threatened Trump](https://www.theverge.com/policy/920131/james-comey-indicted-over-instagram-seashell-photo-that-allegedly-threatened-trump) (2026-04-28)
-- [Elon Musk tells the jury that all he wants to do is save humanity](https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity) (2026-04-28)
-- [Taylor Swift is stepping up the legal war on AI copycats](https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats) (2026-04-28)
+- [Taylor Swift deepfakes are pushing scams on TikTok](https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks) (2026-04-29)
+- [Electric air taxis are finally taking flight — just not with passengers](https://www.theverge.com/transportation/919532/joby-aviation-electric-air-taxi-jfk-manhattan-faa) (2026-04-29)
+- [Saros reminded me how great the DualSense can be](https://www.theverge.com/games/920070/saros-ps5-dualsense-controller-haptics-rumble) (2026-04-29)
+- [Your PS5 can now transform into a Linux PC](https://www.theverge.com/news/920322/ps5-linux-project-exploit-install) (2026-04-29)
+- [Meta isn’t doing enough to keep kids off Facebook and Instagram, rules EU](https://www.theverge.com/tech/920313/meta-facebook-instagram-eu-dsa-age-verification) (2026-04-29)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [A Falcon 9 rocket will hit the Moon this summer at seven times the speed of sound](https://arstechnica.com/space/2026/04/a-falcon-9-upper-stage-will-strike-the-moon-in-august/) (2026-04-29)
+- [Sam Altman is “the face of evil” for not reporting school shooter, says lawyer](https://arstechnica.com/tech-policy/2026/04/school-shooting-lawsuits-accuse-openai-of-hiding-violent-chatgpt-users/) (2026-04-29)
+- [Check your gravity with NASA's Artemis II zero-g indicator](https://arstechnica.com/space/2026/04/check-your-gravity-with-nasas-artemis-ii-zero-g-indicator/) (2026-04-29)
+- [Why a recent supply-chain attack singled out security firms Checkmarx and Bitwarden](https://arstechnica.com/information-technology/2026/04/why-a-recent-supply-chain-attack-singled-out-security-firms-checkmarx-and-bitwarden/) (2026-04-29)
 - [Anti-Trump Instagram pic of seashells now enough to indict ex-FBI directors](https://arstechnica.com/tech-policy/2026/04/anti-trump-instagram-pic-of-seashells-now-enough-to-indict-ex-fbi-directors/) (2026-04-28)
-- [Flesh-eating bacteria devour man's arm and leg in just three days](https://arstechnica.com/health/2026/04/flesh-eating-bacteria-devour-mans-arm-and-leg-in-just-three-days/) (2026-04-28)
-- [FCC orders review of ABC licenses after Kimmel joke offends Trump and first lady](https://arstechnica.com/tech-policy/2026/04/fcc-orders-review-of-abc-licenses-after-kimmel-joke-offends-trump-and-first-lady/) (2026-04-28)
-- [Drone pilot makes US rescind no-fly zones around unmarked, moving ICE vehicles](https://arstechnica.com/gadgets/2026/04/no-fly-zones-around-moving-ice-vehicles-this-drone-pilot-fought-back-and-won/) (2026-04-28)
-- [Humanoid robots start sorting luggage in Tokyo airport test amid labor shortage](https://arstechnica.com/ai/2026/04/japan-airlines-tests-having-robots-instead-of-humans-handle-travelers-luggage/) (2026-04-28)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: storing nuclear waste and orchestrating agents](https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/) (2026-04-29)
+- [It’s time to make a plan for nuclear waste](https://www.technologyreview.com/2026/04/29/1136659/plan-nuclear-waste/) (2026-04-29)
 - [The Download: Musk and Altman’s legal showdown, and AI’s profit problem](https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/) (2026-04-28)
 - [Elon Musk and Sam Altman are going to court over OpenAI’s future](https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/) (2026-04-27)
 - [The missing step between hype and profit](https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/) (2026-04-27)
-- [Rebuilding the data stack for AI](https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/) (2026-04-27)
-- [The Download: DeepSeek’s latest AI breakthrough, and the race to build world models](https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/) (2026-04-27)
 
 </details>
 
@@ -95,13 +95,24 @@
 </details>
 
 <details>
+<summary>👨‍💻 Dev.to</summary>
+
+- [How I Use Hister](https://dev.to/hister/how-i-use-hister-3f2d) (2026-04-29)
+- [AMA with Solana's Brianna Migliaccio](https://dev.to/100daysofsolana/ama-with-solanas-brianna-migliaccio-ahb) (2026-04-29)
+- [2 Weeks After Product Hunt: The Numbers Nobody Shows You](https://dev.to/aritomofukuda/2-weeks-after-product-hunt-the-numbers-nobody-shows-you-1m2b) (2026-04-29)
+- [How Google Cloud Is Making AI App Development Easier in 2026](https://dev.to/muthu_kumar_444404bfc3f50/how-google-cloud-is-making-ai-app-development-easier-in-2026-5f1g) (2026-04-29)
+- [Cursor AI 2026: The Complete Guide to the AI-Native IDE](https://dev.to/sahilkhurana/cursor-ai-2026-the-complete-guide-to-the-ai-native-ide-3n4h) (2026-04-29)
+
+</details>
+
+<details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Python Roadmap for Beginners in 2026: Learn Less, Build More](https://medium.com/@webmasterzestmindsacademy/python-roadmap-for-beginners-in-2026-8cfbdf668e32?source=rss------programming-5) (2026-04-29)
-- [I Failed My First JavaScript Interview.](https://medium.com/@singhkhushi7307/i-failed-my-first-javascript-interview-dd2650135037?source=rss------programming-5) (2026-04-29)
-- [I Built a Lightweight Modern Alert Dialog Library for JavaScript — Introducing KAlert.js](https://coderx09.medium.com/i-built-a-lightweight-modern-alert-dialog-library-for-javascript-introducing-kalert-js-5a1b7c0cd753?source=rss------programming-5) (2026-04-29)
-- [I thought building two Apple apps at once would kill me. It saved me.](https://thisyushen.medium.com/i-thought-building-two-apple-apps-at-once-would-kill-me-it-saved-me-f1cbc115e4a2?source=rss------programming-5) (2026-04-29)
-- [Context Engineering erklärt: Mechanismen zur Entscheidung, wann Kontext komprimiert werden sollte](https://createmomo.medium.com/context-engineering-erkl%C3%A4rt-mechanismen-zur-entscheidung-wann-kontext-komprimiert-werden-sollte-d0eaaea24da7?source=rss------programming-5) (2026-04-29)
+- [I Quit Using One AI for Everything. Here’s the Routing System That Saved Me $80 a Month.](https://medium.com/@adityakumar_82046/i-quit-using-one-ai-for-everything-heres-the-routing-system-that-saved-me-80-a-month-3b064dde666b?source=rss------programming-5) (2026-04-29)
+- [How AI is Revolutionizing Business and Everyday Life: An In-Depth Look](https://mrgulshanyadav.medium.com/how-ai-is-revolutionizing-business-and-everyday-life-an-in-depth-look-63f426888eb2?source=rss------programming-5) (2026-04-29)
+- [Setting Up Dependency-Track for SBOM-Based Supply Chain Security](https://medium.com/@prateekjain.dev/stop-ignoring-supply-chain-attacks-set-up-dependency-track-in-30-minutes-a5c25871b815?source=rss------programming-5) (2026-04-29)
+- [Can an LLM Predict the Future If It’s Stuck in 1930?](https://medium.com/data-science-collective/can-an-llm-predict-the-future-if-its-stuck-in-1930-297fc5ab1cd2?source=rss------programming-5) (2026-04-29)
+- [AI Brought Me Back to Building](https://medium.com/@mosquera/ai-brought-me-back-to-building-6e2882d4440d?source=rss------programming-5) (2026-04-29)
 
 </details>
 
@@ -295,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Next-Level Observability with OpenTelemetry](https://blog.jetbrains.com/kotlin/2026/04/next-level-observability-with-opentelemetry/) (2026-04-29)
 - [Our 2026 Direction: AI and Classic Workflows in JetBrains IDEs](https://blog.jetbrains.com/ai/2026/04/our-2026-direction-ai-and-classic-workflows-in-jetbrains-ides/) (2026-04-28)
 - [[Livestream] TeamCity 2026.1: AI, Pipelines, and Enterprise CI/CD Improvements](https://blog.jetbrains.com/teamcity/2026/04/livestream-teamcity-2026-1/) (2026-04-28)
 - [Popular Go Web Frameworks: A Practical Guide for Developers](https://blog.jetbrains.com/go/2026/04/28/popular-golang-web-frameworks/) (2026-04-28)
 - [Building or Buying: The Agentic Analytics Dilemma](https://blog.jetbrains.com/databao/2026/04/building-or-buying/) (2026-04-28)
-- [Introducing the Skill Manager and Skill Repository](https://blog.jetbrains.com/ai/2026/04/using-acp-deep-agents-to-demystify-modern-software-engineering-2/) (2026-04-28)
 
 </details>
 
@@ -536,22 +547,22 @@ https://www.twilio.com/en-us/blog/developers/best-practices/getting-most-money-u
 <details>
 <summary>🤖 AI News</summary>
 
+- [GPT-5.5 is OpenAI’s most capable agentic AI model yet](https://www.artificialintelligence-news.com/news/gpt-5-5-is-openais-most-capable-agentic-ai-model-yet-at-twice-the-api-price/) (2026-04-29)
 - [IBM launches AI platform Bob to regulate SDLC costs](https://www.artificialintelligence-news.com/news/ibm-launches-ai-platform-bob-to-regulate-sdlc-costs/) (2026-04-28)
 - [The evolution of encoders: From simple models to multimodal AI](https://www.artificialintelligence-news.com/news/the-evolution-of-encoders-from-simple-models-to-multimodal-ai/) (2026-04-28)
 - [Kakao Mobility details Level 4 autonomous driving roadmap for physical AI](https://www.artificialintelligence-news.com/news/kakao-mobility-level-4-autonomous-driving-roadmap/) (2026-04-28)
 - [Lightelligence’s 400% debut is a bet that AI’s next bottleneck is the optical interconnect](https://www.artificialintelligence-news.com/news/lightelligence-ipo-optical-interconnect-ai-infrastructure/) (2026-04-28)
-- [Google warns malicious web pages are poisoning AI agents](https://www.artificialintelligence-news.com/news/google-warns-malicious-web-pages-poisoning-ai-agents/) (2026-04-27)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Agentic AI: How to Save on Tokens](https://towardsdatascience.com/agentic-ai-how-to-save-on-tokens/) (2026-04-29)
+- [System Design Series: Apache Flink from 10,000 Feet, and Building a Flink-powered Recommendation Engine](https://towardsdatascience.com/system-design-series-apache-flink-from-10000-feet-and-building-a-flink-powered-recommendation-engine/) (2026-04-29)
 - [Let the AI Do the Experimenting](https://towardsdatascience.com/let-the-ai-do-the-experimenting/) (2026-04-28)
 - [Correlation Doesn’t Mean Causation! But What Does It Mean?](https://towardsdatascience.com/correlation-doesnt-mean-causation-but-what-does-it-mean/) (2026-04-28)
 - [The Next Frontier of AI in Production Is Chaos Engineering](https://towardsdatascience.com/the-next-frontier-of-ai-in-production-is-chaos-engineering/) (2026-04-28)
-- [PyTorch NaNs Are Silent Killers — So I Built a 3ms Hook to Catch Them at the Exact Layer](https://towardsdatascience.com/pytorch-nans-are-silent-killers-i-built-a-3ms-hook-to-catch-them-at-the-exact-layer/) (2026-04-28)
-- [A Career in Data Is Not Always a Straight Line, and That’s Okay](https://towardsdatascience.com/a-career-in-data-is-not-always-a-straight-line-and-thats-okay/) (2026-04-27)
 
 </details>
 
@@ -569,22 +580,22 @@ https://www.twilio.com/en-us/blog/developers/best-practices/getting-most-money-u
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Self-Hosted LLMs in the Real World: Limits, Workarounds, and Hard Lessons](https://www.kdnuggets.com/self-hosted-llms-in-the-real-world-limits-workarounds-and-hard-lessons) (2026-04-29)
 - [Local Whisper Audio Transcription](https://www.kdnuggets.com/local-whisper-audio-transcription) (2026-04-28)
 - [A/B Testing Pitfalls: What Works and What Doesn’t with Real Data](https://www.kdnuggets.com/a-b-testing-pitfalls-what-works-and-what-doesnt-with-real-data) (2026-04-28)
 - [10 Python Libraries for Building LLM Applications](https://www.kdnuggets.com/10-python-libraries-for-building-llm-applications) (2026-04-27)
 - [7 Practical OpenClaw Use Cases You Should Know](https://www.kdnuggets.com/7-practical-openclaw-use-cases-you-should-know) (2026-04-24)
-- [AI Engineering Hub Breakdown: 10 Agentic Projects You Can Fork Today](https://www.kdnuggets.com/ai-engineering-hub-breakdown-10-agentic-projects-you-can-fork-today) (2026-04-23)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Building AI Agents in Python with Pydantic AI](https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/) (2026-04-29)
 - [Effective Context Engineering for AI Agents: A Developer’s Guide](https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/) (2026-04-28)
 - [Text Summarization with Scikit-LLM](https://machinelearningmastery.com/text-summarization-with-scikit-llm/) (2026-04-27)
 - [Building AI Agents with Local Small Language Models](https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/) (2026-04-23)
 - [Train, Serve, and Deploy a Scikit-learn Model with FastAPI](https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/) (2026-04-22)
-- [AI Agent Memory Explained in 3 Levels of Difficulty](https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/) (2026-04-21)
 
 </details>
 
