@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [At his OpenAI trial, Musk relitigates an old friendship](https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/) (2026-04-29)
+- [Amazon is already offering new OpenAI products on AWS](https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/) (2026-04-28)
 - [Amazon launches an AI-powered audio Q&A experience on product pages](https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/) (2026-04-28)
 - [Match Group invests $100M in Sniffies, a cruising app for gay men](https://techcrunch.com/2026/04/28/match-group-invests-100-million-in-sniffies-a-cruising-app-for-gay-men/) (2026-04-28)
 - [Google expands Pentagon’s access to its AI after Anthropic’s refusal](https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/) (2026-04-28)
-- [Paragon is not collaborating with Italian authorities probing spyware attacks, report says](https://techcrunch.com/2026/04/28/paragon-is-not-collaborating-with-italian-authorities-probing-spyware-attacks-report-says/) (2026-04-28)
-- [US Supreme Court appears split over controversial use of ‘geofence’ search warrants](https://techcrunch.com/2026/04/28/scotus-chatrie-geofence-search-warrant-ruling-arguments/) (2026-04-28)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [DOOM running in ChatGPT and Claude](https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/) (2026-04-28)
-- [Bankruptcies Increase 11.9 Percent](https://www.uscourts.gov/data-news/judiciary-news/2026/04/23/bankruptcies-increase-119-percent) (2026-04-28)
-- [Waymo in Portland](https://waymo.com/blog/shorts/waymo-in-portland/) (2026-04-28)
-- [Claude.ai is unavailable](https://status.claude.com/incidents/9l93x2ht4s5w) (2026-04-28)
-- [Warp is now Open-Source](https://github.com/warpdotdev/warp) (2026-04-28)
+- [We decreased our LLM costs with Opus](https://www.mendral.com/blog/frontier-model-lower-costs) (2026-04-29)
+- [Claude system prompt bug wastes user money and bricks managed agents](https://github.com/anthropics/claude-code/issues/49363) (2026-04-28)
+- [ChatGPT serves ads. Here's the full attribution loop](https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/) (2026-04-28)
+- [Claude for Creative Work](https://www.anthropic.com/news/claude-for-creative-work) (2026-04-28)
+- [Apple CMF (Color-Matching Functions) 2026](https://www.lttlabs.com/articles/2026/04/11/apple-studio-display-xdr-display-testing-results) (2026-04-28)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit) (2026-04-28)
-- [Elon Musk takes the stand in high-profile trial against OpenAI](https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman) (2026-04-28)
-- [You can get dragged into a police investigation by proximity alone — for now](https://www.theverge.com/report/919664/chatrie-v-united-states-supreme-court-arguments-fourth-amendment-geofence-warrants) (2026-04-28)
-- [Google Home makes it easier to understand why devices aren&#8217;t working](https://www.theverge.com/tech/919787/google-home-instant-account-relinking-update) (2026-04-28)
-- [The Nex Playground gaming console is $60 off this week](https://www.theverge.com/gadgets/919736/nex-playground-amazon-gaming-week-deal-sale) (2026-04-28)
+- [It’s primetime for conspiracy theorist video creators](https://www.theverge.com/streaming/919291/white-house-correspondents-dinner-conspiracy-videos-false-flag) (2026-04-28)
+- [Elon Musk appeared more petty than prepared](https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one) (2026-04-28)
+- [James Comey indicted over Instagram seashell photo that allegedly threatened Trump](https://www.theverge.com/policy/920131/james-comey-indicted-over-instagram-seashell-photo-that-allegedly-threatened-trump) (2026-04-28)
+- [Elon Musk tells the jury that all he wants to do is save humanity](https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity) (2026-04-28)
+- [Taylor Swift is stepping up the legal war on AI copycats](https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats) (2026-04-28)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Anti-Trump Instagram pic of seashells now enough to indict ex-FBI directors](https://arstechnica.com/tech-policy/2026/04/anti-trump-instagram-pic-of-seashells-now-enough-to-indict-ex-fbi-directors/) (2026-04-28)
+- [Flesh-eating bacteria devour man's arm and leg in just three days](https://arstechnica.com/health/2026/04/flesh-eating-bacteria-devour-mans-arm-and-leg-in-just-three-days/) (2026-04-28)
+- [FCC orders review of ABC licenses after Kimmel joke offends Trump and first lady](https://arstechnica.com/tech-policy/2026/04/fcc-orders-review-of-abc-licenses-after-kimmel-joke-offends-trump-and-first-lady/) (2026-04-28)
+- [Drone pilot makes US rescind no-fly zones around unmarked, moving ICE vehicles](https://arstechnica.com/gadgets/2026/04/no-fly-zones-around-moving-ice-vehicles-this-drone-pilot-fought-back-and-won/) (2026-04-28)
 - [Humanoid robots start sorting luggage in Tokyo airport test amid labor shortage](https://arstechnica.com/ai/2026/04/japan-airlines-tests-having-robots-instead-of-humans-handle-travelers-luggage/) (2026-04-28)
-- [GitHub will start charging Copilot users based on their actual AI usage](https://arstechnica.com/ai/2026/04/github-will-start-charging-copilot-users-based-on-their-actual-ai-usage/) (2026-04-28)
-- [Electrical current might be the key to a better cup of coffee](https://arstechnica.com/science/2026/04/electrical-current-might-be-the-key-to-a-better-cup-of-coffee/) (2026-04-28)
-- [The great American data center divide](https://arstechnica.com/ai/2026/04/rural-america-is-resisting-the-surge-in-data-center-construction/) (2026-04-28)
-- [A billion miles in less than a decade: GM's Super Cruise reaches a milestone](https://arstechnica.com/cars/2026/04/gms-super-cruise-passes-a-billion-driven-miles-since-2017/) (2026-04-28)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How to Use Cursor's Composer 2, Gemini, Grok & More in Claude Code as Another Dev](https://dev.to/davidvesely/how-to-use-cursors-composer-2-gemini-grok-more-in-claude-code-as-another-dev-4cd1) (2026-04-28)
-- [Deep Dive: How React 19 Works in Browser Extensions with Content Scripts and Background Workers](https://dev.to/johalputt/deep-dive-how-react-19-works-in-browser-extensions-with-content-scripts-and-background-workers-13ki) (2026-04-28)
-- [My road to ML-KEM-768 over X25519 for my messaging app](https://dev.to/xmkx/my-road-to-ml-kem-768-over-x25519-for-my-messaging-app-m3f) (2026-04-28)
-- [My road to ML-KEM-768 over X25519 for my messaging app](https://dev.to/xmkx/my-road-to-ml-kem-768-over-x25519-for-my-messaging-app-50op) (2026-04-28)
-- [War Story: We Implemented SBOMs with Syft 0.10 and Cut Compliance Audit Time 60% for 500 Services](https://dev.to/johalputt/war-story-we-implemented-sboms-with-syft-010-and-cut-compliance-audit-time-60-for-500-services-2ce3) (2026-04-28)
+- [Stop Turning On “Think Harder” For Everything](https://dev.to/vonb/stop-turning-on-think-harder-for-everything-2f0c) (2026-04-29)
+- [GitHub Copilot Changed the Deal. That Is the Whole Lesson.](https://dev.to/vonb/github-copilot-changed-the-deal-that-is-the-whole-lesson-47d3) (2026-04-29)
+- [Comparison: Contentlayer 2.0 vs. MDX 3.0 for Building Blogs with Next.js 15](https://dev.to/johalputt/comparison-contentlayer-20-vs-mdx-30-for-building-blogs-with-nextjs-15-50ik) (2026-04-29)
+- [One Open Source Project a Day (No.51): VibeVoice - Microsoft's Speech AI That Processes 90 Minutes of Audio in a Single Pass](https://dev.to/wonderlab/one-open-source-project-a-day-no51-vibevoice-microsofts-speech-ai-that-processes-90-minutes-3k6p) (2026-04-29)
+- [The End of All-You-Can-Eat AI: How April 2026 Killed the Flat-Rate Era for Developers](https://dev.to/ppiova/the-end-of-all-you-can-eat-ai-how-april-2026-killed-the-flat-rate-era-for-developers-5260) (2026-04-29)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [One Click, 900 Systems: Advanced Full Stack Engineering to ensure a smooth mint on MegaETH](https://medium.com/@megacorpglobal/one-click-900-systems-advanced-full-stack-engineering-to-ensure-a-smooth-mint-on-megaeth-943e2646387e?source=rss------programming-5) (2026-04-28)
-- [Ensuring Accessibility for All in Flutter](https://medium.com/@saliamrah300/ensuring-accessibility-for-all-in-flutter-3681475849a6?source=rss------programming-5) (2026-04-28)
-- [Minimal APIs Look Simple Until They Break Your Expectations](https://medium.com/@siddhesh.y/minimal-apis-look-simple-until-they-break-your-expectations-6bdabd48e5f4?source=rss------programming-5) (2026-04-28)
-- [My ML Model Was 97% Confident Every Time — Here’s Why That Was Actually a Problem](https://medium.com/@moiznisarali/my-ml-model-was-97-confident-every-time-heres-why-that-was-actually-a-problem-28f08b3d6824?source=rss------programming-5) (2026-04-28)
-- [I hate Windows](https://medium.com/@talhashaikh.pat/i-hate-windows-49e066fe5070?source=rss------programming-5) (2026-04-28)
+- [From Beginner to Job Placement: My 6-Month Web Development Journey with Programming Hero](https://medium.com/@lavibuddin.ashik/from-beginner-to-job-placement-my-6-month-web-development-journey-with-programming-hero-e756c9f2c599?source=rss------programming-5) (2026-04-29)
+- [Beyond Static Validation: The Factory Pattern for Zod and React Hook Form](https://javascript.plainenglish.io/beyond-static-validation-the-factory-pattern-for-zod-and-react-hook-form-c8137adf5118?source=rss------programming-5) (2026-04-29)
+- [Accenture Java Backend Interview Experience](https://medium.com/@anil-singh/accenture-java-backend-interview-experience-941dbb40d5f5?source=rss------programming-5) (2026-04-29)
+- [Python series 4b](https://medium.com/@Commoness/python-series-4b-76905d329571?source=rss------programming-5) (2026-04-29)
+- [10 Real-World Backend Problems No Tutorial Ever Tells You About](https://javascript.plainenglish.io/10-real-world-backend-problems-no-tutorial-ever-tells-you-about-7269ed3d933c?source=rss------programming-5) (2026-04-29)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.36: Staleness Mitigation and Observability for Controllers](https://kubernetes.io/blog/2026/04/28/kubernetes-v1-36-staleness-mitigation-for-controllers/) (2026-04-28)
 - [Kubernetes v1.36: Mutable Pod Resources for Suspended Jobs (beta)](https://kubernetes.io/blog/2026/04/27/kubernetes-v1-36-mutable-pod-resources-for-suspended-jobs/) (2026-04-27)
 - [Kubernetes v1.36: Fine-Grained Kubelet API Authorization Graduates to GA](https://kubernetes.io/blog/2026/04/24/kubernetes-v1-36-fine-grained-kubelet-authorization-ga/) (2026-04-24)
 - [Kubernetes v1.36: User Namespaces in Kubernetes are finally GA](https://kubernetes.io/blog/2026/04/23/kubernetes-v1-36-userns-ga/) (2026-04-23)
 - [SELinux Volume Label Changes goes GA (and likely implications in v1.37)](https://kubernetes.io/blog/2026/04/22/breaking-changes-in-selinux-volume-labeling/) (2026-04-22)
-- [Kubernetes v1.36: ハル (Haru)](https://kubernetes.io/blog/2026/04/22/kubernetes-v1-36-release/) (2026-04-22)
 
 </details>
 
@@ -396,8 +396,8 @@ https://www.twilio.com/en-us/blog/developers/best-practices/getting-most-money-u
 - [Why a Robust Organizations Model is Non-Negotiable
 ](https://auth0.com/blog/why-robust-organizations-model-is-non-negotiable/) (2026-04-27)
 - [Things Developers Get Wrong About the Backend for Frontend Pattern](https://auth0.com/blog/things-developers-get-wrong-about-the-backend-for-frontend-pattern/) (2026-04-24)
-- [Five Critical AI Agent Security Risks and How to Fix Them Before You Ship](https://auth0.com/blog/how-to-fix-five-critical-ai-agent-security-risks/) (2026-04-23)
 - [The Agent Experience Score](https://auth0.com/blog/agent-experience-score/) (2026-04-23)
+- [Five Critical AI Agent Security Risks and How to Fix Them Before You Ship](https://auth0.com/blog/how-to-fix-five-critical-ai-agent-security-risks/) (2026-04-23)
 
 </details>
 
