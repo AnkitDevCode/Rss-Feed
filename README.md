@@ -20,66 +20,66 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Spotify introduces verified artist badges to help distinguish humans from AI](https://techcrunch.com/2026/04/30/spotify-introduces-verified-artist-badges-to-help-distinguish-humans-from-ai/) (2026-04-30)
-- [Netflix wants you to watch ‘Clips,’ its TikTok-like vertical video feed](https://techcrunch.com/2026/04/30/netflix-wants-you-to-watch-clips-its-tiktok-like-vertical-video-feed/) (2026-04-30)
-- [Meta says its business AI now facilitates 10 million conversations a week](https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/) (2026-04-30)
-- [Instagram cracks down on content aggregators](https://techcrunch.com/2026/04/30/instagram-restricts-reach-of-content-aggregators-in-new-crackdown/) (2026-04-30)
-- [SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO](https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/) (2026-04-30)
+- [EV startup Faraday Future paid $7.5M to company tied to founder Jia Yueting](https://techcrunch.com/2026/04/30/ev-startup-faraday-future-paid-7-5m-to-company-tied-to-founder-jia-yueting/) (2026-04-30)
+- [OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico](https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/) (2026-04-30)
+- [Elon Musk testifies that xAI trained Grok on OpenAI models](https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/) (2026-04-30)
+- [FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder](https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/) (2026-04-30)
+- [Google’s Gemini AI assistant is hitting the road in millions of vehicles](https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/) (2026-04-30)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Meta in row after workers who saw smart glasses users having sex lose jobs](https://www.bbc.com/news/articles/c5y7yvgy0w6o) (2026-04-30)
-- [U.S. Debt Tops 100% of GDP](https://www.wsj.com/economy/u-s-debt-tops-100-of-gdp-81c013d7) (2026-04-30)
-- [I aggregated 28 US Government auction sites into one search](https://bidprowl.com) (2026-04-30)
-- [Belgium stops decommissioning nuclear power plants](https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/) (2026-04-30)
-- [GCC 16 has been released](https://gcc.gnu.org/gcc-16/changes.html) (2026-04-30)
+- [If Apple makes an iPad Neo, it's all over](https://www.techadvisor.com/article/3128472/if-apple-makes-an-ipad-neo-its-all-over.html) (2026-04-30)
+- [Full-Text Search with DuckDB](https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html) (2026-04-30)
+- [Recovering files from beyond the grave using PhotoRec](https://lost-number.bearblog.dev/recovering-files-from-beyond-the-grave-using-photorec/) (2026-04-30)
+- [I built a Game Boy emulator in F#](https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/) (2026-04-30)
+- [Kubereboot/Kured: Kubernetes Reboot Daemon](https://github.com/kubereboot/kured) (2026-04-30)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The Commodore 64 and ZX Spectrum have been turned into retrofuturistic handhelds](https://www.theverge.com/tech/921178/blaze-entertainment-retro-games-commodore-64-zx-spectrum-handhelds) (2026-04-30)
-- [OpenAI talks about not talking about goblins](https://www.theverge.com/ai-artificial-intelligence/921181/openai-codex-goblins) (2026-04-30)
-- [Verified by Spotify badge lets you know this artist isn&#8217;t AI](https://www.theverge.com/tech/921048/verified-by-spotify-badge) (2026-04-30)
-- [Here’s what Netflix’s new vertical video feed is like](https://www.theverge.com/streaming/920179/netflix-vertical-video-feed-mobile-app-ui) (2026-04-30)
-- [Instagram says it doesn’t want your tweet round ups](https://www.theverge.com/news/920999/instagram-says-it-doesnt-want-your-tweet-round-ups) (2026-04-30)
+- [Meta threatens to pull its apps from New Mexico if forced to make ‘technologically impractical’ changes](https://www.theverge.com/policy/921557/meta-threatens-leaving-new-mexico) (2026-04-30)
+- [With Saros, Housemarque makes a case for doing next-gen games differently](https://www.theverge.com/games/921391/housemarque-interview-saros-ps5) (2026-04-30)
+- [All the evidence unveiled so far in Musk v. Altman](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial) (2026-04-30)
+- [Elon Musk confirms xAI used OpenAI’s models to train Grok](https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation) (2026-04-30)
+- [Xbox owners can now disable Quick Resume for specific games](https://www.theverge.com/games/921504/xbox-update-quick-resume-disable) (2026-04-30)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [More than half of all "long shot" bets on Polymarket pay off](https://arstechnica.com/tech-policy/2026/04/more-than-half-of-all-long-shot-bets-on-polymarket-pay-off/) (2026-04-30)
+- [RFK Jr. appeals ruling that wiped out his vaccine advisory panel](https://arstechnica.com/health/2026/04/rfk-jr-appeals-ruling-that-wiped-out-his-vaccine-advisory-panel/) (2026-04-30)
+- [In motorsport, there's nowhere to hide as AI becomes new CFD tool](https://arstechnica.com/cars/2026/04/in-motorsport-theres-nowhere-to-hide-as-ai-becomes-new-cfd-tool/) (2026-04-30)
+- [Microsoft open-sources "the earliest DOS source code discovered to date"](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/) (2026-04-30)
+- [More than half of all  Polymarket "long shot" bets on military action pay off](https://arstechnica.com/tech-policy/2026/04/more-than-half-of-all-long-shot-bets-on-polymarket-pay-off/) (2026-04-30)
 - [Florida Republicans reject plan to weaken childhood vaccine requirements](https://arstechnica.com/health/2026/04/gop-led-florida-house-junks-desantis-plan-to-ease-vaccine-mandates/) (2026-04-30)
-- [The hidden cost of Google's AI defaults and the illusion of choice](https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-your-data/) (2026-04-30)
-- [ABC can beat Trump FCC's license threat if owner Disney is willing to fight](https://arstechnica.com/tech-policy/2026/04/abc-can-beat-trump-fccs-license-threat-if-owner-disney-is-willing-to-fight/) (2026-04-29)
-- [OpenAI Codex system prompt includes explicit directive to "never talk about goblins"](https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins/) (2026-04-29)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [This startup’s new mechanistic interpretability tool lets you debug LLMs](https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/) (2026-04-30)
 - [The Download: the North Pole’s future and humanoid data](https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/) (2026-04-30)
 - [The Download: storing nuclear waste and orchestrating agents](https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/) (2026-04-29)
 - [It’s time to make a plan for nuclear waste](https://www.technologyreview.com/2026/04/29/1136659/plan-nuclear-waste/) (2026-04-29)
 - [The Download: Musk and Altman’s legal showdown, and AI’s profit problem](https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/) (2026-04-28)
-- [Elon Musk and Sam Altman are going to court over OpenAI’s future](https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/) (2026-04-27)
 
 </details>
 
 <details>
 <summary>🐙 GitHub Blog</summary>
 
+- [GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-interactive-v-non-interactive-mode/) (2026-04-30)
 - [GitHub for Beginners: Getting started with Markdown](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-markdown/) (2026-04-28)
 - [Securing the git push pipeline: Responding to a critical remote code execution vulnerability](https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/) (2026-04-28)
 - [An update on GitHub availability](https://github.blog/news-insights/company-news/an-update-on-github-availability/) (2026-04-28)
 - [GitHub Copilot is moving to usage-based billing](https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/) (2026-04-27)
-- [Changes to GitHub Copilot Individual plans](https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/) (2026-04-20)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [How We Use LLM Agents + CRM APIs to Auto-Generate Contextual Follow-Up Emails](https://dev.to/spuriqai/how-we-use-llm-agents-crm-apis-to-auto-generate-contextual-follow-up-emails-4ci9) (2026-04-30)
-- [Getting Started with AWS RDS: Create, Connect and Query a MySQL Database in the Cloud](https://dev.to/jackonshiundu/getting-started-with-aws-rds-create-connect-and-query-a-mysql-database-in-the-cloud-3102) (2026-04-30)
-- [I'm building Nevi, a Rust terminal editor for Vim muscle memory](https://dev.to/anthonyamaro15/im-building-nevi-a-rust-terminal-editor-for-vim-muscle-memory-4kk7) (2026-04-30)
-- [MDR’s hidden toll: why small medtechs are exiting the EU market](https://dev.to/priya_nair_ree/mdrs-hidden-toll-why-small-medtechs-are-exiting-the-eu-market-1ij3) (2026-04-30)
-- [Day 24: Real-Time Personalization - AI System Design in Seconds](https://dev.to/matt_frank_usa/day-24-real-time-personalization-ai-system-design-in-seconds-3hbe) (2026-04-30)
+- [Audit Your VPC: Find Accidentally Public Subnets with Python](https://dev.to/thinkkun/audit-your-vpc-find-accidentally-public-subnets-with-python-2ml2) (2026-04-30)
+- [Scaling Shopify During Flash Sales: What Actually Breaks (And How to Fix It)](https://dev.to/asad_abdullah_zafar/scaling-shopify-during-flash-sales-what-actually-breaks-and-how-to-fix-it-3hh5) (2026-04-30)
+- [Amazon RDS Demystified: Why Amazon RDS is Still a Game-Changer?](https://dev.to/wasi_devops/amazon-rds-demystified-why-amazon-rds-is-still-a-game-changer-4lo9) (2026-04-30)
+- [When Profiling Turns Into a Reality Check](https://dev.to/chris_lee_5e58cce05f5d01d/when-profiling-turns-into-a-reality-check-51ie) (2026-04-30)
+- [Sentence Window Retrieval](https://dev.to/rushanksavant/sentence-window-retrieval-212d) (2026-04-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why std::vector<bool> Is Weird (and Dangerous in Generic Code)](https://medium.com/@sagar.necindia/cpp-std-vector-bool-why-it-is-broken-5ae5f409bbab?source=rss------programming-5) (2026-04-30)
-- [The Best Engineers in 2027 Won’t Be Writing Code](https://medium.com/@kanishks772/the-best-engineers-in-2027-wont-be-writing-code-3f134498bb0b?source=rss------programming-5) (2026-04-30)
-- [I Spent a Week on 'AI Engineer vs SWE' Articles. They All Miss the Same Thing.](https://medium.com/@myselfvinamrayadav/i-spent-a-week-on-ai-engineer-vs-swe-articles-they-all-miss-the-same-thing-1fa244b345ff?source=rss------programming-5) (2026-04-30)
-- [I Finally Understood Machine Learning… Because of an Exam Story](https://thelumosjounal.medium.com/i-finally-understood-machine-learning-because-of-an-exam-story-6c66aa656ac2?source=rss------programming-5) (2026-04-30)
-- [Deriving an Arithmetic-Geometric Series with Python](https://medium.com/@raell.dottin/deriving-an-arithmetic-geometric-series-with-python-2f288dc0374b?source=rss------programming-5) (2026-04-30)
+- [Python for Data Science — Reshaping Arrays for Data Work](https://sudhamsr.medium.com/python-for-data-science-reshaping-arrays-for-data-work-6dfda3e82c4d?source=rss------programming-5) (2026-04-30)
+- [Python for Data Science — Vectorization vs Loops in Python](https://sudhamsr.medium.com/python-for-data-science-vectorization-vs-loops-in-python-4cd19b0347ac?source=rss------programming-5) (2026-04-30)
+- [PostgreSQL Hit 55.6% Adoption. Here's Why the Database Wars Are Already Over.](https://pub.towardsai.net/postgresql-hit-55-6-adoption-heres-why-the-database-wars-are-already-over-597b7bc141ab?source=rss------programming-5) (2026-04-30)
+- [I Built an AI-Powered VS Code Extension That Understands Your Entire Codebase](https://medium.com/@Kaushalendra-marcus/i-built-an-ai-powered-vs-code-extension-that-understands-your-entire-codebase-c0c2a6e817de?source=rss------programming-5) (2026-04-30)
+- [The Night My IDE Started Feeling Like a Landlord](https://medium.com/illumination/the-night-my-ide-started-feeling-like-a-landlord-b365302f0c55?source=rss------programming-5) (2026-04-30)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [From Security Blocked to Prod Ready: ClickHouse on Docker Hardened Images](https://www.docker.com/blog/from-security-blocked-to-prod-ready-clickhouse-on-docker-hardened-images/) (2026-04-30)
 - [Trivy, KICS, and the shape of supply chain attacks so far in 2026](https://www.docker.com/blog/trivy-kics-and-the-shape-of-supply-chain-attacks-so-far-in-2026/) (2026-04-23)
 - [Why MicroVMs: The Architecture Behind Docker Sandboxes](https://www.docker.com/blog/why-microvms-the-architecture-behind-docker-sandboxes/) (2026-04-16)
 - [Why We Chose the Harder Path: Docker Hardened Images, One Year Later](https://www.docker.com/blog/why-we-chose-the-harder-path-docker-hardened-images-one-year-later/) (2026-04-14)
 - [How to Analyze Hugging Face for Arm64 Readiness](https://www.docker.com/blog/how-to-analyze-hugging-face-for-arm64-readiness/) (2026-04-13)
-- [Reclaim Developer Hours through Smarter Vulnerability Prioritization with Docker and Mend.io](https://www.docker.com/blog/reclaim-developer-hours-through-smarter-vulnerability-prioritization-with-docker-and-mend-io/) (2026-04-08)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Have Your Say in the 2026 Ruby on Rails Developer Community Survey](https://blog.jetbrains.com/ruby/2026/04/have-your-say-in-the-2026-ruby-on-rails-developer-community-survey/) (2026-04-30)
+- [Join Us for PHPverse 2026 on June 9](https://blog.jetbrains.com/phpstorm/2026/04/join-us-for-phpverse-2026-on-june-9/) (2026-04-30)
 - [The IDE Is Already an AI Quality Variable. Is It on Your AI Agenda?](https://blog.jetbrains.com/ai/2026/04/the-ide-is-already-an-ai-quality-variable-is-it-on-your-ai-agenda/) (2026-04-30)
 - [Using Bag-of-Words With PyCharm](https://blog.jetbrains.com/pycharm/2026/04/using-bag-of-words-with-pycharm/) (2026-04-29)
 - [Building the Future of IDEs: Inside the First JetBrains Codex Hackathon](https://blog.jetbrains.com/ai/2026/04/building-the-future-of-ides-inside-the-first-jetbrains-codex-hackathon/) (2026-04-29)
-- [Next-Level Observability with OpenTelemetry](https://blog.jetbrains.com/kotlin/2026/04/next-level-observability-with-opentelemetry/) (2026-04-29)
-- [Our 2026 Direction: AI and Classic Workflows in JetBrains IDEs](https://blog.jetbrains.com/ai/2026/04/our-2026-direction-ai-and-classic-workflows-in-jetbrains-ides/) (2026-04-28)
 
 </details>
 
@@ -362,21 +362,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Headless Provisioning via CLI for Twilio with Stripe Projects
-](
-https://www.twilio.com/en-us/blog/partners/integrations/provision-twilio-communications-channels-stripe-projects
-) (2026-04-29)
-- [
-The future of customer service: How automation is revolutionizing customer engagement
-](
-https://www.twilio.com/en-us/blog/insights/how-automation-revolutionizes-customer-engagement
-) (2026-04-29)
-- [
-40+ Content Marketing Best Practices in 2026 (Need to Know)
-](
-https://www.twilio.com/en-us/blog/insights/content-marketing-best-practices
-) (2026-04-28)
-- [
 Building an Inbound Voice Agent with Twilio and Deepgram
 ](
 https://www.twilio.com/en-us/blog/partners/integrations/building-an-inbound-voice-agent-with-twilio-and-deepgram
@@ -386,18 +371,33 @@ Building an Outbound Voice Agent with Twilio and Deepgram
 ](
 https://www.twilio.com/en-us/blog/partners/integrations/building-an-outbound-voice-agent-with-twilio-and-deepgram
 ) (2026-04-24)
+- [
+Avoid Sending SMS to Landlines in Rust with Twilio's Lookup v2 API
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-landlines-lookup-v2-api-rust
+) (2026-04-22)
+- [
+The Art of Teaching Algorithms to Listen: What’s New in Conversation Relay
+](
+https://www.twilio.com/en-us/blog/products/launches/the-evolution-of-conversation-relay
+) (2026-04-22)
+- [
+Getting The Most for Your Money Using Automated SMS
+](
+https://www.twilio.com/en-us/blog/developers/best-practices/getting-most-money-using-automated-sms
+) (2026-04-21)
 
 </details>
 
 <details>
 <summary>🔐 Auth0 Blog</summary>
 
+- [Moving From Social Login to Enterprise SSO, a Hybrid Auth Guide for Developers](https://auth0.com/blog/secure-hybrid-authentication-architecture-with-auth0/) (2026-04-30)
+- [Build Real-Time Identity Pipelines with Auth0 Event Streams - Now Generally Available](https://auth0.com/blog/auth0-event-streams-generally-available/) (2026-04-30)
 - [Auth0 is Now Available in the Stripe Projects Developer Preview](https://auth0.com/blog/auth0-stripe-projects-developer-preview/) (2026-04-29)
 - [Is Your Auth Ready for AI? Why Identity Is the First Thing Developers Need to Fix](https://auth0.com/blog/is-your-auth-ready-for-ai/) (2026-04-28)
 - [Why a Robust Organizations Model is Non-Negotiable
 ](https://auth0.com/blog/why-robust-organizations-model-is-non-negotiable/) (2026-04-27)
-- [Things Developers Get Wrong About the Backend for Frontend Pattern](https://auth0.com/blog/things-developers-get-wrong-about-the-backend-for-frontend-pattern/) (2026-04-24)
-- [Five Critical AI Agent Security Risks and How to Fix Them Before You Ship](https://auth0.com/blog/how-to-fix-five-critical-ai-agent-security-risks/) (2026-04-23)
 
 </details>
 
@@ -415,11 +415,11 @@ https://www.twilio.com/en-us/blog/partners/integrations/building-an-outbound-voi
 <details>
 <summary>🪐 PlanetScale Blog</summary>
 
+- [RLS sounds great until it isn't](https://planetscale.com/blog/rls-sounds-great-until-it-isnt) (2026-04-30)
 - [Approaches to tenancy in Postgres](https://planetscale.com/blog/approaches-to-tenancy-in-postgres) (2026-04-21)
 - [Keeping a Postgres queue healthy](https://planetscale.com/blog/keeping-a-postgres-queue-healthy) (2026-04-10)
 - [Patterns for Postgres Traffic Control](https://planetscale.com/blog/patterns-for-postgres-traffic-control) (2026-04-02)
 - [Graceful degradation in Postgres](https://planetscale.com/blog/graceful-degradation-in-postgres) (2026-03-31)
-- [High memory usage in Postgres is good, actually](https://planetscale.com/blog/high-memory-usage-in-postgres-is-good-actually) (2026-03-30)
 
 </details>
 
@@ -525,11 +525,11 @@ https://www.twilio.com/en-us/blog/partners/integrations/building-an-outbound-voi
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
+- [The Case for Disaggregating CPU from GPU in LLM Serving](https://pytorch.org/blog/lightseek-smg/) (2026-04-30)
 - [Introducing AutoSP](https://pytorch.org/blog/introducing-autosp/) (2026-04-29)
 - [Optimizing Effective Training Time for Meta’s Internal Recommendation/Ranking Workloads](https://pytorch.org/blog/optimizing-effective-training-time-for-metas-internal-recommendation-ranking-workloads/) (2026-04-17)
 - [Faster Diffusion on Blackwell: MXFP8 and NVFP4 with Diffusers and TorchAO](https://pytorch.org/blog/faster-diffusion-on-blackwell-mxfp8-and-nvfp4-with-diffusers-and-torchao/) (2026-04-08)
 - [Monarch: an API to your supercomputer](https://pytorch.org/blog/monarch-an-api-to-your-supercomputer/) (2026-04-08)
-- [SOTA Normalization Performance with torch.compile](https://pytorch.org/blog/sota-normalization-performance-with-torch-compile/) (2026-04-08)
 
 </details>
 
@@ -547,44 +547,44 @@ https://www.twilio.com/en-us/blog/partners/integrations/building-an-outbound-voi
 <details>
 <summary>🤖 AI News</summary>
 
+- [What LG and NVIDIA’s talks reveal about the future of physical AI](https://www.artificialintelligence-news.com/news/what-lg-and-nvidia-talks-reveal-future-of-physical-ai/) (2026-04-30)
 - [A guide to APIs, MCPs, and MCP Gateways](https://www.artificialintelligence-news.com/news/a-guide-to-apis-and-mcps-and-mcp-gateways/) (2026-04-30)
 - [AI agent governance takes focus as regulators flag control gaps](https://www.artificialintelligence-news.com/news/ai-agent-governance-control-gaps/) (2026-04-30)
 - [Big Tech just proved AI infrastructure spending works. Then it raised the bill anyway](https://www.artificialintelligence-news.com/news/big-tech-ai-infrastructure-spending-q1-2026-results/) (2026-04-30)
 - [IDC: How EMEA CIOs can jumpstart AI rollouts](https://www.artificialintelligence-news.com/news/idc-how-emea-cios-can-jumpstart-ai-rollouts/) (2026-04-29)
-- [GPT-5.5 is OpenAI’s most capable agentic AI model yet](https://www.artificialintelligence-news.com/news/gpt-5-5-is-openais-most-capable-agentic-ai-model-yet-at-twice-the-api-price/) (2026-04-29)
 
 </details>
 
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [A Gentle Introduction to Stochastic Programming](https://towardsdatascience.com/a-gentle-introduction-to-stochastic-programming/) (2026-04-30)
+- [Proxy-Pointer RAG: Multimodal Answers Without Multimodal Embeddings](https://towardsdatascience.com/proxy-pointer-rag-multimodal-answers-without-multimodal-embeddings/) (2026-04-30)
 - [How to Study the Monotonicity and Stability of Variables in a Scoring Model using Python](https://towardsdatascience.com/how-to-study-the-monotonicity-and-stability-of-variables-in-a-scoring-model-using-python/) (2026-04-30)
 - [Why AI Engineers Are Moving Beyond LangChain to Native Agent Architectures](https://towardsdatascience.com/why-ai-engineers-are-moving-beyond-langchain-to-native-agent-architectures/) (2026-04-30)
 - [4 YAML Files Instead of PySpark: How We Let Analysts Build Data Pipelines Without Engineers](https://towardsdatascience.com/4-yaml-files-instead-of-pyspark-how-we-let-analysts-build-data-pipelines-without-engineers/) (2026-04-29)
-- [Ensembles of Ensembles of Ensembles: A Guide to Stacking](https://towardsdatascience.com/ensembles-of-ensembles-of-ensembles/) (2026-04-29)
-- [Agentic AI: How to Save on Tokens](https://towardsdatascience.com/agentic-ai-how-to-save-on-tokens/) (2026-04-29)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Grok Voice Think Fast 1.0: Build Voice AI Agents That Actually Think ](https://www.analyticsvidhya.com/blog/2026/05/grok-voice-think-fast-1-0/) (2026-04-30)
 - [Compressing LSTM Models for Retail Edge Deployment: A Practical Comparison](https://www.analyticsvidhya.com/blog/2026/04/compressing-lstm-models-for-retail-edge-deployment/) (2026-04-29)
 - [MCP vs Agent Skills: Different Altogether](https://www.analyticsvidhya.com/blog/2026/04/mcp-vs-agent-skills/) (2026-04-29)
 - [GPT 5.5 vs Opus 4.7: Which is the Best AI Model Today?](https://www.analyticsvidhya.com/blog/2026/04/gpt-5-5-vs-opus-4-7/) (2026-04-28)
 - [What is Agentic AI?](https://www.analyticsvidhya.com/blog/2026/04/what-is-agentic-ai/) (2026-04-28)
-- [Claude Code vs Codex: A Detailed Terminal Agent Comparison ](https://www.analyticsvidhya.com/blog/2026/04/claude-code-vs-codex/) (2026-04-27)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [Learn The Most In-Demand Tech Skills for FREE](https://www.kdnuggets.com/2026/04/zerotomastery/learn-the-most-in-demand-tech-skills-for-free) (2026-04-30)
 - [5 Powerful Python Decorators to Build Clean AI Code](https://www.kdnuggets.com/5-powerful-python-decorators-to-build-clean-ai-code) (2026-04-30)
 - [Self-Hosted LLMs in the Real World: Limits, Workarounds, and Hard Lessons](https://www.kdnuggets.com/self-hosted-llms-in-the-real-world-limits-workarounds-and-hard-lessons) (2026-04-29)
 - [Local Whisper Audio Transcription](https://www.kdnuggets.com/local-whisper-audio-transcription) (2026-04-28)
 - [A/B Testing Pitfalls: What Works and What Doesn’t with Real Data](https://www.kdnuggets.com/a-b-testing-pitfalls-what-works-and-what-doesnt-with-real-data) (2026-04-28)
-- [10 Python Libraries for Building LLM Applications](https://www.kdnuggets.com/10-python-libraries-for-building-llm-applications) (2026-04-27)
 
 </details>
 
@@ -613,11 +613,11 @@ https://www.twilio.com/en-us/blog/partners/integrations/building-an-outbound-voi
 <details>
 <summary>🧠 DeepMind Blog</summary>
 
+- [Enabling a new model for healthcare with AI co-clinician](https://deepmind.google/blog/ai-co-clinician/) (2026-04-30)
 - [Announcing our partnership with the Republic of Korea](https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/) (2026-04-27)
 - [Decoupled DiLoCo: A new frontier for resilient, distributed AI training](https://deepmind.google/blog/decoupled-diloco/) (2026-04-22)
 - [Partnering with industry leaders to accelerate AI transformation](https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/) (2026-04-21)
 - [Gemini 3.1 Flash TTS: the next generation of expressive AI speech](https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/) (2026-04-15)
-- [Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning](https://deepmind.google/blog/gemini-robotics-er-1-6/) (2026-04-13)
 
 </details>
 <!-- BLOG-POST-LIST:END -->
