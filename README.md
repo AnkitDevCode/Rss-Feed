@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO](https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/) (2026-04-30)
 - [Amazon, Meta join fight to end Google Pay, PhonePe dominance in India](https://techcrunch.com/2026/04/29/amazon-meta-join-fight-to-end-google-pay-phonepe-dominance-in-india/) (2026-04-30)
 - [Amazon’s cloud business is surging — and so is its capital spending](https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/) (2026-04-30)
 - [Sources: Anthropic could raise a new $50B round at a valuation of $900B](https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/) (2026-04-30)
 - [On the stand, Elon Musk can’t escape his own tweets](https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/) (2026-04-29)
-- [Meta is still burning money on AR/VR](https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/) (2026-04-29)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [A Grounded Conceptual Model for Ownership Types in Rust](https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/) (2026-04-30)
-- [Craig Venter has died](https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79) (2026-04-30)
-- [Claude.ai and API unavailable](https://status.claude.com/incidents/2gf1jpyty350) (2026-04-30)
-- [Claude.ai down again?](https://news.ycombinator.com/item?id=47956890) (2026-04-30)
-- [Joby Kicks Off NYC Electric Air Taxi Demos with Historic JFK Flight](https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/) (2026-04-30)
+- [Scott Aaronson on quantum: "Will you heed my warnings NOW?"](https://scottaaronson.blog/?p=9718) (2026-04-30)
+- [Monad Tutorials Timeline](https://wiki.haskell.org/Monad_tutorials_timeline) (2026-04-30)
+- [Lessons from Building an OTel Normalizer for GenAI](https://www.groundcover.com/blog/otel-normalizer-genai-part-1) (2026-04-30)
+- [Biology is a Burrito: A text- and visual-based journey through a living cell](https://burrito.bio/essays/biology-is-a-burrito) (2026-04-30)
+- [Where the goblins came from](https://openai.com/index/where-the-goblins-came-from/) (2026-04-30)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [War Story: We Ditched AWS CLI 2.14 for 1Password CLI 2.30 and Cut Secret Leak Risk 50%](https://dev.to/johalputt/war-story-we-ditched-aws-cli-214-for-1password-cli-230-and-cut-secret-leak-risk-50-1788) (2026-04-30)
-- [I Built a Knowledge Base That Thinks — Inspired by Karpathy’s LLM Wiki](https://dev.to/seekdb/i-built-a-knowledge-base-that-thinks-inspired-by-karpathys-llm-wiki-128l) (2026-04-30)
-- [How an Amazon Ad Operator Became an Indie Developer (Without Knowing How to Code)](https://dev.to/ppcarchitect/how-an-amazon-ad-operator-became-an-indie-developer-without-knowing-how-to-code-1o32) (2026-04-30)
-- [Kiwi-chan's Log-istical Nightmare (and a LOT of Debugging) 🥝](https://dev.to/kiwi_tech/kiwi-chans-log-istical-nightmare-and-a-lot-of-debugging-4n4c) (2026-04-30)
-- [I'm Selling a $5 Starter Kit for x402 Paid APIs. Here's What's In It and Why.](https://dev.to/tufti/im-selling-a-5-starter-kit-for-x402-paid-apis-heres-whats-in-it-and-why-1823) (2026-04-30)
+- [Task schedule is a piece of shit](https://dev.to/transpective_ecf841cb1a37/task-schedule-is-a-piece-of-shit-51bd) (2026-04-30)
+- [WebAssembly Güvenlik Riskleri ve Kurumsal Savunma Stratejileri](https://dev.to/nesil_teknoloji/webassembly-guvenlik-riskleri-ve-kurumsal-savunma-stratejileri-60j) (2026-04-30)
+- [GitHub API Rate Limits in 2026: When Web Scraping Is the Better Choice](https://dev.to/agenthustler/github-api-rate-limits-in-2026-when-web-scraping-is-the-better-choice-hdo) (2026-04-30)
+- [Your Perfectionism Is Killing Your Career Before It Even Starts](https://dev.to/karol_modelski/your-perfectionism-is-killing-your-career-before-it-even-starts-2b1m) (2026-04-30)
+- [5 Levels of AI Code Review — From 'Trust Me Bro' to Production Ready](https://dev.to/harsh2644/5-levels-of-ai-code-review-from-trust-me-bro-to-production-ready-2cn4) (2026-04-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Why I’m Choosing the "Hard Way" to Study Software Engineering in 2026](https://medium.com/@bongondamichael/why-im-choosing-the-hard-way-to-study-software-engineering-in-2026-fc828a1b7d78?source=rss------programming-5) (2026-04-30)
-- [Zed Is Finally Stable](https://medium.com/rustaceans/zed-is-finally-stable-5b6aa2d573ba?source=rss------programming-5) (2026-04-30)
-- [Dynamic Sliding Window & Two Pointer — Concepts Explained with Examples](https://medium.com/@ramnayan699/dynamic-sliding-window-two-pointer-concepts-explained-with-examples-32f819d1b56c?source=rss------programming-5) (2026-04-30)
-- [From Signals to Verdicts: Building a Financial Research Copilot with MCP and Python](https://ai.gopubby.com/from-signals-to-verdicts-building-a-financial-research-copilot-with-mcp-and-python-63d5d7b662a8?source=rss------programming-5) (2026-04-30)
-- [Stop Using the Wrong LLM](https://ai.gopubby.com/stop-using-the-wrong-llm-6980f3c8958e?source=rss------programming-5) (2026-04-30)
+- [Scalable Flutter Folder Structure Using Clean Architecture (Real Project Setup)](https://medium.com/@imtiazaminsajid/scalable-flutter-folder-structure-using-clean-architecture-real-project-setup-54793c10ad53?source=rss------programming-5) (2026-04-30)
+- [AI Security Is Not Just “Cybersecurity for AI” — It’s Something Else Entirely](https://medium.com/@mayhemcode/ai-security-is-not-just-cybersecurity-for-ai-its-something-else-entirely-a65e1dd0654e?source=rss------programming-5) (2026-04-30)
+- [Your Payment Said "Processing…" — Here's What It Actually Meant](https://medium.com/@vinaygujjula/your-payment-said-processing-heres-what-it-actually-meant-8400d03fb91d?source=rss------programming-5) (2026-04-30)
+- [Rust: Why Institutions Are Placing Their Trust in the New Guard of Programming ️](https://medium.com/@anshusinghal703/rust-why-institutions-are-placing-their-trust-in-the-new-guard-of-programming-%EF%B8%8F-1e248be71775?source=rss------programming-5) (2026-04-30)
+- [The Lecture Says Java 11. Your Screen Shows Java 21. Here’s What Actually Changed.](https://medium.com/codetodeploy/java-17-or-21-spring-boot-setup-guide-9343c205dd1b?source=rss------programming-5) (2026-04-30)
 
 </details>
 
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/partners/integrations/building-an-outbound-voi
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack vs. Google Chat: Features, Differences, and Which Is Right for You](https://slack.com/blog/compare/slack-vs-google-chat) (2026-04-28)
-- [CRM Implementation: A Step-by-Step Guide for Teams](https://slack.com/blog/crm/crm-implementation) (2026-04-28)
-- [How to Use a CRM: A Practical Guide for Teams](https://slack.com/blog/crm/how-to-use-crm) (2026-04-28)
 - [A Guide to AI Summarization: How It Works and Tools for 2026](https://slack.com/blog/productivity/ai-summarization-a-guide-to-conquering-information-overload) (2026-04-22)
 - [The Five Best Messaging Platforms for Businesses](https://slack.com/blog/collaboration/messaging-platforms) (2026-04-22)
+- [Professional Communication: Skills for the Workplace](https://slack.com/blog/collaboration/professional-communication) (2026-04-22)
+- [Performance Review Examples to Be a Better Leader](https://slack.com/blog/collaboration/performance-review-examples) (2026-04-22)
+- [3 C’s of Communication: Be Clear, Concise, and Consistent](https://slack.com/blog/collaboration/3-cs-of-communication) (2026-04-22)
 
 </details>
 
@@ -541,6 +541,17 @@ https://www.twilio.com/en-us/blog/partners/integrations/building-an-outbound-voi
 - [DeepInfra on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/inference-providers-deepinfra) (2026-04-29)
 - [Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents](https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence) (2026-04-28)
 - [How to build scalable web apps with OpenAI's Privacy Filter](https://huggingface.co/blog/openai-privacy-filter-web-apps) (2026-04-27)
+
+</details>
+
+<details>
+<summary>🤖 AI News</summary>
+
+- [IDC: How EMEA CIOs can jumpstart AI rollouts](https://www.artificialintelligence-news.com/news/idc-how-emea-cios-can-jumpstart-ai-rollouts/) (2026-04-29)
+- [GPT-5.5 is OpenAI’s most capable agentic AI model yet](https://www.artificialintelligence-news.com/news/gpt-5-5-is-openais-most-capable-agentic-ai-model-yet-at-twice-the-api-price/) (2026-04-29)
+- [IBM launches AI platform Bob to regulate SDLC costs](https://www.artificialintelligence-news.com/news/ibm-launches-ai-platform-bob-to-regulate-sdlc-costs/) (2026-04-28)
+- [The evolution of encoders: From simple models to multimodal AI](https://www.artificialintelligence-news.com/news/the-evolution-of-encoders-from-simple-models-to-multimodal-ai/) (2026-04-28)
+- [Kakao Mobility details Level 4 autonomous driving roadmap for physical AI](https://www.artificialintelligence-news.com/news/kakao-mobility-level-4-autonomous-driving-roadmap/) (2026-04-28)
 
 </details>
 
