@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Parallel Web Systems hits $2B valuation five months after its last big raise](https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/) (2026-04-29)
-- [Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality](https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/) (2026-04-29)
-- [More Gemini features are coming to Google TV](https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/) (2026-04-29)
-- [Bill Gurley, Jack Altman back startup Pursuit, which helps companies sell to government](https://techcrunch.com/2026/04/29/bill-gurley-jack-altman-back-startup-pursuit-which-helps-companies-sell-to-government/) (2026-04-29)
-- [Roku’s $3 streaming service, Howdy, reaches 1M subs, per recent report](https://techcrunch.com/2026/04/29/rokus-3-streaming-service-howdy-reaches-1m-subs-per-recent-report/) (2026-04-29)
+- [Amazon, Meta join fight to end Google Pay, PhonePe dominance in India](https://techcrunch.com/2026/04/29/amazon-meta-join-fight-to-end-google-pay-phonepe-dominance-in-india/) (2026-04-30)
+- [Amazon’s cloud business is surging — and so is its capital spending](https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/) (2026-04-30)
+- [Sources: Anthropic could raise a new $50B round at a valuation of $900B](https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/) (2026-04-30)
+- [On the stand, Elon Musk can’t escape his own tweets](https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/) (2026-04-29)
+- [Meta is still burning money on AR/VR](https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/) (2026-04-29)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [HERMES.md: Anthropic bug causes $200 extra charge, refuses refund](https://github.com/anthropics/claude-code/issues/53262) (2026-04-29)
-- [Copy Fail – CVE-2026-31431](https://copy.fail/) (2026-04-29)
-- [Ramp's Sheets AI Exfiltrates Financials](https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials) (2026-04-29)
-- [Laws of UX](https://lawsofux.com/) (2026-04-29)
-- [Why Software Needs a Third Loop [audio]](https://www.heavybit.com/library/podcasts/third-loop/ep-3-give-it-a-name-why-software-needs-a-third-loop) (2026-04-29)
+- [A Grounded Conceptual Model for Ownership Types in Rust](https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/) (2026-04-30)
+- [Craig Venter has died](https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79) (2026-04-30)
+- [Claude.ai and API unavailable](https://status.claude.com/incidents/2gf1jpyty350) (2026-04-30)
+- [Claude.ai down again?](https://news.ycombinator.com/item?id=47956890) (2026-04-30)
+- [Joby Kicks Off NYC Electric Air Taxi Demos with Historic JFK Flight](https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/) (2026-04-30)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [All the evidence unveiled so far in Musk v. Altman](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial) (2026-04-29)
-- [Ubuntu’s AI plans have Linux users looking for a &#8216;kill switch&#8217;](https://www.theverge.com/tech/920723/linux-ubuntu-ai-features-ai-kill-switch) (2026-04-29)
-- [Motorola just revealed the Razr Fold’s price and hoo boy](https://www.theverge.com/gadgets/919460/motorola-razr-2026-price-availability) (2026-04-29)
-- [The new Razr Ultra is still the best-looking phone out there](https://www.theverge.com/tech/920183/motorola-razr-ultra-2026-wood-finish-alcantara-price) (2026-04-29)
-- [The Moto Razr and Razr Plus are victims of shrinkflation](https://www.theverge.com/tech/920236/motorola-razr-plus-2026-price) (2026-04-29)
+- [Elon Musk’s worst enemy in court is Elon Musk](https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman) (2026-04-30)
+- [Grindr — yes, Grindr — won the WHCD party circuit](https://www.theverge.com/column/920845/grindr-whcd-party-2026) (2026-04-29)
+- [Splatoon Raiders preorders for the Switch 2 are nearly 20 percent off](https://www.theverge.com/gadgets/920848/splatoon-raiders-physical-edition-preorder-switch-2-walmart-deal-sale) (2026-04-29)
+- [Microsoft reports sinking Xbox revenue as its cloud business climbs](https://www.theverge.com/tech/920785/microsoft-xbox-revenue-q3-2026-earnings) (2026-04-29)
+- [Google Search queries hit an ‘all time high’ last quarter](https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai) (2026-04-29)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [ABC can beat Trump FCC's license threat if owner Disney is willing to fight](https://arstechnica.com/tech-policy/2026/04/abc-can-beat-trump-fccs-license-threat-if-owner-disney-is-willing-to-fight/) (2026-04-29)
+- [OpenAI Codex system prompt includes explicit directive to "never talk about goblins"](https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins/) (2026-04-29)
 - [Howdy's dated $3/month ad-free streaming service said to have 1M subscribers](https://arstechnica.com/gadgets/2026/04/howdys-dated-3-month-ad-free-streaming-service-said-to-have-1m-subscribers/) (2026-04-29)
 - [New Sam Bankman-Fried trial would be huge waste of court’s time, judge says](https://arstechnica.com/tech-policy/2026/04/new-sam-bankman-fried-trial-would-be-huge-waste-of-courts-time-judge-says/) (2026-04-29)
 - [Drone strikes on data centers spook Big Tech, halting Middle East projects](https://arstechnica.com/ai/2026/04/data-center-developer-pauses-middle-east-projects-after-war-damage/) (2026-04-29)
-- [Motorola reveals 2026 Razr lineup with modest upgrades and higher prices](https://arstechnica.com/gadgets/2026/04/motorola-reveals-2026-razr-lineup-with-modest-upgrades-and-higher-prices/) (2026-04-29)
-- [Nvidia fixes the 8GB RAM problem with one of its GPUs—if you can pay for it](https://arstechnica.com/gadgets/2026/04/nvidia-fixes-the-8gb-ram-problem-with-one-of-its-gpus-if-you-can-pay-for-it/) (2026-04-29)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [(ShowDev) JavaScript Exceptions: What they do right, and what they do wrong](https://dev.to/bogdansandu/showdev-javascript-exceptions-what-they-do-right-and-what-they-do-wrong-53nm) (2026-04-29)
-- [System Design That Actually Makes Sense](https://dev.to/konark_13/system-design-that-actually-makes-sense-361n) (2026-04-29)
-- [AI doesn't replace junior devs. It makes senior devs do junior work.](https://dev.to/adioof/ai-doesnt-replace-junior-devs-it-makes-senior-devs-do-junior-work-edj) (2026-04-29)
-- [Inngest's instanceof lies: why custom error classes vanish across step.run](https://dev.to/artl13/inngests-instanceof-lies-why-custom-error-classes-vanish-across-steprun-1pbk) (2026-04-29)
-- [I Hid a Secret Message in a Cat Photo and Nobody Noticed for Six Months](https://dev.to/aralroca/i-hid-a-secret-message-in-a-cat-photo-and-nobody-noticed-for-six-months-4a47) (2026-04-29)
+- [War Story: We Ditched AWS CLI 2.14 for 1Password CLI 2.30 and Cut Secret Leak Risk 50%](https://dev.to/johalputt/war-story-we-ditched-aws-cli-214-for-1password-cli-230-and-cut-secret-leak-risk-50-1788) (2026-04-30)
+- [I Built a Knowledge Base That Thinks — Inspired by Karpathy’s LLM Wiki](https://dev.to/seekdb/i-built-a-knowledge-base-that-thinks-inspired-by-karpathys-llm-wiki-128l) (2026-04-30)
+- [How an Amazon Ad Operator Became an Indie Developer (Without Knowing How to Code)](https://dev.to/ppcarchitect/how-an-amazon-ad-operator-became-an-indie-developer-without-knowing-how-to-code-1o32) (2026-04-30)
+- [Kiwi-chan's Log-istical Nightmare (and a LOT of Debugging) 🥝](https://dev.to/kiwi_tech/kiwi-chans-log-istical-nightmare-and-a-lot-of-debugging-4n4c) (2026-04-30)
+- [I'm Selling a $5 Starter Kit for x402 Paid APIs. Here's What's In It and Why.](https://dev.to/tufti/im-selling-a-5-starter-kit-for-x402-paid-apis-heres-whats-in-it-and-why-1823) (2026-04-30)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The TypeScript Patterns That Eliminated 90% of Runtime Bugs in Our Codebase](https://medium.com/@diyasanjaysatpute147/the-typescript-patterns-that-eliminated-90-of-runtime-bugs-in-our-codebase-372441e1802f?source=rss------programming-5) (2026-04-29)
-- [20 Git Commands I Use Daily That Most Developers Ignore](https://medium.com/@mail.mohitbisht/20-git-commands-i-use-daily-that-most-developers-ignore-11b06122a709?source=rss------programming-5) (2026-04-29)
-- [Python for Data Science — Array Operations and Broadcasting](https://sudhamsr.medium.com/python-for-data-science-array-operations-and-broadcasting-c36584326326?source=rss------programming-5) (2026-04-29)
-- [Data Contracts: Data Engineering Practice That Could Have Saved Us From a Silent Crisis](https://medium.com/@aakashkareliya19/data-contracts-data-engineering-practice-that-could-have-saved-us-from-a-silent-crisis-21a04a68e8a7?source=rss------programming-5) (2026-04-29)
-- [I Tracked Every Bug Claude Made in My Codebase for 30 Days — The Numbers Surprised Me](https://medium.com/easy-flutter/i-tracked-every-bug-claude-made-in-my-codebase-for-30-days-the-numbers-surprised-me-9676581c1086?source=rss------programming-5) (2026-04-29)
+- [Why I’m Choosing the "Hard Way" to Study Software Engineering in 2026](https://medium.com/@bongondamichael/why-im-choosing-the-hard-way-to-study-software-engineering-in-2026-fc828a1b7d78?source=rss------programming-5) (2026-04-30)
+- [Zed Is Finally Stable](https://medium.com/rustaceans/zed-is-finally-stable-5b6aa2d573ba?source=rss------programming-5) (2026-04-30)
+- [Dynamic Sliding Window & Two Pointer — Concepts Explained with Examples](https://medium.com/@ramnayan699/dynamic-sliding-window-two-pointer-concepts-explained-with-examples-32f819d1b56c?source=rss------programming-5) (2026-04-30)
+- [From Signals to Verdicts: Building a Financial Research Copilot with MCP and Python](https://ai.gopubby.com/from-signals-to-verdicts-building-a-financial-research-copilot-with-mcp-and-python-63d5d7b662a8?source=rss------programming-5) (2026-04-30)
+- [Stop Using the Wrong LLM](https://ai.gopubby.com/stop-using-the-wrong-llm-6980f3c8958e?source=rss------programming-5) (2026-04-30)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.36: Tiered Memory Protection with Memory QoS](https://kubernetes.io/blog/2026/04/29/kubernetes-v1-36-memory-qos-tiered-protection/) (2026-04-29)
 - [Kubernetes v1.36: Staleness Mitigation and Observability for Controllers](https://kubernetes.io/blog/2026/04/28/kubernetes-v1-36-staleness-mitigation-for-controllers/) (2026-04-28)
 - [Kubernetes v1.36: Mutable Pod Resources for Suspended Jobs (beta)](https://kubernetes.io/blog/2026/04/27/kubernetes-v1-36-mutable-pod-resources-for-suspended-jobs/) (2026-04-27)
 - [Kubernetes v1.36: Fine-Grained Kubelet API Authorization Graduates to GA](https://kubernetes.io/blog/2026/04/24/kubernetes-v1-36-fine-grained-kubelet-authorization-ga/) (2026-04-24)
 - [Kubernetes v1.36: User Namespaces in Kubernetes are finally GA](https://kubernetes.io/blog/2026/04/23/kubernetes-v1-36-userns-ga/) (2026-04-23)
-- [SELinux Volume Label Changes goes GA (and likely implications in v1.37)](https://kubernetes.io/blog/2026/04/22/breaking-changes-in-selinux-volume-labeling/) (2026-04-22)
 
 </details>
 
@@ -329,10 +329,10 @@
 <summary>🦊 GitLab Blog</summary>
 
 - [Teaching software development the easy way using GitLab](https://about.gitlab.com/blog/teaching-software-development-the-easy-way-using-gitlab/) (2026-04-29)
+- [GitLab Patch Release: 18.11.2, 18.10.5](https://docs.gitlab.com/releases/patches/patch-release-gitlab-18-11-2-released/) (2026-04-29)
 - [How to build CI/CD observability at scale](https://about.gitlab.com/blog/how-to-build-ci-cd-observability-at-scale/) (2026-04-28)
 - [GitLab and Anthropic: Governed AI for enterprise development](https://about.gitlab.com/blog/gitlab-and-anthropic-governed-ai-for-enterprise-development/) (2026-04-28)
 - [Give your AI agent direct, structured GitLab access with glab CLI](https://about.gitlab.com/blog/give-your-ai-agent-direct-structured-gitlab-access-with-glab-cli/) (2026-04-27)
-- [curl removed from Omnibus-GitLab FIPS packages in 19.0](https://about.gitlab.com/blog/curl-removed-from-omnibus-gitlab-fips-packages-in-19-0/) (2026-04-24)
 
 </details>
 
@@ -362,6 +362,21 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Headless Provisioning via CLI for Twilio with Stripe Projects
+](
+https://www.twilio.com/en-us/blog/partners/integrations/provision-twilio-communications-channels-stripe-projects
+) (2026-04-29)
+- [
+The future of customer service: How automation is revolutionizing customer engagement
+](
+https://www.twilio.com/en-us/blog/insights/how-automation-revolutionizes-customer-engagement
+) (2026-04-29)
+- [
+40+ Content Marketing Best Practices in 2026 (Need to Know)
+](
+https://www.twilio.com/en-us/blog/insights/content-marketing-best-practices
+) (2026-04-28)
+- [
 Building an Inbound Voice Agent with Twilio and Deepgram
 ](
 https://www.twilio.com/en-us/blog/partners/integrations/building-an-inbound-voice-agent-with-twilio-and-deepgram
@@ -371,21 +386,6 @@ Building an Outbound Voice Agent with Twilio and Deepgram
 ](
 https://www.twilio.com/en-us/blog/partners/integrations/building-an-outbound-voice-agent-with-twilio-and-deepgram
 ) (2026-04-24)
-- [
-Avoid Sending SMS to Landlines in Rust with Twilio's Lookup v2 API
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-landlines-lookup-v2-api-rust
-) (2026-04-22)
-- [
-The Art of Teaching Algorithms to Listen: What’s New in Conversation Relay
-](
-https://www.twilio.com/en-us/blog/products/launches/the-evolution-of-conversation-relay
-) (2026-04-22)
-- [
-Getting The Most for Your Money Using Automated SMS
-](
-https://www.twilio.com/en-us/blog/developers/best-practices/getting-most-money-using-automated-sms
-) (2026-04-21)
 
 </details>
 
@@ -459,11 +459,11 @@ https://www.twilio.com/en-us/blog/developers/best-practices/getting-most-money-u
 <details>
 <summary>🚀 Apollo GraphQL</summary>
 
+- [Apollo is Recognized in Gartner® Voice of the Customer ](https://www.apollographql.com/blog/apollo-is-recognized-in-gartner-voice-of-the-customer) (2026-04-29)
 - [View Operational Insights Within the GraphOS Platform API](https://www.apollographql.com/blog/view-operational-insights-within-the-graphos-platform-api) (2026-04-13)
 - [Your AI Agent Doesn’t Need to Research. It Needs to Know.](https://www.apollographql.com/blog/your-ai-agent-doesnt-need-to-research-it-needs-to-know) (2026-04-07)
 - [How to Orchestrate Multiple APIs for Your LLM Agent](https://www.apollographql.com/blog/how-to-orchestrate-multiple-apis-for-your-llm-agent) (2026-03-26)
 - [How To Make Your Existing GraphQL API AI-Ready With Apollo](https://www.apollographql.com/blog/how-to-make-your-existing-graphql-api-ai-ready-with-apollo) (2026-03-19)
-- [How We Taught an AI to Nitpick Docs](https://www.apollographql.com/blog/how-we-taught-an-ai-to-nitpick-docs) (2026-03-16)
 
 </details>
 
@@ -492,11 +492,11 @@ https://www.twilio.com/en-us/blog/developers/best-practices/getting-most-money-u
 <details>
 <summary>💬 Slack API</summary>
 
+- [Slack vs. Google Chat: Features, Differences, and Which Is Right for You](https://slack.com/blog/compare/slack-vs-google-chat) (2026-04-28)
+- [CRM Implementation: A Step-by-Step Guide for Teams](https://slack.com/blog/crm/crm-implementation) (2026-04-28)
+- [How to Use a CRM: A Practical Guide for Teams](https://slack.com/blog/crm/how-to-use-crm) (2026-04-28)
 - [A Guide to AI Summarization: How It Works and Tools for 2026](https://slack.com/blog/productivity/ai-summarization-a-guide-to-conquering-information-overload) (2026-04-22)
 - [The Five Best Messaging Platforms for Businesses](https://slack.com/blog/collaboration/messaging-platforms) (2026-04-22)
-- [Professional Communication: Skills for the Workplace](https://slack.com/blog/collaboration/professional-communication) (2026-04-22)
-- [Performance Review Examples to Be a Better Leader](https://slack.com/blog/collaboration/performance-review-examples) (2026-04-22)
-- [3 C’s of Communication: Be Clear, Concise, and Consistent](https://slack.com/blog/collaboration/3-cs-of-communication) (2026-04-22)
 
 </details>
 
@@ -541,17 +541,6 @@ https://www.twilio.com/en-us/blog/developers/best-practices/getting-most-money-u
 - [DeepInfra on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/inference-providers-deepinfra) (2026-04-29)
 - [Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents](https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence) (2026-04-28)
 - [How to build scalable web apps with OpenAI's Privacy Filter](https://huggingface.co/blog/openai-privacy-filter-web-apps) (2026-04-27)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [IDC: How EMEA CIOs can jumpstart AI rollouts](https://www.artificialintelligence-news.com/news/idc-how-emea-cios-can-jumpstart-ai-rollouts/) (2026-04-29)
-- [GPT-5.5 is OpenAI’s most capable agentic AI model yet](https://www.artificialintelligence-news.com/news/gpt-5-5-is-openais-most-capable-agentic-ai-model-yet-at-twice-the-api-price/) (2026-04-29)
-- [IBM launches AI platform Bob to regulate SDLC costs](https://www.artificialintelligence-news.com/news/ibm-launches-ai-platform-bob-to-regulate-sdlc-costs/) (2026-04-28)
-- [The evolution of encoders: From simple models to multimodal AI](https://www.artificialintelligence-news.com/news/the-evolution-of-encoders-from-simple-models-to-multimodal-ai/) (2026-04-28)
-- [Kakao Mobility details Level 4 autonomous driving roadmap for physical AI](https://www.artificialintelligence-news.com/news/kakao-mobility-level-4-autonomous-driving-roadmap/) (2026-04-28)
 
 </details>
 
