@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
+- [It’s Toasted](https://yadin.com/notes/toasted/) (2026-05-01)
+- [Apple Says Mac Studio and Mac Mini Will Be in Short Supply for Months](https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/) (2026-05-01)
+- [Show HN: Winpodx – run Windows apps on Linux as native windows](https://github.com/kernalix7/winpodx) (2026-05-01)
 - [OpenWarp](https://openwarp.zerx.dev) (2026-05-01)
 - [ClawIRC – IRC Chat for Agents](https://clawirc.com/) (2026-05-01)
-- [$500M for Virtual Biology Initiative, Funded by Zuckerbergs](https://biohub.org/news/virtual-biology-initiative/) (2026-05-01)
-- [CPanel and WHM Authentication Bypass – CVE-2026-41940](https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/) (2026-04-30)
-- [Snowball Earth may hide a far stranger climate cycle than anyone expected](https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html) (2026-04-30)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [Time is a construct but it can still break your software](https://stackoverflow.blog/2026/05/01/time-is-a-construct-but-it-can-break-your-software/) (2026-05-01)
 - [The Worst Coder in the World goes agentic: building a leaderboard cracking AI](https://stackoverflow.blog/2026/04/30/worst-coder-in-the-world-goes-agentic/) (2026-04-30)
 - [Turning scattered knowledge into trusted intelligence: Stack Internal 2026.3](https://stackoverflow.blog/2026/04/28/turn-scattered-knowledge-into-trusted-intelligence/) (2026-04-28)
 - [Your LLM issues are really data issues](https://stackoverflow.blog/2026/04/28/your-llm-issues-are-really-data-issues/) (2026-04-28)
 - [Welcome to the “find out” stage of AI](https://stackoverflow.blog/2026/04/27/welcome-to-the-find-out-stage-of-ai/) (2026-04-27)
-- [Lights, camera, open source!](https://stackoverflow.blog/2026/04/24/lights-camera-open-source/) (2026-04-24)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [BoldKit Spring 2026: v3.0 v3.2.2 - ASCII Animations, Canvas Effects, Dot Matrix Studio & More](https://dev.to/aniruddha_agarwal_d3d6b0e/boldkit-spring-2026-v30-v322-ascii-animations-canvas-effects-dot-matrix-studio-more-295i) (2026-05-01)
-- [RAG Series (2): Building Your First RAG Pipeline with LangChain](https://dev.to/wonderlab/rag-series-2-building-your-first-rag-pipeline-with-langchain-2kk7) (2026-05-01)
-- [How to Build Deferred Tool Loading for AI Agents in 15 Minutes](https://dev.to/nebulagg/how-to-build-deferred-tool-loading-for-ai-agents-in-15-minutes-idc) (2026-05-01)
-- [The asyncio Mistake That Cost Me 3 Hours](https://dev.to/_eb7f2a654e97a60ae9f96e/the-asyncio-mistake-that-cost-me-3-hours-1l84) (2026-05-01)
-- [TPUs vs. GPUs: What They Are, How They Differ, and Which Workloads Belong on Each](https://dev.to/1grace/tpus-vs-gpus-what-they-are-how-they-differ-and-which-workloads-belong-on-each-278p) (2026-05-01)
+- [Amazon Product API (PA-API) in 2026: Restrictions, Alternatives, and Web Scraping](https://dev.to/agenthustler/amazon-product-api-pa-api-in-2026-restrictions-alternatives-and-web-scraping-4l35) (2026-05-01)
+- [Membedah Arsitektur Pengiriman Media Telegram: Membangun Engine Ekstraksi Berkinerja Tinggi dengan MTProto dan Async I/O](https://dev.to/yqqwe/membedah-arsitektur-pengiriman-media-telegram-membangun-engine-ekstraksi-berkinerja-tinggi-dengan-42m0) (2026-05-01)
+- [Desconstruyendo la Extracción de Media en Telegram: Construyendo un Motor de Descarga de Alto Rendimiento con MTProto y Async I/O](https://dev.to/yqqwe/desconstruyendo-la-extraccion-de-media-en-telegram-construyendo-un-motor-de-descarga-de-alto-3p3n) (2026-05-01)
+- [Desconstruindo a Extração de Mídia do Telegram: Construindo um Engine de Download de Alta Performance com MTProto e Async I/O](https://dev.to/yqqwe/desconstruindo-a-extracao-de-midia-do-telegram-construindo-um-engine-de-download-de-alta-38n3) (2026-05-01)
+- [Деконструкция извлечения медиа в Telegram: построение высокопроизводительного загрузчика на базе MTProto и Async I/O](https://dev.to/yqqwe/diekonstruktsiia-izvliechieniia-miedia-v-telegram-postroieniie-vysokoproizvoditielnogho-zaghruzchika-na-bazie-1o95) (2026-05-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [AI Won’t Take Your Job. Your Stubbornness Will.](https://medium.com/illumination/ai-wont-take-your-job-your-stubbornness-will-61460226599e?source=rss------programming-5) (2026-05-01)
-- [I Run 8 Claude Code Sessions in Parallel as a Data Analyst. Here’s How.](https://medium.com/@kairos.start/i-run-8-claude-code-sessions-in-parallel-as-a-data-analyst-heres-how-313e1d2ca142?source=rss------programming-5) (2026-05-01)
-- [China’s “Lying Flat” Movement Isn’t Foreign Influence – It’s Domestic Awakening](https://medium.com/@beauzhang1/chinas-lying-flat-movement-isn-t-foreign-influence-it-s-domestic-awakening-47d605e92ef9?source=rss------programming-5) (2026-05-01)
-- [RefundYourSOL (RYS): From Hidden Wallet Inefficiencies to Real On-Chain Value](https://medium.com/@dolapooo/refundyoursol-rys-from-hidden-wallet-inefficiencies-to-real-on-chain-value-d660140cc63c?source=rss------programming-5) (2026-05-01)
-- [O que é um API Gateway e por que ele é tão importante?](https://medium.com/@mauricioikeda17/o-que-%C3%A9-um-api-gateway-e-por-que-ele-%C3%A9-t%C3%A3o-importante-4e678985bd1e?source=rss------programming-5) (2026-05-01)
+- [Day 16: The $0 AI Tech Stack — How to Start Your Digital Business with Zero Capital](https://medium.com/@markchristian0510/day-16-the-0-ai-tech-stack-how-to-start-your-digital-business-with-zero-capital-402ae73b071c?source=rss------programming-5) (2026-05-01)
+- [Debug MCP Like Network Tab: Seeing Every Tool Call in Real Time](https://medium.com/@businessabdoo/debug-mcp-like-network-tab-seeing-every-tool-call-in-real-time-05efa45b683c?source=rss------programming-5) (2026-05-01)
+- [You’ve Been Using AI Every Day and Have No Idea What’s Actually Happening](https://medium.com/@okyerevansjohn/youve-been-using-ai-every-day-and-have-no-idea-what-s-actually-happening-96e05673374d?source=rss------programming-5) (2026-05-01)
+- [Claude Opus 4.7 Replaced My Code Review Process. Here Is What Changed.](https://ai.plainenglish.io/claude-opus-4-7-replaced-my-code-review-process-here-is-what-changed-28964c796691?source=rss------programming-5) (2026-05-01)
+- [Feature Flags in Production: I Used LaunchDarkly, Unleash, and DIY](https://navanathjadhav.medium.com/feature-flags-in-production-i-used-launchdarkly-unleash-and-diy-71b3f919fbab?source=rss------programming-5) (2026-05-01)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM](https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/) (2026-04-30)
 - [Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/) (2026-04-28)
 - [Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local](https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/) (2026-04-27)
 - [OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform](https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/) (2026-04-23)
 - [Microsoft Discovery: Advancing agentic R&D at scale](https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/) (2026-04-22)
-- [Introducing Azure Accelerate for Databases: Modernize your data for AI with experts and investments](https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/) (2026-04-22)
 
 </details>
 
@@ -362,21 +362,6 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
-Headless Provisioning via CLI for Twilio with Stripe Projects
-](
-https://www.twilio.com/en-us/blog/partners/integrations/provision-twilio-communications-channels-stripe-projects
-) (2026-04-29)
-- [
-The future of customer service: How automation is revolutionizing customer engagement
-](
-https://www.twilio.com/en-us/blog/insights/how-automation-revolutionizes-customer-engagement
-) (2026-04-29)
-- [
-40+ Content Marketing Best Practices in 2026 (Need to Know)
-](
-https://www.twilio.com/en-us/blog/insights/content-marketing-best-practices
-) (2026-04-28)
-- [
 Building an Inbound Voice Agent with Twilio and Deepgram
 ](
 https://www.twilio.com/en-us/blog/partners/integrations/building-an-inbound-voice-agent-with-twilio-and-deepgram
@@ -386,6 +371,21 @@ Building an Outbound Voice Agent with Twilio and Deepgram
 ](
 https://www.twilio.com/en-us/blog/partners/integrations/building-an-outbound-voice-agent-with-twilio-and-deepgram
 ) (2026-04-24)
+- [
+Avoid Sending SMS to Landlines in Rust with Twilio's Lookup v2 API
+](
+https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-landlines-lookup-v2-api-rust
+) (2026-04-22)
+- [
+The Art of Teaching Algorithms to Listen: What’s New in Conversation Relay
+](
+https://www.twilio.com/en-us/blog/products/launches/the-evolution-of-conversation-relay
+) (2026-04-22)
+- [
+Getting The Most for Your Money Using Automated SMS
+](
+https://www.twilio.com/en-us/blog/developers/best-practices/getting-most-money-using-automated-sms
+) (2026-04-21)
 
 </details>
 
