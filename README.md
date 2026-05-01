@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [EV startup Faraday Future paid $7.5M to company tied to founder Jia Yueting](https://techcrunch.com/2026/04/30/ev-startup-faraday-future-paid-7-5m-to-company-tied-to-founder-jia-yueting/) (2026-04-30)
-- [OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico](https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/) (2026-04-30)
-- [Elon Musk testifies that xAI trained Grok on OpenAI models](https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/) (2026-04-30)
-- [FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder](https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/) (2026-04-30)
-- [Google’s Gemini AI assistant is hitting the road in millions of vehicles](https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/) (2026-04-30)
+- [ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet](https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/) (2026-05-01)
+- [As Tim Cook steps down, Apple hit record sales — but a chip shortage looms](https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/) (2026-04-30)
+- [Y Combinator alum Skio sells for $105M cash, only raised $8M, founder says](https://techcrunch.com/2026/04/30/y-combinator-alum-skio-sells-for-105m-cash-only-raised-8m-founder-says/) (2026-04-30)
+- [Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks](https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/) (2026-04-30)
+- [Apple was surprised by AI-driven demand for Macs](https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/) (2026-04-30)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [If Apple makes an iPad Neo, it's all over](https://www.techadvisor.com/article/3128472/if-apple-makes-an-ipad-neo-its-all-over.html) (2026-04-30)
-- [Full-Text Search with DuckDB](https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html) (2026-04-30)
-- [Recovering files from beyond the grave using PhotoRec](https://lost-number.bearblog.dev/recovering-files-from-beyond-the-grave-using-photorec/) (2026-04-30)
-- [I built a Game Boy emulator in F#](https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/) (2026-04-30)
-- [Kubereboot/Kured: Kubernetes Reboot Daemon](https://github.com/kubereboot/kured) (2026-04-30)
+- [OpenWarp](https://openwarp.zerx.dev) (2026-05-01)
+- [ClawIRC – IRC Chat for Agents](https://clawirc.com/) (2026-05-01)
+- [$500M for Virtual Biology Initiative, Funded by Zuckerbergs](https://biohub.org/news/virtual-biology-initiative/) (2026-05-01)
+- [CPanel and WHM Authentication Bypass – CVE-2026-41940](https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/) (2026-04-30)
+- [Snowball Earth may hide a far stranger climate cycle than anyone expected](https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html) (2026-04-30)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [Meta threatens to pull its apps from New Mexico if forced to make ‘technologically impractical’ changes](https://www.theverge.com/policy/921557/meta-threatens-leaving-new-mexico) (2026-04-30)
-- [With Saros, Housemarque makes a case for doing next-gen games differently](https://www.theverge.com/games/921391/housemarque-interview-saros-ps5) (2026-04-30)
-- [All the evidence unveiled so far in Musk v. Altman](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial) (2026-04-30)
-- [Elon Musk confirms xAI used OpenAI’s models to train Grok](https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation) (2026-04-30)
-- [Xbox owners can now disable Quick Resume for specific games](https://www.theverge.com/games/921504/xbox-update-quick-resume-disable) (2026-04-30)
+- [The craziest part of Musk v. Altman happened while the jury was out of the room](https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai) (2026-04-30)
+- [Roblox’s daily users continue to drop as age checks slow growth](https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau) (2026-04-30)
+- [Congress keeps kicking surveillance reform down the road](https://www.theverge.com/policy/921652/congress-fisa-section-702-45-day-extension) (2026-04-30)
+- [Apple&#8217;s iPhone revenue jumps to $57 billion despite chip shortages](https://www.theverge.com/tech/921527/apple-iphone-revenue-q2-2026-earnings) (2026-04-30)
+- [Rivian’s revenue is up as R2 production kicks into gear](https://www.theverge.com/transportation/921295/rivian-q1-2026-earnings-revenue-profit-r2) (2026-04-30)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [RFK Jr. appeals ruling that wiped out his vaccine advisory panel](https://arstechnica.com/health/2026/04/rfk-jr-appeals-ruling-that-wiped-out-his-vaccine-advisory-panel/) (2026-04-30)
-- [In motorsport, there's nowhere to hide as AI becomes new CFD tool](https://arstechnica.com/cars/2026/04/in-motorsport-theres-nowhere-to-hide-as-ai-becomes-new-cfd-tool/) (2026-04-30)
-- [Microsoft open-sources "the earliest DOS source code discovered to date"](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/) (2026-04-30)
-- [More than half of all  Polymarket "long shot" bets on military action pay off](https://arstechnica.com/tech-policy/2026/04/more-than-half-of-all-long-shot-bets-on-polymarket-pay-off/) (2026-04-30)
-- [Florida Republicans reject plan to weaken childhood vaccine requirements](https://arstechnica.com/health/2026/04/gop-led-florida-house-junks-desantis-plan-to-ease-vaccine-mandates/) (2026-04-30)
+- [Trump nominates Fox News doctor to be the next surgeon general](https://arstechnica.com/health/2026/04/trump-nominates-fox-news-doctor-to-be-the-next-surgeon-general/) (2026-04-30)
+- [US falls below Ukraine in press freedom as global autocracy takes hold](https://arstechnica.com/tech-policy/2026/04/us-falls-below-ukraine-in-press-freedom-as-global-autocracy-takes-hold/) (2026-04-30)
+- [Russia cloaks launch schedule after spaceport falls in Ukraine's sights](https://arstechnica.com/space/2026/04/russian-cloaks-launch-schedule-after-spaceport-falls-in-ukraines-sights/) (2026-04-30)
+- [Elon Musk's 7 biggest stumbles on the stand at OpenAI trial](https://arstechnica.com/tech-policy/2026/04/elon-musks-7-biggest-stumbles-on-the-stand-at-openai-trial/) (2026-04-30)
+- [The most severe Linux threat to surface in years catches the world flat-footed](https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/) (2026-04-30)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Exclusive eBook: Inside the stealthy startup that pitched brainless human clones](https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/) (2026-04-30)
 - [This startup’s new mechanistic interpretability tool lets you debug LLMs](https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/) (2026-04-30)
 - [The Download: the North Pole’s future and humanoid data](https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/) (2026-04-30)
 - [The Download: storing nuclear waste and orchestrating agents](https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/) (2026-04-29)
 - [It’s time to make a plan for nuclear waste](https://www.technologyreview.com/2026/04/29/1136659/plan-nuclear-waste/) (2026-04-29)
-- [The Download: Musk and Altman’s legal showdown, and AI’s profit problem](https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/) (2026-04-28)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Audit Your VPC: Find Accidentally Public Subnets with Python](https://dev.to/thinkkun/audit-your-vpc-find-accidentally-public-subnets-with-python-2ml2) (2026-04-30)
-- [Scaling Shopify During Flash Sales: What Actually Breaks (And How to Fix It)](https://dev.to/asad_abdullah_zafar/scaling-shopify-during-flash-sales-what-actually-breaks-and-how-to-fix-it-3hh5) (2026-04-30)
-- [Amazon RDS Demystified: Why Amazon RDS is Still a Game-Changer?](https://dev.to/wasi_devops/amazon-rds-demystified-why-amazon-rds-is-still-a-game-changer-4lo9) (2026-04-30)
-- [When Profiling Turns Into a Reality Check](https://dev.to/chris_lee_5e58cce05f5d01d/when-profiling-turns-into-a-reality-check-51ie) (2026-04-30)
-- [Sentence Window Retrieval](https://dev.to/rushanksavant/sentence-window-retrieval-212d) (2026-04-30)
+- [BoldKit Spring 2026: v3.0 v3.2.2 - ASCII Animations, Canvas Effects, Dot Matrix Studio & More](https://dev.to/aniruddha_agarwal_d3d6b0e/boldkit-spring-2026-v30-v322-ascii-animations-canvas-effects-dot-matrix-studio-more-295i) (2026-05-01)
+- [RAG Series (2): Building Your First RAG Pipeline with LangChain](https://dev.to/wonderlab/rag-series-2-building-your-first-rag-pipeline-with-langchain-2kk7) (2026-05-01)
+- [How to Build Deferred Tool Loading for AI Agents in 15 Minutes](https://dev.to/nebulagg/how-to-build-deferred-tool-loading-for-ai-agents-in-15-minutes-idc) (2026-05-01)
+- [The asyncio Mistake That Cost Me 3 Hours](https://dev.to/_eb7f2a654e97a60ae9f96e/the-asyncio-mistake-that-cost-me-3-hours-1l84) (2026-05-01)
+- [TPUs vs. GPUs: What They Are, How They Differ, and Which Workloads Belong on Each](https://dev.to/1grace/tpus-vs-gpus-what-they-are-how-they-differ-and-which-workloads-belong-on-each-278p) (2026-05-01)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Python for Data Science — Reshaping Arrays for Data Work](https://sudhamsr.medium.com/python-for-data-science-reshaping-arrays-for-data-work-6dfda3e82c4d?source=rss------programming-5) (2026-04-30)
-- [Python for Data Science — Vectorization vs Loops in Python](https://sudhamsr.medium.com/python-for-data-science-vectorization-vs-loops-in-python-4cd19b0347ac?source=rss------programming-5) (2026-04-30)
-- [PostgreSQL Hit 55.6% Adoption. Here's Why the Database Wars Are Already Over.](https://pub.towardsai.net/postgresql-hit-55-6-adoption-heres-why-the-database-wars-are-already-over-597b7bc141ab?source=rss------programming-5) (2026-04-30)
-- [I Built an AI-Powered VS Code Extension That Understands Your Entire Codebase](https://medium.com/@Kaushalendra-marcus/i-built-an-ai-powered-vs-code-extension-that-understands-your-entire-codebase-c0c2a6e817de?source=rss------programming-5) (2026-04-30)
-- [The Night My IDE Started Feeling Like a Landlord](https://medium.com/illumination/the-night-my-ide-started-feeling-like-a-landlord-b365302f0c55?source=rss------programming-5) (2026-04-30)
+- [AI Won’t Take Your Job. Your Stubbornness Will.](https://medium.com/illumination/ai-wont-take-your-job-your-stubbornness-will-61460226599e?source=rss------programming-5) (2026-05-01)
+- [I Run 8 Claude Code Sessions in Parallel as a Data Analyst. Here’s How.](https://medium.com/@kairos.start/i-run-8-claude-code-sessions-in-parallel-as-a-data-analyst-heres-how-313e1d2ca142?source=rss------programming-5) (2026-05-01)
+- [China’s “Lying Flat” Movement Isn’t Foreign Influence – It’s Domestic Awakening](https://medium.com/@beauzhang1/chinas-lying-flat-movement-isn-t-foreign-influence-it-s-domestic-awakening-47d605e92ef9?source=rss------programming-5) (2026-05-01)
+- [RefundYourSOL (RYS): From Hidden Wallet Inefficiencies to Real On-Chain Value](https://medium.com/@dolapooo/refundyoursol-rys-from-hidden-wallet-inefficiencies-to-real-on-chain-value-d660140cc63c?source=rss------programming-5) (2026-05-01)
+- [O que é um API Gateway e por que ele é tão importante?](https://medium.com/@mauricioikeda17/o-que-%C3%A9-um-api-gateway-e-por-que-ele-%C3%A9-t%C3%A3o-importante-4e678985bd1e?source=rss------programming-5) (2026-05-01)
 
 </details>
 
@@ -130,22 +130,22 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/) (2026-04-28)
+- [Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local](https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/) (2026-04-27)
 - [OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform](https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/) (2026-04-23)
 - [Microsoft Discovery: Advancing agentic R&D at scale](https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/) (2026-04-22)
 - [Introducing Azure Accelerate for Databases: Modernize your data for AI with experts and investments](https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/) (2026-04-22)
-- [Cloud Cost Optimization: Principles that still matter](https://azure.microsoft.com/en-us/blog/cloud-cost-optimization-principles-that-still-matter/) (2026-04-15)
-- [Optimize object storage costs automatically with smart tier—now generally available](https://azure.microsoft.com/en-us/blog/optimize-object-storage-costs-automatically-with-smart-tier-now-generally-available/) (2026-04-14)
 
 </details>
 
 <details>
 <summary>🎮 NVIDIA Blog</summary>
 
+- [Nemotron Labs: What OpenClaw Agents Mean for Every Organization](https://blogs.nvidia.com/blog/what-openclaw-agents-mean-for-every-organization/) (2026-04-30)
 - [It’s Gonna Be May: 16 Games Hit the Cloud This Month, With More NVIDIA GeForce RTX 5080 Power](https://blogs.nvidia.com/blog/geforce-now-thursday-may-2026-games-list/) (2026-04-30)
 - [NVIDIA Launches Nemotron 3 Nano Omni Model, Unifying Vision, Audio and Language for up to 9x More Efficient AI Agents](https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/) (2026-04-28)
 - [Into the Omniverse: Manufacturing’s Simulation-First Era Has Arrived](https://blogs.nvidia.com/blog/manufacturing-simulation-first/) (2026-04-28)
 - [OpenAI’s New GPT-5.5 Powers Codex on NVIDIA Infrastructure — and NVIDIA Is Already Putting It to Work](https://blogs.nvidia.com/blog/openai-codex-gpt-5-5-ai-agents/) (2026-04-23)
-- [Tag, You’re It: GeForce NOW Levels Up Game Discovery With Xbox Game Pass and Ubisoft+ Labels](https://blogs.nvidia.com/blog/geforce-now-thursday-in-app-labels/) (2026-04-23)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.36: In-Place Vertical Scaling for Pod-Level Resources Graduates to Beta](https://kubernetes.io/blog/2026/04/30/kubernetes-v1-36-inplace-pod-level-resources-beta/) (2026-04-30)
 - [Kubernetes v1.36: Tiered Memory Protection with Memory QoS](https://kubernetes.io/blog/2026/04/29/kubernetes-v1-36-memory-qos-tiered-protection/) (2026-04-29)
 - [Kubernetes v1.36: Staleness Mitigation and Observability for Controllers](https://kubernetes.io/blog/2026/04/28/kubernetes-v1-36-staleness-mitigation-for-controllers/) (2026-04-28)
 - [Kubernetes v1.36: Mutable Pod Resources for Suspended Jobs (beta)](https://kubernetes.io/blog/2026/04/27/kubernetes-v1-36-mutable-pod-resources-for-suspended-jobs/) (2026-04-27)
 - [Kubernetes v1.36: Fine-Grained Kubelet API Authorization Graduates to GA](https://kubernetes.io/blog/2026/04/24/kubernetes-v1-36-fine-grained-kubelet-authorization-ga/) (2026-04-24)
-- [Kubernetes v1.36: User Namespaces in Kubernetes are finally GA](https://kubernetes.io/blog/2026/04/23/kubernetes-v1-36-userns-ga/) (2026-04-23)
 
 </details>
 
@@ -317,22 +317,22 @@
 <details>
 <summary>📝 Visual Studio Code</summary>
 
+- [Visual Studio Code 1.119](https://code.visualstudio.com/updates/v1_119) (2026-05-06)
 - [Visual Studio Code 1.118](https://code.visualstudio.com/updates/v1_118) (2026-04-29)
 - [Visual Studio Code 1.117](https://code.visualstudio.com/updates/v1_117) (2026-04-22)
 - [Visual Studio Code 1.116](https://code.visualstudio.com/updates/v1_116) (2026-04-15)
 - [Visual Studio Code 1.115](https://code.visualstudio.com/updates/v1_115) (2026-04-08)
-- [Visual Studio Code 1.114](https://code.visualstudio.com/updates/v1_114) (2026-04-01)
 
 </details>
 
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [Build an automated detection testing framework with GitLab CI/CD and Duo](https://about.gitlab.com/blog/automated-detection-testing-framework/) (2026-04-30)
 - [Teaching software development the easy way using GitLab](https://about.gitlab.com/blog/teaching-software-development-the-easy-way-using-gitlab/) (2026-04-29)
 - [GitLab Patch Release: 18.11.2, 18.10.5](https://docs.gitlab.com/releases/patches/patch-release-gitlab-18-11-2-released/) (2026-04-29)
 - [How to build CI/CD observability at scale](https://about.gitlab.com/blog/how-to-build-ci-cd-observability-at-scale/) (2026-04-28)
 - [GitLab and Anthropic: Governed AI for enterprise development](https://about.gitlab.com/blog/gitlab-and-anthropic-governed-ai-for-enterprise-development/) (2026-04-28)
-- [Give your AI agent direct, structured GitLab access with glab CLI](https://about.gitlab.com/blog/give-your-ai-agent-direct-structured-gitlab-access-with-glab-cli/) (2026-04-27)
 
 </details>
 
@@ -362,6 +362,21 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+Headless Provisioning via CLI for Twilio with Stripe Projects
+](
+https://www.twilio.com/en-us/blog/partners/integrations/provision-twilio-communications-channels-stripe-projects
+) (2026-04-29)
+- [
+The future of customer service: How automation is revolutionizing customer engagement
+](
+https://www.twilio.com/en-us/blog/insights/how-automation-revolutionizes-customer-engagement
+) (2026-04-29)
+- [
+40+ Content Marketing Best Practices in 2026 (Need to Know)
+](
+https://www.twilio.com/en-us/blog/insights/content-marketing-best-practices
+) (2026-04-28)
+- [
 Building an Inbound Voice Agent with Twilio and Deepgram
 ](
 https://www.twilio.com/en-us/blog/partners/integrations/building-an-inbound-voice-agent-with-twilio-and-deepgram
@@ -371,21 +386,6 @@ Building an Outbound Voice Agent with Twilio and Deepgram
 ](
 https://www.twilio.com/en-us/blog/partners/integrations/building-an-outbound-voice-agent-with-twilio-and-deepgram
 ) (2026-04-24)
-- [
-Avoid Sending SMS to Landlines in Rust with Twilio's Lookup v2 API
-](
-https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-landlines-lookup-v2-api-rust
-) (2026-04-22)
-- [
-The Art of Teaching Algorithms to Listen: What’s New in Conversation Relay
-](
-https://www.twilio.com/en-us/blog/products/launches/the-evolution-of-conversation-relay
-) (2026-04-22)
-- [
-Getting The Most for Your Money Using Automated SMS
-](
-https://www.twilio.com/en-us/blog/developers/best-practices/getting-most-money-using-automated-sms
-) (2026-04-21)
 
 </details>
 
@@ -525,7 +525,7 @@ https://www.twilio.com/en-us/blog/developers/best-practices/getting-most-money-u
 <details>
 <summary>🔥 PyTorch Blog</summary>
 
-- [The Case for Disaggregating CPU from GPU in LLM Serving](https://pytorch.org/blog/lightseek-smg/) (2026-04-30)
+- [SMG: The Case for Disaggregating CPU from GPU in LLM Serving](https://pytorch.org/blog/lightseek-smg/) (2026-04-30)
 - [Introducing AutoSP](https://pytorch.org/blog/introducing-autosp/) (2026-04-29)
 - [Optimizing Effective Training Time for Meta’s Internal Recommendation/Ranking Workloads](https://pytorch.org/blog/optimizing-effective-training-time-for-metas-internal-recommendation-ranking-workloads/) (2026-04-17)
 - [Faster Diffusion on Blackwell: MXFP8 and NVFP4 with Diffusers and TorchAO](https://pytorch.org/blog/faster-diffusion-on-blackwell-mxfp8-and-nvfp4-with-diffusers-and-torchao/) (2026-04-08)
