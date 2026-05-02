@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Uber wants to turn its millions of drivers into a sensor grid for self-driving companies](https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/) (2026-05-02)
 - [Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell](https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/) (2026-05-01)
 - [Musely secures $360M from General Catalyst without giving up equity](https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/) (2026-05-01)
 - [Meta buys robotics startup to bolster its humanoid AI ambitions](https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/) (2026-05-01)
 - [Coatue has a plan to buy up land for data centers, possibly for Anthropic](https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/) (2026-05-01)
-- [Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks](https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/) (2026-05-01)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Good developers learn to program. Most courses teach a language](https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language) (2026-05-02)
-- [Visual Studio 2026 still ships the form designer Alan Cooper drew in 1987](https://evilgeniuslabs.ca/blog/winforms-still-ships-in-visual-studio-2026) (2026-05-01)
-- [A Report on Burnout in Open Source Software Communities (2025) [pdf]](https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf) (2026-05-01)
-- [Credit cards are vulnerable to brute force kind attacks](https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html) (2026-05-01)
-- [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo) (2026-05-01)
+- [Spirit Airlines Is Winding Down All Operations](https://www.spiritrestructuring.com/) (2026-05-02)
+- [Show HN: Stop playing my matchstick puzzles, start building your own in seconds](https://mathstick.github.io) (2026-05-02)
+- [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer) (2026-05-02)
+- [Why does it take so long to release black fan versions?](https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions) (2026-05-02)
+- [Ask.com has closed](https://www.ask.com/) (2026-05-02)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Contournement du flux vidéo FAI](https://dev.to/veldemioniei/contournement-du-flux-video-fai-5ch6) (2026-05-02)
-- [Payment Rails Are Shipping. Trust Rails Aren't. That's the Problem.](https://dev.to/piiiico/payment-rails-are-shipping-trust-rails-arent-thats-the-problem-2lhd) (2026-05-02)
-- [5 MCP Server Mistakes That Waste Your AI Agent's Time (And How to Fix Them)](https://dev.to/nebulagg/5-mcp-server-mistakes-that-waste-your-ai-agents-time-and-how-to-fix-them-18m5) (2026-05-02)
-- [Optimisation HLS France](https://dev.to/veldemioniei/optimisation-hls-france-4bab) (2026-05-02)
-- [GhostPilot: Build a GPS-Denied Drone Navigation Stack with Visual SLAM + Agentic AI](https://dev.to/aman_sachan_126d19c4a2773/ghostpilot-build-a-gps-denied-drone-navigation-stack-with-visual-slam-agentic-ai-4g21) (2026-05-02)
+- [Why Deno 2.0’s npm compatibility made us drop Node.js 22 for our CLI tools](https://dev.to/johalputt/why-deno-20s-npm-compatibility-made-us-drop-nodejs-22-for-our-cli-tools-5bhb) (2026-05-02)
+- [The Browser That Brought Its Own AI](https://dev.to/vivian-voss/the-browser-that-brought-its-own-ai-30fd) (2026-05-02)
+- [How I Built a Zero-Dependency PDF Generator in Next.js for a Legal SaaS](https://dev.to/studente24/how-i-built-a-zero-dependency-pdf-generator-in-nextjs-for-a-legal-saas-53il) (2026-05-02)
+- [Switching to Secondary Is Faster](https://dev.to/wheynelau/switching-to-secondary-is-faster-mhc) (2026-05-02)
+- [Real-Time Object Recognition using Multimodal Deep Learning on the Edge](https://dev.to/swastik-swarup-dash/real-time-object-recognition-using-multimodal-deep-learning-on-the-edge-2emi) (2026-05-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Tek Tuşla Dev İşler: Makro Nedir, Nasıl Çalışır ve Nerelerde Kullanılır?](https://medium.com/@emmresimmsek/tek-tu%C5%9Fla-dev-i%CC%87%C5%9Fler-makro-nedir-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r-ve-nerelerde-kullan%C4%B1l%C4%B1r-8b6d670ebd45?source=rss------programming-5) (2026-05-02)
-- [The End of Subsidised AI Coding Is Already Here](https://medium.com/@ruben_91873/the-end-of-subsidised-ai-coding-is-already-here-00d46a34e376?source=rss------programming-5) (2026-05-02)
-- [The Hidden Power of sealed in C#](https://medium.com/@cassio.bjhones/the-hidden-power-of-sealed-in-c-1f8fd65af315?source=rss------programming-5) (2026-05-02)
-- [11 Best Java Libraries That Make Developers 10x More Productive](https://medium.com/@sunil17bbmp/11-best-java-libraries-that-make-developers-10x-more-productive-a18c5f570152?source=rss------programming-5) (2026-05-02)
-- [RYS has introduced a new Community Contest System aimed at encouraging user engagement and…](https://medium.com/@edosa.egbe/rys-has-introduced-a-new-community-contest-system-aimed-at-encouraging-user-engagement-and-5ff81a3eb827?source=rss------programming-5) (2026-05-02)
+- [Pydantic v3 Made My FastAPI 4x Faster. Migration Guide.](https://medium.com/@inprogrammer/pydantic-v3-made-my-fastapi-4x-faster-migration-guide-b73c337cc515?source=rss------programming-5) (2026-05-02)
+- [From “It Runs” to “It Works”: A Framework for Engineering a Production-Grade AI Model Wrapper…](https://medium.com/jin-system-architect/from-it-runs-to-it-works-a-framework-for-engineering-a-production-grade-ai-model-wrapper-f853d6cb9575?source=rss------programming-5) (2026-05-02)
+- [How to Actually Learn Python With AI: An Actionable Beginner Roadmap](https://medium.com/jin-system-architect/how-to-actually-learn-python-with-ai-an-actionable-beginner-roadmap-f49fc0fe6816?source=rss------programming-5) (2026-05-02)
+- [Square Roots of the Zero Matrix (2×2)](https://medium.com/think-art/square-roots-of-the-zero-matrix-2-2-9ca80acf30d3?source=rss------programming-5) (2026-05-02)
+- [Day 17: The Rise of Agentic AI — Why Being a Student is a Superpower in 2026](https://medium.com/@markchristian0510/day-17-the-rise-of-agentic-ai-why-being-a-student-is-a-superpower-in-2026-d73f1f63f56e?source=rss------programming-5) (2026-05-02)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM](https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/) (2026-04-30)
 - [Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/) (2026-04-28)
 - [Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local](https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/) (2026-04-27)
 - [OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform](https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/) (2026-04-23)
 - [Microsoft Discovery: Advancing agentic R&D at scale](https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/) (2026-04-22)
-- [Introducing Azure Accelerate for Databases: Modernize your data for AI with experts and investments](https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/) (2026-04-22)
 
 </details>
 
@@ -491,11 +491,11 @@ https://www.twilio.com/en-us/blog/partners/integrations/building-an-outbound-voi
 <details>
 <summary>💬 Slack API</summary>
 
-- [Best Workflow Management Tools to Try in 2026](https://slack.com/blog/collaboration/best-workflow-management) (2026-05-01)
-- [How to Build the Ideal Work Environment](https://slack.com/blog/collaboration/creating-the-ideal-work-environment) (2026-04-30)
-- [12 Best AI Automation Tools for 2026](https://slack.com/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows) (2026-04-30)
-- [What is Time Management? Strategies for Success](https://slack.com/blog/productivity/what-is-time-management-strategies-for-success) (2026-04-30)
-- [Eight Best Collaboration Tools for Teams in 2026](https://slack.com/blog/collaboration/best-collaboration-tools) (2026-04-30)
+- [Slack vs. Google Chat: Features, Differences, and Which Is Right for You](https://slack.com/blog/compare/slack-vs-google-chat) (2026-04-28)
+- [CRM Implementation: A Step-by-Step Guide for Teams](https://slack.com/blog/crm/crm-implementation) (2026-04-28)
+- [How to Use a CRM: A Practical Guide for Teams](https://slack.com/blog/crm/how-to-use-crm) (2026-04-28)
+- [A Guide to AI Summarization: How It Works and Tools for 2026](https://slack.com/blog/productivity/ai-summarization-a-guide-to-conquering-information-overload) (2026-04-22)
+- [The Five Best Messaging Platforms for Businesses](https://slack.com/blog/collaboration/messaging-platforms) (2026-04-22)
 
 </details>
 
