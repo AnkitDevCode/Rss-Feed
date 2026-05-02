@@ -31,33 +31,33 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Spirit Airlines Is Winding Down All Operations](https://www.spiritrestructuring.com/) (2026-05-02)
-- [Show HN: Stop playing my matchstick puzzles, start building your own in seconds](https://mathstick.github.io) (2026-05-02)
-- [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer) (2026-05-02)
-- [Why does it take so long to release black fan versions?](https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions) (2026-05-02)
-- [Ask.com has closed](https://www.ask.com/) (2026-05-02)
+- [Open Design: Use Your Coding Agent as a Design Engine](https://github.com/nexu-io/open-design) (2026-05-02)
+- [The Century-Long Pause in Fundamental Physics](https://danieltan.weblog.lol/2026/05/the-century-long-pause-in-fundamental-physics) (2026-05-02)
+- [GameStop Preparing Offer for eBay](https://www.wsj.com/business/deals/gamestop-preparing-offer-for-ebay-1678e6de) (2026-05-02)
+- [Show HN: Piruetas – A self-hosted diary app I built for my girlfriend](https://piruet.app) (2026-05-02)
+- [Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks](https://mljar.com/) (2026-05-02)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Playing Esoteric Ebb is like rolling the dice with a great DM](https://www.theverge.com/games/903575/esoteric-ebb-review-pc-steam) (2026-05-02)
+- [The things we’re building](https://www.theverge.com/tech/922505/vibe-code-projects-claude-installer) (2026-05-02)
 - [Splatoon Raiders preorders for the Switch 2 are nearly 20 percent off](https://www.theverge.com/gadgets/920848/splatoon-raiders-physical-edition-preorder-switch-2-walmart-deal-sale) (2026-05-01)
 - [Microsoft tests redesigned Windows 11 Run menu with dark mode and more](https://www.theverge.com/tech/922531/microsoft-windows-11-run-menu-redesign-test) (2026-05-01)
 - [Apple raises the Mac Mini&#8217;s starting price](https://www.theverge.com/tech/922572/apple-mac-mini-256-model) (2026-05-01)
-- [All the evidence revealed so far in Musk v. Altman](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial) (2026-05-01)
-- [Birdfy’s smart bird feeder is down to its best-ever price for Mother’s Day](https://www.theverge.com/gadgets/922165/netvue-birdfy-smart-bird-feeder-bath-mothers-day-deal-sale) (2026-05-01)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Infrasound waves stop kitchen fires, but can they replace sprinklers?](https://arstechnica.com/gadgets/2026/05/startup-says-sound-waves-can-replace-fire-sprinklers-experts-arent-so-sure/) (2026-05-02)
 - [Study: AI models that consider user's feeling are more likely to make errors](https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/) (2026-05-01)
 - [The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS](https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/) (2026-05-01)
 - [Man dies covered in necrotic lesions after amoebas eat him alive](https://arstechnica.com/health/2026/05/amoebas-eat-man-alive-over-months-in-puzzling-ultra-rare-cautionary-tale/) (2026-05-01)
 - [Ubuntu infrastructure has been down for more than a day](https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/) (2026-05-01)
-- [Senators ban themselves from prediction markets after candidates bet on own races](https://arstechnica.com/tech-policy/2026/05/senators-ban-themselves-from-prediction-markets-after-candidates-bet-on-own-races/) (2026-05-01)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Why Deno 2.0’s npm compatibility made us drop Node.js 22 for our CLI tools](https://dev.to/johalputt/why-deno-20s-npm-compatibility-made-us-drop-nodejs-22-for-our-cli-tools-5bhb) (2026-05-02)
-- [The Browser That Brought Its Own AI](https://dev.to/vivian-voss/the-browser-that-brought-its-own-ai-30fd) (2026-05-02)
-- [How I Built a Zero-Dependency PDF Generator in Next.js for a Legal SaaS](https://dev.to/studente24/how-i-built-a-zero-dependency-pdf-generator-in-nextjs-for-a-legal-saas-53il) (2026-05-02)
-- [Switching to Secondary Is Faster](https://dev.to/wheynelau/switching-to-secondary-is-faster-mhc) (2026-05-02)
-- [Real-Time Object Recognition using Multimodal Deep Learning on the Edge](https://dev.to/swastik-swarup-dash/real-time-object-recognition-using-multimodal-deep-learning-on-the-edge-2emi) (2026-05-02)
+- [Cursor Composer 2: The Cache Economy Behind a 10x Cheaper Coding Agent](https://dev.to/toyama0919/cursor-composer-2-the-cache-economy-behind-a-10x-cheaper-coding-agent-15cj) (2026-05-02)
+- [Building WeaveLLM: Why .NET Deserves a Better then LangChain](https://dev.to/harshil_shah_baded487d158/building-weavellm-why-net-deserves-a-better-then-langchain-2hgi) (2026-05-02)
+- [Scalar Setup ASP.NET Core Web API](https://dev.to/sharadaade/scalar-setupt-aspnet-core-web-api-26cj) (2026-05-02)
+- [How to Configure Nginx as an HTTPS Proxy Server?](https://dev.to/ganesh-kumar/how-to-configure-nginx-as-an-https-proxy-server-2pc) (2026-05-02)
+- [The gay jailbreak: I ran the viral technique against my own production prompts and here's what I found](https://dev.to/jtorchia/the-gay-jailbreak-i-ran-the-viral-technique-against-my-own-production-prompts-and-heres-what-i-4017) (2026-05-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Pydantic v3 Made My FastAPI 4x Faster. Migration Guide.](https://medium.com/@inprogrammer/pydantic-v3-made-my-fastapi-4x-faster-migration-guide-b73c337cc515?source=rss------programming-5) (2026-05-02)
-- [From “It Runs” to “It Works”: A Framework for Engineering a Production-Grade AI Model Wrapper…](https://medium.com/jin-system-architect/from-it-runs-to-it-works-a-framework-for-engineering-a-production-grade-ai-model-wrapper-f853d6cb9575?source=rss------programming-5) (2026-05-02)
-- [How to Actually Learn Python With AI: An Actionable Beginner Roadmap](https://medium.com/jin-system-architect/how-to-actually-learn-python-with-ai-an-actionable-beginner-roadmap-f49fc0fe6816?source=rss------programming-5) (2026-05-02)
-- [Square Roots of the Zero Matrix (2×2)](https://medium.com/think-art/square-roots-of-the-zero-matrix-2-2-9ca80acf30d3?source=rss------programming-5) (2026-05-02)
-- [Day 17: The Rise of Agentic AI — Why Being a Student is a Superpower in 2026](https://medium.com/@markchristian0510/day-17-the-rise-of-agentic-ai-why-being-a-student-is-a-superpower-in-2026-d73f1f63f56e?source=rss------programming-5) (2026-05-02)
+- [How Students Are Accidently Leaking API Keys on GitHub](https://medium.com/@kartikpant.kp69/how-students-are-accidently-leaking-api-keys-on-github-4834a272159e?source=rss------programming-5) (2026-05-02)
+- [Building My First Dart CLI: Localizer](https://medium.com/@mhmd.abdelrazk/building-my-first-dart-cli-localizer-165fe54a1795?source=rss------programming-5) (2026-05-02)
+- [Stop Struggling with CSS — 10 Flexbox Layouts You’ll Actually Use](https://medium.com/@manaswinisasmal5597/stop-struggling-with-css-10-flexbox-layouts-youll-actually-use-d9cbda153c74?source=rss------programming-5) (2026-05-02)
+- [How to Build Production-Ready AI Agents: MCP, CLI, and Skills — the Right Tool for the Right Job](https://medium.com/@anna.bildea/how-to-build-production-ready-ai-agents-mcp-cli-and-skills-the-right-tool-for-the-right-job-701dc102863f?source=rss------programming-5) (2026-05-02)
+- [The Future of Money Without Banks or Governments](https://medium.com/@mayankagarwal14nov/the-future-of-money-without-banks-or-governments-12f010802ac8?source=rss------programming-5) (2026-05-02)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM](https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/) (2026-04-30)
 - [Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/) (2026-04-28)
 - [Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local](https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/) (2026-04-27)
 - [OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform](https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/) (2026-04-23)
 - [Microsoft Discovery: Advancing agentic R&D at scale](https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/) (2026-04-22)
+- [Introducing Azure Accelerate for Databases: Modernize your data for AI with experts and investments](https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/) (2026-04-22)
 
 </details>
 
@@ -218,11 +218,11 @@
 <details>
 <summary>☸️ Kubernetes Blog</summary>
 
+- [Kubernetes v1.36: Pod-Level Resource Managers (Alpha)](https://kubernetes.io/blog/2026/05/01/kubernetes-v1-36-feature-pod-level-resource-managers-alpha/) (2026-05-01)
 - [Kubernetes v1.36: In-Place Vertical Scaling for Pod-Level Resources Graduates to Beta](https://kubernetes.io/blog/2026/04/30/kubernetes-v1-36-inplace-pod-level-resources-beta/) (2026-04-30)
 - [Kubernetes v1.36: Tiered Memory Protection with Memory QoS](https://kubernetes.io/blog/2026/04/29/kubernetes-v1-36-memory-qos-tiered-protection/) (2026-04-29)
 - [Kubernetes v1.36: Staleness Mitigation and Observability for Controllers](https://kubernetes.io/blog/2026/04/28/kubernetes-v1-36-staleness-mitigation-for-controllers/) (2026-04-28)
 - [Kubernetes v1.36: Mutable Pod Resources for Suspended Jobs (beta)](https://kubernetes.io/blog/2026/04/27/kubernetes-v1-36-mutable-pod-resources-for-suspended-jobs/) (2026-04-27)
-- [Kubernetes v1.36: Fine-Grained Kubelet API Authorization Graduates to GA](https://kubernetes.io/blog/2026/04/24/kubernetes-v1-36-fine-grained-kubelet-authorization-ga/) (2026-04-24)
 
 </details>
 
@@ -491,11 +491,11 @@ https://www.twilio.com/en-us/blog/partners/integrations/building-an-outbound-voi
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack vs. Google Chat: Features, Differences, and Which Is Right for You](https://slack.com/blog/compare/slack-vs-google-chat) (2026-04-28)
-- [CRM Implementation: A Step-by-Step Guide for Teams](https://slack.com/blog/crm/crm-implementation) (2026-04-28)
-- [How to Use a CRM: A Practical Guide for Teams](https://slack.com/blog/crm/how-to-use-crm) (2026-04-28)
-- [A Guide to AI Summarization: How It Works and Tools for 2026](https://slack.com/blog/productivity/ai-summarization-a-guide-to-conquering-information-overload) (2026-04-22)
-- [The Five Best Messaging Platforms for Businesses](https://slack.com/blog/collaboration/messaging-platforms) (2026-04-22)
+- [Best Workflow Management Tools to Try in 2026](https://slack.com/blog/collaboration/best-workflow-management) (2026-05-01)
+- [How to Build the Ideal Work Environment](https://slack.com/blog/collaboration/creating-the-ideal-work-environment) (2026-04-30)
+- [12 Best AI Automation Tools for 2026](https://slack.com/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows) (2026-04-30)
+- [What is Time Management? Strategies for Success](https://slack.com/blog/productivity/what-is-time-management-strategies-for-success) (2026-04-30)
+- [Eight Best Collaboration Tools for Teams in 2026](https://slack.com/blog/collaboration/best-collaboration-tools) (2026-04-30)
 
 </details>
 
@@ -557,11 +557,11 @@ https://www.twilio.com/en-us/blog/partners/integrations/building-an-outbound-voi
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [How a 2021 Quantization Algorithm Quietly Outperforms Its 2026 Successor](https://towardsdatascience.com/how-a-2021-quantization-algorithm-quietly-outperforms-its-2026-successor/) (2026-05-02)
 - [How to Get Hired in the AI Era](https://towardsdatascience.com/how-to-get-hired-in-the-ai-era/) (2026-05-01)
 - [Churn Without Fragmentation: How a Party-Label Bug Reversed My Headline Finding](https://towardsdatascience.com/fractured-local-britain-voter-volatility-in-english-councils-2018-2022/) (2026-05-01)
 - [Ghost: A Database for Our Times?](https://towardsdatascience.com/ghost-a-database-for-our-times/) (2026-05-01)
 - [Why Powerful Machine Learning Is Deceptively Easy](https://towardsdatascience.com/why-powerful-ml-is-deceptively-easy/) (2026-05-01)
-- [A Gentle Introduction to Stochastic Programming](https://towardsdatascience.com/a-gentle-introduction-to-stochastic-programming/) (2026-04-30)
 
 </details>
 
