@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell](https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/) (2026-05-01)
+- [Musely secures $360M from General Catalyst without giving up equity](https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/) (2026-05-01)
+- [Meta buys robotics startup to bolster its humanoid AI ambitions](https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/) (2026-05-01)
 - [Coatue has a plan to buy up land for data centers, possibly for Anthropic](https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/) (2026-05-01)
 - [Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks](https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/) (2026-05-01)
-- [Ubuntu services hit by outages after DDoS attack](https://techcrunch.com/2026/05/01/ubuntu-services-hit-by-outages-after-ddos-attack/) (2026-05-01)
-- [Musk v. Altman is just getting started](https://techcrunch.com/video/musk-v-altman-is-just-getting-started/) (2026-05-01)
-- [People are finally using Reddit’s search](https://techcrunch.com/2026/05/01/people-are-finally-using-reddits-search/) (2026-05-01)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [A statement about why RightsCon 2026 will not take place in Zambia](https://www.rightscon.org/rc26-statement/) (2026-05-01)
-- [City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo](https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/) (2026-05-01)
-- [It's Possible to Learn in Our Sleep. Should We?](https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we) (2026-05-01)
-- [Show HN: AI CAD Harness](https://fusion.adam.new/install) (2026-05-01)
-- [Show HN: My Private GitHub on Postgres](https://github.com/calebwin/gitgres) (2026-05-01)
+- [Good developers learn to program. Most courses teach a language](https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language) (2026-05-02)
+- [Visual Studio 2026 still ships the form designer Alan Cooper drew in 1987](https://evilgeniuslabs.ca/blog/winforms-still-ships-in-visual-studio-2026) (2026-05-01)
+- [A Report on Burnout in Open Source Software Communities (2025) [pdf]](https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf) (2026-05-01)
+- [Credit cards are vulnerable to brute force kind attacks](https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html) (2026-05-01)
+- [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo) (2026-05-01)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Splatoon Raiders preorders for the Switch 2 are nearly 20 percent off](https://www.theverge.com/gadgets/920848/splatoon-raiders-physical-edition-preorder-switch-2-walmart-deal-sale) (2026-05-01)
+- [Microsoft tests redesigned Windows 11 Run menu with dark mode and more](https://www.theverge.com/tech/922531/microsoft-windows-11-run-menu-redesign-test) (2026-05-01)
+- [Apple raises the Mac Mini&#8217;s starting price](https://www.theverge.com/tech/922572/apple-mac-mini-256-model) (2026-05-01)
+- [All the evidence revealed so far in Musk v. Altman](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial) (2026-05-01)
 - [Birdfy’s smart bird feeder is down to its best-ever price for Mother’s Day](https://www.theverge.com/gadgets/922165/netvue-birdfy-smart-bird-feeder-bath-mothers-day-deal-sale) (2026-05-01)
-- [Amazon&#8217;s built-in AI price history expands to show the entire last year](https://www.theverge.com/tech/922302/amazon-price-tracker-year) (2026-05-01)
-- [Dreame — the vacuum company — just ‘launched’ its own phones](https://www.theverge.com/gadgets/922246/dreame-next-smartphones-aurora-lux-nex-modular) (2026-05-01)
-- [This accessory can snap a Steam Controller to your phone — or almost anything else](https://www.theverge.com/games/921823/valve-steam-controller-mechanism-mounts-basegrip-dock) (2026-05-01)
-- [Players from the NBA, NFL, and MLB call for a ban on betting &#8216;unders&#8217;](https://www.theverge.com/entertainment/922244/nba-nfl-mlb-prediction-market-unders-bets) (2026-05-01)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Study: AI models that consider user's feeling are more likely to make errors](https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/) (2026-05-01)
+- [The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS](https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/) (2026-05-01)
+- [Man dies covered in necrotic lesions after amoebas eat him alive](https://arstechnica.com/health/2026/05/amoebas-eat-man-alive-over-months-in-puzzling-ultra-rare-cautionary-tale/) (2026-05-01)
+- [Ubuntu infrastructure has been down for more than a day](https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/) (2026-05-01)
 - [Senators ban themselves from prediction markets after candidates bet on own races](https://arstechnica.com/tech-policy/2026/05/senators-ban-themselves-from-prediction-markets-after-candidates-bet-on-own-races/) (2026-05-01)
-- [Minnesota passes ban on fake AI nudes; app makers risk $500K fines](https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/) (2026-05-01)
-- [Amazon stuck with months of repairs after drone strikes on data centers](https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/) (2026-05-01)
-- [Scorpions go terminator mode and reinforce their weapons with metal](https://arstechnica.com/science/2026/05/scorpions-go-terminator-mode-and-reinforce-their-weapons-with-metal/) (2026-05-01)
-- [GPT-5.5 matches heavily hyped Mythos Preview in new cybersecurity tests](https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/) (2026-05-01)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models](https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/) (2026-05-01)
 - [Cyber-Insecurity in the AI Era](https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/) (2026-05-01)
 - [Operationalizing AI for Scale and Sovereignty](https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/) (2026-05-01)
 - [The Download: a new Christian phone network, and debugging LLMs](https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/) (2026-05-01)
 - [Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining](https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/) (2026-05-01)
-- [Trump’s mass firing just dealt another blow to American science](https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/) (2026-05-01)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [A Low Floor Is Not a Low Ceiling](https://dev.to/lazarv/a-low-floor-is-not-a-low-ceiling-2o2f) (2026-05-01)
-- [Retrospective: Moving 2026 Workloads from Intel to Graviton4 Saved 40% on AWS Costs – 1 Year Data](https://dev.to/johalputt/retrospective-moving-2026-workloads-from-intel-to-graviton4-saved-40-on-aws-costs-1-year-data-okj) (2026-05-01)
-- [Top Solana RPC Providers in 2026 - A Comprehensive Guide](https://dev.to/orbitflarerpc/top-solana-rpc-providers-in-2026-a-comprehensive-guide-5hck) (2026-05-01)
-- [Insomnia vs Rentgen — powerful API platform vs raw API reality](https://dev.to/liudasjan/insomnia-vs-rentgen-powerful-api-platform-vs-raw-api-reality-230o) (2026-05-01)
-- [I built an AI agent that audits a site's visibility in both Google AND ChatGPT/Perplexity — here's how it works](https://dev.to/webfluence_digital/i-built-an-ai-agent-that-audits-a-sites-visibility-in-both-google-and-chatgptperplexity-heres-277o) (2026-05-01)
+- [Contournement du flux vidéo FAI](https://dev.to/veldemioniei/contournement-du-flux-video-fai-5ch6) (2026-05-02)
+- [Payment Rails Are Shipping. Trust Rails Aren't. That's the Problem.](https://dev.to/piiiico/payment-rails-are-shipping-trust-rails-arent-thats-the-problem-2lhd) (2026-05-02)
+- [5 MCP Server Mistakes That Waste Your AI Agent's Time (And How to Fix Them)](https://dev.to/nebulagg/5-mcp-server-mistakes-that-waste-your-ai-agents-time-and-how-to-fix-them-18m5) (2026-05-02)
+- [Optimisation HLS France](https://dev.to/veldemioniei/optimisation-hls-france-4bab) (2026-05-02)
+- [GhostPilot: Build a GPS-Denied Drone Navigation Stack with Visual SLAM + Agentic AI](https://dev.to/aman_sachan_126d19c4a2773/ghostpilot-build-a-gps-denied-drone-navigation-stack-with-visual-slam-agentic-ai-4g21) (2026-05-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [We Scaled Our System to Handle 1M Users. We Have 8,000. Here’s What That Decision Cost Us.](https://medium.com/engineering-playbook/we-scaled-our-system-to-handle-1m-users-we-have-8-000-heres-what-that-decision-cost-us-6426f7b81198?source=rss------programming-5) (2026-05-01)
-- [AWS Deep Dive: Questions That Top Companies Actually Ask](https://medium.com/@rupagupta_66374/aws-deep-dive-questions-that-top-companies-actually-ask-a5f0f153a17c?source=rss------programming-5) (2026-05-01)
-- [JWT Tokens Are Misused in Almost Every App I’ve Reviewed.](https://medium.com/@coders.stop/jwt-tokens-are-misused-in-almost-every-app-ive-reviewed-8247f2032e2a?source=rss------programming-5) (2026-05-01)
-- [From Idea to Play Store: How AI Helped Me Build a Kannada Learning App for My 3-Year-Old](https://medium.com/@ninaadabellippady/from-idea-to-play-store-how-ai-helped-me-build-a-kannada-learning-app-for-my-3-year-old-3a0e7eb08ddb?source=rss------programming-5) (2026-05-01)
-- [Getting Started with Zulip Development](https://medium.com/@xbottorff22/getting-started-with-zulip-development-7b3440e366b9?source=rss------programming-5) (2026-05-01)
+- [Tek Tuşla Dev İşler: Makro Nedir, Nasıl Çalışır ve Nerelerde Kullanılır?](https://medium.com/@emmresimmsek/tek-tu%C5%9Fla-dev-i%CC%87%C5%9Fler-makro-nedir-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r-ve-nerelerde-kullan%C4%B1l%C4%B1r-8b6d670ebd45?source=rss------programming-5) (2026-05-02)
+- [The End of Subsidised AI Coding Is Already Here](https://medium.com/@ruben_91873/the-end-of-subsidised-ai-coding-is-already-here-00d46a34e376?source=rss------programming-5) (2026-05-02)
+- [The Hidden Power of sealed in C#](https://medium.com/@cassio.bjhones/the-hidden-power-of-sealed-in-c-1f8fd65af315?source=rss------programming-5) (2026-05-02)
+- [11 Best Java Libraries That Make Developers 10x More Productive](https://medium.com/@sunil17bbmp/11-best-java-libraries-that-make-developers-10x-more-productive-a18c5f570152?source=rss------programming-5) (2026-05-02)
+- [RYS has introduced a new Community Contest System aimed at encouraging user engagement and…](https://medium.com/@edosa.egbe/rys-has-introduced-a-new-community-contest-system-aimed-at-encouraging-user-engagement-and-5ff81a3eb827?source=rss------programming-5) (2026-05-02)
 
 </details>
 
@@ -350,11 +350,11 @@
 <details>
 <summary>🔶 Cloudflare Blog</summary>
 
+- [Code Orange: Fail Small is complete. The result is a stronger Cloudflare network](https://blog.cloudflare.com/code-orange-fail-small-complete/) (2026-05-01)
 - [Introducing Dynamic Workflows: durable execution that follows the tenant](https://blog.cloudflare.com/dynamic-workflows/) (2026-05-01)
 - [Post-quantum encryption for Cloudflare IPsec is generally available](https://blog.cloudflare.com/post-quantum-ipsec/) (2026-04-30)
 - [Agents can now create Cloudflare accounts, buy domains, and deploy](https://blog.cloudflare.com/agents-stripe-projects/) (2026-04-30)
 - [Shutdowns, power outages, and conflict: a review of Q1 2026 Internet disruptions](https://blog.cloudflare.com/q1-2026-internet-disruption-summary/) (2026-04-28)
-- [Making Rust Workers reliable: panic and abort recovery in wasm‑bindgen](https://blog.cloudflare.com/making-rust-workers-reliable/) (2026-04-22)
 
 </details>
 
