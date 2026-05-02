@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027](https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/) (2026-05-02)
+- [The best AI dictation apps, tested and ranked](https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/) (2026-05-02)
+- [Beyond Lovable and Mistral: 21 European startups to watch](https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/) (2026-05-02)
 - [Uber wants to turn its millions of drivers into a sensor grid for self-driving companies](https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/) (2026-05-02)
 - [Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell](https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/) (2026-05-01)
-- [Musely secures $360M from General Catalyst without giving up equity](https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/) (2026-05-01)
-- [Meta buys robotics startup to bolster its humanoid AI ambitions](https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/) (2026-05-01)
-- [Coatue has a plan to buy up land for data centers, possibly for Anthropic](https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/) (2026-05-01)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Open Design: Use Your Coding Agent as a Design Engine](https://github.com/nexu-io/open-design) (2026-05-02)
-- [The Century-Long Pause in Fundamental Physics](https://danieltan.weblog.lol/2026/05/the-century-long-pause-in-fundamental-physics) (2026-05-02)
-- [GameStop Preparing Offer for eBay](https://www.wsj.com/business/deals/gamestop-preparing-offer-for-ebay-1678e6de) (2026-05-02)
-- [Show HN: Piruetas – A self-hosted diary app I built for my girlfriend](https://piruet.app) (2026-05-02)
-- [Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks](https://mljar.com/) (2026-05-02)
+- [Unsigned Sizes: A Five Year Mistake](https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/) (2026-05-02)
+- [NetHack 5.0.0](https://nethack.org/v500/release.html) (2026-05-02)
+- [California to begin ticketing driverless cars that violate traffic laws](https://www.bbc.com/news/articles/clypjx3rg2go) (2026-05-02)
+- [Videolan Dav2d](https://code.videolan.org/videolan/dav2d) (2026-05-02)
+- [Flue is a TypeScript framework for building the next generation of agents](https://flueframework.com/) (2026-05-02)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Meta&#8217;s historic loss in court could cost a lot more than $375 million](https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety) (2026-05-02)
+- [Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices](https://www.theverge.com/business/922788/spirit-airlines-shutdown) (2026-05-02)
+- [Aura’s delightful Aspen photo frame is on sale for $30 off this weekend](https://www.theverge.com/gadgets/922513/aura-aspen-carver-walden-digital-photo-frame-mothers-day-deal-sale) (2026-05-02)
+- [Anker’s discounted 2-in-1 USB-C cable is a great way to spend $15](https://www.theverge.com/gadgets/922288/native-union-anker-2-in-1-usb-c-cable-mothers-day-sale-deal) (2026-05-02)
 - [Playing Esoteric Ebb is like rolling the dice with a great DM](https://www.theverge.com/games/903575/esoteric-ebb-review-pc-steam) (2026-05-02)
-- [The things we’re building](https://www.theverge.com/tech/922505/vibe-code-projects-claude-installer) (2026-05-02)
-- [Splatoon Raiders preorders for the Switch 2 are nearly 20 percent off](https://www.theverge.com/gadgets/920848/splatoon-raiders-physical-edition-preorder-switch-2-walmart-deal-sale) (2026-05-01)
-- [Microsoft tests redesigned Windows 11 Run menu with dark mode and more](https://www.theverge.com/tech/922531/microsoft-windows-11-run-menu-redesign-test) (2026-05-01)
-- [Apple raises the Mac Mini&#8217;s starting price](https://www.theverge.com/tech/922572/apple-mac-mini-256-model) (2026-05-01)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Research roundup: 6 cool science stories we almost missed](https://arstechnica.com/science/2026/05/research-roundup-6-cool-science-stories-we-almost-missed-4/) (2026-05-02)
 - [Infrasound waves stop kitchen fires, but can they replace sprinklers?](https://arstechnica.com/gadgets/2026/05/startup-says-sound-waves-can-replace-fire-sprinklers-experts-arent-so-sure/) (2026-05-02)
 - [Study: AI models that consider user's feeling are more likely to make errors](https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/) (2026-05-01)
 - [The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS](https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/) (2026-05-01)
 - [Man dies covered in necrotic lesions after amoebas eat him alive](https://arstechnica.com/health/2026/05/amoebas-eat-man-alive-over-months-in-puzzling-ultra-rare-cautionary-tale/) (2026-05-01)
-- [Ubuntu infrastructure has been down for more than a day](https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/) (2026-05-01)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Cursor Composer 2: The Cache Economy Behind a 10x Cheaper Coding Agent](https://dev.to/toyama0919/cursor-composer-2-the-cache-economy-behind-a-10x-cheaper-coding-agent-15cj) (2026-05-02)
-- [Building WeaveLLM: Why .NET Deserves a Better then LangChain](https://dev.to/harshil_shah_baded487d158/building-weavellm-why-net-deserves-a-better-then-langchain-2hgi) (2026-05-02)
-- [Scalar Setup ASP.NET Core Web API](https://dev.to/sharadaade/scalar-setupt-aspnet-core-web-api-26cj) (2026-05-02)
-- [How to Configure Nginx as an HTTPS Proxy Server?](https://dev.to/ganesh-kumar/how-to-configure-nginx-as-an-https-proxy-server-2pc) (2026-05-02)
-- [The gay jailbreak: I ran the viral technique against my own production prompts and here's what I found](https://dev.to/jtorchia/the-gay-jailbreak-i-ran-the-viral-technique-against-my-own-production-prompts-and-heres-what-i-4017) (2026-05-02)
+- [Solana Week 2: From Terminal Logs to a Live Browser Dashboard](https://dev.to/0xunlin/solana-week-2-from-terminal-logs-to-a-live-browser-dashboard-33mh) (2026-05-02)
+- [Guide to Installing and Configuring Apache Airflow 3.2.0 with PostgreSQL and Running Your First DAG](https://dev.to/geraldm/guide-to-installing-and-configuring-apache-airflow-320-with-postgresql-and-running-your-first-dag-2lme) (2026-05-02)
+- [A Beginners Guide to Apache Airflow](https://dev.to/geraldm/a-beginners-guide-to-apache-airflow-4ab7) (2026-05-02)
+- [Your Coding Agent Doesn't Need Better Prompts. It Needs a Contract.](https://dev.to/fabibi/your-coding-agent-doesnt-need-better-prompts-it-needs-a-contract-572k) (2026-05-02)
+- [I Thought I'd Just Call a Blockchain API. It Didn't Work Out That Way.](https://dev.to/wicsion/i-thought-id-just-call-a-blockchain-api-it-didnt-work-out-that-way-4mp) (2026-05-02)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How Students Are Accidently Leaking API Keys on GitHub](https://medium.com/@kartikpant.kp69/how-students-are-accidently-leaking-api-keys-on-github-4834a272159e?source=rss------programming-5) (2026-05-02)
-- [Building My First Dart CLI: Localizer](https://medium.com/@mhmd.abdelrazk/building-my-first-dart-cli-localizer-165fe54a1795?source=rss------programming-5) (2026-05-02)
-- [Stop Struggling with CSS — 10 Flexbox Layouts You’ll Actually Use](https://medium.com/@manaswinisasmal5597/stop-struggling-with-css-10-flexbox-layouts-youll-actually-use-d9cbda153c74?source=rss------programming-5) (2026-05-02)
-- [How to Build Production-Ready AI Agents: MCP, CLI, and Skills — the Right Tool for the Right Job](https://medium.com/@anna.bildea/how-to-build-production-ready-ai-agents-mcp-cli-and-skills-the-right-tool-for-the-right-job-701dc102863f?source=rss------programming-5) (2026-05-02)
-- [The Future of Money Without Banks or Governments](https://medium.com/@mayankagarwal14nov/the-future-of-money-without-banks-or-governments-12f010802ac8?source=rss------programming-5) (2026-05-02)
+- [I Lost a 3,000-Word Article to a VS Code WebView Reset. Here’s How I Fixed It — Part 1](https://blog.devops.dev/i-lost-a-3-000-word-article-to-a-vs-code-webview-reset-heres-how-i-fixed-it-part-1-1a962aa53183?source=rss------programming-5) (2026-05-02)
+- [Nobody Cares About Your Side Projects. Build Them Anyway.](https://medium.com/@vndpal/nobody-cares-about-your-side-projects-build-them-anyway-0c37d2100def?source=rss------programming-5) (2026-05-02)
+- [The Secret Life of Azure: Canary Deployments for LLMs](https://medium.com/@aaron.rose.tx/the-secret-life-of-azure-canary-deployments-for-llms-7d0fba1ee178?source=rss------programming-5) (2026-05-02)
+- [Debugging: How I Finally Learned to Find Bugs Without Panic](https://medium.com/@sajiniweerasinghe/debugging-how-i-finally-learned-to-find-bugs-without-panic-14ff03a5d165?source=rss------programming-5) (2026-05-02)
+- [IndexedDB cheat sheet: what you actually need know and mistakes to avoid](https://medium.com/@doronin_dimon/indexeddb-cheat-sheet-what-you-actually-need-know-and-mistakes-to-avoid-9c0066a7d8cf?source=rss------programming-5) (2026-05-02)
 
 </details>
 
@@ -362,6 +362,11 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+From Data to Daily Wins: Driving Voice AI ROI with Twilio and Spoke
+](
+https://www.twilio.com/en-us/blog/partners/integrations/spoke-voice-ai-for-growth
+) (2026-05-01)
+- [
 Headless Provisioning via CLI for Twilio with Stripe Projects
 ](
 https://www.twilio.com/en-us/blog/partners/integrations/provision-twilio-communications-channels-stripe-projects
@@ -380,11 +385,6 @@ https://www.twilio.com/en-us/blog/insights/content-marketing-best-practices
 Building an Inbound Voice Agent with Twilio and Deepgram
 ](
 https://www.twilio.com/en-us/blog/partners/integrations/building-an-inbound-voice-agent-with-twilio-and-deepgram
-) (2026-04-24)
-- [
-Building an Outbound Voice Agent with Twilio and Deepgram
-](
-https://www.twilio.com/en-us/blog/partners/integrations/building-an-outbound-voice-agent-with-twilio-and-deepgram
 ) (2026-04-24)
 
 </details>
@@ -491,11 +491,11 @@ https://www.twilio.com/en-us/blog/partners/integrations/building-an-outbound-voi
 <details>
 <summary>💬 Slack API</summary>
 
-- [Best Workflow Management Tools to Try in 2026](https://slack.com/blog/collaboration/best-workflow-management) (2026-05-01)
-- [How to Build the Ideal Work Environment](https://slack.com/blog/collaboration/creating-the-ideal-work-environment) (2026-04-30)
-- [12 Best AI Automation Tools for 2026](https://slack.com/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows) (2026-04-30)
-- [What is Time Management? Strategies for Success](https://slack.com/blog/productivity/what-is-time-management-strategies-for-success) (2026-04-30)
-- [Eight Best Collaboration Tools for Teams in 2026](https://slack.com/blog/collaboration/best-collaboration-tools) (2026-04-30)
+- [Slack vs. Google Chat: Features, Differences, and Which Is Right for You](https://slack.com/blog/compare/slack-vs-google-chat) (2026-04-28)
+- [CRM Implementation: A Step-by-Step Guide for Teams](https://slack.com/blog/crm/crm-implementation) (2026-04-28)
+- [How to Use a CRM: A Practical Guide for Teams](https://slack.com/blog/crm/how-to-use-crm) (2026-04-28)
+- [A Guide to AI Summarization: How It Works and Tools for 2026](https://slack.com/blog/productivity/ai-summarization-a-guide-to-conquering-information-overload) (2026-04-22)
+- [The Five Best Messaging Platforms for Businesses](https://slack.com/blog/collaboration/messaging-platforms) (2026-04-22)
 
 </details>
 
@@ -557,22 +557,22 @@ https://www.twilio.com/en-us/blog/partners/integrations/building-an-outbound-voi
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Which Regularizer Should You Actually Use? Lessons from 134,400 Simulations](https://towardsdatascience.com/which-regularizer-should-you-actually-use-lessons-from-134400-simulations/) (2026-05-02)
 - [How a 2021 Quantization Algorithm Quietly Outperforms Its 2026 Successor](https://towardsdatascience.com/how-a-2021-quantization-algorithm-quietly-outperforms-its-2026-successor/) (2026-05-02)
 - [How to Get Hired in the AI Era](https://towardsdatascience.com/how-to-get-hired-in-the-ai-era/) (2026-05-01)
 - [Churn Without Fragmentation: How a Party-Label Bug Reversed My Headline Finding](https://towardsdatascience.com/fractured-local-britain-voter-volatility-in-english-councils-2018-2022/) (2026-05-01)
 - [Ghost: A Database for Our Times?](https://towardsdatascience.com/ghost-a-database-for-our-times/) (2026-05-01)
-- [Why Powerful Machine Learning Is Deceptively Easy](https://towardsdatascience.com/why-powerful-ml-is-deceptively-easy/) (2026-05-01)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [How People are Figuring Out Life With Claude](https://www.analyticsvidhya.com/blog/2026/05/how-people-are-figuring-out-life-with-claude/) (2026-05-02)
 - [MemPalace Explained: Building Long-Term Memory for AI Agents Beyond RAG ](https://www.analyticsvidhya.com/blog/2026/05/mempalace-explained/) (2026-05-01)
 - [Grok Voice Think Fast 1.0: Build Voice AI Agents That Actually Think ](https://www.analyticsvidhya.com/blog/2026/05/grok-voice-think-fast-1-0/) (2026-04-30)
 - [Compressing LSTM Models for Retail Edge Deployment: A Practical Comparison](https://www.analyticsvidhya.com/blog/2026/04/compressing-lstm-models-for-retail-edge-deployment/) (2026-04-29)
 - [MCP vs Agent Skills: Different Altogether](https://www.analyticsvidhya.com/blog/2026/04/mcp-vs-agent-skills/) (2026-04-29)
-- [GPT 5.5 vs Opus 4.7: Which is the Best AI Model Today?](https://www.analyticsvidhya.com/blog/2026/04/gpt-5-5-vs-opus-4-7/) (2026-04-28)
 
 </details>
 
