@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [In Harvard study, AI offered more accurate diagnoses than emergency room doctors](https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/) (2026-05-03)
+- [TechCrunch Mobility: How do you issue a ticket to a robotaxi?](https://techcrunch.com/2026/05/03/techcrunch-mobility-how-do-you-issue-a-ticket-to-a-robotaxi/) (2026-05-03)
 - [This tiny, magnetic e-reader could stop you from doomscrolling](https://techcrunch.com/2026/05/03/xteink-x3-review-tiny-magnetic-ereader/) (2026-05-03)
 - [AI-generated actors and scripts are now ineligible for Oscars](https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/) (2026-05-02)
 - [Farewell, Jeeves: Ask.com shuts down](https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/) (2026-05-02)
-- [Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027](https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/) (2026-05-02)
-- [The best AI dictation apps, tested and ranked](https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/) (2026-05-02)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Systemd-manager-TUI: A TUI application for managing systemd services](https://github.com/Matheus-git/systemd-manager-tui) (2026-05-03)
-- [Investors pile into clean energy as Iran war drives push for energy security](https://www.ft.com/content/9921f2b5-c910-4cec-a50f-cad453935a1a) (2026-05-03)
-- [Show HN: Apple's Sharp Running in the Browser via ONNX Runtime Web](https://github.com/bring-shrubbery/ml-sharp-web) (2026-05-03)
-- [Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML](https://acai.sh/blog/specsmaxxing) (2026-05-03)
-- [Windows API is Successful Cross-Platform API (2024)](https://retrocoding.net/windows-api-is-successful-cross-platform-api) (2026-05-03)
+- [BYOMesh – New LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135) (2026-05-03)
+- [The Oscars just banned AI from winning acting and writing awards](https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740) (2026-05-03)
+- [How far behind is each major Chromium browser?](https://chromium-drift.pages.dev/) (2026-05-03)
+- [Southwest Headquarters Tour](https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html) (2026-05-03)
+- [Largest electric autonomous container ship begins commercial service](https://global.chinadaily.com.cn/a/202604/16/WS69e0ee90a310d6866eb43dd4.html) (2026-05-03)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Reggie Fils-Aimé says Amazon once asked Nintendo to break the law](https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal) (2026-05-03)
+- [Shokz’s bassy OpenRun Pro 2 are $40 off thanks to a new Mother’s Day promo](https://www.theverge.com/gadgets/922616/shokz-openrun-pro-2-bone-conduction-headphones-mothers-day-deal-sale) (2026-05-03)
 - [These reusable digital Polaroids are a clever way to cover a fridge in memories](https://www.theverge.com/tech/917067/vidabay-snap-nfc-e-ink-paper-fridge-magnet-photo-hands-on) (2026-05-03)
+- [How the internet’s favorite squirrel dad made the hottest camera app of 2026](https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr) (2026-05-03)
 - [AI music is flooding streaming services — but who wants it?](https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it) (2026-05-03)
-- [Meta&#8217;s historic loss in court could cost a lot more than $375 million](https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety) (2026-05-02)
-- [Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices](https://www.theverge.com/business/922788/spirit-airlines-shutdown) (2026-05-02)
-- [Aura’s delightful Aspen photo frame is on sale for $30 off this weekend](https://www.theverge.com/gadgets/922513/aura-aspen-carver-walden-digital-photo-frame-mothers-day-deal-sale) (2026-05-02)
 
 </details>
 
@@ -97,22 +97,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Pandas' secret mini-language](https://dev.to/aaronmaxwell/pandas-secret-mini-language-3h96) (2026-05-03)
-- [Hey Guys, I've Created Modern Alternative for Windows XCOPY](https://dev.to/lyneetrastudio/hey-guys-ive-created-modern-alternative-for-windows-xcopy-9nl) (2026-05-03)
-- [I thought multi-agent meant more prompts until I saw 3 ways OpenClaw users are actually splitting the work](https://dev.to/lars_winstand/i-thought-multi-agent-meant-more-prompts-until-i-saw-3-ways-openclaw-users-are-actually-splitting-13ko) (2026-05-03)
-- [Industry RPS Benchmarks 2026 — Where Your DTC Brand Stands Across Apparel, Food, Beauty, Electronics, and SaaS](https://dev.to/toshihiro_shishido/industry-rps-benchmarks-2026-where-your-dtc-brand-stands-across-apparel-food-beauty-5fic) (2026-05-03)
-- [Why Your ML Model Is Quietly Failing — And How to Catch It Before It Costs You](https://dev.to/jimkat/why-your-ml-model-is-quietly-failing-and-how-to-catch-it-before-it-costs-you-372j) (2026-05-03)
+- [Building a Firefox New Tab Extension: From Idea to AMO Publishing](https://dev.to/weatherclockdash/building-a-firefox-new-tab-extension-from-idea-to-amo-publishing-4hc) (2026-05-03)
+- [Chips, Curricula, and Code Share the Steering Wheel](https://dev.to/anikalp1/chips-curricula-and-code-share-the-steering-wheel-4lbc) (2026-05-03)
+- [Day 2 — Cost Controls](https://dev.to/ismailg/day-2-cost-controls-1ggo) (2026-05-03)
+- [How I run Claude Code 24/7 on a 2015 MacBook — the framework that survived 6 months](https://dev.to/suzu/how-i-run-claude-code-247-on-a-2015-macbook-the-framework-that-survived-6-months-296n) (2026-05-03)
+- [I Just Wanted My Text to Look “Better”… Not Boring](https://dev.to/bhavin-allinonetools/i-just-wanted-my-text-to-look-better-not-boring-49ca) (2026-05-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Built 3 AI Apps as a Solo Founder — Here’s the Honest Truth](https://medium.com/codetodeploy/i-built-3-ai-apps-as-a-solo-founder-heres-the-honest-truth-65cf3637f262?source=rss------programming-5) (2026-05-03)
-- [JVM Internals, Explained Like You’re Curious (Not a Compiler PhD)](https://medium.com/@sharma.b6/jvm-internals-explained-like-youre-curious-not-a-compiler-phd-2e6e3a625d8a?source=rss------programming-5) (2026-05-03)
-- [Self-Contained Feature Slices: How To Build Useful Applications in Hours](https://levelup.gitconnected.com/self-contained-feature-slices-how-to-build-useful-applications-in-hours-bbac5bb0dd09?source=rss------programming-5) (2026-05-03)
-- [NitroBrewDB Grows With Great Success: Full Text Indexing, Performance, Storage Size](https://medium.com/@chriszenzel/nitrobrewdb-grows-with-great-success-full-text-indexing-performance-storage-size-5db57eb248f3?source=rss------programming-5) (2026-05-03)
-- [The Hidden Cost of COUNT(): Small Query, Big Impact](https://medium.com/@farahaulll268/the-hidden-cost-of-count-small-query-big-impact-ce49afdbd21c?source=rss------programming-5) (2026-05-03)
+- [How DeepSeek V4 Brings Frontier-Grade AI to Regular Engineers](https://medium.com/@sebuzdugan/how-deepseek-v4-brings-frontier-grade-ai-to-regular-engineers-0360a1f4f876?source=rss------programming-5) (2026-05-03)
+- [Late Night Linux Recovery: From GRUB Shell to Full Kali Desktop](https://medium.com/@thegoldenbird512/late-night-linux-recovery-from-grub-shell-to-full-kali-desktop-7fa3546db419?source=rss------programming-5) (2026-05-03)
+- [Rust Is the Highest-Paying Language of 2026-
+Here Is the Exact Roadmap to Learn It Fast](https://medium.com/@devlogicwrites/rust-is-the-highest-paying-language-of-2026-here-is-the-exact-roadmap-to-learn-it-fast-644a9a516dce?source=rss------programming-5) (2026-05-03)
+- [Maths Needs Colors](https://jsamwrites.medium.com/maths-needs-colors-44b76b1a693a?source=rss------programming-5) (2026-05-03)
+- [Apple Reminders Is the Only Task Manager You’ll Ever Need. And It’s Free](https://medium.com/macoclock/apple-reminders-is-the-only-task-manager-youll-ever-need-and-it-s-free-b408f2ac1d46?source=rss------programming-5) (2026-05-03)
 
 </details>
 
@@ -130,11 +131,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM](https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/) (2026-04-30)
 - [Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/) (2026-04-28)
 - [Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local](https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/) (2026-04-27)
 - [OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform](https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/) (2026-04-23)
 - [Microsoft Discovery: Advancing agentic R&D at scale](https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/) (2026-04-22)
+- [Introducing Azure Accelerate for Databases: Modernize your data for AI with experts and investments](https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/) (2026-04-22)
 
 </details>
 
@@ -544,13 +545,24 @@ https://www.twilio.com/en-us/blog/partners/integrations/building-an-inbound-voic
 </details>
 
 <details>
+<summary>🤖 AI News</summary>
+
+- [SAP: How enterprise AI governance secures profit margins](https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/) (2026-05-01)
+- [Per-token AI charges come to GitHub Copilot](https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/) (2026-05-01)
+- [What LG and NVIDIA’s talks reveal about the future of physical AI](https://www.artificialintelligence-news.com/news/what-lg-and-nvidia-talks-reveal-future-of-physical-ai/) (2026-04-30)
+- [A guide to APIs, MCPs, and MCP Gateways](https://www.artificialintelligence-news.com/news/a-guide-to-apis-and-mcps-and-mcp-gateways/) (2026-04-30)
+- [AI agent governance takes focus as regulators flag control gaps](https://www.artificialintelligence-news.com/news/ai-agent-governance-control-gaps/) (2026-04-30)
+
+</details>
+
+<details>
 <summary>📊 Towards Data Science</summary>
 
+- [CSPNet Paper Walkthrough: Just Better, No Tradeoffs](https://towardsdatascience.com/cspnet-paper-walkthrough-just-better-no-tradeoff/) (2026-05-03)
 - [Inference Scaling (Test-Time Compute): Why Reasoning Models Raise Your Compute Bill](https://towardsdatascience.com/inference-scaling-test-time-compute-why-reasoning-models-raise-your-compute-bill/) (2026-05-03)
 - [Which Regularizer Should You Actually Use? Lessons from 134,400 Simulations](https://towardsdatascience.com/which-regularizer-should-you-actually-use-lessons-from-134400-simulations/) (2026-05-02)
 - [How a 2021 Quantization Algorithm Quietly Outperforms Its 2026 Successor](https://towardsdatascience.com/how-a-2021-quantization-algorithm-quietly-outperforms-its-2026-successor/) (2026-05-02)
 - [How to Get Hired in the AI Era](https://towardsdatascience.com/how-to-get-hired-in-the-ai-era/) (2026-05-01)
-- [Churn Without Fragmentation: How a Party-Label Bug Reversed My Headline Finding](https://towardsdatascience.com/fractured-local-britain-voter-volatility-in-english-councils-2018-2022/) (2026-05-01)
 
 </details>
 
