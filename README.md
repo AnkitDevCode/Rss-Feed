@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [AI-generated actors and scripts are now ineligible for Oscars](https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/) (2026-05-02)
+- [Farewell, Jeeves: Ask.com shuts down](https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/) (2026-05-02)
 - [Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027](https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/) (2026-05-02)
 - [The best AI dictation apps, tested and ranked](https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/) (2026-05-02)
 - [Beyond Lovable and Mistral: 21 European startups to watch](https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/) (2026-05-02)
-- [Uber wants to turn its millions of drivers into a sensor grid for self-driving companies](https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/) (2026-05-02)
-- [Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell](https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/) (2026-05-01)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Unsigned Sizes: A Five Year Mistake](https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/) (2026-05-02)
-- [NetHack 5.0.0](https://nethack.org/v500/release.html) (2026-05-02)
-- [California to begin ticketing driverless cars that violate traffic laws](https://www.bbc.com/news/articles/clypjx3rg2go) (2026-05-02)
-- [Videolan Dav2d](https://code.videolan.org/videolan/dav2d) (2026-05-02)
-- [Flue is a TypeScript framework for building the next generation of agents](https://flueframework.com/) (2026-05-02)
+- [A Common Proof of the Riemann Hypothesis and the Collatz Conjecture](https://www.academia.edu/166172334/A_Common_Proof_of_the_Riemann_Hypothesis_and_the_Collatz_Conjecture_Echo_Interference_in_Number_Theoretic_Acoustic_Spacetime) (2026-05-03)
+- [Maryland Is First to Ban A.I.-Driven Price Increases in Grocery Stores](https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html) (2026-05-03)
+- [Clandestine network smuggling Starlink tech into Iran to beat internet blackout](https://www.bbc.com/news/articles/cvgzk91leweo) (2026-05-03)
+- [Am I the only one who hates delivery robots?](https://www.latimes.com/entertainment-arts/story/2026-04-14/delivery-robots-creating-problems-glendale-ban) (2026-05-03)
+- [A Couple Million Lines of Haskell: Production Engineering at Mercury](https://blog.haskell.org/a-couple-million-lines-of-haskell/) (2026-05-03)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Solana Week 2: From Terminal Logs to a Live Browser Dashboard](https://dev.to/0xunlin/solana-week-2-from-terminal-logs-to-a-live-browser-dashboard-33mh) (2026-05-02)
-- [Guide to Installing and Configuring Apache Airflow 3.2.0 with PostgreSQL and Running Your First DAG](https://dev.to/geraldm/guide-to-installing-and-configuring-apache-airflow-320-with-postgresql-and-running-your-first-dag-2lme) (2026-05-02)
-- [A Beginners Guide to Apache Airflow](https://dev.to/geraldm/a-beginners-guide-to-apache-airflow-4ab7) (2026-05-02)
-- [Your Coding Agent Doesn't Need Better Prompts. It Needs a Contract.](https://dev.to/fabibi/your-coding-agent-doesnt-need-better-prompts-it-needs-a-contract-572k) (2026-05-02)
-- [I Thought I'd Just Call a Blockchain API. It Didn't Work Out That Way.](https://dev.to/wicsion/i-thought-id-just-call-a-blockchain-api-it-didnt-work-out-that-way-4mp) (2026-05-02)
+- [We Ditched Google Authenticator 2026 for Speakeasy 2 and Reduced Our Next.js 15 2FA Setup Time by 50%](https://dev.to/johalputt/we-ditched-google-authenticator-2026-for-speakeasy-2-and-reduced-our-nextjs-15-2fa-setup-time-by-3keg) (2026-05-03)
+- [Using AI to Learn and Prepare for Certification Exams](https://dev.to/pbaletkeman/using-ai-to-learn-and-prepare-for-certification-exams-1og) (2026-05-03)
+- [GitHub Copilot's 27x Billing Trap is Closing — The Budget Guard Deadline](https://dev.to/amedinat/github-copilots-27x-billing-trap-is-closing-the-budget-guard-deadline-1ioc) (2026-05-03)
+- [I always worried my READMEs disagreed with my own repos. So I built README Clew.](https://dev.to/earlgreyhot1701d/i-always-worried-my-own-readmes-disagreed-with-my-own-repos-so-i-built-readme-clew-42i5) (2026-05-03)
+- [GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram](https://dev.to/erikqin/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1h9f) (2026-05-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [I Lost a 3,000-Word Article to a VS Code WebView Reset. Here’s How I Fixed It — Part 1](https://blog.devops.dev/i-lost-a-3-000-word-article-to-a-vs-code-webview-reset-heres-how-i-fixed-it-part-1-1a962aa53183?source=rss------programming-5) (2026-05-02)
-- [Nobody Cares About Your Side Projects. Build Them Anyway.](https://medium.com/@vndpal/nobody-cares-about-your-side-projects-build-them-anyway-0c37d2100def?source=rss------programming-5) (2026-05-02)
-- [The Secret Life of Azure: Canary Deployments for LLMs](https://medium.com/@aaron.rose.tx/the-secret-life-of-azure-canary-deployments-for-llms-7d0fba1ee178?source=rss------programming-5) (2026-05-02)
-- [Debugging: How I Finally Learned to Find Bugs Without Panic](https://medium.com/@sajiniweerasinghe/debugging-how-i-finally-learned-to-find-bugs-without-panic-14ff03a5d165?source=rss------programming-5) (2026-05-02)
-- [IndexedDB cheat sheet: what you actually need know and mistakes to avoid](https://medium.com/@doronin_dimon/indexeddb-cheat-sheet-what-you-actually-need-know-and-mistakes-to-avoid-9c0066a7d8cf?source=rss------programming-5) (2026-05-02)
+- [GPT-5.5 Tops Every Leaderboard. It Also Hallucinates More Than Any Flagship Model.](https://medium.com/@jeromequeck2004/gpt-5-5-tops-every-leaderboard-it-also-hallucinates-more-than-any-flagship-model-51d476330594?source=rss------programming-5) (2026-05-03)
+- [Why Your Infinite Scroll Scraper Breaks After Page 3 (and What the Site Isn’t Telling You)](https://medium.com/@miroku.ike74/why-your-infinite-scroll-scraper-breaks-after-page-3-and-what-the-site-isnt-telling-you-e8b63d2341d3?source=rss------programming-5) (2026-05-03)
+- [The AI price hike that never showed up on the pricing page (your bill went up 27% anyway)](https://medium.com/@dev_tips/the-ai-price-hike-that-never-showed-up-on-the-pricing-page-your-bill-went-up-27-anyway-48a61265f3f3?source=rss------programming-5) (2026-05-03)
+- [7 AI APIs That Replaced Entire Teams in My Startup](https://ai.plainenglish.io/7-ai-apis-that-replaced-entire-teams-in-my-startup-0f2b0413d887?source=rss------programming-5) (2026-05-03)
+- [I Tried Scraping Dynamic Websites with Plain Requests. Here’s Where It Breaks (and How to Fix It)](https://medium.com/@sohom9292_59647/i-tried-scraping-dynamic-websites-with-plain-requests-heres-where-it-breaks-and-how-to-fix-it-226f38f1bcd4?source=rss------programming-5) (2026-05-03)
 
 </details>
 
