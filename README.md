@@ -20,33 +20,33 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [This tiny, magnetic e-reader could stop you from doomscrolling](https://techcrunch.com/2026/05/03/xteink-x3-review-tiny-magnetic-ereader/) (2026-05-03)
 - [AI-generated actors and scripts are now ineligible for Oscars](https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/) (2026-05-02)
 - [Farewell, Jeeves: Ask.com shuts down](https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/) (2026-05-02)
 - [Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027](https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/) (2026-05-02)
 - [The best AI dictation apps, tested and ranked](https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/) (2026-05-02)
-- [Beyond Lovable and Mistral: 21 European startups to watch](https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/) (2026-05-02)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Systemd-manager-TUI: A TUI application for managing systemd services](https://github.com/Matheus-git/systemd-manager-tui) (2026-05-03)
+- [Investors pile into clean energy as Iran war drives push for energy security](https://www.ft.com/content/9921f2b5-c910-4cec-a50f-cad453935a1a) (2026-05-03)
+- [Show HN: Apple's Sharp Running in the Browser via ONNX Runtime Web](https://github.com/bring-shrubbery/ml-sharp-web) (2026-05-03)
 - [Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML](https://acai.sh/blog/specsmaxxing) (2026-05-03)
-- [Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge](https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/) (2026-05-03)
-- [AI, Intimacy, and the Data You Never Meant to Share](https://fshot.org/techzone/the-algorithm-knows.php) (2026-05-03)
-- [Open source does not imply open community](https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/) (2026-05-03)
-- [Care homes and hotels in Japan shut as expansion strategy unravels](https://www.newsonjapan.com/article/149075.php) (2026-05-03)
+- [Windows API is Successful Cross-Platform API (2024)](https://retrocoding.net/windows-api-is-successful-cross-platform-api) (2026-05-03)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [These reusable digital Polaroids are a clever way to cover a fridge in memories](https://www.theverge.com/tech/917067/vidabay-snap-nfc-e-ink-paper-fridge-magnet-photo-hands-on) (2026-05-03)
+- [AI music is flooding streaming services — but who wants it?](https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it) (2026-05-03)
 - [Meta&#8217;s historic loss in court could cost a lot more than $375 million](https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety) (2026-05-02)
 - [Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices](https://www.theverge.com/business/922788/spirit-airlines-shutdown) (2026-05-02)
 - [Aura’s delightful Aspen photo frame is on sale for $30 off this weekend](https://www.theverge.com/gadgets/922513/aura-aspen-carver-walden-digital-photo-frame-mothers-day-deal-sale) (2026-05-02)
-- [Anker’s discounted 2-in-1 USB-C cable is a great way to spend $15](https://www.theverge.com/gadgets/922288/native-union-anker-2-in-1-usb-c-cable-mothers-day-sale-deal) (2026-05-02)
-- [Playing Esoteric Ebb is like rolling the dice with a great DM](https://www.theverge.com/games/903575/esoteric-ebb-review-pc-steam) (2026-05-02)
 
 </details>
 
@@ -97,23 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Simulating IoT Devices Without Physical Hardware 🚀](https://dev.to/milankj/simulating-iot-devices-without-physical-hardware-29dk) (2026-05-03)
-- [I Built a Multi-Agent AI Pen Tester Because AI Coding Tools Are Shipping Vulnerable Code](https://dev.to/aaronsood10/i-built-a-multi-agent-ai-pen-tester-because-ai-coding-tools-are-shipping-vulnerable-code-6bd) (2026-05-03)
-- [LinkedIn Quietly Migrated From ProseMirror to Quill — and Broke Every Browser Automation Tool That Touched the Composer](https://dev.to/achiya-automation/linkedin-quietly-migrated-from-prosemirror-to-quill-and-broke-every-browser-automation-tool-that-4927) (2026-05-03)
-- [Why Your Reddit Video Downloads Have No Sound (And How to Fix It)](https://dev.to/hiteshm_devapp/why-your-reddit-video-downloads-have-no-sound-and-how-to-fix-it-1ila) (2026-05-03)
-- [vite-plugin-pack-orchestrator，One Vite Plugin for Compression, Checksums, and Auto Hash-Renaming](https://dev.to/kai000/vite-plugin-pack-orchestratorone-vite-plugin-for-compression-checksums-and-auto-hash-renaming-5di7) (2026-05-03)
+- [Pandas' secret mini-language](https://dev.to/aaronmaxwell/pandas-secret-mini-language-3h96) (2026-05-03)
+- [Hey Guys, I've Created Modern Alternative for Windows XCOPY](https://dev.to/lyneetrastudio/hey-guys-ive-created-modern-alternative-for-windows-xcopy-9nl) (2026-05-03)
+- [I thought multi-agent meant more prompts until I saw 3 ways OpenClaw users are actually splitting the work](https://dev.to/lars_winstand/i-thought-multi-agent-meant-more-prompts-until-i-saw-3-ways-openclaw-users-are-actually-splitting-13ko) (2026-05-03)
+- [Industry RPS Benchmarks 2026 — Where Your DTC Brand Stands Across Apparel, Food, Beauty, Electronics, and SaaS](https://dev.to/toshihiro_shishido/industry-rps-benchmarks-2026-where-your-dtc-brand-stands-across-apparel-food-beauty-5fic) (2026-05-03)
+- [Why Your ML Model Is Quietly Failing — And How to Catch It Before It Costs You](https://dev.to/jimkat/why-your-ml-model-is-quietly-failing-and-how-to-catch-it-before-it-costs-you-372j) (2026-05-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [MCP servers just made your AI agent actually useful in prod](https://medium.com/@BuildShift/mcp-servers-just-made-your-ai-agent-actually-useful-in-prod-aa0e48a03a9b?source=rss------programming-5) (2026-05-03)
-- [How I Designed a System That Handles 1 Million Requests/Second
-on a $50/Month Server](https://medium.com/@devlogicwrites/how-i-designed-a-system-that-handles-1-million-requests-second-on-a-50-month-server-e5527c00fcac?source=rss------programming-5) (2026-05-03)
-- [Magic Until You Read the Spec](https://medium.com/@pravinraj213/magic-until-you-read-the-spec-9de06ac28ec1?source=rss------programming-5) (2026-05-03)
-- [Claude Code + Semble: The 98% Token-Saving Hack You Need](https://medium.com/@mohammedouasli7/claude-code-semble-the-98-token-saving-hack-you-need-9971a990ad7e?source=rss------programming-5) (2026-05-03)
-- [Harvard MIT Math Problem](https://medium.com/think-art/harvard-mit-math-problem-5fbe5c81362b?source=rss------programming-5) (2026-05-03)
+- [I Built 3 AI Apps as a Solo Founder — Here’s the Honest Truth](https://medium.com/codetodeploy/i-built-3-ai-apps-as-a-solo-founder-heres-the-honest-truth-65cf3637f262?source=rss------programming-5) (2026-05-03)
+- [JVM Internals, Explained Like You’re Curious (Not a Compiler PhD)](https://medium.com/@sharma.b6/jvm-internals-explained-like-youre-curious-not-a-compiler-phd-2e6e3a625d8a?source=rss------programming-5) (2026-05-03)
+- [Self-Contained Feature Slices: How To Build Useful Applications in Hours](https://levelup.gitconnected.com/self-contained-feature-slices-how-to-build-useful-applications-in-hours-bbac5bb0dd09?source=rss------programming-5) (2026-05-03)
+- [NitroBrewDB Grows With Great Success: Full Text Indexing, Performance, Storage Size](https://medium.com/@chriszenzel/nitrobrewdb-grows-with-great-success-full-text-indexing-performance-storage-size-5db57eb248f3?source=rss------programming-5) (2026-05-03)
+- [The Hidden Cost of COUNT(): Small Query, Big Impact](https://medium.com/@farahaulll268/the-hidden-cost-of-count-small-query-big-impact-ce49afdbd21c?source=rss------programming-5) (2026-05-03)
 
 </details>
 
@@ -131,11 +130,11 @@ on a $50/Month Server](https://medium.com/@devlogicwrites/how-i-designed-a-syste
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM](https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/) (2026-04-30)
 - [Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/) (2026-04-28)
 - [Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local](https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/) (2026-04-27)
 - [OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform](https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/) (2026-04-23)
 - [Microsoft Discovery: Advancing agentic R&D at scale](https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/) (2026-04-22)
-- [Introducing Azure Accelerate for Databases: Modernize your data for AI with experts and investments](https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/) (2026-04-22)
 
 </details>
 
@@ -492,11 +491,11 @@ https://www.twilio.com/en-us/blog/partners/integrations/building-an-inbound-voic
 <details>
 <summary>💬 Slack API</summary>
 
-- [Slack vs. Google Chat: Features, Differences, and Which Is Right for You](https://slack.com/blog/compare/slack-vs-google-chat) (2026-04-28)
-- [CRM Implementation: A Step-by-Step Guide for Teams](https://slack.com/blog/crm/crm-implementation) (2026-04-28)
-- [How to Use a CRM: A Practical Guide for Teams](https://slack.com/blog/crm/how-to-use-crm) (2026-04-28)
-- [A Guide to AI Summarization: How It Works and Tools for 2026](https://slack.com/blog/productivity/ai-summarization-a-guide-to-conquering-information-overload) (2026-04-22)
-- [The Five Best Messaging Platforms for Businesses](https://slack.com/blog/collaboration/messaging-platforms) (2026-04-22)
+- [Best Workflow Management Tools to Try in 2026](https://slack.com/blog/collaboration/best-workflow-management) (2026-05-01)
+- [How to Build the Ideal Work Environment](https://slack.com/blog/collaboration/creating-the-ideal-work-environment) (2026-04-30)
+- [12 Best AI Automation Tools for 2026](https://slack.com/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows) (2026-04-30)
+- [What is Time Management? Strategies for Success](https://slack.com/blog/productivity/what-is-time-management-strategies-for-success) (2026-04-30)
+- [Eight Best Collaboration Tools for Teams in 2026](https://slack.com/blog/collaboration/best-collaboration-tools) (2026-04-30)
 
 </details>
 
@@ -547,11 +546,11 @@ https://www.twilio.com/en-us/blog/partners/integrations/building-an-inbound-voic
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Inference Scaling (Test-Time Compute): Why Reasoning Models Raise Your Compute Bill](https://towardsdatascience.com/inference-scaling-test-time-compute-why-reasoning-models-raise-your-compute-bill/) (2026-05-03)
 - [Which Regularizer Should You Actually Use? Lessons from 134,400 Simulations](https://towardsdatascience.com/which-regularizer-should-you-actually-use-lessons-from-134400-simulations/) (2026-05-02)
 - [How a 2021 Quantization Algorithm Quietly Outperforms Its 2026 Successor](https://towardsdatascience.com/how-a-2021-quantization-algorithm-quietly-outperforms-its-2026-successor/) (2026-05-02)
 - [How to Get Hired in the AI Era](https://towardsdatascience.com/how-to-get-hired-in-the-ai-era/) (2026-05-01)
 - [Churn Without Fragmentation: How a Party-Label Bug Reversed My Headline Finding](https://towardsdatascience.com/fractured-local-britain-voter-volatility-in-english-councils-2018-2022/) (2026-05-01)
-- [Ghost: A Database for Our Times?](https://towardsdatascience.com/ghost-a-database-for-our-times/) (2026-05-01)
 
 </details>
 
