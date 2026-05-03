@@ -31,11 +31,11 @@
 <details>
 <summary>💻 Hacker News</summary>
 
-- [A Common Proof of the Riemann Hypothesis and the Collatz Conjecture](https://www.academia.edu/166172334/A_Common_Proof_of_the_Riemann_Hypothesis_and_the_Collatz_Conjecture_Echo_Interference_in_Number_Theoretic_Acoustic_Spacetime) (2026-05-03)
-- [Maryland Is First to Ban A.I.-Driven Price Increases in Grocery Stores](https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html) (2026-05-03)
-- [Clandestine network smuggling Starlink tech into Iran to beat internet blackout](https://www.bbc.com/news/articles/cvgzk91leweo) (2026-05-03)
-- [Am I the only one who hates delivery robots?](https://www.latimes.com/entertainment-arts/story/2026-04-14/delivery-robots-creating-problems-glendale-ban) (2026-05-03)
-- [A Couple Million Lines of Haskell: Production Engineering at Mercury](https://blog.haskell.org/a-couple-million-lines-of-haskell/) (2026-05-03)
+- [Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML](https://acai.sh/blog/specsmaxxing) (2026-05-03)
+- [Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge](https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/) (2026-05-03)
+- [AI, Intimacy, and the Data You Never Meant to Share](https://fshot.org/techzone/the-algorithm-knows.php) (2026-05-03)
+- [Open source does not imply open community](https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/) (2026-05-03)
+- [Care homes and hotels in Japan shut as expansion strategy unravels](https://www.newsonjapan.com/article/149075.php) (2026-05-03)
 
 </details>
 
@@ -97,22 +97,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [We Ditched Google Authenticator 2026 for Speakeasy 2 and Reduced Our Next.js 15 2FA Setup Time by 50%](https://dev.to/johalputt/we-ditched-google-authenticator-2026-for-speakeasy-2-and-reduced-our-nextjs-15-2fa-setup-time-by-3keg) (2026-05-03)
-- [Using AI to Learn and Prepare for Certification Exams](https://dev.to/pbaletkeman/using-ai-to-learn-and-prepare-for-certification-exams-1og) (2026-05-03)
-- [GitHub Copilot's 27x Billing Trap is Closing — The Budget Guard Deadline](https://dev.to/amedinat/github-copilots-27x-billing-trap-is-closing-the-budget-guard-deadline-1ioc) (2026-05-03)
-- [I always worried my READMEs disagreed with my own repos. So I built README Clew.](https://dev.to/earlgreyhot1701d/i-always-worried-my-own-readmes-disagreed-with-my-own-repos-so-i-built-readme-clew-42i5) (2026-05-03)
-- [GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram](https://dev.to/erikqin/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1h9f) (2026-05-03)
+- [Simulating IoT Devices Without Physical Hardware 🚀](https://dev.to/milankj/simulating-iot-devices-without-physical-hardware-29dk) (2026-05-03)
+- [I Built a Multi-Agent AI Pen Tester Because AI Coding Tools Are Shipping Vulnerable Code](https://dev.to/aaronsood10/i-built-a-multi-agent-ai-pen-tester-because-ai-coding-tools-are-shipping-vulnerable-code-6bd) (2026-05-03)
+- [LinkedIn Quietly Migrated From ProseMirror to Quill — and Broke Every Browser Automation Tool That Touched the Composer](https://dev.to/achiya-automation/linkedin-quietly-migrated-from-prosemirror-to-quill-and-broke-every-browser-automation-tool-that-4927) (2026-05-03)
+- [Why Your Reddit Video Downloads Have No Sound (And How to Fix It)](https://dev.to/hiteshm_devapp/why-your-reddit-video-downloads-have-no-sound-and-how-to-fix-it-1ila) (2026-05-03)
+- [vite-plugin-pack-orchestrator，One Vite Plugin for Compression, Checksums, and Auto Hash-Renaming](https://dev.to/kai000/vite-plugin-pack-orchestratorone-vite-plugin-for-compression-checksums-and-auto-hash-renaming-5di7) (2026-05-03)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [GPT-5.5 Tops Every Leaderboard. It Also Hallucinates More Than Any Flagship Model.](https://medium.com/@jeromequeck2004/gpt-5-5-tops-every-leaderboard-it-also-hallucinates-more-than-any-flagship-model-51d476330594?source=rss------programming-5) (2026-05-03)
-- [Why Your Infinite Scroll Scraper Breaks After Page 3 (and What the Site Isn’t Telling You)](https://medium.com/@miroku.ike74/why-your-infinite-scroll-scraper-breaks-after-page-3-and-what-the-site-isnt-telling-you-e8b63d2341d3?source=rss------programming-5) (2026-05-03)
-- [The AI price hike that never showed up on the pricing page (your bill went up 27% anyway)](https://medium.com/@dev_tips/the-ai-price-hike-that-never-showed-up-on-the-pricing-page-your-bill-went-up-27-anyway-48a61265f3f3?source=rss------programming-5) (2026-05-03)
-- [7 AI APIs That Replaced Entire Teams in My Startup](https://ai.plainenglish.io/7-ai-apis-that-replaced-entire-teams-in-my-startup-0f2b0413d887?source=rss------programming-5) (2026-05-03)
-- [I Tried Scraping Dynamic Websites with Plain Requests. Here’s Where It Breaks (and How to Fix It)](https://medium.com/@sohom9292_59647/i-tried-scraping-dynamic-websites-with-plain-requests-heres-where-it-breaks-and-how-to-fix-it-226f38f1bcd4?source=rss------programming-5) (2026-05-03)
+- [MCP servers just made your AI agent actually useful in prod](https://medium.com/@BuildShift/mcp-servers-just-made-your-ai-agent-actually-useful-in-prod-aa0e48a03a9b?source=rss------programming-5) (2026-05-03)
+- [How I Designed a System That Handles 1 Million Requests/Second
+on a $50/Month Server](https://medium.com/@devlogicwrites/how-i-designed-a-system-that-handles-1-million-requests-second-on-a-50-month-server-e5527c00fcac?source=rss------programming-5) (2026-05-03)
+- [Magic Until You Read the Spec](https://medium.com/@pravinraj213/magic-until-you-read-the-spec-9de06ac28ec1?source=rss------programming-5) (2026-05-03)
+- [Claude Code + Semble: The 98% Token-Saving Hack You Need](https://medium.com/@mohammedouasli7/claude-code-semble-the-98-token-saving-hack-you-need-9971a990ad7e?source=rss------programming-5) (2026-05-03)
+- [Harvard MIT Math Problem](https://medium.com/think-art/harvard-mit-math-problem-5fbe5c81362b?source=rss------programming-5) (2026-05-03)
 
 </details>
 
@@ -544,17 +545,6 @@ https://www.twilio.com/en-us/blog/partners/integrations/building-an-inbound-voic
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [SAP: How enterprise AI governance secures profit margins](https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/) (2026-05-01)
-- [Per-token AI charges come to GitHub Copilot](https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/) (2026-05-01)
-- [What LG and NVIDIA’s talks reveal about the future of physical AI](https://www.artificialintelligence-news.com/news/what-lg-and-nvidia-talks-reveal-future-of-physical-ai/) (2026-04-30)
-- [A guide to APIs, MCPs, and MCP Gateways](https://www.artificialintelligence-news.com/news/a-guide-to-apis-and-mcps-and-mcp-gateways/) (2026-04-30)
-- [AI agent governance takes focus as regulators flag control gaps](https://www.artificialintelligence-news.com/news/ai-agent-governance-control-gaps/) (2026-04-30)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
 - [Which Regularizer Should You Actually Use? Lessons from 134,400 Simulations](https://towardsdatascience.com/which-regularizer-should-you-actually-use-lessons-from-134400-simulations/) (2026-05-02)
@@ -568,11 +558,11 @@ https://www.twilio.com/en-us/blog/partners/integrations/building-an-inbound-voic
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [15+ Solved Agentic AI Projects with Github Links](https://www.analyticsvidhya.com/blog/2026/05/solved-agentic-ai-projects-with-github-links/) (2026-05-03)
 - [How People are Figuring Out Life With Claude](https://www.analyticsvidhya.com/blog/2026/05/how-people-are-figuring-out-life-with-claude/) (2026-05-02)
 - [MemPalace Explained: Building Long-Term Memory for AI Agents Beyond RAG ](https://www.analyticsvidhya.com/blog/2026/05/mempalace-explained/) (2026-05-01)
 - [Grok Voice Think Fast 1.0: Build Voice AI Agents That Actually Think ](https://www.analyticsvidhya.com/blog/2026/05/grok-voice-think-fast-1-0/) (2026-04-30)
 - [Compressing LSTM Models for Retail Edge Deployment: A Practical Comparison](https://www.analyticsvidhya.com/blog/2026/04/compressing-lstm-models-for-retail-edge-deployment/) (2026-04-29)
-- [MCP vs Agent Skills: Different Altogether](https://www.analyticsvidhya.com/blog/2026/04/mcp-vs-agent-skills/) (2026-04-29)
 
 </details>
 
