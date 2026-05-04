@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Nicolas Sauvage is betting on the boring parts of AI](https://techcrunch.com/2026/05/04/nicolas-sauvage-is-betting-on-the-boring-parts-of-ai/) (2026-05-04)
 - [We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse](https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/) (2026-05-04)
 - [‘This is fine’ creator says AI startup stole his art](https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/) (2026-05-03)
 - [In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors](https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/) (2026-05-03)
 - [TechCrunch Mobility: How do you issue a ticket to a robotaxi?](https://techcrunch.com/2026/05/03/techcrunch-mobility-how-do-you-issue-a-ticket-to-a-robotaxi/) (2026-05-03)
-- [This tiny, magnetic e-reader could stop you from doomscrolling](https://techcrunch.com/2026/05/03/xteink-x3-review-tiny-magnetic-ereader/) (2026-05-03)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
+- [Stitch together lots of little HTML pages with navigations for interactions](https://blog.jim-nielsen.com/2026/small-html-pages/) (2026-05-04)
+- [Humanoid Robot Actuators](https://www.firgelli.com/pages/humanoid-robot-actuators) (2026-05-04)
 - [The text mode lie: why modern TUIs are a nightmare for accessibility](https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility) (2026-05-03)
 - [Let's Buy Spirit Air](https://letsbuyspiritair.com/) (2026-05-03)
 - [The 'Hidden' Costs of Great Abstractions](https://jdgr.net/the-hidden-costs-of-great-abstractions) (2026-05-03)
-- [Agentic Coding Is a Trap](https://larsfaye.com/articles/agentic-coding-is-a-trap) (2026-05-03)
-- [DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper](https://github.com/aattaran/deepclaude) (2026-05-03)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Push notifications, the iceberg under one feature](https://dev.to/aoligama/push-notifications-the-iceberg-under-one-feature-4ka) (2026-05-04)
-- [I Built a Mobile App in 3 Days. The Hard Part Was Keeping It Connected.](https://dev.to/juandastic/i-built-a-mobile-app-in-3-days-the-hard-part-was-keeping-it-connected-2fda) (2026-05-04)
-- [Why Two-Thirds of AI Teams Are Betting on Kubernetes (And What That Means for You)](https://dev.to/pratheesh_s/why-two-thirds-of-ai-teams-are-betting-on-kubernetes-and-what-that-means-for-you-3edo) (2026-05-04)
-- [I Built a Free Invoicing Tool for Freelancers in 3 Weeks — Here's What I Learned](https://dev.to/indieops/i-built-a-free-invoicing-tool-for-freelancers-in-3-weeks-heres-what-i-learned-28a5) (2026-05-04)
-- [RAG Series (6): Vector Databases — Storage and Retrieval Infrastructure](https://dev.to/wonderlab/rag-series-6-vector-databases-storage-and-retrieval-infrastructure-2omh) (2026-05-04)
+- [Ingress Migration Strategy: From Deprecated Controllers to Gateway API](https://dev.to/matthiasbruns/ingress-migration-strategy-from-deprecated-controllers-to-gateway-api-1607) (2026-05-04)
+- [Revolutionize the comparison of Mistral 2 and RAG: What Fails](https://dev.to/johalputt/revolutionize-the-comparison-of-mistral-2-and-rag-what-fails-4jl3) (2026-05-04)
+- [I built a carbon linter for Terraform PRs — here's the full stack](https://dev.to/grafikui/i-built-a-carbon-linter-for-terraform-prs-heres-the-full-stack-3g5p) (2026-05-04)
+- [Deploy: App Nextjs + Docker + VPS](https://dev.to/victorzarzar/deploy-app-nextjs-docker-vps-17p7) (2026-05-04)
+- [Pricing AI Features in 2026: How To Charge For LLM-Backed Products Without Bleeding Margins](https://dev.to/alexcloudstar/pricing-ai-features-in-2026-how-to-charge-for-llm-backed-products-without-bleeding-margins-57fm) (2026-05-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Apps Optimization? A Quick Guide to Lazy Loading](https://aliannuur.medium.com/apps-optimization-a-quick-guide-to-lazy-loading-354934af8d29?source=rss------programming-5) (2026-05-04)
-- [OpenAI Symphony vs Claude Managed Agents vs CrewAI: Which Agent Orchestration Pattern Wins](https://ai.gopubby.com/openai-symphony-vs-claude-managed-agents-vs-crewai-which-agent-orchestration-pattern-wins-43141fd7b944?source=rss------programming-5) (2026-05-04)
-- [20 JavaScript/TypeScript Mistakes That Look Right… But Break Your App](https://medium.com/lets-code-future/20-javascript-typescript-mistakes-that-look-right-but-break-your-app-012b94c9fffc?source=rss------programming-5) (2026-05-04)
-- [THE DATA PHARAOHS ,Chapter Eight: The Eternal Pipeline](https://medium.com/pen-with-paper/the-data-pharaohs-chapter-eight-the-eternal-pipeline-78d6d7fec599?source=rss------programming-5) (2026-05-04)
-- [The Pull Request Is Broken: What GitHub’s Merge Bug Teaches Us About Code Quality, Trust, and the…](https://blog.stackademic.com/the-pull-request-is-broken-what-githubs-merge-bug-teaches-us-about-code-quality-trust-and-the-6da9e180dd86?source=rss------programming-5) (2026-05-04)
+- [Top 20 Software Development Companies in India (2026)](https://medium.com/@sahil.khurana775/top-20-software-development-companies-in-india-2026-63f2f1172f26?source=rss------programming-5) (2026-05-04)
+- [How to work incrementally](https://medium.com/@tmartinfr/how-to-work-incrementally-14aaa579829a?source=rss------programming-5) (2026-05-04)
+- [Claude Code Best Practices: 13 Patterns for Building AI-Powered .NET Applications](https://shahedbd.medium.com/claude-code-best-practices-13-patterns-for-building-ai-powered-net-applications-3d8f4ea3c34e?source=rss------programming-5) (2026-05-04)
+- [Harvard University Entrance Exam](https://medium.com/think-art/harvard-university-entrance-exam-759005864a8f?source=rss------programming-5) (2026-05-04)
+- [A FastAPI Update Broke My Production App. Here Is the Fix.](https://medium.com/@inprogrammer/a-fastapi-update-broke-my-production-app-here-is-the-fix-08d88362805e?source=rss------programming-5) (2026-05-04)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM](https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/) (2026-04-30)
 - [Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/) (2026-04-28)
 - [Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local](https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/) (2026-04-27)
 - [OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform](https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/) (2026-04-23)
 - [Microsoft Discovery: Advancing agentic R&D at scale](https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/) (2026-04-22)
-- [Introducing Azure Accelerate for Databases: Modernize your data for AI with experts and investments](https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/) (2026-04-22)
 
 </details>
 
