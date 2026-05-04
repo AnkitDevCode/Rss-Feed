@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Barocal can cool your food and drink by squeezing a hunk of plastic crystals](https://techcrunch.com/2026/05/04/barocal-can-cool-your-food-and-drink-by-squeezing-a-hunk-of-plastic-crystals/) (2026-05-04)
+- [Doordash adds AI tools to speed up merchant onboarding, edit photos of dishes](https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/) (2026-05-04)
+- [Ouster’s new color lidar is coming to replace cameras](https://techcrunch.com/2026/05/04/ousters-new-color-lidar-is-coming-to-replace-cameras/) (2026-05-04)
 - [Nicolas Sauvage is betting on the boring parts of AI](https://techcrunch.com/2026/05/04/nicolas-sauvage-is-betting-on-the-boring-parts-of-ai/) (2026-05-04)
 - [We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse](https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/) (2026-05-04)
-- [‘This is fine’ creator says AI startup stole his art](https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/) (2026-05-03)
-- [In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors](https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/) (2026-05-03)
-- [TechCrunch Mobility: How do you issue a ticket to a robotaxi?](https://techcrunch.com/2026/05/03/techcrunch-mobility-how-do-you-issue-a-ticket-to-a-robotaxi/) (2026-05-03)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Stitch together lots of little HTML pages with navigations for interactions](https://blog.jim-nielsen.com/2026/small-html-pages/) (2026-05-04)
-- [Humanoid Robot Actuators](https://www.firgelli.com/pages/humanoid-robot-actuators) (2026-05-04)
-- [The text mode lie: why modern TUIs are a nightmare for accessibility](https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility) (2026-05-03)
-- [Let's Buy Spirit Air](https://letsbuyspiritair.com/) (2026-05-03)
-- [The 'Hidden' Costs of Great Abstractions](https://jdgr.net/the-hidden-costs-of-great-abstractions) (2026-05-03)
+- [Someone allegedly used a hairdryer to rig Polymarket weather bets](https://www.engadget.com/big-tech/someone-allegedly-used-a-hairdryer-to-rig-polymarket-weather-bets-155312411.html) (2026-05-04)
+- [PyInfra 3.8.0 Is Out](https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0) (2026-05-04)
+- [Newton's law of gravity passes its biggest test](https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever) (2026-05-04)
+- [Talking to 35 Strangers at the Gym](https://thienantran.com/talking-to-35-strangers-at-the-gym/) (2026-05-04)
+- [Trademark violation: Fake Notepad++ for Mac](https://notepad-plus-plus.org/news/npp-trademark-infringement/) (2026-05-04)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Hisense aggressively cuts the price of its RGB LED TV on release day](https://www.theverge.com/tech/922571/hisense-cuts-price-ur9) (2026-05-04)
+- [Homebridge 2.0 is here, and it speaks Matter](https://www.theverge.com/tech/922877/homebridge-2-0-matter-update-robot-vacuums) (2026-05-04)
 - [Reggie Fils-Aimé says Amazon once asked Nintendo to break the law](https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal) (2026-05-03)
 - [Shokz’s bassy OpenRun Pro 2 are $40 off thanks to a new Mother’s Day promo](https://www.theverge.com/gadgets/922616/shokz-openrun-pro-2-bone-conduction-headphones-mothers-day-deal-sale) (2026-05-03)
 - [These reusable digital Polaroids are a clever way to cover a fridge in memories](https://www.theverge.com/tech/917067/vidabay-snap-nfc-e-ink-paper-fridge-magnet-photo-hands-on) (2026-05-03)
-- [How the internet’s favorite squirrel dad made the hottest camera app of 2026](https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr) (2026-05-03)
-- [AI music is flooding streaming services — but who wants it?](https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it) (2026-05-03)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Trump administration cites national security in stalling 165 wind farms](https://arstechnica.com/science/2026/05/trump-administration-cites-national-security-in-stalling-165-wind-farms/) (2026-05-04)
+- [MIT's virtual violin offers luthiers a new design tool](https://arstechnica.com/science/2026/05/mits-virtual-violin-offers-luthiers-a-new-design-tool/) (2026-05-04)
+- [Toyota built a $10 billion private utopia—what’s going on in there?](https://arstechnica.com/cars/2026/05/inside-toyotas-10b-private-utopia-big-ideas-few-people-cameras-everywhere/) (2026-05-04)
 - [Research roundup: 6 cool science stories we almost missed](https://arstechnica.com/science/2026/05/research-roundup-6-cool-science-stories-we-almost-missed-4/) (2026-05-02)
 - [Infrasound waves stop kitchen fires, but can they replace sprinklers?](https://arstechnica.com/gadgets/2026/05/startup-says-sound-waves-can-replace-fire-sprinklers-experts-arent-so-sure/) (2026-05-02)
-- [Study: AI models that consider user's feeling are more likely to make errors](https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/) (2026-05-01)
-- [The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS](https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/) (2026-05-01)
-- [Man dies covered in necrotic lesions after amoebas eat him alive](https://arstechnica.com/health/2026/05/amoebas-eat-man-alive-over-months-in-puzzling-ultra-rare-cautionary-tale/) (2026-05-01)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [Tailoring AI solutions for health care needs](https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/) (2026-05-04)
 - [Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models](https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/) (2026-05-01)
 - [Cyber-Insecurity in the AI Era](https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/) (2026-05-01)
 - [Operationalizing AI for Scale and Sovereignty](https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/) (2026-05-01)
 - [The Download: a new Christian phone network, and debugging LLMs](https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/) (2026-05-01)
-- [Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining](https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/) (2026-05-01)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Ingress Migration Strategy: From Deprecated Controllers to Gateway API](https://dev.to/matthiasbruns/ingress-migration-strategy-from-deprecated-controllers-to-gateway-api-1607) (2026-05-04)
-- [Revolutionize the comparison of Mistral 2 and RAG: What Fails](https://dev.to/johalputt/revolutionize-the-comparison-of-mistral-2-and-rag-what-fails-4jl3) (2026-05-04)
-- [I built a carbon linter for Terraform PRs — here's the full stack](https://dev.to/grafikui/i-built-a-carbon-linter-for-terraform-prs-heres-the-full-stack-3g5p) (2026-05-04)
-- [Deploy: App Nextjs + Docker + VPS](https://dev.to/victorzarzar/deploy-app-nextjs-docker-vps-17p7) (2026-05-04)
-- [Pricing AI Features in 2026: How To Charge For LLM-Backed Products Without Bleeding Margins](https://dev.to/alexcloudstar/pricing-ai-features-in-2026-how-to-charge-for-llm-backed-products-without-bleeding-margins-57fm) (2026-05-04)
+- [Saved by the Logs (And the Human Who Read Them)](https://dev.to/tackk3/saved-by-the-logs-and-the-human-who-read-them-4gop) (2026-05-04)
+- [Como construí um ASCII Art Converter cyberpunk usando apenas prompts](https://dev.to/andraderaul/como-construi-um-ascii-art-converter-cyberpunk-usando-apenas-prompts-k5) (2026-05-04)
+- [Trending Tech Talks & Deep Dives - May 04, 2026](https://dev.to/devang_garg_9d61131081535/trending-tech-talks-deep-dives-may-04-2026-fe6) (2026-05-04)
+- [A New Programming Manual Tracing with Trace Table using JavaScript](https://dev.to/anisurrahmanlikhon/a-new-programming-manual-tracing-with-trace-table-using-javascript-3mmm) (2026-05-04)
+- [select input - variations](https://dev.to/pjdev2d/select-input-variations-3j78) (2026-05-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Top 20 Software Development Companies in India (2026)](https://medium.com/@sahil.khurana775/top-20-software-development-companies-in-india-2026-63f2f1172f26?source=rss------programming-5) (2026-05-04)
-- [How to work incrementally](https://medium.com/@tmartinfr/how-to-work-incrementally-14aaa579829a?source=rss------programming-5) (2026-05-04)
-- [Claude Code Best Practices: 13 Patterns for Building AI-Powered .NET Applications](https://shahedbd.medium.com/claude-code-best-practices-13-patterns-for-building-ai-powered-net-applications-3d8f4ea3c34e?source=rss------programming-5) (2026-05-04)
-- [Harvard University Entrance Exam](https://medium.com/think-art/harvard-university-entrance-exam-759005864a8f?source=rss------programming-5) (2026-05-04)
-- [A FastAPI Update Broke My Production App. Here Is the Fix.](https://medium.com/@inprogrammer/a-fastapi-update-broke-my-production-app-here-is-the-fix-08d88362805e?source=rss------programming-5) (2026-05-04)
+- [30 PARAY YAD HAN APNA GHYM BHOOL NAHI PATE](https://medium.com/@maliksamavia6543/30-paray-yad-han-apna-ghym-bhool-nahi-pate-e2bf3b72bf4a?source=rss------programming-5) (2026-05-04)
+- [DDD & Onion/ Hexagonal/ Clean Architectures](https://todayamerican.medium.com/ddd-onion-hexagonal-clean-architectures-1048d1e0b016?source=rss------programming-5) (2026-05-04)
+- [Design Examples for Domain Driven Design (DDD)](https://todayamerican.medium.com/design-examples-for-domain-driven-design-ddd-231b45d5f88c?source=rss------programming-5) (2026-05-04)
+- [Corporate Politics Is Real — Here’s How It Actually Works](https://medium.com/@gaddamnaveen192/corporate-politics-is-real-heres-how-it-actually-works-6d8df5c91050?source=rss------programming-5) (2026-05-04)
+- [The SRE’s Guide to Bulkhead Architecture: Stop Cascading Failures in Their Tracks](https://repplhq.medium.com/the-sres-guide-to-bulkhead-architecture-stop-cascading-failures-in-their-tracks-363b0aa10305?source=rss------programming-5) (2026-05-04)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [PyTorch vs. TensorFlow: Choosing the Right Framework in 2026](https://blog.jetbrains.com/pycharm/2026/05/pytorch-vs-tensorflow-choosing-framework-2026/) (2026-05-04)
+- [Teaching an AI Agent to Debug Flaky Tests](https://blog.jetbrains.com/idea/2026/05/teaching-an-ai-agent-to-debug-flaky-tests/) (2026-05-04)
+- [Kodee’s Kotlin Roundup: Golden Kodee Finalists, Kotlin 2.4.0-Beta2, and New Learning Resources](https://blog.jetbrains.com/kotlin/2026/05/kodees-kotlin-roundup-golden-kodee-finalists-kotlin-2-4-0-beta2-and-new-learning-resources/) (2026-05-04)
 - [JetBrains Academy – April Digest](https://blog.jetbrains.com/education/2026/05/01/jetbrains-academy-april-2026/) (2026-05-01)
 - [Faster Rust Testing at Scale: cargo-nextest in Practice](https://blog.jetbrains.com/rust/2026/05/01/faster-rust-tests-with-cargo-nextest/) (2026-05-01)
-- [Have Your Say in the 2026 Ruby on Rails Developer Community Survey](https://blog.jetbrains.com/ruby/2026/04/have-your-say-in-the-2026-ruby-on-rails-developer-community-survey/) (2026-04-30)
-- [Join Us for PHPverse 2026 on June 9](https://blog.jetbrains.com/phpstorm/2026/04/join-us-for-phpverse-2026-on-june-9/) (2026-04-30)
-- [The IDE Is Already an AI Quality Variable. Is It on Your AI Agenda?](https://blog.jetbrains.com/ai/2026/04/the-ide-is-already-an-ai-quality-variable-is-it-on-your-ai-agenda/) (2026-04-30)
 
 </details>
 
@@ -544,24 +544,13 @@ https://www.twilio.com/en-us/blog/partners/integrations/building-an-inbound-voic
 </details>
 
 <details>
-<summary>🤖 AI News</summary>
-
-- [SAP: How enterprise AI governance secures profit margins](https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/) (2026-05-01)
-- [Per-token AI charges come to GitHub Copilot](https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/) (2026-05-01)
-- [What LG and NVIDIA’s talks reveal about the future of physical AI](https://www.artificialintelligence-news.com/news/what-lg-and-nvidia-talks-reveal-future-of-physical-ai/) (2026-04-30)
-- [A guide to APIs, MCPs, and MCP Gateways](https://www.artificialintelligence-news.com/news/a-guide-to-apis-and-mcps-and-mcp-gateways/) (2026-04-30)
-- [AI agent governance takes focus as regulators flag control gaps](https://www.artificialintelligence-news.com/news/ai-agent-governance-control-gaps/) (2026-04-30)
-
-</details>
-
-<details>
 <summary>📊 Towards Data Science</summary>
 
+- [Playing Connect Four with Deep Q-Learning](https://towardsdatascience.com/playing-connect-four-with-deep-q-learning/) (2026-05-04)
+- [How AI Tools Generate Technical Debt in IoT Systems — and What to Do About It](https://towardsdatascience.com/how-ai-tools-generate-technical-debt-in-iot-systems-and-what-to-do-about-it/) (2026-05-04)
 - [CSPNet Paper Walkthrough: Just Better, No Tradeoffs](https://towardsdatascience.com/cspnet-paper-walkthrough-just-better-no-tradeoff/) (2026-05-03)
 - [Inference Scaling (Test-Time Compute): Why Reasoning Models Raise Your Compute Bill](https://towardsdatascience.com/inference-scaling-test-time-compute-why-reasoning-models-raise-your-compute-bill/) (2026-05-03)
 - [Which Regularizer Should You Actually Use? Lessons from 134,400 Simulations](https://towardsdatascience.com/which-regularizer-should-you-actually-use-lessons-from-134400-simulations/) (2026-05-02)
-- [How a 2021 Quantization Algorithm Quietly Outperforms Its 2026 Successor](https://towardsdatascience.com/how-a-2021-quantization-algorithm-quietly-outperforms-its-2026-successor/) (2026-05-02)
-- [How to Get Hired in the AI Era](https://towardsdatascience.com/how-to-get-hired-in-the-ai-era/) (2026-05-01)
 
 </details>
 
@@ -579,22 +568,22 @@ https://www.twilio.com/en-us/blog/partners/integrations/building-an-inbound-voic
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [7 Practical Ways to Reduce Claude Code Token Usage](https://www.kdnuggets.com/7-practical-ways-to-reduce-claude-code-token-usage) (2026-05-04)
 - [The “Robust” Data Scientist: Winning with Messy Data and Pingouin](https://www.kdnuggets.com/the-robust-data-scientist-winning-with-messy-data-and-pingouin) (2026-05-01)
 - [Open Weight Text-to-Speach with Voxtral TTS](https://www.kdnuggets.com/open-weight-text-to-speach-with-voxtral-tts) (2026-05-01)
 - [Learn The Most In-Demand Tech Skills for FREE](https://www.kdnuggets.com/2026/04/zerotomastery/learn-the-most-in-demand-tech-skills-for-free) (2026-04-30)
 - [Building Agentic AI Systems with Microsoft’s Agent Framework](https://www.kdnuggets.com/building-agentic-ai-systems-with-microsofts-agent-framework) (2026-04-30)
-- [5 Powerful Python Decorators to Build Clean AI Code](https://www.kdnuggets.com/5-powerful-python-decorators-to-build-clean-ai-code) (2026-04-30)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Agentic RAG Explained in 3 Levels of Difficulty](https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/) (2026-05-04)
 - [Effective KV Compression with TurboQuant](https://machinelearningmastery.com/effective-kv-compression-with-turboquant/) (2026-04-30)
 - [Building AI Agents in Python with Pydantic AI](https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/) (2026-04-29)
 - [Effective Context Engineering for AI Agents: A Developer’s Guide](https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/) (2026-04-28)
 - [Text Summarization with Scikit-LLM](https://machinelearningmastery.com/text-summarization-with-scikit-llm/) (2026-04-27)
-- [Building AI Agents with Local Small Language Models](https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/) (2026-04-23)
 
 </details>
 
