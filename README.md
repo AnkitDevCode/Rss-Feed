@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [In Harvard study, AI offered more accurate diagnoses than emergency room doctors](https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/) (2026-05-03)
+- [We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse](https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/) (2026-05-04)
+- [‘This is fine’ creator says AI startup stole his art](https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/) (2026-05-03)
+- [In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors](https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/) (2026-05-03)
 - [TechCrunch Mobility: How do you issue a ticket to a robotaxi?](https://techcrunch.com/2026/05/03/techcrunch-mobility-how-do-you-issue-a-ticket-to-a-robotaxi/) (2026-05-03)
 - [This tiny, magnetic e-reader could stop you from doomscrolling](https://techcrunch.com/2026/05/03/xteink-x3-review-tiny-magnetic-ereader/) (2026-05-03)
-- [AI-generated actors and scripts are now ineligible for Oscars](https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/) (2026-05-02)
-- [Farewell, Jeeves: Ask.com shuts down](https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/) (2026-05-02)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [BYOMesh – New LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135) (2026-05-03)
-- [The Oscars just banned AI from winning acting and writing awards](https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740) (2026-05-03)
-- [How far behind is each major Chromium browser?](https://chromium-drift.pages.dev/) (2026-05-03)
-- [Southwest Headquarters Tour](https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html) (2026-05-03)
-- [Largest electric autonomous container ship begins commercial service](https://global.chinadaily.com.cn/a/202604/16/WS69e0ee90a310d6866eb43dd4.html) (2026-05-03)
+- [The text mode lie: why modern TUIs are a nightmare for accessibility](https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility) (2026-05-03)
+- [Let's Buy Spirit Air](https://letsbuyspiritair.com/) (2026-05-03)
+- [The 'Hidden' Costs of Great Abstractions](https://jdgr.net/the-hidden-costs-of-great-abstractions) (2026-05-03)
+- [Agentic Coding Is a Trap](https://larsfaye.com/articles/agentic-coding-is-a-trap) (2026-05-03)
+- [DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper](https://github.com/aattaran/deepclaude) (2026-05-03)
 
 </details>
 
@@ -97,23 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building a Firefox New Tab Extension: From Idea to AMO Publishing](https://dev.to/weatherclockdash/building-a-firefox-new-tab-extension-from-idea-to-amo-publishing-4hc) (2026-05-03)
-- [Chips, Curricula, and Code Share the Steering Wheel](https://dev.to/anikalp1/chips-curricula-and-code-share-the-steering-wheel-4lbc) (2026-05-03)
-- [Day 2 — Cost Controls](https://dev.to/ismailg/day-2-cost-controls-1ggo) (2026-05-03)
-- [How I run Claude Code 24/7 on a 2015 MacBook — the framework that survived 6 months](https://dev.to/suzu/how-i-run-claude-code-247-on-a-2015-macbook-the-framework-that-survived-6-months-296n) (2026-05-03)
-- [I Just Wanted My Text to Look “Better”… Not Boring](https://dev.to/bhavin-allinonetools/i-just-wanted-my-text-to-look-better-not-boring-49ca) (2026-05-03)
+- [Push notifications, the iceberg under one feature](https://dev.to/aoligama/push-notifications-the-iceberg-under-one-feature-4ka) (2026-05-04)
+- [I Built a Mobile App in 3 Days. The Hard Part Was Keeping It Connected.](https://dev.to/juandastic/i-built-a-mobile-app-in-3-days-the-hard-part-was-keeping-it-connected-2fda) (2026-05-04)
+- [Why Two-Thirds of AI Teams Are Betting on Kubernetes (And What That Means for You)](https://dev.to/pratheesh_s/why-two-thirds-of-ai-teams-are-betting-on-kubernetes-and-what-that-means-for-you-3edo) (2026-05-04)
+- [I Built a Free Invoicing Tool for Freelancers in 3 Weeks — Here's What I Learned](https://dev.to/indieops/i-built-a-free-invoicing-tool-for-freelancers-in-3-weeks-heres-what-i-learned-28a5) (2026-05-04)
+- [RAG Series (6): Vector Databases — Storage and Retrieval Infrastructure](https://dev.to/wonderlab/rag-series-6-vector-databases-storage-and-retrieval-infrastructure-2omh) (2026-05-04)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [How DeepSeek V4 Brings Frontier-Grade AI to Regular Engineers](https://medium.com/@sebuzdugan/how-deepseek-v4-brings-frontier-grade-ai-to-regular-engineers-0360a1f4f876?source=rss------programming-5) (2026-05-03)
-- [Late Night Linux Recovery: From GRUB Shell to Full Kali Desktop](https://medium.com/@thegoldenbird512/late-night-linux-recovery-from-grub-shell-to-full-kali-desktop-7fa3546db419?source=rss------programming-5) (2026-05-03)
-- [Rust Is the Highest-Paying Language of 2026-
-Here Is the Exact Roadmap to Learn It Fast](https://medium.com/@devlogicwrites/rust-is-the-highest-paying-language-of-2026-here-is-the-exact-roadmap-to-learn-it-fast-644a9a516dce?source=rss------programming-5) (2026-05-03)
-- [Maths Needs Colors](https://jsamwrites.medium.com/maths-needs-colors-44b76b1a693a?source=rss------programming-5) (2026-05-03)
-- [Apple Reminders Is the Only Task Manager You’ll Ever Need. And It’s Free](https://medium.com/macoclock/apple-reminders-is-the-only-task-manager-youll-ever-need-and-it-s-free-b408f2ac1d46?source=rss------programming-5) (2026-05-03)
+- [Apps Optimization? A Quick Guide to Lazy Loading](https://aliannuur.medium.com/apps-optimization-a-quick-guide-to-lazy-loading-354934af8d29?source=rss------programming-5) (2026-05-04)
+- [OpenAI Symphony vs Claude Managed Agents vs CrewAI: Which Agent Orchestration Pattern Wins](https://ai.gopubby.com/openai-symphony-vs-claude-managed-agents-vs-crewai-which-agent-orchestration-pattern-wins-43141fd7b944?source=rss------programming-5) (2026-05-04)
+- [20 JavaScript/TypeScript Mistakes That Look Right… But Break Your App](https://medium.com/lets-code-future/20-javascript-typescript-mistakes-that-look-right-but-break-your-app-012b94c9fffc?source=rss------programming-5) (2026-05-04)
+- [THE DATA PHARAOHS ,Chapter Eight: The Eternal Pipeline](https://medium.com/pen-with-paper/the-data-pharaohs-chapter-eight-the-eternal-pipeline-78d6d7fec599?source=rss------programming-5) (2026-05-04)
+- [The Pull Request Is Broken: What GitHub’s Merge Bug Teaches Us About Code Quality, Trust, and the…](https://blog.stackademic.com/the-pull-request-is-broken-what-githubs-merge-bug-teaches-us-about-code-quality-trust-and-the-6da9e180dd86?source=rss------programming-5) (2026-05-04)
 
 </details>
 
