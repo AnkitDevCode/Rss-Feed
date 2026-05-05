@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’](https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/) (2026-05-05)
 - [Geothermal startup Fervo Energy to raise up to $1.3B in IPO](https://techcrunch.com/2026/05/04/geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo/) (2026-05-05)
 - [US government warns of severe CopyFail bug affecting major versions of Linux](https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/) (2026-05-04)
 - [OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO](https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/) (2026-05-04)
 - [Image AI models now drive app growth, beating chatbot upgrades](https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/) (2026-05-04)
-- [Katie Haun raises $1B for new venture funds](https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/) (2026-05-04)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Bun is being ported from Zig to Rust](https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5) (2026-05-05)
-- [SprintiQ – open-source sprint planning for Claude Code](https://github.com/SprintiQ-Incorporated/sprintiq) (2026-05-04)
-- [Agent Skills](https://addyosmani.com/blog/agent-skills/) (2026-05-04)
-- ['Point of no return': New Orleans relocation must start now due to sea level](https://www.theguardian.com/us-news/2026/may/04/new-orleans-sea-levels-relocation-climate-crisis) (2026-05-04)
-- [When Networking Doesn't Work](https://www.os2museum.com/wp/when-networking-doesnt-work/) (2026-05-04)
+- [Async Rust never left the MVP state](https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state) (2026-05-05)
+- [Lessons for Agentic Coding: What should we do when code is cheap?](https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html) (2026-05-05)
+- [Kids bypass age verification with fake moustaches](https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/) (2026-05-05)
+- [About 10% of AMC movie showings sell zero tickets. This site finds them](https://walzr.com/empty-screenings) (2026-05-05)
+- [2-D Mathematical Curves](https://www.2dcurves.com/) (2026-05-05)
 
 </details>
 
@@ -86,33 +86,33 @@
 <details>
 <summary>📚 Stack Overflow Blog</summary>
 
+- [What (un)exactly do you mean by semantic search?](https://stackoverflow.blog/2026/05/05/what-un-exactly-do-you-mean-by-semantic-search/) (2026-05-05)
 - [Dispatches from O'Reilly: Fast paths and slow paths](https://stackoverflow.blog/2026/05/01/dispatches-from-o-reilly-fast-paths-and-slow-paths/) (2026-05-01)
 - [Time is a construct but it can still break your software](https://stackoverflow.blog/2026/05/01/time-is-a-construct-but-it-can-break-your-software/) (2026-05-01)
 - [The Worst Coder in the World goes agentic: building a leaderboard cracking AI](https://stackoverflow.blog/2026/04/30/worst-coder-in-the-world-goes-agentic/) (2026-04-30)
 - [Turning scattered knowledge into trusted intelligence: Stack Internal 2026.3](https://stackoverflow.blog/2026/04/28/turn-scattered-knowledge-into-trusted-intelligence/) (2026-04-28)
-- [Your LLM issues are really data issues](https://stackoverflow.blog/2026/04/28/your-llm-issues-are-really-data-issues/) (2026-04-28)
 
 </details>
 
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Free GCP Practice Exams (13 Certification Tracks with Explanations)](https://dev.to/devopsenginex/free-gcp-practice-exams-13-certification-tracks-with-explanations-54pa) (2026-05-05)
-- [The History of Expanso (Part 6): Data Controls are a One-Way Street](https://dev.to/david_aronchick_ea415de50/the-history-of-expanso-part-6-data-controls-are-a-one-way-street-3j7c) (2026-05-05)
-- [Codex /goal and OpenGUI: long-running tasks need state](https://dev.to/fenix_23505d14df386c00ced/codex-goal-and-opengui-long-running-tasks-need-state-1c61) (2026-05-05)
-- [Your Data Lake is a Write-Only Memory](https://dev.to/david_aronchick_ea415de50/your-data-lake-is-a-write-only-memory-59g3) (2026-05-05)
-- [Why Your 'AI-Ready' Data Isn't: The Hidden Pipeline Problem Breaking Production AI](https://dev.to/david_aronchick_ea415de50/why-your-ai-ready-data-isnt-the-hidden-pipeline-problem-breaking-production-ai-4n3n) (2026-05-05)
+- [Building a Translation Pipeline for International Contract Bidding](https://dev.to/diogoheleno/building-a-translation-pipeline-for-international-contract-bidding-465j) (2026-05-05)
+- [Realistic Ragdoll Physics in Three.js](https://dev.to/mattvb91/realistic-ragdoll-physics-in-threejs-1pko) (2026-05-05)
+- [Flutter Mobile Test Automation: The Complete Guide](https://dev.to/drizzdev/flutter-mobile-test-automation-the-complete-guide-37g3) (2026-05-05)
+- [Intelligent RAG powered Playwright code reviewer](https://dev.to/automationwithsaurav/intelligent-rag-powered-playwright-code-reviewer-2219) (2026-05-05)
+- [Building Translation Workflows: Technical Implementation for Multi-Linguist Review Processes](https://dev.to/diogoheleno/building-translation-workflows-technical-implementation-for-multi-linguist-review-processes-5910) (2026-05-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [This One Angular Refactor Reduced My API Calls by 70%](https://medium.com/@shubhamnalawade037/this-one-angular-refactor-reduced-my-api-calls-by-70-f459ff50fca1?source=rss------programming-5) (2026-05-05)
-- [Xiaomi MiMo Studio: A Free AI Playground You Probably Haven’t Tried Yet](https://colinritman.medium.com/xiaomi-mimo-studio-a-free-ai-playground-you-probably-havent-tried-yet-ff6732ab3ece?source=rss------programming-5) (2026-05-05)
-- [We Gave Every Engineer On-Call Access to Production. Incidents Dropped 60%.](https://medium.com/@coding_with_tech/we-gave-every-engineer-on-call-access-to-production-incidents-dropped-60-d15e8ff289ba?source=rss------programming-5) (2026-05-05)
-- [5 Must-Know Generative AI Terms to Stay Ahead in 2026](https://medium.com/@sunil17bbmp/5-must-know-generative-ai-terms-to-stay-ahead-in-2026-2ab85e2ebcc6?source=rss------programming-5) (2026-05-05)
-- [We Let a Junior Engineer Own Production for 30 Days. Here’s What Broke.](https://blog.stackademic.com/we-let-a-junior-engineer-own-production-for-30-days-heres-what-broke-e93dd1b25249?source=rss------programming-5) (2026-05-05)
+- [A Realistic 6-Month Android App Developer Roadmap Based on My Experience](https://medium.com/@riadurrahman/a-realistic-6-month-android-app-developer-roadmap-based-on-my-experience-ee75020f90f4?source=rss------programming-5) (2026-05-05)
+- [I stopped using useState for everything. Here’s the React State Pattern That Changed My Life](https://medium.com/@diyasanjaysatpute147/i-stopped-using-usestate-for-everything-heres-the-react-state-pattern-that-changed-my-life-5116cf08f756?source=rss------programming-5) (2026-05-05)
+- [Saya Berhenti Ribet Ngurus Environment Development](https://medium.com/@tsyahfrudin/saya-berhenti-ribet-ngurus-environment-development-01d9581c89f6?source=rss------programming-5) (2026-05-05)
+- [A Semicolon Broke GitHub — And Almost Exposed Millions of Repositories](https://medium.com/@choon1/a-semicolon-broke-github-and-almost-exposed-millions-of-repositories-73e85f433e7d?source=rss------programming-5) (2026-05-05)
+- [What’s New in Go for 2026? A Deep Dive into the Features That Matter Most to Developers ️](https://medium.com/@geragaming0212/whats-new-in-go-for-2026-a-deep-dive-into-the-features-that-matter-most-to-developers-%EF%B8%8F-266920d217bb?source=rss------programming-5) (2026-05-05)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM](https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/) (2026-04-30)
 - [Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/) (2026-04-28)
 - [Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local](https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/) (2026-04-27)
 - [OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform](https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/) (2026-04-23)
 - [Microsoft Discovery: Advancing agentic R&D at scale](https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/) (2026-04-22)
-- [Introducing Azure Accelerate for Databases: Modernize your data for AI with experts and investments](https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/) (2026-04-22)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Precision Container Security with Docker and Black Duck](https://www.docker.com/blog/precision-container-security-with-docker-and-black-duck/) (2026-05-05)
 - [A Virtual Agent team at Docker: How the Coding Agent Sandboxes team uses a fleet of agents to ship faster](https://www.docker.com/blog/a-virtual-agent-team-at-docker-how-the-coding-agent-sandboxes-team-uses-a-fleet-of-agents-to-ship-faster/) (2026-05-01)
 - [From Security Blocked to Prod Ready: ClickHouse on Docker Hardened Images](https://www.docker.com/blog/from-security-blocked-to-prod-ready-clickhouse-on-docker-hardened-images/) (2026-04-30)
 - [Trivy, KICS, and the shape of supply chain attacks so far in 2026](https://www.docker.com/blog/trivy-kics-and-the-shape-of-supply-chain-attacks-so-far-in-2026/) (2026-04-23)
 - [Why MicroVMs: The Architecture Behind Docker Sandboxes](https://www.docker.com/blog/why-microvms-the-architecture-behind-docker-sandboxes/) (2026-04-16)
-- [Why We Chose the Harder Path: Docker Hardened Images, One Year Later](https://www.docker.com/blog/why-we-chose-the-harder-path-docker-hardened-images-one-year-later/) (2026-04-14)
 
 </details>
 
@@ -362,30 +362,30 @@
 <summary>📞 Twilio Blog</summary>
 
 - [
+19+ tips to stop your emails from going to spam in 2026
+](
+https://www.twilio.com/en-us/blog/insights/10-tips-to-keep-email-out-of-the-spam-folder
+) (2026-05-04)
+- [
+Build a WhatsApp Fact-Checking Bot with Twilio, OpenAI, and Node.js
+](
+https://www.twilio.com/en-us/blog/developers/community/build-whatsapp-fact-checking-bot-twilio-openai-node
+) (2026-05-04)
+- [
+11 best email list cleaning services to boost deliverability
+](
+https://www.twilio.com/en-us/blog/best-email-list-cleaning-services
+) (2026-05-04)
+- [
+11 best email marketing service providers in 2026
+](
+https://www.twilio.com/en-us/blog/insights/best-email-software-providers
+) (2026-05-02)
+- [
 From Data to Daily Wins: Driving Voice AI ROI with Twilio and Spoke
 ](
 https://www.twilio.com/en-us/blog/partners/integrations/spoke-voice-ai-for-growth
 ) (2026-05-01)
-- [
-Headless Provisioning via CLI for Twilio with Stripe Projects
-](
-https://www.twilio.com/en-us/blog/partners/integrations/provision-twilio-communications-channels-stripe-projects
-) (2026-04-29)
-- [
-The future of customer service: How automation is revolutionizing customer engagement
-](
-https://www.twilio.com/en-us/blog/insights/how-automation-revolutionizes-customer-engagement
-) (2026-04-29)
-- [
-40+ Content Marketing Best Practices in 2026 (Need to Know)
-](
-https://www.twilio.com/en-us/blog/insights/content-marketing-best-practices
-) (2026-04-28)
-- [
-Building an Inbound Voice Agent with Twilio and Deepgram
-](
-https://www.twilio.com/en-us/blog/partners/integrations/building-an-inbound-voice-agent-with-twilio-and-deepgram
-) (2026-04-24)
 
 </details>
 
