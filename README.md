@@ -20,55 +20,55 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [India’s first GenAI unicorn shifts to cloud services as AI model ambitions face reality](https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality/) (2026-05-05)
+- [Amazon bets Nobel Prize-based dehumidification can cut its energy use](https://techcrunch.com/2026/05/05/amazon-bets-nobel-prize-based-dehumidification-can-cut-its-energy-use/) (2026-05-05)
+- [Coinbase to lay off 14% of staff as part of broader restructuring](https://techcrunch.com/2026/05/05/coinbase-to-lay-off-14-of-staff-as-part-of-broader-restructuring/) (2026-05-05)
+- [Moment Energy raises $40M to meet ‘infinite demand for power’ with EV batteries](https://techcrunch.com/2026/05/05/moment-energy-raises-40m-to-meet-infinite-demand-for-power-with-ev-batteries/) (2026-05-05)
 - [As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’](https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/) (2026-05-05)
-- [Geothermal startup Fervo Energy to raise up to $1.3B in IPO](https://techcrunch.com/2026/05/04/geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo/) (2026-05-05)
-- [US government warns of severe CopyFail bug affecting major versions of Linux](https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/) (2026-05-04)
-- [OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO](https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/) (2026-05-04)
-- [Image AI models now drive app growth, beating chatbot upgrades](https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/) (2026-05-04)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Async Rust never left the MVP state](https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state) (2026-05-05)
-- [Lessons for Agentic Coding: What should we do when code is cheap?](https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html) (2026-05-05)
-- [Kids bypass age verification with fake moustaches](https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/) (2026-05-05)
-- [About 10% of AMC movie showings sell zero tickets. This site finds them](https://walzr.com/empty-screenings) (2026-05-05)
-- [2-D Mathematical Curves](https://www.2dcurves.com/) (2026-05-05)
+- [AI Product Graveyard](https://tooldirectory.ai/ai-graveyard) (2026-05-05)
+- [iOS 27 is adding a 'Create a Pass' button to Apple Wallet](https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/) (2026-05-05)
+- [Show HN: I built a new word game, Wordtrak](https://wordtrak.com/blog/2026-05-05-I-built-a-new-word-game) (2026-05-05)
+- [When everyone has AI and the company still learns nothing](https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/) (2026-05-05)
+- [Google Chrome silently installs a 4 GB AI model on your device without consent](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/) (2026-05-05)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [The 40 best Mother’s Day gift ideas for 2026](https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets) (2026-05-05)
-- [Valve just imported 50 tons of game consoles in two days](https://www.theverge.com/news/923461/valve-steam-machine-frame-deck-import-records-may-2026) (2026-05-04)
-- [OpenAI’s president does ‘all the things,’ except answer a question](https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial) (2026-05-04)
-- [Elon Musk will settle the feds’ Twitter lawsuit with pocket change](https://www.theverge.com/tech/923612/elon-musk-sec-1-5-million-penalty-twitter-x) (2026-05-04)
-- [Skylight’s 15-inch smart calendar is down to its lowest price to date](https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale) (2026-05-04)
+- [What an AI-designed car looks like](https://www.theverge.com/podcast/923974/ai-car-design-codex-vergecast) (2026-05-05)
+- [Remedy’s new boss says the Control studio will ‘double down’ on what makes it unique](https://www.theverge.com/games/923962/remedy-ceo-statement-double-down) (2026-05-05)
+- [Researchers gaslit Claude into giving instructions to build explosives](https://www.theverge.com/ai-artificial-intelligence/923961/security-researchers-mindgard-gaslit-claude-forbidden-information) (2026-05-05)
+- [Google’s AI architect lived rent-free in Elon Musk’s head](https://www.theverge.com/ai-artificial-intelligence/923518/musk-altman-trial-openai-demis-hassabis-google-deepmind) (2026-05-05)
+- [Inside the lab where Ford is trying to crack the code on cheap EVs](https://www.theverge.com/transportation/923704/ford-ev-skunkworks-lab-long-beach) (2026-05-05)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- [Why Reddit blocked my daily visit to its mobile website](https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/) (2026-05-05)
 - ["Notepad++ for Mac" release is disavowed by the creator of the original](https://arstechnica.com/gadgets/2026/05/unofficial-vibe-coded-notepad-for-mac-draws-objections-from-original-author/) (2026-05-04)
 - [Canadian election databases use "canary traps"—and they work](https://arstechnica.com/tech-policy/2026/05/in-canada-a-canary-trap-springs-shut-and-ids-election-database-leak/) (2026-05-04)
 - [Influential study touting ChatGPT in education retracted over red flags](https://arstechnica.com/ai/2026/05/influential-study-touting-chatgpt-in-education-retracted-over-red-flags/) (2026-05-04)
 - [GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it](https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/) (2026-05-04)
-- [F1 in Miami: That's what it looks like when an upgrade works](https://arstechnica.com/cars/2026/05/f1-in-miami-thats-what-it-looks-like-when-an-upgrade-works/) (2026-05-04)
 
 </details>
 
 <details>
 <summary>🎓 MIT Technology Review</summary>
 
+- [The Download: inside the Musk v. Altman trial, and AI for democracy](https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/) (2026-05-05)
+- [A blueprint for using AI to strengthen democracy](https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/) (2026-05-05)
 - [Week one of the Musk v. Altman trial: What it was like in the room](https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/) (2026-05-04)
 - [Tailoring AI solutions for health care needs](https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/) (2026-05-04)
 - [Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models](https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/) (2026-05-01)
-- [Cyber-Insecurity in the AI Era](https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/) (2026-05-01)
-- [Operationalizing AI for Scale and Sovereignty](https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/) (2026-05-01)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [Building a Translation Pipeline for International Contract Bidding](https://dev.to/diogoheleno/building-a-translation-pipeline-for-international-contract-bidding-465j) (2026-05-05)
-- [Realistic Ragdoll Physics in Three.js](https://dev.to/mattvb91/realistic-ragdoll-physics-in-threejs-1pko) (2026-05-05)
-- [Flutter Mobile Test Automation: The Complete Guide](https://dev.to/drizzdev/flutter-mobile-test-automation-the-complete-guide-37g3) (2026-05-05)
-- [Intelligent RAG powered Playwright code reviewer](https://dev.to/automationwithsaurav/intelligent-rag-powered-playwright-code-reviewer-2219) (2026-05-05)
-- [Building Translation Workflows: Technical Implementation for Multi-Linguist Review Processes](https://dev.to/diogoheleno/building-translation-workflows-technical-implementation-for-multi-linguist-review-processes-5910) (2026-05-05)
+- [Trivy deep dive Snyk: The Definitive Guide to container scanning for Engineers](https://dev.to/johalputt/trivy-deep-dive-snyk-the-definitive-guide-to-container-scanning-for-engineers-2k78) (2026-05-05)
+- [Cross-Zone Load Balancing trên AWS NLB: Bài Học Từ Triển Khai RabbitMQ Trên EKS](https://dev.to/tan_loc/cross-zone-load-balancing-tren-aws-nlb-bai-hoc-tu-trien-khai-rabbitmq-tren-eks-m9m) (2026-05-05)
+- [How NGB Platform Works: Documents, Posting, Registers, and Reporting](https://dev.to/ngbplatform/how-ngb-platform-works-documents-posting-registers-and-reporting-5f4l) (2026-05-05)
+- [AI for Security and Security for AI - A deep dive into how AI is transforming cyber defense and why the AI itself urgently needs to be defended.](https://dev.to/soumya_k19/ai-for-security-and-security-for-ai-a-deep-dive-into-how-ai-is-transforming-cyber-defense-and-why-4c3m) (2026-05-05)
+- [Why the performance of GraphQL and React Server Components: What Matters](https://dev.to/johalputt/why-the-performance-of-graphql-and-react-server-components-what-matters-23ih) (2026-05-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [A Realistic 6-Month Android App Developer Roadmap Based on My Experience](https://medium.com/@riadurrahman/a-realistic-6-month-android-app-developer-roadmap-based-on-my-experience-ee75020f90f4?source=rss------programming-5) (2026-05-05)
-- [I stopped using useState for everything. Here’s the React State Pattern That Changed My Life](https://medium.com/@diyasanjaysatpute147/i-stopped-using-usestate-for-everything-heres-the-react-state-pattern-that-changed-my-life-5116cf08f756?source=rss------programming-5) (2026-05-05)
-- [Saya Berhenti Ribet Ngurus Environment Development](https://medium.com/@tsyahfrudin/saya-berhenti-ribet-ngurus-environment-development-01d9581c89f6?source=rss------programming-5) (2026-05-05)
-- [A Semicolon Broke GitHub — And Almost Exposed Millions of Repositories](https://medium.com/@choon1/a-semicolon-broke-github-and-almost-exposed-millions-of-repositories-73e85f433e7d?source=rss------programming-5) (2026-05-05)
-- [What’s New in Go for 2026? A Deep Dive into the Features That Matter Most to Developers ️](https://medium.com/@geragaming0212/whats-new-in-go-for-2026-a-deep-dive-into-the-features-that-matter-most-to-developers-%EF%B8%8F-266920d217bb?source=rss------programming-5) (2026-05-05)
+- [WebSockets vs Server-Sent Events vs Long Polling in 2026: A Brutally Honest Comparison With Real…](https://medium.com/@coders.stop/websockets-vs-server-sent-events-vs-long-polling-in-2026-a-brutally-honest-comparison-with-real-b00078c10d79?source=rss------programming-5) (2026-05-05)
+- [Cache Invalidation Is Still the Hardest Problem in Engineering.](https://medium.com/@sohail_saifi/cache-invalidation-is-still-the-hardest-problem-in-engineering-e9ba1ec045c4?source=rss------programming-5) (2026-05-05)
+- [I Stopped Writing “Clean Code," and My Team Thanked Me](https://medium.com/@rajput.rahul/i-stopped-writing-clean-code-and-my-team-thanked-me-685e844fd3de?source=rss------programming-5) (2026-05-05)
+- [The Best Error Messages Are the Ones Nobody Reads](https://medium.com/@antonellosemeraro/the-best-error-messages-are-the-ones-nobody-reads-e4ad9da27e63?source=rss------programming-5) (2026-05-05)
+- [How I Replaced Per-Message Read Tracking with a Monotonic High-Watermark Model](https://medium.com/@angeloarcillas64/how-i-replaced-per-message-read-tracking-with-a-monotonic-high-watermark-model-fc30d8e7c78c?source=rss------programming-5) (2026-05-05)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Azure IaaS: Defense in depth built on secure-by-design principles](https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/) (2026-05-04)
 - [Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM](https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/) (2026-04-30)
 - [Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/) (2026-04-28)
 - [Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local](https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/) (2026-04-27)
 - [OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform](https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/) (2026-04-23)
-- [Microsoft Discovery: Advancing agentic R&D at scale](https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/) (2026-04-22)
 
 </details>
 
@@ -207,11 +207,11 @@
 <details>
 <summary>🐳 Docker Blog</summary>
 
+- [Generate Images Locally with Docker Model Runner and Open WebUI](https://www.docker.com/blog/blog-generate-images-locally-dmr-open-webui/) (2026-05-05)
 - [Precision Container Security with Docker and Black Duck](https://www.docker.com/blog/precision-container-security-with-docker-and-black-duck/) (2026-05-05)
 - [A Virtual Agent team at Docker: How the Coding Agent Sandboxes team uses a fleet of agents to ship faster](https://www.docker.com/blog/a-virtual-agent-team-at-docker-how-the-coding-agent-sandboxes-team-uses-a-fleet-of-agents-to-ship-faster/) (2026-05-01)
 - [From Security Blocked to Prod Ready: ClickHouse on Docker Hardened Images](https://www.docker.com/blog/from-security-blocked-to-prod-ready-clickhouse-on-docker-hardened-images/) (2026-04-30)
 - [Trivy, KICS, and the shape of supply chain attacks so far in 2026](https://www.docker.com/blog/trivy-kics-and-the-shape-of-supply-chain-attacks-so-far-in-2026/) (2026-04-23)
-- [Why MicroVMs: The Architecture Behind Docker Sandboxes](https://www.docker.com/blog/why-microvms-the-architecture-behind-docker-sandboxes/) (2026-04-16)
 
 </details>
 
@@ -306,11 +306,11 @@
 <details>
 <summary>💎 JetBrains Blog</summary>
 
+- [Java Annotated Monthly – May 2026](https://blog.jetbrains.com/idea/2026/05/java-annotated-monthly-may-2026/) (2026-05-05)
+- [What is dogfooding? How JetBrains builds better developer tools](https://blog.jetbrains.com/life-at-jetbrains/2026/05/dogfooding-at-jetbrains/) (2026-05-05)
 - [Meet the Finalists: JetBrains x Codex Hackathon](https://blog.jetbrains.com/ai/2026/05/meet-the-finalists-jetbrains-codex-hackathon/) (2026-05-04)
 - [We Gave Agents IDE-Native Search Tools. They Got Faster and Cheaper.](https://blog.jetbrains.com/ai/2026/05/what-happens-when-you-give-agents-ide-native-seach-tools/) (2026-05-04)
 - [PyTorch vs. TensorFlow: Choosing the Right Framework in 2026](https://blog.jetbrains.com/pycharm/2026/05/pytorch-vs-tensorflow-choosing-framework-2026/) (2026-05-04)
-- [Teaching an AI Agent to Debug Flaky Tests](https://blog.jetbrains.com/idea/2026/05/teaching-an-ai-agent-to-debug-flaky-tests/) (2026-05-04)
-- [Kodee’s Kotlin Roundup: Golden Kodee Finalists, Kotlin 2.4.0-Beta2, and New Learning Resources](https://blog.jetbrains.com/kotlin/2026/05/kodees-kotlin-roundup-golden-kodee-finalists-kotlin-2-4-0-beta2-and-new-learning-resources/) (2026-05-04)
 
 </details>
 
@@ -557,44 +557,44 @@ https://www.twilio.com/en-us/blog/partners/integrations/spoke-voice-ai-for-growt
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [RAG Hallucinates — I Built a Self-Healing Layer That Fixes It in Real Time](https://towardsdatascience.com/rag-hallucinates-i-built-a-self-healing-layer-that-fixes-it-in-real-time/) (2026-05-05)
+- [Surviving High Uncertainty in Logistics with MARL](https://towardsdatascience.com/surviving-high-uncertainty-in-logistics-with-marl/) (2026-05-05)
 - [Single Agent vs Multi-Agent: When to Build a Multi-Agent System](https://towardsdatascience.com/single-agent-vs-multi-agent-when-to-build-a-multi-agent-system/) (2026-05-04)
 - [How to Build an Efficient Knowledge Base for AI Models](https://towardsdatascience.com/how-to-build-an-efficient-knowledge-base-for-ai-models/) (2026-05-04)
 - [Playing Connect Four with Deep Q-Learning](https://towardsdatascience.com/playing-connect-four-with-deep-q-learning/) (2026-05-04)
-- [How AI Tools Generate Technical Debt in IoT Systems — and What to Do About It](https://towardsdatascience.com/how-ai-tools-generate-technical-debt-in-iot-systems-and-what-to-do-about-it/) (2026-05-04)
-- [CSPNet Paper Walkthrough: Just Better, No Tradeoffs](https://towardsdatascience.com/cspnet-paper-walkthrough-just-better-no-tradeoff/) (2026-05-03)
 
 </details>
 
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
+- [Top 10 Open-Source Libraries to Fine-Tune LLMs Locally](https://www.analyticsvidhya.com/blog/2026/05/open-source-libraries-to-fine-tune-llm-locally/) (2026-05-05)
 - [ML Intern in Practice: From Prompt to a Shipped Hugging Face Model ](https://www.analyticsvidhya.com/blog/2026/05/ml-intern-from-prompt-to-a-shipped-hugging-face-model/) (2026-05-04)
 - [15+ Solved Agentic AI Projects with Github Links](https://www.analyticsvidhya.com/blog/2026/05/solved-agentic-ai-projects-with-github-links/) (2026-05-03)
 - [How People are Figuring Out Life With Claude](https://www.analyticsvidhya.com/blog/2026/05/how-people-are-figuring-out-life-with-claude/) (2026-05-02)
 - [MemPalace Explained: Building Long-Term Memory for AI Agents Beyond RAG ](https://www.analyticsvidhya.com/blog/2026/05/mempalace-explained/) (2026-05-01)
-- [Grok Voice Think Fast 1.0: Build Voice AI Agents That Actually Think ](https://www.analyticsvidhya.com/blog/2026/05/grok-voice-think-fast-1-0/) (2026-04-30)
 
 </details>
 
 <details>
 <summary>💎 KDnuggets</summary>
 
+- [5 Fun Projects Using Claude Code](https://www.kdnuggets.com/5-fun-projects-using-claude-code) (2026-05-05)
 - [Testing SQL Like a Software Engineer: Unit Testing, CI/CD, and Data Quality Automation](https://www.kdnuggets.com/testing-sql-like-a-software-engineer-unit-testing-ci-cd-and-data-quality-automation) (2026-05-04)
 - [How to Deploy Your First App on FastAPI Cloud](https://www.kdnuggets.com/how-to-deploy-your-first-app-on-fastapi-cloud) (2026-05-04)
 - [7 Practical Ways to Reduce Claude Code Token Usage](https://www.kdnuggets.com/7-practical-ways-to-reduce-claude-code-token-usage) (2026-05-04)
 - [The “Robust” Data Scientist: Winning with Messy Data and Pingouin](https://www.kdnuggets.com/the-robust-data-scientist-winning-with-messy-data-and-pingouin) (2026-05-01)
-- [Open Weight Text-to-Speach with Voxtral TTS](https://www.kdnuggets.com/open-weight-text-to-speach-with-voxtral-tts) (2026-05-01)
 
 </details>
 
 <details>
 <summary>🎯 Machine Learning Mastery</summary>
 
+- [Implementing Statistical Guardrails for Non-Deterministic Agents](https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/) (2026-05-05)
 - [Agentic RAG Explained in 3 Levels of Difficulty](https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/) (2026-05-04)
 - [Effective KV Compression with TurboQuant](https://machinelearningmastery.com/effective-kv-compression-with-turboquant/) (2026-04-30)
 - [Building AI Agents in Python with Pydantic AI](https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/) (2026-04-29)
 - [Effective Context Engineering for AI Agents: A Developer’s Guide](https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/) (2026-04-28)
-- [Text Summarization with Scikit-LLM](https://machinelearningmastery.com/text-summarization-with-scikit-llm/) (2026-04-27)
 
 </details>
 
