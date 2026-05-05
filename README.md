@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Geothermal startup Fervo Energy to raise up to $1.3B in IPO](https://techcrunch.com/2026/05/04/geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo/) (2026-05-05)
+- [US government warns of severe CopyFail bug affecting major versions of Linux](https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/) (2026-05-04)
+- [OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO](https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/) (2026-05-04)
 - [Image AI models now drive app growth, beating chatbot upgrades](https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/) (2026-05-04)
-- [Katie Haun raises $1 billion for new venture funds](https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/) (2026-05-04)
-- [Hackers are still exploiting the cPanel bug to gain control of thousands of websites](https://techcrunch.com/2026/05/04/hackers-are-still-exploiting-the-cpanel-bug-to-gain-control-of-thousands-of-websites/) (2026-05-04)
-- [Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race](https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/) (2026-05-04)
-- [Sierra raises $950M as the race to own enterprise AI gets serious](https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/) (2026-05-04)
+- [Katie Haun raises $1B for new venture funds](https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/) (2026-05-04)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [Microsoft Edge stores all passwords in memory in clear text, even when unused](https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730) (2026-05-04)
-- [Rumor: Disney to Remove Star Wars Sequel Trilogy from Timeline](https://geeksandgamers.com/remove-star-wars-sequel-trilogy/) (2026-05-04)
-- [Offenders sentenced up to 10 years for spying on TSMC](https://www.taipeitimes.com/News/front/archives/2026/04/28/2003856358) (2026-05-04)
-- [Securing a DoD Contractor: Finding a Multi-Tenant Authorization Vulnerability](https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup) (2026-05-04)
-- [Days without GitHub incidents](https://www.dayswithoutgithubincident.com/) (2026-05-04)
+- [Bun is being ported from Zig to Rust](https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5) (2026-05-05)
+- [SprintiQ – open-source sprint planning for Claude Code](https://github.com/SprintiQ-Incorporated/sprintiq) (2026-05-04)
+- [Agent Skills](https://addyosmani.com/blog/agent-skills/) (2026-05-04)
+- ['Point of no return': New Orleans relocation must start now due to sea level](https://www.theguardian.com/us-news/2026/may/04/new-orleans-sea-levels-relocation-climate-crisis) (2026-05-04)
+- [When Networking Doesn't Work](https://www.os2museum.com/wp/when-networking-doesnt-work/) (2026-05-04)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
-- [SwitchBot’s rechargeable button pusher is on sale for over 20 percent off](https://www.theverge.com/gadgets/923162/switchbot-bot-rechargeable-button-presser-mothers-day-sale-deal) (2026-05-04)
-- [The creator of Roomba is back with a furry robot companion](https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch) (2026-05-04)
-- [The Pixel 11 could be the next victim of the RAM shortage](https://www.theverge.com/tech/923252/google-pixel-11-spec-leak-lower-ram) (2026-05-04)
-- [The best Star Wars Day deals](https://www.theverge.com/gadgets/922905/best-star-wars-day-2026-may-the-fourth-4th-deals-sale) (2026-05-04)
-- [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit) (2026-05-04)
+- [The 40 best Mother’s Day gift ideas for 2026](https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets) (2026-05-05)
+- [Valve just imported 50 tons of game consoles in two days](https://www.theverge.com/news/923461/valve-steam-machine-frame-deck-import-records-may-2026) (2026-05-04)
+- [OpenAI’s president does ‘all the things,’ except answer a question](https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial) (2026-05-04)
+- [Elon Musk will settle the feds’ Twitter lawsuit with pocket change](https://www.theverge.com/tech/923612/elon-musk-sec-1-5-million-penalty-twitter-x) (2026-05-04)
+- [Skylight’s 15-inch smart calendar is down to its lowest price to date](https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale) (2026-05-04)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
+- ["Notepad++ for Mac" release is disavowed by the creator of the original](https://arstechnica.com/gadgets/2026/05/unofficial-vibe-coded-notepad-for-mac-draws-objections-from-original-author/) (2026-05-04)
+- [Canadian election databases use "canary traps"—and they work](https://arstechnica.com/tech-policy/2026/05/in-canada-a-canary-trap-springs-shut-and-ids-election-database-leak/) (2026-05-04)
+- [Influential study touting ChatGPT in education retracted over red flags](https://arstechnica.com/ai/2026/05/influential-study-touting-chatgpt-in-education-retracted-over-red-flags/) (2026-05-04)
 - [GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it](https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/) (2026-05-04)
 - [F1 in Miami: That's what it looks like when an upgrade works](https://arstechnica.com/cars/2026/05/f1-in-miami-thats-what-it-looks-like-when-an-upgrade-works/) (2026-05-04)
-- [AMD is adding HDMI 2.1 support for Linux. That's good news for the Steam Machine.](https://arstechnica.com/gaming/2026/05/amd-is-adding-hdmi-2-1-support-for-linux-thats-good-news-for-the-steam-machine/) (2026-05-04)
-- [Musk’s “World War III” threat in Twitter lawsuit haunts him at OpenAI trial](https://arstechnica.com/tech-policy/2026/05/musks-world-war-iii-threat-in-twitter-lawsuit-haunts-him-at-openai-trial/) (2026-05-04)
-- [Mac mini starting price goes up to $799, may be hard to get for "months"](https://arstechnica.com/gadgets/2026/05/apple-may-take-several-months-to-catch-up-to-mac-mini-and-studio-demand/) (2026-05-04)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [---](https://dev.to/tosh2308/--224k) (2026-05-04)
-- [Factur-X 2026 : guide d'implémentation pour les PME du BTP](https://dev.to/olivier_ebrahim_1bbaa5877/factur-x-2026-guide-dimplementation-pour-les-pme-du-btp-33g4) (2026-05-04)
-- [Gmail renders at 5fps and nobody cares. Performance culture is a cope.](https://dev.to/adioof/gmail-renders-at-5fps-and-nobody-cares-performance-culture-is-a-cope-4mbc) (2026-05-04)
-- [Synthadoc: From YouTube to Wiki: How v0.3.0 Turns Any Content into Structured Knowledge](https://dev.to/paul_chen_90371fe7426cb44/synthadoc-from-youtube-to-wiki-how-v030-turns-any-content-into-structured-knowledge-4l38) (2026-05-04)
-- [How to Localize Prices in React Using Exchange Rates](https://dev.to/apogeoapi/how-to-localize-prices-in-react-using-exchange-rates-250j) (2026-05-04)
+- [Free GCP Practice Exams (13 Certification Tracks with Explanations)](https://dev.to/devopsenginex/free-gcp-practice-exams-13-certification-tracks-with-explanations-54pa) (2026-05-05)
+- [The History of Expanso (Part 6): Data Controls are a One-Way Street](https://dev.to/david_aronchick_ea415de50/the-history-of-expanso-part-6-data-controls-are-a-one-way-street-3j7c) (2026-05-05)
+- [Codex /goal and OpenGUI: long-running tasks need state](https://dev.to/fenix_23505d14df386c00ced/codex-goal-and-opengui-long-running-tasks-need-state-1c61) (2026-05-05)
+- [Your Data Lake is a Write-Only Memory](https://dev.to/david_aronchick_ea415de50/your-data-lake-is-a-write-only-memory-59g3) (2026-05-05)
+- [Why Your 'AI-Ready' Data Isn't: The Hidden Pipeline Problem Breaking Production AI](https://dev.to/david_aronchick_ea415de50/why-your-ai-ready-data-isnt-the-hidden-pipeline-problem-breaking-production-ai-4n3n) (2026-05-05)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [Honkai Star Rail: Trailblazing Graphic Optimizations.](https://medium.com/@danielbussiness2000/honkai-star-rail-trailblazing-graphic-optimizations-9269372229fa?source=rss------programming-5) (2026-05-04)
-- [The Linux Filesystem Hierarchy Explained: What Every Directory Actually Does](https://medium.com/@haseebabdul480/the-linux-filesystem-hierarchy-explained-what-every-directory-actually-does-d6cecc88aab2?source=rss------programming-5) (2026-05-04)
-- [The AI System I Built to Turn Voice Notes Into Paid Content… Now It Generates Income While I Walk](https://medium.com/@SulemanSafdar/the-ai-system-i-built-to-turn-voice-notes-into-paid-content-now-it-generates-income-while-i-walk-fd23216c5c78?source=rss------programming-5) (2026-05-04)
-- [Why Agentic Coding Is a Trap for Serious Engineers](https://medium.com/@sebuzdugan/why-agentic-coding-is-a-trap-for-serious-engineers-c974470e1787?source=rss------programming-5) (2026-05-04)
-- [Azure SQL Server to Snowflake using Snowflake’s Openflow](https://medium.com/snowflake/azure-sql-server-to-snowflake-using-snowflakes-openflow-947dba1d45c8?source=rss------programming-5) (2026-05-04)
+- [This One Angular Refactor Reduced My API Calls by 70%](https://medium.com/@shubhamnalawade037/this-one-angular-refactor-reduced-my-api-calls-by-70-f459ff50fca1?source=rss------programming-5) (2026-05-05)
+- [Xiaomi MiMo Studio: A Free AI Playground You Probably Haven’t Tried Yet](https://colinritman.medium.com/xiaomi-mimo-studio-a-free-ai-playground-you-probably-havent-tried-yet-ff6732ab3ece?source=rss------programming-5) (2026-05-05)
+- [We Gave Every Engineer On-Call Access to Production. Incidents Dropped 60%.](https://medium.com/@coding_with_tech/we-gave-every-engineer-on-call-access-to-production-incidents-dropped-60-d15e8ff289ba?source=rss------programming-5) (2026-05-05)
+- [5 Must-Know Generative AI Terms to Stay Ahead in 2026](https://medium.com/@sunil17bbmp/5-must-know-generative-ai-terms-to-stay-ahead-in-2026-2ab85e2ebcc6?source=rss------programming-5) (2026-05-05)
+- [We Let a Junior Engineer Own Production for 30 Days. Here’s What Broke.](https://blog.stackademic.com/we-let-a-junior-engineer-own-production-for-30-days-heres-what-broke-e93dd1b25249?source=rss------programming-5) (2026-05-05)
 
 </details>
 
@@ -130,11 +130,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
-- [Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM](https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/) (2026-04-30)
 - [Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/) (2026-04-28)
 - [Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local](https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/) (2026-04-27)
 - [OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform](https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/) (2026-04-23)
 - [Microsoft Discovery: Advancing agentic R&D at scale](https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/) (2026-04-22)
+- [Introducing Azure Accelerate for Databases: Modernize your data for AI with experts and investments](https://azure.microsoft.com/en-us/blog/introducing-azure-accelerate-for-databases-modernize-your-data-for-ai-with-experts-and-investments/) (2026-04-22)
 
 </details>
 
@@ -328,11 +328,11 @@
 <details>
 <summary>🦊 GitLab Blog</summary>
 
+- [How to detect and prevent Contagious Interview IDE attacks](https://about.gitlab.com/blog/how-to-detect-and-prevent-contagious-interview-ide-attacks/) (2026-05-04)
 - [Atlassian will train on your data: Opt out with GitLab](https://about.gitlab.com/blog/atlassian-will-train-on-your-data-opt-out-with-gitlab/) (2026-05-04)
 - [Build an automated detection testing framework with GitLab CI/CD and Duo](https://about.gitlab.com/blog/automated-detection-testing-framework/) (2026-04-30)
 - [Teaching software development the easy way using GitLab](https://about.gitlab.com/blog/teaching-software-development-the-easy-way-using-gitlab/) (2026-04-29)
 - [GitLab Patch Release: 18.11.2, 18.10.5](https://docs.gitlab.com/releases/patches/patch-release-gitlab-18-11-2-released/) (2026-04-29)
-- [How to build CI/CD observability at scale](https://about.gitlab.com/blog/how-to-build-ci-cd-observability-at-scale/) (2026-04-28)
 
 </details>
 
@@ -557,11 +557,11 @@ https://www.twilio.com/en-us/blog/partners/integrations/building-an-inbound-voic
 <details>
 <summary>📊 Towards Data Science</summary>
 
+- [Single Agent vs Multi-Agent: When to Build a Multi-Agent System](https://towardsdatascience.com/single-agent-vs-multi-agent-when-to-build-a-multi-agent-system/) (2026-05-04)
 - [How to Build an Efficient Knowledge Base for AI Models](https://towardsdatascience.com/how-to-build-an-efficient-knowledge-base-for-ai-models/) (2026-05-04)
 - [Playing Connect Four with Deep Q-Learning](https://towardsdatascience.com/playing-connect-four-with-deep-q-learning/) (2026-05-04)
 - [How AI Tools Generate Technical Debt in IoT Systems — and What to Do About It](https://towardsdatascience.com/how-ai-tools-generate-technical-debt-in-iot-systems-and-what-to-do-about-it/) (2026-05-04)
 - [CSPNet Paper Walkthrough: Just Better, No Tradeoffs](https://towardsdatascience.com/cspnet-paper-walkthrough-just-better-no-tradeoff/) (2026-05-03)
-- [Inference Scaling (Test-Time Compute): Why Reasoning Models Raise Your Compute Bill](https://towardsdatascience.com/inference-scaling-test-time-compute-why-reasoning-models-raise-your-compute-bill/) (2026-05-03)
 
 </details>
 
