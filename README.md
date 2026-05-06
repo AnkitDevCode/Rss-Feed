@@ -20,44 +20,44 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
-- [Threads finally brings messaging to the web](https://techcrunch.com/2026/05/05/threads-finally-brings-messaging-to-the-web/) (2026-05-05)
-- [Airbnb co-founder taps Peter Arnell as first US chief brand architect](https://techcrunch.com/2026/05/05/airbnb-co-founder-taps-peter-arnell-as-first-u-s-chief-brand-architect/) (2026-05-05)
-- [Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor](https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/) (2026-05-05)
-- [OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT](https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/) (2026-05-05)
-- [PayPal says it’s ‘becoming a technology company again’ — that means AI](https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/) (2026-05-05)
+- [Nuro receives driverless testing permit ahead of Uber robotaxi service launch](https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/) (2026-05-06)
+- [SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw](https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/) (2026-05-05)
+- [Bumble’s paying users are slipping as it bets on an overhaul later this year](https://techcrunch.com/2026/05/05/bumbles-paying-users-are-slipping-as-it-bets-on-an-overhaul-later-this-year/) (2026-05-05)
+- [Altara secures $7M to bridge the data gap that’s slowing down physical sciences](https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/) (2026-05-05)
+- [Lucid Motors doesn’t know how many EVs it will build this year](https://techcrunch.com/2026/05/05/lucid-motors-doesnt-know-how-many-evs-it-will-build-this-year/) (2026-05-05)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [California farmers to destroy 420k peach trees following Del Monte bankruptcy](https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php) (2026-05-05)
-- [Show HN: Explore color palettes inspired by 3000 master painter artworks](https://paletteinspiration.com/) (2026-05-05)
-- [Clarification on the Notepad++ Trademark Issue](https://notepad-plus-plus.org/news/clarify-npp-trademark-infringement/) (2026-05-05)
-- [GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents](https://arxiv.org/abs/2604.26752) (2026-05-05)
-- [Quantum Key Distribution (QKD) and Quantum Cryptography (QC)](https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/) (2026-05-05)
+- [StarFighter 16-Inch](https://us.starlabs.systems/pages/starfighter) (2026-05-06)
+- [Telus Uses AI to Alter Call-Agent Accents](https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63) (2026-05-06)
+- [Write some software, give it away for free](https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026) (2026-05-05)
+- [Why most product tours get skipped](https://productonboarding.com/articles/why-product-tours-get-skipped) (2026-05-05)
+- [.de TLD offline due to DNSSEC?](https://dnssec-analyzer.verisignlabs.com/nic.de) (2026-05-05)
 
 </details>
 
 <details>
 <summary>📱 The Verge</summary>
 
+- [Google Home&#8217;s Gemini AI can handle more complicated requests](https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade) (2026-05-05)
+- [Apple agrees to pay iPhone owners $250 million for not delivering AI Siri](https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement) (2026-05-05)
+- [Microsoft gives up on Xbox Copilot AI](https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma) (2026-05-05)
+- [Apple could let you pick a favorite AI model in iOS 27](https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27) (2026-05-05)
 - [Threads is finally getting DMs on the web](https://www.theverge.com/tech/924436/meta-threads-web-dms-direct-messages) (2026-05-05)
-- [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit) (2026-05-05)
-- [OpenAI claims ChatGPT’s new default model hallucinates way less](https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant) (2026-05-05)
-- [Book publishers sue Meta over AI&#8217;s &#8216;word-for-word&#8217; copying](https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright) (2026-05-05)
-- [Microsoft’s new Xbox shake-up is all about platform changes](https://www.theverge.com/news/923908/microsoft-xbox-reorg-platform-changes) (2026-05-05)
 
 </details>
 
 <details>
 <summary>🔬 Ars Technica</summary>
 
-- [Google Home gets upgraded Gemini voice assistant and new camera controls](https://arstechnica.com/gadgets/2026/05/google-home-gets-upgraded-gemini-voice-assistant-and-new-camera-controls/) (2026-05-05)
-- [Trump SEC lets Musk settle $150 million Twitter lawsuit for $1.5 million](https://arstechnica.com/tech-policy/2026/05/trump-sec-lets-musk-settle-150-million-twitter-lawsuit-for-1-5-million/) (2026-05-05)
-- [How do you design a $30,000 electric pickup? Inside Ford's skunkworks.](https://arstechnica.com/cars/2026/05/how-do-you-design-a-30000-electric-pickup-inside-fords-skunkworks/) (2026-05-05)
-- [Charlize Theron is a bewitching Circe in Odyssey trailer](https://arstechnica.com/culture/2026/05/nolans-the-odyssey-gets-a-new-trailer-and-were-here-for-it/) (2026-05-05)
-- [Musk's Europe gamble: Will others follow the Dutch and approve FSD?](https://arstechnica.com/cars/2026/05/tesla-fsd-other-european-regulators-skeptical-despite-dutch-approval/) (2026-05-05)
+- [OpenAI president forced to read his personal diary entries to jury](https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/) (2026-05-05)
+- [Silicon Valley bets $200M on AI data centers floating in the ocean](https://arstechnica.com/ai/2026/05/silicon-valley-bets-on-floating-ai-data-centers-powered-by-ocean-waves/) (2026-05-05)
+- [Character.AI sued over chatbot that claims to be a real doctor with a license](https://arstechnica.com/tech-policy/2026/05/character-ai-sued-over-chatbot-that-claims-to-be-a-real-doctor-with-a-license/) (2026-05-05)
+- [Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack](https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/) (2026-05-05)
+- [RFK Jr. plans to curb antidepressants, which he falsely compares to heroin](https://arstechnica.com/health/2026/05/rfk-jr-plans-to-curb-antidepressants-which-he-falsely-compares-to-heroin/) (2026-05-05)
 
 </details>
 
@@ -97,22 +97,23 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [AI is pulling up the ladder on junior devs and seniors don't care](https://dev.to/adioof/ai-is-pulling-up-the-ladder-on-junior-devs-and-seniors-dont-care-1ik9) (2026-05-05)
-- [I Built an AI Honeypot on GCP — Attackers Came in 4 Minutes](https://dev.to/phantomojo/i-built-an-ai-honeypot-on-gcp-attackers-came-in-4-minutes-4j4) (2026-05-05)
-- [From Web Dev to Python for AI: Why I Finally Started This New Journey](https://dev.to/kreamtea/from-web-dev-to-python-for-ai-why-i-finally-started-this-new-journey-1127) (2026-05-05)
-- [Startup Gagal Scale Bukan Karena Teknologi Jelek, Tapi Karena Bisnis dan Engineering Tak Satu Meja](https://dev.to/erwinrahayu/startup-gagal-scale-bukan-karena-teknologi-jelek-tapi-karena-bisnis-dan-engineering-tak-satu-meja-1el7) (2026-05-05)
-- [The Runtime Harness: why your CLAUDE.md is half the answer](https://dev.to/mekickdemonscreator/the-runtime-harness-why-your-claudemd-is-half-the-answer-27p7) (2026-05-05)
+- [DNSSEC Debugger de Verisign: cómo auditar tu cadena de confianza DNS](https://dev.to/lu1tr0n/dnssec-debugger-de-verisign-como-auditar-tu-cadena-de-confianza-dns-4jp1) (2026-05-06)
+- [PDF Redaction in Rust — Why "Delete the Text" Isn't Enough](https://dev.to/hiyoyok/pdf-redaction-in-rust-why-delete-the-text-isnt-enough-2bof) (2026-05-06)
+- [Building a Xiaohongshu (RedNote) E-commerce Scraper for RedShop Product Data](https://dev.to/sami_8858131362756585e4f4/building-a-xiaohongshu-rednote-e-commerce-scraper-for-redshop-product-data-2g7d) (2026-05-06)
+- [7 Signs Your Data Quality Framework Is Broken](https://dev.to/balapriya/7-signs-your-data-quality-framework-is-broken-lh8) (2026-05-06)
+- [Turning Server Logs into Incident Summaries with Java and Groq](https://dev.to/misbahulhaq/turning-server-logs-into-incident-summaries-with-java-and-groq-4ebm) (2026-05-06)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [The Illusion of Replaceability](https://medium.com/@getNi.Hartmann/the-illusion-of-replaceability-f8aed51b70ab?source=rss------programming-5) (2026-05-05)
-- [You Don’t Need More Tutorials. You Need Fewer Decisions.](https://elshad-karimov.medium.com/you-dont-need-more-tutorials-you-need-fewer-decisions-1b8a4913da36?source=rss------programming-5) (2026-05-05)
-- [How Google Ranks Billions of Pages](https://medium.com/@gealleh/how-google-ranks-billions-of-pages-aa1a1dd1a842?source=rss------programming-5) (2026-05-05)
-- [India's Most Trusted Embedded Mentor](https://medium.com/@mehrwadesushma/indias-most-trusted-embedded-mentor-6fb8629cecb1?source=rss------programming-5) (2026-05-05)
-- [11 Automation Systems I Built That Quietly Made Me More Productive Than 90% of Developers (I Wish I…](https://medium.com/@talhaulfat93/11-automation-systems-i-built-that-quietly-made-me-more-productive-than-90-of-developers-i-wish-i-6835e10c5711?source=rss------programming-5) (2026-05-05)
+- [Title: The Rain That Brought You Back
+The rain had always been Aarav’s favorite.](https://medium.com/@ashikrathva233/title-the-rain-that-brought-you-back-the-rain-had-always-been-aaravs-favorite-6d406acd385e?source=rss------programming-5) (2026-05-06)
+- [Beyond the Syntax: The Business Logic Hidden in Your SQL Queries](https://medium.com/@ayushi.gajendra.tech/beyond-the-syntax-the-business-logic-hidden-in-your-sql-queries-a62ae137c2c0?source=rss------programming-5) (2026-05-06)
+- [Building a High-Throughput ETL System in Python](https://medium.com/top-python-libraries/building-a-high-throughput-etl-system-in-python-7d42c9304d5b?source=rss------programming-5) (2026-05-06)
+- [Stop Writing PHP Interfaces You Never Actually Mock](https://medium.com/@annxsa/stop-writing-php-interfaces-you-never-actually-mock-3c043978c713?source=rss------programming-5) (2026-05-06)
+- [Spring Boot Is Not Magic. It Is Structure Disguised as Simplicity](https://medium.com/@rupanprasai/spring-boot-is-not-magic-it-is-structure-disguised-as-simplicity-61db23bdb801?source=rss------programming-5) (2026-05-06)
 
 </details>
 
@@ -130,11 +131,11 @@
 <details>
 <summary>🔵 Azure Blog</summary>
 
+- [Azure IaaS: Defense in depth built on secure-by-design principles](https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/) (2026-05-04)
 - [Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM](https://azure.microsoft.com/en-us/blog/enforcing-trust-and-transparency-open-sourcing-the-azure-integrated-hsm/) (2026-04-30)
 - [Microsoft named a Leader in the IDC MarketScape: Worldwide API Management 2026 Vendor Assessment](https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/) (2026-04-28)
 - [Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local](https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/) (2026-04-27)
 - [OpenAI’s GPT-5.5 in Microsoft Foundry: Frontier intelligence on an enterprise ready platform](https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/) (2026-04-23)
-- [Microsoft Discovery: Advancing agentic R&D at scale](https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/) (2026-04-22)
 
 </details>
 
@@ -425,11 +426,11 @@ https://www.twilio.com/en-us/blog/partners/integrations/spoke-voice-ai-for-growt
 <details>
 <summary>🔷 Prisma Blog</summary>
 
+- [Introducing Create-Prisma: Start a Prisma App With One Command](https://www.prisma.io/blog/introducing-create-prisma) (2026-05-06)
 - [You Don't Need Redis, Postgres Already Has Pub/Sub](https://www.prisma.io/blog/you-dont-need-redis-postgres-already-has-pub-sub) (2026-05-04)
 - [TypeScript Migrations in Prisma Next](https://www.prisma.io/blog/typescript-migrations-in-prisma-next) (2026-04-27)
 - [MongoDB Without Compromise](https://www.prisma.io/blog/mongodb-without-compromise) (2026-04-13)
 - [Announcing Query Insights For Prisma Postgres](https://www.prisma.io/blog/announcing-query-insights-for-prisma-postgres) (2026-04-09)
-- [Agentic Engineering: How Prisma Builds with AI](https://www.prisma.io/blog/how-prisma-build-with-agentic-ai) (2026-03-30)
 
 </details>
 
@@ -452,17 +453,6 @@ https://www.twilio.com/en-us/blog/partners/integrations/spoke-voice-ai-for-growt
 - [GraphQL Foundation Budget Report, 2025-2026](https://graphql.org/blog/2026-04-09-graphql-foundation-budget-2026) (2026-04-09)
 - [Announcing GraphQL Days 2026](https://graphql.org/blog/2026-04-02-graphql-day-2026) (2026-04-02)
 - [A new era for GraphQL observability](https://graphql.org/blog/2026-04-01-a-new-era-for-graphql-observability) (2026-04-01)
-
-</details>
-
-<details>
-<summary>🚀 Apollo GraphQL</summary>
-
-- [Apollo is Recognized in Gartner® Voice of the Customer ](https://www.apollographql.com/blog/apollo-is-recognized-in-gartner-voice-of-the-customer) (2026-04-29)
-- [View Operational Insights Within the GraphOS Platform API](https://www.apollographql.com/blog/view-operational-insights-within-the-graphos-platform-api) (2026-04-13)
-- [Your AI Agent Doesn’t Need to Research. It Needs to Know.](https://www.apollographql.com/blog/your-ai-agent-doesnt-need-to-research-it-needs-to-know) (2026-04-07)
-- [How to Orchestrate Multiple APIs for Your LLM Agent](https://www.apollographql.com/blog/how-to-orchestrate-multiple-apis-for-your-llm-agent) (2026-03-26)
-- [How To Make Your Existing GraphQL API AI-Ready With Apollo](https://www.apollographql.com/blog/how-to-make-your-existing-graphql-api-ai-ready-with-apollo) (2026-03-19)
 
 </details>
 
@@ -491,11 +481,7 @@ https://www.twilio.com/en-us/blog/partners/integrations/spoke-voice-ai-for-growt
 <details>
 <summary>💬 Slack API</summary>
 
-- [Best Workflow Management Tools to Try in 2026](https://slack.com/blog/collaboration/best-workflow-management) (2026-05-01)
-- [How to Build the Ideal Work Environment](https://slack.com/blog/collaboration/creating-the-ideal-work-environment) (2026-04-30)
-- [12 Best AI Automation Tools for 2026](https://slack.com/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows) (2026-04-30)
-- [What is Time Management? Strategies for Success](https://slack.com/blog/productivity/what-is-time-management-strategies-for-success) (2026-04-30)
-- [Eight Best Collaboration Tools for Teams in 2026](https://slack.com/blog/collaboration/best-collaboration-tools) (2026-04-30)
+
 
 </details>
 
@@ -535,22 +521,11 @@ https://www.twilio.com/en-us/blog/partners/integrations/spoke-voice-ai-for-growt
 <details>
 <summary>🤗 Hugging Face</summary>
 
-- [AI evals are becoming the new compute bottleneck](https://huggingface.co/blog/evaleval/eval-costs-bottleneck) (2026-04-29)
 - [Granite 4.1 LLMs: How They’re Built](https://huggingface.co/blog/ibm-granite/granite-4-1) (2026-04-29)
 - [DeepInfra on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/inference-providers-deepinfra) (2026-04-29)
 - [Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents](https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence) (2026-04-28)
 - [How to build scalable web apps with OpenAI's Privacy Filter](https://huggingface.co/blog/openai-privacy-filter-web-apps) (2026-04-27)
-
-</details>
-
-<details>
-<summary>🤖 AI News</summary>
-
-- [Physical AI raises governance questions for autonomous systems](https://www.artificialintelligence-news.com/news/physical-ai-governance-autonomous-systems/) (2026-05-04)
-- [Google made agentic AI governance a product. Enterprises still have to catch up.](https://www.artificialintelligence-news.com/news/agentic-ai-governance-enterprise-readiness-google/) (2026-05-04)
-- [SAP: How enterprise AI governance secures profit margins](https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/) (2026-05-01)
-- [Per-token AI charges come to GitHub Copilot](https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/) (2026-05-01)
-- [What LG and NVIDIA’s talks reveal about the future of physical AI](https://www.artificialintelligence-news.com/news/what-lg-and-nvidia-talks-reveal-future-of-physical-ai/) (2026-04-30)
+- [DeepSeek-V4: a million-token context that agents can actually use](https://huggingface.co/blog/deepseekv4) (2026-04-24)
 
 </details>
 
