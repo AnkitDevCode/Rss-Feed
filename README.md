@@ -20,22 +20,22 @@
 <details>
 <summary>🚀 TechCrunch</summary>
 
+- [Five architects of the AI economy explain where the wheels are coming off](https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/) (2026-05-07)
 - [A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom](https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/) (2026-05-06)
 - [Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.](https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/) (2026-05-06)
 - [Snap says its $400M deal with Perplexity ‘amicably ended’](https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/) (2026-05-06)
 - [Is xAI a neocloud now?](https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/) (2026-05-06)
-- [Insurance startup Corgi hits $1.3B valuation 4 months after its Series A](https://techcrunch.com/2026/05/06/insurance-startup-corgi-hits-1-3b-valuation-4-months-after-its-series-a/) (2026-05-06)
 
 </details>
 
 <details>
 <summary>💻 Hacker News</summary>
 
-- [The Vatican's Website in Latin](https://www.vatican.va/latin/latin_index.html) (2026-05-07)
-- [The Old Guard: Confronting America's Gerontocratic Crisis](https://harpers.org/archive/2026/05/the-old-guard-samuel-moyn-gerontocracy/) (2026-05-07)
-- [ADT says customer data stolen in cyber intrusion](https://therecord.media/ADT-data-breach-cyberattack) (2026-05-06)
-- [SQLite Is a Library of Congress Recommended Storage Format](https://sqlite.org/locrsf.html) (2026-05-06)
-- [Show HN: PHP-fts – Full-text search engine in pure PHP, no extensions](https://github.com/olivier-ls/php-fts) (2026-05-06)
+- [Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs](https://github.com/darkrishabh/agent-skills-eval) (2026-05-07)
+- [Building the TD4 4-Bit CPU](https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html) (2026-05-07)
+- [ProgramBench: Can Language Models Rebuild Programs from Scratch?](https://arxiv.org/abs/2605.03546) (2026-05-07)
+- [Diskless Linux boot using ZFS, iSCSI and PXE](https://aniket.foo/posts/20260505-netboot/) (2026-05-07)
+- [Permacomputing Principles](https://permacomputing.net/principles/) (2026-05-07)
 
 </details>
 
@@ -97,22 +97,22 @@
 <details>
 <summary>👨‍💻 Dev.to</summary>
 
-- [We Have Code Review. We Need Intent Review.](https://dev.to/huoru/we-have-code-review-we-need-intent-review-1i38) (2026-05-07)
-- [Windsurf AI Pricing 2026: Free, Pro, Teams, and Enterprise Plans Explained](https://dev.to/techsifted/windsurf-ai-pricing-2026-free-pro-teams-and-enterprise-plans-explained-e0c) (2026-05-07)
-- [Vector Databases Explained: What They Don’t Tell You](https://dev.to/vektor_memory_43f51a32376/vector-databases-explained-what-they-dont-tell-you-1nkg) (2026-05-07)
-- [Day 16 of my 100 Days of Solana](https://dev.to/bettyafolabi/day-16-of-my-100-days-of-solana-2bga) (2026-05-07)
-- [Voice and Camera Input in React: Speech Recognition, Media Devices, and Permissions](https://dev.to/childrentime/voice-and-camera-input-in-react-speech-recognition-media-devices-and-permissions-4i9n) (2026-05-07)
+- [Reproducible Builds: The Only Way to Verify Your Software Wasn't Tampered With](https://dev.to/havenmessenger/reproducible-builds-the-only-way-to-verify-your-software-wasnt-tampered-with-31h) (2026-05-07)
+- [Dart Library and CLI Project](https://dev.to/niamtokik/dart-library-and-cli-project-30k1) (2026-05-07)
+- [Storing Terraform State in Google Cloud Storage](https://dev.to/abrahamparn/storing-terraform-state-in-google-cloud-storage-14de) (2026-05-07)
+- [Building Translation Workflows for Medical Device Documentation: A Developer's Guide to MDR Compliance](https://dev.to/diogoheleno/building-translation-workflows-for-medical-device-documentation-a-developers-guide-to-mdr-50f6) (2026-05-07)
+- [VS Code Agent Mode in 2026: Companion App and MCP](https://dev.to/jangwook_kim_e31e7291ad98/vs-code-agent-mode-in-2026-companion-app-and-mcp-4m4n) (2026-05-07)
 
 </details>
 
 <details>
 <summary>✍️ Medium - Programming</summary>
 
-- [19 January 2038: The Silent Timestamp Failure That Could Break Legacy Systems](https://medium.com/@kaushalsadhu/19-january-2038-the-silent-timestamp-failure-that-could-break-legacy-systems-ffe91fcd460f?source=rss------programming-5) (2026-05-07)
-- [How to Call JavaScript Functions with the OpenAI SDK (Function Calling)](https://medium.com/@somendradev23/how-to-call-javascript-functions-with-the-openai-sdk-function-calling-467ddfd68248?source=rss------programming-5) (2026-05-07)
-- [Stuck Picking Stocks? Composite Ranking + 6 Quick Sort Presets](https://medium.com/@k1song723/stuck-picking-stocks-composite-ranking-6-quick-sort-presets-ce973085678c?source=rss------programming-5) (2026-05-07)
-- [BERT Was 2.5x](https://medium.com/@lekhana.sandra/bert-was-2-5x-81781607b686?source=rss------programming-5) (2026-05-07)
-- [Go Is the Language I Wish I Had Learned Before Python. Here is Why](https://medium.com/@devlogicwrites/go-is-the-language-i-wish-i-had-learned-before-python-here-is-why-c913c099019a?source=rss------programming-5) (2026-05-07)
+- [✨ Rails 8 — The Upgrade That Feels Like Magic ](https://rajputlakhveer.medium.com/rails-8-the-upgrade-that-feels-like-magic-cb8a65c09627?source=rss------programming-5) (2026-05-07)
+- [Tutorials Are a Trap. I Learned More in One Month of Building Than a Year of Courses.](https://kgabeci.medium.com/tutorials-are-a-trap-i-learned-more-in-one-month-of-building-than-a-year-of-courses-c2196845f6a4?source=rss------programming-5) (2026-05-07)
+- [How to Work Smarter with AI?](https://medium.com/@aizaashfaq2218/how-to-work-smarter-with-ai-bb783474f364?source=rss------programming-5) (2026-05-07)
+- [Why String is Immutable in Java?](https://medium.com/@priyaranjanpatraa/why-string-is-immutable-in-java-95d1de11c0c7?source=rss------programming-5) (2026-05-07)
+- [React+AI:Building Intelligent web applications in 2026 give big detailed content in this topic](https://medium.com/@arunprakashsekar2005/react-ai-building-intelligent-web-applications-in-2026-give-big-detailed-content-in-this-topic-154b54ceea74?source=rss------programming-5) (2026-05-07)
 
 </details>
 
@@ -487,11 +487,11 @@ https://www.twilio.com/en-us/blog/partners/integrations/spoke-voice-ai-for-growt
 <details>
 <summary>💬 Slack API</summary>
 
-- [Essential Leadership Communication Skills: Learn from Four Powerful Examples](https://slack.com/blog/collaboration/effective-leadership-communication-examples) (2026-05-05)
-- [12 Coaching Skills for Effective Leadership](https://slack.com/blog/collaboration/12-coaching-skills-for-effective-leadership) (2026-05-04)
-- [Synchronous vs. Asynchronous Work: Which Approach Is Right for Your Team](https://slack.com/blog/collaboration/synchronous-vs-asynchronous) (2026-05-04)
-- [Best AI Writing Tools for 2026](https://slack.com/blog/productivity/best-ai-writing-tools) (2026-05-04)
-- [Concept Mapping: A Practical Guide for Teams](https://slack.com/blog/collaboration/concept-mapping-a-practical-guide-for-teams) (2026-05-04)
+- [Best Workflow Management Tools to Try in 2026](https://slack.com/blog/collaboration/productivity-workflow-management-tools) (2026-05-01)
+- [How to Build the Ideal Work Environment](https://slack.com/blog/collaboration/creating-the-ideal-work-environment) (2026-04-30)
+- [12 Best AI Automation Tools for 2026](https://slack.com/blog/productivity/9-best-ai-automation-tools-to-automate-tasks-and-streamline-workflows) (2026-04-30)
+- [What is Time Management? Strategies for Success](https://slack.com/blog/productivity/what-is-time-management-strategies-for-success) (2026-04-30)
+- [Eight Best Collaboration Tools for Teams in 2026](https://slack.com/blog/collaboration/best-collaboration-tools) (2026-04-30)
 
 </details>
 
@@ -564,7 +564,7 @@ https://www.twilio.com/en-us/blog/partners/integrations/spoke-voice-ai-for-growt
 <details>
 <summary>📈 Analytics Vidhya</summary>
 
-- [Anthropic’s 10 AI Agents are Redefining Finance Work](https://www.analyticsvidhya.com/blog/2026/05/claude-finance-agents/) (2026-05-06)
+- [Anthropic’s 10 AI Agents are Redefining Finance Work](https://www.analyticsvidhya.com/blog/2026/05/claude-finance-solutions/) (2026-05-06)
 - [Gemini API File Search: The Easy Way to Build RAG](https://www.analyticsvidhya.com/blog/2026/05/gemini-api-file-search/) (2026-05-06)
 - [Top 10 Open-Source Libraries to Fine-Tune LLMs Locally](https://www.analyticsvidhya.com/blog/2026/05/open-source-libraries-to-fine-tune-llm-locally/) (2026-05-05)
 - [ML Intern in Practice: From Prompt to a Shipped Hugging Face Model ](https://www.analyticsvidhya.com/blog/2026/05/ml-intern-from-prompt-to-a-shipped-hugging-face-model/) (2026-05-04)
